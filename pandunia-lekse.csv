@@ -347,13 +347,13 @@ boron|mate|B||boron||boro|||||||||||||boro|boori|bor
 bosnia|dex|BA||Bosnia and Herzegovina||Bosnia y Herzegovina||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
 bota||||sail||navegar (ir en bote)|||||||||||||boatumi|veneillä|żeglować (płynąć)
 bote|||spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|boat (ship)|bateau|barco (bote)|barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||boato (ŝipo)|vene (laiva)|łódź, statek
+botele|||eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|bottle|bouteille|botella|garrafa (botelha)|бутылка||瓶|瓶|병|chai|शीशी (बोतल)|বোতল|botol|chupa|şişe|botelo|pullo|butelka
 boter||||sailer||velero||||||||||||||veneilijä|żeglarz (marynarz)
-botkaper||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (korsarz)
-botlefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
-botole|||eng:bottle, may:botol|bottle||botella|||||||||||||botelo|pullo|butelka
+botokaper||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (korsarz)
+botolefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
 botone|||eng:button, spa:botón, por:botão, fra:bouton, jpn:ボタン (botan), tgl:butones, hin:बटन (baṭan), urd:(baṭan), ben;বোতাম (botam)|button|bouton|botón|botão|пуговица||扣子||||बटन||kancing||düğme|butono|nappi|guzik
-botraite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
-botxefe||||captain||capitán||||||||||||||kapteeni|kapitan
+botoraite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
+botoxefe||||captain||capitán||||||||||||||kapteeni|kapitan
 boya||||float (swim)|nagar (flotter)|nadar (flotar)|nadar (flutuar)|плавать||漂浮|泳ぐ (浮く)||||||||||
 boye|||eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), jpn:ブイ (bui), kor:부표 (bupyo)|float (buoy, bobber)||flotador (boya)||поплавок (буй)|||フロート (ブイ)||||||||||
 brauza||||explore (browse)||explorar||исследовать|||探る, 探検する||||||||||
@@ -501,8 +501,8 @@ danke|||eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|thanks (t
 danosekuri||||bulletproof||antibalas||||||||||||||luodinkestävä|kuloodporny
 danse|||eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|dance|dance|baile (danza)|baile (danza)|танец||||||||tari||dans|danco|tanssi|taniec
 dante||||tooth||diente|||||||||||||dento|hammas|ząb
-dantbroxe||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
-dantmediker||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
+dantobroxe||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
+dantomediker||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
 darba||||strike (punch)||golpear (pegar)|||||||||||||bati|lyödä (iskeä)|bić, uderzyć, uderzać
 darje|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|step (degree, rank, grade, level, class)||paso (grado, nivel, rango, calidad, categoría)||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
 darji||||gradual|||||||||||||||||
@@ -555,8 +555,8 @@ demi||||public||público||||||||||||||julkinen (kansan-)|publiczny
 demkrati||||democratic||democrático|||||||||||||demokratia|demokraattinen|demokratyczny
 demkratia|||eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|democracy||democracia|||||||||||||demokratio|demokratia|demokracja
 demkratiste||||democrati||demócrata||||||||||||||demokraatti|demokrata
-demmultia||||population|||||||||||||||||
 demografia||||demography||demografía|||||||||||||demografio|väestötiede (demografia)|demografia
+demomultia||||population|||||||||||||||||
 demone||||demon||demonio|||||悪魔||||||||demono|demoni (piru)|demon
 den (dene)|||hin:दिन (din), ben:দিন (din), rus:день (deń), yue:天 (tin), zho:天 (tiān)|day (daytime)||día (durante el día)|||||日||||||||tago|päivä|dzień
 denga|||zho:等 (děng),  yue:等 (dang2)|wait||esperar|||||||||||||atendi|odottaa|czekać
@@ -816,7 +816,7 @@ firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरो�
 fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetation)||planta (vegetación)|||||||||||||planto|kasvi|roślina, sadzonka
 fitlojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
 fixe|||eng:fish, deu:Fisch|fish||pez (pescado)|||||||||||||fiŝo|kala|ryba
-fixsaider||||fisher|pêcheur|pescador|pescador|рыбак (рыболов)|صياد‎|鱼夫|漁師|낚시꾼 (어부)||||||balıkçı|fiŝkaptisto|kalastaja|rybak
+fixosaider||||fisher|pêcheur|pescador|pescador|рыбак (рыболов)|صياد‎|鱼夫|漁師|낚시꾼 (어부)||||||balıkçı|fiŝkaptisto|kalastaja|rybak
 fixtanke||||fish tank||acuario (pecera)||||||||||||||akvaario|akwarium
 fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
 fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
@@ -843,6 +843,17 @@ forta||||strengthen (reinforce)|||||||||||||||||
 forti|||fra:fort, spa:fuerte, por:forte, eng:force|strong||fuerte|||||||||||||forta|voimakas (vahva)|silny
 fortia||||force (strength, power)||fuerza|||||||||||||forto|voima|siła
 forum (forume)||||forum (public space)||foro (espacio público)|||||||||||||forumo|foorumi|forum
+fote||||light (illumination)|lumière|luz (iluminación)|luz|свет|نور‎|光|光|빛 (광)|ánh sáng|प्रकाश (रौशनी)|আলো|cahaya (nur)|mwanga (nuru)|ışık|lumo|valo|światło, oświetlenie
+foti||||light (bright)||claro (luminoso)|||||||||||||luma|valoisa|jasny, świetlny
+fotobatone||||torch||antorcha|||||||||||||torĉo|soihtu|pochochodnia (latarka)
+fotocirke||||halo (aureola)||halo (aureola)|||||||||||||halo|sädekehä (halo)|efekt halo
+fotofrika||||polish|poli|pulir (lustrar)||полировать||擦亮|光沢||||||||||
+fotografe|||eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|photograph|photographie|foto (fotografía)|foto (fotografia)||| 照片 (相片)|写真|사진|hình|फ़ोटो|ফটো|foto||fotoğraf|foto|valokuva (foto)|zdjęcie (fotografia)
+fotografer||||photographer||fotógrafo|||||||||||||fotisto|valokuvaaja|fotograf
+fotografia||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|fotografia
+fotografmaxine||||camera||cámara|||||||||||||fotilo|kamera|kamera, aparat fotograficzny
+fotominare||||beacon (lighthouse)|fanal (balise)|faro (baliza, almenara)|farol (baliza)|маяк||信号|狼煙 (ビーコン)||||||||||
+fotorade||||ray of light||rayo luminoso||||||||||||||valonsäde|promień światła
 fransi krepe|yame|||crepe|crêpe|crepa (crep, tortilla de trigo)|crepe||||||||||||franca krepo|kreppi|francuski naleśnik (crêpe)
 fransi polinesia|dex|PF||French Polynesia||Polinesia Francesa||||||||||||||Ranskan Polynesia|Polinezja Francuska
 fransia|dex|FR||France||Francia|||||||||||||Francio|Ranska|Francja
@@ -864,16 +875,16 @@ furete|||fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feret
 furi||||angry (furious)||enojado (furioso)||||||||||||||vihainen (suuttunut)|zły (wsciekły, gniewny)
 furia|||eng:fury, spa:pol:furia, por:fúria|anger (fury, rage, wrath)||ira (furia)|||||||||||||kolero (furiozo)|viha (suuttumus, raivo)|gniew, furia
 futawe|||tgl:puthaw, zho:斧头 (fǔtóu), yue:斧頭 (futau), nan:斧頭 (pú-thâu)|axe (hatchet)||hacha||||||||||||||kirves|siekera, topór
-futbole|||eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|football (soccer)|football|fútbol|futebol|футбол|||フットボール|||फ़ुटबॉल|||||piedpilko|jalkapallo|piłka nożna
 fute|badan|||foot||pie (pata)|||||||||||||piedo|jalka (jalkaterä)|stopa
 futobanze||||scaffolding (gangplank)||andamiaje|||||足場||||||||||
-futxake|badan|||leg|||||||||||||||||
+futobole|||eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|football (soccer)|football|fútbol|futebol|футбол|||フットボール|||फ़ुटबॉल|||||piedpilko|jalkapallo|piłka nożna
+futoxake|badan|||leg|||||||||||||||||
 fuy||||bah! (yuck!)||puaj|||||||||||||bah!|hyi! (pyh!)|fu, fuj
+gabra||||bury|enterrer|enterrar|enterrar|хоронить||埋葬|葬る (埋葬する)||||||||enterigi|haudata|
+gabre|||ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, swa:kaburi, tur:kabir, deu:Grab, pol:grób, rus:гроб (grob)|grave (tomb)|tombe|tumba (sepultura)|sepultura (túmulo)|могила (гроб)||坟墓|墓|무덤|mộ (phần mộ)|क़ब्र|কবর|kubur|kaburi|mezar (kabir)|tombo|hauta|grób (mogiła, grobowiec)
+gabristan||||graveyard|cimetière|cementerio|cemitério|кладбище|مقبرة‎|公墓 (墓地)|墓 (墓地)|묘지|nghĩa trang|क़ब्रिस्तान|কারবালা|pekuburan|makaburi|mezarlık (kabristan, mezaristan)|tombejo|hautausmaa|cmentarz
+gabroseke||||tombstone (gravestone)|pierre tombale|lápida|lápide|надгробие||墓石 (墓碑)|墓石 (墓碑)|묘석|bia mộ|कब्र का पत्थर||batu nisan||mezartaşı|tomboŝtono|hautakivi|nagrobek
 gabunia|dex|GA||Gabon||Gabón||||||||||||||Gabon|Gabon
-gabura||||bury|enterrer|enterrar|enterrar|хоронить||埋葬|葬る (埋葬する)||||||||enterigi|haudata|
-gabure|||ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, swa:kaburi, tur:kabir, deu:Grab, pol:grób, rus:гроб (grob)|grave (tomb)|tombe|tumba (sepultura)|sepultura (túmulo)|могила (гроб)||坟墓|墓|무덤|mộ (phần mộ)|क़ब्र|কবর|kubur|kaburi|mezar (kabir)|tombo|hauta|grób (mogiła, grobowiec)
-gaburistan||||graveyard|cimetière|cementerio|cemitério|кладбище|مقبرة‎|公墓 (墓地)|墓 (墓地)|묘지|nghĩa trang|क़ब्रिस्तान|কারবালা|pekuburan|makaburi|mezarlık (kabristan, mezaristan)|tombejo|hautausmaa|cmentarz
-gaburseke||||tombstone (gravestone)|pierre tombale|lápida|lápide|надгробие||墓石 (墓碑)|墓石 (墓碑)|묘석|bia mộ|कब्र का पत्थर||batu nisan||mezartaşı|tomboŝtono|hautakivi|nagrobek
 gade|||hin:गधा (gadhā), ben:গাধা (gadha), guj:ગધેડો (gadheḍo), tel:(gāḍida), tam:(kaḻutai), may:keledai, + yor:ké̩té̩ké̩té̩|donkey (ass)||burro (asno)|||||||||||||azeno|aasi|osioł
 gadolinium|mate|Gd||gadolinium||gadolinio|||||||||||||gadolinio|gadolinium|gadolin
 gaje|||hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|elephant||elefante|||||||||||||elefanto|norsu (elefantti)|słoń
@@ -956,6 +967,12 @@ gotone|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton
 governa||||govern||gobernar|||||治める (司る)||||||||||rządzić
 governe|||eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|government|gouvernement|gobierno|governo|||政府|政府||||||||||rząd
 gowa||||go||ir|||||行く||||||||iri|mennä|iść (przemieścić się)
+grafa||||draw||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
+grafbuke||||picture book||libro de cuentos ilustrado||||||||||||||kuvakirja|książka z obrazkami
+grafe|||eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)|drawing (graph, image)||imagen (gráfico, dibujo)|||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
+grafer||||illustrator (graphic artist)||ilustrador||||||||||||||graafikko|ilustrator, grafik
+grafi||||graphic (pictorial)||gráfico (pictórico, ilustrado)|||||||||||||grafika (bilda)|graafinen|obrazowy, graficzny; opisowy
+grafsage||||comic (cartoon)|bande dessinée|historieta (caricaturas)|quadrinhos (banda desenhada)|комикс||漫画|漫画||||||||bildrakonto|sarjakuva|komiks; kreskówka
 grame|unomete|g||gram (g)||gramo (g)|||||||||||||gramo|gramma|gram
 granite|||eng:fra:granite, spa:por:granito, rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)|granite|granit|granito|granito|гранит||花岗石|花崗岩||||||||||
 grase|||eng:grass, hin:घास (ghās)|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
@@ -1084,10 +1101,10 @@ ho ci ming site||||Ho Chi Minh City (Saigon)|||||||||Thành phố Hồ Chí Minh
 hobe||||hobby||pasatiempo (hobby, afición)|||||||||||||hobio|harrastus|hobby
 hoke|||eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|hockey|hockey|hockey|hóquei|хоккей||曲棍球|ホッケー|khúc côn cầu||हाकी|হকি|hoki||hokey|hokeo|hockey (jääkiekko)|hokej
 holere||||cholera||cólera||||||||||||||kolera|cholera
+holgrafe||||hologram||holograma||||||||||||||hologrammi|hologram
 holi||||whole (entire)||entero (todo)||||||||||||||koko (kokonainen)|cały
 holia||||wholeness (integrity)||totalidad (integridad)|||||||||||||||
 holmium|mate|Ho||holmium||holmio|||||||||||||holmio|holmium|holm
-holsure||||hologram||holograma||||||||||||||hologrammi|hologram
 hondurasia|dex|HN||Honduras||Honduras|||||||||||||Honduro|Honduras|Honduras
 hongong|dex|HK||Hong Kong, SAR China||Hong Kong||||||||||||||Hong Kong|Hong Kong
 honi||||hundred (100)||cien (100)|||||百 (１００)||||||||cent|sata (100)|sto (100)
@@ -1113,8 +1130,8 @@ ibri||||Hebrew||hebreo|||||||||||||Hebrea|heprea|hebrajski
 ica||||will (want)||querer (disponer)||||||||||||||tahtoa|chcieć (pragnąć)
 ice|||vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|will (volition, desire)||voluntad|||||||||||||volo|tahto|wola, chęć
 ideye|||fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định|idea (concept, notion)||idea (noción, concepto)|||||||||||||ideo|käsite (idea)|idea, pomysł
+ideygrafe||||ideogram||ideograma||||||||||||||ideogrammi|ideogram
 ideyi||||conceptual||conceptual||||||||||||||käsitteellinen|pojęciowy
-ideysure||||ideogram||ideograma||||||||||||||ideogrammi|ideogram
 idiote|||eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|idiot||idiota (imbécil)||||||||||||||typerys (idiootti)|idiota
 idioti||||stupid (idiotic)||estúpido (tonto)||||||||||||||tyhmä (hölmö)|głupi (idiotyczny)
 idiotia||||idiocy (stupidity)||estupidez (tontería)||||||||||||||tyhmyys (typeryys)|idiotyzm (głupota)
@@ -1226,12 +1243,6 @@ jenu||||be born||nacer|||||||||||||naski|syntyä|urodzić się, rodzić się
 jenxene||||ginseng||ginseng||||||||||||||ginseng|żeń-szeń
 jersia|dex|JE||Jersey||Jersey||||||||||||||Jersey|Jersey
 jeste||||gesture||gesto||||||||||||||ele|gest
-jeta|||fra:jeter, ita:gettare, eng:eject, por:ejetar|throw (launch)||tirar (lanzar, echar, arrojar, aventar)|||||||||||||ĵeti (lanĉi)|heittää (paiskata)|rzucić, rzucać, miotać, cisnąć, ciskać
-jeti||||projectile (thrown)|||||||||||||||||
-jetsura||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)||||||||heijastaa kuvia (projisoida)||wyświetlać
-jetsure||||projection (image)|projection|proyección|projeção|||投影|投影||||||||projektio (diakuva)||rzut (projekcja)
-jetsurer||||image projector||proyector|||||||||||||projektori (videotykki, piirtoheitin)||projektor (rzutnik)
-jetvute||||projectile (missile)|projectile|proyectil (misil)|projétil|снаряд||投掷物|飛翔体 (矢玉)||||||||||
 jibraltar|dex|GI||Gibraltar||Gibraltar||||||||||||||Gibraltar|Gibraltar
 jibutia|dex|DJ||Djibouti||Yibuti||||||||||||||Djiboutia|Dżibuti
 jina|||zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|advance (progress, enter)||avanzar (entrar, adelantar, progresar)||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
@@ -1605,6 +1616,12 @@ lala|||swa:-lala|lay (lay down)||acostar (poner)|||||横たえる||||||||kuŝi|m
 lalu||||lie (lie down)||acostarse (echarse, tenderse, tumbarse)|||||寝転ぶ||||||||||
 lampe|||fra:deu:lampe, eng:lamp, may:lampu|lamp||lámpara|||||||||||||lampo|lamppu|lampa
 lana||||curse (swear)||maldecir|||||呪う||||||||||
+lanca|||eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|throw (launch)||tirar (lanzar, echar, arrojar, aventar)|||||||||||||ĵeti (lanĉi)|heittää (paiskata)|rzucić, rzucać, miotać, cisnąć, ciskać
+lanci||||projectile (thrown)|||||||||||||||||
+lancografa||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)||||||||heijastaa kuvia (projisoida)||wyświetlać
+lancografe||||projection (image)|projection|proyección|projeção|||投影|投影||||||||projektio (diakuva)||rzut (projekcja)
+lancografer||||image projector||proyector|||||||||||||projektori (videotykki, piirtoheitin)||projektor (rzutnik)
+lancovute||||projectile (missile)|projectile|proyectil (misil)|projétil|снаряд||投掷物|飛翔体 (矢玉)||||||||||
 lane|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|curse (damn!)|malédiccion|maldición|maldição|проклятие||诅咒|呪い (たたり)||||||||||
 langane|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banister (handrail)||barandilla (pasamanos)||||||||||||||kaide (reelinki)|poręcz (balustrada)
 lankia|dex|LK||Sri Lanka (Ceylon)||Sri Lanka||||||||||||||Sri Lanka|Sri Lanka
@@ -1978,9 +1995,9 @@ modele||||model (design)||modelar||||||||||||||malli|model, wzór, wzorzec, proj
 modolekse||||adverb||adverbo||||||||||||||adverbi|przysłówek
 moge|||zho:墨 (mò), vie:mực, tha:หมึก (muk)|ink||tinta|||||||||||||inko|muste|tusz
 moke|||zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|tree|arbre|árbol|árvore|дерево|شجر‎|树木|木|나무|cây|पेड़|গাছ (বৃক্ষ)|pohon (pokok)|mti|ağaç|arbo|puu|drzewo
-mokjanger||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
-mokjongparke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
-mokmate||||wood (timber)||madera||||木材|||||||||ligno|puuaines|drewno
+mokojanger||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
+mokojongparke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
+mokomate||||wood (timber)||madera||||木材|||||||||ligno|puuaines|drewno
 mola||||grind (grind in mill)||moler (pulverizar)||||||||||||||jauhaa myllyssä|zemleć, mleć, mielić
 moldovia|dex|MD||Moldova||Moldova||||||||||||||Moldova|Mołdawia
 mole|unomete|mol||mole (unit)|mole (unité)|mol|mol|||摩尔 (单位)|モル||||||||||mol
@@ -1992,7 +2009,6 @@ molseke||||grindstone|||||||||||||||||
 moluske|||eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|mollusk||molusco||моллюск||||||||moluska|||molusko|nilviäinen|mięczak (morski bezkręgowiec)
 mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
 monakia|dex|MC||Monaco||Mónaco||||||||||||||Monaco|Monako
-mondewistia||||monotheism||monoteismo||||||||||||||monoteismi (yksijumalisuus)|monoteizm
 mongoli||||Mongol||mongol|||||||||||||mongola|mongoli|Mongolski
 mongolia|dex|MN||Mongolia||Mongolia|||||||||||||Mongolio|Mongolia|Mongolia
 monistia||||monism||monismo|||||||||||||monismo|monismi|monizm
@@ -2001,14 +2017,14 @@ monloge||||monolog||monólogo||||||||||||||yksinpuhelu (monologi)|monolog
 mono|||ell:μόνος (monos), eng:deu:fra:por:spa:mono-|only (alone, solely, just)||solo|||||||||||||nur|vain (ainoastaan)|tylko
 monster||||monster||monstro|||||||||||||monstro|hirviö|potwór, monstrum
 monvejetyamiste||||vegan||vegano||||||||||||||vegaani|weganin (weganka)
-more||||death||muerte (fallecimiento)|||||||||||||morto|kuolema (kuolo)|śmierć
-morer||||killer||asesino|||||||||||||mortigisto|tappaja|zabójca
 morfe||||morph||morfo||||||||||||||morfi|morf
 morfeme||||morpheme||morfema||||||||||||||morfeemi|morfem
-mori|||por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)|dead (deceased)||muerto|||||||||||||morta|kuollut (vainaa)|martwy, nieżywy, zabity
 morisia|dex|MU||Mauritius||Mauricio||||||||||||||Mauritius|Mauritius
 morta||||kill||matar (morir, asesinar)|||||||||||||mortigi|tappaa|zabić, zabijać
-moru||||die||morirse||||||||||||||kuolla|umrzeć, umierać
+morte||||death||muerte (fallecimiento)|||||||||||||morto|kuolema (kuolo)|śmierć
+morter||||killer||asesino|||||||||||||mortigisto|tappaja|zabójca
+morti|||por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)|dead (deceased)||muerto|||||||||||||morta|kuollut (vainaa)|martwy, nieżywy, zabity
+mortu||||die||morirse||||||||||||||kuolla|umrzeć, umierać
 mose||||moss||musgo||||||||||||||sammal|mech
 mosime|||hin:urd:(mOsam), may:musim, ara:(mawsim), tur:mevsim, swa:msimu|season||estación (temporada)|||||||||||||sezono|vuodenaika|pora roku
 moskite||||mosquito||mosquito||||||||||||||hyttynen (sääski)|komar, moskit
@@ -2016,14 +2032,14 @@ moskove||||Moscow||||Москва|||||||||||||
 moskovium|mate|Mc||moscovium||moscovio|||||||||||||moskovio|moskovium|moskovium
 mote|||ita:moto, eng:motion|motion (movement)||movimiento|||||||||||||movo|liike|ruch
 moter||||engine (motor)||motor|||||||||||||motoro|moottori|silnik
-motergare|||eng:motorcar, sna:motokari, sot:motokara, swa:motokaa, zul:imoto, hau:mota|motorcar (automobile)||automóvil (coche)||||||||||||||auto (automobiili)|samochód (automobil)
-motersikle|||tur:motosiklet, spa:motocicleta, fra:motocyclette, eng:motorcycle, rus:мотоцикл (mototsikl), zho:摩托车 (mótuōchē)|motorcycle||motocicleta||||||||||||||moottoripyörä|motocykl (motor)
+motogare|||eng:motorcar, sna:motokari, sot:motokara, swa:motokaa, zul:imoto, hau:mota|motorcar (automobile)||automóvil (coche)||||||||||||||auto (automobiili)|samochód (automobil)
+motosikle|||tur:motosiklet, spa:motocicleta, fra:motocyclette, eng:motorcycle, rus:мотоцикл (mototsikl), zho:摩托车 (mótuōchē)|motorcycle||motocicleta||||||||||||||moottoripyörä|motocykl (motor)
 mozambikia|dex|MZ||Mozambique||Mozambique||||||||||||||Mosambik|Mozambik
 mudane|||zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:mẫu đơn|peony||peonía||||||||||||||pioni|piwonia
 muhe|||(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|cow||vaca (toro)|||||||||||||bovo|nauta (lehmä)|krowa
 muhmanse||||beef||carne de vaca|||||||||||||bovaĵo|lehmän liha|wołowina
 muke|||ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|face|visage|cara (rosto)||||||||||muka|||vizaĝo|kasvot (naama)|twarz
-mukfune||||face powder||polvo de cara||||||||||||||puuteri|puder
+mukofune||||face powder||polvo de cara||||||||||||||puuteri|puder
 mule|||hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|root|racine|raiz|raíz|корень|جَذْر|根|根|뿌리|rễ|मूल (जड़)|মূল|akar|mzizi|kök|radiko|juuri|korzeń
 multi|||por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|many||muchos|||||多い|||||||||moni (usea)|wiele
 multia||||number (abundance)||número (muchedumbre)|||||||||||||||
@@ -2085,8 +2101,8 @@ nefre|||eng:fra:nephro-, spa:por:nefro-, deu:Niere|kidney|rein|riñon|rim|поч
 nefritis||||nephritis||nefritis||||||||||||||munuaistulehdus (nefriitti)|zapalenie nerek
 nega|||spa:por:negar, eng:negate|refuse (deny, decline)||rechazar (negar)||||||||||||||kieltää|odmówić (odrzucić)
 nen (nene)|||jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|year||año|||||年||||||||jaro|vuosi|rok
-nenofeste||||anniversary||aniversario||||||||||||||vuosijuhla|rocznica
-nenomesoden|||zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|date||fecha|||||||||||||dato|päivämäärä|data
+nenfeste||||anniversary||aniversario||||||||||||||vuosijuhla|rocznica
+nenmesdene|||zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|date||fecha|||||||||||||dato|päivämäärä|data
 nenufare||||water lily (nenuphar)||nenúfar (lirio de agua)||||||||||||||lumme|lilia wodna, nenufar
 neodimium|mate|Nd||neodymium||neodimio||||||||||||||neodyymi|neodym
 neon|mate|Ne||neon||neón|||||||||||||neono|neon|neon
@@ -2178,17 +2194,6 @@ novoyangi||||modern||moderno|||||近代的||||||||||
 nudi||||naked (bare, nude)||desnudo||||||||||||||alaston (paljas, naku)|nagi, goły, obnażony
 nudiste||||nudist||nudista||||||||||||||nudisti|nudysta
 nudistia||||nudism||nudismo||||||||||||||nudismi|nudyzm
-nurbatone||||torch||antorcha|||||||||||||torĉo|soihtu|pochochodnia (latarka)
-nurcirke||||halo (aureola)||halo (aureola)|||||||||||||halo|sädekehä (halo)|efekt halo
-nure|||ara:نور‎(nūr), may:nur, swa:nuru|light (illumination)|lumière|luz (iluminación)|luz|свет|نور‎|光|光|빛 (광)|ánh sáng|प्रकाश (रौशनी)|আলো|cahaya (nur)|mwanga (nuru)|ışık|lumo|valo|światło, oświetlenie
-nurfrika||||polish|poli|pulir (lustrar)||полировать||擦亮|光沢||||||||||
-nuri||||light (bright)||claro (luminoso)|||||||||||||luma|valoisa|jasny, świetlny
-nurminare||||beacon (lighthouse)|fanal (balise)|faro (baliza, almenara)|farol (baliza)|маяк||信号|狼煙 (ビーコン)||||||||||
-nurrade||||ray of light||rayo luminoso||||||||||||||valonsäde|promień światła
-nursure||||photograph||foto (fotografía)|||||||||||||foto|valokuva (foto)|zdjęcie (fotografia)
-nursurer||||photographer||fotógrafo|||||||||||||fotisto|valokuvaaja|fotograf
-nursuria||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|fotografia
-nursurmaxine||||camera||cámara|||||||||||||fotilo|kamera|kamera, aparat fotograficzny
 nuton|unomete|N||newton (N)||newton (N)|||||||||||||newtono (N)|newton (N)|niuton (N)
 o|funce||spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
 odisi|nas|||Odia (Oriya)||oriya||||||||||||||orija (eräs intialainen kieli)|orija
@@ -2828,8 +2833,8 @@ suahili||||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 sualbardia|dex|||Svalbard||Svalbard||||||||||||||Svalbard|Swalbard
 suani|||zho:酸 (suān)|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny
 suatia|dex|SZ||Eswatini (Swaziland)||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi
-subdene||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
 sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
+subodene||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
 subyame||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
 sudafrikia|dex|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
 sudania|dex|SD||Sudan||Sudán||||||||||||||Sudan|Sudan
@@ -2869,15 +2874,9 @@ supra|coverb|||surpass (above, go over)||sobrepasar (sobre)|||||||||||||superiri
 supre||||overpass||paso elevado|||||上|||||||||ylitys|wiadukt, przejście powyżej
 supri||||upper||superior (más alto)||||||||||||||ylä- (yli-)|górny
 suprize|||eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|surprise||sorpresa||||惊奇|||||||||surprizo|yllätys|zaskoczenie
-sura||||draw||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
-surbuke||||picture book||libro de cuentos ilustrado||||||||||||||kuvakirja|książka z obrazkami
-sure|||ara:صورة (ṣūra), hau:swa:sura, fas:تصویر‎ (tasvir), hin:तसवीर (tasvīr)|drawing (graph, image)||imagen (gráfico, dibujo)|||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
-surer||||illustrator (graphic artist)||ilustrador||||||||||||||graafikko|ilustrator, grafik
-suri||||graphic (pictorial)||gráfico (pictórico, ilustrado)|||||||||||||grafika (bilda)|graafinen|obrazowy, graficzny; opisowy
 suria|dex|SY||Syria||Siria||||||||||||||Syyria|Syria
 surinami baxe||||Sranan Tongo||sranan tongo||||||||||||||sranan tongo|język surinamski
 surinamia|dex|SR||Suriname||Surinam||||||||||||||Surinam|Surinam
-sursage||||comic (cartoon)|bande dessinée|historieta (caricaturas)|quadrinhos (banda desenhada)|комикс||漫画|漫画||||||||bildrakonto|sarjakuva|komiks; kreskówka
 susane|||fas:sousan, ara:(sawsan), heb:(šōšān), + eng:Susan, por:spa:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)|lily|lys|lirio|lírio|лилия||百合花||||कुमुदिनी||lili||zambak||lilja|lilia
 suta|||hin:सीना (sīnā), rus:шить (šit'), eng:sew|sew||coser||||||||||||||ommella|szyć
 suture|||fra:eng:suture, por:spa:sutura|suture (seam)||costura (sutura)||||||||||||||sauma (ommel)|szew
@@ -3054,6 +3053,7 @@ un (uni)|||fra:un, spa:uno, por:um,una, eng:one|one (1)|un (1)|uno (1)|um (1)|о
 un ban||||once||una vez||||||||||||||kerran|raz (jeden raz)
 unale|||eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|each other (one another, mutually)||el uno al otro (se)|||||||||||||unu la alian (reciproke)|toisiaan (keskenään)|się (nawzajem, wzajemnie)
 unali||||mutual||utuo (recíproco)|||||||||||||reciproka|molemminpuolinen (keskinäinen)|wzajemny
+undewistia||||monotheism||monoteismo||||||||||||||monoteismi (yksijumalisuus)|monoteizm
 unisa||||unite||unir||||||||||||||yhdistää|jednoczyć
 unisi||||united||unido||||||||||||||yhtenäinen|zjednoczony
 unisi arabi emiria|dex|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
@@ -3352,6 +3352,6 @@ zonge|||zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vi
 zukame||||cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 zuke|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group|ethnie|etnia|etnia|этнос||民族|民族|민족|dân tộc||||||etno|kansanryhmä (etninen ryhmä)|grupa etniczna
 zuki||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민족의||||||etnik|etna|etninen|etniczny
-zukmedi||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|
+zukomedi||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|
 zuli||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
