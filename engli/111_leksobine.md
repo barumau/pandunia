@@ -9,31 +9,36 @@ Many of them come from ancient Greek, Latin, Arabic and Persian.
 
 Pandunia uses vowel endings for quick word derivation.
 In this system the final vowel of a word indicates its word class.
-So the stem of the word indicates a general idea
-and the vowel endings indicate different manifestations of that idea:
-a thing (noun), a description (modifier) and an action (verb).
+So the root (i.e. stem) of the word indicates a general idea
+and the vowel endings indicate different manifestations of that idea.
 
 Pandunia uses the following vowel endings to mark parts of speech.
 
-- **-e** marks nouns that are derived from action roots and description roots
-- **-i** indicates adjectives
-- **-o** indicates adverbs
-- **-a** indicates active verbs
-- **-u** indicates passive verbs
+- **-e** indicates a noun (a thing)
+- **-i** indicates an adjective (a description)
+- **-o** indicates an adverb (a manner or a circumstance)
+- **-a** indicates an active verb (an action)
+- **-u** indicates a passive verb (an event)
+
+They are the only true suffixes i.e. bound morphemes in Pandunia.
+All other suffixes can be used also as independent words.
+For example **paciste** (pacifist) is made up of two full words:
+**pace** (peace) and **iste** (proponent).
 
 The designated vowel endings enable easy derivation of one type of word from another.
 An ending is simply changed to another ending.
 
 - The ending -e converts the idea into a thing.
-  For example **nile** means blue color.
+  For example **nile** means the color blue.
 - The ending -i converts the idea into a description.
   The resulting modifier describes another idea with the modifying idea.
   For example **nili dome** means a blue house.
 - The ending -a converts the idea into an action.
   The resulting verb is about applying the idea to an object.
-  For example **nila dome** means _to apply blue on the house_ i.e. _to make the house blue_.
+  For example **nila dome** means "to make the house blue".
 - The ending -u creates an action just like -a.
-  The only difference is that the word order is reversed.
+  The only difference is that the word order is reversed so that the object comes first.
+  For example **dome nilu** means "the house becomes blue".
 
 All endings can be applied on all ideas in the same way.
 
@@ -41,24 +46,28 @@ Here are a few examples of different types of ideas.
 
 - concrete action
     - **kitabe** a writing (noun)
-    - **kitabi** written, textual (modifier)
+    - **kitabi** written, textual (adjective)
+    - **kitabo** by writing
     - **kitaba** to write (active verb)
-	- **kitabu** to be written (passive verb)
+    - **kitabu** to be written (passive verb)
 - abstract action
     - **fikre** a thought (noun)
-    - **fikri** thinking (modifier)
+    - **fikri** thinking (adjective)
+    - **fikro** by thinking (adverb)
     - **fikra** to think (active verb)
-	- **fikru** to be thought (passive verb)
+    - **fikru** to be thought (passive verb)
 - description
     - **longe** length (noun)
-    - **longi** long (modifier)
+    - **longi** long, lengthy (adjective)
+    - **longo** lengthily (adverb)
     - **longa** to make long, to lengthen (active verb)
-	- **longu** to get long (passive verb)
+    - **longu** to get long, to be lengthened (passive verb)
 - tool
     - **hamar** a hammer (noun)
-    - **hamari** "hammery", hammerlike (modifier)
+    - **hamari** "hammery", hammerlike (adjective)
+    - **hamaro** by/with/like a hammer
     - **hamara** to hammer, to apply hammer on sth (active verb)
-	- **hamaru** to be hammered (passive verb)
+    - **hamaru** to be hammered (passive verb)
 
 
 ### Deriving verbs
@@ -70,7 +79,7 @@ Here are a few examples of different types of ideas.
 2. If the idea is a description then its verb form will mean "to turn into that quality".
    For example from **novi** (_new_) we get **nova** (_to make new_ or _to renew_).
 3. If the idea is a thing, then its verb form will mean "to apply it to".
-   For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
+   For example from **hamare** (_hammer_) we get **hamara** (_to hammer_).
 
 
 ### Deriving nouns
@@ -126,40 +135,41 @@ It is an artistic choice by the authors of Pandunia to not require them on these
 
 ## Compound words
 
-Two or more words can be put together to make a _compound word_.
-The last word is the most meaningful word in the compound
-and the words that come before it only modify its meaning.
+Two or more roots can be put together to make a _compound word_.
+The last root is the most meaningful part in the compound
+and the roots that come before it only modify its meaning.
 
-Compound words are made of bare word stems,
-which are joined together by the linking vowel **-o-**.
+Compound words are made of bare word stems and a vowel ending.
 
-For example, this is how **kanosuy** (_tears_) is made:
+For example, this is how the word **kansuye** (_tears_) is made:
 
           kan       (eye)
        +  suy       (water)
+       +    e       (noun ending)
     ____________
-    = kanosuy       (eyewater, tear)
+    = kansuye       (eyewater, tear)
 
-And this is how **termometer** (_thermometer_) is made:
+And this is how the word **andewisti** (atheistic) is made:
 
-         terme      (temperature)  
-       + meter      (measuring device)
+           an       (negation)
+       +  dew       (god)
+       +  ist       (proponent, -ist)
+       +    i       (adjective ending)
+   _____________
+   = andewisti      (atheistic)
+
+
+If joining bare stems together would result into a difficult consonant sequence,
+a padding vowel **-o-** is inserted between them.
+
+For example, this is how **termometer** (_thermometer_) is made:
+
+         term       (temperature)
+       +    o       (padding vowel)
+       +  met       (measuring)
+       +   er       (device)
     ____________
     = termometer    (thermometer)
-
-The linking vowel **-o-** is not used when the second word begins with a vowel.
-
-          dew       (god)  
-       + iste       (proponent, -ist)
-    ____________
-    =  dewiste      (theist)
-
-The ending vowel of the first word is always dropped when a compound word is made.
-
-         pace       (peace)
-       + iste       (proponent, -ist)
-    ____________
-    =  paciste      (proponent of peace, pacifist)
 
 
 ### Common Suffixes
