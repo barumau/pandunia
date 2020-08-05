@@ -158,7 +158,6 @@ And this is how the word **andewisti** (atheistic) is made:
    _____________
    = andewisti      (atheistic)
 
-
 If joining bare stems together would result into a difficult consonant sequence,
 a padding vowel **-o-** is inserted between them.
 
