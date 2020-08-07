@@ -8,9 +8,9 @@ adalia - справедливость
 adrese - адрес  
 aga - если  
 agrese - нападение (атака)  
-airoporte - аэропорт  
-aisohoke - хокке́й с ша́йбой  
-aisokrem - мороженое  
+airporte - аэропорт  
+aishoke - хокке́й с ша́йбой  
+aiskrem - мороженое  
 ajili - подвижный  
 akse - ось  
 aksente - ударение  
@@ -24,20 +24,20 @@ ama - любить
 analiza - анализировать  
 analize - анализ  
 andesite - андезит  
+andiniste - неверующий  
 anime - оживление  
 anjile - месседж  
 anker - якорь  
+anmema - забывать  
 antene - антенна  
 anuse - анус  
+apele - яблоко  
+apelsose - яблочное пюре  
 aphazia - Абхазия  
-aple - яблоко  
-aplosose - яблочное пюре  
 arane - паук  
-arbe - дерево  
 arbuze - арбуз  
 are - площадь  
 argume - аргумент (обосновани)  
-arize - рис  
 arke - лук (арка)  
 arker - лучник  
 arte - искусство  
@@ -84,11 +84,14 @@ basene - бассейн
 basi - достаточно (довольно)  
 baskobol - баскетбол  
 batre - батарея  
+bawe - сокровище (казна)  
+bawi - драгоценный  
+bawseke - драгоценный камень  
 baxe - язык  
 baxi jinse - род в грамматике  
 bazare - рынок (базар)  
+bazbole - бейсбол  
 baze - основа (база,  фундамент)  
-bazobol - бейсбол  
 bebe - младенец  
 beker - хлебопёк (пекарь)  
 bekopote - терракота  
@@ -106,6 +109,7 @@ bombe - бомба
 bon (boni) - хороший  
 bonosinyi - благоприятный  
 bote - лодка (бот)  
+botele - бутылка  
 botolefte - левый борт  
 botone - пуговица  
 botoraite - правый борт  
@@ -117,7 +121,8 @@ bravo - браво
 bruni - коричневый  
 bufete - буфет  
 buke - книга  
-bunduka - стрелять  
+bume - взрыв  
+bumu - взрываться  
 bute - ботинок  
 ##c
 ca - из (от)  
@@ -127,6 +132,8 @@ cari - четыре (4)
 carme - шарм  
 cay (caye) - чай  
 cayokope - чайная чашка  
+cendeno - вчера  
+ceno - раньше  
 cerize - черешня  
 cerni - чёрный  
 ciani - циан  
@@ -141,16 +148,15 @@ cise - сыр
 cokolate - шоколад  
 coye - зелень  
 ##d
-dadume - взрыв  
-dadumu - взрываться  
 dalile - доказательство  
 danga - звенеть  
 danger - звонок  
 danse - танец  
+datbanke - база данных  
 date - данные  
-datobanke - база данных  
-dayosamude - океан  
-dayovaze - котёл  
+daymare - океан  
+daypawe - пушка  
+dayvaze - котёл  
 defobanze - щит  
 defokaske - доспехи  
 destine - судьба  
@@ -158,6 +164,7 @@ dew (dewe) - бог
 dike - цель  
 dinamite - динамит  
 dine - религия (вера)  
+diniste - верующий  
 diorite - диорит  
 diske - диск  
 dobe - кирпич  
@@ -185,6 +192,7 @@ esponje - губка
 esprinta - бегать (бежать)  
 ewanjile - евангелие  
 ##f
+fansoldixo - против часовой стрелки  
 fase - грань  
 fasoteli - глубокий  
 fasotelia - мелкий  
@@ -192,21 +200,26 @@ fatigia - усталость
 fatigu - устать  
 favori - любимый  
 filme - плева (фильм)  
-filosofia - философия  
+filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
-fitolojia - ботаника  
+fitlojia - ботаника  
 fixosaider - рыбак (рыболов)  
 flece - стрела (стрелка)  
 fora - сверлить (бурить)  
+fote - свет  
 fotofrika - полировать  
 fotografia - фотография  
 fotominare - маяк  
 freme - рама  
 frika - царапать  
 fule - цветок  
-futobol - футбол  
+futobole - футбол  
 ##g
+gabra - хоронить  
+gabre - могила (гроб)  
+gabristan - кладбище  
+gabroseke - надгробие  
 galaksia - галактика  
 gance - крюк  
 gandume - пшеница  
@@ -224,6 +237,7 @@ gluti - клейкий (липкий)
 glutopote - глина  
 gole - цель  
 gotone - хлопок  
+grafsage - комикс  
 granite - гранит  
 grave - гравий  
 grimase - гримаса  
@@ -244,10 +258,9 @@ hamili - беременный
 hande - рука  
 handoxake - рукав  
 haye - жизнь  
-hazine - сокровище (казна)  
-helisovimane - вертолёт  
+helisvimane - вертолёт  
 hewane - животное  
-hewanoparke - зоопарк  
+hewanparke - зоопарк  
 hijabe - вуаль  
 hijenia - гигиена  
 hisaba - вычислять  
@@ -295,15 +308,16 @@ kancodaka - глазуровать
 kancodake - глазурь  
 kanione - овраг (ущелье, каньон)  
 kanjare - кинжал  
-kanosuyogase - слезоточи́вый газ  
 kanowe - каноэ  
+kansuygase - слезоточи́вый газ  
 kapotruke - ловушка  
-karbonodulokside - двуокись углерода  
+kara - работать  
+karbondulokside - двуокись углерода  
 karde - карта  
+kare - работа  
+karer - работник  
 karolekse - глагол  
 karsi - грубой  
-karte - карта  
-kartografia - картография  
 kaske - оболочка (кора, панцирь)  
 katane - меч  
 kava - копать  
@@ -326,6 +340,7 @@ ko? - как
 komputer - компьютер  
 koncunge - насекомое  
 konga - пробиться  
+konkara - сотрудничать (кооперировать)  
 konserte - концерт  
 kope - чаша (чашка, стакан)  
 korde - нитка  
@@ -350,10 +365,11 @@ kuangeria - мина
 kuarze - кварц  
 kube - куб  
 ##l
-lanci vute - снаряд  
+lancovute - снаряд  
 lane - проклятие  
 lasker - солдат  
 laskeria - армия  
+lasune - чеснок  
 late - сторона (бок)  
 lati - боковой (латеральный)  
 latovia - Латвия  
@@ -399,6 +415,8 @@ manihayistia - манихейство
 manire - поведение (манера)  
 manse - мясо  
 mantole - плащ (накидка)  
+mare - море  
+mari - морской  
 marmare - мрамор  
 masale - пряность  
 maske - маска  
@@ -415,7 +433,6 @@ megame - облако
 mema - помнить  
 meme - память  
 memonote - меморандум  
-memula - забывать  
 mes (mese) - месяц  
 mester - мастер  
 metalobede - наковальня  
@@ -429,20 +446,21 @@ misalo - например
 misria - Египет  
 mixa - мешать  
 mixi alkole - коктейль  
+moke - дерево  
 molia - мельница  
 moluske - моллюск  
 mome - мы  
 moskove - Москва  
 mule - корень  
-muskulobine - культуризм  
+muskulbine - культуризм  
 ##n
 nade - река  
 namokitaba - подписать  
 nasia - нация  
-nasomedi - междунаро́дный  
+nasmedi - междунаро́дный  
 navi - девять (9)  
 nefre - почка  
-neurosele - нейрон  
+neursele - нейрон  
 nida - нуждаться  
 nide - нужда  
 nidi - нужный  
@@ -487,12 +505,15 @@ pasporte - паспорт
 patojener - патоген  
 patolojia - патология  
 pauze - пауза  
+pawa - стрелять  
+pawe - пистолет  
 pay (paye) - пирог  
 peda - пердеть  
 pede - пердение  
 pere - перо  
 pese - деньги  
 pesodiske - монета  
+petre - горная порода  
 piaze - лук  
 pike - вершина  
 pikosape - киркомотыга  
@@ -522,13 +543,14 @@ puri - полный
 rapidi - быстрый  
 rari - редкий (разбро́санный)  
 rase - раса  
-rasomedi - межрасовый  
+rasmedi - межрасовый  
 reste - остаток  
 retra - возвращаться  
 retrogula - рвать (изрыга́ть)  
 retroguli sense - тошнота  
 rezulte - эффект  
 rime - рифма  
+rise - рис  
 ritime - ритм (такт)  
 robote - робот  
 roketolancer - ракетная установка  
@@ -545,12 +567,10 @@ saida - охотиться
 salame - приветствие  
 sale - соль  
 samane - небо  
-samanonili - голубой  
+samannili - голубой  
 samemose - сострадание  
-samoraye - согласие  
-samosifia - симуляция  
-samude - море  
-samudi - морской  
+samraye - согласие  
+samsifia - симуляция  
 sanduice - сандвич  
 sanduke - сундук  
 sange - кровь  
@@ -576,9 +596,9 @@ slavi - славянский
 soci jinse - гендер  
 socia - общество (социум)  
 soke - носок  
+solcate - зонтик от солнца  
 sole - солнце  
-solocate - зонтик от солнца  
-sonokamare - спальня  
+sonkamare - спальня  
 sonu - спать  
 sore - замок  
 sori - запереть  
@@ -645,7 +665,7 @@ var 5 (var limi) - пятница
 var 6 (var sisi) - суббота  
 var 7 (var seti) - воскресенье  
 vaze - ваза  
-vejetoniamiste - вегетарианец  
+vejetyamiste - вегетарианец  
 venda - продать  
 vendoxopa - обмениваться  
 veri - верный  
@@ -667,11 +687,8 @@ waw - вау!
 waxa - мыть  
 waxomaxine - стиральная машина  
 waxurse - енот  
-wayoniame - пикник  
-wayotira - вытянуть  
-werka - работать  
-werke - работа  
-werker - работник  
+waytira - вытянуть  
+wayyame - пикник  
 wina - победить  
 ##x
 xarke - акула  
@@ -700,7 +717,9 @@ zambia - Замбия
 zardux - Зороастр  
 zarduxiste - зороастризм  
 zebre - зебра  
-zemonici prizone - ублиет (подземная тюрьма)  
+zemnici prizone - ублиет (подземная тюрьма)  
+zemsure - карта  
+zemsuria - картография  
 zeyile - бородавка  
 zeze - муха  
 zimbabwia - Зимбабве  

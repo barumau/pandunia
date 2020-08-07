@@ -3,7 +3,7 @@
 abeille ou guêpe - vespe  
 abricot - barkoke  
 accent - aksente  
-accord - samoraye  
+accord - samraye  
 acheter - xopa  
 actinium - acinium  
 action - acion (acione)  
@@ -19,6 +19,7 @@ afrophilie - afrikofilia
 agent pathogène - patojener  
 agile - ajili  
 agression (attaque) - agrese  
+ail - lasune  
 aimer - ama  
 aire (superficie) - are  
 alcool - alkole  
@@ -26,7 +27,7 @@ alcoolique - alkoli
 algue - alge  
 Aller-retour - retrotikete  
 alligator - kortokrokodile  
-allophone - alofone  
+allophone - alfone  
 allô - halow  
 alphabet - abace  
 aluminium - alumine  
@@ -53,10 +54,10 @@ anus - anuse
 appartenir à - tenu  
 appliquer - aplika  
 arabe - arabi  
-arachnophobie - aranofobia  
+arachnophobie - aranfobia  
 araignée - arane  
-arboretum, pépinière - arboparke  
-arbre - arbe  
+arboretum, pépinière - mokojongparke  
+arbre - moke  
 argent - argente  
 argent - pese  
 Argentine - argentinia  
@@ -80,13 +81,14 @@ autel - altare
 automne - otone  
 autre - ali  
 autrement - alo  
+avant - ceno  
 aventure - aventure  
 aventurier - aventurer  
 avoir - tena  
 avoir besoin de - nida  
 avoir tendance à - iva  
 axe - akse  
-aéroport - airoporte  
+aéroport - airporte  
 aïe! - ay  
 ##b
 babord - botolefte  
@@ -99,6 +101,7 @@ balle (boule) - bol (bole)
 bambou - banse  
 banane - banane  
 bande - bande  
+bande dessinée - grafsage  
 banque - banke  
 banquier - banker  
 barbe - barde  
@@ -107,8 +110,8 @@ baryum - barium
 bas - tale  
 bas - tali  
 base - baze  
-base de données - datobanke  
-baseball - bazobol  
+base de données - datbanke  
+baseball - bazbole  
 basketball - baskobol  
 bassin - basene  
 bateau - bote  
@@ -126,11 +129,12 @@ blé - gandume
 bombe - bombe  
 bon - bon (boni)  
 bord (rive) - tate  
-botanique - fitolojia  
+botanique - fitlojia  
 botte - bute  
 bouclire - defobanze  
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
+bouteille - botele  
 bouton - botone  
 bras - handoxake  
 brave - bravi  
@@ -149,6 +153,7 @@ cage - kafase
 calculer - hisaba  
 calendrier - kalende  
 canapé (sofa) - kanape  
+canon - daypawe  
 canoë - kanowe  
 canyon (ravin) - kanione  
 capacité (compétence) - able  
@@ -157,18 +162,18 @@ carapace (coquille, coquillage, croûte) - kaske
 Caraïbes - karaibia  
 carreau (tuile) - taile  
 carte - karde  
-carte - karte  
-cartographie - kartografia  
+carte - zemsure  
+cartographie - zemsuria  
 centre - junge  
 cerise - cerize  
-chambre à coucher - sonokamare  
+chambre à coucher - sonkamare  
 chance - canse  
 changement climatique - klimomute  
 chapitre - babe  
 charme - carme  
 chasser - saida  
 chat - maw (mawe)  
-chaudron - dayovaze  
+chaudron - dayvaze  
 chef - xefe  
 chemise - kamise  
 cher - ami  
@@ -178,11 +183,13 @@ chocolat - cokolate
 chose - xey (xeye)  
 ciel - samane  
 cime (pic, sommet) - pike  
+cimetière - gabristan  
 cinq (5) - limi  
 citron - limone  
 clair - klari  
 cloche - danger  
 coeur - kerne  
+collaborer - konkara  
 coller - gluta  
 colorant - rangomate  
 comment - ko?  
@@ -191,7 +198,7 @@ compare - para
 compassion - samemose  
 comportement (manière) - manire  
 compost - biyocaniver  
-compote de pommes - aplosose  
+compote de pommes - apelsose  
 comprendre (réaliser) - aha  
 concert - konserte  
 construire - bina  
@@ -217,21 +224,23 @@ crocodile - longokrokodile
 crocodilien - krokodile  
 croissant - kruasante  
 croix - kruse  
+croyant - diniste  
 crème - kreme  
-crème glacée - aisokrem  
+crème glacée - aiskrem  
 crêpe - fransi krepe  
 crêpe - krepe  
 crêperie - kreperia  
 cube - kube  
 cuiller - camace  
-culturisme (musculation) - muskulobine  
+culturisme (musculation) - muskulbine  
 cycliste - sikliste  
 cytologie - selolojia  
 célérité - siri mote  
-côte - samudotate  
+côte - martate  
 côté - late  
 ##d
 dance - danse  
+dans le sens antihoraire - fansoldixo  
 dauphin - dolfine  
 de - ca  
 dessous - nice  
@@ -241,7 +250,7 @@ diamant - almase
 dieu - dew (dewe)  
 dimanche - var 7 (var seti)  
 diorite - diorite  
-dioxyde de carbone - karbonodulokside  
+dioxyde de carbone - karbondulokside  
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
@@ -271,6 +280,7 @@ en ligne - sa linye
 enclume - metalobede  
 encore - yexo  
 enfant - bace  
+enterrer - gabra  
 entonnoir - liwokope  
 envelopper (emballer) - lifafa  
 erroné - galti  
@@ -282,7 +292,7 @@ ethnique - zuki
 Europe - europe  
 européen - europi  
 exact (précis) - justi  
-explosion - dadume  
+explosion - bume  
 ##f
 face (facette) - fase  
 faible - debili  
@@ -305,7 +315,7 @@ fleur - fule
 flèche - flece  
 foin - ganograse  
 fondu - yongosaha  
-football - futobol  
+football - futobole  
 forer (percer) - fora  
 fosse - kave  
 fourmi - maye  
@@ -317,12 +327,12 @@ féliciter - barka
 ##g
 galaxie - galaksia  
 gaz - gase  
-gaz lacrymogène - kanosuyogase  
+gaz lacrymogène - kansuygase  
 gazelle - gazele  
 geler (glacer) - aisu  
 genou - gute  
 genre grammatical - baxi jinse  
-geographie - zemografia  
+geographie - zemgrafia  
 gingembre - zinje  
 giraffe - jirafe  
 glisser - glisu  
@@ -338,31 +348,33 @@ guitare - gitare
 génotype - jenotipe  
 généreux - karimi  
 générosité (charité) - karimia  
-géologie - zemolojia  
+géologie - zemlojia  
 ##h
 haut - gawe  
 heure - hore  
 heureux - suki  
+hier - cendeno  
 hiver - zime  
 hivernal (hibernal) - zimi  
 hockey - hoke  
-hockey sur glace - aisohoke  
+hockey sur glace - aishoke  
 horloge - reloje  
 hourra - ura  
 huit (8) - bali  
 humanisme - insanistia  
 humeur - emosohale  
 hygiène - hijenia  
-hélicoptère - helisovimane  
-hétérosexuel - aloseksi  
+hélicoptère - helisvimane  
+hétérosexuel - alseksi  
 hôtel - hotel (hotele)  
 ##i
 imperméable - barxokote  
 important - hami  
+infidèle (incroyant) - andiniste  
 inflammation - itis (itise)  
 insecte - koncunge  
-international - nasomedi  
-interracial - rasomedi  
+international - nasmedi  
+interracial - rasmedi  
 ##j
 jade - yuke  
 Japon - niponia  
@@ -406,6 +418,7 @@ loquace - logivi
 loup - wolfe  
 lourd - bari  
 loutre - lontre  
+lumière - fote  
 lundi - var 1 (var uni)  
 luthéranisme - lutheristia  
 luthérien - lutheristi  
@@ -425,7 +438,7 @@ manichéisme - manihayistia
 marbre - marmare  
 marché (bazar) - bazare  
 mardi - var 2 (var duli)  
-mariage - maria  
+mariage - gamia  
 Maroc - magribia  
 masque - maske  
 match - mece  
@@ -433,7 +446,7 @@ maximum - maxime
 maître - mester  
 medio - medi  
 melt - yongu  
-mer - samude  
+mer - mare  
 mercredi - var 3 (var tini)  
 merde - xite  
 message - anjile  
@@ -455,7 +468,7 @@ mur - wale
 mât - maste  
 mère (maman) - mame  
 mètre - metre  
-méduse - samudojele  
+méduse - marjele  
 mémoire - meme  
 méninge - meninge  
 ##n
@@ -464,7 +477,7 @@ nation - nasia
 nausée - retroguli sense  
 neige - hime  
 neuf (9) - navi  
-neurone - neurosele  
+neurone - neursele  
 niche - nixe  
 noir - cerni  
 noit - noce  
@@ -482,13 +495,13 @@ objectif (cible) - dike
 objet (article) - vute  
 oblique (de travers) - terci  
 obsidienne - osidiane  
-océan - dayosamude  
+océan - daymare  
 oeuf - ande  
 oignon - piaze  
 oiseau - pakse  
-ombrelle (parasol) - solocate  
+ombrelle (parasol) - solcate  
 onde - onde  
-opposant (antagoniste) - anter  
+opposant (antagoniste) - faner  
 option - cuzable  
 or - aure  
 orange (couleur) - oranji  
@@ -500,8 +513,8 @@ originel - asli
 orthogonal - ortogoni  
 otite - oritis  
 ou - o  
-oublier - memula  
-oubliette (cul de basse-fosse) - zemonici prizone  
+oublier - anmema  
+oubliette (cul de basse-fosse) - zemnici prizone  
 oui - si  
 ours - urse  
 oxyde - okside  
@@ -536,22 +549,27 @@ pet (vesse) - pede
 petit - lil (lili)  
 peu - xawi  
 peut-être - ablo  
-philosophie - filosofia  
+philosophie - filsofia  
+photographie - fotografe  
 photographie - fotografia  
 pierre - cirki petre  
+pierre - seke  
+pierre précieuse (joyau) - bawseke  
+pierre tombale - gabroseke  
 pieu (poteau) - zonge  
 pile (batterie) - batre  
 piment - cile  
 pioche - pikosape  
-piquenique - wayoniame  
+piquenique - wayyame  
 piraterie - piratia  
+pistolet - pawe  
 pizza - pize  
 pièce (chambre) - kamare  
 piège - kapotruke  
 placard - almare  
 place - maidane  
 plaine - platistan  
-plaque tectonique - zemokaski plate  
+plaque tectonique - zemkaski plate  
 plein - puri  
 pluie - barxe  
 plume - kalame  
@@ -561,7 +579,7 @@ pocion - medikosuy
 poivre - pipre  
 poivre long - longi pipre  
 poli - fotofrika  
-pomme - aple  
+pomme - apele  
 pont - pule  
 porte - porte  
 possible - abli  
@@ -572,13 +590,14 @@ problème - probleme
 problématique - problemi  
 profond - fasoteli  
 programme - programe  
-projectile - lanci vute  
+projectile - lancovute  
 projection - lancografe  
 projet - projete  
 projeter (donner) - lancografa  
 propriété (possession, bien) - malke  
 prune - plume  
 prune de Java - jambule  
+précieux - bawi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruholojia  
@@ -606,8 +625,9 @@ riche - rici
 rime - rime  
 rire - haha  
 rivière (fleuve) - nade  
-riz - arize  
+riz - rise  
 robot - robote  
+roche - petre  
 rose - roze  
 rosée - rose  
 rouge - kirmi  
@@ -645,7 +665,7 @@ shopping - xope
 si - aga  
 signer - namokitaba  
 silex - piropetre  
-simulation - samosifia  
+simulation - samsifia  
 situation (état de choses) - xeyohale  
 six (6) - sisi  
 société - socia  
@@ -676,9 +696,9 @@ technique - tehne
 technologie - tehnolojia  
 tectonique des plaques - plati zemokaskia  
 tendance - ive  
-tender - wayotira  
+tender - waytira  
 tente - haime  
-terrain - zemoforme  
+terrain - zemforme  
 terre cuite - bekopote  
 terrorisme - teroristia  
 thé - cay (caye)  
@@ -686,21 +706,22 @@ tigre - bagre
 tirer - tira milke  
 tissu - texe  
 titre - temonam  
-toile d'araignée - arani nete  
+toile d'araignée - arannete  
 tomate - tomate  
+tombe - gabre  
 toucher - toca  
 touriste - safariste  
 traduction - tarje  
-travail - werke  
-travailler - werka  
-travailleur (ouvrier) - werker  
+travail - kare  
+travailler - kara  
+travailleur (ouvrier) - karer  
 tribord - botoraite  
 trois (3) - tini  
 tropique - garmozone  
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
-télécharger - netogeta  
+télécharger - netgeta  
 téléphone - telofone  
 téléviseur - telovide  
 tête - sare  
@@ -741,7 +762,7 @@ vouloir - wana
 voyelle - vokale  
 vrai - veri  
 vulve - vulve  
-végétarien - vejetoniamiste  
+végétarien - vejetyamiste  
 ##w
 wolof - wolofi  
 ##x
@@ -749,7 +770,7 @@ wolof - wolofi
 ##z
 zombi - zombe  
 zone - zone  
-zoo - hewanoparke  
+zoo - hewanparke  
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  

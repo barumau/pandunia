@@ -10,10 +10,10 @@ adalia - 正义
 adrese - 地址  
 aga - 如果 (要是)  
 agrese - 攻击  
-airoporte - 飞机场  
+airporte - 飞机场  
 aise - 冰  
-aisohoke - 冰球  
-aisokrem - 冰淇淋  
+aishoke - 冰球  
+aiskrem - 冰淇淋  
 aisu - 结冰  
 ajili - 灵活的  
 akse - 轴线  
@@ -23,29 +23,29 @@ ali - 另一
 alkole - 酒  
 almare - 碗碟橱  
 almase - 钻石  
-aloraya - 不同意  
+alraya - 不同意  
 altare - 圣坛  
 ama - 爱  
 ami - 亲爱的  
 analiza - 分析  
 analize - 分析  
 andesite - 安山岩  
+andiniste - 不信神的  
 anime - 活跃  
 anjile - 信息  
 anker - 锚  
+anmema - 忘记  
 antene - 天线  
 anuse - 肛门  
-aple - 苹果  
+apele - 苹果  
 aplika - 运用  
 arane - 蜘蛛  
-arbe - 树  
 arbuze - 西瓜  
 are - 面积  
 argente - 银  
-arize - 米  
 arke - 弓 (琴弓, 拱)  
 arme - 武器  
-arte - 美术  
+arte - 艺术  
 artiste - 美术家  
 asle - 起源  
 asli - 原始的  
@@ -88,12 +88,14 @@ barxokote - 雨衣
 basi - 够  
 baskobol - 篮球  
 batre - 电池  
+bawi - 宝贵  
+bawseke - 宝石  
 baxe - 语言  
 baxi jinse - 文法的性  
-baxolojia - 语言学  
+baxlojia - 语言学  
 bazare - 市场  
+bazbole - 棒球  
 baze - 底部  
-bazobol - 棒球  
 bebe - 宝宝  
 bekopote - 陶瓦  
 bele - 铲  
@@ -109,6 +111,7 @@ bombe - 炸弹
 bon (boni) - 好  
 bonosinyi - 吉利的  
 bote - 船 (艇)  
+botele - 瓶  
 botolefte - 左舷  
 botone - 扣子  
 botoraite - 右舷  
@@ -116,6 +119,7 @@ boya - 漂浮
 bruni - 棕色 (色)  
 bufete - 自助餐  
 buke - 书  
+bume - 爆炸  
 buze - 山羊  
 ##c
 ca - 从  
@@ -123,10 +127,12 @@ camace - 匙子
 cari - 四 (4)  
 cay (caye) - 茶  
 cayokope - 茶碗  
+cendeno - 昨日  
 cenge - 层  
+ceno - 以前  
 cerni - 黑色  
 cile - 菜椒  
-cilofune - 辣椒粉  
+cilfune - 辣椒粉  
 cini - 汉族  
 cira - 撕裂  
 cire - 撕裂  
@@ -138,23 +144,24 @@ cokolatobatone - 巧克力棒
 cungcing - 重庆  
 cuzable - 选择 (买卖权)  
 ##d
-dadume - 爆炸  
 danger - 钟 (摇铃)  
+datbanke - 数据库  
 date - 数据  
-datobanke - 数据库  
-dayosamude - 大洋  
-dayovaze - 炼药锅  
+daymare - 大洋  
+daypawe - 大炮  
+dayvaze - 炼药锅  
 debili - 虚弱 (易坏)  
 defobanze - 盾牌  
 defokaske - 盔甲  
 deki - 的  
 destine - 目的地 (命運)  
 dew (dewe) - 神  
-dexoren - 公民  
+dexrene - 公民  
 dike - 目的 (目标)  
 dinamite - 甘油炸药  
 dine - 宗教  
 dinge - 钉子  
+diniste - 信徒  
 diorite - 闪长岩  
 diske - 圆盘  
 dobe - 砖  
@@ -179,6 +186,7 @@ estane - 锡
 estibium - 锑  
 ewanjile - 福音  
 ##f
+fansoldixo - 反时针方向的  
 fase - 面  
 fasoteli - 深  
 fate - 事实  
@@ -186,19 +194,25 @@ fatigu - 疲劳
 fem (feme) - 女  
 feni - 数字的  
 filme - 膜  
-filosofia - 哲学  
+filsofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
-fitolojia - 植物学  
+fitlojia - 植物学  
 fixosaider - 鱼夫  
 flece - 箭  
 fora - 钻孔  
+fote - 光  
 fotofrika - 擦亮  
+fotografe -  照片 (相片)  
 fotominare - 信号  
 freme - 框  
 frika - 擦伤  
 fule - 花  
 ##g
+gabra - 埋葬  
+gabre - 坟墓  
+gabristan - 公墓 (墓地)  
+gabroseke - 墓石 (墓碑)  
 galaksia - 恆星系  
 galte - 错误  
 gance - 钩  
@@ -215,6 +229,7 @@ glutopote - 黏土
 gole - 目的  
 gotone - 棉  
 governe - 政府  
+grafsage - 漫画  
 granite - 花岗石  
 grave - 砾石  
 grimase - 鬼脸  
@@ -234,10 +249,10 @@ hande - 手
 handoxake - 胳膊  
 haye - 生命  
 helise - 螺旋  
-helisovimane - 直升机  
+helisvimane - 直升机  
 helpa - 帮助  
 hewane - 动物  
-hewanoparke - 动物园  
+hewanparke - 动物园  
 hijabe - 面纱  
 hisaba - 计算  
 hoke - 曲棍球  
@@ -283,15 +298,16 @@ kance - 玻璃
 kancodake - 釉  
 kande - 糖果  
 kanione - 峡谷 (深谷)  
-kanosuyogase - 催泪瓦斯  
+kansuygase - 催泪瓦斯  
 kapotruke - 陷阱  
-karbonodulokside - 二氧化碳  
+kara - 工作  
+karbondulokside - 二氧化碳  
 karde - 牌  
+kare - 工作  
+karer - 工人 (工作者)  
 karolekse - 动词  
 karomisa - 提交  
 karsi - 粗糙  
-karte - 地图  
-kartografia - 地图学  
 kaske - 壳 (皮)  
 kata - 切  
 kava - 挖  
@@ -313,6 +329,8 @@ ko? - 怎么
 komputer - 计算机  
 koncunge - 昆虫  
 konfusi - 困惑 (混乱)  
+konkara - 合作  
+kono - 共同 (一起)  
 konserte - 音乐会  
 kontini - 指针式的  
 kope - 杯子  
@@ -332,12 +350,13 @@ kuarze - 石英
 kube - 立方体  
 ##l
 lage - 湖  
-lanci vute - 投掷物  
 lancografa - 投射  
 lancografe - 投影  
+lancovute - 投掷物  
 lane - 诅咒  
 lantanum - 鑭  
 laskeria - 军队  
+lasune - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 latovia - 拉脱维亚  
 lawi - 老 (老年, 年歲大)  
@@ -387,7 +406,10 @@ manihayistia - 摩尼教
 manire - 方式  
 manse - 肉  
 mantole - 斗篷  
+mare - 海  
+marjele - 海蜇  
 marmare - 大理石  
+martate - 海岸  
 masale - 香料  
 maste - 桅  
 mature - 成年人  
@@ -404,7 +426,6 @@ medikosuy - 药水
 megame - 云  
 mema - 记得 (回忆)  
 meme - 记忆 (记性)  
-memula - 忘记  
 mene - 意义  
 meninge - 脑脊膜  
 metalobede - 铁砧  
@@ -418,18 +439,19 @@ misalo - 比如
 misria - 埃及  
 mita - 聚会  
 mite - 会议  
-moke - 木材  
+moke - 树木  
 mokojanger - 木匠  
+mokomate - 木材  
 mole - 摩尔 (单位)  
 molekule - 分子  
 molia - 磨坊  
 mome - 我们  
 mule - 根  
-muskulobine - 健美运动  
+muskulbine - 健美运动  
 ##n
 nade - 河 (江)  
 namokitaba - 签署  
-nasomedi - 国际  
+nasmedi - 国际  
 navi - 九 (9)  
 nefre - 肾脏  
 nida - 需要  
@@ -474,6 +496,7 @@ pasporte - 护照
 pastopetre - 岩漿  
 patojener - 病原体  
 patolojia - 病理学  
+pawe - 手枪  
 pay (paye) - 馅饼  
 peda - 放屁  
 pede - 屁  
@@ -517,6 +540,7 @@ retrogula - 呕吐
 retroguli sense - 恶心  
 retrotikete - 往返票  
 rezulte - 影响  
+rise - 米  
 ritime - 节奏  
 roketolancer - 火箭筒  
 rototafune - 飓风 (台风)  
@@ -532,11 +556,8 @@ saide - 狩猎
 salame - 迎接  
 sale - 盐  
 samane - 天空  
-samoraye - 一致  
-samosifia - 模型  
-samude - 海  
-samudojele - 海蜇  
-samudotate - 海岸  
+samraye - 一致  
+samsifia - 模型  
 sanduice - 三明治 (三文治)  
 sange - 血  
 sapate - 鞋  
@@ -561,8 +582,8 @@ sisi - 六 (6)
 soci jinse - 社會性別  
 socia - 社会  
 sole - 太阳  
-solosisteme - 太阳系  
-sonokamare - 卧室 (寝室)  
+solsisteme - 太阳系  
+sonkamare - 卧室 (寝室)  
 sonu - 睡觉 (困觉)  
 sore - 锁  
 sosise - 香肠  
@@ -623,7 +644,7 @@ var 5 (var limi) - 星期五 (禮拜五)
 var 6 (var sisi) - 星期六 (礼拜六)  
 var 7 (var seti) - 星期日 (禮拜日)  
 vejete - 蔬菜  
-vejetoniamiste - 素食主义者  
+vejetyamiste - 素食主义者  
 venda - 卖  
 vendoxope - 贸易  
 vespe - 蜂  
@@ -636,11 +657,8 @@ wale - 墙
 walopapire - 壁纸 (墙纸)  
 wana - 想要 (愿意)  
 waxurse - 浣熊  
-wayoniame - 野餐  
-wayotira - 拉  
-werka - 工作  
-werke - 工作  
-werker - 工人 (工作者)  
+waytira - 拉  
+wayyame - 野餐  
 ##x
 xame - 晚上  
 xanghai - 上海  
@@ -671,7 +689,9 @@ yongu - 融化
 yuke - 玉  
 ##z
 zebre - 斑马  
-zemoforme - 地势  
+zemforme - 地势  
+zemsure - 地图  
+zemsuria - 地图学  
 zeyile - 疣  
 zime - 冬天  
 zinje - 姜  
