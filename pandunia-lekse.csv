@@ -83,6 +83,7 @@ ampere|unomete|A||ampere (amp)|ampère|amperio|||||||||||||ampero|ampeeri|amper
 ampule|||fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|ampoule (vial)|ampoule (fiole)|ampolla (vial)||||||||||||||ampulli|ampułka
 analiza||||analyse|analyser|analizar||анализировать||分析|||||||||analizi|analysoida|analizować
 analize|||eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|analysis|analyse|análisis|análise|анализ||分析||||||||analiz|analizo|analyysi|analiza
+ancenvidi||||unexpected|||||||||||||||||
 andaka||||uncover (reveal)||destapar||||||||||||||paljastaa|odsłonić, odsłaniać
 ande|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg|oeuf|huevo|||||||||||||ovo|muna|jajko (jajo)
 andes||||Andes|Andes|Andes|||||||||||||Andoj|Andit|Andy
@@ -111,7 +112,6 @@ anlimitia||||infinity|||||||||||||||||
 anmema||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ|忘记|忘れる|잊다|quên|भूलना|ভুলে যাওয়া|lupa|kusahau|unutmak|forgesi|unohtaa|zapominać (zapomnieć)
 annidi||||unnecessary (extraneous, unneeded)||innecesario|||||不要||||||||||niepotrzebny
 anpace||||unrest|||||||||||||||malpaco|levottomuus (konflikti)|
-anpredvidi||||unexpected|||||||||||||||||
 anromansi||||aromantic||arromántico|||||||||||||||aromantyczny
 anseksi||||asexual||asexual|||||||||||||||aseksualny
 ansora||||unlock|||||||||||||||||
@@ -421,7 +421,7 @@ cayokope||||tea cup|tasse à thé|taza de té|chavena (tigela de chá)|чайн�
 cehia|dex|CZ||Czech Republic||República Checa||||||||||||||Tšekki|Republika Czeska, Czechy
 ceka|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
 celsius darje|unomete|°C||degree Celsius||grado Celsius||||||||||||||celsiusaste|stopień Celsjusza
-cena||||predate (be before)||||||||||||||||edeltää (olla ennen)|
+cena||||predate (be before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (olla ennen)|poprzedzić, poprzedzać
 cenaga||||assume (presuppose)||presuponer|||||||||||||||zakładać (założyć)
 cendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 cenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
@@ -2455,8 +2455,6 @@ poze|||eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|pose (
 prasedime|mate|Pr||praseodymium||praseodimio||||||||||||||praseodyymi|prazeodym
 prate|||eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|practice (actuality)||práctica||||||||||||||käytäntö (pragmatia)|praktyka, aktualność
 prati||||practical (pragmatic)||práctico||||||||||||||käytännöllinen (pragmaattinen)|practyczny, pragmatyczny
-preda|coverb||rus:п(е)ред (p(e)red), pol:przed, eng:spa:por:pre-, fra:pré-|precede (come before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (tulla ennen)|poprzedzić, poprzedzać
-predogara||||assume (presuppose)||presuponer|||||||||||||||zakładać (założyć)
 prezidente|||eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden|president||presidente|||||||||||||prezidento|presidentti|prezydent
 prizona||||imprison (jail)||encarcelar (aprisionar)|||||||||||||malliberigi|vangita|uwięzić, więzić, pozbawić wolności
 prizone|||eng:fra:prison, spa:prisión, por:prisão|prison (imprisonment)||prisión||||||||||||||vankeus|więzienie, kara więzienia, kara pozbawienia wolności
