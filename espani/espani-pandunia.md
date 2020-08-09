@@ -1,7 +1,7 @@
 # espani-pandunia
 a (hacia) - pa  
 ##a
-abeja - melovespe  
+abeja - melvespe  
 abeja o avispa - vespe  
 abierto (extenso) - maidani  
 abierto - kayi  
@@ -10,7 +10,7 @@ Abisinia - habaxia
 abisinio - habaxi  
 abjazia - aphazia  
 abluelo - lawpape  
-abono orgánico (compost) - biyocaniver  
+abono orgánico (compost) - jivocaniver  
 aborigen - aslaustrali  
 abrigo (chaqueta) - kote  
 abril - mes 4 (mes cari)  
@@ -34,7 +34,7 @@ acostarse (echarse, tenderse, tumbarse) - lalu
 actinio - acinium  
 actor (actriz) - roler  
 actuar (hacer un papel) - rola  
-acuarela - suyorang  
+acuarela - suyrang  
 acuario (pecera) - fixtanke  
 acuerdo - samraye  
 acuoso - suyi  
@@ -43,7 +43,7 @@ adelante - jino
 además (más) - plus (pluso)  
 adicional (extra) - maxi  
 adiós - salam cute  
-adjetivo - sifolekse  
+adjetivo - siflekse  
 adoquín - cirki petre  
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
@@ -59,13 +59,13 @@ afgano - avgani
 africano - afriki  
 agacharse - indosida  
 agitar (sacudir) - sisma  
-agorafobia - maidanofobia  
+agorafobia - maidanfobia  
 agosto - mes 8 (mes bali)  
 agradecer - danka  
 agresivo - agresi  
 agrio (ácido) - suani  
 agua - suy (suye)  
-agua mineral - kuangosuy  
+agua mineral - kuangsuy  
 aguacate - awakate  
 agujero (hueco) - konge  
 ahora (actualmente) - zay (zayi)  
@@ -81,7 +81,7 @@ alargar - longa
 Alaska - alaskia  
 Albania - cipia  
 albaricoque - barkoke  
-albañil (mampostero, cantero) - sekjanger  
+albañil (mampostero, cantero) - petrojanger  
 alcohol - alkole  
 alcohólico - alkoli  
 aldea - ruste  
@@ -91,7 +91,7 @@ alfabeto - abace
 alfabeto cirílico - kirili abace  
 alfabeto latino - latini abace  
 alfiler (aguja) - pine  
-alfombra (tapete) - talotexe  
+alfombra (tapete) - taltexe  
 alga - alge  
 algién - koy ren  
 algo - koy xey  
@@ -117,10 +117,10 @@ alófono - alfone
 amable (atento, tierno, dulce) - jentili  
 amar - ama  
 amar románticamente - romansa  
-amarillo - limonorangi  
+amarillo - limonrangi  
 amasar (masajear) - masaja  
 ambiental (ecológico, natural) - eki  
-ambiguo - polomeni  
+ambiguo - polmeni  
 americano - ameriki  
 americio - amerikium  
 amhara - amari  
@@ -139,11 +139,11 @@ andamiaje - futobanze
 Andes - andes  
 andesita - andesite  
 Andorra - andoria  
-andrajoso - cirociri  
+andrajoso - circiri  
 anglicanizar - englokitaba  
 anglófilo - englofiler  
 Angola - angolia  
-anillo (sortija) - fingowene  
+anillo (sortija) - fingwene  
 anillo - wene  
 animación (dibujo animado) - anime  
 animal (bestia) - hewane  
@@ -153,19 +153,19 @@ ano - anuse
 antartida - antartia  
 antena - antene  
 anterior (remoto) - pasi  
-antibalas - danosekuri  
+antibalas - dansekuri  
 Anticristo - fankriste  
 Antigua - antigia  
 Antigua y Barbuda - antigia e barbudia  
 Antillas Neerlandesas - nederlandi antilia  
 antimonio - estibium  
 antorcha - fotobatone  
-antónimo - fanname  
+antónimo - fanoname  
 análisis - analize  
 anón (ates, saramuyo) - atis (atise)  
 aparecer - zayisu  
 apartarse (desviarse) - rutogalta  
-apellido - familonam  
+apellido - familnam  
 aplicación - aplike  
 aprender (estudiar) - darsa  
 aproximadamente - yago  
@@ -178,7 +178,7 @@ archipiélago - nesia
 archipiélago de Hawái - hawayi nesia  
 arcilla (barro) - glutopote  
 arco - arke  
-ardiente (encendido) - piri  
+ardiente (encendido) - hogi  
 ardilla - ekore  
 arena - rege  
 Argelia - jayeria  
@@ -189,7 +189,7 @@ argón - argon
 aritmética (cálculos) - hisabia  
 arma - arme  
 arma nuclear - kerni arme  
-armadura - defokaske  
+armadura - defkaske  
 armario - almare  
 Armenia - hayakia  
 armonioso - harmoni  
@@ -198,14 +198,14 @@ arnés (arreos, jaeces) - harnese
 arquero - arker  
 arreglo - xule  
 arriesgado - riski  
-arroba (@) - adresosimbol (@)  
+arroba (@) - adresharfe (@)  
 arromántico - anromansi  
 arroz - rise  
 arruinado (devastado, asolado) - harabi  
 arruinar (destruir, devastar, asolar) - haraba  
 arsénico - arsene  
 arte - arte  
-arte marcial - jengoxute  
+arte marcial - jengxute  
 artesano - janger  
 artificial (sintético) - cani  
 artista - artiste  
@@ -214,7 +214,7 @@ artículo (documento) - papire
 artículo (texto) - makale  
 Aruba - arubia  
 asar (tostar) - rosta  
-ascético - askete  
+asceta - askete  
 asegurar (confirmar) - amena  
 asesino - morter  
 asexual - anseksi  
@@ -237,7 +237,7 @@ atravesar - zonga
 attracción (-filia) - filia  
 aullar - ulula  
 aullido - ulule  
-auspicioso - bonosinyi  
+auspicioso - bonsinyi  
 Australia - australia  
 Austria - osteria  
 autocratia (monarquía) - monkratia  
@@ -255,6 +255,7 @@ ay! - ay
 ayer - cendeno  
 ayuda (asistencia) - helpe  
 ayudar (asistar) - helpa  
+azada - sape  
 azafrán - safrane  
 azar (aleatorio) - zari  
 Azerbaiyán - azeria  
@@ -265,7 +266,7 @@ azúcar - xukare
 año - nen (nene)  
 ##b
 babor - botolefte  
-baguette - batonopang  
+baguette - batonpang  
 bah - bah  
 Bahamas - bahamia  
 bahaísmo (fe bahá'i) - bahayistia  
@@ -278,11 +279,11 @@ balcón - balkone
 balde (cubo) - balde  
 baldosa (teja, azulejo) - taile  
 ballesta - krusarke  
-baloncesto - baskobol  
+baloncesto (básquetbol) - baskobol  
 bambú - banse  
 banco (silla) - bence  
 banco - banke  
-banco de datos (base de datos) - datbanke  
+banco de datos (base de datos) - datobanke  
 banda (cinta) - bende  
 banda - bande  
 bandera - bandere  
@@ -314,7 +315,7 @@ bañarse - banyu
 bañera - banye  
 baño - banyokamare  
 bebé - bebe  
-Belarús - belorusia  
+Belarús - belarusia  
 Belice - belizia  
 belio - bel  
 belleza (hermosura) - sundaria  
@@ -329,16 +330,16 @@ beso - cume
 Biblia - biblia  
 biblioteca - kitabia  
 bibliotecario - kitabominister  
-bicicleta - pedalosikle  
+bicicleta - pedalsikle  
 bicicleta - sikle  
 bien - okey (okeyi)  
 bienvenido - salam laye  
 billete de ida y vuelta - retrotikete  
-biología - biyolojia  
-bioma - biyosisteme  
-birromántico - duloromansi  
+biología - jivolojia  
+bioma - jivosisteme  
+birromántico - dulromansi  
 bisagra (gozne) - xarnire  
-bisexual - duloseksi  
+bisexual - dulseksi  
 bismuto - bismute  
 blanco - baki  
 blando (mullido) - komali  
@@ -362,7 +363,7 @@ bosque (jungla, selva) - jangale
 bota - bute  
 botella - botele  
 Botsuana - cuania  
-botánica - fitlojia  
+botánica - fitolojia  
 botón - botone  
 Brasil - brazilia  
 bravo! - bravo  
@@ -396,14 +397,13 @@ buscar - serca
 Bután - drugia  
 bárbaro - barbare  
 básico - bazi  
-básquetbol - baske  
-béisbol - bazbole  
+béisbol - bazobole  
 Bélgica - belgia  
 búbalo (arni) - kabawe  
 ##c
 caballo - gude  
+cabaña - kabine  
 cabeza - sare  
-cabina - kabine  
 cable - eletrolinye  
 Cabo Verde - kabuverdia  
 cabra - buze  
@@ -419,9 +419,9 @@ cagar - xita
 caimán (aligátor, yacaré) - kortokrokodile  
 caja (baúl, cofre, estuche) - sanduke  
 caja (caja registradora) - kaxe  
-caja torácica - sinokafase  
+caja torácica - sinkafase  
 cajero - kaxer  
-cajón (gaveta) - tirosanduke  
+cajón (gaveta) - tirsanduke  
 calcetín - soke  
 calcio - kalsium  
 calcular (computar) - komputa  
@@ -473,7 +473,7 @@ cararés - karnadi
 caravana - karvane  
 carbón - karbone  
 carcelero - prizoner  
-cargar (subir) - netdona  
+cargar (subir) - netodona  
 cargar - lada  
 cargo - ofise  
 Caribe - karaibia  
@@ -481,9 +481,9 @@ carne - manse
 carne de cerdo - gurubomanse  
 carne de vaca - muhmanse  
 carpa (toldo) - haime  
-carpeta - dokumosanduke  
+carpeta - dokumsanduke  
 carpintero - mokojanger  
-cartografía - zemsuria  
+cartografía (geografía) - zemgrafia  
 carvis (alcaravea) - karawe  
 casa (hogar, residencia) - dome  
 casado - gami  
@@ -491,7 +491,7 @@ casamiento - gamia
 casar - gama  
 casco (yelmo) - helme  
 casi (aproximadamente) - karibo  
-casta - jenoklase  
+casta - jenklase  
 castaña - kastane  
 castillo (fortaleza) - burge  
 castor - kastore  
@@ -499,7 +499,7 @@ Cataluña - katalunia
 Catar (Qatar) - kataria  
 causar - saba  
 cavar (excavar) - kava  
-cazador - ahoter  
+cazador - saider  
 cazar (pescar) - saida  
 cañonear - daypawer  
 cañón (barranco, quebrada) - kanione  
@@ -508,14 +508,14 @@ cebolla - piaze
 cebra - zebre  
 celebración (fiesta) - feste  
 celebrar (festejar) - festa  
-celeste (azul celeste) - samannili  
+celeste (azul celeste) - samanonili  
 celeste (celestial) - samani  
 celoso (envidioso) - jelosi  
 cementerio - gabristan  
 cemento - semente  
 cena - xamyame  
 ceniza - huye  
-centellear (titilar) - xingofota  
+centellear (titilar) - xingfota  
 centi- (por ciento) - cent-  
 central - jungi  
 centrar (concentrar) - junga  
@@ -537,9 +537,10 @@ cerradura (candado) - sore
 cerrar con cremallera - zipa  
 cerveza (birra) - bire  
 cesio - cesium  
+cesta (canasta, barquilla, aro) - baske  
 chacal - xakale  
 Chad - cadia  
-champú - kexosabune  
+champú - kexsabune  
 chamán (brujo, hechicero) - xamane  
 chapati (pan sin levadura) - capate  
 chaqueta - jake  
@@ -569,7 +570,7 @@ cigarro - sigare
 cima (pico, cumbre, vértice) - pike  
 cinc - zinke  
 cinco (5) - limi  
-cinta (cinta para el pelo) - kexobende  
+cinta (cinta para el pelo) - kexbende  
 cinta adhesiva - tepe  
 cinturón (zona) - zone  
 cinético - kini  
@@ -591,12 +592,12 @@ clasificar - klasa
 clavo (pincho, punta) - dinge  
 clima (tiempo) - tenke  
 clima - klime  
-climatología - klimolojia  
+climatología - klimlojia  
 clon - klona  
 clonar - klone  
 cloro - klore  
 club - klube  
-clásico - puranoyangi  
+clásico - puranyangi  
 coaccionar (forzar, obligar) - musa  
 coacción - muse  
 cobalto - kobalte  
@@ -607,7 +608,7 @@ cocina - kukeria
 cocinar (preparar) - kuka  
 cocinero - kuker  
 coco - yeze  
-cocodrilo - longokrokodile  
+cocodrilo - longkrokodile  
 codicioso (avaro) - tami  
 codificar (cifrar) - koda  
 cohete (misil) - rokete  
@@ -690,7 +691,7 @@ conservar (preservar, mantener) - hafiza
 considerar (pensar en) - konsida  
 considerar (reflexionar) - hema  
 consonante - konsone  
-constitución - bazkanune  
+constitución - bazokanune  
 construir (edificar) - bina  
 contar - nombra  
 contener - inda  
@@ -698,8 +699,8 @@ contenido - tene
 continuar (reanudar) - kontinu  
 continuo (analógico) - kontini  
 contrario (opuesto) - fani  
-contraseña - sekurokode  
-contribuir - fenodona  
+contraseña - sekurkode  
+contribuir - fendona  
 copiar (réplica) - kopiya  
 copiar (réplica) - kopiye  
 copérnico - kopernikium  
@@ -718,7 +719,7 @@ correcto (justo) - sahi
 corregir - saha  
 correo - poste  
 correr (esprintar) - esprinta  
-corriente de resaca - tiroliwe  
+corriente de resaca - tirliwe  
 corsario - botokaper  
 cortar - kata  
 cortina - parde  
@@ -734,7 +735,7 @@ costar - kosta
 costumbre (hábito) - ade  
 costumbre (tradición, convención) - rasme  
 costura (sutura) - suture  
-cota de malla - silsilonete  
+cota de malla - silsilnete  
 crecemiento - raste  
 crecer (aumentar) - dayu  
 crecer - rastu  
@@ -760,7 +761,7 @@ crocodilio - krokodile
 cromo - kromium  
 cronómetro - sekundometer  
 cruasán - kruasante  
-crucificar - krusofiksa  
+crucificar - krusfiksa  
 crudo - jeni  
 cruz - kruse  
 cruzar - krusa  
@@ -768,7 +769,7 @@ cráneo (calavera) - saroste
 crítico (fundamental) - krizi  
 crítico - pipinger  
 cuaderno (libreta) - notobuke  
-cuadro - carogone  
+cuadro - cargone  
 cualidad (atributo, descripción) - sife  
 cuarzo - kuarze  
 cuatro (4) - cari  
@@ -786,7 +787,7 @@ culpa (defecto, crimen) - doxe
 culpable - doxi  
 cultivar - nonga  
 cultura - kulture  
-cumpleaños - jenoden  
+cumpleaños - jenden  
 cupón (vale) - kupone  
 curar (sanar) - medika  
 curio - kurium  
@@ -836,9 +837,9 @@ deci- - deco-
 decibelio - decobel  
 deciembre - mes 12 (mes desi duli)  
 decir (hablar) - loga  
-decoración (adorno) - sundarodake  
-decorar (adornar) - sundarodaka  
-dedicar - zamanodona  
+decoración (adorno) - sundardake  
+decorar (adornar) - sundardaka  
+dedicar - zamandona  
 dedo - finge  
 defecar - kaka  
 defender - defa  
@@ -856,7 +857,7 @@ demencia (locura) - folia
 demente (loco, insensato) - foli  
 democracia - demkratia  
 democrático - demkrati  
-demografía - demografia  
+demografía - demgrafia  
 demonio - demone  
 demócrata - demkratiste  
 dentista (odontólogo) - dantomediker  
@@ -865,15 +866,15 @@ deportista - keler
 derechista - raitiste  
 derecho - hake  
 derecho - raiti  
-derechos de autor (copyright) - kopiyohake  
+derechos de autor (copyright) - kopiyhake  
 derechos humanos - insani hake  
 derretirse - yongu  
 desacuerdo - alraye  
 desarrollo - fajane  
-desatascar - tapula  
+desatascar - antapa  
 desayuno - subyame  
 descanso (alivio) - xuxe  
-descargar - netgeta  
+descargar - netogeta  
 descriptivo - sifi  
 deseo - wane  
 desierto - registan  
@@ -918,7 +919,7 @@ disentir (no estar de acuerdo) - alraya
 disionario (lexicón) - leksoliste  
 disparar - pawa  
 dispersar (esparcir, desmontar) - anjama  
-dispositivo pirotécnico - pirotehne  
+dispositivo pirotécnico - hogotehne  
 disprosio - disprosium  
 distancia - telia  
 distintos (diversos) - balibali  
@@ -929,7 +930,7 @@ dividir (repartir) - fena
 divino - dewi  
 dióxido de carbono - karbondulokside  
 doblar (multiplicar por dos) - dulo multa  
-doble sentido - dulomeni  
+doble sentido - dulmeni  
 doctor (médico) - mediker  
 doctor - dotore  
 doctorado - dotoria  
@@ -969,7 +970,7 @@ día de San Juan - yohani feste
 día festivo (feriado) - festoden  
 dónde - sa ke  
 ##e
-eco - mirosonde  
+eco - mirsonde  
 ecología - ekolojia  
 econtrar (hallar) - eureka  
 ecuador - egalolinye  
@@ -1002,7 +1003,7 @@ embajador - daixer
 embalar (llevar) - paka  
 embarazado (preñado) - hamili  
 embarrado (enlodado) - poti  
-embudo - liwokope  
+embudo - liwkope  
 emir - emire  
 emirato - emiria  
 Emiratos Árabes Unidos - unisi arabi emiria  
@@ -1038,15 +1039,16 @@ ensayo (redacción) - eseye
 entender (comprender) - aha  
 entero (todo) - holi  
 enterrar - gabra  
-entrada - jinomun  
+entrada - jinmun  
 entre - medu  
-entregar (enviar) - karomisa  
+entregar (enviar) - karmisa  
 entristecer (poner triste) - duka  
 enviar (transmitar) - misa  
 envoltura - lifafe  
 envolver - lifafa  
 enzima - enzime  
-epistemología - janolojia  
+epistemología - janlojia  
+equilibrado (par) - pare  
 equilibrado (par) - pari  
 equipaje - bagaje  
 equipo - time  
@@ -1064,16 +1066,16 @@ escalera - eskale
 escandio - skandium  
 escaparse (evitar, huir) - bega  
 escapatoria - cute  
-escarcha - himorose  
+escarcha - himrose  
 escasez - xawia  
-escaso (disperso, ralo) - jamuli  
+escaso (disperso, ralo) - anjami  
 escenario - sene  
 Escocia - eskotia  
 escribir - kitaba  
 escritorio (mesa de trabajo) - karmeze  
 escritura - kitabe  
 escuchar (oír) - ora  
-escudo - defobanze  
+escudo - defbanze  
 escuela (colegio, institución) - darsia  
 esculpir - eskulta  
 escultor - eskulter  
@@ -1106,7 +1108,7 @@ esponja - esponje
 espárrago - lusune  
 esqueleto (armazón) - ostojamia  
 esquina (rincón, ángulo) - gone  
-estacionamiento (aparcamiento) - garoparke  
+estacionamiento (aparcamiento) - garparke  
 estación (temporada) - mosime  
 estación - estasia  
 estadio (arena) - estadia  
@@ -1155,15 +1157,15 @@ explorador (navegador) - brauzer
 explorar - brauza  
 explosión (estallado) - bume  
 explotar (estallar) - bumu  
-exportar - wayomisa  
+exportar - waymisa  
 exposición (espectáculo) - xowe  
 expulsar - waya  
 exterior - wayi  
-extranjero - wayodexi  
-exónimo - wayonam  
+extranjero - waydexi  
+exónimo - waynam  
 ##f
 falda - jupe  
-falla (mal funcionamiento) - malofunce  
+falla (mal funcionamiento) - malfunce  
 fallo (juicio, criterio) - hakime  
 falso - falsi  
 familia - famile  
@@ -1171,7 +1173,7 @@ fan (-filo) - filer
 fantasma - fantome  
 farbicante - fater  
 faro (baliza, almenara) - fotominare  
-farol (linterna) - pirsanduke  
+farol (linterna) - hogosanduke  
 farsi - farsi  
 fascinación - fasine  
 fascismo - faxistia  
@@ -1185,8 +1187,8 @@ felicitar - barka
 feliz - suki  
 feminismo - femistia  
 feministe - femiste  
-feo - malorupi  
-fermentar - biyomutu  
+feo - malrupi  
+fermentar - jivomutu  
 fermio - fermium  
 fideo (tallarín) - miene  
 fiebrie (calentura) - febre  
@@ -1203,14 +1205,14 @@ Finlandia - suomia
 fino (delgado, delicado) - faini  
 finés - suomi  
 fiordo - fiorde  
-firmar - namokitaba  
+firmar - namkitaba  
 fisicoculturismo (culturismo, musculación) - muskulbine  
 fisión nuclear - kerni fenia  
 flecha - flece  
 flerovio - flerovium  
 flor - fule  
 florecer - fulu  
-florero - fulovaze  
+florero - fulvaze  
 flotador (boya) - boye  
 fluir - liwu  
 flúor - flure  
@@ -1230,7 +1232,7 @@ fracaso - xibaye
 fragmento (pedazo) - parce  
 Francia - fransia  
 francio - fransium  
-francotirador - justobunduker  
+francotirador - justopawer  
 frecuencia - cangia  
 frecuentemente - cango  
 fresco - tazi  
@@ -1238,7 +1240,7 @@ fresno - yasene
 frontera (límite, borde, periferia) - kenare  
 fruta - pale  
 frío - lengi  
-fuego - pire  
+fuego - hoge  
 fuente (manantial) - fonte  
 fuera (exterior) - waye  
 fuerte - forti  
@@ -1289,19 +1291,18 @@ gato - maw (mawe)
 gay (homosexual) - geyi  
 gañar (triunfar, lograr, desrotar) - wina  
 gel (jalea, gelatina) - jele  
-generación (cohorte) - jenogrupe  
+generación (cohorte) - jengrupe  
 general (common) - putong (putongi)  
 generar (añadir) - zayisa  
 generosidad (caridad) - karimia  
 generoso (dadivoso, caritativo) - karimi  
 gengibre - zinje  
 genial - kuli  
-genotipo - jenotipe  
+genotipo - jentipe  
 gente - nase  
-geografía - zemgrafia  
 geología - zemlojia  
 Georgia (República de Georgia) - kartuelia  
-Georgias del Sur y Sándwich del Sur - sudi jorjia e sudi sanwice nesia  
+Georgias del Sur y Sándwich del Sur - sudi jorjia e sudi sanduice nesia  
 gerencia (dirección) - nomia  
 germanio - germanium  
 gesto - jeste  
@@ -1310,7 +1311,7 @@ Gibraltar - jibraltar
 giga- - gigo-  
 ginseng - jenxene  
 girar (rotar) - rotu  
-global (de todo el mundo) - panoduni  
+global (de todo el mundo) - panduni  
 global (mundial) - duni  
 globo - balone  
 gluten - glutene  
@@ -1320,7 +1321,7 @@ gobernar - governa
 gobierno - governe  
 golpear (pegar) - darba  
 goma (caucho, hule) - gome  
-goniómetro (medidor de ángulos) - gonometer  
+goniómetro (medidor de ángulos) - gonmeter  
 gota - yote  
 grabado (sello, estampando) - cape  
 gracias - danke  
@@ -1339,7 +1340,7 @@ grava - grave
 gravar (cobrar tasas) - taksa  
 Grecia - helenia  
 griego (helénico) - heleni  
-gris - huyorangi  
+gris - huyrangi  
 gritar - krita  
 Groenlandia - kalalia  
 grosero (maleducado) - nindi  
@@ -1400,19 +1401,19 @@ hecho - fate
 helado - aiskrem  
 helicóptero - helisvimane  
 helio - helium  
-heno - ganograse  
+heno - gangrase  
 hercio (Hz) - herze  
 hermano o hermana - saudare  
 hermoso (bello, lindo) - sundari  
 herramienta - tule  
-herrero - metalojanger  
+herrero - metaljanger  
 hervidor (tetera) - ketele  
 hervir (cocer) - bula  
 hervirse (ser cocida) - bulu  
 heterorromántico - alromansi  
 heterosexual - alseksi  
-hexaedro (cubo) - sisofase  
-hexágono - sisogone  
+hexaedro (cubo) - sisfase  
+hexágono - sisgone  
 hidrógeno - hidre  
 hielo - aise  
 hierro - fere  
@@ -1453,7 +1454,7 @@ hornacina - nixe
 hornear (cocer) - beka  
 horno - tanure  
 hotel (albergue) - hotel (hotele)  
-hoy - zayoden  
+hoy - zayden  
 hueso - oste  
 huevo - ande  
 humanidad (género humano) - insania  
@@ -1462,7 +1463,7 @@ humanista - insaniste
 humanístico - insanisti  
 humo - dumane  
 humor (gracia) - yumore  
-humor - emosohale  
+humor - emoshale  
 humorista - yumoriste  
 humorístico (gracioso, cómico) - yumori  
 humus - humusosos  
@@ -1479,7 +1480,7 @@ idea (noción, concepto) - ideye
 idea (pensamiento, reflexión) - fikre  
 ideograma - ideygrafe  
 ideología (doctrina, religión, -ismo) - istia  
-idioma artificial (lengua construida, conlang) - canobaxe  
+idioma artificial (lengua construida, conlang) - canbaxe  
 idiota (imbécil) - idiote  
 iglesia - eglise  
 igual (justo) - egali  
@@ -1494,8 +1495,8 @@ imperialismo - imperistia
 imperialista - imperiste  
 imperio - imperia  
 Imperio otomano - osmania  
-Imperio romano - romi empiria  
-impermeable (sumergible) - suyosekuri  
+Imperio romano - romi imperia  
+impermeable (sumergible) - suysekuri  
 impermeable - barxokote  
 importante - hami  
 importar - hamu  
@@ -1510,7 +1511,7 @@ indio (hindú) - barti
 indium - indium  
 Indonesia - indonesia  
 indígena (indio) - aslameriki  
-inequívoco - unomeni  
+inequívoco - unmeni  
 infección - infekse  
 inferior - nici  
 infiel (descreído) - andiniste  
@@ -1524,7 +1525,7 @@ ingeniero - injener
 Inglaterra - englia  
 inglés - engli  
 innato (endógeno) - indojeni  
-innecesario - annidi  
+innecesario - anonidi  
 inodoro (wáter, retrete) - tuale  
 insecto - koncunge  
 inspirar - inspira  
@@ -1554,7 +1555,7 @@ inyectar - juxa
 ion - ione  
 ir - gowa  
 ir a (en el futuro) - wil (wilo)  
-ir a lo largo de - parogowa  
+ir a lo largo de - pargowa  
 ira (furia) - furia  
 Iraq - irakia  
 iridio - iridium  
@@ -1567,7 +1568,7 @@ Isla de San Vicente - santi vinsente
 Isla Norfolk - norfolke  
 Isla Santa Elena - santi helenia  
 Islam - islamistia  
-islamofobia - islamofobia  
+islamofobia - islamfobia  
 Islandia - islandia  
 islas Aland - olandia  
 islas Caimán - keiman nesia  
@@ -1602,7 +1603,7 @@ jazz - jaze
 jefe - xefe  
 Jersey - jersia  
 Jesús - yesus  
-jira (pícnic) - wayyame  
+jira (pícnic) - wayoyame  
 jirafa - jirafe  
 joder (coger, copular) - coda  
 Jordania - urdunia  
@@ -1638,8 +1639,8 @@ Kazajistán (Kazakistan) - kazakia
 kelvin - kelvine  
 Kenia - kenia  
 kilo- - kilo-  
-kilograma - kilogram  
-kilometre - kilometre  
+kilograma - kilgram  
+kilometre - kilmetre  
 Kirguizistán - kirgizia  
 Kiribati - kiribatia  
 kiwi fruta - kiwe  
@@ -1669,14 +1670,14 @@ lasaña - lazanye
 lateral - lati  
 latitud - sudonordia  
 laurencio - laurensium  
-lava - yongopetre  
-lavadora - waxomaxine  
+lava - yongpetre  
+lavadora - waxmaxine  
 lavar - waxa  
 leal (fiel) - nidoxinabli  
 lealtad (fidelidad) - nidoxinablia  
 lección - darse  
 leche - milke  
-lecho de roca - bazpetre  
+lecho de roca - bazopetre  
 lechuga - letise  
 leer - duga  
 legumbre (frijol o arveja) - dowe  
@@ -1764,12 +1765,12 @@ Luxemburgo - luksemburgia
 luz (iluminación) - fote  
 lágrima - kansuye  
 lámpara - lampe  
-lápida - gabroseke  
+lápida - gabropetre  
 léxico - leksi  
 Líbano - libania  
 límite (frontera, linde) - limite  
-líquido (fluido) - liwomati  
-líquido - liwomate  
+líquido (fluido) - liwmati  
+líquido - liwmate  
 lógica - logike  
 ##m
 Macao - makaw  
@@ -1818,7 +1819,7 @@ mantequilla - makane
 manual - handi  
 manzana - apele  
 maní - zemdowe  
-mapa - zemsure  
+mapa - zemgrafe  
 mapache - waxurse  
 mar - mare  
 maratí - marati  
@@ -1872,16 +1873,16 @@ medio - media
 medioambiente (naturaleza) - ekia  
 medir (tomar las medidas) - meta  
 meditar (reflexionar) - medita  
-Mediterráneo - zemmedi mare  
+Mediterráneo - zemomedi mare  
 medusa - marjele  
 mega- - mego-  
-megavatio - megowate  
+megavatio - megwate  
 meitnerio - maitnerium  
 mejorar - darjobona  
 melodioso - melodi  
 melodía - melodia  
 memoria - meme  
-memorándum (nota) - memonote  
+memorándum (nota) - memnote  
 meninge - meninge  
 meningitis - meningitis  
 menor (leve) - minori  
@@ -1897,17 +1898,17 @@ meseta - mezistan
 mesiánico - kristi  
 meta (gol) - gole  
 metal - metale  
-metal pesado - barometale  
+metal pesado - barmetale  
 meter prisa - yala  
 metro - metre  
-metro - tunelotren  
+metro - tuneltren  
 mez - mes (mese)  
 mezclar - mixa  
 mezquino (antipático) - zalimi  
 mi - mi  
 micro- - mikro-  
 Micronesia - mikronesia  
-Midsommar - medileti den  
+Midsommar - medoleti den  
 miedo (-fobia) - fobia  
 miel - mele  
 miembro (componente) - member  
@@ -1917,8 +1918,8 @@ migrar (emigrar, tralsadar) - migra
 migrarse (mudarse, trasladarse) - migru  
 mil - kili  
 mili- - milo-  
-miligrama - milogram  
-milimetre - milometre  
+miligrama - milgram  
+milimetre - milmetre  
 millón - megi  
 mina - kuangeria  
 mineral (mena) - kuange  
@@ -1939,7 +1940,7 @@ moda (tendencia) - faxone
 modelar - modele  
 modelo (similitud, simulación) - samsifia  
 modelo - modela  
-moderno - novoyangi  
+moderno - novyangi  
 modo (manera, forma) - mode  
 modo nocturno - nocomode  
 mojado - xipi  
@@ -1957,16 +1958,16 @@ molusco - moluske
 molécula - molekule  
 momento (tiempo) - sate  
 momia - mumrene  
-moneda - pesodiske  
+moneda - pesdiske  
 mongol - mongoli  
 Mongolia - mongolia  
 monismo - monistia  
-monocromático - unorangi  
-monoteismo - undewistia  
+monocromático - unrangi  
+monoteismo - mondewistia  
 monstro - monster  
 montaña (colina) - xane  
 Montenegro - cernogoria  
-monumento - memobine  
+monumento - membine  
 monólogo - monloge  
 morado (púrpura) - violeti  
 moral (ético) - darmi  
@@ -2026,10 +2027,9 @@ nación - nasia
 nada - nol xey  
 nadar (flotar) - boya  
 nailon (nilón) - nilone  
-nalgas - pige  
 Namibia - namibia  
 nano- - nano-  
-nanometre - nanometre  
+nanometre - nanmetre  
 naranja - oranje  
 nariz - nose  
 nasal - nosi  
@@ -2075,7 +2075,7 @@ nobiembre - mes 11 (mes desi uni)
 noche (tarde) - xame  
 noche - noce  
 nombre - nam (name)  
-nombre de usuario - uzeronam  
+nombre de usuario - uzernam  
 norma - norme  
 norma - normi  
 norte - norde  
@@ -2109,7 +2109,7 @@ níquel - nikele
 nómada - badawi  
 número (muchedumbre) - multia  
 número - nombre  
-número de identificación personal - sekuronombre  
+número de identificación personal - sekurnombre  
 o - o  
 ##o
 oasis - wase  
@@ -2139,7 +2139,7 @@ ogro (gnomo, trol, duende, trasgo) - guye
 ojo - kan (kane)  
 ojo - kana  
 olvidar - anmema  
-ominoso (amenazador) - malosinyi  
+ominoso (amenazador) - malsinyi  
 Omán - omania  
 onda - onde  
 opción - cuzable  
@@ -2154,9 +2154,9 @@ ordenar (arreglar) - ratiba
 ordeñar - tira milke  
 ordinario (habitual) - adi  
 oreja - ore  
-orfanato - yatimodome  
+orfanato - yatimdome  
 orgasmo - orgazme  
-orgánico - biyi  
+orgánico - jivi  
 oriental - dongi  
 origen - asle  
 original - asli  
@@ -2168,7 +2168,7 @@ oromo - oromi
 Oromía - oromia  
 ortogonal - ortogoni  
 oscuro - oskuri  
-Osetia del Sur - sudi iria, alonia  
+Osetia del Sur - sudi iria (alonia)  
 osmio - osmium  
 oso - urse  
 otitis - oritis  
@@ -2190,7 +2190,7 @@ pala - bele
 palabra (vocablo) - lekse  
 palacio (mansión) - gundene  
 paladio - paladium  
-palanca - tirobatone  
+palanca - tirbatone  
 Palaos - palawia  
 Palestina - filistinia  
 palmera - palme  
@@ -2204,28 +2204,28 @@ panamericano - panameriki
 Panamá - panamia  
 panasiano - panasi  
 panda - pande  
-pandemonio - panodemonia  
+pandemonio - pandemonia  
 Pandunia - pandunia  
-pandémico - panodemi  
+pandémico - pandemi  
 panecillos al vapor (mantou) - mante  
 paneuropeo - paneuropi  
 panqueque (crepa) - krepe  
-panrromántico - panoromansi  
-pansexual - panoseksi  
+panrromántico - panromansi  
+pansexual - panseksi  
 pantalla - ekrane  
 pantalones - pantalone  
-panteísmo - panodewistia  
-panteón - panodewia  
+panteísmo - pandewistia  
+panteón - pandewia  
 papa - patate  
 papaya - papaye  
 papel - kagaze  
 papel - role  
-papel tapiz - walopapire  
+papel tapiz - walpapire  
 Papúa Nueva Guinea - papuwi novi ginia  
 paquete - pake  
 parada (alto) - ting (tinge)  
 Paraguay - paraguayia  
-paralelo - parogowi  
+paralelo - pargowi  
 parar (detener) - tinga  
 parar - pauza  
 pararse (detenerse) - estasu  
@@ -2248,7 +2248,7 @@ Partido Pirata - piratisti partia
 partir (dividirse) - fenu  
 partícula (grano, bala) - dane  
 parámetro - parame  
-pasa (uva pasa) - ganoputawe  
+pasa (uva pasa) - ganputawe  
 pasado - pase  
 pasaporte - pasporte  
 pasar (transcurrir) - duru  
@@ -2268,13 +2268,13 @@ patógeno - patojener
 pausa - pauze  
 paz - pace  
 país (nación, estado, terra) - dexe  
-país extranjero - wayodexia  
+país extranjero - waydexia  
 Países Bajos - nederlandia  
 pecho (busto) - buste  
 pecho (seno, tórax) - sine  
 pedal - pedale  
 pedazo - tike  
-pedernal (sílex) - piropetre  
+pedernal (sílex) - hogopetre  
 pedir (invitar) - pliza  
 pedir prestado - jekogeta  
 pedo - pede  
@@ -2290,16 +2290,16 @@ peligro - hatare
 peligroso - hatari  
 pelo - kexe  
 película (film, membrana) - filme  
-película (filme) - kinografe  
+película (filme) - kingrafe  
 pena (tristeza) - duke  
 pene - penise  
 pensar - fikra  
-pentaedro - limofase  
-pentágono - limogone  
+pentaedro - limfase  
+pentágono - limgone  
 península - yagonese  
 peonía - mudane  
 pepino - pepine  
-pepita - semodane  
+pepita - semdane  
 pequeño - lil (lili)  
 pera - leze  
 perdedor - luzer  
@@ -2310,7 +2310,7 @@ perfecto - kamili
 perforar (agujerar) - konga  
 periférico - kenari  
 periodista - gazeter  
-periódico (diario) - habarogazete  
+periódico (diario) - habargazete  
 perla - lule  
 permitido (admisible) - halali  
 permitir (dejar) - halala  
@@ -2321,20 +2321,19 @@ personal (privado) - auti
 perspectiva (punto de vista) - vidopunte  
 pertenecer (ser miembro de) - memba  
 Perú - peruvia  
-pesa (báscula, balanza) - barometer  
+pesa (báscula, balanza) - barmeter  
 pesa - bare  
 pesado - bari  
-pescador - fixosaider  
+pescador - fixsaider  
 pescar - kapa fixe  
 peso (gravedad) - baria  
 pestaña - kankexe  
-peto - sinoplate  
+peto - sinplate  
 pez (pescado) - fixe  
 piano - piane  
 pidgin - pijine  
 pie (pata) - fute  
-piedra - seke  
-piedra preciosa (joya, gema) - bawseke  
+piedra preciosa (joya, gema) - bawpetre  
 piel - pile  
 pila (batería) - batre  
 pilaf (pulaw) - polave  
@@ -2350,7 +2349,7 @@ piratería - piratia
 pirámide - pirame  
 pis (meados) - pixe  
 piscina (alberca, lavadero) - basene  
-piso (suelo) - kamarotale  
+piso (suelo) - kamartale  
 pistola (rifle) - pawe  
 pistola - pistole  
 pizza - pize  
@@ -2391,15 +2390,15 @@ polaco - polski
 poli- - polo  
 policía - polise  
 policía - poliser  
-poliedro - polofase  
+poliedro - polfase  
 Polinesia Francesa - fransi polinesia  
-politeísmo - polodewistia  
+politeísmo - poldewistia  
 pollo - kokode  
 Polonia - polskia  
 polonio - polonium  
 polvo - fune  
 polvo de cara - mukofune  
-polígono - pologone  
+polígono - polgone  
 política - politike  
 político - politiker  
 político - politiki  
@@ -2420,7 +2419,7 @@ potasio - kalium
 practicar (ensayar, ejercitar) - lenxa  
 pradera (pastizal) - grasistan  
 praseodimio - prasedime  
-preceder (anteceder) - preda  
+preceder (anteceder) - cena  
 precio (coste) - koste  
 precioso - bawi  
 preferir (favorecer) - favora  
@@ -2435,7 +2434,6 @@ presión atmosférica - airbare
 prestar (pedir prestado) - jeka  
 prestar - jekodona  
 presuponer - cenaga  
-presuponer - predogara  
 presupuesto - bujete  
 prever (esperar, pensar) - cenvida  
 previo (anterior) - ceni  
@@ -2458,14 +2456,14 @@ profesión (ocupación) - pexe
 profesor - profesor  
 profeta - naber  
 profeta Mani - manihaye  
-profundo (hondo) - fasoteli  
+profundo (hondo) - fasteli  
 programa - programe  
 programador - programer  
 prohibido (tabú) - harami  
 prohibir - harama  
 prometer (comprometerse) - wada  
 prometio - prometium  
-pronombre - visolekse  
+pronombre - vislekse  
 pronto - suno  
 pronunciar (articular) - fona  
 propiedad - malke  
@@ -2482,7 +2480,7 @@ prueba - teste
 práctica - prate  
 práctico - prati  
 préstamo lingüístico - jekolekse  
-psicología - ruholojia  
+psicología - ruhlojia  
 psique - ruhe  
 puaj - fuy  
 pudrirse (cariarse, descomponerse) - pudu  
@@ -2491,7 +2489,7 @@ pueblo (población) - deme
 pueblo - nagre  
 puente - pule  
 puerta - mun (mune)  
-puerto marítimo - suyoporte  
+puerto marítimo - suyporte  
 Puerto Rico - portorikia  
 pulir (lustrar) - fotofrika  
 pulmón - pulmone  
@@ -2511,8 +2509,8 @@ público - demi
 qualquier - eni  
 que (como) - ko  
 quedarse - restu  
-quemar - pira  
-quemarse - piru  
+quemar - hoga  
+quemarse - hogu  
 querer (desear) - wana  
 querer (disponer) - ica  
 querido - ami  
@@ -2521,7 +2519,7 @@ queso - cise
 queso fresco - panire  
 quilate - kirate  
 quiosco (kiosco) - kioske  
-quitar (eliminar, borrar) - zayisula  
+quitar (eliminar, borrar) - anzayisa  
 quién - ki ren  
 qué - ke  
 qué tipo de - ki yangi  
@@ -2572,7 +2570,7 @@ redes sociales - soci media
 redondo (circular) - cirki  
 reducir a la mitad (dividir en dos) - dulo fena  
 reflejar - mira  
-refuerzos - maxoforte  
+refuerzos - maxforte  
 regalo (obsequio) - done  
 registrar (recordar, anotar) - defta  
 registro (archivo, anotación) - defte  
@@ -2620,13 +2618,12 @@ responder (contestar) - jawaba
 restaurante - restorante  
 resto (demás) - reste  
 resulta (efecto) - rezulte  
-retículo - krusokorde  
+retículo - kruskorde  
 reunión (junta, mitin) - mite  
 Reunión - reunion  
 reventar - parcokayu  
 revisar (chequear) - ceka  
 revista (periódico, gaceta) - gazete  
-revocar - ula  
 rey - mani rajer  
 rey o reina - rajer  
 rezar (orar) - duwa  
@@ -2644,7 +2641,7 @@ riñon - nefre
 robar (hurtar) - cora  
 robo (hurto) - core  
 robot - robote  
-roca - petre  
+roca (piedra) - petre  
 rocío - rose  
 rodear (cirundar) - cirka  
 rodilla - gute  
@@ -2654,7 +2651,7 @@ rojo - kirmi
 rollo - rule  
 Roma - rome  
 romance - romansia  
-romanizar - latinokitaba  
+romanizar - latinkitaba  
 romper (hacer pedazos) - parca  
 romántico - romansi  
 ron - rume  
@@ -2764,7 +2761,7 @@ serpiente (culebra) - serpe
 servicio - serve  
 servir - serva  
 sexo (género) - jinse  
-sexo - biyi jinse  
+sexo - jivi jinse  
 sexo - sekse  
 sexy (sexual) - seksi  
 Seychelles - sexel nesia  
@@ -2802,8 +2799,8 @@ sismología - sismolojia
 sistema - sisteme  
 sistema solar - solsisteme  
 sistémico - sistemi  
-sitio web - netloke  
-situación - xeyohale  
+sitio web - netoloke  
+situación - xeyhale  
 sobrepasar (sobre) - supra  
 social - soci  
 socialismo - socistia  
@@ -2846,6 +2843,7 @@ Suecia - suenia
 sueño - sone  
 sufijo - badofikse  
 sufijo para adjetivos - -i  
+sufijo para adverbios - -o  
 sufijo para regiónes y sustantivos abstractos - -ia  
 sufijo para sustantivos - -e  
 sufijo para verbos con el orden de las palabras OVS - -u  
@@ -2860,7 +2858,7 @@ suma (total) - sume
 sumar - suma  
 suministrar (dar, proveer, emitir) - fada  
 sumisión (rendición) - islame  
-superficial (poco profundo) - fasotelia  
+superficial (poco profundo) - fastelia  
 superior (más alto) - supri  
 sur - sude  
 sureño - sudi  
@@ -2868,7 +2866,7 @@ surgéncia (propuesta) - suje
 Surinam - surinamia  
 sushi - suxe  
 sustancia (materia) - mate  
-sustantivo - namolekse  
+sustantivo - namlekse  
 sustituir (reemplezar) - visa  
 susurrar (curjir) - xaxu  
 Svalbard - sualbardia  
@@ -2900,27 +2898,27 @@ taoísta - dawiste
 tapa (funda, cubierta) - dake  
 taponar - tapa  
 tapón (tapa) - tape  
-tarde (después de mediodía) - xamoden  
+tarde (después de mediodía) - xamden  
 tarjeta (carta) - karde  
 tasa (precio, cuota, tarifa) - takse  
 tatuaje - tatawe  
 taxi (cab) - taksogare  
 Tayikistán - tajikia  
-taza de café - kafokope  
-taza de té - cayokope  
+taza de café - kafkope  
+taza de té - caykope  
 techo (tejado) - cate  
 tecla (botón) - butone  
 teclado - butonbanze  
 tecnetio - tehnetium  
 tecnocracia - tehnokratia  
 tecnología - tehnolojia  
-tectónica de placas - plati zemokaskia  
+tectónica de placas - plati zemkaskia  
 tejer - texa  
 tela (paño, tejido) - texe  
-telar - texomaxine  
-telefono - telofone  
+telar - texmaxine  
+telefono - telfone  
 teletransportarse - teloloku  
-televisión - telovide  
+televisión - telvide  
 telurio - telurium  
 tema - teme  
 temperatura - terme  
@@ -2936,8 +2934,8 @@ teneso - tenesine
 tennis - tenis (tenise)  
 tentar (seducir) - tenta  
 tentempié - lilyame  
-teocracia - dewokratia  
-teología - dewolojia  
+teocracia - dewkratia  
+teología - dewlojia  
 teoría - teoria  
 tera- - tero-  
 terbio - terbium  
@@ -2966,7 +2964,7 @@ tikka masala - masali tike
 Timor - timor  
 Timor Oriental - dongi timoria  
 tinta - moge  
-tinte - rangomate  
+tinte - rangmate  
 tipo (género) - tipe  
 tira (faja, vendaje, cinta) - faxe  
 tirano - tirane  
@@ -2992,7 +2990,7 @@ tono - tone
 topo - krote  
 torio - torium  
 tormenta (tempestad) - tafune  
-tormenta - gromotafune  
+tormenta - gromtafune  
 tornillo - lose  
 torre - minare  
 torre del reloj - relojominare  
@@ -3015,17 +3013,17 @@ tranquilo (calmado) - xanti
 transitar (atravesar) - transa  
 Transnistria (Cisdniéster) - nistria  
 transporte - transeria  
-trasero - kule  
+trasero (nalgas) - pige  
 tratar de - tema  
 tren - tren (trene)  
 tres (3) - tini  
 tribu - tribe  
-tridente - tinozonge  
+tridente - tinzonge  
 trigo - gandume  
 Trinidad y Tobago - trinidade e tobage  
 triste - duki  
-triángulo - tinogone  
-trompo - tolo  
+triángulo - tingone  
+trompo - tole  
 truco - truke  
 truenos (estruendo) - grome  
 tránsito - transe  
@@ -3052,7 +3050,7 @@ té - cay (caye)
 técnica - tehne  
 télugu - telugi  
 Tíbet - podia  
-título - temonam  
+título - temnam  
 tóxico - toksi  
 tú (usted) - te  
 túnel - tunele  
@@ -3062,7 +3060,7 @@ túnica - tunike
 Ucrania - ukrainia  
 Uganda - gandia  
 una vez - un ban  
-unidad (medida) - unomete  
+unidad (medida) - unmete  
 unidad fundumental - eme  
 unido - unisi  
 unir - unisa  
@@ -3091,20 +3089,20 @@ vagina - vagine
 vaginitis - vaginitis  
 vainilla - vanile  
 valiente (heroico) - viri  
-valla (cerca) - kenarobaryer  
+valla (cerca) - kenarbaryer  
 valle - vale  
 vamos a - haida  
 vampiro - vampire  
 vanadio - vanadium  
 Vanuatu - vanuatia  
-vapor - suyogase  
+vapor - suygase  
 variedad (tipo, estilo) - yange  
 vaso (taza, copa) - kope  
 vatio - wate  
 vegano - monvejetyamiste  
 vegetal - vejete  
 vegetariano - vejetyamiste  
-vela (candela, cirio) - mumnure  
+vela (candela, cirio) - mumfote  
 velero - boter  
 velo - hijabe  
 velocímetro - rapidometer  
@@ -3117,7 +3115,7 @@ ventilador - panke
 Venus - venus  
 ver (mirar) - vida  
 verano - lete  
-verbo - karolekse  
+verbo - karlekse  
 verdadero - veri  
 verde - lugi  
 verduras - coye  
@@ -3125,21 +3123,21 @@ vergüenza (pena) - xarme
 verme - verme  
 verruga - zeyile  
 versión (modelo) - versione  
-vertical - gawotali  
+vertical - gawtali  
 vestigio (sobrante, residuo) - laxe  
 vez - ban (bane)  
 viajar - safara  
 viaje - safare  
 viajero - safarer  
 vice- - visi  
-vicepresidente - visoprezidente  
+vicepresidente - visprezidente  
 victoria - wine  
 vida - haye  
-vida orgánica - biye  
+vida orgánica - jive  
 vidriado (esmalte) - kancodake  
 vidriar (glasear) - kancodaka  
 vidrio (cristal) - kance  
-vidrio volcánico - piroxami kance  
+vidrio volcánico - hogoxami kance  
 viejo (anciano) - lawe  
 viejo (anciano) - lawi  
 viejo (antiguo) - purani  
@@ -3152,9 +3150,9 @@ vigilar (guardar) - garda
 vinagre - sirke  
 vinilo - vinile  
 vino - vine  
-virología - virusolojia  
-virtud (moralidad) - gunodarme  
-virtuoso (moral) - gunodarmi  
+virología - viruslojia  
+virtud (moralidad) - gundarme  
+virtuoso (moral) - gundarmi  
 virus - virus (viruse)  
 visado - vize  
 visitar - vizita  
@@ -3165,7 +3163,7 @@ vivo (lleno de vida) - hayi
 vocabulario (léxico) - leksia  
 vocal - vokale  
 volar - feya  
-volcán - piroxame  
+volcán - hogoxame  
 voltio (V) - volte  
 voluntad - ice  
 volver - retra  
@@ -3175,7 +3173,7 @@ vudú - vodun
 vuelta - retre  
 vulva - vulve  
 válvula (llave, canilla) - krane  
-vía férrea - trenodaw  
+vía férrea - trendaw  
 ##w
 Wallis y Futuna - walis e futun nesia  
 wiki - wikia  
@@ -3193,7 +3191,7 @@ yoga - yoge
 yogui - yogiste  
 yuca (mandioca) - manioke  
 yudo - judaw  
-yunque - metalobede  
+yunque - metalbede  
 yupi - yey  
 ##z
 Zambia - zambia  
@@ -3228,7 +3226,7 @@ zulú - zuli
 éste - donge  
 ética (filosofía moral) - darmoloji  
 étnico - zuki  
-índice de contenidos - tenoliste  
+índice de contenidos - tenliste  
 ósmosis - osme  
 óxide - okside  
 útil (beneficioso) - faidi  

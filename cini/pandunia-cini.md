@@ -89,13 +89,13 @@ basi - 够
 baskobol - 篮球  
 batre - 电池  
 bawi - 宝贵  
-bawseke - 宝石  
+bawpetre - 宝石  
 baxe - 语言  
 baxi jinse - 文法的性  
 baxlojia - 语言学  
 bazare - 市场  
-bazbole - 棒球  
 baze - 底部  
+bazobole - 棒球  
 bebe - 宝宝  
 bekopote - 陶瓦  
 bele - 铲  
@@ -103,13 +103,10 @@ bere - 浆果 (莓)
 bile - 帐单  
 bina - 建设  
 bire - 啤酒  
-biyi jinse - 生物性別  
-biyomutu - 发酵  
-biyosisteme - 生物群系  
 bol (bole) - 球  
 bombe - 炸弹  
 bon (boni) - 好  
-bonosinyi - 吉利的  
+bonsinyi - 吉利的  
 bote - 船 (艇)  
 botele - 瓶  
 botolefte - 左舷  
@@ -126,7 +123,7 @@ ca - 从
 camace - 匙子  
 cari - 四 (4)  
 cay (caye) - 茶  
-cayokope - 茶碗  
+caykope - 茶碗  
 cendeno - 昨日  
 cenge - 层  
 ceno - 以前  
@@ -135,9 +132,9 @@ cile - 菜椒
 cilfune - 辣椒粉  
 cini - 汉族  
 cira - 撕裂  
+circira - 撕毁  
+circiri - 褴褛的  
 cire - 撕裂  
-cirocira - 撕毁  
-cirociri - 褴褛的  
 cise - 酪 (起司)  
 cokolate - 巧克力  
 cokolatobatone - 巧克力棒  
@@ -145,14 +142,14 @@ cungcing - 重庆
 cuzable - 选择 (买卖权)  
 ##d
 danger - 钟 (摇铃)  
-datbanke - 数据库  
 date - 数据  
+datobanke - 数据库  
 daymare - 大洋  
 daypawe - 大炮  
 dayvaze - 炼药锅  
 debili - 虚弱 (易坏)  
-defobanze - 盾牌  
-defokaske - 盔甲  
+defbanze - 盾牌  
+defkaske - 盔甲  
 deki - 的  
 destine - 目的地 (命運)  
 dew (dewe) - 神  
@@ -178,7 +175,7 @@ ekore - 松鼠
 eletrolinye - 电缆 (电线)  
 eletrorade - 闪电  
 emoje - 绘文字  
-emosohale - 心情  
+emoshale - 心情  
 esa - 对  
 esponje - 海绵  
 esprinta - 跑步  
@@ -188,7 +185,7 @@ ewanjile - 福音
 ##f
 fansoldixo - 反时针方向的  
 fase - 面  
-fasoteli - 深  
+fasteli - 深  
 fate - 事实  
 fatigu - 疲劳  
 fem (feme) - 女  
@@ -197,8 +194,8 @@ filme - 膜
 filsofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
-fitlojia - 植物学  
-fixosaider - 鱼夫  
+fitolojia - 植物学  
+fixsaider - 鱼夫  
 flece - 箭  
 fora - 钻孔  
 fote - 光  
@@ -212,12 +209,12 @@ fule - 花
 gabra - 埋葬  
 gabre - 坟墓  
 gabristan - 公墓 (墓地)  
-gabroseke - 墓石 (墓碑)  
+gabropetre - 墓石 (墓碑)  
 galaksia - 恆星系  
 galte - 错误  
 gance - 钩  
 gandume - 麦  
-ganograse - 干草  
+gangrase - 干草  
 garmozone - 热带  
 gati - 硬  
 gatomate - 固体  
@@ -234,8 +231,8 @@ granite - 花岗石
 grave - 砾石  
 grimase - 鬼脸  
 guangjou - 广州  
+gundarme - 道德  
 gundene - 殿 (宫殿, 宅第)  
-gunodarme - 道德  
 gute - 膝  
 ##h
 habare - 消息  
@@ -255,6 +252,12 @@ hewane - 动物
 hewanparke - 动物园  
 hijabe - 面纱  
 hisaba - 计算  
+hoga - 燃烧  
+hoge - 火  
+hogopetre - 燧石  
+hogotehne - 烟火  
+hogoxame - 火山  
+hogu - 烧  
 hoke - 曲棍球  
 hore - 小时  
 hotel (hotele) - 旅馆  
@@ -274,9 +277,12 @@ jekodona - 借出
 jekogeta - 借入  
 jeni - 生的  
 jeni baxe - 母语  
-jenotipe - 基因型  
+jentipe - 基因型  
 jinse - 性别  
 jirafe - 长颈鹿  
+jivi jinse - 生物性別  
+jivomutu - 发酵  
+jivosisteme - 生物群系  
 jule - 焦耳 (J)  
 jumle - 句子  
 junge - 中心  
@@ -305,8 +311,8 @@ karbondulokside - 二氧化碳
 karde - 牌  
 kare - 工作  
 karer - 工人 (工作者)  
-karolekse - 动词  
-karomisa - 提交  
+karlekse - 动词  
+karmisa - 提交  
 karsi - 粗糙  
 kaske - 壳 (皮)  
 kata - 切  
@@ -314,8 +320,8 @@ kava - 挖
 kave - 坑 (穴)  
 ke - 什么  
 keci - 客气  
+kenarbaryer - 篱笆  
 kenare - 边  
-kenarobaryer - 篱笆  
 kerne - 核心  
 kimia - 化学  
 kirmi - 红  
@@ -381,7 +387,7 @@ linse - 猞猁 (山貓)
 lisane - 舌头  
 liste - 单子  
 litre - 升  
-liwokope - 漏斗  
+liwkope - 漏斗  
 loga - 说话 (讲)  
 loka - 放置  
 loke - 地方  
@@ -399,7 +405,7 @@ luza tena - 亏损 (失去)
 ##m
 magribia - 摩洛哥  
 maidane - 广场  
-malosinyi - 不祥的  
+malsinyi - 不祥的  
 mame - 妈妈  
 mangese - 镁  
 manihayistia - 摩尼教  
@@ -416,8 +422,8 @@ mature - 成年人
 maturi fem - 女人  
 maturi man - 男人  
 maw (mawe) - 猫  
+maxforte - 加固  
 maxim (maximo) - 最  
-maxoforte - 加固  
 maye - 蚂蚁  
 me - 我  
 mece - 比赛  
@@ -428,8 +434,8 @@ mema - 记得 (回忆)
 meme - 记忆 (记性)  
 mene - 意义  
 meninge - 脑脊膜  
-metalobede - 铁砧  
-metalojanger - 铁匠  
+metalbede - 铁砧  
+metaljanger - 铁匠  
 metre - 米 (公尺)  
 mey (meyi) - 每  
 meze - 桌子  
@@ -450,7 +456,7 @@ mule - 根
 muskulbine - 健美运动  
 ##n
 nade - 河 (江)  
-namokitaba - 签署  
+namkitaba - 签署  
 nasmedi - 国际  
 navi - 九 (9)  
 nefre - 肾脏  
@@ -501,20 +507,14 @@ pay (paye) - 馅饼
 peda - 放屁  
 pede - 屁  
 pelmene - 饺子  
+pesdiske - 硬币  
 pese - 钱  
-pesodiske - 硬币  
 piaze - 洋葱  
 pikosape - 镐  
 pile - 皮  
 pine - 别针  
 pipre - 胡椒  
-pira - 燃烧  
-pire - 火  
-piropetre - 燧石  
-pirotehne - 烟火  
-piroxame - 火山  
-piru - 烧  
-plati zemokaskia - 板块构造论  
+plati zemkaskia - 板块构造论  
 platistan - 平原  
 pliza - 请  
 plume - 李子  
@@ -529,7 +529,7 @@ pule - 桥
 pume - 美洲獅 (山狮)  
 putong (putongi) - 普通  
 ##r
-rangomate - 染料  
+rangmate - 染料  
 rapidi - 快  
 rari - 稀有 (稀少的)  
 rase - 种族  
@@ -553,6 +553,7 @@ safare - 旅行
 sahi - 正确  
 saida - 打猎  
 saide - 狩猎  
+saider - 狩人  
 salame - 迎接  
 sale - 盐  
 samane - 天空  
@@ -561,13 +562,14 @@ samsifia - 模型
 sanduice - 三明治 (三文治)  
 sange - 血  
 sapate - 鞋  
+sape - 锄  
 sare - 头  
 saturne - 土星  
 selolojia - 细胞学  
 semane - 週  
+semdane - 种子  
 seme - 种  
 semi - 种子的  
-semodane - 种子  
 sere - 锯子  
 serye - 系列  
 seti - 七 (7)  
@@ -588,13 +590,13 @@ sonu - 睡觉 (困觉)
 sore - 锁  
 sosise - 香肠  
 suki - 高兴  
+sundardake - 装饰  
 sundari - 漂亮 (美)  
 sundaria - 美丽  
-sundarodake - 装饰  
 suprize - 惊奇  
 susane - 百合花  
 suy (suye) - 水  
-suyogase - 蒸汽  
+suygase - 蒸汽  
 ##t
 taile - 砖 (瓦)  
 taksometer - 计程器  
@@ -605,10 +607,10 @@ tazi - 新鲜的
 te - 你  
 tehne - 技术  
 tehnolojia - 工艺学  
-telofone - 电话机  
-telovide - 电视机  
+telfone - 电话机  
+telvide - 电视机  
 teme - 主题目  
-temonam - 标题  
+temnam - 标题  
 tena - 有  
 tenke - 天气  
 tenu - 属于  
@@ -620,9 +622,9 @@ texe - 布料
 tikete - 票  
 time - 队  
 tini - 三 (3)  
-tinozonge - 三叉戟  
+tinzonge - 三叉戟  
 tira milke - 拉  
-tirobatone - 杆  
+tirbatone - 杆  
 toca - 接触  
 tomate - 西红柿  
 tote - 你们  
@@ -654,11 +656,11 @@ vulve - 外阴 (陰门)
 vute - 物体 (物品)  
 ##w
 wale - 墙  
-walopapire - 壁纸 (墙纸)  
+walpapire - 壁纸 (墙纸)  
 wana - 想要 (愿意)  
 waxurse - 浣熊  
+wayoyame - 野餐  
 waytira - 拉  
-wayyame - 野餐  
 ##x
 xame - 晚上  
 xanghai - 上海  
@@ -666,10 +668,10 @@ xarke - 鲨鱼 (shayu)
 xatan (xatane) - 撒但  
 xawi - 少  
 xey (xeye) - 事物 (东西)  
-xeyohale - 事态  
+xeyhale - 事态  
 xibaye - 失败  
 xime - 心  
-xingofota - 闪烁  
+xingfota - 闪烁  
 xipa - 弄湿  
 xipi - 湿  
 xire - 诗  
@@ -683,15 +685,15 @@ xute - 技术
 ##y
 yexo - 还 (依然)  
 yoge - 瑜伽功  
-yongopetre - 熔岩  
-yongosaha - 熔炼  
+yongpetre - 熔岩  
+yongsaha - 熔炼  
 yongu - 融化  
 yuke - 玉  
 ##z
 zebre - 斑马  
 zemforme - 地势  
-zemsure - 地图  
-zemsuria - 地图学  
+zemgrafe - 地图  
+zemgrafia - 地图学 (地理)  
 zeyile - 疣  
 zime - 冬天  
 zinje - 姜  

@@ -2,6 +2,7 @@
 -a - suffixe pour les verbes avec ordre des mots SVO  
 -e - suffixe pour dériver les noms  
 -i - suffixe pour l'adjectif  
+-o - suffixe pour l'adverbe  
 -u - suffixe pour les verbes avec ordre des mots OVS  
 a - mais (bien que)  
 ##a
@@ -73,7 +74,7 @@ aplika - appliquer
 arabi - arabe  
 arane - araignée  
 aranfobia - arachnophobie  
-arannete - toile d'araignée  
+aranonete - toile d'araignée  
 arbuze - pastèque  
 are - aire (superficie)  
 argente - argent  
@@ -135,12 +136,12 @@ basi - assez
 baskobol - basketball  
 batre - pile (batterie)  
 bawi - précieux  
-bawseke - pierre précieuse (joyau)  
+bawpetre - pierre précieuse (joyau)  
 baxe - langue  
 baxi jinse - genre grammatical  
 bazare - marché (bazar)  
-bazbole - baseball  
 baze - base  
+bazobole - baseball  
 bebe - bébé  
 beker - boulanger  
 bekopote - terre cuite  
@@ -148,9 +149,6 @@ bele - pelle
 bere - baie  
 bina - construire  
 bire - bière  
-biyocaniver - compost  
-biyomutu - fermenter  
-biyosisteme - biome  
 bol (bole) - balle (boule)  
 bombe - bombe  
 bon (boni) - bon  
@@ -173,7 +171,7 @@ canse - chance
 cari - quatre (4)  
 carme - charme  
 cay (caye) - thé  
-cayokope - tasse à thé  
+caykope - tasse à thé  
 cendeno - hier  
 ceno - avant  
 cerize - cerise  
@@ -192,14 +190,14 @@ dalile - preuve
 damaje - dommage  
 danger - cloche  
 danse - dance  
-datbanke - base de données  
 date - données  
+datobanke - base de données  
 daymare - océan  
 daypawe - canon  
 dayvaze - chaudron  
 debili - faible  
-defobanze - bouclire  
-defokaske - armure  
+defbanze - bouclire  
+defkaske - armure  
 destine - destin (destination)  
 dew (dewe) - dieu  
 dike - objectif (cible)  
@@ -225,7 +223,7 @@ eletre - électricité
 eme - unité fondamentale  
 emoje - émoticône (emoji)  
 emose - émotion  
-emosohale - humeur  
+emoshale - humeur  
 esa - être  
 eskulter - sculpteur  
 esponje - éponge  
@@ -238,7 +236,7 @@ ewanjile - évangile
 faner - opposant (antagoniste)  
 fansoldixo - dans le sens antihoraire  
 fase - face (facette)  
-fasoteli - profond  
+fasteli - profond  
 fata - faire  
 fate - fait  
 fatigia - fatigue  
@@ -246,8 +244,8 @@ favori - favori (préféré)
 feni - distinct (numérique)  
 filsofia - philosophie  
 fiorde - fiord  
-fitlojia - botanique  
-fixosaider - pêcheur  
+fitolojia - botanique  
+fixsaider - pêcheur  
 flece - flèche  
 fora - forer (percer)  
 fote - lumière  
@@ -263,14 +261,14 @@ futobole - football
 gabra - enterrer  
 gabre - tombe  
 gabristan - cimetière  
-gabroseke - pierre tombale  
+gabropetre - pierre tombale  
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
 gamia - mariage  
 gance - crochet  
 gandume - blé  
-ganograse - foin  
+gangrase - foin  
 garmozone - tropique  
 gase - gaz  
 gati - dur  
@@ -309,6 +307,11 @@ hijabe - voile
 hijenia - hygiène  
 hime - neige  
 hisaba - calculer  
+hoga - brûler  
+hoge - feu  
+hogopetre - silex  
+hogotehne - feu d’artifice  
+hogoxame - volcan  
 hoke - hockey  
 hore - heure  
 hotel (hotele) - hôtel  
@@ -329,10 +332,13 @@ jeka - prêter (empruntre)
 jekodona - prêter  
 jekogeta - empruntre  
 jeni baxe - langue maternelle  
-jenotipe - génotype  
+jentipe - génotype  
 jino - en avant  
 jinse - sexe  
 jirafe - giraffe  
+jivocaniver - compost  
+jivomutu - fermenter  
+jivosisteme - biome  
 jule - joule (J)  
 junge - centre  
 jungogia - Chine  
@@ -362,8 +368,8 @@ kare - travail
 karer - travailleur (ouvrier)  
 karimi - généreux  
 karimia - générosité (charité)  
-karolekse - verbe  
-karomisa - soumettre  
+karlekse - verbe  
+karmisa - soumettre  
 karsi - rêche (rugueux, gros)  
 kaske - carapace (coquille, coquillage, croûte)  
 kava - creuser  
@@ -442,7 +448,7 @@ linse - lynx
 lisane - langue  
 liste - liste  
 litre - litre  
-liwokope - entonnoir  
+liwkope - entonnoir  
 loga - parler  
 logivi - loquace  
 loka - mettre (placer)  
@@ -450,7 +456,7 @@ loke - lieu
 loki - local  
 longi - long  
 longi pipre - poivre long  
-longokrokodile - crocodile  
+longkrokodile - crocodile  
 lontre - loutre  
 lugi - vert  
 luter - brigand (bandit)  
@@ -493,7 +499,7 @@ meme - mémoire
 meninge - méninge  
 mes (mese) - mois  
 mester - maître  
-metalobede - enclume  
+metalbede - enclume  
 metre - mètre  
 meze - table  
 migre - migration  
@@ -513,12 +519,12 @@ mule - racine
 muskulbine - culturisme (musculation)  
 ##n
 nade - rivière (fleuve)  
-namokitaba - signer  
+namkitaba - signer  
 nasia - nation  
 nasmedi - international  
 navi - neuf (9)  
 nefre - rein  
-netgeta - télécharger  
+netogeta - télécharger  
 neursele - neurone  
 nice - dessous  
 nida - avoir besoin de  
@@ -573,22 +579,17 @@ pawe - pistolet
 pay (paye) - tarte  
 peda - péter  
 pede - pet (vesse)  
+pesdiske - monnaie (pièce)  
 pese - argent  
-pesodiske - monnaie (pièce)  
-petre - roche  
+petre - roche (pierre)  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pikosape - pioche  
 pine - épingle  
 pipre - poivre  
-pira - brûler  
 piratia - piraterie  
-pire - feu  
-piropetre - silex  
-pirotehne - feu d’artifice  
-piroxame - volcan  
 pize - pizza  
-plati zemokaskia - tectonique des plaques  
+plati zemkaskia - tectonique des plaques  
 platistan - plaine  
 plume - prune  
 porte - porte  
@@ -606,7 +607,7 @@ pute - fils ou fille
 ##r
 rang (range) - couleur  
 rangi kance - verre coloré  
-rangomate - colorant  
+rangmate - colorant  
 rapidi - vite (rapide)  
 rari - rare  
 rase - race  
@@ -629,7 +630,7 @@ rose - rosée
 rosta - rôtir  
 roze - rose  
 ruhe - psyché  
-ruholojia - psychologie  
+ruhlojia - psychologie  
 ##s
 sa linye - en ligne  
 safariste - touriste  
@@ -644,10 +645,10 @@ samraye - accord
 samsifia - simulation  
 sanduice - sandwich  
 sange - sang  
+sape - houe  
 sare - tête  
 saturne - Saturne  
 savane - savane  
-seke - pierre  
 sekuri - sûr  
 selolojia - cytologie  
 seme - semence  
@@ -679,7 +680,7 @@ sundari - beau
 sundaria - beauté  
 susane - lys  
 suy (suye) - eau  
-suyogase - vapeur d’eau  
+suygase - vapeur d’eau  
 ##t
 taile - carreau (tuile)  
 taksometer - taximètre  
@@ -692,10 +693,10 @@ tazi - frais
 te - tu  
 tehne - technique  
 tehnolojia - technologie  
-telofone - téléphone  
-telovide - téléviseur  
+telfone - téléphone  
+telvide - téléviseur  
 teme - sujet (thème)  
-temonam - titre  
+temnam - titre  
 tena - avoir  
 tenu - appartenir à  
 tepe - ruban (bande)  
@@ -747,12 +748,12 @@ vulve - vulve
 vute - objet (article)  
 ##w
 wale - mur  
-walopapire - papier peint  
+walpapire - papier peint  
 wana - vouloir  
 warkolate - page  
 waxurse - raton laveur  
+wayoyame - piquenique  
 waytira - tender  
-wayyame - piquenique  
 weki - éveillé  
 wolfe - loup  
 wolofi - wolof  
@@ -762,9 +763,9 @@ xatan (xatane) - Satan
 xawi - peu  
 xefe - chef  
 xey (xeye) - chose  
-xeyohale - situation (état de choses)  
+xeyhale - situation (état de choses)  
 xinge - étoile  
-xingofota - étinceler  
+xingfota - étinceler  
 xipa - mouiller  
 xipi - mouillé  
 xite - merde  
@@ -774,8 +775,8 @@ xukare - sucre
 ##y
 yesus - Jésus  
 yexo - encore  
-yongopetre - lave  
-yongosaha - fondu  
+yongpetre - lave  
+yongsaha - fondu  
 yongu - melt  
 yuke - jade  
 ##z
@@ -784,12 +785,11 @@ zarduxiste - zoroastrien
 zarduxistia - zoroastrisme  
 zebre - zèbre  
 zemforme - terrain  
-zemgrafia - geographie  
+zemgrafe - carte  
+zemgrafia - cartographie (geographie)  
 zemkaski plate - plaque tectonique  
 zemlojia - géologie  
 zemnici prizone - oubliette (cul de basse-fosse)  
-zemsure - carte  
-zemsuria - cartographie  
 zeyile - verrue  
 zeze - mouche  
 zime - hiver  

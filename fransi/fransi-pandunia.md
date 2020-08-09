@@ -66,7 +66,7 @@ argon - argon
 argument - argume  
 argument - tese  
 arme - arme  
-armure - defokaske  
+armure - defkaske  
 armée - laskeria  
 arsenic - arsene  
 art - arte  
@@ -110,8 +110,8 @@ baryum - barium
 bas - tale  
 bas - tali  
 base - baze  
-base de données - datbanke  
-baseball - bazbole  
+base de données - datobanke  
+baseball - bazobole  
 basketball - baskobol  
 bassin - basene  
 bateau - bote  
@@ -121,7 +121,7 @@ besoin - nide
 bibliothèque - kitabia  
 bicyclette - sikle  
 billet - tikete  
-biome - biyosisteme  
+biome - jivosisteme  
 bière - bire  
 blanc - baki  
 bleu - nili  
@@ -129,9 +129,9 @@ blé - gandume
 bombe - bombe  
 bon - bon (boni)  
 bord (rive) - tate  
-botanique - fitlojia  
+botanique - fitolojia  
 botte - bute  
-bouclire - defobanze  
+bouclire - defbanze  
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
 bouteille - botele  
@@ -142,7 +142,7 @@ bravo! - bravo
 brigand (bandit) - luter  
 brique - dobe  
 brun (marron) - bruni  
-brûler - pira  
+brûler - hoga  
 but - gole  
 bébé - bebe  
 ##c
@@ -162,8 +162,8 @@ carapace (coquille, coquillage, croûte) - kaske
 Caraïbes - karaibia  
 carreau (tuile) - taile  
 carte - karde  
-carte - zemsure  
-cartographie - zemsuria  
+carte - zemgrafe  
+cartographie (geographie) - zemgrafia  
 centre - junge  
 cerise - cerize  
 chambre à coucher - sonkamare  
@@ -191,13 +191,13 @@ cloche - danger
 coeur - kerne  
 collaborer - konkara  
 coller - gluta  
-colorant - rangomate  
+colorant - rangmate  
 comment - ko?  
 commercer - vendoxopa  
 compare - para  
 compassion - samemose  
 comportement (manière) - manire  
-compost - biyocaniver  
+compost - jivocaniver  
 compote de pommes - apelsose  
 comprendre (réaliser) - aha  
 concert - konserte  
@@ -220,7 +220,7 @@ creuser - kava
 crevette - krevete  
 cristal - kristal (kristale)  
 crochet - gance  
-crocodile - longokrokodile  
+crocodile - longkrokodile  
 crocodilien - krokodile  
 croissant - kruasante  
 croix - kruse  
@@ -277,11 +277,11 @@ empruntre - jekogeta
 en arrière - retro  
 en avant - jino  
 en ligne - sa linye  
-enclume - metalobede  
+enclume - metalbede  
 encore - yexo  
 enfant - bace  
 enterrer - gabra  
-entonnoir - liwokope  
+entonnoir - liwkope  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -304,17 +304,17 @@ fatigue - fatigia
 faute (erreur) - galte  
 favori (préféré) - favori  
 fente (fissure, fêlure) - krake  
-fermenter - biyomutu  
-feu - pire  
-feu d’artifice - pirotehne  
+fermenter - jivomutu  
+feu - hoge  
+feu d’artifice - hogotehne  
 fier - nidoxina  
 fil - korde  
 fils ou fille - pute  
 fiord - fiorde  
 fleur - fule  
 flèche - flece  
-foin - ganograse  
-fondu - yongosaha  
+foin - gangrase  
+fondu - yongsaha  
 football - futobole  
 forer (percer) - fora  
 fosse - kave  
@@ -332,7 +332,6 @@ gazelle - gazele
 geler (glacer) - aisu  
 genou - gute  
 genre grammatical - baxi jinse  
-geographie - zemgrafia  
 gingembre - zinje  
 giraffe - jirafe  
 glisser - glisu  
@@ -345,7 +344,7 @@ grimace - grimase
 groupe - grupe  
 grès - regopetre  
 guitare - gitare  
-génotype - jenotipe  
+génotype - jentipe  
 généreux - karimi  
 générosité (charité) - karimia  
 géologie - zemlojia  
@@ -359,10 +358,11 @@ hivernal (hibernal) - zimi
 hockey - hoke  
 hockey sur glace - aishoke  
 horloge - reloje  
+houe - sape  
 hourra - ura  
 huit (8) - bali  
 humanisme - insanistia  
-humeur - emosohale  
+humeur - emoshale  
 hygiène - hijenia  
 hélicoptère - helisvimane  
 hétérosexuel - alseksi  
@@ -402,7 +402,7 @@ lapin (lièvre) - tuze
 lapis-lazuli - lazuare  
 lasagne - lazanye  
 latéral - lati  
-lave - yongopetre  
+lave - yongpetre  
 lent - lenti  
 Lettonie - latovia  
 lexical - leksi  
@@ -458,7 +458,7 @@ mode (façon, manière) - mode
 mois - mes (mese)  
 mole (unité) - mole  
 monde - dunia  
-monnaie (pièce) - pesodiske  
+monnaie (pièce) - pesdiske  
 mot - lekse  
 mouche - zeze  
 mouiller - xipa  
@@ -527,7 +527,7 @@ palais (château, manoir) - gundene
 pantoufle (babouche) - babuce  
 papaye - papaye  
 papier - kagaze  
-papier peint - walopapire  
+papier peint - walpapire  
 paquet - pake  
 par exemple - misalo  
 paramètre - parame  
@@ -553,14 +553,13 @@ philosophie - filsofia
 photographie - fotografe  
 photographie - fotografia  
 pierre - cirki petre  
-pierre - seke  
-pierre précieuse (joyau) - bawseke  
-pierre tombale - gabroseke  
+pierre précieuse (joyau) - bawpetre  
+pierre tombale - gabropetre  
 pieu (poteau) - zonge  
 pile (batterie) - batre  
 piment - cile  
 pioche - pikosape  
-piquenique - wayyame  
+piquenique - wayoyame  
 piraterie - piratia  
 pistolet - pawe  
 pizza - pize  
@@ -588,7 +587,7 @@ pouvoir (être capable) - abla
 preuve - dalile  
 problème - probleme  
 problématique - problemi  
-profond - fasoteli  
+profond - fasteli  
 programme - programe  
 projectile - lancovute  
 projection - lancografe  
@@ -600,10 +599,10 @@ prune de Java - jambule
 précieux - bawi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
-psychologie - ruholojia  
+psychologie - ruhlojia  
 psyché - ruhe  
 péter - peda  
-pêcheur - fixosaider  
+pêcheur - fixsaider  
 quartz - kuarze  
 quatre (4) - cari  
 que (comme) - ko  
@@ -627,7 +626,7 @@ rire - haha
 rivière (fleuve) - nade  
 riz - rise  
 robot - robote  
-roche - petre  
+roche (pierre) - petre  
 rose - roze  
 rosée - rose  
 rouge - kirmi  
@@ -663,21 +662,22 @@ serrure - sore
 sexe - jinse  
 shopping - xope  
 si - aga  
-signer - namokitaba  
-silex - piropetre  
+signer - namkitaba  
+silex - hogopetre  
 simulation - samsifia  
-situation (état de choses) - xeyohale  
+situation (état de choses) - xeyhale  
 six (6) - sisi  
 société - socia  
 soie - sile  
 soldat - lasker  
 soleil - sole  
-soumettre - karomisa  
+soumettre - karmisa  
 squelette - ostojamia  
 sucre - xukare  
 sueur - suede  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
+suffixe pour l'adverbe - -o  
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
 sujet (thème) - teme  
@@ -690,11 +690,11 @@ s’accroupir - indosida
 table - meze  
 tablette de chocolat - cokolatobatone  
 tarte - pay (paye)  
-tasse à thé - cayokope  
+tasse à thé - caykope  
 taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
-tectonique des plaques - plati zemokaskia  
+tectonique des plaques - plati zemkaskia  
 tendance - ive  
 tender - waytira  
 tente - haime  
@@ -705,8 +705,8 @@ thé - cay (caye)
 tigre - bagre  
 tirer - tira milke  
 tissu - texe  
-titre - temonam  
-toile d'araignée - arannete  
+titre - temnam  
+toile d'araignée - aranonete  
 tomate - tomate  
 tombe - gabre  
 toucher - toca  
@@ -721,9 +721,9 @@ tropique - garmozone
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
-télécharger - netgeta  
-téléphone - telofone  
-téléviseur - telovide  
+télécharger - netogeta  
+téléphone - telfone  
+téléviseur - telvide  
 tête - sare  
 ##u
 un (1) - un (uni)  
@@ -733,13 +733,13 @@ uranium - uranium
 vagine - vagine  
 vaginite - vaginitis  
 vampire - vampire  
-vapeur d’eau - suyogase  
+vapeur d’eau - suygase  
 vase - vaze  
 vendre - venda  
 vendredi - var 5 (var limi)  
 Venezuela - venezolia  
 ver - verme  
-verbe - karolekse  
+verbe - karlekse  
 verre - kance  
 verre coloré - rangi kance  
 verrue - zeyile  
@@ -757,7 +757,7 @@ vocabulaire (lexique) - leksia
 voile - hijabe  
 voir - vida  
 voire (même) - ato  
-volcan - piroxame  
+volcan - hogoxame  
 vouloir - wana  
 voyelle - vokale  
 vrai - veri  
@@ -794,7 +794,7 @@ zèbre - zebre
 étain - estane  
 état - hale  
 éternuer - aciya  
-étinceler - xingofota  
+étinceler - xingfota  
 étoile - xinge  
 étymologie - leksaslia  
 été - lete  
