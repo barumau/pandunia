@@ -1492,7 +1492,7 @@ kolonia|||eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), 
 koloniste||||colonialist||colonialista||||||||||||||kolonialisti|kolonialista
 kolonistia||||colonialism||colonialismo||||||||||||||kolonialismi|kolonializm
 kolume|||eng:column, spa:columna, por:coluna, fra:colonne, rus:колонна (kolonna), pol:kolumna|column (pillar, pole, post)||columna|||||||||||||kolono|pylväs (pilari)|kolumna, filar
-komali||||soft||blando (mullido)|||||||||||||mola|pehmeä|miękki
+komali|||hin:कोमल (komal), tel:కోమలము (kōmalamu), khm:កោមល (kaomɑl)|soft||blando (mullido)|||||||||||||mola|pehmeä|miękki
 komanda||||order (issue a command)||mandar (ordenar)|||||||||||||ordoni|käskeä (komentaa)|rozkazać, rozkazywać, zakomendować
 komande|||eng:command, fra:commandement, rus:команда (komanda), spa:mandato|order (command)||orden (mando, comando)|||||||||||||ordono|käsky (komento)|rozkaz, komenda
 kome|||eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|comma||coma||||||||||||||pilkku|przecinek
@@ -1815,7 +1815,7 @@ malrupi|||zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|ugly||feo|||
 malsinyi||||ominous (foreboding)||ominoso (amenazador)||зловещий||不祥的|不吉 (縁起の悪い)||||||||||
 maltia|dex|MT||Malta||Malta||||||||||||||Malta|Malta
 malvinas nesia|dex|FK||Falkland Islands (Malvinas)||Islas Malvinas||||||||||||||Falklandin saaret|Falklandy, Malwiny
-mamale||||mammal||mamífero||||||||||||||nisäkäs|ssak
+mamale|||eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia|mammal||mamífero||||||||||||||nisäkäs|ssak
 mame|||spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
 man (mane)|||eng:man, deu:Mann, hin:मानुस (mānus), ben:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), mar:माणूस (māṇūs), tam:மனிதன் (maṉitaṉ) + zho:男 (nán), jpn:男 (nan)|male||masculino (macho)|||||男||||||||viro|uros (mies)|męski
 mandire|||hin:मन्दिर (mandir), ben:মন্দির (môndir), guj:મંદિર (mandir)|temple||templo||||||||||||||temppeli|świątynia
@@ -1890,7 +1890,7 @@ mayotia|dex|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 meca||||compete (have a match)||competir||||||||||||||otella|konkurować, rywalizować; odbyć mecz, odbywać mecz
 mece|||eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|match (contest)|match|partido|partida|матч||比赛|試合 (競技)|경기||मैच|ম্যাচ|perlawanan|mechi|||ottelu (matsi)|mecz, rywalizacja
-medale||||medallion (medal)||medallón||||||||||||||mitali|medalion, medal
+medale|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|medallion (medal)||medallón||||||||||||||mitali|medalion, medal
 mede||||middle (the part in between)||medio|meio (metade)|||||||||||||väli|środek
 medi|||spa:medio, eng:medium, hin:माद्धयम (mādhyam)|medium (intermediate, mean)|medio|medio (mediano)|moyen|средний|مُتَوَسِّط|中型|||||||||mezo|keskiverto (keski-)|średni
 media||||medium (media)||medio||||||||||||||media|media
@@ -1941,7 +1941,7 @@ mes 9 (mes navi)||||September||septiembre|||||９月|||||||||syyskuu|grudzień
 mesta||||master (be an expert at sth)||dominar||||||||||||||taitaa (olla mestari jskn)|być mistrzem (być ekspertem)
 mester|||por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|master (expert)|maître|maestro (experto)|mestre|мастер||||||||||||mestari (asiantuntija)|mistrz (ekspert)
 meta||||measure (take measurements)||medir (tomar las medidas)|||||||||||||mezuri|mitata|zmierzyć
-metale||||metal||metal|||||金属||||||||metalo|metalli|metal
+metale|||eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|metal||metal|||||金属||||||||metalo|metalli|metal
 metalbede||||anvil|enclume|yunque|bigorna|наковальня||铁砧|金敷き (鉄床)||||||||||
 metaljanger||||blacksmith (iron forger)||herrero||||铁匠||||||||||seppä|kowal
 mete|||eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measurement||medida|||||||||||||mezuro|mitta (koko, määrä)|miara
@@ -3189,7 +3189,7 @@ winge|||eng:wing, deu:Schwinge|wing||ala||||||||||||||siipi|skrzydło
 wolfe|||deu:ned:eng:wolf, rus:волк (volk)|wolf|loup|lobo|||||||||||||lupo|susi (hukka)|wilk
 wolfram|mate|W||tungsten (wolfram)||tungsteno (wolframio)||||||||||||||wolframi|wolfram
 wolofi||||Wolof (language and people)|wolof||||||||||||kiwolofu|||wolofin kansa ja kieli|wolof
-xakale||||jackal||chacal||||||||||||||šakaali|szakal
+xakale|||fas:شغال‎ (šağâl), eng:jackal, chacal|jackal||chacal||||||||||||||šakaali|szakal
 xake|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 xale|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik
 xamane|||rus:шаман (šaman), eng:shaman|shaman||chamán (brujo, hechicero)|||||||||||||ŝamano|šamaani|szaman
