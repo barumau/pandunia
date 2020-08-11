@@ -246,7 +246,7 @@ batonpang - baguette
 batre - pila (batería)  
 bawe - tesoro  
 bawi - precioso  
-bawpetre - piedra preciosa (joya, gema)  
+bawxeke - piedra preciosa (joya, gema)  
 baxa - hablar (comunicarse)  
 baxe - lengua (idioma)  
 baxi jinse - género gramatical  
@@ -425,7 +425,7 @@ cire - rasgar (romper)
 cirka - rodear (cirundar)  
 cirke - círculo  
 cirki - redondo (circular)  
-cirki petre - adoquín  
+cirkoxeke - adoquín  
 cise - queso  
 cita - citar  
 citi marke - comilla  
@@ -502,6 +502,7 @@ daypawe - cañón
 daypawer - cañonear  
 dayu - crecer (aumentar)  
 dayvaze - caldero  
+dayxeke - peñasco (pedrusco)  
 debili - débil  
 deco- - deci-  
 decobel - decibelio  
@@ -837,7 +838,7 @@ fuy - puaj
 gabra - enterrar  
 gabre - tumba (sepultura)  
 gabristan - cementerio  
-gabropetre - lápida  
+gabroxeke - lápida  
 gabunia - Gabón  
 gade - burro (asno)  
 gadolinium - gadolinio  
@@ -900,7 +901,9 @@ germanium - germanio
 geta - conseguir (obtener, recibir)  
 geter - engendrador  
 geyi - gay (homosexual)  
-gida - manejar  
+gida - guiar  
+gider - guía  
+gidobuke - guía de viaje  
 gigo- - giga-  
 gitare - guitarra  
 giyania - Guyana Francesa  
@@ -1051,11 +1054,11 @@ hobe - pasatiempo (hobby, afición)
 hoga - quemar  
 hoge - fuego  
 hogi - ardiente (encendido)  
-hogopetre - pedernal (sílex)  
 hogosanduke - farol (linterna)  
 hogotehne - dispositivo pirotécnico  
-hogoxame - volcán  
-hogoxami kance - vidrio volcánico  
+hogoxane - volcán  
+hogoxani kance - vidrio volcánico  
+hogoxeke - pedernal (sílex)  
 hogu - quemarse  
 hoke - hockey  
 holere - cólera  
@@ -1186,8 +1189,8 @@ jener - parente (madre o padre)
 jenge - pelea (guerra, batalla)  
 jenger - luchador (guerrero)  
 jengi - macrial (militar)  
+jengoxute - arte marcial  
 jengrupe - generación (cohorte)  
-jengxute - arte marcial  
 jeni - crudo  
 jeni baxe - lengua materna  
 jenklase - casta  
@@ -1519,7 +1522,7 @@ kruskorde - retículo
 kuange - mineral (mena)  
 kuanger - minero  
 kuangeria - mina  
-kuangsuy - agua mineral  
+kuangosuy - agua mineral  
 kuani - ancho  
 kuania - anchura  
 kuarze - cuarzo  
@@ -1676,7 +1679,7 @@ lone - debatir (discutir)
 longa - alargar  
 longi - largo  
 longia - largo (longitud)  
-longkrokodile - cocodrilo  
+longokrokodile - cocodrilo  
 lontre - nutria  
 lose - tornillo  
 lote - lote (grupo)  
@@ -1797,6 +1800,7 @@ maxim (maximo) - lo más
 maxime - máximo  
 maximi - máximo  
 maxine - máquina  
+maxo - además (más)  
 maxori - mayor  
 maxoria - mayoría  
 mayane - maya  
@@ -1917,7 +1921,7 @@ modolekse - adverbo
 moge - tinta  
 moke - árbol  
 mokojanger - carpintero  
-mokojongparke - arboreto  
+mokojongoparke - arboreto  
 mokomate - madera  
 mola - moler (pulverizar)  
 moldovia - Moldova  
@@ -1927,11 +1931,12 @@ moler - molinero
 molia - molino  
 molidenum - molibdeno  
 moluske - molusco  
+molxeke - muela  
 mome - nosotros  
 monakia - Mónaco  
-mondewistia - monoteismo  
 mongoli - mongol  
 mongolia - Mongolia  
+moni - único  
 monistia - monismo  
 monkratia - autocratia (monarquía)  
 monloge - monólogo  
@@ -2195,7 +2200,7 @@ panjabi - punjabí
 panke - ventilador  
 panromansi - panrromántico  
 panseksi - pansexual  
-pantalone - pantalones  
+pante - pantalones  
 papagaye - loro (papagayo)  
 papaye - papaya  
 pape - padre (papá)  
@@ -2261,7 +2266,6 @@ pesdiske - moneda
 pese - dinero (plata)  
 pete - barriga (vientre, panza)  
 petre - roca (piedra)  
-petrojanger - albañil (mampostero, cantero)  
 pexe - profesión (ocupación)  
 peya - pegar  
 peye - pago  
@@ -2310,7 +2314,6 @@ pliza - pedir (invitar)
 pliza laya - invitar  
 plumbe - plomo  
 plume - ciruela  
-plus (pluso) - además (más)  
 pluton - Plutón  
 plutonium - plutonio  
 podia - Tíbet  
@@ -2414,7 +2417,7 @@ randa - cepillar con garlopa
 rander - garlopa  
 rang (range) - color  
 rangi - colorido  
-rangmate - tinte  
+rangomate - tinte  
 rapidi - rápido  
 rapidia - rapidez (velocidad)  
 rapidometer - velocímetro  
@@ -2937,6 +2940,7 @@ un (uni) - uno (1)
 un ban - una vez  
 unale - el uno al otro (se)  
 unali - utuo (recíproco)  
+undewistia - monoteismo  
 unisa - unir  
 unisi - unido  
 unisi arabi emiria - Emiratos Árabes Unidos  
@@ -3095,6 +3099,8 @@ xaxu - susurrar (curjir)
 xefe - jefe  
 xefi - principal  
 xefi minister - primer ministro  
+xeke - piedra  
+xekojanger - albañil (mampostero, cantero)  
 xenon - xenón  
 xense - maestro (profesor)  
 xey (xeye) - cosa  
@@ -3106,7 +3112,7 @@ xina - creer
 xindawistia - sintoísmo  
 xine - creencia (fe)  
 xinge - estrella  
-xingfota - centellear (titilar)  
+xingofota - centellear (titilar)  
 xipa - mojar  
 xipi - mojado  
 xire - poema  
@@ -3162,7 +3168,7 @@ yoga - hacer yoga
 yoge - yoga  
 yogiste - yogui  
 yohani feste - día de San Juan  
-yongpetre - lava  
+yongopetre - lava  
 yongu - derretirse  
 yote - gota  
 yuke - jade  
@@ -3216,7 +3222,7 @@ zine - adulterio
 zinje - gengibre  
 zinke - cinc  
 zipa - cerrar con cremallera  
-ziper - cremallera  
+zipe - cremallera  
 zire - comino  
 zirkonium - circonio  
 ziza - chisporrotear  

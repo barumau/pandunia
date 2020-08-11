@@ -56,7 +56,7 @@ appliquer - aplika
 arabe - arabi  
 arachnophobie - aranfobia  
 araignée - arane  
-arboretum, pépinière - mokojongparke  
+arboretum, pépinière - mokojongoparke  
 arbre - moke  
 argent - argente  
 argent - pese  
@@ -150,6 +150,7 @@ cacher - sira
 cadre - freme  
 café - kafe  
 cage - kafase  
+caillou - lilxeke  
 calculer - hisaba  
 calendrier - kalende  
 canapé (sofa) - kanape  
@@ -160,6 +161,7 @@ capacité (compétence) - able
 cape - mantole  
 carapace (coquille, coquillage, croûte) - kaske  
 Caraïbes - karaibia  
+carotte - karote  
 carreau (tuile) - taile  
 carte - karde  
 carte - zemgrafe  
@@ -191,7 +193,7 @@ cloche - danger
 coeur - kerne  
 collaborer - konkara  
 coller - gluta  
-colorant - rangmate  
+colorant - rangomate  
 comment - ko?  
 commercer - vendoxopa  
 compare - para  
@@ -220,7 +222,7 @@ creuser - kava
 crevette - krevete  
 cristal - kristal (kristale)  
 crochet - gance  
-crocodile - longkrokodile  
+crocodile - longokrokodile  
 crocodilien - krokodile  
 croissant - kruasante  
 croix - kruse  
@@ -314,7 +316,7 @@ fiord - fiorde
 fleur - fule  
 flèche - flece  
 foin - gangrase  
-fondu - yongsaha  
+fondu - yongosaha  
 football - futobole  
 forer (percer) - fora  
 fosse - kave  
@@ -343,6 +345,9 @@ grenouille - krokroke
 grimace - grimase  
 groupe - grupe  
 grès - regopetre  
+guide - gider  
+guide touristique - gidobuke  
+guider - gida  
 guitare - gitare  
 génotype - jentipe  
 généreux - karimi  
@@ -402,7 +407,7 @@ lapin (lièvre) - tuze
 lapis-lazuli - lazuare  
 lasagne - lazanye  
 latéral - lati  
-lave - yongpetre  
+lave - yongopetre  
 lent - lenti  
 Lettonie - latovia  
 lexical - leksi  
@@ -451,6 +456,7 @@ mercredi - var 3 (var tini)
 merde - xite  
 message - anjile  
 mettre (placer) - loka  
+meule - molxeke  
 miel - mele  
 migration - migre  
 mine - kuangeria  
@@ -459,8 +465,10 @@ mois - mes (mese)
 mole (unité) - mole  
 monde - dunia  
 monnaie (pièce) - pesdiske  
+monologue - monloge  
 mot - lekse  
 mouche - zeze  
+moudre - mola  
 mouiller - xipa  
 mouillé - xipi  
 moulin - molia  
@@ -524,6 +532,7 @@ page - warkolate
 pain - pang (pange)  
 paix - pace  
 palais (château, manoir) - gundene  
+pantalon - pante  
 pantoufle (babouche) - babuce  
 papaye - papaye  
 papier - kagaze  
@@ -539,6 +548,7 @@ passeport - pasporte
 pastèque - arbuze  
 pathologie - patolojia  
 pause - pauze  
+pavé - cirkoxeke  
 pelle - bele  
 perdant - luzer  
 perder - luza tena  
@@ -552,9 +562,9 @@ peut-être - ablo
 philosophie - filsofia  
 photographie - fotografe  
 photographie - fotografia  
-pierre - cirki petre  
-pierre précieuse (joyau) - bawpetre  
-pierre tombale - gabropetre  
+pierre - xeke  
+pierre précieuse (joyau) - bawxeke  
+pierre tombale - gabroxeke  
 pieu (poteau) - zonge  
 pile (batterie) - batre  
 piment - cile  
@@ -627,6 +637,7 @@ rivière (fleuve) - nade
 riz - rise  
 robot - robote  
 roche (pierre) - petre  
+rocher - dayxeke  
 rose - roze  
 rosée - rose  
 rouge - kirmi  
@@ -659,11 +670,13 @@ sel - sale
 semence - seme  
 sept (7) - seti  
 serrure - sore  
+seul (unique) - moni  
+seulement - mono  
 sexe - jinse  
 shopping - xope  
 si - aga  
 signer - namkitaba  
-silex - hogopetre  
+silex - hogoxeke  
 simulation - samsifia  
 situation (état de choses) - xeyhale  
 six (6) - sisi  
@@ -757,7 +770,7 @@ vocabulaire (lexique) - leksia
 voile - hijabe  
 voir - vida  
 voire (même) - ato  
-volcan - hogoxame  
+volcan - hogoxane  
 vouloir - wana  
 voyelle - vokale  
 vrai - veri  
@@ -794,7 +807,7 @@ zèbre - zebre
 étain - estane  
 état - hale  
 éternuer - aciya  
-étinceler - xingfota  
+étinceler - xingofota  
 étoile - xinge  
 étymologie - leksaslia  
 été - lete  

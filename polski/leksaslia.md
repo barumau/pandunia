@@ -96,7 +96,6 @@
 |**barti**|Indyjski|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
 |**barude**|proch strzelniczy|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
 |**barxe**|deszcz|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
-|**barya**|blokować, hamować|eng:bar|
 |**baryer**|bariera|eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer)|
 |**basene**|basen|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**basi**|wystarczający|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
@@ -278,7 +277,6 @@
 |**eseye**|esej|eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|
 |**eska**|zapytać, spytać, pytać|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
 |**eskale**|schody (drabina)|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
-|**eskulta**|rzeźbić|eng:sculpt, spa:esculpir, fra:sculpter|
 |**eskulter**|rzeźbiarz|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**estadia**|stadion, arena|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
 |**estane**|cynk|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
@@ -316,7 +314,6 @@
 |**fikre**|myśl, pomysł|ara:(fikr), fas:(fekr), tur:fikir, may:pikir, hin:(fikr)|
 |**fiksa**|przyczepić, przymocować|eng:fix, fra:fixer, spa:fijar, por:fixar|
 |**filer**|miłośnik (fan, -fil)|eng:fra:-phile, por:spa:-filo|
-|**filia**|zamiłowanie (-filia)|eng:fra:philia, por:spa:filia, rus:филия (filiya)|
 |**filme**|film|eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem|
 |**filsofia**|filozofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |**fine**|koniec|spa: fin, fra: fin, por: fim|
@@ -365,7 +362,6 @@
 |**ganputawe**|rodzynka|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |**ganya**|zyskać, zyskiwać, zarobić, zarabiać|fra:gagner, por:ganhar, spa:ganar, eng:gain|
 |**garante**|gwarancja|eng:guarantee, spa:garantía, por:garantia, fra:garantie, deu:Garantie, rus:гарантия (garantiya), tur:garanti|
-|**garda**|chronić, strzec,  osłaniać, bronić|eng:guard, spa:por:guardar, fra:garder|
 |**garder**|strażnik, ochroniarz|eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|
 |**gare**|wóz, wózek|hin:गाड़ी (gāṛī), swa:gari, fas:(gâri), eng:car, por:spa:carro, deu:Karre, tel:(kāru)|
 |**garmi**|ciepły|hin:गरम (garm), urd:fas:گرم‎‎ (garm), kur:germ, deu:eng:warm|
@@ -379,7 +375,6 @@
 |**genca**|sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
 |**geta**|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać|eng:get|
 |**geyi**|gejowski (homoseksualny)|eng:fra:spa:gay, por:guei|
-|**gida**|sterować|eng:guide, spa:por:guiar + ara:قَادَ‎ (qāda)|
 |**gitare**|gitara|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
 |**glute**|klej|eng:glue, swa:gluu, + fra:glutineux|
 |**glutene**|gluten|eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)|
@@ -500,7 +495,7 @@
 |**jelosi**|zazdrosny|eng:jealous, spa:celoso, fra:jaloux|
 |**jene**|narodziny|hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|
 |**jenge**|walka, wojna|zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|
-|**jengxute**|sztuka walki|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
+|**jengoxute**|sztuka walki|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |**jentili**|uprzejmy, miły|eng:gentle, por:fra:gentil, ita:gentile|
 |**jenxene**|żeń-szeń|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
 |**jeste**|gest|eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|
@@ -539,6 +534,7 @@
 |**kampe**|obozowicz|eng:camp, spa:campamento, por:acampamento, tur:kamp, swa:kambi, hin:कैंप (kaimp), may:kem, jpn:キャンプ (kyanpu)|
 |**kan (kane)**|oko|tam:கண் (kaṇ), tel:(kannu), kan:(kaṇṇu), mal:കണ്ണ് (kaṇṇu)|
 |**kana**|patrzeć (oglądać)|zho:看 (kàn), min:khàn|
+|**kanale**|kanał|eng:spa:por:fra:canal, rus:канал (kanal), ben:খাল (khal), may:kanal|
 |**kanape**|sofa, kanapa|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
 |**kance**|szkło|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:kaca, tel:గాజు (gāju)|
 |**kande**|cukierek, słodycze|eng:candy, hin:कैंडी (kaiṇḍī), jpn:キャンデー (ja) (kyandē), tgl:kendi|
@@ -556,7 +552,7 @@
 |**karimi**|hojny (szczodry)|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |**karite**|masłosz Parka|wol:kaarite, fra:spa:karité, ful:kaare, kareje, hau:kaɗanya|
 |**karlekse**|czasownik|hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|
-|**karote**|marchew|eng:carrot, fra:carotte, deu:Karotte, swa:karoti, may:karot|
+|**karote**|marchew|eng:carrot, fra:carotte, deu:Karotte, swa:karoti, may:karot, vie:cà rốt|
 |**karvane**|karawana|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |**kase**|wydarzenie, przypadek, sytuacja|eng:case, fra:cas, spa:por:caso, deu:Kasus|
 |**kastane**|kasztan|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|
@@ -679,7 +675,6 @@
 |**libele**|ważka|spa:por:libélula, fra:libellule, deu:Libelle|
 |**libu**|stać|zho:立 (lì), yue:(lip), vie:lập, kor:립 (rib)|
 |**lice**|liczi|zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|
-|**lida**|prowadzić, dowodzić, kierować|eng:lead, por:liderar|
 |**lider**|dowódca, kierownik|eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|
 |**lifafe**|owinięcie (koperta, okładka)|ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|
 |**lige**|liga (stowarzyszenie)|fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|
@@ -802,9 +797,9 @@
 |**moge**|tusz|zho:墨 (mò), vie:mực, tha:หมึก (muk)|
 |**moke**|drzewo|zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|
 |**molekule**|molekuła (cząsteczka)|eng:molecule, spa:por:molécula, fra:molécule|
-|**molia**|mielić|zho:磨 (mò), fra:moulin, spa:molino|
+|**molia**|mielić|zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)|
 |**moluske**|mięczak (morski bezkręgowiec)|eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|
-|**mono**|tylko|ell:μόνος (monos), eng:deu:fra:por:spa:mono-|
+|**mono**|tylko|ell:μόνος (monos), eng:deu:fra:por:spa:mono-, rus:моно- (mono-)|
 |**monster**|potwór, monstrum|eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)|
 |**morfe**|morf|eng:morph, spa:morfo, rus:морф (morf)|
 |**morti**|martwy, nieżywy, zabity|por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)|
@@ -894,7 +889,7 @@
 |**panike**|panika|eng:panic, spa:pánico, por:pânico, fra:panique, rus:паника (panika), fas:پانیک‎ (pânik), jpn:パニック (panikku)|
 |**panire**|twaróg|hin:पनीर (panīr), pnb:ਪਨੀਰ (panīr), ben:পনির (pônir), tur:peynir, eng:paneer|
 |**panke**|wiatrak (wentylator)|hin:पंखा (paṅkhā), urd:(pankhā), mya:ပန်ကာ (panka), fas:(panke), + eng:punkah, fra:panka, deu:Pankha|
-|**pantalone**|spodnie, pantalony, portki|spa:pantalón, fra:pantalon, ara:بنطلون‎ (banṭalōn), hin:पैंट  (paiṇṭ)|
+|**pante**|spodnie (pantalony, portki)|eng:pants, hin:पैंट (paiṇṭ), ben:প্যান্ট (pyanṭ), spa:pantalón, fra:pantalon, ara:بنطلون‎ (banṭalōn), tur:pantolon|
 |**papagaye**|papuga|ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)|
 |**papaye**|papaja|eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), hin:पपीता (papītā), ben:পেঁপে (pẽpe)|
 |**pape**|ojciec|eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|
@@ -927,7 +922,7 @@
 |**pere**|pióro|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
 |**pese**|pieniądze|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|
 |**pete**|brzuch|ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|
-|**petre**|skała (kamień)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
+|**petre**|skała|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
 |**pexe**|profesja, zajęcie, zawód|fas:(piše), hin:पेशा (peśā), ben:পেশা (peśa)|
 |**peye**|zapłata, opłata|eng:pay, fra:paye, + zho:费 (fèi)|
 |**piane**|pianino|eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:piyano, ara:بيانو‎ (biyānō), hin:पियानो (piyāno), ben:পিয়ানো (piẏano), jpn:ピアノ (piano)|
@@ -955,7 +950,6 @@
 |**plazme**|plazma (zjonizowany gaz)|eng:plasma, spa:plasma, rus:плазма (plazma), ara:بلازما (balazima), hin:प्लाज़्मा (plaazma), jpn:プラズマ (purazuma), may:plasma|
 |**pliza**|prosić|eng:please|
 |**plume**|śliwka|eng:plum, deu:Pflaume, jpn:プラム (pulamu), tha:พลัม (plam)|
-|**plus (pluso)**|też, również|eng:fra:plus, rus:плюс (pl’us)|
 |**podia**|Tybet|tib:བོད (bod, phØ)|
 |**poke**|poker|eng:poker, zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)|
 |**polave**|pilaw|fas:(polou), hin:पुलाव (pulav), tur:pilav, rus:плов (plov)|
@@ -1293,7 +1287,7 @@
 |**yago**|około; przybliżony|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |**yake**|jak (zwierzę)|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
 |**yama**|skonsumować, konsumować, zjeść, jeść, wypić, pić)|khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
-|**yange**|rodzaj, typ, styl|zho: 样 (yàng), tha: อย่าง (yàang), khm: យ៉ាង (yaang)|
+|**yange**|rodzaj, typ, styl|zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|
 |**yasene**|jesion|rus:ясень (yasen’), pol:jesion|
 |**yatime**|sierota|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
 |**yexo**|wciąż, nadal|rus:ещё (yeščo), pol:jeszcze|
@@ -1319,8 +1313,7 @@
 |**zime**|zima|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|
 |**zine**|zdrada małżeńska, cudzołóstwo|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
 |**zinje**|imbir|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|
-|**zipa**|zamknąć zamkiem błyskawicznym|eng:zip|
-|**ziper**|zamek błyskawiczny|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
+|**zipe**|zamek błyskawiczny|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
 |**zire**|kumin, kmin|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|
 |**ziza**|skwierczeć|zho:zizi eng:sizzle|
 |**zombe**|zombie, zombi|kon:nzambi, por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|

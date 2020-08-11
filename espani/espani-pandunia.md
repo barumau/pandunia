@@ -40,11 +40,11 @@ acuerdo - samraye
 acuoso - suyi  
 acá (aquí) - sa ye  
 adelante - jino  
-además (más) - plus (pluso)  
+además (más) - maxo  
 adicional (extra) - maxi  
 adiós - salam cute  
 adjetivo - siflekse  
-adoquín - cirki petre  
+adoquín - cirkoxeke  
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
 adulterio - zine  
@@ -65,7 +65,7 @@ agradecer - danka
 agresivo - agresi  
 agrio (ácido) - suani  
 agua - suy (suye)  
-agua mineral - kuangsuy  
+agua mineral - kuangosuy  
 aguacate - awakate  
 agujero (hueco) - konge  
 ahora (actualmente) - zay (zayi)  
@@ -81,7 +81,7 @@ alargar - longa
 Alaska - alaskia  
 Albania - cipia  
 albaricoque - barkoke  
-albañil (mampostero, cantero) - petrojanger  
+albañil (mampostero, cantero) - xekojanger  
 alcohol - alkole  
 alcohólico - alkoli  
 aldea - ruste  
@@ -173,7 +173,7 @@ apuntar (indicar) - ponta
 Arabia Saudita - saudi arabia  
 aracnofobia - aranfobia  
 araña - arane  
-arboreto - mokojongparke  
+arboreto - mokojongoparke  
 archipiélago - nesia  
 archipiélago de Hawái - hawayi nesia  
 arcilla (barro) - glutopote  
@@ -205,7 +205,7 @@ arruinado (devastado, asolado) - harabi
 arruinar (destruir, devastar, asolar) - haraba  
 arsénico - arsene  
 arte - arte  
-arte marcial - jengxute  
+arte marcial - jengoxute  
 artesano - janger  
 artificial (sintético) - cani  
 artista - artiste  
@@ -515,7 +515,7 @@ cementerio - gabristan
 cemento - semente  
 cena - xamyame  
 ceniza - huye  
-centellear (titilar) - xingfota  
+centellear (titilar) - xingofota  
 centi- (por ciento) - cent-  
 central - jungi  
 centrar (concentrar) - junga  
@@ -608,7 +608,7 @@ cocina - kukeria
 cocinar (preparar) - kuka  
 cocinero - kuker  
 coco - yeze  
-cocodrilo - longkrokodile  
+cocodrilo - longokrokodile  
 codicioso (avaro) - tami  
 codificar (cifrar) - koda  
 cohete (misil) - rokete  
@@ -742,7 +742,7 @@ crecer - rastu
 creencia (fe) - xine  
 creer - xina  
 crema - kreme  
-cremallera - ziper  
+cremallera - zipe  
 cremoso - kremi  
 crepa (crep, tortilla de trigo) - fransi krepe  
 creyente - diniste  
@@ -1355,6 +1355,7 @@ guarda (preservador, conservador) - hafizer
 Guatemala - guatemalia  
 guau (vaya) - waw  
 Guernesey - genzia  
+guiar - gida  
 Guinea - konakri ginia  
 Guinea Ecuatorial - egalolinyi ginia  
 Guinea-Bisáu - bisawi ginia  
@@ -1367,6 +1368,8 @@ gustarse (querer) - fila
 gusto (sabor) - guste  
 Guyana - gayania  
 Guyana Francesa - giyania  
+guía - gider  
+guía de viaje - gidobuke  
 género gramatical - baxi jinse  
 género social - soci jinse  
 ##h
@@ -1670,7 +1673,7 @@ lasaña - lazanye
 lateral - lati  
 latitud - sudonordia  
 laurencio - laurensium  
-lava - yongpetre  
+lava - yongopetre  
 lavadora - waxmaxine  
 lavar - waxa  
 leal (fiel) - nidoxinabli  
@@ -1765,7 +1768,7 @@ Luxemburgo - luksemburgia
 luz (iluminación) - fote  
 lágrima - kansuye  
 lámpara - lampe  
-lápida - gabropetre  
+lápida - gabroxeke  
 léxico - leksi  
 Líbano - libania  
 límite (frontera, linde) - limite  
@@ -1806,7 +1809,6 @@ malo - mal (mali)
 Malta - maltia  
 mamífero - mamale  
 mandar (ordenar) - komanda  
-manejar - gida  
 manga - kamisi xake  
 manganeso - mangane  
 mangosta - munguse  
@@ -1963,7 +1965,7 @@ mongol - mongoli
 Mongolia - mongolia  
 monismo - monistia  
 monocromático - unrangi  
-monoteismo - mondewistia  
+monoteismo - undewistia  
 monstro - monster  
 montaña (colina) - xane  
 Montenegro - cernogoria  
@@ -1989,6 +1991,7 @@ Mozambique - mozambikia
 muchos - multi  
 mudar (transferir, traspasar, trasladar) - kina  
 mueca - grimase  
+muela - molxeke  
 muerte (fallecimiento) - morte  
 muerto - morti  
 mujer (hembra) - fem (feme)  
@@ -2213,7 +2216,7 @@ panqueque (crepa) - krepe
 panrromántico - panromansi  
 pansexual - panseksi  
 pantalla - ekrane  
-pantalones - pantalone  
+pantalones - pante  
 panteísmo - pandewistia  
 panteón - pandewia  
 papa - patate  
@@ -2274,7 +2277,7 @@ pecho (busto) - buste
 pecho (seno, tórax) - sine  
 pedal - pedale  
 pedazo - tike  
-pedernal (sílex) - hogopetre  
+pedernal (sílex) - hogoxeke  
 pedir (invitar) - pliza  
 pedir prestado - jekogeta  
 pedo - pede  
@@ -2330,10 +2333,12 @@ peso (gravedad) - baria
 pestaña - kankexe  
 peto - sinplate  
 pez (pescado) - fixe  
+peñasco (pedrusco) - dayxeke  
 piano - piane  
 pidgin - pijine  
 pie (pata) - fute  
-piedra preciosa (joya, gema) - bawpetre  
+piedra - xeke  
+piedra preciosa (joya, gema) - bawxeke  
 piel - pile  
 pila (batería) - batre  
 pilaf (pulaw) - polave  
@@ -2964,7 +2969,7 @@ tikka masala - masali tike
 Timor - timor  
 Timor Oriental - dongi timoria  
 tinta - moge  
-tinte - rangmate  
+tinte - rangomate  
 tipo (género) - tipe  
 tira (faja, vendaje, cinta) - faxe  
 tirano - tirane  
@@ -3137,7 +3142,7 @@ vida orgánica - jive
 vidriado (esmalte) - kancodake  
 vidriar (glasear) - kancodaka  
 vidrio (cristal) - kance  
-vidrio volcánico - hogoxami kance  
+vidrio volcánico - hogoxani kance  
 viejo (anciano) - lawe  
 viejo (anciano) - lawi  
 viejo (antiguo) - purani  
@@ -3163,7 +3168,7 @@ vivo (lleno de vida) - hayi
 vocabulario (léxico) - leksia  
 vocal - vokale  
 volar - feya  
-volcán - hogoxame  
+volcán - hogoxane  
 voltio (V) - volte  
 voluntad - ice  
 volver - retra  
@@ -3229,4 +3234,5 @@ zulú - zuli
 índice de contenidos - tenliste  
 ósmosis - osme  
 óxide - okside  
+único - moni  
 útil (beneficioso) - faidi  

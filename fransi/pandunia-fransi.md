@@ -136,7 +136,7 @@ basi - assez
 baskobol - basketball  
 batre - pile (batterie)  
 bawi - précieux  
-bawpetre - pierre précieuse (joyau)  
+bawxeke - pierre précieuse (joyau)  
 baxe - langue  
 baxi jinse - genre grammatical  
 bazare - marché (bazar)  
@@ -179,7 +179,7 @@ cerni - noir
 cile - piment  
 cira - déchirer  
 cire - déchirer  
-cirki petre - pierre  
+cirkoxeke - pavé  
 cise - fromage  
 cokolate - chocolat  
 cokolatobatone - tablette de chocolat  
@@ -195,6 +195,7 @@ datobanke - base de données
 daymare - océan  
 daypawe - canon  
 dayvaze - chaudron  
+dayxeke - rocher  
 debili - faible  
 defbanze - bouclire  
 defkaske - armure  
@@ -261,7 +262,7 @@ futobole - football
 gabra - enterrer  
 gabre - tombe  
 gabristan - cimetière  
-gabropetre - pierre tombale  
+gabroxeke - pierre tombale  
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
@@ -274,6 +275,9 @@ gase - gaz
 gati - dur  
 gawe - haut  
 gazele - gazelle  
+gida - guider  
+gider - guide  
+gidobuke - guide touristique  
 gitare - guitare  
 glisu - glisser  
 gluta - coller  
@@ -309,9 +313,9 @@ hime - neige
 hisaba - calculer  
 hoga - brûler  
 hoge - feu  
-hogopetre - silex  
 hogotehne - feu d’artifice  
-hogoxame - volcan  
+hogoxane - volcan  
+hogoxeke - silex  
 hoke - hockey  
 hore - heure  
 hotel (hotele) - hôtel  
@@ -370,6 +374,7 @@ karimi - généreux
 karimia - générosité (charité)  
 karlekse - verbe  
 karmisa - soumettre  
+karote - carotte  
 karsi - rêche (rugueux, gros)  
 kaske - carapace (coquille, coquillage, croûte)  
 kava - creuser  
@@ -442,6 +447,7 @@ libobanze - étagère
 lider - dirigeant (leader)  
 lifafa - envelopper (emballer)  
 lil (lili) - petit  
+lilxeke - caillou  
 limi - cinq (5)  
 limone - citron  
 linse - lynx  
@@ -456,7 +462,7 @@ loke - lieu
 loki - local  
 longi - long  
 longi pipre - poivre long  
-longkrokodile - crocodile  
+longokrokodile - crocodile  
 lontre - loutre  
 lugi - vert  
 luter - brigand (bandit)  
@@ -510,10 +516,15 @@ misalo - par exemple
 misria - Égypte  
 mode - mode (façon, manière)  
 moke - arbre  
-mokojongparke - arboretum, pépinière  
+mokojongoparke - arboretum, pépinière  
+mola - moudre  
 mole - mole (unité)  
 molia - moulin  
+molxeke - meule  
 mome - nous  
+moni - seul (unique)  
+monloge - monologue  
+mono - seulement  
 muke - visage  
 mule - racine  
 muskulbine - culturisme (musculation)  
@@ -562,6 +573,7 @@ pake - paquet
 pakse - oiseau  
 pang (pange) - pain  
 panire - fromage blanc  
+pante - pantalon  
 papagaye - perroquet  
 papaye - papaye  
 pape - pere (papa)  
@@ -607,7 +619,7 @@ pute - fils ou fille
 ##r
 rang (range) - couleur  
 rangi kance - verre coloré  
-rangmate - colorant  
+rangomate - colorant  
 rapidi - vite (rapide)  
 rari - rare  
 rase - race  
@@ -762,10 +774,11 @@ xarke - requin
 xatan (xatane) - Satan  
 xawi - peu  
 xefe - chef  
+xeke - pierre  
 xey (xeye) - chose  
 xeyhale - situation (état de choses)  
 xinge - étoile  
-xingfota - étinceler  
+xingofota - étinceler  
 xipa - mouiller  
 xipi - mouillé  
 xite - merde  
@@ -775,8 +788,8 @@ xukare - sucre
 ##y
 yesus - Jésus  
 yexo - encore  
-yongpetre - lave  
-yongsaha - fondu  
+yongopetre - lave  
+yongosaha - fondu  
 yongu - melt  
 yuke - jade  
 ##z

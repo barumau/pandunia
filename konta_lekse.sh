@@ -1,9 +1,9 @@
 kitaba_pike() {
-   echo "#num da panduni lekse ca ali bax" > pandunia/lekse_da_num.md
-   echo "" >> pandunia/lekse_da_num.md
-   echo "| bax | num | fen |" >> pandunia/lekse_da_num.md
-   echo "|-----|-----|-----|" >> pandunia/lekse_da_num.md
-   cat temp/stats.txt >> pandunia/lekse_da_num.md
+   echo "#num da panduni lekse ca ali bax" > pandunia/lekse_du_nombre.md
+   echo "" >> pandunia/lekse_du_nombre.md
+   echo "| bax | num | fen |" >> pandunia/lekse_du_nombre.md
+   echo "|-----|-----|-----|" >> pandunia/lekse_du_nombre.md
+   cat temp/stats.txt >> pandunia/lekse_du_nombre.md
 }
 
 fata_leksasli_liste() {

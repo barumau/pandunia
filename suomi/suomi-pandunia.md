@@ -37,6 +37,7 @@ aikuinen - mature
 aina - pan sate  
 aine (materia) - mate  
 aineellinen (materiaalinen) - mati  
+ainoa (ainut) - moni  
 aivastaa - aciya  
 aivokalvo - meninge  
 aivokalvontulehdus - meningitis  
@@ -108,7 +109,7 @@ aprikoosi - barkoke
 apu - helpe  
 arabialainen - arabi  
 araknofobia (hämähäkkikammo) - aranfobia  
-arboretum (puulajipuisto) - mokojongparke  
+arboretum (puulajipuisto) - mokojongoparke  
 Argentiina - argentinia  
 argon - argon  
 Arktis - artia  
@@ -428,7 +429,7 @@ haudata - gabra
 haureus (uskottomuus) - zine  
 hauska (huvittava) - fani  
 hauta - gabre  
-hautakivi - gabropetre  
+hautakivi - gabroxeke  
 hautausmaa - gabristan  
 Havaiji - hawayia  
 havaijilainen - hawayi  
@@ -501,7 +502,7 @@ hopea - argente
 hormoni - hormone  
 hotelli - hotel (hotele)  
 houkutella - tenta  
-housut - pantalone  
+housut - pante  
 huhtikuu - mes 4 (mes cari)  
 huippu - pike  
 huivi (šaali) - xale  
@@ -643,14 +644,14 @@ jakautua (hajota) - fenu
 jakki - yake  
 jalka (jalkaterä) - fute  
 jalkapallo - futobole  
-jalokivi - bawpetre  
+jalokivi - bawxeke  
 Jamaika - jamaikia  
 jambolaani - jambule  
 Japani - niponia  
 japanilainen - niponi  
 jasmiini - malike  
 jatkua - kontinu  
-jauhaa myllyssä - mola  
+jauhaa - mola  
 jazz (jatsi) - jaze  
 jee! (hurraa!) - yey  
 Jeesus - yesus  
@@ -755,6 +756,7 @@ kalifornium - kalifornium
 kalium - kalium  
 kalkkuna - totole  
 kalkyyli - kalkulia  
+kallio (kivi) - petre  
 kalsium - kalsium  
 Kambodja - kambudia  
 kameli - gamele  
@@ -762,7 +764,7 @@ kamera - fotografmaxine
 Kamerun - kamerunia  
 kammo (fobia) - fobia  
 kampa - kange  
-kamppailulaji - jengxute  
+kamppailulaji - jengoxute  
 kana - kokode  
 Kanada - kanadia  
 kanava (kanaali) - kanale  
@@ -919,8 +921,8 @@ kirves - futawe
 kissa - maw (mawe)  
 kitara - gitare  
 kivennäinen (mineraali) - kuange  
-kivennäisvesi - kuangsuy  
-kivi (kallio, murikka) - petre  
+kivennäisvesi - kuangosuy  
+kivi (hippu) - xeke  
 kivulias (tuskallinen) - paxi  
 kloonata (monistaa) - klona  
 klooni (identtinen kopio) - klone  
@@ -1211,6 +1213,7 @@ litši - lice
 livermorium - livermorium  
 logiikka - logike  
 logofiili - logofiler  
+lohkare (järkäle) - dayxeke  
 lokakuu - mes 10 (mes desi)  
 lokikirja - deftobuke  
 looginen - logiki  
@@ -1348,6 +1351,7 @@ matemaatikko - matiker
 matematiikka (matikka) - matike  
 matka (reissu) - safare  
 matkailija - safarer  
+matkaopas (opaskirja) - gidobuke  
 matkatavarat - bagaje  
 matkustaa - safara  
 mato - verme  
@@ -1436,7 +1440,7 @@ monikulmio (polygoni) - polgone
 monimerkityksinen - polmeni  
 monismi - monistia  
 monitahokas - polfase  
-monoteismi (yksijumalisuus) - mondewistia  
+monoteismi (yksijumalisuus) - undewistia  
 montako? (paljonko?) - ko multo  
 Montenegro - cernogoria  
 moottori - moter  
@@ -1453,6 +1457,7 @@ muisti - meme
 muistikirja - notobuke  
 muistio (muistiinmerkintä) - memnote  
 mukava (kiva, miellyttävä) - kuxi  
+mukulakivi - cirkoxeke  
 muna - ande  
 munakoiso - bedinjane  
 munuainen - nefre  
@@ -1484,11 +1489,12 @@ muutto (migraatio) - migre
 Myanmar (Burma) - mianmia  
 myky (pelmeni, ravioli) - pelmene  
 mylly - molia  
+myllynkivi - molxeke  
 mylläri - moler  
 myrkky - tokse  
 myrkyllinen - toksi  
 myrsky - tafune  
-myös (lisäksi, plus) - plus (pluso)  
+myös (lisäksi, plus) - maxo  
 myötätunto (sympatia) - samemose  
 mänty - songe  
 määritellä (luonnehtia) - sifa  
@@ -1590,7 +1596,6 @@ näytös (esitys, show) - xowe
 odottaa - denga  
 oganesson - oganeson  
 ohjaaja (pilotti, luotsi) - piloter  
-ohjata (ohjastaa) - gida  
 ohjelma - programe  
 ohjelmoija - programer  
 oho (vau) - waw  
@@ -1627,6 +1632,8 @@ ongelma - probleme
 ongelmallinen - problemi  
 onneksi olkoon! - barke!  
 onnitella (siunata) - barka  
+opas (tiennäyttäjä) - gider  
+opastaa (ohjata) - gida  
 opettaja - darsogure  
 oppi (opetus) - darse  
 oppia (opiskella) - darsa  
@@ -1783,6 +1790,7 @@ pieru - pede
 pihdit - pinser  
 pihka (hartsi) - rezine  
 pii - silike  
+piikivi - hogoxeke  
 piippu - pipe  
 piirakka (piiras) - pay (paye)  
 piiri (ympyrä) - cirke  
@@ -2209,6 +2217,7 @@ solvata (loukata) - insulta
 Somalia - somalia  
 Somalimaa - somalilandia  
 sopia - maca  
+sorakivi - lilxeke  
 sormi tai varvas - finge  
 sormus - fingwene  
 sorsa (ankka) - bate  
@@ -2694,7 +2703,7 @@ vesitiivis - suysekuri
 vesiväri (akvarelliväri) - suyrang  
 vessa - tuale  
 vetinen - suyi  
-vetoketju - ziper  
+vetoketju - zipe  
 vetolaatikko - tirsanduke  
 vetovoima (šarmi) - carme  
 vety - hidre  

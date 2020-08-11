@@ -166,7 +166,7 @@ bate - anaso
 batone - stango  
 batre - baterio (pilo)  
 bawe - trezoro  
-bawpetre - juvelo  
+bawxeke - juvelo  
 baxa - paroli (komuniki)  
 baxe - lingvo  
 baxkanune - gramatiko  
@@ -325,6 +325,7 @@ day (dayi) - granda
 daymare - oceano  
 daypawe - kanono  
 daypawer - kanonisto  
+dayxeke - ŝtonego  
 deco- - dekono  
 defa - defendi  
 defe - defendo  
@@ -541,7 +542,7 @@ fuy - bah!
 gabra - enterigi  
 gabre - tombo  
 gabristan - tombejo  
-gabropetre - tomboŝtono  
+gabroxeke - tomboŝtono  
 gade - azeno  
 gadolinium - gadolinio  
 gaje - elefanto  
@@ -578,7 +579,7 @@ gemer - ludanto
 germanium - germaniumo  
 geta - akiri (ricevi, preni)  
 geyi - samseksema  
-gida - stiri  
+gida - gvidi  
 gitare - gitaro  
 glute - gluo  
 glutene - gluteno  
@@ -953,6 +954,7 @@ libele - libelo
 liga - aligi  
 lil (lili) - malgranda  
 lilbole - bobelo  
+lilxeke - ŝtoneto  
 limi - kvin (5)  
 limone - citrono  
 limonrangi - flava  
@@ -1020,6 +1022,7 @@ max (maxo) - pli
 max ko bas - tro  
 maxim (maximo) - plej  
 maxine - maŝino  
+maxo - ankaŭ  
 mayane - majao  
 maye - formiko  
 me - mi  
@@ -1074,13 +1077,14 @@ mixa - miksi
 mixer - miksilo  
 moge - inko  
 moke - arbo  
-mokojongparke - arboĝardeno  
+mokojongoparke - arboĝardeno  
 mokomate - ligno  
 molidenum - molibdeno  
 moluske - molusko  
 mome - ni  
 mongoli - mongola  
 mongolia - Mongolio  
+moni - ununura  
 monistia - monismo  
 mono - nur  
 monster - monstro  
@@ -1199,7 +1203,7 @@ pandunia - pandunia
 pang (pange) - pano  
 panike - paniko  
 panke - ventumilo  
-pantalone - pantalonoj  
+pante - pantalonoj  
 papagaye - papago  
 papaye - papajo  
 pape - patro  
@@ -1227,7 +1231,7 @@ pere - plumo
 pesdiske - monero  
 pese - mono  
 pete - ventro  
-petre - roko (ŝtono)  
+petre - roko  
 pexe - metiero  
 piane - piano  
 piaze - cepo  
@@ -1248,7 +1252,6 @@ pliza - peti (bonvolu)
 pliza laya - inviti  
 plumbe - plumbo  
 plume - pruno  
-plus (pluso) - ankaŭ  
 plutonium - plutonio  
 podia - Tibeto  
 poke - pokero  
@@ -1601,6 +1604,7 @@ xatranje - ŝako
 xawi - malmulte  
 xefe - estro (ĉefulo)  
 xefi minister - ĉefministro  
+xeke - ŝtono  
 xenon - ksenono  
 xeyhale - situacio (aferstato)  
 xibaye - malsukceso  
