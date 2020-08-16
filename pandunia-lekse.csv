@@ -1,4 +1,4 @@
-pandunia|klase||leksasle|engli|fransi|espani|portugali|rusi|arabi|putong cini|niponi|coseni|vieti|hindi|bangli|malayi|swahili|turki|esperanti|suomi|polski
+pandunia|klase||logasle|engli|fransi|espani|portugali|rusi|arabi|putong cini|niponi|coseni|vieti|hindi|bangli|malayi|swahili|turki|esperanti|suomi|polski
 ----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------
 -a||||suffix for verbs with SVO word order|suffixe pour les verbes avec ordre des mots SVO|sufijo para verbos con el orden de las palabras SVO|||||||||||||-i (-igi)|pääte: SVO-sanajärjestyksen verbi|przyrostek dla czasowników z szykiem zdania SVO
 -e||||suffix for derived nouns|suffixe pour dériver les noms|sufijo para sustantivos|||||||||||||-o (-aĵo)|pääte: substantiivi|przyrostek dla (wyniku) działania
@@ -1229,7 +1229,7 @@ jeinistia|||hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:ja�
 jeka|||zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check|borrow (lend)|prêter (empruntre)|prestar (pedir prestado)|emprestar (pedir emprestado)|||借|借用||||||||||
 jekodona||||lend|prêter|prestar|emprestar|||借出|貸す||||||||||pożyczać komuś (pożyczyć komuś)
 jekogeta|||zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|borrow|empruntre|pedir prestado|pedir emprestado|||借入|借りる||||||||||pożyczać (pożyczyć)
-jekolekse||||loanword||préstamo lingüístico|||||||||||||||zapożyczenie (wyraz obcy)
+jekologe||||loanword||préstamo lingüístico|||||||||||||||zapożyczenie (wyraz obcy)
 jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)||gel (jalea, gelatina)|||||||||||||ĝelo|hyytelö|żel, galareta
 jelosi|||eng:jealous, spa:celoso, fra:jaloux|jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny
 jena||||give birth (beget, generate)||dar a luz (enngendrar, parir)|||||||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
@@ -1378,7 +1378,7 @@ karimia||||generosity (charity)|générosité (charité)|generosidad (caridad)|g
 karite|||wol:kaarite, fra:spa:karité, ful:kaare, kareje, hau:kaɗanya|shea (vitellaria)||karité||||||||||||||voipuu|masłosz Parka
 kariva||||activate (enable, turn on, trigger)|||||||||||||||||
 karivi||||active (on, enabled)|||||||||||||||||
-karlekse|||hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|verb|verbe|verbo|verbo|глагол||动词|動詞|동사|động từ|क्रिया|ক্রিয়া|kata kerja|kitenzi|fiil|verbo|verbi (teonsana)|czasownik
+karloge|||hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|verb|verbe|verbo|verbo|глагол||动词|動詞|동사|động từ|क्रिया|ক্রিয়া|kata kerja|kitenzi|fiil|verbo|verbi (teonsana)|czasownik
 karmeze||||desk||escritorio (mesa de trabajo)||||||||||||||työpöytä (kirjoituspöytä)|biurko
 karmisa||||submit (present)|soumettre|entregar (enviar)||||提交|提出||||||||||
 karnadi|nas|||Kannada||cararés||||||||||||||kannada (eräs intialainen kieli)|kannada
@@ -1674,12 +1674,6 @@ leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lew
 legi|||eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|light (weightless)|léger|ligero|||||||||||||||
 legos||||Lagos|||||||||||||||||
 lekin (lekino)|||ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|however||sin embargo|||||||||||||tamen|kuitenkin|jakkolwiek (jednak)
-leksaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
-lekse||||word|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|शब्द|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
-lekseme||||lexeme||lexema||||||||||||||lekseemi|leksem
-leksi|||eng:fra:lexical, spa:por:léxico, rus:лексический (leksičeskiy)|lexical|lexical|léxico|léxico|лексический|||||||||||||słowny (leksykalny)
-leksia||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)||словарь|||||||||||vortaro|sanasto|słownictwo
-leksoliste||||dictionary (word list)||disionario (lexicón)|||||||||||||vortaro|sanaluettelo|lista słów
 lengi|||zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|cold||frío||||冷たい (寒い)|||||||||malvarma|kylmä|zimny, chłodny
 lenti|||fra:lent, spa:por:lento|slow (lethargic)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas|powolny (wolny, letargiczny)
 lenxa||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
@@ -1738,12 +1732,18 @@ liwu|||zho:流 (liú), jpn:流 (ryū)|flow||fluir||||||||||||||virrata|latać (
 liwunise||||fusion (amalgamation)||fusión||||||||||||||fuusio (yhteensulautuminen)|fuzja (amalgamowanie, łączenie)
 liwunisu||||merge (fuse)||fusionar (fundir)||||||||||||||sulaa yhteen (fuusioitua)|łączyć (złączyć)
 lobake|||zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|radish||rábano|||||||||||||rafaneto|retikka (retiisi)|rzodkiewka
-loga||||talk (say, speak)|parler|decir (hablar)|falar|говорить|تَكَلَّمَ|说话 (讲)|話す|말하다||बोलना|বলা|berbicara|kuongea||paroli|puhua (sanoa)|mówić, rozmawiać
-loge|||ell:λόγος (logos), eng:-logue, fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|speech (word)||habla (palabra)||||||||बात (लुग़त)|||||parolo (vortoj)|puhe (sanat)|mowa; słowo
+loga||||say (speak)|parler|decir (hablar)|falar|говорить|تَكَلَّمَ|说话 (讲)|話す|말하다||बोलना|বলা|berbicara|kuongea||paroli|sanoa (puhua)|mówić, rozmawiać
+logaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
+||||||||||||||शब्द|||||||słowo
+loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|word (speech)|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto (parolo)|sana (puhe)|słowo (mowa)
+logeme||||lexeme||lexema||||||||||||||lekseemi|leksem
+logi||||lexical|lexical|léxico|léxico|лексический||||||||||||sanallinen|słowny (leksykalny)
+logia||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
 logike|||eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)|logic (deduction)||lógica|||||||||||||logiko|logiikka|logika, dedukcja
 logiki||||logical||logical|||||||||||||logika|looginen|logiczny
 logivi||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
 logofiler||||logophile (word buff)||||||||||||||||logofiili|logofil (miłośnik słów)
+logoliste||||dictionary (word list)||disionario (lexicón)|||||||||||||vortaro|sanaluettelo|lista słów
 loja||||research (to study)||estudiar (investigar)||||||||||||||tutkia (opiskella)|badać, studiować
 lojia|||eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji|science (study, research)||ciencia (estudia, investigación)|||||||||||||scienco|tiede (tutkimus)|nauka, badanie, studiowanie
 loka||||put (place, set)|mettre (placer)|colocar (poner, ubicar)|colocar (pôr)|ставить||放置|||||||||lokigi|panna (asettaa, sijoittaa)|umieścić (postawić)
@@ -2009,7 +2009,7 @@ mixi alkole||||cocktail||cóctel||коктейль|||カクテル (混合酒)|||
 mode|||fra:eng:mode, spa:por:modo|way (manner, mode)|mode (façon, manière)|modo (manera, forma)|modo (maneira, jeito)|||||||||||||tapa|sposób (metoda, tryb)
 modela||||model (design)||modelo||||||||||||||mallintaa|modelować (projektować, zaprojektować)
 modele|||eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)|model (design)||modelar||||||||||||||malli|model, wzór, wzorzec, projekt
-modolekse||||adverb||adverbo||||||||||||||adverbi|przysłówek
+modologe||||adverb||adverbo||||||||||||||adverbi|przysłówek
 moge|||zho:墨 (mò), vie:mực, tha:หมึก (muk)|ink||tinta|||||||||||||inko|muste|tusz
 moke|||zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|tree|arbre|árbol|árvore|дерево|شجر‎|树木|木|나무|cây|पेड़|গাছ (বৃক্ষ)|pohon (pokok)|mti|ağaç|arbo|puu|drzewo
 mokojanger||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
@@ -2097,7 +2097,7 @@ nam (name)|||hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may
 namibia|dex|NA||Namibia||Namibia|||||||||||||Namibio|Namibia|Namibia
 namisa||||call (name)||llamar (poner)||||||||||||||nimittää (kutsua)|nazwać, nazywać, wezwać, wzywać
 namkitaba||||sign (autograph)|signer|firmar|assinar|подписать||签署|署名する (サイン)||||||||||
-namlekse|||zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|noun||sustantivo|||||||||||||substantivo|substantiivi (nimisana)|rzeczownik
+namloge|||zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|noun||sustantivo|||||||||||||substantivo|substantiivi (nimisana)|rzeczownik
 namu||||be called (be named)||llamarse||||||||||||||olla nimeltään|być wezwanym, być wzywanym, być nazwanym, być nazywanym
 nanase|||may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|pineapple||piña|||||||||||||ananaso|ananas|ananans
 nanmetre||||nanometer||nanometre||||||||||||||nanometri|nanometr
@@ -2766,7 +2766,7 @@ sidu||||sit down||sentarse|||||座る||||||||||
 sifa||||qualify (describe)||definir||||||||||||||määritellä (luonnehtia)|opisać (zakwalifikować)
 sife|||ara:(ṣifa), tur:sıfat, fas:(sefat), urd:(sifat), swa:sifa|attribute (charasteristic, quality, feature, description)||cualidad (atributo, descripción)||||||||||||||laatu (ominaisuus, ominaispiirre, määrite)|cecha, właściwość, parametr
 sifi||||descriptive||descriptivo||||||||||||||kuvaileva (määrittelevä)|opisowy
-siflekse||||adjective||adjetivo|||||||||||||adjektivo|adjektiivi (laatusana)|przymiotnik
+sifloge||||adjective||adjetivo|||||||||||||adjektivo|adjektiivi (laatusana)|przymiotnik
 sigare|||tur:sigara, amh:ሲጃራ (siǧara), ara:(sījāra), eng:cigar(ette), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá)|cigarette (cigar)||cigarro||||||||||||||savuke tai sikari|papieros (cygar)
 sihe|||ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|health|santé|salud|saúde|||健康|健康|||||||||terveys|zdrowie
 sihi||||healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
@@ -3137,7 +3137,7 @@ viruslojia|||pol:wirusologia, rus:вирусология (virusologiya)|virology
 visa||||substitute (replace)||sustituir (reemplezar)||||||||||||||korvata|zastąpić (podstawić, zamienić)
 vise||||alternative (substitute, replacement)||alternativa (sustituto)|||||代替||||||||||
 visi|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy)||vice-|||||||||||||vic-|vara- (korvike-)|wice-
-vislekse||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
+visloge||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
 visprezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
 vize|||tur:vize, eng:visa, rus:виза (viza), hin:वीज़ा (vīzā)|visa||visado||виза||||||वीज़ा||||||viisumi|wiza
 vizita||||visit||visitar|||||||||||||vizito|vierailla|odwiedzić, odwiedzać
