@@ -105,7 +105,7 @@ anjile|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, 
 anjiler||||messenger||mensajero||||||||||||||viestintuoja (airut)|posłaniec (wysłannik)
 ankariva||||deactivate (disable, turn off)|||||||||||||||||
 ankarivi||||off (deactivated, disabled)|||||||||||||||||
-ankaya||||close (shut, seal)|||||||||||||||||
+ankaya||||close (shut)|||||||||||||||||
 ankayi||||closed|||||||||||||||||
 anker|||eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru)|anchor|ancre|ancla|âncora|якорь||锚||||लंगर||jangkar||çıpa|ankro|ankkuri|kotwica
 anlimitia||||infinity|||||||||||||||||
@@ -393,7 +393,7 @@ ca|||zho:从 (cóng),出于 (chū), yue:從 (cung4)|from (since, because)|de|de 
 cabe|||por:chave, hin:(cābi), kon:nsapi|key||llave|||||||||||||ŝlosilo|avain|klucz
 cadia|dex|TD||Chad||Chad||||||||||||||Tšad|Czad
 cake|||hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|knife||cuchillo|||||||||||||tranĉilo|veitsi (puukko)|nóż
-cakre|||ben:চাকা (caka), hin:चक्र (cakra)|wheel||rueda (volante)|||||||||||||rado|ratas|koło
+cakre|||ben:চাকা (caka), hin:चक्र (cakra)|wheel|roue|rueda (volante)|roda|колесо|عجلة‎|轮子|車輪|바퀴 (차륜)|bánh xe|चक्र|চাকা|roda|gurudumu|tekerlek (çark)|rado|ratas|koło
 camace|||fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|spoon|cuiller|cuchara|colher|ложка||匙子|スプーン|숟가락 (스푼)||चम्मच|চামচ||||kulero|lusikka|łyżka
 campion (campione)|||eng:fra:champion, spa:campeón, por:campeão, rus:чемпион (chempion), tur:şampiyon, jpn:チャンピオン (chanpeon), kor:챔피언 (chaempieon)|champion||campeón|||||||||||||ĉampiono|mestari (voittaja)|czempion
 cana|||zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-), hak:產 (sán), ara:(ṣanaʿa), tur:sanat|produce (create, make)||producir (hacer, preparar)|||||||||||||produkti (fabriki)|tehdä (valmistaa)|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
@@ -566,11 +566,11 @@ destine|||eng:destination, destiny, fra:destin, spa:por:destino|destination (des
 detale|||eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|detail||detalle|||||||||||||detalo|yksityiskohta (detalji)|detal, szczegół
 dew (dewe)|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
 dewi||||divine (godly)||divino|||||||||||||dia|jumalallinen|boski
-dewi sage||||myth (divine story)||mito (cuento divino)|||||||||||||mito|jumaltaru (myytti)|mit, boska opowieść
 dewiste||||theist||teísta||||||||||||||teisti|teistyczny
 dewistia||||theism||teísmo||||||||||||||teismi (jumalusko)|teizm
 dewkratia||||theocracy||teocracia|||||||||||||teokratio|teokratia|teokracja
 dewlojia||||theology||teología|||||||||||||teologio|teologia|teologia
+dewsage||||myth (divine story)||mito (cuento divino)|||||||||||||mito|jumaltaru (myytti)|mit, boska opowieść
 dexe|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)||país (nación, estado, terra)||||||||देश|দেশ||||lando|maa (valtio)|kraj, ziemia
 dexrene||||citizen||ciudadano||||公民|市民||||||||||obywatel
 dike|||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|target (aim, objective)|objectif (cible)|objetivo|objetivo|цель||目的 (目标)|標的 (ターゲット)|목표 (표적)|mục tiêu (đích)||||||celo|maali (maalitaulu, kohde)|cel
@@ -945,8 +945,8 @@ geta|||eng:get|get (receive, obtain, take)||conseguir (obtener, recibir)||||||||
 geter||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
 geyi|||eng:fra:spa:gay, por:guei|gay (homosexual)||gay (homosexual)|||||||||||||samseksema|homo (homoseksuaali)|gejowski (homoseksualny)
 gida|||eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu) + ara:قَادَ‎ (qāda)|guide (lead, show the way)|guider|guiar|guiar|||导游|||||||||gvidi|opastaa (ohjata)|
-gidobuke||||guide book|guide touristique|guía de viaje||путеводитель||指南|ガイドブック|가이드북||||buku panduan||||matkaopas (opaskirja)|
 gider||||guide|guide|guía|guia|гид||导游|案内人 (ガイド)|안내인 (가이드)||||pemandu|kiongozi|rehber||opas (tiennäyttäjä)|przewodnik
+gidobuke||||guide book|guide touristique|guía de viaje||путеводитель||指南|ガイドブック|가이드북||||buku panduan||||matkaopas (opaskirja)|
 gigo-||||billion (giga-)||giga-|||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
 gitare|||eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|guitar|guitare|guitarra|guitarra|гитара||吉他|ギター|기타|ghi-ta|गिटार|গিটার|gitar|gitaa|gitar|gitaro|kitara|gitara
 giyania|dex|GF||French Guiana||Guyana Francesa||||||||||||||Ranskan Guiana|Gujana Francuska
@@ -1465,7 +1465,7 @@ kitabomaxine||||typewriter|machine à écrire|máquina de escribir|máquina de e
 kitabominister||||librarian||bibliotecario||библиотекарь|||図書係||||||||||
 kitaborupe||||formatting||formateo||||||||||||||tekstin muotoilu|formatowanie
 kiwe|||eng:kiwi|kiwi fruit||kiwi fruta|||||||||||||kivo|kiivi|owoc kiwi
-klara||||clarify||aclarar (clarificar)|||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
+klara||||clarify (clear up)||aclarar (clarificar)|||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
 klari|||deu:klar, spa:por:claro, eng:clear, fra:clair|clear (obvious)|clair|claro|claro||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
 klaro||||of course (obviously)|||||||||||||||kompreneble|tietysti (selvästi)|oczywiście
 klasa||||classify (categorize)||clasificar||||||||||||||luokitella (kategorisoida)|klasyfikować, kategoryzować
@@ -1528,6 +1528,7 @@ konsone|||fra:consonne, eng:consonant|consonant||consonante||||||||||||||konsona
 kontini||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ||||||||||
 kontinu||||continue (resume)||continuar (reanudar)||||||||||||||jatkua|kontynuować; wznawiać, ponawiać
 kontra|coverb||spa:por:contra, fra:contre, eng:counter-, ell:κόντρα (kontra)|be against||estar en contra|||||||||||||kontraŭ|vastaan (vasten)|być przeciw
+kontrate||||pact (contract, covenant, alliance)|convention (alliance, pacte)|convenion (pacto)|pacto|контракт||公約||||||||||liittosopimus|
 konuse|||eng:por:cone, spa:cono, fra:conique, rus:ко́нус (kónus), tur:koni, may:kon|cone||cono||||||||||||||kartio (keila)|szyszka
 kope|||fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|drinking vessel (cup, glass, mug)|coupe (tasse, verre)|vaso (taza, copa)|copo (taça)|чаша (чашка, стакан)|كَأْس|杯子|コップ|컵|ly (chén)|प्याला|পেয়ালা|cangkir (cawan, gelas)|kikombe (glas)|kase (fincan, bardak)|taso|kuppi (muki)|kubek
 kopernikium|mate|Cn||copernicium||copérnico|||||||||||||kopernicio|kopernikium|kopernik
@@ -2061,6 +2062,7 @@ mule|||hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūl
 multi|||por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|many||muchos|||||多い|||||||||moni (usea)|wiele
 multia||||number (abundance)||número (muchedumbre)|||||||||||||||
 mumbai||||Mumbai (Bombay)|||||||||||||||||
+mumcape||||wax seal||||||封印||||||||||sinetti|
 mume|||tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|wax||cera (lacre)||||||||||||||vaha|wosk
 mumfote||||candle||vela (candela, cirio)|||||||||||||kandelo|kynttilä|świeca
 mumrene||||mummy||momia|||||||||||||mumio|muumio|mumia
@@ -2393,8 +2395,8 @@ pixa||||piss (urinate)||mear|||||||||||||pisi (urini)|virtsata (kusta)|sikać, s
 pixe|||eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|piss (urine)||pis (meados)|||||||||||||piso (urino)|virtsa (pissa, kusi)|siki
 pize|||ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|pizza|pizza|pizza||пицца|||||||||||pico|pitsa (pizza)|pizza
 pizeria||||pizzeria||pizzería|||||||||||||picejo|pitseria|pizzeria
-plan (plane)|||eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan||plan||||||||||||||suunnitelma|plan
 plana||||intend (plan)||planear (tener pensado)||||||||||||||suunnitella|planować
+plane|||eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan|plan|plan|plano|план||||||प्लैन||||||suunnitelma|plan
 planete|||eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)|planet||planeta||||||||||||||planeetta|planeta
 plastike|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic||plástico||||||||||||||muovi|plastik
 plate|||eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)|plane (plate)||plano (placa)|||||||||||||||
@@ -2739,9 +2741,9 @@ semente|||eng:cement, may:semen, spa:cemento, tur:çimento, vie:xi măng, hin:�
 semi||||seminal|séminal|seminal|seminal|семенной||种子的|||||||||sema|siemen-|nasienny
 sene|||fra:scène, spa:escena, rus:сцена (scena), deu:Szene, tur:sahne, fas:(sahne)|stage (scene)||escenario||сцена||||||||||||lava (näyttämö)|scena
 senegalia|dex|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
-sensa||||sense (detect)||sentir (detectar)|||||||||||||||
-sense|||eng:sense, spa:por:sentido, fra:sens|sense (sensation, feeling)||sentido|||||||||||||||zmysł
-senser||||sensor (detector)|||||||||||||||||
+sensa||||sense (perceive, detect)||sentir (detectar)||||||||||||||aistia|
+sense|||eng:sense, spa:por:sentido, fra:sens|sense (method of perception)|sens|sentido|sentido|чувство|حاسة‎|感觉|感覚|감각|||||||sentumo|aisti|zmysł
+senser||||sensor (detector)||||||||||||||||sensori (aistin)|
 senta|||spa:por:sentir|feel (sense by touch)||palpar (tocar)|||||||||||||senti|tuntea|czuć
 serbia|dex|RS||Serbia||Serbia|||||||||||||Serbio|Serbia|Serbia
 serca|||eng:search, fra:chercher|search||buscar|||||||||||||||szukać
@@ -2788,6 +2790,7 @@ siri|||ara:(sirr), tur:sır, fas:(serr), swa:siri|secret||secreto||||||||||||||s
 siri mote||||stealth|célérité|sigilo|||||忍び||||||||||
 sirke|||tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|vinegar||vinagre|||||||||||||vinagro|etikka|ocet
 siro motu||||sneak||colarse|||||||||||||||
+sirplane||||conspiracy (plot)|complot (conspiration)|complot (conspiración)|complô (conspiração)|заговор (сговор)||阴谋 (密谋)|陰謀|음모||||||komplot||juoni (salaliitto)|
 sisfase||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
 sisgone||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 sisi|||eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
@@ -3023,6 +3026,8 @@ transa||||transit (pass through or across)||transitar (atravesar)||||||||||||||k
 transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (passage)||tránsito||||||||||||||läpikulku|przejazd, przewóz, tranzyt
 transeria||||transportation||transporte||||||||||||||kuljetus|transport
 transogoni||||diagonal||diagonal|||||||||||||||przekątny
+trata||||agree (make an agreement)||||||||||||||||sopia (tehdä sopimus)|
+trate|||eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|agreement (treaty)|contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор||合同 (合约)|合意|||||kontrak||sözleşme (kontrat)||sopimus|
 tren (trene)|||eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|train||tren|||||電車 (列車)||||||||trajno (vagonaro)|juna|pociąg
 trendaw||||rail (railway, railroad)||vía férrea|||||||||||||fervojo|junarata (rautatie)|kolej
 trenkaper||||train hijacker||||||||||||||||junakaappari|porywacz pociągu
