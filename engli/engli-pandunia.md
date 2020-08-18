@@ -63,7 +63,7 @@ allow (permit) - halala
 almond - badame  
 alphabet - abace  
 already (completed action) - lewo  
-also (plus, too) - plus (pluso)  
+also (additionally, plus, too) - maxo  
 altar - altare  
 alternative (substitute, replacement) - vise  
 aluminium - alumine  
@@ -129,7 +129,7 @@ April - mes 4 (mes cari)
 aqua (teal) - marnili  
 Arabic - arabi  
 arachnophobia - aranfobia  
-arboretum - mokojongparke  
+arboretum - mokojongoparke  
 archer - arker  
 archery - arkia  
 archipelago - nesia  
@@ -365,6 +365,7 @@ bother - mafana
 Botswana - cuania  
 bottle - botele  
 bottom - tale  
+boulder - dayxeke  
 bow (arch, arc) - arke  
 bow instrument (violin, etc.) - ticine  
 box (chest) - sanduke  
@@ -584,7 +585,7 @@ club - klube
 coast (beach) - martate  
 coat - kote  
 cobalt - kobalte  
-cobblestone - cirki petre  
+cobblestone - cirkoxeke  
 coca - koke  
 Coca-Cola - kokokole  
 cocktail - mixi alkole  
@@ -707,7 +708,7 @@ crisis - krize
 critic - pipinger  
 critical (pertaining to crisis) - krizi  
 Croatia - horvatia  
-crocodile - longkrokodile  
+crocodile - longokrokodile  
 crocodillian - krokodile  
 croissant - kruasante  
 cross (go across) - krusa  
@@ -869,7 +870,7 @@ drawing (design) - desene
 drawing (graph, image) - grafe  
 drill (bore, perforate) - fora  
 drinking vessel (cup, glass, mug) - kope  
-drive - xofa  
+drive (steer) - xofa  
 drop (droplet) - yote  
 drop (let fall) - pada  
 drug (intoxicating substance) - droge  
@@ -886,7 +887,7 @@ dungeon crawl - aventure da donjone
 durable (sustainable) - durubli  
 duration - dure  
 dust (powder) - fune  
-dye - rangmate  
+dye - rangomate  
 dynamite - dinamite  
 dysprosium - disprosium  
 ##e
@@ -1081,7 +1082,7 @@ flat (planar) - plati
 flatbread (chapati, roti) - capate  
 flerovium - flerovium  
 fletcher - flecer  
-flint - hogopetre  
+flint - hogoxeke  
 float (buoy, bobber) - boye  
 float (swim) - boya  
 floor - kamartale  
@@ -1162,13 +1163,14 @@ garbage (rubbish, trash) - laje
 garlic - lasune  
 gas - gase  
 gaseous - gasi  
+gasify (vaporize) - gasa  
 gasify (vaporize) - gasu  
 gasoline (petrol) - benzine  
 gauze - gaze  
 gay (homosexual) - geyi  
 gazelle - gazele  
 gel (jelly) - jele  
-gem (gemstone, jewel) - bawpetre  
+gem (gemstone, jewel) - bawxeke  
 gender (sex) - jinse  
 genderqueer (non-binary) - bise  
 generation (cohort) - jengrupe  
@@ -1250,7 +1252,7 @@ grief (sorrow) - duke
 grieve - duku  
 grimace - grimase  
 grind (grind in mill) - mola  
-grindstone - molpetre  
+grindstone (millstone) - molxeke  
 ground force (army) - zemlaskeria  
 group - grupe  
 grow (get bigger) - dayu  
@@ -1264,6 +1266,9 @@ guard (watch) - garda
 guardian (watchman) - garder  
 Guatemala - guatemalia  
 Guernsey - genzia  
+guide (lead, show the way) - gida  
+guide - gider  
+guide book - gidobuke  
 guilty - doxi  
 Guinea - konakri ginia  
 Guinea-Bissau - bisawi ginia  
@@ -1590,7 +1595,7 @@ Latin alphabet - latini abace
 latitude - sudonordia  
 Latvia - latovia  
 laugh - haha  
-lava - yongpetre  
+lava - yongopetre  
 law - kanune  
 lawrencium - laurensium  
 lay (lay down) - lala  
@@ -1768,10 +1773,10 @@ marry - gama
 Mars - marse  
 marsh (bog, swamp, morass) - potistan  
 Marshall Islands - maxel nesia  
-martial art - jengxute  
+martial art - jengoxute  
 marvel (wonder) - ajabe  
 mask (camouflage) - maske  
-mason (stonemason, stonecutter) - petrojanger  
+mason (stonemason, stonecutter) - xekojanger  
 mass (dough, lump) - mase  
 massage - masaje  
 mast - maste  
@@ -1854,8 +1859,8 @@ mine (extract) - kuanga
 mine - kuangeria  
 miner - kuanger  
 mineral (ore) - kuange  
-mineral water - kuangsuy  
-mineshaft - kuangtunele  
+mineral water - kuangosuy  
+mineshaft - kuangotunele  
 minimal - minimi  
 minimalism - minimalistia  
 minimize - minima  
@@ -1891,7 +1896,7 @@ mongoose - munguse
 monism - monistia  
 monochrome - unrangi  
 monolog - monloge  
-monotheism - mondewistia  
+monotheism - undewistia  
 monster - monster  
 Montenegro - cernogoria  
 month - mes (mese)  
@@ -2079,6 +2084,7 @@ one (1) - un (uni)
 onion - piaze  
 online - sa linye  
 only (alone, solely, just) - mono  
+only (sole) - moni  
 open (not closed) - kayi  
 open (wide, spacious) - maidani  
 open - kaya  
@@ -2158,7 +2164,7 @@ panromantic - panromansi
 pansexual - panseksi  
 pantheism - pandewistia  
 pantheon - pandewia  
-pants (trousers) - pantalone  
+pants (trousers) - pante  
 papaya - papaye  
 paper (material) - kagaze  
 paprika - cilfune  
@@ -2196,6 +2202,7 @@ peace - pace
 peanut (groundnut) - zemdowe  
 pear - leze  
 pearl - lule  
+pebble (gravel) - lilxeke  
 pedal - pedale  
 peer - pare  
 pen (writing tool) - kalame  
@@ -2532,7 +2539,7 @@ roast - rosta
 rob (loot, plunder, pillage, ransack) - luta  
 robber (plunderer) - luter  
 robot - robote  
-rock (stone) - petre  
+rock - petre  
 rocket - rokete  
 rocket launcher - roketolancer  
 roentgenium - rengenium  
@@ -2754,7 +2761,7 @@ slipper - babuce
 Slovakia - slovakia  
 Slovenia - slovenia  
 slow (lethargic) - lenti  
-smelt - yongsaha  
+smelt - yongosaha  
 smoke - dumane  
 smooth - lisi  
 smoothen with a plane - randa  
@@ -2851,12 +2858,12 @@ steal - cora
 stealth - siri mote  
 steam (vapor) - suygase  
 steamed bun (mantou, manti) - mante  
-steer - gida  
 step (degree, rank, grade, level, class) - darje  
 stick (adhere, paste, glue) - gluta  
 sticky (ahesive) - gluti  
 still (yet) - yexo  
 stipulate - xarta  
+stone (piece of rock) - xeke  
 stop (halt) - tinga  
 stop (halt) - tingu  
 stop - ting (tinge)  
@@ -3062,7 +3069,7 @@ toilet (WC) - tuale
 Tokyo - tokyo  
 tolerate - tolera  
 tomato - tomate  
-tombstone (gravestone) - gabropetre  
+tombstone (gravestone) - gabroxeke  
 tomorrow - badoden  
 tone (note, pitch, shade) - tone  
 Tonga - tongia  
@@ -3133,7 +3140,7 @@ turquoise gem - firuze
 turtle (tortoise) - tortuge  
 Tuvalu - tuvalia  
 twice - duli ban  
-twinkle (sparkle) - xingfota  
+twinkle (sparkle) - xingofota  
 two (2) - duli  
 type (kind, genre) - tipe  
 typewriter - kitabomaxine  
@@ -3226,8 +3233,8 @@ visitor (guest) - viziter
 visual field (field of vision) - vidomaidane  
 vocabulary (lexicon) - leksia  
 void (empty space) - kale  
-volcanic glass - hogoxami kance  
-volcano - hogoxame  
+volcanic glass - hogoxani kance  
+volcano - hogoxane  
 volt (V) - volte  
 voodoo - vodun  
 vote (ballot) - vote  
@@ -3365,7 +3372,7 @@ zigzag - zigzage
 Zimbabwe - zimbabwia  
 zinc - zinke  
 zip up - zipa  
-zipper - ziper  
+zipper - zipe  
 zirconium - zirkonium  
 zombie - zombe  
 zoo (zoological garden) - hewanparke  

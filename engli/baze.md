@@ -5,9 +5,33 @@ This document is a simple guide to the main features of Pandunia.
 
 ### Letters and sounds
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia | IPA |
+|----------|-----|
+| a | /a/ |
+| b | /b/ |
+| c | /tʃ/ |
+| d | /d/ |
+| e | /e/ |
+| f | /f/ |
+| g | /g/ |
+| h | /h~x/ |
+| i | /i/ |
+| j | /dʒ/ |
+| k | /kʰ/ |
+| l | /l/ |
+| m | /m/ |
+| n | /n/ |
+| o | /o/ |
+| p | /pʰ/ |
+| r | /r~ɹ/ |
+| s | /s/ |
+| t | /tʰ/ |
+| u | /u/ |
+| v | /v/ |
+| w | /w~ʋ/ |
+| x | /ʃ/ |
+| y | /j/ |
+| z | /z~dz/ |
 
 The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 

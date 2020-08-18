@@ -237,7 +237,7 @@ batone - pręt, kij
 batonpang - bagietka  
 batre - bateria  
 bawe - skarb; skrabiec  
-bawpetre - klejnot  
+bawxeke - klejnot  
 baxa - mówić; komunikować  
 baxe - język; komunikacja  
 baxkanune - gramatyka  
@@ -469,6 +469,7 @@ daymare - ocean
 daypawe - działo  
 daypawer - kanonier  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
+dayxeke - głaz  
 debili - słaby  
 deco- - decy-, dziesiąta część  
 decobel - decybel  
@@ -774,7 +775,7 @@ fuy - fu, fuj
 ##g
 gabre - grób (mogiła, grobowiec)  
 gabristan - cmentarz  
-gabropetre - nagrobek  
+gabroxeke - nagrobek  
 gabunia - Gabon  
 gade - osioł  
 gadolinium - gadolin  
@@ -833,7 +834,7 @@ germanium - german
 geta - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 geter - odbiorca  
 geyi - gejowski (homoseksualny)  
-gida - sterować  
+gider - przewodnik  
 gigo- - bilion, giga-  
 gitare - gitara  
 giyania - Gujana Francuska  
@@ -1106,7 +1107,7 @@ jener - rodzic (matka lub ojciec)
 jenge - walka, wojna  
 jenger - wojownik, bojownik  
 jengi - militarny, wojskowy, wojenny  
-jengxute - sztuka walki  
+jengoxute - sztuka walki  
 jeni baxe - język ojczysty (język rodzimy)  
 jenklase - kasta  
 jentili - uprzejmy, miły  
@@ -1407,7 +1408,7 @@ krusa - przejść w poprzek
 kruse - krzyż  
 krusfiksa - ukrzyżować  
 kuange - minerał, ruda  
-kuangsuy - woda mineralna  
+kuangosuy - woda mineralna  
 kuani - szeroki  
 kube - sześcian  
 kubia - Kuba  
@@ -1511,6 +1512,7 @@ lil (lili) - mały; mało, trochę, nieco
 lilake - lilak  
 lilaki - liliowy  
 lilbole - bańka  
+lilxeke - kamyk  
 lilyame - przekąska  
 limfase - pięciościan (pryzmat)  
 limgone - pięciokąt (pentagon)  
@@ -1664,6 +1666,7 @@ maxim (maximo) - nabardziej, maksymalnie
 maxime - maksimum  
 maximi - maksymalny  
 maxine - maszyna  
+maxo - też, również  
 maxori - większościowy, wiodący, główny  
 maxoria - większość  
 mayane - Maya  
@@ -1776,9 +1779,9 @@ modolekse - przysłówek
 moge - tusz  
 moke - drzewo  
 mokojanger - stolarz  
-mokojongparke - arboretum  
+mokojongoparke - arboretum  
 mokomate - drewno  
-mola - zemleć, mleć, mielić  
+mola - zemleć (mleć, mielić)  
 moldovia - Mołdawia  
 mole - mol  
 molekule - molekuła (cząsteczka)  
@@ -1788,7 +1791,6 @@ molidenum - molibden
 moluske - mięczak (morski bezkręgowiec)  
 mome - my  
 monakia - Monako  
-mondewistia - monoteizm  
 mongoli - Mongolski  
 mongolia - Mongolia  
 monistia - monizm  
@@ -2042,7 +2044,7 @@ panjabi - pendżabski
 panke - wiatrak (wentylator)  
 panromansi - panromantyczny  
 panseksi - panseksualny  
-pantalone - spodnie, pantalony, portki  
+pante - spodnie (pantalony, portki)  
 papagaye - papuga  
 papaye - papaja  
 pape - ojciec  
@@ -2103,7 +2105,7 @@ peruvia - Peru
 pesdiske - moneta  
 pese - pieniądze  
 pete - brzuch  
-petre - skała (kamień)  
+petre - skała  
 pexe - profesja, zajęcie, zawód  
 peya - zapłacić, opłacić, płacić  
 peye - zapłata, opłata  
@@ -2149,7 +2151,6 @@ pliza - prosić
 pliza laya - zaprosić, zapraszać  
 plumbe - ołów  
 plume - śliwka  
-plus (pluso) - też, również  
 pluton - Pluton (planeta karłowata)  
 plutonium - pluton  
 podia - Tybet  
@@ -2724,6 +2725,7 @@ un (uni) - jeden (1)
 un ban - raz (jeden raz)  
 unale - się (nawzajem, wzajemnie)  
 unali - wzajemny  
+undewistia - monoteizm  
 unisa - jednoczyć  
 unisi - zjednoczony  
 unisi arabi emiria - Zjednoczone Emiraty Arabskie  
@@ -2981,7 +2983,7 @@ zine - zdrada małżeńska, cudzołóstwo
 zinje - imbir  
 zinke - cynk  
 zipa - zamknąć zamkiem błyskawicznym  
-ziper - zamek błyskawiczny  
+zipe - zamek błyskawiczny  
 zire - kumin, kmin  
 zirkonium - cyrkon  
 ziza - skwierczeć  

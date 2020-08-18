@@ -281,21 +281,22 @@ In Pandunia, function words have the following characteristics:
 3. The vowel has a structural meaning, as follows:
     - **-e** indicates a pronoun
     - **-i** indicates a determiner or a modifier
+    - **-o** indicates an adverb
     - **-a** indicates a preposition
     - **-u** indicates a postposition
 
-|  | Idea                   | -a (preposition)       | -e (noun or pronoun)   | -i (modifier)          | -u (postposition)      |
-|--|:-----------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| 1| 1st person pronoun     |                        | **me**<br>I            | **mi**<br>my           |                        |
-| 2| 2nd person pronoun     |                        | **te**<br>you          | **ti**<br>your         |                        |
-| 3| 3rd person pronoun     |                        | **le**<br>he, she, it  | **li**<br>his, her, its|                        |
-| 4| Reflexive pronoun      |                        |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |
-| 5| Interrogative          |                        | **ke**<br>what?        | **ki**<br>which?       |                        |
-| 6| Near demonstrative     |                        | **ye**<br>this/that one| **yi**<br>this/that    |                        |
-| 7| Far demonstrative      |                        | **we**<br>this/that one| **wi**<br>this/that    |                        |
-| 8| Negation / absence     | **na**<br>without      |                        | **no**<br>not          | **nu**<br>-less        |
-| 9| Affirmation / presence | **sa**<br>with, by, at |                        | **si**<br>yes          | **su**<br>-ed, -ful    |
-|10| Possession             | **da**<br>of           |                        |                        | **du**<br>'s           |
-|11| Destination            | **pa**<br>to, for      |                        |                        | **pu**<br>-ward, -bound|
-|12| Origin                 | **ca**<br>from, since  |                        |                        | **cu**                 |
+|  | Idea                   | -e (noun or pronoun)   | -i (modifier)          | -o (adverb)            | -a (preposition)       | -u (postposition)      |
+|--|:-----------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+| 1| 1st person pronoun     | **me**<br>I            | **mi**<br>my           |                        |                        |                        |
+| 2| 2nd person pronoun     | **te**<br>you          | **ti**<br>your         |                        |                        |                        |
+| 3| 3rd person pronoun     | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
+| 4| Reflexive pronoun      |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |                        |                        |
+| 5| Interrogative          | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         |                        |                        |
+| 6| Near demonstrative     | **ye**<br>this one     | **yi**<br>this         | **yo**<br>thus         |                        |                        |
+| 7| Far demonstrative      | **we**<br>that one     | **wi**<br>that         | **wo**<br>so           |                        |                        |
+| 8| Negation / absence     |                        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      | **nu**<br>-less        |
+| 9| Affirmation / presence |                        | **si**<br>yes          |                        | **sa**<br>with, by, at | **su**<br>-ed, -ful    |
+|10| Possession             |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
+|11| Destination            |                        |                        |                        | **pa**<br>to, for      | **pu**<br>-ward, -bound|
+|12| Origin                 |                        |                        |                        | **ca**<br>from, since  | **cu**                 |
 

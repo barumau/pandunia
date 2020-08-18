@@ -86,7 +86,7 @@ baskobol - баскетбол
 batre - батарея  
 bawe - сокровище (казна)  
 bawi - драгоценный  
-bawpetre - драгоценный камень  
+bawxeke - драгоценный камень  
 baxe - язык  
 baxi jinse - род в грамматике  
 bazare - рынок (базар)  
@@ -139,7 +139,7 @@ cira - рвать
 circira - изорвать  
 circiri - изорванный  
 cire - рвать  
-cirki petre - булыжник  
+cirkoxeke - булыжник  
 cise - сыр  
 cokolate - шоколад  
 coye - зелень  
@@ -153,6 +153,7 @@ datobanke - база данных
 daymare - океан  
 daypawe - пушка  
 dayvaze - котёл  
+dayxeke - валун  
 defbanze - щит  
 defkaske - доспехи  
 destine - судьба  
@@ -215,7 +216,7 @@ futobole - футбол
 gabra - хоронить  
 gabre - могила (гроб)  
 gabristan - кладбище  
-gabropetre - надгробие  
+gabroxeke - надгробие  
 galaksia - галактика  
 gance - крюк  
 gandume - пшеница  
@@ -226,6 +227,8 @@ gati - твёрдый
 gazele - газель  
 gazete - газета  
 gemer - игрок (геймер)  
+gider - гид  
+gidobuke - путеводитель  
 gitare - гитара  
 glisu - задвигаться (скользи́ть)  
 gluta - клеиться  
@@ -262,9 +265,9 @@ hijenia - гигиена
 hisaba - вычислять  
 hoga - жечь (палить)  
 hoge - огонь  
-hogopetre - кремень  
 hogotehne - фейерверк  
-hogoxame - вулкан  
+hogoxane - вулкан  
+hogoxeke - кремень  
 hoke - хоккей  
 hore - час  
 horizoni - horizontal  
@@ -322,6 +325,7 @@ karde - карта
 kare - работа  
 karer - работник  
 karlekse - глагол  
+karote - морковь  
 karsi - грубой  
 kaske - оболочка (кора, панцирь)  
 katane - меч  
@@ -391,6 +395,7 @@ libele - стрекоза
 libobanze - полка  
 lider - руководитель (лидер)  
 lil (lili) - маленький (малый)  
+lilxeke - галька  
 limi - пять (5)  
 limone - лимон  
 linse - рысь  
@@ -452,9 +457,14 @@ misria - Египет
 mixa - мешать  
 mixi alkole - коктейль  
 moke - дерево  
+mola - молоть  
 molia - мельница  
 moluske - моллюск  
+molxeke - жёрнов  
 mome - мы  
+moni - единственный  
+monloge - монолог  
+mono - только  
 moskove - Москва  
 mule - корень  
 muskulbine - культуризм  
@@ -499,6 +509,7 @@ pagre - чалма
 pake - пакет  
 pang (pange) - хлеб  
 panire - творог  
+pante - брюки  
 papagaye - попугай  
 papaye - папайя  
 pape - отец (папа)  
@@ -696,9 +707,10 @@ xarke - акула
 xatan (xatane) - Сатана  
 xawi - мало  
 xefe - шеф  
+xeke - камень (камешек)  
 xey (xeye) - вещь  
 xeyhale - положение (ситуация)  
-xingfota - сверкать (мерцать)  
+xingofota - сверкать (мерцать)  
 xite - говно (дерьмо)  
 xofer - шофёр  
 xopa - покупать (купить)  

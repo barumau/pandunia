@@ -230,7 +230,7 @@ batone - tanko (sauva, patukka)
 batonpang - patonki (ranskanleipä)  
 batre - akku (paristo)  
 bawe - aarre  
-bawpetre - jalokivi  
+bawxeke - jalokivi  
 baxa - puhua (kommunikoida)  
 baxe - kieli (kommunikaatio)  
 baxkanune - kielioppi  
@@ -394,6 +394,7 @@ cipia - Albania
 cirka - ympäröidä (piirittää)  
 cirke - piiri (ympyrä)  
 cirki - pyöreä  
+cirkoxeke - mukulakivi  
 cise - juusto  
 cita - lainata (siteerata)  
 citi marke - lainausmerkki  
@@ -463,6 +464,7 @@ daymare - valtameri
 daypawe - tykki  
 daypawer - tykkimies  
 dayu - kasvaa (suurentua)  
+dayxeke - lohkare (järkäle)  
 deco- - desi  
 decobel - desibeli  
 defa - puolustaa  
@@ -758,7 +760,7 @@ fuy - hyi! (pyh!)
 gabra - haudata  
 gabre - hauta  
 gabristan - hautausmaa  
-gabropetre - hautakivi  
+gabroxeke - hautakivi  
 gabunia - Gabon  
 gade - aasi  
 gadolinium - gadolinium  
@@ -815,7 +817,9 @@ germanium - germanium
 geta - hankkia (saada)  
 geter - saaja (vastaanottaja)  
 geyi - homo (homoseksuaali)  
-gida - ohjata (ohjastaa)  
+gida - opastaa (ohjata)  
+gider - opas (tiennäyttäjä)  
+gidobuke - matkaopas (opaskirja)  
 gitare - kitara  
 giyania - Ranskan Guiana  
 glute - liima  
@@ -955,6 +959,7 @@ hoga - polttaa
 hoge - tuli  
 hogi - tulinen  
 hogosanduke - lyhty  
+hogoxeke - piikivi  
 hogu - palaa  
 hoke - hockey (jääkiekko)  
 holere - kolera  
@@ -1076,7 +1081,7 @@ jener - vanhempi (isä tai äiti)
 jenge - taistelu (sota)  
 jenger - soturi (taistelija)  
 jengi - sotilaallinen  
-jengxute - kamppailulaji  
+jengoxute - kamppailulaji  
 jeni baxe - äidinkieli  
 jenklase - sääty (kasti)  
 jentili - kiltti  
@@ -1362,7 +1367,7 @@ kruasante - voisarvi (kroissantti)
 kruse - risti  
 krusfiksa - ristiinnaulita  
 kuange - kivennäinen (mineraali)  
-kuangsuy - kivennäisvesi  
+kuangosuy - kivennäisvesi  
 kuani - leveä  
 kube - kuutio  
 kubia - Kuuba  
@@ -1454,6 +1459,7 @@ lil (lili) - pieni (pienesti, vähän)
 lilake - syreeni  
 lilaki - violetti (liila)  
 lilbole - kupla  
+lilxeke - sorakivi  
 lilyame - välipala (naposteltava)  
 limfase - viisitahokas (prisma)  
 limgone - viisikulmio  
@@ -1605,6 +1611,7 @@ maxim (maximo) - eniten
 maxime - maksimi (enimmäismäärä)  
 maximi - enimmäis-  
 maxine - kone  
+maxo - myös (lisäksi, plus)  
 maxori - enemmistö-  
 maxoria - enemmistö  
 mayane - maya (mayaintiaani)  
@@ -1716,19 +1723,20 @@ modolekse - adverbi
 moge - muste  
 moke - puu  
 mokojanger - puuseppä  
-mokojongparke - arboretum (puulajipuisto)  
+mokojongoparke - arboretum (puulajipuisto)  
 mokomate - puuaines  
-mola - jauhaa myllyssä  
+mola - jauhaa  
 moldovia - Moldova  
 moler - mylläri  
 molia - mylly  
 molidenum - molybdeeni  
 moluske - nilviäinen  
+molxeke - myllynkivi  
 mome - me  
 monakia - Monaco  
-mondewistia - monoteismi (yksijumalisuus)  
 mongoli - mongoli  
 mongolia - Mongolia  
+moni - ainoa (ainut)  
 monistia - monismi  
 monkratia - yksinvaltius (autokratia, monarkia)  
 monloge - yksinpuhelu (monologi)  
@@ -1973,7 +1981,7 @@ panike - hätä (paniikki)
 panire - rahka  
 panjabi - pandžabi (eräs intialainen kieli)  
 panke - viuhka (tuuletin)  
-pantalone - housut  
+pante - housut  
 papagaye - papukaija  
 papaye - papaija  
 pape - isä  
@@ -2031,7 +2039,7 @@ peruvia - Peru
 pesdiske - kolikko  
 pese - raha  
 pete - maha (vatsa)  
-petre - kivi (kallio, murikka)  
+petre - kallio (kivi)  
 pexe - ammatti  
 peya - maksaa  
 peye - maksu  
@@ -2076,7 +2084,6 @@ pliza - pyytää
 pliza laya - pyytää tulemaan  
 plumbe - lyijy  
 plume - luumu  
-plus (pluso) - myös (lisäksi, plus)  
 pluton - Pluto (kääpiöplaneetta)  
 plutonium - plutonium  
 podia - Tiibet  
@@ -2609,6 +2616,7 @@ un (uni) - yksi (1)
 un ban - kerran  
 unale - toisiaan (keskenään)  
 unali - molemminpuolinen (keskinäinen)  
+undewistia - monoteismi (yksijumalisuus)  
 unisa - yhdistää  
 unisi - yhtenäinen  
 unisi arabi emiria - Yhdistyneet Arabiemiirikunnat  
@@ -2747,6 +2755,7 @@ xaxu - kahista
 xefe - päällikkö (pomo)  
 xefi - pää-  
 xefi minister - pääministeri (suurvisiiri)  
+xeke - kivi (hippu)  
 xenon - ksenon  
 xey (xeye) - asia  
 xeyhale - tilanne (asiaintila)  
@@ -2851,7 +2860,7 @@ zine - haureus (uskottomuus)
 zinje - inkivääri  
 zinke - sinkki  
 zipa - sulkea vetoketjulla  
-ziper - vetoketju  
+zipe - vetoketju  
 zire - juustokumina (jeera)  
 zirkonium - zirkonium  
 ziza - sihistä  

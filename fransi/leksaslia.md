@@ -163,6 +163,7 @@
 |**gase**|gaz|deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|
 |**gati**|dur|tel:గట్టి (gaṭṭi), tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)|
 |**gazele**|gazelle|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
+|**gida**|guider|eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu) + ara:قَادَ‎ (qāda)|
 |**gitare**|guitare|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
 |**glisu**|glisser|fra:glisser, ita:glissare + eng:glacier,glissando, spa:por:glaciar,glisando, rus:глиссандо (glissando), ara:غليساندو (ghlysandw), jpn:グリッサンド (gurissando) + may:gelangsar|
 |**gole**|but|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
@@ -219,6 +220,7 @@
 |**kare**|travail|may:karya, hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma) |
 |**karimi**|généreux|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |**karlekse**|verbe|hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|
+|**karote**|carotte|eng:carrot, fra:carotte, deu:Karotte, swa:karoti, may:karot, vie:cà rốt|
 |**karsi**|rêche (rugueux, gros)|eng:coarse, may:kasar, ara:خشن (khashin)|
 |**kaske**|carapace (coquille, coquillage, croûte)|spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|
 |**kava**|creuser|spa:por:cavar, eng:excavar, fra:excaver|
@@ -307,7 +309,8 @@
 |**misria**|Égypte|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |**mode**|mode (façon, manière)|fra:eng:mode, spa:por:modo|
 |**moke**|arbre|zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|
-|**molia**|moulin|zho:磨 (mò), fra:moulin, spa:molino|
+|**molia**|moulin|zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)|
+|**mono**|seulement|ell:μόνος (monos), eng:deu:fra:por:spa:mono-, rus:моно- (mono-)|
 |**muke**|visage|ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|
 |**mule**|racine|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
 |**nade**|rivière (fleuve)|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
@@ -338,6 +341,7 @@
 |**pakse**|oiseau|hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)|
 |**pang (pange)**|pain|tha:ปัง (pang), kor:빵 (ppang), khm:នំប៉័ង (numpang), jpn:パン (pan), por:pão, spa:pan, fra:pain|
 |**panire**|fromage blanc|hin:पनीर (panīr), pnb:ਪਨੀਰ (panīr), ben:পনির (pônir), tur:peynir, eng:paneer|
+|**pante**|pantalon|eng:pants, hin:पैंट (paiṇṭ), ben:প্যান্ট (pyanṭ), spa:pantalón, fra:pantalon, ara:بنطلون‎ (banṭalōn), tur:pantolon|
 |**papagaye**|perroquet|ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)|
 |**papaye**|papaye|eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), hin:पपीता (papītā), ben:পেঁপে (pẽpe)|
 |**pape**|pere (papa)|eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|
@@ -462,6 +466,7 @@
 |**xatan (xatane)**|Satan|ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|
 |**xawi**|peu|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |**xefe**|chef|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
+|**xeke**|pierre|zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|
 |**xey (xeye)**|chose|ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|
 |**xeyhale**|situation (état de choses)|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |**xinge**|étoile|zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|

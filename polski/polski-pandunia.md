@@ -71,7 +71,7 @@ apsik - aciy
 Arabia Saudyjska - saudi arabia  
 arabski - arabi  
 arachnofobia - aranfobia  
-arboretum - mokojongparke  
+arboretum - mokojongoparke  
 arbuz - arbuze  
 archipelag - nesia  
 Argentyna - argentinia  
@@ -673,6 +673,7 @@ góra, wzgórze - xane
 górny - supri  
 gówno - xite  
 gładki - lisi  
+głaz - dayxeke  
 głos - vote  
 głoska - fone  
 głosować (złożyć głos) - vota  
@@ -863,6 +864,7 @@ kalkulować - hisaba
 Kambodża - kambudia  
 kamera, aparat fotograficzny - fotografmaxine  
 Kamerun - kamerunia  
+kamyk - lilxeke  
 Kanada - kanadia  
 kanapka - sanduice  
 kanał - kanale  
@@ -920,7 +922,7 @@ klatka piersiowa - sinkafase
 klawiatura - butonbanze  
 klawisz, przycisk, przełącznik - butone  
 klej - glute  
-klejnot - bawpetre  
+klejnot - bawxeke  
 klimat - klime  
 klimatologia - klimlojia  
 klon, replika - klone  
@@ -1306,7 +1308,7 @@ Mongolia - mongolia
 Mongolski - mongoli  
 monizm - monistia  
 monolog - monloge  
-monoteizm - mondewistia  
+monoteizm - undewistia  
 moralność, etyka - darme  
 moralny - darmi  
 morela - barkoke  
@@ -1367,7 +1369,7 @@ nadać, wysłać pocztą - posta
 Naddniestrze - nistria  
 nadzieja, życzenie - inxala  
 nagi, goły, obnażony - nudi  
-nagrobek - gabropetre  
+nagrobek - gabroxeke  
 nahuatl - nawati  
 najmniej, minimalnie - minim (minimo)  
 naleśnik - krepe  
@@ -1924,6 +1926,7 @@ przeszkodzić, przeszkadzać, robić kłopot - mafana
 przeszłość - pase  
 przeszły, miniony - pasi  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
+przewodnik - gider  
 przeziębienie, katar - zukame  
 przeznaczenie, los - destine  
 przeznaczyć - destina  
@@ -2191,7 +2194,7 @@ siły powietrzne - airlaskeria
 skand - skandium  
 skarb; skrabiec - bawe  
 skarpeta, skarpetka, pończocha - soke  
-skała (kamień) - petre  
+skała - petre  
 skoczyć, skakać - jampa  
 skonsumować, konsumować, zjeść, jeść, wypić, pić) - yama  
 skończyć, kończyć - fina  
@@ -2230,7 +2233,7 @@ spać - sonu
 specjalny, wyraźny, wyrazisty - hasi  
 spis treści (tabela zawartości) - tenliste  
 spocony - suedi  
-spodnie, pantalony, portki - pantalone  
+spodnie (pantalony, portki) - pante  
 spokojny - xanti  
 sport, lekkoatletyka - kele  
 sposób (metoda, tryb) - mode  
@@ -2268,7 +2271,6 @@ statyczny, stacjonarny, nieruchomy - estasi
 stać - libu  
 stały (sztywny) - gatomati  
 sterburta (prawa burta) - botoraite  
-sterować - gida  
 sto (##) - honi  
 stolarz - mokojanger  
 stop; przerwa, zatrzymanie - ting (tinge)  
@@ -2346,7 +2348,7 @@ szparag; szparagia - lusune
 szron - himrose  
 sztuczny - cani  
 sztuka - arte  
-sztuka walki - jengxute  
+sztuka walki - jengoxute  
 sztylet (puginał) - kanjare  
 szuflada - tirsanduke  
 szukać - serca  
@@ -2438,7 +2440,7 @@ terroryzm - teroristia
 Terytorium Palestyńskie - filistinia  
 tesla (T) - tesle  
 test, wyzwanie, próba - teste  
-też, również - plus (pluso)  
+też, również - maxo  
 tikka - tike  
 tikka masala - masali tike  
 Timor - timor  
@@ -2672,7 +2674,7 @@ wkrótce - suno
 wnieć wkład (przyczynić się) - fendona  
 wnętrze (środek) - inde  
 woda - suy (suye)  
-woda mineralna - kuangsuy  
+woda mineralna - kuangosuy  
 wodny - suyi  
 wodoodporny - suysekuri  
 wodór - hidre  
@@ -2807,7 +2809,7 @@ zakupy (sprawunki, shopping) - xope
 zakładać (założyć) - cenaga  
 zakładać (założyć, ustanowić) - baza  
 Zambia - zambia  
-zamek błyskawiczny - ziper  
+zamek błyskawiczny - zipe  
 zamek, forteca, twierdza - burge  
 zamieniać w gaz - gasu  
 zamiłowanie (-filia) - filia  
@@ -2867,7 +2869,7 @@ zdrowie - sihe
 zdrowy - sihi  
 zebra - zebre  
 zegar (zegarek) - reloje  
-zemleć, mleć, mielić - mola  
+zemleć (mleć, mielić) - mola  
 zero, nic, żaden - nol (noli)  
 zespół (drużyna, grupa) - bande  
 zewnętrzny - wayi  

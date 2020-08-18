@@ -265,7 +265,7 @@ batonpang - baguette
 batre - battery  
 bawe - treasure (valuables)  
 bawi - precious  
-bawpetre - gem (gemstone, jewel)  
+bawxeke - gem (gemstone, jewel)  
 baxa - speak (communicate)  
 baxe - language (communication)  
 baxi jinse - grammatical gender  
@@ -453,7 +453,7 @@ cire - tear (rip, edge)
 cirka - surround (encircle)  
 cirke - circle (round)  
 cirki - round (circular)  
-cirki petre - cobblestone  
+cirkoxeke - cobblestone  
 cise - cheese  
 cita - quote (cite)  
 citi marke - quotation mark  
@@ -535,6 +535,7 @@ daypawer - cannoneer
 daytarja - amplify (scale)  
 dayu - grow (get bigger)  
 dayvaze - cauldron  
+dayxeke - boulder  
 debili - weak  
 deco- - deci-  
 decobel - decibel  
@@ -881,7 +882,7 @@ fuy - bah! (yuck!)
 gabra - bury  
 gabre - grave (tomb)  
 gabristan - graveyard  
-gabropetre - tombstone (gravestone)  
+gabroxeke - tombstone (gravestone)  
 gabunia - Gabon  
 gade - donkey (ass)  
 gadolinium - gadolinium  
@@ -918,6 +919,7 @@ garmi masale - garam masala
 garmozone - tropics  
 garmozoni - tropical  
 garparke - car park (parking lot)  
+gasa - gasify (vaporize)  
 gase - gas  
 gasi - gaseous  
 gasu - gasify (vaporize)  
@@ -945,7 +947,9 @@ germanium - germanium
 geta - get (receive, obtain, take)  
 geter - getter (receiver, recipient)  
 geyi - gay (homosexual)  
-gida - steer  
+gida - guide (lead, show the way)  
+gider - guide  
+gidobuke - guide book  
 gitare - guitar  
 giyania - French Guiana  
 glisu - slide (slip, glide, skate)  
@@ -1099,12 +1103,12 @@ hobe - hobby
 hoga - burn (cause to burn)  
 hoge - fire (burning)  
 hogi - fiery  
-hogopetre - flint  
 hogopujia - pyrolatry  
 hogosanduke - lantern  
 hogotehne - fireworks (pyrotechnics)  
-hogoxame - volcano  
-hogoxami kance - volcanic glass  
+hogoxane - volcano  
+hogoxani kance - volcanic glass  
+hogoxeke - flint  
 hogu - burn (be burned)  
 hoke - hockey  
 holere - cholera  
@@ -1239,8 +1243,8 @@ jener - parent (mother or father)
 jenge - fight (war, battle, combat)  
 jenger - warrior (fighter)  
 jengi - military (martial, warlike)  
+jengoxute - martial art  
 jengrupe - generation (cohort)  
-jengxute - martial art  
 jeni - raw (crude)  
 jeni baxe - native language (mother tongue)  
 jenklase - caste  
@@ -1593,8 +1597,8 @@ kuanga - mine (extract)
 kuange - mineral (ore)  
 kuanger - miner  
 kuangeria - mine  
-kuangsuy - mineral water  
-kuangtunele - mineshaft  
+kuangosuy - mineral water  
+kuangotunele - mineshaft  
 kuani - wide (broad)  
 kuania - width (breadth)  
 kuarze - quartz  
@@ -1713,6 +1717,7 @@ lil (lili) - little (small; a little, somewhat)
 lilake - lilac  
 lilaki - lilac color  
 lilbole - bubble  
+lilxeke - pebble (gravel)  
 lilyame - snack  
 limfase - pentahedron (prism)  
 limgone - pentagon  
@@ -1759,7 +1764,7 @@ longa - lengthen (prolong)
 longi - long (lengthy)  
 longi pipre - long pepper (pipli)  
 longia - length  
-longkrokodile - crocodile  
+longokrokodile - crocodile  
 lontre - otter  
 lose - screw  
 lote - batch (lot)  
@@ -1888,6 +1893,7 @@ maxima - maximize
 maxime - maximum  
 maximi - maximal  
 maxine - machine  
+maxo - also (additionally, plus, too)  
 maxori - major (not minor)  
 maxoria - majority  
 mayane - Maya  
@@ -2012,7 +2018,7 @@ modolekse - adverb
 moge - ink  
 moke - tree  
 mokojanger - carpenter  
-mokojongparke - arboretum  
+mokojongoparke - arboretum  
 mokomate - wood (timber)  
 mola - grind (grind in mill)  
 moldovia - Moldova  
@@ -2021,13 +2027,13 @@ molekule - molecule
 moler - miller  
 molia - mill  
 molidenum - molybdenum  
-molpetre - grindstone  
 moluske - mollusk  
+molxeke - grindstone (millstone)  
 mome - we  
 monakia - Monaco  
-mondewistia - monotheism  
 mongoli - Mongol  
 mongolia - Mongolia  
+moni - only (sole)  
 monistia - monism  
 monkratia - autocracy (monarchy)  
 monloge - monolog  
@@ -2296,7 +2302,7 @@ panjabi - Punjabi
 panke - fan (ventilator)  
 panromansi - panromantic  
 panseksi - pansexual  
-pantalone - pants (trousers)  
+pante - pants (trousers)  
 papagaye - parrot (parakeet)  
 papaye - papaya  
 pape - father (dad, papa)  
@@ -2364,8 +2370,7 @@ peruvia - Peru
 pesdiske - coin  
 pese - money  
 pete - belly (stomach, abdomen)  
-petre - rock (stone)  
-petrojanger - mason (stonemason, stonecutter)  
+petre - rock  
 pexe - profession (occupation)  
 peya - pay  
 peye - payment  
@@ -2417,7 +2422,6 @@ pliza - ask (request, beg; please)
 pliza laya - invite  
 plumbe - lead  
 plume - plum (prune)  
-plus (pluso) - also (plus, too)  
 pluton - Pluto (dwarf planet)  
 plutonium - plutonium  
 podia - Tibet  
@@ -2523,7 +2527,7 @@ rander - plane (tool for making a smooth surface)
 rang (range) - color  
 rangi - colored  
 rangi kance - stained glass  
-rangmate - dye  
+rangomate - dye  
 rapidi - fast (quick, rapid, speedy)  
 rapidia - speed (velocity)  
 rapidometer - speedometer  
@@ -3064,6 +3068,7 @@ un (uni) - one (1)
 un ban - once  
 unale - each other (one another, mutually)  
 unali - mutual  
+undewistia - monotheism  
 unisa - unite  
 unisi - united  
 unisi arabi emiria - United Arab Emirates  
@@ -3229,6 +3234,8 @@ xaxu - rustle
 xefe - chief (boss)  
 xefi - main (principal)  
 xefi minister - prime minister  
+xeke - stone (piece of rock)  
+xekojanger - mason (stonemason, stonecutter)  
 xenon - xenon  
 xense - master (sensei)  
 xey (xeye) - thing  
@@ -3240,7 +3247,7 @@ xina - believe
 xindawistia - Shintoism  
 xine - belief (faith, creed)  
 xinge - star  
-xingfota - twinkle (sparkle)  
+xingofota - twinkle (sparkle)  
 xipa - wet (moisten)  
 xipi - wet (moist)  
 xire - poem  
@@ -3250,7 +3257,7 @@ xita - defecate (shit)
 xite - shit (feces)  
 xixi - silent  
 xixo - hush (shh)  
-xofa - drive  
+xofa - drive (steer)  
 xofer - chauffeur (driver)  
 xogune - shogun  
 xogunia - shogunate  
@@ -3297,8 +3304,8 @@ yoga - do yoga
 yoge - yoga  
 yogiste - yogi  
 yohani feste - Saint John's Day  
-yongpetre - lava  
-yongsaha - smelt  
+yongopetre - lava  
+yongosaha - smelt  
 yongu - melt (be liquified)  
 yorubi - Yoruba (language and people)  
 yote - drop (droplet)  
@@ -3355,7 +3362,7 @@ zine - adultery (infidelity)
 zinje - ginger  
 zinke - zinc  
 zipa - zip up  
-ziper - zipper  
+zipe - zipper  
 zire - cumin (jeera)  
 zirkonium - zirconium  
 ziza - sizzle  

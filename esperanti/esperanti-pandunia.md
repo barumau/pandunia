@@ -68,7 +68,7 @@ angla - engli
 angulo - gone  
 animo (psiko) - ruhe  
 animstato - emoshale  
-ankaŭ - plus (pluso)  
+ankaŭ - maxo  
 ankoraŭ - yexo  
 ankro - anker  
 antaŭe (pasinte) - pas (paso)  
@@ -82,7 +82,7 @@ araneo - arane
 araneofobio - aranfobia  
 arbaro - jangale  
 arbo - moke  
-arboĝardeno - mokojongparke  
+arboĝardeno - mokojongoparke  
 areo - are  
 Argentino - argentinia  
 argono - argon  
@@ -517,6 +517,7 @@ gusti kiel - gustu ko
 gusto - guste  
 gustumi - gusta  
 Gvatemalo - guatemalia  
+gvidi - gida  
 ##h
 hafnio - hafnium  
 Haitio - haitia  
@@ -640,7 +641,7 @@ junulo - jovane
 jupo - jupe  
 justa - adali  
 justeco - adalia  
-juvelo - bawpetre  
+juvelo - bawxeke  
 juĝisto - hakimer  
 juĝo - hakime  
 ##k
@@ -1106,7 +1107,7 @@ pando - pande
 pandunia - pandunia  
 paniko - panike  
 pano - pang (pange)  
-pantalonoj - pantalone  
+pantalonoj - pante  
 pantoflo - babuce  
 papago - papagaye  
 papajo - papaye  
@@ -1291,7 +1292,7 @@ rizo - rise
 robo - tunike  
 roboto - robote  
 rodio - rodium  
-roko (ŝtono) - petre  
+roko - petre  
 roso - rose  
 rozo - roze  
 rubidio - rubidium  
@@ -1395,7 +1396,6 @@ stango - batone
 stato - hale  
 statuo (skultaĵo) - eskulte  
 stelo - xinge  
-stiri - gida  
 stranga - bizari  
 stroncio - estrontium  
 studento (lernanto) - darser  
@@ -1474,7 +1474,7 @@ Toglando - togolia
 tomato - tomate  
 tombejo - gabristan  
 tombo - gabre  
-tomboŝtono - gabropetre  
+tomboŝtono - gabroxeke  
 tondilo - makase  
 tondro - grome  
 tono - tone  
@@ -1511,6 +1511,7 @@ tuŝi - toca
 uniono - unisia  
 unu (1) - un (uni)  
 unu la alian (reciproke) - unale  
+ununura - moni  
 uragano (tajfuno) - rototafune  
 uranio - uranium  
 urba - nagri  
@@ -1664,6 +1665,9 @@ zuluo - zuli
 ŝteli - cora  
 ŝtelisto - corer  
 ŝtelo - core  
+ŝtonego - dayxeke  
+ŝtoneto - lilxeke  
+ŝtono - xeke  
 ŝtormo - tafune  
 ŝtrumpo - soke  
 ŝtuparo - eskale  

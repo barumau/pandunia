@@ -89,7 +89,7 @@ basi - 够
 baskobol - 篮球  
 batre - 电池  
 bawi - 宝贵  
-bawpetre - 宝石  
+bawxeke - 宝石  
 baxe - 语言  
 baxi jinse - 文法的性  
 baxlojia - 语言学  
@@ -135,6 +135,7 @@ cira - 撕裂
 circira - 撕毁  
 circiri - 褴褛的  
 cire - 撕裂  
+cirkoxeke - 鹅卵石  
 cise - 酪 (起司)  
 cokolate - 巧克力  
 cokolatobatone - 巧克力棒  
@@ -147,6 +148,7 @@ datobanke - 数据库
 daymare - 大洋  
 daypawe - 大炮  
 dayvaze - 炼药锅  
+dayxeke - 磐石  
 debili - 虚弱 (易坏)  
 defbanze - 盾牌  
 defkaske - 盔甲  
@@ -209,7 +211,7 @@ fule - 花
 gabra - 埋葬  
 gabre - 坟墓  
 gabristan - 公墓 (墓地)  
-gabropetre - 墓石 (墓碑)  
+gabroxeke - 墓石 (墓碑)  
 galaksia - 恆星系  
 galte - 错误  
 gance - 钩  
@@ -219,6 +221,9 @@ garmozone - 热带
 gati - 硬  
 gatomate - 固体  
 genca - 检查  
+gida - 导游  
+gider - 导游  
+gidobuke - 指南  
 gitare - 吉他  
 glisu - 滑下  
 gluti - 黏的  
@@ -254,9 +259,9 @@ hijabe - 面纱
 hisaba - 计算  
 hoga - 燃烧  
 hoge - 火  
-hogopetre - 燧石  
 hogotehne - 烟火  
-hogoxame - 火山  
+hogoxane - 火山  
+hogoxeke - 燧石  
 hogu - 烧  
 hoke - 曲棍球  
 hore - 小时  
@@ -313,6 +318,7 @@ kare - 工作
 karer - 工人 (工作者)  
 karlekse - 动词  
 karmisa - 提交  
+karote - 红萝卜  
 karsi - 粗糙  
 kaske - 壳 (皮)  
 kata - 切  
@@ -381,6 +387,7 @@ libobanze - 架子 (搁板)
 libobaze - 架子  
 lider - 领导  
 lil (lili) - 小  
+lilxeke - 砾石  
 limi - 五 (5)  
 limone - 柠檬  
 linse - 猞猁 (山貓)  
@@ -451,7 +458,11 @@ mokomate - 木材
 mole - 摩尔 (单位)  
 molekule - 分子  
 molia - 磨坊  
+molxeke - 磨石  
 mome - 我们  
+moni - 唯一  
+monloge - 独白  
+mono - 只有 (惟独)  
 mule - 根  
 muskulbine - 健美运动  
 ##n
@@ -492,6 +503,7 @@ paciste - 和平主义者
 pacistia - 和平主义  
 pagre - 包头  
 pang (pange) - 面包  
+pante - 裤子  
 papagaye - 鹉鹦  
 papaye - 木瓜  
 pape - 爸爸  
@@ -529,7 +541,7 @@ pule - 桥
 pume - 美洲獅 (山狮)  
 putong (putongi) - 普通  
 ##r
-rangmate - 染料  
+rangomate - 染料  
 rapidi - 快  
 rari - 稀有 (稀少的)  
 rase - 种族  
@@ -667,11 +679,12 @@ xanghai - 上海
 xarke - 鲨鱼 (shayu)  
 xatan (xatane) - 撒但  
 xawi - 少  
+xeke - 石 (岩)  
 xey (xeye) - 事物 (东西)  
 xeyhale - 事态  
 xibaye - 失败  
 xime - 心  
-xingfota - 闪烁  
+xingofota - 闪烁  
 xipa - 弄湿  
 xipi - 湿  
 xire - 诗  
@@ -685,8 +698,8 @@ xute - 技术
 ##y
 yexo - 还 (依然)  
 yoge - 瑜伽功  
-yongpetre - 熔岩  
-yongsaha - 熔炼  
+yongopetre - 熔岩  
+yongosaha - 熔炼  
 yongu - 融化  
 yuke - 玉  
 ##z
