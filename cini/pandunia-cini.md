@@ -10,12 +10,14 @@ adalia - 正义
 adrese - 地址  
 aga - 如果 (要是)  
 agrese - 攻击  
+airgune - 空军  
 airporte - 飞机场  
 aise - 冰  
 aishoke - 冰球  
 aiskrem - 冰淇淋  
 aisu - 结冰  
 ajili - 灵活的  
+akare - 蜱 (螨)  
 akse - 轴线  
 aksente - 重音符号  
 alge - 藻类  
@@ -39,12 +41,17 @@ antene - 天线
 anuse - 肛门  
 apele - 苹果  
 aplika - 运用  
+arabobabule - 阿拉伯金合欢  
 arane - 蜘蛛  
 arbuze - 西瓜  
 are - 面积  
 argente - 银  
 arke - 弓 (琴弓, 拱)  
 arme - 武器  
+aroma - 闻到  
+arome - 气味  
+aromomelone - 香瓜  
+aromu - 发臭  
 arte - 艺术  
 artiste - 美术家  
 asle - 起源  
@@ -67,9 +74,12 @@ bagre - 虎
 bah - 呸  
 baki - 白  
 bakocoy - 白菜 (小白菜)  
+bakomargarite - 法蘭西菊  
 bali - 八 (8)  
 balibali - 各种各样  
 balkone - 阳台  
+balsenter - 章鱼  
+balute - 橡树 (xiàng)  
 banane - 香蕉  
 bande - 班  (一帮)  
 bandere - 旗  
@@ -100,12 +110,19 @@ bebe - 宝宝
 bekopote - 陶瓦  
 bele - 铲  
 bere - 浆果 (莓)  
+berje - 桦树  
 bile - 帐单  
 bina - 建设  
 bire - 啤酒  
+biwe - 生物  
+biwi jinse - 生物性別  
+biwlojia - 生物学  
+biwmutu - 发酵  
+biwsisteme - 生物群系  
 bol (bole) - 球  
 bombe - 炸弹  
 bon (boni) - 好  
+bondarme - 道德  
 bonsinyi - 吉利的  
 bote - 船 (艇)  
 botele - 瓶  
@@ -120,6 +137,7 @@ bume - 爆炸
 buze - 山羊  
 ##c
 ca - 从  
+cakre - 轮子  
 camace - 匙子  
 cari - 四 (4)  
 cay (caye) - 茶  
@@ -143,9 +161,10 @@ cungcing - 重庆
 cuzable - 选择 (买卖权)  
 ##d
 danger - 钟 (摇铃)  
+dantobalute - 槲树  
 date - 数据  
 datobanke - 数据库  
-daymare - 大洋  
+dayhaye - 大洋 (大海)  
 daypawe - 大炮  
 dayvaze - 炼药锅  
 dayxeke - 磐石  
@@ -178,11 +197,13 @@ eletrolinye - 电缆 (电线)
 eletrorade - 闪电  
 emoje - 绘文字  
 emoshale - 心情  
+englomargarite - 雛菊  
 esa - 对  
 esponje - 海绵  
 esprinta - 跑步  
 estane - 锡  
 estibium - 锑  
+europobalute - 夏櫟  
 ewanjile - 福音  
 ##f
 fansoldixo - 反时针方向的  
@@ -212,6 +233,7 @@ gabra - 埋葬
 gabre - 坟墓  
 gabristan - 公墓 (墓地)  
 gabroxeke - 墓石 (墓碑)  
+gadogude - 骡  
 galaksia - 恆星系  
 galte - 错误  
 gance - 钩  
@@ -236,8 +258,9 @@ granite - 花岗石
 grave - 砾石  
 grimase - 鬼脸  
 guangjou - 广州  
-gundarme - 道德  
 gundene - 殿 (宫殿, 宅第)  
+gune - 军队  
+gunrene - 军人  
 gute - 膝  
 ##h
 habare - 消息  
@@ -249,7 +272,8 @@ hami - 重要
 hamili - 怀孕  
 hande - 手  
 handoxake - 胳膊  
-haye - 生命  
+haye - 海  
+haygune - 海军  
 helise - 螺旋  
 helisvimane - 直升机  
 helpa - 帮助  
@@ -257,6 +281,7 @@ hewane - 动物
 hewanparke - 动物园  
 hijabe - 面纱  
 hisaba - 计算  
+hiyare - 黄瓜  
 hoga - 燃烧  
 hoge - 火  
 hogotehne - 烟火  
@@ -285,23 +310,28 @@ jeni baxe - 母语
 jentipe - 基因型  
 jinse - 性别  
 jirafe - 长颈鹿  
-jivi jinse - 生物性別  
-jivomutu - 发酵  
-jivosisteme - 生物群系  
+jive - 生命  
 jule - 焦耳 (J)  
 jumle - 句子  
 junge - 中心  
 jungogia - 中国  
 juse - 汁  
 ##k
+kaboge - 南瓜  
 kafase - 笼  
 kafe - 咖啡  
 kagaze - 纸  
 kaixa - 开始  
+kalamare - 鱿鱼  
 kalame - 笔  
+kalcite - 方解石  
+kalcokristale - 大理石  
+kalcomate - 石灰  
+kalcopetre - 石灰岩  
 kalende - 日历  
 kali harfe - 空隙  
 kamare - 房间  
+kamile - 母菊  
 kamise - 衬衫  
 kamisi xake - 袖子  
 kanape - 沙发  
@@ -310,18 +340,23 @@ kancodake - 釉
 kande - 糖果  
 kanione - 峡谷 (深谷)  
 kansuygase - 催泪瓦斯  
+kantalupomelone - 鈔皮瓜  
 kapotruke - 陷阱  
 kara - 工作  
 karbondulokside - 二氧化碳  
+karcofe - 菜蓟  
 karde - 牌  
+kardone - 蓟  
+kardonkarcofe - 刺苞菜蓟  
 kare - 工作  
 karer - 工人 (工作者)  
-karlekse - 动词  
+karloge - 动词  
 karmisa - 提交  
 karote - 红萝卜  
 karsi - 粗糙  
 kaske - 壳 (皮)  
 kata - 切  
+katuse - 仙人掌  
 kava - 挖  
 kave - 坑 (穴)  
 ke - 什么  
@@ -330,8 +365,6 @@ kenarbaryer - 篱笆
 kenare - 边  
 kerne - 核心  
 kimia - 化学  
-kirmi - 红  
-kirmi linse - 短尾貓  
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxine - 打字机  
@@ -345,8 +378,10 @@ konkara - 合作
 kono - 共同 (一起)  
 konserte - 音乐会  
 kontini - 指针式的  
+kontrate - 公約  
 kope - 杯子  
 korde - 线  
+kornomelone - 刺角瓜  
 kortokrokodile - 短吻鳄  
 kosmi - 宇宙的  
 kosmia - 宇宙  
@@ -360,14 +395,21 @@ krusarke - 弩 (十字弓)
 kuangeria - 矿场  
 kuarze - 石英  
 kube - 立方体  
+kuwi - 苦的  
+kuwmelone - 苦瓜  
+kuxu - 躺  
 ##l
 lage - 湖  
+lalbawxeke - 红宝石  
+lali - 红  
+lalolince - 短尾貓  
+lame - 喇嘛  
+lampe - 灯  
 lancografa - 投射  
 lancografe - 投影  
 lancovute - 投掷物  
 lane - 诅咒  
 lantanum - 鑭  
-laskeria - 军队  
 lasune - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 latovia - 拉脱维亚  
@@ -377,31 +419,34 @@ laya - 来
 lazanye - 千层面  
 lazuare - 青金岩  
 le - 他，她，它  
-lekse - 词  
 lengi - 冷たい (寒い)  
 lenti - 慢  
 letise - 莴苣  
 leze - 梨  
+liame - 大羊駝  
 libele - 蜻蜓  
 libobanze - 架子 (搁板)  
 libobaze - 架子  
 lider - 领导  
 lil (lili) - 小  
+lilkaboge - 西葫芦  
 lilxeke - 砾石  
 limi - 五 (5)  
 limone - 柠檬  
-linse - 猞猁 (山貓)  
+lince - 猞猁 (山貓)  
 lisane - 舌头  
 liste - 单子  
 litre - 升  
 liwkope - 漏斗  
 loga - 说话 (讲)  
+loge - 词  
+logia - 词汇  
 loka - 放置  
 loke - 地方  
 lole - 他们  
 lone - 论  
 longi - 长  
-longi pipre - 荜拔  
+longopipre - 荜拔  
 lontre - 獭  
 lugi - 绿色  
 lunge - 龙  
@@ -412,6 +457,7 @@ luza tena - 亏损 (失去)
 ##m
 magribia - 摩洛哥  
 maidane - 广场  
+makanfule - 蒲公英  
 malsinyi - 不祥的  
 mame - 妈妈  
 mangese - 镁  
@@ -419,11 +465,11 @@ manihayistia - 摩尼教
 manire - 方式  
 manse - 肉  
 mantole - 斗篷  
-mare - 海  
+mare - 次 (度, 遍)  
 marjele - 海蜇  
-marmare - 大理石  
 martate - 海岸  
 masale - 香料  
+masmulsolfule - 菊芋  
 maste - 桅  
 mature - 成年人  
 maturi fem - 女人  
@@ -437,6 +483,7 @@ mece - 比赛
 medi - 中型  
 medikosuy - 药水  
 megame - 云  
+melone - 厚皮甜瓜 (蜜瓜)  
 mema - 记得 (回忆)  
 meme - 记忆 (记性)  
 mene - 意义  
@@ -447,6 +494,7 @@ metre - 米 (公尺)
 mey (meyi) - 每  
 meze - 桌子  
 migra - 搬家  
+milkokardone - 水飞蓟  
 mirdi - 微弱的  
 misalo - 比如  
 misria - 埃及  
@@ -464,6 +512,8 @@ moni - 唯一
 monloge - 独白  
 mono - 只有 (惟独)  
 mule - 根  
+mumcape - 封印  
+mumomelone - 冬瓜 (白瓜)  
 muskulbine - 健美运动  
 ##n
 nade - 河 (江)  
@@ -471,11 +521,14 @@ namkitaba - 签署
 nasmedi - 国际  
 navi - 九 (9)  
 nefre - 肾脏  
+nefte - 油  
+neftogukuwe - 野菊花  
 nida - 需要  
 nidi - 必要的  
 nidoxina - 信赖  
 nidoxinabli - 忠实  
 nili - 蓝色  
+nilsentaure - 矢車菊  
 niponia - 日本  
 nixe - 壁龛  
 no - 不  
@@ -519,18 +572,23 @@ pay (paye) - 馅饼
 peda - 放屁  
 pede - 屁  
 pelmene - 饺子  
+pendokardone - 垂花飞廉  
+perkardone - 翼蓟  
 pesdiske - 硬币  
 pese - 钱  
+petronefte - 石油  
 piaze - 洋葱  
 pikosape - 镐  
 pile - 皮  
 pine - 别针  
+pinkardone - 大翅蓟  
 pipre - 胡椒  
 plati zemkaskia - 板块构造论  
 platistan - 平原  
 pliza - 请  
 plume - 李子  
 pontopine - 指南针  
+poreye - 韭葱  
 porte - 港  
 pote - 坭  
 probleme - 问题 (难题)  
@@ -555,6 +613,7 @@ rezulte - 影响
 rise - 米  
 ritime - 节奏  
 roketolancer - 火箭筒  
+romkamile - 果香菊  
 rototafune - 飓风 (台风)  
 roze - 玫瑰  
 rupoboni - 好看  
@@ -582,20 +641,25 @@ semane - 週
 semdane - 种子  
 seme - 种  
 semi - 种子的  
+sense - 感觉  
+senter - 觸手  
 sere - 锯子  
 serye - 系列  
 seti - 七 (7)  
 si - 对 (是)  
 side - 座部 (马鞍)  
+sifloge - 形容词  
 sihe - 健康  
 sihi - 健康  
 sikliste - 骑自行车的人  
 sile - 丝绸  
 sira - 隐藏  
+sirplane - 阴谋 (密谋)  
 sisi - 六 (6)  
 soci jinse - 社會性別  
 socia - 社会  
 sole - 太阳  
+solfule - 向日葵  
 solsisteme - 太阳系  
 sonkamare - 卧室 (寝室)  
 sonu - 睡觉 (困觉)  
@@ -609,6 +673,7 @@ suprize - 惊奇
 susane - 百合花  
 suy (suye) - 水  
 suygase - 蒸汽  
+suykaboge - 葫芦  
 ##t
 taile - 砖 (瓦)  
 taksometer - 计程器  
@@ -640,15 +705,18 @@ tirbatone - 杆
 toca - 接触  
 tomate - 西红柿  
 tote - 你们  
+trate - 合同 (合约)  
 truka - 耍花招  
 truke - 伎俩  
 ##u
 umami - 鲜味  
 umure - 年岁  
 un (uni) - 一 (1)  
+unmaro - 一次 (一遍)  
 ura - 好哇  
 ##v
 vagine - 阴道  
+valsusane - 鈴蘭  
 vampire - 吸血鬼  
 var 1 (var uni) - 星期一 (禮拜一)  
 var 2 (var duli) - 星期二 (禮拜二)  

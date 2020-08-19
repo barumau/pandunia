@@ -32,8 +32,8 @@ ainstainium - einsteinium
 airbare - presión atmosférica  
 airbarmeter - barómetro  
 aire - aire  
+airgune - fuerza aérea  
 airia - Irlanda  
-airlaskeria - fuerza aérea  
 airporte - aeropuerto  
 aise - hielo  
 aishoke - hockey sobre hielo  
@@ -45,6 +45,7 @@ ajabe - maravilla
 ajabi - maravilloso (asombroso)  
 ajabia - asombro  
 ajili - ágil  
+akare - garrapata (ácaro)  
 akse - eje  
 aksente - acento  
 alaskia - Alaska  
@@ -98,7 +99,7 @@ anonidi - innecesario
 anromansi - arromántico  
 anseksi - asexual  
 antapa - desatascar  
-antarti mare - océano Antártico  
+antarti haye - océano Antártico  
 antartia - antartida  
 antene - antena  
 antigia - Antigua  
@@ -112,6 +113,7 @@ aphazia - abjazia
 aplika - emplear (aplicar)  
 aplike - aplicación  
 arabi - árabe  
+arabobabule - goma arábiga  
 arane - araña  
 aranfobia - aracnofobia  
 arbuze - sandía (patilla)  
@@ -126,9 +128,13 @@ arke - arco
 arker - arquero  
 arkia - tiro con arco  
 arme - arma  
+aroma - oler (olfatear)  
+arome - olor (aroma)  
+aromomelone - melón coreano  
+aromu - oler (apestar)  
 arsene - arsénico  
 arte - arte  
-arti mare - océano Ártico  
+arti haye - océano Ártico  
 artia - Ártico  
 artiste - artista  
 arubia - Aruba  
@@ -145,7 +151,7 @@ aspirine - aspirina
 astatin - ástato  
 ata - hasta  
 atis (atise) - anón (ates, saramuyo)  
-atlanti mare - océano Atlántico  
+atlanti haye - océano Atlántico  
 ato - hasta (también)  
 atome - átomo  
 auda - oír (escuchar)  
@@ -190,12 +196,14 @@ bahayistia - bahaísmo (fe bahá'i)
 bahrain - baréin  
 baki - blanco  
 bakocoy - col china  
+bakomargarite - margarita  
 balde - balde (cubo)  
 bali - ocho (8)  
 balibali - distintos (diversos)  
 balkone - balcón  
 balone - globo  
-ban (bane) - vez  
+balsenter - pulpo  
+balute - roble  
 banane - plátano (banana)  
 bande - banda  
 bandere - bandera  
@@ -226,7 +234,7 @@ barkoke - albaricoque
 barmetale - metal pesado  
 barmeter - pesa (báscula, balanza)  
 barti - indio (hindú)  
-barti mare - océano Índico  
+barti haye - océano Índico  
 bartia - India  
 barude - pólvora  
 barxe - lluvia  
@@ -284,6 +292,7 @@ berande - balcón (terraza, veranda)
 bere - baya  
 berete - boina  
 berilium - berilio  
+berje - abedul  
 berkelium - berkelio  
 bermudia - Bermuda  
 betone - concreto (hormigón)  
@@ -298,6 +307,13 @@ bisawi ginia - Guinea-Bisáu
 bise - no binario (género)  
 biskute - galleta  
 bismute - bismuto  
+biwcaniver - abono orgánico (compost)  
+biwe - vida orgánica  
+biwi - orgánico  
+biwi jinse - sexo  
+biwlojia - biología  
+biwmutu - fermentar  
+biwsisteme - bioma  
 bixu - deber (necesitar)  
 bizari - raro (extraño)  
 bizi - ocupado (atareado)  
@@ -314,6 +330,10 @@ bolivia - Bolivia
 bombe - bomba  
 bon (boni) - bueno  
 bon zare - buena suerte  
+bondarme - virtud (moralidad)  
+bondarmi - virtuoso (moral)  
+bonsife - calidad (excelencia, mérito, virtud, ventaja)  
+bonsifi - excelente  
 bonsinyi - auspicioso  
 bori - aburrido  
 boria - aburrimiento  
@@ -469,6 +489,7 @@ danke - gracias
 danse - baile (danza)  
 dansekuri - antibalas  
 dante - diente  
+dantobalute - roble daimyo  
 dantobroxe - cepillo de dientes  
 dantomediker - dentista (odontólogo)  
 darba - golpear (pegar)  
@@ -496,8 +517,8 @@ dawiste - taoísta
 dawistia - taoísmo  
 day (dayi) - grande  
 daydarsia - universidad  
+dayhaye - océano  
 dayia - tamaño  
-daymare - océano  
 daypawe - cañón  
 daypawer - cañonear  
 dayu - crecer (aumentar)  
@@ -532,11 +553,11 @@ destine - destino
 detale - detalle  
 dew (dewe) - dios  
 dewi - divino  
-dewi sage - mito (cuento divino)  
 dewiste - teísta  
 dewistia - teísmo  
 dewkratia - teocracia  
 dewlojia - teología  
+dewsage - mito (cuento divino)  
 dexe - país (nación, estado, terra)  
 dexrene - ciudadano  
 dike - objetivo  
@@ -642,6 +663,7 @@ engli - inglés
 englia - Inglaterra  
 englofiler - anglófilo  
 englokitaba - anglicanizar  
+englomargarite - margarita común (pascueta)  
 eni - qualquier  
 enzime - enzima  
 er (ere) - hacedor (perpetrador)  
@@ -685,6 +707,7 @@ europese - euro
 europi - europeo  
 europi unisia - Unión Europea  
 europium - europio  
+europobalute - roble común  
 ewanjile - evangelio  
 ewi - beneficioso (bueno)  
 ##f
@@ -841,6 +864,7 @@ gabristan - cementerio
 gabroxeke - lápida  
 gabunia - Gabón  
 gade - burro (asno)  
+gadogude - mula  
 gadolinium - gadolinio  
 gaje - elefante  
 galaksia - galaxia  
@@ -952,11 +976,9 @@ gujarati - gujaratí
 gula - tragar  
 gule - gul  
 gume - tambor  
-gundarme - virtud (moralidad)  
-gundarmi - virtuoso (moral)  
 gundene - palacio (mansión)  
-gune - calidad (excelencia, mérito, virtud, ventaja)  
-guni - excelente  
+gune - ejército  
+gunrene - soldado  
 gure - maestro (gurú, profesor)  
 gurube - cerdo (puerco)  
 gurubomanse - carne de cerdo  
@@ -1019,11 +1041,13 @@ hawayia - Hawái
 hawe - viento  
 haxixe - hachís  
 hayakia - Armenia  
-haye - vida  
-hayi - vivo (lleno de vida)  
+haye - mar  
+haygune - marina (armada)  
+hayi - marítimo  
 he - cómo? (eh?)  
 heleni - griego (helénico)  
 helenia - Grecia  
+helisbabule - acacia de copa plana  
 helise - espiral (hélice)  
 helisvimane - helicóptero  
 helium - helio  
@@ -1050,6 +1074,7 @@ hisabia - aritmética (cálculos)
 histore - historia (pasado)  
 historer - historiador  
 historia - historia (estudio de sucesos del pasado)  
+hiyare - pepino  
 hobe - pasatiempo (hobby, afición)  
 hoga - quemar  
 hoge - fuego  
@@ -1085,6 +1110,7 @@ huria - libertad
 huriste - liberalista  
 huristi - liberal  
 huristia - liberalismo  
+huxi - cómodo (lujoso)  
 huye - ceniza  
 huyrangi - gris  
 ##i
@@ -1179,7 +1205,7 @@ jeinistia - jainismo
 jeka - prestar (pedir prestado)  
 jekodona - prestar  
 jekogeta - pedir prestado  
-jekolekse - préstamo lingüístico  
+jekologe - préstamo lingüístico  
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
 jena - dar a luz (enngendrar, parir)  
@@ -1207,13 +1233,8 @@ jinmun - entrada
 jino - adelante  
 jinse - sexo (género)  
 jirafe - jirafa  
-jive - vida orgánica  
-jivi - orgánico  
-jivi jinse - sexo  
-jivocaniver - abono orgánico (compost)  
-jivolojia - biología  
-jivomutu - fermentar  
-jivosisteme - bioma  
+jive - vida  
+jivi - vivo (lleno de vida)  
 joke - broma (chiste)  
 joker - bromista (chistoso)  
 jonge - especie  
@@ -1242,6 +1263,7 @@ juxe - inyección
 kababe - pincho (brocheta)  
 kabawe - búbalo (arni)  
 kabine - cabaña  
+kaboge - calabaza  
 kabuverdia - Cabo Verde  
 kadomium - cadmio  
 kafase - jaula (caja)  
@@ -1258,7 +1280,13 @@ kaka - defecar
 kakawe - cacao  
 kake - caca  
 kalalia - Groenlandia  
+kalamare - calamar  
 kalame - bolígrafo  
+kalcite - calcita  
+kalcium - calcio  
+kalcokristale - marmól  
+kalcomate - cal  
+kalcopetre - caliza  
 kale - espacio (separación)  
 kalende - calendario  
 kali - vacío (desocupado)  
@@ -1266,13 +1294,12 @@ kali harfe - espacio (texto)
 kalifornium - californio  
 kalium - potasio  
 kalkulia - cálculo  
-kalsium - calcio  
 kamare - habitación (cuarto, sala, pieza)  
 kamartale - piso (suelo)  
 kambudia - Camboya  
 kamerunia - Camerún  
 kamia - lujuria (deseo)  
-kamili - perfecto  
+kamile - manzanilla de Castilla  
 kamise - camisa  
 kamisi xake - manga  
 kamote - camote (batata)  
@@ -1298,6 +1325,8 @@ kankexe - pestaña
 kanowe - canoa  
 kansuye - lágrima  
 kansuygase - gas lacrimógeno  
+kantalupe da sabine - Cantalupo in Sabina  
+kantalupomelone - melón cantalupo  
 kante - hombro  
 kanune - regla (ley)  
 kapa - capturar (apresar)  
@@ -1310,7 +1339,9 @@ karate - karate
 karawe - carvis (alcaravea)  
 karbondulokside - dióxido de carbono  
 karbone - carbón  
+karcofe - alcachofera  
 karde - tarjeta (carta)  
+kardone - cardo  
 kare - trabajo  
 karer - trabajador (obrero)  
 kariba - axproximarse  
@@ -1320,7 +1351,7 @@ karibo - casi (aproximadamente)
 karimi - generoso (dadivoso, caritativo)  
 karimia - generosidad (caridad)  
 karite - karité  
-karlekse - verbo  
+karloge - verbo  
 karmeze - escritorio (mesa de trabajo)  
 karmisa - entregar (enviar)  
 karnadi - cararés  
@@ -1337,6 +1368,7 @@ kata - cortar
 katalunia - Cataluña  
 katane - espada  
 kataria - Catar (Qatar)  
+katuse - cacto  
 kaukasia - Cáucaso  
 kava - cavar (excavar)  
 kave - fosa  
@@ -1396,8 +1428,6 @@ kirgizia - Kirguizistán
 kiribatia - Kiribati  
 kirili abace - alfabeto cirílico  
 kirisa - alquilar  
-kirmi - rojo  
-kirmi linse - lince rojo (gato montés)  
 kitaba - escribir  
 kitabe - escritura  
 kitabia - biblioteca  
@@ -1463,6 +1493,7 @@ konsone - consonante
 kontini - continuo (analógico)  
 kontinu - continuar (reanudar)  
 kontra - estar en contra  
+kontrate - convenion (pacto)  
 konuse - cono  
 kope - vaso (taza, copa)  
 kopernikium - copérnico  
@@ -1547,16 +1578,21 @@ kurbi - curvo
 kurium - curio  
 kurse - silla  
 kuwaitia - Kuwait  
+kuwi - amargo  
+kuwmelone - melón amargo  
+kuxa - acostar (poner)  
 kuxene - almohada  
-kuxi - cómodo (lujoso)  
+kuxu - acostarse (echarse, tenderse, tumbarse)  
 ##l
 labe - labio  
 lada - cargar  
 lage - lago  
 laje - basura (desechos)  
 lake - laca  
-lala - acostar (poner)  
-lalu - acostarse (echarse, tenderse, tumbarse)  
+lalbawxeke - rubí  
+lali - rojo  
+lalolince - lince rojo (gato montés)  
+lame - lama  
 lampe - lámpara  
 lana - maldecir  
 lanca - tirar (lanzar, echar, arrojar, aventar)  
@@ -1569,8 +1605,6 @@ langane - barandilla (pasamanos)
 lankia - Sri Lanka  
 lantanum - lantano  
 larve - larva  
-lasker - soldado  
-laskeria - ejército  
 lasti - elástico (flexible)  
 lasune - ajo  
 lata - estar al lado de  
@@ -1599,12 +1633,6 @@ lefti - izquierdo
 leftiste - izquerdista  
 legi - ligero  
 lekin (lekino) - sin embargo  
-leksaslia - etimología  
-lekse - palabra (vocablo)  
-lekseme - lexema  
-leksi - léxico  
-leksia - vocabulario (léxico)  
-leksoliste - disionario (lexicón)  
 lengi - frío  
 lenti - lento (despacio)  
 lenxa - practicar (ensayar, ejercitar)  
@@ -1613,6 +1641,7 @@ lete - verano
 letise - lechuga  
 lewo - ya (acción completado)  
 leze - pera  
+liame - llama  
 liba - erigir (montar, armar)  
 libania - Líbano  
 libele - libélula  
@@ -1637,6 +1666,7 @@ lil (lili) - pequeño
 lilake - lila  
 lilaki - lila (de color lila)  
 lilbole - burbuja (pompa)  
+lilkaboge - calabacín  
 lilyame - tentempié  
 limfase - pentaedro  
 limgone - pentágono  
@@ -1644,8 +1674,8 @@ limi - cinco (5)
 limite - límite (frontera, linde)  
 limone - limón  
 limonrangi - amarillo  
+lince - lince  
 linfe - linfa  
-linse - lince  
 linye - raya (linea)  
 linyoparce - nueva línea  
 lisane - lengua  
@@ -1662,10 +1692,15 @@ liwunise - fusión
 liwunisu - fusionar (fundir)  
 lobake - rábano  
 loga - decir (hablar)  
-loge - habla (palabra)  
+logaslia - etimología  
+loge - palabra (vocablo)  
+logeme - lexema  
+logi - léxico  
+logia - vocabulario (léxico)  
 logike - lógica  
 logiki - logical  
 logivi - hablador (locuaz)  
+logoliste - disionario (lexicón)  
 loja - estudiar (investigar)  
 lojia - ciencia (estudia, investigación)  
 loka - colocar (poner, ubicar)  
@@ -1686,6 +1721,7 @@ lote - lote (grupo)
 lowa - chorrear  
 lowa sang - sangrar  
 lugi - verde  
+lugomelone - melón verde  
 luksemburgia - Luxemburgo  
 lule - perla  
 lune - luna  
@@ -1719,6 +1755,7 @@ maitnerium - meitnerio
 majenti - magenta (fucsia)  
 makale - artículo (texto)  
 makane - mantequilla  
+makanfule - dientes de león (panaderos)  
 makase - tijera  
 makaw - Macao  
 mal (mali) - malo  
@@ -1762,15 +1799,13 @@ mantole - capa (manto)
 marati - maratí  
 maratone - maratón  
 marca - caminar (marchar, andar)  
-mare - mar  
+mare - vez  
 margarine - margarina  
-mari - marítimo  
+margarite - margarita  
 marian nesia - Islas Marianas  
 marjele - medusa  
 marka - marcar  
 marke - marca (huella, mancha)  
-marlaskeria - marina (armada)  
-marmare - marmól  
 marse - Marte  
 martate - costa  
 masaja - amasar (masajear)  
@@ -1780,6 +1815,8 @@ masali tike - tikka masala
 mase - masa (trozo, pedazo)  
 maske - máscara  
 masle - asunto (caso)  
+masmule - tubérculo  
+masmulsolfule - tupinambo (pataca, alcachofa de Jerusalén)  
 maste - mástil  
 mate - sustancia (materia)  
 mati - material  
@@ -1829,6 +1866,7 @@ mehe - oveja
 mele - miel  
 melodi - melodioso  
 melodia - melodía  
+melone - melón  
 melvespe - abeja  
 mema - acordarse  
 memba - pertenecer (ser miembro de)  
@@ -1880,6 +1918,7 @@ mikro- - micro-
 mikronesia - Micronesia  
 milgram - miligrama  
 milke - leche  
+milkokardone - cardo mariano  
 milmetre - milimetre  
 milo- - mili-  
 min (mino) - menos  
@@ -1917,7 +1956,7 @@ mixi alkole - cóctel
 mode - modo (manera, forma)  
 modela - modelo  
 modele - modelar  
-modolekse - adverbo  
+modologe - adverbo  
 moge - tinta  
 moke - árbol  
 mokojanger - carpintero  
@@ -1970,6 +2009,7 @@ multi - muchos
 multia - número (muchedumbre)  
 mume - cera (lacre)  
 mumfote - vela (candela, cirio)  
+mumomelone - calabaza china (calabaza de la cera)  
 mumrene - momia  
 mun (mune) - puerta  
 munguse - mangosta  
@@ -2002,7 +2042,7 @@ nam (name) - nombre
 namibia - Namibia  
 namisa - llamar (poner)  
 namkitaba - firmar  
-namlekse - sustantivo  
+namloge - sustantivo  
 namu - llamarse  
 nanase - piña  
 nanmetre - nanometre  
@@ -2023,6 +2063,7 @@ nederlandi antilia - Antillas Neerlandesas
 nederlandia - Países Bajos  
 nefre - riñon  
 nefritis - nefritis  
+nefte - aceite (óleo)  
 nega - rechazar (negar)  
 nen (nene) - año  
 nenfeste - aniversario  
@@ -2058,6 +2099,7 @@ nikaragia - Nicaragua
 nikele - níquel  
 nili - azul  
 nilone - nailon (nilón)  
+nilsentaure - aciano (azulejo)  
 ninde - insulto (ofensa, afrenta)  
 nindi - grosero (maleducado)  
 niobium - niobio  
@@ -2161,7 +2203,7 @@ otone - otoño
 ##p
 pa - a (hacia)  
 pace - paz  
-paci mare - océano Pacífico  
+paci haye - océano Pacífico  
 paciste - pacifista  
 pacistia - pacifismo  
 pada - dejar caer  
@@ -2261,11 +2303,13 @@ penta - pintar
 penter - pintor  
 pepine - pepino  
 pere - pluma  
+perkardone - cardo burral  
 peruvia - Perú  
 pesdiske - moneda  
 pese - dinero (plata)  
 pete - barriga (vientre, panza)  
 petre - roca (piedra)  
+petronefte - petróleo  
 pexe - profesión (ocupación)  
 peya - pegar  
 peye - pago  
@@ -2278,6 +2322,7 @@ pile - piel
 piloter - piloto  
 pine - alfiler (aguja)  
 pinguine - pingüino  
+pinkardone - cardo borriquero  
 pinser - alicate  
 pipe - tubo (caño)  
 pipinga - criticar (evaluar)  
@@ -2295,8 +2340,8 @@ pixa - mear
 pixe - pis (meados)  
 pize - pizza  
 pizeria - pizzería  
-plan (plane) - plan  
 plana - planear (tener pensado)  
+plane - plan  
 planete - planeta  
 plastike - plástico  
 plate - plano (placa)  
@@ -2342,6 +2387,7 @@ pompa - bombear
 ponta - apuntar (indicar)  
 ponter - indicador (cursor)  
 pontopine - brújula  
+poreye - puerro (cebolla larga)  
 porne - porno  
 pornografia - pornografía  
 porte - porto  
@@ -2390,6 +2436,8 @@ pura - llenar
 purane - reliquia  
 purani - viejo (antiguo)  
 puranyangi - clásico  
+purbona - perfeccionar  
+purboni - perfecto  
 puri - lleno (completo)  
 putawe - uva  
 pute - hijo o hija  
@@ -2489,6 +2537,7 @@ romansi - romántico
 romansia - romance  
 rome - Roma  
 romi imperia - Imperio romano  
+romkamile - manzanilla romana (camomila común)  
 rose - rocío  
 rosta - asar (tostar)  
 rosti pang - pan tostado  
@@ -2623,6 +2672,7 @@ sekurkode - contraseña
 sekurnombre - número de identificación personal  
 sele - célula  
 selenium - selenio  
+selge - acelga  
 selolojia - citología  
 semane - semana  
 semdane - pepita  
@@ -2634,6 +2684,7 @@ senegalia - Senegal
 sensa - sentir (detectar)  
 sense - sentido  
 senta - palpar (tocar)  
+senter - tentáculo  
 serbia - Serbia  
 serca - buscar  
 sere - sierra  
@@ -2655,7 +2706,7 @@ sidu - sentarse
 sifa - definir  
 sife - cualidad (atributo, descripción)  
 sifi - descriptivo  
-siflekse - adjetivo  
+sifloge - adjetivo  
 sigare - cigarro  
 sihe - salud  
 sihi - saludable  
@@ -2679,6 +2730,7 @@ siri - secreto
 siri mote - sigilo  
 sirke - vinagre  
 siro motu - colarse  
+sirplane - complot (conspiración)  
 sisfase - hexaedro (cubo)  
 sisgone - hexágono  
 sisi - seis (6)  
@@ -2707,7 +2759,9 @@ solcate - parasol
 soldixo - en el sentido del las agujas del reloj  
 sole - sol  
 solestase - solsticio  
+solfule - girasol  
 solomon nesia - Islas Salomón  
+solsentaure - abrepuño  
 solsisteme - sistema solar  
 somalia - Somalia  
 somalilandia - Solamilandia  
@@ -2776,6 +2830,7 @@ suxe - sushi
 suy (suye) - agua  
 suygase - vapor  
 suyi - acuoso  
+suykaboge - calabaza de peregrino  
 suyporte - puerto marítimo  
 suyrang - acuarela  
 suysekuri - impermeable (sumergible)  
@@ -2907,6 +2962,7 @@ transa - transitar (atravesar)
 transe - tránsito  
 transeria - transporte  
 transogoni - diagonal  
+trate - contrato (tratado)  
 tren (trene) - tren  
 trendaw - vía férrea  
 tribe - tribu  
@@ -2937,7 +2993,6 @@ ulule - aullido
 umami - sabroso (umami)  
 umure - edad  
 un (uni) - uno (1)  
-un ban - una vez  
 unale - el uno al otro (se)  
 unali - utuo (recíproco)  
 undewistia - monoteismo  
@@ -2945,6 +3000,7 @@ unisa - unir
 unisi - unido  
 unisi arabi emiria - Emiratos Árabes Unidos  
 unisia - unión  
+unmaro - una vez  
 unmeni - inequívoco  
 unmete - unidad (medida)  
 unrangi - monocromático  
@@ -2968,6 +3024,8 @@ vagine - vagina
 vaginitis - vaginitis  
 vaksine - vacuna  
 vale - valle  
+valsusane - convalaria (lirio de los valles)  
+vampirbalsenter - calamar vampiro  
 vampire - vampiro  
 vanadium - vanadio  
 vanile - vainilla  
@@ -3014,7 +3072,7 @@ viruslojia - virología
 visa - sustituir (reemplezar)  
 vise - alternativa (sustituto)  
 visi - vice-  
-vislekse - pronombre  
+visloge - pronombre  
 visprezidente - vicepresidente  
 vize - visado  
 vizita - visitar  
@@ -3133,6 +3191,7 @@ xoper - comprador
 xowa - mostrar  
 xowe - exposición (espectáculo)  
 xudu - deber (se recomienda)  
+xukarbete - remolacha azucarera  
 xukare - azúcar  
 xukari - azucarado  
 xula - reparar (arreglar)  

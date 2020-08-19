@@ -8,10 +8,12 @@ adalia - справедливость
 adrese - адрес  
 aga - если  
 agrese - нападение (атака)  
+airgune - военно-воздушные силы  
 airporte - аэропорт  
 aishoke - хокке́й с ша́йбой  
 aiskrem - мороженое  
 ajili - подвижный  
+akare - клещ (лепта)  
 akse - ось  
 aksente - ударение  
 alge - водоросли  
@@ -34,12 +36,16 @@ anuse - анус
 apele - яблоко  
 apelsose - яблочное пюре  
 aphazia - Абхазия  
+arabobabule - акация нильская  
 arane - паук  
 arbuze - арбуз  
 are - площадь  
 argume - аргумент (обосновани)  
 arke - лук (арка)  
 arker - лучник  
+aroma - понюхать  
+arome - запах (аромат)  
+aromu - пахнуть  
 arte - искусство  
 artiste - художник (артист)  
 asane - поза  
@@ -55,14 +61,18 @@ avgani - афганский
 avgania - Афганистан  
 ##b
 babe - глава  
+babule - акация  
 bace - ребёнок  
 badame - миндаль  
 badan (badane) - тело  
 bagaje - багаж  
 bagre - тигр  
 baki - белый  
+bakomargarite - нивяник обыкновенный (ромашка)  
 bali - восемь (8)  
 balkone - балкон  
+balsenter - спрут (осьминог)  
+balute - дуб  
 banane - банан  
 bande - банда  
 bandere - флаг  
@@ -97,9 +107,17 @@ beker - хлебопёк (пекарь)
 bekopote - терракота  
 bele - лопата  
 bere - ягода  
+berje - берёза  
 bile - счёт  
 bina - строить  
 bire - пиво  
+biwcaniver - компост  
+biwe - организм  
+biwi - органический  
+biwi jinse - биологический пол  
+biwlojia - биология  
+biwmutu - заквасить  
+biwsisteme - биом  
 bol (bole) - шар  
 bombe - бомба  
 bon (boni) - хороший  
@@ -122,6 +140,7 @@ bumu - взрываться
 bute - ботинок  
 ##c
 ca - из (от)  
+cakre - колесо  
 camace - ложка  
 canse - возможность (шанс)  
 cari - четыре (4)  
@@ -148,9 +167,11 @@ dalile - доказательство
 danga - звенеть  
 danger - звонок  
 danse - танец  
+dantobalute - дуб зубчатый  
 date - данные  
 datobanke - база данных  
-daymare - океан  
+dayhaye - океан  
+daylasune - лук исполинский  
 daypawe - пушка  
 dayvaze - котёл  
 dayxeke - валун  
@@ -181,12 +202,14 @@ emoje - смайлик (эмодзи)
 emose - эмоция (чувство)  
 emoshale - настроение  
 emosi - эмоциональный  
+englomargarite - маргаритка многоле́тняя  
 esa - быть  
 eskala - подниматься  
 eskodokume - анкета  
 eskulter - скульптор  
 esponje - губка  
 esprinta - бегать (бежать)  
+europobalute - дуб черешчатый  
 ewanjile - евангелие  
 ##f
 fansoldixo - против часовой стрелки  
@@ -217,6 +240,7 @@ gabra - хоронить
 gabre - могила (гроб)  
 gabristan - кладбище  
 gabroxeke - надгробие  
+gadogude - мул  
 galaksia - галактика  
 gance - крюк  
 gandume - пшеница  
@@ -245,6 +269,8 @@ grupe - группа
 gula - глотать  
 gule - гуль (вурдалак)  
 gundene - дворец (особняк)  
+gune - армия  
+gunrene - солдат  
 gute - колено  
 ##h
 habare - новости  
@@ -256,13 +282,17 @@ hami - важный (значимый)
 hamili - беременный  
 hande - рука  
 handoxake - рукав  
-haye - жизнь  
+haye - море  
+haygune - военно-морской флот  
+hayi - морской  
+helisbabule - акация кручёная  
 helisvimane - вертолёт  
 hewane - животное  
 hewanparke - зоопарк  
 hijabe - вуаль  
 hijenia - гигиена  
 hisaba - вычислять  
+hiyare - огурец  
 hoga - жечь (палить)  
 hoge - огонь  
 hogotehne - фейерверк  
@@ -290,10 +320,8 @@ jeni baxe - родной язык
 jentipe - генотип  
 jinse - пол  
 jirafe - жираф  
-jivi jinse - биологический пол  
-jivocaniver - компост  
-jivomutu - заквасить  
-jivosisteme - биом  
+jive - жизнь  
+jivi - живой  
 jule - джоуль (J)  
 jumle - фраза  
 junge - центр  
@@ -302,13 +330,20 @@ juse - сок
 justi - точный  
 justopawer - снайпер  
 ##k
+kaboge - тыква  
 kafase - клетка  
 kafe - кофе  
 kagaze - бумага  
+kalamare - кальмар  
 kalame - ручка  
+kalcite - кальцит  
+kalcokristale - мрамор  
+kalcomate - известь  
+kalcopetre - известняк  
 kalende - календарь  
 kali - пустой  
 kamare - комната (камера)  
+kamile - ромашка аптечная  
 kamise - рубашка  
 kanape - канапе  
 kance - стекло  
@@ -318,25 +353,29 @@ kanione - овраг (ущелье, каньон)
 kanjare - кинжал  
 kanowe - каноэ  
 kansuygase - слезоточи́вый газ  
+kantalupe da sabine - Канталупо-ин-Сабина  
+kantalupomelone - канталупа  
 kapotruke - ловушка  
 kara - работать  
 karbondulokside - двуокись углерода  
+karcofe - артишок посевной  
 karde - карта  
+kardone - расторопша  
+kardonkarcofe - артишок испанский (кардон)  
 kare - работа  
 karer - работник  
-karlekse - глагол  
+karloge - глагол  
 karote - морковь  
 karsi - грубой  
 kaske - оболочка (кора, панцирь)  
 katane - меч  
+katuse - кактус  
 kava - копать  
 kave - яма  
 ke - что  
 kenarbaryer - забор (ограда)  
 kimia - химия  
 kingrafe - фильм (кино)  
-kirmi - красный  
-kirmi linse - рыжая рысь  
 kitaba - писать  
 kitabe - письмо  
 kitabia - библиотека  
@@ -351,9 +390,11 @@ koncunge - насекомое
 konga - пробиться  
 konkara - сотрудничать (кооперировать)  
 konserte - концерт  
+kontrate - контракт  
 kope - чаша (чашка, стакан)  
 korde - нитка  
 kore - хор  
+kornomelone - кивано (рогатая дыня)  
 kornonose - носорог  
 korone - корона  
 kortokrokodile - аллигатор  
@@ -373,11 +414,18 @@ kruse - крест
 kuangeria - мина  
 kuarze - кварц  
 kube - куб  
+kuwi - горький  
+kuwmelone - горький огурец (китайская горькая тыква)  
+kuxa - положить  (уложить)  
+kuxu - лежать  
 ##l
+lalbawxeke - рубин  
+lali - красный  
+lalolince - рыжая рысь  
+lame - лама (религиозный учитель в тибетском буддизме)  
+lampe - лампа  
 lancovute - снаряд  
 lane - проклятие  
-lasker - солдат  
-laskeria - армия  
 lasune - чеснок  
 late - сторона (бок)  
 lati - боковой (латеральный)  
@@ -385,28 +433,30 @@ latovia - Латвия
 lawi - пожилой  
 lazanye - лазанья  
 lazuare - лазурит  
-leksaslia - этимология  
-lekse - слово  
-leksi - лексический  
-leksia - словарь  
 lete - лето  
 letise - салат-латук  
+liame - лама  
 libele - стрекоза  
 libobanze - полка  
 lider - руководитель (лидер)  
 lil (lili) - маленький (малый)  
+lilkaboge - цукини  
 lilxeke - галька  
 limi - пять (5)  
 limone - лимон  
-linse - рысь  
+lince - рысь  
 lisane - язык  
 liste - список  
 litre - литр  
 liwkope - воронка  
 loga - говорить  
+logaslia - этимология  
+loge - слово  
+logi - лексический  
+logia - словарь  
 loka - ставить  
 loke - место  
-longi pipre - перец длинный  
+longopipre - перец длинный  
 lontre - выдра  
 lugi - зелёный  
 luter - грабитель  
@@ -418,6 +468,7 @@ luza tena - потеря́ть (утра́тить)
 magribia - Марокко  
 maidane - площадь (сквер, майдан)  
 majenti - маджента (фуксия)  
+makanfule - одуванчик  
 malsinyi - зловещий  
 mame - мать (мама)  
 mangese - магний  
@@ -425,11 +476,12 @@ manihayistia - манихейство
 manire - поведение (манера)  
 manse - мясо  
 mantole - плащ (накидка)  
-mare - море  
-mari - морской  
-marmare - мрамор  
+mare - раз  
+margarite - маргаритка  
 masale - пряность  
 maske - маска  
+masmule - клубень  
+masmulsolfule - топинамбу́р  
 maste - мачта  
 mature - взрослый  
 maw (mawe) - кошка  
@@ -440,6 +492,7 @@ mece - матч
 medi - средний  
 medikosuy - зелье  
 megame - облако  
+melone - дыня  
 mema - помнить  
 meme - память  
 memnote - меморандум  
@@ -451,6 +504,7 @@ meze - стол
 migre - миграция  
 migru - переезжать  
 milke - молоко  
+milkokardone - расторопша пятнистая  
 mirdi - слабый  
 misalo - например  
 misria - Египет  
@@ -467,6 +521,7 @@ monloge - монолог
 mono - только  
 moskove - Москва  
 mule - корень  
+mumomelone - восковая тыква (зимняя дыня)  
 muskulbine - культуризм  
 ##n
 nade - река  
@@ -475,6 +530,7 @@ nasia - нация
 nasmedi - междунаро́дный  
 navi - девять (9)  
 nefre - почка  
+nefte - масло  
 neursele - нейрон  
 nida - нуждаться  
 nide - нужда  
@@ -483,6 +539,7 @@ nidoxina - доверять (понадеяться)
 nidoxinabli - верный  
 nidoxinablia - верность  
 nili - синий (голубой)  
+nilsentaure - василёк синий  
 niponia - Япония  
 nixe - ниша  
 no - нет (не)  
@@ -526,19 +583,25 @@ pawe - пистолет
 pay (paye) - пирог  
 peda - пердеть  
 pede - пердение  
+pendokardone - чертополох поникший  
 pere - перо  
+perkardone - бодяк обыкновенный  
 pesdiske - монета  
 pese - деньги  
 petre - горная порода  
+petronefte - нефть  
 piaze - лук  
 pike - вершина  
 pikosape - киркомотыга  
 pine - булавка  
+pinkardone - татарник колючий  
 pipre - перец  
 pize - пицца  
+plane - план  
 plume - слива  
 polave - плов  
 pontopine - компас  
+poreye - лук-порей  
 porte - порт  
 pote - болото  
 probleme - проблема  
@@ -565,6 +628,7 @@ rise - рис
 ritime - ритм (такт)  
 robote - робот  
 roketolancer - ракетная установка  
+romkamile - ромашка римская  
 rose - роса  
 roze - роза  
 ruhe - душа (дух)  
@@ -588,21 +652,27 @@ sange - кровь
 sapate - حِذَاء  
 sape - мотыга  
 sare - голова  
+selge - мангольд  
 selolojia - цитология  
 seme - семя  
 semi - семенной  
 sene - сцена  
+sense - чувство  
+sentaure - василёк  
+senter - щупальце  
 sere - пила  
 serye - серия  
 seti - семь (7)  
 si - да  
 sida - сидеть  
 side - сиденье (седло)  
+sifloge - прилагательное  
 sikliste - велосипедист  
 sile - шёлк  
 silsilnete - кольчуга  
 sinplate - нагрудник  
 sira - скрывать  
+sirplane - заговор (сговор)  
 sisi - шесть (6)  
 slavi - славянский  
 soci jinse - гендер  
@@ -610,6 +680,7 @@ socia - общество (социум)
 soke - носок  
 solcate - зонтик от солнца  
 sole - солнце  
+solfule - подсолнечный  
 sonkamare - спальня  
 sonu - спать  
 sore - замок  
@@ -624,6 +695,7 @@ sundaria - красота
 susane - лилия  
 suy (suye) - вода  
 suygase - пар  
+suykaboge - тыква горлянка (калабас)  
 ##t
 taile - черепи́ца  
 taksometer - таксометр  
@@ -659,15 +731,19 @@ tirbatone - рычаг
 tirliwe - отбойное течение  
 toca - касаться  
 tomate - помидор (томат)  
+trate - договор  
 truka - обмануть  
 truke - обман  
 ##u
 umure - возраст  
 un (uni) - один (1)  
+unmaro - один раз  
 ura - ура  
 ##v
 vagine - влагалище (вагина)  
 vaginitis - вагинит  
+valsusane - ландыш  
+vampirbalsenter - адский вампир  
 vampire - вампир (упырь)  
 var 1 (var uni) - понедельник  
 var 2 (var duli) - вторник  
@@ -715,6 +791,7 @@ xite - говно (дерьмо)
 xofer - шофёр  
 xopa - покупать (купить)  
 xope - покупка (шоппинг)  
+xukarbete - сахарная свёкла  
 xukare - сахар  
 ##y
 yemenia - Йемен  

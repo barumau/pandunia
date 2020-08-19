@@ -80,7 +80,7 @@ argument - argume
 argument, teza - tese  
 Arktyka - artia  
 Armenia - hayakia  
-armia - laskeria  
+armia - gune  
 aromantyczny - anromansi  
 arsen - arsene  
 artykuł wiki - wike  
@@ -177,7 +177,7 @@ biedny, mizerny - miskini
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion, giga- - gigo-  
-biologia, nauka o życiu - jivolojia  
+biologia (nauka o życiu) - biwlojia  
 biromantyczny - dulromansi  
 biszkopt, ciastko - biskute  
 biurko - karmeze  
@@ -255,7 +255,7 @@ błędny (niepoprawny) - galti
 całus - cume  
 cały - holi  
 cebula - piaze  
-cecha, atrybut, własność; -ość - gune  
+cecha, atrybut, własność; -ość - bonsife  
 cecha, właściwość, parametr - sife  
 cel - dike  
 cel - gole  
@@ -313,8 +313,8 @@ ciężarny (w ciąży) - hamili
 ciężki (masywny) - bari  
 ciśnienie atmosferyczne - airbare  
 cmentarz - gabristan  
-cnota (moralność) - gundarme  
-cnotliwy (prawy) - gundarmi  
+cnota (moralność) - bondarme  
+cnotliwy (prawy) - bondarmi  
 co? - ke  
 co? - ki ren  
 coś - koy xey  
@@ -339,15 +339,15 @@ czar (urok, wdzięk) - carme
 Czarnogóra - cernogoria  
 czarny - cerni  
 czas (epoka, era) - zamane  
-czas; okazja - ban (bane)  
-czasownik - karlekse  
+czas; okazja - mare  
+czasownik - karloge  
 czaszka - saroste  
 czcić, szanować - puja  
 czekać - denga  
 czekolada - cokolate  
 czempion - campion (campione)  
 czerwiec - mes 3 (mes tini)  
-czerwony - kirmi  
+czerwony - lali  
 cześć, szacunek - puje  
 cztery (4) - cari  
 czuć - senta  
@@ -525,7 +525,7 @@ etap, faza - faze
 Etiopia - etiopia  
 etniczny - zuki  
 etyka - darmoloji  
-etymologia - leksaslia  
+etymologia - logaslia  
 Eurazja - eurasia  
 euro (€) - europese  
 europ - europium  
@@ -856,6 +856,7 @@ kaczka - bate
 kadm - kadomium  
 Kajmany - keiman nesia  
 kakao - kakawe  
+kalcyt - kalcite  
 kalendarz - kalende  
 kalif - halife  
 kalifat - halifia  
@@ -1090,13 +1091,13 @@ latać, lecieć - feya
 lato - lete  
 lazania - lazanye  
 lekcja - darse  
-leksem - lekseme  
+leksem - logeme  
 Lesotho - sotowia  
 lew - singe  
 lewa strona - lefte  
 lewicowiec (lewak) - leftiste  
 lewy (lewostronny, z lewej strony) - lefti  
-leżeć - lala  
+leżeć - kuxa  
 Liban - libania  
 liberalista, wolnościowiec - huriste  
 liberalizm - huristia  
@@ -1116,7 +1117,7 @@ limit, granica - limite
 linia, pas, pręga, smuga - linye  
 lipiec - mes 4 (mes cari)  
 lis - hule  
-lista słów - leksoliste  
+lista słów - logoliste  
 lista, spis, wykaz - liste  
 listopad - mes 8 (mes bali)  
 lit - litium  
@@ -1186,12 +1187,12 @@ maraton - maratone
 marchew - karote  
 margaryna - margarine  
 Mariany Północne - marian nesia  
-marmur - marmare  
+marmur - kalcokristale  
 Maroko - magribia  
 Mars - marse  
 martwić - duku  
 martwy, nieżywy, zabity - morti  
-marynarka (flota) - marlaskeria  
+marynarka (flota) - haygune  
 marzec - mes 11 (mes desi uni)  
 marznąć (zamarznąć) - aisu  
 masaż - masaje  
@@ -1273,7 +1274,7 @@ minąć, mijać, przeminąć, przemijać - pasa
 misja - misia  
 mistrz (ekspert) - mester  
 mistrz (sensei) - xense  
-mit, boska opowieść - dewi sage  
+mit, boska opowieść - dewsage  
 miód - mele  
 mięczak (morski bezkręgowiec) - moluske  
 między (wśród, pośród) - medu  
@@ -1285,7 +1286,7 @@ mięso - manse
 miłośnik (fan, -fil) - filer  
 miłość (afekt) - ame  
 miłość romantyczna - romansia  
-miły, przyjemny, uroczy - kuxi  
+miły, przyjemny, uroczy - huxi  
 Mjanma, Birma - mianmia  
 mleko - milke  
 mniej - min (mino)  
@@ -1314,16 +1315,15 @@ moralny - darmi
 morela - barkoke  
 morf - morfe  
 morfem - morfeme  
-morski - mari  
+morski - hayi  
 Morze Śródziemne - zemomedi mare  
 moskovium - moskovium  
 most - pule  
 motocykl (motor) - motosikle  
 motyl - pelpele  
-mowa; słowo - loge  
 Mozambik - mozambikia  
 Mołdawia - moldovia  
-może - mare  
+może - haye  
 możliwość, umiejętność - able  
 możliwy - abli  
 mrówka - maye  
@@ -1498,12 +1498,12 @@ obudzić, budzić - weka
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - rasme  
 obywatel - dexrene  
 obóz - kamper  
-ocean - daymare  
-Ocean Antarktyczny (Ocean Południowy) - antarti mare  
-Ocean Arktyczny - arti mare  
-Ocean Atlantycki - atlanti mare  
-Ocean Indyjski - barti mare  
-Ocean Spokojny (Pacyfik) - paci mare  
+ocean - dayhaye  
+Ocean Antarktyczny (Ocean Południowy) - antarti haye  
+Ocean Arktyczny - arti haye  
+Ocean Atlantycki - atlanti haye  
+Ocean Indyjski - barti haye  
+Ocean Spokojny (Pacyfik) - paci haye  
 Oceania - oseania  
 ocena, krytyka - pipinge  
 ocenić, oceniać, recenzować, komentować, krytykować - pipinga  
@@ -1647,7 +1647,7 @@ pedał - pedale
 Pekin - beijing  
 pendżabski - panjabi  
 penis - penise  
-perfekcyjny - kamili  
+perfekcyjny - purboni  
 Pers; perski, farsi - farsi  
 Peru - peruvia  
 peryferyjny - kenari  
@@ -1704,7 +1704,7 @@ piłka do koszykówki (koszykówka) - baskobol
 piłka nożna - futobole  
 placek, ciasto - pay (paye)  
 placy - ruke  
-plan - plan (plane)  
+plan - plane  
 planeta - planete  
 planować - plana  
 plastik - plastike  
@@ -1942,7 +1942,7 @@ przyjęcie, święto, festiwal - feste
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - laya  
 przykryć, przykrywać, ukryć, ukrywać - daka  
 przykład - misale  
-przymiotnik - siflekse  
+przymiotnik - sifloge  
 przymus - muse  
 przyprawa - masale  
 przyrostek (sufiks) - badofikse  
@@ -1957,7 +1957,7 @@ przyrostek dla wsperającego ideę - iste
 przyrostek dla wykonawcy - er (ere)  
 przystojny, atrakcyjny, ładny - rupoboni  
 przyszłość - wile  
-przysłówek - modolekse  
+przysłówek - modologe  
 prędkościomierz - rapidometer  
 prędkość (szybkość) - rapidia  
 pręt, kij - batone  
@@ -2013,7 +2013,7 @@ raportować, relacjonować, opowiadać - reporta
 rasa - rase  
 rasista - rasiste  
 rasizm - rasistia  
-raz (jeden raz) - un ban  
+raz (jeden raz) - unmaro  
 rdzeń (jądro, pestka) - kerne  
 rebelia, powstanie - rebele  
 recepta, receptura, przepis - recete  
@@ -2073,6 +2073,7 @@ rozwój - fajane
 roślina, sadzonka - fite  
 rtęć - hurargente  
 rubid - rubidium  
+rubin - lalbawxeke  
 ruch - kine  
 ruch - mote  
 ruchowy, kinetyczny - kini  
@@ -2095,9 +2096,10 @@ rytm, bit - ritime
 rytuał, ceremonia, ryt - rite  
 ryzyko - riske  
 ryzykowny - riski  
+ryś - lince  
 ryż - rise  
 rzecz - xey (xeye)  
-rzeczownik - namlekse  
+rzeczownik - namloge  
 rzeka - nade  
 rzemieślnik - janger  
 rzeźba - eskulte  
@@ -2190,7 +2192,7 @@ Singapur - singapur
 się (nawzajem, wzajemnie) - unale  
 siła - fortia  
 siła, autorytet, władza - sultane  
-siły powietrzne - airlaskeria  
+siły powietrzne - airgune  
 skand - skandium  
 skarb; skrabiec - bawe  
 skarpeta, skarpetka, pończocha - soke  
@@ -2371,9 +2373,9 @@ Słowacja - slovakia
 Słowenia - slovenia  
 słowiański - slavi  
 słowik - bulbule  
-słownictwo - leksia  
-słowny (leksykalny) - leksi  
-słowo - lekse  
+słownictwo - logia  
+słowny (leksykalny) - logi  
+słowo (mowa) - loge  
 słoń - gaje  
 słońce - sole  
 słuchać - ora  
@@ -2582,7 +2584,9 @@ walka, wojna - jenge
 wampir - vampire  
 wanad - vanadium  
 wanilia - vanile  
-wapń - kalsium  
+wapień - kalcopetre  
+wapno - kalcomate  
+wapń - kalcium  
 warcaby - damogeme  
 warga - labe  
 warstwa (poziom, piętro, kondygnacja) - cenge  
@@ -2699,7 +2703,7 @@ wschodni - dongi
 wschód - donge  
 wskazać, wskazywać - ponta  
 wskaźnik - ponter  
-wspaniały - guni  
+wspaniały - bonsifi  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super (superi)  
 wspólny - komuni  
 współczucie - samemose  
@@ -2801,7 +2805,7 @@ zacząć, zaczynać - kaixa
 zagranica - waydexia  
 zagraniczny - waydexi  
 zagrożenie, niebezpieczeństwo - hatare  
-zaimek - vislekse  
+zaimek - visloge  
 zainteresowanie, zaciekawienie; interesujący - interese  
 zajęty - bizi  
 zakrzywiony - kurbi  
@@ -2824,7 +2828,7 @@ zapewniać (zapewnić) - amena
 zapisać (zarejestrować) - defta  
 zapominać (zapomnieć) - anmema  
 zapomnieć, zapominać - bula  
-zapożyczenie (wyraz obcy) - jekolekse  
+zapożyczenie (wyraz obcy) - jekologe  
 zaprosić, zapraszać - pliza laya  
 zaprzęc, zaprzęgać - harnese  
 zapytać, pytać - ki sate  
@@ -2987,12 +2991,12 @@ zły, zrujnowany, zepsuty - harabi
 żel, galareta - jele  
 żelazo - fere  
 żeń-szeń - jenxene  
-żołnierz - lasker  
-życie - haye  
-życie organiczne - jive  
+żołnierz - gunrene  
+życie - jive  
+życie organiczne - biwe  
 żydowski - yehudi  
 żyrafa - jirafe  
 żywica - rezine  
-żyć (żywy, żyjący) - hayi  
+żyć (żywy, żyjący) - jivi  
 żółty - limonrangi  
 żółw - tortuge  

@@ -9,8 +9,9 @@ abelo aŭ vespo - vespe
 aborigeno - aslaustrali  
 abrikoto - barkoke  
 acida - suani  
-adjektivo - siflekse  
+adjektivo - sifloge  
 adreso - adrese  
+aerarmeo - airgune  
 aero - aire  
 afgana - avgani  
 Afganujo, Afganio - avgania  
@@ -19,6 +20,7 @@ afrikamanteco - afrikofilia
 afrikamanto - afrikofiler  
 Afriko - afrike  
 agaci (tedi, malamuzi) - irita  
+agrabla - huxi  
 agresema - agresi  
 aj (alas) - ay  
 ajlo - lasune  
@@ -86,7 +88,7 @@ arboĝardeno - mokojongoparke
 areo - are  
 Argentino - argentinia  
 argono - argon  
-armeo - laskeria  
+armeo - gune  
 armilo - arme  
 arseno - arsene  
 artefarita lingvo - canbaxe  
@@ -174,7 +176,7 @@ biciklisto - sikliste
 biero - bire  
 bildo (desegnaĵo) - grafe  
 bildrakonto - grafsage  
-biologio - jivolojia  
+biologio - biwlojia  
 birdo - pakse  
 Birmo - mianmia  
 biskvito (kuketo) - biskute  
@@ -307,7 +309,7 @@ duŝo - duxe
 ##e
 ebla - abli  
 eble - ablo  
-eco - gune  
+eco - bonsife  
 edzigi - gama  
 egala - egali  
 egipta - misri  
@@ -360,7 +362,7 @@ estonoteco - wile
 estonte - wil (wilo)  
 estro (ĉefulo) - xefe  
 eta - mini  
-etimologio - leksaslia  
+etimologio - logaslia  
 Etiopio - etiopia  
 etna - zuki  
 etno - zuke  
@@ -431,7 +433,7 @@ floro - fule
 flughaveno - airporte  
 flugi - feya  
 fluoro - flure  
-fojo - ban (bane)  
+fojo - mare  
 forgesi - anmema  
 forko - forke  
 formigi - forma  
@@ -652,11 +654,14 @@ kaftaso - kafkope
 kaj - e  
 kajero - notobuke  
 kakao - kakawe  
-kalcio - kalsium  
+kalcio - kalcium  
+kalcito - kalcite  
 kalendaro - kalende  
 kalifo - halife  
 kaliforniumo - kalifornium  
 kalio - kalium  
+kalko - kalcomate  
+kalkoŝtono - kalcopetre  
 Kamboĝo - kambudia  
 kamelo - gamele  
 kanabo - ganje  
@@ -806,7 +811,7 @@ kuracisto - mediker
 kurbo - kurbe  
 kuriumo - kurium  
 kurteno - parde  
-kuŝi - lala  
+kuŝi - kuxu  
 kvar (4) - cari  
 kvin (5) - limi  
 ##l
@@ -845,6 +850,7 @@ liki - lowa
 lineo - linye  
 lingvistiko - baxlojia  
 lingvo - baxe  
+linko - lince  
 lipo - labe  
 listo - liste  
 litero - harfe  
@@ -919,12 +925,13 @@ maniero (konduto) - manire
 mano - hande  
 manĝi (trinki) - yama  
 manĝoĉambro - yamkamare  
-mara - mari  
+mara - hayi  
+mararmeo - haygune  
 maratono - maratone  
 mardo - var 2 (var duli)  
 margarino - margarine  
-marmoro - marmare  
-maro - mare  
+marmoro - kalcokristale  
+maro - haye  
 martelo - hamare  
 masko - maske  
 maso - mase  
@@ -975,7 +982,7 @@ milita - jengi
 milito (batalo) - jenge  
 ministro - minister  
 minuto - minute  
-mito - dewi sage  
+mito - dewsage  
 mizera - miskini  
 mola - komali  
 molibdeno - molidenum  
@@ -1061,7 +1068,7 @@ nur - mono
 oazo - wase  
 obrelo - barxocate  
 Oceanio - oseania  
-oceano - daymare  
+oceano - dayhaye  
 ofte - cango  
 oganesono - oganeson  
 ogro (trolo) - guye  
@@ -1082,6 +1089,8 @@ oranĝo - oranje
 ordoni - komanda  
 ordono - komande  
 orelo - ore  
+orgaaninen (biologinen) - biwi  
+organismo - biwe  
 oriento - donge  
 origina - asli  
 origino - asle  
@@ -1117,7 +1126,6 @@ parko (ĝardeno) - parke
 parolema - logivi  
 paroli (komuniki) - baxa  
 paroli - loga  
-parolo (vortoj) - loge  
 partio - partia  
 parto (frakcio) - fene  
 partopreni - parta  
@@ -1218,7 +1226,7 @@ proksima - karibi
 promeni (marŝi) - marca  
 promesi - wada  
 prometio - prometium  
-pronomo - vislekse  
+pronomo - visloge  
 propra (partiklo de posedo) - da  
 protaktinio - protacinium  
 pruno - plume  
@@ -1295,6 +1303,7 @@ rodio - rodium
 roko - petre  
 roso - rose  
 rozo - roze  
+rubeno - lalbawxeke  
 rubidio - rubidium  
 rubo - laje  
 ruinigita - harabi  
@@ -1302,7 +1311,7 @@ rusa krepo - rusi krepe
 rutenio - rutenium  
 ruterfordio - ruterfordium  
 rutino (kutimo) - rutine  
-ruĝa - kirmi  
+ruĝa - lali  
 ##s
 sabato - var 6 (var sisi)  
 sablo - rege  
@@ -1352,6 +1361,7 @@ semajno - semane
 semo - seme  
 sen - na  
 senti - senta  
+sentumo - sense  
 sep (7) - seti  
 Serbio - serbia  
 serio - serye  
@@ -1378,7 +1388,7 @@ skultisto - eskulter
 smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
-soldato - lasker  
+soldato - gunrene  
 solido - gatomate  
 somero - lete  
 sono - sonde  
@@ -1399,7 +1409,7 @@ stelo - xinge
 stranga - bizari  
 stroncio - estrontium  
 studento (lernanto) - darser  
-substantivo - namlekse  
+substantivo - namloge  
 Sudkoreio - sudi cosenia  
 sudo - sude  
 sufiĉa - basi  
@@ -1511,6 +1521,7 @@ tuŝi - toca
 uniono - unisia  
 unu (1) - un (uni)  
 unu la alian (reciproke) - unale  
+unufoje - unmaro  
 ununura - moni  
 uragano (tajfuno) - rototafune  
 uranio - uranium  
@@ -1540,7 +1551,7 @@ ventro - pete
 ventumilo - panke  
 vera - veri  
 verando - berande  
-verbo - karlekse  
+verbo - karloge  
 verda - lugi  
 versio (toisinto) - versione  
 veruko - zeyile  
@@ -1567,8 +1578,8 @@ virino - maturi fem
 viro - man (mane)  
 viro - maturi man  
 vitro - kance  
-viva - hayi  
-vivo - haye  
+viva - jivi  
+vivo - jive  
 vizaĝo - muke  
 vizitanto - viziter  
 viziti - vizite  
@@ -1582,9 +1593,9 @@ vokalo - vokale
 voli - wana  
 volo - ice  
 volo - wane  
-vortaro - leksia  
-vortaro - leksoliste  
-vorto - lekse  
+vortaro - logia  
+vortaro - logoliste  
+vorto (parolo) - loge  
 vosto - dume  
 vulpo - hule  
 vulvo - vulve  

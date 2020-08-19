@@ -33,8 +33,8 @@ ainstainium - einstein
 airbare - ciśnienie atmosferyczne  
 airbarmeter - barometr  
 aire - powietrze  
+airgune - siły powietrzne  
 airia - Irlandia  
-airlaskeria - siły powietrzne  
 airporte - lotnisko (port lotniczy)  
 aise - lód  
 aishoke - hokej na lodzie  
@@ -96,7 +96,7 @@ anonidi - niepotrzebny
 anromansi - aromantyczny  
 anseksi - aseksualny  
 antapa - odetkać, odtykać  
-antarti mare - Ocean Antarktyczny (Ocean Południowy)  
+antarti haye - Ocean Antarktyczny (Ocean Południowy)  
 antartia - Antarktyka  
 antene - antena  
 antigia - Antigua  
@@ -123,7 +123,7 @@ aria - powierzchnia, region, teren
 arme - broń  
 arsene - arsen  
 arte - sztuka  
-arti mare - Ocean Arktyczny  
+arti haye - Ocean Arktyczny  
 artia - Arktyka  
 artiste - artysta  
 arubia - Aruba  
@@ -140,7 +140,7 @@ aspirine - aspiryna
 astatin - astat  
 ata - aż do  
 atis (atise) - jabłko cukrowe  
-atlanti mare - Ocean Atlantycki  
+atlanti haye - Ocean Atlantycki  
 ato - nawet  
 atome - atom  
 auda - usłyszeć, słyszeć; słuchać  
@@ -188,7 +188,6 @@ bali - osiem (8)
 balibali - różny (różnorodny)  
 balkone - balkon; ganek  
 balone - balon  
-ban (bane) - czas; okazja  
 banane - banan  
 bande - zespół (drużyna, grupa)  
 bandere - flaga, sztandar  
@@ -218,7 +217,7 @@ barkoke - morela
 barmetale - metal ciężki  
 barmeter - waga (urządzenie ważące)  
 barti - Indyjski  
-barti mare - Ocean Indyjski  
+barti haye - Ocean Indyjski  
 bartia - Indie  
 barude - proch strzelniczy  
 barxe - deszcz  
@@ -286,6 +285,8 @@ bisawi ginia - Guinea Bissau
 bise - genderqueer, niebinarny  
 biskute - biszkopt, ciastko  
 bismute - bizmut  
+biwe - życie organiczne  
+biwlojia - biologia (nauka o życiu)  
 bixu - musieć  
 bizari - dziwny  
 bizi - zajęty  
@@ -302,6 +303,10 @@ bolivia - Boliwia
 bombe - bomba  
 bon (boni) - dobry  
 bon zare - dobry los, szczęście  
+bondarme - cnota (moralność)  
+bondarmi - cnotliwy (prawy)  
+bonsife - cecha, atrybut, własność; -ość  
+bonsifi - wspaniały  
 bori - znudzony  
 boria - nuda (znudzenie)  
 borium - bohr  
@@ -465,7 +470,7 @@ dawiste - taoista
 dawistia - taoizm  
 day (dayi) - duży  
 daydarsia - uniwersytet  
-daymare - ocean  
+dayhaye - ocean  
 daypawe - działo  
 daypawer - kanonier  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
@@ -498,11 +503,11 @@ destine - przeznaczenie, los
 detale - detal, szczegół  
 dew (dewe) - bóg, bóstwo  
 dewi - boski  
-dewi sage - mit, boska opowieść  
 dewiste - teistyczny  
 dewistia - teizm  
 dewkratia - teokracja  
 dewlojia - teologia  
+dewsage - mit, boska opowieść  
 dexe - kraj, ziemia  
 dexrene - obywatel  
 dike - cel  
@@ -875,11 +880,9 @@ gujarati - Gudżarat
 gula - połknąć (połykać)  
 gule - ghul  
 gume - bęben  
-gundarme - cnota (moralność)  
-gundarmi - cnotliwy (prawy)  
 gundene - pałac  
-gune - cecha, atrybut, własność; -ość  
-guni - wspaniały  
+gune - armia  
+gunrene - żołnierz  
 gure - guru, mistrz  
 gurube - świnia  
 gurubomanse - wieprzowina  
@@ -941,8 +944,9 @@ hawayia - Hawaje
 hawe - wiatr  
 haxixe - haszysz  
 hayakia - Armenia  
-haye - życie  
-hayi - żyć (żywy, żyjący)  
+haye - może  
+haygune - marynarka (flota)  
+hayi - morski  
 he - hę?, co?, pardon?  
 heleni - gracki, helleński; Grek  
 helenia - Grecja  
@@ -1004,6 +1008,7 @@ huria - wolność, niepodległość, niezależność
 huriste - liberalista, wolnościowiec  
 huristi - liberalny, wolnościowy  
 huristia - liberalizm  
+huxi - miły, przyjemny, uroczy  
 huye - popiół  
 huyrangi - szary  
 ##i
@@ -1097,7 +1102,7 @@ jebria - algebra
 jeinistia - dźinizm, dżinizm  
 jekodona - pożyczać komuś (pożyczyć komuś)  
 jekogeta - pożyczać (pożyczyć)  
-jekolekse - zapożyczenie (wyraz obcy)  
+jekologe - zapożyczenie (wyraz obcy)  
 jele - żel, galareta  
 jelosi - zazdrosny  
 jena - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
@@ -1123,8 +1128,8 @@ jinmun - wejście
 jino - naprzód  
 jinse - płeć  
 jirafe - żyrafa  
-jive - życie organiczne  
-jivolojia - biologia, nauka o życiu  
+jive - życie  
+jivi - żyć (żywy, żyjący)  
 joke - żart  
 joker - żartowniś, dowcipniś  
 jonge - gatunek  
@@ -1169,6 +1174,11 @@ kakawe - kakao
 kake - ekskrement, gówno  
 kalalia - Grenlandia  
 kalame - pióro, długopis  
+kalcite - kalcyt  
+kalcium - wapń  
+kalcokristale - marmur  
+kalcomate - wapno  
+kalcopetre - wapień  
 kale - pustka  
 kalende - kalendarz  
 kali - pusty  
@@ -1176,14 +1186,12 @@ kali harfe - spacja
 kalifornium - kaliforn  
 kalium - potas  
 kalkulia - rachunek (formalny system obliczeń)  
-kalsium - wapń  
 kamare - pokój, sala  
 kamargawe - sufit  
 kamartale - podłoga  
 kambudia - Kambodża  
 kamerunia - Kamerun  
 kamia - pożądanie, żadza  
-kamili - perfekcyjny  
 kamise - koszula  
 kamote - słodki ziemniak  
 kampe - obozowicz  
@@ -1225,7 +1233,7 @@ karibo - blisko (niemal, prawie)
 karimi - hojny (szczodry)  
 karimia - hojność (szczodrość)  
 karite - masłosz Parka  
-karlekse - czasownik  
+karloge - czasownik  
 karmeze - biurko  
 karnadi - kannada  
 karnadia - Karnataka  
@@ -1296,7 +1304,6 @@ kirgizia - Kirgistan
 kiribatia - Kiribati  
 kirili abace - cyrylica  
 kirisa - wynająć, oddać w najem  
-kirmi - czerwony  
 kitaba - napisać, pisać  
 kitabe - pismo, tekst  
 kitabia - biblioteka  
@@ -1432,15 +1439,16 @@ kurbi - zakrzywiony
 kurium - kiur  
 kurse - kszesło, fotel  
 kuwaitia - Kuwejt  
+kuxa - leżeć  
 kuxene - poduszka  
-kuxi - miły, przyjemny, uroczy  
 ##l
 labe - warga  
 lada - naładować, załadować, obładować, ładować  
 lage - jezioro  
 laje - śmieć, odpadek  
 lake - lakier  
-lala - leżeć  
+lalbawxeke - rubin  
+lali - czerwony  
 lampe - lampa  
 lanca - rzucić, rzucać, miotać, cisnąć, ciskać  
 lancografa - wyświetlać  
@@ -1450,8 +1458,6 @@ langane - poręcz (balustrada)
 lankia - Sri Lanka  
 lantanum - lantan  
 larve - larwa, czerw, gąsienica  
-lasker - żołnierz  
-laskeria - armia  
 lasti - elastyczny  
 lasune - larwa, czerw, gąsienica  
 lata - być obok  
@@ -1477,12 +1483,6 @@ lefte - lewa strona
 lefti - lewy (lewostronny, z lewej strony)  
 leftiste - lewicowiec (lewak)  
 lekin (lekino) - jakkolwiek (jednak)  
-leksaslia - etymologia  
-lekse - słowo  
-lekseme - leksem  
-leksi - słowny (leksykalny)  
-leksia - słownictwo  
-leksoliste - lista słów  
 lengi - zimny, chłodny  
 lenti - powolny (wolny, letargiczny)  
 lenxa - ćwiczyć  
@@ -1520,6 +1520,7 @@ limi - pięć (5)
 limite - limit, granica  
 limone - cytryna  
 limonrangi - żółty  
+lince - ryś  
 linfe - limfa  
 linye - linia, pas, pręga, smuga  
 linyoparce - złamanie lini  
@@ -1536,11 +1537,16 @@ liwunise - fuzja (amalgamowanie, łączenie)
 liwunisu - łączyć (złączyć)  
 lobake - rzodkiewka  
 loga - mówić, rozmawiać  
-loge - mowa; słowo  
+logaslia - etymologia  
+loge - słowo (mowa)  
+logeme - leksem  
+logi - słowny (leksykalny)  
+logia - słownictwo  
 logike - logika, dedukcja  
 logiki - logiczny  
 logivi - rozmowny  
 logofiler - logofil (miłośnik słów)  
+logoliste - lista słów  
 loja - badać, studiować  
 lojia - nauka, badanie, studiowanie  
 loka - umieścić (postawić)  
@@ -1629,15 +1635,12 @@ mante - bułka gotowana na parze
 marati - marathi  
 maratone - maraton  
 marca - iść, maszerować  
-mare - może  
+mare - czas; okazja  
 margarine - margaryna  
-mari - morski  
 marian nesia - Mariany Północne  
 marjele - meduza  
 marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
-marlaskeria - marynarka (flota)  
-marmare - marmur  
 marse - Mars  
 martate - wybrzeże (plaża)  
 masaja - knead (massage)  
@@ -1775,7 +1778,7 @@ mixer - mikser, blender, robot kuchenny
 mode - sposób (metoda, tryb)  
 modela - modelować (projektować, zaprojektować)  
 modele - model, wzór, wzorzec, projekt  
-modolekse - przysłówek  
+modologe - przysłówek  
 moge - tusz  
 moke - drzewo  
 mokojanger - stolarz  
@@ -1855,7 +1858,7 @@ naijiria - Nigeria
 nam (name) - imię, nazwa  
 namibia - Namibia  
 namisa - nazwać, nazywać, wezwać, wzywać  
-namlekse - rzeczownik  
+namloge - rzeczownik  
 namu - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 nanase - ananans  
 nanmetre - nanometr  
@@ -2006,7 +2009,7 @@ otone - jesień
 ##p
 pa - do, dopóki, dla  
 pace - pokój  
-paci mare - Ocean Spokojny (Pacyfik)  
+paci haye - Ocean Spokojny (Pacyfik)  
 paciste - pacyfista  
 pacistia - pacyfizm  
 pada - upuścić, upuszczać  
@@ -2135,8 +2138,8 @@ pixa - sikać, szczać, oddawać mocz
 pixe - siki  
 pize - pizza  
 pizeria - pizzeria  
-plan (plane) - plan  
 plana - planować  
+plane - plan  
 planete - planeta  
 plastike - plastik  
 plati - płaski  
@@ -2217,6 +2220,7 @@ punte - kropka (znak interpunkcyjny)
 pupe - lalka, kukiełka, pacynka, marionetka  
 pura - wypełnić, wypełniać  
 purani - stary, starożytny  
+purboni - perfekcyjny  
 puri - pełny  
 putawe - winogrono  
 pute - dziecko, potomek  
@@ -2463,7 +2467,7 @@ sida - siedzieć
 sifa - opisać (zakwalifikować)  
 sife - cecha, właściwość, parametr  
 sifi - opisowy  
-siflekse - przymiotnik  
+sifloge - przymiotnik  
 sigare - papieros (cygar)  
 sihe - zdrowie  
 sihi - zdrowy  
@@ -2722,7 +2726,6 @@ ulule - wycie, skowyt
 umami - mięsny (umami)  
 umure - wiek  
 un (uni) - jeden (1)  
-un ban - raz (jeden raz)  
 unale - się (nawzajem, wzajemnie)  
 unali - wzajemny  
 undewistia - monoteizm  
@@ -2730,6 +2733,7 @@ unisa - jednoczyć
 unisi - zjednoczony  
 unisi arabi emiria - Zjednoczone Emiraty Arabskie  
 unisia - unia  
+unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
 unmete - jednostka miary  
 unrangi - jednokolorowy (monochromatyczny)  
@@ -2791,7 +2795,7 @@ virus (viruse) - wirus
 viruslojia - wirusologia  
 visa - zastąpić (podstawić, zamienić)  
 visi - wice-  
-vislekse - zaimek  
+visloge - zaimek  
 visprezidente - wiceprezydent  
 vize - wiza  
 vizita - odwiedzić, odwiedzać  

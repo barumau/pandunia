@@ -26,6 +26,7 @@ agresi - agresema
 aha - kompreni  
 ainstainium - ejnŝtejnio  
 aire - aero  
+airgune - aerarmeo  
 airporte - flughaveno  
 aise - glacio  
 aisi - glacia  
@@ -132,7 +133,6 @@ balde - sitelo
 bali - ok (8)  
 balkone - balkono  
 balone - balono  
-ban (bane) - fojo  
 banane - banano  
 bandere - flago  
 banglodexi - bangladeŝa  
@@ -202,6 +202,9 @@ bire - biero
 bireria - drinkejo  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
+biwe - organismo  
+biwi - orgaaninen (biologinen)  
+biwlojia - biologio  
 bixu - devi  
 bizari - stranga  
 bizi - okupata  
@@ -216,6 +219,7 @@ bolgaria - Bulgario
 bolivia - Bolivio  
 bombe - bombo  
 bon (boni) - bona  
+bonsife - eco  
 bori - enui  
 boria - enuo  
 borium - borio  
@@ -322,7 +326,7 @@ date - datumo
 datobanke - datumbanko  
 daw (dawe) - vojo  
 day (dayi) - granda  
-daymare - oceano  
+dayhaye - oceano  
 daypawe - kanono  
 daypawer - kanonisto  
 dayxeke - ŝtonego  
@@ -346,9 +350,9 @@ desi - dek (10)
 detale - detalo  
 dew (dewe) - dio  
 dewi - dia  
-dewi sage - mito  
 dewkratia - teokratio  
 dewlojia - teologio  
+dewsage - mito  
 dexe - lando  
 dike - celo  
 dine - religio  
@@ -605,7 +609,8 @@ guhe - kaverno
 gula - gluti  
 gume - tamburo  
 gundene - palaco  
-gune - eco  
+gune - armeo  
+gunrene - soldato  
 gure - guruo (instruisto)  
 gurube - porko  
 gurubomanse - porkaĵo  
@@ -647,8 +652,9 @@ hatare - danĝero
 hatari - danĝera  
 hawa - venti  
 hawe - vento  
-haye - vivo  
-hayi - viva  
+haye - maro  
+haygune - mararmeo  
+hayi - mara  
 he - ĉu?  
 heleni - greka  
 helenia - Grekio  
@@ -687,6 +693,7 @@ hule - vulpo
 hura - liberigi  
 huri - libera  
 huria - libereco  
+huxi - agrabla  
 ##i
 ibri - Hebrea  
 ice - volo  
@@ -750,7 +757,8 @@ jenu - naski
 jinse - sekso  
 jinsi - seksa  
 jirafe - ĝirafo  
-jivolojia - biologio  
+jive - vivo  
+jivi - viva  
 jovane - junulo  
 jovani - juna  
 jovani fem - knabino  
@@ -776,11 +784,15 @@ kaixu - komenciĝi
 kakawe - kakao  
 kake - feko  
 kalame - plumo  
+kalcite - kalcito  
+kalcium - kalcio  
+kalcokristale - marmoro  
+kalcomate - kalko  
+kalcopetre - kalkoŝtono  
 kalende - kalendaro  
 kali - malplena  
 kalifornium - kaliforniumo  
 kalium - kalio  
-kalsium - kalcio  
 kamare - ĉambro  
 kambudia - Kamboĝo  
 kamia - deziro  
@@ -807,7 +819,7 @@ karde - karto
 kare - laboro  
 karer - laboristo  
 karibi - proksima  
-karlekse - verbo  
+karloge - verbo  
 karote - karoto  
 karvane - karavano  
 kastane - kaŝtano  
@@ -842,7 +854,6 @@ ki yangi - kia?
 kili - mil  
 kilmetre - kilometro  
 kimia - ĥemio (kemio)  
-kirmi - ruĝa  
 kitabe - skribo  
 kitabia - librejo  
 kitabomaxine - tajpilo  
@@ -919,17 +930,17 @@ kupre - kupro
 kurbe - kurbo  
 kurium - kuriumo  
 kurse - seĝo  
+kuxu - kuŝi  
 ##l
 labe - lipo  
 laje - rubo  
-lala - kuŝi  
+lalbawxeke - rubeno  
+lali - ruĝa  
 lampe - lampo  
 lanca - ĵeti (lanĉi)  
 lancografa - heijastaa kuvia (projisoida)  
 lancografe - projektio (diakuva)  
 lancografer - projektori (videotykki, piirtoheitin)  
-lasker - soldato  
-laskeria - armeo  
 lasune - ajlo  
 late - flanko (latero)  
 lati - flanka (latera)  
@@ -938,10 +949,6 @@ laurensium - laŭrencio
 laya - veni  
 le - li aŭ ŝi aŭ ĝi  
 lekin (lekino) - tamen  
-leksaslia - etimologio  
-lekse - vorto  
-leksia - vortaro  
-leksoliste - vortaro  
 lengi - malvarma  
 lenti - malrapida  
 lenxa - ekzerci  
@@ -958,6 +965,7 @@ lilxeke - ŝtoneto
 limi - kvin (5)  
 limone - citrono  
 limonrangi - flava  
+lince - linko  
 linye - lineo  
 lisane - lango  
 lisi - glata  
@@ -966,10 +974,13 @@ litium - litio
 litre - litro  
 lobake - rafaneto  
 loga - paroli  
-loge - parolo (vortoj)  
+logaslia - etimologio  
+loge - vorto (parolo)  
+logia - vortaro  
 logike - logiko  
 logiki - logika  
 logivi - parolema  
+logoliste - vortaro  
 lojia - scienco  
 loka - lokigi  
 loke - loko  
@@ -1003,10 +1014,8 @@ manire - maniero (konduto)
 manse - viando  
 maratone - maratono  
 marca - promeni (marŝi)  
-mare - maro  
+mare - fojo  
 margarine - margarino  
-mari - mara  
-marmare - marmoro  
 masale - spico  
 mase - maso  
 maske - masko  
@@ -1122,7 +1131,7 @@ nagri - urba
 naijiria - Niĝerio  
 nam (name) - nomo  
 namibia - Namibio  
-namlekse - substantivo  
+namloge - substantivo  
 nanase - ananaso  
 nasmedi - internacia  
 natre - natrio  
@@ -1396,6 +1405,7 @@ selolojia - citologio
 semane - semajno  
 seme - semo  
 semi - sema  
+sense - sentumo  
 senta - senti  
 serbia - Serbio  
 serebre - cerbo  
@@ -1405,7 +1415,7 @@ serye - serio
 seti - sep (7)  
 si - jes  
 sida - sidi  
-siflekse - adjektivo  
+sifloge - adjektivo  
 sihi - sana  
 sikliste - biciklisto  
 silike - silicio  
@@ -1534,6 +1544,7 @@ un (uni) - unu (1)
 unale - unu la alian (reciproke)  
 unali - reciproka  
 unisia - uniono  
+unmaro - unufoje  
 uranium - uranio  
 urse - urso  
 uza - uzi  
@@ -1558,7 +1569,7 @@ vine - vino
 vire - heroo  
 viri - heroa  
 visi - vic-  
-vislekse - pronomo  
+visloge - pronomo  
 vizita - vizito  
 vizite - viziti  
 viziter - vizitanto  
