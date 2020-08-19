@@ -1,5 +1,6 @@
 site_name: Pandunia
-site_url: http://www.pandunia.info/engli
+site_url: http://www.pandunia.info/esperanti
+repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../esperanti
 site_dir: ../../html/esperanti
 theme: cerulean

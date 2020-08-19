@@ -1,5 +1,6 @@
 site_name: Pandunia
-site_url: http://www.pandunia.info/engli
+site_url: http://www.pandunia.info/espani
+repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../espani
 site_dir: ../../html/espani
 theme:

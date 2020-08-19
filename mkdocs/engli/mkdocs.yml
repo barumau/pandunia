@@ -1,5 +1,6 @@
 site_name: Pandunia
 site_url: http://www.pandunia.info/engli
+repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
 docs_dir: ../../engli
 site_dir: ../../html/engli

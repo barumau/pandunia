@@ -1,5 +1,6 @@
 site_name: пандуния
 site_url: http://www.pandunia.info/rusi
+repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../rusi
 site_dir: ../../html/rusi
 theme: 

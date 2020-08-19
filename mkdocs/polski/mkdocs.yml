@@ -1,5 +1,6 @@
 site_name: Pandunia
 site_url: http://www.pandunia.info/polski
+repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../polski
 site_dir: ../../html/polski
 theme:
