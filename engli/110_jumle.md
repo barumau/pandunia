@@ -88,7 +88,7 @@ In Pandunia, active verbs are easy to identify because all of them end in **-a**
 
 The following sentences are in SVO order.
 
-**me niama aple.**
+**me yama aple.**
 – I eat apples.  
 **me vida te.**
 – I see you.
@@ -137,11 +137,11 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me wana te niama sabze.**
+**me wana te yama sabze.**
 – I want you eat vegetables.
 
 In the example above, **me wana** has **te** as its object.
-At the same time, **te** functions as the subject of the following predicate, **niama sabze**.
+At the same time, **te** functions as the subject of the following predicate, **yama sabze**.
 So **te** is the _pivot_ of the entire sentence.
 
 ## Verb series
@@ -411,13 +411,13 @@ when the modal particle is the last word in the sentence.
 
 The particle **plus** _(also)_ is a good example because it functions much like in English.
 
-**le niama bir plus.**
+**le yama bir plus.**
 – S/he drinks beer, _also_.  
-**le niama plus bir.**
+**le yama plus bir.**
 – S/he drinks _also beer_.  
-**le plus niama bir.**
+**le plus yama bir.**
 – S/he _also drinks_ beer.  
-**plus le niama bir.**
+**plus le yama bir.**
 – _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
