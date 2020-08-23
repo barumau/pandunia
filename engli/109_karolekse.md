@@ -4,75 +4,193 @@
 
 A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
 
-A verb can involve an agent and a recipient.
-The agent performs or "causes" an action,
+In Pandunia, a verb can involve an agent, a recipient, and an object.
+The agent performs or "causes" the action,
 and the recipient receives or "experiences" the action.
 
 Pandunia has two types of verb:
 verbs that end in **-a** and verbs that end in **-u**.
-The endings decide the order of the agent and the recipient of the action in the sentence.
-So the sentence structure depends on the type of the verb.
+The endings decide the role of the subject,
+whether it is the causer or the recipient of the action.
 
-Simply put, the ending **-a** means:  
-If there is anything right before the verb, it is the agent.  
-If there is anything right after the verb, it is the recipient.
+With verbs that end in **-u**,
+the subject is the recipient of the action denoted by the verb.
 
-And the ending **-u** means:  
-If there is anything right before the verb, it is the recipient.  
-If there is anything right after the verb, it is the agent.
+| Subject        | Verb           | Object         |
+|:---------------|:---------------|:---------------|
+| **lole**       | **fobu**       | **monster.**   |
+| They           | fear           | monsters.      |
+| **me**         | **kiru**       | **dome.**      |
+| I              | rent           | a house.       |
+| **mome**       | **darsu**      | **kimia.**     |
+| We             | study          | chemistry.     |
+| **le**         | **namu**       | **Maria.**     |
+| She            | is called      | Maria.         |
+| **bebe**       | **jenu**       |                |
+| The baby       | is born.       |                |
 
-Consider the following examples:  
-**me safa.**
-– I clean.  
+With verbs that end in **-a**,
+the subject is the causer or starter of the action denoted by the verb.
+
+| Subject        | Verb           | Object         |
+|:---------------|:---------------|:---------------|
+| **monster**    | **foba**       | **lole**       |
+| Monsters       | scare          | them           |
+| **te**         | **kira**       | **dome.**      |
+| You            | rent           | a house.       |
+| **me**         | **darsa**      | **kimia.**     |
+| I              | teach          | chemistry.     |
+| **mame**       | **jena**       | **bebe.**      |
+| The mother     | gives birth to | the baby.      |
+
+Some verbs with **-a** have two objects.
+The indirect object is the recipient of the direct object.
+
+| Subject        | Verb           | Indirect object| Direct object  |
+|:---------------|:---------------|:---------------|:---------------|
+| **me**         | **nama**       | **te**         | **Maria.**     |
+| I              | call           | you            | Maria.         |
+| **te**         | **dona**       | **me**         | **buke.**      |
+| You            | give           | me             | a book.        |
+| **le**         | **kira**       | **te**         | **dome.**      |
+| He/she         | rents          | you            | the house.     |
+| **me**         | **darsa**      | **tote**       | **kimia.**     |
+| I              | teach          | you            | chemistry.     |
+
+## Examples
+
+The idea of **-u** and **-a** verbs can be challenging to understand at first
+so a lot of examples are given next.
+
+### Senses
+
+**vide**
+– sight  
+**te vidu boni.**
+– You look good.  
+**me vida te.**
+– I look at you.
+
+**aude**
+– hearing  
+**danger audu telo.**
+– Bells are heard far.  
+**me auda danger.**
+– I hear the bells.
+
+**toce**
+– touch  
+**me toca ti kexe.**
+– I touch your hair.
+
+**guste**
+– taste  
+**pale gustu boni.**
+– Fruits taste good.  
+**me gusta yi pale.**
+– I taste this fruit.
+
+**arome**
+– smell  
+**fule aromu boni.**
+– Flowers smell good.  
+**me aroma yi fule.**
+– I smell this flower.
+
+### Qualities
+
+**dayi**
+– big  
+**me dayu.**
+– I get big.  
+**sihati yame daya me.**
+– Healthy food makes me big.
+
+**boni**
+– good  
+**mi jive bonu.**
+– My life gets better.  
+**me bona mi jive.**
+– I make my life better.
+
+**safi**
+– clean  
 **me safa kamare.**
-– I clean a room.  
+– I clean the room.  
 **kamare safu.**
-– Room is cleaned.  
-**kamare safu me.**
-– Room is cleaned by me.
+– Room is cleaned.
 
-As you can see, **-a** and **-u** indicate word orders that are opposite to each other.
-Verbs that end in **-a** are active
-and verbs that end in **-u** are called passive.
+**name**
+– name  
+**me namu Maria.**
+– I am called Maria.  
+**me nama te Maria.**
+– I call you Maria.
 
-## Active verbs
+**umure**
+– age  
+**me umuru 25 nene.**
+– I am aged 25 years.  
+**prizonzamane umura me.**
+– The time in prison aged me.
 
-Verbs that end in **-a** are called _active verbs_.
-The sentence word order is subject–verb–object.
+### Emotions
 
-The subject of an active verb does the action that the verb indicates.
-So it is the doer or the agent of the action.
-The action is done to the object,
-so the object is the passive recipient of the action.
+**fobi**
+– scared, fearful  
+**me fobu monster.**
+– I fear monsters.  
+**monster foba me.**
+– Monsters frighten me.
 
-Examples:  
-**te vida ke?**
-– You see what?  
-**me vida lole.**
-– I see them.  
-**te beka pang.**
-– You bake bread.  
+**furi**
+– angry  
+**me furu te.**
+– I am angry at you. (I am angered by you.)  
+**te fura me.**
+– You anger me. (You infuriate me.)
 
-## Passive verbs
+**suki**
+– glad, pleased  
+**me suku te.**
+– I am pleased by you. (I like you.)  
+**te suka me.**
+– You please me.
 
-Verbs that end in **-u** are called _passive verbs_.
-The sentence word order is again subject–verb–object,
-but the actual roles of subject and object are different than with active verbs.
+### Roots related to possession
 
-The subject of a passive verb receives or "suffers" the action, which is done to it,
-and the object is the source of the action.
+**done**
+– gift  
+**te donu fule.**
+– You are given flowers.
+**me dona te fule.**
+– I give you flowers.  
 
-Often passive sentences in Pandunia can be translated to English
-by using the passive voice or an intransitive verb
-but sometimes a transitive verb can be used too.
+**kire**
+– rent, lease  
+**te kiru dome.**
+– You rent a house.  
+**me kira dome.**
+– I rent a house.  
+**me kira te dome.**
+– I rent you a house.  
 
-Examples:  
-**pang beku te.**
-– Bread is baked by you.  
-**pakse domisu arbe.**
-– Birds are housed by trees.  
-**te suku me.**
-– You are pleased by me. (Or: You like me.)
+
+### Other activities
+
+**yame**
+– food  
+**me yamu salade.**
+– I eat salad.  
+**te yama me salade.**
+– You feed me salad.
+
+**darse**
+– lesson, studies  
+**me darsu kimia.**
+– I study chemistry.  
+**gure darsa me kimia.**
+– The teacher teaches me chemistry.
 
 
 ## Prepositions
@@ -92,17 +210,24 @@ Pandunia has four prepositions of place and time.
 A preposition begins a prepositional phrase. In a simple prepositional phrase
 the preposition is complemented by a pronoun or a noun phrase.
 
-**me sa hotel.** - I'm in the hotel.  
-**me sona sa hotel.** - I sleep in the hotel.  
-**me sona ca xam pa sube.** - I sleep since evening until morning.  
-**me safara ca london pa paris.** - I travel from London to Paris.  
+**me sa hotel.**
+– I'm in the hotel.  
+**me sonu sa hotel.**
+– I sleep in the hotel.  
+**me sonu ca xame pa sube.**
+– I sleep since evening until morning.  
+**me safara ca london pa paris.**
+– I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ca te gowa.** - I have waited since you left.  
-**me denga pa te laya dome.** - I wait until you come home.  
-**me denga sa te sona.** - I wait while you sleep.  
+**me denga ca te gowa.**
+– I have waited since you left.  
+**me denga pa te laya dome.**
+– I wait until you come home.  
+**me denga sa te sona.**
+– I wait while you sleep.  
 
 #### sa
 
