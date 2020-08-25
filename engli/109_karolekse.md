@@ -14,14 +14,20 @@ The endings decide the role of the subject,
 whether it is the causer or the recipient of the action.
 
 With verbs that end in **-u**,
-the subject is the recipient of the action denoted by the verb.
+the subject has, gets or experiences the thing that is denoted by the verb root.
+For example, **fob-** means _fear_, so **fobu** means "to have fear" or, simply, "to fear".
+**yam-** means _food_, so **yamu** means "to get food" or, simply, "to eat".
 
 | Subject        | Verb           | Object         |
 |:---------------|:---------------|:---------------|
-| **lole**       | **fobu**       | **monster.**   |
-| They           | fear           | monsters.      |
-| **me**         | **kiru**       | **dome.**      |
-| I              | rent           | a house.       |
+| **bace**       | **fobu**       | **monster.**   |
+| Children       | fear           | monsters.      |
+| **mawe**       | **yamu**       | **muxe.**      |
+| Cats           | eat            | mice.          |
+| **me**         | **tenu**       | **dome.**      |
+| I              | have           | a house.       |
+| **te**         | **kiru**       | **dome.**      |
+| You            | rent           | a house.       |
 | **mome**       | **darsu**      | **kimia.**     |
 | We             | study          | chemistry.     |
 | **le**         | **namu**       | **Maria.**     |
@@ -30,16 +36,20 @@ the subject is the recipient of the action denoted by the verb.
 | The baby       | is born.       |                |
 
 With verbs that end in **-a**,
-the subject is the causer or starter of the action denoted by the verb.
+the subject gives or causes the thing that is denoted by the verb root.
+For example, **fob-** means _fear_, so **foba** means "to give fear", "to cause fear" or, simply, "to frighten".
+**yam-** means _food_, so **yama** means "to give food" or, simply, "to feed".
 
 | Subject        | Verb           | Object         |
 |:---------------|:---------------|:---------------|
-| **monster**    | **foba**       | **lole**       |
-| Monsters       | scare          | them           |
+| **monster**    | **foba**       | **bace**       |
+| Monsters       | scare          | children       |
+| **me**         | **yama**       | **mawe.**      |
+| I              | feed           | the cat.       |
 | **te**         | **kira**       | **dome.**      |
 | You            | rent           | a house.       |
-| **me**         | **darsa**      | **kimia.**     |
-| I              | teach          | chemistry.     |
+| **gure**       | **darsa**      | **kimia.**     |
+| Teacher        | teaches        | chemistry.     |
 | **mame**       | **jena**       | **bebe.**      |
 | The mother     | gives birth to | the baby.      |
 
@@ -54,8 +64,8 @@ The indirect object is the recipient of the direct object.
 | You            | give           | me             | a book.        |
 | **le**         | **kira**       | **te**         | **dome.**      |
 | He/she         | rents          | you            | the house.     |
-| **me**         | **darsa**      | **tote**       | **kimia.**     |
-| I              | teach          | you            | chemistry.     |
+| **gure**       | **darsa**      | **mome**       | **kimia.**     |
+| Teacher        | teaches        | us             | chemistry.     |
 
 ## Examples
 
@@ -184,6 +194,13 @@ so a lot of examples are given next.
 – I eat salad.  
 **te yama me salade.**
 – You feed me salad.
+
+**dome**
+– house, dwelling  
+**me domu hotel.**
+– I live in a hotel.  
+**te doma me kamare.**
+– You house me in a room.
 
 **darse**
 – lesson, studies  
