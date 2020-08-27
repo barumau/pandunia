@@ -21,12 +21,14 @@ They are described in more detail later in this document.
    All adverbs, except the most common few, end in **-o**.
     - ex. 1. **vero rapidi loge** = Very fast speech.
     - ex. 2. **te loga bono.** = You talk well.
-7. The verb ending **-a** indicates that the verb is active
-   and the agent of the action is immediately before the verb.
-    - ex. **me niama aple.** = I eat apples.
-8. The verb ending -u indicates that the verb is passive
-   and the recipient of the action is immediately before the verb.
-    - ex. **aple niamu.** = Apples are eaten.
+7. The verb ending **-u** indicates that
+   the subject has or gets the thing that is denoted by the verb root.
+    - ex. **maw yamu fixe.** = The cat eats fish.
+    - ex. **buke kitabu.** = Books get written.
+8. The verb ending **-a** indicates that
+   the subject gives or causes the thing that is denoted by the verb root.
+    - ex. **me kitaba books.** = I write a books.
+    - ex. **me yama maw.** = I feed the cat.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
     - ex. **me pliza te dona pes.** = I ask you to give money.

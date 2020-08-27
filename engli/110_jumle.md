@@ -25,7 +25,7 @@ In the simplest sentences, the subject is a noun or a pronoun and the predicate 
 – She is Sarah.  
 **sarah bon.**
 – Sarah is good.  
-**petre day.**
+**xeke day.**
 – The stone is big.  
 **meze novi.**
 – The table is new.  
@@ -45,7 +45,7 @@ Then the structure is similar like in negative sentences.
 
 **sarah si bon.**
 – Sarah is good.  
-**petre si day.**
+**xeke si day.**
 – The stone is big.  
 **meze si novi.**
 – The table is new.  
@@ -137,10 +137,10 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me wana te yama sabze.**
+**me volu te yama sabze.**
 – I want you eat vegetables.
 
-In the example above, **me wana** has **te** as its object.
+In the example above, **me volu** has **te** as its object.
 At the same time, **te** functions as the subject of the following predicate, **yama sabze**.
 So **te** is the _pivot_ of the entire sentence.
 
@@ -151,9 +151,9 @@ and all of them are about the same subject
  
 1. **me gowa dome.**
    – I go home.  
-2. **me abla gowa dome.**
+2. **me ablu gowa dome.**
    – I can go home.  
-3. **me wana abla gowa dome.**
+3. **me volu ablu gowa dome.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -388,14 +388,14 @@ With the modified noun at the beginning, we need to call into action the otherwi
 Any clause can modify a noun in the same manner: the modified noun is moved to the beginning of the modifying clause
 and separated out with **da**, or moved to the end and separated out with **du**.
 
-**me xerca me paso abla laxa du eni xey.**
+**me xerca me paso ablu laxa du eni xey.**
 – I'm looking for anything I might have left behind.
 
 In more complex cases, it can become challenging to maneuver the noun to the end of the clause. In these cases, the
 word order may be relaxed as long as it is clear where in the modifying clause the noun goes. Note, however, that it
 may be more understandable to simply rearrange the sentence entirely.
 
-**lole loga loke da me no abla eureka sa karte.**
+**lole loga loke da me no ablu eureka sa karte.**
 – They named a place I couldn't find on the map.
 **me cana table da ren. me raya mome xudu eska lole tema liga momi partia.**
 – I've tabulated the people that I think we should ask about joining our party.

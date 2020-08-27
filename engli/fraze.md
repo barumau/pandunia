@@ -50,7 +50,7 @@ Good evening!
 Good night!
 
 **salam niame!**
-Bon appetit!
+boni appetit!
 
 **salam lay!**
 Welcome!
@@ -202,13 +202,13 @@ verb, not a special _question tag_. In fact, the previous question is simply
 abbreviated from **me eska te dotore.** (I ask, you doctor?) by dropping out the
 first word.
 
-**eska te bon?**
+**eska te boni?**
 How are you? (Literally: _Are you good?_)  
-**me bon.**
+**me boni.**
 I'm good.  
 **eska te?**
 And you?  
-**me no bon.**
+**me no boni.**
 I'm not good.
 
 <small>Etymology. **eska**
@@ -257,14 +257,14 @@ I'm not Sarah.
 **me no dotore.**
 I'm not a doctor.
 
-**eska te bon?**
+**eska te boni?**
 Are you well?  
-**si. me bon.**
+**si. me boni.**
 Yes, I'm well.
 
-**eska te bon?**
+**eska te boni?**
 Are you well?  
-**no. me no bon.**
+**no. me no boni.**
 No, I'm not well.
 
 You can use **no** to deny anything. It is placed before the word that is
@@ -421,13 +421,13 @@ Name, English: name.</small>
 
 ### tena <small>have</small>
 
-**me tena bon dome.**
+**me tena boni dome.**
 I have a good house.
 
 **le no tena pese.**
 He/she doesn't have money.
 
-**me wana tena novi fone.**
+**me volu tena novi fone.**
 I want to have a new phone.
 
 **eska te tena bace?**
@@ -462,60 +462,60 @@ Can you help me?
 **eska me abla helpa te?**
 Can I help you?
 
-**me wana helpa te.**
+**me volu helpa te.**
 I want to help you.
 
 
 ## Part 2: Eating
 
-### niama <small>consume, eat, drink</small>
+### yamu <small>consume, eat, drink</small>
 
-**eska te wana niama koy?**
+**eska te volu yamu koy?**
 Would you like to eat something?
 
-**le niama aple.**
+**le yamu aple.**
 He/she eats an apple.
 
-**lole niama aple.**
+**lole yamu aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
-**eska te niama kafe?**
+**eska te yamu kafe?**
 Do you drink coffee?
 
-**me niama kafe.**
+**me yamu kafe.**
 I drink coffee.
 
-Tip: Meaning of **niama** covers both eating and drinking. It can feel odd at
+Tip: Meaning of **yamu** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**me niama kafe e pang.**
+**me yamu kafe e pang.**
 I'm having coffee and bread.
 
 
-### wana <small>want</small>
+### volu <small>want</small>
 
-**eska te wana niama?**
+**eska te volu yamu?**
 Would you like to eat?
 
-**te wana niama ke?**
+**te volu yamu ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**me wana niama kafe.**
+**me volu yamu kafe.**
 I want to drink coffee.
 
-**eska te wana niama cay?**
+**eska te volu yamu cay?**
 Would you like to drink tea?  
-**no. me no wana cay. me wana kafe.**
+**no. me no volu cay. me volu kafe.**
 No, I don't want tea. I want coffee.
 
-**te wana ki aple?**
+**te volu ki aple?**
 Which apple do you want?  
 **yi ros.**
 This red one.
@@ -523,7 +523,7 @@ This red one.
 
 ### pliza <small>request, please</small>
 
-**me pliza te niama cay.**
+**me pliza te yamu cay.**
 I ask you to drink tea.
 
 **me pliza te laya dome.**
@@ -534,10 +534,10 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**pliza niama cay.**
+**pliza yamu cay.**
 Please, have some tea!
 
-**pliza niama kafe.**
+**pliza yamu kafe.**
 Please, have some coffee!
 
 **pliza laya dome.**
@@ -549,10 +549,10 @@ Please, help me.
 
 ### haida <small>let's</small>
 
-**haida niama!**
+**haida yamu!**
 Let's eat!
 
-**haida gowa niama!**
+**haida gowa yamu!**
 Let's go eat!
 
 **haida gowa dome.**
@@ -564,10 +564,10 @@ Let's go home.
 **me nida helpe.**
 I need help.
 
-**me nida niama.**
+**me nida yamu.**
 I'm hungry.
 
-**eska te nida niama?**
+**eska te nida yamu?**
 Are you hungry?
 
 **eska te nida suy?**
@@ -811,19 +811,19 @@ Tip! You can use **sa** as a preposition or alone as the verb.
 I work at ...
 
 
-### doma <small>to live, reside</small>
+### domu <small>to live, reside</small>
 
-**te doma ke?**
+**te domu ke?**
 Where do you live?
 
-**me doma singapur.**
+**me domu singapur.**
 I live in Singapore.
 
-**eska te doma yi hotel?**
+**eska te domu yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.
-However **doma** already covers the meaning of being at somewhere, so **sa** is not necessary.
+Tip: It is also okay to say **te domu sa ke?** instead of **te domu ke**.
+However **domu** already covers the meaning of being at somewhere, so **sa** is not necessary.
 
 
 ### denga <small>to wait</small>
@@ -921,57 +921,57 @@ I give this to you.
 **me dona buke pa lole.**
 I give a book to them.
 
-**le no wana dona le pa me.**
+**le no volu dona le pa me.**
 He/she doesn't want to give it to me.
 
 
-### kapa <small>take, get</small>
+### kapu <small>take, get</small>
 
-**me kapa un kafe.**
+**me kapu un kafe.**
 I will take a coffee.
 
-**pliza kapa un kafe pa me.**
+**pliza kapu un kafe pa me.**
 Please take one coffee for me.
 
-**te lewo kapa pese ca me.**
+**te lewo kapu pese ca me.**
 You already got money from me.
 
-**me kapa un bire.**
+**me kapu un bire.**
 I will take a beer.
+
+
+### maye <small>commerce</small>
+
+Buying and selling are created from the same root.
+**maya**
+means _to sell_ and
+**mayu**
+means _to buy_.
+
+**lole maya pani.**
+They sell everything.
+
+**me mayu un bire.**
+I will buy a beer.
 
 
 ### kire <small>rent, lease, hire</small>
 
-**kire si 500 dolar sa mes.**  
+The words for renting function in the same way as the words for buying and selling.
+
+**kire si 500 dolar sa uni mese.**  
 The rent is 500 dollars in a month.
 
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me wana kapa un gare sa kire.**  
-I want to take a car for rent.
-
-**me wana kirokapa un gare.**
+**me volu kiru un gare.**
 I want to rent a car.
 
-**le kirodona kamare pa safarer.**
+**le kira kamare pa safarer.**
 He/she rents rooms to travelers.
 
-
 <!--
-
-### mai <small>commerce</small>
-
-Tip: Buying and selling a compound words: **mai dar**
-means _to sell_ and **mai kap**
-means _to buy_.
-
-**lole mai dona pan.**
-They sell everything.
-
-**me mai kap un bir.**
-I will buy a beer.
-
 ### yang <small>type, kind, sort</small>
 
 **le si ki yang?**
@@ -980,17 +980,17 @@ What is it like?
 **eska le novi?**
 Is it new?
 
-**ke si max bon?**
+**ke si max boni?**
 Which is better?
 
-**ye si maxim bon (da pan).**
+**ye si maxim boni (da pani).**
 This is the best (of all).
 
-**le kosta ke?**
+**le kostu ke?**
 How much does it cost?  
-**nol.**
+**noli.**
 Nothing.  
-**le kosta lil / multo.**
+**le kostu lili / poli.**
 It is cheap / expensive.  
 
 **mome plizu laya.**
@@ -1022,7 +1022,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan si okey.**
+**pani si okey.**
 Everything is alright.
 
 ****
