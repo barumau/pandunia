@@ -38,14 +38,14 @@ For example, **fob-** means _fear_, so **fobu** means "to have fear" or, simply,
 With verbs that end in **-a**,
 the subject gives or causes the thing that is denoted by the verb root.
 For example, **fob-** means _fear_, so **foba** means "to give fear", "to cause fear" or, simply, "to frighten".
-**yam-** means _food_, so **yama** means "to give food" or, simply, "to feed".
+**yam-** means _food_, so **yama** means "to give food" or, simply, "to nourish".
 
 | Subject        | Verb           | Object         |
 |:---------------|:---------------|:---------------|
 | **monster**    | **foba**       | **bace**       |
-| Monsters       | scare          | children       |
-| **me**         | **yama**       | **mawe.**      |
-| I              | feed           | the cat.       |
+| Monsters       | frighten       | children       |
+| **fixe**       | **yama**       | **mawe.**      |
+| Fish           | nourishes      | the cat.       |
 | **te**         | **kira**       | **dome.**      |
 | You            | rent           | a house.       |
 | **gure**       | **darsa**      | **kimia.**     |
@@ -53,19 +53,6 @@ For example, **fob-** means _fear_, so **foba** means "to give fear", "to cause 
 | **mame**       | **jena**       | **bebe.**      |
 | The mother     | gives birth to | the baby.      |
 
-Some verbs with **-a** have two objects.
-The indirect object is the recipient of the direct object.
-
-| Subject        | Verb           | Indirect object| Direct object  |
-|:---------------|:---------------|:---------------|:---------------|
-| **me**         | **nama**       | **te**         | **Maria.**     |
-| I              | call           | you            | Maria.         |
-| **te**         | **dona**       | **me**         | **buke.**      |
-| You            | give           | me             | a book.        |
-| **le**         | **kira**       | **te**         | **dome.**      |
-| He/she         | rents          | you            | the house.     |
-| **gure**       | **darsa**      | **mome**       | **kimia.**     |
-| Teacher        | teaches        | us             | chemistry.     |
 
 ## Examples
 
