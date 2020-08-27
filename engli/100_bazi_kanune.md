@@ -27,8 +27,8 @@ They are described in more detail later in this document.
     - ex. **buke kitabu.** = Books get written.
 8. The verb ending **-a** indicates that
    the subject gives or causes the thing that is denoted by the verb root.
-    - ex. **me kitaba books.** = I write a books.
     - ex. **me yama maw.** = I feed the cat.
+    - ex. **me kitaba buke.** = I write a books.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
     - ex. **me pliza te dona pes.** = I ask you to give money.

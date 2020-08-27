@@ -107,8 +107,8 @@ so a lot of examples are given next.
 – good  
 **mi jive bonu.**
 – My life gets better.  
-**me bona mi jive.**
-– I make my life better.
+**le bona mi jive.**
+– It makes my life better.
 
 **safi**
 – clean  
@@ -167,10 +167,8 @@ so a lot of examples are given next.
 – rent, lease  
 **te kiru dome.**
 – You rent a house.  
-**me kira dome.**
-– I rent a house.  
-**me kira te dome.**
-– I rent you a house.  
+**me kira dome pa te.**
+– I rent a house to you.
 
 
 ### Other activities
@@ -179,8 +177,8 @@ so a lot of examples are given next.
 – food  
 **me yamu salade.**
 – I eat salad.  
-**te yama me salade.**
-– You feed me salad.
+**te yama salade pa me.**
+– You feed salad to me.
 
 **dome**
 – house, dwelling  
@@ -193,8 +191,8 @@ so a lot of examples are given next.
 – lesson, studies  
 **me darsu kimia.**
 – I study chemistry.  
-**gure darsa me kimia.**
-– The teacher teaches me chemistry.
+**gure darsa kimia pa me.**
+– The teacher teaches chemistry to me.
 
 
 ## Prepositions
