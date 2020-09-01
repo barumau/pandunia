@@ -337,8 +337,46 @@ Esperanto (a heavily agglutinating language) and Pandunia. Parts of
 word are separated with the vertical bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me wan|a   vid|a  t|i       dul|i sundar|i   kan|e       zay|o.
+    Pandunia:  me wan|a   vid|a  t|i       dul|i sundar|i kan|e       zay|o.
                I  want to see    your      two beautiful  eyes        now.
+
+#### Are the word class markers unnatural?
+
+Pandunia uses final vowels as word class markers.
+It is not an unnatural thing to do
+because there are comparable morphemes in natural languages
+that are used for marking various word classes and their subclasses.
+
+For example, the Bantu languages use a system of prefixes for marking nouns, verbs, adjectives and adverbs.
+Here are some Swahili words together with the same words in Pandunia.
+
+| Pandunia | Swahili | English meaning |
+|----------|---------|-----------------|
+| kitab-   | -and- | the root related to writing |
+| kitaba   | ku-and-ik-a | to write |
+| kitabu   | ku-and-ik-w-a | to be written |
+| kitabe   | ma-and-ish-i | writing, text |
+| kitabi   | -a ma-and-ish-i | written, textual |
+
+Another example, Arabic uses a system of vowel infixes to convert consonant roots into different word classes and their subclasses.
+Here are some Arabic words together with the same words in Pandunia.
+
+| Pandunia | Arabic | English meaning |
+|----------|---------|-----------------|| kitab- | k-t-b | the root related to writing | 
+| kitaba   | kataba | to write |
+| kitabu   | kutiba | to be written |
+| kitabe   | kitāb | writing, text, book |
+| kitabi   | kitābi | written, textual |
+
+Pandunia's system is a very simple one – it includes only the bare minimum! – but otherwise it's nothing new.
+Various natural languages have comparable morphemes for marking words in different word classes.
+The morpheme type doesn't matter: prefixes, infixes, circumfixes and suffixes can do the same task.
+Single-vowel suffixes are the most minimal and therefore the simplest type!
+
+Looking at the examples above, it's obvious that the system of Pandunia is simpler than those of Swahili and Arabic.
+English is the least systematic as it uses sometimes independent words (to, to be) and sometimes suffixes (-en, -ing, -al) as markers.
+
+In conclusion, using the vowel suffixes for word class markers is unnatural only for its simplicity, nothing else.
 
 
 ## Vocabulary
