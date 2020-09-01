@@ -1,6 +1,6 @@
 # Verbs
 
-## Introduction
+## Verb types
 
 A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
 
@@ -8,8 +8,8 @@ A verb can involve an agent and a recipient.
 The agent performs or "causes" an action,
 and the recipient receives or "experiences" the action.
 
-Pandunia has two types of verb:
-verbs that end in **-a** and verbs that end in **-u**.
+Pandunia has three verb types:
+verbs that end in **-a**, verbs that end in **-u** and verbs that end in **-i**.
 The endings decide the order of the agent and the recipient of the action in the sentence.
 So the sentence structure depends on the type of the verb.
 
@@ -17,9 +17,12 @@ Simply put, the ending **-a** means:
 If there is anything right before the verb, it is the agent.  
 If there is anything right after the verb, it is the recipient.
 
-And the ending **-u** means:  
+The ending **-u** means:  
 If there is anything right before the verb, it is the recipient.  
 If there is anything right after the verb, it is the agent.
+
+And finally, the ending **-i** means
+that the subject is in the state denoted by the verb root.
 
 Consider the following examples:  
 **me safa.**
@@ -27,23 +30,31 @@ Consider the following examples:
 **me safa kamare.**
 – I clean a room.  
 **kamare safu.**
-– Room is cleaned.  
+– The room is cleaned.  
 **kamare safu me.**
-– Room is cleaned by me.
+– The room is cleaned by me.  
+**kamare safi.**
+– The room is clean.
 
 As you can see, **-a** and **-u** indicate word orders that are opposite to each other.
 Verbs that end in **-a** are active
 and verbs that end in **-u** are called passive.
 
-## Active verbs
+### Active verbs
 
 Verbs that end in **-a** are called _active verbs_.
-The sentence word order is subject–verb–object.
 
-The subject of an active verb does the action that the verb indicates.
-So it is the doer or the agent of the action.
+In active sentences, the focus is on the doer (i.e. the agent) of the action.
+So the sentence word order is subject–verb–object.
+
+![](http://www.pandunia.info/grafe/kitaba.png "rene kitaba buke.")  
+**feme kitaba buke.**  
+– The woman writes a book.
+
+The subject of an active verb is the doer or the agent
+who does the action that the verb indicates.
 The action is done to the object,
-so the object is the passive recipient of the action.
+which is the passive recipient of the action.
 
 Examples:  
 **te vida ke?**
@@ -53,14 +64,20 @@ Examples:
 **te beka pang.**
 – You bake bread.  
 
-## Passive verbs
+
+### Passive verbs
 
 Verbs that end in **-u** are called _passive verbs_.
 The sentence word order is again subject–verb–object,
-but the actual roles of subject and object are different than with active verbs.
+but the roles of subject and object are different than with active verbs.
 
-The subject of a passive verb receives or "suffers" the action, which is done to it,
-and the object is the source of the action.
+In passive sentences, the focus is on the recipient of the action.
+The action is done to the recipient, which is the subject,
+and the object is the source or the agent of the action.
+
+![](http://www.pandunia.info/grafe/kitabu.png "buke kitabu.")  
+**buke kitabu.**  
+– The book gets written.
 
 Often passive sentences in Pandunia can be translated to English
 by using the passive voice or an intransitive verb
@@ -73,6 +90,46 @@ Examples:
 – Birds are housed by trees.  
 **te suku me.**
 – You are pleased by me. (Or: You like me.)
+
+
+### Stative verbs
+
+Verbs that end in **-i** are called _stative verbs_.
+They are basically adjectives that describe the subject in a verb-like manner.
+The subject of a stative verb is in the state denoted by the verb root.
+
+![](http://www.pandunia.info/grafe/kitabi.png "buke kitabi.")  
+**buke kitabi.**  
+– The book is written.
+
+Stative verbs differ from passive verbs by the fact that
+a stative verb is about being in a state
+whereas a passive verb indicates a change of state.
+In other words, a stative verb is a _passive of being_
+and a passive verb is a _passive of becoming_.
+
+
+
+### Summary of the verb types
+
+The verb types are summarized in the table below.
+
+| Active verb | Passive verb | Stative verb |
+|:------------|:-------------|:-------------|
+| **kitaba**  | **kitabu**   | **kitabi**   |
+| write       | get written  | be textual   |
+| **safa**    | **safu**     | **safi**     |
+| make clean  | get cleaned  | be clean     |
+| **nova**    | **novu**     | **novi**     |
+| make new    | get new      | be new       |
+| **yama**    | **yamu**     | **yami**     |
+| eat         | get eaten    | be eatable   |
+| **gusta**   | **gustu**    | **gusti**    |
+| sense taste | taste like   | be tasty     |
+| **ama**     | **amu**      | **ami**      |
+| love        | be loved     | be dear      |
+| **suka**    | **suku**     | **suki**     |
+| please      | get pleased  | be pleased   |
 
 
 ## Prepositions
