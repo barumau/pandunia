@@ -260,14 +260,14 @@ certain way or to follow a certain ideology or religion.
 **dewisti** theistic  
 **dewistia** theism (system of belief in a god or gods)  
 
-#### -ul-
+#### an-
 
 Creates verbs that reverse the meaning of the base verb.
 
-**noda** to tie; **nodula** to untie  
-**tapa** to plug, to close with a plug; **tapula** to unplug, to open the plug.  
+**noda** to tie; **annoda** to untie  
+**tapa** to plug, to close with a plug; **antapa** to unplug, to open the plug.  
 
-### Function Words
+## Function Words
 
 _Function words_ are words that help to organize words into more or less complex sentences.
 It is a closed class i.e. new words are never or only very seldom be added to it.

@@ -6,7 +6,7 @@ A noun is a word that names a thing.
 Like all words in Pandunia, nouns are invariant.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
-**petre**
+**seke**
 – a stone, stones, the stone or the stones  
 **meze**
 – a table, tables, the table or the tables  

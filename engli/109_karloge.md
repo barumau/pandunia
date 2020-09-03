@@ -125,11 +125,13 @@ The verb types are summarized in the table below.
 | **yama**    | **yamu**     | **yami**     |
 | eat         | get eaten    | be eatable   |
 | **gusta**   | **gustu**    | **gusti**    |
-| sense taste | taste like   | be tasty     |
+| taste       | taste like   | be tasty     |
 | **ama**     | **amu**      | **ami**      |
 | love        | be loved     | be dear      |
 | **suka**    | **suku**     | **suki**     |
 | please      | get pleased  | be pleased   |
+| **foba**    | **fobu**     | **fobi**     |
+| frighten    |get frightened| be afraid    |
 
 
 ## Prepositions

@@ -16,14 +16,14 @@ nav:
         - 'The basic rules': 100_bazi_kanune.md
         - 'World words': 101_duni_lekse.md
         - 'Spelling and pronunciation': 102_ABC.md
-        - 'Nouns': 104_namolekse.md
-        - 'Adjectives': 105_sifolekse.md
-        - 'Adverbs': 106_modolekse.md
+        - 'Nouns': 104_namloge.md
+        - 'Adjectives': 105_sifloge.md
+        - 'Adverbs': 106_modologe.md
         - 'Numerals': 107_nume.md
-        - 'Pronouns': 108_visolekse.md
-        - 'Verbs': 109_karolekse.md
+        - 'Pronouns': 108_visloge.md
+        - 'Verbs': 109_karloge.md
         - 'Sentences': 110_jumle.md
-        - 'Word building': 111_leksobine.md
+        - 'Word building': 111_logobine.md
     - 'Lessons':
         - 'Basic Phrases': fraze.md
         - 'Course': darse.md
