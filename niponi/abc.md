@@ -182,6 +182,7 @@ Cは子音、Vは母音です。
 3. 摩擦音 + 破裂音
     - ft, fk
     - st, sp, sk
+    - zd, zb, zg
 4. 摩擦音 + 鼻音/側面音/接近音
     - sm, zm, xm, hm
     - fn, sn, zn, xn, hn

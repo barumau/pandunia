@@ -162,6 +162,7 @@ El conjunto de consonantes medias están restringidas a:
 3. Sibilante + oclusiva
     - ft, fk
     - st, sp, sk
+    - zd, zb, zg
 4. Fricativa + resonante
     - sm, zm, xm, hm
     - fn, sn, zn, xn, hn
