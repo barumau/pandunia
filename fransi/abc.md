@@ -147,6 +147,7 @@ Les groupes de consonnes centrales sont limitées à:
 3. Silibante + occlusive
     - ft, fk
     - st, sp, sk
+    - zd, zb, zg
 4. Fricative + resonante
     - sm, zm, xm, hm
     - fn, sn, zn, xn, hn

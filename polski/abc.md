@@ -120,7 +120,9 @@ Początkowe spółgłoski są ograniczone do:
     - nz, lz, rz
     - nx, lx, rx
 3. Spółgłoski szczelinowej + zwartej
+    - ft, fk
     - st, sp, sk
+    - zd, zb, zg
 4. Spółgłoski zwartej + płynnej (spójrz wyżej)
 
 Dozwolonymi końcowymi spółgłoskami są:
