@@ -40,6 +40,7 @@ As you can see, **-a** and **-u** indicate word orders that are opposite to each
 Verbs that end in **-a** are active
 and verbs that end in **-u** are called passive.
 
+
 ### Active verbs
 
 Verbs that end in **-a** are called _active verbs_.
@@ -132,6 +133,65 @@ The verb types are summarized in the table below.
 | please      | get pleased  | be pleased   |
 | **foba**    | **fobu**     | **fobi**     |
 | frighten    |get frightened| be afraid    |
+
+
+## Participles
+
+**-an-**
+denotes someone or something that does the action of the root.
+It is the active participle suffix.
+
+**loga**
+– to speak  
+**logani**
+– speaking  
+**logane**
+– the one who speaks
+
+**-ut-**
+denotes someone or something that undergoes the action of the root.
+It is the passive participle suffix.
+
+**loga**
+– to speak  
+**loguti**
+– spoken  
+**padu**
+– to fall  
+**paduti**
+– fallen
+
+**-ik-**
+denotes someone or something that is predominantly characterized by the base word.
+
+**uni**
+(one)
+→ **uniki**
+(only, sole, single)  
+**dome**
+– home  
+**domiki**
+– domestic  
+**novi**
+(new)
+→ **novike**
+(novice, newbie)
+
+### Causative verbs
+
+Causative verbs express an action, which the subject causes to happen via some third party that is not mentioned.
+In Pandunia, causatives are formed with the active participle suffix
+**-an-**.
+
+**maw yama fixe.**
+– The cat eats fish.  
+**me yamana fixe pa maw.**
+– I feed fish to the cat.
+
+**me bina dome.**
+– I build the house.  
+**me binana dome.**
+– I have the house built.
 
 
 ## Prepositions
