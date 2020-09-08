@@ -7,6 +7,7 @@
 a - mais (bien que)  
 ##a
 abace - alphabet  
+abite - Sapin  
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
 abli - possible  
@@ -37,6 +38,8 @@ akse - axe
 aksente - accent  
 alfone - allophone  
 alge - algue  
+algofunge - lichen  
+algojangale - forêt de kelp  
 ali - autre  
 alkole - alcool  
 alkoli - alcoolique  
@@ -97,8 +100,11 @@ asli - originel
 asme - asthme  
 aspirine - aspirine  
 ata - jusque (jusqu’à)  
+atlantokade - morue de l'Atlantique  
+atlantosamone - saumon altentique  
 ato - voire (même)  
 aure - or  
+auroranje - kumquat  
 aventure - aventure  
 aventurer - aventurier  
 avgani - afghan  
@@ -112,13 +118,17 @@ badame - amande
 badan (badane) - corps  
 bagaje - bagage  
 bagre - tigre  
+bagroselote - oncille  
 baki - blanc  
 bakomargarite - marguerite  
+bakosamone - saumon du Pacifique (saumon kéta, saumon chien)  
 bali - huit (8)  
 balibali - divers (plusieurs)  
 balkone - balcon  
+balonfixe - poisson-globe  
 balsenter - Poulpe (pieuvre)  
 balute - chêne  
+balutopale - gland  
 banane - banane  
 bande - bande  
 bandere - drapeau  
@@ -173,7 +183,9 @@ botoraite - tribord
 boya - nagar (flotter)  
 bravi - brave  
 bravo - bravo!  
+brunalge - algues brunes  
 bruni - brun (marron)  
+brunsamone - truite brune (truite de mer)  
 buke - livre  
 bume - explosion  
 bute - botte  
@@ -215,6 +227,7 @@ defbanze - bouclire
 defkaske - armure  
 destine - destin (destination)  
 dew (dewe) - dieu  
+dika - viser  
 dike - objectif (cible)  
 dinamite - dynamite  
 dine - religion  
@@ -228,11 +241,16 @@ doma - vivre (habiter)
 dome - maison  
 domi - domestique  
 donge - east (orient)  
+dosila - apprivoiser (dresser, dompter, discipliner)  
+dosili - docile (insipide)  
+dosiljenisa - domestiquer (apprivoiser)  
+dosiljenisi - domestiqué (apprivoisé)  
 duga - lire  
 duli - deux (2)  
 dunia - monde  
 e - et  
 ##e
+ekojeni - sauvage  
 ekore - écureuil  
 eletre - électricité  
 eme - unité fondamentale  
@@ -241,6 +259,7 @@ emose - émotion
 emoshale - humeur  
 englomargarite - pâquerette  
 esa - être  
+eskaltane - vigne  
 eskulter - sculpteur  
 esponje - éponge  
 esprinta - courir  
@@ -259,6 +278,7 @@ fate - fait
 fatigia - fatigue  
 favori - favori (préféré)  
 feni - distinct (numérique)  
+feymuxe - chauve-souris  
 filsofia - philosophie  
 fiorde - fiord  
 fitolojia - botanique  
@@ -273,6 +293,8 @@ fotominare - fanal (balise)
 fransi krepe - crêpe  
 freme - cadre  
 fule - fleur  
+fungonete - mycélium  
+fungopale - champignon  
 futobole - football  
 ##g
 gabra - enterrer  
@@ -301,6 +323,7 @@ gluta - coller
 gluti - adhésif (collant)  
 glutopote - argile  
 gole - but  
+gorile - gorille  
 gotone - coton  
 governe - gouvernement  
 grafsage - bande dessinée  
@@ -313,6 +336,7 @@ gundene - palais (château, manoir)
 gune - armée  
 gunrene - soldat  
 gute - genou  
+guypapile - pavot d'Orient  
 ##h
 haha - rire  
 haime - tente  
@@ -322,11 +346,15 @@ halow - allô
 hami - important  
 hande - main  
 handoxake - bras  
+hayalge - algues  
 haye - mer  
+haygrase - posidonie (herbiers marins)  
 haygune - force navale (marine)  
+hayhiyare - concombre de mer  
 helisbabule - acacia faux-gommier  
 helisvimane - hélicoptère  
 hewane - animal (bête)  
+hewanjenisia - élevage  
 hewanparke - zoo  
 hijabe - voile  
 hijenia - hygiène  
@@ -342,10 +370,12 @@ hoke - hockey
 hore - heure  
 hotel (hotele) - hôtel  
 hule - renard  
+huydarte - podzol  
 ##i
 indosida - s’accroupir  
 insan (insane) - être humain  
 insani hake - droits de l'homme  
+insaniki - humain  
 insanistia - humanisme  
 itis (itise) - inflammation  
 iva - avoir tendance à  
@@ -357,13 +387,16 @@ jeinistia - jaïnisme
 jeka - prêter (empruntre)  
 jekodona - prêter  
 jekogeta - empruntre  
+jena - donner naissance (procréer, engendrer, accoucher)  
 jeni baxe - langue maternelle  
+jenisa - élever  
 jentipe - génotype  
 jino - en avant  
 jinse - sexe  
 jirafe - giraffe  
 jive - vie  
 jivi - vivant  
+jovani moke - pousse  
 jule - joule (J)  
 junge - centre  
 jungogia - Chine  
@@ -371,9 +404,11 @@ juse - jus
 justi - exact (précis)  
 ##k
 kaboge - citrouille  
+kade - morue  
 kafase - cage  
 kafe - café  
 kagaze - papier  
+kagazolimone - lime (citron vert)  
 kalamare - calmar (encornet, calamar)  
 kalame - plume  
 kalcite - calcite  
@@ -408,6 +443,7 @@ karloge - verbe
 karmisa - soumettre  
 karote - carotte  
 karsi - rêche (rugueux, gros)  
+karsolimone - combava  
 kaske - carapace (coquille, coquillage, croûte)  
 katuse - cactus  
 kava - creuser  
@@ -431,6 +467,7 @@ konserte - concert
 kontini - continu (analogique)  
 kontrate - convention (alliance, pacte)  
 kope - coupe (tasse, verre)  
+korale - corail  
 korde - fil  
 korne - corne  
 korone - couronne  
@@ -452,6 +489,7 @@ kuangeria - mine
 kuarze - quartz  
 kube - cube  
 kuwi - amer  
+kuworanje - orange amère  
 kuxa - coucher  
 kuxloke - couch (couchette)  
 kuxu - être couché  
@@ -459,6 +497,8 @@ kuxu - être couché
 lage - lac  
 lalbawxeke - rubis  
 lali - rouge  
+laloranje - mandarine  
+lalsamone - saumon sockeye  
 lame - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
 lancografa - projeter (donner)  
@@ -514,6 +554,7 @@ luzer - perdant
 ##m
 magribia - Maroc  
 maidane - place  
+maidanpapile - coquelicot  
 makanfule - dandélion  
 malke - propriété (possession, bien)  
 malker - possédant (propriétaire)  
@@ -523,6 +564,7 @@ manihayistia - manichéisme
 manire - comportement (manière)  
 manse - viande  
 mantole - cape  
+maragaye - margay (chat-tigre)  
 mare - fois  
 marjele - méduse  
 martate - côte  
@@ -543,10 +585,11 @@ medikosuy - pocion
 megame - nuage  
 mehi kexe - laine  
 mele - miel  
+melvesponizde - rayon de miel  
 mema - se rappeler (se remémorer)  
 meme - mémoire  
 meninge - méninge  
-mes (mese) - mois  
+mese - mois  
 mester - maître  
 metalbede - enclume  
 metre - mètre  
@@ -555,12 +598,14 @@ migre - migration
 migru - s'installer (déménager)  
 milke - lait  
 milkokardone - chardon Marie  
+minte - menthe  
 mirdi - faible  
 misalo - par exemple  
 misria - Égypte  
 mode - mode (façon, manière)  
 moke - arbre  
 mokojongoparke - arboretum, pépinière  
+mokotane - bûche  
 mola - moudre  
 mole - mole (unité)  
 molia - moulin  
@@ -569,6 +614,8 @@ mome - nous
 moni - seul (unique)  
 monloge - monologue  
 mono - seulement  
+mose - mousse  
+mosi - moussu  
 muke - visage  
 mule - racine  
 muskulbine - culturisme (musculation)  
@@ -577,6 +624,7 @@ nade - rivière (fleuve)
 namkitaba - signer  
 nasia - nation  
 nasmedi - international  
+nautile - nautile  
 navi - neuf (9)  
 nefre - rein  
 nefte - huile (pétrole)  
@@ -591,6 +639,7 @@ nili - bleu
 nilsentaure - Centaurée bleuet  
 niponia - Japon  
 nixe - niche  
+nizde - nid  
 no - non (ne...pas)  
 noce - noit  
 nombre - nombre (numéro)  
@@ -598,6 +647,7 @@ norde - nord
 nostalgia - nostalgie  
 note - note  
 novi - nouveau  
+novike - néophyte  
 o - ou  
 ##o
 okside - oxyde  
@@ -606,14 +656,19 @@ oranje - orange (fruit)
 oranji - orange (couleur)  
 ore - oreille  
 oritis - otite  
+orkide - orchidée  
 orti - droit (rectiligne)  
 ortogoni - orthogonal  
+oselote - ocelot  
 osidiane - obsidienne  
 ostojamia - squelette  
+ostoxalke - scutelle  
 otone - automne  
 ##p
 pace - paix  
 paciste - pacifiste  
+pacokade - morue du Pacifique  
+paduti - chu  
 pagre - turban  
 pake - paquet  
 pakse - oiseau  
@@ -628,8 +683,10 @@ parame - paramètre
 parce - fragment  
 paris - Paris  
 parke - parc  
+parne - fougères  
 pasporte - passeport  
 pastopetre - magma  
+patike - patient  
 patojener - agent pathogène  
 patolojia - pathologie  
 pauze - pause  
@@ -649,15 +706,19 @@ pikosape - pioche
 pine - épingle  
 pinkardone - chardon aux ânes  
 pipre - poivre  
+piprominte - menthe poivrée  
 piratia - piraterie  
+pise - Épicéa  
 pize - pizza  
 plane - plan  
 plati zemkaskia - tectonique des plaques  
 platistan - plaine  
+platozemiste - terreplatiste  
 plume - prune  
 poreye - poireau  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
+poza - planter  
 probleme - problème  
 problemi - problématique  
 programe - programme  
@@ -668,9 +729,13 @@ pume - couguar (puma)
 pura - remplir  
 purbona - perfectionner (parfaire)  
 puri - plein  
+purxipa - tremper (faire mariner)  
+putawlimone - pamplemousse  
 pute - fils ou fille  
 ##r
 rang (range) - couleur  
+rangarke - arc-en-ciel  
+rangarkosamone - truite arc-en-ciel  
 rangi kance - verre coloré  
 rangomate - colorant  
 rapidi - vite (rapide)  
@@ -695,6 +760,7 @@ romkamile - Camomille Romaine
 rose - rosée  
 rosta - rôtir  
 roze - rose  
+rozosamone - saumon rose  
 ruhe - psyché  
 ruhlojia - psychologie  
 ##s
@@ -707,6 +773,7 @@ salame - salut (salam)
 sale - sel  
 samane - ciel  
 samemose - compassion  
+samone - truite  
 samraye - accord  
 samsifia - simulation  
 sanduice - sandwich  
@@ -735,6 +802,8 @@ sikliste - cycliste
 sile - soie  
 sira - cacher  
 siri mote - célérité  
+sirkopurxipi - décapé (mariné)  
+sirkopurxipi hiyare - concombre confit (cornichon)  
 sirplane - complot (conspiration)  
 sisi - six (6)  
 site - ville  
@@ -744,6 +813,7 @@ sole - soleil
 solfule - Tournesol  
 solsentaure - Centaurée du solstice  
 sonkamare - chambre à coucher  
+sonpapile - pavot somnifère  
 sonu - dormir  
 sore - serrure  
 sose - sauce  
@@ -755,12 +825,15 @@ sundaria - beauté
 susane - lys  
 suy (suye) - eau  
 suygase - vapeur d’eau  
+suyminte - Menthe aquatique  
 ##t
 taile - carreau (tuile)  
 taksometer - taximètre  
 tala - baisser  
 tale - bas  
 tali - bas  
+tali moke - buisson  
+tane - tige  
 tarje - traduction  
 tate - bord (rive)  
 tazi - frais  
@@ -783,6 +856,7 @@ tikete - billet
 time - équipe  
 tini - trois (3)  
 tira milke - tirer  
+tira pile - écorce  
 toca - toucher  
 tomate - tomate  
 trate - contract (traité)  
@@ -793,6 +867,8 @@ tuze - lapin (lièvre)
 ##u
 umure - âge  
 un (uni) - un (1)  
+uniki - unique  
+uniko - uniquement  
 unmaro - une fois  
 ura - hourra  
 uranium - uranium  
@@ -817,6 +893,7 @@ venezolia - Venezuela
 veri - vrai  
 verme - ver  
 vespe - abeille ou guêpe  
+vesponizde - ruche (nid d'abeille)  
 vida - voir  
 violeti - violet (pourpre)  
 virus (viruse) - virus  
@@ -827,14 +904,17 @@ vute - objet (article)
 wale - mur  
 walpapire - papier peint  
 wana - vouloir  
+warkalge - varech  
 warkolate - page  
 waxurse - raton laveur  
 wayoyame - piquenique  
 waytira - tender  
 weki - éveillé  
+wenjoworanje - mandarine satsuma  
 wolfe - loup  
 wolofi - wolof  
 ##x
+xalke - échelle  
 xarke - requin  
 xatan (xatane) - Satan  
 xawi - peu  
@@ -851,6 +931,8 @@ xopa - acheter
 xope - shopping  
 xukarbete - betterave à sucre (betterave sucrière, betterave)  
 xukare - sucre  
+xukargrase - Canne à sucre  
+xukaroranje - orange douce  
 ##y
 yesus - Jésus  
 yexo - encore  
@@ -877,6 +959,7 @@ zinje - gingembre
 zombe - zombi  
 zone - zone  
 zonge - pieu (poteau)  
+zongominte - menthe verte  
 zuke - ethnie  
 zuki - ethnique  
 zuli - zoulou  

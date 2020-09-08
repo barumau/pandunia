@@ -1,6 +1,7 @@
 # pandunia-rusi
 ##a
 abace - алфавит  
+abite - пихта  
 abli - возможный  
 aciya - чихать  
 adali - справедливый  
@@ -17,6 +18,8 @@ akare - клещ (лепта)
 akse - ось  
 aksente - ударение  
 alge - водоросли  
+algofunge - лишай  
+algojangale - лес водорослей  
 ali - другой (второй)  
 alkole - алкоголь  
 almare - шкаф  
@@ -54,7 +57,10 @@ asle - начало (причина)
 asme - астма  
 aspirine - аспирин  
 ata - до  
+atlantokade - Атлантическая треска  
+atlantosamone - Атлантический лосось (сёмга)  
 aure - золото (аурум)  
+auroranje - кумкват (кинкан)  
 aventure - авантюра  
 aventurer - авантюрист  
 avgani - афганский  
@@ -67,10 +73,13 @@ badame - миндаль
 badan (badane) - тело  
 bagaje - багаж  
 bagre - тигр  
+bagroselote - онцилла  
 baki - белый  
 bakomargarite - нивяник обыкновенный (ромашка)  
+bakosamone - кета  
 bali - восемь (8)  
 balkone - балкон  
+balonfixe - иглобрюховые  
 balsenter - спрут (осьминог)  
 balute - дуб  
 banane - банан  
@@ -132,7 +141,9 @@ boye - поплавок (буй)
 brauza - исследовать  
 brauzer - исследователь (браузер)  
 bravo - браво  
+brunalge - бурые водоросли  
 bruni - коричневый  
+brunsamone - кумжа  
 bufete - буфет  
 buke - книга  
 bume - взрыв  
@@ -179,6 +190,7 @@ defbanze - щит
 defkaske - доспехи  
 destine - судьба  
 dew (dewe) - бог  
+dika - целиться  
 dike - цель  
 dinamite - динамит  
 dine - религия (вера)  
@@ -189,12 +201,17 @@ dobe - кирпич
 dolfine - дельфин  
 domi - домашний  
 donge - восток (ост)  
+dongogorile - восточная горилла  
+dosila - укрощать (приручить)  
+dosili - кроткий  
+dosiljenisa - одомашнивать  
 duga - читать  
 duli - два (2)  
 duli o tini - пара  
 dunia - мир (свет)  
 durubli - долговечный  
 ##e
+ekojeni - дикий  
 ekore - белка  
 eletrolinye - провод (кабель)  
 eletrorade - молния  
@@ -219,6 +236,7 @@ fastelia - мелкий
 fatigia - усталость  
 fatigu - устать  
 favori - любимый  
+feymuxe - летучая мышь  
 filme - плева (фильм)  
 filsofia - философия  
 fiorde - фьорд  
@@ -234,6 +252,7 @@ fotominare - маяк
 freme - рама  
 frika - царапать  
 fule - цветок  
+fungopale - гриб  
 futobole - футбол  
 ##g
 gabra - хоронить  
@@ -259,6 +278,7 @@ gluta - клеиться
 gluti - клейкий (липкий)  
 glutopote - глина  
 gole - цель  
+gorile - горилла  
 gotone - хлопок  
 grafsage - комикс  
 granite - гранит  
@@ -272,6 +292,7 @@ gundene - дворец (особняк)
 gune - армия  
 gunrene - солдат  
 gute - колено  
+guypapile - мак восточный  
 ##h
 habare - новости  
 haha - смеяться  
@@ -282,8 +303,12 @@ hami - важный (значимый)
 hamili - беременный  
 hande - рука  
 handoxake - рукав  
+hayalge - морские водоросли  
 haye - море  
+hayfule - морские анемоны  
+haygrase - морские травы  
 haygune - военно-морской флот  
+hayhiyare - голотурия (морские огурц)  
 hayi - морской  
 helisbabule - акация кручёная  
 helisvimane - вертолёт  
@@ -303,10 +328,12 @@ hore - час
 horizoni - horizontal  
 hotel (hotele) - гостиница (отель)  
 hule - лиса  
+huydarte - подзол  
 ##i
 indosida - сесть на корточки  
 insan (insane) - человек  
 insani hake - права человека  
+insaniki - человечный  
 insanistia - гуманизм  
 iode - йод  
 itis (itise) - воспаление  
@@ -314,14 +341,17 @@ ive - тенденция
 ##j
 jambule - джамболан  
 jana - знать  
+jena - родить  
 jengrupe - поколение  
 jeni - сырой  
 jeni baxe - родной язык  
+jenisa - выращивать  
 jentipe - генотип  
 jinse - пол  
 jirafe - жираф  
 jive - жизнь  
 jivi - живой  
+jovani moke - саженец  
 jule - джоуль (J)  
 jumle - фраза  
 junge - центр  
@@ -334,6 +364,7 @@ kaboge - тыква
 kafase - клетка  
 kafe - кофе  
 kagaze - бумага  
+kagazolimone - лайм  
 kalamare - кальмар  
 kalame - ручка  
 kalcite - кальцит  
@@ -367,6 +398,7 @@ karer - работник
 karloge - глагол  
 karote - морковь  
 karsi - грубой  
+karsolimone - лима (каффир-лайм)  
 kaske - оболочка (кора, панцирь)  
 katane - меч  
 katuse - кактус  
@@ -392,6 +424,7 @@ konkara - сотрудничать (кооперировать)
 konserte - концерт  
 kontrate - контракт  
 kope - чаша (чашка, стакан)  
+korale - коралл  
 korde - нитка  
 kore - хор  
 kornomelone - кивано (рогатая дыня)  
@@ -416,12 +449,15 @@ kuarze - кварц
 kube - куб  
 kuwi - горький  
 kuwmelone - горький огурец (китайская горькая тыква)  
+kuworanje - померанец  
 kuxa - положить  (уложить)  
 kuxu - лежать  
 ##l
 lalbawxeke - рубин  
 lali - красный  
 lalolince - рыжая рысь  
+laloranje - мандарин  
+lalsamone - нерка (красница)  
 lame - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
 lancovute - снаряд  
@@ -467,6 +503,7 @@ luza tena - потеря́ть (утра́тить)
 ##m
 magribia - Марокко  
 maidane - площадь (сквер, майдан)  
+maidanpapile - мак самосейка  
 majenti - маджента (фуксия)  
 makanfule - одуванчик  
 malsinyi - зловещий  
@@ -476,6 +513,7 @@ manihayistia - манихейство
 manire - поведение (манера)  
 manse - мясо  
 mantole - плащ (накидка)  
+maragaye - маргай  
 mare - раз  
 margarite - маргаритка  
 masale - пряность  
@@ -493,10 +531,11 @@ medi - средний
 medikosuy - зелье  
 megame - облако  
 melone - дыня  
+melvesponizde - улей (соты)  
 mema - помнить  
 meme - память  
 memnote - меморандум  
-mes (mese) - месяц  
+mese - месяц  
 mester - мастер  
 metalbede - наковальня  
 metre - метр  
@@ -505,12 +544,14 @@ migre - миграция
 migru - переезжать  
 milke - молоко  
 milkokardone - расторопша пятнистая  
+minte - мята  
 mirdi - слабый  
 misalo - например  
 misria - Египет  
 mixa - мешать  
 mixi alkole - коктейль  
 moke - дерево  
+mokotane - бревно  
 mola - молоть  
 molia - мельница  
 moluske - моллюск  
@@ -519,6 +560,8 @@ mome - мы
 moni - единственный  
 monloge - монолог  
 mono - только  
+mose - мох  
+mosi - мшистый  
 moskove - Москва  
 mule - корень  
 mumomelone - восковая тыква (зимняя дыня)  
@@ -528,6 +571,7 @@ nade - река
 namkitaba - подписать  
 nasia - нация  
 nasmedi - междунаро́дный  
+nautile - наутилид  
 navi - девять (9)  
 nefre - почка  
 nefte - масло  
@@ -542,6 +586,7 @@ nili - синий (голубой)
 nilsentaure - василёк синий  
 niponia - Япония  
 nixe - ниша  
+nizde - гнездо (улей)  
 no - нет (не)  
 noce - ночь  
 nombre - число  
@@ -549,19 +594,24 @@ norde - север (норд)
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
 novi - новый  
+novike - новичок  
 o - или  
 ##o
 okside - окись (оксид)  
 oranje - апельсин  
 oranji - оранжевый  
 oritis - отит  
+orkide - орхидея  
 orti - прямой  
 ortogoni - ортогона́льный  
+oselote - оцелот  
 osidiane - обсидиан  
 osme - осмос  
 ostojamia - скелет (остов)  
 ##p
+pacokade - тихоокеанская треска  
 padomun - лаз  
+paduti - упавший  (падший)  
 pagre - чалма  
 pake - пакет  
 pang (pange) - хлеб  
@@ -574,7 +624,9 @@ para - сравнить
 parame - параметр (аргумент)  
 parce - кусок  
 parke - парк  
+parne - папоротник  
 pasporte - паспорт  
+patike - пациент (больной)  
 patojener - патоген  
 patolojia - патология  
 pauze - пауза  
@@ -593,11 +645,14 @@ petronefte - нефть
 piaze - лук  
 pike - вершина  
 pikosape - киркомотыга  
-pine - булавка  
+pine - булавка (игла, шип)  
 pinkardone - татарник колючий  
 pipre - перец  
+piprominte - мята перечная  
+pise - ель  
 pize - пицца  
 plane - план  
+platozemiste - плоскоземелец  
 plume - слива  
 polave - плов  
 pontopine - компас  
@@ -613,7 +668,11 @@ pume - пума (кугуар)
 puntonombre - оценка  
 pura - заполнять  
 puri - полный  
+purxipa - мариновать  
+putawlimone - грейпфрут  
 ##r
+rangarke - радуга  
+rangarkosamone - микижа (камчатская сёмга)  
 rapidi - быстрый  
 rari - редкий (разбро́санный)  
 rase - раса  
@@ -631,6 +690,7 @@ roketolancer - ракетная установка
 romkamile - ромашка римская  
 rose - роса  
 roze - роза  
+rozosamone - горбуша  
 ruhe - душа (дух)  
 rukosake - рюкзак  
 rutogalta - отходить (скитаться)  
@@ -660,6 +720,7 @@ sene - сцена
 sense - чувство  
 sentaure - василёк  
 senter - щупальце  
+serame - керамика  
 sere - пила  
 serye - серия  
 seti - семь (7)  
@@ -672,6 +733,7 @@ sile - шёлк
 silsilnete - кольчуга  
 sinplate - нагрудник  
 sira - скрывать  
+sirkopurxipi - марино́ванный  
 sirplane - заговор (сговор)  
 sisi - шесть (6)  
 slavi - славянский  
@@ -681,7 +743,9 @@ soke - носок
 solcate - зонтик от солнца  
 sole - солнце  
 solfule - подсолнечный  
+songe - сосна  
 sonkamare - спальня  
+sonpapile - мак снотворный  
 sonu - спать  
 sore - замок  
 sori - запереть  
@@ -696,10 +760,13 @@ susane - лилия
 suy (suye) - вода  
 suygase - пар  
 suykaboge - тыква горлянка (калабас)  
+suyminte - мята водная  
 ##t
 taile - черепи́ца  
 taksometer - таксометр  
+tali moke - куст  
 taltexe - ковёр  
+tane - стебель  
 tarje - перевод  
 tase - блюдо (таз)  
 tatawe - татуировка (тату)  
@@ -727,6 +794,7 @@ time - команда
 tini - три (3)  
 tinzonge - трезубец  
 tira milke - тянуть  
+tira pile - ободрать  
 tirbatone - рычаг  
 tirliwe - отбойное течение  
 toca - касаться  
@@ -737,6 +805,7 @@ truke - обман
 ##u
 umure - возраст  
 un (uni) - один (1)  
+uniko - единственно  
 unmaro - один раз  
 ura - ура  
 ##v
@@ -777,8 +846,11 @@ waxmaxine - стиральная машина
 waxurse - енот  
 wayoyame - пикник  
 waytira - вытянуть  
+wenjoworanje - мандарин уншиу  
+westogorile - западная горилла  
 wina - победить  
 ##x
+xalke - чешуя  
 xarke - акула  
 xatan (xatane) - Сатана  
 xawi - мало  
@@ -793,6 +865,8 @@ xopa - покупать (купить)
 xope - покупка (шоппинг)  
 xukarbete - сахарная свёкла  
 xukare - сахар  
+xukargrase - сахарный тростник  
+xukaroranje - апельсин  
 ##y
 yemenia - Йемен  
 yesus - Иисус  
@@ -820,6 +894,7 @@ zinke - цинк
 zire - тмин  
 zone - пояс (зона)  
 zonge - кол  
+zongominte - мята колоси́стая  
 zuke - этнос  
 zuki - этнический  
 zukomedi - межэтнический  

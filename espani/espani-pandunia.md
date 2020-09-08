@@ -4,6 +4,7 @@ a (hacia) - pa
 abedul - berje  
 abeja - melvespe  
 abeja o avispa - vespe  
+abeto - abite  
 abierto (extenso) - maidani  
 abierto - kayi  
 abirse - kayu  
@@ -15,7 +16,7 @@ abono orgánico (compost) - biwcaniver
 aborigen - aslaustrali  
 abrepuño - solsentaure  
 abrigo (chaqueta) - kote  
-abril - mes 4 (mes cari)  
+abril - carmese  
 abrir - kaya  
 abuela - lawmame  
 aburrido - bori  
@@ -37,6 +38,7 @@ acordarse - mema
 acortar (abreviar) - korta  
 acostar (poner) - kuxa  
 acostarse (echarse, tenderse, tumbarse) - kuxu  
+actinia (anémonas de mar) - hayfule  
 actinio - acinium  
 actor (actriz) - roler  
 actuar (hacer un papel) - rola  
@@ -53,6 +55,7 @@ adjetivo - sifloge
 adoquín - cirkoxeke  
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
+adormidera (amapola real) - sonpapile  
 adulterio - zine  
 adulto - mature  
 adverbo - modologe  
@@ -66,7 +69,7 @@ africano - afriki
 agacharse - indosida  
 agitar (sacudir) - sisma  
 agorafobia - maidanfobia  
-agosto - mes 8 (mes bali)  
+agosto - balomese  
 agradecer - danka  
 agresivo - agresi  
 agrio (ácido) - suani  
@@ -97,9 +100,10 @@ alemán - doici
 alfabeto - abace  
 alfabeto cirílico - kirili abace  
 alfabeto latino - latini abace  
-alfiler (aguja) - pine  
+alfiler (espina, aguja) - pine  
 alfombra (tapete) - taltexe  
 alga - alge  
+algas pardas - brunalge  
 algién - koy ren  
 algo - koy xey  
 algodón - gotone  
@@ -122,6 +126,7 @@ aluminio - alumine
 aló - halow  
 alófono - alfone  
 amable (atento, tierno, dulce) - jentili  
+amapola silvestre - maidanpapile  
 amar - ama  
 amar románticamente - romansa  
 amargo - kuwi  
@@ -178,14 +183,17 @@ aplicación - aplike
 aprender (estudiar) - darsa  
 aproximadamente - yago  
 apuntar (indicar) - ponta  
+apuntar - dika  
 Arabia Saudita - saudi arabia  
 aracnofobia - aranfobia  
 araña - arane  
 arboreto - mokojongoparke  
+arbusto (mata) - tali moke  
 archipiélago - nesia  
 archipiélago de Hawái - hawayi nesia  
 arcilla (barro) - glutopote  
 arco - arke  
+arco iris - rangarke  
 ardiente (encendido) - hogi  
 ardilla - ekore  
 arena - rege  
@@ -258,6 +266,7 @@ aventura - aventure
 aventurero - aventurer  
 avisar (notificar) - notisa  
 aviso (notificación) - notise  
+avispero (colmena) - vesponizde  
 axproximarse - kariba  
 ay! - ay  
 ayer - cendeno  
@@ -274,6 +283,8 @@ azúcar - xukare
 año - nen (nene)  
 ##b
 babor - botolefte  
+bacalao - kade  
+bacalao común - atlantokade  
 baguette - batonpang  
 bah - bah  
 Bahamas - bahamia  
@@ -327,6 +338,7 @@ Belarús - belarusia
 Belice - belizia  
 belio - bel  
 belleza (hermosura) - sundaria  
+bellota - balutopale  
 beneficioso (bueno) - ewi  
 bengalí - bangli  
 Benín - beninia  
@@ -368,6 +380,7 @@ bombear - pompa
 boro - boron  
 Bosnia y Herzegovina - bosnia  
 bosque (jungla, selva) - jangale  
+bosque de algas - algojangale  
 bota - bute  
 botella - botele  
 Botsuana - cuania  
@@ -524,6 +537,7 @@ causar - saba
 cavar (excavar) - kava  
 cazador - saider  
 cazar (pescar) - saida  
+caña de azúcar - xukargrase  
 cañonear - daypawer  
 cañón (barranco, quebrada) - kanione  
 cañón - daypawe  
@@ -559,10 +573,12 @@ cero (ninguno) - nol (noli)
 cerradura (candado) - sore  
 cerrar con cremallera - zipa  
 cerveza (birra) - bire  
+cerámica - serame  
 cesio - cesium  
 cesta (canasta, barquilla, aro) - baske  
 chacal - xakale  
 Chad - cadia  
+champiñón (seta) - fungopale  
 champú - kexsabune  
 chamán (brujo, hechicero) - xamane  
 chapati (pan sin levadura) - capate  
@@ -644,6 +660,7 @@ colchón - matrase
 colección (grupo, conjunto, montón) - jamia  
 colectivo - jami  
 colgar - penda  
+colmena (panal) - melvesponizde  
 colocar (poner, ubicar) - loka  
 Colombia - kolombia  
 colonia - kolonia  
@@ -655,6 +672,7 @@ color - rang (range)
 colorido - rangi  
 columna - kolume  
 coma - kome  
+combava (lima kafir) - karsolimone  
 comedor - yamkamare  
 comenzar (iniciar, empezar) - kaixa  
 comenzar (iniciarse, empezar) - kaixu  
@@ -731,6 +749,7 @@ convenion (pacto) - kontrate
 copiar (réplica) - kopiya  
 copiar (réplica) - kopiye  
 copérnico - kopernikium  
+coral - korale  
 corazón (núcleo) - kerne  
 corazón - xime  
 Corea - cosenia  
@@ -774,6 +793,7 @@ cremoso - kremi
 crepa (crep, tortilla de trigo) - fransi krepe  
 creyente - diniste  
 criado (sirviente) - server  
+criar - jenisa  
 crimen (delito) - krime  
 criminal - krimi  
 criptón (kriptón) - kriton  
@@ -844,7 +864,7 @@ cúpula - kupe
 dado - dade  
 damas - damogeme  
 dar - dona  
-dar a luz (enngendrar, parir) - jena  
+dar a luz (enngendrar, parir, procrear) - jena  
 darmstatio - darmositium  
 darse cuenta (notar) - buda  
 darwinismo - darwinistia  
@@ -862,7 +882,7 @@ deber (necesitar) - bixu
 deber (se recomienda) - xudu  
 deci- - deco-  
 decibelio - decobel  
-deciembre - mes 12 (mes desi duli)  
+deciembre - desdulmese  
 decir (hablar) - loga  
 decoración (adorno) - sundardake  
 decorar (adornar) - sundardaka  
@@ -967,12 +987,15 @@ dolar - dolare
 doler (hacer daño) - paxa  
 dolor - tunge  
 doloroso - paxi  
+domar (amansar) - dosila  
+domesticado - dosiljenisi  
+domesticar (cultivate) - dosiljenisa  
 dominar - mesta  
 domingo - var 7 (var seti)  
 Dominica - dominikia  
 dominio (reinado) - kratia  
 dominó - dominogeme  
-doméstico - domi  
+doméstico (domesticado) - domi  
 dormir - sonu  
 dormitorio - sonkamare  
 dos (2) - duli  
@@ -1051,16 +1074,19 @@ encanto - carme
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
 encontrarse (estar, situarse) - loku  
+encurtido - sirkopurxipi  
+encurtir - sirkopurxipa  
 enderezar (poner recto) - orta  
 endónimo - indoname  
 energía - energe  
 energía nuclear - kerni energe  
-enero - mes 1 (mes uni)  
+enero - unmese  
 enfermedad - patia  
 enfermo - pati  
 engañar - truka  
 engendrador - geter  
 enojado (furioso) - furi  
+enredadera - eskaltane  
 ensalada - salade  
 ensayo (ejercitio) - lenxe  
 ensayo (redacción) - eseye  
@@ -1091,6 +1117,7 @@ erróneo - galti
 es decir (en otras palabras) - alnamo  
 escalar - eskala  
 escalera - eskale  
+escama - xalke  
 escandio - skandium  
 escaparse (evitar, huir) - bega  
 escapatoria - cute  
@@ -1209,7 +1236,7 @@ fascista - faxiste
 fatiga - fatigia  
 favorito (preferido) - favori  
 faz (faceta) - fase  
-febrero - mes 2 (mes duli)  
+febrero - dulmese  
 fecha - nenmesdene  
 felicitar - barka  
 feliz - suki  
@@ -1317,6 +1344,8 @@ gasificar - gasa
 gasificarse - gasu  
 gasolina (bencina) - benzine  
 gato - maw (mawe)  
+gato manchado (tigrillo) - bagroselote  
+gato tigre (maracayá) - maragaye  
 gay (homosexual) - geyi  
 gañar (triunfar, lograr, desrotar) - wina  
 gel (jalea, gelatina) - jele  
@@ -1353,6 +1382,9 @@ golpear (pegar) - darba
 goma (caucho, hule) - gome  
 goma arábiga - arabobabule  
 goniómetro (medidor de ángulos) - gonmeter  
+gorila - gorile  
+gorila occidental - westogorile  
+gorila oriental - dongogorile  
 gota - yote  
 grabado (sello, estampando) - cape  
 gracias - danke  
@@ -1415,7 +1447,7 @@ hacedor (perpetrador) - er (ere)
 hacer (verbo activo) - isa  
 hacer - fata  
 hacer callar (chist) - xixo  
-hacer posar - poza  
+hacer posar (plantar) - poza  
 hacer un nudo - noda  
 hacer yoga - yoga  
 hacha - futawe  
@@ -1432,6 +1464,7 @@ Hawái - hawayia
 hebreo - ibri  
 hecho - fate  
 helado - aiskrem  
+helecho - parne  
 helicóptero - helisvimane  
 helio - helium  
 heno - gangrase  
@@ -1449,6 +1482,7 @@ hexaedro (cubo) - sisfase
 hexágono - sisgone  
 hidrógeno - hidre  
 hielo - aise  
+hierbabuena - zongominte  
 hierro - fere  
 higiene - hijenia  
 hija - femi pute  
@@ -1470,6 +1504,7 @@ hockey sobre hielo - aishoke
 hoja - warke  
 holmio - holmium  
 holograma - holgrafe  
+holoturia (pepino de mar) - hayhiyare  
 hombre (señor) - maturi man  
 hombro - kante  
 homorromántico - samromansi  
@@ -1477,7 +1512,7 @@ homosexual - samseksi
 homónimo - samname  
 Honduras - hondurasia  
 Hong Kong - hongong  
-hongo - funge  
+hongo (moho) - funge  
 hora - hore  
 horizontal (lateral) - horizoni  
 horizonte - horizone  
@@ -1493,6 +1528,7 @@ huevo - ande
 humanidad (género humano) - insania  
 humanismo - insanistia  
 humanista - insaniste  
+humano - insaniki  
 humanístico - insanisti  
 humo - dumane  
 humor (gracia) - yumore  
@@ -1653,8 +1689,8 @@ juez (árbitro, réferi) - hakimer
 jugador - gemer  
 jugar un juego - gema  
 jugo (zumo) - juse  
-julio - mes 7 (mes seti)  
-junio - mes 6 (mes sisi)  
+julio - setomese  
+junio - sismese  
 juntos - kono  
 juntura - samune  
 Jupiter - muxing  
@@ -1669,6 +1705,7 @@ karate - karate
 karité - karite  
 Karnataka - karnadia  
 Kazajistán (Kazakistan) - kazakia  
+kelp - warkalge  
 kelvin - kelvine  
 Kenia - kenia  
 kilo- - kilo-  
@@ -1679,6 +1716,7 @@ Kiribati - kiribatia
 kiwi fruta - kiwe  
 konkani - konkani  
 Kosovo - kosovia  
+kumquat (quinoto) - auroranje  
 Kuwait - kuwaitia  
 kétchup - kecape  
 ##l
@@ -1728,6 +1766,7 @@ letra negrita - grosi harfe
 levadura - hamire  
 levantar (elevar) - gawa  
 lexema - logeme  
+leño (tronca) - mokotane  
 león - singe  
 liar (enrollar) - rula  
 liberal - huristi  
@@ -1749,6 +1788,7 @@ ligero (leve, vago, débil, borroso) - mirdi
 ligero - legi  
 lila (de color lila) - lilaki  
 lila - lilake  
+limero - kagazolimone  
 limpiador - safer  
 limpiar - safa  
 limpio - safi  
@@ -1758,6 +1798,7 @@ lince rojo (gato montés) - lalolince
 lindo (precioso) - kawayi  
 linfa - linfe  
 lingüística - baxlojia  
+liquen - algofunge  
 lirio - susane  
 lista - liste  
 listo (preparado) - redi  
@@ -1811,6 +1852,7 @@ lógica - logike
 Macao - makaw  
 Macedonia del Norte - nordi makedonia  
 macrial (militar) - jengi  
+macroalga - hayalge  
 Madagascar - madagasia  
 madera - mokomate  
 madre (mamá) - mame  
@@ -1841,6 +1883,7 @@ malo - mal (mali)
 Malta - maltia  
 mamífero - mamale  
 mandar (ordenar) - komanda  
+mandarina (tangerina) - laloranje  
 manga - kamisi xake  
 manganeso - mangane  
 mangosta - munguse  
@@ -1848,6 +1891,7 @@ mangostán (jobo de la India) - manguse
 maniqueísmo - manihayistia  
 mano - hande  
 mano - mange  
+manso (dócil, obediente) - dosili  
 mantener (detener) - estasa  
 mantequilla - makane  
 manual - handi  
@@ -1880,7 +1924,7 @@ marrón - bruni
 Marte - marse  
 martes - var 2 (var duli)  
 martillo (mazo) - hamare  
-marzo - mes 3 (mes tini)  
+marzo - tinmese  
 marítimo - hayi  
 mas - max (maxo)  
 masa (trozo, pedazo) - mase  
@@ -1893,7 +1937,7 @@ material - mati
 Mauricio - morisia  
 mauritania - muritania  
 maya - mayane  
-mayo - mes 5 (mes limi)  
+mayo - limomese  
 mayor - maxori  
 mayoría - maxoria  
 Mayotte (Mahoré) - mayotia  
@@ -1933,6 +1977,8 @@ menor (leve) - minori
 menos - min (mino)  
 mensaje - anjile  
 mensajero - anjiler  
+menta - minte  
+menta acuática - suyminte  
 mental (psíquico) - ruhi  
 mercado (bazar) - bazare  
 Mercurio - budan  
@@ -1946,10 +1992,11 @@ metal pesado - barmetale
 meter prisa - yala  
 metro - metre  
 metro - tuneltren  
-mez - mes (mese)  
+mez - mese  
 mezclar - mixa  
 mezquino (antipático) - zalimi  
 mi - mi  
+micelio - fungonete  
 micro- - mikro-  
 Micronesia - mikronesia  
 Midsommar - medoleti den  
@@ -2043,8 +2090,10 @@ multicultural - polkulturi
 multiculturalismo - polkulturistia  
 multinacional - polnasi  
 mundo - dunia  
+murciélago - feymuxe  
 muro (muralha) - wale  
 musgo - mose  
+musgoso - mosi  
 musulmán - islamiste  
 muy - poli  
 Myanmar (Birmania) - mianmia  
@@ -2077,8 +2126,10 @@ Namibia - namibia
 nano- - nano-  
 nanometre - nanmetre  
 naranja - oranje  
+naranjo amargo - kuworanje  
 nariz - nose  
 nasal - nosi  
+nautilo - nautile  
 navegar (ir en bote) - bota  
 Navidad - kristojen  
 Nazi - naciste  
@@ -2103,6 +2154,7 @@ neuropatía - neurpatia
 newton (N) - nuton  
 neón - neon  
 Nicaragua - nikaragia  
+nido (avispero, hormiguero, ratonera) - nizde  
 nieve - hime  
 Nieves - nevis  
 Nigeria - naijiria  
@@ -2117,7 +2169,7 @@ niño o niña - bace
 no - no  
 no binario (género) - bise  
 nobelio - nobelium  
-nobiembre - mes 11 (mes desi uni)  
+nobiembre - desunmese  
 noche (tarde) - xame  
 noche - noce  
 nombre - nam (name)  
@@ -2136,6 +2188,7 @@ nota - note
 notar (observar) - nota  
 notar el sabor - gusta  
 noticias - habare  
+novato - novike  
 novedad - nove  
 nube - megame  
 nudismo - nudistia  
@@ -2165,8 +2218,9 @@ oblicuo (torcido) - terci
 obsidiana - osidiane  
 occidental - westi  
 Oceanía - oseania  
+ocelote - oselote  
 ocho (8) - bali  
-octubre - mes 10 (mes desi)  
+octubre - desmese  
 ocultar (esconder) - sira  
 ocupado (atareado) - bizi  
 océano - dayhaye  
@@ -2215,6 +2269,7 @@ ornitorrinco - batokrote
 oro - aure  
 oromo - oromi  
 Oromía - oromia  
+orquídea - orkide  
 ortogonal - ortogoni  
 oscuro - oskuri  
 Osetia del Sur - sudi iria (alonia)  
@@ -2229,6 +2284,7 @@ oveja - mehe
 oxígeno - okse  
 oír (escuchar) - auda  
 ##p
+paciente - patike  
 pacifismo - pacistia  
 pacifista - paciste  
 padre (papá) - pape  
@@ -2382,6 +2438,7 @@ pestaña - kankexe
 peto - sinplate  
 petróleo - petronefte  
 pez (pescado) - fixe  
+pez globo - balonfixe  
 peñasco (pedrusco) - dayxeke  
 piano - piane  
 pidgin - pijine  
@@ -2393,11 +2450,13 @@ pila (batería) - batre
 pilaf (pulaw) - polave  
 piloto - piloter  
 pimienta - pipre  
+pimpollo - jovani moke  
 pincho (brocheta) - kababe  
 pingüino - pinguine  
 pino - songe  
 pintar - penta  
 pintor - penter  
+piperita - piprominte  
 pirata - pirater  
 piratería - piratia  
 pirámide - pirame  
@@ -2438,6 +2497,7 @@ pocos - xawi
 poder (autoridad, competencia) - sultane  
 poder - abla  
 podrido (cariado) - pudi  
+podsol - huydarte  
 poema - xire  
 poeta - xirer  
 polaco - polski  
@@ -2456,6 +2516,7 @@ polígono - polgone
 política - politike  
 político - politiker  
 político - politiki  
+pomelo (toronja) - putawlimone  
 por ejemplo - misalo  
 porno - porne  
 pornografía - pornografia  
@@ -2559,6 +2620,7 @@ página - warkolate
 página wiki - wike  
 pájaro (ave) - pakse  
 pánico - panike  
+pícea - pise  
 pólvora - barude  
 póquer - poke  
 público - demi  
@@ -2576,6 +2638,7 @@ queso fresco - panire
 quilate - kirate  
 quiosco (kiosco) - kioske  
 quitar (eliminar, borrar) - anzayisa  
+quitar (pelar) - tira pile  
 quién - ki ren  
 qué - ke  
 qué tipo de - ki yangi  
@@ -2647,6 +2710,7 @@ reliquia - purane
 reloj - reloje  
 relámpago - eletrorade  
 remitente - miser  
+remojar (marinar, encurtir, macerar) - purxipa  
 remolacha azucarera - xukarbete  
 rendirse (darse por vencido) - salima  
 renio - renium  
@@ -2755,12 +2819,18 @@ salchicha - sosise
 salida - cutomun  
 salino - sali  
 salir (irse) - cuta  
+salmón (trucha) - samone  
+salmón chum (keta) - bakosamone  
+salmón del Atlántico - atlantosamone  
+salmón rojo - lalsamone  
+salmón rosado - rozosamone  
 salsa - sose  
 saltar (brincar) - jampa  
 salud - sihe  
 saludable - sihi  
 saludar - salama  
 saludo - salame  
+salvaje - ekojeni  
 salvaje - wildi  
 salón de té - cayeria  
 samario - samarium  
@@ -2810,7 +2880,7 @@ sentarse - sidu
 sentido - sense  
 sentir (detectar) - sensa  
 sentir - emosa  
-septiembre - mes 9 (mes navi)  
+septiembre - navomese  
 ser (estar) - esa  
 ser - ese  
 ser de - tenu  
@@ -2948,6 +3018,7 @@ Taiwán - taiwania
 taladrar (perforar) - fora  
 talio - talium  
 taller - eria  
+tallo - tane  
 tamaño - dayia  
 tambor - gume  
 tamil - tamili  
@@ -3004,6 +3075,7 @@ terbio - terbium
 terminar (acabar) - fina  
 termómetro - termometer  
 terracota - bekopote  
+terraplanista - platozemiste  
 terremoto - zemsisme  
 terreno (solar) - zemtike  
 terreno - zemforme  
@@ -3086,6 +3158,8 @@ Trinidad y Tobago - trinidade e tobage
 triste - duki  
 triángulo - tingone  
 trompo - tole  
+trucha arcoíris - rangarkosamone  
+trucha marrón - brunsamone  
 truco - truke  
 truenos (estruendo) - grome  
 tránsito - transe  
@@ -3132,6 +3206,7 @@ universidad - daydarsia
 unión - unisia  
 Unión Europea - europi unisia  
 uno (1) - un (uni)  
+unshu mikan - wenjoworanje  
 uranio - uranium  
 Urano - urane  
 urbano - nagri  
@@ -3182,6 +3257,7 @@ verano - lete
 verbo - karloge  
 verdadero - veri  
 verde - lugi  
+verde limón - limonlugi  
 verduras - coye  
 vergüenza (pena) - xarme  
 verme - verme  
@@ -3293,5 +3369,7 @@ zulú - zuli
 índice de contenidos - tenliste  
 ósmosis - osme  
 óxide - okside  
+únicamente - uniko  
 único - moni  
+único - uniki  
 útil (beneficioso) - faidi  

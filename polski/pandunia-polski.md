@@ -187,6 +187,7 @@ balde - wiadro
 bali - osiem (8)  
 balibali - różny (różnorodny)  
 balkone - balkon; ganek  
+balomese - listopad  
 balone - balon  
 banane - banan  
 bande - zespół (drużyna, grupa)  
@@ -373,6 +374,7 @@ cape - odcisk, ślad; stempel, pieczęć
 cargone - kwadrat (czworokąt, czworobok, tetragon)  
 cari - cztery (4)  
 carme - czar (urok, wdzięk)  
+carmese - lipiec  
 cate - dach  
 cay (caye) - herbata  
 cayeria - herbaciarnia  
@@ -485,7 +487,6 @@ defta - zapisać (zarejestrować)
 defte - rejestr  
 deftia - register  
 deftobuke - dziennik pokładowy (notatnik)  
-deki - -owy (-ny, okazujący cechę)  
 deme - lud, społeczeństwo  
 demgrafia - demografia  
 demi - publiczny  
@@ -496,10 +497,13 @@ demone - demon
 den (dene) - dzień  
 denga - czekać  
 denyame - obiad, lunch  
+desdulmese - kwiecień  
 desene - rysunek, obraz  
 desi - dziesięć (10)  
+desmese - luty  
 destina - przeznaczyć  
 destine - przeznaczenie, los  
+desunmese - marzec  
 detale - detal, szczegół  
 dew (dewe) - bóg, bóstwo  
 dewi - boski  
@@ -510,6 +514,7 @@ dewlojia - teologia
 dewsage - mit, boska opowieść  
 dexe - kraj, ziemia  
 dexrene - obywatel  
+dika - celować  
 dike - cel  
 dine - religia, wyznanie  
 dinge - kolec  
@@ -559,6 +564,7 @@ duli ban - dwukrotnie (dwa razy)
 duli o tini - parę  
 dulistia - dualizm  
 dulmeni - dwuznacznik  
+dulmese - maj  
 dulo fena - przepołowić (podzielić przez dwa)  
 dulo multa - podwajać (podwoić, pomnożyć przez dwa)  
 dulromansi - biromantyczny  
@@ -1021,6 +1027,7 @@ ideyi - pojęciowy
 idiote - idiota  
 idioti - głupi (idiotyczny)  
 idiotia - idiotyzm (głupota)  
+iki - -owy (-ny, okazujący cechę)  
 impera - władać, panować, rządzić jako imperator  
 imperer - imperator  
 imperia - imperium  
@@ -1041,6 +1048,7 @@ injener - inżynier
 insan (insane) - człowiek, istota ludzka  
 insani hake - prawa człowieka  
 insania - ludzkość, rodzaj ludzki  
+insaniki - ludzki  
 insaniste - humanista  
 insanisti - humanistyczny  
 insanistia - humanizm  
@@ -1518,6 +1526,7 @@ limfase - pięciościan (pryzmat)
 limgone - pięciokąt (pentagon)  
 limi - pięć (5)  
 limite - limit, granica  
+limomese - sierpień  
 limone - cytryna  
 limonrangi - żółty  
 lince - ryś  
@@ -1709,19 +1718,7 @@ meninge - opona mózgowa
 meningitis - zapalenie opon mózgowych  
 mente - rada, porada  
 menter - doradca (mentor)  
-mes (mese) - miesiąc  
-mes 1 (mes uni) - styczeń  
-mes 10 (mes desi) - luty  
-mes 11 (mes desi uni) - marzec  
-mes 12 (mes desi duli) - kwiecień  
-mes 2 (mes duli) - maj  
-mes 3 (mes tini) - czerwiec  
-mes 4 (mes cari) - lipiec  
-mes 5 (mes limi) - sierpień  
-mes 6 (mes sisi) - wrzesień  
-mes 7 (mes seti) - październik  
-mes 8 (mes bali) - listopad  
-mes 9 (mes navi) - grudzień  
+mese - miesiąc  
 mesta - być mistrzem (być ekspertem)  
 mester - mistrz (ekspert)  
 meta - zmierzyć  
@@ -1874,6 +1871,7 @@ nasmedi - międzynarodowy
 natre - sód  
 nauria - Nauru  
 navi - dziewięć (9)  
+navomese - grudzień  
 nawati - nahuatl  
 nederlandi antilia - Antyle Holenderskie  
 nederlandia - Holandia (Królestwo Niderlandów)  
@@ -1962,6 +1960,7 @@ nova - odnowić, odnawiać, uczynić nowym
 novi - nowy  
 novi kaledonia - Nowa Kaledonia  
 novi zilandia - Nowa Zelandia  
+novike - nowicjusz  
 novo - właśnie, dopiero co, ostatnio, niedawno  
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
@@ -2081,6 +2080,7 @@ paste - pasta
 patate - ziemniak  
 pati - chory  
 patia - choroba  
+patike - pacjent  
 patojener - patogen  
 patolojia - patologia  
 paunde - funt (£)  
@@ -2460,6 +2460,7 @@ server - sługa
 serye - seria, szereg  
 sesame - sezam  
 seti - siedem (7)  
+setomese - październik  
 sexel nesia - Seszele  
 si - tak  
 sibiria - Syberia  
@@ -2488,6 +2489,7 @@ sirke - ocet
 sisfase - sześcian (kostka)  
 sisgone - sześciokąt (sześciobok)  
 sisi - sześć (6)  
+sismese - wrzesień  
 sismolojia - sejsmologia  
 sisteme - system  
 sistemi - systemowy  
@@ -2669,6 +2671,7 @@ tinga - zatrzymać
 tingone - trójkąt  
 tingu - zatrzymać się  
 tini - trzy (3)  
+tinmese - czerwiec  
 tira - ciągnąć  
 tira milke - wydoić, doić  
 tirane - tyran  
@@ -2735,6 +2738,7 @@ unisi arabi emiria - Zjednoczone Emiraty Arabskie
 unisia - unia  
 unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
+unmese - styczeń  
 unmete - jednostka miary  
 unrangi - jednokolorowy (monochromatyczny)  
 ura - wiwatować; hura  

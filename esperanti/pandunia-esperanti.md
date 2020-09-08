@@ -347,6 +347,7 @@ denga - atendi
 denyame - tagmanĝo  
 desene - desegno  
 desi - dek (10)  
+deskili - dek miloj  
 detale - detalo  
 dew (dewe) - dio  
 dewi - dia  
@@ -354,6 +355,7 @@ dewkratia - teokratio
 dewlojia - teologio  
 dewsage - mito  
 dexe - lando  
+dika - celi  
 dike - celo  
 dine - religio  
 dinge - najlo  
@@ -707,6 +709,7 @@ informe - informacio
 insan (insane) - homo  
 insani hake - homaj rajtoj  
 insania - homaro  
+insaniki - humana  
 insanistia - homismo  
 interesi - interesa  
 inxala - esperi  
@@ -1048,7 +1051,7 @@ mema - memori
 member - membro  
 meme - memoro  
 mene - signifo  
-mes (mese) - monato  
+mese - monato  
 meta - mezuri  
 metale - metalo  
 mete - mezuro  
@@ -1172,6 +1175,7 @@ nota - rimarki
 note - noto (rimarko, komento)  
 notobuke - kajero  
 novi - nova  
+novike - novulo  
 novo - ĵus  
 nuton - newtono (N)  
 o - aŭ  
@@ -1227,6 +1231,7 @@ pasi - pasinta
 pasporte - pasporto  
 patate - terpomo  
 pati - malsana  
+patike - paciento  
 patolojia - patologio  
 pawe - fusilo  
 pay (paye) - torto  
@@ -1543,6 +1548,8 @@ umure - aĝo
 un (uni) - unu (1)  
 unale - unu la alian (reciproke)  
 unali - reciproka  
+uniki - sola (ununura)  
+uniko - sole  
 unisia - uniono  
 unmaro - unufoje  
 uranium - uranio  

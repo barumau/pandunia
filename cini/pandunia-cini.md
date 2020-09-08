@@ -1,6 +1,7 @@
 # pandunia-cini
 ##a
 abace - 字母表  
+abite - 冷杉  
 abla - 会  
 abli - 可能  
 aciy - 阿嚏  
@@ -21,6 +22,8 @@ akare - 蜱 (螨)
 akse - 轴线  
 aksente - 重音符号  
 alge - 藻类  
+algofunge - 地衣  
+algojangale - 海藻林  
 ali - 另一  
 alkole - 酒  
 almare - 碗碟橱  
@@ -59,8 +62,11 @@ asli - 原始的
 asme - 气喘  
 aspirine - 阿司匹林  
 ata - 直到  
+atlantokade - 大西洋鱈  
+atlantosamone - 大西洋鮭  
 ato - 连  
 aure - 金  
+auroranje - 金柑  
 aventure - 冒险  
 aventurer - 冒险者  
 avgania - 阿富汗  
@@ -71,10 +77,12 @@ badame - 杏仁 (巴旦木)
 badan (badane) - 身体  
 bagaje - 行李  
 bagre - 虎  
+bagroselote - 小斑虎貓  
 bah - 呸  
 baki - 白  
 bakocoy - 白菜 (小白菜)  
 bakomargarite - 法蘭西菊  
+bakosamone - 大麻哈鱼 (狗鮭)  
 bali - 八 (8)  
 balibali - 各种各样  
 balkone - 阳台  
@@ -131,6 +139,7 @@ botone - 扣子
 botoraite - 右舷  
 boya - 漂浮  
 bruni - 棕色 (色)  
+brunsamone - 褐鳟  
 bufete - 自助餐  
 buke - 书  
 bume - 爆炸  
@@ -171,10 +180,10 @@ dayxeke - 磐石
 debili - 虚弱 (易坏)  
 defbanze - 盾牌  
 defkaske - 盔甲  
-deki - 的  
 destine - 目的地 (命運)  
 dew (dewe) - 神  
 dexrene - 公民  
+dika - 瞄准  
 dike - 目的 (目标)  
 dinamite - 甘油炸药  
 dine - 宗教  
@@ -186,6 +195,8 @@ dobe - 砖
 dolfine - 海豚  
 dome - 房子  
 donge - 东  
+dosila - 驯养  
+dosili - 驯服的  
 duga - 读 (看)  
 duli - 二 (2)  
 dunia - 世界  
@@ -228,6 +239,7 @@ fotominare - 信号
 freme - 框  
 frika - 擦伤  
 fule - 花  
+fungopale - 蘑菇  
 ##g
 gabra - 埋葬  
 gabre - 坟墓  
@@ -251,6 +263,7 @@ glisu - 滑下
 gluti - 黏的  
 glutopote - 黏土  
 gole - 目的  
+gorile - 大猩猩  
 gotone - 棉  
 governe - 政府  
 grafsage - 漫画  
@@ -262,6 +275,7 @@ gundene - 殿 (宫殿, 宅第)
 gune - 军队  
 gunrene - 军人  
 gute - 膝  
+guypapile - 鬼罂粟 (東方罌粟)  
 ##h
 habare - 消息  
 haha - 笑  
@@ -272,8 +286,11 @@ hami - 重要
 hamili - 怀孕  
 hande - 手  
 handoxake - 胳膊  
+hayalge - 海藻  
 haye - 海  
+hayfule - 海葵  
 haygune - 海军  
+hayhiyare - 海參  
 helise - 螺旋  
 helisvimane - 直升机  
 helpa - 帮助  
@@ -292,7 +309,9 @@ hoke - 曲棍球
 hore - 小时  
 hotel (hotele) - 旅馆  
 hule - 狐狸  
+huydarte - 灰化土  
 ##i
+iki - 的  
 indosida - 蹲  
 insan (insane) - 人类  
 insani hake - 人权  
@@ -318,9 +337,11 @@ jungogia - 中国
 juse - 汁  
 ##k
 kaboge - 南瓜  
+kade - 鱈  
 kafase - 笼  
 kafe - 咖啡  
 kagaze - 纸  
+kagazolimone - 墨西哥萊檬  
 kaixa - 开始  
 kalamare - 鱿鱼  
 kalame - 笔  
@@ -354,6 +375,7 @@ karloge - 动词
 karmisa - 提交  
 karote - 红萝卜  
 karsi - 粗糙  
+karsolimone - 箭叶橙  
 kaske - 壳 (皮)  
 kata - 切  
 katuse - 仙人掌  
@@ -380,6 +402,7 @@ konserte - 音乐会
 kontini - 指针式的  
 kontrate - 公約  
 kope - 杯子  
+korale - 珊瑚  
 korde - 线  
 kornomelone - 刺角瓜  
 kortokrokodile - 短吻鳄  
@@ -403,6 +426,8 @@ lage - 湖
 lalbawxeke - 红宝石  
 lali - 红  
 lalolince - 短尾貓  
+laloranje - 柑橘 (红橘)  
+lalsamone - 紅鮭  
 lame - 喇嘛  
 lampe - 灯  
 lancografa - 投射  
@@ -457,6 +482,7 @@ luza tena - 亏损 (失去)
 ##m
 magribia - 摩洛哥  
 maidane - 广场  
+maidanpapile - 虞美人 (雛罌粟)  
 makanfule - 蒲公英  
 malsinyi - 不祥的  
 mame - 妈妈  
@@ -465,6 +491,7 @@ manihayistia - 摩尼教
 manire - 方式  
 manse - 肉  
 mantole - 斗篷  
+maragaye - 長尾虎貓  
 mare - 次 (度, 遍)  
 marjele - 海蜇  
 martate - 海岸  
@@ -484,6 +511,7 @@ medi - 中型
 medikosuy - 药水  
 megame - 云  
 melone - 厚皮甜瓜 (蜜瓜)  
+melvesposanduke - 蜂箱  
 mema - 记得 (回忆)  
 meme - 记忆 (记性)  
 mene - 意义  
@@ -495,6 +523,7 @@ mey (meyi) - 每
 meze - 桌子  
 migra - 搬家  
 milkokardone - 水飞蓟  
+minte - 薄荷  
 mirdi - 微弱的  
 misalo - 比如  
 misria - 埃及  
@@ -503,6 +532,7 @@ mite - 会议
 moke - 树木  
 mokojanger - 木匠  
 mokomate - 木材  
+mokotane - 原木  
 mole - 摩尔 (单位)  
 molekule - 分子  
 molia - 磨坊  
@@ -511,6 +541,7 @@ mome - 我们
 moni - 唯一  
 monloge - 独白  
 mono - 只有 (惟独)  
+mose - 苔藓  
 mule - 根  
 mumcape - 封印  
 mumomelone - 冬瓜 (白瓜)  
@@ -519,6 +550,7 @@ muskulbine - 健美运动
 nade - 河 (江)  
 namkitaba - 签署  
 nasmedi - 国际  
+nautile - 鹦鹉螺  
 navi - 九 (9)  
 nefre - 肾脏  
 nefte - 油  
@@ -529,8 +561,10 @@ nidoxina - 信赖
 nidoxinabli - 忠实  
 nili - 蓝色  
 nilsentaure - 矢車菊  
+nilseramxinge - 茜草花  
 niponia - 日本  
 nixe - 壁龛  
+nizde - 巢 (穴)  
 no - 不  
 noce - 夜  
 nombre - 数  
@@ -538,6 +572,7 @@ norde - 北
 nostalgia - 怀旧  
 note - 便条  
 novi - 新  
+novike - 新手  
 o - 或  
 ##o
 okside - 氧化物  
@@ -546,7 +581,9 @@ oranje - 橙子
 oranji - 橙色  
 ore - 耳  
 oritis - 耳炎  
+orkide - 兰花  
 orti - 直  
+oselote - 虎貓  
 osidiane - 黑曜岩  
 ostojamia - 骨骼  
 ##p
@@ -563,8 +600,10 @@ pape - 爸爸
 parame - 参数  
 parcokayu - 爆裂  
 parke - 园  
+parne - 蕨  
 pasporte - 护照  
 pastopetre - 岩漿  
+patike - 患者 (病患)  
 patojener - 病原体  
 patolojia - 病理学  
 pawe - 手枪  
@@ -583,6 +622,8 @@ pile - 皮
 pine - 别针  
 pinkardone - 大翅蓟  
 pipre - 胡椒  
+piprominte - 辣薄荷  
+pise - 云杉  
 plati zemkaskia - 板块构造论  
 platistan - 平原  
 pliza - 请  
@@ -597,8 +638,11 @@ pudinge - 布丁
 pudu - 腐烂  
 pule - 桥  
 pume - 美洲獅 (山狮)  
+purxipa - 浸泡  
+putawlimone - 葡萄柚  
 putong (putongi) - 普通  
 ##r
+rangarkosamone - 虹鱒  
 rangomate - 染料  
 rapidi - 快  
 rari - 稀有 (稀少的)  
@@ -616,6 +660,7 @@ roketolancer - 火箭筒
 romkamile - 果香菊  
 rototafune - 飓风 (台风)  
 roze - 玫瑰  
+rozosamone - 粉紅鮭  
 rupoboni - 好看  
 ##s
 sa linye - 在线  
@@ -643,6 +688,7 @@ seme - 种
 semi - 种子的  
 sense - 感觉  
 senter - 觸手  
+serame - 陶瓷  
 sere - 锯子  
 serye - 系列  
 seti - 七 (7)  
@@ -654,6 +700,7 @@ sihi - 健康
 sikliste - 骑自行车的人  
 sile - 丝绸  
 sira - 隐藏  
+sirkopurxipe - 腌菜  
 sirplane - 阴谋 (密谋)  
 sisi - 六 (6)  
 soci jinse - 社會性別  
@@ -661,7 +708,9 @@ socia - 社会
 sole - 太阳  
 solfule - 向日葵  
 solsisteme - 太阳系  
+songe - 松  
 sonkamare - 卧室 (寝室)  
+sonpapile - 鴉片罌粟  
 sonu - 睡觉 (困觉)  
 sore - 锁  
 sosise - 香肠  
@@ -674,10 +723,13 @@ susane - 百合花
 suy (suye) - 水  
 suygase - 蒸汽  
 suykaboge - 葫芦  
+suyminte - 水薄荷  
 ##t
 taile - 砖 (瓦)  
 taksometer - 计程器  
+tali moke - 灌木  
 tami - 贪婪的  
+tane - 茎 (梗)  
 tarje - 翻译  
 tate - 岸  
 tazi - 新鲜的  
@@ -701,6 +753,7 @@ time - 队
 tini - 三 (3)  
 tinzonge - 三叉戟  
 tira milke - 拉  
+tira pile - 削 (刮去)  
 tirbatone - 杆  
 toca - 接触  
 tomate - 西红柿  
@@ -741,7 +794,10 @@ wana - 想要 (愿意)
 waxurse - 浣熊  
 wayoyame - 野餐  
 waytira - 拉  
+wenjou - 温州  
+wenjoworanje - 温州蜜柑  
 ##x
+xalke - 鳞  
 xame - 晚上  
 xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
@@ -762,6 +818,7 @@ xofer - 司机
 xopa - 买  
 xope - 购物 (血拼)  
 xukare - 糖  
+xukargrase - 甘蔗  
 xute - 技术  
 ##y
 yexo - 还 (依然)  
@@ -780,5 +837,6 @@ zime - 冬天
 zinje - 姜  
 zire - 孜然  
 zonge - 桩  
+zongominte - 留兰香  
 zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  

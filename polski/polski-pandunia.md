@@ -1,5 +1,5 @@
 # polski-pandunia
--owy (-ny, okazujący cechę) - deki  
+-owy (-ny, okazujący cechę) - iki  
 ##a
 Abchazja - aphazia  
 Abchazja - arcahia  
@@ -259,6 +259,7 @@ cecha, atrybut, własność; -ość - bonsife
 cecha, właściwość, parametr - sife  
 cel - dike  
 cel - gole  
+celować - dika  
 cement - semente  
 centralny (środkowy) - jungi  
 centrować, skupić, skupiać - junga  
@@ -346,7 +347,7 @@ czcić, szanować - puja
 czekać - denga  
 czekolada - cokolate  
 czempion - campion (campione)  
-czerwiec - mes 3 (mes tini)  
+czerwiec - tinmese  
 czerwony - lali  
 cześć, szacunek - puje  
 cztery (4) - cari  
@@ -643,7 +644,7 @@ Grenadyny - grenadin
 Grenlandia - kalalia  
 grom, huk - grome  
 gruby - grosi  
-grudzień - mes 9 (mes navi)  
+grudzień - navomese  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -1069,7 +1070,7 @@ kwadrat (czworokąt, czworobok, tetragon) - cargone
 kwaśny - suani  
 kwestia, problem - masle  
 kwiat - fule  
-kwiecień - mes 12 (mes desi duli)  
+kwiecień - desdulmese  
 kwitnąć, rozkwitnąć, rozkwitać - fulu  
 kąpać się - banyu  
 kąpiel - banye  
@@ -1115,11 +1116,11 @@ liliowy - lilaki
 limfa - linfe  
 limit, granica - limite  
 linia, pas, pręga, smuga - linye  
-lipiec - mes 4 (mes cari)  
+lipiec - carmese  
 lis - hule  
 lista słów - logoliste  
 lista, spis, wykaz - liste  
-listopad - mes 8 (mes bali)  
+listopad - balomese  
 lit - litium  
 litera, znak - harfe  
 litewski - lietuvi  
@@ -1139,13 +1140,14 @@ lubić - fila
 lubić, cieszyć się - suku  
 lud, społeczeństwo - deme  
 ludzie (lud, ludność) - nase  
+ludzki - insaniki  
 ludzkość, rodzaj ludzki - insania  
 Luksemburg - luksemburgia  
 lustro - mirer  
 luteranizm - lutheristia  
 luterański - lutheristi  
 lutet - lutetium  
-luty - mes 10 (mes desi)  
+luty - desmese  
 luźna rozmowa, gadanina - blabla  
 lód - aise  
 ##m
@@ -1158,7 +1160,7 @@ magik, czarownik - mager
 magnes - mangete  
 magnetyczny - mangeti  
 magnez - mangese  
-maj - mes 2 (mes duli)  
+maj - dulmese  
 Majotta - mayotia  
 makaron - miene  
 Makau - makaw  
@@ -1193,7 +1195,7 @@ Mars - marse
 martwić - duku  
 martwy, nieżywy, zabity - morti  
 marynarka (flota) - haygune  
-marzec - mes 11 (mes desi uni)  
+marzec - desunmese  
 marznąć (zamarznąć) - aisu  
 masaż - masaje  
 maska, kamuflaż - maske  
@@ -1246,7 +1248,7 @@ miejsce, lokacja - loke
 miejscowy, lokalny - loki  
 miejski - nagri  
 mielić - molia  
-miesiąc - mes (mese)  
+miesiąc - mese  
 mieszkać - doma  
 mieć (partykuła posiadania) - da  
 mieć (posiadać) - malka  
@@ -1466,6 +1468,7 @@ notatnik - notobuke
 notować, obserwować, zauważyć, zauważać - nota  
 Nowa Kaledonia - novi kaledonia  
 Nowa Zelandia - novi zilandia  
+nowicjusz - novike  
 nowy - novi  
 nożyce, nożyczki - makase  
 nuda (znudzenie) - boria  
@@ -1586,6 +1589,7 @@ oś - akse
 ożeniony, zamężny, w związku małżeńskim - gami  
 ożenić się, poślubić, wyjść za mąż - gama  
 ##p
+pacjent - patike  
 pacyfista - paciste  
 pacyfizm - pacistia  
 paczka, paka - pake  
@@ -1641,7 +1645,7 @@ pauza, przerwa - pauze
 paznokieć - nahune  
 pałac - gundene  
 paść, padać, upaść, upadać - padu  
-październik - mes 7 (mes seti)  
+październik - setomese  
 pchnąć, pchać - puxa  
 pedał - pedale  
 Pekin - beijing  
@@ -2179,7 +2183,7 @@ siedzieć - sida
 siekera, topór - futawe  
 sierociniec, dom dziecka - yatimdome  
 sierota - yatime  
-sierpień - mes 5 (mes limi)  
+sierpień - limomese  
 Sierra Leone - salonia  
 sieć - nete  
 sikać, szczać, oddawać mocz - pixa  
@@ -2288,7 +2292,7 @@ strona (bok) - late
 strona - warkolate  
 stront - estrontium  
 studio (pracownia) - estudia  
-styczeń - mes 1 (mes uni)  
+styczeń - unmese  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parca  
 stłuczony (pęknięty) - parci  
@@ -2696,7 +2700,7 @@ wow!, łoł!, jej! - waw
 wołowina - muhmanse  
 wprost (bezpośrednio) - dixo  
 wprostowywać (wyprostować) - orta  
-wrzesień - mes 6 (mes sisi)  
+wrzesień - sismese  
 wrócić, wracać, wycofać się, wycofywać się - retra  
 wsad, partia, porcja, seria - lote  
 wschodni - dongi  

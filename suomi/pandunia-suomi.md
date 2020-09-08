@@ -182,6 +182,7 @@ baki - valkoinen (valkea)
 balde - sanko (ämpäri)  
 bali - kahdeksan (8)  
 balkone - parveke (kuisti)  
+balomese - elokuu  
 balone - ilmapallo  
 banane - banaani  
 bande - ryhmä (työryhmä, yhtye, bändi)  
@@ -370,6 +371,7 @@ cape - painos (leima)
 cargone - neliö  
 cari - neljä (4)  
 carme - vetovoima (šarmi)  
+carmese - huhtikuu  
 cate - katto (katos)  
 cay (caye) - tee  
 cayeria - teehuone (kahvila)  
@@ -479,7 +481,6 @@ defta - tallentaa (rekisteröidä, kirjata)
 defte - tallenne (rekisteri)  
 deftia - rekisteri (tili)  
 deftobuke - lokikirja  
-deki - -lainen  
 deme - väestö (kansa)  
 demgrafia - väestötiede (demografia)  
 demkrati - demokraattinen  
@@ -489,10 +490,14 @@ demone - demoni (piru)
 den (dene) - päivä  
 denga - odottaa  
 denyame - lounas  
+desdulmese - joulukuu  
 desene - piirustus  
 desi - kymmenen (10)  
+deskili - sata tuhatta  
+desmese - lokakuu  
 destina - määrätä  
 destine - määrä (päämäärä, kohtalo)  
+desunmese - marraskuu  
 detale - yksityiskohta (detalji)  
 dew (dewe) - jumala  
 dewi - jumalallinen  
@@ -502,6 +507,7 @@ dewkratia - teokratia
 dewlojia - teologia  
 dewsage - jumaltaru (myytti)  
 dexe - maa (valtio)  
+dika - tähdätä  
 dike - maali (maalitaulu, kohde)  
 dine - uskonto  
 dinge - naula (piikki)  
@@ -552,6 +558,7 @@ duli ban - kahdesti (kaksi kertaa)
 duli o tini - muutama (pari-kolme)  
 dulistia - dualismi  
 dulmeni - kaksimielinen (kaksimerkityksinen)  
+dulmese - helmikuu  
 dulo fena - puolittaa (jakaa kahdella)  
 dulo multa - tuplata (kertoa kahdella)  
 dumane - savu  
@@ -1000,6 +1007,7 @@ ideyi - käsitteellinen
 idiote - typerys (idiootti)  
 idioti - tyhmä (hölmö)  
 idiotia - tyhmyys (typeryys)  
+iki - -llinen (kantasanalle ominaispiirteinen)  
 impera - hallita yksinvaltaisesti  
 imperer - keisari  
 imperia - keisarikunta  
@@ -1018,6 +1026,7 @@ injener - insinööri
 insan (insane) - ihminen  
 insani hake - ihmisoikeudet  
 insania - ihmiskunta  
+insaniki - inhimillinen  
 insaniste - humanisti  
 insanisti - humanistinen  
 insanistia - humanismi  
@@ -1471,6 +1480,7 @@ limfase - viisitahokas (prisma)
 limgone - viisikulmio  
 limi - viisi (5)  
 limite - raja  
+limomese - toukokuu  
 limone - sitruuna  
 limonrangi - keltainen  
 lince - ilves  
@@ -1659,19 +1669,7 @@ meninge - aivokalvo
 meningitis - aivokalvontulehdus  
 mente - neuvo  
 menter - neuvontantaja (mentori)  
-mes (mese) - kuukausi  
-mes 1 (mes uni) - tammikuu  
-mes 10 (mes desi) - lokakuu  
-mes 11 (mes desi uni) - marraskuu  
-mes 12 (mes desi duli) - joulukuu  
-mes 2 (mes duli) - helmikuu  
-mes 3 (mes tini) - maaliskuu  
-mes 4 (mes cari) - huhtikuu  
-mes 5 (mes limi) - toukokuu  
-mes 6 (mes sisi) - kesäkuu  
-mes 7 (mes seti) - heinäkuu  
-mes 8 (mes bali) - elokuu  
-mes 9 (mes navi) - syyskuu  
+mese - kuukausi  
 mesta - taitaa (olla mestari jskn)  
 mester - mestari (asiantuntija)  
 meta - mitata  
@@ -1825,6 +1823,7 @@ nasmedi - kansainvälinen
 natre - natrium  
 nauria - Nauru  
 navi - yhdeksän  
+navomese - syyskuu  
 nawati - nahuatli  
 nederlandi antilia - Alankomaiden Antillit  
 nederlandia - Alankomaat (Hollanti)  
@@ -1909,6 +1908,7 @@ nova - uudistaa
 novi - uusi  
 novi kaledonia - Uusi-Kaledonia  
 novi zilandia - Uusi-Seelanti  
+novike - noviisi (uusikko, vasta-alkaja)  
 novo - äsken (vasta, juuri)  
 nudi - alaston (paljas, naku)  
 nudiste - nudisti  
@@ -1960,6 +1960,7 @@ paciste - pasifisti
 pacistia - rauhanaate (pasifismi)  
 pada - pudottaa  
 padu - pudota (tipahtaa)  
+paduti - pudonnut (tippunut)  
 pagre - turbaani  
 paka - pakata  
 pake - pakkaus (paketti)  
@@ -2022,6 +2023,7 @@ paste - tahna (tahdas)
 patate - peruna (potaatti)  
 pati - sairas  
 patia - sairaus  
+patike - potilas  
 patojener - patogeeni  
 patolojia - patologia (tautioppi)  
 paunde - punta  
@@ -2090,6 +2092,7 @@ platoniste - platonisti
 platonisti - platoninen  
 platonistia - platonismi  
 platotase - lautanen  
+platozemiste - litteän maapallon kannattaja  
 pliza - pyytää  
 pliza laya - pyytää tulemaan  
 plumbe - lyijy  
@@ -2384,6 +2387,7 @@ server - palvelija (tarjoilija)
 serye - sarja  
 sesame - seesami  
 seti - seitsemän (7)  
+setomese - heinäkuu  
 sexel nesia - Seychellit  
 si - kyllä  
 sibiria - Siperia  
@@ -2413,6 +2417,7 @@ sirplane - juoni (salaliitto)
 sisfase - kuutio (kuusitahokas)  
 sisgone - kuusikulmio  
 sisi - kuusi (6)  
+sismese - kesäkuu  
 sismolojia - seismologia  
 sisteme - järjestelmä (systeemi)  
 site - suurkaupunki  
@@ -2575,6 +2580,7 @@ tinga - pysäyttää
 tingone - kolmio  
 tingu - pysähtyä  
 tini - kolme (3)  
+tinmese - maaliskuu  
 tira - vetää (kiskoa)  
 tira milke - lypsää maitoa  
 tirane - tyranni  
@@ -2634,12 +2640,15 @@ un (uni) - yksi (1)
 unale - toisiaan (keskenään)  
 unali - molemminpuolinen (keskinäinen)  
 undewistia - monoteismi (yksijumalisuus)  
+uniki - ainoa (ainut)  
+uniko - ainoastaan (vain)  
 unisa - yhdistää  
 unisi - yhtenäinen  
 unisi arabi emiria - Yhdistyneet Arabiemiirikunnat  
 unisia - liitto (unioni)  
 unmaro - kerran  
 unmeni - yksimerkityksinen  
+unmese - tammikuu  
 unrangi - yksivärinen  
 ura - hurraa (hurrata)  
 urane - Uranus  
@@ -2708,6 +2717,7 @@ vota - äänestää
 vote - ääni (äänestyksessä)  
 votohake - äänioikeus  
 vulve - häpy (ulkosynnyttimet)  
+vute - esine (tavara)  
 ##w
 wada - luvata  
 waf (wafe) - koira  

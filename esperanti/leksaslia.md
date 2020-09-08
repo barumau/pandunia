@@ -566,7 +566,7 @@
 |**member**|membro|angla:member, hispana:miembro, portugala:membro, franca:membre, japana:メンバー (menbā)|
 |**meme**|memoro|angla:memory, franca:mémoire, hispana:memoria, portugala:memória|
 |**mene**|signifo|araba:(maʿnā), persa:urdua:(ma'ni), hindia:मअनी (maani), svahila:maana, haw:manaʻo, angla:meaning, deu:Meinung|
-|**mes (mese)**|monato|portugala:mês, hispana:mez, rusa:месяц (mesyats), bengala:মাস (mas), svahila:mwezi|
+|**mese**|monato|portugala:mês, hispana:mez, rusa:месяц (mesyats), bengala:মাস (mas), svahila:mwezi|
 |**metale**|metalo|angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)|
 |**mete**|mezuro|angla:meter, hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra|
 |**metode**|metodo|angla:method, hispana:portugala:método, franca:méthode, rusa:ме́тод (métod), turka:metod, malaja:metode|

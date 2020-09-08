@@ -1,5 +1,5 @@
 # suomi-pandunia
--lainen - deki  
+-llinen (kantasanalle ominaispiirteinen) - iki  
 -n (oma) - da  
 ##a
 aakkoset (ABC) - abace  
@@ -38,6 +38,8 @@ aina - pan sate
 aine (materia) - mate  
 aineellinen (materiaalinen) - mati  
 ainoa (ainut) - moni  
+ainoa (ainut) - uniki  
+ainoastaan (vain) - uniko  
 aisti - sense  
 aistia - sensa  
 aivastaa - aciya  
@@ -275,7 +277,7 @@ elegantti - xiki
 elektroni - eletron  
 eli (toisin sanoen) - alnamo  
 elohopea - hurargente  
-elokuu - mes 8 (mes bali)  
+elokuu - balomese  
 eläin - hewane  
 eläintarha - hewanparke  
 elämä (olemassaolo) - jive  
@@ -313,6 +315,7 @@ erottaa (nähdä ero) - hasa
 erä (satsi) - lote  
 esimerkiksi - misalo  
 esimerkki - misale  
+esine (tavara) - vute  
 Espanja - espania  
 esperanto - esperanti  
 essee - eseye  
@@ -440,12 +443,12 @@ hedelmä - pale
 hei (haloo) - halow  
 heijastaa (peilata) - mira  
 heimo - tribe  
-heinäkuu - mes 7 (mes seti)  
+heinäkuu - setomese  
 heittää (paiskata) - lanca  
 helikopteri - helisvimane  
 helium - helium  
 helmi - lule  
-helmikuu - mes 2 (mes duli)  
+helmikuu - dulmese  
 helppo - izi  
 helvetti - narake  
 hengitys (henkäys) - nafase  
@@ -504,7 +507,7 @@ hormoni - hormone
 hotelli - hotel (hotele)  
 houkutella - tenta  
 housut - pante  
-huhtikuu - mes 4 (mes cari)  
+huhtikuu - carmese  
 huippu - pike  
 huivi (šaali) - xale  
 hullu (mieletön) - foli  
@@ -602,6 +605,7 @@ imperialisti - imperiste
 indium - indium  
 Indonesia - indonesia  
 infektio (tartunta) - infekse  
+inhimillinen - insaniki  
 inkivääri - zinje  
 innoittaa (inspiroida) - inspira  
 insinööri - injener  
@@ -681,7 +685,7 @@ joskus - koy sate
 joukkue (tiimi) - time  
 joule (J) - jule  
 joulu - kristojen  
-joulukuu - mes 12 (mes desi duli)  
+joulukuu - desdulmese  
 jousisoitin - ticine  
 joustava (elastinen) - lasti  
 judo - judaw  
@@ -872,7 +876,7 @@ keskusteluhuone - blableria
 kesto (kestoaika) - dure  
 kestää (viedä aikaa) - dura  
 kesä (suvi) - lete  
-kesäkuu - mes 6 (mes sisi)  
+kesäkuu - sismese  
 ketju - silsile  
 ketsuppi - kecape  
 ketterä - ajili  
@@ -1061,7 +1065,7 @@ kurkku - pepine
 kuski (ajuri, ajaja) - xofer  
 kuu - lune  
 Kuuba - kubia  
-kuukausi - mes (mese)  
+kuukausi - mese  
 kuulla (kuunnella) - auda  
 kuulua (olla jkn hallussa) - tenu  
 kuulua (olla jäsenenä) - memba  
@@ -1217,12 +1221,13 @@ lisä- - maxi
 litium - litium  
 litra - litre  
 litteä - plati  
+litteän maapallon kannattaja - platozemiste  
 litši - lice  
 livermorium - livermorium  
 logiikka - logike  
 logofiili - logofiler  
 lohkare (järkäle) - dayxeke  
-lokakuu - mes 10 (mes desi)  
+lokakuu - desmese  
 lokikirja - deftobuke  
 looginen - logiki  
 lopettaa - fina  
@@ -1293,7 +1298,7 @@ maalari - penter
 maalata - penta  
 maali (maalitaulu, kohde) - dike  
 maali (pelissä) - gole  
-maaliskuu - mes 3 (mes tini)  
+maaliskuu - tinmese  
 maanantai - var 1 (var uni)  
 maanjäristys - zemsisme  
 maanviljelijä - nonger  
@@ -1350,7 +1355,7 @@ marja - bere
 markkinaliberalismi - bazarhuristia  
 marmori - kalcokristale  
 Marokko - magribia  
-marraskuu - mes 11 (mes desi uni)  
+marraskuu - desunmese  
 Mars - marse  
 Marshall-saaret - maxel nesia  
 massa - mase  
@@ -1580,6 +1585,7 @@ Norsunluurannikko - kotedivuaria
 nostaa - gawa  
 nostaa pystyyn - liba  
 nousta - gawu  
+noviisi (uusikko, vasta-alkaja) - novike  
 nudismi - nudistia  
 nudisti - nudiste  
 nukke - pupe  
@@ -1884,6 +1890,7 @@ posti (postilähetys) - poste
 postileima - postocape  
 postitoimisto - postia  
 postittaa - posta  
+potilas - patike  
 povi - buste  
 praseodyymi - prasedime  
 presidentti - prezidente  
@@ -1895,6 +1902,7 @@ pronomini - visloge
 prosessi (proseduuri) - prosese  
 protaktinium - protacinium  
 psykologia - ruhlojia  
+pudonnut (tippunut) - paduti  
 pudota (tipahtaa) - padu  
 pudottaa - pada  
 Puerto Rico - portorikia  
@@ -2115,6 +2123,7 @@ sarjakuva - grafsage
 sarvi - korne  
 sarvikuono - kornonose  
 sata (##) - honi  
+sata tuhatta - deskili  
 satakieli - bulbule  
 satama - suyporte  
 satanismi (paholaisenpalvonta) - xatanistia  
@@ -2307,7 +2316,7 @@ syy - sabe
 syyllinen - doxi  
 syylä - zeyile  
 Syyria - suria  
-syyskuu - mes 9 (mes navi)  
+syyskuu - navomese  
 säde - rade  
 sädekehä (halo) - fotocirke  
 säe (riimi) - rime  
@@ -2361,7 +2370,7 @@ tallium - talium
 talvi - zime  
 talvinen - zimi  
 tamil (eräs intialainen kieli) - tamili  
-tammikuu - mes 1 (mes uni)  
+tammikuu - unmese  
 tammipeli - damogeme  
 tanakh - tanah  
 tankki (säiliö) - tanke  
@@ -2484,7 +2493,7 @@ torstai - var 4 (var cari)
 torvi (torvisoitin) - buge  
 tosi (aito) - veri  
 toukka - larve  
-toukokuu - mes 5 (mes limi)  
+toukokuu - limomese  
 Transdnistria - nistria  
 trendi - faxone  
 Trinidad ja Tobago - trinidade e tobage  
@@ -2559,6 +2568,7 @@ työntekijä (työläinen) - karer
 työntää (puskea) - puxa  
 työpöytä (kirjoituspöytä) - karmeze  
 työskennellä - kara  
+tähdätä - dika  
 tähti - xinge  
 tämä (nämä) - yi  
 tämä - ye  

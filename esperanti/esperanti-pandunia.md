@@ -225,6 +225,7 @@ butono - botone
 buĝeto - bujete  
 buŝo - boke  
 ##c
+celi - dika  
 celo - dike  
 cent - honi  
 centono - cent-  
@@ -260,6 +261,7 @@ defendanto (defendisto) - defer
 defendi - defa  
 defendo - defe  
 dek (10) - desi  
+dek miloj - deskili  
 dekono - deco-  
 delfeno - dolfine  
 demanda - eski  
@@ -577,6 +579,7 @@ horloĝo - reloje
 hormono - hormone  
 horo - hore  
 hotelo - hotel (hotele)  
+humana - insaniki  
 humura - yumori  
 humuristo - yumoriste  
 humuro - yumore  
@@ -987,7 +990,7 @@ mizera - miskini
 mola - komali  
 molibdeno - molidenum  
 molusko - moluske  
-monato - mes (mese)  
+monato - mese  
 mondlingvo - dunia baxe  
 mondo - dunia  
 monero - pesdiske  
@@ -1061,6 +1064,7 @@ nostalgio (saudado) - nostalgia
 noto (rimarko, komento) - note  
 nova - novi  
 novaĵoj - habare  
+novulo - novike  
 nudelo - miene  
 nuno - zaye  
 nur - mono  
@@ -1101,6 +1105,7 @@ osto - oste
 otito - oritis  
 ovo - ande  
 ##p
+paciento - patike  
 pacifismo - pacistia  
 pacifisto - paciste  
 paco - pace  
@@ -1388,7 +1393,9 @@ skultisto - eskulter
 smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
+sola (ununura) - uniki  
 soldato - gunrene  
+sole - uniko  
 solido - gatomate  
 somero - lete  
 sono - sonde  
