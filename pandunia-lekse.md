@@ -31,6 +31,8 @@ Here are descriptions of headers:
 21. "suomi" - translations to Finnish
 22. "polski" - translations to Polish
 
+Each translation value can consist of more than one word or phrase. Additional translations are then surrounded by bracets and separated by comma and space (, ) sequence.
+
 Syntax of "logasle":
 
 1. Each value contains zero or more language blocks.
