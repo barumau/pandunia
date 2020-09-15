@@ -2,8 +2,7 @@ The pandunia-lekse.csv in not valid by RFC 4180.
 
 The following are the differences:
 
-1. The first two lines are headler ines and the values in the second are only series of dashes (-).
-
+1. The first two lines are header lines and the values in the second are only series of dashes (-).
 2. The values are seperated by pipes (|).
 
 Here are descriptions of headers:
