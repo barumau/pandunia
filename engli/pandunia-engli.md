@@ -52,7 +52,7 @@ ajili - agile
 akare - tick (mite)  
 akse - axis (axle)  
 aksente - accent (stress)  
-ala - distinguish (differentiate)  
+ala - change (make different)  
 alaskia - Alaska  
 alfone - allophone  
 alge - alga  
@@ -83,6 +83,7 @@ amerike - America (continent)
 ameriki - American  
 amerikium - americium  
 ami - dear (beloved)  
+amike - darling  
 ampere - ampere (amp)  
 ampule - ampoule (vial)  
 analiza - analyse  
@@ -957,6 +958,7 @@ gambia - Gambia
 gamele - camel  
 gami - married  
 gamia - marriage (matrimony)  
+gamike - spouse (husband or wife)  
 gana - dry out  
 gance - hook  
 gandia - Uganda  

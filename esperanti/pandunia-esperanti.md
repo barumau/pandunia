@@ -35,6 +35,7 @@ aisu - glaciiĝi (frostiĝi)
 ajili - lerta  
 akse - akso  
 aksente - akcento  
+ala - ŝanĝi (aliigi)  
 alfone - alofono  
 alge - algo  
 ali - alia  
@@ -57,6 +58,7 @@ amerike - Ameriko
 ameriki - amerika  
 amerikium - americio  
 ami - kara  
+amike - amato  
 ampere - ampero  
 analiza - analizi  
 analize - analizo  

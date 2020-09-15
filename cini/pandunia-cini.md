@@ -21,6 +21,7 @@ ajili - 灵活的
 akare - 蜱 (螨)  
 akse - 轴线  
 aksente - 重音符号  
+ala - 改變  
 alge - 藻类  
 algofunge - 地衣  
 algojangle - 海藻林  
@@ -32,6 +33,7 @@ alraya - 不同意
 altare - 圣坛  
 ama - 爱  
 ami - 亲爱的  
+amike - 亲爱的  
 analiza - 分析  
 analize - 分析  
 andesite - 安山岩  

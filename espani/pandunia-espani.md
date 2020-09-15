@@ -49,6 +49,7 @@ ajili - ágil
 akare - garrapata (ácaro)  
 akse - eje  
 aksente - acento  
+ala - cambiar (demudar)  
 alaskia - Alaska  
 alfone - alófono  
 alge - alga  
@@ -78,6 +79,7 @@ amerike - América
 ameriki - americano  
 amerikium - americio  
 ami - querido  
+amike - querido (amado)  
 ampere - amperio  
 ampule - ampolla (vial)  
 analiza - analizar  
@@ -909,6 +911,7 @@ gambia - Gambia
 gamele - camello  
 gami - casado  
 gamia - casamiento  
+gamike - esposo o esposa  
 gana - secar  
 gance - gancho (anzuelo, alcayata)  
 gandia - Uganda  

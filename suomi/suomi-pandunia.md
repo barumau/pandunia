@@ -1501,6 +1501,7 @@ muuten (toisin) - alo
 muuttaa (muuntaa) - muta  
 muuttaa (siirtyä) - migru  
 muuttaa (siirtää) - migra  
+muuttaa (tehdä eriksi) - ala  
 muutto (migraatio) - migre  
 Myanmar (Burma) - mianmia  
 myky (pelmeni, ravioli) - pelmene  
@@ -1922,6 +1923,7 @@ punainen - lali
 punta - paunde  
 puola - polskia  
 puolalainen - polski  
+puoliso (aviomies tai -vaimo) - gamike  
 puolittaa (jakaa kahdella) - dulo fena  
 puolustaa - defa  
 puolustaja - defer  
@@ -1987,6 +1989,7 @@ raha - pese
 rahka - panire  
 raja - limite  
 rakas (armas) - ami  
+rakas (kulta) - amike  
 rakastaa (pitää, tykätä) - ama  
 rakastaa romanttisesti - romansa  
 rakentaa - bina  
@@ -2280,6 +2283,7 @@ sulkea vetoketjulla - zipa
 summa - sume  
 suo (räme) - potistan  
 suodattaa - filter  
+suojakilpi - defbanze  
 suojella (suojata, turvata) - sekura  
 suola - sale  
 suolainen - sali  

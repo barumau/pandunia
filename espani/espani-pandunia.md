@@ -469,6 +469,7 @@ californio - kalifornium
 caliza - kalcopetre  
 cama - bede  
 camarón - krevete  
+cambiar (demudar) - ala  
 cambiar - muta  
 cambio climático - klimomute  
 Camboya - kambudia  
@@ -1165,6 +1166,7 @@ esperar - denga
 espicificar (estipular) - xarta  
 espiral (hélice) - helise  
 esponja - esponje  
+esposo o esposa - gamike  
 espárrago - lusune  
 esqueleto (armazón) - ostojamia  
 esquina (rincón, ángulo) - gone  
@@ -2640,6 +2642,7 @@ quemar - hoga
 quemarse - hogu  
 querer (desear) - vola  
 querer (disponer) - ica  
+querido (amado) - amike  
 querido - ami  
 querubín - kerube  
 queso - cise  

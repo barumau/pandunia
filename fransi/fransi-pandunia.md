@@ -204,6 +204,7 @@ chambre à coucher - sonkamare
 champignon - fungopale  
 chance - canse  
 changement climatique - klimomute  
+changer - ala  
 chapitre - babe  
 chardon - kardone  
 chardon aux ânes - pinkardone  
@@ -223,6 +224,7 @@ Chine - jungogia
 chocolat - cokolate  
 chose - xey (xeye)  
 chu - paduti  
+chéri (ami) - amike  
 chêne - balute  
 chêne pédonculé - europobalute  
 ciel - samane  
@@ -958,6 +960,7 @@ zèbre - zebre
 épices - masale  
 épingle - pine  
 éponge - esponje  
+époux - gamike  
 épreuve (test) - teste  
 équipe - time  
 étagère - libobanze  

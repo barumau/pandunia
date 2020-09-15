@@ -36,6 +36,7 @@ ajili - agile
 akare - acarien  
 akse - axe  
 aksente - accent  
+ala - changer  
 alfone - allophone  
 alge - algue  
 algofunge - lichen  
@@ -56,6 +57,7 @@ ameno - sûrement
 amerike - Amérique  
 ameriki - américain  
 ami - cher  
+amike - chéri (ami)  
 ampere - ampère  
 ampule - ampoule (fiole)  
 analiza - analyser  
@@ -310,6 +312,7 @@ galaksia - galaxie
 galte - faute (erreur)  
 galti - erroné  
 gamia - mariage  
+gamike - époux  
 gance - crochet  
 gandume - blé  
 gangrase - foin  

@@ -47,6 +47,7 @@ alofono - alfone
 alta - gawi  
 altaro - altare  
 aluminio - alumine  
+amato - amike  
 ambasado - daixeria  
 ambasadoro - daixer  
 americio - amerikium  
@@ -1678,6 +1679,7 @@ zuluo - zuli
 ŝamano - xamane  
 ŝampuo - kexsabune  
 ŝanco - canse  
+ŝanĝi (aliigi) - ala  
 ŝario - islamisti xaria  
 ŝati - suku  
 ŝaŝliko - xixmanse  

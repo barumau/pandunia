@@ -17,6 +17,7 @@ ajili - подвижный
 akare - клещ (лепта)  
 akse - ось  
 aksente - ударение  
+ala - изменять  
 alge - водоросли  
 algofunge - лишай  
 algojangle - лес водорослей  
@@ -26,6 +27,7 @@ almare - шкаф
 almase - алмаз (бриллиант)  
 altare - алтарь  
 ama - любить  
+amike - возлюбленный (любимый)  
 analiza - анализировать  
 analize - анализ  
 andesite - андезит  

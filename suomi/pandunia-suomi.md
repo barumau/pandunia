@@ -48,6 +48,7 @@ ajabu - ihmetellä (olla ihmeissään)
 ajili - ketterä  
 akse - akseli  
 aksente - painotus (aksentti)  
+ala - muuttaa (tehdä eriksi)  
 alaskia - Alaska  
 alfone - allofoni (vaihtoehtoinen ääntämys)  
 alge - levä  
@@ -75,6 +76,7 @@ amerike - Amerikka
 ameriki - amerikkalainen  
 amerikium - amerikium  
 ami - rakas (armas)  
+amike - rakas (kulta)  
 ampere - ampeeri  
 ampule - ampulli  
 analiza - analysoida  
@@ -477,6 +479,7 @@ dayxeke - lohkare (järkäle)
 deco- - desi  
 decobel - desibeli  
 defa - puolustaa  
+defbanze - suojakilpi  
 defe - puolustus  
 defer - puolustaja  
 defta - tallentaa (rekisteröidä, kirjata)  
@@ -788,6 +791,7 @@ gambia - Gambia
 gamele - kameli  
 gami - naimisissa  
 gamia - avioliitto  
+gamike - puoliso (aviomies tai -vaimo)  
 gana - kuivata (kuivattaa)  
 gandia - Uganda  
 gandume - vehnä  

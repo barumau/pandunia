@@ -538,6 +538,7 @@ chain mail - silsilnete
 chair - kurse  
 champion - campion (campione)  
 change (alter, convert) - muta  
+change (make different) - ala  
 channel (conduct) - kanala  
 channel - kanale  
 chaos (disorder, turmoil) - haose  
@@ -798,6 +799,7 @@ dandelion - makanfule
 danger (peril) - hatre  
 dangerous (perilous) - hatri  
 dark (dim) - oskuri  
+darling - amike  
 darmstadtium - darmositium  
 Darwinism - darwinistia  
 Darwinist - darwiniste  
@@ -875,7 +877,6 @@ disperse (spread out, scatter) - anjama
 distance (far away) - tele  
 distance (length) - telia  
 distinction (specialty) - hasia  
-distinguish (differentiate) - ala  
 distinguish - hasa  
 divide (to partition) - fena  
 divine (godly) - dewi  
@@ -2981,6 +2982,7 @@ split (fall apart) - fenu
 sponge - esponje  
 spoon - camace  
 sport (athletics) - kele  
+spouse (husband or wife) - gamike  
 spring (springtime) - cune  
 spruce tree - pise  
 square (tetragon) - cargone  
