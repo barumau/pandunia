@@ -43,9 +43,9 @@ The demonstrative pronouns are:
 **we**
 – that one
 
-**me wana ye.**
+**me vola ye.**
 – I want this one.  
-**le wana we.**
+**le vola we.**
 – He/she wants that one.
 
 They end in **-i** when they function as modifiers i.e. when they come before a noun.

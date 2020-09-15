@@ -240,7 +240,6 @@
 |**faini**|fajna|angla:fine, hispana:portugala:fino, franca:fin|
 |**fajane**|disvolvi|mandarena:发展 (fāzhǎn), vjetnama:phát triển, korea:발전 (bajjeon)|
 |**famile**|familio|angla:family, hispana:familia, portugala:família, franca:famille|
-|**fane**|amuzo|angla:fun|
 |**fani**|kotraŭa|mandarena:反 (fǎn), yue反 (faan3), vjetnama:phản, japana:反 (han-), korea:반 (ban-)|
 |**fase**|surfaco|angla:franca:portugala:face, hispana:faz, deu:Facette|
 |**fasine**|fascinado|angla:fascination, hispana:fascinación, deu:Faszination|
@@ -330,7 +329,6 @@
 |**guhe**|kaverno|bengala:গুহা (guha), taja:คูหา (gūhā), teluga:గుహ (guha), hindia:गुफ़ा (gufā), malaja:gua|
 |**gula**|gluti|bengala:গেলা (gela), portugala:engolir, rusa:глотать (glotat'), taja:กลืน (glʉʉn), hispana:deglutir, franca:déglutir|
 |**gume**|tamburo|svahila:sna:konga:ngoma, nya:ng'oma, + mandarena:鼓 (gǔ)|
-|**gundene**|palaco|mandarena:宫殿 (gōngdiàn), vjetnama:cung điện, japana:宮殿 (jyūden), korea:궁전 (gungjeon)|
 |**gune**|armeo|mandarena:军 (jūn), kantona:軍 (gwan1), japana:軍 (gun), korea:군 (gun), vjetnama:quân|
 |**gure**|guruo (instruisto)|hindia:गुरु (guru), bengala:গুরু (guru), guĝarata:ગુરુ (guru), panĝaba:ਗੁਰੂ (gurū), filipina:guro, taja:ครู (gruu), malaja:angla:portugala:guru, hispana:gurú, rusa:гуру (guru), franca:gourou, korea:구루 (guru), japana:グル (guru)|
 |**gurube**|porko|svahila:guruwe zulua:ingulube, konga:ngulu hispana:guarro,gorrino, japana:(gorogoro) angla:grunt|
@@ -354,8 +352,8 @@
 |**harabi**|ruinigita|araba:persa:urdua:(xarāb), turka:harap, hindia:ख़राब (xarāb), bengala:খারাপ (kharap), svahila:-haribu|
 |**harfe**|litero|araba:(ḥarf), turka:harf, persa:urdua:(harf), haŭsa:harafi, svahila:herufi, malaja:huruf|
 |**harmonia**|harmonio|angla:harmony, hispana:armonía, portugala:harmonia, franca:harmonie, rusa:гармония (garmoniya)|
-|**hasi**|speciala|araba:(xāṣṣ), persa:urdua:(xās), malaja:ख़ास (xās), may:khas|
-|**hatare**|danĝero|araba:(xaṭar), persa:(xatar), urdua:(xatra), hindia:ख़तरा (xatrā), svahila:hatari, turka:muhatara|
+|**hasi**|speciala|araba:(xāṣṣ), persa:urdua:(xās), hindia:ख़ास (xās), malaja:khas|
+|**hatre**|danĝero|araba: خطر‎ (xaṭar), persa: خطر‎ (xatar), urdua: خطرہ‎ (xatrā), hindia:ख़तरा (xatrā), svahila:hatari, turka:muhatara|
 |**hawe**|vento|hindia:हवा (havā), urdua:(havā), panĝaba:ਹਵਾ (hawā), + araba:(hawāʾ), persa:(havā), turka:hava, malaja:hawa, som:hawo, svahila:hewa, bengala:হাওয়া (haowa)|
 |**haye**|maro|mandarena:海 (hǎi), kantona:海 (hoi2), japana:海 (kai), korea:해양 (haeyang), vjetnama:hải|
 |**he**|ĉu?|franca:portugala:hein, japana:e|
@@ -392,8 +390,8 @@
 |**jampa**|salti|angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jane**|scio|hindia:जान (jān), bengala:জ্ঞান (gyan), জানা (jana), panĝaba:ਜਾਣ (jāṇ), taja:ญาณ (yaan)|
 |**janele**|fenestro|portugala:janela, tamila:சன்னல் (sannal), bengala:জানালা (janala), malaja:jendela, nya:zenera, konga:nêla|
-|**jangale**|arbaro|hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), urdua:(jangal), portugala:jângal, angla:jungle, rusa: джу́нгли (džúngli), deu:Dschungel|
 |**janger**|metiisto|mandarena:匠 (jiàng), taja:ช่าง (jang), kmera:ជាង (ciəng)|
+|**jangle**|arbaro|hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), urdua:(jangal), portugala:jângal, angla:jungle, rusa: джу́нгли (džúngli), deu:Dschungel|
 |**jawabe**|respondo|araba:(jawāb), svahila:jibu,jawabu, turka:cevap, persa:(javāb), hindia:जवाब (javāb), malaja:jawab|
 |**jebe**|poŝo|hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), urdua:(jeb), teluga:(jēbu), araba:(jayb), turka:cep, volofa:jiba|
 |**jeinistia**|Ĝajnismo|hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)|
@@ -843,10 +841,10 @@
 |**vire**|heroo|hindia:वीर (vīr), urdua:(vīr), bengala:বীর (bīr), tamila:வீரன் (vīraṉ), teluga:వీరుడు (vīruḍu), malaja:wira, taja:วีร (wi-ra), + franca:portugala:hispana:viril, angla:virile|
 |**visi**|vic-|angla:franca:hispana:portugala:vice-, rusa:вице- (vitse-), deu:vize-|
 |**vizite**|viziti|angla:visit, franca:visite, hispana:portugala:visita, rusa:визит (vizit)|
-|**vokale**|vokalo|hispana:vocal, portugala:vogal, malaja:vokal|
+|**vole**|volo|franca:voiloir, itala:volere, deu:wollen, angla:volition, hispana:voluntad, rusa:воля (volya), polona:wola|
 |**vulve**|vulvo|franca:vulve, angla:portugala:hispana:turka:vulva, rusa:вульва (vul’va)|
 |**wada**|promesi|araba:وعد‎ m (waʿd), turka:vaat, persa:وعده‎ (va'deh), hindia:वादा (vādā)|
-|**wane**|volo|angla:want, korea:원하다 (wonhada)|
+|**wane**|amuzo|mandarena:玩 (wán), kantona:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|
 |**wase**|oazo|araba:(wāḥa), turka:vaha, persa:(vāhe), hispana:oasis|
 |**waw**|ŭaŭ!|mandarena:哇 (wā), angla:wow|
 |**waxa**|lavi|angla:wash, deu:waschen, mandarena:洗 (xǐ)|
@@ -854,14 +852,13 @@
 |**wi**|tiu|hindia:वह (wo), bengala:ওই (oi)|
 |**wikia**|vikio|angla:franca:hispana:portugala:malaja:wiki, turka:viki, araba:وِيكي‎ (wikī), persa:ویکی‎ (viki), hindia:विकि (viki), bengala:উইকি (uiki), mandarena:维基 (wéijī), kantona:維基 (wai4 gei1), japana:ウィキ (wiki), korea:위키 (wiki)|
 |**wile**|estonoteco|angla:will + vua:未来 (víle), mandarena:未来 (wèilái), korea:미래 (miræ), japana:未来 (mirai)|
-|**wine**|venko|angla:win, deu:gewinnen|
 |**wolfe**|lupo|deu:ned:angla:wolf, rusa:волк (volk)|
 |**xake**|branĉo|bengala:শাখা (śakha), hindia:शाखा (śākhā), urdua:(śāx), persa:(šax)|
 |**xale**|koltuko|franca:châle, rusa:шаль (šal), portugala:xaile, angla:shawl, turka:şal|
 |**xamane**|ŝamano|rusa:шаман (šaman), angla:shaman|
 |**xame**|vespero|hindia: शाम (śām), persa:(šām), turka:akşam|
 |**xane**|monto|mandarena:山 (shān), japana:山 (san), korea:산 (san), vjetnama:sơn|
-|**xanti**|trankvila|hindia:शांति (shānti), bengala:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marataja:शांत (shānta), teluga:శాంతి (shānti), guĝarata:શાંતિ (shānti), kmera:សន្តិ (sɑnte’), angla:portugala:shanti, rusa:шанти (shanti), japana:シャンティ (shanti)|
+|**xanti**|trankvila (serena)|hindia:शांति (shānti), bengala:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marataja:शांत (shānta), teluga:శాంతి (shānti), guĝarata:શાંતિ (shānti), kmera:សន្តិ (sɑnte’), angla:portugala:shanti, rusa:шанти (shanti), japana:シャンティ (shanti)|
 |**xarme**|honto|persa:(šarm),  urdua:(śarma), hindia:शर्म (śarma), deu:Scham, angla:shame, rusa:срам (sram)|
 |**xarnire**|ĉarniro (pivoto)|franca:charnière, hispana:charnela, deu:Scharnier, rusa:шарнир (šarnir)|
 |**xarte**|kondiĉo (postulo)|turka:şart, araba:persa:(šart), svahila:sharuti, hindia:शर्त (śart), bengala:শর্ত (śôrt)|
@@ -870,6 +867,7 @@
 |**xawi**|malmulte|mandarena:少 (shǎo), kantona:少 (siu2), japana:少 (shō), korea:소 (so)|
 |**xefe**|estro (ĉefulo)|franca:chef, portugala:chefe, gal:xefe, hispana:jefe, rusa:шеф (šef), angla:chief, svahila:chifu, japana:チーフ (chīfu), + araba:(šeyx)|
 |**xeke**|ŝtono|mandarena: 石 (shí), kantona:石 (sek3), japana:石 (seki), korea:석 (seok)|
+|**xenge**|venko|mandarena:胜 (shèng), kantona:勝 (sing3), vua:勝 (sen2), japana:勝 (shō), korea:승 (seung), vjetnama:thắng|
 |**xeyhale**|situacio (aferstato)|mandarena:事态 (shìtài), japana:事態 (jitai), angla:state of affairs, franca:état des choses|
 |**xibaye**|malsukceso|mandarena:失败 (shībài), japana:失敗 (shippai), korea:실패 (šilpæ), vjetnama:thất bại|
 |**xime**|koro|korea: 심 (shim), mandarena:心 (xīn), japana:心 (shin), kantona:心 (sam1), hakaa:心 (sîm), vjetnama:tim|

@@ -137,10 +137,10 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me wana te yama sabze.**
+**me vola te yama sabze.**
 – I want you eat vegetables.
 
-In the example above, **me wana** has **te** as its object.
+In the example above, **me vola** has **te** as its object.
 At the same time, **te** functions as the subject of the following predicate, **yama sabze**.
 So **te** is the _pivot_ of the entire sentence.
 
@@ -153,7 +153,7 @@ and all of them are about the same subject
    – I go home.  
 2. **me abla gowa dome.**
    – I can go home.  
-3. **me wana abla gowa dome.**
+3. **me vola abla gowa dome.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 

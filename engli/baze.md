@@ -141,13 +141,13 @@ but not always.
 
 The word **no** denies the word that follows it.
 
-**no me a le wana kapa le**
+**no me a le vola kapa le**
 – Not me but he/she wants to take it.  
-**me no wana kapa le.**
+**me no vola kapa le.**
 – I don't want to take it.  
-**me wana no kapa le.**
+**me vola no kapa le.**
 – I want _not_ to take it.  
-**me wana kapa no ye a we.**
+**me vola kapa no ye a we.**
 – I want to take not this but that.
 
 

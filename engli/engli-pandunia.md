@@ -88,7 +88,7 @@ amount (quantity) - polia
 ampere (amp) - ampere  
 amplify (scale) - daytarja  
 ampoule (vial) - ampule  
-amuse (entertain) - fana  
+amuse (entertain) - wana  
 anal - anusi  
 analyse - analiza  
 analysis - analize  
@@ -131,7 +131,7 @@ apprentice - kardarser
 approach (get near) - kariba  
 apricot - barkoke  
 April - carmese  
-aqua (teal) - marnili  
+aqua (teal) - haynili  
 Arabic - arabi  
 arachnophobia - aranfobia  
 arboretum - mokojongoparke  
@@ -249,6 +249,7 @@ bar (rod, stick) - batone
 bar - bar  
 Barbados - barbados  
 barbarian - barbare  
+barbecue (grill) - kababa  
 Barbuda - barbudia  
 barium - barium  
 barometer - airbarmeter  
@@ -265,11 +266,13 @@ bath - banye
 bathe - banyu  
 bathroom - banyokamare  
 battery - batre  
+bay (gulf) - baye  
 be - esa  
 be about (discuss as a subject) - tema  
 be against - kontra  
 be beside (beside) - lata  
 be born - jenu  
+be bothered by (bother to, take the trouble to) - mafanu  
 be called (be named) - namu  
 be located (lie, be situated) - loku  
 be seen - vidu  
@@ -463,7 +466,7 @@ californium - kalifornium
 caliph - halife  
 caliphate - halifia  
 call (name) - namisa  
-calm (peaceful) - xanti  
+calm (peaceful, quiet) - xanti  
 Cambodia - kambudia  
 camel - gamele  
 camera - fotografmaxine  
@@ -535,6 +538,7 @@ chain mail - silsilnete
 chair - kurse  
 champion - campion (campione)  
 change (alter, convert) - muta  
+change (make different) - ala  
 channel (conduct) - kanala  
 channel - kanale  
 chaos (disorder, turmoil) - haose  
@@ -614,7 +618,7 @@ cloth (fabric, textile) - texe
 clothing - fuke  
 cloud - megame  
 club - klube  
-coast (beach) - martate  
+coast (beach) - haytate  
 coat - kote  
 cobalt - kobalte  
 cobblestone - cirkoxeke  
@@ -691,7 +695,7 @@ connect (join, link) - samuna
 consequence (back, follow-up) - bade  
 consider (regard) - konsida  
 consitution - bazokanune  
-consonant - konsone  
+consonant - kenarfone  
 conspiracy (plot) - sirplane  
 consume (eat or drink) - yama  
 contain (include) - inda  
@@ -792,9 +796,10 @@ daisy - margarite
 damage (injury, harm) - damaje  
 dance - danse  
 dandelion - makanfule  
-danger (peril) - hatare  
-dangerous (perilous) - hatari  
+danger (peril) - hatre  
+dangerous (perilous) - hatri  
 dark (dim) - oskuri  
+darling - amike  
 darmstadtium - darmositium  
 Darwinism - darwinistia  
 Darwinist - darwiniste  
@@ -841,8 +846,8 @@ descriptive - sifi
 desert - registan  
 desk - karmeze  
 despise (scorn) - paraya  
-destination (destiny, fate) - destine  
-destine (set) - destina  
+destine (set) - gola  
+destiny (fate) - cenamene  
 detail - detale  
 development - fajane  
 devil (Satan) - xatan (xatane)  
@@ -872,7 +877,6 @@ disperse (spread out, scatter) - anjama
 distance (far away) - tele  
 distance (length) - telia  
 distinction (specialty) - hasia  
-distinguish (differentiate) - ala  
 distinguish - hasa  
 divide (to partition) - fena  
 divine (godly) - dewi  
@@ -908,6 +912,7 @@ download - netogeta
 dragon - lunge  
 dragonfly - libele  
 drama - drame  
+dramatic irony - dramironia  
 draw - grafa  
 drawer - tirsanduke  
 drawing (design) - desene  
@@ -988,6 +993,7 @@ England - englia
 English - engli  
 English daisy - englomargarite  
 English oak - europobalute  
+enjoy (play) - wanu  
 enough (sufficient) - basi  
 entrance - jinmun  
 environment (nature) - ekia  
@@ -1159,7 +1165,7 @@ force (strength, power) - fortia
 foreign - waydexi  
 foreign country - waydexia  
 forenoon - subodene  
-forest (jungle, woods) - jangale  
+forest (jungle, woods) - jangle  
 foreward - jino  
 forget - anmema  
 fork - forke  
@@ -1195,11 +1201,11 @@ frying pan - tawe
 fuck (copulate) - coda  
 full (complete, saturated) - puri  
 fully (completely) - puro  
-fun (amusement) - fane  
+fun (amusement) - wane  
 function (work) - funca  
 fungus (mushroom) - funge  
 funnel - liwkope  
-funny (amusing) - fani  
+funny (amusing) - wani  
 fusion (amalgamation) - liwunise  
 future time - wile  
 ##g
@@ -1262,7 +1268,7 @@ glue (adhesive) - glute
 gluten - glutene  
 go - gowa  
 go along - pargowa  
-goal - gole  
+goal (destination) - gole  
 goat - buze  
 god (deity) - dew (dewe)  
 gold - aure  
@@ -1308,6 +1314,7 @@ Grenada - grenadia
 grey (gray, ashy) - huyrangi  
 grief (sorrow) - duke  
 grieve - duku  
+grilled meat (kebab) - kababi manse  
 grimace - grimase  
 grind (grind in mill) - mola  
 grindstone (millstone) - molxeke  
@@ -1456,14 +1463,14 @@ humorist - yumoriste
 humorous (comical, funny) - yumori  
 hundred (##) - honi  
 Hungary - madiaria  
-hunger - yamwane  
+hunger - yamnide  
 hunt (fish) - saida  
 hunter - saider  
 hunting (fishing) - saide  
 hurry (hasten) - yala  
 hurt (pain) - tunge  
 hurt - paxa  
-hush (shh) - xixo  
+hush (shh) - xuxo  
 hybrid (mongrel) - hibride  
 hydrogen - hidre  
 hygiene (cleanliness) - hijenia  
@@ -1537,6 +1544,8 @@ Iraq - irakia
 Ireland - airia  
 iridium - iridium  
 iron - fere  
+ironic - ironi  
+irony - ironia  
 irritate (annoy, disturb) - irita  
 Islam - islamistia  
 Islamic - islamisti  
@@ -1562,7 +1571,7 @@ Japanese - niponi
 jasmine - malike  
 jazz - jaze  
 jealous - jelosi  
-jellyfish (seajelly) - marjele  
+jellyfish (seajelly) - hayjele  
 Jersey - jersia  
 Jerusalem - uruxalem  
 Jerusalem artichoke (sunroot) - masmulsolfule  
@@ -1595,12 +1604,11 @@ karaoke - karaoke
 karate - karate  
 Karnataka - karnadia  
 Kazakhstan - kazakia  
-kebab (skewer meat) - kababe  
 keep (preserve, conserve, retain, spare) - hafiza  
 keeper (possessor) - tener  
 keeper (preserver) - hafizer  
 kelp - warkalge  
-kelp forest - algojangale  
+kelp forest - algojangle  
 kelvin - kelvine  
 Kenya - kenia  
 ketchup - kecape  
@@ -1893,7 +1901,7 @@ Mecca - makah
 medallion (medal) - medale  
 medicine (field of study) - medikia  
 meditate (ponder) - medita  
-Mediterranean - zemomedi mare  
+Mediterranean - zemomedi haye  
 medium (intermediate, mean) - medi  
 medium (media) - media  
 meet - mita  
@@ -2248,7 +2256,7 @@ painful - paxi
 paint - penta  
 painter - penter  
 Pakistan - pakistan  
-palace (mansion) - gundene  
+palace (mansion) - daydome  
 Palau - palawia  
 Palestinian Territory - filistinia  
 palladium - paladium  
@@ -2555,7 +2563,8 @@ radish - lobake
 radium - radium  
 radon - radon  
 rail (railway, railroad) - trendaw  
-rain - barxe  
+rain (pour down) - barxu  
+rain (precipitation) - barxe  
 rainbow - rangarke  
 rainbow trout - rangarkosamone  
 raincoat - barxokote  
@@ -2618,7 +2627,7 @@ resin - rezine
 resource (utility, asset) - faide  
 respect (honor, esteem) - onore  
 respond (give an answer) - jawaba  
-rest (relief) - xuxe  
+rest (relief, repose) - xante  
 rest (remainder) - reste  
 restaurant - restorante  
 result (effect, outcome) - rezulte  
@@ -2822,6 +2831,7 @@ shape (sculpt) - forma
 share - komuna  
 shari'a - islamisti xaria  
 shark - xarke  
+shashlik - xixmanse  
 shatter (break into pieces) - parca  
 shea (vitellaria) - karite  
 sheep - mehe  
@@ -2830,6 +2840,7 @@ shell (crust, carapace) - kaske
 shield - defbanze  
 Shintoism - xindawistia  
 shirt - kamise  
+shish kebab - xixkababe  
 shit (feces) - xite  
 shock (collision) - xoke  
 shoemaker - sapater  
@@ -2859,7 +2870,8 @@ sign (autograph) - namkitaba
 sign (signal) - sinye  
 Sikh - sikiste  
 Sikhism - sikistia  
-silent - xixi  
+silence (make silent) - xuxa  
+silent - xuxi  
 silicon - silike  
 silk - sile  
 silver - argente  
@@ -2870,12 +2882,14 @@ Singapore - singapur
 sit (put down) - sida  
 sit down - sidu  
 situation (circumstances, state of affairs) - xeyhale  
+situational irony - xeyhalironia  
 six (6) - sisi  
 size - dayia  
 sizzle - ziza  
 skeleton (frame) - ostojamia  
-skill (art, competence) - xute  
-skillful - xuti  
+skewer - xixe  
+skill (art, craft) - xute  
+skillful (crafty) - xuti  
 skin (peel, bark, leather) - pile  
 skirt - jupe  
 skull - saroste  
@@ -2900,6 +2914,7 @@ snake (serpent) - serpe
 sneak - siro motu  
 sneeze - aciya  
 sniper (sharpshooter) - justopawer  
+snow (be snowing) - himu  
 snow - hime  
 soak (steep, marinate) - purxipa  
 soap - sabune  
@@ -2967,6 +2982,7 @@ split (fall apart) - fenu
 sponge - esponje  
 spoon - camace  
 sport (athletics) - kele  
+spouse (husband or wife) - gamike  
 spring (springtime) - cune  
 spruce tree - pise  
 square (tetragon) - cargone  
@@ -3172,7 +3188,7 @@ thickness - grosia
 thief - corer  
 thing - xey (xeye)  
 think (ponder, reflect) - fikra  
-thirst - suywane  
+thirst - suynide  
 this (these) - yi  
 this one - ye  
 thistle - kardone  
@@ -3361,11 +3377,12 @@ Venezuela - venezolia
 Venus - venus  
 veranda (balcony, terrace, porch) - berande  
 verb - karloge  
+verbal irony (sarcasm) - logironia  
 version (variation, edition) - versione  
 vertical - gawtali  
 vice (deputy) - visi  
 vice-president - visprezidente  
-victory (win) - wine  
+victory (win) - xenge  
 Viet Nam - vietia  
 Vietnamese (Viet) - vieti  
 view (vision) - vide  
@@ -3391,18 +3408,18 @@ volt (V) - volte
 voodoo - vodun  
 vote (ballot) - vote  
 vote (cast a vote) - vota  
-vowel - vokale  
+vowel - jungofone  
 vulva - vulve  
 ##w
 wait - denga  
 wake (make awake) - weka  
 Wales (Cambria) - kamria  
 walk (march) - marca  
-wall - wale  
+wall - divare  
 Wallis and Futuna Islands - walis e futun nesia  
-wallpaper - walpapire  
-want (desire, longing) - wane  
-want (desire, wish) - wana  
+wallpaper - divarkagaze  
+want (desire, longing) - vole  
+want (desire, wish) - vola  
 warm (hot) - garmi  
 warrior (fighter) - jenger  
 wart - zeyile  
@@ -3465,7 +3482,7 @@ wild (savage) - wildi
 will (in future) - wil (wilo)  
 will (volition, desire) - ice  
 will (want) - ica  
-win (triumph, succeed, accomplish) - wina  
+win (triumph, succeed, accomplish) - xenga  
 wind - hawe  
 window - janele  
 wine - vine  
