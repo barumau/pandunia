@@ -268,10 +268,11 @@ barti - Indian
 barti haye - Indian Ocean  
 bartia - India  
 barude - gunpowder  
-barxe - rain  
+barxe - rain (precipitation)  
 barxi - rainy  
 barxocate - umbrella  
 barxokote - raincoat  
+barxu - rain (pour down)  
 barya - bar (obstruct, block)  
 baryer - barrier  
 basene - pool (basin, bowl)  
@@ -292,6 +293,7 @@ baxi jinse - grammatical gender
 baxkanune - grammar  
 baxkanuni - grammatical  
 baxlojia - linguistics  
+baye - bay (gulf)  
 baza - found  
 bazare - market (bazaar)  
 bazarhuristia - market liberalism  
@@ -460,6 +462,7 @@ ceka - check (to examine)
 celsius darje - degree Celsius  
 cena - predate (be before)  
 cenaga - assume (presuppose)  
+cenamene - destiny (fate)  
 cendeno - yesterday  
 cenfikse - prefix  
 cenge - layer (level, storey, floor, stratum)  
@@ -565,6 +568,7 @@ dawiste - Taoist
 dawistia - Taoism (Daoism)  
 day (dayi) - big (great)  
 daydarsia - university  
+daydome - palace (mansion)  
 dayhaye - ocean  
 dayia - size  
 daylasune - giant onion  
@@ -602,8 +606,6 @@ desene - drawing (design)
 desi - ten (10)  
 deskili - ten thousand  
 desmese - October  
-destina - destine (set)  
-destine - destination (destiny, fate)  
 desunmese - November  
 detale - detail  
 dew (dewe) - god (deity)  
@@ -626,6 +628,8 @@ diniste - believer (religious person)
 diorite - diorite  
 diske - disc (disk)  
 disprosium - dysprosium  
+divare - wall  
+divarkagaze - wallpaper  
 divehia - Maldives  
 dixe - direction  
 dixo - directly  
@@ -663,6 +667,7 @@ doxe - fault (sin, blame, defect, guilt)
 doxi - guilty  
 doze - portion (dose)  
 drame - drama  
+dramironia - dramatic irony  
 droge - drug (intoxicating substance)  
 drugia - Bhutan  
 du - of (particle of possession)  
@@ -789,11 +794,8 @@ falsi - false (fake)
 falsi vide - illusion (hallucination)  
 famile - family  
 familnam - surname (family name)  
-fana - amuse (entertain)  
 fana - oppose (resist)  
-fane - fun (amusement)  
 faner - opponent (antagonist)  
-fani - funny (amusing)  
 fankriste - antichrist  
 fanoname - antonym  
 fansoldixo - counterclockwise (anticlockwise)  
@@ -1014,7 +1016,8 @@ glute - glue (adhesive)
 glutene - gluten  
 gluti - sticky (ahesive)  
 glutopote - clay  
-gole - goal  
+gola - destine (set)  
+gole - goal (destination)  
 goleme - golem  
 gome - rubber  
 gone - corner (angle)  
@@ -1056,7 +1059,6 @@ gujarati - Gujarati
 gula - swallow  
 gule - ghoul  
 gume - drum  
-gundene - palace (mansion)  
 gune - army  
 gunrene - soldier  
 gure - guru (teacher)  
@@ -1129,6 +1131,9 @@ haygrase - seagrass
 haygune - sea force (navy)  
 hayhiyare - sea cucumber  
 hayi - maritime  
+hayjele - jellyfish (seajelly)  
+haynili - aqua (teal)  
+haytate - coast (beach)  
 he - huh? (pardon?)  
 heleni - Greek (Hellenic)  
 helenia - Greece  
@@ -1154,6 +1159,7 @@ hijenia - hygiene (cleanliness)
 himalia - Himalayas  
 hime - snow  
 himrose - frost  
+himu - snow (be snowing)  
 hindiste - Hindu  
 hindistia - Hinduism  
 hisaba - calculate  
@@ -1255,6 +1261,8 @@ irakia - Iraq
 irania - Iran  
 iridium - iridium  
 irita - irritate (annoy, disturb)  
+ironi - ironic  
+ironia - irony  
 isa - cause to make  
 islame - submission (surrender)  
 islamfobia - islamophobia  
@@ -1349,6 +1357,7 @@ junga - center (concentrate)
 jungafrikia - Central African Republic  
 junge - middle (center)  
 jungi - central (middle)  
+jungofone - vowel  
 jungogia - China  
 jungu - to be centered (amid, in the middle)  
 jupe - skirt  
@@ -1359,7 +1368,8 @@ justopawer - sniper (sharpshooter)
 juxa - inject  
 juxe - injection  
 ##k
-kababe - kebab (skewer meat)  
+kababa - barbecue (grill)  
+kababi manse - grilled meat (kebab)  
 kabawe - water buffalo  
 kabine - cabin (booth)  
 kaboge - squash (pumpkin, gourd)  
@@ -1500,6 +1510,7 @@ kelvine - kelvin
 kemia - Ancient Egypt (Kemet)  
 kenarbaryer - fence  
 kenare - border (edge, fringe, margin, rim, side, shore, periphery)  
+kenarfone - consonant  
 kenari - peripheral  
 kenia - Kenya  
 kerne - core (nucleus, kernel)  
@@ -1605,7 +1616,6 @@ konkara - collaborate (work together)
 kono - together (jointly, mutually)  
 konserte - concert  
 konsida - consider (regard)  
-konsone - consonant  
 kontini - continuous (analog)  
 kontinu - continue (resume)  
 kontra - be against  
@@ -1835,6 +1845,7 @@ logi - lexical
 logia - vocabulary (lexicon)  
 logike - logic (deduction)  
 logiki - logical  
+logironia - verbal irony (sarcasm)  
 logivi - talkative  
 logofiler - logophile (word buff)  
 logoliste - dictionary (word list)  
@@ -1883,6 +1894,7 @@ madagasia - Madagascar
 madiaria - Hungary  
 mafana - bother  
 mafane - trouble (disturbance, bother)  
+mafanu - be bothered by (bother to, take the trouble to)  
 mager - magician (sorcerer)  
 magi - magical  
 magia - magic  
@@ -1947,12 +1959,9 @@ mare - time (instance, occasion)
 margarine - margarine  
 margarite - daisy  
 marian nesia - Northern Mariana Islands  
-marjele - jellyfish (seajelly)  
 marka - mark (leave a mark)  
 marke - mark (trace)  
-marnili - aqua (teal)  
 marse - Mars  
-martate - coast (beach)  
 masaja - knead (massage)  
 masaje - massage  
 masale - spice (seasoning)  
@@ -3037,10 +3046,10 @@ suygase - steam (vapor)
 suyi - watery  
 suykaboge - calabash  
 suyminte - watermint  
+suynide - thirst  
 suyporte - harbor (seaport)  
 suyrang - watercolor  
 suysekuri - waterproof  
-suywane - thirst  
 ##t
 tabake - tobacco  
 tabla - tabulate  
@@ -3302,7 +3311,8 @@ vizita - visit
 vizite - visitation (visit)  
 viziter - visitor (guest)  
 vodun - voodoo  
-vokale - vowel  
+vola - want (desire, wish)  
+vole - want (desire, longing)  
 volte - volt (V)  
 vota - vote (cast a vote)  
 vote - vote (ballot)  
@@ -3314,11 +3324,11 @@ wada - promise (commit)
 waf (wafe) - dog  
 wakila - represent  
 wakile - representative (proxy, agent)  
-wale - wall  
 walis e futun nesia - Wallis and Futuna Islands  
-walpapire - wallpaper  
-wana - want (desire, wish)  
-wane - want (desire, longing)  
+wana - amuse (entertain)  
+wane - fun (amusement)  
+wani - funny (amusing)  
+wanu - enjoy (play)  
 warise - heritage (legacy, bequest)  
 warkalge - kelp  
 warke - leaf (sheet)  
@@ -3355,8 +3365,6 @@ wikia - wiki
 wil (wilo) - will (in future)  
 wildi - wild (savage)  
 wile - future time  
-wina - win (triumph, succeed, accomplish)  
-wine - victory (win)  
 winge - wing  
 wolfe - wolf  
 wolfram - tungsten (wolfram)  
@@ -3372,7 +3380,8 @@ xame - evening
 xamyame - dinner  
 xane - mountain (hill)  
 xanghai - Shanghai  
-xanti - calm (peaceful)  
+xante - rest (relief, repose)  
+xanti - calm (peaceful, quiet)  
 xarke - shark  
 xarme - shame (disgrace)  
 xarnire - hinge (pivot)  
@@ -3391,10 +3400,13 @@ xefi - main (principal)
 xefi minister - prime minister  
 xeke - stone (piece of rock)  
 xekojanger - mason (stonemason, stonecutter)  
+xenga - win (triumph, succeed, accomplish)  
+xenge - victory (win)  
 xenon - xenon  
 xense - master (sensei)  
 xey (xeye) - thing  
 xeyhale - situation (circumstances, state of affairs)  
+xeyhalironia - situational irony  
 xibaye - failure (flop)  
 xiki - elegant (chic)  
 xime - heart  
@@ -3410,8 +3422,9 @@ xirer - poet
 xirope - syrup  
 xita - defecate (shit)  
 xite - shit (feces)  
-xixi - silent  
-xixo - hush (shh)  
+xixe - skewer  
+xixkababe - shish kebab  
+xixmanse - shashlik  
 xofa - drive (steer)  
 xofer - chauffeur (driver)  
 xogune - shogun  
@@ -3431,9 +3444,11 @@ xukaroranje - sweet orange
 xula - repair (fix)  
 xule - repair (fix)  
 xuler - repairer  
-xute - skill (art, competence)  
-xuti - skillful  
-xuxe - rest (relief)  
+xute - skill (art, craft)  
+xuti - skillful (crafty)  
+xuxa - silence (make silent)  
+xuxi - silent  
+xuxo - hush (shh)  
 ##y
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
@@ -3444,7 +3459,7 @@ yama - consume (eat or drink)
 yame - food (meal)  
 yami - delicious (yummy)  
 yamkamare - dining room  
-yamwane - hunger  
+yamnide - hunger  
 yamxukargrase - duruka  
 yange - kind (style, sort, type)  
 yasene - ash tree  
@@ -3507,7 +3522,7 @@ zemlaskeria - ground force (army)
 zemlojia - geology  
 zemnici - underground (subterrainean)  
 zemnici prizone - dungeon (underground prison)  
-zemomedi mare - Mediterranean  
+zemomedi haye - Mediterranean  
 zemsisme - earthquake  
 zemtike - lot (plot of land)  
 zeyile - wart  
