@@ -148,7 +148,7 @@ basen - basene
 bateria - batre  
 baton czekoladowy - cokolatobatone  
 bawełna - gotone  
-bawić, zabawiać - fana  
+bawić, zabawiać - wana  
 bawół domowy - kabawe  
 baza danych (bank danych) - datobanke  
 bazowy, podstawowy - bazi  
@@ -270,7 +270,7 @@ Ceres (planeta karłowata) - seres
 cez - cesium  
 chaos, nieporządek; wrzawa, zgiełk - haose  
 chcieć (pragnąć) - ica  
-chcieć, pragnąć - wana  
+chcieć, pragnąć - vola  
 chciwy (żądny) - tami  
 chemia - kimia  
 chemiczny - kimi  
@@ -297,7 +297,7 @@ chłopak - jovani man
 ciasto, ciastko - keke  
 ciało - badan (badane)  
 ciało stałe - gatomate  
-cichy - xixi  
+cichy - xuxi  
 ciecierzyca - humuse  
 ciecz (płyn) - liwmate  
 ciekły (płynny) - liwmati  
@@ -642,6 +642,7 @@ Grecja - helenia
 Grenada - grenadia  
 Grenadyny - grenadin  
 Grenlandia - kalalia  
+grillować - kababa  
 grom, huk - grome  
 gruby - grosi  
 grudzień - navomese  
@@ -681,6 +682,7 @@ głosować (złożyć głos) - vota
 głowa - sare  
 głupi (idiotyczny) - idioti  
 głupiec, bufon - bufone  
+głód - yamnide  
 główny - xefi  
 ##h
 hafn - hafnium  
@@ -901,7 +903,7 @@ kawiarnia - kaferia
 Kazachstan - kazakia  
 każdy człowiek, wszyscy - pan ren  
 każdy, wszyscy - mey (meyi)  
-kebab - kababe  
+kebab - kababi manse  
 keczup - kecape  
 kelwin - kelvine  
 Kenia - kenia  
@@ -1085,7 +1087,7 @@ Laos - lawia
 laotański - lawi  
 larwa, czerw, gąsienica - larve  
 larwa, czerw, gąsienica - lasune  
-las, dżungla, zagajnik - jangale  
+las, dżungla, zagajnik - jangle  
 latarnia - hogosanduke  
 latać (fruwać) - liwu  
 latać, lecieć - feya  
@@ -1223,7 +1225,7 @@ mecz, rywalizacja - mece
 medalion, medal - medale  
 media - media  
 media społecznościowe - soci media  
-meduza - marjele  
+meduza - hayjele  
 medycyna - medikia  
 medytować; dumać, rozmyślać, zastanawiać się - medita  
 mega- - mego-  
@@ -1318,7 +1320,7 @@ morela - barkoke
 morf - morfe  
 morfem - morfeme  
 morski - hayi  
-Morze Śródziemne - zemomedi mare  
+Morze Śródziemne - zemomedi haye  
 moskovium - moskovium  
 most - pule  
 motocykl (motor) - motosikle  
@@ -1331,7 +1333,7 @@ możliwy - abli
 mrówka - maye  
 mucha - zeze  
 mumia - mumrene  
-mur, ściana - wale  
+mur, ściana - divare  
 musieć - bixu  
 muskuł, mięsień - muskule  
 muszkiet - muskete  
@@ -1424,7 +1426,7 @@ nie - no
 nie ruszać się - estasu  
 nie zgadzać się - alraya  
 niebezpieczeństwo, ryzyko, szansa - zare  
-niebezpieczny - hatari  
+niebezpieczny - hatri  
 niebieski - nili  
 niebieski, niebiański, podniebny - samani  
 niebo - samane  
@@ -1641,9 +1643,9 @@ patogen - patojener
 patologia - patolojia  
 patrzeć (oglądać) - kana  
 patrzeć, widzieć - vida  
-pauza, przerwa - pauze  
+pauza (przerwa) - pauze  
 paznokieć - nahune  
-pałac - gundene  
+pałac - daydome  
 paść, padać, upaść, upadać - padu  
 październik - setomese  
 pchnąć, pchać - puxa  
@@ -1853,6 +1855,7 @@ praca, zjęcie, zadanie - kare
 pracować - kara  
 pracownik - karer  
 practyczny, pragmatyczny - prati  
+pragnienie - suynide  
 praktyka, aktualność - prate  
 pralka - waxmaxine  
 prawa autorskie - kopiyhake  
@@ -1932,8 +1935,8 @@ przeszły, miniony - pasi
 przetłumaczyć, tłumaczyć, interpretować - tarja  
 przewodnik - gider  
 przeziębienie, katar - zukame  
-przeznaczenie, los - destine  
-przeznaczyć - destina  
+przeznaczenie, los - cenamene  
+przeznaczyć - gola  
 przeźroczysty, jasny - klari  
 przy, z, na, w, u - sa  
 przyczepić, przymocować - fiksa  
@@ -2148,7 +2151,7 @@ samar - samarium
 Samoa - samowia  
 samobieżny - automoti  
 samochód (automobil) - motogare  
-samogłoska - vokale  
+samogłoska - jungofone  
 samolot - vimane  
 San Marino - santi marinia  
 satanista - xataniste  
@@ -2258,7 +2261,7 @@ sprzątacz, sprzątacz - safer
 spróbować, próbować - testa  
 spód - nice  
 spódnica - jupe  
-spółgłoska - konsone  
+spółgłoska - kenarfone  
 spłonąć, płonąć - hogu  
 srać (robić gówno) - xita  
 srebro - argente  
@@ -2409,7 +2412,7 @@ tantal - tantalum
 Tanzania - tanzania  
 taoista - dawiste  
 taoizm - dawistia  
-tapeta - walpapire  
+tapeta - divarkagaze  
 tatuaż - tatawe  
 taxi, taksówka - taksogare  
 taśma - tepe  
@@ -2687,7 +2690,7 @@ wodny - suyi
 wodoodporny - suysekuri  
 wodór - hidre  
 wojownik, bojownik - jenger  
-wola (chęć, pragnienie) - wane  
+wola (chęć, pragnienie) - vole  
 wola, chęć - ice  
 wolfram - wolfram  
 wolność, niepodległość, niezależność - huria  
@@ -2720,7 +2723,7 @@ wtorek - var 2 (var duli)
 wy, was - tote  
 wybrać, wybierać, selekcjonować - cuza  
 wybrzeże (brzeg, krawędź) - tate  
-wybrzeże (plaża) - martate  
+wybrzeże (plaża) - haytate  
 Wybrzeże Kości Słowniowej - kotedivuaria  
 wybór, elekcja, selekcja - cuze  
 wycie, skowyt - ulule  
@@ -2789,8 +2792,8 @@ z boku (na bok) - lato
 z, od - ca  
 ##z
 zaakceptować, akceptować, powiedzieć okej, mówić okej - okeya  
-zabawa, rozrywka - fane  
-zabawny - fani  
+zabawa, rozrywka - wane  
+zabawny - wani  
 zabić, zabijać - morta  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - harami  
 zabronić (wzbronić, zakazać) - harama  
@@ -2808,7 +2811,7 @@ zaczyna (zacząć, rozpoczynać, rozpocząć) - kaixu
 zacząć, zaczynać - kaixa  
 zagranica - waydexia  
 zagraniczny - waydexi  
-zagrożenie, niebezpieczeństwo - hatare  
+zagrożenie, niebezpieczeństwo - hatre  
 zaimek - visloge  
 zainteresowanie, zaciekawienie; interesujący - interese  
 zajęty - bizi  
@@ -2913,7 +2916,7 @@ znowu (ponownie) - repo
 znudzony - bori  
 zombie, zombi - zombe  
 zoo (ogród zoologiczny) - hewanparke  
-zostawić, zostawiać - xuxe  
+zostawić (zostawiać) - xante  
 zostać, zostawać - restu  
 zrobić (stworzyć, wykreować) - fata  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - cana  
@@ -2924,8 +2927,8 @@ zupa - supe
 zwinny, sprawny - ajili  
 związać, wiązać; zapiąć, zapinać - benda  
 związek, powiązanie, połączenie - guanxe  
-zwycięstwo, wygrana - wine  
-zwyciężyć, wygrać - wina  
+zwycięstwo, wygrana - xenge  
+zwyciężyć, wygrać - xenga  
 zwyczajny (rutynowy, normalny) - adi  
 zwykły, zwyczajny, prosty - sadi  
 zygzag - zigzage  
@@ -2941,7 +2944,7 @@ zły (wsciekły, gniewny) - furi
 zły - mal (mali)  
 zły los - mal zare  
 zły, zrujnowany, zepsuty - harabi  
-ćsi - xixo  
+ćsi - xuxo  
 ćwiczenie - lenxe  
 ćwiczyć - lenxa  
 Łotwa - latovia  

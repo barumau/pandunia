@@ -47,6 +47,7 @@ alofono - alfone
 alta - gawi  
 altaro - altare  
 aluminio - alumine  
+amato - amike  
 ambasado - daixeria  
 ambasadoro - daixer  
 americio - amerikium  
@@ -58,9 +59,9 @@ amikeco - dostia
 amiko - doste  
 amo - ame  
 ampero - ampere  
-amuza - fani  
-amuzi - fana  
-amuzo - fane  
+amuza - wani  
+amuzi - wana  
+amuzo - wane  
 analizi - analiza  
 analizo - analize  
 ananaso - nanase  
@@ -82,7 +83,7 @@ aparteni - tenu
 araba - arabi  
 araneo - arane  
 araneofobio - aranfobia  
-arbaro - jangale  
+arbaro - jangle  
 arbo - moke  
 arboĝardeno - mokojongoparke  
 areo - are  
@@ -248,8 +249,8 @@ danco - danse
 Danio - dania  
 danki - danka  
 danko - danke  
-danĝera - hatari  
-danĝero - hatare  
+danĝera - hatri  
+danĝero - hatre  
 dato - nenmesdene  
 datumbanko - datobanke  
 datumo - date  
@@ -914,6 +915,7 @@ malproksimeco - tele
 malproksimeco - telia  
 malrapida - lenti  
 malsana - pati  
+malsato - yamnide  
 malsukceso - xibaye  
 maltro - min ko bas  
 malvarma - lengi  
@@ -1112,7 +1114,7 @@ paco - pace
 pajaco - bufone  
 pakaĵo - bagaje  
 pako - pake  
-palaco - gundene  
+palaco - daydome  
 paladio - paladium  
 palmo - palme  
 palto - kote  
@@ -1376,7 +1378,8 @@ seĝo - kurse
 si - ze  
 sidi - sida  
 signifo - mene  
-silenta - xixi  
+silenta - xuxi  
+silentigi - xuxa  
 silicio - silike  
 simpla - simpli  
 Singapuro - singapur  
@@ -1393,6 +1396,7 @@ skultisto - eskulter
 smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
+soifo - suynide  
 sola (ununura) - uniki  
 soldato - gunrene  
 sole - uniko  
@@ -1450,7 +1454,7 @@ tamburo - gume
 tamen - lekin (lekino)  
 tantalo - tantalum  
 Tanzanio - tanzania  
-tapeto - walpapire  
+tapeto - divarkagaze  
 taso - kope  
 tatuo - tatawe  
 teknecio - tehnetium  
@@ -1504,7 +1508,7 @@ traduki - tarja
 tradukisto - tarjer  
 traduko - tarje  
 trajno (vagonaro) - tren (trene)  
-trankvila - xanti  
+trankvila (serena) - xanti  
 tranĉi - kata  
 tranĉilo - cake  
 trezoro - bawe  
@@ -1550,8 +1554,8 @@ vazo (florpoto) - fulvaze
 vazo - vaze  
 vendredo - var 5 (var limi)  
 veni - laya  
-venki - wina  
-venko - wine  
+venki - xenga  
+venko - xenge  
 venti - hawa  
 vento - hawe  
 ventro - pete  
@@ -1596,10 +1600,10 @@ vojaĝanto - safarer
 vojaĝi - safara  
 vojaĝo - safare  
 vojo - daw (dawe)  
-vokalo - vokale  
-voli - wana  
+vokalo - jungofone  
+voli - vola  
 volo - ice  
-volo - wane  
+volo - vole  
 vortaro - logia  
 vortaro - logoliste  
 vorto (parolo) - loge  
@@ -1675,8 +1679,10 @@ zuluo - zuli
 ŝamano - xamane  
 ŝampuo - kexsabune  
 ŝanco - canse  
+ŝanĝi (aliigi) - ala  
 ŝario - islamisti xaria  
 ŝati - suku  
+ŝaŝliko - xixmanse  
 ŝlosilo - cabe  
 ŝoforo (kondukisto) - xofer  
 ŝranko - almare  

@@ -21,9 +21,10 @@ ajili - 灵活的
 akare - 蜱 (螨)  
 akse - 轴线  
 aksente - 重音符号  
+ala - 改變  
 alge - 藻类  
 algofunge - 地衣  
-algojangale - 海藻林  
+algojangle - 海藻林  
 ali - 另一  
 alkole - 酒  
 almare - 碗碟橱  
@@ -32,6 +33,7 @@ alraya - 不同意
 altare - 圣坛  
 ama - 爱  
 ami - 亲爱的  
+amike - 亲爱的  
 analiza - 分析  
 analize - 分析  
 andesite - 安山岩  
@@ -151,6 +153,7 @@ camace - 匙子
 cari - 四 (4)  
 cay (caye) - 茶  
 caykope - 茶碗  
+cenamene - 命運  
 cendeno - 昨日  
 cenge - 层  
 ceno - 以前  
@@ -173,6 +176,7 @@ danger - 钟 (摇铃)
 dantobalute - 槲树  
 date - 数据  
 datobanke - 数据库  
+daydome - 殿 (宫殿, 宅第)  
 dayhaye - 大洋 (大海)  
 daypawe - 大炮  
 dayvaze - 炼药锅  
@@ -180,7 +184,6 @@ dayxeke - 磐石
 debili - 虚弱 (易坏)  
 defbanze - 盾牌  
 defkaske - 盔甲  
-destine - 目的地 (命運)  
 dew (dewe) - 神  
 dexrene - 公民  
 dika - 瞄准  
@@ -191,6 +194,8 @@ dinge - 钉子
 diniste - 信徒  
 diorite - 闪长岩  
 diske - 圆盘  
+divare - 墙  
+divarkagaze - 壁纸 (墙纸)  
 dobe - 砖  
 dolfine - 海豚  
 dome - 房子  
@@ -271,7 +276,6 @@ granite - 花岗石
 grave - 砾石  
 grimase - 鬼脸  
 guangjou - 广州  
-gundene - 殿 (宫殿, 宅第)  
 gune - 军队  
 gunrene - 军人  
 gute - 膝  
@@ -286,11 +290,14 @@ hami - 重要
 hamili - 怀孕  
 hande - 手  
 handoxake - 胳膊  
+hatre - 危险  
 hayalge - 海藻  
 haye - 海  
 hayfule - 海葵  
 haygune - 海军  
 hayhiyare - 海參  
+hayjele - 海蜇  
+haytate - 海岸  
 helise - 螺旋  
 helisvimane - 直升机  
 helpa - 帮助  
@@ -493,8 +500,6 @@ manse - 肉
 mantole - 斗篷  
 maragaye - 長尾虎貓  
 mare - 次 (度, 遍)  
-marjele - 海蜇  
-martate - 海岸  
 masale - 香料  
 masmulsolfule - 菊芋  
 maste - 桅  
@@ -724,6 +729,7 @@ suy (suye) - 水
 suygase - 蒸汽  
 suykaboge - 葫芦  
 suyminte - 水薄荷  
+suynide - 口渴  
 ##t
 taile - 砖 (瓦)  
 taksometer - 计程器  
@@ -785,12 +791,12 @@ vendoxope - 贸易
 vespe - 蜂  
 vida - 看  
 vijine - 味精  
+vola - 想要 (愿意)  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ##w
-wale - 墙  
-walpapire - 壁纸 (墙纸)  
-wana - 想要 (愿意)  
+wane - 娱乐  
+wanu - 玩耍  
 waxurse - 浣熊  
 wayoyame - 野餐  
 waytira - 拉  
@@ -813,6 +819,8 @@ xipa - 弄湿
 xipi - 湿  
 xire - 诗  
 xite - 粪 (屎)  
+xixe - 扦子  
+xixmanse - 串烧  
 xofa - 开车  
 xofer - 司机  
 xopa - 买  
@@ -820,7 +828,10 @@ xope - 购物 (血拼)
 xukare - 糖  
 xukargrase - 甘蔗  
 xute - 技术  
+xuti - 熟练  
+xuxo - 噓  
 ##y
+yamnide - 饥饿  
 yexo - 还 (依然)  
 yoge - 瑜伽功  
 yongopetre - 熔岩  

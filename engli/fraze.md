@@ -49,7 +49,7 @@ Good evening!
 **salam noce!**
 Good night!
 
-**salam niame!**
+**salam yame!**
 Bon appetit!
 
 **salam lay!**
@@ -427,7 +427,7 @@ I have a good house.
 **le no tena pese.**
 He/she doesn't have money.
 
-**me wana tena novi fone.**
+**me vola tena novi fone.**
 I want to have a new phone.
 
 **eska te tena bace?**
@@ -462,60 +462,60 @@ Can you help me?
 **eska me abla helpa te?**
 Can I help you?
 
-**me wana helpa te.**
+**me vola helpa te.**
 I want to help you.
 
 
 ## Part 2: Eating
 
-### niama <small>consume, eat, drink</small>
+### yama <small>consume, eat, drink</small>
 
-**eska te wana niama koy?**
+**eska te vola yama koy?**
 Would you like to eat something?
 
-**le niama aple.**
+**le yama aple.**
 He/she eats an apple.
 
-**lole niama aple.**
+**lole yama aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
-**eska te niama kafe?**
+**eska te yama kafe?**
 Do you drink coffee?
 
-**me niama kafe.**
+**me yama kafe.**
 I drink coffee.
 
-Tip: Meaning of **niama** covers both eating and drinking. It can feel odd at
+Tip: Meaning of **yama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**me niama kafe e pang.**
+**me yama kafe e pang.**
 I'm having coffee and bread.
 
 
-### wana <small>want</small>
+### vola <small>want</small>
 
-**eska te wana niama?**
+**eska te vola yama?**
 Would you like to eat?
 
-**te wana niama ke?**
+**te vola yama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**me wana niama kafe.**
+**me vola yama kafe.**
 I want to drink coffee.
 
-**eska te wana niama cay?**
+**eska te vola yama cay?**
 Would you like to drink tea?  
-**no. me no wana cay. me wana kafe.**
+**no. me no vola cay. me vola kafe.**
 No, I don't want tea. I want coffee.
 
-**te wana ki aple?**
+**te vola ki aple?**
 Which apple do you want?  
 **yi ros.**
 This red one.
@@ -523,7 +523,7 @@ This red one.
 
 ### pliza <small>request, please</small>
 
-**me pliza te niama cay.**
+**me pliza te yama cay.**
 I ask you to drink tea.
 
 **me pliza te laya dome.**
@@ -534,10 +534,10 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**pliza niama cay.**
+**pliza yama cay.**
 Please, have some tea!
 
-**pliza niama kafe.**
+**pliza yama kafe.**
 Please, have some coffee!
 
 **pliza laya dome.**
@@ -549,10 +549,10 @@ Please, help me.
 
 ### haida <small>let's</small>
 
-**haida niama!**
+**haida yama!**
 Let's eat!
 
-**haida gowa niama!**
+**haida gowa yama!**
 Let's go eat!
 
 **haida gowa dome.**
@@ -564,10 +564,10 @@ Let's go home.
 **me nida helpe.**
 I need help.
 
-**me nida niama.**
+**me nida yama.**
 I'm hungry.
 
-**eska te nida niama?**
+**eska te nida yama?**
 Are you hungry?
 
 **eska te nida suy?**
@@ -921,7 +921,7 @@ I give this to you.
 **me dona buke pa lole.**
 I give a book to them.
 
-**le no wana dona le pa me.**
+**le no vola dona le pa me.**
 He/she doesn't want to give it to me.
 
 
@@ -948,10 +948,10 @@ The rent is 500 dollars in a month.
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me wana kapa un gare sa kire.**  
+**me vola kapa un gare sa kire.**  
 I want to take a car for rent.
 
-**me wana kirokapa un gare.**
+**me vola kirokapa un gare.**
 I want to rent a car.
 
 **le kirodona kamare pa safarer.**

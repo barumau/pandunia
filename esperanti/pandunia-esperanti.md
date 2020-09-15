@@ -35,6 +35,7 @@ aisu - glaciiĝi (frostiĝi)
 ajili - lerta  
 akse - akso  
 aksente - akcento  
+ala - ŝanĝi (aliigi)  
 alfone - alofono  
 alge - algo  
 ali - alia  
@@ -57,6 +58,7 @@ amerike - Ameriko
 ameriki - amerika  
 amerikium - americio  
 ami - kara  
+amike - amato  
 ampere - ampero  
 analiza - analizi  
 analize - analizo  
@@ -326,6 +328,7 @@ date - datumo
 datobanke - datumbanko  
 daw (dawe) - vojo  
 day (dayi) - granda  
+daydome - palaco  
 dayhaye - oceano  
 daypawe - kanono  
 daypawer - kanonisto  
@@ -364,6 +367,7 @@ dini - religia
 diniste - kredulo  
 diske - disko  
 disprosium - disprozio  
+divarkagaze - tapeto  
 dolare - dolaro  
 dolfine - delfeno  
 doma - loĝi  
@@ -454,9 +458,6 @@ faini - fajna
 fajane - disvolvi  
 famile - familio  
 familnam - familinomo  
-fana - amuzi  
-fane - amuzo  
-fani - amuza  
 fani - kotraŭa  
 fansoldixo - maldekstrume  
 fantaza - fantaci  
@@ -610,7 +611,6 @@ gude - ĉevalo
 guhe - kaverno  
 gula - gluti  
 gume - tamburo  
-gundene - palaco  
 gune - armeo  
 gunrene - soldato  
 gure - guruo (instruisto)  
@@ -650,8 +650,8 @@ harmoni - harmonia
 harmonia - harmonio  
 hasi - speciala  
 hasium - hasio  
-hatare - danĝero  
-hatari - danĝera  
+hatre - danĝero  
+hatri - danĝera  
 hawa - venti  
 hawe - vento  
 haye - maro  
@@ -741,8 +741,8 @@ jampa - salti
 jana - scii (koni)  
 jane - scio  
 janele - fenestro  
-jangale - arbaro  
 janger - metiisto  
+jangle - arbaro  
 janlojia - sciteorio (epistemologio)  
 jawaba - respondi  
 jawabe - respondo  
@@ -770,6 +770,7 @@ jovania - juneco
 judaw - ĵudo  
 jule - ĵulo (J)  
 junge - centro  
+jungofone - vokalo  
 jungogia - Ĉinio  
 jupe - jupo  
 juse - suko  
@@ -1469,6 +1470,7 @@ suxe - suŝio
 suy (suye) - akvo  
 suygase - vaporo  
 suyi - akva  
+suynide - soifo  
 suyporte - haveno  
 ##t
 tabake - tabako  
@@ -1580,13 +1582,14 @@ visloge - pronomo
 vizita - vizito  
 vizite - viziti  
 viziter - vizitanto  
-vokale - vokalo  
+vola - voli  
+vole - volo  
 vulve - vulvo  
 ##w
 wada - promesi  
-walpapire - tapeto  
-wana - voli  
-wane - volo  
+wana - amuzi  
+wane - amuzo  
+wani - amuza  
 warkolate - paĝo  
 wase - oazo  
 wate - vato  
@@ -1602,8 +1605,6 @@ wike - vikia artikulo
 wikia - vikio  
 wil (wilo) - estonte  
 wile - estonoteco  
-wina - venki  
-wine - venko  
 wolfe - lupo  
 ##x
 xake - branĉo  
@@ -1613,7 +1614,7 @@ xamden - posttagmeze
 xame - vespero  
 xamyame - vespermanĝo  
 xane - monto  
-xanti - trankvila  
+xanti - trankvila (serena)  
 xarme - honto  
 xarnire - ĉarniro (pivoto)  
 xarte - kondiĉo (postulo)  
@@ -1623,6 +1624,8 @@ xawi - malmulte
 xefe - estro (ĉefulo)  
 xefi minister - ĉefministro  
 xeke - ŝtono  
+xenga - venki  
+xenge - venko  
 xenon - ksenono  
 xeyhale - situacio (aferstato)  
 xibaye - malsukceso  
@@ -1633,7 +1636,7 @@ xinge - stelo
 xire - poemo  
 xirope - siropo  
 xite - merdo  
-xixi - silenta  
+xixmanse - ŝaŝliko  
 xofa - konduki  
 xofer - ŝoforo (kondukisto)  
 xopa - aĉeti  
@@ -1644,10 +1647,13 @@ xukare - sukero
 xula - ripari  
 xule - riparo  
 xuler - riparisto  
+xuxa - silentigi  
+xuxi - silenta  
 ##y
 yala - rapidigi  
 yama - manĝi (trinki)  
 yamkamare - manĝoĉambro  
+yamnide - malsato  
 yange - speco (tipo, stilo)  
 ye - ĉi tio  
 yemenia - Jemeno  

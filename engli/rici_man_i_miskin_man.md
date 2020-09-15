@@ -18,7 +18,7 @@ un rici man tena bekeria.
 </td><td>
 A rich man owned the bakery.
 </td></tr><tr><td>
-miskini man nosa niami pang mey den, a no abla peya.
+miskini man nosa yami pang mey den, a no abla peya.
 </td><td>
 The poor man smelled the delicious bread every day, but could not afford it.
 </td></tr><tr><td>
@@ -26,7 +26,7 @@ un den, rici man lida miskini man pa hakimer.
 </td><td>
 One day the rich man lead the poor man before a judge.
 </td></tr><tr><td>
-rici man loga pa hakimer, "yi man nosa mi niami pang mey den, a peya pa mi nol xey ca le."
+rici man loga pa hakimer, "yi man nosa mi yami pang mey den, a peya pa mi nol xey ca le."
 </td><td>
 The rich man said, "This man smells my delicious bread every day but pays me nothing for it."
 </td></tr><tr><td>
@@ -50,7 +50,7 @@ auri pesoparce sondu.
 </td><td>
 The coins jingled.
 </td></tr><tr><td>
-hakimer loga, "miskini man nosa pang, a no niama le.
+hakimer loga, "miskini man nosa pang, a no yama le.
 </td><td>
 The judge said, "The poor man smelled the bread, but did not eat it.
 </td></tr><tr><td>

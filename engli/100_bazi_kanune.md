@@ -23,17 +23,17 @@ They are described in more detail later in this document.
     - ex. 2. **te loga bono.** = You talk well.
 7. The verb ending **-a** indicates that the verb is active
    and the agent of the action is immediately before the verb.
-    - ex. **me niama aple.** = I eat apples.
+    - ex. **me yama aple.** = I eat apples.
 8. The verb ending -u indicates that the verb is passive
    and the recipient of the action is immediately before the verb.
-    - ex. **aple niamu.** = Apples are eaten.
+    - ex. **aple yamu.** = Apples are eaten.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
     - ex. **me pliza te dona pes.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
-    - **me pliza te loga mingo.** →  **pliza loga mingo.**
+    - **me pliza te loga klaro.** →  **pliza loga klaro.**
       = Please speak clearly.
 11. Compound words are created by putting the word stems side by side.
     The linking vowel **-o-** is inserted between the stems.

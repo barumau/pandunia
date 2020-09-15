@@ -230,6 +230,7 @@ artículo (documento) - papire
 artículo (texto) - makale  
 Aruba - arubia  
 asar (tostar) - rosta  
+asar - kababa  
 asceta - askete  
 asegurar (confirmar) - amena  
 asesino - morter  
@@ -290,6 +291,7 @@ bah - bah
 Bahamas - bahamia  
 bahaísmo (fe bahá'i) - bahayistia  
 bahá'í - bahayiste  
+bahía - baye  
 baile (danza) - danse  
 bajar - tala  
 bajo - tali  
@@ -379,8 +381,8 @@ bomba - bombe
 bombear - pompa  
 boro - boron  
 Bosnia y Herzegovina - bosnia  
-bosque (jungla, selva) - jangale  
-bosque de algas - algojangale  
+bosque (jungla, selva) - jangle  
+bosque de algas - algojangle  
 bota - bute  
 botella - botele  
 Botsuana - cuania  
@@ -390,6 +392,7 @@ Brasil - brazilia
 bravo! - bravo  
 brazo - handoxake  
 brillante (luminoso) - mingi  
+brocheta - xixe  
 broma (chiste) - joke  
 bromista (chistoso) - joker  
 bromo - bromium  
@@ -466,6 +469,7 @@ californio - kalifornium
 caliza - kalcopetre  
 cama - bede  
 camarón - krevete  
+cambiar (demudar) - ala  
 cambiar - muta  
 cambio climático - klimomute  
 Camboya - kambudia  
@@ -595,6 +599,7 @@ chinés (de los Han) - cini
 Chipre - kipris  
 Chipre del Norte - nordi kipris  
 chisporrotear - ziza  
+chito (chist) - xuxo  
 chocolate - cokolate  
 choque (sacudida) - xoke  
 chorrear - lowa  
@@ -732,7 +737,7 @@ consejo - mente
 conservar (preservar, mantener) - hafiza  
 considerar (pensar en) - konsida  
 considerar (reflexionar) - hema  
-consonante - konsone  
+consonante - kenarfone  
 constitución - bazokanune  
 construir (edificar) - bina  
 contar - nombra  
@@ -774,7 +779,7 @@ Corán - kuran
 cosa - xey (xeye)  
 coser - suta  
 cosmos - kosmia  
-costa - martate  
+costa - haytate  
 Costa de Marfil - kotedivuaria  
 Costa Rica - kostarikia  
 costar - kosta  
@@ -920,10 +925,10 @@ desacuerdo - alraye
 desarrollo - fajane  
 desatascar - antapa  
 desayuno - subyame  
-descanso (alivio) - xuxe  
+descanso (alivio) - xante  
 descargar - netogeta  
 descriptivo - sifi  
-deseo - wane  
+deseo - vole  
 desierto - registan  
 deslizar - glisu  
 desnudo - nudi  
@@ -931,8 +936,8 @@ despertar - weka
 despierto - weki  
 despreciar (desdeñar) - paraya  
 destapar - andaka  
-destinar - destina  
-destino - destine  
+destinar - gola  
+destino - cenamene  
 detalle - detale  
 devolver (vomitar) - retrogula  
 diagonal - transogoni  
@@ -964,6 +969,7 @@ disco - diske
 discreto (digital) - feni  
 discusión (debate, discurso) - lona  
 disentir (no estar de acuerdo) - alraya  
+disfrutar (jugar) - wanu  
 disionario (lexicón) - logoliste  
 disparar - pawa  
 dispersar (esparcir, desmontar) - anjama  
@@ -971,9 +977,9 @@ dispositivo pirotécnico - hogotehne
 disprosio - disprosium  
 distancia - telia  
 distintos (diversos) - balibali  
-diversión - fana  
-divertido - fani  
-divertir (entretener) - fane  
+diversión - wane  
+divertido - wani  
+divertir (entretener) - wana  
 dividir (repartir) - fena  
 divino - dewi  
 dióxido de carbono - karbondulokside  
@@ -1160,6 +1166,7 @@ esperar - denga
 espicificar (estipular) - xarta  
 espiral (hélice) - helise  
 esponja - esponje  
+esposo o esposa - gamike  
 espárrago - lusune  
 esqueleto (armazón) - ostojamia  
 esquina (rincón, ángulo) - gone  
@@ -1347,7 +1354,7 @@ gato - maw (mawe)
 gato manchado (tigrillo) - bagroselote  
 gato tigre (maracayá) - maragaye  
 gay (homosexual) - geyi  
-gañar (triunfar, lograr, desrotar) - wina  
+gañar (triunfar, lograr, desrotar) - xenga  
 gel (jalea, gelatina) - jele  
 generación (cohorte) - jengrupe  
 general (common) - putong (putongi)  
@@ -1446,7 +1453,6 @@ hace girar (dar vueltas) - rota
 hacedor (perpetrador) - er (ere)  
 hacer (verbo activo) - isa  
 hacer - fata  
-hacer callar (chist) - xixo  
 hacer posar (plantar) - poza  
 hacer un nudo - noda  
 hacer yoga - yoga  
@@ -1456,6 +1462,7 @@ hafnio - hafnium
 Haití - haitia  
 halo (aureola) - fotocirke  
 hamaca - hamake  
+hambre - yamnide  
 hasio - hasium  
 hasta (también) - ato  
 hasta - ata  
@@ -1630,7 +1637,9 @@ Iraq - irakia
 iridio - iridium  
 Irlanda - airia  
 Irlanda del Norte - nordi airia  
+ironía - ironia  
 Irán - irania  
+irónico - ironi  
 isla - nese  
 Isla de Man - maninia  
 Isla de San Vicente - santi vinsente  
@@ -1817,6 +1826,7 @@ lleno (completo) - puri
 llevar (vestir) - fuka  
 llorar - duku  
 llorar - kuga  
+llover - barxu  
 lluvia - barxe  
 lluvioso (pluvioso) - barxi  
 lo lejos - tele  
@@ -1956,8 +1966,8 @@ medio - media
 medioambiente (naturaleza) - ekia  
 medir (tomar las medidas) - meta  
 meditar (reflexionar) - medita  
-Mediterráneo - zemomedi mare  
-medusa - marjele  
+Mediterráneo - zemomedi haye  
+medusa - hayjele  
 mega- - mego-  
 megavatio - megwate  
 meitnerio - maitnerium  
@@ -1986,7 +1996,7 @@ mercurio - hurargente
 mesa - meze  
 meseta - mezistan  
 mesiánico - kristi  
-meta (gol) - gole  
+meta (gol, destinación) - gole  
 metal - metale  
 metal pesado - barmetale  
 meter prisa - yala  
@@ -2042,6 +2052,7 @@ Moldova - moldovia
 moler (pulverizar) - mola  
 molestar (irritar, fastidiar) - irita  
 molestar (preocupar) - mafana  
+molestar en - mafanu  
 molibdeno - molidenum  
 molinero - moler  
 molino - molia  
@@ -2091,7 +2102,7 @@ multiculturalismo - polkulturistia
 multinacional - polnasi  
 mundo - dunia  
 murciélago - feymuxe  
-muro (muralha) - wale  
+muro (muralha) - divare  
 musgo - mose  
 musgoso - mosi  
 musulmán - islamiste  
@@ -2151,6 +2162,7 @@ nervio - neure
 neural - neuri  
 neurona - neursele  
 neuropatía - neurpatia  
+nevar - himu  
 newton (N) - nuton  
 neón - neon  
 Nicaragua - nikaragia  
@@ -2293,7 +2305,7 @@ pago - peye
 Pakistán - pakistan  
 pala - bele  
 palabra (vocablo) - loge  
-palacio (mansión) - gundene  
+palacio (mansión) - daydome  
 paladio - paladium  
 palanca - tirbatone  
 Palaos - palawia  
@@ -2325,7 +2337,7 @@ papa - patate
 papaya - papaye  
 papel - kagaze  
 papel - role  
-papel tapiz - walpapire  
+papel tapiz - divarkagaze  
 Papúa Nueva Guinea - papuwi novi ginia  
 paquete - pake  
 parada (alto) - ting (tinge)  
@@ -2391,8 +2403,8 @@ pegar - peya
 peine - kange  
 Pekín - beijing  
 pelea (guerra, batalla) - jenge  
-peligro - hatare  
-peligroso - hatari  
+peligro - hatre  
+peligroso - hatri  
 pelo - kexe  
 película (film, membrana) - filme  
 película (filme) - kingrafe  
@@ -2451,7 +2463,6 @@ pilaf (pulaw) - polave
 piloto - piloter  
 pimienta - pipre  
 pimpollo - jovani moke  
-pincho (brocheta) - kababe  
 pingüino - pinguine  
 pino - songe  
 pintar - penta  
@@ -2629,8 +2640,9 @@ que (como) - ko
 quedarse - restu  
 quemar - hoga  
 quemarse - hogu  
-querer (desear) - wana  
+querer (desear) - vola  
 querer (disponer) - ica  
+querido (amado) - amike  
 querido - ami  
 querubín - kerube  
 queso - cise  
@@ -2861,6 +2873,7 @@ seco (árido) - gani
 secretario - sekreter  
 secretaría - sekreteria  
 secreto - siri  
+sed - suynide  
 seda - sile  
 seguir - bada  
 segundo - sekunde  
@@ -2911,7 +2924,7 @@ significar - mena
 siguiente (trasero) - badi  
 sij - sikiste  
 sijismo - sikistia  
-silencioso - xixi  
+silencioso - xuxi  
 silicio - silike  
 silla (montura) - side  
 silla - kurse  
@@ -3271,7 +3284,7 @@ viaje - safare
 viajero - safarer  
 vice- - visi  
 vicepresidente - visprezidente  
-victoria - wine  
+victoria - xenge  
 vida - jive  
 vida orgánica - biwe  
 vidriado (esmalte) - kancodake  
@@ -3301,7 +3314,7 @@ vista (visión) - vide
 vivir (residir) - doma  
 vivo (lleno de vida) - jivi  
 vocabulario (léxico) - logia  
-vocal - vokale  
+vocal - jungofone  
 volar - feya  
 volcán - hogoxane  
 voltio (V) - volte  

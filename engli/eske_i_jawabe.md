@@ -85,11 +85,12 @@ languages.
 
 #### Who made Pandunia?
 
-The main creator of Pandunia is _Risto Kupsala_, a Finn who wants to
-help the world communicate better. People from many countries have
-helped over the years.
-
-![](http://www.pandunia.info/grafe/risto.png "Risto")
+The starter of Pandunia is _Risto Kupsala_ (born in Finland in 1979).
+He is a language hobbyist and an engineer in information technology
+who wants to help the world communicate better.
+People from many countries have helped over the years.
+There is a list of some of the contributors in
+[GitHub](https://github.com/barumau/pandunia/graphs/contributors).
 
 
 

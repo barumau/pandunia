@@ -386,6 +386,7 @@ graafikko - grafer
 graafinen - grafi  
 gramma - grame  
 Grenada - grenadia  
+grillata (kärventää) - kababa  
 Grönlanti - kalalia  
 Guadeloupe - guadelupia  
 Guam - guamia  
@@ -405,8 +406,8 @@ hajauttaa - anjama
 hajottaa (särkeä, repiä, sirpaloida) - parca  
 hallinto (hallinnointi) - nomia  
 hallita yksinvaltaisesti - impera  
-halu (toive) - wane  
-haluta - wana  
+halu (toive) - vole  
+haluta - vola  
 halveksia (hyljeksiä) - paraya  
 hame - jupe  
 hammas - dante  
@@ -431,7 +432,7 @@ hasis - haxixe
 hasium - hasium  
 haudata - gabra  
 haureus (uskottomuus) - zine  
-hauska (huvittava) - fani  
+hauska (huvittava) - wani  
 hauta - gabre  
 hautakivi - gabroxeke  
 hautausmaa - gabristan  
@@ -478,8 +479,9 @@ hiiri - muxe
 hiiva - hamire  
 hiki - suede  
 hikinen - suedi  
-hiljainen (hys, shhh) - xixo  
-hiljainen - xixi  
+hiljaa (hys, shhh) - xuxo  
+hiljainen - xuxi  
+hiljentää - xuxa  
 Himalaja - himalia  
 himo (halu) - kamia  
 hindu - hindiste  
@@ -532,7 +534,7 @@ huuli - labe
 huume - droge  
 huumori - yumore  
 huutaa - krita  
-huvi (hauskuus) - fane  
+huvi (hauskuus) - wane  
 hygieeninen - hijeni  
 hygienia (puhtaus) - hijenia  
 hyi! (pyh!) - fuy  
@@ -653,6 +655,7 @@ jalkapallo - futobole
 jalokivi - bawxeke  
 Jamaika - jamaikia  
 jambolaani - jambule  
+jano - suynide  
 Japani - niponia  
 japanilainen - niponi  
 jasmiini - malike  
@@ -830,7 +833,7 @@ kauneus - sundaria
 kaunis (komea, sievä) - sundari  
 kaupunki - nagre  
 Kazakstan - kazakia  
-kebab (varrasliha) - kababe  
+kebab (grilliliha) - kababi manse  
 kehitys - fajane  
 keho (ruumis) - badan (badane)  
 kehonrakennus (bodaus) - muskulbine  
@@ -963,7 +966,7 @@ kone - maxine
 kongolainen - kongoli  
 konkani (eräs intialainen kieli) - konkani  
 konsertti - konserte  
-konsonantti - konsone  
+konsonantti - kenarfone  
 kontaktikieli (pidgin) - pijine  
 kontiainen (maamyyrä) - krote  
 koodata - koda  
@@ -1181,7 +1184,7 @@ lentoasema (lentokenttä) - airporte
 lentokone - vimane  
 lentokonekaappari - vimankaper  
 lentää - feya  
-lepo - xuxe  
+lepo - xante  
 Lesoto - sotowia  
 leveä - kuani  
 levottomuus (konflikti) - anpace  
@@ -1407,7 +1410,7 @@ metalli - metale
 meteli - kelele  
 metri - metre  
 metrojuna (maanalainen) - tuneltren  
-metsä (viidakko) - jangale  
+metsä (viidakko) - jangle  
 miekka - katane  
 mielikuvituksekas (fantastinen) - fantazi  
 mielikuvitus (fantasia) - fantaze  
@@ -1498,6 +1501,7 @@ muuten (toisin) - alo
 muuttaa (muuntaa) - muta  
 muuttaa (siirtyä) - migru  
 muuttaa (siirtää) - migra  
+muuttaa (tehdä eriksi) - ala  
 muutto (migraatio) - migre  
 Myanmar (Burma) - mianmia  
 myky (pelmeni, ravioli) - pelmene  
@@ -1511,8 +1515,8 @@ myös (lisäksi, plus) - maxo
 myötätunto (sympatia) - samemose  
 mänty - songe  
 määritellä (luonnehtia) - sifa  
-määrä (päämäärä, kohtalo) - destine  
-määrätä - destina  
+määrä (päämäärä, kohtalo) - cenamene  
+määrätä - gola  
 ##n
 naamio (maski) - maske  
 naaras - fem (feme)  
@@ -1600,6 +1604,7 @@ nähdä - vida
 näkymä - vide  
 näkyä - vidu  
 näkökenttä - vidomaidane  
+nälkä - yamnide  
 näppäimistö - butonbanze  
 näytellä - rola  
 näyttelijä - roler  
@@ -1712,7 +1717,7 @@ pala - tike
 palaa - hogu  
 palanen (murunen, riekale, sirpale) - parce  
 palata - retra  
-palatsi - gundene  
+palatsi - daydome  
 Palau - palawia  
 palauttaa - fuga  
 Palestiina - filistinia  
@@ -1918,6 +1923,7 @@ punainen - lali
 punta - paunde  
 puola - polskia  
 puolalainen - polski  
+puoliso (aviomies tai -vaimo) - gamike  
 puolittaa (jakaa kahdella) - dulo fena  
 puolustaa - defa  
 puolustaja - defer  
@@ -1983,6 +1989,7 @@ raha - pese
 rahka - panire  
 raja - limite  
 rakas (armas) - ami  
+rakas (kulta) - amike  
 rakastaa (pitää, tykätä) - ama  
 rakastaa romanttisesti - romansa  
 rakentaa - bina  
@@ -2003,7 +2010,7 @@ rasva (öljy) - fete
 rasvainen - feti  
 ratas - cakre  
 rauha - pace  
-rauhallinen (tyyni) - xanti  
+rauhallinen (levollinen, tyyni) - xanti  
 rauhanaate (pasifismi) - pacistia  
 rauta - fere  
 ravintola - restorante  
@@ -2122,6 +2129,7 @@ sarja - serye
 sarjakuva - grafsage  
 sarvi - korne  
 sarvikuono - kornonose  
+saslik - xixmanse  
 sata (##) - honi  
 sata tuhatta - deskili  
 satakieli - bulbule  
@@ -2142,7 +2150,7 @@ seepra - zebre
 seesami - sesame  
 seikkailija - aventurer  
 seikkailu - aventure  
-seinä (muuri) - wale  
+seinä (muuri) - divare  
 seisahtaa - estasu  
 seismologia - sismolojia  
 seisova (staattinen) - estasi  
@@ -2275,6 +2283,7 @@ sulkea vetoketjulla - zipa
 summa - sume  
 suo (räme) - potistan  
 suodattaa - filter  
+suojakilpi - defbanze  
 suojella (suojata, turvata) - sekura  
 suola - sale  
 suolainen - sali  
@@ -2386,7 +2395,7 @@ tapa - ade
 tapa - mode  
 tapaaminen (kokous) - mite  
 tapaus (seikka) - kase  
-tapetti - walpapire  
+tapetti - divarkagaze  
 tappaa - morta  
 tappaja - morter  
 tarha (puisto) - parke  
@@ -2399,7 +2408,7 @@ tasapuolinen (reilu) - egali
 tasavalta - komunkratia  
 tasku - jebe  
 tatuointi - tatawe  
-tauko (paussi) - pauze  
+tauko (keskeytys, paussi) - pauze  
 taulukko - table  
 taulukoida - tabla  
 tavallinen - adi  
@@ -2630,8 +2639,8 @@ Uzbekistan - uzbekia
 ##v
 vaaka (puntari) - barmeter  
 vaaleanpunainen - rozorangi  
-vaara - hatare  
-vaarallinen - hatari  
+vaara - hatre  
+vaarallinen - hatri  
 vaate (puku) - fuke  
 vaatia (edellyttää) - xarta  
 vaatimus (edellytys) - xarte  
@@ -2684,6 +2693,8 @@ varkaus - core
 varma - ameni  
 varmasti (totisesti, aamen) - ameno  
 varmistaa - amena  
+varras - xixe  
+varraskebab - xixkababe  
 vartalo (varsi, torso) - torse  
 vartija (vahti) - garder  
 vartioida (vahtia) - garda  
@@ -2753,7 +2764,7 @@ vihainen (suuttunut) - furi
 vihannes - coye  
 vihollinen - andoste  
 vihreä - lugi  
-viihdyttää (huvittaa) - fana  
+viihdyttää (huvittaa) - wana  
 viikko - semane  
 viikonpäivä - var (vare)  
 viimeinen - fini  
@@ -2796,9 +2807,9 @@ voima - fortia
 voimakas (vahva) - forti  
 voipuu - karite  
 voisarvi (kroissantti) - kruasante  
-voittaa (kukistaa) - wina  
-voitto - wine  
-vokaali - vokale  
+voittaa (kukistaa) - xenga  
+voitto - xenge  
+vokaali - jungofone  
 voltti (V) - volte  
 voodoo - vodun  
 vuode (sänky, peti) - bede  
@@ -2825,7 +2836,7 @@ väite (teesi) - tese
 väittely (debatti) - lone  
 väittää - tesa  
 väli - mede  
-Välimeri - zemomedi mare  
+Välimeri - zemomedi haye  
 välipala (naposteltava) - lilyame  
 välissä - medu  
 väri - rang (range)  
