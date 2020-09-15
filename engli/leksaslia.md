@@ -468,8 +468,8 @@
 |**harfe**|letter (character, written symbol)|Arabic:(ḥarf), Turkish:harf, Persian:Urdu:(harf), Hausa:harafi, Swahili:herufi, Malay:huruf|
 |**harmonia**|harmony|English:harmony, Spanish:armonía, Portuguese:harmonia, French:harmonie, Russian:гармония (garmoniya)|
 |**harnese**|harness|French:harnais, English:harness, Spanish:arnés, Portuguese:arnês|
-|**hasi**|special (distinct)|Arabic:(xāṣṣ), Persian:Urdu:(xās), Malay:ख़ास (xās), may:khas|
-|**hatare**|danger (peril)|Arabic:(xaṭar), Persian:(xatar), Urdu:(xatra), Hindi:ख़तरा (xatrā), Swahili:hatari, Turkish:muhatara|
+|**hasi**|special (distinct)|Arabic:(xāṣṣ), Persian:Urdu:(xās), Hindi:ख़ास (xās), Malay:khas|
+|**hatre**|danger (peril)|Arabic: خطر‎ (xaṭar), Persian: خطر‎ (xatar), Urdu: خطرہ‎ (xatrā), Hindi:ख़तरा (xatrā), Swahili:hatari, Turkish:muhatara|
 |**hawe**|wind|Hindi:हवा (havā), Urdu:(havā), Punjabi:ਹਵਾ (hawā), + Arabic:(hawāʾ), Persian:(havā), Turkish:hava, Malay:hawa, som:hawo, Swahili:hewa, Bengali:হাওয়া (haowa)|
 |**haye**|sea|Mandarin:海 (hǎi), Cantonese:海 (hoi2), Japanese:海 (kai), Korean:해양 (haeyang), Vietnamese:hải|
 |**he**|huh? (pardon?)|French:Portuguese:hein, Japanese:e|
@@ -529,8 +529,8 @@
 |**jampa**|jump|English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jane**|knowledge|Hindi:जान (jān), Bengali:জ্ঞান (gyan), জানা (jana), Punjabi:ਜਾਣ (jāṇ), Thai:ญาณ (yaan)|
 |**janele**|window|Portuguese:janela, Tamil:சன்னல் (sannal), Bengali:জানালা (janala), Malay:jendela, nya:zenera, Kongo:nêla|
-|**jangale**|forest (jungle, woods)|Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Urdu:(jangal), Portuguese:jângal, English:jungle, Russian: джу́нгли (džúngli), deu:Dschungel|
 |**janger**|artisan (craftsman)|Mandarin:匠 (jiàng), Thai:ช่าง (jang), Khmer:ជាង (ciəng)|
+|**jangle**|forest (jungle, woods)|Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Urdu:(jangal), Portuguese:jângal, English:jungle, Russian: джу́нгли (džúngli), deu:Dschungel|
 |**jare**|jug (jar, pitcher)|English:jar, Arabic:(jara), Portuguese:Spanish:jarra|
 |**jawabe**|answer (reply, response)|Arabic:(jawāb), Swahili:jibu,jawabu, Turkish:cevap, Persian:(javāb), Hindi:जवाब (javāb), Malay:jawab|
 |**jebe**|pocket|Hindi:जेब (jeb), Punjabi:ਜੇਬ (jeb), Urdu:(jeb), Telugu:(jēbu), Arabic:(jayb), Turkish:cep, Wolof:jiba|

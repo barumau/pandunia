@@ -19,7 +19,7 @@ akse - ось
 aksente - ударение  
 alge - водоросли  
 algofunge - лишай  
-algojangale - лес водорослей  
+algojangle - лес водорослей  
 ali - другой (второй)  
 alkole - алкоголь  
 almare - шкаф  
@@ -98,6 +98,7 @@ barxe - дождь
 barxi - дождливый  
 barxocate - зонтик  
 barxokote - плащ (дождевик)  
+barxu - дожди́ть  
 baryer - барьер  
 basene - бассейн  
 basi - достаточно (довольно)  
@@ -158,6 +159,7 @@ cari - четыре (4)
 carme - шарм  
 cay (caye) - чай  
 caykope - чайная чашка  
+cenamene - судьба  
 cendeno - вчера  
 ceno - раньше  
 cerize - черешня  
@@ -181,6 +183,7 @@ danse - танец
 dantobalute - дуб зубчатый  
 date - данные  
 datobanke - база данных  
+daydome - дворец (особняк)  
 dayhaye - океан  
 daylasune - лук исполинский  
 daypawe - пушка  
@@ -188,7 +191,6 @@ dayvaze - котёл
 dayxeke - валун  
 defbanze - щит  
 defkaske - доспехи  
-destine - судьба  
 dew (dewe) - бог  
 dika - целиться  
 dike - цель  
@@ -197,6 +199,8 @@ dine - религия (вера)
 diniste - верующий  
 diorite - диорит  
 diske - диск  
+divare - стена (вал)  
+divarkagaze - обои  
 dobe - кирпич  
 dolfine - дельфин  
 domi - домашний  
@@ -288,7 +292,6 @@ grome - гром
 grupe - группа  
 gula - глотать  
 gule - гуль (вурдалак)  
-gundene - дворец (особняк)  
 gune - армия  
 gunrene - солдат  
 gute - колено  
@@ -303,6 +306,7 @@ hami - важный (значимый)
 hamili - беременный  
 hande - рука  
 handoxake - рукав  
+hatre - опасность  
 hayalge - морские водоросли  
 haye - море  
 hayfule - морские анемоны  
@@ -336,6 +340,7 @@ insani hake - права человека
 insaniki - человечный  
 insanistia - гуманизм  
 iode - йод  
+ironia - ирония  
 itis (itise) - воспаление  
 ive - тенденция  
 ##j
@@ -355,11 +360,13 @@ jovani moke - саженец
 jule - джоуль (J)  
 jumle - фраза  
 junge - центр  
+jungofone - гласный  
 jungogia - Китай  
 juse - сок  
 justi - точный  
 justopawer - снайпер  
 ##k
+kababi manse - кебаб  
 kaboge - тыква  
 kafase - клетка  
 kafe - кофе  
@@ -501,6 +508,8 @@ lutheristia - лютера́нство
 luza - проиграть (провалиться)  
 luza tena - потеря́ть (утра́тить)  
 ##m
+mafana - утруждать  
+mafanu - утруждай  
 magribia - Марокко  
 maidane - площадь (сквер, майдан)  
 maidanpapile - мак самосейка  
@@ -761,6 +770,7 @@ suy (suye) - вода
 suygase - пар  
 suykaboge - тыква горлянка (калабас)  
 suyminte - мята водная  
+suynide - жажда  
 ##t
 taile - черепи́ца  
 taksometer - таксометр  
@@ -833,13 +843,10 @@ violeti - фиолетовый (пурпурный)
 virus (viruse) - вирус  
 viruslojia - вирусология  
 vize - виза  
-vokale - гласный  
+vola - хотеть  
 vulve - вульва  
 vute - статья (предмет)  
 ##w
-wale - стена (вал)  
-walpapire - обои  
-wana - хотеть  
 waw - вау!  
 waxa - мыть  
 waxmaxine - стиральная машина  
@@ -848,18 +855,22 @@ wayoyame - пикник
 waytira - вытянуть  
 wenjoworanje - мандарин уншиу  
 westogorile - западная горилла  
-wina - победить  
 ##x
 xalke - чешуя  
+xante - отдых  
+xanti - спокойный  
 xarke - акула  
 xatan (xatane) - Сатана  
 xawi - мало  
 xefe - шеф  
 xeke - камень (камешек)  
+xenga - победить  
 xey (xeye) - вещь  
 xeyhale - положение (ситуация)  
 xingofota - сверкать (мерцать)  
 xite - говно (дерьмо)  
+xixkababe - шиш-кебаб  
+xixmanse - шашлык  
 xofer - шофёр  
 xopa - покупать (купить)  
 xope - покупка (шоппинг)  
@@ -867,7 +878,9 @@ xukarbete - сахарная свёкла
 xukare - сахар  
 xukargrase - сахарный тростник  
 xukaroranje - апельсин  
+xuxi - тихий  
 ##y
+yamnide - голод  
 yemenia - Йемен  
 yesus - Иисус  
 yexo - ещё  

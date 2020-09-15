@@ -103,6 +103,7 @@ aïe! - ay
 ##b
 babord - botolefte  
 bagage - bagaje  
+baie - baye  
 baie - bere  
 bain - banye  
 baisser - tala  
@@ -155,10 +156,11 @@ brave - bravi
 bravo! - bravo  
 brigand (bandit) - luter  
 brique - dobe  
+brochette - xixe  
 brun (marron) - bruni  
 brûler - hoga  
 buisson - tali moke  
-but - gole  
+but (destination) - gole  
 bébé - bebe  
 bûche - mokotane  
 ##c
@@ -173,6 +175,7 @@ calcite - kalcite
 calculer - hisaba  
 calendrier - kalende  
 calmar (encornet, calamar) - kalamare  
+calme (tranquille) - xanti  
 Camomille Romaine - romkamile  
 Camomille sauvage - kamile  
 canapé (sofa) - kanape  
@@ -196,6 +199,7 @@ Centaurée bleuet - nilsentaure
 Centaurée du solstice - solsentaure  
 centre - junge  
 cerise - cerize  
+chachlik - xixmanse  
 chambre à coucher - sonkamare  
 champignon - fungopale  
 chance - canse  
@@ -290,16 +294,17 @@ culturisme (musculation) - muskulbine
 cycliste - sikliste  
 cytologie - selolojia  
 célérité - siri mote  
-côte - martate  
+côte - haytate  
 côté - late  
 ##d
 dance - danse  
 dandélion - makanfule  
+danger - hatre  
 dans le sens antihoraire - fansoldixo  
 dauphin - dolfine  
 de - ca  
 dessous - nice  
-destin (destination) - destine  
+destin - cenamene  
 deux (2) - duli  
 diamant - almase  
 dieu - dew (dewe)  
@@ -357,6 +362,7 @@ explosion - bume
 face (facette) - fase  
 faible - debili  
 faible - mirdi  
+faim - yamnide  
 faire - fata  
 fait - fate  
 fanal (balise) - fotominare  
@@ -379,7 +385,7 @@ fondu - yongosaha
 football - futobole  
 force navale (marine) - haygune  
 forer (percer) - fora  
-forêt de kelp - algojangale  
+forêt de kelp - algojangle  
 fosse - kave  
 fougères - parne  
 fourmi - maye  
@@ -446,6 +452,7 @@ inflammation - itis (itise)
 insecte - koncunge  
 international - nasmedi  
 interracial - rasmedi  
+ironie - ironia  
 ##j
 jade - yuke  
 Japon - niponia  
@@ -558,12 +565,12 @@ moulin - molia
 mousse - mose  
 moussu - mosi  
 mule - gadogude  
-mur - wale  
+mur - divare  
 mycélium - fungonete  
 mât - maste  
 mère (maman) - mame  
 mètre - metre  
-méduse - marjele  
+méduse - hayjele  
 mémoire - meme  
 méninge - meninge  
 ##n
@@ -628,13 +635,13 @@ pacifiste - paciste
 page - warkolate  
 pain - pang (pange)  
 paix - pace  
-palais (château, manoir) - gundene  
+palais (château, manoir) - daydome  
 pamplemousse - putawlimone  
 pantalon - pante  
 pantoufle (babouche) - babuce  
 papaye - papaye  
 papier - kagaze  
-papier peint - walpapire  
+papier peint - divarkagaze  
 paquet - pake  
 par exemple - misalo  
 paramètre - parame  
@@ -739,6 +746,7 @@ rein - nefre
 religion - dine  
 remplir - pura  
 renard - hule  
+repos - xante  
 requin - xarke  
 reste - reste  
 retourner (revenir) - retra  
@@ -807,6 +815,7 @@ situation (état de choses) - xeyhale
 six (6) - sisi  
 société - socia  
 soie - sile  
+soif - suynide  
 soldat - gunrene  
 soleil - sole  
 soumettre - karmisa  
@@ -914,8 +923,8 @@ voile - hijabe
 voir - vida  
 voire (même) - ato  
 volcan - hogoxane  
-vouloir - wana  
-voyelle - vokale  
+vouloir - vola  
+voyelle - jungofone  
 vrai - veri  
 vulve - vulve  
 végétarien - vejetyamiste  

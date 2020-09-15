@@ -225,7 +225,6 @@
 |**denga**|czekać|zho:等 (děng),  yue:等 (dang2)|
 |**desene**|rysunek, obraz|eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)|
 |**desi**|dziesięć (10)|por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|
-|**destine**|przeznaczenie, los|eng:destination, destiny, fra:destin, spa:por:destino|
 |**detale**|detal, szczegół|eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|
 |**dew (dewe)**|bóg, bóstwo|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|
 |**dexe**|kraj, ziemia|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
@@ -233,6 +232,7 @@
 |**dine**|religia, wyznanie|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |**dinge**|kolec|zho:钉 (dīng), yue:釘 (deng1), vie:đinh|
 |**diske**|dysk|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
+|**divare**|mur, ściana|fas:دیوار (divâr), hin:दीवार (dīvāra), pan:ਦੀਵਾਰ (dīvār), tur:duvar, aze:divar|
 |**dixe**|kierunek|hin:mar:दिशा (diśā), urd:(diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang)|
 |**dokume**|dokument|eng:fra:document, rus:документ (dokument)|
 |**dome**|dom, mieszkanie|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
@@ -292,7 +292,6 @@
 |**fajane**|rozwój|zho:发展 (fāzhǎn), vie:phát triển, kor:발전 (bajjeon)|
 |**falsi**|fałszywy, nieprawdziwy|eng:false, spa:por:falso, fra:faux, deu:falsch|
 |**famile**|rodzina|eng:family, spa:familia, por:família, fra:famille|
-|**fane**|zabawa, rozrywka|eng:fun|
 |**fani**|przeciwstawny (naprzeciw, naprzeciwko, anty-)|zho:反 (fǎn), yue反 (faan3), vie:phản, jpn:反 (han-), kor:반 (ban-)|
 |**fanoname**|antonim|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
 |**fase**|powierzchnia|eng:fra:por:face, spa:faz, deu:Facette|
@@ -396,7 +395,6 @@
 |**guhe**|jaskinia|ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (guha), hin:गुफ़ा (gufā), may:gua|
 |**gula**|połknąć (połykać)|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
 |**gume**|bęben|swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|
-|**gundene**|pałac|zho:宫殿 (gōngdiàn), vie:cung điện, jpn:宮殿 (jyūden), kor:궁전 (gungjeon)|
 |**gune**|armia|zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|
 |**gure**|guru, mistrz|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |**gurube**|świnia|swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt|
@@ -426,8 +424,8 @@
 |**harfe**|litera, znak|ara:(ḥarf), tur:harf, fas:urd:(harf), hau:harafi, swa:herufi, may:huruf|
 |**harmonia**|harmonia|eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)|
 |**harnese**|zaprzęc, zaprzęgać|fra:harnais, eng:harness, spa:arnés, por:arnês|
-|**hasi**|specjalny, wyraźny, wyrazisty|ara:(xāṣṣ), fas:urd:(xās), may:ख़ास (xās), may:khas|
-|**hatare**|zagrożenie, niebezpieczeństwo|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
+|**hasi**|specjalny, wyraźny, wyrazisty|ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|
+|**hatre**|zagrożenie, niebezpieczeństwo|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**hawe**|wiatr|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
 |**haye**|może|zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|
 |**he**|hę?, co?, pardon?|fra:por:hein, jpn:e|
@@ -484,8 +482,8 @@
 |**jampa**|skoczyć, skakać|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jane**|wiedza|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
 |**janele**|okno|por:janela, tam:சன்னல் (sannal), ben:জানালা (janala), may:jendela, nya:zenera, kon:nêla|
-|**jangale**|las, dżungla, zagajnik|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
 |**janger**|rzemieślnik|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
+|**jangle**|las, dżungla, zagajnik|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
 |**jare**|dzban, dzbanek; słój, słoik|eng:jar, ara:(jara), por:spa:jarra|
 |**jawabe**|odpowiedź, odzew|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
 |**jebe**|kieszeń|hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba|
@@ -513,7 +511,7 @@
 |**juse**|sok|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |**justi**|precyzyjny, dokładny|eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|
 |**juxe**|zastrzyk|zho:注射 (zhùshè), kor:주사 (jusa), jpn:注射 (chusha)|
-|**kababe**|kebab|ara:fas:urd:(kabāb), tur:may:eng:spa:kebab, hin:कबाब (kabāb), ben:কাবাব (kabab)|
+|**kababa**|grillować|ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab)|
 |**kabawe**|bawół domowy|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|
 |**kabine**|kabina, budka|eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)|
 |**kafase**|klatka|ara:(qafaṣ), fas:urd:(qafas), hin:क़फ़स (qafas), pnb:ਕਫ਼ਸ (kafas), tur:kafes|
@@ -603,7 +601,6 @@
 |**konge**|dziura|zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng|
 |**konserte**|koncert|eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|
 |**konsida**|rozważać, brać pod uwagę|eng:consider, spa:considerar|
-|**konsone**|spółgłoska|fra:consonne, eng:consonant|
 |**kontra**|być przeciw|spa:por:contra, fra:contre, eng:counter-, ell:κόντρα (kontra)|
 |**konuse**|szyszka|eng:por:cone, spa:cono, fra:conique, rus:ко́нус (kónus), tur:koni, may:kon|
 |**kope**|kubek|fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|
@@ -903,7 +900,7 @@
 |**paste**|pasta|eng:deu:paste, rus:паста (pasta), spa:por:pasta|
 |**patate**|ziemniak|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|
 |**patia**|choroba|deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|
-|**pauze**|pauza, przerwa|eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)|
+|**pauze**|pauza (przerwa)|eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)|
 |**pawe**|pistolet, strzelba, ręczna broń palna|zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)|
 |**paxia**|cierpienie, ból|kon:mpasi, por:paixão, eng:passion|
 |**pay (paye)**|placek, ciasto|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
@@ -1218,13 +1215,12 @@
 |**vize**|wiza|tur:vize, eng:visa, rus:виза (viza), hin:वीज़ा (vīzā)|
 |**vizite**|wizyta|eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|
 |**vodun**|voodoo|ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|
-|**vokale**|samogłoska|spa:vocal, por:vogal, may:vokal|
+|**vole**|wola (chęć, pragnienie)|fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|
 |**vote**|głos|eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|
 |**vulve**|srom|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
 |**wada**|obiecać, angażować się|ara:وعد‎ m (waʿd), tur:vaat, fas:وعده‎ (va'deh), hin:वादा (vādā)|
 |**waf (wafe)**|pies|eng:woof, spa:guau, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
-|**wale**|mur, ściana|eng:wall, rus:вал (val), por:valo|
-|**wane**|wola (chęć, pragnienie)|eng:want, kor:원하다 (wonhada)|
+|**wane**|zabawa, rozrywka|zho:玩 (wán), yue:玩 (waan4), cjy:玩 (van1), kor:완 (wan)|
 |**warise**|spadek, dziedzictwo, spuścizna, zapis|may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|
 |**warke**|kartka (dokument)|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
 |**wase**|oaza|ara:(wāḥa), tur:vaha, fas:(vāhe), spa:oasis|
@@ -1238,7 +1234,6 @@
 |**wikia**|wiki|eng:fra:spa:por:may:wiki, tur:viki, ara:وِيكي‎ (wikī), fas:ویکی‎ (viki), hin:विकि (viki), ben:উইকি (uiki), zho:维基 (wéijī), yue:維基 (wai4 gei1), jpn:ウィキ (wiki), kor:위키 (wiki)|
 |**wildi**|dziki|deu:eng:ned:wild, sve:vild|
 |**wile**|przyszłość|eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ), jpn:未来 (mirai)|
-|**wine**|zwycięstwo, wygrana|eng:win, deu:gewinnen|
 |**winge**|skrzydło|eng:wing, deu:Schwinge|
 |**wolfe**|wilk|deu:ned:eng:wolf, rus:волк (volk)|
 |**xakale**|szakal|fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|
@@ -1256,6 +1251,7 @@
 |**xawi**|niewiele (mało)|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |**xaxu**|szeleścić|zho:(shasha)|
 |**xefe**|szef, kierownik|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
+|**xenge**|zwycięstwo, wygrana|zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|
 |**xense**|mistrz (sensei)|jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|
 |**xey (xeye)**|rzecz|ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|
 |**xeyhale**|sytuacja (stan)|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
@@ -1269,7 +1265,6 @@
 |**xire**|poemat|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
 |**xirope**|syrop|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
 |**xite**|gówno|eng:shit, zho:屎 (shǐ), yue:屎 (si2)|
-|**xixo**|ćsi|eng:shh, zho: (xū), rus:ш-ш-ш, tur:sus|
 |**xofer**|szofer (kierowca)|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|
 |**xogune**|szogun|jpn:将軍 (shōgun), eng:shogun|
 |**xoke**|szokwstrząs; kolizja|eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|
@@ -1279,7 +1274,7 @@
 |**xukare**|cukier|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, tam:சக்கரை (cakkarai)|
 |**xule**|naprawa|zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)|
 |**xute**|umiejętność (kompetencja)|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|
-|**xuxe**|zostawić, zostawiać|zho:休息 (xiūxí), kor:휴식 (hyusig)|
+|**xuxo**|ćsi|eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|
 |**yago**|około; przybliżony|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |**yake**|jak (zwierzę)|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
 |**yama**|skonsumować, konsumować, zjeść, jeść, wypić, pić)|khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|

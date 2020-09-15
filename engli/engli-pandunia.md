@@ -795,8 +795,8 @@ daisy - margarite
 damage (injury, harm) - damaje  
 dance - danse  
 dandelion - makanfule  
-danger (peril) - hatare  
-dangerous (perilous) - hatari  
+danger (peril) - hatre  
+dangerous (perilous) - hatri  
 dark (dim) - oskuri  
 darmstadtium - darmositium  
 Darwinism - darwinistia  
@@ -1164,7 +1164,7 @@ force (strength, power) - fortia
 foreign - waydexi  
 foreign country - waydexia  
 forenoon - subodene  
-forest (jungle, woods) - jangale  
+forest (jungle, woods) - jangle  
 foreward - jino  
 forget - anmema  
 fork - forke  
@@ -1607,7 +1607,7 @@ keep (preserve, conserve, retain, spare) - hafiza
 keeper (possessor) - tener  
 keeper (preserver) - hafizer  
 kelp - warkalge  
-kelp forest - algojangale  
+kelp forest - algojangle  
 kelvin - kelvine  
 Kenya - kenia  
 ketchup - kecape  

@@ -57,7 +57,7 @@ alaskia - Alaska
 alfone - allophone  
 alge - alga  
 algofunge - lichen  
-algojangale - kelp forest  
+algojangle - kelp forest  
 ali - other  
 alkole - alcohol  
 alkoli - alcoholic  
@@ -1115,8 +1115,8 @@ hasa - distinguish
 hasi - special (distinct)  
 hasia - distinction (specialty)  
 hasium - hassium  
-hatare - danger (peril)  
-hatari - dangerous (perilous)  
+hatre - danger (peril)  
+hatri - dangerous (perilous)  
 hawa - blow  
 hawayi - Hawaiian  
 hawayi nesia - Hawaiian archipelago  
@@ -1293,9 +1293,9 @@ jampa - jump
 jana - know (recognize)  
 jane - knowledge  
 janele - window  
-jangale - forest (jungle, woods)  
 janger - artisan (craftsman)  
 jangi - crafty (dexterous)  
+jangle - forest (jungle, woods)  
 jani - known  
 janlojia - epistemology  
 jare - jug (jar, pitcher)  

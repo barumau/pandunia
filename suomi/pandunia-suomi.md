@@ -380,6 +380,7 @@ cehia - Tšekki
 ceka - tarkistaa (tsekata)  
 celsius darje - celsiusaste  
 cena - edeltää (olla ennen)  
+cenamene - määrä (päämäärä, kohtalo)  
 cendeno - eilen  
 cenfikse - etuliite (prefiksi)  
 cenge - kerros  
@@ -467,6 +468,7 @@ dawiste - taolainen
 dawistia - taolaisuus  
 day (dayi) - iso (suuri)  
 daydarsia - yliopisto  
+daydome - palatsi  
 dayhaye - valtameri  
 daypawe - tykki  
 daypawer - tykkimies  
@@ -495,8 +497,6 @@ desene - piirustus
 desi - kymmenen (10)  
 deskili - sata tuhatta  
 desmese - lokakuu  
-destina - määrätä  
-destine - määrä (päämäärä, kohtalo)  
 desunmese - marraskuu  
 detale - yksityiskohta (detalji)  
 dew (dewe) - jumala  
@@ -516,6 +516,8 @@ dini - uskonnollinen
 diniste - uskovainen  
 diske - kiekko (levy)  
 disprosium - dysprosium  
+divare - seinä (muuri)  
+divarkagaze - tapetti  
 divehia - Malediivit  
 dixe - suunta  
 doici - saksalainen  
@@ -648,10 +650,7 @@ fajane - kehitys
 famile - perhe  
 familnam - sukunimi  
 fana - vastustaa  
-fana - viihdyttää (huvittaa)  
-fane - huvi (hauskuus)  
 faner - vastustaja  
-fani - hauska (huvittava)  
 fankriste - antikristus  
 fanoname - vastakohta (antonyymi)  
 fansoldixo - vastapäivään  
@@ -836,6 +835,7 @@ gitare - kitara
 giyania - Ranskan Guiana  
 glute - liima  
 glutene - gluteeni  
+gola - määrätä  
 gole - maali (pelissä)  
 gome - kumi  
 gone - kulma (nurkka)  
@@ -868,7 +868,6 @@ gujarati - gujarati (eräs intialainen kieli)
 gula - niellä  
 gule - ghouli  
 gume - rumpu  
-gundene - palatsi  
 gune - armeija (sotajoukko)  
 gunrene - sotilas  
 gure - guru (opettaja)  
@@ -923,8 +922,8 @@ hasa - erottaa (nähdä ero)
 hasi - erikoinen (erityinen)  
 hasia - erikoisuus  
 hasium - hasium  
-hatare - vaara  
-hatari - vaarallinen  
+hatre - vaara  
+hatri - vaarallinen  
 hawa - tuulla (puhaltaa)  
 hawayi - havaijilainen  
 hawayi nesia - Havaijin saaret  
@@ -1073,9 +1072,9 @@ jampa - hypätä (hyppiä)
 jana - tietää (tuntea)  
 jane - tieto (tietämys)  
 janele - ikkuna  
-jangale - metsä (viidakko)  
 janger - artesaani (käsityöläinen)  
 jangi - kätevä  
+jangle - metsä (viidakko)  
 jani - tietty (tunnettu)  
 janlojia - tietoteoria (epistemologia)  
 jare - kannu (karahvi)  
@@ -1125,6 +1124,7 @@ jule - joule (J)
 junga - keskittää  
 jungafrikia - Keski-Afrikan Tasavalta  
 junge - keskus (keskikohta)  
+jungofone - vokaali  
 jungogia - Kiina  
 jungu - keskittyä (olla keskellä)  
 jupe - hame  
@@ -1134,7 +1134,8 @@ justo - juuri (just, täsmälleen)
 juxa - ruiskuttaa  
 juxe - ruiske (injektio)  
 ##k
-kababe - kebab (varrasliha)  
+kababa - grillata (kärventää)  
+kababi manse - kebab (grilliliha)  
 kabawe - vesipuhveli  
 kabine - koppi (maja)  
 kabuverdia - Cabo Verde  
@@ -1244,6 +1245,7 @@ keler - urheilija
 kelvine - kelvin (K)  
 kemia - muinainen Egypti  
 kenare - reuna (ääri)  
+kenarfone - konsonantti  
 kenari - reuna-  
 kenia - Kenia  
 kerne - ydin (sydän)  
@@ -1334,7 +1336,6 @@ konkara - tehdä yhteistyötä
 kono - yhdessä  
 konserte - konsertti  
 konsida - pitää jonakin  
-konsone - konsonantti  
 kontinu - jatkua  
 kontra - vastaan (vasten)  
 kontrate - liittosopimus  
@@ -2028,7 +2029,7 @@ patojener - patogeeni
 patolojia - patologia (tautioppi)  
 paunde - punta  
 pauza - keskeyttää (tauottaa)  
-pauze - tauko (paussi)  
+pauze - tauko (keskeytys, paussi)  
 pawe - pyssy  
 paxa - satuttaa  
 paxi - kivulias (tuskallinen)  
@@ -2497,6 +2498,7 @@ suxe - sushi
 suy (suye) - vesi  
 suygase - höyry (vesihöyry)  
 suyi - vetinen  
+suynide - jano  
 suyporte - satama  
 suyrang - vesiväri (akvarelliväri)  
 suysekuri - vesitiivis  
@@ -2711,7 +2713,8 @@ vizita - vierailla
 vizite - vierailu (visiitti)  
 viziter - vierailija (vieras)  
 vodun - voodoo  
-vokale - vokaali  
+vola - haluta  
+vole - halu (toive)  
 volte - voltti (V)  
 vota - äänestää  
 vote - ääni (äänestyksessä)  
@@ -2722,10 +2725,9 @@ vute - esine (tavara)
 wada - luvata  
 waf (wafe) - koira  
 wakila - edustaa  
-wale - seinä (muuri)  
-walpapire - tapetti  
-wana - haluta  
-wane - halu (toive)  
+wana - viihdyttää (huvittaa)  
+wane - huvi (hauskuus)  
+wani - hauska (huvittava)  
 warise - perintö  
 warke - lehti (arkki, levy)  
 warkolate - sivu (kirjassa)  
@@ -2753,8 +2755,6 @@ wikia - wiki
 wil (wilo) - tuleva  
 wildi - villi (kesytön)  
 wile - tulevaisuus  
-wina - voittaa (kukistaa)  
-wine - voitto  
 winge - siipi  
 wolfe - susi (hukka)  
 wolfram - wolframi  
@@ -2768,7 +2768,8 @@ xamden - iltapäivä
 xame - ilta  
 xamyame - illallinen  
 xane - vuori (mäki)  
-xanti - rauhallinen (tyyni)  
+xante - lepo  
+xanti - rauhallinen (levollinen, tyyni)  
 xarme - häpeä  
 xarnire - sarana  
 xarta - vaatia (edellyttää)  
@@ -2784,6 +2785,8 @@ xefe - päällikkö (pomo)
 xefi - pää-  
 xefi minister - pääministeri (suurvisiiri)  
 xeke - kivi (hippu)  
+xenga - voittaa (kukistaa)  
+xenge - voitto  
 xenon - ksenon  
 xey (xeye) - asia  
 xeyhale - tilanne (asiaintila)  
@@ -2799,8 +2802,9 @@ xirer - runoilija
 xirope - siirappi  
 xita - paskantaa (ulostaa)  
 xite - paska (sonta)  
-xixi - hiljainen  
-xixo - hiljainen (hys, shhh)  
+xixe - varras  
+xixkababe - varraskebab  
+xixmanse - saslik  
 xofa - ajaa (kuskata)  
 xofer - kuski (ajuri, ajaja)  
 xoke - isku (šokki)  
@@ -2817,7 +2821,9 @@ xule - korjaus
 xuler - korjaaja  
 xute - taito  
 xuti - taitava  
-xuxe - lepo  
+xuxa - hiljentää  
+xuxi - hiljainen  
+xuxo - hiljaa (hys, shhh)  
 ##y
 yaga - arvioida  
 yago - noin (arviolta, suunnilleen)  
@@ -2827,6 +2833,7 @@ yama - nauttia (syödä, juoda)
 yame - ruoka  
 yami - herkullinen (nami)  
 yamkamare - ruokasali  
+yamnide - nälkä  
 yange - laji (tyyppi, tyyli)  
 yatimdome - orpokoti  
 yatime - orpo  
@@ -2874,7 +2881,7 @@ zemgrafe - kartta
 zemgrafia - kartogratia  
 zemia - Maapallo  
 zemlaskeria - maavoimat  
-zemomedi mare - Välimeri  
+zemomedi haye - Välimeri  
 zemsisme - maanjäristys  
 zemtike - tontti (maakaistale)  
 zeyile - syylä  

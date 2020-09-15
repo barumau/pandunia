@@ -53,7 +53,7 @@ alaskia - Alaska
 alfone - alófono  
 alge - alga  
 algofunge - liquen  
-algojangale - bosque de algas  
+algojangle - bosque de algas  
 ali - otro  
 alkole - alcohol  
 alkoli - alcohólico  
@@ -252,6 +252,7 @@ barxe - lluvia
 barxi - lluvioso (pluvioso)  
 barxocate - parasol  
 barxokote - impermeable  
+barxu - llover  
 barya - bloquear (obstruir)  
 baryer - barrera  
 basene - piscina (alberca, lavadero)  
@@ -272,6 +273,7 @@ baxi jinse - género gramatical
 baxkanune - gramática  
 baxkanuni - gramatical  
 baxlojia - lingüística  
+baye - bahía  
 baza - fundar (basar)  
 bazare - mercado (bazar)  
 baze - base  
@@ -433,6 +435,7 @@ ceka - revisar (chequear)
 celsius darje - grado Celsius  
 cena - preceder (anteceder)  
 cenaga - presuponer  
+cenamene - destino  
 cendeno - ayer  
 cenfikse - prefijo  
 cenge - capa (piso, planta, estrato)  
@@ -531,6 +534,7 @@ dawiste - taoísta
 dawistia - taoísmo  
 day (dayi) - grande  
 daydarsia - universidad  
+daydome - palacio (mansión)  
 dayhaye - océano  
 dayia - tamaño  
 daypawe - cañón  
@@ -564,8 +568,6 @@ desdulmese - deciembre
 desene - dibujo (diseño)  
 desi - diez (10)  
 desmese - octubre  
-destina - destinar  
-destine - destino  
 desunmese - nobiembre  
 detale - detalle  
 dew (dewe) - dios  
@@ -588,6 +590,8 @@ diniste - creyente
 diorite - diorita  
 diske - disco  
 disprosium - disprosio  
+divare - muro (muralha)  
+divarkagaze - papel tapiz  
 divehia - Maldivas  
 dixe - dirección  
 dixo - directamente  
@@ -746,12 +750,9 @@ falsi - falso
 falsi vide - ilusión  
 famile - familia  
 familnam - apellido  
-fana - diversión  
 fana - oponerse (resistir)  
-fane - divertir (entretener)  
 faner - adversario (oponente)  
 fani - contrario (opuesto)  
-fani - divertido  
 fankriste - Anticristo  
 fanoname - antónimo  
 fansoldixo - en el sentido contrario al las agujas del reloj  
@@ -966,7 +967,8 @@ glute - pegamento (pega, goma)
 glutene - gluten  
 gluti - pegajoso (adhesivo)  
 glutopote - arcilla (barro)  
-gole - meta (gol)  
+gola - destinar  
+gole - meta (gol, destinación)  
 gome - goma (caucho, hule)  
 gone - esquina (rincón, ángulo)  
 gonmeter - goniómetro (medidor de ángulos)  
@@ -1006,7 +1008,6 @@ gujarati - gujaratí
 gula - tragar  
 gule - gul  
 gume - tambor  
-gundene - palacio (mansión)  
 gune - ejército  
 gunrene - soldado  
 gure - maestro (gurú, profesor)  
@@ -1062,8 +1063,8 @@ hasa - diferenciar (distinguir)
 hasi - especial (diferenciado, distinto)  
 hasia - especialización (distinción)  
 hasium - hasio  
-hatare - peligro  
-hatari - peligroso  
+hatre - peligro  
+hatri - peligroso  
 hawa - soplar (echar)  
 hawayi - hawaiano  
 hawayi nesia - archipiélago de Hawái  
@@ -1077,6 +1078,8 @@ hayfule - actinia (anémonas de mar)
 haygune - marina (armada)  
 hayhiyare - holoturia (pepino de mar)  
 hayi - marítimo  
+hayjele - medusa  
+haytate - costa  
 he - cómo? (eh?)  
 heleni - griego (helénico)  
 helenia - Grecia  
@@ -1100,6 +1103,7 @@ hijenia - higiene
 himalia - Himalaya  
 hime - nieve  
 himrose - escarcha  
+himu - nevar  
 hindiste - hindú  
 hindistia - hinduismo  
 hisaba - calcular  
@@ -1197,6 +1201,8 @@ irakia - Iraq
 irania - Irán  
 iridium - iridio  
 irita - molestar (irritar, fastidiar)  
+ironi - irónico  
+ironia - ironía  
 isa - hacer (verbo activo)  
 islame - sumisión (rendición)  
 islamfobia - islamofobia  
@@ -1225,8 +1231,8 @@ jampa - saltar (brincar)
 jana - saber (conocer)  
 jane - sabiduría (conocimiento)  
 janele - ventana  
-jangale - bosque (jungla, selva)  
 janger - artesano  
+jangle - bosque (jungla, selva)  
 jani - conocido  
 janlojia - epistemología  
 jare - jarra  
@@ -1287,6 +1293,7 @@ junga - centrar (concentrar)
 jungafrikia - República Centroafricana  
 junge - centro  
 jungi - central  
+jungofone - vocal  
 jungogia - China  
 jungu - centrarse (en el centro de)  
 jupe - falda  
@@ -1297,7 +1304,7 @@ justopawer - francotirador
 juxa - inyectar  
 juxe - inyección  
 ##k
-kababe - pincho (brocheta)  
+kababa - asar  
 kabawe - búbalo (arni)  
 kabine - cabaña  
 kaboge - calabaza  
@@ -1431,6 +1438,7 @@ kelvine - kelvin
 kemia - Egipcia Antigua  
 kenarbaryer - valla (cerca)  
 kenare - frontera (límite, borde, periferia)  
+kenarfone - consonante  
 kenari - periférico  
 kenia - Kenia  
 kerne - corazón (núcleo)  
@@ -1529,7 +1537,6 @@ konkara - colaborar
 kono - juntos  
 konserte - concierto  
 konsida - considerar (pensar en)  
-konsone - consonante  
 kontini - continuo (analógico)  
 kontinu - continuar (reanudar)  
 kontra - estar en contra  
@@ -1789,6 +1796,7 @@ madagasia - Madagascar
 madiaria - Hungría  
 mafana - molestar (preocupar)  
 mafane - problema (disturio)  
+mafanu - molestar en  
 mager - mago  
 magi - magical  
 magia - magia  
@@ -1851,11 +1859,9 @@ mare - vez
 margarine - margarina  
 margarite - margarita  
 marian nesia - Islas Marianas  
-marjele - medusa  
 marka - marcar  
 marke - marca (huella, mancha)  
 marse - Marte  
-martate - costa  
 masaja - amasar (masajear)  
 masaje - masaje  
 masale - especia  
@@ -2895,6 +2901,7 @@ suygase - vapor
 suyi - acuoso  
 suykaboge - calabaza de peregrino  
 suyminte - menta acuática  
+suynide - sed  
 suyporte - puerto marítimo  
 suyrang - acuarela  
 suysekuri - impermeable (sumergible)  
@@ -3151,7 +3158,8 @@ vizita - visitar
 vizite - visitar  
 viziter - invitado (visita)  
 vodun - vudú  
-vokale - vocal  
+vola - querer (desear)  
+vole - deseo  
 volte - voltio (V)  
 vota - votar  
 vote - voto  
@@ -3162,11 +3170,11 @@ vute - objeto (artículo)
 wada - prometer (comprometerse)  
 waf (wafe) - perro  
 wakila - representar  
-wale - muro (muralha)  
 walis e futun nesia - Wallis y Futuna  
-walpapire - papel tapiz  
-wana - querer (desear)  
-wane - deseo  
+wana - divertir (entretener)  
+wane - diversión  
+wani - divertido  
+wanu - disfrutar (jugar)  
 warise - patrimonio (herencia, legado)  
 warkalge - kelp  
 warke - hoja  
@@ -3201,8 +3209,6 @@ wikia - wiki
 wil (wilo) - ir a (en el futuro)  
 wildi - salvaje  
 wile - futuro  
-wina - gañar (triunfar, lograr, desrotar)  
-wine - victoria  
 winge - ala  
 wolfe - lobo  
 wolfram - tungsteno (wolframio)  
@@ -3216,6 +3222,7 @@ xamden - tarde (después de mediodía)
 xame - noche (tarde)  
 xamyame - cena  
 xane - montaña (colina)  
+xante - descanso (alivio)  
 xanti - tranquilo (calmado)  
 xarke - tiburón  
 xarme - vergüenza (pena)  
@@ -3235,6 +3242,8 @@ xefi - principal
 xefi minister - primer ministro  
 xeke - piedra  
 xekojanger - albañil (mampostero, cantero)  
+xenga - gañar (triunfar, lograr, desrotar)  
+xenge - victoria  
 xenon - xenón  
 xense - maestro (profesor)  
 xey (xeye) - cosa  
@@ -3254,8 +3263,7 @@ xirer - poeta
 xirope - jarabe (sirope)  
 xita - cagar  
 xite - mierda  
-xixi - silencioso  
-xixo - hacer callar (chist)  
+xixe - brocheta  
 xofa - conducir  
 xofer - conductor (chofer)  
 xogune - sogún  
@@ -3276,7 +3284,8 @@ xule - arreglo
 xuler - reparadora  
 xute - dotes (arte, habilidad)  
 xuti - hábil  
-xuxe - descanso (alivio)  
+xuxi - silencioso  
+xuxo - chito (chist)  
 ##y
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
@@ -3287,6 +3296,7 @@ yama - comer (bebir)
 yame - comida  
 yami - delicioso  
 yamkamare - comedor  
+yamnide - hambre  
 yange - variedad (tipo, estilo)  
 yasene - fresno  
 yatimdome - orfanato  
@@ -3344,7 +3354,7 @@ zemlaskeria - ejército
 zemlojia - geología  
 zemnici - subterráneo  
 zemnici prizone - mazmorra  
-zemomedi mare - Mediterráneo  
+zemomedi haye - Mediterráneo  
 zemsisme - terremoto  
 zemtike - terreno (solar)  
 zeyile - verruga  

@@ -57,7 +57,7 @@ alaskia|dex|||Alaska||Alaska||||||||||||||Alaska|Alaska
 alfone||||allophone|allophone|alófono|||||||||||||alofono|allofoni (vaihtoehtoinen ääntämys)|alofon
 alge|||deu:Alge, fra:algue, tur:alg, fas:(âlg), eng:spa:por:pol:alga|alga|algue|alga|alga|водоросли||藻类||||शैवाल||lumut (alga)||yosun|algo|levä|alga (wodorost)
 algofunge||||lichen|lichen|liquen||лишай||地衣|地衣類 (苔癬)|||||kulampair (liken)|||||
-algojangale||||kelp forest|forêt de kelp|bosque de algas|floresta de algas|лес водорослей||海藻林|藻場||||||||||
+algojangle||||kelp forest|forêt de kelp|bosque de algas|floresta de algas|лес водорослей||海藻林|藻場||||||||||
 ali|||ell:άλλος (állos), ltn:alius, eng:allo-, por:spa:alo-|other|autre|otro|outro|другой (второй)||另一|他の|||अन्य||lainnya||diğer|alia|muu (toinen)|inny
 alkole|||fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol|alcohol|alcool|alcohol|álcool|алкоголь||酒||||मद्यसार||alkohol (arak)||alkol|alkoholo|alkoholi|alkohol
 alkoli||||alcoholic|alcoolique|alcohólico|||||||||||||alkohola|alkoholinen|alkoholowy
@@ -269,10 +269,10 @@ barti haye||||Indian Ocean||océano Índico||||||||||||||Intian valtameri|Ocean 
 bartia|dex|IN||India||India|||||||||||||Baratio|Intia|Indie
 barude|||ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|gunpowder||pólvora|||||||||||||pulvo|ruuti|proch strzelniczy
 barxe|||hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|rain (precipitation)|pluie|lluvia|chuva|дождь||雨|雨|비||बारिश (वर्षा)|বৃষ্টি|hujan|mvua|yağmur|pluvo|sade|deszcz
-barxu||||rain (pour down)||llover||дожди́ть|||雨が降る||||||||||
 barxi||||rainy|pluvieux|lluvioso (pluvioso)|chuvoso (pluvioso)|дождливый||多雨||||बरसाती||||yağmurlu|pluva||deszczowy
 barxocate||||umbrella|parapluie|parasol|guarda-chuva|зонтик||伞||||छाता||payung||şemsiye|obrelo|sateenvarjo|parasol
 barxokote||||raincoat|imperméable|impermeable|capa de chuva|плащ (дождевик)||雨衣||||रेनकोट||jas hujan||yağmurluk||sadetakki|płaszcz nieprzemakalny
+barxu||||rain (pour down)||llover||дожди́ть|||雨が降る||||||||||
 barya||||bar (obstruct, block)||bloquear (obstruir)|||||||||||||bari|estää kulku|blokować, hamować
 baryer|||eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer)|barrier|barrière|barrera|barreira|барьер|||||||||||barilo|este|bariera
 basene|||eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|pool (basin, bowl)|bassin|piscina (alberca, lavadero)|bacia|бассейн|||||||||||baseno|allas|basen
@@ -602,8 +602,6 @@ denyame||||lunch||almuerzo|||||昼食||||||||tagmanĝo|lounas|obiad, lunch
 desdulmese|mese|||December||deciembre|||||１２月|||||||||joulukuu|kwiecień
 desene|||eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)|drawing (design)||dibujo (diseño)|||||||||||||desegno|piirustus|rysunek, obraz
 desi|||por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|ten (10)||diez (10)|||||十 (１０)||||||||dek (10)|kymmenen (10)|dziesięć (10)
-desera||||want (desire, wish)|vouloir|querer (desear)|querer (desejar)|хотеть|أَرَادَ|想要 (愿意)|欲しい|싶다 (원하다)|muốn|चाहना|চাওয়া|mau (mahu)||istemek|voli|haluta|chcieć, pragnąć
-desere|||eng:desire, spa:deseo, fra:désir, por:desejo|want (desire, longing)||deseo|vontade|||||소원|||||||volo|halu (toive)|wola (chęć, pragnienie)
 deskili||||ten thousand|||||||万||||||||dek miloj|sata tuhatta|
 desmese|mese|||October||octubre|||||１０月|||||||||lokakuu|luty
 desunmese|mese|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
@@ -1110,11 +1108,11 @@ harmoni||||harmonious||armonioso|||||||||||||harmonia|harmoninen|harmoniczny
 harmonia|||eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)|harmony||armonía|||||||||||||harmonio|harmonia|harmonia
 harnese|||fra:harnais, eng:harness, spa:arnés, por:arnês|harness||arnés (arreos, jaeces)||||||||||||||valjaat|zaprzęc, zaprzęgać
 hasa||||distinguish||diferenciar (distinguir)||||||||||||||erottaa (nähdä ero)|rozróżniać (rozróżnić)
-hasi|||ara:(xāṣṣ), fas:urd:(xās), may:ख़ास (xās), may:khas|special (distinct)||especial (diferenciado, distinto)|||||||||||||speciala|erikoinen (erityinen)|specjalny, wyraźny, wyrazisty
+hasi|||ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|special (distinct)||especial (diferenciado, distinto)|||||||||||||speciala|erikoinen (erityinen)|specjalny, wyraźny, wyrazisty
 hasia||||distinction (specialty)||especialización (distinción)||||||||||||||erikoisuus|różnica (specjalność)
 hasium|mate|Hs||hassium||hasio|||||||||||||hasio|hasium|has
-hatare|||ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|danger (peril)||peligro||||||||ख़तरा|||hatari||danĝero|vaara|zagrożenie, niebezpieczeństwo
-hatari||||dangerous (perilous)||peligroso|||||||||||||danĝera|vaarallinen|niebezpieczny
+hatre|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|danger (peril)|danger|peligro|perigo|опасность|خطر‎|危险|危険|위험|nguy hiểm|जोखिम (ख़तरा)|বিপদ|bahaya|hatari|tehlike (muhatara)|danĝero|vaara|zagrożenie, niebezpieczeństwo
+hatri||||dangerous (perilous)||peligroso|||||||||||||danĝera|vaarallinen|niebezpieczny
 hawa||||blow||soplar (echar)|||||||||||||venti|tuulla (puhaltaa)|dmuchać
 hawayi||||Hawaiian||hawaiano||||||||||||||havaijilainen|hawajski
 hawayi nesia||||Hawaiian archipelago||archipiélago de Hawái||||||||||||||Havaijin saaret|Hawaje (archipelag hawajski)
@@ -1257,10 +1255,10 @@ ioni radi||||radioactive||radiactivo||||||||||||||radioaktiivinen|radioaktywny
 ioni radia||||radioactivity (ionizing radiation)||radiación ionizante||||||||||||||radioaktiivisuus|radioaktywność
 irakia|dex|IQ||Iraq||Iraq|||||||||||||Irakio|Irak|Irak
 irania|dex|IR||Iran||Irán|||||||||||||Iranio|Iran|Iran
-ironia|||eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|irony|ironie|ironía|ironia|ирония|||反語 (皮肉)||||||||||
-ironi||||ironic||irónico|||||反語的||||||||||
 iridium|mate|Ir||iridium||iridio|||||||||||||iridio|iridium|iryd
 irita|||eng:irritate, fra:irriter, spa:por:irritar, deu:irritieren, jpn:いらいらさせる (iraira saseru)|irritate (annoy, disturb)||molestar (irritar, fastidiar)|||||||||||||agaci (tedi, malamuzi)|ärsyttää (häiritä)|irytować (zirytować, drażnić)
+ironi||||ironic||irónico|||||反語的||||||||||
+ironia|||eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|irony|ironie|ironía|ironia|ирония|||反語 (皮肉)||||||||||
 isa|||eng:-ize, spa:por:-izar, fra:-iser, rus:-изова́ть (-izovat’)|cause to make||hacer (verbo activo)|||||||||||||igi|teettää|skłonić do (spowodować zrobienie)
 islame|||ara:(ʾislām), fas:(taslim), tur:teslim|submission (surrender)||sumisión (rendición)||||||||||||||alistuminen (antautuminen)|poddanie się, uległość, pokora, posłuszeństwo
 islamfobia||||islamophobia||islamofobia||||||||||||||islamofobia (islamin pelko)|islamofobia
@@ -1290,7 +1288,7 @@ jampa|||eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ
 jana||||know (recognize)|savoir (connaître)|saber (conocer)|saber (conhecer)|знать||知道 (晓得)|知る|알다|biết|जानना|জানা (চেনা)|tahu|kujua|bilmek|scii (koni)|tietää (tuntea)|wiedzieć
 jane|||hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|knowledge||sabiduría (conocimiento)|||||||||||||scio|tieto (tietämys)|wiedza
 janele|||por:janela, tam:சன்னல் (sannal), ben:জানালা (janala), may:jendela, nya:zenera, kon:nêla|window||ventana|||||||||||||fenestro|ikkuna|okno
-jangale|||hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|forest (jungle, woods)||bosque (jungla, selva)|||||||||||||arbaro|metsä (viidakko)|las, dżungla, zagajnik
+jangle|||hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|forest (jungle, woods)||bosque (jungla, selva)|||||||||||||arbaro|metsä (viidakko)|las, dżungla, zagajnik
 janger|||zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||artesano||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
 jangi||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, zręczny)
 jani||||known||conocido||||||||||||||tietty (tunnettu)|wiadomy, znany
@@ -1506,8 +1504,8 @@ kelvine|unomete|K||kelvin||kelvin||||||||||||||kelvin (K)|kelwin
 kemia||||Ancient Egypt (Kemet)||Egipcia Antigua||||||||||||||muinainen Egypti|Starożytny Egipt (Kemet)
 kenarbaryer||||fence||valla (cerca)|cerca|забор (ограда)||篱笆|柵 (垣)||||||||||
 kenare|||tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|border (edge, fringe, margin, rim, side, shore, periphery)||frontera (límite, borde, periferia)||||边||||किनारा|||||rando (orlo)|reuna (ääri)|granica, skraj, brzeg
-kenari||||peripheral||periférico||||||||||||||reuna-|peryferyjny
 kenarfone||||consonant||consonante||||||||||||||konsonantti|spółgłoska
+kenari||||peripheral||periférico||||||||||||||reuna-|peryferyjny
 kenia|dex|KE||Kenya||Kenia||||||||||||||Kenia|Kenia
 kerne|||eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|core (nucleus, kernel)|coeur|corazón (núcleo)|núcleo (cerne)|||核心|核||||||||kerno (koro)|ydin (sydän)|rdzeń (jądro, pestka)
 kerni arme||||nuclear weapon (nuke)||arma nuclear|||||||||||||ydinase||broń nuklearna
@@ -3039,10 +3037,10 @@ suygase||||steam (vapor)|vapeur d’eau|vapor|vapor|пар||蒸汽|湯気|||भ�
 suyi||||watery||acuoso|||||||||||||akva|vetinen|wodny
 suykaboge|||por:abóbora-d'água, tur:su kabağı|calabash||calabaza de peregrino||тыква горлянка (калабас)||葫芦|ヒョウタン (ひさご)||||||||||
 suyminte||||watermint|Menthe aquatique|menta acuática|hortelã-da-água|мята водная||水薄荷|||||||||||
+suynide||||thirst|soif|sed|sede|жажда|عطش‎|口渴|喉の渇き|목마름|khát|प्यास|তৃষ্ণা|haus||susuzluk|soifo|jano|pragnienie
 suyporte||||harbor (seaport)||puerto marítimo|porto marítimo||||||||||||haveno|satama|port morski (przystań)
 suyrang||||watercolor||acuarela||||||||||||||vesiväri (akvarelliväri)|akwarela, farba wodna
 suysekuri||||waterproof||impermeable (sumergible)||||||||||||||vesitiivis|wodoodporny
-suydesere||||thirst|||||||||||||||||
 tabake|||deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco||tabaco|||||||||||||tabako|tupakka|tytoń
 tabla||||tabulate||tabular||||||||||||||taulukoida|ułożyć w trabelę
 table|||eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|table (matrix)||tabla|||||||||||||tabelo|taulukko|tablioca, macierz
@@ -3301,6 +3299,8 @@ vizita||||visit||visitar|||||||||||||vizito|vierailla|odwiedzić, odwiedzać
 vizite|||eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|visitation (visit)||visitar|||||||||||||viziti|vierailu (visiitti)|wizyta
 viziter||||visitor (guest)||invitado (visita)|||||||||||||vizitanto|vierailija (vieras)|wizytant (gość)
 vodun|||ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|voodoo||vudú||||||||||||||voodoo|voodoo
+vola||||want (desire, wish)|vouloir|querer (desear)|querer (desejar)|хотеть|أَرَادَ|想要 (愿意)|欲しい|싶다 (원하다)|muốn|चाहना|চাওয়া|mau (mahu)||istemek|voli|haluta|chcieć, pragnąć
+vole|||fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|want (desire, longing)||deseo|vontade|||||소원|||||||volo|halu (toive)|wola (chęć, pragnienie)
 volte|unomete|V||volt (V)||voltio (V)||||||||||||||voltti (V)|wolt (V)
 vota||||vote (cast a vote)||votar|votar|||||||||||||äänestää|głosować (złożyć głos)
 vote|||eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|vote (ballot)||voto|voto|||||||||||||ääni (äänestyksessä)|głos
@@ -3312,14 +3312,14 @@ waf (wafe)|||eng:woof, spa:guau, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn
 wakila||||represent||representar||||||||||||||edustaa|reprezentować
 wakile|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||
 walis e futun nesia|dex|WF||Wallis and Futuna Islands||Wallis y Futuna|||||||||||||||Saint Vincent i Grenadyny
-warise|||may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|heritage (legacy, bequest)||patrimonio (herencia, legado)||||||||||||||perintö|spadek, dziedzictwo, spuścizna, zapis
-warkalge||||kelp|varech|kelp|kelp||||コンブ|||||kelp|||||
-warke|||ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|leaf (sheet)||hoja||||||||||||||lehti (arkki, levy)|kartka (dokument)
-warkolate||||page (side of a leaf of a book)|page|página|página||||ページ (面)||||||||paĝo|sivu (kirjassa)|strona
 wana||||amuse (entertain)||divertir (entretener)|||||||||||||amuzi|viihdyttää (huvittaa)|bawić, zabawiać
 wane|||zho:玩 (wán), yue:玩 (waan4), cjy:玩 (van1), kor:완 (wan)|fun (amusement)||diversión||||娱乐|楽しみ (娯楽)||||||||amuzo|huvi (hauskuus)|zabawa, rozrywka
 wani||||funny (amusing)||divertido|||||楽しい||||||||amuza|hauska (huvittava)|zabawny
 wanu||||enjoy (play)||disfrutar (jugar)||||玩耍|遊ぶ||||||||||
+warise|||may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|heritage (legacy, bequest)||patrimonio (herencia, legado)||||||||||||||perintö|spadek, dziedzictwo, spuścizna, zapis
+warkalge||||kelp|varech|kelp|kelp||||コンブ|||||kelp|||||
+warke|||ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|leaf (sheet)||hoja||||||||||||||lehti (arkki, levy)|kartka (dokument)
+warkolate||||page (side of a leaf of a book)|page|página|página||||ページ (面)||||||||paĝo|sivu (kirjassa)|strona
 wase|||ara:(wāḥa), tur:vaha, fas:(vāhe), spa:oasis|oasis||oasis|||||||||||||oazo|keidas|oaza
 wate||||watt||vatio|||||||||||||vato|watti|wat
 waw|||zho:哇 (wā), eng:wow|wow! (gee!)||guau (vaya)||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
@@ -3444,7 +3444,7 @@ yama|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gn
 yame||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
 yami||||delicious (yummy)||delicioso|||||美味しい|||||||||herkullinen (nami)|pyszny
 yamkamare||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
-yamdesere||||hunger|||||||||||||||||
+yamnide||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
 yamxukargrase||||duruka||||||||||||tebu telur|||||
 yange|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|kind (style, sort, type)||variedad (tipo, estilo)|||||タイプ||||||||speco (tipo, stilo)|laji (tyyppi, tyyli)|rodzaj, typ, styl
 yasene|||rus:ясень (yasen’), pol:jesion|ash tree||fresno|||||||||||||||jesion

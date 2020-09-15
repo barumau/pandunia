@@ -39,7 +39,7 @@ aksente - accent
 alfone - allophone  
 alge - algue  
 algofunge - lichen  
-algojangale - forêt de kelp  
+algojangle - forêt de kelp  
 ali - autre  
 alkole - alcool  
 alkoli - alcoolique  
@@ -156,6 +156,7 @@ bawi - précieux
 bawxeke - pierre précieuse (joyau)  
 baxe - langue  
 baxi jinse - genre grammatical  
+baye - baie  
 bazare - marché (bazar)  
 baze - base  
 bazobole - baseball  
@@ -198,6 +199,7 @@ cari - quatre (4)
 carme - charme  
 cay (caye) - thé  
 caykope - tasse à thé  
+cenamene - destin  
 cendeno - hier  
 ceno - avant  
 cerize - cerise  
@@ -218,6 +220,7 @@ danger - cloche
 danse - dance  
 date - données  
 datobanke - base de données  
+daydome - palais (château, manoir)  
 dayhaye - océan  
 daypawe - canon  
 dayvaze - chaudron  
@@ -225,7 +228,6 @@ dayxeke - rocher
 debili - faible  
 defbanze - bouclire  
 defkaske - armure  
-destine - destin (destination)  
 dew (dewe) - dieu  
 dika - viser  
 dike - objectif (cible)  
@@ -234,6 +236,8 @@ dine - religion
 diniste - croyant  
 diorite - diorite  
 diske - disque  
+divare - mur  
+divarkagaze - papier peint  
 dobe - brique  
 dokume - document (dossier)  
 dolfine - dauphin  
@@ -322,7 +326,7 @@ glisu - glisser
 gluta - coller  
 gluti - adhésif (collant)  
 glutopote - argile  
-gole - but  
+gole - but (destination)  
 gorile - gorille  
 gotone - coton  
 governe - gouvernement  
@@ -332,7 +336,6 @@ grave - gravire
 grimase - grimace  
 grupe - groupe  
 gule - goule  
-gundene - palais (château, manoir)  
 gune - armée  
 gunrene - soldat  
 gute - genou  
@@ -346,11 +349,14 @@ halow - allô
 hami - important  
 hande - main  
 handoxake - bras  
+hatre - danger  
 hayalge - algues  
 haye - mer  
 haygrase - posidonie (herbiers marins)  
 haygune - force navale (marine)  
 hayhiyare - concombre de mer  
+hayjele - méduse  
+haytate - côte  
 helisbabule - acacia faux-gommier  
 helisvimane - hélicoptère  
 hewane - animal (bête)  
@@ -377,6 +383,7 @@ insan (insane) - être humain
 insani hake - droits de l'homme  
 insaniki - humain  
 insanistia - humanisme  
+ironia - ironie  
 itis (itise) - inflammation  
 iva - avoir tendance à  
 ive - tendance  
@@ -399,6 +406,7 @@ jivi - vivant
 jovani moke - pousse  
 jule - joule (J)  
 junge - centre  
+jungofone - voyelle  
 jungogia - Chine  
 juse - jus  
 justi - exact (précis)  
@@ -566,8 +574,6 @@ manse - viande
 mantole - cape  
 maragaye - margay (chat-tigre)  
 mare - fois  
-marjele - méduse  
-martate - côte  
 masale - épices  
 maske - masque  
 masmule - tubercule  
@@ -826,6 +832,7 @@ susane - lys
 suy (suye) - eau  
 suygase - vapeur d’eau  
 suyminte - Menthe aquatique  
+suynide - soif  
 ##t
 taile - carreau (tuile)  
 taksometer - taximètre  
@@ -897,13 +904,10 @@ vesponizde - ruche (nid d'abeille)
 vida - voir  
 violeti - violet (pourpre)  
 virus (viruse) - virus  
-vokale - voyelle  
+vola - vouloir  
 vulve - vulve  
 vute - objet (article)  
 ##w
-wale - mur  
-walpapire - papier peint  
-wana - vouloir  
 warkalge - varech  
 warkolate - page  
 waxurse - raton laveur  
@@ -915,6 +919,8 @@ wolfe - loup
 wolofi - wolof  
 ##x
 xalke - échelle  
+xante - repos  
+xanti - calme (tranquille)  
 xarke - requin  
 xatan (xatane) - Satan  
 xawi - peu  
@@ -927,6 +933,8 @@ xingofota - étinceler
 xipa - mouiller  
 xipi - mouillé  
 xite - merde  
+xixe - brochette  
+xixmanse - chachlik  
 xopa - acheter  
 xope - shopping  
 xukarbete - betterave à sucre (betterave sucrière, betterave)  
@@ -934,6 +942,7 @@ xukare - sucre
 xukargrase - Canne à sucre  
 xukaroranje - orange douce  
 ##y
+yamnide - faim  
 yesus - Jésus  
 yexo - encore  
 yongopetre - lave  

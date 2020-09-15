@@ -384,6 +384,7 @@ ceka - sprawdzić, sprawdzać, skontrolować
 celsius darje - stopień Celsjusza  
 cena - poprzedzić, poprzedzać  
 cenaga - zakładać (założyć)  
+cenamene - przeznaczenie, los  
 cendeno - wczoraj  
 cenfikse - przedrostek (prefiks)  
 cenge - warstwa (poziom, piętro, kondygnacja)  
@@ -472,6 +473,7 @@ dawiste - taoista
 dawistia - taoizm  
 day (dayi) - duży  
 daydarsia - uniwersytet  
+daydome - pałac  
 dayhaye - ocean  
 daypawe - działo  
 daypawer - kanonier  
@@ -501,8 +503,6 @@ desdulmese - kwiecień
 desene - rysunek, obraz  
 desi - dziesięć (10)  
 desmese - luty  
-destina - przeznaczyć  
-destine - przeznaczenie, los  
 desunmese - marzec  
 detale - detal, szczegół  
 dew (dewe) - bóg, bóstwo  
@@ -522,6 +522,8 @@ dingure - ksiądz, kleryk, kaznodzieja
 dini - religijny  
 diske - dysk  
 disprosium - dysproz  
+divare - mur, ściana  
+divarkagaze - tapeta  
 divehia - Malediwy (Republika Malediwów)  
 dixe - kierunek  
 dixo - wprost (bezpośrednio)  
@@ -658,11 +660,8 @@ fajane - rozwój
 falsi - fałszywy, nieprawdziwy  
 famile - rodzina  
 familnam - nazwisko, imię rodziny  
-fana - bawić, zabawiać  
 fana - sprzeciwiać się (opierać się)  
-fane - zabawa, rozrywka  
 faner - przeciwnik (antagonista)  
-fani - zabawny  
 fankriste - antychryst  
 fanoname - antonim  
 fansoldixo - przeciwnie do ruchu wskazówek zegara  
@@ -851,6 +850,7 @@ gitare - gitara
 giyania - Gujana Francuska  
 glute - klej  
 glutene - gluten  
+gola - przeznaczyć  
 gole - cel  
 gome - guma  
 gone - kąt  
@@ -886,7 +886,6 @@ gujarati - Gudżarat
 gula - połknąć (połykać)  
 gule - ghul  
 gume - bęben  
-gundene - pałac  
 gune - armia  
 gunrene - żołnierz  
 gure - guru, mistrz  
@@ -941,8 +940,8 @@ hasa - rozróżniać (rozróżnić)
 hasi - specjalny, wyraźny, wyrazisty  
 hasia - różnica (specjalność)  
 hasium - has  
-hatare - zagrożenie, niebezpieczeństwo  
-hatari - niebezpieczny  
+hatre - zagrożenie, niebezpieczeństwo  
+hatri - niebezpieczny  
 hawa - dmuchać  
 hawayi - hawajski  
 hawayi nesia - Hawaje (archipelag hawajski)  
@@ -953,6 +952,8 @@ hayakia - Armenia
 haye - może  
 haygune - marynarka (flota)  
 hayi - morski  
+hayjele - meduza  
+haytate - wybrzeże (plaża)  
 he - hę?, co?, pardon?  
 heleni - gracki, helleński; Grek  
 helenia - Grecja  
@@ -1095,9 +1096,9 @@ jampa - skoczyć, skakać
 jana - wiedzieć  
 jane - wiedza  
 janele - okno  
-jangale - las, dżungla, zagajnik  
 janger - rzemieślnik  
 jangi - umiejętny (sprawny, zręczny)  
+jangle - las, dżungla, zagajnik  
 jani - wiadomy, znany  
 janlojia - epistemologia  
 jare - dzban, dzbanek; słój, słoik  
@@ -1153,6 +1154,7 @@ junga - centrować, skupić, skupiać
 jungafrikia - Republika Środkowoafrykańska  
 junge - środkowy, centralny  
 jungi - centralny (środkowy)  
+jungofone - samogłoska  
 jungogia - Chiny  
 jungu - być wycentrowanym, być w środku  
 jupe - spódnica  
@@ -1162,7 +1164,8 @@ justo - dokładnie (precyzyjnie, tylko)
 juxa - wstrzyknąć, wstrzykiwać  
 juxe - zastrzyk  
 ##k
-kababe - kebab  
+kababa - grillować  
+kababi manse - kebab  
 kabawe - bawół domowy  
 kabine - kabina, budka  
 kabuverdia - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
@@ -1276,6 +1279,7 @@ keler - hałas
 kelvine - kelwin  
 kemia - Starożytny Egipt (Kemet)  
 kenare - granica, skraj, brzeg  
+kenarfone - spółgłoska  
 kenari - peryferyjny  
 kenia - Kenia  
 kerne - rdzeń (jądro, pestka)  
@@ -1371,7 +1375,6 @@ kongoli - kongijski
 konkani - konkani  
 konserte - koncert  
 konsida - rozważać, brać pod uwagę  
-konsone - spółgłoska  
 kontinu - kontynuować; wznawiać, ponawiać  
 kontra - być przeciw  
 konuse - szyszka  
@@ -1647,11 +1650,9 @@ marca - iść, maszerować
 mare - czas; okazja  
 margarine - margaryna  
 marian nesia - Mariany Północne  
-marjele - meduza  
 marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
 marse - Mars  
-martate - wybrzeże (plaża)  
 masaja - knead (massage)  
 masaje - masaż  
 masale - przyprawa  
@@ -2085,7 +2086,7 @@ patojener - patogen
 patolojia - patologia  
 paunde - funt (£)  
 pauza - przerwać, przerywać  
-pauze - pauza, przerwa  
+pauze - pauza (przerwa)  
 pawe - pistolet, strzelba, ręczna broń palna  
 paxa - sprawić ból, sprawiać ból  
 paxi - bolesny  
@@ -2579,6 +2580,7 @@ suxe - sushi
 suy (suye) - woda  
 suygase - para wodna  
 suyi - wodny  
+suynide - pragnienie  
 suyporte - port morski (przystań)  
 suyrang - akwarela, farba wodna  
 suysekuri - wodoodporny  
@@ -2806,7 +2808,8 @@ vizita - odwiedzić, odwiedzać
 vizite - wizyta  
 viziter - wizytant (gość)  
 vodun - voodoo  
-vokale - samogłoska  
+vola - chcieć, pragnąć  
+vole - wola (chęć, pragnienie)  
 volte - wolt (V)  
 vota - głosować (złożyć głos)  
 vote - głos  
@@ -2816,11 +2819,10 @@ vulve - srom
 wada - obiecać, angażować się  
 waf (wafe) - pies  
 wakila - reprezentować  
-wale - mur, ściana  
 walis e futun nesia - Saint Vincent i Grenadyny  
-walpapire - tapeta  
-wana - chcieć, pragnąć  
-wane - wola (chęć, pragnienie)  
+wana - bawić, zabawiać  
+wane - zabawa, rozrywka  
+wani - zabawny  
 warise - spadek, dziedzictwo, spuścizna, zapis  
 warke - kartka (dokument)  
 warkolate - strona  
@@ -2849,8 +2851,6 @@ wikia - wiki
 wil (wilo) - w przyszłości  
 wildi - dziki  
 wile - przyszłość  
-wina - zwyciężyć, wygrać  
-wine - zwycięstwo, wygrana  
 winge - skrzydło  
 wolfe - wilk  
 wolfram - wolfram  
@@ -2864,6 +2864,7 @@ xamden - popołudnie
 xame - wieczór  
 xamyame - kolacja  
 xane - góra, wzgórze  
+xante - zostawić (zostawiać)  
 xanti - spokojny  
 xarme - wstyd (hańba, kompromitacja)  
 xarnire - zawias, oś  
@@ -2879,6 +2880,8 @@ xaxu - szeleścić
 xefe - szef, kierownik  
 xefi - główny  
 xefi minister - premier  
+xenga - zwyciężyć, wygrać  
+xenge - zwycięstwo, wygrana  
 xenon - ksenon  
 xense - mistrz (sensei)  
 xey (xeye) - rzecz  
@@ -2897,8 +2900,6 @@ xirer - poeta
 xirope - syrop  
 xita - srać (robić gówno)  
 xite - gówno  
-xixi - cichy  
-xixo - ćsi  
 xofa - prowadzić pojazd  
 xofer - szofer (kierowca)  
 xogune - szogun  
@@ -2917,7 +2918,8 @@ xule - naprawa
 xuler - naprawiacz  
 xute - umiejętność (kompetencja)  
 xuti - umiejętny (wprawny)  
-xuxe - zostawić, zostawiać  
+xuxi - cichy  
+xuxo - ćsi  
 ##y
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
@@ -2928,6 +2930,7 @@ yama - skonsumować, konsumować, zjeść, jeść, wypić, pić)
 yame - jedzenie, posiłek  
 yami - pyszny  
 yamkamare - jadalnia  
+yamnide - głód  
 yange - rodzaj, typ, styl  
 yasene - jesion  
 yatimdome - sierociniec, dom dziecka  
@@ -2978,7 +2981,7 @@ zemgrafe - mapa
 zemgrafia - kartografia  
 zemia - Ziemia  
 zemlaskeria - wosko lądowe (armia)  
-zemomedi mare - Morze Śródziemne  
+zemomedi haye - Morze Śródziemne  
 zemsisme - trzęsienie Ziemi  
 zemtike - działka (teren)  
 zeze - mucha  
