@@ -1,8 +1,35 @@
 # insan du putong hake
 
-pan insan jenu huri e egal sa gun e hake.
-lole tena razon e bude.
-lole bixu trata unale sa ruhe da saudaria.
+## predobabe
+sabe – baze da huria, adalia, e pacia sa dunia esa note da indoteni onore e egali e no alabli hake da mey member da famile da insania.
+sabe – sa nega e hena insani hake, rezulta barbari kare da fura darmosense da insania, e kaixa da dunia da sa insan tena huria da loge e xine e sekuria da fobia e wane esa maxim gawi gole da putong deme.
+sabe – aga insane no musu pa, ko maxim badi plane, rebela kontra tirania e hakopuxia, insani hake bixu sekuru kanune.
+sabe – krizi fate esa mota raste da dosti guanxe da meda nasia.
+sabe – pan nase da unisi nasia, sa li bazodokume, repo amena loli xine da bazi insani hake, da onore e VALUE da ren, e da egali hake da man e fem, e RESOLVETO mota soci jinia e max guni hayi darje sa max day huria.
+sabe – membi dexe wada kara, sa helpe da unisi nasia, mote da putong onore e sekuria da insani hake e bazi huria.
+sabe – putong ahe da yi hake e huria tena maximi hamia aga yi wade abla veru.
+rezulte – PUTONG JAMIA DA UNISI NASIA komuna yi PUTONG LOGE DA INSANI HAKE ko putong norme da jinia da pan nase e nasia, pa ica mey ren e mey parte da socia, dura hema yi loge sa pan sate, wilo werka sa darsia pa mota onore da yi hake e huria e, sa jini nasi e nasomedi acione, sekura loli putong e funci note e sekuria, meda nase da membi dexe e meda nase da dexe da nica li kratia.
+
+## babe 1
+pan insan jenu huro e egalo sa gune e hake. lole tena razon e bude. lole bixu trata unale sa ruhe da saudaria.
+
+## babe 2
+pan insan haku sa pan hake e huria da sifu sa yi loge, na eni hasia da yange, misalo: rase, rang da pile, jinse, baxe, dine, politiki o ali raye, nasi o soci asle, malke, jene, o ali hale. plus, bixu no hasa sa baze da politiki, sultani, o medonasi hale da dexe o aria da tena mey insan, sa le esa autonomi, wayonomi, o eni ali yange da kratia.
+
+## babe 3
+pan insan haku sa haye, huria, e sekure da ren.
+
+## babe 4
+nol insan halalu musu pa servia. musoservia e xopia da server bixu haramu sa pan forme.
+
+## babe 5
+nol insan halalu zalimo paxu o donu zalimi, no insanodeki, o nolonido insulti pune.
+
+## babe 6
+pan insan haku sa notia ko ren sa kanune sa pan loke.
+
+## babe 7
+pan insan esa egali sa kanune e haku sa egali sekure da kanune na eni hasia. pan haku sa sekure kontra eni hasia da haramu yi loge e kontra eni suje da hasia da we.
 
 ## babe 8
 pan insan tena hake da rezultiki sahe sa dexi hakimer, da tena sultane, ca acione da kontra bazi hake da wadu bazokanune o ali kanune pa le.
