@@ -20,10 +20,10 @@ pan insan haku sa pan hake e huria da sifu sa yi loge, na eni hasia da yange, mi
 pan insan haku sa haye, huria, e sekure da ren.
 
 ## babe 4
-nol insan halalu musu pa servia. musoservia e xopia da server bixu haramu sa pan forme.
+no halala eni insan musu pa servia. musoservia e xopia da server bixu haramu sa pan forme.
 
 ## babe 5
-nol insan halalu zalimo paxu o donu zalimi, no insanodeki, o nolonido insulti pune.
+no halala eni insan zalimo paxu o donu zalimi, no insanodeki, o nolonido insulti pune.
 
 ## babe 6
 pan insan haku sa notia ko ren sa kanune sa pan loke.
@@ -35,17 +35,17 @@ pan insan esa egali sa kanune e haku sa egali sekure da kanune na eni hasia. pan
 pan insan tena hake da rezultiki sahe sa dexi hakimer, da tena sultane, ca acione da kontra bazi hake da wadu bazokanune o ali kanune pa le.
 
 ## babe 9
-nol insan abla kapu o detasu o wayu ca dex na kanune.
+no halala eni insan kapu o detasu o wayu ca dex na kanune.
 
 ## babe 10
 pan insan tena, sa puri egalia, hake da adalo demo audu autonomi e no parti hakimer sa hakime da li hake, bixe o krime.
 
 ## babe 11
 1. pan insan, da hakimu, tena hake da fikra le ko nodexi ata dalila le ko dexi sa kanune sa demo hakime su garanta pan defe pa le
-2. nol insan abla hakimu ko dexi da eni krime ca kare o nokare da no krime dura ye karu sa dexi kunune o nasomedi kanune. e no abla dona maxo mal pene ko pene aplikabli sa kanune dura yi krime atu.
+2. no halala eni insan hakimu ko dexi da eni krime ca kare o nokare da no krime dura ye karu sa dexi kunune o nasomedi kanune. e no abla dona maxo mal pene ko pene aplikabli sa kanune dura yi krime atu.
 
 ## babe 12
-pan insan no abla anplizo aciona sa tane o famile o dome o poste da ali insan na kanune e no abla agresa sa li onore. pan insan tena hake da defe kontra yi yange da anplizi acione e agrese.
+no halala eni insan anplizo aciona sa tane o famile o dome o poste da ali insan na kanune e no abla agresa sa li onore. pan insan tena hake da defe kontra yi yange da anplizi acione e agrese.
 
 ## babe 13
 1. pan insan tena hake da huri migre e domia medu kenare da eni dex.
@@ -53,15 +53,15 @@ pan insan no abla anplizo aciona sa tane o famile o dome o poste da ali insan na
 
 ## babe 14
 1. pan insan tena hake da le pliza e uza dexi sekure kontra agresia sa ali dex.
-2. yi hake no abla uzu, aga agresia vero ca no politiki krime o ca kare da kontra dike o kanune da lige da Unisi Nasia.
+2. no halala yi hake uzu, aga agresia vero ca no politiki krime o ca kare da kontra dike o kanune da lige da Unisi Nasia.
 
 ## babe 15
 1. pan insan tena hake da dexosife.
-2. no abla anzayisa dexosife da eni insan o nega mute da ye na kanune.
+2. no halala anzayisa dexosife da eni insan o nega mute da ye na kanune.
 
 ## babe 16
 1. purumuri man o fem tena hake da lole gama o kaixa famile na limite da rase o dexosife o dine. lole tena egali hake sa gamia e dura gamia e sa fine da gamia.
-2. abla gamia mono sa huri e puri samoraye da gamike.
+2. halala gamia mono sa huri e puri samoraye da gamike.
 3. famile eki e bazi eme da socia e tena hake da sekure da dex e socia.
 
 ## babe 17
@@ -114,7 +114,7 @@ pan insan tena hake da soci e nasmedi ratibe da su hake e huria da sa yi dokume 
 ## babe 29
 1. pan insan tena bixe sa socia da su li renosife du huri e puri fajane abla.
 2. sa aplike da li hake e huria, pan insan bixu limitu limite mono da canu kanune mono pa sekura jane e onore da hake e huria da ali insan e pa verisa darme e demratibe e putong bonsife sa demkarti socia.
-3. no abla, sa eni kase, aplika yi hake e huria kontra dike e kanune da like da Unisi Nasia.
+3. no halala, sa eni kase, aplika yi hake e huria kontra dike e kanune da lige da Unisi Nasia.
 
 ## babe 30
 nol xey sa yi dokume abla dona, pa eni dexe o grupe o ren, eni hake da acione o parte sa yi acione da dika anzayisa eni hake o huria da kitabu sa yi dokume.
