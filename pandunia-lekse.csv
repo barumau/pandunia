@@ -517,7 +517,7 @@ cutomun||||exit door||salida|||||||||||||elirejo|uloskäynti|drzwi wyjściowe
 cuza|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choose (elect, select)||elegir (escoger, seleccionar)|||||||||||||elekti|valita|wybrać, wybierać, selekcjonować
 cuzable||||option (choice)|option|opción|opção|||选择 (买卖权)|オプション (選択)||||||||||opcja (wybór)
 cuze||||choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
-da|||zho:的 (de)|own (particle of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
+da|||fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|of (particle of possession)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|omistetun omistajaan liittävä partikkeli|z (partykuła posiadania)
 dade|||spa:por:tgl:dado, may:swa:dadu|die (dice)||dado|dado|||||||||dadu|dadu||ĵetkubo|noppa (arpakuutio)|kość do gry
 daixer|||zho:大使 (dàshǐ), yue:大使 (daai6 si3), jpn:大使 (taishi), kor:대사 (daesa), vie:đại sứ|ambassador||embajador|||||||||||||ambasadoro|lähettiläs|ambasador
 daixeria||||embassy||embajada|||||||||||||ambasado|lähetystö|ambasada
@@ -562,7 +562,7 @@ darviniste||||Darwinist||darwinista||||||||||||||darwinisti|darwinista
 darvinistia||||Darwinism||darwinismo||||||||||||||darwinismi|darwinizm
 date|||eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|data (numeric information)|données|datos|dados|данные||数据||||डेटा||data||veri|datumo|data (numeerinen tieto)|dane
 datobanke||||database (databank)|base de données|banco de datos (base de datos)|banco de dados|база данных||数据库||||डेटाबेस||basis data||veritabanı|datumbanko|tietokanta|baza danych (bank danych)
-dav (dave)|||zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|way (road)||camino (calle)|||||道||||||||vojo|tie|droga, szosa, ulica
+dave|||zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|way (road)||camino (calle)|||||道||||||||vojo|tie|droga, szosa, ulica
 daviste||||Taoist||taoísta||||||||||||||taolainen|taoista
 davistia||||Taoism (Daoism)||taoísmo||||||||||||||taolaisuus|taoizm
 day (dayi)|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
@@ -607,7 +607,7 @@ deskili||||ten thousand|||||||万||||||||dek miloj|sata tuhatta|dziesięć tysi�
 desmese|mese|||October||octubre|||||１０月|||||||||lokakuu|luty
 desunmese|mese|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
 detale|||eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|detail||detalle|||||||||||||detalo|yksityiskohta (detalji)|detal, szczegół
-dev (deve)|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
+deve|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
 devi||||divine (godly)||divino|||||||||||||dia|jumalallinen|boski
 deviste||||theist||teísta||||||||||||||teisti|teistyczny
 devistia||||theism||teísmo||||||||||||||teismi (jumalusko)|teizm
@@ -669,7 +669,7 @@ drame|||eng:spa:por:may:drama, fra:drame, rus:дра́ма, ara:دْرَامَا
 dramironia||||dramatic irony|||||||||||||||||ironia dramatyczna
 droge|||eng:drug, spa:droga, fra:drogue, deu:Droge|drug (intoxicating substance)||droga (narcótico)||||||||||||||huume|narkotyk
 drugia|dex|BT|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|Bhutan||Bután||||||||||||||Bhutan|Bhutan
-du|||fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|of (particle of possession)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|omistetun omistajaan liittävä partikkeli|z (partykuła posiadania)
+du|||zho:的 (de)|own (particle of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
 dubnium|mate|Db||dubnium||dubnio|||||||||||||dubnio|dubnium|dubn
 duga|||zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|read|lire|leer|ler|читать||读 (看)|読む|읽다|đọc|पढ़ना|পড়া|baca|kusoma|okumak|legi|lukea|czytać
 duka||||sadden (make sad)||entristecer (poner triste)|||||||||||||malĝojigi|surettaa|zasmucić (zasmucać)
@@ -1198,8 +1198,9 @@ humuse|||ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:sp
 humusosos||||hummus||humus||||||||||||||hummus|hummus
 hura||||free (liberate)||liberar (soltar)|||||||||||||liberigi|vapauttaa|uwolnić, uwalniać
 hurargente|mate|Hg||mercury (quicksilver)||mercurio||||||||||||||elohopea|rtęć
-huri||||free (unchained)||libre|||||||||||||libera|vapaa|wolny, niepodległy, niezależny
-huria|||ara:(ḥurriyya), tur:hürriyet, swa:uhuru, som:xorriyad, bam:hɔrɔnya|freedom (liberty)||libertad|||||||||||||libereco|vapaus|wolność, niepodległość, niezależność
+huri|||ara:حر<U+200E> (ḥurr), tur:hür, swa:huru, spa:horro, por:forro|free (unchained)|libre|libre (horro)|livre (forro)|свободный (вольный)|حر
+<U+200E>|自由的|自由|자유|tự do|मुक्त (आज़ाद)|মুকলি|bebas|huru|özgür (hür)|libera|vapaa|wolny, niepodległy, niezależny
+huria||||freedom (liberty)||libertad||||自由|||||||||libereco|vapaus|wolność, niepodległość, niezależność
 huriste||||liberalist||liberalista||||||||||||||liberalisti|liberalista, wolnościowiec
 huristi||||liberal||liberal||||||||||||||liberaali (vapaamielinen)|liberalny, wolnościowy
 huristia||||liberalism||liberalismo||||||||||||||liberalismi|liberalizm
