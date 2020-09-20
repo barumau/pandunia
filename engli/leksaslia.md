@@ -4,6 +4,7 @@
 |**-i**|suffix for adjectives|Arabic:(-i), Persian:(-i), Hindi:-ई (-ī), Bengali:-ই (-i), English:-y, Japanese:-い (-i), Hungarian:-i|
 |**-ia**|area of thinking or being|Spanish:Portuguese:English:-ia, Russian:-ия (-iya), Arabic: ية (-iya), Japanese:屋 (-ya)|
 |**-u**|suffix for verbs with OVS word order|Hausa:Wolof:-u, Swahili:-wa|
+|**<U+200E>**|tự do|자유|
 |**a**|but (whereas)|Russian:а (a), Polish:a, + Mandarin:啊 (ā), + English:ah|
 |**abace**|alphabet|Greek:(alphabētos), Spanish:abecedario, Persian:(alefbâ), Arabic:(abjad), Hungarian:ábécé|
 |**abite**|fir tree|Spanish:Portuguese:abeto|
@@ -220,7 +221,7 @@
 |**cupa**|suck (absorb)|Spanish:Portuguese:chupar, Khmer:ជប់ (cup)|
 |**cute**|exit (leaving)|Mandarin:出 (chū), Hakka-Chinese:(chut), Korean:출 (chul), Hindi:छूटना (chūtnā)|
 |**cuza**|choose (elect, select)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
-|**da**|own (particle of possession)|Mandarin:的 (de)|
+|**da**|of (particle of possession)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dade**|die (dice)|Spanish:Portuguese:Filipino:dado, Malay:Swahili:dadu|
 |**daixer**|ambassador|Mandarin:大使 (dàshǐ), Cantonese:大使 (daai6 si3), Japanese:大使 (taishi), Korean:대사 (daesa), Vietnamese:đại sứ|
 |**daka**|cover (conceal)|Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck|
@@ -238,7 +239,7 @@
 |**darse**|lesson|Arabic:Persian:Urdu:(dars), Turkish:ders|
 |**darte**|soil (dirt)|English:dirt, Hindi:धरती (dhartī), Urdu:(dhartī), Vietnamese:đất, Malay:darat|
 |**date**|data (numeric information)|English:Malay:data, Vietnamese:đa ta, deu:Daten, Spanish:Filipino:datos, Portuguese:dados, Persian:(dâde-hâ), Hindi:डेटा (ḍeṭā), Urdu:(ḍeṭā), Japanese:データ (dēta)|
-|**dav (dave)**|way (road)|Mandarin:道 (dào), Cantonese:道 (dou6), Japanese:道 (dō), Korean:도 (do), Vietnamese:đạo|
+|**dave**|way (road)|Mandarin:道 (dào), Cantonese:道 (dou6), Japanese:道 (dō), Korean:도 (do), Vietnamese:đạo|
 |**day (dayi)**|big (great)|Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)|
 |**dayhaye**|ocean|Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)|
 |**debili**|weak|English:debilitated, Spanish:Portuguese:débil, Hindi:दुर्बल, Bengali:দুর্বল, Marathi:दुबळा|
@@ -252,7 +253,7 @@
 |**desene**|drawing (design)|English:design, Spanish:diseño, Russian:дизайн (dizain), Turkish:desen, Hindi:डिज़ाइन (ḍizāin), Japanese:デザイン (dezain)|
 |**desi**|ten (10)|Portuguese:dez, Spanish:diez, French:dix, Russian:десять (desyat'), Polish:dziesięć, Hindi:दस (das), Urdu:(das), Bengali:দশ (dôś), + English:deci-, Malay:desi-, Japanese:デシ- (deshi), deu:dezi-|
 |**detale**|detail|English:detail, Spanish:detalle, Portuguese:detalhe, French:détail, deu:Detail, Russian:дета́ль (detal’)|
-|**dev (deve)**|god (deity)|Portuguese:deus, Malay:dewa, Hindi:देवता (devtā), Kannada:(dēva)|
+|**deve**|god (deity)|Portuguese:deus, Malay:dewa, Hindi:देवता (devtā), Kannada:(dēva)|
 |**dexe**|country (land, state)|Hindi:देश (deś), Bengali:দেশ (deś), Telugu:(dēśamu)|
 |**dike**|target (aim, objective)|Mandarin:的 (dí), Cantonese:的 (dik1), Japanese:的 (teki), Vietnamese:đích|
 |**dinamite**|dynamite|English:dynamite, Spanish:dinamita, Russian:динамит (dinamit), Turkish:Malay:dinamit, Arabic:ديناميت (dinamit), Hindi:डायनामाइट (dāyanāmait), Japanese:ダイナマイト (dainamaito)|
@@ -278,7 +279,7 @@
 |**drame**|drama|English:Spanish:Portuguese:Malay:drama, French:drame, Russian:дра́ма, Arabic:دْرَامَا‎ (drāmā), Hindi:ड्रामा (ḍrāmā), Japanese:ドラマ (dorama)|
 |**droge**|drug (intoxicating substance)|English:drug, Spanish:droga, French:drogue, deu:Droge|
 |**drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
-|**du**|of (particle of possession)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
+|**du**|own (particle of possession)|Mandarin:的 (de)|
 |**duga**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Vietnamese:đọc, zha:dog, Japanese:(doku-)|
 |**duke**|grief (sorrow)|Hindi:दुःख (duḥkh), Bengali:দুঃখ (dukhô), Thai:ทุกข์ (tuk), Malay:duka, English:dukkha|
 |**duli**|two (2)|Korean:둘 (dul), Bengali:দুই (dui), Malay:dua, + English:French:Portuguese:Spanish:dual|
@@ -341,8 +342,8 @@
 |**fene**|part (fraction)|Mandarin:分 (fèn), Wu-Chinese:(fén), Cantonese:(fan), Vietnamese:phần, Thai:ปัน (pan), Japanese:分 (bun), Korean:분 (bun)|
 |**fere**|iron|Spanish:hierro, Portuguese:ferro, French:fer, Malay:ferum|
 |**feste**|party (celebration, festival)|Portuguese:festa, Spanish:fiesta, French:fête, deu:Fest, English:festival, Russian:фестиваль (festival')|
-|**fete**|fat (grease)|Swahili:mafuta, rwa:mavuta, Kongo:mafuta|
-|**feya**|fly (go through air)|Mandarin:飞 (fēi), Cantonese:飛 (fei1), Wu-Chinese:飛 (fi1), Japanese:飛 (hi), Korean:비 (bi), Vietnamese:bay|
+|**fete**|fat (grease)|English:fat, deu:Fett, Swahili:mafuta, rwa:mavuta, Kongo:mafuta|
+|**feyu**|fly (go through air)|Mandarin:飞 (fēi), Cantonese:飛 (fei1), Wu-Chinese:飛 (fi1), Japanese:飛 (hi), Korean:비 (bi), Vietnamese:bay|
 |**figure**|figure (representation)|English:French:figure, Spanish:Portuguese:figura|
 |**fikre**|thought (idea)|Arabic:(fikr), Persian:(fekr), Turkish:fikir, Malay:pikir, Hindi:(fikr)|
 |**fiksa**|fix (attach)|English:fix, French:fixer, Spanish:fijar, Portuguese:fixar|
@@ -496,7 +497,7 @@
 |**hotel (hotele)**|hotel|English:deu:Spanish:Portuguese:Malay:hotel, French:hôtel, Hindi:होटल (hoṭal), Bengali:হোটেল (hoṭel), Japanese:ホテル (hoteru), Korean:호텔 (hotel), Russian:отель (otel)|
 |**hule**|fox|Mandarin:狐狸 (húlí), Cantonese:狐狸 (wu4 lei4-2)|
 |**humuse**|chickpea|Arabic:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), English:Spanish:Malay:hummus, Portuguese:húmus, Russian:хумус (humus), Turkish:humus, Hindi:Marathi:हुम्मुस (hummus), Japanese:フムス (fumusu)|
-|**huria**|freedom (liberty)|Arabic:(ḥurriyya), Turkish:hürriyet, Swahili:uhuru, som:xorriyad, bam:hɔrɔnya|
+|**huri**|free (unchained)|Arabic:حر<U+200E> (ḥurr), Turkish:hür, Swahili:huru, Spanish:horro, Portuguese:forro|
 |**huxi**|nice (pleasant, comfortable, cushy)|Persian: خوش‎ (xoš), Hindi:ख़ुश (xuś), Bengali:খুশি (khuśi), Turkish:hoş, English:cushy|
 |**huye**|ash (ashes)|Mandarin:灰 (huĭ), Cantonese:灰 (fui), Japanese:灰 (hai), + Korean:회색 (hoesaeg)|
 |**ice**|will (volition, desire)|Vietnamese:ý chí, Mandarin:意志 (yìzhì), Korean:(uiji), Japanese:(ishi), + Hindi:इच्छा (icchā), Telugu:ఇచ్చ (icca)|
@@ -804,7 +805,6 @@
 |**mantole**|cape (cloak, mantle)|English:mantle, Spanish:manto, French:manteau, Russian:манто (manto), Japanese:マント (manto), Korean:망토 (mangto), Malay:mantel|
 |**maragaye**|margay|English:margay, Spanish:maracayá, Portuguese:maracajá, Russian:маргай (margay), Arabic:مارج (mārǧ), Japanese:マーゲイ (māgei)|
 |**maratone**|marathon|English:marathon, Spanish:maratón, Portuguese:maratona, Russian:марафо́н (marafón), Turkish:maraton, Arabic:مَارَاثُون‎ (mārāṯūn), Hindi:मैराथन (mairāthan), Bengali:ম্যারাথন (mjarathôn), Mandarin:马拉松 (mǎlāsōng), Japanese:マラソン (marason)|
-|**marca**|walk (march)|English:march, French:marche, Spanish:marcha, Russian:марш (marš)|
 |**mare**|time (instance, occasion)|Arabic: مرة (marra), Swahili:mara, Hindi:बार (bār), Persian:Urdu: بار‎(bār), deu:Mal|
 |**margarine**|margarine|English:French:margarine, Spanish:Portuguese:margarina, Russian:маргари́н (margarín), Turkish:margarin, Hindi:मार्जरीन (mārjarīn), Malay:marjerin, Mandarin:麦淇淋 (màiqílín), Japanese:マーガリン (māgarin)|
 |**margarite**|daisy|Spanish:Portuguese:margarita, French:marguerite, deu:Margerite, Russian:маргаритка (margaritka)|
@@ -1097,11 +1097,11 @@
 |**rege**|sand|Persian:(rig), Hindi:रेग (reg), Urdu:(reg)|
 |**reloje**|clock (watch)|Spanish:reloj. Portuguese:relógio. French:horloge. Italian:orologio. Malay:arloji.|
 |**ren (rene)**|person (people)|Mandarin: 人 (rén)|
-|**repe**|repetition (rep)|English:rep(etition), Spanish:repetición, + Vietnamese:lặp|
 |**reside**|receipt (acknowledgement)|Persian:(resid), Hindi:रसीद (rasīd), Urdu:(rasīd), Gujarati:રસીદ (rasīd), Telugu:రసీదు (rasīdu), + English:receipt, Swahili:resiti, Malay:resit|
 |**reste**|rest (remainder)|French:reste, English:deu:Rest, Polish:reszta, Spanish:Portuguese:resto|
 |**restorante**|restaurant|English:French:restaurant, Spanish:Portuguese:restaurante, Russian:ресторан (restoran), Turkish:Malay:restoran, Hindi:रेस्तरां (restarā̃), Bengali:রেস্টুরেন্ট (reśṭurenṭ), Japanese:レストラン (resutoran)|
 |**retro**|backward (in reverse)|English:Spanish:Portuguese:deu:retro-, French:rétro-, Russian:ретро- (retro-)|
+|**reye**|repetition|English:French:Portuguese:Spanish:re-, Russian:ре- (re-)|
 |**rezerve**|reservation (booking, withholding)|English:reservation, French:réservation, Portuguese:Spanish:reserva, Turkish:rezerve, Russian:резервирование (rezervirovaniye)|
 |**rezine**|resin|English:resin, French:résine, Persian:(rezin), Portuguese:Spanish:resina, Turkish:reçine|
 |**rezulte**|result (effect, outcome)|English:result, Spanish:Portuguese:resultado, French:résultat, deu:Resultat, Russian:результат (rezul’tat)|

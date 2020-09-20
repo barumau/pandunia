@@ -33,11 +33,11 @@ algues brunes - brunalge
 Aller-retour - retrotikete  
 alligator - kortokrokodile  
 allophone - alfone  
-allô - halow  
+allô - halov  
 alphabet - abace  
 aluminium - alumine  
 amande - badame  
-amer - kuwi  
+amer - kuvi  
 Amhara (groupe ethnique et langue éthiopienne) - amari  
 amour (affection) - ame  
 ampoule (fiole) - ampule  
@@ -51,7 +51,7 @@ ancre - anker
 Andes - andes  
 andésite - andesite  
 Angola - angolia  
-animal (bête) - hewane  
+animal (bête) - hevane  
 animation - anime  
 animer - anima  
 Antarctique - antartia  
@@ -132,9 +132,10 @@ besoin - nide
 betterave à sucre (betterave sucrière, betterave) - xukarbete  
 bibliothèque - kitabia  
 bicyclette - sikle  
+bilingue - dulbaxi  
 billet - tikete  
-biologie - biwlojia  
-biome - biwsisteme  
+biologie - bivlojia  
+biome - bivsisteme  
 bière - bire  
 blanc - baki  
 blettes (bettes) - selge  
@@ -180,8 +181,8 @@ Camomille Romaine - romkamile
 Camomille sauvage - kamile  
 canapé (sofa) - kanape  
 Canne à sucre - xukargrase  
-canon - daypawe  
-canoë - kanowe  
+canon - daypave  
+canoë - kanove  
 Cantalupo in Sabina - kantalupe da sabine  
 canyon (ravin) - kanione  
 capacité (compétence) - able  
@@ -212,7 +213,7 @@ chardon Marie - milkokardone
 chardon penché - pendokardone  
 charme - carme  
 chasser - saida  
-chat - maw (mawe)  
+chat - mav (mave)  
 chaudron - dayvaze  
 chauve-souris - feymuxe  
 chaux - kalcomate  
@@ -247,7 +248,7 @@ compare - para
 compassion - samemose  
 complot (conspiration) - sirplane  
 comportement (manière) - manire  
-compost - biwcaniver  
+compost - bivcaniver  
 compote de pommes - apelsose  
 comprendre (réaliser) - aha  
 concert - konserte  
@@ -309,7 +310,7 @@ dessous - nice
 destin - cenamene  
 deux (2) - duli  
 diamant - almase  
-dieu - dew (dewe)  
+dieu - deve  
 dimanche - var 7 (var seti)  
 diorite - diorite  
 dioxyde de carbone - karbondulokside  
@@ -348,7 +349,7 @@ enclume - metalbede
 encore - yexo  
 enfant - bace  
 enterrer - gabra  
-entonnoir - liwkope  
+entonnoir - livkope  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -372,7 +373,7 @@ fatigue - fatigia
 faute (erreur) - galte  
 favori (préféré) - favori  
 fente (fissure, fêlure) - krake  
-fermenter - biwmutu  
+fermenter - bivmutu  
 feu - hoge  
 feu d’artifice - hogotehne  
 fier - nidoxina  
@@ -426,7 +427,7 @@ généreux - karimi
 générosité (charité) - karimia  
 géologie - zemlojia  
 ##h
-haut - gawe  
+haut - gave  
 heure - hore  
 heureux - suki  
 hier - cendeno  
@@ -491,6 +492,7 @@ lent - lenti
 Lettonie - latovia  
 lexical - logi  
 libellule - libele  
+libre - huri  
 lichen - algofunge  
 lieu - loke  
 lime (citron vert) - kagazolimone  
@@ -501,7 +503,7 @@ livre - buke
 local - loki  
 long - longi  
 loquace - logivi  
-loup - wolfe  
+loup - volfe  
 lourd - bari  
 loutre - lontre  
 lumière - fote  
@@ -521,9 +523,10 @@ maison - dome
 malédiccion - lane  
 manche - kamisi xake  
 mandarine - laloranje  
-mandarine satsuma - wenjoworanje  
+mandarine satsuma - venjovoranje  
 manichéisme - manihayistia  
 marbre - kalcokristale  
+marche - marce  
 marché (bazar) - bazare  
 mardi - var 2 (var duli)  
 margay (chat-tigre) - maragaye  
@@ -616,12 +619,12 @@ option - cuzable
 or - aure  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
-orange amère - kuworanje  
+orange amère - kuvoranje  
 orange douce - xukaroranje  
 orchidée - orkide  
 ordinateur - komputer  
 oreille - ore  
-organisme - biwe  
+organisme - bive  
 origine - asle  
 originel - asli  
 orthogonal - ortogoni  
@@ -634,11 +637,11 @@ ours - urse
 oxyde - okside  
 ##p
 pacifiste - paciste  
-page - warkolate  
+page - varkolate  
 pain - pang (pange)  
 paix - pace  
 palais (château, manoir) - daydome  
-pamplemousse - putawlimone  
+pamplemousse - putavlimone  
 pantalon - pante  
 pantoufle (babouche) - babuce  
 papaye - papaye  
@@ -668,21 +671,21 @@ perplexe (désorienté) - konfusi
 perroquet - papagaye  
 pet (vesse) - pede  
 petit - lil (lili)  
-peu - xawi  
+peu - xavi  
 peut-être - ablo  
 philosophie - filsofia  
 photographie - fotografe  
 photographie - fotografia  
 pierre - xeke  
-pierre précieuse (joyau) - bawxeke  
+pierre précieuse (joyau) - bavxeke  
 pierre tombale - gabroxeke  
 pieu (poteau) - zonge  
 pile (batterie) - batre  
 piment - cile  
 pioche - pikosape  
-piquenique - wayoyame  
+piquenique - vayoyame  
 piraterie - piratia  
-pistolet - pawe  
+pistolet - pave  
 pizza - pize  
 pièce (chambre) - kamare  
 piège - kapotruke  
@@ -695,6 +698,7 @@ plaque tectonique - zemkaski plate
 plein - puri  
 pluie - barxe  
 plume - kalame  
+plurilingue (multilingue) - polbaxi  
 plus - max (maxo)  
 pluvieux - barxi  
 pocion - medikosuy  
@@ -725,7 +729,7 @@ projeter (donner) - lancografa
 propriété (possession, bien) - malke  
 prune - plume  
 prune de Java - jambule  
-précieux - bawi  
+précieux - bavi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruhlojia  
@@ -742,7 +746,7 @@ que (quoi) - ke
 race - rase  
 racine - mule  
 rare - rari  
-raton laveur - waxurse  
+raton laveur - vaxurse  
 rayon de miel - melvesponizde  
 rein - nefre  
 religion - dine  
@@ -751,7 +755,7 @@ renard - hule
 repos - xante  
 requin - xarke  
 reste - reste  
-retourner (revenir) - retra  
+retourner (revenir) - retru  
 rhythme - ritime  
 riche - rici  
 rime - rime  
@@ -766,9 +770,11 @@ rosée - rose
 roue - cakre  
 rouge - lali  
 ruban (bande) - tepe  
-rubis - lalbawxeke  
+rubis - lalbavxeke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
+répéter - reya  
+répétition - reye  
 rêche (rugueux, gros) - karsi  
 rôtir - rosta  
 s'installer (déménager) - migru  
@@ -845,7 +851,7 @@ technique - tehne
 technologie - tehnolojia  
 tectonique des plaques - plati zemkaskia  
 tendance - ive  
-tender - waytira  
+tender - vaytira  
 tentacule - senter  
 tente - haime  
 terrain - zemforme  
@@ -897,7 +903,7 @@ vaginite - vaginitis
 vampire - vampire  
 vampire des abysses - vampirbalsenter  
 vapeur d’eau - suygase  
-varech - warkalge  
+varech - varkalge  
 vase - vaze  
 vendre - venda  
 vendredi - var 5 (var limi)  
@@ -910,7 +916,7 @@ verrue - zeyile
 vert - lugi  
 viande - manse  
 vie - jive  
-vieux (âgé, ancien) - lawi  
+vieux (âgé, ancien) - lavi  
 vigne - eskaltane  
 ville - site  
 violet (pourpre) - violeti  
@@ -925,19 +931,20 @@ voile - hijabe
 voir - vida  
 voire (même) - ato  
 volcan - hogoxane  
+voler - feyu  
 vouloir - vola  
 voyelle - jungofone  
 vrai - veri  
 vulve - vulve  
 végétarien - vejetyamiste  
 ##w
-wolof - wolofi  
+wolof - volofi  
 ##x
 ##y
 ##z
 zombi - zombe  
 zone - zone  
-zoo - hewanparke  
+zoo - hevanparke  
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  
@@ -952,7 +959,7 @@ zèbre - zebre
 écriture - kitabe  
 écureuil - ekore  
 électricité - eletre  
-élevage - hewanjenisia  
+élevage - hevanjenisia  
 élever - jenisa  
 émeraude - zumurude  
 émoticône (emoji) - emoje  
@@ -971,8 +978,9 @@ zèbre - zebre
 étoile - xinge  
 étymologie - logaslia  
 été - lete  
-évangile - ewanjile  
-éveillé - weki  
+évangile - evanjile  
+éveillé - veki  
 être - esa  
 être couché - kuxu  
 être humain - insan (insane)  
+मुक्त (आज़ाद) - <U+##E>  

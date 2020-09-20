@@ -38,7 +38,7 @@ African - afriki
 afrophile - afrikofiler  
 Afrophilia - afrikofilia  
 afternoon - xamden  
-again (repeatedly) - repo  
+again (repeatedly) - reyo  
 age - umure  
 aggressive - agresi  
 agile - ajili  
@@ -330,6 +330,7 @@ Bible - biblia
 bicycle (pedal bike) - pedalsikle  
 big (great) - day (dayi)  
 bike (cycle) - sikle  
+bilingual - dulbaxi  
 bill (invoice) - bile  
 billion (giga-) - gigo-  
 biological sex - bivi jinse  
@@ -1097,7 +1098,6 @@ February - dulmese
 fee (fare) - takse  
 feel (sense by touch) - senta  
 feel - emosa  
-feeze (get frozen) - aisu  
 female - fem (feme)  
 feminism - femistia  
 feminist - femiste  
@@ -1149,7 +1149,7 @@ flow - livu
 flower - fule  
 fluid (liquid) - livmati  
 fluorine - flure  
-fly (go through air) - feya  
+fly (go through air) - feyu  
 fly (housefly) - zeze  
 focus (concentration) - fokuse  
 folder (directory) - dokumsanduke  
@@ -1185,6 +1185,7 @@ francium - fransium
 free (liberate) - hura  
 free (unchained) - huri  
 freedom (liberty) - huria  
+freeze (get frozen) - aisu  
 French Guiana - giyania  
 French Polynesia - fransi polinesia  
 frequency - cangia  
@@ -1270,7 +1271,7 @@ go - gova
 go along - pargova  
 goal (destination) - gole  
 goat - buze  
-god (deity) - dev (deve)  
+god (deity) - deve  
 gold - aure  
 golem - goleme  
 goniometer - gonmeter  
@@ -2026,6 +2027,7 @@ muddy - poti
 mule - gadogude  
 multicultural - polkulturi  
 multiculturalism - polkulturistia  
+multilingual - polbaxi  
 multinational - polnasi  
 Mumbai (Bombay) - mumbai  
 mummy - mumrene  
@@ -2164,7 +2166,7 @@ October - desmese
 octopus - balsenter  
 odd (strange, weird) - bizari  
 Odia (Oriya) - odisi  
-of (particle of possession) - du  
+of (particle of possession) - da  
 of course (obviously) - klaro  
 off (deactivated, disabled) - ankarivi  
 office (bureau) - ofisia  
@@ -2237,7 +2239,7 @@ outer (external) - vayi
 outside (exterior) - vaye  
 oven (furnace) - tanure  
 overpass - supre  
-own (particle of possession) - da  
+own (particle of possession) - du  
 own - malka  
 owner (proprietor) - malker  
 oxeye daisy - bakomargarite  
@@ -2611,8 +2613,8 @@ rent out (let, lease) - kirisa
 repair (fix) - xula  
 repair (fix) - xule  
 repairer - xuler  
-repeat - repa  
-repetition (rep) - repe  
+repeat (iterate) - reya  
+repetition - reye  
 report (recount, relate) - reporta  
 report - reporte  
 represent - vakila  
@@ -2631,7 +2633,7 @@ rest (relief, repose) - xante
 rest (remainder) - reste  
 restaurant - restorante  
 result (effect, outcome) - rezulte  
-return (go back) - retra  
+return (go back) - retru  
 return (restore, recover, resume) - fuga  
 return (way back) - retre  
 return ticket - retrotikete  
@@ -3311,6 +3313,7 @@ type (kind, genre) - tipe
 typewriter - kitabomaxine  
 tyranny - tirania  
 tyrant - tirane  
+tự do - <U+##E>  
 ##u
 Uganda - gandia  
 ugly - malrupi  
@@ -3414,7 +3417,7 @@ vulva - vulve
 wait - denga  
 wake (make awake) - veka  
 Wales (Cambria) - kamria  
-walk (march) - marca  
+walk (march) - marcu  
 wall - divare  
 Wallis and Futuna Islands - valis e futun nesia  
 wallpaper - divarkagaze  
@@ -3439,7 +3442,7 @@ wave - onde
 wax - mume  
 wax seal - mumcape  
 way (manner, mode) - mode  
-way (road) - dav (dave)  
+way (road) - dave  
 we - mome  
 weak - debili  
 wealth (fortune) - ricia  

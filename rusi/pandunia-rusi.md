@@ -1,4 +1,5 @@
 # pandunia-rusi
+<U+##E> - huru  
 ##a
 abace - алфавит  
 abite - пихта  
@@ -106,9 +107,9 @@ basene - бассейн
 basi - достаточно (довольно)  
 baskobol - баскетбол  
 batre - батарея  
-bawe - сокровище (казна)  
-bawi - драгоценный  
-bawxeke - драгоценный камень  
+bave - сокровище (казна)  
+bavi - драгоценный  
+bavxeke - драгоценный камень  
 baxe - язык  
 baxi jinse - род в грамматике  
 bazare - рынок (базар)  
@@ -123,13 +124,13 @@ berje - берёза
 bile - счёт  
 bina - строить  
 bire - пиво  
-biwcaniver - компост  
-biwe - организм  
-biwi - органический  
-biwi jinse - биологический пол  
-biwlojia - биология  
-biwmutu - заквасить  
-biwsisteme - биом  
+bivcaniver - компост  
+bive - организм  
+bivi - органический  
+bivi jinse - биологический пол  
+bivlojia - биология  
+bivmutu - заквасить  
+bivsisteme - биом  
 bol (bole) - шар  
 bombe - бомба  
 bon (boni) - хороший  
@@ -188,12 +189,12 @@ datobanke - база данных
 daydome - дворец (особняк)  
 dayhaye - океан  
 daylasune - лук исполинский  
-daypawe - пушка  
+daypave - пушка  
 dayvaze - котёл  
 dayxeke - валун  
 defbanze - щит  
 defkaske - доспехи  
-dew (dewe) - бог  
+deve - бог  
 dika - целиться  
 dike - цель  
 dinamite - динамит  
@@ -212,6 +213,7 @@ dosila - укрощать (приручить)
 dosili - кроткий  
 dosiljenisa - одомашнивать  
 duga - читать  
+dulbaxi - двуязычный  
 duli - два (2)  
 duli o tini - пара  
 dunia - мир (свет)  
@@ -233,7 +235,7 @@ eskulter - скульптор
 esponje - губка  
 esprinta - бегать (бежать)  
 europobalute - дуб черешчатый  
-ewanjile - евангелие  
+evanjile - евангелие  
 ##f
 fansoldixo - против часовой стрелки  
 fase - грань  
@@ -243,6 +245,7 @@ fatigia - усталость
 fatigu - устать  
 favori - любимый  
 feymuxe - летучая мышь  
+feyu - лететь  
 filme - плева (фильм)  
 filsofia - философия  
 fiorde - фьорд  
@@ -303,7 +306,7 @@ habare - новости
 haha - смеяться  
 haime - палатка (шатёр)  
 hale - состояние (статус)  
-halow - алло  
+halov - алло  
 hami - важный (значимый)  
 hamili - беременный  
 hande - рука  
@@ -318,8 +321,8 @@ hayhiyare - голотурия (морские огурц)
 hayi - морской  
 helisbabule - акация кручёная  
 helisvimane - вертолёт  
-hewane - животное  
-hewanparke - зоопарк  
+hevane - животное  
+hevanparke - зоопарк  
 hijabe - вуаль  
 hijenia - гигиена  
 hisaba - вычислять  
@@ -334,6 +337,7 @@ hore - час
 horizoni - horizontal  
 hotel (hotele) - гостиница (отель)  
 hule - лиса  
+huri - свободный (вольный)  
 huydarte - подзол  
 ##i
 indosida - сесть на корточки  
@@ -366,7 +370,7 @@ jungofone - гласный
 jungogia - Китай  
 juse - сок  
 justi - точный  
-justopawer - снайпер  
+justopaver - снайпер  
 ##k
 kababi manse - кебаб  
 kaboge - тыква  
@@ -391,7 +395,7 @@ kancodaka - глазуровать
 kancodake - глазурь  
 kanione - овраг (ущелье, каньон)  
 kanjare - кинжал  
-kanowe - каноэ  
+kanove - каноэ  
 kansuygase - слезоточи́вый газ  
 kantalupe da sabine - Канталупо-ин-Сабина  
 kantalupomelone - канталупа  
@@ -456,13 +460,13 @@ kruse - крест
 kuangeria - мина  
 kuarze - кварц  
 kube - куб  
-kuwi - горький  
-kuwmelone - горький огурец (китайская горькая тыква)  
-kuworanje - померанец  
+kuvi - горький  
+kuvmelone - горький огурец (китайская горькая тыква)  
+kuvoranje - померанец  
 kuxa - положить  (уложить)  
 kuxu - лежать  
 ##l
-lalbawxeke - рубин  
+lalbavxeke - рубин  
 lali - красный  
 lalolince - рыжая рысь  
 laloranje - мандарин  
@@ -475,7 +479,7 @@ lasune - чеснок
 late - сторона (бок)  
 lati - боковой (латеральный)  
 latovia - Латвия  
-lawi - пожилой  
+lavi - пожилой  
 lazanye - лазанья  
 lazuare - лазурит  
 lete - лето  
@@ -493,7 +497,7 @@ lince - рысь
 lisane - язык  
 liste - список  
 litre - литр  
-liwkope - воронка  
+livkope - воронка  
 loga - говорить  
 logaslia - этимология  
 loge - слово  
@@ -525,6 +529,7 @@ manire - поведение (манера)
 manse - мясо  
 mantole - плащ (накидка)  
 maragaye - маргай  
+marce - марш  
 mare - раз  
 margarite - маргаритка  
 masale - пряность  
@@ -533,7 +538,7 @@ masmule - клубень
 masmulsolfule - топинамбу́р  
 maste - мачта  
 mature - взрослый  
-maw (mawe) - кошка  
+mav (mave) - кошка  
 maxforte - пополнение  
 maxime - максимум  
 me - я  
@@ -641,8 +646,8 @@ patike - пациент (больной)
 patojener - патоген  
 patolojia - патология  
 pauze - пауза  
-pawa - стрелять  
-pawe - пистолет  
+pava - стрелять  
+pave - пистолет  
 pay (paye) - пирог  
 peda - пердеть  
 pede - пердение  
@@ -666,6 +671,7 @@ plane - план
 platozemiste - плоскоземелец  
 plume - слива  
 polave - плов  
+polbaxi - многоязычный  
 pontopine - компас  
 poreye - лук-порей  
 porte - порт  
@@ -680,7 +686,7 @@ puntonombre - оценка
 pura - заполнять  
 puri - полный  
 purxipa - мариновать  
-putawlimone - грейпфрут  
+putavlimone - грейпфрут  
 ##r
 rangarke - радуга  
 rangarkosamone - микижа (камчатская сёмга)  
@@ -689,9 +695,11 @@ rari - редкий (разбро́санный)
 rase - раса  
 rasmedi - межрасовый  
 reste - остаток  
-retra - возвращаться  
 retrogula - рвать (изрыга́ть)  
 retroguli sense - тошнота  
+retru - возвращаться  
+reya - повторять  
+reye - повторение  
 rezulte - эффект  
 rime - рифма  
 rise - рис  
@@ -781,7 +789,7 @@ taltexe - ковёр
 tane - стебель  
 tarje - перевод  
 tase - блюдо (таз)  
-tatawe - татуировка (тату)  
+tatave - татуировка (тату)  
 tazi - свежий  
 te - ты  
 tehne - техника  
@@ -808,7 +816,7 @@ tinzonge - трезубец
 tira milke - тянуть  
 tira pile - ободрать  
 tirbatone - рычаг  
-tirliwe - отбойное течение  
+tirlive - отбойное течение  
 toca - касаться  
 tomate - помидор (томат)  
 trate - договор  
@@ -833,11 +841,19 @@ var 4 (var cari) - четверг
 var 5 (var limi) - пятница  
 var 6 (var sisi) - суббота  
 var 7 (var seti) - воскресенье  
+vav - вау!  
+vaxa - мыть  
+vaxmaxine - стиральная машина  
+vaxurse - енот  
+vayoyame - пикник  
+vaytira - вытянуть  
 vaze - ваза  
 vejetyamiste - вегетарианец  
 venda - продать  
 vendoxopa - обмениваться  
+venjovoranje - мандарин уншиу  
 veri - верный  
+vestogorile - западная горилла  
 vida - видеть  
 vider - зрительница  
 vidopunte - перспектива (точки зрения)  
@@ -849,21 +865,13 @@ vola - хотеть
 vulve - вульва  
 vute - статья (предмет)  
 ##w
-waw - вау!  
-waxa - мыть  
-waxmaxine - стиральная машина  
-waxurse - енот  
-wayoyame - пикник  
-waytira - вытянуть  
-wenjoworanje - мандарин уншиу  
-westogorile - западная горилла  
 ##x
 xalke - чешуя  
 xante - отдых  
 xanti - спокойный  
 xarke - акула  
 xatan (xatane) - Сатана  
-xawi - мало  
+xavi - мало  
 xefe - шеф  
 xeke - камень (камешек)  
 xenga - победить  
@@ -901,7 +909,7 @@ zemgrafia - картография
 zemnici prizone - ублиет (подземная тюрьма)  
 zeyile - бородавка  
 zeze - муха  
-zimbabwia - Зимбабве  
+zimbabvia - Зимбабве  
 zime - зима  
 zimi - зимний  
 zinje - имбирь  

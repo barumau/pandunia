@@ -4,6 +4,7 @@
 -i - suffixe pour l'adjectif  
 -o - suffixe pour l'adverbe  
 -u - suffixe pour les verbes avec ordre des mots OVS  
+<U+##E> - मुक्त (आज़ाद)  
 a - mais (bien que)  
 ##a
 abace - alphabet  
@@ -154,8 +155,8 @@ basene - bassin
 basi - assez  
 baskobol - basketball  
 batre - pile (batterie)  
-bawi - précieux  
-bawxeke - pierre précieuse (joyau)  
+bavi - précieux  
+bavxeke - pierre précieuse (joyau)  
 baxe - langue  
 baxi jinse - genre grammatical  
 baye - baie  
@@ -170,11 +171,11 @@ bere - baie
 berje - bouleau  
 bina - construire  
 bire - bière  
-biwcaniver - compost  
-biwe - organisme  
-biwlojia - biologie  
-biwmutu - fermenter  
-biwsisteme - biome  
+bivcaniver - compost  
+bive - organisme  
+bivlojia - biologie  
+bivmutu - fermenter  
+bivsisteme - biome  
 bol (bole) - balle (boule)  
 bombe - bombe  
 bon (boni) - bon  
@@ -224,13 +225,13 @@ date - données
 datobanke - base de données  
 daydome - palais (château, manoir)  
 dayhaye - océan  
-daypawe - canon  
+daypave - canon  
 dayvaze - chaudron  
 dayxeke - rocher  
 debili - faible  
 defbanze - bouclire  
 defkaske - armure  
-dew (dewe) - dieu  
+deve - dieu  
 dika - viser  
 dike - objectif (cible)  
 dinamite - dynamite  
@@ -252,6 +253,7 @@ dosili - docile (insipide)
 dosiljenisa - domestiquer (apprivoiser)  
 dosiljenisi - domestiqué (apprivoisé)  
 duga - lire  
+dulbaxi - bilingue  
 duli - deux (2)  
 dunia - monde  
 e - et  
@@ -273,7 +275,7 @@ estane - étain
 europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
-ewanjile - évangile  
+evanjile - évangile  
 ##f
 faner - opposant (antagoniste)  
 fansoldixo - dans le sens antihoraire  
@@ -285,6 +287,7 @@ fatigia - fatigue
 favori - favori (préféré)  
 feni - distinct (numérique)  
 feymuxe - chauve-souris  
+feyu - voler  
 filsofia - philosophie  
 fiorde - fiord  
 fitolojia - botanique  
@@ -319,7 +322,7 @@ gangrase - foin
 garmozone - tropique  
 gase - gaz  
 gati - dur  
-gawe - haut  
+gave - haut  
 gazele - gazelle  
 gida - guider  
 gider - guide  
@@ -348,7 +351,7 @@ haha - rire
 haime - tente  
 hake - droit  
 hale - état  
-halow - allô  
+halov - allô  
 hami - important  
 hande - main  
 handoxake - bras  
@@ -362,9 +365,9 @@ hayjele - méduse
 haytate - côte  
 helisbabule - acacia faux-gommier  
 helisvimane - hélicoptère  
-hewane - animal (bête)  
-hewanjenisia - élevage  
-hewanparke - zoo  
+hevane - animal (bête)  
+hevanjenisia - élevage  
+hevanparke - zoo  
 hijabe - voile  
 hijenia - hygiène  
 hime - neige  
@@ -379,6 +382,7 @@ hoke - hockey
 hore - heure  
 hotel (hotele) - hôtel  
 hule - renard  
+huri - libre  
 huydarte - podzol  
 ##i
 indosida - s’accroupir  
@@ -435,7 +439,7 @@ kamisi xake - manche
 kanape - canapé (sofa)  
 kance - verre  
 kanione - canyon (ravin)  
-kanowe - canoë  
+kanove - canoë  
 kansuygase - gaz lacrymogène  
 kantalupe da sabine - Cantalupo in Sabina  
 kapotruke - piège  
@@ -499,14 +503,14 @@ kruse - croix
 kuangeria - mine  
 kuarze - quartz  
 kube - cube  
-kuwi - amer  
-kuworanje - orange amère  
+kuvi - amer  
+kuvoranje - orange amère  
 kuxa - coucher  
 kuxloke - couch (couchette)  
 kuxu - être couché  
 ##l
 lage - lac  
-lalbawxeke - rubis  
+lalbavxeke - rubis  
 lali - rouge  
 laloranje - mandarine  
 lalsamone - saumon sockeye  
@@ -520,7 +524,7 @@ lasune - ail
 late - côté  
 lati - latéral  
 latovia - Lettonie  
-lawi - vieux (âgé, ancien)  
+lavi - vieux (âgé, ancien)  
 laxa - laisser  
 lazanye - lasagne  
 lazuare - lapis-lazuli  
@@ -542,7 +546,7 @@ lince - lynx
 lisane - langue  
 liste - liste  
 litre - litre  
-liwkope - entonnoir  
+livkope - entonnoir  
 loga - parler  
 logaslia - étymologie  
 loge - mot  
@@ -576,6 +580,7 @@ manire - comportement (manière)
 manse - viande  
 mantole - cape  
 maragaye - margay (chat-tigre)  
+marce - marche  
 mare - fois  
 masale - épices  
 maske - masque  
@@ -583,7 +588,7 @@ masmule - tubercule
 masmulsolfule - topinambour  
 maste - mât  
 mature - adulte  
-maw (mawe) - chat  
+mav (mave) - chat  
 max (maxo) - plus  
 maxime - maximum  
 maye - fourmi  
@@ -699,7 +704,7 @@ patike - patient
 patojener - agent pathogène  
 patolojia - pathologie  
 pauze - pause  
-pawe - pistolet  
+pave - pistolet  
 pay (paye) - tarte  
 peda - péter  
 pede - pet (vesse)  
@@ -724,6 +729,7 @@ plati zemkaskia - tectonique des plaques
 platistan - plaine  
 platozemiste - terreplatiste  
 plume - prune  
+polbaxi - plurilingue (multilingue)  
 poreye - poireau  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
@@ -739,7 +745,7 @@ pura - remplir
 purbona - perfectionner (parfaire)  
 puri - plein  
 purxipa - tremper (faire mariner)  
-putawlimone - pamplemousse  
+putavlimone - pamplemousse  
 pute - fils ou fille  
 ##r
 rang (range) - couleur  
@@ -754,10 +760,12 @@ rasmedi - interracial
 regopetre - grès  
 reloje - horloge  
 reste - reste  
-retra - retourner (revenir)  
 retro - en arrière  
 retroguli sense - nausée  
 retrotikete - Aller-retour  
+retru - retourner (revenir)  
+reya - répéter  
+reye - répétition  
 rezulte - effet  
 rici - riche  
 rime - rime  
@@ -895,11 +903,18 @@ var 4 (var cari) - jeudi
 var 5 (var limi) - vendredi  
 var 6 (var sisi) - samedi  
 var 7 (var seti) - dimanche  
+varkalge - varech  
+varkolate - page  
+vaxurse - raton laveur  
+vayoyame - piquenique  
+vaytira - tender  
 vaze - vase  
 vejetyamiste - végétarien  
+veki - éveillé  
 venda - vendre  
 vendoxopa - commercer  
 venezolia - Venezuela  
+venjovoranje - mandarine satsuma  
 veri - vrai  
 verme - ver  
 vespe - abeille ou guêpe  
@@ -908,25 +923,18 @@ vida - voir
 violeti - violet (pourpre)  
 virus (viruse) - virus  
 vola - vouloir  
+volfe - loup  
+volofi - wolof  
 vulve - vulve  
 vute - objet (article)  
 ##w
-warkalge - varech  
-warkolate - page  
-waxurse - raton laveur  
-wayoyame - piquenique  
-waytira - tender  
-weki - éveillé  
-wenjoworanje - mandarine satsuma  
-wolfe - loup  
-wolofi - wolof  
 ##x
 xalke - échelle  
 xante - repos  
 xanti - calme (tranquille)  
 xarke - requin  
 xatan (xatane) - Satan  
-xawi - peu  
+xavi - peu  
 xefe - chef  
 xeke - pierre  
 xey (xeye) - chose  

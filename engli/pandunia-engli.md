@@ -5,6 +5,7 @@
 -ia - area of thinking or being  
 -o - suffix for adverbs  
 -u - suffix for verbs with OVS word order  
+<U+##E> - tự do  
 a - but (whereas)  
 ##a
 abace - alphabet  
@@ -42,7 +43,7 @@ aise - ice
 aishoke - ice hockey  
 aisi - icy  
 aiskrem - ice cream  
-aisu - feeze (get frozen)  
+aisu - freeze (get frozen)  
 ajaba - amaze  
 ajabe - marvel (wonder)  
 ajabi - amazing (astonishing)  
@@ -519,7 +520,7 @@ cuza - choose (elect, select)
 cuzable - option (choice)  
 cuze - choice (election, selection)  
 ##d
-da - own (particle of possession)  
+da - of (particle of possession)  
 dade - die (dice)  
 daixer - ambassador  
 daixeria - embassy  
@@ -564,7 +565,7 @@ darviniste - Darwinist
 darvinistia - Darwinism  
 date - data (numeric information)  
 datobanke - database (databank)  
-dav (dave) - way (road)  
+dave - way (road)  
 daviste - Taoist  
 davistia - Taoism (Daoism)  
 day (dayi) - big (great)  
@@ -609,7 +610,7 @@ deskili - ten thousand
 desmese - October  
 desunmese - November  
 detale - detail  
-dev (deve) - god (deity)  
+deve - god (deity)  
 devi - divine (godly)  
 deviste - theist  
 devistia - theism  
@@ -671,13 +672,14 @@ drame - drama
 dramironia - dramatic irony  
 droge - drug (intoxicating substance)  
 drugia - Bhutan  
-du - of (particle of possession)  
+du - own (particle of possession)  
 dubnium - dubnium  
 duga - read  
 duka - sadden (make sad)  
 duke - grief (sorrow)  
 duki - sad  
 duku - grieve  
+dulbaxi - bilingual  
 duli - two (2)  
 duli ban - twice  
 duli o tini - a couple of  
@@ -842,8 +844,8 @@ feste - party (celebration, festival)
 festoden - holiday  
 fete - fat (grease)  
 feti - fatty (greasy)  
-feya - fly (go through air)  
 feymuxe - bat (flying mammal)  
+feyu - fly (go through air)  
 figure - figure (representation)  
 fijia - Fiji  
 fikra - think (ponder, reflect)  
@@ -1956,7 +1958,7 @@ mantole - cape (cloak, mantle)
 maragaye - margay  
 marati - Marathi  
 maratone - marathon  
-marca - walk (march)  
+marcu - walk (march)  
 mare - time (instance, occasion)  
 margarine - margarine  
 margarite - daisy  
@@ -2551,6 +2553,7 @@ plutonium - plutonium
 podia - Tibet  
 poke - poker  
 polave - pilaf (pulao)  
+polbaxi - multilingual  
 poldevistia - polytheism  
 polfase - polyhedron  
 polgone - polygon  
@@ -2691,9 +2694,6 @@ relojominare - clocktower
 ren (rene) - person (people)  
 rengenium - roentgenium  
 renium - rhenium  
-repa - repeat  
-repe - repetition (rep)  
-repo - again (repeatedly)  
 reporta - report (recount, relate)  
 reporte - report  
 resida - acknowledge  
@@ -2701,13 +2701,16 @@ reside - receipt (acknowledgement)
 reste - rest (remainder)  
 restorante - restaurant  
 restu - remain (stay)  
-retra - return (go back)  
 retre - return (way back)  
 retro - backward (in reverse)  
 retrogula - throw up (vomit, regurgitate)  
 retroguli sense - nausea (motion sickness)  
 retrotikete - return ticket  
+retru - return (go back)  
 reunion - Réunion  
+reya - repeat (iterate)  
+reye - repetition  
+reyo - again (repeatedly)  
 rezerva - reserve (book)  
 rezerve - reservation (booking, withholding)  
 rezine - resin  

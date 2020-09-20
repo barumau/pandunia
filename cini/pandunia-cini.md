@@ -1,4 +1,5 @@
 # pandunia-cini
+<U+##E> - libera  
 ##a
 abace - 字母表  
 abite - 冷杉  
@@ -108,8 +109,8 @@ barxokote - 雨衣
 basi - 够  
 baskobol - 篮球  
 batre - 电池  
-bawi - 宝贵  
-bawxeke - 宝石  
+bavi - 宝贵  
+bavxeke - 宝石  
 baxe - 语言  
 baxi jinse - 文法的性  
 baxlojia - 语言学  
@@ -124,11 +125,11 @@ berje - 桦树
 bile - 帐单  
 bina - 建设  
 bire - 啤酒  
-biwe - 生物  
-biwi jinse - 生物性別  
-biwlojia - 生物学  
-biwmutu - 发酵  
-biwsisteme - 生物群系  
+bive - 生物  
+bivi jinse - 生物性別  
+bivlojia - 生物学  
+bivmutu - 发酵  
+bivsisteme - 生物群系  
 bol (bole) - 球  
 bombe - 炸弹  
 bon (boni) - 好  
@@ -178,13 +179,13 @@ date - 数据
 datobanke - 数据库  
 daydome - 殿 (宫殿, 宅第)  
 dayhaye - 大洋 (大海)  
-daypawe - 大炮  
+daypave - 大炮  
 dayvaze - 炼药锅  
 dayxeke - 磐石  
 debili - 虚弱 (易坏)  
 defbanze - 盾牌  
 defkaske - 盔甲  
-dew (dewe) - 神  
+deve - 神  
 dexrene - 公民  
 dika - 瞄准  
 dike - 目的 (目标)  
@@ -220,7 +221,7 @@ esprinta - 跑步
 estane - 锡  
 estibium - 锑  
 europobalute - 夏櫟  
-ewanjile - 福音  
+evanjile - 福音  
 ##f
 fansoldixo - 反时针方向的  
 fase - 面  
@@ -229,6 +230,7 @@ fate - 事实
 fatigu - 疲劳  
 fem (feme) - 女  
 feni - 数字的  
+feyu - 飞  
 filme - 膜  
 filsofia - 哲学  
 fiorde - 峡湾  
@@ -301,8 +303,8 @@ haytate - 海岸
 helise - 螺旋  
 helisvimane - 直升机  
 helpa - 帮助  
-hewane - 动物  
-hewanparke - 动物园  
+hevane - 动物  
+hevanparke - 动物园  
 hijabe - 面纱  
 hisaba - 计算  
 hiyare - 黄瓜  
@@ -316,6 +318,7 @@ hoke - 曲棍球
 hore - 小时  
 hotel (hotele) - 旅馆  
 hule - 狐狸  
+huria - 自由  
 huydarte - 灰化土  
 ##i
 iki - 的  
@@ -425,12 +428,12 @@ krusarke - 弩 (十字弓)
 kuangeria - 矿场  
 kuarze - 石英  
 kube - 立方体  
-kuwi - 苦的  
-kuwmelone - 苦瓜  
+kuvi - 苦的  
+kuvmelone - 苦瓜  
 kuxu - 躺  
 ##l
 lage - 湖  
-lalbawxeke - 红宝石  
+lalbavxeke - 红宝石  
 lali - 红  
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
@@ -445,7 +448,7 @@ lantanum - 鑭
 lasune - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 latovia - 拉脱维亚  
-lawi - 老 (老年, 年歲大)  
+lavi - 老 (老年, 年歲大)  
 laxa - 落 (留下)  
 laya - 来  
 lazanye - 千层面  
@@ -469,7 +472,7 @@ lince - 猞猁 (山貓)
 lisane - 舌头  
 liste - 单子  
 litre - 升  
-liwkope - 漏斗  
+livkope - 漏斗  
 loga - 说话 (讲)  
 loge - 词  
 logia - 词汇  
@@ -506,7 +509,7 @@ maste - 桅
 mature - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
-maw (mawe) - 猫  
+mav (mave) - 猫  
 maxforte - 加固  
 maxim (maximo) - 最  
 maye - 蚂蚁  
@@ -559,7 +562,7 @@ nautile - 鹦鹉螺
 navi - 九 (9)  
 nefre - 肾脏  
 nefte - 油  
-neftogukuwe - 野菊花  
+neftogukuve - 野菊花  
 nida - 需要  
 nidi - 必要的  
 nidoxina - 信赖  
@@ -611,7 +614,7 @@ pastopetre - 岩漿
 patike - 患者 (病患)  
 patojener - 病原体  
 patolojia - 病理学  
-pawe - 手枪  
+pave - 手枪  
 pay (paye) - 馅饼  
 peda - 放屁  
 pede - 屁  
@@ -644,7 +647,7 @@ pudu - 腐烂
 pule - 桥  
 pume - 美洲獅 (山狮)  
 purxipa - 浸泡  
-putawlimone - 葡萄柚  
+putavlimone - 葡萄柚  
 putong (putongi) - 普通  
 ##r
 rangarkosamone - 虹鱒  
@@ -654,10 +657,11 @@ rari - 稀有 (稀少的)
 rase - 种族  
 reloje - 钟  
 reste - 其余  
-retra - 返回 (回来)  
 retrogula - 呕吐  
 retroguli sense - 恶心  
 retrotikete - 往返票  
+retru - 返回 (回来)  
+reya - 重复  
 rezulte - 影响  
 rise - 米  
 ritime - 节奏  
@@ -777,6 +781,8 @@ ura - 好哇
 vagine - 阴道  
 valsusane - 鈴蘭  
 vampire - 吸血鬼  
+vane - 娱乐  
+vanu - 玩耍  
 var 1 (var uni) - 星期一 (禮拜一)  
 var 2 (var duli) - 星期二 (禮拜二)  
 var 3 (var tini) - 星期三 (禮拜三)  
@@ -784,10 +790,15 @@ var 4 (var cari) - 星期四 (禮拜四)
 var 5 (var limi) - 星期五 (禮拜五)  
 var 6 (var sisi) - 星期六 (礼拜六)  
 var 7 (var seti) - 星期日 (禮拜日)  
+vaxurse - 浣熊  
+vayoyame - 野餐  
+vaytira - 拉  
 vejete - 蔬菜  
 vejetyamiste - 素食主义者  
 venda - 卖  
 vendoxope - 贸易  
+venjou - 温州  
+venjovoranje - 温州蜜柑  
 vespe - 蜂  
 vida - 看  
 vijine - 味精  
@@ -795,20 +806,13 @@ vola - 想要 (愿意)
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ##w
-wane - 娱乐  
-wanu - 玩耍  
-waxurse - 浣熊  
-wayoyame - 野餐  
-waytira - 拉  
-wenjou - 温州  
-wenjoworanje - 温州蜜柑  
 ##x
 xalke - 鳞  
 xame - 晚上  
 xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan (xatane) - 撒但  
-xawi - 少  
+xavi - 少  
 xeke - 石 (岩)  
 xey (xeye) - 事物 (东西)  
 xeyhale - 事态  
