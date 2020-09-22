@@ -52,6 +52,9 @@ ajili|||eng:fra:agile, spa:por:ágil, deu:agil|agile|agile|ágil|ágil|подв�
 akare|||spa:por:ácaro, fra:acarien, tur:acari|tick (mite)|acarien|garrapata (ácaro)|carrapato (ácaros)|клещ (лепта)||蜱 (螨)|壁蝨||||||||||klescz (roztocze)
 akse|||eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|axis (axle)|axe|eje||ось||轴线||||धुरी||as (poros, paksi)||eksen|akso|akseli|oś
 aksente|||ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|accent (stress)|accent|acento|acento|ударение||重音符号||||स्वर का चढ़ाव उतार||aksen|||akcento|painotus (aksentti)|akcent, nacisk
+aksesa||||access (reach, enter)||acceder|||||||||||||||
+aksesabli||||accessible (within reach)||accesible||доступный|||とっつきやすい (アクセス可能)|||सुगम्य (सुगम, सुलभ)||dapat dicapai (dapat diakses)|||||
+aksese|||eng:access, spa:acceso, por:acesso, fra:accès, may:akses, jpn:アクセス (akusesu)|access (admission, accessibility)|accès|acceso|acesso|доступ|||アクセス|||प्रवेश||capaian (akses, laluan)||erişim|||
 ala||||change (make different)|changer|cambiar (demudar)|alterar|изменять||改變|変える|바꾸다|||||kubadili||ŝanĝi (aliigi)|muuttaa (tehdä eriksi)|zmienić (zmieniać)
 alaskia|dex|||Alaska||Alaska||||||||||||||Alaska|Alaska
 alfone||||allophone|allophone|alófono|||||||||||||alofono|allofoni (vaihtoehtoinen ääntämys)|alofon
@@ -1292,7 +1295,7 @@ ive|||eng:-ive, deu:-iv, fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|te
 izi|||eng:easy, fra:aisée|easy||fácil|||||||||||||facila|helppo|łatwy, prosty
 jakarte||||Jakarta||||||||||||Jakarta|||||Dżakarta
 izia||||ease||facilidad|||||||||||||||
-izia da jine||||accessibility (ease of access)||fácil acceso (accesibilidad)||доступность||無障礙環境|アクセシビリティ|||सुगमता (सुलभता, सुगम्यता, पहुंच)||ketercapaian|||||
+izia da aksese||||accessibility (ease of access)||fácil acceso (accesibilidad)||доступность||無障礙環境|アクセシビリティ|||सुगमता (सुलभता, सुगम्यता, पहुंच)||ketercapaian|||||
 jake|||eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|jacket||chaqueta|||||||||||||jako|pikkutakki (jakku)|kurtka
 jama||||collect (gather, bring together, assemble)||recoger (juntar, reunir, acumular, recolectar, montar)|||||||||||||kolekti (kunigi)|koota (kerätä)|kolekcjonować, zebrać, zbierać
 jamaikia|dex|JM||Jamaica||Jamaica|||||||||||||Jamajko|Jamaika|Jamajka
@@ -1343,9 +1346,7 @@ jersia|dex|JE||Jersey||Jersey||||||||||||||Jersey|Jersey
 jeste|||eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|gesture||gesto||||||||||||||ele|gest
 jibraltar|dex|GI||Gibraltar||Gibraltar||||||||||||||Gibraltar|Gibraltar
 jibutia|dex|DJ||Djibouti||Yibuti||||||||||||||Djiboutia|Dżibuti
-jina|||zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|advance (progress, enter, access)||avanzar (entrar, adelantar, progresar, acceder)||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
-jinabli||||accessible (within reach)||accesible||доступный|||とっつきやすい (アクセス可能)|||सुगम्य (सुगम, सुलभ)||dapat dicapai (dapat diakses)|||||
-jinablia||||access (admission, accessibility)||acceso||доступ|||アクセス|||प्रवेश||capaian (akses, laluan)|||||
+jina|||zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|advance (progress, enter)||avanzar (entrar, adelantar, progresar)||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
 jine||||advancement (milestone)|||||||||||||||||
 jinmun||||entrance||entrada|||||||||||||||wejście
 jino||||foreward|en avant|adelante|||||||||||||||naprzód
