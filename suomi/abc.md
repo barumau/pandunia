@@ -2,9 +2,9 @@
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~v | ʃ | j | z~dz |
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -21,7 +21,7 @@ Panduniassa on viisi vokaalia. Ne äännetään samalla tavalla kuin suomessa.
 
 ## Konsonantit
 
-    p  b  f  v  m  w
+    p  b  f     m  v
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -36,7 +36,6 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 - **c** on /tʃ/ eli se äännetään kuin TŠ sanassa _tšekki_.
 - **j** on edellisen soinnillinen muunnelma eli /dʒ/. Se äännetään kuten DŽ sanassa _džonkki_.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
-- **w** on U:n puolivokaali. Se äännetään kuten englannin W.
 - **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
 
 
@@ -46,18 +45,18 @@ Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
 Esimerkkejä:
 
-- **maw** /máw/, **hotel** /hotél/
+- **mav** /máv/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me wana loga komun bax, le si pandunia.  
-    /mé wána lóga komún báx, lé sí pandúnia./
+     me vola loga komun bax, le si pandunia.  
+    /mé vóla lóga komún báx, lé sí pandúnia./
 
-     darsogur sida sa sofah.  
-    /dársogúr sída sá sofáh/
+     darsogur gova pa makah.  
+    /dársogúr góva pá makáh/
 
 
 ## Aakkoslajit

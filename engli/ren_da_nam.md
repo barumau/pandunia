@@ -28,7 +28,7 @@ to the original name in the original language and/or the version
 that fits best the normal word structure in Pandunia.
 
 Names are nouns so they should end with -e or -ia or with a consonant
-that is easy to pronounce: h, l, m, n, r, s, w, x or y.
+that is easy to pronounce: h, l, m, n, r, s, v, x or y.
 
 All names can be used for all genders. Some are traditionally more
 widely used for girls or boys.
@@ -89,7 +89,7 @@ widely used for girls or boys.
 **igor** : Igor  
 **ilia** : Ilia, Ilya  
 **iris** : Iris, Ira  
-**irwin** : Irwin  
+**irvin** : Irwin  
 **isake** : Isaac, Yitzhak  
 **ixan** : Ishaan  
 **jafar** : Jafar  
@@ -105,7 +105,7 @@ widely used for girls or boys.
 **krixne** : Krishna, Krish  
 **kumar** : Kumar  
 **laurente** : Lawrence  
-**lew** : Leo, Lea, Lev  
+**lev** : Leo, Lea, Lev  
 **lidia** : Lidia, Lydia  
 **lilia** : Lily, Liliya  
 **luis** : Louise, Luiz, Lewis  
@@ -117,7 +117,7 @@ widely used for girls or boys.
 **marke** : Marcus, Marcos, Mark, Marc  
 **marte** : Martin, Martha, Marta, Mert  
 **maryam** : Maryam, Meryem  
-**matew** : Matthew, Matt, Matteo, Matvei  
+**matev** : Matthew, Matt, Matteo, Matvei  
 **mihael** : Michael, Michel, Mihayl  
 **moseh** : Moses, Moshe, Musa  
 **muhamade** : Muhammad, Mohammed  
@@ -150,7 +150,7 @@ widely used for girls or boys.
 **valade** : Vlad, Vladimir, Waldemar  
 **vitor** : Victor, Victoria, Viktor  
 **vijay** : Vijay  
-**wilem** : Wilhelm, William, Willem  
+**vilem** : Wilhelm, William, Willem  
 **yakobe** : Jacob, Yakub, Jakub, Yakov  
 **yesuh** : Jesus, Yesu, Isa  
 **yohan** : John, Joan, Johan, Johannes, Juan, Giovanni, Ivan  

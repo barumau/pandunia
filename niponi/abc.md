@@ -3,17 +3,17 @@
 パンドゥニアでは基本ラテン文字を使います。
 以下がその文字とIPA(国際音声記号)、X-SAMPA(拡張SAM音声記号)で表した発音です。
 
-| パンドゥニア | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|--------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| IPA          | a | b | tʃ | d | e | f | g | h~x | i | d͡ʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~d͡z |
-| X-SAMPA      | a | b | tS | d | e | f | g | h~x | i | dZ | k_h | l | m | n | o | p_h | r~r\ | s | t_h | u | v | w~v\ | S | j | z~dz |
+| パンドゥニア | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | x | y | z |
+|--------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| IPA          | a | b | tʃ | d | e | f | g | h~x | i | d͡ʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~v | ʃ | j | z~d͡z |
+| X-SAMPA      | a | b | tS | d | e | f | g | h~x | i | dZ | k_h | l | m | n | o | p_h | r~r\ | s | t_h | u | w~v | S | j | z~dz |
 
 パンドゥニアはスペイン語と似ていて、つづり通りに発音します。無音の文字はありません。
 どの文字にも1つの音があり、一部の例外(後述)を除いて他の音に変化したりしません。
 
 ## 子音
 
-    p  b  f  v  m  w
+    p  b  f     m  v
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -38,9 +38,9 @@
 
 ## 半母音
 
-語尾に来る **y** は /i̯/ に、 **w** は /u̯/ になります。  
+語尾に来る **y** は /i̯/ に、 **v** は /u̯/ になります。  
 da**y** ダ**ィ**  
-ma**w** マ**ゥ**
+ma**v** マ**ゥ**
 
 これらの後には
 必ず完全母音か単語の区切りが続きます(単語の語幹が使われる場合)。  
@@ -79,15 +79,15 @@ ma**w** tena na**w** ha**y**. = 猫には9つの命がある。
 
 次の例を考えてみましょう。
 
-- **maw** /máw/, **hotel** /hotél/
+- **mav** /máv/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me wana loga komuni baxe, le si pandunia.  
-    /mé wána lóga komúni báxe, lé sí pandúnia./
+     me vola loga komuni baxe, le si pandunia.  
+    /mé vóla lóga komúni báxe, lé sí pandúnia./
 
 
 
@@ -176,9 +176,9 @@ Cは子音、Vは母音です。
     - lp, lb, lt, ld, lk, lg, lc, lj
     - rp, rb, rt, rd, rk, rg, rc, rj
 2. 鼻音/側面音/接近音 + 摩擦音
-    - nf, nv, ns, nz, nx
-    - lf, lv, ls, ls, lx
-    - rf, rv, rs, rz, rx
+    - nf, ns, nz, nx
+    - lf, ls, ls, lx
+    - rf, rs, rz, rx
 3. 摩擦音 + 破裂音
     - ft, fk
     - st, sp, sk
@@ -192,9 +192,9 @@ Cは子音、Vは母音です。
     - ps, bz, px
     - ks, gz, kx
 6. 鼻音/側面音/接近音 + 鼻音/側面音/接近音/半母音
-    - ml, ny
-    - lm, ln, ly
-    - rm, rn, ry
+    - ml, nv, ny
+    - lm, ln, lv, ly
+    - rm, rn, rv, ry
 7. 鼻音/側面音/接近音 + 半母音 + 破裂音
     - 例) lsk
 8. 鼻音/側面音/接近音 + 破裂音 + 流音
@@ -206,7 +206,7 @@ Cは子音、Vは母音です。
 11. 破裂音 + 流音 (前項参照)
 
 許可されている語尾の子音群は以下の通りです。  
-h, l, m, n, ng, r, s, w, x, y
+h, l, m, n, ng, r, s, v, x, y
 
 さらに人名、地名、文化的概念の固有名詞、およびそれらから派生した単語は、
 単語内に2つまたは3つの子音群を含まない限り

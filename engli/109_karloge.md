@@ -183,9 +183,9 @@ Causative verbs express an action, which the subject causes to happen via some t
 In Pandunia, causatives are formed with the active participle suffix
 **-an-**.
 
-**maw yama fixe.**
+**mav yama fixe.**
 – The cat eats fish.  
-**me yamana fixe pa maw.**
+**me yamana fixe pa mav.**
 – I feed fish to the cat.
 
 **me bina dome.**
@@ -219,7 +219,7 @@ the preposition is complemented by a pronoun or a noun phrase.
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ca te gowa.** - I have waited since you left.  
+**me denga ca te gova.** - I have waited since you left.  
 **me denga pa te laya dome.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
@@ -266,7 +266,7 @@ many phrases, the verb says enough alone.
 **te sida kurse.** - You sit (on) the chair.  
 **le lala sofa'.** - S/he lies (on) the sofa.  
 **fix nata daria.** - Fish swim (in) the sea.  
-**jenger marca daw.** - Warriors march (on) the road.  
+**jenger marca dav.** - Warriors march (on) the road.  
 
 ### Preposition of relation
 
@@ -281,8 +281,8 @@ the point of comparison.
 
 **ko** is also used when adjectives are compared.
 
-**bace si min day ko pape.** - The child is smaller than the father.  
-**law pape si samo day ko pape.** - Grandfather is as big as father.
+**pute si min day ko pape.** - The child is smaller than the father.  
+**lavpape si samo day ko pape.** - Grandfather is as big as father.
 
 **ko** relates the adverbs of comparison – **max** (more), **min**
 (less) and **samo** (same) – to the point of comparison, which is

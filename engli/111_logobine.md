@@ -152,11 +152,11 @@ For example, this is how the word **kansuye** (_tears_) is made:
 And this is how the word **andewisti** (atheistic) is made:
 
            an       (negation)
-       +  dew       (god)
+       +  dev       (god)
        +  ist       (proponent, -ist)
        +    i       (adjective ending)
    _____________
-   = andewisti      (atheistic)
+   = andevisti      (atheistic)
 
 If joining bare stems together would result into a difficult consonant sequence,
 a padding vowel **-o-** is inserted between them.
@@ -255,10 +255,10 @@ Causative suffix.
 This suffix that denotes a person who tends to behave or think in a
 certain way or to follow a certain ideology or religion.
 
-**dew** god  
-**dewiste** theist (one who believes in existence of a god or gods)  
-**dewisti** theistic  
-**dewistia** theism (system of belief in a god or gods)  
+**dev** god  
+**deviste** theist (one who believes in existence of a god or gods)  
+**devisti** theistic  
+**devistia** theism (system of belief in a god or gods)  
 
 #### an-
 
@@ -293,7 +293,7 @@ In Pandunia, function words have the following characteristics:
 | 4| Reflexive pronoun      |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |                        |                        |
 | 5| Interrogative          | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         |                        |                        |
 | 6| Near demonstrative     | **ye**<br>this one     | **yi**<br>this         | **yo**<br>thus         |                        |                        |
-| 7| Far demonstrative      | **we**<br>that one     | **wi**<br>that         | **wo**<br>so           |                        |                        |
+| 7| Far demonstrative      | **ve**<br>that one     | **ve**<br>that         | **vo**<br>so           |                        |                        |
 | 8| Negation / absence     |                        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      | **nu**<br>-less        |
 | 9| Affirmation / presence |                        | **si**<br>yes          |                        | **sa**<br>with, by, at | **su**<br>-ed, -ful    |
 |10| Possession             |                        |                        |                        | **da**<br>of           | **du**<br>'s           |

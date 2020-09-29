@@ -38,7 +38,7 @@ miskini man tena multi doste, da dona pan pese pa le.
 </td><td>
 The poor man had many friends who gave him the money.
 </td></tr><tr><td>
-badoden, duli lole gowa pa hakimer.
+badoden, duli lole gova pa hakimer.
 </td><td>
 The next day they both went to the judge.
 </td></tr><tr><td>

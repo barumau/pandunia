@@ -232,19 +232,19 @@ used in other languages in the table below.
 
 | ALPHABET         | SIMILAR                                           | MISSING |DIFFERENT    |
 |:-----------------|---------------------------------------------------|---------|-------------|
-| Pandunia         | a b c d e f g h i j k l m n o p r s t u v w x y z |         |             |
-| Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u   w   y z | x       |             |
-| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v     y z | w x     |             |
+| Pandunia         | a b c d e f g h i j k l m n o p r s t u v   x y z |         |             |
+| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v     y z | x       |             |
+| Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
 | Hausa            | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
 | Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   w x y   | v       | e z         |
 | Swahili          | a b   d e f g h i j k l m n o p r s t u v w   y z | c x     |             |
 | Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u   w   y z | v c x   | f r         |
-| Portuguese       | a b   d e f g   i   k l m n o p r s t u v   x   z | w y     | c h j       |
+| Portuguese       | a b   d e f g   i   k l m n o p r s t u v   x   z | y       | c h j       |
 | English          |   b   d   f g h i j k l m n o p r s t   v w   y z |         | a c e u x   |
 | French           | a b   d e f g   i   k l m n o p   s t u v w   y z |         | c h j r x   |
-| Spanish          | a b   d e f g   i   k l m n o p r s t u v     y   | w       | c h j x z   |
-| German           | a b   d e f g h i   k l m n o p r s t u v         |         | c j w x y z |
-| Vietnamese       | a b     e   g h i   k l m n o p r   t u v     y   | f j w z | c d s x     |
+| Spanish          | a b   d e f g   i   k l m n o p r s t u v     y   |         | c h j x z   |
+| German           | a b   d e f g h i   k l m n o p r s t u v         |         | c j x y z   |
+| Vietnamese       | a b     e   g h i   k l m n o p r   t u v     y   | f j z   | c d s x     |
 
 
 ## Grammar
@@ -338,7 +338,7 @@ Esperanto (a heavily agglutinating language) and Pandunia. Parts of
 word are separated with the vertical bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me wan|a   vid|a  t|i       dul|i sundar|i kan|e       zay|o.
+    Pandunia:  me vol|a   vid|a  t|i       dul|i sundar|i kan|e       zay|o.
                I  want to see    your      two beautiful  eyes        now.
 
 #### Are the word class markers unnatural?
@@ -433,7 +433,7 @@ So it's not one and the same word but rather an international family of similar 
 and Pandunia's **supe** fits perfectly into that family.
 
 The third reason is that endings of words change already in many source languages.
-For example, Pandunia word **nowi** is borrowed, among others, from Portuguese.
+For example, Pandunia word **novi** is borrowed, among others, from Portuguese.
 In Portuguese, this word has many forms and only the stem nov- remains the same:
 _nov|o, nov|a, nov|os, nov|as, nov|idade, re|nov|ar_...
 So it makes sense to take only the stem and attach our regular Pandunia suffixes to it.
@@ -471,7 +471,7 @@ Pandunia has different ways to say these things. Sometimes there's
 no need for a mediating verb at all, and sometimes the Pandunia verb'
 is more precise than the multi-purpose "to be" would have been.
 
-1. **me jowani.** = I am young.
+1. **me jovani.** = I am young.
 2. **me man.** = I am a man.
 3. **me zayu.** = I exist.
 4. **me sa dom.** = I am at home.  
