@@ -1815,7 +1815,7 @@ limonlugi||||lime green||verde limón|||||||||||||||limonkowy (limonkowo zielony
 limonrangi|rang|||yellow||amarillo|||||||||||||flava|keltainen|żółty
 lince|||eng:fra:lynx, spa:por:lince, hin:लिंक्स (links)|lynx|lynx|lince|lince|рысь||猞猁 (山貓)|大山猫|||लिंक्स||||vaşak|linko|ilves|ryś
 linfe|||eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|lymph||linfa||||||||||||||lymfa|limfa
-linye|||por:linha, eng:line, fra:ligne, spa:línea, pol:linia, rus:линия (liniya)|line (stripe)||raya (linea)|||||||||||||lineo|viiva (linja)|linia, pas, pręga, smuga
+linye|||eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|line (stripe)|ligne|raya (linea)|linha|линия|||||||||||lineo|viiva (linja)|linia, pas, pręga, smuga
 linyoparce||||line break (newline)||nueva línea||||||||||||||rivinvaihto|złamanie lini
 lisane|||ara:(lisān), amh:ልሳን (ləsan), may:tur:lisan, hin:लिसान (lisān),|tongue|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|język
 lisi|||fra:lisse, spa:por:liso, fas:(liz), may:licin|smooth||suave (liso)|||||||||||||glata|sileä|gładki
@@ -2432,8 +2432,6 @@ pari nombre||||even number|nombre pair|número par||чётное число||偶
 parike||||peer||equilibrado (par)||||||||||||||vertainen|równy
 paris||||Paris|Paris||||||||||||||||Paryż
 parke|||eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|park (garden)|parc|parque|parque|парк||园||||पार्क|||||parko (ĝardeno)|tarha (puisto)|park (ogród)
-parlinye||||equator||ecuador||||||||||||||päiväntasaaja|równik
-parlinyi ginia|dex|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
 parne|||eng:fern, rus:папоротник (paporotnik), hin:फर्न (pharna), ben:ফার্ন (phārna)|fern|fougères|helecho|samambaia|папоротник||蕨|羊歯|||फर्न||paku pakis|mkangaga||||paproć
 parta||||participate (attend, partake, take part)||participar|||||||||||||partopreni|osallistua|uczestniczyć, wziąć udział, brać udział
 parter||||participant||participante||||||||||||||osallistuja|uczestnik
@@ -3518,6 +3516,8 @@ zemlojia||||geology|géologie|geología|||||地質学||||||||||geologia
 zemnici||||underground (subterrainean)||subterráneo|||||地中||||||||||podziemny
 zemnici prizone||||dungeon (underground prison)|oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)|||地下牢 (ダンジョン)||||||||||loch
 zemomedi haye||||Mediterranean||Mediterráneo||||||||||||||Välimeri|Morze Śródziemne
+zemparlinye||||equator||ecuador||||||||||||||päiväntasaaja|równik
+zemparlinyi ginia|dex|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
 zemsisme||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|trzęsienie Ziemi
 zemtike||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
 zeyile|||fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|wart|verrue|verruga|verruga|бородавка||疣|疣||||||||veruko|syylä|brodawka
