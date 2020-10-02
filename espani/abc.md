@@ -5,7 +5,7 @@ con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
 | Pandunia: | a | b | c  | d | e | f | g | h   | i | j  | k  | l | m | n | o | p  | r   | s | t  | u | v | x | y | z |
 |-----------|---|---|----|---|---|---|---|-----|---|----|----|---|---|---|---|----|-----|---|----|---|---|---|---|---|
-| AFI:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~v | ʃ | j | z~dz |
+| AFI:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w\~ʋ\~v | ʃ | j | z~dz |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.
@@ -36,7 +36,7 @@ grafía, o bajo la misma grafía pero con sólo una parte de su valor fonético:
 - **r** se pronuncia preferiblemente como en "carro", aunque otras
   pronunciaciones también son aceptables.
 - **v** representa el sonido breve diptongado de U, y equivale por tanto a la U
-  breve diptongada en "aurora", "Europa", "huevo", "suave".
+  breve diptongada en "aurora", "huevo", o "cuál".
 - **y** representa el sonido breve diptongado de I, y equivale por tanto
   siempre (también ante vocal) a la Y en "ley", a la I en "aire".
 - **h** es como el sonido de la J española.
