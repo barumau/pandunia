@@ -42,9 +42,9 @@ simply replace it with **no** (which is the word for _no_).
 **le no sarah.**
 = She is not Sarah.
 
-**maw si hewan.**
+**mav si hevane.**
 = The cat is an animal.  
-**dome no hewan.**
+**dome no hevane.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying **me** and a word
@@ -80,7 +80,7 @@ answers are after the word list.
 **si** yes. **no** no, not.  
 **bon** good. **doste** friend. **nam** name.  
 **fem** woman. **man** man.  
-**maw** cat. **hewan** animal.
+**mav** cat. **hevane** animal.
 
 ### Answers to the Exercises
 
@@ -155,11 +155,11 @@ name, kinship term or profession.
 **salam xefe!**
 = Hello, chief!
 
-Another Pandunia word for greeting is **halow**. It is also a very
+Another Pandunia word for greeting is **halov**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
-**halow!**
+**halov!**
 = Hello!
 
 
@@ -175,7 +175,7 @@ answers are after the word list.
 
 ### Word List
 
-**salam, halow** greeting, hello, hi, salaam, ciao, etc.
+**salam, halov** greeting, hello, hi, salaam, ciao, etc.
 **salama** to greet.  
 **mame** mother, mom.
 **pape** father, dad.
@@ -498,13 +498,13 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**le no tena maw.**
+**le no tena mav.**
 = She doesn't have a cat.  
-**le tena no maw, a waf.**
+**le tena no mav, a vaf.**
 = She has no cats but dogs.  
-**no le, a me tena maw.**
+**no le, a me tena mav.**
 = Not she but I have cats.  
-**me tena no un, a duli maw.**
+**me tena no un, a duli mav.**
 = I have not one but two cats.
 
 
@@ -526,8 +526,8 @@ is more than one correct answer.
 **kupe** cup, glass, mug.
 **kali** empty.
 **tena** to have.
-**maw** cat.
-**waf** dog.
+**mav** cat.
+**vaf** dog.
 **duli** two.
 **nol** zero.
 **a** but.
@@ -564,22 +564,22 @@ manner or thing if needed.
 In Pandunia, questions beginning with _why_ are asked using
 **ke saba**.
 
-**ke saba te suku maw?**
+**ke saba te suku mav?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered
 by adding **sabu** before the cause or reason. **sabu** is actually a
 passive verb meaning _to be caused by_.
 
-**ke saba te suku maw?**
+**ke saba te suku mav?**
 = Why do you like cats?  
-**sabu lole kaway.**
+**sabu lole kavayi.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**me suku maw sabu lole kaway**
+**me suku mav sabu lole kavayi**
 = I like cats because they are cute.
 
 ### Exercises
@@ -645,36 +645,36 @@ There are also specific time words.
 = still, yet  
 **suno**
 = soon  
-**wilo**
+**vilo**
 = later, in the future
 
 
 
-The adjectives for past, present and future are **pas, zay** and
-**wil**. They can be used for modifying nouns.
+The adjectives for past, present and future are **pasi**, **zayi** and
+**vili**. They can be used for modifying nouns.
 
 **sarah si mi pasi xefe.**
 = Sarah is my former boss.  
 **yusef si mi zayi xefe.**
 = Yusef is my current boss.  
-**maria si mi wili xefe.**
+**maria si mi vili xefe.**
 = Maria is my future boss.
 
-The same words are used when you talk about actions and events in time.
+The same roots are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
 **me paso darba le.**
 = I hit it (in the past).  
 **me zayo darba le.**
 = I am hitting it (currently).  
-**me wilo darba le.**
+**me vilo darba le.**
 = I will hit it (in the future).
 
 Alternatively the time word can be placed last in the sentence.
 
 **me darba le paso.**  
 **me darba le zayo.**  
-**me darba le wilo.**
+**me darba le vilo.**
 
 It's also possible to use longer phrases like **sa pase** (in the past) etc.
 
@@ -682,7 +682,7 @@ It's also possible to use longer phrases like **sa pase** (in the past) etc.
 = I hit it in the past.  
 **me darba le sa zaye.**
 = I hit it at present.  
-**me darba le sa wile.**
+**me darba le sa vile.**
 = I hit it in the future.
 
 
@@ -692,11 +692,11 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-**me paso tena un maw.**
+**me paso tena un mav.**
 = I had a cat in the past.  
-**le bon maw.**
+**le bon mav.**
 = It was a good cat.  
-**me tena un waf zayo.**
+**me tena un vaf zayo.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -723,18 +723,18 @@ Try translating these sentences from English to Pandunia.
 
 **paso** in the past, formerly.
 **zayo** at present, currently.
-**wilo** in future.
+**vilo** in future.
 **darba** to hit, to beat.
 **pang** bread.
 **suboyame** morning meal, breakfast.
 
 ### Answers to the Exercises
 
-1. mi xefe festa sa wile.
-2. me tena duli waf sa pase.
+1. mi xefe festa sa vile.
+2. me tena duli vaf sa pase.
 3. te yama supe zay.
 4. le safa kamare sa predi den.
-5. maw yama kafe sa badi den.
+5. mav yama kafe sa badi den.
 6. ti mame festa sa predi noce.
 
 

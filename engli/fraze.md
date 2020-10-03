@@ -328,7 +328,7 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ye e we <small>this and that</small>
+### ye e ve <small>this and that</small>
 
 **ye ke? / ke ye?**
 What's this?
@@ -336,10 +336,10 @@ What's this?
 **ye aple.**
 This is an apple.
 
-**we ke? / ke we?**
+**ve ke? / ke ve?**
 What is that?
 
-**we oranje.**
+**ve oranje.**
 That is an orange.
 
 **ye kirmi aple.**
@@ -355,13 +355,13 @@ When it follows the noun, it works as an adjectival verb.
 This is red.
 
 Note: The demonstrative pronouns have two forms.
-Forms **ye** and **we** are used when they stand alone.
-Forms **yi** and **wi** are used when they modify another noun.
+Forms **ye** and **ve** are used when they stand alone.
+Forms **yi** and **vi** are used when they modify another noun.
 
 **lole sa ke?**
 Where are they?
 
-**lole sa we.**
+**lole sa ve.**
 They are there.
 
 **mome sa ye.**
@@ -473,14 +473,14 @@ I want to help you.
 **eska te vola yama koy?**
 Would you like to eat something?
 
-**le yama aple.**
+**le yama apele.**
 He/she eats an apple.
 
-**lole yama aple.**
+**lole yama apele.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
-Therefore a word like **aple** can refer to one or more apples.
+Therefore a word like **apele** can refer to one or more apples.
 
 **eska te yama kafe?**
 Do you drink coffee?
@@ -552,10 +552,10 @@ Please, help me.
 **haida yama!**
 Let's eat!
 
-**haida gowa yama!**
+**haida gova yama!**
 Let's go eat!
 
-**haida gowa dome.**
+**haida gova dome.**
 Let's go home.
 
 
@@ -650,7 +650,7 @@ How do you say "cat" in Pandunia?
 **"cat" logu ko sa pandunia?**
 How is "cat" said in Pandunia?
 
-**maw loga miaw.**
+**mav loga miav.**
 Cat says meow.
 
 
@@ -692,10 +692,10 @@ I saw him/her yesterday.
 **yi loge mena ke?**
 What does this word mean?
 
-**"maw" mena ke?**
-What does "maw" mean?
+**"mav" mena ke?**
+What does "mav" mean?
 
-**le mena yange da hewan.**
+**le mena yange da hevane.**
 It means a kind of animal.
 
 **me no aha le mena ke.**
@@ -731,30 +731,30 @@ Chinese, Japanese, Indonesian
 **arabi, turki, farsi, urdi, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
-**swahili, hausi, yorubi, amari**
+**suahili, hausi, yorubi, amari**
 Swahili, Hausa, Yoruba, Amharic
 
 
 ## Part 4. Going around
 
-### gowa <small>to go</small>
+### gova <small>to go</small>
 
-**te gowa ke?**
+**te gova ke?**
 Where are you going?
 
-**me gowa dome.**
+**me gova dome.**
 I'm going home.
 
-**me bixu gowa ke?**
+**me bixu gova ke?**
 Where should I go?
 
-**me bixu gowa pa ki ren?**
+**me bixu gova pa ki ren?**
 To whom should I go?
 
-**haida gowa!**
+**haida gova!**
 Let's go!
 
-**haida gowa sa fute**
+**haida gova sa fute**
 Let's go by foot!
 
 
@@ -790,7 +790,7 @@ The voyage is very long.
 **hotel sa ke?**
 Where is the hotel?
 
-**hotel sa wi daw.**
+**hotel sa vi dav.**
 The hotel is on that road.
 
 **te sa ke?**
@@ -807,7 +807,7 @@ He/she sits in the room.
 
 Tip! You can use **sa** as a preposition or alone as the verb.
 
-**me werka sa...**
+**me kara sa...**
 I work at ...
 
 
@@ -873,33 +873,33 @@ He or she was the chief.
 He or she was at home.
 
 
-### lewo <small>already, completed</small>
+### levo <small>already, completed</small>
 
-**me lewo salama ti doste.**  
+**me levo salama ti doste.**  
 I have greeted your friend.
 
-**man lewo vida fem.**  
+**man levo vida fem.**  
 The man has looked at the woman.
 
-**le lewo xefe.**  
+**le levo xefe.**  
 He or she has been the chief.
 
-**le lewo sa dome.**  
+**le levo sa dome.**  
 He or she has been at home.
 
 
-### wilo <small>(future action)</small>
+### vilo <small>(future action)</small>
 
-**me wilo salama ti doste.**  
+**me vilo salama ti doste.**  
 I will greet your friend.
 
-**man wilo vida fem.**  
+**man vilo vida fem.**  
 The man will see the woman.
 
-**le wilo xefe.**  
+**le vilo xefe.**  
 He or she will be the chief.
 
-**le wilo sa dome.**  
+**le vilo sa dome.**  
 He or she will be at home.
 
 
@@ -933,7 +933,7 @@ I will take a coffee.
 **pliza kapa un kafe pa me.**
 Please take one coffee for me.
 
-**te lewo kapa pese ca me.**
+**te levo kapa pese ca me.**
 You already got money from me.
 
 **me kapa un bire.**
@@ -1008,7 +1008,7 @@ Come here / back / to us.
 **me darsa pandunia.**
 I study Pandunia.
 
-**xowa le pa me sa leksobuke!**
+**xova le pa me sa leksobuke!**
 Show me in the dictionary!
 **me no yada.**
 I don't remember.

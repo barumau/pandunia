@@ -9,7 +9,7 @@ They are put before the word or phrase that they qualify.
 – two stars  
 **tini xing**
 – three stars  
-**xawi xing**
+**xavi xing**
 – few stars  
 **multi xing**
 – many stars

@@ -14,7 +14,7 @@ In Pandunia, adjectives typically end in **-i** and their place is before a noun
 – fast car(s)  
 **dayi meze**
 – big table(s)  
-**gawi meze**
+**gavi meze**
 – high table(s)  
 **boni kurse**
 – good chair(s)

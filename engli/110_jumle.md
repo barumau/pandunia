@@ -5,7 +5,7 @@
 Observations are the simplest sentence type.
 They may consist of only one word, which draws the listener's attention.
 
-**maw!**
+**mav!**
 – A cat!  
 **barxa!**
 – (It) rains!
@@ -63,7 +63,7 @@ Also two personal pronouns can be combined with **si** and **no**.
 
 The same rule applies also for two adjectives.
 
-**jowan si sundari.**
+**jovani si sundari.**
 – Young is beautiful.  
 **novi no purani.**
 – New is not old.  
@@ -149,11 +149,11 @@ So **te** is the _pivot_ of the entire sentence.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject
  
-1. **me gowa dome.**
+1. **me gova dome.**
    – I go home.  
-2. **me abla gowa dome.**
+2. **me abla gova dome.**
    – I can go home.  
-3. **me vola abla gowa dome.**
+3. **me vola abla gova dome.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -187,11 +187,11 @@ This is done especially in commands and requests.
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku maw e waf.**
+**me suku mav e vaf.**
 – I like cats and dogs.  
-**me suku maw o waf.**
+**me suku mav o vaf.**
 – I like cats or dogs.  
-**me suku maw a no waf.**
+**me suku mav a no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -334,11 +334,11 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
 
 A declarative phrase:  
-**maw vidu me.**
+**mav vidu me.**
 – A cat is seen by me.
 
 The corresponding modifying phrase:  
-**maw da vidu me**
+**mav da vidu me**
 – the cat that is _seen by me_
 
 Note! Although **da** seems to have a similar role here as English relative pronouns _which_, _that_, _who_ and _whom_,
@@ -347,22 +347,22 @@ it's still nothing more than a particle connecting a modifier (in this case: a v
 The opposite word order is made with **du** and the verb ending in **-a**.
 
 A declarative phrase:  
-**me vida maw.**
+**me vida mav.**
 – I see a cat.
 
 The corresponding modifying phrase:  
-**me vida du maw**
+**me vida du mav**
 – _My seen_ cat i.e. the cat _that I see_
 
 Pay attention to the final vowels! They are crucial for the meaning!
 
-**maw da vidu man**
+**mav da vidu man**
 – the cat that is seen by the man  
-**maw da vida man**
+**mav da vida man**
 – the cat that sees the man  
-**maw vida du man**
+**mav vida du man**
 – the _cat-seen_ man  
-**maw vidu du man**
+**mav vidu du man**
 – the _cat-seeing_ man
 
 Note! In Pandunia, words can be put in many different orders.
@@ -426,23 +426,23 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **pas** (past), **zay** (present) and **wil** (future, upcoming).
-They function like adjectives and adverbs, so typically their place is before the verb.
+The general time words are **paso** (past), **zayo** (present) and **vilo** (future, upcoming).
+They function like adverbs, so typically their place is before the verb.
 
-**me pas tena maw.**
+**me paso tena mav.**
 – I had cats.  
-**a me no zay tena maw.**
+**a me no zayo tena mav.**
 – But I now don't have cats.  
-**ablo me wil tena maw.**
+**ablo me vilo tena mav.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **sa pase** (in the past) etc.
 
-**me tena maw sa pase.**
+**me tena mav sa pase.**
 – I had cats in the past.  
-**a me no tena maw sa zaye.**
+**a me no tena mav sa zaye.**
 – But I don't have cats at present.  
-**ablo me tena maw sa wile.**
+**ablo me tena mav sa vile.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

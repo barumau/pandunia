@@ -3,26 +3,25 @@
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński.
 Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w\~ʋ\~v | ʃ | j | z~dz |
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
 
 ## Spółgłoski
 
-    p  b  f  v  m  w
+    p  b  f     m  v
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
 
-Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, d, f, h, k, l, m, n, p, r, s, t, z** jest podobna i prosta.
+Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, d, f, h, k, l, m, n, p, r, s, t, v, z** jest podobna i prosta.
 
 Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polskim.
 
 - **r**, najlepiej, by była drżąca jak w hiszpańskim _carro_. Inne wymowy są akceptowane.
-- **w** jest zawsze wymawiane jak W w _wóz_.
 - **x** jest zawsze wymawiane jak SZ w _szpital_.
 - **c** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
@@ -45,7 +44,7 @@ Spółgłoski półotwarte **y** i **w** są wymawiane odpowiednio jak J i Ł w 
 
 Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 
-1. Słowa z tylko jedną sylabą są akcentowane. Np. máw.
+1. Słowa z tylko jedną sylabą są akcentowane. Np. máv.
 2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. hotél.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nóvi, dúnia, musíke.
 
@@ -53,7 +52,7 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
     /dúnia sí mómi sundári planéte./
 
      me wana loga komuni baxe, le si pandunia.  
-    /mé wána lóga komúni báxe, lé sí pandúnia./
+    /mé wóla lóga komúni báxe, lé sí pandúnia./
 
 
 ## Wielkość liter
@@ -126,6 +125,6 @@ Początkowe spółgłoski są ograniczone do:
 4. Spółgłoski zwartej + płynnej (spójrz wyżej)
 
 Dozwolonymi końcowymi spółgłoskami są:
-h, l, m, n, ng, r, s, w, x, y
+h, l, m, n, ng, r, s, v, x, y
 
 

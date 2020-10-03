@@ -4,10 +4,10 @@ Pandunio uzas la bazan latinan alfabeton.  Jen la pandunia alfabeto, sekvata
 per la Esperanta prononco kaj la ekvivalenta simbolo de Internacia Fonetika
 Alfabeto (IFA):
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| ---|---|---|---|
-| Esperanto: | a | b | ĉ | d | e | f | g | h | i | ĝ | k | l | m | n | o | p | r | s | t | u | ŭ | ŝ | j | z |
-| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Esperanto: | a | b | ĉ | d | e | f | g | h | i | ĝ | k | l | m | n | o | p | r | s | t | u | v | ŝ | j | z |
+| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~v | ʃ | j | z~dz |
 
 En pandunio ĉiu litero reprezentas ĉiam unu saman sonon.  Ne estas sensonaj
 literoj.
@@ -25,7 +25,7 @@ Esperantaj "j" kaj "ŭ".
 
 ## Konsonantoj
 
-    p  b  f  v  m  w
+    p  b  f     m  v
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -36,22 +36,21 @@ alimaniere:
 - **c** estas prononcata kiel Esperanta "ĉ".
 - **j** estas prononcata kiel Esperanta "ĝ".
 - **x** estas prononcata kiel Esperanta "ŝ".
-- **w** estas prononcata kiel Esperanta "ŭ".
 - **y** estas prononcata kiel Esperanta "j".
 
 ## Akcento
 
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
-- **maw** /máw/, **hotel** /hotél/
-- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
+- **mav** /máw/, **hotel** /hotél/
+- **novi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me wana loga komuni baxe, le si pandunia.  
-    /mé wána lóga komúni báxe, lé sí pandúnia./
+     me vola loga komuni baxe, le si pandunia.  
+    /mé wóla lóga komúni báxe, lé sí pandúnia./
 
 
 ## Uskleco
@@ -118,5 +117,5 @@ Komencaj konsonantoj povas esti nur jenaj:
     - pr, br, tr, dr, kr, gr
 
 La permesitaj vorto-finaj konsonantoj estas:
-h, l, m, n, ng, r, s, w, x, y
+h, l, m, n, ng, r, s, v, x, y
 
