@@ -3,9 +3,9 @@
 Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
 con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
-| Pandunia: | a | b | c  | d | e | f | g | h   | i | j  | k  | l | m | n | o | p  | r   | s | t  | u | v | w | x | y | z |
-|-----------|---|---|----|---|---|---|---|-----|---|----|----|---|---|---|---|----|-----|---|----|---|---|---|---|---|---|
-| AFI:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c  | d | e | f | g | h   | i | j  | k  | l | m | n | o | p  | r   | s | t  | u | v | x | y | z |
+|-----------|---|---|----|---|---|---|---|-----|---|----|----|---|---|---|---|----|-----|---|----|---|---|---|---|---|
+| AFI:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w\~ʋ\~v | ʃ | j | z~dz |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.
@@ -20,7 +20,7 @@ Pandunia tiene cinco vocales, que se pronuncian igual que en español.
 
 ## Sonidos de las consonantes
 
-    p  b  f  v  m  w
+    p  b  f     m  v
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -35,13 +35,11 @@ grafía, o bajo la misma grafía pero con sólo una parte de su valor fonético:
 - **g** se pronuncia siempre (ante cualquier vocal) como la G suave de "gato".
 - **r** se pronuncia preferiblemente como en "carro", aunque otras
   pronunciaciones también son aceptables.
-- **w** representa el sonido breve diptongado de U, y equivale por tanto a la U
-  breve diptongada en "aurora", "Europa".
+- **v** representa el sonido breve diptongado de U, y equivale por tanto a la U
+  breve diptongada en "aurora", "huevo", o "cuál".
 - **y** representa el sonido breve diptongado de I, y equivale por tanto
   siempre (también ante vocal) a la Y en "ley", a la I en "aire".
 - **h** es como el sonido de la J española.
-- **v** es como el sonido de la B o V española despues de una vocal, como en
-  "abrevar".
 
 Las consonantes siguientes representan fonemas que no existen en español:
 
@@ -67,15 +65,15 @@ consonante.
 
 Ejemplos:
 
-- **maw** /máw/, **hotel** /hotél/
+- **mav** /máv/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me wana loga komuni baxe, le si pandunia.  
-    /mé wána lóga komúni báxe, lé sí pandúnia./
+     me vola loga komuni baxe, le si pandunia.  
+    /mé vóla lóga komúni báxe, lé sí pandúnia./
 
 
 ## Uso de las letras mayúsculas y minúsculas
@@ -156,9 +154,9 @@ El conjunto de consonantes medias están restringidas a:
     - lp, lb, lt, ld, lk, lg, lc, lj
     - rp, rb, rt, rd, rk, rg, rc, rj
 2. Resonante + fricativa
-    - nf, nv, ns, nz, nx
-    - lf, lv, ls, ls, lx
-    - rf, rv, rs, rz, rx
+    - nf ns, nz, nx
+    - lf ls, ls, lx
+    - rf rs, rz, rx
 3. Sibilante + oclusiva
     - ft, fk
     - st, sp, sk
@@ -172,9 +170,9 @@ El conjunto de consonantes medias están restringidas a:
     - ps, bz, px
     - ks, gz, kx
 6. Resonante + resonante o semivocal
-    - ml, ny
-    - lm, ln, ly
-    - rm, rn, ry
+    - ml, nv, ny
+    - lm, ln, lv, ly
+    - rm, rn, rv, ry
 7. Resonante + sibilante + oclusiva
     - p. ej. lsk
 8. Resonante + oclusiva + líquida
@@ -186,7 +184,7 @@ El conjunto de consonantes medias están restringidas a:
 11. Oclusiva + líquida (ver arriba)
 
 Las consonantes finales permitidas son:  
-h, l, m, n, ng, r, s, w, x, y
+h, l, m, n, ng, r, s, v, x, y
 
 Además, nombres de los personos, locaciónes, y conceptos culturales pueden contener
 cada conjuntos de dos o tres consonantes en el medio de una palabra que no tiene:

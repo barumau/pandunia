@@ -2,16 +2,16 @@
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w\~ʋ\~v | ʃ | j | z~dz |
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
 
 ## Consonnes
 
-    p  b  f  v  m  w
+    p  b  f     m  v
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -32,10 +32,9 @@ Les consonnes suivantes se prononcent différement en pandunia et en français :
 ## Semivoyelles
 
 - La semivoyelle **y** se prononce comme dans _youpi_. Elle est proche du son **i**.
-- La semivoyelle **w** se prononce comme dans _wapiti_. Elle est proche du son **u**.
 
 Les semivoyelles **y** and **w** sont toujours suivies d'une voyelle pleine (un suffixe) ou du début d'autre mot (quand elles se trouvent dans le mot racine nu). 
-**maw tena naw hay.** = Le chat a neuf vies.
+**mav tena navi jiv.** = Le chat a neuf vies.
 
 
 ## Voyelles
@@ -64,15 +63,15 @@ De façon similaire, il y a une diphtongue dans le mot **day**.
 
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
-- **maw** /máw/, **hotel** /hotél/
+- **mav** /máv/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me wana loga komuni baxe, le si pandunia.  
-    /mé wána lóga komúni báxe, lé sí pandúnia./
+     me vola loga komuni baxe, le si pandunia.  
+    /mé vóla lóga komúni báxe, lé sí pandúnia./
 
 
 ## Majuscules
@@ -141,9 +140,9 @@ Les groupes de consonnes centrales sont limitées à:
     - lp, lb, lt, ld, lk, lg, lc, lj
     - rp, rb, rt, rd, rk, rg, rc, rj
 2. Sonante + fricative
-    - nf, nv, ns, nz, nx
-    - lf, lv, ls, ls, lx
-    - rf, rv, rs, rz, rx
+    - nf, ns, nz, nx
+    - lf, ls, ls, lx
+    - rf, rs, rz, rx
 3. Silibante + occlusive
     - ft, fk
     - st, sp, sk
@@ -157,9 +156,9 @@ Les groupes de consonnes centrales sont limitées à:
     - ps, bz, px
     - ks, gz, kx
 6. Resonante + resonante or semi-voyelle
-    - ml, ny
-    - lm, ln, ly
-    - rm, rn, ry
+    - ml, nv, ny
+    - lm, ln, lv, ly
+    - rm, rn, rv, ry
 7. Sonante + sibilante + occlusive
     - par ex. lsk
 8. Sonante + occlusive + liquide
@@ -171,7 +170,7 @@ Les groupes de consonnes centrales sont limitées à:
 11. Occlusive + liquide (voir ci-dessus)
 
 Les consonnes finales autorisées sont:
-h, l, m, n, ng, r, s, w, x, y
+h, l, m, n, ng, r, s, v, x, y
 
 De plus, tout nom de personne, de lieu ou de concept culturel, ainsi que les mots qui en dérivent, peuvent contenir n'importe quel groupe de deux ou trois consonnes au milieu du mot, tant qu'il ne contient pas :
 

@@ -40,7 +40,7 @@ The demonstrative pronouns are:
 
 **ye**
 – this one  
-**we**
+**ve**
 – that one
 
 **me vola ye.**
@@ -50,9 +50,9 @@ The demonstrative pronouns are:
 
 They end in **-i** when they function as modifiers i.e. when they come before a noun.
 
-**yi maw**
+**yi mav**
 – This cat  
-**wi maw**
+**vi mav**
 – That cat
 
 ## Interrogative pronouns
@@ -91,6 +91,6 @@ Also adjectives are questioned with **ki**.
 **ko lil?**
 – How small?
 
-**te tena ko day maw?**
+**te tena ko day mav?**
 – How big cat do you have?
 

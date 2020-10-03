@@ -131,9 +131,9 @@ parenthesis.
 |------------|-------------|---------------|-----------------|
 | Nasals     | m n ng      | m n ng        | m n ng          |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
-| Liquids    | l r y w     | l r y w       | l r y w (yü)    |
+| Liquids    | l r y v     | l r y w       | l r y w (yü)    |
 | Sibilants  | s z x       | s z sh (zh)   | s z* sh (x)     |
-| Fricatives | f v h       | f v h (th dh) | f h             |
+| Fricatives | f h         | f h (v th dh) | f h             |
 | Affricates | c j         | ch j          | ch zh (q j c)   |
 
 
@@ -169,9 +169,9 @@ English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn
 _mai, sai, lai, rai_. It is as simple as that!
 
 Pandunia can be spelled regularly because it has fewer speech sounds
-(25) than there are letters in the basic Roman alphabet (26). The
+(24) than there are letters in the basic Roman alphabet (26). The
 alphabet of Pandunia is:  
-a b c d e f g h i j k l m n o p r s t u v w x y z
+a b c d e f g h i j k l m n o p r s t u v x y z
 
 Pandunia has almost perfect letter-to-sound correspondence. One letter
 stands for one sound only. One sound is represented by exactly one
@@ -197,7 +197,7 @@ Neither word tone nor variable word stress are necessary in the world
 language.
 
 Pandunia has fixed stress. The stress falls on the syllable that is
-before the last consonant. Like this: **me wána lóga bón dúnia báxe.**
+before the last consonant. Like this: **me vóla lóga bón dúnia báxe.**
 
 Pandunia doesn't have lexical tone.
 
@@ -332,9 +332,9 @@ Pandunia verbs can function also as adpositions (so called _coverbs_).
 **me te amu.** (SOV)  
 I love you.
 
-**me jampa supra gaw meze.**
+**me jampa supra gavi meze.**
 (I jump, surpass the high table.)  
-**me jampa gaw meze supru.**
+**me jampa gavi meze supru.**
 (I jump, the high table is-surpassed.)  
 I jump over the high table.
 
@@ -387,13 +387,13 @@ form that sounds familiar to speakers of as many languages as possible.
 | Pandunia root | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
 | **kort**      | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **now**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
+| **nov**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
 | **marc**      | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **post**      | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
 The suffixes of Pandunia are applied on the roots. Here are some
 resulting Pandunia words: korti (short), korte (shorty), korta 
-(shorten), nowi (new), nowe (news), nowa (renovate).
+(shorten), novi (new), nove (news), nova (renovate).
 
 
 ### Sinitic words
@@ -422,7 +422,6 @@ a normal PoS suffix.
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
 | 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
-| 問 | **wen**       | man        | wèn        | mon        | mun        | vấn        |
 | 讀 | **dug**       | duk        | dú         | doku       | dog        | đọc        |
 | 出 | **cut**       | cœt        | chū        | shutsu     | chul       | xuất       |
 
@@ -449,7 +448,7 @@ The verb **beyu** is used when the object of an action comes first in
 the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  aple beyu yama.
+    Pandunia:  apele beyu yama.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **beyu** is a loan word from Standard Chinese, but it is also close to
@@ -471,11 +470,11 @@ Also verbs are not conjugated. One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  le si aple.
+    Pandunia:  le si apele.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  lole si aple.
+    Pandunia:  lole si apele.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 

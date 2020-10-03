@@ -304,7 +304,7 @@ So the Pandunia word for language becomes **baxe**.
 
 ### Examples of words from Arabic
 
-#### duwe (prayer)
+#### duve (prayer)
 
 | Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
