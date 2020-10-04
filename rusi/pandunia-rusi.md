@@ -1,5 +1,4 @@
 # pandunia-rusi
-<U+##E> - huru  
 ##a
 abace - алфавит  
 abite - пихта  
@@ -494,6 +493,7 @@ lilxeke - галька
 limi - пять (5)  
 limone - лимон  
 lince - рысь  
+linye - линия  
 lisane - язык  
 liste - список  
 litre - литр  
@@ -585,6 +585,7 @@ muskulbine - культуризм
 ##n
 nade - река  
 namkitaba - подписать  
+narde - нарды (триктрак)   
 nasia - нация  
 nasmedi - междунаро́дный  
 nautile - наутилид  
@@ -639,6 +640,9 @@ pape - отец (папа)
 para - сравнить  
 parame - параметр (аргумент)  
 parce - кусок  
+pare - уровень  
+pari - равный  
+pari nombre - чётное число  
 parke - парк  
 parne - папоротник  
 pasporte - паспорт  
@@ -829,9 +833,11 @@ uniko - единственно
 unmaro - один раз  
 ura - ура  
 ##v
+vadosusane - ландыш  
 vagine - влагалище (вагина)  
 vaginitis - вагинит  
-valsusane - ландыш  
+vala - оценивать  
+vale - ценность  
 vampirbalsenter - адский вампир  
 vampire - вампир (упырь)  
 var 1 (var uni) - понедельник  
@@ -857,10 +863,12 @@ vestogorile - западная горилла
 vida - видеть  
 vider - зрительница  
 vidopunte - перспектива (точки зрения)  
+vidove - вдова  
 violeti - фиолетовый (пурпурный)  
 virus (viruse) - вирус  
 viruslojia - вирусология  
 vize - виза  
+vode - клятва (присяга, обет)  
 vola - хотеть  
 vulve - вульва  
 vute - статья (предмет)  

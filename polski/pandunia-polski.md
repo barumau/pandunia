@@ -707,9 +707,6 @@ duve - modlitwa
 duxe - prysznic  
 e - i, oraz  
 ##e
-egali - prawy, sprawiedliwy, słuszny, uczciwy, fair  
-egalolinye - równik  
-egalolinyi ginia - Gwinea Równikowa  
 eglise - kościół  
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
@@ -1204,6 +1201,7 @@ humuse - ciecierzyca
 humusosos - hummus  
 hura - uwolnić, uwalniać  
 hurargente - rtęć  
+huri - wolny, niepodległy, niezależny  
 huria - wolność, niepodległość, niezależność  
 huriste - liberalista, wolnościowiec  
 huristi - liberalny, wolnościowy  
@@ -2225,7 +2223,7 @@ nauria - Nauru
 nautile - nautilus  
 navati - nahuatl  
 navi - dziewięć (9)  
-navomese - grudzień  
+navmese - grudzień  
 nederlandi antilia - Antyle Holenderskie  
 nederlandia - Holandia (Królestwo Niderlandów)  
 nefre - nerka  
@@ -2438,10 +2436,10 @@ parcokayu - pękać (rozrywać się)
 parcotalu - zapaść się (zapadać się, runąć)  
 parde - zasłona, kurtyna  
 pardon (pardone) - przepraszam!  
-pare - równy  
 pargova - iść wzdłuż (pójść wzdłuż)  
 pargovi - równoległy (podłużny)  
 pari - równy  
+parike - równy  
 paris - Paryż  
 parke - park (ogród)  
 parne - paproć  
@@ -2817,6 +2815,7 @@ salame - pozdrowienie
 sale - sól  
 sali - słony  
 salima - poddać się, poddawać się  
+salmone - łosoś (pstrąg)  
 salonia - Sierra Leone  
 salvadoria - Salwador  
 samane - niebo  
@@ -2827,7 +2826,6 @@ samdexi - rodak, ziomek, krajan
 samemose - współczucie  
 sami - taki sam  
 samname - homonim  
-samone - łosoś (pstrąg)  
 samovia - Samoa  
 samraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samraye - porozumienie  
@@ -3257,16 +3255,16 @@ uzbekia - Uzbekistan
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 ##v
-vada - obiecać, angażować się  
+vade - dolina  
+vadosusane - konwalia majowa  
 vaf (vafe) - pies  
 vagine - wagina  
 vaginitis - zapalenie pochwy  
 vakila - reprezentować  
 vakile - reprezentant (przedstawiciel)  
 vaksine - szczepionka  
-vale - dolina  
+vale - wartość  
 valis e futun nesia - Saint Vincent i Grenadyny  
-valsusane - konwalia majowa  
 vampirbalsenter - wampirzyca piekielna (wampirnica)  
 vampire - wampir  
 vana - bawić, zabawiać  
@@ -3335,6 +3333,7 @@ vide - widok, wzrok
 vider - obserwator (widz)  
 vidomaidane - pole widzenia  
 vidopunte - perspektywa (punkt widzenia)  
+vidove - wdowa  
 vidu - być widzianym  
 vieti - wietnamski  
 vietia - Wietnam  
@@ -3364,6 +3363,7 @@ vize - wiza
 vizita - odwiedzić, odwiedzać  
 vizite - wizyta  
 viziter - wizytant (gość)  
+voda - obiecać, angażować się  
 vodun - voodoo  
 vola - chcieć, pragnąć  
 vole - wola (chęć, pragnienie)  
@@ -3531,6 +3531,8 @@ zemlojia - geologia
 zemnici - podziemny  
 zemnici prizone - loch  
 zemomedi haye - Morze Śródziemne  
+zemparlinye - równik  
+zemparlinyi ginia - Gwinea Równikowa  
 zemsisme - trzęsienie Ziemi  
 zemtike - działka (teren)  
 zeyile - brodawka  

@@ -126,7 +126,9 @@ Aruba - arubia
 arvio (arvostelu, kritiikki) - pipinge  
 arvioida (arvostella, kritisoida) - pipinga  
 arvioida - yaga  
+arvo - vale  
 arvostelija (kriitikko) - pipinger  
+arvottaa - vala  
 ase - arme  
 asema (satama, lentokenttä) - porte  
 asema - estasia  
@@ -169,6 +171,7 @@ avokado - avakate
 Azerbaidžan - azeria  
 ##b
 baari (kapakka) - bireria  
+backgammon - narde  
 bahailainen - bahayiste  
 bahailaisuus - bahayistia  
 Bahama-saaret - bahamia  
@@ -1132,7 +1135,7 @@ käärme - serpe
 käärö - rule  
 ##l
 laadukas (hyvä) - bonsifi  
-laakso - vale  
+laakso - vade  
 laatikko - sanduke  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsife  
 laatu (ominaisuus, ominaispiirre, määrite) - sife  
@@ -1187,6 +1190,7 @@ lentokone - vimane
 lentokonekaappari - vimankaper  
 lentää - feyu  
 lepo - xante  
+leski - vidove  
 Lesoto - sotovia  
 leveä - kuani  
 levottomuus (konflikti) - anpace  
@@ -1253,13 +1257,14 @@ luokka (kategoria) - klase
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
 luonto - ekia  
+lupaus (vala) - vode  
 lusikka - camace  
 luterilainen - lutheristi  
 luterilaisuus - lutheristia  
 lutetium - lutetium  
 luu - oste  
 luumu - plume  
-luvata - vada  
+luvata (vannoa) - voda  
 Luxemburg - luksemburgia  
 lyhentää - korta  
 lyhty - hogosanduke  
@@ -1635,6 +1640,7 @@ olkapää (hartia) - kante
 olla - esa  
 olla eri mieltä - alraya  
 olla hereillä - veki  
+olla jkn arvoinen - valu  
 olla nimeltään - namu  
 olla olemassa - zayu  
 olla samaa mieltä - samraya  
@@ -1763,6 +1769,7 @@ Papua Uusi-Guinea - papuvi novi ginia
 papukaija - papagaye  
 Paraguai - paraguayia  
 parametri (argumentti) - parame  
+parillinen luku - pari nombre  
 parkkipaikka - garparke  
 parsa - lusune  
 parta - barde  
@@ -1962,8 +1969,8 @@ pyöräilyn harrastaja - sikliste
 päivä - den (dene)  
 päivämäärä - nenmesdene  
 päivänseisaus - solestase  
-päiväntasaaja - egalolinye  
-Päiväntasaajan Guinea - egalolinyi ginia  
+päiväntasaaja - zemparlinye  
+Päiväntasaajan Guinea - zemparlinyi ginia  
 päivää! - salam den  
 pää - sare  
 pää- - xefi  
@@ -2111,7 +2118,8 @@ sallia (antaa lupa) - halala
 sallia - tolera  
 sallittu (hyväksytty) - halali  
 Salomon-saaret - solomon nesia  
-sama - sami  
+sama (yhtäläinen) - sami  
+samanlainen - samsifi  
 samanmaalainen (maanmies) - samdexi  
 Sambia - zambia  
 sammal - mose  
@@ -2328,7 +2336,7 @@ syy - sabe
 syyllinen - doxi  
 syylä - zeyile  
 Syyria - suria  
-syyskuu - navomese  
+syyskuu - navmese  
 säde - rade  
 sädekehä (halo) - fotocirke  
 säe (riimi) - rime  
@@ -2407,9 +2415,10 @@ tarkka (täsmällinen) - justi
 tarpeeksi (riittävästi) - basi  
 tarpeellinen - nidi  
 tarvita - nida  
-tasapuolinen (reilu) - egali  
+tasainen (tasavertainen) - pari  
 tasavalta - komunkratia  
 tasku - jebe  
+taso - pare  
 tatuointi - tatave  
 tauko (keskeytys, paussi) - pauze  
 taulukko - table  
@@ -2683,6 +2692,7 @@ vankeus - prizone
 vankila - prizonia  
 Vanuatu - vanuatia  
 vanukas - pudinge  
+vapaa - huri  
 vapaus - huria  
 vapauttaa - hura  
 vara- (korvike-) - visi  
@@ -2734,8 +2744,7 @@ verhot - parde
 veri - sange  
 verkko - nete  
 versio - versione  
-vertainen - pare  
-vertainen - pari  
+vertainen - parike  
 vesi - suy (suye)  
 vesimeloni - arbuze  
 vesinokkaeläin - batokrote  

@@ -4,7 +4,6 @@
 -i - suffixe pour l'adjectif  
 -o - suffixe pour l'adverbe  
 -u - suffixe pour les verbes avec ordre des mots OVS  
-<U+##E> - मुक्त (आज़ाद)  
 a - mais (bien que)  
 ##a
 abace - alphabet  
@@ -543,6 +542,7 @@ lilxeke - caillou
 limi - cinq (5)  
 limone - citron  
 lince - lynx  
+linye - ligne  
 lisane - langue  
 liste - liste  
 litre - litre  
@@ -636,6 +636,7 @@ muskulbine - culturisme (musculation)
 ##n
 nade - rivière (fleuve)  
 namkitaba - signer  
+narde - backgammon  
 nasia - nation  
 nasmedi - international  
 nautile - nautile  
@@ -695,6 +696,9 @@ pape - pere (papa)
 para - compare  
 parame - paramètre  
 parce - fragment  
+pare - niveau  
+pari - pair (pareil)  
+pari nombre - nombre pair  
 paris - Paris  
 parke - parc  
 parne - fougères  
@@ -788,9 +792,10 @@ saida - chasser
 sake - sac  
 salame - salut (salam)  
 sale - sel  
+salmone - truite  
 samane - ciel  
 samemose - compassion  
-samone - truite  
+sami - égal (même)  
 samraye - accord  
 samsifia - simulation  
 sanduice - sandwich  
@@ -892,8 +897,11 @@ ura - hourra
 uranium - uranium  
 urse - ours  
 ##v
+vade - vallée (oued)  
 vagine - vagine  
 vaginitis - vaginite  
+vala - évaluer  
+vale - valeur  
 vampirbalsenter - vampire des abysses  
 vampire - vampire  
 var 1 (var uni) - lundi  
@@ -920,8 +928,11 @@ verme - ver
 vespe - abeille ou guêpe  
 vesponizde - ruche (nid d'abeille)  
 vida - voir  
+vidove - veuve  
 violeti - violet (pourpre)  
 virus (viruse) - virus  
+voda - promettre  
+vode - vœu (promesse)  
 vola - vouloir  
 volfe - loup  
 volofi - wolof  

@@ -1,5 +1,4 @@
 # pandunia-cini
-<U+##E> - libera  
 ##a
 abace - 字母表  
 abite - 冷杉  
@@ -318,6 +317,7 @@ hoke - 曲棍球
 hore - 小时  
 hotel (hotele) - 旅馆  
 hule - 狐狸  
+huri - 自由的  
 huria - 自由  
 huydarte - 灰化土  
 ##i
@@ -607,6 +607,8 @@ papaye - 木瓜
 pape - 爸爸  
 parame - 参数  
 parcokayu - 爆裂  
+pare - 水平  
+pari nombre - 偶数  
 parke - 园  
 parne - 蕨  
 pasporte - 护照  
@@ -682,6 +684,7 @@ saider - 狩人
 salame - 迎接  
 sale - 盐  
 samane - 天空  
+sami - 一样  
 samraye - 一致  
 samsifia - 模型  
 sanduice - 三明治 (三文治)  
@@ -778,8 +781,10 @@ un (uni) - 一 (1)
 unmaro - 一次 (一遍)  
 ura - 好哇  
 ##v
+vade - 山谷  
+vadosusane - 鈴蘭  
 vagine - 阴道  
-valsusane - 鈴蘭  
+vale - 价值  
 vampire - 吸血鬼  
 vane - 娱乐  
 vanu - 玩耍  
@@ -801,7 +806,10 @@ venjou - 温州
 venjovoranje - 温州蜜柑  
 vespe - 蜂  
 vida - 看  
+vidove - 寡妇  
 vijine - 味精  
+voda - 许诺  
+vode - 诺言  
 vola - 想要 (愿意)  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  

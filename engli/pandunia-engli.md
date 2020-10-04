@@ -5,7 +5,6 @@
 -ia - area of thinking or being  
 -o - suffix for adverbs  
 -u - suffix for verbs with OVS word order  
-<U+##E> - tự do  
 a - but (whereas)  
 ##a
 abace - alphabet  
@@ -707,9 +706,6 @@ duve - prayer
 duxe - shower  
 e - and  
 ##e
-egali - equal (fair)  
-egalolinye - equator  
-egalolinyi ginia - Equatorial Guinea  
 eglise - church  
 eki - environmental (natural)  
 ekia - environment (nature)  
@@ -2212,6 +2208,7 @@ nanase - pineapple
 nanmetre - nanometer  
 nano- - nano-  
 narake - hell  
+narde - backgammon  
 nase - people (folk)  
 nasi - national  
 nasi socistia - national socialism  
@@ -2224,7 +2221,7 @@ nauria - Nauru
 nautile - nautilus  
 navati - Nahuatl (Nahua)  
 navi - nine (9)  
-navomese - September  
+navmese - September  
 nederlandi antilia - Netherlands Antilles  
 nederlandia - Netherlands  
 nefre - kidney  
@@ -2437,10 +2434,12 @@ parcokayu - burst (pop)
 parcotalu - collapse  
 parde - curtain  
 pardon (pardone) - sorry (pardon)  
-pare - peer  
+pare - level  
 pargova - go along  
 pargovi - parallel (longitudinal)  
-pari - equal (peer)  
+pari - even (level, peer)  
+pari nombre - even number  
+parike - peer  
 paris - Paris  
 parke - park (garden)  
 parne - fern  
@@ -2816,6 +2815,7 @@ salame - greeting (hello)
 sale - salt  
 sali - salty (saline)  
 salima - surrender (to give up)  
+salmone - salmon (trout)  
 salonia - Sierra Leone  
 salvadoria - El Salvador  
 samane - sky (heaven)  
@@ -2824,9 +2824,8 @@ samanonili - light blue (sky blue, azure)
 samarium - samarium  
 samdexi - compatriot  
 samemose - compassion (sympathy)  
-sami - same (similar)  
+sami - same (equal)  
 samname - homonym  
-samone - salmon (trout)  
 samovia - Samoa  
 samraya - agree (concur)  
 samraye - agreement (consent)  
@@ -3254,16 +3253,18 @@ uzbekia - Uzbekistan
 uzer - user  
 uzernam - username  
 ##v
-vada - promise (commit)  
+vade - valley  
+vadosusane - lily of the valley  
 vaf (vafe) - dog  
 vagine - vagina  
 vaginitis - vaginitis  
 vakila - represent  
 vakile - representative (proxy, agent)  
 vaksine - vaccine  
-vale - valley  
+vala - value (evaluate)  
+vale - value (worth)  
 valis e futun nesia - Wallis and Futuna Islands  
-valsusane - lily of the valley  
+valu - be worth  
 vampirbalsenter - vampire squid  
 vampire - vampire  
 vana - amuse (entertain)  
@@ -3332,6 +3333,7 @@ vide - view (vision)
 vider - spectator (sightseer)  
 vidomaidane - visual field (field of vision)  
 vidopunte - perspective (point of view)  
+vidove - widow  
 vidu - be seen  
 vieti - Vietnamese (Viet)  
 vietia - Viet Nam  
@@ -3361,6 +3363,8 @@ vize - visa
 vizita - visit  
 vizite - visitation (visit)  
 viziter - visitor (guest)  
+voda - promise (pledge)  
+vode - promise (vow, oath)  
 vodun - voodoo  
 vola - want (desire, wish)  
 vole - want (desire, longing)  
@@ -3528,6 +3532,8 @@ zemlojia - geology
 zemnici - underground (subterrainean)  
 zemnici prizone - dungeon (underground prison)  
 zemomedi haye - Mediterranean  
+zemparlinye - equator  
+zemparlinyi ginia - Equatorial Guinea  
 zemsisme - earthquake  
 zemtike - lot (plot of land)  
 zeyile - wart  

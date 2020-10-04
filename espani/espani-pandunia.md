@@ -286,6 +286,7 @@ año - nen (nene)
 babor - botolefte  
 bacalao - kade  
 bacalao común - atlantokade  
+backgammon - narde  
 baguette - batonpang  
 bah - bah  
 Bahamas - bahamia  
@@ -750,7 +751,7 @@ contrario (opuesto) - fani
 contraseña - sekurkode  
 contrato (tratado) - trate  
 contribuir - fendona  
-convalaria (lirio de los valles) - valsusane  
+convalaria (lirio de los valles) - vadosusane  
 convenion (pacto) - kontrate  
 copiar (réplica) - kopiya  
 copiar (réplica) - kopiye  
@@ -1031,8 +1032,8 @@ dónde - sa ke
 eco - mirsonde  
 ecología - ekolojia  
 econtrar (hallar) - eureka  
-ecuador - egalolinye  
 Ecuador - ekuador  
+ecuador - zemparlinye  
 edad - umure  
 educado - keci  
 Egipcia Antigua - kemia  
@@ -1109,8 +1110,9 @@ envoltura - lifafe
 envolver - lifafa  
 enzima - enzime  
 epistemología - janlojia  
-equilibrado (par) - pare  
+equal (similar) - sami  
 equilibrado (par) - pari  
+equilibrado (par) - parike  
 equipaje - bagaje  
 equipo - time  
 erbio - erbium  
@@ -1428,7 +1430,7 @@ guau (vaya) - vav
 Guernesey - genzia  
 guiar - gida  
 Guinea - konakri ginia  
-Guinea Ecuatorial - egalolinyi ginia  
+Guinea Ecuatorial - zemparlinyi ginia  
 Guinea-Bisáu - bisavi ginia  
 guitarra - gitare  
 gujaratí - gujarati  
@@ -1560,7 +1562,6 @@ ideología (doctrina, religión, -ismo) - istia
 idioma artificial (lengua construida, conlang) - canbaxe  
 idiota (imbécil) - idiote  
 iglesia - eglise  
-igual (justo) - egali  
 iluminar - minga  
 ilusión - falsi vide  
 ilustrador - grafer  
@@ -2178,6 +2179,7 @@ ningunos - nol ren
 niobio - niobium  
 nitrógeno - nitre  
 Niue - nivia  
+nivel - pare  
 niña - jovani fem  
 niño - jovani man  
 niño o niña - bace  
@@ -2224,6 +2226,7 @@ nómada - badavi
 número (muchedumbre) - multia  
 número - nombre  
 número de identificación personal - sekurnombre  
+número par - pari nombre  
 o - o  
 ##o
 oasis - vase  
@@ -2590,7 +2593,8 @@ programa - programe
 programador - programer  
 prohibido (tabú) - harami  
 prohibir - harama  
-prometer (comprometerse) - vada  
+promesa (voto) - vode  
+prometer (comprometerse) - voda  
 prometio - prometium  
 pronombre - visloge  
 pronto - suno  
@@ -2834,7 +2838,7 @@ salchicha - sosise
 salida - cutomun  
 salino - sali  
 salir (irse) - cuta  
-salmón (trucha) - samone  
+salmón (trucha) - salmone  
 salmón chum (keta) - bakosamone  
 salmón del Atlántico - atlantosamone  
 salmón rojo - lalsamone  
@@ -2896,7 +2900,7 @@ sentarse - sidu
 sentido - sense  
 sentir (detectar) - sensa  
 sentir - emosa  
-septiembre - navomese  
+septiembre - navmese  
 ser (estar) - esa  
 ser - ese  
 ser de - tenu  
@@ -2931,7 +2935,6 @@ silencioso - xuxi
 silicio - silike  
 silla (montura) - side  
 silla - kurse  
-similar (mismo) - sami  
 similar - samsifi  
 simple - simpli  
 simpático (amable) - dosti  
@@ -3243,9 +3246,12 @@ vacío (desocupado) - kali
 vagina - vagine  
 vaginitis - vaginitis  
 vainilla - vanile  
+valer - valu  
 valiente (heroico) - viri  
 valla (cerca) - kenarbaryer  
-valle - vale  
+valle - vade  
+valor - vale  
+valorar - vala  
 vamos a - haida  
 vampiro - vampire  
 vanadio - vanadium  
@@ -3314,6 +3320,7 @@ visado - vize
 visitar - vizita  
 visitar - vizite  
 vista (visión) - vide  
+viudo - vidove  
 vivir (residir) - doma  
 vivo (lleno de vida) - jivi  
 vocabulario (léxico) - logia  
@@ -3389,4 +3396,3 @@ zulú - zuli
 único - moni  
 único - uniki  
 útil (beneficioso) - faidi  
-মুকলি - <U+##E>  

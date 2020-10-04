@@ -5,7 +5,6 @@
 -ia - sufijo para regiónes y sustantivos abstractos  
 -o - sufijo para adverbios  
 -u - sufijo para verbos con el orden de las palabras OVS  
-<U+##E> - মুকলি  
 a - pero  
 ##a
 abace - alfabeto  
@@ -666,9 +665,6 @@ duve - rezo (oración)
 duxe - ducha  
 e - y  
 ##e
-egali - igual (justo)  
-egalolinye - ecuador  
-egalolinyi ginia - Guinea Ecuatorial  
 eglise - iglesia  
 eki - ambiental (ecológico, natural)  
 ekia - medioambiente (naturaleza)  
@@ -2100,6 +2096,7 @@ nanase - piña
 nanmetre - nanometre  
 nano- - nano-  
 narake - infierno  
+narde - backgammon  
 nase - gente  
 nasi - nacional  
 nasi socistia - socialismo nacional  
@@ -2112,7 +2109,7 @@ nauria - Naúru
 nautile - nautilo  
 navati - náhuatl (nahua)  
 navi - nueve (9)  
-navomese - septiembre  
+navmese - septiembre  
 nederlandi antilia - Antillas Neerlandesas  
 nederlandia - Países Bajos  
 nefre - riñon  
@@ -2317,10 +2314,12 @@ parci - roto
 parcokayu - reventar  
 parde - cortina  
 pardon (pardone) - perdón  
-pare - equilibrado (par)  
+pare - nivel  
 pargova - ir a lo largo de  
 pargovi - paralelo  
 pari - equilibrado (par)  
+pari nombre - número par  
+parike - equilibrado (par)  
 parke - parque  
 parne - helecho  
 parta - participar  
@@ -2681,6 +2680,7 @@ salame - saludo
 sale - sal  
 sali - salino  
 salima - rendirse (darse por vencido)  
+salmone - salmón (trucha)  
 salonia - Sierra Leona  
 salvadoria - El Salvador  
 samane - cielo  
@@ -2689,9 +2689,8 @@ samanonili - celeste (azul celeste)
 samarium - samario  
 samdexi - compatriota  
 samemose - compasión  
-sami - similar (mismo)  
+sami - equal (similar)  
 samname - homónimo  
-samone - salmón (trucha)  
 samovia - Samoa  
 samraya - acordar  
 samraye - acuerdo  
@@ -3105,15 +3104,17 @@ uzbekia - Uzbekistán
 uzer - usuario  
 uzernam - nombre de usuario  
 ##v
-vada - prometer (comprometerse)  
+vade - valle  
+vadosusane - convalaria (lirio de los valles)  
 vaf (vafe) - perro  
 vagine - vagina  
 vaginitis - vaginitis  
 vakila - representar  
 vaksine - vacuna  
-vale - valle  
+vala - valorar  
+vale - valor  
 valis e futun nesia - Wallis y Futuna  
-valsusane - convalaria (lirio de los valles)  
+valu - valer  
 vampirbalsenter - calamar vampiro  
 vampire - vampiro  
 vana - divertir (entretener)  
@@ -3179,6 +3180,7 @@ vide - vista (visión)
 vider - espectador  
 vidomaidane - campo de visión  
 vidopunte - perspectiva (punto de vista)  
+vidove - viudo  
 vidu - ser visto  
 vieti - vietnamita  
 vietia - Vietnam  
@@ -3207,6 +3209,8 @@ vize - visado
 vizita - visitar  
 vizite - visitar  
 viziter - invitado (visita)  
+voda - prometer (comprometerse)  
+vode - promesa (voto)  
 vodun - vudú  
 vola - querer (desear)  
 vole - deseo  
@@ -3362,6 +3366,8 @@ zemlojia - geología
 zemnici - subterráneo  
 zemnici prizone - mazmorra  
 zemomedi haye - Mediterráneo  
+zemparlinye - ecuador  
+zemparlinyi ginia - Guinea Ecuatorial  
 zemsisme - terremoto  
 zemtike - terreno (solar)  
 zeyile - verruga  

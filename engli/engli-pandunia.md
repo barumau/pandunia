@@ -214,6 +214,7 @@ azure bluet - nilseramxinge
 babul tree (thorny acacia) - arabobabule  
 baby (infant) - bebe  
 back - ruke  
+backgammon - narde  
 backpack (rucksack) - rukosake  
 backward (in reverse) - retro  
 bad (ruined, destroyed) - harabi  
@@ -276,6 +277,7 @@ be bothered by (bother to, take the trouble to) - mafanu
 be called (be named) - namu  
 be located (lie, be situated) - loku  
 be seen - vidu  
+be worth - valu  
 beacon (lighthouse) - fotominare  
 bean or pea (legume) - dove  
 bear - urse  
@@ -1001,10 +1003,8 @@ environment (nature) - ekia
 environmental (natural) - eki  
 enzyme - enzime  
 epistemology - janlojia  
-equal (fair) - egali  
-equal (peer) - pari  
-equator - egalolinye  
-Equatorial Guinea - egalolinyi ginia  
+equator - zemparlinye  
+Equatorial Guinea - zemparlinyi ginia  
 erbium - erbium  
 erect (standing) - libi  
 erect - liba  
@@ -1030,6 +1030,8 @@ europium - europium
 evaluate (review, criticise) - pipinga  
 evaluation (criticism) - pipinge  
 even (implying extreme example) - ato  
+even (level, peer) - pari  
+even number - pari nombre  
 evening - xame  
 event (case, instance) - kase  
 every (each) - mey (meyi)  
@@ -1709,6 +1711,7 @@ lesson - darse
 let's - haida  
 letter (character, written symbol) - harfe  
 lettuce - letise  
+level - pare  
 lever - tirbatone  
 lexeme - logeme  
 lexical - logi  
@@ -1733,7 +1736,7 @@ like - fila
 lilac - lilake  
 lilac color - lilaki  
 lily - susane  
-lily of the valley - valsusane  
+lily of the valley - vadosusane  
 lime - kalcomate  
 lime green - limonlugi  
 limestone - kalcopetre  
@@ -2320,7 +2323,7 @@ pear - leze
 pearl - lule  
 pebble (gravel) - lilxeke  
 pedal - pedale  
-peer - pare  
+peer - parike  
 pen (writing tool) - kalame  
 penguin - pinguine  
 peninsula - yagonese  
@@ -2513,7 +2516,8 @@ projectile (missile) - lancovute
 projectile (thrown) - lanci  
 projection (image) - lancografe  
 promethium - prometium  
-promise (commit) - vada  
+promise (pledge) - voda  
+promise (vow, oath) - vode  
 pronoun - visloge  
 pronounce (articulate) - fona  
 proof (evidence, proof, demonstration, testimony) - dalile  
@@ -2728,11 +2732,11 @@ Saint Lucia - santi lusia
 Saint Vincent - santi vinsente  
 Saint Vincent and Grenadines - santi vinsente e grenadin  
 salad - salade  
-salmon (trout) - samone  
+salmon (trout) - salmone  
 salt - sale  
 salty (saline) - sali  
 samarium - samarium  
-same (similar) - sami  
+same (equal) - sami  
 Samoa - samovia  
 San Marino - santi marinia  
 sand - rege  
@@ -2807,7 +2811,7 @@ sense (method of perception) - sense
 sense (perceive, detect) - sensa  
 sensor (detector) - senser  
 sentence (phrase) - jumle  
-September - navomese  
+September - navmese  
 Serbia - serbia  
 series (sequence) - serye  
 servant - server  
@@ -3313,7 +3317,6 @@ type (kind, genre) - tipe
 typewriter - kitabomaxine  
 tyranny - tirania  
 tyrant - tirane  
-tự do - <U+##E>  
 ##u
 Uganda - gandia  
 ugly - malrupi  
@@ -3363,7 +3366,9 @@ vacuum cleaner - funcuper
 vagina - vagine  
 vaginitis - vaginitis  
 valid (workable) - funcubli  
-valley - vale  
+valley - vade  
+value (evaluate) - vala  
+value (worth) - vale  
 valve (tap, faucet) - krane  
 vampire - vampire  
 vampire squid - vampirbalsenter  
@@ -3477,6 +3482,7 @@ who? - ki ren
 whole (entire) - holi  
 wholeness (integrity) - holia  
 wide (broad) - kuani  
+widow - vidove  
 width (breadth) - kuania  
 wiki - vikia  
 wiki article - vike  

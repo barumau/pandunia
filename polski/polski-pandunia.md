@@ -469,7 +469,7 @@ dokument - dokume
 dokument - papire  
 dokładnie (precyzyjnie, tylko) - justo  
 dolar - dolare  
-dolina - vale  
+dolina - vade  
 dom, mieszkanie - dome  
 Dominika (Wspólnota Dominiki) - dominikia  
 domino - dominogeme  
@@ -744,7 +744,7 @@ grillować - kababa
 grom, huk - grome  
 grubość - grosia  
 gruby - grosi  
-grudzień - navomese  
+grudzień - navmese  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -769,7 +769,7 @@ gwarancja - garante
 Gwatemala - guatemalia  
 gwiazda - xinge  
 Gwinea - konakri ginia  
-Gwinea Równikowa - egalolinyi ginia  
+Gwinea Równikowa - zemparlinyi ginia  
 góra (szczyt) - gave  
 góra, wzgórze - xane  
 górnik (kopacz) - kuanger  
@@ -1142,7 +1142,7 @@ konopie - ganje
 konsekwencja, skutek - bade  
 konstytucja - bazokanune  
 kontynuować; wznawiać, ponawiać - kontinu  
-konwalia majowa - valsusane  
+konwalia majowa - vadosusane  
 konwencjonalny, zwyczajowy, tradycyjny - rasmi  
 kopalnia - kuangeria  
 kopać (wydobywać) - kuanga  
@@ -1747,7 +1747,7 @@ oaza - vase
 obcęgi, kleszcze, szczypce - pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zay (zayi)  
 obiad, lunch - denyame  
-obiecać, angażować się - vada  
+obiecać, angażować się - voda  
 obiecujący (dobrze wróżący) - bonsinyi  
 obniżać (obniżyć) - tala  
 obozowicz - kampe  
@@ -2206,7 +2206,6 @@ prawo - kanune
 prawo wyborcze - votohake  
 prawo, przywilej - hake  
 prawy (prawostronny, z prawej strony) - raiti  
-prawy, sprawiedliwy, słuszny, uczciwy, fair - egali  
 prazeodym - prasedime  
 prać, umyć, myć - vaxa  
 precyzyjny, dokładny - justi  
@@ -2518,11 +2517,11 @@ rządzić, władać - sultana
 rzęsa - kankexe  
 róg - buge  
 róg - korne  
-równik - egalolinye  
+równik - zemparlinye  
 równina (plaskowyż, plateau) - platistan  
 równoległy (podłużny) - pargovi  
-równy - pare  
 równy - pari  
+równy - parike  
 róża - roze  
 różnica (specjalność) - hasia  
 różnica - alsifia  
@@ -3078,6 +3077,7 @@ warcaby - damogeme
 warga - labe  
 warstwa (poziom, piętro, kondygnacja) - cenge  
 warsztat szewski - sapateria  
+wartość - vale  
 warunek - xarte  
 warzywo - vejete  
 Waszyngton D.C - vaxington d c (do ce)  
@@ -3090,6 +3090,7 @@ ważny - hami
 wciąż, nadal - yexo  
 wcześniej (uprzednio) - ceno  
 wczoraj - cendeno  
+wdowa - vidove  
 według ruchu wskazówek zegara - soldixo  
 weganin (weganka) - monvejetyamiste  
 wegetarianin - vejetyamiste  
@@ -3184,6 +3185,7 @@ wola (chęć, pragnienie) - vole
 wola, chęć - ice  
 wolfram - volfram  
 wolność, niepodległość, niezależność - huria  
+wolny, niepodległy, niezależny - huri  
 wolof - volofi  
 wolt (V) - volte  
 wosk - mume  
@@ -3491,7 +3493,7 @@ zły, zrujnowany, zepsuty - harabi
 łańcuch - silsile  
 łodyga (tors, pień, trzon) - tane  
 łopata (szpadel) - bele  
-łosoś (pstrąg) - samone  
+łosoś (pstrąg) - salmone  
 łosoś atlantycki - atlantosamone  
 łowca (myśliwy) - saider  
 łucznictwo - arkia  

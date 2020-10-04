@@ -315,7 +315,6 @@ ebla - abli
 eble - ablo  
 eco - bonsife  
 edzigi - gama  
-egala - egali  
 egipta - misri  
 Egipto - misria  
 ejnŝtejnio - ainstainium  
@@ -844,6 +843,7 @@ lerni (studi) - darsa
 lerta - ajili  
 li aŭ ŝi aŭ ĝi - le  
 libelo - libele  
+libera - huri  
 libereco - huria  
 liberigi - hura  
 librejo - kitabia  
@@ -1053,6 +1053,7 @@ nikelo - nikele
 nilono - nilone  
 niobo - niobium  
 nitrogeno - nitre  
+nivelo - pare  
 Niĝerio - naijiria  
 Niĝero - nijeria  
 nobelio - nobelium  
@@ -1130,6 +1131,7 @@ papago - papagaye
 papajo - papaye  
 papero - kagaze  
 papilio - pelpele  
+para nombro - pari nombre  
 parko (ĝardeno) - parke  
 parolema - logivi  
 paroli (komuniki) - baxa  
@@ -1233,7 +1235,7 @@ projektori (videotykki, piirtoheitin) - lancografer
 proksima - karibi  
 promeni (marŝi) - marcu  
 promeno (marŝo) - marce  
-promesi - vada  
+promesi - voda  
 prometio - prometium  
 pronomo - visloge  
 propra (partiklo de posedo) - du  
@@ -1548,7 +1550,8 @@ uzi - uza
 ##v
 vaginito - vaginitis  
 vagino - vagine  
-valo - vale  
+valo - vade  
+valoro - vale  
 vaporo - suygase  
 varma - garmi  
 vato - vate  
@@ -1579,6 +1582,7 @@ via (cia) - ti
 viando - manse  
 vic- - visi  
 vidi (rigardi) - vida  
+vidvo - vidove  
 vikia artikulo - vike  
 vikio - vikia  
 vilaĝo - ruste  

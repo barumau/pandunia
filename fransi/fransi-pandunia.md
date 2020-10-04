@@ -102,6 +102,7 @@ aéroport - airporte
 aïe! - ay  
 ##b
 babord - botolefte  
+backgammon - narde  
 bagage - bagaje  
 baie - baye  
 baie - bere  
@@ -495,6 +496,7 @@ libellule - libele
 libre - huri  
 lichen - algofunge  
 lieu - loke  
+ligne - linye  
 lime (citron vert) - kagazolimone  
 lire - duga  
 liste - liste  
@@ -588,9 +590,11 @@ neuf (9) - navi
 neurone - neursele  
 niche - nixe  
 nid - nizde  
+niveau - pare  
 noir - cerni  
 noit - noce  
 nombre (numéro) - nombre  
+nombre pair - pari nombre  
 non (ne...pas) - no  
 nord - norde  
 nostalgie - nostalgia  
@@ -639,6 +643,7 @@ oxyde - okside
 pacifiste - paciste  
 page - varkolate  
 pain - pang (pange)  
+pair (pareil) - pari  
 paix - pace  
 palais (château, manoir) - daydome  
 pamplemousse - putavlimone  
@@ -726,6 +731,7 @@ projectile - lancovute
 projection - lancografe  
 projet - projete  
 projeter (donner) - lancografa  
+promettre - voda  
 propriété (possession, bien) - malke  
 prune - plume  
 prune de Java - jambule  
@@ -879,7 +885,7 @@ tremper (faire mariner) - purxipa
 tribord - botoraite  
 trois (3) - tini  
 tropique - garmozone  
-truite - samone  
+truite - salmone  
 truite arc-en-ciel - rangarkosamone  
 truite brune (truite de mer) - brunsamone  
 tu - te  
@@ -900,6 +906,8 @@ uranium - uranium
 ##v
 vagine - vagine  
 vaginite - vaginitis  
+valeur - vale  
+vallée (oued) - vade  
 vampire - vampire  
 vampire des abysses - vampirbalsenter  
 vapeur d’eau - suygase  
@@ -914,6 +922,7 @@ verre - kance
 verre coloré - rangi kance  
 verrue - zeyile  
 vert - lugi  
+veuve - vidove  
 viande - manse  
 vie - jive  
 vieux (âgé, ancien) - lavi  
@@ -937,6 +946,7 @@ voyelle - jungofone
 vrai - veri  
 vulve - vulve  
 végétarien - vejetyamiste  
+vœu (promesse) - vode  
 ##w
 wolof - volofi  
 ##x
@@ -958,6 +968,7 @@ zèbre - zebre
 écrire - kitaba  
 écriture - kitabe  
 écureuil - ekore  
+égal (même) - sami  
 électricité - eletre  
 élevage - hevanjenisia  
 élever - jenisa  
@@ -978,9 +989,9 @@ zèbre - zebre
 étoile - xinge  
 étymologie - logaslia  
 été - lete  
+évaluer - vala  
 évangile - evanjile  
 éveillé - veki  
 être - esa  
 être couché - kuxu  
 être humain - insan (insane)  
-मुक्त (आज़ाद) - <U+##E>  

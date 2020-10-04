@@ -581,9 +581,6 @@ duve - rukous
 duxe - suihku  
 e - ja  
 ##e
-egali - tasapuolinen (reilu)  
-egalolinye - päiväntasaaja  
-egalolinyi ginia - Päiväntasaajan Guinea  
 eglise - kirkko  
 ekia - luonto  
 ekolojia - ekologia (ympäristötiede)  
@@ -993,6 +990,7 @@ humuse - kikherne
 humusosos - hummus  
 hura - vapauttaa  
 hurargente - elohopea  
+huri - vapaa  
 huria - vapaus  
 huriste - liberalisti  
 huristi - liberaali (vapaamielinen)  
@@ -1819,6 +1817,7 @@ nanase - ananas
 nanmetre - nanometri  
 nano- - nano-  
 narake - helvetti  
+narde - backgammon  
 nase - kansa  
 nasi - kansallinen  
 nasi socistia - kansallissosialismi  
@@ -1830,7 +1829,7 @@ natre - natrium
 nauria - Nauru  
 navati - nahuatli  
 navi - yhdeksän  
-navomese - syyskuu  
+navmese - syyskuu  
 nederlandi antilia - Alankomaiden Antillit  
 nederlandia - Alankomaat (Hollanti)  
 nefre - munuainen  
@@ -2012,8 +2011,10 @@ parce - palanen (murunen, riekale, sirpale)
 parci - rikki (palasina)  
 parde - verhot  
 pardon (pardone) - anteeksi  
-pare - vertainen  
-pari - vertainen  
+pare - taso  
+pari - tasainen (tasavertainen)  
+pari nombre - parillinen luku  
+parike - vertainen  
 parke - tarha (puisto)  
 parta - osallistua  
 parter - osallistuja  
@@ -2334,12 +2335,13 @@ salvadoria - El Salvador
 samane - taivas  
 samdexi - samanmaalainen (maanmies)  
 samemose - myötätunto (sympatia)  
-sami - sama  
+sami - sama (yhtäläinen)  
 samname - homonyymi  
 samovia - Samoa  
 samraya - olla samaa mieltä  
 samraye - yhteisymmärrys  
 samseksi - homoseksuaali  
+samsifi - samanlainen  
 samuna - yhdistää  
 samune - yhdistys (sidos)  
 sanduice - voileipä  
@@ -2671,13 +2673,15 @@ uza - käyttää
 uzbekia - Uzbekistan  
 uzer - käyttäjä  
 ##v
-vada - luvata  
+vade - laakso  
 vaf (vafe) - koira  
 vagine - emätin (vagina)  
 vaginitis - emätintulehdus  
 vakila - edustaa  
 vaksine - rokote  
-vale - laakso  
+vala - arvottaa  
+vale - arvo  
+valu - olla jkn arvoinen  
 vana - viihdyttää (huvittaa)  
 vanadium - vanadiini  
 vane - huvi (hauskuus)  
@@ -2726,6 +2730,7 @@ vi - tuo (nuo)
 vida - nähdä  
 vide - näkymä  
 vidomaidane - näkökenttä  
+vidove - leski  
 vidu - näkyä  
 vieti - vietnamilainen  
 vietia - Vietnam  
@@ -2752,6 +2757,8 @@ vize - viisumi
 vizita - vierailla  
 vizite - vierailu (visiitti)  
 viziter - vierailija (vieras)  
+voda - luvata (vannoa)  
+vode - lupaus (vala)  
 vodun - voodoo  
 vola - haluta  
 vole - halu (toive)  
@@ -2888,6 +2895,8 @@ zemgrafia - kartogratia
 zemia - Maapallo  
 zemlaskeria - maavoimat  
 zemomedi haye - Välimeri  
+zemparlinye - päiväntasaaja  
+zemparlinyi ginia - Päiväntasaajan Guinea  
 zemsisme - maanjäristys  
 zemtike - tontti (maakaistale)  
 zeyile - syylä  

@@ -408,7 +408,6 @@ duve - preĝo
 duxe - duŝo  
 e - kaj  
 ##e
-egali - egala  
 eglise - preĝejo  
 ekia - naturo  
 ekore - sciuro  
@@ -694,6 +693,7 @@ horvatia - Kroatio
 hotel (hotele) - hotelo  
 hule - vulpo  
 hura - liberigi  
+huri - libera  
 huria - libereco  
 huxi - agrabla  
 ##i
@@ -1224,6 +1224,8 @@ papaye - papajo
 pape - patro  
 parce - ero  
 parde - kurteno  
+pare - nivelo  
+pari nombre - para nombro  
 parke - parko (ĝardeno)  
 parta - partopreni  
 partia - partio  
@@ -1560,10 +1562,10 @@ uranium - uranio
 urse - urso  
 uza - uzi  
 ##v
-vada - promesi  
+vade - valo  
 vagine - vagino  
 vaginitis - vaginito  
-vale - valo  
+vale - valoro  
 vana - amuzi  
 vane - amuzo  
 vani - amuza  
@@ -1591,6 +1593,7 @@ versione - versio (toisinto)
 vespe - abelo aŭ vespo  
 vi - tiu  
 vida - vidi (rigardi)  
+vidove - vidvo  
 vike - vikia artikulo  
 vikia - vikio  
 vil (vilo) - estonte  
@@ -1603,6 +1606,7 @@ visloge - pronomo
 vizita - vizito  
 vizite - viziti  
 viziter - vizitanto  
+voda - promesi  
 vola - voli  
 vole - volo  
 volfe - lupo  
