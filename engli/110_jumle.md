@@ -144,10 +144,23 @@ In the example above, **me vola** has **te** as its object.
 At the same time, **te** functions as the subject of the following predicate, **yama sabze**.
 So **te** is the _pivot_ of the entire sentence.
 
-## Verb series
+The first verb in a pivot structure is a modal verb,
+which indicates a modality such as advice, desire, permission or obligation.
+
+**me vola te yama sabze.**
+– I want you to eat vegetables. (desire)  
+**me menta te yama sabze.**
+– I advice you to eat vegetables. (advice)  
+**me halala te yama sabze.**
+– I allow you to eat vegetables. (permission)  
+**me musa te yama sabze.**
+– I compel you to eat vegetables. (obligation)  
+
+
+## Verb series structure
 
 There can be two, three or even more verbs in a series,
-and all of them are about the same subject
+and all of them are about the same subject.
  
 1. **me gova dome.**
    – I go home.  
@@ -156,6 +169,21 @@ and all of them are about the same subject
 3. **me vola abla gova dome.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
+
+The last verb in the series is the main verb.
+The verbs before it are modal verbs,
+which that indicate a modality such as likelihood, ability, advice, permission, desire, or obligation.
+
+**te abla yama sabze.**
+– You can eat vegetables. (ability)  
+**te mentu yama sabze.**
+– You had better eat vegetables. (advice)  
+**te halalu yama sabze.**
+– You may eat vegetables. (permission)  
+**te vola yama sabze.**
+– You want to eat vegetables. (desire)  
+**te musu yama sabze.**
+– You must eat vegetables. (obligation)  
 
 ## Pronoun dropping
 
