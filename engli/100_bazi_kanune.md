@@ -1,4 +1,4 @@
-### 1.3. The basic rules
+# The basic rules of Pandunia
 
 These are the basic rules of Pandunia language.
 They are described in more detail later in this document.
