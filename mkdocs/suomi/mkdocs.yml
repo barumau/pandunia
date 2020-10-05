@@ -15,14 +15,15 @@ nav:
     - 'Tietoa':
         - 'Maailman yhteyskieli': dunia_baxe.md
         - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
+    - 'Kielen periaatteet ja rakenne':
+        - 'Ääntäminen': 102_ABC.md
+        - 'Yleismaailmallinen sanasto': 101_dunia_loge.md
+        - 'Lauserakenteita': 110_jumle.md
     - 'Opiskelu':
-        - 'Ääntäminen': abc.md
         - 'Lauseita': fraze.md
         - 'Kurssi': darse.md
     - 'Sanasto':
-        - 'Maailman sanastot': dunia_loge.md
         - 'Pandunia-suomi': pandunia-suomi.md
         - 'Suomi-pandunia': suomi-pandunia.md
         - 'Alkuperäsanasto': leksaslia.md
-    - 'Kielioppi': kanun.md
 
