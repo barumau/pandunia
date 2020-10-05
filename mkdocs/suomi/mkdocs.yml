@@ -4,9 +4,7 @@ repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
 docs_dir: ../../suomi
 site_dir: ../../html/suomi
-theme:
-  name: cerulean
-  language: fi
+theme: readthedocs
 plugins:
     - search:
         lang: fi

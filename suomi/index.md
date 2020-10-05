@@ -1,5 +1,4 @@
-pandunia - koko maailman kieli
-==============================
+# pandunia - koko maailman kieli
 
 ![](http://www.pandunia.info/bandir/bandir.png "Pandunian lippu")
 
@@ -23,10 +22,6 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 
 - [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_darse.html) - Kokeile oppia panduniaa pelkkien kuvien avulla!
 - [Tulkkisanakirja](fraze.md) - Käytännöllisiä lauseita panduniaksi ja suomeksi
-- [Kielioppi](kanun.md)
-- [Ääntäminen](abc.md)
-- [Lauseita](fraze.md)
-- [Oppitunteja](darse.md)
 - [Helppo kurssi](gide.md)
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
