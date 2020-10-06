@@ -3,9 +3,7 @@ site_url: http://www.pandunia.info/fransi
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../fransi
 site_dir: ../../html/fransi
-theme:
-  name: cerulean
-  language: fr
+theme: readthedocs
 plugins:
     - search:
         lang: fr
@@ -14,9 +12,20 @@ nav:
     - 'Info':
         - 'Présentation': dunia_baxe.md
         - 'Principes de fonctionnement': filsofe.md
-        - 'Mots du monde': dunia_loge.md
         - 'Questions et réponses': eske_i_jawabe.md
         - 'Traduire ce site': tarja_netoloke.md
+    - 'Grammaire':
+        - 100_bazi_kanune.md
+        - 101_dunia_loge.md
+        - 102_ABC.md
+        - 104_namloge.md
+        - 105_sifloge.md
+        - 106_modologe.md
+        - 107_numloge.md
+        - 108_visloge.md
+        - 109_karloge.md
+        - 110_jumle.md
+        - 111_logobine.md
     - 'Leçons':
         - 'Écriture et prononciation': abc.md
         - 'Phrases courantes': fraze.md

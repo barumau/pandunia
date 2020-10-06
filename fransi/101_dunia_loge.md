@@ -1,5 +1,4 @@
-Mots du monde
-===========
+# Mots du monde
 
 Cultures du monde
 ---------------------
