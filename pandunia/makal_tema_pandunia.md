@@ -1,9 +1,10 @@
-# makal tema pandunia
+# makale tema pandunia
 
 ## sa engli bax
 
-- [Pandunia, a global contact language](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf). Interlinguistica Tartuensis, 10. 2017. tartu, estia.
+- [Pandunia, a global contact language](https://dea.digar.ee/cgi-bin/dea?a=d&d=JVinterlinguisticatrt201705.2.5.2.4). Risto Kupsala. 2017. Interlinguistica Tartuensis, 10. tartu, estia.
 - [Applying Conlangs to the Natural Languages Generation Based on Generative Grammars](http://scjournal.ru/articles/issn_1997-2911_2016_12-3_35.pdf). D.V. Lichargin et al. 2016. krasnoyarsk, rusia.
+- [Artificial Languages](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-11). Alan Reed Libert. 2018. Oxford Research Encyclopedias Linguistics. New York: Oxford University Press.
 - [Terms for Bodies of Water in A Posteriori and Mixed Artificial Languages](http://s3.amazonaws.com/academia.edu.documents/39789548/JUL2015fall_Libert___Moskovsky.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1498078623&Signature=uGDbvzaTsiPSh1hAozL5h53G%2B24%3D&response-content-disposition=inline%3B%20filename%3DTerms_for_Bodies_of_Water_in_A_Posterior.pdf). A.R. Libert & C. Moskovsky. 2015. University of Newcastle, Australia.
 
 ## sa suomi bax
