@@ -303,6 +303,7 @@ cuza - elekti
 cuze - elekto  
 ##d
 da - de (partiklo de posedo)  
+da - kiu (komencigas relativan frazon)  
 dade - ĵetkubo  
 daixer - ambasadoro  
 daixeria - ambasado  

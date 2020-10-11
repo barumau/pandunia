@@ -3212,6 +3212,7 @@ thallium - talium
 than (as, compared to) - ko  
 thank - danka  
 thanks (thank you) - danke  
+that (function word to introduce a relative clause) - da  
 that (those) - vi  
 that is (in other words, i.e., alias) - alnamo  
 that one - ve  

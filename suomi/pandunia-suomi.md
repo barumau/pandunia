@@ -427,6 +427,7 @@ cutomun - uloskäynti
 cuza - valita  
 cuze - valinta (vaali)  
 ##d
+da - joka (sivulauseen aloittava sana)  
 da - omistetun omistajaan liittävä partikkeli  
 dade - noppa (arpakuutio)  
 daixer - lähettiläs  

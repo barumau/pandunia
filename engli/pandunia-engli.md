@@ -526,6 +526,7 @@ cuzable - option (choice)
 cuze - choice (election, selection)  
 ##d
 da - of (particle of possession)  
+da - that (function word to introduce a relative clause)  
 dade - die (dice)  
 daixer - ambassador  
 daixeria - embassy  

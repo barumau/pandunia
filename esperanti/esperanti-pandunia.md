@@ -710,6 +710,7 @@ kio? - ke
 kio? - ki xey  
 kiom? - ko multo  
 kiso - cume  
+kiu (komencigas relativan frazon) - da  
 kiu? - ki ren  
 kivo - kive  
 klara - klari  

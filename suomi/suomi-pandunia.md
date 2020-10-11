@@ -675,6 +675,7 @@ jodi - iode
 johtaa - lida  
 johtaja (pomo) - lider  
 joka (jokainen) - mey (meyi)  
+joka (sivulauseen aloittava sana) - da  
 jokainen asia - pan xey  
 jokainen ihminen - pan ren  
 joki (virta) - nade  
