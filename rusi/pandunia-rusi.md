@@ -1,9 +1,8 @@
 # pandunia-rusi
 ##a
-abace - алфавит  
 abite - пихта  
 abli - возможный  
-aciya - чихать  
+acua - чихать  
 adali - справедливый  
 adalia - справедливость  
 adrese - адрес  
@@ -17,6 +16,8 @@ ajili - подвижный
 akare - клещ (лепта)  
 akse - ось  
 aksente - ударение  
+aksesabli - доступный  
+aksese - доступ  
 ala - изменять  
 alge - водоросли  
 algofunge - лишай  
@@ -120,6 +121,7 @@ bekopote - терракота
 bele - лопата  
 bere - ягода  
 berje - берёза  
+bete - свёкла  
 bile - счёт  
 bina - строить  
 bire - пиво  
@@ -179,6 +181,7 @@ cokolate - шоколад
 coye - зелень  
 ##d
 dalile - доказательство  
+damaje - повреждение  
 danga - звенеть  
 danger - звонок  
 danse - танец  
@@ -310,6 +313,7 @@ hami - важный (значимый)
 hamili - беременный  
 hande - рука  
 handoxake - рукав  
+harfia - алфавит  
 hatre - опасность  
 hayalge - морские водоросли  
 haye - море  
@@ -348,6 +352,7 @@ iode - йод
 ironia - ирония  
 itis (itise) - воспаление  
 ive - тенденция  
+izia da aksese - доступность  
 ##j
 jambule - джамболан  
 jana - знать  
@@ -413,22 +418,25 @@ karsi - грубой
 karsolimone - лима (каффир-лайм)  
 kaske - оболочка (кора, панцирь)  
 katane - меч  
+katoglutobanze - буфер обмена  
 katuse - кактус  
 kava - копать  
 kave - яма  
 ke - что  
 kenarbaryer - забор (ограда)  
-kimia - химия  
+kimlojia - химия  
 kingrafe - фильм (кино)  
 kitaba - писать  
 kitabe - письмо  
 kitabia - библиотека  
 kitabomaxine - пишущая машинка  
 kitabominister - библиотекарь  
+kliene - клиент (покупатель, зака́зчик)  
 klime - климат  
 klimomute - изменение климата  
 ko - чем  
 ko? - как  
+komandolinye - командная строка  
 komputer - компьютер  
 koncunge - насекомое  
 konga - пробиться  
@@ -554,7 +562,6 @@ memnote - меморандум
 mese - месяц  
 mester - мастер  
 metalbede - наковальня  
-metre - метр  
 meze - стол  
 migre - миграция  
 migru - переезжать  
@@ -564,6 +571,7 @@ minte - мята
 mirdi - слабый  
 misalo - например  
 misria - Египет  
+mitre - метр  
 mixa - мешать  
 mixi alkole - коктейль  
 moke - дерево  
@@ -584,6 +592,7 @@ mumomelone - восковая тыква (зимняя дыня)
 muskulbine - культуризм  
 ##n
 nade - река  
+najise - грязь (скверна)  
 namkitaba - подписать  
 narde - нарды (триктрак)   
 nasia - нация  
@@ -667,6 +676,7 @@ pike - вершина
 pikosape - киркомотыга  
 pine - булавка (игла, шип)  
 pinkardone - татарник колючий  
+pinsobanze - планшет  
 pipre - перец  
 piprominte - мята перечная  
 pise - ель  
@@ -727,6 +737,8 @@ sale - соль
 samane - небо  
 samanonili - голубой  
 samemose - сострадание  
+sammetri - симметричный  
+sammetria - симметрия  
 samraye - согласие  
 samsifia - симуляция  
 sanduice - сандвич  
@@ -892,6 +904,7 @@ xixmanse - шашлык
 xofer - шофёр  
 xopa - покупать (купить)  
 xope - покупка (шоппинг)  
+xova - доказать (демонстрировать)  
 xukarbete - сахарная свёкла  
 xukare - сахар  
 xukargrase - сахарный тростник  
@@ -914,6 +927,7 @@ zarduxiste - зороастризм
 zebre - зебра  
 zemgrafe - карта  
 zemgrafia - картография  
+zemmetria - геометрия  
 zemnici prizone - ублиет (подземная тюрьма)  
 zeyile - бородавка  
 zeze - муха  

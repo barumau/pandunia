@@ -10,8 +10,12 @@ Abyssinia - habaxia
 Abyssinian - habaxi  
 accent (stress) - aksente  
 accept (say okay) - okeya  
+access (admission, accessibility) - aksese  
+access (reach, enter) - aksesa  
+accessibility (ease of access) - izia da aksese  
+accessible (within reach) - aksesabli  
 accommodate - domisa  
-achoo - aciy  
+achoo - acue  
 acknowledge - resida  
 acorn - balutopale  
 act (play a role) - rola  
@@ -26,6 +30,8 @@ adjective - sifloge
 adult - mature  
 adultery (infidelity) - zine  
 advance (progress, enter) - jina  
+advanced (high-level) - gavo darji  
+advancement (milestone) - jine  
 adventure (venture) - aventure  
 adventurer - aventurer  
 adverb - modologe  
@@ -65,7 +71,7 @@ alligator - kortokrokodile
 allophone - alfone  
 allow (permit) - halala  
 almond - badame  
-alphabet - abace  
+alphabet - harfia  
 already (completed action) - levo  
 also (additionally, plus, too) - maxo  
 altar - altare  
@@ -89,6 +95,7 @@ ampere (amp) - ampere
 amplify (scale) - daytarja  
 ampoule (vial) - ampule  
 amuse (entertain) - vana  
+anaglyphic (stereoscopic) - dulgrafi  
 anal - anusi  
 analyse - analiza  
 analysis - analize  
@@ -178,7 +185,7 @@ aspirin - aspirine
 associate - liga  
 assume (presuppose) - cenaga  
 Assur - axur  
-assure (affirm) - amena  
+assure (affirm, confirm) - amena  
 Assyria - axuria  
 astatine - astatin  
 asthma - asme  
@@ -216,6 +223,7 @@ baby (infant) - bebe
 back - ruke  
 backgammon - narde  
 backpack (rucksack) - rukosake  
+backup - sekuri kopiye  
 backward (in reverse) - retro  
 bad (ruined, destroyed) - harabi  
 bad - mal (mali)  
@@ -241,7 +249,7 @@ bandage (strip, ribbon) - faxe
 Bangladesh - banglodexia  
 Bangladeshi - banglodexi  
 banister (handrail) - langane  
-bank (depository) - banke  
+bank (depository, cache) - banke  
 banker - banker  
 baobab - buye  
 bar (obstruct, block) - barya  
@@ -253,7 +261,7 @@ barbarian - barbare
 barbecue (grill) - kababa  
 Barbuda - barbudia  
 barium - barium  
-barometer - airbarmeter  
+barometer - airbarmetrer  
 barrel (can, cask) - tonge  
 barrier - baryer  
 base (foundation) - baze  
@@ -297,6 +305,7 @@ beef - muhmanse
 beehive (beehouse) - melvesposanduke  
 beehive (honeycomb) - melvesponizde  
 beer - bire  
+beetroot - bete  
 before (in the past) - pas (paso)  
 begin (get started) - kaixu  
 begin (start, commence, initiate) - kaixa  
@@ -350,6 +359,7 @@ bitter - kuvi
 bitter melon - kuvmelone  
 bitter orange - kuvoranje  
 black - cerni  
+blacklist - haramliste  
 blacksmith (iron forger) - metaljanger  
 blast furnace - gavi tanure  
 bleed - lova sang  
@@ -363,6 +373,7 @@ bluet - seramxinge
 board (plank, slab, pane) - banze  
 board game - banzogeme  
 boat (ship) - bote  
+bob up and down - gavtalu  
 bobcat - lalolince  
 bodily (corporal) - badani  
 body - badan (badane)  
@@ -478,6 +489,7 @@ camp - kampe
 camper - kamper  
 can (know, be able) - abla  
 Canada - kanadia  
+cancel (nullify) - nolisa  
 candela - kandele  
 candle - mumfote  
 candy (sweets) - kande  
@@ -527,7 +539,7 @@ cell (biology) - sele
 cement - semente  
 center (concentrate) - junga  
 centi- (per cent) - cent-  
-centimeter (cm) - centometre  
+centimeter (cm) - centomitre  
 central (middle) - jungi  
 Central African Republic - jungafrikia  
 ceramic - serame  
@@ -557,7 +569,7 @@ checkers (draughts) - damogeme
 cheer (hurrah, hooray) - ura  
 cheese - cise  
 chemical - kimi  
-chemistry - kimia  
+chemistry - kimlojia  
 cherry - cerize  
 cherub - kerube  
 chess - xatranje  
@@ -579,7 +591,7 @@ choice (election, selection) - cuze
 choir (chorus) - kore  
 cholera - holere  
 Chongqing - cungcing  
-choose (elect, select) - cuza  
+choose (elect, select, pick) - cuza  
 Christ (messiah) - kriste  
 Christian - krististe  
 Christianity - krististia  
@@ -606,10 +618,13 @@ clean (purify) - safa
 cleaner - safer  
 cleanly (hygienic, sanitary) - hijeni  
 clear (obvious) - klari  
+click (snap) - klika  
 climate - klime  
 climate change - klimomute  
 climatology - klimlojia  
 climb (get on) - eskala  
+clipboard (paste buffer) - katoglutobanze  
+clipboard (physical board) - pinsobanze  
 clock (watch) - reloje  
 clocktower - relojominare  
 clockwise - soldixo  
@@ -660,6 +675,7 @@ comb - kange
 come - laya  
 comic (cartoon) - grafsage  
 comma - kome  
+command line (console, terminal) - komandolinye  
 common (general, universal) - putong (putongi)  
 common (mutual) - koni  
 common (shared) - komuni  
@@ -724,6 +740,8 @@ corner (angle) - gone
 cornflower - nilsentaure  
 corona virus - koronvirus  
 correct (make right) - saha  
+corrupt (pollute, soil, defile, stain, taint) - najisa  
+corruption (filth, pollution, contamination, najis) - najise  
 cosmic - kosmi  
 cost (price) - koste  
 cost - kosta  
@@ -744,6 +762,7 @@ cow - muhe
 crab - krabe  
 crack (rift) - krake  
 crafty (dexterous) - jangi  
+crash (shut down, terminate) - harabu  
 cream - kreme  
 creamy (cream colored) - kremi  
 crepe - fransi krepe  
@@ -782,6 +801,7 @@ curve (bend) - kurbe
 curvy (curved) - kurbi  
 cushion (pillow) - kuxene  
 custom (tradition, practice, convention) - rasme  
+customer (client, patron) - kliene  
 cut - kata  
 cute (sweet) - kavayi  
 cyan - ciani  
@@ -797,6 +817,7 @@ dagger - kanjare
 daimyo oak - dantobalute  
 daisy - margarite  
 damage (injury, harm) - damaje  
+damaged (corrupt) - damaji  
 dance - danse  
 dandelion - makanfule  
 danger (peril) - hatre  
@@ -818,10 +839,12 @@ dead (deceased) - morti
 dear (beloved) - ami  
 death - morte  
 debate (discuss) - lona  
+debug - angalta  
 decay (rot, deteriorate) - pudu  
 December - desdulmese  
 deci- - deco-  
 decibel - decobel  
+decode (decrypt) - ankoda  
 decorate (embellish) - sundardaka  
 decoration (ornament) - sundardake  
 decrement - mindarja  
@@ -870,6 +893,7 @@ dinner - xamyame
 diorite - diorite  
 direction - dixe  
 directly - dixo  
+dirty (soiled, polluted, defiled, tainted, unclean, impure) - najisi  
 disagree - alraya  
 disagreement (disconsent) - alraye  
 disc (disk) - diske  
@@ -951,6 +975,7 @@ earn (gain) - ganya
 earth (ground) - zeme  
 Earth (Terra) - zemia  
 earthquake - zemsisme  
+ease - izia  
 east (orient) - donge  
 East Timor (Timor-Leste) - dongi timoria  
 Easter - paske  
@@ -985,7 +1010,7 @@ emperor - imperer
 empire - imperia  
 empty (void) - kali  
 emulate (simulate, mimic, model) - samsifa  
-encode - koda  
+encode (encrypt) - koda  
 end - fine  
 endonym - indoname  
 enemy (unfriend) - andoste  
@@ -1240,6 +1265,7 @@ generosity (charity) - karimia
 generous (charitable) - karimi  
 genotype - jentipe  
 geology - zemlojia  
+geometry - zemmetria  
 Georgia (Republic of Georgia) - kartuelia  
 German - doici  
 German camomile - kamile  
@@ -1276,7 +1302,7 @@ goat - buze
 god (deity) - deve  
 gold - aure  
 golem - goleme  
-goniometer - gonmeter  
+goniometer - gonmetrer  
 good (in greetings) - salam (salami)  
 good - bon (boni)  
 Good day - salam den  
@@ -1364,7 +1390,8 @@ happy (delighted) - suki
 harbor (seaport) - suyporte  
 hard (tough) - gati  
 hardship (difficulty, challenge) - kunane  
-harmful (damaging) - damaji  
+harm (damage) - damaja  
+harmful (damaging) - damajani  
 harmonious - harmoni  
 harmony - harmonia  
 harness - harnese  
@@ -1625,7 +1652,7 @@ kill - morta
 killer - morter  
 kilo- - kilo-  
 kilogram (kg) - kilgram  
-kilometer (km) - kilmetre  
+kilometer (km) - kilmitre  
 kind (nice, gentle) - jentili  
 kind (style, sort, type) - yange  
 kinetic - kini  
@@ -1712,6 +1739,8 @@ let's - haida
 letter (character, written symbol) - harfe  
 lettuce - letise  
 level - pare  
+level down - talo darju  
+level up (graduate) - gavo darju  
 lever - tirbatone  
 lexeme - logeme  
 lexical - logi  
@@ -1899,7 +1928,7 @@ mean (cruel) - zalimi
 mean (signify) - mena  
 meaning (signification) - mene  
 measure (take measurements) - meta  
-measurement - mete  
+measurement - metre  
 meat (flesh) - manse  
 Mecca - makah  
 medallion (medal) - medale  
@@ -1929,7 +1958,7 @@ message - anjile
 messenger - anjiler  
 messianic - kristi  
 metal - metale  
-meter (## cm) - metre  
+meter (## cm) - mitre  
 method (means) - metode  
 Mexico - mexikia  
 Mexico City - mexikia site  
@@ -1967,7 +1996,7 @@ minute - minute
 mirror - mirer  
 misfortune (bad luck) - mal zare  
 mission (transmission, emission) - misia  
-mistake (error, fault) - galte  
+mistake (error, fault, bug) - galte  
 misunderstand - galto buda  
 mix (blend) - mixa  
 mixer (blender) - mixer  
@@ -2342,8 +2371,9 @@ peripheral - kenari
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
 person (people) - ren (rene)  
-personal (intimate, private) - auti  
+personal (intimate, private, custom) - auti  
 personal identification number (PIN) - sekurnombre  
+personalize (customize) - auta  
 perspective (point of view) - vidopunte  
 Peru - peruvia  
 petroleum - petronefte  
@@ -2376,6 +2406,7 @@ pierce (perforate, bore) - konga
 pig - gurube  
 pilaf (pulao) - polave  
 pilot - piloter  
+pinch - pinsa  
 pine tree - songe  
 pineapple - nanase  
 pink (rosy) - rozorangi  
@@ -2761,7 +2792,7 @@ saw - sere
 say (speak) - loga  
 scaffolding (gangplank) - futobanze  
 scale (flake) - xalke  
-scales (weighing device) - barmeter  
+scales (weighing device) - barmetrer  
 scandium - skandium  
 scarcity - xavia  
 scarf (shawl) - xale  
@@ -2862,7 +2893,7 @@ shorten - korta
 should (ought) - xudu  
 shoulder - kante  
 shovel (spade, scoop) - bele  
-show (display) - xova  
+show (display, demonstrate) - xova  
 show (display, exhibition) - xove  
 shower - duxe  
 shrimp (prawn) - krevete  
@@ -2918,7 +2949,7 @@ smoothen with a plane - randa
 snack - lilyame  
 snake (serpent) - serpe  
 sneak - siro motu  
-sneeze - aciya  
+sneeze - acua  
 sniper (sharpshooter) - justopaver  
 snow (be snowing) - himu  
 snow - hime  
@@ -3001,6 +3032,7 @@ Sri Lanka (Ceylon) - lankia
 stadium (arena) - estadia  
 stage (phase) - faze  
 stage (scene) - sene  
+stain (spot) - najisbinde  
 stained glass - rangi kance  
 stairs (ladder) - eskale  
 stand (rack) - libobaze  
@@ -3018,6 +3050,7 @@ steam (vapor) - suygase
 steamed bun (mantou, manti) - mante  
 stem (torso, trunk, stalk) - tane  
 step (degree, rank, grade, level, class) - darje  
+stereophonic - dulsondi  
 stick (adhere, paste, glue) - gluta  
 sticky (ahesive) - gluti  
 still (yet) - yexo  
@@ -3094,6 +3127,8 @@ sweet orange - xukaroranje
 sweet potato - kamote  
 Switzerland - suisia  
 sword - katane  
+symmetrical - sammetri  
+symmetry - sammetria  
 Syria - suria  
 syrup - xirope  
 system - sisteme  
@@ -3342,7 +3377,7 @@ United States of America (USA) - usamerikia
 university - daydarsia  
 unlock - ansora  
 unlocked - ansori  
-unnecessary (extraneous, unneeded) - anonidi  
+unnecessary (extraneous, unneeded) - annidi  
 unplug (uncork) - antapa  
 unrest - anpace  
 until (til, up to) - ata  
@@ -3354,6 +3389,7 @@ Uranus - urane
 urban - nagri  
 Urdu - urdi  
 Uruguay - uruguayia  
+usable (available) - uzabli  
 use (employ, apply) - uza  
 use (utility, benefit, gain, advantage) - faidia  
 useful (beneficial) - faidi  
@@ -3386,6 +3422,7 @@ Venus - venus
 veranda (balcony, terrace, porch) - berande  
 verb - karloge  
 verbal irony (sarcasm) - logironia  
+verify (authenticate) - vera  
 version (variation, edition) - versione  
 vertical - gavtali  
 vice (deputy) - visi  
@@ -3478,6 +3515,7 @@ when? - ki sate
 where - sa ke  
 which? - ki  
 white - baki  
+whitelist - halaloliste  
 who? - ki ren  
 whole (entire) - holi  
 wholeness (integrity) - holia  

@@ -7,7 +7,6 @@
 -u - sufijo para verbos con el orden de las palabras OVS  
 a - pero  
 ##a
-abace - alfabeto  
 abite - abeto  
 abla - poder  
 able - habilidad  
@@ -15,8 +14,8 @@ abli - posible
 ablo - posiblemente  
 acinium - actinio  
 acion (acione) - acción  
-aciy - achís  
-aciya - estornudar  
+acua - estornudar  
+acue - achís  
 adali - justo  
 adalia - justicia  
 ade - costumbre (hábito)  
@@ -31,7 +30,7 @@ agresi - agresivo
 aha - entender (comprender)  
 ainstainium - einsteinium  
 airbare - presión atmosférica  
-airbarmeter - barómetro  
+airbarmetrer - barómetro  
 aire - aire  
 airgune - fuerza aérea  
 airia - Irlanda  
@@ -49,6 +48,9 @@ ajili - ágil
 akare - garrapata (ácaro)  
 akse - eje  
 aksente - acento  
+aksesa - acceder  
+aksesabli - accesible  
+aksese - acceso  
 ala - cambiar (demudar)  
 alaskia - Alaska  
 alfone - alófono  
@@ -91,6 +93,7 @@ andesite - andesita
 andeviste - ateo  
 andiniste - infiel (descreído)  
 andoria - Andorra  
+angalta - depurar  
 angolia - Angola  
 anima - animar  
 anime - animación (dibujo animado)  
@@ -100,7 +103,7 @@ anjile - mensaje
 anjiler - mensajero  
 anker - ancla  
 anmema - olvidar  
-anonidi - innecesario  
+annidi - innecesario  
 anromansi - arromántico  
 anseksi - asexual  
 antapa - desatascar  
@@ -165,8 +168,9 @@ auda - oír (escuchar)
 aure - oro  
 auroranje - kumquat (quinoto)  
 australia - Australia  
+auta - personalizar  
 aute - mismo (yo)  
-auti - personal (privado)  
+auti - personal (privado, a medida)  
 automoti - automotor (automotriz)  
 autonomi - autónomo  
 autonomia - autonomía  
@@ -245,7 +249,7 @@ barka - felicitar
 barke! - ¡Felicitaciones!  
 barkoke - albaricoque  
 barmetale - metal pesado  
-barmeter - pesa (báscula, balanza)  
+barmetrer - pesa (báscula, balanza)  
 barti - indio (hindú)  
 barti haye - océano Índico  
 bartia - India  
@@ -310,6 +314,7 @@ berilium - berilio
 berje - abedul  
 berkelium - berkelio  
 bermudia - Bermuda  
+bete - remolacha  
 betone - concreto (hormigón)  
 beyu - sufrir (verbo pasivo)  
 biblia - Biblia  
@@ -444,7 +449,7 @@ cenge - capa (piso, planta, estrato)
 ceni - previo (anterior)  
 ceno - más temprano (antes)  
 cent- - centi- (por ciento)  
-centometre - centímetro  
+centomitre - centímetro  
 cenvida - prever (esperar, pensar)  
 cerium - cerio  
 cerize - cereza  
@@ -497,8 +502,10 @@ daka - cubrir (tapar)
 dake - tapa (funda, cubierta)  
 dalila - probar (demonstrar, comprobar)  
 dalile - prueba  
-damaje - daño  
-damaji - dañino (perjudicial)  
+damaja - dañar  
+damajani - dañino (perjudicial)  
+damaje - daño (corrupción)  
+damaji - dañado  
 damogeme - damas  
 dane - partícula (grano, bala)  
 danger - campana (cencerro)  
@@ -941,6 +948,7 @@ gave - alto (parte de arriba)
 gavi - alto  
 gavia - altura (altitud)  
 gavtali - vertical  
+gavtalu - inclinar  
 gavu - subir (alzar)  
 gayania - Guyana  
 gaze - gasa  
@@ -972,7 +980,7 @@ gola - destinar
 gole - meta (gol, destinación)  
 gome - goma (caucho, hule)  
 gone - esquina (rincón, ángulo)  
-gonmeter - goniómetro (medidor de ángulos)  
+gonmetrer - goniómetro (medidor de ángulos)  
 gorile - gorila  
 gotone - algodón  
 gova - ir  
@@ -1037,6 +1045,7 @@ hakime - fallo (juicio, criterio)
 hakimer - juez (árbitro, réferi)  
 halala - permitir (dejar)  
 halali - permitido (admisible)  
+halaloliste - lista blanca  
 hale - estado (condición)  
 halela - elogiar (alabar, exaltar)  
 halife - califa  
@@ -1054,9 +1063,12 @@ handoxake - brazo
 haose - caos (desorden)  
 haraba - arruinar (destruir, devastar, asolar)  
 harabi - arruinado (devastado, asolado)  
+harabu - bloquearse (colgarse, fallar)  
 harama - prohibir  
 harami - prohibido (tabú)  
+haramliste - lista negra  
 harfe - letra (carácter)  
+harfia - alfabeto  
 harmoni - armonioso  
 harmonia - armonía  
 harnese - arnés (arreos, jaeces)  
@@ -1222,6 +1234,8 @@ itis (itise) - inflamación
 iva - tender  
 ive - tendencia  
 izi - fácil  
+izia - facilidad  
+izia da aksese - fácil acceso (accesibilidad)  
 ##j
 jake - chaqueta  
 jama - recoger (juntar, reunir, acumular, recolectar, montar)  
@@ -1416,6 +1430,7 @@ kata - cortar
 katalunia - Cataluña  
 katane - espada  
 kataria - Catar (Qatar)  
+katoglutobanze - portapapeles  
 katuse - cacto  
 kaukasia - Cáucaso  
 kava - cavar (excavar)  
@@ -1460,10 +1475,10 @@ ki xey - cuál cosa
 ki yangi - qué tipo de  
 kilgram - kilograma  
 kili - mil  
-kilmetre - kilometre  
+kilmitre - kilometre  
 kilo- - kilo-  
 kimi - químico  
-kimia - química  
+kimlojia - química  
 kina - mudar (transferir, traspasar, trasladar)  
 kine - movimiento  
 kingrafe - película (filme)  
@@ -1488,6 +1503,7 @@ klara - aclarar (clarificar)
 klari - claro  
 klasa - clasificar  
 klase - clase (categoría)  
+kliene - cliente  
 klime - clima  
 klimlojia - climatología  
 klimomute - cambio climático  
@@ -1515,6 +1531,7 @@ kolume - columna
 komali - blando (mullido)  
 komanda - mandar (ordenar)  
 komande - orden (mando, comando)  
+komandolinye - interfaz de línea de comandos  
 kome - coma  
 komori nesia - Comoros  
 kompania - compañía (empresa, corporación)  
@@ -1944,9 +1961,8 @@ meta - medir (tomar las medidas)
 metalbede - yunque  
 metale - metal  
 metaljanger - herrero  
-mete - medida  
 metode - método  
-metre - metro  
+metre - medida  
 mexikia - México  
 mexikia site - Ciudad de México  
 mey (meyi) - cada  
@@ -1996,6 +2012,7 @@ misri - egipcio
 misria - Egipto  
 mita - encontrar  
 mite - reunión (junta, mitin)  
+mitre - metro  
 mixa - mezclar  
 mixer - batidora (licuadora, mezcladora)  
 mixi alkole - cóctel  
@@ -2086,6 +2103,10 @@ nagre - pueblo
 nagri - urbano  
 nahune - uña  
 naijiria - Nigeria  
+najisa - corromper (contaminar)  
+najisbinde - mancha  
+najise - contaminación (corrupción, porquería, suciedad)  
+najisi - sucio (corrompido)  
 nam (name) - nombre  
 namibia - Namibia  
 namisa - llamar (poner)  
@@ -2172,6 +2193,7 @@ nol (noli) - cero (ninguno)
 nol ban - nunca  
 nol ren - ningunos  
 nol xey - nada  
+nolisa - cancelar  
 noma - dirigir (gestionar, administrar)  
 nombra - contar  
 nombre - número  
@@ -2383,6 +2405,7 @@ pine - alfiler (espina, aguja)
 pinguine - pingüino  
 pinkardone - cardo borriquero  
 pinser - alicate  
+pinsobanze - tabla con pinza (carpeta con sujetapapeles)  
 pipe - tubo (caño)  
 pipinga - criticar (evaluar)  
 pipinge - evaluación (crítica)  
@@ -2690,6 +2713,8 @@ samarium - samario
 samdexi - compatriota  
 samemose - compasión  
 sami - equal (similar)  
+sammetri - simétrico  
+sammetria - simetría  
 samname - homónimo  
 samovia - Samoa  
 samraya - acordar  
@@ -2737,6 +2762,7 @@ sekunde - segundo
 sekundometer - cronómetro  
 sekura - proteger (asegurar, guardar)  
 sekuri - seguro  
+sekuri kopiye - copia de seguridad  
 sekurkode - contraseña  
 sekurnombre - número de identificación personal  
 sele - célula  
@@ -3100,6 +3126,7 @@ usameriki samoa - Samoa Americana
 usameriki virjin nesia - Islas Vírgenes  
 usamerikia - Estados Unidos de América  
 uza - usar (aplicar)  
+uzabli - utilizable (disponible)  
 uzbekia - Uzbekistán  
 uzer - usuario  
 uzernam - nombre de usuario  
@@ -3165,6 +3192,7 @@ vene - anillo
 venezolia - Venezuela  
 venjovoranje - unshu mikan  
 venus - Venus  
+vera - autenticar  
 veri - verdadero  
 verme - verme  
 versione - versión (modelo)  
@@ -3363,6 +3391,7 @@ zemia - Tierra
 zemkaski plate - placa tectónica  
 zemlaskeria - ejército  
 zemlojia - geología  
+zemmetria - geometría  
 zemnici - subterráneo  
 zemnici prizone - mazmorra  
 zemomedi haye - Mediterráneo  

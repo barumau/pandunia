@@ -30,7 +30,7 @@ Alaska - alaskia
 Albania - cipia  
 ale, lecz - a  
 alfabet łaciński, łacinka, alfabet rzymski - latini abace  
-alfabet, abecadło - abace  
+alfabet, abecadło - harfia  
 alga (wodorost) - alge  
 algebra - jebria  
 Algieria - jayeria  
@@ -74,7 +74,7 @@ antonim - fanoname
 antychryst - fankriste  
 Antyle Holenderskie - nederlandi antilia  
 antymon - estibium  
-apsik - aciy  
+apsik - acue  
 Arabia Saudyjska - saudi arabia  
 arabski - arabi  
 arachnofobia - aranfobia  
@@ -150,7 +150,7 @@ Barbuda - barbudia
 bardziej - max (maxo)  
 bariera - baryer  
 bark (ramię) - kante  
-barometr - airbarmeter  
+barometr - airbarmetrer  
 barwnik - rangomate  
 basen - basene  
 bateria - batre  
@@ -245,6 +245,7 @@ budynek (struktura) - bine
 budżet - bujete  
 bufet (szwedzki stół) - bufete  
 bulwa - masmule  
+burak - bete  
 burak cukrowy - xukarbete  
 Burkina Faso - burkinia  
 Burundi - rundia  
@@ -296,7 +297,7 @@ cenny - bavi
 centralny (środkowy) - jungi  
 centrować, skupić, skupiać - junga  
 centy-, procent, na sto, setna część - cent-  
-centymetr - centometre  
+centymetr - centomitre  
 cer - cerium  
 ceramika - serame  
 Ceres (planeta karłowata) - seres  
@@ -307,7 +308,7 @@ chaos, nieporządek; wrzawa, zgiełk - haose
 chcieć (pragnąć) - ica  
 chcieć, pragnąć - vola  
 chciwy (żądny) - tami  
-chemia - kimia  
+chemia - kimlojia  
 chemiczny - kimi  
 cherubin - kerube  
 Chile - cilia  
@@ -710,7 +711,7 @@ gniazdo (ul, nora, jama, barłóg, legowisko) - nizde
 gniew, furia - furia  
 godzina - hore  
 golem - goleme  
-goniometr (kątomierz) - gonmeter  
+goniometr (kątomierz) - gonmetrer  
 gorbusza - rozosamone  
 goryl - gorile  
 goryl wschodni - dongogorile  
@@ -1049,7 +1050,7 @@ keczup - kecape
 kelwin - kelvine  
 Kenia - kenia  
 keta - bakosamone  
-kichać (kichnąć) - aciya  
+kichać (kichnąć) - acua  
 kiedy? - ko?  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - kanala  
 kierunek - dixe  
@@ -1058,7 +1059,7 @@ kiełbasa - sosise
 kilo- - kilo-  
 kilof - pikosape  
 kilogram (kg) - kilgram  
-kilometr - kilmetre  
+kilometr - kilmitre  
 kinematografia - kingrafia  
 kino - kingrafe  
 kinowy - kingrafi  
@@ -1209,7 +1210,7 @@ krzak (krzew) - tali moke
 krzem - silike  
 krzemień - hogoxeke  
 krzyknąć, krzyczeć - krita  
-krzywdzący (szkodliwy) - damaji  
+krzywdzący (szkodliwy) - damajani  
 krzyż - kruse  
 król - mani rajer  
 król lub królowa - rajer  
@@ -1457,9 +1458,9 @@ mesjański - kristi
 metal - metale  
 metal ciężki - barmetale  
 metoda, sposób - metode  
-metr - metre  
+metr - mitre  
 metro - tuneltren  
-miara - mete  
+miara - metre  
 miast, miasteczko - site  
 miasto - nagre  
 miecz - katane  
@@ -1686,7 +1687,7 @@ niemowlę - bebe
 nienawidzić - hene  
 niepewny (podejrzliwy, niedowierzący) - duti  
 niepokój - anpace  
-niepotrzebny - anonidi  
+niepotrzebny - annidi  
 nieskończoność - anlimitia  
 niespodziewany - ancenvidi  
 nietoperz - feymuxe  
@@ -3061,7 +3062,7 @@ w innym wypadku (inaczej) - alo
 w przyszłości - vil (vilo)  
 ##w
 waga (ciężkość) - baria  
-waga (urządzenie ważące) - barmeter  
+waga (urządzenie ważące) - barmetrer  
 wagina - vagine  
 Walia - kamria  
 walijski - kamri  

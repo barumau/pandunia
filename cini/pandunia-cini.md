@@ -1,11 +1,10 @@
 # pandunia-cini
 ##a
-abace - 字母表  
 abite - 冷杉  
 abla - 会  
 abli - 可能  
-aciy - 阿嚏  
-aciya - 打喷嚏  
+acua - 打喷嚏  
+acue - 阿嚏  
 adali - 公正地  
 adalia - 正义  
 adrese - 地址  
@@ -121,6 +120,7 @@ bekopote - 陶瓦
 bele - 铲  
 bere - 浆果 (莓)  
 berje - 桦树  
+bete - 甜菜頭  
 bile - 帐单  
 bina - 建设  
 bire - 啤酒  
@@ -277,6 +277,7 @@ granite - 花岗石
 grave - 砾石  
 grimase - 鬼脸  
 guangjou - 广州  
+gukuve - キク  
 gune - 军队  
 gunrene - 军人  
 gute - 膝  
@@ -291,6 +292,7 @@ hami - 重要
 hamili - 怀孕  
 hande - 手  
 handoxake - 胳膊  
+harfia - 字母表  
 hatre - 危险  
 hayalge - 海藻  
 haye - 海  
@@ -328,6 +330,7 @@ insani hake - 人权
 insanistia - 人文主义  
 itis (itise) - 炎症  
 ive - 趋势  
+izia da aksese - 無障礙環境  
 ##j
 jana - 知道 (晓得)  
 janger - 工匠 (匠人)  
@@ -388,6 +391,7 @@ karsi - 粗糙
 karsolimone - 箭叶橙  
 kaske - 壳 (皮)  
 kata - 切  
+katoglutobanze - 剪贴板  
 katuse - 仙人掌  
 kava - 挖  
 kave - 坑 (穴)  
@@ -396,10 +400,11 @@ keci - 客气
 kenarbaryer - 篱笆  
 kenare - 边  
 kerne - 核心  
-kimia - 化学  
+kimlojia - 化学  
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxine - 打字机  
+kliene - 顾客  
 klimomute - 气候变化  
 ko - 比  
 ko? - 怎么  
@@ -526,7 +531,6 @@ mene - 意义
 meninge - 脑脊膜  
 metalbede - 铁砧  
 metaljanger - 铁匠  
-metre - 米 (公尺)  
 mey (meyi) - 每  
 meze - 桌子  
 migra - 搬家  
@@ -537,6 +541,7 @@ misalo - 比如
 misria - 埃及  
 mita - 聚会  
 mite - 会议  
+mitre - 米 (公尺)  
 moke - 树木  
 mokojanger - 木匠  
 mokomate - 木材  
@@ -556,6 +561,8 @@ mumomelone - 冬瓜 (白瓜)
 muskulbine - 健美运动  
 ##n
 nade - 河 (江)  
+najisa - 污染  
+najise - 污染物  
 namkitaba - 签署  
 nasmedi - 国际  
 nautile - 鹦鹉螺  
@@ -685,6 +692,8 @@ salame - 迎接
 sale - 盐  
 samane - 天空  
 sami - 一样  
+sammetri - 对称  
+sammetria - 对称性  
 samraye - 一致  
 samsifia - 模型  
 sanduice - 三明治 (三文治)  
@@ -855,6 +864,7 @@ zebre - 斑马
 zemforme - 地势  
 zemgrafe - 地图  
 zemgrafia - 地图学 (地理)  
+zemmetria - 几何学  
 zeyile - 疣  
 zime - 冬天  
 zinje - 姜  

@@ -5,10 +5,9 @@
 |**-ia**|ajattelun, olemisen tai ihmisten ala tai alue|espanja:portugali:englanti:-ia, venäjä:-ия (-iya), arabia: ية (-iya), japani:屋 (-ya)|
 |**-u**|pääte: OVS-sanajärjestyksen verbi|hausa:wolof:-u, suahili:-wa|
 |**a**|mutta|venäjä:а (a), puola:a, + yleiskiina:啊 (ā), + englanti:ah|
-|**abace**|aakkoset (ABC)|kreikka:(alphabētos), espanja:abecedario, persia:(alefbâ), arabia:(abjad), unkari:ábécé|
 |**abla**|voida (osata, pystyä)|englanti:able, espanja:hábil, ranska:habile, ron:abil|
 |**acion (acione)**|toiminta|ranska:englanti:action, espanja:acción, portugali:ação, malaiji:aksi|
-|**aciy**|atsii|espanja:achís, yleiskiina: 阿嚏 (ātì), korea:에취 (echwi), venäjä:апчхи, vietnami:hắt xì, englanti:achoo, ranska:atchoum|
+|**acue**|atsii|espanja:achís, yleiskiina: 阿嚏 (ātì), korea:에취 (echwi), venäjä:апчхи, vietnami:hắt xì, englanti:achoo, ranska:atchoum|
 |**adalia**|oikeus|arabia:(ʿadl), turkki:adalet, malaiji:adalat, bangla:আদালত (adalôt), persia:urdu:('adālat)|
 |**ade**|tapa|arabia:(ʿāda), persia:urdu:('âdat), hindi:आदत (ādat), pandzabi:ਆਦਤ (ādat), turkki:adet|
 |**adrese**|osoite|englanti:address, ranska:deu:adresse, venäjä:адрес (adres), portugali:endereço|
@@ -573,7 +572,7 @@
 |**kerube**|kerubi|heb:כְּרוּב‎ (kerúv), englanti:cherub, espanja:querubín, portugali:querubim, ranska:chérubin, venäjä:херувим (heruvim), suahili:kerubi, malaiji:kerub, yleiskiina:基路伯 (jīlùbó)|
 |**ketele**|kattila|englanti:kettle, venäjä:котёл (kot’ol), hindi:केतली (ketlī), bangla:কেতলি (ketli), malaiji:ketel|
 |**kexe**|hius (karva, tukka, hiukset)|japani:毛 (ke), hindi:केश (keś), urdu:(keś), pandzabi:ਕੇਸ਼ (keś), telugu:(kēśamu), kannada:(kēśa)|
-|**kimia**|kemia|arabia:(kīmiyāʾ), malaiji:kimia, suahili:kemia, turkki:kimya, ranska:chimie, espanja:portugali:química, venäjä:химия (himiya)|
+|**kimlojia**|kemia|arabia:(kīmiyāʾ), malaiji:kimia, suahili:kemia, turkki:kimya, ranska:chimie, espanja:portugali:química, venäjä:химия (himiya)|
 |**kini**|kineettinen (liike-)|englanti:kinetic, espanja:portugali:cinético, ranska:cinétique, deu:kinetisch, venäjä:кинетический (kineticheskyy)|
 |**kioske**|kioski|persia:کوشک‎ (kôšk), englanti:turkki:kiosk, espanja:quiosco, portugali:quiosque, venäjä:киоск (kiosk), hindi:कीओस्क (kīosk), malaiji:kios, japani:キオスク (kiosuku)|
 |**kire**|vuokra|arabia:(kirāʾ), turkki:kira, hindi:किराया (kirāyā), urdu:(kirāyā), persia:(kerāya), espanja:alquiler|
@@ -760,9 +759,8 @@
 |**mese**|kuukausi|portugali:mês, espanja:mez, venäjä:месяц (mesyats), bangla:মাস (mas), suahili:mwezi|
 |**mester**|mestari (asiantuntija)|portugali:mestre, ranska:maître, puola:mistrz, englanti:master, venäjä:мастер (master), espanja:maestro, deu:Meister, hindi:(mistrī)|
 |**metale**|metalli|englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)|
-|**mete**|mitta (koko, määrä)|englanti:meter, hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra|
 |**metode**|keino (menetelmä, metodi)|englanti:method, espanja:portugali:método, ranska:méthode, venäjä:ме́тод (métod), turkki:metod, malaiji:metode|
-|**metre**|metri|englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:mita|
+|**metre**|mitta (koko, määrä)|englanti:meter, hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra|
 |**mey (meyi)**|joka (jokainen)|yleiskiina:每 (měi), wu-kiina:每 (me), vietnami:mọi, korea:매 (mae)|
 |**meze**|pöytä|portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa|
 |**miene**|nuudeli|yleiskiina:面 (miàn), malaiji:mie, japani:麺 (men), thai:หมี่ (mii), khmer:មី (mi)|
@@ -783,6 +781,7 @@
 |**misale**|esimerkki|hindi:मिसाल (misāl), arabia:(mithāl), persia:(mesâl), malaiji:misal, turkki:mesela|
 |**misria**|Egypti|arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr)|
 |**mite**|tapaaminen (kokous)|englanti:meet, ranska:meeting, espanja:mitin, japani:ミーティング (mītingu), hindi:मीटिंग (mīṭiṅg)|
+|**mitre**|metri|englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:mita|
 |**mixa**|sekoittaa|deu:mischen, venäjä:мешать (měšat'), puola:mieszać, englanti:mix, italia:miscelare, + hindi:मिश्रण (miśrān)|
 |**mode**|tapa|ranska:englanti:mode, espanja:portugali:modo|
 |**modele**|malli|englanti:model, espanja:portugali:modelo, ranska:modèle, deu:Modell, venäjä:моде́ль (modelʹ)|

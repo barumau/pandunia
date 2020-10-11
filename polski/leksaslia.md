@@ -5,11 +5,10 @@
 |**-ia**|przyrostek dla miejsca|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
 |**-u**|przyrostek dla czasowników z szykiem zdania OVS|hau:wol:-u, swa:-wa|
 |**a**|ale, lecz|rus:а (a), pol:a, + zho:啊 (ā), + eng:ah|
-|**abace**|alfabet, abecadło|ell:(alphabētos), spa:abecedario, fas:(alefbâ), ara:(abjad), hun:ábécé|
 |**abite**|jodła|spa:por:abeto|
 |**abla**|móc, umieć|eng:able, spa:hábil, fra:habile, ron:abil|
 |**acion (acione)**|działanie (akcja)|fra:eng:action, spa:acción, por:ação, may:aksi|
-|**aciy**|apsik|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
+|**acue**|apsik|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |**adalia**|sprawiedliwość|ara:(ʿadl), tur:adalet, may:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |**ade**|nawyk (przyzwyczajenie)|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |**adrese**|adres|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
@@ -562,7 +561,7 @@
 |**kababa**|grillować|ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab)|
 |**kabave**|bawół domowy|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|
 |**kabine**|kabina, budka|eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)|
-|**kaboge**|kabaczek (dynia, tykwa)|tur:kabak, swa:boga, jpn:カボチャ (kabocha)|
+|**kaboge**|kabaczek (dynia, tykwa)|Cucurbitatur:kabak, swa:boga, jpn:カボチャ (kabocha)|
 |**kade**|dorsz|eng:cod, ara:قد (qad)|
 |**kafase**|klatka|ara:(qafaṣ), fas:urd:(qafas), hin:क़फ़स (qafas), pnb:ਕਫ਼ਸ (kafas), tur:kafes|
 |**kafe**|kawa|deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|
@@ -633,7 +632,7 @@
 |**kerube**|cherubin|heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|
 |**ketele**|czajnik|eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|
 |**kexe**|włos|jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|
-|**kimia**|chemia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
+|**kimlojia**|chemia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
 |**kini**|ruchowy, kinetyczny|eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|
 |**kioske**|kiosk|fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|
 |**kire**|wynająć, wynajmować, zatrudnić, zatrudniać|ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|
@@ -845,9 +844,8 @@
 |**mese**|miesiąc|por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|
 |**mester**|mistrz (ekspert)|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |**metale**|metal|eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|
-|**mete**|miara|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |**metode**|metoda, sposób|eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode|
-|**metre**|metr|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|
+|**metre**|miara|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |**mey (meyi)**|każdy, wszyscy|zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|
 |**meze**|stół|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**miene**|makaron|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
@@ -870,6 +868,7 @@
 |**misale**|przykład|hin:मिसाल (misāl), ara:(mithāl), fas:(mesâl), may:misal, tur:mesela|
 |**misria**|Egipt|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |**mite**|spotkanie, zebranie|eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|
+|**mitre**|metr|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|
 |**mixa**|miksować, mieszać|deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|
 |**mode**|sposób (metoda, tryb)|fra:eng:mode, spa:por:modo|
 |**modele**|model, wzór, wzorzec, projekt|eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)|

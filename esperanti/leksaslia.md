@@ -5,7 +5,6 @@
 |**-ia**|ejo (ujo, io)|hispana:portugala:angla:-ia, rusa:-ия (-iya), araba: ية (-iya), japana:屋 (-ya)|
 |**-u**|-i (-iĝi)|haŭsa:volofa:-u, svahila:-wa|
 |**a**|sed|rusa:а (a), polona:a, + mandarena:啊 (ā), + angla:ah|
-|**abace**|alfabeto|greka:(alphabētos), hispana:abecedario, persa:(alefbâ), araba:(abjad), hungara:ábécé|
 |**abla**|povi|angla:able, hispana:hábil, franca:habile, ron:abil|
 |**adalia**|justeco|araba:(ʿadl), turka:adalet, malaja:adalat, bengala:আদালত (adalôt), persa:urdua:('adālat)|
 |**adrese**|adreso|angla:address, franca:deu:adresse, rusa:адрес (adres), portugala:endereço|
@@ -451,7 +450,7 @@
 |**kenare**|rando (orlo)|turka:kenar, hindia:किनारा (kinārā), urdua:(kanārā)|
 |**kerne**|kerno (koro)|angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)|
 |**kexe**|haro|japana:毛 (ke), hindia:केश (keś), urdua:(keś), panĝaba:ਕੇਸ਼ (keś), teluga:(kēśamu), kanara:(kēśa)|
-|**kimia**|ĥemio (kemio)|araba:(kīmiyāʾ), malaja:kimia, svahila:kemia, turka:kimya, franca:chimie, hispana:portugala:química, rusa:химия (himiya)|
+|**kimlojia**|ĥemio (kemio)|araba:(kīmiyāʾ), malaja:kimia, svahila:kemia, turka:kimya, franca:chimie, hispana:portugala:química, rusa:химия (himiya)|
 |**kitabe**|skribo|araba:urdua:(kitāb), persa:(ketâb), turka:kitap, malaja:kitab, svahila:kitabu, hindia:किताब (kitāb)|
 |**kive**|kivo|angla:kiwi|
 |**klari**|klara|deu:klar, hispana:portugala:claro, angla:clear, franca:clair|
@@ -565,9 +564,8 @@
 |**mene**|signifo|araba:(maʿnā), persa:urdua:(ma'ni), hindia:मअनी (maani), svahila:maana, haw:manaʻo, angla:meaning, deu:Meinung|
 |**mese**|monato|portugala:mês, hispana:mez, rusa:месяц (mesyats), bengala:মাস (mas), svahila:mwezi|
 |**metale**|metalo|angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)|
-|**mete**|mezuro|angla:meter, hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra|
 |**metode**|metodo|angla:method, hispana:portugala:método, franca:méthode, rusa:ме́тод (métod), turka:metod, malaja:metode|
-|**metre**|metro|angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:mita|
+|**metre**|mezuro|angla:meter, hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra|
 |**mey (meyi)**|ĉiu(j)|mandarena:每 (měi), vua:每 (me), vjetnama:mọi, korea:매 (mae)|
 |**meze**|tablo|portugala:hispana:mesa, hindia:मेज़ (mez), svahila:meza, malaja:meja, tamila:மேசை (mesei), persa: میز‏‎ (miz), turka:masa|
 |**miene**|nudelo|mandarena:面 (miàn), malaja:mie, japana:麺 (men), taja:หมี่ (mii), kmera:មី (mi)|
@@ -582,6 +580,7 @@
 |**mirer**|spegulo|angla:mirror, franca:miroir, araba:mirʾāh, arz:mirāya|
 |**misale**|ekzemplo|hindia:मिसाल (misāl), araba:(mithāl), persa:(mesâl), malaja:misal, turka:mesela|
 |**misria**|Egipto|araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr)|
+|**mitre**|metro|angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:mita|
 |**mixa**|miksi|deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)|
 |**moge**|inko|mandarena:墨 (mò), vjetnama:mực, taja:หมึก (muk)|
 |**moke**|arbo|mandarena:木 (mù), kantona:木 (muk6), japana:木 (moku), korea:목 (mok), vjetnama:mộc, oroma:muka|

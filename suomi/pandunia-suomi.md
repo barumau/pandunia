@@ -6,15 +6,14 @@
 -u - pääte: OVS-sanajärjestyksen verbi  
 a - mutta  
 ##a
-abace - aakkoset (ABC)  
 abla - voida (osata, pystyä)  
 able - taito (kyky)  
 abli - mahdollinen  
 ablo - ehkä (mahdollisesti)  
 acinium - aktinium  
 acion (acione) - toiminta  
-aciy - atsii  
-aciya - aivastaa  
+acua - aivastaa  
+acue - atsii  
 adali - oikeudenmukainen  
 adalia - oikeus  
 ade - tapa  
@@ -31,7 +30,7 @@ agresi - hyökkäävä (aggressiivinen)
 aha - oivaltaa (tajuta)  
 ainstainium - einsteinium  
 airbare - ilmanpaine  
-airbarmeter - ilmapuntari (ilmanpainemittari, barometri)  
+airbarmetrer - ilmapuntari (ilmanpainemittari, barometri)  
 aire - ilma  
 airgune - ilmavoimat  
 airia - Irlanti  
@@ -212,7 +211,7 @@ barka - onnitella (siunata)
 barke! - onneksi olkoon!  
 barkoke - aprikoosi  
 barmetale - raskasmetalli  
-barmeter - vaaka (puntari)  
+barmetrer - vaaka (puntari)  
 barti - intialainen  
 barti haye - Intian valtameri  
 bartia - Intia  
@@ -388,7 +387,7 @@ cenfikse - etuliite (prefiksi)
 cenge - kerros  
 ceni - edellinen  
 cent- - sentti  
-centometre - senttimetri (cm)  
+centomitre - senttimetri (cm)  
 cerium - cerium  
 cerize - kirsikka  
 cerni - musta  
@@ -436,8 +435,8 @@ daka - peittää
 dake - peite (kansi)  
 dalila - todistaa  
 dalile - todiste (todistus, osoitus, demonstraatio)  
+damajani - vahingollinen  
 damaje - vaurio (vahinko)  
-damaji - vahingollinen  
 damogeme - tammipeli  
 dane - jyvä (luoti)  
 dania - Tanska  
@@ -841,7 +840,7 @@ gola - määrätä
 gole - maali (pelissä)  
 gome - kumi  
 gone - kulma (nurkka)  
-gonmeter - kulmamitta (goniometri)  
+gonmetrer - kulmamitta (goniometri)  
 gotone - puuvilla  
 gova - mennä  
 grafa - piirtää  
@@ -917,6 +916,7 @@ harabi - pilalla (raunioina)
 harama - kieltää  
 harami - kielletty  
 harfe - kirjain  
+harfia - aakkoset (ABC)  
 harmoni - harmoninen  
 harmonia - harmonia  
 harnese - valjaat  
@@ -1263,9 +1263,9 @@ ki xey - mikä? (mitä?)
 ki yangi - millainen?  
 kilgram - kilogramma  
 kili - tuhat  
-kilmetre - kilometri  
+kilmitre - kilometri  
 kimi - kemikaali  
-kimia - kemia  
+kimlojia - kemia  
 kina - liikuttaa  
 kine - liike  
 kinsasi kongolia - Kinshasan Kongo  
@@ -1679,9 +1679,8 @@ mester - mestari (asiantuntija)
 meta - mitata  
 metale - metalli  
 metaljanger - seppä  
-mete - mitta (koko, määrä)  
 metode - keino (menetelmä, metodi)  
-metre - metri  
+metre - mitta (koko, määrä)  
 mexikia - Meksiko  
 mey (meyi) - joka (jokainen)  
 meze - pöytä  
@@ -1725,6 +1724,7 @@ misri - egyptiläinen
 misria - Egypti  
 mita - tavata  
 mite - tapaaminen (kokous)  
+mitre - metri  
 mixa - sekoittaa  
 mixer - sekoitin  
 mode - tapa  
@@ -2336,6 +2336,8 @@ samane - taivas
 samdexi - samanmaalainen (maanmies)  
 samemose - myötätunto (sympatia)  
 sami - sama (yhtäläinen)  
+sammetri - symmetrinen  
+sammetria - symmetria  
 samname - homonyymi  
 samovia - Samoa  
 samraya - olla samaa mieltä  
@@ -2894,6 +2896,7 @@ zemgrafe - kartta
 zemgrafia - kartogratia  
 zemia - Maapallo  
 zemlaskeria - maavoimat  
+zemmetria - geometria  
 zemomedi haye - Välimeri  
 zemparlinye - päiväntasaaja  
 zemparlinyi ginia - Päiväntasaajan Guinea  

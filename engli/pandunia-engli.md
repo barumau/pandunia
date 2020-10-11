@@ -7,7 +7,6 @@
 -u - suffix for verbs with OVS word order  
 a - but (whereas)  
 ##a
-abace - alphabet  
 abite - fir tree  
 abla - can (know, be able)  
 able - ability (skill)  
@@ -15,8 +14,8 @@ abli - possible
 ablo - maybe (perhaps, possibly)  
 acinium - actinium  
 acion (acione) - action  
-aciy - achoo  
-aciya - sneeze  
+acua - sneeze  
+acue - achoo  
 adali - just (fair)  
 adalia - justice  
 ade - habit  
@@ -33,7 +32,7 @@ agresi - aggressive
 aha - understand (realize)  
 ainstainium - einsteinium  
 airbare - atmospheric pressure  
-airbarmeter - barometer  
+airbarmetrer - barometer  
 aire - air  
 airgune - airforce  
 airia - Ireland  
@@ -52,6 +51,9 @@ ajili - agile
 akare - tick (mite)  
 akse - axis (axle)  
 aksente - accent (stress)  
+aksesa - access (reach, enter)  
+aksesabli - accessible (within reach)  
+aksese - access (admission, accessibility)  
 ala - change (make different)  
 alaskia - Alaska  
 alfone - allophone  
@@ -76,7 +78,7 @@ alumine - aluminium
 ama - love (to be in love with)  
 amari - Amhara (an Ethiopian ethnic group and language)  
 ame - love (liking, affection)  
-amena - assure (affirm)  
+amena - assure (affirm, confirm)  
 ameni - certain (sure)  
 ameno - certainly (surely, amen)  
 amerike - America (continent)  
@@ -98,6 +100,7 @@ andiniste - unbeliever (infidel)
 andoria - Andorra  
 andoste - enemy (unfriend)  
 aneskala - get off (descend)  
+angalta - debug  
 angolia - Angola  
 anici - reluctant  
 anima - animate  
@@ -112,9 +115,10 @@ ankarivi - off (deactivated, disabled)
 ankaya - close (shut)  
 ankayi - closed  
 anker - anchor  
+ankoda - decode (decrypt)  
 anlimitia - infinity  
 anmema - forget  
-anonidi - unnecessary (extraneous, unneeded)  
+annidi - unnecessary (extraneous, unneeded)  
 anpace - unrest  
 anromansi - aromantic  
 anseksi - asexual  
@@ -183,8 +187,9 @@ auda - hear (listen)
 aure - gold  
 auroranje - kumquat  
 australia - Australia  
+auta - personalize (customize)  
 aute - self (identity)  
-auti - personal (intimate, private)  
+auti - personal (intimate, private, custom)  
 automoti - self-moving (automotive, automobile)  
 autonomi - autonomous  
 autonomia - autonomy  
@@ -243,7 +248,7 @@ bangli - Bengali (Bangla)
 banglodexi - Bangladeshi  
 banglodexia - Bangladesh  
 banka - save (deposit, bank)  
-banke - bank (depository)  
+banke - bank (depository, cache)  
 banker - banker  
 banse - bamboo  
 banye - bath  
@@ -264,7 +269,7 @@ barka - congratulate (bless)
 barke! - congratulations! (blessing)  
 barkoke - apricot  
 barmetale - heavy metal  
-barmeter - scales (weighing device)  
+barmetrer - scales (weighing device)  
 barti - Indian  
 barti haye - Indian Ocean  
 bartia - India  
@@ -330,6 +335,7 @@ berilium - beryllium
 berje - birch tree  
 berkelium - berkelium  
 bermudia - Bermuda  
+bete - beetroot  
 betone - concrete (material with cement)  
 beyu - undergo (passivizing verb)  
 biblia - Bible  
@@ -470,7 +476,7 @@ cenge - layer (level, storey, floor, stratum)
 ceni - previous (fore)  
 ceno - earlier (before)  
 cent- - centi- (per cent)  
-centometre - centimeter (cm)  
+centomitre - centimeter (cm)  
 cenvida - expect (anticipate, predict, forsee)  
 cenvidi - expected  
 cerium - cerium  
@@ -515,7 +521,7 @@ cupa - suck (absorb)
 cuta - leave (go out, exit)  
 cute - exit (leaving)  
 cutomun - exit door  
-cuza - choose (elect, select)  
+cuza - choose (elect, select, pick)  
 cuzable - option (choice)  
 cuze - choice (election, selection)  
 ##d
@@ -527,8 +533,10 @@ daka - cover (conceal)
 dake - cover (lid, cap, deck)  
 dalila - prove (demonstrate, testify)  
 dalile - proof (evidence, proof, demonstration, testimony)  
+damaja - harm (damage)  
+damajani - harmful (damaging)  
 damaje - damage (injury, harm)  
-damaji - harmful (damaging)  
+damaji - damaged (corrupt)  
 damogeme - checkers (draughts)  
 dane - particle (grain, bullet)  
 danga - ring (toll, clang)  
@@ -679,6 +687,7 @@ duke - grief (sorrow)
 duki - sad  
 duku - grieve  
 dulbaxi - bilingual  
+dulgrafi - anaglyphic (stereoscopic)  
 duli - two (2)  
 duli ban - twice  
 duli o tini - a couple of  
@@ -689,6 +698,7 @@ dulo fena - halve (divide by two)
 dulo multa - double (multiply by two)  
 dulromansi - biromantic  
 dulseksi - bisexual  
+dulsondi - stereophonic  
 dumane - smoke  
 dume - tail  
 duni - global  
@@ -948,7 +958,7 @@ galaksia - galaxy
 galeria - gallery (exhibition hall)  
 galium - gallium  
 galta - make a mistake  
-galte - mistake (error, fault)  
+galte - mistake (error, fault, bug)  
 galti - wrong (incorrect, erroneous, faulty)  
 galto buda - misunderstand  
 gama - marry  
@@ -989,7 +999,10 @@ gave - top
 gavi - high (tall)  
 gavi tanure - blast furnace  
 gavia - height (altitude)  
+gavo darji - advanced (high-level)  
+gavo darju - level up (graduate)  
 gavtali - vertical  
+gavtalu - bob up and down  
 gavu - rise (go up)  
 gayania - Guyana  
 gaze - gauze  
@@ -1021,7 +1034,7 @@ gole - goal (destination)
 goleme - golem  
 gome - rubber  
 gone - corner (angle)  
-gonmeter - goniometer  
+gonmetrer - goniometer  
 gorile - gorilla  
 gotone - cotton  
 gova - go  
@@ -1088,6 +1101,7 @@ hakime - judgment (sentence)
 hakimer - judge (referee)  
 halala - allow (permit)  
 halali - permissible (allowed, halal)  
+halaloliste - whitelist  
 hale - state (condition, status, situation)  
 halela - praise (commend, exalt)  
 halife - caliph  
@@ -1105,9 +1119,12 @@ handoxake - arm
 haose - chaos (disorder, turmoil)  
 haraba - ruin (destroy, devastate, demolish)  
 harabi - bad (ruined, destroyed)  
+harabu - crash (shut down, terminate)  
 harama - forbid (ban, disallow)  
 harami - forbidden (illicit, haram, taboo)  
+haramliste - blacklist  
 harfe - letter (character, written symbol)  
+harfia - alphabet  
 harmoni - harmonious  
 harmonia - harmony  
 harnese - harness  
@@ -1281,6 +1298,8 @@ itis (itise) - inflammation (-itis)
 iva - tend to  
 ive - tendency (inclination)  
 izi - easy  
+izia - ease  
+izia da aksese - accessibility (ease of access)  
 ##j
 jakarte - Jakarta  
 jake - jacket  
@@ -1334,6 +1353,7 @@ jeste - gesture
 jibraltar - Gibraltar  
 jibutia - Djibouti  
 jina - advance (progress, enter)  
+jine - advancement (milestone)  
 jinmun - entrance  
 jino - foreward  
 jinse - gender (sex)  
@@ -1487,6 +1507,7 @@ kata - cut
 katalunia - Catalonia  
 katane - sword  
 kataria - Qatar  
+katoglutobanze - clipboard (paste buffer)  
 katuse - cactus  
 kaukasia - Caucasia  
 kava - dig (excavate)  
@@ -1531,10 +1552,10 @@ ki xey - what thing?
 ki yangi - what kind of?  
 kilgram - kilogram (kg)  
 kili - thousand  
-kilmetre - kilometer (km)  
+kilmitre - kilometer (km)  
 kilo- - kilo-  
 kimi - chemical  
-kimia - chemistry  
+kimlojia - chemistry  
 kina - move (transfer, change place)  
 kine - movement  
 kingrafe - movie (cinema)  
@@ -1562,6 +1583,8 @@ klari - clear (obvious)
 klaro - of course (obviously)  
 klasa - classify (categorize)  
 klase - class (category)  
+kliene - customer (client, patron)  
+klika - click (snap)  
 klime - climate  
 klimlojia - climatology  
 klimomute - climate change  
@@ -1573,7 +1596,7 @@ ko - than (as, compared to)
 ko multo - how many?  
 ko? - how?  
 kobalte - cobalt  
-koda - encode  
+koda - encode (encrypt)  
 kode - code (cipher)  
 koke - coca  
 kokode - chicken  
@@ -1590,6 +1613,7 @@ kolume - column (pillar, pole, post)
 komali - soft  
 komanda - order (issue a command)  
 komande - order (command)  
+komandolinye - command line (console, terminal)  
 kome - comma  
 komori nesia - Comoros  
 kompania - company (corporation)  
@@ -2050,9 +2074,8 @@ meta - measure (take measurements)
 metalbede - anvil  
 metale - metal  
 metaljanger - blacksmith (iron forger)  
-mete - measurement  
 metode - method (means)  
-metre - meter (## cm)  
+metre - measurement  
 mexikia - Mexico  
 mexikia site - Mexico City  
 mey (meyi) - every (each)  
@@ -2104,6 +2127,7 @@ misri - Egyptian
 misria - Egypt  
 mita - meet  
 mite - meeting (gathering)  
+mitre - meter (## cm)  
 mixa - mix (blend)  
 mixer - mixer (blender)  
 mixi alkole - cocktail  
@@ -2198,6 +2222,10 @@ nagre - town
 nagri - urban  
 nahune - nail (fingernail)  
 naijiria - Nigeria  
+najisa - corrupt (pollute, soil, defile, stain, taint)  
+najisbinde - stain (spot)  
+najise - corruption (filth, pollution, contamination, najis)  
+najisi - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
 nam (name) - name  
 namibia - Namibia  
 namisa - call (name)  
@@ -2286,6 +2314,7 @@ nol (noli) - zero (none)
 nol ban - never  
 nol ren - nobody (no-one)  
 nol xey - nothing  
+nolisa - cancel (nullify)  
 noma - manage (organize, direct)  
 nombra - count (enumerate)  
 nombre - number  
@@ -2507,7 +2536,9 @@ pina - prick (sting)
 pine - needle (pin, splinter, prickle, thorn, stinger, spine, quill)  
 pinguine - penguin  
 pinkardone - cotton thistle  
+pinsa - pinch  
 pinser - pliers (pincers)  
+pinsobanze - clipboard (physical board)  
 pipe - pipe  
 pipinga - evaluate (review, criticise)  
 pipinge - evaluation (criticism)  
@@ -2825,6 +2856,8 @@ samarium - samarium
 samdexi - compatriot  
 samemose - compassion (sympathy)  
 sami - same (equal)  
+sammetri - symmetrical  
+sammetria - symmetry  
 samname - homonym  
 samovia - Samoa  
 samraya - agree (concur)  
@@ -2873,6 +2906,7 @@ sekunde - second(s)
 sekundometer - stop watch  
 sekura - protect (secure, save)  
 sekuri - safe (secure, protected)  
+sekuri kopiye - backup  
 sekurkode - password (security code)  
 sekurnombre - personal identification number (PIN)  
 sele - cell (biology)  
@@ -3073,6 +3107,7 @@ tale - bottom
 tali - low (short)  
 tali moke - bush (shrub)  
 talium - thallium  
+talo darju - level down  
 taltexe - carpet (rug)  
 tamare - date fruit  
 tami - greedy  
@@ -3249,6 +3284,7 @@ usameriki samoa - American Samoa
 usameriki virjin nesia - Virgin Islands, US  
 usamerikia - United States of America (USA)  
 uza - use (employ, apply)  
+uzabli - usable (available)  
 uzbekia - Uzbekistan  
 uzer - user  
 uzernam - username  
@@ -3318,6 +3354,7 @@ venezolia - Venezuela
 venjou - Wenzhou  
 venjovoranje - satsuma mandari  
 venus - Venus  
+vera - verify (authenticate)  
 veri - true (real, genuine, very, indeed)  
 verme - worm  
 versione - version (variation, edition)  
@@ -3442,7 +3479,7 @@ xoke - shock (collision)
 xopa - buy (purchase)  
 xope - shopping  
 xoper - buyer  
-xova - show (display)  
+xova - show (display, demonstrate)  
 xove - show (display, exhibition)  
 xudu - should (ought)  
 xukarbete - sugar beet  
@@ -3529,6 +3566,7 @@ zemkaski krake - fault line
 zemkaski plate - tectonic plate  
 zemlaskeria - ground force (army)  
 zemlojia - geology  
+zemmetria - geometry  
 zemnici - underground (subterrainean)  
 zemnici prizone - dungeon (underground prison)  
 zemomedi haye - Mediterranean  

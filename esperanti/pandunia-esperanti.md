@@ -6,13 +6,12 @@
 -u - -i (-iĝi)  
 a - sed  
 ##a
-abace - alfabeto  
 abla - povi  
 able - povo  
 abli - ebla  
 ablo - eble  
 acinium - aktinio  
-aciya - terni  
+acua - terni  
 adali - justa  
 adalia - justeco  
 adrese - adreso  
@@ -309,8 +308,8 @@ daixer - ambasadoro
 daixeria - ambasado  
 daka - kovri  
 dake - kovrilo  
+damajani - damaĝa  
 damaje - damaĝo  
-damaji - damaĝa  
 dania - Danio  
 danka - danki  
 danke - danko  
@@ -646,6 +645,7 @@ handi - mana
 haose - kaoso (malordo)  
 harabi - ruinigita  
 harfe - litero  
+harfia - alfabeto  
 harmoni - harmonia  
 harmonia - harmonio  
 hasi - speciala  
@@ -856,8 +856,8 @@ ki sate - kiam?
 ki xey - kio?  
 ki yangi - kia?  
 kili - mil  
-kilmetre - kilometro  
-kimia - ĥemio (kemio)  
+kilmitre - kilometro  
+kimlojia - ĥemio (kemio)  
 kitabe - skribo  
 kitabia - librejo  
 kitabomaxine - tajpilo  
@@ -1056,9 +1056,8 @@ mene - signifo
 mese - monato  
 meta - mezuri  
 metale - metalo  
-mete - mezuro  
 metode - metodo  
-metre - metro  
+metre - mezuro  
 mexikia - Meksikio  
 mey (meyi) - ĉiu(j)  
 meze - tablo  
@@ -1087,6 +1086,7 @@ misalo - ekzemple
 miskini - mizera  
 misri - egipta  
 misria - Egipto  
+mitre - metro  
 mixa - miksi  
 mixer - miksilo  
 moge - inko  
@@ -1395,6 +1395,8 @@ samarium - samario
 samdexi - samlandano  
 samemose - kompato  
 sami - sama  
+sammetri - simetria  
+sammetria - simetrio  
 samraya - samopinii (interkonsenti)  
 samraye - interkonsento  
 samseksi - samseksema  
@@ -1688,6 +1690,7 @@ zaye - nuno
 zayia - ĉeestanteco (ekzisto)  
 ze - si  
 zebre - zebro  
+zemmetria - geometrio  
 zemsisme - tertremo  
 zeyile - veruko  
 zeze - muŝo  

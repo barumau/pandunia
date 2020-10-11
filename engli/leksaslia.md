@@ -5,11 +5,10 @@
 |**-ia**|area of thinking or being|Spanish:Portuguese:English:-ia, Russian:-ия (-iya), Arabic: ية (-iya), Japanese:屋 (-ya)|
 |**-u**|suffix for verbs with OVS word order|Hausa:Wolof:-u, Swahili:-wa|
 |**a**|but (whereas)|Russian:а (a), Polish:a, + Mandarin:啊 (ā), + English:ah|
-|**abace**|alphabet|Greek:(alphabētos), Spanish:abecedario, Persian:(alefbâ), Arabic:(abjad), Hungarian:ábécé|
 |**abite**|fir tree|Spanish:Portuguese:abeto|
 |**abla**|can (know, be able)|English:able, Spanish:hábil, French:habile, ron:abil|
 |**acion (acione)**|action|French:English:action, Spanish:acción, Portuguese:ação, Malay:aksi|
-|**aciy**|achoo|Spanish:achís, Mandarin: 阿嚏 (ātì), Korean:에취 (echwi), Russian:апчхи, Vietnamese:hắt xì, English:achoo, French:atchoum|
+|**acue**|achoo|Spanish:achís, Mandarin: 阿嚏 (ātì), Korean:에취 (echwi), Russian:апчхи, Vietnamese:hắt xì, English:achoo, French:atchoum|
 |**adalia**|justice|Arabic:(ʿadl), Turkish:adalet, Malay:adalat, Bengali:আদালত (adalôt), Persian:Urdu:('adālat)|
 |**ade**|habit|Arabic:(ʿāda), Persian:Urdu:('âdat), Hindi:आदत (ādat), Punjabi:ਆਦਤ (ādat), Turkish:adet|
 |**adrese**|address|English:address, French:deu:adresse, Russian:адрес (adres), Portuguese:endereço|
@@ -26,6 +25,7 @@
 |**akare**|tick (mite)|Spanish:Portuguese:ácaro, French:acarien, Turkish:acari|
 |**akse**|axis (axle)|English:axis, French:axe, Hindi:अक्ष (akṣ), Turkish:eksen|
 |**aksente**|accent (stress)|Italian:accento, Spanish:Portuguese:acento, Polish:akcent, English:French:accent|
+|**aksese**|access (admission, accessibility)|English:access, Spanish:acceso, Portuguese:acesso, French:accès, Malay:akses, Japanese:アクセス (akusesu)|
 |**alge**|alga|deu:Alge, French:algue, Turkish:alg, Persian:(âlg), English:Spanish:Portuguese:Polish:alga|
 |**ali**|other|Greek:άλλος (állos), Latin:alius, English:allo-, Portuguese:Spanish:alo-|
 |**alkole**|alcohol|French:alcool Portuguese:álcool Spanish:alcohol English:alcohol Hindi: Arabic:(kuhul), Russian:алкоголь (alkohol), Polish:alkohol|
@@ -94,7 +94,7 @@
 |**banane**|banana|Wolof:banaana, Russian:банан (banan), Polish:banan, French:deu:banane, Portuguese:Spanish:English:banana, Japanese:バナナ (banana), Korean:바나나 (banana)|
 |**bande**|band (squad, group)|Mandarin:班 (bān), Vietnamese:ban, Korean:반 (ban), + English:deu:band, French:bande, Russian:банда (banda), Spanish:Portuguese:Filipino:Polish:banda, Japanese:バンド (bando)|
 |**bandere**|flag (banner)|English:banner, French:bannière, Spanish:bandera, Portuguese:bandeira, Malay:bendera, Filipino:bandila, Swahili:bendera|
-|**banke**|bank (depository)|English:deu:Polish:Malay:bank, Turkish:banka, Russian:банк (bank), French:banque, Spanish:Portuguese:banco, Persian:(bânk), Hindi:बैंक (baiṅk), Urdu:(baiṅk), Telugu:బ్యాంకు (byāṅku), Tamil:(vaṅki)|
+|**banke**|bank (depository, cache)|English:deu:Polish:Malay:bank, Turkish:banka, Russian:банк (bank), French:banque, Spanish:Portuguese:banco, Persian:(bânk), Hindi:बैंक (baiṅk), Urdu:(baiṅk), Telugu:బ్యాంకు (byāṅku), Tamil:(vaṅki)|
 |**banse**|bamboo|Hindi:बांस (bāns), Bengali:বাঁশ (bãśô), Punjabi:ਬਾਂਸ (bāns), Swahili:mwanzi|
 |**banye**|bath|Spanish:bañera, Portuguese:banheira, Greek:μπάνιο (bánio), Russian:ванна (vanna), Arabic:بانيو‎ (banyu)|
 |**banze**|board (plank, slab, pane)|Mandarin:板子 (bǎnzi), mon:банз (banz), Korean:판자 (panja), Cantonese:板 (baan2), Japanese:板 (ban), Vietnamese:bảng, + Swahili:bao|
@@ -219,7 +219,7 @@
 |**cune**|spring (springtime)|Mandarin:春 (chūn), Cantonese:(ceon1), Japanese:春季 (shunki), Korean:춘계 (chun-gye), Vietnamese:xuân|
 |**cupa**|suck (absorb)|Spanish:Portuguese:chupar, Khmer:ជប់ (cup)|
 |**cute**|exit (leaving)|Mandarin:出 (chū), Hakka-Chinese:(chut), Korean:출 (chul), Hindi:छूटना (chūtnā)|
-|**cuza**|choose (elect, select)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
+|**cuza**|choose (elect, select, pick)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
 |**da**|of (particle of possession)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dade**|die (dice)|Spanish:Portuguese:Filipino:dado, Malay:Swahili:dadu|
 |**daixer**|ambassador|Mandarin:大使 (dàshǐ), Cantonese:大使 (daai6 si3), Japanese:大使 (taishi), Korean:대사 (daesa), Vietnamese:đại sứ|
@@ -388,7 +388,7 @@
 |**gaje**|elephant|Hindi:गज (gaj), Telugu:గజము (gajamu), Kannada:ಗಜ (gaja), Malay:gajah, Filipino:gadya|
 |**galaksia**|galaxy|English:galaxy, Spanish:galaxia, Portuguese:galáxia, French:galaxie, Russian:галактика (galaktika), Turkish:Malay:galaksi, Hindi:गैलेक्सी (gaileksī)|
 |**galeria**|gallery (exhibition hall)|English:gallery, Spanish:galería, Portuguese:galeria, French:galerie, Russian:галерея (galereya), Turkish:galeri, Hindi:गैलरी (gailrī), Japanese:ギャラリー (gyararī)|
-|**galte**|mistake (error, fault)|Arabic:(ğalṭa), Hindi:ग़लती (ġaltī), Urdu:(ġalatī), Persian:(ğalat), Turkish:galat|
+|**galte**|mistake (error, fault, bug)|Arabic:(ğalṭa), Hindi:ग़लती (ġaltī), Urdu:(ġalatī), Persian:(ğalat), Turkish:galat|
 |**gamele**|camel|Arabic:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) English:camel, Spanish:camello, Portuguese:camelo, deu:Kamel|
 |**gami**|married|English:married, French:marié, Spanish:Portuguese:marido|
 |**gance**|hook|Spanish:Portuguese:gancho, Italian:gancio, Malay:gancu, Greek:γάντζος (gántsos), Turkish:kanca, Mandarin:钩子 (gōuzi), kar:კაუჭი (ḳauč̣i)|
@@ -561,7 +561,7 @@
 |**kababa**|barbecue (grill)|Arabic:Persian:Urdu: كباب (kabāb), Turkish:Malay:English:Spanish:kebab, Russian:кебаб (kebab), Hindi:कबाब (kabāb), Bengali:কাবাব (kabab)|
 |**kabave**|water buffalo|Spanish:carabao, Malay:kerbau, jav:kebo, Khmer:ក្របី (krɑbəy)|
 |**kabine**|cabin (booth)|English:cabin, Spanish:cabaña, Portuguese:cabana, French:cabane, Bengali:কেবিন (kebin)|
-|**kaboge**|squash (pumpkin, gourd)|Turkish:kabak, Swahili:boga, Japanese:カボチャ (kabocha)|
+|**kaboge**|squash (pumpkin, gourd)|CucurbitaTurkish:kabak, Swahili:boga, Japanese:カボチャ (kabocha)|
 |**kade**|cod|English:cod, Arabic:قد (qad)|
 |**kafase**|cage|Arabic:(qafaṣ), Persian:Urdu:(qafas), Hindi:क़फ़स (qafas), Punjabi:ਕਫ਼ਸ (kafas), Turkish:kafes|
 |**kafe**|coffee|deu:Kaffee, French:Spanish:Portuguese:café, Russian:кофе, Mandarin: 咖啡 (kāfēi), Cantonese:咖啡 (gaa3 fe1), English:coffee, Hindi:काफ़ी (kāfī), Bengali:কফি (kôphi), Turkish:kahve, Filipino:kape, Thai:กาแฟ (kafæ)|
@@ -632,7 +632,7 @@
 |**kerube**|cherub|heb:כְּרוּב‎ (kerúv), English:cherub, Spanish:querubín, Portuguese:querubim, French:chérubin, Russian:херувим (heruvim), Swahili:kerubi, Malay:kerub, Mandarin:基路伯 (jīlùbó)|
 |**ketele**|kettle|English:kettle, Russian:котёл (kot’ol), Hindi:केतली (ketlī), Bengali:কেতলি (ketli), Malay:ketel|
 |**kexe**|hair|Japanese:毛 (ke), Hindi:केश (keś), Urdu:(keś), Punjabi:ਕੇਸ਼ (keś), Telugu:(kēśamu), Kannada:(kēśa)|
-|**kimia**|chemistry|Arabic:(kīmiyāʾ), Malay:kimia, Swahili:kemia, Turkish:kimya, French:chimie, Spanish:Portuguese:química, Russian:химия (himiya)|
+|**kimlojia**|chemistry|Arabic:(kīmiyāʾ), Malay:kimia, Swahili:kemia, Turkish:kimya, French:chimie, Spanish:Portuguese:química, Russian:химия (himiya)|
 |**kini**|kinetic|English:kinetic, Spanish:Portuguese:cinético, French:cinétique, deu:kinetisch, Russian:кинетический (kineticheskyy)|
 |**kioske**|kiosk|Persian:کوشک‎ (kôšk), English:Turkish:kiosk, Spanish:quiosco, Portuguese:quiosque, Russian:киоск (kiosk), Hindi:कीओस्क (kīosk), Malay:kios, Japanese:キオスク (kiosuku)|
 |**kire**|carat|Arabic:(kirāʾ), Turkish:kira, Hindi:किराया (kirāyā), Urdu:(kirāyā), Persian:(kerāya), Spanish:alquiler|
@@ -640,6 +640,8 @@
 |**kive**|kiwi fruit|English:kiwi|
 |**klari**|clear (obvious)|deu:klar, Spanish:Portuguese:claro, English:clear, French:clair|
 |**klase**|class (category)|English:class, Spanish:clase, Portuguese:French:classe, Russian:класс (klass), کلاس‎ (kelâs), Malay:kelas, Japanese:クラス (kurasu)|
+|**kliene**|customer (client, patron)|English:client, Spanish:Portuguese:French:cliente, Russian:клиент (klient), Japanese:クライアント (kuraianto), Malay:klien|
+|**klika**|click (snap)|English:click, Spanish:clic, Portuguese:clicar, French:claquer, Hindi:क्लिक (klika), Bengali:ক্লিক (klika), Malay:klik, Japanese:クリック (kurikku)|
 |**klime**|climate|Greek:κλίμα (eklíma), Spanish:Portuguese:clima, Arabic:(ʾiqlīm), Malay:Turkish:iklim, English:climate, Russian:климат (klimat)|
 |**klone**|clone (replica)|en:Portuguese:French:clone, Spanish:clon Russian:клон (klon), Malay:klon, Japanese:クローン (kurōn)|
 |**klube**|club|English:Spanish:French:club, Portuguese:clube, Russian:клуб, Turkish:kulüp, Swahili:klabu, Hindi:क्लब (klab), Malay:kelab, Mandarin:俱乐部 (jùlèbù), Japanese:クラブ (kurabu)|
@@ -844,9 +846,8 @@
 |**mese**|month|Portuguese:mês, Spanish:mez, Russian:месяц (mesyats), Bengali:মাস (mas), Swahili:mwezi|
 |**mester**|master (expert)|Portuguese:mestre, French:maître, Polish:mistrz, English:master, Russian:мастер (master), Spanish:maestro, deu:Meister, Hindi:(mistrī)|
 |**metale**|metal|English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)|
-|**mete**|measurement|English:meter, Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra|
 |**metode**|method (means)|English:method, Spanish:Portuguese:método, French:méthode, Russian:ме́тод (métod), Turkish:metod, Malay:metode|
-|**metre**|meter (100 cm)|English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:mita|
+|**metre**|measurement|English:meter, Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra|
 |**mey (meyi)**|every (each)|Mandarin:每 (měi), Wu-Chinese:每 (me), Vietnamese:mọi, Korean:매 (mae)|
 |**meze**|table|Portuguese:Spanish:mesa, Hindi:मेज़ (mez), Swahili:meza, Malay:meja, Tamil:மேசை (mesei), Persian: میز‏‎ (miz), Turkish:masa|
 |**miene**|noodle|Mandarin:面 (miàn), Malay:mie, Japanese:麺 (men), Thai:หมี่ (mii), Khmer:មី (mi)|
@@ -869,6 +870,7 @@
 |**misale**|example (instance of)|Hindi:मिसाल (misāl), Arabic:(mithāl), Persian:(mesâl), Malay:misal, Turkish:mesela|
 |**misria**|Egypt|Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr)|
 |**mite**|meeting (gathering)|English:meet, French:meeting, Spanish:mitin, Japanese:ミーティング (mītingu), Hindi:मीटिंग (mīṭiṅg)|
+|**mitre**|meter (100 cm)|English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:mita|
 |**mixa**|mix (blend)|deu:mischen, Russian:мешать (měšat'), Polish:mieszać, English:mix, Italian:miscelare, + Hindi:मिश्रण (miśrān)|
 |**mode**|way (manner, mode)|French:English:mode, Spanish:Portuguese:modo|
 |**modele**|model (design)|English:model, Spanish:Portuguese:modelo, French:modèle, deu:Modell, Russian:моде́ль (modelʹ)|
@@ -907,6 +909,7 @@
 |**nafase**|breath|Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi|
 |**nagre**|town|Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)|
 |**nahune**|nail (fingernail)|Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)|
+|**najise**|corruption (filth, pollution, contamination, najis)|Arabic:نجس (najis), Persian:نجس (najes), Malay:najis + English:najis, Russian:наджа́са (nadžása), Turkish:necis|
 |**nam (name)**|name|Hindi:नाम (nām), Persian:Punjabi:Urdu:(nām), Thai:นาม (naam), Malay:nama, deu:English:name, Japanese:名前 (namae), French:nom|
 |**namloge**|noun|Mandarin:名词 (míngcí), Cantonese:名詞 (ming4 ci4), Japanese:名詞 (meishi), Korean:명사 (myeongsa), Hindi:नाम (nām), French:nom, Spanish:nombre, Portuguese:nome, Russian:имя (imya), Arabic:(ism), per:(esm), Swahili:nomino|
 |**nanase**|pineapple|Malay:nanas, Swahili:nanasi, Hindi:अनन्नास (anānnas), Russian:ананас (ananas)|

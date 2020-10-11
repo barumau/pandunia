@@ -5,11 +5,10 @@
 |**-ia**|sufijo para regiónes y sustantivos abstractos|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
 |**-u**|sufijo para verbos con el orden de las palabras OVS|hau:wol:-u, swa:-wa|
 |**a**|pero|rus:а (a), pol:a, + zho:啊 (ā), + eng:ah|
-|**abace**|alfabeto|ell:(alphabētos), spa:abecedario, fas:(alefbâ), ara:(abjad), hun:ábécé|
 |**abite**|abeto|spa:por:abeto|
 |**abla**|poder|eng:able, spa:hábil, fra:habile, ron:abil|
 |**acion (acione)**|acción|fra:eng:action, spa:acción, por:ação, may:aksi|
-|**aciy**|achís|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
+|**acue**|achís|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |**adalia**|justicia|ara:(ʿadl), tur:adalet, may:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |**ade**|costumbre (hábito)|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |**adrese**|dirección|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
@@ -26,6 +25,7 @@
 |**akare**|garrapata (ácaro)|spa:por:ácaro, fra:acarien, tur:acari|
 |**akse**|eje|eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|
 |**aksente**|acento|ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|
+|**aksese**|acceso|eng:access, spa:acceso, por:acesso, fra:accès, may:akses, jpn:アクセス (akusesu)|
 |**alge**|alga|deu:Alge, fra:algue, tur:alg, fas:(âlg), eng:spa:por:pol:alga|
 |**ali**|otro|ell:άλλος (állos), ltn:alius, eng:allo-, por:spa:alo-|
 |**alkole**|alcohol|fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol|
@@ -221,7 +221,7 @@
 |**daixer**|embajador|zho:大使 (dàshǐ), yue:大使 (daai6 si3), jpn:大使 (taishi), kor:대사 (daesa), vie:đại sứ|
 |**daka**|cubrir (tapar)|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |**dalile**|prueba|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
-|**damaje**|daño|eng:damage, fra:dommage|
+|**damaje**|daño (corrupción)|eng:damage, fra:dommage|
 |**damogeme**|damas|fra:jeu de dames, ara:(dāmā), may:dam, spa:por:damas, deu:Damespiel|
 |**dane**|partícula (grano, bala)|hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |**danke**|gracias|eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|
@@ -553,7 +553,7 @@
 |**kababa**|asar|ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab)|
 |**kabave**|búbalo (arni)|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|
 |**kabine**|cabaña|eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)|
-|**kaboge**|calabaza|tur:kabak, swa:boga, jpn:カボチャ (kabocha)|
+|**kaboge**|calabaza|Cucurbitatur:kabak, swa:boga, jpn:カボチャ (kabocha)|
 |**kade**|bacalao|eng:cod, ara:قد (qad)|
 |**kafase**|jaula (caja)|ara:(qafaṣ), fas:urd:(qafas), hin:क़फ़स (qafas), pnb:ਕਫ਼ਸ (kafas), tur:kafes|
 |**kafe**|café|deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|
@@ -624,7 +624,7 @@
 |**kerube**|querubín|heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|
 |**ketele**|hervidor (tetera)|eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|
 |**kexe**|pelo|jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|
-|**kimia**|química|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
+|**kimlojia**|química|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
 |**kini**|cinético|eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|
 |**kioske**|quiosco (kiosco)|fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|
 |**kire**|alquiler|ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|
@@ -632,6 +632,7 @@
 |**kive**|kiwi fruta|eng:kiwi|
 |**klari**|claro|deu:klar, spa:por:claro, eng:clear, fra:clair|
 |**klase**|clase (categoría)|eng:class, spa:clase, por:fra:classe, rus:класс (klass), کلاس‎ (kelâs), may:kelas, jpn:クラス (kurasu)|
+|**kliene**|cliente|eng:client, spa:por:fra:cliente, rus:клиент (klient), jpn:クライアント (kuraianto), may:klien|
 |**klime**|clima|ell:κλίμα (eklíma), spa:por:clima, ara:(ʾiqlīm), may:tur:iklim, eng:climate, rus:климат (klimat)|
 |**klone**|clonar|en:por:fra:clone, spa:clon rus:клон (klon), may:klon, jpn:クローン (kurōn)|
 |**klube**|club|eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|
@@ -833,9 +834,8 @@
 |**mese**|mez|por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|
 |**mester**|maestro (experto)|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |**metale**|metal|eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|
-|**mete**|medida|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |**metode**|método|eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode|
-|**metre**|metro|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|
+|**metre**|medida|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |**mey (meyi)**|cada|zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|
 |**meze**|mesa|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**miene**|fideo (tallarín)|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
@@ -858,6 +858,7 @@
 |**misale**|ejemplo|hin:मिसाल (misāl), ara:(mithāl), fas:(mesâl), may:misal, tur:mesela|
 |**misria**|Egipto|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |**mite**|reunión (junta, mitin)|eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|
+|**mitre**|metro|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|
 |**mixa**|mezclar|deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|
 |**mode**|modo (manera, forma)|fra:eng:mode, spa:por:modo|
 |**modele**|modelar|eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)|
@@ -896,6 +897,7 @@
 |**nafase**|respiración|ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|
 |**nagre**|pueblo|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
 |**nahune**|uña|fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)|
+|**najise**|contaminación (corrupción, porquería, suciedad)|ara:نجس (najis), fas:نجس (najes), may:najis + eng:najis, rus:наджа́са (nadžása), tur:necis|
 |**nam (name)**|nombre|hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|
 |**namloge**|sustantivo|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |**nanase**|piña|may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|

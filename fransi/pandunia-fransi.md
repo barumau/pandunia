@@ -6,7 +6,6 @@
 -u - suffixe pour les verbes avec ordre des mots OVS  
 a - mais (bien que)  
 ##a
-abace - alphabet  
 abite - Sapin  
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
@@ -14,8 +13,8 @@ abli - possible
 ablo - peut-être  
 acinium - actinium  
 acion (acione) - action  
-aciy - atchoum  
-aciya - éternuer  
+acua - éternuer  
+acue - atchoum  
 adali - juste  
 adalia - justice  
 adrese - adresse  
@@ -36,6 +35,7 @@ ajili - agile
 akare - acarien  
 akse - axe  
 aksente - accent  
+aksese - accès  
 ala - changer  
 alfone - allophone  
 alge - algue  
@@ -168,6 +168,7 @@ bekopote - terre cuite
 bele - pelle  
 bere - baie  
 berje - bouleau  
+bete - betterave  
 bina - construire  
 bire - bière  
 bivcaniver - compost  
@@ -340,6 +341,7 @@ granite - granit
 grave - gravire  
 grimase - grimace  
 grupe - groupe  
+gukuve - crisantemo  
 gule - goule  
 gune - armée  
 gunrene - soldat  
@@ -354,6 +356,7 @@ halov - allô
 hami - important  
 hande - main  
 handoxake - bras  
+harfia - alphabet  
 hatre - danger  
 hayalge - algues  
 haye - mer  
@@ -459,17 +462,19 @@ karote - carotte
 karsi - rêche (rugueux, gros)  
 karsolimone - combava  
 kaske - carapace (coquille, coquillage, croûte)  
+katoglutobanze - presse-papier  
 katuse - cactus  
 kava - creuser  
 kave - fosse  
 ke - que (quoi)  
 kerne - coeur  
-kimia - chimie  
+kimlojia - chimie  
 kitaba - écrire  
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomaxine - machine à écrire  
 klari - clair  
+kliene - client  
 klimomute - changement climatique  
 ko - que (comme)  
 ko? - comment  
@@ -606,7 +611,6 @@ meninge - méninge
 mese - mois  
 mester - maître  
 metalbede - enclume  
-metre - mètre  
 meze - table  
 migre - migration  
 migru - s'installer (déménager)  
@@ -616,6 +620,7 @@ minte - menthe
 mirdi - faible  
 misalo - par exemple  
 misria - Égypte  
+mitre - mètre  
 mode - mode (façon, manière)  
 moke - arbre  
 mokojongoparke - arboretum, pépinière  
@@ -635,6 +640,7 @@ mule - racine
 muskulbine - culturisme (musculation)  
 ##n
 nade - rivière (fleuve)  
+najise - pollution  
 namkitaba - signer  
 narde - backgammon  
 nasia - nation  
@@ -723,6 +729,7 @@ pike - cime (pic, sommet)
 pikosape - pioche  
 pine - épingle  
 pinkardone - chardon aux ânes  
+pinsobanze - porte-bloc (planchette à pince)  
 pipre - poivre  
 piprominte - menthe poivrée  
 piratia - piraterie  
@@ -796,6 +803,8 @@ salmone - truite
 samane - ciel  
 samemose - compassion  
 sami - égal (même)  
+sammetri - symétrique  
+sammetria - symétrie  
 samraye - accord  
 samsifia - simulation  
 sanduice - sandwich  
@@ -959,7 +968,7 @@ xixe - brochette
 xixmanse - chachlik  
 xopa - acheter  
 xope - shopping  
-xukarbete - betterave à sucre (betterave sucrière, betterave)  
+xukarbete - betterave à sucre (betterave sucrière)  
 xukare - sucre  
 xukargrase - Canne à sucre  
 xukaroranje - orange douce  
@@ -981,6 +990,7 @@ zemgrafe - carte
 zemgrafia - cartographie (geographie)  
 zemkaski plate - plaque tectonique  
 zemlojia - géologie  
+zemmetria - géométrie  
 zemnici prizone - oubliette (cul de basse-fosse)  
 zeyile - verrue  
 zeze - mouche  

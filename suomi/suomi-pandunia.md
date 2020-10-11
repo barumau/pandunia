@@ -2,7 +2,7 @@
 -llinen (kantasanalle ominaispiirteinen) - iki  
 -n (oma) - du  
 ##a
-aakkoset (ABC) - abace  
+aakkoset (ABC) - harfia  
 aalto (laine) - onde  
 aamiainen - subyame  
 aamu - sube  
@@ -42,7 +42,7 @@ ainoa (ainut) - uniki
 ainoastaan (vain) - uniko  
 aisti - sense  
 aistia - sensa  
-aivastaa - aciya  
+aivastaa - acua  
 aivokalvo - meninge  
 aivokalvontulehdus - meningitis  
 aivot - serebre  
@@ -152,7 +152,7 @@ ateisti (jumalankieltäjä) - andeviste
 ateljee (studio) - estudia  
 Atlantin valtameri - atlanti haye  
 atomi - atome  
-atsii - aciy  
+atsii - acue  
 aueta (avautua) - kayu  
 aukaista (avata) - kaya  
 auki (avoin) - kayi  
@@ -378,6 +378,7 @@ Gambia - gambia
 Ganges - ganga  
 garam masala - garmi masale  
 gaselli - gazele  
+geometria - zemmetria  
 Georgia - kartuelia  
 germanium - germanium  
 Ghana - gania  
@@ -593,7 +594,7 @@ ilma - aire
 ilman - na  
 ilmanpaine - airbare  
 ilmapallo - balone  
-ilmapuntari (ilmanpainemittari, barometri) - airbarmeter  
+ilmapuntari (ilmanpainemittari, barometri) - airbarmetrer  
 ilmasto - klime  
 ilmastonmuutos - klimomute  
 ilmastotiede (klimatologia) - klimlojia  
@@ -854,7 +855,7 @@ keksi (pikkuleipä) - biskute
 kelpo (okei) - okey (okeyi)  
 keltainen - limonrangi  
 kelvin (K) - kelvine  
-kemia - kimia  
+kemia - kimlojia  
 kemikaali - kimi  
 kenguru - kangure  
 Kenia - kenia  
@@ -914,7 +915,7 @@ kiittää - danka
 kiivi - kive  
 kikherne - humuse  
 kilogramma - kilgram  
-kilometri - kilmetre  
+kilometri - kilmitre  
 kilpikonna - tortuge  
 kiltti - jentili  
 kineettinen (liike-) - kini  
@@ -1038,7 +1039,7 @@ kukkia - fulu
 kuljetus - transeria  
 kulkea poikki, läpi tai yli - transa  
 kulma (nurkka) - gone  
-kulmamitta (goniometri) - gonmeter  
+kulmamitta (goniometri) - gonmetrer  
 kulombi (mittayksikkö C) - kulombe  
 kulta - aure  
 kulttuuri - kulture  
@@ -1415,7 +1416,7 @@ mestari (asiantuntija) - mester
 mestari (voittaja) - campion (campione)  
 metalli - metale  
 meteli - kelele  
-metri - metre  
+metri - mitre  
 metrojuna (maanalainen) - tuneltren  
 metsä (viidakko) - jangle  
 miekka - katane  
@@ -1447,7 +1448,7 @@ missä? - sa ke
 mitali - medale  
 mitata - meta  
 miten? - ko?  
-mitta (koko, määrä) - mete  
+mitta (koko, määrä) - metre  
 Moldova - moldovia  
 molemminpuolinen (keskinäinen) - unali  
 molybdeeni - molidenum  
@@ -2181,7 +2182,7 @@ sementti - semente
 Senegal - senegalia  
 sensori (aistin) - senser  
 sentti - cent-  
-senttimetri (cm) - centometre  
+senttimetri (cm) - centomitre  
 seppä - metaljanger  
 Serbia - serbia  
 seura - socia  
@@ -2327,6 +2328,8 @@ Swazimaa - suatia
 sydän - xime  
 syksy (syys) - otone  
 sylkeä - tuha  
+symmetria - sammetria  
+symmetrinen - sammetri  
 synnyttää - jena  
 synty (syntymä) - jene  
 syntymäpäivä - jenden  
@@ -2649,7 +2652,7 @@ Uusi-Seelanti - novi zilandia
 uutinen - habare  
 Uzbekistan - uzbekia  
 ##v
-vaaka (puntari) - barmeter  
+vaaka (puntari) - barmetrer  
 vaaleanpunainen - rozorangi  
 vaara - hatre  
 vaarallinen - hatri  
@@ -2657,7 +2660,7 @@ vaate (puku) - fuke
 vaatia (edellyttää) - xarta  
 vaatimus (edellytys) - xarte  
 vaha - mume  
-vahingollinen - damaji  
+vahingollinen - damajani  
 vaihe (etappi) - faze  
 vaihtaa - badala  
 vaikea - kunani  

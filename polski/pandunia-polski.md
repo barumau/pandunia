@@ -7,7 +7,6 @@
 -u - przyrostek dla czasowników z szykiem zdania OVS  
 a - ale, lecz  
 ##a
-abace - alfabet, abecadło  
 abite - jodła  
 abla - móc, umieć  
 able - możliwość, umiejętność  
@@ -15,8 +14,8 @@ abli - możliwy
 ablo - prawdopodobnie (możliwie)  
 acinium - aktyn  
 acion (acione) - działanie (akcja)  
-aciy - apsik  
-aciya - kichać (kichnąć)  
+acua - kichać (kichnąć)  
+acue - apsik  
 adali - sprawiedliwy  
 adalia - sprawiedliwość  
 ade - nawyk (przyzwyczajenie)  
@@ -33,7 +32,7 @@ agresi - agresywny
 aha - rozumieć, pojmować  
 ainstainium - einstein  
 airbare - ciśnienie atmosferyczne  
-airbarmeter - barometr  
+airbarmetrer - barometr  
 aire - powietrze  
 airgune - siły powietrzne  
 airia - Irlandia  
@@ -115,7 +114,7 @@ ankayi - zamknięty
 anker - kotwica  
 anlimitia - nieskończoność  
 anmema - zapominać (zapomnieć)  
-anonidi - niepotrzebny  
+annidi - niepotrzebny  
 anpace - niepokój  
 anromansi - aromantyczny  
 anseksi - aseksualny  
@@ -265,7 +264,7 @@ barka - gratulować; błogosławić
 barke! - gratulacje!  
 barkoke - morela  
 barmetale - metal ciężki  
-barmeter - waga (urządzenie ważące)  
+barmetrer - waga (urządzenie ważące)  
 barti - Indyjski  
 barti haye - Ocean Indyjski  
 bartia - Indie  
@@ -331,6 +330,7 @@ berilium - beryl
 berje - brzoza  
 berkelium - berkel  
 bermudia - Bermudy  
+bete - burak  
 betone - beton  
 beyu - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 biblia - Biblia  
@@ -471,7 +471,7 @@ cenge - warstwa (poziom, piętro, kondygnacja)
 ceni - poprzedni  
 ceno - wcześniej (uprzednio)  
 cent- - centy-, procent, na sto, setna część  
-centometre - centymetr  
+centomitre - centymetr  
 cenvida - przewidzieć (spodziewać się)  
 cenvidi - spodziewany (przewidziany)  
 cerium - cer  
@@ -528,8 +528,8 @@ daka - przykryć, przykrywać, ukryć, ukrywać
 dake - pokrycie; pokrywa, wieko, dekiel; pokład  
 dalila - dowieść, dowodzić; zeznać, zeznawać  
 dalile - dowód; zeznanie  
+damajani - krzywdzący (szkodliwy)  
 damaje - obrażenia (rana, krzywda)  
-damaji - krzywdzący (szkodliwy)  
 damogeme - warcaby  
 dane - cząstka (ziarno, kula, pocisk)  
 danga - dzwonić (dźwięczeć, szczękać)  
@@ -1023,7 +1023,7 @@ gole - cel
 goleme - golem  
 gome - guma  
 gone - kąt  
-gonmeter - goniometr (kątomierz)  
+gonmetrer - goniometr (kątomierz)  
 gorile - goryl  
 gotone - bawełna  
 gova - iść (przemieścić się)  
@@ -1110,6 +1110,7 @@ harabi - zły, zrujnowany, zepsuty
 harama - zabronić (wzbronić, zakazać)  
 harami - zabroniony (wzbroniony, nielegalny, haram, tabu)  
 harfe - litera, znak  
+harfia - alfabet, abecadło  
 harmoni - harmoniczny  
 harmonia - harmonia  
 harnese - zaprzęc, zaprzęgać  
@@ -1533,10 +1534,10 @@ ki xey - jak?
 ki yangi - jaki?  
 kilgram - kilogram (kg)  
 kili - tysiąc  
-kilmetre - kilometr  
+kilmitre - kilometr  
 kilo- - kilo-  
 kimi - chemiczny  
-kimia - chemia  
+kimlojia - chemia  
 kina - ruszać, przenościć, zmieniać miejsce  
 kine - ruch  
 kingrafe - kino  
@@ -2052,9 +2053,8 @@ meta - zmierzyć
 metalbede - kowadło  
 metale - metal  
 metaljanger - kowal  
-mete - miara  
 metode - metoda, sposób  
-metre - metr  
+metre - miara  
 mexikia - Meksyk  
 mexikia site - Meksyk  
 mey (meyi) - każdy, wszyscy  
@@ -2107,6 +2107,7 @@ misri - egipski
 misria - Egipt  
 mita - spotkać  
 mite - spotkanie, zebranie  
+mitre - metr  
 mixa - miksować, mieszać  
 mixer - mikser, blender, robot kuchenny  
 mixi alkole - koktajl  

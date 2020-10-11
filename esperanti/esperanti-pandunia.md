@@ -35,7 +35,7 @@ akva - suyi
 akvo - suy (suye)  
 akvomelono - arbuze  
 al (ĝis, por) - pa  
-alfabeto - abace  
+alfabeto - harfia  
 algo - alge  
 alia - ali  
 alie - alo  
@@ -243,7 +243,7 @@ citi - cita
 citologio - selolojia  
 citrono - limone  
 ##d
-damaĝa - damaji  
+damaĝa - damajani  
 damaĝo - damaje  
 danco - danse  
 Danio - dania  
@@ -489,6 +489,7 @@ gazo - gaze
 geedzeco - gamia  
 generala (universala) - putong (putongi)  
 genuo - gute  
+geometrio - zemmetria  
 germaniumo - germanium  
 gitaro - gitare  
 glacia - aisi  
@@ -704,7 +705,7 @@ kialo - sabe
 kiam? - ki sate  
 kie - sa ke  
 kiel? - ko?  
-kilometro - kilmetre  
+kilometro - kilmitre  
 kio? - ke  
 kio? - ki xey  
 kiom? - ko multo  
@@ -965,11 +966,11 @@ metalo - metale
 metiero - pexe  
 metiisto - janger  
 metodo - metode  
-metro - metre  
+metro - mitre  
 metroo - tuneltren  
 mezo - medi  
 mezuri - meta  
-mezuro - mete  
+mezuro - metre  
 mi - me  
 mia - mi  
 mielo - mele  
@@ -1385,6 +1386,8 @@ signifo - mene
 silenta - xuxi  
 silentigi - xuxa  
 silicio - silike  
+simetria - sammetri  
+simetrio - sammetria  
 simpla - simpli  
 Singapuro - singapur  
 siropo - xirope  
@@ -1479,7 +1482,7 @@ teorio - teoria
 tera - duni  
 terbio - terbium  
 termometro - termometer  
-terni - aciya  
+terni - acua  
 terorismo - teroristia  
 teroristo - teroriste  
 teroro - terore  
@@ -1673,7 +1676,7 @@ zuluo - zuli
 ĝis - ata  
 ĝusta (prava) - sahi  
 ĝuste (ekzakte) - justo  
-ĥemio (kemio) - kimia  
+ĥemio (kemio) - kimlojia  
 ĵaŭdo - var 4 (var cari)  
 ĵeti (lanĉi) - lanca  
 ĵetkubo - dade  

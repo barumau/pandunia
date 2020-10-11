@@ -22,6 +22,9 @@ abuela - lavmame
 aburrido - bori  
 aburrimiento - boria  
 acacia de copa plana - helisbabule  
+acceder - aksesa  
+accesible - aksesabli  
+acceso - aksese  
 accesorio (afijo) - fikse  
 acción - acion (acione)  
 aceite (óleo) - nefte  
@@ -29,7 +32,7 @@ aceituna - zaitune
 acelga - selge  
 acento - aksente  
 aceptar - okeya  
-achís - aciy  
+achís - acue  
 aciano (azulejo) - nilsentaure  
 aclarar (clarificar) - klara  
 acontecimiento (caso, suceso, evento) - kase  
@@ -97,7 +100,7 @@ alcohólico - alkoli
 aldea - ruste  
 Alemania - doicia  
 alemán - doici  
-alfabeto - abace  
+alfabeto - harfia  
 alfabeto cirílico - kirili abace  
 alfabeto latino - latini abace  
 alfiler (espina, aguja) - pine  
@@ -257,6 +260,7 @@ aullido - ulule
 auspicioso - bonsinyi  
 Australia - australia  
 Austria - osteria  
+autenticar - vera  
 autocratia (monarquía) - monkratia  
 automotor (automotriz) - automoti  
 automóvil (coche) - motogare  
@@ -327,7 +331,7 @@ barrera - baryer
 barriga (vientre, panza) - pete  
 barril (tonel) - tonge  
 baréin - bahrain  
-barómetro - airbarmeter  
+barómetro - airbarmetrer  
 base - baze  
 bastante - basi  
 basura (desechos) - laje  
@@ -369,6 +373,7 @@ blanco - baki
 blando (mullido) - komali  
 blog - bloge  
 bloquear (obstruir) - barya  
+bloquearse (colgarse, fallar) - harabu  
 boca - boke  
 bodega - vineria  
 bohrio - borium  
@@ -489,6 +494,7 @@ campo - rustia
 campo de visión - vidomaidane  
 Canadá - kanadia  
 canal (cauce, acequia) - kanale  
+cancelar - nolisa  
 canción - cante  
 candela (unidad de intensidad luminosa) - kandele  
 canguro - kangure  
@@ -564,7 +570,7 @@ central - jungi
 centrar (concentrar) - junga  
 centrarse (en el centro de) - jungu  
 centro - junge  
-centímetro - centometre  
+centímetro - centomitre  
 cepillar con garlopa - randa  
 cepillo (brocha) - broxe  
 cepillo de dientes - dantobroxe  
@@ -636,6 +642,7 @@ clarín (corneta) - buge
 clase (categoría) - klase  
 clasificar - klasa  
 clavo (pincho, punta) - dinge  
+cliente - kliene  
 clima (tiempo) - tenke  
 clima - klime  
 climatología - klimlojia  
@@ -742,6 +749,7 @@ considerar (reflexionar) - hema
 consonante - kenarfone  
 constitución - bazokanune  
 construir (edificar) - bina  
+contaminación (corrupción, porquería, suciedad) - najise  
 contar - nombra  
 contener - inda  
 contenido - tene  
@@ -753,6 +761,7 @@ contrato (tratado) - trate
 contribuir - fendona  
 convalaria (lirio de los valles) - vadosusane  
 convenion (pacto) - kontrate  
+copia de seguridad - sekuri kopiye  
 copiar (réplica) - kopiya  
 copiar (réplica) - kopiye  
 copérnico - kopernikium  
@@ -773,6 +782,7 @@ corregir - saha
 correo - poste  
 correr (esprintar) - esprinta  
 corriente de resaca - tirlive  
+corromper (contaminar) - najisa  
 corsario - botokaper  
 cortar - kata  
 cortina - parde  
@@ -877,8 +887,10 @@ darse cuenta (notar) - buda
 darwinismo - darvinistia  
 darwinista - darviniste  
 datos - date  
-dañino (perjudicial) - damaji  
-daño - damaje  
+dañado - damaji  
+dañar - damaja  
+dañino (perjudicial) - damajani  
+daño (corrupción) - damaje  
 de (desde) - ca  
 de (posposición de posesión) - da  
 de (posposición de posesión) - du  
@@ -917,6 +929,7 @@ demócrata - demkratiste
 dentista (odontólogo) - dantomediker  
 deporte - kele  
 deportista - keler  
+depurar - angalta  
 derechista - raitiste  
 derecho - hake  
 derecho - raiti  
@@ -1190,7 +1203,7 @@ estirar (extender) - vaytira
 esto - ye  
 esto - yi  
 Estonia - estia  
-estornudar - aciya  
+estornudar - acua  
 estrella - xinge  
 estribor - botoraite  
 estudiante - darser  
@@ -1229,6 +1242,7 @@ exterior - vayi
 extranjero - vaydexi  
 exónimo - vaynam  
 ##f
+facilidad - izia  
 falda - jupe  
 falla (mal funcionamiento) - malfunce  
 fallo (juicio, criterio) - hakime  
@@ -1321,6 +1335,7 @@ fusión nuclear - kerni livunisia
 futuro - vile  
 fábrica - fateria  
 fácil - izi  
+fácil acceso (accesibilidad) - izia da aksese  
 física - fizike  
 física - fizikia  
 física nuclear - kerni fizikia  
@@ -1369,6 +1384,7 @@ genial - kuli
 genotipo - jentipe  
 gente - nase  
 geología - zemlojia  
+geometría - zemmetria  
 Georgia (República de Georgia) - kartuelia  
 Georgias del Sur y Sándwich del Sur - sudi jorjia e sudi sanduice nesia  
 gerencia (dirección) - nomia  
@@ -1391,7 +1407,7 @@ gobierno - governe
 golpear (pegar) - darba  
 goma (caucho, hule) - gome  
 goma arábiga - arabobabule  
-goniómetro (medidor de ángulos) - gonmeter  
+goniómetro (medidor de ángulos) - gonmetrer  
 gorila - gorile  
 gorila occidental - vestogorile  
 gorila oriental - dongogorile  
@@ -1582,6 +1598,7 @@ importar - indomisa
 imprimir - capa  
 impuesto (tributo, tarifa) - tarife  
 imán - mangete  
+inclinar - gavtalu  
 inclinar - terca  
 India - bartia  
 indicador (cursor) - ponter  
@@ -1603,7 +1620,7 @@ ingeniero - injener
 Inglaterra - englia  
 inglés - engli  
 innato (endógeno) - indojeni  
-innecesario - anonidi  
+innecesario - annidi  
 inodoro (wáter, retrete) - tuale  
 insecto - koncunge  
 inspirar - inspira  
@@ -1616,6 +1633,7 @@ intenso (brusco, ácido, fuerte, afilado, rápido) - tezi
 intentar (probar) - testa  
 intercambiar (canjear) - badala  
 interesante - interesi  
+interfaz de línea de comandos - komandolinye  
 interior (interno) - indi  
 interior - inde  
 internacional - nasmedi  
@@ -1721,7 +1739,7 @@ kelvin - kelvine
 Kenia - kenia  
 kilo- - kilo-  
 kilograma - kilgram  
-kilometre - kilmetre  
+kilometre - kilmitre  
 Kirguizistán - kirgizia  
 Kiribati - kiribatia  
 kiwi fruta - kive  
@@ -1812,6 +1830,8 @@ lingüística - baxlojia
 liquen - algofunge  
 lirio - susane  
 lista - liste  
+lista blanca - halaloliste  
+lista negra - haramliste  
 listo (preparado) - redi  
 litio - litium  
 litro - litre  
@@ -1894,6 +1914,7 @@ malinterpretar - galto buda
 malo - mal (mali)  
 Malta - maltia  
 mamífero - mamale  
+mancha - najisbinde  
 mandar (ordenar) - komanda  
 mandarina (tangerina) - laloranje  
 manga - kamisi xake  
@@ -1962,7 +1983,7 @@ mañana - sube
 mear - pixa  
 medallón - medale  
 medicina - medikia  
-medida - mete  
+medida - metre  
 medio (mediano) - medi  
 medio - mede  
 medio - media  
@@ -2003,7 +2024,7 @@ meta (gol, destinación) - gole
 metal - metale  
 metal pesado - barmetale  
 meter prisa - yala  
-metro - metre  
+metro - mitre  
 metro - tuneltren  
 mez - mese  
 mezclar - mixa  
@@ -2442,11 +2463,12 @@ permitir (dejar) - halala
 pero - a  
 perro - vaf (vafe)  
 persona (gente) - ren (rene)  
-personal (privado) - auti  
+personal (privado, a medida) - auti  
+personalizar - auta  
 perspectiva (punto de vista) - vidopunte  
 pertenecer (ser miembro de) - memba  
 Perú - peruvia  
-pesa (báscula, balanza) - barmeter  
+pesa (báscula, balanza) - barmetrer  
 pesa - bare  
 pesado - bari  
 pescador - fixsaider  
@@ -2538,6 +2560,7 @@ por ejemplo - misalo
 porno - porne  
 pornografía - pornografia  
 porque - sa sabu  
+portapapeles - katoglutobanze  
 porto - porte  
 Portugal - portugalia  
 pose (postura) - poze  
@@ -2661,7 +2684,7 @@ quitar (pelar) - tira pile
 quién - ki ren  
 qué - ke  
 qué tipo de - ki yangi  
-química - kimia  
+química - kimlojia  
 químico - kimi  
 ##r
 racismo - rasistia  
@@ -2730,6 +2753,7 @@ reloj - reloje
 relámpago - eletrorade  
 remitente - miser  
 remojar (marinar, encurtir, macerar) - purxipa  
+remolacha - bete  
 remolacha azucarera - xukarbete  
 rendirse (darse por vencido) - salima  
 renio - renium  
@@ -2935,10 +2959,12 @@ silencioso - xuxi
 silicio - silike  
 silla (montura) - side  
 silla - kurse  
+simetría - sammetria  
 similar - samsifi  
 simple - simpli  
 simpático (amable) - dosti  
 simular - samsifa  
+simétrico - sammetri  
 sin - na  
 sin embargo - lekin (lekino)  
 Singapur - singapur  
@@ -2982,6 +3008,7 @@ suajili - suahili
 suave (liso) - lisi  
 subir (alzar) - gavu  
 subterráneo - zemnici  
+sucio (corrompido) - najisi  
 sucio - darti  
 Sudamérica - sudi amerike  
 sudor - suede  
@@ -3028,6 +3055,7 @@ sólido - gatomate
 tabaco - tabake  
 tabla (losa) - banze  
 tabla - table  
+tabla con pinza (carpeta con sujetapapeles) - pinsobanze  
 tabular - tabla  
 taiga - taige  
 Tailandia - tayia  
@@ -3235,6 +3263,7 @@ usar (aplicar) - uza
 uso (utilidad, beneficio) - faidia  
 ustedes - tote  
 usuario - uzer  
+utilizable (disponible) - uzabli  
 utuo (recíproco) - unali  
 uva - putave  
 Uzbekistán - uzbekia  

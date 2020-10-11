@@ -6,6 +6,7 @@ acacia faux-gommier - helisbabule
 acarien - akare  
 accent - aksente  
 accord - samraye  
+accès - aksese  
 acheter - xopa  
 actinium - acinium  
 action - acion (acione)  
@@ -34,7 +35,7 @@ Aller-retour - retrotikete
 alligator - kortokrokodile  
 allophone - alfone  
 allô - halov  
-alphabet - abace  
+alphabet - harfia  
 aluminium - alumine  
 amande - badame  
 amer - kuvi  
@@ -86,7 +87,7 @@ Asie - asia
 aspirine - aspirine  
 assez - basi  
 asthme - asme  
-atchoum - aciy  
+atchoum - acue  
 autel - altare  
 automne - otone  
 autre - ali  
@@ -130,7 +131,8 @@ bateau - bote
 beau - sundari  
 beauté - sundaria  
 besoin - nide  
-betterave à sucre (betterave sucrière, betterave) - xukarbete  
+betterave - bete  
+betterave à sucre (betterave sucrière) - xukarbete  
 bibliothèque - kitabia  
 bicyclette - sikle  
 bilingue - dulbaxi  
@@ -221,7 +223,7 @@ chaux - kalcomate
 chef - xefe  
 chemise - kamise  
 cher - ami  
-chimie - kimia  
+chimie - kimlojia  
 Chine - jungogia  
 chocolat - cokolate  
 chose - xey (xeye)  
@@ -237,6 +239,7 @@ cirse commun - perkardone
 citron - limone  
 citrouille - kaboge  
 clair - klari  
+client - kliene  
 cloche - danger  
 coeur - kerne  
 collaborer - konkara  
@@ -280,6 +283,7 @@ couvrir - daka
 crabe - krabe  
 creuser - kava  
 crevette - krevete  
+crisantemo - gukuve  
 cristal - kristal (kristale)  
 crochet - gance  
 crocodile - longokrokodile  
@@ -427,6 +431,7 @@ génotype - jentipe
 généreux - karimi  
 générosité (charité) - karimia  
 géologie - zemlojia  
+géométrie - zemmetria  
 ##h
 haut - gave  
 heure - hore  
@@ -576,7 +581,7 @@ mur - divare
 mycélium - fungonete  
 mât - maste  
 mère (maman) - mame  
-mètre - metre  
+mètre - mitre  
 méduse - hayjele  
 mémoire - meme  
 méninge - meninge  
@@ -713,15 +718,18 @@ poisson-globe - balonfixe
 poivre - pipre  
 poivre long - longopipre  
 poli - fotofrika  
+pollution - najise  
 pomme - apele  
 pont - pule  
 porte - porte  
+porte-bloc (planchette à pince) - pinsobanze  
 posidonie (herbiers marins) - haygrase  
 possible - abli  
 possédant (propriétaire) - malker  
 Poulpe (pieuvre) - balsenter  
 pousse - jovani moke  
 pouvoir (être capable) - abla  
+presse-papier - katoglutobanze  
 preuve - dalile  
 problème - probleme  
 problématique - problemi  
@@ -842,6 +850,8 @@ suffixe pour l'adverbe - -o
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
 sujet (thème) - teme  
+symétrie - sammetria  
+symétrique - sammetri  
 séminal - semi  
 série - serye  
 sûr - sekuri  
@@ -984,7 +994,7 @@ zèbre - zebre
 étagère - libobanze  
 étain - estane  
 état - hale  
-éternuer - aciya  
+éternuer - acua  
 étinceler - xingofota  
 étoile - xinge  
 étymologie - logaslia  
