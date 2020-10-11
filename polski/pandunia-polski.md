@@ -33,9 +33,9 @@ aha - rozumieć, pojmować
 ainstainium - einstein  
 airbare - ciśnienie atmosferyczne  
 airbarmetrer - barometr  
+Aire - Irlandia  
 aire - powietrze  
 airgune - siły powietrzne  
-airia - Irlandia  
 airporte - lotnisko (port lotniczy)  
 aise - lód  
 aishoke - hokej na lodzie  
@@ -52,7 +52,7 @@ akare - klescz (roztocze)
 akse - oś  
 aksente - akcent, nacisk  
 ala - zmienić (zmieniać)  
-alaskia - Alaska  
+Alaska - Alaska  
 alfone - alofon  
 alge - alga (wodorost)  
 algofunge - porost  
@@ -94,10 +94,10 @@ andes - Andy
 andesite - andezyt  
 andeviste - ateista  
 andiniste - niewierny  
-andoria - Andora  
+Andora - Andora  
 andoste - wróg (nieprzyjaciel)  
 aneskala - zejść (schodzić, zstąpić, zstępować)  
-angolia - Angola  
+Angola - Angola  
 ani - negatywny (przeciwny, nie)  
 anici - niechętny  
 anima - animować  
@@ -122,16 +122,16 @@ ansora - otworzyć (otwierać, odkluczyć, odkluczać)
 ansori - zamknięty na klucz (zakluczony)  
 antapa - odetkać, odtykać  
 antarti haye - Ocean Antarktyczny (Ocean Południowy)  
-antartia - Antarktyka  
+Antartike - Antarktyka  
 antene - antena  
-antigia - Antigua  
-antigia e barbudia - Antigua i Barbuda  
+Antigua - Antigua  
+Antigua e Barbuda - Antigua i Barbuda  
 anuse - odbyt  
 anusi - analny, odbytni  
 anzayisa - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 apele - jabłko  
 apelsose - sos jabłkowy  
-aphazia - Abchazja  
+Aphazia - Abchazja  
 aplika - zastosować, stosować  
 aplike - zastosowanie, aplikacja  
 arabi - arabski  
@@ -140,10 +140,10 @@ arane - pająk
 aranfobia - arachnofobia  
 aranonete - pajęczyna  
 arbuze - arbuz  
-arcahia - Abchazja  
+Arcahia - Abchazja  
 are - pole, powierzchnia  
 argente - srebro  
-argentinia - Argentyna  
+Argentina - Argentyna  
 argon - argon  
 argume - argument  
 aria - powierzchnia, region, teren  
@@ -158,9 +158,9 @@ aromu - pachnieć
 arsene - arsen  
 arte - sztuka  
 arti haye - Ocean Arktyczny  
-artia - Arktyka  
+Artike - Arktyka  
 artiste - artysta  
-arubia - Aruba  
+Aruba - Aruba  
 asane - postawa ciała; asana  
 asi - azjatycki  
 asia - Azja  
@@ -182,7 +182,7 @@ atome - atom
 auda - usłyszeć, słyszeć; słuchać  
 aure - złoto  
 auroranje - kumkwat  
-australia - Australia  
+Australia - Australia  
 aute - jaźń (tożsamość)  
 auti - osobisty, intymny, prywatny  
 automoti - samobieżny  
@@ -193,11 +193,11 @@ aventure - przygoda
 aventure da donjone - przygoda w lochu  
 aventurer - poszukiwacz przygód (awanturnik)  
 avgani - afgański  
-avgania - Afganistan  
+Avganistan - Afganistan  
 axur - Aszur  
 axuria - Asyria  
 ay - aj!, ał!  
-azeria - Azerbejdżan  
+Azeria - Azerbejdżan  
 ##b
 babe - rozdział, sekcja  
 babuce - kapeć (papeć, bambosz)  
@@ -218,10 +218,10 @@ bagaje - bagaż
 bagre - tygrys  
 bagroselote - ocelot tygrysi  
 bah - pfuj (fuj)  
-bahamia - Bahamy  
+Bahama - Bahamy  
 bahayiste - bahaista  
 bahayistia - bahaizm  
-bahrain - Bahrajn  
+Bahrain - Bahrajn  
 baki - biały  
 bakocoy - kapusta pekińska  
 bakomargarite - jastrun właściwy  
@@ -240,8 +240,8 @@ banane - banan
 bande - zespół (drużyna, grupa)  
 bandere - flaga, sztandar  
 bangli - banglijski  
+Banglodex - Bangladesz  
 banglodexi - bangladeski  
-banglodexia - Bangladesz  
 banka - oszczędzać (deponować)  
 banke - bank  
 banker - bankier  
@@ -252,9 +252,9 @@ banyu - kąpać się
 banze - deska  
 banzogeme - gra planszowa  
 bar - bar  
-barbados - Barbados  
+Barbados - Barbados  
 barbare - barbarzyńca  
-barbudia - Barbuda  
+Barbuda - Barbuda  
 barde - broda  
 bare - ciężar (brzemię)  
 bari - ciężki (masywny)  
@@ -267,7 +267,7 @@ barmetale - metal ciężki
 barmetrer - waga (urządzenie ważące)  
 barti - Indyjski  
 barti haye - Ocean Indyjski  
-bartia - Indie  
+Bartia - Indie  
 barude - proch strzelniczy  
 barxe - deszcz  
 barxi - deszczowy  
@@ -314,14 +314,14 @@ beker - piekarz
 bekeria - piekarnia  
 bekopote - terakota  
 bel - bel  
-belarusia - Białoruś  
 bele - łopata (szpadel)  
-belgia - Belgia  
-belizia - Belize  
+Belgia - Belgia  
+Belize - Belize  
+Belorusia - Białoruś  
 bence - ławka  
 benda - związać, wiązać; zapiąć, zapinać  
 bende - taśma; bandaż  
-beninia - Benin  
+Benin - Benin  
 benzine - benzyna  
 berande - weranda, balkon, taras, ganek  
 bere - jagoda  
@@ -329,7 +329,7 @@ berete - beret
 berilium - beryl  
 berje - brzoza  
 berkelium - berkel  
-bermudia - Bermudy  
+Bermuda - Bermudy  
 bete - burak  
 betone - beton  
 beyu - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
@@ -340,7 +340,7 @@ binde - punkt
 bine - budynek (struktura)  
 bire - piwo  
 bireria - bar, knajpa  
-bisavi ginia - Guinea Bissau  
+Bisau Ginia - Guinea Bissau  
 bise - genderqueer, niebinarny  
 biskute - biszkopt, ciastko  
 bismute - bizmut  
@@ -363,7 +363,7 @@ bloge - blog
 boikote - bojkot  
 boke - usta  
 bol (bole) - piłka  
-bolgaria - Bułgaria  
+Bolgaria - Bułgaria  
 bolivia - Boliwia  
 bombe - bomba  
 bon (boni) - dobry  
@@ -377,7 +377,7 @@ bori - znudzony
 boria - nuda (znudzenie)  
 borium - bohr  
 boron - bor  
-bosnia - Bośnia i Harcegowina  
+Bosnia - Bośnia i Harcegowina  
 bota - żeglować (płynąć)  
 bote - łódź, statek  
 botele - butelka  
@@ -393,13 +393,13 @@ brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)
 brauzer - poszukiwacz (badacz, eksplorator)  
 bravi - Odwarzny (  
 bravo - brawo (gratulacje)  
-brazavili kongolia - Republika Konga  
-brazilia - Brazyla  
-britania - Zjednoczone Królestwo  
+Brazavile Kongo - Republika Konga  
+Brazil - Brazyla  
+Britania - Zjednoczone Królestwo  
 bromium - brom  
 broxe - szczotka  
 brunalge - brunatnica  
-bruneyia - Brunei Darussalam  
+Bruney - Brunei Darussalam  
 bruni - brązowy, koloru kawy  
 brunsamone - pstrąg potokowy  
 buda - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
@@ -420,7 +420,7 @@ bulu - ugotować się, gotować się
 bume - wybuch  
 bumu - eksplodować (wybuchnąć, wybuchać)  
 burge - zamek, forteca, twierdza  
-burkinia - Burkina Faso  
+Burkina - Burkina Faso  
 buse - autobus, autokar  
 buste - biust  
 bute - but  
@@ -431,7 +431,7 @@ buze - koza
 ##c
 ca - z, od  
 cabe - klucz  
-cadia - Czad  
+Cade - Czad  
 cake - nóż  
 cakre - koło  
 camace - łyżka  
@@ -459,7 +459,7 @@ cate - dach
 cay (caye) - herbata  
 cayeria - herbaciarnia  
 caykope - kubek do herbaty  
-cehia - Republika Czeska, Czechy  
+Cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 celsius darje - stopień Celsjusza  
 cena - poprzedzić, poprzedzać  
@@ -477,16 +477,16 @@ cenvidi - spodziewany (przewidziany)
 cerium - cer  
 cerize - wiśnia (czereśnia)  
 cerni - czarny  
-cernogoria - Czarnogóra  
+Cernogora - Czarnogóra  
 cesium - cez  
 ciani - niebieskozielony (cyjan)  
+Cile - Chile  
 cile - papryka  
 cilfune - papryka  
-cilia - Chile  
 cimpanze - szympans  
 cincile - szynszyla  
 cini - han chiński  
-cipia - Albania  
+Ciperia - Albania  
 cira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
 circira - strzępić (drzeć)  
 circiri - rozstrzępiony (podarty)  
@@ -504,10 +504,10 @@ cokolatobatone - baton czekoladowy
 cora - ukraść, kraść  
 core - kradzież  
 corer - złodziej  
+Cosen - Korea  
 coseni - koreański  
-cosenia - Korea  
 coye - zielenina  
-cuania - Botswana  
+Cuana - Botswana  
 cula - pominąć, wyłączyć; poza, oprócz  
 cume - całus  
 cune - wiosna  
@@ -534,9 +534,9 @@ damogeme - warcaby
 dane - cząstka (ziarno, kula, pocisk)  
 danga - dzwonić (dźwięczeć, szczękać)  
 danger - dzwon (dzwonek)  
-dania - Dania  
 danka - dziękować  
 danke - dzięki, dzięki ci  
+Danmarke - Dania  
 danse - taniec  
 dansekuri - kuloodporny  
 dante - ząb  
@@ -632,12 +632,12 @@ diske - dysk
 disprosium - dysproz  
 divare - mur, ściana  
 divarkagaze - tapeta  
-divehia - Malediwy (Republika Malediwów)  
+Divehia - Malediwy (Republika Malediwów)  
 dixe - kierunek  
 dixo - wprost (bezpośrednio)  
 dobe - cegła  
 doici - niemiecki  
-doicia - Niemcy  
+Doicia - Niemcy  
 dokume - dokument  
 dokumsanduke - folder (teczka)  
 dolare - dolar  
@@ -645,15 +645,15 @@ dolfine - delfin
 doma - mieszkać  
 dome - dom, mieszkanie  
 domi - domowy  
-dominikania - Republika Dominikańska (Dominikana)  
-dominikia - Dominika (Wspólnota Dominiki)  
+Dominika - Dominika (Wspólnota Dominiki)  
+Dominikana - Republika Dominikańska (Dominikana)  
 dominogeme - domino  
 domisa - dać mieszkanie (zakwaterować)  
 dona - dać, dawać  
 done - podarunek, dar, prezent  
 donge - wschód  
 dongi - wschodni  
-dongi timoria - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
+Dongi Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
 dongogorile - goryl wschodni  
 dosila - oswoić (oswajać, tresować, trenować)  
 dosili - oswojony (potulny, posłuszny)  
@@ -671,7 +671,7 @@ doze - porcja, dawka
 drame - dramat  
 dramironia - ironia dramatyczna  
 droge - narkotyk  
-drugia - Bhutan  
+Drugia - Bhutan  
 du - mieć (partykuła posiadania)  
 dubnium - dubn  
 duga - czytać  
@@ -731,7 +731,7 @@ emoshale - humor (nastrój)
 emosi - emocjonalny (uczuciowy)  
 energe - energia  
 engli - Anglik; angielski  
-englia - Anglia  
+Englia - Anglia  
 englofiler - anglofil  
 englokitaba - anglizować (zanglizować)  
 englomargarite - stokrotka pospolita  
@@ -741,7 +741,7 @@ er (ere) - przyrostek dla wykonawcy
 erbium - erb  
 eria - przyrostek dla miejsca wykonywania  
 eris - Eris (planeta karłowata)  
-eritria - Erytrea  
+Eritria - Erytrea  
 esa - być  
 ese - byt  
 eseye - esej  
@@ -752,12 +752,12 @@ eskaltane - pnącz
 eske - pytanie  
 eski - pytajny, związany z pytaniem  
 eskodokume - formularz (kwestionariusz)  
-eskotia - Szkocja  
+Eskotia - Szkocja  
 eskulta - rzeźbić  
 eskulte - rzeźba  
 eskulter - rzeźbiarz  
 eskultia - rzeźbiarstwo  
-espania - Hiszpania  
+Espania - Hiszpania  
 esperanti - Esperanto  
 esponje - gąbka  
 esprinta - biec (biegać, pędzić)  
@@ -767,11 +767,11 @@ estasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
 estasi - statyczny, stacjonarny, nieruchomy  
 estasia - stacja  
 estasu - nie ruszać się  
-estia - Estonia  
+Estia - Estonia  
 estibium - antymon  
 estrontium - stront  
 estudia - studio (pracownia)  
-etiopia - Etiopia  
+Etiopia - Etiopia  
 eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
 europe - Europa  
@@ -844,7 +844,7 @@ feti - tłusty
 feymuxe - nietoperz  
 feyu - latać, lecieć  
 figure - figura, reprezentacja  
-fijia - Fidżi  
+Fijia - Fidżi  
 fikra - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 fikre - myśl, pomysł  
 fiksa - przyczepić, przymocować  
@@ -852,8 +852,8 @@ fikse - załącznik (przyrostek, afiks)
 fila - lubić  
 filer - miłośnik (fan, -fil)  
 filia - zamiłowanie (-filia)  
-filipinia - Filipiny  
-filistinia - Terytorium Palestyńskie  
+Filipinia - Filipiny  
+Filistinia - Terytorium Palestyńskie  
 filme - film  
 filsofer - filozof  
 filsofi - filozoficzny  
@@ -908,8 +908,8 @@ fotografmaxine - kamera, aparat fotograficzny
 fotominare - latarnia morska  
 fotorade - promień światła  
 fransi krepe - francuski naleśnik (crêpe)  
-fransi polinesia - Polinezja Francuska  
-fransia - Francja  
+Fransi Polnesia - Polinezja Francuska  
+Fransia - Francja  
 fransium - frans  
 freme - rama  
 frika - trzeć (pocierać, obetrzeć, pucować)  
@@ -936,11 +936,11 @@ futobole - piłka nożna
 futoxake - noga  
 fuy - fu, fuj  
 ##g
+Gabon - Gabon  
 gabra - zakopać (pochować)  
 gabre - grób (mogiła, grobowiec)  
 gabristan - cmentarz  
 gabroxeke - nagrobek  
-gabunia - Gabon  
 gade - osioł  
 gadogude - muł  
 gadolinium - gadolin  
@@ -953,19 +953,19 @@ galte - błąd (pomyłka)
 galti - błędny (niepoprawny)  
 galto buda - źle zrozumieć  
 gama - ożenić się, poślubić, wyjść za mąż  
-gambia - Gambia  
+Gambia - Gambia  
 gamele - wielbłąd, wielbłądzica  
 gami - ożeniony, zamężny, w związku małżeńskim  
 gamia - małżeństwo, związek małżeński  
 gamike - małżonek (małżonka)  
+Gana - Ghana  
 gana - suszyć (wysuszyć)  
 gance - hak  
-gandia - Uganda  
+Ganda - Uganda  
 gandume - pszenica  
 ganga - Ganges  
 gangrase - siano  
 gani - suchy  
-gania - Ghana  
 ganje - konopie  
 ganputave - rodzynka  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
@@ -992,7 +992,7 @@ gavi tanure - wielki piec
 gavia - wysokość  
 gavtali - pionowy  
 gavu - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
-gayania - Gujana  
+Gayana - Gujana  
 gaze - gaza  
 gazele - gazela  
 gazete - magazyn, dziennik, gazeta  
@@ -1001,7 +1001,7 @@ gema - grać w grę
 geme - gra  
 gemer - gracz  
 genca - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
-genzia - Guernsey  
+Genzi - Guernsey  
 germanium - german  
 geta - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 geter - odbiorca  
@@ -1011,7 +1011,7 @@ gider - przewodnik
 gidobuke - przewodnik  
 gigo- - bilion, giga-  
 gitare - gitara  
-giyania - Gujana Francuska  
+Giyana - Gujana Francuska  
 glisu - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
 gluta - lepić (kleić)  
 glute - klej  
@@ -1040,7 +1040,7 @@ granite - granit
 grase - trawa  
 grasistan - łąka  
 grave - żwir  
-grenadia - Grenada  
+Grenada - Grenada  
 grenadin - Grenadyny  
 grimase - grymas  
 grome - grom, huk  
@@ -1049,11 +1049,11 @@ grosi - gruby
 grosi harfe - pogrubiona litera  
 grosia - grubość  
 grupe - grupa  
-guadelupia - Gwadelupa  
-guamia - Guam  
+Guadelupe - Gwadelupa  
+Guam - Guam  
 guangjou - Kanton  
 guanxe - związek, powiązanie, połączenie  
-guatemalia - Gwatemala  
+Guatemala - Gwatemala  
 gubuhe - hipopotam  
 gude - koń  
 guhe - jaskinia  
@@ -1083,7 +1083,7 @@ hafnium - hafn
 haha - śmiać się  
 haida - niech my, hajda  
 haime - namiot  
-haitia - Haiti  
+Haiti - Haiti  
 hake - prawo, przywilej  
 hakima - sądzić (osądzić)  
 hakime - wyrok  
@@ -1121,12 +1121,12 @@ hasium - has
 hatre - zagrożenie, niebezpieczeństwo  
 hatri - niebezpieczny  
 hava - dmuchać  
+Havayi - Hawaje  
 havayi - hawajski  
 havayi nesia - Hawaje (archipelag hawajski)  
-havayia - Hawaje  
 have - wiatr  
 haxixe - haszysz  
-hayakia - Armenia  
+Hayakia - Armenia  
 hayalge - wodorosty  
 haye - może  
 hayfule - ukwiał  
@@ -1139,7 +1139,7 @@ haynili - morskoniebieski
 haytate - wybrzeże (plaża)  
 he - hę?, co?, pardon?  
 heleni - gracki, helleński; Grek  
-helenia - Grecja  
+Helenia - Grecja  
 helise - helisa  
 helisvimane - helikopter  
 helium - hel  
@@ -1188,14 +1188,14 @@ holgrafe - hologram
 holi - cały  
 holia - całość (integralność)  
 holmium - holm  
-hondurasia - Honduras  
-hongong - Hong Kong  
+Honduras - Honduras  
+Hong Gong - Hong Kong  
 honi - sto (##)  
 hore - godzina  
 horizone - horyzont  
 horizoni - poziomy (horyzontalny)  
 hormone - hormon  
-horvatia - Chorwacja  
+Horvatia - Chorwacja  
 hotel (hotele) - hotel  
 hule - lis  
 humuse - ciecierzyca  
@@ -1236,7 +1236,7 @@ indo puxa - ścisnąć (sciskać, wycisnąć)
 indojeni - wewnętrzny  
 indomisa - importować (zaimportować)  
 indoname - endonim  
-indonesia - Indonezja  
+Indonesia - Indonezja  
 indosida - kucać (kucnąć)  
 infekse - infekcja (zakażenie)  
 informa - poinformować, informować, zakomunikować, komunikować  
@@ -1260,8 +1260,8 @@ iode - jod; jodyna
 ione - jon  
 ioni radi - radioaktywny  
 ioni radia - radioaktywność  
-irakia - Irak  
-irania - Iran  
+Irake - Irak  
+Iran - Iran  
 iridium - iryd  
 irita - irytować (zirytować, drażnić)  
 ironi - ironiczny  
@@ -1274,12 +1274,12 @@ islamisti - islamski
 islamisti xaria - szariat  
 islamistia - Islam  
 islamu - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
-islandia - Islandia  
-israelia - Izrael  
+Islande - Islandia  
+Israel - Izrael  
 istan (istane) - region  
 iste - przyrostek dla wsperającego ideę  
 istia - przyrostek dla ideologii  
-italia - Italia, Włochy  
+Italia - Italia, Włochy  
 itis (itise) - zapalenie  
 iva - być skłonnym (mieć skłonność)  
 ive - tendencja  
@@ -1288,7 +1288,7 @@ izi - łatwy, prosty
 jakarte - Dżakarta  
 jake - kurtka  
 jama - kolekcjonować, zebrać, zbierać  
-jamaikia - Jamajka  
+Jamaika - Jamajka  
 jambule - czapetka kuminowa  
 jami - zbiorowy, zbiorczy  
 jamia - kolekcja, zbiór; zgromadzenie, zebranie  
@@ -1304,7 +1304,7 @@ janlojia - epistemologia
 jare - dzban, dzbanek; słój, słoik  
 javaba - odpowiedzieć, odpowiadać  
 javabe - odpowiedź, odzew  
-jayeria - Algieria  
+Jayer - Algieria  
 jaze - jazz, dżez  
 jebe - kieszeń  
 jebria - algebra  
@@ -1332,10 +1332,10 @@ jentili - uprzejmy, miły
 jentipe - genotyp  
 jenu - urodzić się, rodzić się  
 jenxene - żeń-szeń  
-jersia - Jersey  
+Jersi - Jersey  
 jeste - gest  
-jibraltar - Gibraltar  
-jibutia - Dżibuti  
+Jibraltar - Gibraltar  
+Jibuti - Dżibuti  
 jina - posuwać się do przodu (dokonywać postępu, wejść)  
 jinmun - wejście  
 jino - naprzód  
@@ -1357,11 +1357,11 @@ judav - judo
 jule - dżul (J)  
 jumle - zdanie (fraza)  
 junga - centrować, skupić, skupiać  
-jungafrikia - Republika Środkowoafrykańska  
 junge - środkowy, centralny  
 jungi - centralny (środkowy)  
+Jungi Afrika - Republika Środkowoafrykańska  
 jungofone - samogłoska  
-jungogia - Chiny  
+Jungogia - Chiny  
 jungu - być wycentrowanym, być w środku  
 jupe - spódnica  
 juse - sok  
@@ -1376,7 +1376,7 @@ kababi manse - kebab
 kabave - bawół domowy  
 kabine - kabina, budka  
 kaboge - kabaczek (dynia, tykwa)  
-kabuverdia - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
+Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
 kade - dorsz  
 kadomium - kadm  
 kafase - klatka  
@@ -1393,7 +1393,7 @@ kaixu - zaczyna (zacząć, rozpoczynać, rozpocząć)
 kaka - defekować, srać  
 kakave - kakao  
 kake - ekskrement, gówno  
-kalalia - Grenlandia  
+Kalalia - Grenlandia  
 kalamare - kałamarnica (mątwa)  
 kalame - pióro, długopis  
 kalcite - kalcyt  
@@ -1411,8 +1411,8 @@ kalkulia - rachunek (formalny system obliczeń)
 kamare - pokój, sala  
 kamargave - sufit  
 kamartale - podłoga  
-kambudia - Kambodża  
-kamerunia - Kamerun  
+Kambujia - Kambodża  
+Kamerun - Kamerun  
 kamia - pożądanie, żadza  
 kamile - rumianek pospolity  
 kamise - koszula  
@@ -1421,10 +1421,10 @@ kamote - słodki ziemniak
 kampe - obozowicz  
 kamper - obóz  
 kamri - walijski  
-kamria - Walia  
+Kamria - Walia  
 kan (kane) - oko  
 kana - patrzeć (oglądać)  
-kanadia - Kanada  
+Kanada - Kanada  
 kanala - kierować (doprowadzać, prowadzić, służyć jako kanał)  
 kanale - kanał  
 kanaler - przewód (kanał)  
@@ -1480,7 +1480,7 @@ karnadia - Karnataka
 karote - marchew  
 karsi - szorstki  
 karsolimone - papeda  
-kartuelia - Gruzja (Republika Gruzji)  
+Kartvel - Gruzja (Republika Gruzji)  
 karvane - karawana  
 kase - wydarzenie, przypadek, sytuacja  
 kaske - skorupa (pancerz, muszla)  
@@ -1489,7 +1489,7 @@ kastore - bóbr
 kata - ciąć  
 katalunia - Katalonia  
 katane - miecz  
-kataria - Katar  
+Katar - Katar  
 katuse - kaktus  
 kaukasia - Kaukazja  
 kava - wykopać, kopać, wydobyć, wydobywać, wykopywać  
@@ -1500,11 +1500,11 @@ kaxer - kasjer
 kaya - otworzyć, otwierać  
 kayi - otwarty, niezamknięty  
 kayu - otworzyć się, otwierać się  
-kazakia - Kazachstan  
+Kazahia - Kazachstan  
 ke - co?  
 kecape - keczup  
 keci - uprzejmy  
-keiman nesia - Kajmany  
+Keiman nesia - Kajmany  
 keke - ciasto, ciastko  
 kele - sport, lekkoatletyka  
 kelele - atleta, sportowiec  
@@ -1515,7 +1515,7 @@ kenarbaryer - płot
 kenare - granica, skraj, brzeg  
 kenarfone - spółgłoska  
 kenari - peryferyjny  
-kenia - Kenia  
+Kenya - Kenia  
 kerne - rdzeń (jądro, pestka)  
 kerni arme - broń nuklearna  
 kerni energe - energia nuklearna  
@@ -1544,13 +1544,13 @@ kingrafe - kino
 kingrafi - kinowy  
 kingrafia - kinematografia  
 kini - ruchowy, kinetyczny  
-kinsasi kongolia - Demokratyczna Republika Konga  
+Kinsasa Kongo - Demokratyczna Republika Konga  
 kioske - kiosk  
-kipris - Cypr  
+Kipris - Cypr  
 kirate - karat  
 kire - wynająć, wynajmować, zatrudnić, zatrudniać  
-kirgizia - Kirgistan  
-kiribatia - Kiribati  
+Kirgizia - Kirgistan  
+Kiribati - Kiribati  
 kirili abace - cyrylica  
 kirisa - wynająć, oddać w najem  
 kitaba - napisać, pisać  
@@ -1581,9 +1581,9 @@ kode - kod, szyfr
 koke - koka  
 kokode - kura, kogut, kurczak  
 kokokole - kola (coca-cola)  
-kokos nesia - Wyspy Kokosowe  
+Kokos nesia - Wyspy Kokosowe  
 kole - kola, napój gazowany  
-kolombia - Kolumbia  
+Kolombia - Kolumbia  
 kolona - kolonizować  
 koloner - kolonizator  
 kolonia - kolonia, osada  
@@ -1594,14 +1594,14 @@ komali - miękki
 komanda - rozkazać, rozkazywać, zakomendować  
 komande - rozkaz, komenda  
 kome - przecinek  
-komori nesia - Komory  
+Komoro nesia - Komory  
 kompania - firma, kompania, korporacja  
 komputa - policzyć, liczyć, przetwarzać dane  
 komputer - komputer  
 komuna - dzielić (współdzielić)  
 komuni - wspólny  
 komunkratia - republika  
-konakri ginia - Gwinea  
+Konakri Ginia - Gwinea  
 konbaxe - wspólny język  
 koncaniste - komunista  
 koncanistia - komunizm  
@@ -1643,13 +1643,13 @@ kortokrokodile - aligator
 kose - kaszel; kaszlnięcie  
 kosmi - kosmiczny  
 kosmia - kosmos, wszechświat  
-kosovia - Kosowo  
+Kosovo - Kosowo  
 kosta - kosztować  
-kostarikia - Kostaryka  
+Kosta Rika - Kostaryka  
 koste - koszt, cena  
 kosti - kosztowny (drogi)  
 kote - płaszcz  
-kotedivuaria - Wybrzeże Kości Słowniowej  
+Kotedivuar - Wybrzeże Kości Słowniowej  
 koy (koyi) - jakiś  
 koy ren - ktoś  
 koy sate - sometime  
@@ -1694,11 +1694,11 @@ kuangotunele - szyb górniczy
 kuani - szeroki  
 kuania - szerokość  
 kuarze - kwarc  
+Kuba - Kuba  
 kube - sześcian  
-kubia - Kuba  
 kuga - płakać, łkać  
 kuka - gotować, szykować jedzenie  
-kuke nesia - Wyspy Cooka  
+Kuke nesia - Wyspy Cooka  
 kuker - kucharz  
 kukeria - kuchnia  
 kuli - świetny  
@@ -1715,7 +1715,7 @@ kurbe - wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać
 kurbi - zakrzywiony  
 kurium - kiur  
 kurse - kszesło, fotel  
-kuvaitia - Kuwejt  
+Kuvaitia - Kuwejt  
 kuvi - gorzki  
 kuvmelone - przepękla ogórkowata (balsamka ogórkowata)  
 kuvoranje - gorzka pomarańcza  
@@ -1745,8 +1745,9 @@ lancografer - projektor (rzutnik)
 lancovute - pocisk  
 lane - przekleństwo (cholera!)  
 langane - poręcz (balustrada)  
-lankia - Sri Lanka  
+Lanka - Sri Lanka  
 lantanum - lantan  
+Lao - Laos  
 larve - larwa, czerw, gąsienica  
 lasti - elastyczny  
 lasune - larwa, czerw, gąsienica  
@@ -1757,12 +1758,11 @@ latini abace - alfabet łaciński, łacinka, alfabet rzymski
 latinkitaba - zromanizować  
 lato - z boku (na bok)  
 latoren - towarzysz (partner, kumpel)  
-latovia - Łotwa  
+Latvia - Łotwa  
 laurensium - lorens  
 lave - starzec  
 lavi - laotański  
 lavi - stary (sędziwy, wiekowy)  
-lavia - Laos  
 lavmame - babcia (babka)  
 lavpape - dziadek (dziad)  
 laxa - pozostawiać (pozostawić)  
@@ -1788,11 +1788,11 @@ levo - już (skończona czynność)
 leze - gruszka  
 liame - lama  
 liba - postawić (stawiać)  
-libania - Liban  
+Libanon - Liban  
 libele - ważka  
-liberia - Liberia  
+Liberia - Liberia  
 libi - postawiony (stojący)  
-libia - Libia  
+Libia - Libia  
 libobanze - półka (regał na książki)  
 libobaze - stojak (wieszak)  
 libu - stać  
@@ -1800,13 +1800,13 @@ lice - liczi
 lida - prowadzić, dowodzić, kierować  
 lider - dowódca, kierownik  
 lidokorde - smycz (cugiel, lejc, wodza)  
+Lietuva - Litwa  
 lietuvi - litewski  
-lietuvia - Litwa  
 lifafa - zawijać (zawinąć)  
 lifafe - owinięcie (koperta, okładka)  
 liga - stowarzyszać się (zrzeszać się)  
 lige - liga (stowarzyszenie)  
-lihtextainia - Liechtenstein  
+Lihtenxtain - Liechtenstein  
 lil (lili) - mały; mało, trochę, nieco  
 lilake - lilak  
 lilaki - liliowy  
@@ -1875,7 +1875,7 @@ lova - przeciekać, ciec
 lova sang - krwawić  
 lugi - zielony  
 lugomelone - melon miodowy  
-luksemburgia - Luksemburg  
+Luksemburge - Luksemburg  
 lule - perła  
 lune - księżyc  
 lunge - smok  
@@ -1892,9 +1892,9 @@ luzer - przegrany, pokonany
 ##m
 maca - pasować  
 macabli - kompatybilny (pasujący)  
+Madagasi - Madagaskar  
 madagasi - madagaskarski; malagaski  
-madagasia - Madagaskar  
-madiaria - Węgry  
+Madyar - Węgry  
 mafana - przeszkodzić, przeszkadzać, robić kłopot  
 mafane - problem, kłopot, zakłócenie  
 mafanu - przejmować się (zawracać sobie głowę)  
@@ -1902,7 +1902,7 @@ mager - magik, czarownik
 magi - magiczny  
 magia - magia  
 magorezulte - zaklecie  
-magribia - Maroko  
+Magribe - Maroko  
 maidane - skwer, plac  
 maidanfobia - agorafobia  
 maidani - otwarty (przestrzenny)  
@@ -1915,24 +1915,24 @@ makale - artykuł, tekst
 makane - masło  
 makanfule - mlecz  
 makase - nożyce, nożyczki  
-makav - Makau  
+Makav - Makau  
 mal (mali) - zły  
 mal zare - zły los  
-malaisia - Malezja  
+Malaisia - Malezja  
 malaria - malaria  
-malavia - Malawi  
+Malavi - Malawi  
 malayali - malajski  
 malayi - malajski  
 malfunce - awaria (wadliwe działanie)  
-malia - Mali  
+Mali - Mali  
 malike - jaśmin  
 malka - mieć (posiadać)  
 malke - własność (mienie)  
 malker - właściciel (posiadacz)  
 malrupi - brzydki  
 malsinyi - złowieszczy  
-maltia - Malta  
-malvinas nesia - Falklandy, Malwiny  
+Malta - Malta  
+Malvinas nesia - Falklandy, Malwiny  
 mamale - ssak  
 mame - matka, mama  
 man (mane) - męski  
@@ -1947,7 +1947,7 @@ mani pute - syn
 mani rajer - król  
 manihaye - prorok Mani  
 manihayistia - manicheizm  
-maninia - Wyspa Man  
+Manin nese - Wyspa Man  
 manioke - maniok  
 manira - zachowywać się (działać)  
 manire - zachowanie (maniery, kultura)  
@@ -1961,10 +1961,11 @@ marcu - iść, maszerować
 mare - czas; okazja  
 margarine - margaryna  
 margarite - stokrotka  
-marian nesia - Mariany Północne  
+Marian nesia - Mariany Północne  
 marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
 marse - Mars  
+Marxal nesia - Wyspy Marshalla  
 masaja - knead (massage)  
 masaje - masaż  
 masale - przyprawa  
@@ -1989,7 +1990,6 @@ max (maxo) - bardziej
 max ko bas - zbyt  
 maxboni - dodatkowy  
 maxdarja - zwiększyć o jeden  
-maxel nesia - Wyspy Marshalla  
 maxforta - wesprzeć (wzmocnić, zasilić)  
 maxforte - wsparcie (wzmocnienie, zasilenie)  
 maxi - dodatkowy  
@@ -2003,7 +2003,7 @@ maxori - większościowy, wiodący, główny
 maxoria - większość  
 mayane - Maya  
 maye - mrówka  
-mayotia - Majotta  
+Mayote - Majotta  
 me - ja, mnie  
 meca - konkurować, rywalizować; odbyć mecz, odbywać mecz  
 mece - mecz, rywalizacja  
@@ -2055,20 +2055,20 @@ metale - metal
 metaljanger - kowal  
 metode - metoda, sposób  
 metre - miara  
-mexikia - Meksyk  
 mexikia site - Meksyk  
+Mexiko - Meksyk  
 mey (meyi) - każdy, wszyscy  
 meze - stół  
 mezistan - płaskowyż (plateau)  
 mi - mój  
-mianmia - Mjanma, Birma  
+Mianma - Mjanma, Birma  
 miene - makaron  
 migane - mandarynka  
 migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
 migre - migracja  
 migru - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 mikro- - mikro-  
-mikronesia - Mikronezja  
+Mikronesia - Mikronezja  
 milgram - miligram  
 milke - mleko  
 milkokardone - ostropest plamisty  
@@ -2103,8 +2103,8 @@ misalo - na przykład
 miser - nadawca  
 misia - misja  
 miskini - biedny, mizerny  
+Misre - Egipt  
 misri - egipski  
-misria - Egipt  
 mita - spotkać  
 mite - spotkanie, zebranie  
 mitre - metr  
@@ -2122,7 +2122,7 @@ mokojongoparke - arboretum
 mokomate - drewno  
 mokotane - pień  
 mola - zemleć (mleć, mielić)  
-moldovia - Mołdawia  
+Moldova - Mołdawia  
 mole - mol  
 molekule - molekuła (cząsteczka)  
 moler - młynarz  
@@ -2131,9 +2131,9 @@ molidenum - molibden
 moluske - mięczak (morski bezkręgowiec)  
 molxeke - ostrzarka (kamień młyński)  
 mome - my  
-monakia - Monako  
+Monako - Monako  
 mongoli - Mongolski  
-mongolia - Mongolia  
+Mongolia - Mongolia  
 moni - jedyny (wyłączny)  
 monistia - monizm  
 monkratia - monarchia  
@@ -2143,7 +2143,7 @@ monster - potwór, monstrum
 monvejetyamiste - weganin (weganka)  
 morfe - morf  
 morfeme - morfem  
-morisia - Mauritius  
+Morisia - Mauritius  
 morta - zabić, zabijać  
 morte - śmierć  
 morter - zabójca  
@@ -2159,7 +2159,7 @@ mote - ruch
 moter - silnik  
 motogare - samochód (automobil)  
 motosikle - motocykl (motor)  
-mozambikia - Mozambik  
+Mozambike - Mozambik  
 mudane - piwonia  
 muhe - krowa  
 muhmanse - wołowina  
@@ -2176,7 +2176,7 @@ mumomelone - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)
 mumrene - mumia  
 mun (mune) - drzwi, brama, portal  
 munguse - mangusta  
-muritania - Mauretania  
+Muritania - Mauretania  
 musa - zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
 muse - przymus  
 musika - grać muzykę  
@@ -2201,9 +2201,9 @@ nafase - oddech
 nagre - miasto  
 nagri - miejski  
 nahune - paznokieć  
-naijiria - Nigeria  
+Naijiria - Nigeria  
 nam (name) - imię, nazwa  
-namibia - Namibia  
+Namibia - Namibia  
 namisa - nazwać, nazywać, wezwać, wzywać  
 namkitaba - podpis (autograf)  
 namloge - rzeczownik  
@@ -2220,13 +2220,13 @@ nasiste - nacjonalista
 nasistia - nacjonalizm  
 nasmedi - międzynarodowy  
 natre - sód  
-nauria - Nauru  
+Nauru - Nauru  
 nautile - nautilus  
 navati - nahuatl  
 navi - dziewięć (9)  
 navmese - grudzień  
-nederlandi antilia - Antyle Holenderskie  
-nederlandia - Holandia (Królestwo Niderlandów)  
+Nederlandi Antile - Antyle Holenderskie  
+Nederlandia - Holandia (Królestwo Niderlandów)  
 nefre - nerka  
 nefritis - zapalenie nerek  
 nefte - olej  
@@ -2238,7 +2238,7 @@ nenmesdene - data
 nenufare - lilia wodna, nenufar  
 neodimium - neodym  
 neon - neon  
-nepalia - Nepal  
+Nepal - Nepal  
 nese - wyspa  
 nesia - archipelag  
 nete - sieć  
@@ -2251,7 +2251,7 @@ neure - nerw
 neuri - nerwowy (neuronowy)  
 neurpatia - neuropatia  
 neursele - neuron  
-nevis - Nevis  
+Nevis - Nevis  
 nica - pod, poniżej; iść w dół, iść pod spód, iść na dno  
 nice - spód  
 nici - poniższy  
@@ -2261,8 +2261,8 @@ nidi - potrzebny
 nidoxina - ufać (wierzyć, liczyć, polegać)  
 nidoxinabli - lojalny (wierny)  
 nidoxinablia - lojalność (wierność)  
-nijeria - Niger  
-nikaragia - Nikaragua  
+Nijer - Niger  
+Nikaragua - Nikaragua  
 nikele - nikiel  
 nili - niebieski  
 nilone - nylon  
@@ -2271,12 +2271,12 @@ nilseramxinge - houstoia azurowa
 ninde - obraza, obelga  
 nindi - obraźliwy, niemiły, obelżywy  
 niobium - niob  
+Nipon - Japonia  
 niponi - japoński  
-niponia - Japonia  
 niponium - nihonium  
-nistria - Naddniestrze  
+Nistria - Naddniestrze  
 nitre - azot  
-nivia - Niue  
+Niue - Niue  
 nixe - nisza, alkowa  
 nizde - gniazdo (ul, nora, jama, barłóg, legowisko)  
 no - nie  
@@ -2285,6 +2285,7 @@ noce - noc
 nocomode - tryb nocny  
 noda - zawiązywać (zawiązać węzeł)  
 node - węzeł, zupeł  
+Nofrolke - Norfolk  
 nol (noli) - zero, nic, żaden  
 nol ban - nigdy  
 nol ren - nikt, żadna osoba  
@@ -2298,14 +2299,13 @@ nonga - uprawić, uprawiać
 nonger - rolnik, farmer  
 norde - północ  
 nordi - północny  
-nordi airia - Irlandia Północna  
+Nordi Aire - Irlandia Północna  
 nordi amerike - Ameryka Północna  
-nordi cosenia - Korea Północna (Koreańska Republika Ludowo-Demokratyczna)  
-nordi kipris - Cypr Północny  
-nordi makedonia - Republika Macedonii, Macedonia  
-norfolke - Norfolk  
+Nordi Cosen - Korea Północna (Koreańska Republika Ludowo-Demokratyczna)  
+Nordi Kipris - Cypr Północny  
+Nordi Makedonia - Republika Macedonii, Macedonia  
+Norge - Norwegia  
 norgi - norweski  
-norgia - Norwegia  
 norme - norma, standard  
 normi - normalny, standardowy  
 nose - nos  
@@ -2320,10 +2320,10 @@ notobuke - notatnik
 nova - odnowić, odnawiać, uczynić nowym  
 nove - nowość  
 novi - nowy  
-novi kaledonia - Nowa Kaledonia  
+Novi Kaledonia - Nowa Kaledonia  
 novi ren - nowicjusz (nowa osoba)  
 novi yorke site - Nowy Jork  
-novi zilandia - Nowa Zelandia  
+Novi Zilande - Nowa Zelandia  
 novike - nowicjusz  
 novo - właśnie, dopiero co, ostatnio, niedawno  
 novyangi - nowoczesne  
@@ -2344,8 +2344,8 @@ okey (okeyi) - okej, spoko, akceptowalny
 okeya - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 okse - tlen  
 okside - tlenek  
-olandia - Wyspy Alandzkie  
-omania - Oman  
+Olande - Wyspy Alandzkie  
+Oman - Oman  
 onde - fala  
 onore - respekt, honor, szacunek, poważanie  
 onori - honorowy  
@@ -2357,7 +2357,7 @@ orgazme - orgazm
 oritis - zapalenie ucha  
 orkide - storczyk (orchidea)  
 oromi - oromo  
-oromia - Oromia  
+Oromia - Oromia  
 orta - wprostowywać (wyprostować)  
 orti - prosty  
 ortogone - kąt prosty  
@@ -2371,9 +2371,9 @@ osmania - Imperium Osmańskie
 osme - osmoza  
 osmium - osm  
 oste - kość  
-osteria - Austria  
 ostojamia - szkielet  
 ostoxalke - łuska (blaszka, tarczka)  
+Ostria - Austria  
 otone - jesień  
 ##p
 pa - do, dopóki, dla  
@@ -2392,7 +2392,7 @@ pake - paczka, paka
 pakistan - Pakistan  
 pakse - ptak  
 paladium - pallad  
-palavia - Palau  
+Palau - Palau  
 pale - owoc  
 palme - palma, drzewo palmowe  
 pan (pani) - wszyscy, wszystkie, wszystko; każdy  
@@ -2400,8 +2400,8 @@ pan ren - każdy człowiek, wszyscy
 pan sate - zawsze  
 pan xey - wszystko  
 panafriki - panafrykański  
+Panama - Panama  
 panameriki - panamerykański  
-panamia - Panama  
 panasi - panazjatycki  
 pande - panda  
 pandemi - pandemiczny  
@@ -2424,9 +2424,9 @@ papagaye - papuga
 papaye - papaja  
 pape - ojciec  
 papire - dokument  
-papuvi novi ginia - Papua Nowa Gwinea  
+Papua Novi Ginia - Papua Nowa Gwinea  
 para - porównać (porównywać)  
-paraguayia - Paragwaj  
+Paraguay - Paragwaj  
 parame - parametr (argument, wartość wejściowa)  
 paraya - gardzić (pogardzać)  
 paraye - wyrzutek  
@@ -2487,7 +2487,7 @@ penter - malarz
 pepine - ogórek  
 pere - pióro  
 perkardone - ostrożeń lancetowaty  
-peruvia - Peru  
+Peru - Peru  
 pesdiske - moneta  
 pese - pieniądze  
 pete - brzuch  
@@ -2522,7 +2522,7 @@ piratiste - pirat (osoba naruszająca prawa własności intelektualnej)
 piratisti partia - Partia Piratów  
 pise - świerk  
 pistole - pistolet  
-pitkerne - Pitcairn  
+Pitkerne - Pitcairn  
 pixa - sikać, szczać, oddawać mocz  
 pixe - siki  
 pize - pizza  
@@ -2570,8 +2570,8 @@ polkulturistia - wielokulturowość
 polmeni - wieloznaczny  
 polnasi - wielonarodowy  
 polonium - polon  
+Polske - Polska  
 polski - polski  
-polskia - Polska  
 pompa - pompować  
 ponta - wskazać, wskazywać  
 ponter - wskaźnik  
@@ -2580,8 +2580,8 @@ poreye - por
 porne - porno, film erotyczny  
 pornografia - pornografia  
 porte - port  
-portorikia - Puerto Rico  
-portugalia - Portugalia  
+Porto Riko - Puerto Rico  
+Portugal - Portugalia  
 pospore - fosfor  
 posta - nadać, wysłać pocztą  
 poste - poczta  
@@ -2707,7 +2707,7 @@ retrogula - wymiotować (zwrócić)
 retroguli sense - nudności (choroba lokomocyjna)  
 retrotikete - bilet powrotny  
 retru - wrócić, wracać, wycofać się, wycofywać się  
-reunion - Reunion  
+Reunion - Reunion  
 reya - powtórzyć, powtarzać  
 reye - powtarzanie, powtórka  
 reyo - znowu (ponownie)  
@@ -2731,7 +2731,7 @@ roketolancer - wyrzutnia rakietowa
 rola - grać, odgrywać rolę  
 role - rola  
 roler - akt, scena  
-romania - Rumunia  
+Romania - Rumunia  
 romansa - kochać romantycznie  
 romansi - romantyczny  
 romansia - miłość romantyczna  
@@ -2748,7 +2748,7 @@ rotu - obrócić się (kręcić się)
 roze - róża  
 rozorangi - różowy, różany  
 rozosamone - gorbusza  
-ruandia - Rwanda  
+Ruanda - Rwanda  
 rubidium - rubid  
 ruhe - dusza, duch, umysł  
 ruhi - umysłowy (psychiczny)  
@@ -2758,13 +2758,13 @@ rukosake - plecak
 rula - toczyć, turlać  
 rule - rulon (rolka, zwój)  
 rume - rum  
-rundia - Burundi  
+Rundi - Burundi  
 rupe - wygląd  
 rupoboni - przystojny, atrakcyjny, ładny  
 rupu - wyglądać (wydawać się)  
 rusi - rosyjski  
 rusi krepe - rosyjski naleśnik (blin)  
-rusia - Rosja  
+Rusia - Rosja  
 ruste - wieś, wioska  
 rusti - wiejski, rustykalny  
 rustia - wieś, tereny wiejskie  
@@ -2798,7 +2798,7 @@ saga - opowiedzieć, opowiadać
 sage - opowiadanie, opowieść, legenda, saga  
 saha - poprawić, poprawiać, prostować, korygować  
 sahi - właściwy, poprawny  
-sahravia - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
+Sahravia - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
 saida - polować (łowić)  
 saide - polowanie (łowienie)  
 saider - łowca (myśliwy)  
@@ -2817,8 +2817,8 @@ sale - sól
 sali - słony  
 salima - poddać się, poddawać się  
 salmone - łosoś (pstrąg)  
-salonia - Sierra Leone  
-salvadoria - Salwador  
+Salone - Sierra Leone  
+Salvador - Salwador  
 samane - niebo  
 samani - niebieski, niebiański, podniebny  
 samanonili - jasnoniebieski (lazurowy)  
@@ -2827,7 +2827,7 @@ samdexi - rodak, ziomek, krajan
 samemose - współczucie  
 sami - taki sam  
 samname - homonim  
-samovia - Samoa  
+Samoa - Samoa  
 samraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samraye - porozumienie  
 samromansi - homoromantyczny  
@@ -2842,15 +2842,15 @@ sanduice - kanapka
 sanduke - pudło, skrzynia  
 sange - krew  
 santi - święty  
-santi helenia - Święta Helena  
-santi kitse - Saint Kitts  
-santi kitse e nevis - Saint Kitts i Nevis  
-santi lusia - Saint Lucia  
-santi marinia - San Marino  
+Santi Helena - Święta Helena  
+Santi Kitse - Saint Kitts  
+Santi Kitse e Nevis - Saint Kitts i Nevis  
+Santi Lusia - Saint Lucia  
+Santi Marino - San Marino  
 santi paule - São Paulo  
-santi tome e prinsipe - Wyspy Świętego Tomasza i Książęca  
+Santi Tome e Prinsipe - Wyspy Świętego Tomasza i Książęca  
 santi vinsente - Saint Vincent  
-santi vinsente e grenadin - Saint Vincent and Grenadines  
+Santi Vinsente e Grenadine - Saint Vincent and Grenadines  
 sapate - but  
 sapater - szewc  
 sapateria - warsztat szewski  
@@ -2860,7 +2860,7 @@ saroste - czaszka
 sate - moment  
 saturne - Saturn  
 saudare - rodzeństwo, brat lub siostra  
-saudi arabia - Arabia Saudyjska  
+Saudi Arabia - Arabia Saudyjska  
 saune - sauna  
 savane - sawanna  
 saye - cień  
@@ -2886,7 +2886,7 @@ seme - ziarno (nasienie)
 semente - cement  
 semi - nasienny  
 sene - scena  
-senegalia - Senegal  
+Senegal - Senegal  
 sensa - czuć (poczuć, postrzegać, wykrywać)  
 sense - zmysł  
 senser - sensor (detektor, czujka)  
@@ -2895,7 +2895,7 @@ sentaure - chaber
 senter - macka (czułek)  
 serame - ceramika  
 seramxinge - houstonia  
-serbia - Serbia  
+Serbia - Serbia  
 serca - szukać  
 sere - piła  
 serebre - mózg  
@@ -2908,7 +2908,7 @@ serye - seria, szereg
 sesame - sezam  
 seti - siedem (7)  
 setomese - październik  
-sexel nesia - Seszele  
+Sexel nesia - Seszele  
 si - tak  
 sibiria - Syberia  
 sida - siedzieć  
@@ -2931,7 +2931,7 @@ silsile - łańcuch
 silsilnete - kolczuga  
 simpli - prosty, nieskomplikowany  
 sine - pierś  
-singapur - Singapur  
+Singapur - Singapur  
 singe - lew  
 sinkafase - klatka piersiowa  
 sinplate - napierśnik  
@@ -2961,8 +2961,8 @@ sivili - cywilizowany (ucywilizowany)
 sivilia - cywilizacja  
 skandium - skand  
 slavi - słowiański  
-slovakia - Słowacja  
-slovenia - Słowenia  
+Slovakia - Słowacja  
+Slovenia - Słowenia  
 soca - socjalizować się  
 soci - społeczny  
 soci jinse - płeć społeczna  
@@ -2978,11 +2978,11 @@ soldixo - według ruchu wskazówek zegara
 sole - słońce  
 solestase - przesilenie  
 solfule - słonecznik  
-solomon nesia - Wyspy Salomona  
+Solomon nesia - Wyspy Salomona  
 solsentaure - chaber wełnisty  
 solsisteme - układ słoneczny  
-somalia - Somalia  
-somalilandia - Somaliland  
+Somalia - Somalia  
+Somalilandia - Somaliland  
 sonda - brzmieć, wydać dźwięk, wydawać dźwięk  
 sonde - dźwięk, brzmienie  
 sone - sen  
@@ -2995,28 +2995,24 @@ sore - zamek (zapięcie)
 sori - zamknięty (zakluczony, zapięty, bezpieczny)  
 sose - sos  
 sosise - kiełbasa  
-sotovia - Lesotho  
+Soto - Lesotho  
 suahili - suahili  
-sualbardia - Swalbard  
 suani - kwaśny  
-suatia - Suazi  
 sube - ranek, rano, poranek  
 subodene - przedpołudnie  
 subyame - śniadanie  
-sudafrikia - Południowa Afryka  
-sudania - Sudan  
+Sudafrika - Południowa Afryka  
+Sudan - Sudan  
 sude - południe  
 sudi - południowy  
 sudi amerike - Ameryka Południowa  
-sudi cosenia - Korea Południowa  
-sudi iria (alonia) - Osetia Południowa  
-sudi jorjia e sudi sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
-sudi sudania - Sudan Południowy  
+Sudi Cosen - Korea Południowa  
+Sudi Iria (Alonia) - Osetia Południowa  
+Sudi Jorjia e Sudi Sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
+Sudi Sudan - Sudan Południowy  
 sudonordia - południk  
 suede - pot  
 suedi - spocony  
-suenia - Szwecja  
-suisia - Szwajcaria  
 suja - sugerować, proponować  
 suje - sugestia, propozycja  
 suka - cieszyć, podobać się  
@@ -3033,17 +3029,17 @@ sundardake - dekoracja (ornament)
 sundari - piękny, przystojny  
 sundaria - piękno  
 suno - wkrótce  
+Suomi - Finlandia  
 suomi - fiński  
-suomia - Finlandia  
 supe - zupa  
 super (superi) - wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super  
 supra - przekroczyć, przekraczać, przejść nad, iść nad  
 supre - wiadukt, przejście powyżej  
 supri - górny  
 suprize - zaskoczenie  
-suria - Syria  
+Suria - Syria  
+Suriname - Surinam  
 surinami baxe - język surinamski  
-surinamia - Surinam  
 susane - lilia  
 suta - szyć  
 suture - szew  
@@ -3057,6 +3053,10 @@ suynide - pragnienie
 suyporte - port morski (przystań)  
 suyrang - akwarela (farba wodna)  
 suysekuri - wodoodporny  
+Svalbarde - Swalbard  
+Svati - Suazi  
+Svenia - Szwecja  
+Svisia - Szwajcaria  
 ##t
 tabake - tytoń  
 tabla - ułożyć w trabelę  
@@ -3065,8 +3065,8 @@ tafune - burza, sztorm, tajfun
 taibey - Tajpej  
 taige - tajga  
 taile - płyta  
-taivania - Tajwan, Republika Chińska  
-tajikia - Tadżykistan  
+Taivan - Tajwan, Republika Chińska  
+Tajikia - Tadżykistan  
 taksa - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
 takse - podatek, opłata  
 taksogare - taxi, taksówka  
@@ -3085,7 +3085,7 @@ tane - łodyga (tors, pień, trzon)
 tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
 tantalum - tantal  
 tanure - piec (piekarnik)  
-tanzania - Tanzania  
+Tanzania - Tanzania  
 tapa - zatkać, ztykać  
 tape - korek, zatyczka, szpunt  
 tarife - opłata, taryfa  
@@ -3151,7 +3151,7 @@ ticine - chordofon, instrument strunowy
 tike - tikka  
 tikete - bilet  
 time - drużyna  
-timor - Timor  
+Timor - Timor  
 ting (tinge) - stop; przerwa, zatrzymanie  
 tinga - zatrzymać  
 tingone - trójkąt  
@@ -3170,8 +3170,8 @@ tirlive - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągaj�
 tirsanduke - szuflada  
 titane - tytan  
 toca - dotyczyć  
+Togo - Togo  
 togoli - togijski  
-togolia - Togo  
 tokse - trucizna (toksyna)  
 toksi - toksyczny (trujący)  
 tokyo - Tokio  
@@ -3179,8 +3179,8 @@ tole - bąk, bączek
 tolera - tolerować  
 tomate - pomidor  
 tone - ton, dźwięk, nuta, tonacja  
+Tonga - Tonga  
 tonge - beczka  
-tongia - Tonga  
 tope - kapelusz, czapka  
 torium - tor  
 torse - tułów  
@@ -3198,7 +3198,7 @@ tren (trene) - pociąg
 trendav - kolej  
 trenkaper - porywacz pociągu  
 tribe - plemię  
-trinidade e tobage - Trynidad i Tobago  
+Trinidade e Tobago - Trynidad i Tobago  
 truka - oszukać (oszukiwać  
 truke - sztuczka (podstęp, oszustwo)  
 tuale - taleta, WC  
@@ -3212,14 +3212,14 @@ tunele - tunel
 tuneltren - metro  
 tunge - ból  
 tunike - tunika, toga  
-tunisia - Tunezja  
+Tunisia - Tunezja  
 turki - turecki  
-turkia - Turcja  
-turkomenia - Turkmenistan  
-tuvalia - Tuwalu  
+Turkia - Turcja  
+Turkomenia - Turkmenistan  
+Tuvalu - Tuwalu  
 tuze - królik, zając  
 ##u
-ukrainia - Ukraina  
+Ukraina - Ukraina  
 ulula - wyć  
 ulule - wycie, skowyt  
 umami - mięsny (umami)  
@@ -3232,27 +3232,27 @@ uniki - jedyny
 uniko - jedynie (tylko)  
 unisa - jednoczyć  
 unisi - zjednoczony  
-unisi arabi emiria - Zjednoczone Emiraty Arabskie  
 unisia - unia  
 unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
 unmese - styczeń  
 unmete - jednostka miary  
 unrangi - jednokolorowy (monochromatyczny)  
+Unuti Arabi Emiria - Zjednoczone Emiraty Arabskie  
 ura - wiwatować; hura  
 urane - Uran  
 uranium - uran  
 urdi - urdu  
-urdunia - Jordan  
+Urdun - Jordan  
 urse - niedźwiedź  
-uruguayia - Urugwaj  
+Uruguay - Urugwaj  
 uruxalem - Jerozolima  
 usameriki - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
-usameriki samoa - Amerykańska Samoa  
-usameriki virjin nesia - Wyspy Dziewicze USA  
-usamerikia - Stany Zjednoczone Ameryki  
+Usameriki Samoa - Amerykańska Samoa  
+Usameriki Virjin nesia - Wyspy Dziewicze USA  
+Usamerikia - Stany Zjednoczone Ameryki  
 uza - użyć, używać, zatrudnić, stosować  
-uzbekia - Uzbekistan  
+Uzbekia - Uzbekistan  
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 ##v
@@ -3265,7 +3265,7 @@ vakila - reprezentować
 vakile - reprezentant (przedstawiciel)  
 vaksine - szczepionka  
 vale - wartość  
-valis e futun nesia - Saint Vincent i Grenadyny  
+Valis e Futuna nesia - Saint Vincent i Grenadyny  
 vampirbalsenter - wampirzyca piekielna (wampirnica)  
 vampire - wampir  
 vana - bawić, zabawiać  
@@ -3274,7 +3274,7 @@ vane - zabawa, rozrywka
 vani - zabawny  
 vanile - wanilia  
 vanu - cieszyć się (zażywać, bawić się)  
-vanuatia - Vanuatu  
+Vanuatu - Vanuatu  
 var (vare) - dzień tygodnia  
 var 1 (var uni) - poniedziałek  
 var 2 (var duli) - wtorek  
@@ -3289,7 +3289,7 @@ varke - kartka (dokument)
 varkolate - strona  
 vase - oaza  
 vate - wat  
-vatikania - Watykan, Państwo Watykańskie  
+Vatikan - Watykan, Państwo Watykańskie  
 vav - wow!, łoł!, jej!  
 vaxa - prać, umyć, myć  
 vaxington d c (do ce) - Waszyngton D.C  
@@ -3315,7 +3315,7 @@ vendoxopa - handlować
 vendoxope - handel  
 vendoxoper - handlarz (kupiec)  
 vene - pierścień  
-venezolia - Wenezuela  
+Venezuela - Wenezuela  
 venjou - Wenzhou  
 venjovoranje - mandarynka Satsuma (pomarańcza Satsuma)  
 venus - Wenus  
@@ -3337,7 +3337,7 @@ vidopunte - perspektywa (punkt widzenia)
 vidove - wdowa  
 vidu - być widzianym  
 vieti - wietnamski  
-vietia - Wietnam  
+Vietia - Wietnam  
 vijine - glutaminian sodu  
 vike - artykuł wiki  
 vikia - wiki  
@@ -3504,7 +3504,7 @@ zalimi - złośliwy, okrutny
 zamandona - dedykować (poświęcać, poświęcić)  
 zamandonia - dedykacja (poświęcenie)  
 zamane - czas (epoka, era)  
-zambia - Zambia  
+Zambia - Zambia  
 zardux - Zaratusztra  
 zarduxiste - zaratrustianin  
 zarduxistia - zaratusztrianizm  
@@ -3533,14 +3533,14 @@ zemnici - podziemny
 zemnici prizone - loch  
 zemomedi haye - Morze Śródziemne  
 zemparlinye - równik  
-zemparlinyi ginia - Gwinea Równikowa  
+Zemparlinyi Ginia - Gwinea Równikowa  
 zemsisme - trzęsienie Ziemi  
 zemtike - działka (teren)  
 zeyile - brodawka  
 zeze - mucha  
 zigzage - zygzag  
 zikure - ziggurat  
-zimbabvia - Zimbabwe  
+Zimbabve - Zimbabwe  
 zime - zima  
 zimi - zimowy  
 zine - zdrada małżeńska, cudzołóstwo  

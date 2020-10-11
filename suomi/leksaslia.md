@@ -16,7 +16,7 @@
 |**agrese**|hyökkäys (aggressio)|englanti:deu:ranska:agression, puola:agresja, venäjä:агрессия (agressiya), espanja:agresión, portugali:agressão, malaiji:agresif|
 |**aha**|oivaltaa (tajuta)|venäjä:ага (aha), korea: 아하 (aha), englanti: uh-huh, puola:aha|
 |**aire**|ilma|englanti:ranska:espanja:air, portugali:ar|
-|**airia**|Irlanti|gle:Éire, englanti:Ireland|
+|**Aire**|Irlanti|gle:Éire, englanti:Ireland|
 |**aise**|jää|englanti:ice, deu:Eis, malaiji:és|
 |**aiskrem**|jäätelö|englanti:ice cream, japani:アイスクリーム (aisukurīmu), korea:아이스크림 (aiseukeurim), hindi:आइसक्रीम (āisakrīm), urdu:(āisakrīm), bangla:আইসক্রীম (aisôkrīm), thai:ไอศกรีม (ai-sà-griim), malaiji:es krim, suahili:aiskrimu, tamili:ஐஸ் கிரீம் (ais kirīm), telugu:(ais krīm)|
 |**ajabi**|ihmeellinen (ällistyttävä, merkillinen)|arabia:(ʿajīb), suahili:ajabu, + persia:('ajib), urdu:(ajīb), hindi:अजीब (ajīb), turkki:acayip|
@@ -188,7 +188,7 @@
 |**coda**|nussia (panna)|bangla:চোদা (coda), hindi:चोदना (codnā)|
 |**cokolate**|suklaa|espanja:portugali:englanti:chocolate, ranska:chocolat, hindi:चाकलेट (cāklet), bangla:চকলেট (côkleṭ), yleiskiina:巧克力 (qiǎokèlì), japani:チョコレート (chokorēto), korea:초콜렛 (chokollet), malaiji:cokelat, turkki:çikolata|
 |**core**|varkaus|hindi:marathi:चोरी (corī), urdu:(corī), thai:โจร (chon), malaiji:curi, bangla:চুরি (curi)|
-|**cosenia**|Korea|korea:조선 (Joseon), japani:朝鮮 (chōsen), yleiskiina:朝鲜 (zh) (Cháoxiǎn)|
+|**Cosen**|Korea|korea:조선 (Joseon), japani:朝鮮 (chōsen), yleiskiina:朝鲜 (zh) (Cháoxiǎn)|
 |**coye**|vihannes|yleiskiina:菜 (cài), kantoninkiina:菜 (coi3), englanti:-choy, malaiji:-coy|
 |**cula**|paitsi (poislukien)|yleiskiina:除了 (chúle), vietnami:trừ|
 |**cume**|suukko (pusu)|hindi:चूमना (cūmnā), urdu:(cūmnā), malayalam:ചുംബനം (cumbanaṃ), malaiji:cium, japani:チュー (chū), thai:จูบ (cup)|
@@ -247,7 +247,7 @@
 |**doze**|annos|englanti:portugali:ranska:dose, venäjä:доза (doza), deu:espanja:dosis, turkki:doz, malaiji:dos|
 |**drame**|draama|englanti:espanja:portugali:malaiji:drama, ranska:drame, venäjä:дра́ма, arabia:دْرَامَا‎ (drāmā), hindi:ड्रामा (ḍrāmā), japani:ドラマ (dorama)|
 |**droge**|huume|englanti:drug, espanja:droga, ranska:drogue, deu:Droge|
-|**drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
+|**Drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**du**|-n (oma)|yleiskiina:的 (de)|
 |**duga**|lukea|yleiskiina:读 (dú), kantoninkiina:讀 (duk6), vietnami:đọc, zha:dog, japani:(doku-)|
 |**duke**|suru (murhe)|hindi:दुःख (duḥkh), bangla:দুঃখ (dukhô), thai:ทุกข์ (tuk), malaiji:duka, englanti:dukkha|
@@ -779,7 +779,7 @@
 |**mirer**|peili|englanti:mirror, ranska:miroir, arabia:mirʾāh, arz:mirāya|
 |**misa**|lähettää|englanti:emit, espanja:remitir, portugali:emitir, ranska:émettre|
 |**misale**|esimerkki|hindi:मिसाल (misāl), arabia:(mithāl), persia:(mesâl), malaiji:misal, turkki:mesela|
-|**misria**|Egypti|arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr)|
+|**Misre**|Egypti|arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr)|
 |**mite**|tapaaminen (kokous)|englanti:meet, ranska:meeting, espanja:mitin, japani:ミーティング (mītingu), hindi:मीटिंग (mīṭiṅg)|
 |**mitre**|metri|englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:mita|
 |**mixa**|sekoittaa|deu:mischen, venäjä:мешать (měšat'), puola:mieszać, englanti:mix, italia:miscelare, + hindi:मिश्रण (miśrān)|

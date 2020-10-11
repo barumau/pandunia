@@ -70,7 +70,7 @@ aure - 金
 auroranje - 金柑  
 aventure - 冒险  
 aventurer - 冒险者  
-avgania - 阿富汗  
+Avganistan - 阿富汗  
 ##b
 babe - 章  
 bace - 小孩  
@@ -346,7 +346,7 @@ jive - 生命
 jule - 焦耳 (J)  
 jumle - 句子  
 junge - 中心  
-jungogia - 中国  
+Jungogia - 中国  
 juse - 汁  
 ##k
 kaboge - 南瓜  
@@ -452,7 +452,7 @@ lane - 诅咒
 lantanum - 鑭  
 lasune - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
-latovia - 拉脱维亚  
+Latvia - 拉脱维亚  
 lavi - 老 (老年, 年歲大)  
 laxa - 落 (留下)  
 laya - 来  
@@ -495,7 +495,7 @@ luter - 强盗
 luza - 输  
 luza tena - 亏损 (失去)  
 ##m
-magribia - 摩洛哥  
+Magribe - 摩洛哥  
 maidane - 广场  
 maidanpapile - 虞美人 (雛罌粟)  
 makanfule - 蒲公英  
@@ -538,7 +538,7 @@ milkokardone - 水飞蓟
 minte - 薄荷  
 mirdi - 微弱的  
 misalo - 比如  
-misria - 埃及  
+Misre - 埃及  
 mita - 聚会  
 mite - 会议  
 mitre - 米 (公尺)  
@@ -577,7 +577,7 @@ nidoxinabli - 忠实
 nili - 蓝色  
 nilsentaure - 矢車菊  
 nilseramxinge - 茜草花  
-niponia - 日本  
+Nipon - 日本  
 nixe - 壁龛  
 nizde - 巢 (穴)  
 no - 不  

@@ -41,7 +41,7 @@ antene - антенна
 anuse - анус  
 apele - яблоко  
 apelsose - яблочное пюре  
-aphazia - Абхазия  
+Aphazia - Абхазия  
 arabobabule - акация нильская  
 arane - паук  
 arbuze - арбуз  
@@ -67,7 +67,7 @@ auroranje - кумкват (кинкан)
 aventure - авантюра  
 aventurer - авантюрист  
 avgani - афганский  
-avgania - Афганистан  
+Avganistan - Афганистан  
 ##b
 babe - глава  
 babule - акация  
@@ -371,7 +371,7 @@ jule - джоуль (J)
 jumle - фраза  
 junge - центр  
 jungofone - гласный  
-jungogia - Китай  
+Jungogia - Китай  
 juse - сок  
 justi - точный  
 justopaver - снайпер  
@@ -485,7 +485,7 @@ lane - проклятие
 lasune - чеснок  
 late - сторона (бок)  
 lati - боковой (латеральный)  
-latovia - Латвия  
+Latvia - Латвия  
 lavi - пожилой  
 lazanye - лазанья  
 lazuare - лазурит  
@@ -524,7 +524,7 @@ luza tena - потеря́ть (утра́тить)
 ##m
 mafana - утруждать  
 mafanu - утруждай  
-magribia - Марокко  
+Magribe - Марокко  
 maidane - площадь (сквер, майдан)  
 maidanpapile - мак самосейка  
 majenti - маджента (фуксия)  
@@ -570,7 +570,7 @@ milkokardone - расторопша пятнистая
 minte - мята  
 mirdi - слабый  
 misalo - например  
-misria - Египет  
+Misre - Египет  
 mitre - метр  
 mixa - мешать  
 mixi alkole - коктейль  
@@ -610,7 +610,7 @@ nidoxinabli - верный
 nidoxinablia - верность  
 nili - синий (голубой)  
 nilsentaure - василёк синий  
-niponia - Япония  
+Nipon - Япония  
 nixe - ниша  
 nizde - гнездо (улей)  
 no - нет (не)  
@@ -921,7 +921,7 @@ yuke - нефрит (жад)
 yumore - юмор  
 ##z
 zamane - период (эпоха)  
-zambia - Замбия  
+Zambia - Замбия  
 zardux - Зороастр  
 zarduxiste - зороастризм  
 zebre - зебра  
@@ -931,7 +931,7 @@ zemmetria - геометрия
 zemnici prizone - ублиет (подземная тюрьма)  
 zeyile - бородавка  
 zeze - муха  
-zimbabvia - Зимбабве  
+Zimbabve - Зимбабве  
 zime - зима  
 zimi - зимний  
 zinje - имбирь  

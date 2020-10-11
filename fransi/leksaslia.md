@@ -340,7 +340,7 @@
 |**milke**|lait|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
 |**minte**|menthe|eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)|
 |**mirdi**|faible|eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)|
-|**misria**|Égypte|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
+|**Misre**|Égypte|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |**mitre**|mètre|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|
 |**mode**|mode (façon, manière)|fra:eng:mode, spa:por:modo|
 |**moke**|arbre|zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|

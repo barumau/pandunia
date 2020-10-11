@@ -17,7 +17,7 @@
 |**agrese**|attack (assault, aggression)|English:deu:French:agression, Polish:agresja, Russian:агрессия (agressiya), Spanish:agresión, Portuguese:agressão, Malay:agresif|
 |**aha**|understand (realize)|Russian:ага (aha), Korean: 아하 (aha), English: uh-huh, Polish:aha|
 |**aire**|air|English:French:Spanish:air, Portuguese:ar|
-|**airia**|Ireland|gle:Éire, English:Ireland|
+|**Aire**|Ireland|gle:Éire, English:Ireland|
 |**aise**|ice|English:ice, deu:Eis, Malay:és|
 |**aiskrem**|ice cream|English:ice cream, Japanese:アイスクリーム (aisukurīmu), Korean:아이스크림 (aiseukeurim), Hindi:आइसक्रीम (āisakrīm), Urdu:(āisakrīm), Bengali:আইসক্রীম (aisôkrīm), Thai:ไอศกรีม (ai-sà-griim), Malay:es krim, Swahili:aiskrimu, Tamil:ஐஸ் கிரீம் (ais kirīm), Telugu:(ais krīm)|
 |**ajabi**|amazing (astonishing)|Arabic:(ʿajīb), Swahili:ajabu, + Persian:('ajib), Urdu:(ajīb), Hindi:अजीब (ajīb), Turkish:acayip|
@@ -212,7 +212,7 @@
 |**coda**|fuck (copulate)|Bengali:চোদা (coda), Hindi:चोदना (codnā)|
 |**cokolate**|chocolate|Spanish:Portuguese:English:chocolate, French:chocolat, Hindi:चाकलेट (cāklet), Bengali:চকলেট (côkleṭ), Mandarin:巧克力 (qiǎokèlì), Japanese:チョコレート (chokorēto), Korean:초콜렛 (chokollet), Malay:cokelat, Turkish:çikolata|
 |**core**|theft|Hindi:Marathi:चोरी (corī), Urdu:(corī), Thai:โจร (chon), Malay:curi, Bengali:চুরি (curi)|
-|**cosenia**|Korea|Korean:조선 (Joseon), Japanese:朝鮮 (chōsen), Mandarin:朝鲜 (zh) (Cháoxiǎn)|
+|**Cosen**|Korea|Korean:조선 (Joseon), Japanese:朝鮮 (chōsen), Mandarin:朝鲜 (zh) (Cháoxiǎn)|
 |**coye**|greens|Mandarin:菜 (cài), Cantonese:菜 (coi3), English:-choy, Malay:-coy|
 |**cula**|exclude (except, save)|Mandarin:除了 (chúle), Vietnamese:trừ|
 |**cume**|kiss|Hindi:चूमना (cūmnā), Urdu:(cūmnā), Malayalam:ചുംബനം (cumbanaṃ), Malay:cium, Japanese:チュー (chū), Thai:จูบ (cup)|
@@ -277,7 +277,7 @@
 |**doze**|portion (dose)|English:Portuguese:French:dose, Russian:доза (doza), deu:Spanish:dosis, Turkish:doz, Malay:dos|
 |**drame**|drama|English:Spanish:Portuguese:Malay:drama, French:drame, Russian:дра́ма, Arabic:دْرَامَا‎ (drāmā), Hindi:ड्रामा (ḍrāmā), Japanese:ドラマ (dorama)|
 |**droge**|drug (intoxicating substance)|English:drug, Spanish:droga, French:drogue, deu:Droge|
-|**drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
+|**Drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**du**|own (particle of possession)|Mandarin:的 (de)|
 |**duga**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Vietnamese:đọc, zha:dog, Japanese:(doku-)|
 |**duke**|grief (sorrow)|Hindi:दुःख (duḥkh), Bengali:দুঃখ (dukhô), Thai:ทุกข์ (tuk), Malay:duka, English:dukkha|
@@ -868,7 +868,7 @@
 |**mirer**|mirror|English:mirror, French:miroir, Arabic:mirʾāh, arz:mirāya|
 |**misa**|send (emit, transmit)|English:emit, Spanish:remitir, Portuguese:emitir, French:émettre|
 |**misale**|example (instance of)|Hindi:मिसाल (misāl), Arabic:(mithāl), Persian:(mesâl), Malay:misal, Turkish:mesela|
-|**misria**|Egypt|Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr)|
+|**Misre**|Egypt|Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr)|
 |**mite**|meeting (gathering)|English:meet, French:meeting, Spanish:mitin, Japanese:ミーティング (mītingu), Hindi:मीटिंग (mīṭiṅg)|
 |**mitre**|meter (100 cm)|English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:mita|
 |**mixa**|mix (blend)|deu:mischen, Russian:мешать (měšat'), Polish:mieszać, English:mix, Italian:miscelare, + Hindi:मिश्रण (miśrān)|

@@ -66,13 +66,13 @@ ande - oeuf
 andes - Andes  
 andesite - andésite  
 andiniste - infidèle (incroyant)  
-angolia - Angola  
+Angola - Angola  
 anima - animer  
 anime - animation  
 anjile - message  
 anker - ancre  
 anmema - oublier  
-antartia - Antarctique  
+Antartike - Antarctique  
 antene - antenne  
 anuse - anus  
 apele - pomme  
@@ -85,7 +85,7 @@ aranonete - toile d'araignée
 arbuze - pastèque  
 are - aire (superficie)  
 argente - argent  
-argentinia - Argentine  
+Argentina - Argentine  
 argon - argon  
 argume - argument  
 arme - arme  
@@ -110,7 +110,7 @@ auroranje - kumquat
 aventure - aventure  
 aventurer - aventurier  
 avgani - afghan  
-avgania - Afghanistan  
+Avganistan - Afghanistan  
 ay - aïe!  
 ##b
 babe - chapitre  
@@ -416,7 +416,7 @@ jovani moke - pousse
 jule - joule (J)  
 junge - centre  
 jungofone - voyelle  
-jungogia - Chine  
+Jungogia - Chine  
 juse - jus  
 justi - exact (précis)  
 ##k
@@ -527,7 +527,7 @@ lane - malédiccion
 lasune - ail  
 late - côté  
 lati - latéral  
-latovia - Lettonie  
+Latvia - Lettonie  
 lavi - vieux (âgé, ancien)  
 laxa - laisser  
 lazanye - lasagne  
@@ -572,7 +572,7 @@ lutheristia - luthéranisme
 luza tena - perder  
 luzer - perdant  
 ##m
-magribia - Maroc  
+Magribe - Maroc  
 maidane - place  
 maidanpapile - coquelicot  
 makanfule - dandélion  
@@ -619,7 +619,7 @@ milkokardone - chardon Marie
 minte - menthe  
 mirdi - faible  
 misalo - par exemple  
-misria - Égypte  
+Misre - Égypte  
 mitre - mètre  
 mode - mode (façon, manière)  
 moke - arbre  
@@ -658,7 +658,7 @@ nidi - nécessaire
 nidoxina - fier  
 nili - bleu  
 nilsentaure - Centaurée bleuet  
-niponia - Japon  
+Nipon - Japon  
 nixe - niche  
 nizde - nid  
 no - non (ne...pas)  
@@ -894,7 +894,7 @@ tomate - tomate
 trate - contract (traité)  
 truka - escroquer  
 truke - ruse  
-tunisia - Tunisie  
+Tunisia - Tunisie  
 tuze - lapin (lièvre)  
 ##u
 umure - âge  
@@ -930,7 +930,7 @@ vejetyamiste - végétarien
 veki - éveillé  
 venda - vendre  
 vendoxopa - commercer  
-venezolia - Venezuela  
+Venezuela - Venezuela  
 venjovoranje - mandarine satsuma  
 veri - vrai  
 verme - ver  

@@ -16,8 +16,8 @@
 |**aga**|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|
 |**agrese**|atak (agresja, napaść)|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
 |**aha**|rozumieć, pojmować|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
+|**Aire**|Irlandia|gle:Éire, eng:Ireland|
 |**aire**|powietrze|eng:fra:spa:air, por:ar|
-|**airia**|Irlandia|gle:Éire, eng:Ireland|
 |**aise**|lód|eng:ice, deu:Eis, may:és|
 |**aiskrem**|lody|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |**ajabi**|zachwycający (zdumiewający, zadziwiający)|ara:(ʿajīb), swa:ajabu, + fas:('ajib), urd:(ajīb), hin:अजीब (ajīb), tur:acayip|
@@ -211,7 +211,7 @@
 |**coda**|jebać, kopulować|ben:চোদা (coda), hin:चोदना (codnā)|
 |**cokolate**|czekolada|spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|
 |**core**|kradzież|hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|
-|**cosenia**|Korea|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
+|**Cosen**|Korea|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
 |**coye**|zielenina|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
 |**cula**|pominąć, wyłączyć; poza, oprócz|zho:除了 (chúle), vie:trừ|
 |**cume**|całus|hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|
@@ -276,7 +276,7 @@
 |**doze**|porcja, dawka|eng:por:fra:dose, rus:доза (doza), deu:spa:dosis, tur:doz, may:dos|
 |**drame**|dramat|eng:spa:por:may:drama, fra:drame, rus:дра́ма, ara:دْرَامَا‎ (drāmā), hin:ड्रामा (ḍrāmā), jpn:ドラマ (dorama)|
 |**droge**|narkotyk|eng:drug, spa:droga, fra:drogue, deu:Droge|
-|**drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
+|**Drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**du**|mieć (partykuła posiadania)|zho:的 (de)|
 |**duga**|czytać|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |**duke**|żal, smutek|hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|
@@ -866,7 +866,7 @@
 |**mirer**|lustro|eng:mirror, fra:miroir, ara:mirʾāh, arz:mirāya|
 |**misa**|wysłać (wyemitować)|eng:emit, spa:remitir, por:emitir, fra:émettre|
 |**misale**|przykład|hin:मिसाल (misāl), ara:(mithāl), fas:(mesâl), may:misal, tur:mesela|
-|**misria**|Egipt|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
+|**Misre**|Egipt|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |**mite**|spotkanie, zebranie|eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|
 |**mitre**|metr|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|
 |**mixa**|miksować, mieszać|deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|

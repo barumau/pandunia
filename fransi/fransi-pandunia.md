@@ -15,7 +15,7 @@ adjectif - sifloge
 adresse - adrese  
 adulte - mature  
 afghan - avgani  
-Afghanistan - avgania  
+Afghanistan - Avganistan  
 africain - afriki  
 Afrique - afrike  
 afrophile - afrikofiler  
@@ -51,11 +51,11 @@ analyser - analiza
 ancre - anker  
 Andes - andes  
 andésite - andesite  
-Angola - angolia  
+Angola - Angola  
 animal (bête) - hevane  
 animation - anime  
 animer - anima  
-Antarctique - antartia  
+Antarctique - Antartike  
 antenne - antene  
 anus - anuse  
 appartenir à - tenu  
@@ -69,7 +69,7 @@ arbre - moke
 arc-en-ciel - rangarke  
 argent - argente  
 argent - pese  
-Argentine - argentinia  
+Argentine - Argentina  
 argile - glutopote  
 argon - argon  
 argument - argume  
@@ -224,7 +224,7 @@ chef - xefe
 chemise - kamise  
 cher - ami  
 chimie - kimlojia  
-Chine - jungogia  
+Chine - Jungogia  
 chocolat - cokolate  
 chose - xey (xeye)  
 chu - paduti  
@@ -464,7 +464,7 @@ interracial - rasmedi
 ironie - ironia  
 ##j
 jade - yuke  
-Japon - niponia  
+Japon - Nipon  
 jaïnisme - jeinistia  
 je (me) - me  
 jeudi - var 4 (var cari)  
@@ -495,7 +495,7 @@ lasagne - lazanye
 latéral - lati  
 lave - yongopetre  
 lent - lenti  
-Lettonie - latovia  
+Lettonie - Latvia  
 lexical - logi  
 libellule - libele  
 libre - huri  
@@ -539,7 +539,7 @@ mardi - var 2 (var duli)
 margay (chat-tigre) - maragaye  
 marguerite - bakomargarite  
 mariage - gamia  
-Maroc - magribia  
+Maroc - Magribe  
 masque - maske  
 match - mece  
 maximum - maxime  
@@ -900,7 +900,7 @@ truite arc-en-ciel - rangarkosamone
 truite brune (truite de mer) - brunsamone  
 tu - te  
 tubercule - masmule  
-Tunisie - tunisia  
+Tunisie - Tunisia  
 turban - pagre  
 télécharger - netogeta  
 téléphone - telfone  
@@ -925,7 +925,7 @@ varech - varkalge
 vase - vaze  
 vendre - venda  
 vendredi - var 5 (var limi)  
-Venezuela - venezolia  
+Venezuela - Venezuela  
 ver - verme  
 verbe - karloge  
 verre - kance  
@@ -970,7 +970,7 @@ zoroastrien - zarduxiste
 zoroastrisme - zarduxistia  
 zoulou - zuli  
 zèbre - zebre  
-Égypte - misria  
+Égypte - Misre  
 Épicéa - pise  
 âge - umure  
 échelle - xalke  

@@ -579,7 +579,7 @@
 |**minute**|minuto|angla:minute, hispana:portugala:minuto, rusa:мину́та (minúta), hindia:मिनट (minaṭ), bengala:মিনিট (miniṭ), malaja:minit|
 |**mirer**|spegulo|angla:mirror, franca:miroir, araba:mirʾāh, arz:mirāya|
 |**misale**|ekzemplo|hindia:मिसाल (misāl), araba:(mithāl), persa:(mesâl), malaja:misal, turka:mesela|
-|**misria**|Egipto|araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr)|
+|**Misre**|Egipto|araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr)|
 |**mitre**|metro|angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:mita|
 |**mixa**|miksi|deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)|
 |**moge**|inko|mandarena:墨 (mò), vjetnama:mực, taja:หมึก (muk)|
