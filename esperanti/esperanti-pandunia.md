@@ -1377,7 +1377,7 @@ senti - senta
 sentumo - sense  
 sep (7) - seti  
 Serbio - Serbia  
-serio - serye  
+serio - silia  
 serpento - serpe  
 sezono - mosime  
 seĝo - kurse  
@@ -1657,6 +1657,8 @@ zuluo - zuli
 ĉefministro - xefi minister  
 ĉelo - sele  
 ĉemizo - kamise  
+ĉenero - sile  
+ĉeno - silsile  
 ĉevalo - gude  
 ĉi tio - ye  
 ĉi tiu - yi  

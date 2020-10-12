@@ -2396,7 +2396,6 @@ serpe - käärme
 serva - palvella (tarjoilla)  
 serve - palvelu (palvelus)  
 server - palvelija (tarjoilija)  
-serye - sarja  
 sesame - seesami  
 seti - seitsemän (7)  
 setomese - heinäkuu  
@@ -2415,7 +2414,11 @@ sikiste - sikhi
 sikistia - sikhiläisyys  
 sikle - pyörä (polkupyörä, moottoripyörä)  
 sikliste - pyöräilyn harrastaja  
+sile - ketjun lenkki  
+silia - sarja  
 silike - pii  
+silke - silkki  
+silnete - silmukkapanssari (rengashaarniska)  
 silsile - ketju  
 simpli - yksinkertainen (mutkaton)  
 sine - rinta  

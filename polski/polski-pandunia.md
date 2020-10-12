@@ -951,7 +951,7 @@ jednokolorowy (monochromatyczny) - unrangi
 jednostka miary - unmete  
 jednostki podstawowej - eme  
 jednoznaczny - unmeni  
-jedwab - sile  
+jedwab - silke  
 jedynie (tylko) - uniko  
 jedyny (wyłączny) - moni  
 jedyny - uniki  
@@ -1107,7 +1107,7 @@ kola (coca-cola) - kokokole
 kola, napój gazowany - kole  
 kolacja - xamyame  
 kolano - gute  
-kolczuga - silsilnete  
+kolczuga - silnete  
 kolec - dinge  
 kolej - trendav  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
@@ -2576,7 +2576,7 @@ sensor (detektor, czujka) - senser
 ser - cise  
 Serbia - Serbia  
 serce - xime  
-seria, szereg - serye  
+seria, szereg - silia  
 Seszele - Sexel nesia  
 sezam - sesame  
 sfermentowany - bivmuti  

@@ -822,7 +822,6 @@ sense - sens
 sentaure - Centaurée  
 senter - tentacule  
 sere - scie  
-serye - série  
 seti - sept (7)  
 si - oui  
 sifloge - adjectif  
@@ -830,7 +829,9 @@ sihe - santé
 sihi - sain  
 sikle - bicyclette  
 sikliste - cycliste  
-sile - soie  
+sile - maillon (chaînon)  
+silia - série  
+silke - soie  
 sira - cacher  
 siri mote - célérité  
 sirkopurxipi - décapé (mariné)  

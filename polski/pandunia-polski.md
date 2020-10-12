@@ -2904,7 +2904,6 @@ serpe - wąż
 serva - służyć  
 serve - służba  
 server - sługa  
-serye - seria, szereg  
 sesame - sezam  
 seti - siedem (7)  
 setomese - październik  
@@ -2925,10 +2924,11 @@ sikiste - sikh
 sikistia - sikhizm  
 sikle - rower  
 sikliste - rowerzysta  
-sile - jedwab  
+silia - seria, szereg  
 silike - krzem  
+silke - jedwab  
+silnete - kolczuga  
 silsile - łańcuch  
-silsilnete - kolczuga  
 simpli - prosty, nieskomplikowany  
 sine - pierś  
 Singapur - Singapur  

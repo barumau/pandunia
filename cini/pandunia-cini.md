@@ -711,7 +711,6 @@ sense - 感觉
 senter - 觸手  
 serame - 陶瓷  
 sere - 锯子  
-serye - 系列  
 seti - 七 (7)  
 si - 对 (是)  
 side - 座部 (马鞍)  
@@ -719,7 +718,9 @@ sifloge - 形容词
 sihe - 健康  
 sihi - 健康  
 sikliste - 骑自行车的人  
-sile - 丝绸  
+sile - 连结  
+silia - 系列  
+silke - 丝绸  
 sira - 隐藏  
 sirkopurxipe - 腌菜  
 sirplane - 阴谋 (密谋)  

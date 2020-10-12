@@ -798,7 +798,7 @@ costar - kosta
 costumbre (hábito) - ade  
 costumbre (tradición, convención) - rasme  
 costura (sutura) - suture  
-cota de malla - silsilnete  
+cota de malla - silnete  
 crecemiento - raste  
 crecer (aumentar) - dayu  
 crecer - rastu  
@@ -1159,6 +1159,7 @@ escultor - eskulter
 escultura (arte de escultura) - eskultia  
 escultura (estatua) - eskulte  
 escupir (bufar) - tuha  
+eslabón - sile  
 eslavo - slavi  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
@@ -2905,7 +2906,7 @@ secretario - sekreter
 secretaría - sekreteria  
 secreto - siri  
 sed - suynide  
-seda - sile  
+seda - silke  
 seguir - bada  
 segundo - sekunde  
 seguramente (amén) - ameno  
@@ -2931,7 +2932,7 @@ ser de - tenu
 ser humano - insan (insane)  
 ser visto - vidu  
 Serbia - Serbia  
-serie - serye  
+serie - silia  
 serpiente (culebra) - serpe  
 servicio - serve  
 servir - serva  

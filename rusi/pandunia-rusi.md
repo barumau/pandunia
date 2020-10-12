@@ -757,15 +757,16 @@ sentaure - василёк
 senter - щупальце  
 serame - керамика  
 sere - пила  
-serye - серия  
 seti - семь (7)  
 si - да  
 sida - сидеть  
 side - сиденье (седло)  
 sifloge - прилагательное  
 sikliste - велосипедист  
-sile - шёлк  
-silsilnete - кольчуга  
+sile - звено  
+silia - серия  
+silke - шёлк  
+silnete - кольчуга  
 sinplate - нагрудник  
 sira - скрывать  
 sirkopurxipi - марино́ванный  

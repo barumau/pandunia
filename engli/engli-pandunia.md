@@ -549,7 +549,7 @@ certain (sure) - ameni
 certainly (surely, amen) - ameno  
 Chad - Cade  
 chain - silsile  
-chain mail - silsilnete  
+chain mail - silnete  
 chair - kurse  
 champion - campion (campione)  
 change (alter, convert) - muta  
@@ -1773,6 +1773,7 @@ limit (boundary) - limite
 line (stripe) - linye  
 line break (newline) - linyoparce  
 linguistics - baxlojia  
+link - sile  
 lion - singe  
 lip - labe  
 liquid - livmate  
@@ -2844,7 +2845,7 @@ sensor (detector) - senser
 sentence (phrase) - jumle  
 September - navmese  
 Serbia - Serbia  
-series (sequence) - serye  
+series (sequence) - silia  
 servant - server  
 serve (give service) - serva  
 service - serve  
@@ -2910,7 +2911,7 @@ Sikhism - sikistia
 silence (make silent) - xuxa  
 silent - xuxi  
 silicon - silike  
-silk - sile  
+silk - silke  
 silver - argente  
 similar (analogous) - samsifi  
 simple (not complicated) - simpli  

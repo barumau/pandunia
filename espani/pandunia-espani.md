@@ -2790,7 +2790,6 @@ serpe - serpiente (culebra)
 serva - servir  
 serve - servicio  
 server - criado (sirviente)  
-serye - serie  
 sesame - ajonjolí (sésamo)  
 seti - siete (7)  
 setomese - julio  
@@ -2811,10 +2810,12 @@ sikiste - sij
 sikistia - sijismo  
 sikle - bicicleta  
 sikliste - ciclista  
-sile - seda  
+sile - eslabón  
+silia - serie  
 silike - silicio  
+silke - seda  
+silnete - cota de malla  
 silsile - cadena  
-silsilnete - cota de malla  
 simpli - simple  
 sine - pecho (seno, tórax)  
 Singapur - Singapur  

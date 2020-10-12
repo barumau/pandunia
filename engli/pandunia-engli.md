@@ -2937,7 +2937,6 @@ serpe - snake (serpent)
 serva - serve (give service)  
 serve - service  
 server - servant  
-serye - series (sequence)  
 sesame - sesame  
 seti - seven (7)  
 setomese - July  
@@ -2958,10 +2957,12 @@ sikiste - Sikh
 sikistia - Sikhism  
 sikle - bike (cycle)  
 sikliste - cyclist  
-sile - silk  
+sile - link  
+silia - series (sequence)  
 silike - silicon  
+silke - silk  
+silnete - chain mail  
 silsile - chain  
-silsilnete - chain mail  
 simpli - simple (not complicated)  
 sine - chest (breast)  
 Singapur - Singapore  

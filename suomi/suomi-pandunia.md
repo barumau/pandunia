@@ -887,6 +887,7 @@ kestää (viedä aikaa) - dura
 kesä (suvi) - lete  
 kesäkuu - sismese  
 ketju - silsile  
+ketjun lenkki - sile  
 ketsuppi - kecape  
 ketterä - ajili  
 kettu - hule  
@@ -2138,7 +2139,7 @@ sanomalehti - habargazete
 Sao Tome ja Principe - Santi Tome e Prinsipe  
 sapatti - sabate  
 sarana - xarnire  
-sarja - serye  
+sarja - silia  
 sarjakuva - grafsage  
 sarvi - korne  
 sarvikuono - kornonose  
@@ -2213,6 +2214,8 @@ sikhi - sikiste
 sikhiläisyys - sikistia  
 siksakki - zigzage  
 sileä - lisi  
+silkki - silke  
+silmukkapanssari (rengashaarniska) - silnete  
 silmä - kan (kane)  
 silmäillä (katsoa) - kana  
 silmäripsi - kankexe  

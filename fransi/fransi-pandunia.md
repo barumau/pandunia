@@ -524,6 +524,7 @@ léger - legi
 machine à écrire - kitabomaxine  
 magma - pastopetre  
 magnésium - mangese  
+maillon (chaînon) - sile  
 main - hande  
 mais (bien que) - a  
 maison - dome  
@@ -836,7 +837,7 @@ simulation - samsifia
 situation (état de choses) - xeyhale  
 six (6) - sisi  
 société - socia  
-soie - sile  
+soie - silke  
 soif - suynide  
 soldat - gunrene  
 soleil - sole  
@@ -853,7 +854,7 @@ sujet (thème) - teme
 symétrie - sammetria  
 symétrique - sammetri  
 séminal - semi  
-série - serye  
+série - silia  
 sûr - sekuri  
 sûrement - ameno  
 s’accroupir - indosida  

@@ -753,10 +753,10 @@
 |**senta**|senti|hispana:portugala:sentir|
 |**serebre**|cerbo|angla:cerebrum, hispana:cerebro, portugala:cérebro, franca:cerveau|
 |**serpe**|serpento|hindia:सर्प (sarp), bengala:সাপ (sap), teluga:(sarpamu), franca:angla:serpent, hispana:serpiente, + mandarena:蛇 (shé), + joruba:sèbé|
-|**serye**|serio|turka:seri, franca:série, hispana:serie, rusa:серия (seriya), angla:series, mandarena:系列 (xìliè)|
 |**seti**|sep (7)|hispana:siete, portugala:sete, franca:sept, hindia:सात (sāt), bengala:সাত (sat), taja:เจ็ด (chet), kantona:七 (chat1), japana:七 (shichi), turka:yedi|
 |**si**|jes|hispana:sí, portugala:sim, + mandarena:是 (shí), vua:是 (sí)|
 |**sida**|sidi|rusa:сидеть (sidet'), angla:sit, deu:sitzen, itala:sedere|
+|**sile**|ĉenero|hindia:सिलसिला (silsilā), araba:(silsila), turka:silsile, svahila:silisili + mandarena:系列 (xìliè) + angla:series, franca:série, hispana:serie, rusa:серия (seriya), tur:seri|
 |**simpli**|simpla|angla:hispana:franca:simple, portugala:simples, deu:simpel|
 |**sine**|brusto|persa:(sine), turka:sine, hindia:सीना (sīnā), hispana:seno, franca:sein, latina:sinus|
 |**singe**|leono|malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi), + svahila:simba|

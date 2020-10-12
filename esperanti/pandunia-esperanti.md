@@ -1424,14 +1424,16 @@ Serbia - Serbio
 serebre - cerbo  
 seres - Cereso  
 serpe - serpento  
-serye - serio  
 seti - sep (7)  
 si - jes  
 sida - sidi  
 sifloge - adjektivo  
 sihi - sana  
 sikliste - biciklisto  
+sile - ĉenero  
+silia - serio  
 silike - silicio  
+silsile - ĉeno  
 simpli - simpla  
 sine - brusto  
 Singapur - Singapuro  

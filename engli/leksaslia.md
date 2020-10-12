@@ -1180,7 +1180,6 @@
 |**serebre**|brain|English:cerebrum, Spanish:cerebro, Portuguese:cérebro, French:cerveau|
 |**serpe**|snake (serpent)|Hindi:सर्प (sarp), Bengali:সাপ (sap), Telugu:(sarpamu), French:English:serpent, Spanish:serpiente, + Mandarin:蛇 (shé), + Yoruba:sèbé|
 |**serve**|service|English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis, Hindi:(sevâ)|
-|**serye**|series (sequence)|Turkish:seri, French:série, Spanish:serie, Russian:серия (seriya), English:series, Mandarin:系列 (xìliè)|
 |**sesame**|sesame|Turkish:susam, English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim)|
 |**seti**|seven (7)|Spanish:siete, Portuguese:sete, French:sept, Hindi:सात (sāt), Bengali:সাত (sat), Thai:เจ็ด (chet), Cantonese:七 (chat1), Japanese:七 (shichi), Turkish:yedi|
 |**si**|yes|Spanish:sí, Portuguese:sim, + Mandarin:是 (shí), Wu-Chinese:是 (sí)|
@@ -1189,8 +1188,8 @@
 |**sigare**|cigarette (cigar)|Turkish:sigara, Amharic:ሲጃራ (siǧara), Arabic:(sījāra), English:cigar(ette), Mandarin:雪茄 (xǔejiā), Wu-Chinese:雪茄 (xi'gá)|
 |**sihe**|health|Arabic:صحة (siha), Hindi:सेहत (sehata), Bengali:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), Turkish:sıhhat, Malay:sihat|
 |**sikle**|bike (cycle)|English:bicycle, French:bicyclette, Turkish:bisiklet, Spanish:bicicleta, Filipino:bisikleta, Bengali:সাইকেল (saikel), Hindi:साइकिल (sāikil)|
-|**sile**|silk|Mandarin:丝 (sī), Cantonese:絲 (si1), Wu-Chinese:絲 (sr1), English:silk, Spanish:Portuguese:sérico, Russian:шёлк (sholk)|
-|**silsile**|chain|Hindi:सिलसिला (silsilā), Arabic:(silsila), Turkish:silsile, Swahili:silisili|
+|**sile**|link|Hindi:सिलसिला (silsilā), Arabic:(silsila), Turkish:silsile, Swahili:silisili + Mandarin:系列 (xìliè) + English:series, French:série, Spanish:serie, Russian:серия (seriya), tur:seri|
+|**silke**|silk|Mandarin:丝 (sī), Cantonese:絲 (si1), Wu-Chinese:絲 (sr1), English:silk, Spanish:Portuguese:sérico, Russian:шёлк (sholk)|
 |**simpli**|simple (not complicated)|English:Spanish:French:simple, Portuguese:simples, deu:simpel|
 |**sine**|chest (breast)|Persian:(sine), Turkish:sine, Hindi:सीना (sīnā), Spanish:seno, French:sein, Latin:sinus|
 |**singe**|lion|Malay:singa, Hindi:सिंघ (singh), Bengali:সিংহ (singh), Tamil:சிங்கம் (sinkam), Thai:สิง (sing), Mandarin:狮 (shī), Japanese:獅子 (shishi), + Swahili:simba|
