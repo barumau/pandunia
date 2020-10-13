@@ -195,7 +195,7 @@ diniste - 信徒
 diorite - 闪长岩  
 diske - 圆盘  
 divare - 墙  
-divarkagaze - 壁纸 (墙纸)  
+divarkaguje - 壁纸 (墙纸)  
 dobe - 砖  
 dolfine - 海豚  
 dome - 房子  
@@ -353,8 +353,8 @@ kaboge - 南瓜
 kade - 鱈  
 kafase - 笼  
 kafe - 咖啡  
-kagaze - 纸  
-kagazolimone - 墨西哥萊檬  
+kaguje - 纸  
+kagujolimone - 墨西哥萊檬  
 kaixa - 开始  
 kalamare - 鱿鱼  
 kalame - 笔  
@@ -400,6 +400,8 @@ keci - 客气
 kenarbaryer - 篱笆  
 kenare - 边  
 kerne - 核心  
+kime - 物质  
+kimeme - 元素  
 kimlojia - 化学  
 kitaba - 写  
 kitabia - 图书馆  

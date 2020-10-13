@@ -35,6 +35,7 @@ aiheuttaa (olla syynä) - saba
 aikakausi - zamane  
 aikuinen - mature  
 aina - pan sate  
+aine (aines, materia) - kime  
 aine (materia) - mate  
 aineellinen (materiaalinen) - mati  
 ainoa (ainut) - moni  
@@ -72,6 +73,7 @@ alkoholi - alkole
 alkoholinen - alkoli  
 alkovi - nixe  
 alku - kaixe  
+alkuaine - kimeme  
 alkuperä - asle  
 alkuperäinen - asli  
 allas - basene  
@@ -278,6 +280,7 @@ El Salvador - Salvador
 ele - jeste  
 elegantti - xiki  
 elektroni - eletron  
+elementti (yksinkertaisin yksikkö) - eme  
 eli (toisin sanoen) - alnamo  
 elohopea - hurargente  
 elokuu - balomese  
@@ -1763,7 +1766,7 @@ panna jkn maate - kuxa
 pannu (paistinpannu) - tave  
 pantheon - pandevia  
 papaija - papaye  
-paperi - kagaze  
+paperi - kaguje  
 pappi - dingure  
 paprika - cile  
 paprikajauhe - cilfune  
@@ -1818,7 +1821,6 @@ pian - suno
 piano - piane  
 pidentää - longa  
 pieni (pienesti, vähän) - lil (lili)  
-pienin erottuva yksikkö - eme  
 pierrä (pieraista) - peda  
 pieru - pede  
 pihdit - pinser  
@@ -2413,7 +2415,7 @@ tapa - ade
 tapa - mode  
 tapaaminen (kokous) - mite  
 tapaus (seikka) - kase  
-tapetti - divarkagaze  
+tapetti - divarkaguje  
 tappaa - morta  
 tappaja - morter  
 tarha (puisto) - parke  

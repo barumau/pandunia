@@ -569,6 +569,7 @@ checkers (draughts) - damogeme
 cheer (hurrah, hooray) - ura  
 cheese - cise  
 chemical - kimi  
+chemical element - kimeme  
 chemistry - kimlojia  
 cherry - cerize  
 cherub - kerube  
@@ -998,6 +999,7 @@ electric - eletri
 electricity - eletre  
 electron - eletron  
 elegant (chic) - xiki  
+element (the simplest unit) - eme  
 elephant - gaje  
 embassy - daixeria  
 emerald - zumurude  
@@ -1645,7 +1647,7 @@ ketchup - kecape
 kettle - ketele  
 key (push-button, switch) - butone  
 key - cabe  
-key lime - kagazolimone  
+key lime - kagujolimone  
 keyboard - butonbanze  
 kidney - nefre  
 kill - morta  
@@ -1718,7 +1720,6 @@ leak - lova
 learn (study) - darsa  
 leash (rein) - lidokorde  
 least (minimally) - minim (minimo)  
-least distinguishable unit - eme  
 leave (go out, exit) - cuta  
 leave behind (abandon, let go) - laxa  
 Lebanon - Libanon  
@@ -2314,7 +2315,7 @@ pantheism - pandevistia
 pantheon - pandevia  
 pants (trousers) - pante  
 papaya - papaye  
-paper (material) - kagaze  
+paper (material) - kaguje  
 paprika - cilfune  
 Papua New Guinea - Papua Novi Ginia  
 Paraguay - Paraguay  
@@ -3079,6 +3080,7 @@ studio - estudia
 stupid (idiotic) - idioti  
 submission (surrender) - islame  
 submit (present) - karmisa  
+substance (physical material from which something is made) - kime  
 substitute (replace) - visa  
 subway (metro) - tuneltren  
 suck (absorb) - cupa  
@@ -3464,7 +3466,7 @@ Wales (Cambria) - Kamria
 walk (march) - marcu  
 wall - divare  
 Wallis and Futuna Islands - Valis e Futuna nesia  
-wallpaper - divarkagaze  
+wallpaper - divarkaguje  
 want (desire, longing) - vole  
 want (desire, wish) - vola  
 warm (hot) - garmi  

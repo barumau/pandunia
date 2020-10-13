@@ -240,7 +240,7 @@ diniste - croyant
 diorite - diorite  
 diske - disque  
 divare - mur  
-divarkagaze - papier peint  
+divarkaguje - papier peint  
 dobe - brique  
 dokume - document (dossier)  
 dolfine - dauphin  
@@ -261,7 +261,7 @@ e - et
 ekojeni - sauvage  
 ekore - écureuil  
 eletre - électricité  
-eme - unité fondamentale  
+eme - élément (unité fondamentale)  
 emoje - émoticône (emoji)  
 emose - émotion  
 emoshale - humeur  
@@ -424,8 +424,8 @@ kaboge - citrouille
 kade - morue  
 kafase - cage  
 kafe - café  
-kagaze - papier  
-kagazolimone - lime (citron vert)  
+kaguje - papier  
+kagujolimone - lime (citron vert)  
 kalamare - calmar (encornet, calamar)  
 kalame - plume  
 kalcite - calcite  
@@ -468,6 +468,8 @@ kava - creuser
 kave - fosse  
 ke - que (quoi)  
 kerne - coeur  
+kime - substance  
+kimeme - élément chimique  
 kimlojia - chimie  
 kitaba - écrire  
 kitabe - écriture  

@@ -1065,6 +1065,8 @@ electrón - eletron
 elefante - gaje  
 elegante (chic) - xiki  
 elegir (escoger, seleccionar) - cuza  
+elemento (unidad fundamental) - eme  
+elemento químico - kimeme  
 ellos o ellas - lole  
 elogiar (alabar, exaltar) - halela  
 elástico (flexible) - lasti  
@@ -1818,7 +1820,7 @@ ligero (leve, vago, débil, borroso) - mirdi
 ligero - legi  
 lila (de color lila) - lilaki  
 lila - lilake  
-limero - kagazolimone  
+limero - kagujolimone  
 limpiador - safer  
 limpiar - safa  
 limpio - safi  
@@ -2363,9 +2365,9 @@ panteísmo - pandevistia
 panteón - pandevia  
 papa - patate  
 papaya - papaye  
-papel - kagaze  
+papel - kaguje  
 papel - role  
-papel tapiz - divarkagaze  
+papel tapiz - divarkaguje  
 Papúa Nueva Guinea - Papua Novi Ginia  
 paquete - pake  
 parada (alto) - ting (tinge)  
@@ -3044,6 +3046,7 @@ surgéncia (propuesta) - suje
 Surinam - Suriname  
 sushi - suxe  
 sustancia (materia) - mate  
+sustancia - kime  
 sustantivo - namloge  
 sustituir (reemplezar) - visa  
 susurrar (curjir) - xaxu  
@@ -3247,7 +3250,6 @@ Ucrania - Ukraina
 Uganda - Ganda  
 una vez - unmaro  
 unidad (medida) - unmete  
-unidad fundumental - eme  
 unido - unisi  
 unir - unisa  
 universidad - daydarsia  

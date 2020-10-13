@@ -631,7 +631,7 @@ diorite - dioryt
 diske - dysk  
 disprosium - dysproz  
 divare - mur, ściana  
-divarkagaze - tapeta  
+divarkaguje - tapeta  
 Divehia - Malediwy (Republika Malediwów)  
 dixe - kierunek  
 dixo - wprost (bezpośrednio)  
@@ -721,7 +721,7 @@ eletrolinye - kabel (linia)
 eletron - elektron  
 eletroposte (e-poste) - poczta elektroniczna  
 eletrorade - piorun (grom)  
-eme - jednostki podstawowej  
+eme - pierwiastek (jednostki podstawowej)  
 emire - emir  
 emiria - emirat  
 emoje - emoji (emotkon)  
@@ -1384,8 +1384,8 @@ kafe - kawa
 kaferia - kawiarnia  
 kafire - niewierny (poganin, niewierzący)  
 kafkope - filiżanka do kawy  
-kagaze - papier  
-kagazolimone - lima (limonka)  
+kaguje - papier  
+kagujolimone - lima (limonka)  
 kaixa - zacząć, zaczynać  
 kaixe - początek  
 kaixi - pierwszy, początkowy  

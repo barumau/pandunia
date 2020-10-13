@@ -367,7 +367,7 @@ dini - religia
 diniste - kredulo  
 diske - disko  
 disprosium - disprozio  
-divarkagaze - tapeto  
+divarkaguje - tapeto  
 dolare - dolaro  
 dolfine - delfeno  
 doma - loĝi  
@@ -416,7 +416,7 @@ ekuador - Ekvadoro
 eletre - elektro  
 eletri - elektra  
 eletron - elektrono  
-eme - ero  
+eme - elemento (ero)  
 emosa - emocii  
 emose - emocio  
 emoshale - animstato  
@@ -782,7 +782,7 @@ kadomium - kadmio
 kafe - kafo  
 kaferia - kafejo  
 kafkope - kaftaso  
-kagaze - papero  
+kaguje - papero  
 kaixa - komenci  
 kaixe - komenco  
 kaixu - komenciĝi  
@@ -858,6 +858,7 @@ ki xey - kio?
 ki yangi - kia?  
 kili - mil  
 kilmitre - kilometro  
+kimeme - kemia elemento  
 kimlojia - ĥemio (kemio)  
 kitabe - skribo  
 kitabia - librejo  

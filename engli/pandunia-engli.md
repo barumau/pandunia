@@ -639,7 +639,7 @@ diorite - diorite
 diske - disc (disk)  
 disprosium - dysprosium  
 divare - wall  
-divarkagaze - wallpaper  
+divarkaguje - wallpaper  
 Divehia - Maldives  
 dixe - direction  
 dixo - directly  
@@ -731,7 +731,7 @@ eletrolinye - cable (wire, line)
 eletron - electron  
 eletroposte (e-poste) - e-mail  
 eletrorade - lightning bolt  
-eme - least distinguishable unit  
+eme - element (the simplest unit)  
 emire - emir  
 emiria - emirate  
 emoje - emoji (smiley, emoticon)  
@@ -1402,8 +1402,8 @@ kafe - coffee
 kaferia - cafe (coffee shop)  
 kafire - infidel (pagan, heathen, unbeliever)  
 kafkope - coffee cup  
-kagaze - paper (material)  
-kagazolimone - key lime  
+kaguje - paper (material)  
+kagujolimone - key lime  
 kaixa - begin (start, commence, initiate)  
 kaixe - beginning (start)  
 kaixi - initial (first)  
@@ -1555,6 +1555,8 @@ kilgram - kilogram (kg)
 kili - thousand  
 kilmitre - kilometer (km)  
 kilo- - kilo-  
+kime - substance (physical material from which something is made)  
+kimeme - chemical element  
 kimi - chemical  
 kimlojia - chemistry  
 kina - move (transfer, change place)  

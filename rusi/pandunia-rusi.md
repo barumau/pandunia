@@ -205,7 +205,7 @@ diniste - верующий
 diorite - диорит  
 diske - диск  
 divare - стена (вал)  
-divarkagaze - обои  
+divarkaguje - обои  
 dobe - кирпич  
 dolfine - дельфин  
 domi - домашний  
@@ -225,6 +225,7 @@ ekojeni - дикий
 ekore - белка  
 eletrolinye - провод (кабель)  
 eletrorade - молния  
+eme - элемент  
 emoje - смайлик (эмодзи)  
 emose - эмоция (чувство)  
 emoshale - настроение  
@@ -380,8 +381,8 @@ kababi manse - кебаб
 kaboge - тыква  
 kafase - клетка  
 kafe - кофе  
-kagaze - бумага  
-kagazolimone - лайм  
+kaguje - бумага  
+kagujolimone - лайм  
 kalamare - кальмар  
 kalame - ручка  
 kalcite - кальцит  
@@ -424,6 +425,8 @@ kava - копать
 kave - яма  
 ke - что  
 kenarbaryer - забор (ограда)  
+kime - вещество  
+kimeme - химический элемент  
 kimlojia - химия  
 kingrafe - фильм (кино)  
 kitaba - писать  

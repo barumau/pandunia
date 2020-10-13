@@ -520,7 +520,7 @@ diniste - uskovainen
 diske - kiekko (levy)  
 disprosium - dysprosium  
 divare - seinä (muuri)  
-divarkagaze - tapetti  
+divarkaguje - tapetti  
 Divehia - Malediivit  
 dixe - suunta  
 doici - saksalainen  
@@ -591,7 +591,7 @@ eletre - sähkö
 eletri - sähköinen  
 eletron - elektroni  
 eletroposte (e-poste) - sähköposti  
-eme - pienin erottuva yksikkö  
+eme - elementti (yksinkertaisin yksikkö)  
 emire - emiiri  
 emiria - emiirikunta  
 emoje - hymiö (emoji)  
@@ -1148,7 +1148,7 @@ kafe - kahvi
 kaferia - kahvila  
 kafire - pakana  
 kafkope - kahvikuppi  
-kagaze - paperi  
+kaguje - paperi  
 kaixa - aloittaa  
 kaixe - alku  
 kaixu - alkaa  
@@ -1265,6 +1265,8 @@ ki yangi - millainen?
 kilgram - kilogramma  
 kili - tuhat  
 kilmitre - kilometri  
+kime - aine (aines, materia)  
+kimeme - alkuaine  
 kimi - kemikaali  
 kimlojia - kemia  
 kina - liikuttaa  

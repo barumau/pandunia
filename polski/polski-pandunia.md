@@ -949,7 +949,6 @@ jeden (1) - un (uni)
 jednoczyć - unisa  
 jednokolorowy (monochromatyczny) - unrangi  
 jednostka miary - unmete  
-jednostki podstawowej - eme  
 jednoznaczny - unmeni  
 jedwab - silke  
 jedynie (tylko) - uniko  
@@ -1311,7 +1310,7 @@ lilak - lilake
 lilia - susane  
 lilia wodna, nenufar - nenufare  
 liliowy - lilaki  
-lima (limonka) - kagazolimone  
+lima (limonka) - kagujolimone  
 limfa - linfe  
 limit, granica - limite  
 limonkowy (limonkowo zielony) - limonlugi  
@@ -1913,7 +1912,7 @@ panteizm - pandevistia
 panteon - pandevia  
 papaja - papaye  
 papeda - karsolimone  
-papier - kagaze  
+papier - kaguje  
 papieros (cygar) - sigare  
 paproć - parne  
 papryka - cile  
@@ -1981,6 +1980,7 @@ pieprz - pipre
 pieprz długi - longopipre  
 pierdnięcie - pede  
 pierdzieć - peda  
+pierwiastek (jednostki podstawowej) - eme  
 pierwszy, numer jeden - nombre un  
 pierwszy, początkowy - kaixi  
 pierś - sine  
@@ -2856,7 +2856,7 @@ tantal - tantalum
 Tanzania - Tanzania  
 taoista - daviste  
 taoizm - davistia  
-tapeta - divarkagaze  
+tapeta - divarkaguje  
 tarcza - defbanze  
 tatuaż - tatave  
 taxi, taksówka - taksogare  

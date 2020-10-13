@@ -600,7 +600,7 @@ diorite - diorita
 diske - disco  
 disprosium - disprosio  
 divare - muro (muralha)  
-divarkagaze - papel tapiz  
+divarkaguje - papel tapiz  
 Divehia - Maldivas  
 dixe - dirección  
 dixo - directamente  
@@ -686,7 +686,7 @@ eletrolinye - cable
 eletron - electrón  
 eletroposte (e-poste) - email (correo electrónico)  
 eletrorade - relámpago  
-eme - unidad fundumental  
+eme - elemento (unidad fundamental)  
 emire - emir  
 emiria - emirato  
 emoje - emoticón (emoyi)  
@@ -1331,8 +1331,8 @@ kafe - café
 kaferia - café (cafetería)  
 kafire - pagano (infiel)  
 kafkope - taza de café  
-kagaze - papel  
-kagazolimone - limero  
+kaguje - papel  
+kagujolimone - limero  
 kaixa - comenzar (iniciar, empezar)  
 kaixe - comienzo (inicio)  
 kaixi - primer (inicial, inaugural)  
@@ -1477,6 +1477,8 @@ kilgram - kilograma
 kili - mil  
 kilmitre - kilometre  
 kilo- - kilo-  
+kime - sustancia  
+kimeme - elemento químico  
 kimi - químico  
 kimlojia - química  
 kina - mudar (transferir, traspasar, trasladar)  

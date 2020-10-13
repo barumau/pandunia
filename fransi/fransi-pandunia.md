@@ -502,7 +502,7 @@ libre - huri
 lichen - algofunge  
 lieu - loke  
 ligne - linye  
-lime (citron vert) - kagazolimone  
+lime (citron vert) - kagujolimone  
 lire - duga  
 liste - liste  
 litre - litre  
@@ -656,8 +656,8 @@ pamplemousse - putavlimone
 pantalon - pante  
 pantoufle (babouche) - babuce  
 papaye - papaye  
-papier - kagaze  
-papier peint - divarkagaze  
+papier - kaguje  
+papier peint - divarkaguje  
 paquet - pake  
 par exemple - misalo  
 paramètre - parame  
@@ -843,6 +843,7 @@ soldat - gunrene
 soleil - sole  
 soumettre - karmisa  
 squelette - ostojamia  
+substance - kime  
 sucre - xukare  
 sueur - suede  
 suffixe pour dériver les noms - -e  
@@ -912,7 +913,6 @@ un (1) - un (uni)
 une fois - unmaro  
 unique - uniki  
 uniquement - uniko  
-unité fondamentale - eme  
 uranium - uranium  
 ##v
 vagine - vagine  
@@ -983,6 +983,8 @@ zèbre - zebre
 électricité - eletre  
 élevage - hevanjenisia  
 élever - jenisa  
+élément (unité fondamentale) - eme  
+élément chimique - kimeme  
 émeraude - zumurude  
 émoticône (emoji) - emoje  
 émotion - emose  

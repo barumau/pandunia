@@ -334,6 +334,7 @@ elekto - cuze
 elektra - eletri  
 elektro - eletre  
 elektrono - eletron  
+elemento (ero) - eme  
 elirejo - cutomun  
 eliri - cuta  
 eliro - cute  
@@ -353,7 +354,6 @@ eraro (miso) - galte
 erbio - erbium  
 Eris (planedeto) - eris  
 Eritreo - Eritria  
-ero - eme  
 ero - parce  
 escepte - mina  
 Esperanto - esperanti  
@@ -698,6 +698,7 @@ kato - mav (mave)
 kaverno - guhe  
 kaŝtano - kastane  
 kaŭĉuko - gome  
+kemia elemento - kimeme  
 kerno (koro) - kerne  
 keĉupo - kecape  
 kia? - ki yangi  
@@ -1131,7 +1132,7 @@ pantalonoj - pante
 pantoflo - babuce  
 papago - papagaye  
 papajo - papaye  
-papero - kagaze  
+papero - kaguje  
 papilio - pelpele  
 para nombro - pari nombre  
 parko (ĝardeno) - parke  
@@ -1462,7 +1463,7 @@ tamburo - gume
 tamen - lekin (lekino)  
 tantalo - tantalum  
 Tanzanio - Tanzania  
-tapeto - divarkagaze  
+tapeto - divarkaguje  
 taso - kope  
 tatuo - tatave  
 teknecio - tehnetium  
