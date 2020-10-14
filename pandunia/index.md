@@ -31,6 +31,7 @@ te abla darsa pandunia sa uza [mini darse](mini_darse.html).
     * [leksaslia](leksaslia.md) e [lekse du nombre](lekse_du_nombre.md)
 * wikia
     * [pandunia wikia](https://pandunia.wikia.com/wiki/Pandunia_Wiki)
+    * [wiki sa miraheze](https://pandunia.miraheze.org/wiki/Xefi_varkolate)
     * [wikia da tema cani baxe](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
     * [ali wikia sa pandunia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
 
