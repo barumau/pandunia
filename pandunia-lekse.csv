@@ -1268,9 +1268,8 @@ interesi||||interesting||interesante|||||||||||||interesa||interesujący
 internete||||internet||Internet||||||||||||||internet|internet
 inxala||||hope (wish)||esperar (desear)|||||||||||||esperi|toivoa|nadzieja, życzenie
 iode|mate|I||iodine||yodo (iodo)||йод|||||||||||jodo|jodi|jod; jodyna
+ionani radio||||ionizing radiation||radiación ionizante||||||||||||||radioaktiivisuus|radioaktywność
 ione|||eng:fra:spa:ion, rus:ион (ion), tur:iyon|ion||ion|||||||||||||iono|ioni|jon
-ioni radi||||radioactive||radiactivo||||||||||||||radioaktiivinen|radioaktywny
-ioni radia||||radioactivity (ionizing radiation)||radiación ionizante||||||||||||||radioaktiivisuus|radioaktywność
 Irake|dex|IQ||Iraq||Iraq|||||||||||||Irakio|Irak|Irak
 Iran|dex|IR||Iran||Irán|||||||||||||Iranio|Iran|Iran
 iridium|mate|Ir||iridium||iridio|||||||||||||iridio|iridium|iryd
@@ -2369,7 +2368,7 @@ okse|mate|O||oxygen||oxígeno|||||||||||||oksigeno|happi|tlen
 okside||||oxide|oxyde|óxide|óxide|окись (оксид)||氧化物|||||||||oksido|oksidi|tlenek
 Olande|dex|AX||Aland Islands||islas Aland||||||||||||||Ahvenanmaa (Oolanti)|Wyspy Alandzkie
 Oman|dex|OM||Oman||Omán||||||||||||||Oman|Oman
-onde|||spa:por:ita:onda, fra:onde, may:ombak|wave|onde|onda|onda|||波浪|波||||||||ondo|aalto (laine)|fala
+bolange|||eng:bellow, dan:nor:bølge + zho:波	浪 (bōlàng), yue:波浪 (bo1long6), jpn:波浪 (harō)|wave|onde|onda|onda|||波浪|波||||||||ondo|aalto (laine)|fala
 onore|||eng:pol:spa:honor, fra:honneur, por:honra, ita:onore, tur:onur|respect (honor, esteem)||respeto (honor)|||||||||||||honoro (respekto)|kunnioitus (arvostus)|respekt, honor, szacunek, poważanie
 onori||||honorable (respectable)||respetable (honorable)|||||||||||||respektinda|kunnianarvoisa|honorowy
 ora||||listen||escuchar (oír)||||||||||||||kuunnella|słuchać
@@ -2664,10 +2663,13 @@ putong (putongi)|||zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thô
 putong cini||||Mandarin Chinese (Putonghua)||chino mandarín|||||||||||||mandarinĉina|yleiskiina (mandariinikiina)|mandaryński chiński, Putonghua
 puxa|||eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|push||empujar (presionar)||||||||||||||työntää (puskea)|pchnąć, pchać
 puxer||||piston|||||||||||||||||tłok
-radio (radioe)|||eng:fra:spa:por:may:radio, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|radiation (radio signal)||radiación||||||||||||||säteily|promieniowanie
+radio (radioe)|||eng:fra:spa:por:may:radio, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|radiation (radio)||radiación (radio)||||||||||||||säteily|promieniowanie
+radioi||||radial (radiative)||radial|||||||||||||||
+radiobolange||||radial waves (radio waves)|||||||電波||||||||||
 radiogeter||||radio receiver||receptor de radio|||||||||||||radio|radiovastaanotin|radio
+radiokarivi||||radioactive||radiactivo||радиоактивный|||放射性|||||||||radioaktiivinen|radioaktywny
 radiomiser||||radiotransmitter||radiotransmisor||||||||||||||radiolähetin|nadajnik radiowy
-radiometer||||radiometer||radiómetro||||||||||||||säteilymittari|radoiometr
+radiometrer||||radiometer||radiómetro||||||||||||||säteilymittari|radoiometr
 radium|mate|Ra||radium||radio|||||||||||||radiumo|radium|rad
 radon|mate|Rn||radon||radón|||||||||||||radono|radon|radon
 raite|||eng:right|right hand side||lado derecho|||||右|||||||||oikea puoli|prawa strona
