@@ -14,7 +14,8 @@ and the vowel endings indicate different manifestations of that idea.
 
 Pandunia uses the following vowel endings to mark parts of speech.
 
-- **-e** indicates a noun (a thing)
+- **-e** indicates a concrete noun (a thing)
+- **-ia** indicates an abstract or collective noun (a concept or place)
 - **-i** indicates an adjective (a description)
 - **-o** indicates an adverb (a manner or a circumstance)
 - **-a** indicates an active verb (an action)
@@ -57,7 +58,7 @@ Here are a few examples of different types of ideas.
     - **fikra** to think (active verb)
     - **fikru** to be thought (passive verb)
 - description
-    - **longe** length (noun)
+    - **longe** a length (noun)
     - **longi** long, lengthy (adjective)
     - **longo** lengthily (adverb)
     - **longa** to make long, to lengthen (active verb)

@@ -11,7 +11,7 @@ They are described in more detail later in this document.
     - Adverbs end in **-o**, ex. **novo** = newly.
     - Active verbs end in **-a**, ex. **me loga** = I speak.
     - Passive verbs end in **-u**, ex. **le logu** = It is spoken.
-    - Nouns end in **-e**, **-ia** or a consonant.
+    - Nouns end in **-e**, **-ia**.
 4. Nouns have a single, unchanging form.
 5. Adjectives come before the word that they modify.
    All adjectives, except the most common few, end in **-i**.

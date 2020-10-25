@@ -47,11 +47,13 @@ All other consonant are like in English except:
 Words are made up of one or more roots and an ending.
 The ending indicates a part of speech.
 
-- Nouns end in **-e** or in a consonant
+- Nouns end in **-e** or **-ia**
 - Adjectives end in **-i**
 - Adverbs end in **-o**
 - Active verbs end in **-a**
-- Passive verbs end in **u**
+- Passive verbs end in **-u**
+
+The ending can be omitted, and often is for common nouns and adjectives.
 
 ### Nouns
 
