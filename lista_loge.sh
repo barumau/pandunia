@@ -1,6 +1,6 @@
 fata_liste_x_pandunia() {
     #pandunia unordi
-    cat pandunia-lekse.csv | awk -F "|" "{print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+    cat pandunia-loge.csv | awk -F "|" "{print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unordi linye
     sed -i '1d' $2/pandunia-$2.md
     # alfebete
@@ -14,7 +14,7 @@ fata_liste_x_pandunia() {
 
 fata_liste_pandunia_x() {
     #ali bax unordi
-    cat pandunia-lekse.csv | awk -F "|" "{print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
+    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
     #morta unordi linye
     sed -i '1d' $2/$2-pandunia.md
     # alfobeta
@@ -27,8 +27,8 @@ fata_liste_pandunia_x() {
 }
 
 fata_leksasli_liste() {
-#    cat pandunia-lekse.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-lekse.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
+#    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
     #morta unordi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
@@ -51,7 +51,7 @@ fata_liste() {
 }
 
 fata_lekse_asle() {
-    cat pandunia-lekse.tsv | cut -f 1,4 > temp/lekse.txt
+    cat pandunia-loge.tsv | cut -f 1,4 > temp/lekse.txt
     sed -i '1d' temp/lekse.txt
     sed -i 's/\t/ ← /g' temp/lekse.txt
     awk ' { FS=" ← "; OFS=" ← "; t = $1; $1 = $2; $2 = t; print; } ' temp/lekse.txt > temp/temp.txt
@@ -226,7 +226,7 @@ tarja_leksaslia_pa_esperanti() {
 }
 
 
-#dos2unix pandunia-lekse.csv
+#dos2unix pandunia-loge.csv
 
 # engli e pandunia
 fata_liste 5 engli

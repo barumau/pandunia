@@ -1,4 +1,4 @@
-The pandunia-lekse.csv in not valid by RFC 4180.
+The pandunia-loge.csv in not valid by RFC 4180.
 
 The following are the differences:
 
