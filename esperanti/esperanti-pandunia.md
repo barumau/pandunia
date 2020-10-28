@@ -962,7 +962,7 @@ memori - mema
 memoro - meme  
 merdo - shite  
 merkato (bazaro) - bazare  
-Merkuro - budan  
+Merkuro - Merkur  
 merredo - var 3 (var tini)  
 mesaĝo - anjile  
 metalo - metale  
@@ -1042,6 +1042,7 @@ negoco - biznese
 neono - neon  
 Nepalo - Nepal  
 neptunio - netunium  
+Neptuno - Neptune  
 Neptuno - netune  
 nerva - neuri  
 nervo - neure  

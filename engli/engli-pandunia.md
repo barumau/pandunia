@@ -156,6 +156,7 @@ argon - argon
 argue (claim) - tesa  
 argument (rationale, grounds) - argume  
 argument (thesis) - tese  
+Ariel - Ariel  
 arithmetics - hisabia  
 arm - handoshake  
 Armenia - Hayakia  
@@ -481,6 +482,7 @@ californium - kalifornem
 caliph - halife  
 caliphate - halifia  
 call (name) - namisa  
+Callisto - Kalisto  
 calm (peaceful, quiet) - shanti  
 Cambodia - Kambujia  
 camel - gamele  
@@ -862,6 +864,7 @@ defend - defa
 defender - defer  
 defense (defence) - defe  
 degree Celsius - celsius darje  
+Deimos - Deimos  
 delicious (yummy) - yami  
 democracy - demkratia  
 democrati - demkratiste  
@@ -893,6 +896,7 @@ difficult (hard, tough) - kunani
 dig (excavate) - kava  
 dining room - yamkamare  
 dinner - shamyame  
+Dione - Dione  
 diorite - diorite  
 direction - dishe  
 directly - disho  
@@ -976,7 +980,7 @@ ear - ore
 earlier (before) - cheno  
 earn (gain) - ganya  
 earth (ground) - zeme  
-Earth (Terra) - zemia  
+Earth (Terra) - Zemia  
 earthquake - zemsisme  
 ease - izia  
 east (orient) - donge  
@@ -1014,6 +1018,7 @@ emperor - imperer
 empire - imperia  
 empty (void) - kali  
 emulate (simulate, mimic, model) - samsifa  
+Enceladus - Enceladus  
 encode (encrypt) - koda  
 end - fine  
 endonym - indoname  
@@ -1052,6 +1057,7 @@ ethnic group - zuke
 etymology - logaslia  
 Eurasia - eurasia  
 euro (€) - europese  
+Europa - Europa  
 Europe - europe  
 European - europi  
 European Union (EU) - europi unisia  
@@ -1252,6 +1258,7 @@ gallium - galem
 Gambia - Gambia  
 game - geme  
 Ganges - ganga  
+Ganymede - Ganimede  
 garam masala - garmi masale  
 garbage (rubbish, trash) - laje  
 garlic - lasune  
@@ -1514,8 +1521,10 @@ hush (shh) - shusho
 hybrid (mongrel) - hibride  
 hydrogen - hidre  
 hygiene (cleanliness) - hijenia  
+Hyperion - Hiperion  
 I (me) - me  
 ##i
+Iapetus - Yapetus  
 ice - aise  
 ice cream - aiskrem  
 ice hockey - aishoke  
@@ -1577,6 +1586,7 @@ interpreter (translator) - tarjer
 interracial - rasmedi  
 interrogative - eski  
 invite - pliza laya  
+Io - Io  
 iodine - iode  
 ion - ione  
 Iran - Iran  
@@ -1633,7 +1643,7 @@ juice - juse
 July - setomese  
 jump - jampa  
 June - sismese  
-Jupiter - mushing  
+Jupiter - Jupiter  
 just (exactly, precisely) - justo  
 just (fair) - adali  
 just (recently) - novo  
@@ -1904,7 +1914,7 @@ market liberalism - bazarhuristia
 marriage (matrimony) - gamia  
 married - gami  
 marry - gama  
-Mars - marse  
+Mars - Marse  
 marsh (bog, swamp, morass) - potistan  
 Marshall Islands - Marshal nesia  
 martial art - jengoshute  
@@ -1964,7 +1974,7 @@ meningitis - meningitis
 meninx (meninges) - meninge  
 mental (psychic) - ruhi  
 mercury (quicksilver) - hurargente  
-Mercury - budan  
+Mercury - Merkur  
 merge (fuse) - livunisu  
 message - anjile  
 messenger - anjiler  
@@ -1990,6 +2000,7 @@ milli- - milo-
 milligram - milgram  
 millimeter - milmetre  
 million - megi  
+Mimas - Mimas  
 mine (extract) - kuanga  
 mine - kuangeria  
 miner - kuanger  
@@ -2005,6 +2016,7 @@ minor (not major) - minori
 minority - minoria  
 mint - minte  
 minute - minute  
+Miranda - Miranda  
 mirror - mirer  
 misfortune (bad luck) - mal zare  
 mission (transmission, emission) - misia  
@@ -2122,6 +2134,7 @@ neodymium - neodimem
 neon - neon  
 Nepal - Nepal  
 nephritis - nefritis  
+Neptune - Neptune  
 Neptune - netune  
 neptunem - netunium  
 nerve - neure  
@@ -2200,6 +2213,7 @@ nylon - nilone
 ##o
 oak tree - balute  
 oasis - vase  
+Oberon - Oberon  
 object (item) - vute  
 oblique (askew, tilted) - terchi  
 obsidian - osidiane  
@@ -2393,6 +2407,7 @@ Philippines - Filipinia
 philosopher - filsofer  
 philosophic - filsofi  
 philosophy - filsofia  
+Phobos - Fobos  
 phone (speech sound) - fone  
 phoneme - foneme  
 phonology - fonlojia  
@@ -2685,6 +2700,7 @@ return (restore, recover, resume) - fuga
 return (way back) - retre  
 return ticket - retrotikete  
 reverse (negative, un-) - ani  
+Rhea - Rea  
 rhenium - renem  
 rhinoceros - kornonose  
 rhodium - rodem  
@@ -2792,7 +2808,7 @@ Satanism (devil worship) - shatanistia
 Satanist - shataniste  
 satsuma mandari - venjovoranje  
 Saturday - var 6 (var sisi)  
-Saturn - saturne  
+Saturn - Saturne  
 sauce - sose  
 Saudi Arabia - Saudi Arabia  
 sauna - saune  
@@ -3221,6 +3237,7 @@ terrorism - teroristia
 terrorist - teroriste  
 tesla (T) - tesle  
 test (try, attempt) - teste  
+Tethys - Tetis  
 Thai - tayi  
 Thailand - tayia  
 thallium - talem  
@@ -3276,7 +3293,9 @@ Timor - Timor
 tin - estane  
 tiny (mini-) - mini  
 tire (wear) - fatigu  
+Titan - Titan  
 titanem - titane  
+Titania - Titania  
 title (headline) - temnam  
 to (toward, till, until, for) - pa  
 to be centered (amid, in the middle) - jungu  
@@ -3337,6 +3356,7 @@ trick (cheat, deceive) - truka
 trick (ruse, fraud) - truke  
 trident - tinzonge  
 Trinidad and Tobago - Trinidade e Tobago  
+Triton - Triton  
 tropical - garmozoni  
 tropics - garmozone  
 trouble (disturbance, bother) - mafane  
@@ -3374,6 +3394,7 @@ ugly - malrupi
 Ukraine - Ukraina  
 umbrella - barshochate  
 umbrella thorn acacia tree - helisbabule  
+Umbriel - Umbriel  
 unambiguous - unmeni  
 unbeliever (infidel) - andiniste  
 uncover (reveal) - andaka  
@@ -3401,7 +3422,7 @@ upgrade (level up) - darjobona
 upload - netodona  
 upper - supri  
 uranium - uranem  
-Uranus - urane  
+Uranus - Urane  
 urban - nagri  
 Urdu - urdi  
 Uruguay - Uruguay  
@@ -3434,7 +3455,7 @@ vegetable - vejete
 vegetarian - vejetyamiste  
 veil (cover, screen) - hijabe  
 Venezuela - Venezuela  
-Venus - venus  
+Venus - Venus  
 veranda (balcony, terrace, porch) - berande  
 verb - karloge  
 verbal irony (sarcasm) - logironia  

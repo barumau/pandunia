@@ -477,6 +477,7 @@ jaïnisme - jeinistia
 je (me) - me  
 jeudi - var 4 (var chari)  
 joule (J) - jule  
+Jupiter - Jupiter  
 jus - juse  
 jusque (jusqu’à) - ata  
 juste - adali  
@@ -525,6 +526,7 @@ lourd - bari
 loutre - lontre  
 lumière - fote  
 lundi - var 1 (var uni)  
+lune - lune  
 luthéranisme - lutheristia  
 luthérien - lutheristi  
 lynx - lince  
@@ -551,6 +553,7 @@ margay (chat-tigre) - maragaye
 marguerite - bakomargarite  
 mariage - gamia  
 Maroc - Magribe  
+Mars - Marse  
 masque - maske  
 match - meche  
 maximum - mayime  
@@ -563,6 +566,7 @@ menthe poivrée - piprominte
 menthe verte - zongominte  
 mer - haye  
 mercredi - var 3 (var tini)  
+Mercure - Merkur  
 merde - shite  
 message - anjile  
 mettre (placer) - loka  
@@ -602,6 +606,7 @@ nation - nasia
 nausée - retroguli sense  
 nautile - nautile  
 neige - hime  
+Neptune - Neptune  
 neuf (9) - navi  
 neurone - neursele  
 niche - nishe  
@@ -814,7 +819,7 @@ sang - sange
 santé - sihe  
 Sapin - abite  
 Satan - shatan (shatane)  
-Saturne - saturne  
+Saturne - Saturne  
 sauce - sose  
 saucisse - sosise  
 saumon altentique - atlantosamone  
@@ -884,6 +889,7 @@ tender - vaytira
 tentacule - senter  
 tente - haime  
 terrain - zemforme  
+Terre - Zemia  
 terre cuite - bekopote  
 terreplatiste - platozemiste  
 terrorisme - teroristia  
@@ -925,6 +931,7 @@ une fois - unmaro
 unique - uniki  
 uniquement - uniko  
 uranium - uranem  
+Uranus - Urane  
 ##v
 vagine - vagine  
 vaginite - vaginitis  
@@ -969,6 +976,7 @@ voyelle - jungofone
 vrai - veri  
 vulve - vulve  
 végétarien - vejetyamiste  
+Vénus - Venus  
 vœu (promesse) - vode  
 ##w
 wolof - volofi  

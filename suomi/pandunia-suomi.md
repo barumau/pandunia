@@ -327,7 +327,6 @@ broshe - harja
 Bruney - Brunei  
 bruni - ruskea  
 buda - ymmärtää (oivaltaa)  
-budan - Merkurius  
 bude - Buddha  
 bude - ymmärrys (taju, oivallus)  
 budi - valaistunut  
@@ -1140,6 +1139,7 @@ jungofone - vokaali
 Jungogia - Kiina  
 jungu - keskittyä (olla keskellä)  
 jupe - hame  
+Jupiter - Jupiter  
 juse - mehu  
 jusha - ruiskuttaa  
 jushe - ruiske (injektio)  
@@ -1619,7 +1619,7 @@ mare - kerta (vuoro)
 margarine - margariini  
 marka - merkitä (jättää jälki)  
 marke - merkki (jälki)  
-marse - Mars  
+Marse - Mars  
 Marshal nesia - Marshall-saaret  
 masaja - vaivata (hieroa)  
 masaje - hieronta  
@@ -1686,6 +1686,7 @@ meninge - aivokalvo
 meningitis - aivokalvontulehdus  
 mente - neuvo  
 menter - neuvontantaja (mentori)  
+Merkur - Merkurius  
 mese - kuukausi  
 mesta - taitaa (olla mestari jskn)  
 mester - mestari (asiantuntija)  
@@ -1800,7 +1801,6 @@ Muritania - Mauritania
 musa - pakottaa  
 muse - pakko  
 mushe - hiiri  
-mushing - Jupiter  
 musika - soittaa (musisoida)  
 musike - musiikki  
 musiker - muusikko  
@@ -1854,6 +1854,7 @@ nenufare - lumme
 neodimem - neodyymi  
 neon - neon  
 Nepal - Nepal  
+Neptune - Neptunus  
 nese - saari  
 nesia - saaristo  
 nete - verkko  
@@ -2375,6 +2376,7 @@ sapateria - suutarin paja
 sare - pää  
 saroste - pääkallo  
 sate - hetki (kotva)  
+Saturne - Saturnus  
 saudare - sisarus (veli tai sisko)  
 Saudi Arabia - Saudi Arabia  
 saune - sauna  
@@ -2743,7 +2745,7 @@ unmese - tammikuu
 unrangi - yksivärinen  
 Unuti Arabi Emiria - Yhdistyneet Arabiemiirikunnat  
 ura - hurraa (hurrata)  
-urane - Uranus  
+Urane - Uranus  
 uranem - uraani  
 urdi - urdu  
 Urdun - Jordania  
@@ -2912,7 +2914,6 @@ zemdove - maapähkinä
 zeme - maa (maaperä)  
 zemgrafe - kartta  
 zemgrafia - kartogratia  
-zemia - Maapallo  
 zemlaskeria - maavoimat  
 zemmetria - geometria  
 zemomedi haye - Välimeri  

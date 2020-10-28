@@ -1731,7 +1731,7 @@ julio - setomese
 junio - sismese  
 juntos - kono  
 juntura - samune  
-Jupiter - mushing  
+Jupiter - Jupiter  
 justicia - adalia  
 justo (exactamente) - justo  
 justo - adali  
@@ -1964,7 +1964,7 @@ mariposa - pelpele
 marmól - kalcokristale  
 Marruecos - Magribe  
 marrón - bruni  
-Marte - marse  
+Marte - Marse  
 martes - var 2 (var duli)  
 martillo (mazo) - hamare  
 marzo - tinmese  
@@ -2024,8 +2024,8 @@ menta - minte
 menta acuática - suyminte  
 mental (psíquico) - ruhi  
 mercado (bazar) - bazare  
-Mercurio - budan  
 mercurio - hurargente  
+Mercurio - Merkur  
 mesa - meze  
 meseta - mezistan  
 mesiánico - kristi  
@@ -2191,6 +2191,7 @@ nenúfar (lirio de agua) - nenufare
 neodimio - neodimem  
 Nepal - Nepal  
 neptunio - netunium  
+Neptuno - Neptune  
 Neptuno - netune  
 nervio - neure  
 neural - neuri  
@@ -2903,7 +2904,7 @@ sartén - tave
 satanismo - shatanistia  
 satanista - shataniste  
 Satanás - shatan (shatane)  
-Saturno - saturne  
+Saturno - Saturne  
 satánico - shatani  
 sauna - saune  
 se (mismo) - ze  
@@ -3149,7 +3150,7 @@ tiburón - sharke
 tiempo (periodo) - zamane  
 tierra (barro) - darte  
 tierra - zeme  
-Tierra - zemia  
+Tierra - Zemia  
 tigre - bagre  
 tijera - makase  
 tikka masala - masali tike  
@@ -3265,7 +3266,7 @@ Unión Europea - europi unisia
 uno (1) - un (uni)  
 unshu mikan - venjovoranje  
 uranio - uranem  
-Urano - urane  
+Urano - Urane  
 urbano - nagri  
 urdu - urdi  
 Uruguay - Uruguay  
@@ -3312,7 +3313,7 @@ Venezuela - Venezuela
 venir - laya  
 ventana - janele  
 ventilador - panke  
-Venus - venus  
+Venus - Venus  
 ver (mirar) - vida  
 verano - lete  
 verbo - karloge  

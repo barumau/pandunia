@@ -376,6 +376,7 @@ jumle - фраза
 junge - центр  
 jungofone - гласный  
 Jungogia - Китай  
+Jupiter - Юпитер  
 juse - сок  
 justi - точный  
 justopaver - снайпер  
@@ -524,6 +525,7 @@ loke - место
 longopipre - перец длинный  
 lontre - выдра  
 lugi - зелёный  
+lune - луна  
 luter - грабитель  
 lutheristi - лютеранский  
 lutheristia - лютера́нство  
@@ -548,6 +550,7 @@ maragaye - маргай
 marche - марш  
 mare - раз  
 margarite - маргаритка  
+Marse - Марс  
 masale - пряность  
 maske - маска  
 masmule - клубень  
@@ -567,6 +570,7 @@ melvesponizde - улей (соты)
 mema - помнить  
 meme - память  
 memnote - меморандум  
+Merkur - Меркурий  
 mese - месяц  
 mester - мастер  
 metalbede - наковальня  
@@ -609,6 +613,7 @@ nautile - наутилид
 navi - девять (9)  
 nefre - почка  
 nefte - масло  
+Neptune - Нептун  
 neursele - нейрон  
 nida - нуждаться  
 nide - нужда  
@@ -755,6 +760,7 @@ sange - кровь
 sapate - حِذَاء  
 sape - мотыга  
 sare - голова  
+Saturne - Сатурн  
 selge - мангольд  
 selolojia - цитология  
 seme - семя  
@@ -880,6 +886,7 @@ un (uni) - один (1)
 uniko - единственно  
 unmaro - один раз  
 ura - ура  
+Urane - Уран  
 ##v
 vadosusane - ландыш  
 vagine - влагалище (вагина)  
@@ -903,6 +910,7 @@ vejetyamiste - вегетарианец
 venda - продать  
 vendoshopa - обмениваться  
 venjovoranje - мандарин уншиу  
+Venus - Венера  
 veri - верный  
 vermute - вермут  
 vestogorile - западная горилла  
@@ -940,6 +948,7 @@ zardushiste - зороастризм
 zebre - зебра  
 zemgrafe - карта  
 zemgrafia - картография  
+Zemia - Земля  
 zemmetria - геометрия  
 zemnichi prizone - ублиет (подземная тюрьма)  
 zeyile - бородавка  

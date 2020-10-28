@@ -238,7 +238,6 @@ bromem - bromo
 broshe - broso  
 bruni - bruna  
 buda - kompreni  
-budan - Merkuro  
 bude - kompreno  
 budi - konscia  
 budiste - budhisto  
@@ -1058,6 +1057,7 @@ mema - memori
 member - membro  
 meme - memoro  
 mene - signifo  
+Merkur - Merkuro  
 mese - monato  
 meta - mezuri  
 metale - metalo  
@@ -1150,6 +1150,7 @@ nen (nene) - jaro
 nenmesdene - dato  
 neon - neono  
 Nepal - Nepalo  
+Neptune - Neptuno  
 nete - reto  
 netune - Neptuno  
 netunium - neptunio  

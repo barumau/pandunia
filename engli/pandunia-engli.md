@@ -151,6 +151,7 @@ Argentina - Argentina
 argon - argon  
 argume - argument (rationale, grounds)  
 aria - area (region)  
+Ariel - Ariel  
 arke - bow (arch, arc)  
 arker - archer  
 arkia - archery  
@@ -408,7 +409,6 @@ Bruney - Brunei Darussalam
 bruni - brown  
 brunsamone - brown trout  
 buda - realize  
-budan - Mercury  
 bude - Buddha  
 bude - realization (awareness, enlightenment, bodhi)  
 budi - aware (enlightened)  
@@ -600,6 +600,7 @@ defta - register (record, log)
 defte - register (record, log)  
 deftia - registry (account)  
 deftobuke - logbook  
+Deimos - Deimos  
 deme - people (population)  
 demgrafia - demography  
 demi - public  
@@ -635,6 +636,7 @@ dinge - nail (spike)
 dingure - priest (cleric)  
 dini - religious  
 diniste - believer (religious person)  
+Dione - Dione  
 diorite - diorite  
 dishe - direction  
 disho - directly  
@@ -739,6 +741,7 @@ emosa - feel
 emose - emotion (feeling)  
 emoshale - mood (emotional state)  
 emosi - emotional (emotive)  
+Enceladus - Enceladus  
 energe - energy  
 engli - English  
 Englia - England  
@@ -788,6 +791,7 @@ estudia - studio
 Etiopia - Ethiopia  
 eurasia - Eurasia  
 eureka - find (discover)  
+Europa - Europa  
 europe - Europe  
 europem - europium  
 europese - euro (€)  
@@ -893,6 +897,7 @@ flecher - fletcher
 flerovem - flerovium  
 flure - fluorine  
 fobia - fear (phobia)  
+Fobos - Phobos  
 fokusa - concentrate  
 fokuse - focus (concentration)  
 foli - mad (insane, crazy)  
@@ -983,6 +988,7 @@ gandume - wheat
 ganga - Ganges  
 gangrase - hay  
 gani - dry  
+Ganimede - Ganymede  
 ganje - cannabis (marijuana, ganja, pot, weed)  
 ganputave - raisin  
 ganya - earn (gain)  
@@ -1190,6 +1196,7 @@ himu - snow (be snowing)
 hindem - indium  
 hindiste - Hindu  
 hindistia - Hinduism  
+Hiperion - Hyperion  
 hisaba - calculate  
 hisabia - arithmetics  
 histore - history (annals)  
@@ -1280,6 +1287,7 @@ insulte - insult (offense)
 interese - interest  
 interesi - interesting  
 internete - internet  
+Io - Io  
 iode - iodine  
 ione - ion  
 ioni radi - radioactive  
@@ -1391,6 +1399,7 @@ jungofone - vowel
 Jungogia - China  
 jungu - to be centered (amid, in the middle)  
 jupe - skirt  
+Jupiter - Jupiter  
 juse - juice  
 jusha - inject  
 jushe - injection  
@@ -1434,6 +1443,7 @@ kalende - calendar
 kali - empty (void)  
 kali harfe - space (character)  
 kalifornem - californium  
+Kalisto - Callisto  
 kalkulia - calculus (manipulation of symbolic expressions)  
 kamare - room (chamber)  
 kamargave - ceiling  
@@ -1997,7 +2007,7 @@ margarite - daisy
 Marian nesia - Northern Mariana Islands  
 marka - mark (leave a mark)  
 marke - mark (trace)  
-marse - Mars  
+Marse - Mars  
 Marshal nesia - Marshall Islands  
 masaja - knead (massage)  
 masaje - massage  
@@ -2081,6 +2091,7 @@ meningitis - meningitis
 mente - advice (counsel)  
 menter - advisor (counselor, mentor)  
 merante - lauan tree (meranti, balau)  
+Merkur - Mercury  
 mese - month  
 mesta - master (be an expert at sth)  
 mester - master (expert)  
@@ -2110,6 +2121,7 @@ milke - milk
 milkokardone - milk thistle  
 milmetre - millimeter  
 milo- - milli-  
+Mimas - Mimas  
 min (mino) - less  
 min ko bas - too little  
 mina - except (minus)  
@@ -2128,6 +2140,7 @@ minoria - minority
 minte - mint  
 minute - minute  
 mira - reflect  
+Miranda - Miranda  
 mirdi - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
 mirdu - fade  
 mirer - mirror  
@@ -2212,7 +2225,6 @@ Muritania - Mauritania
 musa - coerce (force, compel)  
 muse - coercion  
 mushe - mouse  
-mushing - Jupiter  
 musika - play music  
 musike - music  
 musiker - musician  
@@ -2276,6 +2288,7 @@ nenufare - water lily (nenuphar)
 neodimem - neodymium  
 neon - neon  
 Nepal - Nepal  
+Neptune - Neptune  
 nese - island  
 nesia - archipelago  
 nete - net (web, mesh)  
@@ -2371,6 +2384,7 @@ nudistia - nudism
 nuton - newton (N)  
 o - or  
 ##o
+Oberon - Oberon  
 odisi - Odia (Oriya)  
 ofise - office (position)  
 ofiser - officer  
@@ -2725,6 +2739,7 @@ raye - opinion (view)
 razone - reason (rational thinking)  
 razoni - rational (reasonable)  
 razonu - make sense  
+Rea - Rhea  
 rebele - rebellion  
 recete - instructions (recipe)  
 reda - prepare (make ready)  
@@ -2903,7 +2918,7 @@ sape - hoe
 sare - head  
 saroste - skull  
 sate - moment (while, short time)  
-saturne - Saturn  
+Saturne - Saturn  
 saudare - sibling (brother or sister)  
 Saudi Arabia - Saudi Arabia  
 saune - sauna  
@@ -3270,6 +3285,7 @@ tese - argument (thesis)
 tesle - tesla (T)  
 testa - try (attempt)  
 teste - test (try, attempt)  
+Tetis - Tethys  
 tezi - intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)  
 tezu - intensify  
 ti - your  
@@ -3294,7 +3310,9 @@ tirania - tyranny
 tirbatone - lever  
 tirlive - rip current  
 tirsanduke - drawer  
+Titan - Titan  
 titane - titanem  
+Titania - Titania  
 tocha - touch  
 Togo - Togo  
 togoli - Togolese  
@@ -3325,6 +3343,7 @@ trendav - rail (railway, railroad)
 trenkaper - train hijacker  
 tribe - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
+Triton - Triton  
 truka - trick (cheat, deceive)  
 truke - trick (ruse, fraud)  
 tuale - toilet (WC)  
@@ -3349,6 +3368,7 @@ Ukraina - Ukraine
 ulula - howl  
 ulule - howling  
 umami - savory (umami)  
+Umbriel - Umbriel  
 umure - age  
 un (uni) - one (1)  
 unale - each other (one another, mutually)  
@@ -3366,7 +3386,7 @@ unmete - unit (measurement)
 unrangi - monochrome  
 Unuti Arabi Emiria - United Arab Emirates  
 ura - cheer (hurrah, hooray)  
-urane - Uranus  
+Urane - Uranus  
 uranem - uranium  
 urdi - Urdu  
 Urdun - Jordan  
@@ -3443,7 +3463,7 @@ vene - ring
 Venezuela - Venezuela  
 venjou - Wenzhou  
 venjovoranje - satsuma mandari  
-venus - Venus  
+Venus - Venus  
 vera - verify (authenticate)  
 veri - true (real, genuine, very, indeed)  
 verme - worm  
@@ -3526,6 +3546,7 @@ yamkamare - dining room
 yamnide - hunger  
 yamshukargrase - duruka  
 yange - kind (style, sort, type)  
+Yapetus - Iapetus  
 yasene - ash tree  
 yatimdome - orphanage  
 yatime - orphan  
@@ -3579,7 +3600,7 @@ zeme - earth (ground)
 zemforme - terrain  
 zemgrafe - map (chart)  
 zemgrafia - cartography (geography)  
-zemia - Earth (Terra)  
+Zemia - Earth (Terra)  
 zemkaski krake - fault line  
 zemkaski plate - tectonic plate  
 zemlaskeria - ground force (army)  

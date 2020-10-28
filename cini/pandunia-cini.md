@@ -348,6 +348,7 @@ jule - 焦耳 (J)
 jumle - 句子  
 junge - 中心  
 Jungogia - 中国  
+Jupiter - 木星  
 juse - 汁  
 ##k
 kaboge - 南瓜  
@@ -706,7 +707,7 @@ sange - 血
 sapate - 鞋  
 sape - 锄  
 sare - 头  
-saturne - 土星  
+Saturne - 土星  
 selolojia - 细胞学  
 semane - 週  
 semdane - 种子  

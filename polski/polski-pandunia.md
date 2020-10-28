@@ -973,9 +973,9 @@ jogin (joginka) - yogiste
 jon - ione  
 Jordan - Urdun  
 Joruba - yorubi  
+Jowisz - Jupiter  
 judaizm - yehudistia  
 judo - judav  
-Jupiter - mushing  
 jutro - badoden  
 już (skończona czynność) - levo  
 język - lisane  
@@ -1406,7 +1406,7 @@ margaryna - margarine
 Mariany Północne - Marian nesia  
 marmur - kalcokristale  
 Maroko - Magribe  
-Mars - marse  
+Mars - Marse  
 martwić - duku  
 martwy, nieżywy, zabity - morti  
 marynarka (flota) - haygune  
@@ -1454,7 +1454,7 @@ melodia - melodia
 melodyczny - melodi  
 melon koreański - aromomelone  
 melon miodowy - lugomelone  
-Merkury - budan  
+Merkury - Merkur  
 mesjański - kristi  
 metal - metale  
 metal ciężki - barmetale  
@@ -1658,6 +1658,7 @@ negocjować - lona biznese
 neodym - neodimem  
 neon - neon  
 Nepal - Nepal  
+Neptun - Neptune  
 Neptun - netune  
 neptun - netunium  
 nerka (łosoś czerwony) - lalsamone  
@@ -2556,7 +2557,7 @@ San Marino - Santi Marino
 sarkazm - logironia  
 satanista - shataniste  
 satanizm - shatanistia  
-Saturn - saturne  
+Saturn - Saturne  
 sauna - saune  
 sawanna - savane  
 sałata - letise  
@@ -3033,7 +3034,7 @@ uprawić, uprawiać - nonga
 uprzejmy - kechi  
 uprzejmy, miły - jentili  
 upuścić, upuszczać - pada  
-Uran - urane  
+Uran - Urane  
 uran - uranem  
 urdu - urdi  
 uroczy, słodki - kavayi  
@@ -3104,7 +3105,7 @@ wegetarianin - vejetyamiste
 wejście - jinmun  
 welon (woalka) - hijabe  
 Wenezuela - Venezuela  
-Wenus - venus  
+Wenus - Venus  
 Wenzhou - venjou  
 weranda, balkon, taras, ganek - berande  
 wermut - vermute  
@@ -3426,7 +3427,6 @@ ziarno (nasienie) - seme
 ziarno, nasienie - semdane  
 zielenina - coy  
 zielony - lugi  
-Ziemia - zemia  
 ziemia, grunt, gleba - zeme  
 ziemniak - patate  
 ziemny (glebowy, gruntowy) - darti  

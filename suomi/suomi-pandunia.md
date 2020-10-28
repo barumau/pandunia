@@ -718,7 +718,7 @@ juna - tren (trene)
 junakaappari - trenkaper  
 junarata (rautatie) - trendav  
 juoni (salaliitto) - sirplane  
-Jupiter - mushing  
+Jupiter - Jupiter  
 jutella (höpistä) - blabla  
 juuri (just, täsmälleen) - justo  
 juuri - mule  
@@ -1323,7 +1323,6 @@ maaliskuu - tinmese
 maanantai - var 1 (var uni)  
 maanjäristys - zemsisme  
 maanviljelijä - nonger  
-Maapallo - zemia  
 maapähkinä - zemdove  
 maaseutu - rustia  
 maata (makoilla) - kushu  
@@ -1377,7 +1376,7 @@ markkinaliberalismi - bazarhuristia
 marmori - kalcokristale  
 Marokko - Magribe  
 marraskuu - desunmese  
-Mars - marse  
+Mars - Marse  
 Marshall-saaret - Marshal nesia  
 massa - mase  
 masto (salko) - maste  
@@ -1420,7 +1419,7 @@ merkitä (jättää jälki) - marka
 merkitä (tarkoittaa) - mena  
 merkki (jälki) - marke  
 merkki (signaali) - sinye  
-Merkurius - budan  
+Merkurius - Merkur  
 messiaaninen - kristi  
 mestari (asiantuntija) - mester  
 mestari (voittaja) - champion (champione)  
@@ -1569,6 +1568,7 @@ neodyymi - neodimem
 neon - neon  
 Nepal - Nepal  
 neptunium - netunium  
+Neptunus - Neptune  
 Neptunus - netune  
 neste - livmate  
 nestemäinen - livmati  
@@ -2164,6 +2164,7 @@ sateenvarjo - barshochate
 sattua (käydä kipeää) - pashu  
 sattuma (onni) - zare  
 sattumanvarainen - zari  
+Saturnus - Saturne  
 satuttaa - pasha  
 Saudi Arabia - Saudi Arabia  
 sauma (ommel) - suture  
@@ -2645,7 +2646,7 @@ unohtaa - anmema
 upea (hieno) - kuli  
 upea (mahtava) - super (superi)  
 uraani - uranem  
-Uranus - urane  
+Uranus - Urane  
 urbaani (kaupunkilais-) - nagri  
 urdu - urdi  
 urhea (sankarillinen) - viri  

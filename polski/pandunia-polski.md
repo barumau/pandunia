@@ -403,7 +403,6 @@ Bruney - Brunei Darussalam
 bruni - brązowy, koloru kawy  
 brunsamone - pstrąg potokowy  
 buda - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
-budan - Merkury  
 bude - Budda  
 bude - uświadomienie, świadomość; oświecenie, bodhi  
 budi - świadomy; oświecony  
@@ -1367,6 +1366,7 @@ jungofone - samogłoska
 Jungogia - Chiny  
 jungu - być wycentrowanym, być w środku  
 jupe - spódnica  
+Jupiter - Jowisz  
 juse - sok  
 jusha - wstrzyknąć, wstrzykiwać  
 jushe - zastrzyk  
@@ -1967,7 +1967,7 @@ margarite - stokrotka
 Marian nesia - Mariany Północne  
 marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
-marse - Mars  
+Marse - Mars  
 Marshal nesia - Wyspy Marshalla  
 masaja - knead (massage)  
 masaje - masaż  
@@ -2051,6 +2051,7 @@ meningitis - zapalenie opon mózgowych
 mente - rada, porada  
 menter - doradca (mentor)  
 merante - damarzyk (meranti)  
+Merkur - Merkury  
 mese - miesiąc  
 mesta - być mistrzem (być ekspertem)  
 mester - mistrz (ekspert)  
@@ -2183,7 +2184,6 @@ Muritania - Mauretania
 musa - zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
 muse - przymus  
 mushe - mysz  
-mushing - Jupiter  
 musika - grać muzykę  
 musike - muzyka  
 musiker - muzyk  
@@ -2242,6 +2242,7 @@ nenufare - lilia wodna, nenufar
 neodimem - neodym  
 neon - neon  
 Nepal - Nepal  
+Neptune - Neptun  
 nese - wyspa  
 nesia - archipelag  
 nete - sieć  
@@ -2861,7 +2862,7 @@ sape - motyka
 sare - głowa  
 saroste - czaszka  
 sate - moment  
-saturne - Saturn  
+Saturne - Saturn  
 saudare - rodzeństwo, brat lub siostra  
 Saudi Arabia - Arabia Saudyjska  
 saune - sauna  
@@ -3323,7 +3324,7 @@ unmete - jednostka miary
 unrangi - jednokolorowy (monochromatyczny)  
 Unuti Arabi Emiria - Zjednoczone Emiraty Arabskie  
 ura - wiwatować; hura  
-urane - Uran  
+Urane - Uran  
 uranem - uran  
 urdi - urdu  
 Urdun - Jordan  
@@ -3397,7 +3398,7 @@ vene - pierścień
 Venezuela - Wenezuela  
 venjou - Wenzhou  
 venjovoranje - mandarynka Satsuma (pomarańcza Satsuma)  
-venus - Wenus  
+Venus - Wenus  
 veri - prawdziwy (rzeczywisty, szczery)  
 verme - robak  
 vermute - wermut  
@@ -3531,7 +3532,6 @@ zeme - ziemia, grunt, gleba
 zemforme - teren  
 zemgrafe - mapa  
 zemgrafia - kartografia  
-zemia - Ziemia  
 zemkaski krake - uskok  
 zemkaski plate - płyta tektoniczna  
 zemlaskeria - wosko lądowe (armia)  

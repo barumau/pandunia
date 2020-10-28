@@ -423,6 +423,7 @@ jule - joule (J)
 junge - centre  
 jungofone - voyelle  
 Jungogia - Chine  
+Jupiter - Jupiter  
 juse - jus  
 justi - exact (précis)  
 ##k
@@ -576,6 +577,7 @@ longokrokodile - crocodile
 longopipre - poivre long  
 lontre - loutre  
 lugi - vert  
+lune - lune  
 luter - brigand (bandit)  
 lutheristi - luthérien  
 lutheristia - luthéranisme  
@@ -597,6 +599,7 @@ mantole - cape
 maragaye - margay (chat-tigre)  
 marche - marche  
 mare - fois  
+Marse - Mars  
 masale - épices  
 maske - masque  
 masmule - tubercule  
@@ -618,6 +621,7 @@ melvesponizde - rayon de miel
 mema - se rappeler (se remémorer)  
 meme - mémoire  
 meninge - méninge  
+Merkur - Mercure  
 mese - mois  
 mester - maître  
 metalbede - enclume  
@@ -659,6 +663,7 @@ nautile - nautile
 navi - neuf (9)  
 nefre - rein  
 nefte - huile (pétrole)  
+Neptune - Neptune  
 netogeta - télécharger  
 neursele - neurone  
 niche - dessous  
@@ -821,7 +826,7 @@ sanduiche - sandwich
 sange - sang  
 sape - houe  
 sare - tête  
-saturne - Saturne  
+Saturne - Saturne  
 savane - savane  
 sekuri - sûr  
 selge - blettes (bettes)  
@@ -940,6 +945,7 @@ uniki - unique
 uniko - uniquement  
 unmaro - une fois  
 ura - hourra  
+Urane - Uranus  
 uranem - uranium  
 urse - ours  
 ##v
@@ -968,6 +974,7 @@ venda - vendre
 vendoshopa - commercer  
 Venezuela - Venezuela  
 venjovoranje - mandarine satsuma  
+Venus - Vénus  
 veri - vrai  
 verme - ver  
 vermute - vermouth  
@@ -1003,6 +1010,7 @@ zebre - zèbre
 zemforme - terrain  
 zemgrafe - carte  
 zemgrafia - cartographie (geographie)  
+Zemia - Terre  
 zemkaski plate - plaque tectonique  
 zemlojia - géologie  
 zemmetria - géométrie  

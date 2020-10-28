@@ -384,7 +384,6 @@ Bruney - Brunei
 bruni - marrón  
 brunsamone - trucha marrón  
 buda - darse cuenta (notar)  
-budan - Mercurio  
 bude - Buda  
 bude - comprensión (entendimiento)  
 budi - concienciado (iluminado)  
@@ -1317,6 +1316,7 @@ jungofone - vocal
 Jungogia - China  
 jungu - centrarse (en el centro de)  
 jupe - falda  
+Jupiter - Jupiter  
 juse - jugo (zumo)  
 jusha - inyectar  
 jushe - inyección  
@@ -1887,7 +1887,7 @@ margarite - margarita
 Marian nesia - Islas Marianas  
 marka - marcar  
 marke - marca (huella, mancha)  
-marse - Marte  
+Marse - Marte  
 Marshal nesia - Islas Marshall  
 masaja - amasar (masajear)  
 masaje - masaje  
@@ -1963,6 +1963,7 @@ meninge - meninge
 meningitis - meningitis  
 mente - consejo  
 menter - consejero (asesor)  
+Merkur - Mercurio  
 mese - mez  
 mesta - dominar  
 mester - maestro (experto)  
@@ -2089,7 +2090,6 @@ Muritania - mauritania
 musa - coaccionar (forzar, obligar)  
 muse - coacción  
 mushe - ratón  
-mushing - Jupiter  
 musika - tocar música  
 musike - música  
 musiker - músico  
@@ -2151,6 +2151,7 @@ nenufare - nenúfar (lirio de agua)
 neodimem - neodimio  
 neon - neón  
 Nepal - Nepal  
+Neptune - Neptuno  
 nese - isla  
 nesia - archipiélago  
 nete - red  
@@ -2753,7 +2754,7 @@ sape - azada
 sare - cabeza  
 saroste - cráneo (calavera)  
 sate - momento (tiempo)  
-saturne - Saturno  
+Saturne - Saturno  
 saudare - hermano o hermana  
 Saudi Arabia - Arabia Saudita  
 saune - sauna  
@@ -3197,7 +3198,7 @@ unmete - unidad (medida)
 unrangi - monocromático  
 Unuti Arabi Emiria - Emiratos Árabes Unidos  
 ura - hurra  
-urane - Urano  
+Urane - Urano  
 uranem - uranio  
 urdi - urdu  
 Urdun - Jordania  
@@ -3270,7 +3271,7 @@ vendoshope - comercio
 vene - anillo  
 Venezuela - Venezuela  
 venjovoranje - unshu mikan  
-venus - Venus  
+Venus - Venus  
 vera - autenticar  
 veri - verdadero  
 verme - verme  
@@ -3398,7 +3399,7 @@ zeme - tierra
 zemforme - terreno  
 zemgrafe - mapa  
 zemgrafia - cartografía (geografía)  
-zemia - Tierra  
+Zemia - Tierra  
 zemkaski plate - placa tectónica  
 zemlaskeria - ejército  
 zemlojia - geología  
