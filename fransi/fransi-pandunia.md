@@ -7,8 +7,8 @@ acarien - akare
 accent - aksente  
 accord - samraye  
 accès - aksese  
-acheter - xopa  
-actinium - acinium  
+acheter - shopa  
+actinium - acinem  
 action - acion (acione)  
 adhésif (collant) - gluti  
 adjectif - sifloge  
@@ -36,7 +36,7 @@ alligator - kortokrokodile
 allophone - alfone  
 allô - halov  
 alphabet - harfia  
-aluminium - alumine  
+aluminium - aluminem  
 amande - badame  
 amer - kuvi  
 Amhara (groupe ethnique et langue éthiopienne) - amari  
@@ -57,6 +57,7 @@ animation - anime
 animer - anima  
 Antarctique - Antartike  
 antenne - antene  
+antimoine - estibem  
 anus - anuse  
 appartenir à - tenu  
 appliquer - aplika  
@@ -80,19 +81,19 @@ armée - gune
 armée de l'ai - airgune  
 arsenic - arsene  
 art - arte  
-artichaut - karcofe  
+artichaut - karchofe  
 artiste - artiste  
 asiatique - asi  
 Asie - asia  
 aspirine - aspirine  
 assez - basi  
 asthme - asme  
-atchoum - acue  
+atchoum - achu*  
 autel - altare  
 automne - otone  
 autre - ali  
 autrement - alo  
-avant - ceno  
+avant - cheno  
 aventure - aventure  
 aventurier - aventurer  
 avoir - tena  
@@ -119,7 +120,7 @@ banque - banke
 banquier - banker  
 barbe - barde  
 barrière - baryer  
-baryum - barium  
+baryum - barem  
 bas - tale  
 bas - tali  
 base - baze  
@@ -132,10 +133,10 @@ beau - sundari
 beauté - sundaria  
 besoin - nide  
 betterave - bete  
-betterave à sucre (betterave sucrière) - xukarbete  
+betterave à sucre (betterave sucrière) - shukarbete  
 bibliothèque - kitabia  
 bicyclette - sikle  
-bilingue - dulbaxi  
+bilingue - dulbashi  
 billet - tikete  
 biologie - bivlojia  
 biome - bivsisteme  
@@ -155,12 +156,12 @@ boulanger - beker
 bouleau - berje  
 bouteille - botele  
 bouton - botone  
-bras - handoxake  
+bras - handoshake  
 brave - bravi  
 bravo! - bravo  
 brigand (bandit) - luter  
 brique - dobe  
-brochette - xixe  
+brochette - shishe  
 brun (marron) - bruni  
 brûler - hoga  
 buisson - tali moke  
@@ -173,17 +174,17 @@ cactus - katuse
 cadre - freme  
 café - kafe  
 cage - kafase  
-caillou - lilxeke  
+caillou - lilsheke  
 calcaire - kalcopetre  
 calcite - kalcite  
 calculer - hisaba  
 calendrier - kalende  
 calmar (encornet, calamar) - kalamare  
-calme (tranquille) - xanti  
+calme (tranquille) - shanti  
 Camomille Romaine - romkamile  
 Camomille sauvage - kamile  
 canapé (sofa) - kanape  
-Canne à sucre - xukargrase  
+Canne à sucre - shukargrase  
 canon - daypave  
 canoë - kanove  
 Cantalupo in Sabina - kantalupe da sabine  
@@ -192,7 +193,7 @@ capacité (compétence) - able
 cape - mantole  
 carapace (coquille, coquillage, croûte) - kaske  
 Caraïbes - karaibia  
-cardon - kardonkarcofe  
+cardon - kardonkarchofe  
 carotte - karote  
 carreau (tuile) - taile  
 carte - karde  
@@ -202,11 +203,11 @@ Centaurée - sentaure
 Centaurée bleuet - nilsentaure  
 Centaurée du solstice - solsentaure  
 centre - junge  
-cerise - cerize  
-chachlik - xixmanse  
+cerise - cherize  
+chachlik - shishmanse  
 chambre à coucher - sonkamare  
 champignon - fungopale  
-chance - canse  
+chance - chanse  
 changement climatique - klimomute  
 changer - ala  
 chapitre - babe  
@@ -214,19 +215,19 @@ chardon - kardone
 chardon aux ânes - pinkardone  
 chardon Marie - milkokardone  
 chardon penché - pendokardone  
-charme - carme  
+charme - charme  
 chasser - saida  
-chat - mav (mave)  
+chat - maw  
 chaudron - dayvaze  
-chauve-souris - feymuxe  
+chauve-souris - feymushe  
 chaux - kalcomate  
-chef - xefe  
+chef - shefe  
 chemise - kamise  
 cher - ami  
 chimie - kimlojia  
 Chine - Jungogia  
-chocolat - cokolate  
-chose - xey (xeye)  
+chocolat - chokolate  
+chose - shey (sheye)  
 chu - paduti  
 chéri (ami) - amike  
 chêne - balute  
@@ -247,7 +248,7 @@ coller - gluta
 colorant - rangomate  
 combava - karsolimone  
 comment - ko?  
-commercer - vendoxopa  
+commercer - vendoshopa  
 compare - para  
 compassion - samemose  
 complot (conspiration) - sirplane  
@@ -257,7 +258,7 @@ compote de pommes - apelsose
 comprendre (réaliser) - aha  
 concert - konserte  
 concombre - hiyare  
-concombre confit (cornichon) - sirkopurxipi hiyare  
+concombre confit (cornichon) - sirkopurshipi hiyare  
 concombre de mer - hayhiyare  
 construire - bina  
 continu (analogique) - kontini  
@@ -271,8 +272,8 @@ correct (juste) - sahi
 cosmique - kosmi  
 cosmos - kosmia  
 coton - gotone  
-couch (couchette) - kuxloke  
-coucher - kuxa  
+couch (couchette) - kushloke  
+coucher - kusha  
 couguar (puma) - pume  
 couleur - rang (range)  
 coupe (tasse, verre) - kope  
@@ -283,9 +284,8 @@ couvrir - daka
 crabe - krabe  
 creuser - kava  
 crevette - krevete  
-crisantemo - gukuve  
 cristal - kristal (kristale)  
-crochet - gance  
+crochet - ganche  
 crocodile - longokrokodile  
 crocodilien - krokodile  
 croissant - kruasante  
@@ -297,7 +297,7 @@ crêpe - fransi krepe
 crêpe - krepe  
 crêperie - kreperia  
 cube - kube  
-cuiller - camace  
+cuiller - chamache  
 culturisme (musculation) - muskulbine  
 cycliste - sikliste  
 cytologie - selolojia  
@@ -308,11 +308,11 @@ côté - late
 dance - danse  
 dandélion - makanfule  
 danger - hatre  
-dans le sens antihoraire - fansoldixo  
+dans le sens antihoraire - fansoldisho  
 dauphin - dolfine  
-de - ca  
-dessous - nice  
-destin - cenamene  
+de - cha  
+dessous - niche  
+destin - chenamene  
 deux (2) - duli  
 diamant - almase  
 dieu - deve  
@@ -338,21 +338,21 @@ droit - hake
 droits de l'homme - insani hake  
 dur - gati  
 dynamite - dinamite  
-décapé (mariné) - sirkopurxipi  
-déchirer - cira  
-déchirer - cire  
+décapé (mariné) - sirkopurshipi  
+déchirer - chira  
+déchirer - chire  
 ##e
 east (orient) - donge  
 eau - suy (suye)  
 effet - rezulte  
-Einsteinium - ainstainium  
+Einsteinium - ainstainem  
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
 en ligne - sa linye  
 enclume - metalbede  
-encore - yexo  
-enfant - bace  
+encore - yesho  
+enfant - bache  
 enterrer - gabra  
 entonnoir - livkope  
 envelopper (emballer) - lifafa  
@@ -381,12 +381,12 @@ fente (fissure, fêlure) - krake
 fermenter - bivmutu  
 feu - hoge  
 feu d’artifice - hogotehne  
-fier - nidoxina  
+fier - nidoshina  
 fil - korde  
 fils ou fille - pute  
 fiord - fiorde  
 fleur - fule  
-flèche - flece  
+flèche - fleche  
 foin - gangrase  
 fois - mare  
 fondu - yongosaha  
@@ -397,19 +397,21 @@ forêt de kelp - algojangle
 fosse - kave  
 fougères - parne  
 fourmi - maye  
-fragment - parce  
+fragment - parche  
 frais - tazi  
-fromage - cise  
+fromage - chise  
 fromage blanc - panire  
 féliciter - barka  
 ##g
 galaxie - galaksia  
+Gaule - Galia  
 gaz - gase  
 gaz lacrymogène - kansuygase  
 gazelle - gazele  
 geler (glacer) - aisu  
 genou - gute  
-genre grammatical - baxi jinse  
+genre grammatical - bashi jinse  
+Germanie - Germania  
 gingembre - zinje  
 giraffe - jirafe  
 gland - balutopale  
@@ -436,7 +438,7 @@ géométrie - zemmetria
 haut - gave  
 heure - hore  
 heureux - suki  
-hier - cendeno  
+hier - chendeno  
 hiver - zime  
 hivernal (hibernal) - zimi  
 hockey - hoke  
@@ -454,11 +456,11 @@ hélicoptère - helisvimane
 hétérosexuel - alseksi  
 hôtel - hotel (hotele)  
 ##i
-imperméable - barxokote  
+imperméable - barshokote  
 important - hami  
 infidèle (incroyant) - andiniste  
 inflammation - itis (itise)  
-insecte - koncunge  
+insecte - konchunge  
 international - nasmedi  
 interracial - rasmedi  
 ironie - ironia  
@@ -467,7 +469,7 @@ jade - yuke
 Japon - Nipon  
 jaïnisme - jeinistia  
 je (me) - me  
-jeudi - var 4 (var cari)  
+jeudi - var 4 (var chari)  
 joule (J) - jule  
 jus - juse  
 jusque (jusqu’à) - ata  
@@ -478,17 +480,17 @@ Jésus - yesus
 kumquat - auroranje  
 ##l
 lac - lage  
-laine - mehi kexe  
-laisser - laxa  
+laine - mehi keshe  
+laisser - lasha  
 lait - milke  
 laitue - letise  
 lama (enseignant religieux du bouddhisme tibétain) - lame  
 lama - liame  
 lampe - lampe  
 Lance-roquettes - roketolancer  
-langue - baxe  
+langue - bashe  
 langue - lisane  
-langue maternelle - jeni baxe  
+langue maternelle - jeni bashe  
 lapin (lièvre) - tuze  
 lapis-lazuli - lazuare  
 lasagne - lazanye  
@@ -521,20 +523,20 @@ lynx - lince
 lys - susane  
 léger - legi  
 ##m
-machine à écrire - kitabomaxine  
+machine à écrire - kitabomashine  
 magma - pastopetre  
-magnésium - mangese  
+magnésium - magesem  
 maillon (chaînon) - sile  
 main - hande  
 mais (bien que) - a  
 maison - dome  
 malédiccion - lane  
-manche - kamisi xake  
+manche - kamisi shake  
 mandarine - laloranje  
 mandarine satsuma - venjovoranje  
 manichéisme - manihayistia  
 marbre - kalcokristale  
-marche - marce  
+marche - marche  
 marché (bazar) - bazare  
 mardi - var 2 (var duli)  
 margay (chat-tigre) - maragaye  
@@ -542,8 +544,8 @@ marguerite - bakomargarite
 mariage - gamia  
 Maroc - Magribe  
 masque - maske  
-match - mece  
-maximum - maxime  
+match - meche  
+maximum - mayime  
 maître - mester  
 medio - medi  
 melt - yongu  
@@ -553,10 +555,10 @@ menthe poivrée - piprominte
 menthe verte - zongominte  
 mer - haye  
 mercredi - var 3 (var tini)  
-merde - xite  
+merde - shite  
 message - anjile  
 mettre (placer) - loka  
-meule - molxeke  
+meule - molsheke  
 miel - mele  
 migration - migre  
 mine - kuangeria  
@@ -572,8 +574,8 @@ morue du Pacifique - pacokade
 mot - loge  
 mouche - zeze  
 moudre - mola  
-mouiller - xipa  
-mouillé - xipi  
+mouiller - shipa  
+mouillé - shipi  
 moulin - molia  
 mousse - mose  
 moussu - mosi  
@@ -594,11 +596,11 @@ nautile - nautile
 neige - hime  
 neuf (9) - navi  
 neurone - neursele  
-niche - nixe  
+niche - nishe  
 nid - nizde  
 niveau - pare  
-noir - cerni  
-noit - noce  
+noir - cherni  
+noit - noche  
 nombre (numéro) - nombre  
 nombre pair - pari nombre  
 non (ne...pas) - no  
@@ -613,7 +615,7 @@ néophyte - novike
 ##o
 objectif (cible) - dike  
 objet (article) - vute  
-oblique (de travers) - terci  
+oblique (de travers) - terchi  
 obsidienne - osidiane  
 ocelot - oselote  
 océan - dayhaye  
@@ -621,16 +623,16 @@ odeur - arome
 oeuf - ande  
 oignon - piaze  
 oiseau - pakse  
-ombrelle (parasol) - solcate  
+ombrelle (parasol) - solchate  
 oncille - bagroselote  
 onde - onde  
 opposant (antagoniste) - faner  
-option - cuzable  
+option - chuzable  
 or - aure  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
 orange amère - kuvoranje  
-orange douce - xukaroranje  
+orange douce - shukaroranje  
 orchidée - orkide  
 ordinateur - komputer  
 oreille - ore  
@@ -641,7 +643,7 @@ orthogonal - ortogoni
 otite - oritis  
 ou - o  
 oublier - anmema  
-oubliette (cul de basse-fosse) - zemnici prizone  
+oubliette (cul de basse-fosse) - zemnichi prizone  
 oui - si  
 ours - urse  
 oxyde - okside  
@@ -654,14 +656,14 @@ paix - pace
 palais (château, manoir) - daydome  
 pamplemousse - putavlimone  
 pantalon - pante  
-pantoufle (babouche) - babuce  
+pantoufle (babouche) - babuche  
 papaye - papaye  
 papier - kaguje  
 papier peint - divarkaguje  
 paquet - pake  
 par exemple - misalo  
 paramètre - parame  
-parapluie - barxocate  
+parapluie - barshochate  
 parc - parke  
 Paris - paris  
 parler - loga  
@@ -672,7 +674,7 @@ patient - patike
 pause - pauze  
 pavot d'Orient - guypapile  
 pavot somnifère - sonpapile  
-pavé - cirkoxeke  
+pavé - cirkosheke  
 pelle - bele  
 perdant - luzer  
 perder - luza tena  
@@ -682,17 +684,17 @@ perplexe (désorienté) - konfusi
 perroquet - papagaye  
 pet (vesse) - pede  
 petit - lil (lili)  
-peu - xavi  
+peu - shavi  
 peut-être - ablo  
 philosophie - filsofia  
 photographie - fotografe  
 photographie - fotografia  
-pierre - xeke  
-pierre précieuse (joyau) - bavxeke  
-pierre tombale - gabroxeke  
+pierre - sheke  
+pierre précieuse (joyau) - bavsheke  
+pierre tombale - gabrosheke  
 pieu (poteau) - zonge  
 pile (batterie) - batre  
-piment - cile  
+piment - chili*  
 pioche - pikosape  
 piquenique - vayoyame  
 piraterie - piratia  
@@ -707,15 +709,15 @@ plan - plane
 planter - poza  
 plaque tectonique - zemkaski plate  
 plein - puri  
-pluie - barxe  
+pluie - barshe  
 plume - kalame  
-plurilingue (multilingue) - polbaxi  
-plus - max (maxo)  
-pluvieux - barxi  
+plurilingue (multilingue) - polbashi  
+plus - may (mayo)  
+pluvieux - barshi  
 pocion - medikosuy  
 podzol - huydarte  
 poireau - poreye  
-poisson-globe - balonfixe  
+poisson-globe - balonfishe  
 poivre - pipre  
 poivre long - longopipre  
 poli - fotofrika  
@@ -752,40 +754,40 @@ psyché - ruhe
 pâquerette - englomargarite  
 péter - peda  
 pétrole (essence) - petronefte  
-pêcheur - fixsaider  
+pêcheur - fishosaider  
 quartz - kuarze  
-quatre (4) - cari  
+quatre (4) - chari  
 que (comme) - ko  
 que (quoi) - ke  
 ##r
 race - rase  
 racine - mule  
 rare - rari  
-raton laveur - vaxurse  
+raton laveur - washurse  
 rayon de miel - melvesponizde  
 rein - nefre  
 religion - dine  
 remplir - pura  
 renard - hule  
-repos - xante  
-requin - xarke  
+repos - shante  
+requin - sharke  
 reste - reste  
 retourner (revenir) - retru  
 rhythme - ritime  
-riche - rici  
+riche - richi  
 rime - rime  
 rire - haha  
 rivière (fleuve) - nade  
 riz - rise  
 robot - robote  
 roche (pierre) - petre  
-rocher - dayxeke  
+rocher - daysheke  
 rose - roze  
 rosée - rose  
-roue - cakre  
+roue - chakre  
 rouge - lali  
 ruban (bande) - tepe  
-rubis - lalbavxeke  
+rubis - lalbavsheke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
 répéter - reya  
@@ -799,11 +801,11 @@ sain - sihi
 salle de bains - banyokamare  
 salut (salam) - salame  
 samedi - var 6 (var sisi)  
-sandwich - sanduice  
+sandwich - sanduiche  
 sang - sange  
 santé - sihe  
 Sapin - abite  
-Satan - xatan (xatane)  
+Satan - shatan (shatane)  
 Saturne - saturne  
 sauce - sose  
 saucisse - sosise  
@@ -814,9 +816,10 @@ saumon sockeye - lalsamone
 sauvage - ekojeni  
 savane - savane  
 savoir (connaître) - jana  
+Scandinavie - Eskandia  
 scie - sere  
 sculpteur - eskulter  
-scutelle - ostoxalke  
+scutelle - ostoshalke  
 se baigner - banyu  
 se décomposer - pudu  
 se rappeler (se remémorer) - mema  
@@ -829,12 +832,12 @@ serrure - sore
 seul (unique) - moni  
 seulement - mono  
 sexe - jinse  
-shopping - xope  
+shopping - shope  
 si - aga  
 signer - namkitaba  
-silex - hogoxeke  
+silex - hogosheke  
 simulation - samsifia  
-situation (état de choses) - xeyhale  
+situation (état de choses) - sheyhale  
 six (6) - sisi  
 société - socia  
 soie - silke  
@@ -844,7 +847,7 @@ soleil - sole
 soumettre - karmisa  
 squelette - ostojamia  
 substance - kime  
-sucre - xukare  
+sucre - shukare  
 sueur - suede  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
@@ -861,9 +864,9 @@ sûrement - ameno
 s’accroupir - indosida  
 ##t
 table - meze  
-tablette de chocolat - cokolatobatone  
+tablette de chocolat - chokolatobatone  
 tarte - pay (paye)  
-tasse à thé - caykope  
+tasse à thé - chakope  
 taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
@@ -876,24 +879,24 @@ terrain - zemforme
 terre cuite - bekopote  
 terreplatiste - platozemiste  
 terrorisme - teroristia  
-thé - cay (caye)  
+thé - cha*  
 tige - tane  
 tigre - bagre  
 tirer - tira milke  
-tissu - texe  
+tissu - tekse  
 titre - temnam  
 toile d'araignée - aranonete  
 tomate - tomate  
 tombe - gabre  
 topinambour - masmulsolfule  
-toucher - toca  
+toucher - tocha  
 touriste - safariste  
 Tournesol - solfule  
 traduction - tarje  
 travail - kare  
 travailler - kara  
 travailleur (ouvrier) - karer  
-tremper (faire mariner) - purxipa  
+tremper (faire mariner) - purshipa  
 tribord - botoraite  
 trois (3) - tini  
 tropique - garmozone  
@@ -913,7 +916,7 @@ un (1) - un (uni)
 une fois - unmaro  
 unique - uniki  
 uniquement - uniko  
-uranium - uranium  
+uranium - uranem  
 ##v
 vagine - vagine  
 vaginite - vaginitis  
@@ -929,7 +932,7 @@ vendredi - var 5 (var limi)
 Venezuela - Venezuela  
 ver - verme  
 verbe - karloge  
-verre - kance  
+verre - kanche  
 verre coloré - rangi kance  
 verrue - zeyile  
 vert - lugi  
@@ -950,7 +953,7 @@ vocabulaire (lexique) - logia
 voile - hijabe  
 voir - vida  
 voire (même) - ato  
-volcan - hogoxane  
+volcan - hogoshane  
 voler - feyu  
 vouloir - vola  
 voyelle - jungofone  
@@ -966,15 +969,15 @@ wolof - volofi
 zombi - zombe  
 zone - zone  
 zoo - hevanparke  
-Zoroastre - zardux  
-zoroastrien - zarduxiste  
-zoroastrisme - zarduxistia  
+Zoroastre - zardush  
+zoroastrien - zardushiste  
+zoroastrisme - zardushistia  
 zoulou - zuli  
 zèbre - zebre  
 Égypte - Misre  
 Épicéa - pise  
 âge - umure  
-échelle - xalke  
+échelle - shalke  
 écorce - tira pile  
 écrire - kitaba  
 écriture - kitabe  
@@ -997,14 +1000,14 @@ zèbre - zebre
 étagère - libobanze  
 étain - estane  
 état - hale  
-éternuer - acua  
-étinceler - xingofota  
-étoile - xinge  
+éternuer - achua  
+étinceler - shingofota  
+étoile - shinge  
 étymologie - logaslia  
 été - lete  
 évaluer - vala  
 évangile - evanjile  
 éveillé - veki  
 être - esa  
-être couché - kuxu  
+être couché - kushu  
 être humain - insan (insane)  

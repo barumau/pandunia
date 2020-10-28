@@ -2,7 +2,7 @@
 ##a
 abite - пихта  
 abli - возможный  
-acua - чихать  
+achua - чихать  
 adali - справедливый  
 adalia - справедливость  
 adrese - адрес  
@@ -71,7 +71,7 @@ Avganistan - Афганистан
 ##b
 babe - глава  
 babule - акация  
-bace - ребёнок  
+bache - ребёнок  
 badame - миндаль  
 badan (badane) - тело  
 bagaje - багаж  
@@ -82,7 +82,7 @@ bakomargarite - нивяник обыкновенный (ромашка)
 bakosamone - кета  
 bali - восемь (8)  
 balkone - балкон  
-balonfixe - иглобрюховые  
+balonfishe - иглобрюховые  
 balsenter - спрут (осьминог)  
 balute - дуб  
 banane - банан  
@@ -97,21 +97,21 @@ banze - доска (плита, сляб)
 barde - борода  
 bari - тяжёлый  
 barkoke - абрикос  
-barxe - дождь  
-barxi - дождливый  
-barxocate - зонтик  
-barxokote - плащ (дождевик)  
-barxu - дожди́ть  
+barshe - дождь  
+barshi - дождливый  
+barshochate - зонтик  
+barshokote - плащ (дождевик)  
+barshu - дожди́ть  
 baryer - барьер  
 basene - бассейн  
+bashe - язык  
+bashi jinse - род в грамматике  
 basi - достаточно (довольно)  
 baskobol - баскетбол  
 batre - батарея  
 bave - сокровище (казна)  
 bavi - драгоценный  
-bavxeke - драгоценный камень  
-baxe - язык  
-baxi jinse - род в грамматике  
+bavsheke - драгоценный камень  
 bazare - рынок (базар)  
 baze - основа (база,  фундамент)  
 bazobole - бейсбол  
@@ -155,30 +155,30 @@ bume - взрыв
 bumu - взрываться  
 bute - ботинок  
 ##c
-ca - из (от)  
-cakre - колесо  
-camace - ложка  
-canse - возможность (шанс)  
-cari - четыре (4)  
-carme - шарм  
-cay (caye) - чай  
-caykope - чайная чашка  
-cenamene - судьба  
-cendeno - вчера  
-ceno - раньше  
-cerize - черешня  
-cerni - чёрный  
+cha - из (от)  
+cha* - чай  
+chakope - чайная чашка  
+chakre - колесо  
+chamache - ложка  
+chanse - возможность (шанс)  
+chari - четыре (4)  
+charme - шарм  
+chenamene - судьба  
+chendeno - вчера  
+cheno - раньше  
+cherize - черешня  
+cherni - чёрный  
+chili* - перец (паприка)  
+chini - хань  
+chira - рвать  
+chirchira - изорвать  
+chirchiri - изорванный  
+chire - рвать  
+chise - сыр  
+chokolate - шоколад  
 ciani - циан  
-cile - перец (паприка)  
-cini - хань  
-cira - рвать  
-circira - изорвать  
-circiri - изорванный  
-cire - рвать  
-cirkoxeke - булыжник  
-cise - сыр  
-cokolate - шоколад  
-coye - зелень  
+cirkosheke - булыжник  
+coy - зелень  
 ##d
 dalile - доказательство  
 damaje - повреждение  
@@ -192,8 +192,8 @@ daydome - дворец (особняк)
 dayhaye - океан  
 daylasune - лук исполинский  
 daypave - пушка  
+daysheke - валун  
 dayvaze - котёл  
-dayxeke - валун  
 defbanze - щит  
 defkaske - доспехи  
 deve - бог  
@@ -215,7 +215,7 @@ dosila - укрощать (приручить)
 dosili - кроткий  
 dosiljenisa - одомашнивать  
 duga - читать  
-dulbaxi - двуязычный  
+dulbashi - двуязычный  
 duli - два (2)  
 duli o tini - пара  
 dunia - мир (свет)  
@@ -237,25 +237,26 @@ eskodokume - анкета
 eskulter - скульптор  
 esponje - губка  
 esprinta - бегать (бежать)  
+estibem - сурьма (стибиум)  
 europobalute - дуб черешчатый  
 evanjile - евангелие  
 ##f
-fansoldixo - против часовой стрелки  
+fansoldisho - против часовой стрелки  
 fase - грань  
 fasteli - глубокий  
 fastelia - мелкий  
 fatigia - усталость  
 fatigu - устать  
 favori - любимый  
-feymuxe - летучая мышь  
+feymushe - летучая мышь  
 feyu - лететь  
 filme - плева (фильм)  
 filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
+fishosaider - рыбак (рыболов)  
 fitolojia - ботаника  
-fixsaider - рыбак (рыболов)  
-flece - стрела (стрелка)  
+fleche - стрела (стрелка)  
 fora - сверлить (бурить)  
 fote - свет  
 fotofrika - полировать  
@@ -270,10 +271,11 @@ futobole - футбол
 gabra - хоронить  
 gabre - могила (гроб)  
 gabristan - кладбище  
-gabroxeke - надгробие  
+gabrosheke - надгробие  
 gadogude - мул  
 galaksia - галактика  
-gance - крюк  
+Galia - Галлия  
+ganche - крюк  
 gandume - пшеница  
 gangrase - сено  
 garmozone - тропик  
@@ -298,6 +300,7 @@ grave - гравий
 grimase - гримаса  
 grome - гром  
 grupe - группа  
+gukuve - хризантема садовая  
 gula - глотать  
 gule - гуль (вурдалак)  
 gune - армия  
@@ -313,7 +316,7 @@ halov - алло
 hami - важный (значимый)  
 hamili - беременный  
 hande - рука  
-handoxake - рукав  
+handoshake - рукав  
 harfia - алфавит  
 hatre - опасность  
 hayalge - морские водоросли  
@@ -333,9 +336,9 @@ hisaba - вычислять
 hiyare - огурец  
 hoga - жечь (палить)  
 hoge - огонь  
+hogoshane - вулкан  
+hogosheke - кремень  
 hogotehne - фейерверк  
-hogoxane - вулкан  
-hogoxeke - кремень  
 hoke - хоккей  
 hore - час  
 horizoni - horizontal  
@@ -360,7 +363,7 @@ jana - знать
 jena - родить  
 jengrupe - поколение  
 jeni - сырой  
-jeni baxe - родной язык  
+jeni bashe - родной язык  
 jenisa - выращивать  
 jentipe - генотип  
 jinse - пол  
@@ -395,9 +398,9 @@ kamare - комната (камера)
 kamile - ромашка аптечная  
 kamise - рубашка  
 kanape - канапе  
-kance - стекло  
-kancodaka - глазуровать  
-kancodake - глазурь  
+kanche - стекло  
+kanchodaka - глазуровать  
+kanchodake - глазурь  
 kanione - овраг (ущелье, каньон)  
 kanjare - кинжал  
 kanove - каноэ  
@@ -407,10 +410,10 @@ kantalupomelone - канталупа
 kapotruke - ловушка  
 kara - работать  
 karbondulokside - двуокись углерода  
-karcofe - артишок посевной  
+karchofe - артишок посевной  
 karde - карта  
 kardone - расторопша  
-kardonkarcofe - артишок испанский (кардон)  
+kardonkarchofe - артишок испанский (кардон)  
 kare - работа  
 karer - работник  
 karloge - глагол  
@@ -432,7 +435,7 @@ kingrafe - фильм (кино)
 kitaba - писать  
 kitabe - письмо  
 kitabia - библиотека  
-kitabomaxine - пишущая машинка  
+kitabomashine - пишущая машинка  
 kitabominister - библиотекарь  
 kliene - клиент (покупатель, зака́зчик)  
 klime - климат  
@@ -441,7 +444,7 @@ ko - чем
 ko? - как  
 komandolinye - командная строка  
 komputer - компьютер  
-koncunge - насекомое  
+konchunge - насекомое  
 konga - пробиться  
 konkara - сотрудничать (кооперировать)  
 konserte - концерт  
@@ -470,13 +473,13 @@ kruse - крест
 kuangeria - мина  
 kuarze - кварц  
 kube - куб  
+kusha - положить  (уложить)  
+kushu - лежать  
 kuvi - горький  
 kuvmelone - горький огурец (китайская горькая тыква)  
 kuvoranje - померанец  
-kuxa - положить  (уложить)  
-kuxu - лежать  
 ##l
-lalbavxeke - рубин  
+lalbavsheke - рубин  
 lali - красный  
 lalolince - рыжая рысь  
 laloranje - мандарин  
@@ -500,7 +503,7 @@ libobanze - полка
 lider - руководитель (лидер)  
 lil (lili) - маленький (малый)  
 lilkaboge - цукини  
-lilxeke - галька  
+lilsheke - галька  
 limi - пять (5)  
 limone - лимон  
 lince - рысь  
@@ -527,6 +530,7 @@ luza tena - потеря́ть (утра́тить)
 ##m
 mafana - утруждать  
 mafanu - утруждай  
+magesem - магний  
 Magribe - Марокко  
 maidane - площадь (сквер, майдан)  
 maidanpapile - мак самосейка  
@@ -534,13 +538,12 @@ majenti - маджента (фуксия)
 makanfule - одуванчик  
 malsinyi - зловещий  
 mame - мать (мама)  
-mangese - магний  
 manihayistia - манихейство  
 manire - поведение (манера)  
 manse - мясо  
 mantole - плащ (накидка)  
 maragaye - маргай  
-marce - марш  
+marche - марш  
 mare - раз  
 margarite - маргаритка  
 masale - пряность  
@@ -549,11 +552,11 @@ masmule - клубень
 masmulsolfule - топинамбу́р  
 maste - мачта  
 mature - взрослый  
-mav (mave) - кошка  
-maxforte - пополнение  
-maxime - максимум  
+maw - кошка  
+mayforte - пополнение  
+mayime - максимум  
 me - я  
-mece - матч  
+meche - матч  
 medi - средний  
 medikosuy - зелье  
 megame - облако  
@@ -568,6 +571,8 @@ metalbede - наковальня
 meze - стол  
 migre - миграция  
 migru - переезжать  
+miksa - мешать  
+miksi alkole - коктейль  
 milke - молоко  
 milkokardone - расторопша пятнистая  
 minte - мята  
@@ -575,14 +580,12 @@ mirdi - слабый
 misalo - например  
 Misre - Египет  
 mitre - метр  
-mixa - мешать  
-mixi alkole - коктейль  
 moke - дерево  
 mokotane - бревно  
 mola - молоть  
 molia - мельница  
+molsheke - жёрнов  
 moluske - моллюск  
-molxeke - жёрнов  
 mome - мы  
 moni - единственный  
 monloge - монолог  
@@ -608,16 +611,16 @@ neursele - нейрон
 nida - нуждаться  
 nide - нужда  
 nidi - нужный  
-nidoxina - доверять (понадеяться)  
-nidoxinabli - верный  
-nidoxinablia - верность  
+nidoshina - доверять (понадеяться)  
+nidoshinabli - верный  
+nidoshinablia - верность  
 nili - синий (голубой)  
 nilsentaure - василёк синий  
 Nipon - Япония  
-nixe - ниша  
+nishe - ниша  
 nizde - гнездо (улей)  
 no - нет (не)  
-noce - ночь  
+noche - ночь  
 nombre - число  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
@@ -651,7 +654,7 @@ papaye - папайя
 pape - отец (папа)  
 para - сравнить  
 parame - параметр (аргумент)  
-parce - кусок  
+parche - кусок  
 pare - уровень  
 pari - равный  
 pari nombre - чётное число  
@@ -688,7 +691,7 @@ plane - план
 platozemiste - плоскоземелец  
 plume - слива  
 polave - плов  
-polbaxi - многоязычный  
+polbashi - многоязычный  
 pontopine - компас  
 poreye - лук-порей  
 porte - порт  
@@ -702,7 +705,7 @@ pume - пума (кугуар)
 puntonombre - оценка  
 pura - заполнять  
 puri - полный  
-purxipa - мариновать  
+purshipa - мариновать  
 putavlimone - грейпфрут  
 ##r
 rangarke - радуга  
@@ -744,7 +747,7 @@ sammetri - симметричный
 sammetria - симметрия  
 samraye - согласие  
 samsifia - симуляция  
-sanduice - сандвич  
+sanduiche - сандвич  
 sanduke - сундук  
 sange - кровь  
 sapate - حِذَاء  
@@ -761,6 +764,30 @@ senter - щупальце
 serame - керамика  
 sere - пила  
 seti - семь (7)  
+shalke - чешуя  
+shante - отдых  
+shanti - спокойный  
+sharke - акула  
+shatan (shatane) - Сатана  
+shavi - мало  
+shefe - шеф  
+sheke - камень (камешек)  
+shenga - победить  
+shey (sheye) - вещь  
+sheyhale - положение (ситуация)  
+shingofota - сверкать (мерцать)  
+shishkababe - шиш-кебаб  
+shishmanse - шашлык  
+shite - говно (дерьмо)  
+shofer - шофёр  
+shopa - покупать (купить)  
+shope - покупка (шоппинг)  
+showa - доказать (демонстрировать)  
+shukarbete - сахарная свёкла  
+shukare - сахар  
+shukargrase - сахарный тростник  
+shukaroranje - апельсин  
+shushi - тихий  
 si - да  
 sida - сидеть  
 side - сиденье (седло)  
@@ -772,14 +799,14 @@ silke - шёлк
 silnete - кольчуга  
 sinplate - нагрудник  
 sira - скрывать  
-sirkopurxipi - марино́ванный  
+sirkopurshipi - марино́ванный  
 sirplane - заговор (сговор)  
 sisi - шесть (6)  
 slavi - славянский  
 soci jinse - гендер  
 socia - общество (социум)  
 soke - носок  
-solcate - зонтик от солнца  
+solchate - зонтик от солнца  
 sole - солнце  
 solfule - подсолнечный  
 songe - сосна  
@@ -805,7 +832,7 @@ suynide - жажда
 taile - черепи́ца  
 taksometer - таксометр  
 tali moke - куст  
-taltexe - ковёр  
+talteshe - ковёр  
 tane - стебель  
 tarje - перевод  
 tase - блюдо (таз)  
@@ -814,6 +841,8 @@ tazi - свежий
 te - ты  
 tehne - техника  
 tehnolojia - технология  
+tekse - ткань  
+teksomashine - ткацкий станок  
 telfone - телефон  
 teloloku - телепортировать  
 telvide - телевизор  
@@ -823,12 +852,10 @@ tena - иметь
 tenke - погода  
 tenu - принадлежать  
 tepe - лента  
-terci - косой  
+terchi - косой  
 teroristia - терроризм  
 tese - довод  
 teste - проба (тест)  
-texe - ткань  
-texmaxine - ткацкий станок  
 tikete - билет  
 time - команда  
 tini - три (3)  
@@ -837,7 +864,7 @@ tira milke - тянуть
 tira pile - ободрать  
 tirbatone - рычаг  
 tirlive - отбойное течение  
-toca - касаться  
+tocha - касаться  
 tomate - помидор (томат)  
 trate - договор  
 truka - обмануть  
@@ -859,20 +886,17 @@ vampire - вампир (упырь)
 var 1 (var uni) - понедельник  
 var 2 (var duli) - вторник  
 var 3 (var tini) - среда  
-var 4 (var cari) - четверг  
+var 4 (var chari) - четверг  
 var 5 (var limi) - пятница  
 var 6 (var sisi) - суббота  
 var 7 (var seti) - воскресенье  
 vav - вау!  
-vaxa - мыть  
-vaxmaxine - стиральная машина  
-vaxurse - енот  
 vayoyame - пикник  
 vaytira - вытянуть  
 vaze - ваза  
 vejetyamiste - вегетарианец  
 venda - продать  
-vendoxopa - обмениваться  
+vendoshopa - обмениваться  
 venjovoranje - мандарин уншиу  
 veri - верный  
 vestogorile - западная горилла  
@@ -889,36 +913,15 @@ vola - хотеть
 vulve - вульва  
 vute - статья (предмет)  
 ##w
+washa - мыть  
+washomashine - стиральная машина  
+washurse - енот  
 ##x
-xalke - чешуя  
-xante - отдых  
-xanti - спокойный  
-xarke - акула  
-xatan (xatane) - Сатана  
-xavi - мало  
-xefe - шеф  
-xeke - камень (камешек)  
-xenga - победить  
-xey (xeye) - вещь  
-xeyhale - положение (ситуация)  
-xingofota - сверкать (мерцать)  
-xite - говно (дерьмо)  
-xixkababe - шиш-кебаб  
-xixmanse - шашлык  
-xofer - шофёр  
-xopa - покупать (купить)  
-xope - покупка (шоппинг)  
-xova - доказать (демонстрировать)  
-xukarbete - сахарная свёкла  
-xukare - сахар  
-xukargrase - сахарный тростник  
-xukaroranje - апельсин  
-xuxi - тихий  
 ##y
 yamnide - голод  
 yemenia - Йемен  
+yesho - ещё  
 yesus - Иисус  
-yexo - ещё  
 yoge - йога  
 yohani feste - Иванов день  
 yuke - нефрит (жад)  
@@ -926,13 +929,13 @@ yumore - юмор
 ##z
 zamane - период (эпоха)  
 Zambia - Замбия  
-zardux - Зороастр  
-zarduxiste - зороастризм  
+zardush - Зороастр  
+zardushiste - зороастризм  
 zebre - зебра  
 zemgrafe - карта  
 zemgrafia - картография  
 zemmetria - геометрия  
-zemnici prizone - ублиет (подземная тюрьма)  
+zemnichi prizone - ублиет (подземная тюрьма)  
 zeyile - бородавка  
 zeze - муха  
 Zimbabve - Зимбабве  
