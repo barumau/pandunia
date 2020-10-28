@@ -870,10 +870,10 @@ fotografia - fotografía
 fotografmashine - cámara  
 fotominare - faro (baliza, almenara)  
 fotorade - rayo luminoso  
-fransem - francio  
-fransi krepe - crepa (crep, tortilla de trigo)  
-Fransi Polnesia - Polinesia Francesa  
-Fransia - Francia  
+francem - francio  
+franci krepe - crepa (crep, tortilla de trigo)  
+Franci Polnesia - Polinesia Francesa  
+Francia - Francia  
 freme - marco  
 frika - raspar (arañar)  
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
@@ -1383,8 +1383,8 @@ kanchodaka - vidriar (glasear)
 kanchodake - vidriado (esmalte)  
 kande - caramelo  
 kandele - candela (unidad de intensidad luminosa)  
+kangaru - canguro  
 kange - peine  
-kangure - canguro  
 kanione - cañón (barranco, quebrada)  
 kanjare - puñal (daga)  
 kankeshe - pestaña  
@@ -1488,9 +1488,9 @@ kimi - químico
 kimlojia - química  
 kina - mudar (transferir, traspasar, trasladar)  
 kine - movimiento  
-kingrafe - película (filme)  
 kini - cinético  
-Kinsasa Kongo - República Democrática del Congo  
+kinografe - película (filme)  
+Kinshasa Kongo - República Democrática del Congo  
 kioske - quiosco (kiosco)  
 Kipris - Chipre  
 kirate - quilate  
@@ -1505,7 +1505,7 @@ kitabia - biblioteca
 kitabomashine - máquina de escribir  
 kitabominister - bibliotecario  
 kitaborupe - formateo  
-kive - kiwi fruta  
+kiwi* - kiwi fruta  
 klara - aclarar (clarificar)  
 klari - claro  
 klasa - clasificar  
@@ -2808,6 +2808,8 @@ shalke - escama
 shamane - chamán (brujo, hechicero)  
 shamden - tarde (después de mediodía)  
 shame - noche (tarde)  
+Shampan - Champaña  
+Shampan vine - champagne  
 shamyame - cena  
 shane - montaña (colina)  
 shante - descanso (alivio)  
@@ -2931,6 +2933,7 @@ soci media - redes sociales
 socia - sociedad  
 sociste - socialista  
 socistia - socialismo  
+sofa* - sofá  
 sofi - sabio  
 sofia - sabiduría  
 soke - calcetín  
@@ -3051,9 +3054,9 @@ tarja - traducir (interpretar)
 tarje - tradicción (interpretación)  
 tarjer - traductor  
 tase - plato  
-tatave - tatuaje  
 tate - orilla (ribera)  
 tatike - táctica (estrategia)  
+tatu* - tatuaje  
 tave - sartén  
 tayi - tailandés  
 tayia - Tailandia  
@@ -3271,6 +3274,7 @@ venus - Venus
 vera - autenticar  
 veri - verdadero  
 verme - verme  
+vermute - vermú  
 versione - versión (modelo)  
 vespe - abeja o avispa  
 vesponizde - avispero (colmena)  
@@ -3352,7 +3356,7 @@ yehudi - judío
 yehudistia - judaísmo  
 yemenia - Yemen  
 yesho - todavía (aún)  
-yesus - Jesús  
+Yesu - Jesús  
 yey - yupi  
 yeze - coco  
 yi - esto  
@@ -3421,7 +3425,7 @@ zipe - cremallera
 zire - comino  
 zirkonem - circonio  
 ziza - chisporrotear  
-zombe - zombi  
+zombi* - zombi  
 zone - cinturón (zona)  
 zonga - atravesar  
 zonge - poste (estaca, palo)  

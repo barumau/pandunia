@@ -909,10 +909,10 @@ fotografia - fotografia
 fotografmashine - kamera, aparat fotograficzny  
 fotominare - latarnia morska  
 fotorade - promień światła  
-fransem - frans  
-fransi krepe - francuski naleśnik (crêpe)  
-Fransi Polnesia - Polinezja Francuska  
-Fransia - Francja  
+francem - frans  
+franci krepe - francuski naleśnik (crêpe)  
+Franci Polnesia - Polinezja Francuska  
+Francia - Francja  
 freme - rama  
 frika - trzeć (pocierać, obetrzeć, pucować)  
 fuga - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
@@ -1437,8 +1437,8 @@ kanchodaka - szklić (glazurować)
 kanchodake - glazura (emalia)  
 kande - cukierek, słodycze  
 kandele - kandela  
+kangaru - kangur  
 kange - grzebień  
-kangure - kangur  
 kanione - kanion  
 kanjare - sztylet (puginał)  
 kankeshe - rzęsa  
@@ -1543,11 +1543,11 @@ kimi - chemiczny
 kimlojia - chemia  
 kina - ruszać, przenościć, zmieniać miejsce  
 kine - ruch  
-kingrafe - kino  
-kingrafi - kinowy  
-kingrafia - kinematografia  
 kini - ruchowy, kinetyczny  
-Kinsasa Kongo - Demokratyczna Republika Konga  
+kinografe - kino  
+kinografi - kinowy  
+kinografia - kinematografia  
+Kinshasa Kongo - Demokratyczna Republika Konga  
 kioske - kiosk  
 Kipris - Cypr  
 kirate - karat  
@@ -1562,7 +1562,7 @@ kitabia - biblioteka
 kitabomashine - maszyna do pisania  
 kitabominister - bibliotekarz  
 kitaborupe - formatowanie  
-kive - owoc kiwi  
+kiwi* - owoc kiwi  
 klara - wyklarować (rozjaśnić)  
 klari - przeźroczysty, jasny  
 klaro - oczywiście  
@@ -2918,6 +2918,8 @@ shalke - szala
 shamane - szaman  
 shamden - popołudnie  
 shame - wieczór  
+Shampan - Champagne  
+Shampan vine - samppanja  
 shamyame - kolacja  
 shane - góra, wzgórze  
 Shanghai - Szanghaj  
@@ -3050,6 +3052,7 @@ soci media - media społecznościowe
 socia - społeczeństwo, system społeczny  
 sociste - socjalista  
 socistia - socjalizm  
+sofa* - sofa (kanapa)  
 sofi - mądry  
 sofia - mądrość  
 soke - skarpeta, skarpetka, pończocha  
@@ -3173,9 +3176,9 @@ tarja - przetłumaczyć, tłumaczyć, interpretować
 tarje - tłumaczenie, interpretacja  
 tarjer - tłumacz  
 tase - danie  
-tatave - tatuaż  
 tate - wybrzeże (brzeg, krawędź)  
 tatike - taktyka, strategia  
+tatu* - tatuaż  
 tave - patelnia  
 tayi - tajski  
 tayia - Tajlandia  
@@ -3397,6 +3400,7 @@ venjovoranje - mandarynka Satsuma (pomarańcza Satsuma)
 venus - Wenus  
 veri - prawdziwy (rzeczywisty, szczery)  
 verme - robak  
+vermute - wermut  
 versione - wersja (wariacja, edycja, wydanie)  
 vespe - pszczoła lub osa  
 vesponizde - ul (gniazdo pszczół lub os)  
@@ -3458,6 +3462,7 @@ washa - prać, umyć, myć
 Washington DC - Waszyngton D.C  
 washomashine - pralka  
 washurse - szop pracz  
+wiski* - viski  
 ##x
 xenon - ksenon  
 ##y
@@ -3481,7 +3486,7 @@ yehudi - żydowski
 yehudistia - judaizm  
 yemenia - Jemen  
 yesho - wciąż, nadal  
-yesus - Jezus  
+Yesu - Jezus  
 yey - jej  
 yeze - kokos  
 yi - ten, te  
@@ -3553,7 +3558,7 @@ zipe - zamek błyskawiczny
 zire - kumin, kmin  
 zirkonem - cyrkon  
 ziza - skwierczeć  
-zombe - zombie, zombi  
+zombi* - zombie, zombi  
 zone - pas, strefa  
 zonga - nabić (przebić, dźgnąć)  
 zonge - słup (pal, kołek)  

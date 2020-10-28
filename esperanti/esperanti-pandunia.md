@@ -453,9 +453,9 @@ fotilo - fotografmashine
 fotisto - fotografer  
 foto - fotografe  
 fotografio - fotografia  
-franca krepo - fransi krepe  
-Francio - Fransia  
-franciumo - fransem  
+franca krepo - franci krepe  
+Francio - Francia  
+franciumo - francem  
 frato aŭ fratino - saudare  
 fremda (nekonata) - anjani  
 fremda lando - vaydeshia  
@@ -640,7 +640,7 @@ jaro - nen (nene)
 jasmeno - malike  
 Jemeno - yemenia  
 jes - si  
-Jesuo - yesus  
+Jesuo - Yesu  
 jodo - iode  
 jogo - yoge  
 juna - jovani  
@@ -673,7 +673,7 @@ kamelo - gamele
 kanabo - ganje  
 kanalo - kanale  
 kandelo - mumfote  
-kangaro - kangure  
+kangaro - kangaru  
 kanonisto - daypaver  
 kanono - daypave  
 kanti - chanta  
@@ -714,7 +714,7 @@ kiom? - ko multo
 kiso - chume  
 kiu (komencigas relativan frazon) - da  
 kiu? - ki ren  
-kivo - kive  
+kivo - kiwi*  
 klara - klari  
 klarigi - klara  
 klavaro - butonbanze  
@@ -1406,6 +1406,7 @@ skultisto - eskulter
 smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
+sofo - sofa*  
 soifo - suynide  
 sola (ununura) - uniki  
 soldato - gunrene  
@@ -1466,7 +1467,7 @@ tantalo - tantalum
 Tanzanio - Tanzania  
 tapeto - divarkaguje  
 taso - kope  
-tatuo - tatave  
+tatuo - tatu*  
 teknecio - tehnem  
 tekniko - tehne  
 teknologio - tehnolojia  
@@ -1575,6 +1576,7 @@ vera - veri
 verando - berande  
 verbo - karloge  
 verda - lugi  
+vermuto - vermute  
 versio (toisinto) - versione  
 veruko - zeyile  
 vespermanĝo - shamyame  

@@ -531,9 +531,9 @@ fotografe - foto
 fotografer - fotisto  
 fotografia - fotografio  
 fotografmashine - fotilo  
-fransem - franciumo  
-fransi krepe - franca krepo  
-Fransia - Francio  
+francem - franciumo  
+franci krepe - franca krepo  
+Francia - Francio  
 fuka - vesti  
 fuke - vesto  
 fule - floro  
@@ -811,7 +811,7 @@ kanale - kanalo
 kanape - sofo  
 kanche - vitro  
 kande - bombono  
-kangure - kangaro  
+kangaru - kangaro  
 kanjare - ponardo  
 kanove - kanuo (kanoto)  
 kante - ŝultro  
@@ -865,7 +865,7 @@ kimlojia - ĥemio (kemio)
 kitabe - skribo  
 kitabia - librejo  
 kitabomashine - tajpilo  
-kive - kivo  
+kiwi* - kivo  
 klara - klarigi  
 klari - klara  
 klaro - kompreneble  
@@ -1488,6 +1488,7 @@ sismolojia - sismologio
 sisteme - sistemo  
 site - urbego  
 socia - socio  
+sofa* - sofo  
 sofi - saĝa  
 sofia - saga  
 soke - ŝtrumpo  
@@ -1538,7 +1539,7 @@ tarja - traduki
 tarje - traduko  
 tarjer - tradukisto  
 tase - plado  
-tatave - tatuo  
+tatu* - tatuo  
 tave - pato  
 tayi - tajlanda  
 tayia - Tajlando  
@@ -1635,6 +1636,7 @@ vaze - vazo
 ve - tiu  
 vejete - legomo  
 veri - vera  
+vermute - vermuto  
 versione - versio (toisinto)  
 vespe - abelo aŭ vespo  
 vi - tiu  
@@ -1671,7 +1673,7 @@ yange - speco (tipo, stilo)
 ye - ĉi tio  
 yemenia - Jemeno  
 yesho - ankoraŭ  
-yesus - Jesuo  
+Yesu - Jesuo  
 yeze - kokoso  
 yi - ĉi tiu  
 yoge - jogo  

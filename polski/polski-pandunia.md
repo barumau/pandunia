@@ -304,6 +304,7 @@ Ceres (planeta karłowata) - seres
 cez - cesem  
 chaber - sentaure  
 chaber wełnisty - solsentaure  
+Champagne - Shampan  
 chaos, nieporządek; wrzawa, zgiełk - haose  
 chcieć (pragnąć) - icha  
 chcieć, pragnąć - vola  
@@ -441,7 +442,7 @@ delikatny, cienki, lekki - faini
 demografia - demgrafia  
 demokracja - demkratia  
 demokrata - demkratiste  
-Demokratyczna Republika Konga - Kinsasa Kongo  
+Demokratyczna Republika Konga - Kinshasa Kongo  
 demokratyczny - demkrati  
 demon - demone  
 dentysta - dantomediker  
@@ -661,9 +662,9 @@ forum - forum (forume)
 fosfor - pospore  
 fotograf - fotografer  
 fotografia - fotografia  
-Francja - Fransia  
-francuski naleśnik (crêpe) - fransi krepe  
-frans - fransem  
+Francja - Francia  
+francuski naleśnik (crêpe) - franci krepe  
+frans - francem  
 fu, fuj - fuy  
 funkcja, stanowisko - funca  
 funkcjonariusz, urzędnik - ofiser  
@@ -963,7 +964,7 @@ Jersey - Jersi
 jesień - otone  
 jesion - yasene  
 jezioro - lage  
-Jezus - yesus  
+Jezus - Yesu  
 jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - aga  
 jod; jodyna - iode  
 jodła - abite  
@@ -1009,7 +1010,7 @@ Kanada - Kanada
 kanapka - sanduiche  
 kanał - kanale  
 kandela - kandele  
-kangur - kangure  
+kangur - kangaru  
 kanion - kanione  
 kannada - karnadi  
 kanoe - kanove  
@@ -1060,9 +1061,9 @@ kilo- - kilo-
 kilof - pikosape  
 kilogram (kg) - kilgram  
 kilometr - kilmitre  
-kinematografia - kingrafia  
-kino - kingrafe  
-kinowy - kingrafi  
+kinematografia - kinografia  
+kino - kinografe  
+kinowy - kinografi  
 kiosk - kioske  
 Kirgistan - Kirgizia  
 Kiribati - Kiribati  
@@ -1873,7 +1874,7 @@ owad - konchunge
 owca - mehe  
 owinięcie (koperta, okładka) - lifafe  
 owoc - pale  
-owoc kiwi - kive  
+owoc kiwi - kiwi*  
 ołtarz - altare  
 ołów - plumbe  
 oś - akse  
@@ -2086,7 +2087,7 @@ pole, powierzchnia - are
 polerować (szlifować) - fotofrika  
 policja - polise  
 policzyć, liczyć, przetwarzać dane - komputa  
-Polinezja Francuska - Fransi Polnesia  
+Polinezja Francuska - Franci Polnesia  
 politeizm - poldevistia  
 politologia - politikolojia  
 polityczny - politiki  
@@ -2550,6 +2551,7 @@ samobieżny - automoti
 samochód (automobil) - motogare  
 samogłoska - jungofone  
 samolot - vimane  
+samppanja - Shampan vine  
 San Marino - Santi Marino  
 sarkazm - logironia  
 satanista - shataniste  
@@ -2639,6 +2641,7 @@ sobota - var 6 (var sisi)
 socjalista - sociste  
 socjalizm - socistia  
 socjalizować się - soca  
+sofa (kanapa) - sofa*  
 sofa, kanapa - kanape  
 sok - juse  
 Somalia - Somalia  
@@ -2860,7 +2863,7 @@ taoista - daviste
 taoizm - davistia  
 tapeta - divarkaguje  
 tarcza - defbanze  
-tatuaż - tatave  
+tatuaż - tatu*  
 taxi, taksówka - taksogare  
 taśma - tepe  
 taśma; bandaż - bende  
@@ -3059,6 +3062,7 @@ użytkownik - uzer
 użyć, używać, zatrudnić, stosować - uza  
 ##v
 Vanuatu - Vanuatu  
+viski - wiski*  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 w przyszłości - vil (vilo)  
@@ -3103,6 +3107,7 @@ Wenezuela - Venezuela
 Wenus - venus  
 Wenzhou - venjou  
 weranda, balkon, taras, ganek - berande  
+wermut - vermute  
 wersja (wariacja, edycja, wydanie) - versione  
 wesoły, ucieszony - suki  
 wesprzeć (wzmocnić, zasilić) - mayforta  
@@ -3452,7 +3457,7 @@ znak, trop - marke
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
 znowu (ponownie) - reyo  
 znudzony - bori  
-zombie, zombi - zombe  
+zombie, zombi - zombi*  
 zoo (ogród zoologiczny) - hevanparke  
 zostawić (zostawiać) - shante  
 zostać, zostawać - restu  

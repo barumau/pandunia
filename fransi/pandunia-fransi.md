@@ -265,6 +265,7 @@ eme - élément (unité fondamentale)
 emoje - émoticône (emoji)  
 emose - émotion  
 emoshale - humeur  
+englofoni - anglophone  
 englomargarite - pâquerette  
 esa - être  
 eskaltane - vigne  
@@ -301,7 +302,9 @@ fotofrika - poli
 fotografe - photographie  
 fotografia - photographie  
 fotominare - fanal (balise)  
-fransi krepe - crêpe  
+franci krepe - crêpe  
+francofoni - francophone  
+Francofonia - francophonie  
 freme - cadre  
 fule - fleur  
 fungonete - mycélium  
@@ -443,6 +446,7 @@ kamise - chemise
 kamisi shake - manche  
 kanape - canapé (sofa)  
 kanche - verre  
+kangaru - kangourou  
 kanione - canyon (ravin)  
 kanove - canoë  
 kansuygase - gaz lacrymogène  
@@ -478,6 +482,7 @@ kitaba - écrire
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomashine - machine à écrire  
+kiwi* - kiwi  
 klari - clair  
 kliene - client  
 klimomute - changement climatique  
@@ -829,6 +834,8 @@ senter - tentacule
 sere - scie  
 seti - sept (7)  
 shalke - échelle  
+Shampan - Champagne  
+Shampan vine - Champagner  
 shante - repos  
 shanti - calme (tranquille)  
 sharke - requin  
@@ -868,6 +875,7 @@ sirplane - complot (conspiration)
 sisi - six (6)  
 site - ville  
 socia - société  
+sofa* - canapé (sofa)  
 solchate - ombrelle (parasol)  
 sole - soleil  
 solfule - Tournesol  
@@ -962,6 +970,7 @@ Venezuela - Venezuela
 venjovoranje - mandarine satsuma  
 veri - vrai  
 verme - ver  
+vermute - vermouth  
 vespe - abeille ou guêpe  
 vesponizde - ruche (nid d'abeille)  
 vida - voir  
@@ -981,7 +990,7 @@ washurse - raton laveur
 ##y
 yamnide - faim  
 yesho - encore  
-yesus - Jésus  
+Yesu - Jésus  
 yongopetre - lave  
 yongosaha - fondu  
 yongu - melt  
@@ -1003,7 +1012,7 @@ zeze - mouche
 zime - hiver  
 zimi - hivernal (hibernal)  
 zinje - gingembre  
-zombe - zombi  
+zombi* - zombi  
 zone - zone  
 zonge - pieu (poteau)  
 zongominte - menthe verte  

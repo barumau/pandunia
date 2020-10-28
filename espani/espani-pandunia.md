@@ -497,7 +497,7 @@ canal (cauce, acequia) - kanale
 cancelar - nolisa  
 canción - chante  
 candela (unidad de intensidad luminosa) - kandele  
-canguro - kangure  
+canguro - kangaru  
 cannabis (hachís, marihuana) - ganje  
 canoa - kanove  
 cansarse (fatigar) - fatigu  
@@ -590,6 +590,8 @@ cesio - cesem
 cesta (canasta, barquilla, aro) - baske  
 chacal - shakale  
 Chad - Chade  
+champagne - Shampan vine  
+Champaña - Shampan  
 champiñón (seta) - fungopale  
 champú - keshosabune  
 chamán (brujo, hechicero) - shamane  
@@ -807,7 +809,7 @@ creer - shina
 crema - kreme  
 cremallera - zipe  
 cremoso - kremi  
-crepa (crep, tortilla de trigo) - fransi krepe  
+crepa (crep, tortilla de trigo) - franci krepe  
 creyente - diniste  
 criado (sirviente) - server  
 criar - jenisa  
@@ -1314,8 +1316,8 @@ fotografía - fotografia
 fotógrafo - fotografer  
 fracaso - shibaye  
 fragmento (pedazo) - parche  
-Francia - Fransia  
-francio - fransem  
+Francia - Francia  
+francio - francem  
 francotirador - justopaver  
 frecuencia - changia  
 frecuentemente - chango  
@@ -1707,7 +1709,7 @@ jazmín - malike
 jazz - jaze  
 jefe - shefe  
 Jersey - Jersi  
-Jesús - yesus  
+Jesús - Yesu  
 jira (pícnic) - vayoyame  
 jirafa - jirafe  
 joder (coger, copular) - choda  
@@ -1749,7 +1751,7 @@ kilograma - kilgram
 kilometre - kilmitre  
 Kirguizistán - Kirgizia  
 Kiribati - Kiribati  
-kiwi fruta - kive  
+kiwi fruta - kiwi*  
 konkani - konkani  
 Kosovo - Kosovo  
 kumquat (quinoto) - auroranje  
@@ -2441,7 +2443,7 @@ peligro - hatre
 peligroso - hatri  
 pelo - keshe  
 película (film, membrana) - filme  
-película (filme) - kingrafe  
+película (filme) - kinografe  
 pena (tristeza) - duke  
 pene - penise  
 pensar - fikra  
@@ -2551,7 +2553,7 @@ poli- - polo
 policía - polise  
 policía - poliser  
 poliedro - polfase  
-Polinesia Francesa - Fransi Polnesia  
+Polinesia Francesa - Franci Polnesia  
 politeísmo - poldevistia  
 pollo - kokode  
 Polonia - Polske  
@@ -2777,7 +2779,7 @@ repuesta (contestación) - javabe
 República Centroafricana - Jungi Afrika  
 República Checa - Chehia  
 República del Congo - Brazavile Kongo  
-República Democrática del Congo - Kinsasa Kongo  
+República Democrática del Congo - Kinshasa Kongo  
 República Árabe Saharaui Democrática - Sahravia  
 reservar - rezerva  
 resfriado (catarro) - zukame  
@@ -2992,6 +2994,7 @@ socialista - sociste
 sociedad - socia  
 sodio - natre  
 sofá - kanape  
+sofá - sofa*  
 sogún - shogune  
 sol - sole  
 Solamilandia - Somalilandia  
@@ -3088,7 +3091,7 @@ tapón (tapa) - tape
 tarde (después de mediodía) - shamden  
 tarjeta (carta) - karde  
 tasa (precio, cuota, tarifa) - takse  
-tatuaje - tatave  
+tatuaje - tatu*  
 taxi (cab) - taksogare  
 Tayikistán - Tajikia  
 taza de café - kafkope  
@@ -3319,6 +3322,7 @@ verde limón - limonlugi
 verduras - coy  
 vergüenza (pena) - sharme  
 verme - verme  
+vermú - vermute  
 verruga - zeyile  
 versión (modelo) - versione  
 vertical - gavtali  
@@ -3401,7 +3405,7 @@ zapato - sapate
 zigurat - zikure  
 zigzag - zigzage  
 Zimbabue - Zimbabve  
-zombi - zombe  
+zombi - zombi*  
 zoo - hevanparke  
 zoroastriano - zardushiste  
 zoroastrismo - zardushistia  

@@ -743,6 +743,7 @@ energe - energy
 engli - English  
 Englia - England  
 englofiler - anglophile  
+englofoni - anglophone (English speking)  
 englokitaba - anglicize  
 englomargarite - English daisy  
 eni - any (no matter which)  
@@ -770,6 +771,7 @@ eskulte - sculpture (statue)
 eskulter - sculptor  
 eskultia - sculpture (art of sculpting)  
 Espania - Spain  
+espanofoni - hispanophone (Spanish speaking)  
 esperanti - Esperanto  
 esponje - sponge  
 esprinta - run (sprint)  
@@ -919,10 +921,12 @@ fotografia - photography
 fotografmashine - camera  
 fotominare - beacon (lighthouse)  
 fotorade - ray of light  
-fransem - francium  
-fransi krepe - crepe  
-Fransi Polnesia - French Polynesia  
-Fransia - France  
+francem - francium  
+franci krepe - crepe  
+Franci Polnesia - French Polynesia  
+Francia - France  
+francofoni - Francophone (French speaking)  
+Francofonia - Francophonie  
 freme - frame  
 frika - rub (scrape, scrub)  
 fuga - return (restore, recover, resume)  
@@ -1457,8 +1461,8 @@ kanchodaka - glaze (vitrify)
 kanchodake - glazing (enamel)  
 kande - candy (sweets)  
 kandele - candela  
+kangaru - kangaroo  
 kange - comb  
-kangure - cangaroo  
 kanione - canyon (ravine, gorge, gully)  
 kanjare - dagger  
 kankeshe - eyelash  
@@ -1566,11 +1570,11 @@ kimi - chemical
 kimlojia - chemistry  
 kina - move (transfer, change place)  
 kine - movement  
-kingrafe - movie (cinema)  
-kingrafi - cinematic  
-kingrafia - cinematography  
 kini - kinetic  
-Kinsasa Kongo - Congo Kinshasa  
+kinografe - movie (cinema)  
+kinografi - cinematic  
+kinografia - cinematography  
+Kinshasa Kongo - Congo Kinshasa  
 kioske - kiosk  
 Kipris - Cyprus  
 kirate - carat  
@@ -1585,7 +1589,7 @@ kitabia - library
 kitabomashine - typewriter  
 kitabominister - librarian  
 kitaborupe - formatting  
-kive - kiwi fruit  
+kiwi* - kiwi fruit  
 klara - clarify (clear up)  
 klari - clear (obvious)  
 klaro - of course (obviously)  
@@ -2620,6 +2624,7 @@ pornografia - pornography
 porte - port (station)  
 Porto Riko - Puerto Rico  
 Portugal - Portugal  
+portugalofoni - lusophone (Portuguese speaking)  
 pospore - phosphorus  
 posta - mail (send by mail)  
 poste - mail  
@@ -2955,6 +2960,8 @@ shalke - scale (flake)
 shamane - shaman  
 shamden - afternoon  
 shame - evening  
+Shampan - Champagne  
+Shampan vine - champagne  
 shamyame - dinner  
 shane - mountain (hill)  
 Shanghai - Shanghai  
@@ -3087,6 +3094,7 @@ soci media - social media
 socia - society (association)  
 sociste - socialist  
 socistia - socialism  
+sofa* - sofa (couch)  
 sofi - wise  
 sofia - wisdom  
 soke - sock (stocking)  
@@ -3211,9 +3219,9 @@ tarja - translate (interpret)
 tarje - translation (interpretation)  
 tarjer - interpreter (translator)  
 tase - dish  
-tatave - tattoo  
 tate - shore (bank, edge)  
 tatike - tactics (strategy)  
+tatu* - tattoo  
 tave - frying pan  
 tayi - Thai  
 tayia - Thailand  
@@ -3439,6 +3447,7 @@ venus - Venus
 vera - verify (authenticate)  
 veri - true (real, genuine, very, indeed)  
 verme - worm  
+vermute - vermouth  
 versione - version (variation, edition)  
 vespe - bee or wasp  
 vesponizde - bee nest (beehive, wasp's nest)  
@@ -3501,6 +3510,7 @@ washa - wash
 Washington DC - Washington D.C.  
 washomashine - washing machine  
 washurse - raccoon  
+wiski* - whisky (whiskey)  
 ##x
 xenon - xenon  
 ##y
@@ -3524,7 +3534,7 @@ yehudi - Jewish
 yehudistia - Judaism  
 yemenia - Yemen  
 yesho - still (yet)  
-yesus - Jesus  
+Yesu - Jesus  
 yey - yay! (yeah!)  
 yeze - coconut tree  
 yi - this (these)  
@@ -3597,7 +3607,7 @@ zipe - zipper
 zire - cumin (jeera)  
 zirkonem - zirconium  
 ziza - sizzle  
-zombe - zombie  
+zombi* - zombie  
 zone - belt (zone)  
 zonga - impale (stab, skewer)  
 zonge - post (stake, peg, skewer)  

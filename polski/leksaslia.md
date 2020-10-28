@@ -636,7 +636,7 @@
 |**kioske**|kiosk|fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|
 |**kire**|wynająć, wynajmować, zatrudnić, zatrudniać|ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|
 |**kitabe**|pismo, tekst|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
-|**kive**|owoc kiwi|eng:kiwi|
+|**kiwi***|owoc kiwi|eng:fra:spa:may:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi|
 |**klari**|przeźroczysty, jasny|deu:klar, spa:por:claro, eng:clear, fra:clair|
 |**klase**|klasa, kategoria|eng:class, spa:clase, por:fra:classe, rus:класс (klass), کلاس‎ (kelâs), may:kelas, jpn:クラス (kurasu)|
 |**klime**|klimat|ell:κλίμα (eklíma), spa:por:clima, ara:(ʾiqlīm), may:tur:iklim, eng:climate, rus:климат (klimat)|
@@ -1241,6 +1241,7 @@
 |**site**|miast, miasteczko|eng:city, fra:cité, + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**sivili**|cywilizowany (ucywilizowany)|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**socia**|społeczeństwo, system społeczny|rus:социум (socium), eng:society, spa:sociedad|
+|**sofa***|sofa (kanapa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|mądrość|ell:σοφία (sofía)|
 |**soke**|skarpeta, skarpetka, pończocha|deu:Socke, eng:sock, swa:soksi, zul:isokisi, jpn:ソックス (sokkusu), rus:носок (nosok)|
 |**sole**|słońce|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
@@ -1287,9 +1288,9 @@
 |**tarife**|opłata, taryfa|eng:tariff, spa:por:tarifa, deu:fra:tur:tarif, ara:(taʿrīf), rus:тариф (tarif), hin:टैरिफ़ (ṭairif)|
 |**tarje**|tłumaczenie, interpretacja|ara:(tarjama), hin:तर्जुमा (tarjuma), urd:(tarjuma), ben:তর্জমা (tôrjôma), may:terjemah, tur:tercüme|
 |**tase**|danie|rus:таз, ara:طشت‎ (ṭašt)|
-|**tatave**|tatuaż|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
 |**tate**|wybrzeże (brzeg, krawędź)|hin:तट (taṭ), ben:তট (taṭ)|
 |**tatike**|taktyka, strategia|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|
+|**tatu***|tatuaż|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
 |**tave**|patelnia|hin:तवा (tavā), tur:tava, fas:(tābe)|
 |**tazi**|świeży|tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|
 |**te**|ty, ciebie|fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|
@@ -1436,7 +1437,7 @@
 |**zipe**|zamek błyskawiczny|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
 |**zire**|kumin, kmin|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|
 |**ziza**|skwierczeć|zho:zizi eng:sizzle|
-|**zombe**|zombie, zombi|kon:nzambi, por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
+|**zombi***|zombie, zombi|kon:nzambi, por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
 |**zone**|pas, strefa|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |**zonge**|słup (pal, kołek)|zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|
 |**zuke**|grupa etniczna|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|

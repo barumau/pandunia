@@ -373,6 +373,7 @@ kanape - 沙发
 kanche - 玻璃  
 kanchodake - 釉  
 kande - 糖果  
+kangaru - 袋鼠  
 kanione - 峡谷 (深谷)  
 kansuygase - 催泪瓦斯  
 kantalupomelone - 鈔皮瓜  
@@ -407,6 +408,7 @@ kimlojia - 化学
 kitaba - 写  
 kitabia - 图书馆  
 kitabomashine - 打字机  
+kiwi* - 奇异果  
 kliene - 顾客  
 klimomute - 气候变化  
 ko - 比  
@@ -757,6 +759,7 @@ sirplane - 阴谋 (密谋)
 sisi - 六 (6)  
 soci jinse - 社會性別  
 socia - 社会  
+sofa* - 沙发  
 sole - 太阳  
 solfule - 向日葵  
 solsisteme - 太阳系  

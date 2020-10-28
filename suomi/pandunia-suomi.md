@@ -602,6 +602,7 @@ energe - energia
 engli - englanti  
 Englia - Englanti  
 englofiler - anglofiili  
+englofoni - englantia puhuva (anglofoni)  
 englokitaba - englannistaa  
 eni - mikä tahansa  
 enzime - entsyymi  
@@ -625,6 +626,7 @@ eskulte - veistos (patsas)
 eskulter - kuvanveistäjä  
 eskultia - kuvanveisto  
 Espania - Espanja  
+espanofoni - espanjaa puhuva  
 esperanti - esperanto  
 estadia - stadioni (areena)  
 estane - tina  
@@ -750,10 +752,12 @@ fotografer - valokuvaaja
 fotografia - valokuvaus  
 fotografmashine - kamera  
 fotorade - valonsäde  
-fransem - fransium  
-fransi krepe - kreppi  
-Fransi Polnesia - Ranskan Polynesia  
-Fransia - Ranska  
+francem - fransium  
+franci krepe - kreppi  
+Franci Polnesia - Ranskan Polynesia  
+Francia - Ranska  
+francofoni - ranskaa puhuva (frankofoni)  
+Francofonia - ranskankielinen maailma  
 fuga - palauttaa  
 fuka - pukea  
 fuke - vaate (puku)  
@@ -1193,8 +1197,8 @@ kanape - sohva
 kanche - lasi  
 kande - makeinen (karkki, karamelli)  
 kandele - kandela  
+kangaru - kenguru  
 kange - kampa  
-kangure - kenguru  
 kanjare - tikari  
 kankeshe - silmäripsi  
 kanove - kanootti  
@@ -1276,7 +1280,7 @@ kimi - kemikaali
 kimlojia - kemia  
 kina - liikuttaa  
 kine - liike  
-Kinsasa Kongo - Kinshasan Kongo  
+Kinshasa Kongo - Kinshasan Kongo  
 kioske - kioski  
 Kipris - Kypros  
 kirate - karaatti  
@@ -1290,7 +1294,7 @@ kitabe - kirjoitus (teksti)
 kitabia - kirjasto  
 kitabomashine - kirjoituskone  
 kitaborupe - tekstin muotoilu  
-kive - kiivi  
+kiwi* - kiivi  
 klara - selkeyttää (selittää)  
 klari - selvä (selkeä)  
 klaro - tietysti (selvästi)  
@@ -2141,6 +2145,7 @@ pornografia - pornografia
 porte - asema (satama, lentokenttä)  
 Porto Riko - Puerto Rico  
 Portugal - Portugali  
+portugalofoni - portugalia puhuva  
 pospore - fosfor  
 posta - postittaa  
 poste - posti (postilähetys)  
@@ -2413,6 +2418,7 @@ shale - huivi (šaali)
 shamane - šamaani  
 shamden - iltapäivä  
 shame - ilta  
+Shampan vine - ĉampano  
 shamyame - illallinen  
 shane - vuori (mäki)  
 shante - lepo  
@@ -2517,6 +2523,7 @@ soci media - sosiaalinen media
 socia - seura  
 sociste - sosialisti  
 socistia - sosialismi  
+sofa* - sohva  
 sofi - viisas  
 sofia - viisaus  
 soke - sukka  
@@ -2614,8 +2621,8 @@ tarja - tulkata (kääntää)
 tarje - käännös (tulkinta)  
 tarjer - tulkki (kääntäjä)  
 tase - astia (kulho)  
-tatave - tatuointi  
 tatike - taktiikka  
+tatu* - tatuointi  
 tave - pannu (paistinpannu)  
 tayi - thai  
 tayia - Thaimaa  
@@ -2795,6 +2802,7 @@ veki - olla hereillä
 Venezuela - Venezuela  
 veri - tosi (aito)  
 verme - mato  
+vermute - vermutti  
 versione - versio  
 vespe - mehiläinen tai ampiainen  
 veste - länsi  
@@ -2867,7 +2875,7 @@ yehudi - juutalainen
 yehudistia - juutalaisuus  
 yemenia - Jemen  
 yesho - vielä (yhä)  
-yesus - Jeesus  
+Yesu - Jeesus  
 yey - jee! (hurraa!)  
 yeze - kookos  
 yi - tämä (nämä)  
@@ -2927,7 +2935,7 @@ zipe - vetoketju
 zire - juustokumina (jeera)  
 zirkonem - zirkonium  
 ziza - sihistä  
-zombe - zombi  
+zombi* - zombi  
 zone - vyö  
 zukame - vilustuminen  
 zuke - kansanryhmä (etninen ryhmä)  

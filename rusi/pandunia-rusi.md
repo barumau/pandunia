@@ -401,6 +401,7 @@ kanape - канапе
 kanche - стекло  
 kanchodaka - глазуровать  
 kanchodake - глазурь  
+kangaru - кенгуру  
 kanione - овраг (ущелье, каньон)  
 kanjare - кинжал  
 kanove - каноэ  
@@ -431,12 +432,13 @@ kenarbaryer - забор (ограда)
 kime - вещество  
 kimeme - химический элемент  
 kimlojia - химия  
-kingrafe - фильм (кино)  
+kinografe - фильм (кино)  
 kitaba - писать  
 kitabe - письмо  
 kitabia - библиотека  
 kitabomashine - пишущая машинка  
 kitabominister - библиотекарь  
+kiwi* - киви  
 kliene - клиент (покупатель, зака́зчик)  
 klime - климат  
 klimomute - изменение климата  
@@ -765,6 +767,8 @@ serame - керамика
 sere - пила  
 seti - семь (7)  
 shalke - чешуя  
+Shampan - Шампань  
+Shampan vine - champanhe  
 shante - отдых  
 shanti - спокойный  
 sharke - акула  
@@ -805,6 +809,7 @@ sisi - шесть (6)
 slavi - славянский  
 soci jinse - гендер  
 socia - общество (социум)  
+sofa* - софа (диван, канапе)  
 soke - носок  
 solchate - зонтик от солнца  
 sole - солнце  
@@ -836,7 +841,7 @@ talteshe - ковёр
 tane - стебель  
 tarje - перевод  
 tase - блюдо (таз)  
-tatave - татуировка (тату)  
+tatu* - татуировка (тату)  
 tazi - свежий  
 te - ты  
 tehne - техника  
@@ -899,6 +904,7 @@ venda - продать
 vendoshopa - обмениваться  
 venjovoranje - мандарин уншиу  
 veri - верный  
+vermute - вермут  
 vestogorile - западная горилла  
 vida - видеть  
 vider - зрительница  
@@ -921,7 +927,7 @@ washurse - енот
 yamnide - голод  
 yemenia - Йемен  
 yesho - ещё  
-yesus - Иисус  
+Yesu - Иисус  
 yoge - йога  
 yohani feste - Иванов день  
 yuke - нефрит (жад)  

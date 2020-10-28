@@ -301,6 +301,7 @@ energia - energe
 englannistaa - englokitaba  
 englanti - engli  
 Englanti - Englia  
+englantia puhuva (anglofoni) - englofoni  
 enimmäis- - mayimi  
 eniten - mayim (mayimo)  
 ennen (aikaisemmin, aiemmin) - pas (paso)  
@@ -324,6 +325,7 @@ esimerkiksi - misalo
 esimerkki - misale  
 esine (tavara) - vute  
 Espanja - Espania  
+espanjaa puhuva - espanofoni  
 esperanto - esperanti  
 essee - eseye  
 este - baryer  
@@ -367,7 +369,7 @@ fluori - flure
 fonologia (äänneoppi) - fonlojia  
 foorumi - forum (forume)  
 fosfor - pospore  
-fransium - fransem  
+fransium - francem  
 fuusio (yhteensulautuminen) - livunise  
 fysiikka - fizike  
 fysiikka - fizikia  
@@ -673,7 +675,7 @@ jatkua - kontinu
 jauhaa - mola  
 jazz (jatsi) - jaze  
 jee! (hurraa!) - yey  
-Jeesus - yesus  
+Jeesus - Yesu  
 Jemen - yemenia  
 Jersey - Jersi  
 jo (tehty teko) - levo  
@@ -864,7 +866,7 @@ keltainen - limonrangi
 kelvin (K) - kelvine  
 kemia - kimlojia  
 kemikaali - kimi  
-kenguru - kangure  
+kenguru - kangaru  
 Kenia - Kenya  
 kenkä - sapate  
 kenttä (aukio) - maidane  
@@ -920,14 +922,14 @@ kiirehtiä - yala
 kiireinen - bizi  
 kiitos - danke  
 kiittää - danka  
-kiivi - kive  
+kiivi - kiwi*  
 kikherne - humuse  
 kilogramma - kilgram  
 kilometri - kilmitre  
 kilpikonna - tortuge  
 kiltti - jentili  
 kineettinen (liike-) - kini  
-Kinshasan Kongo - Kinsasa Kongo  
+Kinshasan Kongo - Kinshasa Kongo  
 kioski - kioske  
 kipu (tuska) - pashia  
 kipu - tunge  
@@ -1021,7 +1023,7 @@ koulu (opisto) - darsia
 kova - gati  
 Kreikka - Helenia  
 kreikkalainen - heleni  
-kreppi - fransi krepe  
+kreppi - franci krepe  
 kreppikoju - kreperia  
 kriisi (käännekohta) - krize  
 kriittinen (kriisi-) - krizi  
@@ -1909,6 +1911,7 @@ pornografia - pornografia
 porras (aste, taso) - darje  
 portaat (rappuset, tikkaat) - eskale  
 Portugali - Portugal  
+portugalia puhuva - portugalofoni  
 posti (postilähetys) - poste  
 postileima - postochape  
 postitoimisto - postia  
@@ -2014,9 +2017,11 @@ rakentaa - bina
 raketti - rokete  
 rakkaus (tykkääminen) - ame  
 ramadan - ramazan  
-Ranska - Fransia  
+Ranska - Francia  
+ranskaa puhuva (frankofoni) - francofoni  
 Ranskan Guiana - Giyana  
-Ranskan Polynesia - Fransi Polnesia  
+Ranskan Polynesia - Franci Polnesia  
+ranskankielinen maailma - Francofonia  
 raportoida (selostaa) - reporta  
 raportti (selostus, selonteko) - reporte  
 rapu (taskurapu) - krabe  
@@ -2257,6 +2262,7 @@ Slovakia - Slovakia
 Slovenia - Slovenia  
 smaragdi - zumurude  
 sohva - kanape  
+sohva - sofa*  
 soihtu - fotobatone  
 soittaa (musisoida) - musika  
 sokeri - shukare  
@@ -2432,7 +2438,7 @@ tasainen (tasavertainen) - pari
 tasavalta - komunkratia  
 tasku - jebe  
 taso - pare  
-tatuointi - tatave  
+tatuointi - tatu*  
 tauko (keskeytys, paussi) - pauze  
 taulukko - table  
 taulukoida - tabla  
@@ -2756,6 +2762,7 @@ verho (huntu, peite) - hijabe
 verhot - parde  
 veri - sange  
 verkko - nete  
+vermutti - vermute  
 versio - versione  
 vertainen - parike  
 vesi - suy (suye)  
@@ -2931,7 +2938,7 @@ zarathustralaisuus - zardushistia
 zikkurat - zikure  
 Zimbabwe - Zimbabve  
 zirkonium - zirkonem  
-zombi - zombe  
+zombi - zombi*  
 zulu - zuli  
 äidinkieli - jeni bashe  
 äiti (emä) - mame  
@@ -2946,6 +2953,7 @@ zulu - zuli
 äänne (fooni) - fone  
 ääntää (lausua) - fona  
 ääntää - sonda  
+ĉampano - Shampan vine  
 šakaali - shakale  
 šakki - shatranje  
 šamaani - shamane  

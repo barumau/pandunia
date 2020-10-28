@@ -577,7 +577,7 @@
 |**kioske**|kioski|persia:کوشک‎ (kôšk), englanti:turkki:kiosk, espanja:quiosco, portugali:quiosque, venäjä:киоск (kiosk), hindi:कीओस्क (kīosk), malaiji:kios, japani:キオスク (kiosuku)|
 |**kire**|vuokra|arabia:(kirāʾ), turkki:kira, hindi:किराया (kirāyā), urdu:(kirāyā), persia:(kerāya), espanja:alquiler|
 |**kitabe**|kirjoitus (teksti)|arabia:urdu:(kitāb), persia:(ketâb), turkki:kitap, malaiji:kitab, suahili:kitabu, hindi:किताब (kitāb)|
-|**kive**|kiivi|englanti:kiwi|
+|**kiwi***|kiivi|englanti:ranska:espanja:malaiji:kiwi, portugali:quivi, japani:キーウィ (kīwi), korea:키위 (kiwi), hindi:कीवी (kīvī), turkki:kivi|
 |**klari**|selvä (selkeä)|deu:klar, espanja:portugali:claro, englanti:clear, ranska:clair|
 |**klase**|luokka (kategoria)|englanti:class, espanja:clase, portugali:ranska:classe, venäjä:класс (klass), کلاس‎ (kelâs), malaiji:kelas, japani:クラス (kurasu)|
 |**klime**|ilmasto|kreikka:κλίμα (eklíma), espanja:portugali:clima, arabia:(ʾiqlīm), malaiji:turkki:iklim, englanti:climate, venäjä:климат (klimat)|
@@ -1120,6 +1120,7 @@
 |**site**|suurkaupunki|englanti:city, ranska:cité, + yleiskiina:市 (shì), korea:시 (si), japani:都市 (toshi)|
 |**sivili**|sivistynyt|englanti:civil, portugali:civil, hindi:सिविल (sivil), malaiji:sipil|
 |**socia**|seura|venäjä:социум (socium), englanti:society, espanja:sociedad|
+|**sofa***|sohva|englanti:ranska:sofa, espanja:portugali:sofá, venäjä:софа (sofa), yleiskiina:沙发 (shāfā), japani:ソファ (sofa), korea:소파 (sopa), hindi:सोफ़ा (sofā)|
 |**sofia**|viisaus|kreikka:σοφία (sofía)|
 |**soke**|sukka|deu:Socke, englanti:sock, suahili:soksi, zulu:isokisi, japani:ソックス (sokkusu), venäjä:носок (nosok)|
 |**sole**|aurinko|espanja:portugali:sol, ranska:soleil, + hindi:सौर (sOr), telugu:(saur)|
@@ -1159,8 +1160,8 @@
 |**tarife**|taksa (tariffi)|englanti:tariff, espanja:portugali:tarifa, deu:ranska:turkki:tarif, arabia:(taʿrīf), venäjä:тариф (tarif), hindi:टैरिफ़ (ṭairif)|
 |**tarje**|käännös (tulkinta)|arabia:(tarjama), hindi:तर्जुमा (tarjuma), urdu:(tarjuma), bangla:তর্জমা (tôrjôma), malaiji:terjemah, turkki:tercüme|
 |**tase**|astia (kulho)|venäjä:таз, arabia:طشت‎ (ṭašt)|
-|**tatave**|tatuointi|sam:tah:tatau, haw:kākau, malaiji:tato, englanti:tattoo, ranska:tatouage, espanja:tatuaje, venäjä:тату (tatu)|
 |**tatike**|taktiikka|portugali:tática, italia:tattica, englanti:tactic, venäjä:тактика (taktika), deu:Taktik|
+|**tatu***|tatuointi|sam:tah:tatau, haw:kākau, malaiji:tato, englanti:tattoo, ranska:tatouage, espanja:tatuaje, venäjä:тату (tatu)|
 |**tave**|pannu (paistinpannu)|hindi:तवा (tavā), turkki:tava, persia:(tābe)|
 |**tazi**|tuore (raikas)|turkki:taze, hindi:ताज़ा (tāzā), bangla:তাজা (taja), persia:(tâze)|
 |**te**|sinä|ranska:portugali:espanja:tu, hindi:तू (tū), venäjä:ты (ty)|
@@ -1296,7 +1297,7 @@
 |**zipe**|vetoketju|englanti:zipper, bangla:জিপার (jipar), hindi:ज़िपर (zipar), japani:ジッパー (jippā), korea:지퍼 (jipeo), thai:ซิป (síp), persia:urdu:(zip)|
 |**zire**|juustokumina (jeera)|bangla:জিরা (zīra), hindi:ज़ीरा (zīrā), tamili:சீரகம் (sīrakam), suahili:mjira, persia:(zire), yleiskiina:孜然 (zīrán)|
 |**ziza**|sihistä|yleiskiina:zizi englanti:sizzle|
-|**zombe**|zombi|Kongo:nzambi, portugali:zumbi, englanti:zombi, malaiji:zombi, hindi:ज़ोंबी (zombī)|
+|**zombi***|zombi|Kongo:nzambi, portugali:zumbi, englanti:zombi, malaiji:zombi, hindi:ज़ोंबी (zombī)|
 |**zone**|vyö|kreikka:ζώνη (zónē), englanti:ranska:zone, espanja:portugali:zona, venäjä:зона (zona)|
 |**zuke**|kansanryhmä (etninen ryhmä)|yleiskiina:族 (zú), kantoninkiina:族 (zuk6), japani:族 (zoku), korea:족 (jok), vietnami:tộc|
 |**zumurude**|smaragdi|persia:(zomorrod), turkki:zümrüt, arabia:(zumurrud), malaiji:zamrud, venäjä:изумруд (izumrud), suahili:zumaridi, yleiskiina:祖母绿 (zǔmǔlǜ)|

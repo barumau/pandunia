@@ -451,7 +451,7 @@
 |**kerne**|kerno (koro)|angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)|
 |**keshe**|haro|japana:毛 (ke), hindia:केश (keś), urdua:(keś), panĝaba:ਕੇਸ਼ (keś), teluga:(kēśamu), kanara:(kēśa)|
 |**kitabe**|skribo|araba:urdua:(kitāb), persa:(ketâb), turka:kitap, malaja:kitab, svahila:kitabu, hindia:किताब (kitāb)|
-|**kive**|kivo|angla:kiwi|
+|**kiwi***|kivo|angla:franca:hispana:malaja:kiwi, portugala:quivi, japana:キーウィ (kīwi), korea:키위 (kiwi), hindia:कीवी (kīvī), turka:kivi|
 |**klari**|klara|deu:klar, hispana:portugala:claro, angla:clear, franca:clair|
 |**klime**|klimato|greka:κλίμα (eklíma), hispana:portugala:clima, araba:(ʾiqlīm), malaja:turka:iklim, angla:climate, rusa:климат (klimat)|
 |**klone**|klono|en:portugala:franca:clone, hispana:clon rusa:клон (klon), malaja:klon, japana:クローン (kurōn)|
@@ -791,6 +791,7 @@
 |**sisteme**|sistemo|angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem|
 |**site**|urbego|angla:city, franca:cité, + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)|
 |**socia**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
+|**sofa***|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
 |**sofia**|saga|greka:σοφία (sofía)|
 |**soke**|ŝtrumpo|deu:Socke, angla:sock, svahila:soksi, zulua:isokisi, japana:ソックス (sokkusu), rusa:носок (nosok)|
 |**sole**|suno|hispana:portugala:sol, franca:soleil, + hindia:सौर (sOr), teluga:(saur)|
@@ -819,7 +820,7 @@
 |**tanure**|forno|persa:heb:tanur, araba:(tannūr), angla:tandoor, athanor, turka:tandır, hindia:तनूर (tanūr), urdua:(tanūr), panĝaba:ਤੰਦੂਰ (tandūr)|
 |**tarje**|traduko|araba:(tarjama), hindia:तर्जुमा (tarjuma), urdua:(tarjuma), bengala:তর্জমা (tôrjôma), malaja:terjemah, turka:tercüme|
 |**tase**|plado|rusa:таз, araba:طشت‎ (ṭašt)|
-|**tatave**|tatuo|sam:tah:tatau, haw:kākau, malaja:tato, angla:tattoo, franca:tatouage, hispana:tatuaje, rusa:тату (tatu)|
+|**tatu***|tatuo|sam:tah:tatau, haw:kākau, malaja:tato, angla:tattoo, franca:tatouage, hispana:tatuaje, rusa:тату (tatu)|
 |**tave**|pato|hindia:तवा (tavā), turka:tava, persa:(tābe)|
 |**tazi**|freŝa|turka:taze, hindia:ताज़ा (tāzā), bengala:তাজা (taja), persa:(tâze)|
 |**te**|vi (ci)|franca:portugala:hispana:tu, hindia:तू (tū), rusa:ты (ty)|

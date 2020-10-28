@@ -51,6 +51,7 @@ analyser - analiza
 ancre - anker  
 Andes - andes  
 andésite - andesite  
+anglophone - englofoni  
 Angola - Angola  
 animal (bête) - hevane  
 animation - anime  
@@ -184,6 +185,7 @@ calme (tranquille) - shanti
 Camomille Romaine - romkamile  
 Camomille sauvage - kamile  
 canapé (sofa) - kanape  
+canapé (sofa) - sofa*  
 Canne à sucre - shukargrase  
 canon - daypave  
 canoë - kanove  
@@ -206,6 +208,8 @@ centre - junge
 cerise - cherize  
 chachlik - shishmanse  
 chambre à coucher - sonkamare  
+Champagne - Shampan  
+Champagner - Shampan vine  
 champignon - fungopale  
 chance - chanse  
 changement climatique - klimomute  
@@ -293,7 +297,7 @@ croix - kruse
 croyant - diniste  
 crème - kreme  
 crème glacée - aiskrem  
-crêpe - fransi krepe  
+crêpe - franci krepe  
 crêpe - krepe  
 crêperie - kreperia  
 cube - kube  
@@ -399,6 +403,8 @@ fougères - parne
 fourmi - maye  
 fragment - parche  
 frais - tazi  
+francophone - francofoni  
+francophonie - Francofonia  
 fromage - chise  
 fromage blanc - panire  
 féliciter - barka  
@@ -475,8 +481,10 @@ jus - juse
 jusque (jusqu’à) - ata  
 juste - adali  
 justice - adalia  
-Jésus - yesus  
+Jésus - Yesu  
 ##k
+kangourou - kangaru  
+kiwi - kiwi*  
 kumquat - auroranje  
 ##l
 lac - lage  
@@ -932,6 +940,7 @@ vendredi - var 5 (var limi)
 Venezuela - Venezuela  
 ver - verme  
 verbe - karloge  
+vermouth - vermute  
 verre - kanche  
 verre coloré - rangi kance  
 verrue - zeyile  
@@ -966,7 +975,7 @@ wolof - volofi
 ##x
 ##y
 ##z
-zombi - zombe  
+zombi - zombi*  
 zone - zone  
 zoo - hevanparke  
 Zoroastre - zardush  

@@ -108,6 +108,7 @@ Andorra - Andora
 anger (fury, rage, wrath) - furia  
 anglicize - englokitaba  
 anglophile - englofiler  
+anglophone (English speking) - englofoni  
 Angola - Angola  
 angry (furious) - furi  
 animal - hevane  
@@ -493,7 +494,6 @@ cancel (nullify) - nolisa
 candela - kandele  
 candle - mumfote  
 candy (sweets) - kande  
-cangaroo - kangure  
 cannabis (marijuana, ganja, pot, weed) - ganje  
 cannoneer - daypaver  
 canoe - kanove  
@@ -551,6 +551,8 @@ Chad - Chade
 chain - silsile  
 chain mail - silnete  
 chair - kurse  
+Champagne - Shampan  
+champagne - Shampan vine  
 champion - champion (champione)  
 change (alter, convert) - muta  
 change (make different) - ala  
@@ -601,8 +603,8 @@ chromium - kromem
 chum salmon - bakosamone  
 church - eglise  
 cigarette (cigar) - sigare  
-cinematic - kingrafi  
-cinematography - kingrafia  
+cinematic - kinografi  
+cinematography - kinografia  
 circle (round) - cirke  
 citizen - deshrene  
 citrus fruit - migane  
@@ -707,7 +709,7 @@ Confucious - konfuze
 confuse (perplex) - konfusu  
 confused - konfusi  
 Congo (Brazzaville) - Brazavile Kongo  
-Congo Kinshasa - Kinsasa Kongo  
+Congo Kinshasa - Kinshasa Kongo  
 Congolese - kongoli  
 congratulate (bless) - barka  
 congratulations! (blessing) - barke!  
@@ -766,7 +768,7 @@ crafty (dexterous) - jangi
 crash (shut down, terminate) - harabu  
 cream - kreme  
 creamy (cream colored) - kremi  
-crepe - fransi krepe  
+crepe - franci krepe  
 crime - krime  
 criminal - krimi  
 crisis - krize  
@@ -1209,15 +1211,17 @@ fountain (spring, well) - fonte
 four (4) - chari  
 fox - hule  
 frame - freme  
-France - Fransia  
+France - Francia  
 franchise (right to vote) - votohake  
-francium - fransem  
+francium - francem  
+Francophone (French speaking) - francofoni  
+Francophonie - Francofonia  
 free (liberate) - hura  
 free (unchained) - huri  
 freedom (liberty) - huria  
 freeze (get frozen) - aisu  
 French Guiana - Giyana  
-French Polynesia - Fransi Polnesia  
+French Polynesia - Franci Polnesia  
 frequency - changia  
 fresh - tazi  
 Friday - var 5 (var limi)  
@@ -1446,6 +1450,7 @@ Hindu - hindiste
 Hinduism - hindistia  
 hinge (pivot) - sharnire  
 hippopotamus - gubuhe  
+hispanophone (Spanish speaking) - espanofoni  
 historian - historer  
 history (annals) - histore  
 history (study of history) - historia  
@@ -1610,7 +1615,7 @@ jellyfish (seajelly) - hayjele
 Jersey - Jersi  
 Jerusalem - Urushalem  
 Jerusalem artichoke (sunroot) - masmulsolfule  
-Jesus - yesus  
+Jesus - Yesu  
 Jewish - yehudi  
 joint - samune  
 joke - joke  
@@ -1634,6 +1639,7 @@ just (fair) - adali
 just (recently) - novo  
 justice - adalia  
 ##k
+kangaroo - kangaru  
 Kannada - karnadi  
 karaoke - karaoke  
 karate - karate  
@@ -1668,7 +1674,7 @@ kiosk - kioske
 Kiribati - Kiribati  
 kiss - chume  
 kitchen - kukeria  
-kiwi fruit - kive  
+kiwi fruit - kiwi*  
 knead (massage) - masaja  
 knee - gute  
 knife - chake  
@@ -1826,6 +1832,7 @@ loyalty (faithfulness) - nidoshinablia
 luggage (baggage) - bagaje  
 lunch - denyame  
 lung - pulmone  
+lusophone (Portuguese speaking) - portugalofoni  
 lutetium - lutetem  
 Lutheran - lutheristi  
 Lutheranism - lutheristia  
@@ -2056,7 +2063,7 @@ move (migrate, relocate oneself) - migru
 move (migrate, relocate) - migra  
 move (transfer, change place) - kina  
 movement - kine  
-movie (cinema) - kingrafe  
+movie (cinema) - kinografe  
 Mozambique - Mozambike  
 MSG (monosodium glutamate) - vijine  
 mud (mire) - pote  
@@ -2972,6 +2979,7 @@ sock (stocking) - soke
 sockeye salmon - lalsamone  
 sodium - natre  
 sofa (couch) - kanape  
+sofa (couch) - sofa*  
 soft - komali  
 soil (dirt) - darte  
 soily (dirty) - darti  
@@ -3169,7 +3177,7 @@ taste (flavor) - guste
 taste (sense flavor) - gusta  
 taste like - gustu ko  
 tattered (ragged, torn) - chirchiri  
-tattoo - tatave  
+tattoo - tatu*  
 taxi (cab) - taksogare  
 taximeter - taksometer  
 tea - cha*  
@@ -3431,6 +3439,7 @@ veranda (balcony, terrace, porch) - berande
 verb - karloge  
 verbal irony (sarcasm) - logironia  
 verify (authenticate) - vera  
+vermouth - vermute  
 version (variation, edition) - versione  
 vertical - gavtali  
 vice (deputy) - visi  
@@ -3522,6 +3531,7 @@ wheel - chakre
 when? - ki sate  
 where - sa ke  
 which? - ki  
+whisky (whiskey) - wiski*  
 white - baki  
 whitelist - halaloliste  
 who? - ki ren  
@@ -3605,7 +3615,7 @@ zinc - zinke
 zip up - zipa  
 zipper - zipe  
 zirconium - zirkonem  
-zombie - zombe  
+zombie - zombi*  
 zoo (zoological garden) - hevanparke  
 Zoroaster - zardush  
 Zoroastrian - zardushiste  
