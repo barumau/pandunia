@@ -30,8 +30,6 @@ Its words have been borrowed from many languages on all continents and all cultu
 - [Pandunia-English](pandunia-engli.md) dictionary
 - [Origins of words](leksaslia.md) (with [language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 
-- [Your name in Pandunia](ren_da_nam.md)
-
 ## Stories
 
 - [The rich man and the poor man](rici_man_i_miskin_man.md)

@@ -25,8 +25,7 @@ Quelques traits remarquables du pandunia :
 - Dictionnaire [français → pandunia](fransi-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fransi.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
-- Dictionnaire [dynamique](http://www.pandunia.info/english/tiddly.html) (en anglais)
-- [Votre nom en Pandunia](http://pandunia.info/engli/ren_da_nam/) **
+- Dictionnaire [dynamique](http://www.pandunia.info/engli/tiddly.html) (en anglais)
 
 
 ## Articles
