@@ -3,18 +3,24 @@ site_url: http://www.pandunia.info/esperanti
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../esperanti
 site_dir: ../../html/esperanti
-theme: cerulean
+theme: readthedocs
 nav:
     - 'Ĉefpaĝo': 'index.md'
-    - 'Info':
-        - 'Enkonduko': dunia_baxe.md
+    - 'Bazaĵoj kaj strukturo de Pandunia':
+        - 'Bazaj reguloj': 100_bazi_kanun.md
+        - 'Tutmonda vortaro': 101_dunia_loge.md
+        - 'Prononco': 102_ABC.md
+        - 'Substantivoj': 104_namloge.md
+        - 'Adjektivoj': 105_sifloge.md
+        - 'Adverboj': 106_modologe.md
+        - 'Numeraloj': 107_numloge.md
+        - 'Pronomoj': 108_visloge.md
+        - 'Verboj': 109_karloge.md
+        - 'Vortfarado': 111_logobine.md
     - 'Lecionoj':
-        - 'Prononco': abc.md
         - 'Utilaj frazoj': fraze.md
     - 'Vortaroj':
-        - 'Internaciaj vortaroj': loga.md
         - 'Pandunia-Esperanto': pandunia-esperanti.md
         - 'Esperanto-Pandunia': esperanti-pandunia.md
         - 'Etimologia vortaro': leksaslia.md
-    - 'Gramatiko': kanun.md
 
