@@ -21,9 +21,9 @@ adalia|||ara:(ʿadl), tur:adalet, may:adalat, ben:আদালত (adalôt), fas
 ade|||ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|habit||costumbre (hábito)||||||||आदत||||adet||tapa|nawyk (przyzwyczajenie)
 adi||||ordinary (routine, normal)||ordinario (habitual)||||||||||||||tavallinen|zwyczajny (rutynowy, normalny)
 adrese|||eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|address|adresse|dirección|endereço|адрес||地址||||पता||cerah (alamat)||adres|adreso|osoite|adres
-adresharfe (@)||||@ symbol||arroba (@)||||||||||||||@-merkki|małpa (znak na
-afrike|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika|Africa|Afrique|África|||||||||||||Afriko|Afrikka|Afryka
-afriki||||African|africain|africano|||||||||||||afrika|afrikkalainen|afrykański, Afrykanin
+adresoharfe (@)||||@ symbol||arroba (@)||||||||||||||@-merkki|małpa (znak na
+Afrike|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika|Africa|Afrique|África|||||||||||||Afriko|Afrikka|Afryka
+Afriki||||African|africain|africano|||||||||||||afrika|afrikkalainen|afrykański, Afrykanin
 afrikofiler||||afrophile|afrophile||||||||||||||afrikamanto|afrofiili|afrofil
 afrikofilia||||Afrophilia|afrophilie||||||||||||||afrikamanteco|afrofilia|afrofilia
 aga|||fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|if (suppose, assume)|si|si (suponer)|se|если|إن|如果 (要是)|もし|||अगर (यदि)||jika (kalau)|ikiwa (kama)||se|jos (olettaa)|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa
@@ -445,12 +445,9 @@ centimitre|unomete|cm||centimeter (cm)||centímetro||||||||||||||senttimetri (cm
 cerem|mate|Ce||cerium||cerio|||||||||||||cerio|cerium|cer
 cesem|mate|Cs||caesium||cesio|||||||||||||cezio|cesium|cez
 cha|||zho:从 (cóng),出于 (chū), yue:從 (cung4)|from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|lähtien (-sta, -lta)|z, od
-cha*|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
 chabe|||por:chave, hin:(cābi), kon:nsapi|key||llave|||||||||||||ŝlosilo|avain|klucz
 Chade|dex|TD||Chad||Chad||||||||||||||Tšad|Czad
-chaeria||||tea house||salón de té||||||||||||||teehuone (kahvila)|herbaciarnia
 chake|||hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|knife||cuchillo|||||||||||||tranĉilo|veitsi (puukko)|nóż
-chakope||||tea cup|tasse à thé|taza de té|chavena (tigela de chá)|чайная чашка||茶碗|茶碗|||||cawan||||teekuppi|kubek do herbaty
 chakre|||ben:চাকা (caka), hin:चक्र (cakra)|wheel|roue|rueda (volante)|roda|колесо|عجلة‎|轮子|車輪|바퀴 (차륜)|bánh xe|चक्र|চাকা|roda|gurudumu|tekerlek (çark)|rado|ratas|koło
 chamache|||fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|spoon|cuiller|cuchara|colher|ложка||匙子|スプーン|숟가락 (스푼)||चम्मच|চামচ||||kulero|lusikka|łyżka
 champion (champione)|||eng:fra:champion, spa:campeón, por:campeão, rus:чемпион (chempion), tur:şampiyon, jpn:チャンピオン (chanpeon), kor:챔피언 (chaempieon)|champion||campeón|||||||||||||ĉampiono|mestari (voittaja)|czempion
@@ -468,6 +465,9 @@ chari|||rus:четыре (chetyre), hye:չորս (čʿors), hin:mar:चार (c
 charme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 charmese|mese|||April||abril|||||４月|||||||||huhtikuu|lipiec
 chate|||hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|roof||techo (tejado)|||||||||||||tekto|katto (katos)|dach
+chay|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
+chayeria||||tea house||salón de té||||||||||||||teehuone (kahvila)|herbaciarnia
+chaykope||||tea cup|tasse à thé|taza de té|chavena (tigela de chá)|чайная чашка||茶碗|茶碗|||||cawan||||teekuppi|kubek do herbaty
 Chehia|dex|CZ||Czech Republic||República Checa||||||||||||||Tšekki|Republika Czeska, Czechy
 cheka|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
 chena||||predate (be before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (olla ennen)|poprzedzić, poprzedzać
