@@ -18,8 +18,8 @@ acion (acione) - action
 adali - juste  
 adalia - justice  
 adrese - adresse  
-afrike - Afrique  
-afriki - africain  
+Afrike - Afrique  
+Afriki - africain  
 afrikofiler - afrophile  
 afrikofilia - afrophilie  
 aga - si  
@@ -195,13 +195,13 @@ bume - explosion
 bute - botte  
 ##c
 cha - de  
-cha* - thé  
-chakope - tasse à thé  
 chakre - roue  
 chamache - cuiller  
 chanse - chance  
 chari - quatre (4)  
 charme - charme  
+chay - thé  
+chaykope - tasse à thé  
 chenamene - destin  
 chendeno - hier  
 cheno - avant  
@@ -614,7 +614,7 @@ me - je (me)
 meche - match  
 medi - medio  
 medikosuy - pocion  
-megame - nuage  
+mege - nuage  
 mehi keshe - laine  
 mele - miel  
 melvesponizde - rayon de miel  

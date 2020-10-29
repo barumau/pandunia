@@ -21,9 +21,9 @@ adalia - sprawiedliwość
 ade - nawyk (przyzwyczajenie)  
 adi - zwyczajny (rutynowy, normalny)  
 adrese - adres  
-adresharfe (@) - małpa (znak na  
-afrike - Afryka  
-afriki - afrykański, Afrykanin  
+adresoharfe (@) - małpa (znak na  
+Afrike - Afryka  
+Afriki - afrykański, Afrykanin  
 afrikofiler - afrofil  
 afrikofilia - afrofilia  
 aga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
@@ -440,12 +440,9 @@ centimitre - centymetr
 cerem - cer  
 cesem - cez  
 cha - z, od  
-cha* - herbata  
 chabe - klucz  
 Chade - Czad  
-chaeria - herbaciarnia  
 chake - nóż  
-chakope - kubek do herbaty  
 chakre - koło  
 chamache - łyżka  
 champion (champione) - czempion  
@@ -463,6 +460,9 @@ chari - cztery (4)
 charme - czar (urok, wdzięk)  
 charmese - lipiec  
 chate - dach  
+chay - herbata  
+chayeria - herbaciarnia  
+chaykope - kubek do herbaty  
 Chehia - Republika Czeska, Czechy  
 cheka - sprawdzić, sprawdzać, skontrolować  
 chena - poprzedzić, poprzedzać  
@@ -1011,7 +1011,7 @@ geyi - gejowski (homoseksualny)
 gida - prowadzić (wskazać drogę)  
 gider - przewodnik  
 gidobuke - przewodnik  
-gigo- - bilion, giga-  
+giga* - bilion, giga-  
 gitare - gitara  
 Giyana - Gujana Francuska  
 glisu - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
@@ -1535,10 +1535,8 @@ ki ren - co?
 ki sate - zapytać, pytać  
 ki shey - jak?  
 ki yangi - jaki?  
-kilgram - kilogram (kg)  
-kili - tysiąc  
-kilmitre - kilometr  
-kilo- - kilo-  
+kilogram - kilogram (kg)  
+kilomitre - kilometr  
 kimi - chemiczny  
 kimlojia - chemia  
 kina - ruszać, przenościć, zmieniać miejsce  
@@ -2022,11 +2020,10 @@ medita - medytować; dumać, rozmyślać, zastanawiać się
 medofase - interfejs  
 medoleti den - przesilenie letnie (dzień srodka lata)  
 medu - między (wśród, pośród)  
-megame - chmura  
-megi - milion  
-mego- - mega-  
-megograme - tona  
-megvate - megawat  
+mega* - milion  
+megagram - tona  
+megawate - megawat  
+mege - chmura  
 mehe - owca  
 mehi keshe - wełna (runo owcze)  
 Mehiko - Meksyk  
@@ -3214,12 +3211,12 @@ tenta - kusić, nakłonić, nakłaniać
 tenu - należeć  
 teoria - teoria  
 tepe - taśma  
+tera* - tera-  
 terbem - terb  
 tercha - przechylać (przechylić, wychylać, wychylić)  
 terchi - skośny (ukośny, pochyły)  
 terme - temperatura  
 termometer - termometr  
-tero- - tera-  
 terore - terror  
 teroriste - terrorysta  
 teroristia - terroryzm  
@@ -3499,6 +3496,7 @@ yongopetre - lawa
 yongosaha - topić (upłynnić, upłynniać)  
 yongu - topnieć (upłynniać się)  
 yorubi - Joruba  
+yota* - milion  
 yote - kropla  
 yuke - żad  
 yumore - humor  

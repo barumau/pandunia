@@ -15,10 +15,10 @@ aerarmeo - airgune
 aero - aire  
 afgana - avgani  
 Afganujo, Afganio - Avganistan  
-afrika - afriki  
+afrika - Afriki  
 afrikamanteco - afrikofilia  
 afrikamanto - afrikofiler  
-Afriko - afrike  
+Afriko - Afrike  
 agaci (tedi, malamuzi) - irita  
 agrabla - hushi  
 agresema - agresi  
@@ -321,6 +321,7 @@ ejnŝtejnio - ainstainem
 ejo (ujo, io) - -ia  
 ejo - aria  
 ekrano - ekrane  
+eksa- - eksa*  
 ekstera - vayi  
 ekstero - vaye  
 Ekvadoro - ekuador  
@@ -707,7 +708,7 @@ kialo - sabe
 kiam? - ki sate  
 kie - sa ke  
 kiel? - ko?  
-kilometro - kilmitre  
+kilometro - kilomitre  
 kio? - ke  
 kio? - ki shey  
 kiom? - ko multo  
@@ -950,7 +951,6 @@ matematiko - matike
 mateno - sube  
 matura (plenkreska) - maturi  
 maŝino - mashine  
-mega- - mego-  
 mejtnerio - maitnerem  
 Meksikio - Mehiko  
 melki - tira milke  
@@ -982,11 +982,11 @@ mikro- - mikro-
 miksi - miksa  
 miksilo - mikser  
 miksulo - hibride  
-mil - kili  
+mil (kilo-) - kilo*  
 mili- - milo-  
-miliardo (giga-) - gigo-  
+miliardo (giga-) - giga*  
 milimetro - milmetre  
-miliono - megi  
+miliono - mega*  
 milita - jengi  
 milito (batalo) - jenge  
 ministro - minister  
@@ -1161,6 +1161,7 @@ pentri - penta
 perlo - lule  
 persa - farsi  
 persono - ren (rene)  
+peta- - peta*  
 peti (bonvolu) - pliza  
 peza - bari  
 pezmetalo - barmetale  
@@ -1480,7 +1481,7 @@ temo - teme
 tendo - haime  
 teneso - tenesine  
 teniso - tenis (tenise)  
-teo - cha*  
+teo - chay  
 teokratio - devkratia  
 teologio - devlojia  
 teorio - teoria  

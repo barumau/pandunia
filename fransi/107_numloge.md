@@ -59,14 +59,14 @@ On forme simplement les nombres plus grands en mettant les chiffres l'un après 
 Les nombres supérieurs à 999 peuvent utiliser les multiples provenant du Systèmes International des Unités.
 Ainsi, par exemple kilo- est le multiple qui indique les milliers.
 
-- 1 000 **kil** 
-- 1 000 000 **megi** 
-- 1 000 000 000 **gigi** 
-- 1 000 000 000 000 **teri** 
-- 10<sup>15</sup> **peti** 
-- 10<sup>18</sup> **eksi** 
-- 10<sup>21</sup> **zeti** 
-- 10<sup>24</sup> **yoti**
+- 1 000 **kilo** 
+- 1 000 000 **mega** 
+- 1 000 000 000 **giga** 
+- 1 000 000 000 000 **tera** 
+- 10<sup>15</sup> **peta** 
+- 10<sup>18</sup> **eksa** 
+- 10<sup>21</sup> **zeta** 
+- 10<sup>24</sup> **yota**
     
 On sait parfois grâce au contexte de combien d'objets on parle.
 Par exemple, le mot **sol** (sun) ne nous renvoie qu'à un seul soleil car il n'y en a qu'un.

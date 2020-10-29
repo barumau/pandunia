@@ -62,12 +62,12 @@ Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la 
 
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj. Do ekzemple _kilo_ indikas miloblecon.
 
-- 1000 **kil**
-- 1 000 000 **megi**
-- 1 000 000 000 **gigi**
-- 1 000 000 000 000 **teri**
-- 10<sup>15</sup> **peti**
-- 10<sup>18</sup> **eksi**
-- 10<sup>21</sup> **zeti**
-- 10<sup>24</sup> **yoti**
+- 1000 **kilo**
+- 1 000 000 **mega**
+- 1 000 000 000 **giga**
+- 1 000 000 000 000 **tera**
+- 10<sup>15</sup> **peta**
+- 10<sup>18</sup> **eksa**
+- 10<sup>21</sup> **zeta**
+- 10<sup>24</sup> **yota**
 

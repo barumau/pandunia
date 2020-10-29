@@ -60,14 +60,14 @@ exactly like they are written in the universal numerical language of mathematics
 Numbers that are greater than 999 may use the multiples from the International System of Units.
 So for example kilo denotes a multiple of a thousand.
 
-- 1 000 **kili**
-- 1 000 000 **megi**
-- 1 000 000 000 **gigi**
-- 1 000 000 000 000 **teri**
-- 10<sup>15</sup> **peti**
-- 10<sup>18</sup> **eksi**
-- 10<sup>21</sup> **zeti**
-- 10<sup>24</sup> **yoti**
+- 1 000 **kilo**
+- 1 000 000 **mega**
+- 1 000 000 000 **giga**
+- 1 000 000 000 000 **tera**
+- 10<sup>15</sup> **peta**
+- 10<sup>18</sup> **eksa**
+- 10<sup>21</sup> **zeta**
+- 10<sup>24</sup> **yota**
     
 Sometimes it is known from the context how many objects are spoken about.
 For example, the word **sol** (sun) normally refers to just one sun because there is only one.

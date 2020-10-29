@@ -21,9 +21,9 @@ adalia - justice
 ade - habit  
 adi - ordinary (routine, normal)  
 adrese - address  
-adresharfe (@) - @ symbol  
-afrike - Africa  
-afriki - African  
+adresoharfe (@) - @ symbol  
+Afrike - Africa  
+Afriki - African  
 afrikofiler - afrophile  
 afrikofilia - Afrophilia  
 aga - if (suppose, assume)  
@@ -446,12 +446,9 @@ centimitre - centimeter (cm)
 cerem - cerium  
 cesem - caesium  
 cha - from (since, because)  
-cha* - tea  
 chabe - key  
 Chade - Chad  
-chaeria - tea house  
 chake - knife  
-chakope - tea cup  
 chakre - wheel  
 chamache - spoon  
 champion (champione) - champion  
@@ -469,6 +466,9 @@ chari - four (4)
 charme - charm (attraction)  
 charmese - April  
 chate - roof  
+chay - tea  
+chayeria - tea house  
+chaykope - tea cup  
 Chehia - Czech Republic  
 cheka - check (to examine)  
 chena - predate (be before)  
@@ -726,6 +726,7 @@ ekojeni - wild (savage)
 ekolojia - ecology (study of environment)  
 ekore - squirrel  
 ekrane - screen  
+eksa* - exa-  
 ekuador - Ecuador  
 eletre - electricity  
 eletri - electric  
@@ -1570,10 +1571,8 @@ ki ren - who?
 ki sate - when?  
 ki shey - what thing?  
 ki yangi - what kind of?  
-kilgram - kilogram (kg)  
-kili - thousand  
-kilmitre - kilometer (km)  
-kilo- - kilo-  
+kilogram - kilogram (kg)  
+kilomitre - kilometer (km)  
 kime - substance (physical material from which something is made)  
 kimeme - chemical element  
 kimi - chemical  
@@ -2062,11 +2061,9 @@ medita - meditate (ponder)
 medofase - interface  
 medoleti den - Midsummer Day  
 medu - among (amid, between)  
-megame - cloud  
-megi - million  
-mego- - mega-  
-megograme - tonne (metric ton)  
-megvate - megawat (MW)  
+megagram - tonne (metric ton)  
+megawate - megawat (MW)  
+mege - cloud  
 mehe - sheep  
 mehi keshe - wool (fleece)  
 Mehiko - Mexico  
@@ -2545,6 +2542,7 @@ Peru - Peru
 pesdiske - coin  
 pese - money  
 peshe - profession (occupation)  
+peta* - peta-  
 pete - belly (stomach, abdomen)  
 petre - rock  
 petronefte - petroleum  
@@ -3271,12 +3269,12 @@ tenta - tempt (entice)
 tenu - belong  
 teoria - theory  
 tepe - tape  
+tera* - tera-  
 terbem - terbium  
 tercha - tilt (skew)  
 terchi - oblique (askew, tilted)  
 terme - temperature  
 termometer - thermometer  
-tero- - tera-  
 terore - terror  
 teroriste - terrorist  
 teroristia - terrorism  
@@ -3567,6 +3565,7 @@ yongopetre - lava
 yongosaha - smelt  
 yongu - melt (be liquified)  
 yorubi - Yoruba (language and people)  
+yota* - yotta-  
 yote - drop (droplet)  
 yuke - jade  
 yumore - humor  
@@ -3613,6 +3612,7 @@ zemparlinye - equator
 Zemparlinyi Ginia - Equatorial Guinea  
 zemsisme - earthquake  
 zemtike - lot (plot of land)  
+zeta* - zetta-  
 zeyile - wart  
 zeze - fly (housefly)  
 zigzage - zigzag  

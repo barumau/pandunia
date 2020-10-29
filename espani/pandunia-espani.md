@@ -21,9 +21,9 @@ adalia - justicia
 ade - costumbre (hábito)  
 adi - ordinario (habitual)  
 adrese - dirección  
-adresharfe (@) - arroba (@)  
-afrike - África  
-afriki - africano  
+adresoharfe (@) - arroba (@)  
+Afrike - África  
+Afriki - africano  
 aga - si (suponer)  
 agrese - ataque  
 agresi - agresivo  
@@ -418,12 +418,9 @@ centimitre - centímetro
 cerem - cerio  
 cesem - cesio  
 cha - de (desde)  
-cha* - té  
 chabe - llave  
 Chade - Chad  
-chaeria - salón de té  
 chake - cuchillo  
-chakope - taza de té  
 chakre - rueda (volante)  
 chamache - cuchara  
 champion (champione) - campeón  
@@ -441,6 +438,9 @@ chari - cuatro (4)
 charme - encanto  
 charmese - abril  
 chate - techo (tejado)  
+chay - té  
+chayeria - salón de té  
+chaykope - taza de té  
 Chehia - República Checa  
 cheka - revisar (chequear)  
 chena - preceder (anteceder)  
@@ -970,7 +970,7 @@ geyi - gay (homosexual)
 gida - guiar  
 gider - guía  
 gidobuke - guía de viaje  
-gigo- - giga-  
+giga* - giga-  
 gitare - guitarra  
 Giyana - Guyana Francesa  
 glisu - deslizar  
@@ -1478,10 +1478,8 @@ ki ren - quién
 ki sate - cuándo  
 ki shey - cuál cosa  
 ki yangi - qué tipo de  
-kilgram - kilograma  
-kili - mil  
-kilmitre - kilometre  
-kilo- - kilo-  
+kilogram - kilograma  
+kilomitre - kilometre  
 kime - sustancia  
 kimeme - elemento químico  
 kimi - químico  
@@ -1937,11 +1935,9 @@ medikosuy - poción
 medita - meditar (reflexionar)  
 medoleti den - Midsommar  
 medu - entre  
-megame - nube  
-megi - millón  
-mego- - mega-  
-megograme - tonelada  
-megvate - megavatio  
+megagram - tonelada  
+megawate - megavatio  
+mege - nube  
 mehe - oveja  
 Mehiko - México  
 Mehiko cite - Ciudad de México  
@@ -3092,12 +3088,12 @@ tenta - tentar (seducir)
 tenu - ser de  
 teoria - teoría  
 tepe - cinta adhesiva  
+tera* - tera-  
 terbem - terbio  
 tercha - inclinar  
 terchi - oblicuo (torcido)  
 terme - temperatura  
 termometer - termómetro  
-tero- - tera-  
 terore - terror  
 teroriste - terrorista  
 teroristia - terrorismo  

@@ -148,11 +148,11 @@ bume - 爆炸
 buze - 山羊  
 ##c
 cha - 从  
-cha* - 茶  
-chakope - 茶碗  
 chakre - 轮子  
 chamache - 匙子  
 chari - 四 (4)  
+chay - 茶  
+chaykope - 茶碗  
 chenamene - 命運  
 chendeno - 昨日  
 chenge - 层  
@@ -528,7 +528,8 @@ me - 我
 meche - 比赛  
 medi - 中型  
 medikosuy - 药水  
-megame - 云  
+mega* - 百万 (兆)  
+mege - 云  
 melone - 厚皮甜瓜 (蜜瓜)  
 melvesposanduke - 蜂箱  
 mema - 记得 (回忆)  

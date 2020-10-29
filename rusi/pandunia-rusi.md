@@ -156,13 +156,13 @@ bumu - взрываться
 bute - ботинок  
 ##c
 cha - из (от)  
-cha* - чай  
-chakope - чайная чашка  
 chakre - колесо  
 chamache - ложка  
 chanse - возможность (шанс)  
 chari - четыре (4)  
 charme - шарм  
+chay - чай  
+chaykope - чайная чашка  
 chenamene - судьба  
 chendeno - вчера  
 cheno - раньше  
@@ -564,7 +564,7 @@ me - я
 meche - матч  
 medi - средний  
 medikosuy - зелье  
-megame - облако  
+mege - облако  
 melone - дыня  
 melvesponizde - улей (соты)  
 mema - помнить  

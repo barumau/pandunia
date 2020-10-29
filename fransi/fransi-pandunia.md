@@ -16,8 +16,8 @@ adresse - adrese
 adulte - mature  
 afghan - avgani  
 Afghanistan - Avganistan  
-africain - afriki  
-Afrique - afrike  
+africain - Afriki  
+Afrique - Afrike  
 afrophile - afrikofiler  
 afrophilie - afrikofilia  
 agent pathogène - patojener  
@@ -622,7 +622,7 @@ nostalgie - nostalgia
 note - note  
 nous - mome  
 nouveau - novi  
-nuage - megame  
+nuage - mege  
 nécessaire - nidi  
 néophyte - novike  
 ##o
@@ -879,7 +879,7 @@ s’accroupir - indosida
 table - meze  
 tablette de chocolat - chokolatobatone  
 tarte - pay (paye)  
-tasse à thé - chakope  
+tasse à thé - chaykope  
 taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
@@ -893,7 +893,7 @@ Terre - Zemia
 terre cuite - bekopote  
 terreplatiste - platozemiste  
 terrorisme - teroristia  
-thé - cha*  
+thé - chay  
 tige - tane  
 tigre - bagre  
 tirer - tira milke  

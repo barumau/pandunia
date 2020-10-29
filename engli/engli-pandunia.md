@@ -1,6 +1,6 @@
 # engli-pandunia
 -ic (a person or thing with specific character) - iki  
-@ symbol - adresharfe (@)  
+@ symbol - adresoharfe (@)  
 a couple of - duli o tini  
 ##a
 ability (skill) - able  
@@ -39,8 +39,8 @@ advice (counsel) - mente
 advisor (counselor, mentor) - menter  
 Afghan - avgani  
 Afghanistan - Avganistan  
-Africa - afrike  
-African - afriki  
+Africa - Afrike  
+African - Afriki  
 afrophile - afrikofiler  
 Afrophilia - afrikofilia  
 afternoon - shamden  
@@ -345,7 +345,7 @@ big (great) - day (dayi)
 bike (cycle) - sikle  
 bilingual - dulbashi  
 bill (invoice) - bile  
-billion (giga-) - gigo-  
+billion (giga-) - giga*  
 biological sex - bivi jinse  
 biology (study of organic life) - bivlojia  
 biome - bivsisteme  
@@ -639,7 +639,7 @@ close (shut) - ankaya
 closed - ankayi  
 cloth (fabric, textile) - tekse  
 clothing - fuke  
-cloud - megame  
+cloud - mege  
 club - klube  
 coast (beach) - haytate  
 coat - kote  
@@ -1072,6 +1072,7 @@ event (case, instance) - kase
 every (each) - mey (meyi)  
 everybody (everyone) - pan ren  
 everything - pan shey  
+exa- - eksa*  
 examine (inspect, check) - gencha  
 example (instance of) - misale  
 excellence (quality, virtue) - bonsife  
@@ -1671,9 +1672,8 @@ keyboard - butonbanze
 kidney - nefre  
 kill - morta  
 killer - morter  
-kilo- - kilo-  
-kilogram (kg) - kilgram  
-kilometer (km) - kilmitre  
+kilogram (kg) - kilogram  
+kilometer (km) - kilomitre  
 kind (nice, gentle) - jentili  
 kind (style, sort, type) - yange  
 kinetic - kini  
@@ -1961,8 +1961,7 @@ medium (intermediate, mean) - medi
 medium (media) - media  
 meet - mita  
 meeting (gathering) - mite  
-mega- - mego-  
-megawat (MW) - megvate  
+megawat (MW) - megawate  
 meitnerium - maitnerem  
 melodious (melodic) - melodi  
 melody - melodia  
@@ -1999,7 +1998,7 @@ miller - moler
 milli- - milo-  
 milligram - milgram  
 millimeter - milmetre  
-million - megi  
+million (mega-) - mega*  
 Mimas - Mimas  
 mine (extract) - kuanga  
 mine - kuangeria  
@@ -2402,6 +2401,7 @@ personal identification number (PIN) - sekurnombre
 personalize (customize) - auta  
 perspective (point of view) - vidopunte  
 Peru - Peru  
+peta- - peta*  
 petroleum - petronefte  
 Philippines - Filipinia  
 philosopher - filsofer  
@@ -3196,9 +3196,9 @@ tattered (ragged, torn) - chirchiri
 tattoo - tatu*  
 taxi (cab) - taksogare  
 taximeter - taksometer  
-tea - cha*  
-tea cup - chakope  
-tea house - chaeria  
+tea - chay  
+tea cup - chaykope  
+tea house - chayeria  
 teacher - darsogure  
 team - time  
 tear (rip, edge) - chire  
@@ -3228,7 +3228,7 @@ tennessine - tenesine
 tennis - tenis (tenise)  
 tent - haime  
 tentacle (feeler) - senter  
-tera- - tero-  
+tera- - tera*  
 terbium - terbem  
 terracotta - bekopote  
 terrain - zemforme  
@@ -3269,7 +3269,7 @@ thistle - kardone
 thorium - torem  
 thorn tree (acacia) - babule  
 thought (idea) - fikre  
-thousand - kili  
+thousand (kilo-) - kilo*  
 thread (string, strand, filament, fiber) - korde  
 three (3) - tini  
 throw (launch) - lanca  
@@ -3314,7 +3314,7 @@ tomorrow - badoden
 tone (note, pitch, shade) - tone  
 Tonga - Tonga  
 tongue - lisane  
-tonne (metric ton) - megograme  
+tonne (metric ton) - megagram  
 too little - min ko bas  
 too much - may ko bas  
 tool - tule  
@@ -3617,6 +3617,7 @@ yesterday - chendeno
 yoga - yoge  
 yogi - yogiste  
 Yoruba (language and people) - yorubi  
+yotta- - yota*  
 you (singular) - te  
 you all - tote  
 young - jovani  
@@ -3629,6 +3630,7 @@ yttrium - yutrem
 Zambia - Zambia  
 zebra - zebre  
 zero (none) - nol (noli)  
+zetta- - zeta*  
 ziggurat - zikure  
 zigzag - zigzage  
 Zimbabwe - Zimbabve  

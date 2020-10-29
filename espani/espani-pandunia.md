@@ -68,7 +68,7 @@ aeropuerto - airporte
 afecto (emoción) - emose  
 Afganistán - Avganistan  
 afgano - avgani  
-africano - afriki  
+africano - Afriki  
 agacharse - indosida  
 agitar (sacudir) - sisma  
 agorafobia - maidanfobia  
@@ -217,7 +217,7 @@ arnés (arreos, jaeces) - harnese
 arquero - arker  
 arreglo - shule  
 arriesgado - riski  
-arroba (@) - adresharfe (@)  
+arroba (@) - adresoharfe (@)  
 arromántico - anromansi  
 arroz - rise  
 arruinado (devastado, asolado) - harabi  
@@ -1401,7 +1401,7 @@ germanio - germanem
 gesto - jeste  
 Ghana - Gana  
 Gibraltar - Jibraltar  
-giga- - gigo-  
+giga- - giga*  
 ginseng - jenshene  
 girar (rotar) - rotu  
 girasol - solfule  
@@ -1746,9 +1746,8 @@ Kazajistán (Kazakistan) - Kazahia
 kelp - varkalge  
 kelvin - kelvine  
 Kenia - Kenya  
-kilo- - kilo-  
-kilograma - kilgram  
-kilometre - kilmitre  
+kilograma - kilogram  
+kilometre - kilomitre  
 Kirguizistán - Kirgizia  
 Kiribati - Kiribati  
 kiwi fruta - kiwi*  
@@ -2001,8 +2000,7 @@ medir (tomar las medidas) - meta
 meditar (reflexionar) - medita  
 Mediterráneo - zemomedi haye  
 medusa - hayjele  
-mega- - mego-  
-megavatio - megvate  
+megavatio - megawate  
 meitnerio - maitnerem  
 mejorar - darjobona  
 melodioso - melodi  
@@ -2050,11 +2048,11 @@ mierda - shite
 migración - migre  
 migrar (emigrar, tralsadar) - migra  
 migrarse (mudarse, trasladarse) - migru  
-mil - kili  
+mil (kilo-) - kilo*  
 mili- - milo-  
 miligrama - milgram  
 milimetre - milmetre  
-millón - megi  
+millón (mega-) - mega*  
 mina - kuangeria  
 mineral (mena) - kuange  
 minero - kuanger  
@@ -2238,7 +2236,7 @@ notar el sabor - gusta
 noticias - habare  
 novato - novike  
 novedad - nove  
-nube - megame  
+nube - mege  
 nudismo - nudistia  
 nudista - nudiste  
 nudo - node  
@@ -2885,7 +2883,7 @@ saludar - salama
 saludo - salame  
 salvaje - ekojeni  
 salvaje - vildi  
-salón de té - chaeria  
+salón de té - chayeria  
 samario - samarem  
 Samoa - Samoa  
 Samoa Americana - Usameriki Samoa  
@@ -3096,7 +3094,7 @@ tatuaje - tatu*
 taxi (cab) - taksogare  
 Tayikistán - Tajikia  
 taza de café - kafkope  
-taza de té - chakope  
+taza de té - chaykope  
 techo (tejado) - chate  
 tecla (botón) - butone  
 teclado - butonbanze  
@@ -3129,7 +3127,7 @@ tentáculo - senter
 teocracia - devkratia  
 teología - devlojia  
 teoría - teoria  
-tera- - tero-  
+tera- - tera*  
 terbio - terbem  
 terminar (acabar) - fina  
 termómetro - termometer  
@@ -3177,7 +3175,7 @@ Togo - Togo
 togolés - togoli  
 tolerar - tolera  
 tomate - tomate  
-tonelada - megograme  
+tonelada - megagram  
 Tonga - Tonga  
 tono - tone  
 topo - krote  
@@ -3243,7 +3241,7 @@ Turquía - Turkia
 Tuvalu - Tuvalu  
 táctica (estrategia) - tatike  
 tántalo - tantalum  
-té - cha*  
+té - chay  
 técnica - tehne  
 télugu - telugi  
 Tíbet - podia  
@@ -3414,7 +3412,7 @@ Zoroastro - zardush
 zorro - hule  
 zulú - zuli  
 ¡Felicitaciones! - barke!  
-África - afrike  
+África - Afrike  
 Ártico - Artike  
 ágil - ajili  
 álgebra - jebria  

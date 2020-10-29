@@ -21,8 +21,8 @@ adjektiivi (laatusana) - sifloge
 adverbi - modologe  
 afgaani - avgani  
 Afganistan - Avganistan  
-Afrikka - afrike  
-afrikkalainen - afriki  
+Afrikka - Afrike  
+afrikkalainen - Afriki  
 afrofiili - afrikofiler  
 afrofilia - afrikofilia  
 agorafobia (avoimen paikan kammo) - maidanfobia  
@@ -276,6 +276,7 @@ ei mitään - nol shey
 eilen - chendeno  
 einsteinium - ainstainem  
 ekologia (ympäristötiede) - ekolojia  
+eksa- - eksa*  
 eksonyymi - vaynam  
 El Salvador - Salvador  
 ele - jeste  
@@ -924,8 +925,8 @@ kiitos - danke
 kiittää - danka  
 kiivi - kiwi*  
 kikherne - humuse  
-kilogramma - kilgram  
-kilometri - kilmitre  
+kilogramma - kilogram  
+kilometri - kilomitre  
 kilpikonna - tortuge  
 kiltti - jentili  
 kineettinen (liike-) - kini  
@@ -1395,8 +1396,7 @@ maya (mayaintiaani) - mayane
 Mayotte - Mayote  
 me - mome  
 media - media  
-mega- - mego-  
-megawatti (MW) - megvate  
+megawatti (MW) - megawate  
 mehiläinen - melvespe  
 mehiläinen tai ampiainen - vespe  
 mehu - juse  
@@ -1440,8 +1440,9 @@ mikä tahansa - eni
 mikä? (kumpi?) - ki  
 mikä? (mitä?) - ke  
 mikä? (mitä?) - ki shey  
-miljardi (giga-) - gigo-  
-miljoona - megi  
+miljardi (giga-) - giga*  
+miljoona (mega-) - mega*  
+miljoona (mega-) - yota*  
 millainen? - ki yangi  
 milli- - milo-  
 milligramma - milgram  
@@ -1822,6 +1823,7 @@ perustuslaki - bazokanune
 peräaukko (anus) - anuse  
 pestä - washa  
 pesukone - washomashine  
+peta- - peta*  
 pian - suno  
 piano - piane  
 pidentää - longa  
@@ -1844,7 +1846,7 @@ pilahvi - polave
 pilalla (raunioina) - harabi  
 pilata (tuhota) - haraba  
 pilkku - kome  
-pilvi - megame  
+pilvi - mege  
 pimeä (hämärä) - oskuri  
 pingviini - pinguine  
 pinta (tahko) - fase  
@@ -2447,9 +2449,9 @@ tavallinen - adi
 tavanomainen (perinteinen) - rasmi  
 tavata - mita  
 te - tote  
-tee - cha*  
-teehuone (kahvila) - chaeria  
-teekuppi - chakope  
+tee - chay  
+teehuone (kahvila) - chayeria  
+teekuppi - chaykope  
 teettää - isa  
 tehdas - fateria  
 tehdä (valmistaa) - chana  
@@ -2476,7 +2478,7 @@ tennis - tenis (tenise)
 teokratia - devkratia  
 teologia - devlojia  
 teoria - teoria  
-tera- - tero-  
+tera- - tera*  
 terrorismi - teroristia  
 terroristi - teroriste  
 terve - sihi  
@@ -2526,7 +2528,7 @@ toisto - reye
 toivoa - inshala  
 tomaatti - tomate  
 Tonga - Tonga  
-tonni (##0 kg) - megograme  
+tonni (##0 kg) - megagram  
 tontti (maakaistale) - zemtike  
 tori (basaari) - bazare  
 torni - minare  
@@ -2538,7 +2540,8 @@ toukokuu - limomese
 Transdnistria - Nistria  
 trendi - fashone  
 Trinidad ja Tobago - Trinidade e Tobago  
-tuhat - kili  
+tsetta- - zeta*  
+tuhat (kilo-) - kilo*  
 tuhka - huye  
 tulehdus - itis (itise)  
 tuleva - vil (vilo)  

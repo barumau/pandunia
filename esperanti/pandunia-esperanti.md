@@ -15,8 +15,8 @@ acinem - aktinio
 adali - justa  
 adalia - justeco  
 adrese - adreso  
-afrike - Afriko  
-afriki - afrika  
+Afrike - Afriko  
+Afriki - afrika  
 afrikofiler - afrikamanto  
 afrikofilia - afrikamanteco  
 aga - se  
@@ -259,7 +259,6 @@ centi* - centono
 cerem - cerio  
 cesem - cezio  
 cha - de (el, pro)  
-cha* - teo  
 chabe - ŝlosilo  
 chake - tranĉilo  
 chakre - rado  
@@ -274,6 +273,7 @@ chapa - presi
 chape - presaĵo  
 chari - kvar (4)  
 chate - tekto  
+chay - teo  
 cheka - kontroli  
 chena - antaŭiri  
 chendeno - hieraū  
@@ -411,6 +411,7 @@ eglise - preĝejo
 ekia - naturo  
 ekore - sciuro  
 ekrane - ekrano  
+eksa* - eksa-  
 ekuador - Ekvadoro  
 eletre - elektro  
 eletri - elektra  
@@ -857,8 +858,7 @@ ki ren - kiu?
 ki sate - kiam?  
 ki shey - kio?  
 ki yangi - kia?  
-kili - mil  
-kilmitre - kilometro  
+kilomitre - kilometro  
 kimeme - kemia elemento  
 kimlojia - ĥemio (kemio)  
 kitabe - skribo  
@@ -1047,8 +1047,7 @@ medi - mezo
 medika - sanigi (kuraci)  
 mediker - kuracisto  
 medu - inter  
-megi - miliono  
-mego- - mega-  
+mega* - miliono  
 mehe - ŝafo  
 Mehiko - Meksikio  
 mele - mielo  
@@ -1254,6 +1253,7 @@ pere - plumo
 pesdiske - monero  
 pese - mono  
 peshe - metiero  
+peta* - peta-  
 pete - ventro  
 petre - roko  
 piane - piano  

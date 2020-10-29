@@ -11,8 +11,8 @@ Afganistan - Avganistan
 afgański - avgani  
 afrofil - afrikofiler  
 afrofilia - afrikofilia  
-Afryka - afrike  
-afrykański, Afrykanin - afriki  
+Afryka - Afrike  
+afrykański, Afrykanin - Afriki  
 agorafobia - maidanfobia  
 agresywny - agresi  
 aj!, ał! - ay  
@@ -187,7 +187,7 @@ biec (biegać, pędzić) - esprinta
 biedny, mizerny - miskini  
 bilet - tikete  
 bilet powrotny - retrotikete  
-bilion, giga- - gigo-  
+bilion, giga- - giga*  
 biologia (nauka o życiu) - bivlojia  
 biom - bivsisteme  
 biromantyczny - dulromansi  
@@ -316,7 +316,7 @@ Chile - Chile
 Chiny - Jungogia  
 chleb - pang (pange)  
 chlor - klore  
-chmura - megame  
+chmura - mege  
 cholera - holere  
 Chongqing - Chungking  
 chordofon, instrument strunowy - tichine  
@@ -816,8 +816,8 @@ hebrajski - ibri
 hel - helem  
 helikopter - helisvimane  
 helisa - helise  
-herbaciarnia - chaeria  
-herbata - cha*  
+herbaciarnia - chayeria  
+herbata - chay  
 herc - herze  
 heteroromantyczny - alromansi  
 heteroseksualny - alseksi  
@@ -1057,10 +1057,9 @@ kierować (doprowadzać, prowadzić, służyć jako kanał) - kanala
 kierunek - dishe  
 kieszeń - jebe  
 kiełbasa - sosise  
-kilo- - kilo-  
 kilof - pikosape  
-kilogram (kg) - kilgram  
-kilometr - kilmitre  
+kilogram (kg) - kilogram  
+kilometr - kilomitre  
 kinematografia - kinografia  
 kino - kinografe  
 kinowy - kinografi  
@@ -1230,7 +1229,7 @@ ktoś - koy ren
 który? - ki  
 Kuba - Kuba  
 kubek - kope  
-kubek do herbaty - chakope  
+kubek do herbaty - chaykope  
 kucać (kucnąć) - indosida  
 kucharz - kuker  
 kuchnia - kukeria  
@@ -1431,7 +1430,7 @@ matka, mama - mame
 Mauretania - Muritania  
 Mauritius - Morisia  
 Maya - mayane  
-małpa (znak na - adresharfe (@)  
+małpa (znak na - adresoharfe (@)  
 mały, mini- - mini  
 mały; mało, trochę, nieco - lil (lili)  
 małżeństwo, związek małżeński - gamia  
@@ -1444,8 +1443,7 @@ media społecznościowe - soci media
 meduza - hayjele  
 medycyna - medikia  
 medytować; dumać, rozmyślać, zastanawiać się - medita  
-mega- - mego-  
-megawat - megvate  
+megawat - megawate  
 meitner - maitnerem  
 Mekka - makah  
 Meksyk - Mehiko  
@@ -1485,7 +1483,8 @@ miksować, mieszać - miksa
 mili- - milo-  
 miligram - milgram  
 milimetr - milmetre  
-milion - megi  
+milion - mega*  
+milion - yota*  
 militarny, wojskowy, wojenny - jengi  
 minerał, ruda - kuange  
 minimal - minimi  
@@ -2891,7 +2890,7 @@ tenis - tenis (tenise)
 teokracja - devkratia  
 teologia - devlojia  
 teoria - teoria  
-tera- - tero-  
+tera- - tera*  
 terakota - bekopote  
 teraźniejszość, współczesność (teraz) - zaye  
 teraźniejszość, współczesność - zayia  
@@ -2920,7 +2919,7 @@ Tokio - tokyo
 toksyczny (trujący) - toksi  
 tolerować - tolera  
 ton, dźwięk, nuta, tonacja - tone  
-tona - megograme  
+tona - megagram  
 Tonga - Tonga  
 topinambur - masmulsolfule  
 topić (upłynnić, upłynniać) - yongosaha  
@@ -2985,7 +2984,7 @@ tylko - mono
 typ (rodzaj, gatunek) - tipe  
 tyran - tirane  
 tyrania - tirania  
-tysiąc - kili  
+tysiąc (kilo-) - kilo*  
 tytan - titane  
 tytoń - tabake  
 tytuł (nagłówek) - temnam  

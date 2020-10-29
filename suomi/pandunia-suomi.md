@@ -19,9 +19,9 @@ adalia - oikeus
 ade - tapa  
 adi - tavallinen  
 adrese - osoite  
-adresharfe (@) - @-merkki  
-afrike - Afrikka  
-afriki - afrikkalainen  
+adresoharfe (@) - @-merkki  
+Afrike - Afrikka  
+Afriki - afrikkalainen  
 afrikofiler - afrofiili  
 afrikofilia - afrofilia  
 aga - jos (olettaa)  
@@ -358,12 +358,9 @@ centimitre - senttimetri (cm)
 cerem - cerium  
 cesem - cesium  
 cha - lähtien (-sta, -lta)  
-cha* - tee  
 chabe - avain  
 Chade - Tšad  
-chaeria - teehuone (kahvila)  
 chake - veitsi (puukko)  
-chakope - teekuppi  
 chakre - ratas  
 chamache - lusikka  
 champion (champione) - mestari (voittaja)  
@@ -381,6 +378,9 @@ chari - neljä (4)
 charme - vetovoima (šarmi)  
 charmese - huhtikuu  
 chate - katto (katos)  
+chay - tee  
+chayeria - teehuone (kahvila)  
+chaykope - teekuppi  
 Chehia - Tšekki  
 cheka - tarkistaa (tsekata)  
 chena - edeltää (olla ennen)  
@@ -585,6 +585,7 @@ ekia - luonto
 ekolojia - ekologia (ympäristötiede)  
 ekore - orava  
 ekrane - kuvaruutu  
+eksa* - eksa-  
 ekuador - Ecuador  
 eletre - sähkö  
 eletri - sähköinen  
@@ -1271,9 +1272,8 @@ ki ren - kuka?
 ki sate - milloin? (koska?)  
 ki shey - mikä? (mitä?)  
 ki yangi - millainen?  
-kilgram - kilogramma  
-kili - tuhat  
-kilmitre - kilometri  
+kilogram - kilogramma  
+kilomitre - kilometri  
 kime - aine (aines, materia)  
 kimeme - alkuaine  
 kimi - kemikaali  
@@ -1664,11 +1664,9 @@ medikia - lääketiede
 medita - pohtia (meditoida)  
 medoleti den - juhannus (keskikesä, mittumaari)  
 medu - välissä  
-megame - pilvi  
-megi - miljoona  
-mego- - mega-  
-megograme - tonni (##0 kg)  
-megvate - megawatti (MW)  
+megagram - tonni (##0 kg)  
+megawate - megawatti (MW)  
+mege - pilvi  
 mehe - lammas  
 Mehiko - Meksiko  
 mele - hunaja  
@@ -2071,6 +2069,7 @@ Peru - Peru
 pesdiske - kolikko  
 pese - raha  
 peshe - ammatti  
+peta* - peta-  
 pete - maha (vatsa)  
 petre - kallio (kivi)  
 peya - maksaa  
@@ -2651,9 +2650,9 @@ tenta - houkutella
 tenu - kuulua (olla jkn hallussa)  
 teoria - teoria  
 tepe - teippi (nauha)  
+tera* - tera-  
 terme - lämpötila  
 termometer - lämpömittari  
-tero- - tera-  
 terore - kauhu (terrori)  
 teroriste - terroristi  
 teroristia - terrorismi  
@@ -2921,6 +2920,7 @@ zemparlinye - päiväntasaaja
 Zemparlinyi Ginia - Päiväntasaajan Guinea  
 zemsisme - maanjäristys  
 zemtike - tontti (maakaistale)  
+zeta* - tsetta-  
 zeyile - syylä  
 zeze - kärpänen  
 zigzage - siksakki  
