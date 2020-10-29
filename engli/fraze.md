@@ -43,10 +43,10 @@ Good morning!
 **salam den!**
 Good day!
 
-**salam xam!**
+**salam sham!**
 Good evening!
 
-**salam noce!**
+**salam noche!**
 Good night!
 
 **salam yame!**
@@ -55,7 +55,7 @@ Bon appetit!
 **salam lay!**
 Welcome!
 
-**salam cute!**
+**salam chute!**
 Goodbye!
 
 **salam safare!**
@@ -103,7 +103,7 @@ I thank you for helping me.
 **danka te helpa me.**
 Thanks for helping me.
 
-**te keci.**
+**te kechi.**
 You're welcome. (Literally: _You're polite._)
 
 
@@ -111,10 +111,10 @@ You're welcome. (Literally: _You're polite._)
 
 <p style="font-size:5em;">🗨️🧑</p>
 
-**me sarah.**
+**me Sara.**
 I'm Sarah.
 
-**me tomas.**
+**me Tomas.**
 I'm Thomas.
 
 You can introduce yourself simply by saying **me** and your name. You don't
@@ -129,7 +129,7 @@ I greet father.
 The word **salam** is a noun and **salama** is the corresponding verb. The
 basic word order in Pandunia is subject-verb-object.
 
-**sarah salama tomas.**
+**Sara salama Tomas.**
 Sarah greets Thomas.
 
 **salam mame!**
@@ -146,7 +146,7 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me.</small>
 
 <p style="font-size:4em;">🗣️👉👤</p>
 
-**te tomas.**
+**te Tomas.**
 You are Thomas.
 
 **me salama te.**
@@ -175,7 +175,7 @@ He is a man.
 **le fem.**
 She is a woman.
 
-**le aple.**
+**le apel.**
 It is an apple.
 
 **le** is the general third person pronoun. It is used for people (irrespective
@@ -191,7 +191,7 @@ I greet him/her.
 
 <p style="font-size:5em">🤔❓</p>
 
-**eska te tomas?**
+**eska te Tomas?**
 Are you Thomas?
 
 **eska te dotore?**
@@ -219,10 +219,10 @@ is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small
 
 <p style="font-size:5em">👍</p>
 
-**eska te tomas?**
+**eska te Tomas?**
 Are you Thomas.
 
-**si, me tomas.**
+**si, me Tomas.**
 Yes, I am Thomas.
 
 **eska le dotore?**
@@ -234,13 +234,13 @@ Yes, he is a doctor.
 The word **si** can be used also for stating something as a fact. Then it is
 used in place of "to be".
 
-**me si tomas.**
+**me si Tomas.**
 I am Thomas.
 
-**te si sarah.**
+**te si Sara.**
 You are Sarah.
 
-**aple si pale.**
+**apel si pale.**
 The apple is a fruit.
 
 <small>Etymology. **si** is from Spanish: sí, Portuguese: sim, Mandarin: 是
@@ -251,7 +251,7 @@ The apple is a fruit.
 
 <p style="font-size:5em">👎</p>
 
-**me no sarah.**
+**me no Sara.**
 I'm not Sarah.
 
 **me no dotore.**
@@ -299,7 +299,7 @@ We are women.
 **tote man.**
 You are men.
 
-**lole aple.**
+**lole apel.**
 They are apples.
 
 
@@ -310,12 +310,12 @@ What?
 
 **te ke?**
 Who are you?  
-**me tomas.**
+**me Tomas.**
 I'm Thomas.
 
 **le ke?**
 Who is he/she?  
-**le sarah.**
+**le Sara.**
 She is Sarah.
 
 **tote ke?**
@@ -333,7 +333,7 @@ Bengali: কী "ki".</small>
 **ye ke? / ke ye?**
 What's this?
 
-**ye aple.**
+**ye apel.**
 This is an apple.
 
 **ve ke? / ke ve?**
@@ -342,10 +342,10 @@ What is that?
 **ve oranje.**
 That is an orange.
 
-**ye kirmi aple.**
+**ye kirmi apel.**
 This is a red apple.
 
-**yi aple kirmi.**
+**yi apel kirmi.**
 This apple is red.
 
 Note: When an adjective, like **kirmi**, is placed before a noun, it works as a modifier.
@@ -393,7 +393,7 @@ Who's he/she?
 **le si mi doste.**
 He/she is my friend.
 
-**me si sarah du doste.**
+**me si Sara du doste.**
 I am Sarah's friend.
 
 <small>Etymology. **du**
@@ -405,13 +405,13 @@ Mandarin: 的 (de).</small>
 **ti name ke?**
 What's your name?
 
-**mi name tomas.**
+**mi name Tomas.**
 My name is Thomas.
 
 **li name ke?**
 What is his/her name?
 
-**li name sarah.**
+**li name Sara.**
 Her name is Sarah.
 
 <small>Etymology. **name** is from Hindi: नाम  "nām", Farsi: نام‏‎
@@ -427,12 +427,12 @@ I have a good house.
 **le no tena pese.**
 He/she doesn't have money.
 
-**me vola tena novi fone.**
+**me vola tena novi telfone.**
 I want to have a new phone.
 
-**eska te tena bace?**
+**eska te tena bache?**
 Do you have children?  
-**me tena duli bace.**
+**me tena duli bache.**
 I have two children.
 
 
@@ -473,14 +473,14 @@ I want to help you.
 **eska te vola yama koy?**
 Would you like to eat something?
 
-**le yama apele.**
+**le yama apel.**
 He/she eats an apple.
 
-**lole yama apele.**
+**lole yama apel.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
-Therefore a word like **apele** can refer to one or more apples.
+Therefore a word like **apel** can refer to one or more apples.
 
 **eska te yama kafe?**
 Do you drink coffee?
@@ -510,20 +510,20 @@ the word order is not affected by the **ke**.
 **me vola yama kafe.**
 I want to drink coffee.
 
-**eska te vola yama cay?**
+**eska te vola yama chay?**
 Would you like to drink tea?  
-**no. me no vola cay. me vola kafe.**
+**no. me no vola chay. me vola kafe.**
 No, I don't want tea. I want coffee.
 
-**te vola ki aple?**
+**te vola ki apel?**
 Which apple do you want?  
-**yi ros.**
+**yi kirmi.**
 This red one.
 
 
 ### pliza <small>request, please</small>
 
-**me pliza te yama cay.**
+**me pliza te yama chay.**
 I ask you to drink tea.
 
 **me pliza te laya dome.**
@@ -534,7 +534,7 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**pliza yama cay.**
+**pliza yama chay.**
 Please, have some tea!
 
 **pliza yama kafe.**
@@ -552,10 +552,10 @@ Please, help me.
 **haida yama!**
 Let's eat!
 
-**haida gova yama!**
+**haida gowa yama!**
 Let's go eat!
 
-**haida gova dome.**
+**haida gowa dome.**
 Let's go home.
 
 
@@ -608,13 +608,13 @@ I don't understand at all.
 
 ### abla <small>can</small>
 
-**me abla xofa gare.**
+**me abla shofa gare.**
 I can drive a car.
 
-**le no abla xofa gare.**
+**le no abla shofa gare.**
 He/she doesn't know how to drive a car.
 
-**eska te abla xula le?**
+**eska te abla shula le?**
 Do you know how to fix it?
 
 **eska te abla pandunia?**
@@ -629,7 +629,7 @@ I can speak a little Pandunia.
 **me no abla engli.**
 I can't speak English.
 
-**pardon. me no abla ti baxe.**
+**pardon. me no abla ti bashe.**
 Sorry, I can't speak your language.
 
 
@@ -650,7 +650,7 @@ How do you say "cat" in Pandunia?
 **"cat" logu ko sa pandunia?**
 How is "cat" said in Pandunia?
 
-**mav loga miav.**
+**maw loga miaw.**
 Cat says meow.
 
 
@@ -662,7 +662,7 @@ Listen to me!
 **me no abla auda te.**
 I can't hear you.
 
-**pliza loga forti.**
+**pliza loga forto.**
 Please speak louder.
 
 **me auda musike.**
@@ -677,7 +677,7 @@ What kind of music do you listen to?
 **suku vida te.**
 Pleased to see you!
 
-**vida te repo!**
+**vida te reo!**
 See you again!
 
 **vida te badoden!**
@@ -692,8 +692,8 @@ I saw him/her yesterday.
 **yi loge mena ke?**
 What does this word mean?
 
-**"mav" mena ke?**
-What does "mav" mean?
+**"maw" mena ke?**
+What does "maw" mean?
 
 **le mena yange da hevane.**
 It means a kind of animal.
@@ -711,50 +711,50 @@ Please, write your address.
 Please, write it here!
 
 
-### baxa <small>speak a language, communicate</small>
+### basha <small>speak a language, communicate</small>
 
-**eska tote abla baxa pandunia.**
+**eska tote abla basha pandunia.**
 Can you speak Pandunia?
 
-**mome abla baxa pandunia.**
+**mome abla basha pandunia.**
 We can speak Pandunia.
 
-**eska te abla baxa engli?**
+**eska te abla basha Engli?**
 Can you speak English?
 
-**fransi, espani, portugali, rusi**
+**Fransi, Espani, Portugali, Rusi**
 French, Spanish, Portuguese, Russian
 
-**cini, niponi, indonesi**
+**Chini, Niponi, Indonesi**
 Chinese, Japanese, Indonesian
 
-**arabi, turki, farsi, urdi, hindi**
+**Arabi, Turki, Farsi, Urdu, Hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
-**suahili, hausi, yorubi, amari**
+**Swahili, Hausa, Yoruba, Amari**
 Swahili, Hausa, Yoruba, Amharic
 
 
 ## Part 4. Going around
 
-### gova <small>to go</small>
+### gowa <small>to go</small>
 
-**te gova ke?**
+**te gowa ke?**
 Where are you going?
 
-**me gova dome.**
+**me gowa dome.**
 I'm going home.
 
-**me bixu gova ke?**
+**me musu gowa ke?**
 Where should I go?
 
-**me bixu gova pa ki ren?**
+**me musu gowa pa ki ren?**
 To whom should I go?
 
-**haida gova!**
+**haida gowa!**
 Let's go!
 
-**haida gova sa fute**
+**haida gowa sa fute**
 Let's go by foot!
 
 
@@ -766,7 +766,7 @@ Come here!
 **te laya ca ke?**
 Where do you come from?
 
-**me laya ca dubay.**
+**me laya ca Dubai.**
 I come from Dubai.
 
 **me laya dome badoden.**
@@ -778,7 +778,7 @@ I will come home tomorrow.
 **eska te safara sa tren?**
 Do you travel by train?
 
-**mome safara ca london pa paris.**
+**mome safara ca London pa Paris.**
 We travel from London to Paris.
 
 **safare multo longi.**
@@ -802,7 +802,7 @@ I'm at home.
 **le sa ke?**
 Where is he/she?
 
-**le sida sa kamare.**
+**le sida sa kamar.**
 He/she sits in the room.
 
 Tip! You can use **sa** as a preposition or alone as the verb.
@@ -851,7 +851,7 @@ I am greeting your friend.
 **man zayo vida fem.**  
 The man is looking at the woman.
 
-**le zayo xefe.**  
+**le zayo shefe.**  
 He or she is currently the chief.
 
 **le zayo sa dome.**  
@@ -866,7 +866,7 @@ I greeted your friend.
 **man paso vida fem.**  
 The man looked at the woman.
 
-**le paso xefe.**  
+**le paso shefe.**  
 He or she was the chief.
 
 **le paso sa dome.**  
@@ -881,7 +881,7 @@ I have greeted your friend.
 **man levo vida fem.**  
 The man has looked at the woman.
 
-**le levo xefe.**  
+**le levo shefe.**  
 He or she has been the chief.
 
 **le levo sa dome.**  
@@ -896,7 +896,7 @@ I will greet your friend.
 **man vilo vida fem.**  
 The man will see the woman.
 
-**le vilo xefe.**  
+**le vilo shefe.**  
 He or she will be the chief.
 
 **le vilo sa dome.**  
@@ -954,7 +954,7 @@ I want to take a car for rent.
 **me vola kirokapa un gare.**
 I want to rent a car.
 
-**le kirodona kamare pa safarer.**
+**le kirodona kamar pa safarer.**
 He/she rents rooms to travelers.
 
 
