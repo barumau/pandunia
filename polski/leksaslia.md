@@ -8,7 +8,6 @@
 |**abite**|jodła|spa:por:abeto|
 |**abla**|móc, umieć|eng:able, spa:hábil, fra:habile, ron:abil|
 |**achu***|apsik|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
-|**acion (acione)**|działanie (akcja)|fra:eng:action, spa:acción, por:ação, may:aksi|
 |**adalia**|sprawiedliwość|ara:(ʿadl), tur:adalet, may:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |**ade**|nawyk (przyzwyczajenie)|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |**adrese**|adres|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
@@ -61,8 +60,7 @@
 |**asle**|źródło, początek, pochodzenie|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |**asme**|astma|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |**aspirine**|aspiryna|eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin)|
-|**ata**|aż do|por:até, ara:(ḥatta), spa:hasta, swa:hata|
-|**atis (atise)**|jabłko cukrowe|fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|
+|**ata***|jabłko cukrowe|fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|
 |**atlanti haye**|Ocean Atlantycki|eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|
 |**atome**|atom|eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|
 |**auda**|usłyszeć, słyszeć; słuchać|eng:spa:fra:audio, por:áudio|
@@ -218,6 +216,8 @@
 |**ciani**|niebieskozielony (cyjan)|eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|
 |**cirke**|koło, okrąg|eng:circle, spa:por:círculo, fra:cercle, fas:چرخ‎ (čarx), hin:चक्र (cakra)|
 |**cita**|cytować|eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|
+|**cite**|miast, miasteczko|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
+|**civili**|cywilizowany (ucywilizowany)|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**coy**|zielenina|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
 |**da**|z (partykuła posiadania)|fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dade**|kość do gry|spa:por:tgl:dado, may:swa:dadu|
@@ -432,8 +432,9 @@
 |**grome**|grom, huk|rus:гром (grom), pol:grom|
 |**grosi**|gruby|fra:gros, por:grosso, spa:grueso|
 |**grupe**|grupa|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
+|**Guangjou**|Kanton|CN|
 |**guanshe**|związek, powiązanie, połączenie|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
-|**gubuhe**|hipopotam|ful:ngabu kon:ngubu/mvubu, zul:imvubu, amh:gumarre|
+|**gubu***|hipopotam|ful:ngabu kon:ngubu/mvubu, zul:imvubu, amh:gumarre|
 |**gude**|koń|may:kuda, kan:ಕುದುರೆ (kudure), tam:குதிரை (kutirai), tel:గుర్రము (gurramu), hin:घोड़ा (ghoṛā), urd:(ghoṛā), ben:ঘোড়া (ghoṛa), pnb:ਘੋੜਾ (ghōṛā)|
 |**guhe**|jaskinia|ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (guha), hin:गुफ़ा (gufā), may:gua|
 |**gula**|połknąć (połykać)|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
@@ -454,7 +455,7 @@
 |**halali**|dozwolony (dopuszczalny, zezwolony, halal)|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
 |**hale**|stan|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
 |**halela**|chwalić (wychwalać)|heb:(hal'lu yah), eng:hallelujah, zho:哈利路亚 (hālìlùyà), ara:(hallilūyā), por:fra:alléluia, rus:аллилуйя (alliluyya), spa:aleluya, may:haleluya, tgl:aleluya, jpn:ハレルヤ (hareruya), kor:할렐루야 (hallelluya)|
-|**halov**|halo, cześć|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
+|**halo***|halo, cześć|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |**hamake**|hamak|eng:hammock, spa:hamaca, fra:hamac, rus:гамак (gamak), tur:hamak, jpn:ハンモック (hanmokku)|
 |**hamare**|młot, młotek|eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀|
 |**hami**|ważny|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:mühim, fas:(mohemm)|
@@ -468,8 +469,9 @@
 |**harmonia**|harmonia|eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)|
 |**harnese**|zaprzęc, zaprzęgać|fra:harnais, eng:harness, spa:arnés, por:arnês|
 |**hasi**|specjalny, wyraźny, wyrazisty|ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|
+|**hata**|aż do|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |**hatre**|zagrożenie, niebezpieczeństwo|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
-|**have**|wiatr|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
+|**hawe**|wiatr|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
 |**haye**|może|zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|
 |**he**|hę?, co?, pardon?|fra:por:hein, jpn:e|
 |**helise**|helisa|ell: ἕλιξ (helix), eng:helix, fra:por:spa:hélice, pol:helisa, ara:(ḥalazūn), tur:helezon|
@@ -1240,8 +1242,6 @@
 |**sisi**|sześć (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|
 |**sisme**|trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)|ell:σεισμός (seismós), eng:seism, spa:sismo, fra:séisme, tur:sismik|
 |**sisteme**|system|eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|
-|**site**|miast, miasteczko|eng:city, fra:cité, + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
-|**sivili**|cywilizowany (ucywilizowany)|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**socia**|społeczeństwo, system społeczny|rus:социум (socium), eng:society, spa:sociedad|
 |**sofa***|sofa (kanapa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|mądrość|ell:σοφία (sofía)|

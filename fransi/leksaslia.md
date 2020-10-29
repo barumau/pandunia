@@ -7,7 +7,6 @@
 |**abite**|Sapin|spa:por:abeto|
 |**abla**|pouvoir (être capable)|eng:able, spa:hábil, fra:habile, ron:abil|
 |**achu***|atchoum|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
-|**acion (acione)**|action|fra:eng:action, spa:acción, por:ação, may:aksi|
 |**adalia**|justice|ara:(ʿadl), tur:adalet, may:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |**adrese**|adresse|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
 |**Afrike**|Afrique|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika|
@@ -50,7 +49,8 @@
 |**asle**|origine|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |**asme**|asthme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |**aspirine**|aspirine|eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin)|
-|**ata**|jusque (jusqu’à)|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|**ate**|acte|por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|
+|**ater**|agent (faiseur)|eng:actor,-ator, fra:-ateur, spa:por:-ador|
 |**aure**|or|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |**auroranje**|kumquat|zho:金橘 (jīnjú), jpn:キンキツ (kinkitsu), kor:금귤 (geumgyul), vie:kim quất|
 |**aventure**|aventure|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
@@ -117,6 +117,7 @@
 |**chira**|déchirer|hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|
 |**chise**|fromage|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |**chokolate**|chocolat|spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|
+|**cite**|ville|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**daka**|couvrir|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |**dalile**|preuve|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
 |**damaje**|dommage|eng:damage, fra:dommage|
@@ -191,9 +192,10 @@
 |**haime**|tente|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |**hake**|droit|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |**hale**|état|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
-|**halov**|allô|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
+|**halo***|allô|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |**hami**|important|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:mühim, fas:(mohemm)|
 |**hande**|main|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
+|**hata**|jusque (jusqu’à)|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |**hatre**|danger|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**haye**|mer|zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|
 |**hevane**|animal (bête)|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
@@ -481,7 +483,6 @@
 |**sile**|maillon (chaînon)|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri|
 |**silke**|soie|zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), eng:silk, spa:por:sérico, rus:шёлк (sholk)|
 |**sisi**|six (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|
-|**site**|ville|eng:city, fra:cité, + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**socia**|société|rus:социум (socium), eng:society, spa:sociedad|
 |**sofa***|canapé (sofa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sole**|soleil|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|

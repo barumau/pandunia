@@ -8,8 +8,10 @@ accent - aksente
 accord - samraye  
 accès - aksese  
 acheter - shopa  
+acte - ate  
+actif - ativi  
 actinium - acinem  
-action - acion (acione)  
+action - ation  
 adhésif (collant) - gluti  
 adjectif - sifloge  
 adresse - adrese  
@@ -20,6 +22,7 @@ africain - Afriki
 Afrique - Afrike  
 afrophile - afrikofiler  
 afrophilie - afrikofilia  
+agent (faiseur) - ater  
 agent pathogène - patojener  
 agile - ajili  
 agression (attaque) - agrese  
@@ -34,7 +37,7 @@ algues brunes - brunalge
 Aller-retour - retrotikete  
 alligator - kortokrokodile  
 allophone - alfone  
-allô - halov  
+allô - halo*  
 alphabet - harfia  
 aluminium - aluminem  
 amande - badame  
@@ -90,6 +93,7 @@ aspirine - aspirine
 assez - basi  
 asthme - asme  
 atchoum - achu*  
+Athènes - Athina  
 autel - altare  
 automne - otone  
 autre - ali  
@@ -479,12 +483,14 @@ jeudi - var 4 (var chari)
 joule (J) - jule  
 Jupiter - Jupiter  
 jus - juse  
-jusque (jusqu’à) - ata  
+jusque (jusqu’à) - hata  
 juste - adali  
 justice - adalia  
 Jésus - Yesu  
 ##k
 kangourou - kangaru  
+Khartoum - Khartum  
+Kinshasa - Kinshasa  
 kiwi - kiwi*  
 kumquat - auroranje  
 ##l
@@ -678,7 +684,7 @@ par exemple - misalo
 paramètre - parame  
 parapluie - barshochate  
 parc - parke  
-Paris - paris  
+Paris - Paris  
 parler - loga  
 passeport - pasporte  
 pastèque - arbuze  
@@ -795,6 +801,7 @@ riz - rise
 robot - robote  
 roche (pierre) - petre  
 rocher - daysheke  
+Rome - Roma  
 rose - roze  
 rosée - rose  
 roue - chakre  
@@ -957,7 +964,7 @@ viande - manse
 vie - jive  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltane  
-ville - site  
+ville - cite  
 violet (pourpre) - violeti  
 virus - virus (viruse)  
 visage - muke  
@@ -968,7 +975,7 @@ vivre (habiter) - doma
 vocabulaire (lexique) - logia  
 voile - hijabe  
 voir - vida  
-voire (même) - ato  
+voire (même) - hato  
 volcan - hogoshane  
 voler - feyu  
 vouloir - vola  

@@ -7,7 +7,6 @@
 |**a**|mutta|venäjä:а (a), puola:a, + yleiskiina:啊 (ā), + englanti:ah|
 |**abla**|voida (osata, pystyä)|englanti:able, espanja:hábil, ranska:habile, ron:abil|
 |**achu***|atsii|espanja:achís, yleiskiina: 阿嚏 (ātì), korea:에취 (echwi), venäjä:апчхи, vietnami:hắt xì, englanti:achoo, ranska:atchoum|
-|**acion (acione)**|toiminta|ranska:englanti:action, espanja:acción, portugali:ação, malaiji:aksi|
 |**adalia**|oikeus|arabia:(ʿadl), turkki:adalet, malaiji:adalat, bangla:আদালত (adalôt), persia:urdu:('adālat)|
 |**ade**|tapa|arabia:(ʿāda), persia:urdu:('âdat), hindi:आदत (ādat), pandzabi:ਆਦਤ (ādat), turkki:adet|
 |**adrese**|osoite|englanti:address, ranska:deu:adresse, venäjä:адрес (adres), portugali:endereço|
@@ -56,7 +55,8 @@
 |**asle**|alkuperä|arabia:(ʾaṣl), turkki:asl, malaiji:asal, hindi:असल (asl), suahili:asili|
 |**asme**|astma|ranska:asthme, englanti:asthma, espanja:portugali:malaiji:asma, puola:astma|
 |**aspirine**|aspiriini|englanti:aspirin, espanja:portugali:aspirina, ranska:aspirine, venäjä:аспирин (aspirin), arabia:أسبرين‎ (ʾasbirīn), hindi:एस्पिरिन (espirin), yleiskiina:阿司匹林 (āsīpǐlín),  japani:アスピリン (asupirin)|
-|**ata**|asti (saakka)|portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata|
+|**ate**|teko (toimenpide, akti)|portugali:ato, englanti:act, ranska:acte, espanja:acto, venäjä:акт (akt), malaiji:aksi|
+|**ater**|tekijä (toimija)|englanti:actor,-ator, ranska:-ateur, espanja:portugali:-ador|
 |**atlanti haye**|Atlantin valtameri|englanti:Atlantic, espanja:Atlántico, portugali:Atlântico, venäjä:Атлантический океан (Atlanticheskyy okean), suahili:Atlantiki|
 |**atome**|atomi|englanti:turkki:malaiji:atom, espanja:portugali:átomo, venäjä:атом (atom), suahili:atomi, japani:アトム (atomu)|
 |**auda**|kuulla (kuunnella)|englanti:espanja:ranska:audio, portugali:áudio|
@@ -195,6 +195,8 @@
 |**chuza**|valita|englanti:choose, + hindi:चुनना (cunnā), + vietnami:chọn|
 |**cirke**|piiri (ympyrä)|englanti:circle, espanja:portugali:círculo, ranska:cercle, persia:چرخ‎ (čarx), hindi:चक्र (cakra)|
 |**cita**|lainata (siteerata)|englanti:cite, espanja:portugali:citar, ranska:citer, deu:zitieren, venäjä:цитировать (citirovat’)|
+|**cite**|suurkaupunki|englanti:city, ranska:cité, portugali:cidade, espanja:ciudad, italia:città + yleiskiina:市 (shì), korea:시 (si), japani:都市 (toshi)|
+|**civili**|sivistynyt|englanti:civil, portugali:civil, hindi:सिविल (sivil), malaiji:sipil|
 |**coy**|vihannes|yleiskiina:菜 (cài), kantoninkiina:菜 (coi3), englanti:-choy, malaiji:-coy|
 |**da**|omistetun omistajaan liittävä partikkeli|ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dade**|noppa (arpakuutio)|espanja:portugali:filippiini:dado, malaiji:suahili:dadu|
@@ -392,7 +394,7 @@
 |**grosi**|paksu|ranska:gros, portugali:grosso, espanja:grueso|
 |**grupe**|ryhmä|deu:Gruppe, ranska:groupe, englanti:group, espanja:portugali:grupo, venäjä:группа (gruppa), korea:그룹 (geurup), japani:グループ (gurūpu), turkki:grup, hindi:ग्रूप (grūp)|
 |**guanshe**|suhde (yhteys)|yleiskiina:关系 (guānxi), vietnami:quan hệ, korea:관계 (gwangye), japani:関係 (kankei)|
-|**gubuhe**|virtahepo|fulani:ngabu Kongo:ngubu/mvubu, zulu:imvubu, amharabia:gumarre|
+|**gubu***|virtahepo|fulani:ngabu Kongo:ngubu/mvubu, zulu:imvubu, amharabia:gumarre|
 |**gude**|hevonen|malaiji:kuda, kannada:ಕುದುರೆ (kudure), tamili:குதிரை (kutirai), telugu:గుర్రము (gurramu), hindi:घोड़ा (ghoṛā), urdu:(ghoṛā), bangla:ঘোড়া (ghoṛa), pandzabi:ਘੋੜਾ (ghōṛā)|
 |**guhe**|luola|bangla:গুহা (guha), thai:คูหา (gūhā), telugu:గుహ (guha), hindi:गुफ़ा (gufā), malaiji:gua|
 |**gula**|niellä|bangla:গেলা (gela), portugali:engolir, venäjä:глотать (glotat'), thai:กลืน (glʉʉn), espanja:deglutir, ranska:déglutir|
@@ -413,7 +415,7 @@
 |**halali**|sallittu (hyväksytty)|arabia:(ḥalāl), persia:urdu:(halāl), englanti:espanja:ranska:portugali:malaiji:halal, turkki:helal, venäjä:халяльный (xaljalʹniy), hindi:हलाल (halāl), suahili:halali, korea:할랄 (hallal)|
 |**hale**|tila (tilanne, seikka)|arabia:(ḥāla), hindi:हालत (hālat), suahili:hali, turkki:hâl|
 |**halela**|ylistää|heb:(hal'lu yah), englanti:hallelujah, yleiskiina:哈利路亚 (hālìlùyà), arabia:(hallilūyā), portugali:ranska:alléluia, venäjä:аллилуйя (alliluyya), espanja:aleluya, malaiji:haleluya, filippiini:aleluya, japani:ハレルヤ (hareruya), korea:할렐루야 (hallelluya)|
-|**halov**|hei (haloo)|englanti:hello,hullo, ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), turkki:alo, hindi:हेलो (helo), yleiskiina:哈啰 (hāluō)|
+|**halo***|hei (haloo)|englanti:hello,hullo, ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), turkki:alo, hindi:हेलो (helo), yleiskiina:哈啰 (hāluō)|
 |**hamake**|riippumatto|englanti:hammock, espanja:hamaca, ranska:hamac, venäjä:гамак (gamak), turkki:hamak, japani:ハンモック (hanmokku)|
 |**hamare**|vasara|englanti:hammer, deu:Hammer, japani:ハンマー (hanmā), hausa:hamā̀|
 |**hami**|tärkeä|arabia: هَامّ (hāmm), hindi:अहम (aham), urdu: اہم (aham), turkki:mühim, persia:(mohemm)|
@@ -427,8 +429,9 @@
 |**harmonia**|harmonia|englanti:harmony, espanja:armonía, portugali:harmonia, ranska:harmonie, venäjä:гармония (garmoniya)|
 |**harnese**|valjaat|ranska:harnais, englanti:harness, espanja:arnés, portugali:arnês|
 |**hasi**|erikoinen (erityinen)|arabia:(xāṣṣ), persia:urdu:(xās), hindi:ख़ास (xās), malaiji:khas|
+|**hata**|asti (saakka)|portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata|
 |**hatre**|vaara|arabia: خطر‎ (xaṭar), persia: خطر‎ (xatar), urdu: خطرہ‎ (xatrā), hindi:ख़तरा (xatrā), suahili:hatari, turkki:muhatara|
-|**have**|tuuli (puhallus)|hindi:हवा (havā), urdu:(havā), pandzabi:ਹਵਾ (hawā), + arabia:(hawāʾ), persia:(havā), turkki:hava, malaiji:hawa, som:hawo, suahili:hewa, bangla:হাওয়া (haowa)|
+|**hawe**|tuuli (puhallus)|hindi:हवा (havā), urdu:(havā), pandzabi:ਹਵਾ (hawā), + arabia:(hawāʾ), persia:(havā), turkki:hava, malaiji:hawa, som:hawo, suahili:hewa, bangla:হাওয়া (haowa)|
 |**haye**|meri|yleiskiina:海 (hǎi), kantoninkiina:海 (hoi2), japani:海 (kai), korea:해양 (haeyang), vietnami:hải|
 |**he**|häh?|ranska:portugali:hein, japani:e|
 |**helise**|kierre (spiraali)|kreikka: ἕλιξ (helix), englanti:helix, ranska:portugali:espanja:hélice, puola:helisa, arabia:(ḥalazūn), turkki:helezon|
@@ -1121,8 +1124,6 @@
 |**sirke**|etikka|turkki:sirke, persia:(serke), hindi:सिरका (sirkā), pandzabi:ਸਿਰਕਾ (sirkā)|
 |**sisi**|kuusi (6)|englanti:ranska:six, espanja:portugali:seis, deu:sechs, venäjä:шесть (shest’), arabia:ستة‎ (sitta), persia:شِش‎ (šeš), hindi:छह (chah), सहा (sahā)|
 |**sisteme**|järjestelmä (systeemi)|englanti:system, espanja:portugali:sistema, ranska:système, venäjä:система (sistema), hindi:सिस्टम (sisṭam), bangla:সিস্টেম (śiśṭem), malaiji:sistem|
-|**site**|suurkaupunki|englanti:city, ranska:cité, + yleiskiina:市 (shì), korea:시 (si), japani:都市 (toshi)|
-|**sivili**|sivistynyt|englanti:civil, portugali:civil, hindi:सिविल (sivil), malaiji:sipil|
 |**socia**|seura|venäjä:социум (socium), englanti:society, espanja:sociedad|
 |**sofa***|sohva|englanti:ranska:sofa, espanja:portugali:sofá, venäjä:софа (sofa), yleiskiina:沙发 (shāfā), japani:ソファ (sofa), korea:소파 (sopa), hindi:सोफ़ा (sofā)|
 |**sofia**|viisaus|kreikka:σοφία (sofía)|

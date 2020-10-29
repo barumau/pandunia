@@ -62,10 +62,12 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirine - 阿司匹林  
-ata - 直到  
+ate - 作为 (行为)  
+Athina - 雅典  
+ation - 行动  
+ativi - 活性  
 atlantokade - 大西洋鱈  
 atlantosamone - 大西洋鮭  
-ato - 连  
 aure - 金  
 auroranje - 金柑  
 aventure - 冒险  
@@ -277,7 +279,7 @@ grafsage - 漫画
 granite - 花岗石  
 grave - 砾石  
 grimase - 鬼脸  
-guangjou - 广州  
+Guangjou - 广州  
 gukuve - 菊花  
 gune - 军队  
 gunrene - 军人  
@@ -294,6 +296,8 @@ hamili - 怀孕
 hande - 手  
 handoshake - 胳膊  
 harfia - 字母表  
+hata - 直到  
+hato - 连  
 hatre - 危险  
 hayalge - 海藻  
 haye - 海  
@@ -403,6 +407,7 @@ kechi - 客气
 kenarbaryer - 篱笆  
 kenare - 边  
 kerne - 核心  
+Khartum - 喀土穆  
 kime - 物质  
 kimeme - 元素  
 kimlojia - 化学  
@@ -682,6 +687,7 @@ rezulte - 影响
 rise - 米  
 ritime - 节奏  
 roketolancer - 火箭筒  
+Roma - 罗马  
 romkamile - 果香菊  
 rototafune - 飓风 (台风)  
 roze - 玫瑰  

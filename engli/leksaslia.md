@@ -8,7 +8,6 @@
 |**abite**|fir tree|Spanish:Portuguese:abeto|
 |**abla**|can (know, be able)|English:able, Spanish:hábil, French:habile, ron:abil|
 |**achu***|achoo|Spanish:achís, Mandarin: 阿嚏 (ātì), Korean:에취 (echwi), Russian:апчхи, Vietnamese:hắt xì, English:achoo, French:atchoum|
-|**acion (acione)**|action|French:English:action, Spanish:acción, Portuguese:ação, Malay:aksi|
 |**adalia**|justice|Arabic:(ʿadl), Turkish:adalet, Malay:adalat, Bengali:আদালত (adalôt), Persian:Urdu:('adālat)|
 |**ade**|habit|Arabic:(ʿāda), Persian:Urdu:('âdat), Hindi:आदत (ādat), Punjabi:ਆਦਤ (ādat), Turkish:adet|
 |**adrese**|address|English:address, French:deu:adresse, Russian:адрес (adres), Portuguese:endereço|
@@ -62,8 +61,9 @@
 |**asle**|origin (source)|Arabic:(ʾaṣl), Turkish:asl, Malay:asal, Hindi:असल (asl), Swahili:asili|
 |**asme**|asthma|French:asthme, English:asthma, Spanish:Portuguese:Malay:asma, Polish:astma|
 |**aspirine**|aspirin|English:aspirin, Spanish:Portuguese:aspirina, French:aspirine, Russian:аспирин (aspirin), Arabic:أسبرين‎ (ʾasbirīn), Hindi:एस्पिरिन (espirin), Mandarin:阿司匹林 (āsīpǐlín),  Japanese:アスピリン (asupirin)|
-|**ata**|until (til, up to)|Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata|
-|**atis (atise)**|sugar-apple (sweetsop)|French:atte, Portuguese:ata, Bengali:আতা (ata), Filipino:atis, som:aat|
+|**ata***|sugar-apple (sweetsop)|French:atte, Portuguese:ata, Bengali:আতা (ata), Filipino:atis, som:aat|
+|**ate**|act (deed)|Portuguese:ato, English:act, French:acte, Spanish:acto, Russian:акт (akt), Malay:aksi|
+|**ater**|agent (doer, actor)|English:actor,-ator, French:-ateur, Spanish:Portuguese:-ador|
 |**atlanti haye**|Atlantic Ocean|English:Atlantic, Spanish:Atlántico, Portuguese:Atlântico, Russian:Атлантический океан (Atlanticheskyy okean), Swahili:Atlantiki|
 |**atome**|atom|English:Turkish:Malay:atom, Spanish:Portuguese:átomo, Russian:атом (atom), Swahili:atomi, Japanese:アトム (atomu)|
 |**auda**|hear (listen)|English:Spanish:French:audio, Portuguese:áudio|
@@ -219,6 +219,8 @@
 |**ciani**|cyan|English:cyan, Spanish:cian, Russian:циан (tsian), Arabic:سيان (sayan), Hindi:क्यान (kyāna), Japanese:シアン (shian), Malay:sian|
 |**cirke**|circle (round)|English:circle, Spanish:Portuguese:círculo, French:cercle, Persian:چرخ‎ (čarx), Hindi:चक्र (cakra)|
 |**cita**|quote (cite)|English:cite, Spanish:Portuguese:citar, French:citer, deu:zitieren, Russian:цитировать (citirovat’)|
+|**cite**|city|English:city, French:cité, Portuguese:cidade, Spanish:ciudad, Italian:città + Mandarin:市 (shì), Korean:시 (si), Japanese:都市 (toshi)|
+|**civili**|civilized (civil)|English:civil, Portuguese:civil, Hindi:सिविल (sivil), Malay:sipil|
 |**coy**|greens|Mandarin:菜 (cài), Cantonese:菜 (coi3), English:-choy, Malay:-coy|
 |**da**|of (particle of possession)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dade**|die (dice)|Spanish:Portuguese:Filipino:dado, Malay:Swahili:dadu|
@@ -434,8 +436,9 @@
 |**grome**|thunder (roaring)|Russian:гром (grom), Polish:grom|
 |**grosi**|thick|French:gros, Portuguese:grosso, Spanish:grueso|
 |**grupe**|group|deu:Gruppe, French:groupe, English:group, Spanish:Portuguese:grupo, Russian:группа (gruppa), Korean:그룹 (geurup), Japanese:グループ (gurūpu), Turkish:grup, Hindi:ग्रूप (grūp)|
+|**Guangjou**|Guangzhou (Canton)|CN|
 |**guanshe**|relationship (association, connection)|Mandarin:关系 (guānxi), Vietnamese:quan hệ, Korean:관계 (gwangye), Japanese:関係 (kankei)|
-|**gubuhe**|hippopotamus|Fulani:ngabu Kongo:ngubu/mvubu, Zulu:imvubu, Amharic:gumarre|
+|**gubu***|hippopotamus|Fulani:ngabu Kongo:ngubu/mvubu, Zulu:imvubu, Amharic:gumarre|
 |**gude**|horse|Malay:kuda, Kannada:ಕುದುರೆ (kudure), Tamil:குதிரை (kutirai), Telugu:గుర్రము (gurramu), Hindi:घोड़ा (ghoṛā), Urdu:(ghoṛā), Bengali:ঘোড়া (ghoṛa), Punjabi:ਘੋੜਾ (ghōṛā)|
 |**guhe**|cave|Bengali:গুহা (guha), Thai:คูหา (gūhā), Telugu:గుహ (guha), Hindi:गुफ़ा (gufā), Malay:gua|
 |**gukuve**|florist's chrysanthemum|Mandarin:菊花 (júhuā), Cantonese:菊花 (guk1 faa1), Japanese:キク (kiku), Korean:국화 (gukhwa), Vietnamese:cúc đại đóa, Thai:เก๊กฮวย (gék-huai), Malay:kekwa, Arabic:ara:قحوان (quḥwān)|
@@ -457,7 +460,7 @@
 |**halali**|permissible (allowed, halal)|Arabic:(ḥalāl), Persian:Urdu:(halāl), English:Spanish:French:Portuguese:Malay:halal, Turkish:helal, Russian:халяльный (xaljalʹniy), Hindi:हलाल (halāl), Swahili:halali, Korean:할랄 (hallal)|
 |**hale**|state (condition, status, situation)|Arabic:(ḥāla), Hindi:हालत (hālat), Swahili:hali, Turkish:hâl|
 |**halela**|praise (commend, exalt)|heb:(hal'lu yah), English:hallelujah, Mandarin:哈利路亚 (hālìlùyà), Arabic:(hallilūyā), Portuguese:French:alléluia, Russian:аллилуйя (alliluyya), Spanish:aleluya, Malay:haleluya, Filipino:aleluya, Japanese:ハレルヤ (hareruya), Korean:할렐루야 (hallelluya)|
-|**halov**|hello (hi)|English:hello,hullo, French:allô, Spanish:aló, Portuguese:alô, Russian:алло (allo), Turkish:alo, Hindi:हेलो (helo), Mandarin:哈啰 (hāluō)|
+|**halo***|hello (hi)|English:hello,hullo, French:allô, Spanish:aló, Portuguese:alô, Russian:алло (allo), Turkish:alo, Hindi:हेलो (helo), Mandarin:哈啰 (hāluō)|
 |**hamake**|hammock|English:hammock, Spanish:hamaca, French:hamac, Russian:гамак (gamak), Turkish:hamak, Japanese:ハンモック (hanmokku)|
 |**hamare**|hammer|English:hammer, deu:Hammer, Japanese:ハンマー (hanmā), Hausa:hamā̀|
 |**hami**|important|Arabic: هَامّ (hāmm), Hindi:अहम (aham), Urdu: اہم (aham), Turkish:mühim, Persian:(mohemm)|
@@ -471,8 +474,9 @@
 |**harmonia**|harmony|English:harmony, Spanish:armonía, Portuguese:harmonia, French:harmonie, Russian:гармония (garmoniya)|
 |**harnese**|harness|French:harnais, English:harness, Spanish:arnés, Portuguese:arnês|
 |**hasi**|special (distinct)|Arabic:(xāṣṣ), Persian:Urdu:(xās), Hindi:ख़ास (xās), Malay:khas|
+|**hata**|until (til, up to)|Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata|
 |**hatre**|danger (peril)|Arabic: خطر‎ (xaṭar), Persian: خطر‎ (xatar), Urdu: خطرہ‎ (xatrā), Hindi:ख़तरा (xatrā), Swahili:hatari, Turkish:muhatara|
-|**have**|wind|Hindi:हवा (havā), Urdu:(havā), Punjabi:ਹਵਾ (hawā), + Arabic:(hawāʾ), Persian:(havā), Turkish:hava, Malay:hawa, som:hawo, Swahili:hewa, Bengali:হাওয়া (haowa)|
+|**hawe**|wind|Hindi:हवा (havā), Urdu:(havā), Punjabi:ਹਵਾ (hawā), + Arabic:(hawāʾ), Persian:(havā), Turkish:hava, Malay:hawa, som:hawo, Swahili:hewa, Bengali:হাওয়া (haowa)|
 |**haye**|sea|Mandarin:海 (hǎi), Cantonese:海 (hoi2), Japanese:海 (kai), Korean:해양 (haeyang), Vietnamese:hải|
 |**he**|huh? (pardon?)|French:Portuguese:hein, Japanese:e|
 |**helise**|spiral (helix, corkscrew, twist)|Greek: ἕλιξ (helix), English:helix, French:Portuguese:Spanish:hélice, Polish:helisa, Arabic:(ḥalazūn), Turkish:helezon|
@@ -1247,8 +1251,6 @@
 |**sisi**|six (6)|English:French:six, Spanish:Portuguese:seis, deu:sechs, Russian:шесть (shest’), Arabic:ستة‎ (sitta), Persian:شِش‎ (šeš), Hindi:छह (chah), सहा (sahā)|
 |**sisme**|shake (jolt, earthquake)|Greek:σεισμός (seismós), English:seism, Spanish:sismo, French:séisme, Turkish:sismik|
 |**sisteme**|system|English:system, Spanish:Portuguese:sistema, French:système, Russian:система (sistema), Hindi:सिस्टम (sisṭam), Bengali:সিস্টেম (śiśṭem), Malay:sistem|
-|**site**|city|English:city, French:cité, + Mandarin:市 (shì), Korean:시 (si), Japanese:都市 (toshi)|
-|**sivili**|civilized (civil)|English:civil, Portuguese:civil, Hindi:सिविल (sivil), Malay:sipil|
 |**socia**|society (association)|Russian:социум (socium), English:society, Spanish:sociedad|
 |**sofa***|sofa (couch)|English:French:sofa, Spanish:Portuguese:sofá, Russian:софа (sofa), Mandarin:沙发 (shāfā), Japanese:ソファ (sofa), Korean:소파 (sopa), Hindi:सोफ़ा (sofā)|
 |**sofia**|wisdom|Greek:σοφία (sofía)|

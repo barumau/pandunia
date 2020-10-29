@@ -100,8 +100,11 @@ asle - origino
 asli - origina  
 asme - astmo  
 aspirine - aspirino  
-ata - ĝis  
-ato - eĉ  
+ate - ago  
+ater - aganto  
+Athina - Ateno  
+ation - agado  
+ativi - agema  
 atome - atomo  
 auda - aŭdi (aŭskulti)  
 aure - oro  
@@ -195,6 +198,7 @@ berande - verando
 berete - bereto  
 berilem - berilio  
 berkelem - berkelio  
+Berlin - Berlino  
 betone - betono  
 biblia - Biblio  
 bina - konstrui  
@@ -300,6 +304,7 @@ chuza - elekti
 chuze - elekto  
 cirka - ĉirkaŭi  
 cita - citi  
+cite - urbego  
 ##d
 da - de (partiklo de posedo)  
 da - kiu (komencigas relativan frazon)  
@@ -608,7 +613,7 @@ grome - tondro
 grupe - grupo  
 guanshe - rilato  
 Guatemala - Gvatemalo  
-gubuhe - hipopotamo  
+gubu* - hipopotamo  
 gude - ĉevalo  
 guhe - kaverno  
 gula - gluti  
@@ -636,7 +641,7 @@ hakime - juĝo
 hakimer - juĝisto  
 hale - stato  
 halife - kalifo  
-halov - saluton!  
+halo* - saluton!  
 hamake - hamako  
 hamare - martelo  
 hami - grava  
@@ -653,10 +658,12 @@ harmoni - harmonia
 harmonia - harmonio  
 hasem - hasio  
 hasi - speciala  
+hata - ĝis  
+hato - eĉ  
 hatre - danĝero  
 hatri - danĝera  
 hava - venti  
-have - vento  
+hawe - vento  
 haye - maro  
 haygune - mararmeo  
 hayi - mara  
@@ -854,6 +861,7 @@ kerni fizikia - ydinfysiikka
 kerni livunisia - ydinfuusio  
 keshe - haro  
 keshosabune - ŝampuo  
+Khartum - Ĥartumo  
 ki ren - kiu?  
 ki sate - kiam?  
 ki shey - kio?  
@@ -1350,6 +1358,7 @@ robote - roboto
 rodem - rodio  
 rola - ludi rolon  
 roler - aktoro (aktorino)  
+Roma - Romo  
 rose - roso  
 rototafune - uragano (tajfuno)  
 roze - rozo  
@@ -1487,7 +1496,6 @@ sinkafase - torako
 sirke - vinagro  
 sismolojia - sismologio  
 sisteme - sistemo  
-site - urbego  
 socia - socio  
 sofa* - sofo  
 sofi - saĝa  

@@ -15,7 +15,6 @@ ablo - maybe (perhaps, possibly)
 achu* - achoo  
 achua - sneeze  
 acinem - actinium  
-acion (acione) - action  
 adali - just (fair)  
 adalia - justice  
 ade - habit  
@@ -179,12 +178,15 @@ asli - original (authentic)
 asme - asthma  
 aspirine - aspirin  
 astatin - astatine  
-ata - until (til, up to)  
-atis (atise) - sugar-apple (sweetsop)  
+ata* - sugar-apple (sweetsop)  
+ate - act (deed)  
+ater - agent (doer, actor)  
+Athina - Athens  
+ation - action  
+ativi - active  
 atlanti haye - Atlantic Ocean  
 atlantokade - Atlantic cod  
 atlantosamone - Atlantic salmon  
-ato - even (implying extreme example)  
 atome - atom  
 auda - hear (listen)  
 aure - gold  
@@ -335,6 +337,7 @@ berete - beret
 berilem - beryllium  
 berje - birch tree  
 berkelem - berkelium  
+Berlin - Berlin  
 Bermuda - Bermuda  
 bete - beetroot  
 betone - concrete (material with cement)  
@@ -399,6 +402,7 @@ brauza - explore (browse)
 brauzer - explorer (browser)  
 bravi - brave (gallant, valiant)  
 bravo - bravo!  
+Brazavile - Brazzaville  
 Brazavile Kongo - Congo (Brazzaville)  
 Brazil - Brazil  
 Britania - United Kingdom  
@@ -409,6 +413,7 @@ Bruney - Brunei Darussalam
 bruni - brown  
 brunsamone - brown trout  
 buda - realize  
+Budapesht - Budapest  
 bude - Buddha  
 bude - realization (awareness, enlightenment, bodhi)  
 budi - aware (enlightened)  
@@ -521,7 +526,10 @@ cirke - circle (round)
 cirki - round (circular)  
 cirkosheke - cobblestone  
 cita - quote (cite)  
+cite - city  
 citi marke - quotation mark  
+civili - civilized (civil)  
+civilia - civilization  
 coy - greens  
 Cuana - Botswana  
 ##d
@@ -1078,10 +1086,10 @@ grosia - thickness
 grupe - group  
 Guadelupe - Guadeloupe  
 Guam - Guam  
-guangjou - Guangzhou (Canton)  
+Guangjou - Guangzhou (Canton)  
 guanshe - relationship (association, connection)  
 Guatemala - Guatemala  
-gubuhe - hippopotamus  
+gubu* - hippopotamus  
 gude - horse  
 guhe - cave  
 gujarati - Gujarati  
@@ -1123,7 +1131,7 @@ hale - state (condition, status, situation)
 halela - praise (commend, exalt)  
 halife - caliph  
 halifia - caliphate  
-halov - hello (hi)  
+halo* - hello (hi)  
 hamake - hammock  
 hamare - hammer  
 hami - important  
@@ -1150,13 +1158,14 @@ hasem - hassium
 hashishe - hashish  
 hasi - special (distinct)  
 hasia - distinction (specialty)  
+hata - until (til, up to)  
+hato - even (implying extreme example)  
 hatre - danger (peril)  
 hatri - dangerous (perilous)  
 hava - blow  
-Havayi - Hawaii  
-havayi - Hawaiian  
-havayi nesia - Hawaiian archipelago  
-have - wind  
+Hawayi - Hawaii  
+Hawayi nesia - Hawaiian archipelago  
+hawe - wind  
 Hayakia - Armenia  
 hayalge - seaweed (macroalgae)  
 haye - sea  
@@ -1178,6 +1187,7 @@ helisvimane - helicopter
 helme - helmet  
 helpa - help (assist)  
 helpe - help (aid, assistance)  
+Helsinki - Helsinki  
 hem - hmm  
 hema - ponder (think)  
 hene - hate  
@@ -1566,6 +1576,7 @@ keshe - hair
 keshobende - hairband (headband)  
 keshosabune - shampoo  
 ketele - kettle  
+Khartum - Khartoum  
 ki - which?  
 ki ren - who?  
 ki sate - when?  
@@ -1583,6 +1594,7 @@ kini - kinetic
 kinografe - movie (cinema)  
 kinografi - cinematic  
 kinografia - cinematography  
+Kinshasa - Kinshasa  
 Kinshasa Kongo - Congo Kinshasa  
 kioske - kiosk  
 Kipris - Cyprus  
@@ -1769,6 +1781,7 @@ kuvoranje - bitter orange
 labe - lip  
 lada - load (to charge)  
 lage - lake  
+Lagos - Lagos  
 laje - garbage (rubbish, trash)  
 lake - lacquer (varnish)  
 lalbavsheke - ruby  
@@ -2195,7 +2208,7 @@ mose - moss
 mosi - mossy  
 mosime - season  
 moskite - mosquito  
-moskove - Moscow  
+Moskove - Moscow  
 moskovem - moscovium  
 mote - motion (movement)  
 moter - engine (motor)  
@@ -2370,7 +2383,7 @@ nove - novelty
 novi - new (recent)  
 Novi Kaledonia - New Caledonia  
 novi ren - novice (newbie)  
-novi yorke site - New York City  
+Novi Yorke - New York City  
 Novi Zilande - New Zealand  
 novike - novice (newbie)  
 novo - just (recently)  
@@ -2492,7 +2505,7 @@ pargovi - parallel (longitudinal)
 pari - even (level, peer)  
 pari nombre - even number  
 parike - peer  
-paris - Paris  
+Paris - Paris  
 parke - park (garden)  
 parne - fern  
 parta - participate (attend, partake, take part)  
@@ -2787,6 +2800,7 @@ roketolancer - rocket launcher
 rola - act (play a role)  
 role - role  
 roler - actor (actress)  
+Roma - Rome  
 Romania - Romania  
 romansa - love romantically  
 romansi - romantic  
@@ -3094,9 +3108,6 @@ sismi - seismic (vibrational)
 sismolojia - seismology  
 sisteme - system  
 sistemi - systemic  
-site - city  
-sivili - civilized (civil)  
-sivilia - civilization  
 slavi - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -3525,6 +3536,7 @@ vulve - vulva
 vute - object (item)  
 ##w
 washa - wash  
+Washington - Washington DC  
 Washington DC - Washington D.C.  
 washomashine - washing machine  
 washurse - raccoon  

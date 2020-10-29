@@ -20,6 +20,10 @@ afrikamanteco - afrikofilia
 afrikamanto - afrikofiler  
 Afriko - Afrike  
 agaci (tedi, malamuzi) - irita  
+agado - ation  
+aganto - ater  
+agema - ativi  
+ago - ate  
 agrabla - hushi  
 agresema - agresi  
 aj (alas) - ay  
@@ -103,6 +107,7 @@ astmo - asme
 atako (agreso) - agrese  
 ateisto - andeviste  
 atendi - denga  
+Ateno - Athina  
 atomo - atome  
 aventuristo - aventurer  
 aventuro - aventure  
@@ -169,6 +174,7 @@ benzino - benzine
 bereto - berete  
 berilio - berilem  
 berkelio - berkelem  
+Berlino - Berlin  
 besto - hevane  
 betono - betone  
 bezoni - nida  
@@ -371,7 +377,7 @@ Etiopio - Etiopia
 etna - zuki  
 etno - zuke  
 evangelio - evanjile  
-eĉ - ato  
+eĉ - hato  
 eĥo - mirsonde  
 Eŭrazio - eurasia  
 eŭro - europese  
@@ -562,7 +568,7 @@ hieraū - chendeno
 Himalajo - himalia  
 hinduismo - hindistia  
 hinduo - hindiste  
-hipopotamo - gubuhe  
+hipopotamo - gubu*  
 Hispanio - Espania  
 historiisto - historer  
 historio (studo de historio) - historia  
@@ -1318,6 +1324,7 @@ robo - tunike
 roboto - robote  
 rodio - rodem  
 roko - petre  
+Romo - Roma  
 roso - rose  
 rozo - roze  
 rubeno - lalbavsheke  
@@ -1339,7 +1346,7 @@ salo - sale
 salti - jampa  
 saluti - salama  
 saluto - salame  
-saluton! - halov  
+saluton! - halo*  
 sama - sami  
 samario - samarem  
 samlandano - samdeshi  
@@ -1550,7 +1557,7 @@ ununura - moni
 uragano (tajfuno) - rototafune  
 uranio - uranem  
 urba - nagri  
-urbego - site  
+urbego - cite  
 urbo - nagre  
 urso - urse  
 utila - faidi  
@@ -1571,7 +1578,7 @@ veni - laya
 venki - shenga  
 venko - shenge  
 venti - hava  
-vento - have  
+vento - hawe  
 ventro - pete  
 ventumilo - panke  
 vera - veri  
@@ -1682,9 +1689,10 @@ zuluo - zuli
 ĝelo - jele  
 ĝentila - kechi  
 ĝirafo - jirafe  
-ĝis - ata  
+ĝis - hata  
 ĝusta (prava) - sahi  
 ĝuste (ekzakte) - justo  
+Ĥartumo - Khartum  
 ĥemio (kemio) - kimlojia  
 ĵaŭdo - var 4 (var chari)  
 ĵeti (lanĉi) - lanca  

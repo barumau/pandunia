@@ -8,7 +8,6 @@
 |**abite**|abeto|spa:por:abeto|
 |**abla**|poder|eng:able, spa:hábil, fra:habile, ron:abil|
 |**achu***|achís|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
-|**acion (acione)**|acción|fra:eng:action, spa:acción, por:ação, may:aksi|
 |**adalia**|justicia|ara:(ʿadl), tur:adalet, may:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |**ade**|costumbre (hábito)|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |**adrese**|dirección|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
@@ -60,8 +59,9 @@
 |**asle**|origen|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |**asme**|asma|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |**aspirine**|aspirina|eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin)|
-|**ata**|hasta|por:até, ara:(ḥatta), spa:hasta, swa:hata|
-|**atis (atise)**|anón (ates, saramuyo)|fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|
+|**ata***|anón (ates, saramuyo)|fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|
+|**ate**|acto|por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|
+|**ater**|agente|eng:actor,-ator, fra:-ateur, spa:por:-ador|
 |**atlanti haye**|océano Atlántico|eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|
 |**atome**|átomo|eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|
 |**auda**|oír (escuchar)|eng:spa:fra:audio, por:áudio|
@@ -215,6 +215,8 @@
 |**ciani**|cian|eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|
 |**cirke**|círculo|eng:circle, spa:por:círculo, fra:cercle, fas:چرخ‎ (čarx), hin:चक्र (cakra)|
 |**cita**|citar|eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|
+|**cite**|ciudad|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
+|**civili**|civilizado|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**coy**|verduras|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
 |**da**|de (posposición de posesión)|fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dade**|dado|spa:por:tgl:dado, may:swa:dadu|
@@ -428,7 +430,7 @@
 |**grosi**|grueso|fra:gros, por:grosso, spa:grueso|
 |**grupe**|grupo|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
 |**guanshe**|relación (asociación, conexión)|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
-|**gubuhe**|hipopótamo|ful:ngabu kon:ngubu/mvubu, zul:imvubu, amh:gumarre|
+|**gubu***|hipopótamo|ful:ngabu kon:ngubu/mvubu, zul:imvubu, amh:gumarre|
 |**gude**|caballo|may:kuda, kan:ಕುದುರೆ (kudure), tam:குதிரை (kutirai), tel:గుర్రము (gurramu), hin:घोड़ा (ghoṛā), urd:(ghoṛā), ben:ঘোড়া (ghoṛa), pnb:ਘੋੜਾ (ghōṛā)|
 |**guhe**|cueva (caverna)|ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (guha), hin:गुफ़ा (gufā), may:gua|
 |**gukuve**|crisantemo|zho:菊花 (júhuā), yue:菊花 (guk1 faa1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:ara:قحوان (quḥwān)|
@@ -450,7 +452,7 @@
 |**halali**|permitido (admisible)|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
 |**hale**|estado (condición)|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
 |**halela**|elogiar (alabar, exaltar)|heb:(hal'lu yah), eng:hallelujah, zho:哈利路亚 (hālìlùyà), ara:(hallilūyā), por:fra:alléluia, rus:аллилуйя (alliluyya), spa:aleluya, may:haleluya, tgl:aleluya, jpn:ハレルヤ (hareruya), kor:할렐루야 (hallelluya)|
-|**halov**|aló|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
+|**halo***|aló|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |**hamake**|hamaca|eng:hammock, spa:hamaca, fra:hamac, rus:гамак (gamak), tur:hamak, jpn:ハンモック (hanmokku)|
 |**hamare**|martillo (mazo)|eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀|
 |**hami**|importante|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:mühim, fas:(mohemm)|
@@ -464,8 +466,9 @@
 |**harmonia**|armonía|eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)|
 |**harnese**|arnés (arreos, jaeces)|fra:harnais, eng:harness, spa:arnés, por:arnês|
 |**hasi**|especial (diferenciado, distinto)|ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|
+|**hata**|hasta|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |**hatre**|peligro|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
-|**have**|viento|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
+|**hawe**|viento|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
 |**haye**|mar|zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|
 |**he**|cómo? (eh?)|fra:por:hein, jpn:e|
 |**helise**|espiral (hélice)|ell: ἕλιξ (helix), eng:helix, fra:por:spa:hélice, pol:helisa, ara:(ḥalazūn), tur:helezon|
@@ -1230,8 +1233,6 @@
 |**sirke**|vinagre|tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|
 |**sisi**|seis (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|
 |**sisteme**|sistema|eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|
-|**site**|ciudad|eng:city, fra:cité, + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
-|**sivili**|civilizado|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**socia**|sociedad|rus:социум (socium), eng:society, spa:sociedad|
 |**sofa***|sofá|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|sabiduría|ell:σοφία (sofía)|

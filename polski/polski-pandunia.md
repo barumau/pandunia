@@ -117,7 +117,7 @@ Azerbejdżan - Azeria
 Azja - asia  
 azjatycki - asi  
 azot - nitre  
-aż do - ata  
+aż do - hata  
 ##b
 babcia (babka) - lavmame  
 badać, studiować - loja  
@@ -377,8 +377,8 @@ cyrylica - kirili abace
 cytologia - selolojia  
 cytować - cita  
 cytryna - limone  
-cywilizacja - sivilia  
-cywilizowany (ucywilizowany) - sivili  
+cywilizacja - civilia  
+cywilizowany (ucywilizowany) - civili  
 Czad - Chade  
 czajnik - ketele  
 czapetka kuminowa - jambule  
@@ -524,7 +524,6 @@ dystans - telia
 dywan - talteshe  
 dzban, dzbanek; słój, słoik - jare  
 dziadek (dziad) - lavpape  
-działanie (akcja) - acion (acione)  
 działka (teren) - zemtike  
 działo - daypave  
 dziecko (nieletni) - bache  
@@ -795,7 +794,7 @@ głębokość - fastelia
 hafn - hafnem  
 Haiti - Haiti  
 hak - ganche  
-halo, cześć - halov  
+halo, cześć - halo*  
 hamak - hamake  
 han chiński - chini  
 handel - vendoshope  
@@ -806,9 +805,8 @@ harmoniczny - harmoni
 has - hasem  
 haszysz - hashishe  
 hasło - sekurkode  
-Hawaje (archipelag hawajski) - havayi nesia  
-Hawaje - Havayi  
-hawajski - havayi  
+Hawaje (archipelag hawajski) - Hawayi nesia  
+Hawaje - Hawayi  
 hałas - keler  
 hebel, strug - rander  
 heblować - randa  
@@ -826,7 +824,7 @@ higiena - hijenia
 Himalaje - himalia  
 hinduistyczny - hindiste  
 hinduizm - hindistia  
-hipopotam - gubuhe  
+hipopotam - gubu*  
 historia, badanie historii - historia  
 historia; annały, roczniki - histore  
 historyk - historer  
@@ -924,7 +922,7 @@ iść, maszerować - marchu
 ##j
 ja, mnie - me  
 jabłko - apele  
-jabłko cukrowe - atis (atise)  
+jabłko cukrowe - ata*  
 jadalnia - yamkamare  
 jagoda - bere  
 jajko (jajo) - ande  
@@ -1016,7 +1014,7 @@ kannada - karnadi
 kanoe - kanove  
 kanonier - daypaver  
 kantalupa - kantalupomelone  
-Kanton - guangjou  
+Kanton - Guangjou  
 kapelusz, czapka - tope  
 kaper (korsarz) - botokaper  
 kapeć (papeć, bambosz) - babuche  
@@ -1460,7 +1458,7 @@ metoda, sposób - metode
 metr - mitre  
 metro - tuneltren  
 miara - metre  
-miast, miasteczko - site  
+miast, miasteczko - cite  
 miasto - nagre  
 miecz - katane  
 miedź - kupre  
@@ -1549,7 +1547,7 @@ morski - hayi
 morskoniebieski - haynili  
 Morze Śródziemne - zemomedi haye  
 moskovium - moskovem  
-Moskwa - moskove  
+Moskwa - Moskove  
 most - pule  
 motocykl (motor) - motosikle  
 motyka - sape  
@@ -1642,7 +1640,7 @@ nauczyć się, uczyć się, studiować - darsa
 nauka, badanie, studiowanie - lojia  
 Nauru - Nauru  
 nautilus - nautile  
-nawet - ato  
+nawet - hato  
 nawozić (nawieźć) - caniva  
 nawyk (przyzwyczajenie) - ade  
 nawóz - caniver  
@@ -1735,7 +1733,7 @@ nowicjusz - novike
 nowoczesne - novyangi  
 nowość - nove  
 nowy - novi  
-Nowy Jork - novi yorke site  
+Nowy Jork - Novi Yorke  
 nożyce, nożyczki - makase  
 nuda (znudzenie) - boria  
 nudności (choroba lokomocyjna) - retroguli sense  
@@ -1931,7 +1929,7 @@ park (ogród) - parke
 parking - garparke  
 partia - partia  
 Partia Piratów - piratisti partia  
-Paryż - paris  
+Paryż - Paris  
 parę - duli o tini  
 pas, strefa - zone  
 paskal (Pa) - paskale  
@@ -3121,7 +3119,7 @@ wiadomy, znany - jani
 wiadro - balde  
 wiadukt, przejście powyżej - supre  
 wiara, wierzenie, kredo - shine  
-wiatr - have  
+wiatr - hawe  
 wiatrak (wentylator) - panke  
 wice- - visi  
 wiceprezydent - visprezidente  

@@ -15,7 +15,6 @@ ablo - prawdopodobnie (możliwie)
 achu* - apsik  
 achua - kichać (kichnąć)  
 acinem - aktyn  
-acion (acione) - działanie (akcja)  
 adali - sprawiedliwy  
 adalia - sprawiedliwość  
 ade - nawyk (przyzwyczajenie)  
@@ -174,12 +173,10 @@ asli - źródłowy, początkowy, oryginalny
 asme - astma  
 aspirine - aspiryna  
 astatin - astat  
-ata - aż do  
-atis (atise) - jabłko cukrowe  
+ata* - jabłko cukrowe  
 atlanti haye - Ocean Atlantycki  
 atlantokade - dorsz atlantycki  
 atlantosamone - łosoś atlantycki  
-ato - nawet  
 atome - atom  
 auda - usłyszeć, słyszeć; słuchać  
 aure - złoto  
@@ -515,7 +512,10 @@ cirke - koło, okrąg
 cirki - okrągły  
 cirkosheke - bruk  
 cita - cytować  
+cite - miast, miasteczko  
 citi marke - cudzysłów  
+civili - cywilizowany (ucywilizowany)  
+civilia - cywilizacja  
 coy - zielenina  
 Cuana - Botswana  
 ##d
@@ -1053,10 +1053,10 @@ grosia - grubość
 grupe - grupa  
 Guadelupe - Gwadelupa  
 Guam - Guam  
-guangjou - Kanton  
+Guangjou - Kanton  
 guanshe - związek, powiązanie, połączenie  
 Guatemala - Gwatemala  
-gubuhe - hipopotam  
+gubu* - hipopotam  
 gude - koń  
 guhe - jaskinia  
 gujarati - Gudżarat  
@@ -1096,7 +1096,7 @@ hale - stan
 halela - chwalić (wychwalać)  
 halife - kalif  
 halifia - kalifat  
-halov - halo, cześć  
+halo* - halo, cześć  
 hamake - hamak  
 hamare - młot, młotek  
 hami - ważny  
@@ -1121,13 +1121,14 @@ hasem - has
 hashishe - haszysz  
 hasi - specjalny, wyraźny, wyrazisty  
 hasia - różnica (specjalność)  
+hata - aż do  
+hato - nawet  
 hatre - zagrożenie, niebezpieczeństwo  
 hatri - niebezpieczny  
 hava - dmuchać  
-Havayi - Hawaje  
-havayi - hawajski  
-havayi nesia - Hawaje (archipelag hawajski)  
-have - wiatr  
+Hawayi - Hawaje  
+Hawayi nesia - Hawaje (archipelag hawajski)  
+hawe - wiatr  
 Hayakia - Armenia  
 hayalge - wodorosty  
 haye - może  
@@ -2154,7 +2155,7 @@ mose - mech
 mosi - omszały (mszysty)  
 mosime - pora roku  
 moskite - komar, moskit  
-moskove - Moskwa  
+Moskove - Moskwa  
 moskovem - moskovium  
 mote - ruch  
 moter - silnik  
@@ -2323,7 +2324,7 @@ nove - nowość
 novi - nowy  
 Novi Kaledonia - Nowa Kaledonia  
 novi ren - nowicjusz (nowa osoba)  
-novi yorke site - Nowy Jork  
+Novi Yorke - Nowy Jork  
 Novi Zilande - Nowa Zelandia  
 novike - nowicjusz  
 novo - właśnie, dopiero co, ostatnio, niedawno  
@@ -2442,7 +2443,7 @@ pargova - iść wzdłuż (pójść wzdłuż)
 pargovi - równoległy (podłużny)  
 pari - równy  
 parike - równy  
-paris - Paryż  
+Paris - Paryż  
 parke - park (ogród)  
 parne - paproć  
 parta - uczestniczyć, wziąć udział, brać udział  
@@ -3037,9 +3038,6 @@ sismi - sejsmiczny (wibracyjny)
 sismolojia - sejsmologia  
 sisteme - system  
 sistemi - systemowy  
-site - miast, miasteczko  
-sivili - cywilizowany (ucywilizowany)  
-sivilia - cywilizacja  
 slavi - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  

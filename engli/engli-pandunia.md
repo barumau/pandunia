@@ -18,11 +18,13 @@ accommodate - domisa
 achoo - achu*  
 acknowledge - resida  
 acorn - balutopale  
+act (deed) - ate  
 act (play a role) - rola  
 actinium - acinem  
-action - acion (acione)  
+action - ation  
 activate (enable, turn on, trigger) - kariva  
 active (on, enabled) - karivi  
+active - ativi  
 actor (actress) - roler  
 additional - mayi  
 address - adrese  
@@ -46,6 +48,7 @@ Afrophilia - afrikofilia
 afternoon - shamden  
 again (repeatedly) - reyo  
 age - umure  
+agent (doer, actor) - ater  
 aggressive - agresi  
 agile - ajili  
 agoraphobia - maidanfobia  
@@ -192,6 +195,7 @@ Assyria - Ashuria
 astatine - astatin  
 asthma - asme  
 atheist - andeviste  
+Athens - Athina  
 athlete (sportsman) - keler  
 Atlantic cod - atlantokade  
 Atlantic Ocean - atlanti haye  
@@ -334,6 +338,7 @@ Bengali (Bangla) - bangli
 Benin - Benin  
 beret - berete  
 berkelium - berkelem  
+Berlin - Berlin  
 Bermuda - Bermuda  
 berry - bere  
 berth (couchette) - kushloke  
@@ -415,6 +420,7 @@ branch (bough) - shake
 brave (gallant, valiant) - bravi  
 bravo! - bravo  
 Brazil - Brazil  
+Brazzaville - Brazavile  
 bread - pang (pange)  
 breakfast - subyame  
 breastplate - sinplate  
@@ -433,6 +439,7 @@ Brunei Darussalam - Bruney
 brush - broshe  
 bubble - lilbole  
 bucket - balde  
+Budapest - Budapesht  
 Buddha - bude  
 Buddhism - budistia  
 Buddhist - budiste  
@@ -610,9 +617,9 @@ cinematography - kinografia
 circle (round) - cirke  
 citizen - deshrene  
 citrus fruit - migane  
-city - site  
-civilization - sivilia  
-civilized (civil) - sivili  
+city - cite  
+civilization - civilia  
+civilized (civil) - civili  
 clarify (clear up) - klara  
 class (category) - klase  
 classic (classical) - puranyangi  
@@ -1064,7 +1071,7 @@ European Union (EU) - europi unisia
 europium - europem  
 evaluate (review, criticise) - pipinga  
 evaluation (criticism) - pipinge  
-even (implying extreme example) - ato  
+even (implying extreme example) - hato  
 even (level, peer) - pari  
 even number - pari nombre  
 evening - shame  
@@ -1371,7 +1378,7 @@ grow (grow up, expand) - rastu
 growth - raste  
 Guadeloupe - Guadelupe  
 Guam - Guam  
-Guangzhou (Canton) - guangjou  
+Guangzhou (Canton) - Guangjou  
 guarantee (warranty) - garante  
 guard (watch) - garda  
 guardian (watchman) - garder  
@@ -1418,9 +1425,8 @@ hat (cap) - tope
 hate - hene  
 have (keep, possess) - tena  
 have sex - seksa  
-Hawaii - Havayi  
-Hawaiian - havayi  
-Hawaiian archipelago - havayi nesia  
+Hawaii - Hawayi  
+Hawaiian archipelago - Hawayi nesia  
 hay - gangrase  
 hazard (chance) - zare  
 he or she or it - le  
@@ -1438,10 +1444,11 @@ height (altitude) - gavia
 helicopter - helisvimane  
 helium - helem  
 hell - narake  
-hello (hi) - halov  
+hello (hi) - halo*  
 helmet - helme  
 help (aid, assistance) - helpe  
 help (assist) - helpa  
+Helsinki - Helsinki  
 here (there) - sa ye  
 heritage (legacy, bequest) - varise  
 hero - vire  
@@ -1457,7 +1464,7 @@ Himalayas - himalia
 Hindu - hindiste  
 Hinduism - hindistia  
 hinge (pivot) - sharnire  
-hippopotamus - gubuhe  
+hippopotamus - gubu*  
 hispanophone (Spanish speaking) - espanofoni  
 historian - historer  
 history (annals) - histore  
@@ -1669,6 +1676,7 @@ key (push-button, switch) - butone
 key - chabe  
 key lime - kagujolimone  
 keyboard - butonbanze  
+Khartoum - Khartum  
 kidney - nefre  
 kill - morta  
 killer - morter  
@@ -1680,6 +1688,7 @@ kinetic - kini
 king - mani rajer  
 king or queen - rajer  
 kingdom - rajia  
+Kinshasa - Kinshasa  
 kiosk - kioske  
 Kiribati - Kiribati  
 kiss - chume  
@@ -1703,6 +1712,7 @@ Kuwait - Kuvaitia
 Kyrgyzstan - Kirgizia  
 ##l
 lacquer (varnish) - lake  
+Lagos - Lagos  
 Lagos - legos  
 lake - lage  
 lama - lame  
@@ -2058,7 +2068,7 @@ Morocco - Magribe
 morph - morfe  
 morpheme - morfeme  
 moscovium - moskovem  
-Moscow - moskove  
+Moscow - Moskove  
 mosquito - moskite  
 moss - mose  
 mossy - mosi  
@@ -2148,7 +2158,7 @@ never - nol ban
 Nevis - Nevis  
 new (recent) - novi  
 New Caledonia - Novi Kaledonia  
-New York City - novi yorke site  
+New York City - Novi Yorke  
 New Zealand - Novi Zilande  
 news - habare  
 newspaper (gazette) - habargazete  
@@ -2346,7 +2356,7 @@ parallel (longitudinal) - pargovi
 parameter (argument, input variable) - parame  
 parasol - solchate  
 parent (mother or father) - jener  
-Paris - paris  
+Paris - Paris  
 park (garden) - parke  
 parrot (parakeet) - papagaye  
 part (fraction) - fene  
@@ -2741,6 +2751,7 @@ romance (romantic love) - romansia
 Romania - Romania  
 romanize - latinkitaba  
 romantic - romansi  
+Rome - Roma  
 Rome - rome  
 roof - chate  
 room (chamber) - kamare  
@@ -3123,7 +3134,7 @@ suffix for verbs with OVS word order - -u
 suffix for verbs with SVO word order - -a  
 sugar - shukare  
 sugar beet - shukarbete  
-sugar-apple (sweetsop) - atis (atise)  
+sugar-apple (sweetsop) - ata*  
 sugarcane - shukargrase  
 sugary (sweet) - shukari  
 suggest (propose) - suja  
@@ -3417,7 +3428,7 @@ unlocked - ansori
 unnecessary (extraneous, unneeded) - annidi  
 unplug (uncork) - antapa  
 unrest - anpace  
-until (til, up to) - ata  
+until (til, up to) - hata  
 upgrade (level up) - darjobona  
 upload - netodona  
 upper - supri  
@@ -3509,6 +3520,7 @@ wart - zeyile
 wash - washa  
 washing machine - washomashine  
 Washington D.C. - Washington DC  
+Washington DC - Washington  
 water - suy (suye)  
 water buffalo - kabave  
 water lily (nenuphar) - nenufare  
@@ -3569,7 +3581,7 @@ will (in future) - vil (vilo)
 will (volition, desire) - iche  
 will (want) - icha  
 win (triumph, succeed, accomplish) - shenga  
-wind - have  
+wind - hawe  
 window - janele  
 wine - vine  
 winery - vineria  

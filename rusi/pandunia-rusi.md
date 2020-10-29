@@ -59,7 +59,11 @@ aslameriki - инде́йский
 asle - начало (причина)  
 asme - астма  
 aspirine - аспирин  
-ata - до  
+ate - действие (акт)  
+ater - деятель  
+Athina - Афины  
+ation - действие (акция)  
+ativi - активный (деятельный)  
 atlantokade - Атлантическая треска  
 atlantosamone - Атлантический лосось (сёмга)  
 aure - золото (аурум)  
@@ -312,12 +316,13 @@ habare - новости
 haha - смеяться  
 haime - палатка (шатёр)  
 hale - состояние (статус)  
-halov - алло  
+halo* - алло  
 hami - важный (значимый)  
 hamili - беременный  
 hande - рука  
 handoshake - рукав  
 harfia - алфавит  
+hata - до  
 hatre - опасность  
 hayalge - морские водоросли  
 haye - море  
@@ -430,6 +435,7 @@ kava - копать
 kave - яма  
 ke - что  
 kenarbaryer - забор (ограда)  
+Khartum - Хартум  
 kime - вещество  
 kimeme - химический элемент  
 kimlojia - химия  
@@ -598,7 +604,7 @@ monloge - монолог
 mono - только  
 mose - мох  
 mosi - мшистый  
-moskove - Москва  
+Moskove - Москва  
 mule - корень  
 mumomelone - восковая тыква (зимняя дыня)  
 muskulbine - культуризм  
@@ -733,6 +739,7 @@ rise - рис
 ritime - ритм (такт)  
 robote - робот  
 roketolancer - ракетная установка  
+Roma - Рим  
 romkamile - ромашка римская  
 rose - роса  
 roze - роза  

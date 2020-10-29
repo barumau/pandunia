@@ -14,7 +14,6 @@ ablo - peut-être
 achu* - atchoum  
 achua - éternuer  
 acinem - actinium  
-acion (acione) - action  
 adali - juste  
 adalia - justice  
 adrese - adresse  
@@ -101,10 +100,13 @@ asle - origine
 asli - originel  
 asme - asthme  
 aspirine - aspirine  
-ata - jusque (jusqu’à)  
+ate - acte  
+ater - agent (faiseur)  
+Athina - Athènes  
+ation - action  
+ativi - actif  
 atlantokade - morue de l'Atlantique  
 atlantosamone - saumon altentique  
-ato - voire (même)  
 aure - or  
 auroranje - kumquat  
 aventure - aventure  
@@ -215,6 +217,7 @@ chokolate - chocolat
 chokolatobatone - tablette de chocolat  
 chuzable - option  
 cirkosheke - pavé  
+cite - ville  
 ##d
 daka - couvrir  
 dalile - preuve  
@@ -358,11 +361,13 @@ haha - rire
 haime - tente  
 hake - droit  
 hale - état  
-halov - allô  
+halo* - allô  
 hami - important  
 hande - main  
 handoshake - bras  
 harfia - alphabet  
+hata - jusque (jusqu’à)  
+hato - voire (même)  
 hatre - danger  
 hayalge - algues  
 haye - mer  
@@ -476,9 +481,11 @@ kava - creuser
 kave - fosse  
 ke - que (quoi)  
 kerne - coeur  
+Khartum - Khartoum  
 kime - substance  
 kimeme - élément chimique  
 kimlojia - chimie  
+Kinshasa - Kinshasa  
 kitaba - écrire  
 kitabe - écriture  
 kitabia - bibliothèque  
@@ -720,7 +727,7 @@ parche - fragment
 pare - niveau  
 pari - pair (pareil)  
 pari nombre - nombre pair  
-paris - Paris  
+Paris - Paris  
 parke - parc  
 parne - fougères  
 pasporte - passeport  
@@ -799,6 +806,7 @@ rise - riz
 ritime - rhythme  
 robote - robot  
 roketolancer - Lance-roquettes  
+Roma - Rome  
 romkamile - Camomille Romaine  
 rose - rosée  
 rosta - rôtir  
@@ -878,7 +886,6 @@ sirkopurshipi - décapé (mariné)
 sirkopurshipi hiyare - concombre confit (cornichon)  
 sirplane - complot (conspiration)  
 sisi - six (6)  
-site - ville  
 socia - société  
 sofa* - canapé (sofa)  
 solchate - ombrelle (parasol)  

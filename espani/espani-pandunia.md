@@ -26,7 +26,7 @@ acceder - aksesa
 accesible - aksesabli  
 acceso - aksese  
 accesorio (afijo) - fikse  
-acción - acion (acione)  
+acción - ation  
 aceite (óleo) - nefte  
 aceituna - zaitune  
 acelga - selge  
@@ -43,6 +43,8 @@ acostar (poner) - kusha
 acostarse (echarse, tenderse, tumbarse) - kushu  
 actinia (anémonas de mar) - hayfule  
 actinio - acinem  
+activo - ativi  
+acto - ate  
 actor (actriz) - roler  
 actuar (hacer un papel) - rola  
 acuarela - suyrang  
@@ -70,6 +72,7 @@ Afganistán - Avganistan
 afgano - avgani  
 africano - Afriki  
 agacharse - indosida  
+agente - ater  
 agitar (sacudir) - sisma  
 agorafobia - maidanfobia  
 agosto - balomese  
@@ -126,7 +129,7 @@ alto (parte de arriba) - gave
 alto - gavi  
 altura (altitud) - gavia  
 aluminio - aluminem  
-aló - halov  
+aló - halo*  
 alófono - alfone  
 amable (atento, tierno, dulce) - jentili  
 amapola silvestre - maidanpapile  
@@ -178,7 +181,7 @@ antimonio - estibem
 antorcha - fotobatone  
 antónimo - fanoname  
 análisis - analize  
-anón (ates, saramuyo) - atis (atise)  
+anón (ates, saramuyo) - ata*  
 aparecer - zayisu  
 apartarse (desviarse) - rutogalta  
 apellido - familnam  
@@ -193,7 +196,7 @@ araña - arane
 arboreto - mokojongoparke  
 arbusto (mata) - tali moke  
 archipiélago - nesia  
-archipiélago de Hawái - havayi nesia  
+archipiélago de Hawái - Hawayi nesia  
 arcilla (barro) - glutopote  
 arco - arke  
 arco iris - rangarke  
@@ -252,6 +255,7 @@ Assur (Ashur) - Ashur
 asunto (caso) - masle  
 ataque - agrese  
 atar (amarrar) - benda  
+Atenas - Athina  
 ateo - andeviste  
 atravesar - zonga  
 attracción (-filia) - filia  
@@ -398,6 +402,7 @@ botón - botone
 Brasil - Brazil  
 bravo! - bravo  
 brazo - handoshake  
+Brazzaville - Brazavile  
 brillante (luminoso) - mingi  
 brocheta - shishe  
 broma (chiste) - joke  
@@ -632,11 +637,11 @@ circonio - zirkonem
 ciruela - plume  
 citar - cita  
 citología - selolojia  
-ciudad - site  
+ciudad - cite  
 Ciudad de México - Mehiko cite  
 ciudadano - deshrene  
-civilización - sivilia  
-civilizado - sivili  
+civilización - civilia  
+civilizado - civili  
 ciénaga (pantano) - potistan  
 claro (luminoso) - foti  
 claro - klari  
@@ -1492,10 +1497,9 @@ halo (aureola) - fotocirke
 hamaca - hamake  
 hambre - yamnide  
 hasio - hasem  
-hasta (también) - ato  
-hasta - ata  
-hawaiano - havayi  
-Hawái - Havayi  
+hasta (también) - hato  
+hasta - hata  
+Hawái - Hawayi  
 hebreo - ibri  
 hecho - fate  
 helado - aiskrem  
@@ -1527,7 +1531,7 @@ hilo (cordel) - korde
 Himalaya - himalia  
 hinduismo - hindistia  
 hindú - hindiste  
-hipopótamo - gubuhe  
+hipopótamo - gubu*  
 historia (cuento, relato, leyenda) - sage  
 historia (estudio de sucesos del pasado) - historia  
 historia (pasado) - histore  
@@ -1704,6 +1708,7 @@ Japón - Nipon
 jarabe (sirope) - shirope  
 jarra - jare  
 jarrón (bote) - vaze  
+Jartum - Khartum  
 jaula (caja) - kafase  
 jazmín - malike  
 jazz - jaze  
@@ -2824,6 +2829,7 @@ rodio - rodem
 roentgenio - rentogenem  
 rojo - lali  
 rollo - rule  
+Roma - Roma  
 Roma - rome  
 romance - romansia  
 romanizar - latinkitaba  
@@ -3342,7 +3348,7 @@ vidrio volcánico - hogoshani kanche
 viejo (anciano) - lave  
 viejo (anciano) - lavi  
 viejo (antiguo) - purani  
-viento - have  
+viento - hawe  
 viernes - var 5 (var limi)  
 Vietnam - Vietia  
 vietnamita - vieti  

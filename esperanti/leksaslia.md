@@ -47,7 +47,8 @@
 |**asle**|origino|araba:(ʾaṣl), turka:asl, malaja:asal, hindia:असल (asl), svahila:asili|
 |**asme**|astmo|franca:asthme, angla:asthma, hispana:portugala:malaja:asma, polona:astma|
 |**aspirine**|aspirino|angla:aspirin, hispana:portugala:aspirina, franca:aspirine, rusa:аспирин (aspirin), araba:أسبرين‎ (ʾasbirīn), hindia:एस्पिरिन (espirin), mandarena:阿司匹林 (āsīpǐlín),  japana:アスピリン (asupirin)|
-|**ata**|ĝis|portugala:até, araba:(ḥatta), hispana:hasta, svahila:hata|
+|**ate**|ago|portugala:ato, angla:act, franca:acte, hispana:acto, rusa:акт (akt), malaja:aksi|
+|**ater**|aganto|angla:actor,-ator, franca:-ateur, hispana:portugala:-ador|
 |**atome**|atomo|angla:turka:malaja:atom, hispana:portugala:átomo, rusa:атом (atom), svahila:atomi, japana:アトム (atomu)|
 |**auda**|aŭdi (aŭskulti)|angla:hispana:franca:audio, portugala:áudio|
 |**aure**|oro|latina:aurum, portugala:ouro, hispana:oro, franca:or, rusa:аурум (aurum), malaja:aurum|
@@ -163,6 +164,7 @@
 |**chute**|eliro|mandarena:出 (chū), hakaa:(chut), korea:출 (chul), hindia:छूटना (chūtnā)|
 |**chuza**|elekti|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
 |**cita**|citi|angla:cite, hispana:portugala:citar, franca:citer, deu:zitieren, rusa:цитировать (citirovat’)|
+|**cite**|urbego|angla:city, franca:cité, portugala:cidade, hispana:ciudad, itala:città + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)|
 |**da**|de (partiklo de posedo)|franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dade**|ĵetkubo|hispana:portugala:filipina:dado, malaja:svahila:dadu|
 |**daisher**|ambasadoro|mandarena:大使 (dàshǐ), kantona:大使 (daai6 si3), japana:大使 (taishi), korea:대사 (daesa), vjetnama:đại sứ|
@@ -324,7 +326,7 @@
 |**grome**|tondro|rusa:гром (grom), polona:grom|
 |**grupe**|grupo|deu:Gruppe, franca:groupe, angla:group, hispana:portugala:grupo, rusa:группа (gruppa), korea:그룹 (geurup), japana:グループ (gurūpu), turka:grup, hindia:ग्रूप (grūp)|
 |**guanshe**|rilato|mandarena:关系 (guānxi), vjetnama:quan hệ, korea:관계 (gwangye), japana:関係 (kankei)|
-|**gubuhe**|hipopotamo|fula:ngabu konga:ngubu/mvubu, zulua:imvubu, amharaba:gumarre|
+|**gubu***|hipopotamo|fula:ngabu konga:ngubu/mvubu, zulua:imvubu, amharaba:gumarre|
 |**gude**|ĉevalo|malaja:kuda, kanara:ಕುದುರೆ (kudure), tamila:குதிரை (kutirai), teluga:గుర్రము (gurramu), hindia:घोड़ा (ghoṛā), urdua:(ghoṛā), bengala:ঘোড়া (ghoṛa), panĝaba:ਘੋੜਾ (ghōṛā)|
 |**guhe**|kaverno|bengala:গুহা (guha), taja:คูหา (gūhā), teluga:గుహ (guha), hindia:गुफ़ा (gufā), malaja:gua|
 |**gula**|gluti|bengala:গেলা (gela), portugala:engolir, rusa:глотать (glotat'), taja:กลืน (glʉʉn), hispana:deglutir, franca:déglutir|
@@ -341,7 +343,7 @@
 |**haime**|tendo|araba:(xayma), haŭsa:laima, hindia:ख़ैमा (xEmā), svahila:hema, malaja:kemah, may:khemah, mng:майхан (mayhan)|
 |**hake**|rajto|araba:(ḥaq), hindia:हक़ (haq), turka:malaja:hak, svahila:haki, haŭsa:hakki|
 |**hale**|stato|araba:(ḥāla), hindia:हालत (hālat), svahila:hali, turka:hâl|
-|**halov**|saluton!|angla:hello,hullo, franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), turka:alo, hindia:हेलो (helo), mandarena:哈啰 (hāluō)|
+|**halo***|saluton!|angla:hello,hullo, franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), turka:alo, hindia:हेलो (helo), mandarena:哈啰 (hāluō)|
 |**hamake**|hamako|angla:hammock, hispana:hamaca, franca:hamac, rusa:гамак (gamak), turka:hamak, japana:ハンモック (hanmokku)|
 |**hamare**|martelo|angla:hammer, deu:Hammer, japana:ハンマー (hanmā), haŭsa:hamā̀|
 |**hami**|grava|araba: هَامّ (hāmm), hindia:अहम (aham), urdua: اہم (aham), turka:mühim, persa:(mohemm)|
@@ -353,8 +355,9 @@
 |**harfe**|litero|araba:(ḥarf), turka:harf, persa:urdua:(harf), haŭsa:harafi, svahila:herufi, malaja:huruf|
 |**harmonia**|harmonio|angla:harmony, hispana:armonía, portugala:harmonia, franca:harmonie, rusa:гармония (garmoniya)|
 |**hasi**|speciala|araba:(xāṣṣ), persa:urdua:(xās), hindia:ख़ास (xās), malaja:khas|
+|**hata**|ĝis|portugala:até, araba:(ḥatta), hispana:hasta, svahila:hata|
 |**hatre**|danĝero|araba: خطر‎ (xaṭar), persa: خطر‎ (xatar), urdua: خطرہ‎ (xatrā), hindia:ख़तरा (xatrā), svahila:hatari, turka:muhatara|
-|**have**|vento|hindia:हवा (havā), urdua:(havā), panĝaba:ਹਵਾ (hawā), + araba:(hawāʾ), persa:(havā), turka:hava, malaja:hawa, som:hawo, svahila:hewa, bengala:হাওয়া (haowa)|
+|**hawe**|vento|hindia:हवा (havā), urdua:(havā), panĝaba:ਹਵਾ (hawā), + araba:(hawāʾ), persa:(havā), turka:hava, malaja:hawa, som:hawo, svahila:hewa, bengala:হাওয়া (haowa)|
 |**haye**|maro|mandarena:海 (hǎi), kantona:海 (hoi2), japana:海 (kai), korea:해양 (haeyang), vjetnama:hải|
 |**he**|ĉu?|franca:portugala:hein, japana:e|
 |**helme**|kasko|angla:helm, hispana:yelmo, portugala:elmo, deu:Helm, svahila:helmeti|
@@ -794,7 +797,6 @@
 |**singe**|leono|malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi), + svahila:simba|
 |**sirke**|vinagro|turka:sirke, persa:(serke), hindia:सिरका (sirkā), panĝaba:ਸਿਰਕਾ (sirkā)|
 |**sisteme**|sistemo|angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem|
-|**site**|urbego|angla:city, franca:cité, + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)|
 |**socia**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
 |**sofa***|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
 |**sofia**|saga|greka:σοφία (sofía)|

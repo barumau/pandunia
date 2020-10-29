@@ -145,12 +145,13 @@ aspiriini - aspirine
 Assur - Ashur  
 Assyria - Ashuria  
 astatiini - astatin  
-asti (saakka) - ata  
+asti (saakka) - hata  
 astia (kulho) - tase  
 astma - asme  
 asua - doma  
 asunto (koti) - dome  
 asuttaa - domisa  
+Ateena - Athina  
 ateisti (jumalankieltäjä) - andeviste  
 ateljee (studio) - estudia  
 Atlantin valtameri - atlanti haye  
@@ -198,6 +199,7 @@ bengali - bangli
 Benin - Benin  
 bensiini (bensa) - benzine  
 berkelium - berkelem  
+Berlin - Berlin  
 Bermuda - Bermuda  
 berylli - berilem  
 betoni - betone  
@@ -213,9 +215,11 @@ Bosnia ja Hertsegovina - Bosnia
 Botswana - Cuana  
 Brasilia - Brazil  
 bravo! - bravo  
+Brazzaville - Brazavile  
 Brazzavillen Kongo - Brazavile Kongo  
 bromi - bromem  
 Brunei - Bruney  
+Budapest - Budapesht  
 Buddha - bude  
 buddhalainen - budiste  
 buddhalaisuus (buddhismi) - budistia  
@@ -449,12 +453,11 @@ hauska (huvittava) - vani
 hauta - gabre  
 hautakivi - gabrosheke  
 hautausmaa - gabristan  
-Havaiji - Havayi  
-havaijilainen - havayi  
-Havaijin saaret - havayi nesia  
+Havaiji - Hawayi  
+Havaijin saaret - Hawayi nesia  
 he - lole  
 hedelmä - pale  
-hei (haloo) - halov  
+hei (haloo) - halo*  
 heijastaa (peilata) - mira  
 heimo - tribe  
 heinäkuu - setomese  
@@ -464,6 +467,7 @@ helium - helem
 helmi - lule  
 helmikuu - dulmese  
 helppo - izi  
+Helsinki - Helsinki  
 helvetti - narake  
 hengitys (henkäys) - nafase  
 henki (sielu, mieli, psyyke) - ruhe  
@@ -694,7 +698,7 @@ joku - koy ren
 jooga - yoge  
 joogata - yoga  
 joogi - yogiste  
-jopa - ato  
+jopa - hato  
 Jordania - Urdun  
 joruban kansa ja kieli - yorubi  
 jos (olettaa) - aga  
@@ -902,6 +906,7 @@ ketterä - ajili
 kettu - hule  
 keuhko - pulmone  
 kevät - chune  
+Khartoum - Khartum  
 kiehua - bulu  
 kiekko (levy) - diske  
 kieli (elin) - lisane  
@@ -930,6 +935,7 @@ kilometri - kilomitre
 kilpikonna - tortuge  
 kiltti - jentili  
 kineettinen (liike-) - kini  
+Kinshasa - Kinshasa  
 Kinshasan Kongo - Kinshasa Kongo  
 kioski - kioske  
 kipu (tuska) - pashia  
@@ -1152,6 +1158,7 @@ laatikko - sanduke
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsife  
 laatu (ominaisuus, ominaispiirre, määrite) - sife  
 ladata - lada  
+Lagos - Lagos  
 lahja - done  
 lainata (siteerata) - cita  
 lainausmerkki - citi marke  
@@ -1485,6 +1492,7 @@ moraalinen - darmi
 morfeemi - morfeme  
 morfi - morfe  
 Mosambik - Mozambike  
+Moskova - Moskove  
 moskovium - moskovem  
 muinainen Egypti - kemia  
 muistaa - mema  
@@ -1781,6 +1789,7 @@ Papua Uusi-Guinea - Papua Novi Ginia
 papukaija - papagaye  
 Paraguai - Paraguay  
 parametri (argumentti) - parame  
+Pariisi - Paris  
 parillinen luku - pari nombre  
 parkkipaikka - garparke  
 parsa - lusune  
@@ -2075,6 +2084,7 @@ Romania - Romania
 romanttinen - romansi  
 rommi - rume  
 rooli (osa) - role  
+Rooma - Roma  
 Rooma - rome  
 Rooman valtakunta - romi imperia  
 roottori (propelli) - roter  
@@ -2252,8 +2262,8 @@ sisältö - tene
 sisäsyntyinen - indojeni  
 sitoa - benda  
 sitruuna - limone  
-sivilisaatio - sivilia  
-sivistynyt - sivili  
+sivilisaatio - civilia  
+sivistynyt - civili  
 sivu (kirjassa) - varkolate  
 sivu (kylki, puoli) - late  
 sivu- - lati  
@@ -2338,7 +2348,7 @@ suukko (pusu) - chume
 suunnitella - plana  
 suunnitelma - plane  
 suunta - dishe  
-suurkaupunki - site  
+suurkaupunki - cite  
 suutari - sapater  
 suutarin paja - sapateria  
 Svalbard - Svalbarde  
@@ -2464,10 +2474,12 @@ teippi (nauha) - tepe
 teismi (jumalusko) - devistia  
 teisti - deviste  
 tekijä (aikaansaaja) - er (ere)  
+tekijä (toimija) - ater  
 tekijä (valmistaja) - fater  
 tekniikka (keino, menetelmä) - tehne  
 tekniikka (teknologia) - tehnolojia  
 teknokratia - tehnokratia  
+teko (toimenpide, akti) - ate  
 teko - fate  
 tekstin muotoilu - kitaborupe  
 televisio - telvide  
@@ -2518,8 +2530,9 @@ togolainen - togoli
 tohtori - dotore  
 tohtorin tutkinto - dotoria  
 tohveli - babuche  
+toimelias (aktiivinen) - ativi  
 toiminta (funktio) - funca  
-toiminta - acion (acione)  
+toiminta - ation  
 toimintahäiriö - malfunce  
 toimittaja (journalisti, lehtimies) - gazeter  
 toisiaan (keskenään) - unale  
@@ -2584,7 +2597,7 @@ turkoosi - firuze
 turvallinen (varma) - sekuri  
 tutkia (opiskella) - loja  
 tutkia - gencha  
-tuuli (puhallus) - have  
+tuuli (puhallus) - hawe  
 tuulla (puhaltaa) - hava  
 Tuvalu - Tuvalu  
 tyhjä - kali  
@@ -2827,7 +2840,7 @@ virkailija (virkamies) - ofiser
 Viro (Eesti) - Estia  
 virologia - viruslojia  
 virrata - livu  
-virtahepo - gubuhe  
+virtahepo - gubu*  
 virtsa (pissa, kusi) - pishe  
 virtsata (kusta) - pisha  
 virus - virus (viruse)  
@@ -2881,6 +2894,7 @@ väärä (virheellinen) - galti
 ##w
 Wales - Kamria  
 walesilainen - kamri  
+Washington DC - Washington  
 watti - vate  
 wiki - vikia  
 wikikirjoitus - vike  

@@ -15,7 +15,6 @@ ablo - posiblemente
 achu* - achís  
 achua - estornudar  
 acinem - actinio  
-acion (acione) - acción  
 adali - justo  
 adalia - justicia  
 ade - costumbre (hábito)  
@@ -159,12 +158,15 @@ asli - original
 asme - asma  
 aspirine - aspirina  
 astatin - ástato  
-ata - hasta  
-atis (atise) - anón (ates, saramuyo)  
+ata* - anón (ates, saramuyo)  
+ate - acto  
+ater - agente  
+Athina - Atenas  
+ation - acción  
+ativi - activo  
 atlanti haye - océano Atlántico  
 atlantokade - bacalao común  
 atlantosamone - salmón del Atlántico  
-ato - hasta (también)  
 atome - átomo  
 auda - oír (escuchar)  
 aure - oro  
@@ -374,6 +376,7 @@ boye - flotador (boya)
 brauza - explorar  
 brauzer - explorador (navegador)  
 bravo - bravo!  
+Brazavile - Brazzaville  
 Brazavile Kongo - República del Congo  
 Brazil - Brasil  
 Britania - Reino Unido  
@@ -489,7 +492,10 @@ cirke - círculo
 cirki - redondo (circular)  
 cirkosheke - adoquín  
 cita - citar  
+cite - ciudad  
 citi marke - comilla  
+civili - civilizado  
+civilia - civilización  
 coy - verduras  
 Cuana - Botsuana  
 ##d
@@ -1013,7 +1019,7 @@ Guadelupe - Guadalupe
 Guam - Guam  
 guanshe - relación (asociación, conexión)  
 Guatemala - Guatemala  
-gubuhe - hipopótamo  
+gubu* - hipopótamo  
 gude - caballo  
 guhe - cueva (caverna)  
 gujarati - gujaratí  
@@ -1054,7 +1060,7 @@ hale - estado (condición)
 halela - elogiar (alabar, exaltar)  
 halife - califa  
 halifia - califato  
-halov - aló  
+halo* - aló  
 hamake - hamaca  
 hamare - martillo (mazo)  
 hami - importante  
@@ -1081,13 +1087,14 @@ hasem - hasio
 hashishe - hachís  
 hasi - especial (diferenciado, distinto)  
 hasia - especialización (distinción)  
+hata - hasta  
+hato - hasta (también)  
 hatre - peligro  
 hatri - peligroso  
 hava - soplar (echar)  
-havayi - hawaiano  
-Havayi - Hawái  
-havayi nesia - archipiélago de Hawái  
-have - viento  
+Hawayi - Hawái  
+Hawayi nesia - archipiélago de Hawái  
+hawe - viento  
 Hayakia - Armenia  
 hayalge - macroalga  
 haye - mar  
@@ -1473,6 +1480,7 @@ keshe - pelo
 keshobende - cinta (cinta para el pelo)  
 keshosabune - champú  
 ketele - hervidor (tetera)  
+Khartum - Jartum  
 ki - cuál  
 ki ren - quién  
 ki sate - cuándo  
@@ -2625,6 +2633,7 @@ roketolancer - lanzamisiles
 rola - actuar (hacer un papel)  
 role - papel  
 roler - actor (actriz)  
+Roma - Roma  
 Romania - Rumania  
 romansa - amar románticamente  
 romansi - romántico  
@@ -2917,9 +2926,6 @@ sismese - junio
 sismolojia - sismología  
 sisteme - sistema  
 sistemi - sistémico  
-site - ciudad  
-sivili - civilizado  
-sivilia - civilización  
 slavi - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  

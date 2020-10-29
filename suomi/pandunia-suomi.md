@@ -13,7 +13,6 @@ ablo - ehkä (mahdollisesti)
 achu* - atsii  
 achua - aivastaa  
 acinem - aktinium  
-acion (acione) - toiminta  
 adali - oikeudenmukainen  
 adalia - oikeus  
 ade - tapa  
@@ -140,9 +139,12 @@ asli - alkuperäinen
 asme - astma  
 aspirine - aspiriini  
 astatin - astatiini  
-ata - asti (saakka)  
+ate - teko (toimenpide, akti)  
+ater - tekijä (toimija)  
+Athina - Ateena  
+ation - toiminta  
+ativi - toimelias (aktiivinen)  
 atlanti haye - Atlantin valtameri  
-ato - jopa  
 atome - atomi  
 auda - kuulla (kuunnella)  
 aure - kulta  
@@ -268,6 +270,7 @@ bere - marja
 berete - baskeri (baretti)  
 berilem - berylli  
 berkelem - berkelium  
+Berlin - Berlin  
 Bermuda - Bermuda  
 betone - betoni  
 beyu - läpikäydä (passiivin muodostava verbi)  
@@ -319,6 +322,7 @@ botoraite - tyyrpuuri
 botoshefe - kapteeni  
 bravi - rohkea (urhea, uljas)  
 bravo - bravo!  
+Brazavile - Brazzaville  
 Brazavile Kongo - Brazzavillen Kongo  
 Brazil - Brasilia  
 Britania - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
@@ -327,6 +331,7 @@ broshe - harja
 Bruney - Brunei  
 bruni - ruskea  
 buda - ymmärtää (oivaltaa)  
+Budapesht - Budapest  
 bude - Buddha  
 bude - ymmärrys (taju, oivallus)  
 budi - valaistunut  
@@ -422,7 +427,10 @@ cirke - piiri (ympyrä)
 cirki - pyöreä  
 cirkosheke - mukulakivi  
 cita - lainata (siteerata)  
+cite - suurkaupunki  
 citi marke - lainausmerkki  
+civili - sivistynyt  
+civilia - sivilisaatio  
 coy - vihannes  
 Cuana - Botswana  
 ##d
@@ -872,7 +880,7 @@ Guadelupe - Guadeloupe
 Guam - Guam  
 guanshe - suhde (yhteys)  
 Guatemala - Guatemala  
-gubuhe - virtahepo  
+gubu* - virtahepo  
 gude - hevonen  
 guhe - luola  
 gujarati - gujarati (eräs intialainen kieli)  
@@ -911,7 +919,7 @@ hale - tila (tilanne, seikka)
 halela - ylistää  
 halife - kalifi  
 halifia - kalifaatti  
-halov - hei (haloo)  
+halo* - hei (haloo)  
 hamake - riippumatto  
 hamare - vasara  
 hami - tärkeä  
@@ -935,13 +943,14 @@ hasem - hasium
 hashishe - hasis  
 hasi - erikoinen (erityinen)  
 hasia - erikoisuus  
+hata - asti (saakka)  
+hato - jopa  
 hatre - vaara  
 hatri - vaarallinen  
 hava - tuulla (puhaltaa)  
-Havayi - Havaiji  
-havayi - havaijilainen  
-havayi nesia - Havaijin saaret  
-have - tuuli (puhallus)  
+Hawayi - Havaiji  
+Hawayi nesia - Havaijin saaret  
+hawe - tuuli (puhallus)  
 Hayakia - Armenia  
 haye - meri  
 haygune - merivoimat (sotalaivasto)  
@@ -955,6 +964,7 @@ helisvimane - helikopteri
 helme - kypärä  
 helpa - auttaa (avustaa)  
 helpe - apu  
+Helsinki - Helsinki  
 hem - hmm  
 hema - miettiä (pohtia)  
 hene - viha  
@@ -1267,6 +1277,7 @@ keshe - hius (karva, tukka, hiukset)
 keshobende - hiuspanta  
 keshosabune - šampoo  
 ketele - kattila  
+Khartum - Khartoum  
 ki - mikä? (kumpi?)  
 ki ren - kuka?  
 ki sate - milloin? (koska?)  
@@ -1280,6 +1291,7 @@ kimi - kemikaali
 kimlojia - kemia  
 kina - liikuttaa  
 kine - liike  
+Kinshasa - Kinshasa  
 Kinshasa Kongo - Kinshasan Kongo  
 kioske - kioski  
 Kipris - Kypros  
@@ -1432,6 +1444,7 @@ Kuvaitia - Kuwait
 ##l
 labe - huuli  
 lada - ladata  
+Lagos - Lagos  
 laje - roska  
 lake - lakka  
 lalbavsheke - rubiini  
@@ -1776,6 +1789,7 @@ mortu - kuolla
 mose - sammal  
 mosime - vuodenaika  
 moskite - hyttynen (sääski)  
+Moskove - Moskova  
 moskovem - moskovium  
 mote - liike  
 moter - moottori  
@@ -2026,6 +2040,7 @@ pare - taso
 pari - tasainen (tasavertainen)  
 pari nombre - parillinen luku  
 parike - vertainen  
+Paris - Pariisi  
 parke - tarha (puisto)  
 parta - osallistua  
 parter - osallistuja  
@@ -2268,6 +2283,7 @@ roketolancer - sinko (raketinheitin)
 rola - näytellä  
 role - rooli (osa)  
 roler - näyttelijä  
+Roma - Rooma  
 Romania - Romania  
 romansa - rakastaa romanttisesti  
 romansi - romanttinen  
@@ -2512,9 +2528,6 @@ sisi - kuusi (6)
 sismese - kesäkuu  
 sismolojia - seismologia  
 sisteme - järjestelmä (systeemi)  
-site - suurkaupunki  
-sivili - sivistynyt  
-sivilia - sivilisaatio  
 slavi - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -2855,6 +2868,7 @@ vulve - häpy (ulkosynnyttimet)
 vute - esine (tavara)  
 ##w
 washa - pestä  
+Washington - Washington DC  
 washomashine - pesukone  
 ##x
 xenon - ksenon  
