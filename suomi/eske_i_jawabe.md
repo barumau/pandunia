@@ -88,12 +88,6 @@ Pandunia on saanut vaikutteita sekä luonnollisista että keinotekoisista kielis
 
 ## Apukieli
 
-<!--
-#### What is a worldlang?
-
-A worldlang is a constructed interlanguage that borrows its words, speech sounds and possibly grammar from different language families of the world. There are many worldlangs. Some of them are listed [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html).
--->
-
 #### Miten pandunia eroaa muista apukielistä?
 
 - Pandunia on joustava ja ystävällinen vasta-alkajia kohtaan. Meidän
@@ -188,33 +182,6 @@ osat on erotettu toisistaan pystyviivalla.
     Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n.
     Pandunia:  me wan|a   vid|a  t|i     dul   sundar|i   kan|e       zay|o.
                Minä haluan nähdä sinun   kaksi kaunista  silmää.
-
-#### Miksi X-kirjain äännetään suhu-ässänä?
-
-Pandunian kirjoitus on äänteenmukaista. Perussääntö on: Yksi kirjain
-vastaa yhtä äännettä, ja yksi äänne vastaa yhtä kirjainta.
-
-Perinteisesti suhu-ässälle ei ole omaa kirjainta latinalaisissa aakkosissa.
-Kyseinen äänne eli /ʃ/ kirjoitetaan eri tavoilla eri kielissä: englannissa
-yleensä SH, ranskassa CH, saksassa SCH, ruotsissa SJ, puolassa SZ, suomessa
-ja tšekissä Š ja turkissa Ş, vain joitakin mainitaksemme.
-
-Kuitenkin on joukko kieliä, jotka käyttävät X-kirjainta suhu-ässän merkkinä.
-Se on ainoa vaihtoehto baskissa ja maltassa sekä yksi vaihtoehdoista
-portugalissa ja katalaanissa. Esimerkiksi sana **xampu** kirjoitetaan
-täsmälleen samalla tavalla portugalissa ja panduniassa. Se tarkoittaa
-_šampoota_.
-
-Kiinan kielen siirtokirjoituksessa, pinyinissä, X-kirjain on /ɕ/ joka
-kuulostaa lähes samalta kuin /ʃ/. Panduniassa on paljon kiinasta peräisin
-olevia sanoja, joissa X esiintyy, mm. **xim, xin** ja **xuxe**.
-
-#### Miksi C-kirjain äännettään kuin CH?
-
-Maailmalla on useita kieliä, joissa C äännetään kuten TŠ eli kuten englannin
-CH, muiden muassa indonesia, hausa, oromo ja ruanda. Italian kielessä, kun C
-on ennen E:tä tai I:tä, se äännettän /tʃ/. Tämä ääntämys on tuttu sellaisista
-italian sanoista kuin _cello_ ja _cappuccino_.
 
 #### Eikö sanan "salam" pitäisi tarkoittaa rauhaa?
 
