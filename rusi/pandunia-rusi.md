@@ -113,9 +113,9 @@ bashi jinse - род в грамматике
 basi - достаточно (довольно)  
 baskobol - баскетбол  
 batre - батарея  
-bave - сокровище (казна)  
-bavi - драгоценный  
-bavsheke - драгоценный камень  
+baw - сокровище (казна)  
+bawi - драгоценный  
+bawsheke - драгоценный камень  
 bazare - рынок (базар)  
 baze - основа (база,  фундамент)  
 bazobole - бейсбол  
@@ -193,7 +193,7 @@ dantobalute - дуб зубчатый
 date - данные  
 datobanke - база данных  
 daydome - дворец (особняк)  
-dayhaye - океан  
+dayhay - океан  
 daylasune - лук исполинский  
 daypave - пушка  
 daysheke - валун  
@@ -324,8 +324,8 @@ handoshake - рукав
 harfia - алфавит  
 hata - до  
 hatre - опасность  
+hay - море  
 hayalge - морские водоросли  
-haye - море  
 hayfule - морские анемоны  
 haygrase - морские травы  
 haygune - военно-морской флот  
@@ -384,12 +384,12 @@ Jungogia - Китай
 Jupiter - Юпитер  
 juse - сок  
 justi - точный  
-justopaver - снайпер  
+justopawer - снайпер  
 ##k
 kababi manse - кебаб  
 kaboge - тыква  
-kafase - клетка  
-kafe - кофе  
+kafas - клетка  
+kafe* - кофе  
 kaguje - бумага  
 kagujolimone - лайм  
 kalamare - кальмар  
@@ -678,9 +678,9 @@ patike - пациент (больной)
 patojener - патоген  
 patolojia - патология  
 pauze - пауза  
-pava - стрелять  
-pave - пистолет  
-pay (paye) - пирог  
+paw - пистолет  
+pawa - стрелять  
+pay - пирог  
 peda - пердеть  
 pede - пердение  
 pendokardone - чертополох поникший  

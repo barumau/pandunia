@@ -6,7 +6,7 @@ aakkoset (ABC) - harfia
 aalto (laine) - onde  
 aamiainen - subyame  
 aamu - sube  
-aarre - bave  
+aarre - baw  
 aasi - gade  
 Aasia - asia  
 aasialainen - asi  
@@ -154,7 +154,7 @@ asuttaa - domisa
 Ateena - Athina  
 ateisti (jumalankieltäjä) - andeviste  
 ateljee (studio) - estudia  
-Atlantin valtameri - atlanti haye  
+Atlantin valtameri - Atlanti Hay  
 atomi - atome  
 atsii - achu*  
 aueta (avautua) - kayu  
@@ -578,7 +578,7 @@ hyökkäävä (aggressiivinen) - agresi
 hyönteinen (ötökkä) - konchunge  
 hyöty (etu) - faidia  
 häh? - he  
-häkki - kafase  
+häkki - kafas  
 hämähäkki - arane  
 hän (se) - le  
 häntä - dume  
@@ -632,7 +632,7 @@ internet - internete
 Intia - Bartia  
 intiaani (Amerikan alkuperäisasukas) - aslameriki  
 intialainen - barti  
-Intian valtameri - barti haye  
+Intian valtameri - Barti Hay  
 ioni - ione  
 Irak - Irake  
 Iran - Iran  
@@ -669,7 +669,7 @@ jakautua (hajota) - fenu
 jakki - yake  
 jalka (jalkaterä) - fute  
 jalkapallo - futobole  
-jalokivi - bavsheke  
+jalokivi - bawsheke  
 Jamaika - Jamaika  
 jambolaani - jambule  
 jano - suynide  
@@ -747,7 +747,7 @@ jättää (hylätä) - lasha
 jää - aise  
 jäädä jäljelle - restu  
 jääkiekko - aishoke  
-Jäämeri - arti haye  
+Jäämeri - Artiki Hay  
 jäännös (loput) - reste  
 jäätelö - aiskrem  
 jäätyä - aisu  
@@ -764,9 +764,9 @@ kadmium - kadem
 kahdeksan (8) - bali  
 kahdesti (kaksi kertaa) - duli ban  
 kahista - shashu  
-kahvi - kafe  
+kahvi - kafe*  
 kahvikuppi - kafkope  
-kahvila - kaferia  
+kahvila - kafeshope  
 kaide (reelinki) - langane  
 kaikki - pan (pani)  
 kaiku - mirsonde  
@@ -1416,7 +1416,7 @@ menneisyys - pase
 mennyt - pasi  
 mennä - gova  
 menopaluulippu - retrotikete  
-meri - haye  
+meri - hay  
 meri- (merellinen) - hayi  
 merirosvo (piraatti) - pirater  
 merirosvous - piratia  
@@ -1735,7 +1735,7 @@ paita - kamise
 paitsi (miinus) - mina  
 paitsi (poislukien) - chula  
 paja (kauppa, tekimö) - eria  
-pakana - kafire  
+pakana - kafir  
 pakata - paka  
 Pakistan - pakistan  
 pakkaus (paketti) - pake  
@@ -1844,7 +1844,7 @@ pihka (hartsi) - rezine
 pii - silike  
 piikivi - hogosheke  
 piippu - pipe  
-piirakka (piiras) - pay (paye)  
+piirakka (piiras) - pay  
 piiri (ympyrä) - cirke  
 piirros (graafi) - grafe  
 piirtää - grafa  
@@ -1932,7 +1932,7 @@ povi - buste
 praseodyymi - prasedem  
 presidentti - prezidente  
 profeetta - naber  
-profeetta Mani - manihaye  
+profeetta Mani - Manihay  
 professori - profesor  
 profetia - nabe  
 pronomini - visloge  
@@ -1971,7 +1971,7 @@ pyhä - santi
 pylly (takapuoli, pakarat) - pige  
 pylväs (pilari) - kolume  
 pyramidi - pirame  
-pyssy - pave  
+pyssy - paw  
 pysty (seisova) - libi  
 pysähdys - ting (tinge)  
 pysähtyä - tingu  
@@ -2616,7 +2616,7 @@ tyranni - tirane
 tyrannia - tirania  
 tyttö (nuori neito) - jovani fem  
 tyttölapsi - femi pute  
-Tyyni valtameri - paci haye  
+Tyyni valtameri - Paci Hay  
 tyyny - kushene  
 tyyrpuuri - botoraite  
 työ (tehtävä) - kare  
@@ -2717,7 +2717,7 @@ valokuvaaja - fotografer
 valokuvaus - fotografia  
 valonsäde - fotorade  
 valta - kratia  
-valtameri - dayhaye  
+valtameri - dayhay  
 vanadiini - vanadem  
 vanginvartija - prizoner  
 vangita - prizona  
@@ -2884,7 +2884,7 @@ väite (teesi) - tese
 väittely (debatti) - lone  
 väittää - tesa  
 väli - mede  
-Välimeri - zemomedi haye  
+Välimeri - Zemomedi Hay  
 välipala (naposteltava) - lilyame  
 välissä - medu  
 väri - rang (range)  

@@ -293,7 +293,7 @@ cel - gole
 celować - dika  
 celownik optyczny (siatka lunety) - kruskorde  
 cement - semente  
-cenny - bavi  
+cenny - bawi  
 centralny (środkowy) - jungi  
 centrować, skupić, skupiać - junga  
 centy-, procent, na sto, setna część - centi*  
@@ -1038,8 +1038,8 @@ kasztan - kastane
 Katalonia - katalunia  
 Katar - Katar  
 Kaukazja - kaukasia  
-kawa - kafe  
-kawiarnia - kaferia  
+kawa - kafe*  
+kawiarnia - kafeshope  
 Kazachstan - Kazahia  
 kałamarnica (mątwa) - kalamare  
 każdy człowiek, wszyscy - pan ren  
@@ -1071,12 +1071,12 @@ klapa - padomun
 klasa, kategoria - klase  
 klasyczny - puranyangi  
 klasyfikować, kategoryzować - klasa  
-klatka - kafase  
+klatka - kafas  
 klatka piersiowa - sinkafase  
 klawiatura - butonbanze  
 klawisz, przycisk, przełącznik - butone  
 klej - glute  
-klejnot - bavsheke  
+klejnot - bawsheke  
 klescz (roztocze) - akare  
 klimat - klime  
 klimatologia - klimlojia  
@@ -1545,7 +1545,7 @@ morf - morfe
 morfem - morfeme  
 morski - hayi  
 morskoniebieski - haynili  
-Morze Śródziemne - zemomedi haye  
+Morze Śródziemne - Zemomedi Hay  
 moskovium - moskovem  
 Moskwa - Moskove  
 most - pule  
@@ -1554,7 +1554,7 @@ motyka - sape
 motyl - pelpele  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
-może - haye  
+może - hay  
 możliwość, umiejętność - able  
 możliwy - abli  
 mruganie (błysk) - shingofota  
@@ -1691,7 +1691,7 @@ nieskończoność - anlimitia
 niespodziewany - anchenvidi  
 nietoperz - feymushe  
 niewiele (mało) - shavi  
-niewierny (poganin, niewierzący) - kafire  
+niewierny (poganin, niewierzący) - kafir  
 niewierny - andiniste  
 niezgoda - alraye  
 nigdy - nol ban  
@@ -1770,12 +1770,12 @@ obudzić, budzić - veka
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - rasme  
 obywatel - deshrene  
 obóz - kamper  
-ocean - dayhaye  
-Ocean Antarktyczny (Ocean Południowy) - antarti haye  
-Ocean Arktyczny - arti haye  
-Ocean Atlantycki - atlanti haye  
-Ocean Indyjski - barti haye  
-Ocean Spokojny (Pacyfik) - paci haye  
+ocean - dayhay  
+Ocean Antarktyczny (Ocean Południowy) - Antartiki Hay  
+Ocean Arktyczny - Artiki Hay  
+Ocean Atlantycki - Atlanti Hay  
+Ocean Indyjski - Barti Hay  
+Ocean Spokojny (Pacyfik) - Paci Hay  
 Oceania - oseania  
 ocelot - oselote  
 ocelot tygrysi - bagroselote  
@@ -2002,7 +2002,7 @@ pirat - pirater
 pirotechnika - hogotehne  
 pismo, tekst - kitabe  
 pistolet - pistole  
-pistolet, strzelba, ręczna broń palna - pave  
+pistolet, strzelba, ręczna broń palna - paw  
 Pitcairn - Pitkerne  
 piwo - bire  
 piwonia - mudane  
@@ -2020,7 +2020,7 @@ piła - sere
 piłka - bol (bole)  
 piłka do koszykówki (koszykówka) - baskobol  
 piłka nożna - futobole  
-placek, ciasto - pay (paye)  
+placek, ciasto - pay  
 placy - ruke  
 plan - plane  
 planeta - planete  
@@ -2233,7 +2233,7 @@ promień - rade
 promień światła - fotorade  
 proroctwo - nabe  
 prorok - naber  
-prorok Mani - manihaye  
+prorok Mani - Manihay  
 prosić - pliza  
 prostopadły - ortogoni  
 prosty - orti  
@@ -2606,7 +2606,7 @@ siła, autorytet, władza - sultane
 siły powietrzne - airgune  
 skand - eskandem  
 Skandynawia - Eskandia  
-skarb; skrabiec - bave  
+skarb; skrabiec - baw  
 skarpeta, skarpetka, pończocha - soke  
 skała - petre  
 skała macierzysta - bazopetre  
@@ -2634,7 +2634,7 @@ smieszany (skonfudowany) - konfusi
 smok - lunge  
 smutny - duki  
 smycz (cugiel, lejc, wodza) - lidokorde  
-snajper (strzelec wyborowy) - justopaver  
+snajper (strzelec wyborowy) - justopawer  
 sobota - var 6 (var sisi)  
 socjalista - sociste  
 socjalizm - socistia  
@@ -2720,7 +2720,7 @@ strona (bok) - late
 strona - varkolate  
 stront - estrontem  
 strzała (bełt) - fleche  
-strzelać (strzelić) - pava  
+strzelać (strzelić) - pawa  
 strzykwa - hayhiyare  
 strzępić (drzeć) - chirchira  
 studio (pracownia) - estudia  
@@ -3382,7 +3382,7 @@ zastąpić (podstawić, zamienić) - visa
 zasób - faide  
 zasłona, kurtyna - parde  
 zatkać, ztykać - tapa  
-zatoka - baye  
+zatoka - bay  
 zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - estasa  
 zatrzymać - tinga  
 zatrzymać się - tingu  

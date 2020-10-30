@@ -158,9 +158,9 @@ bashi jinse - genre grammatical
 basi - assez  
 baskobol - basketball  
 batre - pile (batterie)  
-bavi - précieux  
-bavsheke - pierre précieuse (joyau)  
-baye - baie  
+bawi - précieux  
+bawsheke - pierre précieuse (joyau)  
+bay - baie  
 bazare - marché (bazar)  
 baze - base  
 bazobole - baseball  
@@ -227,7 +227,7 @@ danse - dance
 date - données  
 datobanke - base de données  
 daydome - palais (château, manoir)  
-dayhaye - océan  
+dayhay - océan  
 daypave - canon  
 daysheke - rocher  
 dayvaze - chaudron  
@@ -369,8 +369,8 @@ harfia - alphabet
 hata - jusque (jusqu’à)  
 hato - voire (même)  
 hatre - danger  
+hay - mer  
 hayalge - algues  
-haye - mer  
 haygrase - posidonie (herbiers marins)  
 haygune - force navale (marine)  
 hayhiyare - concombre de mer  
@@ -434,8 +434,8 @@ justi - exact (précis)
 ##k
 kaboge - citrouille  
 kade - morue  
-kafase - cage  
-kafe - café  
+kafas - cage  
+kafe* - café  
 kaguje - papier  
 kagujolimone - lime (citron vert)  
 kalamare - calmar (encornet, calamar)  
@@ -736,8 +736,8 @@ patike - patient
 patojener - agent pathogène  
 patolojia - pathologie  
 pauze - pause  
-pave - pistolet  
-pay (paye) - tarte  
+paw - pistolet  
+pay - tarte  
 peda - péter  
 pede - pet (vesse)  
 pendokardone - chardon penché  

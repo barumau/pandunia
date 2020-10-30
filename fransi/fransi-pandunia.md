@@ -111,7 +111,7 @@ aïe! - ay
 babord - botolefte  
 backgammon - narde  
 bagage - bagaje  
-baie - baye  
+baie - bay  
 baie - bere  
 bain - banye  
 baisser - tala  
@@ -177,8 +177,8 @@ bûche - mokotane
 cacher - sira  
 cactus - katuse  
 cadre - freme  
-café - kafe  
-cage - kafase  
+café - kafe*  
+cage - kafas  
 caillou - lilsheke  
 calcaire - kalcopetre  
 calcite - kalcite  
@@ -570,7 +570,7 @@ menthe - minte
 Menthe aquatique - suyminte  
 menthe poivrée - piprominte  
 menthe verte - zongominte  
-mer - haye  
+mer - hay  
 mercredi - var 3 (var tini)  
 Mercure - Merkur  
 merde - shite  
@@ -637,7 +637,7 @@ objet (article) - vute
 oblique (de travers) - terchi  
 obsidienne - osidiane  
 ocelot - oselote  
-océan - dayhaye  
+océan - dayhay  
 odeur - arome  
 oeuf - ande  
 oignon - piaze  
@@ -709,7 +709,7 @@ philosophie - filsofia
 photographie - fotografe  
 photographie - fotografia  
 pierre - sheke  
-pierre précieuse (joyau) - bavsheke  
+pierre précieuse (joyau) - bawsheke  
 pierre tombale - gabrosheke  
 pieu (poteau) - zonge  
 pile (batterie) - batre  
@@ -717,7 +717,7 @@ piment - chili*
 pioche - pikosape  
 piquenique - vayoyame  
 piraterie - piratia  
-pistolet - pave  
+pistolet - paw  
 pizza - pize  
 pièce (chambre) - kamare  
 piège - kapotruke  
@@ -765,7 +765,7 @@ promettre - voda
 propriété (possession, bien) - malke  
 prune - plume  
 prune de Java - jambule  
-précieux - bavi  
+précieux - bawi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruhlojia  
@@ -885,7 +885,7 @@ s’accroupir - indosida
 ##t
 table - meze  
 tablette de chocolat - chokolatobatone  
-tarte - pay (paye)  
+tarte - pay  
 tasse à thé - chaykope  
 taximètre - taksometer  
 technique - tehne  

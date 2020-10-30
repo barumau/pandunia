@@ -106,8 +106,8 @@ annidi - innecesario
 anromansi - arromántico  
 anseksi - asexual  
 antapa - desatascar  
-antarti haye - océano Antártico  
 Antartike - antartida  
+Antartiki Hay - océano Antártico  
 antene - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua y Barbuda  
@@ -141,8 +141,8 @@ aromomelone - melón coreano
 aromu - oler (apestar)  
 arsene - arsénico  
 arte - arte  
-arti haye - océano Ártico  
 Artike - Ártico  
+Artiki Hay - océano Ártico  
 artiste - artista  
 Aruba - Aruba  
 asane - postura (posición)  
@@ -164,7 +164,7 @@ ater - agente
 Athina - Atenas  
 ation - acción  
 ativi - activo  
-atlanti haye - océano Atlántico  
+Atlanti Hay - océano Atlántico  
 atlantokade - bacalao común  
 atlantosamone - salmón del Atlántico  
 atome - átomo  
@@ -258,7 +258,7 @@ barshochate - parasol
 barshokote - impermeable  
 barshu - llover  
 barti - indio (hindú)  
-barti haye - océano Índico  
+Barti Hay - océano Índico  
 Bartia - India  
 barude - pólvora  
 barya - bloquear (obstruir)  
@@ -278,10 +278,10 @@ batokrote - ornitorrinco
 batone - barra (vara, palo)  
 batonpang - baguette  
 batre - pila (batería)  
-bave - tesoro  
-bavi - precioso  
-bavsheke - piedra preciosa (joya, gema)  
-baye - bahía  
+baw - tesoro  
+bawi - precioso  
+bawsheke - piedra preciosa (joya, gema)  
+bay - bahía  
 baza - fundar (basar)  
 bazare - mercado (bazar)  
 baze - base  
@@ -549,7 +549,7 @@ davistia - taoísmo
 day (dayi) - grande  
 daydarsia - universidad  
 daydome - palacio (mansión)  
-dayhaye - océano  
+dayhay - océano  
 dayia - tamaño  
 daypave - cañón  
 daypaver - cañonear  
@@ -1095,9 +1095,9 @@ hava - soplar (echar)
 Hawayi - Hawái  
 Hawayi nesia - archipiélago de Hawái  
 hawe - viento  
+hay - mar  
 Hayakia - Armenia  
 hayalge - macroalga  
-haye - mar  
 hayfule - actinia (anémonas de mar)  
 haygune - marina (armada)  
 hayhiyare - holoturia (pepino de mar)  
@@ -1329,7 +1329,7 @@ jusha - inyectar
 jushe - inyección  
 justi - exacto (preciso)  
 justo - justo (exactamente)  
-justopaver - francotirador  
+justopawer - francotirador  
 ##k
 kababa - asar  
 kabave - búbalo (arni)  
@@ -1338,10 +1338,10 @@ kaboge - calabaza
 Kabu Verde - Cabo Verde  
 kade - bacalao  
 kadem - cadmio  
-kafase - jaula (caja)  
-kafe - café  
-kaferia - café (cafetería)  
-kafire - pagano (infiel)  
+kafas - jaula (caja)  
+kafe* - café  
+kafeshope - café (cafetería)  
+kafir - pagano (infiel)  
 kafkope - taza de café  
 kaguje - papel  
 kagujolimone - limero  
@@ -1873,7 +1873,7 @@ mange - mano
 manguse - mangostán (jobo de la India)  
 mani pute - hijo  
 mani rajer - rey  
-manihaye - profeta Mani  
+Manihay - profeta Mani  
 manihayistia - maniqueísmo  
 Manin nese - Isla de Man  
 manioke - yuca (mandioca)  
@@ -2292,7 +2292,7 @@ otone - otoño
 ##p
 pa - a (hacia)  
 pace - paz  
-paci haye - océano Pacífico  
+Paci Hay - océano Pacífico  
 paciste - pacifista  
 pacistia - pacifismo  
 pada - dejar caer  
@@ -2381,9 +2381,9 @@ patolojia - patología
 paunde - libra (£)  
 pauza - parar  
 pauze - pausa  
-pava - disparar  
-pave - pistola (rifle)  
-pay (paye) - pastel (pay)  
+paw - pistola (rifle)  
+pawa - disparar  
+pay - pastel (pay)  
 peda - peer  
 pedale - pedal  
 pedalsikle - bicicleta  
@@ -3408,7 +3408,7 @@ zemlojia - geología
 zemmetria - geometría  
 zemnichi - subterráneo  
 zemnichi prizone - mazmorra  
-zemomedi haye - Mediterráneo  
+Zemomedi Hay - Mediterráneo  
 zemparlinye - ecuador  
 Zemparlinyi Ginia - Guinea Ecuatorial  
 zemsisme - terremoto  

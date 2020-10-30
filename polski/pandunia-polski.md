@@ -120,8 +120,8 @@ anseksi - aseksualny
 ansora - otworzyć (otwierać, odkluczyć, odkluczać)  
 ansori - zamknięty na klucz (zakluczony)  
 antapa - odetkać, odtykać  
-antarti haye - Ocean Antarktyczny (Ocean Południowy)  
 Antartike - Antarktyka  
+Antartiki Hay - Ocean Antarktyczny (Ocean Południowy)  
 antene - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua i Barbuda  
@@ -156,8 +156,8 @@ aromomelone - melon koreański
 aromu - pachnieć  
 arsene - arsen  
 arte - sztuka  
-arti haye - Ocean Arktyczny  
 Artike - Arktyka  
+Artiki Hay - Ocean Arktyczny  
 artiste - artysta  
 Aruba - Aruba  
 asane - postawa ciała; asana  
@@ -174,7 +174,7 @@ asme - astma
 aspirine - aspiryna  
 astatin - astat  
 ata* - jabłko cukrowe  
-atlanti haye - Ocean Atlantycki  
+Atlanti Hay - Ocean Atlantycki  
 atlantokade - dorsz atlantycki  
 atlantosamone - łosoś atlantycki  
 atome - atom  
@@ -268,7 +268,7 @@ barshochate - parasol
 barshokote - płaszcz nieprzemakalny  
 barshu - padać (lać)  
 barti - Indyjski  
-barti haye - Ocean Indyjski  
+Barti Hay - Ocean Indyjski  
 Bartia - Indie  
 barude - proch strzelniczy  
 barya - blokować, hamować  
@@ -288,10 +288,10 @@ batokrote - dziobak
 batone - pręt, kij  
 batonpang - bagietka  
 batre - bateria  
-bave - skarb; skrabiec  
-bavi - cenny  
-bavsheke - klejnot  
-baye - zatoka  
+baw - skarb; skrabiec  
+bawi - cenny  
+bawsheke - klejnot  
+bay - zatoka  
 baza - zakładać (założyć, ustanowić)  
 bazare - rynek, bazar  
 bazarhuristia - liberalizm rynkowy  
@@ -570,7 +570,7 @@ davistia - taoizm
 day (dayi) - duży  
 daydarsia - uniwersytet  
 daydome - pałac  
-dayhaye - ocean  
+dayhay - ocean  
 dayia - rozmiar  
 daylasune - czosnek olbrzymi  
 daypave - działo  
@@ -1129,9 +1129,9 @@ hava - dmuchać
 Hawayi - Hawaje  
 Hawayi nesia - Hawaje (archipelag hawajski)  
 hawe - wiatr  
+hay - może  
 Hayakia - Armenia  
 hayalge - wodorosty  
-haye - może  
 hayfule - ukwiał  
 haygrase - trawa morska  
 haygune - marynarka (flota)  
@@ -1373,7 +1373,7 @@ jusha - wstrzyknąć, wstrzykiwać
 jushe - zastrzyk  
 justi - precyzyjny, dokładny  
 justo - dokładnie (precyzyjnie, tylko)  
-justopaver - snajper (strzelec wyborowy)  
+justopawer - snajper (strzelec wyborowy)  
 ##k
 kababa - grillować  
 kababi manse - kebab  
@@ -1383,10 +1383,10 @@ kaboge - kabaczek (dynia, tykwa)
 Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
 kade - dorsz  
 kadem - kadm  
-kafase - klatka  
-kafe - kawa  
-kaferia - kawiarnia  
-kafire - niewierny (poganin, niewierzący)  
+kafas - klatka  
+kafe* - kawa  
+kafeshope - kawiarnia  
+kafir - niewierny (poganin, niewierzący)  
 kafkope - filiżanka do kawy  
 kaguje - papier  
 kagujolimone - lima (limonka)  
@@ -1947,7 +1947,7 @@ mange - mango
 manguse - mangostan  
 mani pute - syn  
 mani rajer - król  
-manihaye - prorok Mani  
+Manihay - prorok Mani  
 manihayistia - manicheizm  
 Manin nese - Wyspa Man  
 manioke - maniok  
@@ -2380,7 +2380,7 @@ otone - jesień
 ##p
 pa - do, dopóki, dla  
 pace - pokój  
-paci haye - Ocean Spokojny (Pacyfik)  
+Paci Hay - Ocean Spokojny (Pacyfik)  
 paciste - pacyfista  
 pacistia - pacyfizm  
 pacokade - dorsz pacyficzny  
@@ -2472,9 +2472,9 @@ patolojia - patologia
 paunde - funt (£)  
 pauza - przerwać, przerywać  
 pauze - pauza (przerwa)  
-pava - strzelać (strzelić)  
-pave - pistolet, strzelba, ręczna broń palna  
-pay (paye) - placek, ciasto  
+paw - pistolet, strzelba, ręczna broń palna  
+pawa - strzelać (strzelić)  
+pay - placek, ciasto  
 peda - pierdzieć  
 pedale - pedał  
 pedalsikle - rower z pedałami  
@@ -3534,7 +3534,7 @@ zemlaskeria - wosko lądowe (armia)
 zemlojia - geologia  
 zemnichi - podziemny  
 zemnichi prizone - loch  
-zemomedi haye - Morze Śródziemne  
+Zemomedi Hay - Morze Śródziemne  
 zemparlinye - równik  
 Zemparlinyi Ginia - Gwinea Równikowa  
 zemsisme - trzęsienie Ziemi  

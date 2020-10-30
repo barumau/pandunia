@@ -300,7 +300,7 @@ bah - bah
 Bahamas - Bahama  
 bahaísmo (fe bahá'i) - bahayistia  
 bahá'í - bahayiste  
-bahía - baye  
+bahía - bay  
 baile (danza) - danse  
 bajar - tala  
 bajo - tali  
@@ -450,8 +450,8 @@ cada - mey (meyi)
 cadena - silsile  
 cadmio - kadem  
 caer - padu  
-café (cafetería) - kaferia  
-café - kafe  
+café (cafetería) - kafeshope  
+café - kafe*  
 cagar - shita  
 caimán (aligátor, yacaré) - kortokrokodile  
 caja (baúl, cofre, estuche) - sanduke  
@@ -994,7 +994,7 @@ discusión (debate, discurso) - lona
 disentir (no estar de acuerdo) - alraya  
 disfrutar (jugar) - vanu  
 disionario (lexicón) - logoliste  
-disparar - pava  
+disparar - pawa  
 dispersar (esparcir, desmontar) - anjama  
 dispositivo pirotécnico - hogotehne  
 disprosio - disprosem  
@@ -1323,7 +1323,7 @@ fracaso - shibaye
 fragmento (pedazo) - parche  
 Francia - Francia  
 francio - francem  
-francotirador - justopaver  
+francotirador - justopawer  
 frecuencia - changia  
 frecuentemente - chango  
 fresco - tazi  
@@ -1709,7 +1709,7 @@ jarabe (sirope) - shirope
 jarra - jare  
 jarrón (bote) - vaze  
 Jartum - Khartum  
-jaula (caja) - kafase  
+jaula (caja) - kafas  
 jazmín - malike  
 jazz - jaze  
 jefe - shefe  
@@ -1947,7 +1947,7 @@ manzanilla romana (camomila común) - romkamile
 maní - zemdove  
 mapa - zemgrafe  
 mapache - washurse  
-mar - haye  
+mar - hay  
 maratí - marati  
 maratón - maratone  
 maravilla - ajabe  
@@ -2003,7 +2003,7 @@ medio - media
 medioambiente (naturaleza) - ekia  
 medir (tomar las medidas) - meta  
 meditar (reflexionar) - medita  
-Mediterráneo - zemomedi haye  
+Mediterráneo - Zemomedi Hay  
 medusa - hayjele  
 megavatio - megawate  
 meitnerio - maitnerem  
@@ -2275,12 +2275,12 @@ ocho (8) - bali
 octubre - desmese  
 ocultar (esconder) - sira  
 ocupado (atareado) - bizi  
-océano - dayhaye  
-océano Antártico - antarti haye  
-océano Atlántico - atlanti haye  
-océano Pacífico - paci haye  
-océano Ártico - arti haye  
-océano Índico - barti haye  
+océano - dayhay  
+océano Antártico - Antartiki Hay  
+océano Atlántico - Atlanti Hay  
+océano Pacífico - Paci Hay  
+océano Ártico - Artiki Hay  
+océano Índico - Barti Hay  
 odio - hene  
 oeste - veste  
 oficial - ofisi  
@@ -2340,7 +2340,7 @@ paciente - patike
 pacifismo - pacistia  
 pacifista - paciste  
 padre (papá) - pape  
-pagano (infiel) - kafire  
+pagano (infiel) - kafir  
 pago - peye  
 Pakistán - pakistan  
 pala - bele  
@@ -2417,7 +2417,7 @@ paso (grado, nivel, rango, calidad, categoría) - darje
 paso elevado - supre  
 pasta - paste  
 pastel (galleta) - keke  
-pastel (pay) - pay (paye)  
+pastel (pay) - pay  
 pato - bate  
 patología - patolojia  
 patrimonio (herencia, legado) - varise  
@@ -2497,7 +2497,7 @@ piano - piane
 pidgin - pijine  
 pie (pata) - fute  
 piedra - sheke  
-piedra preciosa (joya, gema) - bavsheke  
+piedra preciosa (joya, gema) - bawsheke  
 piel - pile  
 pila (batería) - batre  
 pilaf (pulaw) - polave  
@@ -2515,7 +2515,7 @@ pirámide - pirame
 pis (meados) - pishe  
 piscina (alberca, lavadero) - basene  
 piso (suelo) - kamartale  
-pistola (rifle) - pave  
+pistola (rifle) - paw  
 pistola - pistole  
 pizza - pize  
 pizzería - pizeria  
@@ -2589,7 +2589,7 @@ pradera (pastizal) - grasistan
 praseodimio - prasedem  
 preceder (anteceder) - chena  
 precio (coste) - koste  
-precioso - bavi  
+precioso - bawi  
 preferir (favorecer) - favora  
 prefijo - chenfikse  
 pregunta - eske  
@@ -2623,7 +2623,7 @@ profecía - nabe
 profesión (ocupación) - peshe  
 profesor - profesor  
 profeta - naber  
-profeta Mani - manihaye  
+profeta Mani - Manihay  
 profundo (hondo) - fasteli  
 programa - programe  
 programador - programer  
@@ -3147,7 +3147,7 @@ terrorismo - teroristia
 terrorista - teroriste  
 tesis - tese  
 tesla (T) - tesle  
-tesoro - bave  
+tesoro - baw  
 teísmo - devistia  
 teísta - deviste  
 tiburón - sharke  

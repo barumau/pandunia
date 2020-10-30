@@ -121,7 +121,7 @@ animation (cartoon) - anime
 anniversary - nenfeste  
 answer (reply, response) - javabe  
 ant - maye  
-Antarctic Ocean - antarti haye  
+Antarctic Ocean - Antartiki Hay  
 Antarctica - Antartike  
 antenna (aerial) - antene  
 antichrist - fankriste  
@@ -150,7 +150,7 @@ archer - arker
 archery - arkia  
 archipelago - nesia  
 Arctic - Artike  
-Arctic Ocean - arti haye  
+Arctic Ocean - Artiki Hay  
 area (extent of surface) - are  
 area (region) - aria  
 area of thinking or being - -ia  
@@ -198,7 +198,7 @@ atheist - andeviste
 Athens - Athina  
 athlete (sportsman) - keler  
 Atlantic cod - atlantokade  
-Atlantic Ocean - atlanti haye  
+Atlantic Ocean - Atlanti Hay  
 Atlantic salmon - atlantosamone  
 atmospheric pressure - airbare  
 atom - atome  
@@ -281,7 +281,7 @@ bath - banye
 bathe - banyu  
 bathroom - banyokamare  
 battery - batre  
-bay (gulf) - baye  
+bay (gulf) - bay  
 be - esa  
 be about (discuss as a subject) - tema  
 be against - kontra  
@@ -476,8 +476,8 @@ Cabo Verde (Cape Verde) - Kabu Verde
 cactus - katuse  
 cadmium - kadem  
 caesium - cesem  
-cafe (coffee shop) - kaferia  
-cage - kafase  
+cafe (coffee shop) - kafeshope  
+cage - kafas  
 cake (cookie) - keke  
 calabash - suykaboge  
 calcite - kalcite  
@@ -662,7 +662,7 @@ cod - kade
 code (cipher) - kode  
 coerce (force, compel) - musa  
 coercion - muse  
-coffee - kafe  
+coffee - kafe*  
 coffee cup - kafkope  
 coin - pesdiske  
 cola - kole  
@@ -1280,7 +1280,7 @@ gauze - gaze
 gay (homosexual) - geyi  
 gazelle - gazele  
 gel (jelly) - jele  
-gem (gemstone, jewel) - bavsheke  
+gem (gemstone, jewel) - bawsheke  
 gender (sex) - jinse  
 genderqueer (non-binary) - bise  
 generation (cohort) - jengrupe  
@@ -1393,7 +1393,7 @@ Guinea-Bissau - Bisau Ginia
 guitar - gitare  
 Gujarati - gujarati  
 gun (cannon) - daypave  
-gun (firearm) - pave  
+gun (firearm) - paw  
 gunpowder - barude  
 guru (teacher) - gure  
 Guyana - Gayana  
@@ -1559,11 +1559,11 @@ increment - maydarja
 India - Bartia  
 Indian - barti  
 Indian chrysanthemum - neftogukuve  
-Indian Ocean - barti haye  
+Indian Ocean - Barti Hay  
 indium - hindem  
 Indonesia - Indonesia  
 infection (infestation) - infekse  
-infidel (pagan, heathen, unbeliever) - kafire  
+infidel (pagan, heathen, unbeliever) - kafir  
 infinity - anlimitia  
 inflammation (-itis) - itis (itise)  
 inform (communicate) - informa  
@@ -1966,7 +1966,7 @@ Mecca - makah
 medallion (medal) - medale  
 medicine (field of study) - medikia  
 meditate (ponder) - medita  
-Mediterranean - zemomedi haye  
+Mediterranean - Zemomedi Hay  
 medium (intermediate, mean) - medi  
 medium (media) - media  
 meet - mita  
@@ -2226,7 +2226,7 @@ Oberon - Oberon
 object (item) - vute  
 oblique (askew, tilted) - terchi  
 obsidian - osidiane  
-ocean - dayhaye  
+ocean - dayhay  
 Oceania - oseania  
 ocelot - oselote  
 October - desmese  
@@ -2314,7 +2314,7 @@ oxide - okside
 oxygen - okse  
 ##p
 Pacific cod - pacokade  
-Pacific Ocean - paci haye  
+Pacific Ocean - Paci Hay  
 pacifism - pacistia  
 pacifist - paciste  
 pack (package) - pake  
@@ -2436,7 +2436,7 @@ pickled - sirkopurshipi
 picnic - vayoyame  
 picture book - grafbuke  
 pidgin (contact language) - pijine  
-pie (pastry) - pay (paye)  
+pie (pastry) - pay  
 piece (fragment, shred, morsel, crumb, shard) - parche  
 piece (nugget, tikka) - tike  
 pierce (perforate, bore) - konga  
@@ -2548,7 +2548,7 @@ praise (commend, exalt) - halela
 praseodymium - prasedem  
 pray - duva  
 prayer - duve  
-precious - bavi  
+precious - bawi  
 precise (exact, accurate) - justi  
 predate (be before) - chena  
 prefer - favora  
@@ -2592,7 +2592,7 @@ proof (evidence, proof, demonstration, testimony) - dalile
 property (belongings, possessions) - malke  
 prophecy - nabe  
 prophet - naber  
-prophet Mani - manihaye  
+prophet Mani - Manihay  
 proponent (supporter, activist, -ist) - iste  
 protactinium - protacinem  
 protect (secure, save) - sekura  
@@ -2850,7 +2850,7 @@ sculptor - eskulter
 sculpture (art of sculpting) - eskultia  
 sculpture (statue) - eskulte  
 scute - ostoshalke  
-sea - haye  
+sea - hay  
 sea anemone - hayfule  
 sea cucumber - hayhiyare  
 sea force (navy) - haygune  
@@ -2924,7 +2924,7 @@ shoemaker - sapater
 shoemaker's shop - sapateria  
 shogun - shogune  
 shogunate - shogunia  
-shoot (fire) - pava  
+shoot (fire) - pawa  
 shop (workshop, place of doing) - eria  
 shopping - shope  
 shore (bank, edge) - tate  
@@ -2990,7 +2990,7 @@ snack - lilyame
 snake (serpent) - serpe  
 sneak - siro motu  
 sneeze - achua  
-sniper (sharpshooter) - justopaver  
+sniper (sharpshooter) - justopawer  
 snow (be snowing) - himu  
 snow - hime  
 soak (steep, marinate) - purshipa  
@@ -3359,7 +3359,7 @@ trapdoor - padomun
 travel (voyage, trip) - safare  
 travel - safara  
 traveler - safarer  
-treasure (valuables) - bave  
+treasure (valuables) - baw  
 tree - moke  
 triangle - tingone  
 tribe - tribe  

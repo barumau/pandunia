@@ -124,8 +124,8 @@ anseksi - asexual
 ansora - unlock  
 ansori - unlocked  
 antapa - unplug (uncork)  
-antarti haye - Antarctic Ocean  
 Antartike - Antarctica  
+Antartiki Hay - Antarctic Ocean  
 antene - antenna (aerial)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
@@ -161,8 +161,8 @@ aromomelone - Korean melon
 aromu - smell (reek)  
 arsene - arsenic  
 arte - art (skilful creative activity)  
-arti haye - Arctic Ocean  
 Artike - Arctic  
+Artiki Hay - Arctic Ocean  
 artiste - artist  
 Aruba - Aruba  
 asane - posture (asana)  
@@ -184,7 +184,7 @@ ater - agent (doer, actor)
 Athina - Athens  
 ation - action  
 ativi - active  
-atlanti haye - Atlantic Ocean  
+Atlanti Hay - Atlantic Ocean  
 atlantokade - Atlantic cod  
 atlantosamone - Atlantic salmon  
 atome - atom  
@@ -279,7 +279,7 @@ barshochate - umbrella
 barshokote - raincoat  
 barshu - rain (pour down)  
 barti - Indian  
-barti haye - Indian Ocean  
+Barti Hay - Indian Ocean  
 Bartia - India  
 barude - gunpowder  
 barya - bar (obstruct, block)  
@@ -299,10 +299,10 @@ batokrote - platypus
 batone - bar (rod, stick)  
 batonpang - baguette  
 batre - battery  
-bave - treasure (valuables)  
-bavi - precious  
-bavsheke - gem (gemstone, jewel)  
-baye - bay (gulf)  
+baw - treasure (valuables)  
+bawi - precious  
+bawsheke - gem (gemstone, jewel)  
+bay - bay (gulf)  
 baza - found  
 bazare - market (bazaar)  
 bazarhuristia - market liberalism  
@@ -587,7 +587,7 @@ davistia - Taoism (Daoism)
 day (dayi) - big (great)  
 daydarsia - university  
 daydome - palace (mansion)  
-dayhaye - ocean  
+dayhay - ocean  
 dayia - size  
 daylasune - giant onion  
 daypave - gun (cannon)  
@@ -1166,9 +1166,9 @@ hava - blow
 Hawayi - Hawaii  
 Hawayi nesia - Hawaiian archipelago  
 hawe - wind  
+hay - sea  
 Hayakia - Armenia  
 hayalge - seaweed (macroalgae)  
-haye - sea  
 hayfule - sea anemone  
 haygrase - seagrass  
 haygune - sea force (navy)  
@@ -1416,7 +1416,7 @@ jusha - inject
 jushe - injection  
 justi - precise (exact, accurate)  
 justo - just (exactly, precisely)  
-justopaver - sniper (sharpshooter)  
+justopawer - sniper (sharpshooter)  
 ##k
 kababa - barbecue (grill)  
 kababi manse - grilled meat (kebab)  
@@ -1426,10 +1426,10 @@ kaboge - squash (pumpkin, gourd)
 Kabu Verde - Cabo Verde (Cape Verde)  
 kade - cod  
 kadem - cadmium  
-kafase - cage  
-kafe - coffee  
-kaferia - cafe (coffee shop)  
-kafire - infidel (pagan, heathen, unbeliever)  
+kafas - cage  
+kafe* - coffee  
+kafeshope - cafe (coffee shop)  
+kafir - infidel (pagan, heathen, unbeliever)  
 kafkope - coffee cup  
 kaguje - paper (material)  
 kagujolimone - key lime  
@@ -2000,7 +2000,7 @@ mange - mango
 manguse - mangosteen  
 mani pute - son  
 mani rajer - king  
-manihaye - prophet Mani  
+Manihay - prophet Mani  
 manihayistia - Manichaeism  
 Manin nese - Isle of Man  
 manioke - cassava (manioc)  
@@ -2440,7 +2440,7 @@ otone - autumn (fall)
 ##p
 pa - to (toward, till, until, for)  
 pace - peace  
-paci haye - Pacific Ocean  
+Paci Hay - Pacific Ocean  
 paciste - pacifist  
 pacistia - pacifism  
 pacokade - Pacific cod  
@@ -2534,9 +2534,9 @@ patolojia - pathology
 paunde - pound (£)  
 pauza - pause (interrupt)  
 pauze - pause (break, interruption)  
-pava - shoot (fire)  
-pave - gun (firearm)  
-pay (paye) - pie (pastry)  
+paw - gun (firearm)  
+pawa - shoot (fire)  
+pay - pie (pastry)  
 peda - fart (flatulate)  
 pedale - pedal  
 pedalsikle - bicycle (pedal bike)  
@@ -3619,7 +3619,7 @@ zemlojia - geology
 zemmetria - geometry  
 zemnichi - underground (subterrainean)  
 zemnichi prizone - dungeon (underground prison)  
-zemomedi haye - Mediterranean  
+Zemomedi Hay - Mediterranean  
 zemparlinye - equator  
 Zemparlinyi Ginia - Equatorial Guinea  
 zemsisme - earthquake  

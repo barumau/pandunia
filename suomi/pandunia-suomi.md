@@ -122,8 +122,8 @@ aria - alue (seutu)
 arme - ase  
 arsene - arseeni  
 arte - taide  
-arti haye - Jäämeri  
 Artike - Arktis  
+Artiki Hay - Jäämeri  
 artiste - taiteilija  
 Aruba - Aruba  
 asane - asento  
@@ -144,7 +144,7 @@ ater - tekijä (toimija)
 Athina - Ateena  
 ation - toiminta  
 ativi - toimelias (aktiivinen)  
-atlanti haye - Atlantin valtameri  
+Atlanti Hay - Atlantin valtameri  
 atome - atomi  
 auda - kuulla (kuunnella)  
 aure - kulta  
@@ -218,7 +218,7 @@ barshe - sade
 barshochate - sateenvarjo  
 barshokote - sadetakki  
 barti - intialainen  
-barti haye - Intian valtameri  
+Barti Hay - Intian valtameri  
 Bartia - Intia  
 barude - ruuti  
 barya - estää kulku  
@@ -237,8 +237,8 @@ batokrote - vesinokkaeläin
 batone - tanko (sauva, patukka)  
 batonpang - patonki (ranskanleipä)  
 batre - akku (paristo)  
-bave - aarre  
-bavsheke - jalokivi  
+baw - aarre  
+bawsheke - jalokivi  
 baza - perustaa  
 bazare - tori (basaari)  
 bazarhuristia - markkinaliberalismi  
@@ -478,7 +478,7 @@ davistia - taolaisuus
 day (dayi) - iso (suuri)  
 daydarsia - yliopisto  
 daydome - palatsi  
-dayhaye - valtameri  
+dayhay - valtameri  
 daypave - tykki  
 daypaver - tykkimies  
 daysheke - lohkare (järkäle)  
@@ -951,8 +951,8 @@ hava - tuulla (puhaltaa)
 Hawayi - Havaiji  
 Hawayi nesia - Havaijin saaret  
 hawe - tuuli (puhallus)  
+hay - meri  
 Hayakia - Armenia  
-haye - meri  
 haygune - merivoimat (sotalaivasto)  
 hayi - meri- (merellinen)  
 he - häh?  
@@ -1163,10 +1163,10 @@ kabave - vesipuhveli
 kabine - koppi (maja)  
 Kabu Verde - Cabo Verde  
 kadem - kadmium  
-kafase - häkki  
-kafe - kahvi  
-kaferia - kahvila  
-kafire - pakana  
+kafas - häkki  
+kafe* - kahvi  
+kafeshope - kahvila  
+kafir - pakana  
 kafkope - kahvikuppi  
 kaguje - paperi  
 kaisha - aloittaa  
@@ -1616,7 +1616,7 @@ mange - mango
 manguse - mangostani  
 mani pute - poika  
 mani rajer - kuningas  
-manihaye - profeetta Mani  
+Manihay - profeetta Mani  
 manihayistia - manikealaisuus  
 Manin nese - Manin saari  
 manioke - kassava (maniokki)  
@@ -1985,7 +1985,7 @@ otone - syksy (syys)
 ##p
 pa - luokse (tykö, kohti, asti)  
 pace - rauha  
-paci haye - Tyyni valtameri  
+Paci Hay - Tyyni valtameri  
 paciste - pasifisti  
 pacistia - rauhanaate (pasifismi)  
 pada - pudottaa  
@@ -2066,8 +2066,8 @@ patolojia - patologia (tautioppi)
 paunde - punta  
 pauza - keskeyttää (tauottaa)  
 pauze - tauko (keskeytys, paussi)  
-pave - pyssy  
-pay (paye) - piirakka (piiras)  
+paw - pyssy  
+pay - piirakka (piiras)  
 peda - pierrä (pieraista)  
 pedale - poljin (pedaali)  
 pedalsikle - polkupyörä  
@@ -2929,7 +2929,7 @@ zemgrafe - kartta
 zemgrafia - kartogratia  
 zemlaskeria - maavoimat  
 zemmetria - geometria  
-zemomedi haye - Välimeri  
+Zemomedi Hay - Välimeri  
 zemparlinye - päiväntasaaja  
 Zemparlinyi Ginia - Päiväntasaajan Guinea  
 zemsisme - maanjäristys  

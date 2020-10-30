@@ -477,7 +477,7 @@ fungo - funge
 funkcii - funca  
 furo - furete  
 furzo - pede  
-fusilo - pave  
+fusilo - paw  
 fuĝi - bega  
 ##g
 gadolinio - gadolinem  
@@ -656,13 +656,13 @@ junulo - jovane
 jupo - jupe  
 justa - adali  
 justeco - adalia  
-juvelo - bavsheke  
+juvelo - bawsheke  
 juĝisto - hakimer  
 juĝo - hakime  
 ##k
 kadmio - kadem  
-kafejo - kaferia  
-kafo - kafe  
+kafejo - kafeshope  
+kafo - kafe*  
 kaftaso - kafkope  
 kaj - e  
 kajero - notobuke  
@@ -947,7 +947,7 @@ maratono - maratone
 mardo - var 2 (var duli)  
 margarino - margarine  
 marmoro - kalcokristale  
-maro - haye  
+maro - hay  
 martelo - hamare  
 masko - maske  
 maso - mase  
@@ -1087,7 +1087,7 @@ nur - mono
 oazo - vase  
 obrelo - barshochate  
 Oceanio - oseania  
-oceano - dayhaye  
+oceano - dayhay  
 ofte - chango  
 oganesono - oganeson  
 ogro (trolo) - guye  
@@ -1522,7 +1522,7 @@ tono - tone
 torako - sinkafase  
 torio - torem  
 torso - torse  
-torto - pay (paye)  
+torto - pay  
 torĉo - fotobatone  
 traduki - tarja  
 tradukisto - tarjer  
@@ -1531,7 +1531,7 @@ trajno (vagonaro) - tren (trene)
 trankvila (serena) - shanti  
 tranĉi - kata  
 tranĉilo - chake  
-trezoro - bave  
+trezoro - baw  
 tri (3) - tini  
 tribo - tribe  
 tribordo - botoraite  

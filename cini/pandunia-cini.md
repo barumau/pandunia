@@ -112,8 +112,8 @@ bashlojia - 语言学
 basi - 够  
 baskobol - 篮球  
 batre - 电池  
-bavi - 宝贵  
-bavsheke - 宝石  
+bawi - 宝贵  
+bawsheke - 宝石  
 bazare - 市场  
 baze - 底部  
 bazobole - 棒球  
@@ -179,7 +179,7 @@ dantobalute - 槲树
 date - 数据  
 datobanke - 数据库  
 daydome - 殿 (宫殿, 宅第)  
-dayhaye - 大洋 (大海)  
+dayhay - 大洋 (大海)  
 daypave - 大炮  
 daysheke - 磐石  
 dayvaze - 炼药锅  
@@ -299,8 +299,8 @@ harfia - 字母表
 hata - 直到  
 hato - 连  
 hatre - 危险  
+hay - 海  
 hayalge - 海藻  
-haye - 海  
 hayfule - 海葵  
 haygune - 海军  
 hayhiyare - 海參  
@@ -357,8 +357,8 @@ juse - 汁
 ##k
 kaboge - 南瓜  
 kade - 鱈  
-kafase - 笼  
-kafe - 咖啡  
+kafas - 笼  
+kafe* - 咖啡  
 kaguje - 纸  
 kagujolimone - 墨西哥萊檬  
 kaisha - 开始  
@@ -635,8 +635,8 @@ pastopetre - 岩漿
 patike - 患者 (病患)  
 patojener - 病原体  
 patolojia - 病理学  
-pave - 手枪  
-pay (paye) - 馅饼  
+paw - 手枪  
+pay - 馅饼  
 peda - 放屁  
 pede - 屁  
 pelmene - 饺子  

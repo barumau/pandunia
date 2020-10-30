@@ -174,8 +174,8 @@ baske - korbo
 bate - anaso  
 batone - stango  
 batre - baterio (pilo)  
-bave - trezoro  
-bavsheke - juvelo  
+baw - trezoro  
+bawsheke - juvelo  
 bazare - merkato (bazaro)  
 baze - bazo  
 bazi - baza  
@@ -333,7 +333,7 @@ datobanke - datumbanko
 dave - vojo  
 day (dayi) - granda  
 daydome - palaco  
-dayhaye - oceano  
+dayhay - oceano  
 daypave - kanono  
 daypaver - kanonisto  
 daysheke - ŝtonego  
@@ -664,7 +664,7 @@ hatre - danĝero
 hatri - danĝera  
 hava - venti  
 hawe - vento  
-haye - maro  
+hay - maro  
 haygune - mararmeo  
 hayi - mara  
 he - ĉu?  
@@ -788,8 +788,8 @@ justi - preciza (ekzakta)
 justo - ĝuste (ekzakte)  
 ##k
 kadem - kadmio  
-kafe - kafo  
-kaferia - kafejo  
+kafe* - kafo  
+kafeshope - kafejo  
 kafkope - kaftaso  
 kaguje - papero  
 kaisha - komenci  
@@ -1249,8 +1249,8 @@ patate - terpomo
 pati - malsana  
 patike - paciento  
 patolojia - patologio  
-pave - fusilo  
-pay (paye) - torto  
+paw - fusilo  
+pay - torto  
 pedale - pedalo  
 pede - furzo  
 pelpele - papilio  
