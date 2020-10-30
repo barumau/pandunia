@@ -14,7 +14,7 @@ and the vowel endings indicate different manifestations of that idea.
 
 Pandunia uses the following vowel endings to mark parts of speech.
 
-- **-e** indicates a noun (a thing)
+- no vowel or **-e** indicates a noun (a thing)
 - **-i** indicates an adjective (a description)
 - **-o** indicates an adverb (a manner or a circumstance)
 - **-a** indicates an active verb (an action)
@@ -79,7 +79,7 @@ Here are a few examples of different types of ideas.
 2. If the idea is a description then its verb form will mean "to turn into that quality".
    For example from **novi** (_new_) we get **nova** (_to make new_ or _to renew_).
 3. If the idea is a thing, then its verb form will mean "to apply it to".
-   For example from **hamare** (_hammer_) we get **hamara** (_to hammer_).
+   For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
 
 
 ### Deriving nouns
@@ -110,27 +110,28 @@ For example, from the noun **insan** (_human being_), we get the adjective **ins
 
 If the root is a place word, then its adjectival form will mean "that which is from that place".
 
-**irania** Iran, **irani** Iranian  
-**pakistan** Pakistan, **pakistani** Pakistani  
-**amerike** America, **ameriki** American  
-**europe** Europe, **europi** European  
-**asia** Asia, **asi** Asian
+**Irania** Iran, **Irani** Iranian  
+**Pakistan** Pakistan, **Pakistani** Pakistani  
+**Amerike** America, **Ameriki** American  
+**Europe** Europe, **Europi** European  
+**Asia** Asia, **Asi** Asian
 
-### Words without an ending
+### Words without a vowel ending
 
-Some words in Pandunia don't have a vowel ending.
-These are the rules:
+Normally, when a word doesn't end in a vowel, it is a noun.
+The noun ending **-e** is used only when the word would be otherwise difficult to pronounce by international speakers.
+So it is necessary to use **-e** after stop consonants (ex. **supe** instead of **sup**),
+affricates (ex. **noche** and **laje** instead of **noch** and **laj**),
+voiced fricatives (ex. **nove** and **taze** instead of **nov** and **taz**)
+and consonant series (ex. **poste** and **yogurte** instead of **post** and **yogurt**).
+Otherwise nouns don't have a vowel ending.
 
-- Verbs always have an ending: **-a** or **-u**.
-- Modifiers almost always have the ending **-i**.
-  The most common adjectives are exceptions to the rule: **bon, mal, lil, day**.
-- Nouns almost always have the ending **-e** or **-ia**.
-  Some common nouns and suffixes are exceptions to the rule (ex. **cay, maw, hotel, kitaber, helium**).
+In addition, a handful of adjectives and adverbs don't have a vowel ending.
+The adjectives without the ending are **bon** (good), **mal** (bad), **lil** (small) and **day** (big).
+The advebs withouth the ending are **mas** (more) and **min** (less).
 
-For example we normally use short word **insan** (_human being_) instead of **insane**.
-Likewise we normally say **bon** (_good_) instead of **boni**.
 Note that it is always acceptable to use the vowel endings on every word.
-It is an artistic choice by the authors of Pandunia to not require them on these words.
+So it is acceptable to say **boni hotele** instead of **bon hotel** (a good hotel).
 
 
 ## Compound words
@@ -145,11 +146,10 @@ For example, this is how the word **kansuye** (_tears_) is made:
 
           kan       (eye)
        +  suy       (water)
-       +    e       (noun ending)
     ____________
-    = kansuye       (eyewater, tear)
+    =  kansuy       (eyewater, tear)
 
-And this is how the word **andewisti** (atheistic) is made:
+And this is how the word **andevisti** (atheistic) is made:
 
            an       (negation)
        +  dev       (god)
