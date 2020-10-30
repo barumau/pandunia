@@ -58,10 +58,10 @@ Welcome!
 **salam chute!**
 Goodbye!
 
-**salam safare!**
+**salam safar!**
 Have a safe journey!
 
-**salam sone!**
+**salam son!**
 Sleep well!
 
 As you can see from the range of expressions, **salam** is a general word for
@@ -184,7 +184,7 @@ of gender) as well as for things.
 **me salama le.**
 I greet him/her.
 
-<small>Etymology. **le** is from French: elle, Spanish: él.</small>
+<small>Etymology. **le** is from French: il/le, Spanish: él/le.</small>
 
 
 ### eska <small>to ask a question</small>
@@ -277,7 +277,7 @@ He/she doesn't greet me.
 is from Spanish: no, English no, French: non.</small>
 
 
-### Plurals
+### Plural pronouns
 
 Plural pronouns are created like this:
 **me** (I) →  **mome** (we)  
@@ -375,8 +375,8 @@ We are here.
 **ye ke?**
 What's this?
 
-**ye me du fone.**
-It's my phone.
+**ye me du telfone.**
+It's my telephone.
 
 **ye ke du?**
 Whose is this?
@@ -447,7 +447,7 @@ Do you know that person?
 **eska tote jana unale?**
 Do you know each other?
 
-**mome jana unale ca long.**
+**mome jana unale ca longi.**
 We know each other for long.
 
 
@@ -540,7 +540,7 @@ Please, have some tea!
 **pliza yama kafe.**
 Please, have some coffee!
 
-**pliza laya dome.**
+**pliza laya dom.**
 Please, come home!
 
 **pliza helpa me.**
@@ -680,10 +680,10 @@ Pleased to see you!
 **vida te reo!**
 See you again!
 
-**vida te badoden!**
+**vida te badodeno!**
 See you tomorrow!
 
-**me vida le predoden.**
+**me vida le chendeno.**
 I saw him/her yesterday.
 
 
@@ -704,7 +704,7 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**pliza kitaba ti adrese.**
+**pliza kitaba ti adres.**
 Please, write your address.
 
 **pliza kitaba le sa ye.**
@@ -722,7 +722,7 @@ We can speak Pandunia.
 **eska te abla basha Engli?**
 Can you speak English?
 
-**Fransi, Espani, Portugali, Rusi**
+**Franci, Espani, Portugali, Rusi**
 French, Spanish, Portuguese, Russian
 
 **Chini, Niponi, Indonesi**
@@ -742,7 +742,7 @@ Swahili, Hausa, Yoruba, Amharic
 **te gowa ke?**
 Where are you going?
 
-**me gowa dome.**
+**me gowa dom.**
 I'm going home.
 
 **me musu gowa ke?**
@@ -769,7 +769,7 @@ Where do you come from?
 **me laya ca Dubai.**
 I come from Dubai.
 
-**me laya dome badoden.**
+**me laya dom badodeno.**
 I will come home tomorrow.
 
 
@@ -781,7 +781,7 @@ Do you travel by train?
 **mome safara ca London pa Paris.**
 We travel from London to Paris.
 
-**safare multo longi.**
+**safar multo longi.**
 The voyage is very long.
 
 
@@ -816,7 +816,7 @@ I work at ...
 **te doma ke?**
 Where do you live?
 
-**me doma singapur.**
+**me doma Singapur.**
 I live in Singapore.
 
 **eska te doma yi hotel?**
