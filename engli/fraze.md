@@ -49,7 +49,7 @@ Good evening!
 **salam noche!**
 Good night!
 
-**salam yame!**
+**salam yam!**
 Bon appetit!
 
 **salam lay!**
@@ -854,7 +854,7 @@ The man is looking at the woman.
 **le zayo shefe.**  
 He or she is currently the chief.
 
-**le zayo sa dome.**  
+**le zayo sa dom.**  
 He or she is currently at home.
 
 
@@ -869,7 +869,7 @@ The man looked at the woman.
 **le paso shefe.**  
 He or she was the chief.
 
-**le paso sa dome.**  
+**le paso sa dom.**  
 He or she was at home.
 
 
@@ -884,7 +884,7 @@ The man has looked at the woman.
 **le levo shefe.**  
 He or she has been the chief.
 
-**le levo sa dome.**  
+**le levo sa dom.**  
 He or she has been at home.
 
 
@@ -899,7 +899,7 @@ The man will see the woman.
 **le vilo shefe.**  
 He or she will be the chief.
 
-**le vilo sa dome.**  
+**le vilo sa dom.**  
 He or she will be at home.
 
 

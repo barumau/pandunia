@@ -38,22 +38,22 @@ Bonan matenon!
 **salam den!**
 Bonan tagon!
 
-**salam xam!**
+**salam sham!**
 Bonan vesperon!
 
-**salam noce!**
+**salam noche!**
 Bonan nokton!
 
-**salam niam!**
+**salam yam!**
 Bonan apetiton!
 
 **salam lay!**
 Bonvenon!
 
-**salam cute!**
+**salam chute!**
 Ĝis!
 
-**salam safare!**
+**salam safar!**
 Bonan vojaĝon!
 
 **salam son!**
@@ -68,10 +68,10 @@ selamat.</small>
 
 ### me <small>mi</small>
 
-**me sarah.**
+**me Sara.**
 Mi estas Sara.
 
-**me tomas.**
+**me Tomas.**
 Mi estas Tomaso.
 
 Vi povas konigi vin dirante **me**
@@ -86,7 +86,7 @@ Mi salutas patron.
 La vorto **salam** estas la substantivo kaj **salama** estas la verbo. La
 normala vortordo en pandunio estas subjekto-verbo-objekto.
 
-**sarah salama tomas.**
+**Sara salama Tomas.**
 Sara salutas Tomason.
 
 **salam mame!**
@@ -101,7 +101,7 @@ venas el angla: me, hindi: मैं (meṇ), hispana: me.</small>
 
 ### te <small>vi (singulare)</small>
 
-**te tomas.**
+**te Tomas.**
 Vi estas Tomaso.
 
 **me salama te.**
@@ -130,7 +130,7 @@ Li estas viro.
 **le fem.**
 Ŝi estas virino.
 
-**le aple.**
+**le apel.**
 Ĝi estas pomo.
 
 Noto: **le**
@@ -144,7 +144,7 @@ venas el franca: elle, hispana: él.</small>
 
 ### eska <small>demandi, ĉu</small>
 
-**eska te tomas?**
+**eska te Tomas?**
 Ĉu vi estas Tomaso?
 
 **eska te dotor?**
@@ -170,10 +170,10 @@ venas el angla: ask, franca: est-ce que, haitia: èske.</small>
 
 ### si <small>jes</small>
 
-**eska te tomas?**
+**eska te Tomas?**
 Ĉu vi estas Tomaso.
 
-**si, me tomas.**
+**si, me Tomas.**
 Jes, mi estas Tomaso.
 
 **eska le dotor?**
@@ -186,17 +186,17 @@ Noto: Ankaŭ **si** ŝanĝiĝas neniam. Do **si** kovras ĉiuj formoj de esti:
 _estas, estos, estis, estus_! Adicie oni povas forlasi ĝin en simplaj,
 mallongaj frazoj post pronomoj kiel **me** kaj **te**.
 
-**me si tomas.**
+**me si Tomas.**
 Mi estas Tomaso.
 
-**te si sarah.**
+**te si Sara.**
 Vi estas Sara.
 
-**aple si pal.**
+**apel si pal.**
 Pomo estas frukto.
 
 Noto: Estas speciale utila uzi **si** en la lasta frazo, ĉar sen ĝi la
-frazo povus aspekti kiel kunmetita vorto: **aple-pala** (pomfrukto).
+frazo povus aspekti kiel kunmetita vorto: **apel-pala** (pomfrukto).
 
 <small>Etimologio. **si**
 venas el hispana: sí, itala: sì, portugala: sim, mandarenĉina: 是
@@ -205,7 +205,7 @@ venas el hispana: sí, itala: sì, portugala: sim, mandarenĉina: 是
 
 ### no <small>ne</small>
 
-**me no sarah.**
+**me no Sara.**
 Mi ne estas Sara.
 
 **me no dotor.**
@@ -249,7 +249,7 @@ Ni estas virinoj.
 **tote man.**
 Vi estas viroj.
 
-**lole aple.**
+**lole apel.**
 Ili estas pomoj.
 
 <small>Etimologio. **men**
@@ -262,12 +262,12 @@ Kion?
 
 **te ke?**
 Kiu vi estas?
-**me tomas.**
+**me Tomas.**
 Mi estas Tomaso.
 
 **le ke?**
 Kiu ŝi estas?
-**le sarah.**
+**le Sara.**
 Ŝi estas Sara.
 
 **tote ke?**
@@ -281,13 +281,13 @@ Kiuj ili estas?
 **ye ke? / ke ye?**
 Kio estas tio?
 
-**ye aple.**
+**ye apel.**
 Tio estas pomo.
 
-**ye ros aple.**
+**ye kirmi apel.**
 Tio estas ruĝa pomo.
 
-**yi aple ros.**
+**yi apel kirmi.**
 Tiu pomo ruĝas.
 
 ### du <small>(poseda vorteto)</small>
@@ -314,7 +314,7 @@ Who's he/she?
 **le si me du doste.**
 Li/ŝi estas mia amiko.
 
-**me si sarah du doste.**
+**me si Sara du doste.**
 Mi estas amiko de Sara.
 
 <small>Etimologio. **du**
@@ -326,16 +326,16 @@ venas el mandarena: 的 (de).</small>
 **ti nam ke?**
 Kio estas via nomo?
 
-**mi nam tomas.**
+**mi nam Tomas.**
 Mia nomo estas Tomaso.
 
 **li nam ke?**
 Kio estas ŝia nomo?
 
-**li nam sarah.**
+**li nam Sara.**
 Ŝia nomo estas Sara.
 
-**me namu tomas.**
+**me namu Tomas.**
 Mia nomo estas Tomaso.
 
 <small>Etimologio. **nam**
@@ -371,7 +371,7 @@ Mi konas lin/ŝin.
 **eska tote jana unale?**
 Ĉu vi konas unu la alian?
 
-**mome jana unale ya long.**
+**mome jana unale ca longi.**
 Ni konas unu la alian longe.
 
 
@@ -392,60 +392,60 @@ Mi volas helpu vin.
 
 ## 2a parto: Manĝado
 
-### niama <small>manĝi, trinki</small>
+### yama <small>manĝi, trinki</small>
 
-**eska te wana niama koy?**
+**eska te wana yama koy?**
 Ĉu vi volas manĝi ion?
 
-**le niama aple.**
+**le yama apel.**
 Li/ŝi manĝas pomon.
 
-**lole niama aple.**
+**lole yama apel.**
 Ili manĝas pomojn.
 
 Noto: Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto
-kiel **aple** indikas unu aŭ multajn pomojn.
+kiel **apel** indikas unu aŭ multajn pomojn.
 
-**eska te niama kafe?**
+**eska te yama kafe?**
 Ĉu vi trinkas kafon?
 
-**me niama kafe.**
+**me yama kafe.**
 Mi trinkas kafon.
 
-Noto: Signifo de **niam** kovras manĝadon kaj trinkadon.
+Noto: Signifo de **yam** kovras manĝadon kaj trinkadon.
 
-**me niama kafe e pang.**
+**me yama kafe e pang.**
 Mi manĝas kafon kaj panon.
 
 
 ### wana <small>voli</small>
 
-**eska te wana niama?**
+**eska te wana yama?**
 Ĉu vi volas manĝi?
 
-**te wana niama ke?**
+**te wana yama ke?**
 Kion vi volas manĝi?
 
 Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
 frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**me wana niama kafe.**
+**me wana yama kafe.**
 Mi volas trinki kafon.
 
-**eska te wana niama cay?**
+**eska te wana yama cay?**
 Ĉu vi volas trinki teon?  
 **no. me no wana cay. me wana kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
-**te wana ki aple?**
+**te wana ki apel?**
 Kiun pomon vi volas manĝi?  
-**yi ros.**
+**yi kirmi.**
 Tiun ruĝan.
 
 
 ### pliza <small>peti</small>
 
-**me pliza te niama cay.**
+**me pliza te yama cay.**
 Mi petas ke vi trinku teon.
 
 **me pliza te laya dom.**
@@ -456,10 +456,10 @@ Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**pliza niama cay.**
+**pliza yama cay.**
 Bonvolu trinki teon!
 
-**pliza niama kafe.**
+**pliza yama kafe.**
 Bonvolu trinki kafon!
 
 **pliza laya dom.**
@@ -486,16 +486,16 @@ Mi dankan vin pro helpi min.
 **danka te helpa me.**
 Dankon pro helpi min.
 
-**te keci.**
+**te kechi.**
 Nedankinde. (Laŭvorte: Vi ĝentila._)
 
 
 ### haida <small>ni faru</small>
 
-**haida niama!**
+**haida yama!**
 Ni manĝu!
 
-**haida gowa niama!**
+**haida gowa yama!**
 Ni iru manĝi!
 
 **haida gowa dom.**
@@ -507,10 +507,10 @@ Ni iru hejmen.
 **me nida helpe.**
 Mi bezonas helpon.
 
-**me nida niama.**
+**me nida yama.**
 Mi bezonas manĝi.
 
-**eska te nida niama?**
+**eska te nida yama?**
 Ĉu vi bezonas manĝi?
 
 **eska te nida suy?**
@@ -550,10 +550,10 @@ Mi komprenas nenion.
 
 ### abla <small>povi</small>
 
-**me abla xofa gare.**
+**me abla shofa gare.**
 Mi povas konduki aŭton.
 
-**le no abla xofa gare.**
+**le no abla shofa gare.**
 Ŝi/li ne povas konduki aŭton.
 
 **eska te abla xula le?**
@@ -565,13 +565,13 @@ Mi povas konduki aŭton.
 **me abla pandunia.**
 Mi povas pandunion.
 
-**me abla lil pandunia.**
+**me abla lilo Pandunia.**
 Mi povas ete pandunion.
 
-**me no abla engli.**
+**me no abla Engli.**
 Mi ne povas paroli la anglan.
 
-**pardon. mi no abla ti baxa.**
+**pardon. mi no abla ti bash.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
@@ -619,10 +619,10 @@ Kian muzikon vi aŭskultas?
 **suku vida te.**
 Mi ĝojas vidi vin!
 
-**vida te repo!**
+**vida te reo!**
 Ĝis la revido!
 
-**vida te badi den!**
+**vida te badodeno!**
 Ĝis la revido morgaŭ!
 
 **me vida le predi den.**
@@ -651,27 +651,27 @@ Bonvolu skribi vian adreson.
 Bonvolu skribi ĝin tie!
 
 
-### baxa <small>paroli, lingvumi</small>
+### basha <small>paroli, lingvumi</small>
 
-**eska tote baxa pandunia.**
+**eska tote basha pandunia.**
 Ĉu vi parolas pandunion?
 
-**mome baxa pandunia.**
+**mome basha pandunia.**
 Ni parolas pandunion.
 
-**eska te abla baxa engli?**
+**eska te abla basha Engli?**
 Ĉu vi povas paroli la anglan?
 
-**fransi, espani, portugali, rusi**
+**Franci, Espani, Portugali, Rusi**
 la franca, la hispana, la portugala, la rusa
 
-**cini, nipon, indonesi**
+**Chini, Niponi, Indonesi**
 la ĉina, la japana, la indonezia
 
-**arabi, turki, farsi, urdi, hindi**
+**Arabi, Turki, Farsi, Urdu, Hindi**
 la araba, la turka, la persa, la urdua, la hindia
 
-**swahili, hausi, yorubi, amari**
+**Swahili, Hausa, Yoruba, Amari**
 la sŭahilia, la haŭsa, la joruba, la amhara
 
 
@@ -685,16 +685,16 @@ Kien vi iras?
 **me gowa dom.**
 Mi iras hejmen.
 
-**me bixu gowa ke?**
+**me musu gowa ke?**
 Kien mi devas iri?
 
-**me bixu gowa pa ki ren?**
+**me musu gowa pa ki ren?**
 Al kiu mi devas iri?
 
 **haida gowa!**
 Ni iru!
 
-**haida gowa sa pede**
+**haida gowa sa fute**
 Ni iru piede!
 
 ### laya <small>veni</small>
@@ -720,7 +720,7 @@ Mi venos hejmen morgaŭ.
 **mome safara ya london pa paris.**
 Ni vojaĝas el Londono al Parizo.
 
-**safare day long.**
+**safar day long.**
 La vojaĝo estas tre longa.
 
 ### domu <small>loĝi</small>
