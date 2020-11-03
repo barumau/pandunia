@@ -621,12 +621,12 @@ nefre - почка
 nefte - масло  
 Neptune - Нептун  
 neursele - нейрон  
-nida - нуждаться  
+nidan - нужный  
 nide - нужда  
-nidi - нужный  
 nidoshina - доверять (понадеяться)  
 nidoshinabli - верный  
 nidoshinablia - верность  
+nidu - нуждаться  
 nili - синий (голубой)  
 nilsentaure - василёк синий  
 Nipon - Япония  
@@ -930,7 +930,7 @@ virus (viruse) - вирус
 viruslojia - вирусология  
 vize - виза  
 vode - клятва (присяга, обет)  
-vola - хотеть  
+volu - хотеть  
 vulve - вульва  
 vute - статья (предмет)  
 ##w

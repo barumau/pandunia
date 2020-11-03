@@ -41,6 +41,7 @@ advice (counsel) - mente
 advisor (counselor, mentor) - menter  
 Afghan - avgani  
 Afghanistan - Avganistan  
+afraid (scared) - fobi  
 Africa - Afrike  
 African - Afriki  
 afrophile - afrikofiler  
@@ -770,6 +771,7 @@ countryside - rustia
 coupon - kupone  
 cover (conceal) - daka  
 cover (lid, cap, deck) - dake  
+covet - tamu  
 cow - muhe  
 crab - krabe  
 crack (rift) - krake  
@@ -1137,6 +1139,7 @@ fatty (greasy) - feti
 fault (sin, blame, defect, guilt) - doshe  
 fault line - zemkaski krake  
 favorite (preferred) - favori  
+fear (be afraid - fobu  
 fear (phobia) - fobia  
 feather - pere  
 February - dulmese  
@@ -2134,10 +2137,11 @@ Nazi - naciste
 Nazism - nacistia  
 near (close) - karibi  
 nearly (closely, almost) - karibo  
-necessary (needed) - nidi  
-need - nida  
-need - nide  
+necessary (needed) - nidan  
+need (lack) - nidu  
+need (shortage, lack) - nide  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pine  
+needy (lacking) - nidi  
 negotiate (arrange) - lona biznese  
 neodymium - neodimem  
 neon - neon  
@@ -2835,6 +2839,7 @@ scales (weighing device) - barmetrer
 Scandinavia - Eskandia  
 scandium - eskandem  
 scarcity - shavia  
+scare (frighten) - foba  
 scarf (shawl) - shale  
 scent (odor, fragrance, aroma) - arome  
 school (institution) - darsia  
@@ -3190,7 +3195,7 @@ tale (story, legend, saga) - sage
 talkative - logivi  
 tame (docile, obedient) - dosili  
 tame (train) - dosila  
-Tamil - tamili  
+Tamil - Tamil  
 Tanakh (Jewish Bible) - tanah  
 tank (reservoir) - tanke  
 tantalum - tantalum  
@@ -3512,8 +3517,8 @@ walk (march) - marchu
 wall - divare  
 Wallis and Futuna Islands - Valis e Futuna nesia  
 wallpaper - divarkaguje  
-want (desire, longing) - vole  
-want (desire, wish) - vola  
+want (desire, longing) - vol  
+want (desire, wish) - volu  
 warm (hot) - garmi  
 warrior (fighter) - jenger  
 wart - zeyile  
@@ -3594,7 +3599,7 @@ wise - sofi
 with (by, at, in, on) - sa  
 without - na  
 wolf - volfe  
-Wolof (language and people) - volofi  
+Wolof (language and people) - Wolof  
 woman (adult female) - maturi fem  
 wonder (be amazed) - ajabu  
 wood (timber) - mokomate  

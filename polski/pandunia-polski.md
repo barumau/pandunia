@@ -2257,12 +2257,12 @@ Nevis - Nevis
 nicha - pod, poniżej; iść w dół, iść pod spód, iść na dno  
 niche - spód  
 nichi - poniższy  
-nida - potrzebować  
+nidan - potrzebny  
 nide - potrzeba  
-nidi - potrzebny  
 nidoshina - ufać (wierzyć, liczyć, polegać)  
 nidoshinabli - lojalny (wierny)  
 nidoshinablia - lojalność (wierność)  
+nidu - potrzebować  
 Nijer - Niger  
 Nikaragua - Nikaragua  
 nikele - nikiel  
@@ -3158,7 +3158,7 @@ tali moke - krzak (krzew)
 talteshe - dywan  
 tamare - daktyl  
 tami - chciwy (żądny)  
-tamili - tamilski  
+Tamil - tamilski  
 tanah - Tanach, Biblia hebrajska  
 tane - łodyga (tors, pień, trzon)  
 tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
@@ -3442,12 +3442,11 @@ vizite - wizyta
 viziter - wizytant (gość)  
 voda - obiecać, angażować się  
 vodun - voodoo  
-vola - chcieć, pragnąć  
-vole - wola (chęć, pragnienie)  
+vol - wola (chęć, pragnienie)  
 volfe - wilk  
 volfram - wolfram  
-volofi - wolof  
 volte - wolt (V)  
+volu - chcieć, pragnąć  
 vota - głosować (złożyć głos)  
 vote - głos  
 votohake - prawo wyborcze  
@@ -3459,6 +3458,7 @@ Washington DC - Waszyngton D.C
 washomashine - pralka  
 washurse - szop pracz  
 wiski* - viski  
+Wolof - wolof  
 ##x
 xenon - ksenon  
 ##y

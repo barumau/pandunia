@@ -582,10 +582,10 @@ navi - 九 (9)
 nefre - 肾脏  
 nefte - 油  
 neftogukuve - 野菊花  
-nida - 需要  
-nidi - 必要的  
+nidan - 必要的  
 nidoshina - 信赖  
 nidoshinabli - 忠实  
+nidu - 需要  
 nili - 蓝色  
 nilsentaure - 矢車菊  
 nilseramshinge - 茜草花  
@@ -860,7 +860,7 @@ vidove - 寡妇
 vijine - 味精  
 voda - 许诺  
 vode - 诺言  
-vola - 想要 (愿意)  
+volu - 想要 (愿意)  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ##w

@@ -177,7 +177,7 @@ berkelio - berkelem
 Berlino - Berlin  
 besto - hevane  
 betono - betone  
-bezoni - nida  
+bezoni - nidu  
 Biblio - biblia  
 biciklisto - sikliste  
 biero - bire  
@@ -1505,6 +1505,8 @@ testo - teste
 Tibeto - podia  
 tie - sa ye  
 tigro - bagre  
+timi - fobu  
+timigi - foba  
 timo (fobio) - fobia  
 tio estas (alivorte) - alnamo  
 tiri - tira  
@@ -1624,9 +1626,9 @@ vojaĝi - safara
 vojaĝo - safare  
 vojo - dave  
 vokalo - jungofone  
-voli - vola  
+voli - volu  
 volo - iche  
-volo - vole  
+volo - vol  
 vortaro - logia  
 vortaro - logoliste  
 vorto (parolo) - loge  

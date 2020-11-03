@@ -616,7 +616,7 @@
 |**nenmesdene**|dato|mandarena:年月日 (niányuèrì), japana:年月日 (nengappi), korea:연월일 (yeonworil)|
 |**nete**|reto|angla: net, deu: Netz|
 |**neure**|nervo|angla:hispana:portugala:franca:deu:neuro-, rusa:невро- (nevro-)|
-|**nida**|bezoni|angla: need|
+|**nidu**|bezoni|angla: need|
 |**nili**|blua|bengala:নীল (nīl), hindia:नीला (nīlā), urdua:(nīlā), tamila:நீலம் (nīlam)|
 |**nilone**|nilono|angla:portugala:franca:nylon, hispana:nilón, rusa:нейло́н (nejlón), araba:نَايْلُون‎ (nāylūn), persa:نایلون‎ (nâylon), malaja:nilon, mandarena:尼龙 (nílóng), japana:ナイロン (nairon)|
 |**ninde**|insulto|hindia:marataja:निन्द् (nind)|
@@ -882,8 +882,8 @@
 |**vire**|heroo|hindia:वीर (vīr), urdua:(vīr), bengala:বীর (bīr), tamila:வீரன் (vīraṉ), teluga:వీరుడు (vīruḍu), malaja:wira, taja:วีร (wi-ra), + franca:portugala:hispana:viril, angla:virile|
 |**visi**|vic-|angla:franca:hispana:portugala:vice-, rusa:вице- (vitse-), deu:vize-|
 |**vizite**|viziti|angla:visit, franca:visite, hispana:portugala:visita, rusa:визит (vizit)|
-|**vole**|volo|franca:voiloir, itala:volere, deu:wollen, angla:volition, hispana:voluntad, rusa:воля (volya), polona:wola|
 |**volfe**|lupo|deu:ned:angla:wolf, rusa:волк (volk)|
+|**volu**|voli|franca:voiloir, itala:volere, deu:wollen, angla:volition, hispana:voluntad, rusa:воля (volya), polona:wola|
 |**vulve**|vulvo|franca:vulve, angla:portugala:hispana:turka:vulva, rusa:вульва (vul’va)|
 |**washa**|lavi|angla:wash, deu:waschen, mandarena:洗 (xǐ)|
 |**yama**|manĝi (trinki)|kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam|

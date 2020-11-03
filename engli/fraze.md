@@ -427,7 +427,7 @@ I have a good house.
 **le no tena pese.**
 He/she doesn't have money.
 
-**me vola tena novi telfone.**
+**me volu tena novi telfone.**
 I want to have a new phone.
 
 **eska te tena bache?**
@@ -462,7 +462,7 @@ Can you help me?
 **eska me abla helpa te?**
 Can I help you?
 
-**me vola helpa te.**
+**me volu helpa te.**
 I want to help you.
 
 
@@ -470,7 +470,7 @@ I want to help you.
 
 ### yama <small>consume, eat, drink</small>
 
-**eska te vola yama koy?**
+**eska te volu yama koy?**
 Would you like to eat something?
 
 **le yama apel.**
@@ -496,26 +496,26 @@ verb tells is it about eating, drinking or both.
 I'm having coffee and bread.
 
 
-### vola <small>want</small>
+### volu <small>want</small>
 
-**eska te vola yama?**
+**eska te volu yama?**
 Would you like to eat?
 
-**te vola yama ke?**
+**te volu yama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**me vola yama kafe.**
+**me volu yama kafe.**
 I want to drink coffee.
 
-**eska te vola yama chay?**
+**eska te volu yama chay?**
 Would you like to drink tea?  
-**no. me no vola chay. me vola kafe.**
+**no. me no volu chay. me volu kafe.**
 No, I don't want tea. I want coffee.
 
-**te vola ki apel?**
+**te volu ki apel?**
 Which apple do you want?  
 **yi kirmi.**
 This red one.
@@ -921,7 +921,7 @@ I give this to you.
 **me dona buke pa lole.**
 I give a book to them.
 
-**le no vola dona le pa me.**
+**le no volu dona le pa me.**
 He/she doesn't want to give it to me.
 
 
@@ -948,10 +948,10 @@ The rent is 500 dollars in a month.
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me vola kapa un gare sa kire.**  
+**me volu kapa un gare sa kire.**  
 I want to take a car for rent.
 
-**me vola kirokapa un gare.**
+**me volu kirokapa un gare.**
 I want to rent a car.
 
 **le kirodona kamar pa safarer.**

@@ -2172,12 +2172,13 @@ Nevis - Nieves
 nicha - debajo (estar debajo)  
 niche - parte inferior  
 nichi - inferior  
-nida - necesitar  
+nidan - necesario  
 nide - necesidad  
-nidi - necesario  
+nidi - necesitado  
 nidoshina - confiar (contar con)  
 nidoshinabli - leal (fiel)  
 nidoshinablia - lealtad (fidelidad)  
+nidu - necesitar  
 Nijer - Níger  
 Nikaragua - Nicaragua  
 nikele - níquel  
@@ -3043,7 +3044,7 @@ tali moke - arbusto (mata)
 talteshe - alfombra (tapete)  
 tamare - dátil  
 tami - codicioso (avaro)  
-tamili - tamil  
+Tamil - tamil  
 tanah - Tanaj (Biblia hebrea)  
 tane - tallo  
 tanke - tanque (cisterna)  
@@ -3323,11 +3324,11 @@ viziter - invitado (visita)
 voda - prometer (comprometerse)  
 vode - promesa (voto)  
 vodun - vudú  
-vola - querer (desear)  
-vole - deseo  
+vol - deseo  
 volfe - lobo  
 volfram - tungsteno (wolframio)  
 volte - voltio (V)  
+volu - querer (desear)  
 vota - votar  
 vote - voto  
 votohake - sufragio (derecho al voto)  

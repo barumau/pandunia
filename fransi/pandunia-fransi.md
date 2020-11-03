@@ -674,10 +674,11 @@ Neptune - Neptune
 netogeta - télécharger  
 neursele - neurone  
 niche - dessous  
-nida - avoir besoin de  
+nidan - nécessaire  
 nide - besoin  
-nidi - nécessaire  
+nidi - nécessiteux (dans le besoin)  
 nidoshina - fier  
+nidu - avoir besoin de  
 nili - bleu  
 nilsentaure - Centaurée bleuet  
 Nipon - Japon  
@@ -993,13 +994,13 @@ violeti - violet (pourpre)
 virus (viruse) - virus  
 voda - promettre  
 vode - vœu (promesse)  
-vola - vouloir  
 volfe - loup  
-volofi - wolof  
+volu - vouloir  
 vulve - vulve  
 vute - objet (article)  
 ##w
 washurse - raton laveur  
+Wolof - wolof  
 ##x
 ##y
 yamnide - faim  

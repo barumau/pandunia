@@ -902,8 +902,11 @@ fleche|||spa:por:flecha, fra:flèche, eng:fletch|arrow (bolt)|flèche|flecha|fle
 flecher||||fletcher|||||||||||||||||wytwórca łuków i strzał
 flerovem|mate|Fl||flerovium||flerovio||||||||||||||flerovium|flerow
 flure|mate|F||fluorine||flúor|||||||||||||fluoro|fluori|fluor
+foba||||scare (frighten)|||||||||||||||timigi|pelottaa|
+fobi||||afraid (scared)||||||||||||||||pelokas|
 fobia|||eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi|fear (phobia)||miedo (-fobia)|||||||||||||timo (fobio)|kammo (fobia)|strach, fobia
 Fobos|planete 4 lune 1|||Phobos|||||||||||||||||
+fobu||||fear (be afraid|||||||||||||||timi|pelätä|
 fokusa||||concentrate||concentración|||||||||||||koncentri|keskittää|skupić, się, skoncentrować się
 fokuse|||eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)|focus (concentration)||concentrar (enfocarse)|||||||||||||koncentriĝo|keskittyminen (keskittymä)|skupienie, koncentracja
 foli||||mad (insane, crazy)||demente (loco, insensato)|||||||||||||freneza|hullu (mieletön)|szalony
@@ -2310,12 +2313,13 @@ Nevis|dex|||Nevis||Nieves||||||||||||||Nevis|Nevis
 nicha|coverb|||under (go under)||debajo (estar debajo)||||||||||||||alittaa (alla)|pod, poniżej; iść w dół, iść pod spód, iść na dno
 niche|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 nichi||||lower||inferior||||||||||||||ala-|poniższy
-nida|||eng: need|need|avoir besoin de|necesitar|necessitar|нуждаться||需要|||cần|ज़रूरत होना||perlu|kuhitaji||bezoni|tarvita|potrzebować
-nide||||need|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja||||potrzeba
-nidi||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَرُورِيّ‎|必要的|必要|필요하다||ज़रूरी||||||tarpeellinen|potrzebny
+nidan||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَرُورِيّ‎|必要的|必要|필요하다||ज़रूरी||||||tarpeellinen|potrzebny
+nide||||need (shortage, lack)|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja|||tarve (puute)|potrzeba
+nidi||||needy (lacking)|nécessiteux (dans le besoin)|necesitado|necessitado|||||||||||||puutteenalainen|
 nidoshina||||trust (rely)|fier|confiar (contar con)|confiar (contar com)|доверять (понадеяться)||信赖|信頼する||||||||||ufać (wierzyć, liczyć, polegać)
 nidoshinabli||||loyal (faithful, trustworthy)||leal (fiel)||верный||忠实|忠実||||||||||lojalny (wierny)
 nidoshinablia||||loyalty (faithfulness)||lealtad (fidelidad)||верность|||||||||||||lojalność (wierność)
+nidu|||eng: need|need (lack)|avoir besoin de|necesitar|necessitar|нуждаться||需要|||cần|ज़रूरत होना||perlu|kuhitaji||bezoni|tarvita|potrzebować
 Nijer|dex|NE||Niger||Níger|||||||||||||Niĝero|Niger|Niger
 Nikaragua|dex|NI||Nicaragua||Nicaragua|||||||||||||Nikaragvo|Nikaragua|Nikaragua
 nikele|mate|Ni||nickel||níquel|||||||||||||nikelo|nikkeli|nikiel
@@ -3222,7 +3226,8 @@ talo darju||||level down|||||||||||||||||
 talteshe||||carpet (rug)||alfombra (tapete)||ковёр|||絨毯 (カーペット)||||||||||dywan
 tamare|bive||por:tamara, ara:(tamar)|date fruit||dátil||||||||||||||taateli|daktyl
 tami|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|chciwy (żądny)
-tamili|nas|||Tamil||tamil||||||||||||||tamil (eräs intialainen kieli)|tamilski
+Tamil|nas|||Tamil||tamil||||||||||||||tamil (eräs intialainen kieli)|tamilski
+tamu||||covet||||||||||||||||ahnehtia|
 tanah||||Tanakh (Jewish Bible)||Tanaj (Biblia hebrea)||||||||||||||tanakh|Tanach, Biblia hebrajska
 tane|||fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|stem (torso, trunk, stalk)|tige|tallo|haste (talo, caule)|стебель||茎 (梗)|茎 (胴)|||तना (डाली)||tangkai|shina||||łodyga (tors, pień, trzon)
 tanke|||eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|tank (reservoir)||tanque (cisterna)||||||||||||||tankki (säiliö)|zbiornik (cysterna, pojemnik, rezerwuar)
@@ -3514,12 +3519,11 @@ viziter||||visitor (guest)||invitado (visita)|||||||||||||vizitanto|vierailija (
 voda||||promise (pledge)|promettre|prometer (comprometerse)||||许诺|||||||||promesi|luvata (vannoa)|obiecać, angażować się
 vode|||fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|promise (vow, oath)|vœu (promesse)|promesa (voto)|promessa (voto)|клятва (присяга, обет)|وعد|诺言|約束|약속||वचन (वादा)||||||lupaus (vala)|
 vodun|||ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|voodoo||vudú||||||||||||||voodoo|voodoo
-vola||||want (desire, wish)|vouloir|querer (desear)|querer (desejar)|хотеть|أَرَادَ|想要 (愿意)|欲しい|싶다 (원하다)|muốn|चाहना|চাওয়া|mau (mahu)||istemek|voli|haluta|chcieć, pragnąć
-vole|||fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|want (desire, longing)||deseo|vontade|||||소원|||||||volo|halu (toive)|wola (chęć, pragnienie)
+vol||||want (desire, longing)||deseo|vontade|||||소원|||||||volo|halu (toive)|wola (chęć, pragnienie)
 volfe|||deu:ned:eng:wolf, rus:волк (volk)|wolf|loup|lobo|||||||||||||lupo|susi (hukka)|wilk
 volfram|mate|W||tungsten (wolfram)||tungsteno (wolframio)||||||||||||||wolframi|wolfram
-volofi||||Wolof (language and people)|wolof||||||||||||kiwolofu|||wolofin kansa ja kieli|wolof
 volte|unomete|V||volt (V)||voltio (V)||||||||||||||voltti (V)|wolt (V)
+volu|||fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|want (desire, wish)|vouloir|querer (desear)|querer (desejar)|хотеть|أَرَادَ|想要 (愿意)|欲しい|싶다 (원하다)|muốn|चाहना|চাওয়া|mau (mahu)||istemek|voli|haluta|chcieć, pragnąć
 vota||||vote (cast a vote)||votar|votar|||||||||||||äänestää|głosować (złożyć głos)
 vote|||eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|vote (ballot)||voto|voto|||||||||||||ääni (äänestyksessä)|głos
 votohake||||franchise (right to vote)||sufragio (derecho al voto)||||||||||||||äänioikeus|prawo wyborcze
@@ -3531,6 +3535,7 @@ Washington DC||||Washington D.C.|||||||||||||||||Waszyngton D.C
 washomashine||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
 washurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|raccoon|raton laveur|mapache|guaxinim (rato-lavadeiro)|енот||浣熊|狸 (ラクーン, 洗い熊)||||||||||szop pracz
 wiski*|alkohol|||whisky (whiskey)|||||||||||||||||viski
+Wolof||||Wolof (language and people)|wolof||||||||||||kiwolofu|||wolofin kansa ja kieli|wolof
 xenon|mate|Xe||xenon||xenón|||||||||||||ksenono|ksenon|ksenon
 yaga||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 yago|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony

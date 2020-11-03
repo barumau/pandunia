@@ -102,7 +102,7 @@ avant - cheno
 aventure - aventure  
 aventurier - aventurer  
 avoir - tena  
-avoir besoin de - nida  
+avoir besoin de - nidu  
 avoir tendance à - iva  
 axe - akse  
 aéroport - airporte  
@@ -629,7 +629,8 @@ note - note
 nous - mome  
 nouveau - novi  
 nuage - mege  
-nécessaire - nidi  
+nécessaire - nidan  
+nécessiteux (dans le besoin) - nidi  
 néophyte - novike  
 ##o
 objectif (cible) - dike  
@@ -978,7 +979,7 @@ voir - vida
 voire (même) - hato  
 volcan - hogoshane  
 voler - feyu  
-vouloir - vola  
+vouloir - volu  
 voyelle - jungofone  
 vrai - veri  
 vulve - vulve  
@@ -986,7 +987,7 @@ végétarien - vejetyamiste
 Vénus - Venus  
 vœu (promesse) - vode  
 ##w
-wolof - volofi  
+wolof - Wolof  
 ##x
 ##y
 ##z

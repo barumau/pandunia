@@ -734,7 +734,10 @@ fiziker - fyysikko
 fizikia - fysiikka  
 flerovem - flerovium  
 flure - fluori  
+foba - pelottaa  
+fobi - pelokas  
 fobia - kammo (fobia)  
+fobu - pelätä  
 fokusa - keskittää  
 fokuse - keskittyminen (keskittymä)  
 foli - hullu (mieletön)  
@@ -1881,8 +1884,10 @@ Nevis - Nevis
 nicha - alittaa (alla)  
 niche - alapuoli  
 nichi - ala-  
-nida - tarvita  
-nidi - tarpeellinen  
+nidan - tarpeellinen  
+nide - tarve (puute)  
+nidi - puutteenalainen  
+nidu - tarvita  
 Nijer - Niger  
 Nikaragua - Nikaragua  
 nikele - nikkeli  
@@ -2623,7 +2628,8 @@ tale - pohja
 talem - tallium  
 tamare - taateli  
 tami - ahne  
-tamili - tamil (eräs intialainen kieli)  
+Tamil - tamil (eräs intialainen kieli)  
+tamu - ahnehtia  
 tanah - tanakh  
 tanke - tankki (säiliö)  
 tanure - uuni  
@@ -2855,12 +2861,11 @@ viziter - vierailija (vieras)
 voda - luvata (vannoa)  
 vode - lupaus (vala)  
 vodun - voodoo  
-vola - haluta  
-vole - halu (toive)  
+vol - halu (toive)  
 volfe - susi (hukka)  
 volfram - wolframi  
-volofi - wolofin kansa ja kieli  
 volte - voltti (V)  
+volu - haluta  
 vota - äänestää  
 vote - ääni (äänestyksessä)  
 votohake - äänioikeus  
@@ -2870,6 +2875,7 @@ vute - esine (tavara)
 washa - pestä  
 Washington - Washington DC  
 washomashine - pesukone  
+Wolof - wolofin kansa ja kieli  
 ##x
 xenon - ksenon  
 ##y

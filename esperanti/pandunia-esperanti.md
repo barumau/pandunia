@@ -516,7 +516,9 @@ fizike - fiziko
 fiziker - fizikisto  
 fizikia - fiziko  
 flure - fluoro  
+foba - timigi  
 fobia - timo (fobio)  
+fobu - timi  
 fokusa - koncentri  
 fokuse - koncentriĝo  
 foli - freneza  
@@ -1164,7 +1166,7 @@ netunium - neptunio
 neure - nervo  
 neuri - nerva  
 neursele - neŭrono  
-nida - bezoni  
+nidu - bezoni  
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
 nikele - nikelo  
@@ -1664,9 +1666,9 @@ vizita - vizito
 vizite - viziti  
 viziter - vizitanto  
 voda - promesi  
-vola - voli  
-vole - volo  
+vol - volo  
 volfe - lupo  
+volu - voli  
 vulve - vulvo  
 ##w
 washa - lavi  

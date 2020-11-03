@@ -922,7 +922,7 @@
 |**nete**|red|eng: net, deu: Netz|
 |**neure**|nervio|eng:spa:por:fra:deu:neuro-, rus:невро- (nevro-)|
 |**niche**|parte inferior|ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|
-|**nida**|necesitar|eng: need|
+|**nidu**|necesitar|eng: need|
 |**nili**|azul|ben:নীল (nīl), hin:नीला (nīlā), urd:(nīlā), tam:நீலம் (nīlam)|
 |**nilone**|nailon (nilón)|eng:por:fra:nylon, spa:nilón, rus:нейло́н (nejlón), ara:نَايْلُون‎ (nāylūn), fas:نایلون‎ (nâylon), may:nilon, zho:尼龙 (nílóng), jpn:ナイロン (nairon)|
 |**ninde**|insulto (ofensa, afrenta)|hin:mar:निन्द् (nind)|
@@ -1390,8 +1390,8 @@
 |**vizite**|visitar|eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|
 |**vode**|promesa (voto)|fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|
 |**vodun**|vudú|ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|
-|**vole**|deseo|fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|
 |**volfe**|lobo|deu:ned:eng:wolf, rus:волк (volk)|
+|**volu**|querer (desear)|fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|
 |**vote**|voto|eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|
 |**vulve**|vulva|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
 |**vute**|objeto (artículo)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|

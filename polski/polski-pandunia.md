@@ -307,7 +307,7 @@ chaber wełnisty - solsentaure
 Champagne - Shampan  
 chaos, nieporządek; wrzawa, zgiełk - haose  
 chcieć (pragnąć) - icha  
-chcieć, pragnąć - vola  
+chcieć, pragnąć - volu  
 chciwy (żądny) - tami  
 chemia - kimlojia  
 chemiczny - kimi  
@@ -2151,8 +2151,8 @@ posłaniec (wysłannik) - anjiler
 pot - suede  
 potas - kalem  
 potrzeba - nide  
-potrzebny - nidi  
-potrzebować - nida  
+potrzebny - nidan  
+potrzebować - nidu  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
 potwór, monstrum - monster  
 powiadomić, powiadamiać - notisa  
@@ -2850,7 +2850,7 @@ taktyka, strategia - tatike
 tal - talem  
 talerz - platotase  
 taleta, WC - tuale  
-tamilski - tamili  
+tamilski - Tamil  
 tamten (tamten) - vi  
 tamten - ve  
 Tanach, Biblia hebrajska - tanah  
@@ -3187,12 +3187,12 @@ wodoodporny - suysekuri
 wodorosty - hayalge  
 wodór - hidre  
 wojownik, bojownik - jenger  
-wola (chęć, pragnienie) - vole  
+wola (chęć, pragnienie) - vol  
 wola, chęć - iche  
 wolfram - volfram  
 wolność, niepodległość, niezależność - huria  
 wolny, niepodległy, niezależny - huri  
-wolof - volofi  
+wolof - Wolof  
 wolt (V) - volte  
 wosk - mume  
 wosko lądowe (armia) - zemlaskeria  

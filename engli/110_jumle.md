@@ -137,17 +137,17 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me vola te yama sabze.**
+**me volu te yama sabze.**
 – I want you eat vegetables.
 
-In the example above, **me vola** has **te** as its object.
+In the example above, **me volu** has **te** as its object.
 At the same time, **te** functions as the subject of the following predicate, **yama sabze**.
 So **te** is the _pivot_ of the entire sentence.
 
 The first verb in a pivot structure is a modal verb,
 which indicates a modality such as advice, desire, permission or obligation.
 
-**me vola te yama sabze.**
+**me volu te yama sabze.**
 – I want you to eat vegetables. (desire)  
 **me menta te yama sabze.**
 – I advice you to eat vegetables. (advice)  
@@ -166,7 +166,7 @@ and all of them are about the same subject.
    – I go home.  
 2. **me abla gova dome.**
    – I can go home.  
-3. **me vola abla gova dome.**
+3. **me volu abla gova dome.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -180,7 +180,7 @@ which that indicate a modality such as likelihood, ability, advice, permission, 
 – You had better eat vegetables. (advice)  
 **te halalu yama sabze.**
 – You may eat vegetables. (permission)  
-**te vola yama sabze.**
+**te volu yama sabze.**
 – You want to eat vegetables. (desire)  
 **te musu yama sabze.**
 – You must eat vegetables. (obligation)  

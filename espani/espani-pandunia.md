@@ -951,7 +951,7 @@ desayuno - subyame
 descanso (alivio) - shante  
 descargar - netogeta  
 descriptivo - sifi  
-deseo - vole  
+deseo - vol  
 desierto - registan  
 deslizar - glisu  
 desnudo - nudi  
@@ -2183,9 +2183,10 @@ Navidad - kristojen
 Nazi - naciste  
 nazismo - nacistia  
 Naúru - Nauru  
-necesario - nidi  
+necesario - nidan  
 necesidad - nide  
-necesitar - nida  
+necesitado - nidi  
+necesitar - nidu  
 nefritis - nefritis  
 negociar - lona biznese  
 negocios (comercio) - biznese  
@@ -2683,7 +2684,7 @@ que (como) - ko
 quedarse - restu  
 quemar - hoga  
 quemarse - hogu  
-querer (desear) - vola  
+querer (desear) - volu  
 querer (disponer) - icha  
 querido (amado) - amike  
 querido - ami  
@@ -3084,7 +3085,7 @@ taller - eria
 tallo - tane  
 tamaño - dayia  
 tambor - gume  
-tamil - tamili  
+tamil - Tamil  
 Tanaj (Biblia hebrea) - tanah  
 tanque (cisterna) - tanke  
 Tanzania - Tanzania  

@@ -27,6 +27,7 @@ afrofiili - afrikofiler
 afrofilia - afrikofilia  
 agorafobia (avoimen paikan kammo) - maidanfobia  
 ahne - tami  
+ahnehtia - tamu  
 Ahvenanmaa (Oolanti) - Olande  
 ai! (au!) - ay  
 aihe (teema) - teme  
@@ -423,8 +424,8 @@ hajauttaa - anjama
 hajottaa (särkeä, repiä, sirpaloida) - parcha  
 hallinto (hallinnointi) - nomia  
 hallita yksinvaltaisesti - impera  
-halu (toive) - vole  
-haluta - vola  
+halu (toive) - vol  
+haluta - volu  
 halveksia (hyljeksiä) - paraya  
 hame - jupe  
 hammas - dante  
@@ -1813,6 +1814,9 @@ Peking (Beijing) - beijing
 pelaaja - gemer  
 pelata - gema  
 peli - geme  
+pelokas - fobi  
+pelottaa - foba  
+pelätä - fobu  
 penkki - benche  
 perhe - famile  
 perhonen - pelpele  
@@ -1966,6 +1970,7 @@ puu - moke
 puuaines - mokomate  
 puuseppä - mokojanger  
 puuteri - mukofune  
+puutteenalainen - nidi  
 puuvilla - gotone  
 pyhä - santi  
 pylly (takapuoli, pakarat) - pige  
@@ -2421,7 +2426,7 @@ tallettaa (tallentaa) - banka
 tallium - talem  
 talvi - zime  
 talvinen - zimi  
-tamil (eräs intialainen kieli) - tamili  
+tamil (eräs intialainen kieli) - Tamil  
 tammikuu - unmese  
 tammipeli - damogeme  
 tanakh - tanah  
@@ -2445,8 +2450,9 @@ tarha (puisto) - parke
 tarkistaa (tsekata) - cheka  
 tarkka (täsmällinen) - justi  
 tarpeeksi (riittävästi) - basi  
-tarpeellinen - nidi  
-tarvita - nida  
+tarpeellinen - nidan  
+tarve (puute) - nide  
+tarvita - nidu  
 tasainen (tasavertainen) - pari  
 tasavalta - komunkratia  
 tasku - jebe  
@@ -2899,7 +2905,7 @@ watti - vate
 wiki - vikia  
 wikikirjoitus - vike  
 wolframi - volfram  
-wolofin kansa ja kieli - volofi  
+wolofin kansa ja kieli - Wolof  
 ##x
 ##y
 ydin (sydän) - kerne  

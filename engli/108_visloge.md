@@ -43,9 +43,9 @@ The demonstrative pronouns are:
 **ve**
 – that one
 
-**me vola ye.**
+**me volu ye.**
 – I want this one.  
-**le vola we.**
+**le volu we.**
 – He/she wants that one.
 
 They end in **-i** when they function as modifiers i.e. when they come before a noun.

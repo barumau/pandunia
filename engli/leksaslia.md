@@ -937,7 +937,7 @@
 |**nete**|net (web, mesh)|English: net, deu: Netz|
 |**neure**|nerve|English:Spanish:Portuguese:French:deu:neuro-, Russian:невро- (nevro-)|
 |**niche**|underside (underneath)|Bengali:নিচে (nice), Hindi:नीचे (nīce), Urdu:(nīce), Russian:ниже (niže)|
-|**nida**|need|English: need|
+|**nidu**|need (lack)|English: need|
 |**nili**|blue|Bengali:নীল (nīl), Hindi:नीला (nīlā), Urdu:(nīlā), Tamil:நீலம் (nīlam)|
 |**nilone**|nylon|English:Portuguese:French:nylon, Spanish:nilón, Russian:нейло́н (nejlón), Arabic:نَايْلُون‎ (nāylūn), Persian:نایلون‎ (nâylon), Malay:nilon, Mandarin:尼龙 (nílóng), Japanese:ナイロン (nairon)|
 |**ninde**|insult (offence)|Hindi:Marathi:निन्द् (nind)|
@@ -1409,8 +1409,8 @@
 |**vizite**|visitation (visit)|English:visit, French:visite, Spanish:Portuguese:visita, Russian:визит (vizit)|
 |**vode**|promise (vow, oath)|French:vœu, Spanish:Portuguese:voto, Arabic:وعد (waʿd), Hindi:वादा (vādā), Turkish:vaat, Persian:وعده (va'deh)|
 |**vodun**|voodoo|ewe:vodun, hat:vodou, bra:vodum, English:voodoo, French:vaudou, Spanish:vudú|
-|**vole**|want (desire, longing)|French:voiloir, Italian:volere, deu:wollen, English:volition, Spanish:voluntad, Russian:воля (volya), Polish:wola|
 |**volfe**|wolf|deu:ned:English:wolf, Russian:волк (volk)|
+|**volu**|want (desire, wish)|French:voiloir, Italian:volere, deu:wollen, English:volition, Spanish:voluntad, Russian:воля (volya), Polish:wola|
 |**vote**|vote (ballot)|English:vote, Spanish:Portuguese:voto, Hindi:वोट (voṭ), Russian:вотум (votum)|
 |**vulve**|vulva|French:vulve, English:Portuguese:Spanish:Turkish:vulva, Russian:вульва (vul’va)|
 |**vute**|object (item)|Mandarin:物 (wù), Wu-Chinese:物 (veq5), Japanese:物 (butsu), Vietnamese:vật + Hindi:Marathi:वस्तु (vastu), Bengali:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), Thai:วัสดุ (wạttu)|

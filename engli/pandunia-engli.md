@@ -905,8 +905,11 @@ fleche - arrow (bolt)
 flecher - fletcher  
 flerovem - flerovium  
 flure - fluorine  
+foba - scare (frighten)  
+fobi - afraid (scared)  
 fobia - fear (phobia)  
 Fobos - Phobos  
+fobu - fear (be afraid  
 fokusa - concentrate  
 fokuse - focus (concentration)  
 foli - mad (insane, crazy)  
@@ -2315,12 +2318,13 @@ Nevis - Nevis
 nicha - under (go under)  
 niche - underside (underneath)  
 nichi - lower  
-nida - need  
-nide - need  
-nidi - necessary (needed)  
+nidan - necessary (needed)  
+nide - need (shortage, lack)  
+nidi - needy (lacking)  
 nidoshina - trust (rely)  
 nidoshinabli - loyal (faithful, trustworthy)  
 nidoshinablia - loyalty (faithfulness)  
+nidu - need (lack)  
 Nijer - Niger  
 Nikaragua - Nicaragua  
 nikele - nickel  
@@ -3229,7 +3233,8 @@ talo darju - level down
 talteshe - carpet (rug)  
 tamare - date fruit  
 tami - greedy  
-tamili - Tamil  
+Tamil - Tamil  
+tamu - covet  
 tanah - Tanakh (Jewish Bible)  
 tane - stem (torso, trunk, stalk)  
 tanke - tank (reservoir)  
@@ -3523,12 +3528,11 @@ viziter - visitor (guest)
 voda - promise (pledge)  
 vode - promise (vow, oath)  
 vodun - voodoo  
-vola - want (desire, wish)  
-vole - want (desire, longing)  
+vol - want (desire, longing)  
 volfe - wolf  
 volfram - tungsten (wolfram)  
-volofi - Wolof (language and people)  
 volte - volt (V)  
+volu - want (desire, wish)  
 vota - vote (cast a vote)  
 vote - vote (ballot)  
 votohake - franchise (right to vote)  
@@ -3541,6 +3545,7 @@ Washington DC - Washington D.C.
 washomashine - washing machine  
 washurse - raccoon  
 wiski* - whisky (whiskey)  
+Wolof - Wolof (language and people)  
 ##x
 xenon - xenon  
 ##y
