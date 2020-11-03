@@ -8,45 +8,45 @@ A verb can involve an agent and a recipient.
 The agent performs or "causes" an action,
 and the recipient receives or "experiences" the action.
 
-Pandunia has three verb types:
-verbs that end in **-a**, verbs that end in **-u** and verbs that end in **-i**.
-The endings decide the order of the agent and the recipient of the action in the sentence.
-So the sentence structure depends on the type of the verb.
+There are three types of verbs in Pandunia:
 
-Simply put, the ending **-a** means:  
-If there is anything right before the verb, it is the agent.  
-If there is anything right after the verb, it is the recipient.
-
-The ending **-u** means:  
-If there is anything right before the verb, it is the recipient.  
-If there is anything right after the verb, it is the agent.
-
-And finally, the ending **-i** means
-that the subject is in the state denoted by the verb root.
+1. Active: The subject does the action.
+   The the verb ends in **-a**.
+2. Passive: The subject receives the action.
+   The verb ends in **-u**.
+3. Stative: The subject is in the state that is indicated by the verb.
+   The verb ends in **-i**.
 
 Consider the following examples:  
 **me safa.**
-– I clean.  
-**me safa kamare.**
-– I clean a room.  
-**kamare safu.**
-– The room is cleaned.  
-**kamare safu me.**
-– The room is cleaned by me.  
-**kamare safi.**
-– The room is clean.
+– I clean. (active verb)  
+**me safa kamar.**
+– I clean a room. (active verb with an object)  
+**kamar safu.**
+– The room is cleaned. (passive verb)  
+**kamar safu me.**
+– The room is cleaned by me. (passive verb with an object)  
+**kamar safi.**
+– The room is clean. (stative verb)
 
-As you can see, **-a** and **-u** indicate word orders that are opposite to each other.
-Verbs that end in **-a** are active
-and verbs that end in **-u** are called passive.
+As you can see, **-a** and **-u** indicate opposite orders for the agent and recipient.
 
 
 ### Active verbs
 
 Verbs that end in **-a** are called _active verbs_.
+In the active voice,
+the subject does the action,
+and the object receives the action of the verb.
+The word order is subject–verb–object.
 
-In active sentences, the focus is on the doer (i.e. the agent) of the action.
-So the sentence word order is subject–verb–object.
+| Subject | Verb     | Object    |
+|---------|----------|-----------|
+| **maw** | **yama** | **mush.** |
+| Cats    | eat      | mice.     |
+
+
+In active sentences, the focus is on the doer of the action.
 
 ![](http://www.pandunia.info/grafe/kitaba.png "rene kitaba buke.")  
 **feme kitaba buke.**  
@@ -69,28 +69,50 @@ Examples:
 ### Passive verbs
 
 Verbs that end in **-u** are called _passive verbs_.
-The sentence word order is again subject–verb–object,
-but the roles of subject and object are different than with active verbs.
+The sentence word order is the normal subject–verb–object,
+but this time
+the subject receives the action,
+and the object (if there is one) does the action of the verb.
 
-In passive sentences, the focus is on the recipient of the action.
-The action is done to the recipient, which is the subject,
-and the object is the source or the agent of the action.
+| Subject  | Verb      | Object    |
+|----------|-----------|-----------|
+| **mush** | **yamu**  | **maw.**  |
+| Mice     | are eaten | by cats.  |
+
+When a passive verb is used, the focus is on the recipient of the action.
 
 ![](http://www.pandunia.info/grafe/kitabu.png "buke kitabu.")  
 **buke kitabu.**  
-– The book gets written.
+– The book is written.
 
-Often passive sentences in Pandunia can be translated to English
-by using the passive voice or an intransitive verb
-but sometimes a transitive verb can be used too.
+See how the object of the active verb becomes the subject of the passive verb:
 
-Examples:  
-**pang beku te.**
-– Bread is baked by you.  
-**pakse domisu arbe.**
-– Birds are housed by trees.  
-**te suku me.**
-– You are pleased by me. (Or: You like me.)
+| Subject    | Verb       | Object        |
+|------------|------------|---------------|
+| **fem**    | **kitaba** | ***buke.***   |
+| The woman  | writes     | _the book_.   |
+| ***buke*** | **kitabu** | **fem.**      |
+| _The book_ | is written | by the woman. |
+
+In Pandunia, a passive verb is used when:
+
+1. The subject receives an action.
+2. The subject undergoes a change of state.
+3. The subject is influenced or stimulated by the object.
+
+Sometimes a passive verb is used in Pandunia when an active verb would be used in English
+because of the last point.
+For example, desire is stimulated by the object of desire,
+so the corresponding verb **volu** (_to want or desire_) is "passive" in Pandunia.
+Likewise, joy and pleasure are stimulated by the source of joy,
+so the corresponding verb **suku** (_to enjoy or like_) is also "passive"
+– as it can also be in English (_to be pleased by_)!
+
+**me volu novi jupe.**
+– I desire a new skirt.  
+**me suku boni yam.**
+– I enjoy good food. OR
+I am pleased by good food.
 
 
 ### Stative verbs
@@ -129,10 +151,20 @@ The verb types are summarized in the table below.
 | taste       | taste like   | be tasty     |
 | **ama**     | **amu**      | **ami**      |
 | love        | be loved     | be dear      |
-| **suka**    | **suku**     | **suki**     |
-| please      | get pleased  | be pleased   |
-| **foba**    | **fobu**     | **fobi**     |
-| frighten    |get frightened| be afraid    |
+
+
+| Noun           | Stative verb   | Passive verb   | Active verb    |
+|----------------|----------------|----------------|----------------|
+| **suke**       | **suki**       | **suku**       | **suka**       |
+| joy, pleasure  | joyful, happy  | enjoy, like    | please         |
+| **nide**       | **nidi**       | **nidu**       | **nida**       |
+| need           | needy          | need           | cause need     |
+| **tam**        | **tami**       | **tamu**       | **tama**       |
+| greed          | greedy         | covet, hog     | cause greed    |
+| **vol**        | **voli**       | **volu**       | **vola**       |
+| want           | wanting        | want           | cause want     |
+| **fobe**       | **fobi**       | **fobu**       | **foba**       |
+| fear           | afraid, scared | fear           | scare          |
 
 
 ## Participles
