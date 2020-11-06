@@ -110,6 +110,7 @@ ani|||ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|reverse (neg
 anichi||||reluctant||||||||||अनिच्छा||||||vastahakoinen (haluton)|niechętny
 anima||||animate|animer|animar||||||||||||||animoida|animować
 anim|||eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|animation (cartoon)|animation|animación (dibujo animado)||оживление||活跃|||||||||kartuno|animaatio (piirretty)|animacja
+anisa||||invert (reverse)||invertir|||||逆らう||||||||||
 anjama||||disperse (spread out, scatter)||dispersar (esparcir, desmontar)|||||散らす||||||||disigi|hajauttaa|rozproszyć, rozpraszać
 anjami||||sparse (scattered)||escaso (disperso, ralo)|||||疎ら||||||||||rzadki (rozrzedzony, rozproszony)
 anjani||||strange (unknown)||||||||||अनजाना|||||fremda (nekonata)|vieras (tuntematon)|dziwny (nieznany)
@@ -135,7 +136,8 @@ Antigua|desh|||Antigua||Antigua||||||||||||||Antigua|Antigua
 Antigua e Barbuda|desh|AG||Antigua and Barbuda||Antigua y Barbuda||||||||||||||Antigua ja Barbuda|Antigua i Barbuda
 anus|||eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|anus|anus|ano||анус||肛门|||||||||anuso|peräaukko (anus)|odbyt
 anusi||||anal||anal|||||||||||||anusa|anaalinen|analny, odbytni
-anzayisa||||remove (delete, dispose, erase)||quitar (eliminar, borrar)|||||||||||||||usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
+anzayisa||||remove (dispose, dispell)||quitar||унестись (убирать)|||||||||||||usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
+anzayisu||||disappear (vanish)||desaparecer|||||||||||||||
 apel|biw||eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|||सेब||apel (epal)|tofaa|elma|pomo|omena|jabłko
 apelsos||||applesauce|compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||omenasose|sos jabłkowy
 Aphazia|desh|||Abkhazia||abjazia||Абхазия||||||||||||Abhaasia|Abchazja
@@ -399,8 +401,10 @@ botokaper||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (k
 botolefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
 botoraite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
 botoshef||||captain||capitán||||||||||||||kapteeni|kapitan
-boya||||float (swim)|nagar (flotter)|nadar (flotar)|nadar (flutuar)|плавать||漂浮|泳ぐ (浮く)||||||||||dryfować (pływać, płynąć)
 boy|||eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), jpn:ブイ (bui), kor:부표 (bupyo)|float (buoy, bobber)||flotador (boya)||поплавок (буй)|||フロート (ブイ)||||||||||spławik (boja)
+boya||||float (swim, drift)|nagar (flotter)|nadar (flotar)|nadar (flutuar)|плавать||漂浮|泳ぐ (浮く)||||||||||dryfować (pływać, płynąć)
+boykom||||||coma flotante||плавающая запятая|||||||||||||
+boypunte||||floating point||punto flotante|||||浮動小数点||||||||||
 brauza||||explore (browse)||explorar||исследовать|||探る, 探検する||||||||||poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)
 brauzer|||eng:browser, deu:Browsre, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)|explorer (browser)||explorador (navegador)||исследователь (браузер)|||探検家 (ブラウザ)||||||||||poszukiwacz (badacz, eksplorator)
 bravi|||eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|brave (gallant, valiant)|brave||bravo (valente, corajoso)||||||||||||brava|rohkea (urhea, uljas)|Odwarzny (
@@ -488,6 +492,7 @@ cheka|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする
 chena||||predate (be before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (olla ennen)|poprzedzić, poprzedzać
 chenaga||||assume (presuppose)||presuponer|||||||||||||||zakładać (założyć)
 chenamen||||destiny (fate)|destin|destino|destino|судьба||命運|運命 (宿命)|||किस्मत||takdir||kader||määrä (päämäärä, kohtalo)|przeznaczenie, los
+chenchuze||||default (preset)|||||||既定 (デフォルト)||||||||||
 chendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 chenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
 cheng|||zho:层 (céng), yue:層 (cang4), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
@@ -619,6 +624,8 @@ defte|||tur:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(daftar)|r
 deftia||||registry (account)||registro (cuenta)|||||||||||||registro (konto)|rekisteri (tili)|register
 deftobuke||||logbook||diario||||||||||||||lokikirja|dziennik pokładowy (notatnik)
 Deimos|planete 4 lune 2|||Deimos|||||||||||||||||
+deleta|||eng:delete, por:deletar, rus:удалить (udalit’)|erase (delete, eliminate, vanish, destroy)|effacer (rayer)|borrar (eliminar, tachar)|eliminar (deletar)|стирать (удалить)||删除 (消除)|消す|||मिटाना (हटाना, miṭānā, haṭānā)||hapus (padam, basmi)||silmek (çıkarmak)|||
+deleter||||eraser||borrador|||||||||||||||
 dem|||eng:spa:demo-, fra:démo-, rus:демо- (demo-)|people (population)||pueblo (población)|||||||||||||popolo|väestö (kansa)|lud, społeczeństwo
 demgrafia||||demography||demografía|||||||||||||demografio|väestötiede (demografia)|demografia
 demi||||public||público||||||||||||||julkinen (kansan-)|publiczny
@@ -800,6 +807,7 @@ estadia|||fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), en
 estaca||||hold (detain)||mantener (detener)|||||||||||||||zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
 estaci||||static (stationary)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
 estacia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station||estación|||||||||||||stacio|asema|stacja
+estacofrem||||film frame (still)||fotograma||кадр|||コマ|||||||film karesi (kare)|||
 estacu||||stand still||pararse (detenerse)||||||||||||||seisahtaa|nie ruszać się
 estan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
 Estia|desh|EE||Estonia||Estonia|||||||||||||Estonio|Viro (Eesti)|Estonia
@@ -910,6 +918,7 @@ fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||
 fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
 fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
 fizikia|||eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|physics (science)||física|||||||||||||fiziko|fysiikka|fizyk
+fiziki mashin||||hardware (computer hardware)||hardware (soporte físico)||аппаратное обеспечение||硬件|ハードウェア||||||||||
 fleche|||spa:por:flecha, fra:flèche, eng:fletch|arrow (bolt)|flèche|flecha|flecha (seta)|стрела (стрелка)||箭|矢 (矢印)||||||||||strzała (bełt)
 flecher||||fletcher|||||||||||||||||wytwórca łuków i strzał
 flerovem|mate|Fl||flerovium||flerovio||||||||||||||flerovium|flerow
@@ -954,6 +963,7 @@ Francia|desh|FR||France||Francia|||||||||||||Francio|Ranska|Francja
 francofoni||||Francophone (French speaking)|francophone|||||||||||||||ranskaa puhuva (frankofoni)|
 Francofonia||||Francophonie|francophonie|||||||||||||||ranskankielinen maailma|
 frem|||eng:frame, ben:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), mar:फ्रेम (phrēma), swa:fremu|frame|cadre|marco|moldura|рама||框|額||||||||||rama
+fremrapidia||||framerate||tasa de fotogramas|||||フレームレート||||||||||
 frika|||eng:friction, spa:por:friccionar, fra:frictionner + ara:فرك (farak)|rub (scrape, scrub)||raspar (arañar)||царапать||擦伤|擦る (擦り傷する)||||||||||trzeć (pocierać, obetrzeć, pucować)
 fuga|||zho:复 (fù), yue:(fuk), vie:phục|return (restore, recover, resume)||regresar (restablecer, restaurar, recuperar, reanudar)||||||||||||||palauttaa|wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać
 fuka||||wear clothes||llevar (vestir)|||||||||||||vesti|pukea|nosić ubrania
@@ -1076,11 +1086,12 @@ goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton|
 governa||||govern||gobernar|||||治める (司る)||||||||||rządzić
 governe|||eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|government|gouvernement|gobierno|governo|||政府|政府||||||||||rząd
 gowa|||eng:go + zho:去 (qù), jpn:行 (kou)|go||ir|||||行く||||||||iri|mennä|iść (przemieścić się)
-grafa||||draw||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
+grafa||||draw (render)||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
 grafbuke||||picture book||libro de cuentos ilustrado||||||||||||||kuvakirja|książka z obrazkami
 graf|||eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)|drawing (graph, image)||imagen (gráfico, dibujo)|||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
 grafer||||illustrator (graphic artist)||ilustrador||||||||||||||graafikko|ilustrator, grafik
 grafi||||graphic (pictorial)||gráfico (pictórico, ilustrado)|||||||||||||grafika (bilda)|graafinen|obrazowy, graficzny; opisowy
+grafkarde||||graphics card (video card)|||||||||||||||||
 grafsage||||comic (cartoon)|bande dessinée|historieta (caricaturas)|quadrinhos (banda desenhada)|комикс||漫画|漫画||||||||bildrakonto|sarjakuva|komiks; kreskówka
 gram|unomete|g||gram (g)||gramo (g)|||||||||||||gramo|gramma|gram
 granite|||eng:fra:granite, spa:por:granito, rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)|granite|granit|granito|granito|гранит||花岗石|花崗岩||||||||||granit
@@ -1148,6 +1159,7 @@ hami|||ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:m�
 hamili|||ara:(ḥāmil), may:hamil, tur:hamile, urd:(hāmila), fas:(hâmele)|pregnant||embarazado (preñado)|grávida (prenhe)|беременный||怀孕||||||hamil||gebe (hamile)|graveda|raskaana (odottava)|ciężarny (w ciąży)
 hamir|||ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, fas:(moxammer), + kor:효모 (hyomo)|yeast||levadura|||||||||||||feĉo|hiiva|drożdże
 hamu||||matter (be important)||importar|||||||||||||gravi|olla väliä (olla tärkeä)|znaczyć (liczyć się, być ważnym)
+handa||||handle (manipulate, work with)||manejar (tratar, llevar)||рукоя́ть (лапать, управиться)|||取り扱う (手がける)||||||||||
 hande|badan||hin:हाथ (hāth), ben:হাত (hat), eng:hand|hand|main|mano|mão|рука|إيد|手|手|손|tay|हाथ|হাত|tangan (yad)|mkono|el|mano|käsi|ręka, dłoń
 handi||||manual||manual|||||||||||||mana|käsi-|ręczny
 handoshake|badan|||arm|bras|brazo|braço|рукав||胳膊|腕||||||||||ramię (kończyna górna)
@@ -1168,6 +1180,7 @@ hasem|mate|Hs||hassium||hasio|||||||||||||hasio|hasium|has
 hashish||||hashish||hachís||||||||||||||hasis|haszysz
 hasi|||ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|special (distinct)||especial (diferenciado, distinto)|||||||||||||speciala|erikoinen (erityinen)|specjalny, wyraźny, wyrazisty
 hasia||||distinction (specialty)||especialización (distinción)||||||||||||||erikoisuus|różnica (specjalność)
+hasnam||||identifier (ID)||identificador||идентификатор|||識別名||||||||||
 hata|prep||por:até, ara:(ḥatta), spa:hasta, swa:hata|until (til, up to)|jusque (jusqu’à)|hasta|até|до||直到|||||||mpaka||ĝis|asti (saakka)|aż do
 hato||||even (implying extreme example)|voire (même)|hasta (también)||||连||||और भी|||||eĉ|jopa|nawet
 hatre|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|danger (peril)|danger|peligro|perigo|опасность|خطر‎|危险|危険|위험|nguy hiểm|जोखिम (ख़तरा)|বিপদ|bahaya|hatari|tehlike (muhatara)|danĝero|vaara|zagrożenie, niebezpieczeństwo
@@ -1241,6 +1254,7 @@ hoke|||eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッ�
 holer|||eng:cholera, spa:por:cólera, fra:choléra, rus:холера (holera), tur:kolera, ara:كُولِيرَا‎ (kōlīrā), hin:कॉलरा (kŏlrā), zho:虎列拉 (hǔlièlā), jpn:コレラ (korera)|cholera||cólera||||||||||||||kolera|cholera
 holgraf||||hologram||holograma||||||||||||||hologrammi|hologram
 holi|||eng:whole, spa:por:holo-|whole (entire)||entero (todo)||||||||||||||koko (kokonainen)|cały
+holi nombre||||integer (whole number)||número entero|||||||||||||||
 holia||||wholeness (integrity)||totalidad (integridad)|||||||||||||||całość (integralność)
 holmem|mate|Ho||holmium||holmio|||||||||||||holmio|holmium|holm
 Honduras|desh|HN||Honduras||Honduras|||||||||||||Honduro|Honduras|Honduras
@@ -1314,6 +1328,7 @@ iodem|mate|I||iodine||yodo (iodo)||йод|||||||||||jodo|jodi|jod; jodyna
 ion|||eng:fra:spa:ion, rus:ион (ion), tur:iyon|ion||ion|||||||||||||iono|ioni|jon
 ioni radi||||radioactive||radiactivo||||||||||||||radioaktiivinen|radioaktywny
 ioni radia||||radioactivity (ionizing radiation)||radiación ionizante||||||||||||||radioaktiivisuus|radioaktywność
+IP adres (interneti proceskanun)||||IP address||dirección de IP||IP-адрес|||IPアドレス||||||||||
 Irake|desh|IQ||Iraq||Iraq|||||||||||||Irakio|Irak|Irak
 Iran|desh|IR||Iran||Irán|||||||||||||Iranio|Iran|Iran
 iridem|mate|Ir||iridium||iridio|||||||||||||iridio|iridium|iryd
@@ -1795,6 +1810,7 @@ laloranje|biw|Citrus reticulata|zho:红橘|mandarin orange (tangerine)|mandarine
 lalsamon|biw|Oncorhynchus nerka||sockeye salmon|saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||紅鮭|ベニザケ||||||||||nerka (łosoś czerwony)
 lama*||||lama|lama (enseignant religieux du bouddhisme tibétain)|lama|lama|лама (религиозный учитель в тибетском буддизме)||喇嘛|ラマ (チベット仏教の上師)||||||||||lama
 lampe|||eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|lamp|lampe|lámpara|lâmpada (luminária)|лампа|لمبة‎|灯|ランプ|램프|đèn|चिराग़ (लैंप)|ল্যাম্প|lampu|taa|lamba|lampo|lamppu|lampa
+LAN (loki aria du nete)||||LAN||LAN (RAL)|||||LAN||||||||||
 lana||||curse (swear)||maldecir|||||呪う||||||||||kląć (przeklinać)
 lanca|||eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|throw (launch)||tirar (lanzar, echar, arrojar, aventar)|||||||||||||ĵeti (lanĉi)|heittää (paiskata)|rzucić, rzucać, miotać, cisnąć, ciskać
 lanci||||projectile (thrown)|||||||||||||||||ciśnięty (rzucony, miecony)
@@ -2104,6 +2120,7 @@ mening|||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)|méninge|me
 meningitis||||meningitis||meningitis||||||||||||||aivokalvontulehdus|zapalenie opon mózgowych
 mente||||advice (counsel)||consejo||||||||||||||neuvo|rada, porada
 menter|||san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|advisor (counselor, mentor)||consejero (asesor)||||||||||||||neuvontantaja (mentori)|doradca (mentor)
+menu*|||fra:eng:por:may:menu, spa:menú, rus:меню́ (men’u), tur:menü, swa:menyu, hin:मेनू (menū), jpn:メニュー (menyū)|menu|menu|menú|menu (cardápio)|меню́||菜单|献立 (メニュー)|||मेनू (menū)||menu (daftar)|orodha (menyu)|menü|||
 merante|biw|Shorea|may:eng:por:meranti|lauan tree (meranti, balau)|||meranti||||||||||||||damarzyk (meranti)
 Merkur|planete 1|||Mercury|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury
 mes|||por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
@@ -2265,6 +2282,7 @@ najisbinde||||stain (spot)||mancha|||||染み (汚点)||||||||||
 najis|||ara:نجس (najis), fas:نجس (najes), may:najis + eng:najis, rus:наджа́са (nadžása), tur:necis|corruption (filth, pollution, contamination, najis)|pollution|contaminación (corrupción, porquería, suciedad)|poluição|грязь (скверна)||污染物|汚れ (汚染)|||गंदगी (संदूषक, विकृति, दोष)||najis (pencemaran, polusi)|uchafu||||
 najisi||||dirty (soiled, polluted, defiled, tainted, unclean, impure)||sucio (corrompido)|||||汚い|||प्रदूषित|||-chafu||||
 nam|||hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|name||nombre|||||名前||||||||nomo|nimi|imię, nazwa
+namdokum||||identity document (identification, ID)||identificación (ID)||ID|||身分証明書 (ID)||||||||||
 Namibia|desh|NA||Namibia||Namibia|||||||||||||Namibio|Namibia|Namibia
 namisa||||call (name)||llamar (poner)||||||||||||||nimittää (kutsua)|nazwać, nazywać, wezwać, wzywać
 namkitaba||||sign (autograph)|signer|firmar|assinar|подписать||签署|署名する (サイン)||||||||||podpis (autograf)
@@ -2521,7 +2539,7 @@ pashi||||painful||doloroso||||||||||||||kivulias (tuskallinen)|bolesny
 pashia|||kon:mpasi, por:paixão, eng:passion|suffering||sufrimiento (dolor)||||||||||||||kipu (tuska)|cierpienie, ból
 pashu||||suffer (get hurt)||sufrir||||||||||||||sattua (käydä kipeää)|cierpieć
 pasi||||past (bygone)||anterior (remoto)|||||||||||||pasinta|mennyt|przeszły, miniony
-pasivi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
+pasivi||||passive (inactive, idle)||pasivo (parado)|||||||||||||||pasywny (nieaktywny)
 paskal|unomete|Pa||pascal (Pa)||pascal (Pa)||||||||||||||pascal (Pa)|paskal (Pa)
 paske||||Easter||Pascua||||||||||||||pääsiäinen|Wielkanoc
 pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
@@ -2579,7 +2597,7 @@ pin|||eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|needle (pin,
 pinguin|biw||eng:may:penguin, spa:pingüino, por:pinguim, rus:пингвин (pingvin), tur:penguen, hin:पेंगुइन (peṅguin), ben:পেঙ্গুইন (peṅguin), jpn:ペンギン (pingin)|penguin||pingüino|||||||||||||pingveno|pingviini|pingwin
 pinkardon|biw|Onopordum||cotton thistle|chardon aux ânes|cardo borriquero|acanto-bastardo|татарник колючий||大翅蓟|ゴロツキアザミ||||||||||popłoch pospolity
 pipe|||spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|pipe||tubo (caño)||||||||||||||piippu|fajka
-pipinga|||zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|evaluate (review, criticise)||criticar (evaluar)||||||||||||||arvioida (arvostella, kritisoida)|ocenić, oceniać, recenzować, komentować, krytykować
+pipinga|||zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|evaluate (review, criticise, rate)||criticar (evaluar)||||||||||||||arvioida (arvostella, kritisoida)|ocenić, oceniać, recenzować, komentować, krytykować
 piping||||evaluation (criticism)||evaluación (crítica)||||||||||||||arvio (arvostelu, kritiikki)|ocena, krytyka
 pipinger||||critic||crítico||||||||||||||arvostelija (kriitikko)|krytyk
 pipre|biw||eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|pepper (peppercorn)|poivre|pimienta|pimenta|перец||胡椒||||गोलमिर्च||lada hitam|||pipro|pippuri|pieprz
@@ -2674,8 +2692,11 @@ prizonia||||prison||cárcel|||||||||||||malliberejo|vankila|więzienie, zakład 
 problem|||eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|problem (issue)|problème|problema|problema|проблема||问题 (难题)|問題|문제|vấn đề|समस्या (मसला)|প্রব্লেম|masalah|tatizo|sorun (problem)|problemo|ongelma|problem
 problemi||||problematic|problématique|problemático||проблематичный||||||||||||ongelmallinen|problematyczny
 proces|||eng:process, spa:proceso, por:processo, rus:процесс (process), fas:پروسه‎ (prose), may:proses, jpn:プロセス (purosesu), kor:프로세스 (peuroseseu)|process (procedure)||proceso (procedimiento)||||||||||||||prosessi (proseduuri)|proces, procedura
+procesa||||process (treat)||procesar||разбирался|||捌く||||||||||
+proceskanun||||protocol (procedure)||protocolo||протокол|||手順 (規約)||||||||||
 profesor|||eng:por:professor, spa:profesor, rus:профессор (professor), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)|professor||profesor|||||||||||||profesoro|professori|profesor
 program|||eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|program (set of structured activities)|programme|programa|programa|программа||计划|次第 (計画, プログラム)|계획 (프로그램)|kế hoạch|प्रोग्राम||program|programu|program|programo|ohjelma|program
+programi mashin||||software||software (soporte lógico)||программное обеспечение||软件|ソフトウェア||||||||||
 programer||||programmer (coder)||programador||||||||||||||ohjelmoija|programista, koder
 projete|||fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|project (endeavour)|projet|proyecto|projeto|проект|||プロジェクト|계획 (프로젝트)||परियोजना (प्रोजैक्ट)|প্রজেক্ট|||||hanke (projekti)|projekt, planowane przedsięwzięcie
 prometem|mate|Pm||promethium||prometio|||||||||||||prometio||promet
@@ -2776,6 +2797,7 @@ retre||||return (way back)||vuelta|||||||||||||reiro|paluu|powrót
 retro|||eng:spa:por:deu:retro-, fra:rétro-, rus:ретро- (retro-)|backward (in reverse)|en arrière|al revés|||||||||||||||wstecz
 retrogula||||throw up (vomit, regurgitate)||devolver (vomitar)||рвать (изрыга́ть)||呕吐|戻す (吐く)||||||||||wymiotować (zwrócić)
 retroguli sense||||nausea (motion sickness)|nausée|náusea|náusea|тошнота||恶心|吐き気 (嘔気)||||||||||nudności (choroba lokomocyjna)
+retrologe||||feedback (reaction)||retroalimentación (realimentación, reacción, feedback)||обратная связь||反馈|フィードバック (帰還)||||||||||
 retrotikete||||return ticket|Aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|bilet powrotny
 retru||||return (go back)|retourner (revenir)|volver|voltar (retornar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
 Reunion|desh|RE||Réunion||Reunión||||||||||||||Reunion|Reunion
@@ -2910,7 +2932,7 @@ samsifi||||similar (analogous)||similar|||||同じよう (近い)|||||||||samanl
 samsifia||||model (similarity, simulation)|simulation|modelo (similitud, simulación)|simulação|симуляция||模型|模型 (類似, シミュレーション)||||||||||model (podobieństwo, symulować)
 samu||||resemble (be like)||parecerse a|||||||||||||||być podobnym, być jak
 samuna|||isl:sameina, deu:vereinigen|connect (join, link)||conectar (empalmar, unir)||||||||||||||yhdistää|łączyć, wiązać, złączyć
-samun||||joint||juntura||||||||||||||yhdistys (sidos)|połączenie, złącze, styk
+samun||||joint (link)||juntura||||||||||||||yhdistys (sidos)|połączenie, złącze, styk
 sanduiche|||eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|sandwich|sandwich|sándwich (sánduche)|sanduíche|сандвич|سَانْدَوِيتْش|三明治 (三文治)|サンドイッチ|||सैंडविच||roti lapis (sandwic).||||voileipä|kanapka
 sanduke|||swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|box (chest)||caja (baúl, cofre, estuche)||сундук|||||||||sanduku|sandık|skatolo (kesto)|laatikko|pudło, skrzynia
 sang|||fra:sang, spa:sangre, por:sangue|blood|sang|sangre|sangue|кровь||血|血|피|máu|ख़ून (रक्त)|রক্ত|darah|damu|kan|sango|veri|krew
@@ -2971,6 +2993,7 @@ serpe|||hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:ser
 serva||||serve (give service)||servir||||||||||||||palvella (tarjoilla)|służyć
 serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|service||servicio||||||||||||||palvelu (palvelus)|służba
 server||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilija)|sługa
+servernam||||servername (hostname)|||||||||||||||||
 sesam|biw|Sesamum indicum|tur:susam, eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim)|sesame||ajonjolí (sésamo)||||||||||||||seesami|sezam
 Seshel nesia|desh|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
 seti|||spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), tha:เจ็ด (chet), yue:七 (chat1), jpn:七 (shichi), tur:yedi|seven (7)|sept (7)|siete (7)|sete (7)|семь (7)|七 (7)|七 (7)|||||||||sep (7)|seitsemän (7)|siedem (7)
@@ -3436,6 +3459,7 @@ vendoshoper||||trader (merchant)|||||||||||||||||handlarz (kupiec)
 Venezuela|desh|VE||Venezuela|Venezuela|Venezuela||||||||||||||Venezuela|Wenezuela
 Venus|planete 2|||Venus|Vénus|Venus|Vénus|Венера|الزهرة||||||||Zuhura|Venüs|||Wenus
 vera||||verify (authenticate)||autenticar|||||ただす||||||||||
+verdokum||||certificate||certificado|||||証明書||||||||||
 veri|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine, very, indeed)|vrai|verdadero|verdadeiro|верный|||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
 verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm|ver|verme|verme|||||||||||||mato|robak
 vermute|alkohol|||vermouth|vermouth|vermú|vermute|вермут|||||||||||vermuto|vermutti|wermut
