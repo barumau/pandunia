@@ -1061,7 +1061,7 @@ gidobuke||||guide book|guide touristique|guía de viaje||путеводител�
 giga*|||eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|billion (giga-)||giga-|||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
 gitar|||eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|guitar|guitare|guitarra|guitarra|гитара||吉他|ギター|기타|ghi-ta|गिटार|গিটার|gitar|gitaa|gitar|gitaro|kitara|gitara
 Giyana|desh|GF||French Guiana||Guyana Francesa||||||||||||||Ranskan Guiana|Gujana Francuska
-glisu|||fra:glisser, ita:glissare + eng:glacier,glissando, spa:por:glaciar,glisando, rus:глиссандо (glissando), ara:غليساندو (ghlysandw), jpn:グリッサンド (gurissando) + may:gelangsar|slide (slip, glide, skate)|glisser|deslizar|deslizar|задвигаться (скользи́ть)|alainzilaq|滑下|滑る|||lurhakana|||||||ślizgać się (poślizgnąć się, jeździć na łyżwach)
+glisu|||fra:glisser, ita:glissare + eng:glacier,glissando, spa:por:glaciar,glisando, rus:глиссандо (glissando), ara:غليساندو (ghlysandw), jpn:グリッサンド (gurissando) + may:gelangsar|slide (slip, glide, skate)|glisser|deslizar|deslizar|задвигаться (скользи́ть)||滑下|滑る||||||||||ślizgać się (poślizgnąć się, jeździć na łyżwach)
 gluta||||stick (adhere, paste, glue)|coller|pegar|colar (aderir)|клеиться|||張る (付く)||||||||||lepić (kleić)
 glute|||eng:glue, swa:gluu, + fra:glutineux|glue (adhesive)||pegamento (pega, goma)|||||||||||||gluo|liima|klej
 gluten|||eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)|gluten||gluten|||||||||||||gluteno|gluteeni|gluten
@@ -1077,7 +1077,6 @@ goril|biw||eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gor
 goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton|coton|algodón|algodão|хлопок||棉||||कपास|||||kotono|puuvilla|bawełna
 governa||||govern||gobernar|||||治める (司る)||||||||||rządzić
 governe|||eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|government|gouvernement|gobierno|governo|||政府|政府||||||||||rząd
-gowa|||eng:go + zho:去 (qù), jpn:行 (kou)|go||ir|||||行く||||||||iri|mennä|iść (przemieścić się)
 graf|||eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)|drawing (graph, image)||imagen (gráfico, dibujo)|||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
 grafa||||draw||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
 grafbuke||||picture book||libro de cuentos ilustrado||||||||||||||kuvakirja|książka z obrazkami
@@ -1599,13 +1598,14 @@ kimem||||chemical element|élément chimique|elemento químico|elemento químico
 kimi||||chemical||químico||||||||||||||kemikaali|chemiczny
 kimlojia||||chemistry|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|ĥemio (kemio)|kemia|chemia
 kin||||movement||movimiento||||||||||||||liike|ruch
-kina||||move (transfer, change place)||mudar (transferir, traspasar, trasladar)||||||||||||||liikuttaa|ruszać, przenościć, zmieniać miejsce
+kina||||move (transfer, change place)|mouvoir (bouger)|mudar (transferir, traspasar, trasladar)|mover|двигать||动|動かす|이동시키다|||||||movi|liikuttaa|ruszać, przenościć, zmieniać miejsce
 kingraf||||movie (cinema)||película (filme)||фильм (кино)|||映画||||||||||kino
 kingrafi||||cinematic|||||||||||||||||kinowy
 kingrafia||||cinematography|||||||||||||||||kinematografia
 kini|||eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|kinetic||cinético||||||||||||||kineettinen (liike-)|ruchowy, kinetyczny
 Kinshasa|shefocite|CD||Kinshasa|Kinshasa|||||||||||||||Kinshasa|
 Kinshasa Kongo|desh|CD||Congo Kinshasa||República Democrática del Congo||||||||||||||Kinshasan Kongo|Demokratyczna Republika Konga
+kinu||||move oneself|se mouvoir|moverse|Mover-se|двигаться||动|動く|움직이다|chuyển động|चलना|চলা||peleka|hareket etmek|moviĝi|liikkua|
 kioske|||fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|kiosk||quiosco (kiosco)||||||||||||||kioski|kiosk
 Kipris|desh|CY||Cyprus||Chipre||||||||||||||Kypros|Cypr
 kir|||ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|carat||alquiler||||||||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
@@ -1614,12 +1614,15 @@ Kirgizia|desh|KG||Kyrgyzstan||Kirguizistán||||||||||||||Kirgistan (Kirgisia)|Ki
 Kiribati|desh|KI||Kiribati||Kiribati||||||||||||||Kiribati|Kiribati
 kirili abace||||Cyrillic alphabet||alfabeto cirílico||||||||||||||kyrilliset aakkoset|cyrylica
 kirisa||||rent out (let, lease)||alquilar||||||||||||||vuokrata|wynająć, oddać w najem
+kita||||remove (take away)||quitar (remover)|remover|||除去||||||||||viedä|
 kitaba||||write|écrire|escribir|escrevere|писать||写||||लिखना||menulis||yazmak||kirjoittaa|napisać, pisać
 kitabe|||ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|writing (text)|écriture|escritura|escrita|письмо||||||||tulisan||yazı|skribo|kirjoitus (teksti)|pismo, tekst
 kitabia||||library|bibliothèque|biblioteca|biblioteca|библиотека||图书馆||||पुस्तकालय||perpustakaan||kütüphane|librejo|kirjasto|biblioteka
 kitabomashin||||typewriter|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania
 kitabominister||||librarian||bibliotecario||библиотекарь|||図書係||||||||||bibliotekarz
 kitaborupe||||formatting||formateo||||||||||||||tekstin muotoilu|formatowanie
+kiti||||gone (away)|parti|||||||||||||||mennyt (poissa)|
+kitu|||fra:quitter, tur:gitmek, spa:quitar|go (move away)|aller (quitter)|ir|ir|идти||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść (przemieścić się)
 kiwi*|biw||eng:fra:spa:may:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi|kiwi fruit|kiwi|kiwi fruta|quivi|киви||奇异果|キーウィフルーツ|다래 (키위)|trái ki wi (trái dương đào)|कीवी||buah kiwi||kivi|kivo|kiivi|owoc kiwi
 klara||||clarify (clear up)||aclarar (clarificar)|||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
 klari|||deu:klar, spa:por:claro, eng:clear, fra:clair|clear (obvious)|clair|claro|claro||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
@@ -1829,7 +1832,8 @@ lawi|||zho:老 (lǎo), vie:lão|old (aged, elderly)|vieux (âgé, ancien)|viejo 
 lawi||||Lao (Laotian)||laosiano||||||||||||||laoslainen|laotański
 lawmam||||grandmother||abuela|||||||||||||||babcia (babka)
 lawpape||||grandfather||abluelo|||||||||||||||dziadek (dziad)
-laya|||vie: lại, zho: 来 (lái), jpn:来 (rai)|come||venir||||来|来る||||||||veni|tulla|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
+laya||||bring (move closer)|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
+layu|||zho: 来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie: lại|come (move closer)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
 lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|lazania
 lazuar|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит||青金岩|ラピスラズリ (瑠璃)||||||||||lapis lazuli
 le||||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono

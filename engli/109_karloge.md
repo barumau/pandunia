@@ -69,6 +69,7 @@ Examples:
 ### Passive verbs
 
 Verbs that end in **-u** are called _passive verbs_.
+(They could be also called _mediopassive verbs_.)
 The sentence word order is the normal subject–verb–object,
 but this time
 the subject receives the action,
@@ -96,9 +97,14 @@ See how the object of the active verb becomes the subject of the passive verb:
 
 In Pandunia, a passive verb is used when:
 
-1. The subject receives an action.
-2. The subject undergoes a change of state.
-3. The subject is influenced or stimulated by the object.
+1. The subject receives an action,
+   ex. **kitabu** (to be written), **darbu** (to get hit).
+2. The subject undergoes a change of state,
+   ex. **parchu** (to get broken), **novu** (to become new).
+3. The subject moves to another place,
+   ex. **layu** (to come), **marchu** (to walk).
+3. The subject is influenced or stimulated by the object,
+   ex. **suku** (to be pleased), **fobu** (to be scared)
 
 Sometimes a passive verb is used in Pandunia when an active verb would be used in English
 because of the last point.
@@ -165,6 +171,8 @@ The verb types are summarized in the table below.
 | want           | wanting        | want           | cause want     |
 | **fobe**       | **fobi**       | **fobu**       | **foba**       |
 | fear           | afraid, scared | fear           | scare          |
+| **lay**        | **layi**       | **layu**       | **laya**       |
+| arrival        |                | come, arrive   | bring          |
 
 
 ## Participles
