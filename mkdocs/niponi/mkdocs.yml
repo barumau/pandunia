@@ -1,0 +1,17 @@
+site_name: パンドゥニア
+site_url: http://www.pandunia.info/niponi
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../niponi
+site_dir: ../../html/niponi
+theme:
+  name: cerulean
+  language: ja
+nav:
+    - 'ホームページ': 'index.md'
+    - '基本': baze.md
+    - 'つづり': abc.md
+    - '文法': kanun.md
+    - 'フレーズ集': fraze.md
+    - '対話形式のレッスン': darse.md
+    - '辞典': pandunia-niponi.md
+

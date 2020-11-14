@@ -69,6 +69,7 @@ Examples:
 ### Passive verbs
 
 Verbs that end in **-u** are called _passive verbs_.
+(They could be also called _mediopassive verbs_.)
 The sentence word order is the normal subject–verb–object,
 but this time
 the subject receives the action,
@@ -96,9 +97,14 @@ See how the object of the active verb becomes the subject of the passive verb:
 
 In Pandunia, a passive verb is used when:
 
-1. The subject receives an action.
-2. The subject undergoes a change of state.
-3. The subject is influenced or stimulated by the object.
+1. The subject receives an action,
+   ex. **kitabu** (to be written), **darbu** (to get hit).
+2. The subject undergoes a change of state,
+   ex. **parchu** (to get broken), **novu** (to become new).
+3. The subject moves to another place,
+   ex. **layu** (to come), **marchu** (to walk).
+3. The subject is influenced or stimulated by the object,
+   ex. **suku** (to be pleased), **fobu** (to be scared)
 
 Sometimes a passive verb is used in Pandunia when an active verb would be used in English
 because of the last point.
@@ -131,27 +137,44 @@ whereas a passive verb indicates a change of state.
 In other words, a stative verb is a _passive of being_
 and a passive verb is a _passive of becoming_.
 
+Some stative verbs can have an object.
+For example, see how the verbs about
+**fuke**
+(clothes or clothing) work.
+
+**me fuki sapate.**
+– I wear shoes.  
+**me fuku sapate.**
+– I put on shoes.  
+**le fuka sapate pa me.**
+– He or she puts shoes on me.
+
+The adjective
+**fuki**
+means _worn_.
+
+**fuki tope esa may boni ko no fuki tope.**
+– A worn hat is better than an unworn hat.
 
 
 ### Summary of the verb types
 
 The verb types are summarized in the table below.
 
-| Active verb | Passive verb | Stative verb |
-|:------------|:-------------|:-------------|
-| **kitaba**  | **kitabu**   | **kitabi**   |
-| write       | get written  | be textual   |
-| **safa**    | **safu**     | **safi**     |
-| make clean  | get cleaned  | be clean     |
-| **nova**    | **novu**     | **novi**     |
-| make new    | get new      | be new       |
-| **yama**    | **yamu**     | **yami**     |
-| eat         | get eaten    | be eatable   |
-| **gusta**   | **gustu**    | **gusti**    |
-| taste       | taste like   | be tasty     |
-| **ama**     | **amu**      | **ami**      |
-| love        | be loved     | be dear      |
-
+| Noun           | Stative verb   | Passive verb   | Active verb    |
+|----------------|----------------|----------------|----------------|
+| **kitabe**     | **kitabi**     | **kitabu**     | **kitaba**     |
+| writing        | written        | get written    | write          |
+| **saf**        | **safi**       | **safu**       | **safa**       |
+| tidyness       | tidy, clean    | get clean      | make clean     |
+| **nove**       | **novi**       | **novu**       | **nova**       |
+| novelty        | new, novel     | get new        | make new       |
+| **yam**        | **yami**       | **yamu**       | **yama**       |
+| food           | eaten          | get eaten      | eat            |
+| **guste**      | **gusti**      | **gustu**      | **gusta**      |
+| taste          | tasty          | be tasted      | taste, try     |
+| **am**         | **ami**        | **amu**        | **ama**        |
+| love           | dear           | be loved       | love, hold dear|
 
 | Noun           | Stative verb   | Passive verb   | Active verb    |
 |----------------|----------------|----------------|----------------|
@@ -159,12 +182,16 @@ The verb types are summarized in the table below.
 | joy, pleasure  | joyful, happy  | enjoy, like    | please         |
 | **nide**       | **nidi**       | **nidu**       | **nida**       |
 | need           | needy          | need           | cause need     |
-| **tam**        | **tami**       | **tamu**       | **tama**       |
-| greed          | greedy         | covet, hog     | cause greed    |
 | **vol**        | **voli**       | **volu**       | **vola**       |
 | want           | wanting        | want           | cause want     |
+| **tam**        | **tami**       | **tamu**       | **tama**       |
+| greed          | greedy         | covet, hog     | make greedy    |
 | **fobe**       | **fobi**       | **fobu**       | **foba**       |
 | fear           | afraid, scared | fear           | scare          |
+| **lay**        | **layi**       | **layu**       | **laya**       |
+| arrival        |                | come, arrive   |bring, make come|
+| **fuke**       | **fuki**       | **fuku**       | **fuka**       |
+| clothing       | wear, worn     | get dressed    |dress, make wear|
 
 
 ## Participles
