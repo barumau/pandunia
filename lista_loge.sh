@@ -1,6 +1,6 @@
 fata_liste_x_pandunia() {
     #pandunia unordi
-    cat pandunia-loge.csv | awk -F "|" "{print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$1); print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unordi linye
     sed -i '1d' $2/pandunia-$2.md
     # alfebete
@@ -14,7 +14,7 @@ fata_liste_x_pandunia() {
 
 fata_liste_pandunia_x() {
     #ali bax unordi
-    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$1); print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
     #morta unordi linye
     sed -i '1d' $2/$2-pandunia.md
     # alfobeta
