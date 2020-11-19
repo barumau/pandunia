@@ -49,7 +49,6 @@ almar - placard
 almas - diamant  
 alo - autrement  
 alseksi - hétérosexuel  
-altar - autel  
 aluminem - aluminium  
 am - amour (affection)  
 ama - aimer  
@@ -189,12 +188,13 @@ bote - bateau
 botel - bouteille  
 botolefte - babord  
 botoraite - tribord  
-boya - nagar (flotter)  
+boyu - nagar (flotter)  
 bravi - brave  
 bravo - bravo!  
 brunalge - algues brunes  
 bruni - brun (marron)  
 brunsamon - truite brune (truite de mer)  
+Bude - Bouddha  
 buke - livre  
 bum - explosion  
 bute - botte  
@@ -206,6 +206,7 @@ cha - de
 chakre - roue  
 chamache - cuiller  
 chanse - chance  
+chantergrupe - chœur  
 chari - quatre (4)  
 charme - charme  
 chay - thé  
@@ -283,7 +284,6 @@ eskaltan - vigne
 Eskandia - Scandinavie  
 eskulter - sculpteur  
 esponje - éponge  
-esprinta - courir  
 estan - étain  
 estibem - antimoine  
 europe - Europe  
@@ -304,6 +304,7 @@ feymush - chauve-souris
 feyu - voler  
 filsofia - philosophie  
 fiorde - fiord  
+fishohuke - hameçon  
 fishosaider - pêcheur  
 fitolojia - botanique  
 fleche - flèche  
@@ -317,6 +318,10 @@ franci krepe - crêpe
 francofoni - francophone  
 Francofonia - francophonie  
 frem - cadre  
+fuka - habiller (vêtir)  
+fuke - vêtements  
+fuki - porter  
+fuku - s’habiller  
 ful - fleur  
 fungonete - mycélium  
 fungopal - champignon  
@@ -333,7 +338,6 @@ galte - faute (erreur)
 galti - erroné  
 gamia - mariage  
 gamike - époux  
-ganche - crochet  
 gandum - blé  
 gangras - foin  
 garmozon - tropique  
@@ -385,6 +389,7 @@ hayjel - méduse
 haytate - côte  
 helisbabul - acacia faux-gommier  
 helisviman - hélicoptère  
+hem - hum  
 hemahe - tente  
 hewan - animal (bête)  
 hewanjenisia - élevage  
@@ -402,6 +407,8 @@ hogotehne - feu d’artifice
 hoke - hockey  
 hor - heure  
 hotel - hôtel  
+huke - crochet  
+hukokrus - svastika (croix gammée)  
 hul - renard  
 huri - libre  
 huydarte - podzol  
@@ -490,6 +497,8 @@ kave - fosse
 ke - que (quoi)  
 kerne - coeur  
 Khartum - Khartoum  
+ki ren - qui  
+ki sate - quand  
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
@@ -516,8 +525,10 @@ konkara - collaborer
 kontini - continu (analogique)  
 kontrate - convention (alliance, pacte)  
 kope - coupe (tasse, verre)  
+kora - courir  
 koral - corail  
 korde - fil  
+korer - coureur  
 korne - corne  
 koron - couronne  
 kortokrokodil - alligator  
@@ -784,7 +795,9 @@ problem - problème
 problemi - problématique  
 program - programme  
 projete - projet  
-pudu - se décomposer  
+pudi - pourri  
+pudu - pourrir (se décomposer)  
+pujomeze - autel  
 pul - pont  
 puma* - couguar (puma)  
 pura - remplir  
@@ -828,6 +841,7 @@ rozosamon - saumon rose
 ruhe - psyché  
 ruhlojia - psychologie  
 ##s
+sa ke - où  
 sa linye - en ligne  
 safariste - touriste  
 sahi - correct (juste)  

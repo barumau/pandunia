@@ -23,7 +23,6 @@
 |**alkol**|alkoholo|franca:alcool portugala:álcool hispana:alcohol angla:alcohol hindia: araba:(kuhul), rusa:алкоголь (alkohol), polona:alkohol|
 |**almar**|ŝranko|hindia:अलमारी (almārī), bengala:আলমারি (almari), malaja:lemari, hispana:armario, portugala:armário|
 |**almas**|diamanto|svahila:almasi, rusa:алмаз (almaz), araba:(ʾalmāsa), persa:(almâs), turka:elmas|
-|**altar**|altaro|angla:portugala:hispana:malaja:altar, rusa: алтарь (altar'), svahila:altare, polona:ołtarz|
 |**am**|amo|franca:amour, hispana:portugala:amor|
 |**ameno**|certe|araba:(ʾāmin), turka:amin,emin, heb:hbo:אמן, greka:ἀμήν (ámén), angla:deu:franca:polona:hispana:amen, mandarena:阿门 (āmén), korea:아멘 (amen), japana:アーメン (āmen)|
 |**amerike**|Ameriko|angla:America, hispana:portugala:América, rusa:Америка (Amerika), turka:svahila:malaja:Amerika, araba:أمريكا‎ (ʾamrīkā), hindia:अमेरिका (amerikā), bengala:আমেরিকা (amerika), japana:アメリカ (amerika)|
@@ -276,7 +275,8 @@
 |**forum**|forumo|angla:franca:forum, hispana:foro, portugala:fórum, rusa:форум (forum), japana:フォーラム (fōramu)|
 |**fote**|lumo|greka:φωτο- (foto-), angla:franca:photo-, hispana:portugala:foto-, rusa:фото-|
 |**fotograf**|foto|angla:photograph, franca:photographie, hispana:portugala:fotografia, rusa:фотография, hindia:फ़ोटो (foṭo), bengala:ফটো (phôṭo), malaja:foto, turka:fotoğraf|
-|**fuke**|vesto|mandarena:衣服 (yīfu), kantona:(yifuk), japana:衣服 (ifuku), korea:의복 (uibog)|
+|**frem**|kadro|angla:frame, bengala:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), marataja:फ्रेम (phrēma), svahila:fremu|
+|**fuke**|vesto|mandarena:服 (fú), kantona:服 (fuk6), japana:服 (fuku), korea:의복 (uibok), vjetnama:y phục|
 |**ful**|floro|haŭsa:fure, igba:ifulu, lingala:folele, hindia:फूल (phul), bengala:ফুল (phul), franca:fleur, portugala:hispana:flor, angla:flower|
 |**fun**|polvo|mandarena:粉 (fěn), hakaa:粉 (fun), taja:ฝุ่น (fùn)|
 |**funca**|funkcii|angla:function, hispana:portugala:funcionar, franca:fonctionner, rusa:функциони́ровать (funkcionirovat’), malaja:berfungsi|
@@ -374,6 +374,7 @@
 |**honi**|cent|angla:hundred|
 |**hor**|horo|franca:heure, angla:hour, hispana:portugala:hora|
 |**hotel**|hotelo|angla:deu:hispana:portugala:malaja:hotel, franca:hôtel, hindia:होटल (hoṭal), bengala:হোটেল (hoṭel), japana:ホテル (hoteru), korea:호텔 (hotel), rusa:отель (otel)|
+|**huke**|hoko|angla:hook, deu:Haken, rusa: гак (gak), polona:hak, hindia:हुक (huk), bengala:হুক (huk), malaja:hak|
 |**hul**|vulpo|mandarena:狐狸 (húlí), kantona:狐狸 (wu4 lei4-2)|
 |**huri**|libera|araba: حر (ḥurr), turka:hür, svahila:huru, hispana:horro, portugala:forro|
 |**hushi**|agrabla|persa: خوش‎ (xoš), hindia:ख़ुश (xuś), bengala:খুশি (khuśi), turka:hoş, angla:cushy|
@@ -444,10 +445,11 @@
 |**kastor**|kastoro|franca:portugala:hispana:castor, filipina:turka:kastor|
 |**kata**|tranĉi|angla: cut, araba:(qaṭa’a), hindia:काटना (kāṭnā), bengala:কাটা (kata), svahila:kata, vjetnama:cắt, mandarena:割 (gē), kantona:割 (got3), vua:割 (ga’), japana:割 (katsu)|
 |**katan**|glavo|japana:刀 (katana)|
+|**katus**|kaktuso|angla:hispana:portugala:franca:cactus, rusa:кактус (kaktus), turka:kaktüs, malaja:kaktus|
 |**kava**|fosi|hispana:portugala:cavar, angla:excavar, franca:excaver|
 |**kawayi**|ĉarma|japana:可愛い (kawaii), korea:카와이 (kawai), angla:kawaii|
 |**kayi**|malferma|mandarena:开 (kāi), vjetnama:-khai-|
-|**ke**|kio?|hispana:qué, portugala:franca:que, + bengala:কে  (ke)|
+|**ke**|kio?|franca:que, hispana:qué, portugala:o que + bengala:কে  (ke)|
 |**kechape**|keĉupo|kantona:茄汁 (kezap), angla:ketchup, hindia:केचप (kecap), rusa:кетчуп (ketčup), japana:ケチャップ (kechappu), filipina:ketsap|
 |**kechi**|ĝentila|mandarena:客气 (kèqì), kantona:客氣 (haak3 hei3), vua:客氣 (khaq qi4)|
 |**keke**|kuko|svahila:keki, japana:ケーキ (kēki), angla:cake, araba:(kaʿka), turka:kek, hindia:केक (kek), deu:Keks, rusa:кекс (keks)|
@@ -476,6 +478,7 @@
 |**kontra**|kontraŭ|hispana:portugala:contra, franca:contre, angla:counter-, greka:κόντρα (kontra)|
 |**kope**|taso|franca:coupe, turka:kupa, araba:(kūb), hispana:copa, angla:cup, hindia:कप (kap), japana:コップ (koppu), korea:컵 (keop)|
 |**kopiye**|kopio|angla:copy, mandarena:拷貝 (kǎobèi)|
+|**kora**|kuri|franca:courir, hispana:portugala:correr|
 |**korne**|korno|franca:corne, portugala:corno, angla:horn, araba:(qarn)|
 |**koron**|krono|franca:couronne, angla:crown, hispana:corona, japana:クラウン (kuraun), rusa:корона (korona), portugala:coroa|
 |**korti**|mallonga|hispana:corto, rusa:короткий (korotkiy), portugala:curto, franca:court, deu:kurz, angla:short|

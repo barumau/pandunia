@@ -51,7 +51,7 @@ alkoholo - alkol
 alofono - alfon  
 alporti (venigi) - laya  
 alta - gawi  
-altaro - altar  
+altaro - pujomeze  
 aluminio - aluminem  
 amato - amike  
 ambasado - daisheria  
@@ -227,6 +227,7 @@ bruna - bruni
 brusto - sin  
 budhismo - budistia  
 budhisto - budiste  
+Budho - Bude  
 Bulgario - Bolgaria  
 buso - bus  
 buĝeto - bujete  
@@ -380,7 +381,7 @@ evangelio - evanjil
 eĉ - hato  
 eĥo - mirsonde  
 Eŭrazio - eurasia  
-eŭro - europes  
+eŭro - euro*  
 Eŭropa - europi  
 Eŭropa Unio (EU) - europi unisia  
 eŭropio - europem  
@@ -408,6 +409,7 @@ febro - febre
 feko - kake  
 feliĉa - suki  
 fenestro - janel  
+fenestrokadro - janelfrem  
 fermio - fermem  
 fero - fer  
 fervojo - trendaw  
@@ -432,6 +434,7 @@ fino - fin
 fizikisto - fiziker  
 fiziko - fizike  
 fiziko - fizikia  
+fiŝhoko - fishohuke  
 fiŝkaptisto - fishosaider  
 fiŝo - fish  
 fjordo - fiorde  
@@ -577,6 +580,7 @@ hm - hem
 hobio - hobe  
 hodiaŭ - zayden  
 hokeo - hoke  
+hoko - huke  
 holmio - holmem  
 homaj rajtoj - insani hake  
 homaro - insania  
@@ -661,12 +665,14 @@ juĝisto - hakimer
 juĝo - hakim  
 ##k
 kadmio - kadem  
+kadro - frem  
 kafejo - kafeshope  
 kafo - kafe*  
 kaftaso - kafkope  
 kaj - e  
 kajero - notobuke  
 kakao - kakaw  
+kaktuso - katus  
 kalcio - kalcem  
 kalcito - kalcite  
 kalendaro - kalende  
@@ -824,6 +830,8 @@ kunlabori - konkara
 kupro - kupre  
 kuracisto - mediker  
 kurbo - kurbe  
+kuri - kora  
+kuristo - korer  
 kuriumo - kurem  
 kurteno - parde  
 kuŝi - kushu  
@@ -1455,9 +1463,11 @@ sunsistemo - solsistem
 superiri - supra  
 supo - supe  
 surfaco - fas  
+surporti - fuki  
 surprizo - suprize  
 suĉi - chupa  
 suŝio - sushi*  
+svastiko - hukokrus  
 sŭahili - suahili  
 ##t
 tabako - tabake  
@@ -1593,7 +1603,8 @@ versio (toisinto) - version
 veruko - zeyil  
 vespermanĝo - shamyam  
 vespero - sham  
-vesti - fuka  
+vesti - fuku  
+vestigi - fuka  
 vesto - fuke  
 vetero - tenke  
 vi (ci) - te  
@@ -1697,6 +1708,7 @@ zuluo - zuli
 ĝuste (ekzakte) - justo  
 Ĥartumo - Khartum  
 ĥemio (kemio) - kimlojia  
+ĥoro - chantergrupe  
 ĵaŭdo - var 4 (var chari)  
 ĵeti (lanĉi) - lanca  
 ĵetkubo - dade  

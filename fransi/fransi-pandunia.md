@@ -96,7 +96,7 @@ assez - basi
 asthme - asme  
 atchoum - achu*  
 Athènes - Athina  
-autel - altar  
+autel - pujomeze  
 automne - oton  
 autre - ali  
 autrement - alo  
@@ -160,6 +160,7 @@ bord (rive) - tate
 botanique - fitolojia  
 botte - bute  
 bouclire - defbanze  
+Bouddha - Bude  
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
 bouleau - berje  
@@ -244,6 +245,7 @@ chu - paduti
 chéri (ami) - amike  
 chêne - balute  
 chêne pédonculé - europobalute  
+chœur - chantergrupe  
 ciel - saman  
 cime (pic, sommet) - pike  
 cimetière - gabristan  
@@ -289,15 +291,16 @@ coucher - kusha
 couguar (puma) - puma*  
 couleur - rang  
 coupe (tasse, verre) - kope  
+coureur - korer  
 courgette - lilkaboge  
-courir - esprinta  
+courir - kora  
 couronne - koron  
 couvrir - daka  
 crabe - krabe  
 creuser - kava  
 crevette - krevete  
 cristal - kristal  
-crochet - ganche  
+crochet - huke  
 crocodile - longokrokodil  
 crocodilien - krokodil  
 croissant - kruasante  
@@ -449,6 +452,8 @@ générosité (charité) - karimia
 géologie - zemlojia  
 géométrie - zemmetria  
 ##h
+habiller (vêtir) - fuka  
+hameçon - fishohuke  
 haut - gaw  
 heure - hor  
 heureux - suki  
@@ -462,6 +467,7 @@ houe - sape
 hourra - ura  
 huile (pétrole) - nefte  
 huit (8) - bali  
+hum - hem  
 humain - insaniki  
 humanisme - insanistia  
 humeur - emocohal  
@@ -612,7 +618,7 @@ méduse - hayjel
 mémoire - mem  
 méninge - mening  
 ##n
-nagar (flotter) - boya  
+nagar (flotter) - boyu  
 nation - nasia  
 nausée - retroguli sense  
 nautile - nautil  
@@ -672,6 +678,7 @@ oubliette (cul de basse-fosse) - zemnichi prizon
 oui - si  
 ours - urse  
 oxyde - okside  
+où - sa ke  
 ##p
 pacifiste - paciste  
 page - warkolate  
@@ -752,10 +759,13 @@ pomme - apel
 pont - pul  
 porte - porte  
 porte-bloc (planchette à pince) - pincobanze  
+porter - fuki  
 posidonie (herbiers marins) - haygras  
 possible - abli  
 possédant (propriétaire) - malker  
 Poulpe (pieuvre) - balsenter  
+pourri - pudi  
+pourrir (se décomposer) - pudu  
 pousse - jovani moke  
 pouvoir (être capable) - abla  
 presse-papier - katoglutobanze  
@@ -781,10 +791,12 @@ pâquerette - englomargarite
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - fishosaider  
+quand - ki sate  
 quartz - kuarce  
 quatre (4) - chari  
 que (comme) - ko  
 que (quoi) - ke  
+qui - ki ren  
 ##r
 race - ras  
 racine - mul  
@@ -848,7 +860,6 @@ scie - ser
 sculpteur - eskulter  
 scutelle - ostoshalke  
 se baigner - banyu  
-se décomposer - pudu  
 se mouvoir - kinu  
 se rappeler (se remémorer) - mema  
 sel - sal  
@@ -883,6 +894,7 @@ suffixe pour l'adverbe - -o
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
 sujet (thème) - tem  
+svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
 symétrique - sammetri  
 séminal - semi  
@@ -890,6 +902,7 @@ série - silia
 sûr - sekuri  
 sûrement - ameno  
 s’accroupir - indosida  
+s’habiller - fuku  
 ##t
 table - meze  
 tablette de chocolat - chokolatobaton  
@@ -993,6 +1006,7 @@ vrai - veri
 vulve - vulve  
 végétarien - vejetyamiste  
 Vénus - Venus  
+vêtements - fuke  
 vœu (promesse) - vode  
 ##w
 wolof - Wolof  

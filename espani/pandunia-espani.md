@@ -71,7 +71,6 @@ alromansi - heterorromántico
 alseksi - heterosexual  
 alsifi - diferente  
 alsifia - diferencia  
-altar - altar  
 aluminem - aluminio  
 ama - amar  
 amari - amargo  
@@ -376,7 +375,7 @@ botolefte - babor
 botoraite - estribor  
 botoshef - capitán  
 boy - flotador (boya)  
-boya - nadar (flotar)  
+boyu - nadar (flotar)  
 brauza - explorar  
 brauzer - explorador (navegador)  
 bravo - bravo!  
@@ -391,7 +390,7 @@ Bruney - Brunei
 bruni - marrón  
 brunsamon - trucha marrón  
 buda - darse cuenta (notar)  
-bude - Buda  
+Bude - Buda  
 bude - comprensión (entendimiento)  
 budi - concienciado (iluminado)  
 budiste - budista  
@@ -442,6 +441,7 @@ chania - producción
 chanse - oportunidad (chance)  
 chanta - cantar  
 chante - canción  
+chantergrupe - coro  
 chapa - imprimir  
 chapate - chapati (pan sin levadura)  
 chape - grabado (sello, estampando)  
@@ -743,7 +743,6 @@ eskultia - escultura (arte de escultura)
 Espania - España  
 esperanti - Esperanto  
 esponje - esponja  
-esprinta - correr (esprintar)  
 estaca - mantener (detener)  
 estaci - estático (estacionario)  
 estacia - estación  
@@ -757,9 +756,9 @@ estudia - estudio
 Etiopia - Etiopía  
 eurasia - Eurasia  
 eureka - econtrar (hallar)  
+euro* - euro  
 europe - Europa  
 europem - europio  
-europes - euro  
 europi - europeo  
 europi unisia - Unión Europea  
 europobalute - roble común  
@@ -848,6 +847,7 @@ fini - final (último)
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
 fish - pez (pescado)  
+fishohuke - hamo (anzuelo)  
 fishosaider - pescador  
 fishotanke - acuario (pecera)  
 fite - planta (vegetación)  
@@ -893,8 +893,10 @@ Francia - Francia
 frem - marco  
 frika - raspar (arañar)  
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
-fuka - llevar (vestir)  
+fuka - vestir  
 fuke - ropa (vestimenta)  
+fuki - llevar (vestir)  
+fuku - verstirse  
 ful - flor  
 fulu - florecer  
 fulvaze - florero  
@@ -938,7 +940,6 @@ gamia - casamiento
 gamike - esposo o esposa  
 Gana - Ghana  
 gana - secar  
-ganche - gancho (anzuelo, alcayata)  
 Ganda - Uganda  
 gandum - trigo  
 ganga - Ganges  
@@ -1017,7 +1018,7 @@ gras - césped (hierba)
 grasistan - pradera (pastizal)  
 grave - grava  
 Grenada - Granada  
-grenadin - Granadinas  
+Grenadin nesia - Granadinas  
 grimas - mueca  
 grom - truenos (estruendo)  
 gromtafun - tormenta  
@@ -1172,6 +1173,8 @@ horizoni - horizontal (lateral)
 hormon - hormona  
 Horvatia - Croacia  
 hotel - hotel (albergue)  
+huke - gancho (anzuelo, alcayata)  
+hukokrus - esvástica (cruz gamada)  
 hul - zorro  
 humus - garbanzo  
 humusosos - humus  
@@ -1456,7 +1459,7 @@ katan - espada
 Katar - Catar (Qatar)  
 katoglutobanze - portapapeles  
 katus - cacto  
-kaukasia - Cáucaso  
+Kaukasia - Cáucaso  
 kava - cavar (excavar)  
 kave - fosa  
 kawayi - lindo (precioso)  
@@ -1591,9 +1594,10 @@ kopernikem - copérnico
 kopiya - copiar (réplica)  
 kopiye - copiar (réplica)  
 kopiyhake - derechos de autor (copyright)  
-kor - coro  
+kora - correr  
 koral - coral  
 korde - hilo (cordel)  
+korer - corredor  
 korne - corno  
 kornonos - rinoceronte  
 koron - corona  
@@ -2533,6 +2537,8 @@ puding - pudín
 pudu - pudrirse (cariarse, descomponerse)  
 puja - adorar (venerar)  
 puje - adoración (veneración, culto)  
+pujomeze - altar  
+pujorite - rito (ceremonia)  
 pul - puente  
 pulmon - pulmón  
 puma* - puma  
@@ -2585,9 +2591,7 @@ rari - raro
 ras - raza  
 rasiste - racista  
 rasistia - racismo  
-rasme - costumbre (tradición, convención)  
 rasmedi - interracial  
-rasmi - traditional (convencional)  
 raste - crecemiento  
 rastu - crecer  
 ratiba - ordenar (arreglar)  
@@ -2634,7 +2638,8 @@ rim - rima
 ris - arroz  
 riske - riesgo  
 riski - arriesgado  
-rite - rito (ceremonia)  
+rite - costumbre (tradición, convención)  
+riti - traditional (convencional)  
 ritim - ritmo  
 robote - robot  
 rodem - rodio  

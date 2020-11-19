@@ -74,7 +74,6 @@ alromansi||||heteroromantic||heterorromántico||||||||||||||heteroromanttinen|he
 alseksi||||heterosexual|hétérosexuel|heterosexual|||||||||||||samseksema|heteroseksuaali|heteroseksualny
 alsifi||||different||diferente||||||||||||||erilainen|różny (inny)
 alsifia||||difference||diferencia||||||||||||||erilaisuus (ero)|różnica
-altar|||eng:por:spa:may:altar, rus: алтарь (altar'), swa:altare, pol:ołtarz|altar|autel|altar|altar|алтарь||圣坛||||वेदी (वेदिका)||altar (mazbah)||mihrap|altaro|alttari|ołtarz
 aluminem|mate|Al||aluminium|aluminium|aluminio|||||||||||||aluminio|alumiini|glin (aluminium)
 am|||fra:amour, spa:por:amor|love (liking, affection)|amour (affection)||||||||||||||amo|rakkaus (tykkääminen)|miłość (afekt)
 ama||||love (to be in love with)|aimer|amar||любить||爱|||||||||ami (ŝati)|rakastaa (pitää, tykätä)|kochać
@@ -2692,11 +2691,13 @@ programer||||programmer (coder)||programador||||||||||||||ohjelmoija|programista
 projete|||fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|project (endeavour)|projet|proyecto|projeto|проект|||プロジェクト|계획 (프로젝트)||परियोजना (प्रोजैक्ट)|প্রজেক্ট|||||hanke (projekti)|projekt, planowane przedsięwzięcie
 prometem|mate|Pm||promethium||prometio|||||||||||||prometio||promet
 protacinem|mate|Pa||protactinium||proactinio|||||||||||||protaktinio|protaktinium|protaktyn
-pudi|||eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu)|rotten||podrido (cariado)|||||||||||||||zgniły
+pudi|||eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)|rotten|pourri|podrido (cariado)||||||||||||||mätä|zgniły
 puding|||eng:pudding, zho:布丁 (bùdīng)|pudding||pudín||||布丁||||||||||vanukas|puding
-pudu||||decay (rot, deteriorate)|se décomposer|pudrirse (cariarse, descomponerse)|apodrecer-se|гнить (портиться)||腐烂|腐敗||||||||||rozłożyć się (rozkładać się, gnić, psuć się)
+pudu||||decay (rot, deteriorate)|pourrir (se décomposer)|pudrirse (cariarse, descomponerse)|apodrecer-se|гнить (портиться)||腐烂|腐敗|||सड़ना||||||mädäntyä (mädätä)|rozłożyć się (rozkładać się, gnić, psuć się)
 puja||||worship (revere)||adorar (venerar)||||||||||||||palvoa|czcić, szanować
 puje|||hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|worship (reveration)||adoración (veneración, culto)||||||||पूजा||||||palvonta|cześć, szacunek
+pujomeze||||altar|autel|altar|altar|алтарь||圣坛||||वेदी (वेदिका)||altar (mazbah)||mihrap|altaro|alttari|ołtarz
+pujorite||||ritual (ceremony, religious custom)||rito (ceremonia)||||||||धार्मिक-विधि||||||rituaali (seremonia, riitti)|rytuał, ceremonia, ryt
 pul|||hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)|bridge|pont|puente|ponte|||桥|||||||||ponto|silta|most
 pulmon|||spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|lung||pulmón|||||||||||||pulmo|keuhko|płuco
 puma*|biw||eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)|cougar (puma, mountain lion)|couguar (puma)|puma||пума (кугуар)||美洲獅 (山狮)|ピューマ (クーガー)||||||||||puma (kuguar)
@@ -2752,9 +2753,7 @@ raria||||rarity|||||||||||||||||rzadkość
 ras|||eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|race (breed)|race|raza|raça|раса||种族|人種|인종|chủng tộc|वंश (जाति)||bangsa (ras)||ırk|raco|rotu|rasa
 rasiste||||racist||racista|||||||||||||racisto|rasisti|rasista
 rasistia||||racism||racismo|||||||||||||racismo|rasismi (rotuoppi)|rasizm
-rasme|||ara:(rasm), hin:रस्म (rasma), may:resmi|custom (tradition, practice, convention)||costumbre (tradición, convención)||||||||||||||tapa (perinne)|obyczaj, zwyczaj, tradycja, praktyka, konwencja
 rasmedi||||interracial|interracial|interracial||межрасовый|||||||||||interrasa|rotujen välinen|międzyrasowy
-rasmi||||conventional (customary, traditional)||traditional (convencional)||||||||||||||tavanomainen (perinteinen)|konwencjonalny, zwyczajowy, tradycyjny
 raste||||growth||crecemiento||||||||||||||kasvu|wzrost
 rastu|||fra:croîter, rus:выраста́ть (vyrastat’), bel:расці́ (rascí), fas:رستن‎ (rostan)|grow (grow up, expand)||crecer|||||||||||||kreski|kasvaa|wzrastać
 ratiba|||ara:رتب (rattaba)|order (arrange)||ordenar (arreglar)||||||||||||||järjestää (järjestellä)|porządkować, organizować
@@ -2805,7 +2804,8 @@ rim|||spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|rhyme (verse)|rime|ri
 ris|||tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|rice|riz|arroz|arroz|рис||米|米 (ご飯)|||चावल||nasi (padi)|||rizo|riisi|ryż
 riske|||fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|risk||riesgo|||||||||||||risko|riski|ryzyko
 riski||||risky||arriesgado|||||||||||||riska|riskialtis|ryzykowny
-rite|||eng:fra:rite, spa:por:rito, ben:রীতি (rīti), hin:urd:(rīti)|ritual (ceremony)||rito (ceremonia)||||||||||||||riitti (rituaali, seremonia)|rytuał, ceremonia, ryt
+rite|||hin:रीति (rīti), ben:রীতি (rīti) + eng:fra:rite, spa:por:rito|custom (tradition, practice, convention)||costumbre (tradición, convención)||||||||रीति (रिवाज, रस्म)|রীতি|||||tapa (perinne)|obyczaj, zwyczaj, tradycja, praktyka, konwencja
+riti||||conventional (customary, traditional)||traditional (convencional)||||||||||||||tavanomainen (perinteinen)|konwencjonalny, zwyczajowy, tradycyjny
 ritim|||tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|rhythm (beat)|rhythme|ritmo|ritmo|ритм (такт)||节奏|リズム|리듬|nhịp điệu|ताल|তাল|ritme (rentak)||ritim|ritmo|rytmi|rytm, bit
 robote|||eng:fra:spa:robot, por:robô, tam:ரோபோ (rōpō), rus:робот (robot)|robot|robot|robot|robô|робот|||||||||||roboto|robotti|robot
 rodem|mate|Rh||rhodium||rodio|||||||||||||rodio|rhodium|rod

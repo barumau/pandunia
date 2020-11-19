@@ -27,7 +27,6 @@ alkal - щёлочь
 alkol - алкоголь  
 almar - шкаф  
 almas - алмаз (бриллиант)  
-altar - алтарь  
 ama - любить  
 amari - горький  
 amarmelon - горький огурец (китайская горькая тыква)  
@@ -149,13 +148,14 @@ botel - бутылка
 botolefte - левый борт  
 botoraite - правый борт  
 boy - поплавок (буй)  
-boya - плавать  
+boyu - плавать  
 brauza - исследовать  
 brauzer - исследователь (браузер)  
 bravo - браво  
 brunalge - бурые водоросли  
 bruni - коричневый  
 brunsamon - кумжа  
+Bude - Будда  
 bufete - буфет  
 buke - книга  
 bum - взрыв  
@@ -170,6 +170,7 @@ cha - из (от)
 chakre - колесо  
 chamache - ложка  
 chanse - возможность (шанс)  
+chantergrupe - хор  
 chari - четыре (4)  
 charme - шарм  
 chay - чай  
@@ -248,7 +249,6 @@ eskala - подниматься
 eskodokum - анкета  
 eskulter - скульптор  
 esponje - губка  
-esprinta - бегать (бежать)  
 estibem - сурьма (стибиум)  
 europobalute - дуб черешчатый  
 evanjil - евангелие  
@@ -266,6 +266,7 @@ filme - плева (фильм)
 filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
+fishohuke - крючок  
 fishosaider - рыбак (рыболов)  
 fitolojia - ботаника  
 fleche - стрела (стрелка)  
@@ -276,6 +277,10 @@ fotografia - фотография
 fotominar - маяк  
 frem - рама  
 frika - царапать  
+fuka - одевать  
+fuke - одежда  
+fuki - носить  
+fuku - одеваться  
 ful - цветок  
 fungopal - гриб  
 futobol - футбол  
@@ -287,7 +292,6 @@ gabrosheke - надгробие
 gadogude - мул  
 galaksia - галактика  
 Galia - Галлия  
-ganche - крюк  
 gandum - пшеница  
 gangras - сено  
 garmozon - тропик  
@@ -340,6 +344,7 @@ hayhiyar - голотурия (морские огурц)
 hayi - морской  
 helisbabul - акация кручёная  
 helisviman - вертолёт  
+hem - хм  
 hemahe - палатка (шатёр)  
 hewan - животное  
 hewanparke - зоопарк  
@@ -356,6 +361,8 @@ hoke - хоккей
 hor - час  
 horizoni - horizontal  
 hotel - гостиница (отель)  
+huke - крюк (гак)  
+hukokrus - свастика  
 hul - лиса  
 huri - свободный (вольный)  
 huydarte - подзол  
@@ -470,9 +477,10 @@ konga - пробиться
 konkara - сотрудничать (кооперировать)  
 kontrate - контракт  
 kope - чаша (чашка, стакан)  
-kor - хор  
+kora - бегать (бежать)  
 koral - коралл  
 korde - нитка  
+korer - бегун  
 kornomelon - кивано (рогатая дыня)  
 kornonos - носорог  
 koron - корона  
@@ -724,6 +732,7 @@ problemi - проблематичный
 program - программа  
 projete - проект  
 pudu - гнить (портиться)  
+pujomeze - алтарь  
 puma* - пума (кугуар)  
 puntonombre - оценка  
 pura - заполнять  

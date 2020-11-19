@@ -69,7 +69,6 @@ alromansi - heteroromantyczny
 alseksi - heteroseksualny  
 alsifi - różny (inny)  
 alsifia - różnica  
-altar - ołtarz  
 aluminem - glin (aluminium)  
 am - miłość (afekt)  
 ama - kochać  
@@ -389,7 +388,7 @@ botolefte - bakburta (lewa burta)
 botoraite - sterburta (prawa burta)  
 botoshef - kapitan  
 boy - spławik (boja)  
-boya - dryfować (pływać, płynąć)  
+boyu - dryfować (pływać, płynąć)  
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
 brauzer - poszukiwacz (badacz, eksplorator)  
 bravi - Odwarzny (  
@@ -404,7 +403,7 @@ Bruney - Brunei Darussalam
 bruni - brązowy, koloru kawy  
 brunsamon - pstrąg potokowy  
 buda - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
-bude - Budda  
+Bude - Budda  
 bude - uświadomienie, świadomość; oświecenie, bodhi  
 budi - świadomy; oświecony  
 budiste - buddysta  
@@ -460,6 +459,7 @@ chanivi - produktywny (żyzny)
 chanse - szansa  
 chanta - śpiewać  
 chante - piosenka, pieśń  
+chantergrupe - chór  
 chapa - naciskać, zostawiać ślad  
 chapate - płaski chleb, ćapati  
 chape - odcisk, ślad; stempel, pieczęć  
@@ -581,6 +581,7 @@ daw - droga, szosa, ulica
 dawiste - taoista  
 dawistia - taoizm  
 day (dayi) - duży  
+daydarja - wzmacniać (wzmocnić)  
 daydarsia - uniwersytet  
 daydom - pałac  
 dayhay - ocean  
@@ -589,7 +590,6 @@ daylasun - czosnek olbrzymi
 daypaw - działo  
 daypawer - kanonier  
 daysheke - głaz  
-daytarja - wzmacniać (wzmocnić)  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
 dayvaze - kocioł  
 debili - słaby  
@@ -713,8 +713,8 @@ duru - minąć, mijać (czas)
 durubli - trwały (wytrzymały, podtrzymywalny)  
 dush - prysznic  
 dutabli - wątpliwy (niewiarygodny, podejrzany)  
+dutani - niepewny (podejrzliwy, niedowierzący)  
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
-duti - niepewny (podejrzliwy, niedowierzący)  
 duwa - pomodlić się, modlić się  
 duwe - modlitwa  
 e - i, oraz  
@@ -774,7 +774,6 @@ eskultia - rzeźbiarstwo
 Espania - Hiszpania  
 esperanti - Esperanto  
 esponje - gąbka  
-esprinta - biec (biegać, pędzić)  
 estaca - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
 estaci - statyczny, stacjonarny, nieruchomy  
 estacia - stacja  
@@ -788,9 +787,9 @@ estudia - studio (pracownia)
 Etiopia - Etiopia  
 eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
+euro* - euro (€)  
 europe - Europa  
 europem - europ  
-europes - euro (€)  
 europi - europejski  
 europi unisia - Unia Europejska (EU)  
 europobalute - dąb szypułkowy  
@@ -881,6 +880,7 @@ fini - ostatni, końcowy
 fiorde - fiord  
 firuze - turkus  
 fish - ryba  
+fishohuke - haczyk  
 fishosaider - rybak  
 fishotanke - akwarium  
 fite - roślina, sadzonka  
@@ -928,8 +928,8 @@ Francia - Francja
 frem - rama  
 frika - trzeć (pocierać, obetrzeć, pucować)  
 fuga - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
-fuka - nosić ubrania  
 fuke - ubranie, ubiór, strój  
+fuki - nosić ubrania  
 ful - kwiat  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
 fulvaze - wazon; donica, doniczka  
@@ -975,7 +975,6 @@ gamia - małżeństwo, związek małżeński
 gamike - małżonek (małżonka)  
 Gana - Ghana  
 gana - suszyć (wysuszyć)  
-ganche - hak  
 Ganda - Uganda  
 gandum - pszenica  
 ganga - Ganges  
@@ -1055,7 +1054,7 @@ gras - trawa
 grasistan - łąka  
 grave - żwir  
 Grenada - Grenada  
-grenadin - Grenadyny  
+Grenadin nesia - Grenadyny  
 grimas - grymas  
 grom - grom, huk  
 gromtafun - burza z piorunami  
@@ -1213,6 +1212,8 @@ horizoni - poziomy (horyzontalny)
 hormon - hormon  
 Horvatia - Chorwacja  
 hotel - hotel  
+huke - hak  
+hukokrus - swastyka  
 hul - lis  
 humus - ciecierzyca  
 humusosos - hummus  
@@ -1507,7 +1508,7 @@ katalunia - Katalonia
 katan - miecz  
 Katar - Katar  
 katus - kaktus  
-kaukasia - Kaukazja  
+Kaukasia - Kaukazja  
 kava - wykopać, kopać, wydobyć, wydobywać, wykopywać  
 kave - dół, jama, wydobycie, wykop, wykopalisko  
 kawayi - uroczy, słodki  
@@ -1642,7 +1643,7 @@ kopernikem - kopernik
 kopiya - kopiować, replikować  
 kopiye - kopia, replika  
 kopiyhake - prawa autorskie  
-kor - chór  
+kora - biec (biegać, pędzić)  
 koral - koral  
 korde - nić (dratwa, włókno)  
 korne - róg  
@@ -2622,6 +2623,8 @@ puding - puding
 pudu - rozłożyć się (rozkładać się, gnić, psuć się)  
 puja - czcić, szanować  
 puje - cześć, szacunek  
+pujomeze - ołtarz  
+pujorite - rytuał, ceremonia, ryt  
 pul - most  
 pulmon - płuco  
 puma* - puma (kuguar)  
@@ -2678,9 +2681,7 @@ raria - rzadkość
 ras - rasa  
 rasiste - rasista  
 rasistia - rasizm  
-rasme - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 rasmedi - międzyrasowy  
-rasmi - konwencjonalny, zwyczajowy, tradycyjny  
 raste - wzrost  
 rastu - wzrastać  
 ratiba - porządkować, organizować  
@@ -2730,7 +2731,8 @@ rim - rym (wers)
 ris - ryż  
 riske - ryzyko  
 riski - ryzykowny  
-rite - rytuał, ceremonia, ryt  
+rite - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
+riti - konwencjonalny, zwyczajowy, tradycyjny  
 ritim - rytm, bit  
 robote - robot  
 rodem - rod  

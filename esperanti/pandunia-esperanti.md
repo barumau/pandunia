@@ -47,7 +47,6 @@ alnamo - tio estas (alivorte)
 alo - alie  
 alraya - malkonsenti  
 alseksi - samseksema  
-altar - altaro  
 aluminem - aluminio  
 am - amo  
 ama - ami (ŝati)  
@@ -242,6 +241,7 @@ bromem - bromo
 brosh - broso  
 bruni - bruna  
 buda - kompreni  
+Bude - Budho  
 bude - kompreno  
 budi - konscia  
 budiste - budhisto  
@@ -276,6 +276,7 @@ chango - ofte
 chanse - ŝanco  
 chanta - kanti  
 chante - kanto  
+chantergrupe - ĥoro  
 chapa - presi  
 chape - presaĵo  
 chari - kvar (4)  
@@ -455,9 +456,9 @@ estrontem - stroncio
 Etiopia - Etiopio  
 eurasia - Eŭrazio  
 eureka - trovi  
+euro* - eŭro  
 europe - Eŭropo  
 europem - eŭropio  
-europes - eŭro  
 europi - Eŭropa  
 europi unisia - Eŭropa Unio (EU)  
 evanjil - evangelio  
@@ -513,6 +514,7 @@ fini - lasta
 fiorde - fjordo  
 firuze - turkiso  
 fish - fiŝo  
+fishohuke - fiŝhoko  
 fishosaider - fiŝkaptisto  
 fite - planto  
 fitolojia - plantscienco (botaniko)  
@@ -545,8 +547,11 @@ fotografmashin - fotilo
 francem - franciumo  
 franci krepe - franca krepo  
 Francia - Francio  
-fuka - vesti  
+frem - kadro  
+fuka - vestigi  
 fuke - vesto  
+fuki - surporti  
+fuku - vesti  
 ful - floro  
 fulvaze - vazo (florpoto)  
 fun - polvo  
@@ -707,6 +712,8 @@ hor - horo
 hormon - hormono  
 Horvatia - Kroatio  
 hotel - hotelo  
+huke - hoko  
+hukokrus - svastiko  
 hul - vulpo  
 hura - liberigi  
 huri - libera  
@@ -756,6 +763,7 @@ jampa - salti
 jan - scio  
 jana - scii (koni)  
 janel - fenestro  
+janelfrem - fenestrokadro  
 janger - metiisto  
 jangle - arbaro  
 janlojia - sciteorio (epistemologio)  
@@ -846,6 +854,7 @@ kastor - kastoro
 kata - tranĉi  
 katalunia - Katalunio  
 katan - glavo  
+katus - kaktuso  
 kava - fosi  
 kave - foso  
 kawayi - ĉarma  
@@ -917,6 +926,8 @@ kontra - kontraŭ
 kope - taso  
 kopernikem - kopernicio  
 kopiye - kopio  
+kora - kuri  
+korer - kuristo  
 korne - korno  
 kornonos - rinocero  
 koron - krono  
@@ -1314,6 +1325,7 @@ profesor - profesoro
 program - programo  
 prometem - prometio  
 protacinem - protaktinio  
+pujomeze - altaro  
 pul - ponto  
 pulmon - pulmo  
 punte - punkto  

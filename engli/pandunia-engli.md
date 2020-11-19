@@ -74,7 +74,6 @@ alromansi - heteroromantic
 alseksi - heterosexual  
 alsifi - different  
 alsifia - difference  
-altar - altar  
 aluminem - aluminium  
 am - love (liking, affection)  
 ama - love (to be in love with)  
@@ -402,7 +401,7 @@ botolefte - port (left side of a ship)
 botoraite - starboard (right side of a ship)  
 botoshef - captain  
 boy - float (buoy, bobber)  
-boya - float (swim)  
+boyu - float (swim)  
 brauza - explore (browse)  
 brauzer - explorer (browser)  
 bravi - brave (gallant, valiant)  
@@ -419,7 +418,7 @@ bruni - brown
 brunsamon - brown trout  
 buda - realize  
 Budapesht - Budapest  
-bude - Buddha  
+Bude - Buddha  
 bude - realization (awareness, enlightenment, bodhi)  
 budi - aware (enlightened)  
 budiste - Buddhist  
@@ -474,6 +473,7 @@ chanivi - productive (fertile)
 chanse - opportunity (chance)  
 chanta - sing  
 chante - song  
+chantergrupe - choir (chorus)  
 chapa - press (imprint)  
 chapate - flatbread (chapati, roti)  
 chape - print (stamp)  
@@ -598,6 +598,7 @@ daw - way (road)
 dawiste - Taoist  
 dawistia - Taoism (Daoism)  
 day (dayi) - big (great)  
+daydarja - amplify (scale)  
 daydarsia - university  
 daydom - palace (mansion)  
 dayhay - ocean  
@@ -606,7 +607,6 @@ daylasun - giant onion
 daypaw - gun (cannon)  
 daypawer - cannoneer  
 daysheke - boulder  
-daytarja - amplify (scale)  
 dayu - grow (get bigger)  
 dayvaze - cauldron  
 debili - weak  
@@ -734,8 +734,8 @@ duru - pass (of time)
 durubli - durable (sustainable)  
 dush - shower  
 dutabli - dubious (suspicious, unbelievable)  
+dutani - doubtful (suspicious, disbelieving)  
 dute - doubt (disbelief)  
-duti - doubtful (suspicious, disbelieving)  
 duwa - pray  
 duwe - prayer  
 e - and  
@@ -799,7 +799,6 @@ Espania - Spain
 espanofoni - hispanophone (Spanish speaking)  
 esperanti - Esperanto  
 esponje - sponge  
-esprinta - run (sprint)  
 estaca - hold (detain)  
 estaci - static (stationary)  
 estacia - station  
@@ -813,10 +812,10 @@ estudia - studio
 Etiopia - Ethiopia  
 eurasia - Eurasia  
 eureka - find (discover)  
+euro* - euro (€)  
 Europa - Europa  
 europe - Europe  
 europem - europium  
-europes - euro (€)  
 europi - European  
 europi unisia - European Union (EU)  
 europobalute - English oak  
@@ -859,7 +858,7 @@ fate - deed (fact)
 fater - maker (manufacturer, factor, agent)  
 fateria - factory  
 fatigia - fatigue (weariness)  
-fatigu - tire (wear)  
+fatigu - get tired (become weary)  
 favora - prefer  
 favori - favorite (preferred)  
 faze - stage (phase)  
@@ -907,6 +906,7 @@ fini - last (final)
 fiorde - fjord  
 firuze - turquoise gem  
 fish - fish  
+fishohuke - fishhook  
 fishosaider - fisher  
 fishotanke - fish tank  
 fite - plant (vegetation)  
@@ -960,8 +960,10 @@ Francofonia - Francophonie
 frem - frame  
 frika - rub (scrape, scrub)  
 fuga - return (restore, recover, resume)  
-fuka - wear clothes  
-fuke - clothing  
+fuka - dress (clothe sb.)  
+fuke - clothing (clothes)  
+fuki - wear (have on clothes)  
+fuku - dress (clothe oneself)  
 ful - flower  
 fulu - blossom (bloom)  
 fulvaze - vase (flower pot)  
@@ -1007,7 +1009,6 @@ gamia - marriage (matrimony)
 gamike - spouse (husband or wife)  
 gana - dry out  
 Gana - Ghana  
-ganche - hook  
 Ganda - Uganda  
 gandum - wheat  
 ganga - Ganges  
@@ -1035,11 +1036,11 @@ gatomate - solid
 gatomati - rigid (solid)  
 gaw - top  
 gawa - raise (lift)  
+gawdarji - advanced (high-level)  
+gawdarju - level up (graduate)  
 gawi - high (tall)  
 gawi tanur - blast furnace  
 gawia - height (altitude)  
-gawo darji - advanced (high-level)  
-gawo darju - level up (graduate)  
 gawtali - vertical  
 gawtalu - bob up and down  
 gawu - rise (go up)  
@@ -1091,7 +1092,7 @@ gras - grass
 grasistan - grassland  
 grave - gravel  
 Grenada - Grenada  
-grenadin - the Grenadines  
+Grenadin nesia - the Grenadines  
 grimas - grimace  
 grom - thunder (roaring)  
 gromtafun - thunderstorm  
@@ -1255,6 +1256,8 @@ horizon - horizon
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
+huke - hook  
+hukokrus - swastika (hooked cross)  
 hul - fox  
 humus - chickpea  
 humusosos - hummus  
@@ -1356,6 +1359,7 @@ jampa - jump
 jan - knowledge  
 jana - know (recognize)  
 janel - window  
+janelfrem - window frame  
 janger - artisan (craftsman)  
 jangi - crafty (dexterous)  
 jangle - forest (jungle, woods)  
@@ -1555,7 +1559,7 @@ katan - sword
 Katar - Qatar  
 katoglutobanze - clipboard (paste buffer)  
 katus - cactus  
-kaukasia - Caucasia  
+Kaukasia - Caucasia  
 kava - dig (excavate)  
 kave - pit (excavation, cavity)  
 kawayi - cute (sweet)  
@@ -1700,9 +1704,10 @@ kopernikem - copernicium
 kopiya - copy (replicate)  
 kopiye - copy (replica)  
 kopiyhake - copyright  
-kor - choir (chorus)  
+kora - run  
 koral - coral  
 korde - thread (string, strand, filament, fiber)  
+korer - runner  
 korne - horn  
 kornomelon - horned melon (kiwano)  
 kornonos - rhinoceros  
@@ -2696,6 +2701,8 @@ puding - pudding
 pudu - decay (rot, deteriorate)  
 puja - worship (revere)  
 puje - worship (reveration)  
+pujomeze - altar  
+pujorite - ritual (ceremony, religious custom)  
 pul - bridge  
 pulmon - lung  
 puma* - cougar (puma, mountain lion)  
@@ -2752,9 +2759,7 @@ raria - rarity
 ras - race (breed)  
 rasiste - racist  
 rasistia - racism  
-rasme - custom (tradition, practice, convention)  
 rasmedi - interracial  
-rasmi - conventional (customary, traditional)  
 raste - growth  
 rastu - grow (grow up, expand)  
 ratiba - order (arrange)  
@@ -2805,7 +2810,8 @@ rim - rhyme (verse)
 ris - rice  
 riske - risk  
 riski - risky  
-rite - ritual (ceremony)  
+rite - custom (tradition, practice, convention)  
+riti - conventional (customary, traditional)  
 ritim - rhythm (beat)  
 robote - robot  
 rodem - rhodium  

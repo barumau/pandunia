@@ -123,7 +123,7 @@ almuerzo - denyam
 alojar (hospedar) - domisa  
 alquilar - kirisa  
 alquiler - kir  
-altar - altar  
+altar - pujomeze  
 alternar (interactuar) - soca  
 alternativa (sustituto) - vice  
 alto (parte de arriba) - gaw  
@@ -411,7 +411,7 @@ bromista (chistoso) - joker
 bromo - bromem  
 Brunei - Bruney  
 brújula - pontopin  
-Buda - bude  
+Buda - Bude  
 budismo - budistia  
 budista - budiste  
 buen (hola) - salam (salami)  
@@ -781,14 +781,15 @@ Corea del Norte - Nordi Chosen
 Corea del Sur - Sudi Chosen  
 coreano - Choseni  
 corno - korne  
-coro - kor  
+coro - chantergrupe  
 corona - koron  
 corporal (corpóreo) - badani  
 correa (rein) - lidokorde  
 correcto (justo) - sahi  
+corredor - korer  
 corregir - saha  
 correo - poste  
-correr (esprintar) - esprinta  
+correr - kora  
 corriente de resaca - tirliw  
 corromper (contaminar) - najisa  
 corsario - botokaper  
@@ -804,7 +805,7 @@ Costa de Marfil - Kotedivuar
 Costa Rica - Kosta Rika  
 costar - kosta  
 costumbre (hábito) - ade  
-costumbre (tradición, convención) - rasme  
+costumbre (tradición, convención) - rite  
 costura (sutura) - sutur  
 cota de malla - silnete  
 crecemiento - raste  
@@ -873,7 +874,7 @@ cuántos - ko multo
 cálculo - kalkulia  
 cámara - fotografmashin  
 cárcel - prizonia  
-Cáucaso - kaukasia  
+Cáucaso - Kaukasia  
 célula - cel  
 césped (hierba) - gras  
 círculo - cirke  
@@ -1226,12 +1227,13 @@ estupidez (tontería) - idiotia
 estático (estacionario) - estaci  
 estúpido (tonto) - idioti  
 Esuatini (Suazilandia) - Swati  
+esvástica (cruz gamada) - hukokrus  
 etapa (fase) - faze  
 etimología - logaslia  
 Etiopía - Etiopia  
 etnia - zuke  
 Eurasia - eurasia  
-euro - europes  
+euro - euro*  
 Europa - europe  
 europeo - europi  
 europio - europem  
@@ -1368,7 +1370,7 @@ galleta - biskute
 galés - kamri  
 Gambia - Gambia  
 ganar (cobrar) - ganya  
-gancho (anzuelo, alcayata) - ganche  
+gancho (anzuelo, alcayata) - huke  
 Ganges - ganga  
 garam masala - garmi masal  
 garantía - garante  
@@ -1434,7 +1436,7 @@ gramatical - bashkanuni
 gramo (g) - gram  
 gramática - bashkanun  
 Granada - Grenada  
-Granadinas - grenadin  
+Granadinas - Grenadin nesia  
 grande - day (dayi)  
 granito - granite  
 granjero (agricultor) - nonger  
@@ -1497,6 +1499,7 @@ Haití - Haiti
 halo (aureola) - fotocirke  
 hamaca - hamake  
 hambre - yamnide  
+hamo (anzuelo) - fishohuke  
 hasio - hasem  
 hasta (también) - hato  
 hasta - hata  
@@ -1859,7 +1862,7 @@ llanura - platistan
 llave - chabe  
 llenar - pura  
 lleno (completo) - puri  
-llevar (vestir) - fuka  
+llevar (vestir) - fuki  
 llorar - duku  
 llorar - kuga  
 llover - barshu  
@@ -2170,7 +2173,7 @@ nacionalismo - nasistia
 nacionalista - nasiste  
 nación - nasia  
 nada - nol shey  
-nadar (flotar) - boya  
+nadar (flotar) - boyu  
 nailon (nilón) - nilon  
 Namibia - Namibia  
 nano- - nano-  
@@ -2816,7 +2819,7 @@ rima - rim
 rinoceronte - kornonos  
 rio - nade  
 ritmo - ritim  
-rito (ceremonia) - rite  
+rito (ceremonia) - pujorite  
 riñon - nefre  
 robar (hurtar) - chora  
 roble - balute  
@@ -3203,7 +3206,7 @@ trabajador (obrero) - karer
 trabajar - kara  
 trabajo - kar  
 tradicción (interpretación) - tarje  
-traditional (convencional) - rasmi  
+traditional (convencional) - riti  
 traducir (interpretar) - tarja  
 traductor - tarjer  
 traer - laya  
@@ -3334,8 +3337,10 @@ verme - verme
 vermú - vermute  
 verruga - zeyil  
 versión (modelo) - version  
+verstirse - fuku  
 vertical - gawtali  
 vestigio (sobrante, residuo) - lash  
+vestir - fuka  
 vez - mar  
 viajar - safara  
 viaje - safar  

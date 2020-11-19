@@ -30,7 +30,6 @@ alkol - 酒
 almar - 碗碟橱  
 almas - 钻石  
 alraya - 不同意  
-altar - 圣坛  
 ama - 爱  
 amari - 苦的  
 amarmelon - 苦瓜  
@@ -143,9 +142,10 @@ bote - 船 (艇)
 botel - 瓶  
 botolefte - 左舷  
 botoraite - 右舷  
-boya - 漂浮  
+boyu - 漂浮  
 bruni - 棕色 (色)  
 brunsamon - 褐鳟  
+Bude - 佛陀  
 bufete - 自助餐  
 buke - 书  
 bum - 爆炸  
@@ -157,6 +157,7 @@ ceram - 陶瓷
 cha - 从  
 chakre - 轮子  
 chamache - 匙子  
+chantergrupe - 合唱团  
 chari - 四 (4)  
 chay - 茶  
 chaykope - 茶碗  
@@ -224,7 +225,6 @@ emoje - 绘文字
 englomargarite - 雛菊  
 esa - 对  
 esponje - 海绵  
-esprinta - 跑步  
 estan - 锡  
 estibem - 锑  
 europobalute - 夏櫟  
@@ -242,6 +242,7 @@ filme - 膜
 filsofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
+fishohuke - 鱼钩  
 fishosaider - 鱼夫  
 fitolojia - 植物学  
 fleche - 箭  
@@ -252,6 +253,9 @@ fotograf -  照片 (相片)
 fotominar - 信号  
 frem - 框  
 frika - 擦伤  
+fuke - 衣服  
+fuki - 穿  
+fuku - 穿衣服  
 ful - 花  
 fungopal - 蘑菇  
 ##g
@@ -263,7 +267,6 @@ gadogude - 骡
 galaksia - 恆星系  
 Galia - 高卢  
 galte - 错误  
-ganche - 钩  
 gandum - 麦  
 gangras - 干草  
 garmozon - 热带  
@@ -329,6 +332,8 @@ hogu - 烧
 hoke - 曲棍球  
 hor - 小时  
 hotel - 旅馆  
+huke - 钩  
+hukokrus - 卍 (卐)  
 hul - 狐狸  
 huri - 自由的  
 huria - 自由  
@@ -344,6 +349,7 @@ ive - 趋势
 izia da akses - 無障礙環境  
 ##j
 jana - 知道 (晓得)  
+janelfrem - 窗框  
 janger - 工匠 (匠人)  
 jeka - 借  
 jekodona - 借出  
@@ -438,8 +444,10 @@ kono - 共同 (一起)
 kontini - 指针式的  
 kontrate - 公約  
 kope - 杯子  
+kora - 跑步  
 koral - 珊瑚  
 korde - 线  
+korer - 跑步者  
 kornomelon - 刺角瓜  
 kortokrokodil - 短吻鳄  
 kosmi - 宇宙的  
@@ -674,6 +682,7 @@ problem - 问题 (难题)
 program - 计划  
 puding - 布丁  
 pudu - 腐烂  
+pujomeze - 圣坛  
 pul - 桥  
 puma* - 美洲獅 (山狮)  
 purshipa - 浸泡  

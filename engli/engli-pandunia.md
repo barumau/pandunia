@@ -31,7 +31,7 @@ adjective - sifloge
 adult - matur  
 adultery (infidelity) - zin  
 advance (progress, enter) - jina  
-advanced (high-level) - gawo darji  
+advanced (high-level) - gawdarji  
 advancement (milestone) - jin  
 adventure (venture) - aventur  
 adventurer - aventurer  
@@ -77,7 +77,7 @@ allow (permit) - halala
 almond - badam  
 alphabet - harfia  
 already (completed action) - lewo  
-altar - altar  
+altar - pujomeze  
 alternative (substitute, replacement) - vice  
 aluminium - aluminem  
 always - pan sate  
@@ -95,7 +95,7 @@ Amhara (an Ethiopian ethnic group and language) - amari
 among (amid, between) - medu  
 amount (quantity) - polia  
 ampere (amp) - amper  
-amplify (scale) - daytarja  
+amplify (scale) - daydarja  
 ampoule (vial) - ampul  
 amuse (entertain) - wana  
 anaglyphic (stereoscopic) - dulgrafi  
@@ -442,7 +442,7 @@ brush - brosh
 bubble - lilbol  
 bucket - balde  
 Budapest - Budapesht  
-Buddha - bude  
+Buddha - Bude  
 Buddhism - budistia  
 Buddhist - budiste  
 budget - bujete  
@@ -536,7 +536,7 @@ cat - maw
 Catalonia - katalunia  
 catch (capture, seize, snatch, intercept) - kapa  
 catch fish - kapa fish  
-Caucasia - kaukasia  
+Caucasia - Kaukasia  
 cauldron - dayvaze  
 cause (be the cause for) - saba  
 cause to make - isa  
@@ -601,7 +601,7 @@ chlorine - klorem
 chocolate - chokolate  
 chocolate bar - chokolatobaton  
 choice (election, selection) - chuze  
-choir (chorus) - kor  
+choir (chorus) - chantergrupe  
 cholera - holer  
 Chongqing - Chungking  
 choose (elect, select, pick) - chuza  
@@ -646,7 +646,7 @@ clone (replicate) - klona
 close (shut) - ankaya  
 closed - ankayi  
 cloth (fabric, textile) - tekse  
-clothing - fuke  
+clothing (clothes) - fuke  
 cloud - mege  
 club - klube  
 coast (beach) - haytate  
@@ -735,7 +735,7 @@ content (possession) - ten
 continue (resume) - kontinu  
 continuous (analog) - kontini  
 contribute - fendona  
-conventional (customary, traditional) - rasmi  
+conventional (customary, traditional) - riti  
 cook (chef) - kuker  
 cook (prepare food) - kuka  
 Cook Islands - Kuke nesia  
@@ -814,7 +814,7 @@ curtain - parde
 curve (bend) - kurbe  
 curvy (curved) - kurbi  
 cushion (pillow) - kushen  
-custom (tradition, practice, convention) - rasme  
+custom (tradition, practice, convention) - rite  
 customer (client, patron) - klien  
 cut - kata  
 cute (sweet) - kawayi  
@@ -949,7 +949,7 @@ dot (spot) - binde
 double (multiply by two) - dulo multa  
 double entendre - dulmeni  
 doubt (disbelief) - dute  
-doubtful (suspicious, disbelieving) - duti  
+doubtful (suspicious, disbelieving) - dutani  
 downgrade - darjomala  
 download - netogeta  
 dragon - lung  
@@ -960,6 +960,8 @@ draw - grafa
 drawer - tirsanduke  
 drawing (design) - desen  
 drawing (graph, image) - graf  
+dress (clothe oneself) - fuku  
+dress (clothe sb.) - fuka  
 drill (bore, perforate) - fora  
 drinking vessel (cup, glass, mug) - kope  
 drive (steer) - shofa  
@@ -1065,7 +1067,7 @@ ethnic - zuki
 ethnic group - zuke  
 etymology - logaslia  
 Eurasia - eurasia  
-euro (€) - europes  
+euro (€) - euro*  
 Europa - Europa  
 Europe - europe  
 European - europi  
@@ -1180,6 +1182,7 @@ first (number one) - nombre un
 fish - fish  
 fish tank - fishotanke  
 fisher - fishosaider  
+fishhook - fishohuke  
 five (5) - limi  
 fix (attach) - fiksa  
 fjord - fiorde  
@@ -1191,7 +1194,7 @@ flerovium - flerovem
 fletcher - flecher  
 flint - hogosheke  
 float (buoy, bobber) - boy  
-float (swim) - boya  
+float (swim) - boyu  
 floor - kamartal  
 florist's chrysanthemum - guke  
 flow - liwu  
@@ -1301,6 +1304,7 @@ Germany - Doichia
 gesture - jeste  
 get (receive, obtain, take) - geta  
 get off (descend) - aneskala  
+get tired (become weary) - fatigu  
 getter (receiver, recipient) - geter  
 Ghana - Gana  
 ghost (phantom) - fantom  
@@ -1495,7 +1499,7 @@ honeybee - melvespe
 honeydew (green melon) - lugomelon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onori  
-hook - ganche  
+hook - huke  
 hope (wish) - inshala  
 horizon - horizon  
 hormone - hormon  
@@ -1774,7 +1778,7 @@ letter (character, written symbol) - harfe
 lettuce - letis  
 level - par  
 level down - talo darju  
-level up (graduate) - gawo darju  
+level up (graduate) - gawdarju  
 lever - tirbaton  
 lexeme - logem  
 lexical - logi  
@@ -2739,7 +2743,7 @@ rip current - tirliw
 rise (go up) - gawu  
 risk - riske  
 risky - riski  
-ritual (ceremony) - rite  
+ritual (ceremony, religious custom) - pujorite  
 river (stream) - nade  
 roast - rosta  
 rob (loot, plunder, pillage, ransack) - luta  
@@ -2783,7 +2787,8 @@ rule (be in charge) - sultana
 rule (reign) - kratia  
 ruler - sultaner  
 rum - rum  
-run (sprint) - esprinta  
+run - kora  
+runner - korer  
 rural (rustic) - rusti  
 Russia - Rusia  
 Russian - rusi  
@@ -3170,6 +3175,7 @@ suture (seam) - sutur
 Svalbard - Svalbarde  
 Swahili - suahili  
 swallow - gula  
+swastika (hooked cross) - hukokrus  
 sweat (perspiration) - suede  
 sweaty - suedi  
 Sweden - Svenia  
@@ -3267,7 +3273,7 @@ that (function word to introduce a relative clause) - da
 that (those) - wi  
 that is (in other words, i.e., alias) - alnamo  
 that one - we  
-the Grenadines - grenadin  
+the Grenadines - Grenadin nesia  
 theft - chor  
 theism - dewistia  
 theist - dewiste  
@@ -3311,7 +3317,6 @@ time (period, epoch, era) - zaman
 Timor - Timor  
 tin - estan  
 tiny (mini-) - mini  
-tire (wear) - fatigu  
 Titan - Titan  
 titanem - titanem  
 Titania - Titania  
@@ -3547,7 +3552,7 @@ we - mome
 weak - debili  
 wealth (fortune) - richia  
 weapon (arms) - arme  
-wear clothes - fuka  
+wear (have on clothes) - fuki  
 weather - tenke  
 weave - teksa  
 website - netoloke  
@@ -3591,6 +3596,7 @@ will (want) - icha
 win (triumph, succeed, accomplish) - shenga  
 wind - haw  
 window - janel  
+window frame - janelfrem  
 wine - vin  
 winery - vineria  
 wing - wing  

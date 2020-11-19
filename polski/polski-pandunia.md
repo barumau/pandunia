@@ -183,7 +183,7 @@ biały - baki
 Biblia - biblia  
 biblioteka - kitabia  
 bibliotekarz - kitabominister  
-biec (biegać, pędzić) - esprinta  
+biec (biegać, pędzić) - kora  
 biedny, mizerny - miskini  
 bilet - tikete  
 bilet powrotny - retrotikete  
@@ -238,7 +238,7 @@ brzoza - berje
 brzuch - pete  
 brzydki - malrupi  
 brązowy, koloru kawy - bruni  
-Budda - bude  
+Budda - Bude  
 buddysta - budiste  
 Buddyzm - budistia  
 budynek (struktura) - bin  
@@ -331,7 +331,7 @@ Chrystus, mesjasz - kriste
 chrześcijanin - krististe  
 chrześcijaństwo - krististia  
 chwalić (wychwalać) - halela  
-chór - kor  
+chór - chantergrupe  
 chłopak - jovani man  
 ciasto, ciastko - keke  
 ciało - badan  
@@ -495,7 +495,7 @@ droga osoba - amike
 droga, szosa, ulica - daw  
 drożdże - hamir  
 drużyna - tim  
-dryfować (pływać, płynąć) - boya  
+dryfować (pływać, płynąć) - boyu  
 drzewo - moke  
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - chira  
 drzwi wyjściowe - chutomun  
@@ -608,7 +608,7 @@ etniczny - zuki
 etyka - darmoloji  
 etymologia - logaslia  
 Eurazja - eurasia  
-euro (€) - europes  
+euro (€) - euro*  
 europ - europem  
 Europa - europe  
 europejski - europi  
@@ -740,7 +740,7 @@ grać, odgrywać rolę - rola
 Grecja - Helenia  
 grejpfrut - putawlimon  
 Grenada - Grenada  
-Grenadyny - grenadin  
+Grenadyny - Grenadin nesia  
 Grenlandia - Kalalia  
 grillować - kababa  
 grom, huk - grom  
@@ -790,9 +790,10 @@ główny - shefi
 głęboki - fasteli  
 głębokość - fastelia  
 ##h
+haczyk - fishohuke  
 hafn - hafnem  
 Haiti - Haiti  
-hak - ganche  
+hak - huke  
 halo, cześć - halo*  
 hamak - hamake  
 han chiński - chini  
@@ -1036,7 +1037,7 @@ kaszel; kaszlnięcie - kos
 kasztan - kastan  
 Katalonia - katalunia  
 Katar - Katar  
-Kaukazja - kaukasia  
+Kaukazja - Kaukasia  
 kawa - kafe*  
 kawiarnia - kafeshope  
 Kazachstan - Kazahia  
@@ -1141,7 +1142,7 @@ konsekwencja, skutek - bade
 konstytucja - bazokanun  
 kontynuować; wznawiać, ponawiać - kontinu  
 konwalia majowa - vadosusan  
-konwencjonalny, zwyczajowy, tradycyjny - rasmi  
+konwencjonalny, zwyczajowy, tradycyjny - riti  
 kopalnia - kuangia  
 kopać (wydobywać) - kuanga  
 kopernik - kopernikem  
@@ -1682,7 +1683,7 @@ Niemcy - Doichia
 niemiecki - doichi  
 niemowlę - bebe  
 nienawidzić - hen  
-niepewny (podejrzliwy, niedowierzący) - duti  
+niepewny (podejrzliwy, niedowierzący) - dutani  
 niepokój - anpace  
 niepotrzebny - annidi  
 nieskończoność - anlimitia  
@@ -1716,7 +1717,7 @@ normalny, standardowy - normi
 Norwegia - Norge  
 norweski - norgi  
 nos - nos  
-nosić ubrania - fuka  
+nosić ubrania - fuki  
 nosorożec - kornonos  
 nosowy - nosi  
 nostalgia (tęsknota) - nostalgia  
@@ -1765,7 +1766,7 @@ obrócić się (kręcić się) - rotu
 obserwator (widz) - vider  
 obsydian - osidian  
 obudzić, budzić - weka  
-obyczaj, zwyczaj, tradycja, praktyka, konwencja - rasme  
+obyczaj, zwyczaj, tradycja, praktyka, konwencja - rite  
 obywatel - deshren  
 obóz - kamper  
 ocean - dayhay  
@@ -1871,7 +1872,7 @@ owca - mehe
 owinięcie (koperta, okładka) - lifaf  
 owoc - pal  
 owoc kiwi - kiwi*  
-ołtarz - altar  
+ołtarz - pujomeze  
 ołów - plumbe  
 oś - akse  
 ośmiornica - balsenter  
@@ -2488,7 +2489,7 @@ rym (wers) - rim
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
-rytuał, ceremonia, ryt - rite  
+rytuał, ceremonia, ryt - pujorite  
 ryzyko - riske  
 ryzykowny - riski  
 ryś - lince  
@@ -2740,6 +2741,7 @@ surowy (niedojrzały) - jeni
 sushi - sushi*  
 suszyć (wysuszyć) - gana  
 Swalbard - Svalbarde  
+swastyka - hukokrus  
 Syberia - sibiria  
 syn - mani pute  
 sypialnia - sonkamar  
@@ -3273,7 +3275,7 @@ wytwórca łuków i strzał - flecher
 wyć - ulula  
 wyświetlać - lancografa  
 wzajemny - unali  
-wzmacniać (wzmocnić) - daytarja  
+wzmacniać (wzmocnić) - daydarja  
 wzmacniać się (wzmagać, pogłębiać się) - tezu  
 wzmocnić (wzmocnić, wzmóc) - forta  
 wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się) - gawu  
