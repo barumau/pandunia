@@ -728,9 +728,11 @@ duman - smoke
 duni - global  
 dunia - world  
 dunia bash - world language  
-dur - duration  
-dura - last (take time, during)  
-duru - pass (of time)  
+dur - time (duration, quantity of time)  
+dura - pass (spend time, put time into)  
+duriki - chronic (lasting)  
+durmetrer - stopwatch  
+duru - last (take time; during)  
 durubli - durable (sustainable)  
 dush - shower  
 dutabli - dubious (suspicious, unbelievable)  
@@ -1253,6 +1255,8 @@ Hong Gong - Hong Kong, SAR China
 honi - hundred (##)  
 hor - hour  
 horizon - horizon  
+horloger - clock (watch)  
+horlogerminar - clocktower  
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
@@ -1941,6 +1945,9 @@ london - London
 longa - lengthen (prolong)  
 longi - long (lengthy)  
 longia - length  
+longo - long (over a gread distance)  
+longoduri - long (long-lasting, prolonged)  
+longoduro - for a long time  
 longokrokodil - crocodile  
 longopipre - long pepper (pipli)  
 lontre - otter  
@@ -2777,8 +2784,6 @@ redi - ready
 rege - sand  
 registan - desert  
 regopetre - sandstone  
-reloje - clock (watch)  
-relojominar - clocktower  
 ren - person (people)  
 renem - rhenium  
 rentogenem - roentgenium  
@@ -2963,7 +2968,6 @@ seksa - have sex
 sekse - sex (sexual relation)  
 seksi - sexy (sexually arousing)  
 sekunde - second(s)  
-sekundometer - stop watch  
 sekura - protect (secure, save)  
 sekuri - safe (secure, protected)  
 sekuri kopiye - backup  

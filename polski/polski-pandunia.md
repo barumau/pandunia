@@ -325,6 +325,7 @@ Chorwacja - Horvatia
 chory - pati  
 chować (kryć) - sira  
 chrom - kromem  
+chroniczny - duriki  
 chronić (ratować) - sekura  
 chronić, strzec,  osłaniać, bronić - garda  
 Chrystus, mesjasz - kriste  
@@ -1490,7 +1491,7 @@ minimalizm - minimalistia
 minister - minister  
 ministry - ministeria  
 minuta - minute  
-minąć, mijać (czas) - duru  
+minąć, mijać (czas) - dura  
 minąć, mijać, przeminąć, przemijać - pasa  
 misja - misia  
 mistrz (ekspert) - mester  
@@ -2705,7 +2706,7 @@ stokrotka pospolita - englomargarite
 stolarz - mokojanger  
 stop; przerwa, zatrzymanie - ting  
 stopa - fute  
-stoper - sekundometer  
+stoper (sekundomierz) - durmetrer  
 stopień Celsjusza - celsius darje  
 stopień, poziom, ranga, klasa - darje  
 stopniowy - darji  
@@ -2935,7 +2936,7 @@ trucizna (toksyna) - tokse
 trudność (trud) - kunan  
 trudny (ciężki) - kunani  
 trwanie - dur  
-trwać, zająć czas; przez - dura  
+trwać, zająć czas; przez - duru  
 trwały (wytrzymały, podtrzymywalny) - durubli  
 tryb nocny - nochomode  
 Trynidad i Tobago - Trinidade e Tobago  
@@ -3152,7 +3153,7 @@ wiewiórka - ekor
 wieś, tereny wiejskie - rustia  
 wieś, wioska - ruste  
 wieża - minar  
-wieża zegarowa - relojominar  
+wieża zegarowa - horlogerminar  
 wiki - wikia  
 wilk - wolfe  
 wina, grzech; defekt, wada - dosh  
@@ -3411,7 +3412,7 @@ zdrada małżeńska, cudzołóstwo - zin
 zdrowie - sihe  
 zdrowy - sihi  
 zebra - zebre  
-zegar (zegarek) - reloje  
+zegar (zegarek) - horloger  
 zejść (schodzić, zstąpić, zstępować) - aneskala  
 zemleć (mleć, mielić) - mola  
 zero, nic, żaden - nol (noli)  

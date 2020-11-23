@@ -410,7 +410,8 @@ duni - tera
 dunia - mondo  
 dunia bash - mondlingvo  
 dur - daŭro  
-dura - daŭri (dum)  
+dura - daŭrigi  
+duru - daŭri (dum)  
 dush - duŝo  
 dute - dubo  
 duwa - preĝi  
@@ -709,6 +710,7 @@ holmem - holmio
 Honduras - Honduro  
 honi - cent  
 hor - horo  
+horloger - horloĝo  
 hormon - hormono  
 Horvatia - Kroatio  
 hotel - hotelo  
@@ -1357,7 +1359,6 @@ raya - opinii
 redi - preta  
 rege - sablo  
 registan - dezerto  
-reloje - horloĝo  
 ren - persono  
 renem - renio  
 rentogenem - rentgenio  

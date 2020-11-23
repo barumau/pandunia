@@ -232,6 +232,9 @@ dulbashi - двуязычный
 duli - два (2)  
 duli o tini - пара  
 dunia - мир (свет)  
+duriki - хронический  
+durmetrer - секундомер  
+duru - длиться  
 durubli - долговечный  
 ##e
 ekojeni - дикий  
@@ -360,6 +363,7 @@ hogotehne - фейерверк
 hoke - хоккей  
 hor - час  
 horizoni - horizontal  
+horloger - часы  
 hotel - гостиница (отель)  
 huke - крюк (гак)  
 hukokrus - свастика  
@@ -546,6 +550,9 @@ logi - лексический
 logia - словарь  
 loka - ставить  
 loke - место  
+longo - далеко  
+longoduri - долгий (длительный)  
+longoduro - долго  
 longopipre - перец длинный  
 lontre - выдра  
 lugi - зелёный  
@@ -783,7 +790,7 @@ samsifia - симуляция
 sanduiche - сандвич  
 sanduke - сундук  
 sang - кровь  
-sapate - حِذَاء  
+sapate - туфля  
 sape - мотыга  
 sar - голова  
 Saturne - Сатурн  

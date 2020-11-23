@@ -686,9 +686,11 @@ duman - savu
 duni - maailman-  
 dunia - maailma  
 dunia bash - maailmankieli  
-dur - kesto (kestoaika)  
-dura - kestää (viedä aikaa)  
-duru - kulua (ajasta)  
+dur - aika (kesto, kestoaika)  
+dura - kuluttaa (viettää aikaa)  
+duriki - kestävä (krooninen)  
+durmetrer - sekuntikello  
+duru - kestää (viedä aikaa)  
 durubli - kestävä  
 dush - suihku  
 dutabli - epäilyttävä  
@@ -1174,6 +1176,8 @@ Honduras - Honduras
 Hong Gong - Hong Kong  
 honi - sata (##)  
 hor - tunti  
+horloger - kello (ajannäyttäjä)  
+horlogerminar - kellotorni  
 hormon - hormoni  
 Horvatia - Kroatia  
 hotel - hotelli  
@@ -1731,6 +1735,9 @@ lona - keskustelu (debatti)
 longa - pidentää  
 longi - pitkä  
 longia - pituus  
+longo - pitkästi (kauas)  
+longoduri - pitkäaikainen (pitkäkestoinen)  
+longoduro - kauan (pitkän aikaa)  
 longopipre - pitkäpippuri  
 los - ruuvi  
 lote - erä (satsi)  
@@ -2585,7 +2592,6 @@ sekreteria - sihteeristö
 sekse - seksi (sukupuolisuhde)  
 seksi - seksikäs  
 sekunde - sekunti  
-sekundometer - sekuntikello  
 sekura - suojella (suojata, turvata)  
 sekuri - turvallinen (varma)  
 selenem - seleeni  

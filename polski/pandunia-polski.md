@@ -708,8 +708,10 @@ duni - globalny
 dunia - świat  
 dunia bash - język świata, język ogólnoświatowy  
 dur - trwanie  
-dura - trwać, zająć czas; przez  
-duru - minąć, mijać (czas)  
+dura - minąć, mijać (czas)  
+duriki - chroniczny  
+durmetrer - stoper (sekundomierz)  
+duru - trwać, zająć czas; przez  
 durubli - trwały (wytrzymały, podtrzymywalny)  
 dush - prysznic  
 dutabli - wątpliwy (niewiarygodny, podejrzany)  
@@ -1209,6 +1211,8 @@ honi - sto (##)
 hor - godzina  
 horizon - horyzont  
 horizoni - poziomy (horyzontalny)  
+horloger - zegar (zegarek)  
+horlogerminar - wieża zegarowa  
 hormon - hormon  
 Horvatia - Chorwacja  
 hotel - hotel  
@@ -2698,8 +2702,6 @@ redi - gotowy
 rege - piasek, piach  
 registan - pustynia  
 regopetre - piaskowiec  
-reloje - zegar (zegarek)  
-relojominar - wieża zegarowa  
 ren - osoba; ludzie  
 renem - ren  
 rentogenem - roentgen  
@@ -2881,7 +2883,6 @@ seksa - kochać się, uprawiać seks
 sekse - seks, stosunek płciowy  
 seksi - seksowny, ponętny  
 sekunde - sekunda  
-sekundometer - stoper  
 sekura - chronić (ratować)  
 sekuri - bezpieczny  
 sekurkode - hasło  

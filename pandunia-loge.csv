@@ -727,9 +727,11 @@ duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben
 duni||||global||global (mundial)|||||||||||||tera|maailman-|globalny
 dunia|||may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
 dunia bash||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
-dur|||eng:duration, fra:durée, spa:por:durar, deu:dauer|duration||duración|||||||||||||daŭro|kesto (kestoaika)|trwanie
-dura|coverb|||last (take time, during)||durar (durante, llevar tiempo)|||||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
-duru||||pass (of time)||pasar (transcurrir)||||||||||||||kulua (ajasta)|minąć, mijać (czas)
+dur|||eng:duration, fra:durée, spa:por:durar, deu:Dauer|time (duration, quantity of time)|temps (durée)|tiempo (duración)|tempo (duração)|||时间||||समय (वक़्त)||waktu|wakati|vakit|daŭro|aika (kesto, kestoaika)|trwanie
+dura||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||||||||daŭrigi|kuluttaa (viettää aikaa)|minąć, mijać (czas)
+duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
+durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
+duru||||last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
 durubli||||durable (sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä|trwały (wytrzymały, podtrzymywalny)
 dush|||fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|shower||ducha|||||||||||||duŝo|suihku|prysznic
 dutabli||||dubious (suspicious, unbelievable)||||||||||||||||epäilyttävä|wątpliwy (niewiarygodny, podejrzany)
@@ -1251,6 +1253,8 @@ honi|||eng:hundred|hundred (100)||cien (100)|||||百 (１００)||||||||cent|sat
 hor|||fra:heure, eng:hour, spa:por:hora|hour|heure|hora|hora|час|سَاعَة|小时|時 (１時間)|시|giờ|घंटा|ঘন্টা|jam|saa|saat|horo|tunti|godzina
 horizon||||horizon||horizonte|||||||||||||||horyzont
 horizoni|||eng:spa:fra:por:horizontal, rus:горизонта́льный (gorizontal’nyy)|||horizontal (lateral)||horizontal|||||||||||||poziomy (horyzontalny)
+horloger|||lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji.|clock (watch)|horloge|reloj|relógio|часы|ساعة‎|钟|時計|시계|đồng hồ|घड़ी|ঘড়ি|jam (jam dinding)|saa|saat|horloĝo|kello (ajannäyttäjä)|zegar (zegarek)
+horlogerminar||||clocktower||torre del reloj||||||||||||||kellotorni|wieża zegarowa
 hormon||||hormone||hormona|||||||||||||hormono|hormoni|hormon
 Horvatia|desh|HR||Croatia||Croacia|||||||||||||Kroatio|Kroatia|Chorwacja
 hotel|||eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|hotel|hôtel|hotel (albergue)|hotel|гостиница (отель)||旅馆|ホテル (旅館)|호텔 (여관)|khách sạn (lữ quán)|होटल|হোটেল|hotel|hoteli|otel|hotelo|hotelli|hotel
@@ -1936,6 +1940,9 @@ london||||London|||||||||||||||||Londyn
 longa||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
 longi|||eng:fra:long, deu:lang, por:longo|long (lengthy)|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)||panjang|uzun|longa|pitkä|długi
 longia||||length||largo (longitud)||||||||||||||pituus|długość
+longo||||long (over a gread distance)|loin|lejos||далеко||||||||||||pitkästi (kauas)|
+longoduri||||long (long-lasting, prolonged)|prolongé|perdurable (longevo, prolongado)|prolongado|долгий (длительный)||||||||||||pitkäaikainen (pitkäkestoinen)|
+longoduro||||for a long time|longtemps||por muito tempo|долго||久||||||||||kauan (pitkän aikaa)|
 longokrokodil|biw|Crocodylidae||crocodile|crocodile|cocodrilo|crocodilo||||クロコダイル||||||||||krokodyl
 longopipre|biw|Piper longum||long pepper (pipli)|poivre long|||перец длинный||荜拔|畢撥|필발||पिप्पली|পিঁপুল|||||pitkäpippuri|pieprz długi
 lontre|biw|Lutrinae|spa:tgl:lutrino, fra:loutre, por:lontra, ita:lontra|otter|loutre|nutria|lontra|выдра||獭|獺||||||||||wydra
@@ -2771,8 +2778,6 @@ redi|||eng:ready, fra:prêt, mao:reri|ready||listo (preparado)|||||||||||||preta
 rege|||fas:(rig), hin:रेग (reg), urd:(reg)|sand||arena|||||||||||||sablo|hiekka|piasek, piach
 registan||||desert||desierto|||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
 regopetre||||sandstone|grès||||||砂岩||||||||||piaskowiec
-reloje|||spa:reloj. por:relógio. fra:horloge. ita:orologio. may:arloji.|clock (watch)|horloge|reloj|relógio|||钟|時計||||||||horloĝo||zegar (zegarek)
-relojominar||||clocktower||torre del reloj|||||||||||||||wieża zegarowa
 ren|||zho: 人 (rén)|person (people)||persona (gente)|||||人||||||||persono|henkilö|osoba; ludzie
 renem|mate|Re||rhenium||renio|||||||||||||renio|rhenium|ren
 rentogenem|mate|Rg||roentgenium||roentgenio|||||||||||||rentgenio|röntgenium|roentgen
@@ -2936,7 +2941,7 @@ Santi Paulo||||Sao Paulo|||São Paulo||||||||||||||São Paulo
 Santi Tome e Prinsipe|desh|ST||Sao Tome and Principe||Santo Tomé y Príncipe||||||||||||||Sao Tome ja Principe|Wyspy Świętego Tomasza i Książęca
 Santi Vincente||||Saint Vincent||Isla de San Vicente|||||||||||||||Saint Vincent
 Santi Vincente e Grenadine|desh|VC||Saint Vincent and Grenadines||San Vicente y las Granadinas|||||||||||||||Saint Vincent and Grenadines
-sapate|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|chaussure||zapato|туфля|حِذَاء|鞋|鞋|||जूता||sepatu|kiatu (sapatu)|||ŝuo|kenkä|but
+sapate|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|chaussure||zapato||туфля|حِذَاء|鞋|鞋|||जूता||sepatu|kiatu (sapatu)||ŝuo|kenkä|but
 sapater||||shoemaker||zapatero|||||||||||||ŝuisto|suutari|szewc
 sapateria||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suutarin paja|warsztat szewski
 sape|||ita:zappa, rom:sapă, tur:çapa, tha:จอบ (chop)|hoe|houe|azada|enxada|мотыга||锄|クワ||||||||||motyka
@@ -2956,7 +2961,6 @@ seksa||||have sex||tener sexo|||||||||||||||kochać się, uprawiać seks
 sekse|||eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|sex (sexual relation)||sexo|||||||||||||sekso|seksi (sukupuolisuhde)|seks, stosunek płciowy
 seksi||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny, ponętny
 sekunde|||eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)|second(s)||segundo||||||||||||||sekunti|sekunda
-sekundometer||||stop watch||cronómetro||||||||||||||sekuntikello|stoper
 sekura||||protect (secure, save)||proteger (asegurar, guardar)||||||||||||||suojella (suojata, turvata)|chronić (ratować)
 sekuri|||eng:secure, deu:sicher, spa:por:seguro|safe (secure, protected)|sûr|seguro|seguro|||||||||||||turvallinen (varma)|bezpieczny
 sekuri kopiye||||backup||copia de seguridad|||||バックアップ (控え)||||||||||

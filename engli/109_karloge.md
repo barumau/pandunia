@@ -192,6 +192,8 @@ The verb types are summarized in the table below.
 | arrival        |                | come, arrive   |bring, make come|
 | **fuke**       | **fuki**       | **fuku**       | **fuka**       |
 | clothing       | wear, worn     | get dressed    |dress, make wear|
+| **dur**        | **duri**       | **duru**       | **dura**       |
+| time, duration | lasting        | last, take time| spend, put time|
 
 
 ## Participles

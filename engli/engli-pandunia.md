@@ -610,6 +610,7 @@ Christian - krististe
 Christianity - krististia  
 Christmas - kristojen  
 chromium - kromem  
+chronic (lasting) - duriki  
 chum salmon - bakosamon  
 church - eglis  
 cigarette (cigar) - sigar  
@@ -638,8 +639,8 @@ climatology - klimlojia
 climb (get on) - eskala  
 clipboard (paste buffer) - katoglutobanze  
 clipboard (physical board) - pincobanze  
-clock (watch) - reloje  
-clocktower - relojominar  
+clock (watch) - horloger  
+clocktower - horlogerminar  
 clockwise - soldisho  
 clone (replica) - klon  
 clone (replicate) - klona  
@@ -979,7 +980,6 @@ dumpling (ravioli, pelmeni) - pelmen
 dungeon (underground prison) - zemnichi prizon  
 dungeon crawl - aventur da donjon  
 durable (sustainable) - durubli  
-duration - dur  
 duruka - yamshukargras  
 dust (powder) - fun  
 dye - rangomate  
@@ -1210,6 +1210,7 @@ food (meal) - yam
 fool (buffoon) - bufon  
 foot - fute  
 football (soccer) - futobol  
+for a long time - longoduro  
 for example - misalo  
 forbid (ban, disallow) - harama  
 forbidden (illicit, haram, taboo) - harami  
@@ -1734,7 +1735,7 @@ lapis lazuli - lazuar
 larva (maggot, caterpillar) - larve  
 lasagna - lazanye  
 last (final) - fini  
-last (take time, during) - dura  
+last (take time; during) - duru  
 later (after) - bado  
 lateral - lati  
 Latin alphabet - latini abace  
@@ -1840,6 +1841,8 @@ logical - logiki
 logophile (word buff) - logofiler  
 London - london  
 long (lengthy) - longi  
+long (long-lasting, prolonged) - longoduri  
+long (over a gread distance) - longo  
 long pepper (pipli) - longopipre  
 longitude - westodongia  
 look (see) - vida  
@@ -2376,7 +2379,7 @@ party (celebration, festival) - feste
 party (group) - partia  
 pascal (Pa) - paskal  
 pass (go by, go past) - pasa  
-pass (of time) - duru  
+pass (spend time, put time into) - dura  
 passive (inactive) - pasivi  
 passport - pasporte  
 password (security code) - sekurkode  
@@ -3113,8 +3116,8 @@ stone (piece of rock) - sheke
 stop (halt) - tinga  
 stop (halt) - tingu  
 stop - ting  
-stop watch - sekundometer  
 stopper (cap, peg, tap) - tape  
+stopwatch - durmetrer  
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
 straight - orti  
 straighten - orta  
@@ -3312,6 +3315,7 @@ tiger - bagre
 tikka masala - masali tike  
 tile - tail  
 tilt (skew) - tercha  
+time (duration, quantity of time) - dur  
 time (instance, occasion) - mar  
 time (period, epoch, era) - zaman  
 Timor - Timor  

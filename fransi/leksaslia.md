@@ -144,6 +144,7 @@
 |**duga**|lire|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |**duli**|deux (2)|kor:둘 (dul), ben:দুই (dui), may:dua, + eng:fra:por:spa:dual|
 |**dunia**|monde|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
+|**dur**|temps (durée)|eng:duration, fra:durée, spa:por:durar, deu:Dauer|
 |**e**|et|fra:et, por:e, zho:和 (hé)|
 |**ekor**|écureuil|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|
 |**eletre**|électricité|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
@@ -210,6 +211,7 @@
 |**hoge**|feu|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
 |**hoke**|hockey|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|
 |**hor**|heure|fra:heure, eng:hour, spa:por:hora|
+|**horloger**|horloge|lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji.|
 |**hotel**|hôtel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |**huke**|crochet|eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
 |**hul**|renard|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
@@ -435,7 +437,6 @@
 |**rapidi**|vite (rapide)|spa:por:rápido, eng:rapid, fra:rapide|
 |**rari**|rare|eng:fra:rare, spa:por:raro, jpn:レア (rea)|
 |**ras**|race|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
-|**reloje**|horloge|spa:reloj. por:relógio. fra:horloge. ita:orologio. may:arloji.|
 |**reste**|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |**retro**|en arrière|eng:spa:por:deu:retro-, fra:rétro-, rus:ретро- (retro-)|
 |**rey**|répétition|eng:fra:por:spa:re-, rus:ре- (re-)|

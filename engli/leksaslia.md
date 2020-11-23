@@ -291,7 +291,7 @@
 |**dum**|tail|Persian:دنب (dunb), Hindi:दुम (dum)|
 |**duman**|smoke|Hindi:धूआँ (dhuã), Turkish:duman, Russian:дым (dym), Kannada:(dhūma), Bengali:ধোঁয়া (dhõẇa)|
 |**dunia**|world|Malay:Swahili:dunia, Arabic:(dunyā), hindi:दुनिया (duniyā), Urdu:(duniyā), Hausa:duniya, Persian:(donya)|
-|**dur**|duration|English:duration, French:durée, Spanish:Portuguese:durar, deu:dauer|
+|**dur**|time (duration, quantity of time)|English:duration, French:durée, Spanish:Portuguese:durar, deu:Dauer|
 |**dush**|shower|French: douche, deu:Dusche, Turkish:duş, Russian:душ (duš), Arabic:(duš), Spanish:Portuguese:ducha|
 |**dute**|doubt (disbelief)|French:doute, English:doubt, Spanish:Filipino:duda|
 |**duwa**|pray|Turkish: dua, Swahili: dua, Malay: doa, Arabic: دُعَاء‏  (duʿāʾ)|
@@ -500,6 +500,7 @@
 |**holi**|whole (entire)|English:whole, Spanish:Portuguese:holo-|
 |**honi**|hundred (100)|English:hundred|
 |**hor**|hour|French:heure, English:hour, Spanish:Portuguese:hora|
+|**horloger**|clock (watch)|lat:horologium, French:horloge, Italian:orologio, Spanish:reloj, Portuguese:relógio, Malay:arloji.|
 |**hotel**|hotel|English:deu:Spanish:Portuguese:Malay:hotel, French:hôtel, Hindi:होटल (hoṭal), Bengali:হোটেল (hoṭel), Japanese:ホテル (hoteru), Korean:호텔 (hotel), Russian:отель (otel)|
 |**huke**|hook|English:hook, deu:Haken, Russian: гак (gak), Polish:hak, Hindi:हुक (huk), Bengali:হুক (huk), Malay:hak|
 |**hul**|fox|Mandarin:狐狸 (húlí), Cantonese:狐狸 (wu4 lei4-2)|
@@ -1107,7 +1108,6 @@
 |**recete**|instructions (recipe)|Italian:ricetta, Russian:рецепт (retsept), deu:Rezept, Spanish:receta, Portuguese:receita, French:recette, Malay:resep|
 |**redi**|ready|English:ready, French:prêt, mao:reri|
 |**rege**|sand|Persian:(rig), Hindi:रेग (reg), Urdu:(reg)|
-|**reloje**|clock (watch)|Spanish:reloj. Portuguese:relógio. French:horloge. Italian:orologio. Malay:arloji.|
 |**ren**|person (people)|Mandarin: 人 (rén)|
 |**reside**|receipt (acknowledgement)|Persian:(resid), Hindi:रसीद (rasīd), Urdu:(rasīd), Gujarati:રસીદ (rasīd), Telugu:రసీదు (rasīdu), + English:receipt, Swahili:resiti, Malay:resit|
 |**reste**|rest (remainder)|French:reste, English:deu:Rest, Polish:reszta, Spanish:Portuguese:resto|

@@ -261,7 +261,8 @@ danĝero - hatre
 dato - nenmesden  
 datumbanko - datobanke  
 datumo - date  
-daŭri (dum) - dura  
+daŭri (dum) - duru  
+daŭrigi - dura  
 daŭro - dur  
 de (el, pro) - cha  
 de (partiklo de posedo) - da  
@@ -589,7 +590,7 @@ homo - insan
 Honduro - Honduras  
 honoro (respekto) - onor  
 honto - sharme  
-horloĝo - reloje  
+horloĝo - horloger  
 hormono - hormon  
 horo - hor  
 hotelo - hotel  

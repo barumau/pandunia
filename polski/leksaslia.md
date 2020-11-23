@@ -288,7 +288,7 @@
 |**dum**|ogon|fas:دنب (dunb), hin:दुम (dum)|
 |**duman**|dym|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |**dunia**|świat|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
-|**dur**|trwanie|eng:duration, fra:durée, spa:por:durar, deu:dauer|
+|**dur**|trwanie|eng:duration, fra:durée, spa:por:durar, deu:Dauer|
 |**dush**|prysznic|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |**dute**|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność|fra:doute, eng:doubt, spa:tgl:duda|
 |**duwa**|pomodlić się, modlić się|tur: dua, swa: dua, may: doa, ara: دُعَاء‏  (duʿāʾ)|
@@ -496,6 +496,7 @@
 |**honi**|sto (100)|eng:hundred|
 |**hor**|godzina|fra:heure, eng:hour, spa:por:hora|
 |**horizoni**|poziomy (horyzontalny)|eng:spa:fra:por:horizontal, rus:горизонта́льный (gorizontal’nyy)|
+|**horloger**|zegar (zegarek)|lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji.|
 |**hotel**|hotel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |**huke**|hak|eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
 |**hul**|lis|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
@@ -1097,7 +1098,6 @@
 |**recete**|recepta, receptura, przepis|ita:ricetta, rus:рецепт (retsept), deu:Rezept, spa:receta, por:receita, fra:recette, may:resep|
 |**redi**|gotowy|eng:ready, fra:prêt, mao:reri|
 |**rege**|piasek, piach|fas:(rig), hin:रेग (reg), urd:(reg)|
-|**reloje**|zegar (zegarek)|spa:reloj. por:relógio. fra:horloge. ita:orologio. may:arloji.|
 |**ren**|osoba; ludzie|zho: 人 (rén)|
 |**reside**|paragon, pokwitowanie|fas:(resid), hin:रसीद (rasīd), urd:(rasīd), guj:રસીદ (rasīd), tel:రసీదు (rasīdu), + eng:receipt, swa:resiti, may:resit|
 |**reste**|pozostałość, reszta|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|

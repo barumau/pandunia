@@ -833,7 +833,7 @@ criticar (evaluar) - pipinga
 Croacia - Horvatia  
 crocodilio - krokodil  
 cromo - kromem  
-cronómetro - sekundometer  
+cronómetro - durmetrer  
 cruasán - kruasante  
 crucificar - krusfiksa  
 crudo - jeni  
@@ -842,6 +842,7 @@ cruzar - krusa
 cráneo (calavera) - saroste  
 crítico (fundamental) - krizi  
 crítico - pipinger  
+crónico - duriki  
 cuaderno (libreta) - notobuke  
 cuadro - chargon  
 cualidad (atributo, descripción) - sif  
@@ -1041,8 +1042,7 @@ ducha - dush
 duda - dute  
 dueño - malker  
 durable - durubli  
-duración - dur  
-durar (durante, llevar tiempo) - dura  
+durar (durante, llevar tiempo) - duru  
 duro - gati  
 dátil - tamar  
 débil - debili  
@@ -1800,6 +1800,7 @@ lechuga - letis
 leer - duga  
 legumbre (frijol o arveja) - dow  
 lejano (lejos) - teli  
+lejos - longo  
 lengua (idioma) - bash  
 lengua - lisan  
 lengua materna - jeni bash  
@@ -2413,7 +2414,7 @@ parámetro - param
 pasa (uva pasa) - ganputaw  
 pasado - pas  
 pasaporte - pasporte  
-pasar (transcurrir) - duru  
+pasar (transcurrir) - dura  
 pasar - pasa  
 pasatiempo (hobby, afición) - hobe  
 pascal (Pa) - paskal  
@@ -2468,6 +2469,7 @@ pera - leze
 perdedor - luzer  
 perder (fallar) - luza  
 perder - luza tena  
+perdurable (longevo, prolongado) - longoduri  
 perdón - pardon  
 perfeccionar - purbona  
 perfecto - purboni  
@@ -2768,7 +2770,7 @@ relatar (narrar) - saga
 religioso - dini  
 religión - din  
 reliquia - puran  
-reloj - reloje  
+reloj - horloger  
 relámpago - eletrorade  
 remitente - miser  
 remojar (marinar, encurtir, macerar) - purshipa  
@@ -3157,6 +3159,7 @@ tesoro - baw
 teísmo - dewistia  
 teísta - dewiste  
 tiburón - sharke  
+tiempo (duración) - dur  
 tiempo (periodo) - zaman  
 tierra (barro) - darte  
 tierra - zem  
@@ -3196,7 +3199,7 @@ tormenta (tempestad) - tafun
 tormenta - gromtafun  
 tornillo - los  
 torre - minar  
-torre del reloj - relojominar  
+torre del reloj - horlogerminar  
 torso - torse  
 tortuga - tortuge  
 tos - kos  

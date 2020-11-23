@@ -212,7 +212,7 @@
 |**dum**|vosto|persa:دنب (dunb), hindia:दुम (dum)|
 |**duman**|fumo|hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)|
 |**dunia**|mondo|malaja:svahila:dunia, araba:(dunyā), hindi:दुनिया (duniyā), urdua:(duniyā), haŭsa:duniya, persa:(donya)|
-|**dur**|daŭro|angla:duration, franca:durée, hispana:portugala:durar, deu:dauer|
+|**dur**|daŭro|angla:duration, franca:durée, hispana:portugala:durar, deu:Dauer|
 |**dush**|duŝo|franca: douche, deu:Dusche, turka:duş, rusa:душ (duš), araba:(duš), hispana:portugala:ducha|
 |**dute**|dubo|franca:doute, angla:doubt, hispana:filipina:duda|
 |**duwa**|preĝi|turka: dua, svahila: dua, malaja: doa, araba: دُعَاء‏  (duʿāʾ)|
@@ -373,6 +373,7 @@
 |**hoke**|hokeo|angla:franca:hispana:hockey, portugala:hóquei, rusa:хоккей (hokkey),  japana:ホッケー (hokkē), hindia:हाकी (hākī), bengala:হকি (hôki), araba:(hūkī)|
 |**honi**|cent|angla:hundred|
 |**hor**|horo|franca:heure, angla:hour, hispana:portugala:hora|
+|**horloger**|horloĝo|lat:horologium, franca:horloge, itala:orologio, hispana:reloj, portugala:relógio, malaja:arloji.|
 |**hotel**|hotelo|angla:deu:hispana:portugala:malaja:hotel, franca:hôtel, hindia:होटल (hoṭal), bengala:হোটেল (hoṭel), japana:ホテル (hoteru), korea:호텔 (hotel), rusa:отель (otel)|
 |**huke**|hoko|angla:hook, deu:Haken, rusa: гак (gak), polona:hak, hindia:हुक (huk), bengala:হুক (huk), malaja:hak|
 |**hul**|vulpo|mandarena:狐狸 (húlí), kantona:狐狸 (wu4 lei4-2)|
@@ -718,7 +719,6 @@
 |**ray**|opinio|araba:(raʾy), persa:(ra'y), hindia:राय (rāy), turka:rey|
 |**redi**|preta|angla:ready, franca:prêt, mao:reri|
 |**rege**|sablo|persa:(rig), hindia:रेग (reg), urdua:(reg)|
-|**reloje**|horloĝo|hispana:reloj. portugala:relógio. franca:horloge. itala:orologio. malaja:arloji.|
 |**ren**|persono|mandarena: 人 (rén)|
 |**restorante**|restaŭracio|angla:franca:restaurant, hispana:portugala:restaurante, rusa:ресторан (restoran), turka:malaja:restoran, hindia:रेस्तरां (restarā̃), bengala:রেস্টুরেন্ট (reśṭurenṭ), japana:レストラン (resutoran)|
 |**rey**|ripetado|angla:franca:portugala:hispana:re-, rusa:ре- (re-)|

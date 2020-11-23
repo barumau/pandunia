@@ -241,6 +241,8 @@ chimie - kimlojia
 Chine - Jungogia  
 chocolat - chokolate  
 chose - shey  
+chronique - duriki  
+chronomètre - durmetrer  
 chu - paduti  
 chéri (ami) - amike  
 chêne - balute  
@@ -352,6 +354,7 @@ droit (rectiligne) - orti
 droit - hake  
 droits de l'homme - insani hake  
 dur - gati  
+durer - duru  
 dynamite - dinamite  
 décapé (mariné) - sirkopurshipi  
 déchirer - chir  
@@ -462,7 +465,7 @@ hiver - zim
 hivernal (hibernal) - zimi  
 hockey - hoke  
 hockey sur glace - aishoke  
-horloge - reloje  
+horloge - horloger  
 houe - sape  
 hourra - ura  
 huile (pétrole) - nefte  
@@ -535,7 +538,9 @@ liste - liste
 litre - litre  
 livre - buke  
 local - loki  
+loin - longo  
 long - longi  
+longtemps - longoduro  
 loquace - logivi  
 loup - wolfe  
 lourd - bari  
@@ -701,6 +706,7 @@ Paris - Paris
 parler - loga  
 parti - kiti  
 passeport - pasporte  
+passer - dura  
 pastèque - arbuze  
 pathologie - patolojia  
 patient - patike  
@@ -778,6 +784,7 @@ projectile - lancovute
 projection - lancograf  
 projet - projete  
 projeter (donner) - lancografa  
+prolongé - longoduri  
 promettre - voda  
 propriété (possession, bien) - malke  
 prune - plum  
@@ -912,6 +919,7 @@ taximètre - taksometer
 technique - tehne  
 technologie - tehnolojia  
 tectonique des plaques - plati zemkaskia  
+temps (durée) - dur  
 tendance - ive  
 tender - waytira  
 tentacule - senter  

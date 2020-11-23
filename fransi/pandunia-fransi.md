@@ -268,6 +268,11 @@ duga - lire
 dulbashi - bilingue  
 duli - deux (2)  
 dunia - monde  
+dur - temps (durée)  
+dura - passer  
+duriki - chronique  
+durmetrer - chronomètre  
+duru - durer  
 e - et  
 ##e
 ekojeni - sauvage  
@@ -406,6 +411,7 @@ hogosheke - silex
 hogotehne - feu d’artifice  
 hoke - hockey  
 hor - heure  
+horloger - horloge  
 hotel - hôtel  
 huke - crochet  
 hukokrus - svastika (croix gammée)  
@@ -603,6 +609,9 @@ loka - mettre (placer)
 loke - lieu  
 loki - local  
 longi - long  
+longo - loin  
+longoduri - prolongé  
+longoduro - longtemps  
 longokrokodil - crocodile  
 longopipre - poivre long  
 lontre - loutre  
@@ -817,7 +826,6 @@ rari - rare
 ras - race  
 rasmedi - interracial  
 regopetre - grès  
-reloje - horloge  
 reste - reste  
 retro - en arrière  
 retroguli sense - nausée  

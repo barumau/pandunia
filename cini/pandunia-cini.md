@@ -214,6 +214,8 @@ dosili - 驯服的
 duga - 读 (看)  
 duli - 二 (2)  
 dunia - 世界  
+dur - 时间  
+durmetrer - 秒表  
 durubli - 耐用的  
 e - 和  
 ##e
@@ -331,6 +333,7 @@ hogotehne - 烟火
 hogu - 烧  
 hoke - 曲棍球  
 hor - 小时  
+horloger - 钟  
 hotel - 旅馆  
 huke - 钩  
 hukokrus - 卍 (卐)  
@@ -514,6 +517,7 @@ loke - 地方
 lole - 他们  
 lon - 论  
 longi - 长  
+longoduro - 久  
 longopipre - 荜拔  
 lontre - 獭  
 lugi - 绿色  
@@ -694,7 +698,6 @@ rangomate - 染料
 rapidi - 快  
 rari - 稀有 (稀少的)  
 ras - 种族  
-reloje - 钟  
 reste - 其余  
 retrogula - 呕吐  
 retroguli sense - 恶心  

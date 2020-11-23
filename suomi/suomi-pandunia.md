@@ -33,6 +33,7 @@ ai! (au!) - ay
 aihe (teema) - tem  
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - saba  
+aika (kesto, kestoaika) - dur  
 aikakausi - zaman  
 aikuinen - matur  
 aina - pan sate  
@@ -909,6 +910,7 @@ Katalonia - katalunia
 katkaista (leikata) - kata  
 kattila - ketel  
 katto (katos) - chate  
+kauan (pitkän aikaa) - longoduro  
 kauhu (terrori) - teror  
 kaukainen - teli  
 Kaukasia - Kaukasia  
@@ -931,6 +933,8 @@ keittiö - kukeria
 keitto (soppa) - supe  
 keittää (kiehuttaa) - bula  
 keksi (pikkuleipä) - biskute  
+kello (ajannäyttäjä) - horloger  
+kellotorni - horlogerminar  
 kellua (uida) - boyu  
 kelluke (poiju) - boy  
 kelpo (okei) - okeyi  
@@ -962,9 +966,9 @@ keskiviikko - var 3 (var tini)
 keskus (keskikohta) - jung  
 keskustelu (debatti) - lona  
 keskusteluhuone - blableria  
-kesto (kestoaika) - dur  
+kestävä (krooninen) - duriki  
 kestävä - durubli  
-kestää (viedä aikaa) - dura  
+kestää (viedä aikaa) - duru  
 kesy - dosili  
 kesyttää - dosila  
 kesä (suvi) - lete  
@@ -1141,7 +1145,7 @@ kulmamitta (goniometri) - gonmetrer
 kulombi (mittayksikkö C) - kulombe  
 kulta - aur  
 kulttuuri - kultur  
-kulua (ajasta) - duru  
+kuluttaa (viettää aikaa) - dura  
 kuluttaa aikaa - pasa  
 kuluva (tämänhetkinen) - zayi  
 kumi - gom  
@@ -1985,7 +1989,9 @@ piste (täplä) - punte
 pistooli - pistol  
 Pitcairn - Pitkerne  
 pitkä - longi  
+pitkäaikainen (pitkäkestoinen) - longoduri  
 pitkäpippuri - longopipre  
+pitkästi (kauas) - longo  
 pitkästynyt - bori  
 pitsa (pizza) - pize  
 pitseria - pizeria  
@@ -2338,7 +2344,7 @@ sekoittaa - miksa
 seksi (sukupuolisuhde) - sekse  
 seksikäs - seksi  
 sekunti - sekunde  
-sekuntikello - sekundometer  
+sekuntikello - durmetrer  
 selain - brauzer  
 selata - brauza  
 seleeni - selenem  

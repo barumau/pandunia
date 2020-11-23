@@ -287,7 +287,7 @@
 |**dum**|häntä|persia:دنب (dunb), hindi:दुम (dum)|
 |**duman**|savu|hindi:धूआँ (dhuã), turkki:duman, venäjä:дым (dym), kannada:(dhūma), bangla:ধোঁয়া (dhõẇa)|
 |**dunia**|maailma|malaiji:suahili:dunia, arabia:(dunyā), hindi:दुनिया (duniyā), urdu:(duniyā), hausa:duniya, persia:(donya)|
-|**dur**|kesto (kestoaika)|englanti:duration, ranska:durée, espanja:portugali:durar, deu:dauer|
+|**dur**|aika (kesto, kestoaika)|englanti:duration, ranska:durée, espanja:portugali:durar, deu:Dauer|
 |**dush**|suihku|ranska: douche, deu:Dusche, turkki:duş, venäjä:душ (duš), arabia:(duš), espanja:portugali:ducha|
 |**dute**|epäilys|ranska:doute, englanti:doubt, espanja:filippiini:duda|
 |**duwa**|rukoilla|turkki: dua, suahili: dua, malaiji: doa, arabia: دُعَاء‏  (duʿāʾ)|
@@ -492,6 +492,7 @@
 |**holi**|koko (kokonainen)|englanti:whole, espanja:portugali:holo-|
 |**honi**|sata (100)|englanti:hundred|
 |**hor**|tunti|ranska:heure, englanti:hour, espanja:portugali:hora|
+|**horloger**|kello (ajannäyttäjä)|lat:horologium, ranska:horloge, italia:orologio, espanja:reloj, portugali:relógio, malaiji:arloji.|
 |**hotel**|hotelli|englanti:deu:espanja:portugali:malaiji:hotel, ranska:hôtel, hindi:होटल (hoṭal), bangla:হোটেল (hoṭel), japani:ホテル (hoteru), korea:호텔 (hotel), venäjä:отель (otel)|
 |**huke**|koukku (haka)|englanti:hook, deu:Haken, venäjä: гак (gak), puola:hak, hindi:हुक (huk), bangla:হুক (huk), malaiji:hak|
 |**hul**|kettu|yleiskiina:狐狸 (húlí), kantoninkiina:狐狸 (wu4 lei4-2)|

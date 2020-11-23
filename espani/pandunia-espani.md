@@ -678,9 +678,11 @@ duman - humo
 duni - global (mundial)  
 dunia - mundo  
 dunia bash - lengua mundial  
-dur - duración  
-dura - durar (durante, llevar tiempo)  
-duru - pasar (transcurrir)  
+dur - tiempo (duración)  
+dura - pasar (transcurrir)  
+duriki - crónico  
+durmetrer - cronómetro  
+duru - durar (durante, llevar tiempo)  
 durubli - durable  
 dush - ducha  
 dute - duda  
@@ -1170,6 +1172,8 @@ honi - cien (##)
 hor - hora  
 horizon - horizonte  
 horizoni - horizontal (lateral)  
+horloger - reloj  
+horlogerminar - torre del reloj  
 hormon - hormona  
 Horvatia - Croacia  
 hotel - hotel (albergue)  
@@ -1813,6 +1817,8 @@ lona biznes - negociar
 longa - alargar  
 longi - largo  
 longia - largo (longitud)  
+longo - lejos  
+longoduri - perdurable (longevo, prolongado)  
 longokrokodil - cocodrilo  
 lontre - nutria  
 los - tornillo  
@@ -2607,8 +2613,6 @@ reda - preparar (hacer listo)
 redi - listo (preparado)  
 rege - arena  
 registan - desierto  
-reloje - reloj  
-relojominar - torre del reloj  
 ren - persona (gente)  
 renem - renio  
 rentogenem - roentgenio  
@@ -2787,7 +2791,6 @@ seksa - tener sexo
 sekse - sexo  
 seksi - sexy (sexual)  
 sekunde - segundo  
-sekundometer - cronómetro  
 sekura - proteger (asegurar, guardar)  
 sekuri - seguro  
 sekuri kopiye - copia de seguridad  
