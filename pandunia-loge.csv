@@ -537,6 +537,7 @@ chutomun||||exit door||salida|||||||||||||elirejo|uloskäynti|drzwi wyjściowe
 chuza|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choose (elect, select, pick)||elegir (escoger, seleccionar)|||||||||||||elekti|valita|wybrać, wybierać, selekcjonować
 chuzable||||option (choice)|option|opción|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
 chuze||||choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
+chuzoliste||||menu|menu|menú|menu (cardápio)|меню́||菜单|献立 (メニュー)|||मेनू||menu (daftar)|orodha (menyu)|menü|||
 ciani|||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン|||||||||syaani|niebieskozielony (cyjan)
 cikle|||eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|bike (cycle)|bicyclette|bicicleta||||||||||||bisiklet||pyörä (polkupyörä, moottoripyörä)|rower
 cikliste||||cyclist|cycliste|ciclista|ciclista|велосипедист||骑自行车的人|チャリダー|||||||bisikletçi|biciklisto|pyöräilyn harrastaja|rowerzysta
@@ -806,9 +807,9 @@ espanofoni||||hispanophone (Spanish speaking)||||||||||||||||espanjaa puhuva|
 esperanti||||Esperanto||Esperanto|||||||||||||Esperanto|esperanto|Esperanto
 esponje|biw||ell:σφουγγάρι (sphoungári), eng:sponge, spa:por:esponja, tur:süngre, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon|sponge|éponge|esponja|esponja|губка||海绵|スポンジ (海綿)|||||||||sienieläin|gąbka
 estaca||||hold (detain)||mantener (detener)||||||||||||||seisottaa|zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
-estaci||||static (stationary)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
+estaci||||static (stationary, still)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
+estaci graf||||film frame (still)||fotograma||кадр|||コマ|||||||film karesi (kare)|||
 estacia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station||estación|||||||||||||stacio|asema|stacja
-estacofrem||||film frame (still)||fotograma||кадр|||コマ|||||||film karesi (kare)|||
 estacu||||stand still||pararse (detenerse)||||||||||||||seisoa (seisahtaa)|nie ruszać się
 estadia|||fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||estadio (arena)|||||||||||||stadiono (areno)|stadioni (areena)|stadion, arena
 estan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
@@ -1090,7 +1091,7 @@ goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton|
 governa||||govern||gobernar|||||治める (司る)||||||||||rządzić
 governe|||eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|government|gouvernement|gobierno|governo|||政府|政府||||||||||rząd
 graf|||eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)|drawing (graph, image)||imagen (gráfico, dibujo)|||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
-grafa||||draw (render)||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
+grafa||||draw||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
 grafbuke||||picture book||libro de cuentos ilustrado||||||||||||||kuvakirja|książka z obrazkami
 grafer||||illustrator (graphic artist)||ilustrador||||||||||||||graafikko|ilustrator, grafik
 grafi||||graphic (pictorial)||gráfico (pictórico, ilustrado)|||||||||||||grafika (bilda)|graafinen|obrazowy, graficzny; opisowy
@@ -2132,7 +2133,6 @@ mening|||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)|méninge|me
 meningitis||||meningitis||meningitis||||||||||||||aivokalvontulehdus|zapalenie opon mózgowych
 mente||||advice (counsel)||consejo||||||||||||||neuvo|rada, porada
 menter|||san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|advisor (counselor, mentor)||consejero (asesor)||||||||||||||neuvontantaja (mentori)|doradca (mentor)
-menu*|||fra:eng:por:may:menu, spa:menú, rus:меню́ (men’u), tur:menü, swa:menyu, hin:मेनू (menū), jpn:メニュー (menyū)|menu|menu|menú|menu (cardápio)|меню́||菜单|献立 (メニュー)|||मेनू (menū)||menu (daftar)|orodha (menyu)|menü|||
 merante|biw|Shorea|may:eng:por:meranti|lauan tree (meranti, balau)|||meranti||||||||||||||damarzyk (meranti)
 Merkur|planete 1|||Mercury|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury
 mes|||por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
@@ -3622,13 +3622,12 @@ zardushiste||||Zoroastrian|zoroastrien|zoroastriano||зороастризм|||||
 zardushistia||||Zoroastrianism|zoroastrisme|zoroastrismo|||||||||||||zoroastrismo|zarathustralaisuus|zaratusztrianizm
 zari||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
 zay||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
+zaya||||summon (add, spawn)||generar (añadir)|||||||||||||||wzywać (wezwać, dodawać, dodać)
 zayden||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, dzisiaj
-zayi|||zho:在 (zài), jpn:在 (zai), vie:tại|present (current, existing)||actual|||||||||||||ĉeestanta (nuna, ekzistanta)|kuluva (tämänhetkinen)|obecny, teraźniejszy, aktualny, bieżący, współczesny
+zayi|||zho:在 (zài), jpn:在 (zai), vie:tại|present (current, exist)||actual (presente, existir)|||||ある (いる)||||||||ĉeestanta (nuna, ekzistanta)|kuluva (tämänhetkinen, olla olemassa)|obecny, teraźniejszy, aktualny, bieżący, współczesny, istnieć, być obecnym
 zayia||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
-zayisa||||summon (add, spawn)||generar (añadir)|||||||||||||||wzywać (wezwać, dodawać, dodać)
-zayisu||||appear||aparecer|||||||||||||||pojawić się
 zayo||||presenty (currently, now)||ahora (actualmente)|||||||||||||||
-zayu||||exist (be present)||existir (estar presente)|||||ある (いる)|||||||||olla olemassa|istnieć (być obecnym)
+zayu||||appear||aparecer|||||||||||||||pojawić się
 ze|||zho:自 (zì), ned:zich, deu:sich, fra:por:spa:se|self||se (mismo)|||||||||||||si|itse|sam, siebie
 zebre|biw|Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra|zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra
 zem|||pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|earth (ground)||tierra|||||地|||||||||maa (maaperä)|ziemia, grunt, gleba
