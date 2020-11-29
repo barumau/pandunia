@@ -540,8 +540,9 @@
 |**jenshen**|ginseng|yleiskiina:人蔘 (rénshēn), min-kiina:人蔘 (jîn-sam), englanti:espanja:portugali:turkki:malaiji:ginseng, venäjä:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), japani:人参 (ninjin)|
 |**jentili**|kiltti|englanti:gentle, portugali:ranska:gentil, italia:gentile|
 |**jeste**|ele|englanti:gesture, espanja:portugali:gesto, ranska:geste, venäjä:жест (zhest), turkki:jest, persia:ژست‎ (žest)|
-|**jina**|edetä (edistyä)|yleiskiina:進 (jìn), japani:進 (shin, jin), korea:진 (jin), vietnami:tiến|
+|**jihade**|kamppailu (taistelu)|arabia: جهاد (jihād), turkki:cihat, suahili:jihadi + englanti:ranska:portugali:malaiji:jihad, espanja:yihad, venäjä:джихад (džihad), japani:ジハード (jihādo), korea:지하드 (jihadeu), hindi:जिहाद (jihād)|
 |**jinse**|sukupuoli|arabia:urdu:(jins), persia:(jens), suahili:jinsi, turkki:cins, englanti:gender, portugali:gênero|
+|**jinu**|edetä (edistyä)|yleiskiina:進 (jìn), japani:進 (shin, jin), korea:진 (jin), vietnami:tiến|
 |**jiraf**|kirahvi|arabia:(zarāfa), englanti:ranska:giraffe, portugali:girafa, espanja:jirafa, venäjä:жираф (žiraf),malaiji:jerapah, turkki:zürafa, korea:지라프 (jirapeu), hindi: जिराफ़ (jirāf), bangla:জরৈফ (jôrôph)|
 |**jive**|elämä (olemassaolo)|hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy|
 |**joke**|vitsi|englanti:ranska:joke, persia:جوک‎ (jok), japani:ジョーク (jōku) + yleiskiina:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|

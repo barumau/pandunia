@@ -11,8 +11,8 @@ abla - pouvoir (être capable)
 able - capacité (compétence)  
 abli - possible  
 ablo - peut-être  
-achu* - atchoum  
 achua - éternuer  
+achu\* - atchoum  
 acinem - actinium  
 adali - juste  
 adalia - justice  
@@ -218,7 +218,7 @@ chendeno - hier
 cheno - avant  
 cherize - cerise  
 cherni - noir  
-chili* - piment  
+chili\* - piment  
 chir - déchirer  
 chira - déchirer  
 chize - fromage  
@@ -380,7 +380,7 @@ guypapil - pavot d'Orient
 haha - rire  
 hake - droit  
 hal - état  
-halo* - allô  
+halo\* - allô  
 hami - important  
 hande - main  
 handoshake - bras  
@@ -444,6 +444,7 @@ jena - donner naissance (procréer, engendrer, accoucher)
 jeni bash - langue maternelle  
 jenisa - élever  
 jentipe - génotype  
+jihade - lutte  
 jino - en avant  
 jinse - sexe  
 jiraf - giraffe  
@@ -461,7 +462,7 @@ justi - exact (précis)
 kaboge - citrouille  
 kade - morue  
 kafas - cage  
-kafe* - café  
+kafe\* - café  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kalam - plume  
@@ -480,7 +481,7 @@ kanape - canapé (sofa)
 kanche - verre  
 kangaru - kangourou  
 kanion - canyon (ravin)  
-kanoe* - canoë  
+kanoe\* - canoë  
 kansuygas - gaz lacrymogène  
 Kantalupo da Sabina - Cantalupo in Sabina  
 kapotruke - piège  
@@ -522,7 +523,7 @@ kitabia - bibliothèque
 kitabomashin - machine à écrire  
 kiti - parti  
 kitu - aller (quitter)  
-kiwi* - kiwi  
+kiwi\* - kiwi  
 klari - clair  
 klien - client  
 klimomute - changement climatique  
@@ -568,7 +569,7 @@ lalbawsheke - rubis
 lali - rouge  
 laloranje - mandarine  
 lalsamon - saumon sockeye  
-lama* - lama (enseignant religieux du bouddhisme tibétain)  
+lama\* - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
 lan - malédiccion  
 lancograf - projection  
@@ -588,7 +589,7 @@ legi - léger
 lenti - lent  
 lete - été  
 letis - laitue  
-liama* - lama  
+liama\* - lama  
 libel - libellule  
 libobanze - étagère  
 lider - dirigeant (leader)  
@@ -818,7 +819,7 @@ pudi - pourri
 pudu - pourrir (se décomposer)  
 pujomeze - autel  
 pul - pont  
-puma* - couguar (puma)  
+puma\* - couguar (puma)  
 pura - remplir  
 purbona - perfectionner (parfaire)  
 puri - plein  
@@ -929,7 +930,7 @@ sirkopurshipi hiyar - concombre confit (cornichon)
 sirplan - complot (conspiration)  
 sisi - six (6)  
 socia - société  
-sofa* - canapé (sofa)  
+sofa\* - canapé (sofa)  
 sol - soleil  
 solchate - ombrelle (parasol)  
 solful - Tournesol  
@@ -1072,7 +1073,7 @@ zeze - mouche
 zim - hiver  
 zimi - hivernal (hibernal)  
 zinje - gingembre  
-zombi* - zombi  
+zombi\* - zombi  
 zon - zone  
 zong - pieu (poteau)  
 zongominte - menthe verte  

@@ -74,7 +74,7 @@ antonim - fanonam
 antychryst - fankriste  
 Antyle Holenderskie - Nederlandi Antile  
 antymon - estibem  
-apsik - achu*  
+apsik - achu\*  
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabi  
 arachnofobia - aranfobia  
@@ -187,7 +187,7 @@ biec (biegać, pędzić) - kora
 biedny, mizerny - miskini  
 bilet - tikete  
 bilet powrotny - retrotikete  
-bilion, giga- - giga*  
+bilion, giga- - giga\*  
 biologia (nauka o życiu) - biwlojia  
 biom - biwsistem  
 biromantyczny - dulromansi  
@@ -296,7 +296,7 @@ cement - cemente
 cenny - bawi  
 centralny (środkowy) - jungi  
 centrować, skupić, skupiać - junga  
-centy-, procent, na sto, setna część - centi*  
+centy-, procent, na sto, setna część - centi\*  
 centymetr - centimitre  
 cer - cerem  
 ceramika - ceram  
@@ -431,7 +431,7 @@ dać mieszkanie (zakwaterować) - domisa
 dać, dawać - dona  
 deaktywować (wyłączyć, zatrzymać) - anativa  
 debatować, prowadzić dyskurs - lona  
-decy-, dziesiąta część - deci*  
+decy-, dziesiąta część - deci\*  
 decybel - decibel  
 dedykacja (poświęcenie) - zamandonia  
 dedykować (poświęcać, poświęcić) - zamandona  
@@ -609,7 +609,7 @@ etniczny - zuki
 etyka - darmoloji  
 etymologia - logaslia  
 Eurazja - eurasia  
-euro (€) - euro*  
+euro (€) - euro\*  
 europ - europem  
 Europa - europe  
 europejski - europi  
@@ -765,7 +765,7 @@ Guinea Bissau - Bisau Ginia
 Gujana - Gayana  
 Gujana Francuska - Giyana  
 guma - gom  
-guru, mistrz - guru*  
+guru, mistrz - guru\*  
 Gwadelupa - Guadelupe  
 gwarancja - garante  
 Gwatemala - Guatemala  
@@ -795,7 +795,7 @@ haczyk - fishohuke
 hafn - hafnem  
 Haiti - Haiti  
 hak - huke  
-halo, cześć - halo*  
+halo, cześć - halo\*  
 hamak - hamake  
 han chiński - chini  
 handel - vendoshope  
@@ -825,7 +825,7 @@ higiena - hijenia
 Himalaje - himalia  
 hinduistyczny - hindiste  
 hinduizm - hindistia  
-hipopotam - gubu*  
+hipopotam - gubu\*  
 historia, badanie historii - historia  
 historia; annały, roczniki - histor  
 historyk - historer  
@@ -923,7 +923,7 @@ iść, maszerować - marchu
 ##j
 ja, mnie - me  
 jabłko - apel  
-jabłko cukrowe - ata*  
+jabłko cukrowe - ata\*  
 jadalnia - yamkamar  
 jagoda - ber  
 jajko (jajo) - ande  
@@ -1012,7 +1012,7 @@ kandela - kandel
 kangur - kangaru  
 kanion - kanion  
 kannada - karnadi  
-kanoe - kanoe*  
+kanoe - kanoe\*  
 kanonier - daypawer  
 kantalupa - kantalupomelon  
 Kanton - Guangjou  
@@ -1039,7 +1039,7 @@ kasztan - kastan
 Katalonia - katalunia  
 Katar - Katar  
 Kaukazja - Kaukasia  
-kawa - kafe*  
+kawa - kafe\*  
 kawiarnia - kafeshope  
 Kazachstan - Kazahia  
 kałamarnica (mątwa) - kalamar  
@@ -1218,7 +1218,7 @@ królik, zając - tuze
 królowa - femi rajer  
 krótki - korti  
 ksenon - xenon  
-ksiądz, kleryk, kaznodzieja - dinguru*  
+ksiądz, kleryk, kaznodzieja - dinguru\*  
 książka - buke  
 książka z obrazkami - grafbuke  
 księżyc - lun  
@@ -1263,8 +1263,8 @@ kłuć (żądlić) - pina
 Lagos - legos  
 lakier - lake  
 lalka, kukiełka, pacynka, marionetka - pupe  
-lama - lama*  
-lama - liama*  
+lama - lama\*  
+lama - liama\*  
 lampa - lampe  
 lantan - lantanum  
 Laos - Lao  
@@ -1300,7 +1300,7 @@ liberalizm rynkowy - bazarhuristia
 liberalny, wolnościowy - huristi  
 Liberia - Liberia  
 Libia - Libia  
-liczi - lichi*  
+liczi - lichi\*  
 liczność (mnóstwo) - multia  
 liczyć - nombra  
 Liechtenstein - Lihtenshtain  
@@ -1481,8 +1481,8 @@ miksować, mieszać - miksa
 mili- - milo-  
 miligram - milgram  
 milimetr - milmetre  
-milion - mega*  
-milion - yota*  
+milion - mega\*  
+milion - yota\*  
 militarny, wojskowy, wojenny - jengi  
 minerał, ruda - kuang  
 minimal - minimi  
@@ -1635,7 +1635,7 @@ naród, narodowość - nasia
 nasienny - semi  
 następny (następujący) - badi  
 natura, środowisko - ekia  
-nauczyciel - darsoguru*  
+nauczyciel - darsoguru\*  
 nauczyć się, uczyć się, studiować - darsa  
 nauka, badanie, studiowanie - lojia  
 Nauru - Nauru  
@@ -1871,7 +1871,7 @@ owad - konchung
 owca - mehe  
 owinięcie (koperta, okładka) - lifaf  
 owoc - pal  
-owoc kiwi - kiwi*  
+owoc kiwi - kiwi\*  
 ołtarz - pujomeze  
 ołów - plumbe  
 oś - akse  
@@ -1914,8 +1914,8 @@ papeda - karsolimon
 papier - kaguje  
 papieros (cygar) - sigar  
 paproć - parne  
-papryka - chili*  
 papryka - chilifun  
+papryka - chili\*  
 Papua Nowa Gwinea - Papua Novi Ginia  
 papuga - papagay  
 para wodna - suygas  
@@ -1962,7 +1962,7 @@ pewny (pewien) - ameni
 pełnie (całkowicie) - puro  
 pełny - puri  
 pfuj (fuj) - bah  
-pianino - piano*  
+pianino - piano\*  
 piasek, piach - rege  
 piaskowiec - regopetre  
 pidżin, język pomocniczy - pijin  
@@ -2142,7 +2142,7 @@ poręcz (balustrada) - langan
 postawa ciała; asana - asan  
 postawiony (stojący) - libi  
 postawić (stawiać) - liba  
-posuwać się do przodu (dokonywać postępu, wejść) - jina  
+posuwać się do przodu (dokonywać postępu, wejść) - jinu  
 poszukiwacz (badacz, eksplorator) - brauzer  
 poszukiwacz przygód (awanturnik) - aventurer  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
@@ -2333,7 +2333,7 @@ pudełko, skrzynia - kash
 puding - puding  
 pudło, skrzynia - sanduke  
 Puerto Rico - Porto Riko  
-puma (kuguar) - puma*  
+puma (kuguar) - puma\*  
 punkt - binde  
 pustka - kal  
 pusty - kali  
@@ -2554,7 +2554,7 @@ sarkazm - logironia
 satanista - shataniste  
 satanizm - shatanistia  
 Saturn - Saturne  
-sauna - sauna*  
+sauna - sauna\*  
 sawanna - savan  
 sałata - letis  
 sałatka - salade  
@@ -2638,7 +2638,7 @@ sobota - var 6 (var sisi)
 socjalista - sociste  
 socjalizm - socistia  
 socjalizować się - soca  
-sofa (kanapa) - sofa*  
+sofa (kanapa) - sofa\*  
 sofa, kanapa - kanape  
 sok - jus  
 Somalia - Somalia  
@@ -2738,7 +2738,7 @@ sugestia, propozycja - suje
 suma - sum  
 Surinam - Suriname  
 surowy (niedojrzały) - jeni  
-sushi - sushi*  
+sushi - sushi\*  
 suszyć (wysuszyć) - gana  
 Swalbard - Svalbarde  
 swastyka - hukokrus  
@@ -2861,7 +2861,7 @@ taoista - dawiste
 taoizm - dawistia  
 tapeta - murkaguje  
 tarcza - defbanze  
-tatuaż - tatu*  
+tatuaż - tatu\*  
 taxi, taksówka - taksogar  
 taśma - tepe  
 taśma; bandaż - bende  
@@ -2888,7 +2888,7 @@ tenis - tenis
 teokracja - dewkratia  
 teologia - dewlojia  
 teoria - teoria  
-tera- - tera*  
+tera- - tera\*  
 terakota - bekopote  
 teraźniejszość, współczesność (teraz) - zay  
 teraźniejszość, współczesność - zayia  
@@ -2981,7 +2981,7 @@ tylko - mono
 typ (rodzaj, gatunek) - tipe  
 tyran - tiran  
 tyrania - tirania  
-tysiąc (kilo-) - kilo*  
+tysiąc (kilo-) - kilo\*  
 tytan - titanem  
 tytoń - tabake  
 tytuł (nagłówek) - temnam  
@@ -3059,7 +3059,7 @@ użytkownik - uzer
 użyć, używać, zatrudnić, stosować - uza  
 ##v
 Vanuatu - Vanuatu  
-viski - wiski*  
+viski - wiski\*  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 w przyszłości - wilo  
@@ -3453,7 +3453,7 @@ znak, trop - marke
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
 znowu (ponownie) - reyo  
 znudzony - bori  
-zombie, zombi - zombi*  
+zombie, zombi - zombi\*  
 zoo (ogród zoologiczny) - hewanparke  
 zostawić (zostawiać) - shante  
 zostać, zostawać - restu  

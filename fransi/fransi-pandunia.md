@@ -38,7 +38,7 @@ aller (quitter) - kitu
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alfon  
-allô - halo*  
+allô - halo\*  
 alphabet - harfia  
 aluminium - aluminem  
 amande - badam  
@@ -94,7 +94,7 @@ Asie - asia
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
-atchoum - achu*  
+atchoum - achu\*  
 Athènes - Athina  
 autel - pujomeze  
 automne - oton  
@@ -183,7 +183,7 @@ bûche - mokotan
 cacher - sira  
 cactus - katus  
 cadre - frem  
-café - kafe*  
+café - kafe\*  
 cage - kafas  
 caillou - lilsheke  
 calcaire - kalcopetre  
@@ -195,10 +195,10 @@ calme (tranquille) - shanti
 Camomille Romaine - romkamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
-canapé (sofa) - sofa*  
+canapé (sofa) - sofa\*  
 Canne à sucre - shukargras  
 canon - daypaw  
-canoë - kanoe*  
+canoë - kanoe\*  
 Cantalupo in Sabina - Kantalupo da Sabina  
 canyon (ravin) - kanion  
 capacité (compétence) - able  
@@ -291,7 +291,7 @@ cosmos - kosmia
 coton - goton  
 couch (couchette) - kushloke  
 coucher - kusha  
-couguar (puma) - puma*  
+couguar (puma) - puma\*  
 couleur - rang  
 coupe (tasse, verre) - kope  
 coureur - korer  
@@ -510,7 +510,7 @@ Jésus - Yesu
 kangourou - kangaru  
 Khartoum - Khartum  
 Kinshasa - Kinshasa  
-kiwi - kiwi*  
+kiwi - kiwi\*  
 kumquat - auroranje  
 ##l
 lac - lage  
@@ -518,8 +518,8 @@ laine - mehi kesh
 laisser - lasha  
 lait - milke  
 laitue - letis  
-lama (enseignant religieux du bouddhisme tibétain) - lama*  
-lama - liama*  
+lama (enseignant religieux du bouddhisme tibétain) - lama\*  
+lama - liama\*  
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bash  
@@ -556,6 +556,7 @@ lundi - var 1 (var uni)
 lune - lun  
 luthéranisme - lutheristia  
 luthérien - lutheristi  
+lutte - jihade  
 lynx - lince  
 lys - susan  
 léger - legi  
@@ -742,7 +743,7 @@ pierre précieuse (joyau) - bawsheke
 pierre tombale - gabrosheke  
 pieu (poteau) - zong  
 pile (batterie) - batre  
-piment - chili*  
+piment - chili\*  
 pioche - pikosape  
 piquenique - wayoyam  
 piraterie - piratia  
@@ -1035,7 +1036,7 @@ wolof - Wolof
 ##x
 ##y
 ##z
-zombi - zombi*  
+zombi - zombi\*  
 zone - zon  
 zoo - hewanparke  
 Zoroastre - Zardush  

@@ -12,8 +12,8 @@ abla - móc, umieć
 able - możliwość, umiejętność  
 abli - możliwy  
 ablo - prawdopodobnie (możliwie)  
-achu* - apsik  
 achua - kichać (kichnąć)  
+achu\* - apsik  
 acinem - aktyn  
 adali - sprawiedliwy  
 adalia - sprawiedliwość  
@@ -175,7 +175,7 @@ asli - źródłowy, początkowy, oryginalny
 asme - astma  
 aspirin - aspiryna  
 astatem - astat  
-ata* - jabłko cukrowe  
+ata\* - jabłko cukrowe  
 ativa - aktywować (włączyć, uruchomić)  
 ativi - aktywny (włączony, uruchomiony)  
 Atlanti Hay - Ocean Atlantycki  
@@ -433,8 +433,8 @@ celolojia - cytologia
 celsius darje - stopień Celsjusza  
 cemente - cement  
 centaur - chaber  
-centi* - centy-, procent, na sto, setna część  
 centimitre - centymetr  
+centi\* - centy-, procent, na sto, setna część  
 ceram - ceramika  
 ceramshing - houstonia  
 cerebre - mózg  
@@ -487,8 +487,8 @@ cherize - wiśnia (czereśnia)
 cherni - czarny  
 Chernogora - Czarnogóra  
 Chile - Chile  
-chili* - papryka  
 chilifun - papryka  
+chili\* - papryka  
 chimpanze - szympans  
 chinchil - szynszyla  
 chini - han chiński  
@@ -569,7 +569,7 @@ darsa - nauczyć się, uczyć się, studiować
 darse - lekcja  
 darser - uczeń, student  
 darsia - szkoła (instytucja)  
-darsoguru* - nauczyciel  
+darsoguru\* - nauczyciel  
 darsoshef - dyrektor szkoły  
 darte - grunt (ziemia, próchnica)  
 darti - ziemny (glebowy, gruntowy)  
@@ -593,8 +593,8 @@ daysheke - głaz
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
 dayvaze - kocioł  
 debili - słaby  
-deci* - decy-, dziesiąta część  
 decibel - decybel  
+deci\* - decy-, dziesiąta część  
 def - obrona  
 defa - obronić (chronić)  
 defbanze - tarcza  
@@ -636,7 +636,7 @@ dike - cel
 din - religia, wyznanie  
 dinamite - dynamit  
 ding - kolec  
-dinguru* - ksiądz, kleryk, kaznodzieja  
+dinguru\* - ksiądz, kleryk, kaznodzieja  
 dini - religijny  
 diniste - wierzący (osoba religijna)  
 diorite - dioryt  
@@ -783,12 +783,12 @@ estudia - studio (pracownia)
 Etiopia - Etiopia  
 eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
-euro* - euro (€)  
 europe - Europa  
 europem - europ  
 europi - europejski  
 europi unisia - Unia Europejska (EU)  
 europobalute - dąb szypułkowy  
+euro\* - euro (€)  
 evanjil - ewangelia  
 evi - korzystny (dobry)  
 ##f
@@ -1019,7 +1019,7 @@ geyi - gejowski (homoseksualny)
 gida - prowadzić (wskazać drogę)  
 gider - przewodnik  
 gidobuke - przewodnik  
-giga* - bilion, giga-  
+giga\* - bilion, giga-  
 gitar - gitara  
 Giyana - Gujana Francuska  
 glisu - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
@@ -1063,7 +1063,7 @@ Guam - Guam
 Guangjou - Kanton  
 guanshe - związek, powiązanie, połączenie  
 Guatemala - Gwatemala  
-gubu* - hipopotam  
+gubu\* - hipopotam  
 gude - koń  
 guhe - jaskinia  
 gujarati - Gudżarat  
@@ -1072,9 +1072,9 @@ gula - połknąć (połykać)
 gum - bęben  
 gun - armia  
 gunren - żołnierz  
-guru* - guru, mistrz  
 gurube - świnia  
 gurubomanse - wieprzowina  
+guru\* - guru, mistrz  
 gusta - smakować, próbować smaku  
 guste - smak  
 gustu ko - smakować jak  
@@ -1102,7 +1102,7 @@ halali - dozwolony (dopuszczalny, zezwolony, halal)
 halela - chwalić (wychwalać)  
 halif - kalif  
 halifia - kalifat  
-halo* - halo, cześć  
+halo\* - halo, cześć  
 hamake - hamak  
 hamar - młot, młotek  
 hami - ważny  
@@ -1346,11 +1346,11 @@ Jersi - Jersey
 jeste - gest  
 Jibraltar - Gibraltar  
 Jibuti - Dżibuti  
-jina - posuwać się do przodu (dokonywać postępu, wejść)  
 jinmun - wejście  
 jino - naprzód  
 jinse - płeć  
 jinsi - płciowy  
+jinu - posuwać się do przodu (dokonywać postępu, wejść)  
 jiraf - żyrafa  
 jive - życie  
 jivi - żyć (żywy, żyjący)  
@@ -1391,8 +1391,8 @@ Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)
 kade - dorsz  
 kadem - kadm  
 kafas - klatka  
-kafe* - kawa  
 kafeshope - kawiarnia  
+kafe\* - kawa  
 kafir - niewierny (poganin, niewierzący)  
 kafkope - filiżanka do kawy  
 kaguje - papier  
@@ -1450,7 +1450,7 @@ kangaru - kangur
 kanion - kanion  
 kanjar - sztylet (puginał)  
 kankesh - rzęsa  
-kanoe* - kanoe  
+kanoe\* - kanoe  
 kansuy - łza  
 kansuygas - gaz łzawiący  
 Kantalupo da Sabina - Cantalupo in Sabina  
@@ -1567,7 +1567,7 @@ kitabomashin - maszyna do pisania
 kitabominister - bibliotekarz  
 kitaborupe - formatowanie  
 kitu - iść (przemieścić się)  
-kiwi* - owoc kiwi  
+kiwi\* - owoc kiwi  
 klara - wyklarować (rozjaśnić)  
 klari - przeźroczysty, jasny  
 klaro - oczywiście  
@@ -1739,7 +1739,7 @@ lali - czerwony
 lalolince - ryś rudy  
 laloranje - mandarynka  
 lalsamon - nerka (łosoś czerwony)  
-lama* - lama  
+lama\* - lama  
 lampe - lampa  
 lan - przekleństwo (cholera!)  
 lana - kląć (przeklinać)  
@@ -1791,7 +1791,7 @@ lete - lato
 letis - sałata  
 lewo - już (skończona czynność)  
 leze - gruszka  
-liama* - lama  
+liama\* - lama  
 liba - postawić (stawiać)  
 Libanon - Liban  
 libel - ważka  
@@ -1801,7 +1801,7 @@ Libia - Libia
 libobanze - półka (regał na książki)  
 libobaze - stojak (wieszak)  
 libu - stać  
-lichi* - liczi  
+lichi\* - liczi  
 lida - prowadzić, dowodzić, kierować  
 lider - dowódca, kierownik  
 lidokorde - smycz (cugiel, lejc, wodza)  
@@ -2022,9 +2022,9 @@ medita - medytować; dumać, rozmyślać, zastanawiać się
 medofas - interfejs  
 medoleti den - przesilenie letnie (dzień srodka lata)  
 medu - między (wśród, pośród)  
-mega* - milion  
 megagram - tona  
 megawate - megawat  
+mega\* - milion  
 mege - chmura  
 mehe - owca  
 mehi kesh - wełna (runo owcze)  
@@ -2500,7 +2500,7 @@ petre - skała
 petronefte - ropa naftowa  
 pey - zapłata, opłata  
 peya - zapłacić, opłacić, płacić  
-piano* - pianino  
+piano\* - pianino  
 piaze - cebula  
 pige - pośladki, pupa, tyłek, zadek  
 pijin - pidżin, język pomocniczy  
@@ -2622,7 +2622,7 @@ pujomeze - ołtarz
 pujorite - rytuał, ceremonia, ryt  
 pul - most  
 pulmon - płuco  
-puma* - puma (kuguar)  
+puma\* - puma (kuguar)  
 punte - kropka (znak interpunkcyjny)  
 puntobanze - tablica wyników  
 puntonombre - wynik (punktacja)  
@@ -2864,7 +2864,7 @@ sate - moment
 Saturne - Saturn  
 saudar - rodzeństwo, brat lub siostra  
 Saudi Arabia - Arabia Saudyjska  
-sauna* - sauna  
+sauna\* - sauna  
 sava - wiedzieć  
 savan - sawanna  
 save - wiedza  
@@ -3043,7 +3043,7 @@ soci media - media społecznościowe
 socia - społeczeństwo, system społeczny  
 sociste - socjalista  
 socistia - socjalizm  
-sofa* - sofa (kanapa)  
+sofa\* - sofa (kanapa)  
 sofi - mądry  
 sofia - mądrość  
 soke - skarpeta, skarpetka, pończocha  
@@ -3115,7 +3115,7 @@ Suria - Syria
 Suriname - Surinam  
 surinami bash - język surinamski  
 susan - lilia  
-sushi* - sushi  
+sushi\* - sushi  
 suta - szyć  
 sutur - szew  
 suy - woda  
@@ -3169,7 +3169,7 @@ tarjer - tłumacz
 tas - danie  
 tate - wybrzeże (brzeg, krawędź)  
 tatike - taktyka, strategia  
-tatu* - tatuaż  
+tatu\* - tatuaż  
 tave - patelnia  
 tayi - tajski  
 tayia - Tajlandia  
@@ -3204,7 +3204,7 @@ tenta - kusić, nakłonić, nakłaniać
 tenu - należeć  
 teoria - teoria  
 tepe - taśma  
-tera* - tera-  
+tera\* - tera-  
 terbem - terb  
 tercha - przechylać (przechylić, wychylać, wychylić)  
 terchi - skośny (ukośny, pochyły)  
@@ -3454,7 +3454,7 @@ wil - przyszłość
 wildi - dziki  
 wilo - w przyszłości  
 wing - skrzydło  
-wiski* - viski  
+wiski\* - viski  
 wolfe - wilk  
 wolfram - wolfram  
 Wolof - wolof  
@@ -3493,7 +3493,7 @@ yongopetre - lawa
 yongosaha - topić (upłynnić, upłynniać)  
 yongu - topnieć (upłynniać się)  
 yorubi - Joruba  
-yota* - milion  
+yota\* - milion  
 yote - kropla  
 yuke - żad  
 yumor - humor  
@@ -3553,7 +3553,7 @@ zipe - zamek błyskawiczny
 zir - kumin, kmin  
 zirkonem - cyrkon  
 ziza - skwierczeć  
-zombi* - zombie, zombi  
+zombi\* - zombie, zombi  
 zon - pas, strefa  
 zong - słup (pal, kołek)  
 zonga - nabić (przebić, dźgnąć)  

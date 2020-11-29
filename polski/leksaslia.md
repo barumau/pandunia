@@ -548,8 +548,8 @@
 |**jenshen**|żeń-szeń|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
 |**jentili**|uprzejmy, miły|eng:gentle, por:fra:gentil, ita:gentile|
 |**jeste**|gest|eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|
-|**jina**|posuwać się do przodu (dokonywać postępu, wejść)|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
 |**jinse**|płeć|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero|
+|**jinu**|posuwać się do przodu (dokonywać postępu, wejść)|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
 |**jiraf**|żyrafa|ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
 |**jive**|życie|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**joke**|żart|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|

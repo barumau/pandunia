@@ -162,7 +162,7 @@ ateisti (jumalankieltäjä) - andewiste
 ateljee (studio) - estudia  
 Atlantin valtameri - Atlanti Hay  
 atomi - atom  
-atsii - achu*  
+atsii - achu\*  
 aueta (avautua) - kayu  
 aukaista (avata) - kaya  
 auki (avoin) - kayi  
@@ -263,7 +263,7 @@ demokraatti - demkratiste
 demokraattinen - demkrati  
 demokratia - demkratia  
 demoni (piru) - demon  
-desi - deci*  
+desi - deci\*  
 desibeli - decibel  
 Dione - Dione  
 Djiboutia - Jibuti  
@@ -282,7 +282,8 @@ Ecuador - ekuador
 edellinen - cheni  
 edellyttää - chenaga  
 edeltää (olla ennen) - chena  
-edetä (edistyä) - jina  
+edetä (edistyä) - jinu  
+edistää - jin  
 edustaa - wakila  
 Egypti - Misre  
 egyptiläinen - misri  
@@ -296,7 +297,7 @@ ei mitään - nol shey
 eilen - chendeno  
 einsteinium - ainstainem  
 ekologia (ympäristötiede) - ekolojia  
-eksa- - eksa*  
+eksa- - eksa\*  
 eksonyymi - waynam  
 El Salvador - Salvador  
 ele - jeste  
@@ -362,6 +363,7 @@ esperanto - esperanti
 essee - esey  
 este - baryer  
 estää kulku (tukkia tie) - barya  
+eteen päin - jino  
 etelä - sude  
 Etelä-Afrikka - Sudafrika  
 Etelä-Amerikka - sudi amerike  
@@ -378,7 +380,7 @@ etymologia - logaslia
 etäisyys (kaukaisuus) - tel  
 etäisyys (kaukaisuus) - telia  
 Euraasia - eurasia  
-euro (€) - euro*  
+euro (€) - euro\*  
 Euroopan unioni - europi unisia  
 Eurooppa - europe  
 eurooppalainen - europi  
@@ -450,7 +452,7 @@ Guernsey - Genzi
 Guinea - Konakri Ginia  
 Guinea-Bissau - Bisau Ginia  
 gujarati (eräs intialainen kieli) - gujarati  
-guru (opettaja) - guru*  
+guru (opettaja) - guru\*  
 Guyana - Gayana  
 ##h
 haarukka - forke  
@@ -502,7 +504,7 @@ Havaiji - Hawayi
 Havaijin saaret - Hawayi nesia  
 he - lole  
 hedelmä - pal  
-hei (haloo) - halo*  
+hei (haloo) - halo\*  
 heijastaa (peilata) - mira  
 heikko - debili  
 heimo - tribe  
@@ -827,7 +829,7 @@ kadmium - kadem
 kahdeksan (8) - bali  
 kahdesti (kaksi kertaa) - duli ban  
 kahista - shashu  
-kahvi - kafe*  
+kahvi - kafe\*  
 kahvikuppi - kafkope  
 kahvila - kafeshope  
 kaide (reelinki) - langan  
@@ -861,6 +863,7 @@ Kamerun - Kamerun
 kammo (fobia) - fobia  
 kamomilla - kamil  
 kampa - kang  
+kamppailu (taistelu) - jihade  
 kamppailulaji - jengoshute  
 kana - kokode  
 Kanada - Kanada  
@@ -869,7 +872,7 @@ kandela - kandel
 kannabis (marihuana, hamppu) - ganje  
 kannada (eräs intialainen kieli) - karnadi  
 kannu (karahvi) - jar  
-kanootti - kanoe*  
+kanootti - kanoe\*  
 kansa - nas  
 kansainvälinen - nasmedi  
 kansakunta - nasia  
@@ -1007,7 +1010,7 @@ kiireinen - bizi
 kiitos - danke  
 kiittää - danka  
 kiivetä - eskala  
-kiivi - kiwi*  
+kiivi - kiwi\*  
 kikherne - humus  
 kilistää (soittaa kelloa) - danga  
 kilogramma - kilogram  
@@ -1348,7 +1351,7 @@ litium - litem
 litra - litre  
 litteä - plati  
 litteän maapallon kannattaja - platozemiste  
-litši - lichi*  
+litši - lichi\*  
 liukua (luistaa) - glisu  
 livermorium - livermorem  
 logiikka - logike  
@@ -1552,9 +1555,9 @@ mikä tahansa - eni
 mikä? (kumpi?) - ki  
 mikä? (mitä?) - ke  
 mikä? (mitä?) - ki shey  
-miljardi (giga-) - giga*  
-miljoona (mega-) - mega*  
-miljoona (mega-) - yota*  
+miljardi (giga-) - giga\*  
+miljoona (mega-) - mega\*  
+miljoona (mega-) - yota\*  
 millainen? - ki yangi  
 milli- - milo-  
 milligramma - milgram  
@@ -1796,7 +1799,7 @@ onneksi olkoon! - barke!
 onnitella (siunata) - barka  
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gida  
-opettaja - darsoguru*  
+opettaja - darsoguru\*  
 oppi (opetus) - darse  
 oppia (opiskella) - darsa  
 oppilas - darser  
@@ -1899,8 +1902,8 @@ pannu (paistinpannu) - tave
 pantheon - pandewia  
 papaija - papay  
 paperi - kaguje  
-pappi - dinguru*  
-paprika - chili*  
+pappi - dinguru\*  
+paprika - chili\*  
 paprikajauhe - chilifun  
 papu tai herne - dow  
 Papua Uusi-Guinea - Papua Novi Ginia  
@@ -1953,9 +1956,9 @@ perustuslaki - bazokanun
 peräaukko (anus) - anus  
 pestä - washa  
 pesukone - washmashin  
-peta- - peta*  
+peta- - peta\*  
 pian - suno  
-piano - piano*  
+piano - piano\*  
 pidentää - longa  
 pieni (pienesti, vähän) - lil (lili)  
 pierrä (pieraista) - peda  
@@ -2326,7 +2329,7 @@ Saturnus - Saturne
 satuttaa - pasha  
 Saudi Arabia - Saudi Arabia  
 sauma (ommel) - sutur  
-sauna - sauna*  
+sauna - sauna\*  
 savi - glutopote  
 savityö (keramiikka) - ceram  
 savu - duman  
@@ -2357,7 +2360,7 @@ selvä (selkeä) - klari
 sementti - cemente  
 Senegal - Senegal  
 sensori (aistin) - senser  
-sentti - centi*  
+sentti - centi\*  
 senttimetri (cm) - centimitre  
 seppä - metaljanger  
 Serbia - Serbia  
@@ -2413,6 +2416,7 @@ sisä- (sisäinen) - indi
 sisällysluettelo - tenliste  
 sisältö - ten  
 sisäsyntyinen - indojeni  
+sisäänkäynti - jinmun  
 sitoa - benda  
 sitruuna - limon  
 sivilisaatio - civilia  
@@ -2428,7 +2432,7 @@ Slovakia - Slovakia
 Slovenia - Slovenia  
 smaragdi - zumurude  
 sohva - kanape  
-sohva - sofa*  
+sohva - sofa\*  
 soihtu - fotobaton  
 soittaa (musisoida) - musika  
 soittokello - danger  
@@ -2502,7 +2506,7 @@ Surinam - Suriname
 surra (murehtia) - duku  
 suru (murhe) - duke  
 surullinen - duki  
-sushi - sushi*  
+sushi - sushi\*  
 susi (hukka) - wolfe  
 suu - boke  
 suukko (pusu) - chum  
@@ -2622,7 +2626,7 @@ tasainen (tasavertainen) - pari
 tasavalta - komunkratia  
 tasku - jebe  
 taso - par  
-tatuointi - tatu*  
+tatuointi - tatu\*  
 tauko (keskeytys, paussi) - pauze  
 taulukko - table  
 taulukoida - tabla  
@@ -2661,7 +2665,7 @@ tennis - tenis
 teokratia - dewkratia  
 teologia - dewlojia  
 teoria - teoria  
-tera- - tera*  
+tera- - tera\*  
 terrorismi - teroristia  
 terroristi - teroriste  
 terve - sihi  
@@ -2729,8 +2733,8 @@ trendi - fashon
 Trinidad ja Tobago - Trinidade e Tobago  
 trooppinen - garmozoni  
 tropiikki - garmozon  
-tsetta- - zeta*  
-tuhat (kilo-) - kilo*  
+tsetta- - zeta\*  
+tuhat (kilo-) - kilo\*  
 tuhka - huy  
 tulehdus - itis  
 tuleva - wilo  
@@ -3025,7 +3029,7 @@ virkailija (virkamies) - oficer
 Viro (Eesti) - Estia  
 virologia - viruslojia  
 virrata - liwu  
-virtahepo - gubu*  
+virtahepo - gubu\*  
 virtsa (pissa, kusi) - pish  
 virtsata (kusta) - pisha  
 virus - virus  
@@ -3144,7 +3148,7 @@ zarathustralaisuus - zardushistia
 zikkurat - zikur  
 Zimbabwe - Zimbabwe  
 zirkonium - zirkonem  
-zombi - zombi*  
+zombi - zombi\*  
 zulu - zuli  
 äidinkieli - jeni bash  
 äiti (emä) - mam  

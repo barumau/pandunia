@@ -32,7 +32,7 @@ aceituna - zaitun
 acelga - selge  
 acento - aksente  
 aceptar - okeya  
-achís - achu*  
+achís - achu\*  
 aciano (azulejo) - nilcentaur  
 aclarar (clarificar) - klara  
 acontecimiento (caso, suceso, evento) - kas  
@@ -130,7 +130,7 @@ alto (parte de arriba) - gaw
 alto - gawi  
 altura (altitud) - gawia  
 aluminio - aluminem  
-aló - halo*  
+aló - halo\*  
 alófono - alfon  
 amable (atento, tierno, dulce) - jentili  
 amapola silvestre - maidanpapil  
@@ -182,7 +182,7 @@ antimonio - estibem
 antorcha - fotobaton  
 antónimo - fanonam  
 análisis - analize  
-anón (ates, saramuyo) - ata*  
+anón (ates, saramuyo) - ata\*  
 aparecer - zayisu  
 apartarse (desviarse) - rutogalta  
 apellido - familnam  
@@ -271,7 +271,7 @@ automotor (automotriz) - automoti
 automóvil (coche) - motogar  
 autonomía - autonomia  
 autónomo - autonomi  
-avanzar (entrar, adelantar, progresar) - jina  
+avanzar (entrar, adelantar, progresar) - jinu  
 aventura - aventur  
 aventurero - aventurer  
 avisar (notificar) - notisa  
@@ -452,7 +452,7 @@ cadena - silsil
 cadmio - kadem  
 caer - padu  
 café (cafetería) - kafeshope  
-café - kafe*  
+café - kafe\*  
 cagar - shita  
 caimán (aligátor, yacaré) - kortokrokodil  
 caja (baúl, cofre, estuche) - sanduke  
@@ -505,7 +505,7 @@ canción - chante
 candela (unidad de intensidad luminosa) - kandel  
 canguro - kangaru  
 cannabis (hachís, marihuana) - ganje  
-canoa - kanoe*  
+canoa - kanoe\*  
 cansarse (fatigar) - fatigu  
 Cantalupo in Sabina - Kantalupo da Sabina  
 cantar - chanta  
@@ -571,7 +571,7 @@ cemento - cemente
 cena - shamyam  
 ceniza - huy  
 centellear (titilar) - shingofota  
-centi- (por ciento) - centi*  
+centi- (por ciento) - centi\*  
 central - jungi  
 centrar (concentrar) - junga  
 centrarse (en el centro de) - jungu  
@@ -605,7 +605,7 @@ chapati (pan sin levadura) - chapate
 chaqueta - jake  
 charlar (parlotear, chatear) - blabla  
 Chile - Chile  
-chile - chili*  
+chile - chili\*  
 chimpancé - chimpanze  
 China - Jungogia  
 chinchilla - chinchil  
@@ -910,7 +910,7 @@ debajo (estar debajo) - nicha
 debatir (discutir) - lon  
 deber (necesitar) - bishu  
 deber (se recomienda) - shudu  
-deci- - deci*  
+deci- - deci\*  
 decibelio - decibel  
 deciembre - desdulmes  
 decir (hablar) - loga  
@@ -1234,7 +1234,7 @@ etimología - logaslia
 Etiopía - Etiopia  
 etnia - zuke  
 Eurasia - eurasia  
-euro - euro*  
+euro - euro\*  
 Europa - europe  
 europeo - europi  
 europio - europem  
@@ -1410,7 +1410,7 @@ germanio - germanem
 gesto - jeste  
 Ghana - Gana  
 Gibraltar - Jibraltar  
-giga- - giga*  
+giga- - giga\*  
 ginseng - jenshen  
 girar (rotar) - rotu  
 girasol - solful  
@@ -1536,7 +1536,7 @@ hilo (cordel) - korde
 Himalaya - himalia  
 hinduismo - hindistia  
 hindú - hindiste  
-hipopótamo - gubu*  
+hipopótamo - gubu\*  
 historia (cuento, relato, leyenda) - sage  
 historia (estudio de sucesos del pasado) - historia  
 historia (pasado) - histor  
@@ -1760,7 +1760,7 @@ kilograma - kilogram
 kilometre - kilomitre  
 Kirguizistán - Kirgizia  
 Kiribati - Kiribati  
-kiwi fruta - kiwi*  
+kiwi fruta - kiwi\*  
 konkani - konkani  
 Kosovo - Kosovo  
 kumquat (quinoto) - auroranje  
@@ -1776,7 +1776,7 @@ ladrillo - dobe
 ladrón - chorer  
 ladrón - luter  
 lago - lage  
-lama - lama*  
+lama - lama\*  
 lantano - lantanum  
 lanzamisiles - roketolancer  
 Laos - Lao  
@@ -1829,7 +1829,7 @@ libre (horro) - huri
 libro - buke  
 libro de cuentos ilustrado - grafbuke  
 libélula - libel  
-lichi - lichi*  
+lichi - lichi\*  
 Liechtenstein - Lihtenshtain  
 liga (asociación, federación) - lige  
 ligero (leve, vago, débil, borroso) - mirdi  
@@ -1857,7 +1857,7 @@ litro - litre
 Lituania - Lietuva  
 lituano - lietuvi  
 livermorio - livermorem  
-llama - liama*  
+llama - liama\*  
 llamar (poner) - namisa  
 llamarse - namu  
 llanura - platistan  
@@ -1880,6 +1880,7 @@ logical - logiki
 longitud - westodongia  
 loro (papagayo) - papagay  
 lote (grupo) - lote  
+lucha - jihade  
 luchador (guerrero) - jenger  
 lugar - loke  
 lujuria (deseo) - kamia  
@@ -1909,8 +1910,8 @@ madera - mokomate
 madre (mamá) - mam  
 maduro (adulto, curado) - maturi  
 maestro (experto) - mester  
-maestro (gurú, profesor) - guru*  
-maestro (profesor) - darsoguru*  
+maestro (gurú, profesor) - guru\*  
+maestro (profesor) - darsoguru\*  
 maestro (profesor) - shense  
 magenta (fucsia) - majenti  
 magia - magia  
@@ -2058,11 +2059,11 @@ mierda - shite
 migración - migre  
 migrar (emigrar, tralsadar) - migra  
 migrarse (mudarse, trasladarse) - migru  
-mil (kilo-) - kilo*  
+mil (kilo-) - kilo\*  
 mili- - milo-  
 miligrama - milgram  
 milimetre - milmetre  
-millón (mega-) - mega*  
+millón (mega-) - mega\*  
 mina - kuangia  
 mineral (mena) - kuang  
 minero - kuanger  
@@ -2501,7 +2502,7 @@ petróleo - petronefte
 pez (pescado) - fish  
 pez globo - balonfish  
 peñasco (pedrusco) - daysheke  
-piano - piano*  
+piano - piano\*  
 pidgin - pijin  
 pie (pata) - fute  
 piedra - sheke  
@@ -2672,7 +2673,7 @@ Puerto Rico - Porto Riko
 pulir (lustrar) - fotofrika  
 pulmón - pulmon  
 pulpo - balsenter  
-puma - puma*  
+puma - puma\*  
 punjabí - panjabi  
 punto (lunar) - binde  
 punto - punte  
@@ -2876,7 +2877,7 @@ sabiduría (conocimiento) - save
 sabiduría - sofia  
 sabio - sofi  
 sabroso (umami) - umami  
-sacerdote (clérigo, eclesiástico) - dinguru*  
+sacerdote (clérigo, eclesiástico) - dinguru\*  
 saco - sake  
 sagrado (santo) - santi  
 sal - sal  
@@ -2919,7 +2920,7 @@ satanista - shataniste
 Satanás - shatan  
 Saturno - Saturne  
 satánico - shatani  
-sauna - sauna*  
+sauna - sauna\*  
 se (mismo) - ze  
 seaborgio - seaborgem  
 secar - gana  
@@ -3008,7 +3009,7 @@ socialista - sociste
 sociedad - socia  
 sodio - natre  
 sofá - kanape  
-sofá - sofa*  
+sofá - sofa\*  
 sogún - shogun  
 sol - sol  
 Solamilandia - Somalilandia  
@@ -3065,7 +3066,7 @@ sur - sude
 sureño - sudi  
 surgéncia (propuesta) - suje  
 Surinam - Suriname  
-sushi - sushi*  
+sushi - sushi\*  
 sustancia (materia) - mate  
 sustancia - kim  
 sustantivo - namloge  
@@ -3105,7 +3106,7 @@ tapón (tapa) - tape
 tarde (después de mediodía) - shamden  
 tarjeta (carta) - karde  
 tasa (precio, cuota, tarifa) - takse  
-tatuaje - tatu*  
+tatuaje - tatu\*  
 taxi (cab) - taksogar  
 Tayikistán - Tajikia  
 taza de café - kafkope  
@@ -3142,7 +3143,7 @@ tentáculo - senter
 teocracia - dewkratia  
 teología - dewlojia  
 teoría - teoria  
-tera- - tera*  
+tera- - tera\*  
 terbio - terbem  
 terminar (acabar) - fina  
 termómetro - termometer  
@@ -3423,7 +3424,7 @@ zapato - sapate
 zigurat - zikur  
 zigzag - zigzage  
 Zimbabue - Zimbabwe  
-zombi - zombi*  
+zombi - zombi\*  
 zoo - hewanparke  
 zoroastriano - zardushiste  
 zoroastrismo - zardushistia  

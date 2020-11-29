@@ -12,8 +12,8 @@ abla - poder
 able - habilidad  
 abli - posible  
 ablo - posiblemente  
-achu* - achís  
 achua - estornudar  
+achu\* - achís  
 acinem - actinio  
 adali - justo  
 adalia - justicia  
@@ -162,7 +162,7 @@ asli - original
 asme - asma  
 aspirin - aspirina  
 astatem - ástato  
-ata* - anón (ates, saramuyo)  
+ata\* - anón (ates, saramuyo)  
 ate - acto  
 ater - agente  
 Athina - Atenas  
@@ -419,8 +419,8 @@ cel - célula
 celolojia - citología  
 celsius darje - grado Celsius  
 cemente - cemento  
-centi* - centi- (por ciento)  
 centimitre - centímetro  
+centi\* - centi- (por ciento)  
 ceram - cerámica  
 cerebre - cerebro  
 cerem - cerio  
@@ -468,7 +468,7 @@ cherize - cereza
 cherni - negro  
 Chernogora - Montenegro  
 Chile - Chile  
-chili* - chile  
+chili\* - chile  
 chimpanze - chimpancé  
 chinchil - chinchilla  
 chini - chinés (de los Han)  
@@ -546,7 +546,7 @@ darsa - aprender (estudiar)
 darse - lección  
 darser - estudiante  
 darsia - escuela (colegio, institución)  
-darsoguru* - maestro (profesor)  
+darsoguru\* - maestro (profesor)  
 darsoshef - director de colegio  
 darte - tierra (barro)  
 darti - sucio  
@@ -568,8 +568,8 @@ daysheke - peñasco (pedrusco)
 dayu - crecer (aumentar)  
 dayvaze - caldero  
 debili - débil  
-deci* - deci-  
 decibel - decibelio  
+deci\* - deci-  
 def - defensa  
 defa - defender  
 defbanze - escudo  
@@ -609,7 +609,7 @@ dike - objetivo
 din - religión  
 dinamite - dinamita  
 ding - clavo (pincho, punta)  
-dinguru* - sacerdote (clérigo, eclesiástico)  
+dinguru\* - sacerdote (clérigo, eclesiástico)  
 dini - religioso  
 diniste - creyente  
 diorite - diorita  
@@ -753,12 +753,12 @@ estudia - estudio
 Etiopia - Etiopía  
 eurasia - Eurasia  
 eureka - econtrar (hallar)  
-euro* - euro  
 europe - Europa  
 europem - europio  
 europi - europeo  
 europi unisia - Unión Europea  
 europobalute - roble común  
+euro\* - euro  
 evanjil - evangelio  
 evi - beneficioso (bueno)  
 ##f
@@ -985,7 +985,7 @@ geyi - gay (homosexual)
 gida - guiar  
 gider - guía  
 gidobuke - guía de viaje  
-giga* - giga-  
+giga\* - giga-  
 gitar - guitarra  
 Giyana - Guyana Francesa  
 glisu - deslizar  
@@ -1027,7 +1027,7 @@ Guadelupe - Guadalupe
 Guam - Guam  
 guanshe - relación (asociación, conexión)  
 Guatemala - Guatemala  
-gubu* - hipopótamo  
+gubu\* - hipopótamo  
 gude - caballo  
 guhe - cueva (caverna)  
 gujarati - gujaratí  
@@ -1037,9 +1037,9 @@ gula - tragar
 gum - tambor  
 gun - ejército  
 gunren - soldado  
-guru* - maestro (gurú, profesor)  
 gurube - cerdo (puerco)  
 gurubomanse - carne de cerdo  
+guru\* - maestro (gurú, profesor)  
 gusta - notar el sabor  
 guste - gusto (sabor)  
 gustu ko - tener gusto a  
@@ -1067,7 +1067,7 @@ halaloliste - lista blanca
 halela - elogiar (alabar, exaltar)  
 halif - califa  
 halifia - califato  
-halo* - aló  
+halo\* - aló  
 hamake - hamaca  
 hamar - martillo (mazo)  
 hami - importante  
@@ -1304,10 +1304,11 @@ Jersi - Jersey
 jeste - gesto  
 Jibraltar - Gibraltar  
 Jibuti - Yibuti  
-jina - avanzar (entrar, adelantar, progresar)  
+jihade - lucha  
 jinmun - entrada  
 jino - adelante  
 jinse - sexo (género)  
+jinu - avanzar (entrar, adelantar, progresar)  
 jiraf - jirafa  
 jive - vida  
 jivi - vivo (lleno de vida)  
@@ -1347,8 +1348,8 @@ Kabu Verde - Cabo Verde
 kade - bacalao  
 kadem - cadmio  
 kafas - jaula (caja)  
-kafe* - café  
 kafeshope - café (cafetería)  
+kafe\* - café  
 kafir - pagano (infiel)  
 kafkope - taza de café  
 kaguje - papel  
@@ -1403,7 +1404,7 @@ kangaru - canguro
 kanion - cañón (barranco, quebrada)  
 kanjar - puñal (daga)  
 kankesh - pestaña  
-kanoe* - canoa  
+kanoe\* - canoa  
 kansuy - lágrima  
 kansuygas - gas lacrimógeno  
 Kantalupo da Sabina - Cantalupo in Sabina  
@@ -1522,7 +1523,7 @@ kitabomashin - máquina de escribir
 kitabominister - bibliotecario  
 kitaborupe - formateo  
 kitu - ir  
-kiwi* - kiwi fruta  
+kiwi\* - kiwi fruta  
 klara - aclarar (clarificar)  
 klari - claro  
 klas - clase (categoría)  
@@ -1683,7 +1684,7 @@ lali - rojo
 lalolince - lince rojo (gato montés)  
 laloranje - mandarina (tangerina)  
 lalsamon - salmón rojo  
-lama* - lama  
+lama\* - lama  
 lampe - lámpara  
 lan - maldición  
 lana - maldecir  
@@ -1733,7 +1734,7 @@ lete - verano
 letis - lechuga  
 lewo - ya (acción completado)  
 leze - pera  
-liama* - llama  
+liama\* - llama  
 liba - erigir (montar, armar)  
 Libanon - Líbano  
 libel - libélula  
@@ -1743,7 +1744,7 @@ Libia - Libia
 libobanze - estante (repisa)  
 libobaze - soporte (perchero, atril)  
 libu - estar de pie  
-lichi* - lichi  
+lichi\* - lichi  
 lida - dirigir (mandar, conducir, capitanear)  
 lider - dirigente (líder)  
 lidokorde - correa (rein)  
@@ -2419,7 +2420,7 @@ petre - roca (piedra)
 petronefte - petróleo  
 pey - pago  
 peya - pegar  
-piano* - piano  
+piano\* - piano  
 piaze - cebolla  
 pige - trasero (nalgas)  
 pijin - pidgin  
@@ -2540,7 +2541,7 @@ pujomeze - altar
 pujorite - rito (ceremonia)  
 pul - puente  
 pulmon - pulmón  
-puma* - puma  
+puma\* - puma  
 punte - punto  
 puntobanze - marcador  
 puntonombre - puntuación (resultado)  
@@ -2774,7 +2775,7 @@ sate - momento (tiempo)
 Saturne - Saturno  
 saudar - hermano o hermana  
 Saudi Arabia - Arabia Saudita  
-sauna* - sauna  
+sauna\* - sauna  
 sava - saber (conocer)  
 savan - sabana  
 save - sabiduría (conocimiento)  
@@ -2944,7 +2945,7 @@ soci media - redes sociales
 socia - sociedad  
 sociste - socialista  
 socistia - socialismo  
-sofa* - sofá  
+sofa\* - sofá  
 sofi - sabio  
 sofia - sabiduría  
 soke - calcetín  
@@ -3014,7 +3015,7 @@ Suria - Siria
 Suriname - Surinam  
 surinami bash - sranan tongo  
 susan - lirio  
-sushi* - sushi  
+sushi\* - sushi  
 suta - coser  
 sutur - costura (sutura)  
 suy - agua  
@@ -3067,7 +3068,7 @@ tarjer - traductor
 tas - plato  
 tate - orilla (ribera)  
 tatike - táctica (estrategia)  
-tatu* - tatuaje  
+tatu\* - tatuaje  
 tave - sartén  
 tayi - tailandés  
 tayia - Tailandia  
@@ -3102,7 +3103,7 @@ tenta - tentar (seducir)
 tenu - ser de  
 teoria - teoría  
 tepe - cinta adhesiva  
-tera* - tera-  
+tera\* - tera-  
 terbem - terbio  
 tercha - inclinar  
 terchi - oblicuo (torcido)  
@@ -3441,7 +3442,7 @@ zipe - cremallera
 zir - comino  
 zirkonem - circonio  
 ziza - chisporrotear  
-zombi* - zombi  
+zombi\* - zombi  
 zon - cinturón (zona)  
 zong - poste (estaca, palo)  
 zonga - atravesar  

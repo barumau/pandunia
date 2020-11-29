@@ -236,7 +236,7 @@ buŝo - boke
 celi - dika  
 celo - dike  
 cent - honi  
-centono - centi*  
+centono - centi\*  
 centro - jung  
 cepo - piaze  
 cerbo - cerebre  
@@ -271,7 +271,7 @@ defendi - defa
 defendo - def  
 dek (10) - desi  
 dek miloj - deskili  
-dekono - deci*  
+dekono - deci\*  
 delfeno - dolfin  
 demandanta - wendan  
 demandi - wenda  
@@ -331,7 +331,7 @@ ejnŝtejnio - ainstainem
 ejo (ujo, io) - -ia  
 ejo - aria  
 ekrano - ekran  
-eksa- - eksa*  
+eksa- - eksa\*  
 ekstera - wayi  
 ekstero - way  
 Ekvadoro - ekuador  
@@ -384,7 +384,7 @@ evangelio - evanjil
 eĉ - hato  
 eĥo - mirsonde  
 Eŭrazio - eurasia  
-eŭro - euro*  
+eŭro - euro\*  
 Eŭropa - europi  
 Eŭropa Unio (EU) - europi unisia  
 eŭropio - europem  
@@ -532,7 +532,7 @@ Grekio - Helenia
 grimaco - grimas  
 grupo - grupe  
 Gujano - Gayana  
-guruo (instruisto) - guru*  
+guruo (instruisto) - guru\*  
 gusti kiel - gustu ko  
 gusto - guste  
 gustumi - gusta  
@@ -574,7 +574,7 @@ hieraū - chendeno
 Himalajo - himalia  
 hinduismo - hindistia  
 hinduo - hindiste  
-hipopotamo - gubu*  
+hipopotamo - gubu\*  
 Hispanio - Espania  
 historiisto - historer  
 historio (studo de historio) - historia  
@@ -614,7 +614,7 @@ infekto - infekse
 informacio - informe  
 inko - moge  
 ino - fem  
-instruisto - darsoguru*  
+instruisto - darsoguru\*  
 insulto - ninde  
 inter - medu  
 interesa - interesi  
@@ -670,7 +670,7 @@ juĝo - hakim
 kadmio - kadem  
 kadro - frem  
 kafejo - kafeshope  
-kafo - kafe*  
+kafo - kafe\*  
 kaftaso - kafkope  
 kaj - e  
 kajero - notobuke  
@@ -694,7 +694,7 @@ kanonisto - daypawer
 kanono - daypaw  
 kanti - chanta  
 kanto - chante  
-kanuo (kanoto) - kanoe*  
+kanuo (kanoto) - kanoe\*  
 kaoso (malordo) - haos  
 kapro - buze  
 kapti - kapa  
@@ -730,7 +730,7 @@ kiom? - ko multo
 kiso - chum  
 kiu (komencigas relativan frazon) - da  
 kiu? - ki ren  
-kivo - kiwi*  
+kivo - kiwi\*  
 klara - klari  
 klarigi - klara  
 klavaro - butonbanze  
@@ -1000,11 +1000,11 @@ mikro- - mikro-
 miksi - miksa  
 miksilo - mikser  
 miksulo - hibride  
-mil (kilo-) - kilo*  
+mil (kilo-) - kilo\*  
 mili- - milo-  
-miliardo (giga-) - giga*  
+miliardo (giga-) - giga\*  
 milimetro - milmetre  
-miliono - mega*  
+miliono - mega\*  
 milita - jengi  
 milito (batalo) - jeng  
 ministro - minister  
@@ -1166,7 +1166,7 @@ partopreni - parta
 pasinta - pasi  
 pasinteco - pas  
 pasporto - pasporte  
-pastro - dinguru*  
+pastro - dinguru\*  
 pato - tave  
 patologio - patolojia  
 patrino - mam  
@@ -1180,12 +1180,12 @@ pentri - penta
 perlo - lul  
 persa - farsi  
 persono - ren  
-peta- - peta*  
+peta- - peta\*  
 peti (bonvolu) - pliza  
 peza - bari  
 pezmetalo - barmetal  
 pezo - baria  
-piano - piano*  
+piano - piano\*  
 picejo - pizeria  
 pico - pize  
 piedo - fute  
@@ -1359,7 +1359,7 @@ salo - sal
 salti - jampa  
 saluti - salama  
 saluto - salame  
-saluton! - halo*  
+saluton! - halo\*  
 sama - sami  
 samario - samarem  
 samlandano - samdeshi  
@@ -1375,7 +1375,7 @@ sankta - santi
 sapo - sabun  
 saĝa - sofi  
 saŭco - sos  
-saŭno - sauna*  
+saŭno - sauna\*  
 scienco - lojia  
 scii (koni) - sava  
 scio - save  
@@ -1428,7 +1428,7 @@ skultisto - eskulter
 smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
-sofo - sofa*  
+sofo - sofa\*  
 soifo - suynide  
 sola (ununura) - uniki  
 soldato - gunren  
@@ -1470,7 +1470,7 @@ surfaco - fas
 surporti - fuki  
 surprizo - suprize  
 suĉi - chupa  
-suŝio - sushi*  
+suŝio - sushi\*  
 svastiko - hukokrus  
 sŭahili - suahili  
 ##t
@@ -1491,7 +1491,7 @@ tantalo - tantalum
 Tanzanio - Tanzania  
 tapeto - murkaguje  
 taso - kope  
-tatuo - tatu*  
+tatuo - tatu\*  
 teknecio - tehnem  
 tekniko - tehne  
 teknologio - tehnolojia  

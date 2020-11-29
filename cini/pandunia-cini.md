@@ -3,8 +3,8 @@
 abite - 冷杉  
 abla - 会  
 abli - 可能  
-achu* - 阿嚏  
 achua - 打喷嚏  
+achu\* - 阿嚏  
 adali - 公正地  
 adalia - 正义  
 adres - 地址  
@@ -167,8 +167,8 @@ chendeno - 昨日
 cheng - 层  
 cheno - 以前  
 cherni - 黑色  
-chili* - 菜椒  
 chilifun - 辣椒粉  
+chili\* - 菜椒  
 chini - 汉族  
 chir - 撕裂  
 chira - 撕裂  
@@ -377,7 +377,7 @@ jus - 汁
 kaboge - 南瓜  
 kade - 鱈  
 kafas - 笼  
-kafe* - 咖啡  
+kafe\* - 咖啡  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kaisha - 开始  
@@ -437,7 +437,7 @@ kitaba - 写
 kitabia - 图书馆  
 kitabomashin - 打字机  
 kitu - 去  
-kiwi* - 奇异果  
+kiwi\* - 奇异果  
 klien - 顾客  
 klimomute - 气候变化  
 ko - 比  
@@ -477,7 +477,7 @@ lali - 红
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
 lalsamon - 紅鮭  
-lama* - 喇嘛  
+lama\* - 喇嘛  
 lampe - 灯  
 lan - 诅咒  
 lancograf - 投影  
@@ -498,7 +498,7 @@ lengi - 冷たい (寒い)
 lenti - 慢  
 letis - 莴苣  
 leze - 梨  
-liama* - 大羊駝  
+liama\* - 大羊駝  
 libel - 蜻蜓  
 libobanze - 架子 (搁板)  
 libobaze - 架子  
@@ -560,7 +560,7 @@ me - 我
 meche - 比赛  
 medi - 中型  
 medikosuy - 药水  
-mega* - 百万 (兆)  
+mega\* - 百万 (兆)  
 mege - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
 melvesposanduke - 蜂箱  
@@ -697,7 +697,7 @@ puding - 布丁
 pudu - 腐烂  
 pujomeze - 圣坛  
 pul - 桥  
-puma* - 美洲獅 (山狮)  
+puma\* - 美洲獅 (山狮)  
 purshipa - 浸泡  
 putawlimon - 葡萄柚  
 putongi - 普通  
@@ -795,7 +795,7 @@ sirplan - 阴谋 (密谋)
 sisi - 六 (6)  
 soci jinse - 社會性別  
 socia - 社会  
-sofa* - 沙发  
+sofa\* - 沙发  
 sol - 太阳  
 solful - 向日葵  
 solsistem - 太阳系  

@@ -182,7 +182,7 @@ chendeno - вчера
 cheno - раньше  
 cherize - черешня  
 cherni - чёрный  
-chili* - перец (паприка)  
+chili\* - перец (паприка)  
 chini - хань  
 chir - рвать  
 chira - рвать  
@@ -332,7 +332,7 @@ guypapil - мак восточный
 habar - новости  
 haha - смеяться  
 hal - состояние (статус)  
-halo* - алло  
+halo\* - алло  
 hami - важный (значимый)  
 hamili - беременный  
 hande - рука  
@@ -394,6 +394,7 @@ jeni - сырой
 jeni bash - родной язык  
 jenisa - выращивать  
 jentipe - генотип  
+jihade - борьба (бой)  
 jinse - пол  
 jiraf - жираф  
 jive - жизнь  
@@ -412,7 +413,7 @@ justopawer - снайпер
 kababi manse - кебаб  
 kaboge - тыква  
 kafas - клетка  
-kafe* - кофе  
+kafe\* - кофе  
 kaguje - бумага  
 kagujolimon - лайм  
 kalam - ручка  
@@ -433,7 +434,7 @@ kanchodake - глазурь
 kangaru - кенгуру  
 kanion - овраг (ущелье, каньон)  
 kanjar - кинжал  
-kanoe* - каноэ  
+kanoe\* - каноэ  
 kansuygas - слезоточи́вый газ  
 Kantalupo da Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
@@ -471,7 +472,7 @@ kitabia - библиотека
 kitabomashin - пишущая машинка  
 kitabominister - библиотекарь  
 kitu - идти  
-kiwi* - киви  
+kiwi\* - киви  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimomute - изменение климата  
@@ -517,7 +518,7 @@ lali - красный
 lalolince - рыжая рысь  
 laloranje - мандарин  
 lalsamon - нерка (красница)  
-lama* - лама (религиозный учитель в тибетском буддизме)  
+lama\* - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
 lan - проклятие  
 lancovute - снаряд  
@@ -532,7 +533,7 @@ lazanye - лазанья
 lazuar - лазурит  
 lete - лето  
 letis - салат-латук  
-liama* - лама  
+liama\* - лама  
 libel - стрекоза  
 libobanze - полка  
 lider - руководитель (лидер)  
@@ -749,7 +750,7 @@ program - программа
 projete - проект  
 pudu - гнить (портиться)  
 pujomeze - алтарь  
-puma* - пума (кугуар)  
+puma\* - пума (кугуар)  
 puntonombre - оценка  
 pura - заполнять  
 puri - полный  
@@ -854,7 +855,7 @@ sisi - шесть (6)
 slavi - славянский  
 soci jinse - гендер  
 socia - общество (социум)  
-sofa* - софа (диван, канапе)  
+sofa\* - софа (диван, канапе)  
 soke - носок  
 sol - солнце  
 solchate - зонтик от солнца  
@@ -886,7 +887,7 @@ taltesh - ковёр
 tan - стебель  
 tarje - перевод  
 tas - блюдо (таз)  
-tatu* - татуировка (тату)  
+tatu\* - татуировка (тату)  
 tazi - свежий  
 te - ты  
 tehne - техника  
