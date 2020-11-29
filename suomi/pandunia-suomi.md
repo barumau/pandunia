@@ -261,6 +261,7 @@ barmetal - raskasmetalli
 barmetrer - vaaka (puntari)  
 barshe - sade  
 barshi - sateinen  
+barshi mosim - sadekausi  
 barshochate - sateenvarjo  
 barshokote - sadetakki  
 barshu - sataa  
@@ -268,7 +269,7 @@ barti - intialainen
 Barti Hay - Intian valtameri  
 Bartia - Intia  
 barude - ruuti  
-barya - estää kulku  
+barya - estää kulku (tukkia tie)  
 baryer - este  
 basen - allas  
 bash - kieli (kommunikaatio)  
@@ -554,6 +555,7 @@ darse - oppi (opetus)
 darser - oppilas  
 darsia - koulu (opisto)  
 darsoguru* - opettaja  
+darsokamar - luokkahuone  
 darsoshef - rehtori  
 darte - maa (multa)  
 darti - likainen (mutainen)  
@@ -626,13 +628,12 @@ dish - suunta
 disho - suoraan  
 diske - kiekko (levy)  
 disprosem - dysprosium  
-divar - seinä (muuri)  
-divarkaguje - tapetti  
 Divehia - Malediivit  
 dobe - tiili  
 doichi - saksalainen  
 Doichia - Saksa  
 dokum - asiakirja (dokumentti, tiedosto)  
+dokumfilme - dokumenttielokuva  
 dokumsanduke - kansio (hakemisto)  
 dolar - dollari  
 dolfin - delfiini  
@@ -737,15 +738,11 @@ Eritria - Eritrea
 es - olo (oleminen)  
 esa - olla  
 esey - essee  
-eska - kysyä  
 eskal - portaat (rappuset, tikkaat)  
 eskala - kiivetä  
 eskaltan - köynnös  
 eskandem - skandium  
 Eskandia - Skandinavia  
-eske - kysymys  
-eski - kysyvä  
-eskodokum - kyselylomake  
 Eskotia - Skotlanti  
 eskulta - veistää kuvaa  
 eskulte - veistos (patsas)  
@@ -1268,15 +1265,11 @@ jambul - jambolaani
 jami - kollektiivinen  
 jamia - yhteisö (kokoontuminen, kollektiivi)  
 jampa - hypätä (hyppiä)  
-jan - tieto (tietämys)  
-jana - tietää (tuntea)  
 janel - ikkuna  
 janelfrem - ikkunankehys (ikkunanpuite)  
 janger - artesaani (käsityöläinen)  
 jangi - kätevä  
 jangle - metsä (viidakko)  
-jani - tietty (tunnettu)  
-janlojia - tietoteoria (epistemologia)  
 jar - kannu (karahvi)  
 jawaba - vastata  
 jawabe - vastaus  
@@ -1996,7 +1989,9 @@ mumfote - kynttilä
 mumren - muumio  
 mun - ovi (portti, veräjä)  
 mungus - mangusti  
+mur - seinä (muuri)  
 Muritania - Mauritania  
+murkaguje - tapetti  
 mus - pakko  
 musa - pakottaa  
 mush - hiiri  
@@ -2586,6 +2581,10 @@ Saturne - Saturnus
 saudar - sisarus (veli tai sisko)  
 Saudi Arabia - Saudi Arabia  
 sauna* - sauna  
+sava - tietää (tuntea)  
+save - tieto (tietämys)  
+savi - tietty (tunnettu)  
+savolojia - tietoteoria (epistemologia)  
 say - varjo  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
@@ -2980,6 +2979,7 @@ Venezuela - Venezuela
 veri - tosi (aito)  
 verme - mato  
 vermute - vermutti  
+vero - todella  
 version - versio  
 vespe - mehiläinen tai ampiainen  
 vica - korvata  
@@ -3042,6 +3042,10 @@ wayoyam - eväsretki (piknik)
 we - tuo  
 weka - herättää  
 weki - olla hereillä  
+wenda - kysyä  
+wendan - kysyvä  
+wende - kysymys  
+wendodokum - kyselylomake  
 weste - länsi  
 westi - läntinen  
 wi - tuo (nuo)  

@@ -183,7 +183,7 @@ ash (ashes) - huy
 ash tree - yasen  
 Asia - asia  
 Asian - asi  
-ask (inquire) - eska  
+ask (inquire) - wenda  
 ask (request, beg; please) - pliza  
 asparagus - lusun  
 aspirin - aspirin  
@@ -269,7 +269,7 @@ Barbuda - Barbuda
 barium - barem  
 barometer - airbarmetrer  
 barrel (can, cask) - tong  
-barrier - baryer  
+barrier (fence) - baryer  
 base (alkali) - alkal  
 base (foundation) - baze  
 baseball - bazobol  
@@ -626,6 +626,7 @@ clarify (clear up) - klara
 class (category) - klas  
 classic (classical) - puranyangi  
 classify (categorize) - klasa  
+classroom - darsokamar  
 clay - glutopote  
 clean (pure) - safi  
 clean (purify) - safa  
@@ -932,6 +933,7 @@ doctor (scholar who has attained doctorate) - dotor
 doctorate - dotoria  
 document (paper) - papir  
 document (record, file) - dokum  
+documentary film - dokumfilme  
 doer (agent, actor) - er  
 dog - waf  
 doll (puppet) - pupe  
@@ -1047,7 +1049,7 @@ entrance - jinmun
 environment (nature) - ekia  
 environmental (natural) - eki  
 enzyme - enzim  
-epistemology - janlojia  
+epistemology - savolojia  
 equator - zemparlinye  
 Equatorial Guinea - Zemparlinyi Ginia  
 erbium - erbem  
@@ -1218,11 +1220,11 @@ force (strength, power) - fortia
 foreign - waydeshi  
 foreign country - waydeshia  
 forenoon - suboden  
-forest (jungle, woods) - jangle  
+forest (woods, jungle) - jangle  
 foreward - jino  
 forget - anmema  
 fork - forke  
-form (questionaire) - eskodokum  
+form (questionaire) - wendodokum  
 form (shape) - forme  
 formatting - kitaborupe  
 forum (public space) - forum  
@@ -1601,7 +1603,7 @@ international - nasmedi
 internet - internete  
 interpreter (translator) - tarjer  
 interracial - rasmedi  
-interrogative - eski  
+interrogative - wendan  
 invite - pliza laya  
 Io - Io  
 iodine - iodem  
@@ -1707,9 +1709,9 @@ knead (massage) - masaja
 knee - gute  
 knife - chake  
 knot (node) - node  
-know (recognize) - jana  
-knowledge - jan  
-known - jani  
+know (be aware of) - sava  
+knowledge - save  
+known - savi  
 Konkani - konkani  
 Korea - Chosen  
 Korean - Choseni  
@@ -1942,7 +1944,7 @@ martial art - jengoshute
 marvel (wonder) - ajabe  
 mask (camouflage) - maske  
 mason (stonemason, stonecutter) - shekojanger  
-mass (dough, lump) - mas  
+mass (quantity of matter) - mas  
 massage - masaje  
 mast - maste  
 master (be an expert at sth) - mesta  
@@ -2629,7 +2631,7 @@ qualify (describe) - sifa
 quark (paneer) - panir  
 quartz - kuarce  
 queen - femi rajer  
-question - eske  
+question - wende  
 quotation mark - citi marke  
 quote (cite) - cita  
 Quran (Koran) - kuran  
@@ -2656,6 +2658,7 @@ rainbow - rangarke
 rainbow trout - rangarkosamon  
 raincoat - barshokote  
 rainy - barshi  
+rainy season (monsoon) - barshi mosim  
 raise (lift) - gawa  
 raisin - ganputaw  
 Ramadan - ramazan  
@@ -3388,7 +3391,8 @@ Triton - Triton
 tropical - garmozoni  
 tropics - garmozon  
 trouble (disturbance, bother) - mafan  
-true (real, genuine, very, indeed) - veri  
+true (real, genuine) - veri  
+truly (indeed, very) - vero  
 trunk (torso) - torse  
 trust (rely) - nidoshina  
 try (attempt) - testa  
@@ -3526,9 +3530,9 @@ wait - denga
 wake (make awake) - weka  
 Wales (Cambria) - Kamria  
 walk (march) - marchu  
-wall - divar  
+wall (structure for delimitation) - mur  
 Wallis and Futuna Islands - Walis e Futuna nesia  
-wallpaper - divarkaguje  
+wallpaper - murkaguje  
 want (desire, longing) - vol  
 want (desire, wish) - volu  
 warm (hot) - garmi  

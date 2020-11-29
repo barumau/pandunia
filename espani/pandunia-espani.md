@@ -265,8 +265,8 @@ barti - indio (hindú)
 Barti Hay - océano Índico  
 Bartia - India  
 barude - pólvora  
-barya - bloquear (obstruir)  
-baryer - barrera  
+barya - barrar (bloquear, obstruir)  
+baryer - barrera (barda)  
 basen - piscina (alberca, lavadero)  
 bash - lengua (idioma)  
 basha - hablar (comunicarse)  
@@ -617,13 +617,12 @@ dish - dirección
 disho - directamente  
 diske - disco  
 disprosem - disprosio  
-divar - muro (muralha)  
-divarkaguje - papel tapiz  
 Divehia - Maldivas  
 dobe - ladrillo  
 doichi - alemán  
 Doichia - Alemania  
 dokum - documento (archivo, nota)  
+dokumfilme - documental  
 dokumsanduke - carpeta  
 dolar - dolar  
 dolfin - delfín  
@@ -728,15 +727,11 @@ Eritria - Eritrea
 es - ser  
 esa - ser (estar)  
 esey - ensayo (redacción)  
-eska - preguntar (inquirir)  
 eskal - escalera  
 eskala - escalar  
 eskaltan - enredadera  
 eskandem - escandio  
 Eskandia - Escandinavia  
-eske - pregunta  
-eski - interrogativa  
-eskodokum - formulario  
 Eskotia - Escocia  
 eskulta - esculpir  
 eskulte - escultura (estatua)  
@@ -1271,13 +1266,9 @@ Jamaika - Jamaica
 jami - colectivo  
 jamia - colección (grupo, conjunto, montón)  
 jampa - saltar (brincar)  
-jan - sabiduría (conocimiento)  
-jana - saber (conocer)  
 janel - ventana  
 janger - artesano  
 jangle - bosque (jungla, selva)  
-jani - conocido  
-janlojia - epistemología  
 jar - jarra  
 jawaba - responder (contestar)  
 jawabe - repuesta (contestación)  
@@ -2110,7 +2101,9 @@ mumomelon - calabaza china (calabaza de la cera)
 mumren - momia  
 mun - puerta  
 mungus - mangosta  
+mur - muro (muralha)  
 Muritania - mauritania  
+murkaguje - papel tapiz  
 mus - coacción  
 musa - coaccionar (forzar, obligar)  
 mush - ratón  
@@ -2782,7 +2775,11 @@ Saturne - Saturno
 saudar - hermano o hermana  
 Saudi Arabia - Arabia Saudita  
 sauna* - sauna  
+sava - saber (conocer)  
 savan - sabana  
+save - sabiduría (conocimiento)  
+savi - conocido  
+savolojia - epistemología  
 say - sombra  
 seaborgem - seaborgio  
 sekreter - secretario  
@@ -3333,6 +3330,10 @@ we - eso
 weka - despertar  
 weki - despierto  
 wen - anillo  
+wenda - preguntar (inquirir)  
+wendan - interrogativa  
+wende - pregunta  
+wendodokum - formulario  
 wenjoworanje - unshu mikan  
 weste - oeste  
 westi - occidental  

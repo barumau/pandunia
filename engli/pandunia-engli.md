@@ -280,6 +280,7 @@ barmetal - heavy metal
 barmetrer - scales (weighing device)  
 barshe - rain (precipitation)  
 barshi - rainy  
+barshi mosim - rainy season (monsoon)  
 barshochate - umbrella  
 barshokote - raincoat  
 barshu - rain (pour down)  
@@ -288,7 +289,7 @@ Barti Hay - Indian Ocean
 Bartia - India  
 barude - gunpowder  
 barya - bar (obstruct, block)  
-baryer - barrier  
+baryer - barrier (fence)  
 basen - pool (basin, bowl)  
 bash - language (communication)  
 basha - speak (communicate)  
@@ -587,6 +588,7 @@ darse - lesson
 darser - student (pupil, learner)  
 darsia - school (institution)  
 darsoguru* - teacher  
+darsokamar - classroom  
 darsoshef - headmaster (principal)  
 darte - soil (dirt)  
 darti - soily (dirty)  
@@ -663,13 +665,12 @@ dish - direction
 disho - directly  
 diske - disc (disk)  
 disprosem - dysprosium  
-divar - wall  
-divarkaguje - wallpaper  
 Divehia - Maldives  
 dobe - brick  
 doichi - German  
 Doichia - Germany  
 dokum - document (record, file)  
+dokumfilme - documentary film  
 dokumsanduke - folder (directory)  
 dolar - dollar  
 dolfin - dolphin  
@@ -783,15 +784,11 @@ Eritria - Eritrea
 es - being  
 esa - be  
 esey - essay  
-eska - ask (inquire)  
 eskal - stairs (ladder)  
 eskala - climb (get on)  
 eskaltan - vine  
 eskandem - scandium  
 Eskandia - Scandinavia  
-eske - question  
-eski - interrogative  
-eskodokum - form (questionaire)  
 Eskotia - Scotland  
 eskulta - sculpt (carve)  
 eskulte - sculpture (statue)  
@@ -1360,15 +1357,11 @@ jambul - jambul
 jami - collective  
 jamia - collection (congregation, assembly)  
 jampa - jump  
-jan - knowledge  
-jana - know (recognize)  
 janel - window  
 janelfrem - window frame  
 janger - artisan (craftsman)  
 jangi - crafty (dexterous)  
-jangle - forest (jungle, woods)  
-jani - known  
-janlojia - epistemology  
+jangle - forest (woods, jungle)  
 jar - jug (jar, pitcher)  
 jawaba - respond (give an answer)  
 jawabe - answer (reply, response)  
@@ -2048,7 +2041,7 @@ marka - mark (leave a mark)
 marke - mark (trace)  
 Marse - Mars  
 Marshal nesia - Marshall Islands  
-mas - mass (dough, lump)  
+mas - mass (quantity of matter)  
 masaja - knead (massage)  
 masaje - massage  
 masal - spice (seasoning)  
@@ -2257,7 +2250,9 @@ mumomelon - winter melon (wax gourd, ash gourd)
 mumren - mummy  
 mun - door (gate, portal)  
 mungus - mongoose  
+mur - wall (structure for delimitation)  
 Muritania - Mauritania  
+murkaguje - wallpaper  
 mus - coercion  
 musa - coerce (force, compel)  
 mush - mouse  
@@ -2959,7 +2954,11 @@ Saturne - Saturn
 saudar - sibling (brother or sister)  
 Saudi Arabia - Saudi Arabia  
 sauna* - sauna  
+sava - know (be aware of)  
 savan - savannah  
+save - knowledge  
+savi - known  
+savolojia - epistemology  
 say - shadow  
 seaborgem - seaborgium  
 sekreter - secretary  
@@ -3461,9 +3460,10 @@ vendoshoper - trader (merchant)
 Venezuela - Venezuela  
 Venus - Venus  
 vera - verify (authenticate)  
-veri - true (real, genuine, very, indeed)  
+veri - true (real, genuine)  
 verme - worm  
 vermute - vermouth  
+vero - truly (indeed, very)  
 version - version (variation, edition)  
 vespe - bee or wasp  
 vesponizde - bee nest (beehive, wasp's nest)  
@@ -3540,6 +3540,10 @@ we - that one
 weka - wake (make awake)  
 weki - awake  
 wen - ring  
+wenda - ask (inquire)  
+wendan - interrogative  
+wende - question  
+wendodokum - form (questionaire)  
 Wenjou - Wenzhou  
 wenjoworanje - satsuma mandari  
 weste - west  

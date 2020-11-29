@@ -106,6 +106,7 @@ bari - 重型的
 barkoke - 杏子  
 barshe - 雨  
 barshi - 多雨  
+barshi mosim - 雨季  
 barshochate - 伞  
 barshokote - 雨衣  
 bash - 语言  
@@ -203,9 +204,9 @@ ding - 钉子
 diniste - 信徒  
 diorite - 闪长岩  
 diske - 圆盘  
-divar - 墙  
-divarkaguje - 壁纸 (墙纸)  
 dobe - 砖  
+dokum - 文件  
+dokumfilme - 纪录片  
 dolfin - 海豚  
 dom - 房子  
 dong - 东  
@@ -217,6 +218,7 @@ dunia - 世界
 dur - 时间  
 durmetrer - 秒表  
 durubli - 耐用的  
+dush - 淋浴  
 e - 和  
 ##e
 ekor - 松鼠  
@@ -351,9 +353,11 @@ itis - 炎症
 ive - 趋势  
 izia da akses - 無障礙環境  
 ##j
-jana - 知道 (晓得)  
+janel - 窗戶  
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
+jangle - 森林  
+jawabe - 回答  
 jeka - 借  
 jekodona - 借出  
 jekogeta - 借入  
@@ -540,9 +544,11 @@ manse - 肉
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 maragay - 長尾虎貓  
+mas - 质量  
 masal - 香料  
 masmulsolful - 菊芋  
 maste - 桅  
+mate - 物质  
 matur - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
@@ -588,9 +594,12 @@ moni - 唯一
 monloge - 独白  
 mono - 只有 (惟独)  
 mos - 苔藓  
+mosim - 季  
 mul - 根  
 mumchape - 封印  
 mumomelon - 冬瓜 (白瓜)  
+mur - 墙壁  
+murkaguje - 壁纸 (墙纸)  
 muskulbin - 健美运动  
 ##n
 nade - 河 (江)  
@@ -736,6 +745,7 @@ sapate - 鞋
 sape - 锄  
 sar - 头  
 Saturne - 土星  
+sava - 知道 (晓得)  
 sem - 种  
 seman - 週  
 semdan - 种子  
@@ -880,6 +890,8 @@ wanu - 玩耍
 washurse - 浣熊  
 wayoyam - 野餐  
 waytira - 拉  
+wenda - 问  
+wende - 问题  
 Wenjou - 温州  
 wenjoworanje - 温州蜜柑  
 wijin - 味精  

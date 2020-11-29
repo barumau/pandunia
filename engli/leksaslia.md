@@ -105,10 +105,10 @@
 |**bari**|heavy|Bengali:ভারী (bharī), Hindi:भारा (bhārā), Urdu:(bhārā), Telugu:బరువు (baruvu), Malay:berat, Greek: βαρύς (barýs)|
 |**barka**|congratulate (bless)|Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Yoruba:alubarika|
 |**barkoke**|apricot|Arabic:(barqūq), pa:albaricoque, fra;abricot, Russian:абрикос (abrikos), Filipino:albarikoke|
-|**barshe**|rain (precipitation)|Hindi:बारिश (bāriś),वर्षा (varṣā), Urdu:(bāriś), Marathi:वर्षा (varṣā), Gujarati:વરસાદ (varsād), Telugu:వర్షము (varṣamu), Persian:(bārān), jav:warsa|
+|**barshe**|rain (precipitation)|Hindi:बारिश (bāriś), Bengali:বৃষ্টি (briśṭi), Turkish:baran|
 |**barti**|Indian|Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)|
 |**barude**|gunpowder|Arabic:Persian:Urdu:(bārūd), Hindi:बारूद (bārūd), Punjabi:ਬਾਰੂਦ (bārūd), Swahili:baruti, Turkish:barut, bul:барут (barut)|
-|**baryer**|barrier|English:barrier, French:barrière, Portuguese:barreira, Spanish:barrera, Russian:барьер (baryer)|
+|**baryer**|barrier (fence)|English:barrier, French:barrière, Portuguese:barreira, Spanish:barrera, Russian:барьер (baryer), Hindi:बाड़ (bāṛ), Bengali:বেড়া (beṛa)|
 |**basen**|pool (basin, bowl)|English:basin, French:bassin, Russian:бассейн (basseyn), Portuguese:bacia|
 |**bash**|language (communication)|Hindi:भाषा (bhāṣā), Urdu:(bhāṣā), Bengali:ভাষা (bhaṣa), Punjabi:ਭਾਸ਼ਾ (bhāshā), Telugu:భాష (bhāṣa), Tamil:பாசை (pāsai), Thai:ภาษา (phasa), Malay:bahasa, jav:basa|
 |**basi**|enough (sufficient)|Persian:Urdu:س (bas), Arabic:(bass), Hindi:(bas), Swahili:basi, Spanish:Portuguese:Italian:basta|
@@ -267,9 +267,8 @@
 |**diorite**|diorite|English:French:diorite, Spanish:diorita, Russian:диорит (diorit), Turkish:diyorit, Arabic:ديوريت (dayurit), Hindi:डायोराइट (dāyorait), Vietnamese:Malay:diorit|
 |**dish**|direction|Hindi:Marathi:दिशा (diśā), Urdu:(diśā), Malayalam:ദിശ (diśa), Khmer:ទិស (tɨh), Thai:ทิศทาง (tit-taang)|
 |**diske**|disc (disk)|English:Turkish:disk, French:disque, Spanish:Portuguese:disco, Russian:диск (disk), Hindi:डिस्क (ḍisk), Bengali:ডিস্ক (ḑisk), Japanese:ディスク (disuku), Korean:디스크 (diseukeu)|
-|**divar**|wall|Persian:دیوار (divâr), Hindi:दीवार (dīvāra), pan:ਦੀਵਾਰ (dīvār), Turkish:duvar, aze:divar|
 |**dobe**|brick|Arabic:طوبةطوبة (ṭūba), Amharic:ጡብ (ṭub), deu:English:French:Spanish:Portuguese:adobe|
-|**dokum**|document (record, file)|English:French:document, Russian:документ (dokument)|
+|**dokum**|document (record, file)|English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman|
 |**dolfin**|dolphin|Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|home (residence)|Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico|
 |**dominogem**|dominoes|English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)|
@@ -292,7 +291,7 @@
 |**duman**|smoke|Hindi:धूआँ (dhuã), Turkish:duman, Russian:дым (dym), Kannada:(dhūma), Bengali:ধোঁয়া (dhõẇa)|
 |**dunia**|world|Malay:Swahili:dunia, Arabic:(dunyā), hindi:दुनिया (duniyā), Urdu:(duniyā), Hausa:duniya, Persian:(donya)|
 |**dur**|time (duration, quantity of time)|English:duration, French:durée, Spanish:Portuguese:durar, deu:Dauer|
-|**dush**|shower|French: douche, deu:Dusche, Turkish:duş, Russian:душ (duš), Arabic:(duš), Spanish:Portuguese:ducha|
+|**dush**|shower|French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş|
 |**dute**|doubt (disbelief)|French:doute, English:doubt, Spanish:Filipino:duda|
 |**duwa**|pray|Turkish: dua, Swahili: dua, Malay: doa, Arabic: دُعَاء‏  (duʿāʾ)|
 |**e**|and|French:et, Portuguese:e, Mandarin:和 (hé)|
@@ -312,7 +311,6 @@
 |**er**|doer (agent, actor)|English: -er, deu: -er, French: -eur, Spanish: -ero, Portuguese: -eiro|
 |**esa**|be|Spanish:es, Persian:(ast), Portuguese:estar, Russian:есть (yest')|
 |**esey**|essay|English:essay, Spanish:ensayo, Portuguese:ensaio, French:essai, deu:Essay, Russian:эссе (esse), Japanese:エッセイ (essei)|
-|**eska**|ask (inquire)|hat:èske, French:est-ce que [ɛskə], English:ask, rwa:ese|
 |**eskal**|stairs (ladder)|French:escalier, Spanish:escalera, Portuguese:escada, + English:scale, deu:Skale, Russian:шкала (škala)|
 |**eskulter**|sculptor|Spanish:Portuguese:escultor, French:sculpteur, English:sculptor, Russian:скульптор (skulptor)|
 |**esponje**|sponge|Greek:σφουγγάρι (sphoungári), English:sponge, Spanish:Portuguese:esponja, Turkish:süngre, Arabic:إسفنج (ʾisfanj), Persian:اسفنج‎ (esfanj), Hindi:स्पंज (spanja), Japanese:スポンジ (suponji), Malay:spon|
@@ -536,12 +534,11 @@
 |**jambul**|jambul|English:jambul, Hindi:जामुन (jāmun), Portuguese:jambolão, Swahili:zambarau|
 |**jamia**|collection (congregation, assembly)|Arabic:(jamʿiyya), Hausa:jam'iyya, Swahili:jamii, Turkish:camia|
 |**jampa**|jump|English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**jan**|knowledge|Hindi:जान (jān), Bengali:জ্ঞান (gyan), জানা (jana), Punjabi:ਜਾਣ (jāṇ), Thai:ญาณ (yaan)|
-|**janel**|window|Portuguese:janela, Tamil:சன்னல் (sannal), Bengali:জানালা (janala), Malay:jendela, nya:zenera, Kongo:nêla|
+|**janel**|window|Portuguese:janela, Bengali:জানালা (janala), Malay:jendela + Tamil:சன்னல் (sannal), nya:zenera, Kongo:nêla|
 |**janger**|artisan (craftsman)|Mandarin:匠 (jiàng), Thai:ช่าง (jang), Khmer:ជាង (ciəng)|
-|**jangle**|forest (jungle, woods)|Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Urdu:(jangal), Portuguese:jângal, English:jungle, Russian: джу́нгли (džúngli), deu:Dschungel|
+|**jangle**|forest (woods, jungle)|English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel|
 |**jar**|jug (jar, pitcher)|English:jar, Arabic:(jara), Portuguese:Spanish:jarra|
-|**jawabe**|answer (reply, response)|Arabic:(jawāb), Swahili:jibu,jawabu, Turkish:cevap, Persian:(javāb), Hindi:जवाब (javāb), Malay:jawab|
+|**jawabe**|answer (reply, response)|Arabic: جَوَاب‎ (jawāb), Hindi:जवाब (javāb), Malay:jawab, Swahili:jibu,jawabu, Turkish:cevap|
 |**jebe**|pocket|Hindi:जेब (jeb), Punjabi:ਜੇਬ (jeb), Urdu:(jeb), Telugu:(jēbu), Arabic:(jayb), Turkish:cep, Wolof:jiba|
 |**jebria**|algebra|Arabic:Persian:(jabr), Turkish:cebir, Urdu:(aljabrā), English:algebra, French:algèbre|
 |**jeinistia**|Jainism|Hindi:Marathi:जैन (jain), Thai:เชน (chen), English:jainism, French:jaïnisme, Russian:джайнизм (džaynizm)|
@@ -821,14 +818,14 @@
 |**margarite**|daisy|Spanish:Portuguese:margarita, French:marguerite, deu:Margerite, Russian:маргаритка (margaritka)|
 |**marke**|mark (trace)|English:mark, Spanish:Portuguese:marca, French:marque, Korean:마크 (makeu), Japanese:マーク (māku)|
 |**Marse**|Mars|English:French:Turkish:Malay:Mars, Spanish:Portuguese:Marte, Russian:Марс (Mars)|
-|**mas**|mass (dough, lump)|English:mass, Spanish:masa, deu:Masse, Russian:ма́сса (massa)|
+|**mas**|mass (quantity of matter)|English:mass, deu:French:masse, Spanish:masa, Portuguese:Malay:massa, Russian:масса (massa)|
 |**masaje**|massage|English:French:massage, Spanish:masaje, Portuguese:massagem, Russian:масса́ж (massáž), Turkish:masaj, Arabic:مَسَاج‎ (masāj), Persian:ماساژ‎ (mâsâž), Bengali:ম্যাসেজ (mjaśej), Mandarin:马杀鸡 (mǎshājī), Japanese:マッサージ (massāji)|
 |**masal**|spice (seasoning)|Hindi:मसाला (masālā), Urdu:(masālā), Bengali:মসলা (môsla), bur:(masʰala)|
 |**mashin**|machine|French: machine, English: machine, deu: Maschine, Malay: mesin|
 |**maske**|mask (camouflage)|English:mask, French:masque, Spanish:Portuguese:máscara, Russian:маска (maska), Hindi:मास्क (māsk), Japanese:マスク (masuku), Korean:마스크 (maseukeu), Malay:masker, Turkish:maske|
 |**masle**|issue (affair, concern)|Arabic:(masʾala), Hausa:matsala, Hindi:मसला (maslā), Malay:masalah|
 |**maste**|mast|English:deu:mast, Hindi:मस्तूल (mastūl), Japanese:マスト (masuto), Russian:мачта (mačta), Polish:maszt, Portuguese:mastro, Spanish:mástil|
-|**mate**|matter (substance)|English:matter, Spanish:Portuguese:materia, French:matière, Russian:материя (materiya), deu:Materie, Malay:materi, + Arabic:(mādda), Urdu:(māda), Turkish:madde, Persian:(mādde), + Cantonese:物 (mat), Vietnamese:vật|
+|**mate**|matter (substance)|English:matter, French:matière, Spanish:Portuguese:materia, Russian:материя (materiya), deu:Materie, Malay:materi, + Arabic: مادة (mādda),  Turkish:madde + Cantonese:物 (mat), Vietnamese:vật|
 |**matike**|mathematics (math)|deu:Mathe(matik), English:math(ematics), Spanish:matemática, Russian:математика (matematika)|
 |**maturi**|mature (ripe, adult)|English:French:mature, Spanish:Portuguese:maduro|
 |**maw**|cat|Mandarin:猫 (māo), Cantonese:貓 (maau), Vietnamese:mèo, Swahili:nyau|
@@ -896,7 +893,7 @@
 |**morfe**|morph|English:morph, Spanish:morfo, Russian:морф (morf)|
 |**morti**|dead (deceased)|Portuguese:morto, French:mort, Spanish:muerto, Persian:(morde), Urdu:(murda), Hindi:मृत (mrta), Russian:мёртвый (myortvïy), + Malay:mati, + Arabic:(mawt), Amharic:ሞት (mot)|
 |**mos**|moss|English:moss, Spanish:Portuguese:musgo, French:mousse, deu:Moos, Russian:мох (mox), Hindi:मॉस (mosa)|
-|**mosim**|season|Hindi:Urdu:(mOsam), Malay:musim, Arabic:(mawsim), Turkish:mevsim, Swahili:msimu|
+|**mosim**|season|Arabic: موسم (mawsim), Hindi:मौसम (mausam), Malay:musim, Turkish:mevsim, Swahili:msimu + English:monsoon, French:mousson, Portuguese:monção, Russian:муссон|
 |**moskite**|mosquito|English:Spanish:Portuguese:mosquito, French:moustique, deu:Moskito, Russian:моски́т (moskít), Bengali:মশা (môśa), Korean:모기 (mogi)|
 |**mote**|motion (movement)|Italian:moto, English:motion|
 |**motocikle**|motorcycle|Turkish:motosiklet, Spanish:motocicleta, French:motocyclette, English:motorcycle, Russian:мотоцикл (mototsikl), Mandarin:摩托车 (mótuōchē)|
@@ -909,6 +906,7 @@
 |**mum**|wax|Turkish:mum, Persian:(mum), Hindi:मोम (mom), Bengali:মোম (mom)|
 |**mun**|door (gate, portal)|Korean:문 (mun), Cantonese:門 (mun), Japanese:門 (mon), Mandarin:门 (mén)|
 |**mungus**|mongoose|Telugu:ముంగిస (muṅgisa), Marathi:मुंगूस (muṅgūs), English:mongoose, Spanish:mangosta, Portuguese:mangusto, French:mangouste, Russian:мангу́ст (mangúst), Japanese:マングース (mangūsu)|
+|**mur**|wall (structure for delimitation)|French:mur, Spanish:Portuguese:muro + deu:Mauer, Polish:mur|
 |**mush**|mouse|Polish:mysz, Russian:мышь (myś), Persian:(muš)|
 |**musike**|music|English:music, Spanish:música, Russian:музика (muzika), Arabic:(mūsīqā)|
 |**muskete**|musket|English:musket, Spanish:Portuguese:mosquete, French:mousquet, Russian:мушке́т (muškét), Japanese:マスケット (masuketto)|
@@ -1170,6 +1168,7 @@
 |**sate**|moment (while, short time)|Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa|
 |**saudar**|sibling (brother or sister)|Malay:saudara, Hindi:सहोदर (sahodar), Bengali:সহোদর (sôhodôr)|
 |**sauna***|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
+|**sava**|know (be aware of)|French:savoir, Spanish:Portuguese:saber, English:savvy|
 |**savan**|savannah|English:savannah, Spanish:sabana, Russian:саванна (savanna), Arabic:سافانا (safana), Swahili:savana, Hindi:सवाना (savaana), Japanese:サバンナ (sabanna)|
 |**say**|shadow|Persian:(sāye), Urdu:(sāyā), pas:(sāyá), Hindi:साया (sāyā), छाया (chāyā), Bengali:ছায়া (chaya), Thai:ฉายา (chāyā)|
 |**sekreter**|secretary|English:secretary, Spanish:secretario, Portuguese:secretário, French:secrétaire, deu:Sekretär, Russian:секретарь (sekretar’), Turkish:sekreter, Persian:سکرتر‎ (sekreter)|
@@ -1363,13 +1362,13 @@
 |**vagin**|vagina|English:French:vagina, Portuguese:Spanish:vagina, Russian:вагина (vagina), Japanese:ワギナ (wagina), Korean:바기나 (bagina), Turkish:vajina, Malay:vagina|
 |**vaksin**|vaccine|English:vaccine, Spanish:vacuna, Portuguese:vacina, Russian:вакцина (vakcina), Hindi:वैक्सीन (vaiksīn), Japanese:ワクチン (wakuchin), Malay:vaksin|
 |**vampir**|vampire|deu:Vampir, English:French:vampire, Spanish:Portuguese:vampiro, Russian:вампир (vampir) Bengali:ভ্যাম্পায়ার (bhêmpayar), Malay:vampir, Japanese:ヴァンパイア (vanpaia)|
-|**vanil**|vanilla|English:vanilla, Spanish:vainilla, Portuguese:baunilha, French:vanille, Russian:вани́ль (vanil’)|
+|**vanil**|vanilla|English:vanilla, Spanish:vainilla, Portuguese:baunilha, French:vanille, Russian:ваниль (vanil’)|
 |**var**|day of the week|Hindi:Marathi:वार (vār), Bengali:বার (bar)|
 |**vaze**|pot (vase, bin, jar, jug)|deu:English:French:vase, Polish:waza, Russian:ваза (vaza), Turkish:vazo|
 |**vejete**|vegetable|English:vegetable, Spanish:Portuguese:vegetal, French:végétal|
 |**vejetyamiste**|vegetarian|English:vegetarian, French:végétarien, Portuguese:Spanish:vegetariano, Russian:вегетарианец  (vegetarianets), Turkish:vejetaryen, Japanese:ベジタリアン (bejitarian)|
 |**venda**|sell (vend)|English:vend, Spanish:Portuguese:vender, French:vendre|
-|**veri**|true (real, genuine, very, indeed)|English:very, Italian:vero, Russian:верный (verniy), Spanish:verdadero, Portuguese:verdadeiro, deu:wahr, French:vrai|
+|**veri**|true (real, genuine)|English:very, Italian:vero, Russian:верный (verniy), Spanish:verdadero, Portuguese:verdadeiro, deu:wahr, French:vrai|
 |**verme**|worm|English:worm, Portuguese:verme, French:ver, deu:Wurm|
 |**version**|version (variation, edition)|English:French:version, Portuguese:versão, Russian:версия (versiya), Malay:versi|
 |**vespe**|bee or wasp|Spanish:avispa, Portuguese:Italian:vespa, English:wasp, deu:Wespe|
@@ -1404,6 +1403,7 @@
 |**waydeshi**|foreign|Hindi:(videśī), Telugu:(vidēśi), Mandarin:外国的 (wàiguóde)|
 |**weki**|awake|English:awake, deu:wach|
 |**wen**|ring|Mandarin:环 (huán), Cantonese:環 (waan4), Wu-Chinese:環 (gue3), Korean:환 (hwan), Thai:แหวน (wɛ̌ɛn), Japanese:輪 (wa)|
+|**wende**|question|Mandarin:问题 (wèntí), Cantonese:問題 (man6 tai4), Japanese:問題 (mondai), Korean:문제 (munje), Vietnamese:vấn đề|
 |**weste**|west|English:west, deu:West, French:ouest, Spanish:Portuguese:oeste, Russian:вест (vest)|
 |**wi**|that (those)|Hindi:वह (wo), Bengali:ওই (oi)|
 |**wijin**|MSG (monosodium glutamate)|Mandarin:味精 (wèijīng), Cantonese:味精 (mei6 zing1), Vietnamese:mì chính, Malay:vetsin,micin, Filipino:bitsin|

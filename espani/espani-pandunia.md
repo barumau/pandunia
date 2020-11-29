@@ -332,7 +332,8 @@ barco (bote) - bote
 bario - barem  
 barra (vara, palo) - baton  
 barra de chocolate - chokolatobaton  
-barrera - baryer  
+barrar (bloquear, obstruir) - barya  
+barrera (barda) - baryer  
 barriga (vientre, panza) - pete  
 barril (tonel) - tong  
 baréin - Bahrain  
@@ -378,7 +379,6 @@ bismuto - bismute
 blanco - baki  
 blando (mullido) - komali  
 blog - bloge  
-bloquear (obstruir) - barya  
 bloquearse (colgarse, fallar) - harabu  
 boca - boke  
 bodega - vineria  
@@ -746,7 +746,7 @@ confundir - konfusu
 congelarse (helarse) - aisu  
 congoleño - kongoli  
 cono - konus  
-conocido - jani  
+conocido - savi  
 consecuencia (siguiente) - bade  
 conseguir (obtener, recibir) - geta  
 consejero (asesor) - menter  
@@ -1014,6 +1014,7 @@ doble sentido - dulmeni
 doctor (médico) - mediker  
 doctor - dotor  
 doctorado - dotoria  
+documental - dokumfilme  
 documento (archivo, nota) - dokum  
 dolar - dolar  
 doler (hacer daño) - pasha  
@@ -1134,7 +1135,7 @@ enviar (transmitar) - misa
 envoltura - lifaf  
 envolver - lifafa  
 enzima - enzim  
-epistemología - janlojia  
+epistemología - savolojia  
 equal (similar) - sami  
 equilibrado (par) - pari  
 equilibrado (par) - parike  
@@ -1316,7 +1317,7 @@ fono (segmento acústico) - fon
 fonología - fonlojia  
 forma (figura) - forme  
 formateo - kitaborupe  
-formulario - eskodokum  
+formulario - wendodokum  
 foro (espacio público) - forum  
 fosa - kave  
 foto (fotografía) - fotograf  
@@ -1656,7 +1657,7 @@ interior - inde
 internacional - nasmedi  
 Internet - internete  
 interracial - rasmedi  
-interrogativa - eski  
+interrogativa - wendan  
 interés - interes  
 interétnica - zukomedi  
 invernal - zimi  
@@ -2144,7 +2145,7 @@ multilingüe (plurilingüe) - polbashi
 multinacional - polnasi  
 mundo - dunia  
 murciélago - feymush  
-muro (muralha) - divar  
+muro (muralha) - mur  
 musgo - mos  
 musgoso - mosi  
 musulmán - islamiste  
@@ -2383,7 +2384,7 @@ papa - patate
 papaya - papay  
 papel - kaguje  
 papel - rol  
-papel tapiz - divarkaguje  
+papel tapiz - murkaguje  
 Papúa Nueva Guinea - Papua Novi Ginia  
 paquete - pake  
 parada (alto) - ting  
@@ -2599,8 +2600,8 @@ precio (coste) - koste
 precioso - bawi  
 preferir (favorecer) - favora  
 prefijo - chenfikse  
-pregunta - eske  
-preguntar (inquirir) - eska  
+pregunta - wende  
+preguntar (inquirir) - wenda  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
 presente - zay  
@@ -2870,8 +2871,8 @@ rígido (sólido) - gatomati
 ##s
 sabana - savan  
 sabbat - sabate  
-saber (conocer) - jana  
-sabiduría (conocimiento) - jan  
+saber (conocer) - sava  
+sabiduría (conocimiento) - save  
 sabiduría - sofia  
 sabio - sofi  
 sabroso (umami) - umami  

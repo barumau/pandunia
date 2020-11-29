@@ -273,9 +273,9 @@ dek (10) - desi
 dek miloj - deskili  
 dekono - deci*  
 delfeno - dolfin  
-demanda - eski  
-demandi (ĉu) - eska  
-demando - eske  
+demandanta - wendan  
+demandi - wenda  
+demando - wende  
 demografio - demgrafia  
 demokratia - demkrati  
 demokratio - demkratia  
@@ -304,6 +304,8 @@ disprozio - disprosem
 disvolvi - fajan  
 dividi - fena  
 doktoro - dotor  
+dokumentfilmo - dokumfilme  
+dokumento - dokum  
 dolaro - dolar  
 donaco - don  
 doni - dona  
@@ -964,6 +966,7 @@ masto - maste
 matematikisto - matiker  
 matematiko - matike  
 mateno - sube  
+materio - mate  
 matura (plenkreska) - maturi  
 maŝino - mashin  
 mejtnerio - maitnerem  
@@ -1374,9 +1377,9 @@ saĝa - sofi
 saŭco - sos  
 saŭno - sauna*  
 scienco - lojia  
-scii (koni) - jana  
-scio - jan  
-sciteorio (epistemologio) - janlojia  
+scii (koni) - sava  
+scio - save  
+sciteorio (epistemologio) - savolojia  
 sciuro - ekor  
 se - aga  
 seborgio - seaborgem  
@@ -1486,7 +1489,7 @@ tamburo - gum
 tamen - lekino  
 tantalo - tantalum  
 Tanzanio - Tanzania  
-tapeto - divarkaguje  
+tapeto - murkaguje  
 taso - kope  
 tatuo - tatu*  
 teknecio - tehnem  
@@ -1582,6 +1585,7 @@ vaginito - vaginitis
 vagino - vagin  
 valo - vade  
 valoro - val  
+vando - mur  
 vaporo - suygas  
 varma - garmi  
 vato - wate  

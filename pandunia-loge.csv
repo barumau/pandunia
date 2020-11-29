@@ -2036,8 +2036,8 @@ marka||||mark (leave a mark)||marcar||||||||||||||merkitä (jättää jälki)|za
 marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)||marca (huella, mancha)||||||||||||||merkki (jälki)|znak, trop
 Marse|planete 4||eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|Mars|Mars|Marte|Marte|Марс|المريخ|||||||||Mars||Mars|Mars
 Marshal nesia|desh|MH||Marshall Islands||Islas Marshall||||||||||||||Marshall-saaret|Wyspy Marshalla
-mas|||eng:mass, spa:masa, deu:Masse, rus:ма́сса (massa)|mass (dough, lump)||masa (trozo, pedazo)|||||||||||||maso|massa|mass (dough, lump)
-masaja||||knead (massage)||amasar (masajear)||||||||||||||vaivata (hieroa)|knead (massage)
+mas|||eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|mass (quantity of matter)|masse|masa (trozo, pedazo)|massa|масса|كتلة|质量|質量|질량|khối lượng|द्रव्यमान||massa||kütle|maso|massa|masa
+masaja||||knead (massage)||amasar (masajear)||||||||||||||vaivata (hieroa)|
 masaje|||eng:fra:massage, spa:masaje, por:massagem, rus:масса́ж (massáž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (mjaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)|massage||masaje||||||||||||||hieronta|masaż
 masal|||hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|spice (seasoning)|épices|especia|tempero|пряность|بَهَار|香料|香辛料|향신료|gia vị|मसाला|মসলা|bumbu|kiungo|baharat|spico|mauste|przyprawa
 masali tike||||tikka masala||tikka masala||||||||||||||tikka masala|tikka masala
@@ -2047,7 +2047,7 @@ masle|||ara:(masʾala), hau:matsala, hin:मसला (maslā), may:masalah|issu
 masmul||||tuber (bulb)|tubercule|tubérculo|tubérculo|клубень|||芋 (塊茎)||||||||||bulwa
 masmulsolful|biw|Helianthus tuberosus||Jerusalem artichoke (sunroot)|topinambour|tupinambo (pataca, alcachofa de Jerusalén)|alcachofra-girassol (tupinambo)|топинамбу́р||菊芋|キクイモ||||||||||topinambur
 maste|||eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|mast|mât|mástil|mastro|мачта||桅||||मस्तूल||||direk|masto|masto (salko)|maszt
-mate|||eng:matter, spa:por:materia, fra:matière, rus:материя (materiya), deu:Materie, may:materi, + ara:(mādda), urd:(māda), tur:madde, fas:(mādde), + yue:物 (mat), vie:vật|matter (substance)||sustancia (materia)||||||||||||||aine (materia)|materia, substancja
+mate|||eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi, + ara: مادة (mādda),  tur:madde + yue:物 (mat), vie:vật|matter (substance)|matière|sustancia (materia)|matéria|материя|مادة|物质|物質|물질|vật chất|पदार्थ|পদার্থ|||madde|materio|aine (materia)|materia, substancja
 mati||||material||material||||||||||||||aineellinen (materiaalinen)|materialny
 matike|||deu:Mathe(matik), eng:math(ematics), spa:matemática, rus:математика (matematika)|mathematics (math)||matemática|||||||||||||matematiko|matematiikka (matikka)|matematyka
 matiker||||mathematician||matemático|||||||||||||matematikisto|matemaatikko|matematyk
@@ -3430,7 +3430,7 @@ valu||||be worth||valer|valer|||||||||||||olla jkn arvoinen|
 vampir|||deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|vampire|vampire|vampiro|vampiro|вампир (упырь)||吸血鬼|吸血鬼|흡혈귀|ma cà rồng|पिशाच|||||||wampir
 vampirbalsenter|biw|Vampyroteuthis infernalis||vampire squid|vampire des abysses|calamar vampiro||адский вампир|||コウモリダコ||||||||||wampirzyca piekielna (wampirnica)
 vanadem|mate|V||vanadium||vanadio||||||||||||||vanadiini|wanad
-vanil|||eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:вани́ль (vanil’)|vanilla||vainilla||||||||||||||vanilja|wanilia
+vanil|||eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|vanilla||vainilla||||||||||||||vanilja|wanilia
 Vanuatu|desh|VU||Vanuatu||Vanuatu||||||||||||||Vanuatu|Vanuatu
 var|||hin:mar:वार (vār), ben:বার (bar)|day of the week||día de la semana|||||曜日|||||||||viikonpäivä|dzień tygodnia
 var 1 (var uni)||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
@@ -3451,9 +3451,10 @@ vendoshoper||||trader (merchant)|||||||||||||||||handlarz (kupiec)
 Venezuela|desh|VE||Venezuela|Venezuela|Venezuela||||||||||||||Venezuela|Wenezuela
 Venus|planete 2|||Venus|Vénus|Venus|Vénus|Венера|الزهرة||||||||Zuhura|Venüs|||Wenus
 vera||||verify (authenticate)||autenticar|||||ただす||||||||||
-veri|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine, very, indeed)|vrai|verdadero|verdadeiro|верный|||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
+veri|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine)|vrai|verdadero|verdadeiro|верный|||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
 verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm|ver|verme|verme|||||||||||||mato|robak
 vermute|alkohol|||vermouth|vermouth|vermú|vermute|вермут|||||||||||vermuto|vermutti|wermut
+vero||||truly (indeed, very)|vraiment|||||||||||||||todella|
 version|||eng:fra:version, por:versão, rus:версия (versiya), may:versi|version (variation, edition)||versión (modelo)|||||||||||||versio (toisinto)|versio|wersja (wariacja, edycja, wydanie)
 vespe|biw||spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|bee or wasp|abeille ou guêpe|abeja o avispa|abelha ou vespa|||蜂|蜂||||||||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
 vesponizde||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣||||||||||ul (gniazdo pszczół lub os)

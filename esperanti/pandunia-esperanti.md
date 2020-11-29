@@ -376,7 +376,8 @@ dini - religia
 diniste - kredulo  
 diske - disko  
 disprosem - disprozio  
-divarkaguje - tapeto  
+dokum - dokumento  
+dokumfilme - dokumentfilmo  
 dolar - dolaro  
 dolfin - delfeno  
 dom - hejmo (loĝejo)  
@@ -440,11 +441,8 @@ erbem - erbio
 eris - Eris (planedeto)  
 Eritria - Eritreo  
 esa - esti  
-eska - demandi (ĉu)  
 eskal - ŝtuparo  
 eskandem - skandio  
-eske - demando  
-eski - demanda  
 eskulta - skulti  
 eskulte - statuo (skultaĵo)  
 eskulter - skultisto  
@@ -762,13 +760,10 @@ jama - kolekti (kunigi)
 Jamaika - Jamajko  
 jami - kolekta  
 jampa - salti  
-jan - scio  
-jana - scii (koni)  
 janel - fenestro  
 janelfrem - fenestrokadro  
 janger - metiisto  
 jangle - arbaro  
-janlojia - sciteorio (epistemologio)  
 jawaba - respondi  
 jawabe - respondo  
 jebe - poŝo  
@@ -1059,6 +1054,7 @@ masal - spico
 mashin - maŝino  
 maske - masko  
 maste - masto  
+mate - materio  
 matike - matematiko  
 matiker - matematikisto  
 matur - plenaĝa  
@@ -1149,6 +1145,8 @@ mul - radiko
 mumfote - kandelo  
 mumren - mumio  
 mun - pordo  
+mur - vando  
+murkaguje - tapeto  
 mus - devo  
 musa - devigi  
 mush - muso  
@@ -1442,6 +1440,9 @@ sapater - ŝuisto
 sapateria - ŝuistejo  
 saudar - frato aŭ fratino  
 sauna* - saŭno  
+sava - scii (koni)  
+save - scio  
+savolojia - sciteorio (epistemologio)  
 say - ombro  
 seaborgem - seborgio  
 sekse - sekso  
@@ -1681,6 +1682,9 @@ way - ekstero
 waydeshia - fremda lando  
 wayi - ekstera  
 we - tiu  
+wenda - demandi  
+wendan - demandanta  
+wende - demando  
 wi - tiu  
 wike - vikia artikulo  
 wikia - vikio  

@@ -267,6 +267,7 @@ desi - deci*
 desibeli - decibel  
 Dione - Dione  
 Djiboutia - Jibuti  
+dokumenttielokuva - dokumfilme  
 dollari - dolar  
 Dominika - Dominika  
 Dominikaaninen Tasavalta - Dominikana  
@@ -360,7 +361,7 @@ espanjaa puhuva - espanofoni
 esperanto - esperanti  
 essee - esey  
 este - baryer  
-estää kulku - barya  
+estää kulku (tukkia tie) - barya  
 etelä - sude  
 Etelä-Afrikka - Sudafrika  
 Etelä-Amerikka - sudi amerike  
@@ -1208,10 +1209,10 @@ Kypros - Kipris
 kypsä (aikuinen) - maturi  
 kypärä - helme  
 kyrilliset aakkoset - kirili abace  
-kyselylomake - eskodokum  
-kysymys - eske  
-kysyvä - eski  
-kysyä - eska  
+kyselylomake - wendodokum  
+kysymys - wende  
+kysyvä - wendan  
+kysyä - wenda  
 kyynel - kansuy  
 kärppä (fretti) - furete  
 kärpänen - zeze  
@@ -1372,6 +1373,7 @@ lumme - nenufar
 luodinkestävä - dansekuri  
 luokitella (kategorisoida) - klasa  
 luokka (kategoria) - klas  
+luokkahuone - darsokamar  
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
 luolaseikkailu - aventur da donjon  
@@ -2265,6 +2267,7 @@ saapas (buutsi) - bute
 saari - nes  
 saaristo - nesia  
 sade - barshe  
+sadekausi - barshi mosim  
 sadetakki - barshokote  
 sahrami - safran  
 Saint Helena - Santi Helena  
@@ -2332,7 +2335,7 @@ seepra - zebre
 seesami - sesam  
 seikkailija - aventurer  
 seikkailu - aventur  
-seinä (muuri) - divar  
+seinä (muuri) - mur  
 seismologia - sismolojia  
 seisoa (seisahtaa) - estacu  
 seisottaa - estaca  
@@ -2604,7 +2607,7 @@ tapa - ade
 tapa - mode  
 tapaaminen (kokous) - mite  
 tapaus (seikka) - kas  
-tapetti - divarkaguje  
+tapetti - murkaguje  
 tappaa - morta  
 tappaja - morter  
 tarha (puisto) - parke  
@@ -2673,13 +2676,13 @@ tie - daw
 tiede (tutkimus) - lojia  
 tiedottaa (informoida) - informa  
 tieto (info) - informe  
-tieto (tietämys) - jan  
+tieto (tietämys) - save  
 tietokanta - datobanke  
 tietokone - komputer  
-tietoteoria (epistemologia) - janlojia  
-tietty (tunnettu) - jani  
+tietoteoria (epistemologia) - savolojia  
+tietty (tunnettu) - savi  
 tietysti (selvästi) - klaro  
-tietää (tuntea) - jana  
+tietää (tuntea) - sava  
 Tiibet - podia  
 tiikeri - bagre  
 tiili - dobe  
@@ -2692,6 +2695,7 @@ timantti - almas
 Timor - Timor  
 tina - estan  
 titaani - titanem  
+todella - vero  
 todistaa - dalila  
 todiste (todistus, osoitus, demonstraatio) - dalil  
 Togo - Togo  

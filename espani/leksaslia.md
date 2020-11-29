@@ -102,10 +102,10 @@
 |**bari**|pesado|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |**barka**|felicitar|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|
 |**barkoke**|albaricoque|ara:(barqūq), pa:albaricoque, fra;abricot, rus:абрикос (abrikos), tgl:albarikoke|
-|**barshe**|lluvia|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
+|**barshe**|lluvia|hin:बारिश (bāriś), ben:বৃষ্টি (briśṭi), tur:baran|
 |**barti**|indio (hindú)|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
 |**barude**|pólvora|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
-|**baryer**|barrera|eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer)|
+|**baryer**|barrera (barda)|eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|
 |**basen**|piscina (alberca, lavadero)|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**bash**|lengua (idioma)|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |**basi**|bastante|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
@@ -262,9 +262,8 @@
 |**diorite**|diorita|eng:fra:diorite, spa:diorita, rus:диорит (diorit), tur:diyorit, ara:ديوريت (dayurit), hin:डायोराइट (dāyorait), vie:may:diorit|
 |**dish**|dirección|hin:mar:दिशा (diśā), urd:(diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang)|
 |**diske**|disco|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
-|**divar**|muro (muralha)|fas:دیوار (divâr), hin:दीवार (dīvāra), pan:ਦੀਵਾਰ (dīvār), tur:duvar, aze:divar|
 |**dobe**|ladrillo|ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe|
-|**dokum**|documento (archivo, nota)|eng:fra:document, rus:документ (dokument)|
+|**dokum**|documento (archivo, nota)|eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|
 |**dolfin**|delfín|ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|casa (hogar, residencia)|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |**dominogem**|dominó|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
@@ -287,7 +286,7 @@
 |**duman**|humo|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |**dunia**|mundo|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
 |**dur**|tiempo (duración)|eng:duration, fra:durée, spa:por:durar, deu:Dauer|
-|**dush**|ducha|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
+|**dush**|ducha|fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|
 |**dute**|duda|fra:doute, eng:doubt, spa:tgl:duda|
 |**duwa**|rezar (orar)|tur: dua, swa: dua, may: doa, ara: دُعَاء‏  (duʿāʾ)|
 |**e**|y|fra:et, por:e, zho:和 (hé)|
@@ -306,7 +305,6 @@
 |**er**|hacedor (perpetrador)|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |**esa**|ser (estar)|spa:es, fas:(ast), por:estar, rus:есть (yest')|
 |**esey**|ensayo (redacción)|eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|
-|**eska**|preguntar (inquirir)|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
 |**eskal**|escalera|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
 |**eskulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**esponje**|esponja|ell:σφουγγάρι (sphoungári), eng:sponge, spa:por:esponja, tur:süngre, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon|
@@ -526,12 +524,11 @@
 |**jake**|chaqueta|eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|
 |**jamia**|colección (grupo, conjunto, montón)|ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia|
 |**jampa**|saltar (brincar)|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**jan**|sabiduría (conocimiento)|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
-|**janel**|ventana|por:janela, tam:சன்னல் (sannal), ben:জানালা (janala), may:jendela, nya:zenera, kon:nêla|
+|**janel**|ventana|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**janger**|artesano|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
-|**jangle**|bosque (jungla, selva)|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
+|**jangle**|bosque (jungla, selva)|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
 |**jar**|jarra|eng:jar, ara:(jara), por:spa:jarra|
-|**jawabe**|repuesta (contestación)|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
+|**jawabe**|repuesta (contestación)|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|
 |**jebe**|bolsillo|hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba|
 |**jebria**|álgebra|ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre|
 |**jeinistia**|jainismo|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
@@ -808,14 +805,14 @@
 |**margarite**|margarita|spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|
 |**marke**|marca (huella, mancha)|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
 |**Marse**|Marte|eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|
-|**mas**|masa (trozo, pedazo)|eng:mass, spa:masa, deu:Masse, rus:ма́сса (massa)|
+|**mas**|masa (trozo, pedazo)|eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|
 |**masaje**|masaje|eng:fra:massage, spa:masaje, por:massagem, rus:масса́ж (massáž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (mjaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)|
 |**masal**|especia|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
 |**mashin**|máquina|fra: machine, eng: machine, deu: Maschine, may: mesin|
 |**maske**|máscara|eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske|
 |**masle**|asunto (caso)|ara:(masʾala), hau:matsala, hin:मसला (maslā), may:masalah|
 |**maste**|mástil|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
-|**mate**|sustancia (materia)|eng:matter, spa:por:materia, fra:matière, rus:материя (materiya), deu:Materie, may:materi, + ara:(mādda), urd:(māda), tur:madde, fas:(mādde), + yue:物 (mat), vie:vật|
+|**mate**|sustancia (materia)|eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi, + ara: مادة (mādda),  tur:madde + yue:物 (mat), vie:vật|
 |**matike**|matemática|deu:Mathe(matik), eng:math(ematics), spa:matemática, rus:математика (matematika)|
 |**maturi**|maduro (adulto, curado)|eng:fra:mature, spa:por:maduro|
 |**maw**|gato|zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|
@@ -882,7 +879,7 @@
 |**morfe**|morfo|eng:morph, spa:morfo, rus:морф (morf)|
 |**morti**|muerto|por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)|
 |**mos**|musgo|eng:moss, spa:por:musgo, fra:mousse, deu:Moos, rus:мох (mox), hin:मॉस (mosa)|
-|**mosim**|estación (temporada)|hin:urd:(mOsam), may:musim, ara:(mawsim), tur:mevsim, swa:msimu|
+|**mosim**|estación (temporada)|ara: موسم (mawsim), hin:मौसम (mausam), may:musim, tur:mevsim, swa:msimu + eng:monsoon, fra:mousson, por:monção, rus:муссон|
 |**moskite**|mosquito|eng:spa:por:mosquito, fra:moustique, deu:Moskito, rus:моски́т (moskít), ben:মশা (môśa), kor:모기 (mogi)|
 |**mote**|movimiento|ita:moto, eng:motion|
 |**motocikle**|motocicleta|tur:motosiklet, spa:motocicleta, fra:motocyclette, eng:motorcycle, rus:мотоцикл (mototsikl), zho:摩托车 (mótuōchē)|
@@ -895,6 +892,7 @@
 |**mum**|cera (lacre)|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
 |**mun**|puerta|kor:문 (mun), yue:門 (mun), jpn:門 (mon), zho:门 (mén)|
 |**mungus**|mangosta|tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|
+|**mur**|muro (muralha)|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**mush**|ratón|pol:mysz, rus:мышь (myś), fas:(muš)|
 |**musike**|música|eng:music, spa:música, rus:музика (muzika), ara:(mūsīqā)|
 |**muskete**|mosquete|eng:musket, spa:por:mosquete, fra:mousquet, rus:мушке́т (muškét), jpn:マスケット (masuketto)|
@@ -1153,6 +1151,7 @@
 |**sate**|momento (tiempo)|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|
 |**saudar**|hermano o hermana|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |**sauna***|sauna|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
+|**sava**|saber (conocer)|fra:savoir, spa:por:saber, eng:savvy|
 |**savan**|sabana|eng:savannah, spa:sabana, rus:саванна (savanna), ara:سافانا (safana), swa:savana, hin:सवाना (savaana), jpn:サバンナ (sabanna)|
 |**say**|sombra|fas:(sāye), urd:(sāyā), pas:(sāyá), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
 |**sekreter**|secretario|eng:secretary, spa:secretario, por:secretário, fra:secrétaire, deu:Sekretär, rus:секретарь (sekretar’), tur:sekreter, fas:سکرتر‎ (sekreter)|
@@ -1345,7 +1344,7 @@
 |**vagin**|vagina|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
 |**vaksin**|vacuna|eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|
 |**vampir**|vampiro|deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|
-|**vanil**|vainilla|eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:вани́ль (vanil’)|
+|**vanil**|vainilla|eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|
 |**var**|día de la semana|hin:mar:वार (vār), ben:বার (bar)|
 |**vaze**|jarrón (bote)|deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|
 |**vejete**|vegetal|eng:vegetable, spa:por:vegetal, fra:végétal|
@@ -1385,6 +1384,7 @@
 |**waydeshi**|extranjero|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |**weki**|despierto|eng:awake, deu:wach|
 |**wen**|anillo|zho:环 (huán), yue:環 (waan4), wuu:環 (gue3), kor:환 (hwan), tha:แหวน (wɛ̌ɛn), jpn:輪 (wa)|
+|**wende**|pregunta|zho:问题 (wèntí), yue:問題 (man6 tai4), jpn:問題 (mondai), kor:문제 (munje), vie:vấn đề|
 |**weste**|oeste|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
 |**wi**|eso|hin:वह (wo), ben:ওই (oi)|
 |**wijin**|GMS|zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|

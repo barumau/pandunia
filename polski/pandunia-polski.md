@@ -644,8 +644,6 @@ dish - kierunek
 disho - wprost (bezpośrednio)  
 diske - dysk  
 disprosem - dysproz  
-divar - mur, ściana  
-divarkaguje - tapeta  
 Divehia - Malediwy (Republika Malediwów)  
 dobe - cegła  
 doichi - niemiecki  
@@ -759,15 +757,11 @@ Eritria - Erytrea
 es - byt  
 esa - być  
 esey - esej  
-eska - zapytać, spytać, pytać  
 eskal - schody (drabina)  
 eskala - wspinać się (wspiąć się)  
 eskaltan - pnącz  
 eskandem - skand  
 Eskandia - Skandynawia  
-eske - pytanie  
-eski - pytajny, związany z pytaniem  
-eskodokum - formularz (kwestionariusz)  
 Eskotia - Szkocja  
 eskulta - rzeźbić  
 eskulte - rzeźba  
@@ -1313,14 +1307,10 @@ jambul - czapetka kuminowa
 jami - zbiorowy, zbiorczy  
 jamia - kolekcja, zbiór; zgromadzenie, zebranie  
 jampa - skoczyć, skakać  
-jan - wiedza  
-jana - wiedzieć  
 janel - okno  
 janger - rzemieślnik  
 jangi - umiejętny (sprawny, zręczny)  
 jangle - las, dżungla, zagajnik  
-jani - wiadomy, znany  
-janlojia - epistemologia  
 jar - dzban, dzbanek; słój, słoik  
 jawaba - odpowiedzieć, odpowiadać  
 jawabe - odpowiedź, odzew  
@@ -1981,8 +1971,7 @@ marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ś
 marke - znak, trop  
 Marse - Mars  
 Marshal nesia - Wyspy Marshalla  
-mas - mass (dough, lump)  
-masaja - knead (massage)  
+mas - masa  
 masaje - masaż  
 masal - przyprawa  
 masali tike - tikka masala  
@@ -2190,7 +2179,9 @@ mumomelon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)
 mumren - mumia  
 mun - drzwi, brama, portal  
 mungus - mangusta  
+mur - mur, ściana  
 Muritania - Mauretania  
+murkaguje - tapeta  
 mus - przymus  
 musa - zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
 mush - mysz  
@@ -2874,7 +2865,11 @@ Saturne - Saturn
 saudar - rodzeństwo, brat lub siostra  
 Saudi Arabia - Arabia Saudyjska  
 sauna* - sauna  
+sava - wiedzieć  
 savan - sawanna  
+save - wiedza  
+savi - wiadomy, znany  
+savolojia - epistemologia  
 say - cień  
 seaborgem - seaborg  
 sekreter - sekretarz  
@@ -3441,6 +3436,10 @@ we - tamten
 weka - obudzić, budzić  
 weki - przebudzony, przytomny  
 wen - pierścień  
+wenda - zapytać, spytać, pytać  
+wendan - pytajny, związany z pytaniem  
+wende - pytanie  
+wendodokum - formularz (kwestionariusz)  
 Wenjou - Wenzhou  
 wenjoworanje - mandarynka Satsuma (pomarańcza Satsuma)  
 weste - zachód  

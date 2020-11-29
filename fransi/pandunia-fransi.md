@@ -152,8 +152,10 @@ barka - féliciter
 barkoke - abricot  
 barshe - pluie  
 barshi - pluvieux  
+barshi mosim - mousson  
 barshochate - parapluie  
 barshokote - imperméable  
+barya - bloquer  
 baryer - barrière  
 basen - bassin  
 bash - langue  
@@ -233,6 +235,7 @@ dalil - preuve
 damaje - dommage  
 dance - dance  
 danger - cloche  
+darsokamar - salle de classe  
 date - données  
 datobanke - base de données  
 daydom - palais (château, manoir)  
@@ -251,10 +254,9 @@ dinamite - dynamite
 diniste - croyant  
 diorite - diorite  
 diske - disque  
-divar - mur  
-divarkaguje - papier peint  
 dobe - brique  
 dokum - document (dossier)  
+dokumfilme - documentaire  
 dolfin - dauphin  
 dom - maison  
 doma - vivre (habiter)  
@@ -273,6 +275,7 @@ dura - passer
 duriki - chronique  
 durmetrer - chronomètre  
 duru - durer  
+dush - douche  
 e - et  
 ##e
 ekojeni - sauvage  
@@ -430,7 +433,9 @@ iva - avoir tendance à
 ive - tendance  
 ##j
 jambul - prune de Java  
-jana - savoir (connaître)  
+janel - fenêtre  
+jangle - forêt (jungle)  
+jawabe - réponse  
 jeinistia - jaïnisme  
 jeka - prêter (empruntre)  
 jekodona - prêter  
@@ -639,11 +644,13 @@ mar - fois
 maragay - margay (chat-tigre)  
 marche - marche  
 Marse - Mars  
+mas - masse  
 masal - épices  
 maske - masque  
 masmul - tubercule  
 masmulsolful - topinambour  
 maste - mât  
+mate - matière  
 matur - adulte  
 maw - chat  
 may (mayo) - plus  
@@ -688,8 +695,11 @@ monloge - monologue
 mono - seulement  
 mos - mousse  
 mosi - moussu  
+mosim - saison  
 muke - visage  
 mul - racine  
+mur - mur  
+murkaguje - papier peint  
 muskulbin - culturisme (musculation)  
 ##n
 nade - rivière (fleuve)  
@@ -870,6 +880,7 @@ sang - sang
 sape - houe  
 sar - tête  
 Saturne - Saturne  
+sava - savoir (connaître)  
 savan - savane  
 sekuri - sûr  
 selge - blettes (bettes)  
@@ -1010,6 +1021,7 @@ Venus - Vénus
 veri - vrai  
 verme - ver  
 vermute - vermouth  
+vero - vraiment  
 vespe - abeille ou guêpe  
 vesponizde - ruche (nid d'abeille)  
 vida - voir  
@@ -1028,6 +1040,8 @@ washurse - raton laveur
 wayoyam - piquenique  
 waytira - tender  
 weki - éveillé  
+wenda - demander (poser un question)  
+wende - question  
 wenjoworanje - mandarine satsuma  
 wolfe - loup  
 Wolof - wolof  

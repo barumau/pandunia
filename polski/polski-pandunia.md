@@ -596,7 +596,7 @@ endonim - indonam
 energia - energe  
 energia nuklearna - kerni energe  
 enzym - enzim  
-epistemologia - janlojia  
+epistemologia - savolojia  
 erb - erbem  
 Eris (planeta karłowata) - eris  
 Erytrea - Eritria  
@@ -657,7 +657,7 @@ fonologia - fonlojia
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
 formatowanie - kitaborupe  
-formularz (kwestionariusz) - eskodokum  
+formularz (kwestionariusz) - wendodokum  
 forum - forum  
 fosfor - pospor  
 fotograf - fotografer  
@@ -1088,7 +1088,6 @@ klucz - chabe
 kluska, knedel, pieróg; ravioli, pelmeni - pelmen  
 kląć (przeklinać) - lana  
 kminek - karave  
-knead (massage) - masaja  
 kobalt - kobalte  
 kobieta, dorosła samica - maturi fem  
 kobieta; kobiecy - fem  
@@ -1411,9 +1410,9 @@ marynarka (flota) - haygun
 marynować - sirkopurshipe  
 marzec - desunmes  
 marznąć (zamarznąć) - aisu  
+masa - mas  
 masaż - masaje  
 maska, kamuflaż - maske  
-mass (dough, lump) - mas  
 maszt - maste  
 maszyna - mashin  
 maszyna do pisania - kitabomashin  
@@ -1562,7 +1561,7 @@ mruganie (błysk) - shingofota
 mrówka - may  
 mucha - zeze  
 mumia - mumren  
-mur, ściana - divar  
+mur, ściana - mur  
 musieć - bishu  
 muskuł, mięsień - muskul  
 muszkiet - muskete  
@@ -2341,8 +2340,8 @@ pusty - kali
 pustynia - registan  
 pułapka - kapotruke  
 pyszny - yami  
-pytajny, związany z pytaniem - eski  
-pytanie - eske  
+pytajny, związany z pytaniem - wendan  
+pytanie - wende  
 pył - fun  
 półka (regał na książki) - libobanze  
 północ - norde  
@@ -2860,7 +2859,7 @@ tantal - tantalum
 Tanzania - Tanzania  
 taoista - dawiste  
 taoizm - dawistia  
-tapeta - divarkaguje  
+tapeta - murkaguje  
 tarcza - defbanze  
 tatuaż - tatu*  
 taxi, taksówka - taksogar  
@@ -3115,7 +3114,7 @@ wełna (runo owcze) - mehi kesh
 wiadomość - anjil  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - notis  
-wiadomy, znany - jani  
+wiadomy, znany - savi  
 wiadro - balde  
 wiadukt, przejście powyżej - supre  
 wiara, wierzenie, kredo - shin  
@@ -3126,8 +3125,8 @@ wiceprezydent - vicoprezidente
 widelec - forke  
 widok, wzrok - vide  
 wieczór - sham  
-wiedza - jan  
-wiedzieć - jana  
+wiedza - save  
+wiedzieć - sava  
 wiejski, rustykalny - rusti  
 wiek - umur  
 wielbłąd, wielbłądzica - gamel  
@@ -3364,7 +3363,7 @@ zapożyczenie (wyraz obcy) - jekologe
 zaprosić, zapraszać - pliza laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
-zapytać, spytać, pytać - eska  
+zapytać, spytać, pytać - wenda  
 zapłacić, opłacić, płacić - peya  
 zapłata, opłata - pey  
 zaratrustianin - zardushiste  

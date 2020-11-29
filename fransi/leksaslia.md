@@ -77,8 +77,8 @@
 |**bari**|lourd|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |**barka**|féliciter|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|
 |**barkoke**|abricot|ara:(barqūq), pa:albaricoque, fra;abricot, rus:абрикос (abrikos), tgl:albarikoke|
-|**barshe**|pluie|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
-|**baryer**|barrière|eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer)|
+|**barshe**|pluie|hin:बारिश (bāriś), ben:বৃষ্টি (briśṭi), tur:baran|
+|**baryer**|barrière|eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|
 |**basen**|bassin|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**bash**|langue|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |**basi**|assez|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
@@ -134,9 +134,8 @@
 |**dinamite**|dynamite|eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|
 |**diorite**|diorite|eng:fra:diorite, spa:diorita, rus:диорит (diorit), tur:diyorit, ara:ديوريت (dayurit), hin:डायोराइट (dāyorait), vie:may:diorit|
 |**diske**|disque|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
-|**divar**|mur|fas:دیوار (divâr), hin:दीवार (dīvāra), pan:ਦੀਵਾਰ (dīvār), tur:duvar, aze:divar|
 |**dobe**|brique|ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe|
-|**dokum**|document (dossier)|eng:fra:document, rus:документ (dokument)|
+|**dokum**|document (dossier)|eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|
 |**dolfin**|dauphin|ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|maison|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |**dong**|east (orient)|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|
@@ -145,6 +144,7 @@
 |**duli**|deux (2)|kor:둘 (dul), ben:দুই (dui), may:dua, + eng:fra:por:spa:dual|
 |**dunia**|monde|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
 |**dur**|temps (durée)|eng:duration, fra:durée, spa:por:durar, deu:Dauer|
+|**dush**|douche|fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|
 |**e**|et|fra:et, por:e, zho:和 (hé)|
 |**ekor**|écureuil|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|
 |**eletre**|électricité|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
@@ -221,6 +221,9 @@
 |**itis**|inflammation|eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
 |**ive**|tendance|eng:-ive, deu:-iv, fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
 |**jambul**|prune de Java|eng:jambul, hin:जामुन (jāmun), por:jambolão, swa:zambarau|
+|**janel**|fenêtre|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
+|**jangle**|forêt (jungle)|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
+|**jawabe**|réponse|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|
 |**jeinistia**|jaïnisme|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |**jeka**|prêter (empruntre)|zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check|
 |**jekogeta**|empruntre|zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|
@@ -331,9 +334,11 @@
 |**maragay**|margay (chat-tigre)|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|
 |**marche**|marche|eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi|
 |**Marse**|Mars|eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|
+|**mas**|masse|eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|
 |**masal**|épices|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
 |**maske**|masque|eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske|
 |**maste**|mât|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
+|**mate**|matière|eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi, + ara: مادة (mādda),  tur:madde + yue:物 (mat), vie:vật|
 |**maw**|chat|zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|
 |**may (mayo)**|plus|ron:mai, spa:mas, por:mais, deu:mehr|
 |**may**|fourmi|zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|
@@ -359,8 +364,10 @@
 |**molia**|moulin|zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)|
 |**mono**|seulement|ell:μόνος (monos), eng:deu:fra:por:spa:mono-, rus:моно- (mono-)|
 |**mos**|mousse|eng:moss, spa:por:musgo, fra:mousse, deu:Moos, rus:мох (mox), hin:मॉस (mosa)|
+|**mosim**|saison|ara: موسم (mawsim), hin:मौसम (mausam), may:musim, tur:mevsim, swa:msimu + eng:monsoon, fra:mousson, por:monção, rus:муссон|
 |**muke**|visage|ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|
 |**mul**|racine|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
+|**mur**|mur|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**nade**|rivière (fleuve)|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |**najis**|pollution|ara:نجس (najis), fas:نجس (najes), may:najis + eng:najis, rus:наджа́са (nadžása), tur:necis|
 |**narde**|backgammon|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
@@ -462,6 +469,7 @@
 |**sang**|sang|fra:sang, spa:sangre, por:sangue|
 |**sape**|houe|ita:zappa, rom:sapă, tur:çapa, tha:จอบ (chop)|
 |**sar**|tête|fas:(sar), hin:सिर (sir), ara:(raʾs)|
+|**sava**|savoir (connaître)|fra:savoir, spa:por:saber, eng:savvy|
 |**savan**|savane|eng:savannah, spa:sabana, rus:саванна (savanna), ara:سافانا (safana), swa:savana, hin:सवाना (savaana), jpn:サバンナ (sabanna)|
 |**sekuri**|sûr|eng:secure, deu:sicher, spa:por:seguro|
 |**selge**|blettes (bettes)|ara:سلق (silqa), spa:por:acelga|
@@ -546,6 +554,7 @@
 |**vute**|objet (article)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|
 |**washurse**|raton laveur|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
 |**weki**|éveillé|eng:awake, deu:wach|
+|**wende**|question|zho:问题 (wèntí), yue:問題 (man6 tai4), jpn:問題 (mondai), kor:문제 (munje), vie:vấn đề|
 |**wolfe**|loup|deu:ned:eng:wolf, rus:волк (volk)|
 |**yesho**|encore|rus:ещё (yeščo), pol:jeszcze|
 |**yongu**|melt|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|

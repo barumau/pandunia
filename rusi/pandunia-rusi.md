@@ -106,9 +106,11 @@ bari - тяжёлый
 barkoke - абрикос  
 barshe - дождь  
 barshi - дождливый  
+barshi mosim - муссон  
 barshochate - зонтик  
 barshokote - плащ (дождевик)  
 barshu - дожди́ть  
+barya - преграждать  
 baryer - барьер  
 basen - бассейн  
 bash - язык  
@@ -217,9 +219,9 @@ dinamite - динамит
 diniste - верующий  
 diorite - диорит  
 diske - диск  
-divar - стена (вал)  
-divarkaguje - обои  
 dobe - кирпич  
+dokum - документ  
+dokumfilme - документальный фильм  
 dolfin - дельфин  
 domi - домашний  
 dong - восток (ост)  
@@ -236,6 +238,7 @@ duriki - хронический
 durmetrer - секундомер  
 duru - длиться  
 durubli - долговечный  
+dush - душ  
 ##e
 ekojeni - дикий  
 ekor - белка  
@@ -249,7 +252,6 @@ emoje - смайлик (эмодзи)
 englomargarite - маргаритка многоле́тняя  
 esa - быть  
 eskala - подниматься  
-eskodokum - анкета  
 eskulter - скульптор  
 esponje - губка  
 estibem - сурьма (стибиум)  
@@ -383,7 +385,9 @@ ive - тенденция
 izia da akses - доступность  
 ##j
 jambul - джамболан  
-jana - знать  
+janel - окно  
+jangle - лес (джунгли)  
+jawabe - ответ  
 jena - родить  
 jengrupe - поколение  
 jeni - сырой  
@@ -582,11 +586,13 @@ maragay - маргай
 marche - марш  
 margarite - маргаритка  
 Marse - Марс  
+mas - масса  
 masal - пряность  
 maske - маска  
 masmul - клубень  
 masmulsolful - топинамбу́р  
 maste - мачта  
+mate - материя  
 matur - взрослый  
 maw - кошка  
 mayforte - пополнение  
@@ -629,9 +635,12 @@ monloge - монолог
 mono - только  
 mos - мох  
 mosi - мшистый  
+mosim - время года (сезон)  
 Moskove - Москва  
 mul - корень  
 mumomelon - восковая тыква (зимняя дыня)  
+mur - стена (вал)  
+murkaguje - обои  
 muskulbin - культуризм  
 ##n
 nade - река  
@@ -794,6 +803,7 @@ sapate - туфля
 sape - мотыга  
 sar - голова  
 Saturne - Сатурн  
+sava - знать  
 selge - мангольд  
 sem - семя  
 semi - семенной  
@@ -957,6 +967,8 @@ washurse - енот
 waw - вау!  
 wayoyam - пикник  
 waytira - вытянуть  
+wende - вопрос  
+wendodokum - анкета  
 wenjoworanje - мандарин уншиу  
 westogoril - западная горилла  
 ##x

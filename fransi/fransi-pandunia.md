@@ -153,6 +153,7 @@ bière - bir
 blanc - baki  
 blettes (bettes) - selge  
 bleu - nili  
+bloquer - barya  
 blé - gandum  
 bombe - bombe  
 bon - bon (boni)  
@@ -328,6 +329,7 @@ danger - hatre
 dans le sens antihoraire - fansoldisho  
 dauphin - dolfin  
 de - cha  
+demander (poser un question) - wenda  
 dessous - niche  
 destin - chenamen  
 deux (2) - duli  
@@ -342,6 +344,7 @@ distinct (numérique) - feni
 divers (plusieurs) - balibali  
 docile (insipide) - dosili  
 document (dossier) - dokum  
+documentaire - dokumfilme  
 domestique - domi  
 domestiquer (apprivoiser) - dosiljenisa  
 domestiqué (apprivoisé) - dosiljenisi  
@@ -349,6 +352,7 @@ dommage - damaje
 donner naissance (procréer, engendrer, accoucher) - jena  
 données - date  
 dormir - sonu  
+douche - dush  
 drapeau - bander  
 droit (rectiligne) - orti  
 droit - hake  
@@ -396,6 +400,7 @@ fatigue - fatigia
 faute (erreur) - galte  
 favori (préféré) - favori  
 fente (fissure, fêlure) - krake  
+fenêtre - janel  
 fermenter - biwmutu  
 feu - hoge  
 feu d’artifice - hogotehne  
@@ -411,6 +416,7 @@ fondu - yongosaha
 football - futobol  
 force navale (marine) - haygun  
 forer (percer) - fora  
+forêt (jungle) - jangle  
 forêt de kelp - algojangle  
 fosse - kave  
 fougères - parne  
@@ -576,7 +582,9 @@ mariage - gamia
 Maroc - Magribe  
 Mars - Marse  
 masque - maske  
+masse - mas  
 match - meche  
+matière - mate  
 maximum - mayime  
 maître - mester  
 medio - medi  
@@ -611,10 +619,11 @@ mouiller - shipa
 mouillé - shipi  
 moulin - molia  
 mousse - mos  
+mousson - barshi mosim  
 moussu - mosi  
 mouvoir (bouger) - kina  
 mule - gadogude  
-mur - divar  
+mur - mur  
 mycélium - fungonete  
 mât - maste  
 mère (maman) - mam  
@@ -696,7 +705,7 @@ pantalon - pante
 pantoufle (babouche) - babuche  
 papaye - papay  
 papier - kaguje  
-papier peint - divarkaguje  
+papier peint - murkaguje  
 paquet - pake  
 par exemple - misalo  
 paramètre - param  
@@ -803,6 +812,7 @@ quartz - kuarce
 quatre (4) - chari  
 que (comme) - ko  
 que (quoi) - ke  
+question - wende  
 qui - ki ren  
 ##r
 race - ras  
@@ -836,6 +846,7 @@ ruban (bande) - tepe
 rubis - lalbawsheke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
+réponse - jawabe  
 répéter - reya  
 répétition - rey  
 rêche (rugueux, gros) - karsi  
@@ -844,7 +855,9 @@ s'installer (déménager) - migru
 ##s
 sac - sake  
 sain - sihi  
+saison - mosim  
 salle de bains - banyokamar  
+salle de classe - darsokamar  
 salut (salam) - salame  
 samedi - var 6 (var sisi)  
 sandwich - sanduiche  
@@ -861,7 +874,7 @@ saumon rose - rozosamon
 saumon sockeye - lalsamon  
 sauvage - ekojeni  
 savane - savan  
-savoir (connaître) - jana  
+savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
 sculpteur - eskulter  
@@ -1011,6 +1024,7 @@ voler - feyu
 vouloir - volu  
 voyelle - jungofon  
 vrai - veri  
+vraiment - vero  
 vulve - vulve  
 végétarien - vejetyamiste  
 Vénus - Venus  
