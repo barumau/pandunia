@@ -664,12 +664,13 @@ disho||||directly||directamente||||||||||||||suoraan|wprost (bezpośrednio)
 diske|||eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|disc (disk)|disque|disco|disco|диск|قُرْص|圆盘|ディスク (円盤)|디스크 (원반)|đĩa|डिस्क|ডিস্ক|cakram||disk|disko|kiekko (levy)|dysk
 disprosem|mate|Dy||dysprosium||disprosio|||||||||||||disprozio|dysprosium|dysproz
 divar|||fas:دیوار (divâr), hin:दीवार (dīvāra), pan:ਦੀਵਾਰ (dīvār), tur:duvar, aze:divar|wall|mur|muro (muralha)|muto (muralha)|стена (вал)||墙||||दीवार||||||seinä (muuri)|mur, ściana
-divarkaguje||||wallpaper|papier peint|papel tapiz|papel de parede|обои||壁纸 (墙纸)|壁紙|벽지|दीवारी-कागज|||||duvar kâğıdı|tapeto|tapetti|tapeta
+divarkaguje||||wallpaper|papier peint|papel tapiz|papel de parede|обои||壁纸 (墙纸)|壁紙|벽지||दीवारी-कागज||||duvar kâğıdı|tapeto|tapetti|tapeta
 Divehia|desh|MV||Maldives||Maldivas||||||||||||||Malediivit|Malediwy (Republika Malediwów)
 dobe|||ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe|brick|brique|ladrillo|tijolo|кирпич||砖|レンガ (磚)|||||||||tiili|cegła
 doichi||||German||alemán||||||||||||||saksalainen|niemiecki
 Doichia|desh|DE||Germany||Alemania||||||||||||||Saksa|Niemcy
-dokum|||eng:fra:document, rus:документ (dokument)|document (record, file)|document (dossier)|documento (archivo, nota)||||||||||||||asiakirja (dokumentti, tiedosto)|dokument
+dokum|||eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|document (record, file)|document (dossier)|documento (archivo, nota)|documento|документ||文件|書類 (文書, ドキュメント)|서류 (문서)|tài liệu (văn kiện)|दस्तावेज़||surat (dokumen)|waraka|belge (doküman)|dokumento|asiakirja (dokumentti, tiedosto)|dokument
+dokumfilme||||documentary film|documentaire|documental|documentário|документальный фильм||纪录片|ドキュメンタリー|다큐멘터리|phim tài liệu|||film dokumenter||belgesel|dokumentfilmo|dokumenttielokuva|
 dokumsanduke||||folder (directory)||carpeta||||||||||||||kansio (hakemisto)|folder (teczka)
 dolar||||dollar||dolar|||||||||||||dolaro|dollari|dolar
 dolfin|biw||ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|dolphin|dauphin|delfín|golfinho (delfim)|дельфин||海豚|イルカ (ドルフィン)|||||||yunus (delfin)|delfeno|delfiini|delfin
@@ -782,15 +783,11 @@ Eritria|desh|ER||Eritrea||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea
 es||||being||ser||||||||||||||olo (oleminen)|byt
 esa|||spa:es, fas:(ast), por:estar, rus:есть (yest')|be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
 esey|||eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|essay||ensayo (redacción)||||||||||||||essee|esej
-eska|||hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|ask (inquire)||preguntar (inquirir)|||||||||||||demandi (ĉu)|kysyä|zapytać, spytać, pytać
 eskal|||fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|stairs (ladder)||escalera|||||||||||||ŝtuparo|portaat (rappuset, tikkaat)|schody (drabina)
 eskala||||climb (get on)||escalar||подниматься|||上る (乗る, よじ登る)|||||||||kiivetä|wspinać się (wspiąć się)
 eskaltan||||vine|vigne|enredadera|||||蔓草|||||||||köynnös|pnącz
 eskandem|mate|Sc||scandium||escandio|||||||||||||skandio|skandium|skand
 Eskandia||||Scandinavia|Scandinavie|Escandinavia||||||||||||||Skandinavia|Skandynawia
-eske||||question||pregunta|||||||||||||demando|kysymys|pytanie
-eski||||interrogative||interrogativa|||||||||||||demanda|kysyvä|pytajny, związany z pytaniem
-eskodokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 Eskotia|desh|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
 eskulta||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
 eskulte||||sculpture (statue)||escultura (estatua)|||||||||||||statuo (skultaĵo)|veistos (patsas)|rzeźba
@@ -3531,6 +3528,10 @@ we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
 weka||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 weki|||eng:awake, deu:wach|awake|éveillé|despierto||||||||||||||olla hereillä|przebudzony, przytomny
 wen|||zho:环 (huán), yue:環 (waan4), wuu:環 (gue3), kor:환 (hwan), tha:แหวน (wɛ̌ɛn), jpn:輪 (wa)|ring||anillo|||||||||||||||pierścień
+wenda||||ask (inquire)|demander (poser un question)|preguntar (inquirir)|perguntar||سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza|sormak|demandi|kysyä|zapytać, spytać, pytać
+wendan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
+wende|||zho:问题 (wèntí), yue:問題 (man6 tai4), jpn:問題 (mondai), kor:문제 (munje), vie:vấn đề|question|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali|soru|demando|kysymys|pytanie
+wendodokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 Wenjou||||Wenzhou||||||温州|||||||||||Wenzhou
 wenjoworanje||||satsuma mandari|mandarine satsuma|unshu mikan||мандарин уншиу||温州蜜柑|ウンシュウミカン||||||||||mandarynka Satsuma (pomarańcza Satsuma)
 weste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west||oeste||||||||||||||länsi|zachód
