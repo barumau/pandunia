@@ -5,9 +5,9 @@
 Observations are the simplest sentence type.
 They may consist of only one word, which draws the listener's attention.
 
-**mav!**
+**maw!**
 – A cat!  
-**barxa!**
+**barshu!**
 – (It) rains!
 
 ## Stative Sentences
@@ -21,10 +21,10 @@ In the simplest sentences, the subject is a noun or a pronoun and the predicate 
 – I am good.  
 **le novi.**
 – It is new.  
-**le sarah.**
-– She is Sarah.  
-**sarah bon.**
-– Sarah is good.  
+**le Sara.**
+– She is Sara.  
+**Sara bon.**
+– Sara is good.  
 **petre day.**
 – The stone is big.  
 **meze novi.**
@@ -36,15 +36,15 @@ The word **no** is added to form the negative.
 – I'm not good.  
 **le no novi.**
 – It's not new.  
-**le no sarah.**
-– She is not Sarah.
+**le no Sara.**
+– She is not Sara.
 
 It is possible to add the word **si** (yes) before the predicate in positive sentences,
 for style or for convenience.
 Then the structure is similar like in negative sentences.
 
-**sarah si bon.**
-– Sarah is good.  
+**Sara si bon.**
+– Sara is good.  
 **petre si day.**
 – The stone is big.  
 **meze si novi.**
@@ -73,7 +73,7 @@ The same rule applies also for two adjectives.
 A verb can't be subject as such.
 So the verb is first, use **ye** to start a comment about the verb.
 
-**canta, ye bon.**
+**chanta, ye bon.**
 – Singing, that is good. (Singing is good.)
 
 
@@ -111,7 +111,7 @@ recipient–verb–(optional agent).
 – Music is heard.  
 **pang beku.**
 – Bread is baked.  
-**kope parcu.**
+**kope parchu.**
 – Cup breaks. (Cup gets broken.)
 
 The agent can be mentioned after the verb with or without the preposition **da**.
@@ -137,23 +137,23 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me volu te yama sabze.**
+**me volu te yama vejete.**
 – I want you eat vegetables.
 
 In the example above, **me volu** has **te** as its object.
-At the same time, **te** functions as the subject of the following predicate, **yama sabze**.
+At the same time, **te** functions as the subject of the following predicate, **yama vejete**.
 So **te** is the _pivot_ of the entire sentence.
 
 The first verb in a pivot structure is a modal verb,
 which indicates a modality such as advice, desire, permission or obligation.
 
-**me volu te yama sabze.**
+**me volu te yama vejete.**
 – I want you to eat vegetables. (desire)  
-**me menta te yama sabze.**
+**me menta te yama vejete.**
 – I advice you to eat vegetables. (advice)  
-**me halala te yama sabze.**
+**me halala te yama vejete.**
 – I allow you to eat vegetables. (permission)  
-**me musa te yama sabze.**
+**me musa te yama vejete.**
 – I compel you to eat vegetables. (obligation)  
 
 
@@ -174,15 +174,15 @@ The last verb in the series is the main verb.
 The verbs before it are modal verbs,
 which that indicate a modality such as likelihood, ability, advice, permission, desire, or obligation.
 
-**te abla yama sabze.**
+**te abla yama vejete.**
 – You can eat vegetables. (ability)  
-**te mentu yama sabze.**
+**te mentu yama vejete.**
 – You had better eat vegetables. (advice)  
-**te halalu yama sabze.**
+**te halalu yama vejete.**
 – You may eat vegetables. (permission)  
-**te volu yama sabze.**
+**te volu yama vejete.**
 – You want to eat vegetables. (desire)  
-**te musu yama sabze.**
+**te musu yama vejete.**
 – You must eat vegetables. (obligation)  
 
 ## Pronoun dropping
@@ -192,9 +192,9 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me eska te baxa pandunia.**
+**me wenda te basha pandunia.**
 – I ask do you speak Pandunia.  
-**eska te baxa pandunia?**
+**wenda te basha pandunia?**
 – Do you speak Pandunia.
 
 ### Short pivot structure (VVO)
@@ -215,11 +215,11 @@ This is done especially in commands and requests.
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku mav e vaf.**
+**me suku maw e vaf.**
 – I like cats and dogs.  
-**me suku mav o vaf.**
+**me suku maw o vaf.**
 – I like cats or dogs.  
-**me suku mav a no vaf.**
+**me suku maw a no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -271,7 +271,7 @@ Different scopes of negation may result depending on the location of the negativ
 
 The particles **si** and **no** are used also for answering questions.
 
-**eska te vida me?**
+**te vida me, no?**
 – Do you see me?  
 **si. (me si vida te.)**
 – Yes. (I do see you.)  
@@ -280,7 +280,7 @@ The particles **si** and **no** are used also for answering questions.
 
 Negative questions are answered so that **si** and **no** apply to the verb, not the whole question.
 
-**eska te no vida me?**
+**te no vida me, si?**
 – Don't you see me?  
 **si. (me si vida te.)**
 – Yes. (I do see you.)  
@@ -301,17 +301,17 @@ The modifier particle can be used for any possessive noun or pronoun.
 With regards to possession, **du** works like the apostrophe-s ('s) in English.
 It indicates that the previous word has possession of the next one.
 
-**maria du mame**
+**Maria du mame**
 – Maria's mother  
-**maria du mame du dome**
+**Maria du mame du dome**
 – Maria's mother's house
 
 **da** works like "of" in English.
 It indicates that the next word has possession of the previous one.
 
-**mame da maria**
+**mame da Maria**
 – the mother of Maria  
-**dome da mame da maria**
+**dome da mame da Maria**
 – the house of the mother of Maria
 
 It's possible to use **da** and **du** with personal pronouns too,
@@ -362,11 +362,11 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
 
 A declarative phrase:  
-**mav vidu me.**
+**maw vidu me.**
 – A cat is seen by me.
 
 The corresponding modifying phrase:  
-**mav da vidu me**
+**maw da vidu me**
 – the cat that is _seen by me_
 
 Note! Although **da** seems to have a similar role here as English relative pronouns _which_, _that_, _who_ and _whom_,
@@ -375,22 +375,22 @@ it's still nothing more than a particle connecting a modifier (in this case: a v
 The opposite word order is made with **du** and the verb ending in **-a**.
 
 A declarative phrase:  
-**me vida mav.**
+**me vida maw.**
 – I see a cat.
 
 The corresponding modifying phrase:  
-**me vida du mav**
+**me vida du maw**
 – _My seen_ cat i.e. the cat _that I see_
 
 Pay attention to the final vowels! They are crucial for the meaning!
 
-**mav da vidu man**
+**maw da vidu man**
 – the cat that is seen by the man  
-**mav da vida man**
+**maw da vida man**
 – the cat that sees the man  
-**mav vida du man**
+**maw vida du man**
 – the _cat-seen_ man  
-**mav vidu du man**
+**maw vidu du man**
 – the _cat-seeing_ man
 
 Note! In Pandunia, words can be put in many different orders.
@@ -416,7 +416,7 @@ With the modified noun at the beginning, we need to call into action the otherwi
 Any clause can modify a noun in the same manner: the modified noun is moved to the beginning of the modifying clause
 and separated out with **da**, or moved to the end and separated out with **du**.
 
-**me xerca me paso abla laxa du eni xey.**
+**me sercha me paso abla lasha du eni shey.**
 – I'm looking for anything I might have left behind.
 
 In more complex cases, it can become challenging to maneuver the noun to the end of the clause. In these cases, the
@@ -425,7 +425,7 @@ may be more understandable to simply rearrange the sentence entirely.
 
 **lole loga loke da me no abla eureka sa karte.**
 – They named a place I couldn't find on the map.
-**me cana table da ren. me raya mome xudu eska lole tema liga momi partia.**
+**me cana table da ren. me raya mome xudu wenda lole tema liga momi partia.**
 – I've tabulated the people that I think we should ask about joining our party.
 
 ### Modal Particles
@@ -457,20 +457,20 @@ In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **paso** (past), **zayo** (present) and **vilo** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**me paso tena mav.**
+**me paso tena maw.**
 – I had cats.  
-**a me no zayo tena mav.**
+**a me no zayo tena maw.**
 – But I now don't have cats.  
-**ablo me vilo tena mav.**
+**ablo me vilo tena maw.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **sa pase** (in the past) etc.
 
-**me tena mav sa pase.**
+**me tena maw sa pase.**
 – I had cats in the past.  
-**a me no tena mav sa zaye.**
+**a me no tena maw sa zaye.**
 – But I don't have cats at present.  
-**ablo me tena mav sa vile.**
+**ablo me tena maw sa vile.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

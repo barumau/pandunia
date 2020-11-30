@@ -4,9 +4,9 @@
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
-sa pase lawi mame gurube tena tin lil gurube.
-a le no tena basi niame pa dona pa lole.
-sa den da lole baso lawi, le senda lole pa dunia pa lole serca zi destine.
+cheno, lawi mame gurube tena tin lili gurube.
+a le no tena basi yam pa dona pa lole.
+sa den da lole baso lawi, le misa lole pa dunia pa lole sercha zi gol sa jive.
 
 gurube nombre un no suku werke multo.
 le pano no wana werka e le bina zi dome ca suhi gras.

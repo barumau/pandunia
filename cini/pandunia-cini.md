@@ -3,8 +3,8 @@
 abite - 冷杉  
 abla - 会  
 abli - 可能  
-achu* - 阿嚏  
 achua - 打喷嚏  
+achu\* - 阿嚏  
 adali - 公正地  
 adalia - 正义  
 adres - 地址  
@@ -30,7 +30,6 @@ alkol - 酒
 almar - 碗碟橱  
 almas - 钻石  
 alraya - 不同意  
-altar - 圣坛  
 ama - 爱  
 amari - 苦的  
 amarmelon - 苦瓜  
@@ -107,6 +106,7 @@ bari - 重型的
 barkoke - 杏子  
 barshe - 雨  
 barshi - 多雨  
+barshi mosim - 雨季  
 barshochate - 伞  
 barshokote - 雨衣  
 bash - 语言  
@@ -143,9 +143,10 @@ bote - 船 (艇)
 botel - 瓶  
 botolefte - 左舷  
 botoraite - 右舷  
-boya - 漂浮  
+boyu - 漂浮  
 bruni - 棕色 (色)  
 brunsamon - 褐鳟  
+Bude - 佛陀  
 bufete - 自助餐  
 buke - 书  
 bum - 爆炸  
@@ -157,6 +158,7 @@ ceram - 陶瓷
 cha - 从  
 chakre - 轮子  
 chamache - 匙子  
+chantergrupe - 合唱团  
 chari - 四 (4)  
 chay - 茶  
 chaykope - 茶碗  
@@ -165,8 +167,8 @@ chendeno - 昨日
 cheng - 层  
 cheno - 以前  
 cherni - 黑色  
-chili* - 菜椒  
 chilifun - 辣椒粉  
+chili\* - 菜椒  
 chini - 汉族  
 chir - 撕裂  
 chira - 撕裂  
@@ -202,9 +204,9 @@ ding - 钉子
 diniste - 信徒  
 diorite - 闪长岩  
 diske - 圆盘  
-divar - 墙  
-divarkaguje - 壁纸 (墙纸)  
 dobe - 砖  
+dokum - 文件  
+dokumfilme - 纪录片  
 dolfin - 海豚  
 dom - 房子  
 dong - 东  
@@ -213,7 +215,10 @@ dosili - 驯服的
 duga - 读 (看)  
 duli - 二 (2)  
 dunia - 世界  
+dur - 时间  
+durmetrer - 秒表  
 durubli - 耐用的  
+dush - 淋浴  
 e - 和  
 ##e
 ekor - 松鼠  
@@ -224,7 +229,6 @@ emoje - 绘文字
 englomargarite - 雛菊  
 esa - 对  
 esponje - 海绵  
-esprinta - 跑步  
 estan - 锡  
 estibem - 锑  
 europobalute - 夏櫟  
@@ -242,6 +246,7 @@ filme - 膜
 filsofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
+fishohuke - 鱼钩  
 fishosaider - 鱼夫  
 fitolojia - 植物学  
 fleche - 箭  
@@ -252,6 +257,9 @@ fotograf -  照片 (相片)
 fotominar - 信号  
 frem - 框  
 frika - 擦伤  
+fuke - 衣服  
+fuki - 穿  
+fuku - 穿衣服  
 ful - 花  
 fungopal - 蘑菇  
 ##g
@@ -263,7 +271,6 @@ gadogude - 骡
 galaksia - 恆星系  
 Galia - 高卢  
 galte - 错误  
-ganche - 钩  
 gandum - 麦  
 gangras - 干草  
 garmozon - 热带  
@@ -328,7 +335,10 @@ hogotehne - 烟火
 hogu - 烧  
 hoke - 曲棍球  
 hor - 小时  
+horloger - 钟  
 hotel - 旅馆  
+huke - 钩  
+hukokrus - 卍 (卐)  
 hul - 狐狸  
 huri - 自由的  
 huria - 自由  
@@ -343,8 +353,11 @@ itis - 炎症
 ive - 趋势  
 izia da akses - 無障礙環境  
 ##j
-jana - 知道 (晓得)  
+janel - 窗戶  
+janelfrem - 窗框  
 janger - 工匠 (匠人)  
+jangle - 森林  
+jawabe - 回答  
 jeka - 借  
 jekodona - 借出  
 jekogeta - 借入  
@@ -364,7 +377,7 @@ jus - 汁
 kaboge - 南瓜  
 kade - 鱈  
 kafas - 笼  
-kafe* - 咖啡  
+kafe\* - 咖啡  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kaisha - 开始  
@@ -424,7 +437,7 @@ kitaba - 写
 kitabia - 图书馆  
 kitabomashin - 打字机  
 kitu - 去  
-kiwi* - 奇异果  
+kiwi\* - 奇异果  
 klien - 顾客  
 klimomute - 气候变化  
 ko - 比  
@@ -438,8 +451,10 @@ kono - 共同 (一起)
 kontini - 指针式的  
 kontrate - 公約  
 kope - 杯子  
+kora - 跑步  
 koral - 珊瑚  
 korde - 线  
+korer - 跑步者  
 kornomelon - 刺角瓜  
 kortokrokodil - 短吻鳄  
 kosmi - 宇宙的  
@@ -462,7 +477,7 @@ lali - 红
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
 lalsamon - 紅鮭  
-lama* - 喇嘛  
+lama\* - 喇嘛  
 lampe - 灯  
 lan - 诅咒  
 lancograf - 投影  
@@ -483,7 +498,7 @@ lengi - 冷たい (寒い)
 lenti - 慢  
 letis - 莴苣  
 leze - 梨  
-liama* - 大羊駝  
+liama\* - 大羊駝  
 libel - 蜻蜓  
 libobanze - 架子 (搁板)  
 libobaze - 架子  
@@ -506,6 +521,7 @@ loke - 地方
 lole - 他们  
 lon - 论  
 longi - 长  
+longoduro - 久  
 longopipre - 荜拔  
 lontre - 獭  
 lugi - 绿色  
@@ -528,9 +544,11 @@ manse - 肉
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 maragay - 長尾虎貓  
+mas - 质量  
 masal - 香料  
 masmulsolful - 菊芋  
 maste - 桅  
+mate - 物质  
 matur - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
@@ -542,7 +560,7 @@ me - 我
 meche - 比赛  
 medi - 中型  
 medikosuy - 药水  
-mega* - 百万 (兆)  
+mega\* - 百万 (兆)  
 mege - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
 melvesposanduke - 蜂箱  
@@ -576,9 +594,12 @@ moni - 唯一
 monloge - 独白  
 mono - 只有 (惟独)  
 mos - 苔藓  
+mosim - 季  
 mul - 根  
 mumchape - 封印  
 mumomelon - 冬瓜 (白瓜)  
+mur - 墙壁  
+murkaguje - 壁纸 (墙纸)  
 muskulbin - 健美运动  
 ##n
 nade - 河 (江)  
@@ -674,8 +695,9 @@ problem - 问题 (难题)
 program - 计划  
 puding - 布丁  
 pudu - 腐烂  
+pujomeze - 圣坛  
 pul - 桥  
-puma* - 美洲獅 (山狮)  
+puma\* - 美洲獅 (山狮)  
 purshipa - 浸泡  
 putawlimon - 葡萄柚  
 putongi - 普通  
@@ -685,7 +707,6 @@ rangomate - 染料
 rapidi - 快  
 rari - 稀有 (稀少的)  
 ras - 种族  
-reloje - 钟  
 reste - 其余  
 retrogula - 呕吐  
 retroguli sense - 恶心  
@@ -724,6 +745,7 @@ sapate - 鞋
 sape - 锄  
 sar - 头  
 Saturne - 土星  
+sava - 知道 (晓得)  
 sem - 种  
 seman - 週  
 semdan - 种子  
@@ -773,7 +795,7 @@ sirplan - 阴谋 (密谋)
 sisi - 六 (6)  
 soci jinse - 社會性別  
 socia - 社会  
-sofa* - 沙发  
+sofa\* - 沙发  
 sol - 太阳  
 solful - 向日葵  
 solsistem - 太阳系  
@@ -868,6 +890,8 @@ wanu - 玩耍
 washurse - 浣熊  
 wayoyam - 野餐  
 waytira - 拉  
+wenda - 问  
+wende - 问题  
 Wenjou - 温州  
 wenjoworanje - 温州蜜柑  
 wijin - 味精  

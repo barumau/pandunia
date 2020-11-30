@@ -47,7 +47,6 @@ alnamo - tio estas (alivorte)
 alo - alie  
 alraya - malkonsenti  
 alseksi - samseksema  
-altar - altaro  
 aluminem - aluminio  
 am - amo  
 ama - ami (ŝati)  
@@ -242,6 +241,7 @@ bromem - bromo
 brosh - broso  
 bruni - bruna  
 buda - kompreni  
+Bude - Budho  
 bude - kompreno  
 budi - konscia  
 budiste - budhisto  
@@ -260,7 +260,7 @@ buze - kapro
 ##c
 cel - ĉelo  
 celolojia - citologio  
-centi* - centono  
+centi\* - centono  
 cerebre - cerbo  
 cerem - cerio  
 cesem - cezio  
@@ -276,6 +276,7 @@ chango - ofte
 chanse - ŝanco  
 chanta - kanti  
 chante - kanto  
+chantergrupe - ĥoro  
 chapa - presi  
 chape - presaĵo  
 chari - kvar (4)  
@@ -331,7 +332,7 @@ darsa - lerni (studi)
 darse - leciono  
 darser - studento (lernanto)  
 darsia - lernejo  
-darsoguru* - instruisto  
+darsoguru\* - instruisto  
 date - datumo  
 datobanke - datumbanko  
 daw - vojo  
@@ -341,7 +342,7 @@ dayhay - oceano
 daypaw - kanono  
 daypawer - kanonisto  
 daysheke - ŝtonego  
-deci* - dekono  
+deci\* - dekono  
 def - defendo  
 defa - defendi  
 defer - defendanto (defendisto)  
@@ -370,12 +371,13 @@ dika - celi
 dike - celo  
 din - religio  
 ding - najlo  
-dinguru* - pastro  
+dinguru\* - pastro  
 dini - religia  
 diniste - kredulo  
 diske - disko  
 disprosem - disprozio  
-divarkaguje - tapeto  
+dokum - dokumento  
+dokumfilme - dokumentfilmo  
 dolar - dolaro  
 dolfin - delfeno  
 dom - hejmo (loĝejo)  
@@ -409,7 +411,8 @@ duni - tera
 dunia - mondo  
 dunia bash - mondlingvo  
 dur - daŭro  
-dura - daŭri (dum)  
+dura - daŭrigi  
+duru - daŭri (dum)  
 dush - duŝo  
 dute - dubo  
 duwa - preĝi  
@@ -420,7 +423,7 @@ eglis - preĝejo
 ekia - naturo  
 ekor - sciuro  
 ekran - ekrano  
-eksa* - eksa-  
+eksa\* - eksa-  
 ekuador - Ekvadoro  
 eletre - elektro  
 eletri - elektra  
@@ -438,11 +441,8 @@ erbem - erbio
 eris - Eris (planedeto)  
 Eritria - Eritreo  
 esa - esti  
-eska - demandi (ĉu)  
 eskal - ŝtuparo  
 eskandem - skandio  
-eske - demando  
-eski - demanda  
 eskulta - skulti  
 eskulte - statuo (skultaĵo)  
 eskulter - skultisto  
@@ -457,9 +457,9 @@ eurasia - Eŭrazio
 eureka - trovi  
 europe - Eŭropo  
 europem - eŭropio  
-europes - eŭro  
 europi - Eŭropa  
 europi unisia - Eŭropa Unio (EU)  
+euro\* - eŭro  
 evanjil - evangelio  
 ##f
 faidi - utila  
@@ -513,6 +513,7 @@ fini - lasta
 fiorde - fjordo  
 firuze - turkiso  
 fish - fiŝo  
+fishohuke - fiŝhoko  
 fishosaider - fiŝkaptisto  
 fite - planto  
 fitolojia - plantscienco (botaniko)  
@@ -545,8 +546,11 @@ fotografmashin - fotilo
 francem - franciumo  
 franci krepe - franca krepo  
 Francia - Francio  
-fuka - vesti  
+frem - kadro  
+fuka - vestigi  
 fuke - vesto  
+fuki - surporti  
+fuku - vesti  
 ful - floro  
 fulvaze - vazo (florpoto)  
 fun - polvo  
@@ -618,16 +622,16 @@ grom - tondro
 grupe - grupo  
 guanshe - rilato  
 Guatemala - Gvatemalo  
-gubu* - hipopotamo  
+gubu\* - hipopotamo  
 gude - ĉevalo  
 guhe - kaverno  
 gula - gluti  
 gum - tamburo  
 gun - armeo  
 gunren - soldato  
-guru* - guruo (instruisto)  
 gurube - porko  
 gurubomanse - porkaĵo  
+guru\* - guruo (instruisto)  
 gusta - gustumi  
 guste - gusto  
 gustu ko - gusti kiel  
@@ -645,7 +649,7 @@ hakim - juĝo
 hakimer - juĝisto  
 hal - stato  
 halif - kalifo  
-halo* - saluton!  
+halo\* - saluton!  
 hamake - hamako  
 hamar - martelo  
 hami - grava  
@@ -704,9 +708,12 @@ holmem - holmio
 Honduras - Honduro  
 honi - cent  
 hor - horo  
+horloger - horloĝo  
 hormon - hormono  
 Horvatia - Kroatio  
 hotel - hotelo  
+huke - hoko  
+hukokrus - svastiko  
 hul - vulpo  
 hura - liberigi  
 huri - libera  
@@ -753,12 +760,10 @@ jama - kolekti (kunigi)
 Jamaika - Jamajko  
 jami - kolekta  
 jampa - salti  
-jan - scio  
-jana - scii (koni)  
 janel - fenestro  
+janelfrem - fenestrokadro  
 janger - metiisto  
 jangle - arbaro  
-janlojia - sciteorio (epistemologio)  
 jawaba - respondi  
 jawabe - respondo  
 jebe - poŝo  
@@ -793,8 +798,8 @@ justi - preciza (ekzakta)
 justo - ĝuste (ekzakte)  
 ##k
 kadem - kadmio  
-kafe* - kafo  
 kafeshope - kafejo  
+kafe\* - kafo  
 kafkope - kaftaso  
 kaguje - papero  
 kaish - komenco  
@@ -825,7 +830,7 @@ kanche - vitro
 kande - bombono  
 kangaru - kangaro  
 kanjar - ponardo  
-kanoe* - kanuo (kanoto)  
+kanoe\* - kanuo (kanoto)  
 kante - ŝultro  
 kanun - lego  
 kapa - kapti  
@@ -846,6 +851,7 @@ kastor - kastoro
 kata - tranĉi  
 katalunia - Katalunio  
 katan - glavo  
+katus - kaktuso  
 kava - fosi  
 kave - foso  
 kawayi - ĉarma  
@@ -880,7 +886,7 @@ kitabe - skribo
 kitabia - librejo  
 kitabomashin - tajpilo  
 kitu - iri  
-kiwi* - kivo  
+kiwi\* - kivo  
 klara - klarigi  
 klari - klara  
 klaro - kompreneble  
@@ -917,6 +923,8 @@ kontra - kontraŭ
 kope - taso  
 kopernikem - kopernicio  
 kopiye - kopio  
+kora - kuri  
+korer - kuristo  
 korne - korno  
 kornonos - rinocero  
 koron - krono  
@@ -1046,6 +1054,7 @@ masal - spico
 mashin - maŝino  
 maske - masko  
 maste - masto  
+mate - materio  
 matike - matematiko  
 matiker - matematikisto  
 matur - plenaĝa  
@@ -1063,7 +1072,7 @@ medi - mezo
 medika - sanigi (kuraci)  
 mediker - kuracisto  
 medu - inter  
-mega* - miliono  
+mega\* - miliono  
 mehe - ŝafo  
 Mehiko - Meksikio  
 mel - mielo  
@@ -1136,6 +1145,8 @@ mul - radiko
 mumfote - kandelo  
 mumren - mumio  
 mun - pordo  
+mur - vando  
+murkaguje - tapeto  
 mus - devo  
 musa - devigi  
 mush - muso  
@@ -1268,10 +1279,10 @@ per - plumo
 pes - mono  
 pesdiske - monero  
 pesh - metiero  
-peta* - peta-  
+peta\* - peta-  
 pete - ventro  
 petre - roko  
-piano* - piano  
+piano\* - piano  
 piaze - cepo  
 pige - kulo  
 pijin - piĝino  
@@ -1314,6 +1325,7 @@ profesor - profesoro
 program - programo  
 prometem - prometio  
 protacinem - protaktinio  
+pujomeze - altaro  
 pul - ponto  
 pulmon - pulmo  
 punte - punkto  
@@ -1345,7 +1357,6 @@ raya - opinii
 redi - preta  
 rege - sablo  
 registan - dezerto  
-reloje - horloĝo  
 ren - persono  
 renem - renio  
 rentogenem - rentgenio  
@@ -1428,7 +1439,10 @@ sapate - ŝuo
 sapater - ŝuisto  
 sapateria - ŝuistejo  
 saudar - frato aŭ fratino  
-sauna* - saŭno  
+sauna\* - saŭno  
+sava - scii (koni)  
+save - scio  
+savolojia - sciteorio (epistemologio)  
 say - ombro  
 seaborgem - seborgio  
 sekse - sekso  
@@ -1500,7 +1514,7 @@ sirke - vinagro
 sismolojia - sismologio  
 sistem - sistemo  
 socia - socio  
-sofa* - sofo  
+sofa\* - sofo  
 sofi - saĝa  
 sofia - saga  
 soke - ŝtrumpo  
@@ -1531,7 +1545,7 @@ supe - supo
 superi - bonega  
 supra - superiri  
 suprize - surprizo  
-sushi* - suŝio  
+sushi\* - suŝio  
 suy - akvo  
 suygas - vaporo  
 suyi - akva  
@@ -1551,7 +1565,7 @@ tarja - traduki
 tarje - traduko  
 tarjer - tradukisto  
 tas - plado  
-tatu* - tatuo  
+tatu\* - tatuo  
 tave - pato  
 tayi - tajlanda  
 tayia - Tajlando  
@@ -1668,6 +1682,9 @@ way - ekstero
 waydeshia - fremda lando  
 wayi - ekstera  
 we - tiu  
+wenda - demandi  
+wendan - demandanta  
+wende - demando  
 wi - tiu  
 wike - vikia artikulo  
 wikia - vikio  

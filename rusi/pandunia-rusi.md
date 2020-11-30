@@ -27,7 +27,6 @@ alkal - щёлочь
 alkol - алкоголь  
 almar - шкаф  
 almas - алмаз (бриллиант)  
-altar - алтарь  
 ama - любить  
 amari - горький  
 amarmelon - горький огурец (китайская горькая тыква)  
@@ -107,9 +106,11 @@ bari - тяжёлый
 barkoke - абрикос  
 barshe - дождь  
 barshi - дождливый  
+barshi mosim - муссон  
 barshochate - зонтик  
 barshokote - плащ (дождевик)  
 barshu - дожди́ть  
+barya - преграждать  
 baryer - барьер  
 basen - бассейн  
 bash - язык  
@@ -149,13 +150,14 @@ botel - бутылка
 botolefte - левый борт  
 botoraite - правый борт  
 boy - поплавок (буй)  
-boya - плавать  
+boyu - плавать  
 brauza - исследовать  
 brauzer - исследователь (браузер)  
 bravo - браво  
 brunalge - бурые водоросли  
 bruni - коричневый  
 brunsamon - кумжа  
+Bude - Будда  
 bufete - буфет  
 buke - книга  
 bum - взрыв  
@@ -170,6 +172,7 @@ cha - из (от)
 chakre - колесо  
 chamache - ложка  
 chanse - возможность (шанс)  
+chantergrupe - хор  
 chari - четыре (4)  
 charme - шарм  
 chay - чай  
@@ -179,7 +182,7 @@ chendeno - вчера
 cheno - раньше  
 cherize - черешня  
 cherni - чёрный  
-chili* - перец (паприка)  
+chili\* - перец (паприка)  
 chini - хань  
 chir - рвать  
 chira - рвать  
@@ -216,9 +219,9 @@ dinamite - динамит
 diniste - верующий  
 diorite - диорит  
 diske - диск  
-divar - стена (вал)  
-divarkaguje - обои  
 dobe - кирпич  
+dokum - документ  
+dokumfilme - документальный фильм  
 dolfin - дельфин  
 domi - домашний  
 dong - восток (ост)  
@@ -231,7 +234,11 @@ dulbashi - двуязычный
 duli - два (2)  
 duli o tini - пара  
 dunia - мир (свет)  
+duriki - хронический  
+durmetrer - секундомер  
+duru - длиться  
 durubli - долговечный  
+dush - душ  
 ##e
 ekojeni - дикий  
 ekor - белка  
@@ -245,10 +252,8 @@ emoje - смайлик (эмодзи)
 englomargarite - маргаритка многоле́тняя  
 esa - быть  
 eskala - подниматься  
-eskodokum - анкета  
 eskulter - скульптор  
 esponje - губка  
-esprinta - бегать (бежать)  
 estibem - сурьма (стибиум)  
 europobalute - дуб черешчатый  
 evanjil - евангелие  
@@ -266,6 +271,7 @@ filme - плева (фильм)
 filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
+fishohuke - крючок  
 fishosaider - рыбак (рыболов)  
 fitolojia - ботаника  
 fleche - стрела (стрелка)  
@@ -276,6 +282,10 @@ fotografia - фотография
 fotominar - маяк  
 frem - рама  
 frika - царапать  
+fuka - одевать  
+fuke - одежда  
+fuki - носить  
+fuku - одеваться  
 ful - цветок  
 fungopal - гриб  
 futobol - футбол  
@@ -287,7 +297,6 @@ gabrosheke - надгробие
 gadogude - мул  
 galaksia - галактика  
 Galia - Галлия  
-ganche - крюк  
 gandum - пшеница  
 gangras - сено  
 garmozon - тропик  
@@ -323,7 +332,7 @@ guypapil - мак восточный
 habar - новости  
 haha - смеяться  
 hal - состояние (статус)  
-halo* - алло  
+halo\* - алло  
 hami - важный (значимый)  
 hamili - беременный  
 hande - рука  
@@ -340,6 +349,7 @@ hayhiyar - голотурия (морские огурц)
 hayi - морской  
 helisbabul - акация кручёная  
 helisviman - вертолёт  
+hem - хм  
 hemahe - палатка (шатёр)  
 hewan - животное  
 hewanparke - зоопарк  
@@ -355,7 +365,10 @@ hogotehne - фейерверк
 hoke - хоккей  
 hor - час  
 horizoni - horizontal  
+horloger - часы  
 hotel - гостиница (отель)  
+huke - крюк (гак)  
+hukokrus - свастика  
 hul - лиса  
 huri - свободный (вольный)  
 huydarte - подзол  
@@ -372,13 +385,16 @@ ive - тенденция
 izia da akses - доступность  
 ##j
 jambul - джамболан  
-jana - знать  
+janel - окно  
+jangle - лес (джунгли)  
+jawabe - ответ  
 jena - родить  
 jengrupe - поколение  
 jeni - сырой  
 jeni bash - родной язык  
 jenisa - выращивать  
 jentipe - генотип  
+jihade - борьба (бой)  
 jinse - пол  
 jiraf - жираф  
 jive - жизнь  
@@ -397,7 +413,7 @@ justopawer - снайпер
 kababi manse - кебаб  
 kaboge - тыква  
 kafas - клетка  
-kafe* - кофе  
+kafe\* - кофе  
 kaguje - бумага  
 kagujolimon - лайм  
 kalam - ручка  
@@ -418,7 +434,7 @@ kanchodake - глазурь
 kangaru - кенгуру  
 kanion - овраг (ущелье, каньон)  
 kanjar - кинжал  
-kanoe* - каноэ  
+kanoe\* - каноэ  
 kansuygas - слезоточи́вый газ  
 Kantalupo da Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
@@ -456,7 +472,7 @@ kitabia - библиотека
 kitabomashin - пишущая машинка  
 kitabominister - библиотекарь  
 kitu - идти  
-kiwi* - киви  
+kiwi\* - киви  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimomute - изменение климата  
@@ -470,9 +486,10 @@ konga - пробиться
 konkara - сотрудничать (кооперировать)  
 kontrate - контракт  
 kope - чаша (чашка, стакан)  
-kor - хор  
+kora - бегать (бежать)  
 koral - коралл  
 korde - нитка  
+korer - бегун  
 kornomelon - кивано (рогатая дыня)  
 kornonos - носорог  
 koron - корона  
@@ -501,7 +518,7 @@ lali - красный
 lalolince - рыжая рысь  
 laloranje - мандарин  
 lalsamon - нерка (красница)  
-lama* - лама (религиозный учитель в тибетском буддизме)  
+lama\* - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
 lan - проклятие  
 lancovute - снаряд  
@@ -516,7 +533,7 @@ lazanye - лазанья
 lazuar - лазурит  
 lete - лето  
 letis - салат-латук  
-liama* - лама  
+liama\* - лама  
 libel - стрекоза  
 libobanze - полка  
 lider - руководитель (лидер)  
@@ -538,6 +555,9 @@ logi - лексический
 logia - словарь  
 loka - ставить  
 loke - место  
+longo - далеко  
+longoduri - долгий (длительный)  
+longoduro - долго  
 longopipre - перец длинный  
 lontre - выдра  
 lugi - зелёный  
@@ -567,11 +587,13 @@ maragay - маргай
 marche - марш  
 margarite - маргаритка  
 Marse - Марс  
+mas - масса  
 masal - пряность  
 maske - маска  
 masmul - клубень  
 masmulsolful - топинамбу́р  
 maste - мачта  
+mate - материя  
 matur - взрослый  
 maw - кошка  
 mayforte - пополнение  
@@ -614,9 +636,12 @@ monloge - монолог
 mono - только  
 mos - мох  
 mosi - мшистый  
+mosim - время года (сезон)  
 Moskove - Москва  
 mul - корень  
 mumomelon - восковая тыква (зимняя дыня)  
+mur - стена (вал)  
+murkaguje - обои  
 muskulbin - культуризм  
 ##n
 nade - река  
@@ -724,7 +749,8 @@ problemi - проблематичный
 program - программа  
 projete - проект  
 pudu - гнить (портиться)  
-puma* - пума (кугуар)  
+pujomeze - алтарь  
+puma\* - пума (кугуар)  
 puntonombre - оценка  
 pura - заполнять  
 puri - полный  
@@ -774,10 +800,11 @@ samsifia - симуляция
 sanduiche - сандвич  
 sanduke - сундук  
 sang - кровь  
-sapate - حِذَاء  
+sapate - туфля  
 sape - мотыга  
 sar - голова  
 Saturne - Сатурн  
+sava - знать  
 selge - мангольд  
 sem - семя  
 semi - семенной  
@@ -828,7 +855,7 @@ sisi - шесть (6)
 slavi - славянский  
 soci jinse - гендер  
 socia - общество (социум)  
-sofa* - софа (диван, канапе)  
+sofa\* - софа (диван, канапе)  
 soke - носок  
 sol - солнце  
 solchate - зонтик от солнца  
@@ -860,7 +887,7 @@ taltesh - ковёр
 tan - стебель  
 tarje - перевод  
 tas - блюдо (таз)  
-tatu* - татуировка (тату)  
+tatu\* - татуировка (тату)  
 tazi - свежий  
 te - ты  
 tehne - техника  
@@ -941,6 +968,8 @@ washurse - енот
 waw - вау!  
 wayoyam - пикник  
 waytira - вытянуть  
+wende - вопрос  
+wendodokum - анкета  
 wenjoworanje - мандарин уншиу  
 westogoril - западная горилла  
 ##x

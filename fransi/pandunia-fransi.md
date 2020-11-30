@@ -11,8 +11,8 @@ abla - pouvoir (être capable)
 able - capacité (compétence)  
 abli - possible  
 ablo - peut-être  
-achu* - atchoum  
 achua - éternuer  
+achu\* - atchoum  
 acinem - actinium  
 adali - juste  
 adalia - justice  
@@ -49,7 +49,6 @@ almar - placard
 almas - diamant  
 alo - autrement  
 alseksi - hétérosexuel  
-altar - autel  
 aluminem - aluminium  
 am - amour (affection)  
 ama - aimer  
@@ -153,8 +152,10 @@ barka - féliciter
 barkoke - abricot  
 barshe - pluie  
 barshi - pluvieux  
+barshi mosim - mousson  
 barshochate - parapluie  
 barshokote - imperméable  
+barya - bloquer  
 baryer - barrière  
 basen - bassin  
 bash - langue  
@@ -189,12 +190,13 @@ bote - bateau
 botel - bouteille  
 botolefte - babord  
 botoraite - tribord  
-boya - nagar (flotter)  
+boyu - nagar (flotter)  
 bravi - brave  
 bravo - bravo!  
 brunalge - algues brunes  
 bruni - brun (marron)  
 brunsamon - truite brune (truite de mer)  
+Bude - Bouddha  
 buke - livre  
 bum - explosion  
 bute - botte  
@@ -206,6 +208,7 @@ cha - de
 chakre - roue  
 chamache - cuiller  
 chanse - chance  
+chantergrupe - chœur  
 chari - quatre (4)  
 charme - charme  
 chay - thé  
@@ -215,7 +218,7 @@ chendeno - hier
 cheno - avant  
 cherize - cerise  
 cherni - noir  
-chili* - piment  
+chili\* - piment  
 chir - déchirer  
 chira - déchirer  
 chize - fromage  
@@ -232,6 +235,7 @@ dalil - preuve
 damaje - dommage  
 dance - dance  
 danger - cloche  
+darsokamar - salle de classe  
 date - données  
 datobanke - base de données  
 daydom - palais (château, manoir)  
@@ -250,10 +254,9 @@ dinamite - dynamite
 diniste - croyant  
 diorite - diorite  
 diske - disque  
-divar - mur  
-divarkaguje - papier peint  
 dobe - brique  
 dokum - document (dossier)  
+dokumfilme - documentaire  
 dolfin - dauphin  
 dom - maison  
 doma - vivre (habiter)  
@@ -267,6 +270,12 @@ duga - lire
 dulbashi - bilingue  
 duli - deux (2)  
 dunia - monde  
+dur - temps (durée)  
+dura - passer  
+duriki - chronique  
+durmetrer - chronomètre  
+duru - durer  
+dush - douche  
 e - et  
 ##e
 ekojeni - sauvage  
@@ -283,7 +292,6 @@ eskaltan - vigne
 Eskandia - Scandinavie  
 eskulter - sculpteur  
 esponje - éponge  
-esprinta - courir  
 estan - étain  
 estibem - antimoine  
 europe - Europe  
@@ -304,6 +312,7 @@ feymush - chauve-souris
 feyu - voler  
 filsofia - philosophie  
 fiorde - fiord  
+fishohuke - hameçon  
 fishosaider - pêcheur  
 fitolojia - botanique  
 fleche - flèche  
@@ -317,6 +326,10 @@ franci krepe - crêpe
 francofoni - francophone  
 Francofonia - francophonie  
 frem - cadre  
+fuka - habiller (vêtir)  
+fuke - vêtements  
+fuki - porter  
+fuku - s’habiller  
 ful - fleur  
 fungonete - mycélium  
 fungopal - champignon  
@@ -333,7 +346,6 @@ galte - faute (erreur)
 galti - erroné  
 gamia - mariage  
 gamike - époux  
-ganche - crochet  
 gandum - blé  
 gangras - foin  
 garmozon - tropique  
@@ -368,7 +380,7 @@ guypapil - pavot d'Orient
 haha - rire  
 hake - droit  
 hal - état  
-halo* - allô  
+halo\* - allô  
 hami - important  
 hande - main  
 handoshake - bras  
@@ -385,6 +397,7 @@ hayjel - méduse
 haytate - côte  
 helisbabul - acacia faux-gommier  
 helisviman - hélicoptère  
+hem - hum  
 hemahe - tente  
 hewan - animal (bête)  
 hewanjenisia - élevage  
@@ -401,7 +414,10 @@ hogosheke - silex
 hogotehne - feu d’artifice  
 hoke - hockey  
 hor - heure  
+horloger - horloge  
 hotel - hôtel  
+huke - crochet  
+hukokrus - svastika (croix gammée)  
 hul - renard  
 huri - libre  
 huydarte - podzol  
@@ -417,7 +433,9 @@ iva - avoir tendance à
 ive - tendance  
 ##j
 jambul - prune de Java  
-jana - savoir (connaître)  
+janel - fenêtre  
+jangle - forêt (jungle)  
+jawabe - réponse  
 jeinistia - jaïnisme  
 jeka - prêter (empruntre)  
 jekodona - prêter  
@@ -426,6 +444,7 @@ jena - donner naissance (procréer, engendrer, accoucher)
 jeni bash - langue maternelle  
 jenisa - élever  
 jentipe - génotype  
+jihade - lutte  
 jino - en avant  
 jinse - sexe  
 jiraf - giraffe  
@@ -443,7 +462,7 @@ justi - exact (précis)
 kaboge - citrouille  
 kade - morue  
 kafas - cage  
-kafe* - café  
+kafe\* - café  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kalam - plume  
@@ -462,7 +481,7 @@ kanape - canapé (sofa)
 kanche - verre  
 kangaru - kangourou  
 kanion - canyon (ravin)  
-kanoe* - canoë  
+kanoe\* - canoë  
 kansuygas - gaz lacrymogène  
 Kantalupo da Sabina - Cantalupo in Sabina  
 kapotruke - piège  
@@ -490,6 +509,8 @@ kave - fosse
 ke - que (quoi)  
 kerne - coeur  
 Khartum - Khartoum  
+ki ren - qui  
+ki sate - quand  
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
@@ -502,7 +523,7 @@ kitabia - bibliothèque
 kitabomashin - machine à écrire  
 kiti - parti  
 kitu - aller (quitter)  
-kiwi* - kiwi  
+kiwi\* - kiwi  
 klari - clair  
 klien - client  
 klimomute - changement climatique  
@@ -516,8 +537,10 @@ konkara - collaborer
 kontini - continu (analogique)  
 kontrate - convention (alliance, pacte)  
 kope - coupe (tasse, verre)  
+kora - courir  
 koral - corail  
 korde - fil  
+korer - coureur  
 korne - corne  
 koron - couronne  
 kortokrokodil - alligator  
@@ -546,7 +569,7 @@ lalbawsheke - rubis
 lali - rouge  
 laloranje - mandarine  
 lalsamon - saumon sockeye  
-lama* - lama (enseignant religieux du bouddhisme tibétain)  
+lama\* - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
 lan - malédiccion  
 lancograf - projection  
@@ -566,7 +589,7 @@ legi - léger
 lenti - lent  
 lete - été  
 letis - laitue  
-liama* - lama  
+liama\* - lama  
 libel - libellule  
 libobanze - étagère  
 lider - dirigeant (leader)  
@@ -592,6 +615,9 @@ loka - mettre (placer)
 loke - lieu  
 loki - local  
 longi - long  
+longo - loin  
+longoduri - prolongé  
+longoduro - longtemps  
 longokrokodil - crocodile  
 longopipre - poivre long  
 lontre - loutre  
@@ -619,11 +645,13 @@ mar - fois
 maragay - margay (chat-tigre)  
 marche - marche  
 Marse - Mars  
+mas - masse  
 masal - épices  
 maske - masque  
 masmul - tubercule  
 masmulsolful - topinambour  
 maste - mât  
+mate - matière  
 matur - adulte  
 maw - chat  
 may (mayo) - plus  
@@ -668,8 +696,11 @@ monloge - monologue
 mono - seulement  
 mos - mousse  
 mosi - moussu  
+mosim - saison  
 muke - visage  
 mul - racine  
+mur - mur  
+murkaguje - papier peint  
 muskulbin - culturisme (musculation)  
 ##n
 nade - rivière (fleuve)  
@@ -784,9 +815,11 @@ problem - problème
 problemi - problématique  
 program - programme  
 projete - projet  
-pudu - se décomposer  
+pudi - pourri  
+pudu - pourrir (se décomposer)  
+pujomeze - autel  
 pul - pont  
-puma* - couguar (puma)  
+puma\* - couguar (puma)  
 pura - remplir  
 purbona - perfectionner (parfaire)  
 puri - plein  
@@ -804,7 +837,6 @@ rari - rare
 ras - race  
 rasmedi - interracial  
 regopetre - grès  
-reloje - horloge  
 reste - reste  
 retro - en arrière  
 retroguli sense - nausée  
@@ -828,6 +860,7 @@ rozosamon - saumon rose
 ruhe - psyché  
 ruhlojia - psychologie  
 ##s
+sa ke - où  
 sa linye - en ligne  
 safariste - touriste  
 sahi - correct (juste)  
@@ -848,6 +881,7 @@ sang - sang
 sape - houe  
 sar - tête  
 Saturne - Saturne  
+sava - savoir (connaître)  
 savan - savane  
 sekuri - sûr  
 selge - blettes (bettes)  
@@ -896,7 +930,7 @@ sirkopurshipi hiyar - concombre confit (cornichon)
 sirplan - complot (conspiration)  
 sisi - six (6)  
 socia - société  
-sofa* - canapé (sofa)  
+sofa\* - canapé (sofa)  
 sol - soleil  
 solchate - ombrelle (parasol)  
 solful - Tournesol  
@@ -988,6 +1022,7 @@ Venus - Vénus
 veri - vrai  
 verme - ver  
 vermute - vermouth  
+vero - vraiment  
 vespe - abeille ou guêpe  
 vesponizde - ruche (nid d'abeille)  
 vida - voir  
@@ -1006,6 +1041,8 @@ washurse - raton laveur
 wayoyam - piquenique  
 waytira - tender  
 weki - éveillé  
+wenda - demander (poser un question)  
+wende - question  
 wenjoworanje - mandarine satsuma  
 wolfe - loup  
 Wolof - wolof  
@@ -1036,7 +1073,7 @@ zeze - mouche
 zim - hiver  
 zimi - hivernal (hibernal)  
 zinje - gingembre  
-zombi* - zombi  
+zombi\* - zombi  
 zon - zone  
 zong - pieu (poteau)  
 zongominte - menthe verte  

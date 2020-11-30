@@ -38,7 +38,7 @@ aller (quitter) - kitu
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alfon  
-allô - halo*  
+allô - halo\*  
 alphabet - harfia  
 aluminium - aluminem  
 amande - badam  
@@ -94,9 +94,9 @@ Asie - asia
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
-atchoum - achu*  
+atchoum - achu\*  
 Athènes - Athina  
-autel - altar  
+autel - pujomeze  
 automne - oton  
 autre - ali  
 autrement - alo  
@@ -153,6 +153,7 @@ bière - bir
 blanc - baki  
 blettes (bettes) - selge  
 bleu - nili  
+bloquer - barya  
 blé - gandum  
 bombe - bombe  
 bon - bon (boni)  
@@ -160,6 +161,7 @@ bord (rive) - tate
 botanique - fitolojia  
 botte - bute  
 bouclire - defbanze  
+Bouddha - Bude  
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
 bouleau - berje  
@@ -181,7 +183,7 @@ bûche - mokotan
 cacher - sira  
 cactus - katus  
 cadre - frem  
-café - kafe*  
+café - kafe\*  
 cage - kafas  
 caillou - lilsheke  
 calcaire - kalcopetre  
@@ -193,10 +195,10 @@ calme (tranquille) - shanti
 Camomille Romaine - romkamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
-canapé (sofa) - sofa*  
+canapé (sofa) - sofa\*  
 Canne à sucre - shukargras  
 canon - daypaw  
-canoë - kanoe*  
+canoë - kanoe\*  
 Cantalupo in Sabina - Kantalupo da Sabina  
 canyon (ravin) - kanion  
 capacité (compétence) - able  
@@ -240,10 +242,13 @@ chimie - kimlojia
 Chine - Jungogia  
 chocolat - chokolate  
 chose - shey  
+chronique - duriki  
+chronomètre - durmetrer  
 chu - paduti  
 chéri (ami) - amike  
 chêne - balute  
 chêne pédonculé - europobalute  
+chœur - chantergrupe  
 ciel - saman  
 cime (pic, sommet) - pike  
 cimetière - gabristan  
@@ -286,18 +291,19 @@ cosmos - kosmia
 coton - goton  
 couch (couchette) - kushloke  
 coucher - kusha  
-couguar (puma) - puma*  
+couguar (puma) - puma\*  
 couleur - rang  
 coupe (tasse, verre) - kope  
+coureur - korer  
 courgette - lilkaboge  
-courir - esprinta  
+courir - kora  
 couronne - koron  
 couvrir - daka  
 crabe - krabe  
 creuser - kava  
 crevette - krevete  
 cristal - kristal  
-crochet - ganche  
+crochet - huke  
 crocodile - longokrokodil  
 crocodilien - krokodil  
 croissant - kruasante  
@@ -323,6 +329,7 @@ danger - hatre
 dans le sens antihoraire - fansoldisho  
 dauphin - dolfin  
 de - cha  
+demander (poser un question) - wenda  
 dessous - niche  
 destin - chenamen  
 deux (2) - duli  
@@ -337,6 +344,7 @@ distinct (numérique) - feni
 divers (plusieurs) - balibali  
 docile (insipide) - dosili  
 document (dossier) - dokum  
+documentaire - dokumfilme  
 domestique - domi  
 domestiquer (apprivoiser) - dosiljenisa  
 domestiqué (apprivoisé) - dosiljenisi  
@@ -344,11 +352,13 @@ dommage - damaje
 donner naissance (procréer, engendrer, accoucher) - jena  
 données - date  
 dormir - sonu  
+douche - dush  
 drapeau - bander  
 droit (rectiligne) - orti  
 droit - hake  
 droits de l'homme - insani hake  
 dur - gati  
+durer - duru  
 dynamite - dinamite  
 décapé (mariné) - sirkopurshipi  
 déchirer - chir  
@@ -390,6 +400,7 @@ fatigue - fatigia
 faute (erreur) - galte  
 favori (préféré) - favori  
 fente (fissure, fêlure) - krake  
+fenêtre - janel  
 fermenter - biwmutu  
 feu - hoge  
 feu d’artifice - hogotehne  
@@ -405,6 +416,7 @@ fondu - yongosaha
 football - futobol  
 force navale (marine) - haygun  
 forer (percer) - fora  
+forêt (jungle) - jangle  
 forêt de kelp - algojangle  
 fosse - kave  
 fougères - parne  
@@ -449,6 +461,8 @@ générosité (charité) - karimia
 géologie - zemlojia  
 géométrie - zemmetria  
 ##h
+habiller (vêtir) - fuka  
+hameçon - fishohuke  
 haut - gaw  
 heure - hor  
 heureux - suki  
@@ -457,11 +471,12 @@ hiver - zim
 hivernal (hibernal) - zimi  
 hockey - hoke  
 hockey sur glace - aishoke  
-horloge - reloje  
+horloge - horloger  
 houe - sape  
 hourra - ura  
 huile (pétrole) - nefte  
 huit (8) - bali  
+hum - hem  
 humain - insaniki  
 humanisme - insanistia  
 humeur - emocohal  
@@ -495,7 +510,7 @@ Jésus - Yesu
 kangourou - kangaru  
 Khartoum - Khartum  
 Kinshasa - Kinshasa  
-kiwi - kiwi*  
+kiwi - kiwi\*  
 kumquat - auroranje  
 ##l
 lac - lage  
@@ -503,8 +518,8 @@ laine - mehi kesh
 laisser - lasha  
 lait - milke  
 laitue - letis  
-lama (enseignant religieux du bouddhisme tibétain) - lama*  
-lama - liama*  
+lama (enseignant religieux du bouddhisme tibétain) - lama\*  
+lama - liama\*  
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bash  
@@ -529,7 +544,9 @@ liste - liste
 litre - litre  
 livre - buke  
 local - loki  
+loin - longo  
 long - longi  
+longtemps - longoduro  
 loquace - logivi  
 loup - wolfe  
 lourd - bari  
@@ -539,6 +556,7 @@ lundi - var 1 (var uni)
 lune - lun  
 luthéranisme - lutheristia  
 luthérien - lutheristi  
+lutte - jihade  
 lynx - lince  
 lys - susan  
 léger - legi  
@@ -565,7 +583,9 @@ mariage - gamia
 Maroc - Magribe  
 Mars - Marse  
 masque - maske  
+masse - mas  
 match - meche  
+matière - mate  
 maximum - mayime  
 maître - mester  
 medio - medi  
@@ -600,10 +620,11 @@ mouiller - shipa
 mouillé - shipi  
 moulin - molia  
 mousse - mos  
+mousson - barshi mosim  
 moussu - mosi  
 mouvoir (bouger) - kina  
 mule - gadogude  
-mur - divar  
+mur - mur  
 mycélium - fungonete  
 mât - maste  
 mère (maman) - mam  
@@ -612,7 +633,7 @@ méduse - hayjel
 mémoire - mem  
 méninge - mening  
 ##n
-nagar (flotter) - boya  
+nagar (flotter) - boyu  
 nation - nasia  
 nausée - retroguli sense  
 nautile - nautil  
@@ -672,6 +693,7 @@ oubliette (cul de basse-fosse) - zemnichi prizon
 oui - si  
 ours - urse  
 oxyde - okside  
+où - sa ke  
 ##p
 pacifiste - paciste  
 page - warkolate  
@@ -684,7 +706,7 @@ pantalon - pante
 pantoufle (babouche) - babuche  
 papaye - papay  
 papier - kaguje  
-papier peint - divarkaguje  
+papier peint - murkaguje  
 paquet - pake  
 par exemple - misalo  
 paramètre - param  
@@ -694,6 +716,7 @@ Paris - Paris
 parler - loga  
 parti - kiti  
 passeport - pasporte  
+passer - dura  
 pastèque - arbuze  
 pathologie - patolojia  
 patient - patike  
@@ -720,7 +743,7 @@ pierre précieuse (joyau) - bawsheke
 pierre tombale - gabrosheke  
 pieu (poteau) - zong  
 pile (batterie) - batre  
-piment - chili*  
+piment - chili\*  
 pioche - pikosape  
 piquenique - wayoyam  
 piraterie - piratia  
@@ -752,10 +775,13 @@ pomme - apel
 pont - pul  
 porte - porte  
 porte-bloc (planchette à pince) - pincobanze  
+porter - fuki  
 posidonie (herbiers marins) - haygras  
 possible - abli  
 possédant (propriétaire) - malker  
 Poulpe (pieuvre) - balsenter  
+pourri - pudi  
+pourrir (se décomposer) - pudu  
 pousse - jovani moke  
 pouvoir (être capable) - abla  
 presse-papier - katoglutobanze  
@@ -768,6 +794,7 @@ projectile - lancovute
 projection - lancograf  
 projet - projete  
 projeter (donner) - lancografa  
+prolongé - longoduri  
 promettre - voda  
 propriété (possession, bien) - malke  
 prune - plum  
@@ -781,10 +808,13 @@ pâquerette - englomargarite
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - fishosaider  
+quand - ki sate  
 quartz - kuarce  
 quatre (4) - chari  
 que (comme) - ko  
 que (quoi) - ke  
+question - wende  
+qui - ki ren  
 ##r
 race - ras  
 racine - mul  
@@ -817,6 +847,7 @@ ruban (bande) - tepe
 rubis - lalbawsheke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
+réponse - jawabe  
 répéter - reya  
 répétition - rey  
 rêche (rugueux, gros) - karsi  
@@ -825,7 +856,9 @@ s'installer (déménager) - migru
 ##s
 sac - sake  
 sain - sihi  
+saison - mosim  
 salle de bains - banyokamar  
+salle de classe - darsokamar  
 salut (salam) - salame  
 samedi - var 6 (var sisi)  
 sandwich - sanduiche  
@@ -842,13 +875,12 @@ saumon rose - rozosamon
 saumon sockeye - lalsamon  
 sauvage - ekojeni  
 savane - savan  
-savoir (connaître) - jana  
+savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
 sculpteur - eskulter  
 scutelle - ostoshalke  
 se baigner - banyu  
-se décomposer - pudu  
 se mouvoir - kinu  
 se rappeler (se remémorer) - mema  
 sel - sal  
@@ -883,6 +915,7 @@ suffixe pour l'adverbe - -o
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
 sujet (thème) - tem  
+svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
 symétrique - sammetri  
 séminal - semi  
@@ -890,6 +923,7 @@ série - silia
 sûr - sekuri  
 sûrement - ameno  
 s’accroupir - indosida  
+s’habiller - fuku  
 ##t
 table - meze  
 tablette de chocolat - chokolatobaton  
@@ -899,6 +933,7 @@ taximètre - taksometer
 technique - tehne  
 technologie - tehnolojia  
 tectonique des plaques - plati zemkaskia  
+temps (durée) - dur  
 tendance - ive  
 tender - waytira  
 tentacule - senter  
@@ -990,16 +1025,18 @@ voler - feyu
 vouloir - volu  
 voyelle - jungofon  
 vrai - veri  
+vraiment - vero  
 vulve - vulve  
 végétarien - vejetyamiste  
 Vénus - Venus  
+vêtements - fuke  
 vœu (promesse) - vode  
 ##w
 wolof - Wolof  
 ##x
 ##y
 ##z
-zombi - zombi*  
+zombi - zombi\*  
 zone - zon  
 zoo - hewanparke  
 Zoroastre - Zardush  
