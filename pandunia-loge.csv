@@ -12,6 +12,7 @@ abla|||eng:able, spa:hábil, fra:habile, ron:abil|can (know, be able)|pouvoir (�
 able||||ability (skill)|capacité (compétence)|habilidad|||||||||||||povo|taito (kyky)|możliwość, umiejętność
 abli||||possible|possible|posible|possível|возможный||可能|ありうる|가능하다||संभव (मुमकिन)||||olası (mümkün)|ebla|mahdollinen|możliwy
 ablo||||maybe (perhaps, possibly)|peut-être|posiblemente|||||||||||||eble|ehkä (mahdollisesti)|prawdopodobnie (możliwie)
+acente|||eng:fra:accent, spa:por:acento, pol:akcent|accent (stress)|accent|acento|acento|ударение||重音符号||||स्वर का चढ़ाव उतार||aksen|||akcento|painotus (aksentti)|akcent, nacisk
 achu*|||spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|achoo|atchoum|achís||||阿嚏|||hắt xì|||||||atsii|apsik
 achua||||sneeze|éternuer|estornudar|espirrar|чихать||打喷嚏|||||||||terni|aivastaa|kichać (kichnąć)
 acinem|mate|Ac||actinium|actinium|actinio|||||||||||||aktinio|aktinium|aktyn
@@ -23,8 +24,8 @@ adres|||eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|addr
 adresoharfe (@)||||@ symbol||arroba (@)||||||||||||||@-merkki|małpa (znak na
 Afrike|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika|Africa|Afrique|África|||||||||||||Afriko|Afrikka|Afryka
 Afriki||||African|africain|africano|||||||||||||afrika|afrikkalainen|afrykański, Afrykanin
-afrikofiler||||afrophile|afrophile||||||||||||||afrikamanto|afrofiili|afrofil
 afrikofilia||||Afrophilia|afrophilie||||||||||||||afrikamanteco|afrofilia|afrofilia
+afrikofiler||||afrophile|afrophile||||||||||||||afrikamanto|afrofiili|afrofil
 aga|||fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|if (suppose, assume)|si|si (suponer)|se|если|إن|如果 (要是)|もし|||अगर (यदि)||jika (kalau)|ikiwa (kama)||se|jos (olettaa)|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa
 agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
 agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
@@ -51,7 +52,6 @@ ajabu||||wonder (be amazed)||||||||||||||||ihmetellä (olla ihmeissään)|zachwy
 ajili|||eng:fra:agile, spa:por:ágil, deu:agil|agile|agile|ágil|ágil|подвижный||灵活的||||फुर्तीला||lincah||çevik|lerta|ketterä|zwinny, sprawny
 akar|biw|Acari|spa:por:ácaro, fra:acarien, tur:acari|tick (mite)|acarien|garrapata (ácaro)|carrapato (ácaros)|клещ (лепта)||蜱 (螨)|壁蝨|||||||||punkki|klescz (roztocze)
 akse|||eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|axis (axle)|axe|eje||ось||轴线||||धुरी||as (poros, paksi)||eksen|akso|akseli|oś
-aksente|||ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|accent (stress)|accent|acento|acento|ударение||重音符号||||स्वर का चढ़ाव उतार||aksen|||akcento|painotus (aksentti)|akcent, nacisk
 akses|||eng:access, spa:acceso, por:acesso, fra:accès, may:akses, jpn:アクセス (akusesu)|access (admission, accessibility)|accès|acceso|acesso|доступ|||アクセス|||प्रवेश||capaian (akses, laluan)||erişim||pääsy|
 aksesa||||access (reach, enter)||acceder||||||||||||||päästä (ulottua)|
 aksesabli||||accessible (within reach)||accesible||доступный|||とっつきやすい (アクセス可能)|||सुगम्य (सुगम, सुलभ)||dapat dicapai (dapat diakses)||||ulottuvilla|
@@ -3163,6 +3163,10 @@ sos|||eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:x�
 sosis|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage|saucisse|salchicha|salsicha|колбаса (сосиска)|سُجُق|香肠|ソーセージ|||सॉसेज||sosis (sosej)|soseji||kolbaso|makkara|kiełbasa
 Soto|desh|LS||Lesotho||Lesoto||||||||||||||Lesoto|Lesotho
 suahili||||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
+sual|||ara: سُؤَال‎ (suʾāl), hin:सवाल (savāl), may:soal, swa:swali|question|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali|soru|demando|kysymys|pytanie
+suala||||ask (inquire)|demander (poser un question)|preguntar (inquirir)|perguntar||سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza|sormak|demandi|kysyä|zapytać, spytać, pytać
+sualan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
+sualdokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 suani|||zho:酸 (suān)|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny
 sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
 suboden||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
@@ -3538,10 +3542,6 @@ we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
 weka||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 weki|||eng:awake, deu:wach|awake|éveillé|despierto||||||||||||||olla hereillä|przebudzony, przytomny
 wen|||zho:环 (huán), yue:環 (waan4), wuu:環 (gue3), kor:환 (hwan), tha:แหวน (wɛ̌ɛn), jpn:輪 (wa)|ring||anillo|||||||||||||||pierścień
-wenda||||ask (inquire)|demander (poser un question)|preguntar (inquirir)|perguntar||سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza|sormak|demandi|kysyä|zapytać, spytać, pytać
-wendan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
-wende|||zho:问题 (wèntí), yue:問題 (man6 tai4), jpn:問題 (mondai), kor:문제 (munje), vie:vấn đề|question|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali|soru|demando|kysymys|pytanie
-wendodokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 Wenjou||||Wenzhou||||||温州|||||||||||Wenzhou
 wenjoworanje||||satsuma mandari|mandarine satsuma|unshu mikan||мандарин уншиу||温州蜜柑|ウンシュウミカン||||||||||mandarynka Satsuma (pomarańcza Satsuma)
 weste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west||oeste||||||||||||||länsi|zachód
