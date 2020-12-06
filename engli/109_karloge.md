@@ -137,24 +137,26 @@ whereas a passive verb indicates a change of state.
 In other words, a stative verb is a _passive of being_
 and a passive verb is a _passive of becoming_.
 
-Some stative verbs can have an object.
+Stative verbs are always intransitive.
+They can't have an object.
 For example, see how the verbs about
 **fuke**
 (clothes or clothing) work.
 
-**me fuki sapate.**
-– I wear shoes.  
+**me fuki.**
+– I am clothed. OR I am dressed.  
 **me fuku sapate.**
-– I put on shoes.  
+– I wear shoes.  
 **le fuka sapate pa me.**
 – He or she puts shoes on me.
 
-The adjective
+So, as a verb,
 **fuki**
-means _worn_.
+means _to be clothed or dressed_
+and, as an adjective, _clothed, dressed_.
 
-**fuki tope esa may boni ko no fuki tope.**
-– A worn hat is better than an unworn hat.
+**fuki ren abla restu jivi sa lengia.**
+– A clothed person can stay alive in the cold.
 
 
 ### Summary of the verb types
@@ -191,7 +193,7 @@ The verb types are summarized in the table below.
 | **lay**        | **layi**       | **layu**       | **laya**       |
 | arrival        |                | come, arrive   |bring, make come|
 | **fuke**       | **fuki**       | **fuku**       | **fuka**       |
-| clothing       | wear, worn     | get dressed    |dress, make wear|
+| clothing       | clothed        | wear           |dress, make wear|
 | **dur**        | **duri**       | **duru**       | **dura**       |
 | time, duration | lasting        | last, take time| spend, put time|
 
