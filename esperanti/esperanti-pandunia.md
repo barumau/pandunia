@@ -25,10 +25,10 @@ aganto - ater
 agema - ativi  
 ago - ate  
 agrabla - hushi  
-agresema - agresi  
+agresema - agresivi  
 aj (alas) - ay  
 ajlo - lasun  
-akcento - aksente  
+akcento - acente  
 akceptebla (okej) - okeyi  
 akiri (gajni) - ganya  
 akiri (ricevi, preni) - geta  
@@ -53,17 +53,17 @@ alporti (venigi) - laya
 alta - gawi  
 altaro - pujomeze  
 aluminio - aluminem  
-amato - amike  
+amanto - lover  
 ambasado - daisheria  
 ambasadoro - daisher  
 americio - amerikem  
 amerika - ameriki  
-Ameriko - amerike  
-ami (ŝati) - ama  
+Ameriko - Amerike  
+ami (ŝati) - lova  
 amika - dosti  
 amikeco - dostia  
 amiko - doste  
-amo - am  
+amo - love  
 ampero - amper  
 amuza - wani  
 amuzi - wana  
@@ -72,7 +72,7 @@ analizi - analiza
 analizo - analize  
 ananaso - nanas  
 anaso - bate  
-Andoj - andes  
+Andoj - Andes  
 angla - engli  
 angulo - gon  
 animo (psiko) - ruhe  
@@ -230,13 +230,16 @@ budhisto - budiste
 Budho - Bude  
 Bulgario - Bolgaria  
 buso - bus  
+buĉejo - buchokan  
+buĉi - bucha  
+buĉisto - bucher  
 buĝeto - bujete  
 buŝo - boke  
 ##c
 celi - dika  
 celo - dike  
 cent - honi  
-centono - centi\*  
+centono - centi'  
 centro - jung  
 cepo - piaze  
 cerbo - cerebre  
@@ -271,11 +274,11 @@ defendi - defa
 defendo - def  
 dek (10) - desi  
 dek miloj - deskili  
-dekono - deci\*  
+dekono - deci'  
 delfeno - dolfin  
-demandanta - wendan  
-demandi - wenda  
-demando - wende  
+demandanta - sualan  
+demandi - suala  
+demando - sual  
 demografio - demgrafia  
 demokratia - demkrati  
 demokratio - demkratia  
@@ -331,7 +334,7 @@ ejnŝtejnio - ainstainem
 ejo (ujo, io) - -ia  
 ejo - aria  
 ekrano - ekran  
-eksa- - eksa\*  
+eksa- - eksa'  
 ekstera - wayi  
 ekstero - way  
 Ekvadoro - ekuador  
@@ -384,7 +387,7 @@ evangelio - evanjil
 eĉ - hato  
 eĥo - mirsonde  
 Eŭrazio - eurasia  
-eŭro - euro\*  
+eŭro - euro'  
 Eŭropa - europi  
 Eŭropa Unio (EU) - europi unisia  
 eŭropio - europem  
@@ -403,6 +406,7 @@ fantaci - fantaza
 fantazia - fantazi  
 fantazio - fantaze  
 fantomo - fantom  
+farejo - kan  
 fari - fata  
 faro (fakto) - fate  
 fascinado - fasinia  
@@ -532,7 +536,7 @@ Grekio - Helenia
 grimaco - grimas  
 grupo - grupe  
 Gujano - Gayana  
-guruo (instruisto) - guru\*  
+guruo (instruisto) - guru'  
 gusti kiel - gustu ko  
 gusto - guste  
 gustumi - gusta  
@@ -574,14 +578,14 @@ hieraū - chendeno
 Himalajo - himalia  
 hinduismo - hindistia  
 hinduo - hindiste  
-hipopotamo - gubu\*  
+hipopotamo - gubu'  
 Hispanio - Espania  
 historiisto - historer  
 historio (studo de historio) - historia  
 historio - histor  
 hm - hem  
 hobio - hobe  
-hodiaŭ - zayden  
+hodiaŭ - zaydeno  
 hokeo - hoke  
 hoko - huke  
 holmio - holmem  
@@ -614,7 +618,7 @@ infekto - infekse
 informacio - informe  
 inko - moge  
 ino - fem  
-instruisto - darsoguru\*  
+instruisto - darsoguru'  
 insulto - ninde  
 inter - medu  
 interesa - interesi  
@@ -622,7 +626,7 @@ interetna - zukomedi
 interkonsento - samrayia  
 internacia - nasmedi  
 interrasa - rasmedi  
-interŝanĝi - badala  
+interŝanĝi - badla  
 inviti - pliza laya  
 io - koy shey  
 iono - ion  
@@ -669,9 +673,9 @@ juĝo - hakim
 ##k
 kadmio - kadem  
 kadro - frem  
-kafejo - kafeshope  
-kafo - kafe\*  
-kaftaso - kafkope  
+kafejo - kafekan  
+kafo - kafe'  
+kaftaso - kafekupe  
 kaj - e  
 kajero - notobuke  
 kakao - kakaw  
@@ -694,11 +698,11 @@ kanonisto - daypawer
 kanono - daypaw  
 kanti - chanta  
 kanto - chante  
-kanuo (kanoto) - kanoe\*  
+kanuo (kanoto) - kanoe'  
 kaoso (malordo) - haos  
 kapro - buze  
 kapti - kapa  
-kara - ami  
+kara - lovi  
 karateo - karate  
 karavano - karvan  
 karbona dioksido - karbondulokside  
@@ -713,6 +717,7 @@ kastoro - kastor
 Katalunio - katalunia  
 kato - maw  
 kaverno - guhe  
+kaĝo - batonkapse  
 kaŝtano - kastan  
 kaŭĉuko - gom  
 kemia elemento - kimem  
@@ -730,13 +735,13 @@ kiom? - ko multo
 kiso - chum  
 kiu (komencigas relativan frazon) - da  
 kiu? - ki ren  
-kivo - kiwi\*  
+kivo - kiwi'  
 klara - klari  
 klarigi - klara  
 klavaro - butonbanze  
 klavo (butono) - buton  
 klimato - klim  
-klimatscienco - klimlojia  
+klimatscienco - klimolojia  
 kloni - klona  
 klono - klon  
 kloro - klorem  
@@ -782,7 +787,8 @@ konstrui - bina
 kontraŭ - kontra  
 kontroli - cheka  
 kopernicio - kopernikem  
-kopio - kopiye  
+kopii - kopa  
+kopio - kope  
 korbo - baske  
 korna bulko - kruasante  
 korno - korne  
@@ -837,10 +843,12 @@ kuri - kora
 kuristo - korer  
 kuriumo - kurem  
 kurteno - parde  
+kutimo - ade  
 kuŝi - kushu  
 kvar (4) - chari  
 kvin (5) - limi  
 ##l
+laborejo - karokan  
 laboristo - karer  
 laboro - kar  
 lakto - milke  
@@ -868,7 +876,7 @@ libelo - libel
 libera - huri  
 libereco - huria  
 liberigi - hura  
-librejo - kitabia  
+librejo - kitabokan  
 libro - buke  
 ligi - benda  
 ligno - mokomate  
@@ -1000,11 +1008,11 @@ mikro- - mikro-
 miksi - miksa  
 miksilo - mikser  
 miksulo - hibride  
-mil (kilo-) - kilo\*  
+mil (kilo-) - kilo'  
 mili- - milo-  
-miliardo (giga-) - giga\*  
+miliardo (giga-) - giga'  
 milimetro - milmetre  
-miliono - mega\*  
+miliono - mega'  
 milita - jengi  
 milito (batalo) - jeng  
 ministro - minister  
@@ -1022,6 +1030,7 @@ mongola - mongoli
 Mongolio - Mongolia  
 monismo - monistia  
 mono - pes  
+monoklo - monoki lense  
 monstro - monster  
 monto - shan  
 montri (ekspozicii) - show  
@@ -1099,7 +1108,7 @@ nur - mono
 ##o
 oazo - was  
 obrelo - barshochate  
-Oceanio - oseania  
+Oceanio - Oceania  
 oceano - dayhay  
 ofte - chango  
 oganesono - oganeson  
@@ -1107,8 +1116,9 @@ ogro (trolo) - guy
 ok (8) - bali  
 oksido - okside  
 oksigeno - okse  
-okulo - kan  
-okulumi - kana  
+okula - oki  
+okulo - oke  
+okulumi - oka  
 okupata - bizi  
 ol (kiel) - ko  
 olivo - zaitun  
@@ -1166,7 +1176,7 @@ partopreni - parta
 pasinta - pasi  
 pasinteco - pas  
 pasporto - pasporte  
-pastro - dinguru\*  
+pastro - dinguru'  
 pato - tave  
 patologio - patolojia  
 patrino - mam  
@@ -1180,12 +1190,12 @@ pentri - penta
 perlo - lul  
 persa - farsi  
 persono - ren  
-peta- - peta\*  
+peta- - peta'  
 peti (bonvolu) - pliza  
 peza - bari  
 pezmetalo - barmetal  
 pezo - baria  
-piano - piano\*  
+piano - piano'  
 picejo - pizeria  
 pico - pize  
 piedo - fute  
@@ -1359,7 +1369,7 @@ salo - sal
 salti - jampa  
 saluti - salama  
 saluto - salame  
-saluton! - halo\*  
+saluton! - halo'  
 sama - sami  
 samario - samarem  
 samlandano - samdeshi  
@@ -1375,7 +1385,7 @@ sankta - santi
 sapo - sabun  
 saĝa - sofi  
 saŭco - sos  
-saŭno - sauna\*  
+saŭno - sauna'  
 scienco - lojia  
 scii (koni) - sava  
 scio - save  
@@ -1389,7 +1399,7 @@ seksa - jinsi
 sekso - jinse  
 sekso - sekse  
 sekva - badi  
-sekvi - bada  
+sekvi - badu  
 sekvinbero - ganputaw  
 sekvo - bade  
 seleno - selenem  
@@ -1428,7 +1438,7 @@ skultisto - eskulter
 smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
-sofo - sofa\*  
+sofo - sofa'  
 soifo - suynide  
 sola (ununura) - uniki  
 soldato - gunren  
@@ -1470,7 +1480,7 @@ surfaco - fas
 surporti - fuki  
 surprizo - suprize  
 suĉi - chupa  
-suŝio - sushi\*  
+suŝio - sushi'  
 svastiko - hukokrus  
 sŭahili - suahili  
 ##t
@@ -1490,8 +1500,8 @@ tamen - lekino
 tantalo - tantalum  
 Tanzanio - Tanzania  
 tapeto - murkaguje  
-taso - kope  
-tatuo - tatu\*  
+taso - kupe  
+tatuo - tatu'  
 teknecio - tehnem  
 tekniko - tehne  
 teknologio - tehnolojia  
@@ -1500,6 +1510,7 @@ telefono - telfon
 televidilo - telvide  
 teluro - telurem  
 temo - tem  
+templo - pujokan  
 tendo - hemahe  
 teneso - tenesem  
 teniso - tenis  
@@ -1671,7 +1682,7 @@ zoo (bestoĝardeno) - hewanparke
 zoroastrismo - zardushistia  
 zoroastristo - zardushiste  
 Zoroastro - Zardush  
-zuluo - zuli  
+zuluo - Zulu  
 Ĉilio - Chile  
 Ĉinio - Jungogia  
 ĉambro - kamar  

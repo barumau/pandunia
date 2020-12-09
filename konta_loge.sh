@@ -7,7 +7,7 @@ kitaba_pike() {
 }
 
 fata_leksasli_liste() {
-    cat pandunia-loge.csv | cut -d '|' -f 4 > temp/lekse.txt
+    cat pandunia-loge.csv | cut -d '|' -f 5 > temp/lekse.txt
     #Delete empty lines
     sed -i '/\ ← $/d' temp/lekse.txt
 }

@@ -86,9 +86,9 @@ alttari - pujomeze
 alue (seutu) - aria  
 alumiini - aluminem  
 amerikium - amerikem  
-Amerikka - amerike  
+Amerikka - Amerike  
 amerikkalainen - ameriki  
-amhara (etiopialainen kansa ja kieli) - amari  
+amhara (etiopialainen kansa ja kieli) - Amari  
 ammatti - pesh  
 ampeeri - amper  
 ampulli - ampul  
@@ -96,7 +96,7 @@ anaalinen - anusi
 analysoida - analiza  
 analyysi - analize  
 ananas - nanas  
-Andit - andes  
+Andit - Andes  
 Andorra - Andora  
 anglofiili - englofiler  
 Angola - Angola  
@@ -162,7 +162,7 @@ ateisti (jumalankieltäjä) - andewiste
 ateljee (studio) - estudia  
 Atlantin valtameri - Atlanti Hay  
 atomi - atom  
-atsii - achu\*  
+atsii - achu'  
 aueta (avautua) - kayu  
 aukaista (avata) - kaya  
 auki (avoin) - kayi  
@@ -263,7 +263,7 @@ demokraatti - demkratiste
 demokraattinen - demkrati  
 demokratia - demkratia  
 demoni (piru) - demon  
-desi - deci\*  
+desi - deci'  
 desibeli - decibel  
 Dione - Dione  
 Djiboutia - Jibuti  
@@ -297,7 +297,7 @@ ei mitään - nol shey
 eilen - chendeno  
 einsteinium - ainstainem  
 ekologia (ympäristötiede) - ekolojia  
-eksa- - eksa\*  
+eksa- - eksa'  
 eksonyymi - waynam  
 El Salvador - Salvador  
 ele - jeste  
@@ -380,7 +380,7 @@ etymologia - logaslia
 etäisyys (kaukaisuus) - tel  
 etäisyys (kaukaisuus) - telia  
 Euraasia - eurasia  
-euro (€) - euro\*  
+euro (€) - euro'  
 Euroopan unioni - europi unisia  
 Eurooppa - europe  
 eurooppalainen - europi  
@@ -452,7 +452,7 @@ Guernsey - Genzi
 Guinea - Konakri Ginia  
 Guinea-Bissau - Bisau Ginia  
 gujarati (eräs intialainen kieli) - gujarati  
-guru (opettaja) - guru\*  
+guru (opettaja) - guru'  
 Guyana - Gayana  
 ##h
 haarukka - forke  
@@ -504,7 +504,7 @@ Havaiji - Hawayi
 Havaijin saaret - Hawayi nesia  
 he - lole  
 hedelmä - pal  
-hei (haloo) - halo\*  
+hei (haloo) - halo'  
 heijastaa (peilata) - mira  
 heikko - debili  
 heimo - tribe  
@@ -616,6 +616,7 @@ hyvä (eettisesti hyvä) - evi
 hyvä (tervehdyksissä) - salam (salami)  
 hyvä - bon (boni)  
 hyvä onni (tuuri, säkä, lykky) - bon zar  
+hyväksyntä - okey  
 hyväksyä - okeya  
 hyvännäköinen - rupoboni  
 Hyvää iltaa - salam sham  
@@ -625,15 +626,17 @@ hyvää ruokahalua! - salam yam
 hyytelö - jel  
 hyödyllinen - faidi  
 hyödyllisyys - faidia  
-hyökkäys (aggressio) - agres  
-hyökkäävä (aggressiivinen) - agresi  
+hyökkäys (päällekarkaus, aggressio) - agres  
+hyökkääjä - agreser  
+hyökkäävä (aggressiivinen) - agresivi  
+hyökätä (käydä päälle) - agresa  
 hyönteinen (ötökkä) - konchung  
 hyöty (etu) - faide  
 hyötyaines - faidomate  
 häh? - he  
-häkki - kafas  
+häkki - batonkapse  
 hämmästys (ihmetys) - ajabia  
-hämähäkinverkko - aranonete  
+hämähäkinverkko - arannete  
 hämähäkki - aran  
 hän (se) - le  
 häntä - dum  
@@ -666,7 +669,7 @@ ilmapallo - balon
 ilmapuntari (ilmanpainemittari, barometri) - airbarmetrer  
 ilmasto - klim  
 ilmastonmuutos - klimomute  
-ilmastotiede (klimatologia) - klimlojia  
+ilmastotiede (klimatologia) - klimolojia  
 ilmavoimat - airgun  
 ilmiasu (ulkonäkö) - rupe  
 iloinen (tyytyväinen) - suki  
@@ -810,7 +813,7 @@ jäte (hylkytavara) - lash
 jättää (hylätä) - lasha  
 jää - ais  
 jäädä jäljelle - restu  
-jääkiekko - aishoke  
+jääkiekko - aisohoke  
 Jäämeri - Artiki Hay  
 jäännös (loput) - reste  
 jäätelö - aiskrem  
@@ -829,9 +832,9 @@ kadmium - kadem
 kahdeksan (8) - bali  
 kahdesti (kaksi kertaa) - duli ban  
 kahista - shashu  
-kahvi - kafe\*  
-kahvikuppi - kafkope  
-kahvila - kafeshope  
+kahvi - kafe'  
+kahvikuppi - kafekupe  
+kahvila - kafekan  
 kaide (reelinki) - langan  
 kaikki - pan (pani)  
 kaiku - mirsonde  
@@ -872,7 +875,7 @@ kandela - kandel
 kannabis (marihuana, hamppu) - ganje  
 kannada (eräs intialainen kieli) - karnadi  
 kannu (karahvi) - jar  
-kanootti - kanoe\*  
+kanootti - kanoe'  
 kansa - nas  
 kansainvälinen - nasmedi  
 kansakunta - nasia  
@@ -959,6 +962,7 @@ kerta (vuoro) - mar
 kertoa - saga  
 kertomus (tarina, saaga) - sage  
 kerubi - kerube  
+keräilykortti -   
 keskeyttää (tauottaa) - pauza  
 Keski-Afrikan Tasavalta - Jungi Afrika  
 keskittyminen (keskittymä) - fokus  
@@ -1010,7 +1014,7 @@ kiireinen - bizi
 kiitos - danke  
 kiittää - danka  
 kiivetä - eskala  
-kiivi - kiwi\*  
+kiivi - kiwi'  
 kikherne - humus  
 kilistää (soittaa kelloa) - danga  
 kilogramma - kilogram  
@@ -1028,7 +1032,7 @@ Kirgistan (Kirgisia) - Kirgizia
 Kiribati - Kiribati  
 kirja - buke  
 kirjain - harfe  
-kirjasto - kitabia  
+kirjasto - kitabokan  
 kirjoittaa - kitaba  
 kirjoitus (teksti) - kitabe  
 kirjoituskone - kitabomashin  
@@ -1070,12 +1074,12 @@ kommunismi - konchanistia
 kommunisti - konchaniste  
 Komorit - Komoro nesia  
 kone - mashin  
-kongolainen - kongoli  
-konkani (eräs intialainen kieli) - konkani  
+konkani (eräs intialainen kieli) - Konkani  
 konsertti - koncerte  
 konsonantti - kenarfon  
 kontaktikieli (pidgin) - pijin  
 kontiainen (maamyyrä) - krote  
+kontti - kontener  
 koodata - koda  
 koodi - kode  
 kooka - koke  
@@ -1084,9 +1088,9 @@ Kookossaaret - Kokos nesia
 koominen (hauska) - yumori  
 koota (kerätä) - jama  
 kopernikium - kopernikem  
-kopio - kopiye  
-kopioida - kopiya  
-kopiointioikeus (tekijänoikeus) - kopiyhake  
+kopio (jäljennös) - kope  
+kopioida (jäljentää) - kopa  
+kopiointioikeus (tekijänoikeus) - kopohake  
 koppi (maja) - kabin  
 koraani - kuran  
 Korea - Chosen  
@@ -1173,7 +1177,6 @@ kupari - kupre
 kupla - lilbol  
 kupoli (holvikatto) - kupe  
 kuponki - kupon  
-kuppi (muki) - kope  
 kurainen (mutainen) - poti  
 kurja (raukka) - miskini  
 kurkku - pepin  
@@ -1212,10 +1215,10 @@ Kypros - Kipris
 kypsä (aikuinen) - maturi  
 kypärä - helme  
 kyrilliset aakkoset - kirili abace  
-kyselylomake - wendodokum  
-kysymys - wende  
-kysyvä - wendan  
-kysyä - wenda  
+kyselylomake - sualdokum  
+kysymys - sual  
+kysyvä - sualan  
+kysyä - suala  
 kyynel - kansuy  
 kärppä (fretti) - furete  
 kärpänen - zeze  
@@ -1247,6 +1250,7 @@ köynnös - eskaltan
 ##l
 laadukas (hyvä) - bonsifi  
 laakso - vade  
+laatikko - kapse  
 laatikko - sanduke  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsif  
 laatu (ominaisuus, ominaispiirre, määrite) - sif  
@@ -1342,6 +1346,7 @@ likainen (mutainen) - darti
 lilja - susan  
 linja-auto (bussi) - bus  
 linna (linnake, linnoitus) - burge  
+linssi - lense  
 lintu - pakse  
 lippu (piletti) - tikete  
 lippu - bander  
@@ -1351,7 +1356,7 @@ litium - litem
 litra - litre  
 litteä - plati  
 litteän maapallon kannattaja - platozemiste  
-litši - lichi\*  
+litši - lichi'  
 liukua (luistaa) - glisu  
 livermorium - livermorem  
 logiikka - logike  
@@ -1379,7 +1384,7 @@ luokka (kategoria) - klas
 luokkahuone - darsokamar  
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
-luolaseikkailu - aventur da donjon  
+luolaseikkailu - donjon aventur  
 luonto - ekia  
 lupaus (vala) - vode  
 lusikka - chamache  
@@ -1471,6 +1476,7 @@ Malawi - Malawi
 Malediivit - Divehia  
 Malesia - Malaisia  
 Mali - Mali  
+malja (kuppi, muki, lasi) - kupe  
 malli - model  
 mallintaa - modela  
 Malta - Malta  
@@ -1555,9 +1561,9 @@ mikä tahansa - eni
 mikä? (kumpi?) - ki  
 mikä? (mitä?) - ke  
 mikä? (mitä?) - ki shey  
-miljardi (giga-) - giga\*  
-miljoona (mega-) - mega\*  
-miljoona (mega-) - yota\*  
+miljardi (giga-) - giga'  
+miljoona (mega-) - mega'  
+miljoona (mega-) - yota'  
 millainen? - ki yangi  
 milli- - milo-  
 milligramma - milgram  
@@ -1591,6 +1597,7 @@ monikulmio (polygoni) - polgon
 monimerkityksinen - polmeni  
 monismi - monistia  
 monitahokas - polfas  
+monokkeli - monoki lense  
 monoteismi (yksijumalisuus) - undewistia  
 montako? (paljonko?) - ko multo  
 Montenegro - Chernogora  
@@ -1799,7 +1806,7 @@ onneksi olkoon! - barke!
 onnitella (siunata) - barka  
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gida  
-opettaja - darsoguru\*  
+opettaja - darsoguru'  
 oppi (opetus) - darse  
 oppia (opiskella) - darsa  
 oppilas - darser  
@@ -1817,7 +1824,7 @@ osallistua (tehdä osansa) - fendona
 osallistua - parta  
 osallistuja - parter  
 osapuoli - partia  
-Oseania - oseania  
+Oseania - Oceania  
 osittainen (diskreetti) - feni  
 osmani (ottomaani) - osman  
 Osmanien valtakunta - osmania  
@@ -1849,11 +1856,13 @@ painava - bari
 paino - bar  
 paino - baria  
 painos (leima) - chape  
-painotus (aksentti) - aksente  
+painotus (aksentti) - acente  
 paita - kamis  
 paitsi (miinus) - mina  
 paitsi (poislukien) - chula  
 paja (kauppa, tekimö) - eria  
+paja (tekimö) - kan  
+paja (työpaja) - karokan  
 pakana - kafir  
 pakata - paka  
 Pakistan - pakistan  
@@ -1902,8 +1911,8 @@ pannu (paistinpannu) - tave
 pantheon - pandewia  
 papaija - papay  
 paperi - kaguje  
-pappi - dinguru\*  
-paprika - chili\*  
+pappi - dinguru'  
+paprika - chili'  
 paprikajauhe - chilifun  
 papu tai herne - dow  
 Papua Uusi-Guinea - Papua Novi Ginia  
@@ -1956,9 +1965,9 @@ perustuslaki - bazokanun
 peräaukko (anus) - anus  
 pestä - washa  
 pesukone - washmashin  
-peta- - peta\*  
+peta- - peta'  
 pian - suno  
-piano - piano\*  
+piano - piano'  
 pidentää - longa  
 pieni (pienesti, vähän) - lil (lili)  
 pierrä (pieraista) - peda  
@@ -2007,6 +2016,7 @@ pitää (pitää hallussa) - tena
 pitää (tykätä) - suku  
 pitää jonakin - konsida  
 pitää vaatetta yllään - fuki  
+pitää yhdessä - kontena  
 planeetta - planete  
 platina - platinum  
 Platon - platon  
@@ -2025,7 +2035,7 @@ Pohjois-Kypros - Nordi Kipris
 pohtia (meditoida) - medita  
 poika (nuori mies) - jovani man  
 poika - mani pute  
-poistaa (hävittää) - anzayisa  
+poistaa (hävittää) - anzaya  
 poistaa - waya  
 poistaa toiminnasta - anativa  
 poistaa virheitä (debugata) - angalta  
@@ -2161,14 +2171,14 @@ radon - radon
 raha - pes  
 rahka - panir  
 raja - limite  
-rakas (armas) - ami  
-rakas (kulta) - amike  
-rakastaa (pitää, tykätä) - ama  
+rakas (armas) - lovi  
+rakastaa (pitää, tykätä) - lova  
 rakastaa romanttisesti - romansa  
+rakastaja - lover  
 rakennus (rakenne) - bin  
 rakentaa - bina  
 raketti - rokete  
-rakkaus (tykkääminen) - am  
+rakkaus (tykkääminen) - love  
 ramadan - ramazan  
 Ranska - Francia  
 ranskaa puhuva (frankofoni) - francofoni  
@@ -2329,7 +2339,7 @@ Saturnus - Saturne
 satuttaa - pasha  
 Saudi Arabia - Saudi Arabia  
 sauma (ommel) - sutur  
-sauna - sauna\*  
+sauna - sauna'  
 savi - glutopote  
 savityö (keramiikka) - ceram  
 savu - duman  
@@ -2360,13 +2370,13 @@ selvä (selkeä) - klari
 sementti - cemente  
 Senegal - Senegal  
 sensori (aistin) - senser  
-sentti - centi\*  
+sentti - centi'  
 senttimetri (cm) - centimitre  
 seppä - metaljanger  
 Serbia - Serbia  
 seura - socia  
 seuraava - badi  
-seurata (tulla perässä, tulla jäljessä) - bada  
+seurata (tulla perässä, tulla jäljessä) - badu  
 seuraus - bade  
 seurustella (toimia yhdessä) - soca  
 seutu (maa) - istan  
@@ -2395,9 +2405,10 @@ siksakki - zigzage
 sileä - lisi  
 silkki - silke  
 silmukkapanssari (rengashaarniska) - silnete  
-silmä - kan  
-silmäillä (katsoa) - kana  
-silmäripsi - kankesh  
+silmä - oke  
+silmä- - oki  
+silmäillä (katsoa) - oka  
+silmäripsi - okokesh  
 silta - pul  
 simpanssi - chimpanze  
 sinetti - mumchape  
@@ -2432,7 +2443,7 @@ Slovakia - Slovakia
 Slovenia - Slovenia  
 smaragdi - zumurude  
 sohva - kanape  
-sohva - sofa\*  
+sohva - sofa'  
 soihtu - fotobaton  
 soittaa (musisoida) - musika  
 soittokello - danger  
@@ -2506,7 +2517,7 @@ Surinam - Suriname
 surra (murehtia) - duku  
 suru (murhe) - duke  
 surullinen - duki  
-sushi - sushi\*  
+sushi - sushi'  
 susi (hukka) - wolfe  
 suu - boke  
 suukko (pusu) - chum  
@@ -2626,7 +2637,7 @@ tasainen (tasavertainen) - pari
 tasavalta - komunkratia  
 tasku - jebe  
 taso - par  
-tatuointi - tatu\*  
+tatuointi - tatu'  
 tauko (keskeytys, paussi) - pauze  
 taulukko - table  
 taulukoida - tabla  
@@ -2635,8 +2646,8 @@ tavanomainen (perinteinen) - riti
 tavata - mita  
 te - tote  
 tee - chay  
-teehuone (kahvila) - chayeria  
-teekuppi - chaykope  
+teehuone (kahvila) - chaykan  
+teekuppi - chaykupe  
 teettää - isa  
 tehdas - fateria  
 tehdä (valmistaa) - chana  
@@ -2660,12 +2671,12 @@ tekstin muotoilu - kitaborupe
 televisio - telvide  
 teltta - hemahe  
 telugu (eräs intialainen kieli) - telugi  
-temppeli - mandir  
+temppeli - pujokan  
 tennis - tenis  
 teokratia - dewkratia  
 teologia - dewlojia  
 teoria - teoria  
-tera- - tera\*  
+tera- - tera'  
 terrorismi - teroristia  
 terroristi - teroriste  
 terve - sihi  
@@ -2674,6 +2685,9 @@ tervehtiä - salama
 tervetuloa! - salam lay  
 terveys - sihe  
 tesla (T) - tesle  
+teurastaa (lahdata) - bucha  
+teurastaja - bucher  
+teurastamo - buchokan  
 thai - tayi  
 Thaimaa - tayia  
 tie - daw  
@@ -2733,8 +2747,8 @@ trendi - fashon
 Trinidad ja Tobago - Trinidade e Tobago  
 trooppinen - garmozoni  
 tropiikki - garmozon  
-tsetta- - zeta\*  
-tuhat (kilo-) - kilo\*  
+tsetta- - zeta'  
+tuhat (kilo-) - kilo'  
 tuhka - huy  
 tulehdus - itis  
 tuleva - wilo  
@@ -2812,7 +2826,7 @@ tähti - shing
 tämä (nämä) - yi  
 tämä - ye  
 tämä hetki (nyt) - zay  
-tänään - zayden  
+tänään - zaydeno  
 täplä (läiskä) - binde  
 tärkeä - hami  
 täydellinen (täysin hyvä) - purboni  
@@ -2880,7 +2894,7 @@ vahingoittaa (vaurioittaa) - damaja
 vahingollinen - damajani  
 vahvistaa (voimistaa) - forta  
 vaihe (etappi) - faze  
-vaihtaa - badala  
+vaihtaa - badla  
 vaihtoehto - chuzable  
 vaikea - kunani  
 vaikeus (hankaluus) - kunan  
@@ -3029,7 +3043,7 @@ virkailija (virkamies) - oficer
 Viro (Eesti) - Estia  
 virologia - viruslojia  
 virrata - liwu  
-virtahepo - gubu\*  
+virtahepo - gubu'  
 virtsa (pissa, kusi) - pish  
 virtsata (kusta) - pisha  
 virus - virus  
@@ -3148,8 +3162,8 @@ zarathustralaisuus - zardushistia
 zikkurat - zikur  
 Zimbabwe - Zimbabwe  
 zirkonium - zirkonem  
-zombi - zombi\*  
-zulu - zuli  
+zombi - zombe  
+zulu - Zulu  
 äidinkieli - jeni bash  
 äiti (emä) - mam  
 ällistyttää - ajaba  

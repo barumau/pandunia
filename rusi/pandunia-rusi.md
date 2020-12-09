@@ -2,20 +2,23 @@
 ##a
 abite - пихта  
 abli - возможный  
+acente - ударение  
 achua - чихать  
 adali - справедливый  
 adalia - справедливость  
+ade - обычай (привычка)  
 adres - адрес  
 aga - если  
-agres - нападение (атака)  
+agres - нападение (атака, агрессия)  
+agreser - агрессор  
+air - воздух  
 airgun - военно-воздушные силы  
 airporte - аэропорт  
-aishoke - хокке́й с ша́йбой  
 aiskrem - мороженое  
+aisohoke - хокке́й с ша́йбой  
 ajili - подвижный  
 akar - клещ (лепта)  
 akse - ось  
-aksente - ударение  
 akses - доступ  
 aksesabli - доступный  
 ala - изменять  
@@ -27,11 +30,9 @@ alkal - щёлочь
 alkol - алкоголь  
 almar - шкаф  
 almas - алмаз (бриллиант)  
-ama - любить  
 amari - горький  
 amarmelon - горький огурец (китайская горькая тыква)  
 amaroranje - померанец  
-amike - возлюбленный (любимый)  
 analiza - анализировать  
 analize - анализ  
 andesite - андезит  
@@ -117,6 +118,8 @@ bash - язык
 bashi jinse - род в грамматике  
 basi - достаточно (довольно)  
 baskobol - баскетбол  
+baton - штанга  
+batonkapse - клетка  
 batre - батарея  
 baw - сокровище (казна)  
 bawi - драгоценный  
@@ -157,6 +160,8 @@ bravo - браво
 brunalge - бурые водоросли  
 bruni - коричневый  
 brunsamon - кумжа  
+bucher - мясник  
+buchokan - бойня  
 Bude - Будда  
 bufete - буфет  
 buke - книга  
@@ -176,13 +181,14 @@ chantergrupe - хор
 chari - четыре (4)  
 charme - шарм  
 chay - чай  
-chaykope - чайная чашка  
+chaykan - чайная (чайхана)  
+chaykupe - чайная чашка  
 chenamen - судьба  
 chendeno - вчера  
 cheno - раньше  
 cherize - черешня  
 cherni - чёрный  
-chili\* - перец (паприка)  
+chili' - перец (паприка)  
 chini - хань  
 chir - рвать  
 chira - рвать  
@@ -332,7 +338,7 @@ guypapil - мак восточный
 habar - новости  
 haha - смеяться  
 hal - состояние (статус)  
-halo\* - алло  
+halo' - алло  
 hami - важный (значимый)  
 hamili - беременный  
 hande - рука  
@@ -412,8 +418,8 @@ justopawer - снайпер
 ##k
 kababi manse - кебаб  
 kaboge - тыква  
-kafas - клетка  
-kafe\* - кофе  
+kafe' - кофе  
+kafekan - кафе (кофейня)  
 kaguje - бумага  
 kagujolimon - лайм  
 kalam - ручка  
@@ -434,7 +440,7 @@ kanchodake - глазурь
 kangaru - кенгуру  
 kanion - овраг (ущелье, каньон)  
 kanjar - кинжал  
-kanoe\* - каноэ  
+kanoe' - каноэ  
 kansuygas - слезоточи́вый газ  
 Kantalupo da Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
@@ -468,11 +474,11 @@ kingraf - фильм (кино)
 kinu - двигаться  
 kitaba - писать  
 kitabe - письмо  
-kitabia - библиотека  
+kitabokan - библиотека  
 kitabomashin - пишущая машинка  
 kitabominister - библиотекарь  
 kitu - идти  
-kiwi\* - киви  
+kiwi' - киви  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimomute - изменение климата  
@@ -484,8 +490,9 @@ koncerte - концерт
 konchung - насекомое  
 konga - пробиться  
 konkara - сотрудничать (кооперировать)  
+kontener - контейнер  
 kontrate - контракт  
-kope - чаша (чашка, стакан)  
+kope - копия  
 kora - бегать (бежать)  
 koral - коралл  
 korde - нитка  
@@ -510,6 +517,7 @@ krusarke - самострел
 kuangia - мина  
 kuarce - кварц  
 kube - куб  
+kupe - чаша (чашка, стакан)  
 kusha - положить  (уложить)  
 kushu - лежать  
 ##l
@@ -518,7 +526,7 @@ lali - красный
 lalolince - рыжая рысь  
 laloranje - мандарин  
 lalsamon - нерка (красница)  
-lama\* - лама (религиозный учитель в тибетском буддизме)  
+lama' - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
 lan - проклятие  
 lancovute - снаряд  
@@ -531,9 +539,10 @@ laya - приносить
 layu - приходить  
 lazanye - лазанья  
 lazuar - лазурит  
+lense - линза  
 lete - лето  
 letis - салат-латук  
-liama\* - лама  
+liama' - лама  
 libel - стрекоза  
 libobanze - полка  
 lider - руководитель (лидер)  
@@ -560,6 +569,8 @@ longoduri - долгий (длительный)
 longoduro - долго  
 longopipre - перец длинный  
 lontre - выдра  
+lova - любить  
+lover - любовник  
 lugi - зелёный  
 lun - луна  
 luter - грабитель  
@@ -634,6 +645,7 @@ mome - мы
 moni - единственный  
 monloge - монолог  
 mono - только  
+monoki lense - монокль  
 mos - мох  
 mosi - мшистый  
 mosim - время года (сезон)  
@@ -677,6 +689,8 @@ novi - новый
 novike - новичок  
 o - или  
 ##o
+oke - глаз (око)  
+oki - глазной  
 okside - окись (оксид)  
 oranje - апельсин  
 oranji - оранжевый  
@@ -749,8 +763,9 @@ problemi - проблематичный
 program - программа  
 projete - проект  
 pudu - гнить (портиться)  
+pujokan - храм (место богослужения)  
 pujomeze - алтарь  
-puma\* - пума (кугуар)  
+puma' - пума (кугуар)  
 puntonombre - оценка  
 pura - заполнять  
 puri - полный  
@@ -855,7 +870,7 @@ sisi - шесть (6)
 slavi - славянский  
 soci jinse - гендер  
 socia - общество (социум)  
-sofa\* - софа (диван, канапе)  
+sofa' - софа (диван, канапе)  
 soke - носок  
 sol - солнце  
 solchate - зонтик от солнца  
@@ -868,6 +883,8 @@ sor - замок
 sori - запереть  
 sos - соус  
 sosis - колбаса (сосиска)  
+sual - вопрос  
+sualdokum - анкета  
 suki - счастливый (радостный)  
 sundardaka - украсить  
 sundardake - украшение  
@@ -887,7 +904,7 @@ taltesh - ковёр
 tan - стебель  
 tarje - перевод  
 tas - блюдо (таз)  
-tatu\* - татуировка (тату)  
+tatu' - татуировка (тату)  
 tazi - свежий  
 te - ты  
 tehne - техника  
@@ -968,13 +985,12 @@ washurse - енот
 waw - вау!  
 wayoyam - пикник  
 waytira - вытянуть  
-wende - вопрос  
-wendodokum - анкета  
 wenjoworanje - мандарин уншиу  
 westogoril - западная горилла  
 ##x
 ##y
 yamnide - голод  
+yatimdom - детский дом  
 yemenia - Йемен  
 yesho - ещё  
 Yesu - Иисус  
@@ -1007,5 +1023,5 @@ zongominte - мята колоси́стая
 zuke - этнос  
 zuki - этнический  
 zukomedi - межэтнический  
-zuli - зулус  
+Zulu - зулус  
 zumurude - изумруд  

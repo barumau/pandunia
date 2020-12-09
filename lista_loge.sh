@@ -1,6 +1,6 @@
 fata_liste_x_pandunia() {
     #pandunia unordi
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$1); print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unordi linye
     sed -i '1d' $2/pandunia-$2.md
     # alfebete
@@ -14,7 +14,7 @@ fata_liste_x_pandunia() {
 
 fata_liste_pandunia_x() {
     #ali bax unordi
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$1); print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$2 \"  \"}" > $2/$2-pandunia.md
     #morta unordi linye
     sed -i '1d' $2/$2-pandunia.md
     # alfobeta
@@ -28,7 +28,7 @@ fata_liste_pandunia_x() {
 
 fata_leksasli_liste() {
 #    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
     #morta unordi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
@@ -51,7 +51,7 @@ fata_liste() {
 }
 
 fata_lekse_asle() {
-    cat pandunia-loge.tsv | cut -f 1,4 > temp/lekse.txt
+    cat pandunia-loge.tsv | cut -f 2,5 > temp/lekse.txt
     sed -i '1d' temp/lekse.txt
     sed -i 's/\t/ ← /g' temp/lekse.txt
     awk ' { FS=" ← "; OFS=" ← "; t = $1; $1 = $2; $2 = t; print; } ' temp/lekse.txt > temp/temp.txt
@@ -229,8 +229,8 @@ tarja_leksaslia_pa_esperanti() {
 #dos2unix pandunia-loge.csv
 
 # engli e pandunia
-fata_liste 5 engli
-fata_leksasli_liste 5 engli
+fata_liste 6 engli
+fata_leksasli_liste 6 engli
 tarja_leksaslia_pa_angli
 
 #Tiddly dictionary
@@ -239,15 +239,15 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
 # esperanti e pandunia
-fata_liste 20 esperanti
+fata_liste 21 esperanti
 tarja_leksaslia_pa_esperanti
 
 # suomi e pandunia
-fata_liste 21 suomi
+fata_liste 22 suomi
 tarja_leksaslia_pa_suomi
 
 # polski e pandunia
-fata_liste 22 polski
+fata_liste 23 polski
 
 # Tiddly polski e pandunia
 cp polski/pandunia-polski.md temp/temp.txt
@@ -255,16 +255,16 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > polski/tiddly.html
 
 # cini e pandunia
-fata_liste 11 cini
+fata_liste 12 cini
 
 # rusi e pandunia
-fata_liste 9 rusi
+fata_liste 10 rusi
 
 # fransi e pandunia
-fata_liste 6 fransi
+fata_liste 7 fransi
 
 # espani e pandunia
-fata_liste 7 espani
+fata_liste 8 espani
 
 
 #fata_lekse_asle

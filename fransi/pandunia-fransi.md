@@ -1,4 +1,5 @@
 # pandunia-fransi
+ - carte à collectionner  
 -a - suffixe pour les verbes avec ordre des mots SVO  
 -e - suffixe pour dériver les noms  
 -i - suffixe pour l'adjectif  
@@ -11,11 +12,13 @@ abla - pouvoir (être capable)
 able - capacité (compétence)  
 abli - possible  
 ablo - peut-être  
+acente - accent  
+achu' - atchoum  
 achua - éternuer  
-achu\* - atchoum  
 acinem - actinium  
 adali - juste  
 adalia - justice  
+ade - coutume  
 adres - adresse  
 Afrike - Afrique  
 Afriki - africain  
@@ -23,17 +26,19 @@ afrikofiler - afrophile
 afrikofilia - afrophilie  
 aga - si  
 agres - agression (attaque)  
+agresa - attaquer (agresser)  
+agreser - agresseur  
 aha - comprendre (réaliser)  
 ainstainem - Einsteinium  
+air - air  
 airgun - armée de l'ai  
 airporte - aéroport  
-aishoke - hockey sur glace  
 aiskrem - crème glacée  
+aisohoke - hockey sur glace  
 aisu - geler (glacer)  
 ajili - agile  
 akar - acarien  
 akse - axe  
-aksente - accent  
 akses - accès  
 ala - changer  
 alfon - allophone  
@@ -50,22 +55,18 @@ almas - diamant
 alo - autrement  
 alseksi - hétérosexuel  
 aluminem - aluminium  
-am - amour (affection)  
-ama - aimer  
 amari - amer  
-amari - Amhara (groupe ethnique et langue éthiopienne)  
+Amari - Amhara (groupe ethnique et langue éthiopienne)  
 amaroranje - orange amère  
 ameno - sûrement  
-amerike - Amérique  
+Amerike - Amérique  
 ameriki - américain  
-ami - cher  
-amike - chéri (ami)  
 amper - ampère  
 ampul - ampoule (fiole)  
 analiza - analyser  
 analize - analyse  
 ande - oeuf  
-andes - Andes  
+Andes - Andes  
 andesite - andésite  
 andiniste - infidèle (incroyant)  
 Angola - Angola  
@@ -84,7 +85,7 @@ ar - aire (superficie)
 arabi - arabe  
 aran - araignée  
 aranfobia - arachnophobie  
-aranonete - toile d'araignée  
+arannete - toile d'araignée  
 arbuze - pastèque  
 argente - argent  
 Argentina - Argentine  
@@ -162,6 +163,8 @@ bash - langue
 bashi jinse - genre grammatical  
 basi - assez  
 baskobol - basketball  
+baton - bâton (canne, tige)  
+batonkapse - cage  
 batre - pile (batterie)  
 bawi - précieux  
 bawsheke - pierre précieuse (joyau)  
@@ -196,6 +199,9 @@ bravo - bravo!
 brunalge - algues brunes  
 bruni - brun (marron)  
 brunsamon - truite brune (truite de mer)  
+bucha - abattre  
+bucher - boucher  
+buchokan - abattoir  
 Bude - Bouddha  
 buke - livre  
 bum - explosion  
@@ -212,13 +218,13 @@ chantergrupe - chœur
 chari - quatre (4)  
 charme - charme  
 chay - thé  
-chaykope - tasse à thé  
+chaykupe - tasse à thé  
 chenamen - destin  
 chendeno - hier  
 cheno - avant  
 cherize - cerise  
 cherni - noir  
-chili\* - piment  
+chili' - piment  
 chir - déchirer  
 chira - déchirer  
 chize - fromage  
@@ -380,7 +386,7 @@ guypapil - pavot d'Orient
 haha - rire  
 hake - droit  
 hal - état  
-halo\* - allô  
+halo' - allô  
 hami - important  
 hande - main  
 handoshake - bras  
@@ -461,8 +467,8 @@ justi - exact (précis)
 ##k
 kaboge - citrouille  
 kade - morue  
-kafas - cage  
-kafe\* - café  
+kafe' - café  
+kafekan - café  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kalam - plume  
@@ -481,7 +487,7 @@ kanape - canapé (sofa)
 kanche - verre  
 kangaru - kangourou  
 kanion - canyon (ravin)  
-kanoe\* - canoë  
+kanoe' - canoë  
 kansuygas - gaz lacrymogène  
 Kantalupo da Sabina - Cantalupo in Sabina  
 kapotruke - piège  
@@ -519,11 +525,11 @@ Kinshasa - Kinshasa
 kinu - se mouvoir  
 kitaba - écrire  
 kitabe - écriture  
-kitabia - bibliothèque  
+kitabokan - bibliothèque  
 kitabomashin - machine à écrire  
 kiti - parti  
 kitu - aller (quitter)  
-kiwi\* - kiwi  
+kiwi' - kiwi  
 klari - clair  
 klien - client  
 klimomute - changement climatique  
@@ -534,9 +540,10 @@ koncerte - concert
 konchung - insecte  
 konfusi - perplexe (désorienté)  
 konkara - collaborer  
+kontener - conteneur  
 kontini - continu (analogique)  
 kontrate - convention (alliance, pacte)  
-kope - coupe (tasse, verre)  
+kope - copie  
 kora - courir  
 koral - corail  
 korde - fil  
@@ -560,6 +567,7 @@ krus - croix
 kuangia - mine  
 kuarce - quartz  
 kube - cube  
+kupe - coupe (tasse, verre)  
 kusha - coucher  
 kushloke - couch (couchette)  
 kushu - être couché  
@@ -569,7 +577,7 @@ lalbawsheke - rubis
 lali - rouge  
 laloranje - mandarine  
 lalsamon - saumon sockeye  
-lama\* - lama (enseignant religieux du bouddhisme tibétain)  
+lama' - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
 lan - malédiccion  
 lancograf - projection  
@@ -586,10 +594,11 @@ layu - venir
 lazanye - lasagne  
 lazuar - lapis-lazuli  
 legi - léger  
+lense - lentille  
 lenti - lent  
 lete - été  
 letis - laitue  
-liama\* - lama  
+liama' - lama  
 libel - libellule  
 libobanze - étagère  
 lider - dirigeant (leader)  
@@ -621,6 +630,10 @@ longoduro - longtemps
 longokrokodil - crocodile  
 longopipre - poivre long  
 lontre - loutre  
+lova - aimer  
+love - amour (affection)  
+lover - amoureux  
+lovi - cher  
 lugi - vert  
 lun - lune  
 luter - brigand (bandit)  
@@ -694,6 +707,7 @@ mome - nous
 moni - seul (unique)  
 monloge - monologue  
 mono - seulement  
+monoki lense - monocle  
 mos - mousse  
 mosi - moussu  
 mosim - saison  
@@ -737,6 +751,8 @@ novi - nouveau
 novike - néophyte  
 o - ou  
 ##o
+oke - œil  
+oki - oculaire  
 okside - oxyde  
 onde - onde  
 or - oreille  
@@ -817,9 +833,10 @@ program - programme
 projete - projet  
 pudi - pourri  
 pudu - pourrir (se décomposer)  
+pujokan - temple  
 pujomeze - autel  
 pul - pont  
-puma\* - couguar (puma)  
+puma' - couguar (puma)  
 pura - remplir  
 purbona - perfectionner (parfaire)  
 puri - plein  
@@ -930,7 +947,7 @@ sirkopurshipi hiyar - concombre confit (cornichon)
 sirplan - complot (conspiration)  
 sisi - six (6)  
 socia - société  
-sofa\* - canapé (sofa)  
+sofa' - canapé (sofa)  
 sol - soleil  
 solchate - ombrelle (parasol)  
 solful - Tournesol  
@@ -941,6 +958,8 @@ sonu - dormir
 sor - serrure  
 sos - sauce  
 sosis - saucisse  
+sual - question  
+suala - demander (poser un question)  
 suede - sueur  
 suki - heureux  
 sundari - beau  
@@ -1041,14 +1060,13 @@ washurse - raton laveur
 wayoyam - piquenique  
 waytira - tender  
 weki - éveillé  
-wenda - demander (poser un question)  
-wende - question  
 wenjoworanje - mandarine satsuma  
 wolfe - loup  
 Wolof - wolof  
 ##x
 ##y
 yamnide - faim  
+yatimdom - orphelinat  
 yesho - encore  
 Yesu - Jésus  
 yongopetre - lave  
@@ -1073,11 +1091,11 @@ zeze - mouche
 zim - hiver  
 zimi - hivernal (hibernal)  
 zinje - gingembre  
-zombi\* - zombi  
+zombe - zombi  
 zon - zone  
 zong - pieu (poteau)  
 zongominte - menthe verte  
 zuke - ethnie  
 zuki - ethnique  
-zuli - zoulou  
+Zulu - zoulou  
 zumurude - émeraude  

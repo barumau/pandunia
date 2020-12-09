@@ -3,23 +3,26 @@
 abite - 冷杉  
 abla - 会  
 abli - 可能  
+acente - 重音符号  
+achu' - 阿嚏  
 achua - 打喷嚏  
-achu\* - 阿嚏  
 adali - 公正地  
 adalia - 正义  
+ade - 习惯 (风俗)  
 adres - 地址  
 aga - 如果 (要是)  
 agres - 攻击  
+agreser - 侵略者  
+air - 空气  
 airgun - 空军  
 airporte - 飞机场  
 ais - 冰  
-aishoke - 冰球  
 aiskrem - 冰淇淋  
+aisohoke - 冰球  
 aisu - 结冰  
 ajili - 灵活的  
 akar - 蜱 (螨)  
 akse - 轴线  
-aksente - 重音符号  
 ala - 改變  
 alge - 藻类  
 algofung - 地衣  
@@ -30,11 +33,8 @@ alkol - 酒
 almar - 碗碟橱  
 almas - 钻石  
 alraya - 不同意  
-ama - 爱  
 amari - 苦的  
 amarmelon - 苦瓜  
-ami - 亲爱的  
-amike - 亲爱的  
 analiza - 分析  
 analize - 分析  
 andesite - 安山岩  
@@ -114,6 +114,7 @@ bashi jinse - 文法的性
 bashlojia - 语言学  
 basi - 够  
 baskobol - 篮球  
+batonkapse - 笼  
 batre - 电池  
 bawi - 宝贵  
 bawsheke - 宝石  
@@ -146,6 +147,8 @@ botoraite - 右舷
 boyu - 漂浮  
 bruni - 棕色 (色)  
 brunsamon - 褐鳟  
+bucher - 屠夫  
+buchokan - 屠宰场  
 Bude - 佛陀  
 bufete - 自助餐  
 buke - 书  
@@ -161,14 +164,15 @@ chamache - 匙子
 chantergrupe - 合唱团  
 chari - 四 (4)  
 chay - 茶  
-chaykope - 茶碗  
+chaykan - 茶馆  
+chaykupe - 茶碗  
 chenamen - 命運  
 chendeno - 昨日  
 cheng - 层  
 cheno - 以前  
 cherni - 黑色  
+chili' - 菜椒  
 chilifun - 辣椒粉  
-chili\* - 菜椒  
 chini - 汉族  
 chir - 撕裂  
 chira - 撕裂  
@@ -376,8 +380,8 @@ jus - 汁
 ##k
 kaboge - 南瓜  
 kade - 鱈  
-kafas - 笼  
-kafe\* - 咖啡  
+kafe' - 咖啡  
+kafekan - 咖啡馆  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kaisha - 开始  
@@ -393,6 +397,7 @@ kamar - 房间
 kamil - 母菊  
 kamis - 衬衫  
 kamisi shake - 袖子  
+kan - 店 (馆)  
 kanape - 沙发  
 kanche - 玻璃  
 kanchodake - 釉  
@@ -412,6 +417,7 @@ kardonkarchof - 刺苞菜蓟
 karer - 工人 (工作者)  
 karloge - 动词  
 karmisa - 提交  
+karokan - 工厂  
 karote - 红萝卜  
 karsi - 粗糙  
 karsolimon - 箭叶橙  
@@ -434,10 +440,10 @@ kina - 动
 kinu - 动  
 kita - 除去  
 kitaba - 写  
-kitabia - 图书馆  
+kitabokan - 图书馆  
 kitabomashin - 打字机  
 kitu - 去  
-kiwi\* - 奇异果  
+kiwi' - 奇异果  
 klien - 顾客  
 klimomute - 气候变化  
 ko - 比  
@@ -450,7 +456,7 @@ konkara - 合作
 kono - 共同 (一起)  
 kontini - 指针式的  
 kontrate - 公約  
-kope - 杯子  
+kope - 摹本 (拷貝)  
 kora - 跑步  
 koral - 珊瑚  
 korde - 线  
@@ -469,6 +475,7 @@ krusarke - 弩 (十字弓)
 kuangia - 矿场  
 kuarce - 石英  
 kube - 立方体  
+kupe - 杯子  
 kushu - 躺  
 ##l
 lage - 湖  
@@ -477,7 +484,7 @@ lali - 红
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
 lalsamon - 紅鮭  
-lama\* - 喇嘛  
+lama' - 喇嘛  
 lampe - 灯  
 lan - 诅咒  
 lancograf - 投影  
@@ -495,10 +502,11 @@ lazanye - 千层面
 lazuar - 青金岩  
 le - 他，她，它  
 lengi - 冷たい (寒い)  
+lense - 透镜  
 lenti - 慢  
 letis - 莴苣  
 leze - 梨  
-liama\* - 大羊駝  
+liama' - 大羊駝  
 libel - 蜻蜓  
 libobanze - 架子 (搁板)  
 libobaze - 架子  
@@ -524,6 +532,9 @@ longi - 长
 longoduro - 久  
 longopipre - 荜拔  
 lontre - 獭  
+lova - 爱  
+lover - 恋人 (情人, 爱人)  
+lovi - 亲爱的  
 lugi - 绿色  
 lung - 龙  
 luta - 掠夺  
@@ -560,7 +571,7 @@ me - 我
 meche - 比赛  
 medi - 中型  
 medikosuy - 药水  
-mega\* - 百万 (兆)  
+mega' - 百万 (兆)  
 mege - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
 melvesposanduke - 蜂箱  
@@ -632,6 +643,7 @@ novi - 新
 novike - 新手  
 o - 或  
 ##o
+oke - 眼睛  
 okside - 氧化物  
 onde - 波浪  
 or - 耳  
@@ -695,9 +707,10 @@ problem - 问题 (难题)
 program - 计划  
 puding - 布丁  
 pudu - 腐烂  
+pujokan - 寺庙  
 pujomeze - 圣坛  
 pul - 桥  
-puma\* - 美洲獅 (山狮)  
+puma' - 美洲獅 (山狮)  
 purshipa - 浸泡  
 putawlimon - 葡萄柚  
 putongi - 普通  
@@ -795,7 +808,7 @@ sirplan - 阴谋 (密谋)
 sisi - 六 (6)  
 soci jinse - 社會性別  
 socia - 社会  
-sofa\* - 沙发  
+sofa' - 沙发  
 sol - 太阳  
 solful - 向日葵  
 solsistem - 太阳系  
@@ -805,6 +818,8 @@ sonpapil - 鴉片罌粟
 sonu - 睡觉 (困觉)  
 sor - 锁  
 sosis - 香肠  
+sual - 问题  
+suala - 问  
 suki - 高兴  
 sundardake - 装饰  
 sundari - 漂亮 (美)  
@@ -890,14 +905,13 @@ wanu - 玩耍
 washurse - 浣熊  
 wayoyam - 野餐  
 waytira - 拉  
-wenda - 问  
-wende - 问题  
 Wenjou - 温州  
 wenjoworanje - 温州蜜柑  
 wijin - 味精  
 ##x
 ##y
 yamnide - 饥饿  
+yatimdom - 孤儿院  
 yesho - 还 (依然)  
 yoge - 瑜伽功  
 yongopetre - 熔岩  

@@ -1,10 +1,12 @@
 # fransi-pandunia
 ##a
+abattoir - buchokan  
+abattre - bucha  
 abeille ou guêpe - vespe  
 abricot - barkoke  
 acacia faux-gommier - helisbabul  
 acarien - akar  
-accent - aksente  
+accent - acente  
 accord - samrayia  
 accès - akses  
 acheter - shopa  
@@ -25,9 +27,11 @@ afrophilie - afrikofilia
 agent (faiseur) - ater  
 agent pathogène - patojener  
 agile - ajili  
+agresseur - agreser  
 agression (attaque) - agres  
 ail - lasun  
-aimer - ama  
+aimer - lova  
+air - air  
 aire (superficie) - ar  
 alcool - alkol  
 alcoolique - alkoli  
@@ -38,22 +42,23 @@ aller (quitter) - kitu
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alfon  
-allô - halo\*  
+allô - halo'  
 alphabet - harfia  
 aluminium - aluminem  
 amande - badam  
 amer - amari  
-Amhara (groupe ethnique et langue éthiopienne) - amari  
-amour (affection) - am  
+Amhara (groupe ethnique et langue éthiopienne) - Amari  
+amour (affection) - love  
+amoureux - lover  
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - ameriki  
 amérindien (indien) - aslameriki  
-Amérique - amerike  
+Amérique - Amerike  
 analyse - analize  
 analyser - analiza  
 ancre - anker  
-Andes - andes  
+Andes - Andes  
 andésite - andesite  
 anglophone - englofoni  
 Angola - Angola  
@@ -94,8 +99,9 @@ Asie - asia
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
-atchoum - achu\*  
+atchoum - achu'  
 Athènes - Athina  
+attaquer (agresser) - agresa  
 autel - pujomeze  
 automne - oton  
 autre - ali  
@@ -143,7 +149,7 @@ beauté - sundaria
 besoin - nide  
 betterave - bete  
 betterave à sucre (betterave sucrière) - shukarbete  
-bibliothèque - kitabia  
+bibliothèque - kitabokan  
 bicyclette - cikle  
 bilingue - dulbashi  
 billet - tikete  
@@ -160,6 +166,7 @@ bon - bon (boni)
 bord (rive) - tate  
 botanique - fitolojia  
 botte - bute  
+boucher - bucher  
 bouclire - defbanze  
 Bouddha - Bude  
 boue (fange, bourbe, gadoue) - pote  
@@ -177,14 +184,16 @@ brun (marron) - bruni
 brûler - hoga  
 buisson - tali moke  
 but (destination) - gol  
+bâton (canne, tige) - baton  
 bébé - bebe  
 bûche - mokotan  
 ##c
 cacher - sira  
 cactus - katus  
 cadre - frem  
-café - kafe\*  
-cage - kafas  
+café - kafe'  
+café - kafekan  
+cage - batonkapse  
 caillou - lilsheke  
 calcaire - kalcopetre  
 calcite - kalcite  
@@ -195,10 +204,10 @@ calme (tranquille) - shanti
 Camomille Romaine - romkamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
-canapé (sofa) - sofa\*  
+canapé (sofa) - sofa'  
 Canne à sucre - shukargras  
 canon - daypaw  
-canoë - kanoe\*  
+canoë - kanoe'  
 Cantalupo in Sabina - Kantalupo da Sabina  
 canyon (ravin) - kanion  
 capacité (compétence) - able  
@@ -210,6 +219,7 @@ carotte - karote
 carreau (tuile) - tail  
 carte - karde  
 carte - zemgraf  
+carte à collectionner -   
 cartographie (geographie) - zemgrafia  
 Centaurée - centaur  
 Centaurée bleuet - nilcentaur  
@@ -237,7 +247,7 @@ chauve-souris - feymush
 chaux - kalcomate  
 chef - shef  
 chemise - kamis  
-cher - ami  
+cher - lovi  
 chimie - kimlojia  
 Chine - Jungogia  
 chocolat - chokolate  
@@ -245,7 +255,6 @@ chose - shey
 chronique - duriki  
 chronomètre - durmetrer  
 chu - paduti  
-chéri (ami) - amike  
 chêne - balute  
 chêne pédonculé - europobalute  
 chœur - chantergrupe  
@@ -278,9 +287,11 @@ concombre - hiyar
 concombre confit (cornichon) - sirkopurshipi hiyar  
 concombre de mer - hayhiyar  
 construire - bina  
+conteneur - kontener  
 continu (analogique) - kontini  
 contract (traité) - trate  
 convention (alliance, pacte) - kontrate  
+copie - kope  
 coquelicot - maidanpapil  
 corail - koral  
 corne - korne  
@@ -291,13 +302,14 @@ cosmos - kosmia
 coton - goton  
 couch (couchette) - kushloke  
 coucher - kusha  
-couguar (puma) - puma\*  
+couguar (puma) - puma'  
 couleur - rang  
-coupe (tasse, verre) - kope  
+coupe (tasse, verre) - kupe  
 coureur - korer  
 courgette - lilkaboge  
 courir - kora  
 couronne - koron  
+coutume - ade  
 couvrir - daka  
 crabe - krabe  
 creuser - kava  
@@ -329,7 +341,7 @@ danger - hatre
 dans le sens antihoraire - fansoldisho  
 dauphin - dolfin  
 de - cha  
-demander (poser un question) - wenda  
+demander (poser un question) - suala  
 dessous - niche  
 destin - chenamen  
 deux (2) - duli  
@@ -470,7 +482,7 @@ hier - chendeno
 hiver - zim  
 hivernal (hibernal) - zimi  
 hockey - hoke  
-hockey sur glace - aishoke  
+hockey sur glace - aisohoke  
 horloge - horloger  
 houe - sape  
 hourra - ura  
@@ -510,7 +522,7 @@ Jésus - Yesu
 kangourou - kangaru  
 Khartoum - Khartum  
 Kinshasa - Kinshasa  
-kiwi - kiwi\*  
+kiwi - kiwi'  
 kumquat - auroranje  
 ##l
 lac - lage  
@@ -518,8 +530,8 @@ laine - mehi kesh
 laisser - lasha  
 lait - milke  
 laitue - letis  
-lama (enseignant religieux du bouddhisme tibétain) - lama\*  
-lama - liama\*  
+lama (enseignant religieux du bouddhisme tibétain) - lama'  
+lama - liama'  
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bash  
@@ -531,6 +543,7 @@ lasagne - lazanye
 latéral - lati  
 lave - yongopetre  
 lent - lenti  
+lentille - lense  
 Lettonie - Latvia  
 lexical - logi  
 libellule - libel  
@@ -609,6 +622,7 @@ mois - mes
 mole (unité) - mol  
 monde - dunia  
 monnaie (pièce) - pesdiske  
+monocle - monoki lense  
 monologue - monloge  
 morue - kade  
 morue de l'Atlantique - atlantokade  
@@ -664,6 +678,7 @@ objet (article) - vute
 oblique (de travers) - terchi  
 obsidienne - osidian  
 ocelot - oselote  
+oculaire - oki  
 océan - dayhay  
 odeur - arom  
 oeuf - ande  
@@ -685,6 +700,7 @@ oreille - or
 organisme - biw  
 origine - asle  
 originel - asli  
+orphelinat - yatimdom  
 orthogonal - ortogoni  
 otite - oritis  
 ou - o  
@@ -743,7 +759,7 @@ pierre précieuse (joyau) - bawsheke
 pierre tombale - gabrosheke  
 pieu (poteau) - zong  
 pile (batterie) - batre  
-piment - chili\*  
+piment - chili'  
 pioche - pikosape  
 piquenique - wayoyam  
 piraterie - piratia  
@@ -813,7 +829,7 @@ quartz - kuarce
 quatre (4) - chari  
 que (comme) - ko  
 que (quoi) - ke  
-question - wende  
+question - sual  
 qui - ki ren  
 ##r
 race - ras  
@@ -928,11 +944,12 @@ s’habiller - fuku
 table - meze  
 tablette de chocolat - chokolatobaton  
 tarte - pay  
-tasse à thé - chaykope  
+tasse à thé - chaykupe  
 taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
 tectonique des plaques - plati zemkaskia  
+temple - pujokan  
 temps (durée) - dur  
 tendance - ive  
 tender - waytira  
@@ -949,7 +966,7 @@ tigre - bagre
 tirer - tira milke  
 tissu - tekse  
 titre - temnam  
-toile d'araignée - aranonete  
+toile d'araignée - arannete  
 tomate - tomate  
 tombe - gabre  
 topinambour - masmulsolful  
@@ -1036,13 +1053,13 @@ wolof - Wolof
 ##x
 ##y
 ##z
-zombi - zombi\*  
+zombi - zombe  
 zone - zon  
 zoo - hewanparke  
 Zoroastre - Zardush  
 zoroastrien - zardushiste  
 zoroastrisme - zardushistia  
-zoulou - zuli  
+zoulou - Zulu  
 zèbre - zebre  
 Égypte - Misre  
 Épicéa - pis  
@@ -1081,3 +1098,4 @@ zèbre - zebre
 être - esa  
 être couché - kushu  
 être humain - insan  
+œil - oke  
