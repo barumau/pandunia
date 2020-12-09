@@ -415,6 +415,9 @@ brunalge|biw|Phaeophyceae||brown algae|algues brunes|algas pardas||бурые в
 Bruney|desh|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
 bruni|rang||fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|brown|brun (marron)|marrón|castanho (marrom)|коричневый|بُنِّيّ|棕色 (色)|茶色|갈색|nâu|भूरा||cokelat|kahawia|kahverengi|bruna|ruskea|brązowy, koloru kawy
 brunsamon|biw|Salmo trutta||brown trout|truite brune (truite de mer)|trucha marrón|truta-marrom|кумжа||褐鳟|ブラウントラウト|||||trout coklat|||||pstrąg potokowy
+bucha||||butcher|abattre|carnear (matar)|abater||||||||||||buĉi|teurastaa (lahdata)|
+bucher|||eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ)|butcher|boucher|carnicero|açougueiro (talhante)|мясник|جَزَّار‎|屠夫|肉屋|푸주한|người hàng thịt|क़साई (बूचड़)||tukang daging|||buĉisto|teurastaja|
+buchokan|||fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)|abattoir (slaughterhouse)|abattoir|matadero|matadouro|бойня||屠宰场|屠畜場|도살장|lò mổ|बूचड़खाना (कसाईखाना)|কসাইখানা|||mezbaha|buĉejo|teurastamo|
 buda||||realize||darse cuenta (notar)|||||||||||||kompreni|ymmärtää (oivaltaa)|uświadomić sobie, zdać sobie sprawę, pojąć, pojmować
 Budapesht|shefocite|HU||Budapest||||||||||||||||Budapest|
 Bude||||Buddha|Bouddha|Buda|Buda|Будда||佛陀|仏陀|부처 (불타)|Phật (Bụt)|बुद्ध|বুদ্ধ|Buddha||Buda|Budho|Buddha|Budda
@@ -651,11 +654,11 @@ dewsage||||myth (divine story)||mito (cuento divino)|||||||||||||mito|jumaltaru 
 dika||||aim at|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|tähdätä|celować
 dike|||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|target (aim, objective)|objectif (cible)|objetivo|objetivo|цель||目的 (目标)|標的 (ターゲット)|목표 (표적)|mục tiêu (đích)||||||celo|maali (maalitaulu, kohde)|cel
 din|||ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|religion (worship)|religion|religión|religião|религия (вера)|دين‎|宗教|宗教|종교|tôn giáo|धर्म (दीन)|ধর্ম (দীন)|agama (din)|dini|din (inanç)|religio|uskonto|religia, wyznanie
+dini||||religious||religioso|||||||||||||religia|uskonnollinen|religijny
+dinguru*||||priest (cleric)||sacerdote (clérigo, eclesiástico)|||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
+diniste||||believer (religious person)|croyant|creyente|crente|верующий|مؤمن|信徒|信徒 (信者)|신도 (신자)||आस्तिक|||muumini|mümin|kredulo|uskovainen|wierzący (osoba religijna)
 dinamite|||eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|dynamite|dynamite|dinamita|dinamite|динамит||甘油炸药|ダイナマイト|||||||||dynamiitti|dynamit
 ding|||zho:钉 (dīng), yue:釘 (deng1), vie:đinh|nail (spike)||clavo (pincho, punta)||||钉子|||||||||najlo|naula (piikki)|kolec
-dinguru*||||priest (cleric)||sacerdote (clérigo, eclesiástico)|||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
-dini||||religious||religioso|||||||||||||religia|uskonnollinen|religijny
-diniste||||believer (religious person)|croyant|creyente|crente|верующий|مؤمن|信徒|信徒 (信者)|신도 (신자)||आस्तिक|||muumini|mümin|kredulo|uskovainen|wierzący (osoba religijna)
 Dione|planete 6 lune 4|||Dione||||||||||||||||Dione|
 diorite|||eng:fra:diorite, spa:diorita, rus:диорит (diorit), tur:diyorit, ara:ديوريت (dayurit), hin:डायोराइट (dāyorait), vie:may:diorit|diorite|diorite|diorita|diorito|диорит||闪长岩|閃緑岩||||||||||dioryt
 dish|||hin:mar:दिशा (diśā), urd:(diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang)|direction||dirección||||||||||||||suunta|kierunek
@@ -1431,6 +1434,15 @@ jusha||||inject||inyectar||||||||||||||ruiskuttaa|wstrzyknąć, wstrzykiwać
 justi|||eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|precise (exact, accurate)|exact (précis)|exacto (preciso)|exato (preciso)|точный|||||||||halisi|dakik|preciza (ekzakta)|tarkka (täsmällinen)|precyzyjny, dokładny
 justo||||just (exactly, precisely)||justo (exactamente)|||||||||||||ĝuste (ekzakte)|juuri (just, täsmälleen)|dokładnie (precyzyjnie, tylko)
 justopawer||||sniper (sharpshooter)||francotirador||снайпер|||狙撃兵||||||||||snajper (strzelec wyborowy)
+ke|||fra:que, spa:qué, por:o que + ben:কে  (ke)|what?|que (quoi)|qué|o que|что||什么|何|||क्या||apa|nini|ne|kio?|mikä? (mitä?)|co?
+ki||||which?||cuál|||||どの|||||||||mikä? (kumpi?)|który?
+ki ren||||who?|qui|quién|quem||||誰|||||siapa|nani|kim|kiu?|kuka?|co?
+ki sate||||when?|quand|cuándo|quando||||何時|||||kapan|lini|ne zaman|kiam?|milloin? (koska?)|zapytać, pytać
+ki shey||||what thing?||cuál cosa|||||何事||||||||kio?|mikä? (mitä?)|jak?
+ki yangi||||what kind of?||qué tipo de|||||どんな||||||||kia?|millainen?|jaki?
+ko||||than (as, compared to)|que (comme)|que (como)||чем||比|より||hơn|||daripada|kuliko|göre|ol (kiel)|kuin (verrattuna)|jak, niż, od
+ko?||||how?|comment|cómo|como|как||怎么|どのように|어떻게||कैसे|কিভাবে|bagaimana|-je|nasıl|kiel?|miten?|kiedy?
+ko multo||||how many?||cuántos|||||||||||||kiom?|montako? (paljonko?)|ile?
 kababa|||ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab)|barbecue (grill)||asar||||||||||||||grillata (kärventää)|grillować
 kababi manse||||grilled meat (kebab)||||кебаб|كباب|||||कबाब|কাবাব|||kebap||kebab (grilliliha)|kebab
 kabaw|biw|Bubalus bubalis|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|water buffalo||búbalo (arni)||||||||||||||vesipuhveli|bawół domowy
@@ -1497,7 +1509,6 @@ kang|||hin:कंघी (kaṅghī), urd:(kaṅghī), mar:कंगवा (kaṅ
 kangaru|biw|||kangaroo|kangourou|canguro|canguru|кенгуру||袋鼠|カンガルー|캥거루|canguru (chuột túi)|कंगारू|ক্যাংগারু|kanggaru|kangaruu|kanguru|kangaro|kenguru|kangur
 kanion|||eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon|canyon (ravine, gorge, gully)|canyon (ravin)|cañón (barranco, quebrada)|canhão (ravina, barranco)|овраг (ущелье, каньон)||峡谷 (深谷)|峡谷||||||||||kanion
 kanjar|||fas:(xanjar), tur:haner, rus:кинжал (kinžal)|dagger||puñal (daga)||кинжал|||||||||||ponardo|tikari|sztylet (puginał)
-kankesh||||eyelash||pestaña||||||||||||||silmäripsi|rzęsa
 kanoe*|||eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
 kansuy|||tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|tear drop||lágrima||||||||||||||kyynel|łza
 kansuygas||||tear gas|gaz lacrymogène|gas lacrimógeno|gás lacrimogéneo|слезоточи́вый газ||催泪瓦斯|催涙ガス||hơi cay||||||||gaz łzawiący
@@ -1510,6 +1521,7 @@ kapa fish||||catch fish||pescar|||||||||||||||łapać rybę
 kapotruke||||trap (snare)|piège|trampa|armadilha|ловушка||陷阱|罠||||||||||pułapka
 kapse|||lat:capsa, eng:fra:case,capsule, spa:caja,cápsula, por:caixa,cápsula, rus:капсула (kapsula), ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes|box (container)||||||||||||||||laatikko|
 kar|||may:karya, hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma) |work (job, task)|travail|trabajo|trabalho|работа|عَمَل|工作|労働|일||काम|কাজ|kerja (karya)|kazi|iş|laboro|työ (tehtävä)|praca, zjęcie, zadanie
+karokan|||eng:workshop, fas:کارخانه‎ (kârxâne), hin:कारख़ाना (kārxānā), ben:কারখানা (karôkhana), zho:工厂 (gōngchǎng)|workshop||||||工厂||||कारख़ाना|কারখানা||||laborejo|paja (työpaja)|
 kara||||work|travailler|trabajar|trabalhar|работать|عَمِلَ|工作|働く|일하다|làm việc|काम करना|কাম কৰা|bekerja|kufanya kazi|işlemek (çalışmak)||työskennellä|pracować
 karaibia|aria|||Caribbean|Caraïbes|Caribe|Caribe||||||||||||Karibio|Karibia|Karaiby
 karaoke||||karaoke||karaoke||||||||||||||karaoke|karaoke
@@ -1560,7 +1572,6 @@ kaya||||open||abrir|||||||||||||malfermi|aukaista (avata)|otworzyć, otwierać
 kayi|||zho:开 (kāi), vie:-khai-|open (not closed)||abierto|||||||||||||malferma|auki (avoin)|otwarty, niezamknięty
 kayu||||become open||abirse|||||||||||||malfermiĝi|aueta (avautua)|otworzyć się, otwierać się
 Kazahia|desh|KZ||Kazakhstan||Kazajistán (Kazakistan)||||||||||||||Kazakstan|Kazachstan
-ke|||fra:que, spa:qué, por:o que + ben:কে  (ke)|what?|que (quoi)|qué|o que|что||什么|何|||क्या||apa|nini|ne|kio?|mikä? (mitä?)|co?
 kechape|||yue:茄汁 (kezap), eng:ketchup, hin:केचप (kecap), rus:кетчуп (ketčup), jpn:ケチャップ (kechappu), tgl:ketsap|ketchup||kétchup|||||||||||||keĉupo|ketsuppi|keczup
 kechi|||zho:客气 (kèqì), yue:客氣 (haak3 hei3), wuu:客氣 (khaq qi4)|polite||educado||||客气|||||||||ĝentila|kohtelias (kiltti)|uprzejmy
 Keiman nesia|desh|KY||Cayman Islands||islas Caimán||||||||||||||Cayman-saaret|Kajmany
@@ -1587,11 +1598,6 @@ keshobende||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiusp
 keshosabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
 ketel|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
 Khartum|shefocite|SD||Khartoum|Khartoum|Jartum|Cartum|Хартум|الخرطوم|喀土穆|ハルツーム|||||Khartoum|Khartoum|Hartum|Ĥartumo|Khartoum|
-ki||||which?||cuál|||||どの|||||||||mikä? (kumpi?)|który?
-ki ren||||who?|qui|quién|quem||||誰|||||siapa|nani|kim|kiu?|kuka?|co?
-ki sate||||when?|quand|cuándo|quando||||何時|||||kapan|lini|ne zaman|kiam?|milloin? (koska?)|zapytać, pytać
-ki shey||||what thing?||cuál cosa|||||何事||||||||kio?|mikä? (mitä?)|jak?
-ki yangi||||what kind of?||qué tipo de|||||どんな||||||||kia?|millainen?|jaki?
 kilo*|||eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|thousand (kilo-)||mil (kilo-)|||||千 (１０００)||||||||mil (kilo-)|tuhat (kilo-)|tysiąc (kilo-)
 kilogram|unomete|kg||kilogram (kg)||kilograma||||||||||||||kilogramma|kilogram (kg)
 kilomitre|unomete|km||kilometer (km)||kilometre|||||||||||||kilometro|kilometri|kilometr
@@ -1617,14 +1623,14 @@ Kiribati|desh|KI||Kiribati||Kiribati||||||||||||||Kiribati|Kiribati
 kirili abace||||Cyrillic alphabet||alfabeto cirílico||||||||||||||kyrilliset aakkoset|cyrylica
 kirisa||||rent out (let, lease)||alquilar||||||||||||||vuokrata|wynająć, oddać w najem
 kita||||remove (take away)||quitar (remover)|remover|||除去||||||||||viedä|
+kiti||||gone (away)|parti|||||||||||||||mennyt (poissa)|
+kitu|||fra:quitter, tur:gitmek, spa:quitar|go (move away)|aller (quitter)|ir|ir|идти||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść (przemieścić się)
 kitaba||||write|écrire|escribir|escrevere|писать||写||||लिखना||menulis||yazmak||kirjoittaa|napisać, pisać
 kitabe|||ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|writing (text)|écriture|escritura|escrita|письмо||||||||tulisan||yazı|skribo|kirjoitus (teksti)|pismo, tekst
-kitabia||||library|bibliothèque|biblioteca|biblioteca|библиотека||图书馆||||पुस्तकालय||perpustakaan||kütüphane|librejo|kirjasto|biblioteka
+kitabokan||||library|bibliothèque|biblioteca|biblioteca|библиотека|مَكْتَبَة‎|图书馆|図書館|도서관|thư viện|पुस्तकालय|গ্রন্থাগার|perpustakaan|maktaba|kütüphane|librejo|kirjasto|biblioteka
 kitabomashin||||typewriter|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania
 kitabominister||||librarian||bibliotecario||библиотекарь|||図書係||||||||||bibliotekarz
 kitaborupe||||formatting||formateo||||||||||||||tekstin muotoilu|formatowanie
-kiti||||gone (away)|parti|||||||||||||||mennyt (poissa)|
-kitu|||fra:quitter, tur:gitmek, spa:quitar|go (move away)|aller (quitter)|ir|ir|идти||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść (przemieścić się)
 kiwi*|biw||eng:fra:spa:may:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi|kiwi fruit|kiwi|kiwi fruta|quivi|киви||奇异果|キーウィフルーツ|다래 (키위)|trái ki wi (trái dương đào)|कीवी||buah kiwi||kivi|kivo|kiivi|owoc kiwi
 klara||||clarify (clear up)||aclarar (clarificar)|||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
 klari|||deu:klar, spa:por:claro, eng:clear, fra:clair|clear (obvious)|clair|claro|claro||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
@@ -1634,15 +1640,12 @@ klasa||||classify (categorize)||clasificar||||||||||||||luokitella (kategorisoid
 klien|||eng:client, spa:por:fra:cliente, rus:клиент (klient), jpn:クライアント (kuraianto), may:klien|customer (client, patron)|client|cliente|cliente|клиент (покупатель, зака́зчик)||顾客|顧客 (依頼人, クライアント)|||ग्राहक||langganan (pelanggan, tamu)|mshitiri||||
 klika|||eng:click, spa:clic, por:clicar, fra:claquer, hin:क्लिक (klika), ben:ক্লিক (klika), may:klik, jpn:クリック (kurikku)|click (snap)|||||||||||||||||
 klim|||ell:κλίμα (eklíma), spa:por:clima, ara:(ʾiqlīm), may:tur:iklim, eng:climate, rus:климат (klimat)|climate||clima||климат|||||||||||klimato|ilmasto|klimat
-klimlojia||||climatology||climatología|||||||||||||klimatscienco|ilmastotiede (klimatologia)|klimatologia
+klimolojia||||climatology||climatología|||||||||||||klimatscienco|ilmastotiede (klimatologia)|klimatologia
 klimomute||||climate change|changement climatique|cambio climático|mudança climática|изменение климата||气候变化|気候変動|기후 변화|biến đổi khí hậu|||||iklim değişikliği||ilmastonmuutos|zmiana klimatu
 klon|||en:por:fra:clone, spa:clon rus:клон (klon), may:klon, jpn:クローン (kurōn)|clone (replica)||clonar|||||||||||||klono|klooni (identtinen kopio)|klon, replika
 klona||||clone (replicate)||clon|||||||||||||kloni|kloonata (monistaa)|klonować, repilikować
 klorem|mate|Cl||chlorine||cloro|||||||||||||kloro|kloori|chlor
 klube|||eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|club||club|||||||||||||klubo|kerho (klubi)|klub
-ko||||than (as, compared to)|que (comme)|que (como)||чем||比|より||hơn|||daripada|kuliko|göre|ol (kiel)|kuin (verrattuna)|jak, niż, od
-ko multo||||how many?||cuántos|||||||||||||kiom?|montako? (paljonko?)|ile?
-ko?||||how?|comment|cómo|como|как||怎么|どのように|어떻게||कैसे|কিভাবে|bagaimana|-je|nasıl|kiel?|miten?|kiedy?
 kobalte|mate|Co||cobalt||cobalto|||||||||||||kobalto|kobaltti|kobalt
 koda||||encode (encrypt)||codificar (cifrar)||||||||||||||koodata|kodować
 kode|||eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|code (cipher)||código (cifra)|||||||||||||kodo|koodi|kod, szyfr
@@ -2015,7 +2018,6 @@ Malvinas nesia|desh|FK||Falkland Islands (Malvinas)||Islas Malvinas|||||||||||||
 mam|||spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
 mamal|biw|Mammalia|eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia|mammal||mamífero||||||||||||||nisäkäs|ssak
 man|||eng:man, deu:Mann, hin:मानुस (mānus), ben:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), mar:माणूस (māṇūs), tam:மனிதன் (maṉitaṉ) + zho:男 (nán), jpn:男 (nan)|male||masculino (macho)|||||男||||||||viro|uros (mies)|męski
-mandir|||hin:मन्दिर (mandir), ben:মন্দির (môndir), guj:મંદિર (mandir)|temple||templo||||||||||||||temppeli|świątynia
 mang|biw||may:mangga, por:manga, eng:mango|mango||mano||||||||||||||mango|mango
 mangan|mate|Mn||manganese||manganeso|||||||||||||mangano|mangaani|mangan
 mangus|biw|Garcinia mangostana||mangosteen||mangostán (jobo de la India)||||||||||||||mangostani|mangostan
@@ -2419,6 +2421,7 @@ nudistia||||nudism||nudismo||||||||||||||nudismi|nudyzm
 nuton|unomete|N||newton (N)||newton (N)|||||||||||||newtono (N)|newton (N)|niuton (N)
 o|funce||spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
 Oberon|planete 7 lune 5|||Oberon|||||||||||||||||
+Oceania||||Oceania||Oceanía|||||||||||||Oceanio|Oseania|Oceania
 odisi|nas|||Odia (Oriya)||oriya||||||||||||||orija (eräs intialainen kieli)|orija
 ofice||||office (position)||cargo||||||||||||||virka (virka-asema)|urząd, pozycja, stanowisko, funkcja
 oficer||||officer||funcionario||||||||||||||virkailija (virkamies)|funkcjonariusz, urzędnik
@@ -2429,6 +2432,8 @@ oganeson|mate|Og||oganesson||oganesón|||||||||||||oganesono|oganesson|oganesson
 oka||||eye (look, watch)|||||||||||||||okulumi|silmäillä (katsoa)|patrzeć (oglądać)
 oke|badan||spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|eye|œil|ojo|olho|глаз (око)|عَيْن|眼睛|目|눈|mắt|आँख (नैन, नेत्र)|চোখ (অক্ষি)|mata|jicho|göz|okulo|silmä|oko
 oki||||ocular|oculaire|ocular|ocular|глазной|عَيْنِيّ||||||||||okula|silmä-|
+okokesh||||eyelash||pestaña||||||||||||||silmäripsi|rzęsa
+okey||||okay (acceptance)||||||||||||||||hyväksyntä|
 okeya||||accept (say okay)||aceptar||||||||||||||hyväksyä|zaakceptować, akceptować, powiedzieć okej, mówić okej
 okeyi|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptable)||bien|||||大丈夫 (ＯＫ)||||||||akceptebla (okej)|kelpo (okei)|okej, spoko, akceptowalny
 okse|mate|O||oxygen||oxígeno|||||||||||||oksigeno|happi|tlen
@@ -2440,10 +2445,10 @@ onor|||eng:pol:spa:honor, fra:honneur, por:honra, ita:onore, tur:onur|respect (h
 onori||||honorable (respectable)||respetable (honorable)|||||||||||||respektinda|kunnianarvoisa|honorowy
 or|badan||zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja|ear|oreille|oreja|orelha|||耳|||||||||orelo|korva|ucho
 ora||||listen||escuchar (oír)||||||||||||||kuunnella|słuchać
+oritis||||otitis|otite|otitis|otite|отит||耳炎|||||||||otito|korvatulehdus|zapalenie ucha
 oranje|biw||eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)|orange (fruit)|orange (fruit)|naranja|laranja|апельсин||橙子||||नारंगी||jeruk (oren)||portakal|oranĝo|appelsiini|pomarańcza
 oranji|rang|||orange (orange-colored)|orange (couleur)|anaranjado|alaranjado|оранжевый||橙色|オレンジ色の||||||||oranĝa|oranssi|pomarańczowy
 orgazme|||eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)|orgasm||orgasmo||||||||||||||orgasmi|orgazm
-oritis||||otitis|otite|otitis|otite|отит||耳炎|||||||||otito|korvatulehdus|zapalenie ucha
 orkide|biw|Orchidaceae|eng:orchid, spa:por:orquídea, rus:орхидея (orhideya), hin:ऑर्किड (orkid), ben:অর্কিড (arkiḍa)|orchid|orchidée|orquídea|orquídea|орхидея||兰花|ラン|||ऑर्किड|||||||storczyk (orchidea)
 oromi||||Oromo (an Ethiopian ethnic group and language)||oromo||||||||||||||oromo (etiopialainen kansa ja kieli)|oromo
 Oromia|desh|||Oromia||Oromía||||||||||||||Oromia|Oromia
@@ -2451,7 +2456,6 @@ orta||||straighten||enderezar (poner recto)||||||||||||||suoristaa (ojentaa)|wpr
 orti|||eng:fra:ortho-, spa:por:orto-, rus:орто- (orto-)|straight|droit (rectiligne)|recto|reto|прямой||直|まっすぐな|||सीधा|||||rekta|suora|prosty
 ortogon||||right angle||ángulo recto||||||||||||||suorakulma (oikokulma)|kąt prosty
 ortogoni||||orthogonal (perpendicular)|orthogonal|ortogonal|ortogonal|ортогона́льный||||||||||||suorakulmainen|prostopadły
-oseania||||Oceania||Oceanía|||||||||||||Oceanio|Oseania|Oceania
 oselote|biw|Leopardus pardalis|nah:tlālocēlōtl, eng:ocelot, spa:por:ocelote, rus:оцелот (ocelot), tur:oselo, ara:أصلوت ('aslut), hin:ऑसेलॉट (ŏsēlŏṭa), jpn:オセロット (oserotto)|ocelot|ocelot|ocelote|jaguatirica (ocelote)|оцелот||虎貓|オセロット|||ऑसेलॉट|||oselo||||ocelot
 osidian|||eng:may:obsidian, spa:por:obsidiana, ita:ossidiana, rus:обсидиан (obsidian), swa:obsidiyen, hin:ऑब्सिडियन (obsidiyan)|obsidian|obsidienne|obsidiana|obsidiana|обсидиан||黑曜岩|黒曜石||||||||||obsydian
 oskuri|||eng:obscure, spa:oscuro, por:escuro, fra:obscur|dark (dim)||oscuro||||||||||||||pimeä (hämärä)|ciemny, słabo oświetlony
@@ -2705,10 +2709,11 @@ projete|||fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (
 prometem|mate|Pm||promethium||prometio|||||||||||||prometio||promet
 protacinem|mate|Pa||protactinium||proactinio|||||||||||||protaktinio|protaktinium|protaktyn
 pudi|||eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)|rotten|pourri|podrido (cariado)||||||||||||||mätä|zgniły
-puding|||eng:pudding, zho:布丁 (bùdīng)|pudding||pudín||||布丁||||||||||vanukas|puding
 pudu||||decay (rot, deteriorate)|pourrir (se décomposer)|pudrirse (cariarse, descomponerse)|apodrecer-se|гнить (портиться)||腐烂|腐敗|||सड़ना||||||mädäntyä (mädätä)|rozłożyć się (rozkładać się, gnić, psuć się)
+puding|||eng:pudding, zho:布丁 (bùdīng)|pudding||pudín||||布丁||||||||||vanukas|puding
 puja||||worship (revere)||adorar (venerar)||||||||||||||palvoa|czcić, szanować
 puje|||hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|worship (reveration)||adoración (veneración, culto)||||||||पूजा||||||palvonta|cześć, szacunek
+pujokan||||temple (place of worship)|temple|templo|templo|храм (место богослужения)|مَعْبَد‎|寺庙|神殿|절 (사원)|đền|मन्दिर|মন্দির|kuil|hekalu|tapınak (ibadethane)|templo|temppeli|świątynia
 pujomeze||||altar|autel|altar|altar|алтарь||圣坛||||वेदी (वेदिका)||altar (mazbah)||mihrap|altaro|alttari|ołtarz
 pujorite||||ritual (ceremony, religious custom)||rito (ceremonia)||||||||धार्मिक-विधि||||||rituaali (seremonia, riitti)|rytuał, ceremonia, ryt
 pul|||hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)|bridge|pont|puente|ponte|||桥|||||||||ponto|silta|most
@@ -3579,7 +3584,7 @@ yang|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|k
 Yapetus|planete 6 lune 8|||Iapetus|||||||||||||||||
 yasen|biw|Fraxinus|rus:ясень (yasen’), pol:jesion|ash tree||fresno|||||||||||||||jesion
 yatim|||ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|orphan||huérfano||||||||||||||orpo|sierota
-yatimdom||||orphanage||orfanato||||||||||||||orpokoti|sierociniec, dom dziecka
+yatimdom||||orphanage|orphelinat|orfanato|orfanato|детский дом||孤儿院||||||||yetimhane||orpokoti|sierociniec, dom dziecka
 ye||||this one||esto|||||これ||||||||ĉi tio|tämä|ten konkretny
 yehudi||||Jewish||judío||||||||||||||juutalainen|żydowski
 yehudistia||||Judaism||judaísmo||||||||||||||juutalaisuus|judaizm
