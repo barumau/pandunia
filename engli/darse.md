@@ -10,10 +10,10 @@ Introducing yourself
 **te si ke?**
 = Who are you?  
 <big>🧔</big>
-**me si yusef. te si ke?**
+**me si Yusef. te si ke?**
 = I am Yusef. Who are you?  
 <big>👩</big>
-**me si maria. le si ke?**
+**me si Maria. le si ke?**
 = I am Maria. Who is that?  
 <big>🧔</big>
 **le si mi doste.**
@@ -22,7 +22,7 @@ Introducing yourself
 **li nam si ke?**
 = What's her name?  
 <big>🧔</big>
-**li nam si sarah.**
+**li nam si Sara.**
 = Her name is Sarah.
 
 ### Grammar
@@ -37,20 +37,20 @@ In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
 simply replace it with **no** (which is the word for _no_).
 
-**le si sarah.**
+**le si Sara.**
 = She is Sarah.  
-**le no sarah.**
+**le no Sara.**
 = She is not Sarah.
 
-**mav si hevane.**
+**maw si hewan.**
 = The cat is an animal.  
-**dome no hevane.**
+**dom no hewan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying **me** and a word
 that describes you.
 
-**me bon.**
+**me boni.**
 = I'm good.  
 **me man.**
 = I'm a man.  
@@ -78,16 +78,16 @@ answers are after the word list.
 **le** he, she or it. **li** his, her, its.  
 **ke** who or what.  
 **si** yes. **no** no, not.  
-**bon** good. **doste** friend. **nam** name.  
+**boni** good. **doste** friend. **nam** name.  
 **fem** woman. **man** man.  
-**mav** cat. **hevane** animal.
+**maw** cat. **hewan** animal.
 
 ### Answers to the Exercises
 
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sarah.
+4. le si Sara.
 5. ti nam si ke?
 6. mi nam si ........... 
 
@@ -152,14 +152,14 @@ name, kinship term or profession.
 = Hello, mother!  
 **salam pape!**
 = Hello, father!  
-**salam xefe!**
+**salam shef!**
 = Hello, chief!
 
-Another Pandunia word for greeting is **halov**. It is also a very
+Another Pandunia word for greeting is **halo**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
-**halov!**
+**halo!**
 = Hello!
 
 
@@ -175,11 +175,11 @@ answers are after the word list.
 
 ### Word List
 
-**salam, halov** greeting, hello, hi, salaam, ciao, etc.
+**salam, halo** greeting, hello, hi, salaam, ciao, etc.
 **salama** to greet.  
 **mame** mother, mom.
 **pape** father, dad.
-**xefe** chief, boss.
+**shef** chief, boss.
 
 
 ### Answers to the Exercises
@@ -207,10 +207,10 @@ answers are after the word list.
 **danke.**
 = Thank you.  
 <big>🧓</big>
-**pliza yama kafe o cay.**
+**pliza yama kafe o chay.**
 = Please have some coffee or tea.  
 <big>🧒</big>
-**me yama cay. danke.**
+**me yama chay. danke.**
 = I will have some tea, thank you.  
 ...  
 <big>🧓</big>
@@ -271,9 +271,9 @@ for making polite requests.
 = Please be seated.  
 **pliza dona kafe.**
 = Please give me some coffee.  
-**pliza dona cay.**
+**pliza dona chay.**
 = Please give me some tea.  
-**pliza yama cay.**
+**pliza yama chay.**
 = Please have some tea.  
 **pliza safa kamare.**
 = Please clean the room.
@@ -281,7 +281,7 @@ for making polite requests.
 Commands are introduced with **komanda** = to command. They employ the
 same pivot structure as requests with **pliza**.
 
-**komanda dona cay.**
+**komanda dona chay.**
 = Give (me) some tea!  
 **komanda safa kamare.**
 = Clean the room!
@@ -306,7 +306,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**cay** tea.
+**chay** tea.
 **pliza** to ask; please.
 **dona** to give.
 **danke** thanks.
@@ -322,11 +322,11 @@ Try translating these sentences from English to Pandunia.
 
 ### Answers to the Exercises
 
-1. le yama cay.
-2. xefe pliza le sida.
-3. pliza yama kafe o cay.
+1. le yama chay.
+2. shef pliza le sida.
+3. pliza yama kafe o chay.
 4. mame pliza me safa kamare.
-5. xefe sida e yama kafe.
+5. shef sida e yama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -337,27 +337,27 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! eska te yama kafe o cay?**
+☻: **salam! wena te yama kafe o chay?**
 = Hello! Would you like to have coffee or tea?  
-☺: **cay.**
+☺: **chay.**
 = Tea.  
 ☻: **e te?**
 = And you?  
-○: **me no baxa pandunia...**
+○: **me no basha pandunia...**
 = I don't speak Pandunia...  
-☻: **pardon! eska le yama cay?**
+☻: **pardon! wena le yama chay?**
 = Pardon! Will he have tea?  
-☺: **no. le no yama cay. le yama kafe.**
+☺: **no. le no yama chay. le yama kafe.**
 = No, he won't. He would like to have coffee.  
-☻: **eska te yama supe?**
+☻: **wena te yama supe?**
 = Would you like to have soup?  
 ☺: **si, yama.**
 = Yes. (_I eat._)  
-☻: **eska le yama supe?**
+☻: **wena le yama supe?**
 = Would he like to have soup?  
 ☺: **no yama.**
 = No.  
-☻: **danke. me dona un cay e un kafe e un supe sa bade da desi minute.**
+☻: **danke. me dona un chay e un kafe e un supe sa bade da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -365,13 +365,13 @@ Yes or no questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **pliza**, which you learned in the
-previous lesson. Question sentences are introduced with **eska** = to ask.
+previous lesson. Question sentences are introduced with **wena** = to ask.
 
-**me eska te yama cay.**
+**me wena te yama chay.**
 = I ask (do) you drink tea.  
-**eska te yama cay?**
+**wena te yama chay?**
 = Do you drink tea?  
-**eska yama cay?**
+**wena yama chay?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -379,20 +379,20 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**eska le yama cay?**
+**wena le yama chay?**
 = Does he or she drink tea?  
-**eska te yama supe?**
+**wena te yama supe?**
 = Do you eat soup?  
-**eska mome yama suy?**
+**wena mome yama suy?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-**eska xefe yama kafe?**
+**wena shef yama kafe?**
 = Does the chief drink coffee?  
-**eska pape safa kamare?**
+**wena pape safa kamare?**
 = Does the father clean the room?  
-**eska niki baxa pandunia?**
+**wena niki basha pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -400,29 +400,29 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **si** = yes, and **no** = no.
 
-– **eska te yama supe?**
+– **wena te yama supe?**
 = Do you eat soup?  
 – **si.**
 = Yes.  
-– **eska le yama supe?**
+– **wena le yama supe?**
 = Does she eat soup?  
 – **no.**
 = No.
 
 Also more complete answers can be given.
 
-– **eska te yama kafe?**
+– **wena te yama kafe?**
 = Do you drink coffee?  
 – **si. me yama kafe.**
 = Yes, I drink coffee.  
-– **eska le yama kafe?**
+– **wena le yama kafe?**
 = Does he drink coffee?  
 – **no. le no yama kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-– **eska te yama suy?**
+– **wena te yama suy?**
 = Do you drink water?  
 – **yama.**
 = (Yes, I) drink.
@@ -447,22 +447,22 @@ Try translating these sentences from English to Pandunia.
 **pardon** pardon, sorry.
 **minute** minute.
 **no** not.
-**baxa** speak a language.
+**basha** speak a language.
 **suy** water.
 **supe** soup.
 **un** one (1).
 **desi** ten.
-**eska** to ask a question.
+**wena** to ask a question.
 **si** yes.
 
 
 ### Answers to the Exercises
 
-1. eska te baxa pandunia?
-2. si. me baxa pandunia.
-3. eska mame yama kafe?
+1. wena te basha pandunia?
+2. si. me basha pandunia.
+3. wena mame yama kafe?
 4. no. le no yama kafe.
-5. eska le yama supe?
+5. wena le yama supe?
 6. (le) no yama.
 
 
@@ -498,13 +498,13 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**le no tena mav.**
+**le no tena maw.**
 = She doesn't have a cat.  
-**le tena no mav, a vaf.**
+**le tena no maw, a waf.**
 = She has no cats but dogs.  
-**no le, a me tena mav.**
+**no le, a me tena maw.**
 = Not she but I have cats.  
-**me tena no un, a duli mav.**
+**me tena no un, a duli maw.**
 = I have not one but two cats.
 
 
@@ -526,8 +526,8 @@ is more than one correct answer.
 **kupe** cup, glass, mug.
 **kali** empty.
 **tena** to have.
-**mav** cat.
-**vaf** dog.
+**maw** cat.
+**waf** dog.
 **duli** two.
 **nol** zero.
 **a** but.
@@ -539,7 +539,7 @@ is more than one correct answer.
 2. un kupe no kali.
 3. duli waf no yama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
-5. xefe yama cay a no kafe.
+5. shef yama chay a no kafe.
 6. mame tena no waf a duli maw.
 
 
@@ -558,20 +558,20 @@ manner or thing if needed.
 = Who is coming? (**ren** = person)  
 **ki zaman te yama?**
 = When do you eat? (**zaman** = time)  
-**ki yang dansa?**
+**ki yang danca?**
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
 **ke saba**.
 
-**ke saba te suku mav?**
+**ke saba te suku maw?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered
 by adding **sabu** before the cause or reason. **sabu** is actually a
 passive verb meaning _to be caused by_.
 
-**ke saba te suku mav?**
+**ke saba te suku maw?**
 = Why do you like cats?  
 **sabu lole kavayi.**
 = Because they are cute.
@@ -579,7 +579,7 @@ passive verb meaning _to be caused by_.
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**me suku mav sabu lole kavayi**
+**me suku maw sabu lole kavayi**
 = I like cats because they are cute.
 
 ### Exercises
@@ -594,12 +594,12 @@ something, even when not answering to a question.
 
 ### Word List
 
-**dansa** to dance.
+**danca** to dance.
 **laya** to come.
 **ren** person.
 **suku** to like.
 **yang** manner, style.
-**zaman** time.
+**zaman** period of time.
 
 
 ### Answers to the Exercises
@@ -653,11 +653,11 @@ There are also specific time words.
 The adjectives for past, present and future are **pasi**, **zayi** and
 **vili**. They can be used for modifying nouns.
 
-**sarah si mi pasi xefe.**
+**Sara si mi pasi shef.**
 = Sarah is my former boss.  
-**yusef si mi zayi xefe.**
+**Yusef si mi zayi shef.**
 = Yusef is my current boss.  
-**maria si mi vili xefe.**
+**Maria si mi vili shef.**
 = Maria is my future boss.
 
 The same roots are used when you talk about actions and events in time.
@@ -692,11 +692,11 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-**me paso tena un mav.**
+**me paso tena un maw.**
 = I had a cat in the past.  
-**le bon mav.**
+**le boni maw.**
 = It was a good cat.  
-**me tena un vaf zayo.**
+**me tena un waf zayo.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -730,11 +730,11 @@ Try translating these sentences from English to Pandunia.
 
 ### Answers to the Exercises
 
-1. mi xefe festa sa vile.
-2. me tena duli vaf sa pase.
+1. mi shef festa sa vile.
+2. me tena duli waf sa pase.
 3. te yama supe zay.
 4. le safa kamare sa predi den.
-5. mav yama kafe sa badi den.
+5. maw yama kafe sa badi den.
 6. ti mame festa sa predi noce.
 
 
