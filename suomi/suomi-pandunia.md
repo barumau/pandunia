@@ -506,6 +506,7 @@ he - lole
 hedelmä - pal  
 hei (haloo) - halo'  
 heijastaa (peilata) - mira  
+heijastaa kuvia (projisoida) - lancografa  
 heikko - debili  
 heimo - tribe  
 heinä - gangras  
@@ -2079,6 +2080,8 @@ profeetta - naber
 profeetta Mani - Manihay  
 professori - profesor  
 profetia - nabe  
+projektio (diakuva) - lancograf  
+projektori (videotykki, piirtoheitin) - lancografer  
 pronomini - vicologe  
 prosessi (proseduuri) - proces  
 protaktinium - protacinem  
@@ -3115,6 +3118,11 @@ wolofin kansa ja kieli - Wolof
 ####X - X  
 ####Y - Y  
 ydin (sydän) - kerne  
+ydinase - kerni arme  
+ydinenergia - kerni energe  
+ydinfissio - kerni fenia  
+ydinfuusio - kerni liwunisia  
+ydinfysiikka - kerni fizikia  
 yhdeksän - navi  
 yhdessä - kono  
 Yhdistyneet Arabiemiirikunnat - Unuti Arabi Emiria  

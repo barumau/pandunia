@@ -564,7 +564,6 @@ hazarda - zari
 hazardo - zar  
 haŭto - pil  
 Hebrea - ibri  
-heijastaa kuvia (projisoida) - lancografa  
 hejma - domi  
 hejmlingvo - jeni bash  
 hejmo (loĝejo) - dom  
@@ -722,6 +721,9 @@ kaĝo - batonkapse
 kaŝtano - kastan  
 kaŭĉuko - gom  
 kemia elemento - kimem  
+kernarmilo - kerni arme  
+kernenergio - kerni energe  
+kernfiziko - kerni fizikia  
 kerno (koro) - kerne  
 keĉupo - kechape  
 kia? - ki yangi  
@@ -1266,8 +1268,6 @@ produkti (fabriki) - chana
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
-projektio (diakuva) - lancograf  
-projektori (videotykki, piirtoheitin) - lancografer  
 proksima - karibi  
 promeni (marŝi) - marchu  
 promeno (marŝo) - marche  
@@ -1670,11 +1670,6 @@ vulvo - vulve
 ####W - W  
 ####X - X  
 ####Y - Y  
-ydinase - kerni arme  
-ydinenergia - kerni energe  
-ydinfissio - kerni fenia  
-ydinfuusio - kerni liwunisia  
-ydinfysiikka - kerni fizikia  
 ####Z - Z  
 Zambio - Zambia  
 zebro - zebre  

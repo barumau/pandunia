@@ -872,11 +872,9 @@ keke - kuko
 kel - sporto  
 kenar - rando (orlo)  
 kerne - kerno (koro)  
-kerni arme - ydinase  
-kerni energe - ydinenergia  
-kerni fenia - ydinfissio  
-kerni fizikia - ydinfysiikka  
-kerni liwunisia - ydinfuusio  
+kerni arme - kernarmilo  
+kerni energe - kernenergio  
+kerni fizikia - kernfiziko  
 kesh - haro  
 keshosabun - ŝampuo  
 Khartum - Ĥartumo  
@@ -970,9 +968,6 @@ lalbawsheke - rubeno
 lali - ruĝa  
 lampe - lampo  
 lanca - ĵeti (lanĉi)  
-lancograf - projektio (diakuva)  
-lancografa - heijastaa kuvia (projisoida)  
-lancografer - projektori (videotykki, piirtoheitin)  
 lasun - ajlo  
 late - flanko (latero)  
 lati - flanka (latera)  

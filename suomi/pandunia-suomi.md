@@ -1456,6 +1456,11 @@ kenarfon - konsonantti
 kenari - reuna-  
 Kenya - Kenia  
 kerne - ydin (sydän)  
+kerni arme - ydinase  
+kerni energe - ydinenergia  
+kerni fenia - ydinfissio  
+kerni fizikia - ydinfysiikka  
+kerni liwunisia - ydinfuusio  
 kerube - kerubi  
 kesh - hius (karva, tukka, hiukset)  
 keshobende - hiuspanta  
@@ -1633,6 +1638,9 @@ lalbawsheke - rubiini
 lali - punainen  
 lampe - lamppu  
 lanca - heittää (paiskata)  
+lancograf - projektio (diakuva)  
+lancografa - heijastaa kuvia (projisoida)  
+lancografer - projektori (videotykki, piirtoheitin)  
 langan - kaide (reelinki)  
 Lanka - Sri Lanka  
 lantanum - lantaani  

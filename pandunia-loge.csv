@@ -1596,11 +1596,11 @@ kenarfon|kenarfon||||consonant||consonante||||||||||||||konsonantti|spółgłosk
 kenari|kenari||||peripheral||periférico||||||||||||||reuna-|peryferyjny
 Kenya|Kenya|desh|KE||Kenya||Kenia||||||||||||||Kenia|Kenia
 kerne|kerne|||eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|core (nucleus, kernel)|coeur|corazón (núcleo)|núcleo (cerne)|||核心|核||||||||kerno (koro)|ydin (sydän)|rdzeń (jądro, pestka)
-kerni arme|kerni arme||||nuclear weapon (nuke)||arma nuclear|||||||||||||ydinase||broń nuklearna
-kerni energe|kerni energe||||nuclear energy||energía nuclear|||||||||||||ydinenergia||energia nuklearna
-kerni fenia|kerni fenia||||nuclear fission||fisión nuclear|||||||||||||ydinfissio||rozszczepienie jądra atomowego
-kerni fizikia|kerni fizikia||||nuclear physics||física nuclear|||||||||||||ydinfysiikka||fizyka nuklearna
-kerni liwunisia|kerni liwunisia||||nuclear fusion||fusión nuclear|||||||||||||ydinfuusio||fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
+kerni arme|kerni arme||||nuclear weapon (nuke)||arma nuclear|||||||||||||kernarmilo|ydinase|broń nuklearna
+kerni energe|kerni energe||||nuclear energy||energía nuclear|||||||||||||kernenergio|ydinenergia|energia nuklearna
+kerni fenia|kerni fenia||||nuclear fission||fisión nuclear||||||||||||||ydinfissio|rozszczepienie jądra atomowego
+kerni fizikia|kerni fizikia||||nuclear physics||física nuclear|||||||||||||kernfiziko|ydinfysiikka|fizyka nuklearna
+kerni liwunisia|kerni liwunisia||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
 kerube|kerube|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
 kesh|kesh|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
 keshobende|keshobende||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
@@ -1821,9 +1821,9 @@ lan|lan|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, u
 lana|lana||||curse (swear)||maldecir|||||呪う||||||||||kląć (przeklinać)
 lanca|lanca|||eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|throw (launch)||tirar (lanzar, echar, arrojar, aventar)|||||||||||||ĵeti (lanĉi)|heittää (paiskata)|rzucić, rzucać, miotać, cisnąć, ciskać
 lanci|lanci||||projectile (thrown)|||||||||||||||||ciśnięty (rzucony, miecony)
-lancograf|lancograf||||projection (image)|projection|proyección|projeção|||投影|投影||||||||projektio (diakuva)||rzut (projekcja)
-lancografa|lancografa||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)||||||||heijastaa kuvia (projisoida)||wyświetlać
-lancografer|lancografer||||image projector||proyector|||||||||||||projektori (videotykki, piirtoheitin)||projektor (rzutnik)
+lancograf|lancograf||||projection (image)|projection|proyección|projeção|||投影|投影|||||||||projektio (diakuva)|rzut (projekcja)
+lancografa|lancografa||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)|||||||||heijastaa kuvia (projisoida)|wyświetlać
+lancografer|lancografer||||image projector||proyector||||||||||||||projektori (videotykki, piirtoheitin)|projektor (rzutnik)
 lancovute|lancovute||||projectile (missile)|projectile|proyectil (misil)|projétil|снаряд||投掷物|飛翔体 (矢玉)||||||||||pocisk
 langan|langan|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banister (handrail)||barandilla (pasamanos)||||||||||||||kaide (reelinki)|poręcz (balustrada)
 Lanka|Lanka|desh|LK||Sri Lanka (Ceylon)||Sri Lanka||||||||||||||Sri Lanka|Sri Lanka
