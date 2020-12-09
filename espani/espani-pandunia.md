@@ -165,8 +165,8 @@ andrajoso - chirchiri
 anglicanizar - englokitaba  
 anglófilo - englofiler  
 Angola - Angola  
-anillo (sortija) - fingwen  
-anillo - wen  
+anillo (sortija) - fingoring  
+anillo - ring  
 animación (dibujo animado) - anim  
 animal (bestia) - hewan  
 animar - anima  
@@ -1322,7 +1322,7 @@ fono (segmento acústico) - fon
 fonología - fonlojia  
 forma (figura) - forme  
 formateo - kitaborupe  
-formulario - sualdokum  
+formulario - wendokum  
 foro (espacio público) - forum  
 fosa - kave  
 foto (fotografía) - fotograf  
@@ -1662,7 +1662,7 @@ interior - inde
 internacional - nasmedi  
 Internet - internete  
 interracial - rasmedi  
-interrogativa - sualan  
+interrogativa - wenan  
 interés - interes  
 interétnica - zukomedi  
 invernal - zimi  
@@ -2609,8 +2609,8 @@ precio (coste) - koste
 precioso - bawi  
 preferir (favorecer) - favora  
 prefijo - chenfikse  
-pregunta - sual  
-preguntar (inquirir) - suala  
+pregunta - wen  
+preguntar (inquirir) - wena  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
 presente - zay  
@@ -2827,6 +2827,7 @@ rico - richi
 riesgo (posibilidad) - zar  
 riesgo - riske  
 rima - rim  
+ring - ringar  
 rinoceronte - kornonos  
 rio - nade  
 ritmo - ritim  
@@ -3045,7 +3046,7 @@ sucio - darti
 Sudamérica - sudi amerike  
 sudor - suede  
 sudoroso (sudado) - suedi  
-Sudáfrica - Sudafrika  
+Sudáfrica - Sudafrike  
 Sudán - Sudan  
 Sudán del Sur - Sudi Sudan  
 Suecia - Svenia  

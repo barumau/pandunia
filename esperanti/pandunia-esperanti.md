@@ -509,7 +509,7 @@ filter - filtri
 fin - fino  
 fina - fini  
 fing - fingro  
-fingwen - ringo  
+fingoring - ringo  
 fini - lasta  
 fiorde - fjordo  
 firuze - turkiso  
@@ -1540,9 +1540,6 @@ sonu - dormi
 sos - saŭco  
 sosis - kolbaso  
 suahili - sŭahili  
-sual - demando  
-suala - demandi  
-sualan - demandanta  
 suani - acida  
 sube - mateno  
 sude - sudo  
@@ -1696,6 +1693,9 @@ way - ekstero
 waydeshia - fremda lando  
 wayi - ekstera  
 we - tiu  
+wen - demando  
+wena - demandi  
+wenan - demandanta  
 wi - tiu  
 wike - vikia artikulo  
 wikia - vikio  

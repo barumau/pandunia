@@ -897,17 +897,17 @@ filsofer|filsofer||||philosopher||filósofo|||||||||||||filozofo|filosofi|filozo
 filsofi|filsofi||||philosophic||filosófico|||||||||||||filozofia|filosofinen|filozoficzny
 filsofia|filsofia|||spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|philosophy|philosophie|filosofía|filosofia|философия|فَلْسَفَة|哲学|哲学|철학|triết học|दर्शन (फ़लसफ़ा)||filsafat|falsafa|felsefe|filozofio|filosofia|filozofia
 filter|filter||||filter||filtro|||||||||||||filtri|suodattaa|filtr
-fin|fin|||spa: fin, fra: fin, por: fim|end||fin (el final)|||||||||||||fino|loppu|koniec
-fina|fina||||finish (put an end to)||terminar (acabar)|||||||||||||fini|lopettaa|skończyć, kończyć
-fing|fing|||eng:finger, deu:Finger|finger (toe)||dedo|||||||||||||fingro|sormi tai varvas|palec
-fingwen|fingwen||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
-fini|fini||||last (final)||final (último)|||||||||||||lasta|viimeinen|ostatni, końcowy
+fin:|fin|||spa: fin, fra: fin, por: fim|end||fin (el final)|||||||||||||fino|loppu|koniec
+fin:a|fina||||finish (put an end to)||terminar (acabar)|||||||||||||fini|lopettaa|skończyć, kończyć
+fin:i|fini||||last (final)||final (último)|||||||||||||lasta|viimeinen|ostatni, końcowy
+fing:|fing|||eng:finger, deu:Finger|finger (toe)||dedo|||||||||||||fingro|sormi tai varvas|palec
+fing.o.ring:|fingoring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
 fiorde|fiorde|||nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|fjord|fiord|fiordo|fiorde|фьорд||峡湾|フィヨルド||||||||fjordo|vuono|fiord
 firuze|firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|turquoise gem||turquesa (piedra preciosa)||бирюза||绿松石|||||||||turkiso|turkoosi|turkus
-fish|fish|biw||eng:fish, deu:Fisch|fish||pez (pescado)|||||||||||||fiŝo|kala|ryba
-fishohuke|fishohuke||||fishhook|hameçon|hamo (anzuelo)|anzol|крючок||鱼钩|釣り針|낚시|móc câu|||mata kail|||fiŝhoko|ongenkoukku|haczyk
-fishosaider|fishosaider||||fisher|pêcheur|pescador|pescador|рыбак (рыболов)|صياد‎|鱼夫|漁師|낚시꾼 (어부)||||||balıkçı|fiŝkaptisto|kalastaja|rybak
-fishotanke|fishotanke||||fish tank||acuario (pecera)||||||||||||||akvaario|akwarium
+fish:|fish|biw||eng:fish, deu:Fisch|fish||pez (pescado)|||||||||||||fiŝo|kala|ryba
+fish.o.huk:e|fishohuke||||fishhook|hameçon|hamo (anzuelo)|anzol|крючок||鱼钩|釣り針|낚시|móc câu|||mata kail|||fiŝhoko|ongenkoukku|haczyk
+fish.o.said.er:|fishosaider||||fisher|pêcheur|pescador|pescador|рыбак (рыболов)|صياد‎|鱼夫|漁師|낚시꾼 (어부)||||||balıkçı|fiŝkaptisto|kalastaja|rybak
+fish.o.tank:e|fishotanke||||fish tank||acuario (pecera)||||||||||||||akvaario|akwarium
 fite|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetation)||planta (vegetación)|||||||||||||planto|kasvi|roślina, sadzonka
 fitolojia|fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
 fizike|fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
@@ -2817,6 +2817,8 @@ rezulte|rezulte|||eng:result, spa:por:resultado, fra:résultat, deu:Resultat, ru
 richi|richi|||eng:rich, fra:riche, por:spa:rico|rich|riche|rico||||||||||||||rikas|bogaty
 richia|richia||||wealth (fortune)|||||||||||||||||bogactwo (fortuna, majątek)
 rim|rim|||spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|rhyme (verse)|rime|rima|rima|рифма||||||||||||säe (riimi)|rym (wers)
+ring:|ring|||eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|ring|anneau|anillo|anel|||环 (轮)|輪|고리|vòng|||cincin (ring)||halka||rengas (kehä)|pierścień
+ring.ar:|ringar||||ring (sports or exhibition arena)|ring (manège)|ring|ringue|ринг (манеж)||擂台|リング|링||रिंग||||||kehä (ottelualue)|
 ris|ris|||tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|rice|riz|arroz|arroz|рис||米|米 (ご飯)|||चावल||nasi (padi)|||rizo|riisi|ryż
 riske|riske|||fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|risk||riesgo|||||||||||||risko|riski|ryzyko
 riski|riski||||risky||arriesgado|||||||||||||riska|riskialtis|ryzykowny
@@ -3171,24 +3173,20 @@ sos|sos|||eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vi
 sosis|sosis|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage|saucisse|salchicha|salsicha|колбаса (сосиска)|سُجُق|香肠|ソーセージ|||सॉसेज||sosis (sosej)|soseji||kolbaso|makkara|kiełbasa
 Soto|Soto|desh|LS||Lesotho||Lesoto||||||||||||||Lesoto|Lesotho
 suahili|suahili||||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
-sual:|sual|||ara: سُؤَال‎ (suʾāl), hin:सवाल (savāl), may:soal, swa:swali|question|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali|soru|demando|kysymys|pytanie
-sual:a|suala||||ask (inquire)|demander (poser un question)|preguntar (inquirir)|perguntar||سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza|sormak|demandi|kysyä|zapytać, spytać, pytać
-sual.an:|sualan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
-sual.dokum:|sualdokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
-suani|suani|||zho:酸 (suān)|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny
-sube|sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
-suboden|suboden||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
-subyam|subyam||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
-Sudafrika|Sudafrika|desh|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
-Sudan|Sudan|desh|SD||Sudan||Sudán||||||||||||||Sudan|Sudan
-sude|sude|||spa:sur, por:sul, fra:sud|south||sur|||||||||||||sudo|etelä|południe
-sudi|sudi||||southern||sureño|||||||||||||||południowy
-sudi amerike|sudi amerike||||South America||Sudamérica||||||||||||||Etelä-Amerikka|Ameryka Południowa
-Sudi Chosen|Sudi Chosen|desh|KR||South Korea (Republic of Korea)||Corea del Sur|||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
-Sudi Iria (Alonia)|Sudi Iria (Alonia)|desh|||South Ossetia (Alania)||Osetia del Sur||||||||||||||Etelä-Ossetia|Osetia Południowa
-Sudi Jorjia e Sudi Sanduiche nesia|Sudi Jorjia e Sudi Sanduiche nesia|desh|GS||South Georgia and the South Sandwich Islands||Georgias del Sur y Sándwich del Sur|||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
-Sudi Sudan|Sudi Sudan|desh|SS||South Sudan||Sudán del Sur||||||||||||||Etelä-Sudan|Sudan Południowy
-sudonordia|sudonordia||||latitude||latitud|||||||||||||||południk
+suan:i|suani|||zho:酸 (suān)|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny
+sub:e|sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
+sub.o.den:|suboden||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
+sub.yam:|subyam||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
+sud:e|sude|||spa:sur, por:sul, fra:sud|south||sur|||||||||||||sudo|etelä|południe
+sud:i|sudi||||southern||sureño|||||||||||||||południowy
+Sud:i Amerik:e|sudi amerike||||South America||Sudamérica||||||||||||||Etelä-Amerikka|Ameryka Południowa
+Sud:i Chosen:|Sudi Chosen|desh|KR||South Korea (Republic of Korea)||Corea del Sur|||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
+Sud:i Iria (Alonia)|Sudi Iria (Alonia)|desh|||South Ossetia (Alania)||Osetia del Sur||||||||||||||Etelä-Ossetia|Osetia Południowa
+Sud:i Jorj:ia e Sud:i Sanduich:e nes:ia|Sudi Jorjia e Sudi Sanduiche nesia|desh|GS||South Georgia and the South Sandwich Islands||Georgias del Sur y Sándwich del Sur|||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
+Sud:i Sudan:|Sudi Sudan|desh|SS||South Sudan||Sudán del Sur||||||||||||||Etelä-Sudan|Sudan Południowy
+Sud.afrik:e|Sudafrike|desh|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
+sud.o.nord:ia|sudonordia||||latitude||latitud|||||||||||||||południk
+Sudan:|Sudan|desh|SD||Sudan||Sudán||||||||||||||Sudan|Sudan
 suede|suede|||eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|sweat (perspiration)|sueur|sudor|suor|||||||||||||hiki|pot
 suedi|suedi||||sweaty||sudoroso (sudado)||||||||||||||hikinen|spocony
 suja|suja||||suggest (propose)||sugerir (proponer)||||||||||||||ehdottaa|sugerować, proponować
@@ -3549,7 +3547,10 @@ waytira|waytira||||stretch (extend)|tender|estirar (extender)|estirar|вытян
 we|we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
 weka|weka||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 weki|weki|||eng:awake, deu:wach|awake|éveillé|despierto||||||||||||||olla hereillä|przebudzony, przytomny
-wen|wen|||zho:环 (huán), yue:環 (waan4), wuu:環 (gue3), kor:환 (hwan), tha:แหวน (wɛ̌ɛn), jpn:輪 (wa)|ring||anillo|||||||||||||||pierścień
+wen:|wen|||zho:问 (wèn), wuu:问 (vén), jpn:問 (mon), kor:문 (mun), vie:vấn|question|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali|soru|demando|kysymys|pytanie
+wen:a|wena||||ask (inquire)|demander (poser un question)|preguntar (inquirir)|perguntar||سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza|sormak|demandi|kysyä|zapytać, spytać, pytać
+wen.an:|wenan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
+wen.dokum:|wendokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 Wenjou|Wenjou||||Wenzhou||||||温州|||||||||||Wenzhou
 wenjoworanje|wenjoworanje||||satsuma mandari|mandarine satsuma|unshu mikan||мандарин уншиу||温州蜜柑|ウンシュウミカン||||||||||mandarynka Satsuma (pomarańcza Satsuma)
 weste|weste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west||oeste||||||||||||||länsi|zachód

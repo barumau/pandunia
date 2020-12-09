@@ -855,7 +855,7 @@ filter - suodattaa
 fin - loppu  
 fina - lopettaa  
 fing - sormi tai varvas  
-fingwen - sormus  
+fingoring - sormus  
 fini - viimeinen  
 fiorde - vuono  
 firuze - turkoosi  
@@ -2474,6 +2474,8 @@ rezulta - tuottaa (johtaa tulokseen)
 rezulte - tulos  
 richi - rikas  
 rim - säe (riimi)  
+ring - rengas (kehä)  
+ringar - kehä (ottelualue)  
 ris - riisi  
 riske - riski  
 riski - riskialtis  
@@ -2759,14 +2761,10 @@ sos - kastike (soosi)
 sosis - makkara  
 Soto - Lesoto  
 suahili - suahili  
-sual - kysymys  
-suala - kysyä  
-sualan - kysyvä  
-sualdokum - kyselylomake  
 suani - hapan (kirpeä)  
 sube - aamu  
 subyam - aamiainen  
-Sudafrika - Etelä-Afrikka  
+Sudafrike - Etelä-Afrikka  
 Sudan - Sudan  
 sude - etelä  
 sudi amerike - Etelä-Amerikka  
@@ -3064,6 +3062,10 @@ wayoyam - eväsretki (piknik)
 we - tuo  
 weka - herättää  
 weki - olla hereillä  
+wen - kysymys  
+wena - kysyä  
+wenan - kysyvä  
+wendokum - kyselylomake  
 weste - länsi  
 westi - läntinen  
 wi - tuo (nuo)  

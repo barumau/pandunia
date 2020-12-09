@@ -1102,6 +1102,7 @@
 |**rezulte**|resulta (efecto)|eng:result, spa:por:resultado, fra:résultat, deu:Resultat, rus:результат (rezul’tat)|
 |**richi**|rico|eng:rich, fra:riche, por:spa:rico|
 |**rim**|rima|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|
+|**ring**|anillo|eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|
 |**ris**|arroz|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |**riske**|riesgo|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |**rite**|costumbre (tradición, convención)|hin:रीति (rīti), ben:রীতি (rīti) + eng:fra:rite, spa:por:rito|
@@ -1241,7 +1242,6 @@
 |**sor**|cerradura (candado)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sos**|salsa|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
 |**sosis**|salchicha|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sual**|pregunta|ara: سُؤَال‎ (suʾāl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suani**|agrio (ácido)|zho:酸 (suān)|
 |**sube**|mañana|ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|
 |**sude**|sur|spa:sur, por:sul, fra:sud|
@@ -1385,7 +1385,7 @@
 |**way**|fuera (exterior)|zho:外 (wài)|
 |**waydeshi**|extranjero|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |**weki**|despierto|eng:awake, deu:wach|
-|**wen**|anillo|zho:环 (huán), yue:環 (waan4), wuu:環 (gue3), kor:환 (hwan), tha:แหวน (wɛ̌ɛn), jpn:輪 (wa)|
+|**wen**|pregunta|zho:问 (wèn), wuu:问 (vén), jpn:問 (mon), kor:문 (mun), vie:vấn|
 |**weste**|oeste|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
 |**wi**|eso|hin:वह (wo), ben:ওই (oi)|
 |**wijin**|GMS|zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|

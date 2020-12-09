@@ -903,7 +903,7 @@ filter - filter
 fin - end  
 fina - finish (put an end to)  
 fing - finger (toe)  
-fingwen - finger ring  
+fingoring - finger ring  
 fini - last (final)  
 fiorde - fjord  
 firuze - turquoise gem  
@@ -2823,6 +2823,8 @@ rezulte - result (effect, outcome)
 richi - rich  
 richia - wealth (fortune)  
 rim - rhyme (verse)  
+ring - ring  
+ringar - ring (sports or exhibition arena)  
 ris - rice  
 riske - risk  
 riski - risky  
@@ -3177,15 +3179,11 @@ sos - sauce
 sosis - sausage  
 Soto - Lesotho  
 suahili - Swahili  
-sual - question  
-suala - ask (inquire)  
-sualan - interrogative  
-sualdokum - form (questionaire)  
 suani - sour  
 sube - morning (dawn)  
 suboden - forenoon  
 subyam - breakfast  
-Sudafrika - South Africa  
+Sudafrike - South Africa  
 Sudan - Sudan  
 sude - south  
 sudi - southern  
@@ -3559,7 +3557,10 @@ waytira - stretch (extend)
 we - that one  
 weka - wake (make awake)  
 weki - awake  
-wen - ring  
+wen - question  
+wena - ask (inquire)  
+wenan - interrogative  
+wendokum - form (questionaire)  
 Wenjou - Wenzhou  
 wenjoworanje - satsuma mandari  
 weste - west  

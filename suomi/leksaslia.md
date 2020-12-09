@@ -1049,6 +1049,7 @@
 |**rezulte**|tulos|englanti:result, espanja:portugali:resultado, ranska:résultat, deu:Resultat, venäjä:результат (rezul’tat)|
 |**richi**|rikas|englanti:rich, ranska:riche, portugali:espanja:rico|
 |**rim**|säe (riimi)|espanja:portugali:rima, ranska:rime, englanti:rhyme, puola:rym, deu:Reim|
+|**ring**|rengas (kehä)|englanti:ranska:espanja:malaiji:ring, portugali:ringue, venäjä:ринг (ring), hindi:रिंग (rĩg), japani:リング (ringu), korea:링 (ring)|
 |**ris**|riisi|tamili:அரிசி (arisi), arabia:(ʾaruzz), espanja:portugali:arroz, oromo:ruuzii, ranska:riz, venäjä:рис (ris), englanti:rice, deu:Reis|
 |**riske**|riski|ranska:risque, englanti:turkki:risk, portugali:risco, venäjä:риск (risk), japani:リスク (ja) (risuku), deu:malaiji:risiko|
 |**rite**|tapa (perinne)|hindi:रीति (rīti), bangla:রীতি (rīti) + englanti:ranska:rite, espanja:portugali:rito|
@@ -1175,7 +1176,6 @@
 |**song**|mänty|yleiskiina:松 (sōng), wu-kiina:(son), thai:สน (sǒn), korea:솔 (sol), vietnami:thông, + venäjä:сосна (sosna)|
 |**sos**|kastike (soosi)|englanti:ranska:sauce, venäjä:соус (sous), hindi:सॉस (sos), deu:Soße, vietnami:xốt, japani:ソース (sōsu), that:ซอส (soot), korea:소스 (soseu), malaiji:saus|
 |**sosis**|makkara|ranska:saucisse, turkki:malaiji:sosis, persia:(sosis), venäjä:сосиска  (sosiska), japani:ソーセージ (sosēji), hindi:सॉसेज (sosej), bangla:সসেজ (sôsej), englanti:sausage|
-|**sual**|kysymys|arabia: سُؤَال‎ (suʾāl), hindi:सवाल (savāl), malaiji:soal, suahili:swali|
 |**suani**|hapan (kirpeä)|yleiskiina:酸 (suān)|
 |**sube**|aamu|arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba|
 |**sude**|etelä|espanja:sur, portugali:sul, ranska:sud|
@@ -1305,6 +1305,7 @@
 |**way**|ulkopuoli|yleiskiina:外 (wài)|
 |**waydeshi**|ulkomaalainen|hindi:(videśī), telugu:(vidēśi), yleiskiina:外国的 (wàiguóde)|
 |**weki**|olla hereillä|englanti:awake, deu:wach|
+|**wen**|kysymys|yleiskiina:问 (wèn), wu-kiina:问 (vén), japani:問 (mon), korea:문 (mun), vietnami:vấn|
 |**weste**|länsi|englanti:west, deu:West, ranska:ouest, espanja:portugali:oeste, venäjä:вест (vest)|
 |**wi**|tuo (nuo)|hindi:वह (wo), bangla:ওই (oi)|
 |**wijin**|natriumglutamaatti|yleiskiina:味精 (wèijīng), kantoninkiina:味精 (mei6 zing1), vietnami:mì chính, malaiji:vetsin,micin, filippiini:bitsin|

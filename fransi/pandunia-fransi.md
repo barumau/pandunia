@@ -864,6 +864,8 @@ reya - répéter
 rezulte - effet  
 richi - riche  
 rim - rime  
+ring - anneau  
+ringar - ring (manège)  
 ris - riz  
 ritim - rhythme  
 robote - robot  
@@ -958,8 +960,6 @@ sonu - dormir
 sor - serrure  
 sos - sauce  
 sosis - saucisse  
-sual - question  
-suala - demander (poser un question)  
 suede - sueur  
 suki - heureux  
 sundari - beau  
@@ -1060,6 +1060,8 @@ washurse - raton laveur
 wayoyam - piquenique  
 waytira - tender  
 weki - éveillé  
+wen - question  
+wena - demander (poser un question)  
 wenjoworanje - mandarine satsuma  
 wolfe - loup  
 Wolof - wolof  

@@ -1104,6 +1104,7 @@
 |**rezulte**|rezult, wynik|eng:result, spa:por:resultado, fra:résultat, deu:Resultat, rus:результат (rezul’tat)|
 |**richi**|bogaty|eng:rich, fra:riche, por:spa:rico|
 |**rim**|rym (wers)|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|
+|**ring**|pierścień|eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|
 |**ris**|ryż|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |**riske**|ryzyko|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |**rite**|obyczaj, zwyczaj, tradycja, praktyka, konwencja|hin:रीति (rīti), ben:রীতি (rīti) + eng:fra:rite, spa:por:rito|
@@ -1245,7 +1246,6 @@
 |**sor**|zamek (zapięcie)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sos**|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
 |**sosis**|kiełbasa|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sual**|pytanie|ara: سُؤَال‎ (suʾāl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suani**|kwaśny|zho:酸 (suān)|
 |**sube**|ranek, rano, poranek|ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|
 |**sude**|południe|spa:sur, por:sul, fra:sud|
@@ -1389,7 +1389,7 @@
 |**way**|zęwnętrzny|zho:外 (wài)|
 |**waydeshi**|zagraniczny|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |**weki**|przebudzony, przytomny|eng:awake, deu:wach|
-|**wen**|pierścień|zho:环 (huán), yue:環 (waan4), wuu:環 (gue3), kor:환 (hwan), tha:แหวน (wɛ̌ɛn), jpn:輪 (wa)|
+|**wen**|pytanie|zho:问 (wèn), wuu:问 (vén), jpn:問 (mon), kor:문 (mun), vie:vấn|
 |**weste**|zachód|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
 |**wi**|tamten (tamten)|hin:वह (wo), ben:ওই (oi)|
 |**wijin**|glutaminian sodu|zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|

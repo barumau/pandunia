@@ -65,6 +65,7 @@ Angola - Angola
 animal (bête) - hewan  
 animation - anim  
 animer - anima  
+anneau - ring  
 Antarctique - Antartike  
 antenne - anten  
 antimoine - estibem  
@@ -341,7 +342,7 @@ danger - hatre
 dans le sens antihoraire - fansoldisho  
 dauphin - dolfin  
 de - cha  
-demander (poser un question) - suala  
+demander (poser un question) - wena  
 dessous - niche  
 destin - chenamen  
 deux (2) - duli  
@@ -829,7 +830,7 @@ quartz - kuarce
 quatre (4) - chari  
 que (comme) - ko  
 que (quoi) - ke  
-question - sual  
+question - wen  
 qui - ki ren  
 ##r
 race - ras  
@@ -848,6 +849,7 @@ retourner (revenir) - retru
 rhythme - ritim  
 riche - richi  
 rime - rim  
+ring (manège) - ringar  
 rire - haha  
 rivière (fleuve) - nade  
 riz - ris  

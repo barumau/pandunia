@@ -842,7 +842,7 @@ filter - filtro
 fin - fin (el final)  
 fina - terminar (acabar)  
 fing - dedo  
-fingwen - anillo (sortija)  
+fingoring - anillo (sortija)  
 fini - final (último)  
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
@@ -2640,6 +2640,8 @@ rezin - resina
 rezulte - resulta (efecto)  
 richi - rico  
 rim - rima  
+ring - anillo  
+ringar - ring  
 ris - arroz  
 riske - riesgo  
 riski - arriesgado  
@@ -2978,15 +2980,11 @@ sos - salsa
 sosis - salchicha  
 Soto - Lesoto  
 suahili - suajili  
-sual - pregunta  
-suala - preguntar (inquirir)  
-sualan - interrogativa  
-sualdokum - formulario  
 suani - agrio (ácido)  
 sube - mañana  
 suboden - mañana (antes mediodía)  
 subyam - desayuno  
-Sudafrika - Sudáfrica  
+Sudafrike - Sudáfrica  
 Sudan - Sudán  
 sude - sur  
 sudi - sureño  
@@ -3341,7 +3339,10 @@ waytira - estirar (extender)
 we - eso  
 weka - despertar  
 weki - despierto  
-wen - anillo  
+wen - pregunta  
+wena - preguntar (inquirir)  
+wenan - interrogativa  
+wendokum - formulario  
 wenjoworanje - unshu mikan  
 weste - oeste  
 westi - occidental  

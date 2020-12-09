@@ -656,7 +656,7 @@ fonologia - fonlojia
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
 formatowanie - kitaborupe  
-formularz (kwestionariusz) - sualdokum  
+formularz (kwestionariusz) - wendokum  
 forum - forum  
 fosfor - pospor  
 fotograf - fotografer  
@@ -1981,8 +1981,8 @@ pierwiastek (jednostki podstawowej) - em
 pierwszy, numer jeden - nombre un  
 pierwszy, początkowy - kaishi  
 pierś - sin  
-pierścień - wen  
-pierścień, pierścionek; obrączka - fingwen  
+pierścień - ring  
+pierścień, pierścionek; obrączka - fingoring  
 pies - waf  
 pień - mokotan  
 piknik - wayoyam  
@@ -2178,7 +2178,7 @@ połknąć (połykać) - gula
 położyć - kusha  
 południe - sude  
 południk - sudonordia  
-Południowa Afryka - Sudafrika  
+Południowa Afryka - Sudafrike  
 południowy - sudi  
 połączenie, złącze, styk - samun  
 pośladki, pupa, tyłek, zadek - pige  
@@ -2338,8 +2338,8 @@ pusty - kali
 pustynia - registan  
 pułapka - kapotruke  
 pyszny - yami  
-pytajny, związany z pytaniem - sualan  
-pytanie - sual  
+pytajny, związany z pytaniem - wenan  
+pytanie - wen  
 pył - fun  
 półka (regał na książki) - libobanze  
 północ - norde  
@@ -3362,7 +3362,7 @@ zapożyczenie (wyraz obcy) - jekologe
 zaprosić, zapraszać - pliza laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
-zapytać, spytać, pytać - suala  
+zapytać, spytać, pytać - wena  
 zapłacić, opłacić, płacić - peya  
 zapłata, opłata - pey  
 zaratrustianin - zardushiste  

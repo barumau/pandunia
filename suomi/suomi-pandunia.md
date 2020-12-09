@@ -365,7 +365,7 @@ este - baryer
 estää kulku (tukkia tie) - barya  
 eteen päin - jino  
 etelä - sude  
-Etelä-Afrikka - Sudafrika  
+Etelä-Afrikka - Sudafrike  
 Etelä-Amerikka - sudi amerike  
 Etelä-Korea - Sudi Chosen  
 Etelä-Ossetia - Sudi Iria (Alonia)  
@@ -930,6 +930,7 @@ kehitys - fajan
 keho (ruumis) - badan  
 kehonrakennus (bodaus) - muskulbin  
 kehys (raamit) - frem  
+kehä (ottelualue) - ringar  
 keidas - was  
 keino (menetelmä, metodi) - metode  
 keinotekoinen (teko-, keino-) - chani  
@@ -1215,10 +1216,10 @@ Kypros - Kipris
 kypsä (aikuinen) - maturi  
 kypärä - helme  
 kyrilliset aakkoset - kirili abace  
-kyselylomake - sualdokum  
-kysymys - sual  
-kysyvä - sualan  
-kysyä - suala  
+kyselylomake - wendokum  
+kysymys - wen  
+kysyvä - wenan  
+kysyä - wena  
 kyynel - kansuy  
 kärppä (fretti) - furete  
 kärpänen - zeze  
@@ -2203,6 +2204,7 @@ ravintola - restorante
 rehtori - darsoshef  
 reikä - kong  
 rekisteri (tili) - deftia  
+rengas (kehä) - ring  
 repeämä - chir  
 repiä - chira  
 reppu (rinkka) - rukosake  
@@ -2461,7 +2463,7 @@ sopia - macha
 sopimus - trate  
 sorakivi - lilsheke  
 sormi tai varvas - fing  
-sormus - fingwen  
+sormus - fingoring  
 sorsa (ankka) - bate  
 sosiaalinen media - soci media  
 sosialismi - socistia  

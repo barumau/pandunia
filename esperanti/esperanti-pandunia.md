@@ -276,9 +276,9 @@ dek (10) - desi
 dek miloj - deskili  
 dekono - deci'  
 delfeno - dolfin  
-demandanta - sualan  
-demandi - suala  
-demando - sual  
+demandanta - wenan  
+demandi - wena  
+demando - wen  
 demografio - demgrafia  
 demokratia - demkrati  
 demokratio - demkratia  
@@ -1331,7 +1331,7 @@ ridi - haha
 rigardi ia - konsida  
 rilato - guanshe  
 rimarki - nota  
-ringo - fingwen  
+ringo - fingoring  
 rinocero - kornonos  
 ripari - shula  
 riparisto - shuler  

@@ -1120,6 +1120,7 @@
 |**rezulte**|result (effect, outcome)|English:result, Spanish:Portuguese:resultado, French:résultat, deu:Resultat, Russian:результат (rezul’tat)|
 |**richi**|rich|English:rich, French:riche, Portuguese:Spanish:rico|
 |**rim**|rhyme (verse)|Spanish:Portuguese:rima, French:rime, English:rhyme, Polish:rym, deu:Reim|
+|**ring**|ring|English:French:Spanish:Malay:ring, Portuguese:ringue, Russian:ринг (ring), Hindi:रिंग (rĩg), Japanese:リング (ringu), Korean:링 (ring)|
 |**ris**|rice|Tamil:அரிசி (arisi), Arabic:(ʾaruzz), Spanish:Portuguese:arroz, Oromo:ruuzii, French:riz, Russian:рис (ris), English:rice, deu:Reis|
 |**riske**|risk|French:risque, English:Turkish:risk, Portuguese:risco, Russian:риск (risk), Japanese:リスク (ja) (risuku), deu:Malay:risiko|
 |**rite**|custom (tradition, practice, convention)|Hindi:रीति (rīti), Bengali:রীতি (rīti) + English:French:rite, Spanish:Portuguese:rito|
@@ -1261,7 +1262,6 @@
 |**sor**|lock (fastener)|Mandarin:锁 (suǒ), Cantonese:鎖 (so2), Wu-Chinese:鎖 (su2), Japanese:錠 (jō), Khmer:សោ (sao), Spanish:cierre, French:serrure, Hungarian:zár|
 |**sos**|sauce|English:French:sauce, Russian:соус (sous), Hindi:सॉस (sos), deu:Soße, Vietnamese:xốt, Japanese:ソース (sōsu), that:ซอส (soot), Korean:소스 (soseu), Malay:saus|
 |**sosis**|sausage|French:saucisse, Turkish:Malay:sosis, Persian:(sosis), Russian:сосиска  (sosiska), Japanese:ソーセージ (sosēji), Hindi:सॉसेज (sosej), Bengali:সসেজ (sôsej), English:sausage|
-|**sual**|question|Arabic: سُؤَال‎ (suʾāl), Hindi:सवाल (savāl), Malay:soal, Swahili:swali|
 |**suani**|sour|Mandarin:酸 (suān)|
 |**sube**|morning (dawn)|Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba|
 |**sude**|south|Spanish:sur, Portuguese:sul, French:sud|
@@ -1406,7 +1406,7 @@
 |**way**|outside (exterior)|Mandarin:外 (wài)|
 |**waydeshi**|foreign|Hindi:(videśī), Telugu:(vidēśi), Mandarin:外国的 (wàiguóde)|
 |**weki**|awake|English:awake, deu:wach|
-|**wen**|ring|Mandarin:环 (huán), Cantonese:環 (waan4), Wu-Chinese:環 (gue3), Korean:환 (hwan), Thai:แหวน (wɛ̌ɛn), Japanese:輪 (wa)|
+|**wen**|question|Mandarin:问 (wèn), Wu-Chinese:问 (vén), Japanese:問 (mon), Korean:문 (mun), Vietnamese:vấn|
 |**weste**|west|English:west, deu:West, French:ouest, Spanish:Portuguese:oeste, Russian:вест (vest)|
 |**wi**|that (those)|Hindi:वह (wo), Bengali:ওই (oi)|
 |**wijin**|MSG (monosodium glutamate)|Mandarin:味精 (wèijīng), Cantonese:味精 (mei6 zing1), Vietnamese:mì chính, Malay:vetsin,micin, Filipino:bitsin|

@@ -727,6 +727,8 @@ retrotikete - 往返票
 retru - 返回 (回来)  
 reya - 重复  
 rezulte - 影响  
+ring - 环 (轮)  
+ringar - 擂台  
 ris - 米  
 ritim - 节奏  
 roketolancer - 火箭筒  
@@ -818,8 +820,6 @@ sonpapil - 鴉片罌粟
 sonu - 睡觉 (困觉)  
 sor - 锁  
 sosis - 香肠  
-sual - 问题  
-suala - 问  
 suki - 高兴  
 sundardake - 装饰  
 sundari - 漂亮 (美)  
@@ -905,6 +905,8 @@ wanu - 玩耍
 washurse - 浣熊  
 wayoyam - 野餐  
 waytira - 拉  
+wen - 问题  
+wena - 问  
 Wenjou - 温州  
 wenjoworanje - 温州蜜柑  
 wijin - 味精  

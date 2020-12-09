@@ -868,7 +868,7 @@ filter - filtr
 fin - koniec  
 fina - skończyć, kończyć  
 fing - palec  
-fingwen - pierścień, pierścionek; obrączka  
+fingoring - pierścień, pierścionek; obrączka  
 fini - ostatni, końcowy  
 fiorde - fiord  
 firuze - turkus  
@@ -2720,6 +2720,7 @@ rezulte - rezult, wynik
 richi - bogaty  
 richia - bogactwo (fortuna, majątek)  
 rim - rym (wers)  
+ring - pierścień  
 ris - ryż  
 riske - ryzyko  
 riski - ryzykowny  
@@ -3070,15 +3071,11 @@ sos - sos
 sosis - kiełbasa  
 Soto - Lesotho  
 suahili - suahili  
-sual - pytanie  
-suala - zapytać, spytać, pytać  
-sualan - pytajny, związany z pytaniem  
-sualdokum - formularz (kwestionariusz)  
 suani - kwaśny  
 sube - ranek, rano, poranek  
 suboden - przedpołudnie  
 subyam - śniadanie  
-Sudafrika - Południowa Afryka  
+Sudafrike - Południowa Afryka  
 Sudan - Sudan  
 sude - południe  
 sudi - południowy  
@@ -3438,7 +3435,10 @@ waytira - rozciągać (rozciągnąć)
 we - tamten  
 weka - obudzić, budzić  
 weki - przebudzony, przytomny  
-wen - pierścień  
+wen - pytanie  
+wena - zapytać, spytać, pytać  
+wenan - pytajny, związany z pytaniem  
+wendokum - formularz (kwestionariusz)  
 Wenjou - Wenzhou  
 wenjoworanje - mandarynka Satsuma (pomarańcza Satsuma)  
 weste - zachód  

@@ -786,6 +786,7 @@ rey - повторение
 reya - повторять  
 rezulte - эффект  
 rim - рифма  
+ringar - ринг (манеж)  
 ris - рис  
 ritim - ритм (такт)  
 robote - робот  
@@ -883,8 +884,6 @@ sor - замок
 sori - запереть  
 sos - соус  
 sosis - колбаса (сосиска)  
-sual - вопрос  
-sualdokum - анкета  
 suki - счастливый (радостный)  
 sundardaka - украсить  
 sundardake - украшение  
@@ -985,6 +984,8 @@ washurse - енот
 waw - вау!  
 wayoyam - пикник  
 waytira - вытянуть  
+wen - вопрос  
+wendokum - анкета  
 wenjoworanje - мандарин уншиу  
 westogoril - западная горилла  
 ##x

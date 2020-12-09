@@ -814,7 +814,6 @@
 |**song**|pino|mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)|
 |**sos**|saŭco|angla:franca:sauce, rusa:соус (sous), hindia:सॉस (sos), deu:Soße, vjetnama:xốt, japana:ソース (sōsu), that:ซอส (soot), korea:소스 (soseu), malaja:saus|
 |**sosis**|kolbaso|franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage|
-|**sual**|demando|araba: سُؤَال‎ (suʾāl), hindia:सवाल (savāl), malaja:soal, svahila:swali|
 |**suani**|acida|mandarena:酸 (suān)|
 |**sube**|mateno|araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba|
 |**sude**|sudo|hispana:sur, portugala:sul, franca:sud|
@@ -890,6 +889,7 @@
 |**washa**|lavi|angla:wash, deu:waschen, mandarena:洗 (xǐ)|
 |**waw**|ŭaŭ!|mandarena:哇 (wā), angla:wow|
 |**way**|ekstero|mandarena:外 (wài)|
+|**wen**|demando|mandarena:问 (wèn), vua:问 (vén), japana:問 (mon), korea:문 (mun), vjetnama:vấn|
 |**wi**|tiu|hindia:वह (wo), bengala:ওই (oi)|
 |**wikia**|vikio|angla:franca:hispana:portugala:malaja:wiki, turka:viki, araba:وِيكي‎ (wikī), persa:ویکی‎ (viki), hindia:विकि (viki), bengala:উইকি (uiki), mandarena:维基 (wéijī), kantona:維基 (wai4 gei1), japana:ウィキ (wiki), korea:위키 (wiki)|
 |**wil**|estonoteco|angla:will + vua:未来 (víle), mandarena:未来 (wèilái), korea:미래 (miræ), japana:未来 (mirai)|

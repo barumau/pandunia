@@ -185,7 +185,7 @@ ash (ashes) - huy
 ash tree - yasen  
 Asia - asia  
 Asian - asi  
-ask (inquire) - suala  
+ask (inquire) - wena  
 ask (request, beg; please) - pliza  
 asparagus - lusun  
 aspirin - aspirin  
@@ -1178,7 +1178,7 @@ filter - filter
 find (discover) - eureka  
 fine (delicate) - faini  
 finger (toe) - fing  
-finger ring - fingwen  
+finger ring - fingoring  
 finish (put an end to) - fina  
 finite (limited) - limiti  
 Finland - Suomi  
@@ -1229,7 +1229,7 @@ forenoon - suboden
 forest (woods, jungle) - jangle  
 forget - anmema  
 fork - forke  
-form (questionaire) - sualdokum  
+form (questionaire) - wendokum  
 form (shape) - forme  
 formatting - kitaborupe  
 forum (public space) - forum  
@@ -1609,7 +1609,7 @@ international - nasmedi
 internet - internete  
 interpreter (translator) - tarjer  
 interracial - rasmedi  
-interrogative - sualan  
+interrogative - wenan  
 invite - pliza laya  
 Io - Io  
 iodine - iodem  
@@ -2643,7 +2643,7 @@ qualify (describe) - sifa
 quark (paneer) - panir  
 quartz - kuarce  
 queen - femi rajer  
-question - sual  
+question - wen  
 quotation mark - citi marke  
 quote (cite) - cita  
 Quran (Koran) - kuran  
@@ -2755,8 +2755,9 @@ right hand - raiti
 right hand side - raite  
 rightist (right-winger) - raitiste  
 rigid (solid) - gatomati  
+ring (sports or exhibition arena) - ringar  
 ring (toll, clang) - danga  
-ring - wen  
+ring - ring  
 rip current - tirliw  
 rise (go up) - gawu  
 risk - riske  
@@ -3063,7 +3064,7 @@ sound (make a sound) - sonda
 soup (stew) - supe  
 sour - suani  
 south - sude  
-South Africa - Sudafrika  
+South Africa - Sudafrike  
 South America - sudi amerike  
 South Georgia and the South Sandwich Islands - Sudi Jorjia e Sudi Sanduiche nesia  
 South Korea (Republic of Korea) - Sudi Chosen  
