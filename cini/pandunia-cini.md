@@ -1,14 +1,14 @@
 # pandunia-cini
-##a
+####A - A  
 abite - 冷杉  
 abla - 会  
 abli - 可能  
 acente - 重音符号  
 achu' - 阿嚏  
 achua - 打喷嚏  
+ade - 习惯 (风俗)  
 adali - 公正地  
 adalia - 正义  
-ade - 习惯 (风俗)  
 adres - 地址  
 aga - 如果 (要是)  
 agres - 攻击  
@@ -17,32 +17,32 @@ air - 空气
 airgun - 空军  
 airporte - 飞机场  
 ais - 冰  
+aisu - 结冰  
 aiskrem - 冰淇淋  
 aisohoke - 冰球  
-aisu - 结冰  
 ajili - 灵活的  
 akar - 蜱 (螨)  
 akse - 轴线  
 ala - 改變  
+ali - 另一  
+alraya - 不同意  
 alge - 藻类  
 algofung - 地衣  
 algojangle - 海藻林  
-ali - 另一  
 alkal - 碱性  
 alkol - 酒  
 almar - 碗碟橱  
 almas - 钻石  
-alraya - 不同意  
 amari - 苦的  
 amarmelon - 苦瓜  
+andiniste - 不信神的  
+anmema - 忘记  
 analiza - 分析  
 analize - 分析  
 andesite - 安山岩  
-andiniste - 不信神的  
 anim - 活跃  
 anjil - 信息  
 anker - 锚  
-anmema - 忘记  
 anten - 天线  
 anus - 肛门  
 apel - 苹果  
@@ -56,8 +56,8 @@ arke - 弓 (琴弓, 拱)
 arme - 武器  
 arom - 气味  
 aroma - 闻到  
-aromomelon - 香瓜  
 aromu - 发臭  
+aromomelon - 香瓜  
 arte - 艺术  
 artiste - 美术家  
 asle - 起源  
@@ -65,17 +65,15 @@ asli - 原始的
 asme - 气喘  
 aspirin - 阿司匹林  
 ate - 作为 (行为)  
-Athina - 雅典  
 ation - 行动  
 ativi - 活性  
+Athina - 雅典  
 atlantokade - 大西洋鱈  
 atlantosamon - 大西洋鮭  
 aur - 金  
 auroranje - 金柑  
-aventur - 冒险  
-aventurer - 冒险者  
 Avganistan - 阿富汗  
-##b
+####B - B  
 babe - 章  
 bache - 小孩  
 badam - 杏仁 (巴旦木)  
@@ -89,9 +87,9 @@ bakocoy - 白菜 (小白菜)
 bakomargarite - 法蘭西菊  
 bakosamon - 大麻哈鱼 (狗鮭)  
 bali - 八 (8)  
+balsenter - 章鱼  
 balibali - 各种各样  
 balkon - 阳台  
-balsenter - 章鱼  
 balute - 橡树 (xiàng)  
 banan - 香蕉  
 bande - 班  (一帮)  
@@ -99,8 +97,8 @@ bandir - 旗
 banke - 银行  
 banse - 竹子  
 banye - 洗澡  
-banyokamar - 浴室  
 banyu - 游泳  
+banyokamar - 浴室  
 banze - 板子  
 bari - 重型的  
 barkoke - 杏子  
@@ -109,17 +107,17 @@ barshi - 多雨
 barshi mosim - 雨季  
 barshochate - 伞  
 barshokote - 雨衣  
+basi - 够  
 bash - 语言  
 bashi jinse - 文法的性  
 bashlojia - 语言学  
-basi - 够  
 baskobol - 篮球  
 batonkapse - 笼  
 batre - 电池  
 bawi - 宝贵  
 bawsheke - 宝石  
-bazar - 市场  
 baze - 底部  
+bazar - 市场  
 bazobol - 棒球  
 bebe - 宝宝  
 bekopote - 陶瓦  
@@ -137,13 +135,13 @@ biwmutu - 发酵
 biwsistem - 生物群系  
 bol - 球  
 bombe - 炸弹  
-bondarme - 道德  
 boni - 好  
+bondarme - 道德  
 bonsinyi - 吉利的  
-bote - 船 (艇)  
 botel - 瓶  
 botolefte - 左舷  
 botoraite - 右舷  
+bote - 船 (艇)  
 boyu - 漂浮  
 bruni - 棕色 (色)  
 brunsamon - 褐鳟  
@@ -155,7 +153,7 @@ buke - 书
 bum - 爆炸  
 buton - 扣子  
 buze - 山羊  
-##c
+####C - C  
 celolojia - 细胞学  
 ceram - 陶瓷  
 cha - 从  
@@ -166,10 +164,10 @@ chari - 四 (4)
 chay - 茶  
 chaykan - 茶馆  
 chaykupe - 茶碗  
+cheno - 以前  
 chenamen - 命運  
 chendeno - 昨日  
 cheng - 层  
-cheno - 以前  
 cherni - 黑色  
 chili' - 菜椒  
 chilifun - 辣椒粉  
@@ -185,7 +183,7 @@ Chungking - 重庆
 chuzable - 选择 (买卖权)  
 cikliste - 骑自行车的人  
 cirkosheke - 鹅卵石  
-##d
+####D - D  
 danger - 钟 (摇铃)  
 dantobalute - 槲树  
 date - 数据  
@@ -203,9 +201,9 @@ dew - 神
 dika - 瞄准  
 dike - 目的 (目标)  
 din - 宗教  
+diniste - 信徒  
 dinamite - 甘油炸药  
 ding - 钉子  
-diniste - 信徒  
 diorite - 闪长岩  
 diske - 圆盘  
 dobe - 砖  
@@ -223,8 +221,8 @@ dur - 时间
 durmetrer - 秒表  
 durubli - 耐用的  
 dush - 淋浴  
+####E - E  
 e - 和  
-##e
 ekor - 松鼠  
 eletrolinye - 电缆 (电线)  
 eletrorade - 闪电  
@@ -237,7 +235,7 @@ estan - 锡
 estibem - 锑  
 europobalute - 夏櫟  
 evanjil - 福音  
-##f
+####F - F  
 fansoldisho - 反时针方向的  
 fas - 面  
 fasteli - 深  
@@ -266,7 +264,7 @@ fuki - 穿
 fuku - 穿衣服  
 ful - 花  
 fungopal - 蘑菇  
-##g
+####G - G  
 gabra - 埋葬  
 gabre - 坟墓  
 gabristan - 公墓 (墓地)  
@@ -302,7 +300,7 @@ gun - 军队
 gunren - 军人  
 gute - 膝  
 guypapil - 鬼罂粟 (東方罌粟)  
-##h
+####H - H  
 habar - 消息  
 haha - 笑  
 hake - 权利  
@@ -347,7 +345,7 @@ hul - 狐狸
 huri - 自由的  
 huria - 自由  
 huydarte - 灰化土  
-##i
+####I - I  
 iki - 的  
 indosida - 蹲  
 insan - 人类  
@@ -356,7 +354,7 @@ insanistia - 人文主义
 itis - 炎症  
 ive - 趋势  
 izia da akses - 無障礙環境  
-##j
+####J - J  
 janel - 窗戶  
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
@@ -377,7 +375,10 @@ jung - 中心
 Jungogia - 中国  
 Jupiter - 木星  
 jus - 汁  
-##k
+####K - K  
+ke - 什么  
+ko - 比  
+ko? - 怎么  
 kaboge - 南瓜  
 kade - 鱈  
 kafe' - 咖啡  
@@ -408,6 +409,7 @@ kansuygas - 催泪瓦斯
 kantalupomelon - 鈔皮瓜  
 kapotruke - 陷阱  
 kar - 工作  
+karokan - 工厂  
 kara - 工作  
 karbondulokside - 二氧化碳  
 karchof - 菜蓟  
@@ -417,7 +419,6 @@ kardonkarchof - 刺苞菜蓟
 karer - 工人 (工作者)  
 karloge - 动词  
 karmisa - 提交  
-karokan - 工厂  
 karote - 红萝卜  
 karsi - 粗糙  
 karsolimon - 箭叶橙  
@@ -427,7 +428,6 @@ katoglutobanze - 剪贴板
 katus - 仙人掌  
 kava - 挖  
 kave - 坑 (穴)  
-ke - 什么  
 kechi - 客气  
 kenar - 边  
 kenarbaryer - 篱笆  
@@ -439,23 +439,21 @@ kimlojia - 化学
 kina - 动  
 kinu - 动  
 kita - 除去  
+kitu - 去  
 kitaba - 写  
 kitabokan - 图书馆  
 kitabomashin - 打字机  
-kitu - 去  
 kiwi' - 奇异果  
 klien - 顾客  
 klimomute - 气候变化  
-ko - 比  
-ko? - 怎么  
 komputer - 计算机  
+kono - 共同 (一起)  
+konkara - 合作  
+kontrate - 公約  
 koncerte - 音乐会  
 konchung - 昆虫  
 konfusi - 困惑 (混乱)  
-konkara - 合作  
-kono - 共同 (一起)  
 kontini - 指针式的  
-kontrate - 公約  
 kope - 摹本 (拷貝)  
 kora - 跑步  
 koral - 珊瑚  
@@ -477,7 +475,7 @@ kuarce - 石英
 kube - 立方体  
 kupe - 杯子  
 kushu - 躺  
-##l
+####L - L  
 lage - 湖  
 lalbawsheke - 红宝石  
 lali - 红  
@@ -533,15 +531,15 @@ longoduro - 久
 longopipre - 荜拔  
 lontre - 獭  
 lova - 爱  
-lover - 恋人 (情人, 爱人)  
 lovi - 亲爱的  
+lover - 恋人 (情人, 爱人)  
 lugi - 绿色  
 lung - 龙  
 luta - 掠夺  
 luter - 强盗  
 luza - 输  
 luza tena - 亏损 (失去)  
-##m
+####M - M  
 magesem - 镁  
 Magribe - 摩洛哥  
 maidan - 广场  
@@ -602,8 +600,8 @@ molia - 磨坊
 molsheke - 磨石  
 mome - 我们  
 moni - 唯一  
-monloge - 独白  
 mono - 只有 (惟独)  
+monloge - 独白  
 mos - 苔藓  
 mosim - 季  
 mul - 根  
@@ -612,7 +610,7 @@ mumomelon - 冬瓜 (白瓜)
 mur - 墙壁  
 murkaguje - 壁纸 (墙纸)  
 muskulbin - 健美运动  
-##n
+####N - N  
 nade - 河 (江)  
 najis - 污染物  
 najisa - 污染  
@@ -641,21 +639,21 @@ nostalgia - 怀旧
 note - 便条  
 novi - 新  
 novike - 新手  
+####O - O  
 o - 或  
-##o
 oke - 眼睛  
 okside - 氧化物  
 onde - 波浪  
 or - 耳  
+oritis - 耳炎  
 oranje - 橙子  
 oranji - 橙色  
-oritis - 耳炎  
 orkide - 兰花  
 orti - 直  
 oselote - 虎貓  
 osidian - 黑曜岩  
 ostojamia - 骨骼  
-##p
+####P - P  
 pa - 到  
 pace - 和平  
 paciste - 和平主义者  
@@ -705,8 +703,8 @@ porte - 港
 pote - 坭  
 problem - 问题 (难题)  
 program - 计划  
-puding - 布丁  
 pudu - 腐烂  
+puding - 布丁  
 pujokan - 寺庙  
 pujomeze - 圣坛  
 pul - 桥  
@@ -714,7 +712,8 @@ puma' - 美洲獅 (山狮)
 purshipa - 浸泡  
 putawlimon - 葡萄柚  
 putongi - 普通  
-##r
+####Q - Q  
+####R - R  
 rangarkosamon - 虹鱒  
 rangomate - 染料  
 rapidi - 快  
@@ -738,7 +737,7 @@ rototafun - 飓风 (台风)
 roze - 玫瑰  
 rozosamon - 粉紅鮭  
 rupoboni - 好看  
-##s
+####S - S  
 sa linye - 在线  
 sabun - 肥皂  
 safar - 旅行  
@@ -831,7 +830,7 @@ suygas - 蒸汽
 suykaboge - 葫芦  
 suyminte - 水薄荷  
 suynide - 口渴  
-##t
+####T - T  
 tail - 砖 (瓦)  
 taksometer - 计程器  
 tali moke - 灌木  
@@ -868,13 +867,13 @@ tote - 你们
 trate - 合同 (合约)  
 truka - 耍花招  
 truke - 伎俩  
-##u
+####U - U  
 umami - 鲜味  
 umur - 年岁  
 un (uni) - 一 (1)  
 unmaro - 一次 (一遍)  
 ura - 好哇  
-##v
+####V - V  
 vade - 山谷  
 vadosusan - 鈴蘭  
 vagin - 阴道  
@@ -891,6 +890,8 @@ vejete - 蔬菜
 vejetyamiste - 素食主义者  
 venda - 卖  
 vendoshope - 贸易  
+aventur - 冒险  
+aventurer - 冒险者  
 vespe - 蜂  
 vida - 看  
 vidove - 寡妇  
@@ -899,7 +900,7 @@ vode - 诺言
 volu - 想要 (愿意)  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
-##w
+####W - W  
 wan - 娱乐  
 wanu - 玩耍  
 washurse - 浣熊  
@@ -910,8 +911,8 @@ wena - 问
 Wenjou - 温州  
 wenjoworanje - 温州蜜柑  
 wijin - 味精  
-##x
-##y
+####X - X  
+####Y - Y  
 yamnide - 饥饿  
 yatimdom - 孤儿院  
 yesho - 还 (依然)  
@@ -920,7 +921,7 @@ yongopetre - 熔岩
 yongosaha - 熔炼  
 yongu - 融化  
 yuke - 玉  
-##z
+####Z - Z  
 zebre - 斑马  
 zemforme - 地势  
 zemgraf - 地图  

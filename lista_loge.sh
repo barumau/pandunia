@@ -3,9 +3,8 @@ fata_liste_pandunia_X() {
     cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unordi linye
     sed -i '1d' $2/pandunia-$2.md
-    # alfebete
-    cat temp/abace.txt $2/pandunia-$2.md | LC_ALL=C sort -f > temp/temp.txt
-    sed 's/.00/##/g' temp/temp.txt > $2/pandunia-$2.md
+    # alfobeta
+    sed -i 's/[A-Z] - .*$/####&/' $2/pandunia-$2.md
     #Add header
     sed -i "1s/^/# pandunia-$2\n/" $2/pandunia-$2.md
     #Delete empty translations
@@ -18,8 +17,8 @@ fata_liste_X_pandunia() {
     #morta unordi linye
     sed -i '1d' $2/$2-pandunia.md
     # alfobeta
-    cat temp/abace.txt $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
-    sed 's/.00/##/g' temp/temp.txt > $2/$2-pandunia.md
+    cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
+    cat temp/temp.txt | sed 's/[A-Z] - .*$/####&/' > $2/$2-pandunia.md
     #Add header
     sed -i "1s/^/# $2-pandunia\n/" $2/$2-pandunia.md
     #Delete empty translations

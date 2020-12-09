@@ -1,8 +1,8 @@
 # engli-pandunia
 -ic (a person or thing with specific character) - iki  
 @ symbol - adresoharfe (@)  
+####A - A  
 a couple of - duli o tini  
-##a
 abattoir (slaughterhouse) - buchokan  
 ability (skill) - able  
 Abkhazia - Aphazia  
@@ -226,7 +226,7 @@ axe (hatchet) - futaw
 axis (axle) - akse  
 Azerbaijan - Azeria  
 azure bluet - nilceramshing  
-##b
+####B - B  
 babul tree (thorny acacia) - arabobabul  
 baby (infant) - bebe  
 back - ruke  
@@ -478,7 +478,7 @@ butterfly - pelpel
 buttocks (bum, butt, ass) - pige  
 buy (purchase) - shopa  
 buyer - shoper  
-##c
+####C - C  
 cabin (booth) - kabin  
 cable (wire, line) - eletrolinye  
 Cabo Verde (Cape Verde) - Kabu Verde  
@@ -837,7 +837,7 @@ Cyrillic alphabet - kirili abace
 cytology - celolojia  
 Czech Republic - Chehia  
 Côte d’Ivoire (Ivory Coast) - Kotedivuar  
-##d
+####D - D  
 dagger - kanjar  
 daimyo oak - dantobalute  
 daisy - margarite  
@@ -995,7 +995,7 @@ dust (powder) - fun
 dye - rangomate  
 dynamite - dinamite  
 dysprosium - disprosem  
-##e
+####E - E  
 each other (one another, mutually) - unal  
 ear - or  
 earlier (before) - cheno  
@@ -1118,7 +1118,7 @@ export - waymisa
 eye (look, watch) - oka  
 eye - oke  
 eyelash - okokesh  
-##f
+####F - F  
 face - muke  
 face powder - mukofun  
 factory - fateria  
@@ -1274,7 +1274,7 @@ funnel - liwkope
 funny (amusing) - wani  
 fusion (amalgamation) - liwunis  
 future time - wil  
-##g
+####G - G  
 Gabon - Gabon  
 gadolinium - gadolinem  
 galaxy - galaksia  
@@ -1416,7 +1416,7 @@ gun (firearm) - paw
 gunpowder - barude  
 guru (teacher) - guru'  
 Guyana - Gayana  
-##h
+####H - H  
 habit (custom) - ade  
 hafnium - hafnem  
 hair - kesh  
@@ -1535,7 +1535,7 @@ hummus - humusosos
 humor - yumor  
 humorist - yumoriste  
 humorous (comical, funny) - yumori  
-hundred (##) - honi  
+hundred (100) - honi  
 Hungary - Madyar  
 hunger - yamnide  
 hunt (fish) - saida  
@@ -1550,7 +1550,7 @@ hydrogen - hidre
 hygiene (cleanliness) - hijenia  
 Hyperion - Hiperion  
 I (me) - me  
-##i
+####I - I  
 Iapetus - Yapetus  
 ice - ais  
 ice cream - aiskrem  
@@ -1633,7 +1633,7 @@ ism (doctrine, ideology, religion, etc) - istia
 Israel - Israel  
 issue (affair, concern) - masle  
 Italy - Italia  
-##j
+####J - J  
 jackal - shakal  
 jacket - jake  
 jade - yuke  
@@ -1675,7 +1675,7 @@ just (exactly, precisely) - justo
 just (fair, righteous) - adali  
 just (recently) - novo  
 justice - adalia  
-##k
+####K - K  
 kangaroo - kangaru  
 Kannada - karnadi  
 karaoke - karaoke  
@@ -1729,7 +1729,7 @@ krypton - kriton
 kumquat - auroranje  
 Kuwait - Kuwaitia  
 Kyrgyzstan - Kirgizia  
-##l
+####L - L  
 lacquer (varnish) - lake  
 Lagos - Lagos  
 Lagos - legos  
@@ -1883,7 +1883,7 @@ Luxembourg - Luksemburge
 lychee (litchi) - lichi'  
 lymph - linfe  
 lynx - lince  
-##m
+####M - M  
 Macao - Makaw  
 machine - mashin  
 mad (insane, crazy) - foli  
@@ -2012,7 +2012,7 @@ message - anjil
 messenger - anjiler  
 messianic - kristi  
 metal - metal  
-meter (## cm) - mitre  
+meter (100 cm) - mitre  
 method (means) - metode  
 Mexico - Mehiko  
 Mexico City - Mehiko cite  
@@ -2136,7 +2136,7 @@ my - mi
 Myanmar (Burma) - Mianma  
 mycelium - fungonete  
 myth (divine story) - dewsage  
-##n
+####N - N  
 Nahuatl (Nahua) - nawati  
 nail (fingernail) - nahun  
 nail (spike) - ding  
@@ -2244,7 +2244,7 @@ nudist - nudiste
 number (abundance) - multia  
 number - nombre  
 nylon - nilon  
-##o
+####O - O  
 oak tree - balute  
 oasis - was  
 Oberon - Oberon  
@@ -2339,7 +2339,7 @@ owner (proprietor) - malker
 oxeye daisy - bakomargarite  
 oxide - okside  
 oxygen - okse  
-##p
+####P - P  
 Pacific cod - pacokade  
 Pacific Ocean - Paci Hay  
 pacifism - pacistia  
@@ -2640,6 +2640,7 @@ put (place, set) - loka
 put forward (advance, progress) - jina  
 pyramid - piram  
 pyrolatry - hogopujia  
+####Q - Q  
 Qatar - Katar  
 qualify (describe) - sifa  
 quark (paneer) - panir  
@@ -2649,7 +2650,7 @@ question - wen
 quotation mark - citi marke  
 quote (cite) - cita  
 Quran (Koran) - kuran  
-##r
+####R - R  
 rabbit (hare) - tuze  
 raccoon - washurse  
 race (breed) - ras  
@@ -2818,7 +2819,7 @@ ruthenium - rutenem
 rutherfordium - ruterfordem  
 Rwanda - Ruanda  
 Réunion - Reunion  
-##s
+####S - S  
 Sabbath - sabate  
 sad - duki  
 sadden (make sad) - duka  
@@ -3213,7 +3214,7 @@ Syria - Suria
 syrup - shirope  
 system - sistem  
 systemic - sistemi  
-##t
+####T - T  
 table (matrix) - table  
 table - meze  
 table of contents (inventory) - tenliste  
@@ -3439,7 +3440,7 @@ type (kind, genre) - tipe
 typewriter - kitabomashin  
 tyranny - tirania  
 tyrant - tiran  
-##u
+####U - U  
 Uganda - Ganda  
 ugly - malrupi  
 Ukraine - Ukraina  
@@ -3484,7 +3485,7 @@ useful (beneficial) - faidi
 user - uzer  
 username - uzernam  
 Uzbekistan - Uzbekia  
-##v
+####V - V  
 vaccine - vaksin  
 vacuum cleaner - funchuper  
 vagina - vagin  
@@ -3524,7 +3525,7 @@ village - ruste
 vine - eskaltan  
 vinegar - sirke  
 vinyl - vinil  
-Virgin Islands, US - Usameriki Virjin nesia  
+Virgin Islands, U####S - Usameriki Virjin nesia  
 virology - viruslojia  
 virtue (morals) - bondarme  
 virtuous - bondarmi  
@@ -3544,7 +3545,7 @@ vote (ballot) - vote
 vote (cast a vote) - vota  
 vowel - jungofon  
 vulva - vulve  
-##w
+####W - W  
 wait - denga  
 wake (make awake) - weka  
 Wales (Cambria) - Kamria  
@@ -3560,7 +3561,7 @@ wart - zeyil
 wash - washa  
 washing machine - washmashin  
 Washington D.C. - Washington DC  
-Washington DC - Washington  
+Washington D####C - Washington  
 water - suy  
 water buffalo - kabaw  
 water lily (nenuphar) - nenufar  
@@ -3656,9 +3657,9 @@ wrapping (envelope, covering) - lifaf
 write - kitaba  
 writing (text) - kitabe  
 wrong (incorrect, erroneous, faulty) - galti  
-##x
+####X - X  
 xenon - xenon  
-##y
+####Y - Y  
 yak - yake  
 yay! (yeah!) - yey  
 year - nen  
@@ -3680,7 +3681,7 @@ youth (young age) - jovania
 youth (young person) - jovan  
 ytterbium - yuterbem  
 yttrium - yutrem  
-##z
+####Z - Z  
 Zambia - Zambia  
 zebra - zebre  
 zero (none) - nol (noli)  

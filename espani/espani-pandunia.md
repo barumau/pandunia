@@ -1,6 +1,6 @@
 # espani-pandunia
 a (hacia) - pa  
-##a
+####A - A  
 abedul - berje  
 abeja - melvespe  
 abeja o avispa - vespe  
@@ -293,7 +293,7 @@ azufre - sulfe
 azul - nili  
 azúcar - shukar  
 año - nen  
-##b
+####B - B  
 babor - botolefte  
 bacalao - kade  
 bacalao común - atlantokade  
@@ -439,7 +439,7 @@ básico - bazi
 béisbol - bazobol  
 Bélgica - Belgia  
 búbalo (arni) - kabaw  
-##c
+####C - C  
 caballo - gude  
 cabaña - kabin  
 cabeza - sar  
@@ -627,7 +627,7 @@ chupar (succionar) - chupa
 cian - ciani  
 ciclista - cikliste  
 cielo - saman  
-cien (##) - honi  
+cien (100) - honi  
 ciencia (estudia, investigación) - lojia  
 ciencia política - politikolojia  
 cigarro - sigar  
@@ -893,7 +893,7 @@ cómo? (eh?) - he
 cómodo (lujoso) - hushi  
 cósmico - kosmi  
 cúpula - kupe  
-##d
+####D - D  
 dado - dade  
 damas - damogem  
 dar - dona  
@@ -1057,7 +1057,7 @@ día de la semana - var
 día de San Juan - yohani feste  
 día festivo (feriado) - festoden  
 dónde - sa ke  
-##e
+####E - E  
 eco - mirsonde  
 ecología - ekolojia  
 econtrar (hallar) - eureka  
@@ -1262,7 +1262,7 @@ expulsar - waya
 exterior - wayi  
 extranjero - waydeshi  
 exónimo - waynam  
-##f
+####F - F  
 facilidad - izia  
 falda - jupe  
 falla (mal funcionamiento) - malfunce  
@@ -1363,7 +1363,7 @@ física nuclear - kerni fizikia
 físico (científico) - fiziker  
 fósforo - pospor  
 fútbol - futobol  
-##g
+####G - G  
 Gabón - Gabon  
 gacela - gazel  
 gadolinio - gadolinem  
@@ -1423,7 +1423,7 @@ global (de todo el mundo) - panduni
 global (mundial) - duni  
 globo - balon  
 gluten - gluten  
-GMS - wijin  
+GM####S - wijin  
 gobernante (soberano) - sultaner  
 gobernar - governa  
 gobierno - governe  
@@ -1484,7 +1484,7 @@ guía - gider
 guía de viaje - gidobuke  
 género gramatical - bashi jinse  
 género social - soci jinse  
-##h
+####H - H  
 haber (en el pasado) - paso  
 habilidad - able  
 habitación (cuarto, sala, pieza) - kamar  
@@ -1593,7 +1593,7 @@ huérfano - yatim
 hábil - shuti  
 héroe - vir  
 híbrido (mestizo) - hibride  
-##i
+####I - I  
 idea (noción, concepto) - idey  
 idea (pensamiento, reflexión) - fikre  
 ideograma - ideygraf  
@@ -1708,7 +1708,7 @@ iterbio - yuterbem
 itrio - yutrem  
 izquerdista - leftiste  
 izquierdo - lefti  
-##j
+####J - J  
 jabón - sabun  
 jade - yuke  
 jainismo - jeinistia  
@@ -1752,7 +1752,7 @@ justo (exactamente) - justo
 justo - adali  
 juventud - jovania  
 juzgar (considerar) - hakima  
-##k
+####K - K  
 karaoke - karaoke  
 karate - karate  
 karité - karite  
@@ -1771,7 +1771,7 @@ Kosovo - Kosovo
 kumquat (quinoto) - auroranje  
 Kuwait - Kuwaitia  
 kétchup - kechape  
-##l
+####L - L  
 labio - labe  
 laca - lake  
 lado (flanco) - late  
@@ -1906,7 +1906,7 @@ límite (frontera, linde) - limite
 líquido (fluido) - liwmati  
 líquido - liwmate  
 lógica - logike  
-##m
+####M - M  
 Macao - Makaw  
 Macedonia del Norte - Nordi Makedonia  
 macrial (militar) - jengi  
@@ -2176,7 +2176,7 @@ Mónaco - Monako
 músculo - muskul  
 música - musike  
 músico - musiker  
-##n
+####N - N  
 nacer - jenu  
 nacimiento (origen) - jen  
 nacional - nasi  
@@ -2277,8 +2277,8 @@ número (muchedumbre) - multia
 número - nombre  
 número de identificación personal - sekurnombre  
 número par - pari nombre  
+####O - O  
 o - o  
-##o
 oasis - was  
 objetivo - dike  
 objeto (artículo) - vute  
@@ -2351,7 +2351,7 @@ otro - ali
 oveja - mehe  
 oxígeno - okse  
 oír (escuchar) - auda  
-##p
+####P - P  
 paciente - patike  
 pacifismo - pacistia  
 pacifista - paciste  
@@ -2695,6 +2695,7 @@ pícea - pis
 pólvora - barude  
 póquer - poke  
 público - demi  
+####Q - Q  
 qualquier - eni  
 que (como) - ko  
 quedarse - restu  
@@ -2716,7 +2717,7 @@ qué - ke
 qué tipo de - ki yangi  
 química - kimlojia  
 químico - kimi  
-##r
+####R - R  
 racismo - rasistia  
 racista - rasiste  
 ración (dosis) - doze  
@@ -2877,7 +2878,7 @@ rábano - lobake
 rápido - rapidi  
 réservation - rezerve  
 rígido (sólido) - gatomati  
-##s
+####S - S  
 sabana - savan  
 sabbat - sabate  
 saber (conocer) - sava  
@@ -3056,8 +3057,8 @@ sufijo para adjetivos - -i
 sufijo para adverbios - -o  
 sufijo para regiónes y sustantivos abstractos - -ia  
 sufijo para sustantivos - -e  
-sufijo para verbos con el orden de las palabras OVS - -u  
-sufijo para verbos con el orden de las palabras SVO - -a  
+sufijo para verbos con el orden de las palabras OV####S - -u  
+sufijo para verbos con el orden de las palabras SV####O - -a  
 sufragio (derecho al voto) - votohake  
 sufrimiento (dolor) - pashia  
 sufrir (verbo pasivo) - beyu  
@@ -3085,7 +3086,7 @@ sábado - var 6 (var sisi)
 sándwich (sánduche) - sanduiche  
 sí - si  
 sólido - gatomate  
-##t
+####T - T  
 tabaco - tabake  
 tabla (losa) - banze  
 tabla - table  
@@ -3277,7 +3278,7 @@ tú (usted) - te
 túnel - tunel  
 Túnez - Tunisia  
 túnica - tunike  
-##u
+####U - U  
 Ucrania - Ukraina  
 Uganda - Ganda  
 una vez - unmaro  
@@ -3303,7 +3304,7 @@ utuo (recíproco) - unali
 uva - putaw  
 Uzbekistán - Uzbekia  
 uña - nahun  
-##v
+####V - V  
 vaca (toro) - muhe  
 vacuna - vaksin  
 vacío (desocupado) - kali  
@@ -3404,13 +3405,13 @@ vuelta - retre
 vulva - vulve  
 válvula (llave, canilla) - kran  
 vía férrea - trendaw  
-##w
+####W - W  
 Wallis y Futuna - Walis e Futuna nesia  
 wiki - wikia  
-##x
+####X - X  
 xenón - xenon  
 y - e  
-##y
+####Y - Y  
 ya (acción completado) - lewo  
 yac - yake  
 Yemen - yemenia  
@@ -3423,7 +3424,7 @@ yuca (mandioca) - manioke
 yudo - judaw  
 yunque - metalbede  
 yupi - yey  
-##z
+####Z - Z  
 Zambia - Zambia  
 zanahoria - karote  
 zapatero - sapater  

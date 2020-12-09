@@ -4,7 +4,7 @@
 -i (-igi) - -a  
 -i (-iĝi) - -u  
 -o (-aĵo) - -e  
-##a
+####A - A  
 abelo aŭ vespo - vespe  
 aborigeno - aslaustrali  
 abrikoto - barkoke  
@@ -125,7 +125,7 @@ aŭdi (aŭskulti) - auda
 Aŭstralio - Australia  
 aŭto (ĉaro) - gar  
 aŭtuno - oton  
-##b
+####B - B  
 babilejo - blableria  
 babili - blabla  
 babordo - botolefte  
@@ -236,7 +236,7 @@ buĉi - bucha
 buĉisto - bucher  
 buĝeto - bujete  
 buŝo - boke  
-##c
+####C - C  
 celi - dika  
 celo - dike  
 cent - honi  
@@ -253,7 +253,7 @@ cezio - cesem
 citi - cita  
 citologio - celolojia  
 citrono - limon  
-##d
+####D - D  
 damaĝa - damajani  
 damaĝo - damaje  
 danco - dance  
@@ -324,7 +324,7 @@ dubnio - dubnem
 dubo - dute  
 dulingva - dulbashi  
 duŝo - dush  
-##e
+####E - E  
 ebla - abli  
 eble - ablo  
 eco - bonsif  
@@ -393,7 +393,7 @@ Eŭropa - europi
 Eŭropa Unio (EU) - europi unisia  
 eŭropio - europem  
 Eŭropo - europe  
-##f
+####F - F  
 fabo aŭ pizo - dow  
 fabrikisto - fater  
 fabriko - fateria  
@@ -490,7 +490,7 @@ furo - furete
 furzo - pede  
 fusilo - paw  
 fuĝi - bega  
-##g
+####G - G  
 gadolinio - gadolinem  
 galaksio - galaksia  
 galerio (ekspozicio) - galeria  
@@ -543,7 +543,7 @@ gusto - guste
 gustumi - gusta  
 Gvatemalo - Guatemala  
 gvidi - gida  
-##h
+####H - H  
 hafnio - hafnem  
 Haitio - Haiti  
 halo - fotocirke  
@@ -605,7 +605,7 @@ humana - insaniki
 humura - yumori  
 humuristo - yumoriste  
 humuro - yumor  
-##i
+####I - I  
 iam - koy sate  
 ideo - idey  
 ido (infano) - pute  
@@ -648,7 +648,7 @@ itrio - yutrem
 iu - koy (koyi)  
 iu ajn - eni  
 iu persono - koy ren  
-##j
+####J - J  
 jado - yuke  
 jako - jake  
 jam (esti farita) - lewo  
@@ -671,7 +671,7 @@ justeco - adalia
 juvelo - bawsheke  
 juĝisto - hakimer  
 juĝo - hakim  
-##k
+####K - K  
 kadmio - kadem  
 kadro - frem  
 kafejo - kafekan  
@@ -848,7 +848,7 @@ kutimo - ade
 kuŝi - kushu  
 kvar (4) - chari  
 kvin (5) - limi  
-##l
+####L - L  
 laborejo - karokan  
 laboristo - karer  
 laboro - kar  
@@ -911,7 +911,7 @@ luno - lun
 luno - var 1 (var uni)  
 lupo - wolfe  
 lutecio - lutetem  
-##m
+####M - M  
 magio - magia  
 magnezio - magesem  
 majao - mayan  
@@ -1055,7 +1055,7 @@ muso - mush
 muzikisto - musiker  
 muziko - musike  
 muŝo - zeze  
-##n
+####N - N  
 nadlo (pinglo) - pin  
 najlo - ding  
 najtingalo - bulbul  
@@ -1106,7 +1106,7 @@ novulo - novike
 nudelo - mien  
 nuno - zay  
 nur - mono  
-##o
+####O - O  
 oazo - was  
 obrelo - barshochate  
 Oceanio - Oceania  
@@ -1143,7 +1143,7 @@ osmozo - osme
 osto - oste  
 otito - oritis  
 ovo - ande  
-##p
+####P - P  
 paciento - patike  
 pacifismo - pacistia  
 pacifisto - paciste  
@@ -1285,7 +1285,8 @@ punkto - punte
 pura - safi  
 purigi - safa  
 purigisto - safer  
-##r
+####Q - Q  
+####R - R  
 rabi - luta  
 rabisto - luter  
 racismo - rasistia  
@@ -1360,7 +1361,7 @@ rutenio - rutenem
 ruterfordio - ruterfordem  
 rutino (kutimo) - rutin  
 ruĝa - lali  
-##s
+####S - S  
 sabato - var 6 (var sisi)  
 sablo - rege  
 safrano - safran  
@@ -1484,7 +1485,7 @@ suĉi - chupa
 suŝio - sushi'  
 svastiko - hukokrus  
 sŭahili - suahili  
-##t
+####T - T  
 tabako - tabake  
 tabelo - table  
 tablo - meze  
@@ -1577,7 +1578,7 @@ turo - minar
 tuso - kos  
 tuttera - panduni  
 tuŝi - tocha  
-##u
+####U - U  
 uniono - unisia  
 unu (1) - un (uni)  
 unu la alian (reciproke) - unal  
@@ -1594,7 +1595,7 @@ urso - urse
 utila - faidi  
 utileco - faidia  
 uzi - uza  
-##v
+####V - V  
 vaginito - vaginitis  
 vagino - vagin  
 valo - vade  
@@ -1666,15 +1667,15 @@ vorto (parolo) - loge
 vosto - dum  
 vulpo - hul  
 vulvo - vulve  
-##w
-##x
-##y
+####W - W  
+####X - X  
+####Y - Y  
 ydinase - kerni arme  
 ydinenergia - kerni energe  
 ydinfissio - kerni fenia  
 ydinfuusio - kerni liwunisia  
 ydinfysiikka - kerni fizikia  
-##z
+####Z - Z  
 Zambio - Zambia  
 zebro - zebre  
 zingibro - zinje  

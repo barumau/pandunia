@@ -1,5 +1,5 @@
 # fransi-pandunia
-##a
+####A - A  
 abattoir - buchokan  
 abattre - bucha  
 abeille ou guêpe - vespe  
@@ -116,7 +116,7 @@ avoir tendance à - iva
 axe - akse  
 aéroport - airporte  
 aïe! - ay  
-##b
+####B - B  
 babord - botolefte  
 backgammon - narde  
 bagage - bagaje  
@@ -188,7 +188,7 @@ but (destination) - gol
 bâton (canne, tige) - baton  
 bébé - bebe  
 bûche - mokotan  
-##c
+####C - C  
 cacher - sira  
 cactus - katus  
 cadre - frem  
@@ -335,7 +335,7 @@ cytologie - celolojia
 célérité - siri mote  
 côte - haytate  
 côté - late  
-##d
+####D - D  
 dance - dance  
 dandélion - makanful  
 danger - hatre  
@@ -376,7 +376,7 @@ dynamite - dinamite
 décapé (mariné) - sirkopurshipi  
 déchirer - chir  
 déchirer - chira  
-##e
+####E - E  
 east (orient) - dong  
 eau - suy  
 effet - rezulte  
@@ -401,7 +401,7 @@ Europe - europe
 européen - europi  
 exact (précis) - justi  
 explosion - bum  
-##f
+####F - F  
 face (facette) - fas  
 faible - debili  
 faible - mirdi  
@@ -441,7 +441,7 @@ francophonie - Francofonia
 fromage - chize  
 fromage blanc - panir  
 féliciter - barka  
-##g
+####G - G  
 galaxie - galaksia  
 Gaule - Galia  
 gaz - gas  
@@ -473,7 +473,7 @@ généreux - karimi
 générosité (charité) - karimia  
 géologie - zemlojia  
 géométrie - zemmetria  
-##h
+####H - H  
 habiller (vêtir) - fuka  
 hameçon - fishohuke  
 haut - gaw  
@@ -497,7 +497,7 @@ hygiène - hijenia
 hélicoptère - helisviman  
 hétérosexuel - alseksi  
 hôtel - hotel  
-##i
+####I - I  
 imperméable - barshokote  
 important - hami  
 infidèle (incroyant) - andiniste  
@@ -506,7 +506,7 @@ insecte - konchung
 international - nasmedi  
 interracial - rasmedi  
 ironie - ironia  
-##j
+####J - J  
 jade - yuke  
 Japon - Nipon  
 jaïnisme - jeinistia  
@@ -519,13 +519,13 @@ jusque (jusqu’à) - hata
 juste - adali  
 justice - adalia  
 Jésus - Yesu  
-##k
+####K - K  
 kangourou - kangaru  
 Khartoum - Khartum  
 Kinshasa - Kinshasa  
 kiwi - kiwi'  
 kumquat - auroranje  
-##l
+####L - L  
 lac - lage  
 laine - mehi kesh  
 laisser - lasha  
@@ -574,7 +574,7 @@ lutte - jihade
 lynx - lince  
 lys - susan  
 léger - legi  
-##m
+####M - M  
 machine à écrire - kitabomashin  
 magma - pastopetre  
 magnésium - magesem  
@@ -647,7 +647,7 @@ mètre - mitre
 méduse - hayjel  
 mémoire - mem  
 méninge - mening  
-##n
+####N - N  
 nagar (flotter) - boyu  
 nation - nasia  
 nausée - retroguli sense  
@@ -673,7 +673,7 @@ nuage - mege
 nécessaire - nidan  
 nécessiteux (dans le besoin) - nidi  
 néophyte - novike  
-##o
+####O - O  
 objectif (cible) - dike  
 objet (article) - vute  
 oblique (de travers) - terchi  
@@ -711,7 +711,7 @@ oui - si
 ours - urse  
 oxyde - okside  
 où - sa ke  
-##p
+####P - P  
 pacifiste - paciste  
 page - warkolate  
 pain - pang  
@@ -825,6 +825,7 @@ pâquerette - englomargarite
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - fishosaider  
+####Q - Q  
 quand - ki sate  
 quartz - kuarce  
 quatre (4) - chari  
@@ -832,7 +833,7 @@ que (comme) - ko
 que (quoi) - ke  
 question - wen  
 qui - ki ren  
-##r
+####R - R  
 race - ras  
 racine - mul  
 rare - rari  
@@ -870,8 +871,8 @@ répéter - reya
 répétition - rey  
 rêche (rugueux, gros) - karsi  
 rôtir - rosta  
+####S - S  
 s'installer (déménager) - migru  
-##s
 sac - sake  
 sain - sihi  
 saison - mosim  
@@ -930,8 +931,8 @@ sueur - suede
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour l'adverbe - -o  
-suffixe pour les verbes avec ordre des mots OVS - -u  
-suffixe pour les verbes avec ordre des mots SVO - -a  
+suffixe pour les verbes avec ordre des mots OV####S - -u  
+suffixe pour les verbes avec ordre des mots SV####O - -a  
 sujet (thème) - tem  
 svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
@@ -942,7 +943,7 @@ sûr - sekuri
 sûrement - ameno  
 s’accroupir - indosida  
 s’habiller - fuku  
-##t
+####T - T  
 table - meze  
 tablette de chocolat - chokolatobaton  
 tarte - pay  
@@ -994,14 +995,14 @@ télécharger - netogeta
 téléphone - telfon  
 téléviseur - telvide  
 tête - sar  
-##u
+####U - U  
 un (1) - un (uni)  
 une fois - unmaro  
 unique - uniki  
 uniquement - uniko  
 uranium - uranem  
 Uranus - Uran  
-##v
+####V - V  
 vagine - vagin  
 vaginite - vaginitis  
 valeur - val  
@@ -1050,11 +1051,11 @@ végétarien - vejetyamiste
 Vénus - Venus  
 vêtements - fuke  
 vœu (promesse) - vode  
-##w
+####W - W  
 wolof - Wolof  
-##x
-##y
-##z
+####X - X  
+####Y - Y  
+####Z - Z  
 zombi - zombe  
 zone - zon  
 zoo - hewanparke  

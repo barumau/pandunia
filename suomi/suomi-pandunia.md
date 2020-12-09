@@ -1,7 +1,7 @@
 # suomi-pandunia
 -llinen (kantasanalle ominaispiirteinen) - iki  
 -n (oma) - du  
-##a
+####A - A  
 aakkoset (ABC) - harfia  
 aalto (laine) - onde  
 aamiainen - subyam  
@@ -180,7 +180,7 @@ avata lukko - ansora
 avioliitto - gamia  
 avokado - awakate  
 Azerbaidžan - Azeria  
-##b
+####B - B  
 baari (kapakka) - bar  
 baari (kapakka) - birkan  
 backgammon - narde  
@@ -237,7 +237,7 @@ budjetti - bujete
 Bulgaria - Bolgaria  
 Burkina Faso - Burkina  
 Burundi - Rundi  
-##c
+####C - C  
 Cabo Verde - Kabu Verde  
 Cayman-saaret - Keiman nesia  
 celsiusaste - celsius darje  
@@ -252,7 +252,7 @@ cola - kol
 Cookin saaret - Kuke nesia  
 Costa Rica - Kosta Rika  
 curium - kurem  
-##d
+####D - D  
 darmstadtium - darmositem  
 darwinismi - darwinistia  
 darwinisti - darwiniste  
@@ -277,7 +277,7 @@ dualismi - dulistia
 dubnium - dubnem  
 dynamiitti - dinamite  
 dysprosium - disprosem  
-##e
+####E - E  
 Ecuador - Ekuador  
 edellinen - cheni  
 edellyttää - chenaga  
@@ -388,7 +388,7 @@ Europa-kuu - Europa
 europium - europem  
 evankeliumi(hyvä sana) - evanjil  
 eväsretki (piknik) - wayoyam  
-##f
+####F - F  
 Falklandin saaret - Malvinas nesia  
 fani (-fiili) - filer  
 fasismi - fashistia  
@@ -413,7 +413,7 @@ fuusio (yhteensulautuminen) - liwunis
 fysiikka - fizike  
 fysiikka - fizikia  
 fyysikko - fiziker  
-##g
+####G - G  
 Gabon - Gabon  
 gadolinium - gadolinem  
 galaksi - galaksia  
@@ -454,7 +454,7 @@ Guinea-Bissau - Bisau Ginia
 gujarati (eräs intialainen kieli) - gujarati  
 guru (opettaja) - guru'  
 Guyana - Gayana  
-##h
+####H - H  
 haarukka - forke  
 hafnium - hafnem  
 hahmo (figuuri) - figur  
@@ -649,7 +649,7 @@ hölmö (narri) - bufon
 höylä - rander  
 höylätä - randa  
 höyry (vesihöyry) - suygas  
-##i
+####I - I  
 ideogrammi - ideygraf  
 ihme - ajabe  
 ihmeellinen (ällistyttävä, merkillinen) - ajabi  
@@ -719,7 +719,7 @@ Itä-Timor - Dongi Timor
 itäinen - dongi  
 itämainen lohikäärme - lung  
 Itävalta - Ostria  
-##j
+####J - J  
 ja - e  
 jade - yuke  
 jainalaisuus - jeinistia  
@@ -818,7 +818,7 @@ Jäämeri - Artiki Hay
 jäännös (loput) - reste  
 jäätelö - aiskrem  
 jäätyä - aisu  
-##k
+####K - K  
 kaakao - kakaw  
 kaaos - haos  
 kaappi - almar  
@@ -1249,7 +1249,7 @@ kääriä - rula
 käärme - serpe  
 käärö - rul  
 köynnös - eskaltan  
-##l
+####L - L  
 laadukas (hyvä) - bonsifi  
 laakso - vade  
 laatikko - kapse  
@@ -1426,7 +1426,7 @@ lätty (räiskäle, pannukakku) - krepe
 lääketiede - medikia  
 lääkäri (tohtori) - mediker  
 löytää (keksiä) - eureka  
-##m
+####M - M  
 maa (maaperä) - zem  
 maa (multa) - darte  
 maa (valtio) - desh  
@@ -1667,7 +1667,7 @@ mätä - pudi
 määritellä (luonnehtia) - sifa  
 määrä (päämäärä, kohtalo) - chenamen  
 määrätä - gola  
-##n
+####N - N  
 naamio (maski) - maske  
 naaras - fem  
 nahka (kuori, iho) - pil  
@@ -1764,7 +1764,7 @@ näyttelijä - roler
 näyttää - showa  
 näyttää jltkn - rupu  
 näytös (esitys, show) - show  
-##o
+####O - O  
 odottaa - denga  
 oganesson - oganeson  
 ohjaaja (pilotti, luotsi) - piloter  
@@ -1844,7 +1844,7 @@ ottaa kiinni (napata, kaapata) - kapa
 ottelu (matsi) - meche  
 outo (kummallinen) - bizari  
 ovi (portti, veräjä) - mun  
-##p
+####P - P  
 paahtaa (paistaa) - rosta  
 paahtoleipä - rosti pang  
 paapuuri - botolefte  
@@ -2160,8 +2160,9 @@ pääte: SVO-sanajärjestyksen verbi - -a
 pöly (tomu) - fun  
 pölynimuri - funchuper  
 pöytä - meze  
+####Q - Q  
 Qatar - Katar  
-##r
+####R - R  
 Raamattu - biblia  
 raamatullinen - bibli  
 raastaa - chirchira  
@@ -2279,7 +2280,7 @@ ryöväri (rosvo) - luter
 räjähdys (pamaus) - bum  
 räjähtää - bumu  
 röntgenium - rentogenem  
-##s
+####S - S  
 saaja (vastaanottaja) - geter  
 saapas (buutsi) - bute  
 saari - nes  
@@ -2328,7 +2329,7 @@ sarjakuva - grafsage
 sarvi - korne  
 sarvikuono - kornonos  
 saslik - shishmanse  
-sata (##) - honi  
+sata (100) - honi  
 sata tuhatta - deskili  
 sataa - barshu  
 satakieli - bulbul  
@@ -2570,7 +2571,7 @@ sävel (sävy) - ton
 sää - tenke  
 sääty (kasti) - jenklas  
 söpö (suloinen) - kawayi  
-##t
+####T - T  
 taajuus (tiheys) - changia  
 taas (uudestaan) - reyo  
 taateli - tamar  
@@ -2738,7 +2739,7 @@ toisto - rey
 toivoa - inshala  
 tomaatti - tomate  
 Tonga - Tonga  
-tonni (##0 kg) - megagram  
+tonni (1000 kg) - megagram  
 tontti (maakaistale) - zemtike  
 tori (basaari) - bazar  
 torni - minar  
@@ -2844,7 +2845,7 @@ täällä (tuolla) - sa ye
 törkeä - nindi  
 Tšad - Chade  
 Tšekki - Chehia  
-##u
+####U - U  
 Uganda - Ganda  
 ukkosmyrsky - gromtafun  
 Ukraina - Ukraina  
@@ -2886,7 +2887,7 @@ Uusi-Kaledonia - Novi Kaledonia
 Uusi-Seelanti - Novi Zilande  
 uutinen - habar  
 Uzbekistan - Uzbekia  
-##v
+####V - V  
 vaaka (puntari) - barmetrer  
 vaaleanpunainen - rozorangi  
 vaara - hatre  
@@ -3102,17 +3103,17 @@ väsymys - fatigia
 väsyä - fatigu  
 väärä (epätosi, vale-) - falsi  
 väärä (virheellinen) - galti  
-##w
+####W - W  
 Wales - Kamria  
 walesilainen - kamri  
-Washington DC - Washington  
+Washington D####C - Washington  
 watti - wate  
 wiki - wikia  
 wikikirjoitus - wike  
 wolframi - wolfram  
 wolofin kansa ja kieli - Wolof  
-##x
-##y
+####X - X  
+####Y - Y  
 ydin (sydän) - kerne  
 yhdeksän - navi  
 yhdessä - kono  
@@ -3160,7 +3161,7 @@ ytterbium - yuterbem
 yttrium - yutrem  
 yö - noche  
 yömoodi - nochomode  
-##z
+####Z - Z  
 Zarathustra - Zardush  
 zarathustralainen - zardushiste  
 zarathustralaisuus - zardushistia  

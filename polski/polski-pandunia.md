@@ -1,6 +1,6 @@
 # polski-pandunia
 -owy (-ny, okazujący cechę) - iki  
-##a
+####A - A  
 Abchazja - Aphazia  
 Abchazja - Arcahia  
 Abisynia - Habashia  
@@ -118,7 +118,7 @@ Azja - asia
 azjatycki - asi  
 azot - nitre  
 aż do - hata  
-##b
+####B - B  
 babcia (babka) - lawmam  
 badać, studiować - loja  
 bagaż - bagaje  
@@ -279,7 +279,7 @@ błotnisty - poti
 błoto - pote  
 błąd (pomyłka) - galte  
 błędny (niepoprawny) - galti  
-##c
+####C - C  
 Cantalupo in Sabina - Kantalupo da Sabina  
 całość (integralność) - holia  
 całus - chum  
@@ -415,7 +415,7 @@ część, ułamek - fen
 członek - member  
 człowiek, istota ludzka - insan  
 córka - femi pute  
-##d
+####D - D  
 dach - chate  
 daktyl - tamar  
 daleki, odległy - teli  
@@ -566,7 +566,7 @@ dźwięk, brzmienie - sonde
 Dżakarta - jakarte  
 Dżibuti - Jibuti  
 dżul (J) - jul  
-##e
+####E - E  
 echo - mirsonde  
 efekt halo - fotocirke  
 egipski - misri  
@@ -613,7 +613,7 @@ europ - europem
 Europa - europe  
 europejski - europi  
 ewangelia - evanjil  
-##f
+####F - F  
 fabryka, manufaktura - fateria  
 fajka - pipe  
 fala - onde  
@@ -670,7 +670,7 @@ funkcjonariusz, urzędnik - oficer
 funt (£) - paunde  
 fuzja (amalgamowanie, łączenie) - liwunis  
 fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerni liwunisia  
-##g
+####G - G  
 Gabon - Gabon  
 gadolin - gadolinem  
 gal - galem  
@@ -789,7 +789,7 @@ głód - yamnide
 główny - shefi  
 głęboki - fasteli  
 głębokość - fastelia  
-##h
+####H - H  
 haczyk - fishohuke  
 hafn - hafnem  
 Haiti - Haiti  
@@ -860,8 +860,8 @@ humor - yumor
 humorystyczny, śmieszny, zabawny, komiczny - yumori  
 hybryda; kundel - hibride  
 hę?, co?, pardon? - he  
+####I - I  
 i, oraz - e  
-##i
 idea, pomysł - idey  
 ideogram - ideygraf  
 idiota - idiote  
@@ -919,7 +919,7 @@ Izrael - Israel
 iść (przemieścić się) - kitu  
 iść wzdłuż (pójść wzdłuż) - pargowa  
 iść, maszerować - marchu  
-##j
+####J - J  
 ja, mnie - me  
 jabłko - apel  
 jabłko cukrowe - ata'  
@@ -983,7 +983,7 @@ język sztuczny - chanbash
 język świata, język ogólnoświatowy - dunia bash  
 język; komunikacja - bash  
 językoznastwo - bashlojia  
-##k
+####K - K  
 kabaczek (dynia, tykwa) - kaboge  
 kabel (linia) - eletrolinye  
 kabina, budka - kabin  
@@ -1257,7 +1257,7 @@ kąpiel - banye
 kąt - gon  
 kąt prosty - ortogon  
 kłuć (żądlić) - pina  
-##l
+####L - L  
 Lagos - legos  
 lakier - lake  
 lalka, kukiełka, pacynka, marionetka - pupe  
@@ -1351,7 +1351,7 @@ lutet - lutetem
 luty - desmes  
 luźna rozmowa, gadanina - blabla  
 lód - ais  
-##m
+####M - M  
 macka (czułek) - senter  
 Madagaskar - Madagasi  
 madagaskarski; malagaski - madagasi  
@@ -1590,7 +1590,7 @@ młody - jovani
 młodzież, młoda osoba - jovan  
 młot, młotek - hamar  
 młynarz - moler  
-##n
+####N - N  
 na pewno (z pewnością, amen) - ameno  
 na przykład - misalo  
 nabardziej, maksymalnie - mayim (mayimo)  
@@ -1739,7 +1739,7 @@ nudyzm - nudistia
 numer - nombre  
 nylon - nilon  
 nóż - chake  
-##o
+####O - O  
 oaza - was  
 obcęgi, kleszcze, szczypce - pincer  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zayi  
@@ -1876,7 +1876,7 @@ oś - akse
 ośmiornica - balsenter  
 ożeniony, zamężny, w związku małżeńskim - gami  
 ożenić się, poślubić, wyjść za mąż - gama  
-##p
+####P - P  
 pachnieć - aromu  
 pacjent - patike  
 pacyfista - paciste  
@@ -2302,8 +2302,8 @@ przymus - mus
 przyprawa - masal  
 przyrostek (sufiks) - badofikse  
 przyrostek dla (wyniku) działania - -e  
-przyrostek dla czasowników z szykiem zdania OVS - -u  
-przyrostek dla czasowników z szykiem zdania SVO - -a  
+przyrostek dla czasowników z szykiem zdania OV####S - -u  
+przyrostek dla czasowników z szykiem zdania SV####O - -a  
 przyrostek dla ideologii - istia  
 przyrostek dla miejsca - -ia  
 przyrostek dla miejsca wykonywania - eria  
@@ -2366,7 +2366,8 @@ płuco - pulmon
 płyta - tail  
 płyta tektoniczna - zemkaski plate  
 płytki - faskaribi  
-##r
+####Q - Q  
+####R - R  
 rabuś (grabieżca) - luter  
 rachunek (faktura) - bil  
 rachunek (formalny system obliczeń) - kalkulia  
@@ -2530,7 +2531,7 @@ ręcznik - towal
 ręczny - handi  
 ręka, dłoń - hande  
 rękaw - kamisi shake  
-##s
+####S - S  
 Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahrawia  
 Saint Kitts - Santi Kitse  
 Saint Kitts i Nevis - Santi Kitse e Nevis  
@@ -2697,7 +2698,7 @@ statyczny, stacjonarny, nieruchomy - estaci
 stać - libu  
 stały (sztywny) - gatomati  
 sterburta (prawa burta) - botoraite  
-sto (##) - honi  
+sto (100) - honi  
 stojak (wieszak) - libobaze  
 stokrotka - margarite  
 stokrotka pospolita - englomargarite  
@@ -2833,7 +2834,7 @@ sługa - server
 słup (pal, kołek) - zong  
 służba - serve  
 służyć - serva  
-##t
+####T - T  
 tablica wyników - puntobanze  
 tablioca, macierz - table  
 Tadżykistan - Tajikia  
@@ -2848,7 +2849,7 @@ taksometr - taksometer
 taktyka, strategia - tatike  
 tal - talem  
 talerz - platotas  
-taleta, WC - tual  
+taleta, W####C - tual  
 tamilski - Tamil  
 tamten (tamten) - wi  
 tamten - we  
@@ -2990,7 +2991,7 @@ tłumacz - tarjer
 tłumaczenie, interpretacja - tarje  
 tłusty - feti  
 tłuszcz - fete  
-##u
+####U - U  
 ubranie, ubiór, strój - fuke  
 ucho - or  
 uchwyt (pojemnik) - tener  
@@ -3056,13 +3057,13 @@ uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - buda
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidi  
 użytkownik - uzer  
 użyć, używać, zatrudnić, stosować - uza  
-##v
+####V - V  
 Vanuatu - Vanuatu  
 viski - wiski'  
 voodoo - vodun  
+####W - W  
 w innym wypadku (inaczej) - alo  
 w przyszłości - wilo  
-##w
 waga (ciężkość) - baria  
 waga (urządzenie ważące) - barmetrer  
 wagina - vagin  
@@ -3083,7 +3084,7 @@ warsztat szewski - sapateria
 wartość - val  
 warunek - sharte  
 warzywo - vejete  
-Waszyngton D.C - Washington DC  
+Waszyngton D.####C - Washington DC  
 wat - wate  
 Watykan, Państwo Watykańskie - Vatikan  
 waza, garnek, pojemnik, słoik, dzban - vaze  
@@ -3260,7 +3261,7 @@ wyspa - nes
 Wyspa Man - Manin nes  
 Wyspy Alandzkie - Olande  
 Wyspy Cooka - Kuke nesia  
-Wyspy Dziewicze USA - Usameriki Virjin nesia  
+Wyspy Dziewicze US####A - Usameriki Virjin nesia  
 Wyspy Georgia Południowa i Sandwich Południowy - Sudi Jorjia e Sudi Sanduiche nesia  
 Wyspy Kokosowe - Kokos nesia  
 Wyspy Marshalla - Marshal nesia  
@@ -3297,12 +3298,12 @@ właściciel (posiadacz) - malker
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kesh  
-##x
-##y
+####X - X  
+####Y - Y  
 z (partykuła posiadania) - da  
+####Z - Z  
 z boku (na bok) - lato  
 z, od - cha  
-##z
 zaakceptować, akceptować, powiedzieć okej, mówić okej - okeya  
 zabawa, rozrywka - wan  
 zabawny - wani  
