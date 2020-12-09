@@ -20,7 +20,7 @@ akacja - babul
 akacja arabska - arabobabul  
 akcent, nacisk - acente  
 akt, scena - roler  
-aktualizować (zaktualizować, ulepszać, ulepszyć) - darjobona  
+aktualizować (zaktualizować, ulepszać, ulepszyć) - bondarja  
 aktyn - acinem  
 aktywny (włączony, uruchomiony) - ativi  
 aktywować (włączyć, uruchomić) - ativa  
@@ -143,7 +143,7 @@ bankier - banker
 baobab - buy  
 bar - bar  
 bar - barem  
-bar, knajpa - bireria  
+bar, knajpa - birkan  
 Barbados - Barbados  
 barbarzyńca - barbar  
 Barbuda - Barbuda  
@@ -401,7 +401,7 @@ czosnek olbrzymi - daylasun
 cztery (4) - chari  
 czuć (poczuć, postrzegać, wykrywać) - sensa  
 czuć - senta  
-czuć, odczuć, odczuwać - emoca  
+czuć, odczuć, odczuwać - emocu  
 czwartek - var 4 (var chari)  
 czyn, uczynek - fate  
 czysty (higieniczny, sanitarny) - hijeni  
@@ -440,27 +440,27 @@ dekoracja (ornament) - sundardake
 dekorować - sundardaka  
 delfin - dolfin  
 delikatny, cienki, lekki - faini  
-demografia - demgrafia  
-demokracja - demkratia  
-demokrata - demkratiste  
+demografia - demografia  
+demokracja - demokratia  
+demokrata - demokratiste  
 Demokratyczna Republika Konga - Kinshasa Kongo  
-demokratyczny - demkrati  
+demokratyczny - demokrati  
 demon - demon  
 dentysta - dantomediker  
 deska - banze  
 deszcz - barshe  
 deszczowy - barshi  
 detal, szczegół - detal  
-dezaktualizować (pogorszyć) - darjomala  
+dezaktualizować (pogorszyć) - maldarja  
 diabelski, szatański - shatani  
 diabeł, szatan - shatan  
 diament - almas  
 dioryt - diorite  
 dmuchać - hawa  
 do, dopóki, dla - pa  
-dobry - bon (boni)  
+dobry - boni  
 dobry ... - salam (salami)  
-dobry los, szczęście - bon zar  
+dobry los, szczęście - boni zar  
 dobry ranek - salam sube  
 dobry wieczór - salam sham  
 dodatkowy - mayboni  
@@ -505,10 +505,10 @@ dubn - dubnem
 duch, fantom - fantom  
 dumać, rozmyślać, zastanawiać się - hema  
 dusza, duch, umysł - ruhe  
-duży - day (dayi)  
+duży - dayi  
 dwa (2) - duli  
 dwujęzyczny - dulbashi  
-dwukrotnie (dwa razy) - duli ban  
+dwukrotnie (dwa razy) - dulmaro  
 dwutlenek węgla - karbondulokside  
 dwuznacznik - dulmeni  
 dym - duman  
@@ -578,7 +578,7 @@ ekran - ekran
 ekskrement, gówno - kake  
 eksplodować (wybuchnąć, wybuchać) - bumu  
 eksportować (wyeksportować) - waymisa  
-Ekwador - ekuador  
+Ekwador - Ekuador  
 elastyczny - lasti  
 elegancki, szykowny - shiki  
 elektron - eletron  
@@ -597,7 +597,7 @@ energia nuklearna - kerni energe
 enzym - enzim  
 epistemologia - savolojia  
 erb - erbem  
-Eris (planeta karłowata) - eris  
+Eris (planeta karłowata) - Eris  
 Erytrea - Eritria  
 esej - esey  
 Esperanto - esperanti  
@@ -605,7 +605,7 @@ Estonia - Estia
 etap, faza - faze  
 Etiopia - Etiopia  
 etniczny - zuki  
-etyka - darmoloji  
+etyka - darmolojia  
 etymologia - logaslia  
 Eurazja - eurasia  
 euro (€) - euro'  
@@ -647,7 +647,7 @@ fizyka - fizike
 fizyka - fiziker  
 fizyka nuklearna - kerni fizikia  
 fiński - suomi  
-flaga, sztandar - bander  
+flaga, sztandar - bandir  
 flerow - flerovem  
 fluor - flurem  
 folder (teczka) - dokumsanduke  
@@ -1456,7 +1456,7 @@ metoda, sposób - metode
 metr - mitre  
 metro - tuneltren  
 miara - metre  
-miast, miasteczko - cite  
+miast, miasteczko - site  
 miasto - nagre  
 miecz - katan  
 miedź - kupre  
@@ -1946,7 +1946,7 @@ paść, padać, upaść, upadać - padu
 październik - setomes  
 pchnąć, pchać - pusha  
 pedał - pedal  
-Pekin - beijing  
+Pekin - Beijing  
 peleryna (płaszcz, opończa) - mantol  
 pendżabski - panjabi  
 penis - penis  

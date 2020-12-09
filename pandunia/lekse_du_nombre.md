@@ -8,7 +8,7 @@
 | portugali | 722 | 49% |
 | fransi | 703 | 48% |
 | rusi | 608 | 41% |
-| hindustani | 526 | 36% |
+| hindustani | 527 | 36% |
 | niponi | 425 | 29% |
 | turki | 395 | 27% |
 | malayi | 378 | 25% |

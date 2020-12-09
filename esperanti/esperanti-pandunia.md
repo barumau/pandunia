@@ -179,6 +179,7 @@ Berlino - Berlin
 besto - hewan  
 betono - beton  
 bezoni - nidu  
+biblia - bibli  
 Biblio - biblia  
 biciklisto - cikliste  
 biero - bir  
@@ -201,7 +202,7 @@ Bolivio - Bolivia
 bombo - bombe  
 bombono - kande  
 bona (en salutoj) - salam (salami)  
-bona - bon (boni)  
+bona - boni  
 bonan apetiton! - salam yam  
 Bonan matenon! - salam sube  
 Bonan tagon - salam den  
@@ -279,9 +280,9 @@ delfeno - dolfin
 demandanta - wenan  
 demandi - wena  
 demando - wen  
-demografio - demgrafia  
-demokratia - demkrati  
-demokratio - demkratia  
+demografio - demografia  
+demokratia - demokrati  
+demokratio - demokratia  
 demono - demon  
 denove (ripete) - reyo  
 dentbroso - dantobrosh  
@@ -317,7 +318,7 @@ dormo - son
 dormoĉambro - sonkamar  
 dorso - ruke  
 dramo - dram  
-drinkejo - bireria  
+drinkejo - birkan  
 du (2) - duli  
 dubnio - dubnem  
 dubo - dute  
@@ -337,7 +338,7 @@ ekrano - ekran
 eksa- - eksa'  
 ekstera - wayi  
 ekstero - way  
-Ekvadoro - ekuador  
+Ekvadoro - Ekuador  
 ekzemple - misalo  
 ekzemplo - misal  
 ekzerci - lensha  
@@ -355,7 +356,7 @@ eliro - chute
 emi - iva  
 emo (inklino, tendenco) - ive  
 emocia - emoci  
-emocii - emoca  
+emocii - emocu  
 emocio - emoce  
 ena - indi  
 energio - energe  
@@ -366,7 +367,7 @@ enuo - boria
 erara - galti  
 eraro (miso) - galte  
 erbio - erbem  
-Eris (planedeto) - eris  
+Eris (planedeto) - Eris  
 Eritreo - Eritria  
 ero - parche  
 escepte - mina  
@@ -445,7 +446,7 @@ fiŝhoko - fishohuke
 fiŝkaptisto - fishosaider  
 fiŝo - fish  
 fjordo - fiorde  
-flago - bander  
+flago - bandir  
 flanka (latera) - lati  
 flanko (latero) - late  
 flava - limonrangi  
@@ -524,7 +525,7 @@ grafika (bilda) - grafi
 gramatika - bashkanuni  
 gramatiko - bashkanun  
 gramo - gram  
-granda - day (dayi)  
+granda - dayi  
 grasa - feti  
 graso - fete  
 gratuli - barka  
@@ -1585,8 +1586,10 @@ ununura - moni
 uragano (tajfuno) - rototafun  
 uranio - uranem  
 urba - nagri  
-urbego - cite  
+urbego - daysite  
+urbeto - lilsite  
 urbo - nagre  
+urbo - site  
 urso - urse  
 utila - faidi  
 utileco - faidia  

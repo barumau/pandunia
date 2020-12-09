@@ -135,7 +135,7 @@ bali - ok (8)
 balkon - balkono  
 balon - balono  
 banan - banano  
-bander - flago  
+bandir - flago  
 Banglodesh - Bangladeŝo  
 banglodeshi - bangladeŝa  
 banke - banko  
@@ -198,11 +198,12 @@ berilem - berilio
 berkelem - berkelio  
 Berlin - Berlino  
 beton - betono  
+bibli - biblia  
 biblia - Biblio  
 bina - konstrui  
 binde - punkto  
 bir - biero  
-bireria - drinkejo  
+birkan - drinkejo  
 bishu - devi  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
@@ -221,7 +222,7 @@ bol - pilko
 Bolgaria - Bulgario  
 Bolivia - Bolivio  
 bombe - bombo  
-bon (boni) - bona  
+boni - bona  
 bonsif - eco  
 borem - borio  
 bori - enui  
@@ -310,7 +311,6 @@ chuze - elekto
 cikliste - biciklisto  
 cirka - ĉirkaŭi  
 cita - citi  
-cite - urbego  
 ##d
 da - de (partiklo de posedo)  
 da - kiu (komencigas relativan frazon)  
@@ -337,12 +337,13 @@ darsoguru' - instruisto
 date - datumo  
 datobanke - datumbanko  
 daw - vojo  
-day (dayi) - granda  
 daydom - palaco  
 dayhay - oceano  
+dayi - granda  
 daypaw - kanono  
 daypawer - kanonisto  
 daysheke - ŝtonego  
+daysite - urbego  
 deci' - dekono  
 def - defendo  
 defa - defendi  
@@ -351,9 +352,9 @@ defta - registri
 defte - registraĵo  
 deftia - registro (konto)  
 dem - popolo  
-demgrafia - demografio  
-demkrati - demokratia  
-demkratia - demokratio  
+demografia - demografio  
+demokrati - demokratia  
+demokratia - demokratio  
 demon - demono  
 den - tago  
 denga - atendi  
@@ -425,21 +426,21 @@ ekia - naturo
 ekor - sciuro  
 ekran - ekrano  
 eksa' - eksa-  
-ekuador - Ekvadoro  
+Ekuador - Ekvadoro  
 eletre - elektro  
 eletri - elektra  
 eletron - elektrono  
 em - elemento (ero)  
-emoca - emocii  
 emoce - emocio  
 emoci - emocia  
 emocohal - animstato  
+emocu - emocii  
 energe - energio  
 engli - angla  
 eni - iu ajn  
 er - isto (anto)  
 erbem - erbio  
-eris - Eris (planedeto)  
+Eris - Eris (planedeto)  
 Eritria - Eritreo  
 esa - esti  
 eskal - ŝtuparo  
@@ -996,6 +997,7 @@ liga - aligi
 lil (lili) - malgranda  
 lilbol - bobelo  
 lilsheke - ŝtoneto  
+lilsite - urbeto  
 limi - kvin (5)  
 limon - citrono  
 limonrangi - flava  
@@ -1524,6 +1526,7 @@ sinkafas - torako
 sirke - vinagro  
 sismolojia - sismologio  
 sistem - sistemo  
+site - urbo  
 socia - socio  
 sofa' - sofo  
 sofi - saĝa  

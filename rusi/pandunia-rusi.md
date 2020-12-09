@@ -95,7 +95,7 @@ balsenter - спрут (осьминог)
 balute - дуб  
 banan - банан  
 bande - банда  
-bander - флаг  
+bandir - флаг  
 banke - банк  
 banse - бамбук  
 banye - купание  
@@ -146,7 +146,7 @@ biwmutu - заквасить
 biwsistem - биом  
 bol - шар  
 bombe - бомба  
-bon (boni) - хороший  
+boni - хороший  
 bonsinyi - благоприятный  
 bote - лодка (бот)  
 botel - бутылка  

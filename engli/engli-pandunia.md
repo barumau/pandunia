@@ -263,7 +263,7 @@ banker - banker
 baobab - buy  
 bar (obstruct, block) - barya  
 bar (pole, rod, shaft, staff, stick) - baton  
-bar (pub, beer house) - bireria  
+bar (pub, beer house) - birkan  
 bar - bar  
 Barbados - Barbados  
 barbarian - barbar  
@@ -322,7 +322,7 @@ begin (start, commence, initiate) - kaisha
 beginning (start) - kaish  
 behave (act) - manira  
 behavior (manners) - manir  
-Beijing (Peking) - beijing  
+Beijing (Peking) - Beijing  
 being - es  
 bel (unit) - bel  
 Belarus - Belorusia  
@@ -349,8 +349,10 @@ berth (couchette) - kushloke
 beryllium - berilem  
 Bhutan - Drugia  
 Bible - biblia  
+Biblical - bibli  
 bicycle (pedal bike) - pedalcikle  
-big (great) - day (dayi)  
+big (great) - dayi  
+big city - daysite  
 bike (cycle) - cikle  
 bilingual - dulbashi  
 bill (invoice) - bil  
@@ -625,7 +627,7 @@ cinematography - kingrafia
 circle (round) - cirke  
 citizen - deshren  
 citrus fruit - migan  
-city - cite  
+city (town) - site  
 civilization - civilia  
 civilized (civil) - civili  
 clarify (clear up) - klara  
@@ -883,10 +885,10 @@ defense (defence) - def
 degree Celsius - celsius darje  
 Deimos - Deimos  
 delicious (yummy) - yami  
-democracy - demkratia  
-democrati - demkratiste  
-democratic - demkrati  
-demography - demgrafia  
+democracy - demokratia  
+democrati - demokratiste  
+democratic - demokrati  
+demography - demografia  
 demon - demon  
 Denmark - Danmarke  
 dentist - dantomediker  
@@ -959,7 +961,7 @@ double (multiply by two) - dulo multa
 double entendre - dulmeni  
 doubt (disbelief) - dute  
 doubtful (suspicious, disbelieving) - dutani  
-downgrade - darjomala  
+downgrade - maldarja  
 download - netogeta  
 dragon - lung  
 dragonfly - libel  
@@ -1010,7 +1012,7 @@ eastern gorilla - dongogoril
 easy - izi  
 echo - mirsonde  
 ecology (study of environment) - ekolojia  
-Ecuador - ekuador  
+Ecuador - Ekuador  
 egg - ande  
 eggplant (aubergine, brinjal) - bedinjan  
 Egypt - Misre  
@@ -1061,7 +1063,7 @@ Equatorial Guinea - Zemparlinyi Ginia
 erbium - erbem  
 erect (standing) - libi  
 erect - liba  
-Eris (dwarf planet) - eris  
+Eris (dwarf planet) - Eris  
 Eritrea - Eritria  
 escape (flee, run away) - bega  
 Esperanto - esperanti  
@@ -1069,7 +1071,7 @@ essay - esey
 estimate (approximate) - yaga  
 Estonia - Estia  
 Eswatini (Swaziland) - Swati  
-ethics - darmoloji  
+ethics - darmolojia  
 Ethiopia - Etiopia  
 ethnic - zuki  
 ethnic group - zuke  
@@ -1155,7 +1157,7 @@ feather - per
 February - dulmes  
 fee (fare) - takse  
 feel (sense by touch) - senta  
-feel - emoca  
+feel - emocu  
 female - fem  
 feminism - femistia  
 feminist - femiste  
@@ -1194,7 +1196,7 @@ fishhook - fishohuke
 five (5) - limi  
 fix (attach) - fiksa  
 fjord - fiorde  
-flag (banner) - bander  
+flag (banner) - bandir  
 flat (planar) - plati  
 flat-earther - platozemiste  
 flatbread (chapati, roti) - chapate  
@@ -1345,10 +1347,10 @@ golem - golem
 gone (away) - kiti  
 goniometer - gonmetrer  
 good (in greetings) - salam (salami)  
-good - bon (boni)  
+good - boni  
 Good day - salam den  
 Good evening - salam sham  
-good luck - bon zar  
+good luck - boni zar  
 Good morning - salam sube  
 good-looking - rupoboni  
 gorilla - goril  
@@ -3013,6 +3015,7 @@ slipper - babuche
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 slow (lethargic) - lenti  
+small town - lilsite  
 smell (reek) - aromu  
 smell (sniff) - aroma  
 smelt - yongosaha  
@@ -3429,7 +3432,7 @@ Turkmenistan - Turkomenia
 turquoise gem - firuze  
 turtle (tortoise) - tortuge  
 Tuvalu - Tuvalu  
-twice - duli ban  
+twice - dulmaro  
 twinkle (sparkle) - shingofota  
 two (2) - duli  
 type (kind, genre) - tipe  
@@ -3466,7 +3469,7 @@ unnecessary (extraneous, unneeded) - annidi
 unplug (uncork) - antapa  
 unrest - anpace  
 until (til, up to) - hata  
-upgrade (level up) - darjobona  
+upgrade (level up) - bondarja  
 upload - netodona  
 upper - supri  
 uranium - uranem  

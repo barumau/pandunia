@@ -227,7 +227,7 @@ balute - roble
 balutopal - bellota  
 banan - plátano (banana)  
 bande - banda  
-bander - bandera  
+bandir - bandera  
 bangli - bengalí  
 Banglodesh - Bangladés  
 banglodeshi - bangladesí  
@@ -297,7 +297,7 @@ bebe - bebé
 bede - cama  
 bedinjan - berenjena  
 bega - escaparse (evitar, huir)  
-beijing - Pekín  
+Beijing - Pekín  
 beka - hornear (cocer)  
 beker - panadero  
 bekeria - panadería  
@@ -327,7 +327,7 @@ bil - cuenta (factura)
 bina - construir (edificar)  
 binde - punto (lunar)  
 bir - cerveza (birra)  
-bireria - bar (pub)  
+birkan - bar (pub)  
 bis - no binario (género)  
 Bisau Ginia - Guinea-Bisáu  
 bishu - deber (necesitar)  
@@ -353,10 +353,11 @@ bol - bola
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
 bombe - bomba  
-bon (boni) - bueno  
-bon zar - buena suerte  
+bondarja - mejorar  
 bondarme - virtud (moralidad)  
 bondarmi - virtuoso (moral)  
+boni - bueno  
+boni zar - buena suerte  
 bonsif - calidad (excelencia, mérito, virtud, ventaja)  
 bonsifi - excelente  
 bonsinyi - auspicioso  
@@ -505,7 +506,6 @@ cirke - círculo
 cirki - redondo (circular)  
 cirkosheke - adoquín  
 cita - citar  
-cite - ciudad  
 citi marke - comilla  
 civili - civilizado  
 civilia - civilización  
@@ -538,11 +538,9 @@ dantobrosh - cepillo de dientes
 dantomediker - dentista (odontólogo)  
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
-darjobona - mejorar  
-darjomala - degradar  
 darme - moralidad (ética)  
 darmi - moral (ético)  
-darmoloji - ética (filosofía moral)  
+darmolojia - ética (filosofía moral)  
 darmositem - darmstatio  
 darsa - aprender (estudiar)  
 darse - lección  
@@ -559,10 +557,10 @@ datobanke - banco de datos (base de datos)
 daw - camino (calle)  
 dawiste - taoísta  
 dawistia - taoísmo  
-day (dayi) - grande  
 daydarsia - universidad  
 daydom - palacio (mansión)  
 dayhay - océano  
+dayi - grande  
 dayia - tamaño  
 daypaw - cañón  
 daypawer - cañonear  
@@ -582,11 +580,11 @@ defte - registro (archivo, anotación)
 deftia - registro (cuenta)  
 deftobuke - diario  
 dem - pueblo (población)  
-demgrafia - demografía  
 demi - público  
-demkrati - democrático  
-demkratia - democracia  
-demkratiste - demócrata  
+demografia - demografía  
+demokrati - democrático  
+demokratia - democracia  
+demokratiste - demócrata  
 demon - demonio  
 den - día (durante el día)  
 denga - esperar  
@@ -667,8 +665,8 @@ duki - triste
 duku - llorar  
 dulbashi - bilingüe  
 duli - dos (2)  
-duli ban - dos veces  
 dulistia - dualismo  
+dulmaro - dos veces  
 dulmeni - doble sentido  
 dulmes - febrero  
 dulo fena - reducir a la mitad (dividir en dos)  
@@ -699,7 +697,7 @@ ekojeni - salvaje
 ekolojia - ecología  
 ekor - ardilla  
 ekran - pantalla  
-ekuador - Ecuador  
+Ekuador - Ecuador  
 eletre - electricidad  
 eletri - eléctrico  
 eletrolinye - cable  
@@ -709,10 +707,10 @@ eletrorade - relámpago
 em - elemento (unidad fundamental)  
 emir - emir  
 emiria - emirato  
-emoca - sentir  
 emoce - afecto (emoción)  
 emoci - emotivo  
 emocohal - humor  
+emocu - sentir  
 emoje - emoticón (emoyi)  
 energe - energía  
 engli - inglés  
@@ -725,7 +723,7 @@ enzim - enzima
 er - hacedor (perpetrador)  
 erbem - erbio  
 eria - taller  
-eris - Eris (planeta enano)  
+Eris - Eris (planeta enano)  
 Eritria - Eritrea  
 es - ser  
 esa - ser (estar)  
@@ -1870,6 +1868,7 @@ malaria - malaria (paludismo)
 Malawi - Malaui  
 malayali - malayali (malabar, malayalam)  
 malayi - malayo  
+maldarja - degradar  
 malfunce - falla (mal funcionamiento)  
 Mali - Mali  
 malike - jazmín  
@@ -2944,6 +2943,7 @@ sismes - junio
 sismolojia - sismología  
 sistem - sistema  
 sistemi - sistémico  
+site - ciudad  
 slavi - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  

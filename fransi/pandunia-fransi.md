@@ -139,7 +139,7 @@ balute - chêne
 balutopal - gland  
 banan - banane  
 bande - bande  
-bander - drapeau  
+bandir - drapeau  
 banke - banque  
 banker - banquier  
 banse - bambou  
@@ -188,7 +188,7 @@ biwmutu - fermenter
 biwsistem - biome  
 bol - balle (boule)  
 bombe - bombe  
-bon (boni) - bon  
+boni - bon  
 bote - bateau  
 botel - bouteille  
 botolefte - babord  
@@ -234,7 +234,6 @@ chuzable - option
 cikle - bicyclette  
 cikliste - cycliste  
 cirkosheke - pavé  
-cite - ville  
 ##d
 daka - couvrir  
 dalil - preuve  
@@ -948,6 +947,7 @@ sirkopurshipi - décapé (mariné)
 sirkopurshipi hiyar - concombre confit (cornichon)  
 sirplan - complot (conspiration)  
 sisi - six (6)  
+site - ville  
 socia - société  
 sofa' - canapé (sofa)  
 sol - soleil  

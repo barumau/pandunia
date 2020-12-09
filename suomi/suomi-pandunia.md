@@ -182,7 +182,7 @@ avokado - awakate
 Azerbaidžan - Azeria  
 ##b
 baari (kapakka) - bar  
-baari (kapakka) - bireria  
+baari (kapakka) - birkan  
 backgammon - narde  
 bahailainen - bahayiste  
 bahailaisuus - bahayistia  
@@ -259,9 +259,9 @@ darwinisti - darwiniste
 data (numeerinen tieto) - date  
 Deimos - Deimos  
 delfiini - dolfin  
-demokraatti - demkratiste  
-demokraattinen - demkrati  
-demokratia - demkratia  
+demokraatti - demokratiste  
+demokraattinen - demokrati  
+demokratia - demokratia  
 demoni (piru) - demon  
 desi - deci'  
 desibeli - decibel  
@@ -278,7 +278,7 @@ dubnium - dubnem
 dynamiitti - dinamite  
 dysprosium - disprosem  
 ##e
-Ecuador - ekuador  
+Ecuador - Ekuador  
 edellinen - cheni  
 edellyttää - chenaga  
 edeltää (olla ennen) - chena  
@@ -350,7 +350,7 @@ erikoisuus - hasia
 erilainen - alsifi  
 erilaisuus (ero) - alsifia  
 erimielisyys - alrayia  
-Eris (kääpiöplaneetta) - eris  
+Eris (kääpiöplaneetta) - Eris  
 Eritrea - Eritria  
 erottaa (nähdä ero) - hasa  
 erä (satsi) - lote  
@@ -371,7 +371,7 @@ Etelä-Korea - Sudi Chosen
 Etelä-Ossetia - Sudi Iria (Alonia)  
 Etelä-Sudan - Sudi Sudan  
 Eteläinen Jäämeri - Antartiki Hay  
-etiikka (moraalioppi) - darmoloji  
+etiikka (moraalioppi) - darmolojia  
 etikka - sirke  
 Etiopia - Etiopia  
 etninen - zuki  
@@ -614,8 +614,8 @@ hyve - bondarme
 hyveellinen (hyvä) - bondarmi  
 hyvä (eettisesti hyvä) - evi  
 hyvä (tervehdyksissä) - salam (salami)  
-hyvä - bon (boni)  
-hyvä onni (tuuri, säkä, lykky) - bon zar  
+hyvä - boni  
+hyvä onni (tuuri, säkä, lykky) - boni zar  
 hyväksyntä - okey  
 hyväksyä - okeya  
 hyvännäköinen - rupoboni  
@@ -703,7 +703,7 @@ islam - islamistia
 islamilainen - islamisti  
 islamofobia (islamin pelko) - islamfobia  
 Islanti - Islande  
-iso (suuri) - day (dayi)  
+iso (suuri) - dayi  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britania  
 Israel - Israel  
 istua - sida  
@@ -830,7 +830,7 @@ kaasuuntua - gasu
 kade (kateellinen) - jelosi  
 kadmium - kadem  
 kahdeksan (8) - bali  
-kahdesti (kaksi kertaa) - duli ban  
+kahdesti (kaksi kertaa) - dulmaro  
 kahista - shashu  
 kahvi - kafe'  
 kahvikuppi - kafekupe  
@@ -924,6 +924,7 @@ Kaukasia - Kaukasia
 kauneus - sundaria  
 kaunis (komea, sievä) - sundari  
 kaupunki - nagre  
+kaupunki - site  
 Kazakstan - Kazahia  
 kebab (grilliliha) - kababi manse  
 kehitys - fajan  
@@ -1278,7 +1279,7 @@ lapsi - bache
 lasagne - lazanye  
 lasi - kanche  
 laskea (tehdä laskutoimitus) - hisaba  
-laskea tasoa - darjomala  
+laskea tasoa - maldarja  
 laskeutua - aneskala  
 lasku (faktuura) - bil  
 laskuoppi (aritmetiikka) - hisabia  
@@ -1350,7 +1351,7 @@ linna (linnake, linnoitus) - burge
 linssi - lense  
 lintu - pakse  
 lippu (piletti) - tikete  
-lippu - bander  
+lippu - bandir  
 lista (luettelo) - liste  
 lisä- - mayi  
 litium - litem  
@@ -1737,7 +1738,7 @@ norsu (elefantti) - gaje
 Norsunluurannikko - Kotedivuar  
 nostaa - gawa  
 nostaa pystyyn - liba  
-nostaa tasoa - darjobona  
+nostaa tasoa - bondarja  
 nousta - gawu  
 noutopöytä (buffetti) - bufete  
 noviisi (uusikko, vasta-alkaja) - novike  
@@ -1940,7 +1941,7 @@ peikko - guy
 peili - mirer  
 peite (kansi) - dake  
 peittää - daka  
-Peking (Beijing) - beijing  
+Peking (Beijing) - Beijing  
 pelaaja - gemer  
 pelata - gema  
 peli - gem  
@@ -1983,6 +1984,7 @@ piiri (ympyrä) - cirke
 piirros (graafi) - graf  
 piirtää - grafa  
 piirustus - desen  
+pikkukaupunki - lilsite  
 pikkuruinen (mini-) - mini  
 pikkutakki (jakku) - jake  
 pilaantua (raunioitua) - harabu  
@@ -2161,6 +2163,7 @@ pöytä - meze
 Qatar - Katar  
 ##r
 Raamattu - biblia  
+raamatullinen - bibli  
 raastaa - chirchira  
 raastettu - chirchiri  
 radioaktiivinen - ioni radi  
@@ -2526,7 +2529,7 @@ suukko (pusu) - chum
 suunnitella - plana  
 suunnitelma - plan  
 suunta - dish  
-suurkaupunki - cite  
+suurkaupunki - daysite  
 suuruus (koko) - dayia  
 suutari - sapater  
 suutarin paja - sapateria  
@@ -2768,7 +2771,7 @@ Tunisia - Tunisia
 tunne (mielenliikutus) - emoce  
 tunneli - tunel  
 tunnetila (tuuli) - emocohal  
-tuntea (kokea tunteita) - emoca  
+tuntea (kokea tunteita) - emocu  
 tuntea - senta  
 tunteellinen (tunne-) - emoci  
 tunti - hor  
@@ -3079,7 +3082,7 @@ vuotaa verta - lowa sang
 vyö - zon  
 väenpaljous - demomultia  
 väestö (kansa) - dem  
-väestötiede (demografia) - demgrafia  
+väestötiede (demografia) - demografia  
 vähemmistö - minoria  
 vähemmän - min (mino)  
 vähimmäis- - minimi  

@@ -95,7 +95,7 @@ balsenter - 章鱼
 balute - 橡树 (xiàng)  
 banan - 香蕉  
 bande - 班  (一帮)  
-bander - 旗  
+bandir - 旗  
 banke - 银行  
 banse - 竹子  
 banye - 洗澡  
@@ -137,8 +137,8 @@ biwmutu - 发酵
 biwsistem - 生物群系  
 bol - 球  
 bombe - 炸弹  
-bon (boni) - 好  
 bondarme - 道德  
+boni - 好  
 bonsinyi - 吉利的  
 bote - 船 (艇)  
 botel - 瓶  

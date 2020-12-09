@@ -249,7 +249,7 @@ balute - oak tree
 balutopal - acorn  
 banan - banana  
 bande - band (squad, group)  
-bander - flag (banner)  
+bandir - flag (banner)  
 bangli - Bengali (Bangla)  
 Banglodesh - Bangladesh  
 banglodeshi - Bangladeshi  
@@ -321,7 +321,7 @@ bebe - baby (infant)
 bede - bed  
 bedinjan - eggplant (aubergine, brinjal)  
 bega - escape (flee, run away)  
-beijing - Beijing (Peking)  
+Beijing - Beijing (Peking)  
 beka - bake  
 beker - baker  
 bekeria - bakery  
@@ -347,13 +347,14 @@ Bermuda - Bermuda
 bete - beetroot  
 beton - concrete (material with cement)  
 beyu - undergo (passivizing verb)  
+bibli - Biblical  
 biblia - Bible  
 bil - bill (invoice)  
 bin - building (structure)  
 bina - build (construct)  
 binde - dot (spot)  
 bir - beer  
-bireria - bar (pub, beer house)  
+birkan - bar (pub, beer house)  
 bis - genderqueer (non-binary)  
 Bisau Ginia - Guinea-Bissau  
 bishu - must  
@@ -380,10 +381,11 @@ bol - ball
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
 bombe - bomb  
-bon (boni) - good  
-bon zar - good luck  
+bondarja - upgrade (level up)  
 bondarme - virtue (morals)  
 bondarmi - virtuous  
+boni - good  
+boni zar - good luck  
 bonsif - excellence (quality, virtue)  
 bonsifi - excellent  
 bonsinyi - auspicious (promising)  
@@ -542,7 +544,6 @@ cirke - circle (round)
 cirki - round (circular)  
 cirkosheke - cobblestone  
 cita - quote (cite)  
-cite - city  
 citi marke - quotation mark  
 civili - civilized (civil)  
 civilia - civilization  
@@ -578,12 +579,10 @@ dantomediker - dentist
 darba - strike (punch)  
 darje - step (degree, rank, grade, level, class)  
 darji - gradual  
-darjobona - upgrade (level up)  
 darjomaidan - gradient (gradation, incline)  
-darjomala - downgrade  
 darme - morality (ethics)  
 darmi - moral  
-darmoloji - ethics  
+darmolojia - ethics  
 darmositem - darmstadtium  
 darsa - learn (study)  
 darse - lesson  
@@ -601,16 +600,17 @@ datobanke - database (databank)
 daw - way (road)  
 dawiste - Taoist  
 dawistia - Taoism (Daoism)  
-day (dayi) - big (great)  
 daydarja - amplify (scale)  
 daydarsia - university  
 daydom - palace (mansion)  
 dayhay - ocean  
+dayi - big (great)  
 dayia - size  
 daylasun - giant onion  
 daypaw - gun (cannon)  
 daypawer - cannoneer  
 daysheke - boulder  
+daysite - big city  
 dayu - grow (get bigger)  
 dayvaze - cauldron  
 debili - weak  
@@ -627,11 +627,11 @@ deftia - registry (account)
 deftobuke - logbook  
 Deimos - Deimos  
 dem - people (population)  
-demgrafia - demography  
 demi - public  
-demkrati - democratic  
-demkratia - democracy  
-demkratiste - democrati  
+demografia - demography  
+demokrati - democratic  
+demokratia - democracy  
+demokratiste - democrati  
 demomultia - population  
 demon - demon  
 den - day (daytime)  
@@ -717,9 +717,9 @@ duku - grieve
 dulbashi - bilingual  
 dulgrafi - anaglyphic (stereoscopic)  
 duli - two (2)  
-duli ban - twice  
 duli o tini - a couple of  
 dulistia - dualism  
+dulmaro - twice  
 dulmeni - double entendre  
 dulmes - February  
 dulo fena - halve (divide by two)  
@@ -754,7 +754,7 @@ ekolojia - ecology (study of environment)
 ekor - squirrel  
 ekran - screen  
 eksa' - exa-  
-ekuador - Ecuador  
+Ekuador - Ecuador  
 eletre - electricity  
 eletri - electric  
 eletrolinye - cable (wire, line)  
@@ -764,10 +764,10 @@ eletrorade - lightning bolt
 em - element (the simplest unit)  
 emir - emir  
 emiria - emirate  
-emoca - feel  
 emoce - emotion (feeling)  
 emoci - emotional (emotive)  
 emocohal - mood (emotional state)  
+emocu - feel  
 emoje - emoji (smiley, emoticon)  
 Enceladus - Enceladus  
 energe - energy  
@@ -782,7 +782,7 @@ enzim - enzyme
 er - doer (agent, actor)  
 erbem - erbium  
 eria - shop (workshop, place of doing)  
-eris - Eris (dwarf planet)  
+Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
 es - being  
 esa - be  
@@ -1891,6 +1891,7 @@ lilaki - lilac color
 lilbol - bubble  
 lilkaboge - zucchini  
 lilsheke - pebble (gravel)  
+lilsite - small town  
 lilyam - snack  
 limfas - pentahedron (prism)  
 limgon - pentagon  
@@ -2011,6 +2012,7 @@ malaria - malaria
 Malawi - Malawi  
 malayali - Malayali (Malayalam)  
 malayi - Malay  
+maldarja - downgrade  
 malfunce - malfunction  
 Mali - Mali  
 malike - jasmine  
@@ -3141,6 +3143,7 @@ sismi - seismic (vibrational)
 sismolojia - seismology  
 sistem - system  
 sistemi - systemic  
+site - city (town)  
 slavi - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  

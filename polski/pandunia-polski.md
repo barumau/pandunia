@@ -234,7 +234,7 @@ balute - dąb
 balutopal - żołądź  
 banan - banan  
 bande - zespół (drużyna, grupa)  
-bander - flaga, sztandar  
+bandir - flaga, sztandar  
 bangli - banglijski  
 Banglodesh - Bangladesz  
 banglodeshi - bangladeski  
@@ -305,7 +305,7 @@ bebe - niemowlę
 bede - łóżko  
 bedinjan - bakłażan, oberżyna  
 bega - uciec, uciekać  
-beijing - Pekin  
+Beijing - Pekin  
 beka - piec  
 beker - piekarz  
 bekeria - piekarnia  
@@ -336,7 +336,7 @@ bin - budynek (struktura)
 bina - zbudować, budować, konstruować  
 binde - punkt  
 bir - piwo  
-bireria - bar, knajpa  
+birkan - bar, knajpa  
 bis - genderqueer, niebinarny  
 Bisau Ginia - Guinea Bissau  
 bishu - musieć  
@@ -363,10 +363,11 @@ bol - piłka
 Bolgaria - Bułgaria  
 Bolivia - Boliwia  
 bombe - bomba  
-bon (boni) - dobry  
-bon zar - dobry los, szczęście  
+bondarja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 bondarme - cnota (moralność)  
 bondarmi - cnotliwy (prawy)  
+boni - dobry  
+boni zar - dobry los, szczęście  
 bonsif - cecha, atrybut, własność; -ość  
 bonsifi - wspaniały  
 bonsinyi - obiecujący (dobrze wróżący)  
@@ -521,7 +522,6 @@ cirke - koło, okrąg
 cirki - okrągły  
 cirkosheke - bruk  
 cita - cytować  
-cite - miast, miasteczko  
 citi marke - cudzysłów  
 civili - cywilizowany (ucywilizowany)  
 civilia - cywilizacja  
@@ -554,12 +554,10 @@ dantomediker - dentysta
 darba - bić, uderzyć, uderzać  
 darje - stopień, poziom, ranga, klasa  
 darji - stopniowy  
-darjobona - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 darjomaidan - gradient (gradacja, stopniowanie)  
-darjomala - dezaktualizować (pogorszyć)  
 darme - moralność, etyka  
 darmi - moralny  
-darmoloji - etyka  
+darmolojia - etyka  
 darmositem - darmsztadt  
 darsa - nauczyć się, uczyć się, studiować  
 darse - lekcja  
@@ -576,11 +574,11 @@ datobanke - baza danych (bank danych)
 daw - droga, szosa, ulica  
 dawiste - taoista  
 dawistia - taoizm  
-day (dayi) - duży  
 daydarja - wzmacniać (wzmocnić)  
 daydarsia - uniwersytet  
 daydom - pałac  
 dayhay - ocean  
+dayi - duży  
 dayia - rozmiar  
 daylasun - czosnek olbrzymi  
 daypaw - działo  
@@ -601,11 +599,11 @@ defte - rejestr
 deftia - register  
 deftobuke - dziennik pokładowy (notatnik)  
 dem - lud, społeczeństwo  
-demgrafia - demografia  
 demi - publiczny  
-demkrati - demokratyczny  
-demkratia - demokracja  
-demkratiste - demokrata  
+demografia - demografia  
+demokrati - demokratyczny  
+demokratia - demokracja  
+demokratiste - demokrata  
 demomultia - populacja  
 demon - demon  
 den - dzień  
@@ -688,9 +686,9 @@ duki - smutny
 duku - martwić  
 dulbashi - dwujęzyczny  
 duli - dwa (2)  
-duli ban - dwukrotnie (dwa razy)  
 duli o tini - parę  
 dulistia - dualizm  
+dulmaro - dwukrotnie (dwa razy)  
 dulmeni - dwuznacznik  
 dulmes - maj  
 dulo fena - przepołowić (podzielić przez dwa)  
@@ -723,7 +721,7 @@ ekojeni - dziki
 ekolojia - ekologia (nauka o środowisku)  
 ekor - wiewiórka  
 ekran - ekran  
-ekuador - Ekwador  
+Ekuador - Ekwador  
 eletre - elektryczność  
 eletri - elektryczny  
 eletrolinye - kabel (linia)  
@@ -733,10 +731,10 @@ eletrorade - piorun (grom)
 em - pierwiastek (jednostki podstawowej)  
 emir - emir  
 emiria - emirat  
-emoca - czuć, odczuć, odczuwać  
 emoce - emocja, uczucie  
 emoci - emocjonalny (uczuciowy)  
 emocohal - humor (nastrój)  
+emocu - czuć, odczuć, odczuwać  
 emoje - emoji (emotkon)  
 energe - energia  
 engli - Anglik; angielski  
@@ -749,7 +747,7 @@ enzim - enzym
 er - przyrostek dla wykonawcy  
 erbem - erb  
 eria - przyrostek dla miejsca wykonywania  
-eris - Eris (planeta karłowata)  
+Eris - Eris (planeta karłowata)  
 Eritria - Erytrea  
 es - byt  
 esa - być  
@@ -1927,6 +1925,7 @@ malaria - malaria
 Malawi - Malawi  
 malayali - malajski  
 malayi - malajski  
+maldarja - dezaktualizować (pogorszyć)  
 malfunce - awaria (wadliwe działanie)  
 Mali - Mali  
 malike - jaśmin  
@@ -3033,6 +3032,7 @@ sismi - sejsmiczny (wibracyjny)
 sismolojia - sejsmologia  
 sistem - system  
 sistemi - systemowy  
+site - miast, miasteczko  
 slavi - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  

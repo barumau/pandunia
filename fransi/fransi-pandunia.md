@@ -163,7 +163,7 @@ bleu - nili
 bloquer - barya  
 blé - gandum  
 bombe - bombe  
-bon - bon (boni)  
+bon - boni  
 bord (rive) - tate  
 botanique - fitolojia  
 botte - bute  
@@ -366,7 +366,7 @@ donner naissance (procréer, engendrer, accoucher) - jena
 données - date  
 dormir - sonu  
 douche - dush  
-drapeau - bander  
+drapeau - bandir  
 droit (rectiligne) - orti  
 droit - hake  
 droits de l'homme - insani hake  
@@ -1027,7 +1027,7 @@ viande - manse
 vie - jive  
 vieux (âgé, ancien) - lawi  
 vigne - eskaltan  
-ville - cite  
+ville - site  
 violet (pourpre) - violeti  
 virus - virus  
 visage - muke  

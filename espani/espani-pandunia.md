@@ -319,12 +319,12 @@ banco - banke
 banco de datos (base de datos) - datobanke  
 banda (cinta) - bende  
 banda - bande  
-bandera - bander  
+bandera - bandir  
 bangladesí - banglodeshi  
 Bangladés - Banglodesh  
 banquero - banker  
 baobab - buy  
-bar (pub) - bireria  
+bar (pub) - birkan  
 bar - bar  
 barandilla (pasamanos) - langan  
 barba - barde  
@@ -418,10 +418,10 @@ budismo - budistia
 budista - budiste  
 buen (hola) - salam (salami)  
 buen provecho - salam yam  
-buena suerte - bon zar  
+buena suerte - boni zar  
 buenas noches - salam sham  
 buenas tardes - salam den  
-bueno - bon (boni)  
+bueno - boni  
 buenos días - salam sube  
 bufanda (chal) - shal  
 bufé - bufete  
@@ -642,7 +642,7 @@ circonio - zirkonem
 ciruela - plum  
 citar - cita  
 citología - celolojia  
-ciudad - cite  
+ciudad - site  
 Ciudad de México - Mehiko cite  
 ciudadano - deshren  
 civilización - civilia  
@@ -928,7 +928,7 @@ defender - defa
 defensa - def  
 defensor - defer  
 definir - sifa  
-degradar - darjomala  
+degradar - maldarja  
 dejar - lasha  
 dejar caer - pada  
 delfín - dolfin  
@@ -937,11 +937,11 @@ demasiado - may ko bas
 demasiado poco - min ko bas  
 demencia (locura) - folia  
 demente (loco, insensato) - foli  
-democracia - demkratia  
-democrático - demkrati  
-demografía - demgrafia  
+democracia - demokratia  
+democrático - demokrati  
+demografía - demografia  
 demonio - demon  
-demócrata - demkratiste  
+demócrata - demokratiste  
 dentista (odontólogo) - dantomediker  
 deporte - kel  
 deportista - keler  
@@ -1037,7 +1037,7 @@ doméstico (domesticado) - domi
 dormir - sonu  
 dormitorio - sonkamar  
 dos (2) - duli  
-dos veces - duli ban  
+dos veces - dulmaro  
 dotes (arte, habilidad) - shute  
 dragón - lung  
 drama - dram  
@@ -1061,7 +1061,7 @@ dónde - sa ke
 eco - mirsonde  
 ecología - ekolojia  
 econtrar (hallar) - eureka  
-Ecuador - ekuador  
+Ecuador - Ekuador  
 ecuador - zemparlinye  
 edad - umur  
 educado - kechi  
@@ -1149,7 +1149,7 @@ equipo - tim
 erbio - erbem  
 erguido - libi  
 erigir (montar, armar) - liba  
-Eris (planeta enano) - eris  
+Eris (planeta enano) - Eris  
 Eritrea - Eritria  
 errar (cometer un error) - galta  
 error - galte  
@@ -1443,7 +1443,7 @@ gramo (g) - gram
 gramática - bashkanun  
 Granada - Grenada  
 Granadinas - Grenadin nesia  
-grande - day (dayi)  
+grande - dayi  
 granito - granite  
 granjero (agricultor) - nonger  
 grasa - fete  
@@ -2020,7 +2020,7 @@ Mediterráneo - Zemomedi Hay
 medusa - hayjel  
 megavatio - megawate  
 meitnerio - maitnerem  
-mejorar - darjobona  
+mejorar - bondarja  
 melodioso - melodi  
 melodía - melodia  
 melón - melon  
@@ -2457,7 +2457,7 @@ pegamento (pega, goma) - glute
 pegar - gluta  
 pegar - peya  
 peine - kang  
-Pekín - beijing  
+Pekín - Beijing  
 pelea (guerra, batalla) - jeng  
 peligro - hatre  
 peligroso - hatri  
@@ -2955,7 +2955,7 @@ sentar - sida
 sentarse - sidu  
 sentido - sense  
 sentir (detectar) - sensa  
-sentir - emoca  
+sentir - emocu  
 septiembre - navmes  
 ser (estar) - esa  
 ser - es  
@@ -3454,7 +3454,7 @@ zulú - Zulu
 átomo - atom  
 él o ella - le  
 éste - dong  
-ética (filosofía moral) - darmoloji  
+ética (filosofía moral) - darmolojia  
 étnico - zuki  
 índice de contenidos - tenliste  
 ósmosis - osme  

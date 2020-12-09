@@ -230,7 +230,7 @@ balute - tammi
 balutopal - tammenterho  
 banan - banaani  
 bande - ryhmä (työryhmä, yhtye, bändi)  
-bander - lippu  
+bandir - lippu  
 bangli - bengali  
 Banglodesh - Bangladesh  
 banglodeshi - bangladeshilainen  
@@ -302,7 +302,7 @@ bebe - vauva
 bede - vuode (sänky, peti)  
 bedinjan - munakoiso  
 bega - paeta (karata)  
-beijing - Peking (Beijing)  
+Beijing - Peking (Beijing)  
 beka - leipoa  
 beker - leipuri  
 bekeria - leipomo  
@@ -326,13 +326,14 @@ Berlin - Berlin
 Bermuda - Bermuda  
 beton - betoni  
 beyu - läpikäydä (passiivin muodostava verbi)  
+bibli - raamatullinen  
 biblia - Raamattu  
 bil - lasku (faktuura)  
 bin - rakennus (rakenne)  
 bina - rakentaa  
 binde - täplä (läiskä)  
 bir - olut (kalja)  
-bireria - baari (kapakka)  
+birkan - baari (kapakka)  
 bis - muunsukupuolinen  
 Bisau Ginia - Guinea-Bissau  
 bishu - täytyä (olla pakko)  
@@ -355,10 +356,11 @@ bol - pallo
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
 bombe - pommi  
-bon (boni) - hyvä  
-bon zar - hyvä onni (tuuri, säkä, lykky)  
+bondarja - nostaa tasoa  
 bondarme - hyve  
 bondarmi - hyveellinen (hyvä)  
+boni - hyvä  
+boni zar - hyvä onni (tuuri, säkä, lykky)  
 bonsif - laatu (laadukkuus, erinomaisuus, hyvyys)  
 bonsifi - laadukas (hyvä)  
 bonsinyi - hyvää lupaava  
@@ -511,7 +513,6 @@ cirke - piiri (ympyrä)
 cirki - pyöreä  
 cirkosheke - mukulakivi  
 cita - lainata (siteerata)  
-cite - suurkaupunki  
 citi marke - lainausmerkki  
 civili - sivistynyt  
 civilia - sivilisaatio  
@@ -546,11 +547,9 @@ dantomediker - hammaslääkäri
 darba - lyödä (iskeä)  
 darje - porras (aste, taso)  
 darji - asteittainen (porrastettu)  
-darjobona - nostaa tasoa  
-darjomala - laskea tasoa  
 darme - moraali  
 darmi - moraalinen  
-darmoloji - etiikka (moraalioppi)  
+darmolojia - etiikka (moraalioppi)  
 darmositem - darmstadtium  
 darsa - oppia (opiskella)  
 darse - oppi (opetus)  
@@ -568,15 +567,16 @@ datobanke - tietokanta
 daw - tie  
 dawiste - taolainen  
 dawistia - taolaisuus  
-day (dayi) - iso (suuri)  
 daydarja - korottaa  
 daydarsia - yliopisto  
 daydom - palatsi  
 dayhay - valtameri  
+dayi - iso (suuri)  
 dayia - suuruus (koko)  
 daypaw - tykki  
 daypawer - tykkimies  
 daysheke - lohkare (järkäle)  
+daysite - suurkaupunki  
 dayu - kasvaa (suurentua)  
 debili - heikko  
 deci' - desi  
@@ -592,10 +592,10 @@ deftia - rekisteri (tili)
 deftobuke - lokikirja  
 Deimos - Deimos  
 dem - väestö (kansa)  
-demgrafia - väestötiede (demografia)  
-demkrati - demokraattinen  
-demkratia - demokratia  
-demkratiste - demokraatti  
+demografia - väestötiede (demografia)  
+demokrati - demokraattinen  
+demokratia - demokratia  
+demokratiste - demokraatti  
 demomultia - väenpaljous  
 demon - demoni (piru)  
 den - päivä  
@@ -676,9 +676,9 @@ duku - surra (murehtia)
 dulbashi - kaksikielinen  
 dulgrafi - stereoskooppinen  
 duli - kaksi (2)  
-duli ban - kahdesti (kaksi kertaa)  
 duli o tini - muutama (pari-kolme)  
 dulistia - dualismi  
+dulmaro - kahdesti (kaksi kertaa)  
 dulmeni - kaksimielinen (kaksimerkityksinen)  
 dulmes - helmikuu  
 dulo fena - puolittaa (jakaa kahdella)  
@@ -711,7 +711,7 @@ ekolojia - ekologia (ympäristötiede)
 ekor - orava  
 ekran - kuvaruutu  
 eksa' - eksa-  
-ekuador - Ecuador  
+Ekuador - Ecuador  
 eletre - sähkö  
 eletri - sähköinen  
 eletrolinye - sähköjohto  
@@ -721,9 +721,9 @@ eletrorade - salama
 em - elementti (yksinkertaisin yksikkö)  
 emir - emiiri  
 emiria - emiirikunta  
-emoca - tuntea (kokea tunteita)  
 emoce - tunne (mielenliikutus)  
 emocohal - tunnetila (tuuli)  
+emocu - tuntea (kokea tunteita)  
 emoje - hymiö (emoji)  
 energe - energia  
 engli - englanti  
@@ -736,7 +736,7 @@ enzim - entsyymi
 er - tekijä (aikaansaaja)  
 erbem - erbium  
 eria - paja (kauppa, tekimö)  
-eris - Eris (kääpiöplaneetta)  
+Eris - Eris (kääpiöplaneetta)  
 Eritria - Eritrea  
 es - olo (oleminen)  
 esa - olla  
@@ -1689,6 +1689,7 @@ lilake - syreeni
 lilaki - violetti (liila)  
 lilbol - kupla  
 lilsheke - sorakivi  
+lilsite - pikkukaupunki  
 lilyam - välipala (naposteltava)  
 limfas - viisitahokas (prisma)  
 limgon - viisikulmio  
@@ -1791,6 +1792,7 @@ malaria - malaria
 Malawi - Malawi  
 malayali - malajalam (eräs intialainen kieli)  
 malayi - malaiji  
+maldarja - laskea tasoa  
 malfunce - toimintahäiriö  
 Mali - Mali  
 malike - jasmiini  
@@ -2731,6 +2733,7 @@ sisi - kuusi (6)
 sismes - kesäkuu  
 sismolojia - seismologia  
 sistem - järjestelmä (systeemi)  
+site - kaupunki  
 slavi - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
