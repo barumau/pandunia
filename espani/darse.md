@@ -6,17 +6,23 @@ Presentación
 
 ### Diálogo
 
-☻: **te si ke?**
+<big>👩</big>
+**te si ke?**
 = ¿Quién es usted?  
-☺: **me si yusef. te si ke?**
+<big>🧔</big>
+**me si Yusef. te si ke?**
 = Yo soy Yusef. ¿Quién es usted?  
-☻: **me si maria. le si ke?**
+<big>👩</big>
+**me si Maria. le si ke?**
 Yo soy Maria. ¿Quién es?  
-☺: **le si mi doste.**
+<big>🧔</big>
+**le si mi doste.**
 = Es una amiga mia.  
-☻: **li nam si ke?**
+<big>👩</big>
+**li nam si ke?**
 = ¿Cómo se llama?  
-☺: **li nam si sarah.**
+<big>🧔</big>
+**li nam si Sara.**
 = Su nombre es Sara.
 
 ### Gramatica
@@ -26,7 +32,7 @@ Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indi
 
 Del mismo modo puede describirse diciendo **mi** seguida por una palabra que lo describa.
 
-**me bon.**
+**me boni.**
 - Yo soy bueno.  
 **me man.**
 - Soy un hombre.  
@@ -48,21 +54,44 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**me** yo. **mi** mi.  
-**te** tú, usted. **ti** tu.  
-**le** él, ella, ello. **li** su.  
-**ke** quién? qué?  
-**si** sí. **no** no.  
-**bon** bueno. **doste** amigo, amiga. **nam** nombre.
-**fem** mujer. **man** hombre.  
-**maw** gato. **hewan** animal.
+**me**
+yo  
+**mi**
+mi  
+**te**
+tú, usted
+**ti**
+tu  
+**le**
+él, ella, ello  
+**li**
+su  
+**ke**
+quién? qué?  
+**si**
+sí  
+**no** no  
+**boni**
+bueno  
+**doste**
+amigo, amiga  
+**nam**
+nombre  
+**fem**
+mujer  
+**man**
+hombre  
+**maw**
+gato  
+**hewan**
+animal
 
 ### Respuestas
 
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sarah.
+4. le si Sara.
 5. ti nam si ke?
 6. mi nam si ........... 
 
@@ -118,7 +147,7 @@ La forma de **salama tu** es útil para decir el nombre de la persona, parentesc
 = ¡Hola, mamá!  
 **salam pape!**
 = ¡Hola, papá!  
-**salam xefe!**
+**salam shef!**
 = ¡Hola, jefe!  
 
 <!-- Another Pandunia word for greeting is **halo**. It is also a very international greeting. You can choose freely, which word to use when you greet people. -->
@@ -136,11 +165,16 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**salam, halow** saludo; hola, adiós.
-**salama** saludar.  
-**mame** mamá, madre, ma.
-**pape** padre, papá, pa.
-**xefe** jefe, patrón.
+**salam, halo**
+saludo; hola, adiós  
+**salama**
+saludar  
+**mame**
+mamá, madre, ma  
+**pape**
+padre, papá, pa  
+**shef*
+jefe, patrón  
 
 
 ### Respuestas
@@ -159,22 +193,30 @@ Pidiendo
 
 ### Diálogo
 
-☻: **salam!**
+<big>🧒</big>
+**salam!**
 = ¡Hola!  
-☺: **salam! pliza sida.**
+<big>🧓</big>
+**salam! pliza sida.**
 = ¡ Hola!¡ Por favor sientese!  
-☻: **danke.**
+<big>🧒</big>
+**danke.**
 = ¡Gracias!  
-☺: **pliza niama kafe o cay.**
+<big>🧓</big>
+**pliza yama kafe o chay.**
 = Por favor beba algo de café o té.  
-☻: **me wana cay. danke.**
+<big>🧒</big>
+**me volu chay. danke.**
 = Quiero té, gracias.  
 ...  
-☺: **pliza salama ti mame!**
+<big>🧓</big>
+**pliza salama ti mame!**
 = Por favor llevale saludos a tu madre.  
-☻: **me salama le. salam!**
+<big>🧒</big>
+**me salama le. salam!**
 = Yo la saludo. ¡Adiós!  
-☺: **salam!**
+<big>🧓</big>
+**salam!**
 = ¡Chao!
 
 
@@ -227,18 +269,18 @@ utilizado para hacer peticiones corteses.
 = Por favor sientese.  
 **pliza dona kafe.**
 = Por favor me da un poco de café.  
-**pliza dona cay.**
+**pliza dona chay.**
 = Por favor me da un poco de té.  
-**pliza niama cay.**
+**pliza yama chay.**
 = Por favor beba algo de té.  
-**pliza safa kamare.**
+**pliza safa kamar.**
 = Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **komanda** = ordenar. Se utiliza la misma estructura eje como para pedir con **pliza**.
 
-> **komanda dona cay.**
+> **komanda dona chay.**
 = ¡Deme un poco de té!
-> **komanda safa kamare.**
+> **komanda safa kamar.**
 = ¡Limpie la habitación!
 
 
@@ -255,27 +297,39 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**cay** té.
-**pliza** pedir, solicitar; por favor.
-**dona** dar.
-**danke** gracias.
-**e** y.
-**kafe** café.
-**kamare** habitación.
-**komanda** to command.
-**o** o.
-**safa** limpiar.
-**sida** estar sentado.
-**niama** beber, comer.
+**chay**
+té  
+**pliza**
+pedir, solicitar; por favor  
+**dona**
+dar  
+**danke**
+gracias  
+**e**
+y  
+**kafe**
+café  
+**kamar**
+habitación  
+**komanda**
+ordonar  
+**o**
+o  
+**safa**
+limpiar  
+**sida**
+estar sentado  
+**yama**
+beber, comer
 
 
 ### Respuestas
 
-1. le niama cay.
-2. xefe pliza le sida.
-3. pliza niama kafe o cay.
-4. mame pliza me safa kamare.
-5. xefe sida e niama kafe.
+1. le yama chay.
+2. shef pliza le sida.
+3. pliza yama kafe o chay.
+4. mame pliza me safa kamar.
+5. shef sida e yama kafe.
 
 
 ---------------------------------------------------------------------
@@ -287,48 +341,59 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! eska te wana niama kafe o cay?**
+<big>👩‍🍳</big>
+**salam! wena te volu yama kafe o chay?**
 = ¡Hola! ¿ Qué desean tomar café o té?  
-☺: **cay.**
+<big>🧔</big>
+**chay.**
 = Té.  
-☻: **e te?**
+<big>👩‍🍳</big>
+**e te?**
 = ¿ y Usted? 
-○: **me no baxa pandunia...**
+<big>🧓</big>
+**me no basha pandunia...**
 = Yo no hablo Pandunia...  
-☻: **pardon! eska le niama cay?**
+<big>👩‍🍳</big>
+**pardon! wena le yama chay?**
 = ¡Perdón! ¿Él toma té?  
-☺: **no. le no niama cay. le wana niama kafe.**
-= No, él desea tomar café.  
-☻: **eska te wana niama supe?**
+<big>🧔</big>
+**no. le no yama chay. le volu yama kafe.**
+= No. Él no bebe té. Él desea tomar café.  
+<big>👩‍🍳</big>
+**wena te volu yama supe?**
 = ¿Quieren tomar sopa?  
-☺: **si, niama.**
+<big>🧔</big>
+**si, volu.**
 = Sí.  
-☻: **eska le wana niama supe?**
+<big>👩‍🍳</big>
+**wena le volu yama supe?**
 = ¿Él quiere tomar sopa?  
-☺: **no niama.**
+<big>🧔</big>
+**no yama.**
 = No.  
-☻: **danke. me dona un cay e un kafe e un supe sa bade yu des minute.**
+<big>👩‍🍳</big>
+**danke. me dona un chay e un kafe e un supe sa bade da desi minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **pliza**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **pliza**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **wena** = preguntar.
 
-**me eska te niama cay.**
+**me wena te yama chay.**
 = Yo preguntarte, tomas té.  
-**eska te niama cay?**
+**wena te yama chay?**
 = ¿Bebes tú té?  
-**eska niama cay?**
+**wena yama chay?**
 = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-**eska le niama cay?**
+**wena le yama chay?**
 = ¿Bebe él/ella té?  
-**eska te niama supe?**
+**wena te yama supe?**
 = ¿Come usted sopa?  
-**eska kamilo baxa pandunia?**
+**wena kamilo basha pandunia?**
 = ¿Habla Camilo Pandunia?
 
 
@@ -336,30 +401,30 @@ En las peticiones por lo general se refiere a los que se habla, pero las pregunt
 
 Las preguntas de sí o no se responden con **si** = sí, y **no** = no.
 
-– **eska te niama supe?**
+– **wena te yama supe?**
 = ¿Comes tú sopa?  
 – **si.**
 = Sí.  
-– **eska le niama supe?**
+– **wena le yama supe?**
 = ¿Come ella sopa?  
 – **no.**
 
 También se puede dar una respuesta mas larga.
 
-– **eska te niama kafe?**
+– **wena te yama kafe?**
 = ¿Bebes tú café?  
-– **si. me niama kafe.**
+– **si. me yama kafe.**
 = Sí, yo bebo café.  
-– **eska le niama kafe?**
+– **wena le yama kafe?**
 = ¿Bebe él café?  
-– **no. le no niama kafe.**
+– **no. le no yama kafe.**
 = No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
 
-– **eska te niama suy?**
+– **wena te yama suy?**
 = ¿Bebe usted agua?  
-– **niama.**
+– **yama.**
 = (Sí, yo) bebo.
 
 
@@ -378,27 +443,38 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**bade** despues.
-**pardon** perdón.
-**minute** minuto.
-**no** no.
-**baxa** hablar una língua.
-**suy** agua.
-**supe** sopa.
-**un** un (1).
-**des** diez.
-**eska** preguntar.
-**si** sí.
+**bade**
+despues  
+**pardon**
+perdón  
+**minute**
+minuto  
+**no**
+no  
+**basha**
+hablar una língua  
+**suy**
+agua  
+**supe**
+ sopa  
+**un**
+un (1)  
+**des**
+diez  
+**wena**
+preguntar  
+**si**
+sí
 
 
 ### Respuestas
 
-1. eska te baxa pandunia?
-2. si. me baxa pandunia.
-3. eska mame niama kafe?
-4. no. le no niama kafe.
-5. eska le niama supe?
-6. (le) no niama.
+1. wena te basha pandunia?
+2. si. me basha pandunia.
+3. wena mame yama kafe?
+4. no. le no yama kafe.
+5. wena le yama supe?
+6. (le) no yama.
 
 
 ---------------------------------------------------------------------
@@ -422,11 +498,11 @@ del verbo convertimos una oración afirmativa en negativa.
  a la palabra que la sigue. si que diferentes alcances de negación
  pueden resultar en función de la ubicación de la palabra negativa.
 
-**me pliza te safa kamare.**
+**me pliza te safa kamar.**
 = Yo te pedi limpiar la habitación.  
-**me no pliza te safa kamare.**
+**me no pliza te safa kamar.**
 = Yo no te pedi limpiar la habitación.  
-**me pliza te no safa kamare.**
+**me pliza te no safa kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
@@ -467,11 +543,11 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 ### Respuestas
 
-1. le no safa kamare.
+1. le no safa kamar.
 2. un kupe no hali.
-3. dul waf no niama supe.
+3. dul waf no yama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
-5. xefe niama cay a no kafe.
+5. shef yama chay a no kafe.
 6. mame tena no waf a dul maw.
 
 
@@ -482,11 +558,11 @@ Intenta traducir las oraciones de Español a Pandunia.
 Las palabras para pasado, el presente y el futuro son **pas**, **zay** y **wil**.
 Pueden ser usadas para modificar sustantivos.
 
-**sarah si mi pas xefe.**
+**sarah si mi pas shef.**
 = Sara es mi ex-jefa.  
-**yusef si mi zay xefe.**
+**yusef si mi zay shef.**
 = Yusef es mi actual jefe.  
-**maria si mi wil xefe.**
+**maria si mi wil shef.**
 Maria es mi futura jefa.
 
 Las mismas palabras son usadas cuando se habla sobre acciones y
@@ -496,11 +572,11 @@ Cuando se desea expresar algo que sucedió en el pasado, se pone
 presente, se adiciona **na zaye** (en el momento, ahora). Y cuando se
 habla del futuro, se añade **na wile** (en el futuro).
 
-**le si mi xefe sa pase.**
+**le si mi shef sa pase.**
 = Ella fue mi jefa en el pasado.  
-**le si mi xefe sa zaye.**
+**le si mi shef sa zaye.**
 = Ella es mi jefa actualmente.  
-**le si mi xefe sa wile.**
+**le si mi shef sa wile.**
 = Ella será mi jefa en el futuro.
 
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
@@ -515,7 +591,7 @@ que todavía se está hablando en el mismo tiempo.
 
 **me pas tena un maw.**
 = Yo tuve un gato en el pasado.  
-**le bon maw.**
+**le boni maw.**
 = Ella fue una buena gata.  
 **me tena un waf zay.**
 = Yo tengo un perro en el momento.
@@ -523,11 +599,11 @@ que todavía se está hablando en el mismo tiempo.
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
 de tiempo no son necesarias.
 
-**me niama cay sa predi den.**
+**me yama chay sa predi den.**
 = Yo tomé té ayer.  
-**le safa kamare sa badi den.**
+**le safa kamar sa badi den.**
 = Él limpiará la habitación mañana.  
-**mome festa sa nen 2000 du predi xam.**
+**mome festa sa nen 2000 du predi sham.**
 = Nosotros celebraremos la víspera del año 2000.
 
 ### Ejercicios
@@ -542,44 +618,45 @@ Intenta traducir de Español a Pandunia.
 7. Tu mamá celebró en la última noche.
 
 ### Vocabulario
+
 **pas**
-= pasado, antiguo, ex.
+pasado, antiguo, ex  
 **pase**
-= el pasado.
+el pasado  
 **zay**
-= actual, presente.
+actual, presente  
 **zaye**
-= el presente.
+el presente  
 **wil**
-= futuro
+futuro  
 **wile**
-= el futuro
+el futuro  
 **sa**
-= estar ubicado en (tiempo o espacio); en.
+estar ubicado en (tiempo o espacio); en  
 **badi**
-= siguiente.
+siguiente  
 **den**
-= día.
+día  
 **badi den**
-= al día siguiente, mañana.
+al día siguiente, mañana  
 **predi**
-= anterior, previo.
+anterior, previo  
 **predi den**
-= el día anterior, ayer.
-**xam**
-= noche.
-**predi xam**
-= la noche anterior, víspera.
+el día anterior, ayer  
+**sham**
+noche  
+**predi sham**
+la noche anterior, víspera  
 **festa**
-= celebrar.
+celebrar
 
 ### Respuestas
 
-1. mi xefe festa sa wile.
+1. mi shef festa sa wile.
 2. me tena dul waf sa pase.
-3. te niama supe zay.
-4. le safa kamare sa predi den.
-5. maw niama kafe sa badi den.
+3. te yama supe zay.
+4. le safa kamar sa predi den.
+5. maw yama kafe sa badi den.
 6. ti mame festa sa predi noce.
 
 
@@ -629,7 +706,7 @@ otras más pequeñas y más manejables.
 Las palabras conectoras también ayudan a enlazar dos frases entre
 ellas.
 
-**mame niama keke sa bade da le fata le.**
+**mame yama keke sa bade da le fata le.**
 = Mamá come una galleta después de hacerla.  
 **te fikra ke sa tem da keke du guste?**
 = ¿Qué tu piensas del sabor de estas galletas?
@@ -663,7 +740,7 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**me wana vida te.**
+**me volu vida te.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
 **me foka vida te.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
@@ -674,9 +751,9 @@ Pueden haber mas de dos verbos en serie.
 = Yo aprendo pandunia.  
 **me mula darsa pandunia.**
 = Yo empiezo a aprender pandunia.  
-**me wana mula darsa pandunia.**
+**me volu mula darsa pandunia.**
 = Yo quiero empezar a aprender Pandunia.  
-**me wana mula darsa loga pandunia.**
+**me volu mula darsa loga pandunia.**
 = Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -697,12 +774,12 @@ Intenta traducir estas oraciones de Español a Pandunia.
 = empezar, comenzar.
 **vida**
 = ver, mirar.
-**wana**
+**volu**
 = querer, necesitar.
 
 ### Respuestas
 
-1. me wana dona kafe pa xefe.
-2. eska te wana niama suy?
-3. le no wana safa zi kamare.
+1. me volu dona kafe pa shef.
+2. wena te volu yama suy?
+3. le no volu safa zi kamar.
 

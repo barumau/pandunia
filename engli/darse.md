@@ -73,14 +73,38 @@ answers are after the word list.
 
 ### Word List
 
-**me** I, me. **mi** my.  
-**te** you. **ti** your.  
-**le** he, she or it. **li** his, her, its.  
-**ke** who or what.  
-**si** yes. **no** no, not.  
-**boni** good. **doste** friend. **nam** name.  
-**fem** woman. **man** man.  
-**maw** cat. **hewan** animal.
+**me**
+I, me  
+**mi**
+my  
+**te**
+you  
+**ti**
+your  
+**le**
+he, she or it  
+**li**
+his, her, its  
+**ke**
+who or what  
+**si**
+yes  
+**no**
+no; not  
+**boni**
+good  
+**doste**
+friend  
+**nam**
+name  
+**fem**
+woman  
+**man**
+man  
+**maw**
+cat  
+**hewan**
+animal
 
 ### Answers to the Exercises
 
@@ -175,11 +199,16 @@ answers are after the word list.
 
 ### Word List
 
-**salam, halo** greeting, hello, hi, salaam, ciao, etc.
-**salama** to greet.  
-**mame** mother, mom.
-**pape** father, dad.
-**shef** chief, boss.
+**salam, halo**
+greeting, hello, hi, salaam, ciao, etc.  
+**salama**
+to greet  
+**mame**
+mother, mom  
+**pape**
+father, dad  
+**shef**
+chief, boss  
 
 
 ### Answers to the Exercises
@@ -306,18 +335,30 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**chay** tea.
-**pliza** to ask; please.
-**dona** to give.
-**danke** thanks.
-**e** and.
-**kafe** coffee.
-**kamare** room.
-**komanda** to order, to command.
-**o** or.
-**safa** to clean.
-**sida** to sit.
-**yama** to eat or drink.
+**chay**
+tea  
+**pliza**
+to ask; please  
+**dona**
+to give  
+**danke**
+thanks  
+**e**
+and  
+**kafe**
+coffee  
+**kamar**
+room  
+**komanda**
+to order, to command  
+**o**
+or  
+**safa**
+to clean  
+**sida**
+to sit  
+**yama**
+to eat or drink  
 
 
 ### Answers to the Exercises
@@ -325,7 +366,7 @@ Try translating these sentences from English to Pandunia.
 1. le yama chay.
 2. shef pliza le sida.
 3. pliza yama kafe o chay.
-4. mame pliza me safa kamare.
+4. mame pliza me safa kamar.
 5. shef sida e yama kafe.
 
 
@@ -337,27 +378,38 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! wena te yama kafe o chay?**
+<big>👩‍🍳</big>
+**salam! wena te yama kafe o chay?**
 = Hello! Would you like to have coffee or tea?  
-☺: **chay.**
+<big>🧔</big>
+**chay.**
 = Tea.  
-☻: **e te?**
+<big>👩‍🍳</big>
+**e te?**
 = And you?  
-○: **me no basha pandunia...**
+<big>🧓</big>
+**me no basha pandunia...**
 = I don't speak Pandunia...  
-☻: **pardon! wena le yama chay?**
+<big>👩‍🍳</big>
+**pardon! wena le yama chay?**
 = Pardon! Will he have tea?  
-☺: **no. le no yama chay. le yama kafe.**
+<big>🧔</big>
+**no. le no yama chay. le yama kafe.**
 = No, he won't. He would like to have coffee.  
-☻: **wena te yama supe?**
+<big>👩‍🍳</big>
+**wena te yama supe?**
 = Would you like to have soup?  
-☺: **si, yama.**
+<big>🧔</big>
+**si, yama.**
 = Yes. (_I eat._)  
-☻: **wena le yama supe?**
+<big>👩‍🍳</big>
+**wena le yama supe?**
 = Would he like to have soup?  
-☺: **no yama.**
+<big>🧔</big>
+**no yama.**
 = No.  
-☻: **danke. me dona un chay e un kafe e un supe sa bade da desi minute.**
+<big>👩‍🍳</big>
+**danke. me dona un chay e un kafe e un supe sa bade da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -443,17 +495,26 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bade** after.
-**pardon** pardon, sorry.
-**minute** minute.
-**no** not.
-**basha** speak a language.
-**suy** water.
-**supe** soup.
-**un** one (1).
-**desi** ten.
-**wena** to ask a question.
-**si** yes.
+**bade**
+after  
+**pardon**
+pardon, sorry  
+**minute**
+minute  
+**basha**
+speak a language  
+**suy**
+water  
+**supe**
+soup  
+**un**
+one (1)  
+**desi**
+ten  
+**wena**
+to ask a question  
+**si**
+yes
 
 
 ### Answers to the Exercises

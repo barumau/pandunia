@@ -3,17 +3,12 @@ site_url: http://www.pandunia.info/espani
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../espani
 site_dir: ../../html/espani
-theme:
-  name: cerulean
-  language: es
-plugins:
-    - search:
-        lang: es
+theme: readthedocs
 nav:
     - Inicio: 'index.md'
     - 'Info':
         - 'Principios': filsofe.md
-    - 'Lessons':
+    - 'Lecciones':
         - 'Ortografía': abc.md
         - 'Frases básicas': fraze.md
         - 'Curso': darse.md
