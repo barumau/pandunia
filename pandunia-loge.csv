@@ -203,6 +203,10 @@ aut:i|auti||||personal (intimate, private, custom)||personal (privado, a medida)
 aut.o.mot:i|automoti||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
 aut.o.nom:i|autonomi||||autonomous||autónomo||||||||||||||autonominen|autonomiczny
 aut.o.nom:ia|autonomia||||autonomy||autonomía||||||||||||||itsehallinto (autonomia)|autonomia
+avar:|avar|||ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|damage (injury, harm)|dommage|daño (corrupción)|dano (avaria)|повреждение (авария)|||||||||||damaĝo|vaurio (vahinko, haveri)|obrażenia (rana, krzywda)
+avar:a|avara||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
+avar:i|avari||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
+avar.an:i|avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen (vaurioittava)|krzywdzący (szkodliwy)
 avgan:i|avgani||||Afghan|afghan|afgano|afegão|афганский||||||अफगानी|||||afgana|afgaani|afgański
 avgan.istan:|Avganistan|desh|AF||Afghanistan|Afghanistan|Afganistán|Afeganistão|Афганистан||阿富汗|アフガニスタン|아프가니스탄||अफ़्ग़ानिस्तान||Afghanistan||Afganistan|Afganujo, Afganio|Afganistan|Afganistan
 awakat:e|awakate|biw||nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|avocado||aguacate|||||||||||||avokado|avokado|awokado
@@ -561,10 +565,6 @@ dak:e|dake||||cover (lid, cap, deck)||tapa (funda, cubierta)||||||||ढक्क
 dalil:|dalil|||ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|proof (evidence, proof, demonstration, testimony)|preuve|prueba|prova|доказательство||||||||||||todiste (todistus, osoitus, demonstraatio)|dowód; zeznanie
 dalil:a|dalila||||prove (demonstrate, testify)||probar (demonstrar, comprobar)||||||||||||||todistaa|dowieść, dowodzić; zeznać, zeznawać
 dam.o.gem:|damogem|||fra:jeu de dames, ara:(dāmā), may:dam, spa:por:damas, deu:Damespiel|checkers (draughts)||damas||||||||||||||tammipeli|warcaby
-damaj:a|damaja||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
-damaj:e|damaje|||eng:damage, fra:dommage|damage (injury, harm)|dommage|daño (corrupción)||повреждение|||||||||||damaĝo|vaurio (vahinko)|obrażenia (rana, krzywda)
-damaj:i|damaji||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
-damaj.an:i|damajani||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen|krzywdzący (szkodliwy)
 dan:|dan|||hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)
 dan.sekur:i|dansekuri||||bulletproof||antibalas||||||||||||||luodinkestävä|kuloodporny
 danc:e|dance|||eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|dance|dance|baile (danza)|baile (danza)|танец||||||||tari||dans|danco|tanssi|taniec
@@ -1140,9 +1140,6 @@ haha|haha|||eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (h
 haida|haida|||rum:háide, ell:άιντε (áinte), bul:ха́йде (hájde), rus:айда (ayda), tur:hadi, ara:هَيَّا‎ (hayyā), vie:hãy|let's||vamos a|||||||||||||ni faru...|tehkäämme|niech my, hajda
 Haiti|Haiti|desh|HT||Haiti||Haití|||||||||||||Haitio|Haiti|Haiti
 hake|hake|||ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|right (entitlement)|droit|derecho|direito|||权利|権利|권리||अधिकार (हक़)|অধিকার||||rajto|oikeus (oikeutus)|prawo, przywilej
-hakim|hakim||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
-hakima|hakima|||ara:حَكَمَ‎ (ḥakama), swa:hakimu|judge||juzgar (considerar)||||||||||||||tuomita|sądzić (osądzić)
-hakimer|hakimer||||judge (referee)||juez (árbitro, réferi)|||||||||||||juĝisto|tuomari|sędzia
 hal|hal|||ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|state (condition, status, situation)|état|estado (condición)|estado|состояние (статус)||状态|状態|상태||हालत (दशा)||keadaan (kondisi)|hali|durum (hâl)|stato|tila (tilanne, seikka)|stan
 halala|halala||||allow (permit)||permitir (dejar)||||||||||||||sallia (antaa lupa)|pozwolić, pozwalać, zezwolić, zezwalać
 halali|halali|||ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|permissible (allowed, halal)||permitido (admisible)||||||||||||||sallittu (hyväksytty)|dozwolony (dopuszczalny, zezwolony, halal)
@@ -1210,7 +1207,7 @@ Helsinki|Helsinki|shefocite|FI||Helsinki||||||||||||||||Helsinki|
 hem|hem|||eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|hmm|hum|hm|hmm|хм|||||hmm (hừmm)||||||hm|hmm|hmm
 hema|hema||||ponder (think)||considerar (reflexionar)|||||||||||||pripensi|miettiä (pohtia)|dumać, rozmyślać, zastanawiać się
 hemahe|hemahe|||ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|tent|tente|carpa (toldo)||палатка (шатёр)||帐篷|||||||||tendo|teltta|namiot
-hen|hen|||zho:(hen), fra:(haine)|hate||odio|||||||||||||malamo|viha|nienawidzić
+hen:|hen|||zho:恨 (hèn), yue:恨 (han6), vie:hận + fra:(haine)|hatred (hate)|haine|odio|||||||||||||malamo|viha|nienawidzić
 herze|herze|unomete|Hz||hertz (Hz)||hercio (Hz)||||||||||||||hertsi (Hz)|herc
 hewan|hewan|||may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 hewanjenisia|hewanjenisia||||animal husbandry|élevage||||||畜産||||||||||hodowla zwierząt
@@ -1424,6 +1421,10 @@ jovani fem|jovani fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori 
 jovani man|jovani man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
 jovani moke|jovani moke||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
 jovania|jovania||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
+jud:a|juda||||judge||juzgar (considerar)||||||||||||||tuomita|sądzić (osądzić)
+jud:e|jude||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
+jud:er|juder|||eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|judge (referee)|juje|juez (árbitro, réferi)|juiz|судья|||||||||||juĝisto|tuomari|sędzia
+jud:i|judi||||judicial||||||||||||||||oikeudellinen|
 judaw|judaw||||judo||yudo|||||||||||||ĵudo|judo|judo
 jul|jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
 jumle|jumle|||ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|sentence (phrase)||oración||фраза||句子|||||||||||zdanie (fraza)
@@ -2250,7 +2251,7 @@ moskit:e|moskite||biwe|eng:spa:por:mosquito, fra:moustique, deu:Moskito, rus:м�
 Moskove|Moskove|shefocite|RU||Moscow||||Москва||||||||||||Moskova|Moskwa
 moskovem|moskovem|mate|Mc||moscovium||moscovio|||||||||||||moskovio|moskovium|moskovium
 mote|mote|||ita:moto, eng:motion|motion (movement)||movimiento|||||||||||||movo|liike|ruch
-moter|moter||||engine (motor)||motor|||||||||||||motoro|moottori|silnik
+moter|moter|||eng:spa:por:tur:may:motor, fra;moteur, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr)|engine (motor)|moteur|motor|motor|мотор||马达 (发动机)|モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|मोटर|ইঞ্জিন (মোটর)|motor|injini (ntambo)|motor|motoro|moottori|silnik
 motocikle|motocikle|||tur:motosiklet, spa:motocicleta, fra:motocyclette, eng:motorcycle, rus:мотоцикл (mototsikl), zho:摩托车 (mótuōchē)|motorcycle||motocicleta||||||||||||||moottoripyörä|motocykl (motor)
 motogar|motogar|||eng:motorcar, sna:motokari, sot:motokara, swa:motokaa, zul:imoto, hau:mota|motorcar (automobile)||automóvil (coche)||||||||||||||auto (automobiili)|samochód (automobil)
 Mozambike|Mozambike|desh|MZ||Mozambique||Mozambique||||||||||||||Mosambik|Mozambik
@@ -3419,7 +3420,7 @@ turki|turki||||Turkish||turco||||||||||||||turkkilainen|turecki
 Turkia|Turkia|desh|TR||Turkey||Turquía|||||||||||||Turkio|Turkki|Turcja
 Turkomenia|Turkomenia|desh|TM||Turkmenistan||Turkmenistán||||||||||||||Turkmenistan|Turkmenistan
 Tuvalu|Tuvalu|desh|TV||Tuvalu||Tuvalu||||||||||||||Tuvalu|Tuwalu
-tuze|tuze|||zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|rabbit (hare)|lapin (lièvre)|conejo||||||||||||||jänis|królik, zając
+tuze|tuze|bio|Leporidae|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|rabbit (hare)|lapin (lièvre)|conejo||||||||||||||jänis|królik, zając
 U|U||||U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U
 Ukraina|Ukraina|desh|UA||Ukraine||Ucrania||||||||||||||Ukraina|Ukraina
 ulul|ulul||||howling||aullido||||||||||||||ulvonta|wycie, skowyt
