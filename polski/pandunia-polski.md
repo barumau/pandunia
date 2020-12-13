@@ -2479,7 +2479,6 @@ perkardon - ostrożeń lancetowaty
 Peru - Peru  
 pes - pieniądze  
 pesdiske - moneta  
-pesh - profesja, zajęcie, zawód  
 pesh - ryba  
 peshohuke - haczyk  
 peshosaider - rybak  
@@ -2488,6 +2487,7 @@ pete - brzuch
 petre - skała  
 petronefte - ropa naftowa  
 pey - zapłata, opłata  
+peykar - profesja, zajęcie, zawód  
 peya - zapłacić, opłacić, płacić  
 piano' - pianino  
 piaze - cebula  

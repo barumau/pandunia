@@ -676,9 +676,8 @@
 |**penta**|pentri|angla:paint, franca:peintre|
 |**pepin**|kukumo|hispana:portugala:pepino, filipina:pipino, sin:පිපිඤ්ඤා (pipiññā)|
 |**per**|plumo|hindia:पर (par), persa:urdua:(par), kur:perr, rusa:перо (pero)|
-|**pes**|mono|hindia:पैसा (paisā), marataja:पैसा (paisā), panĝaba:ਪੈਸਾ (pēsā), guĝarata:પૈસો (paiso), araba:(bēzāt), svahila:pesa, (hispana:peso)|
+|**pes**|mono|hindia:पैसा (paisā), marataja:पैसा (paisā), panĝaba:ਪੈਸਾ (pēsā), guĝarata:પૈસો (paiso), araba:(bēzāt), svahila:pesa + hispana:peso|
 |**pesh**|fiŝo|hispana:pez, portugala:peixe, itala:pesce + angla:fish, deu:Fisch|
-|**pesh**|metiero|persa:(piše), hindia:पेशा (peśā), bengala:পেশা (peśa)|
 |**peta'**|peta-|angla:franca:hispana:portugala:malaja:turka:peta-, rusa:пета- (peta-), japana:ペタ (peta), korea:페타- (peta-), mandarena:拍它- (pāitā-)|
 |**pete**|ventro|bengala:পেট (peṭ), hindia:पेट (peṭ), malaja:perut, araba:(baṭn)|
 |**petre**|roko|hindia:पत्थर (patthar), urdua:(patthar), itala:pietra, portugala:pedra, hispana:piedra, franca:pierre|

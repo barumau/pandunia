@@ -816,6 +816,7 @@ preuve - dalil
 problème - problem  
 problématique - problemi  
 professeur (enseignant) - shuliser  
+profession (métier) - peykar  
 profond - fasteli  
 programme - program  
 projectile - lancovute  

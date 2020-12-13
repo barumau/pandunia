@@ -2217,7 +2217,7 @@ proces, procedura - proces
 proch strzelniczy - barude  
 produkcja - chania  
 produktywny (żyzny) - chanivi  
-profesja, zajęcie, zawód - pesh  
+profesja, zajęcie, zawód - peykar  
 profesor - profesor  
 program - program  
 programista, koder - programer  

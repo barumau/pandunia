@@ -689,6 +689,7 @@ pesh - 鱼
 peshohuke - 鱼钩  
 peshosaider - 鱼夫  
 petronefte - 石油  
+peykar - 职业  
 piaze - 洋葱  
 pikosape - 镐  
 pil - 皮  

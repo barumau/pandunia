@@ -2639,7 +2639,7 @@ proceso (procedimiento) - proces
 producción - chania  
 producir (hacer, preparar) - chana  
 profecía - nabe  
-profesión (ocupación) - pesh  
+profesión (ocupación) - peykar  
 profesor - profesor  
 profeta - naber  
 profeta Mani - Manihay  

@@ -2582,7 +2582,6 @@ perkardon - spear thistle
 Peru - Peru  
 pes - money  
 pesdiske - coin  
-pesh - profession (occupation)  
 pesh - fish  
 peshohuke - fishhook  
 peshosaider - fisher  
@@ -2592,6 +2591,8 @@ pete - belly (stomach, abdomen)
 petre - rock  
 petronefte - petroleum  
 pey - payment  
+peykar - profession (occupation)  
+peykarer - professional (pro)  
 peya - pay  
 piano' - piano  
 piaze - onion  

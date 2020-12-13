@@ -2605,7 +2605,8 @@ process (procedure) - proces
 produce (create, make) - chana  
 production - chania  
 productive (fertile) - chanivi  
-profession (occupation) - pesh  
+profession (occupation) - peykar  
+professional (pro) - peykarer  
 professor - profesor  
 program (set of structured activities) - program  
 programmer (coder) - programer  

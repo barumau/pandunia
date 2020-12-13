@@ -1002,9 +1002,8 @@
 |**penta**|pintar|eng:paint, fra:peintre|
 |**pepin**|pepino|spa:por:pepino, tgl:pipino, sin:පිපිඤ්ඤා (pipiññā)|
 |**per**|pluma|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
-|**pes**|dinero (plata)|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|
+|**pes**|dinero (plata)|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|
 |**pesh**|pez (pescado)|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
-|**pesh**|profesión (ocupación)|fas:(piše), hin:पेशा (peśā), ben:পেশা (peśa)|
 |**pete**|barriga (vientre, panza)|ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|
 |**petre**|roca (piedra)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
 |**pey**|pago|eng:pay, fra:paye, + zho:费 (fèi)|

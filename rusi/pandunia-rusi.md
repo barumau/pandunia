@@ -744,6 +744,8 @@ peshohuke - крючок
 peshosaider - рыбак (рыболов)  
 petre - горная порода  
 petronefte - нефть  
+peykar - профессия  
+peykarer - профессионал (профи)  
 piaze - лук  
 pike - вершина  
 pikosape - киркомотыга  

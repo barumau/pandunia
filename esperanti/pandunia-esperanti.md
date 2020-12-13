@@ -1276,13 +1276,13 @@ pepin - kukumo
 per - plumo  
 pes - mono  
 pesdiske - monero  
-pesh - metiero  
 pesh - fiŝo  
 peshohuke - fiŝhoko  
 peshosaider - fiŝkaptisto  
 peta' - peta-  
 pete - ventro  
 petre - roko  
+peykar - metiero  
 piano' - piano  
 piaze - cepo  
 pige - kulo  

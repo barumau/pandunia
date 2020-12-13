@@ -89,7 +89,8 @@ amerikium - amerikem
 Amerikka - Amerike  
 amerikkalainen - ameriki  
 amhara (etiopialainen kansa ja kieli) - Amari  
-ammatti - pesh  
+ammatti - peykar  
+ammattilainen - peykarer  
 ampeeri - amper  
 ampulli - ampul  
 anaalinen - anusi  

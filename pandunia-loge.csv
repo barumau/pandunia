@@ -2590,9 +2590,8 @@ pepin|pepin|biw|Cucumis sativus|spa:por:pepino, tgl:pipino, sin:පිපිඤ�
 per|per|||hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|feather||pluma||перо||||||पर्दा|||||plumo|sulka|pióro
 perkardon|perkardon|biw|Cirsium vulgare||spear thistle|cirse commun|cardo burral|cardo-roxo|бодяк обыкновенный||翼蓟|アメリカオニアザミ||||||||||ostrożeń lancetowaty
 Peru|Peru|desh|PE||Peru||Perú||||||||||||||Peru|Peru
-pes|pes|||hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|money|argent|dinero (plata)|dinheiro|деньги|فلوس‎|钱|金|||पैसा||uang (wang)|pesa||mono|raha|pieniądze
-pesdiske|pesdiske||||coin|monnaie (pièce)|moneda|moeda|монета||硬币||||सिक्का||keping||madeni para|monero|kolikko|moneta
-pesh|pesh|||fas:(piše), hin:पेशा (peśā), ben:পেশা (peśa)|profession (occupation)||profesión (ocupación)||||||||पेशा|পেশা||||metiero|ammatti|profesja, zajęcie, zawód
+pes:|pes|||hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|money|argent|dinero (plata)|dinheiro|деньги|فُلُوس‎|钱|金|돈 (금전)|tiền|पैसा|অর্থ (টাকা)|uang (wang)|pesa|para|mono|raha|pieniądze
+pes.disk:e|pesdiske||||coin|monnaie (pièce)|moneda|moeda|монета||硬币||||सिक्का||keping||madeni para|monero|kolikko|moneta
 pesh:|pesh|biw||spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|fish|poisson|pez (pescado)|peixe|рыба|سَمَك‎|鱼|魚|물고기|cá|मछली|মাছ|ikan|samaki|balık|fiŝo|kala|ryba
 pesh.o.huk:e|peshohuke||||fishhook|hameçon|hamo (anzuelo)|anzol|крючок||鱼钩|釣り針|낚시|móc câu|||mata kail|||fiŝhoko|ongenkoukku|haczyk
 pesh.o.said.er:|peshosaider||||fisher|pêcheur|pescador|pescador|рыбак (рыболов)|صياد‎|鱼夫|漁師|낚시꾼 (어부)||||||balıkçı|fiŝkaptisto|kalastaja|rybak
@@ -2602,6 +2601,8 @@ pete|pete|badan||ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(b
 petre|petre|||hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|rock|roche (pierre)|roca (piedra)|rocha (pedra)|горная порода||||石 (岩)|石||पत्थर||||roko|kallio (kivi)|skała
 petronefte|petronefte||||petroleum|pétrole (essence)|petróleo|petróleo|нефть||石油|石油||||||||||ropa naftowa
 pey|pey|||eng:pay, fra:paye, + zho:费 (fèi)|payment||pago||||||||||||||maksu|zapłata, opłata
+pey.kar:|peykar||||profession (occupation)|profession (métier)|profesión (ocupación)|profissão|профессия|مِهْنَة‎|职业|職業|직업|nghề nghiệp|पेशा|পেশা|profesi||meslek|metiero|ammatti|profesja, zajęcie, zawód
+pey.kar.er:|peykarer||||professional (pro)||||профессионал (профи)|||プロフェッショナル|||||||||ammattilainen|
 peya|peya||||pay||pegar||||||||||||||maksaa|zapłacić, opłacić, płacić
 piano*|piano'|||eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:piyano, ara:بيانو‎ (biyānō), hin:पियानो (piyāno), ben:পিয়ানো (piẏano), jpn:ピアノ (piano)|piano||piano|||||||||||||piano|piano|pianino
 piaze|piaze|biw|Allium cepa|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|onion|oignon|cebolla|cebola|лук|بَصَل|洋葱|玉葱|양파|hành tây|प्याज|পেঁয়াজ|bawang|kitunguu|soğan|cepo|sipuli|cebula

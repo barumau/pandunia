@@ -809,6 +809,7 @@ peshohuke - hameçon
 peshosaider - pêcheur  
 petre - roche (pierre)  
 petronefte - pétrole (essence)  
+peykar - profession (métier)  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pikosape - pioche  

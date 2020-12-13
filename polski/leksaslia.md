@@ -1004,8 +1004,7 @@
 |**penta**|namalować, malować|eng:paint, fra:peintre|
 |**pepin**|ogórek|spa:por:pepino, tgl:pipino, sin:පිපිඤ්ඤා (pipiññā)|
 |**per**|pióro|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
-|**pes**|pieniądze|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|
-|**pesh**|profesja, zajęcie, zawód|fas:(piše), hin:पेशा (peśā), ben:পেশা (peśa)|
+|**pes**|pieniądze|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|
 |**pesh**|ryba|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
 |**pete**|brzuch|ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|
 |**petre**|skała|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|

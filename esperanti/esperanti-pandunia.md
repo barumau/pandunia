@@ -998,7 +998,7 @@ Merkuro - Merkur
 merredo - var 3 (var tini)  
 mesaĝo - anjil  
 metalo - metal  
-metiero - pesh  
+metiero - peykar  
 metiisto - janger  
 metodo - metode  
 metro - mitre  

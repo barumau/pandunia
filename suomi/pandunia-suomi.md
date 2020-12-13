@@ -2287,7 +2287,6 @@ per - sulka
 Peru - Peru  
 pes - raha  
 pesdiske - kolikko  
-pesh - ammatti  
 pesh - kala  
 peshohuke - ongenkoukku  
 peshosaider - kalastaja  
@@ -2296,6 +2295,8 @@ peta' - peta-
 pete - maha (vatsa)  
 petre - kallio (kivi)  
 pey - maksu  
+peykar - ammatti  
+peykarer - ammattilainen  
 peya - maksaa  
 piano' - piano  
 piaze - sipuli  

@@ -2408,7 +2408,6 @@ perkardon - cardo burral
 Peru - Perú  
 pes - dinero (plata)  
 pesdiske - moneda  
-pesh - profesión (ocupación)  
 pesh - pez (pescado)  
 peshohuke - hamo (anzuelo)  
 peshosaider - pescador  
@@ -2417,6 +2416,7 @@ pete - barriga (vientre, panza)
 petre - roca (piedra)  
 petronefte - petróleo  
 pey - pago  
+peykar - profesión (ocupación)  
 peya - pegar  
 piano' - piano  
 piaze - cebolla  

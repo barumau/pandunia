@@ -956,8 +956,7 @@
 |**penta**|maalata|englanti:paint, ranska:peintre|
 |**pepin**|kurkku|espanja:portugali:pepino, filippiini:pipino, sin:පිපිඤ්ඤා (pipiññā)|
 |**per**|sulka|hindi:पर (par), persia:urdu:(par), kur:perr, venäjä:перо (pero)|
-|**pes**|raha|hindi:पैसा (paisā), marathi:पैसा (paisā), pandzabi:ਪੈਸਾ (pēsā), gujarati:પૈસો (paiso), arabia:(bēzāt), suahili:pesa, (espanja:peso)|
-|**pesh**|ammatti|persia:(piše), hindi:पेशा (peśā), bangla:পেশা (peśa)|
+|**pes**|raha|hindi:पैसा (paisā), marathi:पैसा (paisā), pandzabi:ਪੈਸਾ (pēsā), gujarati:પૈસો (paiso), arabia:(bēzāt), suahili:pesa + espanja:peso|
 |**pesh**|kala|espanja:pez, portugali:peixe, italia:pesce + englanti:fish, deu:Fisch|
 |**peta'**|peta-|englanti:ranska:espanja:portugali:malaiji:turkki:peta-, venäjä:пета- (peta-), japani:ペタ (peta), korea:페타- (peta-), yleiskiina:拍它- (pāitā-)|
 |**pete**|maha (vatsa)|bangla:পেট (peṭ), hindi:पेट (peṭ), malaiji:perut, arabia:(baṭn)|
