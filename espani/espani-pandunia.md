@@ -903,10 +903,10 @@ darse cuenta (notar) - buda
 darwinismo - darwinistia  
 darwinista - darwiniste  
 datos - date  
-dañado - damaji  
-dañar - damaja  
-dañino (perjudicial) - damajani  
-daño (corrupción) - damaje  
+dañado - avari  
+dañar - avara  
+dañino (perjudicial) - avarani  
+daño (corrupción) - avar  
 de (desde) - cha  
 de (posposición de posesión) - da  
 de (posposición de posesión) - du  
@@ -1266,7 +1266,7 @@ exónimo - waynam
 facilidad - izia  
 falda - jupe  
 falla (mal funcionamiento) - malfunce  
-fallo (juicio, criterio) - hakim  
+fallo (juicio, criterio) - jude  
 falso - falsi  
 familia - famil  
 fan (-filo) - filer  
@@ -1738,7 +1738,7 @@ juego - gem
 juego de mazmorras - donjon aventur  
 juego de mesa - banzogem  
 jueves - var 4 (var chari)  
-juez (árbitro, réferi) - hakimer  
+juez (árbitro, réferi) - juder  
 jugador - gemer  
 jugar un juego - gema  
 jugo (zumo) - jus  
@@ -1751,7 +1751,7 @@ justicia - adalia
 justo (exactamente) - justo  
 justo - adali  
 juventud - jovania  
-juzgar (considerar) - hakima  
+juzgar (considerar) - juda  
 ####K - K  
 karaoke - karaoke  
 karate - karate  

@@ -254,8 +254,8 @@ citi - cita
 citologio - celolojia  
 citrono - limon  
 ####D - D  
-damaĝa - damajani  
-damaĝo - damaje  
+damaĝa - avarani  
+damaĝo - avar  
 danco - dance  
 Danio - Danmarke  
 danki - danka  
@@ -668,8 +668,8 @@ jupo - jupe
 justa - adali  
 justeco - adalia  
 juvelo - bawsheke  
-juĝisto - hakimer  
-juĝo - hakim  
+juĝisto - juder  
+juĝo - jude  
 ####K - K  
 kadmio - kadem  
 kadro - frem  

@@ -361,7 +361,7 @@ documentaire - dokumfilme
 domestique - domi  
 domestiquer (apprivoiser) - dosiljenisa  
 domestiqué (apprivoisé) - dosiljenisi  
-dommage - damaje  
+dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - jena  
 données - date  
 dormir - sonu  
@@ -475,6 +475,7 @@ géologie - zemlojia
 géométrie - zemmetria  
 ####H - H  
 habiller (vêtir) - fuka  
+haine - hen  
 hameçon - fishohuke  
 haut - gaw  
 heure - hor  
@@ -513,6 +514,7 @@ jaïnisme - jeinistia
 je (me) - me  
 jeudi - var 4 (var chari)  
 joule (J) - jul  
+juje - juder  
 Jupiter - Jupiter  
 jus - jus  
 jusque (jusqu’à) - hata  
@@ -629,6 +631,7 @@ morue - kade
 morue de l'Atlantique - atlantokade  
 morue du Pacifique - pacokade  
 mot - loge  
+moteur - moter  
 mouche - zeze  
 moudre - mola  
 mouiller - shipa  

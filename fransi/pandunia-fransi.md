@@ -112,6 +112,7 @@ atlantokade - morue de l'Atlantique
 atlantosamon - saumon altentique  
 aur - or  
 auroranje - kumquat  
+avar - dommage  
 avgani - afghan  
 Avganistan - Afghanistan  
 ay - aïe!  
@@ -234,7 +235,6 @@ cirkosheke - pavé
 ####D - D  
 daka - couvrir  
 dalil - preuve  
-damaje - dommage  
 dance - dance  
 danger - cloche  
 darsokamar - salle de classe  
@@ -401,6 +401,7 @@ helisbabul - acacia faux-gommier
 helisviman - hélicoptère  
 hem - hum  
 hemahe - tente  
+hen - haine  
 hewan - animal (bête)  
 hewanjenisia - élevage  
 hewanparke - zoo  
@@ -454,6 +455,7 @@ jiraf - giraffe
 jive - vie  
 jivi - vivant  
 jovani moke - pousse  
+juder - juje  
 jul - joule (J)  
 jung - centre  
 jungofon - voyelle  
@@ -708,6 +710,7 @@ monoki lense - monocle
 mos - mousse  
 mosi - moussu  
 mosim - saison  
+moter - moteur  
 muke - visage  
 mul - racine  
 mur - mur  

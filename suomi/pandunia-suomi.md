@@ -187,6 +187,10 @@ auti - henkilökohtainen (privaatti)
 automoti - itseliikkuva  
 autonomi - autonominen  
 autonomia - itsehallinto (autonomia)  
+avar - vaurio (vahinko, haveri)  
+avara - vahingoittaa (vaurioittaa)  
+avari - vaurioitunut  
+avarani - vahingollinen (vaurioittava)  
 avgani - afgaani  
 Avganistan - Afganistan  
 awakate - avokado  
@@ -527,10 +531,6 @@ dake - peite (kansi)
 dalil - todiste (todistus, osoitus, demonstraatio)  
 dalila - todistaa  
 damogem - tammipeli  
-damaja - vahingoittaa (vaurioittaa)  
-damaje - vaurio (vahinko)  
-damaji - vaurioitunut  
-damajani - vahingollinen  
 dan - jyvä (luoti)  
 dansekuri - luodinkestävä  
 dance - tanssi  
@@ -1076,9 +1076,6 @@ haha - nauraa
 haida - tehkäämme  
 Haiti - Haiti  
 hake - oikeus (oikeutus)  
-hakim - tuomio  
-hakima - tuomita  
-hakimer - tuomari  
 hal - tila (tilanne, seikka)  
 halala - sallia (antaa lupa)  
 halali - sallittu (hyväksytty)  
@@ -1317,6 +1314,10 @@ jovani - nuori
 jovani fem - tyttö (nuori neito)  
 jovani man - poika (nuori mies)  
 jovania - nuoruus  
+juda - tuomita  
+jude - tuomio  
+juder - tuomari  
+judi - oikeudellinen  
 judaw - judo  
 jul - joule (J)  
 jung - keskus (keskikohta)  

@@ -841,8 +841,8 @@ Côte d’Ivoire (Ivory Coast) - Kotedivuar
 dagger - kanjar  
 daimyo oak - dantobalute  
 daisy - margarite  
-damage (injury, harm) - damaje  
-damaged (corrupt) - damaji  
+damage (injury, harm) - avar  
+damaged (corrupt) - avari  
 dance - dance  
 dandelion - makanful  
 danger (peril) - hatre  
@@ -1433,15 +1433,15 @@ happy (delighted) - suki
 harbor (seaport) - suyporte  
 hard (tough) - gati  
 hardship (difficulty, challenge) - kunan  
-harm (damage) - damaja  
-harmful (damaging) - damajani  
+harm (damage) - avara  
+harmful (damaging) - avarani  
 harmonious - harmoni  
 harmony - harmonia  
 harness - harnes  
 hashish - hashish  
 hassium - hasem  
 hat (cap) - tope  
-hate - hen  
+hatred (hate) - hen  
 have (keep, possess) - tena  
 have sex - seksa  
 Hawaii - Hawayi  
@@ -1661,9 +1661,10 @@ Jordan - Urdun
 joule (J) - jul  
 journalist - gazeter  
 Judaism - yehudistia  
-judge (referee) - hakimer  
-judge - hakima  
-judgment (sentence) - hakim  
+judge (referee) - juder  
+judge - juda  
+judgment (sentence) - jude  
+judicial - judi  
 judo - judaw  
 jug (jar, pitcher) - jar  
 juice - jus  

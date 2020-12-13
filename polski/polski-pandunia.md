@@ -1206,7 +1206,7 @@ krzak (krzew) - tali moke
 krzem - silike  
 krzemień - hogosheke  
 krzyknąć, krzyczeć - krita  
-krzywdzący (szkodliwy) - damajani  
+krzywdzący (szkodliwy) - avarani  
 krzyż - krus  
 król - mani rajer  
 król lub królowa - rajer  
@@ -1755,7 +1755,7 @@ obrazić - insulta
 obrazowy, graficzny; opisowy - grafi  
 obrać (obierać) - tira pil  
 obraźliwy, niemiły, obelżywy - nindi  
-obrażenia (rana, krzywda) - damaje  
+obrażenia (rana, krzywda) - avar  
 obrona - def  
 obronić (chronić) - defa  
 obrońca - defer  
@@ -2813,8 +2813,8 @@ szyć - suta
 São Paulo - Santi Paulo  
 sód - natre  
 sól - sal  
-sądzić (osądzić) - hakima  
-sędzia - hakimer  
+sądzić (osądzić) - juda  
+sędzia - juder  
 słaby - debili  
 słodki - shukari  
 słodki ziemniak - kamote  
@@ -3251,7 +3251,7 @@ wynająć, wynajmować, zatrudnić, zatrudniać - kir
 wynik (punktacja) - puntonombre  
 wyobrazić, wyobrażać, fantazjować - fantaza  
 wypełnić, wypełniać - pura  
-wyrok - hakim  
+wyrok - jude  
 wyrzucać (wyrzucić, wydalać, wydalić) - waya  
 wyrzutek - paray  
 wyrzutnia rakietowa - roketolancer  

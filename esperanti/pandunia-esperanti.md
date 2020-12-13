@@ -107,6 +107,8 @@ auda - aŭdi (aŭskulti)
 aur - oro  
 Australia - Aŭstralio  
 automoti - memmova  
+avar - damaĝo  
+avarani - damaĝa  
 avgani - afgana  
 Avganistan - Afganujo, Afganio  
 awakate - avokado  
@@ -318,8 +320,6 @@ daisher - ambasadoro
 daisheria - ambasado  
 daka - kovri  
 dake - kovrilo  
-damaje - damaĝo  
-damajani - damaĝa  
 dance - danco  
 danka - danki  
 danke - danko  
@@ -645,8 +645,6 @@ haha - ridi
 haida - ni faru...  
 Haiti - Haitio  
 hake - rajto  
-hakim - juĝo  
-hakimer - juĝisto  
 hal - stato  
 halif - kalifo  
 halo' - saluton!  
@@ -787,6 +785,8 @@ jovani - juna
 jovani fem - knabino  
 jovani man - knabo  
 jovania - juneco  
+jude - juĝo  
+juder - juĝisto  
 judaw - ĵudo  
 jul - ĵulo (J)  
 jung - centro  

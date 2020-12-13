@@ -201,6 +201,10 @@ auti - personal (intimate, private, custom)
 automoti - self-moving (automotive, automobile)  
 autonomi - autonomous  
 autonomia - autonomy  
+avar - damage (injury, harm)  
+avara - harm (damage)  
+avari - damaged (corrupt)  
+avarani - harmful (damaging)  
 avgani - Afghan  
 Avganistan - Afghanistan  
 awakate - avocado  
@@ -558,10 +562,6 @@ dake - cover (lid, cap, deck)
 dalil - proof (evidence, proof, demonstration, testimony)  
 dalila - prove (demonstrate, testify)  
 damogem - checkers (draughts)  
-damaja - harm (damage)  
-damaje - damage (injury, harm)  
-damaji - damaged (corrupt)  
-damajani - harmful (damaging)  
 dan - particle (grain, bullet)  
 dansekuri - bulletproof  
 dance - dance  
@@ -1135,9 +1135,6 @@ haha - laugh
 haida - let's  
 Haiti - Haiti  
 hake - right (entitlement)  
-hakim - judgment (sentence)  
-hakima - judge  
-hakimer - judge (referee)  
 hal - state (condition, status, situation)  
 halala - allow (permit)  
 halali - permissible (allowed, halal)  
@@ -1205,7 +1202,7 @@ Helsinki - Helsinki
 hem - hmm  
 hema - ponder (think)  
 hemahe - tent  
-hen - hate  
+hen - hatred (hate)  
 herze - hertz (Hz)  
 hewan - animal  
 hewanjenisia - animal husbandry  
@@ -1418,6 +1415,10 @@ jovani fem - girl
 jovani man - boy  
 jovani moke - sapling  
 jovania - youth (young age)  
+juda - judge  
+jude - judgment (sentence)  
+juder - judge (referee)  
+judi - judicial  
 judaw - judo  
 jul - joule (J)  
 jumle - sentence (phrase)  

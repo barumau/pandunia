@@ -187,6 +187,8 @@ auti - osobisty, intymny, prywatny
 automoti - samobieżny  
 autonomi - autonomiczny  
 autonomia - autonomia  
+avar - obrażenia (rana, krzywda)  
+avarani - krzywdzący (szkodliwy)  
 avgani - afgański  
 Avganistan - Afganistan  
 awakate - awokado  
@@ -536,8 +538,6 @@ dake - pokrycie; pokrywa, wieko, dekiel; pokład
 dalil - dowód; zeznanie  
 dalila - dowieść, dowodzić; zeznać, zeznawać  
 damogem - warcaby  
-damaje - obrażenia (rana, krzywda)  
-damajani - krzywdzący (szkodliwy)  
 dan - cząstka (ziarno, kula, pocisk)  
 dansekuri - kuloodporny  
 dance - taniec  
@@ -1086,9 +1086,6 @@ haha - śmiać się
 haida - niech my, hajda  
 Haiti - Haiti  
 hake - prawo, przywilej  
-hakim - wyrok  
-hakima - sądzić (osądzić)  
-hakimer - sędzia  
 hal - stan  
 halala - pozwolić, pozwalać, zezwolić, zezwalać  
 halali - dozwolony (dopuszczalny, zezwolony, halal)  
@@ -1356,6 +1353,9 @@ jovani fem - dziewczyna
 jovani man - chłopak  
 jovani moke - młode drzewo  
 jovania - młodość  
+juda - sądzić (osądzić)  
+jude - wyrok  
+juder - sędzia  
 judaw - judo  
 jul - dżul (J)  
 jumle - zdanie (fraza)  

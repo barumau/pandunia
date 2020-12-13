@@ -180,6 +180,10 @@ auti - personal (privado, a medida)
 automoti - automotor (automotriz)  
 autonomi - autónomo  
 autonomia - autonomía  
+avar - daño (corrupción)  
+avara - dañar  
+avari - dañado  
+avarani - dañino (perjudicial)  
 avgani - afgano  
 Avganistan - Afganistán  
 awakate - aguacate  
@@ -519,10 +523,6 @@ dake - tapa (funda, cubierta)
 dalil - prueba  
 dalila - probar (demonstrar, comprobar)  
 damogem - damas  
-damaja - dañar  
-damaje - daño (corrupción)  
-damaji - dañado  
-damajani - dañino (perjudicial)  
 dan - partícula (grano, bala)  
 dansekuri - antibalas  
 dance - baile (danza)  
@@ -1055,9 +1055,6 @@ haha - reír
 haida - vamos a  
 Haiti - Haití  
 hake - derecho  
-hakim - fallo (juicio, criterio)  
-hakima - juzgar (considerar)  
-hakimer - juez (árbitro, réferi)  
 hal - estado (condición)  
 halala - permitir (dejar)  
 halali - permitido (admisible)  
@@ -1320,6 +1317,9 @@ jovani fem - niña
 jovani man - niño  
 jovani moke - pimpollo  
 jovania - juventud  
+juda - juzgar (considerar)  
+jude - fallo (juicio, criterio)  
+juder - juez (árbitro, réferi)  
 judaw - yudo  
 jul - joule (J)  
 jumle - oración  

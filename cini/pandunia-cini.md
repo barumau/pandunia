@@ -604,6 +604,7 @@ mono - 只有 (惟独)
 monloge - 独白  
 mos - 苔藓  
 mosim - 季  
+moter - 马达 (发动机)  
 mul - 根  
 mumchape - 封印  
 mumomelon - 冬瓜 (白瓜)  

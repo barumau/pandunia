@@ -72,6 +72,7 @@ atlantokade - Атлантическая треска
 atlantosamon - Атлантический лосось (сёмга)  
 aur - золото (аурум)  
 auroranje - кумкват (кинкан)  
+avar - повреждение (авария)  
 avgani - афганский  
 Avganistan - Афганистан  
 ####B - B  
@@ -200,7 +201,6 @@ cirkosheke - булыжник
 coy - зелень  
 ####D - D  
 dalil - доказательство  
-damaje - повреждение  
 dance - танец  
 danga - звенеть  
 danger - звонок  
@@ -404,6 +404,7 @@ jiraf - жираф
 jive - жизнь  
 jivi - живой  
 jovani moke - саженец  
+juder - судья  
 jul - джоуль (J)  
 jumle - фраза  
 jung - центр  
@@ -648,6 +649,7 @@ mos - мох
 mosi - мшистый  
 mosim - время года (сезон)  
 Moskove - Москва  
+moter - мотор  
 mul - корень  
 mumomelon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  

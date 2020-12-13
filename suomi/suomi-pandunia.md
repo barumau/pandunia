@@ -1775,6 +1775,7 @@ oho (vau) - waw
 oikea (paikkansapitävä) - sahi  
 oikea puoli - raite  
 oikeistolainen - raitiste  
+oikeudellinen - judi  
 oikeudenmukainen - adali  
 oikeus (oikeutus) - hake  
 oikeus - adalia  
@@ -2783,9 +2784,9 @@ tuo (nuo) - wi
 tuo - we  
 tuoda - laya  
 tuoli - kurse  
-tuomari - hakimer  
-tuomio - hakim  
-tuomita - hakima  
+tuomari - juder  
+tuomio - jude  
+tuomita - juda  
 tuore (raikas) - tazi  
 tuotanto - chania  
 tuottaa (johtaa tulokseen) - rezulta  
@@ -2899,8 +2900,8 @@ vaate (puku) - fuke
 vaatia (edellyttää) - sharta  
 vaatimus (edellytys) - sharte  
 vaha - mum  
-vahingoittaa (vaurioittaa) - damaja  
-vahingollinen - damajani  
+vahingoittaa (vaurioittaa) - avara  
+vahingollinen (vaurioittava) - avarani  
 vahvistaa (voimistaa) - forta  
 vaihe (etappi) - faze  
 vaihtaa - badla  
@@ -2969,8 +2970,8 @@ vastaus - jawabe
 vastustaa - fana  
 vastustaja - faner  
 Vatikaanivaltio - Vatikan  
-vaurio (vahinko) - damaje  
-vaurioitunut - damaji  
+vaurio (vahinko, haveri) - avar  
+vaurioitunut - avari  
 vauva - bebe  
 vegaani - monvejetyamiste  
 vehnä - gandum  
