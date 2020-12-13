@@ -57,7 +57,7 @@ akaasia - babul
 akku (paristo) - batre  
 akseli - akse  
 aktinium - acinem  
-akvaario - fishotanke  
+akvaario - peshotanke  
 ala (pinta-ala) - ar  
 ala- - nichi  
 Alankomaat (Hollanti) - Nederlandia  
@@ -71,17 +71,17 @@ Algeria - Jayer
 alistua (antautua) - islamu  
 alistuminen (antautuminen) - islam  
 alittaa (alla) - nicha  
-alkaa - kaishu  
+alkaa - shuru  
 alkoholi - alkol  
 alkoholinen - alkoli  
 alkovi - nish  
-alku - kaish  
+alku - shur  
 alkuaine - kimem  
 alkuperä - asle  
 alkuperäinen - asli  
 allas - basen  
 allofoni (vaihtoehtoinen ääntämys) - alfon  
-aloittaa - kaisha  
+aloittaa - shura  
 alttari - pujomeze  
 alue (seutu) - aria  
 alumiini - aluminem  
@@ -142,7 +142,7 @@ asema (satama, lentokenttä) - porte
 asema - estacia  
 asento - asan  
 asetelma - poze  
-asia (juttu) - masle  
+asia (juttu) - saltem  
 asia - shey  
 asiakirja (dokumentti, tiedosto) - dokum  
 askeett - askete  
@@ -307,6 +307,10 @@ elementti (yksinkertaisin yksikkö) - em
 eli (toisin sanoen) - alnamo  
 elohopea - hurargente  
 elokuu - balmes  
+elokuva - kinograf  
+elokuvallinen - kingrafi  
+elokuvataide - kingrafia  
+elokuvateatteri - kinografokan  
 eläin - hewan  
 eläintarha - hewanparke  
 elämä (olemassaolo) - jive  
@@ -334,7 +338,7 @@ ennen (aikaisemmin, aiemmin) - paso
 ennennäkemätön - anchenvidi  
 ennustaa (nähdä ennalta) - chenvida  
 ennustettu - chenvidi  
-ensimmäinen (alku-) - kaishi  
+ensimmäinen (alku-) - shuri  
 ensimmäinen (numero yksi) - nombre un  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anativi  
@@ -770,7 +774,7 @@ joukkue (tiimi) - tim
 joule (J) - jul  
 joulu - kristojen  
 joulukuu - desdulmes  
-jousiammunta - arkia  
+jousiammunta - arkeria  
 jousiampuja - arker  
 jousisoitin - tichin  
 joustava (elastinen) - lasti  
@@ -846,8 +850,8 @@ kaksi (2) - duli
 kaksikielinen - dulbashi  
 kaksimielinen (kaksimerkityksinen) - dulmeni  
 kaktus - katus  
-kala - fish  
-kalastaja - fishosaider  
+kala - pesh  
+kalastaja - peshosaider  
 kalenteri - kalende  
 kalifaatti - halifia  
 kalifi - halif  
@@ -916,7 +920,7 @@ kasvot (naama) - muke
 kasvu - raste  
 Katalonia - katalunia  
 katkaista (leikata) - kata  
-kattila - ketel  
+kattila - ketle  
 katto (katos) - chate  
 kauan (pitkän aikaa) - longoduro  
 kauhu (terrori) - teror  
@@ -1035,6 +1039,7 @@ Kirgistan (Kirgisia) - Kirgizia
 Kiribati - Kiribati  
 kirja - buke  
 kirjain - harfe  
+kirjallisuus - kitabia  
 kirjasto - kitabokan  
 kirjoittaa - kitaba  
 kirjoitus (teksti) - kitabe  
@@ -1100,10 +1105,10 @@ Korea - Chosen
 korealainen - Choseni  
 kori - baske  
 koripallo - baskobol  
-korjaaja - shuler  
+korjaaja - reyboner  
 korjata (tehdä oikeaksi) - saha  
-korjata - shula  
-korjaus - shul  
+korjata - reybona  
+korjaus - reybon  
 korkata - antapa  
 korkea - gawi  
 korkeatasoinen (edistynyt) - gawdarji  
@@ -1122,7 +1127,7 @@ kosminen - kosmi
 Kosovo - Kosovo  
 koti- - domi  
 koukku (haka) - huke  
-koulu (opisto) - darsia  
+koulu (opisto) - shulkan  
 kova - gati  
 Kreikka - Helenia  
 kreikkalainen - heleni  
@@ -1218,10 +1223,10 @@ Kypros - Kipris
 kypsä (aikuinen) - maturi  
 kypärä - helme  
 kyrilliset aakkoset - kirili abace  
-kyselylomake - wendokum  
-kysymys - wen  
-kysyvä - wenan  
-kysyä - wena  
+kyselylomake - eskodokum  
+kysymys - eske  
+kysyvä - eskan  
+kysyä - eska  
 kyynel - kansuy  
 kärppä (fretti) - furete  
 kärpänen - zeze  
@@ -1384,7 +1389,7 @@ lumme - nenufar
 luodinkestävä - dansekuri  
 luokitella (kategorisoida) - klasa  
 luokka (kategoria) - klas  
-luokkahuone - darsokamar  
+luokkahuone - shulkamar  
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
 luolaseikkailu - donjon aventur  
@@ -1805,15 +1810,16 @@ omistetun omistajaan liittävä partikkeli - da
 ommella - suta  
 ongelma - problem  
 ongelmallinen - problemi  
-ongenkoukku - fishohuke  
+ongenkoukku - peshohuke  
 onneksi olkoon! - barke!  
 onnitella (siunata) - barka  
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gida  
-opettaja - darsoguru'  
-oppi (opetus) - darse  
-oppia (opiskella) - darsa  
-oppilas - darser  
+opettaa - shulisa  
+opettaja - shuliser  
+oppi (opetus) - shul  
+oppia (opiskella) - shula  
+oppilas - shuler  
 oranssi - oranji  
 orava - ekor  
 orgaaninen elämä - biw  
@@ -2209,7 +2215,7 @@ rauhallinen (levollinen, tyyni) - shanti
 rauhanaate (pasifismi) - pacistia  
 rauta - fer  
 ravintola - restorante  
-rehtori - darsoshef  
+rehtori - shulshef  
 reikä - kong  
 rekisteri (tili) - deftia  
 rengas (kehä) - ring  
@@ -2429,7 +2435,7 @@ sinko (raketinheitin) - roketolancer
 sintolaisuus - shindawistia  
 sinun - ti  
 sinä - te  
-Siperia - sibiria  
+Siperia - Sibiria  
 sipuli - piaze  
 sisarus (veli tai sisko) - saudar  
 sisus (sisäpuoli) - inde  
@@ -2510,7 +2516,7 @@ suodattaa - filter
 suojakilpi - defbanze  
 suojakypärä - defkaske  
 suojella (suojata, turvata) - sekura  
-suola - sal  
+suola - salte  
 suolainen - sali  
 suomalainen - suomi  
 Suomi - Suomi  

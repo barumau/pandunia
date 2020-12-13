@@ -237,7 +237,6 @@
 |**darba**|lyödä (iskeä)|arabia:ضرب‎ (ḍaraba), persia:ضرب (ḍarb) + venäjä:уда́рить (udarit’)|
 |**darje**|porras (aste, taso)|arabia:(daraja), hindi:दर्जा (darjā), suahili:daraja, turkki:derece, persia:(dareje), malaiji:derajat, + yleiskiina:阶 (jiē)|
 |**darme**|moraali|hindi:धर्म (dharm), urdu:(dharm), bangla:ধর্ম (dhôrmô), gujarati:ધર્મ (dharma), telugu:ధర్మము (dharmamu), tamili:தருமம் (tarumam), thai:ธรรม (tam), burma:ဓမ္မ (dhamma), malaiji:derma, yleiskiina:達摩 (dámó), korea:달마 (dalma), englanti:deu:ranska:espanja:dharma, portugali:darma, venäjä:дхарма (dharma)|
-|**darse**|oppi (opetus)|arabia:persia:urdu:(dars), turkki:ders|
 |**darte**|maa (multa)|englanti:dirt, hindi:धरती (dhartī), urdu:(dhartī), vietnami:đất, malaiji:darat|
 |**date**|data (numeerinen tieto)|englanti:malaiji:data, vietnami:đa ta, deu:Daten, espanja:filippiini:datos, portugali:dados, persia:(dâde-hâ), hindi:डेटा (ḍeṭā), urdu:(ḍeṭā), japani:データ (dēta)|
 |**daw**|tie|yleiskiina:道 (dào), kantoninkiina:道 (dou6), japani:道 (dō), korea:도 (do), vietnami:đạo|
@@ -308,6 +307,7 @@
 |**esa**|olla|espanja:es, persia:(ast), portugali:estar, venäjä:есть (yest')|
 |**esey**|essee|englanti:essay, espanja:ensayo, portugali:ensaio, ranska:essai, deu:Essay, venäjä:эссе (esse), japani:エッセイ (essei)|
 |**eskal**|portaat (rappuset, tikkaat)|ranska:escalier, espanja:escalera, portugali:escada, + englanti:scale, deu:Skale, venäjä:шкала (škala)|
+|**eske**|kysymys|arabia: سُؤَال‎ (suʾāl) , persia: سؤال‎ (so'âl), hindi:सवाल (savāl);मसला (masalā), malaiji:soal;masalah, suahili:swali, turkki:sual;mesele, hausa:matsala|
 |**eskulter**|kuvanveistäjä|espanja:portugali:escultor, ranska:sculpteur, englanti:sculptor, venäjä:скульптор (skulptor)|
 |**esponje**|sienieläin|kreikka:σφουγγάρι (sphoungári), englanti:sponge, espanja:portugali:esponja, turkki:süngre, arabia:إسفنج (ʾisfanj), persia:اسفنج‎ (esfanj), hindi:स्पंज (spanja), japani:スポンジ (suponji), malaiji:spon|
 |**estacia**|asema|turkki:istasyon, portugali:estação, espanja:estación, filippiini:estasyon, urdu:(isṭeśan), englanti:ranska:station, hindi:स्टेशन (sṭeśan), venäjä:станция (stantsiya)|
@@ -352,7 +352,6 @@
 |**fing**|sormi tai varvas|englanti:finger, deu:Finger|
 |**fiorde**|vuono|nor:englanti:fjord, ranska:malaiji:fiord, portugali:fiorde, espanja:fiordo, venäjä:фьорд (f’ord), japani:フィヨルド (fiyorudo)|
 |**firuze**|turkoosi|per:(firuze), turkki:firuze, arabia:(fayrūz), suahili:feruzi, hindi:फीरोज़ा (phīrozā), bangla:ফিরোজা (phiroja), malaiji:pirus, venäjä:бирюза (biryuza)|
-|**fish**|kala|englanti:fish, deu:Fisch|
 |**fite**|kasvi|englanti:phyto-, -phyte, deu:ranska:phyto-, espanja:portugali:fito-, venäjä:фито- (fito-)|
 |**fizikia**|fysiikka|englanti:physics, espanja:portugali:física, venäjä:физика (fizika), turkki:malaiji:fizik, arabia:فِيزِيقَا‎ (fīzīqā), suahili:fizikia, hindi:फ़िज़िक्स (fiziks)|
 |**fleche**|nuoli|espanja:portugali:flecha, ranska:flèche, englanti:fletch|
@@ -559,7 +558,6 @@
 |**kafe'**|kahvi|deu:Kaffee, ranska:espanja:portugali:café, venäjä:кофе, yleiskiina: 咖啡 (kāfēi), kantoninkiina:咖啡 (gaa3 fe1), englanti:coffee, hindi:काफ़ी (kāfī), bangla:কফি (kôphi), turkki:kahve, filippiini:kape, thai:กาแฟ (kafæ)|
 |**kafir**|pakana|arabia:(kāfir), persia:(kāfer), turkki:ranska:kâfir, yoruba:kaferi, suahili:kafiri, malaiji:kafir, venäjä:кафир (kafir), hindi:काफ़िर (kāfir)|
 |**kaguje**|paperi|yleiskiina:榖纸 (gǔzhǐ), kantoninkiina:榖紙 (guk1zi2), japani:榖紙 (kokushi), + persia:(kâğaz), hindi:काग़ज़ (kāġaz), bangla:কাগজ (kagôj), turkki:kâğıt, arabia:(kāḡid), kannada:ಕಾಗದ (kāgada), telugu:కాగితము (kāgitamu), tamili:காகிதம் (kākitam), wolof:keyit, uig:(qeghez)|
-|**kaish**|alku|yleiskiina:开始 (kāishǐ), japani:開始 (kaishi), korea:개시 (gaesi)|
 |**kakaw**|kaakao|portugali:cacau, arabia:(kākāw), espanja:cacao, englanti:cocoa, vietnami:cacao, japani:カカオ (kakao), yleiskiina:可可 (kěkě), venäjä:какао (kakao)|
 |**kake**|uloste (kakka)|espanja:portugali:ranska:caca, deu:Kacke, arabia:(kākā), turkki:kaka, venäjä:кака (kaka), persia:(kake)|
 |**kalam**|kynä|arabia:persia:urdu:(qalam), hausa:alƙalami, yoruba:suahili:kalamu, turkki:kalem, hindi:क़लम (qalam), bangla:কলম (kôlôm), espanja:portugali:cálamo|
@@ -616,7 +614,7 @@
 |**kerne**|ydin (sydän)|englanti:kernel, ranska:coeur, portugali:cerne, hindi:केंद्र (kendr)|
 |**kerube**|kerubi|heb:כְּרוּב‎ (kerúv), englanti:cherub, espanja:querubín, portugali:querubim, ranska:chérubin, venäjä:херувим (heruvim), suahili:kerubi, malaiji:kerub, yleiskiina:基路伯 (jīlùbó)|
 |**kesh**|hius (karva, tukka, hiukset)|japani:毛 (ke), hindi:केश (keś), urdu:(keś), pandzabi:ਕੇਸ਼ (keś), telugu:(kēśamu), kannada:(kēśa)|
-|**ketel**|kattila|englanti:kettle, venäjä:котёл (kot’ol), hindi:केतली (ketlī), bangla:কেতলি (ketli), malaiji:ketel|
+|**ketle**|kattila|englanti:kettle, venäjä:котёл (kot’ol), hindi:केतली (ketlī), bangla:কেতলি (ketli), malaiji:ketel|
 |**kilo'**|tuhat (kilo-)|englanti:ranska:espanja:portugali:malaiji:turkki:kilo-, venäjä:кило- (kilo-), japani:キロ- (kiro-), korea:킬로- (killo-)|
 |**kim**|aine (aines, materia)|englanti:chemistry, ranska:chimie, espanja:portugali:química, venäjä:химия (himiya), arabia:(kīmiyāʾ), malaiji:kimia, suahili:kemia, turkki:kimya|
 |**kini**|kineettinen (liike-)|englanti:kinetic, espanja:portugali:cinético, ranska:cinétique, deu:kinetisch, venäjä:кинетический (kineticheskyy)|
@@ -777,7 +775,6 @@
 |**masal**|mauste|hindi:मसाला (masālā), urdu:(masālā), bangla:মসলা (môsla), bur:(masʰala)|
 |**mashin**|kone|ranska: machine, englanti: machine, deu: Maschine, malaiji: mesin|
 |**maske**|naamio (maski)|englanti:mask, ranska:masque, espanja:portugali:máscara, venäjä:маска (maska), hindi:मास्क (māsk), japani:マスク (masuku), korea:마스크 (maseukeu), malaiji:masker, turkki:maske|
-|**masle**|asia (juttu)|arabia:(masʾala), hausa:matsala, hindi:मसला (maslā), malaiji:masalah|
 |**maste**|masto (salko)|englanti:deu:mast, hindi:मस्तूल (mastūl), japani:マスト (masuto), venäjä:мачта (mačta), puola:maszt, portugali:mastro, espanja:mástil|
 |**mate**|aine (materia)|englanti:matter, ranska:matière, espanja:portugali:materia, venäjä:материя (materiya), deu:Materie, malaiji:materi, + arabia: مادة (mādda),  turkki:madde + kantoninkiina:物 (mat), vietnami:vật|
 |**matike**|matematiikka (matikka)|deu:Mathe(matik), englanti:math(ematics), espanja:matemática, venäjä:математика (matematika)|
@@ -961,6 +958,7 @@
 |**per**|sulka|hindi:पर (par), persia:urdu:(par), kur:perr, venäjä:перо (pero)|
 |**pes**|raha|hindi:पैसा (paisā), marathi:पैसा (paisā), pandzabi:ਪੈਸਾ (pēsā), gujarati:પૈસો (paiso), arabia:(bēzāt), suahili:pesa, (espanja:peso)|
 |**pesh**|ammatti|persia:(piše), hindi:पेशा (peśā), bangla:পেশা (peśa)|
+|**pesh**|kala|espanja:pez, portugali:peixe, italia:pesce + englanti:fish, deu:Fisch|
 |**peta'**|peta-|englanti:ranska:espanja:portugali:malaiji:turkki:peta-, venäjä:пета- (peta-), japani:ペタ (peta), korea:페타- (peta-), yleiskiina:拍它- (pāitā-)|
 |**pete**|maha (vatsa)|bangla:পেট (peṭ), hindi:पेट (peṭ), malaiji:perut, arabia:(baṭn)|
 |**petre**|kallio (kivi)|hindi:पत्थर (patthar), urdu:(patthar), italia:pietra, portugali:pedra, espanja:piedra, ranska:pierre|
@@ -1083,9 +1081,9 @@
 |**sahi**|oikea (paikkansapitävä)|hindi:सही (sahī), urdu:(sahī), persia:(sahih), arabia:(ṣaḥīḥ), suahili:sahihi|
 |**saide**|pyynti (metsästys, kalastus)|arabia:(ṣayd), turkki:seyd, urdu:صید‎ (said), persia:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sake**|pussi (säkki, kassi, laukku)|deu:englanti:sack, ranska:sac, espanja:portugali:saco, malaiji:Kongo:saku|
-|**sal**|suola|portugali:espanja:sal, englanti:salt, venäjä:соль (solʹ)|
 |**salade**|salaatti|ranska:salade, malaiji:salad, deu:Salat, venäjä:салат (salat), turkki:salata, persia:urdu:(salād), hindi:सलाद (salād), kantoninkiina:沙律 (saa1 leot62),  yleiskiina:沙拉 (shālā), portugali:salada, espanja:ensalado, korea:샐러드 (saelleodeu), japani:サラダ (sarada), thai:สลัด (salat), khmer:សាលាដ (saalaat)|
 |**salame**|tervehdys (terve!)|arabia:(salām), suahili:salamu, malaiji:selamat, hindi:सलाम (salām), bangla: সালাম (salam), yleiskiina:萨拉姆 (sàlāmǔ), japani:サラーム (sarāmu), korea:살람 (sallam), vietnami:xa lam, venäjä:салям (salyam)|
+|**salte**|suola|englanti:salt, ranska:sel, espanja:portugali:sal, venäjä:соль (solʹ)|
 |**saman**|taivas|arabia:(samāʾ), amhara:ሰማይ (sämay), oromo:samii, hausa:sama, yoruba:sánmà, hindi:आसमान (āsmān), persia:pandzabi:urdu:(āsmān)|
 |**sami**|sama (yhtäläinen)|englanti:same, ranska:semblable, venäjä:самый (samyy), malaiji:sama, hindi:सम (sam)|
 |**samuna**|yhdistää|isl:sameina, deu:vereinigen|
@@ -1148,7 +1146,8 @@
 |**show**|näytös (esitys, show)|englanti:deu:ranska:espanja:portugali:show, venäjä:шоу (šou), turkki:şov, suahili:shoo, thai:โชว์ (choo), korea:쇼 (syo), japani:ショー (shō), yleiskiina:秀 (xiù)|
 |**shudu**|pitäisi|englanti:should|
 |**shukar**|sokeri|arabia:(sukkar), suahili:sukari, portugali:açúcar, espanja:azúcar, hindi:शक्कर (śakkar), bangla:শর্করা (śôrkôra), turkki:şeker, tamili:சக்கரை (cakkarai)|
-|**shul**|korjaus|yleiskiina:修理 (xiūlǐ), japani:修理 (shūri), korea:수리 (suri)|
+|**shulkan**|koulu (opisto)|deu:Schule, suahili:shule, englanti:school, hindi:स्कूल (skūl), bangla:স্কুল (śkul), venäjä:школа (škola) + ranska:école, espanja:escuela, portugali:escola, malaiji:sekolah|
+|**shur**|alku|arabia: شُرُوع‎ (šurūʿ), persia: شروع (šoru') , hindi:शुरू (śurū), bangla:শুরু (śuru) + yleiskiina:始 (shǐ), japani:始 (kaishi), korea:시 (shi)|
 |**shusho**|hiljaa (hys, shhh)|englanti:shh, ranska:chut, venäjä:ш-ш-ш, yleiskiina:噓 (xū), japani:しーっ (shīt), korea:쉿 (swit), turkki:sus|
 |**shute**|taito|yleiskiina:术 (shù), kantoninkiina:術 (seot6), japani:術 (jutsu), korea:술 (sul)|
 |**si**|kyllä|espanja:sí, portugali:sim, + yleiskiina:是 (shí), wu-kiina:是 (sí)|
@@ -1306,7 +1305,6 @@
 |**way**|ulkopuoli|yleiskiina:外 (wài)|
 |**waydeshi**|ulkomaalainen|hindi:(videśī), telugu:(vidēśi), yleiskiina:外国的 (wàiguóde)|
 |**weki**|olla hereillä|englanti:awake, deu:wach|
-|**wen**|kysymys|yleiskiina:问 (wèn), wu-kiina:问 (vén), japani:問 (mon), korea:문 (mun), vietnami:vấn|
 |**weste**|länsi|englanti:west, deu:West, ranska:ouest, espanja:portugali:oeste, venäjä:вест (vest)|
 |**wi**|tuo (nuo)|hindi:वह (wo), bangla:ওই (oi)|
 |**wijin**|natriumglutamaatti|yleiskiina:味精 (wèijīng), kantoninkiina:味精 (mei6 zing1), vietnami:mì chính, malaiji:vetsin,micin, filippiini:bitsin|

@@ -154,8 +154,8 @@ argon - argon
 argum - argument (rationale, grounds)  
 Ariel - Ariel  
 arke - bow (arch, arc)  
-arkia - archery  
 arker - archer  
+arkeria - archery  
 arme - weapon (arms)  
 arom - scent (odor, fragrance, aroma)  
 aroma - smell (sniff)  
@@ -582,13 +582,6 @@ darme - morality (ethics)
 darmi - moral  
 darmolojia - ethics  
 darmositem - darmstadtium  
-darsa - learn (study)  
-darse - lesson  
-darsia - school (institution)  
-darser - student (pupil, learner)  
-darsoguru' - teacher  
-darsokamar - classroom  
-darsoshef - headmaster (principal)  
 darte - soil (dirt)  
 darti - soily (dirty)  
 darwiniste - Darwinist  
@@ -784,6 +777,11 @@ Eritria - Eritrea
 es - being  
 esa - be  
 esey - essay  
+eska - ask (inquire)  
+eske - question (query, inquiry)  
+eskan - interrogative  
+eskodokum - form (questionaire)  
+saltem - issue (affair, concern)  
 eskal - stairs (ladder)  
 eskala - climb (get on)  
 eskaltan - vine  
@@ -904,15 +902,11 @@ fing - finger (toe)
 fingoring - finger ring  
 fiorde - fjord  
 firuze - turquoise gem  
-fish - fish  
-fishohuke - fishhook  
-fishosaider - fisher  
-fishotanke - fish tank  
 fite - plant (vegetation)  
 fitolojia - botany (phytology)  
 fizike - physics  
-fiziker - physicist  
 fizikia - physics (science)  
+fiziker - physicist  
 fleche - arrow (bolt)  
 flecher - fletcher  
 flerovem - flerovium  
@@ -1461,10 +1455,6 @@ kafekupe - coffee cup
 kafir - infidel (pagan, heathen, unbeliever)  
 kaguje - paper (material)  
 kagujolimon - key lime  
-kaish - beginning (start)  
-kaisha - begin (start, commence, initiate)  
-kaishi - initial (first)  
-kaishu - begin (get started)  
 kaka - defecate (shit)  
 kakaw - cocoa  
 kake - excrement (shit)  
@@ -1520,8 +1510,8 @@ Kantalupo da Sabina - Cantalupo in Sabina
 kantalupomelon - cantaloupe  
 kante - shoulder  
 kanun - law  
+kapa pesh - catch fish  
 kapa - catch (capture, seize, snatch, intercept)  
-kapa fish - catch fish  
 kapotruke - trap (snare)  
 kapse - box (container)  
 kar - work (job, task)  
@@ -1600,36 +1590,38 @@ kerube - cherub
 kesh - hair  
 keshobende - hairband (headband)  
 keshosabun - shampoo  
-ketel - kettle  
+ketle - kettle  
 Khartum - Khartoum  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
 kim - substance (physical material from which something is made)  
-kimem - chemical element  
 kimi - chemical  
+kimem - chemical element  
 kimlojia - chemistry  
 kin - movement  
 kina - move (transfer, change place)  
-kingraf - movie (cinema)  
+kini - kinetic  
+kinu - move oneself  
+kinograf - movie (cinema)  
 kingrafi - cinematic  
 kingrafia - cinematography  
-kini - kinetic  
+kinografokan - movie theatre  
 Kinshasa - Kinshasa  
 Kinshasa Kongo - Congo Kinshasa  
-kinu - move oneself  
 kioske - kiosk  
 Kipris - Cyprus  
 kir - carat  
+kirisa - rent out (let, lease)  
 kirate - carat  
 Kirgizia - Kyrgyzstan  
 Kiribati - Kiribati  
 kirili abace - Cyrillic alphabet  
-kirisa - rent out (let, lease)  
 kita - remove (take away)  
 kiti - gone (away)  
 kitu - go (move away)  
 kitaba - write  
 kitabe - writing (text)  
+kitabia - literature (body of written works)  
 kitabokan - library  
 kitabomashin - typewriter  
 kitabominister - librarian  
@@ -2058,7 +2050,6 @@ masal - spice (seasoning)
 masali tike - tikka masala  
 mashin - machine  
 maske - mask (camouflage)  
-masle - issue (affair, concern)  
 masmul - tuber (bulb)  
 masmulsolful - Jerusalem artichoke (sunroot)  
 maste - mast  
@@ -2095,7 +2086,7 @@ medal - medallion (medal)
 mede - middle (the part in between)  
 medi - medium (intermediate, mean)  
 media - medium (media)  
-medika - heal (cure)  
+medika - heal (cure, remedy)  
 mediker - doctor (physician, healer)  
 medikia - medicine (field of study)  
 medikosuy - potion  
@@ -2592,6 +2583,10 @@ Peru - Peru
 pes - money  
 pesdiske - coin  
 pesh - profession (occupation)  
+pesh - fish  
+peshohuke - fishhook  
+peshosaider - fisher  
+peshotanke - fish tank  
 peta' - peta-  
 pete - belly (stomach, abdomen)  
 petre - rock  
@@ -2815,6 +2810,9 @@ retrotikete - return ticket
 retru - return (go back)  
 Reunion - Réunion  
 rey - repetition  
+reybon - repair (fix)  
+reybona - repair (fix, mend)  
+reyboner - repairer  
 reya - repeat (iterate)  
 reyo - again (repeatedly)  
 rezerva - reserve (book)  
@@ -2891,18 +2889,18 @@ sa linye - online
 sa sabu - because  
 sa ye - here (there)  
 saba - cause (be the cause for)  
-sabate - Sabbath  
 sabe - reason (cause)  
+sabate - Sabbath  
 sabun - soap  
 sadi - plain (ordinary, unadorned, simple, mere)  
 safa - clean (purify)  
+safi - clean (pure)  
+safer - cleaner  
 safar - travel (voyage, trip)  
 safara - travel  
 safarer - traveler  
 safariste - tourist  
 safaristia - tourism  
-safer - cleaner  
-safi - clean (pure)  
 safran - saffron  
 saga - tell (narrate)  
 sage - tale (story, legend, saga)  
@@ -2913,7 +2911,8 @@ saida - hunt (fish)
 saide - hunting (fishing)  
 saider - hunter  
 sake - bag (sack)  
-sal - salt  
+salte - salt  
+sali - salty (saline)  
 salade - salad  
 salam (salami) - good (in greetings)  
 salam chute - farewell  
@@ -2924,7 +2923,6 @@ salam sube - Good morning
 salam yam - bon appetit!  
 salama - greet  
 salame - greeting (hello)  
-sali - salty (saline)  
 salima - surrender (to give up)  
 salmon - salmon (trout)  
 Salone - Sierra Leone  
@@ -3085,20 +3083,29 @@ show - show (display, exhibition)
 showa - show (display, demonstrate)  
 shudu - should (ought)  
 shukar - sugar  
+shukari - sugary (sweet)  
 shukarbete - sugar beet  
 shukargras - sugarcane  
-shukari - sugary (sweet)  
 shukaroranje - sweet orange  
-shul - repair (fix)  
-shula - repair (fix)  
-shuler - repairer  
+shul - lesson (teaching)  
+shula - learn (study)  
+shuler - student (pupil, learner)  
+shulisa - teach (educate, instruct)  
+shuliser - teacher  
+shulkamar - classroom  
+shulkan - school (institution)  
+shulshef - headmaster (principal)  
+shur - beginning (start, commencement, onset)  
+shura - begin (start, commence, initiate)  
+shuri - initial (first)  
+shuru - begin (get started)  
 shusha - silence (make silent)  
 shushi - silent  
 shusho - hush (shh)  
 shute - skill (art, craft)  
 shuti - skillful (crafty)  
 si - yes  
-sibiria - Siberia  
+Sibiria - Siberia  
 sida - sit (put down)  
 side - seat (saddle)  
 sidu - sit down  
@@ -3562,10 +3569,6 @@ waytira - stretch (extend)
 we - that one  
 weka - wake (make awake)  
 weki - awake  
-wen - question  
-wena - ask (inquire)  
-wenan - interrogative  
-wendokum - form (questionaire)  
 Wenjou - Wenzhou  
 wenjoworanje - satsuma mandari  
 weste - west  

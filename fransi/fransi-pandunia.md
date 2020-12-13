@@ -73,6 +73,7 @@ anus - anus
 appartenir à - tenu  
 appliquer - aplika  
 apporter - laya  
+apprendre (étudier) - shula  
 apprivoiser (dresser, dompter, discipliner) - dosila  
 arabe - arabi  
 arachnophobie - aranfobia  
@@ -342,7 +343,7 @@ danger - hatre
 dans le sens antihoraire - fansoldisho  
 dauphin - dolfin  
 de - cha  
-demander (poser un question) - wena  
+demander (poser un question; est-ce que) - eska  
 dessous - niche  
 destin - chenamen  
 deux (2) - duli  
@@ -351,6 +352,7 @@ dieu - dew
 dimanche - var 7 (var seti)  
 diorite - diorite  
 dioxyde de carbone - karbondulokside  
+directeur (principal) - shulshef  
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
@@ -373,6 +375,7 @@ droits de l'homme - insani hake
 dur - gati  
 durer - duru  
 dynamite - dinamite  
+début (commencement) - shur  
 décapé (mariné) - sirkopurshipi  
 déchirer - chir  
 déchirer - chira  
@@ -388,6 +391,7 @@ en ligne - sa linye
 enclume - metalbede  
 encore - yesho  
 enfant - bache  
+enseigner - shulisa  
 enterrer - gabra  
 entonnoir - liwkope  
 envelopper (emballer) - lifafa  
@@ -476,7 +480,7 @@ géométrie - zemmetria
 ####H - H  
 habiller (vêtir) - fuka  
 haine - hen  
-hameçon - fishohuke  
+hameçon - peshohuke  
 haut - gaw  
 heure - hor  
 heureux - suki  
@@ -549,6 +553,7 @@ lent - lenti
 lentille - lense  
 Lettonie - Latvia  
 lexical - logi  
+leçon - shul  
 libellule - libel  
 libre - huri  
 lichen - algofung  
@@ -558,6 +563,7 @@ lime (citron vert) - kagujolimon
 lire - duga  
 liste - liste  
 litre - litre  
+littérature - kitabia  
 livre - buke  
 local - loki  
 loin - longo  
@@ -786,6 +792,7 @@ pluvieux - barshi
 pocion - medikosuy  
 podzol - huydarte  
 poireau - porey  
+poisson - pesh  
 poisson-globe - balonfish  
 poivre - pipre  
 poivre long - longopipre  
@@ -808,6 +815,7 @@ presse-papier - katoglutobanze
 preuve - dalil  
 problème - problem  
 problématique - problemi  
+professeur (enseignant) - shuliser  
 profond - fasteli  
 programme - program  
 projectile - lancovute  
@@ -827,14 +835,14 @@ psyché - ruhe
 pâquerette - englomargarite  
 péter - peda  
 pétrole (essence) - petronefte  
-pêcheur - fishosaider  
+pêcheur - peshosaider  
 ####Q - Q  
 quand - ki sate  
 quartz - kuarce  
 quatre (4) - chari  
 que (comme) - ko  
 que (quoi) - ke  
-question - wen  
+question - eske  
 qui - ki ren  
 ####R - R  
 race - ras  
@@ -869,6 +877,9 @@ ruban (bande) - tepe
 rubis - lalbawsheke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
+réparateur - reyboner  
+réparation - reybon  
+réparer - reybona  
 réponse - jawabe  
 répéter - reya  
 répétition - rey  
@@ -880,7 +891,7 @@ sac - sake
 sain - sihi  
 saison - mosim  
 salle de bains - banyokamar  
-salle de classe - darsokamar  
+salle de classe - shulkamar  
 salut (salam) - salame  
 samedi - var 6 (var sisi)  
 sandwich - sanduiche  
@@ -905,7 +916,7 @@ scutelle - ostoshalke
 se baigner - banyu  
 se mouvoir - kinu  
 se rappeler (se remémorer) - mema  
-sel - sal  
+sel - salte  
 semence - sem  
 sens - sense  
 sentir - aroma  
@@ -1071,6 +1082,7 @@ zèbre - zebre
 Épicéa - pis  
 âge - umur  
 échelle - shalke  
+école (collège) - shulkan  
 écorce - tira pil  
 écrire - kitaba  
 écriture - kitabe  
@@ -1096,6 +1108,7 @@ zèbre - zebre
 éternuer - achua  
 étinceler - shingofota  
 étoile - shing  
+étudiant - shuler  
 étymologie - logaslia  
 été - lete  
 évaluer - vala  

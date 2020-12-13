@@ -230,6 +230,8 @@ emocohal - 心情
 emoje - 绘文字  
 englomargarite - 雛菊  
 esa - 对  
+eska - 问  
+eske - 问题  
 esponje - 海绵  
 estan - 锡  
 estibem - 锑  
@@ -248,8 +250,6 @@ filme - 膜
 filsofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
-fishohuke - 鱼钩  
-fishosaider - 鱼夫  
 fitolojia - 植物学  
 fleche - 箭  
 fora - 钻孔  
@@ -385,7 +385,6 @@ kafe' - 咖啡
 kafekan - 咖啡馆  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
-kaisha - 开始  
 kalam - 笔  
 kalamar - 鱿鱼  
 kalcite - 方解石  
@@ -441,6 +440,7 @@ kinu - 动
 kita - 除去  
 kitu - 去  
 kitaba - 写  
+kitabia - 文学  
 kitabokan - 图书馆  
 kitabomashin - 打字机  
 kiwi' - 奇异果  
@@ -685,6 +685,9 @@ pendokardon - 垂花飞廉
 perkardon - 翼蓟  
 pes - 钱  
 pesdiske - 硬币  
+pesh - 鱼  
+peshohuke - 鱼钩  
+peshosaider - 鱼夫  
 petronefte - 石油  
 piaze - 洋葱  
 pikosape - 镐  
@@ -725,6 +728,9 @@ retrogula - 呕吐
 retroguli sense - 恶心  
 retrotikete - 往返票  
 retru - 返回 (回来)  
+reybon - 修理  
+reybona - 修理  
+reyboner - 修理工人  
 reya - 重复  
 rezulte - 影响  
 ring - 环 (轮)  
@@ -746,7 +752,7 @@ sahi - 正确
 saida - 打猎  
 saide - 狩猎  
 saider - 狩人  
-sal - 盐  
+salte - 盐  
 salame - 迎接  
 saman - 天空  
 sami - 一样  
@@ -793,6 +799,15 @@ shopa - 买
 shope - 购物 (血拼)  
 shukar - 糖  
 shukargras - 甘蔗  
+shul - 课  
+shula - 学习  
+shuler - 学生  
+shulisa - 教学  
+shuliser - 教师 (老师)  
+shulkan - 学校  
+shulshef - 校长  
+shur - 开始  
+shura - 开始  
 shusho - 噓  
 shute - 技术  
 shuti - 熟练  
@@ -907,8 +922,6 @@ wanu - 玩耍
 washurse - 浣熊  
 wayoyam - 野餐  
 waytira - 拉  
-wen - 问题  
-wena - 问  
 Wenjou - 温州  
 wenjoworanje - 温州蜜柑  
 wijin - 味精  

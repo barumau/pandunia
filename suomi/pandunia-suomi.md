@@ -145,8 +145,8 @@ argon - argon
 argum - perustelu (argumentti)  
 Ariel - Ariel  
 arke - kaari  
-arkia - jousiammunta  
 arker - jousiampuja  
+arkeria - jousiammunta  
 arme - ase  
 arom - haju  
 aroma - haistaa  
@@ -549,13 +549,6 @@ darme - moraali
 darmi - moraalinen  
 darmolojia - etiikka (moraalioppi)  
 darmositem - darmstadtium  
-darsa - oppia (opiskella)  
-darse - oppi (opetus)  
-darsia - koulu (opisto)  
-darser - oppilas  
-darsoguru' - opettaja  
-darsokamar - luokkahuone  
-darsoshef - rehtori  
 darte - maa (multa)  
 darti - likainen (mutainen)  
 darwiniste - darwinisti  
@@ -738,6 +731,11 @@ Eritria - Eritrea
 es - olo (oleminen)  
 esa - olla  
 esey - essee  
+eska - kysyä  
+eske - kysymys  
+eskan - kysyvä  
+eskodokum - kyselylomake  
+saltem - asia (juttu)  
 eskal - portaat (rappuset, tikkaat)  
 eskala - kiivetä  
 eskaltan - köynnös  
@@ -856,15 +854,11 @@ fing - sormi tai varvas
 fingoring - sormus  
 fiorde - vuono  
 firuze - turkoosi  
-fish - kala  
-fishohuke - ongenkoukku  
-fishosaider - kalastaja  
-fishotanke - akvaario  
 fite - kasvi  
 fitolojia - kasvitiede  
 fizike - fysiikka  
-fiziker - fyysikko  
 fizikia - fysiikka  
+fiziker - fyysikko  
 fleche - nuoli  
 flerovem - flerovium  
 flurem - fluori  
@@ -1354,9 +1348,6 @@ kafekan - kahvila
 kafekupe - kahvikuppi  
 kafir - pakana  
 kaguje - paperi  
-kaish - alku  
-kaisha - aloittaa  
-kaishu - alkaa  
 kaka - ulostaa (kakata)  
 kakaw - kaakao  
 kake - uloste (kakka)  
@@ -1466,32 +1457,37 @@ kerube - kerubi
 kesh - hius (karva, tukka, hiukset)  
 keshobende - hiuspanta  
 keshosabun - šampoo  
-ketel - kattila  
+ketle - kattila  
 Khartum - Khartoum  
 kilogram - kilogramma  
 kilomitre - kilometri  
 kim - aine (aines, materia)  
-kimem - alkuaine  
 kimi - kemikaali  
+kimem - alkuaine  
 kimlojia - kemia  
 kin - liike  
 kina - liikuttaa  
+kinu - liikkua  
+kinograf - elokuva  
+kingrafi - elokuvallinen  
+kingrafia - elokuvataide  
+kinografokan - elokuvateatteri  
 Kinshasa - Kinshasa  
 Kinshasa Kongo - Kinshasan Kongo  
-kinu - liikkua  
 kioske - kioski  
 Kipris - Kypros  
 kir - vuokra  
+kirisa - vuokrata  
 kirate - karaatti  
 Kirgizia - Kirgistan (Kirgisia)  
 Kiribati - Kiribati  
 kirili abace - kyrilliset aakkoset  
-kirisa - vuokrata  
 kita - viedä  
 kiti - mennyt (poissa)  
 kitu - mennä  
 kitaba - kirjoittaa  
 kitabe - kirjoitus (teksti)  
+kitabia - kirjallisuus  
 kitabokan - kirjasto  
 kitabomashin - kirjoituskone  
 kitaborupe - tekstin muotoilu  
@@ -1842,7 +1838,6 @@ masal - mauste
 masali tike - tikka masala  
 mashin - kone  
 maske - naamio (maski)  
-masle - asia (juttu)  
 maste - masto (salko)  
 mate - aine (materia)  
 mati - aineellinen (materiaalinen)  
@@ -2293,6 +2288,10 @@ Peru - Peru
 pes - raha  
 pesdiske - kolikko  
 pesh - ammatti  
+pesh - kala  
+peshohuke - ongenkoukku  
+peshosaider - kalastaja  
+peshotanke - akvaario  
 peta' - peta-  
 pete - maha (vatsa)  
 petre - kallio (kivi)  
@@ -2476,6 +2475,9 @@ retrotikete - menopaluulippu
 retru - palata  
 Reunion - Reunion  
 rey - toisto  
+reybon - korjaus  
+reybona - korjata  
+reyboner - korjaaja  
 reya - toistaa  
 reyo - taas (uudestaan)  
 rezerve - varaus (ennakkovaraus)  
@@ -2542,18 +2544,18 @@ sa ke - missä?
 sa sabu - koska (johdosta, takia)  
 sa ye - täällä (tuolla)  
 saba - aiheuttaa (olla syynä)  
-sabate - sapatti  
 sabe - syy  
+sabate - sapatti  
 sabun - saippua  
 sadi - koruton (tavanomainen, pelkkä)  
 safa - puhdistaa (siivota)  
+safi - puhdas (siivo, siisti)  
+safer - siivooja  
 safar - matka (reissu)  
 safara - matkustaa  
 safarer - matkailija  
 safariste - turisti  
 safaristia - turismi  
-safer - siivooja  
-safi - puhdas (siivo, siisti)  
 safran - sahrami  
 saga - kertoa  
 sage - kertomus (tarina, saaga)  
@@ -2563,7 +2565,8 @@ saida - pyytää (metsästää, kalastaa)
 saide - pyynti (metsästys, kalastus)  
 saider - pyytäjä (metsästäjä, kalastaja)  
 sake - pussi (säkki, kassi, laukku)  
-sal - suola  
+salte - suola  
+sali - suolainen  
 salade - salaatti  
 salam (salami) - hyvä (tervehdyksissä)  
 salam chute - hyvää matkaa  
@@ -2574,7 +2577,6 @@ salam sube - Huomenta!
 salam yam - hyvää ruokahalua!  
 salama - tervehtiä  
 salame - tervehdys (terve!)  
-sali - suolainen  
 Salone - Sierra Leone  
 Salvador - El Salvador  
 saman - taivas  
@@ -2700,16 +2702,24 @@ showa - näyttää
 shudu - pitäisi  
 shukar - sokeri  
 shukari - sokerinen (makea)  
-shul - korjaus  
-shula - korjata  
-shuler - korjaaja  
+shul - oppi (opetus)  
+shula - oppia (opiskella)  
+shuler - oppilas  
+shulisa - opettaa  
+shuliser - opettaja  
+shulkamar - luokkahuone  
+shulkan - koulu (opisto)  
+shulshef - rehtori  
+shur - alku  
+shura - aloittaa  
+shuru - alkaa  
 shusha - hiljentää  
 shushi - hiljainen  
 shusho - hiljaa (hys, shhh)  
 shute - taito  
 shuti - taitava  
 si - kyllä  
-sibiria - Siperia  
+Sibiria - Siperia  
 sida - istua  
 sif - laatu (ominaisuus, ominaispiirre, määrite)  
 sifa - määritellä (luonnehtia)  
@@ -3075,10 +3085,6 @@ wayoyam - eväsretki (piknik)
 we - tuo  
 weka - herättää  
 weki - olla hereillä  
-wen - kysymys  
-wena - kysyä  
-wenan - kysyvä  
-wendokum - kyselylomake  
 weste - länsi  
 westi - läntinen  
 wi - tuo (nuo)  

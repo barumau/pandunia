@@ -235,7 +235,6 @@
 |**darba**|bić, uderzyć, uderzać|ara:ضرب‎ (ḍaraba), fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|
 |**darje**|stopień, poziom, ranga, klasa|ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|
 |**darme**|moralność, etyka|hin:धर्म (dharm), urd:(dharm), ben:ধর্ম (dhôrmô), guj:ધર્મ (dharma), tel:ధర్మము (dharmamu), tam:தருமம் (tarumam), tha:ธรรม (tam), mya:ဓမ္မ (dhamma), may:derma, zho:達摩 (dámó), kor:달마 (dalma), eng:deu:fra:spa:dharma, por:darma, rus:дхарма (dharma)|
-|**darse**|lekcja|ara:fas:urd:(dars), tur:ders|
 |**darte**|grunt (ziemia, próchnica)|eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|
 |**date**|dane|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
 |**daw**|droga, szosa, ulica|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
@@ -306,6 +305,7 @@
 |**esa**|być|spa:es, fas:(ast), por:estar, rus:есть (yest')|
 |**esey**|esej|eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|
 |**eskal**|schody (drabina)|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
+|**eske**|pytanie|ara: سُؤَال‎ (suʾāl) , fas: سؤال‎ (so'âl), hin:सवाल (savāl);मसला (masalā), may:soal;masalah, swa:swali, tur:sual;mesele, hau:matsala|
 |**eskulter**|rzeźbiarz|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**esponje**|gąbka|ell:σφουγγάρι (sphoungári), eng:sponge, spa:por:esponja, tur:süngre, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon|
 |**estacia**|stacja|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
@@ -350,7 +350,6 @@
 |**fing**|palec|eng:finger, deu:Finger|
 |**fiorde**|fiord|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |**firuze**|turkus|per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|
-|**fish**|ryba|eng:fish, deu:Fisch|
 |**fite**|roślina, sadzonka|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
 |**fizikia**|fizyk|eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|
 |**fleche**|strzała (bełt)|spa:por:flecha, fra:flèche, eng:fletch|
@@ -567,7 +566,6 @@
 |**kafe'**|kawa|deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|
 |**kafir**|niewierny (poganin, niewierzący)|ara:(kāfir), fas:(kāfer), tur:fra:kâfir, yor:kaferi, swa:kafiri, may:kafir, rus:кафир (kafir), hin:काफ़िर (kāfir)|
 |**kaguje**|papier|zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|
-|**kaish**|początek|zho:开始 (kāishǐ), jpn:開始 (kaishi), kor:개시 (gaesi)|
 |**kakaw**|kakao|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|
 |**kake**|ekskrement, gówno|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
 |**kalam**|pióro, długopis|ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|
@@ -629,7 +627,7 @@
 |**kerne**|rdzeń (jądro, pestka)|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
 |**kerube**|cherubin|heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|
 |**kesh**|włos|jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|
-|**ketel**|czajnik|eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|
+|**ketle**|czajnik|eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|
 |**kilo'**|tysiąc (kilo-)|eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|
 |**kini**|ruchowy, kinetyczny|eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|
 |**kioske**|kiosk|fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|
@@ -811,7 +809,6 @@
 |**masal**|przyprawa|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
 |**mashin**|maszyna|fra: machine, eng: machine, deu: Maschine, may: mesin|
 |**maske**|maska, kamuflaż|eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske|
-|**masle**|kwestia, problem|ara:(masʾala), hau:matsala, hin:मसला (maslā), may:masalah|
 |**maste**|maszt|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
 |**mate**|materia, substancja|eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi, + ara: مادة (mādda),  tur:madde + yue:物 (mat), vie:vật|
 |**matike**|matematyka|deu:Mathe(matik), eng:math(ematics), spa:matemática, rus:математика (matematika)|
@@ -1009,6 +1006,7 @@
 |**per**|pióro|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
 |**pes**|pieniądze|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|
 |**pesh**|profesja, zajęcie, zawód|fas:(piše), hin:पेशा (peśā), ben:পেশা (peśa)|
+|**pesh**|ryba|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
 |**pete**|brzuch|ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|
 |**petre**|skała|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
 |**pey**|zapłata, opłata|eng:pay, fra:paye, + zho:费 (fèi)|
@@ -1138,11 +1136,11 @@
 |**sahi**|właściwy, poprawny|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |**saide**|polowanie (łowienie)|ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sake**|torba, wór, worek, torba, sakwa|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
-|**sal**|sól|por:spa:sal, eng:salt, rus:соль (solʹ)|
 |**salade**|sałatka|fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
 |**salame**|pozdrowienie|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
 |**salima**|poddać się, poddawać się|ara:استسلم (istaslama)|
 |**salmon**|łosoś (pstrąg)|eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|
+|**salte**|sól|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**saman**|niebo|ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|
 |**sami**|taki sam|eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|
 |**samuna**|łączyć, wiązać, złączyć|isl:sameina, deu:vereinigen|
@@ -1215,7 +1213,8 @@
 |**show**|pokaz, ekspozycja, wystawa|eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|
 |**shudu**|powinien|eng:should|
 |**shukar**|cukier|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, tam:சக்கரை (cakkarai)|
-|**shul**|naprawa|zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)|
+|**shulkan**|szkoła (instytucja)|deu:Schule, swa:shule, eng:school, hin:स्कूल (skūl), ben:স্কুল (śkul), rus:школа (škola) + fra:école, spa:escuela, por:escola, may:sekolah|
+|**shur**|początek|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
 |**shusho**|ćsi|eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|
 |**shute**|umiejętność (kompetencja)|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|
 |**si**|tak|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
@@ -1390,7 +1389,6 @@
 |**way**|zęwnętrzny|zho:外 (wài)|
 |**waydeshi**|zagraniczny|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |**weki**|przebudzony, przytomny|eng:awake, deu:wach|
-|**wen**|pytanie|zho:问 (wèn), wuu:问 (vén), jpn:問 (mon), kor:문 (mun), vie:vấn|
 |**weste**|zachód|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
 |**wi**|tamten (tamten)|hin:वह (wo), ben:ওই (oi)|
 |**wijin**|glutaminian sodu|zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|

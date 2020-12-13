@@ -155,6 +155,7 @@
 |**emoce**|émotion|eng;emotion, fra:émotion, spa:emoción, por;emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|
 |**emoje**|émoticône (emoji)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**esa**|être|spa:es, fas:(ast), por:estar, rus:есть (yest')|
+|**eske**|question|ara: سُؤَال‎ (suʾāl) , fas: سؤال‎ (so'âl), hin:सवाल (savāl);मसला (masalā), may:soal;masalah, swa:swali, tur:sual;mesele, hau:matsala|
 |**eskulter**|sculpteur|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**esponje**|éponge|ell:σφουγγάρι (sphoungári), eng:sponge, spa:por:esponja, tur:süngre, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon|
 |**estan**|étain|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
@@ -427,6 +428,7 @@
 |**pay**|tarte|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
 |**pede**|pet (vesse)|ben:পাদ (pad), hin:पाद (pād), spa:pedo, por:peido, fra:pet, rus:пердение (perdeniye)|
 |**pes**|argent|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|
+|**pesh**|poisson|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
 |**petre**|roche (pierre)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
 |**piaze**|oignon|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
 |**pike**|cime (pic, sommet)|eng:peak, rus:пик (pik), fra:pic, spa:por:pico, que:pikchu|
@@ -470,9 +472,9 @@
 |**ruhlojia**|psychologie|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |**sahi**|correct (juste)|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |**sake**|sac|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
-|**sal**|sel|por:spa:sal, eng:salt, rus:соль (solʹ)|
 |**salame**|salut (salam)|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
 |**salmon**|truite|eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|
+|**salte**|sel|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**saman**|ciel|ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|
 |**sami**|égal (même)|eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|
 |**sanduiche**|sandwich|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
@@ -502,6 +504,8 @@
 |**shite**|merde|eng:shit, zho:屎 (shǐ), yue:屎 (si2)|
 |**shope**|shopping|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |**shukar**|sucre|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, tam:சக்கரை (cakkarai)|
+|**shulkan**|école (collège)|deu:Schule, swa:shule, eng:school, hin:स्कूल (skūl), ben:স্কুল (śkul), rus:школа (škola) + fra:école, spa:escuela, por:escola, may:sekolah|
+|**shur**|début (commencement)|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
 |**si**|oui|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
 |**sihe**|santé|ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|
 |**sil**|maillon (chaînon)|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri|
@@ -565,7 +569,6 @@
 |**vute**|objet (article)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|
 |**washurse**|raton laveur|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
 |**weki**|éveillé|eng:awake, deu:wach|
-|**wen**|question|zho:问 (wèn), wuu:问 (vén), jpn:問 (mon), kor:문 (mun), vie:vấn|
 |**wolfe**|loup|deu:ned:eng:wolf, rus:волк (volk)|
 |**yesho**|encore|rus:ещё (yeščo), pol:jeszcze|
 |**yongu**|melt|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|

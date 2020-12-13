@@ -255,6 +255,9 @@ emocohal - настроение
 emoje - смайлик (эмодзи)  
 englomargarite - маргаритка многоле́тняя  
 esa - быть  
+eska - спрашивать  
+eske - вопрос  
+eskodokum - анкета  
 eskala - подниматься  
 eskulter - скульптор  
 esponje - губка  
@@ -275,8 +278,6 @@ filme - плева (фильм)
 filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
-fishohuke - крючок  
-fishosaider - рыбак (рыболов)  
 fitolojia - ботаника  
 fleche - стрела (стрелка)  
 fora - сверлить (бурить)  
@@ -471,11 +472,12 @@ kim - вещество
 kimem - химический элемент  
 kimlojia - химия  
 kina - двигать  
-kingraf - фильм (кино)  
 kinu - двигаться  
+kinograf - фильм (кино)  
 kitu - идти  
 kitaba - писать  
 kitabe - письмо  
+kitabia - литература (словесность)  
 kitabokan - библиотека  
 kitabomashin - пишущая машинка  
 kitabominister - библиотекарь  
@@ -737,6 +739,9 @@ per - перо
 perkardon - бодяк обыкновенный  
 pes - деньги  
 pesdiske - монета  
+pesh - рыба  
+peshohuke - крючок  
+peshosaider - рыбак (рыболов)  
 petre - горная порода  
 petronefte - нефть  
 piaze - лук  
@@ -784,6 +789,9 @@ retrogula - рвать (изрыга́ть)
 retroguli sense - тошнота  
 retru - возвращаться  
 rey - повторение  
+reybon - починка (ремонт)  
+reybona - чинить (ремонтировать)  
+reyboner - ремонтник  
 reya - повторять  
 rezulte - эффект  
 rim - рифма  
@@ -805,7 +813,7 @@ sa linye - онлайн
 safran - шафран  
 sahi - правильный  
 saida - охотиться  
-sal - соль  
+salte - соль  
 salame - приветствие  
 saman - небо  
 samanonili - голубой  
@@ -855,6 +863,13 @@ shukar - сахар
 shukarbete - сахарная свёкла  
 shukargras - сахарный тростник  
 shukaroranje - апельсин  
+shul - урок (учение)  
+shula - учиться  
+shulisa - учить (преподавать)  
+shuliser - учитель  
+shulkan - школа   
+shulshef - директор (ректор)  
+shur - начало  
 shushi - тихий  
 si - да  
 sida - сидеть  
@@ -987,8 +1002,6 @@ washurse - енот
 waw - вау!  
 wayoyam - пикник  
 waytira - вытянуть  
-wen - вопрос  
-wendokum - анкета  
 wenjoworanje - мандарин уншиу  
 westogoril - западная горилла  
 ####X - X  
