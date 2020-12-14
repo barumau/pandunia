@@ -331,7 +331,7 @@ eble - ablo
 eco - bonsif  
 edzigi - gama  
 egipta - misri  
-Egipto - Misre  
+Egipto - Misria  
 ejnŝtejnio - ainstainem  
 ejo (ujo, io) - -ia  
 ejo - aria  
@@ -744,7 +744,7 @@ kiu? - ki ren
 kivo - kiwi'  
 klara - klari  
 klarigi - klara  
-klavaro - butonbanze  
+klavaro - butonban  
 klavo (butono) - buton  
 klimato - klim  
 klimatscienco - klimolojia  
@@ -872,7 +872,7 @@ laŭrencio - laurensem
 leciono - shul  
 legi - duga  
 lego - kanun  
-legomo - vejete  
+legomo - yamfite  
 leono - sing  
 lernejestro - shulshef  
 lernejo - shulkan  
@@ -1198,7 +1198,7 @@ pentri - penta
 pentri - pente  
 perlo - lul  
 persa - farsi  
-persono - ren  
+persono - jan  
 peta- - peta'  
 peti (bonvolu) - pliza  
 peza - bari  
@@ -1492,8 +1492,10 @@ svastiko - hukokrus
 sŭahili - suahili  
 ####T - T  
 tabako - tabake  
-tabelo - table  
+tabelo - datotable  
 tablo - meze  
+tabulludo - banogem  
+tabulo - ban  
 tagmanĝo - denyam  
 tago - den  
 tajgo - taige  

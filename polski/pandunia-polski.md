@@ -236,6 +236,8 @@ balon - balon
 balonfish - ryba rozdymkowata  
 balute - dąb  
 balutopal - żołądź  
+ban - tablica (deska)  
+banogem - gra planszowa  
 banan - banan  
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
@@ -249,8 +251,6 @@ banse - bambus
 banye - kąpiel  
 banyu - kąpać się  
 banyokamar - łazienka  
-banze - deska  
-banzogem - gra planszowa  
 bar - bar  
 bar - ciężar (brzemię)  
 bari - ciężki (masywny)  
@@ -424,7 +424,7 @@ bus - autobus, autokar
 buste - biust  
 bute - but  
 buton - klawisz, przycisk, przełącznik, guzik  
-butonbanze - klawiatura  
+butonban - klawiatura  
 buy - baobab  
 buze - koza  
 ####C - C  
@@ -564,6 +564,7 @@ darwiniste - darwinista
 darwinistia - darwinizm  
 date - dane  
 datobanke - baza danych (bank danych)  
+datotable - tablioca, macierz  
 daw - droga, szosa, ulica  
 dawiste - taoista  
 dawistia - taoizm  
@@ -584,7 +585,7 @@ deci' - decy-, dziesiąta część
 decibel - decybel  
 def - obrona  
 defa - obronić (chronić)  
-defbanze - tarcza  
+defban - tarcza  
 defer - obrońca  
 defkaske - zbroja  
 defta - zapisać (zarejestrować)  
@@ -875,6 +876,7 @@ fiorde - fiord
 firuze - turkus  
 fite - roślina, sadzonka  
 fitolojia - botanika  
+fityamiste - wegetarianin  
 fizike - fizyka  
 fizikia - fizyk  
 fiziker - fizyka  
@@ -934,11 +936,11 @@ fungopal - sporokarp
 furete - tchórz, fretka  
 furi - zły (wsciekły, gniewny)  
 furia - gniew, furia  
-futaw - siekera, topór  
 fute - stopa  
-futobanze - rusztowanie (trap)  
+futoban - rusztowanie (trap)  
 futobol - piłka nożna  
 futoshake - noga  
+futaw - siekera, topór  
 fuy - fu, fuj  
 ####G - G  
 Gabon - Gabon  
@@ -1300,6 +1302,7 @@ jambul - czapetka kuminowa
 jami - zbiorowy, zbiorczy  
 jamia - kolekcja, zbiór; zgromadzenie, zebranie  
 jampa - skoczyć, skakać  
+jan - osoba; ludzie  
 janel - okno  
 janger - rzemieślnik  
 jangi - umiejętny (sprawny, zręczny)  
@@ -2094,8 +2097,8 @@ misalo - na przykład
 miser - nadawca  
 misia - misja  
 miskini - biedny, mizerny  
-Misre - Egipt  
 misri - egipski  
+Misria - Egipt  
 mita - spotkać  
 mite - spotkanie, zebranie  
 mitre - metr  
@@ -2105,6 +2108,7 @@ modela - modelować (projektować, zaprojektować)
 modologe - przysłówek  
 moge - tusz  
 moke - drzewo  
+mokoban - deska  
 mokojanger - stolarz  
 mokojongoparke - arboretum  
 mokomate - drewno  
@@ -2121,10 +2125,10 @@ moluske - mięczak (morski bezkręgowiec)
 mome - my  
 moni - jedyny (wyłączny)  
 mono - tylko  
+monfityamiste - weganin (weganka)  
 monistia - monizm  
 monkratia - monarchia  
 monloge - monolog  
-monvejetyamiste - weganin (weganka)  
 Monako - Monako  
 mongoli - Mongolski  
 Mongolia - Mongolia  
@@ -2685,7 +2689,6 @@ redi - gotowy
 rege - piasek, piach  
 registan - pustynia  
 regopetre - piaskowiec  
-ren - osoba; ludzie  
 renem - ren  
 rentogenem - roentgen  
 reporta - raportować, relacjonować, opowiadać  
@@ -3143,8 +3146,7 @@ Swati - Suazi
 Swisia - Szwajcaria  
 ####T - T  
 tabake - tytoń  
-tabla - ułożyć w trabelę  
-table - tablioca, macierz  
+tabla date - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
 taibey - Tajpej  
 taige - tajga  
@@ -3359,8 +3361,6 @@ var 6 (var sisi) - sobota
 var 7 (var seti) - niedziela  
 Vatikan - Watykan, Państwo Watykańskie  
 vaze - waza, garnek, pojemnik, słoik, dzban  
-vejete - warzywo  
-vejetyamiste - wegetarianin  
 venda - sprzedać (sprzedawać)  
 vendoshopa - handlować  
 vendoshope - handel  
@@ -3463,6 +3463,7 @@ yala - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 yam - jedzenie, posiłek  
 yama - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 yami - pyszny  
+yamfite - warzywo  
 yamkamar - jadalnia  
 yamnide - głód  
 yamshukarcaw - cukrowiec jadalny  

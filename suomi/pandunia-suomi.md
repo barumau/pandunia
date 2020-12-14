@@ -234,6 +234,8 @@ balkon - parveke (kuisti)
 balon - ilmapallo  
 balute - tammi  
 balutopal - tammenterho  
+ban - lauta (paneeli)  
+banogem - lautapeli  
 banan - banaani  
 bande - ryhmä (työryhmä, yhtye, bändi)  
 bandir - lippu  
@@ -247,8 +249,6 @@ banse - bambu
 banye - kylpy  
 banyu - kylpeä  
 banyokamar - kylpyhuone  
-banze - lauta (lankku)  
-banzogem - lautapeli  
 bar - baari (kapakka)  
 bar - paino  
 bari - painava  
@@ -422,7 +422,7 @@ bus - linja-auto (bussi)
 buste - povi  
 bute - saapas (buutsi)  
 buton - nappi (näppäin, kytkin, nappula)  
-butonbanze - näppäimistö  
+butonban - näppäimistö  
 buy - apinanleipäpuu (baobab)  
 buze - vuohi  
 ####C - C  
@@ -556,7 +556,9 @@ darwiniste - darwinisti
 darwinistia - darwinismi  
 date - data (numeerinen tieto)  
 datobanke - tietokanta  
+datotable - taulukko  
 daw - tie  
+dawban - liikennemerkki  
 dawiste - taolainen  
 dawistia - taolaisuus  
 dayi - iso (suuri)  
@@ -575,7 +577,7 @@ deci' - desi
 decibel - desibeli  
 def - puolustus  
 defa - puolustaa  
-defbanze - suojakilpi  
+defban - suojakilpi  
 defer - puolustaja  
 defkaske - suojakypärä  
 defta - tallentaa (rekisteröidä, kirjata)  
@@ -862,6 +864,7 @@ fiorde - vuono
 firuze - turkoosi  
 fite - kasvi  
 fitolojia - kasvitiede  
+fityamiste - kasvissyöjä  
 fizike - fysiikka  
 fizikia - fysiikka  
 fiziker - fyysikko  
@@ -927,10 +930,10 @@ fungopal - sienen hattu
 furete - kärppä (fretti)  
 furi - vihainen (suuttunut)  
 furia - viha (suuttumus, raivo)  
-futaw - kirves  
 fute - jalka (jalkaterä)  
 futobol - jalkapallo  
 futoshake - jalka (alaraaja)  
+futaw - kirves  
 fuy - hyi! (pyh!)  
 ####G - G  
 Gabon - Gabon  
@@ -1265,6 +1268,7 @@ jambul - jambolaani
 jami - kollektiivinen  
 jamia - yhteisö (kokoontuminen, kollektiivi)  
 jampa - hypätä (hyppiä)  
+jan - henkilö  
 janel - ikkuna  
 janelfrem - ikkunankehys (ikkunanpuite)  
 janger - artesaani (käsityöläinen)  
@@ -1945,8 +1949,8 @@ misalo - esimerkiksi
 miser - lähettäjä (lähetin)  
 misia - lähetys  
 miskini - kurja (raukka)  
-Misre - Egypti  
 misri - egyptiläinen  
+Misria - Egypti  
 mita - tavata  
 mite - tapaaminen (kokous)  
 mitre - metri  
@@ -1969,11 +1973,11 @@ moluske - nilviäinen
 mome - me  
 moni - ainoa (ainut)  
 mono - vain (ainoastaan)  
+monfityamiste - vegaani  
 monistia - monismi  
 monkratia - yksinvaltius (autokratia, monarkia)  
 monloge - yksinpuhelu (monologi)  
 monoki lense - monokkeli  
-monvejetyamiste - vegaani  
 Monako - Monaco  
 mongoli - mongoli  
 Mongolia - Mongolia  
@@ -2466,7 +2470,6 @@ reda - tehdä valmiiksi
 redi - valmis  
 rege - hiekka  
 registan - aavikko (hiekkaerämaa)  
-ren - henkilö  
 renem - rhenium  
 rentogenem - röntgenium  
 reporta - raportoida (selostaa)  
@@ -2842,8 +2845,9 @@ Swati - Swazimaa
 Swisia - Sveitsi  
 ####T - T  
 tabake - tupakka  
-tabla - taulukoida  
-table - taulukko  
+tabla date - taulukoida  
+table - laatta (levy)  
+tablokomputer - taulutietokone (tabletti)  
 tafun - myrsky  
 taibey - Taipei  
 taige - taiga  
@@ -3023,8 +3027,6 @@ var 6 (var sisi) - lauantai
 var 7 (var seti) - niedziela  
 Vatikan - Vatikaanivaltio  
 vaze - ruukku (maljakko, vaasi)  
-vejete - kasvis  
-vejetyamiste - kasvissyöjä  
 Venezuela - Venezuela  
 aventur - seikkailu  
 aventurer - seikkailija  
@@ -3107,6 +3109,7 @@ yala - kiirehtiä
 yam - ruoka  
 yama - nauttia (syödä, juoda)  
 yami - herkullinen (nami)  
+yamfite - kasvis  
 yamkamar - ruokasali  
 yamnide - nälkä  
 yang - laji (tyyppi, tyyli)  

@@ -91,6 +91,8 @@ balsenter - 章鱼
 balibali - 各种各样  
 balkon - 阳台  
 balute - 橡树 (xiàng)  
+ban - 板子  
+banogem - 版图游戏  
 banan - 香蕉  
 bande - 班  (一帮)  
 bandir - 旗  
@@ -99,7 +101,6 @@ banse - 竹子
 banye - 洗澡  
 banyu - 游泳  
 banyokamar - 浴室  
-banze - 板子  
 bari - 重型的  
 barkoke - 杏子  
 barshe - 雨  
@@ -187,13 +188,14 @@ danger - 钟 (摇铃)
 dantobalute - 槲树  
 date - 数据  
 datobanke - 数据库  
+datotable - 表格  
 daydom - 殿 (宫殿, 宅第)  
 dayhay - 大洋 (大海)  
 daypaw - 大炮  
 daysheke - 磐石  
 dayvaze - 炼药锅  
 debili - 虚弱 (易坏)  
-defbanze - 盾牌  
+defban - 盾牌  
 defkaske - 盔甲  
 deshren - 公民  
 dew - 神  
@@ -254,7 +256,9 @@ filme - 膜
 filsofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
+fite - 植物  
 fitolojia - 植物学  
+fityamiste - 素食主义者  
 fleche - 箭  
 fora - 钻孔  
 fote - 光  
@@ -364,6 +368,7 @@ itis - 炎症
 ive - 趋势  
 ####J - J  
 jagu - 起きる  
+jan - 人  
 janel - 窗戶  
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
@@ -603,11 +608,12 @@ milkokardon - 水飞蓟
 minte - 薄荷  
 mirdi - 微弱的  
 misalo - 比如  
-Misre - 埃及  
+Misria - 埃及  
 mita - 聚会  
 mite - 会议  
 mitre - 米 (公尺)  
 moke - 树木  
+mokoban - 木板  
 mokojanger - 木匠  
 mokomate - 木材  
 mokotan - 原木  
@@ -873,6 +879,7 @@ suykaboge - 葫芦
 suyminte - 水薄荷  
 suynide - 口渴  
 ####T - T  
+tablokomputer - 平板电脑  
 tail - 砖 (瓦)  
 taksometer - 计程器  
 tali moke - 灌木  
@@ -930,8 +937,6 @@ var 4 (var chari) - 星期四 (禮拜四)
 var 5 (var limi) - 星期五 (禮拜五)  
 var 6 (var sisi) - 星期六 (礼拜六)  
 var 7 (var seti) - 星期日 (禮拜日)  
-vejete - 蔬菜  
-vejetyamiste - 素食主义者  
 venda - 卖  
 vendoshope - 贸易  
 aventur - 冒险  
@@ -953,6 +958,7 @@ Wenjou - 温州
 wenjoworanje - 温州蜜柑  
 wijin - 味精  
 ####Y - Y  
+yamfite - 蔬菜  
 yamnide - 饥饿  
 yasen - 白蜡树  
 yatimdom - 孤儿院  

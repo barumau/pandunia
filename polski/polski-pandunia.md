@@ -447,7 +447,7 @@ Demokratyczna Republika Konga - Kinshasa Kongo
 demokratyczny - demokrati  
 demon - demon  
 dentysta - dantomediker  
-deska - banze  
+deska - mokoban  
 deszcz - barshe  
 deszczowy - barshi  
 detal, szczegół - detal  
@@ -570,7 +570,7 @@ dżul (J) - jul
 echo - mirsonde  
 efekt halo - fotocirke  
 egipski - misri  
-Egipt - Misre  
+Egipt - Misria  
 egzonim - eksonam  
 einstein - ainstainem  
 ekologia (nauka o środowisku) - ekolojia  
@@ -723,7 +723,7 @@ gorączka - febre
 gotować, szykować jedzenie - kuka  
 gotowy - redi  
 gra - gem  
-gra planszowa - banzogem  
+gra planszowa - banogem  
 gracki, helleński; Grek - heleni  
 gracz - gemer  
 gradient (gradacja, stopniowanie) - darjomaidan  
@@ -1073,7 +1073,7 @@ klasyczny - puranyangi
 klasyfikować, kategoryzować - klasa  
 klatka - batonkapse  
 klatka piersiowa - sinkafas  
-klawiatura - butonbanze  
+klawiatura - butonban  
 klawisz, przycisk, przełącznik, guzik - buton  
 klej - glute  
 klejnot - bawsheke  
@@ -1848,7 +1848,7 @@ osmoza - osme
 osoba biznesu, biznesman - bizneser  
 osoba dorosła - matur  
 osoba mówiąca w Panduni - panduniste  
-osoba; ludzie - ren  
+osoba; ludzie - jan  
 osobisty numer identyfikacyjny (pin) - sekurnombre  
 osobisty, intymny, prywatny - auti  
 ostatni, końcowy - fini  
@@ -2473,7 +2473,7 @@ rumianek pospolity - kamil
 Rumunia - Romania  
 ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się) - migra  
 ruszać, przenościć, zmieniać miejsce - kina  
-rusztowanie (trap) - futobanze  
+rusztowanie (trap) - futoban  
 rut - rutenem  
 rutherford - ruterfordem  
 rutyna, nawyk, zwyczaj - rutin  
@@ -2833,8 +2833,9 @@ słup (pal, kołek) - zong
 służba - serve  
 służyć - serva  
 ####T - T  
+tablica (deska) - ban  
 tablica wyników - puntobanze  
-tablioca, macierz - table  
+tablioca, macierz - datotable  
 Tadżykistan - Tajikia  
 tajga - taige  
 Tajlandia - tayia  
@@ -2858,7 +2859,7 @@ Tanzania - Tanzania
 taoista - dawiste  
 taoizm - dawistia  
 tapeta - murkaguje  
-tarcza - defbanze  
+tarcza - defban  
 tatuaż - tatu'  
 taxi, taksówka - taksogar  
 taśma - tepe  
@@ -3049,7 +3050,7 @@ uwięzić, więzić, pozbawić wolności - prizona
 uwolnić, uwalniać - hura  
 Uzbekistan - Uzbekia  
 uznać (przynać, przyjąć do wiadomości) - resida  
-ułożyć w trabelę - tabla  
+ułożyć w trabelę - tabla date  
 uświadomienie, świadomość; oświecenie, bodhi - bude  
 uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - buda  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidi  
@@ -3081,7 +3082,7 @@ warstwa (poziom, piętro, kondygnacja) - cheng
 warsztat szewski - sapateria  
 wartość - val  
 warunek - sharte  
-warzywo - vejete  
+warzywo - yamfite  
 Waszyngton D.####C - Washington DC  
 wat - wate  
 Watykan, Państwo Watykańskie - Vatikan  
@@ -3094,8 +3095,8 @@ wcześniej (uprzednio) - cheno
 wczoraj - chendeno  
 wdowa - vidove  
 według ruchu wskazówek zegara - soldisho  
-weganin (weganka) - monvejetyamiste  
-wegetarianin - vejetyamiste  
+weganin (weganka) - monfityamiste  
+wegetarianin - fityamiste  
 wejście - jinmun  
 welon (woalka) - hijabe  
 Wenezuela - Venezuela  

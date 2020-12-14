@@ -288,7 +288,7 @@ edeltää (olla ennen) - chena
 edetä (edistyä) - jinu  
 edistää - jin  
 edustaa - wakila  
-Egypti - Misre  
+Egypti - Misria  
 egyptiläinen - misri  
 ehdottaa - suja  
 ehdotus - suje  
@@ -528,7 +528,7 @@ Helsinki - Helsinki
 helvetti - narake  
 hengitys (henkäys) - nafas  
 henki (sielu, mieli, psyyke) - ruhe  
-henkilö - ren  
+henkilö - jan  
 henkilökohtainen (privaatti) - auti  
 henkinen (psyykkinen) - ruhi  
 heprea - ibri  
@@ -916,8 +916,8 @@ kastike (soosi) - sos
 kasvaa (suurentua) - dayu  
 kasvaa - rastu  
 kasvi - fite  
-kasvis - vejete  
-kasvissyöjä - vejetyamiste  
+kasvis - yamfite  
+kasvissyöjä - fityamiste  
 kasvitiede - fitolojia  
 kasvot (naama) - muke  
 kasvu - raste  
@@ -1263,6 +1263,7 @@ laadukas (hyvä) - bonsifi
 laakso - vade  
 laatikko - kapse  
 laatikko - sanduke  
+laatta (levy) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsif  
 laatu (ominaisuus, ominaispiirre, määrite) - sif  
 ladata - lada  
@@ -1299,9 +1300,9 @@ Latvia - Latvia
 lauantai - var 6 (var sisi)  
 laulaa - chanta  
 laulu - chante  
-lauta (lankku) - banze  
+lauta (paneeli) - ban  
 lautanen - platotas  
-lautapeli - banzogem  
+lautapeli - banogem  
 lava (näyttämö) - sen  
 lawrensium - laurensem  
 lehmän liha - muhmanse  
@@ -1344,6 +1345,7 @@ liikaa - may ko bas
 liike - kin  
 liike - mote  
 liikemies - bizneser  
+liikennemerkki - dawban  
 liiketoiminta (bisnes) - biznes  
 liikkua - kinu  
 liikuttaa - kina  
@@ -1768,7 +1770,7 @@ näkymä - vide
 näkyä - vidu  
 näkökenttä - vidomaidan  
 nälkä - yamnide  
-näppäimistö - butonbanze  
+näppäimistö - butonban  
 näytellä - rola  
 näyttelijä - roler  
 näyttää - showa  
@@ -2515,7 +2517,7 @@ sulkea vetoketjulla - zipa
 summa - sum  
 suo (räme) - potistan  
 suodattaa - filter  
-suojakilpi - defbanze  
+suojakilpi - defban  
 suojakypärä - defkaske  
 suojella (suojata, turvata) - sekura  
 suola - salte  
@@ -2657,8 +2659,9 @@ tasku - jebe
 taso - par  
 tatuointi - tatu'  
 tauko (keskeytys, paussi) - pauze  
-taulukko - table  
-taulukoida - tabla  
+taulukko - datotable  
+taulukoida - tabla date  
+taulutietokone (tabletti) - tablokomputer  
 tavallinen - adi  
 tavanomainen (perinteinen) - riti  
 tavata - mita  
@@ -2981,7 +2984,7 @@ Vatikaanivaltio - Vatikan
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avari  
 vauva - bebe  
-vegaani - monvejetyamiste  
+vegaani - monfityamiste  
 vehnä - gandum  
 veistos (patsas) - eskulte  
 veistää kuvaa - eskulta  

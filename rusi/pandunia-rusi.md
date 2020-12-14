@@ -93,6 +93,8 @@ balsenter - спрут (осьминог)
 balkon - балкон  
 balonfish - иглобрюховые  
 balute - дуб  
+ban - доска (панель)  
+banogem - настольная игра  
 banan - банан  
 bande - банда  
 bandir - флаг  
@@ -101,7 +103,6 @@ banse - бамбук
 banye - купание  
 banyu - купаться  
 banyokamar - ванная  
-banze - доска (плита, сляб)  
 bari - тяжёлый  
 barde - борода  
 barkoke - абрикос  
@@ -208,13 +209,14 @@ danger - звонок
 dantobalute - дуб зубчатый  
 date - данные  
 datobanke - база данных  
+dawban - табличка с названием улицы  
 daydom - дворец (особняк)  
 dayhay - океан  
 daylasun - лук исполинский  
 daypaw - пушка  
 daysheke - валун  
 dayvaze - котёл  
-defbanze - щит  
+defban - щит  
 defkaske - доспехи  
 dew - бог  
 dika - целиться  
@@ -286,7 +288,9 @@ filme - плева (фильм)
 filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
+fite - растение  
 fitolojia - ботаника  
+fityamiste - вегетарианец  
 fleche - стрела (стрелка)  
 fora - сверлить (бурить)  
 fote - свет  
@@ -656,9 +660,10 @@ milkokardon - расторопша пятнистая
 minte - мята  
 mirdi - слабый  
 misalo - например  
-Misre - Египет  
+Misria - Египет  
 mitre - метр  
 moke - дерево  
+mokoban - доска (планка)  
 mokotan - бревно  
 mola - молоть  
 molia - мельница  
@@ -950,6 +955,8 @@ suykaboge - тыква горлянка (калабас)
 suyminte - мята водная  
 suynide - жажда  
 ####T - T  
+table - плита  
+tablokomputer - планшетный компьютер  
 tail - черепи́ца  
 taksometer - таксометр  
 tali moke - куст  
@@ -1014,7 +1021,6 @@ var 5 (var limi) - пятница
 var 6 (var sisi) - суббота  
 var 7 (var seti) - воскресенье  
 vaze - ваза  
-vejetyamiste - вегетарианец  
 venda - продать  
 vendoshopa - обмениваться  
 aventur - авантюра  
@@ -1043,6 +1049,7 @@ waw - вау!
 wenjoworanje - мандарин уншиу  
 westogoril - западная горилла  
 ####Y - Y  
+yamfite - овощ  
 yamnide - голод  
 yasen - ясень  
 yatimdom - детский дом  

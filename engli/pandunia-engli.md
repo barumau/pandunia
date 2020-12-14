@@ -254,6 +254,8 @@ balon - balloon
 balonfish - pufferfish  
 balute - oak tree  
 balutopal - acorn  
+ban - board (pane, panel)  
+banogem - board game  
 banan - banana  
 bande - band (squad, group)  
 bandir - flag (banner)  
@@ -267,8 +269,6 @@ banse - bamboo
 banye - bath  
 banyu - bathe  
 banyokamar - bathroom  
-banze - board (plank, slab, pane)  
-banzogem - board game  
 bar - bar  
 bar - weight (burden)  
 bari - heavy  
@@ -450,7 +450,7 @@ bus - bus
 buste - bust (bosom)  
 bute - boot  
 buton - key (push-button, switch)  
-butonbanze - keyboard  
+butonban - keyboard  
 buy - baobab  
 buze - goat  
 ####C - C  
@@ -590,7 +590,9 @@ darwiniste - Darwinist
 darwinistia - Darwinism  
 date - data (numeric information)  
 datobanke - database (databank)  
+datotable - data table (matrix)  
 daw - way (road)  
+dawban - road sign  
 dawiste - Taoist  
 dawistia - Taoism (Daoism)  
 dayi - big (great)  
@@ -611,7 +613,7 @@ deci' - deci-
 decibel - decibel  
 def - defense (defence)  
 defa - defend  
-defbanze - shield  
+defban - shield  
 defer - defender  
 defkaske - armor (shielding)  
 defta - register (record, log)  
@@ -912,8 +914,9 @@ fina - finish (put an end to)
 fini - last (final)  
 fiorde - fjord  
 firuze - turquoise gem  
-fite - plant (vegetation)  
+fite - plant (vegetable, vegetation)  
 fitolojia - botany (phytology)  
+fityamiste - vegetarian  
 fizike - physics  
 fizikia - physics (science)  
 fiziker - physicist  
@@ -981,11 +984,11 @@ fungopal - mushroom (sporocarp)
 furete - polecat (ferret)  
 furi - angry (furious)  
 furia - anger (fury, rage, wrath)  
-futaw - axe (hatchet)  
 fute - foot  
-futobanze - scaffolding (gangplank)  
+futoban - scaffolding (gangplank)  
 futobol - football (soccer)  
 futoshake - leg  
+futaw - axe (hatchet)  
 fuy - bah! (yuck!)  
 ####G - G  
 Gabon - Gabon  
@@ -1361,6 +1364,7 @@ jambul - jambul
 jami - collective  
 jamia - collection (congregation, assembly)  
 jampa - jump  
+jan - person (people)  
 janel - window  
 janelfrem - window frame  
 janger - artisan (craftsman)  
@@ -2189,8 +2193,8 @@ misalo - for example
 miser - sender (transmitter)  
 misia - mission (transmission, emission)  
 miskini - poor (miserable)  
-Misre - Egypt  
 misri - Egyptian  
+Misria - Egypt  
 mita - meet  
 mite - meeting (gathering)  
 mitre - meter (100 cm)  
@@ -2200,6 +2204,7 @@ modela - model (design)
 modologe - adverb  
 moge - ink  
 moke - tree  
+mokoban - wood board (plank)  
 mokojanger - carpenter  
 mokojongoparke - arboretum  
 mokomate - wood (timber)  
@@ -2216,11 +2221,11 @@ moluske - mollusk
 mome - we  
 moni - only (sole)  
 mono - only (alone, solely, just)  
+monfityamiste - vegan  
 monistia - monism  
 monkratia - autocracy (monarchy)  
 monloge - monolog  
 monoki lense - monocle  
-monvejetyamiste - vegan  
 Monako - Monaco  
 mongoli - Mongol  
 Mongolia - Mongolia  
@@ -2801,7 +2806,6 @@ redi - ready
 rege - sand  
 registan - desert  
 regopetre - sandstone  
-ren - person (people)  
 renem - rhenium  
 rentogenem - roentgenium  
 reporta - report (recount, relate)  
@@ -3266,8 +3270,9 @@ Swati - Eswatini (Swaziland)
 Swisia - Switzerland  
 ####T - T  
 tabake - tobacco  
-tabla - tabulate  
-table - table (matrix)  
+tabla date - tabulate  
+table - slab (slate, tablet, board)  
+tablokomputer - tablette computer  
 tafun - storm (tempest, typhoon, hurricane, cyclone)  
 taibey - Taipei  
 taige - taiga  
@@ -3492,8 +3497,6 @@ var 6 (var sisi) - Saturday
 var 7 (var seti) - Sunday  
 Vatikan - Holy See (Vatican City State)  
 vaze - pot (vase, bin, jar, jug)  
-vejete - vegetable  
-vejetyamiste - vegetarian  
 venda - sell (vend)  
 vendoshopa - trade (buy and sell)  
 vendoshope - trade (commerce)  
@@ -3600,6 +3603,7 @@ yala - hurry (hasten)
 yam - food (meal)  
 yama - consume (eat or drink)  
 yami - delicious (yummy)  
+yamfite - vegetable  
 yamkamar - dining room  
 yamnide - hunger  
 yamshukarcaw - duruka  

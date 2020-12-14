@@ -231,6 +231,7 @@ balon - globo
 balonfish - pez globo  
 balute - roble  
 balutopal - bellota  
+banogem - juego de mesa  
 banan - plátano (banana)  
 bande - banda  
 bandir - bandera  
@@ -244,8 +245,6 @@ banse - bambú
 banye - bañera  
 banyu - bañarse  
 banyokamar - baño  
-banze - tabla (losa)  
-banzogem - juego de mesa  
 bar - bar  
 bar - pesa  
 bari - pesado  
@@ -419,7 +418,7 @@ bus - bus (autobús)
 buste - pecho (busto)  
 bute - bota  
 buton - tecla (botón)  
-butonbanze - teclado  
+butonban - teclado  
 buy - baobab  
 buze - cabra  
 ####C - C  
@@ -547,7 +546,9 @@ darwiniste - darwinista
 darwinistia - darwinismo  
 date - datos  
 datobanke - banco de datos (base de datos)  
+datotable - tabla  
 daw - camino (calle)  
+dawban - señal de tránsito  
 dawiste - taoísta  
 dawistia - taoísmo  
 dayi - grande  
@@ -565,7 +566,7 @@ deci' - deci-
 decibel - decibelio  
 def - defensa  
 defa - defender  
-defbanze - escudo  
+defban - escudo  
 defer - defensor  
 defkaske - armadura  
 defta - registrar (recordar, anotar)  
@@ -849,8 +850,9 @@ fina - terminar (acabar)
 fini - final (último)  
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
-fite - planta (vegetación)  
+fite - planta (vegetal, vegetación)  
 fitolojia - botánica  
+fityamiste - vegetariano  
 fizike - física  
 fizikia - física  
 fiziker - físico (científico)  
@@ -909,10 +911,10 @@ fungopal - champiñón (seta)
 furete - hurón  
 furi - enojado (furioso)  
 furia - ira (furia)  
-futaw - hacha  
 fute - pie (pata)  
-futobanze - andamiaje  
+futoban - andamiaje  
 futobol - fútbol  
+futaw - hacha  
 fuy - puaj  
 ####G - G  
 Gabon - Gabón  
@@ -1268,6 +1270,7 @@ Jamaika - Jamaica
 jami - colectivo  
 jamia - colección (grupo, conjunto, montón)  
 jampa - saltar (brincar)  
+jan - persona (gente)  
 janel - ventana  
 janger - artesano  
 jangle - bosque (jungla, selva)  
@@ -2034,8 +2037,8 @@ misalo - por ejemplo
 miser - remitente  
 misia - emisión  
 miskini - pobre (miserable)  
-Misre - Egipto  
 misri - egipcio  
+Misria - Egipto  
 mita - encontrar  
 mite - reunión (junta, mitin)  
 mitre - metro  
@@ -2045,6 +2048,7 @@ modela - modelo
 modologe - adverbo  
 moge - tinta  
 moke - árbol  
+mokoban - tablón  
 mokojanger - carpintero  
 mokojongoparke - arboreto  
 mokomate - madera  
@@ -2061,11 +2065,11 @@ moluske - molusco
 mome - nosotros  
 moni - único  
 mono - solo  
+monfityamiste - vegano  
 monistia - monismo  
 monkratia - autocratia (monarquía)  
 monloge - monólogo  
 monoki lense - monóculo  
-monvejetyamiste - vegano  
 Monako - Mónaco  
 mongoli - mongol  
 Mongolia - Mongolia  
@@ -2616,7 +2620,6 @@ reda - preparar (hacer listo)
 redi - listo (preparado)  
 rege - arena  
 registan - desierto  
-ren - persona (gente)  
 renem - renio  
 rentogenem - roentgenio  
 reporta - reportar  
@@ -3061,8 +3064,9 @@ Swati - Esuatini (Suazilandia)
 Swisia - Suiza  
 ####T - T  
 tabake - tabaco  
-tabla - tabular  
-table - tabla  
+tabla date - tabular  
+table - tabla (lámina, plancha)  
+tablokomputer - tablet  
 tafun - tormenta (tempestad)  
 taibey - Taipei  
 taige - taiga  
@@ -3274,8 +3278,6 @@ var 6 (var sisi) - sábado
 var 7 (var seti) - domingo  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
 vaze - jarrón (bote)  
-vejete - vegetal  
-vejetyamiste - vegetariano  
 venda - vender  
 vendoshopa - comerciar  
 vendoshope - comercio  
@@ -3373,6 +3375,7 @@ yala - meter prisa
 yam - comida  
 yama - comer (bebir)  
 yami - delicioso  
+yamfite - verdura (legumbre)  
 yamkamar - comedor  
 yamnide - hambre  
 yang - variedad (tipo, estilo)  

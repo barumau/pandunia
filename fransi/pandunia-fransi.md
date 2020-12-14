@@ -135,6 +135,8 @@ balkon - balcon
 balonfish - poisson-globe  
 balute - chêne  
 balutopal - gland  
+ban - tableau (panneau)  
+banogem - jeu de société  
 banan - banane  
 bande - bande  
 bandir - drapeau  
@@ -238,13 +240,14 @@ dance - dance
 danger - cloche  
 date - données  
 datobanke - base de données  
+dawban - panneau de signalisation  
 daydom - palais (château, manoir)  
 dayhay - océan  
 daypaw - canon  
 daysheke - rocher  
 dayvaze - chaudron  
 debili - faible  
-defbanze - bouclire  
+defban - bouclire  
 defkaske - armure  
 dew - dieu  
 dika - viser  
@@ -318,7 +321,9 @@ feymush - chauve-souris
 feyu - voler  
 filsofia - philosophie  
 fiorde - fiord  
+fite - plante (végétal)  
 fitolojia - botanique  
+fityamiste - végétarien  
 fleche - flèche  
 fora - forer (percer)  
 fote - lumière  
@@ -444,6 +449,7 @@ jagi - éveillé
 jagu - despertarse  
  - carte à collectionner  
 jambul - prune de Java  
+jan - personne (gente)  
 janel - fenêtre  
 jangle - forêt (jungle)  
 jawabe - réponse  
@@ -703,10 +709,11 @@ milkokardon - chardon Marie
 minte - menthe  
 mirdi - faible  
 misalo - par exemple  
-Misre - Égypte  
+Misria - Égypte  
 mitre - mètre  
 mode - mode (façon, manière)  
 moke - arbre  
+mokoban - planche  
 mokojongoparke - arboretum, pépinière  
 mokotan - bûche  
 mol - mole (unité)  
@@ -1006,6 +1013,7 @@ suygas - vapeur d’eau
 suyminte - Menthe aquatique  
 suynide - soif  
 ####T - T  
+tablokomputer - ordinateur tablette  
 tail - carreau (tuile)  
 taksometer - taximètre  
 tal - bas  
@@ -1069,7 +1077,6 @@ var 5 (var limi) - vendredi
 var 6 (var sisi) - samedi  
 var 7 (var seti) - dimanche  
 vaze - vase  
-vejetyamiste - végétarien  
 venda - vendre  
 vendoshopa - commercer  
 Venezuela - Venezuela  
@@ -1099,6 +1106,7 @@ wenjoworanje - mandarine satsuma
 wolfe - loup  
 Wolof - wolof  
 ####Y - Y  
+yamfite - légume  
 yamnide - faim  
 yasen - frêne  
 yatimdom - orphelinat  

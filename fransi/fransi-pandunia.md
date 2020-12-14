@@ -170,7 +170,7 @@ bord (rive) - tate
 botanique - fitolojia  
 botte - bute  
 boucher - bucher  
-bouclire - defbanze  
+bouclire - defban  
 Bouddha - Bude  
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
@@ -525,6 +525,7 @@ jade - yuke
 Japon - Nipon  
 jaïnisme - jeinistia  
 je (me) - me  
+jeu de société - banogem  
 jeudi - var 4 (var chari)  
 joule (J) - jul  
 juje - juder  
@@ -592,6 +593,7 @@ lutte - jihade
 lynx - lince  
 lys - susan  
 léger - legi  
+légume - yamfite  
 ####M - M  
 machine à écrire - kitabomashin  
 magma - pastopetre  
@@ -717,6 +719,7 @@ orange amère - amaroranje
 orange douce - shukaroranje  
 orchidée - orkide  
 ordinateur - komputer  
+ordinateur tablette - tablokomputer  
 ordre - ratibe  
 ordures - laje  
 oreille - or  
@@ -741,6 +744,7 @@ pair (pareil) - pari
 paix - pace  
 palais (château, manoir) - daydom  
 pamplemousse - putawlimon  
+panneau de signalisation - dawban  
 pantalon - pante  
 pantoufle (babouche) - babuche  
 papaye - papay  
@@ -772,6 +776,7 @@ pere (papa) - pape
 perfectionner (parfaire) - purbona  
 perplexe (désorienté) - konfusi  
 perroquet - papagay  
+personne (gente) - jan  
 pet (vesse) - pede  
 petit - lil (lili)  
 peu - shawi  
@@ -796,6 +801,8 @@ placard - almar
 place - maidan  
 plaine - platistan  
 plan - plan  
+planche - mokoban  
+plante (végétal) - fite  
 planter - poza  
 plaque tectonique - zemkaski plate  
 plein - puri  
@@ -975,6 +982,7 @@ s’accroupir - indosida
 s’habiller - fuku  
 ####T - T  
 table - meze  
+tableau (panneau) - ban  
 tablette de chocolat - chokolatobaton  
 tarte - pay  
 tasse à thé - chaykupe  
@@ -1079,7 +1087,7 @@ voyelle - jungofon
 vrai - veri  
 vraiment - vero  
 vulve - vulve  
-végétarien - vejetyamiste  
+végétarien - fityamiste  
 Vénus - Venus  
 vêtements - fuke  
 vœu (promesse) - vode  
@@ -1095,7 +1103,7 @@ zoroastrien - zardushiste
 zoroastrisme - zardushistia  
 zoulou - Zulu  
 zèbre - zebre  
-Égypte - Misre  
+Égypte - Misria  
 Épicéa - pis  
 âge - umur  
 échec - shibay  

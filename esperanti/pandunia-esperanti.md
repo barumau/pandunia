@@ -136,6 +136,8 @@ bali - ok (8)
 balde - sitelo  
 balkon - balkono  
 balon - balono  
+ban - tabulo  
+banogem - tabulludo  
 banan - banano  
 bandir - flago  
 Banglodesh - Bangladeŝo  
@@ -257,7 +259,7 @@ bulu - boli
 bulbul - najtingalo  
 bus - buso  
 buton - klavo (butono)  
-butonbanze - klavaro  
+butonban - klavaro  
 buy - baobabo  
 buze - kapro  
 ####C - C  
@@ -328,6 +330,7 @@ dantomediker - dentisto
 darba - bati  
 date - datumo  
 datobanke - datumbanko  
+datotable - tabelo  
 daw - vojo  
 dayi - granda  
 daydom - palaco  
@@ -755,6 +758,7 @@ jama - kolekti (kunigi)
 Jamaika - Jamajko  
 jami - kolekta  
 jampa - salti  
+jan - persono  
 janel - fenestro  
 janelfrem - fenestrokadro  
 janger - metiisto  
@@ -1108,8 +1112,8 @@ mirsonde - eĥo
 misal - ekzemplo  
 misalo - ekzemple  
 miskini - mizera  
-Misre - Egipto  
 misri - egipta  
+Misria - Egipto  
 mitre - metro  
 moge - inko  
 moke - arbo  
@@ -1363,7 +1367,6 @@ raya - opinii
 redi - preta  
 rege - sablo  
 registan - dezerto  
-ren - persono  
 renem - renio  
 rentogenem - rentgenio  
 restorante - restaŭracio  
@@ -1573,7 +1576,6 @@ suynide - soifo
 suyporte - haveno  
 ####T - T  
 tabake - tabako  
-table - tabelo  
 tafun - ŝtormo  
 taige - tajgo  
 talem - talio  
@@ -1670,7 +1672,6 @@ var 5 (var limi) - vendredo
 var 6 (var sisi) - sabato  
 var 7 (var seti) - dimanĉosunnuntai  
 vaze - vazo  
-vejete - legomo  
 aventur - aventuro  
 aventurer - aventuristo  
 veri - vera  
@@ -1712,6 +1713,7 @@ wolfe - lupo
 ####Y - Y  
 yala - rapidigi  
 yama - manĝi (trinki)  
+yamfite - legomo  
 yamkamar - manĝoĉambro  
 yamnide - malsato  
 yang - speco (tipo, stilo)  

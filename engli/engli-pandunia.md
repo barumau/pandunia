@@ -385,8 +385,8 @@ blossom (bloom) - fulu
 blow - hawa  
 blue - nili  
 bluet - ceramshing  
-board (plank, slab, pane) - banze  
-board game - banzogem  
+board (pane, panel) - ban  
+board game - banogem  
 boat (ship) - bote  
 bob up and down - gawtalu  
 bobcat - lalolince  
@@ -857,6 +857,7 @@ darmstadtium - darmositem
 Darwinism - darwinistia  
 Darwinist - darwiniste  
 data (numeric information) - date  
+data table (matrix) - datotable  
 database (databank) - datobanke  
 date - nenmesden  
 date fruit - tamar  
@@ -1021,7 +1022,7 @@ ecology (study of environment) - ekolojia
 Ecuador - Ekuador  
 egg - ande  
 eggplant (aubergine, brinjal) - bedinjan  
-Egypt - Misre  
+Egypt - Misria  
 Egyptian - misri  
 eight (8) - bali  
 einsteinium - ainstainem  
@@ -1701,7 +1702,7 @@ kettle - ketle
 key (push-button, switch) - buton  
 key - chabe  
 key lime - kagujolimon  
-keyboard - butonbanze  
+keyboard - butonban  
 Khartoum - Khartum  
 kidney - nefre  
 kill - morta  
@@ -2442,7 +2443,7 @@ perfect - purboni
 peripheral - kenari  
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
-person (people) - ren  
+person (people) - jan  
 personal (intimate, private, custom) - auti  
 personal identification number (PIN) - sekurnombre  
 personalize (customize) - auta  
@@ -2506,7 +2507,7 @@ plane (plate) - plate
 plane (tool for making a smooth surface) - rander  
 plane hijacker - vimankaper  
 planet - planete  
-plant (vegetation) - fite  
+plant (vegetable, vegetation) - fite  
 plasma (ionized gas) - plazme  
 plastic - plastike  
 plate - platotas  
@@ -2779,6 +2780,7 @@ risk - riske
 risky - riski  
 ritual (ceremony, religious custom) - pujorite  
 river (stream) - nade  
+road sign - dawban  
 roast - rosta  
 rob (loot, plunder, pillage, ransack) - luta  
 robber (plunderer) - luter  
@@ -2875,7 +2877,7 @@ save (deposit, bank) - banka
 savory (umami) - umami  
 saw - ser  
 say (speak) - loga  
-scaffolding (gangplank) - futobanze  
+scaffolding (gangplank) - futoban  
 scale (flake) - shalke  
 scales (weighing device) - barmetrer  
 Scandinavia - Eskandia  
@@ -2961,7 +2963,7 @@ shea (vitellaria) - karite
 sheep - mehe  
 shelf (bookshelf) - libobanze  
 shell (crust, carapace) - kaske  
-shield - defbanze  
+shield - defban  
 Shintoism - shindawistia  
 shirt - kamis  
 shish kebab - shishkababe  
@@ -3019,6 +3021,7 @@ skin (peel, bark, leather) - pil
 skirt - jupe  
 skull - saroste  
 sky (heaven) - saman  
+slab (slate, tablet, board) - table  
 Slavic - slavi  
 sleep (be asleep) - sonu  
 sleep - son  
@@ -3226,10 +3229,10 @@ syrup - shirope
 system - sistem  
 systemic - sistemi  
 ####T - T  
-table (matrix) - table  
 table - meze  
 table of contents (inventory) - tenliste  
-tabulate - tabla  
+tablette computer - tablokomputer  
+tabulate - tabla date  
 tactics (strategy) - tatike  
 taiga - taige  
 tail - vey  
@@ -3514,9 +3517,9 @@ vanilla - vanil
 Vanuatu - Vanuatu  
 various (diverse, miscellaneous) - balibali  
 vase (flower pot) - fulvaze  
-vegan - monvejetyamiste  
-vegetable - vejete  
-vegetarian - vejetyamiste  
+vegan - monfityamiste  
+vegetable - yamfite  
+vegetarian - fityamiste  
 veil (cover, screen) - hijabe  
 Venezuela - Venezuela  
 Venus - Venus  
@@ -3652,6 +3655,7 @@ Wolof (language and people) - Wolof
 woman (adult female) - maturi fem  
 wonder (be amazed) - ajabu  
 wood (timber) - mokomate  
+wood board (plank) - mokoban  
 wool (fleece) - mehi kesh  
 word (speech) - loge  
 work (job, task) - kar  

@@ -160,7 +160,7 @@ anaranjado - oranji
 ancho - kuani  
 anchura - kuania  
 ancla - anker  
-andamiaje - futobanze  
+andamiaje - futoban  
 Andes - Andes  
 andesita - andesite  
 Andorra - Andora  
@@ -1072,7 +1072,7 @@ edad - umur
 educado - kechi  
 Egipcia Antigua - kemia  
 egipcio - misri  
-Egipto - Misre  
+Egipto - Misria  
 einsteinium - ainstainem  
 eje - akse  
 ejemplo - misal  
@@ -1177,7 +1177,7 @@ escribir - kitaba
 escritorio (mesa de trabajo) - karmeze  
 escritura - kitabe  
 escuchar (oír) - ora  
-escudo - defbanze  
+escudo - defban  
 escuela (colegio, institución) - shulkan  
 esculpir - eskulta  
 escultor - eskulter  
@@ -1740,7 +1740,7 @@ judaísmo - yehudistia
 judío - yehudi  
 juego - gem  
 juego de mazmorras - donjon aventur  
-juego de mesa - banzogem  
+juego de mesa - banogem  
 jueves - var 4 (var chari)  
 juez (árbitro, réferi) - juder  
 jugador - gemer  
@@ -2499,7 +2499,7 @@ permitido (admisible) - halali
 permitir (dejar) - halala  
 pero - a  
 perro - waf  
-persona (gente) - ren  
+persona (gente) - jan  
 personal (privado, a medida) - auti  
 personalizar - auta  
 perspectiva (punto de vista) - vidopunte  
@@ -2552,7 +2552,7 @@ plana (llano, liso) - plati
 planear (tener pensado) - plana  
 planeta - planete  
 plano (placa) - plate  
-planta (vegetación) - fite  
+planta (vegetal, vegetación) - fite  
 plasma (gas ionizado) - plazme  
 plata - argente  
 platino - platinum  
@@ -2983,6 +2983,7 @@ sexo - sekse
 sexy (sexual) - seksi  
 Seychelles - Seshel nesia  
 señal (letrero, indicio) - sinye  
+señal de tránsito - dawban  
 sharía - islamisti sharia  
 shogunato - shogunia  
 si (suponer) - aga  
@@ -3097,10 +3098,12 @@ sí - si
 sólido - gatomate  
 ####T - T  
 tabaco - tabake  
-tabla (losa) - banze  
-tabla - table  
+tabla (lámina, plancha) - table  
+tabla - datotable  
 tabla con pinza (carpeta con sujetapapeles) - pincobanze  
-tabular - tabla  
+tablet - tablokomputer  
+tablón - mokoban  
+tabular - tabla date  
 taiga - taige  
 Tailandia - tayia  
 tailandés - tayi  
@@ -3131,7 +3134,7 @@ taza de café - kafekupe
 taza de té - chaykupe  
 techo (tejado) - chate  
 tecla (botón) - buton  
-teclado - butonbanze  
+teclado - butonban  
 tecnetio - tehnem  
 tecnocracia - tehnokratia  
 tecnología - tehnolojia  
@@ -3334,9 +3337,8 @@ vapor - suygas
 variedad (tipo, estilo) - yang  
 vaso (taza, copa) - kupe  
 vatio - wate  
-vegano - monvejetyamiste  
-vegetal - vejete  
-vegetariano - vejetyamiste  
+vegano - monfityamiste  
+vegetariano - fityamiste  
 vela (candela, cirio) - mumfote  
 velero - boter  
 velo - hijabe  
@@ -3354,6 +3356,7 @@ verbo - karloge
 verdadero - veri  
 verde - lugi  
 verde limón - limonlugi  
+verdura (legumbre) - yamfite  
 verduras - coy  
 vergüenza (pena) - sharme  
 verme - verme  
