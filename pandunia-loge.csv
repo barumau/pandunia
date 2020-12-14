@@ -256,6 +256,8 @@ balon:|balon|||fra:ballon, tur:may:pol:balon, eng:balloon, tgl:balun, hau:balân
 balon.pesh:|balonfish|biw|Tetraodontidae||pufferfish|poisson-globe|pez globo||иглобрюховые|||フグ||||||||||ryba rozdymkowata
 balut:e|balute|biw|Quercus|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota|oak tree|chêne|roble|carvalho|дуб||橡树 (xiàng)|ナラ|||||||||tammi|dąb
 balut.o.pal:|balutopal||||acorn|gland|bellota|||||ドングリ|||||||||tammenterho|żołądź
+ban:|ban|||zho:板 (bǎn)yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|board (pane, panel)|tableau (panneau)||painel|доска (панель)||板子|板|판자||तख़्ता|তক্তা|papan|bao|tahta (pano)|tabulo|lauta (paneeli)|tablica (deska)
+ban.o.gem:|banogem||||board game|jeu de société|juego de mesa|jogo de tabuleiro|настольная игра||版图游戏|ボードゲーム|보드 게임|||||||tabulludo|lautapeli|gra planszowa
 banan:|banan|biw||wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|banana|banane|plátano (banana)|banana|банан||香蕉||||केला||pisang||muz|banano|banaani|banan
 band:e|bande|||zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|band (squad, group)|bande|banda|bando|банда||班  (一帮)||||जमात||||çete||ryhmä (työryhmä, yhtye, bändi)|zespół (drużyna, grupa)
 band.ir:|bandir|||eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|flag (banner)|drapeau|bandera||флаг||旗|||||||||flago|lippu|flaga, sztandar
@@ -269,8 +271,6 @@ bans:e|banse|biw|Bambusoideae|hin:बांस (bāns), ben:বাঁশ (bãś�
 bany:e|banye|||spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|bath|bain|bañera||купание||洗澡|||||||||bano|kylpy|kąpiel
 bany:u|banyu||||bathe|se baigner|bañarse||купаться||游泳|||||||||bana|kylpeä|kąpać się
 bany.o.kamar:|banyokamar||||bathroom|salle de bains|baño||ванная||浴室|||||||||banĉambro|kylpyhuone|łazienka
-banz:e|banze|||zho:板子 (bǎnzi), mon:банз (banz), kor:판자 (panja), yue:板 (baan2), jpn:板 (ban), vie:bảng, + swa:bao|board (plank, slab, pane)||tabla (losa)|bloco (laje)|доска (плита, сляб)||板子||||||||||lauta (lankku)|deska
-banz.o.gem:|banzogem||||board game||juego de mesa||||||||||||||lautapeli|gra planszowa
 bar:|bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar||bar||||||||||||||baari (kapakka)|bar
 bar:|bar||||weight (burden)||pesa||||||||||||||paino|ciężar (brzemię)
 bar:i|bari|||ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|heavy|lourd|pesado|pesado|тяжёлый||重型的||||भारी||berat||ağır|peza|painava|ciężki (masywny)
@@ -452,7 +452,7 @@ bus:|bus|||deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas),
 bust:e|buste|||fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|bust (bosom)||pecho (busto)||||||||||||||povi|biust
 but:e|bute|||eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|boot|botte|bota|bota|ботинок|||ブーツ|||||||||saapas (buutsi)|but
 buton:|buton|||eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|key (push-button, switch)|bouton|tecla (botón)|botão|пуговица||扣子||||बटन||kancing||düğme|klavo (butono)|nappi (näppäin, kytkin, nappula)|klawisz, przycisk, przełącznik, guzik
-buton.banz:e|butonbanze||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klawiatura
+buton.ban:|butonban||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klawiatura
 buy:|buy|biw||swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu|baobab||baobab|||||||||||||baobabo|apinanleipäpuu (baobab)|baobab
 buz:e|buze|||swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
 C|C||||C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C
@@ -593,7 +593,9 @@ darwin.ist:e|darwiniste||||Darwinist||darwinista||||||||||||||darwinisti|darwini
 darwin.ist:ia|darwinistia||||Darwinism||darwinismo||||||||||||||darwinismi|darwinizm
 dat:e|date|||eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|data (numeric information)|données|datos|dados|данные||数据||||डेटा||data||veri|datumo|data (numeerinen tieto)|dane
 dat.o.bank:e|datobanke||||database (databank)|base de données|banco de datos (base de datos)|banco de dados|база данных||数据库||||डेटाबेस||basis data||veritabanı|datumbanko|tietokanta|baza danych (bank danych)
+dat.o.tabl:e|datotable||||data table (matrix)||tabla||||表格|表|표||तालिका|তালিকা||||tabelo|taulukko|tablioca, macierz
 daw:|daw|||zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|way (road)||camino (calle)|||||道||||||||vojo|tie|droga, szosa, ulica
+daw.ban:|dawban||||road sign|panneau de signalisation|señal de tránsito||табличка с названием улицы||||||||||||liikennemerkki|
 daw.ist:e|dawiste||||Taoist||taoísta||||||||||||||taolainen|taoista
 daw.ist:ia|dawistia||||Taoism (Daoism)||taoísmo||||||||||||||taolaisuus|taoizm
 day:i|dayi|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
@@ -614,7 +616,7 @@ deci:|deci'||||deci-||deci-|||||||||||||dekono|desi|decy-, dziesiąta część
 deci.bel:|decibel|unomete|dB||decibel||decibelio||||||||||||||desibeli|decybel
 def:|def|||ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'), + fra:eng:defense, spa:defensa, por:defesa, tur:defans|defense (defence)||defensa|||||||||||||defendo|puolustus|obrona
 def:a|defa||||defend||defender|||||||||||||defendi|puolustaa|obronić (chronić)
-def.banz:e|defbanze||||shield|bouclire|escudo|escudo|щит||盾牌|盾|||||||||suojakilpi|tarcza
+def.ban:|defban||||shield|bouclire|escudo|escudo|щит||盾牌|盾|||||||||suojakilpi|tarcza
 def.er:|defer||||defender||defensor|||||||||||||defendanto (defendisto)|puolustaja|obrońca
 def.kask:e|defkaske||||armor (shielding)|armure|armadura|armadura|доспехи||盔甲|鎧|||||||||suojakypärä|zbroja
 deft:a|defta||||register (record, log)||registrar (recordar, anotar)|||||||||||||registri|tallentaa (rekisteröidä, kirjata)|zapisać (zarejestrować)
@@ -985,11 +987,11 @@ fung.o.pal:|fungopal||||mushroom (sporocarp)|champignon|champiñón (seta)|cogum
 furete|furete|||fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|polecat (ferret)||hurón|||||||||||||furo|kärppä (fretti)|tchórz, fretka
 furi|furi||||angry (furious)||enojado (furioso)||||||||||||||vihainen (suuttunut)|zły (wsciekły, gniewny)
 furia|furia|||eng:fury, spa:pol:furia, por:fúria|anger (fury, rage, wrath)||ira (furia)|||||||||||||kolero (furiozo)|viha (suuttumus, raivo)|gniew, furia
+fut:e|fute|badan||eng:foot, deu:Pfote|foot||pie (pata)|||||||||||||piedo|jalka (jalkaterä)|stopa
+fut.o.ban:|futoban||||scaffolding (gangplank)||andamiaje|||||足場||||||||||rusztowanie (trap)
+fut.o.bol:|futobol|||eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|football (soccer)|football|fútbol|futebol|футбол|||フットボール|||फ़ुटबॉल|||||piedpilko|jalkapallo|piłka nożna
+fut.o.shak:e|futoshake|badan|||leg||||||||||||||||jalka (alaraaja)|noga
 futaw|futaw|||tgl:puthaw, zho:斧头 (fǔtóu), yue:斧頭 (futau), nan:斧頭 (pú-thâu)|axe (hatchet)||hacha||||||||||||||kirves|siekera, topór
-fute|fute|badan||eng:foot, deu:Pfote|foot||pie (pata)|||||||||||||piedo|jalka (jalkaterä)|stopa
-futobanze|futobanze||||scaffolding (gangplank)||andamiaje|||||足場||||||||||rusztowanie (trap)
-futobol|futobol|||eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|football (soccer)|football|fútbol|futebol|футбол|||フットボール|||फ़ुटबॉल|||||piedpilko|jalkapallo|piłka nożna
-futoshake|futoshake|badan|||leg||||||||||||||||jalka (alaraaja)|noga
 fuy|fuy|||spa:puaj, pol:fuj, rus:фи (fi)|bah! (yuck!)||puaj|||||||||||||bah!|hyi! (pyh!)|fu, fuj
 G|G||||G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
 Gabon|Gabon|desh|GA||Gabon||Gabón||||||||||||||Gabon|Gabon
@@ -2211,11 +2213,12 @@ model|model|||eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́
 modela|modela||||model (design)||modelo||||||||||||||mallintaa|modelować (projektować, zaprojektować)
 modologe|modologe||||adverb||adverbo||||||||||||||adverbi|przysłówek
 moge|moge|||zho:墨 (mò), vie:mực, tha:หมึก (muk)|ink||tinta|||||||||||||inko|muste|tusz
-moke|moke|||zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|tree|arbre|árbol|árvore|дерево|شجر‎|树木|木|나무|cây|पेड़|গাছ (বৃক্ষ)|pohon (pokok)|mti|ağaç|arbo|puu|drzewo
-mokojanger|mokojanger||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
-mokojongoparke|mokojongoparke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
-mokomate|mokomate||||wood (timber)||madera||||木材|||||||||ligno|puuaines|drewno
-mokotan|mokotan||||log (trunk)|bûche|leño (tronca)|tora|бревно||原木|丸木|||बोटा (कुन्दा)||balak|kinga (gogo)||||pień
+mok:e|moke|||zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|tree|arbre|árbol|árvore|дерево|شجر‎|树木|木|나무|cây|पेड़|গাছ (বৃক্ষ)|pohon (pokok)|mti|ağaç|arbo|puu|drzewo
+mok.o.ban:|mokoban||||wood board (plank)|planche|tablón|tábua (prancha)|доска (планка)||木板|||ván||||||||deska
+mok.o.jang.er:|mokojanger||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
+mok.o.jong.o.park:e|mokojongoparke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
+mok.o.mat:e|mokomate||||wood (timber)||madera||||木材|||||||||ligno|puuaines|drewno
+mok.o.tan:|mokotan||||log (trunk)|bûche|leño (tronca)|tora|бревно||原木|丸木|||बोटा (कुन्दा)||balak|kinga (gogo)||||pień
 mol|mol|unomete|mol||mole (unit)|mole (unité)|mol|mol|||摩尔 (单位)|モル||||||||||mol
 mola|mola||||grind (grind in mill)|moudre|moler (pulverizar)|moer|молоть||||||||||||jauhaa|zemleć (mleć, mielić)
 Moldova|Moldova|desh|MD||Moldova||Moldova||||||||||||||Moldova|Mołdawia
@@ -3279,10 +3282,11 @@ Svenia|Svenia|desh|SE||Sweden||Suecia||||||||||||||Ruotsi|Szwecja
 Swati|Swati|desh|SZ||Eswatini (Swaziland)||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi
 Swisia|Swisia|desh|CH||Switzerland||Suiza||||||||||||||Sveitsi|Szwajcaria
 T|T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T
-tabake|tabake|biw|Nicotiana tabacum|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco||tabaco|||||||||||||tabako|tupakka|tytoń
-tabla|tabla||||tabulate||tabular||||||||||||||taulukoida|ułożyć w trabelę
-table|table|||eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|table (matrix)||tabla|||||||||||||tabelo|taulukko|tablioca, macierz
-tafun|tafun|||zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), pnb:ਤੂਫ਼ਾਨ (tūfān), por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)|storm (tempest, typhoon, hurricane, cyclone)||tormenta (tempestad)|||||||||||||ŝtormo|myrsky|burza, sztorm, tajfun
+tabak:e|tabake|biw|Nicotiana tabacum|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco||tabaco|||||||||||||tabako|tupakka|tytoń
+tabl:a dat:e|tabla date||||tabulate||tabular||||||||||||||taulukoida|ułożyć w trabelę
+tabl:e|table|||eng:table, fra:tableau, spa:tabla, rus:табличка (tablichka), may:tabel, tur:tablo|slab (slate, tablet, board)||tabla (lámina, plancha)||плита||||||बोर्ड||||tahta||laatta (levy)|
+tabl.o.komput.er:|tablokomputer||||tablette computer|ordinateur tablette|tablet|tablet|планшетный компьютер||平板电脑|タブレットコンピュータ|태블릿 컴퓨터||||||elaltı bilgisayar||taulutietokone (tabletti)|
+tafun:|tafun|||zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), pnb:ਤੂਫ਼ਾਨ (tūfān), por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)|storm (tempest, typhoon, hurricane, cyclone)||tormenta (tempestad)|||||||||||||ŝtormo|myrsky|burza, sztorm, tajfun
 taibey|taibey||||Taipei||Taipei||||||||||||||Taipei|Tajpej
 taige|taige|||rus:тайга (tayga), eng:spa:por:may:taiga, tur:tayga, ara:تايغا‎ (tāyḡā), zho:泰加林 (tàijiālín), jpn:タイガ (taiga)|taiga||taiga|||||||||||||tajgo|taiga|tajga
 tail|tail|||eng:tile, por:telha, fra:tuile, nld:tegel, fin:tiili, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail)|tile|carreau (tuile)|baldosa (teja, azulejo)|ladrilho (telha, azulejo)|черепи́ца||砖 (瓦)|タイル (瓦)||||||||||płyta
