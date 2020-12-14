@@ -134,8 +134,8 @@ Argentina - Argentina
 argon - argón  
 argum - argumento  
 arke - arco  
-arkia - tiro con arco  
 arker - arquero  
+arkeria - tiro con arco  
 arme - arma  
 arom - olor (aroma)  
 aroma - oler (olfatear)  
@@ -180,6 +180,10 @@ auti - personal (privado, a medida)
 automoti - automotor (automotriz)  
 autonomi - autónomo  
 autonomia - autonomía  
+avar - daño (corrupción)  
+avara - dañar  
+avari - dañado  
+avarani - dañino (perjudicial)  
 avgani - afgano  
 Avganistan - Afganistán  
 awakate - aguacate  
@@ -519,10 +523,6 @@ dake - tapa (funda, cubierta)
 dalil - prueba  
 dalila - probar (demonstrar, comprobar)  
 damogem - damas  
-damaja - dañar  
-damaje - daño (corrupción)  
-damaji - dañado  
-damajani - dañino (perjudicial)  
 dan - partícula (grano, bala)  
 dansekuri - antibalas  
 dance - baile (danza)  
@@ -540,12 +540,6 @@ darme - moralidad (ética)
 darmi - moral (ético)  
 darmolojia - ética (filosofía moral)  
 darmositem - darmstatio  
-darsa - aprender (estudiar)  
-darse - lección  
-darsia - escuela (colegio, institución)  
-darser - estudiante  
-darsoguru' - maestro (profesor)  
-darsoshef - director de colegio  
 darte - tierra (barro)  
 darti - sucio  
 darwiniste - darwinista  
@@ -725,6 +719,11 @@ Eritria - Eritrea
 es - ser  
 esa - ser (estar)  
 esey - ensayo (redacción)  
+eska - preguntar (inquirir)  
+eske - pregunta  
+eskan - interrogativa  
+eskodokum - formulario  
+saltem - asunto (caso)  
 eskal - escalera  
 eskala - escalar  
 eskaltan - enredadera  
@@ -841,15 +840,11 @@ fing - dedo
 fingoring - anillo (sortija)  
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
-fish - pez (pescado)  
-fishohuke - hamo (anzuelo)  
-fishosaider - pescador  
-fishotanke - acuario (pecera)  
 fite - planta (vegetación)  
 fitolojia - botánica  
 fizike - física  
-fiziker - físico (científico)  
 fizikia - física  
+fiziker - físico (científico)  
 fleche - flecha  
 flerovem - flerovio  
 flurem - flúor  
@@ -1055,9 +1050,6 @@ haha - reír
 haida - vamos a  
 Haiti - Haití  
 hake - derecho  
-hakim - fallo (juicio, criterio)  
-hakima - juzgar (considerar)  
-hakimer - juez (árbitro, réferi)  
 hal - estado (condición)  
 halala - permitir (dejar)  
 halali - permitido (admisible)  
@@ -1320,6 +1312,9 @@ jovani fem - niña
 jovani man - niño  
 jovani moke - pimpollo  
 jovania - juventud  
+juda - juzgar (considerar)  
+jude - fallo (juicio, criterio)  
+juder - juez (árbitro, réferi)  
 judaw - yudo  
 jul - joule (J)  
 jumle - oración  
@@ -1361,10 +1356,6 @@ kafekupe - taza de café
 kafir - pagano (infiel)  
 kaguje - papel  
 kagujolimon - limero  
-kaish - comienzo (inicio)  
-kaisha - comenzar (iniciar, empezar)  
-kaishi - primer (inicial, inaugural)  
-kaishu - comenzar (iniciarse, empezar)  
 kaka - defecar  
 kakaw - cacao  
 kake - caca  
@@ -1415,8 +1406,8 @@ Kantalupo da Sabina - Cantalupo in Sabina
 kantalupomelon - melón cantalupo  
 kante - hombro  
 kanun - regla (ley)  
+kapa pesh - pescar  
 kapa - capturar (apresar)  
-kapa fish - pescar  
 kapotruke - trampa  
 kar - trabajo  
 kara - trabajar  
@@ -1491,32 +1482,33 @@ kerube - querubín
 kesh - pelo  
 keshobende - cinta (cinta para el pelo)  
 keshosabun - champú  
-ketel - hervidor (tetera)  
+ketle - hervidor (tetera)  
 Khartum - Jartum  
 kilogram - kilograma  
 kilomitre - kilometre  
 kim - sustancia  
-kimem - elemento químico  
 kimi - químico  
+kimem - elemento químico  
 kimlojia - química  
 kin - movimiento  
 kina - mudar (transferir, traspasar, trasladar)  
-kingraf - película (filme)  
 kini - cinético  
-Kinshasa Kongo - República Democrática del Congo  
 kinu - moverse  
+kinograf - película (filme)  
+Kinshasa Kongo - República Democrática del Congo  
 kioske - quiosco (kiosco)  
 Kipris - Chipre  
 kir - alquiler  
+kirisa - alquilar  
 kirate - quilate  
 Kirgizia - Kirguizistán  
 Kiribati - Kiribati  
 kirili abace - alfabeto cirílico  
-kirisa - alquilar  
 kita - quitar (remover)  
 kitu - ir  
 kitaba - escribir  
 kitabe - escritura  
+kitabia - literatura  
 kitabokan - biblioteca  
 kitabomashin - máquina de escribir  
 kitabominister - bibliotecario  
@@ -1914,7 +1906,6 @@ masal - especia
 masali tike - tikka masala  
 mashin - máquina  
 maske - máscara  
-masle - asunto (caso)  
 masmul - tubérculo  
 masmulsolful - tupinambo (pataca, alcachofa de Jerusalén)  
 maste - mástil  
@@ -2417,11 +2408,15 @@ perkardon - cardo burral
 Peru - Perú  
 pes - dinero (plata)  
 pesdiske - moneda  
-pesh - profesión (ocupación)  
+pesh - pez (pescado)  
+peshohuke - hamo (anzuelo)  
+peshosaider - pescador  
+peshotanke - acuario (pecera)  
 pete - barriga (vientre, panza)  
 petre - roca (piedra)  
 petronefte - petróleo  
 pey - pago  
+peykar - profesión (ocupación)  
 peya - pegar  
 piano' - piano  
 piaze - cebolla  
@@ -2630,6 +2625,9 @@ retrotikete - billete de ida y vuelta
 retru - volver  
 Reunion - Reunión  
 rey - repetición  
+reybon - arreglo  
+reybona - reparar (arreglar)  
+reyboner - reparador  
 reya - repetir  
 reyo - otra vez (de nuevo)  
 rezerva - reservar  
@@ -2702,18 +2700,18 @@ sa linye - en línea
 sa sabu - porque  
 sa ye - acá (aquí)  
 saba - causar  
-sabate - sabbat  
 sabe - razón (causa)  
+sabate - sabbat  
 sabun - jabón  
 sadi - sencillo (liso)  
 safa - limpiar  
+safi - limpio  
+safer - limpiador  
 safar - viaje  
 safara - viajar  
 safarer - viajero  
 safariste - turista  
 safaristia - turismo  
-safer - limpiador  
-safi - limpio  
 safran - azafrán  
 saga - relatar (narrar)  
 sage - historia (cuento, relato, leyenda)  
@@ -2723,7 +2721,8 @@ Sahrawia - República Árabe Saharaui Democrática
 saida - cazar (pescar)  
 saider - cazador  
 sake - saco  
-sal - sal  
+salte - sal  
+sali - salino  
 salade - ensalada  
 salam (salami) - buen (hola)  
 salam chute - adiós  
@@ -2734,7 +2733,6 @@ salam sube - buenos días
 salam yam - buen provecho  
 salama - saludar  
 salame - saludo  
-sali - salino  
 salima - rendirse (darse por vencido)  
 salmon - salmón (trucha)  
 Salone - Sierra Leona  
@@ -2889,18 +2887,26 @@ show - exposición (espectáculo)
 showa - mostrar  
 shudu - deber (se recomienda)  
 shukar - azúcar  
+shukari - azucarado  
 shukarbete - remolacha azucarera  
 shukargras - caña de azúcar  
-shukari - azucarado  
-shul - arreglo  
-shula - reparar (arreglar)  
-shuler - reparadora  
+shul - lección  
+shula - aprender (estudiar)  
+shuler - estudiante  
+shulisa - enseñar  
+shuliser - maestro (profesor, docente)  
+shulkan - escuela (colegio, institución)  
+shulshef - director de colegio  
+shur - comienzo (inicio, principio)  
+shura - comenzar (iniciar, empezar)  
+shuri - primer (inicial, inaugural)  
+shuru - comenzar (iniciarse, empezar)  
 shushi - silencioso  
 shusho - chito (chist)  
 shute - dotes (arte, habilidad)  
 shuti - hábil  
 si - sí  
-sibiria - Siberia  
+Sibiria - Siberia  
 sida - sentar  
 side - silla (montura)  
 sidu - sentarse  
@@ -3340,10 +3346,6 @@ waytira - estirar (extender)
 we - eso  
 weka - despertar  
 weki - despierto  
-wen - pregunta  
-wena - preguntar (inquirir)  
-wenan - interrogativa  
-wendokum - formulario  
 wenjoworanje - unshu mikan  
 weste - oeste  
 westi - occidental  

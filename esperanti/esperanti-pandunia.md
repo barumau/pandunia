@@ -254,8 +254,8 @@ citi - cita
 citologio - celolojia  
 citrono - limon  
 ####D - D  
-damaĝa - damajani  
-damaĝo - damaje  
+damaĝa - avarani  
+damaĝo - avar  
 danco - dance  
 Danio - Danmarke  
 danki - danka  
@@ -277,9 +277,9 @@ dek (10) - desi
 dek miloj - deskili  
 dekono - deci'  
 delfeno - dolfin  
-demandanta - wenan  
-demandi - wena  
-demando - wen  
+demandanta - eskan  
+demandi - eska  
+demando - eske  
 demografio - demografia  
 demokratia - demokrati  
 demokratio - demokratia  
@@ -442,9 +442,9 @@ fino - fin
 fizikisto - fiziker  
 fiziko - fizike  
 fiziko - fizikia  
-fiŝhoko - fishohuke  
-fiŝkaptisto - fishosaider  
-fiŝo - fish  
+fiŝhoko - peshohuke  
+fiŝkaptisto - peshosaider  
+fiŝo - pesh  
 fjordo - fiorde  
 flago - bandir  
 flanka (latera) - lati  
@@ -618,7 +618,8 @@ infekto - infekse
 informacio - informe  
 inko - moge  
 ino - fem  
-instruisto - darsoguru'  
+instrui - shulisa  
+instruisto - shuliser  
 insulto - ninde  
 inter - medu  
 interesa - interesi  
@@ -668,8 +669,8 @@ jupo - jupe
 justa - adali  
 justeco - adalia  
 juvelo - bawsheke  
-juĝisto - hakimer  
-juĝo - hakim  
+juĝisto - juder  
+juĝo - jude  
 ####K - K  
 kadmio - kadem  
 kadro - frem  
@@ -763,9 +764,9 @@ kolono - kolum
 kolora - rangi  
 koloro - rang  
 koltuko - shal  
-komenci - kaisha  
-komenciĝi - kaishu  
-komenco - kaish  
+komenci - shura  
+komenciĝi - shuru  
+komenco - shur  
 komercisto - bizneser  
 kompanio (firmao) - kompania  
 kompato - samemoce  
@@ -866,13 +867,14 @@ Latvio - Latvia
 lavi - washa  
 lavmaŝino - washmashin  
 laŭrencio - laurensem  
-leciono - darse  
+leciono - shul  
 legi - duga  
 lego - kanun  
 legomo - vejete  
 leono - sing  
-lernejo - darsia  
-lerni (studi) - darsa  
+lernejestro - shulshef  
+lernejo - shulkan  
+lerni (studi) - shula  
 lerta - ajili  
 li aŭ ŝi aŭ ĝi - le  
 libelo - libel  
@@ -890,6 +892,7 @@ lingvo - bash
 linko - lince  
 lipo - labe  
 listo - liste  
+literaturo - kitabia  
 litero - harfe  
 litio - litem  
 lito - bede  
@@ -995,7 +998,7 @@ Merkuro - Merkur
 merredo - var 3 (var tini)  
 mesaĝo - anjil  
 metalo - metal  
-metiero - pesh  
+metiero - peykar  
 metiisto - janger  
 metodo - metode  
 metro - mitre  
@@ -1335,9 +1338,9 @@ rilato - guanshe
 rimarki - nota  
 ringo - fingoring  
 rinocero - kornonos  
-ripari - shula  
-riparisto - shuler  
-riparo - shul  
+ripari - reybona  
+riparisto - reyboner  
+riparo - reybon  
 ripetado - rey  
 ripeti (refari) - reya  
 riska - riski  
@@ -1367,7 +1370,7 @@ sablo - rege
 safrano - safran  
 saga - sofia  
 sala - sali  
-salo - sal  
+salo - salte  
 salti - jampa  
 saluti - salama  
 saluto - salame  
@@ -1464,7 +1467,7 @@ statuo (skultaĵo) - eskulte
 stelo - shing  
 stranga - bizari  
 stroncio - estrontem  
-studento (lernanto) - darser  
+studento (lernanto) - shuler  
 substantivo - namloge  
 Sudkoreio - Sudi Chosen  
 sudo - sude  

@@ -72,6 +72,7 @@ atlantokade - Атлантическая треска
 atlantosamon - Атлантический лосось (сёмга)  
 aur - золото (аурум)  
 auroranje - кумкват (кинкан)  
+avar - повреждение (авария)  
 avgani - афганский  
 Avganistan - Афганистан  
 ####B - B  
@@ -200,7 +201,6 @@ cirkosheke - булыжник
 coy - зелень  
 ####D - D  
 dalil - доказательство  
-damaje - повреждение  
 dance - танец  
 danga - звенеть  
 danger - звонок  
@@ -255,6 +255,9 @@ emocohal - настроение
 emoje - смайлик (эмодзи)  
 englomargarite - маргаритка многоле́тняя  
 esa - быть  
+eska - спрашивать  
+eske - вопрос  
+eskodokum - анкета  
 eskala - подниматься  
 eskulter - скульптор  
 esponje - губка  
@@ -275,8 +278,6 @@ filme - плева (фильм)
 filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
-fishohuke - крючок  
-fishosaider - рыбак (рыболов)  
 fitolojia - ботаника  
 fleche - стрела (стрелка)  
 fora - сверлить (бурить)  
@@ -404,6 +405,7 @@ jiraf - жираф
 jive - жизнь  
 jivi - живой  
 jovani moke - саженец  
+juder - судья  
 jul - джоуль (J)  
 jumle - фраза  
 jung - центр  
@@ -470,11 +472,12 @@ kim - вещество
 kimem - химический элемент  
 kimlojia - химия  
 kina - двигать  
-kingraf - фильм (кино)  
 kinu - двигаться  
+kinograf - фильм (кино)  
 kitu - идти  
 kitaba - писать  
 kitabe - письмо  
+kitabia - литература (словесность)  
 kitabokan - библиотека  
 kitabomashin - пишущая машинка  
 kitabominister - библиотекарь  
@@ -648,6 +651,7 @@ mos - мох
 mosi - мшистый  
 mosim - время года (сезон)  
 Moskove - Москва  
+moter - мотор  
 mul - корень  
 mumomelon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  
@@ -735,8 +739,13 @@ per - перо
 perkardon - бодяк обыкновенный  
 pes - деньги  
 pesdiske - монета  
+pesh - рыба  
+peshohuke - крючок  
+peshosaider - рыбак (рыболов)  
 petre - горная порода  
 petronefte - нефть  
+peykar - профессия  
+peykarer - профессионал (профи)  
 piaze - лук  
 pike - вершина  
 pikosape - киркомотыга  
@@ -782,6 +791,9 @@ retrogula - рвать (изрыга́ть)
 retroguli sense - тошнота  
 retru - возвращаться  
 rey - повторение  
+reybon - починка (ремонт)  
+reybona - чинить (ремонтировать)  
+reyboner - ремонтник  
 reya - повторять  
 rezulte - эффект  
 rim - рифма  
@@ -803,7 +815,7 @@ sa linye - онлайн
 safran - шафран  
 sahi - правильный  
 saida - охотиться  
-sal - соль  
+salte - соль  
 salame - приветствие  
 saman - небо  
 samanonili - голубой  
@@ -853,6 +865,13 @@ shukar - сахар
 shukarbete - сахарная свёкла  
 shukargras - сахарный тростник  
 shukaroranje - апельсин  
+shul - урок (учение)  
+shula - учиться  
+shulisa - учить (преподавать)  
+shuliser - учитель  
+shulkan - школа   
+shulshef - директор (ректор)  
+shur - начало  
 shushi - тихий  
 si - да  
 sida - сидеть  
@@ -985,8 +1004,6 @@ washurse - енот
 waw - вау!  
 wayoyam - пикник  
 waytira - вытянуть  
-wen - вопрос  
-wendokum - анкета  
 wenjoworanje - мандарин уншиу  
 westogoril - западная горилла  
 ####X - X  

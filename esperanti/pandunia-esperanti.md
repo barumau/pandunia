@@ -107,6 +107,8 @@ auda - aŭdi (aŭskulti)
 aur - oro  
 Australia - Aŭstralio  
 automoti - memmova  
+avar - damaĝo  
+avarani - damaĝa  
 avgani - afgana  
 Avganistan - Afganujo, Afganio  
 awakate - avokado  
@@ -318,8 +320,6 @@ daisher - ambasadoro
 daisheria - ambasado  
 daka - kovri  
 dake - kovrilo  
-damaje - damaĝo  
-damajani - damaĝa  
 dance - danco  
 danka - danki  
 danke - danko  
@@ -328,11 +328,6 @@ dante - dento
 dantobrosh - dentbroso  
 dantomediker - dentisto  
 darba - bati  
-darsa - lerni (studi)  
-darse - leciono  
-darsia - lernejo  
-darser - studento (lernanto)  
-darsoguru' - instruisto  
 date - datumo  
 datobanke - datumbanko  
 daw - vojo  
@@ -441,6 +436,9 @@ erbem - erbio
 Eris - Eris (planedeto)  
 Eritria - Eritreo  
 esa - esti  
+eska - demandi  
+eske - demando  
+eskan - demandanta  
 eskal - ŝtuparo  
 eskandem - skandio  
 eskulta - skulti  
@@ -512,14 +510,11 @@ fing - fingro
 fingoring - ringo  
 fiorde - fjordo  
 firuze - turkiso  
-fish - fiŝo  
-fishohuke - fiŝhoko  
-fishosaider - fiŝkaptisto  
 fite - planto  
 fitolojia - plantscienco (botaniko)  
 fizike - fiziko  
-fiziker - fizikisto  
 fizikia - fiziko  
+fiziker - fizikisto  
 flurem - fluoro  
 foba - timigi  
 fobia - timo (fobio)  
@@ -645,8 +640,6 @@ haha - ridi
 haida - ni faru...  
 Haiti - Haitio  
 hake - rajto  
-hakim - juĝo  
-hakimer - juĝisto  
 hal - stato  
 halif - kalifo  
 halo' - saluton!  
@@ -787,6 +780,8 @@ jovani - juna
 jovani fem - knabino  
 jovani man - knabo  
 jovania - juneco  
+jude - juĝo  
+juder - juĝisto  
 judaw - ĵudo  
 jul - ĵulo (J)  
 jung - centro  
@@ -810,9 +805,6 @@ kafe' - kafo
 kafekan - kafejo  
 kafekupe - kaftaso  
 kaguje - papero  
-kaish - komenco  
-kaisha - komenci  
-kaishu - komenciĝi  
 kakaw - kakao  
 kake - feko  
 kalam - plumo  
@@ -885,6 +877,7 @@ kina - movi
 kinu - moviĝi  
 kitu - iri  
 kitabe - skribo  
+kitabia - literaturo  
 kitabokan - librejo  
 kitabomashin - tajpilo  
 kiwi' - kivo  
@@ -1283,10 +1276,13 @@ pepin - kukumo
 per - plumo  
 pes - mono  
 pesdiske - monero  
-pesh - metiero  
+pesh - fiŝo  
+peshohuke - fiŝhoko  
+peshosaider - fiŝkaptisto  
 peta' - peta-  
 pete - ventro  
 petre - roko  
+peykar - metiero  
 piano' - piano  
 piaze - cepo  
 pige - kulo  
@@ -1371,6 +1367,9 @@ restorante - restaŭracio
 retre - reiro  
 retru - reiri  
 rey - ripetado  
+reybon - riparo  
+reybona - ripari  
+reyboner - riparisto  
 reya - ripeti (refari)  
 reyo - denove (ripete)  
 rezerve - rezervo  
@@ -1405,11 +1404,11 @@ sa ye - tie
 sabe - kialo  
 sabun - sapo  
 safa - purigi  
+safi - pura  
+safer - purigisto  
 safar - vojaĝo  
 safara - vojaĝi  
 safarer - vojaĝanto  
-safer - purigisto  
-safi - pura  
 safran - safrano  
 saga - rakonti  
 sage - rakonto  
@@ -1418,7 +1417,8 @@ sahi - ĝusta (prava)
 saida - ĉasi  
 saide - ĉasado  
 saider - ĉasisto  
-sal - salo  
+salte - salo  
+sali - sala  
 salam (salami) - bona (en salutoj)  
 salam chute - bonan vojaĝon  
 salam den - Bonan tagon  
@@ -1428,7 +1428,6 @@ salam sube - Bonan matenon!
 salam yam - bonan apetiton!  
 salama - saluti  
 salame - saluto  
-sali - sala  
 saman - ĉielo  
 samarem - samario  
 samdeshi - samlandano  
@@ -1499,9 +1498,16 @@ shoper - aĉetanto (aĉetisto)
 show - montri (ekspozicii)  
 shudu - devus  
 shukar - sukero  
-shul - riparo  
-shula - ripari  
-shuler - riparisto  
+shul - leciono  
+shula - lerni (studi)  
+shuler - studento (lernanto)  
+shulisa - instrui  
+shuliser - instruisto  
+shulkan - lernejo  
+shulshef - lernejestro  
+shur - komenco  
+shura - komenci  
+shuru - komenciĝi  
 shusha - silentigi  
 shushi - silenta  
 si - jes  
@@ -1692,9 +1698,6 @@ way - ekstero
 waydeshia - fremda lando  
 wayi - ekstera  
 we - tiu  
-wen - demando  
-wena - demandi  
-wenan - demandanta  
 wi - tiu  
 wike - vikia artikulo  
 wikia - vikio  

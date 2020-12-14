@@ -49,7 +49,7 @@ actor (actriz) - roler
 actual - zayi  
 actuar (hacer un papel) - rola  
 acuarela - suyrang  
-acuario (pecera) - fishotanke  
+acuario (pecera) - peshotanke  
 acuerdo - samrayia  
 acuoso - suyi  
 acá (aquí) - sa ye  
@@ -189,7 +189,7 @@ aparecer - zayu
 apartarse (desviarse) - rutogalta  
 apellido - familnam  
 aplicación - aplike  
-aprender (estudiar) - darsa  
+aprender (estudiar) - shula  
 aproximadamente - yago  
 apuntar (indicar) - ponta  
 apuntar - dika  
@@ -221,7 +221,7 @@ armonioso - harmoni
 armonía - harmonia  
 arnés (arreos, jaeces) - harnes  
 arquero - arker  
-arreglo - shul  
+arreglo - reybon  
 arriesgado - riski  
 arroba (@) - adresoharfe (@)  
 arromántico - anromansi  
@@ -255,7 +255,7 @@ aspecto - rupe
 aspiradora - funchuper  
 aspirina - aspirin  
 Assur (Ashur) - Ashur  
-asunto (caso) - masle  
+asunto (caso) - saltem  
 ataque - agres  
 atar (amarrar) - benda  
 Atenas - Athina  
@@ -700,13 +700,13 @@ columna - kolum
 coma - kom  
 combava (lima kafir) - karsolimon  
 comedor - yamkamar  
-comenzar (iniciar, empezar) - kaisha  
-comenzar (iniciarse, empezar) - kaishu  
+comenzar (iniciar, empezar) - shura  
+comenzar (iniciarse, empezar) - shuru  
 comer (bebir) - yama  
 comerciar - vendoshopa  
 comercio - vendoshope  
 comida - yam  
-comienzo (inicio) - kaish  
+comienzo (inicio, principio) - shur  
 comilla - citi marke  
 comino - zir  
 Comoros - Komoro nesia  
@@ -903,10 +903,10 @@ darse cuenta (notar) - buda
 darwinismo - darwinistia  
 darwinista - darwiniste  
 datos - date  
-dañado - damaji  
-dañar - damaja  
-dañino (perjudicial) - damajani  
-daño (corrupción) - damaje  
+dañado - avari  
+dañar - avara  
+dañino (perjudicial) - avarani  
+daño (corrupción) - avar  
 de (desde) - cha  
 de (posposición de posesión) - da  
 de (posposición de posesión) - du  
@@ -992,7 +992,7 @@ dios - dew
 dirección - adres  
 dirección - dish  
 directamente - disho  
-director de colegio - darsoshef  
+director de colegio - shulshef  
 dirigente (líder) - lider  
 dirigir (gestionar, administrar) - noma  
 dirigir (mandar, conducir, capitanear) - lida  
@@ -1129,6 +1129,7 @@ enredadera - eskaltan
 ensalada - salade  
 ensayo (ejercitio) - lenshe  
 ensayo (redacción) - esey  
+enseñar - shulisa  
 entender (comprender) - aha  
 entero (todo) - holi  
 enterrar - gabra  
@@ -1172,7 +1173,7 @@ escritorio (mesa de trabajo) - karmeze
 escritura - kitabe  
 escuchar (oír) - ora  
 escudo - defbanze  
-escuela (colegio, institución) - darsia  
+escuela (colegio, institución) - shulkan  
 esculpir - eskulta  
 escultor - eskulter  
 escultura (arte de escultura) - eskultia  
@@ -1226,7 +1227,7 @@ Estonia - Estia
 estornudar - achua  
 estrella - shing  
 estribor - botoraite  
-estudiante - darser  
+estudiante - shuler  
 estudiar (investigar) - loja  
 estudio - estudia  
 estupidez (tontería) - idiotia  
@@ -1266,7 +1267,7 @@ exónimo - waynam
 facilidad - izia  
 falda - jupe  
 falla (mal funcionamiento) - malfunce  
-fallo (juicio, criterio) - hakim  
+fallo (juicio, criterio) - jude  
 falso - falsi  
 familia - famil  
 fan (-filo) - filer  
@@ -1322,7 +1323,7 @@ fono (segmento acústico) - fon
 fonología - fonlojia  
 forma (figura) - forme  
 formateo - kitaborupe  
-formulario - wendokum  
+formulario - eskodokum  
 foro (espacio público) - forum  
 fosa - kave  
 foto (fotografía) - fotograf  
@@ -1505,7 +1506,7 @@ Haití - Haiti
 halo (aureola) - fotocirke  
 hamaca - hamake  
 hambre - yamnide  
-hamo (anzuelo) - fishohuke  
+hamo (anzuelo) - peshohuke  
 hasio - hasem  
 hasta (también) - hato  
 hasta - hata  
@@ -1522,7 +1523,7 @@ hermano o hermana - saudar
 hermoso (bello, lindo) - sundari  
 herramienta - tul  
 herrero - metaljanger  
-hervidor (tetera) - ketel  
+hervidor (tetera) - ketle  
 hervir (cocer) - bula  
 hervirse (ser cocida) - bulu  
 heterorromántico - alromansi  
@@ -1662,7 +1663,7 @@ interior - inde
 internacional - nasmedi  
 Internet - internete  
 interracial - rasmedi  
-interrogativa - wenan  
+interrogativa - eskan  
 interés - interes  
 interétnica - zukomedi  
 invernal - zimi  
@@ -1738,7 +1739,7 @@ juego - gem
 juego de mazmorras - donjon aventur  
 juego de mesa - banzogem  
 jueves - var 4 (var chari)  
-juez (árbitro, réferi) - hakimer  
+juez (árbitro, réferi) - juder  
 jugador - gemer  
 jugar un juego - gema  
 jugo (zumo) - jus  
@@ -1751,7 +1752,7 @@ justicia - adalia
 justo (exactamente) - justo  
 justo - adali  
 juventud - jovania  
-juzgar (considerar) - hakima  
+juzgar (considerar) - juda  
 ####K - K  
 karaoke - karaoke  
 karate - karate  
@@ -1799,7 +1800,7 @@ lavadora - washmashin
 lavar - washa  
 leal (fiel) - nidoshinabli  
 lealtad (fidelidad) - nidoshinablia  
-lección - darse  
+lección - shul  
 leche - milke  
 lecho de roca - bazopetre  
 lechuga - letis  
@@ -1858,6 +1859,7 @@ lista - liste
 lista blanca - halaloliste  
 lista negra - haramliste  
 listo (preparado) - redi  
+literatura - kitabia  
 litio - litem  
 litro - litre  
 Lituania - Lietuva  
@@ -1917,8 +1919,8 @@ madre (mamá) - mam
 maduro (adulto, curado) - maturi  
 maestro (experto) - mester  
 maestro (gurú, profesor) - guru'  
-maestro (profesor) - darsoguru'  
 maestro (profesor) - shense  
+maestro (profesor, docente) - shuliser  
 magenta (fucsia) - majenti  
 magia - magia  
 magical - magi  
@@ -2463,7 +2465,7 @@ peligro - hatre
 peligroso - hatri  
 pelo - kesh  
 película (film, membrana) - filme  
-película (filme) - kingraf  
+película (filme) - kinograf  
 pena (tristeza) - duke  
 pene - penis  
 pensar - fikra  
@@ -2501,13 +2503,13 @@ Perú - Peru
 pesa (báscula, balanza) - barmetrer  
 pesa - bar  
 pesado - bari  
-pescador - fishosaider  
-pescar - kapa fish  
+pescador - peshosaider  
+pescar - kapa pesh  
 peso (gravedad) - baria  
 pestaña - okokesh  
 peto - sinplate  
 petróleo - petronefte  
-pez (pescado) - fish  
+pez (pescado) - pesh  
 pez globo - balonfish  
 peñasco (pedrusco) - daysheke  
 piano - piano'  
@@ -2609,8 +2611,8 @@ precio (coste) - koste
 precioso - bawi  
 preferir (favorecer) - favora  
 prefijo - chenfikse  
-pregunta - wen  
-preguntar (inquirir) - wena  
+pregunta - eske  
+preguntar (inquirir) - eska  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
 presente - zay  
@@ -2623,7 +2625,7 @@ presupuesto - bujete
 prever (esperar, pensar) - chenvida  
 previo (anterior) - cheni  
 primavera - chun  
-primer (inicial, inaugural) - kaishi  
+primer (inicial, inaugural) - shuri  
 primer ministro - shefi minister  
 primero (numbre uno) - nombre un  
 principal - shefi  
@@ -2637,7 +2639,7 @@ proceso (procedimiento) - proces
 producción - chania  
 producir (hacer, preparar) - chana  
 profecía - nabe  
-profesión (ocupación) - pesh  
+profesión (ocupación) - peykar  
 profesor - profesor  
 profeta - naber  
 profeta Mani - Manihay  
@@ -2789,8 +2791,8 @@ remolacha azucarera - shukarbete
 rendirse (darse por vencido) - salima  
 renio - renem  
 renovar - nova  
-reparadora - shuler  
-reparar (arreglar) - shula  
+reparador - reyboner  
+reparar (arreglar) - reybona  
 repetición - rey  
 repetir - reya  
 reportar - reporta  
@@ -2889,7 +2891,7 @@ sabroso (umami) - umami
 sacerdote (clérigo, eclesiástico) - dinguru'  
 saco - sake  
 sagrado (santo) - santi  
-sal - sal  
+sal - salte  
 sala de chat (tertuliadero) - blableria  
 salchicha - sosis  
 salida - chutomun  
@@ -2977,7 +2979,7 @@ señal (letrero, indicio) - sinye
 sharía - islamisti sharia  
 shogunato - shogunia  
 si (suponer) - aga  
-Siberia - sibiria  
+Siberia - Sibiria  
 siempre - pan sate  
 sierra - ser  
 Sierra Leona - Salone  
@@ -3188,7 +3190,7 @@ tirano - tiran
 tiranía - tirania  
 tirar (lanzar, echar, arrojar, aventar) - lanca  
 tirar - tira  
-tiro con arco - arkia  
+tiro con arco - arkeria  
 titanio - titanem  
 toalla - towal  
 tocar (rozar) - tocha  

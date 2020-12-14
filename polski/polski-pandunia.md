@@ -25,7 +25,7 @@ aktyn - acinem
 aktywny (włączony, uruchomiony) - ativi  
 aktywować (włączyć, uruchomić) - ativa  
 akwarela (farba wodna) - suyrang  
-akwarium - fishotanke  
+akwarium - peshotanke  
 Alaska - Alaska  
 Albania - Chiperia  
 ale, lecz - a  
@@ -381,7 +381,7 @@ cytryna - limon
 cywilizacja - civilia  
 cywilizowany (ucywilizowany) - civili  
 Czad - Chade  
-czajnik - ketel  
+czajnik - ketle  
 czapetka kuminowa - jambul  
 czar (urok, wdzięk) - charme  
 Czarnogóra - Chernogora  
@@ -513,7 +513,7 @@ dwutlenek węgla - karbondulokside
 dwuznacznik - dulmeni  
 dym - duman  
 dynamit - dinamite  
-dyrektor szkoły - darsoshef  
+dyrektor szkoły - shulshef  
 dysk - diske  
 dyskretny (cyfrowy, kwantowy) - feni  
 dyskusja, debata, dyskurs - lon  
@@ -656,7 +656,7 @@ fonologia - fonlojia
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
 formatowanie - kitaborupe  
-formularz (kwestionariusz) - wendokum  
+formularz (kwestionariusz) - eskodokum  
 forum - forum  
 fosfor - pospor  
 fotograf - fotografer  
@@ -790,7 +790,7 @@ główny - shefi
 głęboki - fasteli  
 głębokość - fastelia  
 ####H - H  
-haczyk - fishohuke  
+haczyk - peshohuke  
 hafn - hafnem  
 Haiti - Haiti  
 hak - huke  
@@ -1059,7 +1059,7 @@ kilof - pikosape
 kilogram (kg) - kilogram  
 kilometr - kilomitre  
 kinematografia - kingrafia  
-kino - kingraf  
+kino - kinograf  
 kinowy - kingrafi  
 kiosk - kioske  
 Kirgistan - Kirgizia  
@@ -1206,7 +1206,7 @@ krzak (krzew) - tali moke
 krzem - silike  
 krzemień - hogosheke  
 krzyknąć, krzyczeć - krita  
-krzywdzący (szkodliwy) - damajani  
+krzywdzący (szkodliwy) - avarani  
 krzyż - krus  
 król - mani rajer  
 król lub królowa - rajer  
@@ -1248,7 +1248,7 @@ Kuwejt - Kuwaitia
 kwadrat (czworokąt, czworobok, tetragon) - chargon  
 kwarc - kuarce  
 kwaśny - suani  
-kwestia, problem - masle  
+kwestia, problem - saltem  
 kwiat - ful  
 kwiecień - desdulmes  
 kwitnąć, rozkwitnąć, rozkwitać - fulu  
@@ -1280,7 +1280,7 @@ lato - lete
 lawa - yongopetre  
 lazania - lazanye  
 lejek - liwkope  
-lekcja - darse  
+lekcja - shul  
 lekki - legi  
 leksem - logem  
 lepić (kleić) - gluta  
@@ -1620,9 +1620,9 @@ nano- - nano-
 nanometr - nanmetre  
 napierśnik - sinplate  
 napisać, pisać - kitaba  
-naprawa - shul  
-naprawiacz - shuler  
-naprawić, naprawiać - shula  
+naprawa - reybon  
+naprawiacz - reyboner  
+naprawić, naprawiać - reybona  
 naprzód - jino  
 narkotyk - droge  
 narodowy (ludowy) - nasi  
@@ -1633,8 +1633,8 @@ naród, narodowość - nasia
 nasienny - semi  
 następny (następujący) - badi  
 natura, środowisko - ekia  
-nauczyciel - darsoguru'  
-nauczyć się, uczyć się, studiować - darsa  
+nauczyciel - shuliser  
+nauczyć się, uczyć się, studiować - shula  
 nauka, badanie, studiowanie - lojia  
 Nauru - Nauru  
 nautilus - nautil  
@@ -1755,7 +1755,7 @@ obrazić - insulta
 obrazowy, graficzny; opisowy - grafi  
 obrać (obierać) - tira pil  
 obraźliwy, niemiły, obelżywy - nindi  
-obrażenia (rana, krzywda) - damaje  
+obrażenia (rana, krzywda) - avar  
 obrona - def  
 obronić (chronić) - defa  
 obrońca - defer  
@@ -1979,7 +1979,7 @@ pierdnięcie - pede
 pierdzieć - peda  
 pierwiastek (jednostki podstawowej) - em  
 pierwszy, numer jeden - nombre un  
-pierwszy, początkowy - kaishi  
+pierwszy, początkowy - shuri  
 pierś - sin  
 pierścień - ring  
 pierścień, pierścionek; obrączka - fingoring  
@@ -2043,7 +2043,7 @@ pociąg - tren
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
 poczta, budynek poczty - postia  
-początek - kaish  
+początek - shur  
 pod, poniżej; iść w dół, iść pod spód, iść na dno - nicha  
 podarunek, dar, prezent - don  
 podatek, opłata - takse  
@@ -2217,7 +2217,7 @@ proces, procedura - proces
 proch strzelniczy - barude  
 produkcja - chania  
 produktywny (żyzny) - chanivi  
-profesja, zajęcie, zawód - pesh  
+profesja, zajęcie, zawód - peykar  
 profesor - profesor  
 program - program  
 programista, koder - programer  
@@ -2338,8 +2338,8 @@ pusty - kali
 pustynia - registan  
 pułapka - kapotruke  
 pyszny - yami  
-pytajny, związany z pytaniem - wenan  
-pytanie - wen  
+pytajny, związany z pytaniem - eskan  
+pytanie - eske  
 pył - fun  
 półka (regał na książki) - libobanze  
 północ - norde  
@@ -2481,9 +2481,9 @@ rutherford - ruterfordem
 rutyna, nawyk, zwyczaj - rutin  
 Rwanda - Ruanda  
 rwać (drzeć) - chir  
-ryba - fish  
+ryba - pesh  
 ryba rozdymkowata - balonfish  
-rybak - fishosaider  
+rybak - peshosaider  
 rym (wers) - rim  
 rynek, bazar - bazar  
 rysunek, obraz - desen  
@@ -2742,7 +2742,7 @@ sushi - sushi'
 suszyć (wysuszyć) - gana  
 Swalbard - Svalbarde  
 swastyka - hukokrus  
-Syberia - sibiria  
+Syberia - Sibiria  
 syn - mani pute  
 sypialnia - sonkamar  
 Syria - Suria  
@@ -2783,7 +2783,7 @@ szisz kebab - shishkababe
 szkielet - ostojamia  
 szklić (glazurować) - kanchodaka  
 Szkocja - Eskotia  
-szkoła (instytucja) - darsia  
+szkoła (instytucja) - shulkan  
 szkło - kanche  
 szkło wulkaniczne - hogoshani kanche  
 szmaragd - zumurude  
@@ -2812,9 +2812,9 @@ szyszka - konus
 szyć - suta  
 São Paulo - Santi Paulo  
 sód - natre  
-sól - sal  
-sądzić (osądzić) - hakima  
-sędzia - hakimer  
+sól - salte  
+sądzić (osądzić) - juda  
+sędzia - juder  
 słaby - debili  
 słodki - shukari  
 słodki ziemniak - kamote  
@@ -2999,7 +2999,7 @@ uciec, uciekać - bega
 uciszyć (uciszać) - shusha  
 uczestniczyć, wziąć udział, brać udział - parta  
 uczestnik - parter  
-uczeń, student - darser  
+uczeń, student - shuler  
 udomowiony (domowy) - dosiljenisi  
 udomowić (kultywować) - dosiljenisa  
 ufać (wierzyć, liczyć, polegać) - nidoshina  
@@ -3251,7 +3251,7 @@ wynająć, wynajmować, zatrudnić, zatrudniać - kir
 wynik (punktacja) - puntonombre  
 wyobrazić, wyobrażać, fantazjować - fantaza  
 wypełnić, wypełniać - pura  
-wyrok - hakim  
+wyrok - jude  
 wyrzucać (wyrzucić, wydalać, wydalić) - waya  
 wyrzutek - paray  
 wyrzutnia rakietowa - roketolancer  
@@ -3320,8 +3320,8 @@ zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić) - ajaba
 zachwycić się (być zachwyconym) - ajabu  
 zachwyt (zdumienie) - ajabia  
 zachód - weste  
-zaczyna (zacząć, rozpoczynać, rozpocząć) - kaishu  
-zacząć, zaczynać - kaisha  
+zaczyna (zacząć, rozpoczynać, rozpocząć) - shuru  
+zacząć, zaczynać - shura  
 zagranica - waydeshia  
 zagraniczny - waydeshi  
 zagrożenie, niebezpieczeństwo - hatre  
@@ -3363,7 +3363,7 @@ zapożyczenie (wyraz obcy) - jekologe
 zaprosić, zapraszać - pliza laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
-zapytać, spytać, pytać - wena  
+zapytać, spytać, pytać - eska  
 zapłacić, opłacić, płacić - peya  
 zapłata, opłata - pey  
 zaratrustianin - zardushiste  
@@ -3490,7 +3490,7 @@ zły, zrujnowany, zepsuty - harabi
 ćwiczenie - lenshe  
 ćwiczyć - lensha  
 Łotwa - Latvia  
-łapać rybę - kapa fish  
+łapać rybę - kapa pesh  
 łatwy, prosty - izi  
 ławka - benche  
 łazienka - banyokamar  
@@ -3500,7 +3500,7 @@ zły, zrujnowany, zepsuty - harabi
 łosoś (pstrąg) - salmon  
 łosoś atlantycki - atlantosamon  
 łowca (myśliwy) - saider  
-łucznictwo - arkia  
+łucznictwo - arkeria  
 łucznik - arker  
 łuk - arke  
 łuska (blaszka, tarczka) - ostoshalke  

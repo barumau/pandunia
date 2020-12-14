@@ -156,8 +156,8 @@ argon:|argon|mate|Ar||argon|argon|argón|||||||||||||argono|argon|argon
 argum:|argum|||eng:fra:argument, spa:por:argumento, rus:аргумент (argument)|argument (rationale, grounds)|argument|argumento|argumento|аргумент (обосновани)|||||lí lẽ|||||||perustelu (argumentti)|argument
 Ariel:|Ariel|planete 7 lune 2|||Ariel||||||||||||||||Ariel|
 ark:e|arke|||eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka|bow (arch, arc)||arco|arco|лук (арка)||弓 (琴弓, 拱)|弓 (弓なり)|||||||||kaari|łuk
-ark:ia|arkia||||archery||tiro con arco||||||||||||||jousiammunta|łucznictwo
 ark.er:|arker||||archer||arquero||лучник|||弓兵|||||||||jousiampuja|łucznik
+ark.er:ia|arkeria||||archery||tiro con arco||||||||||||||jousiammunta|łucznictwo
 arm:e|arme|||fra:arme, eng:arms, spa:por:arma|weapon (arms)|arme|arma|arma|||武器|||||||||armilo|ase|broń
 arom:|arom|||eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)|scent (odor, fragrance, aroma)|odeur|olor (aroma)|cheiro|запах (аромат)||气味|香り (匂い, 臭い)|||||||||haju|zapach (aromat, smród, odór)
 arom:a|aroma||||smell (sniff)|sentir|oler (olfatear)||понюхать||闻到|嗅ぐ|||||||||haistaa|wąchać
@@ -247,7 +247,7 @@ bald:e|balde|||spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|bu
 balibal:i|balibali|||eng:various, spa:vario, por:vário, jpn:とりどり (toridori), ben:বিবিধ (bibidha), may:berbagai-bagai, swa:balimbali|various (diverse, miscellaneous)|divers (plusieurs)|distintos (diversos)|vários|||各种各样|色々 (種々, 様々, 区々, とりどり, それぞれ)|||||||||monenlainen|różny (różnorodny)
 balkon:|balkon||||balcony (porch)|balcon|balcón|sacada (varanda)|балкон||阳台||||छज्जा||langkan (beranda)||balkon|balkono|parveke (kuisti)|balkon; ganek
 balon:|balon|||fra:ballon, tur:may:pol:balon, eng:balloon, tgl:balun, hau:balân|balloon||globo|||||||||||||balono|ilmapallo|balon
-balon.fish:|balonfish|biw|Tetraodontidae||pufferfish|poisson-globe|pez globo||иглобрюховые|||フグ||||||||||ryba rozdymkowata
+balon.pesh:|balonfish|biw|Tetraodontidae||pufferfish|poisson-globe|pez globo||иглобрюховые|||フグ||||||||||ryba rozdymkowata
 balut:e|balute|biw|Quercus|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota|oak tree|chêne|roble|carvalho|дуб||橡树 (xiàng)|ナラ|||||||||tammi|dąb
 balut.o.pal:|balutopal||||acorn|gland|bellota|||||ドングリ|||||||||tammenterho|żołądź
 banan:|banan|biw||wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|banana|banane|plátano (banana)|banana|банан||香蕉||||केला||pisang||muz|banano|banaani|banan
@@ -581,13 +581,6 @@ darm:e|darme|||hin:धर्म (dharm), urd:(dharm), ben:ধর্ম (dhôrmô
 darm:i|darmi||||moral||moral (ético)||||||||||||||moraalinen|moralny
 darm.o.loj:ia|darmolojia||||ethics||ética (filosofía moral)||||||||||||||etiikka (moraalioppi)|etyka
 darm.o.sit.em:|darmositem|mate|Ds||darmstadtium||darmstatio||||||||||||||darmstadtium|darmsztadt
-dars:a|darsa||||learn (study)||aprender (estudiar)|||||||||||||lerni (studi)|oppia (opiskella)|nauczyć się, uczyć się, studiować
-dars:e|darse|||ara:fas:urd:(dars), tur:ders|lesson||lección|||||||||||||leciono|oppi (opetus)|lekcja
-dars:ia|darsia||||school (institution)||escuela (colegio, institución)|||||||||||||lernejo|koulu (opisto)|szkoła (instytucja)
-dars.er:|darser||||student (pupil, learner)||estudiante|||||||||||||studento (lernanto)|oppilas|uczeń, student
-dars.o.guru:|darsoguru'||||teacher||maestro (profesor)|||||||||||||instruisto|opettaja|nauczyciel
-dars.o.kamar:|darsokamar||||classroom|salle de classe|||||||||||||||luokkahuone|
-dars.o.shef:|darsoshef||||headmaster (principal)||director de colegio||||||||||||||rehtori|dyrektor szkoły
 dart:e|darte|||eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|soil (dirt)||tierra (barro)|||||土|||||||||maa (multa)|grunt (ziemia, próchnica)
 dart:i|darti||||soily (dirty)||sucio||||||||||||||likainen (mutainen)|ziemny (glebowy, gruntowy)
 darwin.ist:e|darwiniste||||Darwinist||darwinista||||||||||||||darwinisti|darwinista
@@ -792,6 +785,11 @@ Eritr:ia|Eritria|desh|ER||Eritrea||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea
 es;|es||||being||ser||||||||||||||olo (oleminen)|byt
 es;a|esa|||spa:es, fas:(ast), por:estar, rus:есть (yest')|be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
 esey:|esey|||eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|essay||ensayo (redacción)||||||||||||||essee|esej
+esk:a|eska||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
+esk:e|eske|||ara: سُؤَال‎ (suʾāl) , fas: سؤال‎ (so'âl), hin:सवाल (savāl);मसला (masalā), may:soal;masalah, swa:swali, tur:sual;mesele, hau:matsala|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
+esk.an:|eskan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
+esk.o.dokum:|eskodokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
+esk.o.tem:|saltem||||issue (affair, concern)||asunto (caso)||||||||||||||asia (juttu)|kwestia, problem
 eskal:|eskal|||fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|stairs (ladder)||escalera|||||||||||||ŝtuparo|portaat (rappuset, tikkaat)|schody (drabina)
 eskal:a|eskala||||climb (get on)||escalar||подниматься|||上る (乗る, よじ登る)|||||||||kiivetä|wspinać się (wspiąć się)
 eskal.tan:|eskaltan||||vine|vigne|enredadera|||||蔓草|||||||||köynnös|pnącz
@@ -914,13 +912,13 @@ fin:a|fina||||finish (put an end to)||terminar (acabar)|||||||||||||fini|lopetta
 fin:i|fini||||last (final)||final (último)|||||||||||||lasta|viimeinen|ostatni, końcowy
 fiorde|fiorde|||nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|fjord|fiord|fiordo|fiorde|фьорд||峡湾|フィヨルド||||||||fjordo|vuono|fiord
 firuze|firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|turquoise gem||turquesa (piedra preciosa)||бирюза||绿松石|||||||||turkiso|turkoosi|turkus
-fite|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetation)||planta (vegetación)|||||||||||||planto|kasvi|roślina, sadzonka
-fitolojia|fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
-fizike|fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
-fiziker|fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
-fizikia|fizikia|||eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|physics (science)||física|||||||||||||fiziko|fysiikka|fizyk
-fleche|fleche|||spa:por:flecha, fra:flèche, eng:fletch|arrow (bolt)|flèche|flecha|flecha (seta)|стрела (стрелка)||箭|矢 (矢印)|||||||||nuoli|strzała (bełt)
-flecher|flecher||||fletcher|||||||||||||||||wytwórca łuków i strzał
+fit:e|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetation)||planta (vegetación)|||||||||||||planto|kasvi|roślina, sadzonka
+fit.o.loj:ia|fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
+fizik:e|fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
+fizik:ia|fizikia|||eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|physics (science)||física|||||||||||||fiziko|fysiikka|fizyk
+fizik.er:|fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
+flech:e|fleche|||spa:por:flecha, fra:flèche, eng:fletch|arrow (bolt)|flèche|flecha|flecha (seta)|стрела (стрелка)||箭|矢 (矢印)|||||||||nuoli|strzała (bełt)
+flech.er:|flecher||||fletcher|||||||||||||||||wytwórca łuków i strzał
 flerovem|flerovem|mate|Fl||flerovium||flerovio||||||||||||||flerovium|flerow
 flurem|flurem|mate|F||fluorine||flúor|||||||||||||fluoro|fluori|fluor
 foba|foba||||scare (frighten)|||||||||||||||timigi|pelottaa|
@@ -1526,6 +1524,7 @@ Kantalupo da Sabina|Kantalupo da Sabina||||Cantalupo in Sabina|Cantalupo in Sabi
 kantalupomelon|kantalupomelon|biw|Cucumis melo var. cantalupo|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|cantaloupe||melón cantalupo|meloa (cantalupo)|канталупа||鈔皮瓜|カンタロープ||||||||||kantalupa
 kante|kante|||hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|shoulder||hombro|||||||||||||ŝultro|olkapää (hartia)|bark (ramię)
 kanun|kanun|||ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|law||regla (ley)|||||||||||||lego|laki|prawo
+kap:a pesh:|kapa pesh||||catch fish||pescar|||||||||||||||łapać rybę
 kapa|kapa|||tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|catch (capture, seize, snatch, intercept)||capturar (apresar)|||||||||||||kapti|ottaa kiinni (napata, kaapata)|złapać, łapać, schwytać, chwytać
 kapotruke|kapotruke||||trap (snare)|piège|trampa|armadilha|ловушка||陷阱|罠||||||||||pułapka
 kaps:e|kapse|||lat:capsa, eng:fra:case,capsule, spa:caja,cápsula, por:caixa,cápsula, rus:капсула (kapsula), ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes|box (container)||||||||||||||||laatikko|
@@ -1603,41 +1602,43 @@ kerni energe|kerni energe||||nuclear energy||energía nuclear|||||||||||||kernen
 kerni fenia|kerni fenia||||nuclear fission||fisión nuclear||||||||||||||ydinfissio|rozszczepienie jądra atomowego
 kerni fizikia|kerni fizikia||||nuclear physics||física nuclear|||||||||||||kernfiziko|ydinfysiikka|fizyka nuklearna
 kerni liwunisia|kerni liwunisia||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
-kerube|kerube|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
-kesh|kesh|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
-keshobende|keshobende||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
-keshosabun|keshosabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
-ketel|ketel|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
+kerub:e|kerube|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
+kesh:|kesh|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
+kesh.o.bend:e|keshobende||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
+kesh.o.sabun:|keshosabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
+ketl:e|ketle|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
 Khartum|Khartum|shefocite|SD||Khartoum|Khartoum|Jartum|Cartum|Хартум|الخرطوم|喀土穆|ハルツーム|||||Khartoum|Khartoum|Hartum|Ĥartumo|Khartoum|
-kilo*|kilo'|||eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|thousand (kilo-)||mil (kilo-)|||||千 (１０００)||||||||mil (kilo-)|tuhat (kilo-)|tysiąc (kilo-)
-kilogram|kilogram|unomete|kg||kilogram (kg)||kilograma||||||||||||||kilogramma|kilogram (kg)
-kilomitre|kilomitre|unomete|km||kilometer (km)||kilometre|||||||||||||kilometro|kilometri|kilometr
-kim|kim|||eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|substance (physical material from which something is made)|substance|sustancia|substância|вещество||物质|物質|물질|vật chất|पदार्थ|পদার্থ|||||aine (aines, materia)|
-kimem|kimem||||chemical element|élément chimique|elemento químico|elemento químico|химический элемент||元素|元素|원소|nguyên tố|रासायनिक तत्व||unsur kimia||kimyasal element|kemia elemento|alkuaine|
-kimi|kimi||||chemical||químico||||||||||||||kemikaali|chemiczny
-kimlojia|kimlojia||||chemistry|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|ĥemio (kemio)|kemia|chemia
-kin|kin||||movement||movimiento||||||||||||||liike|ruch
-kina|kina||||move (transfer, change place)|mouvoir (bouger)|mudar (transferir, traspasar, trasladar)|mover|двигать||动|動かす|이동시키다|||||||movi|liikuttaa|ruszać, przenościć, zmieniać miejsce
-kingraf|kingraf||||movie (cinema)||película (filme)||фильм (кино)|||映画||||||||||kino
-kingrafi|kingrafi||||cinematic|||||||||||||||||kinowy
-kingrafia|kingrafia||||cinematography|||||||||||||||||kinematografia
-kini|kini|||eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|kinetic||cinético||||||||||||||kineettinen (liike-)|ruchowy, kinetyczny
+kilo:|kilo'|||eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|thousand (kilo-)||mil (kilo-)|||||千 (１０００)||||||||mil (kilo-)|tuhat (kilo-)|tysiąc (kilo-)
+kilo.gram:|kilogram|unomete|kg||kilogram (kg)||kilograma||||||||||||||kilogramma|kilogram (kg)
+kilo.mitr:e|kilomitre|unomete|km||kilometer (km)||kilometre|||||||||||||kilometro|kilometri|kilometr
+kim:|kim|||eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|substance (physical material from which something is made)|substance|sustancia|substância|вещество||物质|物質|물질|vật chất|पदार्थ|পদার্থ|||||aine (aines, materia)|
+kim:i|kimi||||chemical||químico||||||||||||||kemikaali|chemiczny
+kim.em:|kimem||||chemical element|élément chimique|elemento químico|elemento químico|химический элемент||元素|元素|원소|nguyên tố|रासायनिक तत्व||unsur kimia||kimyasal element|kemia elemento|alkuaine|
+kim.loj:ia|kimlojia||||chemistry|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|ĥemio (kemio)|kemia|chemia
+kin:|kin||||movement||movimiento||||||||||||||liike|ruch
+kin:a|kina||||move (transfer, change place)|mouvoir (bouger)|mudar (transferir, traspasar, trasladar)|mover|двигать||动|動かす|이동시키다|||||||movi|liikuttaa|ruszać, przenościć, zmieniać miejsce
+kin:i|kini|||eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|kinetic||cinético||||||||||||||kineettinen (liike-)|ruchowy, kinetyczny
+kin:u|kinu||||move oneself|se mouvoir|moverse|Mover-se|двигаться||动|動く|움직이다|chuyển động|चलना|চলা||peleka|hareket etmek|moviĝi|liikkua|
+kin.o.graf:|kinograf||||movie (cinema)||película (filme)||фильм (кино)|||映画|||||||||elokuva|kino
+kin.o.graf:i|kingrafi||||cinematic||||||||||||||||elokuvallinen|kinowy
+kin.o.graf:ia|kingrafia||||cinematography||||||||||||||||elokuvataide|kinematografia
+kin.o.graf.o.kan;|kinografokan||||movie theatre||||||||||||||||elokuvateatteri|
 Kinshasa|Kinshasa|shefocite|CD||Kinshasa|Kinshasa|||||||||||||||Kinshasa|
 Kinshasa Kongo|Kinshasa Kongo|desh|CD||Congo Kinshasa||República Democrática del Congo||||||||||||||Kinshasan Kongo|Demokratyczna Republika Konga
-kinu|kinu||||move oneself|se mouvoir|moverse|Mover-se|двигаться||动|動く|움직이다|chuyển động|चलना|চলা||peleka|hareket etmek|moviĝi|liikkua|
-kioske|kioske|||fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|kiosk||quiosco (kiosco)||||||||||||||kioski|kiosk
+kiosk:e|kioske|||fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|kiosk||quiosco (kiosco)||||||||||||||kioski|kiosk
 Kipris|Kipris|desh|CY||Cyprus||Chipre||||||||||||||Kypros|Cypr
-kir|kir|||ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|carat||alquiler||||||||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
-kirate|kirate||||carat||quilate||||||||||||||karaatti|karat
+kir:|kir|||ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|carat||alquiler||||||||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
+kir.is:a|kirisa||||rent out (let, lease)||alquilar||||||||||||||vuokrata|wynająć, oddać w najem
+kirat:e|kirate||||carat||quilate||||||||||||||karaatti|karat
 Kirgizia|Kirgizia|desh|KG||Kyrgyzstan||Kirguizistán||||||||||||||Kirgistan (Kirgisia)|Kirgistan
 Kiribati|Kiribati|desh|KI||Kiribati||Kiribati||||||||||||||Kiribati|Kiribati
 kirili abace|kirili abace||||Cyrillic alphabet||alfabeto cirílico||||||||||||||kyrilliset aakkoset|cyrylica
-kirisa|kirisa||||rent out (let, lease)||alquilar||||||||||||||vuokrata|wynająć, oddać w najem
 kit:a|kita||||remove (take away)||quitar (remover)|remover|||除去||||||||||viedä|
 kit:i|kiti||||gone (away)|parti|||||||||||||||mennyt (poissa)|
 kit:u|kitu|||fra:quitter, tur:gitmek, spa:quitar|go (move away)|aller (quitter)|ir|ir|идти||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść (przemieścić się)
 kitab:a|kitaba||||write|écrire|escribir|escrevere|писать||写||||लिखना||menulis||yazmak||kirjoittaa|napisać, pisać
 kitab:e|kitabe|||ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|writing (text)|écriture|escritura|escrita|письмо||||||||tulisan||yazı|skribo|kirjoitus (teksti)|pismo, tekst
+kitab:ia|kitabia||||literature (body of written works)|littérature|literatura|literatura|литература (словесность)|أَدَب‎|文学|文献 (文学)|문학|văn chương (văn học)|साहित्य (अदब)|সাহিত্য|kesusasteraan|fasihi|literatür (edebiyat)|literaturo|kirjallisuus|
 kitab.o.kan:|kitabokan||||library|bibliothèque|biblioteca|biblioteca|библиотека|مَكْتَبَة‎|图书馆|図書館|도서관|thư viện|पुस्तकालय|গ্রন্থাগার|perpustakaan|maktaba|kütüphane|librejo|kirjasto|biblioteka
 kitab.o.mashin:|kitabomashin||||typewriter|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania
 kitab.o.minist.er:|kitabominister||||librarian||bibliotecario||библиотекарь|||図書係||||||||||bibliotekarz
@@ -2067,7 +2068,6 @@ masal|masal|||hin:मसाला (masālā), urd:(masālā), ben:মসলা (
 masali tike|masali tike||||tikka masala||tikka masala||||||||||||||tikka masala|tikka masala
 mashin|mashin|||fra: machine, eng: machine, deu: Maschine, may: mesin|machine||máquina|||||||||||||maŝino|kone|maszyna
 maske|maske|||eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske|mask (camouflage)|masque|máscara|máscara|маска|||仮面 (マスク)|가면  (마스크)||मास्क||topeng (masker)|barakoa|maske|masko|naamio (maski)|maska, kamuflaż
-masle|masle|||ara:(masʾala), hau:matsala, hin:मसला (maslā), may:masalah|issue (affair, concern)||asunto (caso)||||||||||||||asia (juttu)|kwestia, problem
 masmul|masmul||||tuber (bulb)|tubercule|tubérculo|tubérculo|клубень|||芋 (塊茎)||||||||||bulwa
 masmulsolful|masmulsolful|biw|Helianthus tuberosus||Jerusalem artichoke (sunroot)|topinambour|tupinambo (pataca, alcachofa de Jerusalén)|alcachofra-girassol (tupinambo)|топинамбу́р||菊芋|キクイモ||||||||||topinambur
 maste|maste|||eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|mast|mât|mástil|mastro|мачта||桅||||मस्तूल||||direk|masto|masto (salko)|maszt
@@ -2103,7 +2103,7 @@ medal|medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́
 mede|mede||||middle (the part in between)||medio|meio (metade)|||||||||||||väli|środek
 medi|medi|||spa:medio, eng:medium, hin:माद्धयम (mādhyam)|medium (intermediate, mean)|medio|medio (mediano)|moyen|средний|مُتَوَسِّط|中型|||||||||mezo|keskiverto (keski-)|średni
 media|media||||medium (media)||medio||||||||||||||media|media
-medika|medika|||eng:medicine, spa:medicina, por:medicamento, fra:médicament, rus:медикамент (medikament)|heal (cure)||curar (sanar)|||||医者||||||||sanigi (kuraci)|hoitaa (lääkitä)|uleczyć, leczyć, uzdrowić, uzdrawiać
+medika|medika|||eng:medicine, spa:medicina, por:medicamento, fra:médicament, rus:медикамент (medikament)|heal (cure, remedy)||curar (sanar)|||||医者||||||||sanigi (kuraci)|hoitaa (lääkitä)|uleczyć, leczyć, uzdrowić, uzdrawiać
 mediker|mediker||||doctor (physician, healer)||doctor (médico)|||||||||||||kuracisto|lääkäri (tohtori)|doktor, lekarz, uzdrowiciel
 medikia|medikia||||medicine (field of study)||medicina||||||||||||||lääketiede|medycyna
 medikosuy|medikosuy||||potion|pocion|poción||зелье||药水|ポーション (水薬)||||||||||eliksir (magiczny napój)
@@ -2594,17 +2594,19 @@ pepin|pepin|biw|Cucumis sativus|spa:por:pepino, tgl:pipino, sin:පිපිඤ�
 per|per|||hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|feather||pluma||перо||||||पर्दा|||||plumo|sulka|pióro
 perkardon|perkardon|biw|Cirsium vulgare||spear thistle|cirse commun|cardo burral|cardo-roxo|бодяк обыкновенный||翼蓟|アメリカオニアザミ||||||||||ostrożeń lancetowaty
 Peru|Peru|desh|PE||Peru||Perú||||||||||||||Peru|Peru
-pes|pes|||hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|money|argent|dinero (plata)|dinheiro|деньги|فلوس‎|钱|金|||पैसा||uang (wang)|pesa||mono|raha|pieniądze
-pesdiske|pesdiske||||coin|monnaie (pièce)|moneda|moeda|монета||硬币||||सिक्का||keping||madeni para|monero|kolikko|moneta
-pesh:|pesh|biw||spa:pez, por:paixe, ita:pesce, eng:fish, deu:Fisch|fish||pez (pescado)|peixe|рыба||鱼|魚|||मछली|মাছ|ikan|samaki|balık|fiŝo|kala|ryba
+pes:|pes|||hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|money|argent|dinero (plata)|dinheiro|деньги|فُلُوس‎|钱|金|돈 (금전)|tiền|पैसा|অর্থ (টাকা)|uang (wang)|pesa|para|mono|raha|pieniądze
+pes.disk:e|pesdiske||||coin|monnaie (pièce)|moneda|moeda|монета||硬币||||सिक्का||keping||madeni para|monero|kolikko|moneta
+pesh:|pesh|biw||spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|fish|poisson|pez (pescado)|peixe|рыба|سَمَك‎|鱼|魚|물고기|cá|मछली|মাছ|ikan|samaki|balık|fiŝo|kala|ryba
 pesh.o.huk:e|peshohuke||||fishhook|hameçon|hamo (anzuelo)|anzol|крючок||鱼钩|釣り針|낚시|móc câu|||mata kail|||fiŝhoko|ongenkoukku|haczyk
 pesh.o.said.er:|peshosaider||||fisher|pêcheur|pescador|pescador|рыбак (рыболов)|صياد‎|鱼夫|漁師|낚시꾼 (어부)||||||balıkçı|fiŝkaptisto|kalastaja|rybak
-pesh.tank:e|peshtanke||||fish tank||acuario (pecera)||||||||||||||akvaario|akwarium
+pesh.o.tank:e|peshotanke||||fish tank||acuario (pecera)||||||||||||||akvaario|akwarium
 peta*|peta'|||eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)|peta-|||||||||||||||peta-|peta-|
 pete|pete|badan||ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|belly (stomach, abdomen)||barriga (vientre, panza)||||||||पेट (उदर)|পেট|perut|||ventro|maha (vatsa)|brzuch
 petre|petre|||hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|rock|roche (pierre)|roca (piedra)|rocha (pedra)|горная порода||||石 (岩)|石||पत्थर||||roko|kallio (kivi)|skała
 petronefte|petronefte||||petroleum|pétrole (essence)|petróleo|petróleo|нефть||石油|石油||||||||||ropa naftowa
 pey|pey|||eng:pay, fra:paye, + zho:费 (fèi)|payment||pago||||||||||||||maksu|zapłata, opłata
+pey.kar:|peykar||||profession (occupation)|profession (métier)|profesión (ocupación)|profissão|профессия|مِهْنَة‎|职业|職業|직업|nghề nghiệp|पेशा|পেশা|profesi||meslek|metiero|ammatti|profesja, zajęcie, zawód
+pey.kar.er:|peykarer||||professional (pro)||||профессионал (профи)|||プロフェッショナル|||||||||ammattilainen|
 peya|peya||||pay||pegar||||||||||||||maksaa|zapłacić, opłacić, płacić
 piano*|piano'|||eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:piyano, ara:بيانو‎ (biyānō), hin:पियानो (piyāno), ben:পিয়ানো (piẏano), jpn:ピアノ (piano)|piano||piano|||||||||||||piano|piano|pianino
 piaze|piaze|biw|Allium cepa|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|onion|oignon|cebolla|cebola|лук|بَصَل|洋葱|玉葱|양파|hành tây|प्याज|পেঁয়াজ|bawang|kitunguu|soğan|cepo|sipuli|cebula
@@ -2824,6 +2826,9 @@ retrotikete|retrotikete||||return ticket|Aller-retour|billete de ida y vuelta|pa
 retru|retru||||return (go back)|retourner (revenir)|volver|voltar (retornar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
 Reunion|Reunion|desh|RE||Réunion||Reunión||||||||||||||Reunion|Reunion
 rey|rey|||eng:fra:por:spa:re-, rus:ре- (re-)|repetition|répétition|repetición|repetição|повторение|||繰り返し||||||||ripetado|toisto|powtarzanie, powtórka
+rey.bon:|reybon||||repair (fix)|réparation|arreglo|reparo|починка (ремонт)||修理|修理|수리||मरम्मत|||||riparo|korjaus|naprawa
+rey.bon:a|reybona||||repair (fix, mend)|réparer|reparar (arreglar)|reparar|чинить (ремонтировать)|صَلَّحَ‎|修理|修理する|고치다 (수리하다)|sửa chữa|मरम्मत करना||||tamir etmek|ripari|korjata|naprawić, naprawiać
+rey.bon.er:|reyboner||||repairer|réparateur|reparador|reparador|ремонтник|مُصْلِح‎|修理工人|修理工|수리공||||||tamirci|riparisto|korjaaja|naprawiacz
 reya|reya||||repeat (iterate)|répéter|repetir|repetir|повторять||重复|繰り返す|되풀이하다||दोहराना|||||ripeti (refari)|toistaa|powtórzyć, powtarzać
 reyo|reyo||||again (repeatedly)||otra vez (de nuevo)|||||||||||||denove (ripete)|taas (uudestaan)|znowu (ponownie)
 rezerva|rezerva||||reserve (book)||reservar||||||||||||rezerve ettirmek|||rezerwować (zarezerwować)
@@ -2900,32 +2905,33 @@ sa ke|sa ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdz
 sa linye|sa linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 sa sabu|sa sabu||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
 sa ye|sa ye||||here (there)||acá (aquí)|||||||||||||tie|täällä (tuolla)|tu (tutaj, tam)
-saba|saba||||cause (be the cause for)||causar||||||||||||||aiheuttaa (olla syynä)|spowodować, powodować
-sabate|sabate||||Sabbath||sabbat||||||||||||||sapatti|szabat, szabas
-sabe|sabe|||heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|reason (cause)||razón (causa)|||||||||||||kialo|syy|powód, przyczyna
-sabun|sabun|||ara:(ṣābūn), tur:sabun, swa:sabuni, hin:साबुन (sābun), por:sabão, spa:jabón, fra:savon|soap||jabón||||肥皂||||साबुन||sabun|sabuni|sabun|sapo|saippua|mydło
-sadi|sadi|||tur:sade, fas:(sāde), hin:सादा (sādā)|plain (ordinary, unadorned, simple, mere)||sencillo (liso)||||||||सादा||||sade||koruton (tavanomainen, pelkkä)|zwykły, zwyczajny, prosty
-safa|safa||||clean (purify)||limpiar|||||||||||||purigi|puhdistaa (siivota)|wyczyścić, czyścić
-safar|safar|||ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:safari|travel (voyage, trip)||viaje||||旅行||||यात्रा (सफ़र)|||||vojaĝo|matka (reissu)|podróż
-safara|safara||||travel||viajar|||||||||||||vojaĝi|matkustaa|podróżować
-safarer|safarer||||traveler||viajero|||||||||||||vojaĝanto|matkailija|podróżnik
-safariste|safariste||||tourist|touriste|turista||||||||||||||turisti|turysta
-safaristia|safaristia||||tourism||turismo||||||||||||||turismi|turystyka
-safer|safer||||cleaner||limpiador|||||||||||||purigisto|siivooja|sprzątacz, sprzątacz
-safi|safi|||swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|clean (pure)||limpio||||||||साफ़|||||pura|puhdas (siivo, siisti)|czysty
+sab:a|saba||||cause (be the cause for)||causar||||||||||||||aiheuttaa (olla syynä)|spowodować, powodować
+sab:e|sabe|||heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|reason (cause)||razón (causa)|||||||||||||kialo|syy|powód, przyczyna
+sabat:e|sabate||||Sabbath||sabbat||||||||||||||sapatti|szabat, szabas
+sabun:|sabun|||ara:(ṣābūn), tur:sabun, swa:sabuni, hin:साबुन (sābun), por:sabão, spa:jabón, fra:savon|soap||jabón||||肥皂||||साबुन||sabun|sabuni|sabun|sapo|saippua|mydło
+sad:i|sadi|||tur:sade, fas:(sāde), hin:सादा (sādā)|plain (ordinary, unadorned, simple, mere)||sencillo (liso)||||||||सादा||||sade||koruton (tavanomainen, pelkkä)|zwykły, zwyczajny, prosty
+saf:a|safa||||clean (purify)||limpiar|||||||||||||purigi|puhdistaa (siivota)|wyczyścić, czyścić
+saf:i|safi|||swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|clean (pure)||limpio||||||||साफ़|||||pura|puhdas (siivo, siisti)|czysty
+saf.er:|safer||||cleaner||limpiador|||||||||||||purigisto|siivooja|sprzątacz, sprzątacz
+safar:|safar|||ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:safari|travel (voyage, trip)||viaje||||旅行||||यात्रा (सफ़र)|||||vojaĝo|matka (reissu)|podróż
+safar:a|safara||||travel||viajar|||||||||||||vojaĝi|matkustaa|podróżować
+safar.er:|safarer||||traveler||viajero|||||||||||||vojaĝanto|matkailija|podróżnik
+safar.ist:e|safariste||||tourist|touriste|turista||||||||||||||turisti|turysta
+safar.ist:ia|safaristia||||tourism||turismo||||||||||||||turismi|turystyka
 safran|safran|||ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|saffron||azafrán||шафран|||||||||||safrano|sahrami|szafran
-saga|saga||||tell (narrate)||relatar (narrar)|||||||||||||rakonti|kertoa|opowiedzieć, opowiadać
-sage|sage|||eng:spa:por:may:saga, deu:Sage, rus:сага (saga)|tale (story, legend, saga)||historia (cuento, relato, leyenda)|||||||||||||rakonto|kertomus (tarina, saaga)|opowiadanie, opowieść, legenda, saga
-saha|saha||||correct (make right)||corregir|||||||||||||pravigi|korjata (tehdä oikeaksi)|poprawić, poprawiać, prostować, korygować
-sahi|sahi|||hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|right (correct, accurate)|correct (juste)|correcto (justo)|correto (justo)|правильный|صَحِيح|正确|正しい|옳다|phải (đúng)|सही||betul (benar)|sahihi|doğru|ĝusta (prava)|oikea (paikkansapitävä)|właściwy, poprawny
+sag:a|saga||||tell (narrate)||relatar (narrar)|||||||||||||rakonti|kertoa|opowiedzieć, opowiadać
+sag:e|sage|||eng:spa:por:may:saga, deu:Sage, rus:сага (saga)|tale (story, legend, saga)||historia (cuento, relato, leyenda)|||||||||||||rakonto|kertomus (tarina, saaga)|opowiadanie, opowieść, legenda, saga
+sah:a|saha||||correct (make right)||corregir|||||||||||||pravigi|korjata (tehdä oikeaksi)|poprawić, poprawiać, prostować, korygować
+sah:i|sahi|||hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|right (correct, accurate)|correct (juste)|correcto (justo)|correto (justo)|правильный|صَحِيح|正确|正しい|옳다|phải (đúng)|सही||betul (benar)|sahihi|doğru|ĝusta (prava)|oikea (paikkansapitävä)|właściwy, poprawny
 Sahrawia|Sahrawia|desh|||Sahrawi Arab Democratic Republic||República Árabe Saharaui Democrática|||||||||||||||Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)
 said:a|saida||||hunt (fish)|chasser|cazar (pescar)|caçar|охотиться||打猎|狩る||||||||ĉasi|pyytää (metsästää, kalastaa)|polować (łowić)
 said:a pesh:|saida pesh||||catch fish||pescar|||||||||||||||łapać rybę
 said:e|saide|||ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)|hunting (fishing)||||||狩猎|狩り (狩猟)||||||||ĉasado|pyynti (metsästys, kalastus)|polowanie (łowienie)
 said.er:|saider||||hunter||cazador|||صياد‎|狩人|||||||||ĉasisto|pyytäjä (metsästäjä, kalastaja)|łowca (myśliwy)
-sake|sake|||deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|bag (sack)|sac|saco|saco|||||||||||||pussi (säkki, kassi, laukku)|torba, wór, worek, torba, sakwa
-sal|sal|||por:spa:sal, eng:salt, rus:соль (solʹ)|salt|sel|sal|sal|соль||盐||||नमक||garam||tuz|salo|suola|sól
-salade|salade|||fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|salad||ensalada||||||||||||||salaatti|sałatka
+sak:e|sake|||deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|bag (sack)|sac|saco|saco|||||||||||||pussi (säkki, kassi, laukku)|torba, wór, worek, torba, sakwa
+sal:|salte|||eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|salt|sel|sal|sal|соль||盐|塩|소금 (염)|muối (diêm)|नमक|নুন|garam||tuz|salo|suola|sól
+sal:i|sali||||salty (saline)||salino|salino||||||||||||sala|suolainen|słony
+salad:e|salade|||fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|salad||ensalada||||||||||||||salaatti|sałatka
 salam (salami)|salam (salami)||||good (in greetings)||buen (hola)|||||||||||||bona (en salutoj)|hyvä (tervehdyksissä)|dobry ...
 salam chute|salam chute||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
 salam den|salam den||||Good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
@@ -2935,7 +2941,6 @@ salam sube|salam sube||||Good morning||buenos días|||||||||||||Bonan matenon!|H
 salam yam|salam yam||||bon appetit!||buen provecho|||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
 salama|salama||||greet||saludar|||||||||||||saluti|tervehtiä|pozdrowić, pozdrawiać
 salame|salame|||ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|greeting (hello)|salut (salam)|saludo|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluto|tervehdys (terve!)|pozdrowienie
-sali|sali||||salty (saline)||salino|salino||||||||||||sala|suolainen|słony
 salmon|salmon|biw||eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|salmon (trout)|truite|salmón (trucha)|||||鮭鱒|||||ikan salmon (ikan trout)|samoni||||łosoś (pstrąg)
 Salone|Salone|desh|SL||Sierra Leone||Sierra Leona||||||||||||||Sierra Leone|Sierra Leone
 Salvador|Salvador|desh|SV||El Salvador||El Salvador||||||||||||||El Salvador|Salwador
@@ -3097,19 +3102,24 @@ shope|shope|||eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼�
 shoper|shoper||||buyer||comprador|||||||||||||aĉetanto (aĉetisto)|ostaja|nabywca (kupiec)
 show|show|||eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|show (display, exhibition)||exposición (espectáculo)|||||||||||||montri (ekspozicii)|näytös (esitys, show)|pokaz, ekspozycja, wystawa
 showa|showa||||show (display, demonstrate)||mostrar||доказать (демонстрировать)|||見せる (示す, デモる)|||||||||näyttää|pokazać, pokazywać, wystawić, wystawiać
-shudu|shudu|||eng:should|should (ought)||deber (se recomienda)||следовать (нужно)||应该||||चाहिए||harus||gerekmek (-malı)|devus|pitäisi|powinien
+shudu|shudu|||eng:should|should (ought)||deber (se recomienda)|||||||||||||devus|pitäisi|powinien
 shukar:|shukar|||ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, tam:சக்கரை (cakkarai)|sugar|sucre|azúcar|açúcar|сахар|سُكَّر|糖|砂糖|||शक्कर|চিনি (শর্করা)|sakar|sukari|şeker|sukero|sokeri|cukier
+shukar:i|shukari||||sugary (sweet)||azucarado||||||||||||||sokerinen (makea)|słodki
 shukar.bet:e|shukarbete|biw|Beta vulgaris subsp. vulgaris, Altissima||sugar beet|betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла|||テンサイ (サトウダイコン)||||||||||burak cukrowy
 shukar.caw:|shukarcaw|biw|||sugarcane|Canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||甘蔗|サトウキビ|||गन्ना||tebu|muwa||||trzcina cukrowa
-shukar:i|shukari||||sugary (sweet)||azucarado||||||||||||||sokerinen (makea)|słodki
 shukar.oranj:e|shukaroranje|biw|Citrus × sinensis||sweet orange|orange douce|||апельсин|||オレンジ (アマダイダイ)||||||||||pomarańcza słodka (pomarańcza chińska)
-shul|shul|||zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)|repair (fix)||arreglo|||||||||||||riparo|korjaus|naprawa
-shula|shula||||repair (fix)||reparar (arreglar)|||||||||||||ripari|korjata|naprawić, naprawiać
-shuler|shuler||||repairer||reparadora|||||||||||||riparisto|korjaaja|naprawiacz
-shur:|shur||||beginning (start)||comienzo (inicio)|||||始め|||शुरू|শুরু|awal (mula)|awali (mwanzo)|başlangıç|komenco|alku|początek
+shul:|shul||||lesson (teaching)|leçon|lección|lição|урок (учение)|دَرْس‎|课||||||ajaran|funzo||leciono|oppi (opetus)|lekcja
+shul:a|shula||||learn (study)|apprendre (étudier)|aprender (estudiar)|aprender|учиться||学习|学ぶ|배우다|học (học tập)|सीखना|শেখা|belajar|kujifunza|öğrenmek|lerni (studi)|oppia (opiskella)|nauczyć się, uczyć się, studiować
+shul.er:|shuler||||student (pupil, learner)|étudiant|estudiante|||طَالِب‎|学生|学生|학생|học sinh (sinh viên)|विद्यार्थी|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento (lernanto)|oppilas|uczeń, student
+shul.is:a|shulisa||||teach (educate, instruct)|enseigner|enseñar|ensinar (lecionar)|учить (преподавать)|دَرَّسَ|教学|教える|||सिखाना (पढ़ाना)|শেখান|mengajar|kufundisha|öğretmek (ders vermek)|instrui|opettaa|
+shul.is.er:|shuliser||||teacher|professeur (enseignant)|maestro (profesor, docente)|professor (docente)|учитель|مُدَرِّس‎|教师 (老师)|先生 (教師)|선생 (교사)|giáo viên|शिक्षक (अध्यापक, टीचर, गुरु)|ওস্তাদ (মুয়াল্লিম, শিক্ষক)|pengajar (guru)|mwalimu|öğretmen (muallim)|instruisto|opettaja|nauczyciel
+shul.kamar:|shulkamar||||classroom|salle de classe|||||||||||||||luokkahuone|
+shul.kan:|shulkan|||deu:Schule, swa:shule, eng:school, hin:स्कूल (skūl), ben:স্কুল (śkul), rus:школа (škola) + fra:école, spa:escuela, por:escola, may:sekolah|school (institution)|école (collège)|escuela (colegio, institución)|escola (colégio)|школа |مَدْرَسَة‎|学校|学校|학교|trường học|विद्यालय (स्कूल, मद्रसा)|মকতব (স্কুল, মাদ্রাসা)|sekolah|shule (skule)|okul (mektep, madrese)|lernejo|koulu (opisto)|szkoła (instytucja)
+shul.shef:|shulshef||||headmaster (principal)|directeur (principal)|director de colegio|diretor|директор (ректор)||校长|校長|교장||||kepala sekolah (guru besar)|||lernejestro|rehtori|dyrektor szkoły
+shur:|shur|||ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|beginning (start, commencement, onset)|début (commencement)|comienzo (inicio, principio)|começo (início, princípio)|начало|بِدَايَة‎|开始|開始|시작||शुरू|শুরু|mula|||komenco|alku|początek
 shur:a|shura||||begin (start, commence, initiate)||comenzar (iniciar, empezar)||||开始||||||||başlamak|komenci|aloittaa|zacząć, zaczynać
 shur:i|shuri||||initial (first)||primer (inicial, inaugural)||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
-shur:u|shuru|||ara:شُرُوع (šurūʿ) fas:شروع (šoru'), hin:शुरू (śurū), ben:শুরু (śuru), pan:ਸ਼ੁਰੂ (śurū), mar:सुरु (suru), guj:શરૂ (śarū)|begin (get started)||comenzar (iniciarse, empezar)|||||||||||||komenciĝi|alkaa|zaczyna (zacząć, rozpoczynać, rozpocząć)
+shur:u|shuru||||begin (get started)||comenzar (iniciarse, empezar)|||||||||||||komenciĝi|alkaa|zaczyna (zacząć, rozpoczynać, rozpocząć)
 shusha|shusha||||silence (make silent)|||||||||||||||silentigi|hiljentää|uciszyć (uciszać)
 shushi|shushi||||silent||silencioso||тихий|||||||||||silenta|hiljainen|cichy
 shusho|shusho|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)||chito (chist)||||噓|しーっ|쉿|suỵt|||||||hiljaa (hys, shhh)|ćsi
@@ -3117,7 +3127,7 @@ shute|shute|||zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|sk
 shuti|shuti||||skillful (crafty)||hábil||||熟练||||||||||taitava|umiejętny (wprawny)
 siah:i|siahi|rang||fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|black|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny
 si|si|||spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
-sibiria|sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
+Sibir:ia|Sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
 sida|sida|||rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|sit (put down)||sentar||сидеть|||||||||||sidi|istua|siedzieć
 side|side||||seat (saddle)||silla (montura)||сиденье (седло)||座部 (马鞍)|座席 (鞍)||||||||||siedzenie (siodło)
 sidu|sidu||||sit down||sentarse|||||座る||||||||||usiąść
@@ -3575,10 +3585,6 @@ washurse|washurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär,
 wate|wate||||watt||vatio|||||||||||||vato|watti|wat
 waw|waw|||zho:哇 (wā), eng:wow|wow! (gee!)||guau (vaya)||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 we|we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
-wen:|wen|||zho:问 (wèn), wuu:问 (vén), jpn:問 (mon), kor:문 (mun), vie:vấn|question|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali|soru|demando|kysymys|pytanie
-wen:a|wena||||ask (inquire)|demander (poser un question)|preguntar (inquirir)|perguntar||سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza|sormak|demandi|kysyä|zapytać, spytać, pytać
-wen.an:|wenan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
-wen.dokum:|wendokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 Wenjou|Wenjou||||Wenzhou||||||温州|||||||||||Wenzhou
 wenjoworanje|wenjoworanje||||satsuma mandari|mandarine satsuma|unshu mikan||мандарин уншиу||温州蜜柑|ウンシュウミカン||||||||||mandarynka Satsuma (pomarańcza Satsuma)
 weste|weste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west||oeste||||||||||||||länsi|zachód

@@ -149,7 +149,7 @@ Arabic - arabi
 arachnophobia - aranfobia  
 arboretum - mokojongoparke  
 archer - arker  
-archery - arkia  
+archery - arkeria  
 archipelago - nesia  
 Arctic - Artike  
 Arctic Ocean - Artiki Hay  
@@ -185,7 +185,7 @@ ash (ashes) - huy
 ash tree - yasen  
 Asia - asia  
 Asian - asi  
-ask (inquire) - wena  
+ask (inquire) - eska  
 ask (request, beg; please) - pliza  
 asparagus - lusun  
 aspirin - aspirin  
@@ -317,9 +317,9 @@ beehive (honeycomb) - melvesponizde
 beer - bir  
 beetroot - bete  
 before (in the past) - paso  
-begin (get started) - kaishu  
-begin (start, commence, initiate) - kaisha  
-beginning (start) - kaish  
+begin (get started) - shuru  
+begin (start, commence, initiate) - shura  
+beginning (start, commencement, onset) - shur  
 behave (act) - manira  
 behavior (manners) - manir  
 Beijing (Peking) - Beijing  
@@ -543,7 +543,7 @@ castle (fortress, stronghold) - burge
 cat - maw  
 Catalonia - katalunia  
 catch (capture, seize, snatch, intercept) - kapa  
-catch fish - kapa fish  
+catch fish - kapa pesh  
 Caucasia - Kaukasia  
 cauldron - dayvaze  
 cause (be the cause for) - saba  
@@ -634,7 +634,7 @@ clarify (clear up) - klara
 class (category) - klas  
 classic (classical) - puranyangi  
 classify (categorize) - klasa  
-classroom - darsokamar  
+classroom - shulkamar  
 clay - glutopote  
 clean (pure) - safi  
 clean (purify) - safa  
@@ -841,8 +841,8 @@ Côte d’Ivoire (Ivory Coast) - Kotedivuar
 dagger - kanjar  
 daimyo oak - dantobalute  
 daisy - margarite  
-damage (injury, harm) - damaje  
-damaged (corrupt) - damaji  
+damage (injury, harm) - avar  
+damaged (corrupt) - avari  
 dance - dance  
 dandelion - makanful  
 danger (peril) - hatre  
@@ -1189,10 +1189,10 @@ fir tree - abite
 fire (burning) - hoge  
 fireworks (pyrotechnics) - hogotehne  
 first (number one) - nombre un  
-fish - fish  
-fish tank - fishotanke  
-fisher - fishosaider  
-fishhook - fishohuke  
+fish - pesh  
+fish tank - peshotanke  
+fisher - peshosaider  
+fishhook - peshohuke  
 five (5) - limi  
 fix (attach) - fiksa  
 fjord - fiorde  
@@ -1231,7 +1231,7 @@ forenoon - suboden
 forest (woods, jungle) - jangle  
 forget - anmema  
 fork - forke  
-form (questionaire) - wendokum  
+form (questionaire) - eskodokum  
 form (shape) - forme  
 formatting - kitaborupe  
 forum (public space) - forum  
@@ -1433,15 +1433,15 @@ happy (delighted) - suki
 harbor (seaport) - suyporte  
 hard (tough) - gati  
 hardship (difficulty, challenge) - kunan  
-harm (damage) - damaja  
-harmful (damaging) - damajani  
+harm (damage) - avara  
+harmful (damaging) - avarani  
 harmonious - harmoni  
 harmony - harmonia  
 harness - harnes  
 hashish - hashish  
 hassium - hasem  
 hat (cap) - tope  
-hate - hen  
+hatred (hate) - hen  
 have (keep, possess) - tena  
 have sex - seksa  
 Hawaii - Hawayi  
@@ -1450,8 +1450,8 @@ hay - gangras
 hazard (chance) - zar  
 he or she or it - le  
 head - sar  
-headmaster (principal) - darsoshef  
-heal (cure) - medika  
+headmaster (principal) - shulshef  
+heal (cure, remedy) - medika  
 health - sihe  
 healthy - sihi  
 hear (listen) - auda  
@@ -1587,7 +1587,7 @@ infinity - anlimitia
 inflammation (-itis) - itis  
 inform (communicate) - informa  
 information - informe  
-initial (first) - kaishi  
+initial (first) - shuri  
 inject - jusha  
 injection - jush  
 ink - moge  
@@ -1611,7 +1611,7 @@ international - nasmedi
 internet - internete  
 interpreter (translator) - tarjer  
 interracial - rasmedi  
-interrogative - wenan  
+interrogative - eskan  
 invite - pliza laya  
 Io - Io  
 iodine - iodem  
@@ -1631,7 +1631,7 @@ island - nes
 Isle of Man - Manin nes  
 ism (doctrine, ideology, religion, etc) - istia  
 Israel - Israel  
-issue (affair, concern) - masle  
+issue (affair, concern) - saltem  
 Italy - Italia  
 ####J - J  
 jackal - shakal  
@@ -1661,9 +1661,10 @@ Jordan - Urdun
 joule (J) - jul  
 journalist - gazeter  
 Judaism - yehudistia  
-judge (referee) - hakimer  
-judge - hakima  
-judgment (sentence) - hakim  
+judge (referee) - juder  
+judge - juda  
+judgment (sentence) - jude  
+judicial - judi  
 judo - judaw  
 jug (jar, pitcher) - jar  
 juice - jus  
@@ -1690,7 +1691,7 @@ kelp forest - algojangle
 kelvin - kelvin  
 Kenya - Kenya  
 ketchup - kechape  
-kettle - ketel  
+kettle - ketle  
 key (push-button, switch) - buton  
 key - chabe  
 key lime - kagujolimon  
@@ -1765,7 +1766,7 @@ leader (director) - lider
 leaf (sheet) - warke  
 league (association) - lige  
 leak - lowa  
-learn (study) - darsa  
+learn (study) - shula  
 leash (rein) - lidokorde  
 least (minimally) - minim (minimo)  
 leave (go out, exit) - chuta  
@@ -1784,7 +1785,7 @@ lengthen (prolong) - longa
 lens - lense  
 Lesotho - Soto  
 less - min (mino)  
-lesson - darse  
+lesson (teaching) - shul  
 let's - haida  
 letter (character, written symbol) - harfe  
 lettuce - letis  
@@ -1829,6 +1830,7 @@ lip - labe
 liquid - liwmate  
 list (listing, catalogue) - liste  
 listen - ora  
+literature (body of written works) - kitabia  
 lithium - litem  
 Lithuania - Lietuva  
 Lithuanian - lietuvi  
@@ -2109,7 +2111,8 @@ move (migrate, relocate) - migra
 move (transfer, change place) - kina  
 move oneself - kinu  
 movement - kin  
-movie (cinema) - kingraf  
+movie (cinema) - kinograf  
+movie theatre - kinografokan  
 Mozambique - Mozambike  
 MSG (monosodium glutamate) - wijin  
 mud (mire) - pote  
@@ -2602,7 +2605,8 @@ process (procedure) - proces
 produce (create, make) - chana  
 production - chania  
 productive (fertile) - chanivi  
-profession (occupation) - pesh  
+profession (occupation) - peykar  
+professional (pro) - peykarer  
 professor - profesor  
 program (set of structured activities) - program  
 programmer (coder) - programer  
@@ -2646,7 +2650,7 @@ qualify (describe) - sifa
 quark (paneer) - panir  
 quartz - kuarce  
 queen - femi rajer  
-question - wen  
+question (query, inquiry) - eske  
 quotation mark - citi marke  
 quote (cite) - cita  
 Quran (Koran) - kuran  
@@ -2714,9 +2718,9 @@ remove (delete, dispose, erase) - anzaya
 remove (take away) - kita  
 renew (make new, renovate) - nova  
 rent out (let, lease) - kirisa  
-repair (fix) - shul  
-repair (fix) - shula  
-repairer - shuler  
+repair (fix) - reybon  
+repair (fix, mend) - reybona  
+repairer - reyboner  
 repeat (iterate) - reya  
 repetition - rey  
 report (recount, relate) - reporta  
@@ -2837,7 +2841,7 @@ Saint Vincent - Santi Vincente
 Saint Vincent and Grenadines - Santi Vincente e Grenadine  
 salad - salade  
 salmon (trout) - salmon  
-salt - sal  
+salt - salte  
 salty (saline) - sali  
 samarium - samarem  
 same (equal) - sami  
@@ -2872,7 +2876,7 @@ scarcity - shawia
 scare (frighten) - foba  
 scarf (shawl) - shal  
 scent (odor, fragrance, aroma) - arom  
-school (institution) - darsia  
+school (institution) - shulkan  
 science (study, research) - lojia  
 scissors (shears) - makas  
 score (grade) - puntonombre  
@@ -2973,7 +2977,7 @@ show (display, demonstrate) - showa
 show (display, exhibition) - show  
 shower - dush  
 shrimp (prawn) - krevete  
-Siberia - sibiria  
+Siberia - Sibiria  
 sibling (brother or sister) - saudar  
 sickness (illness, disease) - patia  
 side (flank) - late  
@@ -3152,7 +3156,7 @@ strip (peel) - tira pil
 strong - forti  
 strontium - estrontem  
 struggle (strife) - jihade  
-student (pupil, learner) - darser  
+student (pupil, learner) - shuler  
 studio - estudia  
 stupid (idiotic) - idioti  
 submission (surrender) - islam  
@@ -3249,7 +3253,8 @@ taximeter - taksometer
 tea - chay  
 tea cup - chaykupe  
 tea house - chaykan  
-teacher - darsoguru'  
+teach (educate, instruct) - shulisa  
+teacher - shuliser  
 team - tim  
 tear (rip, edge) - chir  
 tear (rip, split) - chira  

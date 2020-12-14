@@ -112,6 +112,7 @@ atlantokade - morue de l'Atlantique
 atlantosamon - saumon altentique  
 aur - or  
 auroranje - kumquat  
+avar - dommage  
 avgani - afghan  
 Avganistan - Afghanistan  
 ay - aïe!  
@@ -234,10 +235,8 @@ cirkosheke - pavé
 ####D - D  
 daka - couvrir  
 dalil - preuve  
-damaje - dommage  
 dance - dance  
 danger - cloche  
-darsokamar - salle de classe  
 date - données  
 datobanke - base de données  
 daydom - palais (château, manoir)  
@@ -290,6 +289,8 @@ emoje - émoticône (emoji)
 englofoni - anglophone  
 englomargarite - pâquerette  
 esa - être  
+eska - demander (poser un question; est-ce que)  
+eske - question  
 eskaltan - vigne  
 Eskandia - Scandinavie  
 eskulter - sculpteur  
@@ -314,8 +315,6 @@ feymush - chauve-souris
 feyu - voler  
 filsofia - philosophie  
 fiorde - fiord  
-fishohuke - hameçon  
-fishosaider - pêcheur  
 fitolojia - botanique  
 fleche - flèche  
 fora - forer (percer)  
@@ -401,6 +400,7 @@ helisbabul - acacia faux-gommier
 helisviman - hélicoptère  
 hem - hum  
 hemahe - tente  
+hen - haine  
 hewan - animal (bête)  
 hewanjenisia - élevage  
 hewanparke - zoo  
@@ -454,6 +454,7 @@ jiraf - giraffe
 jive - vie  
 jivi - vivant  
 jovani moke - pousse  
+juder - juje  
 jul - joule (J)  
 jung - centre  
 jungofon - voyelle  
@@ -520,12 +521,13 @@ kim - substance
 kimem - élément chimique  
 kimlojia - chimie  
 kina - mouvoir (bouger)  
-Kinshasa - Kinshasa  
 kinu - se mouvoir  
+Kinshasa - Kinshasa  
 kiti - parti  
 kitu - aller (quitter)  
 kitaba - écrire  
 kitabe - écriture  
+kitabia - littérature  
 kitabokan - bibliothèque  
 kitabomashin - machine à écrire  
 kiwi' - kiwi  
@@ -708,6 +710,7 @@ monoki lense - monocle
 mos - mousse  
 mosi - moussu  
 mosim - saison  
+moter - moteur  
 muke - visage  
 mul - racine  
 mur - mur  
@@ -801,8 +804,12 @@ pendokardon - chardon penché
 perkardon - cirse commun  
 pes - argent  
 pesdiske - monnaie (pièce)  
+pesh - poisson  
+peshohuke - hameçon  
+peshosaider - pêcheur  
 petre - roche (pierre)  
 petronefte - pétrole (essence)  
+peykar - profession (métier)  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pikosape - pioche  
@@ -858,6 +865,9 @@ retroguli sense - nausée
 retrotikete - Aller-retour  
 retru - retourner (revenir)  
 rey - répétition  
+reybon - réparation  
+reybona - réparer  
+reyboner - réparateur  
 reya - répéter  
 rezulte - effet  
 richi - riche  
@@ -883,7 +893,7 @@ safariste - touriste
 sahi - correct (juste)  
 saida - chasser  
 sake - sac  
-sal - sel  
+salte - sel  
 salame - salut (salam)  
 salmon - truite  
 saman - ciel  
@@ -933,6 +943,15 @@ shukar - sucre
 shukarbete - betterave à sucre (betterave sucrière)  
 shukargras - Canne à sucre  
 shukaroranje - orange douce  
+shul - leçon  
+shula - apprendre (étudier)  
+shuler - étudiant  
+shulisa - enseigner  
+shuliser - professeur (enseignant)  
+shulkamar - salle de classe  
+shulkan - école (collège)  
+shulshef - directeur (principal)  
+shur - début (commencement)  
 si - oui  
 sifloge - adjectif  
 sihe - santé  
@@ -1061,8 +1080,6 @@ washurse - raton laveur
 wayoyam - piquenique  
 waytira - tender  
 weki - éveillé  
-wen - question  
-wena - demander (poser un question)  
 wenjoworanje - mandarine satsuma  
 wolfe - loup  
 Wolof - wolof  
