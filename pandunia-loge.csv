@@ -1547,8 +1547,6 @@ kariba|kariba||||approach (get near)||axproximarse||||||||||||||lähestyä|zbli�
 karibe|karibe||||proximity||proximidad|||||||||||||||bliskość
 karibi|karibi|||ara:fas:urd:(qarīb), swa:karibu, tur:takribi|near (close)||cerca|||||||||||||proksima|läheinen|bliski
 karibo|karibo||||nearly (closely, almost)||casi (aproximadamente)||||||||||||||lähes (melkein)|blisko (niemal, prawie)
-karier:|karier|||eng:career, spa:carrera, por:carreira, rus:карьера (karyera), tur:kariyer, may:karier, jpn:キャリア (kyaria)|profession (career, occupation, trade, vocation)|carrière|profesión (ocupación, carrera)|carreira|профессия (карьера)|مِهْنَة‎|职业|職業 (キャリア)|||पेशा|পেশা|pekerjaan (karier, profesion)|kazi (shughuli)|meslek (kariyer, uğraşı)|metiero|ammatti|profesja, zajęcie, zawód
-karier:i|karieri||||professional (occupational, career)||profesional (de carrera)||профессиона́льный|||プロフェッショナル|||||ahli||profesyonel|||
 karimi|karimi|||ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|generous (charitable)|généreux|generoso (dadivoso, caritativo)|||||||||||karimu|||vieraanvarainen (antelias, hyväntahtoinen)|hojny (szczodry)
 karimia|karimia||||generosity (charity)|générosité (charité)|generosidad (caridad)|generosidade||||||||||ukarimu|||anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)|hojność (szczodrość)
 karite|karite|||wol:kaarite, fra:spa:karité, ful:kaare, kareje, hau:kaɗanya|shea (vitellaria)||karité||||||||||||||voipuu|masłosz Parka
@@ -1917,7 +1915,7 @@ limonrangi|limonrangi|rang|||yellow||amarillo|||||||||||||flava|keltainen|żół
 lince|lince|biw|Lynx|eng:fra:lynx, spa:por:lince, hin:लिंक्स (links)|lynx|lynx|lince|lince|рысь||猞猁 (山貓)|大山猫|||लिंक्स||||vaşak|linko|ilves|ryś
 linfe|linfe|||eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|lymph||linfa||||||||||||||lymfa|limfa
 link:a|linka||||connect (join, link)||conectar (empalmar, enlazar, vincular)|relier (connecter)|соединить (подключить)||连接|繋ぐ|||जोड़ना (jodana)||menyambung (berangkai)|kuungana|bağlamak||yhdistää|łączyć, wiązać, złączyć
-link:e|linke|||eng:link, fra:lien, deu:Link, fas:لینک • (link), jpn:リンク (rinku) + yue:連結 (lin4 git3), hak:連結 (lièn-kiet), vie:liên kết|joint (link)|lien|juntura (conexión, enlace)|conexão (vínculo, laço)|связь (ссылка)||联系|繋がり (リンク)|||संयुक्त|সংযোগ|||bağ||yhdistys (sidos)|połączenie, złącze, styk
+link:e|linke|||eng:link, fra:lien, deu:Link, fas:لینک • (link), jpn:リンク (rinku) + zho:連結 (liánjié), yue:連結 (lin4 git3), hak:連結 (lièn-kiet), vie:liên kết|joint (link)|lien|juntura (conexión, enlace)|conexão (vínculo, laço)|связь (ссылка)||联系|繋がり (リンク)|||संयुक्त|সংযোগ|||bağ||yhdistys (sidos)|połączenie, złącze, styk
 linye|linye|||eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|line (stripe)|ligne|raya (linea)|linha|линия|||||||||||lineo|viiva (linja)|linia, pas, pręga, smuga
 linyoparche|linyoparche||||line break (newline)||nueva línea||||||||||||||rivinvaihto|złamanie lini
 lisan|lisan|||ara:(lisān), amh:ልሳን (ləsan), may:tur:lisan, hin:लिसान (lisān),|tongue|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|język
@@ -2605,8 +2603,10 @@ pete|pete|badan||ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(b
 petre|petre|||hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|rock|roche (pierre)|roca (piedra)|rocha (pedra)|горная порода||||石 (岩)|石||पत्थर||||roko|kallio (kivi)|skała
 petronefte|petronefte||||petroleum|pétrole (essence)|petróleo|petróleo|нефть||石油|石油||||||||||ropa naftowa
 pey|pey|||eng:pay, fra:paye, + zho:费 (fèi)|payment||pago||||||||||||||maksu|zapłata, opłata
-pey.kar:|peykar||||profession (occupation)|profession (métier)|profesión (ocupación)|profissão|профессия|مِهْنَة‎|职业|職業|직업|nghề nghiệp|पेशा|পেশা|profesi||meslek|metiero|ammatti|profesja, zajęcie, zawód
+pey.kar:|peykar||||profession (job, occupation, trade, vocation)|profession (métier)|profesión (ocupación)|profissão|профессия|مِهْنَة‎|职业|職業|직업|nghề nghiệp|पेशा|পেশা|profesi||meslek|metiero|ammatti|profesja, zajęcie, zawód
 pey.kar.er:|peykarer||||professional (pro)||||профессионал (профи)|||プロフェッショナル|||||||||ammattilainen|
+pey.kar:i|peykari||||professional (occupational, career)||profesional (de carrera)||профессиона́льный|||プロフェッショナル|||||ahli||profesyonel|||
+pey.kar:i jive|peykari jive||||career (professional life)|carrière|carrera|carreira|карьера|‎||キャリア|||||karier|shughuli|kariyer|||
 peya|peya||||pay||pegar||||||||||||||maksaa|zapłacić, opłacić, płacić
 piano*|piano'|||eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:piyano, ara:بيانو‎ (biyānō), hin:पियानो (piyāno), ben:পিয়ানো (piẏano), jpn:ピアノ (piano)|piano||piano|||||||||||||piano|piano|pianino
 piaze|piaze|biw|Allium cepa|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|onion|oignon|cebolla|cebola|лук|بَصَل|洋葱|玉葱|양파|hành tây|प्याज|পেঁয়াজ|bawang|kitunguu|soğan|cepo|sipuli|cebula
