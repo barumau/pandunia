@@ -918,8 +918,9 @@ fin:a|fina||||finish (put an end to)||terminar (acabar)|||||||||||||fini|lopetta
 fin:i|fini||||last (final)||final (último)|||||||||||||lasta|viimeinen|ostatni, końcowy
 fiorde|fiorde|||nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|fjord|fiord|fiordo|fiorde|фьорд||峡湾|フィヨルド||||||||fjordo|vuono|fiord
 firuze|firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|turquoise gem||turquesa (piedra preciosa)||бирюза||绿松石|||||||||turkiso|turkoosi|turkus
-fit:e|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetation)||planta (vegetación)|||||||||||||planto|kasvi|roślina, sadzonka
+fit:e|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetable, vegetation)|plante (végétal)|planta (vegetal, vegetación)|planta (vegetal)|растение|نَبَات‎|植物|植物|식물|thực vật|पौधा|গাছ|tumbuh-tumbuhan|mmea|bitki (nebat)|planto|kasvi|roślina, sadzonka
 fit.o.loj:ia|fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
+fit.yam.ist:e|fityamiste||||vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
 fizik:e|fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
 fizik:ia|fizikia|||eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|physics (science)||física|||||||||||||fiziko|fysiikka|fizyk
 fizik.er:|fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
@@ -2203,11 +2204,11 @@ misalo|misalo||||for example|par exemple|por ejemplo|por exemplo|наприме�
 miser|miser||||sender (transmitter)||remitente||||||||||||||lähettäjä (lähetin)|nadawca
 misia|misia||||mission (transmission, emission)||emisión||||||||||||||lähetys|misja
 miskini|miskini||||poor (miserable)||pobre (miserable)|||||||||||||mizera|kurja (raukka)|biedny, mizerny
-Misre|Misre|desh|EG|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|Egypt|Égypte|Egipto|Egipto (Egito)|Египет||埃及|エジプト|이집트|Ai Cập|मिस्र|মিশর|Mesir|Misri|Mısır|Egipto|Egypti|Egipt
-misri|misri||||Egyptian||egipcio|||||||||||||egipta|egyptiläinen|egipski
+misr:i|misri||||Egyptian||egipcio|||||||||||||egipta|egyptiläinen|egipski
+Misr:ia|Misria|desh|EG|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|Egypt|Égypte|Egipto|Egipto (Egito)|Египет||埃及|エジプト|이집트|Ai Cập|मिस्र|মিশর|Mesir|Misri|Mısır|Egipto|Egypti|Egipt
 mita|mita||||meet||encontrar|encontrar|||聚会|会う|||मिलना||||||tavata|spotkać
 mite|mite|||eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|meeting (gathering)||reunión (junta, mitin)||||会议|会合 (会議, ミーティング)|회합 (회의)||बैठक (सभा, मीटिंग)||||||tapaaminen (kokous)|spotkanie, zebranie
-mitre|mitre|||eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|meter (100 cm)|mètre|metro|metro|метр|متر‎|米 (公尺)|メートル|미터|mét|मीटर|মিটার|meter|mita|metre|metro|metri|metr
+mitr:e|mitre|||eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|meter (100 cm)|mètre|metro|metro|метр|متر‎|米 (公尺)|メートル|미터|mét|मीटर|মিটার|meter|mita|metre|metro|metri|metr
 mode|mode|||fra:eng:mode, spa:por:modo|way (manner, mode)|mode (façon, manière)|modo (manera, forma)|modo (maneira, jeito)|||||||||||||tapa|sposób (metoda, tryb)
 model|model|||eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)|model (design)||modelar||||||||||||||malli|model, wzór, wzorzec, projekt
 modela|modela||||model (design)||modelo||||||||||||||mallintaa|modelować (projektować, zaprojektować)
@@ -2231,11 +2232,11 @@ moluske|moluske|biw|Mollusca|eng:mollusk, deu:Molluske, fra:mollusque, rus:мо�
 mome|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
 mon:i|moni||||only (sole)|seul (unique)|único|único|единственный||唯一|唯一の|유일한|duy nhất||||||ununura|ainoa (ainut)|jedyny (wyłączny)
 mon:o|mono|||ell:μόνος (monos), eng:deu:fra:por:spa:mono-, rus:моно- (mono-)|only (alone, solely, just)|seulement|solo|só|только||只有 (惟独)||||सिर्फ़|||||nur|vain (ainoastaan)|tylko
+mon.fit.yam.ist:e|monfityamiste||||vegan||vegano||||||||||||||vegaani|weganin (weganka)
 mon.ist:ia|monistia||||monism||monismo|||||||||||||monismo|monismi|monizm
 mon.krat:ia|monkratia||||autocracy (monarchy)||autocratia (monarquía)||||||||||||||yksinvaltius (autokratia, monarkia)|monarchia
 mon.log:e|monloge||||monolog|monologue|monólogo|monólogo|монолог||独白|独白 (独話)|||||||monolog||yksinpuhelu (monologi)|monolog
 mon.ok:i lens:e|monoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
-mon.vejet.yam.ist:e|monvejetyamiste||||vegan||vegano||||||||||||||vegaani|weganin (weganka)
 Monako|Monako|desh|MC||Monaco||Mónaco||||||||||||||Monaco|Monako
 mongoli|mongoli||||Mongol||mongol|||||||||||||mongola|mongoli|Mongolski
 Mongolia|Mongolia|desh|MN||Mongolia||Mongolia|||||||||||||Mongolio|Mongolia|Mongolia
@@ -3510,8 +3511,6 @@ var 6 (var sisi)|var 6 (var sisi)||||Saturday|samedi|sábado|sábado|суббо�
 var 7 (var seti)|var 7 (var seti)||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
 Vatikan|Vatikan|desh|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vaze|vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|pot (vase, bin, jar, jug)|vase|jarrón (bote)||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
-vejete|vejete|||eng:vegetable, spa:por:vegetal, fra:végétal|vegetable||vegetal||||蔬菜|||||||||legomo|kasvis|warzywo
-vejetyamiste|vejetyamiste|||eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
 venda|venda|||eng:vend, spa:por:vender, fra:vendre|sell (vend)|vendre|vender|vender|продать||卖|売る||||||||||sprzedać (sprzedawać)
 vendoshopa|vendoshopa||||trade (buy and sell)|commercer|comerciar|торговать|обмениваться|||売買する||||||||||handlować
 vendoshope|vendoshope||||trade (commerce)||comercio||||贸易|交易 (売買)||||||||||handel
@@ -3618,6 +3617,7 @@ yala|yala||||hurry (hasten)||meter prisa|||||||||||||rapidigi|kiirehtiä|popędz
 yam:|yam||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
 yam:a|yama|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|consume (eat or drink)||comer (bebir)|||||食べる||||||||manĝi (trinki)|nauttia (syödä, juoda)|skonsumować, konsumować, zjeść, jeść, wypić, pić)
 yam:i|yami||||delicious (yummy)||delicioso|||||美味しい|||||||||herkullinen (nami)|pyszny
+yam.fit:e|yamfite||||vegetable|légume|verdura (legumbre)|verdura (hortaliça, legume)|овощ||蔬菜||||सब्ज़ी|সবজি|||sebze|legomo|kasvis|warzywo
 yam.kamar:|yamkamar||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
 yam.nid:e|yamnide||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
 yam.shukar.caw:|yamshukarcaw|biw|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
