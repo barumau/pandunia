@@ -151,9 +151,9 @@ barka - féliciter
 barkoke - abricot  
 barshe - pluie  
 barshi - pluvieux  
-barshi mosim - mousson  
 barshochate - parapluie  
 barshokote - imperméable  
+barshomosim - mousson  
 barya - bloquer  
 baryer - barrière  
 basi - assez  
@@ -221,7 +221,6 @@ cheno - avant
 chenamen - destin  
 chendeno - hier  
 cherize - cerise  
-cherni - noir  
 chili' - piment  
 chir - déchirer  
 chira - déchirer  
@@ -281,6 +280,9 @@ dush - douche
 e - et  
 ekojeni - sauvage  
 ekor - écureuil  
+ekse - fuera (exterior)  
+eksotira - tender  
+eksoyam - piquenique  
 eletre - électricité  
 em - élément (unité fondamentale)  
 emoce - émotion  
@@ -302,6 +304,7 @@ europi - européen
 europobalute - chêne pédonculé  
 evanjil - évangile  
 ####F - F  
+facili - facile  
 faner - opposant (antagoniste)  
 fansoldisho - dans le sens antihoraire  
 fas - face (facette)  
@@ -347,8 +350,9 @@ galte - faute (erreur)
 galti - erroné  
 gamia - mariage  
 gamike - époux  
+gancaw - foin  
 gandum - blé  
-gangras - foin  
+garmomosim - été  
 garmozon - tropique  
 gas - gaz  
 gati - dur  
@@ -391,7 +395,8 @@ hato - voire (même)
 hatre - danger  
 hay - mer  
 hayalge - algues  
-haygras - posidonie (herbiers marins)  
+hayamirer - amiral  
+hacaw - posidonie (herbiers marins)  
 haygun - force navale (marine)  
 hayhiyar - concombre de mer  
 hayjel - méduse  
@@ -399,6 +404,7 @@ haytate - côte
 helisbabul - acacia faux-gommier  
 helisviman - hélicoptère  
 hem - hum  
+hema - considérer  
 hemahe - tente  
 hen - haine  
 hewan - animal (bête)  
@@ -420,7 +426,7 @@ horloger - horloge
 hotel - hôtel  
 huke - crochet  
 hukokrus - svastika (croix gammée)  
-hul - renard  
+huley - renard  
 huri - libre  
 huydarte - podzol  
 ####I - I  
@@ -434,6 +440,8 @@ itis - inflammation
 iva - avoir tendance à  
 ive - tendance  
 ####J - J  
+jagi - éveillé  
+jagu - despertarse  
  - carte à collectionner  
 jambul - prune de Java  
 janel - fenêtre  
@@ -511,6 +519,7 @@ karote - carotte
 karsi - rêche (rugueux, gros)  
 karsolimon - combava  
 kaske - carapace (coquille, coquillage, croûte)  
+katan - épée  
 katoglutobanze - presse-papier  
 katus - cactus  
 kava - creuser  
@@ -561,6 +570,7 @@ krevete - crevette
 kristal - cristal  
 krokodil - crocodilien  
 krokroke - grenouille  
+krote - taupe  
 kruasante - croissant  
 krus - croix  
 kuangia - mine  
@@ -572,6 +582,7 @@ kushloke - couch (couchette)
 kushu - être couché  
 ####L - L  
 lage - lac  
+laje - ordures  
 lalbawsheke - rubis  
 lali - rouge  
 laloranje - mandarine  
@@ -593,9 +604,10 @@ layu - venir
 lazanye - lasagne  
 lazuar - lapis-lazuli  
 legi - léger  
+lengomosim - hiver  
+lengomosimi - hivernal (hibernal)  
 lense - lentille  
 lenti - lent  
-lete - été  
 letis - laitue  
 liama' - lama  
 libel - libellule  
@@ -608,11 +620,12 @@ lilsheke - caillou
 limi - cinq (5)  
 limon - citron  
 lince - lynx  
+linke - lien  
 linye - ligne  
 lisan - langue  
 liste - liste  
 litre - litre  
-liwkope - entonnoir  
+liwkupe - entonnoir  
 loga - parler  
 logaslia - étymologie  
 loge - mot  
@@ -629,17 +642,15 @@ longoduro - longtemps
 longokrokodil - crocodile  
 longopipre - poivre long  
 lontre - loutre  
-lova - aimer  
-love - amour (affection)  
-lovi - cher  
-lover - amoureux  
 lugi - vert  
 lun - lune  
 luter - brigand (bandit)  
 lutheristi - luthérien  
 lutheristia - luthéranisme  
-luza tena - perder  
-luzer - perdant  
+luva - aimer  
+luve - amour (affection)  
+luvi - cher  
+luver - amoureux  
 ####M - M  
 magesem - magnésium  
 Magribe - Maroc  
@@ -649,6 +660,7 @@ makanful - dandélion
 malke - propriété (possession, bien)  
 malker - possédant (propriétaire)  
 mam - mère (maman)  
+mangi - occupé  
 manihayistia - manichéisme  
 manir - comportement (manière)  
 manse - viande  
@@ -666,7 +678,6 @@ maste - mât
 mate - matière  
 matur - adulte  
 maw - chat  
-may - fourmi  
 may (mayo) - plus  
 mayime - maximum  
 me - je (me)  
@@ -715,6 +726,7 @@ muke - visage
 mul - racine  
 mur - mur  
 murkaguje - papier peint  
+murche - fourmi  
 muskulbin - culturisme (musculation)  
 ####N - N  
 nade - rivière (fleuve)  
@@ -731,11 +743,6 @@ Neptun - Neptune
 netogeta - télécharger  
 neurcel - neurone  
 niche - dessous  
-nidan - nécessaire  
-nide - besoin  
-nidi - nécessiteux (dans le besoin)  
-nidoshina - fier  
-nidu - avoir besoin de  
 nilcentaur - Centaurée bleuet  
 nili - bleu  
 Nipon - Japon  
@@ -766,11 +773,11 @@ oselote - ocelot
 osidian - obsidienne  
 ostojamia - squelette  
 ostoshalke - scutelle  
-oton - automne  
 ####P - P  
 pace - paix  
 paciste - pacifiste  
 pacokade - morue du Pacifique  
+padomosim - automne  
 paduti - chu  
 pagre - turban  
 pake - paquet  
@@ -790,6 +797,7 @@ pari nombre - nombre pair
 Paris - Paris  
 parke - parc  
 parne - fougères  
+ - dolor  
 pasporte - passeport  
 pastopetre - magma  
 patike - patient  
@@ -801,6 +809,8 @@ pay - tarte
 peda - péter  
 pede - pet (vesse)  
 pendokardon - chardon penché  
+penta - peindre  
+pente - peinture  
 perkardon - cirse commun  
 pes - argent  
 pesdiske - monnaie (pièce)  
@@ -810,6 +820,7 @@ peshosaider - pêcheur
 petre - roche (pierre)  
 petronefte - pétrole (essence)  
 peykar - profession (métier)  
+peykari jive - carrière  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pikosape - pioche  
@@ -858,6 +869,7 @@ rapidi - vite (rapide)
 rari - rare  
 ras - race  
 rasmedi - interracial  
+ratibe - ordre  
 regopetre - grès  
 reste - reste  
 retro - en arrière  
@@ -882,6 +894,7 @@ Roma - Rome
 romkamil - Camomille Romaine  
 ros - rosée  
 rosta - rôtir  
+rototope - toupie  
 roze - rose  
 rozosamon - saumon rose  
 ruhe - psyché  
@@ -930,6 +943,9 @@ shef - chef
 sheke - pierre  
 shey - chose  
 sheyhal - situation (état de choses)  
+shibay - échec  
+shibaya tena - perder  
+shibayer - perdant  
 shing - étoile  
 shingofota - étinceler  
 shipa - mouiller  
@@ -941,7 +957,7 @@ shopa - acheter
 shope - shopping  
 shukar - sucre  
 shukarbete - betterave à sucre (betterave sucrière)  
-shukargras - Canne à sucre  
+shukarcaw - Canne à sucre  
 shukaroranje - orange douce  
 shul - leçon  
 shula - apprendre (étudier)  
@@ -953,6 +969,7 @@ shulkan - école (collège)
 shulshef - directeur (principal)  
 shur - début (commencement)  
 si - oui  
+siahi - noir  
 sifloge - adjectif  
 sihe - santé  
 sihi - sain  
@@ -978,6 +995,7 @@ sonu - dormir
 sor - serrure  
 sos - sauce  
 sosis - saucisse  
+sowa - chercher  
 suede - sueur  
 suki - heureux  
 sundari - beau  
@@ -1077,16 +1095,18 @@ vute - objet (article)
 warkalge - varech  
 warkolate - page  
 washurse - raton laveur  
-wayoyam - piquenique  
-waytira - tender  
-weki - éveillé  
 wenjoworanje - mandarine satsuma  
 wolfe - loup  
 Wolof - wolof  
-####X - X  
 ####Y - Y  
 yamnide - faim  
+yasen - frêne  
 yatimdom - orphelinat  
+yaw - besoin  
+yawi - nécessiteux (dans le besoin)  
+yawu - avoir besoin de  
+yawan - nécessaire  
+yawshina - fier  
 yesho - encore  
 Yesu - Jésus  
 yongopetre - lave  
@@ -1108,8 +1128,6 @@ zemmetria - géométrie
 zemnichi prizon - oubliette (cul de basse-fosse)  
 zeyil - verrue  
 zeze - mouche  
-zim - hiver  
-zimi - hivernal (hibernal)  
 zinje - gingembre  
 zombe - zombi  
 zon - zone  

@@ -10,6 +10,7 @@ aborigeno - aslaustrali
 abrikoto - barkoke  
 acida - suani  
 adjektivo - sifloge  
+admiralo (ŝiparestro) - hayamirer  
 adreso - adres  
 aerarmeo - airgun  
 aero - air  
@@ -53,17 +54,17 @@ alporti (venigi) - laya
 alta - gawi  
 altaro - pujomeze  
 aluminio - aluminem  
-amanto - lover  
+amanto - luver  
 ambasado - daisheria  
 ambasadoro - daisher  
 americio - amerikem  
 amerika - ameriki  
 Ameriko - Amerike  
-ami (ŝati) - lova  
+ami (ŝati) - luva  
 amika - dosti  
 amikeco - dostia  
 amiko - doste  
-amo - love  
+amo - luve  
 ampero - amper  
 amuza - wani  
 amuzi - wana  
@@ -124,7 +125,7 @@ aŭ - o
 aŭdi (aŭskulti) - auda  
 Aŭstralio - Australia  
 aŭto (ĉaro) - gar  
-aŭtuno - oton  
+aŭtuno - padomosim  
 ####B - B  
 babilejo - blableria  
 babili - blabla  
@@ -178,7 +179,7 @@ berkelio - berkelem
 Berlino - Berlin  
 besto - hewan  
 betono - beton  
-bezoni - nidu  
+bezoni - yawu  
 biblia - bibli  
 Biblio - biblia  
 biciklisto - cikliste  
@@ -239,7 +240,7 @@ buŝo - boke
 ####C - C  
 celi - dika  
 celo - dike  
-cent - honi  
+cent - shati  
 centono - centi'  
 centro - jung  
 cepo - piaze  
@@ -336,8 +337,8 @@ ejo (ujo, io) - -ia
 ejo - aria  
 ekrano - ekran  
 eksa- - eksa'  
-ekstera - wayi  
-ekstero - way  
+ekstera - eksi  
+ekstero - ekse  
 Ekvadoro - Ekuador  
 ekzemple - misalo  
 ekzemplo - misal  
@@ -397,7 +398,7 @@ Eŭropo - europe
 fabo aŭ pizo - dow  
 fabrikisto - fater  
 fabriko - fateria  
-facila - izi  
+facila - facili  
 fajna - faini  
 fajra - hogi  
 fajro - hoge  
@@ -434,7 +435,7 @@ filozofia - filsofi
 filozofio - filsofia  
 filozofo - filsofer  
 filtri - filter  
-fingro - fing  
+fingro - ungle  
 fini - fina  
 finna - suomi  
 Finnlando - Suomi  
@@ -458,7 +459,7 @@ fojo - mar
 forgesi - anmema  
 forko - forke  
 formigi - forma  
-formiko - may  
+formiko - murche  
 formo - forme  
 forno - tanur  
 forta - forti  
@@ -476,7 +477,7 @@ Francio - Francia
 franciumo - francem  
 frato aŭ fratino - saudar  
 fremda (nekonata) - anjani  
-fremda lando - waydeshia  
+fremda lando - eksodesh  
 freneza - foli  
 frenezeco - folia  
 freŝa - tazi  
@@ -485,7 +486,7 @@ frosto - himros
 frukto - pal  
 fumo - duman  
 fungo - fung  
-funkcii - funca  
+funkcii - funcu  
 furo - furete  
 furzo - pede  
 fusilo - paw  
@@ -495,7 +496,7 @@ gadolinio - gadolinem
 galaksio - galaksia  
 galerio (ekspozicio) - galeria  
 galiumo - galem  
-Gangoj - ganga  
+Gangoj - Ganga  
 garantio - garante  
 gardi - garda  
 gardisto - garder  
@@ -570,7 +571,7 @@ hejmo (loĝejo) - dom
 helikoptero - helisviman  
 helio - helem  
 helpo - helpe  
-herbo - gras  
+herbo - caw  
 heroa - viri  
 heroo - vir  
 hidrogeno - hidre  
@@ -703,7 +704,7 @@ kanuo (kanoto) - kanoe'
 kaoso (malordo) - haos  
 kapro - buze  
 kapti - kapa  
-kara - lovi  
+kara - luvi  
 karateo - karate  
 karavano - karvan  
 karbona dioksido - karbondulokside  
@@ -736,6 +737,7 @@ kilometro - kilomitre
 kio? - ke  
 kio? - ki shey  
 kiom? - ko multo  
+kipu -   
 kiso - chum  
 kiu (komencigas relativan frazon) - da  
 kiu? - ki ren  
@@ -785,7 +787,7 @@ koncerto - koncerte
 kondiĉo (postulo) - sharte  
 konduki - shofa  
 Konfuceo - konfuze  
-kongrui - macha  
+kongrui - konboni  
 konscia - budi  
 konstrui - bina  
 kontraŭ - kontra  
@@ -822,12 +824,12 @@ kristnasko - kristojen
 kristo - kriste  
 krizo - krize  
 Kroatio - Horvatia  
-krom (escepti) - chula  
+krom (escepti) - eksa  
 kromo - kromem  
 krono - koron  
 kruco - krus  
 krunviruso - koronvirus  
-ksenono - xenon  
+ksenono - eksenon  
 kubo - kube  
 kuko - keke  
 kukumo - pepin  
@@ -1085,7 +1087,7 @@ neĝo - him
 neŭrono - neurcel  
 ni - mome  
 ni faru... - haida  
-nigra - cherni  
+nigra - siahi  
 nihonio - niponem  
 Nikaragvo - Nikaragua  
 nikelo - nikel  
@@ -1116,7 +1118,7 @@ oazo - was
 obrelo - barshochate  
 Oceanio - Oceania  
 oceano - dayhay  
-ofte - chango  
+ofte - polmaro  
 oganesono - oganeson  
 ogro (trolo) - guy  
 ok (8) - bali  
@@ -1125,7 +1127,7 @@ oksigeno - okse
 okula - oki  
 okulo - oke  
 okulumi - oka  
-okupata - bizi  
+okupata - mangi  
 ol (kiel) - ko  
 olivo - zaitun  
 ombro - say  
@@ -1134,8 +1136,8 @@ opinii - raya
 opinio - ray  
 oranĝa - oranji  
 oranĝo - oranje  
-ordoni - komanda  
-ordono - komande  
+ordoni - amira  
+ordono - amir  
 orelo - or  
 orgaaninen (biologinen) - biwi  
 organismo - biw  
@@ -1193,6 +1195,7 @@ peniso - penis
 pensi - fikra  
 penso - fikre  
 pentri - penta  
+pentri - pente  
 perlo - lul  
 persa - farsi  
 persono - ren  
@@ -1264,8 +1267,8 @@ prezidento - prezidente
 preĝejo - eglis  
 preĝi - duwa  
 preĝo - duwe  
-printempo - chun  
-pripensi - hema  
+printempo - fulmosim  
+pripensi (rigardi ia) - hema  
 problemo - problem  
 produkti (fabriki) - chana  
 profesoro - profesor  
@@ -1333,10 +1336,9 @@ rezervo - rezerve
 rezino - rezin  
 reĝo aŭ reĝino - rajer  
 ridi - haha  
-rigardi ia - konsida  
 rilato - guanshe  
 rimarki - nota  
-ringo - fingoring  
+ringo - ungloring  
 rinocero - kornonos  
 ripari - reybona  
 riparisto - reyboner  
@@ -1449,7 +1451,7 @@ sola (ununura) - uniki
 soldato - gunren  
 sole - uniko  
 solido - gatomate  
-somero - lete  
+somero - garmomosim  
 sono - sonde  
 speciala - hasi  
 speco (tipo, stilo) - yang  
@@ -1597,6 +1599,7 @@ urbo - site
 urso - urse  
 utila - faidi  
 utileco - faidia  
+uyanık - jagi  
 uzi - uza  
 ####V - V  
 vaginito - vaginitis  
@@ -1629,7 +1632,7 @@ vespero - sham
 vesti - fuku  
 vestigi - fuka  
 vesto - fuke  
-vetero - tenke  
+vetero - samanhal  
 vi (ci) - te  
 vi ĉiu - tote  
 via (cia) - ti  
@@ -1643,8 +1646,8 @@ vilaĝo - ruste
 vinagro - sirke  
 vinbero - putaw  
 vino - vin  
-vintra - zimi  
-vintro - zim  
+vintra - lengomosimi  
+vintro - lengomosim  
 virino - maturi fem  
 viro - man  
 viro - maturi man  
@@ -1667,11 +1670,10 @@ volo - vol
 vortaro - logia  
 vortaro - logoliste  
 vorto (parolo) - loge  
-vosto - dum  
-vulpo - hul  
+vosto - vey  
+vulpo - huley  
 vulvo - vulve  
 ####W - W  
-####X - X  
 ####Y - Y  
 ####Z - Z  
 Zambio - Zambia  

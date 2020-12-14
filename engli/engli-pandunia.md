@@ -13,7 +13,7 @@ accent (stress) - acente
 accept (say okay) - okeya  
 access (admission, accessibility) - akses  
 access (reach, enter) - aksesa  
-accessibility (ease of access) - izia da akses  
+accessibility (ease of access) - facilia da akses  
 accessible (within reach) - aksesabli  
 accommodate - domisa  
 achoo - achu'  
@@ -29,6 +29,7 @@ actor (actress) - roler
 additional - mayi  
 address - adres  
 adjective - sifloge  
+admiral - hayamirer  
 adult - matur  
 adultery (infidelity) - zin  
 advance (progress, go forward, enter) - jinu  
@@ -122,7 +123,7 @@ animate - anima
 animation (cartoon) - anim  
 anniversary - nenfeste  
 answer (reply, response) - jawabe  
-ant - may  
+ant - murche  
 Antarctic Ocean - Antartiki Hay  
 Antarctica - Antartike  
 antenna (aerial) - anten  
@@ -214,12 +215,13 @@ auspicious (promising) - bonsinyi
 Australia - Australia  
 Australian Aboriginal - aslaustrali  
 Austria - Ostria  
+authority (power to give orders) - amirhake  
 autocracy (monarchy) - monkratia  
 autonomous - autonomi  
 autonomy - autonomia  
-autumn (fall) - oton  
+autumn (fall) - padomosim  
 avocado - awakate  
-awake - weki  
+awake - jagi  
 aware (enlightened) - budi  
 awe (wonder) - ajabia  
 axe (hatchet) - futaw  
@@ -371,7 +373,7 @@ bismuth - bismute
 bitter - amari  
 bitter melon - amarmelon  
 bitter orange - amaroranje  
-black - cherni  
+black - siahi  
 blacklist - haramliste  
 blacksmith (iron forger) - metaljanger  
 blast furnace - gawi tanur  
@@ -469,7 +471,7 @@ bush (shrub) - tali moke
 business (commercial activity) - biznes  
 businessperson (businessman) - bizneser  
 bust (bosom) - buste  
-busy (occupied) - bizi  
+busy (occupied) - mangi  
 but (whereas) - a  
 butcher - bucha  
 butcher - bucher  
@@ -530,6 +532,7 @@ carbon (coal) - karbon
 carbon dioxide - karbondulokside  
 card - karde  
 care (cure) - kura  
+career (professional life) - peykari jive  
 Caribbean - karaibia  
 carpenter - mokojanger  
 carpet (rug) - taltesh  
@@ -544,6 +547,7 @@ cat - maw
 Catalonia - katalunia  
 catch (capture, seize, snatch, intercept) - kapa  
 catch fish - kapa pesh  
+catch fish - saida pesh  
 Caucasia - Kaukasia  
 cauldron - dayvaze  
 cause (be the cause for) - saba  
@@ -698,7 +702,7 @@ comb - kang
 come (move closer) - layu  
 comic (cartoon) - grafsage  
 comma - kom  
-command line (console, terminal) - komandolinye  
+command line (console, terminal) - amirlinye  
 common (general, universal) - putongi  
 common (mutual) - koni  
 common (shared) - komuni  
@@ -711,7 +715,8 @@ company (corporation) - kompania
 compare (contrast) - para  
 compass (magnetized needle) - pontopin  
 compassion (sympathy) - samemoce  
-compatible (supported) - machabli  
+compassion - konpashia  
+compatible (supported) - konfuncubli  
 compatriot - samdeshi  
 compete (have a match) - mecha  
 compost - biwchaniver  
@@ -724,6 +729,7 @@ concrete (material with cement) - beton
 condition (requirement) - sharte  
 conduit (channel) - kanaler  
 cone - konus  
+conform (fit, mold) - konformu  
 Confucianism - konfuzistia  
 Confucious - konfuze  
 confuse (perplex) - konfusu  
@@ -732,9 +738,8 @@ Congo (Brazzaville) - Brazavil Kongo
 Congo Kinshasa - Kinshasa Kongo  
 congratulate (bless) - barka  
 congratulations! (blessing) - barke!  
-connect (join, link) - samuna  
+connect (join, link) - linka  
 consequence (back, follow-up) - bade  
-consider (regard) - konsida  
 consitution - bazokanun  
 consonant - kenarfon  
 conspiracy (plot) - sirplan  
@@ -860,7 +865,7 @@ day (daytime) - den
 day of the week - var  
 deactivate (disable, turn off) - anativa  
 dead (deceased) - morti  
-dear (beloved) - lovi  
+dear (beloved) - luvi  
 death - morte  
 debate (discuss) - lona  
 debug - angalta  
@@ -982,6 +987,7 @@ drug (intoxicating substance) - droge
 drum - gum  
 dry - gani  
 dry out - gana  
+dry season - ganmosim  
 dualism - dulistia  
 dubious (suspicious, unbelievable) - dutabli  
 dubnium - dubnem  
@@ -990,7 +996,7 @@ dumpling (ravioli, pelmeni) - pelmen
 dungeon (underground prison) - zemnichi prizon  
 dungeon crawl - donjon aventur  
 durable (sustainable) - durubli  
-duruka - yamshukargras  
+duruka - yamshukarcaw  
 dust (powder) - fun  
 dye - rangomate  
 dynamite - dinamite  
@@ -1003,13 +1009,13 @@ earn (gain) - ganya
 earth (ground) - zem  
 Earth (Terra) - Zemia  
 earthquake - zemsisme  
-ease - izia  
+ease (facility) - facilia  
 east (orient) - dong  
 East Timor (Timor-Leste) - Dongi Timor  
 Easter - paske  
 eastern - dongi  
 eastern gorilla - dongogoril  
-easy - izi  
+easy - facili  
 echo - mirsonde  
 ecology (study of environment) - ekolojia  
 Ecuador - Ekuador  
@@ -1030,8 +1036,8 @@ element (the simplest unit) - em
 elephant - gaje  
 embassy - daisheria  
 emerald - zumurude  
-emir - emir  
-emirate - emiria  
+emir - amirer  
+emirate - amiria  
 emoji (smiley, emoticon) - emoje  
 emotion (feeling) - emoce  
 emotional (emotive) - emoci  
@@ -1100,13 +1106,12 @@ excellence (quality, virtue) - bonsif
 excellent - bonsifi  
 except (minus) - mina  
 exchange (swap, replace, trade) - badla  
-exclude (except, save) - chula  
 excrement (shit) - kake  
 exercise - lenshe  
 exist (be present) - zayu  
 exit (leaving) - chute  
 exit door - chutomun  
-exonym - waynam  
+exonym - eksonam  
 expect (anticipate, predict, forsee) - chenvida  
 expected - chenvidi  
 expensive (costly) - kosti  
@@ -1114,7 +1119,8 @@ explode (blow up) - bumu
 explore (browse) - brauza  
 explorer (browser) - brauzer  
 explosion (blast, eruption) - bum  
-export - waymisa  
+export - eksomisa  
+extérieur - ekse  
 eye (look, watch) - oka  
 eye - oke  
 eyelash - okokesh  
@@ -1123,7 +1129,7 @@ face - muke
 face powder - mukofun  
 factory - fateria  
 fade - mirdu  
-failure (flop) - shibay  
+failure (loss, flop, miss, defeat) - shibay  
 faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirdi  
 Falkland Islands (Malvinas) - Malvinas nesia  
 fall - padu  
@@ -1179,8 +1185,8 @@ film (membrane, video) - filme
 filter - filter  
 find (discover) - eureka  
 fine (delicate) - faini  
-finger (toe) - fing  
-finger ring - fingoring  
+finger (toe) - ungle  
+finger ring - ungloring  
 finish (put an end to) - fina  
 finite (limited) - limiti  
 Finland - Suomi  
@@ -1225,8 +1231,8 @@ for example - misalo
 forbid (ban, disallow) - harama  
 forbidden (illicit, haram, taboo) - harami  
 force (strength, power) - fortia  
-foreign - waydeshi  
-foreign country - waydeshia  
+foreign - eksodeshi  
+foreign country - eksodesh  
 forenoon - suboden  
 forest (woods, jungle) - jangle  
 forget - anmema  
@@ -1240,7 +1246,7 @@ found - baza
 founder - bazer  
 fountain (spring, well) - fonte  
 four (4) - chari  
-fox - hul  
+fox - huley  
 frame - frem  
 France - Francia  
 franchise (right to vote) - votohake  
@@ -1253,7 +1259,7 @@ freedom (liberty) - huria
 freeze (get frozen) - aisu  
 French Guiana - Giyana  
 French Polynesia - Franci Polnesia  
-frequency - changia  
+frequency - polmaria  
 fresh - tazi  
 Friday - var 5 (var limi)  
 friend - doste  
@@ -1268,9 +1274,9 @@ fuck (copulate) - choda
 full (complete, saturated) - puri  
 fully (completely) - puro  
 fun (amusement) - wan  
-function (work) - funca  
+function (work) - funcu  
 fungus (mushroom) - fung  
-funnel - liwkope  
+funnel - liwkupe  
 funny (amusing) - wani  
 fusion (amalgamation) - liwunis  
 future time - wil  
@@ -1282,7 +1288,7 @@ gallery (exhibition hall) - galeria
 gallium - galem  
 Gambia - Gambia  
 game - gem  
-Ganges - ganga  
+Ganges - Ganga  
 Ganymede - Ganimede  
 garam masala - garmi masal  
 garbage (rubbish, trash) - laje  
@@ -1369,8 +1375,8 @@ granite - granite
 grape - putaw  
 grapefruit - putawlimon  
 graphic (pictorial) - grafi  
-grass - gras  
-grassland - grasistan  
+grass - caw  
+grassland - cawistan  
 grave (tomb) - gabre  
 gravel - grave  
 graveyard - gabristan  
@@ -1441,12 +1447,13 @@ harness - harnes
 hashish - hashish  
 hassium - hasem  
 hat (cap) - tope  
-hatred (hate) - hen  
+hate (despise) - hena  
+hatred (hate, resentment, odium) - hen  
 have (keep, possess) - tena  
 have sex - seksa  
 Hawaii - Hawayi  
 Hawaiian archipelago - Hawayi nesia  
-hay - gangras  
+hay - gancaw  
 hazard (chance) - zar  
 he or she or it - le  
 head - sar  
@@ -1535,14 +1542,13 @@ hummus - humusosos
 humor - yumor  
 humorist - yumoriste  
 humorous (comical, funny) - yumori  
-hundred (100) - honi  
+hundred (100) - shati  
 Hungary - Madyar  
 hunger - yamnide  
 hunt (fish) - saida  
 hunter - saider  
 hunting (fishing) - saide  
 hurry (hasten) - yala  
-hurt (pain) - tung  
 hurt - pasha  
 hush (shh) - shusho  
 hybrid (mongrel) - hibride  
@@ -1654,7 +1660,7 @@ Jerusalem - Urushalem
 Jerusalem artichoke (sunroot) - masmulsolful  
 Jesus - Yesu  
 Jewish - yehudi  
-joint - samun  
+joint (link) - linke  
 joke - joke  
 joker - joker  
 Jordan - Urdun  
@@ -1740,7 +1746,7 @@ lamp - lampe
 language (communication) - bash  
 lantern - hogosanduke  
 lanthanum - lantanum  
-Lao (Laotian) - lawi  
+Lao (Laotian) - Laoi  
 Laos - Lao  
 lapis lazuli - lazuar  
 larva (maggot, caterpillar) - larve  
@@ -1809,7 +1815,7 @@ life (existence) - jive
 light (bright) - foti  
 light (illumination) - fote  
 light (weightless) - legi  
-light blue (sky blue, azure) - samanonili  
+light blue (sky blue, azure) - samannili  
 lightning bolt - eletrorade  
 like (enjoy, be fond of) - suku  
 like - fila  
@@ -1860,20 +1866,20 @@ long pepper (pipli) - longopipre
 longitude - westodongia  
 look (see) - vida  
 loom - teksomashin  
-lose (fail, miss, be defeated) - luza  
-lose (shed, miss, misplace) - luza tena  
-loser - luzer  
-loss (failure, miss) - luze  
+lose (fail, miss, be defeated) - shibaya  
+lose (shed, miss, misplace) - shibaya tena  
+loser - shibayer  
+loss (failure, miss) - shibay  
 lot (plot of land) - zemtike  
-love (hold dear) - lova  
-love (liking, affection) - love  
+love (hold dear) - luva  
+love (liking, affection) - luve  
 love romantically - romansa  
-lover - lover  
+lover - luver  
 low (short) - tali  
 lower (inferior) - nichi  
 lower (put down) - tala  
-loyal (faithful, trustworthy) - nidoshinabli  
-loyalty (faithfulness) - nidoshinablia  
+loyal (faithful, trustworthy) - yawshinabli  
+loyalty (faithfulness) - yawshinablia  
 luggage (baggage) - bagaje  
 lunch - denyam  
 lung - pulmon  
@@ -1927,7 +1933,7 @@ management (-nomy) - nomia
 Mandarin Chinese (Putonghua) - Putong Chini  
 mandarin orange (tangerine) - laloranje  
 manganese - mangan  
-mango - mang  
+mango - mango  
 mangosteen - mangus  
 Manichaeism - manihayistia  
 mankind (humanity) - insania  
@@ -1963,7 +1969,7 @@ master (be an expert at sth) - mesta
 master (expert) - mester  
 master (sensei) - shense  
 match (contest) - meche  
-match (fit, suit, conform) - macha  
+match (fit, suit, go well together) - konboni  
 material (ingredient, resource) - faidomate  
 material - mati  
 mathematician - matiker  
@@ -2022,7 +2028,7 @@ micro- - mikro-
 Micronesia - Mikronesia  
 middle (center) - jung  
 middle (the part in between) - mede  
-Midsummer Day - medoleti den  
+Midsummer Day - garmomosimmedi den  
 migration (moving) - migre  
 military (martial, warlike) - jengi  
 milk (draw milk) - tira milke  
@@ -2081,7 +2087,7 @@ monocle - monoki lense
 monolog - monloge  
 monotheism - undewistia  
 monster - monster  
-Montenegro - Chernogora  
+Montenegro - Chernagora  
 month - mes  
 monument (memorial) - membin  
 mood (emotional state) - emocohal  
@@ -2162,11 +2168,11 @@ Nazi - naciste
 Nazism - nacistia  
 near (close) - karibi  
 nearly (closely, almost) - karibo  
-necessary (needed) - nidan  
-need (lack) - nidu  
-need (shortage, lack) - nide  
+necessary (needed) - yawan  
+need (lack) - yawu  
+need (shortage, lack) - yaw  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
-needy (lacking) - nidi  
+needy (lacking) - yawi  
 negotiate (arrange) - lona biznes  
 neodymium - neodimem  
 neon - neon  
@@ -2271,7 +2277,7 @@ office (room) - oficeria
 officer - oficer  
 official - ofici  
 offline - na linye  
-often (frequently) - chango  
+often (frequently) - polmaro  
 oganesson - oganeson  
 ogre (troll, goblin) - guy  
 oil - nefte  
@@ -2306,9 +2312,10 @@ orange (fruit) - oranje
 orange (orange-colored) - oranji  
 orchid - orkide  
 order (arrange) - ratiba  
-order (arrangement) - ratibe  
-order (command) - komande  
-order (issue a command) - komanda  
+order (arrangement, sequence) - ratibe  
+order (command) - amir  
+order (issue a command) - amira  
+orderly (organized, in sequence, tidy, regular) - ratibi  
 ordinary (customary, habitual, normal) - adi  
 organic - biwi  
 organism (organic life) - biw  
@@ -2330,10 +2337,9 @@ otter - lontre
 Ottoman - osman  
 Ottoman Empire - osmania  
 ouch (ow, alas) - ay  
-oust (expel) - waya  
+oust (expel, exclude, except, save) - eksa  
 outcast (pariah) - paray  
-outer (external) - wayi  
-outside (exterior) - way  
+outer (external) - eksi  
 oven (furnace) - tanur  
 overpass - supre  
 own (particle of possession) - du  
@@ -2352,7 +2358,8 @@ pack - paka
 pact (contract, covenant, alliance) - kontrate  
 page (side of a leaf of a book) - warkolate  
 painful - pashi  
-paint - penta  
+paint (cover in paint) - penta  
+paint - pente  
 painter - penter  
 Pakistan - pakistan  
 palace (mansion) - daydom  
@@ -2463,7 +2470,7 @@ pickaxe - pikosape
 pickle (pickled cucumber) - sirkopurshipi hiyar  
 pickle (preserve in vinegar or brine) - sirkopurshipa  
 pickled - sirkopurshipi  
-picnic - wayoyam  
+picnic - eksoyam  
 picture book - grafbuke  
 pidgin (contact language) - pijin  
 pie (pastry) - pay  
@@ -2542,11 +2549,11 @@ politician - politiker
 politics - politike  
 politocology - politikolojia  
 polonium - polskem  
-poly- (multi-) - polo  
+poly- (multi-) - pol-  
 polygon - polgon  
 polyhedron - polfas  
 polytheism - poldewistia  
-ponder (think) - hema  
+ponder (think, contemplate, consider, regard) - hema  
 pool (basin, bowl) - basen  
 poor (miserable) - miskini  
 popular (trendy) - fashoni  
@@ -2605,7 +2612,8 @@ process (procedure) - proces
 produce (create, make) - chana  
 production - chania  
 productive (fertile) - chanivi  
-profession (occupation) - peykar  
+profession (job, occupation, trade, vocation) - peykar  
+professional (occupational, career) - peykari  
 professional (pro) - peykarer  
 professor - profesor  
 program (set of structured activities) - program  
@@ -2677,7 +2685,7 @@ rainbow - rangarke
 rainbow trout - rangarkosamon  
 raincoat - barshokote  
 rainy - barshi  
-rainy season (monsoon) - barshi mosim  
+rainy season (monsoon) - barshomosim  
 raise (lift) - gawa  
 raisin - ganputaw  
 Ramadan - ramazan  
@@ -2844,7 +2852,7 @@ salmon (trout) - salmon
 salt - salte  
 salty (saline) - sali  
 samarium - samarem  
-same (equal) - sami  
+same (equal, match) - sami  
 Samoa - Samoa  
 San Marino - Santi Marino  
 sand - rege  
@@ -2883,7 +2891,7 @@ score (grade) - puntonombre
 scoreboard - puntobanze  
 Scotland - Eskotia  
 screen - ekran  
-screw - los  
+screw - vite  
 sculpt (carve) - eskulta  
 sculptor - eskulter  
 sculpture (art of sculpting) - eskultia  
@@ -2894,8 +2902,8 @@ sea anemone - hayful
 sea cucumber - hayhiyar  
 sea force (navy) - haygun  
 seaborgium - seaborgem  
-seagrass - haygras  
-search - sercha  
+seagrass - hacaw  
+search (seek, look for) - sowa  
 season - mosim  
 seat (saddle) - side  
 seaweed (macroalgae) - hayalge  
@@ -3102,7 +3110,7 @@ sponge - esponje
 spoon - chamache  
 sport (athletics) - kel  
 spouse (husband or wife) - gamike  
-spring (springtime) - chun  
+spring (springtime) - fulmosim  
 spruce tree - pis  
 square (tetragon) - chargon  
 squash (pumpkin, gourd) - kaboge  
@@ -3150,7 +3158,7 @@ strange (unknown) - anjani
 stray (deviant) - rutogalti  
 stray (deviate) - rutogalta  
 strengthen (reinforce) - forta  
-stretch (extend) - waytira  
+stretch (extend) - eksotira  
 strike (punch) - darba  
 strip (peel) - tira pil  
 strong - forti  
@@ -3177,14 +3185,14 @@ suffix for verbs with SVO word order - -a
 sugar - shukar  
 sugar beet - shukarbete  
 sugar-apple (sweetsop) - ata'  
-sugarcane - shukargras  
+sugarcane - shukarcaw  
 sugary (sweet) - shukari  
 suggest (propose) - suja  
 suggestion (proposal) - suje  
 sulfur - sulfe  
 sum (total) - sum  
 sum up (add together) - suma  
-summer - lete  
+summer - garmomosim  
 summon (add, spawn) - zaya  
 sun - sol  
 Sunday - var 7 (var seti)  
@@ -3197,7 +3205,6 @@ surname (family name) - familnam
 surpass (above, go over) - supra  
 surprise - suprize  
 surrender (submit, yield) - islamu  
-surrender (to give up) - salima  
 surround (encircle) - cirka  
 sushi - sushi'  
 suture (seam) - sutur  
@@ -3225,7 +3232,7 @@ table of contents (inventory) - tenliste
 tabulate - tabla  
 tactics (strategy) - tatike  
 taiga - taige  
-tail - dum  
+tail - vey  
 Taipei - taibey  
 Taiwan (Republic of China) - Taiwan  
 Tajikistan - Tajikia  
@@ -3376,7 +3383,7 @@ tool - tul
 tooth - dante  
 tooth brush - dantobrosh  
 top (peak, pinnacle, summit, apex, vertex) - pike  
-top (spinning top) - tol  
+top (spinning top) - rototope  
 top - gaw  
 topic (subject, theme) - tem  
 torch - fotobaton  
@@ -3419,7 +3426,7 @@ trouble (disturbance, bother) - mafan
 true (real, genuine) - veri  
 truly (indeed, very) - vero  
 trunk (torso) - torse  
-trust (rely) - nidoshina  
+trust (rely) - yawshina  
 try (attempt) - testa  
 tube (pipe) - tube  
 tuber (bulb) - masmul  
@@ -3462,10 +3469,10 @@ underside (underneath) - niche
 understand (realize) - aha  
 unexpected - anchenvidi  
 union - unisia  
-unit (measurement) - unmete  
+unit (measurement) - metrun  
 unite - unisa  
 united - unisi  
-United Arab Emirates - Unuti Arabi Emiria  
+United Arab Emirates - Unuti Arabi Amiria  
 United Kingdom - Britania  
 United States of America (USA) - Usamerikia  
 university - daydarsia  
@@ -3486,7 +3493,7 @@ Uruguay - Uruguay
 usable (available) - uzabli  
 use (employ, apply) - uza  
 use (utility, benefit, gain, advantage) - faidia  
-useful (beneficial) - faidi  
+useful (beneficial, advantageous) - faidi  
 user - uzer  
 username - uzernam  
 Uzbekistan - Uzbekia  
@@ -3552,7 +3559,7 @@ vowel - jungofon
 vulva - vulve  
 ####W - W  
 wait - denga  
-wake (make awake) - weka  
+wake (make awake) - jaga  
 Wales (Cambria) - Kamria  
 walk (march) - marchu  
 wall (structure for delimitation) - mur  
@@ -3586,7 +3593,7 @@ weak - debili
 wealth (fortune) - richia  
 weapon (arms) - arme  
 wear (have on clothes) - fuki  
-weather - tenke  
+weather - samanhal  
 weave - teksa  
 website - netoloke  
 Wednesday - var 3 (var tini)  
@@ -3633,9 +3640,9 @@ window frame - janelfrem
 wine - vin  
 winery - vineria  
 wing - wing  
-winter - zim  
+winter - lengomosim  
 winter melon (wax gourd, ash gourd) - mumomelon  
-wintry - zimi  
+wintry - lengomosimi  
 wisdom - sofia  
 wise - sofi  
 with (by, at, in, on) - sa  
@@ -3662,8 +3669,7 @@ wrapping (envelope, covering) - lifaf
 write - kitaba  
 writing (text) - kitabe  
 wrong (incorrect, erroneous, faulty) - galti  
-####X - X  
-xenon - xenon  
+xenon - eksenon  
 ####Y - Y  
 yak - yake  
 yay! (yeah!) - yey  

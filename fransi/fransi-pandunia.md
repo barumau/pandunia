@@ -30,7 +30,7 @@ agile - ajili
 agresseur - agreser  
 agression (attaque) - agres  
 ail - lasun  
-aimer - lova  
+aimer - luva  
 air - air  
 aire (superficie) - ar  
 alcool - alkol  
@@ -48,8 +48,9 @@ aluminium - aluminem
 amande - badam  
 amer - amari  
 Amhara (groupe ethnique et langue éthiopienne) - Amari  
-amour (affection) - love  
-amoureux - lover  
+amiral - hayamirer  
+amour (affection) - luve  
+amoureux - luver  
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - ameriki  
@@ -105,14 +106,14 @@ atchoum - achu'
 Athènes - Athina  
 attaquer (agresser) - agresa  
 autel - pujomeze  
-automne - oton  
+automne - padomosim  
 autre - ali  
 autrement - alo  
 avant - cheno  
 aventure - aventur  
 aventurier - aventurer  
 avoir - tena  
-avoir besoin de - nidu  
+avoir besoin de - yawu  
 avoir tendance à - iva  
 axe - akse  
 aéroport - airporte  
@@ -148,7 +149,7 @@ bassin - basen
 bateau - bote  
 beau - sundari  
 beauté - sundaria  
-besoin - nide  
+besoin - yaw  
 betterave - bete  
 betterave à sucre (betterave sucrière) - shukarbete  
 bibliothèque - kitabokan  
@@ -207,7 +208,7 @@ Camomille Romaine - romkamil
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa'  
-Canne à sucre - shukargras  
+Canne à sucre - shukarcaw  
 canon - daypaw  
 canoë - kanoe'  
 Cantalupo in Sabina - Kantalupo da Sabina  
@@ -219,6 +220,7 @@ Caraïbes - karaibia
 cardon - kardonkarchof  
 carotte - karote  
 carreau (tuile) - tail  
+carrière - peykari jive  
 carte - karde  
 carte - zemgraf  
 carte à collectionner -   
@@ -249,7 +251,8 @@ chauve-souris - feymush
 chaux - kalcomate  
 chef - shef  
 chemise - kamis  
-cher - lovi  
+cher - luvi  
+chercher - sowa  
 chimie - kimlojia  
 Chine - Jungogia  
 chocolat - chokolate  
@@ -288,6 +291,7 @@ concert - koncerte
 concombre - hiyar  
 concombre confit (cornichon) - sirkopurshipi hiyar  
 concombre de mer - hayhiyar  
+considérer - hema  
 construire - bina  
 conteneur - kontener  
 continu (analogique) - kontini  
@@ -344,6 +348,7 @@ dans le sens antihoraire - fansoldisho
 dauphin - dolfin  
 de - cha  
 demander (poser un question; est-ce que) - eska  
+despertarse - jagu  
 dessous - niche  
 destin - chenamen  
 deux (2) - duli  
@@ -360,6 +365,7 @@ divers (plusieurs) - balibali
 docile (insipide) - dosili  
 document (dossier) - dokum  
 documentaire - dokumfilme  
+dolor -   
 domestique - domi  
 domestiquer (apprivoiser) - dosiljenisa  
 domestiqué (apprivoisé) - dosiljenisi  
@@ -393,7 +399,7 @@ encore - yesho
 enfant - bache  
 enseigner - shulisa  
 enterrer - gabra  
-entonnoir - liwkope  
+entonnoir - liwkupe  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -407,6 +413,7 @@ exact (précis) - justi
 explosion - bum  
 ####F - F  
 face (facette) - fas  
+facile - facili  
 faible - debili  
 faible - mirdi  
 faim - yamnide  
@@ -421,13 +428,13 @@ fenêtre - janel
 fermenter - biwmutu  
 feu - hoge  
 feu d’artifice - hogotehne  
-fier - nidoshina  
+fier - yawshina  
 fil - korde  
 fils ou fille - pute  
 fiord - fiorde  
 fleur - ful  
 flèche - fleche  
-foin - gangras  
+foin - gancaw  
 fois - mar  
 fondu - yongosaha  
 football - futobol  
@@ -437,13 +444,15 @@ forêt (jungle) - jangle
 forêt de kelp - algojangle  
 fosse - kave  
 fougères - parne  
-fourmi - may  
+fourmi - murche  
 fragment - parche  
 frais - tazi  
 francophone - francofoni  
 francophonie - Francofonia  
 fromage - chize  
 fromage blanc - panir  
+frêne - yasen  
+fuera (exterior) - ekse  
 féliciter - barka  
 ####G - G  
 galaxie - galaksia  
@@ -485,8 +494,8 @@ haut - gaw
 heure - hor  
 heureux - suki  
 hier - chendeno  
-hiver - zim  
-hivernal (hibernal) - zimi  
+hiver - lengomosim  
+hivernal (hibernal) - lengomosimi  
 hockey - hoke  
 hockey sur glace - aisohoke  
 horloge - horloger  
@@ -557,6 +566,7 @@ leçon - shul
 libellule - libel  
 libre - huri  
 lichen - algofung  
+lien - linke  
 lieu - loke  
 ligne - linye  
 lime (citron vert) - kagujolimon  
@@ -644,7 +654,7 @@ mouiller - shipa
 mouillé - shipi  
 moulin - molia  
 mousse - mos  
-mousson - barshi mosim  
+mousson - barshomosim  
 moussu - mosi  
 mouvoir (bouger) - kina  
 mule - gadogude  
@@ -668,7 +678,7 @@ neurone - neurcel
 niche - nish  
 nid - nizde  
 niveau - par  
-noir - cherni  
+noir - siahi  
 noit - noche  
 nombre (numéro) - nombre  
 nombre pair - pari nombre  
@@ -679,14 +689,15 @@ note - note
 nous - mome  
 nouveau - novi  
 nuage - mege  
-nécessaire - nidan  
-nécessiteux (dans le besoin) - nidi  
+nécessaire - yawan  
+nécessiteux (dans le besoin) - yawi  
 néophyte - novike  
 ####O - O  
 objectif (cible) - dike  
 objet (article) - vute  
 oblique (de travers) - terchi  
 obsidienne - osidian  
+occupé - mangi  
 ocelot - oselote  
 oculaire - oki  
 océan - dayhay  
@@ -706,6 +717,8 @@ orange amère - amaroranje
 orange douce - shukaroranje  
 orchidée - orkide  
 ordinateur - komputer  
+ordre - ratibe  
+ordures - laje  
 oreille - or  
 organisme - biw  
 origine - asle  
@@ -750,9 +763,11 @@ pause - pauze
 pavot d'Orient - guypapil  
 pavot somnifère - sonpapil  
 pavé - cirkosheke  
+peindre - penta  
+peinture - pente  
 pelle - bel  
-perdant - luzer  
-perder - luza tena  
+perdant - shibayer  
+perder - shibaya tena  
 pere (papa) - pape  
 perfectionner (parfaire) - purbona  
 perplexe (désorienté) - konfusi  
@@ -771,7 +786,7 @@ pieu (poteau) - zong
 pile (batterie) - batre  
 piment - chili'  
 pioche - pikosape  
-piquenique - wayoyam  
+piquenique - eksoyam  
 piraterie - piratia  
 pistolet - paw  
 pizza - pize  
@@ -803,7 +818,7 @@ pont - pul
 porte - porte  
 porte-bloc (planchette à pince) - pincobanze  
 porter - fuki  
-posidonie (herbiers marins) - haygras  
+posidonie (herbiers marins) - hacaw  
 possible - abli  
 possédant (propriétaire) - malker  
 Poulpe (pieuvre) - balsenter  
@@ -854,7 +869,7 @@ rayon de miel - melvesponizde
 rein - nefre  
 religion - din  
 remplir - pura  
-renard - hul  
+renard - huley  
 repos - shante  
 requin - sharke  
 reste - reste  
@@ -963,6 +978,7 @@ table - meze
 tablette de chocolat - chokolatobaton  
 tarte - pay  
 tasse à thé - chaykupe  
+taupe - krote  
 taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
@@ -970,7 +986,7 @@ tectonique des plaques - plati zemkaskia
 temple - pujokan  
 temps (durée) - dur  
 tendance - ive  
-tender - waytira  
+tender - eksotira  
 tentacule - senter  
 tente - hemahe  
 terrain - zemforme  
@@ -989,6 +1005,7 @@ tomate - tomate
 tombe - gabre  
 topinambour - masmulsolful  
 toucher - tocha  
+toupie - rototope  
 touriste - safariste  
 Tournesol - solful  
 traduction - tarje  
@@ -1068,7 +1085,6 @@ vêtements - fuke
 vœu (promesse) - vode  
 ####W - W  
 wolof - Wolof  
-####X - X  
 ####Y - Y  
 ####Z - Z  
 zombi - zombe  
@@ -1082,6 +1098,7 @@ zèbre - zebre
 Égypte - Misre  
 Épicéa - pis  
 âge - umur  
+échec - shibay  
 échelle - shalke  
 école (collège) - shulkan  
 écorce - tira pil  
@@ -1102,6 +1119,7 @@ zèbre - zebre
 éponge - esponje  
 époux - gamike  
 épreuve (test) - teste  
+épée - katan  
 équipe - tim  
 étagère - libobanze  
 étain - estan  
@@ -1111,10 +1129,10 @@ zèbre - zebre
 étoile - shing  
 étudiant - shuler  
 étymologie - logaslia  
-été - lete  
+été - garmomosim  
 évaluer - vala  
 évangile - evanjil  
-éveillé - weki  
+éveillé - jagi  
 être - esa  
 être couché - kushu  
 être humain - insan  

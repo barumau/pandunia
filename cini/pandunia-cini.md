@@ -104,9 +104,9 @@ bari - 重型的
 barkoke - 杏子  
 barshe - 雨  
 barshi - 多雨  
-barshi mosim - 雨季  
 barshochate - 伞  
 barshokote - 雨衣  
+barshomosim - 雨季  
 basi - 够  
 bash - 语言  
 bashi jinse - 文法的性  
@@ -168,7 +168,6 @@ cheno - 以前
 chenamen - 命運  
 chendeno - 昨日  
 cheng - 层  
-cherni - 黑色  
 chili' - 菜椒  
 chilifun - 辣椒粉  
 chini - 汉族  
@@ -224,6 +223,9 @@ dush - 淋浴
 ####E - E  
 e - 和  
 ekor - 松鼠  
+ekse - 外  
+eksotira - 拉  
+eksoyam - 野餐  
 eletrolinye - 电缆 (电线)  
 eletrorade - 闪电  
 emocohal - 心情  
@@ -238,6 +240,8 @@ estibem - 锑
 europobalute - 夏櫟  
 evanjil - 福音  
 ####F - F  
+facilia da akses - 無障礙環境  
+faidia - 效用 (好处)  
 fansoldisho - 反时针方向的  
 fas - 面  
 fasteli - 深  
@@ -273,12 +277,14 @@ gadogude - 骡
 galaksia - 恆星系  
 Galia - 高卢  
 galte - 错误  
+gancaw - 干草  
 gandum - 麦  
-gangras - 干草  
+garmomosim - 夏季  
 garmozon - 热带  
 gati - 硬  
 gatomate - 固体  
 gencha - 检查  
+geta - 获得  
 gida - 导游  
 gider - 导游  
 gidobuke - 指南  
@@ -315,6 +321,8 @@ hato - 连
 hatre - 危险  
 hay - 海  
 hayalge - 海藻  
+hayamirer - 海军上将  
+hacaw - 海草  
 hayful - 海葵  
 haygun - 海军  
 hayhiyar - 海參  
@@ -323,6 +331,7 @@ haytate - 海岸
 helis - 螺旋  
 helisviman - 直升机  
 helpa - 帮助  
+hema - 深思 (考虑)  
 hemahe - 帐篷  
 hewan - 动物  
 hewanparke - 动物园  
@@ -341,7 +350,7 @@ horloger - 钟
 hotel - 旅馆  
 huke - 钩  
 hukokrus - 卍 (卐)  
-hul - 狐狸  
+huley - 狐狸  
 huri - 自由的  
 huria - 自由  
 huydarte - 灰化土  
@@ -353,8 +362,8 @@ insani hake - 人权
 insanistia - 人文主义  
 itis - 炎症  
 ive - 趋势  
-izia da akses - 無障礙環境  
 ####J - J  
+jagu - 起きる  
 janel - 窗戶  
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
@@ -423,6 +432,7 @@ karsi - 粗糙
 karsolimon - 箭叶橙  
 kaske - 壳 (皮)  
 kata - 切  
+katan - 剑  
 katoglutobanze - 剪贴板  
 katus - 仙人掌  
 kava - 挖  
@@ -448,6 +458,7 @@ klien - 顾客
 klimomute - 气候变化  
 komputer - 计算机  
 kono - 共同 (一起)  
+konboni - 相配  
 konkara - 合作  
 kontrate - 公約  
 koncerte - 音乐会  
@@ -468,6 +479,7 @@ krepe - 薄烤饼
 krevete - 虾 (xiā)  
 krokodil - 鳄  
 krokroke - 蛙  
+krote - 鼹鼠  
 kruasante - 牛角包  
 krusarke - 弩 (十字弓)  
 kuangia - 矿场  
@@ -477,6 +489,7 @@ kupe - 杯子
 kushu - 躺  
 ####L - L  
 lage - 湖  
+laje - 废物 (垃圾)  
 lalbawsheke - 红宝石  
 lali - 红  
 lalolince - 短尾貓  
@@ -499,7 +512,9 @@ layu - 来
 lazanye - 千层面  
 lazuar - 青金岩  
 le - 他，她，它  
+lefte - 左  
 lengi - 冷たい (寒い)  
+lengomosim - 冬天  
 lense - 透镜  
 lenti - 慢  
 letis - 莴苣  
@@ -515,10 +530,12 @@ lilsheke - 砾石
 limi - 五 (5)  
 limon - 柠檬  
 lince - 猞猁 (山貓)  
+linka - 连接  
+linke - 联系  
 lisan - 舌头  
 liste - 单子  
 litre - 升  
-liwkope - 漏斗  
+liwkupe - 漏斗  
 loga - 说话 (讲)  
 loge - 词  
 logia - 词汇  
@@ -530,15 +547,15 @@ longi - 长
 longoduro - 久  
 longopipre - 荜拔  
 lontre - 獭  
-lova - 爱  
-lovi - 亲爱的  
-lover - 恋人 (情人, 爱人)  
+lowa - 漏  
 lugi - 绿色  
 lung - 龙  
 luta - 掠夺  
 luter - 强盗  
-luza - 输  
-luza tena - 亏损 (失去)  
+luva - 爱  
+luve - 愛  
+luvi - 亲爱的  
+luver - 恋人 (情人, 爱人)  
 ####M - M  
 magesem - 镁  
 Magribe - 摩洛哥  
@@ -547,6 +564,7 @@ maidanpapil - 虞美人 (雛罌粟)
 makanful - 蒲公英  
 malsinyi - 不祥的  
 mam - 妈妈  
+mangi - 忙  
 manihayistia - 摩尼教  
 manir - 方式  
 manse - 肉  
@@ -562,7 +580,6 @@ matur - 成年人
 maturi fem - 女人  
 maturi man - 男人  
 maw - 猫  
-may - 蚂蚁  
 mayforte - 加固  
 mayim (mayimo) - 最  
 me - 我  
@@ -610,6 +627,7 @@ mumchape - 封印
 mumomelon - 冬瓜 (白瓜)  
 mur - 墙壁  
 murkaguje - 壁纸 (墙纸)  
+murche - 蚂蚁  
 muskulbin - 健美运动  
 ####N - N  
 nade - 河 (江)  
@@ -622,10 +640,6 @@ navi - 九 (9)
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
-nidan - 必要的  
-nidoshina - 信赖  
-nidoshinabli - 忠实  
-nidu - 需要  
 nilcentaur - 矢車菊  
 nilceramshing - 茜草花  
 nili - 蓝色  
@@ -671,6 +685,7 @@ parchokayu - 爆裂
 pari nombre - 偶数  
 parke - 园  
 parne - 蕨  
+ - 痛み  
 pasporte - 护照  
 pastopetre - 岩漿  
 patike - 患者 (病患)  
@@ -682,6 +697,7 @@ peda - 放屁
 pede - 屁  
 pelmen - 饺子  
 pendokardon - 垂花飞廉  
+pente - 油漆 (颜料)  
 perkardon - 翼蓟  
 pes - 钱  
 pesdiske - 硬币  
@@ -702,6 +718,7 @@ plati zemkaskia - 板块构造论
 platistan - 平原  
 pliza - 请  
 plum - 李子  
+polmaro - 经常  
 pontopin - 指南针  
 porey - 韭葱  
 porte - 港  
@@ -724,6 +741,8 @@ rangomate - 染料
 rapidi - 快  
 rari - 稀有 (稀少的)  
 ras - 种族  
+ratiba - 整理  
+ratibe - 常规 (次序)  
 reste - 其余  
 retrogula - 呕吐  
 retroguli sense - 恶心  
@@ -742,6 +761,7 @@ roketolancer - 火箭筒
 Roma - 罗马  
 romkamil - 果香菊  
 rototafun - 飓风 (台风)  
+rototope - 陀螺  
 roze - 玫瑰  
 rozosamon - 粉紅鮭  
 rupoboni - 好看  
@@ -756,6 +776,7 @@ saider - 狩人
 salte - 盐  
 salame - 迎接  
 saman - 天空  
+samanhal - 天气  
 sami - 一样  
 sammetri - 对称  
 sammetria - 对称性  
@@ -785,7 +806,9 @@ shawi - 少
 sheke - 石 (岩)  
 shey - 事物 (东西)  
 sheyhal - 事态  
-shibay - 失败  
+shibay - 失败 (击败)  
+shibaya - 输  
+shibaya tena - 亏损 (失去)  
 shim - 心  
 shingofota - 闪烁  
 shipa - 弄湿  
@@ -799,7 +822,7 @@ shofer - 司机
 shopa - 买  
 shope - 购物 (血拼)  
 shukar - 糖  
-shukargras - 甘蔗  
+shukarcaw - 甘蔗  
 shul - 课  
 shula - 学习  
 shuler - 学生  
@@ -813,6 +836,7 @@ shusho - 噓
 shute - 技术  
 shuti - 熟练  
 si - 对 (是)  
+siahi - 黑色  
 side - 座部 (马鞍)  
 sifloge - 形容词  
 sihe - 健康  
@@ -836,6 +860,7 @@ sonpapil - 鴉片罌粟
 sonu - 睡觉 (困觉)  
 sor - 锁  
 sosis - 香肠  
+sowa - 寻找  
 suki - 高兴  
 sundardake - 装饰  
 sundari - 漂亮 (美)  
@@ -854,6 +879,7 @@ tali moke - 灌木
 tami - 贪婪的  
 tan - 茎 (梗)  
 tarje - 翻译  
+tas - 盘 (碟)  
 tate - 岸  
 tazi - 新鲜的  
 te - 你  
@@ -865,7 +891,6 @@ telvide - 电视机
 tem - 主题目  
 temnam - 标题  
 tena - 有  
-tenke - 天气  
 tenu - 属于  
 terchi - 斜的  
 teroristia - 恐怖行为  
@@ -884,11 +909,13 @@ tote - 你们
 trate - 合同 (合约)  
 truka - 耍花招  
 truke - 伎俩  
+tuze - 兔子  
 ####U - U  
 umami - 鲜味  
 umur - 年岁  
 un (uni) - 一 (1)  
 unmaro - 一次 (一遍)  
+ungle - 手指  
 ura - 好哇  
 ####V - V  
 vade - 山谷  
@@ -910,6 +937,7 @@ vendoshope - 贸易
 aventur - 冒险  
 aventurer - 冒险者  
 vespe - 蜂  
+vey - 尾巴 (尾部)  
 vida - 看  
 vidove - 寡妇  
 voda - 许诺  
@@ -921,15 +949,17 @@ vute - 物体 (物品)
 wan - 娱乐  
 wanu - 玩耍  
 washurse - 浣熊  
-wayoyam - 野餐  
-waytira - 拉  
 Wenjou - 温州  
 wenjoworanje - 温州蜜柑  
 wijin - 味精  
-####X - X  
 ####Y - Y  
 yamnide - 饥饿  
+yasen - 白蜡树  
 yatimdom - 孤儿院  
+yawu - 需要  
+yawan - 必要的  
+yawshina - 信赖  
+yawshinabli - 忠实  
 yesho - 还 (依然)  
 yoge - 瑜伽功  
 yongopetre - 熔岩  
@@ -943,7 +973,6 @@ zemgraf - 地图
 zemgrafia - 地图学 (地理)  
 zemmetria - 几何学  
 zeyil - 疣  
-zim - 冬天  
 zinje - 姜  
 zir - 孜然  
 zong - 桩  

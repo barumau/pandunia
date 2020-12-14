@@ -119,6 +119,7 @@ algún - koy (koyi)
 algún día (algún vez) - koy sate  
 alicate - pincer  
 almendra - badam  
+almirante - hayamirer  
 almohada - kushen  
 almuerzo - denyam  
 alojar (hospedar) - domisa  
@@ -134,9 +135,9 @@ aluminio - aluminem
 aló - halo'  
 alófono - alfon  
 amable (atento, tierno, dulce) - jentili  
-amante (enamorado) - lover  
+amante (enamorado) - luver  
 amapola silvestre - maidanpapil  
-amar - lova  
+amar - luva  
 amar románticamente - romansa  
 amargo - amari  
 amarillo - limonrangi  
@@ -148,6 +149,8 @@ americio - amerikem
 amhara - Amari  
 amigo - doste  
 amistad (compañerismo) - dostia  
+amoldarse - konformu  
+amor - luve  
 amperio - amper  
 ampolla (vial) - ampul  
 América - Amerike  
@@ -165,7 +168,7 @@ andrajoso - chirchiri
 anglicanizar - englokitaba  
 anglófilo - englofiler  
 Angola - Angola  
-anillo (sortija) - fingoring  
+anillo (sortija) - ungloring  
 anillo - ring  
 animación (dibujo animado) - anim  
 animal (bestia) - hewan  
@@ -432,7 +435,7 @@ Burkina Faso - Burkina
 burro (asno) - gade  
 Burundi - Rundi  
 bus (autobús) - bus  
-buscar - sercha  
+buscar - sowa  
 Bután - Drugia  
 bárbaro - barbar  
 básico - bazi  
@@ -541,6 +544,7 @@ carnicero - bucher
 carpa (toldo) - hemahe  
 carpeta - dokumsanduke  
 carpintero - mokojanger  
+carrera - peykari jive  
 cartografía (geografía) - zemgrafia  
 carvis (alcaravea) - karave  
 casa (hogar, residencia) - dom  
@@ -559,7 +563,7 @@ causar - saba
 cavar (excavar) - kava  
 cazador - saider  
 cazar (pescar) - saida  
-caña de azúcar - shukargras  
+caña de azúcar - shukarcaw  
 cañonear - daypawer  
 cañón (barranco, quebrada) - kanion  
 cañón - daypaw  
@@ -567,7 +571,7 @@ cebolla - piaze
 cebra - zebre  
 celebración (fiesta) - feste  
 celebrar (festejar) - festa  
-celeste (azul celeste) - samanonili  
+celeste (azul celeste) - samannili  
 celeste (celestial) - samani  
 celoso (envidioso) - jelosi  
 cementerio - gabristan  
@@ -627,7 +631,7 @@ chupar (succionar) - chupa
 cian - ciani  
 ciclista - cikliste  
 cielo - saman  
-cien (100) - honi  
+cien (100) - shati  
 ciencia (estudia, investigación) - lojia  
 ciencia política - politikolojia  
 cigarro - sigar  
@@ -655,7 +659,7 @@ clase (categoría) - klas
 clasificar - klasa  
 clavo (pincho, punta) - ding  
 cliente - klien  
-clima (tiempo) - tenke  
+clima (tiempo) - samanhal  
 clima - klim  
 climatología - klimolojia  
 clon - klona  
@@ -678,7 +682,7 @@ codicioso (avaro) - tami
 codificar (cifrar) - koda  
 cohete (misil) - rokete  
 col china - bakocoy  
-cola (rabo) - dum  
+cola (rabo) - vey  
 cola (refresco de cola) - kol  
 colaborar - konkara  
 colarse - siro motu  
@@ -712,8 +716,9 @@ comino - zir
 Comoros - Komoro nesia  
 comparar (cotejar) - para  
 compartir (tener en común) - komuna  
+compasión - konpashia  
 compasión - samemoce  
-compatible - machabli  
+compatible - konfuncubli  
 compatriota - samdeshi  
 compañero (compinche) - latoren  
 compañía (empresa, corporación) - kompania  
@@ -740,9 +745,9 @@ concreto (hormigón) - beton
 condición (requisito, estipulación) - sharte  
 conducir - shofa  
 conductor (chofer) - shofer  
-conectar (empalmar, unir) - samuna  
-conejo - tuze  
-confiar (contar con) - nidoshina  
+conectar (empalmar, enlazar, vincular) - linka  
+conejo (liebre) - tuze  
+confiar (contar con) - yawshina  
 confucianismo - konfuzistia  
 confucio - konfuze  
 confundido - konfusi  
@@ -755,8 +760,7 @@ conseguir (obtener, recibir) - geta
 consejero (asesor) - menter  
 consejo - mente  
 conservar (preservar, mantener) - hafiza  
-considerar (pensar en) - konsida  
-considerar (reflexionar) - hema  
+considerar (reflexionar, pensar en) - hema  
 consonante - kenarfon  
 constitución - bazokanun  
 construir (edificar) - bina  
@@ -882,7 +886,7 @@ cámara - fotografmashin
 cárcel - prizonia  
 Cáucaso - Kaukasia  
 célula - cel  
-césped (hierba) - gras  
+césped (hierba) - caw  
 círculo - cirke  
 cítrico - migan  
 cóctel - miksi alkol  
@@ -922,7 +926,7 @@ decir (hablar) - loga
 decoración (adorno) - sundardake  
 decorar (adornar) - sundardaka  
 dedicar - zamandona  
-dedo - fing  
+dedo - ungle  
 defecar - kaka  
 defender - defa  
 defensa - def  
@@ -952,6 +956,7 @@ derecho - raiti
 derechos de autor (copyright) - kopohake  
 derechos humanos - insani hake  
 derretirse - yongu  
+derrota (fracaso) - shibay  
 desacuerdo - alrayia  
 desarrollo - fajan  
 desatascar - antapa  
@@ -963,8 +968,9 @@ deseo - vol
 desierto - registan  
 deslizar - glisu  
 desnudo - nudi  
-despertar - weka  
-despierto - weki  
+despertar - jaga  
+despertar - jagu  
+despierto - jagi  
 despreciar (desdeñar) - paraya  
 destapar - andaka  
 destinar - gola  
@@ -1023,7 +1029,6 @@ documental - dokumfilme
 documento (archivo, nota) - dokum  
 dolar - dolar  
 doler (hacer daño) - pasha  
-dolor - tung  
 doloroso - pashi  
 domar (amansar) - dosila  
 domesticado - dosiljenisi  
@@ -1093,15 +1098,15 @@ embajador - daisher
 embalar (llevar) - paka  
 embarazado (preñado) - hamili  
 embarrado (enlodado) - poti  
-embudo - liwkope  
-emir - emir  
-emirato - emiria  
-Emiratos Árabes Unidos - Unuti Arabi Emiria  
+embudo - liwkupe  
+emir - amirer  
+emirato - amiria  
+Emiratos Árabes Unidos - Unuti Arabi Amiria  
 emisión - misia  
 emoticón (emoyi) - emoje  
 emotivo - emoci  
 empanada (pelmeni) - pelmen  
-emparejar (quedar) - macha  
+emparejar (quedar) - konboni  
 emperador - imperer  
 emplear (aplicar) - aplika  
 empresario - bizneser  
@@ -1220,7 +1225,7 @@ estar de pie - libu
 estar en contra - kontra  
 estaño - estan  
 estimar (apriximarse a) - yaga  
-estirar (extender) - waytira  
+estirar (extender) - eksotira  
 esto - ye  
 esto - yi  
 Estonia - Estia  
@@ -1251,20 +1256,20 @@ exacto (preciso) - justi
 examinar (inspeccionar) - gencha  
 excelente - bonsifi  
 excepto (menos) - mina  
-exceptuar (excepto, salvo) - chula  
 existir (estar presente) - zayu  
 explorador (navegador) - brauzer  
 explorar - brauza  
 explosión (estallado) - bum  
 explotar (estallar) - bumu  
-exportar - waymisa  
+exportar - eksomisa  
 exposición (espectáculo) - show  
-expulsar - waya  
-exterior - wayi  
-extranjero - waydeshi  
-exónimo - waynam  
+expulsar (exceptuar, excepto) - eksa  
+exterior - ekse  
+exterior - eksi  
+extranjero - eksodeshi  
+exónimo - eksonam  
 ####F - F  
-facilidad - izia  
+facilidad - facilia  
 falda - jupe  
 falla (mal funcionamiento) - malfunce  
 fallo (juicio, criterio) - jude  
@@ -1329,13 +1334,12 @@ fosa - kave
 foto (fotografía) - fotograf  
 fotografía - fotografia  
 fotógrafo - fotografer  
-fracaso - shibay  
 fragmento (pedazo) - parche  
 Francia - Francia  
 francio - francem  
 francotirador - justopawer  
-frecuencia - changia  
-frecuentemente - chango  
+frecuencia - polmaria  
+frecuentemente - polmaro  
 fresco - tazi  
 fresno - yasen  
 frontera (límite, borde, periferia) - kenar  
@@ -1343,11 +1347,10 @@ fruta - pal
 frío - lengi  
 fuego - hoge  
 fuente (manantial) - fonte  
-fuera (exterior) - way  
 fuerte - forti  
 fuerza - fortia  
 fuerza aérea - airgun  
-funcionar - funca  
+funcionar - funcu  
 funcionario - oficer  
 fundador - bazer  
 fundar (basar) - baza  
@@ -1356,8 +1359,8 @@ fusión - liwunis
 fusión nuclear - kerni liwunisia  
 futuro - wil  
 fábrica - fateria  
-fácil - izi  
-fácil acceso (accesibilidad) - izia da akses  
+fácil - facili  
+fácil acceso (accesibilidad) - facilia da akses  
 física - fizike  
 física - fizikia  
 física nuclear - kerni fizikia  
@@ -1378,7 +1381,7 @@ galés - kamri
 Gambia - Gambia  
 ganar (cobrar) - ganya  
 gancho (anzuelo, alcayata) - huke  
-Ganges - ganga  
+Ganges - Ganga  
 garam masala - garmi masal  
 garantía - garante  
 garbanzo - humus  
@@ -1517,7 +1520,7 @@ helado - aiskrem
 helecho - parne  
 helicóptero - helisviman  
 helio - helem  
-heno - gangras  
+heno - gancaw  
 hercio (Hz) - herze  
 hermano o hermana - saudar  
 hermoso (bello, lindo) - sundari  
@@ -1566,7 +1569,7 @@ hongo (moho) - fung
 hora - hor  
 horizontal (lateral) - horizoni  
 horizonte - horizon  
-hormigo - may  
+hormigo - murche  
 hormona - hormon  
 hornacina - nish  
 hornear (cocer) - beka  
@@ -1657,7 +1660,7 @@ intenso (brusco, ácido, fuerte, afilado, rápido) - tezi
 intentar (probar) - testa  
 intercambiar (canjear) - badla  
 interesante - interesi  
-interfaz de línea de comandos - komandolinye  
+interfaz de línea de comandos - amirlinye  
 interior (interno) - indi  
 interior - inde  
 internacional - nasmedi  
@@ -1666,8 +1669,8 @@ interracial - rasmedi
 interrogativa - eskan  
 interés - interes  
 interétnica - zukomedi  
-invernal - zimi  
-invierno - zim  
+invernal - lengomosimi  
+invierno - lengomosim  
 invitado (visita) - viziter  
 invitar - pliza laya  
 inyección - jush  
@@ -1726,7 +1729,7 @@ jazz - jaze
 jefe - shef  
 Jersey - Jersi  
 Jesús - Yesu  
-jira (pícnic) - wayoyam  
+jira (pícnic) - eksoyam  
 jirafa - jiraf  
 joder (coger, copular) - choda  
 Jordania - Urdun  
@@ -1746,7 +1749,7 @@ jugo (zumo) - jus
 julio - setomes  
 junio - sismes  
 juntos - kono  
-juntura - samun  
+juntura (conexión, enlace) - linke  
 Jupiter - Jupiter  
 justicia - adalia  
 justo (exactamente) - justo  
@@ -1786,7 +1789,7 @@ lama - lama'
 lantano - lantanum  
 lanzamisiles - roketolancer  
 Laos - Lao  
-laosiano - lawi  
+laosiano - Laoi  
 lapislázuli - lazuar  
 largo (longitud) - longia  
 largo - longi  
@@ -1798,8 +1801,8 @@ laurencio - laurensem
 lava - yongopetre  
 lavadora - washmashin  
 lavar - washa  
-leal (fiel) - nidoshinabli  
-lealtad (fidelidad) - nidoshinablia  
+leal (fiel) - yawshinabli  
+lealtad (fidelidad) - yawshinablia  
 lección - shul  
 leche - milke  
 lecho de roca - bazopetre  
@@ -1943,15 +1946,15 @@ malo - mal (mali)
 Malta - Malta  
 mamífero - mamal  
 mancha - najisbinde  
-mandar (ordenar) - komanda  
+mandar (ordenar) - amira  
 mandarina (tangerina) - laloranje  
 manga - kamisi shake  
 manganeso - mangan  
+mango - mango  
 mangosta - mungus  
 mangostán (jobo de la India) - mangus  
 maniqueísmo - manihayistia  
 mano - hande  
-mano - mang  
 manso (dócil, obediente) - dosili  
 mantener (detener) - estaca  
 mantequilla - makan  
@@ -2060,7 +2063,7 @@ mi - mi
 micelio - fungonete  
 micro- - mikro-  
 Micronesia - Mikronesia  
-Midsommar - medoleti den  
+Midsommar - garmomosimmedi den  
 miedo (-fobia) - fobia  
 miel - mel  
 miembro (componente) - member  
@@ -2119,7 +2122,7 @@ monocromático - unrangi
 monoteismo - undewistia  
 monstro - monster  
 montaña (colina) - shan  
-Montenegro - Chernogora  
+Montenegro - Chernagora  
 monumento - membin  
 monóculo - monoki lense  
 monólogo - monloge  
@@ -2201,14 +2204,14 @@ Navidad - kristojen
 Nazi - naciste  
 nazismo - nacistia  
 Naúru - Nauru  
-necesario - nidan  
-necesidad - nide  
-necesitado - nidi  
-necesitar - nidu  
+necesario - yawan  
+necesidad - yaw  
+necesitado - yawi  
+necesitar - yawu  
 nefritis - nefritis  
 negociar - lona biznes  
 negocios (comercio) - biznes  
-negro - cherni  
+negro - siahi  
 nenúfar (lirio de agua) - nenufar  
 neodimio - neodimem  
 Nepal - Nepal  
@@ -2293,13 +2296,14 @@ ocho (8) - bali
 octubre - desmes  
 ocular - oki  
 ocultar (esconder) - sira  
-ocupado (atareado) - bizi  
+ocupado (atareado) - mangi  
 océano - dayhay  
 océano Antártico - Antartiki Hay  
 océano Atlántico - Atlanti Hay  
 océano Pacífico - Paci Hay  
 océano Ártico - Artiki Hay  
 océano Índico - Barti Hay  
+odiar - hena  
 odio - hen  
 oeste - weste  
 oficial - ofici  
@@ -2321,8 +2325,9 @@ opinión - ray
 oponerse (resistir) - fana  
 oportunidad (chance) - chanse  
 oración - jumle  
-orden (mando, comando) - komande  
+orden (mando, comando) - amir  
 orden - ratibe  
+ordenado (regular) - ratibi  
 ordenar (arreglar) - ratiba  
 ordeñar - tira milke  
 ordinario (habitual) - adi  
@@ -2347,7 +2352,7 @@ osmio - osmem
 oso - urse  
 otitis - oritis  
 otomana - osman  
-otoño - oton  
+otoño - padomosim  
 otra vez (de nuevo) - reyo  
 otro - ali  
 oveja - mehe  
@@ -2443,14 +2448,14 @@ patógeno - patojener
 pausa - pauze  
 paz - pace  
 país (nación, estado, terra) - desh  
-país extranjero - waydeshia  
+país extranjero - eksodesh  
 Países Bajos - Nederlandia  
 pecho (busto) - buste  
 pecho (seno, tórax) - sin  
 pedal - pedal  
 pedazo - tike  
 pedernal (sílex) - hogosheke  
-pedir (invitar) - pliza  
+pedir (invitar; por favor) - pliza  
 pedir prestado - jekogeta  
 pedo - pede  
 peer - peda  
@@ -2478,9 +2483,9 @@ pepino - pepin
 pepita - semdan  
 pequeño - lil (lili)  
 pera - leze  
-perdedor - luzer  
-perder (fallar) - luza  
-perder - luza tena  
+perdedor - shibayer  
+perder (fallar) - shibaya  
+perder - shibaya tena  
 perdurable (longevo, prolongado) - longoduri  
 perdón - pardon  
 perfeccionar - purbona  
@@ -2505,6 +2510,7 @@ pesa - bar
 pesado - bari  
 pescador - peshosaider  
 pescar - kapa pesh  
+pescar - saida pesh  
 peso (gravedad) - baria  
 pestaña - okokesh  
 peto - sinplate  
@@ -2527,6 +2533,7 @@ pingüino - pinguin
 pino - song  
 pintar - penta  
 pintor - penter  
+pintura - pente  
 piperita - piprominte  
 pirata - pirater  
 piratería - piratia  
@@ -2572,7 +2579,7 @@ podsol - huydarte
 poema - shir  
 poeta - shirer  
 polaco - polski  
-poli- - polo  
+poli- - pol-  
 policía - police  
 policía - policer  
 poliedro - polfas  
@@ -2604,7 +2611,7 @@ poste (estaca, palo) - zong
 postura (posición) - asan  
 potasio - kalem  
 practicar (ensayar, ejercitar) - lensha  
-pradera (pastizal) - grasistan  
+pradera (pastizal) - cawistan  
 praseodimio - prasedem  
 preceder (anteceder) - chena  
 precio (coste) - koste  
@@ -2624,7 +2631,7 @@ presuponer - chenaga
 presupuesto - bujete  
 prever (esperar, pensar) - chenvida  
 previo (anterior) - cheni  
-primavera - chun  
+primavera - fulmosim  
 primer (inicial, inaugural) - shuri  
 primer ministro - shefi minister  
 primero (numbre uno) - nombre un  
@@ -2639,6 +2646,7 @@ proceso (procedimiento) - proces
 producción - chania  
 producir (hacer, preparar) - chana  
 profecía - nabe  
+profesional (de carrera) - peykari  
 profesión (ocupación) - peykar  
 profesor - profesor  
 profeta - naber  
@@ -2705,7 +2713,7 @@ quemar - hoga
 quemarse - hogu  
 querer (desear) - volu  
 querer (disponer) - icha  
-querido - lovi  
+querido - luvi  
 querubín - kerube  
 queso - chize  
 queso fresco - panir  
@@ -2731,7 +2739,6 @@ radio - radem
 radiotransmisor - radi miser  
 radiómetro - radometer  
 radón - radon  
-raiz - mul  
 raja (grieta) - krake  
 rama - shake  
 Ramadán - ramazan  
@@ -2751,6 +2758,7 @@ raza - ras
 razonable - razoni  
 razón (causa) - sabe  
 razón - razon  
+raíz - mul  
 real (de realtad) - raji  
 rebelión (sublevación) - rebel  
 receptor de radio - radi geter  
@@ -2788,7 +2796,6 @@ remitente - miser
 remojar (marinar, encurtir, macerar) - purshipa  
 remolacha - bete  
 remolacha azucarera - shukarbete  
-rendirse (darse por vencido) - salima  
 renio - renem  
 renovar - nova  
 reparador - reyboner  
@@ -3210,7 +3217,7 @@ topo - krote
 torio - torem  
 tormenta (tempestad) - tafun  
 tormenta - gromtafun  
-tornillo - los  
+tornillo - vite  
 torre - minar  
 torre del reloj - horlogerminar  
 torso - torse  
@@ -3243,7 +3250,7 @@ trigo - gandum
 Trinidad y Tobago - Trinidade e Tobago  
 triste - duki  
 triángulo - tingon  
-trompo - tol  
+trompo - rototope  
 trucha arcoíris - rangarkosamon  
 trucha marrón - brunsamon  
 truco - truke  
@@ -3284,7 +3291,7 @@ túnica - tunike
 Ucrania - Ukraina  
 Uganda - Ganda  
 una vez - unmaro  
-unidad (medida) - unmete  
+unidad (medida) - metrun  
 unido - unisi  
 unir - unisa  
 universidad - daydarsia  
@@ -3342,7 +3349,7 @@ ventana - janel
 ventilador - panke  
 Venus - Venus  
 ver (mirar) - vida  
-verano - lete  
+verano - garmomosim  
 verbo - karloge  
 verdadero - veri  
 verde - lugi  
@@ -3410,8 +3417,7 @@ vía férrea - trendaw
 ####W - W  
 Wallis y Futuna - Walis e Futuna nesia  
 wiki - wikia  
-####X - X  
-xenón - xenon  
+xenón - eksenon  
 y - e  
 ####Y - Y  
 ya (acción completado) - lewo  
@@ -3440,7 +3446,7 @@ zoo - hewanparke
 zoroastriano - zardushiste  
 zoroastrismo - zardushistia  
 Zoroastro - Zardush  
-zorro - hul  
+zorro - huley  
 zulú - Zulu  
 ¡Felicitaciones! - barke!  
 África - Afrike  

@@ -80,6 +80,10 @@ ameno - na pewno (z pewnością, amen)
 Amerike - Ameryka (kontynent)  
 ameriki - amerykański  
 amerikem - ameryk  
+amir - rozkaz, komenda  
+amira - rozkazać, rozkazywać, zakomendować  
+amiria - emirat  
+amirer - emir  
 amper - amper  
 ampul - ampułka  
 ani - negatywny (przeciwny, nie)  
@@ -350,7 +354,6 @@ biwlojia - biologia (nauka o życiu)
 biwmuti - sfermentowany  
 biwmutu - fermentować  
 biwsistem - biom  
-bizi - zajęty  
 bizari - dziwny  
 biznes - biznes, interes (aktywność komercyjna)  
 bizneser - osoba biznesu, biznesman  
@@ -425,6 +428,8 @@ butonbanze - klawiatura
 buy - baobab  
 buze - koza  
 ####C - C  
+caw - trawa  
+cawistan - łąka  
 cel - komórka (biologia)  
 celolojia - cytologia  
 celsius darje - stopień Celsjusza  
@@ -451,8 +456,6 @@ chanbash - język sztuczny
 chaniva - nawozić (nawieźć)  
 chanivi - produktywny (żyzny)  
 chaniver - nawóz  
-changia - częstotliwość  
-chango - często  
 chanse - szansa  
 chanta - śpiewać  
 chante - piosenka, pieśń  
@@ -481,8 +484,7 @@ chenvida - przewidzieć (spodziewać się)
 chenvidi - spodziewany (przewidziany)  
 cheng - warstwa (poziom, piętro, kondygnacja)  
 cherize - wiśnia (czereśnia)  
-cherni - czarny  
-Chernogora - Czarnogóra  
+Chernagora - Czarnogóra  
 Chile - Chile  
 chili' - papryka  
 chilifun - papryka  
@@ -503,9 +505,7 @@ chora - ukraść, kraść
 chorer - złodziej  
 Chosen - Korea  
 Choseni - koreański  
-chula - pominąć, wyłączyć; poza, oprócz  
 chum - całus  
-chun - wiosna  
 Chungking - Chongqing  
 chupa - ssać  
 chuta - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
@@ -687,7 +687,6 @@ dulmeni - dwuznacznik
 dulmes - maj  
 dulromansi - biromantyczny  
 dulseksi - biseksualny  
-dum - ogon  
 duman - dym  
 duni - globalny  
 dunia - świat  
@@ -713,6 +712,16 @@ ekojeni - dziki
 ekolojia - ekologia (nauka o środowisku)  
 ekor - wiewiórka  
 ekran - ekran  
+eksa - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
+ekse - zęwnętrzny  
+eksi - zewnętrzny  
+eksodesh - zagranica  
+eksodeshi - zagraniczny  
+eksomisa - eksportować (wyeksportować)  
+eksonam - egzonim  
+eksotira - rozciągać (rozciągnąć)  
+eksoyam - piknik  
+eksenon - ksenon  
 Ekuador - Ekwador  
 eletre - elektryczność  
 eletri - elektryczny  
@@ -721,8 +730,6 @@ eletroposte (e-poste) - poczta elektroniczna
 eletrorade - piorun (grom)  
 eletron - elektron  
 em - pierwiastek (jednostki podstawowej)  
-emir - emir  
-emiria - emirat  
 emoce - emocja, uczucie  
 emoci - emocjonalny (uczuciowy)  
 emocu - czuć, odczuć, odczuwać  
@@ -784,6 +791,7 @@ europobalute - dąb szypułkowy
 evanjil - ewangelia  
 evi - korzystny (dobry)  
 ####F - F  
+facili - łatwy, prosty  
 fada - dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
 faide - zasób  
 faidi - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
@@ -863,8 +871,6 @@ filter - filtr
 fin - koniec  
 fina - skończyć, kończyć  
 fini - ostatni, końcowy  
-fing - palec  
-fingoring - pierścień, pierścionek; obrączka  
 fiorde - fiord  
 firuze - turkus  
 fite - roślina, sadzonka  
@@ -916,10 +922,11 @@ fuke - ubranie, ubiór, strój
 fuki - nosić ubrania  
 ful - kwiat  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
+fulmosim - wiosna  
 fulvaze - wazon; donica, doniczka  
 fun - pył  
-funca - funkcja, stanowisko  
 funchuper - odkurzacz  
+funcu - funkcja, stanowisko  
 funcubli - poprawny (wykonalny)  
 fung - grzyb  
 fungonete - grzybnia  
@@ -957,15 +964,15 @@ gamel - wielbłąd, wielbłądzica
 gami - ożeniony, zamężny, w związku małżeńskim  
 gamia - małżeństwo, związek małżeński  
 gamike - małżonek (małżonka)  
-Gana - Ghana  
 gana - suszyć (wysuszyć)  
+gani - suchy  
+gancaw - siano  
+ganputaw - rodzynka  
+Gana - Ghana  
 Ganda - Uganda  
 gandum - pszenica  
-ganga - Ganges  
-gangras - siano  
-gani - suchy  
+Ganga - Ganges  
 ganje - konopie  
-ganputaw - rodzynka  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
 gar - wóz, wózek  
 garante - gwarancja  
@@ -973,6 +980,8 @@ garda - chronić, strzec,  osłaniać, bronić
 garder - strażnik, ochroniarz  
 garmi - ciepły  
 garmi masal - garam masala  
+garmomosim - lato  
+garmomosimmedi den - przesilenie letnie (dzień srodka lata)  
 garmozon - tropiki  
 garmozoni - tropikalny  
 garparke - parking  
@@ -988,8 +997,8 @@ gawa - podnosić (podnieść)
 gawi - wysoki  
 gawi tanur - wielki piec  
 gawia - wysokość  
-gawtali - pionowy  
 gawu - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
+gawtali - pionowy  
 Gayana - Gujana  
 gaze - gaza  
 gazel - gazela  
@@ -1034,8 +1043,6 @@ grafi - obrazowy, graficzny; opisowy
 grafsage - komiks; kreskówka  
 gram - gram  
 granite - granit  
-gras - trawa  
-grasistan - łąka  
 grave - żwir  
 Grenada - Grenada  
 Grenadin nesia - Grenadyny  
@@ -1121,16 +1128,17 @@ hawa - dmuchać
 Hawayi - Hawaje  
 Hawayi nesia - Hawaje (archipelag hawajski)  
 hay - może  
-Hayakia - Armenia  
+hayi - morski  
 hayalge - wodorosty  
+hayamirer - admirał  
+hacaw - trawa morska  
 hayful - ukwiał  
-haygras - trawa morska  
 haygun - marynarka (flota)  
 hayhiyar - strzykwa  
-hayi - morski  
 hayjel - meduza  
 haynili - morskoniebieski  
 haytate - wybrzeże (plaża)  
+Hayakia - Armenia  
 he - hę?, co?, pardon?  
 helem - hel  
 heleni - gracki, helleński; Grek  
@@ -1141,7 +1149,7 @@ helme - hełm
 helpa - pomóc, pomagać, asystować  
 helpe - pomoc, wsparcie  
 hem - hmm  
-hema - dumać, rozmyślać, zastanawiać się  
+hema - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę  
 hemahe - namiot  
 hen - nienawidzić  
 herze - herc  
@@ -1186,7 +1194,6 @@ holia - całość (integralność)
 holmem - holm  
 Honduras - Honduras  
 Hong Gong - Hong Kong  
-honi - sto (100)  
 hor - godzina  
 horizon - horyzont  
 horizoni - poziomy (horyzontalny)  
@@ -1197,7 +1204,7 @@ Horvatia - Chorwacja
 hotel - hotel  
 huke - hak  
 hukokrus - swastyka  
-hul - lis  
+huley - lis  
 humus - ciecierzyca  
 humusosos - hummus  
 hura - uwolnić, uwalniać  
@@ -1282,8 +1289,9 @@ Italia - Italia, Włochy
 itis - zapalenie  
 iva - być skłonnym (mieć skłonność)  
 ive - tendencja  
-izi - łatwy, prosty  
 ####J - J  
+jaga - obudzić, budzić  
+jagi - przebudzony, przytomny  
 jakarte - Dżakarta  
 jake - kurtka  
 jama - kolekcjonować, zebrać, zbierać  
@@ -1580,8 +1588,6 @@ kolonistia - kolonializm
 kolum - kolumna, filar  
 kom - przecinek  
 komali - miękki  
-komanda - rozkazać, rozkazywać, zakomendować  
-komande - rozkaz, komenda  
 Komoro nesia - Komory  
 kompania - firma, kompania, korporacja  
 komputa - policzyć, liczyć, przetwarzać dane  
@@ -1593,8 +1599,10 @@ konga - przebić (perforować, dziurawić)
 koni - wspólny (wzajemny)  
 kono - razem (wspólnie)  
 konbash - wspólny język  
+konboni - pasować  
 konchaniste - komunista  
 konchanistia - komunizm  
+konfuncubli - kompatybilny (pasujący)  
 konkara - współpracować (kolaborować)  
 kontrate - pakt (kontrakt, ugoda, umowa, konwencja)  
 Konakri Ginia - Gwinea  
@@ -1606,7 +1614,6 @@ konfuze - Konfucjusz
 konfuzistia - konfucjanizm  
 kong - dziura  
 Konkani - konkani  
-konsida - rozważać, brać pod uwagę  
 kontini - ciągły (analogowy)  
 kontinu - kontynuować; wznawiać, ponawiać  
 kontra - być przeciw  
@@ -1732,6 +1739,7 @@ langan - poręcz (balustrada)
 Lanka - Sri Lanka  
 lantanum - lantan  
 Lao - Laos  
+Laoi - laotański  
 larve - larwa, czerw, gąsienica  
 lash - pozostałość (szczątek)  
 lasha - pozostawiać (pozostawić)  
@@ -1749,7 +1757,6 @@ Latvia - Łotwa
 laurensem - lorens  
 law - starzec  
 lawi - stary (sędziwy, wiekowy)  
-lawi - laotański  
 lawmam - babcia (babka)  
 lawpape - dziadek (dziad)  
 layu - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
@@ -1763,11 +1770,12 @@ legi - lekki
 legos - Lagos  
 lekino - jakkolwiek (jednak)  
 lengi - zimny, chłodny  
+lengomosim - zima  
+lengomosimi - zimowy  
 lense - soczewka  
 lensha - ćwiczyć  
 lenshe - ćwiczenie  
 lenti - powolny (wolny, letargiczny)  
-lete - lato  
 letis - sałata  
 lewo - już (skończona czynność)  
 leze - gruszka  
@@ -1810,6 +1818,8 @@ limonlugi - limonkowy (limonkowo zielony)
 limonrangi - żółty  
 lince - ryś  
 linfe - limfa  
+linka - łączyć, wiązać, złączyć  
+linke - połączenie, złącze, styk  
 linye - linia, pas, pręga, smuga  
 linyoparche - złamanie lini  
 lisan - język  
@@ -1818,10 +1828,10 @@ liste - lista, spis, wykaz
 litem - lit  
 litre - litr  
 livermorem - liwermor  
-liwkope - lejek  
+liwu - latać (fruwać)  
+liwkupe - lejek  
 liwmate - ciecz (płyn)  
 liwmati - ciekły (płynny)  
-liwu - latać (fruwać)  
 liwunis - fuzja (amalgamowanie, łączenie)  
 liwunisu - łączyć (złączyć)  
 lobake - rzodkiewka  
@@ -1854,11 +1864,7 @@ longia - długość
 longokrokodil - krokodyl  
 longopipre - pieprz długi  
 lontre - wydra  
-los - śruba, wkręt  
 lote - wsad, partia, porcja, seria  
-lova - kochać  
-love - miłość (afekt)  
-lovi - kochany (drogi)  
 lowa - przeciekać, ciec  
 lowa sang - krwawić  
 lugi - zielony  
@@ -1873,13 +1879,10 @@ luter - rabuś (grabieżca)
 lutetem - lutet  
 lutheristi - luterański  
 lutheristia - luteranizm  
-luza - przegrać, przegrywać  
-luza tena - stracić (utracić, tracić, zgubuć, gubić)  
-luze - przegrana (strata, porażka)  
-luzer - przegrany, pokonany  
+luva - kochać  
+luve - miłość (afekt)  
+luvi - kochany (drogi)  
 ####M - M  
-macha - pasować  
-machabli - kompatybilny (pasujący)  
 Madagasi - Madagaskar  
 madagasi - madagaskarski; malagaski  
 Madyar - Węgry  
@@ -1928,11 +1931,12 @@ Malvinas nesia - Falklandy, Malwiny
 mam - matka, mama  
 mamal - ssak  
 man - męski  
-mang - mango  
-mangan - mangan  
-mangus - mangostan  
 mani pute - syn  
 mani rajer - król  
+mangi - zajęty  
+mangan - mangan  
+mango - mango  
+mangus - mangostan  
 Manihay - prorok Mani  
 manihayistia - manicheizm  
 Manin nes - Wyspa Man  
@@ -1973,7 +1977,6 @@ maturi - dorosły, dojrzały
 maturi fem - kobieta, dorosła samica  
 maturi man - mężczyzna, dorosły samiec  
 maw - kot  
-may - mrówka  
 may (mayo) - bardziej, większościowy, wiodący, główny  
 may ko bas - zbyt  
 mayan - Maya  
@@ -2002,7 +2005,6 @@ medikia - medycyna
 medikosuy - eliksir (magiczny napój)  
 medita - medytować; dumać, rozmyślać, zastanawiać się  
 medofas - interfejs  
-medoleti den - przesilenie letnie (dzień srodka lata)  
 medu - między (wśród, pośród)  
 mega' - milion  
 megagram - tona  
@@ -2041,6 +2043,7 @@ metal - metal
 metalbede - kowadło  
 metaljanger - kowal  
 metode - metoda, sposób  
+metrun - jednostka miary  
 metre - miara  
 mey (meyi) - każdy, wszyscy  
 meze - stół  
@@ -2162,8 +2165,9 @@ mumren - mumia
 mun - drzwi, brama, portal  
 mungus - mangusta  
 mur - mur, ściana  
-Muritania - Mauretania  
 murkaguje - tapeta  
+murche - mrówka  
+Muritania - Mauretania  
 mus - przymus  
 musa - zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
 mush - mysz  
@@ -2241,12 +2245,6 @@ Nevis - Nevis
 nicha - pod, poniżej; iść w dół, iść pod spód, iść na dno  
 niche - spód  
 nichi - poniższy  
-nidan - potrzebny  
-nide - potrzeba  
-nidoshina - ufać (wierzyć, liczyć, polegać)  
-nidoshinabli - lojalny (wierny)  
-nidoshinablia - lojalność (wierność)  
-nidu - potrzebować  
 Nijer - Niger  
 Nikaragua - Nikaragua  
 nikel - nikiel  
@@ -2363,7 +2361,6 @@ oste - kość
 ostojamia - szkielet  
 ostoshalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
-oton - jesień  
 ####P - P  
 pa - do, dopóki, dla  
 pace - pokój  
@@ -2372,8 +2369,9 @@ paciste - pacyfista
 pacistia - pacyfizm  
 pacokade - dorsz pacyficzny  
 pada - upuścić, upuszczać  
-padomun - klapa  
 padu - paść, padać, upaść, upadać  
+padomosim - jesień  
+padomun - klapa  
 paduti - upadły  
 pagre - turban  
 paka - zapakować, pakować  
@@ -2472,6 +2470,7 @@ penda - powiesić, wieszać
 pendokardon - oset zwisły  
 penis - penis  
 penta - namalować, malować  
+pente - namalować, malować  
 penter - malarz  
 pepin - ogórek  
 per - pióro  
@@ -2545,26 +2544,28 @@ Pluton - Pluton (planeta karłowata)
 plutonem - pluton  
 podia - Tybet  
 poke - poker  
-polave - pilaw  
+poli - wiele  
+polia - ilość  
 polbashi - wielojęzyczny  
 poldewistia - politeizm  
 polfas - wielościan  
 polgon - wielokąt (wielościan)  
-poli - wiele  
-polia - ilość  
+polkulturi - wielokulturowy  
+polkulturistia - wielokulturowość  
+polmaria - częstotliwość  
+polmaro - często  
+polmeni - wieloznaczny  
+polnasi - wielonarodowy  
+polave - pilaw  
 police - policja  
 policer - oficer policji, policjant  
 politike - polityka  
-politiker - polityk  
 politiki - polityczny  
+politiker - polityk  
 politikolojia - politologia  
-polkulturi - wielokulturowy  
-polkulturistia - wielokulturowość  
-polmeni - wieloznaczny  
-polnasi - wielonarodowy  
 Polske - Polska  
-polskem - polon  
 polski - polski  
+polskem - polon  
 pompa - pompować  
 ponta - wskazać, wskazywać  
 ponter - wskaźnik  
@@ -2740,9 +2741,10 @@ ros - rosa
 rosta - piec  
 rosti pang - tost  
 rota - obrócić (kręcić)  
+rotu - obrócić się (kręcić się)  
 roter - rotor, wirnik  
 rototafun - trąba powietrzna (cyklon, tornado, tajfun)  
-rotu - obrócić się (kręcić się)  
+rototope - bąk, bączek  
 roze - róża  
 rozorangi - różowy, różany  
 rozosamon - gorbusza  
@@ -2798,6 +2800,7 @@ saha - poprawić, poprawiać, prostować, korygować
 sahi - właściwy, poprawny  
 Sahrawia - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
 saida - polować (łowić)  
+saida pesh - łapać rybę  
 saide - polowanie (łowienie)  
 saider - łowca (myśliwy)  
 sake - torba, wór, worek, torba, sakwa  
@@ -2813,13 +2816,13 @@ salam sube - dobry ranek
 salam yam - smacznego  
 salama - pozdrowić, pozdrawiać  
 salame - pozdrowienie  
-salima - poddać się, poddawać się  
 salmon - łosoś (pstrąg)  
 Salone - Sierra Leone  
 Salvador - Salwador  
 saman - niebo  
 samani - niebieski, niebiański, podniebny  
-samanonili - jasnoniebieski (lazurowy)  
+samanhal - pogoda  
+samannili - jasnoniebieski (lazurowy)  
 samarem - samar  
 samdeshi - rodak, ziomek, krajan  
 samemoce - współczucie  
@@ -2834,8 +2837,6 @@ samsifa - emulować (symulować, naśladować, modelować)
 samsifi - podobny (analogiczny)  
 samsifia - model (podobieństwo, symulować)  
 samu - być podobnym, być jak  
-samun - połączenie, złącze, styk  
-samuna - łączyć, wiązać, złączyć  
 sanduiche - kanapka  
 sanduke - pudło, skrzynia  
 sang - krew  
@@ -2892,7 +2893,6 @@ senta - czuć
 senter - macka (czułek)  
 ser - piła  
 Serbia - Serbia  
-sercha - szukać  
 seres - Ceres (planeta karłowata)  
 serpe - wąż  
 serva - służyć  
@@ -2922,6 +2922,7 @@ sharnir - zawias, oś
 sharta - wymagać, przewidywać  
 sharte - warunek  
 shashu - szeleścić  
+shati - sto (100)  
 shatan - diabeł, szatan  
 shatani - diabelski, szatański  
 shataniste - satanista  
@@ -2940,7 +2941,11 @@ shense - mistrz (sensei)
 shey - rzecz  
 sheyhal - sytuacja (stan)  
 sheyhalironia - ironia sytuacyjna  
-shibay - porażka (niepowodzenie, klapa)  
+shibay - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
+shibay - przegrana (strata, porażka)  
+shibaya - przegrać, przegrywać  
+shibaya tena - stracić (utracić, tracić, zgubuć, gubić)  
+shibayer - przegrany, pokonany  
 shiki - elegancki, szykowny  
 shim - serce  
 shin - wiara, wierzenie, kredo  
@@ -2972,7 +2977,7 @@ shudu - powinien
 shukar - cukier  
 shukari - słodki  
 shukarbete - burak cukrowy  
-shukargras - trzcina cukrowa  
+shukarcaw - trzcina cukrowa  
 shukaroranje - pomarańcza słodka (pomarańcza chińska)  
 shul - lekcja  
 shula - nauczyć się, uczyć się, studiować  
@@ -2990,6 +2995,7 @@ shusho - ćsi
 shute - umiejętność (kompetencja)  
 shuti - umiejętny (wprawny)  
 si - tak  
+siahi - czarny  
 Sibiria - Syberia  
 sida - siedzieć  
 side - siedzenie (siodło)  
@@ -3073,6 +3079,7 @@ sori - zamknięty (zakluczony, zapięty, bezpieczny)
 sos - sos  
 sosis - kiełbasa  
 Soto - Lesotho  
+sowa - szukać  
 suahili - suahili  
 suani - kwaśny  
 sube - ranek, rano, poranek  
@@ -3201,7 +3208,6 @@ tena - mieć (trzymać)
 tener - uchwyt (pojemnik)  
 tenesem - tenesyn, tennessine  
 tenis - tenis  
-tenke - pogoda  
 tenliste - spis treści (tabela zawartości)  
 tenta - kusić, nakłonić, nakłaniać  
 tenu - należeć  
@@ -3252,7 +3258,6 @@ togoli - togijski
 tokse - trucizna (toksyna)  
 toksi - toksyczny (trujący)  
 tokyo - Tokio  
-tol - bąk, bączek  
 tolera - tolerować  
 tomate - pomidor  
 ton - ton, dźwięk, nuta, tonacja  
@@ -3287,7 +3292,6 @@ tulpan - tulipan
 tundre - tundra  
 tunel - tunel  
 tuneltren - metro  
-tung - ból  
 tunike - tunika, toga  
 Tunisia - Tunezja  
 turki - turecki  
@@ -3313,9 +3317,10 @@ unisia - unia
 unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
 unmes - styczeń  
-unmete - jednostka miary  
 unrangi - jednokolorowy (monochromatyczny)  
-Unuti Arabi Emiria - Zjednoczone Emiraty Arabskie  
+Unuti Arabi Amiria - Zjednoczone Emiraty Arabskie  
+ungle - palec  
+ungloring - pierścień, pierścionek; obrączka  
 ura - wiwatować; hura  
 Uran - Uran  
 uranem - uran  
@@ -3370,6 +3375,7 @@ vermute - wermut
 version - wersja (wariacja, edycja, wydanie)  
 vespe - pszczoła lub osa  
 vesponizde - ul (gniazdo pszczół lub os)  
+vey - ogon  
 vica - zastąpić (podstawić, zamienić)  
 vice - alternatywa (substytut, zastępstwo)  
 vici - wice-  
@@ -3394,6 +3400,7 @@ vir - bohater, heros
 viri - bohaterski, heroiczny, odważny, brawurowy  
 virus - wirus  
 viruslojia - wirusologia  
+vite - śruba, wkręt  
 vize - wiza  
 vizita - odwiedzić, odwiedzać  
 vizite - wizyta  
@@ -3428,18 +3435,7 @@ washmashin - pralka
 washurse - szop pracz  
 wate - wat  
 waw - wow!, łoł!, jej!  
-way - zęwnętrzny  
-waya - wyrzucać (wyrzucić, wydalać, wydalić)  
-waydeshi - zagraniczny  
-waydeshia - zagranica  
-wayi - zewnętrzny  
-waymisa - eksportować (wyeksportować)  
-waynam - egzonim  
-wayoyam - piknik  
-waytira - rozciągać (rozciągnąć)  
 we - tamten  
-weka - obudzić, budzić  
-weki - przebudzony, przytomny  
 Wenjou - Wenzhou  
 wenjoworanje - mandarynka Satsuma (pomarańcza Satsuma)  
 weste - zachód  
@@ -3458,8 +3454,6 @@ wiski' - viski
 wolfe - wilk  
 wolfram - wolfram  
 Wolof - wolof  
-####X - X  
-xenon - ksenon  
 ####Y - Y  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
@@ -3471,11 +3465,17 @@ yama - skonsumować, konsumować, zjeść, jeść, wypić, pić)
 yami - pyszny  
 yamkamar - jadalnia  
 yamnide - głód  
-yamshukargras - cukrowiec jadalny  
+yamshukarcaw - cukrowiec jadalny  
 yang - rodzaj, typ, styl  
 yasen - jesion  
 yatim - sierota  
 yatimdom - sierociniec, dom dziecka  
+yaw - potrzeba  
+yawu - potrzebować  
+yawan - potrzebny  
+yawshina - ufać (wierzyć, liczyć, polegać)  
+yawshinabli - lojalny (wierny)  
+yawshinablia - lojalność (wierność)  
 ye - ten konkretny  
 yehudi - żydowski  
 yehudistia - judaizm  
@@ -3542,8 +3542,6 @@ zeyil - brodawka
 zeze - mucha  
 zigzage - zygzag  
 zikur - ziggurat  
-zim - zima  
-zimi - zimowy  
 Zimbabwe - Zimbabwe  
 zin - zdrada małżeńska, cudzołóstwo  
 zinje - imbir  

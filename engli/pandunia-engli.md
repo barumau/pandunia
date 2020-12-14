@@ -87,6 +87,12 @@ ameno - certainly (surely, amen)
 Amerike - America (continent)  
 ameriki - American  
 amerikem - americium  
+amir - order (command)  
+amira - order (issue a command)  
+amiria - emirate  
+amirer - emir  
+amirhake - authority (power to give orders)  
+amirlinye - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
 anativa - deactivate (disable, turn off)  
@@ -279,10 +285,10 @@ barke! - congratulations! (blessing)
 barkoke - apricot  
 barshe - rain (precipitation)  
 barshi - rainy  
-barshi mosim - rainy season (monsoon)  
 barshu - rain (pour down)  
 barshochate - umbrella  
 barshokote - raincoat  
+barshomosim - rainy season (monsoon)  
 barti - Indian  
 Barti Hay - Indian Ocean  
 Bartia - India  
@@ -369,7 +375,6 @@ biwlojia - biology (study of organic life)
 biwmuti - fermented  
 biwmutu - ferment (leaven)  
 biwsistem - biome  
-bizi - busy (occupied)  
 bizari - odd (strange, weird)  
 biznes - business (commercial activity)  
 bizneser - businessperson (businessman)  
@@ -449,6 +454,8 @@ butonbanze - keyboard
 buy - baobab  
 buze - goat  
 ####C - C  
+caw - grass  
+cawistan - grassland  
 cel - cell (biology)  
 celolojia - cytology  
 celsius darje - degree Celsius  
@@ -474,8 +481,6 @@ chanbash - artificial language (conlang)
 chaniva - fertilize  
 chanivi - productive (fertile)  
 chaniver - fertilizer  
-changia - frequency  
-chango - often (frequently)  
 chanse - opportunity (chance)  
 chanta - sing  
 chante - song  
@@ -504,8 +509,7 @@ chenvida - expect (anticipate, predict, forsee)
 chenvidi - expected  
 cheng - layer (level, storey, floor, stratum)  
 cherize - cherry  
-cherni - black  
-Chernogora - Montenegro  
+Chernagora - Montenegro  
 Chile - Chile  
 chili' - pepper (capsicum)  
 chilifun - paprika  
@@ -526,9 +530,7 @@ chora - steal
 chorer - thief  
 Chosen - Korea  
 Choseni - Korean  
-chula - exclude (except, save)  
 chum - kiss  
-chun - spring (springtime)  
 Chungking - Chongqing  
 chupa - suck (absorb)  
 chuta - leave (go out, exit)  
@@ -717,7 +719,6 @@ dulmes - February
 dulromansi - biromantic  
 dulseksi - bisexual  
 dulsondi - stereophonic  
-dum - tail  
 duman - smoke  
 duni - global  
 dunia - world  
@@ -743,7 +744,17 @@ ekojeni - wild (savage)
 ekolojia - ecology (study of environment)  
 ekor - squirrel  
 ekran - screen  
+eksa - oust (expel, exclude, except, save)  
+ekse - extérieur  
+eksi - outer (external)  
+eksodesh - foreign country  
+eksodeshi - foreign  
+eksomisa - export  
+eksonam - exonym  
+eksotira - stretch (extend)  
+eksoyam - picnic  
 eksa' - exa-  
+eksenon - xenon  
 Ekuador - Ecuador  
 eletre - electricity  
 eletri - electric  
@@ -752,8 +763,6 @@ eletroposte (e-poste) - e-mail
 eletrorade - lightning bolt  
 eletron - electron  
 em - element (the simplest unit)  
-emir - emir  
-emiria - emirate  
 emoce - emotion (feeling)  
 emoci - emotional (emotive)  
 emocu - feel  
@@ -819,9 +828,12 @@ europobalute - English oak
 evanjil - gospel (divine message)  
 evi - beneficial (good)  
 ####F - F  
+facili - easy  
+facilia - ease (facility)  
+facilia da akses - accessibility (ease of access)  
 fada - supply (dispense, issue, put out)  
 faide - resource (utility, asset)  
-faidi - useful (beneficial)  
+faidi - useful (beneficial, advantageous)  
 faidia - use (utility, benefit, gain, advantage)  
 faidomate - material (ingredient, resource)  
 faini - fine (delicate)  
@@ -898,8 +910,6 @@ filter - filter
 fin - end  
 fina - finish (put an end to)  
 fini - last (final)  
-fing - finger (toe)  
-fingoring - finger ring  
 fiorde - fjord  
 firuze - turquoise gem  
 fite - plant (vegetation)  
@@ -959,10 +969,11 @@ fuki - wear (have on clothes)
 fuku - dress (clothe oneself)  
 ful - flower  
 fulu - blossom (bloom)  
+fulmosim - spring (springtime)  
 fulvaze - vase (flower pot)  
 fun - dust (powder)  
-funca - function (work)  
 funchuper - vacuum cleaner  
+funcu - function (work)  
 funcubli - valid (workable)  
 fung - fungus (mushroom)  
 fungonete - mycelium  
@@ -1000,16 +1011,17 @@ gamel - camel
 gami - married  
 gamia - marriage (matrimony)  
 gamike - spouse (husband or wife)  
-Gana - Ghana  
 gana - dry out  
+gani - dry  
+gancaw - hay  
+ganmosim - dry season  
+ganputaw - raisin  
+Gana - Ghana  
 Ganda - Uganda  
 gandum - wheat  
-ganga - Ganges  
-gangras - hay  
-gani - dry  
+Ganga - Ganges  
 Ganimede - Ganymede  
 ganje - cannabis (marijuana, ganja, pot, weed)  
-ganputaw - raisin  
 ganya - earn (gain)  
 gar - car (cart, carriage, wagon, automobile)  
 garante - guarantee (warranty)  
@@ -1017,6 +1029,8 @@ garda - guard (watch)
 garder - guardian (watchman)  
 garmi - warm (hot)  
 garmi masal - garam masala  
+garmomosim - summer  
+garmomosimmedi den - Midsummer Day  
 garmozon - tropics  
 garmozoni - tropical  
 garparke - car park (parking lot)  
@@ -1029,14 +1043,14 @@ gatomate - solid
 gatomati - rigid (solid)  
 gaw - top  
 gawa - raise (lift)  
-gawdarji - advanced (high-level)  
-gawdarju - level up (graduate)  
 gawi - high (tall)  
 gawi tanur - blast furnace  
 gawia - height (altitude)  
+gawu - rise (go up)  
+gawdarji - advanced (high-level)  
+gawdarju - level up (graduate)  
 gawtali - vertical  
 gawtalu - bob up and down  
-gawu - rise (go up)  
 Gayana - Guyana  
 gaze - gauze  
 gazel - gazelle  
@@ -1081,8 +1095,6 @@ grafi - graphic (pictorial)
 grafsage - comic (cartoon)  
 gram - gram (g)  
 granite - granite  
-gras - grass  
-grasistan - grassland  
 grave - gravel  
 Grenada - Grenada  
 Grenadin nesia - the Grenadines  
@@ -1172,16 +1184,17 @@ hawa - blow
 Hawayi - Hawaii  
 Hawayi nesia - Hawaiian archipelago  
 hay - sea  
-Hayakia - Armenia  
+hayi - maritime  
 hayalge - seaweed (macroalgae)  
+hayamirer - admiral  
+hacaw - seagrass  
 hayful - sea anemone  
-haygras - seagrass  
 haygun - sea force (navy)  
 hayhiyar - sea cucumber  
-hayi - maritime  
 hayjel - jellyfish (seajelly)  
 haynili - aqua (teal)  
 haytate - coast (beach)  
+Hayakia - Armenia  
 he - huh? (pardon?)  
 helem - helium  
 heleni - Greek (Hellenic)  
@@ -1194,9 +1207,10 @@ helpa - help (assist)
 helpe - help (aid, assistance)  
 Helsinki - Helsinki  
 hem - hmm  
-hema - ponder (think)  
+hema - ponder (think, contemplate, consider, regard)  
 hemahe - tent  
-hen - hatred (hate)  
+hen - hatred (hate, resentment, odium)  
+hena - hate (despise)  
 herze - hertz (Hz)  
 hewan - animal  
 hewanjenisia - animal husbandry  
@@ -1240,7 +1254,6 @@ holia - wholeness (integrity)
 holmem - holmium  
 Honduras - Honduras  
 Hong Gong - Hong Kong, SAR China  
-honi - hundred (100)  
 hor - hour  
 horizon - horizon  
 horloger - clock (watch)  
@@ -1250,7 +1263,7 @@ Horvatia - Croatia
 hotel - hotel  
 huke - hook  
 hukokrus - swastika (hooked cross)  
-hul - fox  
+huley - fox  
 humus - chickpea  
 humusosos - hummus  
 hura - free (liberate)  
@@ -1336,10 +1349,9 @@ Italia - Italy
 itis - inflammation (-itis)  
 iva - tend to  
 ive - tendency (inclination)  
-izi - easy  
-izia - ease  
-izia da akses - accessibility (ease of access)  
 ####J - J  
+jaga - wake (make awake)  
+jagi - awake  
 jakarte - Jakarta  
 jake - jacket  
  - trading card  
@@ -1658,9 +1670,6 @@ kolonistia - colonialism
 kolum - column (pillar, pole, post)  
 kom - comma  
 komali - soft  
-komanda - order (issue a command)  
-komande - order (command)  
-komandolinye - command line (console, terminal)  
 Komoro nesia - Comoros  
 kompania - company (corporation)  
 komputa - compute (to process data)  
@@ -1672,9 +1681,13 @@ konga - pierce (perforate, bore)
 koni - common (mutual)  
 kono - together (jointly, mutually)  
 konbash - common language  
+konboni - match (fit, suit, go well together)  
 konchaniste - communist  
 konchanistia - communism  
+konformu - conform (fit, mold)  
+konfuncubli - compatible (supported)  
 konkara - collaborate (work together)  
+konpashia - compassion  
 kontena - contain (hold together)  
 kontener - container  
 kontrate - pact (contract, covenant, alliance)  
@@ -1687,7 +1700,6 @@ konfuze - Confucious
 konfuzistia - Confucianism  
 kong - hole  
 Konkani - Konkani  
-konsida - consider (regard)  
 kontini - continuous (analog)  
 kontinu - continue (resume)  
 kontra - be against  
@@ -1815,6 +1827,7 @@ langan - banister (handrail)
 Lanka - Sri Lanka (Ceylon)  
 lantanum - lanthanum  
 Lao - Laos  
+Laoi - Lao (Laotian)  
 larve - larva (maggot, caterpillar)  
 lash - leftover (residue, vestige)  
 lasha - leave behind (abandon, let go)  
@@ -1832,7 +1845,6 @@ Latvia - Latvia
 laurensem - lawrencium  
 law - elder  
 lawi - old (aged, elderly)  
-lawi - Lao (Laotian)  
 lawmam - grandmother  
 lawpape - grandfather  
 laya - bring (move closer)  
@@ -1847,11 +1859,12 @@ legi - light (weightless)
 legos - Lagos  
 lekino - however  
 lengi - cold  
+lengomosim - winter  
+lengomosimi - wintry  
 lense - lens  
 lensha - practice (to exercise)  
 lenshe - exercise  
 lenti - slow (lethargic)  
-lete - summer  
 letis - lettuce  
 lewo - already (completed action)  
 leze - pear  
@@ -1895,6 +1908,8 @@ limonlugi - lime green
 limonrangi - yellow  
 lince - lynx  
 linfe - lymph  
+linka - connect (join, link)  
+linke - joint (link)  
 linye - line (stripe)  
 linyoparche - line break (newline)  
 lisan - tongue  
@@ -1903,10 +1918,10 @@ liste - list (listing, catalogue)
 litem - lithium  
 litre - litre (liter)  
 livermorem - livermorium  
-liwkope - funnel  
+liwu - flow  
+liwkupe - funnel  
 liwmate - liquid  
 liwmati - fluid (liquid)  
-liwu - flow  
 liwunis - fusion (amalgamation)  
 liwunisu - merge (fuse)  
 lobake - radish  
@@ -1942,12 +1957,7 @@ longoduro - for a long time
 longokrokodil - crocodile  
 longopipre - long pepper (pipli)  
 lontre - otter  
-los - screw  
 lote - batch (lot)  
-lova - love (hold dear)  
-love - love (liking, affection)  
-lovi - dear (beloved)  
-lover - lover  
 lowa - leak  
 lowa sang - bleed  
 lugi - green  
@@ -1962,13 +1972,11 @@ luter - robber (plunderer)
 lutetem - lutetium  
 lutheristi - Lutheran  
 lutheristia - Lutheranism  
-luza - lose (fail, miss, be defeated)  
-luza tena - lose (shed, miss, misplace)  
-luze - loss (failure, miss)  
-luzer - loser  
+luva - love (hold dear)  
+luve - love (liking, affection)  
+luvi - dear (beloved)  
+luver - lover  
 ####M - M  
-macha - match (fit, suit, conform)  
-machabli - compatible (supported)  
 Madagasi - Madagascar  
 madagasi - Malagasy  
 Madyar - Hungary  
@@ -2017,11 +2025,12 @@ Malvinas nesia - Falkland Islands (Malvinas)
 mam - mother (mom, mama)  
 mamal - mammal  
 man - male  
-mang - mango  
-mangan - manganese  
-mangus - mangosteen  
 mani pute - son  
 mani rajer - king  
+mangi - busy (occupied)  
+mangan - manganese  
+mango - mango  
+mangus - mangosteen  
 Manihay - prophet Mani  
 manihayistia - Manichaeism  
 Manin nes - Isle of Man  
@@ -2063,7 +2072,6 @@ maturi - mature (ripe, adult)
 maturi fem - woman (adult female)  
 maturi man - man (adult male)  
 maw - cat  
-may - ant  
 may (mayo) - more (also, too)  
 may ko bas - too much  
 mayan - Maya  
@@ -2092,7 +2100,6 @@ medikia - medicine (field of study)
 medikosuy - potion  
 medita - meditate (ponder)  
 medofas - interface  
-medoleti den - Midsummer Day  
 medu - among (amid, between)  
 megagram - tonne (metric ton)  
 megawate - megawat (MW)  
@@ -2130,6 +2137,7 @@ metal - metal
 metalbede - anvil  
 metaljanger - blacksmith (iron forger)  
 metode - method (means)  
+metrun - unit (measurement)  
 metre - measurement  
 mey (meyi) - every (each)  
 meze - table  
@@ -2253,8 +2261,9 @@ mumren - mummy
 mun - door (gate, portal)  
 mungus - mongoose  
 mur - wall (structure for delimitation)  
-Muritania - Mauritania  
 murkaguje - wallpaper  
+murche - ant  
+Muritania - Mauritania  
 mus - coercion  
 musa - coerce (force, compel)  
 mush - mouse  
@@ -2337,13 +2346,6 @@ Nevis - Nevis
 nicha - under (go under)  
 niche - underside (underneath)  
 nichi - lower (inferior)  
-nidan - necessary (needed)  
-nide - need (shortage, lack)  
-nidi - needy (lacking)  
-nidoshina - trust (rely)  
-nidoshinabli - loyal (faithful, trustworthy)  
-nidoshinablia - loyalty (faithfulness)  
-nidu - need (lack)  
 Nijer - Niger  
 Nikaragua - Nicaragua  
 nikel - nickel  
@@ -2464,7 +2466,6 @@ oste - bone
 ostojamia - skeleton (frame)  
 ostoshalke - scute  
 Ostria - Austria  
-oton - autumn (fall)  
 ####P - P  
 pa - to (toward, till, until, for)  
 pace - peace  
@@ -2473,8 +2474,9 @@ paciste - pacifist
 pacistia - pacifism  
 pacokade - Pacific cod  
 pada - drop (let fall)  
-padomun - trapdoor  
 padu - fall  
+padomosim - autumn (fall)  
+padomun - trapdoor  
 paduti - fallen  
 pagre - turban  
 paka - pack  
@@ -2574,7 +2576,8 @@ pelpel - butterfly
 penda - hang (dangle)  
 pendokardon - musk thistle  
 penis - penis (phallus)  
-penta - paint  
+penta - paint (cover in paint)  
+pente - paint  
 penter - painter  
 pepin - cucumber  
 per - feather  
@@ -2591,7 +2594,9 @@ pete - belly (stomach, abdomen)
 petre - rock  
 petronefte - petroleum  
 pey - payment  
-peykar - profession (occupation)  
+peykar - profession (job, occupation, trade, vocation)  
+peykari - professional (occupational, career)  
+peykari jive - career (professional life)  
 peykarer - professional (pro)  
 peya - pay  
 piano' - piano  
@@ -2652,26 +2657,28 @@ Pluton - Pluto (dwarf planet)
 plutonem - plutonium  
 podia - Tibet  
 poke - poker  
-polave - pilaf (pulao)  
+poli - many (much)  
+polia - amount (quantity)  
 polbashi - multilingual  
 poldewistia - polytheism  
 polfas - polyhedron  
 polgon - polygon  
-poli - many (much)  
-polia - amount (quantity)  
+polkulturi - multicultural  
+polkulturistia - multiculturalism  
+polmaria - frequency  
+polmaro - often (frequently)  
+polmeni - ambiguous  
+polnasi - multinational  
+polave - pilaf (pulao)  
 police - police  
 policer - police officer  
 politike - politics  
-politiker - politician  
 politiki - political  
+politiker - politician  
 politikolojia - politocology  
-polkulturi - multicultural  
-polkulturistia - multiculturalism  
-polmeni - ambiguous  
-polnasi - multinational  
 Polske - Poland  
-polskem - polonium  
 polski - Polish  
+polskem - polonium  
 pompa - pump  
 ponta - point at (indicate)  
 ponter - pointer (indicator)  
@@ -2779,7 +2786,8 @@ rasmedi - interracial
 raste - growth  
 rastu - grow (grow up, expand)  
 ratiba - order (arrange)  
-ratibe - order (arrangement)  
+ratibe - order (arrangement, sequence)  
+ratibi - orderly (organized, in sequence, tidy, regular)  
 ray - opinion (view)  
 raya - deem (think that)  
 razon - reason (rational thinking)  
@@ -2851,9 +2859,10 @@ ros - dew
 rosta - roast  
 rosti pang - toast (toasted bread)  
 rota - rotate (make spin)  
+rotu - rotate (spin, turn on an axis)  
 roter - rotor (rotator)  
 rototafun - cyclone (hurrican, tornado, typhoon)  
-rotu - rotate (spin, turn on an axis)  
+rototope - top (spinning top)  
 roze - rose  
 rozorangi - pink (rosy)  
 rozosamon - pink salmon  
@@ -2909,6 +2918,7 @@ saha - correct (make right)
 sahi - right (correct, accurate)  
 Sahrawia - Sahrawi Arab Democratic Republic  
 saida - hunt (fish)  
+saida pesh - catch fish  
 saide - hunting (fishing)  
 saider - hunter  
 sake - bag (sack)  
@@ -2924,17 +2934,17 @@ salam sube - Good morning
 salam yam - bon appetit!  
 salama - greet  
 salame - greeting (hello)  
-salima - surrender (to give up)  
 salmon - salmon (trout)  
 Salone - Sierra Leone  
 Salvador - El Salvador  
 saman - sky (heaven)  
 samani - celestial (heavenly)  
-samanonili - light blue (sky blue, azure)  
+samanhal - weather  
+samannili - light blue (sky blue, azure)  
 samarem - samarium  
 samdeshi - compatriot  
 samemoce - compassion (sympathy)  
-sami - same (equal)  
+sami - same (equal, match)  
 sammetri - symmetrical  
 sammetria - symmetry  
 samnam - homonym  
@@ -2947,8 +2957,6 @@ samsifa - emulate (simulate, mimic, model)
 samsifi - similar (analogous)  
 samsifia - model (similarity, simulation)  
 samu - resemble (be like)  
-samun - joint  
-samuna - connect (join, link)  
 sanduiche - sandwich  
 sanduke - box (chest)  
 sang - blood  
@@ -3006,7 +3014,6 @@ senta - feel (sense by touch)
 senter - tentacle (feeler)  
 ser - saw  
 Serbia - Serbia  
-sercha - search  
 seres - Ceres (dwarf planet)  
 serpe - snake (serpent)  
 serva - serve (give service)  
@@ -3036,6 +3043,7 @@ sharnir - hinge (pivot)
 sharta - stipulate  
 sharte - condition (requirement)  
 shashu - rustle  
+shati - hundred (100)  
 shatan - devil (Satan)  
 shatani - devilish (satanic)  
 shataniste - Satanist  
@@ -3054,7 +3062,11 @@ shense - master (sensei)
 shey - thing  
 sheyhal - situation (circumstances, state of affairs)  
 sheyhalironia - situational irony  
-shibay - failure (flop)  
+shibay - failure (loss, flop, miss, defeat)  
+shibay - loss (failure, miss)  
+shibaya - lose (fail, miss, be defeated)  
+shibaya tena - lose (shed, miss, misplace)  
+shibayer - loser  
 shiki - elegant (chic)  
 shim - heart  
 shin - belief (faith, creed)  
@@ -3086,7 +3098,7 @@ shudu - should (ought)
 shukar - sugar  
 shukari - sugary (sweet)  
 shukarbete - sugar beet  
-shukargras - sugarcane  
+shukarcaw - sugarcane  
 shukaroranje - sweet orange  
 shul - lesson (teaching)  
 shula - learn (study)  
@@ -3106,6 +3118,7 @@ shusho - hush (shh)
 shute - skill (art, craft)  
 shuti - skillful (crafty)  
 si - yes  
+siahi - black  
 Sibiria - Siberia  
 sida - sit (put down)  
 side - seat (saddle)  
@@ -3189,6 +3202,7 @@ sori - locked (secure)
 sos - sauce  
 sosis - sausage  
 Soto - Lesotho  
+sowa - search (seek, look for)  
 suahili - Swahili  
 suani - sour  
 sube - morning (dawn)  
@@ -3319,7 +3333,6 @@ tena - have (keep, possess)
 tener - keeper (possessor)  
 tenesem - tennessine  
 tenis - tennis  
-tenke - weather  
 tenliste - table of contents (inventory)  
 tenta - tempt (entice)  
 tenu - belong  
@@ -3373,7 +3386,6 @@ togoli - Togolese
 tokse - poison (venom)  
 toksi - toxic (poisonous, venomous)  
 tokyo - Tokyo  
-tol - top (spinning top)  
 tolera - tolerate  
 tomate - tomato  
 ton - tone (note, pitch, shade)  
@@ -3409,7 +3421,6 @@ tulpan - tulip
 tundre - tundra  
 tunel - tunnel  
 tuneltren - subway (metro)  
-tung - hurt (pain)  
 tunike - tunic (gown)  
 Tunisia - Tunisia  
 turki - Turkish  
@@ -3436,9 +3447,10 @@ unisia - union
 unmaro - once  
 unmeni - unambiguous  
 unmes - January  
-unmete - unit (measurement)  
 unrangi - monochrome  
-Unuti Arabi Emiria - United Arab Emirates  
+Unuti Arabi Amiria - United Arab Emirates  
+ungle - finger (toe)  
+ungloring - finger ring  
 ura - cheer (hurrah, hooray)  
 Uran - Uranus  
 uranem - uranium  
@@ -3498,6 +3510,7 @@ vero - truly (indeed, very)
 version - version (variation, edition)  
 vespe - bee or wasp  
 vesponizde - bee nest (beehive, wasp's nest)  
+vey - tail  
 vica - substitute (replace)  
 vice - alternative (substitute, replacement)  
 vici - vice (deputy)  
@@ -3522,6 +3535,7 @@ vir - hero
 viri - heroic  
 virus - virus  
 viruslojia - virology  
+vite - screw  
 vize - visa  
 vizita - visit  
 vizite - visitation (visit)  
@@ -3558,18 +3572,7 @@ washmashin - washing machine
 washurse - raccoon  
 wate - watt  
 waw - wow! (gee!)  
-way - outside (exterior)  
-waya - oust (expel)  
-waydeshi - foreign  
-waydeshia - foreign country  
-wayi - outer (external)  
-waymisa - export  
-waynam - exonym  
-wayoyam - picnic  
-waytira - stretch (extend)  
 we - that one  
-weka - wake (make awake)  
-weki - awake  
 Wenjou - Wenzhou  
 wenjoworanje - satsuma mandari  
 weste - west  
@@ -3588,8 +3591,6 @@ wiski' - whisky (whiskey)
 wolfe - wolf  
 wolfram - tungsten (wolfram)  
 Wolof - Wolof (language and people)  
-####X - X  
-xenon - xenon  
 ####Y - Y  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
@@ -3601,12 +3602,19 @@ yama - consume (eat or drink)
 yami - delicious (yummy)  
 yamkamar - dining room  
 yamnide - hunger  
-yamshukargras - duruka  
+yamshukarcaw - duruka  
 yang - kind (style, sort, type)  
 Yapetus - Iapetus  
 yasen - ash tree  
 yatim - orphan  
 yatimdom - orphanage  
+yaw - need (shortage, lack)  
+yawi - needy (lacking)  
+yawu - need (lack)  
+yawan - necessary (needed)  
+yawshina - trust (rely)  
+yawshinabli - loyal (faithful, trustworthy)  
+yawshinablia - loyalty (faithfulness)  
 ye - this one  
 yehudi - Jewish  
 yehudistia - Judaism  
@@ -3677,8 +3685,6 @@ zeyil - wart
 zeze - fly (housefly)  
 zigzage - zigzag  
 zikur - ziggurat  
-zim - winter  
-zimi - wintry  
 Zimbabwe - Zimbabwe  
 zin - adultery (infidelity)  
 zinje - ginger  

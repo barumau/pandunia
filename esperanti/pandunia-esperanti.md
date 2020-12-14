@@ -55,6 +55,8 @@ ameno - certe
 Amerike - Ameriko  
 ameriki - amerika  
 amerikem - americio  
+amir - ordono  
+amira - ordoni  
 amper - ampero  
 ani - mala  
 andewiste - ateisto  
@@ -210,7 +212,6 @@ bismute - bismuto
 biw - organismo  
 biwi - orgaaninen (biologinen)  
 biwlojia - biologio  
-bizi - okupata  
 bizari - stranga  
 biznes - negoco  
 bizneser - komercisto  
@@ -260,6 +261,7 @@ butonbanze - klavaro
 buy - baobabo  
 buze - kapro  
 ####C - C  
+caw - herbo  
 cel - ĉelo  
 celolojia - citologio  
 centi' - centono  
@@ -274,7 +276,6 @@ chamache - kulero
 champion - ĉampiono  
 chana - produkti (fabriki)  
 chanbash - artefarita lingvo  
-chango - ofte  
 chanse - ŝanco  
 chanta - kanti  
 chante - kanto  
@@ -287,7 +288,6 @@ chay - teo
 cheka - kontroli  
 chena - antaŭiri  
 chendeno - hieraū  
-cherni - nigra  
 Chile - Ĉilio  
 chimpanze - ĉimpanzo  
 chini - hana  
@@ -299,9 +299,7 @@ chokolatobaton - ĉokolado
 chor - ŝtelo  
 chora - ŝteli  
 chorer - ŝtelisto  
-chula - krom (escepti)  
 chum - kiso  
-chun - printempo  
 chupa - suĉi  
 chuta - eliri  
 chute - eliro  
@@ -400,7 +398,6 @@ duki - malĝoja
 duku - lamenti  
 duli - du (2)  
 dulbashi - dulingva  
-dum - vosto  
 duman - fumo  
 duni - tera  
 dunia - mondo  
@@ -418,7 +415,12 @@ eglis - preĝejo
 ekia - naturo  
 ekor - sciuro  
 ekran - ekrano  
+eksa - krom (escepti)  
+ekse - ekstero  
+eksi - ekstera  
+eksodesh - fremda lando  
 eksa' - eksa-  
+eksenon - ksenono  
 Ekuador - Ekvadoro  
 eletre - elektro  
 eletri - elektra  
@@ -460,6 +462,7 @@ europi - Eŭropa
 europi unisia - Eŭropa Unio (EU)  
 evanjil - evangelio  
 ####F - F  
+facili - facila  
 faidi - utila  
 faidia - utileco  
 faini - fajna  
@@ -506,8 +509,6 @@ filter - filtri
 fin - fino  
 fina - fini  
 fini - lasta  
-fing - fingro  
-fingoring - ringo  
 fiorde - fjordo  
 firuze - turkiso  
 fite - planto  
@@ -547,9 +548,10 @@ fuke - vesto
 fuki - surporti  
 fuku - vesti  
 ful - floro  
+fulmosim - printempo  
 fulvaze - vazo (florpoto)  
 fun - polvo  
-funca - funkcii  
+funcu - funkcii  
 fung - fungo  
 furete - furo  
 furia - kolero (furiozo)  
@@ -573,17 +575,18 @@ galti - erara
 gama - edzigi  
 gamel - kamelo  
 gamia - geedzeco  
-gandum - tritiko  
-ganga - Gangoj  
 gani - seka  
-ganje - kanabo  
 ganputaw - sekvinbero  
+gandum - tritiko  
+Ganga - Gangoj  
+ganje - kanabo  
 ganya - akiri (gajni)  
 gar - aŭto (ĉaro)  
 garante - garantio  
 garda - gardi  
 garder - gardisto  
 garmi - varma  
+garmomosim - somero  
 gas - gaso  
 gati - malmola  
 gatomate - solido  
@@ -611,7 +614,6 @@ grafa - desegni
 grafi - grafika (bilda)  
 grafsage - bildrakonto  
 gram - gramo  
-gras - herbo  
 grimas - grimaco  
 grom - tondro  
 grupe - grupo  
@@ -666,8 +668,9 @@ hatri - danĝera
 haw - vento  
 hawa - venti  
 hay - maro  
-haygun - mararmeo  
 hayi - mara  
+hayamirer - admiralo (ŝiparestro)  
+haygun - mararmeo  
 he - ĉu?  
 helem - helio  
 heleni - greka  
@@ -676,7 +679,7 @@ helisviman - helikoptero
 helme - kasko  
 helpe - helpo  
 hem - hm  
-hema - pripensi  
+hema - pripensi (rigardi ia)  
 hemahe - tendo  
 hen - malamo  
 hewan - besto  
@@ -699,7 +702,6 @@ hogosanduke - lanterno
 hoke - hokeo  
 holmem - holmio  
 Honduras - Honduro  
-honi - cent  
 hor - horo  
 horloger - horloĝo  
 hormon - hormono  
@@ -707,7 +709,7 @@ Horvatia - Kroatio
 hotel - hotelo  
 huke - hoko  
 hukokrus - svastiko  
-hul - vulpo  
+huley - vulpo  
 hura - liberigi  
 huri - libera  
 huria - libereco  
@@ -746,8 +748,8 @@ istia - ismo
 Italia - Italio  
 iva - emi  
 ive - emo (inklino, tendenco)  
-izi - facila  
 ####J - J  
+jagi - uyanık  
 jake - jako  
 jama - kolekti (kunigi)  
 Jamaika - Jamajko  
@@ -895,8 +897,6 @@ kode - kodo
 kokode - koko  
 kolum - kolono  
 komali - mola  
-komanda - ordoni  
-komande - ordono  
 kompania - kompanio (firmao)  
 komputer - komputero  
 komuni - komuna  
@@ -904,12 +904,12 @@ komunkratia - republiko
 koni - kuna  
 kono - kune  
 konbash - komuna lingvo  
+konboni - kongrui  
 konchaniste - komunisto  
 konchanistia - komunismo  
 konkara - kunlabori  
 koncerte - koncerto  
 konfuze - Konfuceo  
-konsida - rigardi ia  
 kontra - kontraŭ  
 kopa - kopii  
 kope - kopio  
@@ -971,10 +971,11 @@ layu - veni
 le - li aŭ ŝi aŭ ĝi  
 lekino - tamen  
 lengi - malvarma  
+lengomosim - vintro  
+lengomosimi - vintra  
 lensha - ekzerci  
 lenshe - ekzerco  
 lenti - malrapida  
-lete - somero  
 letis - laktuko  
 lewo - jam (esti farita)  
 leze - piro  
@@ -1010,10 +1011,6 @@ loki - loka
 lole - ili  
 longa - longigi  
 longi - longa  
-lova - ami (ŝati)  
-love - amo  
-lovi - kara  
-lover - amanto  
 lowa - liki  
 lowa sang - sangi  
 lugi - verda  
@@ -1022,8 +1019,11 @@ lun - luno
 luta - rabi  
 luter - rabisto  
 lutetem - lutecio  
+luva - ami (ŝati)  
+luve - amo  
+luvi - kara  
+luver - amanto  
 ####M - M  
-macha - kongrui  
 magesem - magnezio  
 magia - magio  
 maitnerem - mejtnerio  
@@ -1035,6 +1035,7 @@ malker - havanto
 malrupi - malbonaspekta  
 mam - patrino  
 man - viro  
+mangi - okupata  
 mangan - mangano  
 manir - maniero (konduto)  
 manse - viando  
@@ -1056,7 +1057,6 @@ maturi - matura (plenkreska)
 maturi fem - virino  
 maturi man - viro  
 maw - kato  
-may - formiko  
 may (mayo) - pli (ankaŭ)  
 may ko bas - tro  
 mayan - majao  
@@ -1142,6 +1142,7 @@ mumren - mumio
 mun - pordo  
 mur - vando  
 murkaguje - tapeto  
+murche - formiko  
 mus - devo  
 musa - devigi  
 mush - muso  
@@ -1177,7 +1178,6 @@ nete - reto
 neur - nervo  
 neurcel - neŭrono  
 neuri - nerva  
-nidu - bezoni  
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
 nikel - nikelo  
@@ -1226,12 +1226,12 @@ orti - rekta
 osme - osmozo  
 osmem - osmio  
 oste - osto  
-oton - aŭtuno  
 ####P - P  
 pa - al (ĝis, por)  
 pace - paco  
 paciste - pacifisto  
 pacistia - pacifismo  
+padomosim - aŭtuno  
 pake - pako  
 pakse - birdo  
 pal - frukto  
@@ -1258,6 +1258,7 @@ parke - parko (ĝardeno)
 parta - partopreni  
 partia - partio  
 pas - pasinteco  
+ - kipu  
 pasi - pasinta  
 paso - antaŭe (pasinte)  
 pasporte - pasporto  
@@ -1272,6 +1273,7 @@ pede - furzo
 pelpel - papilio  
 penis - peniso  
 penta - pentri  
+pente - pentri  
 pepin - kukumo  
 per - plumo  
 pes - mono  
@@ -1305,12 +1307,13 @@ plumbe - plumbo
 plutonem - plutonio  
 podia - Tibeto  
 poke - pokero  
+poli - multe  
 polbashi - multlingva  
 polgon - poligono  
-poli - multe  
+polmaro - ofte  
 politike - politiko  
-politiker - politikisto  
 politiki - politika  
+politiker - politikisto  
 polskem - polonio  
 ponta - montri  
 porte - haveno  
@@ -1429,6 +1432,7 @@ salam yam - bonan apetiton!
 salama - saluti  
 salame - saluto  
 saman - ĉielo  
+samanhal - vetero  
 samarem - samario  
 samdeshi - samlandano  
 samemoce - kompato  
@@ -1473,6 +1477,7 @@ shanti - trankvila (serena)
 sharme - honto  
 sharnir - ĉarniro (pivoto)  
 sharte - kondiĉo (postulo)  
+shati - cent  
 shatan - diablo (Satano)  
 shatranje - ŝako  
 shawi - malmulte  
@@ -1511,6 +1516,7 @@ shuru - komenciĝi
 shusha - silentigi  
 shushi - silenta  
 si - jes  
+siahi - nigra  
 sida - sidi  
 sifloge - adjektivo  
 sihi - sana  
@@ -1599,7 +1605,6 @@ tema - esti pri; pridiskuti
 tena - havi (teni)  
 tenesem - teneso  
 tenis - teniso  
-tenke - vetero  
 tenu - aparteni  
 teoria - teorio  
 tepe - bendo  
@@ -1647,6 +1652,8 @@ uniki - sola (ununura)
 uniko - sole  
 unisia - uniono  
 unmaro - unufoje  
+ungle - fingro  
+ungloring - ringo  
 uranem - uranio  
 urse - urso  
 uza - uzi  
@@ -1670,6 +1677,7 @@ veri - vera
 vermute - vermuto  
 version - versio (toisinto)  
 vespe - abelo aŭ vespo  
+vey - vosto  
 vici - vic-  
 vicologe - pronomo  
 vida - vidi (rigardi)  
@@ -1694,9 +1702,6 @@ washa - lavi
 washmashin - lavmaŝino  
 wate - vato  
 waw - ŭaŭ!  
-way - ekstero  
-waydeshia - fremda lando  
-wayi - ekstera  
 we - tiu  
 wi - tiu  
 wike - vikia artikulo  
@@ -1704,14 +1709,13 @@ wikia - vikio
 wil - estonoteco  
 wilo - estonte  
 wolfe - lupo  
-####X - X  
-xenon - ksenono  
 ####Y - Y  
 yala - rapidigi  
 yama - manĝi (trinki)  
 yamkamar - manĝoĉambro  
 yamnide - malsato  
 yang - speco (tipo, stilo)  
+yawu - bezoni  
 ye - ĉi tio  
 yemenia - Jemeno  
 yesho - ankoraŭ  
@@ -1743,8 +1747,6 @@ zemmetria - geometrio
 zemsisme - tertremo  
 zeyil - veruko  
 zeze - muŝo  
-zim - vintro  
-zimi - vintra  
 zin - malfideleco  
 zinje - zingibro  
 zinke - zinko  
