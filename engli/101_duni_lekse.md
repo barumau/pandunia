@@ -21,20 +21,20 @@ The languages within a certain cultural sphere share words (loan words and trans
 The four major cultural spheres are:
 
 1. The Western (or the European) cultural sphere
-   - This sphere covers all of Europe, Americas, Australia and various smaller regions.
-   - Languages of the West have been influenced greatly by Greek and Latin and in modern times by French and English.
+    - This sphere covers all of Europe, Americas, Australia and various smaller regions.
+    - Languages of the West have been influenced greatly by Greek and Latin and in modern times by French and English.
 2. The Afro-Asian (or the Islamic) cultural sphere
-   - This group includes languages of areas where Islam is the main religion.
-   - It spans from the Atlantic coast of Africa to the islands in the Pacific of Indonesia and the Philippines.
-   - The languages of this cultural sphere are influenced by Persian and especially Arabic, which is the language of Quran, the holy book of Islam.
+    - This group includes languages of areas where Islam is the main religion.
+    - It spans from the Atlantic coast of Africa to the islands in the Pacific of Indonesia and the Philippines.
+    - The languages of this cultural sphere are influenced by Persian and especially Arabic, which is the language of Quran, the holy book of Islam.
 3. The South Asian (or the Indian) cultural sphere
-   - This sphere covers the very populous subcontinent of India, Indochina and more
-   - The classical language of this group are Sanskrit, Tamil and Pāli
-   - The Indian vocabulary has been spread by Hinduism and especially Buddhism in all directions in Asia and elsewhere.
+    - This sphere covers the very populous subcontinent of India, Indochina and more
+    - The classical language of this group are Sanskrit, Tamil and Pāli
+    - The Indian vocabulary has been spread by Hinduism and especially Buddhism in all directions in Asia and elsewhere.
 4. The East Asian (or the Chinese) cultural sphere
-   - This culturel sphere grew around ancient China, the Middle Kingdom
-   - All languages of East Asia are saturated by loan words from Chinese.
-   - The biggest modern Chinese language, Mandarin, competes for the title of the most spoken language in the world today.
+    - This culturel sphere grew around ancient China, the Middle Kingdom
+    - All languages of East Asia are saturated by loan words from Chinese.
+    - The biggest modern Chinese language, Mandarin, competes for the title of the most spoken language in the world today.
 
 The cultural spheres are roughly outlined in the picture below.
 
@@ -172,12 +172,12 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **baxe**.
+So the Pandunia word for language becomes **bash**.
 
 
 ### Examples of global words
 
-#### bire (beer)
+#### bir (beer)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -196,7 +196,7 @@ So the Pandunia word for language becomes **baxe**.
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### cay (tea)
+#### chay (tea)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -205,11 +205,11 @@ So the Pandunia word for language becomes **baxe**.
 | Korean     | tʃʰa         | 차 |
 | Vietnamese | tʂa          | trà             |
 | Bangla     | tʃa          | চা  |
-| Hindi      | tʃai         | चाय |
-| Russian    | tʃai         | чай             |
-| Turkish    | tʃai         | çay             |
+| Hindi      | tʃay         | चाय |
+| Russian    | tʃay         | чай             |
+| Turkish    | tʃay         | çay             |
 | Swahili    | tʃai         | chai            |
-| Arabic     | ʃai          | شاي |
+| Arabic     | ʃay          | شاي |
 | Portuguese | ʃa           | chá             |
 
 
@@ -231,7 +231,7 @@ So the Pandunia word for language becomes **baxe**.
 
 ### Examples of semiglobal words
 
-#### bandere (flag)
+#### bandir (flag)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -245,7 +245,7 @@ So the Pandunia word for language becomes **baxe**.
 | Kongo      | bande:la     | bandêla         |
 
 
-#### kamise (shirt)
+#### kamis (shirt)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -263,7 +263,7 @@ So the Pandunia word for language becomes **baxe**.
 
 ### Examples of South Asian words
 
-#### pale (fruit)
+#### pal (fruit)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -275,18 +275,6 @@ So the Pandunia word for language becomes **baxe**.
 
 
 ### Examples of East Asian words
-
-#### ren (person)
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Mandarin   | ʐən          | 人 (rén)     |
-| Wu         | ɲiŋ, zəŋ     | 人           |
-| Cantonese  | jɐn          | 人           |
-| Vietnamese | ɲɜn          | nhân         |
-| Korean     | in           | 인           |
-| Japanese   | niŋ, dʒiŋ    | 人           |
-
 
 #### laya (come)
 
@@ -304,7 +292,7 @@ So the Pandunia word for language becomes **baxe**.
 
 ### Examples of words from Arabic
 
-#### duve (prayer)
+#### duwe (prayer)
 
 | Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
@@ -335,26 +323,62 @@ The original Arabic word means all kinds of writing.
 
 ### Examples of scattered words
 
-#### kamare (room, chamber)
+#### jan (person, people)
 
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Italian    | kamera       | camera          |
-| Portuguese | kɐmaɾa       | câmara          |
-| Spanish    | kamaɾa       | cámara          |
-| German     | kamɐ         | Kammer          |
-| Hindi      | kəmra        | कमरा             |
-| Urdu       | kəmra        | کمرا      |
-| Indonesian | kamar        | kamar           |
+The word **jan** is combined from several unrelated sources.
+
+- East Asia
+    - Mandarin 人 /ʐən/ (person)
+    - Wu 人 /zəŋ/ (person)
+    - Japanese 人 /dʒin/ (person, in some compounds)
+- the West
+    - French "gens" /ʒã/ (people)
+    - Portuguese "gente" /ʒenti/ (people)
+- South Asia
+    - Hindi जन /dʒan/ (person, people)
+    - Bengali জন /dʒon/ (counter word for people)
+    - Thai ชน /t͡ɕʰon˧/ (person, people)
+    - Khmer ជន /cɔ:n/ (person, people)
+
+#### kamar (room, chamber)
+
+- the West
+    - Italian "camera" (chamber)
+    - Portuguese "câmara" (chamber)
+    - Spanish "cámara" (chamber)
+    - German "Kammer" (chamber)
+- South Asia
+    - Hindi कमरा /kəmra:/ (room)
+    - Urdu کمرا  /kəmra:/ (room)
+    - Malay "kamar" (room)
 
 #### kata (to cut)
 
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| English    | kʌt          | cut             |
-| Hindi      | kətna        | काटना           |
-| Bangla     | kata         | কাটা                |
-| Swahili    | kata         | kata            |
-| Wu Chinese | kɐʔ          |  |
-| Vietnamese | kɐʔt         | cắt             |
+- the West
+    - English "cut" /kʌt/
+- South Asia
+    - Hindi काटना /katna:/
+    - Bengali কাটা /kata/
+- Africa
+    - Swahili "-kata"
+- East Asia
+    - Wu Chinese 隔 /kɐʔ/
+    - Vietnamese "cắt" /kɐʔt/
+
+#### amir (order, command)
+
+Originally an Arabic word, it has been borrowed to the West as
+"emir" (commander of an Islamic nation)
+and "admiral" (commander of the navy).
+
+- Africa and Asia
+    - Arabic أَمْر‎ /ʾamr/
+    - Persian امر‎ /amr/
+    - Turkish "emir"
+    - Swahili "amri"
+    - Hausa "umarni"
+- the West
+    - English "emir" and "admiral"
+    - French "amiral" (admiral)
+    - Russian "эмир" (emir)
 
