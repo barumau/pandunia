@@ -1,119 +1,119 @@
-# lil urse du danti tung
+# lili urse du pashi dante
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_01.png)
 
-un sube urse mame wana gowa pa bazar.
-le loga pa lil urse:
-"no niama kande e keke sa dure da me sa bazar."
-lil urse loga:
-"si, si, mame! me jana le. me day urse. pliza gowa waye!"
+un sube urse mame volu gowa pa bazar.
+le loga pa lili urse:
+"no yama kande o keke sa dur da me sa bazar."
+lili urse loga:
+"si, si, mame! me sava le. me day urse. pliza gowa waye!"
 urse mame loga "salam" e le gowa waye.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 
-lil urse sa mono. le fikra:
-"zayo me abla fata eni xey da me wana!"
+lili urse sa mono. le fikra:
+"zayo me abla kara eni shey da me volu!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_03.png)
 
-lil urse gowa pa waxokamar.
-le fikra "me no wana waxa dante zayo."
-lil urse si mal.
+lili urse gowa pa washkamar.
+le fikra "me no volu washa dante zayo."
+lili urse si mali.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_04.png)
 
-lil urse joga lil kar sa mey kamar.
-le vida keke sanduke sa meza.
-le fikra "me wana niama keke!"
-a le mema: "a! mame harama me niama keke."
-lil urse no niama keke.
+lili urse joga lili gar sa mey kamar.
+le vida keke sanduke sa meze.
+le fikra "me volu yama keke!"
+a le mema: "a! mame harama me yama keke."
+lili urse no yama keke.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_05.png)
 
-lil urse vida kandobotle sa almare.
-le fikra "me wana niama kande!"
-a le mema: "a! mame harama me niama kande."
-lil urse no niama kande.
+lili urse vida kande botel sa almar.
+le fikra "me volu yama kande!"
+a le mema: "a! mame harama me yama kande."
+lili urse no yama kande.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_06.png)
 
-lil urse vida melovaze sa ali almare.
+lili urse vida melvaze sa ali almare.
 le fikra:
-"mame loga nol xey tema mel. me abla niama mel!"
-lil urse sida sa kurse e le niama lilo mele.
-mele gustu bon!
+"mame loga nol shey tema mel. me abla yama mel!"
+lili urse sidu sa kurse e le yama lilo mel.
+mel gustu bon!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_07.png)
 
-lil urse niama pan mele.
+lili urse yama pan mel.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_08.png)
 
-bado, lil urse senta no jana du sente sa boke.
-li dante tungi!
+bado, lili urse senta no sava du sente sa boke.
+li dante pashi!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_09.png)
 
-le kapa telofon.
-le loga: "halow! eska te si dantodotore? pliza laya pa me! me tena tungi dante!"
+le kapa telfon.
+le loga: "salam! eska te si dantomediker? pliza layu pa me! me tena pashi dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_10.png)
 
-dotore laya pa ursofamile du dom.
-le loga: "eska te nida helpe?"
-lil urse loga: "si! me tena tungi dante!"
+mediker layu pa ursofamil du dom.
+le loga: "eska te nidu helpe?"
+lili urse loga: "si! me tena pashi dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_11.png)
 
-dotore pliza lil urse sidu sa kurse e kaya boke.
-"aha! un dante multo mal! me bixu kapa le pa waye."
+mediker pliza lili urse sidu sa kurse e kaya boke.
+"aha! un dante polo mali! me musu kapa le pa waye."
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_12.png)
 
-dotore juxa medike pa dantomanse sa karibe da mal dante.
-lil urse no senta tunge ca zayo.
+mediker jusha medike pa dantomanse sa karibe da mali dante.
+lili urse no senta pash cha zayo.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_13.png)
 
-dotore tira dante sa pinser.
-a dante no laya!
+mediker tira dante sa pinser.
+a dante no layu!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_14.png)
 
-waf laya helpa dotore.
-dotore e waf tira dante, a dante no laya!
+waf layu helpa mediker.
+mediker e waf tira dante, a dante no layu!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_15.png)
 
-maw laya helpa dotore e waf.
-dotore e waf e maw tira dante, a dante no laya!
+maw layu helpa mediker e waf.
+mediker e waf e maw tira dante, a dante no layu!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_16.png)
 
-ekore laya helpa dotore e waf e maw.
-dotore e waf e maw e ekore tira dante...
+ekore layu helpa mediker e waf e maw.
+mediker e waf e maw e ekore tira dante...
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_17.png)
 
-dante laya pa waye!
+dante layu pa waye!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_18.png)
 
-dotore loga pa lil urse:
-"mal dante sa waye zayo.
-pliza mema uza dantobrox sa mey sube e sa mey xame!"
-lil urse wada mema.
+mediker loga pa lili urse:
+"mali dante sa waye zayo.
+pliza mema uza dantobrosh sa mey sube e sa mey sham!"
+lili urse voda mema.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_19.png)
 
-lil urse loga: "danke, dotore e waf e maw e ekore!"
+lili urse loga: "danke, mediker e waf e maw e ekore!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_20.png)
 
-lil urse waxa dante sa dantobroxe mey sube e mey xame.
+lili urse washa dante sa dantobrosh mey sube e mey sham.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_21.png)
 
-urse mame nota lil urse kura zi dante max bono.
-mame loga: "te si bon lil urse!"
+urse mame nota lili urse kura zi dante may bono.
+mame loga: "te si bon lili urse!"
 
