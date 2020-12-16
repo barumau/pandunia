@@ -197,7 +197,7 @@ ata:|ata'|||fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|sugar-appl
 Athina:|Athina|shefocite|||Athens|Athènes|Atenas|Atenas|Афины|اتينا‎|雅典|アテネ|||एथेंस|||Athene|Atina|Ateno|Ateena|
 Atlant:i Hay:|Atlanti Hay|||eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|Atlantic Ocean||océano Atlántico||||||||||||||Atlantin valtameri|Ocean Atlantycki
 atlant.o.kad:e|atlantokade|biw|Gadus morhua||Atlantic cod|morue de l'Atlantique|bacalao común|bacalhau-do-atlântico|Атлантическая треска||大西洋鱈|タイセイヨウダラ||||||||||dorsz atlantycki
-atlant.o.samon:|atlantosamon|biw|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
+atlant.o.salmon:|atlantosalmon|biw|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
 atom:|atom|||eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|atom||átomo|||||||||||||atomo|atomi|atom
 aud:a|auda|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
 aur:|aur|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold|or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto
@@ -245,7 +245,7 @@ Bahrain:|Bahrain|desh|BH||Bahrain||baréin||||||||||||||Bahrain|Bahrajn
 bak:i|baki|rang||yue:白 (baak6), vie:bạch, zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|white|blanc|blanco|branco|белый|أَبْيَض|白|白い|희다|trắng (bạch)|सफ़ेद|সাদা|putih|~eupe|ak (beyaz)|blanka|valkoinen (valkea)|biały
 bak.o.coy:|bakocoy||||bok choy||col china||||白菜 (小白菜)||||||pakcoy|||||kapusta pekińska
 bak.o.margarit:e|bakomargarite|biw|Leucanthemum vulgare||oxeye daisy|marguerite|margarita|margarita-maior|нивяник обыкновенный (ромашка)||法蘭西菊|フランスギク||||||||||jastrun właściwy
-bak.o.samon:|bakosamon|biw|Orcorhynchus keta||chum salmon|saumon du Pacifique (saumon kéta, saumon chien)|salmón chum (keta)|salmão-cão (salmão-keta)|кета||大麻哈鱼 (狗鮭)|シロザケ||||||||||keta
+bak.o.salmon:|bakosalmon|biw|Orcorhynchus keta||chum salmon|saumon du Pacifique (saumon kéta, saumon chien)|salmón chum (keta)|salmão-cão (salmão-keta)|кета||大麻哈鱼 (狗鮭)|シロザケ||||||||||keta
 bal:i|bali|||zho:八 (bā), kor:팔 (pal), tgl:walo, haw:walu|eight (8)|huit (8)|ocho (8)|oito (8)|восемь (8)||八 (8)|八 (8)||||||||ok (8)|kahdeksan (8)|osiem (8)
 bal.mes:|balmes|mese|||August||agosto|||||８月|||||||||elokuu|listopad
 bal.sent.er:|balsenter|biw|Octopodiformes||octopus|Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)||章鱼|タコ|||||||||mustekala|ośmiornica
@@ -424,7 +424,7 @@ brom.em:|bromem|mate|Br||bromine||bromo|||||||||||||bromo|bromi|brom
 brosh:|brosh|||eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), may:berus|brush||cepillo (brocha)|||||||||||||broso|harja|szczotka
 brun:i|bruni|rang||fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|brown|brun (marron)|marrón|castanho (marrom)|коричневый|بُنِّيّ|棕色 (色)|茶色|갈색|nâu|भूरा||cokelat|kahawia|kahverengi|bruna|ruskea|brązowy, koloru kawy
 brun.alg:e|brunalge|biw|Phaeophyceae||brown algae|algues brunes|algas pardas||бурые водоросли|||褐藻||||||||||brunatnica
-brun.samon:|brunsamon|biw|Salmo trutta||brown trout|truite brune (truite de mer)|trucha marrón|truta-marrom|кумжа||褐鳟|ブラウントラウト|||||trout coklat|||||pstrąg potokowy
+brun.salmon:|brunsalmon|biw|Salmo trutta||brown trout|truite brune (truite de mer)|trucha marrón|truta-marrom|кумжа||褐鳟|ブラウントラウト|||||trout coklat|||||pstrąg potokowy
 Bruney:|Bruney|desh|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
 buch:a|bucha||||butcher|abattre|carnear (matar)|abater||||||||||||buĉi|teurastaa (lahdata)|
 buch.er:|bucher|||eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ)|butcher|boucher|carnicero|açougueiro (talhante)|мясник|جَزَّار‎|屠夫|肉屋|푸주한|người hàng thịt|क़साई (बूचड़)||tukang daging|||buĉisto|teurastaja|
@@ -462,10 +462,12 @@ cel:|cel|||may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula
 cel.o.loj:ia|celolojia||||cytology|cytologie|citología|citologia|цитология||细胞学|||||||||citologio|soluoppi (sytologia)|cytologia
 celsius: darj:e|celsius darje|unomete|°C||degree Celsius||grado Celsius||||||||||||||celsiusaste|stopień Celsjusza
 cement:e|cemente|||eng:cement, may:semen, spa:cemento, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|cement||cemento||||||||||||||sementti|cement
+ceng:|ceng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
 centaur:|centaur|biw|Centaurea|eng:centaury, por:centáurea||Centaurée||centáurea|василёк|||||||||||||chaber
 centi:|centi'||||centi- (per cent)||centi- (por ciento)|||||||||||||centono|sentti|centy-, procent, na sto, setna część
 centi.mitr:e|centimitre|unomete|cm||centimeter (cm)||centímetro||||||||||||||senttimetri (cm)|centymetr
 cer.em:|cerem|mate|Ce||cerium||cerio|||||||||||||cerio|cerium|cer
+Ceres:|Ceres||||Ceres (dwarf planet)||Ceres (planeta enano)|||||||||||||Cereso|Ceres|Ceres (planeta karłowata)
 ceram:|ceram|||eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik|ceramic||cerámica|cerâmico|керамика||陶瓷|陶器|||मृत्तिकाशिल्प||seramik||||savityö (keramiikka)|ceramika
 ceram.shing:|ceramshing|biw|Houstonia||bluet|||||||||||||||||houstonia
 cerebr:e|cerebre|||eng:cerebrum, spa:cerebro, por:cérebro, fra:cerveau|brain||cerebro|||||||||||||cerbo|aivot|mózg
@@ -510,7 +512,6 @@ chen.den:o|chendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日
 chen.fiks:e|chenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
 chen.vid:a|chenvida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 chen.vid:i|chenvidi||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
-cheng:|cheng|||zho:层 (céng), yue:層 (cang4), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
 cheriz:e|cherize|frute||eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben;চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|cherry|cerise|cereza|cereja|черешня||||||गिलास|চেরি|||||kirsikka|wiśnia (czereśnia)
 Chernagora:|Chernagora|desh|ME||Montenegro||Montenegro||||||||||||||Montenegro|Czarnogóra
 Chil:e|Chile|desh|CL||Chile||Chile|||||||||||||Ĉilio|Chile|Chile
@@ -1198,7 +1199,7 @@ hay.amir.er:|hayamirer||||admiral|amiral|almirante|almirante|адмирал|أَ
 hay.caw:|hacaw|biw|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morska
 hay.ful:|hayful|biw|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
 hay.gun:|haygun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
-hay.hiyar:|hayhiyar|biw|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
+hay.hiar:|hayhiar|biw|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
 hay.jel:|hayjel|biw|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||meduza
 hay.nil:i|haynili||||aqua (teal)|||||||水色||||||||||morskoniebieski
 hay.tat:e|haytate||||coast (beach)|côte|costa|costa|||海岸|海岸||||||||||wybrzeże (plaża)
@@ -1241,7 +1242,7 @@ hisabia|hisabia||||arithmetics||aritmética (cálculos)||||||||||||||laskuoppi (
 histor|histor||||history (annals)||historia (pasado)|||||||||||||historio|historia (aikakirjat)|historia; annały, roczniki
 historer|historer||||historian||historiador|||||||||||||historiisto|historioitsija|historyk
 historia|historia|||eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)|history (study of history)||historia (estudio de sucesos del pasado)|||||||||||||historio (studo de historio)|historia (oppiaine)|historia, badanie historii
-hiyar|hiyar|biw|Cucumis sativus|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā)|cucumber|concombre|pepino|pepino|огурец||黄瓜|キュウリ||||||||||ogórek
+hiar:|hiar|biw|Cucumis sativus|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|cucumber|concombre|pepino|pepino|огурец||黄瓜|キュウリ||||||||kukumo|kurkku|ogórek
 Ho Chi Min cite|Ho Chi Min cite||||Ho Chi Minh City (Saigon)|||||||||Thành phố Hồ Chí Minh||||||||Ho Chi Minh (Sajgon)
 hobe|hobe|||eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|hobby||pasatiempo (hobby, afición)|||||||||||||hobio|harrastus|hobby
 hoga|hoga||||burn (cause to burn)|brûler|quemar|queimar|жечь (палить)|أَحْرَقَ|燃烧|燃やす|태우다||जलाना|||kuchoma|yakmak||polttaa|spalić, palić
@@ -1361,7 +1362,7 @@ ive|ive|||eng:-ive, deu:-iv, fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj
 J|J||||J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J
 jag:a|jaga||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 jag:i|jagi|||hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|awake|éveillé|despierto|acordado|acordado|||||||||jaga||uyanık|olla hereillä|przebudzony, przytomny
-jag:u|jagu|||wake (become awake)||despertarse|despertar|проснуться||睡醒|起きる|||जागना||menjagakan||uyanmak||||
+jag:u|jagu||||wake (become awake)||despertarse|despertar|проснуться||睡醒|起きる|||जागना||menjagakan||uyanmak|||
 jakarte|jakarte||||Jakarta||||||||||||Jakarta|||||Dżakarta
 jake|jake|||eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|jacket||chaqueta|||||||||||||jako|pikkutakki (jakku)|kurtka
 jam.kard:e|||||trading card|carte à collectionner|cromo|cromo|||||||||||||keräilykortti|
@@ -1804,10 +1805,10 @@ kupon|kupon|||eng:fra:coupon, spa:cupón, por:cupom, rus:купо́н (kupón), 
 kupre|kupre|mate|Cu||copper||cobre|||||||||||||kupro|kupari|miedź
 kura|kura|||eng:cure, spa:por:curar, fra:guérir, deu:kurieren|care (cure)||||||||||||||||hoitaa (pitää huolta)|pielęgnować, leczyć
 kuran|kuran||||Quran (Koran)||Corán||||||||||||||koraani|Koran
-kurbe|kurbe|||fra:courbe spa:por:curva, eng:curve, eus:kurba|curve (bend)||curva|||||||||||||kurbo|mutka (kurvi)|wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać
-kurbi|kurbi||||curvy (curved)||curvo||||||||||||||mutkikas|zakrzywiony
 kurem|kurem|mate|Cm||curium||curio|||||||||||||kuriumo|curium|kiur
 kurse|kurse|||ara:(kursiy), hin:कुरसी (kursī), urd:(kursī), pnb:ਕੁਰਸੀ (kursī), tel:(kurcī), may:som:kursi, fas:(korsi)|chair||silla|||||||||||||seĝo|tuoli|kszesło, fotel
+kurv:e|kurve|||eng:curve, fra:courbe, spa:por:curva|curve (bend)||curva|||||||||||||kurbo|mutka (kurvi)|wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać
+kurv:i|kurvi||||curvy (curved)||curvo||||||||||||||mutkikas|zakrzywiony
 kusha|kusha||||lay (lay down)|coucher|acostar (poner)|deitar|положить  (уложить)|||横たえる|||||||||panna jkn maate|położyć
 kushen|kushen||||cushion (pillow)||almohada||||||||||||||tyyny|poduszka
 kushloke|kushloke|||fra:eng:couchette, ita:cuccetta, pol:kuszetka|berth (couchette)|couch (couchette)||||||||||||||||kuszetka (koja)
@@ -1824,7 +1825,7 @@ lalbawsheke|lalbawsheke||||ruby|rubis|rubí|rubi|рубин|ياقوت|红宝石
 lali|lali|rang||hin:लाल (lāl), ben:লাল (lal), tur:al|red|rouge|rojo|vermelho|красный|أَحْمَر|红|赤い|빨갛다|đỏ|लाल|লাল|merah|nyekundu|kırmızı (al)|ruĝa|punainen|czerwony
 lalolince|lalolince|biw|Lynx rufus|spa:lince rojo, rus:рыжая рысь, ara:وشق أحمر, kor:붉은스라소니|bobcat||lince rojo (gato montés)||рыжая рысь||短尾貓|ボブキャット||||||||||ryś rudy
 laloranje|laloranje|biw|Citrus reticulata|zho:红橘|mandarin orange (tangerine)|mandarine|mandarina (tangerina)|tangerina (mandarim)|мандарин||柑橘 (红橘)|ポンカン (マンダリン)|||नारंगी (nārangī)||limau mandarin (oren mandarin, tangerin)|chenza||||mandarynka
-lalsamon|lalsamon|biw|Oncorhynchus nerka||sockeye salmon|saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||紅鮭|ベニザケ||||||||||nerka (łosoś czerwony)
+lalsalmon|lalsalmon|biw|Oncorhynchus nerka||sockeye salmon|saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||紅鮭|ベニザケ||||||||||nerka (łosoś czerwony)
 lama*|lama'||||lama|lama (enseignant religieux du bouddhisme tibétain)|lama|lama|лама (религиозный учитель в тибетском буддизме)||喇嘛|ラマ (チベット仏教の上師)||||||||||lama
 lampe|lampe|||eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|lamp|lampe|lámpara|lâmpada (luminária)|лампа|لمبة‎|灯|ランプ|램프|đèn|चिराग़ (लैंप)|ল্যাম্প|lampu|taa|lamba|lampo|lamppu|lampa
 lan|lan|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|curse (damn!)|malédiccion|maldición|maldição|проклятие||诅咒|呪い (たたり)||||||||||przekleństwo (cholera!)
@@ -1837,7 +1838,7 @@ lancografer|lancografer||||image projector||proyector||||||||||||||projektori (v
 lancovute|lancovute||||projectile (missile)|projectile|proyectil (misil)|projétil|снаряд||投掷物|飛翔体 (矢玉)||||||||||pocisk
 langan|langan|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banister (handrail)||barandilla (pasamanos)||||||||||||||kaide (reelinki)|poręcz (balustrada)
 Lanka|Lanka|desh|LK||Sri Lanka (Ceylon)||Sri Lanka||||||||||||||Sri Lanka|Sri Lanka
-lantanum|lantanum|mate|La||lanthanum||lantano||||鑭|ランタン|||||||||lantaani|lantan
+lantan.em:|lantanem|mate|La||lanthanum||lantano||||鑭|ランタン|||||||||lantaani|lantan
 Lao:|Lao|desh|LA||Laos||Laos||||||||||||||Laos|Laos
 Lao:i|Laoi||||Lao (Laotian)||laosiano||||||||||||||laoslainen|laotański
 larve|larve|||deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|larva (maggot, caterpillar)||larva||||||||||||||toukka|larwa, czerw, gąsienica
@@ -2226,7 +2227,7 @@ Moldova|Moldova|desh|MD||Moldova||Moldova||||||||||||||Moldova|Mołdawia
 molekul|molekul|||eng:molecule, spa:por:molécula, fra:molécule|molecule||molécula||||分子|分子||||||||||molekuła (cząsteczka)
 moler|moler||||miller||molinero||||||||||||||mylläri|młynarz
 molia|molia|||zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)|mill|moulin|molino|moenda (moinho)|мельница||磨坊||||चक्की||||||mylly|mielić
-molidenum|molidenum|mate|Mo||molybdenum||molibdeno|||||||||||||molibdeno|molybdeeni|molibden
+moliden.em:|molidenum|mate|Mo||molybdenum||molibdeno|||||||||||||molibdeno|molybdeeni|molibden
 molsheke|molsheke||||grindstone (millstone)|meule|muela|mó|жёрнов||磨石||||||||||myllynkivi|ostrzarka (kamień młyński)
 moluske|moluske|biw|Mollusca|eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|mollusk||molusco||моллюск||||||||moluska|||molusko|nilviäinen|mięczak (morski bezkręgowiec)
 mome|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
@@ -2559,7 +2560,7 @@ parter|parter||||participant||participante||||||||||||||osallistuja|uczestnik
 partia|partia|||eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|party (group)||partido (grupo)|||||||||||||partio|osapuoli|partia
 pas|pas|||eng:past, spa:pasado, por:passado, fra: passé|past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
 pasa|pasa||||pass (go by, go past)||pasar||||||||||||||kuluttaa aikaa|minąć, mijać, przeminąć, przemijać
-pash:||||pain||dolor||боль||疼痛|痛み|||||||||kipu|ból|
+pash:|pash||||pain||dolor||боль||疼痛|痛み|||||||||kipu|ból
 pash:a|pasha||||hurt||doler (hacer daño)||||||||||||||satuttaa|sprawić ból, sprawiać ból
 pash:i|pashi||||painful||doloroso||болезненный|||痛い|||||||||kivulias (tuskallinen)|bolesny
 pash:ia|pashia|||eng:fra:passion, spa:pasión, por:paixão, kon:mpasi|suffering||sufrimiento (dolor)||||||||||||||kipu (tuska)|cierpienie, ból
@@ -2596,7 +2597,6 @@ penis|penis|||eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis
 pent:a|penta||||paint (cover in paint)|peindre|pintar|||||||||||||pentri|maalata|namalować, malować
 pent:e|pente|||eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)|paint|peinture|pintura|pintura|картина||油漆 (颜料)|絵の具 (ペンキ)|||पेंट (रंग)|||||pentri|maalata|namalować, malować
 pent.er:|penter||||painter||pintor||художник|||画家 (絵かき)|||||||||maalari|malarz
-pepin|pepin|biw|Cucumis sativus|spa:por:pepino, tgl:pipino, sin:පිපිඤ්ඤා (pipiññā)|cucumber||pepino|||||||||||||kukumo|kurkku|ogórek
 per|per|||hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|feather||pluma||перо||||||पर्दा|||||plumo|sulka|pióro
 perkardon|perkardon|biw|Cirsium vulgare||spear thistle|cirse commun|cardo burral|cardo-roxo|бодяк обыкновенный||翼蓟|アメリカオニアザミ||||||||||ostrożeń lancetowaty
 Peru|Peru|desh|PE||Peru||Perú||||||||||||||Peru|Peru
@@ -2656,7 +2656,7 @@ plastike|plastike|||eng:plastic, spa:por:plástico, rus:пластик (plastik)
 plate|plate|||eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)|plane (plate)||plano (placa)|||||||||||||||płaszczyzna (płyta)
 plati|plati||||flat (planar)||plana (llano, liso)|||||平ら|||||||||litteä|płaski
 plati zemkaskia|plati zemkaskia||||plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)||||||||||tektonika płyt
-platinum|platinum|mate|Pt||platinum||platino|||||||||||||plateno|platina|platyna
+platin.em:|platinum|mate|Pt||platinum||platino|||||||||||||plateno|platina|platyna
 platistan|platistan||||plain (plateau, flat lands)|plaine|llanura||||平原|草原||||||||||równina (plaskowyż, plateau)
 platoforme|platoforme||||platform|||||||||||||||||platforma
 platon|platon||||Plato||Platón||||||||||||||Platon|Platon
@@ -2788,9 +2788,9 @@ randa|randa||||smoothen with a plane||cepillar con garlopa||||||||||||||höylät
 rander|rander|||tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)|plane (tool for making a smooth surface)||garlopa||||||||||||||höylä|hebel, strug
 rang|rang|||ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|color|couleur|color|cor|||||||रंग|রং||rangi|renk|koloro|väri|kolor
 rangarke|rangarke||||rainbow|arc-en-ciel|arco iris||радуга|||虹||||||||||tęcza
-rangarkosamon|rangarkosamon|biw|Oncorhynchu mykiss||rainbow trout|truite arc-en-ciel|trucha arcoíris|truta-arco-íris|микижа (камчатская сёмга)||虹鱒|ニジマス||||||||||pstrąg tęczowy
+rangarkosalmon|rangarkosalmon|biw|Oncorhynchu mykiss||rainbow trout|truite arc-en-ciel|trucha arcoíris|truta-arco-íris|микижа (камчатская сёмга)||虹鱒|ニジマス||||||||||pstrąg tęczowy
 rangi|rangi||||colored||colorido|||||||||||||kolora|värilline|kolorowy
-rangi kance|rangi kance||||stained glass|verre coloré||||||||||||||||witraż
+rangi kanche|rangi kanche||||stained glass|verre coloré||||||||||||||||witraż
 rangomate|rangomate||||dye|colorant|tinte||||染料|染め粉||||||||||barwnik
 rapidi|rapidi|||spa:por:rápido, eng:rapid, fra:rapide|fast (quick, rapid, speedy)|vite (rapide)|rápido|rápido|быстрый||快|速い|빠르다|Mau (nhanh)|तेज़ (तीव्र)||cepat|haraka|hızlı|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
 rapidia|rapidia||||speed (velocity)||rapidez (velocidad)|||||||||||||rapideco|nopeus (vauhti)|prędkość (szybkość)
@@ -2882,7 +2882,7 @@ rot.o.tafun:|rototafun||||cyclone (hurrican, tornado, typhoon)||huracán (tifón
 rot.o.top:e|rototope|||eng:top, fra:toupie|top (spinning top)|toupie|trompo||волчок|pinhão|陀螺|独楽|||gasing||||||hyrrä|bąk, bączek
 roze|roze|biw|Rosa|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|rose|rose|rosa|rosa|роза||玫瑰|バラ|장미|hoa hồng|गुलाब|গোলাপ|mawar (ros)|waridi|gül|rozo|ruusu|róża
 rozorangi|rozorangi|rang|||pink (rosy)||rosa||||||||||||||vaaleanpunainen|różowy, różany
-rozosamon|rozosamon|biw|Oncorhynchus gorbuscha||pink salmon|saumon rose|salmón rosado|salmão-rosa|горбуша||粉紅鮭|カラフトマス||||||||||gorbusza
+rozosalmon|rozosalmon|biw|Oncorhynchus gorbuscha||pink salmon|saumon rose|salmón rosado|salmão-rosa|горбуша||粉紅鮭|カラフトマス||||||||||gorbusza
 Ruanda|Ruanda|desh|RW||Rwanda||Ruanda||||||||||||||Ruanda|Rwanda
 rubidem|rubidem|mate|Rb||rubidium||rubidio|||||||||||||rubidio||rubid
 ruhe|ruhe|||ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|soul (mind, psyche)|psyché|psique||душа (дух)|||||||||||animo (psiko)|henki (sielu, mieli, psyyke)|dusza, duch, umysł
@@ -3031,7 +3031,6 @@ senta|senta|||spa:por:sentir|feel (sense by touch)||palpar (tocar)|||||||||||||s
 senter|senter||||tentacle (feeler)|tentacule|tentáculo|tentáculo|щупальце||觸手|触手||||||||||macka (czułek)
 ser|ser|||spa:sierra, por:serra, eng:serrate|saw|scie|sierra|serra|пила||锯子|のこぎり||||||||||piła
 Serbia|Serbia|desh|RS||Serbia||Serbia|||||||||||||Serbio|Serbia|Serbia
-seres|seres||||Ceres (dwarf planet)||Ceres (planeta enano)|||||||||||||Cereso|Ceres|Ceres (planeta karłowata)
 serpe|serpe|||hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|snake (serpent)||serpiente (culebra)|||||||||||||serpento|käärme|wąż
 serva|serva||||serve (give service)||servir||||||||||||||palvella (tarjoilla)|służyć
 serve|serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|service||servicio||||||||||||||palvelu (palvelus)|służba
@@ -3165,11 +3164,11 @@ sinye|sinye|||eng:sign, spa:señal, por:sinal, fra:signe|sign (signal)||señal (
 sira|sira||||hide (conceal)|cacher|ocultar (esconder)|ocultar (esconder)|скрывать||隐藏|隠す||||||||||chować (kryć)
 siri|siri|||ara:(sirr), tur:sır, fas:(serr), swa:siri|secret||secreto||||||||||||||salainen|sekret
 siri mote|siri mote||||stealth|célérité|sigilo|||||忍び||||||||||skradanie się
-sirke|sirke|||tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|vinegar||vinagre|||||||||||||vinagro|etikka|ocet
-sirkopurshipa|sirkopurshipa||||pickle (preserve in vinegar or brine)||encurtir|||||酢漬けある|||||mengasamkan|||||kisić (marynować)
-sirkopurshipe|sirkopurshipe|||fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|||||||腌菜|漬物|||अचार||acar (jeruk)|||||marynować
-sirkopurshipi|sirkopurshipi||||pickled|décapé (mariné)|encurtido||марино́ванный|||||||||||||kiszony (marynowany)
-sirkopurshipi hiyar|sirkopurshipi hiyar||||pickle (pickled cucumber)|concombre confit (cornichon)||||||||||||||||korniszon
+sirk:e|sirke|||tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|vinegar||vinagre|||||||||||||vinagro|etikka|ocet
+sirk.o.pur.ship:a|sirkopurshipa||||pickle (preserve in vinegar or brine)||encurtir|||||酢漬けある|||||mengasamkan|||||kisić (marynować)
+sirk.o.pur.ship:e|sirkopurshipe|||fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|||||||腌菜|漬物|||अचार||acar (jeruk)|||||marynować
+sirk.o.pur.ship:i|sirkopurshipi||||pickled|décapé (mariné)|encurtido||марино́ванный|||||||||||||kiszony (marynowany)
+sirk.o.pur.ship:i hiar|sirkopurshipi hiar||||gherkin (pickle)|concombre confit (cornichon)|pepinillo|||||||||||||||korniszon
 siro motu|siro motu||||sneak||colarse|||||||||||||||skradać się
 sirplan|sirplan||||conspiracy (plot)|complot (conspiration)|complot (conspiración)|complô (conspiração)|заговор (сговор)||阴谋 (密谋)|陰謀|음모||||||komplot||juoni (salaliitto)|spisek (konspiracja)
 sisfas|sisfas||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
@@ -3311,7 +3310,7 @@ tamu|tamu||||covet||||||||||||||||ahnehtia|
 tan|tan|||fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|stem (torso, trunk, stalk)|tige|tallo|haste (talo, caule)|стебель||茎 (梗)|茎 (胴)|||तना (डाली)||tangkai|shina||||łodyga (tors, pień, trzon)
 tanah|tanah||||Tanakh (Jewish Bible)||Tanaj (Biblia hebrea)||||||||||||||tanakh|Tanach, Biblia hebrajska
 tanke|tanke|||eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|tank (reservoir)||tanque (cisterna)||||||||||||||tankki (säiliö)|zbiornik (cysterna, pojemnik, rezerwuar)
-tantalum|tantalum|mate|Ta||tantalum||tántalo|||||||||||||tantalo||tantal
+tantal.em:|tantalem|mate|Ta||tantalum||tántalo|||||||||||||tantalo||tantal
 tanur|tanur|||fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|oven (furnace)||horno|||||||||||||forno|uuni|piec (piekarnik)
 Tanzania|Tanzania|desh|TZ||Tanzania||Tanzania|||||||||||||Tanzanio|Tansania|Tanzania
 tapa|tapa||||plug (stop with a plug)||taponar||||||||||||||korkittaa (tukkia)|zatkać, ztykać
