@@ -4,7 +4,7 @@ abite - 冷杉
 abla - 会  
 abli - 可能  
 acente - 重音符号  
-achu' - 阿嚏  
+achu\* - 阿嚏  
 achua - 打喷嚏  
 ade - 习惯 (风俗)  
 adali - 公正地  
@@ -69,7 +69,7 @@ ation - 行动
 ativi - 活性  
 Athina - 雅典  
 atlantokade - 大西洋鱈  
-atlantosamon - 大西洋鮭  
+atlantosalmon - 大西洋鮭  
 aur - 金  
 auroranje - 金柑  
 Avganistan - 阿富汗  
@@ -85,11 +85,10 @@ bah - 呸
 baki - 白  
 bakocoy - 白菜 (小白菜)  
 bakomargarite - 法蘭西菊  
-bakosamon - 大麻哈鱼 (狗鮭)  
+bakosalmon - 大麻哈鱼 (狗鮭)  
 bali - 八 (8)  
 balsenter - 章鱼  
 balibali - 各种各样  
-balkon - 阳台  
 balute - 橡树 (xiàng)  
 ban - 板子  
 banogem - 版图游戏  
@@ -124,6 +123,7 @@ bebe - 宝宝
 bekopote - 陶瓦  
 bel - 铲  
 ber - 浆果 (莓)  
+berande - 阳台  
 berje - 桦树  
 bete - 甜菜頭  
 bil - 帐单  
@@ -145,7 +145,7 @@ botoraite - 右舷
 bote - 船 (艇)  
 boyu - 漂浮  
 bruni - 棕色 (色)  
-brunsamon - 褐鳟  
+brunsalmon - 褐鳟  
 bucher - 屠夫  
 buchokan - 屠宰场  
 Bude - 佛陀  
@@ -156,6 +156,7 @@ buton - 扣子
 buze - 山羊  
 ####C - C  
 celolojia - 细胞学  
+ceng - 层  
 ceram - 陶瓷  
 cha - 从  
 chakre - 轮子  
@@ -168,8 +169,7 @@ chaykupe - 茶碗
 cheno - 以前  
 chenamen - 命運  
 chendeno - 昨日  
-cheng - 层  
-chili' - 菜椒  
+chili\* - 菜椒  
 chilifun - 辣椒粉  
 chini - 汉族  
 chir - 撕裂  
@@ -186,6 +186,7 @@ cirkosheke - 鹅卵石
 ####D - D  
 danger - 钟 (摇铃)  
 dantobalute - 槲树  
+darjomute - 发展 (开发)  
 date - 数据  
 datobanke - 数据库  
 datotable - 表格  
@@ -208,13 +209,13 @@ ding - 钉子
 diorite - 闪长岩  
 diske - 圆盘  
 dobe - 砖  
+docila - 驯养  
+docili - 驯服的  
 dokum - 文件  
 dokumfilme - 纪录片  
 dolfin - 海豚  
 dom - 房子  
 dong - 东  
-dosila - 驯养  
-dosili - 驯服的  
 duga - 读 (看)  
 duli - 二 (2)  
 dunia - 世界  
@@ -282,7 +283,7 @@ galaksia - 恆星系
 Galia - 高卢  
 galte - 错误  
 gancaw - 干草  
-gandum - 麦  
+ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
 gati - 硬  
@@ -329,8 +330,9 @@ hayamirer - 海军上将
 hacaw - 海草  
 hayful - 海葵  
 haygun - 海军  
-hayhiyar - 海參  
+hayhiar - 海參  
 hayjel - 海蜇  
+hayporte - 海港  
 haytate - 海岸  
 helis - 螺旋  
 helisviman - 直升机  
@@ -339,9 +341,9 @@ hema - 深思 (考虑)
 hemahe - 帐篷  
 hewan - 动物  
 hewanparke - 动物园  
+hiar - 黄瓜  
 hijabe - 面纱  
 hisaba - 计算  
-hiyar - 黄瓜  
 hoga - 燃烧  
 hoge - 火  
 hogoshan - 火山  
@@ -367,7 +369,8 @@ insanistia - 人文主义
 itis - 炎症  
 ive - 趋势  
 ####J - J  
-jagu - 起きる  
+jagu - 睡醒  
+jamul - 閻浮樹  
 jan - 人  
 janel - 窗戶  
 janelfrem - 窗框  
@@ -395,7 +398,7 @@ ko - 比
 ko? - 怎么  
 kaboge - 南瓜  
 kade - 鱈  
-kafe' - 咖啡  
+kafe\* - 咖啡  
 kafekan - 咖啡馆  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
@@ -416,15 +419,15 @@ kanape - 沙发
 kanche - 玻璃  
 kanchodake - 釉  
 kande - 糖果  
-kangaru - 袋鼠  
+kangaru\* - 袋鼠  
 kanion - 峡谷 (深谷)  
-kansuygas - 催泪瓦斯  
+okosuygas - 催泪瓦斯  
 kantalupomelon - 鈔皮瓜  
 kapotruke - 陷阱  
 kar - 工作  
 karokan - 工厂  
 kara - 工作  
-karbondulokside - 二氧化碳  
+karbodulokside - 二氧化碳  
 karchof - 菜蓟  
 karde - 牌  
 kardon - 蓟  
@@ -438,7 +441,7 @@ karsolimon - 箭叶橙
 kaske - 壳 (皮)  
 kata - 切  
 katan - 剑  
-katoglutobanze - 剪贴板  
+katoglutoban - 剪贴板  
 katus - 仙人掌  
 kava - 挖  
 kave - 坑 (穴)  
@@ -458,7 +461,7 @@ kitaba - 写
 kitabia - 文学  
 kitabokan - 图书馆  
 kitabomashin - 打字机  
-kiwi' - 奇异果  
+kiwi\* - 奇异果  
 klien - 顾客  
 klimomute - 气候变化  
 komputer - 计算机  
@@ -468,7 +471,6 @@ konkara - 合作
 kontrate - 公約  
 koncerte - 音乐会  
 konchung - 昆虫  
-konfusi - 困惑 (混乱)  
 kontini - 指针式的  
 kope - 摹本 (拷貝)  
 kora - 跑步  
@@ -499,14 +501,14 @@ lalbawsheke - 红宝石
 lali - 红  
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
-lalsamon - 紅鮭  
-lama' - 喇嘛  
+lalsalmon - 紅鮭  
+lama\* - 喇嘛  
 lampe - 灯  
 lan - 诅咒  
 lancograf - 投影  
 lancografa - 投射  
 lancovute - 投掷物  
-lantanum - 鑭  
+lantanem - 鑭  
 lasha - 落 (留下)  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
@@ -524,7 +526,7 @@ lense - 透镜
 lenti - 慢  
 letis - 莴苣  
 leze - 梨  
-liama' - 大羊駝  
+liama\* - 大羊駝  
 libel - 蜻蜓  
 libobanze - 架子 (搁板)  
 libobaze - 架子  
@@ -591,7 +593,7 @@ me - 我
 meche - 比赛  
 medi - 中型  
 medikosuy - 药水  
-mega' - 百万 (兆)  
+mega\* - 百万 (兆)  
 mege - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
 melvesposanduke - 蜂箱  
@@ -691,7 +693,7 @@ parchokayu - 爆裂
 pari nombre - 偶数  
 parke - 园  
 parne - 蕨  
- - 痛み  
+pash - 疼痛  
 pasporte - 护照  
 pastopetre - 岩漿  
 patike - 患者 (病患)  
@@ -702,6 +704,7 @@ pay - 馅饼
 peda - 放屁  
 pede - 屁  
 pelmen - 饺子  
+pelpel - 蝴蝶  
 pendokardon - 垂花飞廉  
 pente - 油漆 (颜料)  
 perkardon - 翼蓟  
@@ -736,13 +739,13 @@ puding - 布丁
 pujokan - 寺庙  
 pujomeze - 圣坛  
 pul - 桥  
-puma' - 美洲獅 (山狮)  
+puma\* - 美洲獅 (山狮)  
 purshipa - 浸泡  
 putawlimon - 葡萄柚  
 putongi - 普通  
 ####Q - Q  
 ####R - R  
-rangarkosamon - 虹鱒  
+rangarkosalmon - 虹鱒  
 rangomate - 染料  
 rapidi - 快  
 rari - 稀有 (稀少的)  
@@ -769,7 +772,8 @@ romkamil - 果香菊
 rototafun - 飓风 (台风)  
 rototope - 陀螺  
 roze - 玫瑰  
-rozosamon - 粉紅鮭  
+rozosalmon - 粉紅鮭  
+ruhmiksi - 困惑 (混乱)  
 rupoboni - 好看  
 ####S - S  
 sa linye - 在线  
@@ -856,7 +860,7 @@ sirplan - 阴谋 (密谋)
 sisi - 六 (6)  
 soci jinse - 社會性別  
 socia - 社会  
-sofa' - 沙发  
+sofa\* - 沙发  
 sol - 太阳  
 solful - 向日葵  
 solsistem - 太阳系  

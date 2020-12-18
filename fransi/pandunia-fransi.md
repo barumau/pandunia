@@ -12,7 +12,7 @@ able - capacité (compétence)
 abli - possible  
 ablo - peut-être  
 acente - accent  
-achu' - atchoum  
+achu\* - atchoum  
 achua - éternuer  
 acinem - actinium  
 ade - coutume  
@@ -109,7 +109,7 @@ ation - action
 ativi - actif  
 Athina - Athènes  
 atlantokade - morue de l'Atlantique  
-atlantosamon - saumon altentique  
+atlantosalmon - saumon altentique  
 aur - or  
 auroranje - kumquat  
 avar - dommage  
@@ -127,11 +127,10 @@ bagre - tigre
 bagroselote - oncille  
 baki - blanc  
 bakomargarite - marguerite  
-bakosamon - saumon du Pacifique (saumon kéta, saumon chien)  
+bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
 bali - huit (8)  
 balsenter - Poulpe (pieuvre)  
 balibali - divers (plusieurs)  
-balkon - balcon  
 balonfish - poisson-globe  
 balute - chêne  
 balutopal - gland  
@@ -177,6 +176,7 @@ beker - boulanger
 bekopote - terre cuite  
 bel - pelle  
 ber - baie  
+berande - balcon  
 berje - bouleau  
 bete - betterave  
 bina - construire  
@@ -198,7 +198,7 @@ bravi - brave
 bravo - bravo!  
 bruni - brun (marron)  
 brunalge - algues brunes  
-brunsamon - truite brune (truite de mer)  
+brunsalmon - truite brune (truite de mer)  
 bucha - abattre  
 bucher - boucher  
 buchokan - abattoir  
@@ -223,7 +223,7 @@ cheno - avant
 chenamen - destin  
 chendeno - hier  
 cherize - cerise  
-chili' - piment  
+chili\* - piment  
 chir - déchirer  
 chira - déchirer  
 chize - fromage  
@@ -238,6 +238,7 @@ daka - couvrir
 dalil - preuve  
 dance - dance  
 danger - cloche  
+darjomute - développement  
 date - données  
 datobanke - base de données  
 dawban - panneau de signalisation  
@@ -258,6 +259,10 @@ dinamite - dynamite
 diorite - diorite  
 diske - disque  
 dobe - brique  
+docila - apprivoiser (dresser, dompter, discipliner)  
+docili - docile (insipide)  
+dociljenisi - domestiqué (apprivoisé)  
+dociljenisa - domestiquer (apprivoiser)  
 dokum - document (dossier)  
 dokumfilme - documentaire  
 dolfin - dauphin  
@@ -265,10 +270,6 @@ dom - maison
 doma - vivre (habiter)  
 domi - domestique  
 dong - east (orient)  
-dosila - apprivoiser (dresser, dompter, discipliner)  
-dosili - docile (insipide)  
-dosiljenisi - domestiqué (apprivoisé)  
-dosiljenisa - domestiquer (apprivoiser)  
 duga - lire  
 duli - deux (2)  
 dulbashi - bilingue  
@@ -302,7 +303,7 @@ eskulter - sculpteur
 esponje - éponge  
 estan - étain  
 estibem - antimoine  
-europe - Europe  
+Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
 evanjil - évangile  
@@ -316,9 +317,11 @@ fata - faire
 fate - fait  
 fatigia - fatigue  
 favori - favori (préféré)  
+favoristia - favoritisme  
+faze - phase  
 feni - distinct (numérique)  
-feymush - chauve-souris  
 feyu - voler  
+feymush - chauve-souris  
 filsofia - philosophie  
 fiorde - fiord  
 fite - plante (végétal)  
@@ -356,7 +359,7 @@ galti - erroné
 gamia - mariage  
 gamike - époux  
 gancaw - foin  
-gandum - blé  
+ganum - blé  
 garmomosim - été  
 garmozon - tropique  
 gas - gaz  
@@ -390,7 +393,7 @@ guypapil - pavot d'Orient
 haha - rire  
 hake - droit  
 hal - état  
-halo' - allô  
+halo\* - allô  
 hami - important  
 hande - main  
 handoshake - bras  
@@ -403,7 +406,7 @@ hayalge - algues
 hayamirer - amiral  
 hacaw - posidonie (herbiers marins)  
 haygun - force navale (marine)  
-hayhiyar - concombre de mer  
+hayhiar - concombre de mer  
 hayjel - méduse  
 haytate - côte  
 helisbabul - acacia faux-gommier  
@@ -415,11 +418,11 @@ hen - haine
 hewan - animal (bête)  
 hewanjenisia - élevage  
 hewanparke - zoo  
+hiar - concombre  
 hijabe - voile  
 hijenia - hygiène  
 him - neige  
 hisaba - calculer  
-hiyar - concombre  
 hoga - brûler  
 hoge - feu  
 hogoshan - volcan  
@@ -446,9 +449,8 @@ iva - avoir tendance à
 ive - tendance  
 ####J - J  
 jagi - éveillé  
-jagu - despertarse  
  - carte à collectionner  
-jambul - prune de Java  
+jamul - prune de Java  
 jan - personne (gente)  
 janel - fenêtre  
 jangle - forêt (jungle)  
@@ -484,7 +486,7 @@ ko - que (comme)
 ko? - comment  
 kaboge - citrouille  
 kade - morue  
-kafe' - café  
+kafe\* - café  
 kafekan - café  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
@@ -502,16 +504,16 @@ kamis - chemise
 kamisi shake - manche  
 kanape - canapé (sofa)  
 kanche - verre  
-kangaru - kangourou  
+kangaru\* - kangourou  
 kanion - canyon (ravin)  
-kanoe' - canoë  
-kansuygas - gaz lacrymogène  
+kano - canoë  
+okosuygas - gaz lacrymogène  
 Kantalupo da Sabina - Cantalupo in Sabina  
 kapotruke - piège  
 kar - travail  
 kara - travailler  
 karaibia - Caraïbes  
-karbondulokside - dioxyde de carbone  
+karbodulokside - dioxyde de carbone  
 karchof - artichaut  
 karde - carte  
 kardon - chardon  
@@ -526,7 +528,7 @@ karsi - rêche (rugueux, gros)
 karsolimon - combava  
 kaske - carapace (coquille, coquillage, croûte)  
 katan - épée  
-katoglutobanze - presse-papier  
+katoglutoban - presse-papier  
 katus - cactus  
 kava - creuser  
 kave - fosse  
@@ -545,7 +547,7 @@ kitabe - écriture
 kitabia - littérature  
 kitabokan - bibliothèque  
 kitabomashin - machine à écrire  
-kiwi' - kiwi  
+kiwi\* - kiwi  
 klari - clair  
 klien - client  
 klimomute - changement climatique  
@@ -555,7 +557,6 @@ kontener - conteneur
 kontrate - convention (alliance, pacte)  
 koncerte - concert  
 konchung - insecte  
-konfusi - perplexe (désorienté)  
 kontini - continu (analogique)  
 kope - copie  
 kora - courir  
@@ -592,8 +593,8 @@ laje - ordures
 lalbawsheke - rubis  
 lali - rouge  
 laloranje - mandarine  
-lalsamon - saumon sockeye  
-lama' - lama (enseignant religieux du bouddhisme tibétain)  
+lalsalmon - saumon sockeye  
+lama\* - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
 lan - malédiccion  
 lancograf - projection  
@@ -615,7 +616,7 @@ lengomosimi - hivernal (hibernal)
 lense - lentille  
 lenti - lent  
 letis - laitue  
-liama' - lama  
+liama\* - lama  
 libel - libellule  
 libobanze - étagère  
 lider - dirigeant (leader)  
@@ -804,7 +805,6 @@ pari nombre - nombre pair
 Paris - Paris  
 parke - parc  
 parne - fougères  
- - dolor  
 pasporte - passeport  
 pastopetre - magma  
 patike - patient  
@@ -815,6 +815,7 @@ paw - pistolet
 pay - tarte  
 peda - péter  
 pede - pet (vesse)  
+pelpel - papillon  
 pendokardon - chardon penché  
 penta - peindre  
 pente - peinture  
@@ -858,7 +859,7 @@ pudu - pourrir (se décomposer)
 pujokan - temple  
 pujomeze - autel  
 pul - pont  
-puma' - couguar (puma)  
+puma\* - couguar (puma)  
 pura - remplir  
 purbona - perfectionner (parfaire)  
 puri - plein  
@@ -869,8 +870,8 @@ pute - fils ou fille
 ####R - R  
 rang - couleur  
 rangarke - arc-en-ciel  
-rangarkosamon - truite arc-en-ciel  
-rangi kance - verre coloré  
+rangarkosalmon - truite arc-en-ciel  
+rangi kanche - verre coloré  
 rangomate - colorant  
 rapidi - vite (rapide)  
 rari - rare  
@@ -903,7 +904,8 @@ ros - rosée
 rosta - rôtir  
 rototope - toupie  
 roze - rose  
-rozosamon - saumon rose  
+rozosalmon - saumon rose  
+ruhmiksi - perplexe (désorienté)  
 ruhe - psyché  
 ruhlojia - psychologie  
 ####S - S  
@@ -986,12 +988,12 @@ silke - soie
 sira - cacher  
 siri mote - célérité  
 sirkopurshipi - décapé (mariné)  
-sirkopurshipi hiyar - concombre confit (cornichon)  
+sirkopurshipi hiar - concombre confit (cornichon)  
 sirplan - complot (conspiration)  
 sisi - six (6)  
 site - ville  
 socia - société  
-sofa' - canapé (sofa)  
+sofa\* - canapé (sofa)  
 sol - soleil  
 solchate - ombrelle (parasol)  
 solful - Tournesol  

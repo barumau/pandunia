@@ -2,12 +2,26 @@
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_01.png)
 
+un suba ma baru ye yau go la bazar.
+ta loga pa sho baru:
+"no yam di kandi o keke na dure de mi na bazar."
+sho baru ye loga:
+"ye, ye, mama! mi sabi ta. mi un dai baru. ching go la wai"
+ma baru ye loga "salam" e ta go la wai.
+
 un sube urse mame volu gowa pa bazar.
 le loga pa lili urse:
 "no yama kande o keke sa dur da me sa bazar."
 lili urse loga:
 "si, si, mame! me sava le. me day urse. pliza gowa waye!"
 urse mame loga "salam" e le gowa waye.
+
+Eräänä aamuna karhuäiti halusi lähteä torille.
+Hän sanoi pikku-karhulle:
+"Älä syö karkkia tai keksejä kun minä olen torilla."
+Pikku-karhu sanoi:
+"Joo, joo, äiti! Minä tiedän sen. Olen is karhu. Mene jo!"
+Karhuäiti sanoi "heippa" ja lähti ulos.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 

@@ -70,7 +70,7 @@ ation - действие (акция)
 ativi - активный (деятельный)  
 Athina - Афины  
 atlantokade - Атлантическая треска  
-atlantosamon - Атлантический лосось (сёмга)  
+atlantosalmon - Атлантический лосось (сёмга)  
 aur - золото (аурум)  
 auroranje - кумкват (кинкан)  
 avar - повреждение (авария)  
@@ -87,10 +87,9 @@ bagre - тигр
 bagroselote - онцилла  
 baki - белый  
 bakomargarite - нивяник обыкновенный (ромашка)  
-bakosamon - кета  
+bakosalmon - кета  
 bali - восемь (8)  
 balsenter - спрут (осьминог)  
-balkon - балкон  
 balonfish - иглобрюховые  
 balute - дуб  
 ban - доска (панель)  
@@ -133,6 +132,7 @@ beker - хлебопёк (пекарь)
 bekopote - терракота  
 bel - лопата  
 ber - ягода  
+berande - балкон  
 berje - берёза  
 bete - свёкла  
 bil - счёт  
@@ -161,7 +161,7 @@ brauzer - исследователь (браузер)
 bravo - браво  
 bruni - коричневый  
 brunalge - бурые водоросли  
-brunsamon - кумжа  
+brunsalmon - кумжа  
 bucher - мясник  
 buchokan - бойня  
 Bude - Будда  
@@ -189,7 +189,7 @@ cheno - раньше
 chenamen - судьба  
 chendeno - вчера  
 cherize - черешня  
-chili' - перец (паприка)  
+chili\* - перец (паприка)  
 chini - хань  
 chir - рвать  
 chira - рвать  
@@ -207,6 +207,7 @@ dance - танец
 danga - звенеть  
 danger - звонок  
 dantobalute - дуб зубчатый  
+darjomute - развитие  
 date - данные  
 datobanke - база данных  
 dawban - табличка с названием улицы  
@@ -227,15 +228,16 @@ dinamite - динамит
 diorite - диорит  
 diske - диск  
 dobe - кирпич  
+docila - укрощать (приручить)  
+docili - кроткий  
+dociljenisa - одомашнивать  
 dokum - документ  
 dokumfilme - документальный фильм  
 dolfin - дельфин  
 domi - домашний  
 dong - восток (ост)  
 dongogoril - восточная горилла  
-dosila - укрощать (приручить)  
-dosili - кроткий  
-dosiljenisa - одомашнивать  
+dosti - приятный (добрый)  
 duga - читать  
 duli - два (2)  
 duli o tini - пара  
@@ -282,8 +284,10 @@ fastelia - мелкий
 fatigia - усталость  
 fatigu - устать  
 favori - любимый  
-feymush - летучая мышь  
+favoristia - фаворитизм (кумовство)  
+faze - фаза  
 feyu - лететь  
+feymush - летучая мышь  
 filme - плева (фильм)  
 filsofia - философия  
 fiorde - фьорд  
@@ -316,7 +320,7 @@ gadogude - мул
 galaksia - галактика  
 Galia - Галлия  
 gancaw - сено  
-gandum - пшеница  
+ganum - пшеница  
 garmomosim - лето  
 garmozon - тропик  
 gas - газ  
@@ -352,7 +356,7 @@ guypapil - мак восточный
 habar - новости  
 haha - смеяться  
 hal - состояние (статус)  
-halo' - алло  
+halo\* - алло  
 hami - важный (значимый)  
 hamili - беременный  
 hande - рука  
@@ -367,7 +371,7 @@ hayamirer - адмирал
 hacaw - морские травы  
 hayful - морские анемоны  
 haygun - военно-морской флот  
-hayhiyar - голотурия (морские огурц)  
+hayhiar - голотурия (морские огурц)  
 helisbabul - акация кручёная  
 helisviman - вертолёт  
 hem - хм  
@@ -375,10 +379,10 @@ hema - думать
 hemahe - палатка (шатёр)  
 hewan - животное  
 hewanparke - зоопарк  
+hiar - огурец  
 hijabe - вуаль  
 hijenia - гигиена  
 hisaba - вычислять  
-hiyar - огурец  
 hoga - жечь (палить)  
 hoge - огонь  
 hogoshan - вулкан  
@@ -406,7 +410,8 @@ itis - воспаление
 ive - тенденция  
 ####J - J  
 jagi - acordado  
-jambul - джамболан  
+jagu - проснуться  
+jamul - джамболан  
 janel - окно  
 jangle - лес (джунгли)  
 jawabe - ответ  
@@ -438,7 +443,7 @@ ko - чем
 ko? - как  
 kababi manse - кебаб  
 kaboge - тыква  
-kafe' - кофе  
+kafe\* - кофе  
 kafekan - кафе (кофейня)  
 kaguje - бумага  
 kagujolimon - лайм  
@@ -457,17 +462,18 @@ kanape - канапе
 kanche - стекло  
 kanchodaka - глазуровать  
 kanchodake - глазурь  
-kangaru - кенгуру  
+kangaru\* - кенгуру  
 kanion - овраг (ущелье, каньон)  
 kanjar - кинжал  
-kanoe' - каноэ  
-kansuygas - слезоточи́вый газ  
+kano - каноэ  
+okosuygas - слезоточи́вый газ  
 Kantalupo da Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
 kapotruke - ловушка  
 kar - работа  
 kara - работать  
-karbondulokside - двуокись углерода  
+karbodulokside - двуокись углерода  
+karbosuy - углевод  
 karchof - артишок посевной  
 karde - карта  
 kardon - расторопша  
@@ -479,7 +485,7 @@ karsi - грубой
 karsolimon - лима (каффир-лайм)  
 kaske - оболочка (кора, панцирь)  
 katan - меч  
-katoglutobanze - буфер обмена  
+katoglutoban - буфер обмена  
 katus - кактус  
 kava - копать  
 kave - яма  
@@ -498,7 +504,7 @@ kitabia - литература (словесность)
 kitabokan - библиотека  
 kitabomashin - пишущая машинка  
 kitabominister - библиотекарь  
-kiwi' - киви  
+kiwi\* - киви  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimomute - изменение климата  
@@ -547,8 +553,8 @@ lalbawsheke - рубин
 lali - красный  
 lalolince - рыжая рысь  
 laloranje - мандарин  
-lalsamon - нерка (красница)  
-lama' - лама (религиозный учитель в тибетском буддизме)  
+lalsalmon - нерка (красница)  
+lama\* - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
 lan - проклятие  
 lancovute - снаряд  
@@ -566,7 +572,7 @@ lengomosim - зима
 lengomosimi - зимний  
 lense - линза  
 letis - салат-латук  
-liama' - лама  
+liama\* - лама  
 libel - стрекоза  
 libobanze - полка  
 lider - руководитель (лидер)  
@@ -693,6 +699,8 @@ namkitaba - подписать
 narde - нарды (триктрак)   
 nasia - нация  
 nasmedi - междунаро́дный  
+natre - натрит (натр, натрон, кристаллическая сода)  
+natrem - натрий  
 nautil - наутилид  
 navi - девять (9)  
 nefre - почка  
@@ -725,7 +733,7 @@ orti - прямой
 ortogoni - ортогона́льный  
 oselote - оцелот  
 osidian - обсидиан  
-osme - осмос  
+osmos - осмос  
 ostojamia - скелет (остов)  
 ####P - P  
 pacokade - тихоокеанская треска  
@@ -747,6 +755,7 @@ pari - равный
 pari nombre - чётное число  
 parke - парк  
 parne - папоротник  
+pash - боль  
 pashi - болезненный  
 pasporte - паспорт  
 patike - пациент (больной)  
@@ -758,6 +767,7 @@ pawa - стрелять
 pay - пирог  
 peda - пердеть  
 pede - пердение  
+pelpel - бабочка (мотылёк)  
 pendokardon - чертополох поникший  
 pente - картина  
 penter - художник  
@@ -802,7 +812,7 @@ projete - проект
 pudu - гнить (портиться)  
 pujokan - храм (место богослужения)  
 pujomeze - алтарь  
-puma' - пума (кугуар)  
+puma\* - пума (кугуар)  
 puntonombre - оценка  
 pura - заполнять  
 puri - полный  
@@ -811,7 +821,7 @@ putawlimon - грейпфрут
 ####Q - Q  
 ####R - R  
 rangarke - радуга  
-rangarkosamon - микижа (камчатская сёмга)  
+rangarkosalmon - микижа (камчатская сёмга)  
 rapidi - быстрый  
 rari - редкий (разбро́санный)  
 ras - раса  
@@ -839,7 +849,9 @@ romkamil - ромашка римская
 ros - роса  
 rototope - волчок  
 roze - роза  
-rozosamon - горбуша  
+rozosalmon - горбуша  
+ruhmiksa - озадачить  
+ruhmiksi - растерянный (озадаченный)  
 ruhe - душа (дух)  
 rukosake - рюкзак  
 rutogalta - отходить (скитаться)  
@@ -914,6 +926,7 @@ shur - начало
 shushi - тихий  
 si - да  
 siahi - чёрный  
+seaborgem - сиборгий  
 sida - сидеть  
 side - сиденье (седло)  
 sifloge - прилагательное  
@@ -929,7 +942,7 @@ sisi - шесть (6)
 slavi - славянский  
 soci jinse - гендер  
 socia - общество (социум)  
-sofa' - софа (диван, канапе)  
+sofa\* - софа (диван, канапе)  
 soke - носок  
 sol - солнце  
 solchate - зонтик от солнца  
@@ -964,7 +977,7 @@ taltesh - ковёр
 tan - стебель  
 tarje - перевод  
 tas - блюдо (таз)  
-tatu' - татуировка (тату)  
+tatu\* - татуировка (тату)  
 tazi - свежий  
 te - ты  
 tehne - техника  
@@ -1083,6 +1096,7 @@ Zimbabwe - Зимбабве
 zinje - имбирь  
 zinke - цинк  
 zir - тмин  
+zirkon - циркон  
 zon - пояс (зона)  
 zong - кол  
 zongominte - мята колоси́стая  

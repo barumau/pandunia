@@ -42,7 +42,7 @@ aller (quitter) - kitu
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alfon  
-allô - halo'  
+allô - halo\*  
 alphabet - harfia  
 aluminium - aluminem  
 amande - badam  
@@ -75,7 +75,7 @@ appartenir à - tenu
 appliquer - aplika  
 apporter - laya  
 apprendre (étudier) - shula  
-apprivoiser (dresser, dompter, discipliner) - dosila  
+apprivoiser (dresser, dompter, discipliner) - docila  
 arabe - arabi  
 arachnophobie - aranfobia  
 araignée - aran  
@@ -102,7 +102,7 @@ Asie - asia
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
-atchoum - achu'  
+atchoum - achu\*  
 Athènes - Athina  
 attaquer (agresser) - agresa  
 autel - pujomeze  
@@ -126,7 +126,7 @@ baie - bay
 baie - ber  
 bain - banye  
 baisser - tala  
-balcon - balkon  
+balcon - berande  
 balle (boule) - bol  
 bambou - banse  
 banane - banan  
@@ -163,7 +163,7 @@ blanc - baki
 blettes (bettes) - selge  
 bleu - nili  
 bloquer - barya  
-blé - gandum  
+blé - ganum  
 bombe - bombe  
 bon - boni  
 bord (rive) - tate  
@@ -194,8 +194,8 @@ bûche - mokotan
 cacher - sira  
 cactus - katus  
 cadre - frem  
-café - kafe'  
 café - kafekan  
+café - kafe\*  
 cage - batonkapse  
 caillou - lilsheke  
 calcaire - kalcopetre  
@@ -207,10 +207,10 @@ calme (tranquille) - shanti
 Camomille Romaine - romkamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
-canapé (sofa) - sofa'  
+canapé (sofa) - sofa\*  
 Canne à sucre - shukarcaw  
 canon - daypaw  
-canoë - kanoe'  
+canoë - kano  
 Cantalupo in Sabina - Kantalupo da Sabina  
 canyon (ravin) - kanion  
 capacité (compétence) - able  
@@ -288,9 +288,9 @@ compost - biwchaniver
 compote de pommes - apelsos  
 comprendre (réaliser) - aha  
 concert - koncerte  
-concombre - hiyar  
-concombre confit (cornichon) - sirkopurshipi hiyar  
-concombre de mer - hayhiyar  
+concombre - hiar  
+concombre confit (cornichon) - sirkopurshipi hiar  
+concombre de mer - hayhiar  
 considérer - hema  
 construire - bina  
 conteneur - kontener  
@@ -308,7 +308,7 @@ cosmos - kosmia
 coton - goton  
 couch (couchette) - kushloke  
 coucher - kusha  
-couguar (puma) - puma'  
+couguar (puma) - puma\*  
 couleur - rang  
 coupe (tasse, verre) - kupe  
 coureur - korer  
@@ -348,7 +348,6 @@ dans le sens antihoraire - fansoldisho
 dauphin - dolfin  
 de - cha  
 demander (poser un question; est-ce que) - eska  
-despertarse - jagu  
 dessous - niche  
 destin - chenamen  
 deux (2) - duli  
@@ -356,19 +355,18 @@ diamant - almas
 dieu - dew  
 dimanche - var 7 (var seti)  
 diorite - diorite  
-dioxyde de carbone - karbondulokside  
+dioxyde de carbone - karbodulokside  
 directeur (principal) - shulshef  
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
 divers (plusieurs) - balibali  
-docile (insipide) - dosili  
+docile (insipide) - docili  
 document (dossier) - dokum  
 documentaire - dokumfilme  
-dolor -   
 domestique - domi  
-domestiquer (apprivoiser) - dosiljenisa  
-domestiqué (apprivoisé) - dosiljenisi  
+domestiquer (apprivoiser) - dociljenisa  
+domestiqué (apprivoisé) - dociljenisi  
 dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - jena  
 données - date  
@@ -385,6 +383,7 @@ début (commencement) - shur
 décapé (mariné) - sirkopurshipi  
 déchirer - chir  
 déchirer - chira  
+développement - darjomute  
 ####E - E  
 east (orient) - dong  
 eau - suy  
@@ -407,7 +406,7 @@ espace - kali harfe
 et - e  
 ethnie - zuke  
 ethnique - zuki  
-Europe - europe  
+Europe - Europe  
 européen - europi  
 exact (précis) - justi  
 explosion - bum  
@@ -423,6 +422,7 @@ fanal (balise) - fotominar
 fatigue - fatigia  
 faute (erreur) - galte  
 favori (préféré) - favori  
+favoritisme - favoristia  
 fente (fissure, fêlure) - krake  
 fenêtre - janel  
 fermenter - biwmutu  
@@ -458,7 +458,7 @@ féliciter - barka
 galaxie - galaksia  
 Gaule - Galia  
 gaz - gas  
-gaz lacrymogène - kansuygas  
+gaz lacrymogène - okosuygas  
 gazelle - gazel  
 geler (glacer) - aisu  
 genou - gute  
@@ -536,10 +536,10 @@ juste - adali
 justice - adalia  
 Jésus - Yesu  
 ####K - K  
-kangourou - kangaru  
+kangourou - kangaru\*  
 Khartoum - Khartum  
 Kinshasa - Kinshasa  
-kiwi - kiwi'  
+kiwi - kiwi\*  
 kumquat - auroranje  
 ####L - L  
 lac - lage  
@@ -547,8 +547,8 @@ laine - mehi kesh
 laisser - lasha  
 lait - milke  
 laitue - letis  
-lama (enseignant religieux du bouddhisme tibétain) - lama'  
-lama - liama'  
+lama (enseignant religieux du bouddhisme tibétain) - lama\*  
+lama - liama\*  
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bash  
@@ -750,6 +750,7 @@ pantoufle (babouche) - babuche
 papaye - papay  
 papier - kaguje  
 papier peint - murkaguje  
+papillon - pelpel  
 paquet - pake  
 par exemple - misalo  
 paramètre - param  
@@ -774,13 +775,14 @@ perdant - shibayer
 perder - shibaya tena  
 pere (papa) - pape  
 perfectionner (parfaire) - purbona  
-perplexe (désorienté) - konfusi  
+perplexe (désorienté) - ruhmiksi  
 perroquet - papagay  
 personne (gente) - jan  
 pet (vesse) - pede  
 petit - lil (lili)  
 peu - shawi  
 peut-être - ablo  
+phase - faze  
 philosophie - filsofia  
 photographie - fotograf  
 photographie - fotografia  
@@ -789,7 +791,7 @@ pierre précieuse (joyau) - bawsheke
 pierre tombale - gabrosheke  
 pieu (poteau) - zong  
 pile (batterie) - batre  
-piment - chili'  
+piment - chili\*  
 pioche - pikosape  
 piquenique - eksoyam  
 piraterie - piratia  
@@ -833,7 +835,7 @@ pourri - pudi
 pourrir (se décomposer) - pudu  
 pousse - jovani moke  
 pouvoir (être capable) - abla  
-presse-papier - katoglutobanze  
+presse-papier - katoglutoban  
 preuve - dalil  
 problème - problem  
 problématique - problemi  
@@ -849,7 +851,7 @@ prolongé - longoduri
 promettre - voda  
 propriété (possession, bien) - malke  
 prune - plum  
-prune de Java - jambul  
+prune de Java - jamul  
 précieux - bawi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
@@ -925,10 +927,10 @@ Satan - shatan
 Saturne - Saturne  
 sauce - sos  
 saucisse - sosis  
-saumon altentique - atlantosamon  
-saumon du Pacifique (saumon kéta, saumon chien) - bakosamon  
-saumon rose - rozosamon  
-saumon sockeye - lalsamon  
+saumon altentique - atlantosalmon  
+saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
+saumon rose - rozosalmon  
+saumon sockeye - lalsalmon  
 sauvage - ekojeni  
 savane - savan  
 savoir (connaître) - sava  
@@ -1025,8 +1027,8 @@ tribord - botoraite
 trois (3) - tini  
 tropique - garmozon  
 truite - salmon  
-truite arc-en-ciel - rangarkosamon  
-truite brune (truite de mer) - brunsamon  
+truite arc-en-ciel - rangarkosalmon  
+truite brune (truite de mer) - brunsalmon  
 tu - te  
 tubercule - masmul  
 Tunisie - Tunisia  
@@ -1060,7 +1062,7 @@ ver - verme
 verbe - karloge  
 vermouth - vermute  
 verre - kanche  
-verre coloré - rangi kance  
+verre coloré - rangi kanche  
 verrue - zeyil  
 vert - lugi  
 veuve - vidove  
