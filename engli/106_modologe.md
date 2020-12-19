@@ -11,7 +11,7 @@ or at the end of the sentence.
 – I well sleep.  
 **me sona _bono_.**
 – I sleep _well_.  
-**te baxa pandunia _bono_.**
+**te basha pandunia _bono_.**
 – You speak Pandunia _well_.
 
 ## Modifying another modifier
@@ -36,15 +36,15 @@ For example **day** (big) and **lil** (little) can be used as intensifying adver
 
 Modifiers can be compared.
 
-- **max** (more) indicates comparison of superiority
-- **maxim** (most) indicates the superlative of superiority
+- **may** (more) indicates comparison of superiority
+- **mayim** (most) indicates the superlative of superiority
 - **min** (less) indicates comparison of inferiority
 - **minim** (least) indicates the superlative of inferiority
 - **samo** (as) indicates the comparison of equality
 
 Particle **ko** relates the adverbs of comparison to the point of comparison.
 
-**me si max bon ko te.**
+**me si may bon ko te.**
 = I am better than you.  
 **te loga samo bono ko me.**
 = You speak as well as me.

@@ -9,7 +9,8 @@ This document is a simple guide to the main features of Pandunia.
 |----------|-----|
 | a | /a/ |
 | b | /b/ |
-| c | /tʃ/ |
+| c | /ts/ |
+| ch | /tʃ/ |
 | d | /d/ |
 | e | /e/ |
 | f | /f/ |
@@ -25,10 +26,10 @@ This document is a simple guide to the main features of Pandunia.
 | p | /pʰ/ |
 | r | /r~ɹ/ |
 | s | /s/ |
+| sh | /ʃ/ |
 | t | /tʰ/ |
 | u | /u/ |
 | w | /w\~ʋ\~v/ |
-| x | /ʃ/ |
 | y | /j/ |
 | z | /z~dz/ |
 
@@ -36,8 +37,7 @@ The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
 All other consonant are like in English except:
 
-- **c** is like the CH in _church_
-- **x** is like the SH in _ship_
+- **c** is Like TS in _bits_ or alternatively like C in _city_.
 - **g** is always hard
 - **r** and **h** are never silent
 - **s** is always voiceless
@@ -58,15 +58,15 @@ The ending indicates a part of speech.
 Nouns indicate a group of one or more; definite or indefinite; masculine, neuter or feminine.
 Number, definiteness and gender are indicated by additional words.
 
-**mav**
+**maw**
 – a cat, the cat, cats, the cats  
-**un mav**
+**un maw**
 – one cat  
-**multi mav**
+**multi maw**
 – many cats  
-**yi mav**
+**yi maw**
 – this cat, these cats
-**vi mav**
+**wi maw**
 – that cat, those cats
 
 ### Personal pronouns
@@ -92,10 +92,10 @@ Tense, aspect and mood are indicated with particles and helping verbs.
 **me paso ama te.**
 – I loved you.
 (**paso** indicates the past time)  
-**me levo ama te.**
+**me lewo ama te.**
 – I have loved you.
-(**levo** indicates completed action i.e. the perfect(ive) aspect)  
-**me vilo ama te.**
+(**lewo** indicates completed action i.e. the perfect(ive) aspect)  
+**me wilo ama te.**
 – I will love you.
 (**vilo** indicates future time)
 
@@ -119,11 +119,11 @@ but they can be can be after it too.
 – _idea new_
 
 Adjectives are compared with
-**max** (_more, -er_), **maxim** (_most, -est_),
+**may** (_more, -er_), **mayim** (_most, -est_),
 **min** (_less_), **minim** (_least_) and **sam** (_equally, as_).
 The point of comparison is introduced with **ko**.
 
-**yi idey es max novi ko vi idey.**
+**yi idey si may novi ko wi idey.**
 – This idea is newer than that idea.
 
 Adverbs end in **-o**.

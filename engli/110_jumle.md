@@ -345,15 +345,15 @@ The particles help in creating measure words too.
 – one sack of potatoes  
 **dul sake du patate**
 – two sacks of potatoes  
-**max sake du patate**
+**may sake du patate**
 – more sacks of potatoes
 
 Note that **du** and **da** connect phrases together.
 So a modifier phrase with and without **du** can mean a different thing.
 
-**max sundari fule**
+**may sundari fule**
 – more beautiful flowers  
-**max du sundari fule**
+**may du sundari fule**
 – more of beautiful flowers
 
 #### Modification with verb phrases

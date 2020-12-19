@@ -9,7 +9,7 @@ They are put before the word or phrase that they qualify.
 – two stars  
 **tini xing**
 – three stars  
-**xavi xing**
+**shawi xing**
 – few stars  
 **multi xing**
 – many stars
@@ -36,7 +36,7 @@ The basic number words are:
 - 1 **un**
 - 2 **duli**
 - 3 **tini**
-- 4 **cari**
+- 4 **chari**
 - 5 **limi**
 - 6 **sisi**
 - 7 **seti**
@@ -76,13 +76,13 @@ For example, the word **sol** (sun) normally refers to just one sun because ther
 ## Fractions
 
 Fractions are formed with the help of
-**fene**
+**fen**
 (fraction, part).
 
-**uni dulfene**
+**uni dulfen**
 – a half, ½  
-**uni carfene**
+**uni charfen**
 – a quarter, ¼  
-**tini carfene**
+**tini charfen**
 – three quarters, ¾
 

@@ -48,8 +48,8 @@ The word order is subject–verb–object.
 
 In active sentences, the focus is on the doer of the action.
 
-![](http://www.pandunia.info/grafe/kitaba.png "rene kitaba buke.")  
-**feme kitaba buke.**  
+![](http://www.pandunia.info/grafe/kitaba.png "ren kitaba buke.")  
+**fem kitaba buke.**  
 – The woman writes a book.
 
 The subject of an active verb is the doer or the agent
@@ -246,9 +246,9 @@ Causative verbs express an action, which the subject causes to happen via some t
 In Pandunia, causatives are formed with the active participle suffix
 **-an-**.
 
-**mav yama fixe.**
+**maw yama pesh.**
 – The cat eats fish.  
-**me yamana fixe pa mav.**
+**me yamana pesh pa maw.**
 – I feed fish to the cat.
 
 **me bina dome.**
@@ -268,7 +268,7 @@ Pandunia has four prepositions of place and time.
 1. **sa** - presence, location or moment (in general): with, at, in,
    on, by, during, while
 2. **na** - absence or lack: without
-3. **ca** - origin, beginning or cause: from, since, because
+3. **cha** - origin, beginning or cause: from, since, because
 4. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
@@ -276,13 +276,13 @@ the preposition is complemented by a pronoun or a noun phrase.
 
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
-**me sona ca xam pa sube.** - I sleep since evening until morning.  
-**me safara ca london pa paris.** - I travel from London to Paris.  
+**me sona cha xam pa sube.** - I sleep since evening until morning.  
+**me safara cha london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ca te gova.** - I have waited since you left.  
+**me denga cha te gova.** - I have waited since you left.  
 **me denga pa te laya dome.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
@@ -307,7 +307,7 @@ I speak with friends in Pandunia by telephone.
 In Pandunia some verbs function like prepositions do in English.
 
 **me kata pang.** - I cut bread.  
-**me kata pang, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
+**me kata pang, uza chake.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
 **me denga dura dul hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
@@ -328,7 +328,7 @@ many phrases, the verb says enough alone.
 **me laya dome.** - I come home.  
 **te sida kurse.** - You sit (on) the chair.  
 **le lala sofa'.** - S/he lies (on) the sofa.  
-**fix nata daria.** - Fish swim (in) the sea.  
+**pesh nata daria.** - Fish swim (in) the sea.  
 **jenger marca dav.** - Warriors march (on) the road.  
 
 ### Preposition of relation
@@ -336,7 +336,7 @@ many phrases, the verb says enough alone.
 Preposition **ko** indicates manner or style. It corresponds to
 English prepositions _like_, _than_, _as_ and _as if_.
 
-**me jana pandunia ko gur.** - I know Pandunia like a master.
+**me jana pandunia ko master.** - I know Pandunia like a master.
 
 **ko** relates the verb or the adjective to a point of comparison. In
 the above example **jana** (know) is the verb and **gur** (master) is
@@ -345,9 +345,9 @@ the point of comparison.
 **ko** is also used when adjectives are compared.
 
 **pute si min day ko pape.** - The child is smaller than the father.  
-**lavpape si samo day ko pape.** - Grandfather is as big as father.
+**lawpape si samo day ko pape.** - Grandfather is as big as father.
 
-**ko** relates the adverbs of comparison – **max** (more), **min**
+**ko** relates the adverbs of comparison – **may** (more), **min**
 (less) and **samo** (same) – to the point of comparison, which is
 **pape** (father) in the examples above.
 

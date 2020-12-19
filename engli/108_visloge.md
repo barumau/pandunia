@@ -40,7 +40,7 @@ The demonstrative pronouns are:
 
 **ye**
 – this one  
-**ve**
+**we**
 – that one
 
 **me volu ye.**
@@ -50,9 +50,9 @@ The demonstrative pronouns are:
 
 They end in **-i** when they function as modifiers i.e. when they come before a noun.
 
-**yi mav**
+**yi maw**
 – This cat  
-**vi mav**
+**wi maw**
 – That cat
 
 ## Interrogative pronouns
@@ -66,7 +66,7 @@ It does the job of English words _who_ and _what_.
 The adjectival interrogative pronoun is **ki**
 and it means the same as English _which_.
 
-**ki xey?**
+**ki shey?**
 – What? (Which thing?)  
 **ki ren?**
 – Who? (Which person?)  
@@ -91,6 +91,6 @@ Also adjectives are questioned with **ki**.
 **ko lil?**
 – How small?
 
-**te tena ko day mav?**
+**te tena ko day maw?**
 – How big cat do you have?
 
