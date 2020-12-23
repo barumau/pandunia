@@ -655,7 +655,7 @@ des.mes:|desmes|mese|||October||octubre|||||１０月|||||||||lokakuu|luty
 des.un.mes:|desunmes|mese|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
 desen:|desen|||eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)|drawing (design)||dibujo (diseño)|||||||||||||desegno|piirustus|rysunek, obraz
 desh:|desh|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)||país (nación, estado, terra)||||||||देश|দেশ||||lando|maa (valtio)|kraj, ziemia
-desh.ren:|deshren||||citizen||ciudadano||||公民|市民|||||||||kansalainen (valtion asukas)|obywatel
+desh.o.jan:|deshojan||||citizen||ciudadano||||公民|市民|||||||||kansalainen (valtion asukas)|obywatel
 detal:|detal|||eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|detail||detalle|||||||||||||detalo|yksityiskohta (detalji)|detal, szczegół
 dew:|dew|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
 dew:i|dewi||||divine (godly)||divino|||||||||||||dia|jumalallinen|boski
@@ -1144,7 +1144,7 @@ gul|gul||||ghoul|goule|gul||гуль (вурдалак)|غُول‎|||||||||||gh
 gula|gula|||ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|swallow||tragar||глотать|||||||||||gluti|niellä|połknąć (połykać)
 gum|gum|||swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|drum||tambor|||||||||||||tamburo|rumpu|bęben
 gun|gun|||zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|army|armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotajoukko)|armia
-gunren|gunren||||soldier|soldat|soldado|soldado|солдат||军人|軍人|군인|quân nhân|सैनिक||||asker|soldato|sotilas|żołnierz
+gun.jan:|gunjan||||soldier|soldat|soldado|soldado|солдат||军人|軍人|군인|quân nhân|सैनिक||||asker|soldato|sotilas|żołnierz
 guru*|guru*|||hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|guru (teacher)||maestro (gurú, profesor)|||||||||||||guruo (instruisto)|guru (opettaja)|guru, mistrz
 gurube|gurube|biw||swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt|pig||cerdo (puerco)|||||||||||||porko|sika (possu)|świnia
 gurubomanse|gurubomanse||||pork||carne de cerdo|||||||||||||porkaĵo|sianliha|wieprzowina
@@ -1478,7 +1478,7 @@ justopawer|justopawer||||sniper (sharpshooter)||francotirador||снайпер|||
 K|K||||K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K
 k:e|ke|||fra:que, spa:qué, por:o que + ben:কে  (ke)|what?|que (quoi)|qué|o que|что||什么|何|||क्या||apa|nini|ne|kio?|mikä? (mitä?)|co?
 k:i|ki||||which?||cuál|||||どの|||||||||mikä? (kumpi?)|który?
-k:i ren:|ki ren||||who?|qui|quién|quem||||誰|||||siapa|nani|kim|kiu?|kuka?|co?
+k:i jan:|ki jan||||who?|qui|quién|quem||||誰|||||siapa|nani|kim|kiu?|kuka?|co?
 k:i sat:e|ki sate||||when?|quand|cuándo|quando||||何時|||||kapan|lini|ne zaman|kiam?|milloin? (koska?)|zapytać, pytać
 k:i shey:|ki shey||||what thing?||cuál cosa|||||何事||||||||kio?|mikä? (mitä?)|jak?
 k:i yang:i|ki yangi||||what kind of?||qué tipo de|||||どんな||||||||kia?|millainen?|jaki?
@@ -1763,7 +1763,7 @@ kosti|kosti||||expensive (costly)|||||||||||||||||kosztowny (drogi)
 kote|kote|||eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)|coat||abrigo (chaqueta)||||||||कोट|||||palto|takki|płaszcz
 Kotedivuar|Kotedivuar|desh|CI||Côte d’Ivoire (Ivory Coast)||Costa de Marfil||||||||||||||Norsunluurannikko|Wybrzeże Kości Słowniowej
 koy (koyi)|koy (koyi)|||hin:कोई (koī), urd:(koī), rus:кое- (koye-)|some||algún|||||何分の||||||||iu|jokin (joku)|jakiś
-koy ren|koy ren||||someone (somebody)||algién|||||||||||||iu persono|joku|ktoś
+koy jan|koy jan||||someone (somebody)||algién|||||||||||||iu persono|joku|ktoś
 koy sate|koy sate||||sometime||algún día (algún vez)|||||||||||||iam|joskus|sometime
 koy shey|koy shey||||something||algo|||||||||||||io|jokin|coś
 krabe|krabe|biw||eng:crab, deu:Krebs, fra:crabe, rus:краб (krab)|crab|crabe|||краб|||||||||kaa|yengeç|krabo|rapu (taskurapu)|krab
@@ -1870,8 +1870,8 @@ late|late|||spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латера�
 lati|lati||||lateral|latéral|lateral|lateral|боковой (латеральный)|||||||||||flanka (latera)|sivu-|boczny
 latini abace|latini abace||||Latin alphabet||alfabeto latino||||||||||||||latinalaiset aakkoset|alfabet łaciński, łacinka, alfabet rzymski
 latinkitaba|latinkitaba||||romanize||romanizar||||||||||||||latinoida|zromanizować
-lato|lato||||sideways||de lado|||||||||||||||z boku (na bok)
-latoren|latoren||||companion (partner, sidekick)||compañero (compinche)|||||||||||||||towarzysz (partner, kumpel)
+lato|lato||||sideways (laterally)||de lado|||||||||||||||z boku (na bok)
+latojan|latojan||||companion (partner, sidekick)||compañero (compinche)|||||||||||||||towarzysz (partner, kumpel)
 Latvia|Latvia|desh|LV||Latvia|Lettonie|Letonia|Letónia|Латвия||拉脱维亚|ラトビア|라트비아|Lát-vi-a|लातविया|লাতভিয়া|Latvia||Letonya|Latvio|Latvia|Łotwa
 laurensem|laurensem|mate|Lr||lawrencium||laurencio|||||||||||||laŭrencio|lawrensium|lorens
 law:|law||||elder||viejo (anciano)|||||||||||||||starzec
@@ -2278,8 +2278,8 @@ mum|mum|||tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|wax||cer
 mumbai|mumbai||||Mumbai (Bombay)|||||||||||||||||Bombaj (Mumbaj)
 mumchape|mumchape||||wax seal||||||封印||||||||||sinetti|pieczęć woskowa
 mumfote|mumfote||||candle||vela (candela, cirio)|||||||||||||kandelo|kynttilä|świeca
+mumjan|mumjan||||mummy||momia|||||||||||||mumio|muumio|mumia
 mumomelon|mumomelon|biw|Benincasa hispida||winter melon (wax gourd, ash gourd)||calabaza china (calabaza de la cera)||восковая тыква (зимняя дыня)||冬瓜 (白瓜)|トウガン||||||||||beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)
-mumren|mumren||||mummy||momia|||||||||||||mumio|muumio|mumia
 mun|mun|||kor:문 (mun), yue:門 (mun), jpn:門 (mon), zho:门 (mén)|door (gate, portal)||puerta|||||門||||||||pordo|ovi (portti, veräjä)|drzwi, brama, portal
 mungus|mungus|||tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|mongoose||mangosta||||||||||||||mangusti|mangusta
 mur:|mur|||fra:mur, spa:por:muro + deu:Mauer, pol:mur|wall (structure for delimitation)|mur|muro (muralha)|muro (muralha)|стена (вал)|جِدَار‎|墙壁|壁||tường|दीवार|দেওয়াল|dinding|kuta|duvar|vando|seinä (muuri)|mur, ściana
@@ -2395,7 +2395,7 @@ noda|noda||||tie a knot||hacer un nudo||||||||||||||solmia (tehdä solmu)|zawią
 node|node|||eng:node, spa:nudo, por:nó, fra:nœud|knot (node)||nudo|||||||||||||nodo|solmu|węzeł, zupeł
 Nofrolke|Nofrolke|desh|NF||Norfolk Island||Isla Norfolk||||||||||||||Norfolkin saaret|Norfolk
 nol (noli)|nol (noli)|||rus:ноль (nol'), may:nol, deu:null, eng:null|zero (none)||cero (ninguno)|||||零 (０)|||||||||nolla (ei yhtään)|zero, nic, żaden
-nol ren|nol ren||||nobody (no-one)||ningunos||||||||||||||ei kukaan|nikt, żadna osoba
+nol jan|nol jan||||nobody (no-one)||ningunos||||||||||||||ei kukaan|nikt, żadna osoba
 nol sate|nol sate||||never||nunca||||||||||||||ei koskaan (ei kertaakaan)|nigdy
 nol shey|nol shey||||nothing||nada||||||||||||||ei mitään|nic, żadna rzecz
 nolisa|nolisa||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
@@ -2430,10 +2430,9 @@ nova|nova||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić,
 nove|nove||||novelty||novedad|||||||||||||||nowość
 novi|novi|||rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|new (recent)|nouveau|nuevo|novo|новый|جَدِيد|新|新しい|||नया||baru|-pya||nova|uusi|nowy
 Novi Kaledonia|Novi Kaledonia|desh|NC||New Caledonia||Nueva Caledonia||||||||||||||Uusi-Kaledonia|Nowa Kaledonia
-novi ren|novi ren||||novice (newbie)|||||||||||||||||nowicjusz (nowa osoba)
 Novi Yorke|Novi Yorke|cite|US||New York City|||||||||||||||||Nowy Jork
 Novi Zilande|Novi Zilande|desh|NZ||New Zealand||Nueva Zelanda||||||||||||||Uusi-Seelanti|Nowa Zelandia
-novike|novike||||novice (newbie)|néophyte|novato|novato (neófito)|новичок||新手|初心者|승진자|||||||novulo|noviisi (uusikko, vasta-alkaja)|nowicjusz
+novike|novike||||novice (newbie)|néophyte|novato|novato (neófito)|новичок||新手|初心者|승진자|||||||novulo|noviisi (uusikko, vasta-alkaja)|nowicjusz (nowa osoba)
 novo|novo||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
 novyangi|novyangi||||modern||moderno|||||近代的||||||||||nowoczesne
 nudi|nudi|||eng:nude, spa:desnudo, por:fra:nu|naked (bare, nude)||desnudo||||||||||||||alaston (paljas, naku)|nagi, goły, obnażony
@@ -2513,7 +2512,7 @@ paladem|paladem|mate|Pd||palladium||paladio|||||||||||||paladio|palladium|pallad
 Palau|Palau|desh|PW||Palau||Palaos||||||||||||||Palau|Palau
 palme|palme|||deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)|palm tree||palmera|||||||||||||palmo|palmu|palma, drzewo palmowe
 pan (pani)|pan (pani)|||eng:spa:por:deu:may:pan-, rus:пан- (pan-) + zho:泛 (fàn), jpn:汎 (han-)|all||todo|||||全ての||||||||ĉiu|kaikki|wszyscy, wszystkie, wszystko; każdy
-pan ren|pan ren||||everybody (everyone)||todas las personas||||||||||||||jokainen ihminen|każdy człowiek, wszyscy
+pan jan|pan jan||||everybody (everyone)||todas las personas||||||||||||||jokainen ihminen|każdy człowiek, wszyscy
 pan sate|pan sate||||always||siempre|||||||||||||ĉiam|aina|zawsze
 pan shey|pan shey||||everything||todas las cosas||||||||||||||jokainen asia|wszystko
 panafriki|panafriki||||pan-African||panafricano||||||||||||||panafrikkalainen|panafrykański
@@ -3473,12 +3472,12 @@ un.dew.ist:ia|undewistia||||monotheism||monoteismo||||||||||||||monoteismi (yksi
 un.ik:i|uniki||||only (single, sole, lone)|seul (unique)|único|único (só)|единственный (уникальный)||唯一 (独)|唯一の|유일한|duy nhất|एकमात्र||unik|||sola (ununura)|ainoa (ainut)|jedyny (wyłączny)
 un.ik:o|uniko||||only (solely, just)|uniquement|únicamente (solo)|unicamente|только (единственно)||只有 (惟独)|だけ|||सिर्फ़|||||sole (nur)|ainoastaan (vain)|jedynie (tylko)
 un.ist:ia|unistia||||monism||monismo|||||||||||||monismo|monismi|monizm
+un.jan:i|unjani||||alone (lonely, isolated, solitary, single)||solo (aislado, solitary, soltero)|só (solitário)|одинокий (единичный)||独自的 (孤单)|一人の (寂しい, ポツリ)|||एकाकी||seorangan (sendiri)|||||
 un.mar:o|unmaro||||once|une fois|una vez|uma vez|один раз||一次 (一遍)||一度 (一回, 一遍)|한번|एक बार|||||unufoje|kerran|raz (jeden raz)
 un.men:i|unmeni||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
 un.mes:|unmes|mese|||January||enero|||||１月|||||||||tammikuu|styczeń
 un.ok:i lens:e|unoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un.rang:i|unrangi||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
-un.ren:i|unreni||||alone (lonely, isolated, solitary, single)||solo (aislado, solitary, soltero)|só (solitário)|одинокий (единичный)||独自的 (孤单)|一人の (寂しい, ポツリ)|||एकाकी||seorangan (sendiri)|||||
 un.ut:i|unuti||||united||unido||||||||||||||yhtenäinen|zjednoczony
 Un.ut:i Arab:i Amir:ia|Unuti Arabi Amiria|desh|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
 ungl:e|ungle|||hin:उंगली (uṅglī), ben:অঙ্গুলি (ôṅguli), guj:આંગળી (ā̃gaḷī), pli:aṅguli|finger (toe)||dedo|dedo|палец||手指|指|||उंगली|আঙুল|jari|kidole|parmak|fingro|sormi tai varvas|palec
@@ -3712,7 +3711,7 @@ zem.sism:e|zemsisme||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|
 zem.tik:e|zemtike||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
 zeta:|zeta*|||eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|zetta-||||||||||||||||tsetta-|
 zeyil:|zeyil|||fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|wart|verrue|verruga|verruga|бородавка||疣|疣||||||||veruko|syylä|brodawka
-zez:e|zeze|biw|Musca domestica|lin:kon:nzinzi, swa:nzi, ibo:ijiji, yor:eṣinṣin|fly (housefly)|mouche|mosco||муха|||||||||||muŝo|kärpänen|mucha
+moh:|moh|biw|Musca domestica|eng:midge, spa:mosca, rus:муха (muha), hin:मक्खी (makkhī)|fly (housefly)|mouche|mosco||муха|||||||||||muŝo|kärpänen|mucha
 zigzag:e|zigzage|||eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|zigzag||zigzag||||||||||||||siksakki|zygzag
 zikur:|zikur|||ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|ziggurat||zigurat||||||||||||||zikkurat|ziggurat
 Zimbabw:e|Zimbabwe|desh|ZW||Zimbabwe||Zimbabue||Зимбабве||||||||||||Zimbabwe|Zimbabwe
@@ -3725,7 +3724,7 @@ zir:|zir|||ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீர
 zirkon:|zirkon||||zircon||circón||циркон|||||||||||||
 zirkon.em:|zirkonem|mate|Zr||zirconium||circonio|||||||||||||zirkonio|zirkonium|cyrkon
 ziz:a|ziza|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
-zomb;e|zombe|||kon:nzambi, por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
+zomb:e|zombe|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zon:|zon|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
 zong:|zong|||zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|post (stake, peg, skewer)|pieu (poteau)|poste (estaca, palo)|poste (estaca)|кол||桩|杭||||||||||słup (pal, kołek)
 zong:a|zonga||||impale (stab, skewer)||atravesar|||||刺す||||||||||nabić (przebić, dźgnąć)
