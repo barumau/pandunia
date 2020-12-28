@@ -60,6 +60,7 @@ aromu - пахнуть
 arte - искусство  
 artiste - художник (артист)  
 asan - поза  
+asar - эффект  
 asle - начало (причина)  
 aslameriki - инде́йский  
 asme - астма  
@@ -72,7 +73,7 @@ Athina - Афины
 atlantokade - Атлантическая треска  
 atlantosalmon - Атлантический лосось (сёмга)  
 aur - золото (аурум)  
-auroranje - кумкват (кинкан)  
+autologe - монолог  
 avar - повреждение (авария)  
 avgani - афганский  
 Avganistan - Афганистан  
@@ -141,7 +142,7 @@ bir - пиво
 biw - организм  
 biwi - органический  
 biwi jinse - биологический пол  
-biwchaniver - компост  
+biwcaniver - компост  
 biwlojia - биология  
 biwmutu - заквасить  
 biwsistem - биом  
@@ -207,6 +208,7 @@ dance - танец
 danga - звенеть  
 danger - звонок  
 dantobalute - дуб зубчатый  
+dartube - воронка  
 darjomute - развитие  
 date - данные  
 datobanke - база данных  
@@ -235,6 +237,7 @@ dokum - документ
 dokumfilme - документальный фильм  
 dolfin - дельфин  
 domi - домашний  
+domzeze - муха  
 dong - восток (ост)  
 dongogoril - восточная горилла  
 dosti - приятный (добрый)  
@@ -332,6 +335,7 @@ geta - получить
 gider - гид  
 gidobuke - путеводитель  
 gitar - гитара  
+giuke - нефрит (жад)  
 glisu - задвигаться (скользи́ть)  
 gluta - клеиться  
 gluti - клейкий (липкий)  
@@ -349,7 +353,7 @@ guke - хризантема садовая
 gul - гуль (вурдалак)  
 gula - глотать  
 gun - армия  
-gunren - солдат  
+gunjan - солдат  
 gute - колено  
 guypapil - мак восточный  
 ####H - H  
@@ -377,11 +381,14 @@ helisviman - вертолёт
 hem - хм  
 hema - думать  
 hemahe - палатка (шатёр)  
+Hesia - Гессен  
 hewan - животное  
 hewanparke - зоопарк  
 hiar - огурец  
 hijabe - вуаль  
 hijenia - гигиена  
+Hindia - Индостан  
+Hindonade - Инд  
 hisaba - вычислять  
 hoga - жечь (палить)  
 hoge - огонь  
@@ -465,12 +472,14 @@ kanchodake - глазурь
 kangaru\* - кенгуру  
 kanion - овраг (ущелье, каньон)  
 kanjar - кинжал  
+kankuate - кумкват (кинкан)  
 kano - каноэ  
-okosuygas - слезоточи́вый газ  
-Kantalupo da Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
+Kantalupo da Sabina - Канталупо-ин-Сабина  
 kapotruke - ловушка  
 kar - работа  
+karer - работник  
+karloge - глагол  
 kara - работать  
 karbodulokside - двуокись углерода  
 karbosuy - углевод  
@@ -478,14 +487,12 @@ karchof - артишок посевной
 karde - карта  
 kardon - расторопша  
 kardonkarchof - артишок испанский (кардон)  
-karer - работник  
-karloge - глагол  
 karote - морковь  
 karsi - грубой  
 karsolimon - лима (каффир-лайм)  
 kaske - оболочка (кора, панцирь)  
-katan - меч  
 katoglutoban - буфер обмена  
+katan - меч  
 katus - кактус  
 kava - копать  
 kave - яма  
@@ -497,6 +504,8 @@ kimlojia - химия
 kina - двигать  
 kinu - двигаться  
 kinograf - фильм (кино)  
+kir - аренда  
+kirgeta - арендовать  
 kitu - идти  
 kitaba - писать  
 kitabe - письмо  
@@ -573,14 +582,15 @@ lengomosimi - зимний
 lense - линза  
 letis - салат-латук  
 liama\* - лама  
+liboban - полка  
 libel - стрекоза  
-libobanze - полка  
 lider - руководитель (лидер)  
-lil (lili) - маленький (малый)  
-lilkaboge - цукини  
+lili - маленький (малый)  
 lilsheke - галька  
+lilkaboge - цукини  
 limi - пять (5)  
 limon - лимон  
+limonike - цитрус  
 lince - рысь  
 linka - соединить (подключить)  
 linke - связь (ссылка)  
@@ -588,12 +598,11 @@ linye - линия
 lisan - язык  
 liste - список  
 litre - литр  
-liwkupe - воронка  
 loga - говорить  
-logaslia - этимология  
 loge - слово  
 logi - лексический  
 logia - словарь  
+logaslia - этимология  
 loka - ставить  
 loke - место  
 longo - далеко  
@@ -645,7 +654,9 @@ mayime - максимум
 me - я  
 meche - матч  
 medi - средний  
-medikosuy - зелье  
+medica - лечить  
+medicer - врач (медик, лекарь, доктор)  
+medicosuy - зелье  
 mege - облако  
 melon - дыня  
 melvesponizde - улей (соты)  
@@ -676,10 +687,6 @@ molia - мельница
 molsheke - жёрнов  
 moluske - моллюск  
 mome - мы  
-moni - единственный  
-mono - только  
-monloge - монолог  
-monoki lense - монокль  
 mos - мох  
 mosi - мшистый  
 mosim - время года (сезон)  
@@ -724,6 +731,7 @@ novike - новичок
 o - или  
 oke - глаз (око)  
 oki - глазной  
+okosuygas - слезоточи́вый газ  
 okside - окись (оксид)  
 oritis - отит  
 oranje - апельсин  
@@ -737,8 +745,8 @@ osmos - осмос
 ostojamia - скелет (остов)  
 ####P - P  
 pacokade - тихоокеанская треска  
+padi - упавший  (падший)  
 padomun - лаз  
-paduti - упавший  (падший)  
 pagre - чалма  
 pake - пакет  
 pang - хлеб  
@@ -754,6 +762,7 @@ parche - кусок
 pari - равный  
 pari nombre - чётное число  
 parke - парк  
+parlinyi - параллельный  
 parne - папоротник  
 pash - боль  
 pashi - болезненный  
@@ -815,9 +824,10 @@ pujomeze - алтарь
 puma\* - пума (кугуар)  
 puntonombre - оценка  
 pura - заполнять  
+purfityamiste - веган  
 puri - полный  
 purshipa - мариновать  
-putawlimon - грейпфрут  
+putaworanje - грейпфрут  
 ####Q - Q  
 ####R - R  
 rangarke - радуга  
@@ -837,7 +847,6 @@ reybon - починка (ремонт)
 reybona - чинить (ремонтировать)  
 reyboner - ремонтник  
 reya - повторять  
-rezulte - эффект  
 rim - рифма  
 ringar - ринг (манеж)  
 ris - рис  
@@ -845,6 +854,8 @@ ritim - ритм (такт)
 robote - робот  
 roketolancer - ракетная установка  
 Roma - Рим  
+romanci - романтический  
+romancia - роман  
 romkamil - ромашка римская  
 ros - роса  
 rototope - волчок  
@@ -1003,7 +1014,7 @@ tinzong - трезубец
 tira milke - тянуть  
 tira pil - ободрать  
 tirbaton - рычаг  
-tirliw - отбойное течение  
+tirdar - отбойное течение  
 tocha - касаться  
 tomate - помидор (томат)  
 trate - договор  
@@ -1013,8 +1024,11 @@ tuze - кролик (заяц)
 ####U - U  
 umur - возраст  
 un (uni) - один (1)  
-uniko - единственно  
+uniki - единственный (уникальный)  
+uniko - только (единственно)  
+unjani - одинокий (единичный)  
 unmaro - один раз  
+unoki lense - монокль  
 ungle - палец  
 ura - ура  
 Uran - Уран  
@@ -1059,7 +1073,7 @@ washa - мыть
 washmashin - стиральная машина  
 washurse - енот  
 waw - вау!  
-wenjoworanje - мандарин уншиу  
+wenjouoranje - мандарин уншиу  
 westogoril - западная горилла  
 ####Y - Y  
 yamfite - овощ  
@@ -1077,7 +1091,6 @@ yesho - ещё
 Yesu - Иисус  
 yoge - йога  
 yohani feste - Иванов день  
-yuke - нефрит (жад)  
 yumor - юмор  
 ####Z - Z  
 zaman - период (эпоха)  
@@ -1091,7 +1104,7 @@ zemgrafia - картография
 zemmetria - геометрия  
 zemnichi prizon - ублиет (подземная тюрьма)  
 zeyil - бородавка  
-zeze - муха  
+zeze - двукрылое  
 Zimbabwe - Зимбабве  
 zinje - имбирь  
 zinke - цинк  

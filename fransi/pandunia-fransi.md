@@ -98,6 +98,8 @@ arte - art
 artiste - artiste  
 asi - asiatique  
 asia - Asie  
+asar - effet  
+asara - effectuer  
 asle - origine  
 asli - originel  
 aslameriki - amérindien (indien)  
@@ -111,7 +113,7 @@ Athina - Athènes
 atlantokade - morue de l'Atlantique  
 atlantosalmon - saumon altentique  
 aur - or  
-auroranje - kumquat  
+autologe - monologue  
 avar - dommage  
 avgani - afghan  
 Avganistan - Afghanistan  
@@ -182,7 +184,7 @@ bete - betterave
 bina - construire  
 bir - bière  
 biw - organisme  
-biwchaniver - compost  
+biwcaniver - compost  
 biwlojia - biologie  
 biwmutu - fermenter  
 biwsistem - biome  
@@ -238,6 +240,7 @@ daka - couvrir
 dalil - preuve  
 dance - dance  
 danger - cloche  
+dartube - entonnoir  
 darjomute - développement  
 date - données  
 datobanke - base de données  
@@ -269,6 +272,7 @@ dolfin - dauphin
 dom - maison  
 doma - vivre (habiter)  
 domi - domestique  
+domzeze - mouche  
 dong - east (orient)  
 duga - lire  
 duli - deux (2)  
@@ -371,6 +375,7 @@ gida - guider
 gider - guide  
 gidobuke - guide touristique  
 gitar - guitare  
+giuke - jade  
 glisu - glisser  
 gluta - coller  
 gluti - adhésif (collant)  
@@ -386,7 +391,7 @@ grimas - grimace
 grupe - groupe  
 gul - goule  
 gun - armée  
-gunren - soldat  
+gunjan - soldat  
 gute - genou  
 guypapil - pavot d'Orient  
 ####H - H  
@@ -415,6 +420,7 @@ hem - hum
 hema - considérer  
 hemahe - tente  
 hen - haine  
+Hesia - Hesse  
 hewan - animal (bête)  
 hewanjenisia - élevage  
 hewanparke - zoo  
@@ -422,6 +428,8 @@ hiar - concombre
 hijabe - voile  
 hijenia - hygiène  
 him - neige  
+Hindia - Hindustan  
+Hindonade - Indus  
 hisaba - calculer  
 hoga - brûler  
 hoge - feu  
@@ -480,7 +488,7 @@ jus - jus
 justi - exact (précis)  
 ####K - K  
 ke - que (quoi)  
-ki ren - qui  
+ki jan - qui  
 ki sate - quand  
 ko - que (comme)  
 ko? - comment  
@@ -506,11 +514,14 @@ kanape - canapé (sofa)
 kanche - verre  
 kangaru\* - kangourou  
 kanion - canyon (ravin)  
+kankuate - kumquat  
 kano - canoë  
-okosuygas - gaz lacrymogène  
 Kantalupo da Sabina - Cantalupo in Sabina  
 kapotruke - piège  
 kar - travail  
+karer - travailleur (ouvrier)  
+karloge - verbe  
+karmisa - soumettre  
 kara - travailler  
 karaibia - Caraïbes  
 karbodulokside - dioxyde de carbone  
@@ -518,17 +529,14 @@ karchof - artichaut
 karde - carte  
 kardon - chardon  
 kardonkarchof - cardon  
-karer - travailleur (ouvrier)  
 karimi - généreux  
 karimia - générosité (charité)  
-karloge - verbe  
-karmisa - soumettre  
 karote - carotte  
 karsi - rêche (rugueux, gros)  
 karsolimon - combava  
 kaske - carapace (coquille, coquillage, croûte)  
-katan - épée  
 katoglutoban - presse-papier  
+katan - épée  
 katus - cactus  
 kava - creuser  
 kave - fosse  
@@ -617,13 +625,13 @@ lense - lentille
 lenti - lent  
 letis - laitue  
 liama\* - lama  
+liboban - étagère  
 libel - libellule  
-libobanze - étagère  
 lider - dirigeant (leader)  
 lifafa - envelopper (emballer)  
-lil (lili) - petit  
-lilkaboge - courgette  
+lili - petit  
 lilsheke - caillou  
+lilkaboge - courgette  
 limi - cinq (5)  
 limon - citron  
 lince - lynx  
@@ -632,12 +640,11 @@ linye - ligne
 lisan - langue  
 liste - liste  
 litre - litre  
-liwkupe - entonnoir  
 loga - parler  
-logaslia - étymologie  
 loge - mot  
 logi - lexical  
 logia - vocabulaire (lexique)  
+logaslia - étymologie  
 logivi - loquace  
 loka - mettre (placer)  
 loke - lieu  
@@ -690,7 +697,7 @@ mayime - maximum
 me - je (me)  
 meche - match  
 medi - medio  
-medikosuy - pocion  
+medicosuy - pocion  
 mege - nuage  
 mehi kesh - laine  
 mel - miel  
@@ -722,10 +729,6 @@ mola - moudre
 molia - moulin  
 molsheke - meule  
 mome - nous  
-moni - seul (unique)  
-mono - seulement  
-monloge - monologue  
-monoki lense - monocle  
 mos - mousse  
 mosi - moussu  
 mosim - saison  
@@ -768,6 +771,7 @@ novike - néophyte
 o - ou  
 oke - œil  
 oki - oculaire  
+okosuygas - gaz lacrymogène  
 okside - oxyde  
 onde - onde  
 or - oreille  
@@ -785,8 +789,8 @@ ostoshalke - scutelle
 pace - paix  
 paciste - pacifiste  
 pacokade - morue du Pacifique  
+padi - chu  
 padomosim - automne  
-paduti - chu  
 pagre - turban  
 pake - paquet  
 pakse - oiseau  
@@ -864,7 +868,7 @@ pura - remplir
 purbona - perfectionner (parfaire)  
 puri - plein  
 purshipa - tremper (faire mariner)  
-putawlimon - pamplemousse  
+putaworanje - pamplemousse  
 pute - fils ou fille  
 ####Q - Q  
 ####R - R  
@@ -889,7 +893,6 @@ reybon - réparation
 reybona - réparer  
 reyboner - réparateur  
 reya - répéter  
-rezulte - effet  
 richi - riche  
 rim - rime  
 ring - anneau  
@@ -1056,9 +1059,10 @@ tuze - lapin (lièvre)
 ####U - U  
 umur - âge  
 un (uni) - un (1)  
-uniki - unique  
+uniki - seul (unique)  
 uniko - uniquement  
 unmaro - une fois  
+unoki lense - monocle  
 ura - hourra  
 Uran - Uranus  
 uranem - uranium  
@@ -1104,7 +1108,7 @@ vute - objet (article)
 warkalge - varech  
 warkolate - page  
 washurse - raton laveur  
-wenjoworanje - mandarine satsuma  
+wenjouoranje - mandarine satsuma  
 wolfe - loup  
 Wolof - wolof  
 ####Y - Y  
@@ -1122,7 +1126,6 @@ Yesu - Jésus
 yongopetre - lave  
 yongosaha - fondu  
 yongu - melt  
-yuke - jade  
 ####Z - Z  
 Zardush - Zoroastre  
 zardushiste - zoroastrien  
@@ -1137,7 +1140,6 @@ zemlojia - géologie
 zemmetria - géométrie  
 zemnichi prizon - oubliette (cul de basse-fosse)  
 zeyil - verrue  
-zeze - mouche  
 zinje - gingembre  
 zombe - zombi  
 zon - zone  

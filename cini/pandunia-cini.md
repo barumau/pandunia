@@ -60,6 +60,7 @@ aromu - 发臭
 aromomelon - 香瓜  
 arte - 艺术  
 artiste - 美术家  
+asar - 影响  
 asle - 起源  
 asli - 原始的  
 asme - 气喘  
@@ -71,7 +72,7 @@ Athina - 雅典
 atlantokade - 大西洋鱈  
 atlantosalmon - 大西洋鮭  
 aur - 金  
-auroranje - 金柑  
+autologe - 独白  
 Avganistan - 阿富汗  
 ####B - B  
 babe - 章  
@@ -186,6 +187,7 @@ cirkosheke - 鹅卵石
 ####D - D  
 danger - 钟 (摇铃)  
 dantobalute - 槲树  
+dartube - 漏斗  
 darjomute - 发展 (开发)  
 date - 数据  
 datobanke - 数据库  
@@ -198,7 +200,7 @@ dayvaze - 炼药锅
 debili - 虚弱 (易坏)  
 defban - 盾牌  
 defkaske - 盔甲  
-deshren - 公民  
+deshojan - 公民  
 dew - 神  
 dika - 瞄准  
 dike - 目的 (目标)  
@@ -294,6 +296,7 @@ gida - 导游
 gider - 导游  
 gidobuke - 指南  
 gitar - 吉他  
+giuke - 玉  
 glisu - 滑下  
 gluti - 黏的  
 glutopote - 黏土  
@@ -308,7 +311,7 @@ grimas - 鬼脸
 Guangjou - 广州  
 guke - 菊花  
 gun - 军队  
-gunren - 军人  
+gunjan - 军人  
 gute - 膝  
 guypapil - 鬼罂粟 (東方罌粟)  
 ####H - H  
@@ -339,10 +342,13 @@ helisviman - 直升机
 helpa - 帮助  
 hema - 深思 (考虑)  
 hemahe - 帐篷  
+Hesia - 黑森  
 hewan - 动物  
 hewanparke - 动物园  
 hiar - 黄瓜  
 hijabe - 面纱  
+Hindia - 印度斯坦  
+Hindonade - 印度河  
 hisaba - 计算  
 hoga - 燃烧  
 hoge - 火  
@@ -421,10 +427,13 @@ kanchodake - 釉
 kande - 糖果  
 kangaru\* - 袋鼠  
 kanion - 峡谷 (深谷)  
-okosuygas - 催泪瓦斯  
+kankuate - 金柑  
 kantalupomelon - 鈔皮瓜  
 kapotruke - 陷阱  
 kar - 工作  
+karer - 工人 (工作者)  
+karloge - 动词  
+karmisa - 提交  
 karokan - 工厂  
 kara - 工作  
 karbodulokside - 二氧化碳  
@@ -432,16 +441,13 @@ karchof - 菜蓟
 karde - 牌  
 kardon - 蓟  
 kardonkarchof - 刺苞菜蓟  
-karer - 工人 (工作者)  
-karloge - 动词  
-karmisa - 提交  
 karote - 红萝卜  
 karsi - 粗糙  
 karsolimon - 箭叶橙  
 kaske - 壳 (皮)  
 kata - 切  
-katan - 剑  
 katoglutoban - 剪贴板  
+katan - 剑  
 katus - 仙人掌  
 kava - 挖  
 kave - 坑 (穴)  
@@ -495,6 +501,8 @@ kube - 立方体
 kupe - 杯子  
 kushu - 躺  
 ####L - L  
+le - 他，她，它  
+lole - 他们  
 lage - 湖  
 laje - 废物 (垃圾)  
 lalbawsheke - 红宝石  
@@ -518,7 +526,6 @@ laya - 带来
 layu - 来  
 lazanye - 千层面  
 lazuar - 青金岩  
-le - 他，她，它  
 lefte - 左  
 lengi - 冷たい (寒い)  
 lengomosim - 冬天  
@@ -527,28 +534,27 @@ lenti - 慢
 letis - 莴苣  
 leze - 梨  
 liama\* - 大羊駝  
-libel - 蜻蜓  
-libobanze - 架子 (搁板)  
+liboban - 架子 (搁板)  
 libobaze - 架子  
+libel - 蜻蜓  
 lider - 领导  
-lil (lili) - 小  
-lilkaboge - 西葫芦  
+lili - 小  
 lilsheke - 砾石  
+lilkaboge - 西葫芦  
 limi - 五 (5)  
 limon - 柠檬  
+limonike - 柑橘  
 lince - 猞猁 (山貓)  
 linka - 连接  
 linke - 联系  
 lisan - 舌头  
 liste - 单子  
 litre - 升  
-liwkupe - 漏斗  
 loga - 说话 (讲)  
 loge - 词  
 logia - 词汇  
 loka - 放置  
 loke - 地方  
-lole - 他们  
 lon - 论  
 longi - 长  
 longoduro - 久  
@@ -592,7 +598,7 @@ mayim (mayimo) - 最
 me - 我  
 meche - 比赛  
 medi - 中型  
-medikosuy - 药水  
+medicosuy - 药水  
 mega\* - 百万 (兆)  
 mege - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
@@ -624,9 +630,6 @@ molekul - 分子
 molia - 磨坊  
 molsheke - 磨石  
 mome - 我们  
-moni - 唯一  
-mono - 只有 (惟独)  
-monloge - 独白  
 mos - 苔藓  
 mosim - 季  
 moter - 马达 (发动机)  
@@ -665,6 +668,7 @@ novike - 新手
 ####O - O  
 o - 或  
 oke - 眼睛  
+okosuygas - 催泪瓦斯  
 okside - 氧化物  
 onde - 波浪  
 or - 耳  
@@ -740,8 +744,9 @@ pujokan - 寺庙
 pujomeze - 圣坛  
 pul - 桥  
 puma\* - 美洲獅 (山狮)  
+purfityamiste - 纯素食主义者  
 purshipa - 浸泡  
-putawlimon - 葡萄柚  
+putaworanje - 葡萄柚  
 putongi - 普通  
 ####Q - Q  
 ####R - R  
@@ -761,7 +766,6 @@ reybon - 修理
 reybona - 修理  
 reyboner - 修理工人  
 reya - 重复  
-rezulte - 影响  
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
@@ -925,6 +929,9 @@ tuze - 兔子
 umami - 鲜味  
 umur - 年岁  
 un (uni) - 一 (1)  
+uniki - 唯一 (独)  
+uniko - 只有 (惟独)  
+unjani - 独自的 (孤单)  
 unmaro - 一次 (一遍)  
 ungle - 手指  
 ura - 好哇  
@@ -959,7 +966,7 @@ wan - 娱乐
 wanu - 玩耍  
 washurse - 浣熊  
 Wenjou - 温州  
-wenjoworanje - 温州蜜柑  
+wenjouoranje - 温州蜜柑  
 wijin - 味精  
 ####Y - Y  
 yamfite - 蔬菜  
@@ -975,7 +982,6 @@ yoge - 瑜伽功
 yongopetre - 熔岩  
 yongosaha - 熔炼  
 yongu - 融化  
-yuke - 玉  
 ####Z - Z  
 zebre - 斑马  
 zemforme - 地势  
@@ -983,6 +989,7 @@ zemgraf - 地图
 zemgrafia - 地图学 (地理)  
 zemmetria - 几何学  
 zeyil - 疣  
+zeze - 双翅目  
 zinje - 姜  
 zir - 孜然  
 zong - 桩  

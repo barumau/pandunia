@@ -262,6 +262,8 @@ butonban - klavaro
 buy - baobabo  
 buze - kapro  
 ####C - C  
+cana - produkti (fabriki)  
+canbash - artefarita lingvo  
 caw - herbo  
 cel - ĉelo  
 celolojia - citologio  
@@ -276,8 +278,6 @@ chake - tranĉilo
 chakre - rado  
 chamache - kulero  
 champion - ĉampiono  
-chana - produkti (fabriki)  
-chanbash - artefarita lingvo  
 chanse - ŝanco  
 chanta - kanti  
 chante - kanto  
@@ -303,8 +303,8 @@ chora - ŝteli
 chorer - ŝtelisto  
 chum - kiso  
 chupa - suĉi  
-chuta - eliri  
 chute - eliro  
+chutu - eliri  
 chutomun - elirejo  
 chuza - elekti  
 chuze - elekto  
@@ -382,6 +382,7 @@ dom - hejmo (loĝejo)
 doma - loĝi  
 domi - hejma  
 domisa - loĝigi  
+domzeze - muŝo  
 don - donaco  
 dona - doni  
 dong - oriento  
@@ -606,6 +607,7 @@ geta - akiri (ricevi, preni)
 geyi - samseksema  
 gida - gvidi  
 gitar - gitaro  
+giuke - jado  
 glute - gluo  
 gluten - gluteno  
 gol - golo  
@@ -628,7 +630,7 @@ guhe - kaverno
 gula - gluti  
 gum - tamburo  
 gun - armeo  
-gunren - soldato  
+gunjan - soldato  
 guru\* - guruo (instruisto)  
 gurube - porko  
 gurubomanse - porkaĵo  
@@ -638,6 +640,7 @@ gustu ko - gusti kiel
 gute - genuo  
 guy - ogro (trolo)  
 ####H - H  
+he - ĉu?  
 habar - novaĵoj  
 habargazete - gazeto  
 hafnem - hafnio  
@@ -674,32 +677,33 @@ hayi - mara
 hayamirer - admiralo (ŝiparestro)  
 haygun - mararmeo  
 hayporte - haveno  
-he - ĉu?  
 helem - helio  
 heleni - greka  
 Helenia - Grekio  
 helisviman - helikoptero  
-helme - kasko  
 helpe - helpo  
 hem - hm  
 hema - pripensi (rigardi ia)  
 hemahe - tendo  
 hen - malamo  
-hasem - hasio  
+hesem - hasio  
 hewan - besto  
 hewanparke - zoo (bestoĝardeno)  
 hiar - kukumo  
 hibride - miksulo  
 hidre - hidrogeno  
 him - neĝo  
-himalia - Himalajo  
 himros - frosto  
+Himalia - Himalajo  
 hindem - indio  
 hindiste - hinduo  
 hindistia - hinduismo  
+Hindonade - Induso  
+hisaba - kalkuli  
+hisabe - kalkulo  
 histor - historio  
-historer - historiisto  
 historia - historio (studo de historio)  
+historer - historiisto  
 hobe - hobio  
 hoge - fajro  
 hogi - fajra  
@@ -800,7 +804,7 @@ justi - preciza (ekzakta)
 justo - ĝuste (ekzakte)  
 ####K - K  
 ke - kio?  
-ki ren - kiu?  
+ki jan - kiu?  
 ki sate - kiam?  
 ki shey - kio?  
 ki yangi - kia?  
@@ -841,6 +845,8 @@ kante - ŝultro
 kanun - lego  
 kapa - kapti  
 kar - laboro  
+karer - laboristo  
+karloge - verbo  
 karokan - laborejo  
 karaibia - Karibio  
 karate - karateo  
@@ -848,9 +854,7 @@ karave - karvio
 karbe - karbono  
 karbodulokside - karbona dioksido  
 karde - karto  
-karer - laboristo  
 karibi - proksima  
-karloge - verbo  
 karote - karoto  
 karvan - karavano  
 kastan - kaŝtano  
@@ -910,8 +914,8 @@ koni - kuna
 kono - kune  
 konbash - komuna lingvo  
 konboni - kongrui  
-konchaniste - komunisto  
-konchanistia - komunismo  
+koncaniste - komunisto  
+koncanistia - komunismo  
 konkara - kunlabori  
 koncerte - koncerto  
 konfuze - Konfuceo  
@@ -930,7 +934,7 @@ korti - mallonga
 kos - tuso  
 kote - palto  
 koy (koyi) - iu  
-koy ren - iu persono  
+koy jan - iu persono  
 koy sate - iam  
 koy shey - io  
 krabe - krabo  
@@ -960,10 +964,13 @@ kurse - seĝo
 kurve - kurbo  
 kushu - kuŝi  
 ####L - L  
+le - li aŭ ŝi aŭ ĝi  
+lole - ili  
 labe - lipo  
 laje - rubo  
 lalbawsheke - rubeno  
 lali - ruĝa  
+laloranje - mandarino  
 lampe - lampo  
 lanca - ĵeti (lanĉi)  
 lasun - ajlo  
@@ -973,7 +980,6 @@ Latvia - Latvio
 laurensem - laŭrencio  
 laya - alporti (venigi)  
 layu - veni  
-le - li aŭ ŝi aŭ ĝi  
 lekino - tamen  
 lengi - malvarma  
 lengomosim - vintro  
@@ -986,34 +992,33 @@ lewo - jam (esti farita)
 leze - piro  
 libel - libelo  
 liga - aligi  
-lil (lili) - malgranda  
-lilsite - urbeto  
-lilbol - bobelo  
+lili - malgranda  
 lilsheke - ŝtoneto  
+lilbol - bobelo  
+lilsite - urbeto  
 limi - kvin (5)  
 limon - citrono  
 limonrangi - flava  
 lince - linko  
 linye - lineo  
-lisan - lango  
 lisi - glata  
+lisan - lango  
 liste - listo  
 litem - litio  
 litre - litro  
 lobake - rafaneto  
 loga - paroli  
-logaslia - etimologio  
 loge - vorto (parolo)  
 logia - vortaro  
-logike - logiko  
-logiki - logika  
+logaslia - etimologio  
 logivi - parolema  
 logoliste - vortaro  
+logike - logiko  
+logiki - logika  
 lojia - scienco  
 loka - lokigi  
 loke - loko  
 loki - loka  
-lole - ili  
 longa - longigi  
 longi - longa  
 lowa - liki  
@@ -1068,8 +1073,8 @@ mayan - majao
 mayim (mayimo) - plej  
 me - mi  
 medi - mezo  
-medika - sanigi (kuraci)  
-mediker - kuracisto  
+medica - sanigi (kuraci)  
+medicer - kuracisto  
 medu - inter  
 mega\* - miliono  
 mehe - ŝafo  
@@ -1091,7 +1096,6 @@ meze - tablo
 mi - mia  
 Mianma - Birmo  
 mien - nudelo  
-migan - mandarino  
 migre - migrado  
 mikro- - mikro-  
 miksa - miksi  
@@ -1103,7 +1107,6 @@ min (mino) - malpli
 min ko bas - maltro  
 mina - escepte  
 minar - turo  
-mini - eta  
 minim (minimo) - malplej  
 minister - ministro  
 minute - minuto  
@@ -1123,10 +1126,6 @@ mokomate - ligno
 molidenum - molibdeno  
 moluske - molusko  
 mome - ni  
-moni - ununura  
-mono - nur  
-monistia - monismo  
-monoki lense - monoklo  
 mongoli - mongola  
 Mongolia - Mongolio  
 monster - monstro  
@@ -1143,7 +1142,7 @@ muhmanse - bovaĵo
 muke - vizaĝo  
 mul - radiko  
 mumfote - kandelo  
-mumren - mumio  
+mumjan - mumio  
 mun - pordo  
 mur - vando  
 murkaguje - tapeto  
@@ -1450,6 +1449,7 @@ santi - sankta
 sapate - ŝuo  
 sapater - ŝuisto  
 sapateria - ŝuistejo  
+sarkaske - kasko  
 saudar - frato aŭ fratino  
 sauna\* - saŭno  
 sava - scii (koni)  
@@ -1564,7 +1564,7 @@ Suomi - Finnlando
 suomi - finna  
 supe - supo  
 superi - bonega  
-supra - superiri  
+supru - superiri  
 suprize - surprizo  
 sushi\* - suŝio  
 suy - akvo  
@@ -1648,9 +1648,11 @@ un (uni) - unu (1)
 unia - uniono  
 unal - unu la alian (reciproke)  
 unali - reciproka  
+unistia - monismo  
 uniki - sola (ununura)  
-uniko - sole  
+uniko - sole (nur)  
 unmaro - unufoje  
+unoki lense - monoklo  
 ungle - fingro  
 ungloring - ringo  
 uranem - uranio  
@@ -1722,7 +1724,6 @@ Yesu - Jesuo
 yeze - kokoso  
 yi - ĉi tiu  
 yoge - jogo  
-yuke - jado  
 yumor - humuro  
 yumori - humura  
 yumoriste - humuristo  
@@ -1745,7 +1746,6 @@ zebre - zebro
 zemmetria - geometrio  
 zemsisme - tertremo  
 zeyil - veruko  
-zeze - muŝo  
 zin - malfideleco  
 zinje - zingibro  
 zinke - zinko  

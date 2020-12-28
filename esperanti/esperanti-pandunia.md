@@ -98,7 +98,7 @@ argono - argon
 armeo - gun  
 armilo - arme  
 arseno - arsen  
-artefarita lingvo - chanbash  
+artefarita lingvo - canbash  
 artisto - artiste  
 arto - arte  
 arĝento - argente  
@@ -350,7 +350,7 @@ elektro - eletre
 elektrono - eletron  
 elemento (ero) - em  
 elirejo - chutomun  
-eliri - chuta  
+eliri - chutu  
 eliro - chute  
 emi - iva  
 emo (inklino, tendenco) - ive  
@@ -378,7 +378,6 @@ Estonio - Estia
 estonoteco - wil  
 estonte - wilo  
 estro (ĉefulo) - shef  
-eta - mini  
 etimologio - logaslia  
 Etiopio - Etiopia  
 etna - zuki  
@@ -554,7 +553,7 @@ hana - chini
 harmonia - harmoni  
 harmonio - harmonia  
 haro - kesh  
-hasio - hasem  
+hasio - hesem  
 havanto - malker  
 haveno - hayporte  
 haveno - porte  
@@ -574,7 +573,7 @@ heroa - viri
 heroo - vir  
 hidrogeno - hidre  
 hieraū - chendeno  
-Himalajo - himalia  
+Himalajo - Himalia  
 hinduismo - hindistia  
 hinduo - hindiste  
 hipopotamo - gubu\*  
@@ -612,6 +611,7 @@ ili - lole
 ilo - tul  
 indio - hindem  
 Indonezio - Indonesia  
+Induso - Hindonade  
 infano - bache  
 infekto - infekse  
 informacio - informe  
@@ -646,9 +646,9 @@ iterbio - yuterbem
 itrio - yutrem  
 iu - koy (koyi)  
 iu ajn - eni  
-iu persono - koy ren  
+iu persono - koy jan  
 ####J - J  
-jado - yuke  
+jado - giuke  
 jako - jake  
 jam (esti farita) - lewo  
 Jamajko - Jamaika  
@@ -688,6 +688,8 @@ kaliforniumo - kalifornem
 kalio - kalem  
 kalko - kalcomate  
 kalkoŝtono - kalcopetre  
+kalkuli - hisaba  
+kalkulo - hisabe  
 Kamboĝo - Kambujia  
 kamelo - gamel  
 kanabo - ganje  
@@ -712,7 +714,7 @@ karoto - karote
 karto - karde  
 kartuno - anim  
 karvio - karave  
-kasko - helme  
+kasko - sarkaske  
 kastoro - kastor  
 Katalunio - Katalunia  
 kato - maw  
@@ -737,7 +739,7 @@ kio? - ki shey
 kiom? - ko multo  
 kiso - chum  
 kiu (komencigas relativan frazon) - da  
-kiu? - ki ren  
+kiu? - ki jan  
 kivo - kiwi\*  
 klara - klari  
 klarigi - klara  
@@ -776,8 +778,8 @@ kompreno - bude
 komputero - komputer  
 komuna - komuni  
 komuna lingvo - konbash  
-komunismo - konchanistia  
-komunisto - konchaniste  
+komunismo - koncanistia  
+komunisto - koncaniste  
 koncentri - fokusa  
 koncentriĝo - fokus  
 koncerto - koncerte  
@@ -840,7 +842,7 @@ kuna - koni
 kune - kono  
 kunlabori - konkara  
 kupro - kupre  
-kuracisto - mediker  
+kuracisto - medicer  
 kurbo - kurve  
 kuri - kora  
 kuristo - korer  
@@ -930,7 +932,7 @@ malferma - kayi
 malfermi - kaya  
 malfermiĝi - kayu  
 malfideleco - zin  
-malgranda - lil (lili)  
+malgranda - lili  
 Malio - Mali  
 malkonsenti - alraya  
 malkredulo - andiniste  
@@ -958,7 +960,7 @@ malĝoja - duki
 malĝojigi - duka  
 malĝojo - duke  
 mana - handi  
-mandarino - migan  
+mandarino - laloranje  
 mandarinĉina - Putong Chini  
 mangano - mangan  
 maniero (konduto) - manir  
@@ -1033,9 +1035,9 @@ mondo - dunia
 monero - pesdiske  
 mongola - mongoli  
 Mongolio - Mongolia  
-monismo - monistia  
+monismo - unistia  
 mono - pes  
-monoklo - monoki lense  
+monoklo - unoki lense  
 monstro - monster  
 monto - shan  
 montri (ekspozicii) - show  
@@ -1052,13 +1054,13 @@ moviĝi - kinu
 movo - mote  
 multe - poli  
 multlingva - polbashi  
-mumio - mumren  
+mumio - mumjan  
 muskedo - muskete  
 muskolo - muskul  
 muso - mush  
 muzikisto - musiker  
 muziko - musike  
-muŝo - zeze  
+muŝo - domzeze  
 ####N - N  
 nadlo (pinglo) - pin  
 najlo - ding  
@@ -1109,7 +1111,6 @@ novaĵoj - habar
 novulo - novike  
 nudelo - mien  
 nuno - zay  
-nur - mono  
 ####O - O  
 oazo - was  
 obrelo - barshochate  
@@ -1267,7 +1268,7 @@ preĝo - duwe
 printempo - fulmosim  
 pripensi (rigardi ia) - hema  
 problemo - problem  
-produkti (fabriki) - chana  
+produkti (fabriki) - cana  
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
@@ -1384,7 +1385,7 @@ samseksema - samseksi
 sana - sihi  
 sangi - lowa sang  
 sango - sang  
-sanigi (kuraci) - medika  
+sanigi (kuraci) - medica  
 sankta - santi  
 sapo - sabun  
 saĝa - sofi  
@@ -1445,8 +1446,8 @@ sofo - kanape
 sofo - sofa\*  
 soifo - suynide  
 sola (ununura) - uniki  
-soldato - gunren  
-sole - uniko  
+soldato - gunjan  
+sole (nur) - uniko  
 solido - gatomate  
 somero - garmomosim  
 sono - sonde  
@@ -1478,7 +1479,7 @@ sumo - sum
 suno - sol  
 sunombrelo - solchate  
 sunsistemo - solsistem  
-superiri - supra  
+superiri - supru  
 supo - supe  
 surfaco - fas  
 surporti - fuki  
@@ -1587,7 +1588,6 @@ uniono - unia
 unu (1) - un (uni)  
 unu la alian (reciproke) - unal  
 unufoje - unmaro  
-ununura - moni  
 uragano (tajfuno) - rototafun  
 uranio - uranem  
 urba - nagri  

@@ -259,7 +259,7 @@ chocolat - chokolate
 chose - shey  
 chronique - duriki  
 chronomètre - durmetrer  
-chu - paduti  
+chu - padi  
 chêne - balute  
 chêne pédonculé - europobalute  
 chœur - chantergrupe  
@@ -284,7 +284,7 @@ compare - para
 compassion - samemoce  
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
-compost - biwchaniver  
+compost - biwcaniver  
 compote de pommes - apelsos  
 comprendre (réaliser) - aha  
 concert - koncerte  
@@ -387,7 +387,8 @@ développement - darjomute
 ####E - E  
 east (orient) - dong  
 eau - suy  
-effet - rezulte  
+effectuer - asara  
+effet - asar  
 Einsteinium - ainstainem  
 empruntre - jekogeta  
 en arrière - retro  
@@ -398,7 +399,7 @@ encore - yesho
 enfant - bache  
 enseigner - shulisa  
 enterrer - gabra  
-entonnoir - liwkupe  
+entonnoir - dartube  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -491,9 +492,11 @@ habiller (vêtir) - fuka
 haine - hen  
 hameçon - peshohuke  
 haut - gaw  
+Hesse - Hesia  
 heure - hor  
 heureux - suki  
 hier - chendeno  
+Hindustan - Hindia  
 hiver - lengomosim  
 hivernal (hibernal) - lengomosimi  
 hockey - hoke  
@@ -514,6 +517,7 @@ hôtel - hotel
 ####I - I  
 imperméable - barshokote  
 important - hami  
+Indus - Hindonade  
 infidèle (incroyant) - andiniste  
 inflammation - itis  
 insecte - konchung  
@@ -521,7 +525,7 @@ international - nasmedi
 interracial - rasmedi  
 ironie - ironia  
 ####J - J  
-jade - yuke  
+jade - giuke  
 Japon - Nipon  
 jaïnisme - jeinistia  
 je (me) - me  
@@ -540,7 +544,7 @@ kangourou - kangaru\*
 Khartoum - Khartum  
 Kinshasa - Kinshasa  
 kiwi - kiwi\*  
-kumquat - auroranje  
+kumquat - kankuate  
 ####L - L  
 lac - lage  
 laine - mehi kesh  
@@ -605,7 +609,7 @@ maison - dom
 malédiccion - lan  
 manche - kamisi shake  
 mandarine - laloranje  
-mandarine satsuma - wenjoworanje  
+mandarine satsuma - wenjouoranje  
 manichéisme - manihayistia  
 marbre - kalcokristal  
 marche - marche  
@@ -643,14 +647,14 @@ mois - mes
 mole (unité) - mol  
 monde - dunia  
 monnaie (pièce) - pesdiske  
-monocle - monoki lense  
-monologue - monloge  
+monocle - unoki lense  
+monologue - autologe  
 morue - kade  
 morue de l'Atlantique - atlantokade  
 morue du Pacifique - pacokade  
 mot - loge  
 moteur - moter  
-mouche - zeze  
+mouche - domzeze  
 moudre - mola  
 mouiller - shipa  
 mouillé - shipi  
@@ -743,7 +747,7 @@ pain - pang
 pair (pareil) - pari  
 paix - pace  
 palais (château, manoir) - daydom  
-pamplemousse - putawlimon  
+pamplemousse - putaworanje  
 panneau de signalisation - dawban  
 pantalon - pante  
 pantoufle (babouche) - babuche  
@@ -779,7 +783,7 @@ perplexe (désorienté) - ruhmiksi
 perroquet - papagay  
 personne (gente) - jan  
 pet (vesse) - pede  
-petit - lil (lili)  
+petit - lili  
 peu - shawi  
 peut-être - ablo  
 phase - faze  
@@ -813,7 +817,7 @@ plume - kalam
 plurilingue (multilingue) - polbashi  
 plus - may (mayo)  
 pluvieux - barshi  
-pocion - medikosuy  
+pocion - medicosuy  
 podzol - huydarte  
 poireau - porey  
 poisson - pesh  
@@ -868,7 +872,7 @@ quatre (4) - chari
 que (comme) - ko  
 que (quoi) - ke  
 question - eske  
-qui - ki ren  
+qui - ki jan  
 ####R - R  
 race - ras  
 racine - mul  
@@ -947,8 +951,7 @@ sens - sense
 sentir - aroma  
 sept (7) - seti  
 serrure - sor  
-seul (unique) - moni  
-seulement - mono  
+seul (unique) - uniki  
 sexe - jinse  
 shopping - shope  
 si - aga  
@@ -960,7 +963,7 @@ six (6) - sisi
 société - socia  
 soie - silke  
 soif - suynide  
-soldat - gunren  
+soldat - gunjan  
 soleil - sol  
 soumettre - karmisa  
 squelette - ostojamia  
@@ -1040,7 +1043,6 @@ tête - sar
 ####U - U  
 un (1) - un (uni)  
 une fois - unmaro  
-unique - uniki  
 uniquement - uniko  
 uranium - uranem  
 Uranus - Uran  
@@ -1131,7 +1133,7 @@ zèbre - zebre
 épreuve (test) - teste  
 épée - katan  
 équipe - tim  
-étagère - libobanze  
+étagère - liboban  
 étain - estan  
 état - hal  
 éternuer - achua  

@@ -339,8 +339,8 @@ ciało - badan
 ciało stałe - gatomate  
 cichy - shushi  
 ciecierzyca - humus  
-ciecz (płyn) - liwmate  
-ciekły (płynny) - liwmati  
+ciecz (płyn) - darmate  
+ciekły (płynny) - darmati  
 cielesny - badani  
 ciemny, słabo oświetlony - oskuri  
 ciepły - garmi  
@@ -361,7 +361,7 @@ cmentarz - gabristan
 cnota (moralność) - bondarme  
 cnotliwy (prawy) - bondarmi  
 co? - ke  
-co? - ki ren  
+co? - ki jan  
 coś - koy shey  
 croissant - kruasante  
 cudzysłów - citi marke  
@@ -466,7 +466,7 @@ dobry wieczór - salam sham
 dodatkowy - mayboni  
 dodatkowy - mayi  
 doktor (uczony, który osiągnął doktorat) - dotor  
-doktor, lekarz, uzdrowiciel - mediker  
+doktor, lekarz, uzdrowiciel - medicer  
 doktorat - dotoria  
 dokument - dokum  
 dokument - papir  
@@ -584,7 +584,7 @@ elegancki, szykowny - shiki
 elektron - eletron  
 elektryczność - eletre  
 elektryczny - eletri  
-eliksir (magiczny napój) - medikosuy  
+eliksir (magiczny napój) - medicosuy  
 emir - amirer  
 emirat - amiria  
 emocja, uczucie - emoce  
@@ -668,8 +668,8 @@ fu, fuj - fuy
 funkcja, stanowisko - funcu  
 funkcjonariusz, urzędnik - oficer  
 funt (£) - paunde  
-fuzja (amalgamowanie, łączenie) - liwunia  
-fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerni liwunia  
+fuzja (amalgamowanie, łączenie) - darunia  
+fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerni darunia  
 ####G - G  
 Gabon - Gabon  
 gadolin - gadolinem  
@@ -738,7 +738,7 @@ grać muzykę - musika
 grać w grę - gema  
 grać, odgrywać rolę - rola  
 Grecja - Helenia  
-grejpfrut - putawlimon  
+grejpfrut - putaworanje  
 Grenada - Grenada  
 Grenadyny - Grenadin nesia  
 Grenlandia - Kalalia  
@@ -802,7 +802,7 @@ handlarz (kupiec) - vendoshoper
 handlować - vendoshopa  
 harmonia - harmonia  
 harmoniczny - harmoni  
-has - hasem  
+has - hesem  
 haszysz - hashish  
 hasło - sekurkode  
 Hawaje (archipelag hawajski) - Hawayi nesia  
@@ -819,9 +819,9 @@ herbata - chay
 herc - herze  
 heteroromantyczny - alromansi  
 heteroseksualny - alseksi  
-hełm - helme  
+hełm - sarkaske  
 higiena - hijenia  
-Himalaje - himalia  
+Himalaje - Himalia  
 hinduistyczny - hindiste  
 hinduizm - hindistia  
 hipopotam - gubu\*  
@@ -917,7 +917,7 @@ iterb - yuterbem
 itr - yutrem  
 Izrael - Israel  
 iść (przemieścić się) - kitu  
-iść wzdłuż (pójść wzdłuż) - pargowa  
+iść wzdłuż (pójść wzdłuż) - parlinyu  
 iść, maszerować - marchu  
 ####J - J  
 ja, mnie - me  
@@ -952,8 +952,7 @@ jednostka miary - metrun
 jednoznaczny - unmeni  
 jedwab - silke  
 jedynie (tylko) - uniko  
-jedyny (wyłączny) - moni  
-jedyny - uniki  
+jedyny (wyłączny) - uniki  
 jedzenie, posiłek - yam  
 jej - yey  
 Jemen - yemenia  
@@ -979,7 +978,7 @@ już (skończona czynność) - lewo
 język - lisan  
 język ojczysty (język rodzimy) - jeni bash  
 język surinamski - surinami bash  
-język sztuczny - chanbash  
+język sztuczny - canbash  
 język świata, język ogólnoświatowy - dunia bash  
 język; komunikacja - bash  
 językoznastwo - bashlojia  
@@ -1042,7 +1041,7 @@ kawa - kafe\*
 kawiarnia - kafekan  
 Kazachstan - Kazahia  
 kałamarnica (mątwa) - kalamar  
-każdy człowiek, wszyscy - pan ren  
+każdy człowiek, wszyscy - pan jan  
 każdy, wszyscy - mey (meyi)  
 kebab - kababi manse  
 keczup - kechape  
@@ -1092,7 +1091,7 @@ kobieta, dorosła samica - maturi fem
 kobieta; kobiecy - fem  
 kochany (drogi) - luvi  
 kochać - luva  
-kochać romantycznie - romansa  
+kochać romantycznie - romanca  
 kochać się, uprawiać seks - seksa  
 kocioł - dayvaze  
 kod, szyfr - kode  
@@ -1124,10 +1123,10 @@ komiks; kreskówka - grafsage
 Komory - Komoro nesia  
 kompas (namagnesowana igła) - pontopin  
 kompatybilny (pasujący) - konfuncubli  
-kompost - biwchaniver  
+kompost - biwcaniver  
 komputer - komputer  
-komunista - konchaniste  
-komunizm - konchanistia  
+komunista - koncaniste  
+komunizm - koncanistia  
 komórka (biologia) - cel  
 koncert - koncerte  
 konfucjanizm - konfuzistia  
@@ -1221,7 +1220,7 @@ książka - buke
 książka z obrazkami - grafbuke  
 księżyc - lun  
 kszesło, fotel - kurse  
-ktoś - koy ren  
+ktoś - koy jan  
 który? - ki  
 Kuba - Kuba  
 kubek - kupe  
@@ -1236,7 +1235,7 @@ kult ognia - hogopujia
 kultura - kultur  
 kulturystyka - muskulbin  
 kumin, kmin - zir  
-kumkwat - auroranje  
+kumkwat - kankuate  
 kupić - shopa  
 kupon - kupon  
 kura, kogut, kurczak - kokode  
@@ -1258,7 +1257,7 @@ kąt - gon
 kąt prosty - ortogon  
 kłuć (żądlić) - pina  
 ####L - L  
-Lagos - legos  
+Lagos - Legos  
 lakier - lake  
 lalka, kukiełka, pacynka, marionetka - pupe  
 lama - lama\*  
@@ -1274,12 +1273,12 @@ las wodorostów - algojangle
 las, dżungla, zagajnik - jangle  
 latarnia - hogosanduke  
 latarnia morska - fotominar  
-latać (fruwać) - liwu  
+latać (fruwać) - daru  
 latać, lecieć - feyu  
 lato - garmomosim  
 lawa - yongopetre  
 lazania - lazanye  
-lejek - liwkupe  
+lejek - dartube  
 lekcja - shul  
 lekki - legi  
 leksem - logem  
@@ -1298,7 +1297,7 @@ liberalizm rynkowy - bazarhuristia
 liberalny, wolnościowy - huristi  
 Liberia - Liberia  
 Libia - Libia  
-liczi - lichi\*  
+liczi - liche  
 liczność (mnóstwo) - multia  
 liczyć - nombra  
 Liechtenstein - Lihtenshtain  
@@ -1322,7 +1321,7 @@ lit - litem
 litera, znak - harfe  
 litewski - lietuvi  
 litr - litre  
-Litwa - Lietuva  
+Litwa - Lietuvia  
 liwermor - livermorem  
 loch - zemnichi prizon  
 lodowy - aisi  
@@ -1332,7 +1331,7 @@ logika, dedukcja - logike
 logofil (miłośnik słów) - logofiler  
 lojalność (wierność) - yawshinablia  
 lojalny (wierny) - yawshinabli  
-Londyn - london  
+Londyn - London  
 lorens - laurensem  
 losowy - zari  
 lotnisko (port lotniczy) - airporte  
@@ -1383,8 +1382,7 @@ Malezja - Malaisia
 Mali - Mali  
 Malta - Malta  
 mandarynka - laloranje  
-mandarynka - migan  
-mandarynka Satsuma (pomarańcza Satsuma) - wenjoworanje  
+mandarynka Satsuma (pomarańcza Satsuma) - wenjouoranje  
 mandaryński chiński, Putonghua - Putong Chini  
 mangan - mangan  
 mango - mango  
@@ -1427,8 +1425,7 @@ Mauretania - Muritania
 Mauritius - Morisia  
 Maya - mayan  
 małpa (znak na - adresoharfe (@)  
-mały, mini- - mini  
-mały; mało, trochę, nieco - lil (lili)  
+mały; mało, trochę, nieco - lili  
 małżeństwo, związek małżeński - gamia  
 małżonek (małżonka) - gamike  
 mech - mos  
@@ -1437,7 +1434,7 @@ medalion, medal - medal
 media - media  
 media społecznościowe - soci media  
 meduza - hayjel  
-medycyna - medikia  
+medycyna - medicia  
 medytować; dumać, rozmyślać, zastanawiać się - medita  
 megawat - megawate  
 meitner - maitnerem  
@@ -1489,7 +1486,7 @@ minister - minister
 ministry - ministeria  
 minuta - minute  
 minąć, mijać (czas) - dura  
-minąć, mijać, przeminąć, przemijać - pasa  
+minąć, mijać, przeminąć, przemijać - pasu  
 misja - misia  
 mistrz (ekspert) - mester  
 mistrz (sensei) - shense  
@@ -1509,7 +1506,7 @@ mięta wodna - suyminte
 mięta zielona (mięta kłosowa) - zongominte  
 miłośnik (fan, -fil) - filer  
 miłość (afekt) - luve  
-miłość romantyczna - romansia  
+miłość romantyczna - romancia  
 miły, przyjemny, uroczy - hushi  
 Mjanma, Birma - Mianma  
 mlecz - makanful  
@@ -1529,12 +1526,12 @@ molekuła (cząsteczka) - molekul
 molibden - molidenum  
 moment - sate  
 Monako - Monako  
-monarchia - monkratia  
+monarchia - autokratia  
 moneta - pesdiske  
 Mongolia - Mongolia  
 Mongolski - mongoli  
-monizm - monistia  
-monolog - monloge  
+monizm - unistia  
+monolog - autologe  
 monoteizm - undewistia  
 moralność, etyka - darme  
 moralny - darmi  
@@ -1557,8 +1554,8 @@ możliwość, umiejętność - able
 możliwy - abli  
 mruganie (błysk) - shingofota  
 mrówka - murche  
-mucha - zeze  
-mumia - mumren  
+mucha - domzeze  
+mumia - mumjan  
 mur, ściana - mur  
 musieć - bishu  
 muskuł, mięsień - muskul  
@@ -1640,9 +1637,9 @@ nauka, badanie, studiowanie - lojia
 Nauru - Nauru  
 nautilus - nautil  
 nawet - hato  
-nawozić (nawieźć) - chaniva  
+nawozić (nawieźć) - caniva  
 nawyk (przyzwyczajenie) - ade  
-nawóz - chaniver  
+nawóz - caniver  
 nazista - naciste  
 nazizm - nacistia  
 nazwa użytkownika - uzernam  
@@ -1692,14 +1689,14 @@ niewiele (mało) - shawi
 niewierny (poganin, niewierzący) - kafir  
 niewierny - andiniste  
 niezgoda - alrayia  
-nigdy - nol ban  
+nigdy - nol sate  
 Niger - Nijer  
 Nigeria - Naijiria  
 nihonium - niponem  
 Nikaragua - Nikaragua  
 nikiel - nikel  
 niknąć (blaknąć, gasnąć, słabnąć) - mirdu  
-nikt, żadna osoba - nol ren  
+nikt, żadna osoba - nol jan  
 nikły - mirdi  
 niob - niobem  
 niski - tali  
@@ -1726,8 +1723,7 @@ notatnik - notobuke
 notować, obserwować, zauważyć, zauważać - nota  
 Nowa Kaledonia - Novi Kaledonia  
 Nowa Zelandia - Novi Zilande  
-nowicjusz (nowa osoba) - novi ren  
-nowicjusz - novike  
+nowicjusz (nowa osoba) - novike  
 nowoczesne - novyangi  
 nowość - nove  
 nowy - novi  
@@ -1766,7 +1762,7 @@ obserwator (widz) - vider
 obsydian - osidian  
 obudzić, budzić - jaga  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - rite  
-obywatel - deshren  
+obywatel - deshojan  
 obóz - kamper  
 ocean - dayhay  
 Ocean Antarktyczny (Ocean Południowy) - Antartiki Hay  
@@ -1971,7 +1967,6 @@ pieczęć woskowa - mumchape
 piekarnia - bekeria  
 piekarz - beker  
 piekło - narake  
-pielęgnować, leczyć - kura  
 pieniądze - pes  
 pieprz - pipre  
 pieprz długi - longopipre  
@@ -2044,7 +2039,7 @@ poczta - poste
 poczta elektroniczna - eletroposte (e-poste)  
 poczta, budynek poczty - postia  
 początek - shur  
-pod, poniżej; iść w dół, iść pod spód, iść na dno - nicha  
+pod, poniżej; iść w dół, iść pod spód, iść na dno - nichu  
 podarunek, dar, prezent - don  
 podatek, opłata - takse  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
@@ -2109,7 +2104,7 @@ popiół - huy
 popołudnie - shamden  
 poprawić, poprawiać, prostować, korygować - saha  
 poprawny (wykonalny) - funcubli  
-poprowadzić do (doprowadzić do, powodować) - rezulta  
+poprowadzić do (doprowadzić do, powodować) - asara  
 poprzedni - cheni  
 poprzednio (przedtem) - paso  
 poprzedzić, poprzedzać - chena  
@@ -2213,8 +2208,8 @@ problem, kłopot, zakłócenie - mafan
 problematyczny - problemi  
 proces, procedura - proces  
 proch strzelniczy - barude  
-produkcja - chania  
-produktywny (żyzny) - chanivi  
+produkcja - cania  
+produktywny (żyzny) - canivi  
 profesja, zajęcie, zawód - peykar  
 profesor - profesor  
 program - program  
@@ -2257,10 +2252,10 @@ przegrany, pokonany - shibayer
 przegrać, przegrywać - shibaya  
 przejazd, przewóz, tranzyt - transe  
 przejmować się (zawracać sobie głowę) - mafanu  
-przejść w poprzek - krusa  
+przejść w poprzek - krusu  
 przejść, przechodzić, przejechać, przejeżdżać - transa  
 przekleństwo (cholera!) - lan  
-przekroczyć, przekraczać, przejść nad, iść nad - supra  
+przekroczyć, przekraczać, przejść nad, iść nad - supru  
 przekąska - lilyam  
 przekątny - transogoni  
 przepołowić (podzielić przez dwa) - dulo fena  
@@ -2312,7 +2307,7 @@ przyrostek dla wykonawcy - er
 przystojny, atrakcyjny, ładny - rupoboni  
 przyszłość - wil  
 przysłówek - modologe  
-prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tirliw  
+prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tirdar  
 prędkościomierz - rapidometer  
 prędkość (szybkość) - rapidia  
 pręt, kij - baton  
@@ -2339,7 +2334,7 @@ pyszny - yami
 pytajny, związany z pytaniem - eskan  
 pytanie - eske  
 pył - fun  
-półka (regał na książki) - libobanze  
+półka (regał na książki) - liboban  
 północ - norde  
 północny - nordi  
 półwysep - yagones  
@@ -2414,7 +2409,7 @@ restauracja - restorante
 Reunion - Reunion  
 rezerwacja - rezerve  
 rezerwować (zarezerwować) - rezerva  
-rezult, wynik - rezulte  
+rezult, wynik - asar  
 robak - verme  
 robot - robote  
 rocznica - nenfeste  
@@ -2430,7 +2425,7 @@ roentgen - rentogenem
 rok - nen  
 rola - rol  
 rolnik, farmer - nonger  
-romantyczny - romansi  
+romantyczny - romanci  
 ropa naftowa - petronefte  
 rosa - ros  
 Rosja - Rusia  
@@ -2515,7 +2510,7 @@ róg - buge
 róg - korne  
 równik - zemparlinye  
 równina (plaskowyż, plateau) - platistan  
-równoległy (podłużny) - pargowi  
+równoległy (podłużny) - parlinyi  
 równy - pari  
 równy - parike  
 róża - roze  
@@ -2793,7 +2788,7 @@ szorstki - karsi
 szparag; szparagia - lusun  
 szron - himros  
 sztuczka (podstęp, oszustwo) - truke  
-sztuczny - chani  
+sztuczny - cani  
 sztuka - arte  
 sztuka walki - jengoshute  
 sztylet (puginał) - kanjar  
@@ -2847,7 +2842,7 @@ taksometr - taksometer
 taktyka, strategia - tatike  
 tal - talem  
 talerz - platotas  
-taleta, W####C - tual  
+taleta, W####C - tualete  
 tamilski - Tamil  
 tamten (tamten) - wi  
 tamten - we  
@@ -2922,7 +2917,7 @@ topnieć (upłynniać się) - yongu
 tor - torem  
 torba, wór, worek, torba, sakwa - sake  
 tost - rosti pang  
-towarzysz (partner, kumpel) - latoren  
+towarzysz (partner, kumpel) - latojan  
 transport - transeria  
 trawa - caw  
 trawa morska - hacaw  
@@ -2975,7 +2970,6 @@ Tybet - podia
 tydzień - seman  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suykaboge  
-tylko - mono  
 typ (rodzaj, gatunek) - tipe  
 tyran - tiran  
 tyrania - tirania  
@@ -3011,7 +3005,7 @@ ukwiał - hayful
 układ słoneczny - solsistem  
 ul (gniazdo pszczół lub os) - vesponizde  
 ul - melvesposanduke  
-uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
+uleczyć, leczyć, uzdrowić, uzdrawiać - medica  
 ulubiony - favori  
 umiejętność (kompetencja) - shute  
 umiejętny (sprawny, zręczny) - jangi  
@@ -3022,7 +3016,7 @@ umysłowy (psychiczny) - ruhi
 unia - unia  
 Unia Europejska (EU) - Europi Unia  
 uniwersytet - daydarsia  
-upadły - paduti  
+upadły - padi  
 uprawiać jogę - yoga  
 uprawić, uprawiać - nonga  
 uprzejmy - kechi  
@@ -3093,7 +3087,7 @@ wcześniej (uprzednio) - cheno
 wczoraj - chendeno  
 wdowa - vidove  
 według ruchu wskazówek zegara - soldisho  
-weganin (weganka) - monfityamiste  
+weganin (weganka) - purfityamiste  
 wegetarianin - fityamiste  
 wejście - jinmun  
 welon (woalka) - hijabe  
@@ -3235,7 +3229,7 @@ wydra - lontre
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurve  
 wygląd - rupe  
 wyglądać (wydawać się) - rupu  
-wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać - chuta  
+wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać - chutu  
 wyjśćie, opuszczenie - chute  
 wyklarować (rozjaśnić) - klara  
 wykopać, kopać, wydobyć, wydobywać, wykopywać - kava  
@@ -3243,7 +3237,8 @@ wymagać, przewidywać - sharta
 wymawiać (wymówić) - fona  
 wymieniać, wymienić, zamieniać, zamienić - badla  
 wymiotować (zwrócić) - retrogula  
-wynająć, oddać w najem - kirisa  
+wynająć, oddać w najem - kirdona  
+wynająć, oddać w najem - kirgeta  
 wynająć, wynajmować, zatrudnić, zatrudniać - kir  
 wynik (punktacja) - puntonombre  
 wyobrazić, wyobrażać, fantazjować - fantaza  
@@ -3454,7 +3449,7 @@ zoo (ogród zoologiczny) - hewanparke
 zostawić (zostawiać) - shante  
 zostać, zostawać - restu  
 zrobić (stworzyć, wykreować) - fata  
-zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - chana  
+zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - cana  
 zromanizować - latinkitaba  
 zsumować, sumować, dodać, dodawać - suma  
 zulu - Zulu  
@@ -3505,7 +3500,7 @@ zły, zrujnowany, zepsuty - harabi
 łza - okosuy  
 łódź, statek - bote  
 łóżko - bede  
-łączyć (złączyć) - liwunu  
+łączyć (złączyć) - darunu  
 łączyć, wiązać, złączyć - linka  
 łąka - cawistan  
 Święta Helena - Santi Helena  
@@ -3543,7 +3538,7 @@ zły, zrujnowany, zepsuty - harabi
 źródło, początek, pochodzenie - asle  
 źródłowy, początkowy, oryginalny - asli  
 żaba - krokroke  
-żad - yuke  
+żad - giuke  
 żal, smutek - duke  
 żart - joke  
 żartowniś, dowcipniś - joker  
@@ -3553,7 +3548,7 @@ zły, zrujnowany, zepsuty - harabi
 żel, galareta - jel  
 żelazo - fer  
 żeń-szeń - jenshen  
-żołnierz - gunren  
+żołnierz - gunjan  
 żołądź - balutopal  
 żwir - grave  
 życie - jive  
