@@ -236,7 +236,7 @@ chief, boss
 **danke.**
 = Thank you.  
 <big>🧓</big>
-**pliza yama kafe o chay.**
+**pliza yama kafe ya chay.**
 = Please have some coffee or tea.  
 <big>🧒</big>
 **me yama chay. danke.**
@@ -365,9 +365,9 @@ to eat or drink
 
 1. le yama chay.
 2. shef pliza le sida.
-3. pliza yama kafe o chay.
+3. pliza yama kafe ya chay.
 4. mame pliza me safa kamar.
-5. shef sida e yama kafe.
+5. shef sida wa yama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -379,7 +379,7 @@ Yes or no questions
 ### Dialog
 
 <big>👩‍🍳</big>
-**salam! wena te yama kafe o chay?**
+**salam! eska te yama kafe ya chay?**
 = Hello! Would you like to have coffee or tea?  
 <big>🧔</big>
 **chay.**
@@ -391,25 +391,25 @@ Yes or no questions
 **me no basha pandunia...**
 = I don't speak Pandunia...  
 <big>👩‍🍳</big>
-**pardon! wena le yama chay?**
+**pardon! eska le yama chay?**
 = Pardon! Will he have tea?  
 <big>🧔</big>
 **no. le no yama chay. le yama kafe.**
 = No, he won't. He would like to have coffee.  
 <big>👩‍🍳</big>
-**wena te yama supe?**
+**eska te yama supe?**
 = Would you like to have soup?  
 <big>🧔</big>
 **si, yama.**
 = Yes. (_I eat._)  
 <big>👩‍🍳</big>
-**wena le yama supe?**
+**eska le yama supe?**
 = Would he like to have soup?  
 <big>🧔</big>
 **no yama.**
 = No.  
 <big>👩‍🍳</big>
-**danke. me dona un chay e un kafe e un supe sa bade da desi minute.**
+**danke. me dona un chay wa un kafe wa un supe sa bade da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -417,13 +417,13 @@ Yes or no questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **pliza**, which you learned in the
-previous lesson. Question sentences are introduced with **wena** = to ask.
+previous lesson. Question sentences are introduced with **eska** = to ask.
 
-**me wena te yama chay.**
+**me eska te yama chay.**
 = I ask (do) you drink tea.  
-**wena te yama chay?**
+**eska te yama chay?**
 = Do you drink tea?  
-**wena yama chay?**
+**eska yama chay?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -431,20 +431,20 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**wena le yama chay?**
+**eska le yama chay?**
 = Does he or she drink tea?  
-**wena te yama supe?**
+**eska te yama supe?**
 = Do you eat soup?  
-**wena mome yama suy?**
+**eska mome yama suy?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-**wena shef yama kafe?**
+**eska shef yama kafe?**
 = Does the chief drink coffee?  
-**wena pape safa kamare?**
+**eska pape safa kamare?**
 = Does the father clean the room?  
-**wena niki basha pandunia?**
+**eska niki basha pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -452,29 +452,29 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **si** = yes, and **no** = no.
 
-– **wena te yama supe?**
+– **eska te yama supe?**
 = Do you eat soup?  
 – **si.**
 = Yes.  
-– **wena le yama supe?**
+– **eska le yama supe?**
 = Does she eat soup?  
 – **no.**
 = No.
 
 Also more complete answers can be given.
 
-– **wena te yama kafe?**
+– **eska te yama kafe?**
 = Do you drink coffee?  
 – **si. me yama kafe.**
 = Yes, I drink coffee.  
-– **wena le yama kafe?**
+– **eska le yama kafe?**
 = Does he drink coffee?  
 – **no. le no yama kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-– **wena te yama suy?**
+– **eska te yama suy?**
 = Do you drink water?  
 – **yama.**
 = (Yes, I) drink.
@@ -511,7 +511,7 @@ soup
 one (1)  
 **desi**
 ten  
-**wena**
+**eska**
 to ask a question  
 **si**
 yes
@@ -519,11 +519,11 @@ yes
 
 ### Answers to the Exercises
 
-1. wena te basha pandunia?
+1. eska te basha pandunia?
 2. si. me basha pandunia.
-3. wena mame yama kafe?
+3. eska mame yama kafe?
 4. no. le no yama kafe.
-5. wena le yama supe?
+5. eska le yama supe?
 6. (le) no yama.
 
 
@@ -599,7 +599,7 @@ is more than one correct answer.
 1. le no safa kamare.
 2. un kupe no kali.
 3. duli waf no yama supe.
-4. le no tena waf e maw. / le tena no waf e no maw.
+4. le no tena waf wa maw. / le tena no waf wa no maw.
 5. shef yama chay a no kafe.
 6. mame tena no waf a duli maw.
 
@@ -671,7 +671,7 @@ something, even when not answering to a question.
 3. ki zaman le laya?
 4. sa bade da desi minute.
 5. ke saba le no yama?
-6. sabu le no suku kafe o supe.
+6. sabu le no suku kafe ya supe.
 
 
 --------------------------------------------------------------------------------

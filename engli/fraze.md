@@ -329,7 +329,7 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ye e ve <small>this and that</small>
+### ye wa ve <small>this and that</small>
 
 **ye ke? / ke ye?**
 What's this?
@@ -493,7 +493,7 @@ Tip: Meaning of **yama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**me yama kafe e pang.**
+**me yama kafe wa pang.**
 I'm having coffee and bread.
 
 

@@ -210,16 +210,16 @@ This is done especially in commands and requests.
 
 ### Basic conjunctions
 
-1. **e** and (connects two similar words or phrases)
-2. **o** or (connects two alternative words or phrases)
+1. **wa** and (connects two similar words or phrases)
+2. **ya** or (connects two alternative words or phrases)
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku maw e vaf.**
+**me suku maw wa waf.**
 – I like cats and dogs.  
-**me suku maw o vaf.**
+**me suku maw ya waf.**
 – I like cats or dogs.  
-**me suku maw a no vaf.**
+**me suku maw a no waf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
