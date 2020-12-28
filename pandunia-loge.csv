@@ -286,7 +286,7 @@ Barbuda:|Barbuda|desh|||Barbuda||Barbuda||||||||||||||Barbuda|Barbuda
 bard:e|barde|||fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|beard|barbe|barba|barba|борода|||||||||||barbo|parta|broda
 bark:a|barka|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|congratulate (bless)|féliciter|felicitar|||||||||||||gratuli|onnitella (siunata)|gratulować; błogosławić
 bark:e!|barke!||||congratulations! (blessing)||¡Felicitaciones!||||||||||||||onneksi olkoon!|gratulacje!
-barkok:e|barkoke|frute||ara:(barqūq), pa:albaricoque, fra;abricot, rus:абрикос (abrikos), tgl:albarikoke|apricot|abricot|albaricoque|damasco (abricó)|абрикос||杏子||||ख़ूबानी|খুবানি|||kayısı (zerdali)|abrikoto|aprikoosi|morela
+barkok:e|barkoke|frute||ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke|apricot|abricot|albaricoque|damasco (abricó)|абрикос||杏子||||ख़ूबानी|খুবানি|||kayısı (zerdali)|abrikoto|aprikoosi|morela
 barsh:e|barshe|||hin:बारिश (bāriś), ben:বৃষ্টি (briśṭi), tur:baran|rain (precipitation)|pluie|lluvia|chuva|дождь|مطر‎|雨|雨|비|mưa|बारिश (वर्षा)|বৃষ্টি|hujan|mvua|yağmur (baran)|pluvo|sade|deszcz
 barsh:i|barshi||||rainy|pluvieux|lluvioso (pluvioso)|chuvoso (pluvioso)|дождливый||多雨||||बरसाती||||yağmurlu|pluva|sateinen|deszczowy
 barsh:u|barshu||||rain (pour down)||llover||дожди́ть|||雨が降る|||||||||sataa|padać (lać)
@@ -374,7 +374,7 @@ bismut:e|bismute|mate|Bi||bismuth||bismuto|||||||||||||bismuto|vismutti|bizmut
 biw:|biw|||eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)|organism (organic life)|organisme|vida orgánica|organismo|организм||生物|生物|생물|sinh vật|जीव||organisme||organizma|organismo|orgaaninen elämä|życie organiczne
 biw:i|biwi||||organic||orgánico||органический|||||||||||orgaaninen (biologinen)|elävä (orgaaninen)|organiczny
 biw:i jins.e|biwi jinse||||biological sex||sexo||биологический пол||生物性別|生物学の性|||||||||biologinen sukupuoli|płeć biologiczna
-biw.chan.iv.er:|biwchaniver||||compost|compost|abono orgánico (compost)||компост|||堆肥||||||||||kompost
+biw.can.iv.er:|biwcaniver||||compost|compost|abono orgánico (compost)||компост|||堆肥||||||||||kompost
 biw.loj:ia|biwlojia||||biology (study of organic life)|biologie|biología|biología|биология||生物学|生物学|생물학|sinh vật học|जीवविज्ञान|জীববিজ্ঞান|biologi (ilmu hayat)|biolojia|biyoloji|biologio|biologia|biologia (nauka o życiu)
 biw.mut:i|biwmuti||||fermented|||||||||||||||||sfermentowany
 biw.mut:u|biwmutu||||ferment (leaven)|fermenter|fermentar|fermentar|заквасить||发酵|熟成する (発酵する)||||||||||fermentować
@@ -458,6 +458,13 @@ buton.ban:|butonban||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klaw
 buy:|buy|biw||swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu|baobab||baobab|||||||||||||baobabo|apinanleipäpuu (baobab)|baobab
 buz:e|buze|||swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
 C|C||||C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C
+can:a|cana|||ara:(ṣanaʿa), tur:sanat + zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-)|produce (create, make)||producir (hacer, preparar)|||||||||||||produkti (fabriki)|tehdä (valmistaa)|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
+can:i|cani||||artificial||artificial (sintético)||||||||||||||keinotekoinen (teko-, keino-)|sztuczny
+can:ia|cania||||production||producción||||||||||||||tuotanto|produkcja
+can.bash:|canbash||||artificial language (conlang)||idioma artificial (lengua construida, conlang)|||||||||||||artefarita lingvo|keinotekoinen kieli (tekokieli, keinokieli)|język sztuczny
+can.iv:a|caniva||||fertilize|||||||||||||||||nawozić (nawieźć)
+can.iv:i|canivi||||productive (fertile)||||||||||||||||tuottava (tuottelias)|produktywny (żyzny)
+can.iv.er:|caniver||||fertilizer|||||||||||||||||nawóz
 caw:|caw|biw||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
 caw.istan:|cawistan||||grassland||pradera (pastizal)|||||草地|||||||||niitty|łąka
 cel:|cel|||may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|cell (biology)||célula|||||||||||||ĉelo|solu|komórka (biologia)
@@ -481,13 +488,6 @@ chak:e|chake|||hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (
 chakr:e|chakre|||hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram|wheel|roue|rueda (volante)|roda|колесо|عجلة‎|轮子|車輪|바퀴 (차륜)|bánh xe|चक्र|চাকা|roda (setir, cakera)|gurudumu|tekerlek (çark)|rado|ratas|koło
 chamach:e|chamache|||fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|spoon|cuiller|cuchara|colher|ложка||匙子|スプーン|숟가락 (스푼)||चम्मच|চামচ||||kulero|lusikka|łyżka
 champion:|champion|||eng:fra:champion, spa:campeón, por:campeão, rus:чемпион (chempion), tur:şampiyon, jpn:チャンピオン (chanpeon), kor:챔피언 (chaempieon)|champion||campeón|||||||||||||ĉampiono|mestari (voittaja)|czempion
-chan:a|chana|||zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-), hak:產 (sán), ara:(ṣanaʿa), tur:sanat|produce (create, make)||producir (hacer, preparar)|||||||||||||produkti (fabriki)|tehdä (valmistaa)|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
-chan:i|chani||||artificial||artificial (sintético)||||||||||||||keinotekoinen (teko-, keino-)|sztuczny
-chan:ia|chania||||production||producción||||||||||||||tuotanto|produkcja
-chan.bash:|chanbash||||artificial language (conlang)||idioma artificial (lengua construida, conlang)|||||||||||||artefarita lingvo|keinotekoinen kieli (tekokieli, keinokieli)|język sztuczny
-chan.iv:a|chaniva||||fertilize|||||||||||||||||nawozić (nawieźć)
-chan.iv:i|chanivi||||productive (fertile)||||||||||||||||tuottava (tuottelias)|produktywny (żyzny)
-chan.iv.er:|chaniver||||fertilizer|||||||||||||||||nawóz
 chans:e|chanse|||fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|opportunity (chance)|chance|oportunidad (chance)|chance|возможность (шанс)||||||||||fırsat (şans)|ŝanco|mahdollisuus (tilaisuus)|szansa
 chant:a|chanta||||sing||cantar|||||||||||||kanti|laulaa|śpiewać
 chant:e|chante|||fra:chanter, eng:chant, por:spa:cantar, + zho:唱 (chàng), kor:창 (chang)|song||canción|||||||||||||kanto|laulu|piosenka, pieśń
@@ -514,7 +514,7 @@ chen.den:o|chendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日
 chen.fiks:e|chenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
 chen.vid:a|chenvida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 chen.vid:i|chenvidi||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
-cheriz:e|cherize|frute||eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben;চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|cherry|cerise|cereza|cereja|черешня||||||गिलास|চেরি|||||kirsikka|wiśnia (czereśnia)
+cheriz:e|cherize|frute||eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|cherry|cerise|cereza|cereja|черешня||||||गिलास|চেরি|||||kirsikka|wiśnia (czereśnia)
 Chernagora:|Chernagora|desh|ME||Montenegro||Montenegro||||||||||||||Montenegro|Czarnogóra
 Chil:e|Chile|desh|CL||Chile||Chile|||||||||||||Ĉilio|Chile|Chile
 chili:|chili*|||eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|pepper (capsicum)|piment|chile|cápsico|перец (паприка)||菜椒||||मिर्च||lada (cili)||||paprika|papryka
@@ -695,6 +695,7 @@ dom:|dom|||rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique,
 dom:a|doma||||live in (reside in, inhabit)|vivre (habiter)|vivir (residir)|||||住む (居住する)||||||||loĝi|asua|mieszkać
 dom:i|domi||||domestic (tame)|domestique|doméstico (domesticado)|doméstico|домашний|||||||||||hejma|koti-|domowy
 dom.is:a|domisa||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
+dom.zez:e|domzeze|biw|Musca domestica||housefly|mouche|mosco||муха|||||||||||muŝo|kärpänen|mucha
 domin.o.gem:|dominogem|||eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|dominoes||dominó||||||||||||||dominopeli|domino
 Dominika:|Dominika|desh|DM||Dominica||Dominica||||||||||||||Dominika|Dominika (Wspólnota Dominiki)
 Dominikana:|Dominikana|desh|DO||Dominican Republic||Republica Dominicana||||||||||||||Dominikaaninen Tasavalta|Republika Dominikańska (Dominikana)
@@ -783,7 +784,7 @@ eletr.o.post:e (e-post:e)|eletroposte (e-poste)||||e-mail||email (correo electr�
 eletr.o.rad:e|eletrorade||||lightning bolt||relámpago||молния||闪电|雷 (稲妻)|||||||||salama|piorun (grom)
 eletr.on:|eletron||||electron||electrón|||||||||||||elektrono|elektroni|elektron
 em:|em|||eng:-eme, spa:por:-ema, fra:-ème, rus:-ема (-ema), may:-em|element (the simplest unit)|élément (unité fondamentale)|elemento (unidad fundamental)|elemento|элемент||||||तत्व||||element|elemento (ero)|elementti (yksinkertaisin yksikkö)|pierwiastek (jednostki podstawowej)
-emoc:e|emoce|||eng;emotion, fra:émotion, spa:emoción, por;emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|emotion (feeling)|émotion|afecto (emoción)|emoçao|эмоция (чувство)||||||||emosi|||emocio|tunne (mielenliikutus)|emocja, uczucie
+emoc:e|emoce|||eng:emotion, fra:émotion, spa:emoción, por:emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|emotion (feeling)|émotion|afecto (emoción)|emoçao|эмоция (чувство)||||||||emosi|||emocio|tunne (mielenliikutus)|emocja, uczucie
 emoc:i|emoci||||emotional (emotive)||emotivo||эмоциональный|||||||||||emocia|tunteellinen (tunne-)|emocjonalny (uczuciowy)
 emoc:u|emocu||||feel||sentir|||||||||||||emocii|tuntea (kokea tunteita)|czuć, odczuć, odczuwać
 emoc.o.hal:|emocohal||||mood (emotional state)|humeur|humor|humor|настроение||心情|||||||||animstato|tunnetila (tuuli)|humor (nastrój)
@@ -1626,10 +1627,10 @@ kenari|kenari||||peripheral||periférico||||||||||||||reuna-|peryferyjny
 Kenya|Kenya|desh|KE||Kenya||Kenia||||||||||||||Kenia|Kenia
 kern:e|kerne|||eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|core (nucleus, kernel)|coeur|corazón (núcleo)|núcleo (cerne)|||核心|核||||||||kerno (koro)|ydin (sydän)|rdzeń (jądro, pestka)
 kern:i arm:e|kerni arme||||nuclear weapon (nuke)||arma nuclear|||||||||||||kernarmilo|ydinase|broń nuklearna
+kern:i dar.un:ia|kerni darunia||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
 kern:i energ:e|kerni energe||||nuclear energy||energía nuclear|||||||||||||kernenergio|ydinenergia|energia nuklearna
 kern:i fen:ia|kerni fenia||||nuclear fission||fisión nuclear||||||||||||||ydinfissio|rozszczepienie jądra atomowego
 kern:i fizik:ia|kerni fizikia||||nuclear physics||física nuclear|||||||||||||kernfiziko|ydinfysiikka|fizyka nuklearna
-kern:i dar.un:ia|kerni darunia||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
 kerub:e|kerube|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
 kesh:|kesh|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
 kesh.o.bend:e|keshobende||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
@@ -1716,8 +1717,8 @@ kon:i|koni||||common (mutual)|||||||||||||||kuna|yhteinen|wspólny (wzajemny)
 kon:o|kono|||zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-), eng:fra:spa:por:con-|together (jointly, mutually)||juntos||||共同 (一起)|一緒に||||||pamoja|birlikte|kune|yhdessä|razem (wspólnie)
 kon.bash:|konbash||||common language|||||||||||||||komuna lingvo|yhteiskieli|wspólny język
 kon.bon:i|konboni||||match (fit, suit, go well together)||emparejar (quedar)|combinar com|соответствовать (сочетаться)||相配|合わせる (適する)||||||||kongrui|sopia|pasować
-kon.chan.ist:e|konchaniste||||communist||comunista|||||||||||||komunisto|kommunisti|komunista
-kon.chan.ist:ia|konchanistia||||communism||comunismo|||||||||||||komunismo|kommunismi|komunizm
+kon.can.ist:e|koncaniste||||communist||comunista|||||||||||||komunisto|kommunisti|komunista
+kon.can.ist:ia|koncanistia||||communism||comunismo|||||||||||||komunismo|kommunismi|komunizm
 kon.form:u|konformu||||conform (fit, mold)||amoldarse||применяться (согласоваться)|||即する||||||||||
 kon.func.ubl:i|konfuncubli||||compatible (supported)||compatible|||||||||||||||kompatybilny (pasujący)
 kon.kar:a|konkara||||collaborate (work together)|collaborer|colaborar|colaborar|сотрудничать (кооперировать)||合作|共同して働|공동으로 일하다||||kerjasama|||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
@@ -1833,6 +1834,8 @@ kushloke|kushloke|||fra:eng:couchette, ita:cuccetta, pol:kuszetka|berth (couchet
 kushu|kushu||||lie (lie down)|être couché|acostarse (echarse, tenderse, tumbarse)|estar deitado (jazer)|лежать||躺|寝転ぶ|놓이다|nằm|लेटना (पड़ना)|||kulala||kuŝi|maata (makoilla)|leżeć
 Kuwaitia|Kuwaitia|desh|KW||Kuwait||Kuwait||||||||||||||Kuwait|Kuwejt
 L|L||||L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L
+l:e|le||||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
+l.o.l:e|lole||||they||ellos o ellas||||他们|||||||||ili|he|oni
 labe|labe|||fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|lip||labio|||||||||||||lipo|huuli|warga
 lada|lada|||eng:load, deu:laden, pol:ładować|load (to charge)||cargar||||||||||||||ladata|naładować, załadować, obładować, ładować
 lage|lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
@@ -1882,108 +1885,107 @@ laya|laya||||bring (move toward)|apporter|traer|trazer|приносить||带�
 layu|layu|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (go toward)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
 lazanye|lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|lazania
 lazuar|lazuar|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит||青金岩|ラピスラズリ (瑠璃)||||||||||lapis lazuli
-le|le||||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
-lefte|lefte|||eng:left|left||lado izquerdo|esquerdo|левый||左|左|||बायीं||kiri|kushoto|sol||vasen|lewa strona
-lefti|lefti||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej strony)
-leftiste|leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
-legi|legi|||eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|light (weightless)|léger|ligero|||||||||||||||lekki
-legos|legos||||Lagos|||||||||||||||||Lagos
-lekino|lekino|||ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|however||sin embargo|||||||||||||tamen|kuitenkin|jakkolwiek (jednak)
+left:e|lefte|||eng:left|left||lado izquerdo|esquerdo|левый||左|左|||बायीं||kiri|kushoto|sol||vasen|lewa strona
+left:i|lefti||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej strony)
+left.ist:e|leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
+leg:i|legi|||eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|light (weightless)|léger|ligero|||||||||||||||lekki
+Legos:|Legos||||Lagos|||||||||||||||||Lagos
+lekin:o|lekino|||ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|however||sin embargo|||||||||||||tamen|kuitenkin|jakkolwiek (jednak)
 leng:i|lengi|||zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)|cold||frío||||冷たい (寒い)|||||||||malvarma|kylmä|zimny, chłodny
 leng.o.mosim:|lengomosim||||winter|hiver|invierno|inverno|зима||冬天||||सर्दी (जाड़ा,  शिशिर)||musim dingin||kış|vintro|talvi|zima
 leng.o.mosim:i|lengomosimi||||wintry|hivernal (hibernal)|invernal|invernal (hibernal)|зимний|||||||||||vintra|talvinen|zimowy
 lens:e|lense|||eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|lens|lentille|lente|lente|линза|عَدَسَة‎|透镜|レンズ|렌즈|thấu kính|लेंस|লেন্স|lensa (kanta)||mercek (adese, lens)||linssi|soczewka
-lensha|lensha||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
-lenshe|lenshe|||zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|exercise||ensayo (ejercitio)|||||||||||||ekzerco|harjoitus|ćwiczenie
-lenti|lenti|||fra:lent, spa:por:lento|slow (lethargic)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas|powolny (wolny, letargiczny)
-letis|letis|||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce|laitue|lechuga|alface|салат-латук||莴苣|レタス|||लेटिष|লেটুস||||laktuko|lehtisalaatti|sałata
+lensh:a|lensha||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
+lensh:e|lenshe|||zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|exercise||ensayo (ejercitio)|||||||||||||ekzerco|harjoitus|ćwiczenie
+lent:i|lenti|||fra:lent, spa:por:lento|slow (lethargic)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas|powolny (wolny, letargiczny)
+letis:|letis|||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce|laitue|lechuga|alface|салат-латук||莴苣|レタス|||लेटिष|লেটুস||||laktuko|lehtisalaatti|sałata
 lewo|lewo|||tha:แล้ว (lɛːw), zho:了 (le), wuu:了 (lə'), hak:了 (le), yue:了 (liu)|already (completed action)||ya (acción completado)|||||||||||||jam (esti farita)|jo (tehty teko)|już (skończona czynność)
-leze|leze|||zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|pear||pera||||梨|||||||||piro|päärynä|gruszka
-liama*|liama*|biw||eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|llama|lama|llama|lhama|лама||大羊駝|ラマ||||||||||lama
-liba|liba||||erect||erigir (montar, armar)||||||||||||||nostaa pystyyn|postawić (stawiać)
-Libanon|Libanon|desh|LB||Lebanon||Líbano||||||||||||||Libanon|Liban
-libel|libel|||spa:por:libélula, fra:libellule, deu:Libelle|dragonfly|libellule|libélula|libélula|стрекоза||蜻蜓|蜻蛉|잠자리||व्याध पतंग|ফড়িং|capung||yusufçuk|libelo|sudenkorento|ważka
-Liberia|Liberia|desh|LR||Liberia||Liberia||||||||||||||Liberia|Liberia
-libi|libi||||erect (standing)||erguido||||||||||||||pysty (seisova)|postawiony (stojący)
-Libia|Libia|desh|LY||Libya||Libia||||||||||||||Libya|Libia
-libobanze|libobanze||||shelf (bookshelf)|étagère|estante (repisa)|prateleira (estante)|полка||架子 (搁板)|棚||||||||||półka (regał na książki)
-libobaze|libobaze||||stand (rack)||soporte (perchero, atril)||||架子|台||||||||||stojak (wieszak)
-libu|libu|||zho:立 (lì), yue:(lip), vie:lập, kor:립 (rib)|stand||estar de pie|||||立つ|||||||||seistä (seisoa)|stać
-lichi*|lichi*|||zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|lychee (litchi)||lichi||||||||||||||litši|liczi
-lida|lida||||lead (direct)||dirigir (mandar, conducir, capitanear)||||||||||||||johtaa|prowadzić, dowodzić, kierować
-lider|lider|||eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|leader (director)|dirigeant (leader)|dirigente (líder)|líder (chefe)|руководитель (лидер)||领导||||||||||johtaja (pomo)|dowódca, kierownik
-lidokorde|lidokorde||||leash (rein)||correa (rein)|||||リード (手綱)||||||||||smycz (cugiel, lejc, wodza)
-Lietuva|Lietuva|desh|LT||Lithuania||Lituania||||||||||||||Liettua|Litwa
-lietuvi|lietuvi||||Lithuanian||lituano||||||||||||||liettualainen|litewski
-lifaf|lifaf|||ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|wrapping (envelope, covering)||envoltura||||||||||||||kääre (kuori)|owinięcie (koperta, okładka)
-lifafa|lifafa||||wrap|envelopper (emballer)|envolver|embalar|||||||||||||kääriä (panna kääröön)|zawijać (zawinąć)
-liga|liga||||associate||asociar|||||||||||||aligi|liittää|stowarzyszać się (zrzeszać się)
-lige|lige|||fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|league (association)||liga (asociación, federación)||||||||||||||liitto (liittouma, liiga)|liga (stowarzyszenie)
+lez:e|leze|||zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|pear||pera||||梨|||||||||piro|päärynä|gruszka
+liama:|liama*|biw||eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|llama|lama|llama|lhama|лама||大羊駝|ラマ||||||||||lama
+lib:a|liba||||erect||erigir (montar, armar)||||||||||||||nostaa pystyyn|postawić (stawiać)
+lib:i|libi||||erect (standing)||erguido||||||||||||||pysty (seisova)|postawiony (stojący)
+Lib:ia|Libia|desh|LY||Libya||Libia||||||||||||||Libya|Libia
+lib:u|libu|||zho:立 (lì), yue:(lip), vie:lập, kor:립 (rib)|stand||estar de pie|||||立つ|||||||||seistä (seisoa)|stać
+lib.o.ban:|liboban||||shelf (bookshelf)|étagère|estante (repisa)|prateleira (estante)|полка||架子 (搁板)|棚||||||||||półka (regał na książki)
+lib.o.baz:e|libobaze||||stand (rack)||soporte (perchero, atril)||||架子|台||||||||||stojak (wieszak)
+Libanon:|Libanon|desh|LB||Lebanon||Líbano||||||||||||||Libanon|Liban
+libel:|libel|||spa:por:libélula, fra:libellule, deu:Libelle|dragonfly|libellule|libélula|libélula|стрекоза||蜻蜓|蜻蛉|잠자리||व्याध पतंग|ফড়িং|capung||yusufçuk|libelo|sudenkorento|ważka
+Liber:ia|Liberia|desh|LR||Liberia||Liberia||||||||||||||Liberia|Liberia
+lich:e|liche|||zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|lychee (litchi)||lichi||||||||||||||litši|liczi
+lid:a|lida||||lead (direct)||dirigir (mandar, conducir, capitanear)||||||||||||||johtaa|prowadzić, dowodzić, kierować
+lid.er:|lider|||eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|leader (director)|dirigeant (leader)|dirigente (líder)|líder (chefe)|руководитель (лидер)||领导||||||||||johtaja (pomo)|dowódca, kierownik
+lid.o.kord:e|lidokorde||||leash (rein)||correa (rein)|||||リード (手綱)||||||||||smycz (cugiel, lejc, wodza)
+lietuv:i|lietuvi||||Lithuanian||lituano||||||||||||||liettualainen|litewski
+Lietuv:ia|Lietuvia|desh|LT||Lithuania||Lituania||||||||||||||Liettua|Litwa
+lifaf:|lifaf|||ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|wrapping (envelope, covering)||envoltura||||||||||||||kääre (kuori)|owinięcie (koperta, okładka)
+lifaf:a|lifafa||||wrap|envelopper (emballer)|envolver|embalar|||||||||||||kääriä (panna kääröön)|zawijać (zawinąć)
+lig:a|liga||||associate||asociar|||||||||||||aligi|liittää|stowarzyszać się (zrzeszać się)
+lig:e|lige|||fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|league (association)||liga (asociación, federación)||||||||||||||liitto (liittouma, liiga)|liga (stowarzyszenie)
 Lihtenshtain|Lihtenshtain|desh|LI||Liechtenstein||Liechtenstein||||||||||||||Liechtenstein|Liechtenstein
-lil (lili)|lil (lili)|||eng:little|little (small; a little, somewhat)|petit|pequeño|pequeno|маленький (малый)||小|小さい|작은|nhỏ|छोटा||||küçük|malgranda|pieni (pienesti, vähän)|mały; mało, trochę, nieco
+lil:i|lili|||eng:little|little (small; a little, somewhat)|petit|pequeño|pequeno|маленький (малый)||小|小さい|작은|nhỏ|छोटा||||küçük|malgranda|pieni (pienesti, vähän)|mały; mało, trochę, nieco
+lil:shek:e|lilsheke||||pebble (gravel)|caillou||pedrinha|галька||砾石|小石|자갈||||||çakıl|ŝtoneto|sorakivi|kamyk
+lil.bol:|lilbol||||bubble||burbuja (pompa)|||||||||||||bobelo|kupla|bańka
+lil.kabog:e|lilkaboge|biw|Cucurbita pepo||zucchini|courgette|calabacín|abobrinha|цукини||西葫芦|ズッキーニ||||||||||cukinia
 lil.sit:e|lilsite||||small town|||||||||||||||urbeto|pikkukaupunki|
-lilake|lilake|biw|Syringa vulgaris|tur:leylak, ara:(laylak), eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku)|lilac||lila||||||||||||||syreeni|lilak
-lilaki|lilaki|rang|||lilac color||lila (de color lila)||||||||||||||violetti (liila)|liliowy
-lilbol|lilbol||||bubble||burbuja (pompa)|||||||||||||bobelo|kupla|bańka
-lilkaboge|lilkaboge|biw|Cucurbita pepo||zucchini|courgette|calabacín|abobrinha|цукини||西葫芦|ズッキーニ||||||||||cukinia
-lilsheke|lilsheke||||pebble (gravel)|caillou||pedrinha|галька||砾石|小石|자갈||||||çakıl|ŝtoneto|sorakivi|kamyk
-lilyam|lilyam||||snack||tentempié||||||||||||||välipala (naposteltava)|przekąska
-limfas|limfas||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
-limgon|limgon||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
-limi|limi|||may:tgl:lima, mlg:dimy|five (5)|cinq (5)|cinco (5)|cinco (5)|пять (5)||五 (5)|五 (5)||||||||kvin (5)|viisi (5)|pięć (5)
-limite|limite|||eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|limit (boundary)||límite (frontera, linde)||||||||||||||raja|limit, granica
-limiti|limiti||||finite (limited)|||||||||||||||||skończony (ograniczony)
-limomes|limomes|mese|||May||mayo|||||５月|||||||||toukokuu|sierpień
-limon|limon|biw|Citrus limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon|citron|limón|limão|лимон||柠檬|レモン|||नींबू||jeruk lemon (limau)||limon|citrono|sitruuna|cytryna
+lil.yam:|lilyam||||snack||tentempié||||||||||||||välipala (naposteltava)|przekąska
+lilak:e|lilake|biw|Syringa vulgaris|tur:leylak, ara:(laylak), eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku)|lilac||lila||||||||||||||syreeni|lilak
+lilak:i|lilaki|rang|||lilac color||lila (de color lila)||||||||||||||violetti (liila)|liliowy
+lim:i|limi|||may:tgl:lima, mlg:dimy|five (5)|cinq (5)|cinco (5)|cinco (5)|пять (5)||五 (5)|五 (5)||||||||kvin (5)|viisi (5)|pięć (5)
+lim.fas:|limfas||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
+lim.gon:|limgon||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
+lim.o.mes:|limomes|mese|||May||mayo|||||５月|||||||||toukokuu|sierpień
+limit:e|limite|||eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|limit (boundary)||límite (frontera, linde)||||||||||||||raja|limit, granica
+limit:i|limiti||||finite (limited)|||||||||||||||||skończony (ograniczony)
+limon:|limon|biw|Citrus limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon|citron|limón|limão|лимон||柠檬|レモン|||नींबू||jeruk lemon (limau)||limon|citrono|sitruuna|cytryna
 limon.ik:e|limonike|biw|Citrus||citrus fruit||cítrico||цитрус||柑橘|柑橘|||||jeruk (limau)||turunçgil (sitrus)|||
-limonlugi|limonlugi||||lime green||verde limón|||||||||||||||limonkowy (limonkowo zielony)
-limonrangi|limonrangi|rang|||yellow||amarillo|||||||||||||flava|keltainen|żółty
-lince|lince|biw|Lynx|eng:fra:lynx, spa:por:lince, hin:लिंक्स (links)|lynx|lynx|lince|lince|рысь||猞猁 (山貓)|大山猫|||लिंक्स||||vaşak|linko|ilves|ryś
-linfe|linfe|||eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|lymph||linfa||||||||||||||lymfa|limfa
+limon.lug:i|limonlugi||||lime green||verde limón|||||||||||||||limonkowy (limonkowo zielony)
+limon.rang:i|limonrangi|rang|||yellow||amarillo|||||||||||||flava|keltainen|żółty
+linc:e|lince|biw|Lynx|eng:fra:lynx, spa:por:lince, hin:लिंक्स (links)|lynx|lynx|lince|lince|рысь||猞猁 (山貓)|大山猫|||लिंक्स||||vaşak|linko|ilves|ryś
+linf:e|linfe|||eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|lymph||linfa||||||||||||||lymfa|limfa
 link:a|linka||||connect (join, link)||conectar (empalmar, enlazar, vincular)|relier (connecter)|соединить (подключить)||连接|繋ぐ|||जोड़ना (jodana)||menyambung (berangkai)|kuungana|bağlamak||yhdistää|łączyć, wiązać, złączyć
 link:e|linke|||eng:link, fra:lien, deu:Link, fas:لینک • (link), jpn:リンク (rinku) + zho:連結 (liánjié), yue:連結 (lin4 git3), hak:連結 (lièn-kiet), vie:liên kết|joint (link)|lien|juntura (conexión, enlace)|conexão (vínculo, laço)|связь (ссылка)||联系|繋がり (リンク)|||संयुक्त|সংযোগ|||bağ||yhdistys (sidos)|połączenie, złącze, styk
-linye|linye|||eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|line (stripe)|ligne|raya (linea)|linha|линия|||||||||||lineo|viiva (linja)|linia, pas, pręga, smuga
-linyoparche|linyoparche||||line break (newline)||nueva línea||||||||||||||rivinvaihto|złamanie lini
-lisan|lisan|||ara:(lisān), amh:ልሳን (ləsan), may:tur:lisan, hin:लिसान (lisān),|tongue|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|język
-lisi|lisi|||fra:lisse, spa:por:liso, fas:(liz), may:licin|smooth||suave (liso)|||||||||||||glata|sileä|gładki
-liste|liste|||eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|list (listing, catalogue)|liste|lista|lista|список||单子||||लिस्ट|||||listo|lista (luettelo)|lista, spis, wykaz
-litem|litem|mate|Li||lithium||litio|||||||||||||litio|litium|lit
-litre|litre|||eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|litre (liter)|litre|litro|litro|литр|لتر‎|升|リットル|리터|lít|लीटर|লিটার|liter|lita|litre|litro|litra|litr
-livermorem|livermorem|mate|Lv||livermorium||livermorio||||||||||||||livermorium|liwermor
-lobake|lobake|biw|Raphanus raphanistrum|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|radish||rábano|||||||||||||rafaneto|retikka (retiisi)|rzodkiewka
-loga|loga||||say (speak)|parler|decir (hablar)|falar|говорить|تَكَلَّمَ|说话 (讲)|話す|말하다||बोलना|বলা|berbicara|kuongea||paroli|sanoa (puhua)|mówić, rozmawiać
-logaslia|logaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
-loge|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|word (speech)|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto (parolo)|sana (puhe)|słowo (mowa)
-logem|logem||||lexeme||lexema||||||||||||||lekseemi|leksem
-logi|logi||||lexical|lexical|léxico|léxico|лексический||||||||||||sanallinen|słowny (leksykalny)
-logia|logia||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
+liny:e|linye|||eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|line (stripe)|ligne|raya (linea)|linha|линия|||||||||||lineo|viiva (linja)|linia, pas, pręga, smuga
+liny.o.parch:e|linyoparche||||line break (newline)||nueva línea||||||||||||||rivinvaihto|złamanie lini
+lis:i|lisi|||fra:lisse, spa:por:liso, fas:(liz), may:licin|smooth||suave (liso)|||||||||||||glata|sileä|gładki
+lisan:|lisan|||ara:(lisān), amh:ልሳን (ləsan), may:tur:lisan, hin:लिसान (lisān),|tongue|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|język
+list:e|liste|||eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|list (listing, catalogue)|liste|lista|lista|список||单子||||लिस्ट|||||listo|lista (luettelo)|lista, spis, wykaz
+lit.em:|litem|mate|Li||lithium||litio|||||||||||||litio|litium|lit
+litr:e|litre|||eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|litre (liter)|litre|litro|litro|литр|لتر‎|升|リットル|리터|lít|लीटर|লিটার|liter|lita|litre|litro|litra|litr
+livermor.em:|livermorem|mate|Lv||livermorium||livermorio||||||||||||||livermorium|liwermor
+lobak:e|lobake|biw|Raphanus raphanistrum|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|radish||rábano|||||||||||||rafaneto|retikka (retiisi)|rzodkiewka
+log:a|loga||||say (speak)|parler|decir (hablar)|falar|говорить|تَكَلَّمَ|说话 (讲)|話す|말하다||बोलना|বলা|berbicara|kuongea||paroli|sanoa (puhua)|mówić, rozmawiać
+log:a|loja||||research (to study)||estudiar (investigar)||||||||||||||tutkia (opiskella)|badać, studiować
+log:e|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|word (speech)|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto (parolo)|sana (puhe)|słowo (mowa)
+log:i|logi||||lexical|lexical|léxico|léxico|лексический||||||||||||sanallinen|słowny (leksykalny)
+log:ia|logia||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
+log.asl:ia|logaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
+log.em:|logem||||lexeme||lexema||||||||||||||lekseemi|leksem
+log.iron:ia|logironia||||verbal irony (sarcasm)|||||||||||||||||sarkazm
+log.iv:i|logivi||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
+log.o.fil:ia|logofilia||||logophilia||||||||||||||||logofilia|
+log.o.fil.er:|logofiler||||logophile (word buff)||||||||||||||||logofiili|logofil (miłośnik słów)
+log.o.list:e|logoliste||||dictionary (word list)||disionario (lexicón)|||||||||||||vortaro|sanaluettelo|lista słów
 logike|logike|||eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)|logic (deduction)||lógica|||||||||||||logiko|logiikka|logika, dedukcja
 logiki|logiki||||logical||logical|||||||||||||logika|looginen|logiczny
-logironia|logironia||||verbal irony (sarcasm)|||||||||||||||||sarkazm
-logivi|logivi||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
-logofiler|logofiler||||logophile (word buff)||||||||||||||||logofiili|logofil (miłośnik słów)
-logoliste|logoliste||||dictionary (word list)||disionario (lexicón)|||||||||||||vortaro|sanaluettelo|lista słów
-loja|loja||||research (to study)||estudiar (investigar)||||||||||||||tutkia (opiskella)|badać, studiować
-lojia|lojia|||eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji|science (study, research)||ciencia (estudia, investigación)|||||||||||||scienco|tiede (tutkimus)|nauka, badanie, studiowanie
-loka|loka||||put (place, set)|mettre (placer)|colocar (poner, ubicar)|colocar (pôr)|ставить||放置|||||||||lokigi|panna (asettaa, sijoittaa)|umieścić (postawić)
-loke|loke|||eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|place (location)|lieu|lugar|lugar (local)|место|مَكَان|地方|場所|장소||जगह (मकान)|জায়গা|tempat|pahali||loko|paikka (sija, sijainti)|miejsce, lokacja
-loki|loki||||local|local|local|local||||||||||||loka|paikallinen|miejscowy, lokalny
-loku|loku||||be located (lie, be situated)||encontrarse (estar, situarse)||||||||||||||sijaita|być umiejscowionym (być ulokowanym, stać)
-lole|lole||||they||ellos o ellas||||他们|||||||||ili|he|oni
-lon|lon|||zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||debatir (discutir)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
-lona|lona||||debate (discuss)||discusión (debate, discurso)||||||||||||||keskustelu (debatti)|debatować, prowadzić dyskurs
-lona biznes|lona biznes||||negotiate (arrange)||negociar|||||話し合う (話を付ける)||||||||||negocjować
-london|london||||London|||||||||||||||||Londyn
-longa|longa||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
-longi|longi|||eng:fra:long, deu:lang, por:longo|long (lengthy)|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)||panjang|uzun|longa|pitkä|długi
-longia|longia||||length||largo (longitud)||||||||||||||pituus|długość
-longo|longo||||long (over a gread distance)|loin|lejos||далеко||||||||||||pitkästi (kauas)|
-longoduri|longoduri||||long (long-lasting, prolonged)|prolongé|perdurable (longevo, prolongado)|prolongado|долгий (длительный)||||||||||||pitkäaikainen (pitkäkestoinen)|
-longoduro|longoduro||||for a long time|longtemps||por muito tempo|долго||久||||||||||kauan (pitkän aikaa)|
-longokrokodil|longokrokodil|biw|Crocodylidae||crocodile|crocodile|cocodrilo|crocodilo||||クロコダイル||||||||||krokodyl
-longopipre|longopipre|biw|Piper longum||long pepper (pipli)|poivre long|||перец длинный||荜拔|畢撥|필발||पिप्पली|পিঁপুল|||||pitkäpippuri|pieprz długi
-lontre|lontre|biw|Lutrinae|spa:tgl:lutrino, fra:loutre, por:lontra, ita:lontra|otter|loutre|nutria|lontra|выдра||獭|獺||||||||||wydra
-lote|lote|||por:spa:lote, eng:fra:lot|batch (lot)||lote (grupo)||||||||||||||erä (satsi)|wsad, partia, porcja, seria
+loj:ia|lojia|||eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji|science (study, research)||ciencia (estudia, investigación)|||||||||||||scienco|tiede (tutkimus)|nauka, badanie, studiowanie
+lok:a|loka||||put (place, set)|mettre (placer)|colocar (poner, ubicar)|colocar (pôr)|ставить||放置|||||||||lokigi|panna (asettaa, sijoittaa)|umieścić (postawić)
+lok:e|loke|||eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|place (location)|lieu|lugar|lugar (local)|место|مَكَان|地方|場所|장소||जगह (मकान)|জায়গা|tempat|pahali||loko|paikka (sija, sijainti)|miejsce, lokacja
+lok:i|loki||||local|local|local|local||||||||||||loka|paikallinen|miejscowy, lokalny
+lok:u|loku||||be located (lie, be situated)||encontrarse (estar, situarse)||||||||||||||sijaita|być umiejscowionym (być ulokowanym, stać)
+lon:|lon|||zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||discusión (debate, discurso)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
+lon:a|lona||||debate (discuss)||debatir (discutir)||||||||||||||keskustelu (debatti)|debatować, prowadzić dyskurs
+lon:a biznes:|lona biznes||||negotiate (arrange)||negociar|||||話し合う (話を付ける)||||||||||negocjować
+long:a|longa||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
+long:i|longi|||eng:fra:long, deu:lang, por:longo|long (lengthy)|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)||panjang|uzun|longa|pitkä|długi
+long:ia|longia||||length||largo (longitud)||||||||||||||pituus|długość
+long:o|longo||||long (over a gread distance)|loin|lejos||далеко||||||||||||pitkästi (kauas)|
+long.o.dur:i|longoduri||||long (long-lasting, prolonged)|prolongé|perdurable (longevo, prolongado)|prolongado|долгий (длительный)||||||||||||pitkäaikainen (pitkäkestoinen)|
+long.o.dur:o|longoduro||||for a long time|longtemps||por muito tempo|долго||久||||||||||kauan (pitkän aikaa)|
+long.o.krokodil:|longokrokodil|biw|Crocodylidae||crocodile|crocodile|cocodrilo|crocodilo||||クロコダイル||||||||||krokodyl
+long.o.pipr:e|longopipre|biw|Piper longum||long pepper (pipli)|poivre long|||перец длинный||荜拔|畢撥|필발||पिप्पली|পিঁপুল|||||pitkäpippuri|pieprz długi
+Longon:|London||||London|||||||||||||||||Londyn
+lontr:e|lontre|biw|Lutrinae|spa:tgl:lutrino, fra:loutre, por:lontra, ita:lontra|otter|loutre|nutria|lontra|выдра||獭|獺||||||||||wydra
+lot:e|lote|||por:spa:lote, eng:fra:lot|batch (lot)||lote (grupo)||||||||||||||erä (satsi)|wsad, partia, porcja, seria
 low:a|lowa|||zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)|leak||chorrear|vazar|протекать (просочиться)||漏|漏る||||||||liki|vuotaa|przeciekać, ciec
 low:a sang:|lowa sang||||bleed||sangrar|||||||||||||sangi|vuotaa verta|krwawić
 lugi|lugi|rang||zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|green|vert|verde|verde|зелёный|أَخْضَر|绿色|緑 (緑色)|녹색|xanh (lục)|हरा|সবুজ|hijau|kijani||verda|vihreä|zielony
@@ -2566,7 +2568,6 @@ parta|parta||||participate (attend, partake, take part)||participar|||||||||||||
 parter|parter||||participant||participante||||||||||||||osallistuja|uczestnik
 partia|partia|||eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|party (group)||partido (grupo)|||||||||||||partio|osapuoli|partia
 pas|pas|||eng:past, spa:pasado, por:passado, fra: passé|past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
-pasu|pasu||||pass (go by, go past)||pasar||||||||||||||kuluttaa aikaa|minąć, mijać, przeminąć, przemijać
 pash:|pash||||pain||dolor||боль||疼痛|痛み|||||||||kipu|ból
 pash:a|pasha||||hurt||doler (hacer daño)||||||||||||||satuttaa|sprawić ból, sprawiać ból
 pash:i|pashi||||painful||doloroso||болезненный|||痛い|||||||||kivulias (tuskallinen)|bolesny
@@ -2580,6 +2581,7 @@ paso|paso||||before (in the past)||haber (en el pasado)|||||||||||||antaŭe (pas
 pasporte|pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 paste|paste|||eng:deu:paste, rus:паста (pasta), spa:por:pasta|paste||pasta|pasta|||||||||||||tahna (tahdas)|pasta
 pastopetre|pastopetre||||magma|magma|magma||||岩漿|マグマ (岩漿)||||||||||magma
+pasu|pasu||||pass (go by, go past)||pasar||||||||||||||kuluttaa aikaa|minąć, mijać, przeminąć, przemijać
 patate|patate|biw||fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|potato||papa|||||||||||||terpomo|peruna (potaatti)|ziemniak
 pati|pati||||ill (sick)||enfermo|||||||||||||malsana|sairas|chory
 patia|patia|||deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|sickness (illness, disease)||enfermedad||||||||||||||sairaus|choroba
@@ -2873,10 +2875,10 @@ rola|rola||||act (play a role)||actuar (hacer un papel)|||||||||||||ludi rolon|n
 roler|roler||||actor (actress)||actor (actriz)|||||||||||||aktoro (aktorino)|näyttelijä|akt, scena
 Roma|Roma|cite|IT||Rome|Rome|Roma|Roma|Рим|الروم|罗马|ローマ|||रोम||Roma|Roma|Roma|Romo|Rooma|
 Roma|Roma||||Rome||Roma||||||||||||||Rooma|Rzym
-Romania|Romania|desh|RO||Romania||Rumania||||||||||||||Romania|Rumunia
 romanca|romanca||||love romantically||amar románticamente||||||||||||||rakastaa romanttisesti|kochać romantycznie
 romanci|romanci||||romantic||romántico||романтический|||ロマンチック|||||romantik||romantik||romanttinen|romantyczny
 romancia|romancia||27 emotions|fra:eng:spa:por:romance, rus:роман (roman), tur:romans, may:roman, jpn:ロマンス (romansu), kor:로맨스 (romaenseu)|romance (romantic love)||romance||роман|||ロマンス|||||roman||romans||lempi (romanssi, rakkaus)|miłość romantyczna
+Romania|Romania|desh|RO||Romania||Rumania||||||||||||||Romania|Rumunia
 romi imperia|romi imperia||||Roman Empire||Imperio romano||||||||||||||Rooman valtakunta|Imperium Rzymskie
 romkamil|romkamil|biw|Chamaemelum nobile||Roman camomile|Camomille Romaine|manzanilla romana (camomila común)|camomila-romana|ромашка римская||果香菊|ローマンカモミール||||||||||rumian rzymski
 ros|ros|||fra:rosée, spa:rocío, rus:роса (rosa)|dew|rosée|rocío||роса|||||||||||roso|kaste|rosa
@@ -3469,9 +3471,9 @@ un:ia|unia||||union||unión|||||||||||||uniono|liitto (unioni)|unia
 un.al:|unal|||eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|each other (one another, mutually)||el uno al otro (se)|||||||||||||unu la alian (reciproke)|toisiaan (keskenään)|się (nawzajem, wzajemnie)
 un.al:i|unali||||mutual||utuo (recíproco)|||||||||||||reciproka|molemminpuolinen (keskinäinen)|wzajemny
 un.dew.ist:ia|undewistia||||monotheism||monoteismo||||||||||||||monoteismi (yksijumalisuus)|monoteizm
+un.em.ist:ia|unistia||||monism||monismo|||||||||||||monismo|monismi|monizm
 un.ik:i|uniki||||only (single, sole, lone)|seul (unique)|único|único (só)|единственный (уникальный)||唯一 (独)|唯一の|유일한|duy nhất|एकमात्र||unik|||sola (ununura)|ainoa (ainut)|jedyny (wyłączny)
 un.ik:o|uniko||||only (solely, just)|uniquement|únicamente (solo)|unicamente|только (единственно)||只有 (惟独)|だけ|||सिर्फ़|||||sole (nur)|ainoastaan (vain)|jedynie (tylko)
-un.ist:ia|unistia||||monism||monismo|||||||||||||monismo|monismi|monizm
 un.jan:i|unjani||||alone (lonely, isolated, solitary, single)||solo (aislado, solitary, soltero)|só (solitário)|одинокий (единичный)||独自的 (孤单)|一人の (寂しい, ポツリ)|||एकाकी||seorangan (sendiri)|||||
 un.mar:o|unmaro||||once|une fois|una vez|uma vez|один раз||一次 (一遍)||一度 (一回, 一遍)|한번|एक बार|||||unufoje|kerran|raz (jeden raz)
 un.men:i|unmeni||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
@@ -3638,7 +3640,7 @@ Yapetus|Yapetus|planete 6 lune 8|||Iapetus|||||||||||||||||
 yasen:|yasen|biw|Fraxinus|rus:ясень (yasen’), pol:jesion|ash tree|frêne|fresno|freixo|ясень||白蜡树|秦皮|||||||dişbudak|||jesion
 yatim:|yatim|||ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|orphan||huérfano||||||||||||||orpo|sierota
 yatimdom:|yatimdom||||orphanage|orphelinat|orfanato|orfanato|детский дом||孤儿院||||||||yetimhane||orpokoti|sierociniec, dom dziecka
-yaw|yaw|||zho:要 (yāo), yue:要 (jiu1), wuu:要 (iau1), jpn:要 (yō), vie:yêu|need (shortage, lack)|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja|||tarve (puute)|potrzeba
+yaw|yaw|||zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|need (shortage, lack)|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja|||tarve (puute)|potrzeba
 yaw:i|yawi||||needy (lacking)|nécessiteux (dans le besoin)|necesitado|necessitado|||||||||||||puutteenalainen|
 yaw:u|yawu||||need (lack)|avoir besoin de|necesitar|necessitar|нуждаться||需要|||cần|ज़रूरत होना||perlu|kuhitaji||bezoni|tarvita|potrzebować
 yaw.an:|yawan||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَرُورِيّ‎|必要的|必要|필요하다||ज़रूरी||||||tarpeellinen|potrzebny
@@ -3711,7 +3713,7 @@ zem.sism:e|zemsisme||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|
 zem.tik:e|zemtike||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
 zeta:|zeta*|||eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|zetta-||||||||||||||||tsetta-|
 zeyil:|zeyil|||fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|wart|verrue|verruga|verruga|бородавка||疣|疣||||||||veruko|syylä|brodawka
-moh:|moh|biw|Musca domestica|eng:midge, spa:mosca, rus:муха (muha), hin:मक्खी (makkhī)|fly (housefly)|mouche|mosco||муха|||||||||||muŝo|kärpänen|mucha
+zez:e|zeze||Diptera|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣinṣin + eng:tsetse, fra:por:tsé-tsé, rus:цеце (tsetse), tur:çeçe, zho:采采蝇 (cǎicǎiyíng)|fly||||двукрылое||双翅目|ハエ目 (双翅目)|||||||||kaksisiipinen|
 zigzag:e|zigzage|||eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|zigzag||zigzag||||||||||||||siksakki|zygzag
 zikur:|zikur|||ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|ziggurat||zigurat||||||||||||||zikkurat|ziggurat
 Zimbabw:e|Zimbabwe|desh|ZW||Zimbabwe||Zimbabue||Зимбабве||||||||||||Zimbabwe|Zimbabwe
