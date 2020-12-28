@@ -453,7 +453,6 @@ cerebre - mózg
 Ceres - Ceres (planeta karłowata)  
 ceresem - cer  
 cesem - cez  
-cha - z, od  
 chabe - klucz  
 Chade - Czad  
 chake - nóż  
@@ -716,7 +715,6 @@ dutani - niepewny (podejrzliwy, niedowierzący)
 duwa - pomodlić się, modlić się  
 duwe - modlitwa  
 ####E - E  
-e - i, oraz  
 eglis - kościół  
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
@@ -2312,7 +2310,6 @@ nudiste - nudysta
 nudistia - nudyzm  
 nuton - niuton (N)  
 ####O - O  
-o - lub, albo  
 Oceania - Oceania  
 odisi - orija  
 ofice - urząd, pozycja, stanowisko, funkcja  
@@ -3411,6 +3408,7 @@ votohake - prawo wyborcze
 vulve - srom  
 vute - przedmiot (obiekt)  
 ####W - W  
+wa - i, oraz  
 waf - pies  
 wakil - reprezentant (przedstawiciel)  
 wakila - reprezentować  
@@ -3450,6 +3448,7 @@ wolfe - wilk
 wolfram - wolfram  
 Wolof - wolof  
 ####Y - Y  
+ya - lub, albo  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
 yagones - półwysep  
@@ -3497,6 +3496,7 @@ yumoriste - komik
 yuterbem - iterb  
 yutrem - itr  
 ####Z - Z  
+za - z (od)  
 ze - sam, siebie  
 zaitun - oliwka  
 zalimi - złośliwy, okrutny  

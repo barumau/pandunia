@@ -212,7 +212,6 @@ buton - bouton
 ####C - C  
 celolojia - cytologie  
 centaur - Centaurée  
-cha - de  
 chakre - roue  
 chamache - cuiller  
 chanse - chance  
@@ -285,7 +284,6 @@ duriki - chronique
 durmetrer - chronomètre  
 dush - douche  
 ####E - E  
-e - et  
 ekojeni - sauvage  
 ekor - écureuil  
 ekse - fuera (exterior)  
@@ -768,7 +766,6 @@ note - note
 novi - nouveau  
 novike - néophyte  
 ####O - O  
-o - ou  
 oke - œil  
 oki - oculaire  
 okosuygas - gaz lacrymogène  
@@ -1105,6 +1102,7 @@ volu - vouloir
 vulve - vulve  
 vute - objet (article)  
 ####W - W  
+wa - et (avec)  
 warkalge - varech  
 warkolate - page  
 washurse - raton laveur  
@@ -1112,6 +1110,7 @@ wenjouoranje - mandarine satsuma
 wolfe - loup  
 Wolof - wolof  
 ####Y - Y  
+ya - ou  
 yamfite - légume  
 yamnide - faim  
 yasen - frêne  
@@ -1127,6 +1126,8 @@ yongopetre - lave
 yongosaha - fondu  
 yongu - melt  
 ####Z - Z  
+za - de  
+ze - se  
 Zardush - Zoroastre  
 zardushiste - zoroastrien  
 zardushistia - zoroastrisme  

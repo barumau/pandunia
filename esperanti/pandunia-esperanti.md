@@ -272,7 +272,6 @@ cerebre - cerbo
 Ceres - Cereso  
 ceresem - cerio  
 cesem - cezio  
-cha - de (el, pro)  
 chabe - ŝlosilo  
 chake - tranĉilo  
 chakre - rado  
@@ -415,7 +414,6 @@ dute - dubo
 duwa - preĝi  
 duwe - preĝo  
 ####E - E  
-e - kaj  
 eglis - preĝejo  
 ekia - naturo  
 ekor - sciuro  
@@ -1210,7 +1208,6 @@ novike - novulo
 novo - ĵus  
 nuton - newtono (N)  
 ####O - O  
-o - aŭ  
 Oceania - Oceanio  
 oganeson - oganesono  
 oka - okulumi  
@@ -1693,6 +1690,7 @@ vol - volo
 volu - voli  
 vulve - vulvo  
 ####W - W  
+wa - kaj  
 wan - amuzo  
 wana - amuzi  
 wani - amuza  
@@ -1710,6 +1708,7 @@ wil - estonoteco
 wilo - estonte  
 wolfe - lupo  
 ####Y - Y  
+ya - aŭ  
 yala - rapidigi  
 yama - manĝi (trinki)  
 yamfite - legomo  
@@ -1730,6 +1729,7 @@ yumoriste - humuristo
 yuterbem - iterbio  
 yutrem - itrio  
 ####Z - Z  
+za - de (el, pro)  
 ze - si  
 zaitun - olivo  
 Zambia - Zambio  

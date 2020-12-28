@@ -111,7 +111,7 @@ analyse - analiza
 analysis - analize  
 anchor - anker  
 Ancient Egypt (Kemet) - kemia  
-and - e  
+and (with) - wa  
 Andes - Andes  
 andesite - andesite  
 Andorra - Andora  
@@ -483,6 +483,7 @@ butterfly (moth) - pelpel
 buttocks (bum, butt, ass) - pige  
 buy (purchase) - shopa  
 buyer - shoper  
+by (at, in, on) - sa  
 ####C - C  
 cabin (booth) - kabin  
 cable (wire, line) - eletrolinye  
@@ -1275,7 +1276,7 @@ friend - doste
 friendly (kind, nice, gentle) - dosti  
 friendship - dostia  
 frog - krokroke  
-from (since, because) - cha  
+from (since, because) - za  
 frost - himros  
 fruit - pal  
 frying pan - tave  
@@ -2319,7 +2320,7 @@ opportunity (chance) - chanse
 oppose (resist) - fana  
 opposite (anti-) - fani  
 option (choice) - chuzable  
-or - o  
+or - ya  
 orange (fruit) - oranje  
 orange (orange-colored) - oranji  
 orchid - orkide  
@@ -2931,7 +2932,7 @@ seismic (vibrational) - sismi
 seismology - sismolojia  
 selenium - selenem  
 self (identity) - aute  
-self - ze  
+self (reflexive pronoun) - ze  
 self-moving (automotive, automobile) - automoti  
 sell (vend) - venda  
 seminal - semi  
@@ -3015,6 +3016,7 @@ silk - silke
 silver - argente  
 similar (analogous) - samsifi  
 simple (not complicated) - simpli  
+simply (merely, only) - sado  
 sing - chanta  
 Singapore - Singapur  
 sit (put down) - sida  
@@ -3662,7 +3664,6 @@ winter melon (wax gourd, ash gourd) - mumomelon
 wintry - lengomosimi  
 wisdom - sofia  
 wise - sofi  
-with (by, at, in, on) - sa  
 without - na  
 wolf - wolfe  
 Wolof (language and people) - Wolof  

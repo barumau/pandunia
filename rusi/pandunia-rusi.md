@@ -176,7 +176,6 @@ buton - пуговица
 celolojia - цитология  
 centaur - василёк  
 ceram - керамика  
-cha - из (от)  
 chakre - колесо  
 chamache - ложка  
 chanse - возможность (шанс)  
@@ -728,7 +727,6 @@ note - запись (заметка)
 novi - новый  
 novike - новичок  
 ####O - O  
-o - или  
 oke - глаз (око)  
 oki - глазной  
 okosuygas - слезоточи́вый газ  
@@ -1076,6 +1074,7 @@ waw - вау!
 wenjouoranje - мандарин уншиу  
 westogoril - западная горилла  
 ####Y - Y  
+ya - или  
 yamfite - овощ  
 yamnide - голод  
 yasen - ясень  
@@ -1093,6 +1092,8 @@ yoge - йога
 yohani feste - Иванов день  
 yumor - юмор  
 ####Z - Z  
+za - из (от)  
+ze - себя (-ся)  
 zaman - период (эпоха)  
 Zambia - Замбия  
 Zardush - Зороастр  

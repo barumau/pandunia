@@ -268,7 +268,7 @@ Pandunia has four prepositions of place and time.
 1. **sa** - presence, location or moment (in general): with, at, in,
    on, by, during, while
 2. **na** - absence or lack: without
-3. **cha** - origin, beginning or cause: from, since, because
+3. **za** - origin, beginning or cause: from, since, because
 4. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
@@ -276,13 +276,13 @@ the preposition is complemented by a pronoun or a noun phrase.
 
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
-**me sona cha xam pa sube.** - I sleep since evening until morning.  
-**me safara cha london pa paris.** - I travel from London to Paris.  
+**me sona za sham pa sube.** - I sleep since evening until morning.  
+**me safara za London pa Paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga cha te gova.** - I have waited since you left.  
+**me denga za te kita.** - I have waited since you left.  
 **me denga pa te laya dome.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
@@ -327,9 +327,9 @@ many phrases, the verb says enough alone.
 
 **me laya dome.** - I come home.  
 **te sida kurse.** - You sit (on) the chair.  
-**le lala sofa'.** - S/he lies (on) the sofa.  
+**le lala sofa.** - S/he lies (on) the sofa.  
 **pesh nata daria.** - Fish swim (in) the sea.  
-**jenger marca dav.** - Warriors march (on) the road.  
+**jenger marcha daw.** - Warriors march (on) the road.  
 
 ### Preposition of relation
 

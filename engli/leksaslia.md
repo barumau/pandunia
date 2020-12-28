@@ -185,7 +185,6 @@
 |**ceng**|layer (level, storey, floor, stratum)|Mandarin:层 (céng), Cantonese:層 (cang4), Wu-Chinese:層 (zen3), Korean:층 (chŭng), Vietnamese:tầng|
 |**ceram**|ceramic|English:ceramic, Spanish:cerámica, Portuguese:cerâmico, French:céramique, Russian:керамика (keramika), Bengali:সিরামিক (sirāmika), Turkish:mel:seramik|
 |**cerebre**|brain|English:cerebrum, Spanish:cerebro, Portuguese:cérebro, French:cerveau|
-|**cha**|from (since, because)|Mandarin:从 (cóng),出于 (chū), Cantonese:從 (cung4)|
 |**chabe**|key|Portuguese:chave, Hindi:(cābi), Kongo:nsapi|
 |**chake**|knife|Hindi:चाक़ू (cāqū), Persian:(čâqu), nep:चक्कु (cakku), Kannada:ಚಾಕು (cāku)|
 |**chakre**|wheel|Hindi:चक्र (cakra), Bengali:চাকা (caka), pan:ਚੱਕਰ (cakkar), Gujarati:ચક્ર (cakra), Telugu:చక్రము (cakramu), Marathi:चाक (cāk), Thai:จักร (jàk), Malay:cakera, English:chakram|
@@ -287,7 +286,6 @@
 |**dush**|shower|French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş|
 |**dute**|doubt (disbelief)|French:doute, English:doubt, Spanish:Filipino:duda|
 |**duwa**|pray|Turkish: dua, Swahili: dua, Malay: doa, Arabic: دُعَاء‏  (duʿāʾ)|
-|**e**|and|French:et, Portuguese:e, Mandarin:和 (hé)|
 |**eglis**|church|Persian:(kelisā), Turkish:kilise, Malay:gereja, Portuguese:igreja, Hindi:गिरजा (girjā), Arabic:(kanisā), French:église|
 |**ekia**|environment (nature)|English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-|
 |**ekolojia**|ecology (study of environment)|deu:Ökologie, English:ecology, French:écologie, Russian:экология (ekologiya), Malay:ekologi, Turkish:ekoloji, Swahili:ikolojia|
@@ -940,7 +938,6 @@
 |**note**|note (observation, remark, comment)|deu:English:French:note, Spanish:Portuguese:nota, Turkish:not, Japanese:ノート (nōto), Korean:노트 (noteu), Persian:(not)|
 |**novi**|new (recent)|Russian:новый (novyy), Portuguese:novo, Spanish:nuevo, Hindi:नव (nav), English:novel, French:nouveau|
 |**nudi**|naked (bare, nude)|English:nude, Spanish:desnudo, Portuguese:French:nu|
-|**o**|or|Spanish:o, Filipino:o, English:or, Mandarin:或 (huò), Arabic:(ʾaw)|
 |**oficeria**|office (room)|English:French:office, Spanish:oficina, Russian:офис (ofis), Turkish:ofis, Swahili:afisi, Bengali:অফিস (ôphiś), Malay:opis, Japanese:オフィス (ofisu)|
 |**oke**|eye|Spanish:ojo, Russian:око (oko), Bengali:অক্ষি (ôkkhi) + English:Portuguese:ocular, French:oculaire|
 |**okeyi**|okay (acceptable)|English:okay, Spanish:Turkish:Malay:okey, Portuguese:OK, Russian:окей (okej), Arabic:أُوكِي‎‎‎ (ʾokey), Hindi:ओके (oke), Mandarin:OK (ōukèi), Japanese:オーケー (ōkē)|
@@ -1372,6 +1369,7 @@
 |**vote**|vote (ballot)|English:vote, Spanish:Portuguese:voto, Hindi:वोट (voṭ), Russian:вотум (votum)|
 |**vulve**|vulva|French:vulve, English:Portuguese:Spanish:Turkish:vulva, Russian:вульва (vul’va)|
 |**vute**|object (item)|Mandarin:物 (wù), Wu-Chinese:物 (veq5), Japanese:物 (butsu), Vietnamese:vật + Hindi:Marathi:वस्तु (vastu), Bengali:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), Thai:วัสดุ (wạttu)|
+|**wa**|and (with)|Arabic:وَ (wa), Persian: و‎ (va), Hindi:व (va), Turkish:ve, Swahili:wa + Cantonese:和 (wo4), Korean:와 (wa), Vietnamese:và|
 |**waf**|dog|English:woof, Spanish:guau, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)|
 |**wakil**|representative (proxy, agent)|Arabic:وكيل‎ (wakīl), Swahili:wakili, Persian:وکیل‎ (vakil), Hindi:वकील (vakīl), Bengali:উকিল (ukil)|
 |**wan**|fun (amusement)|Mandarin:玩 (wán), Cantonese:玩 (waan4), cjy:玩 (van1), Korean:완 (wan)|
@@ -1389,6 +1387,7 @@
 |**wildi**|wild (savage)|deu:English:ned:wild, sve:vild|
 |**wing**|wing|English:wing, deu:Schwinge|
 |**wolfe**|wolf|deu:ned:English:wolf, Russian:волк (volk)|
+|**ya**|or|Persian: یا‎ (yâ), Hindi:या (yā), Turkish:veya, kaz:я (ya)|
 |**yago**|about (approximately, nearly, almost)|Korean:약 (yag), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)|
 |**yake**|yak|English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)|
 |**yama**|consume (eat or drink)|Khmer:ញ៉ាំ (nyam), Fulani:nyami, + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam|
@@ -1405,12 +1404,12 @@
 |**yota***|yotta-|English:French:Spanish:Portuguese:yotta, Malay:yota-, Mandarin:尧它- (yáotā-), Japanese:ヨタ- (yota-), Korean:요타- (yota-)|
 |**yote**|drop (droplet)|Thai:หยด (yòt), Vietnamese:giọt, + English:iota, Russian:йота (yota)|
 |**yumor**|humor|Russian:юмор (yumor), Spanish:English:humor, French:humour, Japanese:ユーモア (yūmoa), Korean:유머 (yumeo), Mandarin:幽默 (yōumò)|
+|**za**|from (since, because)|Russian:из (iz), Polish:cze:z + Persian: از‎ (az) + Mandarin:自 (zì) + ned:zich, deu:sich, French:Portuguese:Spanish:se|
 |**zaitun**|olive|Arabic:(zaitūn), Spanish:aceituna, Malay:zaitun, Swahili:zaituni, Hindi:Urdu:(zaitūn)|
 |**zalimi**|mean (cruel)|Arabic:(ẓālim), Turkish:zalim, Urdu:Hindi:(zālim), Persian:(zālem), Swahili:dhalimu|
 |**zaman**|time (period, epoch, era)|Turkish:zaman, Malay:jaman, Swahili:zamani, Arabic:(zaman), Persian:(zamān), + Hindi:समय (samay)|
 |**zar**|hazard (chance)|Arabic:(zahr), + English:hazard, Spanish:Portuguese:azar, + Turkish:zar, Greek:ζάρι (zári), bul:зар (zar)|
 |**zayi**|present (current, existing)|Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại|
-|**ze**|self|Mandarin:自 (zì), ned:zich, deu:sich, French:Portuguese:Spanish:se|
 |**zebre**|zebra|English:Portuguese:Turkish:zebra, Spanish:cebra, Russian:зебра (zebra), Hindi:ज़ेब्रा (zebrā), Japanese:ゼブラ (zebura)|
 |**zem**|earth (ground)|Polish:ziemia, Russian:земля (zemlya), Persian:Urdu:(zamīn), Hindi:ज़मीन (zamīn)|
 |**zemgraf**|map (chart)|Mandarin:地图 (dìtú), Cantonese:地圖 (dei6 tou4), Japanese:地図 (chizu), Korean:지도 (jido), Vietnamese:địa đồ, Hindi:मानचित्र (māncitra), Bengali: মানচিত্র (mancitr)|

@@ -861,7 +861,7 @@ humorystyczny, śmieszny, zabawny, komiczny - yumori
 hybryda; kundel - hibride  
 hę?, co?, pardon? - he  
 ####I - I  
-i, oraz - e  
+i, oraz - wa  
 idea, pomysł - idey  
 ideogram - ideygraf  
 idiota - idiote  
@@ -1335,7 +1335,7 @@ Londyn - London
 lorens - laurensem  
 losowy - zari  
 lotnisko (port lotniczy) - airporte  
-lub, albo - o  
+lub, albo - ya  
 lubić - fila  
 lubić, cieszyć się - suku  
 lud, społeczeństwo - dem  
@@ -3291,10 +3291,10 @@ właściwy, poprawny - sahi
 właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kesh  
 ####Y - Y  
+z (od) - za  
 z (partykuła posiadania) - da  
 ####Z - Z  
 z boku (na bok) - lato  
-z, od - cha  
 zaakceptować, akceptować, powiedzieć okej, mówić okej - okeya  
 zabawa, rozrywka - wan  
 zabawny - wani  

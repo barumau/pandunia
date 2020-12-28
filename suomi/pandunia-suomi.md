@@ -446,7 +446,6 @@ cerebre - aivot
 Ceres - Ceres  
 ceresem - cerium  
 cesem - cesium  
-cha - lähtien (-sta, -lta)  
 chabe - avain  
 Chade - Tšad  
 chake - veitsi (puukko)  
@@ -709,7 +708,6 @@ dutani - epäilevä
 duwa - rukoilla  
 duwe - rukous  
 ####E - E  
-e - ja  
 eglis - kirkko  
 ekia - luonto  
 ekojeni - villi (villinä syntynyt)  
@@ -2159,7 +2157,6 @@ nudiste - nudisti
 nudistia - nudismi  
 nuton - newton (N)  
 ####O - O  
-o - tai (vai)  
 Oceania - Oseania  
 odisi - orija (eräs intialainen kieli)  
 ofice - virka (virka-asema)  
@@ -2558,7 +2555,7 @@ rustia - maaseutu
 rute - polku (reitti, kurssi)  
 rutin - tapa (rutiini)  
 ####S - S  
-sa - kanssa (luona, -lla, -ssa)  
+sa - luona (-lla, -ssa)  
 sa ke - missä?  
 sa sabu - koska (johdosta, takia)  
 sa ye - täällä (tuolla)  
@@ -2567,6 +2564,7 @@ sabe - syy
 sabate - sapatti  
 sabun - saippua  
 sadi - koruton (tavanomainen, pelkkä)  
+sado - vain (pelkästään)  
 safa - puhdistaa (siivota)  
 safi - puhdas (siivo, siisti)  
 safer - siivooja  
@@ -3083,6 +3081,7 @@ votohake - äänioikeus
 vulve - häpy (ulkosynnyttimet)  
 vute - esine (tavara)  
 ####W - W  
+wa - ja (myös, kanssa)  
 waf - koira  
 wakila - edustaa  
 wan - huvi (hauskuus)  
@@ -3112,6 +3111,7 @@ wolfe - susi (hukka)
 wolfram - wolframi  
 Wolof - wolofin kansa ja kieli  
 ####Y - Y  
+ya - tai (vai)  
 yaga - arvioida  
 yago - noin (arviolta, suunnilleen)  
 yake - jakki  
@@ -3150,6 +3150,7 @@ yumoriste - humoristi
 yuterbem - ytterbium  
 yutrem - yttrium  
 ####Z - Z  
+za - luota (lähtien, -sta, -lta)  
 ze - itse  
 zaitun - oliivi  
 zalimi - ilkeä (julma)  

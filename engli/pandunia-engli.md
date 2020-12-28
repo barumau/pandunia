@@ -480,7 +480,6 @@ cerebre - brain
 Ceres - Ceres (dwarf planet)  
 ceresem - cerium  
 cesem - caesium  
-cha - from (since, because)  
 chabe - key  
 Chade - Chad  
 chake - knife  
@@ -753,7 +752,6 @@ dutani - doubtful (suspicious, disbelieving)
 duwa - pray  
 duwe - prayer  
 ####E - E  
-e - and  
 eglis - church  
 eki - environmental (natural)  
 ekia - environment (nature)  
@@ -2432,7 +2430,6 @@ nudiste - nudist
 nudistia - nudism  
 nuton - newton (N)  
 ####O - O  
-o - or  
 Oberon - Oberon  
 Oceania - Oceania  
 odisi - Odia (Oriya)  
@@ -2910,7 +2907,7 @@ rutin - routine (habit)
 rutogalta - stray (deviate)  
 rutogalti - stray (deviant)  
 ####S - S  
-sa - with (by, at, in, on)  
+sa - by (at, in, on)  
 sa ke - where  
 sa linye - online  
 sa sabu - because  
@@ -2920,6 +2917,7 @@ sabe - reason (cause)
 sabate - Sabbath  
 sabun - soap  
 sadi - plain (ordinary, unadorned, simple, mere)  
+sado - simply (merely, only)  
 safa - clean (purify)  
 safi - clean (pure)  
 safer - cleaner  
@@ -3571,6 +3569,7 @@ votohake - franchise (right to vote)
 vulve - vulva  
 vute - object (item)  
 ####W - W  
+wa - and (with)  
 waf - dog  
 wakil - representative (proxy, agent)  
 wakila - represent  
@@ -3611,6 +3610,7 @@ wolfe - wolf
 wolfram - tungsten (wolfram)  
 Wolof - Wolof (language and people)  
 ####Y - Y  
+ya - or  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
 yagones - peninsula  
@@ -3660,7 +3660,8 @@ yumoriste - humorist
 yuterbem - ytterbium  
 yutrem - yttrium  
 ####Z - Z  
-ze - self  
+za - from (since, because)  
+ze - self (reflexive pronoun)  
 zaitun - olive  
 zalimi - mean (cruel)  
 zaman - time (period, epoch, era)  

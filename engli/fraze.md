@@ -187,32 +187,32 @@ I greet him/her.
 <small>Etymology. **le** is from French: il/le, Spanish: él/le.</small>
 
 
-### wena <small>to ask a question</small>
+### eska <small>to ask a question</small>
 
 <p style="font-size:5em">🤔❓</p>
 
-**wena te Tomas?**
+**eska te Tomas?**
 Are you Thomas?
 
-**wena te mediker?**
+**eska te mediker?**
 Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **wena**.
+Tip: Yes/no questions frequently begin with **eska**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**me wena te mediker.**
+**me eska te mediker.**
 (I ask, you doctor?) by dropping out the first word.
 
-**wena te boni?**
+**eska te boni?**
 How are you? (Literally: _Are you good?_)  
 **me boni.**
 I'm good.  
-**wena te?**
+**eska te?**
 And you?  
 **me no boni.**
 I'm not good.
 
-<small>Etymology. **wena**
+<small>Etymology. **eska**
 is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small>
 
 
@@ -220,13 +220,13 @@ is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small
 
 <p style="font-size:5em">👍</p>
 
-**wena te Tomas?**
+**eska te Tomas?**
 Are you Thomas.
 
 **si, me Tomas.**
 Yes, I am Thomas.
 
-**wena le mediker?**
+**eska le mediker?**
 Is he/she a doctor?
 
 **si, le mediker.**
@@ -258,12 +258,12 @@ I'm not Sarah.
 **me no mediker.**
 I'm not a doctor.
 
-**wena te boni?**
+**eska te boni?**
 Are you well?  
 **si. me boni.**
 Yes, I'm well.
 
-**wena te boni?**
+**eska te boni?**
 Are you well?  
 **no. me no boni.**
 No, I'm not well.
@@ -431,7 +431,7 @@ He/she doesn't have money.
 **me volu tena novi telfone.**
 I want to have a new phone.
 
-**wena te tena bache?**
+**eska te tena bache?**
 Do you have children?  
 **me tena duli bache.**
 I have two children.
@@ -442,14 +442,14 @@ I have two children.
 **me jana le.**
 I know him/her.
 
-**wena te jana wi ren?**
+**eska te jana wi ren?**
 Do you know that person?
 
-**wena tote jana unale?**
+**eska tote jana unale?**
 Do you know each other?
 
-**mome jana unale ca longi.**
-We know each other for long.
+**mome jana unale longo.**
+We know each other for a long time.
 
 
 ### helpe <small>help</small>
@@ -457,10 +457,10 @@ We know each other for long.
 **me nida helpe.**
 I need help.
 
-**wena te abla helpa me?**
+**eska te abla helpa me?**
 Can you help me?
 
-**wena me abla helpa te?**
+**eska me abla helpa te?**
 Can I help you?
 
 **me volu helpa te.**
@@ -471,7 +471,7 @@ I want to help you.
 
 ### yama <small>consume, eat, drink</small>
 
-**wena te volu yama koy?**
+**eska te volu yama koy?**
 Would you like to eat something?
 
 **le yama apel.**
@@ -483,7 +483,7 @@ They eat apples.
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **apel** can refer to one or more apples.
 
-**wena te yama kafe?**
+**eska te yama kafe?**
 Do you drink coffee?
 
 **me yama kafe.**
@@ -499,7 +499,7 @@ I'm having coffee and bread.
 
 ### volu <small>want</small>
 
-**wena te volu yama?**
+**eska te volu yama?**
 Would you like to eat?
 
 **te volu yama ke?**
@@ -511,7 +511,7 @@ the word order is not affected by the **ke**.
 **me volu yama kafe.**
 I want to drink coffee.
 
-**wena te volu yama chay?**
+**eska te volu yama chay?**
 Would you like to drink tea?  
 **no. me no volu chay. me volu kafe.**
 No, I don't want tea. I want coffee.
@@ -568,10 +568,10 @@ I need help.
 **me nida yama.**
 I'm hungry.
 
-**wena te nida yama?**
+**eska te nida yama?**
 Are you hungry?
 
-**wena te nida suy?**
+**eska te nida suy?**
 Are you thirsty?
 
 
@@ -591,7 +591,7 @@ Excuse me, what's your name?
 
 ### aha <small>understand</small>
 
-**wena te aha me?**
+**eska te aha me?**
 Do you understand me?
 
 **me aha.**
@@ -615,10 +615,10 @@ I can drive a car.
 **le no abla shofa gare.**
 He/she doesn't know how to drive a car.
 
-**wena te abla shula le?**
+**eska te abla shula le?**
 Do you know how to fix it?
 
-**wena te abla pandunia?**
+**eska te abla pandunia?**
 Can you speak Pandunia?
 
 **me abla pandunia.**
@@ -714,13 +714,13 @@ Please, write it here!
 
 ### basha <small>speak a language, communicate</small>
 
-**wena tote abla basha pandunia.**
+**eska tote abla basha pandunia.**
 Can you speak Pandunia?
 
 **mome abla basha pandunia.**
 We can speak Pandunia.
 
-**wena te abla basha Engli?**
+**eska te abla basha Engli?**
 Can you speak English?
 
 **Franci, Espani, Portugali, Rusi**
@@ -764,10 +764,10 @@ Let's go by foot!
 **pliza laya!**
 Come here!
 
-**te laya ca ke?**
+**te laya za ke?**
 Where do you come from?
 
-**me laya ca Dubai.**
+**me laya za Dubai.**
 I come from Dubai.
 
 **me laya dom badodeno.**
@@ -776,10 +776,10 @@ I will come home tomorrow.
 
 ### safara <small>to travel</small>
 
-**wena te safara sa tren?**
+**eska te safara sa tren?**
 Do you travel by train?
 
-**mome safara ca London pa Paris.**
+**mome safara za London pa Paris.**
 We travel from London to Paris.
 
 **safar multo longi.**
@@ -820,7 +820,7 @@ Where do you live?
 **me doma Singapur.**
 I live in Singapore.
 
-**wena te doma yi hotel?**
+**eska te doma yi hotel?**
 Do you live in this hotel?
 
 Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.
@@ -874,18 +874,18 @@ He or she was the chief.
 He or she was at home.
 
 
-### levo <small>already, completed</small>
+### lewo <small>already, completed</small>
 
-**me levo salama ti doste.**  
+**me lewo salama ti doste.**  
 I have greeted your friend.
 
-**man levo vida fem.**  
+**man lewo vida fem.**  
 The man has looked at the woman.
 
-**le levo shefe.**  
+**le lewo shefe.**  
 He or she has been the chief.
 
-**le levo sa dom.**  
+**le lewo sa dom.**  
 He or she has been at home.
 
 
@@ -934,7 +934,7 @@ I will take a coffee.
 **pliza kapa un kafe pa me.**
 Please take one coffee for me.
 
-**te levo kapa pese ca me.**
+**te lewo kapa pese za me.**
 You already got money from me.
 
 **me kapa un bire.**
@@ -978,7 +978,7 @@ I will buy a beer.
 **le si ki yang?**
 What is it like?
 
-**wena le novi?**
+**eska le novi?**
 Is it new?
 
 **ke si max boni?**
@@ -1032,7 +1032,7 @@ Cheers!
 ****
 Of course!
 
-**wena te suku ...?**
+**eska te suku ...?**
 Do you like ...?
 
 ****

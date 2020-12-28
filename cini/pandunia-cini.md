@@ -159,7 +159,6 @@ buze - 山羊
 celolojia - 细胞学  
 ceng - 层  
 ceram - 陶瓷  
-cha - 从  
 chakre - 轮子  
 chamache - 匙子  
 chantergrupe - 合唱团  
@@ -226,7 +225,6 @@ durmetrer - 秒表
 durubli - 耐用的  
 dush - 淋浴  
 ####E - E  
-e - 和  
 ekor - 松鼠  
 ekse - 外  
 eksotira - 拉  
@@ -666,7 +664,6 @@ note - 便条
 novi - 新  
 novike - 新手  
 ####O - O  
-o - 或  
 oke - 眼睛  
 okosuygas - 催泪瓦斯  
 okside - 氧化物  
@@ -962,6 +959,7 @@ volu - 想要 (愿意)
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ####W - W  
+wa - 和  
 wan - 娱乐  
 wanu - 玩耍  
 washurse - 浣熊  
@@ -969,6 +967,7 @@ Wenjou - 温州
 wenjouoranje - 温州蜜柑  
 wijin - 味精  
 ####Y - Y  
+ya - 或  
 yamfite - 蔬菜  
 yamnide - 饥饿  
 yasen - 白蜡树  
@@ -983,6 +982,7 @@ yongopetre - 熔岩
 yongosaha - 熔炼  
 yongu - 融化  
 ####Z - Z  
+za - 从  
 zebre - 斑马  
 zemforme - 地势  
 zemgraf - 地图  

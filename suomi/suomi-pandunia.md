@@ -730,7 +730,7 @@ itäinen - dongi
 itämainen lohikäärme - lung  
 Itävalta - Ostria  
 ####J - J  
-ja - e  
+ja (myös, kanssa) - wa  
 jade - giuke  
 jainalaisuus - jeinistia  
 jakaa (jaella) - fada  
@@ -897,7 +897,6 @@ kansallisuusaate (nationalismi) - nasistia
 kansanryhmien välinen - zukomedi  
 kansanryhmä (etninen ryhmä) - zuke  
 kansio (hakemisto) - dokumsanduke  
-kanssa (luona, -lla, -ssa) - sa  
 kapina - rebel  
 kapteeni - botoshef  
 karaatti - kirate  
@@ -1405,7 +1404,9 @@ luokkahuone - shulkamar
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
 luolaseikkailu - donjon aventur  
+luona (-lla, -ssa) - sa  
 luonto - ekia  
+luota (lähtien, -sta, -lta) - za  
 lupaus (vala) - vode  
 lusikka - chamache  
 luterilainen - lutheristi  
@@ -1431,7 +1432,6 @@ lähettäjä (lähetin) - miser
 lähettää - misa  
 lähetys - misia  
 lähetystö - dayanjilkan  
-lähtien (-sta, -lta) - cha  
 lämmin - garmi  
 lämpömittari - termometer  
 lämpötila - terme  
@@ -2600,7 +2600,7 @@ tahmainen (liimamainen) - gluti
 tahna (tahdas) - paste  
 tahto - iche  
 tahtoa - icha  
-tai (vai) - o  
+tai (vai) - ya  
 taianomainen (maaginen) - magi  
 taide - arte  
 taiga - taige  
@@ -2925,6 +2925,7 @@ vaikea - kunani
 vaikeus (hankaluus) - kunan  
 vaikuttaa - asara  
 vaikutus (tulos) - asar  
+vain (pelkästään) - sado  
 vaiva (haitta) - mafan  
 vaivata (hieroa) - masaja  
 vaivata - mafana  

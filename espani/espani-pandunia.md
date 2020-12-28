@@ -739,7 +739,6 @@ computadora (ordenador) - komputer
 comunismo - koncanistia  
 comunista - koncaniste  
 comunitario - komuni  
-con (en, a) - sa  
 concentración - fokusa  
 concentrar (enfocarse) - fokus  
 conceptual - ideyi  
@@ -915,7 +914,7 @@ dañado - avari
 dañar - avara  
 dañino (perjudicial) - avarani  
 daño (corrupción) - avar  
-de (desde) - cha  
+de (desde) - za  
 de (posposición de posesión) - da  
 de (posposición de posesión) - du  
 de lado - lato  
@@ -1117,6 +1116,7 @@ emperador - imperer
 emplear (aplicar) - aplika  
 empresario - bizneser  
 empujar (presionar) - pusha  
+en (a) - sa  
 en el sentido contrario al las agujas del reloj - fansoldisho  
 en el sentido del las agujas del reloj - soldisho  
 en línea - sa linye  
@@ -2292,7 +2292,7 @@ número - nombre
 número de identificación personal - sekurnombre  
 número par - pari nombre  
 ####O - O  
-o - o  
+o - ya  
 oasis - was  
 objetivo - dike  
 objeto (artículo) - vute  
@@ -2948,7 +2948,7 @@ Satanás - shatan
 Saturno - Saturne  
 satánico - shatani  
 sauna - sauna\*  
-se (mismo) - ze  
+se - ze  
 seaborgio - seaborgem  
 secar - gana  
 seco (árido) - gani  
@@ -3432,7 +3432,7 @@ vía férrea - trendaw
 Wallis y Futuna - Walis e Futuna nesia  
 wiki - wikia  
 xenón - eksenon  
-y - e  
+y (con) - wa  
 ####Y - Y  
 ya (acción completado) - lewo  
 yac - yake  

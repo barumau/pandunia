@@ -121,7 +121,7 @@ Azio - asia
 aĉetanto (aĉetisto) - shoper  
 aĉeti - shopa  
 aĝo - umur  
-aŭ - o  
+aŭ - ya  
 aŭdi (aŭskulti) - auda  
 Aŭstralio - Australia  
 aŭto (ĉaro) - gar  
@@ -267,7 +267,7 @@ datumo - date
 daŭri (dum) - duru  
 daŭrigi - dura  
 daŭro - dur  
-de (el, pro) - cha  
+de (el, pro) - za  
 de (partiklo de posedo) - da  
 defendanto (defendisto) - defer  
 defendi - defa  
@@ -676,7 +676,7 @@ kadro - frem
 kafejo - kafekan  
 kafo - kafe\*  
 kaftaso - kafekupe  
-kaj - e  
+kaj - wa  
 kajero - notobuke  
 kakao - kakaw  
 kaktuso - katus  

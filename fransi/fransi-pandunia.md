@@ -346,7 +346,7 @@ dandélion - makanful
 danger - hatre  
 dans le sens antihoraire - fansoldisho  
 dauphin - dolfin  
-de - cha  
+de - za  
 demander (poser un question; est-ce que) - eska  
 dessous - niche  
 destin - chenamen  
@@ -404,7 +404,7 @@ envelopper (emballer) - lifafa
 erroné - galti  
 escroquer - truka  
 espace - kali harfe  
-et - e  
+et (avec) - wa  
 ethnie - zuke  
 ethnique - zuki  
 Europe - Europe  
@@ -733,7 +733,7 @@ originel - asli
 orphelinat - yatimdom  
 orthogonal - ortogoni  
 otite - oritis  
-ou - o  
+ou - ya  
 oublier - anmema  
 oubliette (cul de basse-fosse) - zemnichi prizon  
 oui - si  
@@ -942,6 +942,7 @@ Scandinavie - Eskandia
 scie - ser  
 sculpteur - eskulter  
 scutelle - ostoshalke  
+se - ze  
 se baigner - banyu  
 se mouvoir - kinu  
 se rappeler (se remémorer) - mema  

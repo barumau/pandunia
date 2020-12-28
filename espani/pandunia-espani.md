@@ -444,7 +444,6 @@ cerebre - cerebro
 Ceres - Ceres (planeta enano)  
 ceresem - cerio  
 cesem - cesio  
-cha - de (desde)  
 chabe - llave  
 Chade - Chad  
 chake - cuchillo  
@@ -694,7 +693,6 @@ dute - duda
 duwa - rezar (orar)  
 duwe - rezo (oración)  
 ####E - E  
-e - y  
 eglis - iglesia  
 eki - ambiental (ecológico, natural)  
 ekia - medioambiente (naturaleza)  
@@ -2261,7 +2259,6 @@ nudiste - nudista
 nudistia - nudismo  
 nuton - newton (N)  
 ####O - O  
-o - o  
 Oceania - Oceanía  
 odisi - oriya  
 ofice - cargo  
@@ -2714,7 +2711,7 @@ ruterfordem - rutherfordio
 rutin - rutina (hábito)  
 rutogalta - apartarse (desviarse)  
 ####S - S  
-sa - con (en, a)  
+sa - en (a)  
 sa ke - dónde  
 sa linye - en línea  
 sa sabu - porque  
@@ -3344,6 +3341,7 @@ votohake - sufragio (derecho al voto)
 vulve - vulva  
 vute - objeto (artículo)  
 ####W - W  
+wa - y (con)  
 waf - perro  
 wakila - representar  
 Walis e Futuna nesia - Wallis y Futuna  
@@ -3378,6 +3376,7 @@ wing - ala
 wolfe - lobo  
 wolfram - tungsteno (wolframio)  
 ####Y - Y  
+ya - o  
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
 yagones - península  
@@ -3422,7 +3421,8 @@ yumoriste - humorista
 yuterbem - iterbio  
 yutrem - itrio  
 ####Z - Z  
-ze - se (mismo)  
+za - de (desde)  
+ze - se  
 zaitun - aceituna  
 zalimi - mezquino (antipático)  
 zaman - tiempo (periodo)  
