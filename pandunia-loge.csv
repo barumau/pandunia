@@ -7,7 +7,6 @@ ratibe|pandunia|klase||logasle|engli|franci|espani|portugali|rusi|arabi|putongi 
 -o|-o||||suffix for adverbs|suffixe pour l'adverbe|sufijo para adverbios|||||||||||||-e|pääte: adverbi|przyrostek dla przysłówków
 -u|-u|||hau:wol:-u, swa:-wa|suffix for verbs with OVS word order|suffixe pour les verbes avec ordre des mots OVS|sufijo para verbos con el orden de las palabras OVS|||||||||||||-i (-iĝi)|pääte: OVS-sanajärjestyksen verbi|przyrostek dla czasowników z szykiem zdania OVS
 A|A||||A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A
-a:|a|||rus:а (a), pol:a, + zho:啊 (ā), + eng:ah|but (whereas)|mais (bien que)|pero|||||||||||||sed|mutta|ale, lecz
 abit:e|abite|biw|Abies|spa:por:abeto|fir tree|Sapin|abeto|abeto|пихта||冷杉|モミ|||सनोबर|||||||jodła
 abl:a|abla|||eng:able, spa:hábil, fra:habile, ron:abil|can (know, be able)|pouvoir (être capable)|poder||||会|||||||||povi|voida (osata, pystyä)|móc, umieć
 abl:e|able||||ability (skill)|capacité (compétence)|habilidad|||||||||||||povo|taito (kyky)|możliwość, umiejętność
@@ -80,6 +79,7 @@ almas:|almas|||swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs)
 alumin.em:|aluminem|mate|Al||aluminium|aluminium|aluminio|||||||||||||aluminio|alumiini|glin (aluminium)
 alumin.mat:e|aluminmate||||alum||alumbre|||||||||||||||
 alumin.oks.id:e|aluminokside||||alumina (aluminum oxide)||alúmina|||||||||||||||
+am:o|amo|||ara: أَمَّا‎ (ʾammā), fas:اما‎ (ammâ), tur:ama, hau:amma + ita:ma, fra:mais, por:mas + vie:mà|but (whereas)|mais (bien que)|pero|||||||||||||sed|mutta|ale, lecz
 Amar:i|Amari||||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique et langue éthiopienne)|amhara||||||||||||||amhara (etiopialainen kansa ja kieli)|Amhara, amharski
 amar:i|amari|||spa:por:amargo, fra:amer + ara:مر  (marra)|bitter|amer|amargo|amargo|горький||苦的|苦い|||||||||kitkerä|gorzki
 amar.melon:|amarmelon|biw|Momordica charantia||bitter melon||melón amargo||горький огурец (китайская горькая тыква)||苦瓜|ツルレイシ (ニガウリ)||||||||||przepękla ogórkowata (balsamka ogórkowata)
@@ -1888,7 +1888,6 @@ left:i|lefti||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej st
 left.ist:e|leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
 leg:i|legi|||eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|light (weightless)|léger|ligero|||||||||||||||lekki
 Legos:|Legos||||Lagos|||||||||||||||||Lagos
-lekin:o|lekino|||ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|however||sin embargo|||||||||||||tamen|kuitenkin|jakkolwiek (jednak)
 leng:i|lengi|||zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)|cold||frío||||冷たい (寒い)|||||||||malvarma|kylmä|zimny, chłodny
 leng.o.mosim:|lengomosim||||winter|hiver|invierno|inverno|зима||冬天||||सर्दी (जाड़ा,  शिशिर)||musim dingin||kış|vintro|talvi|zima
 leng.o.mosim:i|lengomosimi||||wintry|hivernal (hibernal)|invernal|invernal (hibernal)|зимний|||||||||||vintra|talvinen|zimowy
@@ -2986,20 +2985,20 @@ samu|samu||||resemble (be like)||parecerse a|||||||||||||||być podobnym, być j
 sanduiche|sanduiche|||eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|sandwich|sandwich|sándwich (sánduche)|sanduíche|сандвич|سَانْدَوِيتْش|三明治 (三文治)|サンドイッチ|||सैंडविच||roti lapis (sandwic).||||voileipä|kanapka
 sanduke|sanduke|||swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|box (chest)||caja (baúl, cofre, estuche)||сундук|||||||||sanduku|sandık|skatolo (kesto)|laatikko|pudło, skrzynia
 sang|sang|||fra:sang, spa:sangre, por:sangue|blood|sang|sangre|sangue|кровь||血|血|피|máu|ख़ून (रक्त)|রক্ত|darah|damu|kan|sango|veri|krew
-santi|santi|||por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|holy (sacred)||sagrado (santo)|||||||||||||sankta|pyhä|święty
-Santi Helena|Santi Helena|desh|SH||Saint Helena||Isla Santa Elena||||||||||||||Saint Helena|Święta Helena
-Santi Kitse|Santi Kitse|desh|||Saint Kitts||San Cristóbal||||||||||||||Saint Kitts|Saint Kitts
+sant:i|santi|||por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|holy (sacred)||sagrado (santo)|||||||||||||sankta|pyhä|święty
+Sant:i Helena:|Santi Helena|desh|SH||Saint Helena||Isla Santa Elena||||||||||||||Saint Helena|Święta Helena
+Sant:i Kits:e|Santi Kitse|desh|||Saint Kitts||San Cristóbal||||||||||||||Saint Kitts|Saint Kitts
 Sant:i Kits:e w:a Nevis:|Santi Kitse wa Nevis|desh|KN||Saint Kitts and Nevis||San Cristóbal y Nieves||||||||||||||Saint Kitts ja Nevis|Saint Kitts i Nevis
-Santi Lusia|Santi Lusia|desh|LC||Saint Lucia||Santa Lucía||||||||||||||Saint Lucia|Saint Lucia
-Santi Marino|Santi Marino|desh|SM||San Marino||San Marino||||||||||||||San Marino|San Marino
-Santi Paulo|Santi Paulo||||Sao Paulo|||São Paulo||||||||||||||São Paulo
+Sant:i Luc:ia|Santi Lucia|desh|LC||Saint Lucia||Santa Lucía||||||||||||||Saint Lucia|Saint Lucia
+Sant:i Marino:|Santi Marino|desh|SM||San Marino||San Marino||||||||||||||San Marino|San Marino
+Sant:i Paulo:|Santi Paulo||||Sao Paulo|||São Paulo||||||||||||||São Paulo
 Sant:i Tom:e w:a Prinsip:e|Santi Tome wa Prinsipe|desh|ST||Sao Tome and Principe||Santo Tomé y Príncipe||||||||||||||Sao Tome ja Principe|Wyspy Świętego Tomasza i Książęca
-Santi Vincente|Santi Vincente||||Saint Vincent||Isla de San Vicente|||||||||||||||Saint Vincent
+Sant:i Vincent:e|Santi Vincente||||Saint Vincent||Isla de San Vicente|||||||||||||||Saint Vincent
 Sant:i Vincent:e w:a Grenadin:e|Santi Vincente wa Grenadine|desh|VC||Saint Vincent and Grenadines||San Vicente y las Granadinas|||||||||||||||Saint Vincent and Grenadines
-sapate|sapate|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|chaussure||zapato||туфля|حِذَاء|鞋|鞋|||जूता||sepatu|kiatu (sapatu)||ŝuo|kenkä|but
-sapater|sapater||||shoemaker||zapatero|||||||||||||ŝuisto|suutari|szewc
-sapateria|sapateria||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suutarin paja|warsztat szewski
-sape|sape|||ita:zappa, rom:sapă, tur:çapa, tha:จอบ (chop)|hoe|houe|azada|enxada|мотыга||锄|クワ||||||||||motyka
+sap:e|sape|||ita:zappa, rom:sapă, tur:çapa, tha:จอบ (chop)|hoe|houe|azada|enxada|мотыга||锄|クワ||||||||||motyka
+sapat:e|sapate|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|chaussure||zapato||туфля|حِذَاء|鞋|鞋|||जूता||sepatu|kiatu (sapatu)||ŝuo|kenkä|but
+sapat.er:|sapater||||shoemaker||zapatero|||||||||||||ŝuisto|suutari|szewc
+sapat.er:ia|sapateria||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suutarin paja|warsztat szewski
 sar:|sar|badan||fas:(sar), hin:सिर (sir), ara:(raʾs)|head|tête|cabeza|cabeça|голова|رَأْس|头|頭|머리|đầu|सिर|মাথা|kepala|kichwa|baç (kafa)||pää|głowa
 sar.kask:e|sarkaske||||helmet||casco (yelmo)|||||||||||||kasko|kypärä|hełm
 sar.ost:e|saroste|badan|||skull||cráneo (calavera)||||||||||||||pääkallo|czaszka
@@ -3472,14 +3471,14 @@ un.dew.ist:ia|undewistia||||monotheism||monoteismo||||||||||||||monoteismi (yksi
 un.em.ist:ia|unistia||||monism||monismo|||||||||||||monismo|monismi|monizm
 un.ik:i|uniki||||only (single, sole, lone)|seul (unique)|único|único (só)|единственный (уникальный)||唯一 (独)|唯一の|유일한|duy nhất|एकमात्र||unik|||sola (ununura)|ainoa (ainut)|jedyny (wyłączny)
 un.ik:o|uniko||||only (solely, just)|uniquement|únicamente (solo)|unicamente|только (единственно)||只有 (惟独)|だけ|||सिर्फ़|||||sole (nur)|ainoastaan (vain)|jedynie (tylko)
+un.it:i|uniti||||united||unido||||||||||||||yhtenäinen|zjednoczony
+Un.it:i Arab:i Amir:ia|Uniti Arabi Amiria|desh|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
 un.jan:i|unjani||||alone (lonely, isolated, solitary, single)||solo (aislado, solitary, soltero)|só (solitário)|одинокий (единичный)||独自的 (孤单)|一人の (寂しい, ポツリ)|||एकाकी||seorangan (sendiri)|||||
 un.mar:o|unmaro||||once|une fois|una vez|uma vez|один раз||一次 (一遍)||一度 (一回, 一遍)|한번|एक बार|||||unufoje|kerran|raz (jeden raz)
 un.men:i|unmeni||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
 un.mes:|unmes|mese|||January||enero|||||１月|||||||||tammikuu|styczeń
 un.ok:i lens:e|unoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un.rang:i|unrangi||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
-un.ut:i|unuti||||united||unido||||||||||||||yhtenäinen|zjednoczony
-Un.ut:i Arab:i Amir:ia|Unuti Arabi Amiria|desh|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
 ungl:e|ungle|||hin:उंगली (uṅglī), ben:অঙ্গুলি (ôṅguli), guj:આંગળી (ā̃gaḷī), pli:aṅguli|finger (toe)||dedo|dedo|палец||手指|指|||उंगली|আঙুল|jari|kidole|parmak|fingro|sormi tai varvas|palec
 ungl.o.ring:|ungloring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
 ur:a|ura|||rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|cheer (hurrah, hooray)|hourra|hurra|urra|ура||好哇||||जय हो||||||hurraa (hurrata)|wiwatować; hura

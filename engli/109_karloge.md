@@ -211,49 +211,39 @@ It is the active participle suffix.
 **logane**
 – the one who speaks
 
-**-ut-**
+**-it-**
 denotes someone or something that undergoes the action of the root.
 It is the passive participle suffix.
 
 **loga**
 – to speak  
-**loguti**
+**logiti**
 – spoken  
 **padu**
 – to fall  
-**paduti**
-– fallen
+**paditi**
+– fallen  
+**una**
+to unite
+→ **uniti**
+united
 
-**-ik-**
-denotes someone or something that is predominantly characterized by the base word.
-
-**uni**
-(one)
-→ **uniki**
-(only, sole, single)  
-**dome**
-– home  
-**domiki**
-– domestic  
-**novi**
-(new)
-→ **novike**
-(novice, newbie)
 
 ### Causative verbs
 
 Causative verbs express an action, which the subject causes to happen via some third party that is not mentioned.
-In Pandunia, causatives are formed with the active participle suffix
-**-an-**.
+In Pandunia, causatives are formed with the participle suffixes.
 
 **maw yama pesh.**
 – The cat eats fish.  
-**me yamana pesh pa maw.**
-– I feed fish to the cat.
+**me yamita pesh pa maw.**
+– I feed fish to the cat.  
+**me yamana maw a pesh.**
+– I feed the cat with fish.
 
 **me bina dome.**
 – I build the house.  
-**me binana dome.**
+**me binita dom.**
 – I have the house built.
 
 
@@ -265,8 +255,8 @@ In Pandunia, prepositions are basically a sub-category of verbs.
 
 Pandunia has four prepositions of place and time.
 
-1. **sa** - presence, location or moment (in general): with, at, in,
-   on, by, during, while
+1. **a** - presence, location or moment (in general):
+   with, at, in, on, by
 2. **na** - absence or lack: without
 3. **za** - origin, beginning or cause: from, since, because
 4. **pa** - destination, end or purpose: to, till, until, for, then
@@ -274,16 +264,16 @@ Pandunia has four prepositions of place and time.
 A preposition begins a prepositional phrase. In a simple prepositional phrase
 the preposition is complemented by a pronoun or a noun phrase.
 
-**me sa hotel.** - I'm in the hotel.  
-**me sona sa hotel.** - I sleep in the hotel.  
-**me sona za sham pa sube.** - I sleep since evening until morning.  
+**me a hotel.** - I'm in the hotel.  
+**me sonu a hotel.** - I sleep in the hotel.  
+**me sonu za sham pa sube.** - I sleep since evening until morning.  
 **me safara za London pa Paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
 **me denga za te kita.** - I have waited since you left.  
-**me denga pa te laya dome.** - I wait until you come home.  
+**me denga pa te laya dom.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
 #### sa

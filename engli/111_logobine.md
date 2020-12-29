@@ -190,19 +190,6 @@ The derivative can be also more loosely associated with the root.
 **muskete** musket; **musketer** musketeer  
 **kase** cash desk; **kaser** cashier  
 
-<!--
-
-#### 11.2.2. -ur
-
-Creates patient nouns from action roots. It denotes a person or a
-thing to whom the action is done.
-
-**kriata** to create; **kriatur** creature, the one who is created  
-**morta** to kill; **mortur** the one who gets killed; by extension: a martyr  
-**folda** to fold; **foldur** folder, something that is folded
-
--->
-
 #### -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the
@@ -234,14 +221,34 @@ When it is added after -er, it means a place of work.
 **fateria** factory  
 **sapateria** shoemaker's shop  
 
-#### -is-
+#### -ik-
 
-Causative suffix.
+**-ik-**
+denotes someone or something that is predominantly characterized by the base word.
 
-**jana** to know  
-**janisa** to make known, to inform  
+**uni**
+one
+→ **uniki**
+only, sole, single  
+**dome**
+– home  
+**domiki**
+– domestic  
+**novi**
+new
+→ **novike**
+novice, newbie
+
+
+#### -it-
+
+Passive participle and causative suffix.
+
+**sava** to know  
+**saviti** known  
+**savita** to make known, to inform  
 **nota** to note  
-**notisa** to notify  
+**notita** to notify  
 
 #### -ist-
 
@@ -278,17 +285,18 @@ In Pandunia, function words have the following characteristics:
     - **-a** indicates a preposition
     - **-u** indicates a postposition
 
-|  | Idea                   | -e (noun or pronoun)   | -i (modifier)          | -o (adverb)            | -a (preposition)       | -u (postposition)      |
+|  | Idea                   | -e (pronoun)           | -i (modifier)          | -o (adverb)            | -a (preposition)       | -u (postposition)      |
 |--|:-----------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 | 1| 1st person pronoun     | **me**<br>I            | **mi**<br>my           |                        |                        |                        |
 | 2| 2nd person pronoun     | **te**<br>you          | **ti**<br>your         |                        |                        |                        |
 | 3| 3rd person pronoun     | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
-| 5| Interrogative          | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         |                        |                        |
-| 6| Near demonstrative     | **ye**<br>this one     | **yi**<br>this         | **yo**<br>thus         |                        |                        |
-| 7| Far demonstrative      | **we**<br>that one     | **wi**<br>that         | **wo**<br>so           |                        |                        |
-| 8| Negation / absence     |                        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      | **nu**<br>-less        |
-| 9| Affirmation / presence |                        | **si**<br>yes          |                        | **sa**<br>with, by, at | **su**<br>-ed, -ful    |
+| 4| Interrogative          | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         |                        |                        |
+| 6| Negation / absence     | **ne**<br>nothing      | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      |                        |
+| 7| Sameness               | **se**<br>self         | **si**<br>own          |                        | **sa**<br>be           |                        |
+| 8| Alternative            |                        |                        | **yo**<br>else         | **ya**<br>or           |                        |
+| 9| Addition               |                        |                        | **wo**<br>also         | **wa**<br>and, with    |                        |
 |10| Possession             |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
-|11| Destination            |                        |                        |                        | **pa**<br>to, for      | **pu**<br>-ward, -bound|
-|12| Origin                 |**ze**<br>origin, the self|**zi**<br>own         |                        | **za**<br>from, since  | **zu**                 |
+| 5| Location               |                        |                        |                        | **a**<br>at, in, on    |                        |
+|11| Destination            |                        |                        |                        | **pa**<br>to, for      |                        |
+|12| Origin                 |                        |                        |                        | **za**<br>from, since  |                        |
 
