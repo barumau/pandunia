@@ -7,7 +7,7 @@ They are put before the word or phrase that they qualify.
 – one star  
 **duli xing**
 – two stars  
-**tini xing**
+**sani xing**
 – three stars  
 **shawi xing**
 – few stars  
@@ -18,7 +18,7 @@ They are put before the word or phrase that they qualify.
 – one big chair  
 **duli day kurse**
 – two big chairs  
-**tini bon kurse**
+**sani bon kurse**
 – three good chairs
 
 Ordinal numbers come after the word that they modify.
@@ -27,7 +27,7 @@ Ordinal numbers come after the word that they modify.
 – the first part (part one)
 **fen duli**
 – the second part (part two)
-**fen tini**
+**fen sani**
 – the third part (part three)
 
 The basic number words are:
@@ -35,7 +35,7 @@ The basic number words are:
 - 0 **nol**
 - 1 **un**
 - 2 **duli**
-- 3 **tini**
+- 3 **sani**
 - 4 **chari**
 - 5 **limi**
 - 6 **sisi**
@@ -49,7 +49,7 @@ exactly like they are written in the universal numerical language of mathematics
 - 10 **un nol** or **desi**
 - 11 **un un**
 - 12 **un duli**
-- 13 **un tini**
+- 13 **un sani**
 - 20 **duli nol**
 - 21 **duli un**
 - 22 **duli duli**
@@ -83,6 +83,29 @@ Fractions are formed with the help of
 – a half, ½  
 **uni charfen**
 – a quarter, ¼  
-**tini charfen**
+**sani charfen**
 – three quarters, ¾
+
+
+## Days of the week
+
+In naming the days of the week, a number indicating the day (starting from Monday) is followed by
+**yom**
+which means the period of 24 hours.
+So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'three-day', etc.
+
+1. **unyom**
+   Monday
+2. **dulyom**
+   Tuesday
+3. **sanyom**
+   Wednesday
+4. **charyom**
+   Thursday
+5. **limyom**
+   Friday
+6. **sisyom**
+   Saturday
+7. **setyom**
+   Sunday
 

@@ -499,6 +499,7 @@ chapat:e|chapate|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:cha
 char:i|chari|||rus:четыре (chetyre), hye:չորս (čʿors), hin:mar:चार (cār), ben:চার (car), pan:ਚਾਰ (chār), guj:ચાર (cār), may:catur|four (4)|quatre (4)|cuatro (4)|quatro (4)|четыре (4)||四 (4)|四 (4)||||||||kvar (4)|neljä (4)|cztery (4)
 char.gon:|chargon||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
 char.mes:|charmes|mese|||April||abril|||||４月|||||||||huhtikuu|lipiec
+char.yom:|charyom||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
 charm:e|charme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 chat:e|chate|||hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|roof||techo (tejado)|||||||||||||tekto|katto (katos)|dach
 chay:|chay|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
@@ -646,7 +647,7 @@ dem.o.krat:ia|demokratia|||eng:democracy, rus:демократия (demokratiya)
 dem.o.krat.ist:e|demokratiste||||democrati||demócrata||||||||||||||demokraatti|demokrata
 dem.o.mult:ia|demomultia||||population||||||||||||||||väenpaljous|populacja
 demon:|demon|||eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:демон (demon)|demon||demonio|||||悪魔||||||||demono|demoni (piru)|demon
-den:|den|||hin:दिन (din), ben:দিন (din), rus:день (deń), yue:天 (tin), zho:天 (tiān)|day (daytime)||día (durante el día)|||||日||||||||tago|päivä|dzień
+den:|den|||rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:天 (tiān), yue:天 (tin1)|day (daytime)|jour|día|dia|день|يَوْم‎|白天|昼|낮||दिन|দিন|hari (siang)|mchana|gündüz|tago|päivä|dzień
 den.yam:|denyam||||lunch||almuerzo|||||昼食||||||||tagmanĝo|lounas|obiad, lunch
 deng:a|denga|||zho:等 (děng),  yue:等 (dang2)|wait||esperar|||||||||||||atendi|odottaa|czekać
 des:i|desi|||por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|ten (10)||diez (10)|||||十 (１０)||||||||dek (10)|kymmenen (10)|dziesięć (10)
@@ -739,6 +740,7 @@ dul.mes:|dulmes|mese|||February||febrero|||||２月|||||||||helmikuu|maj
 dul.romans:i|dulromansi||||biromantic||birromántico|||||||||||||||biromantyczny
 dul.seks:i|dulseksi||||bisexual||bisexual||||||||||||||biseksuaali|biseksualny
 dul.sond:i|dulsondi||||stereophonic||||||||||||||||stereofoninen|
+dul.yom:|dulyom||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiisai|wtorek
 duman:|duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|smoke||humo|||||||||||||fumo|savu|dym
 dun:i|duni||||global||global (mundial)|||||||||||||tera|maailman-|globalny
 dun:ia|dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
@@ -1832,8 +1834,8 @@ kushloke|kushloke|||fra:eng:couchette, ita:cuccetta, pol:kuszetka|berth (couchet
 kushu|kushu||||lie (lie down)|être couché|acostarse (echarse, tenderse, tumbarse)|estar deitado (jazer)|лежать||躺|寝転ぶ|놓이다|nằm|लेटना (पड़ना)|||kulala||kuŝi|maata (makoilla)|leżeć
 Kuwaitia|Kuwaitia|desh|KW||Kuwait||Kuwait||||||||||||||Kuwait|Kuwejt
 L|L||||L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L
-l:e|le||||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
-l.o.l:e|lole||||they||ellos o ellas||||他们|||||||||ili|he|oni
+l:e|le|pron.|||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
+l.o.l:e|lole|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
 labe|labe|||fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|lip||labio|||||||||||||lipo|huuli|warga
 lada|lada|||eng:load, deu:laden, pol:ładować|load (to charge)||cargar||||||||||||||ladata|naładować, załadować, obładować, ładować
 lage|lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
@@ -1931,6 +1933,7 @@ lim:i|limi|||may:tgl:lima, mlg:dimy|five (5)|cinq (5)|cinco (5)|cinco (5)|пят
 lim.fas:|limfas||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
 lim.gon:|limgon||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
 lim.o.mes:|limomes|mese|||May||mayo|||||５月|||||||||toukokuu|sierpień
+lim.yom:|limyom||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
 limit:e|limite|||eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|limit (boundary)||límite (frontera, linde)||||||||||||||raja|limit, granica
 limit:i|limiti||||finite (limited)|||||||||||||||||skończony (ograniczony)
 limon:|limon|biw|Citrus limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon|citron|limón|limão|лимон||柠檬|レモン|||नींबू||jeruk lemon (limau)||limon|citrono|sitruuna|cytryna
@@ -2002,6 +2005,9 @@ luv:e|luve||eng:love, rus:любовь (l’ubov’), hin:लोभ (lobh), ltn:
 luv:i|luvi||||dear (beloved)|cher|querido|querido (caro)|||亲爱的|愛しい|||प्यारा|||||kara|rakas (armas)|kochany (drogi)
 luv.er:|luver||||lover|amoureux|amante (enamorado)|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja|
 M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
+m:e|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
+m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
+m.o.m:e|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
 Madagasi|Madagasi|desh|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 madagasi|madagasi||||Malagasy||malgache||||||||||||||malagassi|madagaskarski; malagaski
 Madyar|Madyar|desh|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
@@ -2113,7 +2119,6 @@ mayimi|mayimi||||maximal||máximo||||||||||||||enimmäis-|maksymalny
 mayori|mayori|||fra:majeur, eng:major, spa:mayor|major (not minor)||mayor||||||||||||||enemmistö-|większościowy, wiodący, główny
 mayoria|mayoria|||spa:mayoría, por:maioria, eng:majority, fra:majorité|majority||mayoría||||||||||||||enemmistö|większość
 Mayote|Mayote|desh|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
-me|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 mecha|mecha||||compete (have a match)||competir||||||||||||||otella|konkurować, rywalizować; odbyć mecz, odbywać mecz
 meche|meche|||eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|match (contest)|match|partido|partida|матч||比赛|試合 (競技)|경기||मैच|ম্যাচ|perlawanan|mechi|||ottelu (matsi)|mecz, rywalizacja
 medal|medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|medallion (medal)||medallón||||||||||||||mitali|medalion, medal
@@ -2169,7 +2174,6 @@ metre|metre|||eng:meter, hin:मात्रा (mātrā), ben:মাত্র�
 mey (meyi)|mey (meyi)|||zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|every (each)||cada||||每|毎||||||||ĉiu(j)|joka (jokainen)|każdy, wszyscy
 meze|meze|||por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|table|table|mesa|mesa|стол|طَاوِلَة|桌子|机 (テーブル)|||मेज़||meja|meza|masa|tablo|pöytä|stół
 mezistan|mezistan||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
-mi|mi||||my||mi|||||私の||||||||mia|minun|mój
 Mianma|Mianma|desh|MM||Myanmar (Burma)||Myanmar (Birmania)|||||||||||||Birmo|Myanmar (Burma)|Mjanma, Birma
 mien|mien|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
 migra|migra||||move (migrate, relocate)||migrar (emigrar, tralsadar)||||搬家||||||||||muuttaa (siirtää)|ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)
@@ -2241,7 +2245,6 @@ molia|molia|||zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:m
 moliden.em:|molidenum|mate|Mo||molybdenum||molibdeno|||||||||||||molibdeno|molybdeeni|molibden
 molsheke|molsheke||||grindstone (millstone)|meule|muela|mó|жёрнов||磨石||||||||||myllynkivi|ostrzarka (kamień młyński)
 moluske|moluske|biw|Mollusca|eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|mollusk||molusco||моллюск||||||||moluska|||molusko|nilviäinen|mięczak (morski bezkręgowiec)
-mome|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
 Monako|Monako|desh|MC||Monaco||Mónaco||||||||||||||Monaco|Monako
 mongoli|mongoli||||Mongol||mongol|||||||||||||mongola|mongoli|Mongolski
 Mongolia|Mongolia|desh|MN||Mongolia||Mongolia|||||||||||||Mongolio|Mongolia|Mongolia
@@ -2982,6 +2985,11 @@ samsifa|samsifa||||emulate (simulate, mimic, model)||simular|||||シミュレー
 samsifi|samsifi||||similar (analogous)||similar|||||同じよう (近い)|||||||||samanlainen|podobny (analogiczny)
 samsifia|samsifia||||model (similarity, simulation)|simulation|modelo (similitud, simulación)|simulação|симуляция||模型|模型 (類似, シミュレーション)||||||||||model (podobieństwo, symulować)
 samu|samu||||resemble (be like)||parecerse a|||||||||||||||być podobnym, być jak
+san:|san|||zho:三 (sān), yue:三 (sam1), jpn:三 (san), kor:삼 (sam), vie:tam, tha:สาม (saam)|three (3)|trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)
+san.gon:|sangon||||triangle||triángulo||||||||||||||kolmio|trójkąt
+san.mes:|sanmes|mese|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
+san.yom:|sanyom||||Wednesday|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merredo|keskiviikko|środa
+san.zong:|sanzong||||trident||tridente||трезубец||三叉戟|三つまた (トライデント)||||||||||trójząb
 sanduiche|sanduiche|||eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|sandwich|sandwich|sándwich (sánduche)|sanduíche|сандвич|سَانْدَوِيتْش|三明治 (三文治)|サンドイッチ|||सैंडविच||roti lapis (sandwic).||||voileipä|kanapka
 sanduke|sanduke|||swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|box (chest)||caja (baúl, cofre, estuche)||сундук|||||||||sanduku|sandık|skatolo (kesto)|laatikko|pudło, skrzynia
 sang|sang|||fra:sang, spa:sangre, por:sangue|blood|sang|sangre|sangue|кровь||血|血|피|máu|ख़ून (रक्त)|রক্ত|darah|damu|kan|sango|veri|krew
@@ -3026,10 +3034,9 @@ sekurkode|sekurkode||||password (security code)||contraseña|||||||||||||||hasł
 sekurnombre|sekurnombre||||personal identification number (PIN)||número de identificación personal|||||暗証番号||||||||||osobisty numer identyfikacyjny (pin)
 selenem|selenem|mate|Se||selenium||selenio|||||||||||||seleno|seleeni|selen
 selge|selge|biw|Beta vulgaris subsp. vulgaris, Cicla|ara:سلق (silqa), spa:por:acelga|chard|blettes (bettes)|acelga||мангольд|||フダンソウ (スイスチャード)||||||||||boćwina (botwina)
-sem|sem|||fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|seed (semen)|semence|semilla|semente|семя||种||||बीज|বীজ|biji||tohum|semo|siemen|ziarno (nasienie)
-seman|seman|||spa:por:semana, fra:semaine|week||semana||||週|||||||||semajno|viikko|tydzień
-semdan|semdan||||seed (fertilized grain)||pepita||||种子|種|||||biji benih||||siemenjyvä|ziarno, nasienie
-semi|semi||||seminal|séminal|seminal|seminal|семенной||种子的|||||||||sema|siemen-|nasienny
+sem:|sem|||fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|seed (semen)|semence|semilla|semente|семя||种||||बीज|বীজ|biji||tohum|semo|siemen|ziarno (nasienie)
+sem:i|semi||||seminal|séminal|seminal|seminal|семенной||种子的|||||||||sema|siemen-|nasienny
+sem.dan:|semdan||||seed (fertilized grain)||pepita||||种子|種|||||biji benih||||siemenjyvä|ziarno, nasienie
 sen|sen|||fra:scène, spa:escena, rus:сцена (scena), deu:Szene, tur:sahne, fas:(sahne)|stage (scene)||escenario||сцена||||||||||||lava (näyttämö)|scena
 Senegal|Senegal|desh|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
 sensa|sensa||||sense (perceive, detect)||sentir (detectar)||||||||||||||aistia|czuć (poczuć, postrzegać, wykrywać)
@@ -3045,6 +3052,7 @@ serve|serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:serv
 server|server||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilija)|sługa
 sesam|sesam|biw|Sesamum indicum|tur:susam, eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim)|sesame||ajonjolí (sésamo)||||||||||||||seesami|sezam
 Seshel nesia|Seshel nesia|desh|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
+set.yom:|setyom||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
 seti|seti|||spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), tha:เจ็ด (chet), yue:七 (chat1), jpn:七 (shichi), tur:yedi|seven (7)|sept (7)|siete (7)|sete (7)|семь (7)|七 (7)|七 (7)|||||||||sep (7)|seitsemän (7)|siedem (7)
 setomes|setomes|mese|||July||julio|||||７月|||||||||heinäkuu|październik
 shakal|shakal|biw||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
@@ -3180,6 +3188,7 @@ sirk.o.pur.ship:i|sirkopurshipi||||pickled|décapé (mariné)|encurtido||мар�
 sirk.o.pur.ship:i hiar|sirkopurshipi hiar||||gherkin (pickle)|concombre confit (cornichon)|pepinillo|||||||||||||||korniszon
 siro motu|siro motu||||sneak||colarse|||||||||||||||skradać się
 sirplan|sirplan||||conspiracy (plot)|complot (conspiration)|complot (conspiración)|complô (conspiração)|заговор (сговор)||阴谋 (密谋)|陰謀|음모||||||komplot||juoni (salaliitto)|spisek (konspiracja)
+sis.yom:|sisyom||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
 sisfas|sisfas||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
 sisgon|sisgon||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 sisi|sisi|||eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
@@ -3290,6 +3299,9 @@ Svenia|Svenia|desh|SE||Sweden||Suecia||||||||||||||Ruotsi|Szwecja
 Swati|Swati|desh|SZ||Eswatini (Swaziland)||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi
 Swisia|Swisia|desh|CH||Switzerland||Suiza||||||||||||||Sveitsi|Szwajcaria
 T|T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T
+t:e|te|pron.||fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
+t:i|ti||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
+t.o.t:e|tote|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
 tabak:e|tabake|biw|Nicotiana tabacum|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco||tabaco|||||||||||||tabako|tupakka|tytoń
 tabl:a dat:e|tabla date||||tabulate||tabular||||||||||||||taulukoida|ułożyć w trabelę
 tabl:e|table|||eng:table, fra:tableau, spa:tabla, rus:табличка (tablichka), may:tabel, tur:tablo|slab (slate, tablet, board)||tabla (lámina, plancha)||плита||||||बोर्ड||||tahta||laatta (levy)|
@@ -3335,7 +3347,6 @@ tave|tave|||hin:तवा (tavā), tur:tava, fas:(tābe)|frying pan||sartén||||
 tayi|tayi||||Thai||tailandés|||||||||||||tajlanda|thai|tajski
 tayia|tayia||||Thailand||Tailandia|||||||||||||Tajlando|Thaimaa|Tajlandia
 tazi|tazi|||tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|fresh|frais|fresco||свежий||新鲜的|||||||||freŝa|tuore (raikas)|świeży
-te|te|pron.||fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
 tehne|tehne|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|technique (technology)|technique|técnica|técnica|техника||技术|技術|기술|kỹ thuật|||teknik||teknik|tekniko|tekniikka (keino, menetelmä)|technika, technologia
 tehnem|tehnem|mate|Tc||technetium||tecnetio|||||||||||||teknecio||technet
 tehnokratia|tehnokratia||||technocracy||tecnocracia||||||||||||||teknokratia|technokracja
@@ -3382,20 +3393,15 @@ teste|teste|||eng:fra:test, rus: тест (test), por:teste, tur:test|test (try,
 Tetis|Tetis|planete 6 lune 3|||Tethys|||||||||||||||||
 tezi|tezi|||hin:तेज़ (tez), urd:(tez), fas:(tiz)|intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)||intenso (brusco, ácido, fuerte, afilado, rápido)||||||||||||||kiihkeä (väkevä, voimakas, vahva, kova)|intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)
 tezu|tezu||||intensify|||||||||||||||||wzmacniać się (wzmagać, pogłębiać się)
-ti|ti||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
 tichin|tichin|||zho:提琴 (tíqín), yue:提琴 (tai4 kam4), uu:提琴 (di jin3), jpn:提琴 (teikin)|bow instrument (violin, etc.)||instrumento de arco||||||||||||||jousisoitin|chordofon, instrument strunowy
 tike|tike|||fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)|piece (nugget, tikka)||pedazo||||||||||||||pala|tikka
 tikete|tikete|||eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|ticket|billet|boleto|bilhete|билет||票||||टिकट||tiket||bilet||lippu (piletti)|bilet
 tim|tim|||eng:team, deu:Team, swa:timu, hin:टीम (ṭīm), jpn:チーム (chīmu), kor:팀 (tim)|team|équipe|equipo||команда||队||||||||||joukkue (tiimi)|drużyna
 Timor|Timor|desh|||Timor||Timor||||||||||||||Timor|Timor
-ting|ting|||zho:停 (tíng), yue:停 (ting4), wuu:停 (din2), vie:đình|stop||parada (alto)|||||||||||||halto|pysähdys|stop; przerwa, zatrzymanie
-tinga|tinga||||stop (halt)||parar (detener)|||||||||||||haltigi|pysäyttää|zatrzymać
-tingon|tingon||||triangle||triángulo||||||||||||||kolmio|trójkąt
-tingu|tingu||||stop (halt)||pararse (detenerse)|||||止まる||||||||halti|pysähtyä|zatrzymać się
-tini|tini|||hin:तीन (tīn), ben:তিন (tin), urd:(tīn)|three (3)|trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)
-tinmes|tinmes|mese|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
-tinzong|tinzong||||trident||tridente||трезубец||三叉戟|三つまた (トライデント)||||||||||trójząb
-tipe|tipe|||eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|type (kind, genre)||tipo (género)|||||種類||||||||||typ (rodzaj, gatunek)
+ting:|ting|||zho:停 (tíng), yue:停 (ting4), wuu:停 (din2), vie:đình|stop||parada (alto)|||||||||||||halto|pysähdys|stop; przerwa, zatrzymanie
+ting:a|tinga||||stop (halt)||parar (detener)|||||||||||||haltigi|pysäyttää|zatrzymać
+ting:u|tingu||||stop (halt)||pararse (detenerse)|||||止まる||||||||halti|pysähtyä|zatrzymać się
+tip:e|tipe|||eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|type (kind, genre)||tipo (género)|||||種類||||||||||typ (rodzaj, gatunek)
 tir:a|tira|||spa:por:tirar, fra:tirer, eng:tear, tur:tire|pull (draw, drag)||tirar|||||||||||||tiri|vetää (kiskoa)|ciągnąć
 tir:a milk:e|tira milke||||milk (draw milk)|tirer|ordeñar||тянуть||拉|||||||||melki|lypsää maitoa|wydoić, doić
 tir:a pil:|tira pil||||strip (peel)|écorce|quitar (pelar)||ободрать||削 (刮去)|はがす (剥ぐ)||||||||||obrać (obierać)
@@ -3422,7 +3428,6 @@ tope|tope|||may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), ta
 torem|torem|mate|Th||thorium||torio|||||||||||||torio||tor
 torse|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortuge|tortuge|biw|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
-tote|tote|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
 totol|totol|biw||nah:totolin, spa:totol, yor:tòlótòló, ibo:torotoro|turkey||totol||||||||||||||kalkkuna|indyk
 towal|towal|||fra:touaille, eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|towel||toalla|toalha|||||||तौलिया|||||viŝilo|pyyhe|ręcznik
 transa|transa||||transit (pass through or across)||transitar (atravesar)||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
@@ -3479,6 +3484,7 @@ un.men:i|unmeni||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jedno
 un.mes:|unmes|mese|||January||enero|||||１月|||||||||tammikuu|styczeń
 un.ok:i lens:e|unoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un.rang:i|unrangi||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
+un.yom:|unyom||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
 ungl:e|ungle|||hin:उंगली (uṅglī), ben:অঙ্গুলি (ôṅguli), guj:આંગળી (ā̃gaḷī), pli:aṅguli|finger (toe)||dedo|dedo|палец||手指|指|||उंगली|আঙুল|jari|kidole|parmak|fingro|sormi tai varvas|palec
 ungl.o.ring:|ungloring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
 ur:a|ura|||rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|cheer (hurrah, hooray)|hourra|hurra|urra|ура||好哇||||जय हो||||||hurraa (hurrata)|wiwatować; hura
@@ -3512,14 +3518,6 @@ vampirbalsenter|vampirbalsenter|biw|Vampyroteuthis infernalis||vampire squid|vam
 vanadem|vanadem|mate|V||vanadium||vanadio||||||||||||||vanadiini|wanad
 vanil|vanil|||eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|vanilla||vainilla||||||||||||||vanilja|wanilia
 Vanuatu|Vanuatu|desh|VU||Vanuatu||Vanuatu||||||||||||||Vanuatu|Vanuatu
-var|var|||hin:mar:वार (vār), ben:বার (bar)|day of the week||día de la semana|||||曜日|||||||||viikonpäivä|dzień tygodnia
-var 1 (var uni)|var 1 (var uni)||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
-var 2 (var duli)|var 2 (var duli)||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiisai|wtorek
-var 3 (var tini)|var 3 (var tini)||||Wednesday|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merredo|keskiviikko|środa
-var 4 (var chari)|var 4 (var chari)||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
-var 5 (var limi)|var 5 (var limi)||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
-var 6 (var sisi)|var 6 (var sisi)||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
-var 7 (var seti)|var 7 (var seti)||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
 Vatikan|Vatikan|desh|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vaze|vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|pot (vase, bin, jar, jug)|vase|jarrón (bote)||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
 venda|venda|||eng:vend, spa:por:vender, fra:vendre|sell (vend)|vendre|vender|vender|продать||卖|売る||||||||||sprzedać (sprzedawać)
@@ -3659,6 +3657,8 @@ yoga|yoga||||do yoga||hacer yoga||||||||||||||joogata|uprawiać jogę
 yoge|yoge|||hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|yoga||yoga||йога||瑜伽功|||||||||jogo|jooga|joga
 yogiste|yogiste||||yogi||yogui||||||||||||||joogi|jogin (joginka)
 yohani feste|yohani feste||||Saint John's Day||día de San Juan||Иванов день||||||||||||juhannus (kristillinen juhla)|dzień świętego Jana
+yom:|yom|||ara: يَوْم‎ (yawm), hin:यौम (yaum), may:yaum, heb: יוֹם‎ (yom)|day (24 hours)||||сутки|يَوْم‎|日|日||||||siku|gün|tago (periodo de 24 horoj)|vuorokausi|
+yom.set:e|yomsete||||week||semana||||週|||||||||semajno|viikko|tydzień
 yongopetre|yongopetre||||lava|lave|lava||||熔岩|溶岩||||||||||lawa
 yongosaha|yongosaha||||smelt|fondu|||||熔炼|||||||||||topić (upłynnić, upłynniać)
 yongu|yongu|||zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|melt (be liquified)|melt|derretirse|derretre|||融化|溶ける||||||||||topnieć (upłynniać się)
