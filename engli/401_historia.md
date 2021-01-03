@@ -124,6 +124,8 @@ in Oxford Research Encyclopedias.
 Pandunia version 1.0 is published.
 [*](https://github.com/barumau/pandunia/commit/6be2c56a130f9ed16effc8869c869472bcbff7c4)
 
+Aleks records his [30 day challenge to learn Pandunia](https://twitter.com/XanderLeaDaren/status/1114972322157465612).
+
 Work for version 2.0 is started.
 
 #### 2020
