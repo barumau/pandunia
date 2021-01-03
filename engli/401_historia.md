@@ -94,6 +94,11 @@ Discussion groups in Telegram instant messenger are created.
 
 #### 2017
 
+The _Interlinguistica Tartuensis_ journal publishes an article titled
+["Pandunia, a global contact language"](https://dea.digar.ee/cgi-bin/dea?a=d&d=JVinterlinguisticatrt201705.2.5.2.4).
+
+A chapter is dedicated for Pandunia in the book "Keksittyjä kieliä" (in Finnish) by Kauko Kämäräinen.
+
 The analytic grammar of Pandunia turns out to produce too often sentences
 that are ambiguous and/or difficult to understand.
 The grammar is changed for agglutinating grammar
@@ -103,7 +108,6 @@ that uses vowel endings to indicate word-classes.
 
 [Reddit discussion forum](https://www.reddit.com/r/pandunia) for Pandunia is created.
 
-A chapter is dedicated for Pandunia in the book "Keksittyjä kieliä" by Kauko Kämäräinen.
 
 #### 2018
 
@@ -118,6 +122,15 @@ in Oxford Research Encyclopedias.
 #### 2019
 
 Pandunia version 1.0 is published.
+[*](https://github.com/barumau/pandunia/commit/6be2c56a130f9ed16effc8869c869472bcbff7c4)
+
+Work for version 2.0 is started.
+
+#### 2020
+
+The alphabet is changed to conform better to the international standards.
+[*](https://github.com/barumau/pandunia/commit/9337bbbdb54e72f019d1738159e38427f15c1a34)
+
 
 #### Miscellaneous
 
