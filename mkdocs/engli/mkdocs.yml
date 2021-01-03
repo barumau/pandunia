@@ -10,8 +10,6 @@ nav:
     - 'Info':
         - 'Introduction': dunia_baxe.md
         - 'Principles': filsof.md
-        - 'Questions & Answers': eske_i_jawabe.md
-        - 'Translate this site': tarja_netoloke.md
     - 'Grammar and Rules':
         - 'The basic rules': 100_bazi_kanune.md
         - 'World words': 101_duni_lekse.md
@@ -32,4 +30,8 @@ nav:
         - 'English-Pandunia': engli-pandunia.md
         - 'Origins of words': leksaslia.md
         - 'Search': tiddly.html
+    - 'Appendix':
+        - History: 401_historia.md
+        - 'Questions & Answers': eske_i_jawabe.md
+        - 'Translate this site': tarja_netoloke.md
 
