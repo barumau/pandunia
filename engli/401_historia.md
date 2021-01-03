@@ -1,7 +1,8 @@
 # History of Pandunia
 
 #### 2000
-Risto Kupsala, a young student in Finland,
+
+Risto Kupsala, a young student of computer engineering in Finland,
 finds out about the classical auxiliary languages,
 Esperanto, Ido, Volapük and Interlingua.
 Inspired by them, he soon creates several crude drafts of an Europe-centred constructed auxiliary language.
@@ -50,14 +51,14 @@ Jens reforms Dunia Patwa into _Neo Patwa_.
 #### 2007
 
 Risto and Jens work again together for a while.
-This project _Pangaia_ and
+This project is called _Pangaia_ and
 it has analytic grammar and evenly global vocabulary.
 
 Risto publishes the first version of _Pandunia_.
 It has analytic grammar and evenly global vocabulary.
 
-In the following years Risto develops Pandunia without a clear direction.
-He is occupied by work and family life.
+In the following years Risto develops Pandunia without a real dedication or clear direction.
+He is occupied by work and raising children.
 
 #### 2010
 
@@ -65,11 +66,17 @@ Risto starts to develop an agglutinative language as a private sideproject.
 He invents the three types of verbs and their vowel endings
 (active -a, passive -u, and stative -i).
 The vowel endings are originally borrowed from Arabic verb patterns "faʕala", "faʕila" and "faʕula".
+These ideas will find their way into Pandunia several years later.
 
 ### 2012
 
 Other people learn Pandunia for the first time.
 A discussion group for Pandunia is created in Facebook social media.
+
+The learning materials are translated to Russian by Arkadii Balandin,
+who later becomes an important proponent of the _Lojban_ language.
+
+Also a translation to Esperanto is made.
 
 #### 2013
 
