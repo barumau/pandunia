@@ -55,6 +55,9 @@ He invents the three types of verbs and their vowel endings
 The vowel endings are originally borrowed from Arabic verb patterns "faʕala", "faʕila" and "faʕula".
 These ideas will find their way into Pandunia several years later.
 
+![](http://www.pandunia.info/bandir/bandera2007.gif "The 2016 flag of Pandunia")  
+Pandunia flag in 2007
+
 Finally, in 2012, other people learn Pandunia for the first time.
 [A discussion group for Pandunia](http://www.facebook.com/groups/pandunia)
 is created in Facebook social media.
