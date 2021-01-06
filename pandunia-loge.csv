@@ -666,8 +666,8 @@ dew.ist:ia|dewistia||||theism||teísmo||||||||||||||teismi (jumalusko)|teizm
 dew.krat:ia|dewkratia||||theocracy||teocracia|||||||||||||teokratio|teokratia|teokracja
 dew.loj:ia|dewlojia||||theology||teología|||||||||||||teologio|teologia|teologia
 dew.sag:e|dewsage||||myth (divine story)||mito (cuento divino)|||||||||||||mito|jumaltaru (myytti)|mit, boska opowieść
-dik:a|dika||||aim at|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|tähdätä|celować
-dik:e|dike|||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|target (aim, objective)|objectif (cible)|objetivo|objetivo|цель||目的 (目标)|標的 (ターゲット)|목표 (표적)|mục tiêu (đích)||||||celo|maali (maalitaulu, kohde)|cel
+dik:a|dika||||aim at (for, toward)|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|tähdätä (kohti)|celować
+dik:e|dike|||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike)|target (aim, objective)|objectif (cible)|objetivo|objetivo|цель||目的 (目标)|標的 (ターゲット)|목표 (표적)|mục tiêu (đích)||||||celo|maali (maalitaulu, kohde)|cel
 din:|din|||ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|religion (worship)|religion|religión|religião|религия (вера)|دين‎|宗教|宗教|종교|tôn giáo|धर्म (दीन)|ধর্ম (দীন)|agama (din)|dini|din (inanç)|religio|uskonto|religia, wyznanie
 din:i|dini||||religious||religioso|||||||||||||religia|uskonnollinen|religijny
 din.guru:|dinguru*||||priest (cleric)||sacerdote (clérigo, eclesiástico)|||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
@@ -745,12 +745,12 @@ duman:|duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūm
 dun:i|duni||||global||global (mundial)|||||||||||||tera|maailman-|globalny
 dun:ia|dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
 dun:ia bash:|dunia bash||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
-dur:|dur|||eng:duration, fra:durée, spa:por:durar, deu:Dauer|time (duration, quantity of time)|temps (durée)|tiempo (duración)|tempo (duração)|||时间||||समय (वक़्त)||waktu|wakati|vakit|daŭro|aika (kesto, kestoaika)|trwanie
+dur:|dur||||time (duration, quantity of time)|temps (durée)|tiempo (duración)|tempo (duração)|||时间||||समय (वक़्त)||waktu|wakati|vakit|daŭro|aika (kesto, kestoaika)|trwanie
 dur:a|dura||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||||||||daŭrigi|kuluttaa (viettää aikaa)|minąć, mijać (czas)
-dur:u|duru||||last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
+dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
-dur.ubl:i|durubli||||durable (sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä|trwały (wytrzymały, podtrzymywalny)
+dur.ubl:i|durubli||||durable (sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dush:|dush|||fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|shower|douche|ducha|ducha|душ|دوش|淋浴|シャワー|샤워|vòi hoa sen|शावर||dus|shawaa|duş|duŝo|suihku|prysznic
 dut:e|dute|||fra:doute, eng:doubt, spa:tgl:duda|doubt (disbelief)||duda|||||||||||||dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
 dut.abl:i|dutabli||||dubious (suspicious, unbelievable)||||||||||||||||epäilyttävä|wątpliwy (niewiarygodny, podejrzany)
@@ -1881,10 +1881,11 @@ law:|law||||elder||viejo (anciano)|||||||||||||||starzec
 law:i|lawi|||zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão|old (aged, elderly)|vieux (âgé, ancien)|viejo (anciano)|idoso|пожилой||老 (老年, 年歲大)|年配||già (lão)||||||||stary (sędziwy, wiekowy)
 law.mam:|lawmam||||grandmother||abuela|||||||||||||||babcia (babka)
 law.pap:e|lawpape||||grandfather||abluelo|||||||||||||||dziadek (dziad)
-laya|laya||||bring (move toward)|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
-layu|layu|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (go toward)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
-lazanye|lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|lazania
-lazuar|lazuar|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит||青金岩|ラピスラズリ (瑠璃)||||||||||lapis lazuli
+lay.an:a|layana||||bring (move toward)|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
+lay:a|laya|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (go toward)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
+lazany:e|lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|lazania
+lazur.shek:e|lazursheke|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит|لَازَوَرْد|青金岩|ラピスラズリ (瑠璃)|||लाजवर्द (वैडूर्य)||||lazur taşı||lapislatsuli|lapis lazuli
+lazur:i|lazuri||||azure|azur|azur (blao)|azur (blau)|лазурь|||||||||||||
 left:e|lefte|||eng:left|left||lado izquerdo|esquerdo|левый||左|左|||बायीं||kiri|kushoto|sol||vasen|lewa strona
 left:i|lefti||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej strony)
 left.ist:e|leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
@@ -2072,11 +2073,11 @@ mans:e|manse|||hin:मांस (māns), urd:(māns), ben:মাংস (maŋs),
 mant:e|mante|||tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mántóu), fas:urd:(mantu)|steamed bun (mantou, manti)||panecillos al vapor (mantou)||||||||||||||täytetty pulla|bułka gotowana na parze
 mantol:|mantol|||eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel|cape (cloak, mantle)|cape|capa (manto)|capa|плащ (накидка)||斗篷|マント (ケープ)||||||||||peleryna (płaszcz, opończa)
 mar:|mar|||ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal|time (instance, occasion)|fois|vez|vez|раз|مرة|次 (度, 遍)|回 (次, 度)|회 (번, 차)|lần|बार (दफ़ा)|||mara|kere (defa)|fojo|kerta (vuoro)|czas; okazja
-maragay|maragay|biw|Leopardus wiedii|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|margay|margay (chat-tigre)|gato tigre (maracayá)|gato-maracajá|маргай||長尾虎貓|マーゲイ||||||||||margaj (ocelot nadrzewny)
-marati|marati|nas|||Marathi||maratí||||||||||||||marathi (eräs intialainen kieli)|marathi
+margay:|margay|biw|Leopardus wiedii|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|margay|margay (chat-tigre)|gato tigre (maracayá)|gato-maracajá|маргай||長尾虎貓|マーゲイ||||||||||margaj (ocelot nadrzewny)
+marat:i|marati|nas|||Marathi||maratí||||||||||||||marathi (eräs intialainen kieli)|marathi
 maraton|maraton|||eng:marathon, spa:maratón, por:maratona, rus:марафо́н (marafón), tur:maraton, ara:مَارَاثُون‎ (mārāṯūn), hin:मैराथन (mairāthan), ben:ম্যারাথন (mjarathôn), zho:马拉松 (mǎlāsōng), jpn:マラソン (marason)|marathon||maratón|||||||||||||maratono|maratoni|maraton
-marche|marche|||eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi||marche|marcha|marcha|марш|||||||||machi|marş|promeno (marŝo)|kävely (marssi)|
-marchu|marchu||||walk (march)||caminar (marchar, andar)|||||||||||||promeni (marŝi)|kävellä|iść, maszerować
+march:e|marche|||eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi||marche|marcha|marcha|марш|||||||||machi|marş|promeno (marŝo)|kävely (marssi)|
+march:a|marcha||||walk (march)||caminar (marchar, andar)|||||||||||||promeni (marŝi)|kävellä|iść, maszerować
 margarin|margarin|||eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)|margarine||margarina|||||||||||||margarino|margariini|margaryna
 margarite|margarite|biw||spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|daisy||margarita|margarida|маргаритка|||||||||||||stokrotka
 Marian nesia|Marian nesia|desh|MP||Northern Mariana Islands||Islas Marianas|||||||||||||||Mariany Północne
@@ -3671,7 +3672,7 @@ yumoriste|yumoriste||||humorist||humorista|||||||||||||humuristo|humoristi|komik
 yuterbem|yuterbem|mate|Yb||ytterbium||iterbio|||||||||||||iterbio|ytterbium|iterb
 yutrem|yutrem|mate|Y||yttrium||itrio|||||||||||||itrio|yttrium|itr
 Z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
-z:a|za|||rus:из (iz), pol:cze:z + fas: از‎ (az) + zho:自 (zì) + ned:zich, deu:sich, fra:por:spa:se|from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
+z:a|za|||rus:из-за (iz-za), pol:z,za + fas: از‎ (az) + zho:自 (zì) + ned:zich, deu:sich, fra:por:spa:se|from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
 z:e|ze||||self (reflexive pronoun)|se|se|se|себя (-ся)|||||||||||si|itse|sam, siebie
 zaitun:|zaitun|biw||ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|olive||aceituna|||||||||||||olivo|oliivi|oliwka
 zalim:i|zalimi|||ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|mean (cruel)||mezquino (antipático)||||||||||||||ilkeä (julma)|złośliwy, okrutny
