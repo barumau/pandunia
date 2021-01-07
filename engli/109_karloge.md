@@ -181,11 +181,11 @@ The verb types are summarized in the table below.
 | Noun           | Stative verb   | Passive verb   | Active verb    |
 |----------------|----------------|----------------|----------------|
 | **suke**       | **suki**       | **suku**       | **suka**       |
-| joy, pleasure  | joyful, happy  | enjoy, like    | please         |
+| joy, pleasure  | joyful, happy  | please         | enjoy, like    |
 | **nide**       | **nidi**       | **nidu**       | **nida**       |
-| need           | needy          | need           | cause need     |
+| need           | needy          | be needed      | need           |
 | **vol**        | **voli**       | **volu**       | **vola**       |
-| want           | wanting        | want           | cause want     |
+| want           | wanting        | be wanted      | want           |
 | **tam**        | **tami**       | **tamu**       | **tama**       |
 | greed          | greedy         | covet, hog     | make greedy    |
 | **fobe**       | **fobi**       | **fobu**       | **foba**       |
@@ -193,7 +193,7 @@ The verb types are summarized in the table below.
 | **lay**        | **layi**       | **layu**       | **laya**       |
 | arrival        |                | come, arrive   |bring, make come|
 | **fuke**       | **fuki**       | **fuku**       | **fuka**       |
-| clothing       | clothed        | wear           |dress, make wear|
+| clothing       | clothed        | be worn        | wear           |
 | **dur**        | **duri**       | **duru**       | **dura**       |
 | time, duration | lasting        | last, take time| spend, put time|
 
@@ -231,9 +231,31 @@ united
 
 ### Causative verbs
 
-Causative verbs express an action, which the subject causes to happen via some third party that is not mentioned.
-In Pandunia, causatives are formed with the participle suffixes.
+The causatives are the verbs that are used to indicate
+that one person causes another person to do something.
+It can be by asking, paying, requesting, or forcing the person.
 
+Sometimes the simple active verb is causative.
+
+**Tomas pada Yusef.**
+– Thomas drops Yusef.  
+**Yusef padu.**
+– Yusef falls.
+
+In other situations, the causative is formed by using one of the participle suffixes.
+**-ana** means that someone causes someone to do something.
+**-ita** means that someone causes something to be done to someone or something.
+
+**Sara padana Tomas.**
+– Sara causes Thomas to drop (something).  
+**Sara padita Yusef.**
+– Sara causes Yusef to be dropped.
+
+Here is a more complete example.
+Note that "to feed" has two different causative meanings in English.
+
+**pesh yamu.**
+– Fish is eaten.  
 **maw yama pesh.**
 – The cat eats fish.  
 **me yamita pesh pa maw.**
@@ -241,10 +263,10 @@ In Pandunia, causatives are formed with the participle suffixes.
 **me yamana maw a pesh.**
 – I feed the cat with fish.
 
-**me bina dome.**
-– I build the house.  
-**me binita dom.**
-– I have the house built.
+A causative can imply that the action is done for the causer.
+
+**me no bina dom. me binita le.**
+– I don't build the house. I have it built (for myself).
 
 
 ## Prepositions
@@ -253,19 +275,21 @@ In Pandunia, prepositions are basically a sub-category of verbs.
 
 ### Prepositions of place and time
 
-Pandunia has four prepositions of place and time.
+Pandunia has five prepositions of place and time.
 
-1. **a** - presence, location or moment (in general):
-   with, at, in, on, by
+1. **wa** - presence or togetherness:
+   with
 2. **na** - absence or lack: without
-3. **za** - origin, beginning or cause: from, since, because
-4. **pa** - destination, end or purpose: to, till, until, for, then
+3. **?a** - location or moment (in general):
+   at, in, on, by
+4. **za** - origin, beginning or cause: from, since, because
+5. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
 the preposition is complemented by a pronoun or a noun phrase.
 
-**me a hotel.** - I'm in the hotel.  
-**me sonu a hotel.** - I sleep in the hotel.  
+**me ?a hotel.** - I'm in the hotel.  
+**me sonu ?a hotel.** - I sleep in the hotel.  
 **me sonu za sham pa sube.** - I sleep since evening until morning.  
 **me safara za London pa Paris.** - I travel from London to Paris.  
 
@@ -276,19 +300,20 @@ refer to time.
 **me denga pa te laya dom.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
-#### sa
+#### ?a
 
-**sa** is an all-purpose preposition. Its basic meaning is "with".
+**?a** is an all-purpose locative preposition.
+Its basic meaning is "at".
  
-**me libu sa dome.**  
+**me libu ?a dome.**  
 _I stand with house._  
 I stand by the house.
  
-**me loga sa pandunia.**  
+**me loga ?a pandunia.**  
 _I speak with Pandunia._  
 I speak in Pandunia.
  
-**me loga sa doste sa pandunia sa fon.**  
+**me loga wa doste ?a pandunia ?a fon.**  
 _I speak with friends with Pandunia with telephone._  
 I speak with friends in Pandunia by telephone.
 
@@ -326,11 +351,14 @@ many phrases, the verb says enough alone.
 Preposition **ko** indicates manner or style. It corresponds to
 English prepositions _like_, _than_, _as_ and _as if_.
 
-**me jana pandunia ko master.** - I know Pandunia like a master.
+**me sava pandunia ko master.** - I know Pandunia like a master.
 
-**ko** relates the verb or the adjective to a point of comparison. In
-the above example **jana** (know) is the verb and **gur** (master) is
-the point of comparison.
+**ko** relates the verb or the adjective to a point of comparison.
+In the above example
+**sava**
+(know) is the verb and
+**master**
+(master) is the point of comparison.
 
 **ko** is also used when adjectives are compared.
 

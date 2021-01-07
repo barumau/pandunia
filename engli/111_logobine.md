@@ -1,6 +1,6 @@
-# Word building
+# Word derivation
 
-It's possible to build new words in Pandunia.
+New words can be built freely in Pandunia!
 Pandunia has a productive system of word derivation.
 Most of the suffixes that are used in Pandunia are already in international use.
 Many of them come from ancient Greek, Latin, Arabic and Persian.
@@ -14,11 +14,32 @@ and the vowel endings indicate different manifestations of that idea.
 
 Pandunia uses the following vowel endings to mark parts of speech.
 
-- no vowel or **-e** indicates a noun (a thing)
-- **-i** indicates an adjective (a description)
-- **-o** indicates an adverb (a manner or a circumstance)
-- **-a** indicates an active verb (an action)
-- **-u** indicates a passive verb (an event)
+No vowel or **-e** indicates a noun,
+which is the name of the thing or idea that the root is about.
+Nouns answer to the question: What?
+
+**-ia** indicates a collective noun,
+which means the totality of the things that the root is about.
+It can also indicate an abstract noun.
+For example,
+**insania**
+means "humanity" both as the collective "humankind" and as the abstract "humanhood".
+
+**-i** indicates an adjective,
+which describes the main characteristic or quality of the root.
+Adjectives answer to the following questions: What kind? How many?
+
+**-o** indicates an adverb,
+which describes a manner or a circumstance (ex. place or time).
+Adverbs answer to the following questions: How? Where? When?
+
+**-a** indicates an active verb,
+which is an action that a person can do with the corresponding noun.
+So the purpose or the potential of the noun determines the meaning of the verb.
+
+**-u** indicates a passive verb,
+which is an event that happens or an action that is done to someone.
+The meaning of a passive verb depends on the corresponding active verb.
 
 They are the only true suffixes i.e. bound morphemes in Pandunia.
 All other suffixes can be used also as independent words.
@@ -27,47 +48,66 @@ For example **paciste** (pacifist) is made up of two full words:
 
 The designated vowel endings enable easy derivation of one type of word from another.
 An ending is simply changed to another ending.
+All endings can be used on all roots in the same way.
 
-- The ending -e converts the idea into a thing.
-  For example **nile** means the color blue.
-- The ending -i converts the idea into a description.
-  The resulting modifier describes another idea with the modifying idea.
-  For example **nili dome** means a blue house.
-- The ending -a converts the idea into an action.
-  The resulting verb is about applying the idea to an object.
-  For example **nila dome** means "to make the house blue".
-- The ending -u creates an action just like -a.
+- The ending **-e** converts the idea into a thing.
+  For example, **nile** means the color blue.
+- The ending **-i** converts the idea into a description.
+  The resulting adjective describes another idea with the modifying idea.
+  For example, **nili dome** means a blue house.
+- The ending **-a** converts the idea into an action.
+  The resulting verb is about using the idea to an object.
+  For example, **nila dom** means "to make the house blue".
+- The ending **-u** creates an action just like **-a**.
   The only difference is that the word order is reversed so that the object comes first.
-  For example **dome nilu** means "the house becomes blue".
-
-All endings can be applied on all ideas in the same way.
+  For example, **dom nilu** means "the house becomes blue".
 
 Here are a few examples of different types of ideas.
 
 - concrete action
-    - **kitabe** a writing (noun)
-    - **kitabi** written, textual (adjective)
-    - **kitabo** by writing
-    - **kitaba** to write (active verb)
-    - **kitabu** to be written (passive verb)
+    - **kitabe**
+      a writing (noun)
+    - **kitabi**
+      written, textual (adjective)
+    - **kitabo**
+      by writing (adverb)
+    - **kitaba**
+      to write (active verb)
+    - **kitabu**
+      to be written (passive verb)
 - abstract action
-    - **fikre** a thought (noun)
-    - **fikri** thinking (adjective)
-    - **fikro** by thinking (adverb)
-    - **fikra** to think (active verb)
-    - **fikru** to be thought (passive verb)
+    - **fikre**
+      a thought (noun)
+    - **fikri**
+      thinking (adjective)
+    - **fikro**
+      by thinking (adverb)
+    - **fikra**
+      to think (active verb)
+    - **fikru**
+      to be thought (passive verb)
 - description
-    - **longe** length (noun)
-    - **longi** long, lengthy (adjective)
-    - **longo** lengthily (adverb)
-    - **longa** to make long, to lengthen (active verb)
-    - **longu** to get long, to be lengthened (passive verb)
+    - **longe**
+      length (noun)
+    - **longi**
+      long, lengthy (adjective)
+    - **longo**
+      lengthily (adverb)
+    - **longa**
+      to make long, to lengthen (active verb)
+    - **longu**
+      to get long, to be lengthened (passive verb)
 - tool
-    - **hamar** a hammer (noun)
-    - **hamari** "hammery", hammerlike (adjective)
-    - **hamaro** by/with/like a hammer
-    - **hamara** to hammer, to apply hammer on sth (active verb)
-    - **hamaru** to be hammered (passive verb)
+    - **hamar**
+      a hammer (noun)
+    - **hamari**
+      hammerlike, hammering (adjective)
+    - **hamaro**
+      by/with/like a hammer
+    - **hamara**
+      to hammer, to use hammer on sth (active verb)
+    - **hamaru**
+      to be hammered (passive verb)
 
 
 ### Deriving verbs
@@ -115,6 +155,7 @@ If the root is a place word, then its adjectival form will mean "that which is f
 **Amerike** America, **Ameriki** American  
 **Europe** Europe, **Europi** European  
 **Asia** Asia, **Asi** Asian
+
 
 ### Words without a vowel ending
 
@@ -289,14 +330,14 @@ In Pandunia, function words have the following characteristics:
 |--|:-----------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 | 1| 1st person pronoun     | **me**<br>I            | **mi**<br>my           |                        |                        |                        |
 | 2| 2nd person pronoun     | **te**<br>you          | **ti**<br>your         |                        |                        |                        |
-| 3| 3rd person pronoun     | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
-| 4| Interrogative          | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         |                        |                        |
-| 6| Negation / absence     | **ne**<br>nothing      | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      |                        |
-| 7| Sameness               | **se**<br>self         | **si**<br>own          |                        | **sa**<br>be           |                        |
-| 8| Alternative            |                        |                        | **yo**<br>else         | **ya**<br>or           |                        |
-| 9| Addition               |                        |                        | **wo**<br>also         | **wa**<br>and, with    |                        |
-|10| Possession             |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
-| 5| Location               |                        |                        |                        | **a**<br>at, in, on    |                        |
+| 3| 3rd person pronoun     | **le**<br>he, she, it  | **li**<br>his, her, its| **lo**<br>like that    |                        |                        |
+| 4| Interrogative          | **ke**<br>what?        | **ki**<br>whose?       | **ko**<br>how?         |                        |                        |
+| 5| Negation / absence     | **ne**<br>nothing      | **ni**<br>no-one's     | **no**<br>not          | **na**<br>without      |                        |
+| 6| Sameness               | **se**<br>self         | **si**<br>own          |                        | **sa**<br>be           |                        |
+| 7| Alternative            |                        |                        | **yo**<br>else         | **ya**<br>or           |                        |
+| 8| Addition               |                        |                        | **wo**<br>also         | **wa**<br>and, with    |                        |
+| 9| Property               |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
+|10| Location               |                        |                        |                        | **a**<br>at, in, on    |                        |
 |11| Destination            |                        |                        |                        | **pa**<br>to, for      |                        |
 |12| Origin                 |                        |                        |                        | **za**<br>from, since  |                        |
 
