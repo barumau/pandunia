@@ -107,18 +107,30 @@ Thanks for helping me.
 You're welcome. (Literally: _You're polite._)
 
 
+### sa <small>to be</small>
+
+The word **sa** can be used also for stating something as a fact. Then it is
+used in place of "to be".
+
+**me sa Tomas.**
+I am Thomas.
+
+**te sa Sara.**
+You are Sarah.
+
+**apel sa pale.**
+The apple is a fruit.
+
+
 ### me <small>I, me</small>
 
 <p style="font-size:5em;">🗨️🧑</p>
 
-**me Sara.**
+**me sa Sara.**
 I'm Sarah.
 
-**me Tomas.**
+**me sa Tomas.**
 I'm Thomas.
-
-You can introduce yourself simply by saying **me** and your name. You don't
-need a verb for saying it in Pandunia!
 
 **me salama mame.**
 I greet mother.
@@ -139,7 +151,7 @@ Greetings, mother!
 Greetings, father!
 
 <small>Etymology. **me**
-is from English: me, Hindi: मैं (meṇ), Spanish: me.</small>
+is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me.</small>
 
 
 ### te <small>you</small>
@@ -169,13 +181,13 @@ I love you.
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**le man.**
+**le sa man.**
 He is a man.
 
-**le fem.**
+**le sa fem.**
 She is a woman.
 
-**le apel.**
+**le sa apel.**
 It is an apple.
 
 **le** is the general third person pronoun. It is used for people (irrespective
@@ -232,30 +244,15 @@ Is he/she a doctor?
 **si, le mediker.**
 Yes, he is a doctor.
 
-The word **si** can be used also for stating something as a fact. Then it is
-used in place of "to be".
-
-**me si Tomas.**
-I am Thomas.
-
-**te si Sara.**
-You are Sarah.
-
-**apel si pale.**
-The apple is a fruit.
-
-<small>Etymology. **si** is from Spanish: sí, Portuguese: sim, Mandarin: 是
-"shì", Shanghaiese: 是 "sí".</small>
-
 
 ### no <small>no, not</small>
 
 <p style="font-size:5em">👎</p>
 
-**me no Sara.**
+**me no sa Sara.**
 I'm not Sarah.
 
-**me no mediker.**
+**me no sa mediker.**
 I'm not a doctor.
 
 **eska te boni?**
@@ -359,13 +356,13 @@ Note: The demonstrative pronouns have two forms.
 Forms **ye** and **ve** are used when they stand alone.
 Forms **yi** and **vi** are used when they modify another noun.
 
-**lole sa ke?**
+**lole xa ke?**
 Where are they?
 
-**lole sa ve.**
+**lole xa ve.**
 They are there.
 
-**mome sa ye.**
+**mome xa ye.**
 We are here.
 
 
@@ -391,10 +388,10 @@ So **me du** means "my", **te du** means "your" and so on.
 **le ke?**
 Who's he/she?
 
-**le si mi doste.**
+**le sa mi doste.**
 He/she is my friend.
 
-**me si Sara du doste.**
+**me sa Sara du doste.**
 I am Sarah's friend.
 
 <small>Etymology. **du**
@@ -645,10 +642,10 @@ I talk to you.
 **mome loga pa unale.**
 We talk to each other.
 
-**ze loga "cat" sa ki yange sa pandunia?**
+**ze loga "cat" xa ki yange xa pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" logu ko sa pandunia?**
+**"cat" logu ko xa pandunia?**
 How is "cat" said in Pandunia?
 
 **maw loga miaw.**
@@ -708,7 +705,7 @@ I don't understand what it means.
 **pliza kitaba ti adres.**
 Please, write your address.
 
-**pliza kitaba le sa ye.**
+**pliza kitaba le xa ye.**
 Please, write it here!
 
 
@@ -755,7 +752,7 @@ To whom should I go?
 **haida gowa!**
 Let's go!
 
-**haida gowa sa fute**
+**haida gowa xa fute**
 Let's go by foot!
 
 
@@ -776,7 +773,7 @@ I will come home tomorrow.
 
 ### safara <small>to travel</small>
 
-**eska te safara sa tren?**
+**eska te safara xa tren?**
 Do you travel by train?
 
 **mome safara za London pa Paris.**
@@ -786,29 +783,29 @@ We travel from London to Paris.
 The voyage is very long.
 
 
-### sa <small>in, on, at</small>
+### xa <small>in, on, at</small>
 
-**hotel sa ke?**
+**hotel xa ke?**
 Where is the hotel?
 
-**hotel sa vi dav.**
+**hotel xa le daw.**
 The hotel is on that road.
 
-**te sa ke?**
+**te xa ke?**
 Where are you?
 
-**me sa dom.**
+**me xa dom.**
 I'm at home.
 
-**le sa ke?**
+**le xa ke?**
 Where is he/she?
 
-**le sida sa kamar.**
+**le sida xa kamar.**
 He/she sits in the room.
 
-Tip! You can use **sa** as a preposition or alone as the verb.
+Tip! You can use **xa** as a preposition or alone as the verb.
 
-**me kara sa...**
+**me kara xa...**
 I work at ...
 
 
@@ -823,8 +820,8 @@ I live in Singapore.
 **eska te doma yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.
-However **doma** already covers the meaning of being at somewhere, so **sa** is not necessary.
+Tip: It is also okay to say **te doma xa ke?** instead of **te doma ke**.
+However **doma** already covers the meaning of being at somewhere, so **xa** is not necessary.
 
 
 ### denga <small>to wait</small>
@@ -838,7 +835,7 @@ Wait for me!
 **lole denga mome.**
 They wait for us.
 
-**me denga te sa hotel.**
+**me denga te xa hotel.**
 I wait for you in the hotel.
 
 
@@ -855,7 +852,7 @@ The man is looking at the woman.
 **le zayo shefe.**  
 He or she is currently the chief.
 
-**le zayo sa dom.**  
+**le zayo xa dom.**  
 He or she is currently at home.
 
 
@@ -870,7 +867,7 @@ The man looked at the woman.
 **le paso shefe.**  
 He or she was the chief.
 
-**le paso sa dom.**  
+**le paso xa dom.**  
 He or she was at home.
 
 
@@ -885,7 +882,7 @@ The man has looked at the woman.
 **le lewo shefe.**  
 He or she has been the chief.
 
-**le lewo sa dom.**  
+**le lewo xa dom.**  
 He or she has been at home.
 
 
@@ -900,7 +897,7 @@ The man will see the woman.
 **le vilo shefe.**  
 He or she will be the chief.
 
-**le vilo sa dom.**  
+**le vilo xa dom.**  
 He or she will be at home.
 
 
@@ -943,13 +940,13 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire si 500 dolar sa mes.**  
+**kire sa 500 dolar xa mes.**  
 The rent is 500 dollars in a month.
 
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me volu kapa un gare sa kire.**  
+**me volu kapa un gare xa kire.**  
 I want to take a car for rent.
 
 **me volu kirokapa un gare.**
@@ -975,16 +972,16 @@ I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**le si ki yang?**
+**le sa ki yang?**
 What is it like?
 
 **eska le novi?**
 Is it new?
 
-**ke si max boni?**
+**ke sa max boni?**
 Which is better?
 
-**ye si maxim boni (da pan).**
+**ye sa maxim boni (da pan).**
 This is the best (of all).
 
 **le kosta ke?**
@@ -1009,7 +1006,7 @@ Come here / back / to us.
 **me darsa pandunia.**
 I study Pandunia.
 
-**xova le pa me sa leksobuke!**
+**xova le pa me xa leksobuke!**
 Show me in the dictionary!
 **me no yada.**
 I don't remember.
@@ -1023,7 +1020,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan si okey.**
+**pan sa okey.**
 Everything is alright.
 
 ****
@@ -1038,7 +1035,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**pliza sida sa ye!**
+**pliza sida xa ye!**
 Please, sit here!
 
 **me suku stasa.**
@@ -1047,7 +1044,7 @@ I rather stand.
 ****
 With pleasure!
 
-**feste kaixu sa ki zaman?**
+**feste kaixu xa ki zaman?**
 When does the party begin?
 
 **te sahi.**
