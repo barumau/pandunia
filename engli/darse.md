@@ -236,7 +236,7 @@ chief, boss
 **danke.**
 = Thank you.  
 <big>🧓</big>
-**pliza yama kafe ya chay.**
+**pliza yama kafe o chay.**
 = Please have some coffee or tea.  
 <big>🧒</big>
 **me yama chay. danke.**
@@ -365,9 +365,9 @@ to eat or drink
 
 1. le yama chay.
 2. shef pliza le sida.
-3. pliza yama kafe ya chay.
+3. pliza yama kafe o chay.
 4. mame pliza me safa kamar.
-5. shef sida wa yama kafe.
+5. shef sida e yama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -379,7 +379,7 @@ Yes or no questions
 ### Dialog
 
 <big>👩‍🍳</big>
-**salam! eska te yama kafe ya chay?**
+**salam! eska te yama kafe o chay?**
 = Hello! Would you like to have coffee or tea?  
 <big>🧔</big>
 **chay.**
@@ -409,7 +409,7 @@ Yes or no questions
 **no yama.**
 = No.  
 <big>👩‍🍳</big>
-**danke. me dona un chay wa un kafe wa un supe sa bade da desi minute.**
+**danke. me dona un chay e un kafe e un supe sa bade da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -599,7 +599,7 @@ is more than one correct answer.
 1. le no safa kamare.
 2. un kupe no kali.
 3. duli waf no yama supe.
-4. le no tena waf wa maw. / le tena no waf wa no maw.
+4. le no tena waf e maw. / le tena no waf e no maw.
 5. shef yama chay a no kafe.
 6. mame tena no waf a duli maw.
 
@@ -671,7 +671,7 @@ something, even when not answering to a question.
 3. ki zaman le laya?
 4. sa bade da desi minute.
 5. ke saba le no yama?
-6. sabu le no suku kafe ya supe.
+6. sabu le no suku kafe o supe.
 
 
 --------------------------------------------------------------------------------

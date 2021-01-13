@@ -210,14 +210,14 @@ This is done especially in commands and requests.
 
 ### Basic conjunctions
 
-1. **wa** and (connects two similar words or phrases)
-2. **ya** or (connects two alternative words or phrases)
+1. **e** and (connects two similar words or phrases)
+2. **o** or (connects two alternative words or phrases)
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku maw wa waf.**
+**me suku maw e waf.**
 – I like cats and dogs.  
-**me suku maw ya waf.**
+**me suku maw o waf.**
 – I like cats or dogs.  
 **me suku maw a no waf.**
 – I like cats but not dogs.
@@ -237,7 +237,7 @@ In other words **si** means "to be" or "there is" and **no** means "not to be" o
 Expressions are affirmative by default, so the word **si** is not always necessary.
 However it is especially convenient in expressions of state.
 
-**me si ren.**
+**me sa ren.**
 – I am a person.  
 **le si novi meze.**
 – It is a new table.

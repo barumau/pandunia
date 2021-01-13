@@ -326,7 +326,7 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ye wa ve <small>this and that</small>
+### ye e we <small>this and that</small>
 
 **ye ke? / ke ye?**
 What's this?
@@ -334,10 +334,10 @@ What's this?
 **ye apel.**
 This is an apple.
 
-**ve ke? / ke ve?**
+**we ke? / ke we?**
 What is that?
 
-**ve oranje.**
+**we oranje.**
 That is an orange.
 
 **ye kirmi apel.**
@@ -353,16 +353,16 @@ When it follows the noun, it works as an adjectival verb.
 This is red.
 
 Note: The demonstrative pronouns have two forms.
-Forms **ye** and **ve** are used when they stand alone.
+Forms **ye** and **we** are used when they stand alone.
 Forms **yi** and **vi** are used when they modify another noun.
 
-**lole xa ke?**
+**lole va ke?**
 Where are they?
 
-**lole xa ve.**
+**lole va we.**
 They are there.
 
-**mome xa ye.**
+**mome va ye.**
 We are here.
 
 
@@ -490,7 +490,7 @@ Tip: Meaning of **yama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**me yama kafe wa pang.**
+**me yama kafe e pang.**
 I'm having coffee and bread.
 
 
@@ -642,10 +642,10 @@ I talk to you.
 **mome loga pa unale.**
 We talk to each other.
 
-**ze loga "cat" xa ki yange xa pandunia?**
+**ze loga "cat" va ki yange va pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" logu ko xa pandunia?**
+**"cat" logu ko va pandunia?**
 How is "cat" said in Pandunia?
 
 **maw loga miaw.**
@@ -705,7 +705,7 @@ I don't understand what it means.
 **pliza kitaba ti adres.**
 Please, write your address.
 
-**pliza kitaba le xa ye.**
+**pliza kitaba le va ye.**
 Please, write it here!
 
 
@@ -752,7 +752,7 @@ To whom should I go?
 **haida gowa!**
 Let's go!
 
-**haida gowa xa fute**
+**haida gowa va fute**
 Let's go by foot!
 
 
@@ -773,7 +773,7 @@ I will come home tomorrow.
 
 ### safara <small>to travel</small>
 
-**eska te safara xa tren?**
+**eska te safara va tren?**
 Do you travel by train?
 
 **mome safara za London pa Paris.**
@@ -783,29 +783,29 @@ We travel from London to Paris.
 The voyage is very long.
 
 
-### xa <small>in, on, at</small>
+### va <small>in, on, at</small>
 
-**hotel xa ke?**
+**hotel va ke?**
 Where is the hotel?
 
-**hotel xa le daw.**
+**hotel va le daw.**
 The hotel is on that road.
 
-**te xa ke?**
+**te va ke?**
 Where are you?
 
-**me xa dom.**
+**me va dom.**
 I'm at home.
 
-**le xa ke?**
+**le va ke?**
 Where is he/she?
 
-**le sida xa kamar.**
+**le sida va kamar.**
 He/she sits in the room.
 
-Tip! You can use **xa** as a preposition or alone as the verb.
+Tip! You can use **va** as a preposition or alone as the verb.
 
-**me kara xa...**
+**me kara va...**
 I work at ...
 
 
@@ -820,8 +820,8 @@ I live in Singapore.
 **eska te doma yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **te doma xa ke?** instead of **te doma ke**.
-However **doma** already covers the meaning of being at somewhere, so **xa** is not necessary.
+Tip: It is also okay to say **te doma va ke?** instead of **te doma ke**.
+However **doma** already covers the meaning of being at somewhere, so **va** is not necessary.
 
 
 ### denga <small>to wait</small>
@@ -835,7 +835,7 @@ Wait for me!
 **lole denga mome.**
 They wait for us.
 
-**me denga te xa hotel.**
+**me denga te va hotel.**
 I wait for you in the hotel.
 
 
@@ -852,7 +852,7 @@ The man is looking at the woman.
 **le zayo shefe.**  
 He or she is currently the chief.
 
-**le zayo xa dom.**  
+**le zayo va dom.**  
 He or she is currently at home.
 
 
@@ -867,7 +867,7 @@ The man looked at the woman.
 **le paso shefe.**  
 He or she was the chief.
 
-**le paso xa dom.**  
+**le paso va dom.**  
 He or she was at home.
 
 
@@ -882,7 +882,7 @@ The man has looked at the woman.
 **le lewo shefe.**  
 He or she has been the chief.
 
-**le lewo xa dom.**  
+**le lewo va dom.**  
 He or she has been at home.
 
 
@@ -897,7 +897,7 @@ The man will see the woman.
 **le vilo shefe.**  
 He or she will be the chief.
 
-**le vilo xa dom.**  
+**le vilo va dom.**  
 He or she will be at home.
 
 
@@ -940,13 +940,13 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire sa 500 dolar xa mes.**  
+**kire sa 500 dolar va mes.**  
 The rent is 500 dollars in a month.
 
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me volu kapa un gare xa kire.**  
+**me volu kapa un gare va kire.**  
 I want to take a car for rent.
 
 **me volu kirokapa un gare.**
@@ -1006,7 +1006,7 @@ Come here / back / to us.
 **me darsa pandunia.**
 I study Pandunia.
 
-**xova le pa me xa leksobuke!**
+**xova le pa me va leksobuke!**
 Show me in the dictionary!
 **me no yada.**
 I don't remember.
@@ -1035,7 +1035,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**pliza sida xa ye!**
+**pliza sida va ye!**
 Please, sit here!
 
 **me suku stasa.**
@@ -1044,7 +1044,7 @@ I rather stand.
 ****
 With pleasure!
 
-**feste kaixu xa ki zaman?**
+**feste kaixu va ki zaman?**
 When does the party begin?
 
 **te sahi.**
