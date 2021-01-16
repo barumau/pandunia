@@ -192,6 +192,7 @@ asl.austral:i|aslaustrali||||Australian Aboriginal||aborigen|||||||||||||aborige
 asm:e|asme|||fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|asthma|asthme|asma|asma|астма||气喘||||श्वासरोग||bengek||astım|astmo|astma|astma
 aspirin:|aspirin|||eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin)|aspirin|aspirine|aspirina|aspirina|аспирин||阿司匹林||||||aspirin||aspirin|aspirino|aspiriini|aspiryna
 astat.em:|astatem|mate|As||astatine||ástato||||||||||||||astatiini|astat
+astr.o.biw.loj:ia|astrobiwlojia||||astrobiology|astrobiologie|astrobiologia|astrobiologia|астробиология||太空生物学||||||||||astrobiologia|
 at:e|ate|||por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|act (deed)|acte|acto|ato|действие (акт)|عمل|作为 (行为)|行為|||||tindakan (perbuatan)|kitendo||ago|teko (toimenpide, akti)|
 at.er|ater|||eng:actor,-ator, fra:-ateur, spa:por:-ador|agent (doer, actor)|agent (faiseur)|agente|agente|деятель||||||||||fail|aganto|tekijä (toimija)|
 at.ion:|ation||||action|action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta|
@@ -1092,6 +1093,25 @@ germanem|germanem|mate|Ge||germanium||germanio|||||||||||||germaniumo|germanium|
 Germania|Germania||||Germania|Germanie|Germania|Germânia|||||||||||||Germania|
 get:a|geta|||eng:get|get (receive, obtain, take)||conseguir (obtener, recibir)|ter (achar, receber)|получить||获得|受ける (もらう)|||पाना|||kupata (kuget)|elde etmek|akiri (ricevi, preni)|hankkia (saada)|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
 get.er:|geter||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
+gew:|gew|||eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|earth (ground)||tierra|||||地|||||||||maa (maaperä)|ziemia, grunt, gleba
+Gew:ia|Gewia|planete 3|||Earth (Terra)|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer|||
+gew.dow:|gewdow|biw|||peanut (groundnut)||maní||||||||||||||maapähkinä|orzech ziemny
+gew.form:e|gewforme||||terrain|terrain|terreno|terreno|||地势|地形||||||||||teren
+gew.graf:|gewgraf|||zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ, hin:मानचित्र (māncitra), ben: মানচিত্র (mancitr)|map (chart)|carte|mapa|carta geográfica|карта||地图||||नक़्शा (मानचित्र)||peta (map)||harita||kartta|mapa
+gew.graf:ia|gewgrafia||||cartography (geography)|cartographie (geographie)|cartografía (geografía)|cartografia|картография||地图学 (地理)||||||||||kartogratia|kartografia
+gew.gun:ia|gewgunia||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
+gew.kask:i krak:e|gewkaski krake||||fault line|||||||||||||||||uskok
+gew.kask:i plat:e|gewkaski plate||||tectonic plate|plaque tectonique|placa tectónica|||||||||||||||płyta tektoniczna
+gew.loj:ia|gewlojia||||geology|géologie|geología|||||地質学||||||||||geologia
+Gew.med:i Hay:|Gewmedi Hay||||Mediterranean||Mediterráneo||||||||||||||Välimeri|Morze Śródziemne
+gew.metr:ia|gewmetria||||geometry|géométrie|geometría|geometria|геометрия||几何学|幾何学|기하학|hình học|ज्यामिति|||||geometrio|geometria|
+gew.nich:i|gewnichi||||underground (subterrainean)||subterráneo|||||地中||||||||||podziemny
+gew.nich:i prizon:|zemnichi prizon||||dungeon (underground prison)|oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)|||地下牢 (ダンジョン)||||||||||loch
+gew.par.liny:e|gewparlinye||||equator||ecuador||||||||||||||päiväntasaaja|równik
+Gew.par.liny:i Gin:ia|Gewparlinyi Ginia|desh|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
+gew.sism:e|gewsisme||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|trzęsienie Ziemi
+gew.term:i|gewtermi||||geothermal|géothermique|geotérmico||геотерма́льный||地热的||||||||||geoterminen (maalämpö-)|
+gew.tik:e|gewtike||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
 geyi|geyi|||eng:fra:spa:gay, por:guei|gay (homosexual)||gay (homosexual)|||||||||||||samseksema|homo (homoseksuaali)|gejowski (homoseksualny)
 gida|gida|||eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu) + ara:قَادَ‎ (qāda)|guide (lead, show the way)|guider|guiar|guiar|||导游|||||||||gvidi|opastaa (ohjata)|prowadzić (wskazać drogę)
 gider|gider||||guide|guide|guía|guia|гид||导游|案内人 (ガイド)|안내인 (가이드)||||pemandu|kiongozi|rehber||opas (tiennäyttäjä)|przewodnik
@@ -1216,7 +1236,7 @@ hay:|hay|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), 
 hay:i|hayi||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
 hay.alg:e|hayalge|biw|||seaweed (macroalgae)|algues|macroalga|macroalga|морские водоросли||海藻|海藻|||||rumpai laut|||||wodorosty
 hay.amir.er:|hayamirer||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
-hay.caw:|hacaw|biw|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morska
+hay.caw:|haycaw|biw|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morska
 hay.ful:|hayful|biw|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
 hay.gun:|haygun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hay.hiar:|hayhiar|biw|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
@@ -2672,10 +2692,11 @@ pizeria|pizeria||||pizzeria||pizzería|||||||||||||picejo|pitseria|pizzeria
 plan|plan|||eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan|plan|plan|plano|план||||||प्लैन||||||suunnitelma|plan
 plana|plana||||intend (plan)||planear (tener pensado)||||||||||||||suunnitella|planować
 planete|planete|||eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)|planet||planeta||||||||||||||planeetta|planeta
-plastike|plastike|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic||plástico||||||||||||||muovi|plastik
-plate|plate|||eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)|plane (plate)||plano (placa)|||||||||||||||płaszczyzna (płyta)
-plati|plati||||flat (planar)||plana (llano, liso)|||||平ら|||||||||litteä|płaski
-plati zemkaskia|plati zemkaskia||||plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)||||||||||tektonika płyt
+plast.ik:e|plastike|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic||plástico||||||||||||||muovi|plastik
+plat:e|plate|||eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)|plane (plate)||plano (placa)|||||||||||||||płaszczyzna (płyta)
+plat:i|plati||||flat (planar)||plana (llano, liso)|||||平ら|||||||||litteä|płaski
+plat:i gew.kask:ia|plati gewkaskia||||plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)||||||||||tektonika płyt
+plat.o.gew.ist:e|platogewiste||||flat-earther|terreplatiste|terraplanista|terraplanista|плоскоземелец||||||||||||litteän maapallon kannattaja|płaskoziemca
 platin.em:|platinum|mate|Pt||platinum||platino|||||||||||||plateno|platina|platyna
 platistan|platistan||||plain (plateau, flat lands)|plaine|llanura||||平原|草原||||||||||równina (plaskowyż, plateau)
 platoforme|platoforme||||platform|||||||||||||||||platforma
@@ -2684,7 +2705,6 @@ platoniste|platoniste||||Platonist||platonista||||||||||||||platonisti|platończ
 platonisti|platonisti||||Platonic||platónico||||||||||||||platoninen|platoniczne
 platonistia|platonistia||||Platonism||platonismo||||||||||||||platonismi|platonizm
 platotas|platotas||||plate||plato||||||||||||||lautanen|talerz
-platozemiste|platozemiste||||flat-earther|terreplatiste|terraplanista|terraplanista|плоскоземелец||||||||||||litteän maapallon kannattaja|płaskoziemca
 plazme|plazme|||eng:plasma, spa:plasma, rus:плазма (plazma), ara:بلازما (balazima), hin:प्लाज़्मा (plaazma), jpn:プラズマ (purazuma), may:plasma|plasma (ionized gas)||plasma (gas ionizado)|||||||||||||||plazma (zjonizowany gaz)
 pliz:a|pliza|||eng:please|ask (request, beg; please)||pedir (invitar; por favor)||просить||请|請う (ーて下さい)||||||||peti (bonvolu)|pyytää|prosić
 pliz:a lay:a|pliza laya||||invite||invitar|||||||||||||inviti|pyytää tulemaan|zaprosić, zapraszać
@@ -3609,11 +3629,11 @@ Washington|Washington|shefocite|US||Washington DC||||||||||||||||Washington DC|
 Washington DC|Washington DC||||Washington D.C.|||||||||||||||||Waszyngton D.C
 washmashin|washmashin||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
 washurse|washurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|raccoon|raton laveur|mapache|guaxinim (rato-lavadeiro)|енот||浣熊|狸 (ラクーン, 洗い熊)||||||||||szop pracz
-wate|wate||||watt||vatio|||||||||||||vato|watti|wat
+wate|wate|unomete|W||watt||vatio|||||||||||||vato|watti|wat
 waw|waw|||zho:哇 (wā), eng:wow|wow! (gee!)||guau (vaya)||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 we|we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
-Wenjou|Wenjou||||Wenzhou||||||温州|||||||||||Wenzhou
-wenjou.oranj:e|wenjouoranje|biw|Citrus unshiu||satsuma mandari|mandarine satsuma|unshu mikan||мандарин уншиу||温州蜜柑|ウンシュウミカン||||||||||mandarynka Satsuma (pomarańcza Satsuma)
+Wenjow:|Wenjow||||Wenzhou||||||温州||||||||||Wenzhou|Wenzhou
+wenjow.oranj:e|wenjoworanje|biw|Citrus unshiu||satsuma mandarin|mandarine satsuma|unshu mikan||мандарин уншиу||温州蜜柑|ウンシュウミカン|||||||||satsuma|mandarynka Satsuma (pomarańcza Satsuma)
 weste|weste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west||oeste||||||||||||||länsi|zachód
 westi|westi||||western||occidental||||||||||||||läntinen|zachodni
 westodongia|westodongia||||longitude||longitud|||||||||||||||długość geograficzna
@@ -3704,24 +3724,6 @@ zay:u|zayu||||appear||aparecer|||||||||||||||pojawić się
 zay:u|zayu||||exist (be present)||existir (estar presente)|||||ある (いる)|||||||||olla olemassa|istnieć (być obecnym)
 zay.den:o|zaydeno||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, dzisiaj
 zebr:e|zebre|biw|Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra|zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra
-zem:|zem|||pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|earth (ground)||tierra|||||地|||||||||maa (maaperä)|ziemia, grunt, gleba
-Zem:ia|Zemia|planete 3|||Earth (Terra)|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer|||
-zem.dow:|zemdow|biw|||peanut (groundnut)||maní||||||||||||||maapähkinä|orzech ziemny
-zem.form:e|zemforme||||terrain|terrain|terreno|terreno|||地势|地形||||||||||teren
-zem.graf:|zemgraf|||zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ, hin:मानचित्र (māncitra), ben: মানচিত্র (mancitr)|map (chart)|carte|mapa|carta geográfica|карта||地图||||नक़्शा (मानचित्र)||peta (map)||harita||kartta|mapa
-zem.graf:ia|zemgrafia||||cartography (geography)|cartographie (geographie)|cartografía (geografía)|cartografia|картография||地图学 (地理)||||||||||kartogratia|kartografia
-zem.gun:ia|zemlaskeria||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
-zem.kask:i krak:e|zemkaski krake||||fault line|||||||||||||||||uskok
-zem.kask:i plat:e|zemkaski plate||||tectonic plate|plaque tectonique|placa tectónica|||||||||||||||płyta tektoniczna
-zem.loj:ia|zemlojia||||geology|géologie|geología|||||地質学||||||||||geologia
-zem.metr:ia|zemmetria||||geometry|géométrie|geometría|geometria|геометрия||几何学|幾何学|기하학|hình học|ज्यामिति|||||geometrio|geometria|
-zem.nich:i|zemnichi||||underground (subterrainean)||subterráneo|||||地中||||||||||podziemny
-zem.nich:i prizon:|zemnichi prizon||||dungeon (underground prison)|oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)|||地下牢 (ダンジョン)||||||||||loch
-Zem.o.med:i Hay:|Zemomedi Hay||||Mediterranean||Mediterráneo||||||||||||||Välimeri|Morze Śródziemne
-zem.par.liny:e|zemparlinye||||equator||ecuador||||||||||||||päiväntasaaja|równik
-Zem.par.liny:i Gin:ia|Zemparlinyi Ginia|desh|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
-zem.sism:e|zemsisme||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|trzęsienie Ziemi
-zem.tik:e|zemtike||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
 zeta:|zeta*|||eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|zetta-||||||||||||||||tsetta-|
 zeyil:|zeyil|||fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|wart|verrue|verruga|verruga|бородавка||疣|疣||||||||veruko|syylä|brodawka
 zez:e|zeze||Diptera|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣinṣin + eng:tsetse, fra:por:tsé-tsé, rus:цеце (tsetse), tur:çeçe, zho:采采蝇 (cǎicǎiyíng)|fly||||двукрылое||双翅目|ハエ目 (双翅目)|||||||||kaksisiipinen|
