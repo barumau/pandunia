@@ -66,22 +66,22 @@ Here are a few examples of different types of ideas.
 
 - concrete action
     - **kitabe**
-      a writing (noun)
+      writing, text (noun)
     - **kitabi**
       written, textual (adjective)
     - **kitabo**
-      by writing (adverb)
+      by writing, textually (adverb)
     - **kitaba**
       to write (active verb)
     - **kitabu**
       to be written (passive verb)
 - abstract action
     - **fikre**
-      a thought (noun)
+      thought (noun)
     - **fikri**
-      thinking (adjective)
+      thought (adjective)
     - **fikro**
-      by thinking (adverb)
+      by thought (adverb)
     - **fikra**
       to think (active verb)
     - **fikru**
@@ -94,14 +94,25 @@ Here are a few examples of different types of ideas.
     - **longo**
       lengthily (adverb)
     - **longa**
-      to make long, to lengthen (active verb)
+      to make long, lengthen (active verb)
     - **longu**
-      to get long, to be lengthened (passive verb)
+      to get long, be lengthened (passive verb)
+- emotion
+    - **suke**
+      delight (noun)
+    - **suki**
+      delighted, happy (adjective)
+    - **suko**
+      happily (adverb)
+    - **suka**
+      to delight, please (active verb)
+    - **suku**
+      to be delighted, be pleased (passive verb)
 - tool
     - **hamar**
       a hammer (noun)
     - **hamari**
-      hammerlike, hammering (adjective)
+      hammerlike (adjective)
     - **hamaro**
       by/with/like a hammer
     - **hamara**
@@ -310,21 +321,86 @@ Creates verbs that reverse the meaning of the base verb.
 
 ## Function Words
 
-_Function words_ are words that help to organize words into more or less complex sentences.
-It is a closed class i.e. new words are never or only very seldom be added to it.
-Function words behave by definition differently than _content words_,
-which is the open class for words that refer to things in the world outside the structure of the language.
+_Function words_ are words that help to structure other words into more or less complex sentences.
+It is a _closed class_ of words, so new words can never be added to it.
+_Content words_, on the other hand, is an open, ever-growing class of words,
+and they refer to things in the world outside the structure of the language.
+Function words have only a structural role
+and therefore they behave differently than content words.
 
 In Pandunia, function words have the following characteristics:
 
 1. The word is made up of one consonant and one vowel.
 2. The consonant indicates the general idea of the word.
+   Sometimes the same consonant is used for expressing two different ideas.
 3. The vowel has a structural meaning, as follows:
     - **-e** indicates a pronoun
-    - **-i** indicates a determiner or a modifier
-    - **-o** indicates an adverb
+    - **-i** indicates a determiner,
+      which indicates definiteness or indefiniteness, distance, possession, etc.
+    - **-o** indicates an adverb of manner
     - **-a** indicates a preposition
     - **-u** indicates a postposition
+
+#### Personal pronouns
+
+**me**
+– I  
+**te**
+– you (singular)  
+**le**
+– it or he or she
+
+The possessive pronouns are
+**mi**, **ti**, **li**.
+
+The plural personal pronouns are created by doubling the singular pronoun and using the linker vowel **-o-**:  
+**mome**
+– we  
+**tote**
+– you all  
+**lole**
+– they
+
+#### Identity
+
+**se**
+– self  
+**si**
+– one's own  
+**sa**
+– to be
+
+#### Affirmation and negation
+
+**no**
+– not  
+**ni**
+– no, none, not any  
+
+**ye**
+– yes  
+**yo**
+– indeed
+
+#### Prepositions
+
+**pa**
+– at, in, on, by  
+**ta**
+– to, for  
+**za**
+– from  
+**da**
+– of  
+**du**
+– 's (postposition)  
+**wa**
+– with; and  
+**na**
+– without  
+**ka**
+– or
+
 
 |  | Idea                   | -e (pronoun)           | -i (modifier)          | -o (adverb)            | -a (preposition)       | -u (postposition)      |
 |--|:-----------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
@@ -337,7 +413,7 @@ In Pandunia, function words have the following characteristics:
 | 7| Alternative            |                        |                        | **yo**<br>else         | **ya**<br>or           |                        |
 | 8| Addition               |                        |                        | **wo**<br>also         | **wa**<br>and, with    |                        |
 | 9| Property               |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
-|10| Location               |                        |                        |                        | **a**<br>at, in, on    |                        |
+|10| Location               |                        |                        |                        | **?a**<br>at, in, on   |                        |
 |11| Destination            |                        |                        |                        | **pa**<br>to, for      |                        |
 |12| Origin                 |                        |                        |                        | **za**<br>from, since  |                        |
 
