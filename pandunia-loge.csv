@@ -564,7 +564,7 @@ Cuana:|Cuana|desh|BW||Botswana||Botsuana||||||||||||||Botswana|Botswana
 D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
 d:a|da|||fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|of (particle of possession)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|omistetun omistajaan liittävä partikkeli|z (partykuła posiadania)
 d:a|da||||that (function word to introduce a relative clause)|||||||||||||||kiu (komencigas relativan frazon)|joka (sivulauseen aloittava sana)|
-d:u|du|||zho:的 (de)|own (particle of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
+d:u|du|prep.||zho:的 (de)|'s (postposition of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
 dad:e|dade|||spa:por:tgl:dado, may:swa:dadu|die (dice)||dado|dado|||||||||dadu|dadu||ĵetkubo|noppa (arpakuutio)|kość do gry
 dak:a|daka|||hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|cover (conceal)|couvrir|cubrir (tapar)||||||||ढकना|ঢাকা||||kovri|peittää|przykryć, przykrywać, ukryć, ukrywać
 dak:e|dake||||cover (lid, cap, deck)||tapa (funda, cubierta)||||||||ढक्कन|||||kovrilo|peite (kansi)|pokrycie; pokrywa, wieko, dekiel; pokład
@@ -807,8 +807,6 @@ er:ia|eria||||shop (workshop, place of doing)||taller||||||||||||||paja (kauppa,
 erb.em:|erbem|mate|Er||erbium||erbio|||||||||||||erbio|erbium|erb
 Eris:|Eris||||Eris (dwarf planet)||Eris (planeta enano)|||||||||||||Eris (planedeto)|Eris (kääpiöplaneetta)|Eris (planeta karłowata)
 Eritr:ia|Eritria|desh|ER||Eritrea||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea
-es:|es||||being||ser||||||||||||||olo (oleminen)|byt
-es:a|esa|||spa:es, fas:(ast), por:estar, rus:есть (yest')|be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
 esey:|esey|||eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|essay||ensayo (redacción)||||||||||||||essee|esej
 esk:a|eska||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
 esk:e|eske|||ara: سُؤَال‎ (suʾāl) , fas: سؤال‎ (so'âl), hin:सवाल (savāl);मसला (masalā), may:soal;masalah, swa:swali, tur:sual;mesele, hau:matsala|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
@@ -1224,7 +1222,7 @@ has:a|hasa||||distinguish||diferenciar (distinguir)||||||||||||||erottaa (nähd�
 has:i|hasi|||ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|special (distinct)||especial (diferenciado, distinto)|||||||||||||speciala|erikoinen (erityinen)|specjalny, wyraźny, wyrazisty
 has:ia|hasia||||distinction (specialty)||especialización (distinción)||||||||||||||erikoisuus|różnica (specjalność)
 hashish:|hashish||||hashish||hachís||||||||||||||hasis|haszysz
-hat:a|hata|prep||por:até, ara:(ḥatta), spa:hasta, swa:hata|until (til, up to)|jusque (jusqu’à)|hasta|até|до||直到|||||||mpaka||ĝis|asti (saakka)|aż do
+hat:a|hata|prep.||por:até, ara:(ḥatta), spa:hasta, swa:hata|until (til, up to)|jusque (jusqu’à)|hasta|até|до||直到|||||||mpaka||ĝis|asti (saakka)|aż do
 hat:o|hato||||even (implying extreme example)|voire (même)|hasta (también)||||连||||और भी|||||eĉ|jopa|nawet
 hatr:e|hatre|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|danger (peril)|danger|peligro|perigo|опасность|خطر‎|危险|危険|위험|nguy hiểm|जोखिम (ख़तरा)|বিপদ|bahaya|hatari|tehlike (muhatara)|danĝero|vaara|zagrożenie, niebezpieczeństwo
 hatr:i|hatri||||dangerous (perilous)||peligroso|||||||||||||danĝera|vaarallinen|niebezpieczny
@@ -1500,13 +1498,13 @@ just:i|justi|||eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jas
 just:o|justo||||just (exactly, precisely)||justo (exactamente)|||||||||||||ĝuste (ekzakte)|juuri (just, täsmälleen)|dokładnie (precyzyjnie, tylko)
 just.o.paw:er|justopawer||||sniper (sharpshooter)||francotirador||снайпер|||狙撃兵||||||||||snajper (strzelec wyborowy)
 K|K||||K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K
+k:a|ka||||than (as, compared to)|que (comme)|que (como)|que (como)|чем||比|より||hơn|||daripada|kuliko|göre|ol (kiel)|kuin (verrattuna)|jak, niż, od
 k:e|ke|||fra:que, spa:qué, por:o que + ben:কে  (ke)|what?|que (quoi)|qué|o que|что||什么|何|||क्या||apa|nini|ne|kio?|mikä? (mitä?)|co?
 k:i|ki||||which?||cuál|||||どの|||||||||mikä? (kumpi?)|który?
 k:i jan:|ki jan||||who?|qui|quién|quem||||誰|||||siapa|nani|kim|kiu?|kuka?|co?
 k:i sat:e|ki sate||||when?|quand|cuándo|quando||||何時|||||kapan|lini|ne zaman|kiam?|milloin? (koska?)|zapytać, pytać
 k:i shey:|ki shey||||what thing?||cuál cosa|||||何事||||||||kio?|mikä? (mitä?)|jak?
 k:i yang:i|ki yangi||||what kind of?||qué tipo de|||||どんな||||||||kia?|millainen?|jaki?
-k:o|ko||||than (as, compared to)|que (comme)|que (como)||чем||比|より||hơn|||daripada|kuliko|göre|ol (kiel)|kuin (verrattuna)|jak, niż, od
 k:o|ko?||||how?|comment|cómo|como|как||怎么|どのように|어떻게||कैसे|কিভাবে|bagaimana|-je|nasıl|kiel?|miten?|kiedy?
 k:o mult:o|ko multo||||how many?||cuántos|||||||||||||kiom?|montako? (paljonko?)|ile?
 kababa|kababa|||ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab)|barbecue (grill)||asar||||||||||||||grillata (kärventää)|grillować
@@ -2330,6 +2328,12 @@ muskul|muskul|||eng:fra:muscle, spa:por:músculo, deu:Muskel, rus:му́скул
 muskulbin|muskulbin||||bodybuilding|culturisme (musculation)|fisicoculturismo (culturismo, musculación)|fisiculturismo|культуризм||健美运动|||||||||korpokulturado|kehonrakennus (bodaus)|kulturystyka
 muta|muta|||spa:mudar, eng:mutate, fra:muter|change (alter, convert)||cambiar|||||||||||||aliigi|muuttaa (muuntaa)|zmienić, zmieniać
 N|N||||N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N
+n:a|na|prep.|rus:в (v), pol:w + ara:وَ (wa), fas: و‎ (va), tur:ve, swa:wa + yue:和 (wo4), kor:와 (wa), vie:và||by (at, in, on)|a (dans, en, chez)|en (a)||в||在||||||||||luona (-lla, -ssa)|przy, z, na, w, u
+n:a k:e|na ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
+n:a liny:e|na linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
+n:a sab:u|na sabu||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
+n:a w:e|na we||||there||allí (allá)||||||||||||||tuolla|
+n:a y:e|na ye||||here||acá (aquí)|||||||||||||tie|täällä|tu (tutaj, tam)
 na|na||||without||sin|sem||||||||||||sen|ilman|bez
 na linye|na linye||||offline|||||||||||||||||offline (nie na linii, poza siecią)
 nabe|nabe||||prophecy||profecía|||||||||||||profetaĵo|profetia|proroctwo
@@ -2524,7 +2528,6 @@ ostojamia|ostojamia||||skeleton (frame)|squelette|esqueleto (armazón)|esqueleto
 ostoshalke|ostoshalke||||scute|scutelle||escudo||||ぜんご||||||||||łuska (blaszka, tarczka)
 Ostria|Ostria|desh|AT||Austria||Austria||||||||||||||Itävalta|Austria
 P|P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
-pa|pa||||to (toward, till, until, for)||a (hacia)||||到|||||||||al (ĝis, por)|luokse (tykö, kohti, asti)|do, dopóki, dla
 pace|pace|||ita:pace, eng:peace, spa:por:paz, fra:paix|peace|paix|paz|paz|||和平|||||||||paco|rauha|pokój
 Paci Hay|Paci Hay||||Pacific Ocean||océano Pacífico||||||||||||||Tyyni valtameri|Ocean Spokojny (Pacyfik)
 paciste|paciste||||pacifist|pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|pacyfista
@@ -2952,6 +2955,10 @@ rutin|rutin|||eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتی
 rutogalta|rutogalta||||stray (deviate)||apartarse (desviarse)||отходить (скитаться)|||逸れる||||||||||zbłąkać się (wykoleić się)
 rutogalti|rutogalti||||stray (deviant)|||||||||||||||||zbłąkany (dewiacyjny, wykolejony)
 S|S||||S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S
+s:a|sa||||be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
+s:e|se||||self (reflexive pronoun)|se|se|se|себя (-ся)|||||||||||si|itse|sam, siebie
+s:i|si|||||son (sa)|su (suyo)||||||||||||||oma (-nsa)|
+s.er:|ser||||being (entity)||ser||||||||||||||olento (olio)|
 sab:a|saba||||cause (be the cause for)||causar||||||||||||||aiheuttaa (olla syynä)|spowodować, powodować
 sab:e|sabe|||heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|reason (cause)||razón (causa)|||||||||||||kialo|syy|powód, przyczyna
 sabat:e|sabate||||Sabbath||sabbat||||||||||||||sapatti|szabat, szabas
@@ -3328,6 +3335,7 @@ Svenia|Svenia|desh|SE||Sweden||Suecia||||||||||||||Ruotsi|Szwecja
 Swati|Swati|desh|SZ||Eswatini (Swaziland)||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi
 Swisia|Swisia|desh|CH||Switzerland||Suiza||||||||||||||Sveitsi|Szwajcaria
 T|T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T
+t:a|ta|prep.||eng:to, fas: تا‎ (tâ), hin:-तक (-tak)|to (toward, till, until, for)||a (hacia)||||到|||||||||al (ĝis, por)|luokse (tykö, kohti, asti)|do, dopóki, dla
 t:e|te|pron.||fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
 t:i|ti||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
 t.o.t:e|tote|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
@@ -3536,11 +3544,6 @@ Uzbekia|Uzbekia|desh|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekis
 uzer|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
 uzernam|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
 V|V||||V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V
-v:a|va||rus:в (v), pol:w + ara:وَ (wa), fas: و‎ (va), tur:ve, swa:wa + yue:和 (wo4), kor:와 (wa), vie:và||by (at, in, on)|a (dans, en, chez)|en (a)||в||在||||||||||luona (-lla, -ssa)|przy, z, na, w, u
-v:a k:e|va ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
-v:a liny:e|va linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
-v:a sab:u|va sabu||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
-v:a y:e|va ye||||here (there)||acá (aquí)|||||||||||||tie|täällä (tuolla)|tu (tutaj, tam)
 vacin:|vacin|||eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|vaccine||vacuna||||||||||||||rokote|szczepionka
 vad:e|vade|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina
 vad.o.susan:|vadosusan|biw|Convallaria majalis||lily of the valley||convalaria (lirio de los valles)|lírio-do-vale|ландыш||鈴蘭|キミカゲソウ (スズラン)||||||||||konwalia majowa
@@ -3703,8 +3706,7 @@ yumor.ist:e|yumoriste||||humorist||humorista|||||||||||||humuristo|humoristi|kom
 yuterb.em:|yuterbem|mate|Yb||ytterbium||iterbio|||||||||||||iterbio|ytterbium|iterb
 yutr.em:|yutrem|mate|Y||yttrium||itrio|||||||||||||itrio|yttrium|itr
 Z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
-z:a|za|||rus:из-за (iz-za), pol:z,za + fas: از‎ (az) + zho:自 (zì) + ned:zich, deu:sich, fra:por:spa:se|from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
-z:e|ze||||self (reflexive pronoun)|se|se|se|себя (-ся)|||||||||||si|itse|sam, siebie
+z:a|za|prep.||rus:из-за (iz-za), pol:z,za + fas: از‎ (az) + zho:自 (zì) + ned:zich, deu:sich, fra:por:spa:se|from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
 zaitun:|zaitun|biw||ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|olive||aceituna|||||||||||||olivo|oliivi|oliwka
 zalim:i|zalimi|||ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|mean (cruel)||mezquino (antipático)||||||||||||||ilkeä (julma)|złośliwy, okrutny
 zaman:|zaman|||tur:zaman, may:jaman, swa:zamani, ara:(zaman), fas:(zamān), + hin:समय (samay)|time (period, epoch, era)||tiempo (periodo)||период (эпоха)||||||||jaman (zaman)|zamani|zaman||aikakausi|czas (epoka, era)
