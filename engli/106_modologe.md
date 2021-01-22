@@ -49,3 +49,18 @@ Particle **ko** relates the adverbs of comparison to the point of comparison.
 **te loga samo bono ko me.**
 = You speak as well as me.
 
+
+## Adverbs as prepositions
+
+**me vida lole paso.**
+– I have seen them before.  
+**me vida lole paso da yi nen.**
+– I have seen them before this year.
+
+**paso**
+– before, earlier  
+**paso da**
+– before, earlier than
+
+
+
