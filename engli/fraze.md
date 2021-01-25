@@ -43,7 +43,7 @@ Good morning!
 **salam den!**
 Good day!
 
-**salam sham!**
+**salam xam!**
 Good evening!
 
 **salam noche!**
@@ -55,7 +55,7 @@ Bon appetit!
 **salam lay!**
 Welcome!
 
-**salam chute!**
+**salam cute!**
 Goodbye!
 
 **salam safar!**
@@ -103,7 +103,7 @@ I thank you for helping me.
 **danka te helpa me.**
 Thanks for helping me.
 
-**te kechi.**
+**te keci.**
 You're welcome. (Literally: _You're polite._)
 
 
@@ -428,9 +428,9 @@ He/she doesn't have money.
 **me volu tena novi telfone.**
 I want to have a new phone.
 
-**eska te tena bache?**
+**eska te tena bace?**
 Do you have children?  
-**me tena duli bache.**
+**me tena duli bace.**
 I have two children.
 
 
@@ -508,9 +508,9 @@ the word order is not affected by the **ke**.
 **me volu yama kafe.**
 I want to drink coffee.
 
-**eska te volu yama chay?**
+**eska te volu yama cay?**
 Would you like to drink tea?  
-**no. me no volu chay. me volu kafe.**
+**no. me no volu cay. me volu kafe.**
 No, I don't want tea. I want coffee.
 
 **te volu ki apel?**
@@ -521,7 +521,7 @@ This red one.
 
 ### pliza <small>request, please</small>
 
-**me pliza te yama chay.**
+**me pliza te yama cay.**
 I ask you to drink tea.
 
 **me pliza te laya dom.**
@@ -532,7 +532,7 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**pliza yama chay.**
+**pliza yama cay.**
 Please, have some tea!
 
 **pliza yama kafe.**
@@ -606,13 +606,13 @@ I don't understand at all.
 
 ### abla <small>can</small>
 
-**me abla shofa gare.**
+**me abla xofa gare.**
 I can drive a car.
 
-**le no abla shofa gare.**
+**le no abla xofa gare.**
 He/she doesn't know how to drive a car.
 
-**eska te abla shula le?**
+**eska te abla xula le?**
 Do you know how to fix it?
 
 **eska te abla pandunia?**
@@ -627,7 +627,7 @@ I can speak a little Pandunia.
 **me no abla engli.**
 I can't speak English.
 
-**pardon. me no abla ti bashe.**
+**pardon. me no abla ti baxe.**
 Sorry, I can't speak your language.
 
 
@@ -681,7 +681,7 @@ See you again!
 **vida te badodeno!**
 See you tomorrow!
 
-**me vida le chendeno.**
+**me vida le cendeno.**
 I saw him/her yesterday.
 
 
@@ -709,27 +709,27 @@ Please, write your address.
 Please, write it here!
 
 
-### basha <small>speak a language, communicate</small>
+### baxa <small>speak a language, communicate</small>
 
-**eska tote abla basha pandunia.**
+**eska tote abla baxa pandunia.**
 Can you speak Pandunia?
 
-**mome abla basha pandunia.**
+**mome abla baxa pandunia.**
 We can speak Pandunia.
 
-**eska te abla basha Engli?**
+**eska te abla baxa engli?**
 Can you speak English?
 
-**Franci, Espani, Portugali, Rusi**
+**franci, espani, portugali, rusi**
 French, Spanish, Portuguese, Russian
 
-**Chini, Niponi, Indonesi**
+**cini, niponi, indonesi**
 Chinese, Japanese, Indonesian
 
-**Arabi, Turki, Farsi, Urdu, Hindi**
+**arabi, turki, farsi, urdu, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
-**Swahili, Hausa, Yoruba, Amari**
+**swahili, hausa, yoruba, amari**
 Swahili, Hausa, Yoruba, Amharic
 
 
@@ -849,7 +849,7 @@ I am greeting your friend.
 **man zayo vida fem.**  
 The man is looking at the woman.
 
-**le zayo shefe.**  
+**le zayo xefe.**  
 He or she is currently the chief.
 
 **le zayo va dom.**  
@@ -864,7 +864,7 @@ I greeted your friend.
 **man paso vida fem.**  
 The man looked at the woman.
 
-**le paso shefe.**  
+**le paso xefe.**  
 He or she was the chief.
 
 **le paso va dom.**  
@@ -879,25 +879,25 @@ I have greeted your friend.
 **man lewo vida fem.**  
 The man has looked at the woman.
 
-**le lewo shefe.**  
+**le lewo xefe.**  
 He or she has been the chief.
 
 **le lewo va dom.**  
 He or she has been at home.
 
 
-### vilo <small>(future action)</small>
+### wilo <small>(future action)</small>
 
-**me vilo salama ti doste.**  
+**me wilo salama ti doste.**  
 I will greet your friend.
 
-**man vilo vida fem.**  
+**man wilo vida fem.**  
 The man will see the woman.
 
-**le vilo shefe.**  
+**le wilo xefe.**  
 He or she will be the chief.
 
-**le vilo va dom.**  
+**le wilo va dom.**  
 He or she will be at home.
 
 

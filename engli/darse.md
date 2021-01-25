@@ -236,10 +236,10 @@ chief, boss
 **danke.**
 = Thank you.  
 <big>🧓</big>
-**pliza yama kafe o chay.**
+**pliza yama kafe o cay.**
 = Please have some coffee or tea.  
 <big>🧒</big>
-**me yama chay. danke.**
+**me yama cay. danke.**
 = I will have some tea, thank you.  
 ...  
 <big>🧓</big>
@@ -300,9 +300,9 @@ for making polite requests.
 = Please be seated.  
 **pliza dona kafe.**
 = Please give me some coffee.  
-**pliza dona chay.**
+**pliza dona cay.**
 = Please give me some tea.  
-**pliza yama chay.**
+**pliza yama cay.**
 = Please have some tea.  
 **pliza safa kamare.**
 = Please clean the room.
@@ -310,7 +310,7 @@ for making polite requests.
 Commands are introduced with **komanda** = to command. They employ the
 same pivot structure as requests with **pliza**.
 
-**komanda dona chay.**
+**komanda dona cay.**
 = Give (me) some tea!  
 **komanda safa kamare.**
 = Clean the room!
@@ -335,7 +335,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**chay**
+**cay**
 tea  
 **pliza**
 to ask; please  
@@ -363,9 +363,9 @@ to eat or drink
 
 ### Answers to the Exercises
 
-1. le yama chay.
+1. le yama cay.
 2. shef pliza le sida.
-3. pliza yama kafe o chay.
+3. pliza yama kafe o cay.
 4. mame pliza me safa kamar.
 5. shef sida e yama kafe.
 
@@ -379,22 +379,22 @@ Yes or no questions
 ### Dialog
 
 <big>👩‍🍳</big>
-**salam! eska te yama kafe o chay?**
+**salam! eska te yama kafe o cay?**
 = Hello! Would you like to have coffee or tea?  
 <big>🧔</big>
-**chay.**
+**cay.**
 = Tea.  
 <big>👩‍🍳</big>
 **e te?**
 = And you?  
 <big>🧓</big>
-**me no basha pandunia...**
+**me no baxa pandunia...**
 = I don't speak Pandunia...  
 <big>👩‍🍳</big>
-**pardon! eska le yama chay?**
+**pardon! eska le yama cay?**
 = Pardon! Will he have tea?  
 <big>🧔</big>
-**no. le no yama chay. le yama kafe.**
+**no. le no yama cay. le yama kafe.**
 = No, he won't. He would like to have coffee.  
 <big>👩‍🍳</big>
 **eska te yama supe?**
@@ -409,7 +409,7 @@ Yes or no questions
 **no yama.**
 = No.  
 <big>👩‍🍳</big>
-**danke. me dona un chay e un kafe e un supe sa bade da desi minute.**
+**danke. me dona un cay e un kafe e un supe sa bade da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -419,11 +419,11 @@ Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **pliza**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
-**me eska te yama chay.**
+**me eska te yama cay.**
 = I ask (do) you drink tea.  
-**eska te yama chay?**
+**eska te yama cay?**
 = Do you drink tea?  
-**eska yama chay?**
+**eska yama cay?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -431,7 +431,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**eska le yama chay?**
+**eska le yama cay?**
 = Does he or she drink tea?  
 **eska te yama supe?**
 = Do you eat soup?  
@@ -444,7 +444,7 @@ Of course common and proper nouns can also be used.
 = Does the chief drink coffee?  
 **eska pape safa kamare?**
 = Does the father clean the room?  
-**eska niki basha pandunia?**
+**eska niki baxa pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -501,7 +501,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**basha**
+**baxa**
 speak a language  
 **suy**
 water  
@@ -519,8 +519,8 @@ yes
 
 ### Answers to the Exercises
 
-1. eska te basha pandunia?
-2. si. me basha pandunia.
+1. eska te baxa pandunia?
+2. si. me baxa pandunia.
 3. eska mame yama kafe?
 4. no. le no yama kafe.
 5. eska le yama supe?
@@ -600,7 +600,7 @@ is more than one correct answer.
 2. un kupe no kali.
 3. duli waf no yama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
-5. shef yama chay a no kafe.
+5. shef yama cay a no kafe.
 6. mame tena no waf a duli maw.
 
 
