@@ -810,6 +810,14 @@ eskal.tan:|eskaltan||||vine|vigne|enredadera|||||蔓草|||||||||köynnös|pnącz
 Eskand:ia|Eskandia||||Scandinavia|Scandinavie|Escandinavia||||||||||||||Skandinavia|Skandynawia
 eskand.em:|eskandem|mate|Sc||scandium||escandio|||||||||||||skandio|skandium|skand
 Eskot:ia|Eskotia|desh|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
+eskul:|eskul||||lesson (teaching)|leçon|lección|lição|урок (учение)|دَرْس‎|课||||||ajaran|funzo||leciono|oppi (opetus)|lekcja
+eskul:a|eskul||||learn (study)|apprendre (étudier)|aprender (estudiar)|aprender|учиться||学习|学ぶ|배우다|học (học tập)|सीखना|শেখা|belajar|kujifunza|öğrenmek|lerni (studi)|oppia (opiskella)|nauczyć się, uczyć się, studiować
+eskul.er:|eskuler||||student (pupil, learner)|étudiant|estudiante|||طَالِب‎|学生|学生|학생|học sinh (sinh viên)|विद्यार्थी|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento (lernanto)|oppilas|uczeń, student
+eskul.is:a|eskulisa||||teach (educate, instruct)|enseigner|enseñar|ensinar (lecionar)|учить (преподавать)|دَرَّسَ|教学|教える|||सिखाना (पढ़ाना)|শেখান|mengajar|kufundisha|öğretmek (ders vermek)|instrui|opettaa|
+eskul.is.er:|eskuliser||||teacher|professeur (enseignant)|maestro (profesor, docente)|professor (docente)|учитель|مُدَرِّس‎|教师 (老师)|先生 (教師)|선생 (교사)|giáo viên|शिक्षक (अध्यापक, टीचर, गुरु)|ওস্তাদ (মুয়াল্লিম, শিক্ষক)|pengajar (guru)|mwalimu|öğretmen (muallim)|instruisto|opettaja|nauczyciel
+eskul.kamar:|eskulkamar||||classroom|salle de classe|||||||||||||||luokkahuone|
+eskul.kan:|eskulkan|||deu:Schule, swa:shule, eng:school, hin:स्कूल (skūl), ben:স্কুল (śkul), rus:школа (škola) + fra:école, spa:escuela, por:escola, may:sekolah|school (institution)|école (collège)|escuela (colegio, institución)|escola (colégio)|школа |مَدْرَسَة‎|学校|学校|학교|trường học|विद्यालय (स्कूल, मद्रसा)|মকতব (স্কুল, মাদ্রাসা)|sekolah|shule (skule)|okul (mektep, madrese)|lernejo|koulu (opisto)|szkoła (instytucja)
+eskul.xef:|eskulxef||||headmaster (principal)|directeur (principal)|director de colegio|diretor|директор (ректор)||校长|校長|교장||||kepala sekolah (guru besar)|||lernejestro|rehtori|dyrektor szkoły
 eskult:a|eskulta||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
 eskult:e|eskulte||||sculpture (statue)||escultura (estatua)|||||||||||||statuo (skultaĵo)|veistos (patsas)|rzeźba
 eskult:ia|eskultia||||sculpture (art of sculpting)||escultura (arte de escultura)||||||||||||||kuvanveisto|rzeźbiarstwo
@@ -3639,14 +3647,6 @@ xukar:i|xukari||||sugary (sweet)||azucarado||||||||||||||sokerinen (makea)|słod
 xukar.bet:e|xukarbete|biw|Beta vulgaris subsp. vulgaris, Altissima||sugar beet|betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла|||テンサイ (サトウダイコン)||||||||||burak cukrowy
 xukar.caw:|xukarcaw|biw|||sugarcane|Canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||甘蔗|サトウキビ|||गन्ना||tebu|muwa||||trzcina cukrowa
 xukar.oranj:e|xukaroranje|biw|Citrus × sinensis||sweet orange|orange douce|||апельсин|||オレンジ (アマダイダイ)||||||||||pomarańcza słodka (pomarańcza chińska)
-xul:|xul||||lesson (teaching)|leçon|lección|lição|урок (учение)|دَرْس‎|课||||||ajaran|funzo||leciono|oppi (opetus)|lekcja
-xul:a|xula||||learn (study)|apprendre (étudier)|aprender (estudiar)|aprender|учиться||学习|学ぶ|배우다|học (học tập)|सीखना|শেখা|belajar|kujifunza|öğrenmek|lerni (studi)|oppia (opiskella)|nauczyć się, uczyć się, studiować
-xul.er:|xuler||||student (pupil, learner)|étudiant|estudiante|||طَالِب‎|学生|学生|학생|học sinh (sinh viên)|विद्यार्थी|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento (lernanto)|oppilas|uczeń, student
-xul.is:a|xulisa||||teach (educate, instruct)|enseigner|enseñar|ensinar (lecionar)|учить (преподавать)|دَرَّسَ|教学|教える|||सिखाना (पढ़ाना)|শেখান|mengajar|kufundisha|öğretmek (ders vermek)|instrui|opettaa|
-xul.is.er:|xuliser||||teacher|professeur (enseignant)|maestro (profesor, docente)|professor (docente)|учитель|مُدَرِّس‎|教师 (老师)|先生 (教師)|선생 (교사)|giáo viên|शिक्षक (अध्यापक, टीचर, गुरु)|ওস্তাদ (মুয়াল্লিম, শিক্ষক)|pengajar (guru)|mwalimu|öğretmen (muallim)|instruisto|opettaja|nauczyciel
-xul.kamar:|xulkamar||||classroom|salle de classe|||||||||||||||luokkahuone|
-xul.kan:|xulkan|||deu:Schule, swa:shule, eng:school, hin:स्कूल (skūl), ben:স্কুল (śkul), rus:школа (škola) + fra:école, spa:escuela, por:escola, may:sekolah|school (institution)|école (collège)|escuela (colegio, institución)|escola (colégio)|школа |مَدْرَسَة‎|学校|学校|학교|trường học|विद्यालय (स्कूल, मद्रसा)|মকতব (স্কুল, মাদ্রাসা)|sekolah|shule (skule)|okul (mektep, madrese)|lernejo|koulu (opisto)|szkoła (instytucja)
-xul.xef:|xulxef||||headmaster (principal)|directeur (principal)|director de colegio|diretor|директор (ректор)||校长|校長|교장||||kepala sekolah (guru besar)|||lernejestro|rehtori|dyrektor szkoły
 xur:|xur|||ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|beginning (start, commencement, onset)|début (commencement)|comienzo (inicio, principio)|começo (início, princípio)|начало|بِدَايَة‎|开始|開始|시작||शुरू|শুরু|mula|||komenco|alku|początek
 xur:a|xura||||begin (start, commence, initiate)||comenzar (iniciar, empezar)||||开始||||||||başlamak|komenci|aloittaa|zacząć, zaczynać
 xur:i|xuri||||initial (first)||primer (inicial, inaugural)||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
