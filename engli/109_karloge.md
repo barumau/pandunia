@@ -282,23 +282,30 @@ Pandunia has five prepositions of place and time.
 2. **na** - absence or lack: without
 3. **?a** - location or moment (in general):
    at, in, on, by
-4. **za** - origin, beginning or cause: from, since, because
+4. **ca** - origin, beginning or cause: from, since, because
 5. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
 the preposition is complemented by a pronoun or a noun phrase.
 
-**me ?a hotel.** - I'm in the hotel.  
-**me sonu ?a hotel.** - I sleep in the hotel.  
-**me sonu za sham pa sube.** - I sleep since evening until morning.  
-**me safara za London pa Paris.** - I travel from London to Paris.  
+**me ?a hotel.**
+– I'm in the hotel.  
+**me sona ?a hotel.**
+– I sleep in the hotel.  
+**me sona ca sham pa sube.**
+– I sleep since evening until morning.  
+**me safara ca London pa Paris.**
+– I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga za te kita.** - I have waited since you left.  
-**me denga pa te laya dom.** - I wait until you come home.  
-**me denga sa te sona.** - I wait while you sleep.  
+**me denga ca te kita.**
+– I have waited since you left.  
+**me denga pa te laya dom.**
+– I wait until you come home.  
+**me denga sa te sona.**
+– I wait while you sleep.  
 
 #### ?a
 
@@ -340,32 +347,41 @@ Here are some verbs that are usable as prepositions:
 Prepositions are not used as frequently in Pandunia as in English. In
 many phrases, the verb says enough alone.
 
-**me laya dome.** - I come home.  
-**te sida kurse.** - You sit (on) the chair.  
-**le lala sofa.** - S/he lies (on) the sofa.  
-**pesh nata daria.** - Fish swim (in) the sea.  
-**jenger marcha daw.** - Warriors march (on) the road.  
+**me laya dome.**
+– I come home.  
+**te sida kurse.**
+– You sit (on) the chair.  
+**le lala sofa.**
+– S/he lies (on) the sofa.  
+**pex nata daria.**
+– Fish swim (in) the sea.  
+**jenger marcha daw.**
+– Warriors march (on) the road.  
 
 ### Preposition of relation
 
-Preposition **ko** indicates manner or style. It corresponds to
-English prepositions _like_, _than_, _as_ and _as if_.
+Preposition **ka** indicates the way something is done.
+It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-**me sava pandunia ko master.** - I know Pandunia like a master.
+**me sava pandunia ka master.**
+– I know Pandunia like a master.
 
-**ko** relates the verb or the adjective to a point of comparison.
+**ka**
+relates the verb or the adjective to a point of comparison.
 In the above example
 **sava**
 (know) is the verb and
 **master**
 (master) is the point of comparison.
 
-**ko** is also used when adjectives are compared.
+**ka** is also used when adjectives are compared.
 
-**pute si min day ko pape.** - The child is smaller than the father.  
-**lawpape si samo day ko pape.** - Grandfather is as big as father.
+**pute si min day ko pape.**
+– The child is smaller than the father.  
+**lawpape si samo day ka pape.**
+– Grandfather is as big as father.
 
-**ko** relates the adverbs of comparison – **may** (more), **min**
-(less) and **samo** (same) – to the point of comparison, which is
-**pape** (father) in the examples above.
+**ka** relates the adverbs of comparison
+– **max** (more), **min** (less) and **samo** (same) –
+to the point of comparison, which is **pape** (father) in the examples above.
 

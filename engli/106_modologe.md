@@ -34,33 +34,62 @@ For example **day** (big) and **lil** (little) can be used as intensifying adver
 
 ## Comparison
 
-Modifiers can be compared.
+Modifiers can be compared with the adverbs of comparison.
 
-- **may** (more) indicates comparison of superiority
-- **mayim** (most) indicates the superlative of superiority
-- **min** (less) indicates comparison of inferiority
-- **minim** (least) indicates the superlative of inferiority
-- **samo** (as) indicates the comparison of equality
+- **max**
+  (_more_) indicates comparison of superiority
+- **maxim**
+  (_most_) indicates the superlative of superiority
+- **min**
+  (_less_) indicates comparison of inferiority
+- **minim**
+  (_least_) indicates the superlative of inferiority
+- **samo**
+  (_as_ or _equally_) indicates the comparison of equality
 
-Particle **ko** relates the adverbs of comparison to the point of comparison.
+Particle
+**ka**
+relates the adverbs of comparison to the point of comparison.
 
-**me si may bon ko te.**
+**me sa max bon ka te.**
 = I am better than you.  
-**te loga samo bono ko me.**
+**te loga samo bono ka me.**
 = You speak as well as me.
 
 
-## Adverbs as prepositions
+## Adverbs of time and space
 
-**me vida lole paso.**
-– I have seen them before.  
-**me vida lole paso da yi nen.**
-– I have seen them before this year.
+Adverbs are used for expressing time and place of events and actions.
+Here are some of the most frequently used adverbs:
 
 **paso**
 – before, earlier  
-**paso da**
-– before, earlier than
+**cheno**
+– before, earlier  
+**medo**
+– between  
+**bado**
+– after, later  
+**vico**
+– instead  
+**duro**
+– in the meanwhile  
+**diko**
+– toward  
+**sabo**
+– because  
+**kontro**
+– against  
+**maxo**
+– additionally  
 
+A complement can be added with the preposition **da**.
 
+**me vida lole paso.**
+– I have seen them before.  
+**me vida lole paso da unyom.**
+– I have seen them before Monday.
+
+**me wana shopa towgar maxo da motogar.**
+– I want to buy a trailer in addition to the car.
 

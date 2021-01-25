@@ -2131,22 +2131,23 @@ matur|matur||||adult|adulte|adulto||взрослый||成年人|大人||||||||pl
 maturi|maturi|||eng:fra:mature, spa:por:maduro|mature (ripe, adult)||maduro (adulto, curado)|||||||||||||matura (plenkreska)|kypsä (aikuinen)|dorosły, dojrzały
 maturi fem|maturi fem||||woman (adult female)||mujer (señora)||||女人|女の人||||||||virino|nainen|kobieta, dorosła samica
 maturi man|maturi man||||man (adult male)||hombre (señor)||||男人|男の人||||||||viro|mies|mężczyzna, dorosły samiec
-maw|maw|biw||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat|chat|gato|gato|кошка||猫|猫|고양이|mèo|बिल्ली|বেড়াল|kucing|paka (nyau)|kedi|kato|kissa|kot
-maxin|maxin|||fra: machine, eng: machine, deu: Maschine, may: mesin|machine||máquina|||||||||||||maŝino|kone|maszyna
-may (mayo)|may (mayo)|||ron:mai, spa:mas, por:mais, deu:mehr|more (also, too)|plus|más (además)|mais||||||||||||pli (ankaŭ)|enemmän (myös, lisäksi, plus)|bardziej, większościowy, wiodący, główny
-may ko bas|may ko bas||||too much||demasiado|||||||||||||tro|liikaa|zbyt
+maw:|maw|biw||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat|chat|gato|gato|кошка||猫|猫|고양이|mèo|बिल्ली|বেড়াল|kucing|paka (nyau)|kedi|kato|kissa|kot
+max:|max|||spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|more|plus|más|mais||||||||||||pli|enemmän (myös, lisäksi, plus)|bardzie
+max: k:a bas:|max ka bas||||too much||demasiado|||||||||||||tro|liikaa|zbyt
+max:i|maxi||||additional||adicional (extra)||||||||||||||lisä-|dodatkowy
+max:o|maxo||||also (too)||además|||||||||||||ankaŭ||
+max.bon:i|maxboni||||bonus|||||||||||||||||dodatkowy
+max.darj:a|maxdarja||||increment|||||||||||||||||zwiększyć o jeden
+max.fort:a|maxforta||||reinforce (replenish)|||||||||||||||||wesprzeć (wzmocnić, zasilić)
+max.fort:e|maxforte||||reinforcements||refuerzos||пополнение||加固|増派 (援兵)||||||||||wsparcie (wzmocnienie, zasilenie)
+maxim:|maxim (maximo)||||most (maximally)||lo más||||最|||||||||plej|eniten|nabardziej, maksymalnie
+maxim:a|maxima||||maximize|||||||||||||||||zmaksymalizować
+maxim:e|maxime|||eng:fra:maximum, por:spa:máximo, rus:максимум (maksimum), may:maksimum|maximum|maximum|máximo|máximo|максимум||||||||maksimum||||maksimi (enimmäismäärä)|maksimum
+maxim:i|maximi||||maximal||máximo||||||||||||||enimmäis-|maksymalny
+maxin:|maxin|||fra: machine, eng: machine, deu: Maschine, may: mesin|machine||máquina|||||||||||||maŝino|kone|maszyna
+maxor:i|maxori|||fra:majeur, eng:major, spa:mayor|major (not minor)||mayor||||||||||||||enemmistö-|większościowy, wiodący, główny
+maxor:ia|maxoria|||spa:mayoría, por:maioria, eng:majority, fra:majorité|majority||mayoría||||||||||||||enemmistö|większość
 mayan|mayan||||Maya||maya|||||||||||||majao|maya (mayaintiaani)|Maya
-mayboni|mayboni||||bonus|||||||||||||||||dodatkowy
-maydarja|maydarja||||increment|||||||||||||||||zwiększyć o jeden
-mayforta|mayforta||||reinforce (replenish)|||||||||||||||||wesprzeć (wzmocnić, zasilić)
-mayforte|mayforte||||reinforcements||refuerzos||пополнение||加固|増派 (援兵)||||||||||wsparcie (wzmocnienie, zasilenie)
-mayi|mayi||||additional||adicional (extra)||||||||||||||lisä-|dodatkowy
-mayim (mayimo)|mayim (mayimo)||||most (maximally)||lo más||||最|||||||||plej|eniten|nabardziej, maksymalnie
-mayima|mayima||||maximize|||||||||||||||||zmaksymalizować
-mayime|mayime|||eng:fra:maximum, por:spa:máximo, rus:максимум (maksimum), may:maksimum|maximum|maximum|máximo|máximo|максимум||||||||maksimum||||maksimi (enimmäismäärä)|maksimum
-mayimi|mayimi||||maximal||máximo||||||||||||||enimmäis-|maksymalny
-mayori|mayori|||fra:majeur, eng:major, spa:mayor|major (not minor)||mayor||||||||||||||enemmistö-|większościowy, wiodący, główny
-mayoria|mayoria|||spa:mayoría, por:maioria, eng:majority, fra:majorité|majority||mayoría||||||||||||||enemmistö|większość
 Mayote|Mayote|desh|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 meca|meca||||compete (have a match)||competir||||||||||||||otella|konkurować, rywalizować; odbyć mecz, odbywać mecz
 mece|mece|||eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|match (contest)|match|partido|partida|матч||比赛|試合 (競技)|경기||मैच|ম্যাচ|perlawanan|mechi|||ottelu (matsi)|mecz, rywalizacja
@@ -3562,6 +3563,7 @@ wisk:e|wiske|alkohol|||whisky (whiskey)|||||||||||||||||viski
 wolf:e|wolfe|||deu:ned:eng:wolf, rus:волк (volk)|wolf|loup|lobo|||||||||||||lupo|susi (hukka)|wilk
 wolfram:|wolfram|mate|W||tungsten (wolfram)||tungsteno (wolframio)||||||||||||||wolframi|wolfram
 Wolof:|Wolof||||Wolof (language and people)|wolof||||||||||||kiwolofu|||wolofin kansa ja kieli|wolof
+X|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 xakal|xakal|biw||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
 xake|xake|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 xal|xal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik

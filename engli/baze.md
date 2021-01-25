@@ -9,13 +9,12 @@ This document is a simple guide to the main features of Pandunia.
 |----------|-----|
 | a | /a/ |
 | b | /b/ |
-| c | /ts/ |
-| ch | /tʃ/ |
+| c | /tʃ\~ts/ |
 | d | /d/ |
 | e | /e/ |
 | f | /f/ |
 | g | /g/ |
-| h | /h~x/ |
+| h | /h\~x/ |
 | i | /i/ |
 | j | /dʒ/ |
 | k | /kʰ/ |
@@ -26,10 +25,10 @@ This document is a simple guide to the main features of Pandunia.
 | p | /pʰ/ |
 | r | /r~ɹ/ |
 | s | /s/ |
-| sh | /ʃ/ |
 | t | /tʰ/ |
 | u | /u/ |
 | w | /w\~ʋ\~v/ |
+| x | /ʃ/ |
 | y | /j/ |
 | z | /z~dz/ |
 
@@ -37,10 +36,11 @@ The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
 All other consonant are like in English except:
 
-- **c** is Like TS in _bits_ or alternatively like C in _city_.
+- **c** is like CH in _church_
 - **g** is always hard
 - **r** and **h** are never silent
 - **s** is always voiceless
+- **x** is like SH in _shop_
 
 ### Words
 
@@ -119,11 +119,11 @@ but they can be can be after it too.
 – _idea new_
 
 Adjectives are compared with
-**may** (_more, -er_), **mayim** (_most, -est_),
+**max** (_more, -er_), **maxim** (_most, -est_),
 **min** (_less_), **minim** (_least_) and **sam** (_equally, as_).
-The point of comparison is introduced with **ko**.
+The point of comparison is introduced with **ka**.
 
-**yi idey si may novi ko wi idey.**
+**yi idey si max novi ka wi idey.**
 – This idea is newer than that idea.
 
 Adverbs end in **-o**.
