@@ -229,11 +229,11 @@ bab:e|babe|||may:bab, ara:urd:fas:(bāb)|chapter (section)|chapitre|capítulo (s
 babuch:e|babuche|||ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|slipper|pantoufle (babouche)|chinelo (pantufa)|||||||||||||pantoflo|tohveli|kapeć (papeć, bambosz)
 babul:|babul|biw|Vachellia|hin:बबूल (babūl), ben:বাবলা (bābalā), eng:babul|thorn tree (acacia)||||акация||||||||||||akaasia|akacja
 bach:e|bache|||fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|child (minor)|enfant|niño o niña|criança (menino)|ребёнок|طِفْل|小孩|子供 (赤ちゃん)|||बच्चा|||mtoto||infano|lapsi|dziecko (nieletni)
+bad:a|bada|||ara:بعد‎ (baʿda), swa:baada, hin:बाद (bāda)|follow (come after)||seguir|||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
 bad:e|bade||||consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
 bad:i|badi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
 bad:o|bado||||later (after)||más tarde||||||||||||||myöhemmin|później
-bad:u|badu|coverb||ara:بعد‎ (baʿda), swa:baada, hin:बाद (bāda)|follow (come after)||seguir|||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
-bad.o.den:|badoden||||tomorrow||mañana|||||明日||||||||morgaŭ|huominen|jutro
+bad.o.den:o|badodeno||||tomorrow||mañana|||||明日||||||||morgaŭ|huominen|jutro
 bad.o.fiks:e|badofikse||||suffix||sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
 badam:|badam|||may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|almond|amande|almendra|amêndoa|миндаль|لَوْز|杏仁 (巴旦木)|アーモンド (扁桃)|아몬드 (편도)|hạnh nhân|बादाम|বাদাম|badam|lozi|badem||manteli|migdał
 badaw:i|badawi||||bedouin (nomadic)||nómada|||||||||||||beduino (nomado)|beduiini|beduiński; nomadyczny
@@ -2402,9 +2402,10 @@ neurcel|neurcel||||neuron|neurone|neurona|neurônio|нейрон||||||||||nöron
 neuri|neuri||||neural||neural|||||||||||||nerva|hermostollinen|nerwowy (neuronowy)
 neurpatia|neurpatia||||neuropathy||neuropatía||||||||||||||hermosairaus (neuropatia)|neuropatia
 Nevis|Nevis|desh|||Nevis||Nieves||||||||||||||Nevis|Nevis
+nich:a|nicha||||go under||||||||||||||||alittaa|iść w dół (iść pod spód, iść na dno)
 nich:e|niche|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 nich:i|nichi||||lower (inferior)||inferior||||||||||||||ala-|poniższy
-nich:u|nichu|coverb|||under (go under)||debajo (estar debajo)||||||||||||||alittaa (alla)|pod, poniżej; iść w dół, iść pod spód, iść na dno
+nich:o|nicho||||under||debajo||||||||||||||alla|pod (poniżej)
 Nijer|Nijer|desh|NE||Niger||Níger|||||||||||||Niĝero|Niger|Niger
 Nikaragua|Nikaragua|desh|NI||Nicaragua||Nicaragua|||||||||||||Nikaragvo|Nikaragua|Nikaragua
 nikel|nikel|mate|Ni||nickel||níquel|||||||||||||nikelo|nikkeli|nikiel
@@ -3311,9 +3312,10 @@ Suomi|Suomi|desh|FI||Finland||Finlandia|||||||||||||Finnlando|Suomi|Finlandia
 suomi|suomi||||Finnish||finés|||||||||||||finna|suomalainen|fiński
 supe|supe|||spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|soup (stew)||sopa|||||||||||||supo|keitto (soppa)|zupa
 superi|superi||||superb (wonderful, super)||maravilloso (magnífico)|||||||||||||bonega|upea (mahtava)|wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super
+supr:a|supra|||eng:super, spa:por:sobre, ita:sopra|surpass (go over)||sobrepasar|||||||||||||superiri|ylittää|przekroczyć, przekraczać, przejść nad, iść nad
 supr:e|supre||||overpass||paso elevado|||||上|||||||||ylitys|wiadukt, przejście powyżej
 supr:i|supri||||upper||superior (más alto)||||||||||||||ylä- (yli-)|górny
-supr:u|supru|coverb||eng:super, spa:por:sobre, ita:sopra|surpass (above, go over)||sobrepasar (sobre)|||||||||||||superiri|ylittää (yllä, päällä)|przekroczyć, przekraczać, przejść nad, iść nad
+supr:o|supro||||above (over)||sobre|||||||||||||super|yllä (pääll)|nad
 suprize|suprize|||eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|surprise||sorpresa||||惊奇|||||||||surprizo|yllätys|zaskoczenie
 Suria|Suria|desh|SY||Syria||Siria||||||||||||||Syyria|Syria
 Suriname|Suriname|desh|SR||Suriname||Surinam||||||||||||||Surinam|Surinam
@@ -3468,6 +3470,7 @@ torem|torem|mate|Th||thorium||torio|||||||||||||torio||tor
 torse|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortuge|tortuge|biw|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
 totol|totol|biw||nah:totolin, spa:totol, yor:tòlótòló, ibo:torotoro|turkey||totol||||||||||||||kalkkuna|indyk
+tow:a|towa|||eng:tow, zho:拖 (tuō)|drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
 towal|towal|||fra:touaille, eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|towel||toalla|toalha|||||||तौलिया|||||viŝilo|pyyhe|ręcznik
 transa|transa||||transit (pass through or across)||transitar (atravesar)||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 transe|transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (passage)||tránsito||||||||||||||läpikulku|przejazd, przewóz, tranzyt
@@ -3538,7 +3541,7 @@ Usameriki|Usameriki||||American (US)||estadounidense||||||||||||||yhdysvaltalain
 Usameriki Samoa|Usameriki Samoa|desh|AS||American Samoa||Samoa Americana|||||||||||||||Amerykańska Samoa
 Usameriki Virjin nesia|Usameriki Virjin nesia|desh|VI||Virgin Islands, US||Islas Vírgenes|||||||||||||||Wyspy Dziewicze USA
 Usamerikia|Usamerikia|desh|US||United States of America (USA)||Estados Unidos de América||||||||||||||Yhdysvallat (ns. Amerikka)|Stany Zjednoczone Ameryki
-uza|uza|coverb||eng:use, spa:usar, pol:używać|use (employ, apply)||usar (aplicar)|||||||||||||uzi|käyttää|użyć, używać, zatrudnić, stosować
+uza|uza|||eng:use, spa:usar, pol:używać|use (employ, apply)||usar (aplicar)|||||||||||||uzi|käyttää|użyć, używać, zatrudnić, stosować
 uzabli|uzabli||||usable (available)||utilizable (disponible)|||||使用可能||||||||||
 Uzbekia|Uzbekia|desh|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
 uzer|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
