@@ -172,6 +172,43 @@ your heart desires.
 
 ## Letters and sounds
 
+#### Why is the letter X pronounced like SH?
+ 
+Pandunia follows the phonetic principle. One letter represents
+exactly one sound, and one sound is written with exactly one letter.
+
+Traditionally there isn't any dedicated letter for /ʃ/ in the Latin
+alphabet. This sound is frequently written by the letter combination
+SH in English. Other languages use different letters and letter
+combinations such as CH in French, SCH in German, SJ in Swedish, SZ
+in Polish, Š in Czech and Ş in Turkish.
+
+However, there is a handful of languages that use the letter X for
+/ʃ/. Basque and Maltese do it without exception. Portuguese and
+Catalan are less consistent, but X stands for /ʃ/ frequently.
+Pandunia word **xampu'** is written almost exactly the same as in Portuguese.
+It means _shampoo_.
+
+In the Chinese romanization systen, Pīnyīn, the letter X stands for
+/ɕ/ which is close to /ʃ/. Pandunia has many words with X from
+Chinese, for example **xim, xin** and **xuxe**.
+
+![](http://www.pandunia.info/grafe/X.png "C = ʃ")
+
+
+#### Why is the letter C pronounced like CH?
+
+Actually there are several languages where C is pronounced like English CH,
+including Indonesian, Hausa, Oromo and Rwanda.
+In Italian, when C is followed by E or I, it is pronounced /tʃ/.
+This pronunciation is present in English loan words from Italian such as _cello_ and _cappuccino_.
+
+![](http://www.pandunia.info/grafe/C.png "C = ts o tʃ")
+
+On the other hand, the letter C doesn't stand for any dedicated sound in English.
+The _hard C_ can be replaced by K and the _soft C_ by S.
+So it makes sense to use C instead of CH.
+
 #### Is Pandunia's alphabet unique?
 
 It is unique but not as odd as you might think. In fact,
@@ -196,21 +233,21 @@ used in other languages in the table below.
 - Letters that correspond usually to different sounds in Pandunia
   and in the compared language are listed under DIFFERENT.
 
-| ALPHABET         | SIMILAR                                               | MISSING |DIFFERENT    |
-|:-----------------|-------------------------------------------------------|---------|-------------|
-| Pandunia         | A B C Ch D E F G H I J K L M N O P R S Sh T U V W Y Z |         |             |
-| Swahili          | A B   Ch D E F G H I J K L M N O P R S Sh T U V W Y Z | C       |             |
-| Indian Romaniz.  | A B   Ch D E F G H I J K L M N O P R S Sh T U V W Y Z | C       |             |
-| Chinese Pinyin   | A B C Ch D   F G H I J K L M N O P R S Sh T U   W Y   | V       | E Z         |
-| English          |   B   Ch D   F G H I J K L M N O P R S Sh T   V W Y Z |         | A C E U     |
-| Hausa            | A B      D E F G H I J K L M N O P R S Sh T U   W Y Z | V Ch    | C           |
-| Japanese Romaji  | A B   Ch D E F G H I J K L M N O P   S Sh T U   W Y Z | V C     | R           |
-| Malay/Indonesian | A B      D E F G H I J K L M N O P R S    T U   W Y Z | V Ch Sh | C           |
-| Spanish          | A B   Ch D E F G   I   K L M N O P R S    T U V   Y   | Sh      | C H J Z     |
-| Portuguese       | A B      D E F G   I   K L M N O P R S    T U V     Z | Sh Y    | C Ch H J    |
-| French           | A B      D E F G   I   K L M N O P R S    T U V W Y Z | Sh      | C Ch H J    |
-| German           | A B C    D E F G H I   K L M N O P R S    T U V       | Ch Sh   | J Y Z       |
-| Vietnamese       | A B        E   G H I   K L M N O P R      T U V   Y   | F J Z   | C Ch D S    |
+| ALPHABET         | SIMILAR                                           | MISSING |DIFFERENT    |
+|:-----------------|---------------------------------------------------|---------|-------------|
+| Pandunia         | a b c d e f g h i j k l m n o p r s t u v   x y z |         |             |
+| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v     y z | x       |             |
+| Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
+| Hausa            | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
+| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   w x y   | v       | e z         |
+| Swahili          | a b   d e f g h i j k l m n o p r s t u v w   y z | c x     |             |
+| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u   w   y z | v c x   | f r         |
+| Portuguese       | a b   d e f g   i   k l m n o p r s t u v   x   z | y       | c h j       |
+| English          |   b   d   f g h i j k l m n o p r s t   v w   y z |         | a c e u x   |
+| French           | a b   d e f g   i   k l m n o p   s t u v w   y z |         | c h j r x   |
+| Spanish          | a b   d e f g   i   k l m n o p r s t u v     y   |         | c h j x z   |
+| German           | a b   d e f g h i   k l m n o p r s t u v         |         | c j x y z   |
+| Vietnamese       | a b     e   g h i   k l m n o p r   t u v     y   | f j z   | c d s x     |
 
 
 ## Grammar
