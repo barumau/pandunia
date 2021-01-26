@@ -34,7 +34,7 @@ So the purpose or the potential of the noun determines the meaning of the verb.
 which is an event that happens or an action that is done to someone.
 The meaning of a passive verb depends on the corresponding active verb.
 
-They are the only true suffixes i.e. bound morphemes in Pandunia.
+These endings and the participles (**-an-** and **-it-**) are the only true suffixes i.e. bound morphemes in Pandunia.
 All other suffixes can be used also as independent words.
 For example **paciste** (pacifist) is made up of two full words:
 **pace** (peace) and **iste** (proponent).
@@ -153,7 +153,7 @@ For example, from the noun **insan** (_human being_), we get the adjective **ins
 
 If the root is a place word, then its adjectival form will mean "that which is from that place".
 
-**Irania** Iran, **Irani** Iranian  
+**Rusia** Russia, **Rusi** Russian  
 **Pakistan** Pakistan, **Pakistani** Pakistani  
 **Amerike** America, **Ameriki** American  
 **Europe** Europe, **Europi** European  
@@ -171,8 +171,9 @@ and consonant series (ex. **poste** and **yogurte** instead of **post** and **yo
 Otherwise nouns don't have a vowel ending.
 
 In addition, a handful of adjectives and adverbs don't have a vowel ending.
-The adjectives without the ending are **bon** (good), **mal** (bad), **lil** (small) and **day** (big).
-The advebs withouth the ending are **max** (more) and **min** (less).
+The adjectives without the ending are **bon** (good), **mal** (bad), **lil** (small), **day** (big),
+**nol** (none), **un** (one), **koy** (some), **mey** (every), and **pan** (all).
+The advebs withouth the ending are **max** (more), **maxim** (most), **min** (less), and **minim** (least).
 
 Note that it is always acceptable to use the vowel endings on every word.
 So it is acceptable to say **boni hotele** instead of **bon hotel** (a good hotel).

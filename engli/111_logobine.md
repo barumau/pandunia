@@ -37,13 +37,6 @@ For example, this is how **termometer** (_thermometer_) is made:
 
 ### Common Suffixes
 
-#### -bli
-
-Indicates possibility. It is attached after the verb root.
-
-**vidabli** which can be seen, visible  
-**vidubli** who/which can see
-
 #### -er
 
 Creates agent nouns. It denotes a person or a tool which does the action.
@@ -110,6 +103,15 @@ new
 → **novike**
 novice, newbie
 
+#### -an-
+
+Active participle and causative suffix
+
+**yama** to eat  
+**yamani** eating  
+**yamana** to make eat, to feed  
+**eskula** to learn  
+**eskulana** to teach  
 
 #### -it-
 
@@ -118,8 +120,15 @@ Passive participle and causative suffix.
 **sava** to know  
 **saviti** known  
 **savita** to make known, to inform  
-**nota** to note  
-**notita** to notify  
+**nama** to call  
+**namita** to name  
+
+#### -abli
+
+Indicates possibility. It is often used with the active participle **-an-**.
+
+**vidabli** which can be seen, visible  
+**vidanabli** who/which can see
 
 #### -ist-
 
