@@ -155,7 +155,7 @@ So, as a verb,
 means _to be clothed or dressed_
 and, as an adjective, _clothed, dressed_.
 
-**fuki ren abla restu jivi sa lengia.**
+**fuki ren abla restu jivi va lengia.**
 – A clothed person can stay alive in the cold.
 
 
@@ -277,50 +277,50 @@ In Pandunia, prepositions are basically a sub-category of verbs.
 
 Pandunia has five prepositions of place and time.
 
-1. **wa** - presence or togetherness:
-   with
+1. **ya** - presence or togetherness:
+   with, by use of
 2. **na** - absence or lack: without
-3. **?a** - location or moment (in general):
+3. **va** - location or moment (in general):
    at, in, on, by
-4. **ca** - origin, beginning or cause: from, since, because
+4. **ja** - origin, beginning or cause: from, since, because
 5. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
 the preposition is complemented by a pronoun or a noun phrase.
 
-**me ?a hotel.**
+**me va hotel.**
 – I'm in the hotel.  
-**me sona ?a hotel.**
+**me sona va hotel.**
 – I sleep in the hotel.  
-**me sona ca sham pa sube.**
+**me sona ja sham pa sube.**
 – I sleep since evening until morning.  
-**me safara ca London pa Paris.**
+**me safara ja London pa Paris.**
 – I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ca te kita.**
+**me denga ja te kita.**
 – I have waited since you left.  
 **me denga pa te laya dom.**
 – I wait until you come home.  
-**me denga sa te sona.**
+**me denga va te sona.**
 – I wait while you sleep.  
 
-#### ?a
+#### va
 
-**?a** is an all-purpose locative preposition.
+**va** is an all-purpose locative preposition.
 Its basic meaning is "at".
  
-**me libu ?a dome.**  
+**me libu va dome.**  
 _I stand with house._  
 I stand by the house.
  
-**me loga ?a pandunia.**  
+**me loga va pandunia.**  
 _I speak with Pandunia._  
 I speak in Pandunia.
  
-**me loga wa doste ?a pandunia ?a fon.**  
+**me loga ya doste va pandunia va fon.**  
 _I speak with friends with Pandunia with telephone._  
 I speak with friends in Pandunia by telephone.
 
@@ -328,8 +328,10 @@ I speak with friends in Pandunia by telephone.
 
 In Pandunia some verbs function like prepositions do in English.
 
-**me kata pang.** - I cut bread.  
-**me kata pang, uza chake.** - I cut bread, use a knife. (I cut bread with a knife.)  
+**me kata pang.**
+– I cut bread.  
+**me kata pang, uza chake.**
+– I cut bread, use a knife. (I cut bread with a knife.)  
 
 **me denga dura dul hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
@@ -376,9 +378,9 @@ In the above example
 
 **ka** is also used when adjectives are compared.
 
-**pute si min day ko pape.**
+**pute sa min day ko pape.**
 – The child is smaller than the father.  
-**lawpape si samo day ka pape.**
+**lawpape sa samo day ka pape.**
 – Grandfather is as big as father.
 
 **ka** relates the adverbs of comparison

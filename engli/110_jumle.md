@@ -17,63 +17,63 @@ They may consist of only one word, which draws the listener's attention.
 Normally a sentence consists of a subject and a predicate.
 In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective or a noun.
 
-**me bon.**
+**me boni.**
 – I am good.  
 **le novi.**
 – It is new.  
 **le Sara.**
 – She is Sara.  
-**Sara bon.**
+**Sara boni.**
 – Sara is good.  
-**petre day.**
+**petre dayi.**
 – The stone is big.  
 **meze novi.**
 – The table is new.  
 
 The word **no** is added to form the negative.
 
-**me no bon.**
+**me no boni.**
 – I'm not good.  
 **le no novi.**
 – It's not new.  
 **le no Sara.**
 – She is not Sara.
 
-It is possible to add the word **si** (yes) before the predicate in positive sentences,
+It is possible to add the word **sa** (to be) before the predicate in positive sentences,
 for style or for convenience.
 Then the structure is similar like in negative sentences.
 
-**Sara si bon.**
+**Sara sa boni.**
 – Sara is good.  
-**petre si day.**
+**petre sa dayi.**
 – The stone is big.  
-**meze si novi.**
+**meze sa novi.**
 – The table is new.  
 **meze no purani.**
 – The table is not old.
 
 Also two personal pronouns can be combined with **si** and **no**.
 
-**me si le.**
+**me sa le.**
 – I am he/she.  
-**me no te.**
+**me no sa te.**
 – I'm not you.
 
 ### With adjective subject
 
 The same rule applies also for two adjectives.
 
-**jovani si sundari.**
+**jovani sa sundari.**
 – Young is beautiful.  
-**novi no purani.**
+**novi no sa purani.**
 – New is not old.  
 
 ### With verb subject
 
 A verb can't be subject as such.
-So the verb is first, use **ye** to start a comment about the verb.
+So the verb is first, use **ce** to start a comment about the verb.
 
-**chanta, ye bon.**
+**chanta, ce sa boni.**
 – Singing, that is good. (Singing is good.)
 
 
@@ -111,7 +111,7 @@ recipient–verb–(optional agent).
 – Music is heard.  
 **pang beku.**
 – Bread is baked.  
-**kope parchu.**
+**kope parcu.**
 – Cup breaks. (Cup gets broken.)
 
 The agent can be mentioned after the verb with or without the preposition **da**.
@@ -137,19 +137,19 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me volu te yama vejete.**
+**me vola te yama vejete.**
 – I want you eat vegetables.
 
-In the example above, **me volu** has **te** as its object.
+In the example above, **me vola** has **te** as its object.
 At the same time, **te** functions as the subject of the following predicate, **yama vejete**.
 So **te** is the _pivot_ of the entire sentence.
 
 The first verb in a pivot structure is a modal verb,
 which indicates a modality such as advice, desire, permission or obligation.
 
-**me volu te yama vejete.**
+**me vola te yama vejete.**
 – I want you to eat vegetables. (desire)  
-**me menta te yama vejete.**
+**me sela te yama vejete.**
 – I advice you to eat vegetables. (advice)  
 **me halala te yama vejete.**
 – I allow you to eat vegetables. (permission)  
@@ -162,11 +162,11 @@ which indicates a modality such as advice, desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **me gova dome.**
+1. **me gowa dome.**
    – I go home.  
-2. **me abla gova dome.**
+2. **me abla gowa dome.**
    – I can go home.  
-3. **me volu abla gova dome.**
+3. **me vola abla gowa dome.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -176,11 +176,11 @@ which that indicate a modality such as likelihood, ability, advice, permission, 
 
 **te abla yama vejete.**
 – You can eat vegetables. (ability)  
-**te mentu yama vejete.**
+**te selu yama vejete.**
 – You had better eat vegetables. (advice)  
 **te halalu yama vejete.**
 – You may eat vegetables. (permission)  
-**te volu yama vejete.**
+**te vola yama vejete.**
 – You want to eat vegetables. (desire)  
 **te musu yama vejete.**
 – You must eat vegetables. (obligation)  
@@ -230,24 +230,28 @@ This is done especially in commands and requests.
 
 #### Affirmative
 
-Particle **si** is affirmative and **no** is negative.
-**si** affirms the existence of something, whereas **no** denies it.
-In other words **si** means "to be" or "there is" and **no** means "not to be" or "there is not".
+Expressions are affirmative by default.
 
-Expressions are affirmative by default, so the word **si** is not always necessary.
-However it is especially convenient in expressions of state.
-
-**me sa ren.**
-– I am a person.  
-**le si novi meze.**
+**me sa xef.**
+– I am the boss.  
+**le sa novi meze.**
 – It is a new table.
+
+Affirmation can be emphasized with the adverb
+**yo**
+(_indeed_).
+
+**me yo sa xef.**
+– I indeed am the boss.  
+**le yo sa novi meze.**
+– It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**me no ren.**
-– I'm not a person.  
+**le no sa xef.**
+– He is not the boss.  
 **le no novi meze.**
 – It's not a new table.
 
@@ -269,21 +273,29 @@ Different scopes of negation may result depending on the location of the negativ
 **me pliza te no safa kamar.**
 – I ask you NOT to clean the room.
 
-The particles **si** and **no** are used also for answering questions.
+Words
+**ye**
+(_yes_) and
+**no**
+(_no_) are used for answering questions.
 
-**te vida me, no?**
+**eska te vida me?**
 – Do you see me?  
-**si. (me si vida te.)**
-– Yes. (I do see you.)  
+**ye. (me yo vida te.)**
+– Yes. (I indeed see you.)  
 **no. (me no vida te.)**
 – No. (I don't see you.)
 
-Negative questions are answered so that **si** and **no** apply to the verb, not the whole question.
+Negative questions are answered so that
+**ye**
+and
+**no**
+apply to the verb, not the whole question.
 
-**te no vida me, si?**
+**eska te no vida me?**
 – Don't you see me?  
-**si. (me si vida te.)**
-– Yes. (I do see you.)  
+**ye. (me vida te.)**
+– Yes. (I see you.)  
 **no. (me no vida te.)**
 – No. (I don't see you.)
 
@@ -423,9 +435,9 @@ In more complex cases, it can become challenging to maneuver the noun to the end
 word order may be relaxed as long as it is clear where in the modifying clause the noun goes. Note, however, that it
 may be more understandable to simply rearrange the sentence entirely.
 
-**lole loga loke da me no abla eureka sa karte.**
+**lole namana loke da me no abla eureka sa karte.**
 – They named a place I couldn't find on the map.
-**me cana table da ren. me raya mome xudu wenda lole tema liga momi partia.**
+**me cana table da jan. me raya mome xudu wenda lole tema liga momi partia.**
 – I've tabulated the people that I think we should ask about joining our party.
 
 ### Modal Particles
@@ -454,23 +466,23 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **paso** (past), **zayo** (present) and **vilo** (future, upcoming).
+The general time words are **paso** (past), **zayo** (present) and **wilo** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
 **me paso tena maw.**
 – I had cats.  
 **a me no zayo tena maw.**
 – But I now don't have cats.  
-**ablo me vilo tena maw.**
+**ablo me wilo tena maw.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **sa pase** (in the past) etc.
+It's also possible to say it in a longer way like **va pase** (in the past) etc.
 
-**me tena maw sa pase.**
+**me tena maw va pase.**
 – I had cats in the past.  
-**a me no tena maw sa zaye.**
+**a me no tena maw va zaye.**
 – But I don't have cats at present.  
-**ablo me tena maw sa vile.**
+**ablo me tena maw va wile.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

@@ -7,42 +7,42 @@ Introducing yourself
 ### Dialog
 
 <big>👩</big>
-**te si ke?**
+**te sa ke?**
 = Who are you?  
 <big>🧔</big>
-**me si Yusef. te si ke?**
+**me sa Yusef. te sa ke?**
 = I am Yusef. Who are you?  
 <big>👩</big>
-**me si Maria. le si ke?**
+**me sa Maria. le sa ke?**
 = I am Maria. Who is that?  
 <big>🧔</big>
-**le si mi doste.**
+**le sa mi doste.**
 = That is my friend.  
 <big>👩</big>
-**li nam si ke?**
+**li nam sa ke?**
 = What's her name?  
 <big>🧔</big>
-**li nam si Sara.**
+**li nam sa Sara.**
 = Her name is Sarah.
 
 ### Grammar
 
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
-tells something about the topic. For instance in **le si mi doste**
+tells something about the topic. For instance in **le sa mi doste**
 the topic is the pronoun **le** (he, she, it), which is followed by
-the comment **si mi doste** (is my friend).
+the comment **sa mi doste** (is my friend).
 
-In Pandunia, the word **si** functions like _to be_ in English.
+In Pandunia, the word **sa** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
 simply replace it with **no** (which is the word for _no_).
 
-**le si Sara.**
+**le sa Sara.**
 = She is Sarah.  
-**le no Sara.**
+**le no sa Sara.**
 = She is not Sarah.
 
-**maw si hewan.**
+**maw sa hewan.**
 = The cat is an animal.  
 **dom no hewan.**
 = The house is not an animal.  
@@ -87,8 +87,8 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**si**
-yes  
+**sa**
+to be  
 **no**
 no; not  
 **boni**
@@ -108,12 +108,12 @@ animal
 
 ### Answers to the Exercises
 
-1. te si ke?
-2. me si tomas.
-3. ti doste si ke?
-4. le si Sara.
-5. ti nam si ke?
-6. mi nam si ........... 
+1. te sa ke?
+2. me sa tomas.
+3. ti doste sa ke?
+4. le sa Sara.
+5. ti nam sa ke?
+6. mi nam sa ........... 
 
 
 --------------------------------------------------------------------------------
@@ -176,7 +176,7 @@ name, kinship term or profession.
 = Hello, mother!  
 **salam pape!**
 = Hello, father!  
-**salam shef!**
+**salam xef!**
 = Hello, chief!
 
 Another Pandunia word for greeting is **halo**. It is also a very
@@ -207,7 +207,7 @@ to greet
 mother, mom  
 **pape**
 father, dad  
-**shef**
+**xef**
 chief, boss  
 
 
@@ -364,10 +364,10 @@ to eat or drink
 ### Answers to the Exercises
 
 1. le yama cay.
-2. shef pliza le sida.
+2. xef pliza le sida.
 3. pliza yama kafe o cay.
 4. mame pliza me safa kamar.
-5. shef sida e yama kafe.
+5. xef sida e yama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -400,7 +400,7 @@ Yes or no questions
 **eska te yama supe?**
 = Would you like to have soup?  
 <big>🧔</big>
-**si, yama.**
+**ye, yama.**
 = Yes. (_I eat._)  
 <big>👩‍🍳</big>
 **eska le yama supe?**
@@ -409,7 +409,7 @@ Yes or no questions
 **no yama.**
 = No.  
 <big>👩‍🍳</big>
-**danke. me dona un cay e un kafe e un supe sa bade da desi minute.**
+**danke. me dona un cay e un kafe e un supe va bade da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -440,7 +440,7 @@ discussion.
 
 Of course common and proper nouns can also be used.
 
-**eska shef yama kafe?**
+**eska xef yama kafe?**
 = Does the chief drink coffee?  
 **eska pape safa kamare?**
 = Does the father clean the room?  
@@ -450,11 +450,11 @@ Of course common and proper nouns can also be used.
 
 ### Giving answers
 
-Yes/no questions can be answered with **si** = yes, and **no** = no.
+Yes/no questions can be answered with **ye** = yes, and **no** = no.
 
 – **eska te yama supe?**
 = Do you eat soup?  
-– **si.**
+– **ye.**
 = Yes.  
 – **eska le yama supe?**
 = Does she eat soup?  
@@ -465,7 +465,7 @@ Also more complete answers can be given.
 
 – **eska te yama kafe?**
 = Do you drink coffee?  
-– **si. me yama kafe.**
+– **ye. me yama kafe.**
 = Yes, I drink coffee.  
 – **eska le yama kafe?**
 = Does he drink coffee?  
@@ -513,14 +513,14 @@ one (1)
 ten  
 **eska**
 to ask a question  
-**si**
+**ye**
 yes
 
 
 ### Answers to the Exercises
 
 1. eska te baxa pandunia?
-2. si. me baxa pandunia.
+2. ye. me baxa pandunia.
 3. eska mame yama kafe?
 4. no. le no yama kafe.
 5. eska le yama supe?
@@ -532,7 +532,7 @@ yes
 Saying no
 ---------
 
-In the previous lesson you learned to answer **si** and **no** to
+In the previous lesson you learned to answer **ye** and **no** to
 questions. The word **no** is used for denying something. Adding
 **no** in front of the verb turns an affirmative sentence to negative.
 
@@ -584,14 +584,22 @@ is more than one correct answer.
 
 ### Word List
 
-**kupe** cup, glass, mug.
-**kali** empty.
-**tena** to have.
-**maw** cat.
-**waf** dog.
-**duli** two.
-**nol** zero.
-**a** but.
+**kupe**
+cup, glass, mug.
+**kali**
+empty.
+**tena**
+to have.
+**maw**
+cat.
+**waf**
+dog.
+**duli**
+two.
+**nol**
+zero.
+**a**
+but.
 
 
 ### Answers to the Exercises
@@ -600,7 +608,7 @@ is more than one correct answer.
 2. un kupe no kali.
 3. duli waf no yama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
-5. shef yama cay a no kafe.
+5. xef yama cay a no kafe.
 6. mame tena no waf a duli maw.
 
 
@@ -613,7 +621,7 @@ _when_, the interrogative pronoun **ki** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**le si ke?**
+**le sa ke?**
 = What is that? / Who is (s)he?  
 **ki ren laya?**
 = Who is coming? (**ren** = person)  
@@ -669,7 +677,7 @@ something, even when not answering to a question.
 1. ki ren suku supe?
 2. pape suku.
 3. ki zaman le laya?
-4. sa bade da desi minute.
+4. va bade da desi minute.
 5. ke saba le no yama?
 6. sabu le no suku kafe o supe.
 
@@ -693,7 +701,7 @@ or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
 sentence tells about the past time.
 
-**me yama pang sa subi yam.**
+**me yama pang va subi yam.**
 = I ate bread for morning meal.
 
 There are also specific time words.
@@ -714,11 +722,11 @@ There are also specific time words.
 The adjectives for past, present and future are **pasi**, **zayi** and
 **vili**. They can be used for modifying nouns.
 
-**Sara si mi pasi shef.**
+**Sara sa mi pasi xef.**
 = Sarah is my former boss.  
-**Yusef si mi zayi shef.**
+**Yusef sa mi zayi xef.**
 = Yusef is my current boss.  
-**Maria si mi vili shef.**
+**Maria sa mi vili xef.**
 = Maria is my future boss.
 
 The same roots are used when you talk about actions and events in time.
@@ -737,13 +745,13 @@ Alternatively the time word can be placed last in the sentence.
 **me darba le zayo.**  
 **me darba le vilo.**
 
-It's also possible to use longer phrases like **sa pase** (in the past) etc.
+It's also possible to use longer phrases like **va pase** (in the past) etc.
 
-**me darba le sa pase.**
+**me darba le va pase.**
 = I hit it in the past.  
-**me darba le sa zaye.**
+**me darba le va zaye.**
 = I hit it at present.  
-**me darba le sa vile.**
+**me darba le va vile.**
 = I hit it in the future.
 
 
@@ -763,9 +771,9 @@ still talking in the same tense.
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**me jenu sa nen 2003.**
+**me jenu va nen 2003.**
 = I was born in 2003.  
-**le safa kamare sa badi den.**
+**le safa kamare va badi den.**
 = He will clean the room tomorrow.
 
 
@@ -791,11 +799,11 @@ Try translating these sentences from English to Pandunia.
 
 ### Answers to the Exercises
 
-1. mi shef festa sa vile.
-2. me tena duli waf sa pase.
+1. mi xef festa va vile.
+2. me tena duli waf va pase.
 3. te yama supe zay.
-4. le safa kamare sa predi den.
-5. maw yama kafe sa badi den.
-6. ti mame festa sa predi noce.
+4. le safa kamare va predi den.
+5. maw yama kafe va badi den.
+6. ti mame festa va predi noce.
 
 

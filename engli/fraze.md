@@ -85,7 +85,7 @@ Thanks!
 **multo danke!**
 Thanks a lot!
 
-**si, danke.**
+**ye, danke.**
 Yes, thank you.
 
 **no, danke.**
@@ -228,20 +228,20 @@ I'm not good.
 is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small>
 
 
-### si <small>yes</small>
+### ye <small>yes</small>
 
 <p style="font-size:5em">👍</p>
 
 **eska te Tomas?**
 Are you Thomas.
 
-**si, me Tomas.**
+**ye, me Tomas.**
 Yes, I am Thomas.
 
 **eska le mediker?**
 Is he/she a doctor?
 
-**si, le mediker.**
+**ye, le mediker.**
 Yes, he is a doctor.
 
 
@@ -257,7 +257,7 @@ I'm not a doctor.
 
 **eska te boni?**
 Are you well?  
-**si. me boni.**
+**ye. me boni.**
 Yes, I'm well.
 
 **eska te boni?**
