@@ -461,6 +461,10 @@ buton.ban:|butonban||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klaw
 buy:|buy|biw||swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu|baobab||baobab|||||||||||||baobabo|apinanleipäpuu (baobab)|baobab
 buz:e|buze|||swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
 C|C||||C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C
+c:e|ce||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
+c:e|ce||||this one||esto|||||これ||||||||ĉi tio|tämä|ten konkretny
+c:i|ci||||that (those)||eso|||||||||||||tiu|tuo (nuo)|tamten (tamten)
+c:i|ci|||zho:此 (cǐ), yue:此 (chi2), fra:ce|this (these)||esto|||||||||||||ĉi tiu|tämä (nämä)|ten, te
 cab:e|cabe|||por:chave, hin:(cābi), kon:nsapi|key||llave|||||||||||||ŝlosilo|avain|klucz
 Cad:e|Cade|desh|TD||Chad||Chad||||||||||||||Tšad|Czad
 cak:e|cake|||hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|knife||cuchillo|||||||||||||tranĉilo|veitsi (puukko)|nóż
@@ -546,8 +550,8 @@ Cuana:|Cuana|desh|BW||Botswana||Botsuana||||||||||||||Botswana|Botswana
 cum:|cum|||hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|kiss||beso|||||||||||||kiso|suukko (pusu)|całus
 Cungking:|Cungking||||Chongqing||||||重庆||||||||||Chongqing|Chongqing
 cup:a|cupa|||spa:por:chupar, khm:ជប់ (cup)|suck (absorb)||chupar (succionar)|||||||||||||suĉi|imeä|ssać
-cut:e|cute|||zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā)|exit (leaving)||escapatoria|||||||||||||eliro|poistuminen|wyjśćie, opuszczenie
-cut:u|cutu||||leave (go out, exit)||salir (irse)|||||||||||||eliri|poistua|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać
+cut:a|cuta|||zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|leave (go out, exit)||salir (irse)|||||||||||||eliri|poistua|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać
+cut:e|cute||||exit (leaving)||escapatoria|||||||||||||eliro|poistuminen|wyjśćie, opuszczenie
 cut.o.mun:|cutomun||||exit door||salida|||||||||||||elirejo|uloskäynti|drzwi wyjściowe
 cuz:a|cuza|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choose (elect, select, pick)||elegir (escoger, seleccionar)|||||||||||||elekti|valita|wybrać, wybierać, selekcjonować
 cuz:e|cuze||||choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
@@ -568,6 +572,7 @@ dang:a|danga|||eng:dong, por:dlim-dlão, spa:tilín, zho:叮 (dīng), jpn:がん
 dang.er:|danger||||bell|cloche|campana (cencerro)|sino (campainha)|звонок||钟 (摇铃)|鐘 (鈴)|||||||||soittokello|dzwon (dzwonek)
 dank:a|danka||||thank||agradecer|||||||||||||danki|kiittää|dziękować
 dank:e|danke|||eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|thanks (thank you)||gracias|||||||||||||danko|kiitos|dzięki, dzięki ci
+dank:o d:a|danko da||||thanks to|grâce à|gracias a (merced a)|graças a||||||||||||dank’al|ansiosta|
 Danmark:e|Danmarke|desh|DK||Denmark||Dinamarca|||||||||||||Danio|Tanska|Dania
 dans:e|danse|||eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|dance|dance|baile (danza)|baile (danza)|танец||||||||tari||dans|danco|tanssi|taniec
 dant:e|dante|||spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|tooth||diente|||||||||||||dento|hammas|ząb
@@ -751,7 +756,7 @@ duw:a|duwa|||tur: dua, swa: dua, may: doa, ara: دُعَاء‏  (duʿāʾ)|pray
 duw:e|duwe||||prayer||rezo (oración)|||||||||||||preĝo|rukous|modlitwa
 dux:|dux|||fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|shower|douche|ducha|ducha|душ|دوش|淋浴|シャワー|샤워|vòi hoa sen|शावर||dus|shawaa|duş|duŝo|suihku|prysznic
 E|E||||E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E
-e:|e|||fra:et, por:e, spa:y;e, zho:和 (hé)|and (with)|et (avec)|y (con)|e|||和|||||||||kaj|ja (myös, kanssa)|i, oraz
+e:|e|||fra:et, por:e, spa:y;e, zho:和 (hé)|and|et|y|e|||和|||||||||kaj|ja (sekä)|i, oraz
 eglis:|eglis|||fas:(kelisā), tur:kilise, may:gereja, por:igreja, hin:गिरजा (girjā), ara:(kanisā), fra:église|church||iglesia|||||||||||||preĝejo|kirkko|kościół
 ek:i|eki||||environmental (natural)||ambiental (ecológico, natural)||||||||||||||ympäristö- (luonto-)|środowiskowy, naturalny
 ek:ia|ekia|||eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-|environment (nature)||medioambiente (naturaleza)|||||||||||||naturo|luonto|natura, środowisko
@@ -831,8 +836,8 @@ estad:ia|estadia|||fra:stade, por:estádio, spa:estadio, rus:стадион (sta
 estan:|estan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
 estas:a|estasa||||hold (detain)||mantener (detener)||||||||||||||seisottaa|zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
 estas:i|estasi||||static (stationary)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
-estas:u|estasu||||stand still||pararse (detenerse)||||||||||||||seisoa (seisahtaa)|nie ruszać się
 estas:ia|estasia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station||estación|||||||||||||stacio|asema|stacja
+estas:u|estasu||||stand still||pararse (detenerse)||||||||||||||seisoa (seisahtaa)|nie ruszać się
 estib.em:|estibem|mate|Sb||antimony|antimoine|antimonio|antimônio|сурьма (стибиум)||锑|アンチモン|||अंजन||||||antimoni|antymon
 estront.em:|estrontem|mate|Sr||strontium||strontium|||||||||||||stroncio|strontium|stront
 estud:ia|estudia|||rus:студия (studiya), spa:estudio, por:estúdio|studio||estudio||||||||||||||ateljee (studio)|studio (pracownia)
@@ -1402,6 +1407,7 @@ itis:|itis|||eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|inflammation (-itis)|i
 iv:a|iva||||tend to|avoir tendance à|tender|tender||||||||||||emi|olla taipuvainen|być skłonnym (mieć skłonność)
 iv:e|ive|||eng:-ive, deu:-iv, fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|tendency (inclination)|tendance|tendencia|tendência|тенденция||趋势|傾向|경향|||||||emo (inklino, tendenco)|taipumus|tendencja
 J|J||||J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J
+j:a|ja|prep.|||from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
 jag:a|jaga||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 jag:i|jagi|||hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|awake|éveillé|despierto|acordado|acordado|||||||||jaga||uyanık|olla hereillä|przebudzony, przytomny
 jag:u|jagu||||wake (become awake)||despertarse|despertar|проснуться||睡醒|起きる|||जागना||menjagakan||uyanmak|||
@@ -2293,8 +2299,8 @@ Moskove|Moskove|shefocite|RU||Moscow||||Москва||||||||||||Moskova|Moskwa
 moskovem|moskovem|mate|Mc||moscovium||moscovio|||||||||||||moskovio|moskovium|moskovium
 mot:e|mote||||motion (movement)||movimiento|||||||||||||movo|liike|ruch
 mot.er:|moter|||eng:spa:por:tur:may:motor, fra;moteur, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr)|engine (motor)|moteur|motor|motor|мотор||马达 (发动机)|モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|मोटर|ইঞ্জিন (মোটর)|motor|injini (ntambo)|motor|motoro|moottori|silnik
-mot.o.sikl:e|motosikle|||eng:motorcycle, spa:motocicleta, fra:motocyclette, rus:мотоцикл (mototsikl), tur:motosiklet, hin:मोटरसाइकिल (moṭarasāikila), may:motosikal, zho:摩托车 (mótuōchē), jpn:モーターサイクル (mōtāsaikuru)|motorcycle||motocicleta||мотоцикл|||オートバイ (モーターサイクル)|||||||||moottoripyörä|motocykl (motor)
 mot.o.gar:|motogar|||eng:motorcar, sna:motokari, sot:motokara, swa:motokaa, zul:imoto, hau:mota|motorcar (automobile)||automóvil (coche)||||||||||||||auto (automobiili)|samochód (automobil)
+mot.o.sikl:e|motosikle|||eng:motorcycle, spa:motocicleta, fra:motocyclette, rus:мотоцикл (mototsikl), tur:motosiklet, hin:मोटरसाइकिल (moṭarasāikila), may:motosikal, zho:摩托车 (mótuōchē), jpn:モーターサイクル (mōtāsaikuru)|motorcycle||motocicleta||мотоцикл|||オートバイ (モーターサイクル)|||||||||moottoripyörä|motocykl (motor)
 Mozambike|Mozambike|desh|MZ||Mozambique||Mozambique||||||||||||||Mosambik|Mozambik
 mudan|mudan||biwe|zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:mẫu đơn|peony||peonía||||||||||||||pioni|piwonia
 muhe|muhe|biw||(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|cow||vaca (toro)|||||||||||||bovo|nauta (lehmä)|krowa
@@ -2328,18 +2334,10 @@ muskulbin|muskulbin||||bodybuilding|culturisme (musculation)|fisicoculturismo (c
 muta|muta|||spa:mudar, eng:mutate, fra:muter|change (alter, convert)||cambiar|||||||||||||aliigi|muuttaa (muuntaa)|zmienić, zmieniać
 mux|mux|||pol:mysz, rus:мышь (myś), fas:(muš)|mouse||ratón|||||||||||||muso|hiiri|mysz
 N|N||||N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N
-n:a|na|prep.|rus:в (v), pol:w + ara:وَ (wa), fas: و‎ (va), tur:ve, swa:wa + yue:和 (wo4), kor:와 (wa), vie:và||by (at, in, on)|a (dans, en, chez)|en (a)||в||在||||||||||luona (-lla, -ssa)|przy, z, na, w, u
-n:a k:e|na ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
-n:a liny:e|na linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
-n:a sab:u|na sabu||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
-n:a w:e|na we||||there||allí (allá)||||||||||||||tuolla|
-n:a y:e|na ye||||here||acá (aquí)|||||||||||||tie|täällä|tu (tutaj, tam)
-na|na||||without||sin|sem||||||||||||sen|ilman|bez
-na linye|na linye||||offline|||||||||||||||||offline (nie na linii, poza siecią)
-nabe|nabe||||prophecy||profecía|||||||||||||profetaĵo|profetia|proroctwo
-naber|naber|||ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|prophet||profeta||||||||||||||profeetta|prorok
-naciste|naciste|||rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|Nazi||Nazi||||||||||||||natsi|nazista
-nacistia|nacistia||||Nazism||nazismo||||||||||||||natsismi|nazizm
+n:a|na||||without||sin|sem||||||||||||sen|ilman|bez
+n:a liny:e|na linye||||offline|||||||||||||||||offline (nie na linii, poza siecią)
+nab:e|nabe||||prophecy||profecía|||||||||||||profetaĵo|profetia|proroctwo
+nab.er:|naber|||ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|prophet||profeta||||||||||||||profeetta|prorok
 nade|nade|||hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|river (stream)|rivière (fleuve)|rio|rio|река|نَهْر|河 (江)|川|강||नदी (दरिया)|নদী|sungai|mto||rivero|joki (virta)|rzeka
 nafas|nafas|||ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|breath||respiración|||||||||||||spiro|hengitys (henkäys)|oddech
 nagre|nagre|||hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|town||pueblo|||||||||||||urbo|kaupunki|miasto
@@ -2361,13 +2359,13 @@ nanmetre|nanmetre|unomete|nm||nanometer||nanometre||||||||||||||nanometri|nanome
 nano-|nano-||||nano-||nano-||||||||||||||nano-|nano-
 narake|narake|||hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)|hell||infierno||||||||||||||helvetti|piekło
 narde|narde|||fas:urd: نرد‎ (nard), rus:нарды (nardy)|backgammon|backgammon|backgammon|gamão|нарды (триктрак) ||||||बैकगैमन||||||backgammon|
-nas|nas||||people (folk)||gente||||||||||||||kansa|ludzie (lud, ludność)
-nasi|nasi||||national||nacional||||||||||||||kansallinen|narodowy (ludowy)
-nasi socistia|nasi socistia||||national socialism||socialismo nacional||||||||||||||kansallissosialismi|narodowy socjalizm
-nasia|nasia|||ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|nation|nation|nación|nação|нация||||||||||||kansakunta|naród, narodowość
-nasiste|nasiste||||nationalist||nacionalista||||||||||||||nationalisti|nacjonalista
-nasistia|nasistia||||nationalism||nacionalismo||||||||||||||kansallisuusaate (nationalismi)|nacjonalizm
-nasmedi|nasmedi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
+nas:|nas||||people (folk)||gente||||||||||||||kansa|ludzie (lud, ludność)
+nas:i|nasi||||national||nacional||||||||||||||kansallinen|narodowy (ludowy)
+nas:i soc.ist:ia|nasi socistia||||national socialism||socialismo nacional||||||||||||||kansallissosialismi|narodowy socjalizm
+nas:ia|nasia|||ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|nation|nation|nación|nação|нация||||||||||||kansakunta|naród, narodowość
+nas.ist:e|nasiste||||nationalist||nacionalista||||||||||||||nationalisti|nacjonalista
+nas.ist:ia|nasistia||||nationalism||nacionalismo||||||||||||||kansallisuusaate (nationalismi)|nacjonalizm
+nas.med:i|nasmedi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
 natr:e|natre||||natron||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||
 natr.em:|natrem|mate|Na||sodium||sodio||натрий|||||||||||natrio|natrium|sód
 Nauru|Nauru|desh|NR||Nauru||Naúru||||||||||||||Nauru|Nauru
@@ -2375,6 +2373,8 @@ nautil|nautil|biw||eng:nautilus, spa:nautilo, por:nautiloide, rus:наутили
 navi|navi|||hin:नौ (nau), urd:(nau), spa:nueve, por:nove, fra:neuf|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||||||||yhdeksän|dziewięć (9)
 navmes|navmes|mese|||September||septiembre|||||９月|||||||||syyskuu|grudzień
 nawati|nawati||||Nahuatl (Nahua)||náhuatl (nahua)|||||||||||||naūatla|nahuatli|nahuatl
+naz.ist:e|nasiste|||rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|Nazi||Nazi||||||||||||||natsi|nazista
+naz.ist:ia|nasistia||||Nazism||nazismo||||||||||||||natsismi|nazizm
 Nederlandi Antile|Nederlandi Antile|desh|AN||Netherlands Antilles||Antillas Neerlandesas||||||||||||||Alankomaiden Antillit|Antyle Holenderskie
 Nederlandia|Nederlandia|desh|NL||Netherlands||Países Bajos||||||||||||||Alankomaat (Hollanti)|Holandia (Królestwo Niderlandów)
 nefre|nefre|||eng:fra:nephro-, spa:por:nefro-, deu:Niere|kidney|rein|riñon|rim|почка||肾脏|腎臓|콩팥 (신장)|thận|गुर्दा|বৃক্ক|ginjal||böbrek|reno|munuainen|nerka
@@ -2962,6 +2962,7 @@ s:i|si|||||son (sa)|su (suyo)||||||||||||||oma (-nsa)|
 s.er:|ser||||being (entity)||ser||||||||||||||olento (olio)|
 sab:a|saba||||cause (be the cause for)||causar||||||||||||||aiheuttaa (olla syynä)|spowodować, powodować
 sab:e|sabe|||heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|reason (cause)||razón (causa)|||||||||||||kialo|syy|powód, przyczyna
+sab:o da|sabo da||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
 sabat:e|sabate||||Sabbath||sabbat||||||||||||||sapatti|szabat, szabas
 sabun:|sabun|||ara:(ṣābūn), tur:sabun, swa:sabuni, hin:साबुन (sābun), por:sabão, spa:jabón, fra:savon|soap||jabón||||肥皂||||साबुन||sabun|sabuni|sabun|sapo|saippua|mydło
 sad:i|sadi|||tur:sade, fas:(sāde), hin:सादा (sādā)|plain (ordinary, unadorned, simple, mere)||sencillo (liso)||||||||सादा||||sade||koruton (tavanomainen, pelkkä)|zwykły, zwyczajny, prosty
@@ -3096,7 +3097,6 @@ set.yom:|setyom||||Sunday|dimanche|domingo|domingo|воскресенье|يوم
 seti|seti|||spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), tha:เจ็ด (chet), yue:七 (chat1), jpn:七 (shichi), tur:yedi|seven (7)|sept (7)|siete (7)|sete (7)|семь (7)|七 (7)|七 (7)|||||||||sep (7)|seitsemän (7)|siedem (7)
 setomes|setomes|mese|||July||julio|||||７月|||||||||heinäkuu|październik
 Sexel nesia|Sexel nesia|desh|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
-si|si|||spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 siah:i|siahi|rang||fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|black|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny
 sian:i|siani|||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン|||||||||syaani|niebieskozielony (cyjan)
 Sibir:ia|Sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
@@ -3462,6 +3462,11 @@ Uzbekia|Uzbekia|desh|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekis
 uzer|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
 uzernam|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
 V|V||||V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V
+v:a|va|prep.|rus:в (v), pol:w + ara:وَ (wa), fas: و‎ (va), tur:ve, swa:wa + yue:和 (wo4), kor:와 (wa), vie:và||by (at, in, on)|a (dans, en, chez)|en (a)||в||在||||||||||luona (-lla, -ssa)|przy, z, na, w, u
+v:a c:e|va ce||||there||allí (allá)||||||||||||||tuolla|
+v:a c:e|va ce||||here||acá (aquí)|||||||||||||tie|täällä|tu (tutaj, tam)
+v:a k:e|va ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
+v:a liny:e|va linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 vad:e|vade|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina
 vad.o.susan:|vadosusan|biw|Convallaria majalis||lily of the valley||convalaria (lirio de los valles)|lírio-do-vale|ландыш||鈴蘭|キミカゲソウ (スズラン)||||||||||konwalia majowa
 vagin:|vagin|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
@@ -3494,11 +3499,6 @@ version:|version|||eng:fra:version, por:versão, rus:версия (versiya), may
 vesp:e|vespe|biw||spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|bee or wasp|abeille ou guêpe|abeja o avispa|abelha ou vespa|||蜂|蜂||||||||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
 vesp.o.nizd:e|vesponizde||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣||||||||||ul (gniazdo pszczół lub os)
 vey:|vey|||zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|tail||cola (rabo)||хвост||尾巴 (尾部)|尾 (尾翼)|||पूंछ (दुम)|লেজ|ekor (kotek, basian)|mkia|kuyruk|vosto|häntä|ogon
-vis:a|visa||||substitute (replace)||sustituir (reemplezar)||||||||||||||korvata|zastąpić (podstawić, zamienić)
-vis:|vis||||alternative (substitute, replacement)||alternativa (sustituto)|||||代替||||||||||alternatywa (substytut, zastępstwo)
-vis:i|visi|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy)||vice-|||||||||||||vic-|vara- (korvike-)|wice-
-vis.log:e|visloge||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
-vis.prezident:e|visprezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
 vid:a|vida|||rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|look (see)|voir|ver (mirar)|ver|видеть||看|||||||||vidi (rigardi)|nähdä|patrzeć, widzieć
 vid:e|vide||||view (vision)||vista (visión)||||||||||||||näkymä|widok, wzrok
 vid:u|vidu||||be seen||ser visto||||||||||||||näkyä|być widzianym
@@ -3518,6 +3518,11 @@ vir:|vir|||hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீ�
 vir:i|viri||||heroic||valiente (heroico)|||||||||||||heroa|urhea (sankarillinen)|bohaterski, heroiczny, odważny, brawurowy
 virus:|virus|||eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|virus|virus|virus||вирус||||||||||||virus|wirus
 virus.loj:ia|viruslojia|||pol:wirusologia, rus:вирусология (virusologiya)|virology||virología||вирусология||||||||||||virologia|wirusologia
+vis:|vis||||alternative (substitute, replacement)||alternativa (sustituto)|||||代替||||||||||alternatywa (substytut, zastępstwo)
+vis:a|visa||||substitute (replace)||sustituir (reemplezar)||||||||||||||korvata|zastąpić (podstawić, zamienić)
+vis:i|visi|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy)||vice-|||||||||||||vic-|vara- (korvike-)|wice-
+vis.log:e|visloge||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
+vis.prezident:e|visprezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
 vit:e|vite|||fra:vis, ita:vite, rus:винт (vint), tur:vida|screw||tornillo||||||||||||||ruuvi|śruba, wkręt
 viz:e|vize|||tur:vize, eng:visa, rus:виза (viza), hin:वीज़ा (vīzā)|visa||visado||виза||||||वीज़ा||||||viisumi|wiza
 vod:a|voda||||promise (pledge)|promettre|prometer (comprometerse)||||许诺|||||||||promesi|luvata (vannoa)|obiecać, angażować się
@@ -3532,8 +3537,6 @@ vot.o.hak:e|votohake||||franchise (right to vote)||sufragio (derecho al voto)|||
 vulv:e|vulve|||fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|vulva|vulve|vulva|vulva|вульва||外阴 (陰门)|陰門|음문|âm hộ|||||vulva|vulvo|häpy (ulkosynnyttimet)|srom
 vute|vute|||zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|object (item)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
 W|W||||W|W|W|W|W|W|W|W|W|W|W|W|W|W|W|W|W|W
-w:e|we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
-w:i|wi|||hin:वह (wo), ben:ওই (oi)|that (those)||eso|||||||||||||tiu|tuo (nuo)|tamten (tamten)
 waf:|waf|biw||eng:woof, spa:guau, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog||perro||||||||||||||koira|pies
 wakil:|wakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||reprezentant (przedstawiciel)
 wakil:a|wakila||||represent||representar||||||||||||||edustaa|reprezentować
@@ -3659,8 +3662,8 @@ xuxa|xuxa||||silence (make silent)|||||||||||||||silentigi|hiljentää|uciszyć 
 xuxi|xuxi||||silent||silencioso||тихий|||||||||||silenta|hiljainen|cichy
 xuxo|xuxo|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)||chito (chist)||||噓|しーっ|쉿|suỵt|||||||hiljaa (hys, shhh)|ćsi
 Y|Y||||Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y
-y:e|ye||||this one||esto|||||これ||||||||ĉi tio|tämä|ten konkretny
-y:i|yi|||hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i),|this (these)||esto|||||||||||||ĉi tiu|tämä (nämä)|ten, te
+y:a|ya||||with (by)|avec|con||||||||||||||kanssa (kera, -lla)|
+y:e|ye|||eng:yes;yeah, kor:예 (ye), may:ya|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 yag:a|yaga||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 yag:o|yago|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
 yag.o.nes:|yagones||||peninsula||península|||||||||||||||półwysep
@@ -3711,7 +3714,6 @@ yumor.ist:e|yumoriste||||humorist||humorista|||||||||||||humuristo|humoristi|kom
 yuterb.em:|yuterbem|mate|Yb||ytterbium||iterbio|||||||||||||iterbio|ytterbium|iterb
 yutr.em:|yutrem|mate|Y||yttrium||itrio|||||||||||||itrio|yttrium|itr
 Z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
-z:a|za|prep.||rus:из-за (iz-za), pol:z,za + fas: از‎ (az) + zho:自 (zì) + ned:zich, deu:sich, fra:por:spa:se|from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
 zaitun:|zaitun|biw||ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|olive||aceituna|||||||||||||olivo|oliivi|oliwka
 zalim:i|zalimi|||ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|mean (cruel)||mezquino (antipático)||||||||||||||ilkeä (julma)|złośliwy, okrutny
 zaman:|zaman|||tur:zaman, may:jaman, swa:zamani, ara:(zaman), fas:(zamān), + hin:समय (samay)|time (period, epoch, era)||tiempo (periodo)||период (эпоха)||||||||jaman (zaman)|zamani|zaman||aikakausi|czas (epoka, era)
