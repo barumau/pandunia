@@ -234,7 +234,7 @@ bad:e|bade||||consequence (back, follow-up)||consecuencia (siguiente)|||||後 (�
 bad:i|badi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
 bad:o|bado||||later (after)||más tarde||||||||||||||myöhemmin|później
 bad.o.den:o|badodeno||||tomorrow||mañana|||||明日||||||||morgaŭ|huominen|jutro
-bad.o.fiks:e|badofikse||||suffix||sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
+bad.o.fix:|badofix||||suffix||sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
 badam:|badam|||may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|almond|amande|almendra|amêndoa|миндаль|لَوْز|杏仁 (巴旦木)|アーモンド (扁桃)|아몬드 (편도)|hạnh nhân|बादाम|বাদাম|badam|lozi|badem||manteli|migdał
 badaw:i|badawi||||bedouin (nomadic)||nómada|||||||||||||beduino (nomado)|beduiini|beduiński; nomadyczny
 badl:a|badla|||ara:(badala), hin:बदला (badlā), swa:badili, tur:bedel|exchange (swap, replace, trade)||intercambiar (canjear)|||||||||||||interŝanĝi|vaihtaa|wymieniać, wymienić, zamieniać, zamienić
@@ -507,7 +507,7 @@ cen:o|ceno|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie
 cen.ag:a|cenaga||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
 cen.amen:|cenamen||||destiny (fate)|destin|destino|destino|судьба||命運|運命 (宿命)|||किस्मत||takdir||kader||määrä (päämäärä, kohtalo)|przeznaczenie, los
 cen.den:o|cendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
-cen.fiks:e|cenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
+cen.fix:|cenfix||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
 cen.vid:a|cenvida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 cen.vid:i|cenvidi||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
 ceng:|ceng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
@@ -774,7 +774,6 @@ eks.o.nam:|eksonam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
 eks.o.tir:a|eksotira||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
 eks.o.yam:|eksoyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
 eksa:|eksa*|||eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)|exa-|||||||||||||||eksa-|eksa-|
-eksenon:|eksenon|mate|Xe||xenon||xenón||ксенон|||キセノン|||||xenon|zenoni|ksenon|ksenono|ksenon|ksenon
 ekuador|Ekuador|desh|EC||Ecuador||Ecuador|||||||||||||Ekvadoro|Ecuador|Ekwador
 eletr:e|eletre|||por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|electricity|électricité|electricidad|eletricidade||||電気|||||||cereyan (elektrik)|elektro|sähkö|elektryczność
 eletr:i|eletri||||electric||eléctrico|||||||||||||elektra|sähköinen|elektryczny
@@ -923,8 +922,6 @@ figur:|figur|||eng:fra:figure, spa:por:figura|figure (representation)||represent
 Fij:ia|Fijia|desh|FJ||Fiji||Fiji||||||||||||||Fidži|Fidżi
 fikr:a|fikra||||think (ponder, reflect)||pensar|||||||||||||pensi|ajatella (miettiä)|myśleć, dumać, rozmyślać, zastanawiać się, rozważać
 fikr:e|fikre|||ara:(fikr), fas:(fekr), tur:fikir, may:pikir, hin:(fikr)|thought (idea)||idea (pensamiento, reflexión)|||||||||||||penso|ajatus|myśl, pomysł
-fiks:a|fiksa|||eng:fix, fra:fixer, spa:fijar, por:fixar|fix (attach)||fijar (pegar, asegurar)|||||||||||||fiksi|kiinnittää|przyczepić, przymocować
-fiks:e|fikse||||attachment (affix)||accesorio (afijo)||||||||||||||kiinnitys|załącznik (przyrostek, afiks)
 fil:a|fila||||like||gustarse (querer)||||||||||||||tykätä (pitää)|lubić
 fil:ia|filia||||attraction (-philia)||attracción (-filia)||||||||||||||tykkääminen|zamiłowanie (-filia)
 fil.er:|filer|||eng:fra:-phile, por:spa:-filo|fan (-phile)||fan (-filo)||||||||||||||fani (-fiili)|miłośnik (fan, -fil)
@@ -943,6 +940,8 @@ firuz:e|firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फी
 fit:e|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetable, vegetation)|plante (végétal)|planta (vegetal, vegetación)|planta (vegetal)|растение|نَبَات‎|植物|植物|식물|thực vật|पौधा|গাছ|tumbuh-tumbuhan|mmea|bitki (nebat)|planto|kasvi|roślina, sadzonka
 fit.o.loj:ia|fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
 fit.yam.ist:e|fityamiste||||vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
+fix:a|fixa|||eng:fix, fra:fixer, spa:fijar, por:fixar|fix (attach)||fijar (pegar, asegurar)|||||||||||||fiksi|kiinnittää|przyczepić, przymocować
+fix:|fix||||attachment (affix)||accesorio (afijo)||||||||||||||kiinnitys|załącznik (przyrostek, afiks)
 fizik:e|fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
 fizik:ia|fizikia|||eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|physics (science)||física|||||||||||||fiziko|fysiikka|fizyk
 fizik.er:|fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
@@ -1827,7 +1826,7 @@ kruasante|kruasante|yame||fra:eng:croissant, por:croassã, spa:cruasán, rus:к�
 krus:|krus|||eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)|cross|croix|cruz|cruz|крест||||||||||çarpı (haç)|kruco|risti|krzyż
 krus:u|krusu||||cross (go across)||cruzar|||||||||||||||przejść w poprzek
 krus.ark:e|krusarke||||crossbow (ballista)||ballesta||самострел||弩 (十字弓)|クロスボウ (石弓)||||||||||kusza (balista)
-krus.fiks:a|krusfiksa||||crucify||crucificar||||||||||||||ristiinnaulita|ukrzyżować
+krus.fix:a|krusfixa||||crucify||crucificar||||||||||||||ristiinnaulita|ukrzyżować
 krus.kord:e|kruskorde||||crosshair (reticle)||retículo|||||十字線||||||||||celownik optyczny (siatka lunety)
 kuang|kuang|||zho:矿 (kuàng), vie:khoáng, kor:광 (guang)|mineral (ore)||mineral (mena)||||||||||||||kivennäinen (mineraali)|minerał, ruda
 kuanga|kuanga||||mine (extract)|||||||||||||||||kopać (wydobywać)
@@ -2215,9 +2214,6 @@ migre|migre|||fra:eng:migration, spa:migración, por:migração, rus:мигра�
 migru|migru||||move (migrate, relocate oneself)|s'installer (déménager)|migrarse (mudarse, trasladarse)|mudar-se|переезжать||||||||||||muuttaa (siirtyä)|przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)
 mikro-|mikro-||||micro-||micro-|||||||||||||mikro-|mikro-|mikro-
 Mikronesia|Mikronesia|desh|FM||Micronesia||Micronesia||||||||||||||Mikronesia|Mikronezja
-miksa|miksa|||deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|mix (blend)||mezclar||мешать|||||||||||miksi|sekoittaa|miksować, mieszać
-mikser|mikser||||mixer (blender)||batidora (licuadora, mezcladora)|||||||||||||miksilo|sekoitin|mikser, blender, robot kuchenny
-miksi alkol|miksi alkol||||cocktail||cóctel||коктейль|||カクテル (混合酒)||||||||||koktajl
 milgram|milgram|unomete|mg||milligram||miligrama||||||||||||||milligramma|miligram
 milke|milke|||eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|milk|lait|leche|leite|молоко|||牛乳 (ミルク)||||||||lakto|maito|mleko
 milkokardon|milkokardon|biw|Silybum marianum||milk thistle|chardon Marie|cardo mariano|cardo-mariano|расторопша пятнистая||水飞蓟|マリアアザミ||||||||||ostropest plamisty
@@ -2259,6 +2255,9 @@ Misr:ia|Misria|desh|EG|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र
 mita|mita||||meet||encontrar|encontrar|||聚会|会う|||मिलना||||||tavata|spotkać
 mite|mite|||eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|meeting (gathering)||reunión (junta, mitin)||||会议|会合 (会議, ミーティング)|회합 (회의)||बैठक (सभा, मीटिंग)||||||tapaaminen (kokous)|spotkanie, zebranie
 mitr:e|mitre|||eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|meter (100 cm)|mètre|metro|metro|метр|متر‎|米 (公尺)|メートル|미터|mét|मीटर|মিটার|meter|mita|metre|metro|metri|metr
+mixa|mixa|||deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|mix (blend)||mezclar||мешать|||||||||||miksi|sekoittaa|miksować, mieszać
+mixer|mixer||||mixer (blender)||batidora (licuadora, mezcladora)|||||||||||||miksilo|sekoitin|mikser, blender, robot kuchenny
+mixi alkol|miksi alkol||||cocktail||cóctel||коктейль|||カクテル (混合酒)||||||||||koktajl
 mode|mode|||fra:eng:mode, spa:por:modo|way (manner, mode)|mode (façon, manière)|modo (manera, forma)|modo (maneira, jeito)|||||||||||||tapa|sposób (metoda, tryb)
 model|model|||eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)|model (design)||modelar||||||||||||||malli|model, wzór, wzorzec, projekt
 modela|modela||||model (design)||modelo||||||||||||||mallintaa|modelować (projektować, zaprojektować)
@@ -2929,8 +2928,8 @@ rozorangi|rozorangi|rang|||pink (rosy)||rosa||||||||||||||vaaleanpunainen|różo
 rozosalmon|rozosalmon|biw|Oncorhynchus gorbuscha||pink salmon|saumon rose|salmón rosado|salmão-rosa|горбуша||粉紅鮭|カラフトマス||||||||||gorbusza
 Ruanda|Ruanda|desh|RW||Rwanda||Ruanda||||||||||||||Ruanda|Rwanda
 rubidem|rubidem|mate|Rb||rubidium||rubidio|||||||||||||rubidio||rubid
-ruh.miks:a|ruhmiksa||||confuse (perplex, bewilder, baffle)||confundir (desconcertar, perplejo)||озадачить|||惑わす||||||||||mylić (gmatwać, zmieszać, konsternować)
-ruh.miks:i|ruhmiksi||||confused (perplexed, disoriented, bewildered)|perplexe (désorienté)|confundido|perplexo (confuso)|растерянный (озадаченный)|حَيْران‎|困惑 (混乱)|まごまご|||भ्रमित (हैरान, संभ्रांत)||bingung (hilang akal, keliru)|kuzubaa (vuruguvurugu)|şaşkın|||smieszany (skonfudowany)
+ruh.mix:a|ruhmixa||||confuse (perplex, bewilder, baffle)||confundir (desconcertar, perplejo)||озадачить|||惑わす||||||||||mylić (gmatwać, zmieszać, konsternować)
+ruh.mix:i|ruhmixi||||confused (perplexed, disoriented, bewildered)|perplexe (désorienté)|confundido|perplexo (confuso)|растерянный (озадаченный)|حَيْران‎|困惑 (混乱)|まごまご|||भ्रमित (हैरान, संभ्रांत)||bingung (hilang akal, keliru)|kuzubaa (vuruguvurugu)|şaşkın|||smieszany (skonfudowany)
 ruhe|ruhe|||ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|soul (mind, psyche)|psyché|psique||душа (дух)|||||||||||animo (psiko)|henki (sielu, mieli, psyyke)|dusza, duch, umysł
 ruhi|ruhi||||mental (psychic)||mental (psíquico)||||||||||||||henkinen (psyykkinen)|umysłowy (psychiczny)
 ruhlojia|ruhlojia|||tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|psychology|psychologie|psicología|||||||||||||psikologio|psykologia|psychologia
@@ -3305,9 +3304,6 @@ tehne|tehne|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:en
 tehnem|tehnem|mate|Tc||technetium||tecnetio|||||||||||||teknecio||technet
 tehnokratia|tehnokratia||||technocracy||tecnocracia||||||||||||||teknokratia|technokracja
 tehnolojia|tehnolojia||||technology (study of techniques)|technologie|tecnología||технология||工艺学|||||||||teknologio|tekniikka (teknologia)|technologia, nauka o technikach
-teksa|teksa|||spa:tejer, por:tecer, fra:tisser, eng:textile|weave||tejer|||||||||||||||tkać (pleść)
-tekse|tekse||||cloth (fabric, textile)|tissu|tela (paño, tejido)|fazenda (tecido)|ткань||布料|布||||||||||tkanina (materiał, sukno)
-teksomaxin|teksomaxin||||loom||telar|tear|ткацкий станок|||織機||||||||||krosno
 tel:|tel|||eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|distance (far away)||lo lejos|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
 tel:i|teli||||far (distant)||lejano (lejos)|||||||||||||malproksima|kaukainen|daleki, odległy
 tel:ia|telia||||distance (length)||distancia|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
@@ -3347,6 +3343,9 @@ tesle|tesle|unomete|T||tesla (T)||tesla (T)||||||||||||||tesla (T)|tesla (T)
 testa|testa||||try (attempt)||intentar (probar)|tentar (provar)|||||||कोशिश करना|চেষ্টা করা|||||yrittää (kokeilla)|spróbować, próbować
 teste|teste|||eng:fra:test, rus: тест (test), por:teste, tur:test|test (try, attempt)|épreuve (test)|prueba|teste|проба (тест)||化验||||||||test|testo|koe (testi, yritys)|test, wyzwanie, próba
 Tetis|Tetis|planete 6 lune 3|||Tethys|||||||||||||||||
+texa|texa|||spa:tejer, por:tecer, fra:tisser, eng:textile|weave||tejer|||||||||||||||tkać (pleść)
+texe|texe||||cloth (fabric, textile)|tissu|tela (paño, tejido)|fazenda (tecido)|ткань||布料|布||||||||||tkanina (materiał, sukno)
+texmaxin|texmaxin||||loom||telar|tear|ткацкий станок|||織機||||||||||krosno
 tezi|tezi|||hin:तेज़ (tez), urd:(tez), fas:(tiz)|intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)||intenso (brusco, ácido, fuerte, afilado, rápido)||||||||||||||kiihkeä (väkevä, voimakas, vahva, kova)|intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)
 tezu|tezu||||intensify|||||||||||||||||wzmacniać się (wzmagać, pogłębiać się)
 ticin|ticin|||zho:提琴 (tíqín), yue:提琴 (tai4 kam4), uu:提琴 (di jin3), jpn:提琴 (teikin)|bow instrument (violin, etc.)||instrumento de arco||||||||||||||jousisoitin|chordofon, instrument strunowy
@@ -3611,6 +3610,7 @@ xek.o.janger|xekojanger||||mason (stonemason, stonecutter)||albañil (mampostero
 xeng|xeng|||zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|victory (win)||victoria|||||||||||||venko|voitto|zwycięstwo, wygrana
 xenga|xenga||||win (triumph, succeed, accomplish)||gañar (triunfar, lograr, desrotar)||победить|||||||||||venki|voittaa (kukistaa)|zwyciężyć, wygrać
 xense|xense|||jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|master (sensei)||maestro (profesor)|||||||||||||||mistrz (sensei)
+xenon:|xenon|mate|Xe||xenon||xenón||ксенон|||キセノン|||||xenon|zenoni|ksenon|ksenono|ksenon|ksenon
 xey|xey|||ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|thing|chose|cosa|coisa|вещь||事物 (东西)|事 (物)|||वस्तू (चीज़)||benda||şey||asia|rzecz
 xeyhal|xeyhal|||zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|situation (circumstances, state of affairs)|situation (état de choses)|situación|situaçao|положение (ситуация)||事态|事態||||||||situacio (aferstato)|tilanne (asiaintila)|sytuacja (stan)
 xeyhalironia|xeyhalironia||||situational irony|||||||||||||||||ironia sytuacyjna
