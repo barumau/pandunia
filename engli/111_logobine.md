@@ -155,84 +155,23 @@ In Pandunia, function words have the following characteristics:
 3. The vowel has a structural meaning, as follows:
     - **-e** indicates a pronoun
     - **-i** indicates a determiner,
-      which indicates definiteness or indefiniteness, distance, possession, etc.
+      which indicates definiteness, possession, etc.
     - **-o** indicates an adverb of manner
     - **-a** indicates a preposition
     - **-u** indicates a postposition
 
-#### Personal pronouns
-
-**me**
-– I  
-**te**
-– you (singular)  
-**le**
-– it or he or she
-
-The possessive pronouns are
-**mi**, **ti**, **li**.
-
-The plural personal pronouns are created by doubling the singular pronoun and using the linker vowel **-o-**:  
-**mome**
-– we  
-**tote**
-– you all  
-**lole**
-– they
-
-#### Identity
-
-**se**
-– self  
-**si**
-– one's own  
-**sa**
-– to be
-
-#### Affirmation and negation
-
-**no**
-– not  
-**ni**
-– no, none, not any  
-
-**ye**
-– yes  
-**yo**
-– indeed
-
-#### Prepositions
-
-**pa**
-– at, in, on, by  
-**ta**
-– to, for  
-**za**
-– from  
-**da**
-– of  
-**du**
-– 's (postposition)  
-**wa**
-– with; and  
-**na**
-– without  
-**ka**
-– or
-
-
-|  | Idea                   | -e (pronoun)           | -i (modifier)          | -o (adverb)            | -a (preposition)       | -u (postposition)      |
-|--|:-----------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| 1| 1st person pronoun     | **me**<br>I            | **mi**<br>my           |                        |                        |                        |
-| 2| 2nd person pronoun     | **te**<br>you          | **ti**<br>your         |                        |                        |                        |
-| 3| 3rd person pronoun     | **le**<br>he, she, it  | **li**<br>his, her, its| **lo**<br>like that    |                        |                        |
-| 4| Interrogative          | **ke**<br>what?        | **ki**<br>whose?       | **ko**<br>how?         |                        |                        |
-| 5| Negation / absence     | **ne**<br>nothing      | **ni**<br>no-one's     | **no**<br>not          | **na**<br>without      |                        |
-| 6| Sameness               | **se**<br>self         | **si**<br>own          |                        | **sa**<br>be           |                        |
-| 7| Alternative            |                        |                        | **yo**<br>else         | **ya**<br>or           |                        |
-| 8| Addition               |                        |                        | **wo**<br>also         | **wa**<br>and, with    |                        |
-| 9| Property               |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
-|10| Location               |                        |                        |                        | **?a**<br>at, in, on   |                        |
-|11| Destination            |                        |                        |                        | **pa**<br>to, for      |                        |
-|12| Origin                 |                        |                        |                        | **za**<br>from, since  |                        |
+|  | Idea          | -e (pronoun)           | -i (determiner)        | -o (adverb)            | -a (prep.)             | -u (postp.)            |
+|--|:--------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+| 1| 1st person    | **me**<br>I            | **mi**<br>my           |                        |                        |                        |
+| 2| 2nd person    | **te**<br>you          | **ti**<br>your         |                        |                        |                        |
+| 3| 3rd person    | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
+| 4| Reflexive     | **se**<br>~self        | **si**<br>one's own    |                        |**sa**<br>to be; as a   |                        |
+| 5| Interrogative | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         | **ka**<br>than, as     |                        |
+| 6| Demonstrative | **ce**<br>this/that one| **ci**<br>this/that    |**co**<br>like this/that|                        |                        |
+| 7| Negation      |(**ne**<br>none)        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      |                        |
+| 8| Affirmation   | **ye**<br>yes          |                        | **yo**<br>indeed       | **ya**<br>with         |                        |
+| 9| Possession    |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
+|10| Location      |                        |                        |                        | **va**<br>at, in, on   |                        |
+|11| Destination   |                        |                        |                        | **pa**<br>to, for      |                        |
+|12| Origin        |                        |                        |                        | **ja**<br>from, since  |                        |
 
