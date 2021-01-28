@@ -507,7 +507,7 @@ cen:o|ceno|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie
 cen.ag:a|cenaga||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
 cen.amen:|cenamen||||destiny (fate)|destin|destino|destino|судьба||命運|運命 (宿命)|||किस्मत||takdir||kader||määrä (päämäärä, kohtalo)|przeznaczenie, los
 cen.den:o|cendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
-cen.fikse:|cenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
+cen.fiks:e|cenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
 cen.vid:a|cenvida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 cen.vid:i|cenvidi||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
 ceng:|ceng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
@@ -922,6 +922,8 @@ figur:|figur|||eng:fra:figure, spa:por:figura|figure (representation)||represent
 Fij:ia|Fijia|desh|FJ||Fiji||Fiji||||||||||||||Fidži|Fidżi
 fikr:a|fikra||||think (ponder, reflect)||pensar|||||||||||||pensi|ajatella (miettiä)|myśleć, dumać, rozmyślać, zastanawiać się, rozważać
 fikr:e|fikre|||ara:(fikr), fas:(fekr), tur:fikir, may:pikir, hin:(fikr)|thought (idea)||idea (pensamiento, reflexión)|||||||||||||penso|ajatus|myśl, pomysł
+fiks:a|fiksa|||eng:fix, fra:fixer, spa:fijar, por:fixar|fix (attach)||fijar (pegar, asegurar)|||||||||||||fiksi|kiinnittää|przyczepić, przymocować
+fiks:e|fikse||||attachment (affix)||accesorio (afijo)||||||||||||||kiinnitys|załącznik (przyrostek, afiks)
 fil:a|fila||||like||gustarse (querer)||||||||||||||tykätä (pitää)|lubić
 fil:ia|filia||||attraction (-philia)||attracción (-filia)||||||||||||||tykkääminen|zamiłowanie (-filia)
 fil.er:|filer|||eng:fra:-phile, por:spa:-filo|fan (-phile)||fan (-filo)||||||||||||||fani (-fiili)|miłośnik (fan, -fil)
@@ -940,8 +942,6 @@ firuz:e|firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फी
 fit:e|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetable, vegetation)|plante (végétal)|planta (vegetal, vegetación)|planta (vegetal)|растение|نَبَات‎|植物|植物|식물|thực vật|पौधा|গাছ|tumbuh-tumbuhan|mmea|bitki (nebat)|planto|kasvi|roślina, sadzonka
 fit.o.loj:ia|fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
 fit.yam.ist:e|fityamiste||||vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
-fiks:a|fiksa|||eng:fix, fra:fixer, spa:fijar, por:fixar|fix (attach)||fijar (pegar, asegurar)|||||||||||||fiksi|kiinnittää|przyczepić, przymocować
-fiks:e|fikse||||attachment (affix)||accesorio (afijo)||||||||||||||kiinnitys|załącznik (przyrostek, afiks)
 fizik:e|fizike||||physics||física|||||||||||||fiziko|fysiikka|fizyka
 fizik:ia|fizikia|||eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|physics (science)||física|||||||||||||fiziko|fysiikka|fizyk
 fizik.er:|fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
