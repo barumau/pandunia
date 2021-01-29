@@ -167,7 +167,7 @@ In Pandunia, function words have the following characteristics:
 | 3| 3rd person    | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
 | 4| Reflexive     | **se**<br>~self        | **si**<br>one's own    |                        |**sa**<br>to be; as a   |                        |
 | 5| Interrogative | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         | **ka**<br>than, as     |                        |
-| 6| Demonstrative | **ce**<br>this/that one| **ci**<br>this/that    |**co**<br>like this/that|                        |                        |
+| 6| Demonstrative | **ce**<br>this/that    | **ci**<br>this/that    |**co**<br>like this/that|                        |                        |
 | 7| Negation      |(**ne**<br>none)        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      |                        |
 | 8| Affirmation   | **ye**<br>yes          |                        | **yo**<br>indeed       | **ya**<br>with         |                        |
 | 9| Possession    |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
