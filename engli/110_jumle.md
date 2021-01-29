@@ -7,7 +7,7 @@ They may consist of only one word, which draws the listener's attention.
 
 **maw!**
 – A cat!  
-**barshu!**
+**barxu!**
 – (It) rains!
 
 ## Stative Sentences
@@ -428,7 +428,7 @@ With the modified noun at the beginning, we need to call into action the otherwi
 Any clause can modify a noun in the same manner: the modified noun is moved to the beginning of the modifying clause
 and separated out with **da**, or moved to the end and separated out with **du**.
 
-**me sercha me paso abla lasha du eni shey.**
+**me serca me paso abla laxa du eni shey.**
 – I'm looking for anything I might have left behind.
 
 In more complex cases, it can become challenging to maneuver the noun to the end of the clause. In these cases, the

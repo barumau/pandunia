@@ -48,19 +48,19 @@ Bonjour ! (le matin)
 **salam den!**
 Bonne journée !
 
-**salam sham!**
+**salam xam!**
 Bonsoir !
 
-**salam noche!**
+**salam noce!**
 Bonne nuit !
 
-**salam yame!**
+**salam yam!**
 Bon appétit !
 
 **salam lay!**
 Bienvenue !
 
-**salam chute!**
+**salam cute!**
 Au revoir !
 
 **salam safar!**
@@ -111,10 +111,10 @@ Je t'en prie. / Il n'y a pas de quoi. (Mot à mot : _Tu es poli._)
 
 ### me <small>je, me, moi</small>
 
-**me Sara.**
+**me sa Sara.**
 Je suis Sara.
 
-**me Tomas.**
+**me sa Tomas.**
 Je suis Thomas.
 
 Vous pouvez vous présenter simplement en utilisant **me** et votre prénom ; le verbe "être" est optionel.
@@ -144,7 +144,7 @@ Salutations, père ! | Salut papa !
 
 ### te <small>tu, te, toi</small>
 
-**te Tomas.**
+**te sa Tomas.**
 Tu es Thomas.
 
 **me salama te.**
@@ -163,13 +163,13 @@ Je t'aime.
 
 ### le <small>Il, elle, ou il neutre</small>
 
-**le man.**
+**le sa man.**
 C'est un homme.
 
-**le fem.**
+**le sa fem.**
 C'est une femme.
 
-**le apel.**
+**le sa apel.**
 C'est une pomme.
 
 **le** est le pronom général de la troisième personne. Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
@@ -183,17 +183,17 @@ Je le/la salue.
 
 ### eska <small>Pour poser une question (est-ce que)</small>
 
-**eska te Tomas?**
+**eska te sa Tomas?**
 Es-tu Thomas ?
 
-**eska te dotore?**
+**eska te sa dotore?**
 Êtes-vous docteur ?
 
 **Astuce :** Les questions auxquelles on peut répondre par oui ou par non commencent souvent par **eska**. C'est un simple verbe régulier et non un marqueur interrogatif particulier. En fait, la dernière question est une simple abréviation de **me eska te dotore.** (je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel **me** –, est supprimé.
 
-**eska te bon?**
+**eska te boni?**
 Comment vas-tu ? (litéralement : _Est-ce que tu vas bien_)  
-**me bon.**
+**me boni.**
 Ça va. | Je vais bien.  
 
 **eska te?** Et toi ?  
@@ -203,52 +203,38 @@ Comment vas-tu ? (litéralement : _Est-ce que tu vas bien_)
 
 
 
-### si <small>oui, "être"</small>
+### ye <small>oui</small>
 
-**eska te Tomas?**
+**eska te sa Tomas?**
 Es-tu Thomas.
 
-**si, me Tomas.**
+**ye, me sa Tomas.**
 Oui, je suis Thomas.
 
-**eska le dotore?**
+**eska le sa dotore?**
 Est-il/elle doctor ?
 
-**si, le dotore.**
+**ye, le sa mediker.**
 Oui, il/elle est doctor.
-
-Le mot **si** peut également être utilisé pour souligner/confirmer un fait.
-Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
-
-**me si Tomas.**
-En effet, je suis Thomas.
-
-**te si Sara.**
-En effet, tu es Sara.
-
-**apel si pale.**
-La pomme est bien un fruit.
-
-<small>Étymologie : **si** vient de l'espagnol "si", en portugais il se dit "sim", en mandarin : 是 "shì", en shanghaïen : 是 "sí".</small> 
 
 
 
 ### no <small>Ne pas</small>
 
-**me no Sara.**
+**me no sa Sara.**
 Je ne suis pas Sara.
 
-**me no dotore.**
+**me no sa dotore.**
 Je ne suis pas doctor.
 
-**eska te bon?**
+**eska te boni?**
 Est-ce que tu vas bien ?  
-**si. me bon.**
+**si. me boni.**
 Oui, je vais bien.
 
-**eska te bon?**
+**eska te boni?**
 Est-ce que tu vas bien ?  
-**ne, me no bon.**
+**no, me no boni.**
 Non, je ne vais pas bien.
 
 Vous pouvez utiliser **no** pour mettre une phrase à la forme négative. La négation s'applique au mot qui le suit.
@@ -290,20 +276,20 @@ Ce sont des pommes.
 
 **ke?** Quoi ?
 
-**te ke?**
+**te sa ke?**
 Qui es-tu ?  
-**me Tomas.**
+**me sa Tomas.**
 Je suis Thomas.
 
-**le ke?**
+**le sa ke?**
 Qui est-il/elle ?  
-**le Sara.**
+**le sa Sara.**
 C'est Sara.
 
-**tote ke?**
+**tote sa ke?**
 Qui êtes-vous ?
 
-**lole ke?**
+**lole sa ke?**
 Qui sont-ils ?
 
 <small>Étymologie : **ke** vient de l'espagnol "qué", en portugais il se dit "que", en italien "che" et en bengali: কী "ki".</small>
@@ -350,27 +336,27 @@ C'est rouge. / Cela est rouge.
 
 ### du <small>particule possessive</small>
 
-**ye ke?**
+**ce sa ke?**
 Qu'est-ce que c'est ?
 
-**ye me du telfone.**
+**ce sa me du telfone.**
 C'est mon téléphone.
 
-**ye ke du?**
+**ce sa ke du?**
 À qui est-ce ?
 
-**ye mi.**
+**ce mi.**
 C'est à moi.
 
 **Note :** La particule possessive **du** se place entre le possesseur et la chose possédée. Ainsi **me du** signifie "mon, ma, mes", **te du** signifie "ton, ta, tes" et ainsi de suite.
 
-**le ke?**
+**le sa ke?**
 Qui est-ce ?
 
-**le si me du doste.**
+**le sa mi doste.**
 C'est mon ami.e.
 
-**me si Sara du doste.**
+**me sa Sara du doste.**
 Je suis l'ami.e de Sara.
 
 <small>Étymologie : **du** vient du mandarin 的 "de".</small>
@@ -378,16 +364,16 @@ Je suis l'ami.e de Sara.
 
 ### name <small>nom</small>
 
-**ti name ke?**
+**ti name sa ke?**
 Quel est ton nom?
 
-**mi name Tomas.**
+**mi name sa Tomas.**
 Mon nom est Thomas.
 
-**li name ke?**
+**li name sa ke?**
 Quel est son nom ?
 
-**li name Sara.**
+**li name sa Sara.**
 Son nom est Sara.
 
  <small>Étymologie : **name** vient du hindi  नाम "nām", il se dit en farsi نام‏‎ "nām", en thaï นาม "naam", en indonésien "nama", en japonais 名前 "namae", en allemand "Name", en anglais "name".</small>
@@ -395,7 +381,7 @@ Son nom est Sara.
 
 ### tena <small>verbe avoir ; il y a </small>
 
-**me tena bon dome.**
+**me tena boni dome.**
 J’ai une bonne maison.
 
 **le no tena pese.**
@@ -404,14 +390,14 @@ Il/elle n’a pas d’argent.
 **me vola tena novi telfone.**
 Je veux un nouveau téléphone.
 
-**eska te tena bache?**
+**eska te tena bace?**
 As-tu des enfants ?  
-**me tena duli bache.**
+**me tena duli bace.**
 J’ai deux enfants.
 
 **eska tena dotore?**
 Est-ce qu’il y a un médecin ?  
-**si. le dotore.**
+**si. le sa dotore.**
 Oui. Il/elle est médecin.
 
 **eska tena vin?**
@@ -420,18 +406,18 @@ Est-ce que tu as du vin?
 Oui, du blanc et du rouge.
 
 
-### jana <small>connaître</small>
+### sava <small>connaître</small>
 
-**me jana le.**
+**me sava le.**
 Je le/la connais.
 
-**eska te jana wi ren?**
+**eska te sava ci jan?**
 Est-ce que tu connais cette personne ?
 
-**eska tote jana unale?**
+**eska tote sava unale?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mome jana unale ca longi.**
+**mome sava unale ca longi.**
 Nous nous connaissons [l’un l’autre] depuis longtemps.
 
 
@@ -473,7 +459,7 @@ Est-ce que tu bois du café ?
 **me yama kafe.**
 Je bois du café.
 
-Astuce : Le sens de **niama** regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
+Astuce : Le sens de **yama** regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
 **me yama kafe e pang.**
 Je prends un café et du pain.
@@ -493,9 +479,9 @@ Astuce : en français, à l’écrit, le « quoi » est plutôt en début de que
 **me vola yama kafe.**
 Je veux boire un café.
 
-**eska te vola yama chay?**
+**eska te vola yama cay?**
 Est-ce que tu veux (boire) du thé ?  
-**ne. me no vola chay. me vola kafe.**
+**ne. me no vola cay. me vola kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
 **te vola ki apel?**
@@ -507,7 +493,7 @@ La rouge. (mot à mot _cette rouge-ci_)
 
 ### pliza <small>demander, s’il vous plait</small>
 
-**me pliza te yama chay.**
+**me pliza te yama cay.**
 Je te demande si tu veux du thé.
 
 **me pliza te laya dom.**
@@ -518,7 +504,7 @@ Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**pliza yama chay.**
+**pliza yama cay.**
 Prenez un thé, je vous en prie !
 
 **pliza yama kafe.**
@@ -569,7 +555,7 @@ Est-ce que tu as soif ?
 **pardon! me no aha.**
 Désolé, je ne comprends pas.
 
-**pardon! ye ke?**
+**pardon! ce ke?**
 Excusez-moi, qu’est-ce que c’est ?
 
 **pardon. ti name ke?**
@@ -635,10 +621,10 @@ Je te parle. (mot à mot : _je parle à toi_)
 **mome loga pa unale.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**ze loga "chat" sa ki yange sa pandunia?**
+**ze loga "chat" va ki yange sa pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" si ke sa pandunia?**
+**"chat" sa ke va pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
 **maw loga miaw.**
@@ -680,13 +666,13 @@ Je l’ai vu(e) hier.
 
 ### mena <small>signifier, vouloir dire</small>
 
-**yi loge mena ke?**
+**ci loge mena ke?**
 Que veut dire ce mot ?
 
 **"maw" mena ke?**
 Que signifie « maw » ?
 
-**le mena yange da hewan.**
+**le mena yange da hevan.**
 Ça signifie un genre d’animal.
 
 **me no aha le mena ke.**
@@ -698,31 +684,31 @@ Je ne comprend pas ce que cela signifie.
 **pliza kitaba ti adres.**
 S’il te plait, écris ton adresse.
 
-**pliza kitaba le sa ye.**
+**pliza kitaba le va ce.**
 S’il te plait, écris-le là !
 
 
-### basha <small>communiquer, parler une langue</small>
+### baxa <small>communiquer, parler une langue</small>
 
-**eska tote basha Pandunia.**
+**eska tote abla baxa pandunia.**
 Est-ce que vous parlez tous pandunia ?
 
-**mome basha Pandunia.**
+**mome baxa pandunia.**
 Nous parlons pandunia.
 
-**eska te abla basha Engli?**
+**eska te abla baxa engli?**
 Est-ce que tu parles anglais ?
 
-**Franci, Espani, Portugali, Rusi**
+**fransi, espani, portugali, rusi**
 français, espagnol, portugais, russe
 
-**Chini, Niponi, Indonesi**
+**cini, niponi, indonesi**
 chinois, japonas, indonésien
 
-**Arabi, Turki, Farsi, Urdu, Hindi**
+**arabi, turki, farsi, urdu, hindi**
 arabe, turc, persan, ourdou, hindi
 
-**Swahili, Hausa, Yoruba, Amari**
+**swahili, hausa, yoruba, amari**
 swahili, haoussa, yorouba, amharique
 
 
@@ -746,7 +732,7 @@ Je devrais aller (voir) qui ?
 **haida gowa!**
 Allons-y !
 
-**haida gowa sa pede**
+**haida gowa ya pede**
 On y va à pied !
 
 
@@ -767,7 +753,7 @@ J'irai chez moi / à la maison demain.
 
 ### safara <small>voyager</small>
 
-**eska te safara sa tren?**
+**eska te safara va tren?**
 Est-ce que tu voyages en train ?
 
 **mome safara ca London pa Paris.**
@@ -777,29 +763,29 @@ Nous voyageons de Londres à Paris.
 Le voyage est très long.
 
 
-### sa <small>dans, sur, à</small>
+### va <small>dans, sur, à</small>
 
-**hotel sa ke?**
+**hotel va ke?**
 Où est l’hôtel ?
 
-**hotel sa wi daw.**
+**hotel va ci daw.**
 L’hôtel est sur cette route.
 
-**te sa ke?**
+**te va ke?**
 Où es-tu ?
 
-**me sa dome.**
+**me va dome.**
 Je suis à la maison. / Je suis chez moi.
 
-**le sa ke?**
+**le va ke?**
 Où est-il/elle ?
 
-**le sida sa kamar.**
+**le sida va kamar.**
 Il/elle est assis(e) dans la pièce.
 
-Astuce ! Vous pouvez utiliser **sa** comme préposition ou tout seul comme un verbe.
+Astuce ! Vous pouvez utiliser **va** comme préposition ou tout seul comme un verbe.
 
-**me werka sa...**
+**me werka va...**
 Je travaille à ...
 
 
@@ -814,8 +800,8 @@ Je vis à Singapore.
 **eska te doma yi hotel?**
 Est-ce que tu résides dans cet hôtel ?
 
-**Astuce :** On peut dire également **te doma sa ke?** au lieu de **te doma ke**.
-Cependant **doma** couvre déjà l'idée de se trouver quelque part, donc **sa** n'est pas nécessaire.
+**Astuce :** On peut dire également **te doma va ke?** au lieu de **te doma ke**.
+Cependant **doma** couvre déjà l'idée de se trouver quelque part, donc **va** n'est pas nécessaire.
 
 
 ### denga <small>attendre</small>
@@ -829,7 +815,7 @@ Attendez-moi !
 **lole denga mome.**
 Ils nous attendent.
 
-**me denga te sa hotel.**
+**me denga te va hotel.**
 Je t’attends à l’hôtel.
 
 
@@ -848,7 +834,7 @@ L'homme est en train de regarder la femme.
 **le zayo xefe.**  
 C'est lui le chef / elle la cheffe actuellement.
 
-**le zayo sa dome.**  
+**le zayo va dome.**  
 En ce moment, il / elle est à la maison.
 
 
@@ -863,7 +849,7 @@ L'homme a regardé / regardait la femme.
 **le paso xefe.**  
 C'était lui le chef. / C'était elle la cheffe.
 
-**le paso sa dome.**  
+**le paso va dome.**  
 Il / Elle était à la maison.
 
 
@@ -878,7 +864,7 @@ L'homme a (déjà) regardé la femme.
 **le lewo xefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
-**le lewo sa dome.**  
+**le lewo va dome.**  
 Il / elle a (déjà) été à la maison.
 
 
@@ -893,7 +879,7 @@ L'homme regardera la femme.
 **le wilo xefe.**  
 Il sera chef. / Elle sera cheffe.
 
-**le wilo sa dome.**  
+**le wilo va dome.**  
 Il / Elle sera à la maison.
 
 
@@ -910,13 +896,13 @@ Donne-moi de l’argent, s’il te plait.
 **pliza dona le pa me.**
 Donne-le moi, s’il te plait.
 
-**me dona ye pa te.**
+**me dona ce pa te.**
 Je te donne ceci.
 
 **me dona buke pa lole.**
 Je leur donne un livre.
 
-**le no wana dona le pa me.**
+**le no vola dona le pa me.**
 Il/elle ne veut pas me le donner.
 
 
@@ -928,7 +914,7 @@ Je vais prendre un café.
 **pliza kapa un kafe pa me.**
 Prends-moi un café, s’il te plait.
 
-**te pas kapa pese ya me.**
+**te lewo kapa pese ja me.**
 tu as déjà eu de l’argent de ma part.
 
 **me kapa un bir.**
@@ -936,16 +922,16 @@ Je prendrai une bière.
 
 ### kire <small>location, emprunt</small>
 
-**kire si 500 dolar sa mes.**  
+**kire sa 500 dolar va mes.**  
 La location est de 500 dollars par mois / pour un mois.
 
 **le no abla peya kire.**  
 Il / Elle ne peut pas payer la location.
 
-**me wana kapa un gare sa kire.**  
+**me vola kapa un gare va kire.**  
 Je veux prendre une voiture en location.
 
-**me wana kirokapa un gare.**
+**me vola kirokapa un gare.**
 Je veux louer une voiture.
 
 **le kirodona kamar pa safarer.**
@@ -966,7 +952,7 @@ Je vais acheter une bière.
 
 ### yang <small>type, genre, sorte</small>
 
-**le si ki yang?**
+**le sa ki yang?**
 Ça ressemble à quoi ?
 
 **eska le novi?**
@@ -975,7 +961,7 @@ C’est nouveau ?
 **ke si max bon?**
 Lequel est mieux ?
 
-**ye si maxim bon (da pan).**
+**ye sa maxim boni (da pan).**
 C’est le meilleur (de tous).
 
 **le kosta ke?**
@@ -1001,7 +987,7 @@ Viens ici / reviens / vers nous.
 **me darsa pandunia.**
 J’étudie le pandunia.
 
-**xowa le pa me sa leksobuke!**
+**xowa le pa me va leksobuke!**
 Montre-moi dans le dictionnaire !
 **me no yada.**
 Je ne me souviens pas.
@@ -1015,7 +1001,7 @@ Je ne t’oublierai jamais.
 ****
 Pas de souci ! (Hakuna matata !)
 
-**pan si okey.**
+**pan sa okey.**
 Tout va bien.
 
 ****
@@ -1031,7 +1017,7 @@ Est-ce que tu aimes… ?
 ****
 Je me sens très bien.
 
-**pliza sida sa ye!**
+**pliza sida va ce!**
 Assieds-toi là, s’il te plait !
 
 **me suku stasa.**
@@ -1042,7 +1028,7 @@ Je préfère rester debout.
 ****
 Avec plaisir !
 
-**feste kaixu sa ki zaman?**
+**feste kaixu va ki zaman?**
 Quand commence la fête ?
 
 

@@ -46,7 +46,7 @@ Good day!
 **salam xam!**
 Good evening!
 
-**salam noche!**
+**salam noce!**
 Good night!
 
 **salam yam!**
@@ -158,7 +158,7 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me.</small>
 
 <p style="font-size:4em;">🗣️👉👤</p>
 
-**te Tomas.**
+**te sa Tomas.**
 You are Thomas.
 
 **me salama te.**
@@ -203,10 +203,10 @@ I greet him/her.
 
 <p style="font-size:5em">🤔❓</p>
 
-**eska te Tomas?**
+**eska te sa Tomas?**
 Are you Thomas?
 
-**eska te mediker?**
+**eska te sa mediker?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **eska**.
@@ -232,16 +232,16 @@ is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small
 
 <p style="font-size:5em">👍</p>
 
-**eska te Tomas?**
+**eska te sa Tomas?**
 Are you Thomas.
 
-**ye, me Tomas.**
+**ye, me sa Tomas.**
 Yes, I am Thomas.
 
-**eska le mediker?**
+**eska le sa mediker?**
 Is he/she a doctor?
 
-**ye, le mediker.**
+**ye, le sa mediker.**
 Yes, he is a doctor.
 
 
@@ -262,7 +262,7 @@ Yes, I'm well.
 
 **eska te boni?**
 Are you well?  
-**no. me no boni.**
+**no, me no boni.**
 No, I'm not well.
 
 You can use **no** to deny anything. It is placed before the word that is
@@ -306,20 +306,20 @@ They are apples.
 **ke?**
 What?
 
-**te ke?**
+**te sa ke?**
 Who are you?  
-**me Tomas.**
+**me sa Tomas.**
 I'm Thomas.
 
-**le ke?**
+**le sa ke?**
 Who is he/she?  
-**le Sara.**
+**le sa Sara.**
 She is Sarah.
 
-**tote ke?**
+**tote sa ke?**
 Who are you people?
 
-**lole ke?**
+**lole sa ke?**
 Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
@@ -370,22 +370,22 @@ We are here.
 
 ### du <small>'s (possessive particle)</small>
 
-**ye ke?**
+**ce sa ke?**
 What's this?
 
-**ye me du telfone.**
+**ce sa me du telfone.**
 It's my telephone.
 
-**ye ke du?**
+**ce sa ke du?**
 Whose is this?
 
-**ye mi.**
+**ce mi.**
 It's mine.
 
 Note: Possessive particle **du** is put between the owner and the owned thing.
 So **me du** means "my", **te du** means "your" and so on.
 
-**le ke?**
+**le sa ke?**
 Who's he/she?
 
 **le sa mi doste.**
@@ -400,16 +400,16 @@ Mandarin: 的 (de).</small>
 
 ### name <small>name</small>
 
-**ti name ke?**
+**ti name sa ke?**
 What's your name?
 
-**mi name Tomas.**
+**mi name sa Tomas.**
 My name is Thomas.
 
-**li name ke?**
+**li name sa ke?**
 What is his/her name?
 
-**li name Sara.**
+**li name sa Sara.**
 Her name is Sarah.
 
 <small>Etymology. **name** is from Hindi: नाम  "nām", Farsi: نام‏‎
@@ -434,18 +434,18 @@ Do you have children?
 I have two children.
 
 
-### jana <small>to know</small>
+### sava <small>to know</small>
 
-**me jana le.**
+**me sava le.**
 I know him/her.
 
-**eska te jana wi ren?**
+**eska te sava ci jan?**
 Do you know that person?
 
-**eska tote jana unale?**
+**eska tote sava unale?**
 Do you know each other?
 
-**mome jana unale longo.**
+**mome sava unale longo.**
 We know each other for a long time.
 
 
@@ -460,7 +460,7 @@ Can you help me?
 **eska me abla helpa te?**
 Can I help you?
 
-**me volu helpa te.**
+**me vola helpa te.**
 I want to help you.
 
 
@@ -496,19 +496,19 @@ I'm having coffee and bread.
 
 ### volu <small>want</small>
 
-**eska te volu yama?**
+**eska te vola yama?**
 Would you like to eat?
 
-**te volu yama ke?**
+**te vola yama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**me volu yama kafe.**
+**me vola yama kafe.**
 I want to drink coffee.
 
-**eska te volu yama cay?**
+**eska te vola yama cay?**
 Would you like to drink tea?  
 **no. me no volu cay. me volu kafe.**
 No, I don't want tea. I want coffee.
@@ -579,7 +579,7 @@ Are you thirsty?
 **pardon! me no aha.**
 Sorry, I don't understand.
 
-**pardon! ye ke?**
+**pardon! ce ke?**
 Excuse me, what's this?
 
 **pardon. ti name ke?**
@@ -687,13 +687,13 @@ I saw him/her yesterday.
 
 ### mena <small>to mean</small>
 
-**yi loge mena ke?**
+**ci loge mena ke?**
 What does this word mean?
 
 **"maw" mena ke?**
 What does "maw" mean?
 
-**le mena yange da hevane.**
+**le mena yange da hevan.**
 It means a kind of animal.
 
 **me no aha le mena ke.**
@@ -705,7 +705,7 @@ I don't understand what it means.
 **pliza kitaba ti adres.**
 Please, write your address.
 
-**pliza kitaba le va ye.**
+**pliza kitaba le va ce.**
 Please, write it here!
 
 
@@ -720,7 +720,7 @@ We can speak Pandunia.
 **eska te abla baxa engli?**
 Can you speak English?
 
-**franci, espani, portugali, rusi**
+**fransi, espani, portugali, rusi**
 French, Spanish, Portuguese, Russian
 
 **cini, niponi, indonesi**
@@ -913,7 +913,7 @@ Please give some money.
 **pliza dona le pa me.**
 Please give it to me.
 
-**me dona ye pa te.**
+**me dona ce pa te.**
 I give this to you.
 
 **me dona buke pa lole.**
@@ -931,10 +931,10 @@ I will take a coffee.
 **pliza kapa un kafe pa me.**
 Please take one coffee for me.
 
-**te lewo kapa pese za me.**
+**te lewo kapa pese ja me.**
 You already got money from me.
 
-**me kapa un bire.**
+**me kapa un bir.**
 I will take a beer.
 
 
@@ -1035,7 +1035,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**pliza sida va ye!**
+**pliza sida va ce!**
 Please, sit here!
 
 **me suku stasa.**
