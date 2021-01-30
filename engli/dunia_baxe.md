@@ -196,8 +196,8 @@ stress is hard to learn for people who are used to fixed stress.
 Neither word tone nor variable word stress are necessary in the world
 language.
 
-Pandunia has fixed stress. The stress falls on the syllable that is
-before the last consonant. Like this: **me vóla lóga bón dúnia báxe.**
+Pandunia has fixed stress. The stress falls on the last syllable that is
+before the vowel ending. Like this: **haló. me vóla lóga bón dúnia báx.**
 
 Pandunia doesn't have lexical tone.
 
