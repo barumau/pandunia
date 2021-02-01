@@ -748,7 +748,7 @@ dur:a|dura||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||
 dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
-dur.ubl:i|durubli||||durable (sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
+dur.abl:i|duruabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dut:e|dute|||fra:doute, eng:doubt, spa:tgl:duda|doubt (disbelief)||duda|||||||||||||dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
 dut.abl:i|dutabli||||dubious (suspicious, unbelievable)||||||||||||||||epäilyttävä|wątpliwy (niewiarygodny, podejrzany)
 dut.an:i|dutani||||doubtful (suspicious, disbelieving)||||||||||||||||epäilevä|niepewny (podejrzliwy, niedowierzący)
@@ -804,7 +804,7 @@ Eris:|Eris||||Eris (dwarf planet)||Eris (planeta enano)|||||||||||||Eris (planed
 Eritr:ia|Eritria|desh|ER||Eritrea||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea
 esey:|esey|||eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|essay||ensayo (redacción)||||||||||||||essee|esej
 esk:a|eska||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
-esk:e|eske|||ara: سُؤَال‎ (suʾāl) , fas: سؤال‎ (so'âl), hin:सवाल (savāl);मसला (masalā), may:soal;masalah, swa:swali, tur:sual;mesele, hau:matsala|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
+esk:e|eske|||eng:ask|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
 esk.an:|eskan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
 esk.o.dokum:|eskodokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 esk.o.tem:|saltem||||issue (affair, concern)||asunto (caso)||||||||||||||asia (juttu)|kwestia, problem
@@ -1003,7 +1003,7 @@ ful.vaz:e|fulvaze||||vase (flower pot)||florero|||||||||||||vazo (florpoto)|kukk
 fun:|fun|||zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|dust (powder)||polvo|||||||||||||polvo|pöly (tomu)|pył
 fun.cup.er:|funcuper|||zho:吸尘器 (xīchénqì), deu:Staubsauger|vacuum cleaner||aspiradora||||||||||||||pölynimuri|odkurzacz
 func:u|funcu|||eng:function, spa:por:funcionar, fra:fonctionner, rus:функциони́ровать (funkcionirovat’), may:berfungsi|function (work)||funcionar|||||||||||||funkcii|toiminta (funktio)|funkcja, stanowisko
-func.ubl:i|funcubli||||valid (workable)||||||||||||||||toimiva|poprawny (wykonalny)
+func.abl:i|funcabli||||valid (workable)||||||||||||||||toimiva|poprawny (wykonalny)
 fung:|fung|||eng:fungus, fra:fongus, por:fungo, spa:hongo|fungus (mushroom)||hongo (moho)|fungo||||||||||||fungo|sieni|grzyb
 fung.o.net:e|fungonete||||mycelium|mycélium|micelio|||||菌糸体||||||||||grzybnia
 fung.o.pal:|fungopal||||mushroom (sporocarp)|champignon|champiñón (seta)|cogumelo|гриб||蘑菇|茸|||कुकुरमुत्ता (खुंबी, छत्रक)||cendawan|uyoga|||sienen hattu|sporokarp
@@ -1370,7 +1370,6 @@ insan.ik:i|insaniki||||humane|humain|humano|humano|человечный|||||||||
 insan.ist:e|insaniste||||humanist||humanista||||||||||||||humanisti|humanista
 insan.ist:i|insanisti||||humanistic||humanístico||||||||||||||humanistinen|humanistyczny
 insan.ist:ia|insanistia||||humanism|humanisme|humanismo|humanismo|гуманизм|إِنْسَانِيَّة|人文主义|ヒューマニズム (人文主義)|인문주의|nhân văn chủ nghỉa|मानवतावाद||humanisme||hümanizm|homismo|humanismi|humanizm
-inspir:a|inspira|||eng:inspire, spa:por:inspirar, fra:inspirer|inspire||inspirar||||||||||||||innoittaa (inspiroida)|inspirować; inspiracja
 insult:a|insulta|||eng:insult, fra:insulter, spa:por:insultar|insult (offend)||insultar (ofender)||||||||||||||solvata (loukata)|obrazić
 insult:e|insulte||||insult (offense)||insulto (ofensa)||||||||||||||loukkaus (herja)|obraza (obelga)
 inter.net:e|internete||||internet||Internet||||||||||||||internet|internet
@@ -1673,7 +1672,7 @@ kim:i|kimi||||chemical||químico||||||||||||||kemikaali|chemiczny
 kim.em:|kimem||||chemical element|élément chimique|elemento químico|elemento químico|химический элемент||元素|元素|원소|nguyên tố|रासायनिक तत्व||unsur kimia||kimyasal element|kemia elemento|alkuaine|
 kim.loj:ia|kimlojia||||chemistry|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|ĥemio (kemio)|kemia|chemia
 kin:|kin||||movement||movimiento||||||||||||||liike|ruch
-kin:a|kina||||move (transfer, change place)|mouvoir (bouger)|mudar (transferir, traspasar, trasladar)|mover|двигать||动|動かす|이동시키다|||||||movi|liikuttaa|ruszać, przenościć, zmieniać miejsce
+kin:a|kina||||move (transfer, shift, stir, budge, rouse, motivate, inspire)|mouvoir (bouger)|mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)|mover|двигать||动|動かす|이동시키다|||||||movi|liikuttaa (innoittaa)|ruszać, przenościć, zmieniać miejsce, inspirować
 kin:i|kini|||eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|kinetic||cinético||||||||||||||kineettinen (liike-)|ruchowy, kinetyczny
 kin:u|kinu||||move oneself|se mouvoir|moverse|Mover-se|двигаться||动|動く|움직이다|chuyển động|चलना|চলা||peleka|hareket etmek|moviĝi|liikkua|
 kin.o.graf:|kinograf||||movie (cinema)||película (filme)||фильм (кино)|||映画|||||||||elokuva|kino
@@ -1748,7 +1747,7 @@ kon.bon:i|konboni||||match (fit, suit, go well together)||emparejar (quedar)|com
 kon.can.ist:e|koncaniste||||communist||comunista|||||||||||||komunisto|kommunisti|komunista
 kon.can.ist:ia|koncanistia||||communism||comunismo|||||||||||||komunismo|kommunismi|komunizm
 kon.form:u|konformu||||conform (fit, mold)||amoldarse||применяться (согласоваться)|||即する||||||||||
-kon.func.ubl:i|konfuncubli||||compatible (supported)||compatible|||||||||||||||kompatybilny (pasujący)
+kon.func.abl:i|konfuncabli||||compatible (supported)||compatible|||||||||||||||kompatybilny (pasujący)
 kon.kar:a|konkara||||collaborate (work together)|collaborer|colaborar|colaborar|сотрудничать (кооперировать)||合作|共同して働|공동으로 일하다||||kerjasama|||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
 kon.pax:ia|konpaxia||||compassion||compasión||жалость (сердобольность)|||同情||||||||||
 kon.sel:a|konsela||||give consultation||||||||||||||||konsultoida (antaa neuvoja)|
@@ -2045,13 +2044,13 @@ Madyar|Madyar|desh|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 mafan|mafan||||trouble (disturbance, bother)||problema (disturio)||||||||||||||vaiva (haitta)|problem, kłopot, zakłócenie
 mafana|mafana|||zho:麻煩 (máfan), yue:麻煩 (maa4 faan4), wuu:麻煩 (mo ve3)|bother||molestar (preocupar)||утруждать||||||||||||vaivata|przeszkodzić, przeszkadzać, robić kłopot
 mafanu|mafanu||||be bothered by (bother to, take the trouble to)||molestar en||утруждай|||悩む (わざわざする)||||||||||przejmować się (zawracać sobie głowę)
+magasar|magasar||||spell (enchantment)|||||||||||||||||zaklecie
 mager|mager||||magician (sorcerer)||mago||||||||||||||taikuri|magik, czarownik
 magesem|magesem|mate|Mg||magnesium|magnésium|magnesio|magnésio|магний||镁|マグネシウム|마그네슘|magiê|भ्राजातु|ম্যাগনেসিয়াম|magnesium|magnesi|magnezyum|magnezio|magnesium|magnez
 magete|magete||||magnet||imán||||||||||||||magneetti|magnes
 mageti|mageti||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 magi|magi||||magical||magical||||||||||||||taianomainen (maaginen)|magiczny
 magia|magia|||eng:magic, spa:por:magia, fra:magie, rus:ма́гия (mágija), rus:マジック (majikku)|magic||magia|||||||||||||magio|taika (taikuus, magia)|magia
-magorezulte|magorezulte||||spell (enchantment)|||||||||||||||||zaklecie
 Magribe|Magribe|desh|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
 maidan|maidan|||ara:(maydān), fas:(meydan), hin:मैदान (maidān), tur:meydan, swa:medani, rus:майдан (maydan)|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)||广场|広場|광장|quảng trường||||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
 maidanfobia|maidanfobia||||agoraphobia||agorafobia||||||||||||||agorafobia (avoimen paikan kammo)|agorafobia
@@ -2281,7 +2280,7 @@ molxeke|molxeke||||grindstone (millstone)|meule|muela|mó|жёрнов||磨石||
 Monako|Monako|desh|MC||Monaco||Mónaco||||||||||||||Monaco|Monako
 mongoli|mongoli||||Mongol||mongol|||||||||||||mongola|mongoli|Mongolski
 Mongolia|Mongolia|desh|MN||Mongolia||Mongolia|||||||||||||Mongolio|Mongolia|Mongolia
-monst.er:|monster|||eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)|monster||monstro|||||||||||||monstro|hirviö|potwór, monstrum
+monost.er:|monoster|||eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)|monster||monstro|||||||||||||monstro|hirviö|potwór, monstrum
 morf:e|morfe|||eng:morph, spa:morfo, rus:морф (morf)|morph||morfo||||||||||||||morfi|morf
 morf.em:|morfem||||morpheme||morfema||||||||||||||morfeemi|morfem
 Morisia|Morisia|desh|MU||Mauritius||Mauricio||||||||||||||Mauritius|Mauritius
