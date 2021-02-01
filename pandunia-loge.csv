@@ -540,6 +540,7 @@ ciz:e|cize|||eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīz
 cod:a|coda|||ben:চোদা (coda), hin:चोदना (codnā)|fuck (copulate)||joder (coger, copular)|||||||||||||fiki|nussia (panna)|jebać, kopulować
 cokolat:e|cokolate|||spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|chocolate|chocolat|chocolate|chocolate|шоколад||巧克力|チョコレート|초콜렛|sô cô la|चाकलेट|চকলেট|cokelat (coklat)|chokoleti|çikolata|ĉokolado|suklaa|czekolada
 cokolat.o.baton:|cokolatobaton||||chocolate bar|tablette de chocolat|barra de chocolate|barra de chocolate|||巧克力棒|チョコバー||||||||ĉokolado|suklaapatukka|baton czekoladowy
+cop:e|cope|||zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|hoe|houe|azada|enxada|мотыга||锄头|クワ|||||||||kuokka|motyka
 cor:|cor|||hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|theft||robo (hurto)|||||||||||||ŝtelo|varkaus|kradzież
 cor:a|cora||||steal||robar (hurtar)|||||||||||||ŝteli|varastaa|ukraść, kraść
 cor.er:|corer||||thief||ladrón|||||||||||||ŝtelisto|varas|złodziej
@@ -575,6 +576,7 @@ dank:e|danke|||eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|th
 dank:o d:a|danko da||||thanks to|grâce à|gracias a (merced a)|graças a||||||||||||dank’al|ansiosta|
 Danmark:e|Danmarke|desh|DK||Denmark||Dinamarca|||||||||||||Danio|Tanska|Dania
 dans:e|danse|||eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|dance|dance|baile (danza)|baile (danza)|танец||||||||tari||dans|danco|tanssi|taniec
+dant:a|danta||||bite|mordre|morder|morder|откусить|مَضَغَ‎|咬|咬む|물어떼다 (깨물다)|cắn|||gigit|kuuma|ısırmak|mordi|purra|
 dant:e|dante|||spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|tooth||diente|||||||||||||dento|hammas|ząb
 dant.o.balut:e|dantobalute|biw|Quercus dentata||daimyo oak||roble daimyo||дуб зубчатый||槲树|カシワ||||||||||dąb zębaty
 dant.o.brox:|dantobrox||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
@@ -2662,14 +2664,14 @@ piano*|piano*|||eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur
 piaze|piaze|biw|Allium cepa|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|onion|oignon|cebolla|cebola|лук|بَصَل|洋葱|玉葱|양파|hành tây|प्याज|পেঁয়াজ|bawang|kitunguu|soğan|cepo|sipuli|cebula
 pige|pige|||tgl:pigi, zho:屁股 (pìgu), yue:屁股 (pei3 gu2)|buttocks (bum, butt, ass)||trasero (nalgas)|||||||||||||kulo|pylly (takapuoli, pakarat)|pośladki, pupa, tyłek, zadek
 pijin|pijin|||eng:spa:por:fra:pidgin, rus:пиджин (pidzhin), swa:pijini, zho:皮欽語 (píqīnyǔ), jpn:ピジン (pijin)|pidgin (contact language)||pidgin|||||||||||||piĝino|kontaktikieli (pidgin)|pidżin, język pomocniczy
-pike|pike|||eng:peak, rus:пик (pik), fra:pic, spa:por:pico, que:pikchu|top (peak, pinnacle, summit, apex, vertex)|cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина|||頂点|||||||||huippu|szczyt (wierzchołek)
-pikosape|pikosape||||pickaxe|pioche||picareta|киркомотыга||镐|||||||||||kilof
-pil|pil|||eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|skin (peel, bark, leather)||piel|pele|||皮|||||||||haŭto|nahka (kuori, iho)|skóra
-piloter|piloter|||eng:por:pilot, spa:piloto, fra:pilote, deu:Pilot, rus:пило́т (pilót), jpn:パイロット (pairotto)|pilot||piloto||||||||||||||ohjaaja (pilotti, luotsi)|pilot
-pin|pin|||eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|needle (pin, splinter, prickle, thorn, stinger, spine, quill)|épingle|alfiler (espina, aguja)|alfinete|булавка (игла, шип)||别针|針 (刺, ピン)|핀|ghim|पिन|||||nadlo (pinglo)|neula|igła, szpilka
-pina|pina||||prick (sting)|||||||||||||||||kłuć (żądlić)
-pinguin|pinguin|biw||eng:may:penguin, spa:pingüino, por:pinguim, rus:пингвин (pingvin), tur:penguen, hin:पेंगुइन (peṅguin), ben:পেঙ্গুইন (peṅguin), jpn:ペンギン (pingin)|penguin||pingüino|||||||||||||pingveno|pingviini|pingwin
-pinkardon|pinkardon|biw|Onopordum||cotton thistle|chardon aux ânes|cardo borriquero|acanto-bastardo|татарник колючий||大翅蓟|ゴロツキアザミ||||||||||popłoch pospolity
+pik:e|pike|||eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|top (peak, pinnacle, summit, apex, vertex)|cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина|||頂点||||||||pinto|huippu|szczyt (wierzchołek)
+pil:|pil|||eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|skin (peel, bark, leather)||piel|pele|||皮|||||||||haŭto|nahka (kuori, iho)|skóra
+pilot.er:|piloter|||eng:por:pilot, spa:piloto, fra:pilote, deu:Pilot, rus:пило́т (pilót), jpn:パイロット (pairotto)|pilot||piloto||||||||||||||ohjaaja (pilotti, luotsi)|pilot
+pin:|pin|||eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|needle (pin, splinter, prickle, thorn, stinger, spine, quill)|épingle|alfiler (espina, aguja)|alfinete|булавка (игла, шип)||别针|針 (刺, ピン)|핀|ghim|पिन|||||nadlo (pinglo, pikilo)|piikki (pistin, neula)|igła, szpilka
+pin:a|pina||||prick (sting)|||||||||||||||piki|pistää (piikittää)|kłuć (żądlić)
+pin.cop:e|pincope||||pickaxe|pioche||picareta|киркомотыга||镐|||||||||||kilof
+pin.kardon:|pinkardon|biw|Onopordum||cotton thistle|chardon aux ânes|cardo borriquero|acanto-bastardo|татарник колючий||大翅蓟|ゴロツキアザミ||||||||||popłoch pospolity
+pinguin:|pinguin|biw||eng:may:penguin, spa:pingüino, por:pinguim, rus:пингвин (pingvin), tur:penguen, hin:पेंगुइन (peṅguin), ben:পেঙ্গুইন (peṅguin), jpn:ペンギン (pingin)|penguin||pingüino|||||||||||||pingveno|pingviini|pingwin
 pinsa|pinsa||||pinch|||||||||||||||||
 pinser|pinser|||eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|pliers (pincers)||alicate|||||||||||||pinĉilo|pihdit|obcęgi, kleszcze, szczypce
 pinsobanze|pinsobanze||||clipboard (physical board)|porte-bloc (planchette à pince)|tabla con pinza (carpeta con sujetapapeles)|prancheta|планшет|||用箋挟||||||||||
@@ -3037,7 +3039,6 @@ Sant:i Paulo:|Santi Paulo||||Sao Paulo|||São Paulo||||||||||||||São Paulo
 Sant:i Tom:e e: Prinsip:e|Santi Tome e Prinsipe|desh|ST||Sao Tome and Principe||Santo Tomé y Príncipe||||||||||||||Sao Tome ja Principe|Wyspy Świętego Tomasza i Książęca
 Sant:i Vincent:e|Santi Vincente||||Saint Vincent||Isla de San Vicente|||||||||||||||Saint Vincent
 Sant:i Vincent:e e: Grenadin:e|Santi Vincente e Grenadine|desh|VC||Saint Vincent and Grenadines||San Vicente y las Granadinas|||||||||||||||Saint Vincent and Grenadines
-sap:e|sape|||ita:zappa, rom:sapă, tur:çapa, tha:จอบ (chop)|hoe|houe|azada|enxada|мотыга||锄|クワ||||||||||motyka
 sapat:e|sapate|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|chaussure||zapato||туфля|حِذَاء|鞋|鞋|||जूता||sepatu|kiatu (sapatu)||ŝuo|kenkä|but
 sapat.er:|sapater||||shoemaker||zapatero|||||||||||||ŝuisto|suutari|szewc
 sapat.er:ia|sapateria||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suutarin paja|warsztat szewski
@@ -3608,8 +3609,8 @@ xek:e|xeke|||zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|sto
 xek.o.janger|xekojanger||||mason (stonemason, stonecutter)||albañil (mampostero, cantero)|||||石匠||||||||||kamieniarz
 xeng|xeng|||zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|victory (win)||victoria|||||||||||||venko|voitto|zwycięstwo, wygrana
 xenga|xenga||||win (triumph, succeed, accomplish)||gañar (triunfar, lograr, desrotar)||победить|||||||||||venki|voittaa (kukistaa)|zwyciężyć, wygrać
-xense|xense|||jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|master (sensei)||maestro (profesor)|||||||||||||||mistrz (sensei)
 xenon:|xenon|mate|Xe||xenon||xenón||ксенон|||キセノン|||||xenon|zenoni|ksenon|ksenono|ksenon|ksenon
+xense|xense|||jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|master (sensei)||maestro (profesor)|||||||||||||||mistrz (sensei)
 xey|xey|||ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|thing|chose|cosa|coisa|вещь||事物 (东西)|事 (物)|||वस्तू (चीज़)||benda||şey||asia|rzecz
 xeyhal|xeyhal|||zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|situation (circumstances, state of affairs)|situation (état de choses)|situación|situaçao|положение (ситуация)||事态|事態||||||||situacio (aferstato)|tilanne (asiaintila)|sytuacja (stan)
 xeyhalironia|xeyhalironia||||situational irony|||||||||||||||||ironia sytuacyjna
