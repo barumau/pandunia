@@ -87,7 +87,7 @@ Merci!
 **multo danke!**
 Merci beaucoup !
 
-**si, danke.**
+**ye, danke.**
 Oui, merci.
 
 **no, danke.**
@@ -105,7 +105,7 @@ Je te remercie de m'avoir aidé.
 **danka te helpa me.**
 Merci de m'avoir aidé.
 
-**te kechi.**
+**te keci.**
 Je t'en prie. / Il n'y a pas de quoi. (Mot à mot : _Tu es poli._)
 
 
@@ -196,10 +196,16 @@ Comment vas-tu ? (litéralement : _Est-ce que tu vas bien_)
 **me boni.**
 Ça va. | Je vais bien.  
 
-**eska te?** Et toi ?  
-**me no bon.** Ça ne vas pas | Je ne vais pas bien.
+**eska te?**
+Et toi ?  
+**me no boni.**
+Ça ne vas pas | Je ne vais pas bien.
 
-<small>Étymologie : **eska** vient du français "est-ce que" /ɛskə/, en créole haïtien "èske", en anglais: "ask" demander.</small>
+<small>Étymologie :
+**eska**
+vient du français "est-ce que" /ɛskə/,
+en créole haïtien "èske",
+en anglais: "ask" demander.</small>
 
 
 
@@ -211,7 +217,7 @@ Es-tu Thomas.
 **ye, me sa Tomas.**
 Oui, je suis Thomas.
 
-**eska le sa dotore?**
+**eska le sa mediker?**
 Est-il/elle doctor ?
 
 **ye, le sa mediker.**
@@ -229,7 +235,7 @@ Je ne suis pas doctor.
 
 **eska te boni?**
 Est-ce que tu vas bien ?  
-**si. me boni.**
+**ye. me boni.**
 Oui, je vais bien.
 
 **eska te boni?**
@@ -248,9 +254,18 @@ Il/elle ne me salue pas.
 
 ### Plusieurs personnes
 
-**me** (je) →  **mome** (nous)  
-**te** (tu) →  **tote** (vous)  
-**le** (il, elle) →  **lole** (ils, elles)
+**me**
+(je) →
+**mome**
+(nous)  
+**te**
+(tu) →
+**tote**
+(vous)  
+**le**
+(il, elle) →
+**lole**
+(ils, elles)
 
 **mome salama tote.**
 Nous vous saluons.
@@ -261,13 +276,13 @@ Vous les saluez.
 **lole salama mome!**
 Ils nous saluent.
 
-**mome fem.**
+**mome sa fem.**
 Nous sommes des femmes.
 
-**tote man.**
+**tote sa man.**
 Vous êtes des hommes.
 
-**lole apel.**
+**lole sa apel.**
 Ce sont des pommes.
 
 
@@ -296,42 +311,29 @@ Qui sont-ils ?
 
 
 
-### ye <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
+### ce <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
 
-**ye ke? / ke ye?**
+**ce sa ke?**
 Qu’est-ce que c’est que ça / ceci ?
 
-**ye apel.**
+**ce sa aple.**
 Ceci est une pomme.
 
-**ye kirmi apel.**
+**ce sa kirmi aple.**
 Ceci est une pomme rouge.
 
-**yi apel kirmi.**
+**ci aple sa kirmi.**
 Cette pomme est rouge.
 
-Remarque : Quand un adjectif tel que **ros** est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il est après le nom, il fonctionne comme un verbe adjectival.
+Remarque : Quand un adjectif tel que
+**kirmi**
+est placé avant un nom, il fonctionne comme un modificateur.
+Lorsqu’il est après le nom, il fonctionne comme un verbe adjectival.
 
-**ye kirmi.**
+**ce sa kirmi.**
 C'est rouge. / Ceci est rouge.
 
 
-### we <small>ce … (-là), cet.te … (-là), ces … (-là), celà</small>
-
-**we ke? / ke we?**
-Qu'est-ce que c'est que ça / celà ?
-
-**we apel.**
-Cela est une pomme.
-
-**we kirmi apel.**
-Cela est une pomme rouge.
-
-**wi apel kirmi.**
-Cette pomme(-là) est rouge.
-
-**we kirmi.**
-C'est rouge. / Cela est rouge.
 
 
 ### du <small>particule possessive</small>
@@ -395,14 +397,14 @@ As-tu des enfants ?
 **me tena duli bace.**
 J’ai deux enfants.
 
-**eska tena dotore?**
+**eska tena mediker?**
 Est-ce qu’il y a un médecin ?  
-**si. le sa dotore.**
+**ye. le sa mediker.**
 Oui. Il/elle est médecin.
 
 **eska tena vin?**
 Est-ce que tu as du vin?  
-**si. baki e kirmi.**
+**ye. baki e kirmi.**
 Oui, du blanc et du rouge.
 
 
@@ -417,7 +419,7 @@ Est-ce que tu connais cette personne ?
 **eska tote sava unale?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mome sava unale ca longi.**
+**mome sava unale longo.**
 Nous nous connaissons [l’un l’autre] depuis longtemps.
 
 
@@ -445,10 +447,10 @@ Je veux t'aider.
 **eska te vola yama koy?**
 Est-ce que tu veux manger quelque chose ?
 
-**le yama apel.**
+**le yama aple.**
 Il/elle mange une pomme.
 
-**lole yama apel.**
+**lole yama aple.**
 Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple** peut signifier une ou plusieurs pommes.
@@ -486,7 +488,7 @@ Non, Je ne veux pas de thé. Je veux du café.
 
 **te vola ki apel?**
 Quelle pomme veux-tu ?  
-**yi kirmi.**
+**ci kirmi.**
 La rouge. (mot à mot _cette rouge-ci_)
 
 
@@ -555,7 +557,7 @@ Est-ce que tu as soif ?
 **pardon! me no aha.**
 Désolé, je ne comprends pas.
 
-**pardon! ce ke?**
+**pardon! ce sa ke?**
 Excusez-moi, qu’est-ce que c’est ?
 
 **pardon. ti name ke?**
@@ -584,13 +586,13 @@ Je n’ai rien compris du tout.
 
 ### abla <small>pouvoir, savoir</small>
 
-**me abla shofa gare.**
+**me abla xofa gare.**
 Je sais conduire une voiture.
 
-**le no abla shofa gare.**
+**le no abla xofa gare.**
 Il/elle ne sait pas conduire une voiture.
 
-**eska te abla shula le?**
+**eska te abla xula le?**
 Est-ce que tu sais réparer ça ?
 
 **eska te abla pandunia?**
@@ -605,7 +607,7 @@ Je peux parler un peu pandunia.
 **me no abla engli.**
 Je ne parle pas anglais.
 
-**pardon. me no abla ti bashe.**
+**pardon. me no abla ti bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -621,10 +623,10 @@ Je te parle. (mot à mot : _je parle à toi_)
 **mome loga pa unale.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**ze loga "chat" va ki yange sa pandunia?**
+**se loga "cat" ko va pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" sa ke va pandunia?**
+**"chat" logu ko va pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
 **maw loga miaw.**
@@ -660,7 +662,7 @@ On se voit plus tard ! / À plus tard !
 **vida te badodeno!**
 On se voit demain ! / À demain !
 
-**me vida le chendeno.**
+**me vida le cendeno.**
 Je l’ai vu(e) hier.
 
 
@@ -741,10 +743,10 @@ On y va à pied !
 **pliza laya!**
 Viens ici !
 
-**te laya ca ke?**
+**te laya ja ke?**
 D’où viens-tu ?
 
-**me laya ca Dubai.**
+**me laya ja Dubay.**
 Je viens de Dubaï.
 
 **me laya dom badodeno.**
@@ -756,7 +758,7 @@ J'irai chez moi / à la maison demain.
 **eska te safara va tren?**
 Est-ce que tu voyages en train ?
 
-**mome safara ca London pa Paris.**
+**mome safara ja London pa Paris.**
 Nous voyageons de Londres à Paris.
 
 **safar multo longi.**
@@ -785,7 +787,7 @@ Il/elle est assis(e) dans la pièce.
 
 Astuce ! Vous pouvez utiliser **va** comme préposition ou tout seul comme un verbe.
 
-**me werka va...**
+**me kara va...**
 Je travaille à ...
 
 
@@ -831,7 +833,7 @@ Je suis en train de saluer ton ami.e.
 **man zayo vida fem.**  
 L'homme est en train de regarder la femme.
 
-**le zayo xefe.**  
+**le zayo sa xef.**  
 C'est lui le chef / elle la cheffe actuellement.
 
 **le zayo va dome.**  
@@ -846,7 +848,7 @@ J'ai salué ton ami.e.
 **man paso vida fem.**  
 L'homme a regardé / regardait la femme.
 
-**le paso xefe.**  
+**le paso sa xef.**  
 C'était lui le chef. / C'était elle la cheffe.
 
 **le paso va dome.**  
@@ -861,10 +863,10 @@ J'ai (déjà) salué ton ami.e.
 **man lewo vida fem.**  
 L'homme a (déjà) regardé la femme.
 
-**le lewo xefe.**  
+**le lewo sa xefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
-**le lewo va dome.**  
+**le lewo va dom.**  
 Il / elle a (déjà) été à la maison.
 
 
@@ -876,10 +878,10 @@ Je saluerai ton ami.e.
 **man wilo vida fem.**  
 L'homme regardera la femme.
 
-**le wilo xefe.**  
+**le wilo sa xefe.**  
 Il sera chef. / Elle sera cheffe.
 
-**le wilo va dome.**  
+**le wilo va dom.**  
 Il / Elle sera à la maison.
 
 

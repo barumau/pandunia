@@ -225,7 +225,9 @@ And you?
 I'm not good.
 
 <small>Etymology. **eska**
-is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small>
+is from French: est-ce que /ɛskə/,
+Haitian Creole: èske,
+English: ask.</small>
 
 
 ### ye <small>yes</small>
@@ -278,9 +280,18 @@ is from Spanish: no, English no, French: non.</small>
 ### Plural pronouns
 
 Plural pronouns are created like this:
-**me** (I) →  **mome** (we)  
-**te** (you) →  **tote** (you all)  
-**le** (he, she, it) →  **lole** (they)
+**me**
+(I) →
+**mome**
+(we)  
+**te**
+(you) →
+**tote**
+(you all)  
+**le**
+(he, she, it) →
+**lole**
+(they)
 
 **mome salama tote.**
 We greet you all.
@@ -291,13 +302,13 @@ You greet them.
 **lole salama mome!**
 They greet us.
 
-**mome fem.**
+**mome sa fem.**
 We are women.
 
-**tote man.**
+**tote sa man.**
 You are men.
 
-**lole apel.**
+**lole sa apel.**
 They are apples.
 
 
@@ -326,44 +337,49 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ye e we <small>this and that</small>
+### ce <small>this or that</small>
 
-**ye ke? / ke ye?**
+**ce sa ke?**
 What's this?
 
-**ye apel.**
+**ce sa aple.**
 This is an apple.
 
-**we ke? / ke we?**
+**ce sa ke?**
 What is that?
 
-**we oranje.**
+**ce sa oranje.**
 That is an orange.
 
-**ye kirmi apel.**
+**ce sa kirmi aple.**
 This is a red apple.
 
-**yi apel kirmi.**
+**ci aple sa kirmi.**
 This apple is red.
 
-Note: When an adjective, like **kirmi**, is placed before a noun, it works as a modifier.
+Note: When an adjective like
+**kirmi**
+is placed before a noun, it works as a modifier.
 When it follows the noun, it works as an adjectival verb.
 
-**ye kirmi.**
+**ce sa kirmi.**
 This is red.
 
-Note: The demonstrative pronouns have two forms.
-Forms **ye** and **we** are used when they stand alone.
-Forms **yi** and **vi** are used when they modify another noun.
+Note: The demonstrative pronoun has two forms.
+The forms **ce** is used when it stands alone.
+The form **ci** is used when it modifies a noun.
 
 **lole va ke?**
 Where are they?
 
-**lole va we.**
-They are there.
+**lole va ce.**
+They are here/there.
 
-**mome va ye.**
-We are here.
+**lole va te.**
+They are (there) by you.
+
+**lole va me.**
+They are (here) by me.
 
 
 
@@ -468,13 +484,13 @@ I want to help you.
 
 ### yama <small>consume, eat, drink</small>
 
-**eska te volu yama koy?**
+**eska te vola yama koy?**
 Would you like to eat something?
 
-**le yama apel.**
+**le yama aple.**
 He/she eats an apple.
 
-**lole yama apel.**
+**lole yama aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
@@ -513,9 +529,9 @@ Would you like to drink tea?
 **no. me no volu cay. me volu kafe.**
 No, I don't want tea. I want coffee.
 
-**te volu ki apel?**
+**te vola ki apel?**
 Which apple do you want?  
-**yi kirmi.**
+**ci kirmi.**
 This red one.
 
 
@@ -579,7 +595,7 @@ Are you thirsty?
 **pardon! me no aha.**
 Sorry, I don't understand.
 
-**pardon! ce ke?**
+**pardon! ce sa ke?**
 Excuse me, what's this?
 
 **pardon. ti name ke?**
@@ -627,7 +643,7 @@ I can speak a little Pandunia.
 **me no abla engli.**
 I can't speak English.
 
-**pardon. me no abla ti baxe.**
+**pardon. me no abla ti bax.**
 Sorry, I can't speak your language.
 
 
@@ -642,7 +658,7 @@ I talk to you.
 **mome loga pa unale.**
 We talk to each other.
 
-**ze loga "cat" va ki yange va pandunia?**
+**se loga "cat" ko va pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" logu ko va pandunia?**
@@ -761,10 +777,10 @@ Let's go by foot!
 **pliza laya!**
 Come here!
 
-**te laya za ke?**
+**te laya ja ke?**
 Where do you come from?
 
-**me laya za Dubai.**
+**me laya ja Dubay.**
 I come from Dubai.
 
 **me laya dom badodeno.**
@@ -776,7 +792,7 @@ I will come home tomorrow.
 **eska te safara va tren?**
 Do you travel by train?
 
-**mome safara za London pa Paris.**
+**mome safara ja London pa Paris.**
 We travel from London to Paris.
 
 **safar multo longi.**
@@ -788,7 +804,7 @@ The voyage is very long.
 **hotel va ke?**
 Where is the hotel?
 
-**hotel va le daw.**
+**hotel va ci daw.**
 The hotel is on that road.
 
 **te va ke?**
@@ -849,7 +865,7 @@ I am greeting your friend.
 **man zayo vida fem.**  
 The man is looking at the woman.
 
-**le zayo xefe.**  
+**le zayo sa xef.**  
 He or she is currently the chief.
 
 **le zayo va dom.**  
@@ -864,7 +880,7 @@ I greeted your friend.
 **man paso vida fem.**  
 The man looked at the woman.
 
-**le paso xefe.**  
+**le paso sa xef.**  
 He or she was the chief.
 
 **le paso va dom.**  
@@ -879,7 +895,7 @@ I have greeted your friend.
 **man lewo vida fem.**  
 The man has looked at the woman.
 
-**le lewo xefe.**  
+**le lewo sa xefe.**  
 He or she has been the chief.
 
 **le lewo va dom.**  
@@ -894,7 +910,7 @@ I will greet your friend.
 **man wilo vida fem.**  
 The man will see the woman.
 
-**le wilo xefe.**  
+**le wilo sa xefe.**  
 He or she will be the chief.
 
 **le wilo va dom.**  
@@ -919,7 +935,7 @@ I give this to you.
 **me dona buke pa lole.**
 I give a book to them.
 
-**le no volu dona le pa me.**
+**le no vola dona le pa me.**
 He/she doesn't want to give it to me.
 
 
@@ -946,10 +962,10 @@ The rent is 500 dollars in a month.
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me volu kapa un gare va kire.**  
+**me vola kapa un gare va kire.**  
 I want to take a car for rent.
 
-**me volu kirokapa un gare.**
+**me vola kirokapa un gare.**
 I want to rent a car.
 
 **le kirodona kamar pa safarer.**
