@@ -21,6 +21,8 @@ adal:i|adali|||ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदाल�
 adal:ia|adalia||||justice|justice|justicia|justiça|справедливость||正义||||न्याय|আদালত|keadilan||adalet|justeco|oikeus|sprawiedliwość
 adres:|adres|||eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|address|adresse|dirección|endereço|адрес||地址||||पता||cerah (alamat)||adres|adreso|osoite|adres
 adres.o.harf:e|adresoharfe (@)||||@ symbol||arroba (@)||||||||||||||@-merkki|małpa (znak na
+afgan:i|afgani||||Afghan|afghan|afgano|afegão|афганский||||||अफगानी|||||afgana|afgaani|afgański
+Afgan:ia|Afgania|desh|AF||Afghanistan|Afghanistan|Afganistán|Afeganistão|Афганистан||阿富汗|アフガニスタン|아프가니스탄||अफ़्ग़ानिस्तान||Afghanistan||Afganistan|Afganujo, Afganio|Afganistan|Afganistan
 Afrik:e|Afrike|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika|Africa|Afrique|África|||||||||||||Afriko|Afrikka|Afryka
 Afrik:i|Afriki||||African|africain|africano|||||||||||||afrika|afrikkalainen|afrykański, Afrykanin
 afrik.o.fil:ia|afrikofilia||||Afrophilia|afrophilie||||||||||||||afrikamanteco|afrofilia|afrofilia
@@ -219,8 +221,6 @@ avar:|avar|||ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) averag
 avar:a|avara||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
 avar:i|avari||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
 avar.an:i|avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen (vaurioittava)|krzywdzący (szkodliwy)
-afgan:i|afgani||||Afghan|afghan|afgano|afegão|афганский||||||अफगानी|||||afgana|afgaani|afgański
-Afgan:ia|Afgania|desh|AF||Afghanistan|Afghanistan|Afganistán|Afeganistão|Афганистан||阿富汗|アフガニスタン|아프가니스탄||अफ़्ग़ानिस्तान||Afghanistan||Afganistan|Afganujo, Afganio|Afganistan|Afganistan
 awakat:e|awakate|biw||nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|avocado||aguacate|||||||||||||avokado|avokado|awokado
 Axur:|Axur|shefocite|||Assur||Assur (Ashur)||||||||||||||Assur|Aszur
 Axur:ia|Axuria|||akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr)|Assyria||Asiria||||||||||||||Assyria|Asyria
@@ -542,8 +542,8 @@ ciz:e|cize|||eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīz
 cod:a|coda|||ben:চোদা (coda), hin:चोदना (codnā)|fuck (copulate)||joder (coger, copular)|||||||||||||fiki|nussia (panna)|jebać, kopulować
 cokolat:e|cokolate|||spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|chocolate|chocolat|chocolate|chocolate|шоколад||巧克力|チョコレート|초콜렛|sô cô la|चाकलेट|চকলেট|cokelat (coklat)|chokoleti|çikolata|ĉokolado|suklaa|czekolada
 cokolat.o.baton:|cokolatobaton||||chocolate bar|tablette de chocolat|barra de chocolate|barra de chocolate|||巧克力棒|チョコバー||||||||ĉokolado|suklaapatukka|baton czekoladowy
-cop:e|cope|||zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|hoe|houe|azada|enxada|мотыга||锄头|クワ|||||||||kuokka|motyka
 Congcing:|Congcing||||Chongqing||||||重庆||||||||||Chongqing|Chongqing
+cop:e|cope|||zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|hoe|houe|azada|enxada|мотыга||锄头|クワ|||||||||kuokka|motyka
 cor:|cor|||hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|theft||robo (hurto)|||||||||||||ŝtelo|varkaus|kradzież
 cor:a|cora||||steal||robar (hurtar)|||||||||||||ŝteli|varastaa|ukraść, kraść
 cor.er:|corer||||thief||ladrón|||||||||||||ŝtelisto|varas|złodziej
@@ -569,14 +569,15 @@ dak:e|dake||||cover (lid, cap, deck)||tapa (funda, cubierta)||||||||ढक्क
 dalil:|dalil|||ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|proof (evidence, proof, demonstration, testimony)|preuve|prueba|prova|доказательство||||||||||||todiste (todistus, osoitus, demonstraatio)|dowód; zeznanie
 dalil:a|dalila||||prove (demonstrate, testify)||probar (demonstrar, comprobar)||||||||||||||todistaa|dowieść, dowodzić; zeznać, zeznawać
 dam.o.gem:|damogem|||fra:jeu de dames, ara:(dāmā), may:dam, spa:por:damas, deu:Damespiel|checkers (draughts)||damas||||||||||||||tammipeli|warcaby
-dan:|dan|||hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)
+dan:|dan|||hin:दाना (dānā), tur:tane, jpn:種 (tane);銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)
+dan:i|dani||||Danish|danois|danés|danês|датский|دَنْمَارْكِيّ‎|丹麦的|デンマークの|덴마크의||डैनिश|ডেনীয়|||Danimarkalı|dana|tanskalainen|duński
+Dan:ia|Dania|desh|DK||Denmark||Dinamarca|||||||Đan Mạch||||||Danio|Tanska|Dania
 dan.sekur:i|dansekuri||||bulletproof||antibalas||||||||||||||luodinkestävä|kuloodporny
 dang:a|danga|||eng:dong, por:dlim-dlão, spa:tilín, zho:叮 (dīng), jpn:がんがん (gangan), tha:กระดิ่ง (grà-dìng)|ring (toll, clang)||||звенеть||||||||||||kilistää (soittaa kelloa)|dzwonić (dźwięczeć, szczękać)
 dang.er:|danger||||bell|cloche|campana (cencerro)|sino (campainha)|звонок||钟 (摇铃)|鐘 (鈴)|||||||||soittokello|dzwon (dzwonek)
 dank:a|danka||||thank||agradecer|||||||||||||danki|kiittää|dziękować
 dank:e|danke|||eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|thanks (thank you)||gracias|||||||||||||danko|kiitos|dzięki, dzięki ci
 dank:o d:a|danko da||||thanks to|grâce à|gracias a (merced a)|graças a||||||||||||dank’al|ansiosta|
-Danmark:ia|Danmarkia|desh|DK||Denmark||Dinamarca|||||||||||||Danio|Tanska|Dania
 dans:e|danse|||eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|dance|dance|baile (danza)|baile (danza)|танец||||||||tari||dans|danco|tanssi|taniec
 dant:a|danta||||bite|mordre|morder|morder|откусить|مَضَغَ‎|咬|咬む|물어떼다 (깨물다)|cắn|||gigit|kuuma|ısırmak|mordi|purra|
 dant:e|dante|||spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|tooth||diente|||||||||||||dento|hammas|ząb
@@ -696,8 +697,8 @@ dom:i|domi||||domestic (tame)|domestique|doméstico (domesticado)|doméstico|д�
 dom.is:a|domisa||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
 dom.zez:e|domzeze|biw|Musca domestica||housefly|mouche|mosco||муха|||||||||||muŝo|kärpänen|mucha
 domin.o.gem:|dominogem|||eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|dominoes||dominó||||||||||||||dominopeli|domino
-Dominika:|Dominika|desh|DM||Dominica||Dominica||||||||||||||Dominika|Dominika (Wspólnota Dominiki)
 Dominik:i Komun.krat:ia|Dominiki Komunkratia|desh|DO||Dominican Republic||Republica Dominicana||Доминиканская Республика|||ドミニカ共和国|||दोमिनिकन गणराज्||Republik Dominika|Jamhuri ya Dominika|Dominik Cumhuriyeti||Dominikaaninen Tasavalta|Republika Dominikańska (Dominikana)
+Dominika:|Dominika|desh|DM||Dominica||Dominica||||||||||||||Dominika|Dominika (Wspólnota Dominiki)
 don:|don||||gift||regalo (obsequio)|||||||||||||donaco|lahja|podarunek, dar, prezent
 don:a|dona|||fra:donner, eng:donate, spa:por:donar|give||dar|||||あげる (くれる)||||||||doni|antaa|dać, dawać
 don.iv:i|donivi||||generous (open-handed)|généreux|generoso (dadivoso)|generoso (dadivoso, mão-aberta)|щедрый|كَرِيم‎||||||||karimu||malavara|antelias (avokätinen)|
@@ -750,9 +751,9 @@ dun:ia bax:|dunia bax||||world language||lengua mundial|||||||||||||mondlingvo|m
 dur:|dur||||time (duration, quantity of time)|temps (durée)|tiempo (duración)|tempo (duração)|||时间||||समय (वक़्त)||waktu|wakati|vakit|daŭro|aika (kesto, kestoaika)|trwanie
 dur:a|dura||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||||||||daŭrigi|kuluttaa (viettää aikaa)|minąć, mijać (czas)
 dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
+dur.abl:i|duruabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
-dur.abl:i|duruabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dut:e|dute|||fra:doute, eng:doubt, spa:tgl:duda|doubt (disbelief)||duda|||||||||||||dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
 dut.abl:i|dutabli||||dubious (suspicious, unbelievable)||||||||||||||||epäilyttävä|wątpliwy (niewiarygodny, podejrzany)
 dut.an:i|dutani||||doubtful (suspicious, disbelieving)||||||||||||||||epäilevä|niepewny (podejrzliwy, niedowierzący)
@@ -987,9 +988,9 @@ fot.o.graf.er:|fotografer||||photographer||fotógrafo|||||||||||||fotisto|valoku
 fot.o.graf.maxin:|fotografmaxin||||camera||cámara|||||||||||||fotilo|kamera|kamera, aparat fotograficzny
 fot.o.minar:|fotominar||||beacon (lighthouse)|fanal (balise)|faro (baliza, almenara)|farol (baliza)|маяк||信号|狼煙 (ビーコン)|||||||||majakka|latarnia morska
 fot.o.rad:e|fotorade||||ray of light||rayo luminoso||||||||||||||valonsäde|promień światła
+Frans:i Guyana:|Fransi Guyana|desh|GF||French Guiana||Guyana Francesa||||||||||||||Ranskan Guiana|Gujana Francuska
 frans:i krep:e|fransi krepe|yame|||crepe|crêpe|crepa (crep, tortilla de trigo)|crepe||||||||||||franca krepo|kreppi|francuski naleśnik (crêpe)
 Frans:i Pol.nes:ia|Fransi Polnesia|desh|PF||French Polynesia||Polinesia Francesa||||||||||||||Ranskan Polynesia|Polinezja Francuska
-Frans:i Guyana:|Fransi Guyana|desh|GF||French Guiana||Guyana Francesa||||||||||||||Ranskan Guiana|Gujana Francuska
 Frans:ia|Fransia|desh|FR||France||Francia|||||||||||||Francio|Ranska|Francja
 frans.em:|fransem|mate|Fr||francium||francio|||||||||||||franciumo|fransium|frans
 frans.o.fon:i|fransofoni||||Francophone (French speaking)|francophone|||||||||||||||ranskaa puhuva (frankofoni)|
@@ -1234,8 +1235,8 @@ hatr:e|hatre|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ�
 hatr:i|hatri||||dangerous (perilous)||peligroso|||||||||||||danĝera|vaarallinen|niebezpieczny
 haw:|haw|||hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa|wind||viento|||||風|||हवा (पवन)|||||vento|tuuli (puhallus)|wiatr
 haw:a|hawa||||blow||soplar (echar)|||||||||||||venti|tuulla (puhaltaa)|dmuchać
-Hawaii: nes:ia|Hawaii nesia||||Hawaiian archipelago||archipiélago de Hawái||||||||||||||Havaijin saaret|Hawaje (archipelag hawajski)
 Hawaii:|Hawaii|desh|||Hawaii||Hawái||||||||||||||Havaiji|Hawaje
+Hawaii: nes:ia|Hawaii nesia||||Hawaiian archipelago||archipiélago de Hawái||||||||||||||Havaijin saaret|Hawaje (archipelag hawajski)
 haxix:|haxix||||hashish||hachís||||||||||||||hasis|haszysz
 hay:|hay|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|sea|mer|mar|mar|море||海|海|바다 (해양)|biển (hải)|समन्दर (समुद्र)|সাগর (সমুদ্র)|laut (samudera)|bahari|deniz|maro|meri|może
 hay:i|hayi||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
@@ -1527,10 +1528,10 @@ kafe.kup:e|kafekupe||||coffee cup||taza de café|||||||||||||kaftaso|kahvikuppi|
 kafir|kafir|||ara:(kāfir), fas:(kāfer), tur:fra:kâfir, yor:kaferi, swa:kafiri, may:kafir, rus:кафир (kafir), hin:काफ़िर (kāfir)|infidel (pagan, heathen, unbeliever)||pagano (infiel)||||||||||||||pakana|niewierny (poganin, niewierzący)
 kaguje|kaguje|||zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|paper (material)|papier|papel|papel|бумага|وَرَق|纸|紙|종이|giấy|काग़ज़|কাগজ|kertas|karatasi|kâğıt|papero|paperi|papier
 kagujolimon|kagujolimon|biw|Citrus × aurantiifolia||key lime|lime (citron vert)|limero|lima|лайм||墨西哥萊檬|メキシカンライム (マナオ)|||कागजी नींबू||limau nipis|mndimu||||lima (limonka)
+Kaiman nesia|Kaiman nesia|desh|KY||Cayman Islands||islas Caimán||||||||||||||Cayman-saaret|Kajmany
 kaka|kaka||||defecate (shit)||defecar||||||||||||||ulostaa (kakata)|defekować, srać
 kakaw|kakaw|biw||por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|cocoa||cacao|||||||||||||kakao|kaakao|kakao
 kake|kake|||spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|excrement (shit)||caca|||||||||||||feko|uloste (kakka)|ekskrement, gówno
-Kaiman nesia|Kaiman nesia|desh|KY||Cayman Islands||islas Caimán||||||||||||||Cayman-saaret|Kajmany
 kal|kal||||void (empty space)||espacio (separación)||||||||||||||tyhjö|pustka
 Kalalia|Kalalia|desh|GL||Greenland||Groenlandia||||||||||||||Grönlanti|Grenlandia
 kalam|kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|plume|bolígrafo|lápis|ручка||笔|ペン|||क़लम|কলম |pen (pena, kalam)|kalamu|kalem|plumo|kynä|pióro, długopis
@@ -1559,8 +1560,8 @@ kamisi xake|kamisi xake||||sleeve|manche|manga|manga|||袖子|袖||||||||||ręka
 kamote|kamote|biw|Ipomoea batatas|spa:camote, tgl:kamote|sweet potato||camote (batata)|||||||||||||batato|bataatti|słodki ziemniak
 kampe|kampe|||eng:camp, spa:campamento, por:acampamento, tur:kamp, swa:kambi, hin:कैंप (kaimp), may:kem, jpn:キャンプ (kyanpu)|camp||campamento||||||||||||||leiri|obozowicz
 kamper|kamper||||camper||campista||||||||||||||retkeilijä|obóz
-Kamr:ia|Kamria|desh|||Wales (Cambria)||Gales||||||||||||||Wales|Walia
 kamr:i|kamri||||Welsh||galés||||||||||||||walesilainen|walijski
+Kamr:ia|Kamria|desh|||Wales (Cambria)||Gales||||||||||||||Wales|Walia
 kan:|kan|||fas:خانه‎ (xâne), rus:-хана (-hana), hin:ख़ाना (xānā), ben:খানা (khana), tur:hane + zho:馆 (guǎn), kor:관 (gwan), jpn:館 (-kan), vie:quán|shop (store or workshop)||||||店 (馆)|店 (館)|관|quán|ख़ाना|খানা|||hane|farejo|paja (tekimö)|
 Kanada|Kanada|desh|CA||Canada||Canadá||||||||||||||Kanada|Kanada
 kanal|kanal|||eng:spa:por:fra:canal, rus:канал (kanal), ben:খাল (khal), may:kanal|channel||canal (cauce, acequia)|||||||||||||kanalo|kanava (kanaali)|kanał
@@ -1579,8 +1580,8 @@ kanjar|kanjar|||fas:(xanjar), tur:haner, rus:кинжал (kinžal)|dagger||puñ
 kankuat:e|kankuate|biw|Citrus japonica|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|kumquat|kumquat|kumquat (quinoto)|quincã (cunquate)|кумкват (кинкан)||金柑|キンカン (キンキツ)|||||kumkuat||kumkat||kumkvatti|kumkwat
 kano:|kano|||eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
 kant:e|kante|||hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|shoulder||hombro|||||||||||||ŝultro|olkapää (hartia)|bark (ramię)
-kantalupo.melon:|kantalupomelon|biw|Cucumis melo var. cantalupo|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|cantaloupe||melón cantalupo|meloa (cantalupo)|канталупа||鈔皮瓜|カンタロープ||||||||||kantalupa
 Kantalupo: v:a Sabina:|Kantalupo va Sabina||||Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Канталупо-ин-Сабина|||||||||||||Cantalupo in Sabina
+kantalupo.melon:|kantalupomelon|biw|Cucumis melo var. cantalupo|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|cantaloupe||melón cantalupo|meloa (cantalupo)|канталупа||鈔皮瓜|カンタロープ||||||||||kantalupa
 kanun:|kanun|||ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|law||regla (ley)|||||||||||||lego|laki|prawo
 kap:a|kapa|||tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|catch (capture, seize, snatch, intercept)||capturar (apresar)|||||||||||||kapti|ottaa kiinni (napata, kaapata)|złapać, łapać, schwytać, chwytać
 kap:a pex:|kapa pex||||catch fish||pescar|||||||||||||||łapać rybę
@@ -1759,9 +1760,9 @@ kon.ten.er:|kontener||||container|conteneur|contenedor|contêiner|контейн
 kon.trat:e|kontrate||||pact (contract, covenant, alliance)|convention (alliance, pacte)|convenion (pacto)|pacto|контракт||公約||||||||||liittosopimus|pakt (kontrakt, ugoda, umowa, konwencja)
 Konakri Ginia|Konakri Ginia|desh|GN||Guinea||Guinea||||||||||||||Guinea|Gwinea
 koncung|koncung|biw|Insecta|zho:昆蟲 (kūnchóng), yue:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), jpn:昆蟲 (konchū)|insect|insecte|insecto|inseto|насекомое||昆虫|昆虫|곤충|sâu bọ (côn trùng)|कीड़ा||serangga|mdudu|böcek||hyönteinen (ötökkä)|owad
+kong:|kong|||zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng|hole||agujero (hueco)||||||||||||||reikä|dziura
 Kongfuz:e|konfuze|||zho:孔夫子 (Kǒng Fūzǐ)|Confucious||confucio|||||||||||||Konfuceo|Kungfutse|Konfucjusz
 Kongfuz.ist:ia|konfuzistia||||Confucianism||confucianismo||||||||||||||Kungfutselaisuus|konfucjanizm
-kong:|kong|||zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng|hole||agujero (hueco)||||||||||||||reikä|dziura
 Konkani|Konkani|nas|||Konkani||konkani||||||||||||||konkani (eräs intialainen kieli)|konkani
 konserte|konserte|||eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|concert|concert|concierto|concerto|концерт||音乐会|コンサート (音楽会)|콘서트 (음악회)||कॉन्सर्ट|সঙ্গীতানুষ্ঠান|konser||konser|koncerto|konsertti|koncert
 kontini|kontini||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ||||||||||ciągły (analogowy)
@@ -1792,8 +1793,8 @@ kosta|kosta|||eng:cost, spa:costar, por:custar, fra:coûter, deu:kosten|cost||co
 Kosta Rika|Kosta Rika|desh|CR||Costa Rica||Costa Rica||||||||||||||Costa Rica|Kostaryka
 koste|koste||||cost (price)||precio (coste)||||||||||||||hinta (maksu)|koszt, cena
 kosti|kosti||||expensive (costly)|||||||||||||||||kosztowny (drogi)
-kote|kote|||eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)|coat||abrigo (chaqueta)||||||||कोट|||||palto|takki|płaszcz
 Kot:e D:a Ivuar:|Kote Da Ivuar|desh|CI||Côte d’Ivoire (Ivory Coast)||Costa de Marfil||||||||||||||Norsunluurannikko|Wybrzeże Kości Słowniowej
+kote|kote|||eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)|coat||abrigo (chaqueta)||||||||कोट|||||palto|takki|płaszcz
 koy (koyi)|koy (koyi)|||hin:कोई (koī), urd:(koī), rus:кое- (koye-)|some||algún|||||何分の||||||||iu|jokin (joku)|jakiś
 koy jan|koy jan||||someone (somebody)||algién|||||||||||||iu persono|joku|ktoś
 koy sate|koy sate||||sometime||algún día (algún vez)|||||||||||||iam|joskus|sometime
@@ -2065,8 +2066,8 @@ Makaw|Makaw|desh|MO||Macao||Macao||||||||||||||Macao|Makau
 mal (mali)|mal (mali)|||eng:mal-, spa:fra:mal, por:mau, rus:моль (mol’)|bad||malo|||||悪い||||||||malbona|huono|zły
 mal zar|mal zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
 mal.darj.a|maldarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
-Malagas:ia|Malagasia|desh|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 malagas:i|Malagasi||||Malagasy||malgache||||||||||||||malagassi|madagaskarski; malagaski
+Malagas:ia|Malagasia|desh|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 malaria|malaria||||malaria||malaria (paludismo)||||||||||||||malaria|malaria
 Malawi|Malawi|desh|MW||Malawi||Malaui||||||||||||||Malawi|Malawi
 malayali|malayali|nas|||Malayali (Malayalam)||malayali (malabar, malayalam)||||||||||||||malajalam (eräs intialainen kieli)|malajski
@@ -2429,7 +2430,6 @@ noce|noce|||spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|night|noit|noc
 nocomode|nocomode||||night mode||modo nocturno||||||||||||||yömoodi|tryb nocny
 noda|noda||||tie a knot||hacer un nudo||||||||||||||solmia (tehdä solmu)|zawiązywać (zawiązać węzeł)
 node|node|||eng:node, spa:nudo, por:nó, fra:nœud|knot (node)||nudo|||||||||||||nodo|solmu|węzeł, zupeł
-Norfolke nes|Norfolke|desh|NF||Norfolk Island||Isla Norfolk||||||||||||||Norfolkin saaret|Norfolk
 nol (noli)|nol (noli)|||rus:ноль (nol'), may:nol, deu:null, eng:null|zero (none)||cero (ninguno)|||||零 (０)|||||||||nolla (ei yhtään)|zero, nic, żaden
 nol jan|nol jan||||nobody (no-one)||ningunos||||||||||||||ei kukaan|nikt, żadna osoba
 nol sate|nol sate||||never||nunca||||||||||||||ei koskaan (ei kertaakaan)|nigdy
@@ -2449,6 +2449,7 @@ Nordi Amerike|Nordi Amerike||||North America||Norteamérica||||||||||||||Pohjois
 Nordi Cosen|Nordi Cosen|desh|KP||North Korea (Democratic People’s Republic of Korea)||Corea del Norte||||||||||||||Pohjois-Korea|Korea Północna (Koreańska Republika Ludowo-Demokratyczna)
 Nordi Kipris|Nordi Kipris|desh|||Northen Cyprus||Chipre del Norte||||||||||||||Pohjois-Kypros|Cypr Północny
 Nordi Makedonia|Nordi Makedonia|desh|MK||Republic of North Macedonia||Macedonia del Norte||||||||||||||Makedonia|Republika Macedonii, Macedonia
+Norfolke nes|Norfolke|desh|NF||Norfolk Island||Isla Norfolk||||||||||||||Norfolkin saaret|Norfolk
 Norge|Norge|desh|NO||Norway||Noruega|||||||||||||Norvegio|Norja|Norwegia
 norgi|norgi||||Norwegian||noruego|||||||||||||norvega|norjalainen|norweski
 norme|norme||||norm (standard)||norma|||||標準|||||||||normi|norma, standard
@@ -3197,8 +3198,8 @@ sud:e|sude|||spa:sur, por:sul, fra:sud|south||sur|||||||||||||sudo|etelä|połud
 sud:i|sudi||||southern||sureño|||||||||||||||południowy
 Sud:i Amerik:e|sudi amerike||||South America||Sudamérica||||||||||||||Etelä-Amerikka|Ameryka Południowa
 Sud:i Cosen:|Sudi Cosen|desh|KR||South Korea (Republic of Korea)||Corea del Sur|||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
-Sud:i Jorj:ia e Sud:i Sanduic:e nes:ia|Sudi Jorjia e Sudi Sanduice nesia|desh|GS||South Georgia and the South Sandwich Islands||Georgias del Sur y Sándwich del Sur|||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 Sud:i Iria (Alonia)|Sudi Iria (Alonia)|desh|||South Ossetia (Alania)||Osetia del Sur||||||||||||||Etelä-Ossetia|Osetia Południowa
+Sud:i Jorj:ia e Sud:i Sanduic:e nes:ia|Sudi Jorjia e Sudi Sanduice nesia|desh|GS||South Georgia and the South Sandwich Islands||Georgias del Sur y Sándwich del Sur|||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 Sud:i Sudan:|Sudi Sudan|desh|SS||South Sudan||Sudán del Sur||||||||||||||Etelä-Sudan|Sudan Południowy
 Sud.afrik:e|Sudafrike|desh|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
 sud.o.nord:ia|sudonordia||||latitude||latitud|||||||||||||||południk

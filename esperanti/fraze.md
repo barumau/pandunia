@@ -41,7 +41,7 @@ Bonan tagon!
 **salam sham!**
 Bonan vesperon!
 
-**salam noche!**
+**salam noce!**
 Bonan nokton!
 
 **salam yam!**
@@ -50,7 +50,7 @@ Bonan apetiton!
 **salam lay!**
 Bonvenon!
 
-**salam chute!**
+**salam cute!**
 Ĝis!
 
 **salam safar!**
@@ -65,6 +65,54 @@ Noto: **Salam** estas ĝenerala vorto por salutado en ĉiuj situacioj.
 venas el araba: سَلَام‏ "salām", hebrea: שָׁלוֹם‏ "šalom", turka:
 selam, hindia: सलाम "salām", sŭahila: salaam, indonezia:
 selamat.</small>
+
+
+### danke <small>dankon</small>
+
+<p style="font-size:5em;">�</p>
+
+**danke!**
+Dankon!
+
+**multo danke!**
+Multajn dankojn!
+
+**ye, danke.**
+Jes, danke.
+
+**no, danke.**
+Ne, danke.
+
+**danka te.**
+Dankon al vi.
+
+**me danka te.**
+Mi dankas vin.
+
+**me danka te helpa me.**
+Mi dankas vin pro vi helpis min.
+
+**danka te helpa me.**
+Dankon pro vi helpis min.
+
+**te keci.**
+Ne dankinde.
+
+
+### sa <small>esti</small>
+
+The word **sa** can be used also for stating something as a fact. Then it is
+used in place of "to be".
+
+**me sa Tomas.**
+Mi estas Tomaso.
+
+**te sa Sara.**
+Vi estas Sara.
+
+**aple sa pal.**
+Pomo estas frukto.
+
 
 ### me <small>mi</small>
 

@@ -118,7 +118,7 @@ I am Thomas.
 **te sa Sara.**
 You are Sarah.
 
-**apel sa pale.**
+**aple sa pal.**
 The apple is a fruit.
 
 
