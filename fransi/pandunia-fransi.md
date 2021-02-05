@@ -17,6 +17,8 @@ ade - coutume
 adali - juste  
 adalia - justice  
 adres - adresse  
+afgani - afghan  
+Afgania - Afghanistan  
 Afrike - Afrique  
 Afriki - africain  
 afrikofilia - afrophilie  
@@ -110,14 +112,12 @@ ate - acte
 ater - agent (faiseur)  
 ation - action  
 ativi - actif  
-Athina - Athènes  
+Atina - Athènes  
 atlantokade - morue de l'Atlantique  
 atlantosalmon - saumon altentique  
 aur - or  
 autologe - monologue  
 avar - dommage  
-avgani - afghan  
-Avganistan - Afghanistan  
 ay - aïe!  
 ####B - B  
 babe - chapitre  
@@ -133,7 +133,7 @@ bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)
 bali - huit (8)  
 balsenter - Poulpe (pieuvre)  
 balibali - divers (plusieurs)  
-balonfix - poisson-globe  
+balonpex - poisson-globe  
 balute - chêne  
 balutopal - gland  
 ban - tableau (panneau)  
@@ -171,6 +171,7 @@ bax - langue
 baxi jinse - genre grammatical  
 bay - baie  
 baze - base  
+bazoxulkan - école primaire  
 bazar - marché (bazar)  
 bazobol - baseball  
 bebe - bébé  
@@ -233,13 +234,16 @@ cirkoxeke - pavé
 cize - fromage  
 cokolate - chocolat  
 cokolatobaton - tablette de chocolat  
+cope - houe  
 cuzable - option  
 ####D - D  
 daka - couvrir  
 dalil - preuve  
+dani - danois  
 danger - cloche  
 danko da - grâce à  
 danse - dance  
+danta - mordre  
 dartube - entonnoir  
 darjomute - développement  
 date - données  
@@ -305,14 +309,6 @@ eska - demander (poser un question; est-ce que)
 eske - question  
 eskaltan - vigne  
 Eskandia - Scandinavie  
-eskul - leçon  
-eskul - apprendre (étudier)  
-eskuler - étudiant  
-eskulisa - enseigner  
-eskuliser - professeur (enseignant)  
-eskulkamar - salle de classe  
-eskulkan - école (collège)  
-eskulxef - directeur (principal)  
 eskulter - sculpteur  
 esponje - éponge  
 estan - étain  
@@ -351,9 +347,9 @@ fotofrika - poli
 fotograf - photographie  
 fotografia - photographie  
 fotominar - fanal (balise)  
-franci krepe - crêpe  
-francofoni - francophone  
-Francofonia - francophonie  
+fransi krepe - crêpe  
+fransofoni - francophone  
+Fransofonia - francophonie  
 frem - cadre  
 fuka - habiller (vêtir)  
 fuke - vêtements  
@@ -425,6 +421,7 @@ hami - important
 hande - main  
 handoxake - bras  
 harfia - alphabet  
+Hartum - Khartoum  
 hata - jusque (jusqu’à)  
 hato - voire (même)  
 hatre - danger  
@@ -486,6 +483,7 @@ jan - personne (gente)
 janel - fenêtre  
 jangle - forêt (jungle)  
 jawabe - réponse  
+Jayeria - Algérie  
 jeinistia - jaïnisme  
 jeka - prêter (empruntre)  
 jekodona - prêter  
@@ -505,7 +503,8 @@ juder - juje
 jul - joule (J)  
 jung - centre  
 jungofon - voyelle  
-Jungogia - Chine  
+jungxulkan - école secondaire  
+Junguo - Chine  
 Jupiter - Jupiter  
 jus - jus  
 justi - exact (précis)  
@@ -539,7 +538,7 @@ kangaru\* - kangourou
 kanion - canyon (ravin)  
 kankuate - kumquat  
 kano - canoë  
-Kantalupo da Sabina - Cantalupo in Sabina  
+Kantalupo va Sabina - Cantalupo in Sabina  
 kapotruke - piège  
 kar - travail  
 karer - travailleur (ouvrier)  
@@ -564,7 +563,6 @@ katus - cactus
 kava - creuser  
 kave - fosse  
 kerne - coeur  
-Khartum - Khartoum  
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
@@ -685,8 +683,6 @@ lontre - loutre
 lugi - vert  
 lun - lune  
 luter - brigand (bandit)  
-lutheristi - luthérien  
-lutheristia - luthéranisme  
 luva - aimer  
 luve - amour (affection)  
 luvi - cher  
@@ -695,7 +691,7 @@ luver - amoureux
 me - je (me)  
 mome - nous  
 magesem - magnésium  
-Magribe - Maroc  
+Magribia - Maroc  
 maidan - place  
 maidanpapil - coquelicot  
 makanful - dandélion  
@@ -712,6 +708,8 @@ mar - fois
 marce - marche  
 margay - margay (chat-tigre)  
 Marse - Mars  
+martinlutheristi - luthérien  
+martinlutheristia - luthéranisme  
 mas - masse  
 masal - épices  
 maske - masque  
@@ -823,18 +821,20 @@ padomosim - automne
 pagre - turban  
 pake - paquet  
 pakse - oiseau  
+palabe - querelle (dispute, palabre)  
+pandemi patia - pandémie  
+pande - panda  
 pang - pain  
 panir - fromage blanc  
 pante - pantalon  
+pape - pere (papa)  
 papagay - perroquet  
 papay - papaye  
-pape - pere (papa)  
 par - niveau  
-para - compare  
+pari - pair (pareil, egal)  
+pari nombre - nombre pair  
 param - paramètre  
 parce - fragment  
-pari - pair (pareil)  
-pari nombre - nombre pair  
 Paris - Paris  
 parke - parc  
 parne - fougères  
@@ -864,10 +864,10 @@ peykar - profession (métier)
 peykari jive - carrière  
 piaze - oignon  
 pike - cime (pic, sommet)  
-pikosape - pioche  
 pin - épingle  
+pincope - pioche  
 pinkardon - chardon aux ânes  
-pinsobanze - porte-bloc (planchette à pince)  
+pinsoban - porte-bloc (planchette à pince)  
 pipre - poivre  
 piprominte - menthe poivrée  
 piratia - piraterie  
@@ -875,12 +875,14 @@ pis - Épicéa
 pize - pizza  
 plan - plan  
 plati gewkaskia - tectonique des plaques  
-platogewiste - terreplatiste  
 platistan - plaine  
+platogewiste - terreplatiste  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 porey - poireau  
 porte - porte  
+portoriki - Portoricain  
+Portorikia - Porto Rico  
 pote - boue (fange, bourbe, gadoue)  
 poza - planter  
 problem - problème  
@@ -894,17 +896,17 @@ pujomeze - autel
 pul - pont  
 puma\* - couguar (puma)  
 pura - remplir  
-purbona - perfectionner (parfaire)  
 puri - plein  
+purbona - perfectionner (parfaire)  
 purxipa - tremper (faire mariner)  
-putaworanje - pamplemousse  
 pute - fils ou fille  
+putaworanje - pamplemousse  
 ####Q - Q  
 ####R - R  
 rang - couleur  
+rangi kance - verre coloré  
 rangarke - arc-en-ciel  
 rangarkosalmon - truite arc-en-ciel  
-rangi kance - verre coloré  
 rangomate - colorant  
 rapidi - vite (rapide)  
 rari - rare  
@@ -914,14 +916,14 @@ ratibe - ordre
 regopetre - grès  
 reste - reste  
 retro - en arrière  
+retru - retourner (revenir)  
 retroguli sense - nausée  
 retrotikete - Aller-retour  
-retru - retourner (revenir)  
 rey - répétition  
+reya - répéter  
 reybon - réparation  
 reybona - réparer  
 reyboner - réparateur  
-reya - répéter  
 rici - riche  
 rim - rime  
 ring - anneau  
@@ -931,15 +933,15 @@ ritim - rhythme
 robote - robot  
 roketolancer - Lance-roquettes  
 Roma - Rome  
-romkamil - Camomille Romaine  
+rom.kamil: - Camomille Romaine  
 ros - rosée  
 rosta - rôtir  
 rototope - toupie  
 roze - rose  
 rozosalmon - saumon rose  
-ruhmiksi - perplexe (désorienté)  
 ruhe - psyché  
 ruhlojia - psychologie  
+ruhmixi - perplexe (désorienté)  
 ####S - S  
 sa - être  
 se - se  
@@ -962,7 +964,6 @@ san - trois (3)
 sanyom - mercredi  
 sanduice - sandwich  
 sang - sang  
-sape - houe  
 sar - tête  
 Saturne - Saturne  
 sava - savoir (connaître)  
@@ -1032,7 +1033,6 @@ tate - bord (rive)
 tazi - frais  
 tehne - technique  
 tehnolojia - technologie  
-tekse - tissu  
 telfon - téléphone  
 telfona - téléphoner  
 telvide - téléviseur  
@@ -1045,6 +1045,7 @@ terci - oblique (de travers)
 teroristia - terrorisme  
 tes - argument  
 teste - épreuve (test)  
+texe - tissu  
 tikete - billet  
 tim - équipe  
 tira milke - tirer  
@@ -1138,6 +1139,15 @@ xukar - sucre
 xukarbete - betterave à sucre (betterave sucrière)  
 xukarcaw - Canne à sucre  
 xukaroranje - orange douce  
+xul - leçon  
+xula - apprendre (étudier)  
+xulia - éducation  
+xulana - enseigner  
+xulaner - professeur (enseignant)  
+xuler - étudiant  
+xulkamar - salle de classe  
+xulkan - école (collège)  
+xulxef - directeur (principal)  
 xur - début (commencement)  
 ####Y - Y  
 ya - avec  

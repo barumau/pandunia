@@ -19,8 +19,8 @@ adhésif (collant) - gluti
 adjectif - sifloge  
 adresse - adres  
 adulte - matur  
-afghan - avgani  
-Afghanistan - Avganistan  
+afghan - afgani  
+Afghanistan - Afgania  
 africain - Afriki  
 Afrique - Afrike  
 afrophile - afrikofiler  
@@ -39,6 +39,7 @@ alcoolique - alkoli
 algue - alge  
 algues - hayalge  
 algues brunes - brunalge  
+Algérie - Jayeria  
 aller (quitter) - kitu  
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
@@ -75,7 +76,7 @@ anus - anus
 appartenir à - tenu  
 appliquer - aplika  
 apporter - layana  
-apprendre (étudier) - eskul  
+apprendre (étudier) - xula  
 apprivoiser (dresser, dompter, discipliner) - dosila  
 arabe - arabi  
 arachnophobie - aranfobia  
@@ -105,7 +106,7 @@ assez - basi
 asthme - asme  
 astrobiologie - astrobiwlojia  
 atchoum - acu\*  
-Athènes - Athina  
+Athènes - Atina  
 attaquer (agresser) - agresa  
 autel - pujomeze  
 automne - padomosim  
@@ -208,14 +209,14 @@ calculer - hisaba
 calendrier - kalende  
 calmar (encornet, calamar) - kalamar  
 calme (tranquille) - xanti  
-Camomille Romaine - romkamil  
+Camomille Romaine - rom.kamil:  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa\*  
 Canne à sucre - xukarcaw  
 canon - daypaw  
 canoë - kano  
-Cantalupo in Sabina - Kantalupo da Sabina  
+Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanion  
 capacité (compétence) - able  
 cape - mantol  
@@ -258,7 +259,7 @@ chemise - kamis
 cher - luvi  
 chercher - sowa  
 chimie - kimlojia  
-Chine - Jungogia  
+Chine - Junguo  
 chocolat - cokolate  
 chose - xey  
 chronique - duriki  
@@ -284,7 +285,6 @@ colorant - rangomate
 combava - karsolimon  
 comment - ko?  
 commercer - vendoxopa  
-compare - para  
 compassion - samemos  
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
@@ -337,7 +337,7 @@ croix - krus
 croyant - diniste  
 crème - krem  
 crème glacée - aiskrem  
-crêpe - franci krepe  
+crêpe - fransi krepe  
 crêpe - krepe  
 crêperie - kreperia  
 cube - kube  
@@ -352,6 +352,7 @@ côté - late
 dance - danse  
 dandélion - makanful  
 danger - hatre  
+danois - dani  
 dans le sens antihoraire - fansoldixo  
 dauphin - dolfin  
 de - ja  
@@ -364,7 +365,7 @@ dieu - dew
 dimanche - setyom  
 diorite - diorite  
 dioxyde de carbone - karbodulokside  
-directeur (principal) - eskulxef  
+directeur (principal) - xulxef  
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
@@ -407,7 +408,7 @@ en ligne - va linye
 enclume - metalbede  
 encore - yexo  
 enfant - bace  
-enseigner - eskulisa  
+enseigner - xulana  
 enterrer - gabra  
 entonnoir - dartube  
 envelopper (emballer) - lifafa  
@@ -458,8 +459,8 @@ fougères - parne
 fourmi - murce  
 fragment - parce  
 frais - tazi  
-francophone - francofoni  
-francophonie - Francofonia  
+francophone - fransofoni  
+francophonie - Fransofonia  
 fromage - cize  
 fromage blanc - panir  
 frêne - yasen  
@@ -517,7 +518,7 @@ hockey sur glace - aisohoke
 honneur - onor  
 honorer - onora  
 horloge - horloger  
-houe - sape  
+houe - cope  
 hourra - ura  
 huile (pétrole) - nefte  
 huit (8) - bali  
@@ -558,7 +559,7 @@ justice - adalia
 Jésus - Yesus  
 ####K - K  
 kangourou - kangaru\*  
-Khartoum - Khartum  
+Khartoum - Hartum  
 Kinshasa - Kinxasa  
 kiwi - kiwi\*  
 kumquat - kankuate  
@@ -584,7 +585,7 @@ lent - lenti
 lentille - lense  
 Lettonie - Latvia  
 lexical - logi  
-leçon - eskul  
+leçon - xul  
 libellule - libel  
 libre - huri  
 lichen - algofung  
@@ -608,8 +609,8 @@ loutre - lontre
 lumière - fote  
 lundi - unyom  
 lune - lun  
-luthéranisme - lutheristia  
-luthérien - lutheristi  
+luthéranisme - martinlutheristia  
+luthérien - martinlutheristi  
 lutte - jihade  
 lynx - lince  
 lys - susan  
@@ -636,7 +637,7 @@ mardi - dulyom
 margay (chat-tigre) - margay  
 marguerite - bakomargarite  
 mariage - gamia  
-Maroc - Magribe  
+Maroc - Magribia  
 Mars - Marse  
 masque - maske  
 masse - mas  
@@ -667,6 +668,7 @@ monde - dunia
 monnaie (pièce) - pesdiske  
 monocle - unoki lense  
 monologue - autologe  
+mordre - danta  
 morue - kade  
 morue de l'Atlantique - atlantokade  
 morue du Pacifique - pacokade  
@@ -762,10 +764,12 @@ où - va ke
 pacifiste - paciste  
 page - warkolate  
 pain - pang  
-pair (pareil) - pari  
+pair (pareil, egal) - pari  
 paix - pace  
 palais (château, manoir) - daydom  
 pamplemousse - putaworanje  
+panda - pande  
+pandémie - pandemi patia  
 panneau de signalisation - dawban  
 pantalon - pante  
 pantoufle (babouche) - babuce  
@@ -797,7 +801,7 @@ perdant - xibayer
 perder - xibaya tena  
 pere (papa) - pape  
 perfectionner (parfaire) - purbona  
-perplexe (désorienté) - ruhmiksi  
+perplexe (désorienté) - ruhmixi  
 perroquet - papagay  
 personne (gente) - jan  
 pet (vesse) - pede  
@@ -814,7 +818,7 @@ pierre tombale - gabroxeke
 pieu (poteau) - zong  
 pile (batterie) - batre  
 piment - cili\*  
-pioche - pikosape  
+pioche - pincope  
 piquenique - eksoyam  
 piraterie - piratia  
 pistolet - paw  
@@ -839,7 +843,7 @@ pocion - medikosuy
 podzol - huydarte  
 poireau - porey  
 poisson - pex  
-poisson-globe - balonfix  
+poisson-globe - balonpex  
 poivre - pipre  
 poivre long - longopipre  
 poli - fotofrika  
@@ -847,8 +851,10 @@ pollution - najis
 pomme - apel  
 pont - pul  
 porte - porte  
-porte-bloc (planchette à pince) - pinsobanze  
+porte-bloc (planchette à pince) - pinsoban  
 porter - fuki  
+Porto Rico - Portorikia  
+Portoricain - portoriki  
 posidonie (herbiers marins) - haycaw  
 possible - abli  
 possédant (propriétaire) - malker  
@@ -861,7 +867,7 @@ presse-papier - katoglutoban
 preuve - dalil  
 problème - problem  
 problématique - problemi  
-professeur (enseignant) - eskuliser  
+professeur (enseignant) - xulaner  
 profession (métier) - peykar  
 profond - fasteli  
 programme - program  
@@ -889,6 +895,7 @@ quartz - kuarze
 quatre (4) - cari  
 que (comme) - ka  
 que (quoi) - ke  
+querelle (dispute, palabre) - palabe  
 question - eske  
 qui - ki jan  
 ####R - R  
@@ -938,7 +945,7 @@ sac - sake
 sain - sihi  
 saison - mosim  
 salle de bains - banyokamar  
-salle de classe - eskulkamar  
+salle de classe - xulkamar  
 salut (salam) - salame  
 samedi - sisyom  
 sandwich - sanduice  
@@ -1031,7 +1038,7 @@ thé - cay
 tige - tan  
 tigre - bagre  
 tirer - tira milke  
-tissu - tekse  
+tissu - texe  
 titre - temnam  
 toile d'araignée - arannete  
 tomate - tomate  
@@ -1135,11 +1142,14 @@ zèbre - zebre
 âge - umur  
 échec - xibay  
 échelle - xalke  
-école (collège) - eskulkan  
+école (collège) - xulkan  
+école primaire - bazoxulkan  
+école secondaire - jungxulkan  
 écorce - tira pil  
 écrire - kitaba  
 écriture - kitabe  
 écureuil - ekor  
+éducation - xulia  
 égal (même) - sami  
 électricité - eletre  
 élevage - hewanjenisia  
@@ -1162,7 +1172,7 @@ zèbre - zebre
 éternuer - acua  
 étinceler - xingofota  
 étoile - xing  
-étudiant - eskuler  
+étudiant - xuler  
 étymologie - logaslia  
 été - garmomosim  
 évaluer - vala  

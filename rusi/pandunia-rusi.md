@@ -7,6 +7,8 @@ ade - обычай (привычка)
 adali - справедливый  
 adalia - справедливость  
 adres - адрес  
+afgani - афганский  
+Afgania - Афганистан  
 aga - если  
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
@@ -46,7 +48,7 @@ anten - антенна
 anus - анус  
 apel - яблоко  
 apelsos - яблочное пюре  
-Aphazia - Абхазия  
+Apsni - Абхазия  
 ar - площадь  
 arabobabul - акация нильская  
 aran - паук  
@@ -70,14 +72,12 @@ ate - действие (акт)
 ater - деятель  
 ation - действие (акция)  
 ativi - активный (деятельный)  
-Athina - Афины  
+Atina - Афины  
 atlantokade - Атлантическая треска  
 atlantosalmon - Атлантический лосось (сёмга)  
 aur - золото (аурум)  
 autologe - монолог  
 avar - повреждение (авария)  
-avgani - афганский  
-Avganistan - Афганистан  
 ####B - B  
 babe - глава  
 babul - акация  
@@ -91,7 +91,7 @@ bakomargarite - нивяник обыкновенный (ромашка)
 bakosalmon - кета  
 bali - восемь (8)  
 balsenter - спрут (осьминог)  
-balonfix - иглобрюховые  
+balonpex - иглобрюховые  
 balute - дуб  
 ban - доска (панель)  
 banogem - настольная игра  
@@ -126,6 +126,7 @@ bawxeke - драгоценный камень
 bax - язык  
 baxi jinse - род в грамматике  
 baze - основа (база,  фундамент)  
+bazoxulkan - семилетка  
 bazar - рынок (базар)  
 bazobol - бейсбол  
 bebe - младенец  
@@ -199,12 +200,15 @@ circiri - изорванный
 cirkoxeke - булыжник  
 cize - сыр  
 cokolate - шоколад  
+cope - мотыга  
 coy - зелень  
 ####D - D  
 dalil - доказательство  
+dani - датский  
 danga - звенеть  
 danger - звонок  
 danse - танец  
+danta - откусить  
 dantobalute - дуб зубчатый  
 dartube - воронка  
 darjomute - развитие  
@@ -234,6 +238,7 @@ dokumfilme - документальный фильм
 dolfin - дельфин  
 domi - домашний  
 domzeze - муха  
+Dominiki Komunkratia - Доминиканская Республика  
 donivi - щедрый  
 dong - восток (ост)  
 dongogoril - восточная горилла  
@@ -248,9 +253,9 @@ dulbaxi - двуязычный
 dulyom - вторник  
 dunia - мир (свет)  
 duru - длиться  
+duruabli - долговечный  
 duriki - хронический  
 durmetrer - секундомер  
-durubli - долговечный  
 dux - душ  
 ####E - E  
 ekojeni - дикий  
@@ -258,7 +263,6 @@ ekor - белка
 eksa - выгнать (исключить, кроме)  
 eksotira - вытянуть  
 eksoyam - пикник  
-eksenon - ксенон  
 eletrolinye - провод (кабель)  
 eletrorade - молния  
 em - элемент  
@@ -271,12 +275,6 @@ eska - спрашивать
 eske - вопрос  
 eskodokum - анкета  
 eskala - подниматься  
-eskul - урок (учение)  
-eskul - учиться  
-eskulisa - учить (преподавать)  
-eskuliser - учитель  
-eskulkan - школа   
-eskulxef - директор (ректор)  
 eskulter - скульптор  
 esponje - губка  
 estibem - сурьма (стибиум)  
@@ -380,6 +378,7 @@ hamili - беременный
 hande - рука  
 handoxake - рукав  
 harfia - алфавит  
+Hartum - Хартум  
 hata - до  
 hatre - опасность  
 hay - море  
@@ -454,7 +453,8 @@ jul - джоуль (J)
 jumle - фраза  
 jung - центр  
 jungofon - гласный  
-Jungogia - Китай  
+jungxulkan - средняя школа  
+Junguo - Китай  
 Jupiter - Юпитер  
 jus - сок  
 justi - точный  
@@ -489,8 +489,8 @@ kanion - овраг (ущелье, каньон)
 kanjar - кинжал  
 kankuate - кумкват (кинкан)  
 kano - каноэ  
+Kantalupo va Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
-Kantalupo da Sabina - Канталупо-ин-Сабина  
 kapotruke - ловушка  
 kar - работа  
 karer - работник  
@@ -512,7 +512,6 @@ katus - кактус
 kava - копать  
 kave - яма  
 kenarbaryer - забор (ограда)  
-Khartum - Хартум  
 kim - вещество  
 kimem - химический элемент  
 kimlojia - химия  
@@ -632,8 +631,6 @@ lowa - протекать (просочиться)
 lugi - зелёный  
 lun - луна  
 luter - грабитель  
-lutheristi - лютеранский  
-lutheristia - лютера́нство  
 luva - любить  
 luve - любовь  
 luver - любовник  
@@ -643,7 +640,7 @@ mome - мы
 mafana - утруждать  
 mafanu - утруждай  
 magesem - магний  
-Magribe - Марокко  
+Magribia - Марокко  
 maidan - площадь (сквер, майдан)  
 maidanpapil - мак самосейка  
 majenti - маджента (фуксия)  
@@ -661,6 +658,8 @@ marce - марш
 margarite - маргаритка  
 margay - маргай  
 Marse - Марс  
+martinlutheristi - лютеранский  
+martinlutheristia - лютера́нство  
 mas - масса  
 masal - пряность  
 maske - маска  
@@ -690,8 +689,6 @@ metalbede - наковальня
 meze - стол  
 migre - миграция  
 migru - переезжать  
-miksa - мешать  
-miksi alkol - коктейль  
 milke - молоко  
 milkokardon - расторопша пятнистая  
 minte - мята  
@@ -699,6 +696,8 @@ mirdi - слабый
 misalo - например  
 Misria - Египет  
 mitre - метр  
+mixa - мешать  
+mixi alkol - коктейль  
 moke - дерево  
 mokoban - доска (планка)  
 mokotan - бревно  
@@ -770,20 +769,21 @@ padi - упавший  (падший)
 padomun - лаз  
 pagre - чалма  
 pake - пакет  
+pandemi patia - пандемия  
+pande - панда  
 pang - хлеб  
 panir - творог  
 pante - брюки  
+pape - отец (папа)  
 papagay - попугай  
 papay - папайя  
-pape - отец (папа)  
 par - уровень  
-para - сравнить  
-param - параметр (аргумент)  
-parce - кусок  
 pari - равный  
 pari nombre - чётное число  
-parke - парк  
 parlinyi - параллельный  
+param - параметр (аргумент)  
+parce - кусок  
+parke - парк  
 parne - папоротник  
 pasporte - паспорт  
 patike - пациент (больной)  
@@ -816,10 +816,10 @@ peykari jive - карьера
 peykarer - профессионал (профи)  
 piaze - лук  
 pike - вершина  
-pikosape - киркомотыга  
 pin - булавка (игла, шип)  
+pincope - киркомотыга  
 pinkardon - татарник колючий  
-pinsobanze - планшет  
+pinsoban - планшет  
 pipre - перец  
 piprominte - мята перечная  
 pis - ель  
@@ -830,10 +830,12 @@ pliza - просить
 plum - слива  
 polbaxi - многоязычный  
 polmaro - часто  
-polave - плов  
+polaw - плов  
 pontopin - компас  
 porey - лук-порей  
 porte - порт  
+portoriki - пуэрториканец  
+Portorikia - Пуэрто-Рико  
 pote - болото  
 problem - проблема  
 problemi - проблематичный  
@@ -845,8 +847,8 @@ pujomeze - алтарь
 puma\* - пума (кугуар)  
 puntonombre - оценка  
 pura - заполнять  
-purfityamiste - веган  
 puri - полный  
+purfityamiste - веган  
 purxipa - мариновать  
 putaworanje - грейпфрут  
 ####Q - Q  
@@ -860,14 +862,14 @@ rasmedi - межрасовый
 ratibe - установка  
 ratibi - организованный (порядок)  
 reste - остаток  
+retru - возвращаться  
 retrogula - рвать (изрыга́ть)  
 retroguli sense - тошнота  
-retru - возвращаться  
 rey - повторение  
+reya - повторять  
 reybon - починка (ремонт)  
 reybona - чинить (ремонтировать)  
 reyboner - ремонтник  
-reya - повторять  
 rim - рифма  
 ringar - ринг (манеж)  
 ris - рис  
@@ -875,16 +877,16 @@ ritim - ритм (такт)
 robote - робот  
 roketolancer - ракетная установка  
 Roma - Рим  
+rom.kamil: - ромашка римская  
 romansi - романтический  
 romansia - роман  
-romkamil - ромашка римская  
 ros - роса  
 rototope - волчок  
 roze - роза  
 rozosalmon - горбуша  
-ruhmiksa - озадачить  
-ruhmiksi - растерянный (озадаченный)  
 ruhe - душа (дух)  
+ruhmixa - озадачить  
+ruhmixi - растерянный (озадаченный)  
 rukosake - рюкзак  
 rutogalta - отходить (скитаться)  
 ####S - S  
@@ -909,7 +911,6 @@ sanzong - трезубец
 sanduice - сандвич  
 sanduke - сундук  
 sang - кровь  
-sape - мотыга  
 sapate - туфля  
 sar - голова  
 Saturne - Сатурн  
@@ -986,8 +987,6 @@ tatu\* - татуировка (тату)
 tazi - свежий  
 tehne - техника  
 tehnolojia - технология  
-tekse - ткань  
-teksomaxin - ткацкий станок  
 telfon - телефон  
 telfona - звонить  
 telfonia - телефония  
@@ -1002,6 +1001,8 @@ terci - косой
 teroristia - терроризм  
 tes - довод  
 teste - проба (тест)  
+texe - ткань  
+texmaxin - ткацкий станок  
 tikete - билет  
 tim - команда  
 tira milke - тянуть  
@@ -1081,6 +1082,7 @@ xaxu - шурша́ть
 xef - шеф  
 xeke - камень (камешек)  
 xenga - победить  
+xenon - ксенон  
 xey - вещь  
 xeyhal - положение (ситуация)  
 xibaya - проиграть (провалиться)  
@@ -1097,6 +1099,13 @@ xukar - сахар
 xukarbete - сахарная свёкла  
 xukarcaw - сахарный тростник  
 xukaroranje - апельсин  
+xul - урок (учение)  
+xula - учиться  
+xulia - образование  
+xulana - учить (преподавать)  
+xulaner - учитель  
+xulkan - школа   
+xulxef - директор (ректор)  
 xur - начало  
 xuxi - тихий  
 ####Y - Y  
@@ -1111,7 +1120,7 @@ yawan - нужный
 yawxina - доверять (понадеяться)  
 yawxinabli - верный  
 yawxinablia - верность  
-Yemenia - Йемен  
+Yemen - Йемен  
 Yesus - Иисус  
 yexo - ещё  
 yoge - йога  

@@ -14,8 +14,8 @@ admiralo (ŝiparestro) - hayamirer
 adreso - adres  
 aerarmeo - airgun  
 aero - air  
-afgana - avgani  
-Afganujo, Afganio - Avganistan  
+afgana - afgani  
+Afganujo, Afganio - Afgania  
 afrika - Afriki  
 afrikamanteco - afrikofilia  
 afrikamanto - afrikofiler  
@@ -110,7 +110,7 @@ astmo - asme
 atako (agreso) - agres  
 ateisto - andewiste  
 atendi - denga  
-Ateno - Athina  
+Ateno - Atina  
 atomo - atom  
 aventuristo - venturer  
 aventuro - ventur  
@@ -150,7 +150,7 @@ bano - banye
 banĉambro - banyokamar  
 baobabo - buy  
 Barata - barti  
-Baratio - Bartia  
+Baratio - Barte  
 barbaro - barbar  
 barbo - barde  
 bari - barya  
@@ -162,6 +162,7 @@ batato - kamote
 baterio (pilo) - batre  
 bati - darba  
 baza - bazi  
+bazlernejo - bazoxulkan  
 bazo - baze  
 bebo - bebe  
 beduino (nomado) - badawi  
@@ -169,7 +170,7 @@ bela - sundari
 beleco - sundaria  
 Belgio - Belgia  
 Beliceo - Belize  
-Belorusio - Belorusia  
+Belorusio - Belarus  
 bendo - tepe  
 benko - bence  
 benzino - benzin  
@@ -188,7 +189,7 @@ bildo (desegnaĵo) - graf
 bildrakonto - grafsage  
 biologio - biwlojia  
 birdo - pakse  
-Birmo - Mianma  
+Birmo - Myanma  
 biskvito (kuketo) - biskute  
 bismuto - bismute  
 blanka - baki  
@@ -209,7 +210,7 @@ Bonan matenon! - salam sube
 Bonan tagon - salam den  
 Bonan vesperon - salam xam  
 bonan vojaĝon - salam cute  
-bonaspekta - rupoboni  
+bonaspekta - bonrupi  
 bonega (mojosa) - kuli  
 bonega - superi  
 bonvenon! - salam lay  
@@ -256,8 +257,9 @@ citrono - limon
 ####D - D  
 damaĝa - avarani  
 damaĝo - avar  
+dana - dani  
 danco - danse  
-Danio - Danmarke  
+Danio - Dania  
 danki - danka  
 danko - danke  
 dank’al - danko da  
@@ -428,7 +430,7 @@ figuro - figur
 fiki - coda  
 fiksi - fiksa  
 filino - femi pute  
-Filipinoj - Filipinia  
+Filipinoj - Filipinas  
 filmo - filme  
 filozofia - filsofi  
 filozofio - filsofia  
@@ -437,7 +439,7 @@ filtri - filter
 fingro - ungle  
 fini - fina  
 finna - suomi  
-Finnlando - Suomi  
+Finnlando - Suomia  
 fino - fin  
 fizikisto - fiziker  
 fiziko - fizike  
@@ -471,9 +473,9 @@ fotilo - fotografmaxin
 fotisto - fotografer  
 foto - fotograf  
 fotografio - fotografia  
-franca krepo - franci krepe  
-Francio - Francia  
-franciumo - francem  
+franca krepo - fransi krepe  
+Francio - Fransia  
+franciumo - fransem  
 frato aŭ fratino - saudar  
 fremda (nekonata) - anjani  
 fremda lando - eksodex  
@@ -510,6 +512,7 @@ generala (universala) - putongi
 genuo - gute  
 geometrio - gewmetria  
 germaniumo - germanem  
+gimnazio - jungxulkan  
 gitaro - gitar  
 glacia - aisi  
 glaciaĵo - aiskrem  
@@ -536,7 +539,7 @@ greka - heleni
 Grekio - Helenia  
 grimaco - grimas  
 grupo - grupe  
-Gujano - Gayan  
+Gujano - Guyana  
 guruo (instruisto) - guru\*  
 gusti kiel - gustu ko  
 gusto - guste  
@@ -545,7 +548,7 @@ Gvatemalo - Guatemala
 gvidi - gida  
 ####H - H  
 hafnio - hafnem  
-Haitio - Haitia  
+Haitio - Aiti  
 halo - fotocirke  
 halti - tingu  
 haltigi - tinga  
@@ -593,7 +596,7 @@ homaj rajtoj - insani hake
 homaro - insania  
 homismo - insanistia  
 homo - insan  
-Honduro - Honduras  
+Honduro - Onduras  
 honoro (respekto) - onor  
 honto - xarme  
 horloĝo - horloger  
@@ -619,8 +622,8 @@ infekto - infekse
 informacio - inform:e  
 inko - moge  
 ino - fem  
-instrui - eskulisa  
-instruisto - eskuliser  
+instrui - xulana  
+instruisto - xulaner  
 insulto - ninde  
 inter - medu  
 interesa - interesi  
@@ -633,7 +636,7 @@ inviti - pliza laya
 io - koy xey  
 iono - ion  
 Irakio - Irakia  
-Iranio - Irania  
+Iranio - Iran  
 iri - kitu  
 iridio - iridem  
 islama - islamisti  
@@ -658,7 +661,7 @@ japana - niponi
 Japanio - Nipon  
 jaro - nen  
 jasmeno - malike  
-Jemeno - Yemenia  
+Jemeno - Yemen  
 jes - ye  
 Jesuo - Yesus  
 jodo - iodem  
@@ -693,7 +696,7 @@ kalko - kalsomate
 kalkoŝtono - kalsopetre  
 kalkuli - hisaba  
 kalkulo - hisabe  
-Kamboĝo - Kambujia  
+Kamboĝo - Kambojia  
 kamelo - gamel  
 kanabo - ganje  
 kanalo - kanal  
@@ -831,7 +834,7 @@ kromo - kromem
 krono - koron  
 kruco - krus  
 krunviruso - koronvirus  
-ksenono - eksenon  
+ksenono - xenon  
 kubo - kube  
 kuko - keke  
 kukumo - hiar  
@@ -871,14 +874,14 @@ Latvio - Latvia
 lavi - waxa  
 lavmaŝino - waxmaxin  
 laŭrencio - laurensem  
-leciono - eskul  
+leciono - xul  
 legi - duga  
 lego - kanun  
 legomo - yamfite  
 leono - sing  
-lernejestro - eskulxef  
-lernejo - eskulkan  
-lerni (studi) - eskul  
+lernejestro - xulxef  
+lernejo - xulkan  
+lerni (studi) - xula  
 lerta - ajili  
 li aŭ ŝi aŭ ĝi - le  
 libelo - libel  
@@ -940,7 +943,7 @@ malgranda - lili
 Malio - Mali  
 malkonsenti - alraya  
 malkredulo - andiniste  
-malliberejo - prizonia  
+malliberejo - prizonkan  
 malliberigi - prizona  
 mallonga - korti  
 mallongigi - korta  
@@ -989,7 +992,7 @@ materio - mate
 matura (plenkreska) - maturi  
 maŝino - maxin  
 mejtnerio - maitnerem  
-Meksikio - Mehiko  
+Meksikio - Mexiko  
 melki - tira milke  
 melodio - melodia  
 melongeno - bedinjan  
@@ -1016,8 +1019,8 @@ mia - mi
 mielo - mel  
 migrado - migre  
 mikro- - mikro-  
-miksi - miksa  
-miksilo - mikser  
+miksi - mixa  
+miksilo - mixer  
 miksulo - hibride  
 mil (kilo-) - kilo\*  
 mili- - milo-  
@@ -1042,10 +1045,11 @@ Mongolio - Mongolia
 monismo - unistia  
 mono - pes  
 monoklo - unoki lense  
-monstro - monster  
+monstro - monoster  
 monto - xan  
 montri (ekspozicii) - xow  
 montri - ponta  
+mordi - danta  
 morgaŭ - badodeno  
 morta - morti  
 mortigi - morta  
@@ -1066,7 +1070,7 @@ muzikisto - musiker
 muziko - musike  
 muŝo - domzeze  
 ####N - N  
-nadlo (pinglo) - pin  
+nadlo (pinglo, pikilo) - pin  
 najlo - ding  
 najtingalo - bulbul  
 Namibio - Namibia  
@@ -1165,6 +1169,7 @@ paladio - paladem
 palmo - palme  
 palto - kote  
 Panamo - Panama  
+pandemio - pandemi patia  
 pando - pande  
 pandunia - pandunia  
 paniko - panike  
@@ -1211,9 +1216,11 @@ picejo - pizeria
 pico - pize  
 piedo - fute  
 piedpilko - futobol  
+piki - pina  
 pilko - bol  
 pingveno - pinguin  
 pino - song  
+pinto - pike  
 pinĉilo - pinser  
 pipro - pipre  
 piramido - piram  
@@ -1254,12 +1261,13 @@ porcio (dozo) - doze
 pordo - mun  
 porkaĵo - gurubomanse  
 porko - gurube  
+Portoriko - Portorikia  
 posteno - asan  
 posttagmeze - xamden  
 povi - abla  
 povo - able  
 poŝo - jebe  
-poŝtejo - postia  
+poŝtejo - postokan  
 pravigi - saha  
 preciza (ekzakta) - justi  
 presaĵo - cape  
@@ -1471,7 +1479,7 @@ statuo (skultaĵo) - eskulte
 stelo - xing  
 stranga - bizari  
 stroncio - estrontem  
-studento (lernanto) - eskuler  
+studento (lernanto) - xuler  
 substantivo - namloge  
 Sudkoreio - Sudi Cosen  
 sudo - sude  
@@ -1492,7 +1500,7 @@ surprizo - suprize
 suĉi - cupa  
 suŝio - suxi\*  
 svastiko - hukokrus  
-sŭahili - suahili  
+sŭahili - swahili  
 ####T - T  
 tabako - tabake  
 tabelo - datotable  
@@ -1504,7 +1512,7 @@ tago (periodo de 24 horoj) - yom
 tago - den  
 tajgo - taige  
 tajlanda - tayi  
-Tajlando - tayia  
+Tajlando - Tayia  
 tajpilo - kitabomaxin  
 taladri - fora  
 talio - talem  
@@ -1541,7 +1549,7 @@ teroro - teror
 terpomo - patate  
 tertremo - gewsisme  
 testo - teste  
-Tibeto - podia  
+Tibeto - Bodia  
 tie - va ce  
 tigro - bagre  
 timi - fobu  
@@ -1695,7 +1703,7 @@ zoroastristo - zarduxiste
 Zoroastro - Zardux  
 zuluo - Zulu  
 Ĉilio - Cile  
-Ĉinio - Jungogia  
+Ĉinio - Junguo  
 ĉambro - kamar  
 ĉampiono - campion  
 ĉapelo - tope  
@@ -1716,7 +1724,7 @@ zuluo - Zulu
 ĉevalo - gude  
 ĉi tio - ce  
 ĉi tiu - ci  
-ĉiam - pan sate  
+ĉiam - pansato  
 ĉielo - saman  
 ĉimpanzo - cimpanze  
 ĉinĉilo - cincil  
@@ -1733,7 +1741,7 @@ zuluo - Zulu
 ĝis - hata  
 ĝusta (prava) - sahi  
 ĝuste (ekzakte) - justo  
-Ĥartumo - Khartum  
+Ĥartumo - Hartum  
 ĥemio (kemio) - kimlojia  
 ĥoro - cantergrupe  
 ĵaŭdo - caryom  

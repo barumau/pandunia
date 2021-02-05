@@ -9,6 +9,7 @@ ade - 习惯 (风俗)
 adali - 公正地  
 adalia - 正义  
 adres - 地址  
+Afgania - 阿富汗  
 aga - 如果 (要是)  
 agres - 攻击  
 agreser - 侵略者  
@@ -69,12 +70,11 @@ astrobiwlojia - 太空生物学
 ate - 作为 (行为)  
 ation - 行动  
 ativi - 活性  
-Athina - 雅典  
+Atina - 雅典  
 atlantokade - 大西洋鱈  
 atlantosalmon - 大西洋鮭  
 aur - 金  
 autologe - 独白  
-Avganistan - 阿富汗  
 ####B - B  
 babe - 章  
 bace - 小孩  
@@ -118,6 +118,7 @@ bax - 语言
 baxi jinse - 文法的性  
 baxlojia - 语言学  
 baze - 底部  
+bazoxulkan - 小学  
 bazar - 市场  
 bazobol - 棒球  
 bebe - 宝宝  
@@ -140,6 +141,7 @@ bol - 球
 bombe - 炸弹  
 boni - 好  
 bondarme - 道德  
+bonrupi - 好看  
 bonsinyi - 吉利的  
 botel - 瓶  
 botolefte - 左舷  
@@ -181,10 +183,13 @@ cirkoxeke - 鹅卵石
 cize - 酪 (起司)  
 cokolate - 巧克力  
 cokolatobaton - 巧克力棒  
-Cungking - 重庆  
+Congcing - 重庆  
+cope - 锄头  
 cuzable - 选择 (买卖权)  
 ####D - D  
+dani - 丹麦的  
 danger - 钟 (摇铃)  
+danta - 咬  
 dantobalute - 槲树  
 dartube - 漏斗  
 darjomute - 发展 (开发)  
@@ -223,8 +228,8 @@ duli - 二 (2)
 dulyom - 星期二 (禮拜二)  
 dunia - 世界  
 dur - 时间  
+duruabli - 耐用的  
 durmetrer - 秒表  
-durubli - 耐用的  
 dux - 淋浴  
 ####E - E  
 e - 和  
@@ -239,13 +244,6 @@ emoshal - 心情
 englomargarite - 雛菊  
 eska - 问  
 eske - 问题  
-eskul - 课  
-eskul - 学习  
-eskuler - 学生  
-eskulisa - 教学  
-eskuliser - 教师 (老师)  
-eskulkan - 学校  
-eskulxef - 校长  
 esponje - 海绵  
 estan - 锡  
 estibem - 锑  
@@ -338,6 +336,7 @@ hamili - 怀孕
 hande - 手  
 handoxake - 胳膊  
 harfia - 字母表  
+Hartum - 喀土穆  
 hata - 直到  
 hato - 连  
 hatre - 危险  
@@ -410,7 +409,8 @@ jive - 生命
 jul - 焦耳 (J)  
 jumle - 句子  
 jung - 中心  
-Jungogia - 中国  
+jungxulkan - 中学  
+Junguo - 中国  
 Jupiter - 木星  
 jus - 汁  
 ####K - K  
@@ -471,7 +471,6 @@ keger - 客人
 kenar - 边  
 kenarbaryer - 篱笆  
 kerne - 核心  
-Khartum - 喀土穆  
 kim - 物质  
 kimem - 元素  
 kimlojia - 化学  
@@ -591,7 +590,7 @@ luver - 恋人 (情人, 爱人)
 me - 我  
 mome - 我们  
 magesem - 镁  
-Magribe - 摩洛哥  
+Magribia - 摩洛哥  
 maidan - 广场  
 maidanpapil - 虞美人 (雛罌粟)  
 makanful - 蒲公英  
@@ -703,15 +702,16 @@ pace - 和平
 paciste - 和平主义者  
 pacistia - 和平主义  
 pagre - 包头  
+pandemi patia - 大流行病  
 pang - 面包  
 pante - 裤子  
+pape - 爸爸  
 papagay - 鹉鹦  
 papay - 木瓜  
-pape - 爸爸  
 par - 水平  
+pari nombre - 偶数  
 param - 参数  
 parcokayu - 爆裂  
-pari nombre - 偶数  
 parke - 园  
 parne - 蕨  
 pasporte - 护照  
@@ -737,9 +737,9 @@ pexohuke - 鱼钩
 pexosaider - 鱼夫  
 peykar - 职业  
 piaze - 洋葱  
-pikosape - 镐  
 pil - 皮  
 pin - 别针  
+pincope - 镐  
 pinkardon - 大翅蓟  
 pipre - 胡椒  
 piprominte - 辣薄荷  
@@ -775,27 +775,26 @@ ras - 种族
 ratiba - 整理  
 ratibe - 常规 (次序)  
 reste - 其余  
+retru - 返回 (回来)  
 retrogula - 呕吐  
 retroguli sense - 恶心  
 retrotikete - 往返票  
-retru - 返回 (回来)  
+reya - 重复  
 reybon - 修理  
 reybona - 修理  
 reyboner - 修理工人  
-reya - 重复  
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
 ritim - 节奏  
 roketolancer - 火箭筒  
 Roma - 罗马  
-romkamil - 果香菊  
+rom.kamil: - 果香菊  
 rototafun - 飓风 (台风)  
 rototope - 陀螺  
 roze - 玫瑰  
 rozosalmon - 粉紅鮭  
-ruhmiksi - 困惑 (混乱)  
-rupoboni - 好看  
+ruhmixi - 困惑 (混乱)  
 ####S - S  
 sa - 对  
 sabun - 肥皂  
@@ -818,7 +817,6 @@ sanyom - 星期三 (禮拜三)
 sanzong - 三叉戟  
 sanduice - 三明治 (三文治)  
 sang - 血  
-sape - 锄  
 sapate - 鞋  
 sar - 头  
 Saturne - 土星  
@@ -886,7 +884,6 @@ tate - 岸
 tazi - 新鲜的  
 tehne - 技术  
 tehnolojia - 工艺学  
-tekse - 布料  
 telfon - 电话机  
 telfona - 打电话  
 telvide - 电视机  
@@ -898,6 +895,7 @@ terci - 斜的
 teroristia - 恐怖行为  
 tes - 论据  
 teste - 化验  
+texe - 布料  
 tikete - 票  
 tim - 队  
 tira milke - 拉  
@@ -953,7 +951,7 @@ wijin - 味精
 ####X - X  
 xalke - 鳞  
 xam - 晚上  
-Xanghai - 上海  
+Xanghay - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 撒但  
 xawi - 少  
@@ -977,6 +975,14 @@ xopa - 买
 xope - 购物 (血拼)  
 xukar - 糖  
 xukarcaw - 甘蔗  
+xul - 课  
+xula - 学习  
+xulia - 教育  
+xulana - 教学  
+xulaner - 教师 (老师)  
+xuler - 学生  
+xulkan - 学校  
+xulxef - 校长  
 xur - 开始  
 xura - 开始  
 xute - 技术  
