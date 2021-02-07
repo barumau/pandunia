@@ -182,6 +182,8 @@ boulanger - beker
 bouleau - berje  
 bouteille - botel  
 bouton - buton  
+boxe - bokse  
+boxeur - bokser  
 bras - handoxake  
 brave - bravi  
 bravo! - bravo  
@@ -207,6 +209,7 @@ calcaire - kalsopetre
 calcite - kalsite  
 calculer - hisaba  
 calendrier - kalende  
+caleçon - bokserpante  
 calmar (encornet, calamar) - kalamar  
 calme (tranquille) - xanti  
 Camomille Romaine - rom.kamil:  
@@ -363,6 +366,7 @@ deux (2) - duli
 diamant - almas  
 dieu - dew  
 dimanche - setyom  
+dinde (dindon) - dinde  
 diorite - diorite  
 dioxyde de carbone - karbodulokside  
 directeur (principal) - xulxef  

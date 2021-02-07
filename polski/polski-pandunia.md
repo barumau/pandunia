@@ -212,6 +212,7 @@ bohater, heros - vir
 bohaterski, heroiczny, odważny, brawurowy - viri  
 bohr - borem  
 bojkot - boikote  
+boks - bokse  
 bolesny - paxi  
 Boliwia - Bolivia  
 bomba - bombe  
@@ -885,7 +886,7 @@ indiański - aslameriki
 Indie - Barte  
 Indonezja - Indonesia  
 Indyjski - barti  
-indyk - totol  
+indyk - dinde  
 infekcja (zakażenie) - infekse  
 informacja - inform:e  
 inny - ali  
@@ -2904,9 +2905,8 @@ tkać (pleść) - texa
 tlen - okse  
 tlenek - okside  
 toczyć, turlać - rula  
-togijski - togoli  
 Togo - Togo  
-Tokio - tokyo  
+Tokio - Tokyo  
 toksyczny (trujący) - toksi  
 tolerować - tolera  
 ton, dźwięk, nuta, tonacja - ton  

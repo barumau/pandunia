@@ -392,6 +392,9 @@ bodi - bodily (corporal)
 Bodia - Tibet  
 boikote - boycott  
 boke - mouth  
+bokse - boxing  
+bokser - boxer  
+bokserpante - boxer shorts (boxers)  
 bol - ball  
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
@@ -674,6 +677,7 @@ dini - religious
 dinguru\* - priest (cleric)  
 diniste - believer (religious person)  
 dinamite - dynamite  
+dinde - turkey  
 ding - nail (spike)  
 Dione - Dione  
 diorite - diorite  
@@ -3351,14 +3355,13 @@ tirsanduke - drawer
 tiran - tyrant  
 tirania - tyranny  
 Titan - Titan  
-titanem - titanem  
 Titania - Titania  
+titanem - titanem  
 toca - touch  
 Togo - Togo  
-togoli - Togolese  
 tokse - poison (venom)  
 toksi - toxic (poisonous, venomous)  
-tokyo - Tokyo  
+Tokyo - Tokyo  
 tolera - tolerate  
 tomate - tomato  
 ton - tone (note, pitch, shade)  
@@ -3368,7 +3371,6 @@ tope - hat (cap)
 torem - thorium  
 torse - trunk (torso)  
 tortuge - turtle (tortoise)  
-totol - turkey  
 towa - drag (haul, tow, trail)  
 towal - towel  
 transa - transit (pass through or across)  

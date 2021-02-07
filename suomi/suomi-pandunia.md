@@ -225,6 +225,7 @@ blini - rusi krepe
 blogi (nettikolumni) - bloge  
 bohrium - borem  
 boikotti - boikote  
+bokserit - bokserpante  
 Bolivia - Bolivia  
 boori - boron  
 Bosnia ja Hertsegovina - Bosnia e Hercegovina  
@@ -871,7 +872,7 @@ kalifornium - kalifornem
 kalium - kalem  
 kalkki - kalsomate  
 kalkkikivi - kalsopetre  
-kalkkuna - totol  
+kalkkuna - dinde  
 kalkyyli - kalkulia  
 kallio (kivi) - petre  
 kalsiitti (kalkkisälpä) - kalsite  
@@ -1788,6 +1789,8 @@ nuorukainen - jovan
 nuoruus - jovania  
 nussia (panna) - coda  
 nuudeli - mien  
+nyrkkeilijä - bokser  
+nyrkkeily - bokse  
 nähdä - vida  
 näkymä - vide  
 näkyä - vidu  
@@ -2773,7 +2776,6 @@ todella - vero
 todistaa - dalila  
 todiste (todistus, osoitus, demonstraatio) - dalil  
 Togo - Togo  
-togolainen - togoli  
 tohtori - dotor  
 tohtorin tutkinto - dotoria  
 tohveli - babuce  

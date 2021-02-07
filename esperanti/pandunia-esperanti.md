@@ -223,6 +223,8 @@ bodi - korpa
 Bodia - Tibeto  
 boikote - bojkoto  
 boke - buŝo  
+bokse - bokso  
+bokser - boksisto  
 bol - pilko  
 Bolgaria - Bulgario  
 Bolivia - Bolivio  
@@ -380,6 +382,7 @@ din - religio
 dini - religia  
 dinguru\* - pastro  
 diniste - kredulo  
+dinde - meleagro  
 ding - najlo  
 diske - disko  
 disprosem - disprozio  

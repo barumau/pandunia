@@ -363,6 +363,9 @@ bodi - ruumiillinen
 Bodia - Tiibet  
 boikote - boikotti  
 boke - suu  
+bokse - nyrkkeily  
+bokser - nyrkkeilijä  
+bokserpante - bokserit  
 bol - pallo  
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
@@ -636,6 +639,7 @@ dini - uskonnollinen
 dinguru\* - pappi  
 diniste - uskovainen  
 dinamite - dynamiitti  
+dinde - kalkkuna  
 ding - naula (piikki)  
 Dione - Dione  
 diske - kiekko (levy)  
@@ -2912,7 +2916,6 @@ tirania - tyrannia
 titanem - titaani  
 toca - koskea (koskettaa)  
 Togo - Togo  
-togoli - togolainen  
 tokse - myrkky  
 toksi - myrkyllinen  
 tolera - sallia  
@@ -2923,7 +2926,6 @@ Tonga - Tonga
 tope - lakki (hattu)  
 torse - vartalo (varsi, torso)  
 tortuge - kilpikonna  
-totol - kalkkuna  
 towa - vetää (kiskoa, raahata)  
 towal - pyyhe  
 transa - kulkea poikki, läpi tai yli  

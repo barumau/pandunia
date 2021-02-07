@@ -149,6 +149,9 @@ biwmutu - заквасить
 biwsistem - биом  
 biznes - предприятие (бизнес)  
 bode - тело  
+bokse - бокс  
+bokser - боксёр  
+bokserpante - семейные  
 bol - шар  
 bombe - бомба  
 boni - хороший  
@@ -230,6 +233,7 @@ dike - цель
 din - религия (вера)  
 diniste - верующий  
 dinamite - динамит  
+dinde - индюк  
 diorite - диорит  
 diske - диск  
 dobe - кирпич  

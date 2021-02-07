@@ -368,6 +368,7 @@ bodi - cielesny
 Bodia - Tybet  
 boikote - bojkot  
 boke - usta  
+bokse - boks  
 bol - piłka  
 Bolgaria - Bułgaria  
 Bolivia - Boliwia  
@@ -638,6 +639,7 @@ dini - religijny
 dinguru\* - ksiądz, kleryk, kaznodzieja  
 diniste - wierzący (osoba religijna)  
 dinamite - dynamit  
+dinde - indyk  
 ding - kolec  
 diorite - dioryt  
 diske - dysk  
@@ -3184,10 +3186,9 @@ tirania - tyrania
 titanem - tytan  
 toca - dotyczyć  
 Togo - Togo  
-togoli - togijski  
 tokse - trucizna (toksyna)  
 toksi - toksyczny (trujący)  
-tokyo - Tokio  
+Tokyo - Tokio  
 tolera - tolerować  
 tomate - pomidor  
 ton - ton, dźwięk, nuta, tonacja  
@@ -3197,7 +3198,6 @@ tope - kapelusz, czapka
 torem - tor  
 torse - tułów  
 tortuge - żółw  
-totol - indyk  
 towal - ręcznik  
 transa - przejść, przechodzić, przejechać, przejeżdżać  
 transe - przejazd, przewóz, tranzyt  

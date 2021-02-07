@@ -415,6 +415,8 @@ bota - bute
 botella - botel  
 Botsuana - Cwana  
 botánica - fitolojia  
+boxeador - bokser  
+boxeo - bokse  
 Brasil - Brazil  
 bravo! - bravo  
 brazo - handoxake  
@@ -451,6 +453,7 @@ bárbaro - barbar
 básico - bazi  
 béisbol - bazobol  
 Bélgica - Belgia  
+bóxer - bokserpante  
 búbalo (arni) - kabaw  
 ####C - C  
 caballo - gude  
@@ -2473,6 +2476,7 @@ patología - patolojia
 patrimonio (herencia, legado) - waris  
 patógeno - patojener  
 pausa - pauze  
+pavo (guajalote) - dinde  
 paz - pace  
 país (nación, estado, terra) - dex  
 país extranjero - eksodex  
@@ -3243,7 +3247,6 @@ todas las personas - pan jan
 todavía (aún) - yexo  
 todo - pan (pani)  
 Togo - Togo  
-togolés - togoli  
 tolerar - tolera  
 tomate - tomate  
 tonelada - megagram  
@@ -3260,7 +3263,6 @@ torso - torse
 tortuga - tortuge  
 tos - kos  
 totalidad (integridad) - holia  
-totol - totol  
 trabajador (obrero) - karer  
 trabajar - kara  
 trabajo - kar  

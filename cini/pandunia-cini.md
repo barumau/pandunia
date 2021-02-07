@@ -137,6 +137,9 @@ biwlojia - 生物学
 biwmutu - 发酵  
 biwsistem - 生物群系  
 bode - 身体  
+bokse - 拳击  
+bokser - 拳击手  
+bokserpante - 平角褲  
 bol - 球  
 bombe - 炸弹  
 boni - 好  
@@ -212,6 +215,7 @@ dike - 目的 (目标)
 din - 宗教  
 diniste - 信徒  
 dinamite - 甘油炸药  
+dinde - 火鸡  
 ding - 钉子  
 diorite - 闪长岩  
 diske - 圆盘  

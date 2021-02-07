@@ -362,6 +362,9 @@ bodi - corporal (corpóreo)
 Bodia - Tíbet  
 boikote - boicot  
 boke - boca  
+bokse - boxeo  
+bokser - boxeador  
+bokserpante - bóxer  
 bol - bola  
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
@@ -623,6 +626,7 @@ dini - religioso
 dinguru\* - sacerdote (clérigo, eclesiástico)  
 diniste - creyente  
 dinamite - dinamita  
+dinde - pavo (guajalote)  
 ding - clavo (pincho, punta)  
 diorite - diorita  
 diske - disco  
@@ -3142,7 +3146,6 @@ tirania - tiranía
 titanem - titanio  
 toca - tocar (rozar)  
 Togo - Togo  
-togoli - togolés  
 tokse - veneno (toxina)  
 toksi - tóxico  
 tolera - tolerar  
@@ -3154,7 +3157,6 @@ tope - sombrero
 torem - torio  
 torse - torso  
 tortuge - tortuga  
-totol - totol  
 towa - arrastrar  
 towal - toalla  
 transa - transitar (atravesar)  

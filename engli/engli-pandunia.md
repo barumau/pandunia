@@ -432,6 +432,9 @@ bow (arch, arc) - arke
 bow instrument (violin, etc.) - ticin  
 box (chest) - sanduke  
 box (container) - kapse  
+boxer - bokser  
+boxer shorts (boxers) - bokserpante  
+boxing - bokse  
 boy - jovani man  
 boycott - boikote  
 brain - serebre  
@@ -3406,9 +3409,8 @@ tobacco - tabake
 today - zaydeno  
 together (jointly, mutually) - kono  
 Togo - Togo  
-Togolese - togoli  
 toilet (WC) - tualete  
-Tokyo - tokyo  
+Tokyo - Tokyo  
 tolerate - tolera  
 tomato - tomate  
 tombstone (gravestone) - gabroxeke  
@@ -3479,7 +3481,7 @@ tunic (gown) - tunike
 Tunisia - Tunisia  
 tunnel - tunel  
 turban - pagre  
-turkey - totol  
+turkey - dinde  
 Turkey - Turkia  
 Turkish - turki  
 Turkmenistan - Turkomenia  

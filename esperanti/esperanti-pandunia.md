@@ -198,6 +198,8 @@ boato (ŝipo) - bote
 boatumi - bota  
 bobelo - lilbol  
 bojkoto - boikote  
+boksisto - bokser  
+bokso - bokse  
 boli - bulu  
 boligi - bula  
 Bolivio - Bolivia  
@@ -993,6 +995,7 @@ matura (plenkreska) - maturi
 maŝino - maxin  
 mejtnerio - maitnerem  
 Meksikio - Mexiko  
+meleagro - dinde  
 melki - tira milke  
 melodio - melodia  
 melongeno - bedinjan  

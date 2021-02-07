@@ -190,6 +190,9 @@ biwlojia - biologie
 biwmutu - fermenter  
 biwsistem - biome  
 bode - corps  
+bokse - boxe  
+bokser - boxeur  
+bokserpante - caleçon  
 bol - balle (boule)  
 bombe - bombe  
 boni - bon  
@@ -264,6 +267,7 @@ dike - objectif (cible)
 din - religion  
 diniste - croyant  
 dinamite - dynamite  
+dinde - dinde (dindon)  
 diorite - diorite  
 diske - disque  
 dobe - brique  
