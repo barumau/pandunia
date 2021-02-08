@@ -265,6 +265,6 @@ fata_liste 7 fransi
 # espani e pandunia
 fata_liste 8 espani
 
-
-#fata_lekse_asle
+# portugali e pandunia
+fata_liste 9 portugali
 

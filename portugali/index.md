@@ -1,5 +1,4 @@
-pandunia - una lingua mundial
-=============================
+# pandunia - una lingua igualmente mundial
 
 ![](http://www.pandunia.info/bandir/bandir.png "Bandeira de Pandunia")
 
@@ -17,7 +16,6 @@ A pandunia é uma língua artificial multicultural.
 - [Pequenas aulas com imagens](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Grupo Facebook da pandunia](http://www.facebook.com/groups/pandunia)
 - [Sala de conversa em Telegram](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
-- [Grupo Yahoo da pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) : Envie uma mensagem em branco para pandunia-subscribe@yahoogroups.com
 
 Contato: risto@pandunia.info
 

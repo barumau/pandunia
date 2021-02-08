@@ -23,6 +23,7 @@ bina_pane() {
     bina_netoloke niponi
     bina_netoloke pandunia
     bina_netoloke polski
+    bina_netoloke portugali
     bina_netoloke rusi
     bina_netoloke suomi
 }
