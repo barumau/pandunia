@@ -9,7 +9,7 @@
 
 #### [English](engli/index.md) ![](http://pandunia.info/bandir/us.svg "us") ![](http://pandunia.info/bandir/ng.svg "ng") ![](http://pandunia.info/bandir/gb.svg "gb") ![](http://pandunia.info/bandir/za.svg "za") ![](http://pandunia.info/bandir/ca.svg "ca") ![](http://pandunia.info/bandir/gh.svg "gh") ![](http://pandunia.info/bandir/au.svg "au") ![](http://pandunia.info/bandir/nz.svg "nz")
 
-#### [español](espani/index.md) ![](http://pandunia.info/bandir/mx.svg "mx") ![](http://pandunia.info/bandir/co.svg "co") ![](http://pandunia.info/bandir/es.svg "es") ![](http://pandunia.info/bandir/ar.svg "ar") ![](http://pandunia.info/bandir/ve.svg "ve") ![](http://pandunia.info/bandir/pe.svg "pe") ![](http://pandunia.info/bandir/cl.svg "cl") ![](http://pandunia.info/bandir/ec.svg "ec") ![](http://pandunia.info/bandir/gu.svg "gu") ![](http://pandunia.info/bandir/bo.svg "bo") ![](http://pandunia.info/bandir/cu.svg "cu") ![](http://pandunia.info/bandir/hn.svg "hn")
+#### [español](espani/index.md) ![](http://pandunia.info/bandir/mx.svg "mx") ![](http://pandunia.info/bandir/co.svg "co") ![](http://pandunia.info/bandir/es.svg "es") ![](http://pandunia.info/bandir/ar.svg "ar") ![](http://pandunia.info/bandir/ve.svg "ve") ![](http://pandunia.info/bandir/pe.svg "pe") ![](http://pandunia.info/bandir/cl.svg "cl") ![](http://pandunia.info/bandir/ec.svg "ec") ![](http://pandunia.info/bandir/gt.svg "gt") ![](http://pandunia.info/bandir/bo.svg "bo") ![](http://pandunia.info/bandir/cu.svg "cu") ![](http://pandunia.info/bandir/hn.svg "hn")
 
 #### [Esperanto](esperanti/index.md) ![](http://pandunia.info/bandir/eo.svg "eo")
 
