@@ -220,7 +220,7 @@ Bombaj (Mumbaj) - mumbai
 bor - boron  
 boski - devi  
 botanika - fitolojia  
-Botswana - Cuana  
+Botswana - Cvana  
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosnia e Hercegovina  
 Boże Narodzenie - kristojen  
@@ -350,7 +350,7 @@ cieszyć się (zażywać, bawić się) - vanu
 cieszyć, podobać się - suka  
 cień - say  
 ciągnąć - tira  
-ciągły (analogowy) - kontini  
+ciągły (analogowy) - zoki  
 ciąć - kata  
 ciężar (brzemię) - bar  
 ciężarny (w ciąży) - hamili  
@@ -760,7 +760,7 @@ grób (mogiła, grobowiec) - gabre
 Guam - Guam  
 Gudżarat - gujarati  
 Guernsey - Gernezi  
-Guinea Bissau - Bisau Ginia  
+Guinea Bissau - Bisav Ginia  
 Gujana - Guyana  
 Gujana Francuska - Fransi Guyana  
 guma - gom  
@@ -805,8 +805,8 @@ harmoniczny - harmoni
 has - hesem  
 haszysz - haxix  
 hasło - sekurkode  
-Hawaje (archipelag hawajski) - Havayi nesia  
-Hawaje - Havayi  
+Hawaje (archipelag hawajski) - Havaii nesia  
+Hawaje - Havaii  
 hałas - keler  
 hebel, strug - rande  
 heblować - randa  
@@ -974,7 +974,7 @@ Jowisz - Jupiter
 judaizm - yehudistia  
 judo - judav  
 jutro - badodeno  
-już (skończona czynność) - levo  
+już (skończona czynność) - fino  
 język - lisan  
 język ojczysty (język rodzimy) - jeni bax  
 język surinamski - surinami bax  
@@ -1137,7 +1137,7 @@ konkurować, rywalizować; odbyć mecz, odbywać mecz - meca
 konopie - ganje  
 konsekwencja, skutek - bade  
 konstytucja - bazokanun  
-kontynuować; wznawiać, ponawiać - kontinu  
+kontynuować; wznawiać, ponawiać - zoku  
 konwalia majowa - vadosusan  
 konwencjonalny, zwyczajowy, tradycyjny - riti  
 kopalnia - kuangia  
@@ -1846,7 +1846,7 @@ osoba mówiąca w Panduni - panduniste
 osoba; ludzie - jan  
 osobisty numer identyfikacyjny (pin) - sekurnombre  
 osobisty, intymny, prywatny - auti  
-ostatni, końcowy - fini  
+ostatni, końcowy - finodi  
 ostropest plamisty - milkokardon  
 ostrożeń lancetowaty - perkardon  
 ostrzarka (kamień młyński) - molxeke  
@@ -1974,7 +1974,7 @@ pieprz długi - longopipre
 pierdnięcie - pede  
 pierdzieć - peda  
 pierwiastek (jednostki podstawowej) - em  
-pierwszy, numer jeden - nombre un  
+pierwszy, numer jeden - unodi  
 pierwszy, początkowy - xuri  
 pierś - sin  
 pierścień - ring  
@@ -2142,8 +2142,8 @@ posłaniec (wysłannik) - anjiler
 pot - suede  
 potas - kalem  
 potrzeba - yav  
-potrzebny - yaviti  
-potrzebować - yava  
+potrzebny - yavan  
+potrzebować - yavu  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
 potwór, monstrum - monoster  
 powiadomić, powiadamiać - notisa  
@@ -2471,7 +2471,7 @@ rusztowanie (trap) - futoban
 rut - rutenem  
 rutherford - ruterfordem  
 rutyna, nawyk, zwyczaj - rutin  
-Rwanda - Ruanda  
+Rwanda - Rvanda  
 rwać (drzeć) - cir  
 ryba - pex  
 ryba rozdymkowata - balonpex  
@@ -2720,7 +2720,7 @@ styczeń - unmes
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parca  
 stłuczony (pęknięty) - parci  
-suahili - suahili  
+suahili - svahili  
 Suazi - Svati  
 suchy - gani  
 Sudan - Sudan  
@@ -3083,7 +3083,7 @@ waza, garnek, pojemnik, słoik, dzban - vaze
 wazon; donica, doniczka - fulvaze  
 ważka - libel  
 ważny - hami  
-wciąż, nadal - yexo  
+wciąż, nadal - zoko  
 wcześniej (uprzednio) - ceno  
 wczoraj - cendeno  
 wdowa - vidove  

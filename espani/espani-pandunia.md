@@ -208,7 +208,7 @@ araña - aran
 arboreto - mokojongoparke  
 arbusto (mata) - tali moke  
 archipiélago - nesia  
-archipiélago de Hawái - Havayi nesia  
+archipiélago de Hawái - Havaii nesia  
 arcilla (barro) - glutopote  
 arco - arke  
 arco iris - rangarke  
@@ -413,7 +413,7 @@ bosque (jungla, selva) - jangle
 bosque de algas - algojangle  
 bota - bute  
 botella - botel  
-Botsuana - Cuana  
+Botsuana - Cvana  
 botánica - fitolojia  
 boxeador - bokser  
 boxeo - bokse  
@@ -496,7 +496,6 @@ calidad (excelencia, mérito, virtud, ventaja) - bonsif
 caliente (cálido) - garmi  
 califa - halif  
 califato - halifia  
-California - Kalifornia  
 californio - kalifornem  
 caliza - kalsopetre  
 cama - bede  
@@ -738,6 +737,7 @@ compatriota - samdexi
 compañero (compinche) - latojan  
 compañía (empresa, corporación) - kompania  
 competir - meca  
+completar (terminar) - purfina  
 complot (conspiración) - sirplan  
 comportamiento (conducta) - manir  
 comportarse (portarse) - manira  
@@ -785,8 +785,8 @@ contar - nombra
 contenedor - kontener  
 contener - inda  
 contenido - ten  
-continuar (reanudar) - kontinu  
-continuo (analógico) - kontini  
+continuar (reanudar) - reyzoka  
+continuo (analógico) - zoki  
 contrario (opuesto) - fani  
 contraseña - sekurkode  
 contrato (tratado) - trate  
@@ -1329,7 +1329,7 @@ filosófico - filsofi
 filtro - filter  
 filósofo - filsofer  
 fin (el final) - fin  
-final (último) - fini  
+final (último) - finodi  
 Finlandia - Suomia  
 fino (delgado, delicado) - faini  
 finés - suomi  
@@ -1435,6 +1435,7 @@ genotipo - jenotipe
 gente - nas  
 geología - gevlojia  
 geometría - gevmetria  
+geopolítica - gevpolitike  
 Georgia (República de Georgia) - Kartvel  
 Georgias del Sur y Sándwich del Sur - Sudi Jorjia e Sudi Sanduice nesia  
 geotérmico - gevtermi  
@@ -1500,7 +1501,7 @@ Guernesey - Gernezi
 guiar - gida  
 Guinea - Konakri Ginia  
 Guinea Ecuatorial - Gevparlinyi Ginia  
-Guinea-Bisáu - Bisau Ginia  
+Guinea-Bisáu - Bisav Ginia  
 guitarra - gitar  
 gujaratí - gujarati  
 gul - gul  
@@ -1539,7 +1540,7 @@ hamo (anzuelo) - pexohuke
 hasio - hesem  
 hasta (también) - hato  
 hasta - hata  
-Hawái - Havayi  
+Hawái - Havaii  
 hebreo - ibri  
 hecho - fate  
 helado - aiskrem  
@@ -2234,10 +2235,10 @@ Navidad - kristojen
 Nazi - nasiste  
 nazismo - nasistia  
 Naúru - Nauru  
-necesario - yaviti  
+necesario - yavan  
 necesidad - yav  
-necesitado - yavani  
-necesitar - yava  
+necesitado - yavi  
+necesitar - yavu  
 nefritis - nefritis  
 negociar - lona biznes  
 negocios (comercio) - biznes  
@@ -2666,7 +2667,7 @@ previo (anterior) - ceni
 primavera - fulmosim  
 primer (inicial, inaugural) - xuri  
 primer ministro - xefi minister  
-primero (numbre uno) - nombre un  
+primero (numbre uno) - unodi  
 principal - xefi  
 prisión - prizon  
 proactinio - protacinem  
@@ -2901,7 +2902,7 @@ rosa - roze
 rosa - rozorangi  
 roto - parci  
 rotor - roter  
-Ruanda - Ruanda  
+Ruanda - Rvanda  
 rubidio - rubidem  
 rubí - lalbavxeke  
 rueda (volante) - cakre  
@@ -3082,7 +3083,7 @@ sranan tongo - surinami bax
 Sri Lanka - Lanka  
 strontium - estrontem  
 su (suyo) - si  
-suajili - suahili  
+suajili - svahili  
 suave (liso) - lisi  
 subir (alzar) - gavu  
 subterráneo - gevnici  
@@ -3245,7 +3246,7 @@ tocar (rozar) - toca
 tocar música - musika  
 todas las cosas - pan xey  
 todas las personas - pan jan  
-todavía (aún) - yexo  
+todavía (aún) - zoko  
 todo - pan (pani)  
 Togo - Togo  
 tolerar - tolera  
@@ -3460,7 +3461,7 @@ Wallis y Futuna - Walis e Futuna nesia
 xenón - xenon  
 y - e  
 ####Y - Y  
-ya (acción completado) - levo  
+ya (acción completado) - fino  
 yac - yake  
 Yemen - Yemen  
 Yibuti - Jibuti  

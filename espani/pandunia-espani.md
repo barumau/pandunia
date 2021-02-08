@@ -193,11 +193,11 @@ autologe - monólogo
 automoti - automotor (automotriz)  
 autonomi - autónomo  
 autonomia - autonomía  
+avakate - aguacate  
 avar - daño (corrupción)  
 avara - dañar  
 avari - dañado  
 avarani - dañino (perjudicial)  
-avakate - aguacate  
 Axur - Assur (Ashur)  
 Axuria - Asiria  
 ay - ay!  
@@ -340,7 +340,7 @@ binde - punto (lunar)
 bir - cerveza (birra)  
 birkan - bar (pub)  
 bis - no binario (género)  
-Bisau Ginia - Guinea-Bisáu  
+Bisav Ginia - Guinea-Bisáu  
 biskute - galleta  
 bismute - bismuto  
 biv - vida orgánica  
@@ -522,7 +522,7 @@ cutomun - salida
 cuza - elegir (escoger, seleccionar)  
 cuze - elección  
 cuzable - opción  
-Cuana - Botsuana  
+Cvana - Botsuana  
 ####D - D  
 da - de (posposición de posesión)  
 du - de (posposición de posesión)  
@@ -869,7 +869,8 @@ filsofer - filósofo
 filter - filtro  
 fin - fin (el final)  
 fina - terminar (acabar)  
-fini - final (último)  
+fino - ya (acción completado)  
+finodi - final (último)  
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
 fite - planta (vegetal, vegetación)  
@@ -1028,6 +1029,7 @@ gevnici - subterráneo
 zemnici prizon - mazmorra  
 gevparlinye - ecuador  
 Gevparlinyi Ginia - Guinea Ecuatorial  
+gevpolitike - geopolítica  
 gevsisme - terremoto  
 gevtermi - geotérmico  
 gevtike - terreno (solar)  
@@ -1145,8 +1147,8 @@ hatre - peligro
 hatri - peligroso  
 hav - viento  
 hava - soplar (echar)  
-Havayi - Hawái  
-Havayi nesia - archipiélago de Hawái  
+Havaii - Hawái  
+Havaii nesia - archipiélago de Hawái  
 haxix - hachís  
 hay - mar  
 hayi - marítimo  
@@ -1429,7 +1431,6 @@ kalende - calendario
 kali - vacío (desocupado)  
 kali harfe - espacio (texto)  
 kalifornem - californio  
-Kalifornia - California  
 kalkulia - cálculo  
 kalsem - calcio  
 kalsite - calcita  
@@ -1631,8 +1632,6 @@ konfuze - confucio
 konfuzistia - confucianismo  
 Konkani - konkani  
 konserte - concierto  
-kontini - continuo (analógico)  
-kontinu - continuar (reanudar)  
 kontra - estar en contra  
 konus - cono  
 kopa - copiar  
@@ -1785,7 +1784,6 @@ lenti - lento (despacio)
 lenxa - practicar (ensayar, ejercitar)  
 lenxe - ensayo (ejercitio)  
 letis - lechuga  
-levo - ya (acción completado)  
 leze - pera  
 liama\* - llama  
 liba - erigir (montar, armar)  
@@ -2195,9 +2193,9 @@ natre - natrón
 natrem - sodio  
 Nauru - Naúru  
 nautil - nautilo  
+navati - náhuatl (nahua)  
 navi - nueve (9)  
 navmes - septiembre  
-navati - náhuatl (nahua)  
 nasiste - Nazi  
 nasistia - nazismo  
 Nederlandi Antil - Antillas Neerlandesas  
@@ -2260,7 +2258,6 @@ nolisa - cancelar
 noma - dirigir (gestionar, administrar)  
 nombra - contar  
 nombre - número  
-nombre un - primero (numbre uno)  
 nomia - gerencia (dirección)  
 nonga - cultivar  
 nonger - granjero (agricultor)  
@@ -2603,6 +2600,7 @@ pura - llenar
 puri - lleno (completo)  
 purbona - perfeccionar  
 purboni - perfecto  
+purfina - completar (terminar)  
 purfityamiste - vegano  
 purfityamisia - veganismo  
 purxipa - remojar (marinar, encurtir, macerar)  
@@ -2686,6 +2684,7 @@ reyo - otra vez (de nuevo)
 reybon - arreglo  
 reybona - reparar (arreglar)  
 reyboner - reparador  
+reyzoka - continuar (reanudar)  
 rezerva - reservar  
 rezerve - réservation  
 rezin - resina  
@@ -2748,7 +2747,7 @@ rutogalta - apartarse (desviarse)
 rutenem - rutenio  
 ruterfordem - rutherfordio  
 rutin - rutina (hábito)  
-Ruanda - Ruanda  
+Rvanda - Ruanda  
 ####S - S  
 sa - ser (estar)  
 se - se  
@@ -3029,10 +3028,10 @@ suyminte - menta acuática
 suynide - sed  
 suyrang - acuarela  
 suysekuri - impermeable (sumergible)  
+svahili - suajili  
 Svalbarde - Svalbard  
-Svenia - Suecia  
-suahili - suajili  
 Svati - Esuatini (Suazilandia)  
+Svenia - Suecia  
 Svisia - Suiza  
 ####T - T  
 ta - a (hacia)  
@@ -3210,6 +3209,7 @@ unjani - solo (aislado, solitary, soltero)
 unmaro - una vez  
 unmeni - inequívoco  
 unmes - enero  
+unodi - primero (numbre uno)  
 unoki lense - monóculo  
 unrangi - monocromático  
 unyom - lunes  
@@ -3235,23 +3235,40 @@ va ke - dónde
 va linye - en línea  
 vade - valle  
 vadosusan - convalaria (lirio de los valles)  
+vaf - perro  
 vagin - vagina  
 vaginitis - vaginitis  
+vakila - representar  
 vaksin - vacuna  
 val - valor  
 vala - valorar  
 valu - valer  
 vampir - vampiro  
 vampirbalsenter - calamar vampiro  
+van - diversión  
+vana - divertir (entretener)  
+vani - divertido  
+vanu - disfrutar (jugar)  
 vanadem - vanadio  
 vanil - vainilla  
 Vanuatu - Vanuatu  
+varis - patrimonio (herencia, legado)  
+varke - hoja  
+varkalge - kelp  
+varkolate - página  
+vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
+vav - guau (vaya)  
+vaxa - lavar  
+vaxmaxin - lavadora  
+vaxurse - mapache  
 vaze - jarrón (bote)  
+vaze - oasis  
 venda - vender  
 vendoxope - comercio  
 vendoxopa - comerciar  
 Venezuela - Venezuela  
+venjovoranje - unshu mikan  
 ventur - aventura  
 venturer - aventurero  
 Venus - Venus  
@@ -3262,6 +3279,10 @@ vermute - vermú
 version - versión (modelo)  
 vespe - abeja o avispa  
 vesponizde - avispero (colmena)  
+veste - oeste  
+vesti - occidental  
+vestodongia - longitud  
+vestogoril - gorila occidental  
 vey - cola (rabo)  
 vida - ver (mirar)  
 vide - vista (visión)  
@@ -3272,9 +3293,15 @@ vidopunte - perspectiva (punto de vista)
 vidove - viudo  
 vieti - vietnamita  
 Vietia - Vietnam  
+vijin - GMS  
+vike - página wiki  
+vil - futuro  
+vilo - ir a (en el futuro)  
+vildi - salvaje  
 viman - aeroplano  
 vin - vino  
 vineria - bodega  
+ving - ala  
 vinil - vinilo  
 violeti - morado (púrpura)  
 vir - héroe  
@@ -3294,6 +3321,8 @@ vode - promesa (voto)
 vodun - vudú  
 vol - deseo  
 volu - querer (desear)  
+volfe - lobo  
+volfram - tungsteno (wolframio)  
 volte - voltio (V)  
 vota - votar  
 vote - voto  
@@ -3301,36 +3330,7 @@ votohake - sufragio (derecho al voto)
 vulve - vulva  
 vute - objeto (artículo)  
 ####W - W  
-vaf - perro  
-vakila - representar  
 Walis e Futuna nesia - Wallis y Futuna  
-van - diversión  
-vana - divertir (entretener)  
-vani - divertido  
-vanu - disfrutar (jugar)  
-varis - patrimonio (herencia, legado)  
-varke - hoja  
-varkalge - kelp  
-varkolate - página  
-vate - vatio  
-vav - guau (vaya)  
-vaxa - lavar  
-vaxmaxin - lavadora  
-vaxurse - mapache  
-vaze - oasis  
-venjovoranje - unshu mikan  
-veste - oeste  
-vesti - occidental  
-vestodongia - longitud  
-vestogoril - gorila occidental  
-vijin - GMS  
-vike - página wiki  
-vil - futuro  
-vilo - ir a (en el futuro)  
-vildi - salvaje  
-ving - ala  
-volfe - lobo  
-volfram - tungsteno (wolframio)  
 ####X - X  
 xakal - chacal  
 xake - rama  
@@ -3439,9 +3439,9 @@ yasen - fresno
 yatim - huérfano  
 yatimdom - orfanato  
 yav - necesidad  
-yavani - necesitado  
-yava - necesitar  
-yaviti - necesario  
+yavi - necesitado  
+yavu - necesitar  
+yavan - necesario  
 yavxina - confiar (contar con)  
 yavxinabli - leal (fiel)  
 yavxinablia - lealtad (fidelidad)  
@@ -3449,7 +3449,6 @@ yehudi - judío
 yehudistia - judaísmo  
 Yemen - Yemen  
 Yesus - Jesús  
-yexo - todavía (aún)  
 yey - yupi  
 yeze - coco  
 yoga - hacer yoga  
@@ -3499,6 +3498,8 @@ zir - comino
 zirkon - circón  
 zirkonem - circonio  
 ziza - chisporrotear  
+zoki - continuo (analógico)  
+zoko - todavía (aún)  
 zombe - zombi  
 zon - cinturón (zona)  
 zong - poste (estaca, palo)  

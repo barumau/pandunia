@@ -92,10 +92,10 @@ Tense, aspect and mood are indicated with particles and helping verbs.
 **me paso ama te.**
 – I loved you.
 (**paso** indicates the past time)  
-**me lewo ama te.**
+**me fino ama te.**
 – I have loved you.
-(**lewo** indicates completed action i.e. the perfect(ive) aspect)  
-**me wilo ama te.**
+(**fino** indicates completed action i.e. the perfect(ive) aspect)  
+**me vilo ama te.**
 – I will love you.
 (**vilo** indicates future time)
 

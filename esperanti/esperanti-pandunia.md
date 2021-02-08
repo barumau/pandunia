@@ -79,7 +79,7 @@ angulo - gon
 animo (psiko) - ruhe  
 animstato - emoshal  
 ankaŭ - maxo  
-ankoraŭ - yexo  
+ankoraŭ - zoko  
 ankro - anker  
 antaŭe (pasinte) - paso  
 antaŭiri - cena  
@@ -180,7 +180,7 @@ berkelio - berkelem
 Berlino - Berlin  
 besto - hevan  
 betono - beton  
-bezoni - yava  
+bezoni - yavu  
 biblia - bibli  
 Biblio - biblia  
 biciklisto - sikliste  
@@ -440,6 +440,8 @@ filozofo - filsofer
 filtri - filter  
 fingro - ungle  
 fini - fina  
+finita - finiti  
+finiĝi - finu  
 finna - suomi  
 Finnlando - Suomia  
 fino - fin  
@@ -657,7 +659,7 @@ iu persono - koy jan
 ####J - J  
 jado - giuke  
 jako - jake  
-jam (esti farita) - levo  
+jam (esti farita) - fino  
 Jamajko - Jamaika  
 japana - niponi  
 Japanio - Nipon  
@@ -692,7 +694,6 @@ kalcio - kalsem
 kalcito - kalsite  
 kalendaro - kalende  
 kalifo - halif  
-Kalifornio - Kalifornia  
 kaliforniumo - kalifornem  
 kalio - kalem  
 kalko - kalsomate  
@@ -780,6 +781,7 @@ komenco - xur
 komercisto - bizneser  
 kompanio (firmao) - kompania  
 kompato - samemos  
+kompleti - purfina  
 kompreneble - klaro  
 kompreni - aha  
 kompreni - buda  
@@ -872,7 +874,7 @@ lampo - lampe
 lando - dex  
 lango - lisan  
 lanterno - hogosanduke  
-lasta - fini  
+lasta - finodi  
 Latvio - Latvia  
 lavi - vaxa  
 lavmaŝino - vaxmaxin  
@@ -1504,7 +1506,7 @@ surprizo - suprize
 suĉi - cupa  
 suŝio - suxi\*  
 svastiko - hukokrus  
-sŭahili - suahili  
+sŭahili - svahili  
 ####T - T  
 tabako - tabake  
 tabelo - datotable  

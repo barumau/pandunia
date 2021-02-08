@@ -266,6 +266,7 @@ feni - 数字的
 feyu - 飞  
 filme - 膜  
 filsofia - 哲学  
+fino - 了  
 fiorde - 峡湾  
 firuze - 绿松石  
 fite - 植物  
@@ -307,6 +308,7 @@ gevforme - 地势
 gevgraf - 地图  
 gevgrafia - 地图学 (地理)  
 gevmetria - 几何学  
+gevpolitike - 地缘政治  
 gevtermi - 地热的  
 gida - 导游  
 gider - 导游  
@@ -497,7 +499,6 @@ konseler - 顾问
 kontrate - 公約  
 koncung - 昆虫  
 konserte - 音乐会  
-kontini - 指针式的  
 kope - 摹本 (拷貝)  
 kora - 跑步  
 koral - 珊瑚  
@@ -765,6 +766,7 @@ pujokan - 寺庙
 pujomeze - 圣坛  
 pul - 桥  
 puma\* - 美洲獅 (山狮)  
+purfina - 完成  
 purfityamiste - 纯素食主义者  
 purxipa - 浸泡  
 putavoranje - 葡萄柚  
@@ -931,27 +933,27 @@ vadosusan - 鈴蘭
 vagin - 阴道  
 val - 价值  
 vampir - 吸血鬼  
+van - 娱乐  
+vanu - 玩耍  
+vaxurse - 浣熊  
+vaze - оазис  
 venda - 卖  
 vendoxope - 贸易  
+venjovoranje - 温州蜜柑  
 ventur - 冒险  
 venturer - 冒险者  
 vespe - 蜂  
 vey - 尾巴 (尾部)  
 vida - 看  
 vidove - 寡妇  
+vijin - 味精  
 voda - 许诺  
 vode - 诺言  
 volu - 想要 (愿意)  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ####W - W  
-van - 娱乐  
-vanu - 玩耍  
-vaxurse - 浣熊  
-vaze - оазис  
 Wenjov - 温州  
-venjovoranje - 温州蜜柑  
-vijin - 味精  
 ####X - X  
 xalke - 鳞  
 xam - 晚上  
@@ -998,11 +1000,10 @@ yamfite - 蔬菜
 yamnide - 饥饿  
 yasen - 白蜡树  
 yatimdom - 孤儿院  
-yava - 需要  
-yaviti - 必要的  
+yavu - 需要  
+yavan - 必要的  
 yavxina - 信赖  
 yavxinabli - 忠实  
-yexo - 还 (依然)  
 yoge - 瑜伽功  
 yoke - 轭  
 yom - 日  
@@ -1016,6 +1017,8 @@ zeyil - 疣
 zeze - 双翅目  
 zinje - 姜  
 zir - 孜然  
+zoki - 指针式的  
+zoko - 还 (依然)  
 zong - 桩  
 zongominte - 留兰香  
 zuke - 民族  

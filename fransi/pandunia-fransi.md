@@ -337,6 +337,7 @@ feni - distinct (numérique)
 feyu - voler  
 feymux - chauve-souris  
 filsofia - philosophie  
+fini - fini  
 fiorde - fiord  
 fite - plante (végétal)  
 fitolojia - botanique  
@@ -392,6 +393,7 @@ gevkaski plate - plaque tectonique
 gevlojia - géologie  
 gevmetria - géométrie  
 zemnici prizon - oubliette (cul de basse-fosse)  
+gevpolitike - géopolitique  
 gevtermi - géothermique  
 gida - guider  
 gider - guide  
@@ -591,7 +593,6 @@ kontener - conteneur
 kontrate - convention (alliance, pacte)  
 koncung - insecte  
 konserte - concert  
-kontini - continu (analogique)  
 kope - copie  
 kora - courir  
 koral - corail  
@@ -798,6 +799,7 @@ novi - nouveau
 novike - néophyte  
 ####O - O  
 o - ou  
+ode - rang  
 oke - œil  
 oki - oculaire  
 okosuygas - gaz lacrymogène  
@@ -902,6 +904,7 @@ puma\* - couguar (puma)
 pura - remplir  
 puri - plein  
 purbona - perfectionner (parfaire)  
+purfina - accomplir (terminer)  
 purxipa - tremper (faire mariner)  
 pute - fils ou fille  
 putavoranje - pamplemousse  
@@ -928,6 +931,7 @@ reya - répéter
 reybon - réparation  
 reybona - réparer  
 reyboner - réparateur  
+reyzoka - reprendre  
 rici - riche  
 rim - rime  
 ring - anneau  
@@ -1085,10 +1089,14 @@ val - valeur
 vala - évaluer  
 vampir - vampire  
 vampirbalsenter - vampire des abysses  
+varkalge - varech  
+varkolate - page  
+vaxurse - raton laveur  
 vaze - vase  
 venda - vendre  
 vendoxopa - commercer  
 Venezuela - Venezuela  
+venjovoranje - mandarine satsuma  
 ventur - aventure  
 venturer - aventurier  
 Venus - Vénus  
@@ -1105,14 +1113,10 @@ virus - virus
 voda - promettre  
 vode - vœu (promesse)  
 volu - vouloir  
+volfe - loup  
 vulve - vulve  
 vute - objet (article)  
 ####W - W  
-varkalge - varech  
-varkolate - page  
-vaxurse - raton laveur  
-venjovoranje - mandarine satsuma  
-volfe - loup  
 Wolof - wolof  
 ####X - X  
 xalke - échelle  
@@ -1161,12 +1165,11 @@ yamnide - faim
 yasen - frêne  
 yatimdom - orphelinat  
 yav - besoin  
-yavani - nécessiteux (dans le besoin)  
-yava - avoir besoin de  
-yaviti - nécessaire  
+yavi - nécessiteux (dans le besoin)  
+yavu - avoir besoin de  
+yavan - nécessaire  
 yavxina - fier  
 Yesus - Jésus  
-yexo - encore  
 yoke - joug  
 yongu - melt  
 yongopetre - lave  
@@ -1178,6 +1181,9 @@ zarduxistia - zoroastrisme
 zebre - zèbre  
 zeyil - verrue  
 zinje - gingembre  
+zoka - continuer (poursuivre)  
+zoki - continu (analogique)  
+zoko - encore  
 zombe - zombi  
 zon - zone  
 zong - pieu (poteau)  

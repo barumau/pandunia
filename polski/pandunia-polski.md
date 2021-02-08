@@ -196,9 +196,9 @@ autologe - monolog
 automoti - samobieżny  
 autonomi - autonomiczny  
 autonomia - autonomia  
+avakate - awokado  
 avar - obrażenia (rana, krzywda)  
 avarani - krzywdzący (szkodliwy)  
-avakate - awokado  
 Axur - Aszur  
 Axuria - Asyria  
 ay - aj!, ał!  
@@ -345,7 +345,7 @@ binde - punkt
 bir - piwo  
 birkan - bar, knajpa  
 bis - genderqueer, niebinarny  
-Bisau Ginia - Guinea Bissau  
+Bisav Ginia - Guinea Bissau  
 biskute - biszkopt, ciastko  
 bismute - bizmut  
 biv - życie organiczne  
@@ -531,7 +531,7 @@ cutomun - drzwi wyjściowe
 cuza - wybrać, wybierać, selekcjonować  
 cuze - wybór, elekcja, selekcja  
 cuzable - opcja (wybór)  
-Cuana - Botswana  
+Cvana - Botswana  
 ####D - D  
 da - z (partykuła posiadania)  
 du - mieć (partykuła posiadania)  
@@ -883,7 +883,8 @@ filsofer - filozof
 filter - filtr  
 fin - koniec  
 fina - skończyć, kończyć  
-fini - ostatni, końcowy  
+fino - już (skończona czynność)  
+finodi - ostatni, końcowy  
 fiorde - fiord  
 firuze - turkus  
 fite - roślina, sadzonka  
@@ -1154,8 +1155,8 @@ hatre - zagrożenie, niebezpieczeństwo
 hatri - niebezpieczny  
 hav - wiatr  
 hava - dmuchać  
-Havayi - Hawaje  
-Havayi nesia - Hawaje (archipelag hawajski)  
+Havaii - Hawaje  
+Havaii nesia - Hawaje (archipelag hawajski)  
 haxix - haszysz  
 hay - może  
 hayi - morski  
@@ -1644,8 +1645,6 @@ konfuze - Konfucjusz
 konfuzistia - konfucjanizm  
 Konkani - konkani  
 konserte - koncert  
-kontini - ciągły (analogowy)  
-kontinu - kontynuować; wznawiać, ponawiać  
 kontra - być przeciw  
 konus - szyszka  
 kopa - kopiować, replikować  
@@ -1805,7 +1804,6 @@ lenti - powolny (wolny, letargiczny)
 lenxa - ćwiczyć  
 lenxe - ćwiczenie  
 letis - sałata  
-levo - już (skończona czynność)  
 leze - gruszka  
 liama\* - lama  
 liba - postawić (stawiać)  
@@ -2224,9 +2222,9 @@ nasmedi - międzynarodowy
 natrem - sód  
 Nauru - Nauru  
 nautil - nautilus  
+navati - nahuatl  
 navi - dziewięć (9)  
 navmes - grudzień  
-navati - nahuatl  
 nasiste - nazista  
 nasistia - nazizm  
 Nederlandi Antil - Antyle Holenderskie  
@@ -2291,7 +2289,6 @@ nol xey - nic, żadna rzecz
 noma - zarządzać (organizować, kierować)  
 nombra - liczyć  
 nombre - numer  
-nombre un - pierwszy, numer jeden  
 nomia - zarządzanie (-nomia)  
 nonga - uprawić, uprawiać  
 nonger - rolnik, farmer  
@@ -2788,7 +2785,7 @@ rutogalti - zbłąkany (dewiacyjny, wykolejony)
 rutenem - rut  
 ruterfordem - rutherford  
 rutin - rutyna, nawyk, zwyczaj  
-Ruanda - Rwanda  
+Rvanda - Rwanda  
 ####S - S  
 sa - być  
 se - sam, siebie  
@@ -3071,10 +3068,10 @@ suyminte - mięta wodna
 suynide - pragnienie  
 suyrang - akwarela (farba wodna)  
 suysekuri - wodoodporny  
+svahili - suahili  
 Svalbarde - Swalbard  
-Svenia - Szwecja  
-suahili - suahili  
 Svati - Suazi  
+Svenia - Szwecja  
 Svisia - Szwajcaria  
 ####T - T  
 ta - do, dopóki, dla  
@@ -3250,6 +3247,7 @@ Uniti Dex Da Amerike (UDA) - Stany Zjednoczone Ameryki
 unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
 unmes - styczeń  
+unodi - pierwszy, numer jeden  
 unrangi - jednokolorowy (monochromatyczny)  
 unyom - poniedziałek  
 ungle - palec  
@@ -3273,22 +3271,40 @@ va ke - gdzie
 va linye - online (na linii, w sieci)  
 vade - dolina  
 vadosusan - konwalia majowa  
+vaf - pies  
 vagin - wagina  
 vaginitis - zapalenie pochwy  
+vakil - reprezentant (przedstawiciel)  
+vakila - reprezentować  
 vaksin - szczepionka  
 val - wartość  
 vampir - wampir  
 vampirbalsenter - wampirzyca piekielna (wampirnica)  
+van - zabawa, rozrywka  
+vana - bawić, zabawiać  
+vani - zabawny  
+vanu - cieszyć się (zażywać, bawić się)  
 vanadem - wanad  
 vanil - wanilia  
 Vanuatu - Vanuatu  
+varis - spadek, dziedzictwo, spuścizna, zapis  
+varke - kartka (dokument)  
+varkalge - listownicowiec  
+varkolate - strona  
+vate - wat  
 Vatikan - Watykan, Państwo Watykańskie  
+vav - wow!, łoł!, jej!  
+vaxa - prać, umyć, myć  
+vaxmaxin - pralka  
+vaxurse - szop pracz  
 vaze - waza, garnek, pojemnik, słoik, dzban  
+vaze - oaza  
 venda - sprzedać (sprzedawać)  
 vendoxope - handel  
 vendoxoper - handlarz (kupiec)  
 vendoxopa - handlować  
 Venezuela - Wenezuela  
+venjovoranje - mandarynka Satsuma (pomarańcza Satsuma)  
 ventur - przygoda  
 venturer - poszukiwacz przygód (awanturnik)  
 Venus - Wenus  
@@ -3298,6 +3314,10 @@ vermute - wermut
 version - wersja (wariacja, edycja, wydanie)  
 vespe - pszczoła lub osa  
 vesponizde - ul (gniazdo pszczół lub os)  
+veste - zachód  
+vesti - zachodni  
+vestodongia - długość geograficzna  
+vestogoril - goryl zachodni  
 vey - ogon  
 vida - patrzeć, widzieć  
 vide - widok, wzrok  
@@ -3308,10 +3328,16 @@ vidopunte - perspektywa (punkt widzenia)
 vidove - wdowa  
 vieti - wietnamski  
 Vietia - Wietnam  
+vijin - glutaminian sodu  
+vike - artykuł wiki  
+vil - przyszłość  
+vilo - w przyszłości  
+vildi - dziki  
 viman - samolot  
 vimankaper - porywacz samolotu  
 vin - wino  
 vineria - winiarnia  
+ving - skrzydło  
 vinil - winyl  
 violeti - fioletowy  
 vir - bohater, heros  
@@ -3324,12 +3350,15 @@ visa - zastąpić (podstawić, zamienić)
 visi - wice-  
 visloge - zaimek  
 visprezidente - wiceprezydent  
+viske - viski  
 vite - śruba, wkręt  
 vize - wiza  
 voda - obiecać, angażować się  
 vodun - voodoo  
 vol - wola (chęć, pragnienie)  
 volu - chcieć, pragnąć  
+volfe - wilk  
+volfram - wolfram  
 volte - wolt (V)  
 vota - głosować (złożyć głos)  
 vote - głos  
@@ -3337,40 +3366,9 @@ votohake - prawo wyborcze
 vulve - srom  
 vute - przedmiot (obiekt)  
 ####W - W  
-vaf - pies  
-vakil - reprezentant (przedstawiciel)  
-vakila - reprezentować  
 Walis e Futuna nesia - Saint Vincent i Grenadyny  
-van - zabawa, rozrywka  
-vana - bawić, zabawiać  
-vani - zabawny  
-vanu - cieszyć się (zażywać, bawić się)  
-varis - spadek, dziedzictwo, spuścizna, zapis  
-varke - kartka (dokument)  
-varkalge - listownicowiec  
-varkolate - strona  
-vate - wat  
-vav - wow!, łoł!, jej!  
-vaxa - prać, umyć, myć  
-vaxmaxin - pralka  
-vaxurse - szop pracz  
 Waxington D####C - Waszyngton D.C  
-vaze - oaza  
 Wenjov - Wenzhou  
-venjovoranje - mandarynka Satsuma (pomarańcza Satsuma)  
-veste - zachód  
-vesti - zachodni  
-vestodongia - długość geograficzna  
-vestogoril - goryl zachodni  
-vijin - glutaminian sodu  
-vike - artykuł wiki  
-vil - przyszłość  
-vilo - w przyszłości  
-vildi - dziki  
-ving - skrzydło  
-viske - viski  
-volfe - wilk  
-volfram - wolfram  
 Wolof - wolof  
 ####X - X  
 xakal - szakal  
@@ -3485,8 +3483,8 @@ yasen - jesion
 yatim - sierota  
 yatimdom - sierociniec, dom dziecka  
 yav - potrzeba  
-yava - potrzebować  
-yaviti - potrzebny  
+yavu - potrzebować  
+yavan - potrzebny  
 yavxina - ufać (wierzyć, liczyć, polegać)  
 yavxinabli - lojalny (wierny)  
 yavxinablia - lojalność (wierność)  
@@ -3494,7 +3492,6 @@ yehudi - żydowski
 yehudistia - judaizm  
 Yemen - Jemen  
 Yesus - Jezus  
-yexo - wciąż, nadal  
 yey - jej  
 yeze - kokos  
 yoga - uprawiać jogę  
@@ -3546,6 +3543,9 @@ zipe - zamek błyskawiczny
 zir - kumin, kmin  
 zirkonem - cyrkon  
 ziza - skwierczeć  
+zoki - ciągły (analogowy)  
+zoko - wciąż, nadal  
+zoku - kontynuować; wznawiać, ponawiać  
 zombe - zombie, zombi  
 zon - pas, strefa  
 zong - słup (pal, kołek)  

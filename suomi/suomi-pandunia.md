@@ -229,7 +229,7 @@ bokserit - bokserpante
 Bolivia - Bolivia  
 boori - boron  
 Bosnia ja Hertsegovina - Bosnia e Hercegovina  
-Botswana - Cuana  
+Botswana - Cvana  
 Brasilia - Brazil  
 bravo! - bravo  
 Brazzaville - Brazavil  
@@ -346,7 +346,7 @@ ennennäkemätön - ancenvidi
 ennustaa (nähdä ennalta) - cenvida  
 ennustettu - cenvidi  
 ensimmäinen (alku-) - xuri  
-ensimmäinen (numero yksi) - nombre un  
+ensimmäinen (numero yksi) - unodi  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anativi  
 epäilevä - dutani  
@@ -437,6 +437,7 @@ Ganymedes - Ganimede
 garam masala - garmi masal  
 gaselli - gazel  
 geometria - gevmetria  
+geopolitiikka - gevpolitike  
 Georgia - Kartvel  
 geoterminen (maalämpö-) - gevtermi  
 Germania - Germania  
@@ -462,7 +463,7 @@ Guangzhou (Kanton) - Guangjov
 Guatemala - Guatemala  
 Guernsey - Gernezi  
 Guinea - Konakri Ginia  
-Guinea-Bissau - Bisau Ginia  
+Guinea-Bissau - Bisav Ginia  
 gujarati (eräs intialainen kieli) - gujarati  
 guru (opettaja) - guru\*  
 Guyana - Guyana  
@@ -512,8 +513,8 @@ hauska (huvittava) - vani
 hauta - gabre  
 hautakivi - gabroxeke  
 hautausmaa - gabristan  
-Havaiji - Havayi  
-Havaijin saaret - Havayi nesia  
+Havaiji - Havaii  
+Havaijin saaret - Havaii nesia  
 he - lole  
 hedelmä - pal  
 hei (haloo) - halo\*  
@@ -755,14 +756,16 @@ jano - suynide
 Japani - Nipon  
 japanilainen - niponi  
 jasmiini - malike  
-jatkua - kontinu  
+jatkaa - zoka  
+jatkua - zoku  
+jatkua uudestaan - reyzoka  
 jauhaa - mola  
 jazz (jatsi) - jaze  
 jee! (hurraa!) - yey  
 Jeesus - Yesus  
 Jemen - Yemen  
 Jersey - Jerz:e  
-jo (tehty teko) - levo  
+jo (tehty teko) - fino  
 jodi - iodem  
 johtaa - lida  
 johtaja (pomo) - lider  
@@ -868,7 +871,6 @@ kalastaja - pexosaider
 kalenteri - kalende  
 kalifaatti - halifia  
 kalifi - halif  
-Kalifornia - Kalifornia  
 kalifornium - kalifornem  
 kalium - kalem  
 kalkki - kalsomate  
@@ -1400,9 +1402,12 @@ lohkare (järkäle) - dayxeke
 lokakuu - desmes  
 lokikirja - deftobuke  
 looginen - logiki  
+lopetettu - finiti  
 lopettaa - fina  
 loppu - fin  
+loppua - finu  
 loppuliite (jälkiliite) - badofikse  
+loppunut - fini  
 loukkaus (herja) - insulte  
 loukkaus (törkeys) - ninde  
 lounas - denyam  
@@ -2161,7 +2166,7 @@ puu - moke
 puuaines - mokomate  
 puuseppä - mokojanger  
 puuteri - mukofun  
-puutteenalainen - yavani  
+puutteenalainen - yavi  
 puuvilla - goton  
 pyhä - santi  
 pylly (takapuoli, pakarat) - pige  
@@ -2270,7 +2275,7 @@ rhenium - renem
 rhodium - rodem  
 riippumatto - hamake  
 riisi - ris  
-riita - palabe  
+riita (kiista) - palabe  
 rikas - rici  
 rikki (palasina) - parci  
 rikki - sulfe  
@@ -2299,7 +2304,7 @@ roottori (propelli) - roter
 roska - laje  
 rotu - ras  
 rotujen välinen - rasmedi  
-Ruanda - Ruanda  
+Ruanda - Rvanda  
 rubiini - lalbavxeke  
 ruiske (injektio) - jux  
 ruiskuttaa - juxa  
@@ -2452,6 +2457,7 @@ siipi - ving
 siirappi - xirope  
 siitin (penis) - penis  
 siivooja - safer  
+sija (paikka järjestyksessä) - ode  
 sijaita - loku  
 sika (possu) - gurube  
 sikhi - sikiste  
@@ -2533,7 +2539,7 @@ stadioni (areena) - estadia
 stereofoninen - dulsondi  
 stereoskooppinen - dulgrafi  
 strontium - estrontem  
-suahili - suahili  
+suahili - svahili  
 substantiivi (nimisana) - namloge  
 Sudan - Sudan  
 sudenkorento - libel  
@@ -2687,10 +2693,10 @@ tarha (puisto) - parke
 tarkistaa (tsekata) - ceka  
 tarkka (täsmällinen) - justi  
 tarpeeksi (riittävästi) - basi  
-tarpeellinen - yaviti  
+tarpeellinen - yavan  
 tarpeeton - annidi  
 tarve (puute) - yav  
-tarvita - yava  
+tarvita - yavu  
 tasainen (tasavertainen) - pari  
 tasavalta - komunkratia  
 tasku - jebe  
@@ -2712,6 +2718,7 @@ teettää - isa
 tehdas - fateria  
 tehdä (valmistaa) - cana  
 tehdä (valmistaa) - fata  
+tehdä loppuun (saada valmiiksi) - purfina  
 tehdä täydelliseksi - purbona  
 tehdä valmiiksi - reda  
 tehdä yhteistyötä - konkara  
@@ -3059,7 +3066,7 @@ vetää (kiskoa) - tira
 vetää (kiskoa, raahata) - tova  
 viedä - kita  
 viedä pois (viedä maasta) - eksomisa  
-vielä (yhä) - yexo  
+vielä (yhä, jatkuvasti) - zoko  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - keger  
 vieras (tuntematon) - anjani  
@@ -3075,7 +3082,7 @@ vihollinen - andoste
 vihreä - lugi  
 viihdyttää (huvittaa) - vana  
 viikko - yomsete  
-viimeinen - fini  
+viimeinen - finodi  
 viini - vin  
 viinipanimo - vineria  
 viinirypäle - putav  

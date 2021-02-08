@@ -197,11 +197,11 @@ autologe - yksinpuhelu (monologi)
 automoti - itseliikkuva  
 autonomi - autonominen  
 autonomia - itsehallinto (autonomia)  
+avakate - avokado  
 avar - vaurio (vahinko, haveri)  
 avara - vahingoittaa (vaurioittaa)  
 avari - vaurioitunut  
 avarani - vahingollinen (vaurioittava)  
-avakate - avokado  
 Axur - Assur  
 Axuria - Assyria  
 ay - ai! (au!)  
@@ -344,7 +344,7 @@ binde - täplä (läiskä)
 bir - olut (kalja)  
 birkan - baari (kapakka)  
 bis - muunsukupuolinen  
-Bisau Ginia - Guinea-Bissau  
+Bisav Ginia - Guinea-Bissau  
 biskute - keksi (pikkuleipä)  
 bismute - vismutti  
 biv - orgaaninen elämä  
@@ -527,7 +527,7 @@ cutomun - uloskäynti
 cuza - valita  
 cuze - valinta (vaali)  
 cuzable - vaihtoehto  
-Cuana - Botswana  
+Cvana - Botswana  
 ####D - D  
 da - omistetun omistajaan liittävä partikkeli  
 da - joka (sivulauseen aloittava sana)  
@@ -881,7 +881,11 @@ filsofer - filosofi
 filter - suodattaa  
 fin - loppu  
 fina - lopettaa  
-fini - viimeinen  
+fini - loppunut  
+fino - jo (tehty teko)  
+finu - loppua  
+finiti - lopetettu  
+finodi - viimeinen  
 fiorde - vuono  
 firuze - turkoosi  
 fite - kasvi  
@@ -1041,6 +1045,7 @@ Gevmedi Hay - Välimeri
 gevmetria - geometria  
 gevparlinye - päiväntasaaja  
 Gevparlinyi Ginia - Päiväntasaajan Guinea  
+gevpolitike - geopolitiikka  
 gevsisme - maanjäristys  
 gevtike - tontti (maakaistale)  
 geyi - homo (homoseksuaali)  
@@ -1153,8 +1158,8 @@ hatre - vaara
 hatri - vaarallinen  
 hav - tuuli (puhallus)  
 hava - tuulla (puhaltaa)  
-Havayi - Havaiji  
-Havayi nesia - Havaijin saaret  
+Havaii - Havaiji  
+Havaii nesia - Havaijin saaret  
 haxix - hasis  
 hay - meri  
 hayi - meri- (merellinen)  
@@ -1412,7 +1417,6 @@ kalem - kalium
 kalende - kalenteri  
 kali - tyhjä  
 kalifornem - kalifornium  
-Kalifornia - Kalifornia  
 kalkulia - kalkyyli  
 kalsem - kalsium  
 kalsite - kalsiitti (kalkkisälpä)  
@@ -1604,7 +1608,6 @@ konfuze - Kungfutse
 konfuzistia - Kungfutselaisuus  
 Konkani - konkani (eräs intialainen kieli)  
 konserte - konsertti  
-kontinu - jatkua  
 kontra - vastaan (vasten)  
 konus - kartio (keila)  
 kopa - kopioida (jäljentää)  
@@ -1728,7 +1731,6 @@ lenti - hidas
 lenxa - harjoitella (treenata)  
 lenxe - harjoitus  
 letis - lehtisalaatti  
-levo - jo (tehty teko)  
 leze - päärynä  
 liba - nostaa pystyyn  
 libi - pysty (seisova)  
@@ -2094,9 +2096,9 @@ nasistia - kansallisuusaate (nationalismi)
 nasmedi - kansainvälinen  
 natrem - natrium  
 Nauru - Nauru  
+navati - nahuatli  
 navi - yhdeksän  
 navmes - syyskuu  
-navati - nahuatli  
 nasiste - natsi  
 nasistia - natsismi  
 Nederlandi Antil - Alankomaiden Antillit  
@@ -2153,7 +2155,6 @@ nol sate - ei koskaan (ei kertaakaan)
 nol xey - ei mitään  
 noma - järjestellä (hallinnoida, organisoida, manageroida)  
 nombre - lukumäärä (luku, numero)  
-nombre un - ensimmäinen (numero yksi)  
 nomia - hallinto (hallinnointi)  
 nonga - viljellä  
 nonger - maanviljelijä  
@@ -2190,6 +2191,7 @@ nuton - newton (N)
 ####O - O  
 o - tai (vai)  
 Oceania - Oseania  
+ode - sija (paikka järjestyksessä)  
 odisi - orija (eräs intialainen kieli)  
 ofice - virka (virka-asema)  
 ofici - virallinen  
@@ -2247,7 +2249,7 @@ pake - pakkaus (paketti)
 Pakistan - Pakistan  
 pakse - lintu  
 pal - hedelmä  
-palabe - riita  
+palabe - riita (kiista)  
 paladem - palladium  
 Palav - Palau  
 palme - palmu  
@@ -2466,6 +2468,7 @@ puri - täysi
 puro - täysin  
 purbona - tehdä täydelliseksi  
 purboni - täydellinen (täysin hyvä)  
+purfina - tehdä loppuun (saada valmiiksi)  
 purfityamiste - vegaani  
 purani - vanha (muinainen)  
 pute - lapsi (jälkeläinen)  
@@ -2535,6 +2538,7 @@ reyo - taas (uudestaan)
 reybon - korjaus  
 reybona - korjata  
 reyboner - korjaaja  
+reyzoka - jatkua uudestaan  
 rezerve - varaus (ennakkovaraus)  
 rezin - pihka (hartsi)  
 rici - rikas  
@@ -2589,7 +2593,7 @@ rusti - maalais-
 rustia - maaseutu  
 rute - polku (reitti, kurssi)  
 rutin - tapa (rutiini)  
-Ruanda - Ruanda  
+Rvanda - Ruanda  
 ####S - S  
 sa - olla  
 se - itse  
@@ -2821,10 +2825,10 @@ suyi - vetinen
 suynide - jano  
 suyrang - vesiväri (akvarelliväri)  
 suysekuri - vesitiivis  
+svahili - suahili  
 Svalbarde - Svalbard  
-Svenia - Ruotsi  
-suahili - suahili  
 Svati - Swazimaa  
+Svenia - Ruotsi  
 Svisia - Sveitsi  
 ####T - T  
 ta - luokse (tykö, kohti, asti)  
@@ -2976,6 +2980,7 @@ Uniti Dex Da Amerike (UDA) - Yhdysvallat (ns. Amerikka)
 unmaro - kerran  
 unmeni - yksimerkityksinen  
 unmes - tammikuu  
+unodi - ensimmäinen (numero yksi)  
 unoki lense - monokkeli  
 unrangi - yksivärinen  
 unyom - maanantai  
@@ -2997,18 +3002,32 @@ va ce - tuolla
 va ce - täällä  
 va ke - missä?  
 vade - laakso  
+vaf - koira  
 vagin - emätin (vagina)  
 vaginitis - emätintulehdus  
+vakila - edustaa  
 vaksin - rokote  
 val - arvo  
 vala - arvottaa  
 valu - olla jkn arvoinen  
+van - huvi (hauskuus)  
+vana - viihdyttää (huvittaa)  
+vani - hauska (huvittava)  
 vanadem - vanadiini  
 vanil - vanilja  
 Vanuatu - Vanuatu  
+varis - perintö  
+varke - lehti (arkki, levy)  
+varkolate - sivu (kirjassa)  
+vate - watti  
 Vatikan - Vatikaanivaltio  
+vav - oho (vau)  
+vaxa - pestä  
+vaxmaxin - pesukone  
 vaze - ruukku (maljakko, vaasi)  
+vaze - keidas  
 Venezuela - Venezuela  
+venjovoranje - satsuma  
 ventur - seikkailu  
 venturer - seikkailija  
 veri - tosi (aito)  
@@ -3017,6 +3036,8 @@ verme - mato
 vermute - vermutti  
 version - versio  
 vespe - mehiläinen tai ampiainen  
+veste - länsi  
+vesti - läntinen  
 vey - häntä  
 vida - nähdä  
 vide - näkymä  
@@ -3025,10 +3046,16 @@ vidomaidan - näkökenttä
 vidove - leski  
 vieti - vietnamilainen  
 Vietia - Vietnam  
+vijin - natriumglutamaatti  
+vike - wikikirjoitus  
+vil - tulevaisuus  
+vilo - tuleva  
+vildi - villi (kesytön)  
 viman - lentokone  
 vimankaper - lentokonekaappari  
 vin - viini  
 vineria - viinipanimo  
+ving - siipi  
 vinil - vinyyli  
 vir - sankari (urho)  
 viri - urhea (sankarillinen)  
@@ -3044,6 +3071,8 @@ vode - lupaus (vala)
 vodun - voodoo  
 vol - halu (toive)  
 volu - haluta  
+volfe - susi (hukka)  
+volfram - wolframi  
 volte - voltti (V)  
 vota - äänestää  
 vote - ääni (äänestyksessä)  
@@ -3051,32 +3080,8 @@ votohake - äänioikeus
 vulve - häpy (ulkosynnyttimet)  
 vute - esine (tavara)  
 ####W - W  
-vaf - koira  
-vakila - edustaa  
-van - huvi (hauskuus)  
-vana - viihdyttää (huvittaa)  
-vani - hauska (huvittava)  
-varis - perintö  
-varke - lehti (arkki, levy)  
-varkolate - sivu (kirjassa)  
-vate - watti  
-vav - oho (vau)  
-vaxa - pestä  
-vaxmaxin - pesukone  
 Waxington D####C - Washington DC  
-vaze - keidas  
 Wenjov - Wenzhou  
-venjovoranje - satsuma  
-veste - länsi  
-vesti - läntinen  
-vijin - natriumglutamaatti  
-vike - wikikirjoitus  
-vil - tulevaisuus  
-vilo - tuleva  
-vildi - villi (kesytön)  
-ving - siipi  
-volfe - susi (hukka)  
-volfram - wolframi  
 Wolof - wolofin kansa ja kieli  
 ####X - X  
 xakal - šakaali  
@@ -3173,14 +3178,13 @@ yang - laji (tyyppi, tyyli)
 yatim - orpo  
 yatimdom - orpokoti  
 yav - tarve (puute)  
-yavani - puutteenalainen  
-yava - tarvita  
-yaviti - tarpeellinen  
+yavi - puutteenalainen  
+yavu - tarvita  
+yavan - tarpeellinen  
 yehudi - juutalainen  
 yehudistia - juutalaisuus  
 Yemen - Jemen  
 Yesus - Jeesus  
-yexo - vielä (yhä)  
 yey - jee! (hurraa!)  
 yeze - kookos  
 yoga - joogata  
@@ -3227,6 +3231,9 @@ zipe - vetoketju
 zir - juustokumina (jeera)  
 zirkonem - zirkonium  
 ziza - sihistä  
+zoka - jatkaa  
+zoko - vielä (yhä, jatkuvasti)  
+zoku - jatkua  
 zombe - zombi  
 zon - vyö  
 zuke - kansanryhmä (etninen ryhmä)  

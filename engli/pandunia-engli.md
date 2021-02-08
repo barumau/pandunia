@@ -215,11 +215,11 @@ autologe - monolog
 automoti - self-moving (automotive, automobile)  
 autonomi - autonomous  
 autonomia - autonomy  
+avakate - avocado  
 avar - damage (injury, harm)  
 avara - harm (damage)  
 avari - damaged (corrupt)  
 avarani - harmful (damaging)  
-avakate - avocado  
 Axur - Assur  
 Axuria - Assyria  
 ay - ouch (ow, alas)  
@@ -369,7 +369,7 @@ binde - dot (spot)
 bir - beer  
 birkan - bar (pub, beer house)  
 bis - genderqueer (non-binary)  
-Bisau Ginia - Guinea-Bissau  
+Bisav Ginia - Guinea-Bissau  
 biskute - biscuit (cookie)  
 bismute - bismuth  
 biv - organism (organic life)  
@@ -561,7 +561,7 @@ cutomun - exit door
 cuza - choose (elect, select, pick)  
 cuze - choice (election, selection)  
 cuzable - option (choice)  
-Cuana - Botswana  
+Cvana - Botswana  
 ####D - D  
 da - of (particle of possession)  
 da - that (function word to introduce a relative clause)  
@@ -933,9 +933,13 @@ filsofi - philosophic
 filsofia - philosophy  
 filsofer - philosopher  
 filter - filter  
-fin - end  
+fin - end (ending)  
 fina - finish (put an end to)  
-fini - last (final)  
+fini - ended (finished)  
+fino - already (completed action)  
+finu - end  
+finiti - finished  
+finodi - last (final)  
 fiorde - fjord  
 firuze - turquoise gem  
 fite - plant (vegetable, vegetation)  
@@ -1109,6 +1113,7 @@ gevnici - underground (subterrainean)
 zemnici prizon - dungeon (underground prison)  
 gevparlinye - equator  
 Gevparlinyi Ginia - Equatorial Guinea  
+gevpolitike - geopolitics  
 gevsisme - earthquake  
 gevtermi - geothermal  
 gevtike - lot (plot of land)  
@@ -1228,8 +1233,8 @@ hatre - danger (peril)
 hatri - dangerous (perilous)  
 hav - wind  
 hava - blow  
-Havayi - Hawaii  
-Havayi nesia - Hawaiian archipelago  
+Havaii - Hawaii  
+Havaii nesia - Hawaiian archipelago  
 haxix - hashish  
 hay - sea  
 hayi - maritime  
@@ -1534,7 +1539,6 @@ kalende - calendar
 kali - empty (void)  
 kali harfe - space (character)  
 kalifornem - californium  
-Kalifornia - California  
 Kalisto - Callisto  
 kalkulia - calculus (manipulation of symbolic expressions)  
 kalsem - calcium (Ca)  
@@ -1758,8 +1762,6 @@ konfuze - Confucious
 konfuzistia - Confucianism  
 Konkani - Konkani  
 konserte - concert  
-kontini - continuous (analog)  
-kontinu - continue (resume)  
 kontra - be against  
 konus - cone  
 kopa - copy (replicate)  
@@ -1923,7 +1925,6 @@ lenti - slow (lethargic)
 lenxa - practice (to exercise)  
 lenxe - exercise  
 letis - lettuce  
-levo - already (completed action)  
 leze - pear  
 liama\* - llama  
 liba - erect  
@@ -2361,9 +2362,9 @@ natre - natron
 natrem - sodium  
 Nauru - Nauru  
 nautil - nautilus  
+navati - Nahuatl (Nahua)  
 navi - nine (9)  
 navmes - September  
-navati - Nahuatl (Nahua)  
 nasiste - Nazi  
 nasistia - Nazism  
 Nederlandi Antil - Netherlands Antilles  
@@ -2429,7 +2430,6 @@ nolisa - cancel (nullify)
 noma - manage (organize, direct)  
 nombra - count (enumerate)  
 nombre - number  
-nombre un - first (number one)  
 nomia - management (-nomy)  
 nonga - cultivate (farm)  
 nonger - farmer  
@@ -2472,6 +2472,7 @@ nuton - newton (N)
 o - or  
 Oberon - Oberon  
 Oceania - Oceania  
+ode - rank (position in an ordered list)  
 odisi - Odia (Oriya)  
 ofice - office (position)  
 ofici - official  
@@ -2793,6 +2794,7 @@ puri - full (complete, saturated)
 puro - fully (completely)  
 purbona - perfect (optimize, refine, polish)  
 purboni - perfect  
+purfina - complete (make done)  
 purfityamiste - vegan  
 purfityamisia - veganism  
 purxipa - soak (steep, marinate)  
@@ -2881,6 +2883,7 @@ reyo - again (repeatedly)
 reybon - repair (fix)  
 reybona - repair (fix, mend)  
 reyboner - repairer  
+reyzoka - continue (resume)  
 rezerva - reserve (book)  
 rezerve - reservation (booking, withholding)  
 rezin - resin  
@@ -2946,7 +2949,7 @@ rutogalti - stray (deviant)
 rutenem - ruthenium  
 ruterfordem - rutherfordium  
 rutin - routine (habit)  
-Ruanda - Rwanda  
+Rvanda - Rwanda  
 ####S - S  
 sa - be  
 se - self (reflexive pronoun)  
@@ -3235,10 +3238,10 @@ suyminte - watermint
 suynide - thirst  
 suyrang - watercolor  
 suysekuri - waterproof  
+svahili - Swahili  
 Svalbarde - Svalbard  
-Svenia - Sweden  
-suahili - Swahili  
 Svati - Eswatini (Swaziland)  
+Svenia - Sweden  
 Svisia - Switzerland  
 ####T - T  
 ta - to (toward, till, until, for)  
@@ -3428,6 +3431,7 @@ unjani - alone (lonely, isolated, solitary, single)
 unmaro - once  
 unmeni - unambiguous  
 unmes - January  
+unodi - first (number one)  
 unoki lense - monocle  
 unrangi - monochrome  
 unyom - Monday  
@@ -3454,24 +3458,42 @@ va ke - where
 va linye - online  
 vade - valley  
 vadosusan - lily of the valley  
+vaf - dog  
 vagin - vagina  
 vaginitis - vaginitis  
+vakil - representative (proxy, agent)  
+vakila - represent  
 vaksin - vaccine  
 val - value (worth)  
 vala - value (evaluate)  
 valu - be worth  
 vampir - vampire  
 vampirbalsenter - vampire squid  
+van - fun (amusement)  
+vana - amuse (entertain)  
+vani - funny (amusing)  
+vanu - enjoy (play)  
 vanadem - vanadium  
 vanil - vanilla  
 Vanuatu - Vanuatu  
+varis - heritage (legacy, bequest)  
+varke - leaf (sheet)  
+varkalge - kelp  
+varkolate - page (side of a leaf of a book)  
+vate - watt  
 Vatikan - Holy See (Vatican City State)  
+vav - wow! (gee!)  
+vaxa - wash  
+vaxmaxin - washing machine  
+vaxurse - raccoon  
 vaze - pot (vase, bin, jar, jug)  
+vaze - oasis  
 venda - sell (vend)  
 vendoxope - trade (commerce)  
 vendoxoper - trader (merchant)  
 vendoxopa - trade (buy and sell)  
 Venezuela - Venezuela  
+venjovoranje - satsuma mandarin  
 ventur - adventure (venture)  
 venturer - adventurer  
 Venus - Venus  
@@ -3483,6 +3505,10 @@ vermute - vermouth
 version - version (variation, edition)  
 vespe - bee or wasp  
 vesponizde - bee nest (beehive, wasp's nest)  
+veste - west  
+vesti - western  
+vestodongia - longitude  
+vestogoril - western gorilla  
 vey - tail  
 vida - look (see)  
 vide - view (vision)  
@@ -3493,10 +3519,17 @@ vidopunte - perspective (point of view)
 vidove - widow  
 vieti - Vietnamese (Viet)  
 Vietia - Viet Nam  
+vijin - MSG (monosodium glutamate)  
+vike - wiki article  
+vikia - wiki  
+vil - future time  
+vilo - will (in future)  
+vildi - wild (savage)  
 viman - airplane  
 vimankaper - plane hijacker  
 vin - wine  
 vineria - winery  
+ving - wing  
 vinil - vinyl  
 violeti - purple (violet)  
 vir - hero  
@@ -3509,6 +3542,7 @@ visa - substitute (replace)
 visi - vice (deputy)  
 visloge - pronoun  
 visprezidente - vice-president  
+viske - whisky (whiskey)  
 vite - screw  
 vize - visa  
 voda - promise (pledge)  
@@ -3516,6 +3550,8 @@ vode - promise (vow, oath)
 vodun - voodoo  
 vol - want (desire, longing)  
 volu - want (desire, wish)  
+volfe - wolf  
+volfram - tungsten (wolfram)  
 volte - volt (V)  
 vota - vote (cast a vote)  
 vote - vote (ballot)  
@@ -3523,41 +3559,9 @@ votohake - franchise (right to vote)
 vulve - vulva  
 vute - object (item)  
 ####W - W  
-vaf - dog  
-vakil - representative (proxy, agent)  
-vakila - represent  
 Walis e Futuna nesia - Wallis and Futuna Islands  
-van - fun (amusement)  
-vana - amuse (entertain)  
-vani - funny (amusing)  
-vanu - enjoy (play)  
-varis - heritage (legacy, bequest)  
-varke - leaf (sheet)  
-varkalge - kelp  
-varkolate - page (side of a leaf of a book)  
-vate - watt  
-vav - wow! (gee!)  
-vaxa - wash  
-vaxmaxin - washing machine  
-vaxurse - raccoon  
 Waxington D####C - Washington DC  
-vaze - oasis  
 Wenjov - Wenzhou  
-venjovoranje - satsuma mandarin  
-veste - west  
-vesti - western  
-vestodongia - longitude  
-vestogoril - western gorilla  
-vijin - MSG (monosodium glutamate)  
-vike - wiki article  
-vikia - wiki  
-vil - future time  
-vilo - will (in future)  
-vildi - wild (savage)  
-ving - wing  
-viske - whisky (whiskey)  
-volfe - wolf  
-volfram - tungsten (wolfram)  
 Wolof - Wolof (language and people)  
 ####X - X  
 xakal - jackal  
@@ -3677,9 +3681,9 @@ yasen - ash tree
 yatim - orphan  
 yatimdom - orphanage  
 yav - need (shortage, lack)  
-yavani - needy (lacking)  
-yava - need (lack)  
-yaviti - necessary (needed)  
+yavi - needy (lacking)  
+yavu - need (lack)  
+yavan - necessary (needed)  
 yavxina - trust (rely)  
 yavxinabli - loyal (faithful, trustworthy)  
 yavxinablia - loyalty (faithfulness)  
@@ -3687,7 +3691,6 @@ yehudi - Jewish
 yehudistia - Judaism  
 Yemen - Yemen  
 Yesus - Jesus  
-yexo - still (yet)  
 yey - yay! (yeah!)  
 yeze - coconut tree  
 yoga - do yoga  
@@ -3744,6 +3747,10 @@ zir - cumin (jeera)
 zirkon - zircon  
 zirkonem - zirconium  
 ziza - sizzle  
+zoka - continue (carry on, proceed)  
+zoki - continuous (analog)  
+zoko - still (yet, continuously)  
+zoku - continue (go on, keep on)  
 zombe - zombie  
 zon - belt (zone)  
 zong - post (stake, peg, skewer)  

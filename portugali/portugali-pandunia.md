@@ -21,7 +21,7 @@ agacharse - indosida
 agente - ater  
 agressor - agreser  
 ai! - ay  
-ainda - yexo  
+ainda - zoko  
 alaranjado - oranji  
 alcachofra - karcof  
 alcachofra-girassol (tupinambo) - masmulsolful  
@@ -43,7 +43,7 @@ amargo - amari
 ameixa - plum  
 amor - luve  
 amêndoa - badam  
-analógico - kontini  
+analógico - zoki  
 andesito - andesite  
 anel - ring  
 animal (besta, bicho) - hevan  
@@ -417,6 +417,7 @@ generosidade - karimia
 generoso (dadivoso, mão-aberta) - donivi  
 genótipo - jenotipe  
 geometria - gevmetria  
+geopolítica - gevpolitike  
 Germânia - Germania  
 girafa - jiraf  
 girassol - solful  
@@ -900,6 +901,7 @@ tendência - ive
 tentar (provar) - testa  
 tentáculo - senter  
 ter (achar, receber) - geta  
+terminar (acabar, concluir) - purfina  
 Terra - Gevia  
 terracota - bekopote  
 terraplanista - platogeviste  

@@ -303,6 +303,7 @@ gevforme - terreno
 gevgraf - carta geográfica  
 gevgrafia - cartografia  
 gevmetria - geometria  
+gevpolitike - geopolítica  
 gida - guiar  
 gider - guia  
 gitar - guitarra  
@@ -489,7 +490,6 @@ kontener - contêiner
 kontrate - pacto  
 koncung - inseto  
 konserte - concerto  
-kontini - analógico  
 kope - cópia  
 kora - correr  
 koral - coral  
@@ -771,6 +771,7 @@ pujomeze - altar
 pul - ponte  
 puri - cheio  
 purbona - aperfeiçoar  
+purfina - terminar (acabar, concluir)  
 purfityamiste - vegetalista  
 purxipa - ensopar (encharcar, marinar)  
 pute - filho ou filha  
@@ -992,13 +993,14 @@ yavi - necessitado
 yavu - necessitar  
 yavan - necessário  
 yavxina - confiar (contar com)  
-yexo - ainda  
 yoke - jugo  
 yongu - derretre  
 ####Z - Z  
 zebre - zebra  
 zeyil - verruga  
 zinje - jengibre  
+zoki - analógico  
+zoko - ainda  
 zombe - zumbi  
 zon - zona  
 zong - poste (estaca)  

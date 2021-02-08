@@ -347,6 +347,7 @@ gevgraf - карта
 gevgrafia - картография  
 gevmetria - геометрия  
 zemnici prizon - ублиет (подземная тюрьма)  
+gevpolitike - геополитика  
 gevtermi - геотерма́льный  
 gider - гид  
 gidobuke - путеводитель  
@@ -751,6 +752,7 @@ novi - новый
 novike - новичок  
 ####O - O  
 o - или  
+ode - ранг  
 oke - глаз (око)  
 oki - глазной  
 okosuygas - слезоточи́вый газ  
@@ -1042,14 +1044,21 @@ val - ценность
 vala - оценивать  
 vampir - вампир (упырь)  
 vampirbalsenter - адский вампир  
+vav - вау!  
+vaxa - мыть  
+vaxmaxin - стиральная машина  
+vaxurse - енот  
 vaze - ваза  
+vaze - oasis  
 venda - продать  
 vendoxopa - обмениваться  
+venjovoranje - мандарин уншиу  
 ventur - авантюра  
 venturer - авантюрист  
 Venus - Венера  
 veri - верный  
 vermute - вермут  
+vestogoril - западная горилла  
 vey - хвост  
 vida - видеть  
 vider - зрительница  
@@ -1064,13 +1073,6 @@ volu - хотеть
 vulve - вульва  
 vute - статья (предмет)  
 ####W - W  
-vav - вау!  
-vaxa - мыть  
-vaxmaxin - стиральная машина  
-vaxurse - енот  
-vaze - oasis  
-venjovoranje - мандарин уншиу  
-vestogoril - западная горилла  
 ####X - X  
 xalke - чешуя  
 xaman - шаман  
@@ -1119,14 +1121,13 @@ yamnide - голод
 yasen - ясень  
 yatimdom - детский дом  
 yav - нужда  
-yava - нуждаться  
-yaviti - нужный  
+yavu - нуждаться  
+yavan - нужный  
 yavxina - доверять (понадеяться)  
 yavxinabli - верный  
 yavxinablia - верность  
 Yemen - Йемен  
 Yesus - Иисус  
-yexo - ещё  
 yoge - йога  
 yohani feste - Иванов день  
 yoke - ярмо (иго)  
@@ -1145,6 +1146,7 @@ zinje - имбирь
 zinke - цинк  
 zir - тмин  
 zirkon - циркон  
+zoko - ещё  
 zon - пояс (зона)  
 zong - кол  
 zongominte - мята колоси́стая  

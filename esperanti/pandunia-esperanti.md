@@ -112,9 +112,9 @@ auda - aŭdi (aŭskulti)
 aur - oro  
 Australia - Aŭstralio  
 automoti - memmova  
+avakate - avokado  
 avar - damaĝo  
 avarani - damaĝa  
-avakate - avokado  
 ay - aj (alas)  
 ####B - B  
 babe - ĉapitro  
@@ -524,7 +524,10 @@ filsofer - filozofo
 filter - filtri  
 fin - fino  
 fina - fini  
-fini - lasta  
+fino - jam (esti farita)  
+finu - finiĝi  
+finiti - finita  
+finodi - lasta  
 fiorde - fjordo  
 firuze - turkiso  
 fite - planto  
@@ -839,7 +842,6 @@ kalem - kalio
 kalende - kalendaro  
 kali - malplena  
 kalifornem - kaliforniumo  
-Kalifornia - Kalifornio  
 kalsem - kalcio  
 kalsite - kalcito  
 kalsokristal - marmoro  
@@ -1006,7 +1008,6 @@ lenti - malrapida
 lenxa - ekzerci  
 lenxe - ekzerco  
 letis - laktuko  
-levo - jam (esti farita)  
 leze - piro  
 libel - libelo  
 liga - aligi  
@@ -1362,6 +1363,7 @@ punte - punkto
 pura - plenigi  
 puri - plena  
 puro - plene  
+purfina - kompleti  
 purani - malnova  
 pute - ido (infano)  
 putav - vinbero  
@@ -1548,7 +1550,7 @@ suy - akvo
 suygas - vaporo  
 suyi - akva  
 suynide - soifo  
-suahili - sŭahili  
+svahili - sŭahili  
 ####T - T  
 ta - al (ĝis, por)  
 te - vi (ci)  
@@ -1646,7 +1648,16 @@ vade - valo
 vagin - vagino  
 vaginitis - vaginito  
 val - valoro  
+van - amuzo  
+vana - amuzi  
+vani - amuza  
+varkolate - paĝo  
+vate - vato  
+vav - ŭaŭ!  
+vaxa - lavi  
+vaxmaxin - lavmaŝino  
 vaze - vazo  
+vaze - oazo  
 ventur - aventuro  
 venturer - aventuristo  
 veri - vera  
@@ -1656,6 +1667,9 @@ vespe - abelo aŭ vespo
 vey - vosto  
 vida - vidi (rigardi)  
 vidove - vidvo  
+vike - vikia artikulo  
+vil - estonoteco  
+vilo - estonte  
 vin - vino  
 vir - heroo  
 viri - heroa  
@@ -1664,21 +1678,9 @@ visloge - pronomo
 voda - promesi  
 vol - volo  
 volu - voli  
+volfe - lupo  
 vulve - vulvo  
 ####W - W  
-van - amuzo  
-vana - amuzi  
-vani - amuza  
-varkolate - paĝo  
-vate - vato  
-vav - ŭaŭ!  
-vaxa - lavi  
-vaxmaxin - lavmaŝino  
-vaze - oazo  
-vike - vikia artikulo  
-vil - estonoteco  
-vilo - estonte  
-volfe - lupo  
 ####X - X  
 xake - branĉo  
 xal - koltuko  
@@ -1738,10 +1740,9 @@ yamfite - legomo
 yamkamar - manĝoĉambro  
 yamnide - malsato  
 yang - speco (tipo, stilo)  
-yava - bezoni  
+yavu - bezoni  
 Yemen - Jemeno  
 Yesus - Jesuo  
-yexo - ankoraŭ  
 yeze - kokoso  
 yoge - jogo  
 yoke - jugo  
@@ -1771,6 +1772,7 @@ zinje - zingibro
 zinke - zinko  
 zir - kumino  
 zirkonem - zirkonio  
+zoko - ankoraŭ  
 zon - zono  
 zuke - etno  
 zuki - etna  

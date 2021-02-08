@@ -664,7 +664,7 @@ How do you say "cat" in Pandunia?
 **"cat" logu ko va pandunia?**
 How is "cat" said in Pandunia?
 
-**maw loga miaw.**
+**mav loga miau.**
 Cat says meow.
 
 
@@ -745,7 +745,7 @@ Chinese, Japanese, Indonesian
 **arabi, turki, farsi, urdu, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
-**swahili, hausa, yoruba, amari**
+**suahili, hausa, yoruba, amari**
 Swahili, Hausa, Yoruba, Amharic
 
 
@@ -887,33 +887,33 @@ He or she was the chief.
 He or she was at home.
 
 
-### lewo <small>already, completed</small>
+### fino <small>already, completed</small>
 
-**me lewo salama ti doste.**  
+**me fino salama ti doste.**  
 I have greeted your friend.
 
-**man lewo vida fem.**  
+**man fino vida fem.**  
 The man has looked at the woman.
 
-**le lewo sa xefe.**  
+**le fino sa xefe.**  
 He or she has been the chief.
 
-**le lewo va dom.**  
+**le fino va dom.**  
 He or she has been at home.
 
 
-### wilo <small>(future action)</small>
+### vilo <small>(future action)</small>
 
-**me wilo salama ti doste.**  
+**me vilo salama ti doste.**  
 I will greet your friend.
 
-**man wilo vida fem.**  
+**man vilo vida fem.**  
 The man will see the woman.
 
-**le wilo sa xefe.**  
+**le vilo sa xefe.**  
 He or she will be the chief.
 
-**le wilo va dom.**  
+**le vilo va dom.**  
 He or she will be at home.
 
 
@@ -947,7 +947,7 @@ I will take a coffee.
 **pliza kapa un kafe pa me.**
 Please take one coffee for me.
 
-**te lewo kapa pese ja me.**
+**te fino kapa pese ja me.**
 You already got money from me.
 
 **me kapa un bir.**

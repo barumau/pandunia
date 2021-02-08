@@ -938,9 +938,13 @@ filsof:i|filsofi||||philosophic||filosófico|||||||||||||filozofia|filosofinen|f
 filsof:ia|filsofia|||spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|philosophy|philosophie|filosofía|filosofia|философия|فَلْسَفَة|哲学|哲学|철학|triết học|दर्शन (फ़लसफ़ा)||filsafat|falsafa|felsefe|filozofio|filosofia|filozofia
 filsof.er:|filsofer||||philosopher||filósofo|||||||||||||filozofo|filosofi|filozof
 filt.er:|filter||||filter||filtro|||||||||||||filtri|suodattaa|filtr
-fin:|fin|||spa: fin, fra: fin, por: fim|end||fin (el final)|||||||||||||fino|loppu|koniec
+fin:|fin|||spa: fin, fra: fin, por: fim|end (ending)||fin (el final)|||||||||||||fino|loppu|koniec
 fin:a|fina||||finish (put an end to)||terminar (acabar)|||||||||||||fini|lopettaa|skończyć, kończyć
-fin:i|fini||||last (final)||final (último)|||||||||||||lasta|viimeinen|ostatni, końcowy
+fin:i|fini||||ended (finished)|fini|||||||||||||||loppunut|
+fin:o|fino||||already (completed action)||ya (acción completado)||||了|||||||||jam (esti farita)|jo (tehty teko)|już (skończona czynność)
+fin:u|finu||||end|||||||||||||||finiĝi|loppua|
+fin.it:i|finiti||||finished|||||||||||||||finita|lopetettu|
+fin.od:i|finodi||||last (final)||final (último)|||||||||||||lasta|viimeinen|ostatni, końcowy
 fiord:e|fiorde|||nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|fjord|fiord|fiordo|fiorde|фьорд||峡湾|フィヨルド||||||||fjordo|vuono|fiord
 firuz:e|firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|turquoise gem||turquesa (piedra preciosa)||бирюза||绿松石|||||||||turkiso|turkoosi|turkus
 fit:e|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetable, vegetation)|plante (végétal)|planta (vegetal, vegetación)|planta (vegetal)|растение|نَبَات‎|植物|植物|식물|thực vật|पौधा|গাছ|tumbuh-tumbuhan|mmea|bitki (nebat)|planto|kasvi|roślina, sadzonka
@@ -1114,6 +1118,7 @@ gev.nic:i|gevnici||||underground (subterrainean)||subterráneo|||||地中|||||||
 gev.nic:i prizon:|zemnici prizon||||dungeon (underground prison)|oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)|||地下牢 (ダンジョン)||||||||||loch
 gev.par.liny:e|gevparlinye||||equator||ecuador||||||||||||||päiväntasaaja|równik
 Gev.par.liny:i Gin:ia|Gevparlinyi Ginia|dex|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
+gev.politik:e|gevpolitike||||geopolitics|géopolitique|geopolítica|geopolítica|геополитика||地缘政治||||भूराजनीति||||||geopolitiikka|
 gev.sism:e|gevsisme||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|trzęsienie Ziemi
 gev.term:i|gevtermi||||geothermal|géothermique|geotérmico||геотерма́льный||地热的||||||||||geoterminen (maalämpö-)|
 gev.tik:e|gevtike||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
@@ -1765,8 +1770,6 @@ Kongfuz:e|konfuze|||zho:孔夫子 (Kǒng Fūzǐ)|Confucious||confucio|||||||||||
 Kongfuz.ist:ia|konfuzistia||||Confucianism||confucianismo||||||||||||||Kungfutselaisuus|konfucjanizm
 Konkani|Konkani|nas|||Konkani||konkani||||||||||||||konkani (eräs intialainen kieli)|konkani
 konserte|konserte|||eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|concert|concert|concierto|concerto|концерт||音乐会|コンサート (音楽会)|콘서트 (음악회)||कॉन्सर्ट|সঙ্গীতানুষ্ঠান|konser||konser|koncerto|konsertti|koncert
-kontini|kontini||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ||||||||||ciągły (analogowy)
-kontinu|kontinu||||continue (resume)||continuar (reanudar)||||||||||||||jatkua|kontynuować; wznawiać, ponawiać
 kontra|kontra|coverb||spa:por:contra, fra:contre, eng:counter-, ell:κόντρα (kontra)|be against||estar en contra|||||||||||||kontraŭ|vastaan (vasten)|być przeciw
 konus|konus|||eng:por:cone, spa:cono, fra:conique, rus:ко́нус (kónus), tur:koni, may:kon|cone||cono||||||||||||||kartio (keila)|szyszka
 kop:a|kopa||||copy (replicate)||copiar|||||||||||||kopii|kopioida (jäljentää)|kopiować, replikować
@@ -1930,7 +1933,6 @@ lent:i|lenti|||fra:lent, spa:por:lento|slow (lethargic)|lent|lento (despacio)|le
 lenx:a|lenxa||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
 lenx:e|lenxe|||zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|exercise||ensayo (ejercitio)|||||||||||||ekzerco|harjoitus|ćwiczenie
 letis:|letis|||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce|laitue|lechuga|alface|салат-латук||莴苣|レタス|||लेटिष|লেটুস||||laktuko|lehtisalaatti|sałata
-levo|levo|||tha:แล้ว (lɛːw), zho:了 (le), wuu:了 (lə'), hak:了 (le), yue:了 (liu)|already (completed action)||ya (acción completado)|||||||||||||jam (esti farita)|jo (tehty teko)|już (skończona czynność)
 lez:e|leze|||zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|pear||pera||||梨|||||||||piro|päärynä|gruszka
 liama:|liama*|biv||eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|llama|lama|llama|lhama|лама||大羊駝|ラマ||||||||||lama
 lib:a|liba||||erect||erigir (montar, armar)||||||||||||||nostaa pystyyn|postawić (stawiać)
@@ -2438,7 +2440,6 @@ nolisa|nolisa||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
 noma|noma||||manage (organize, direct)||dirigir (gestionar, administrar)||||||||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
 nombra|nombra||||count (enumerate)||contar|||||数える||||||||||liczyć
 nombre|nombre|||eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|number|nombre (numéro)|número|número|число||数||||संख्या (नंबर)|সংখ্যা (নম্বর )|angka (nombor)|nambari|sayı|nombro|lukumäärä (luku, numero)|numer
-nombre un|nombre un||||first (number one)||primero (numbre uno)||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
 nomia|nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|management (-nomy)||gerencia (dirección)||||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
 nonga|nonga|||zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)||cultivar||||||||||||||viljellä|uprawić, uprawiać
 nonger|nonger||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
@@ -2481,6 +2482,7 @@ O|O||||O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O
 o:|o|funce||eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
 Oberon:|Oberon|planete 7 lune 5|||Oberon|||||||||||||||||
 Ocean:ia|Oceania||||Oceania||Oceanía|||||||||||||Oceanio|Oseania|Oceania
+od:e|ode|||eng:order, fra:ordre, spa:orden, por:ordem, swa:oda + zho:第 (dì), vie:đệ, khm:ទី (dī)|rank (position in an ordered list)|rang|||ранг||||||||||||sija (paikka järjestyksessä)|
 odis:i|odisi|nas|||Odia (Oriya)||oriya||||||||||||||orija (eräs intialainen kieli)|orija
 ofis:|ofice||||office (position)||cargo||||||||||||||virka (virka-asema)|urząd, pozycja, stanowisko, funkcja
 ofis:i|ofici||||official||oficial||||||||||||||virallinen|oficjalny
@@ -2547,7 +2549,7 @@ pak:e|pake|||eng:pack, rus:пакет (paket), hin:पैकेट (pækeṭ), d
 Pakistan:|Pakistan|dex|||Pakistan||Pakistán||||||||||||||Pakistan|Pakistan
 paks:e|pakse|biv|Aves|hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)|bird|oiseau|pájaro (ave)||||||||पक्षी|পাখী||||birdo|lintu|ptak
 pal:|pal|||hin:फल (phal), pnb:ਫਲ (phal), ben:ফল (phal), tam: பழம் (palam), tel:(phalamu), tha:ผน-ละ- (phon-la)|fruit||fruta||||||||फल|ফল||||frukto|hedelmä|owoc
-palab:e|palabe||eng:palaver, krio:plabah, kon:palaba||conflict (argument, dispute, quarrel)|querelle (dispute, palabre)|||||||||||||||riita|
+palab:e|palabe||eng:palaver, krio:plabah, kon:palaba||conflict (argument, dispute, quarrel)|querelle (dispute, palabre)|||||||||||||||riita (kiista)|
 palad.em:|paladem|mate|Pd||palladium||paladio|||||||||||||paladio|palladium|pallad
 Palav:|Palav|dex|PW||Palau||Palaos||||||||||||||Palau|Palau
 palm:e|palme|||deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)|palm tree||palmera|||||||||||||palmo|palmu|palma, drzewo palmowe
@@ -2803,6 +2805,7 @@ pur:i|puri|||hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:�
 pur:o|puro||||fully (completely)|||||||||||||||plene|täysin|pełnie (całkowicie)
 pur.bon:a|purbona||||perfect (optimize, refine, polish)|perfectionner (parfaire)|perfeccionar|aperfeiçoar|||||||||||||tehdä täydelliseksi|doskonalić (optymalizować, ulepszać)
 pur.bon:i|purboni||||perfect||perfecto||||||||पूर्ण||||||täydellinen (täysin hyvä)|perfekcyjny
+pur.fin:a|purfina||||complete (make done)|accomplir (terminer)|completar (terminar)|terminar (acabar, concluir)|||完成|||||||||kompleti|tehdä loppuun (saada valmiiksi)|
 pur.fit.yam.ist:e|purfityamiste||||vegan||vegano|vegetalista|веган||纯素食主义者|絶対菜食主義者 (ヴィーガン)|비건||||vegan||||vegaani|weganin (weganka)
 pur.fit.yam.ist:ia|purfityamisia||||veganism||veganismo|||||ヴィーガニズム|비거니즘||वीगनवाद||||veganlık|||
 pur.xip:a|purxipa||||soak (steep, marinate)|tremper (faire mariner)|remojar (marinar, encurtir, macerar)|ensopar (encharcar, marinar)|мариновать||浸泡|漬ける (締める)|||भिगोना|||||||namoczyć (marynować)
@@ -2891,6 +2894,7 @@ rey:o|reyo||||again (repeatedly)||otra vez (de nuevo)|||||||||||||denove (ripete
 rey.bon:|reybon||||repair (fix)|réparation|arreglo|reparo|починка (ремонт)||修理|修理|수리||मरम्मत|||||riparo|korjaus|naprawa
 rey.bon:a|reybona||||repair (fix, mend)|réparer|reparar (arreglar)|reparar|чинить (ремонтировать)|صَلَّحَ‎|修理|修理する|고치다 (수리하다)|sửa chữa|मरम्मत करना||||tamir etmek|ripari|korjata|naprawić, naprawiać
 rey.bon.er:|reyboner||||repairer|réparateur|reparador|reparador|ремонтник|مُصْلِح‎|修理工人|修理工|수리공||||||tamirci|riparisto|korjaaja|naprawiacz
+rey.zok:a|reyzoka||||continue (resume)|reprendre|continuar (reanudar)|||||再開する|||||||||jatkua uudestaan|
 rezerv:a|rezerva||||reserve (book)||reservar||||||||||||rezerve ettirmek|||rezerwować (zarezerwować)
 rezerv:e|rezerve|||eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|reservation (booking, withholding)||réservation|reserva||||||||||||rezervo|varaus (ennakkovaraus)|rezerwacja
 rezin:|rezin|||eng:resin, fra:résine, fas:(rezin), por:spa:resina, tur:reçine|resin||resina|||||||||||||rezino|pihka (hartsi)|żywica
@@ -3440,6 +3444,7 @@ un.jan:i|unjani||||alone (lonely, isolated, solitary, single)||solo (aislado, so
 un.mar:o|unmaro||||once|une fois|una vez|uma vez|один раз||一次 (一遍)||一度 (一回, 一遍)|한번|एक बार|||||unufoje|kerran|raz (jeden raz)
 un.men:i|unmeni||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
 un.mes:|unmes|mese|||January||enero|||||１月|||||||||tammikuu|styczeń
+un.od:i|unodi||||first (number one)||primero (numbre uno)||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
 un.ok:i lens:e|unoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un.rang:i|unrangi||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
 un.yom:|unyom||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
@@ -3699,7 +3704,6 @@ yehud:i|yehudi||||Jewish||judío||||||||||||||juutalainen|żydowski
 yehud.ist:ia|yehudistia||||Judaism||judaísmo||||||||||||||juutalaisuus|judaizm
 Yemen:|Yemen||||Yemen||Yemen||Йемен|||||||||||Jemeno|Jemen|Jemen
 Yesus:|Yesus||||Jesus|Jésus|Jesús||Иисус|||||||||||Jesuo|Jeesus|Jezus
-yex:o|yexo|||rus:ещё (yeščo), pol:jeszcze|still (yet)|encore|todavía (aún)|ainda|ещё||还 (依然)|まだ||||||||ankoraŭ|vielä (yhä)|wciąż, nadal
 yey:|yey|||eng:yay, pol:jej, jpn:イエイ (iei)|yay! (yeah!)||yupi||||||||||||||jee! (hurraa!)|jej
 yez:e|yeze|biv|Cocos nucifera|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|coconut tree||coco|||||||||||||kokoso|kookos|kokos
 yog:a|yoga||||do yoga||hacer yoga||||||||||||||joogata|uprawiać jogę
@@ -3756,6 +3760,10 @@ zir:|zir|||ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீர
 zirkon:|zirkon||||zircon||circón||циркон|||||||||||||
 zirkon.em:|zirkonem|mate|Zr||zirconium||circonio|||||||||||||zirkonio|zirkonium|cyrkon
 ziz:a|ziza|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
+zok:a|zoka||||continue (carry on, proceed)|continuer (poursuivre)|||||||||||||devam etmek||jatkaa|
+zok:i|zoki||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ||||||||||ciągły (analogowy)
+zok:o|zoko||||still (yet, continuously)|encore|todavía (aún)|ainda|ещё||还 (依然)|まだ||||||||ankoraŭ|vielä (yhä, jatkuvasti)|wciąż, nadal
+zok:u|zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|continue (go on, keep on)||||||||||||||||jatkua|kontynuować; wznawiać, ponawiać
 zomb:e|zombe|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zon:|zon|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
 zong:|zong|||zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|post (stake, peg, skewer)|pieu (poteau)|poste (estaca, palo)|poste (estaca)|кол||桩|杭||||||||||słup (pal, kołek)

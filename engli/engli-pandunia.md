@@ -84,7 +84,7 @@ allow (permit) - halala
 almond - badam  
 alone (lonely, isolated, solitary, single) - unjani  
 alphabet - harfia  
-already (completed action) - levo  
+already (completed action) - fino  
 also (too) - maxo  
 altar - pujomeze  
 alternative (substitute, replacement) - vis  
@@ -424,7 +424,7 @@ borrow - jekogeta
 Bosnia and Herzegovina - Bosnia e Hercegovina  
 botany (phytology) - fitolojia  
 bother - mafana  
-Botswana - Cuana  
+Botswana - Cvana  
 bottle - botel  
 bottom - tal  
 boulder - dayxeke  
@@ -511,7 +511,6 @@ calculate - hisaba
 calculation - hisabe  
 calculus (manipulation of symbolic expressions) - kalkulia  
 calendar - kalende  
-California - Kalifornia  
 californium - kalifornem  
 caliph - halif  
 caliphate - halifia  
@@ -738,6 +737,7 @@ compassion - konpaxia
 compatible (supported) - konfuncabli  
 compatriot - samdexi  
 compete (have a match) - meca  
+complete (make done) - purfina  
 compost - bivcaniver  
 compute (to process data) - komputa  
 computer - komputer  
@@ -768,8 +768,10 @@ contain (hold together) - kontena
 contain (include) - inda  
 container - kontener  
 content (possession) - ten  
-continue (resume) - kontinu  
-continuous (analog) - kontini  
+continue (carry on, proceed) - zoka  
+continue (go on, keep on) - zoku  
+continue (resume) - reyzoka  
+continuous (analog) - zoki  
 contribute - fendona  
 conventional (customary, traditional) - riti  
 cook (chef) - kuker  
@@ -1073,7 +1075,9 @@ empty (void) - kali
 emulate (simulate, mimic, model) - samsifa  
 Enceladus - Enceladus  
 encode (encrypt) - koda  
-end - fin  
+end (ending) - fin  
+end - finu  
+ended (finished) - fini  
 endonym - indonam  
 enemy (unfriend) - andoste  
 energy - energe  
@@ -1217,13 +1221,14 @@ fine (delicate) - faini
 finger (toe) - ungle  
 finger ring - ungloring  
 finish (put an end to) - fina  
+finished - finiti  
 finite (limited) - limiti  
 Finland - Suomia  
 Finnish - suomi  
 fir tree - abite  
 fire (burning) - hoge  
 fireworks (pyrotechnics) - hogotehne  
-first (number one) - nombre un  
+first (number one) - unodi  
 fish - pex  
 fish tank - pexotanke  
 fisher - pexosaider  
@@ -1341,6 +1346,7 @@ generous (open-handed) - donivi
 genotype - jenotipe  
 geology - gevlojia  
 geometry - gevmetria  
+geopolitics - gevpolitike  
 Georgia (Republic of Georgia) - Kartvel  
 geothermal - gevtermi  
 German - doici  
@@ -1446,7 +1452,7 @@ guide - gider
 guide book - gidobuke  
 guilty - doxi  
 Guinea - Konakri Ginia  
-Guinea-Bissau - Bisau Ginia  
+Guinea-Bissau - Bisav Ginia  
 guitar - gitar  
 Gujarati - gujarati  
 gun (cannon) - daypav  
@@ -1483,8 +1489,8 @@ hate (despise) - hena
 hatred (hate, resentment, odium) - hen  
 have (keep, possess) - tena  
 have sex - seksa  
-Hawaii - Havayi  
-Hawaiian archipelago - Havayi nesia  
+Hawaii - Havaii  
+Hawaiian archipelago - Havaii nesia  
 hay - gancav  
 hazard (chance) - zar  
 he or she or it - le  
@@ -1784,7 +1790,7 @@ Laos - Lav
 lapis lazuli - lazurxeke  
 larva (maggot, caterpillar) - larve  
 lasagna - lazanye  
-last (final) - fini  
+last (final) - finodi  
 last (take time; during) - duru  
 later (after) - bado  
 lateral - lati  
@@ -2204,11 +2210,11 @@ Nazi - nasiste
 Nazism - nasistia  
 near (close) - karibi  
 nearly (closely, almost) - karibo  
-necessary (needed) - yaviti  
-need (lack) - yava  
+necessary (needed) - yavan  
+need (lack) - yavu  
 need (shortage, lack) - yav  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
-needy (lacking) - yavani  
+needy (lacking) - yavi  
 negotiate (arrange) - lona biznes  
 neodymium - neodimem  
 neon - neon  
@@ -2727,6 +2733,7 @@ raisin - ganputav
 Ramadan - ramazan  
 ramp (incline, slope) - rampe  
 random - zari  
+rank (position in an ordered list) - ode  
 rare (uncommon, sparse) - rari  
 rarity - raria  
 rational (reasonable) - razoni  
@@ -2866,7 +2873,7 @@ Russian - rusi
 rustle - xaxu  
 ruthenium - rutenem  
 rutherfordium - ruterfordem  
-Rwanda - Ruanda  
+Rwanda - Rvanda  
 Réunion - Reunion  
 ####S - S  
 Sabbath - sabate  
@@ -3184,7 +3191,7 @@ step (degree, rank, grade, level, class) - darje
 stereophonic - dulsondi  
 stick (adhere, paste, glue) - gluta  
 sticky (ahesive) - gluti  
-still (yet) - yexo  
+still (yet, continuously) - zoko  
 stipulate - xarta  
 stone (piece of rock) - xeke  
 stop (halt) - tinga  
@@ -3250,7 +3257,7 @@ surround (encircle) - cirka
 sushi - suxi\*  
 suture (seam) - sutur  
 Svalbard - Svalbarde  
-Swahili - suahili  
+Swahili - svahili  
 swallow - gula  
 swastika (hooked cross) - hukokrus  
 sweat (perspiration) - suede  

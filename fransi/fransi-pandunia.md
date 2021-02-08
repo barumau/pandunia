@@ -8,6 +8,7 @@ abricot - barkoke
 acacia faux-gommier - helisbabul  
 acarien - akar  
 accent - aksente  
+accomplir (terminer) - purfina  
 accord - samrayia  
 accès - akses  
 acheter - xopa  
@@ -117,7 +118,7 @@ avec - ya
 aventure - ventur  
 aventurier - venturer  
 avoir - tena  
-avoir besoin de - yava  
+avoir besoin de - yavu  
 avoir tendance à - iva  
 axe - akse  
 azur - lazuri  
@@ -304,7 +305,8 @@ considérer - hema
 construire - bina  
 consultant (conseiller) - konseler  
 conteneur - kontener  
-continu (analogique) - kontini  
+continu (analogique) - zoki  
+continuer (poursuivre) - zoka  
 contract (traité) - trate  
 convention (alliance, pacte) - kontrate  
 copie - kope  
@@ -410,7 +412,7 @@ en arrière - retro
 en avant - jino  
 en ligne - va linye  
 enclume - metalbede  
-encore - yexo  
+encore - zoko  
 enfant - bace  
 enseigner - xulana  
 enterrer - gabra  
@@ -447,6 +449,7 @@ feu d’artifice - hogotehne
 fier - yavxina  
 fil - korde  
 fils ou fille - pute  
+fini - fini  
 fiord - fiorde  
 fleur - ful  
 flèche - flece  
@@ -504,6 +507,7 @@ généreux - karimi
 générosité (charité) - karimia  
 géologie - gevlojia  
 géométrie - gevmetria  
+géopolitique - gevpolitike  
 géothermique - gevtermi  
 ####H - H  
 habiller (vêtir) - fuka  
@@ -719,8 +723,8 @@ note - note
 nous - mome  
 nouveau - novi  
 nuage - mege  
-nécessaire - yaviti  
-nécessiteux (dans le besoin) - yavani  
+nécessaire - yavan  
+nécessiteux (dans le besoin) - yavi  
 néophyte - novike  
 ####O - O  
 objectif (cible) - dike  
@@ -905,6 +909,7 @@ qui - ki jan
 ####R - R  
 race - ras  
 racine - mul  
+rang - ode  
 rare - rari  
 raton laveur - vaxurse  
 rayon de miel - melvesponizde  
@@ -913,6 +918,7 @@ religion - din
 remplir - pura  
 renard - huley  
 repos - xante  
+reprendre - reyzoka  
 requin - xarke  
 reste - reste  
 retourner (revenir) - retru  
