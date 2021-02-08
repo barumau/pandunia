@@ -67,7 +67,7 @@ asle - начало (причина)
 aslameriki - инде́йский  
 asme - астма  
 aspirin - аспирин  
-astrobiwlojia - астробиология  
+astrobivlojia - астробиология  
 ate - действие (акт)  
 ater - деятель  
 ation - действие (акция)  
@@ -120,9 +120,9 @@ baskobol - баскетбол
 baton - штанга  
 batonkapse - клетка  
 batre - батарея  
-baw - сокровище (казна)  
-bawi - драгоценный  
-bawxeke - драгоценный камень  
+bav - сокровище (казна)  
+bavi - драгоценный  
+bavxeke - драгоценный камень  
 bax - язык  
 baxi jinse - род в грамматике  
 baze - основа (база,  фундамент)  
@@ -140,13 +140,13 @@ bete - свёкла
 bil - счёт  
 bina - строить  
 bir - пиво  
-biw - организм  
-biwi - органический  
-biwi jinse - биологический пол  
-biwcaniver - компост  
-biwlojia - биология  
-biwmutu - заквасить  
-biwsistem - биом  
+biv - организм  
+bivi - органический  
+bivi jinse - биологический пол  
+bivcaniver - компост  
+bivlojia - биология  
+bivmutu - заквасить  
+bivsistem - биом  
 biznes - предприятие (бизнес)  
 bode - тело  
 bokse - бокс  
@@ -217,17 +217,17 @@ dartube - воронка
 darjomute - развитие  
 date - данные  
 datobanke - база данных  
-dawban - табличка с названием улицы  
+davban - табличка с названием улицы  
 daydom - дворец (особняк)  
 dayhay - океан  
 daylasun - лук исполинский  
-daypaw - пушка  
+daypav - пушка  
 dayvaze - котёл  
 dayxeke - валун  
 defban - щит  
 defkaske - доспехи  
 den - день  
-dew - бог  
+dev - бог  
 dika - целиться  
 dike - цель  
 din - религия (вера)  
@@ -332,7 +332,7 @@ gabroxeke - надгробие
 gadogude - мул  
 Galia - Галлия  
 galaksia - галактика  
-gancaw - сено  
+gancav - сено  
 ganum - пшеница  
 garmomosim - лето  
 garmozon - тропик  
@@ -342,12 +342,12 @@ gazel - газель
 gazete - газета  
 gemer - игрок (геймер)  
 geta - получить  
-Gewia - Земля  
-gewgraf - карта  
-gewgrafia - картография  
-gewmetria - геометрия  
+Gevia - Земля  
+gevgraf - карта  
+gevgrafia - картография  
+gevmetria - геометрия  
 zemnici prizon - ублиет (подземная тюрьма)  
-gewtermi - геотерма́льный  
+gevtermi - геотерма́льный  
 gider - гид  
 gidobuke - путеводитель  
 gitar - гитара  
@@ -389,7 +389,7 @@ hay - море
 hayi - морской  
 hayalge - морские водоросли  
 hayamirer - адмирал  
-haycaw - морские травы  
+haycav - морские травы  
 hayful - морские анемоны  
 haygun - военно-морской флот  
 hayhiar - голотурия (морские огурц)  
@@ -399,8 +399,8 @@ hem - хм
 hema - думать  
 hemahe - палатка (шатёр)  
 Hesia - Гессен  
-hewan - животное  
-hewanparke - зоопарк  
+hevan - животное  
+hevanparke - зоопарк  
 hiar - огурец  
 hijabe - вуаль  
 hijenia - гигиена  
@@ -439,7 +439,7 @@ jagu - проснуться
 jamul - джамболан  
 janel - окно  
 jangle - лес (джунгли)  
-jawabe - ответ  
+javabe - ответ  
 jena - родить  
 jeni - сырой  
 jeni bax - родной язык  
@@ -462,7 +462,7 @@ Junguo - Китай
 Jupiter - Юпитер  
 jus - сок  
 justi - точный  
-justopawer - снайпер  
+justopaver - снайпер  
 ####K - K  
 ka - чем  
 ke - что  
@@ -531,7 +531,7 @@ kitabia - литература (словесность)
 kitabokan - библиотека  
 kitabomaxin - пишущая машинка  
 kitabominister - библиотекарь  
-kiwi\* - киви  
+kivi\* - киви  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimomute - изменение климата  
@@ -577,7 +577,7 @@ kuxa - положить  (уложить)
 kuxu - лежать  
 ####L - L  
 laje - мусор (дрянь)  
-lalbawxeke - рубин  
+lalbavxeke - рубин  
 lali - красный  
 lalolince - рыжая рысь  
 laloranje - мандарин  
@@ -590,7 +590,7 @@ lasun - чеснок
 late - сторона (бок)  
 lati - боковой (латеральный)  
 Latvia - Латвия  
-lawi - пожилой  
+lavi - пожилой  
 laya - приходить  
 layana - приносить  
 lazanye - лазанья  
@@ -631,7 +631,7 @@ longoduri - долгий (длительный)
 longoduro - долго  
 longopipre - перец длинный  
 lontre - выдра  
-lowa - протекать (просочиться)  
+lova - протекать (просочиться)  
 lugi - зелёный  
 lun - луна  
 luter - грабитель  
@@ -672,7 +672,7 @@ masmulsolful - топинамбу́р
 maste - мачта  
 mate - материя  
 matur - взрослый  
-maw - кошка  
+mav - кошка  
 maxforte - пополнение  
 maxime - максимум  
 mece - матч  
@@ -794,8 +794,8 @@ patike - пациент (больной)
 patojener - патоген  
 patolojia - патология  
 pauze - пауза  
-paw - пистолет  
-pawa - стрелять  
+pav - пистолет  
+pava - стрелять  
 pax - боль  
 paxi - болезненный  
 pay - пирог  
@@ -829,12 +829,12 @@ piprominte - мята перечная
 pis - ель  
 pize - пицца  
 plan - план  
-platogewiste - плоскоземелец  
+platogeviste - плоскоземелец  
 pliza - просить  
 plum - слива  
 polbaxi - многоязычный  
 polmaro - часто  
-polaw - плов  
+polav - плов  
 pontopin - компас  
 porey - лук-порей  
 porte - порт  
@@ -854,7 +854,7 @@ pura - заполнять
 puri - полный  
 purfityamiste - веган  
 purxipa - мариновать  
-putaworanje - грейпфрут  
+putavoranje - грейпфрут  
 ####Q - Q  
 ####R - R  
 rangarke - радуга  
@@ -964,7 +964,7 @@ sor - замок
 sori - запереть  
 sos - соус  
 sosis - колбаса (сосиска)  
-sowa - искать  
+sova - искать  
 suki - счастливый (радостный)  
 sundardaka - украсить  
 sundardake - украшение  
@@ -1015,7 +1015,7 @@ tirbaton - рычаг
 tirdar - отбойное течение  
 toca - касаться  
 tomate - помидор (томат)  
-towa - волочить  
+tova - волочить  
 trate - договор  
 truka - обмануть  
 truke - обман  
@@ -1064,13 +1064,13 @@ volu - хотеть
 vulve - вульва  
 vute - статья (предмет)  
 ####W - W  
-waw - вау!  
-waxa - мыть  
-waxmaxin - стиральная машина  
-waxurse - енот  
-waze - oasis  
-wenjoworanje - мандарин уншиу  
-westogoril - западная горилла  
+vav - вау!  
+vaxa - мыть  
+vaxmaxin - стиральная машина  
+vaxurse - енот  
+vaze - oasis  
+venjovoranje - мандарин уншиу  
+vestogoril - западная горилла  
 ####X - X  
 xalke - чешуя  
 xaman - шаман  
@@ -1081,7 +1081,7 @@ xanti - спокойный
 xarke - акула  
 xati - сто  
 xatan - Сатана  
-xawi - мало  
+xavi - мало  
 xaxu - шурша́ть  
 xef - шеф  
 xeke - камень (камешек)  
@@ -1098,10 +1098,10 @@ xixmanse - шашлык
 xofer - шофёр  
 xopa - покупать (купить)  
 xope - покупка (шоппинг)  
-xowa - доказать (демонстрировать)  
+xova - доказать (демонстрировать)  
 xukar - сахар  
 xukarbete - сахарная свёкла  
-xukarcaw - сахарный тростник  
+xukarcav - сахарный тростник  
 xukaroranje - апельсин  
 xul - урок (учение)  
 xula - учиться  
@@ -1118,12 +1118,12 @@ yamfite - овощ
 yamnide - голод  
 yasen - ясень  
 yatimdom - детский дом  
-yaw - нужда  
-yawu - нуждаться  
-yawan - нужный  
-yawxina - доверять (понадеяться)  
-yawxinabli - верный  
-yawxinablia - верность  
+yav - нужда  
+yava - нуждаться  
+yaviti - нужный  
+yavxina - доверять (понадеяться)  
+yavxinabli - верный  
+yavxinablia - верность  
 Yemen - Йемен  
 Yesus - Иисус  
 yexo - ещё  
@@ -1140,7 +1140,7 @@ zarduxiste - зороастризм
 zebre - зебра  
 zeyil - бородавка  
 zeze - двукрылое  
-Zimbabwe - Зимбабве  
+Zimbabve - Зимбабве  
 zinje - имбирь  
 zinke - цинк  
 zir - тмин  

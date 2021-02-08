@@ -62,7 +62,7 @@ amir - ordono
 amira - ordoni  
 amper - ampero  
 ani - mala  
-andewiste - ateisto  
+andeviste - ateisto  
 andiniste - malkredulo  
 andoste - malamiko  
 anjama - disigi  
@@ -114,7 +114,7 @@ Australia - Aŭstralio
 automoti - memmova  
 avar - damaĝo  
 avarani - damaĝa  
-awakate - avokado  
+avakate - avokado  
 ay - aj (alas)  
 ####B - B  
 babe - ĉapitro  
@@ -124,7 +124,7 @@ bada - sekvi
 bade - sekvo  
 badi - sekva  
 badodeno - morgaŭ  
-badawi - beduino (nomado)  
+badavi - beduino (nomado)  
 badla - interŝanĝi  
 bagaje - pakaĵo  
 bagre - tigro  
@@ -169,8 +169,8 @@ bate - anaso
 baton - stango  
 batonkapse - kaĝo  
 batre - baterio (pilo)  
-baw - trezoro  
-bawxeke - juvelo  
+bav - trezoro  
+bavxeke - juvelo  
 bax - lingvo  
 baxa - paroli (komuniki)  
 baxkanun - gramatiko  
@@ -209,9 +209,9 @@ bir - biero
 birkan - drinkejo  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
-biw - organismo  
-biwi - orgaaninen (biologinen)  
-biwlojia - biologio  
+biv - organismo  
+bivi - orgaaninen (biologinen)  
+bivlojia - biologio  
 bixu - devi  
 bizari - stranga  
 biznes - negoco  
@@ -288,7 +288,7 @@ cape - presaĵo
 cari - kvar (4)  
 caryom - ĵaŭdo  
 cate - tekto  
-caw - herbo  
+cav - herbo  
 cay - teo  
 ceka - kontroli  
 cel - ĉelo  
@@ -341,14 +341,14 @@ darjomute - disvolvi
 date - datumo  
 datobanke - datumbanko  
 datotable - tabelo  
-daw - vojo  
+dav - vojo  
 dayi - granda  
 dayanjiler - ambasadoro  
 dayanjilkan - ambasado  
 daydom - palaco  
 dayhay - oceano  
-daypaw - kanono  
-daypawer - kanonisto  
+daypav - kanono  
+daypaver - kanonisto  
 daysite - urbego  
 dayxeke - ŝtonego  
 deci\* - dekono  
@@ -370,11 +370,11 @@ desi - dek (10)
 deskili - dek miloj  
 desen - desegno  
 detal - detalo  
-dew - dio  
-dewi - dia  
-dewkratia - teokratio  
-dewlojia - teologio  
-dewsage - mito  
+dev - dio  
+devi - dia  
+devkratia - teokratio  
+devlojia - teologio  
+devsage - mito  
 dex - lando  
 dika - celi  
 dike - celo  
@@ -403,7 +403,7 @@ doste - amiko
 dosti - amika (bonkora)  
 dostia - amikeco  
 dotor - doktoro  
-dow - fabo aŭ pizo  
+dov - fabo aŭ pizo  
 dox - kulpo  
 doxi - kulpa  
 doze - porcio (dozo)  
@@ -425,8 +425,8 @@ dur - daŭro
 dura - daŭrigi  
 duru - daŭri (dum)  
 dute - dubo  
-duwa - preĝi  
-duwe - preĝo  
+duva - preĝi  
+duve - preĝo  
 dux - duŝo  
 ####E - E  
 e - kaj  
@@ -593,7 +593,7 @@ gama - edzigi
 gamia - geedzeco  
 gamel - kamelo  
 gani - seka  
-ganputaw - sekvinbero  
+ganputav - sekvinbero  
 Ganga - Gangoj  
 ganje - kanabo  
 ganum - tritiko  
@@ -607,7 +607,7 @@ garmomosim - somero
 gas - gaso  
 gati - malmola  
 gatomate - solido  
-gawi - alta  
+gavi - alta  
 gaze - gazo  
 gazel - gazelo  
 gazete - gazeto (revuo)  
@@ -616,8 +616,8 @@ gema - ludi
 gemer - ludanto  
 germanem - germaniumo  
 geta - akiri (ricevi, preni)  
-gewmetria - geometrio  
-gewsisme - tertremo  
+gevmetria - geometrio  
+gevsisme - tertremo  
 geyi - samseksema  
 gida - gvidi  
 gitar - gitaro  
@@ -685,8 +685,8 @@ hata - ĝis
 hato - eĉ  
 hatre - danĝero  
 hatri - danĝera  
-haw - vento  
-hawa - venti  
+hav - vento  
+hava - venti  
 hay - maro  
 hayi - mara  
 hayamirer - admiralo (ŝiparestro)  
@@ -702,8 +702,8 @@ hema - pripensi (rigardi ia)
 hemahe - tendo  
 hen - malamo  
 hesem - hasio  
-hewan - besto  
-hewanparke - zoo (bestoĝardeno)  
+hevan - besto  
+hevanparke - zoo (bestoĝardeno)  
 hiar - kukumo  
 hibride - miksulo  
 hidre - hidrogeno  
@@ -784,8 +784,8 @@ janel - fenestro
 janelfrem - fenestrokadro  
 janger - metiisto  
 jangle - arbaro  
-jawaba - respondi  
-jawabe - respondo  
+javaba - respondi  
+javabe - respondo  
 jebe - poŝo  
 jeinistia - Ĝajnismo  
 jel - ĝelo  
@@ -808,7 +808,7 @@ jovani man - knabo
 jovania - juneco  
 jude - juĝo  
 juder - juĝisto  
-judaw - ĵudo  
+judav - ĵudo  
 jul - ĵulo (J)  
 jung - centro  
 jungofon - vokalo  
@@ -832,13 +832,14 @@ kafe\* - kafo
 kafekan - kafejo  
 kafekupe - kaftaso  
 kaguje - papero  
-kakaw - kakao  
+kakav - kakao  
 kake - feko  
 kalam - plumo  
 kalem - kalio  
 kalende - kalendaro  
 kali - malplena  
 kalifornem - kaliforniumo  
+Kalifornia - Kalifornio  
 kalsem - kalcio  
 kalsite - kalcito  
 kalsokristal - marmoro  
@@ -881,7 +882,7 @@ katan - glavo
 katus - kaktuso  
 kava - fosi  
 kave - foso  
-kawayi - ĉarma  
+kavayi - ĉarma  
 kaya - malfermi  
 kayi - malferma  
 kayu - malfermiĝi  
@@ -909,7 +910,7 @@ kitabe - skribo
 kitabia - literaturo  
 kitabokan - librejo  
 kitabomaxin - tajpilo  
-kiwi\* - kivo  
+kivi\* - kivo  
 klara - klarigi  
 klari - klara  
 klaro - kompreneble  
@@ -986,7 +987,7 @@ le - li aŭ ŝi aŭ ĝi
 lole - ili  
 labe - lipo  
 laje - rubo  
-lalbawxeke - rubeno  
+lalbavxeke - rubeno  
 lali - ruĝa  
 laloranje - mandarino  
 lampe - lampo  
@@ -1005,7 +1006,7 @@ lenti - malrapida
 lenxa - ekzerci  
 lenxe - ekzerco  
 letis - laktuko  
-lewo - jam (esti farita)  
+levo - jam (esti farita)  
 leze - piro  
 libel - libelo  
 liga - aligi  
@@ -1039,8 +1040,8 @@ loke - loko
 loki - loka  
 longa - longigi  
 longi - longa  
-lowa - liki  
-lowa sang - sangi  
+lova - liki  
+lova sang - sangi  
 lugi - verda  
 lul - perlo  
 lun - luno  
@@ -1086,7 +1087,7 @@ matur - plenaĝa
 maturi - matura (plenkreska)  
 maturi fem - virino  
 maturi man - viro  
-maw - kato  
+mav - kato  
 max - pli  
 max ka bas - tro  
 maxo - ankaŭ  
@@ -1189,7 +1190,7 @@ namloge - substantivo
 nanas - ananaso  
 nasmedi - internacia  
 natrem - natrio  
-nawati - naūatla  
+navati - naūatla  
 nefre - reno  
 nen - jaro  
 nenmesden - dato  
@@ -1289,7 +1290,7 @@ pati - malsana
 patike - paciento  
 patolojia - patologio  
 patate - terpomo  
-paw - fusilo  
+pav - fusilo  
 pay - torto  
 pede - furzo  
 pedal - pedalo  
@@ -1363,7 +1364,7 @@ puri - plena
 puro - plene  
 purani - malnova  
 pute - ido (infano)  
-putaw - vinbero  
+putav - vinbero  
 Putong Cini - mandarinĉina  
 putongi - generala (universala)  
 ####Q - Q  
@@ -1547,7 +1548,7 @@ suy - akvo
 suygas - vaporo  
 suyi - akva  
 suynide - soifo  
-swahili - sŭahili  
+suahili - sŭahili  
 ####T - T  
 ta - al (ĝis, por)  
 te - vi (ci)  
@@ -1607,10 +1608,10 @@ ton - tono
 tope - ĉapelo  
 torem - torio  
 torse - torso  
-towa - treni  
-towal - viŝilo  
+tova - treni  
+toval - viŝilo  
 tren - trajno (vagonaro)  
-trendaw - fervojo  
+trendav - fervojo  
 tribe - tribo  
 tube - tubo  
 tuha - sputi  
@@ -1665,19 +1666,19 @@ vol - volo
 volu - voli  
 vulve - vulvo  
 ####W - W  
-wan - amuzo  
-wana - amuzi  
-wani - amuza  
-warkolate - paĝo  
-wate - vato  
-waw - ŭaŭ!  
-waxa - lavi  
-waxmaxin - lavmaŝino  
-waze - oazo  
-wike - vikia artikulo  
-wil - estonoteco  
-wilo - estonte  
-wolfe - lupo  
+van - amuzo  
+vana - amuzi  
+vani - amuza  
+varkolate - paĝo  
+vate - vato  
+vav - ŭaŭ!  
+vaxa - lavi  
+vaxmaxin - lavmaŝino  
+vaze - oazo  
+vike - vikia artikulo  
+vil - estonoteco  
+vilo - estonte  
+volfe - lupo  
 ####X - X  
 xake - branĉo  
 xal - koltuko  
@@ -1693,7 +1694,7 @@ xarte - kondiĉo (postulo)
 xati - cent  
 xatan - diablo (Satano)  
 xatranje - ŝako  
-xawi - malmulte  
+xavi - malmulte  
 xef - estro (ĉefulo)  
 xefi minister - ĉefministro  
 xeke - ŝtono  
@@ -1714,7 +1715,7 @@ xofa - konduki
 xofer - ŝoforo (kondukisto)  
 xopa - aĉeti  
 xoper - aĉetanto (aĉetisto)  
-xow - montri (ekspozicii)  
+xov - montri (ekspozicii)  
 xudu - devus  
 xukar - sukero  
 xul - leciono  
@@ -1737,7 +1738,7 @@ yamfite - legomo
 yamkamar - manĝoĉambro  
 yamnide - malsato  
 yang - speco (tipo, stilo)  
-yawu - bezoni  
+yava - bezoni  
 Yemen - Jemeno  
 Yesus - Jesuo  
 yexo - ankoraŭ  

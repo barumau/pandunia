@@ -107,7 +107,7 @@ asli - originel
 aslameriki - amérindien (indien)  
 asme - asthme  
 aspirin - aspirine  
-astrobiwlojia - astrobiologie  
+astrobivlojia - astrobiologie  
 ate - acte  
 ater - agent (faiseur)  
 ation - action  
@@ -165,8 +165,8 @@ baskobol - basketball
 baton - bâton (canne, tige)  
 batonkapse - cage  
 batre - pile (batterie)  
-bawi - précieux  
-bawxeke - pierre précieuse (joyau)  
+bavi - précieux  
+bavxeke - pierre précieuse (joyau)  
 bax - langue  
 baxi jinse - genre grammatical  
 bay - baie  
@@ -184,11 +184,11 @@ berje - bouleau
 bete - betterave  
 bina - construire  
 bir - bière  
-biw - organisme  
-biwcaniver - compost  
-biwlojia - biologie  
-biwmutu - fermenter  
-biwsistem - biome  
+biv - organisme  
+bivcaniver - compost  
+bivlojia - biologie  
+bivmutu - fermenter  
+bivsistem - biome  
 bode - corps  
 bokse - boxe  
 bokser - boxeur  
@@ -251,17 +251,17 @@ dartube - entonnoir
 darjomute - développement  
 date - données  
 datobanke - base de données  
-dawban - panneau de signalisation  
+davban - panneau de signalisation  
 daydom - palais (château, manoir)  
 dayhay - océan  
-daypaw - canon  
+daypav - canon  
 dayvaze - chaudron  
 dayxeke - rocher  
 debili - faible  
 defban - bouclire  
 defkaske - armure  
 den - jour  
-dew - dieu  
+dev - dieu  
 dika - viser  
 dike - objectif (cible)  
 din - religion  
@@ -375,24 +375,24 @@ galte - faute (erreur)
 galti - erroné  
 gamia - mariage  
 gamike - époux  
-gancaw - foin  
+gancav - foin  
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
 gas - gaz  
 gati - dur  
-gaw - haut  
+gav - haut  
 gazel - gazelle  
 Germania - Germanie  
-Gewia - Terre  
-gewforme - terrain  
-gewgraf - carte  
-gewgrafia - cartographie (geographie)  
-gewkaski plate - plaque tectonique  
-gewlojia - géologie  
-gewmetria - géométrie  
+Gevia - Terre  
+gevforme - terrain  
+gevgraf - carte  
+gevgrafia - cartographie (geographie)  
+gevkaski plate - plaque tectonique  
+gevlojia - géologie  
+gevmetria - géométrie  
 zemnici prizon - oubliette (cul de basse-fosse)  
-gewtermi - géothermique  
+gevtermi - géothermique  
 gida - guider  
 gider - guide  
 gidobuke - guide touristique  
@@ -432,7 +432,7 @@ hatre - danger
 hay - mer  
 hayalge - algues  
 hayamirer - amiral  
-haycaw - posidonie (herbiers marins)  
+haycav - posidonie (herbiers marins)  
 haygun - force navale (marine)  
 hayhiar - concombre de mer  
 hayjel - méduse  
@@ -444,9 +444,9 @@ hema - considérer
 hemahe - tente  
 hen - haine  
 Hesia - Hesse  
-hewan - animal (bête)  
-hewanjenisia - élevage  
-hewanparke - zoo  
+hevan - animal (bête)  
+hevanjenisia - élevage  
+hevanparke - zoo  
 hiar - concombre  
 hijabe - voile  
 hijenia - hygiène  
@@ -486,7 +486,7 @@ jamul - prune de Java
 jan - personne (gente)  
 janel - fenêtre  
 jangle - forêt (jungle)  
-jawabe - réponse  
+javabe - réponse  
 Jayeria - Algérie  
 jeinistia - jaïnisme  
 jeka - prêter (empruntre)  
@@ -580,7 +580,7 @@ kitabe - écriture
 kitabia - littérature  
 kitabokan - bibliothèque  
 kitabomaxin - machine à écrire  
-kiwi\* - kiwi  
+kivi\* - kiwi  
 klari - clair  
 klien - client  
 klimomute - changement climatique  
@@ -624,7 +624,7 @@ kuxu - être couché
 ####L - L  
 lage - lac  
 laje - ordures  
-lalbawxeke - rubis  
+lalbavxeke - rubis  
 lali - rouge  
 laloranje - mandarine  
 lalsalmon - saumon sockeye  
@@ -638,7 +638,7 @@ lasun - ail
 late - côté  
 lati - latéral  
 Latvia - Lettonie  
-lawi - vieux (âgé, ancien)  
+lavi - vieux (âgé, ancien)  
 laxa - laisser  
 laya - venir  
 layana - apporter  
@@ -722,7 +722,7 @@ masmulsolful - topinambour
 maste - mât  
 mate - matière  
 matur - adulte  
-maw - chat  
+mav - chat  
 max - plus  
 maxime - maximum  
 mece - match  
@@ -848,7 +848,7 @@ patike - patient
 patojener - agent pathogène  
 patolojia - pathologie  
 pauze - pause  
-paw - pistolet  
+pav - pistolet  
 pay - tarte  
 peda - péter  
 pede - pet (vesse)  
@@ -878,9 +878,9 @@ piratia - piraterie
 pis - Épicéa  
 pize - pizza  
 plan - plan  
-plati gewkaskia - tectonique des plaques  
+plati gevkaskia - tectonique des plaques  
 platistan - plaine  
-platogewiste - terreplatiste  
+platogeviste - terreplatiste  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 porey - poireau  
@@ -904,7 +904,7 @@ puri - plein
 purbona - perfectionner (parfaire)  
 purxipa - tremper (faire mariner)  
 pute - fils ou fille  
-putaworanje - pamplemousse  
+putavoranje - pamplemousse  
 ####Q - Q  
 ####R - R  
 rang - couleur  
@@ -1012,7 +1012,7 @@ sonu - dormir
 sor - serrure  
 sos - sauce  
 sosis - saucisse  
-sowa - chercher  
+sova - chercher  
 suede - sueur  
 suki - heureux  
 sundari - beau  
@@ -1056,7 +1056,7 @@ tira milke - tirer
 tira pil - écorce  
 toca - toucher  
 tomate - tomate  
-towa - traîner  
+tova - traîner  
 trate - contract (traité)  
 truka - escroquer  
 truke - ruse  
@@ -1108,11 +1108,11 @@ volu - vouloir
 vulve - vulve  
 vute - objet (article)  
 ####W - W  
-warkalge - varech  
-warkolate - page  
-waxurse - raton laveur  
-wenjoworanje - mandarine satsuma  
-wolfe - loup  
+varkalge - varech  
+varkolate - page  
+vaxurse - raton laveur  
+venjovoranje - mandarine satsuma  
+volfe - loup  
 Wolof - wolof  
 ####X - X  
 xalke - échelle  
@@ -1122,7 +1122,7 @@ xante - repos
 xanti - calme (tranquille)  
 xarke - requin  
 xatan - Satan  
-xawi - peu  
+xavi - peu  
 xef - chef  
 xeke - pierre  
 xey - chose  
@@ -1141,7 +1141,7 @@ xopa - acheter
 xope - shopping  
 xukar - sucre  
 xukarbete - betterave à sucre (betterave sucrière)  
-xukarcaw - Canne à sucre  
+xukarcav - Canne à sucre  
 xukaroranje - orange douce  
 xul - leçon  
 xula - apprendre (étudier)  
@@ -1160,11 +1160,11 @@ yamfite - légume
 yamnide - faim  
 yasen - frêne  
 yatimdom - orphelinat  
-yaw - besoin  
-yawi - nécessiteux (dans le besoin)  
-yawu - avoir besoin de  
-yawan - nécessaire  
-yawxina - fier  
+yav - besoin  
+yavani - nécessiteux (dans le besoin)  
+yava - avoir besoin de  
+yaviti - nécessaire  
+yavxina - fier  
 Yesus - Jésus  
 yexo - encore  
 yoke - joug  

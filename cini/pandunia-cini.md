@@ -66,7 +66,7 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
-astrobiwlojia - 太空生物学  
+astrobivlojia - 太空生物学  
 ate - 作为 (行为)  
 ation - 行动  
 ativi - 活性  
@@ -112,8 +112,8 @@ basi - 够
 baskobol - 篮球  
 batonkapse - 笼  
 batre - 电池  
-bawi - 宝贵  
-bawxeke - 宝石  
+bavi - 宝贵  
+bavxeke - 宝石  
 bax - 语言  
 baxi jinse - 文法的性  
 baxlojia - 语言学  
@@ -131,11 +131,11 @@ bete - 甜菜頭
 bil - 帐单  
 bina - 建设  
 bir - 啤酒  
-biw - 生物  
-biwi jinse - 生物性別  
-biwlojia - 生物学  
-biwmutu - 发酵  
-biwsistem - 生物群系  
+biv - 生物  
+bivi jinse - 生物性別  
+bivlojia - 生物学  
+bivmutu - 发酵  
+bivsistem - 生物群系  
 bode - 身体  
 bokse - 拳击  
 bokser - 拳击手  
@@ -201,14 +201,14 @@ datobanke - 数据库
 datotable - 表格  
 daydom - 殿 (宫殿, 宅第)  
 dayhay - 大洋 (大海)  
-daypaw - 大炮  
+daypav - 大炮  
 dayvaze - 炼药锅  
 dayxeke - 磐石  
 debili - 虚弱 (易坏)  
 defban - 盾牌  
 defkaske - 盔甲  
 den - 白天  
-dew - 神  
+dev - 神  
 dexojan - 公民  
 dika - 瞄准  
 dike - 目的 (目标)  
@@ -295,7 +295,7 @@ gadogude - 骡
 Galia - 高卢  
 galaksia - 恆星系  
 galte - 错误  
-gancaw - 干草  
+gancav - 干草  
 ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
@@ -303,11 +303,11 @@ gati - 硬
 gatomate - 固体  
 genca - 检查  
 geta - 获得  
-gewforme - 地势  
-gewgraf - 地图  
-gewgrafia - 地图学 (地理)  
-gewmetria - 几何学  
-gewtermi - 地热的  
+gevforme - 地势  
+gevgraf - 地图  
+gevgrafia - 地图学 (地理)  
+gevmetria - 几何学  
+gevtermi - 地热的  
 gida - 导游  
 gider - 导游  
 gidobuke - 指南  
@@ -324,7 +324,7 @@ grafsage - 漫画
 granite - 花岗石  
 grave - 砾石  
 grimas - 鬼脸  
-Guangjow - 广州  
+Guangjov - 广州  
 guke - 菊花  
 gun - 军队  
 gunjan - 军人  
@@ -347,7 +347,7 @@ hatre - 危险
 hay - 海  
 hayalge - 海藻  
 hayamirer - 海军上将  
-haycaw - 海草  
+haycav - 海草  
 hayful - 海葵  
 haygun - 海军  
 hayhiar - 海參  
@@ -360,8 +360,8 @@ helpa - 帮助
 hema - 深思 (考虑)  
 hemahe - 帐篷  
 Hesia - 黑森  
-hewan - 动物  
-hewanparke - 动物园  
+hevan - 动物  
+hevanparke - 动物园  
 hiar - 黄瓜  
 hijabe - 面纱  
 Hindia - 印度斯坦  
@@ -400,7 +400,7 @@ janel - 窗戶
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
 jangle - 森林  
-jawabe - 回答  
+javabe - 回答  
 jeka - 借  
 jekodona - 借出  
 jekogeta - 借入  
@@ -486,7 +486,7 @@ kitaba - 写
 kitabia - 文学  
 kitabokan - 图书馆  
 kitabomaxin - 打字机  
-kiwi\* - 奇异果  
+kivi\* - 奇异果  
 klien - 顾客  
 klimomute - 气候变化  
 komputer - 计算机  
@@ -525,7 +525,7 @@ le - 他，她，它
 lole - 他们  
 lage - 湖  
 laje - 废物 (垃圾)  
-lalbawxeke - 红宝石  
+lalbavxeke - 红宝石  
 lali - 红  
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
@@ -540,7 +540,7 @@ lantanem - 鑭
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 Latvia - 拉脱维亚  
-lawi - 老 (老年, 年歲大)  
+lavi - 老 (老年, 年歲大)  
 laxa - 落 (留下)  
 laya - 来  
 layana - 带来  
@@ -581,7 +581,7 @@ longi - 长
 longoduro - 久  
 longopipre - 荜拔  
 lontre - 獭  
-lowa - 漏  
+lova - 漏  
 lugi - 绿色  
 lung - 龙  
 luta - 掠夺  
@@ -615,7 +615,7 @@ mate - 物质
 matur - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
-maw - 猫  
+mav - 猫  
 maxforte - 加固  
 maxim (maximo) - 最  
 mece - 比赛  
@@ -723,7 +723,7 @@ pastopetre - 岩漿
 patike - 患者 (病患)  
 patojener - 病原体  
 patolojia - 病理学  
-paw - 手枪  
+pav - 手枪  
 pax - 疼痛  
 pay - 馅饼  
 peda - 放屁  
@@ -748,7 +748,7 @@ pinkardon - 大翅蓟
 pipre - 胡椒  
 piprominte - 辣薄荷  
 pis - 云杉  
-plati gewkaskia - 板块构造论  
+plati gevkaskia - 板块构造论  
 platistan - 平原  
 pliza - 请  
 plum - 李子  
@@ -767,7 +767,7 @@ pul - 桥
 puma\* - 美洲獅 (山狮)  
 purfityamiste - 纯素食主义者  
 purxipa - 浸泡  
-putaworanje - 葡萄柚  
+putavoranje - 葡萄柚  
 putongi - 普通  
 ####Q - Q  
 ####R - R  
@@ -860,7 +860,7 @@ sonpapil - 鴉片罌粟
 sonu - 睡觉 (困觉)  
 sor - 锁  
 sosis - 香肠  
-sowa - 寻找  
+sova - 寻找  
 suki - 高兴  
 sundardake - 装饰  
 sundari - 漂亮 (美)  
@@ -907,7 +907,7 @@ tira pil - 削 (刮去)
 tirbaton - 杆  
 toca - 接触  
 tomate - 西红柿  
-towa - 拖  
+tova - 拖  
 trate - 合同 (合约)  
 truka - 耍花招  
 truke - 伎俩  
@@ -945,20 +945,20 @@ volu - 想要 (愿意)
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ####W - W  
-wan - 娱乐  
-wanu - 玩耍  
-waxurse - 浣熊  
-waze - оазис  
-Wenjow - 温州  
-wenjoworanje - 温州蜜柑  
-wijin - 味精  
+van - 娱乐  
+vanu - 玩耍  
+vaxurse - 浣熊  
+vaze - оазис  
+Wenjov - 温州  
+venjovoranje - 温州蜜柑  
+vijin - 味精  
 ####X - X  
 xalke - 鳞  
 xam - 晚上  
 Xanghay - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 撒但  
-xawi - 少  
+xavi - 少  
 xeke - 石 (岩)  
 xey - 事物 (东西)  
 xeyhal - 事态  
@@ -978,7 +978,7 @@ xofer - 司机
 xopa - 买  
 xope - 购物 (血拼)  
 xukar - 糖  
-xukarcaw - 甘蔗  
+xukarcav - 甘蔗  
 xul - 课  
 xula - 学习  
 xulia - 教育  
@@ -998,10 +998,10 @@ yamfite - 蔬菜
 yamnide - 饥饿  
 yasen - 白蜡树  
 yatimdom - 孤儿院  
-yawu - 需要  
-yawan - 必要的  
-yawxina - 信赖  
-yawxinabli - 忠实  
+yava - 需要  
+yaviti - 必要的  
+yavxina - 信赖  
+yavxinabli - 忠实  
 yexo - 还 (依然)  
 yoge - 瑜伽功  
 yoke - 轭  

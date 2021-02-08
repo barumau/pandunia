@@ -65,7 +65,7 @@ Andes - Andes
 andésite - andesite  
 anglophone - englofoni  
 Angola - Angola  
-animal (bête) - hewan  
+animal (bête) - hevan  
 animation - anim  
 animer - anima  
 anneau - ring  
@@ -104,7 +104,7 @@ Asie - asia
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
-astrobiologie - astrobiwlojia  
+astrobiologie - astrobivlojia  
 atchoum - acu\*  
 Athènes - Atina  
 attaquer (agresser) - agresa  
@@ -117,7 +117,7 @@ avec - ya
 aventure - ventur  
 aventurier - venturer  
 avoir - tena  
-avoir besoin de - yawu  
+avoir besoin de - yava  
 avoir tendance à - iva  
 axe - akse  
 azur - lazuri  
@@ -154,15 +154,15 @@ bassin - basen
 bateau - bote  
 beau - sundari  
 beauté - sundaria  
-besoin - yaw  
+besoin - yav  
 betterave - bete  
 betterave à sucre (betterave sucrière) - xukarbete  
 bibliothèque - kitabokan  
 bicyclette - sikle  
 bilingue - dulbaxi  
 billet - tikete  
-biologie - biwlojia  
-biome - biwsistem  
+biologie - bivlojia  
+biome - bivsistem  
 bière - bir  
 blanc - baki  
 blettes (bettes) - selge  
@@ -216,8 +216,8 @@ Camomille Romaine - rom.kamil:
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa\*  
-Canne à sucre - xukarcaw  
-canon - daypaw  
+Canne à sucre - xukarcav  
+canon - daypav  
 canoë - kano  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanion  
@@ -229,10 +229,10 @@ cardon - kardonkarcof
 carotte - karote  
 carreau (tuile) - tail  
 carrière - peykari jive  
-carte - gewgraf  
+carte - gevgraf  
 carte - karde  
 carte à collectionner -   
-cartographie (geographie) - gewgrafia  
+cartographie (geographie) - gevgrafia  
 Centaurée - centaur  
 Centaurée bleuet - nilcentaur  
 Centaurée du solstice - solsentaur  
@@ -253,14 +253,14 @@ chardon Marie - milkokardon
 chardon penché - pendokardon  
 charme - carme  
 chasser - saida  
-chat - maw  
+chat - mav  
 chaudron - dayvaze  
 chauve-souris - feymux  
 chaux - kalsomate  
 chef - xef  
 chemise - kamis  
 cher - luvi  
-chercher - sowa  
+chercher - sova  
 chimie - kimlojia  
 Chine - Junguo  
 chocolat - cokolate  
@@ -291,7 +291,7 @@ commercer - vendoxopa
 compassion - samemos  
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
-compost - biwcaniver  
+compost - bivcaniver  
 compote de pommes - apelsos  
 comprendre (réaliser) - aha  
 concert - konserte  
@@ -364,7 +364,7 @@ dessous - nice
 destin - cenamen  
 deux (2) - duli  
 diamant - almas  
-dieu - dew  
+dieu - dev  
 dimanche - setyom  
 dinde (dindon) - dinde  
 diorite - diorite  
@@ -441,16 +441,16 @@ favori (préféré) - favori
 favoritisme - favoristia  
 fente (fissure, fêlure) - krake  
 fenêtre - janel  
-fermenter - biwmutu  
+fermenter - bivmutu  
 feu - hoge  
 feu d’artifice - hogotehne  
-fier - yawxina  
+fier - yavxina  
 fil - korde  
 fils ou fille - pute  
 fiord - fiorde  
 fleur - ful  
 flèche - flece  
-foin - gancaw  
+foin - gancav  
 fois - mar  
 fondu - yongosaha  
 football - futobol  
@@ -502,14 +502,14 @@ génotype - jenotipe
 généreux - donivi  
 généreux - karimi  
 générosité (charité) - karimia  
-géologie - gewlojia  
-géométrie - gewmetria  
-géothermique - gewtermi  
+géologie - gevlojia  
+géométrie - gevmetria  
+géothermique - gevtermi  
 ####H - H  
 habiller (vêtir) - fuka  
 haine - hen  
 hameçon - pexohuke  
-haut - gaw  
+haut - gav  
 Hesse - Hesia  
 heure - hor  
 heureux - suki  
@@ -565,7 +565,7 @@ Jésus - Yesus
 kangourou - kangaru\*  
 Khartoum - Hartum  
 Kinshasa - Kinxasa  
-kiwi - kiwi\*  
+kiwi - kivi\*  
 kumquat - kankuate  
 ####L - L  
 lac - lage  
@@ -607,7 +607,7 @@ loin - longo
 long - longi  
 longtemps - longoduro  
 loquace - logivi  
-loup - wolfe  
+loup - volfe  
 lourd - bari  
 loutre - lontre  
 lumière - fote  
@@ -631,7 +631,7 @@ maison - dom
 malédiccion - lan  
 manche - kamisi xake  
 mandarine - laloranje  
-mandarine satsuma - wenjoworanje  
+mandarine satsuma - venjovoranje  
 manichéisme - manihayistia  
 mantra - mantre  
 marbre - kalsokristal  
@@ -719,8 +719,8 @@ note - note
 nous - mome  
 nouveau - novi  
 nuage - mege  
-nécessaire - yawan  
-nécessiteux (dans le besoin) - yawi  
+nécessaire - yaviti  
+nécessiteux (dans le besoin) - yavani  
 néophyte - novike  
 ####O - O  
 objectif (cible) - dike  
@@ -751,7 +751,7 @@ ordinateur tablette - tablokomputer
 ordre - ratibe  
 ordures - laje  
 oreille - or  
-organisme - biw  
+organisme - biv  
 origine - asle  
 originel - asli  
 orphelinat - yatimdom  
@@ -766,15 +766,15 @@ oxyde - okside
 où - va ke  
 ####P - P  
 pacifiste - paciste  
-page - warkolate  
+page - varkolate  
 pain - pang  
 pair (pareil, egal) - pari  
 paix - pace  
 palais (château, manoir) - daydom  
-pamplemousse - putaworanje  
+pamplemousse - putavoranje  
 panda - pande  
 pandémie - pandemi patia  
-panneau de signalisation - dawban  
+panneau de signalisation - davban  
 pantalon - pante  
 pantoufle (babouche) - babuce  
 papaye - papay  
@@ -810,14 +810,14 @@ perroquet - papagay
 personne (gente) - jan  
 pet (vesse) - pede  
 petit - lili  
-peu - xawi  
+peu - xavi  
 peut-être - ablo  
 phase - faze  
 philosophie - filsofia  
 photographie - fotograf  
 photographie - fotografia  
 pierre - xeke  
-pierre précieuse (joyau) - bawxeke  
+pierre précieuse (joyau) - bavxeke  
 pierre tombale - gabroxeke  
 pieu (poteau) - zong  
 pile (batterie) - batre  
@@ -825,7 +825,7 @@ piment - cili\*
 pioche - pincope  
 piquenique - eksoyam  
 piraterie - piratia  
-pistolet - paw  
+pistolet - pav  
 pizza - pize  
 pièce (chambre) - kamar  
 piège - kapotruke  
@@ -836,7 +836,7 @@ plan - plan
 planche - mokoban  
 plante (végétal) - fite  
 planter - poza  
-plaque tectonique - gewkaski plate  
+plaque tectonique - gevkaski plate  
 plein - puri  
 pluie - barxe  
 plume - kalam  
@@ -859,7 +859,7 @@ porte-bloc (planchette à pince) - pinsoban
 porter - fuki  
 Porto Rico - Portorikia  
 Portoricain - portoriki  
-posidonie (herbiers marins) - haycaw  
+posidonie (herbiers marins) - haycav  
 possible - abli  
 possédant (propriétaire) - malker  
 Poulpe (pieuvre) - balsenter  
@@ -884,7 +884,7 @@ promettre - voda
 propriété (possession, bien) - malke  
 prune - plum  
 prune de Java - jamul  
-précieux - bawi  
+précieux - bavi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruhlojia  
@@ -906,7 +906,7 @@ qui - ki jan
 race - ras  
 racine - mul  
 rare - rari  
-raton laveur - waxurse  
+raton laveur - vaxurse  
 rayon de miel - melvesponizde  
 rein - nefre  
 religion - din  
@@ -932,13 +932,13 @@ rosée - ros
 roue - cakre  
 rouge - lali  
 ruban (bande) - tepe  
-rubis - lalbawxeke  
+rubis - lalbavxeke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
 réparateur - reyboner  
 réparation - reybon  
 réparer - reybona  
-réponse - jawabe  
+réponse - javabe  
 répéter - reya  
 répétition - rey  
 rêche (rugueux, gros) - karsi  
@@ -1026,17 +1026,17 @@ taupe - krote
 taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
-tectonique des plaques - plati gewkaskia  
+tectonique des plaques - plati gevkaskia  
 temple - pujokan  
 temps (durée) - dur  
 tendance - ive  
 tender - eksotira  
 tentacule - senter  
 tente - hemahe  
-terrain - gewforme  
-Terre - Gewia  
+terrain - gevforme  
+Terre - Gevia  
 terre cuite - bekopote  
-terreplatiste - platogewiste  
+terreplatiste - platogeviste  
 terrorisme - teroristia  
 thé - cay  
 tige - tan  
@@ -1056,7 +1056,7 @@ traduction - tarje
 travail - kar  
 travailler - kara  
 travailleur (ouvrier) - karer  
-traîner - towa  
+traîner - tova  
 tremper (faire mariner) - purxipa  
 tribord - botoraite  
 trois (3) - san  
@@ -1087,7 +1087,7 @@ vallée (oued) - vade
 vampire - vampir  
 vampire des abysses - vampirbalsenter  
 vapeur d’eau - suygas  
-varech - warkalge  
+varech - varkalge  
 vase - vaze  
 vendre - venda  
 vendredi - limyom  
@@ -1103,7 +1103,7 @@ vert - lugi
 veuve - vidove  
 viande - manse  
 vie - jive  
-vieux (âgé, ancien) - lawi  
+vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
 ville - site  
 violet (pourpre) - violeti  
@@ -1135,7 +1135,7 @@ wolof - Wolof
 ####Z - Z  
 zombi - zombe  
 zone - zon  
-zoo - hewanparke  
+zoo - hevanparke  
 Zoroastre - Zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  
@@ -1156,7 +1156,7 @@ zèbre - zebre
 éducation - xulia  
 égal (même) - sami  
 électricité - eletre  
-élevage - hewanjenisia  
+élevage - hevanjenisia  
 élever - jenita  
 élément (unité fondamentale) - em  
 élément chimique - kimem  
