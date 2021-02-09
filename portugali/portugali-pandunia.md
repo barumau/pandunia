@@ -413,6 +413,7 @@ gato - mav
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
 gato-maracajá - margay  
 gelar - aisu  
+generalíssimo - gunrajer  
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
 genótipo - jenotipe  
@@ -624,7 +625,7 @@ necessidade - yav
 necessitado - yavi  
 necessitar - yavu  
 necessário - yavan  
-Netuno - Neptun  
+Netuno - Neputun  
 neurônio - neurcel  
 neve - him  
 nicho - nix  

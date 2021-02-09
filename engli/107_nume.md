@@ -1,5 +1,7 @@
 # Numerals
 
+## Cardinal numbers
+
 Quantity can be expressed with numerals and other quantity-words.
 They are put before the word or phrase that they qualify.
 
@@ -20,15 +22,6 @@ They are put before the word or phrase that they qualify.
 – two big chairs  
 **sani bon kurse**
 – three good chairs
-
-Ordinal numbers come after the word that they modify.
-
-**fen un**
-– the first part (part one)
-**fen duli**
-– the second part (part two)
-**fen sani**
-– the third part (part three)
 
 The basic number words are:
 
@@ -87,7 +80,44 @@ Fractions are formed with the help of
 – three quarters, ¾
 
 
-## Days of the week
+## Ordinal numbers
+
+Ordinal numbers are created with the suffix **-odi**.
+
+- **unodi**
+  – first
+- **dulodi**
+  – second
+- **sanodi**
+  – third
+- **carodi**
+  – fourth
+- **limodi**
+  – fifth
+- **sisodi**
+  – sixth
+- **setodi**
+  – seventh
+- **balodi**
+  – eighth
+- **navodi**
+  – ninth
+- **desodi**
+  – tenth
+
+They are placed before the modified noun like normal adjectives.
+
+**unodi fen**
+– the first part  
+**dulodi fen**
+– the second part  
+**sanodi fen**
+– the third part
+
+
+## Date and time
+
+#### Days of the week
 
 In naming the days of the week, a number indicating the day (starting from Monday) is followed by
 **yom**
@@ -95,17 +125,44 @@ which means the period of 24 hours.
 So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'three-day', etc.
 
 1. **unyom**
-   Monday
+   – Monday
 2. **dulyom**
-   Tuesday
+   – Tuesday
 3. **sanyom**
-   Wednesday
-4. **charyom**
-   Thursday
+   – Wednesday
+4. **caryom**
+   – Thursday
 5. **limyom**
-   Friday
+   – Friday
 6. **sisyom**
-   Saturday
+   – Saturday
 7. **setyom**
-   Sunday
+   – Sunday
+
+#### Months
+
+1. **unmes**
+   – January
+2. **dulmes**
+   – February
+3. **sanmes**
+   – March
+4. **carmes**
+  – April
+5. **limmes**
+  – May
+6. **sismes**
+  – June
+7. **setomes**
+  – July
+8. **balmes**
+  – August
+9. **navmes**
+  – September
+10. **desmes**
+  – October
+11. **desunmes**
+  – November
+12. **desdulmes**
+  – December
 

@@ -323,6 +323,7 @@ grimas - careta (esgar)
 grupe - grupo  
 gun - exército  
 gunjan - soldado  
+gunrajer - generalíssimo  
 gute - joelho  
 ####H - H  
 haha - rir  
@@ -665,7 +666,7 @@ nautil - nautiloide
 navi - nove (9)  
 nefre - rim  
 nefte - aeite (óleo)  
-Neptun - Netuno  
+Neputun - Netuno  
 neurcel - neurônio  
 nilcentaur - escovinha (centáurea)  
 nili - azur  

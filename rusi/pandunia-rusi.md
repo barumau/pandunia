@@ -371,6 +371,7 @@ gul - гуль (вурдалак)
 gula - глотать  
 gun - армия  
 gunjan - солдат  
+gunrajer - генералиссимус  
 gute - колено  
 guypapil - мак восточный  
 ####H - H  
@@ -735,7 +736,7 @@ nautil - наутилид
 navi - девять (9)  
 nefre - почка  
 nefte - масло  
-Neptun - Нептун  
+Neputun - Нептун  
 neurcel - нейрон  
 nilcentaur - василёк синий  
 nili - синий (голубой)  

@@ -1172,6 +1172,8 @@ gula - swallow
 gum - drum  
 gun - army  
 gunjan - soldier  
+gunrajia - shogunate  
+gunrajer - generalissimo (shogun)  
 guru\* - guru (teacher)  
 gurube - pig  
 gurubomanse - pork  
@@ -2376,13 +2378,13 @@ neftoguke - Indian chrysanthemum
 nega - refuse (deny, decline)  
 nen - year  
 nenfeste - anniversary  
-nenmesden - date  
+nenmesyom - date  
 nenufar - water lily (nenuphar)  
 neodimem - neodymium  
 neon - neon  
 Nepal - Nepal  
-Neptun - Neptune  
-neptunem - neptunem  
+Neputun - Neptune  
+neputunem - neptunium  
 nes - island  
 nesia - archipelago  
 nete - net (web, mesh)  
@@ -3616,20 +3618,18 @@ xina - believe
 xindavistia - Shintoism  
 xing - star  
 xingofota - twinkle (sparkle)  
-xipa - wet (moisten)  
-xipi - wet (moist)  
+xipa - wet (dampen, moisten)  
+xipi - wet (damp, moist)  
 xir - poem  
 xirer - poet  
 xirope - syrup  
 xita - defecate (shit)  
-xite - shit (feces)  
+xite - feces (poop, shit)  
 xix - skewer  
 xixkababe - shish kebab  
 xixmanse - shashlik  
 xofa - drive (steer)  
 xofer - chauffeur (driver)  
-xogun - shogun  
-xogunia - shogunate  
 xoke - shock (collision)  
 xopa - buy (purchase)  
 xope - shopping  

@@ -267,7 +267,7 @@ danko - danke
 dank’al - danko da  
 danĝera - hatri  
 danĝero - hatre  
-dato - nenmesden  
+dato - nenmesyom  
 datumbanko - datobanke  
 datumo - date  
 daŭri (dum) - duru  
@@ -1091,8 +1091,8 @@ ne - no
 negoco - biznes  
 neono - neon  
 Nepalo - Nepal  
-neptunio - neptunem  
-Neptuno - Neptun  
+neptunio - neputunem  
+Neptuno - Neputun  
 nerva - neuri  
 nervo - neur  
 newtono (N) - nuton  
@@ -1722,6 +1722,7 @@ zuluo - Zulu
 ĉasisto - saider  
 ĉeestanta (nuna, ekzistanta) - zayi  
 ĉeestanteco (ekzisto) - zayia  
+ĉefgeneralo - gunrajer  
 ĉefministro - xefi minister  
 ĉelo - cel  
 ĉemizo - kamis  

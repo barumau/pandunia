@@ -648,6 +648,7 @@ gula - gluti
 gum - tamburo  
 gun - armeo  
 gunjan - soldato  
+gunrajer - ĉefgeneralo  
 guru\* - guruo (instruisto)  
 gurube - porko  
 gurubomanse - porkaĵo  
@@ -1194,11 +1195,11 @@ natrem - natrio
 navati - naūatla  
 nefre - reno  
 nen - jaro  
-nenmesden - dato  
+nenmesyom - dato  
 neon - neono  
 Nepal - Nepalo  
-Neptun - Neptuno  
-neptunem - neptunio  
+Neputun - Neptuno  
+neputunem - neptunio  
 nete - reto  
 neur - nervo  
 neurcel - neŭrono  

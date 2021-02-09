@@ -2108,13 +2108,13 @@ nefritis - munuaistulehdus (nefriitti)
 nega - kieltää  
 nen - vuosi  
 nenfeste - vuosijuhla  
-nenmesden - päivämäärä  
+nenmesyom - päivämäärä  
 nenufar - lumme  
 neodimem - neodyymi  
 neon - neon  
 Nepal - Nepal  
-Neptun - Neptunus  
-neptunem - neptunium  
+Neputun - Neptunus  
+neputunem - neptunium  
 nes - saari  
 nesia - saaristo  
 nete - verkko  
@@ -3125,6 +3125,8 @@ xin - usko (luottamus)
 xina - uskoa (luottaa)  
 xindavistia - sintolaisuus  
 xing - tähti  
+xipa - kosteuttaa  
+xipi - märkä (kostea)  
 xir - runo  
 xirer - runoilija  
 xirope - siirappi  

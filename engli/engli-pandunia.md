@@ -882,7 +882,7 @@ Darwinist - darviniste
 data (numeric information) - date  
 data table (matrix) - datotable  
 database (databank) - datobanke  
-date - nenmesden  
+date - nenmesyom  
 date fruit - tamar  
 daughter - femi pute  
 day (24 hours) - yom  
@@ -1194,6 +1194,7 @@ fear (be afraid) - fobu
 fear (phobia) - fobia  
 feather - per  
 February - dulmes  
+feces (poop, shit) - xite  
 fee (fare) - takse  
 feel (sense by touch) - senta  
 feel - emosu  
@@ -1341,6 +1342,7 @@ gel (jelly) - jel
 gem (gemstone, jewel) - bavxeke  
 gender (sex) - jinse  
 genderqueer (non-binary) - bis  
+generalissimo (shogun) - gunrajer  
 generation (cohort) - jengrupe  
 generous (open-handed) - donivi  
 genotype - jenotipe  
@@ -2220,8 +2222,8 @@ neodymium - neodimem
 neon - neon  
 Nepal - Nepal  
 nephritis - nefritis  
-Neptune - Neptun  
-neptunem - neptunem  
+Neptune - Neputun  
+neptunium - neputunem  
 nerve - neur  
 nest (hive, den) - nizde  
 net (web, mesh) - nete  
@@ -3011,12 +3013,10 @@ shield - defban
 Shintoism - xindavistia  
 shirt - kamis  
 shish kebab - xixkababe  
-shit (feces) - xite  
 shock (collision) - xoke  
 shoemaker - sapater  
 shoemaker's shop - sapateria  
-shogun - xogun  
-shogunate - xogunia  
+shogunate - gunrajia  
 shoot (fire) - pava  
 shop (store or workshop) - kan  
 shop (workshop, place of doing) - eria  
@@ -3659,8 +3659,8 @@ Wenzhou - Wenjov
 west - veste  
 western - vesti  
 western gorilla - vestogoril  
-wet (moist) - xipi  
-wet (moisten) - xipa  
+wet (damp, moist) - xipi  
+wet (dampen, moisten) - xipa  
 what kind of? - ki yangi  
 what thing? - ki xey  
 what? - ke  

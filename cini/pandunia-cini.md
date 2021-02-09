@@ -330,6 +330,7 @@ Guangjov - 广州
 guke - 菊花  
 gun - 军队  
 gunjan - 军人  
+gunrajer - 大元帅  
 gute - 膝  
 guypapil - 鬼罂粟 (東方罌粟)  
 ####H - H  

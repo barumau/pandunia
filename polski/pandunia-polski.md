@@ -1098,6 +1098,8 @@ gula - połknąć (połykać)
 gum - bęben  
 gun - armia  
 gunjan - żołnierz  
+gunrajia - szogunat  
+gunrajer - szogun  
 guru\* - guru, mistrz  
 gurube - świnia  
 gurubomanse - wieprzowina  
@@ -2236,13 +2238,13 @@ neftoguke - złocień indyjski
 nega - odmówić (odrzucić)  
 nen - rok  
 nenfeste - rocznica  
-nenmesden - data  
+nenmesyom - data  
 nenufar - lilia wodna, nenufar  
 neodimem - neodym  
 neon - neon  
 Nepal - Nepal  
-Neptun - Neptun  
-neptunem - neptun  
+Neputun - Neptun  
+neputunem - neptun  
 nes - wyspa  
 nesia - archipelag  
 nete - sieć  
@@ -3435,8 +3437,6 @@ xixkababe - szisz kebab
 xixmanse - szaszłyk  
 xofa - prowadzić pojazd  
 xofer - szofer (kierowca)  
-xogun - szogun  
-xogunia - szogunat  
 xoke - szokwstrząs; kolizja  
 xopa - kupić  
 xope - zakupy (sprawunki, shopping)  

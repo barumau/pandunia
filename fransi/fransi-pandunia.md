@@ -502,6 +502,7 @@ guide touristique - gidobuke
 guider - gida  
 guitare - gitar  
 génotype - jenotipe  
+généralissime - gunrajer  
 généreux - donivi  
 généreux - karimi  
 générosité (charité) - karimia  
@@ -706,7 +707,7 @@ nation - nasia
 nausée - retroguli sense  
 nautile - nautil  
 neige - him  
-Neptune - Neptun  
+Neptune - Neputun  
 neuf (9) - navi  
 neurone - neurcel  
 niche - nix  

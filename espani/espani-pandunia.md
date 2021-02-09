@@ -1311,7 +1311,7 @@ favoritismo - favoristia
 favorito (preferido) - favori  
 faz (faceta) - fas  
 febrero - dulmes  
-fecha - nenmesden  
+fecha - nenmesyom  
 felicitar - barka  
 feliz - suki  
 feminismo - femistia  
@@ -1425,6 +1425,7 @@ gañar (triunfar, lograr, desrotar) - xenga
 gel (jalea, gelatina) - jel  
 generación (cohorte) - jengrupe  
 general (common) - putongi  
+generalísimo (sogún) - gunrajer  
 generar (añadir) - zaya  
 generosidad (caridad) - karimia  
 generoso (dadivoso) - donivi  
@@ -2246,8 +2247,8 @@ negro - siahi
 nenúfar (lirio de agua) - nenufar  
 neodimio - neodimem  
 Nepal - Nepal  
-neptunio - neptunem  
-Neptuno - Neptun  
+neptunio - neputunem  
+Neptuno - Neputun  
 nervio - neur  
 neural - neuri  
 neurona - neurcel  
@@ -3019,7 +3020,7 @@ Seychelles - Sexel nesia
 señal (letrero, indicio) - sinye  
 señal de tránsito - davban  
 sharía - islamisti xaria  
-shogunato - xogunia  
+shogunato - gunrajia  
 si (suponer) - aga  
 Siberia - Sibiria  
 siempre - pansato  
@@ -3063,7 +3064,6 @@ sociedad - socia
 sodio - natrem  
 sofá - kanape  
 sofá - sofa\*  
-sogún - xogun  
 sol - sol  
 Solamilandia - Somaldex  
 soldado - gunjan  

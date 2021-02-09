@@ -426,7 +426,7 @@ danie - tas
 darmsztadt - darmositem  
 darwinista - darviniste  
 darwinizm - darvinistia  
-data - nenmesden  
+data - nenmesyom  
 dać mieszkanie (zakwaterować) - domisa  
 dać, dawać - dona  
 deaktywować (wyłączyć, zatrzymać) - anativa  
@@ -1651,8 +1651,8 @@ negocjować - lona biznes
 neodym - neodimem  
 neon - neon  
 Nepal - Nepal  
-Neptun - Neptun  
-neptun - neptunem  
+Neptun - Neputun  
+neptun - neputunem  
 nerka (łosoś czerwony) - lalsalmon  
 nerka - nefre  
 nerw - neur  
@@ -2782,8 +2782,8 @@ szkło - kance
 szkło wulkaniczne - hogoxani kance  
 szmaragd - zumurude  
 szofer (kierowca) - xofer  
-szogun - xogun  
-szogunat - xogunia  
+szogun - gunrajer  
+szogunat - gunrajia  
 szokwstrząs; kolizja - xoke  
 szop pracz - vaxurse  
 szorstki - karsi  

@@ -1087,6 +1087,8 @@ gula - tragar
 gum - tambor  
 gun - ejército  
 gunjan - soldado  
+gunrajia - shogunato  
+gunrajer - generalísimo (sogún)  
 guru\* - maestro (gurú, profesor)  
 gurube - cerdo (puerco)  
 gurubomanse - carne de cerdo  
@@ -2206,13 +2208,13 @@ nefte - aceite (óleo)
 nega - rechazar (negar)  
 nen - año  
 nenfeste - aniversario  
-nenmesden - fecha  
+nenmesyom - fecha  
 nenufar - nenúfar (lirio de agua)  
 neodimem - neodimio  
 neon - neón  
 Nepal - Nepal  
-Neptun - Neptuno  
-neptunem - neptunio  
+Neputun - Neptuno  
+neputunem - neptunio  
 nes - isla  
 nesia - archipiélago  
 nete - red  
@@ -3391,8 +3393,6 @@ xite - mierda
 xix - brocheta  
 xofa - conducir  
 xofer - conductor (chofer)  
-xogun - sogún  
-xogunia - shogunato  
 xoke - choque (sacudida)  
 xopa - comprar  
 xope - compras (shopping)  

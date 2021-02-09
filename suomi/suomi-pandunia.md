@@ -1142,6 +1142,7 @@ koska (johdosta, takia) - sabo da
 koskea (koskettaa) - toca  
 kosminen - kosmi  
 Kosovo - Kosovo  
+kosteuttaa - xipa  
 koti- - domi  
 koukku (haka) - huke  
 koulu (opisto) - xulkan  
@@ -1705,6 +1706,7 @@ myöhemmin - bado
 myötätunto (sympatia) - samemos  
 mädäntyä (mädätä) - pudu  
 mänty - song  
+märkä (kostea) - xipi  
 mätä - pudi  
 määritellä (luonnehtia) - sifa  
 määrä (päämäärä, kohtalo) - cenamen  
@@ -1740,8 +1742,8 @@ nenä- (nasaali) - nosi
 neodyymi - neodimem  
 neon - neon  
 Nepal - Nepal  
-neptunium - neptunem  
-Neptunus - Neptun  
+neptunium - neputunem  
+Neptunus - Neputun  
 neste - darmate  
 nestemäinen - darmati  
 nettisivu - netoloke  
@@ -2191,7 +2193,7 @@ pyörremyrsky (hurrikaani, taifuuni, tornado) - rototafun
 pyörä (polkupyörä, moottoripyörä) - sikle  
 pyöräilyn harrastaja - sikliste  
 päivä - den  
-päivämäärä - nenmesden  
+päivämäärä - nenmesyom  
 päivänseisaus - solestas  
 päiväntasaaja - gevparlinye  
 Päiväntasaajan Guinea - Gevparlinyi Ginia  

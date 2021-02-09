@@ -416,6 +416,7 @@ grupe - groupe
 gul - goule  
 gun - armée  
 gunjan - soldat  
+gunrajer - généralissime  
 gute - genou  
 guypapil - pavot d'Orient  
 ####H - H  
@@ -780,7 +781,7 @@ nautil - nautile
 navi - neuf (9)  
 nefre - rein  
 nefte - huile (pétrole)  
-Neptun - Neptune  
+Neputun - Neptune  
 netogeta - télécharger  
 neurcel - neurone  
 nice - dessous  

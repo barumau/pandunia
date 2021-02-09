@@ -1178,6 +1178,8 @@ gul:a|gula|||ben:গেলা (gela), por:engolir, rus:глотать (glotat'),
 gum:|gum|||swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|drum||tambor|||||||||||||tamburo|rumpu|bęben
 gun:|gun|||zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|army|armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotajoukko)|armia
 gun.jan:|gunjan||||soldier|soldat|soldado|soldado|солдат||军人|軍人|군인|quân nhân|सैनिक||||asker|soldato|sotilas|żołnierz
+gun.raj:ia|gunrajia||||shogunate||shogunato|||||||||||||||szogunat
+gun.raj.er:|gunrajer||||generalissimo (shogun)|généralissime|generalísimo (sogún)|generalíssimo|генералиссимус||大元帅|総統 (将軍 )||||||||ĉefgeneralo||szogun
 guru:|guru*|||hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|guru (teacher)||maestro (gurú, profesor)|||||||||||||guruo (instruisto)|guru (opettaja)|guru, mistrz
 gurub:e|gurube|biv||swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt|pig||cerdo (puerco)|||||||||||||porko|sika (possu)|świnia
 gurub.o.mans:e|gurubomanse||||pork||carne de cerdo|||||||||||||porkaĵo|sianliha|wieprzowina
@@ -2384,15 +2386,15 @@ nefritis|nefritis||||nephritis||nefritis||||||||||||||munuaistulehdus (nefriitti
 nefte|nefte|||ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|oil|huile (pétrole)|aceite (óleo)|aeite (óleo)|масло||油|油 (オイル)||||||||||olej
 neftoguke|neftoguke|biv|Chrysanthemum indicum|zho:油菊, jpn:アブラギク|Indian chrysanthemum||||||野菊花|シマカンギク (アブラギク)||||||||||złocień indyjski
 nega|nega|||spa:por:negar, eng:negate|refuse (deny, decline)||rechazar (negar)||||||||||||||kieltää|odmówić (odrzucić)
-nen|nen|||jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|year||año|||||年||||||||jaro|vuosi|rok
-nenfeste|nenfeste||||anniversary||aniversario||||||||||||||vuosijuhla|rocznica
-nenmesden|nenmesden|||zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|date||fecha|||||||||||||dato|päivämäärä|data
+nen:|nen|||jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|year||año|||||年||||||||jaro|vuosi|rok
+nen.fest:e|nenfeste||||anniversary||aniversario||||||||||||||vuosijuhla|rocznica
+nen.mes.yom:|nenmesyom|||zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|date||fecha|||||||||||||dato|päivämäärä|data
 nenufar|nenufar|biv|Nymphaea alba|eng:nenuphar, spa:por:nenúfar, fra:nénufar, rus:ненюфа́р (nenjufár), fas:نیلوفر آبی‎ (nilufar-e âbi)|water lily (nenuphar)||nenúfar (lirio de agua)||||||||||||||lumme|lilia wodna, nenufar
 neodimem|neodimem|mate|Nd||neodymium||neodimio||||||||||||||neodyymi|neodym
 neon|neon|mate|Ne||neon||neón|||||||||||||neono|neon|neon
 Nepal|Nepal|dex|NP||Nepal||Nepal|||||||||||||Nepalo|Nepal|Nepal
-Neptun|Neptun|planete 8|||Neptune|Neptune|Neptuno|Netuno|Нептун|نبتون|||||||||Neptün|Neptuno|Neptunus|Neptun
-neptunem|neptunem|mate|Np||neptunem||neptunio|||||||||||||neptunio|neptunium|neptun
+Neputun:|Neputun|planete 8|||Neptune|Neptune|Neptuno|Netuno|Нептун|نبتون|||||||||Neptün|Neptuno|Neptunus|Neptun
+neputun.em:|neputunem|mate|Np||neptunium||neptunio|||||||||||||neptunio|neptunium|neptun
 nes|nes|||ell:νήσος (nēsos), may:nusa, mlg:nosy|island||isla||||||||||||||saari|wyspa
 nesia|nesia||||archipelago||archipiélago||||||||||||||saaristo|archipelag
 net:e|nete|||eng:net, deu:Netz, jpn:ネット (netto)|net (web, mesh)||red|||||網||||||||reto|verkko|sieć
@@ -3629,21 +3631,19 @@ xina|xina||||believe||creer|||||||||||||kreda|uskoa (luottaa)|wierzyć
 xindavistia|xindavistia|||jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)|Shintoism||sintoísmo||||||||||||||sintolaisuus|shintoizm, sintoizm
 xing|xing|||zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|star|étoile|estrella|||||||||||||stelo|tähti|gwiazda
 xingofota|xingofota||||twinkle (sparkle)|étinceler|centellear (titilar)|cintilar|сверкать (мерцать)||闪烁|ピカピカ光る (きらきらする)||||||||||mruganie (błysk)
-xipa|xipa||||wet (moisten)|mouiller|mojar|molhar|||弄湿|濡らす||||||||||moczyć (zmoczyć)
-xipi|xipi|||zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)|wet (moist)|mouillé|mojado|molhado|||湿|湿っぽい||||||||||mokry (wilgotny)
-xir|xir|||heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|poem||poema||||诗|詩|시|||||shairi|şiir|poemo|runo|poemat
-xirer|xirer||||poet||poeta||||||||||||||runoilija|poeta
-xirope|xirope|||ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|syrup||jarabe (sirope)|||||||||||||siropo|siirappi|syrop
-xita|xita||||defecate (shit)||cagar||||||||||||||paskantaa (ulostaa)|srać (robić gówno)
-xite|xite|||eng:shit, zho:屎 (shǐ), yue:屎 (si2)|shit (feces)|merde|mierda|merda|говно (дерьмо)||粪 (屎)||||टट्टी||tahi||bok|merdo|paska (sonta)|gówno
-xix|xix|||tur:şiş + eng:shish-, rus:шиш- (šiš-)|skewer|brochette|brocheta||||扦子|||xiên|||||şiş||varras|rożen (szpikulec)
-xixkababe|xixkababe||||shish kebab||||шиш-кебаб||||||||||şiş kebap||varraskebab|szisz kebab
-xixmanse|xixmanse||||shashlik|chachlik|||шашлык||串烧||||||sate||şişlik|ŝaŝliko|saslik|szaszłyk
-xofa|xofa||||drive (steer)||conducir|conduzir|||开车|||||||||konduki|ajaa (kuskata)|prowadzić pojazd
-xofer|xofer|||fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|chauffeur (driver)||conductor (chofer)|condutor (chofer, motorista)|шофёр||司机||||||||sürücü (şoför)|ŝoforo (kondukisto)|kuski (ajuri, ajaja)|szofer (kierowca)
-xogun|xogun|||jpn:将軍 (shōgun), eng:shogun|shogun||sogún|||||||||||||||szogun
-xogunia|xogunia||||shogunate||shogunato|||||||||||||||szogunat
-xoke|xoke|||eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|shock (collision)||choque (sacudida)||||||||||||||isku (šokki)|szokwstrząs; kolizja
+xip:a|xipa||||wet (dampen, moisten)|mouiller|mojar|molhar|||弄湿|濡らす|||||||||kosteuttaa|moczyć (zmoczyć)
+xip:i|xipi|||zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)|wet (damp, moist)|mouillé|mojado|molhado|||湿|湿っぽい|||गीला (नम)||||||märkä (kostea)|mokry (wilgotny)
+xir:|xir|||heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|poem||poema||||诗|詩|시|||||shairi|şiir|poemo|runo|poemat
+xir.er:|xirer||||poet||poeta||||||||||||||runoilija|poeta
+xirop:e|xirope|||ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|syrup||jarabe (sirope)|||||||||||||siropo|siirappi|syrop
+xit:a|xita||||defecate (shit)||cagar||||||||||||||paskantaa (ulostaa)|srać (robić gówno)
+xit:e|xite|||eng:shit, zho:屎 (shǐ), yue:屎 (si2)|feces (poop, shit)|merde|mierda|merda|говно (дерьмо)||粪 (屎)|糞 (屎)|똥|cứt (phân)|टट्टी||tahi||bok|merdo|paska (sonta)|gówno
+xix:|xix|||tur:şiş + eng:shish-, rus:шиш- (šiš-)|skewer|brochette|brocheta||||扦子|||xiên|||||şiş||varras|rożen (szpikulec)
+xix.kabab:e|xixkababe||||shish kebab||||шиш-кебаб||||||||||şiş kebap||varraskebab|szisz kebab
+xix.mans:e|xixmanse||||shashlik|chachlik|||шашлык||串烧||||||sate||şişlik|ŝaŝliko|saslik|szaszłyk
+xof:a|xofa||||drive (steer)||conducir|conduzir|||开车|||||||||konduki|ajaa (kuskata)|prowadzić pojazd
+xof.er:|xofer|||fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|chauffeur (driver)||conductor (chofer)|condutor (chofer, motorista)|шофёр||司机||||||||sürücü (şoför)|ŝoforo (kondukisto)|kuski (ajuri, ajaja)|szofer (kierowca)
+xok:e|xoke|||eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|shock (collision)||choque (sacudida)||||||||||||||isku (šokki)|szokwstrząs; kolizja
 xopa|xopa||||buy (purchase)|acheter|comprar|comprar|покупать (купить)|اِشْتَرَى‎|买|買う|사다|mua|मोल लेना (ख़रीदना)|কেনা|membeli|kununua|satın almak|aĉeti|ostaa|kupić
 xope|xope|||eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|shopping|shopping|compras (shopping)|compras|покупка (шоппинг)||购物 (血拼)||||||||||ostokset|zakupy (sprawunki, shopping)
 xoper|xoper||||buyer||comprador|||||||||||||aĉetanto (aĉetisto)|ostaja|nabywca (kupiec)
