@@ -181,8 +181,6 @@ art.ist:e|artiste||||artist|artiste|artista|artista|художник (артис
 Artik:e|Artike|dex|||Arctic||Ártico||||||||||||||Arktis|Arktyka
 Artik:i Hay|Artiki Hay||||Arctic Ocean||océano Ártico||||||||||||||Jäämeri|Ocean Arktyczny
 Aruba:|Aruba|dex|AW||Aruba||Aruba||||||||||||||Aruba|Aruba
-as:i|asi||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
-as:ia|asia|||eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|Asia|Asie|Asia|||||||||||||Azio|Aasia|Azja
 asan:|asan|||hin:आसन (āsan), eng:asana, rus:асана (asana)|posture (asana)||postura (posición)||поза||||||||sikap (posisi)|||posteno|asento|postawa ciała; asana
 asar:|asar|||ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir|effect (impact, impression, result, outcome)|effet|resulta (efecto)|efeito|эффект||影响|効果|||||||||vaikutus (tulos)|rezult, wynik
 asar:a|asara||||effect (bring about)|effectuer|efectuar|efetuar|||||||||||||vaikuttaa|poprowadzić do (doprowadzić do, powodować)
@@ -225,6 +223,8 @@ avar.an:i|avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||dama�
 Axur:|Axur|xefocite|||Assur||Assur (Ashur)||||||||||||||Assur|Aszur
 Axur:ia|Axuria|||akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr)|Assyria||Asiria||||||||||||||Assyria|Asyria
 ay:|ay|||spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|ouch (ow, alas)|aïe!|ay!|ai!||||||||||||aj (alas)|ai! (au!)|aj!, ał!
+az:i|azi||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
+Az:ia|Azia|||eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|Asia|Asie|Asia|||||||||||||Azio|Aasia|Azja
 Azerbaijan:|Azerbaijan|dex|AZ||Azerbaijan||Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan
 B|B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B
 bab:e|babe|||may:bab, ara:urd:fas:(bāb)|chapter (section)|chapitre|capítulo (sección)||глава||章|||||||||ĉapitro|luku (kirjan osa)|rozdział, sekcja
@@ -701,7 +701,7 @@ dolfin:|dolfin|biv||ell:δελφίνια (delphínia), eng:dolphin, spa:delfín,
 dom:|dom|||rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|home (residence)|maison|casa (hogar, residencia)||||房子|家||||||||hejmo (loĝejo)|asunto (koti)|dom, mieszkanie
 dom:a|doma||||live in (reside in, inhabit)|vivre (habiter)|vivir (residir)|||||住む (居住する)||||||||loĝi|asua|mieszkać
 dom:i|domi||||domestic (tame)|domestique|doméstico (domesticado)|doméstico|домашний|||||||||||hejma|koti-|domowy
-dom.is:a|domisa||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
+dom.an:a|domana||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
 dom.zez:e|domzeze|biv|Musca domestica||housefly|mouche|mosco||муха|||||||||||muŝo|kärpänen|mucha
 domin.o.gem:|dominogem|||eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|dominoes||dominó||||||||||||||dominopeli|domino
 Dominik:i Komun.krat:ia|Dominiki Komunkratia|dex|DO||Dominican Republic||Republica Dominicana||Доминиканская Республика|||ドミニカ共和国|||दोमिनिकन गणराज्||Republik Dominika|Jamhuri ya Dominika|Dominik Cumhuriyeti||Dominikaaninen Tasavalta|Republika Dominikańska (Dominikana)
@@ -716,8 +716,8 @@ dong.o.goril:|dongogoril|biv|Gorilla beringei||eastern gorilla||gorila oriental|
 donjon: aventur:|donjon aventur|||eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|dungeon crawl||juego de mazmorras|||||ダンジョンアドベンチャー|||||||||luolaseikkailu|przygoda w lochu
 dosil:a|dosila||||tame (train)|apprivoiser (dresser, dompter, discipliner)|domar (amansar)||укрощать (приручить)||驯养|馴らす|||||||||kesyttää|oswoić (oswajać, tresować, trenować)
 dosil:i|dosili|||eng:fra:ita:docile, spa:por:dócil|tame (docile, obedient)|docile (insipide)|manso (dócil, obediente)||кроткий||驯服的|温順 (素直)|||पालतू||||||kesy|oswojony (potulny, posłuszny)
-dosil:jen.is:i|dosiljenisi||||domesticated|domestiqué (apprivoisé)|domesticado|||||家畜|||पालतू बनाना|||||||udomowiony (domowy)
-dosil.jen.is:a|dosiljenisa||||domesticate (cultivate)|domestiquer (apprivoiser)|domesticar (cultivate)||одомашнивать|||||||||||||udomowić (kultywować)
+dosil:jen:i|dosiljeni||||domesticated|domestiqué (apprivoisé)|domesticado|||||家畜|||पालतू बनाना|||||||udomowiony (domowy)
+dosil.jen.it:a|dosiljenita||||domesticate (cultivate)|domestiquer (apprivoiser)|domesticar (cultivate)||одомашнивать|||||||||||||udomowić (kultywować)
 dost:e|doste|||tur:dost, hin:दोस्त (dost), guj:દોસ્ત (dost), urd:(dost), fas:(dust)|friend||amigo|||||||||||||amiko|ystävä (kaveri)|przyjaciel
 dost:i|dosti||||friendly (kind, nice, gentle)||simpático (amable, tierno, dulce)||приятный (добрый)|||優しい (好ましい, 親切)||||||||amika (bonkora)|ystävällinen (kiltti)|przyjacielski (uprzejmy, miły)
 dost:ia|dostia||||friendship||amistad (compañerismo)|||||||||||||amikeco|ystävyys|przyjaźń
@@ -1003,8 +1003,8 @@ frik:a|frika|||eng:friction, spa:por:friccionar, fra:frictionner + ara:فرك (f
 fuga|fuga|||zho:复 (fù), yue:(fuk), vie:phục|return (restore, recover, resume)||regresar (restablecer, restaurar, recuperar, reanudar)||||||||||||||palauttaa|wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać
 fuka|fuka||||dress (clothe sb.)|habiller (vêtir)|vestir|vestir|одевать|||||||||||vestigi|pukea (vaatettaa)|
 fuke|fuke|||zho:服 (fú), yue:服 (fuk6), jpn:服 (fuku), kor:의복 (uibok), vie:y phục|clothing (clothes)|vêtements|ropa (vestimenta)|roupa (vestidura)|одежда|لبس‎|衣服|服|옷 (의복)|quần áo (y phục)|वस्त्र (कपड़े)|পোশাক|pakaian|nguo (mavazi)|giysi|vesto|vaate (puku)|ubranie, ubiór, strój
-fuki|fuki||||wear (have on clothes)|porter|llevar (vestir)|trajar|носить||穿|着る|입다|mặc|पहनना||pakai|kuvaa||surporti|pitää vaatetta yllään|nosić ubrania
-fuku|fuku||||dress (clothe oneself)|s’habiller|verstirse|vestir-se|одеваться||穿衣服|服を着る|입다|mặc quần áo|पहनना|||||vesti|pukeutua|
+fuki|fuki||||clothed (dressed)||vestido (llevando ropa)||оде́тый|||||||||||||
+fuku|fuku||||wear (dress, put on)|porter (s’habiller)|llevar (verstirse)|trajar (vestir-se)|носить (одеваться)||穿|着る|입다|mặc|पहनना||pakai|kuvaa||vesti (surporti)|pukeutua (pitää vaatetta yllään)|nosić ubrania
 ful:|ful|||hau:fure, ibo:ifulu, lin:folele, hin:फूल (phul), ben:ফুল (phul), fra:fleur, por:spa:flor, eng:flower|flower|fleur|flor|flor|цветок|زَهْرَة|花|花|꽃 (화)|hoa|फूल (पुष्प)|ফুল|bunga|ua||floro|kukka|kwiat
 ful:u|fulu||||blossom (bloom)||florecer||||||||||||||kukkia|kwitnąć, rozkwitnąć, rozkwitać
 ful.mosim:|fulmosim|mosim|||spring (springtime)||primavera||весна|||春|||||musim bunga|||printempo|kevät|wiosna
@@ -1034,6 +1034,7 @@ gabr.o.xek:e|gabroxeke||||tombstone (gravestone)|pierre tombale|lápida|lápide|
 gad:e|gade|biv|Equus africanu asinus|hin:गधा (gadhā), ben:গাধা (gadha), guj:ગધેડો (gadheḍo), tel:(gāḍida), tam:(kaḻutai), may:keledai, + yor:ké̩té̩ké̩té̩|donkey (ass)||burro (asno)|||||||||||||azeno|aasi|osioł
 gad.o.gud:e|gadogude|biv|Equus asinus♂ × Equus caballus♀||mule|mule|mula||мул||骡|騾馬|||||||||muuli|muł
 gadolin.em:|gadolinem|mate|Gd||gadolinium||gadolinio|||||||||||||gadolinio|gadolinium|gadolin
+gaf:|gaf|biv||eng:woof, spa:guau, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog||perro||||||||||||||koira|pies
 gaj:e|gaje|||hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|elephant||elefante|||||||||||||elefanto|norsu (elefantti)|słoń
 Gal:ia|Galia||||Gaul|Gaule|Galia|Gália|Галлия||高卢|ガリア||||||||Gaŭlio|Gallia|Galia
 gal.em:|galem|mate|Ga||gallium||galio|||||||||||||galiumo|gallium|gal
@@ -1275,7 +1276,7 @@ herz:e|herze|unomete|Hz||hertz (Hz)||hercio (Hz)||||||||||||||hertsi (Hz)|herc
 Hes:ia|Hesia||||Hesse|Hesse|Hesse (Hessia)|Hesse (Héssia)|Гессен||黑森|ヘッセン|||||||||Hessen|
 hes.em:|hesem|mate|Hs||hassium||hasio|||||||||||||hasio|hasium|has
 hevan:|hevan|||may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
-hevan.jen.is:ia|hevanjenisia||||animal husbandry|élevage||||||畜産||||||||||hodowla zwierząt
+hevan.jen.it:ia|hevanjenitia||||animal husbandry|élevage||||||畜産||||||||||hodowla zwierząt
 hevan.park:e|hevanparke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园||||||kebun binatang||hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
 hiar:|hiar|biv|Cucumis sativus|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|cucumber|concombre|pepino|pepino|огурец||黄瓜|キュウリ||||||||kukumo|kurkku|ogórek
 hibrid:e|hibride|||eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)|hybrid (mongrel)||híbrido (mestizo)|||||||||||||miksulo|risteytys (hybridi)|hybryda; kundel
@@ -1397,7 +1398,6 @@ irid.em:|iridem|mate|Ir||iridium||iridio|||||||||||||iridio|iridium|iryd
 irit:a|irita|||eng:irritate, fra:irriter, spa:por:irritar, deu:irritieren, jpn:いらいらさせる (iraira saseru)|irritate (annoy, disturb)||molestar (irritar, fastidiar)|||||||||||||agaci (tedi, malamuzi)|ärsyttää (häiritä)|irytować (zirytować, drażnić)
 iron:i|ironi||||ironic||irónico|||||反語的||||||||||ironiczny
 iron:ia|ironia|||eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|irony|ironie|ironía|ironia|ирония|||反語 (皮肉)||||||||||ironia
-is:a|isa|||eng:-ize, spa:por:-izar, fra:-iser, rus:-изова́ть (-izovat’)|cause to make||hacer (verbo activo)|||||||||||||igi|teettää|skłonić do (spowodować zrobienie)
 islam:|islam|||ara:(ʾislām), fas:(taslim), tur:teslim|submission (surrender)||sumisión (rendición)||||||||||||||alistuminen (antautuminen)|poddanie się, uległość, pokora, posłuszeństwo
 islam.fob:ia|islamfobia||||islamophobia||islamofobia||||||||||||||islamofobia (islamin pelko)|islamofobia
 islam.ist:e|islamiste||||muslim (moslem)||musulmán||||||||||||||muslimi (islaminuskoinen)|muzułman, muzułmanin
@@ -1637,7 +1637,7 @@ Katalun:ia|Katalunia||||Catalonia||Cataluña|||||||||||||Katalunio|Katalonia|Kat
 katan:|katan|||jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|sword|épée|espada|espada|меч||剑|刀 (剣)|||तलवार||pedang||kılıç|glavo|miekka|miecz
 Katar:|Katar|dex|QA||Qatar||Catar (Qatar)||||||||||||||Qatar|Katar
 katus:|katus|biv|Cactaceae|eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus|cactus|cactus|cacto|cacto|кактус||仙人掌|サボテン|||||kaktus||kaktüs|kaktuso|kaktus|kaktus
-Kaukas:ia|Kaukasia|||eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||||||||||||||Kaukasia|Kaukazja
+Kaukaz:ia|Kaukazia|||eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||||||||||||||Kaukasia|Kaukazja
 kav:a|kava|||spa:por:cavar, eng:excavar, fra:excaver|dig (excavate)|creuser|cavar (excavar)|cavar (escavar)|копать||挖|掘る||đào (bới)|खोदना||gali (korek)||kazmak|fosi|kaivaa|wykopać, kopać, wydobyć, wydobywać, wykopywać
 kav:e|kave||||pit (excavation, cavity)|fosse|fosa|buraco|яма||坑 (穴)|||||||||foso|kuoppa (kolo)|dół, jama, wydobycie, wykop, wykopalisko
 kavay:i|kavayi|||jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|cute (sweet)||lindo (precioso)|||||||||||||ĉarma|söpö (suloinen)|uroczy, słodki
@@ -1706,10 +1706,10 @@ kit:u|kitu|||fra:quitter, tur:gitmek, spa:quitar|go (move away)|aller (quitter)|
 kitab:a|kitaba||||write|écrire|escribir|escrevere|писать||写||||लिखना||menulis||yazmak||kirjoittaa|napisać, pisać
 kitab:e|kitabe|||ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|writing (text)|écriture|escritura|escrita|письмо||||||||tulisan||yazı|skribo|kirjoitus (teksti)|pismo, tekst
 kitab:ia|kitabia||||literature (body of written works)|littérature|literatura|literatura|литература (словесность)|أَدَب‎|文学|文献 (文学)|문학|văn chương (văn học)|साहित्य (अदब)|সাহিত্য|kesusasteraan|fasihi|literatür (edebiyat)|literaturo|kirjallisuus|
+kitab.o.form:e|kitaboforme||||formatting||formateo|||||書式付け|||||||||tekstin muotoilu|formatowanie
 kitab.o.kan:|kitabokan||||library|bibliothèque|biblioteca|biblioteca|библиотека|مَكْتَبَة‎|图书馆|図書館|도서관|thư viện|पुस्तकालय|গ্রন্থাগার|perpustakaan|maktaba|kütüphane|librejo|kirjasto|biblioteka
 kitab.o.maxin:|kitabomaxin||||typewriter|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania
 kitab.o.minist.er:|kitabominister||||librarian||bibliotecario||библиотекарь|||図書係||||||||||bibliotekarz
-kitab.o.rup:e|kitaborupe||||formatting||formateo||||||||||||||tekstin muotoilu|formatowanie
 kivi:|kivi*|biv||eng:fra:spa:may:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi|kiwi fruit|kiwi|kiwi fruta|quivi|киви||奇异果|キーウィフルーツ|다래 (키위)|trái ki wi (trái dương đào)|कीवी||buah kiwi||kivi|kivo|kiivi|owoc kiwi
 klar:a|klara||||clarify (clear up)||aclarar (clarificar)|||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
 klar:i|klari|||deu:klar, spa:por:claro, eng:clear, fra:clair|clear (obvious)|clair|claro|claro||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
@@ -1922,7 +1922,7 @@ lay:a|laya|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (arri
 lay.an:a|layana||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
 lazany:e|lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|lazania
 lazur:i|lazuri||||azure|azur|azur (blao)|azur (blau)|лазурь|||||||||||||
-lazur.xek:e|lazurxeke|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит|لَازَوَرْد|青金岩|ラピスラズリ (瑠璃)|||लाजवर्द (वैडूर्य)||||lazur taşı||lapislatsuli|lapis lazuli
+lazur.petr:e|lazurpetre|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит|لَازَوَرْد|青金岩|ラピスラズリ (瑠璃)|||लाजवर्द (वैडूर्य)||||lazur taşı||lapislatsuli|lapis lazuli
 left:e|lefte|||eng:left|left||lado izquerdo|esquerdo|левый||左|左|||बायीं||kiri|kushoto|sol||vasen|lewa strona
 left:i|lefti||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej strony)
 left.ist:e|leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
@@ -2354,7 +2354,7 @@ najisbinde|najisbinde||||stain (spot)||mancha|||||染み (汚点)||||||||||
 najisi|najisi||||dirty (soiled, polluted, defiled, tainted, unclean, impure)||sucio (corrompido)|||||汚い|||प्रदूषित|||-chafu||||
 nam|nam|||hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|name||nombre|||||名前||||||||nomo|nimi|imię, nazwa
 Namibia|Namibia|dex|NA||Namibia||Namibia|||||||||||||Namibio|Namibia|Namibia
-namisa|namisa||||call (name)||llamar (poner)||||||||||||||nimittää (kutsua)|nazwać, nazywać, wezwać, wzywać
+namita|namita||||call (name)||llamar (poner)||||||||||||||nimittää (kutsua)|nazwać, nazywać, wezwać, wzywać
 namkitaba|namkitaba||||sign (autograph)|signer|firmar|assinar|подписать||签署|署名する (サイン)||||||||||podpis (autograf)
 namloge|namloge|||zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|noun||sustantivo|||||||||||||substantivo|substantiivi (nimisana)|rzeczownik
 namu|namu||||be called (be named)||llamarse||||||||||||||olla nimeltään|być wezwanym, być wzywanym, być nazwanym, być nazywanym
@@ -2438,7 +2438,7 @@ nol (noli)|nol (noli)|||rus:ноль (nol'), may:nol, deu:null, eng:null|zero (n
 nol jan|nol jan||||nobody (no-one)||ningunos||||||||||||||ei kukaan|nikt, żadna osoba
 nol sate|nol sate||||never||nunca||||||||||||||ei koskaan (ei kertaakaan)|nigdy
 nol xey|nol xey||||nothing||nada||||||||||||||ei mitään|nic, żadna rzecz
-nolisa|nolisa||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
+nola|nola||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
 noma|noma||||manage (organize, direct)||dirigir (gestionar, administrar)||||||||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
 nombra|nombra||||count (enumerate)||contar|||||数える||||||||||liczyć
 nombre|nombre|||eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|number|nombre (numéro)|número|número|число||数||||संख्या (नंबर)|সংখ্যা (নম্বর )|angka (nombor)|nambari|sayı|nombro|lukumäärä (luku, numero)|numer
@@ -2464,7 +2464,7 @@ nostalgia|nostalgia||27 emotions|eng:por:spa:nostalgia, fra:nostalgie, deu:Nosta
 nota|nota||||note (observe, notice)||notar (observar)|||||||||||||rimarki|huomata (hoksata)|notować, obserwować, zauważyć, zauważać
 note|note|||deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|note (observation, remark, comment)|note|nota|nota|запись (заметка)||便条||||||||not|noto (rimarko, komento)|huomio (kommentti, merkintä)|uwaga, obserwacja
 notis|notis||||notice (notification)||aviso (notificación)||||||||||||||huomautus|wiadomość, zawiadomienie, powiadomienie
-notisa|notisa||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiadamiać
+notana|notana||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiadamiać
 notobuke|notobuke||||notebook||cuaderno (libreta)|||||||||||||kajero|muistikirja|notatnik
 nova|nova||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić, odnawiać, uczynić nowym
 nove|nove||||novelty||novedad|||||||||||||||nowość
@@ -2482,6 +2482,7 @@ nudistia|nudistia||||nudism||nudismo||||||||||||||nudismi|nudyzm
 nuton|nuton|unomete|N||newton (N)||newton (N)|||||||||||||newtono (N)|newton (N)|niuton (N)
 O|O||||O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O
 o:|o|funce||eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
+oaz:e|oaze|||eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|oasis||oasis|oasis|oasis|oásis|оазис|||オアシス|오아시스 (천지)|||||oazo|keidas|oaza
 Oberon:|Oberon|planete 7 lune 5|||Oberon|||||||||||||||||
 Ocean:ia|Oceania||||Oceania||Oceanía|||||||||||||Oceanio|Oseania|Oceania
 od:e|ode|||eng:order, fra:ordre, spa:orden, por:ordem, swa:oda + zho:第 (dì), vie:đệ, khm:ទី (dī)|rank (position in an ordered list)|rang|||ранг||||||||||||sija (paikka järjestyksessä)|
@@ -3376,6 +3377,7 @@ tiran:ia|tirania||||tyranny||tiranía||||||||||||||tyrannia|tyrania
 Titan:|Titan|planete 6 lune 6|||Titan|||||||||||||||||
 Titan:ia|Titania|planete 7 lune 4|||Titania|||||||||||||||||
 titan.em:|titanem|mate|Ti||titanem||titanio|||||||||||||titanio|titaani|tytan
+toal:|toal|||fra:touaille, eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|towel||toalla|toalha|||||||तौलिया|||||viŝilo|pyyhe|ręcznik
 toc:a|toca|||eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|touch|toucher|tocar (rozar)||касаться||接触|||||||||tuŝi|koskea (koskettaa)|dotyczyć
 Togo:|Togo|dex|TG||Togo||Togo|||||||||||||Toglando|Togo|Togo
 toks:e|tokse||||poison (venom)||veneno (toxina)|||||毒|||||||||myrkky|trucizna (toksyna)
@@ -3391,7 +3393,6 @@ tor.em:|torem|mate|Th||thorium||torio|||||||||||||torio||tor
 tors:e|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortug:e|tortuge|biv|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
 tov:a|tova|||eng:tow, zho:拖 (tuō)|drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
-toval|toval|||fra:touaille, eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|towel||toalla|toalha|||||||तौलिया|||||viŝilo|pyyhe|ręcznik
 transa|transa||||transit (pass through or across)||transitar (atravesar)||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 transe|transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (passage)||tránsito||||||||||||||läpikulku|przejazd, przewóz, tranzyt
 transeria|transeria||||transportation||transporte||||||||||||||kuljetus|transport
@@ -3473,7 +3474,6 @@ v:a k:e|va ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|g
 v:a liny:e|va linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 vad:e|vade|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina
 vad.o.susan:|vadosusan|biv|Convallaria majalis||lily of the valley||convalaria (lirio de los valles)|lírio-do-vale|ландыш||鈴蘭|キミカゲソウ (スズラン)||||||||||konwalia majowa
-vaf:|vaf|biv||eng:woof, spa:guau, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog||perro||||||||||||||koira|pies
 vagin:|vagin|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 vagin.itis:|vaginitis||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
 vakil:|vakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||reprezentant (przedstawiciel)
@@ -3502,7 +3502,6 @@ vax:a|vaxa|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash||lavar||мыть|||||||||
 vax.maxin:|vaxmaxin||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
 vax.urs:e|vaxurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|raccoon|raton laveur|mapache|guaxinim (rato-lavadeiro)|енот||浣熊|狸 (ラクーン, 洗い熊)||||||||||szop pracz
 vaz:e|vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|pot (vase, bin, jar, jug)|vase|jarrón (bote)||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
-vaz:e|vaze|||ara:(wāḥa), tur:vaha, fas:(vāhe) + eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|oasis||oasis|oasis|oasis|oásis|оазис|||オアシス|오아시스 (천지)|||||oazo|keidas|oaza
 vend:a|venda|||eng:vend, spa:por:vender, fra:vendre|sell (vend)|vendre|vender|vender|продать||卖|売る||||||||||sprzedać (sprzedawać)
 vend.o.xop:e|vendoxope||||trade (commerce)||comercio||||贸易|交易 (売買)||||||||||handel
 vend.o.xop.er:|vendoxoper||||trader (merchant)|||||||||||||||||handlarz (kupiec)
