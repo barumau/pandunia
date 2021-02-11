@@ -717,7 +717,7 @@ nid - nizde
 niveau - par  
 noir - siahi  
 noit - noce  
-nombre (numéro) - nombre  
+nombre (numéro) - numbe  
 nombre pair - pari nombre  
 non (ne...pas) - no  
 nord - norde  

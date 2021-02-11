@@ -1113,7 +1113,7 @@ Niĝero - Nijer
 nobelio - nobelem  
 nodo - node  
 nokto - noce  
-nombro - nombre  
+nombro - numbe  
 nomo - nam  
 nordo - norde  
 norvega - norgi  

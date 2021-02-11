@@ -793,7 +793,7 @@ nix - niche
 nizde - nid  
 no - non (ne...pas)  
 noce - noit  
-nombre - nombre (numéro)  
+numbe - nombre (numéro)  
 norde - nord  
 nostalgia - nostalgie  
 note - note  

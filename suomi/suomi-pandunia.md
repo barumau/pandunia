@@ -1419,7 +1419,7 @@ luiska (ramppi) - rampe
 lukea - duga  
 lukitsematon - ansori  
 luku (kirjan osa) - babe  
-lukumäärä (luku, numero) - nombre  
+lukumäärä (luku, numero) - numbe  
 lumi - him  
 lumme - nenufar  
 luodinkestävä - dansekuri  

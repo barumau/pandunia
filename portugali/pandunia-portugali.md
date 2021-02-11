@@ -676,7 +676,7 @@ nix - nicho
 nizde - ninho (vespiero)  
 no - não  
 noce - noite  
-nombre - número  
+numbe - número  
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note - nota  

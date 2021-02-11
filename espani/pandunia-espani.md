@@ -2259,8 +2259,8 @@ nol sate - nunca
 nol xey - nada  
 nola - cancelar  
 noma - dirigir (gestionar, administrar)  
-nombra - contar  
-nombre - número  
+numba - contar  
+numbe - número  
 nomia - gerencia (dirección)  
 nonga - cultivar  
 nonger - granjero (agricultor)  

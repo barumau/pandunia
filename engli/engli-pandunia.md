@@ -803,7 +803,7 @@ cougar (puma, mountain lion) - puma\*
 cough - kos  
 coulomb (unit) - kulombe  
 counselor (consultant) - konseler  
-count (enumerate) - nombra  
+count (enumerate) - numba  
 counterclockwise (anticlockwise) - fansoldixo  
 country (land, state) - dex  
 countryside - rustia  
@@ -2294,7 +2294,7 @@ nuclear weapon (nuke) - kerni arme
 nudism - nudistia  
 nudist - nudiste  
 number (abundance) - multia  
-number - nombre  
+number - numbe  
 nylon - nilon  
 ####O - O  
 oak tree - balute  

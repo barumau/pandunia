@@ -1298,7 +1298,7 @@ Liberia - Liberia
 Libia - Libia  
 liczi - lice  
 liczność (mnóstwo) - multia  
-liczyć - nombra  
+liczyć - numba  
 Liechtenstein - Lihtenstain  
 liga (stowarzyszenie) - lige  
 lilak - lilake  
@@ -1733,7 +1733,7 @@ nuda (znudzenie) - boria
 nudności (choroba lokomocyjna) - retroguli sense  
 nudysta - nudiste  
 nudyzm - nudistia  
-numer - nombre  
+numer - numbe  
 nylon - nilon  
 nóż - cake  
 ####O - O  

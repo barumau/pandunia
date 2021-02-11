@@ -908,7 +908,6 @@
 |**noce**|noc|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**node**|węzeł, zupeł|eng:node, spa:nudo, por:nó, fra:nœud|
 |**nol (noli)**|zero, nic, żaden|rus:ноль (nol'), may:nol, deu:null, eng:null|
-|**nombre**|numer|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |**nomia**|zarządzanie (-nomia)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
 |**nonga**|uprawić, uprawiać|zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|
 |**norde**|północ|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
@@ -918,6 +917,7 @@
 |**note**|uwaga, obserwacja|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |**novi**|nowy|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |**nudi**|nagi, goły, obnażony|eng:nude, spa:desnudo, por:fra:nu|
+|**numbe**|numer|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**o**|lub, albo|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
 |**oaze**|oaza|eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|
 |**oficeria**|biuro (pokój)|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|

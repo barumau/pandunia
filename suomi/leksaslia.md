@@ -874,7 +874,6 @@
 |**noce**|yö|espanja:noche, portugali:noite, venäjä:ночь (nočʹ), puola:noc|
 |**node**|solmu|englanti:node, espanja:nudo, portugali:nó, ranska:nœud|
 |**nol (noli)**|nolla (ei yhtään)|venäjä:ноль (nol'), malaiji:nol, deu:null, englanti:null|
-|**nombre**|lukumäärä (luku, numero)|englanti:number, ranska:nombre, hindi:नंबर (nambar), bangla:নম্বর (nômbôr), malaiji:nombor, suahili:nambari|
 |**nomia**|hallinto (hallinnointi)|englanti:-nomy, deu:ranska:-nomie, espanja:portugali:-nomia, venäjä:-номия (-nomiya)|
 |**nonga**|viljellä|yleiskiina:農 (nóng), kantoninkiina:農 (nung4), wu-kiina:農 (non3), japani:農 (nō), korea:농 (nong), vietnami:nông|
 |**norde**|pohjoinen|englanti:north, espanja:portugali:norte, deu:Nord, ranska:nord, venäjä:норд (nord)|
@@ -884,6 +883,7 @@
 |**note**|huomio (kommentti, merkintä)|deu:englanti:ranska:note, espanja:portugali:nota, turkki:not, japani:ノート (nōto), korea:노트 (noteu), persia:(not)|
 |**novi**|uusi|venäjä:новый (novyy), portugali:novo, espanja:nuevo, hindi:नव (nav), englanti:novel, ranska:nouveau|
 |**nudi**|alaston (paljas, naku)|englanti:nude, espanja:desnudo, portugali:ranska:nu|
+|**numbe**|lukumäärä (luku, numero)|englanti:number, ranska:nombre, espanja:portugali:número, venäjä:номер (nomer), deu:Nummer, japani:ナンバー (nanbā), hindi:नंबर (nambar), bangla:নম্বর (nômbôr), turkki:numara, malaiji:nombor, suahili:namba(ri)|
 |**o**|tai (vai)|englanti:or, espanja:filippiini:o, ranska:portugali:ou, yleiskiina:或 (huò), arabia:(ʾaw)|
 |**oaze**|keidas|englanti:ranska:espanja:portugali:oasis, venäjä:оазис (oazis), deu:Oase, puola:oaza, japani:オアシス (oashisu), korea:오아시스 (oasiseu) + arabia:(wāḥa), turkki:vaha, persia:(vāhe)|
 |**ode**|sija (paikka järjestyksessä)|englanti:order, ranska:ordre, espanja:orden, portugali:ordem, suahili:oda + yleiskiina:第 (dì), vietnami:đệ, khmer:ទី (dī)|

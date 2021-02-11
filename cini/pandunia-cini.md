@@ -682,7 +682,7 @@ nix - 壁龛
 nizde - 巢 (穴)  
 no - 不  
 noce - 夜  
-nombre - 数  
+numbe - 数  
 norde - 北  
 nostalgia - 怀旧  
 note - 便条  

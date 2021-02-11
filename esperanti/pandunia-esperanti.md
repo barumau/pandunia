@@ -1219,7 +1219,7 @@ no - ne
 nobelem - nobelio  
 noce - nokto  
 node - nodo  
-nombre - nombro  
+numbe - nombro  
 norde - nordo  
 Norge - Norvegio  
 norgi - norvega  

@@ -644,7 +644,7 @@ náusea - retroguli sense
 não - no  
 nós - mome  
 núcleo (cerne) - kerne  
-número - nombre  
+número - numbe  
 ####O - O  
 o que - ke  
 oasis - oaze  

@@ -1,9 +1,9 @@
 kitaba_pike() {
-   echo "#num da panduni lekse ca ali bax" > pandunia/lekse_du_nombre.md
-   echo "" >> pandunia/lekse_du_nombre.md
-   echo "| bax | num | fen |" >> pandunia/lekse_du_nombre.md
-   echo "|-----|-----|-----|" >> pandunia/lekse_du_nombre.md
-   cat temp/stats.txt >> pandunia/lekse_du_nombre.md
+   echo "#numbe da panduni loge ja ali bax" > pandunia/loge_du_numbe.md
+   echo "" >> pandunia/loge_du_numbe.md
+   echo "| bax | numbe | fen |" >> pandunia/loge_du_numbe.md
+   echo "|-----|-------|-----|" >> pandunia/loge_du_numbe.md
+   cat temp/stats.txt >> pandunia/loge_du_numbe.md
 }
 
 fata_leksasli_liste() {
@@ -62,10 +62,9 @@ konta_bax kor coseni $pan
 konta_bax vie vieti $pan
 
 konta_bax may malayi $pan
-konta_bax tgl filipini $pan
 
 konta_bax ara arabi $pan
-konta_bax swa swahili $pan
+konta_bax swa suahili $pan
 
 #kina nam e num pa sam linye
 perl -pi -e 's/ \n/ /' temp/stats.txt

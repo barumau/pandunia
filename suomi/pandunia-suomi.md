@@ -2154,7 +2154,7 @@ nol jan - ei kukaan
 nol sate - ei koskaan (ei kertaakaan)  
 nol xey - ei mitään  
 noma - järjestellä (hallinnoida, organisoida, manageroida)  
-nombre - lukumäärä (luku, numero)  
+numbe - lukumäärä (luku, numero)  
 nomia - hallinto (hallinnointi)  
 nonga - viljellä  
 nonger - maanviljelijä  

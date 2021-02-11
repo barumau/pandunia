@@ -781,7 +781,7 @@ constitución - bazokanun
 construir (edificar) - bina  
 consultor - konseler  
 contaminación (corrupción, porquería, suciedad) - najis  
-contar - nombra  
+contar - numba  
 contenedor - kontener  
 contener - inda  
 contenido - ten  
@@ -2311,7 +2311,7 @@ Níger - Nijer
 níquel - nikel  
 nómada - badavi  
 número (muchedumbre) - multia  
-número - nombre  
+número - numbe  
 número de identificación personal - sekurnombre  
 número par - pari nombre  
 ####O - O  

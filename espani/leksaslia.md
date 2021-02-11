@@ -907,7 +907,6 @@
 |**noce**|noche|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**node**|nudo|eng:node, spa:nudo, por:nó, fra:nœud|
 |**nol (noli)**|cero (ninguno)|rus:ноль (nol'), may:nol, deu:null, eng:null|
-|**nombre**|número|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |**nomia**|gerencia (dirección)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
 |**nonga**|cultivar|zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|
 |**norde**|norte|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
@@ -917,6 +916,7 @@
 |**note**|nota|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |**novi**|nuevo|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |**nudi**|desnudo|eng:nude, spa:desnudo, por:fra:nu|
+|**numbe**|número|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**o**|o|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
 |**oaze**|oasis|eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|
 |**oficeria**|oficina|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|

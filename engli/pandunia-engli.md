@@ -2431,8 +2431,8 @@ nol sate - never
 nol xey - nothing  
 nola - cancel (nullify)  
 noma - manage (organize, direct)  
-nombra - count (enumerate)  
-nombre - number  
+numba - count (enumerate)  
+numbe - number  
 nomia - management (-nomy)  
 nonga - cultivate (farm)  
 nonger - farmer  

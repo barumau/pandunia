@@ -927,7 +927,6 @@
 |**noce**|night|Spanish:noche, Portuguese:noite, Russian:ночь (nočʹ), Polish:noc|
 |**node**|knot (node)|English:node, Spanish:nudo, Portuguese:nó, French:nœud|
 |**nol (noli)**|zero (none)|Russian:ноль (nol'), Malay:nol, deu:null, English:null|
-|**nombre**|number|English:number, French:nombre, Hindi:नंबर (nambar), Bengali:নম্বর (nômbôr), Malay:nombor, Swahili:nambari|
 |**nomia**|management (-nomy)|English:-nomy, deu:French:-nomie, Spanish:Portuguese:-nomia, Russian:-номия (-nomiya)|
 |**nonga**|cultivate (farm)|Mandarin:農 (nóng), Cantonese:農 (nung4), Wu-Chinese:農 (non3), Japanese:農 (nō), Korean:농 (nong), Vietnamese:nông|
 |**norde**|north|English:north, Spanish:Portuguese:norte, deu:Nord, French:nord, Russian:норд (nord)|
@@ -937,6 +936,7 @@
 |**note**|note (observation, remark, comment)|deu:English:French:note, Spanish:Portuguese:nota, Turkish:not, Japanese:ノート (nōto), Korean:노트 (noteu), Persian:(not)|
 |**novi**|new (recent)|Russian:новый (novyy), Portuguese:novo, Spanish:nuevo, Hindi:नव (nav), English:novel, French:nouveau|
 |**nudi**|naked (bare, nude)|English:nude, Spanish:desnudo, Portuguese:French:nu|
+|**numbe**|number|English:number, French:nombre, Spanish:Portuguese:número, Russian:номер (nomer), deu:Nummer, Japanese:ナンバー (nanbā), Hindi:नंबर (nambar), Bengali:নম্বর (nômbôr), Turkish:numara, Malay:nombor, Swahili:namba(ri)|
 |**o**|or|English:or, Spanish:Filipino:o, French:Portuguese:ou, Mandarin:或 (huò), Arabic:(ʾaw)|
 |**oaze**|oasis|English:French:Spanish:Portuguese:oasis, Russian:оазис (oazis), deu:Oase, Polish:oaza, Japanese:オアシス (oashisu), Korean:오아시스 (oasiseu) + Arabic:(wāḥa), Turkish:vaha, Persian:(vāhe)|
 |**ode**|rank (position in an ordered list)|English:order, French:ordre, Spanish:orden, Portuguese:ordem, Swahili:oda + Mandarin:第 (dì), Vietnamese:đệ, Khmer:ទី (dī)|

@@ -2290,8 +2290,8 @@ nol jan - nikt, żadna osoba
 nol sate - nigdy  
 nol xey - nic, żadna rzecz  
 noma - zarządzać (organizować, kierować)  
-nombra - liczyć  
-nombre - numer  
+numba - liczyć  
+numbe - numer  
 nomia - zarządzanie (-nomia)  
 nonga - uprawić, uprawiać  
 nonger - rolnik, farmer  

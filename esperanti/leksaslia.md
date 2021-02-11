@@ -621,11 +621,11 @@
 |**no**|ne|angla:hispana:no, franca:non, portugala:não, bengala:না (na), rusa:не (nye), hindia:नहीं (nahī̃), korea:아니 (ani), japana:-ない (-nai)|
 |**noce**|nokto|hispana:noche, portugala:noite, rusa:ночь (nočʹ), polona:noc|
 |**node**|nodo|angla:node, hispana:nudo, portugala:nó, franca:nœud|
-|**nombre**|nombro|angla:number, franca:nombre, hindia:नंबर (nambar), bengala:নম্বর (nômbôr), malaja:nombor, svahila:nambari|
 |**norde**|nordo|angla:north, hispana:portugala:norte, deu:Nord, franca:nord, rusa:норд (nord)|
 |**nostalgia**|nostalgio (saudado)|angla:portugala:hispana:nostalgia, franca:nostalgie, deu:Nostalgie, rusa:ностальгия (nostalʹgiya), japana:ノスタルジー (nosutarujī), persa:(nostâlži)|
 |**note**|noto (rimarko, komento)|deu:angla:franca:note, hispana:portugala:nota, turka:not, japana:ノート (nōto), korea:노트 (noteu), persa:(not)|
 |**novi**|nova|rusa:новый (novyy), portugala:novo, hispana:nuevo, hindia:नव (nav), angla:novel, franca:nouveau|
+|**numbe**|nombro|angla:number, franca:nombre, hispana:portugala:número, rusa:номер (nomer), deu:Nummer, japana:ナンバー (nanbā), hindia:नंबर (nambar), bengala:নম্বর (nômbôr), turka:numara, malaja:nombor, svahila:namba(ri)|
 |**o**|aŭ|angla:or, hispana:filipina:o, franca:portugala:ou, mandarena:或 (huò), araba:(ʾaw)|
 |**oaze**|oazo|angla:franca:hispana:portugala:oasis, rusa:оазис (oazis), deu:Oase, polona:oaza, japana:オアシス (oashisu), korea:오아시스 (oasiseu) + araba:(wāḥa), turka:vaha, persa:(vāhe)|
 |**oke**|okulo|hispana:ojo, rusa:око (oko), bengala:অক্ষি (ôkkhi) + angla:portugala:ocular, franca:oculaire|
