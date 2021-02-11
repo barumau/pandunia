@@ -283,8 +283,7 @@ fotominar - 信号
 frem - 框  
 frika - 擦伤  
 fuke - 衣服  
-fuki - 穿  
-fuku - 穿衣服  
+fuku - 穿  
 ful - 花  
 fungopal - 蘑菇  
 ####G - G  
@@ -547,7 +546,7 @@ laxa - 落 (留下)
 laya - 来  
 layana - 带来  
 lazanye - 千层面  
-lazurxeke - 青金岩  
+lazurpetre - 青金岩  
 lefte - 左  
 lengi - 冷たい (寒い)  
 lengomosim - 冬天  
@@ -634,6 +633,7 @@ mening - 脑脊膜
 metalbede - 铁砧  
 metaljanger - 铁匠  
 mey (meyi) - 每  
+mezotex - 桌布  
 meze - 桌子  
 migra - 搬家  
 milkokardon - 水飞蓟  
@@ -690,6 +690,7 @@ novi - 新
 novike - 新手  
 ####O - O  
 o - 或  
+oaze - оазис  
 oke - 眼睛  
 okosuygas - 催泪瓦斯  
 okside - 氧化物  
@@ -902,7 +903,7 @@ terci - 斜的
 teroristia - 恐怖行为  
 tes - 论据  
 teste - 化验  
-texe - 布料  
+tex - 布料  
 tikete - 票  
 tim - 队  
 tira milke - 拉  
@@ -931,13 +932,13 @@ va - 在
 va linye - 在线  
 vade - 山谷  
 vadosusan - 鈴蘭  
+vaf - 狗  
 vagin - 阴道  
 val - 价值  
 vampir - 吸血鬼  
 van - 娱乐  
 vanu - 玩耍  
 vaxurse - 浣熊  
-vaze - оазис  
 venda - 卖  
 vendoxope - 贸易  
 venjovoranje - 温州蜜柑  

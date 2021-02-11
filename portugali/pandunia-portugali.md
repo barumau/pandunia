@@ -274,8 +274,7 @@ fransi krepe - crepe
 frem - moldura  
 fuka - vestir  
 fuke - roupa (vestidura)  
-fuki - trajar  
-fuku - vestir-se  
+fuku - trajar (vestir-se)  
 ful - flor  
 fung - fungo  
 fungopal - cogumelo  
@@ -291,6 +290,7 @@ galte - erro (falta)
 galti - errôneo  
 gamike - esposo ou esposa  
 gancav - feno  
+gantex - toalha  
 ganum - trigo  
 garmomosim - verão  
 garmozon - trópicos  
@@ -538,7 +538,7 @@ laya - vir
 layana - trazer  
 lazanye - lasanha  
 lazuri - azur (blau)  
-lazurxeke - lápis-lazúli  
+lazurpetre - lápis-lazúli  
 lefte - esquerdo  
 lengomosim - inverno  
 lengomosimi - invernal (hibernal)  
@@ -629,6 +629,7 @@ Merkur - Mercúrio
 mes - mês  
 mester - mestre  
 metalbede - bigorna  
+mezotex - toalha de mesa  
 meze - mesa  
 migre - migração  
 migru - mudar-se  
@@ -683,6 +684,7 @@ novi - novo
 novike - novato (neófito)  
 ####O - O  
 o - ou  
+oaze - oasis  
 oke - olho  
 oki - ocular  
 okosuygas - gás lacrimogéneo  
@@ -892,12 +894,11 @@ temnam - título
 terci - oblíquo (torto)  
 testa - tentar (provar)  
 teste - teste  
-texe - fazenda (tecido)  
+tex - fazenda (tecido)  
 texmaxin - tear  
 tikete - bilhete  
 tomate - tomate  
 tova - arrastar  
-toval - toalha  
 trate - acordo (tratado, contrato)  
 truka - enganar  
 truke - truque (fraude)  
@@ -920,6 +921,7 @@ va ke - onde
 va linye - online  
 vade - vale (uadi)  
 vadosusan - lírio-do-vale  
+vaf - cão (cachorro)  
 vagin - vagina  
 vaginitis - vaginite  
 val - valor (valia)  
@@ -929,7 +931,6 @@ vampir - vampiro
 varkalge - kelp  
 varkolate - página  
 vaxurse - guaxinim (rato-lavadeiro)  
-vaze - oasis  
 venda - vender  
 vendoxopa - торговать  
 ventur - aventura  

@@ -56,7 +56,7 @@
 |**arte**|art (skilful creative activity)|Spanish:Portuguese:arte, English:French:art, Japanese:アート (āto)|
 |**asan**|posture (asana)|Hindi:आसन (āsan), English:asana, Russian:асана (asana)|
 |**asar**|effect (impact, impression, result, outcome)|Arabic: أَثَر‎ (ʾaṯar), Persian: اثر‎ (asar), Hindi:असर (asar), Bengali:আসর (asôr), Turkish:eser,tesir|
-|**asia**|Asia|English:Spanish:Asia, Russian:Азия (Aziya), Turkish:Asya, Arabic:آسيا (ʾāsiyā), Persian:آسیا‎ (âsiyâ), Hindi:एशिया (eśiyā), Bengali:এশিয়া (eśiẏa), Marathi:आशिया (āśiyā), Malay:Asia, Mandarin:亞洲 (yàzhōu), Cantonese:亚洲 (aa3 zau1), Wu-Chinese:亚洲 (ia tseu), Japanese:アジア (ajia), Korean:아시아 (asia)|
+|**Asia**|Asia|English:Spanish:Asia, Russian:Азия (Aziya), Turkish:Asya, Arabic:آسيا (ʾāsiyā), Persian:آسیا‎ (âsiyâ), Hindi:एशिया (eśiyā), Bengali:এশিয়া (eśiẏa), Marathi:आशिया (āśiyā), Malay:Asia, Mandarin:亞洲 (yàzhōu), Cantonese:亚洲 (aa3 zau1), Wu-Chinese:亚洲 (ia tseu), Japanese:アジア (ajia), Korean:아시아 (asia)|
 |**askete**|ascetic|English:ascetic, Spanish:Portuguese:asceta, French:ascéte, Russian:аскет (asket)|
 |**asle**|origin (source)|Arabic:(ʾaṣl), Turkish:asl, Malay:asal, Hindi:असल (asl), Swahili:asili|
 |**asme**|asthma|French:asthme, English:asthma, Spanish:Portuguese:Malay:asma, Polish:astma|
@@ -512,7 +512,6 @@
 |**ion**|ion|English:French:Spanish:ion, Russian:ион (ion), Turkish:iyon|
 |**irita**|irritate (annoy, disturb)|English:irritate, French:irriter, Spanish:Portuguese:irritar, deu:irritieren, Japanese:いらいらさせる (iraira saseru)|
 |**ironia**|irony|English:irony, Spanish:ironía, Portuguese:ironia, French:ironie, Russian:иро́ния (ironija), Japanese:アイロニー (aironī)|
-|**isa**|cause to make|English:-ize, Spanish:Portuguese:-izar, French:-iser, Russian:-изова́ть (-izovat’)|
 |**islam**|submission (surrender)|Arabic:(ʾislām), Persian:(taslim), Turkish:teslim|
 |**istan**|region|Persian:ـستان‎ (-estān), hye:-ստան (-stan), kaz:tat:Russian:-стан (-stan), Turkish:English:Spanish:Malay:-istan, Portuguese:istão, Hindi:-स्तान (-stān), Mandarin:斯坦 (sītǎn), Japanese:-スタン (sutan)|
 |**iste**|proponent (supporter, activist, -ist)|English:deu:Turkish:-ist, French:-iste, Spanish:Portuguese:-ista, Russian:-ист (-ist)|
@@ -728,7 +727,7 @@
 |**laxa**|leave behind (abandon, let go)|French:laisser,lâcher, Italian:lasciare, deu:lassen|
 |**laya**|come (arrive)|Mandarin:来 (lái), Cantonese:嚟 (lai4), Japanese:来 (rai), Vietnamese:lại|
 |**lazanye**|lasagna|French:lasagne, English:lasagna, Spanish:lasaña, Portuguese:lasanha, Russian:лазанья (lazanya), Arabic:(lazanyā), Japanese:ラザニア (razania), Korean:라자냐 (lajanya), Hindi:लज़ैन्या (lazenyā)|
-|**lazurxeke**|lapis lazuli|Persian:لاجورد (lājevard), English:lazuli, Spanish:lapislázuli, Russian:лазурит (lazurit), Arabic:لازورد (lāzaward), Hindi:लाजवर्द (lājavarda), Japanese:ラピスラズリ (rapisurazuri), Malay:lazuardi, Turkish:lazur taşı|
+|**lazurpetre**|lapis lazuli|Persian:لاجورد (lājevard), English:lazuli, Spanish:lapislázuli, Russian:лазурит (lazurit), Arabic:لازورد (lāzaward), Hindi:लाजवर्द (lājavarda), Japanese:ラピスラズリ (rapisurazuri), Malay:lazuardi, Turkish:lazur taşı|
 |**lefte**|left|English:left|
 |**legi**|light (weightless)|English:light, Spanish:ligero, French:léger, Russian:лёгкий (l’ogkiy), Polish:lekki, Bengali:লঘু (laghu)|
 |**lengi**|cold|Mandarin:冷 (lěng), Vietnamese:lạnh, Cantonese:冷 (laang5)|
@@ -939,6 +938,7 @@
 |**novi**|new (recent)|Russian:новый (novyy), Portuguese:novo, Spanish:nuevo, Hindi:नव (nav), English:novel, French:nouveau|
 |**nudi**|naked (bare, nude)|English:nude, Spanish:desnudo, Portuguese:French:nu|
 |**o**|or|English:or, Spanish:Filipino:o, French:Portuguese:ou, Mandarin:或 (huò), Arabic:(ʾaw)|
+|**oaze**|oasis|English:French:Spanish:Portuguese:oasis, Russian:оазис (oazis), deu:Oase, Polish:oaza, Japanese:オアシス (oashisu), Korean:오아시스 (oasiseu) + Arabic:(wāḥa), Turkish:vaha, Persian:(vāhe)|
 |**ode**|rank (position in an ordered list)|English:order, French:ordre, Spanish:orden, Portuguese:ordem, Swahili:oda + Mandarin:第 (dì), Vietnamese:đệ, Khmer:ទី (dī)|
 |**oficeria**|office (room)|English:French:office, Spanish:oficina, Russian:офис (ofis), Turkish:ofis, Swahili:afisi, Bengali:অফিস (ôphiś), Malay:opis, Japanese:オフィス (ofisu)|
 |**oke**|eye|Spanish:ojo, Russian:око (oko), Bengali:অক্ষি (ôkkhi) + English:Portuguese:ocular, French:oculaire|
@@ -1272,7 +1272,6 @@
 |**torse**|trunk (torso)|French:torse, Russian:торс (tors), deu:English:Spanish:Malay:torso|
 |**tortuge**|turtle (tortoise)|English:tortoise, Spanish:tortuga, Portuguese:tartaruga, French:tortue|
 |**tova**|drag (haul, tow, trail)|English:tow, Mandarin:拖 (tuō)|
-|**toval**|towel|French:touaille, English:towel, Spanish:toalla, Portuguese:toalha, Hindi:तौलिया (tauliyā), Bengali:তোয়ালে (toyale), Filipino:tuwalya, Japanese:タオル (taoru)|
 |**transe**|transit (passage)|English:French:Spanish:Portuguese:deu:Malay:trans-, Russian:транс- (trans-)|
 |**trate**|agreement (treaty)|English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak|
 |**tren**|train|English:French:train, Spanish:Turkish:tren, Hindi:ट्रेन (ṭren), Portuguese:trem|
@@ -1297,7 +1296,7 @@
 |**urse**|bear|French:ours, Portuguese:urso, Spanish:oso, Persian:(xers)|
 |**uza**|use (employ, apply)|English:use, Spanish:usar, Polish:używać|
 |**vade**|valley|English:valley, French:vallée, Spanish:valle, Portuguese:vale, Arabic: وَادٍ‎ (wādin), Hindi:वादी (vādī), Malay:wadi, Turkish:vadi|
-|**vaf**|dog|English:woof, Spanish:guau, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)|
+|**vaf**|dog|English:woof, French:ouaf, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)|
 |**vagin**|vagina|English:French:vagina, Portuguese:Spanish:vagina, Russian:вагина (vagina), Japanese:ワギナ (wagina), Korean:바기나 (bagina), Turkish:vajina, Malay:vagina|
 |**vakil**|representative (proxy, agent)|Arabic:وكيل‎ (wakīl), Swahili:wakili, Persian:وکیل‎ (vakil), Hindi:वकील (vakīl), Bengali:উকিল (ukil)|
 |**vaksin**|vaccine|English:vaccine, Spanish:vacuna, Portuguese:vacina, Russian:вакцина (vakcina), Hindi:वैक्सीन (vaiksīn), Japanese:ワクチン (wakuchin), Malay:vaksin|
@@ -1309,7 +1308,6 @@
 |**vav**|wow! (gee!)|Mandarin:哇 (wā), English:wow|
 |**vaxa**|wash|English:wash, deu:waschen, Mandarin:洗 (xǐ)|
 |**vaxurse**|raccoon|Mandarin:浣熊, Japanese:洗熊, Italian:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
-|**vaze**|oasis|Arabic:(wāḥa), Turkish:vaha, Persian:(vāhe) + English:French:Spanish:Portuguese:oasis, Russian:оазис (oazis), deu:Oase, Polish:oaza, Japanese:オアシス (oashisu), Korean:오아시스 (oasiseu)|
 |**vaze**|pot (vase, bin, jar, jug)|deu:English:French:vase, Polish:waza, Russian:ваза (vaza), Turkish:vazo|
 |**venda**|sell (vend)|English:vend, Spanish:Portuguese:vender, French:vendre|
 |**ventur**|adventure (venture)|deu:Abenteuer, Spanish:aventura, French:aventure, Russian:авантюра (avantyura), Turkish:avantür, English:adventure|

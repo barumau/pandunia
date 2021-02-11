@@ -159,7 +159,7 @@ Artike - Ártico
 Artiki Hay - océano Ártico  
 Aruba - Aruba  
 asi - asiático  
-asia - Asia  
+Asia - Asia  
 asan - postura (posición)  
 asar - resulta (efecto)  
 asara - efectuar  
@@ -645,7 +645,7 @@ dolfin - delfín
 dom - casa (hogar, residencia)  
 doma - vivir (residir)  
 domi - doméstico (domesticado)  
-domisa - alojar (hospedar)  
+domana - alojar (hospedar)  
 domzeze - mosco  
 dominogem - dominó  
 Dominiki Komunkratia - Republica Dominicana  
@@ -660,8 +660,8 @@ dongogoril - gorila oriental
 donjon aventur - juego de mazmorras  
 dosila - domar (amansar)  
 dosili - manso (dócil, obediente)  
-dosiljenisi - domesticado  
-dosiljenisa - domesticar (cultivate)  
+dosiljeni - domesticado  
+dosiljenita - domesticar (cultivate)  
 doste - amigo  
 dosti - simpático (amable, tierno, dulce)  
 dostia - amistad (compañerismo)  
@@ -923,8 +923,8 @@ frika - raspar (arañar)
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuka - vestir  
 fuke - ropa (vestimenta)  
-fuki - llevar (vestir)  
-fuku - verstirse  
+fuki - vestido (llevando ropa)  
+fuku - llevar (verstirse)  
 ful - flor  
 fulu - florecer  
 fulmosim - primavera  
@@ -971,6 +971,7 @@ gana - secar
 gani - seco (árido)  
 gancav - heno  
 ganputav - pasa (uva pasa)  
+gantex - toalla  
 Gana - Ghana  
 Ganda - Uganda  
 Ganga - Ganges  
@@ -1291,7 +1292,6 @@ iridem - iridio
 irita - molestar (irritar, fastidiar)  
 ironi - irónico  
 ironia - ironía  
-isa - hacer (verbo activo)  
 islam - sumisión (rendición)  
 islamfobia - islamofobia  
 islamiste - musulmán  
@@ -1576,10 +1576,10 @@ kitu - ir
 kitaba - escribir  
 kitabe - escritura  
 kitabia - literatura  
+kitaboforme - formateo  
 kitabokan - biblioteca  
 kitabomaxin - máquina de escribir  
 kitabominister - bibliotecario  
-kitaborupe - formateo  
 kivi\* - kiwi fruta  
 klara - aclarar (clarificar)  
 klari - claro  
@@ -1773,7 +1773,7 @@ laya - venir
 layana - traer  
 lazanye - lasaña  
 lazuri - azur (blao)  
-lazurxeke - lapislázuli  
+lazurpetre - lapislázuli  
 lefte - lado izquerdo  
 lefti - izquierdo  
 leftiste - izquerdista  
@@ -2041,6 +2041,7 @@ metre - medida
 Mexiko - México  
 Mexiko site - Ciudad de México  
 mey (meyi) - cada  
+mezotex - mantel  
 meze - mesa  
 mezistan - meseta  
 mien - fideo (tallarín)  
@@ -2175,7 +2176,7 @@ najisbinde - mancha
 najisi - sucio (corrompido)  
 nam - nombre  
 Namibia - Namibia  
-namisa - llamar (poner)  
+namita - llamar (poner)  
 namkitaba - firmar  
 namloge - sustantivo  
 namu - llamarse  
@@ -2256,7 +2257,7 @@ nol (noli) - cero (ninguno)
 nol jan - ningunos  
 nol sate - nunca  
 nol xey - nada  
-nolisa - cancelar  
+nola - cancelar  
 noma - dirigir (gestionar, administrar)  
 nombra - contar  
 nombre - número  
@@ -2280,9 +2281,9 @@ nosi - nasal
 nostalgi - nostálgico  
 nostalgia - nostalgia  
 nota - notar (observar)  
+notana - avisar (notificar)  
 note - nota  
 notis - aviso (notificación)  
-notisa - avisar (notificar)  
 notobuke - cuaderno (libreta)  
 nova - renovar  
 nove - novedad  
@@ -2298,6 +2299,7 @@ nudistia - nudismo
 nuton - newton (N)  
 ####O - O  
 o - o  
+oaze - oasis  
 Oceania - Oceanía  
 odisi - oriya  
 ofice - cargo  
@@ -3124,8 +3126,8 @@ tesa - argumentar (alegar)
 tesle - tesla (T)  
 testa - intentar (probar)  
 teste - prueba  
+tex - tela (paño, tejido)  
 texa - tejer  
-texe - tela (paño, tejido)  
 texmaxin - telar  
 tezi - intenso (brusco, ácido, fuerte, afilado, rápido)  
 ticin - instrumento de arco  
@@ -3160,7 +3162,6 @@ torem - torio
 torse - torso  
 tortuge - tortuga  
 tova - arrastrar  
-toval - toalla  
 transa - transitar (atravesar)  
 transe - tránsito  
 transeria - transporte  
@@ -3265,7 +3266,6 @@ vaxa - lavar
 vaxmaxin - lavadora  
 vaxurse - mapache  
 vaze - jarrón (bote)  
-vaze - oasis  
 venda - vender  
 vendoxope - comercio  
 vendoxopa - comerciar  

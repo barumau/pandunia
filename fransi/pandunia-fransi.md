@@ -99,7 +99,7 @@ arsen - arsenic
 arte - art  
 artiste - artiste  
 asi - asiatique  
-asia - Asie  
+Asia - Asie  
 asar - effet  
 asara - effectuer  
 asle - origine  
@@ -282,8 +282,8 @@ donivi - généreux
 dong - east (orient)  
 dosila - apprivoiser (dresser, dompter, discipliner)  
 dosili - docile (insipide)  
-dosiljenisi - domestiqué (apprivoisé)  
-dosiljenisa - domestiquer (apprivoiser)  
+dosiljeni - domestiqué (apprivoisé)  
+dosiljenita - domestiquer (apprivoiser)  
 duga - lire  
 duli - deux (2)  
 dulbaxi - bilingue  
@@ -358,8 +358,7 @@ Fransofonia - francophonie
 frem - cadre  
 fuka - habiller (vêtir)  
 fuke - vêtements  
-fuki - porter  
-fuku - s’habiller  
+fuku - porter (s’habiller)  
 ful - fleur  
 fungonete - mycélium  
 fungopal - champignon  
@@ -377,6 +376,7 @@ galti - erroné
 gamia - mariage  
 gamike - époux  
 gancav - foin  
+gantex - serviette  
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
@@ -448,7 +448,7 @@ hemahe - tente
 hen - haine  
 Hesia - Hesse  
 hevan - animal (bête)  
-hevanjenisia - élevage  
+hevanjenitia - élevage  
 hevanparke - zoo  
 hiar - concombre  
 hijabe - voile  
@@ -646,7 +646,7 @@ laya - venir
 layana - apporter  
 lazanye - lasagne  
 lazuri - azur  
-lazurxeke - lapis-lazuli  
+lazurpetre - lapis-lazuli  
 legi - léger  
 lengomosim - hiver  
 lengomosimi - hivernal (hibernal)  
@@ -741,6 +741,7 @@ Merkur - Mercure
 mes - mois  
 mester - maître  
 metalbede - enclume  
+mezotex - nappe  
 meze - table  
 migre - migration  
 migru - s'installer (déménager)  
@@ -1054,7 +1055,7 @@ terci - oblique (de travers)
 teroristia - terrorisme  
 tes - argument  
 teste - épreuve (test)  
-texe - tissu  
+tex - tissu  
 tikete - billet  
 tim - équipe  
 tira milke - tirer  
@@ -1084,6 +1085,7 @@ va - a (dans, en, chez)
 va ke - où  
 va linye - en ligne  
 vade - vallée (oued)  
+vaf - chien  
 vagin - vagine  
 vaginitis - vaginite  
 val - valeur  

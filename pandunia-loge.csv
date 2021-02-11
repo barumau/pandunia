@@ -181,6 +181,8 @@ art.ist:e|artiste||||artist|artiste|artista|artista|художник (артис
 Artik:e|Artike|dex|||Arctic||Ártico||||||||||||||Arktis|Arktyka
 Artik:i Hay|Artiki Hay||||Arctic Ocean||océano Ártico||||||||||||||Jäämeri|Ocean Arktyczny
 Aruba:|Aruba|dex|AW||Aruba||Aruba||||||||||||||Aruba|Aruba
+as:i|asi||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
+as:ia|Asia|||eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|Asia|Asie|Asia|||||||||||||Azio|Aasia|Azja
 asan:|asan|||hin:आसन (āsan), eng:asana, rus:асана (asana)|posture (asana)||postura (posición)||поза||||||||sikap (posisi)|||posteno|asento|postawa ciała; asana
 asar:|asar|||ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir|effect (impact, impression, result, outcome)|effet|resulta (efecto)|efeito|эффект||影响|効果|||||||||vaikutus (tulos)|rezult, wynik
 asar:a|asara||||effect (bring about)|effectuer|efectuar|efetuar|||||||||||||vaikuttaa|poprowadzić do (doprowadzić do, powodować)
@@ -223,8 +225,6 @@ avar.an:i|avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||dama�
 Axur:|Axur|xefocite|||Assur||Assur (Ashur)||||||||||||||Assur|Aszur
 Axur:ia|Axuria|||akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr)|Assyria||Asiria||||||||||||||Assyria|Asyria
 ay:|ay|||spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|ouch (ow, alas)|aïe!|ay!|ai!||||||||||||aj (alas)|ai! (au!)|aj!, ał!
-az:i|azi||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
-Az:ia|Azia|||eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|Asia|Asie|Asia|||||||||||||Azio|Aasia|Azja
 Azerbaijan:|Azerbaijan|dex|AZ||Azerbaijan||Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan
 B|B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B
 bab:e|babe|||may:bab, ara:urd:fas:(bāb)|chapter (section)|chapitre|capítulo (sección)||глава||章|||||||||ĉapitro|luku (kirjan osa)|rozdział, sekcja
@@ -1034,7 +1034,6 @@ gabr.o.xek:e|gabroxeke||||tombstone (gravestone)|pierre tombale|lápida|lápide|
 gad:e|gade|biv|Equus africanu asinus|hin:गधा (gadhā), ben:গাধা (gadha), guj:ગધેડો (gadheḍo), tel:(gāḍida), tam:(kaḻutai), may:keledai, + yor:ké̩té̩ké̩té̩|donkey (ass)||burro (asno)|||||||||||||azeno|aasi|osioł
 gad.o.gud:e|gadogude|biv|Equus asinus♂ × Equus caballus♀||mule|mule|mula||мул||骡|騾馬|||||||||muuli|muł
 gadolin.em:|gadolinem|mate|Gd||gadolinium||gadolinio|||||||||||||gadolinio|gadolinium|gadolin
-gaf:|gaf|biv||eng:woof, spa:guau, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog||perro||||||||||||||koira|pies
 gaj:e|gaje|||hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|elephant||elefante|||||||||||||elefanto|norsu (elefantti)|słoń
 Gal:ia|Galia||||Gaul|Gaule|Galia|Gália|Галлия||高卢|ガリア||||||||Gaŭlio|Gallia|Galia
 gal.em:|galem|mate|Ga||gallium||galio|||||||||||||galiumo|gallium|gal
@@ -1055,6 +1054,7 @@ gan:i|gani|||zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon)|dry||
 gan.cav:|gancav||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
 gan.mosim:|ganmosim|mosim|||dry season||||||||||||musim kemarau|||||
 gan.putav:|ganputav|||kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|raisin||pasa (uva pasa)|||||||||||||sekvinbero|rusina|rodzynka
+gan.tex:|gantex||||towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
 Gana:|Gana|dex|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
 Ganda:|Ganda|dex|UG||Uganda||Uganda||||||||||||||Uganda|Uganda
 Ganga:|Ganga||||Ganges||Ganges|||||||||||||Gangoj|Ganges|Ganges
@@ -1637,7 +1637,7 @@ Katalun:ia|Katalunia||||Catalonia||Cataluña|||||||||||||Katalunio|Katalonia|Kat
 katan:|katan|||jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|sword|épée|espada|espada|меч||剑|刀 (剣)|||तलवार||pedang||kılıç|glavo|miekka|miecz
 Katar:|Katar|dex|QA||Qatar||Catar (Qatar)||||||||||||||Qatar|Katar
 katus:|katus|biv|Cactaceae|eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus|cactus|cactus|cacto|cacto|кактус||仙人掌|サボテン|||||kaktus||kaktüs|kaktuso|kaktus|kaktus
-Kaukaz:ia|Kaukazia|||eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||||||||||||||Kaukasia|Kaukazja
+Kaukas:ia|Kaukasia|||eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||||||||||||||Kaukasia|Kaukazja
 kav:a|kava|||spa:por:cavar, eng:excavar, fra:excaver|dig (excavate)|creuser|cavar (excavar)|cavar (escavar)|копать||挖|掘る||đào (bới)|खोदना||gali (korek)||kazmak|fosi|kaivaa|wykopać, kopać, wydobyć, wydobywać, wykopywać
 kav:e|kave||||pit (excavation, cavity)|fosse|fosa|buraco|яма||坑 (穴)|||||||||foso|kuoppa (kolo)|dół, jama, wydobycie, wykop, wykopalisko
 kavay:i|kavayi|||jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|cute (sweet)||lindo (precioso)|||||||||||||ĉarma|söpö (suloinen)|uroczy, słodki
@@ -2210,6 +2210,7 @@ metre|metre|||eng:meter, hin:मात्रा (mātrā), ben:মাত্র�
 Mexiko|Mexiko|dex|MX||Mexico||México|||||||||||||Meksikio|Meksiko|Meksyk
 Mexiko site|Mexiko site||||Mexico City||Ciudad de México|||||||||||||||Meksyk
 mey (meyi)|mey (meyi)|||zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|every (each)||cada||||每|毎||||||||ĉiu(j)|joka (jokainen)|każdy, wszyscy
+mez.o.tex:|mezotex||||tablecloth|nappe|mantel|toalha de mesa|скатерть|غِطَاء اَلْمَائِدَة‎|桌布|テーブル掛け|식탁보|khăn trải bàn|मेज़पोश|টেবিলক্লথ|alas meja||masa örtüsü|tablotuko|pöytäliina|obrus
 meze|meze|||por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|table|table|mesa|mesa|стол|طَاوِلَة|桌子|机 (テーブル)|||मेज़||meja|meza|masa|tablo|pöytä|stół
 mezistan|mezistan||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
 mien|mien|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
@@ -2462,9 +2463,9 @@ nosi|nosi||||nasal||nasal||||||||||||||nenä- (nasaali)|nosowy
 nostalgi|nostalgi||||nostalgic||nostálgico|||||||||||||||nostalgiczny
 nostalgia|nostalgia||27 emotions|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|nostalgia (longing)|nostalgie|nostalgia|nostalgia (saudade)|ностальгия (тоска)||怀旧|懐古 (懐旧)|||||||hasret|nostalgio (saudado)|kaipuu (ikävä, nostalgia)|nostalgia (tęsknota)
 nota|nota||||note (observe, notice)||notar (observar)|||||||||||||rimarki|huomata (hoksata)|notować, obserwować, zauważyć, zauważać
+notana|notana||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiadamiać
 note|note|||deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|note (observation, remark, comment)|note|nota|nota|запись (заметка)||便条||||||||not|noto (rimarko, komento)|huomio (kommentti, merkintä)|uwaga, obserwacja
 notis|notis||||notice (notification)||aviso (notificación)||||||||||||||huomautus|wiadomość, zawiadomienie, powiadomienie
-notana|notana||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiadamiać
 notobuke|notobuke||||notebook||cuaderno (libreta)|||||||||||||kajero|muistikirja|notatnik
 nova|nova||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić, odnawiać, uczynić nowym
 nove|nove||||novelty||novedad|||||||||||||||nowość
@@ -3351,10 +3352,10 @@ tesa|tesa||||argue (claim)||argumentar (alegar)||||||||||||||väittää|dyskutoa
 tesle|tesle|unomete|T||tesla (T)||tesla (T)||||||||||||||tesla (T)|tesla (T)
 testa|testa||||try (attempt)||intentar (probar)|tentar (provar)|||||||कोशिश करना|চেষ্টা করা|||||yrittää (kokeilla)|spróbować, próbować
 teste|teste|||eng:fra:test, rus: тест (test), por:teste, tur:test|test (try, attempt)|épreuve (test)|prueba|teste|проба (тест)||化验||||||||test|testo|koe (testi, yritys)|test, wyzwanie, próba
-Tetis|Tetis|planete 6 lune 3|||Tethys|||||||||||||||||
-texa|texa|||spa:tejer, por:tecer, fra:tisser, eng:textile|weave||tejer|||||||||||||||tkać (pleść)
-texe|texe||||cloth (fabric, textile)|tissu|tela (paño, tejido)|fazenda (tecido)|ткань||布料|布||||||||||tkanina (materiał, sukno)
-texmaxin|texmaxin||||loom||telar|tear|ткацкий станок|||織機||||||||||krosno
+Tetis|Tetis|planete 6 lune 3|||Tethys||||||||||||||||Tethys|
+tex:|tex||||cloth (fabric, textile)|tissu|tela (paño, tejido)|fazenda (tecido)|ткань||布料|布|||||||||kangas|tkanina (materiał, sukno)
+tex:a|texa|||spa:tejer, por:tecer, fra:tisser, eng:textile|weave||tejer||||||||||||||kutoa kangasta|tkać (pleść)
+tex.maxin:|texmaxin||||loom||telar|tear|ткацкий станок|||織機|||||||||kutomakone|krosno
 tezi|tezi|||hin:तेज़ (tez), urd:(tez), fas:(tiz)|intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)||intenso (brusco, ácido, fuerte, afilado, rápido)||||||||||||||kiihkeä (väkevä, voimakas, vahva, kova)|intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)
 tezu|tezu||||intensify|||||||||||||||||wzmacniać się (wzmagać, pogłębiać się)
 ticin|ticin|||zho:提琴 (tíqín), yue:提琴 (tai4 kam4), uu:提琴 (di jin3), jpn:提琴 (teikin)|bow instrument (violin, etc.)||instrumento de arco||||||||||||||jousisoitin|chordofon, instrument strunowy
@@ -3377,7 +3378,6 @@ tiran:ia|tirania||||tyranny||tiranía||||||||||||||tyrannia|tyrania
 Titan:|Titan|planete 6 lune 6|||Titan|||||||||||||||||
 Titan:ia|Titania|planete 7 lune 4|||Titania|||||||||||||||||
 titan.em:|titanem|mate|Ti||titanem||titanio|||||||||||||titanio|titaani|tytan
-toal:|toal|||fra:touaille, eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|towel||toalla|toalha|||||||तौलिया|||||viŝilo|pyyhe|ręcznik
 toc:a|toca|||eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|touch|toucher|tocar (rozar)||касаться||接触|||||||||tuŝi|koskea (koskettaa)|dotyczyć
 Togo:|Togo|dex|TG||Togo||Togo|||||||||||||Toglando|Togo|Togo
 toks:e|tokse||||poison (venom)||veneno (toxina)|||||毒|||||||||myrkky|trucizna (toksyna)
@@ -3474,6 +3474,7 @@ v:a k:e|va ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|g
 v:a liny:e|va linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 vad:e|vade|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina
 vad.o.susan:|vadosusan|biv|Convallaria majalis||lily of the valley||convalaria (lirio de los valles)|lírio-do-vale|ландыш||鈴蘭|キミカゲソウ (スズラン)||||||||||konwalia majowa
+vaf:|vaf|biv||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog|chien|perro|cão (cachorro)|собака|كَلْب‎|狗|犬 (狗)|개|chó|कुत्ता|কুকুর|anjing (asu)|mbwa|köpek|hundo|koira|pies
 vagin:|vagin|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 vagin.itis:|vaginitis||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
 vakil:|vakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||reprezentant (przedstawiciel)

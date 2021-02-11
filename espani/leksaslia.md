@@ -55,7 +55,7 @@
 |**arte**|arte|spa:por:arte, eng:fra:art, jpn:アート (āto)|
 |**asan**|postura (posición)|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |**asar**|resulta (efecto)|ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir|
-|**asia**|Asia|eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|
+|**Asia**|Asia|eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|
 |**askete**|asceta|eng:ascetic, spa:por:asceta, fra:ascéte, rus:аскет (asket)|
 |**asle**|origen|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |**asme**|asma|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
@@ -500,7 +500,6 @@
 |**ion**|ion|eng:fra:spa:ion, rus:ион (ion), tur:iyon|
 |**irita**|molestar (irritar, fastidiar)|eng:irritate, fra:irriter, spa:por:irritar, deu:irritieren, jpn:いらいらさせる (iraira saseru)|
 |**ironia**|ironía|eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|
-|**isa**|hacer (verbo activo)|eng:-ize, spa:por:-izar, fra:-iser, rus:-изова́ть (-izovat’)|
 |**islam**|sumisión (rendición)|ara:(ʾislām), fas:(taslim), tur:teslim|
 |**istan**|región (zona)|fas:ـستان‎ (-estān), hye:-ստան (-stan), kaz:tat:rus:-стан (-stan), tur:eng:spa:may:-istan, por:istão, hin:-स्तान (-stān), zho:斯坦 (sītǎn), jpn:-スタン (sutan)|
 |**iste**|proponente (defensor, -ista)|eng:deu:tur:-ist, fra:-iste, spa:por:-ista, rus:-ист (-ist)|
@@ -709,7 +708,7 @@
 |**laxa**|dejar|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |**laya**|venir|zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|
 |**lazanye**|lasaña|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
-|**lazurxeke**|lapislázuli|fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|
+|**lazurpetre**|lapislázuli|fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|
 |**lefte**|lado izquerdo|eng:left|
 |**legi**|ligero|eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|
 |**lengi**|frío|zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)|
@@ -919,6 +918,7 @@
 |**novi**|nuevo|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |**nudi**|desnudo|eng:nude, spa:desnudo, por:fra:nu|
 |**o**|o|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
+|**oaze**|oasis|eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|
 |**oficeria**|oficina|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|
 |**oke**|ojo|spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|
 |**okeyi**|bien|eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|
@@ -1248,7 +1248,6 @@
 |**torse**|torso|fra:torse, rus:торс (tors), deu:eng:spa:may:torso|
 |**tortuge**|tortuga|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|
 |**tova**|arrastrar|eng:tow, zho:拖 (tuō)|
-|**toval**|toalla|fra:touaille, eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
 |**transe**|tránsito|eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|
 |**trate**|contrato (tratado)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
 |**tren**|tren|eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|
@@ -1273,7 +1272,7 @@
 |**urse**|oso|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**uza**|usar (aplicar)|eng:use, spa:usar, pol:używać|
 |**vade**|valle|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
-|**vaf**|perro|eng:woof, spa:guau, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
+|**vaf**|perro|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagin**|vagina|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
 |**vaksin**|vacuna|eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|
 |**vampir**|vampiro|deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|
@@ -1285,7 +1284,6 @@
 |**vaxa**|lavar|eng:wash, deu:waschen, zho:洗 (xǐ)|
 |**vaxurse**|mapache|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
 |**vaze**|jarrón (bote)|deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|
-|**vaze**|oasis|ara:(wāḥa), tur:vaha, fas:(vāhe) + eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|
 |**venda**|vender|eng:vend, spa:por:vender, fra:vendre|
 |**ventur**|aventura|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
 |**veri**|verdadero|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|

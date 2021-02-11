@@ -126,7 +126,7 @@ almendra - badam
 almirante - hayamirer  
 almohada - kuxen  
 almuerzo - denyam  
-alojar (hospedar) - domisa  
+alojar (hospedar) - domana  
 alquilar (arrendar, dar en arriendo) - kirdona  
 alquilar (arrendar, tomar en arriendo) - kirgeta  
 alquiler (arriendo) - kir  
@@ -254,7 +254,7 @@ asceta - askete
 asegurar (confirmar) - amena  
 asesino - morter  
 asexual - anseksi  
-Asia - asia  
+Asia - Asia  
 Asiria - Axuria  
 asiático - asi  
 asma - asme  
@@ -289,7 +289,7 @@ autónomo - autonomi
 avanzar (entrar, adelantar, progresar) - jinu  
 aventura - ventur  
 aventurero - venturer  
-avisar (notificar) - notisa  
+avisar (notificar) - notana  
 aviso (notificación) - notis  
 avispero (colmena) - vesponizde  
 axproximarse - karibu  
@@ -518,7 +518,7 @@ campo - rustia
 campo de visión - vidomaidan  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
-cancelar - nolisa  
+cancelar - nola  
 canción - cante  
 candela (unidad de intensidad luminosa) - kandel  
 canguro - kangaru\*  
@@ -1049,8 +1049,8 @@ doler (hacer daño) - paxa
 dolor - pax  
 doloroso - paxi  
 domar (amansar) - dosila  
-domesticado - dosiljenisi  
-domesticar (cultivate) - dosiljenisa  
+domesticado - dosiljeni  
+domesticar (cultivate) - dosiljenita  
 dominar - mesta  
 domingo - setyom  
 Dominica - Dominika  
@@ -1350,7 +1350,7 @@ fonema - fonem
 fono (segmento acústico) - fon  
 fonología - fonlojia  
 forma (figura) - forme  
-formateo - kitaborupe  
+formateo - kitaboforme  
 formulario - eskodokum  
 foro (espacio público) - forum  
 fosa - kave  
@@ -1525,7 +1525,6 @@ hablante de Pandunia - panduniste
 hablar (comunicarse) - baxa  
 hace girar (dar vueltas) - rota  
 hacedor (perpetrador) - er  
-hacer (verbo activo) - isa  
 hacer - fata  
 hacer posar (plantar) - poza  
 hacer un nudo - noda  
@@ -1820,7 +1819,7 @@ lantano - lantanem
 lanzamisiles - roketolancer  
 Laos - Lav  
 laosiano - lavi  
-lapislázuli - lazurxeke  
+lapislázuli - lazurpetre  
 largo (longitud) - longia  
 largo - longi  
 larva - larve  
@@ -1899,13 +1898,13 @@ Lituania - Lietuva
 lituano - lietuva bax  
 livermorio - livermorem  
 llama - liama\*  
-llamar (poner) - namisa  
+llamar (poner) - namita  
 llamarse - namu  
 llanura - platistan  
 llave - cabe  
 llenar - pura  
 lleno (completo) - puri  
-llevar (vestir) - fuki  
+llevar (verstirse) - fuku  
 llorar - duku  
 llorar - kuga  
 llover - barxu  
@@ -1986,6 +1985,7 @@ mangostán (jobo de la India) - mangus
 maniqueísmo - manihayistia  
 mano - hande  
 manso (dócil, obediente) - dosili  
+mantel - mezotex  
 mantener (detener) - estasa  
 mantequilla - makan  
 mantra - mantre  
@@ -2316,7 +2316,7 @@ número de identificación personal - sekurnombre
 número par - pari nombre  
 ####O - O  
 o - o  
-oasis - vaze  
+oasis - oaze  
 objetivo - dike  
 objeto (artículo) - vute  
 oblicuo (torcido) - terci  
@@ -3175,7 +3175,7 @@ tecnocracia - tehnokratia
 tecnología - tehnolojia  
 tectónica de placas - plati gevkaskia  
 tejer - texa  
-tela (paño, tejido) - texe  
+tela (paño, tejido) - tex  
 telar - texmaxin  
 telefonear - telfona  
 telefono - telfon  
@@ -3241,7 +3241,7 @@ tirar (lanzar, echar, arrojar, aventar) - lanca
 tirar - tira  
 tiro con arco - arkeria  
 titanio - titanem  
-toalla - toval  
+toalla - gantex  
 tocar (rozar) - toca  
 tocar música - musika  
 todas las cosas - pan xey  
@@ -3401,8 +3401,8 @@ verme - verme
 vermú - vermute  
 verruga - zeyil  
 versión (modelo) - version  
-verstirse - fuku  
 vertical - gavtali  
+vestido (llevando ropa) - fuki  
 vestigio (sobrante, residuo) - lax  
 vestir - fuka  
 vez - mar  

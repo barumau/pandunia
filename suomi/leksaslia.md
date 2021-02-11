@@ -54,7 +54,7 @@
 |**arte**|taide|espanja:portugali:arte, englanti:ranska:art, japani:アート (āto)|
 |**asan**|asento|hindi:आसन (āsan), englanti:asana, venäjä:асана (asana)|
 |**asar**|vaikutus (tulos)|arabia: أَثَر‎ (ʾaṯar), persia: اثر‎ (asar), hindi:असर (asar), bangla:আসর (asôr), turkki:eser,tesir|
-|**asia**|Aasia|englanti:espanja:Asia, venäjä:Азия (Aziya), turkki:Asya, arabia:آسيا (ʾāsiyā), persia:آسیا‎ (âsiyâ), hindi:एशिया (eśiyā), bangla:এশিয়া (eśiẏa), marathi:आशिया (āśiyā), malaiji:Asia, yleiskiina:亞洲 (yàzhōu), kantoninkiina:亚洲 (aa3 zau1), wu-kiina:亚洲 (ia tseu), japani:アジア (ajia), korea:아시아 (asia)|
+|**Asia**|Aasia|englanti:espanja:Asia, venäjä:Азия (Aziya), turkki:Asya, arabia:آسيا (ʾāsiyā), persia:آسیا‎ (âsiyâ), hindi:एशिया (eśiyā), bangla:এশিয়া (eśiẏa), marathi:आशिया (āśiyā), malaiji:Asia, yleiskiina:亞洲 (yàzhōu), kantoninkiina:亚洲 (aa3 zau1), wu-kiina:亚洲 (ia tseu), japani:アジア (ajia), korea:아시아 (asia)|
 |**askete**|askeett|englanti:ascetic, espanja:portugali:asceta, ranska:ascéte, venäjä:аскет (asket)|
 |**asle**|alkuperä|arabia:(ʾaṣl), turkki:asl, malaiji:asal, hindi:असल (asl), suahili:asili|
 |**asme**|astma|ranska:asthme, englanti:asthma, espanja:portugali:malaiji:asma, puola:astma|
@@ -502,7 +502,6 @@
 |**interes**|kiinnostus (mielenkiinto)|englanti:interest, espanja:interés, portugali:interesse, ranska:intérêt, deu:Interesse, venäjä:интере́с (interes)|
 |**ion**|ioni|englanti:ranska:espanja:ion, venäjä:ион (ion), turkki:iyon|
 |**irita**|ärsyttää (häiritä)|englanti:irritate, ranska:irriter, espanja:portugali:irritar, deu:irritieren, japani:いらいらさせる (iraira saseru)|
-|**isa**|teettää|englanti:-ize, espanja:portugali:-izar, ranska:-iser, venäjä:-изова́ть (-izovat’)|
 |**islam**|alistuminen (antautuminen)|arabia:(ʾislām), persia:(taslim), turkki:teslim|
 |**istan**|seutu (maa)|persia:ـستان‎ (-estān), hye:-ստան (-stan), kaz:tat:venäjä:-стан (-stan), turkki:englanti:espanja:malaiji:-istan, portugali:istão, hindi:-स्तान (-stān), yleiskiina:斯坦 (sītǎn), japani:-スタン (sutan)|
 |**iste**|aatteen kannattaja|englanti:deu:turkki:-ist, ranska:-iste, espanja:portugali:-ista, venäjä:-ист (-ist)|
@@ -691,7 +690,7 @@
 |**laxa**|jättää (hylätä)|ranska:laisser,lâcher, italia:lasciare, deu:lassen|
 |**laya**|tulla (saapua)|yleiskiina:来 (lái), kantoninkiina:嚟 (lai4), japani:来 (rai), vietnami:lại|
 |**lazanye**|lasagne|ranska:lasagne, englanti:lasagna, espanja:lasaña, portugali:lasanha, venäjä:лазанья (lazanya), arabia:(lazanyā), japani:ラザニア (razania), korea:라자냐 (lajanya), hindi:लज़ैन्या (lazenyā)|
-|**lazurxeke**|lapislatsuli|persia:لاجورد (lājevard), englanti:lazuli, espanja:lapislázuli, venäjä:лазурит (lazurit), arabia:لازورد (lāzaward), hindi:लाजवर्द (lājavarda), japani:ラピスラズリ (rapisurazuri), malaiji:lazuardi, turkki:lazur taşı|
+|**lazurpetre**|lapislatsuli|persia:لاجورد (lājevard), englanti:lazuli, espanja:lapislázuli, venäjä:лазурит (lazurit), arabia:لازورد (lāzaward), hindi:लाजवर्द (lājavarda), japani:ラピスラズリ (rapisurazuri), malaiji:lazuardi, turkki:lazur taşı|
 |**lefte**|vasen|englanti:left|
 |**lengi**|kylmä|yleiskiina:冷 (lěng), vietnami:lạnh, kantoninkiina:冷 (laang5)|
 |**lense**|linssi|englanti:lens, ranska:lentille, espanja:portugali:lente, venäjä:линза (linza), hindi:लेंस (lens), bangla:লেন্স (lenś), malaiji:lensa, japani:レンズ (renzu), korea:렌즈 (renjeu)|
@@ -886,6 +885,7 @@
 |**novi**|uusi|venäjä:новый (novyy), portugali:novo, espanja:nuevo, hindi:नव (nav), englanti:novel, ranska:nouveau|
 |**nudi**|alaston (paljas, naku)|englanti:nude, espanja:desnudo, portugali:ranska:nu|
 |**o**|tai (vai)|englanti:or, espanja:filippiini:o, ranska:portugali:ou, yleiskiina:或 (huò), arabia:(ʾaw)|
+|**oaze**|keidas|englanti:ranska:espanja:portugali:oasis, venäjä:оазис (oazis), deu:Oase, puola:oaza, japani:オアシス (oashisu), korea:오아시스 (oasiseu) + arabia:(wāḥa), turkki:vaha, persia:(vāhe)|
 |**ode**|sija (paikka järjestyksessä)|englanti:order, ranska:ordre, espanja:orden, portugali:ordem, suahili:oda + yleiskiina:第 (dì), vietnami:đệ, khmer:ទី (dī)|
 |**oke**|silmä|espanja:ojo, venäjä:око (oko), bangla:অক্ষি (ôkkhi) + englanti:portugali:ocular, ranska:oculaire|
 |**okeyi**|kelpo (okei)|englanti:okay, espanja:turkki:malaiji:okey, portugali:OK, venäjä:окей (okej), arabia:أُوكِي‎‎‎ (ʾokey), hindi:ओके (oke), yleiskiina:OK (ōukèi), japani:オーケー (ōkē)|
@@ -1172,6 +1172,7 @@
 |**teror**|kauhu (terrori)|englanti:espanja:portugali:terror, ranska:terreur|
 |**tes**|väite (teesi)|englanti:thesis, ranska:thèse, espanja:tesis|
 |**teste**|koe (testi, yritys)|englanti:ranska:test, venäjä: тест (test), portugali:teste, turkki:test|
+|**texa**|kutoa kangasta|espanja:tejer, portugali:tecer, ranska:tisser, englanti:textile|
 |**tezi**|kiihkeä (väkevä, voimakas, vahva, kova)|hindi:तेज़ (tez), urdu:(tez), persia:(tiz)|
 |**ticin**|jousisoitin|yleiskiina:提琴 (tíqín), kantoninkiina:提琴 (tai4 kam4), uu:提琴 (di jin3), japani:提琴 (teikin)|
 |**tike**|pala|persia:(tekke), arm:թիքա (tʿikʿa), hindi:टिक्का (ṭikkā)|
@@ -1188,7 +1189,6 @@
 |**torse**|vartalo (varsi, torso)|ranska:torse, venäjä:торс (tors), deu:englanti:espanja:malaiji:torso|
 |**tortuge**|kilpikonna|englanti:tortoise, espanja:tortuga, portugali:tartaruga, ranska:tortue|
 |**tova**|vetää (kiskoa, raahata)|englanti:tow, yleiskiina:拖 (tuō)|
-|**toval**|pyyhe|ranska:touaille, englanti:towel, espanja:toalla, portugali:toalha, hindi:तौलिया (tauliyā), bangla:তোয়ালে (toyale), filippiini:tuwalya, japani:タオル (taoru)|
 |**transe**|läpikulku|englanti:ranska:espanja:portugali:deu:malaiji:trans-, venäjä:транс- (trans-)|
 |**trate**|sopimus|englanti:treaty, ranska:traité, espanja:portugali:tratado, venäjä:контракт (kontrakt), turkki:kontrat, malaiji:kontrak|
 |**tren**|juna|englanti:ranska:train, espanja:turkki:tren, hindi:ट्रेन (ṭren), portugali:trem|
@@ -1212,7 +1212,7 @@
 |**urse**|karhu|ranska:ours, portugali:urso, espanja:oso, persia:(xers)|
 |**uza**|käyttää|englanti:use, espanja:usar, puola:używać|
 |**vade**|laakso|englanti:valley, ranska:vallée, espanja:valle, portugali:vale, arabia: وَادٍ‎ (wādin), hindi:वादी (vādī), malaiji:wadi, turkki:vadi|
-|**vaf**|koira|englanti:woof, espanja:guau, venäjä:гав (gav), turkki:hav, yleiskiina:汪 (wāng), japani:ワン (wan)|
+|**vaf**|koira|englanti:woof, ranska:ouaf, venäjä:гав (gav), turkki:hav, yleiskiina:汪 (wāng), japani:ワン (wan)|
 |**vagin**|emätin (vagina)|englanti:ranska:vagina, portugali:espanja:vagina, venäjä:вагина (vagina), japani:ワギナ (wagina), korea:바기나 (bagina), turkki:vajina, malaiji:vagina|
 |**vaksin**|rokote|englanti:vaccine, espanja:vacuna, portugali:vacina, venäjä:вакцина (vakcina), hindi:वैक्सीन (vaiksīn), japani:ワクチン (wakuchin), malaiji:vaksin|
 |**van**|huvi (hauskuus)|yleiskiina:玩 (wán), kantoninkiina:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|
@@ -1221,7 +1221,6 @@
 |**varke**|lehti (arkki, levy)|arabia:(waraqa), hausa:warƙa, turkki:varak, persia:(varaqe), taj:варақа (varaqa), suahili:waraka, + burma:အရွက် (arwak)|
 |**vav**|oho (vau)|yleiskiina:哇 (wā), englanti:wow|
 |**vaxa**|pestä|englanti:wash, deu:waschen, yleiskiina:洗 (xǐ)|
-|**vaze**|keidas|arabia:(wāḥa), turkki:vaha, persia:(vāhe) + englanti:ranska:espanja:portugali:oasis, venäjä:оазис (oazis), deu:Oase, puola:oaza, japani:オアシス (oashisu), korea:오아시스 (oasiseu)|
 |**vaze**|ruukku (maljakko, vaasi)|deu:englanti:ranska:vase, puola:waza, venäjä:ваза (vaza), turkki:vazo|
 |**ventur**|seikkailu|deu:Abenteuer, espanja:aventura, ranska:aventure, venäjä:авантюра (avantyura), turkki:avantür, englanti:adventure|
 |**veri**|tosi (aito)|englanti:very, italia:vero, venäjä:верный (verniy), espanja:verdadero, portugali:verdadeiro, deu:wahr, ranska:vrai|

@@ -262,6 +262,7 @@ crónico - duriki
 cubo - kube  
 cume (pico, topo) - pike  
 cápsico - cili\*  
+cão (cachorro) - vaf  
 céu - saman  
 cópia - kope  
 cósmico - kosmi  
@@ -374,7 +375,7 @@ fato (facto) - fate
 fator - fater  
 favoritismo - favoristia  
 favorito (preferido) - favori  
-fazenda (tecido) - texe  
+fazenda (tecido) - tex  
 fazer - fata  
 fechadura - sor  
 feliz - suki  
@@ -533,7 +534,7 @@ luterano - martinlutheristi
 luz - fote  
 lápide - gabroxeke  
 lápis - kalam  
-lápis-lazúli - lazurxeke  
+lápis-lazúli - lazurpetre  
 lâmpada (luminária) - lampe  
 léxico - logi  
 líder (chefe) - lider  
@@ -646,7 +647,7 @@ núcleo (cerne) - kerne
 número - nombre  
 ####O - O  
 o que - ke  
-oasis - vaze  
+oasis - oaze  
 objetivo - dike  
 oblíquo (torto) - terci  
 obsidiana - osidian  
@@ -911,7 +912,8 @@ terça-feira - dulyom
 teste - teste  
 tigre - bagre  
 tijolo - dobe  
-toalha - toval  
+toalha - gantex  
+toalha de mesa - mezotex  
 tomate - tomate  
 tora - mokotan  
 toranja - putavoranje  
@@ -920,7 +922,7 @@ toupeira - krote
 trabalhador - karer  
 trabalhar - kara  
 trabalho - kar  
-trajar - fuki  
+trajar (vestir-se) - fuku  
 tranquilo (calmo) - xanti  
 trazer - layana  
 trigo - ganum  
@@ -970,7 +972,6 @@ vermute - vermute
 verruga - zeyil  
 verão - garmomosim  
 vestir - fuka  
-vestir-se - fuku  
 vez - mar  
 vida - jive  
 vidro - kance  

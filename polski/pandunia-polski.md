@@ -167,7 +167,7 @@ Artike - Arktyka
 Artiki Hay - Ocean Arktyczny  
 Aruba - Aruba  
 asi - azjatycki  
-asia - Azja  
+Asia - Azja  
 asan - postawa ciała; asana  
 asar - rezult, wynik  
 asara - poprowadzić do (doprowadzić do, powodować)  
@@ -657,7 +657,7 @@ dolfin - delfin
 dom - dom, mieszkanie  
 doma - mieszkać  
 domi - domowy  
-domisa - dać mieszkanie (zakwaterować)  
+domana - dać mieszkanie (zakwaterować)  
 domzeze - mucha  
 dominogem - domino  
 Dominiki Komunkratia - Republika Dominikańska (Dominikana)  
@@ -671,8 +671,8 @@ dongogoril - goryl wschodni
 donjon aventur - przygoda w lochu  
 dosila - oswoić (oswajać, tresować, trenować)  
 dosili - oswojony (potulny, posłuszny)  
-dosiljenisi - udomowiony (domowy)  
-dosiljenisa - udomowić (kultywować)  
+dosiljeni - udomowiony (domowy)  
+dosiljenita - udomowić (kultywować)  
 doste - przyjaciel  
 dosti - przyjacielski (uprzejmy, miły)  
 dostia - przyjaźń  
@@ -935,7 +935,7 @@ frem - rama
 frika - trzeć (pocierać, obetrzeć, pucować)  
 fuga - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuke - ubranie, ubiór, strój  
-fuki - nosić ubrania  
+fuku - nosić ubrania  
 ful - kwiat  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
 fulmosim - wiosna  
@@ -984,6 +984,7 @@ gana - suszyć (wysuszyć)
 gani - suchy  
 gancav - siano  
 ganputav - rodzynka  
+gantex - ręcznik  
 Gana - Ghana  
 Ganda - Uganda  
 Ganga - Ganges  
@@ -1187,7 +1188,7 @@ hen - nienawidzić
 herze - herc  
 hesem - has  
 hevan - animal  
-hevanjenisia - hodowla zwierząt  
+hevanjenitia - hodowla zwierząt  
 hevanparke - zoo (ogród zoologiczny)  
 hiar - ogórek  
 hibride - hybryda; kundel  
@@ -1303,7 +1304,6 @@ iridem - iryd
 irita - irytować (zirytować, drażnić)  
 ironi - ironiczny  
 ironia - ironia  
-isa - skłonić do (spowodować zrobienie)  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
 islamfobia - islamofobia  
 islamiste - muzułman, muzułmanin  
@@ -1589,10 +1589,10 @@ kirili abace - cyrylica
 kitu - iść (przemieścić się)  
 kitaba - napisać, pisać  
 kitabe - pismo, tekst  
+kitaboforme - formatowanie  
 kitabokan - biblioteka  
 kitabomaxin - maszyna do pisania  
 kitabominister - bibliotekarz  
-kitaborupe - formatowanie  
 kivi\* - owoc kiwi  
 klara - wyklarować (rozjaśnić)  
 klari - przeźroczysty, jasny  
@@ -1793,7 +1793,7 @@ laxa - pozostawiać (pozostawić)
 laxu - pozostawać w tyle (zwlekać)  
 laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 lazanye - lazania  
-lazurxeke - lapis lazuli  
+lazurpetre - lapis lazuli  
 lefte - lewa strona  
 lefti - lewy (lewostronny, z lewej strony)  
 leftiste - lewicowiec (lewak)  
@@ -2069,6 +2069,7 @@ metre - miara
 Mexiko - Meksyk  
 Mexiko site - Meksyk  
 mey (meyi) - każdy, wszyscy  
+mezotex - obrus  
 meze - stół  
 mezistan - płaskowyż (plateau)  
 mien - makaron  
@@ -2206,7 +2207,7 @@ nahun - paznokieć
 Naijiria - Nigeria  
 nam - imię, nazwa  
 Namibia - Namibia  
-namisa - nazwać, nazywać, wezwać, wzywać  
+namita - nazwać, nazywać, wezwać, wzywać  
 namkitaba - podpis (autograf)  
 namloge - rzeczownik  
 namu - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
@@ -2311,9 +2312,9 @@ nosi - nosowy
 nostalgi - nostalgiczny  
 nostalgia - nostalgia (tęsknota)  
 nota - notować, obserwować, zauważyć, zauważać  
+notana - powiadomić, powiadamiać  
 note - uwaga, obserwacja  
 notis - wiadomość, zawiadomienie, powiadomienie  
-notisa - powiadomić, powiadamiać  
 notobuke - notatnik  
 nova - odnowić, odnawiać, uczynić nowym  
 nove - nowość  
@@ -2331,6 +2332,7 @@ nudistia - nudyzm
 nuton - niuton (N)  
 ####O - O  
 o - lub, albo  
+oaze - oaza  
 Oceania - Oceania  
 odisi - orija  
 ofice - urząd, pozycja, stanowisko, funkcja  
@@ -3160,8 +3162,8 @@ tesa - dyskutoać, twierdzić
 tesle - tesla (T)  
 testa - spróbować, próbować  
 teste - test, wyzwanie, próba  
+tex - tkanina (materiał, sukno)  
 texa - tkać (pleść)  
-texe - tkanina (materiał, sukno)  
 texmaxin - krosno  
 tezi - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 tezu - wzmacniać się (wzmagać, pogłębiać się)  
@@ -3197,7 +3199,6 @@ tope - kapelusz, czapka
 torem - tor  
 torse - tułów  
 tortuge - żółw  
-toval - ręcznik  
 transa - przejść, przechodzić, przejechać, przejeżdżać  
 transe - przejazd, przewóz, tranzyt  
 transeria - transport  
@@ -3300,7 +3301,6 @@ vaxa - prać, umyć, myć
 vaxmaxin - pralka  
 vaxurse - szop pracz  
 vaze - waza, garnek, pojemnik, słoik, dzban  
-vaze - oaza  
 venda - sprzedać (sprzedawać)  
 vendoxope - handel  
 vendoxoper - handlarz (kupiec)  

@@ -166,7 +166,7 @@ Artike - Arktis
 Artiki Hay - Jäämeri  
 Aruba - Aruba  
 asi - aasialainen  
-asia - Aasia  
+Asia - Aasia  
 asan - asento  
 asar - vaikutus (tulos)  
 asara - vaikuttaa  
@@ -658,7 +658,7 @@ dolfin - delfiini
 dom - asunto (koti)  
 doma - asua  
 domi - koti-  
-domisa - asuttaa  
+domana - asuttaa  
 domzeze - kärpänen  
 dominogem - dominopeli  
 Dominiki Komunkratia - Dominikaaninen Tasavalta  
@@ -943,8 +943,7 @@ frika - hangata
 fuga - palauttaa  
 fuka - pukea (vaatettaa)  
 fuke - vaate (puku)  
-fuki - pitää vaatetta yllään  
-fuku - pukeutua  
+fuku - pukeutua (pitää vaatetta yllään)  
 ful - kukka  
 fulu - kukkia  
 fulmosim - kevät  
@@ -991,6 +990,7 @@ gana - kuivata (kuivattaa)
 gani - kuiva  
 gancav - heinä  
 ganputav - rusina  
+gantex - pyyheliina  
 Gana - Ghana  
 Ganda - Uganda  
 Ganga - Ganges  
@@ -1285,7 +1285,6 @@ Irakia - Irak
 Iran - Iran  
 iridem - iridium  
 irita - ärsyttää (häiritä)  
-isa - teettää  
 islam - alistuminen (antautuminen)  
 islamfobia - islamofobia (islamin pelko)  
 islamiste - muslimi (islaminuskoinen)  
@@ -1550,9 +1549,9 @@ kitu - mennä
 kitaba - kirjoittaa  
 kitabe - kirjoitus (teksti)  
 kitabia - kirjallisuus  
+kitaboforme - tekstin muotoilu  
 kitabokan - kirjasto  
 kitabomaxin - kirjoituskone  
-kitaborupe - tekstin muotoilu  
 kivi\* - kiivi  
 klara - selkeyttää (selittää)  
 klari - selvä (selkeä)  
@@ -1720,7 +1719,7 @@ laxa - jättää (hylätä)
 laya - tulla (saapua)  
 layana - tuoda  
 lazanye - lasagne  
-lazurxeke - lapislatsuli  
+lazurpetre - lapislatsuli  
 lefte - vasen  
 leftiste - vasemmistolainen  
 lengi - kylmä  
@@ -1960,6 +1959,7 @@ metode - keino (menetelmä, metodi)
 metre - mitta (koko, määrä)  
 Mexiko - Meksiko  
 mey (meyi) - joka (jokainen)  
+mezotex - pöytäliina  
 meze - pöytä  
 mien - nuudeli  
 migra - muuttaa (siirtää)  
@@ -2079,7 +2079,7 @@ nahun - kynsi
 Naijiria - Nigeria  
 nam - nimi  
 Namibia - Namibia  
-namisa - nimittää (kutsua)  
+namita - nimittää (kutsua)  
 namloge - substantiivi (nimisana)  
 namu - olla nimeltään  
 nanas - ananas  
@@ -2174,9 +2174,9 @@ nos - nenä
 nosi - nenä- (nasaali)  
 nostalgia - kaipuu (ikävä, nostalgia)  
 nota - huomata (hoksata)  
+notana - huomauttaa  
 note - huomio (kommentti, merkintä)  
 notis - huomautus  
-notisa - huomauttaa  
 notobuke - muistikirja  
 nova - uudistaa  
 novi - uusi  
@@ -2190,6 +2190,7 @@ nudistia - nudismi
 nuton - newton (N)  
 ####O - O  
 o - tai (vai)  
+oaze - keidas  
 Oceania - Oseania  
 ode - sija (paikka järjestyksessä)  
 odisi - orija (eräs intialainen kieli)  
@@ -2904,6 +2905,10 @@ tesa - väittää
 tesle - tesla (T)  
 testa - yrittää (kokeilla)  
 teste - koe (testi, yritys)  
+Tetis - Tethys  
+tex - kangas  
+texa - kutoa kangasta  
+texmaxin - kutomakone  
 tezi - kiihkeä (väkevä, voimakas, vahva, kova)  
 ticin - jousisoitin  
 tike - pala  
@@ -2932,7 +2937,6 @@ tope - lakki (hattu)
 torse - vartalo (varsi, torso)  
 tortuge - kilpikonna  
 tova - vetää (kiskoa, raahata)  
-toval - pyyhe  
 transa - kulkea poikki, läpi tai yli  
 transe - läpikulku  
 transeria - kuljetus  
@@ -3025,7 +3029,6 @@ vav - oho (vau)
 vaxa - pestä  
 vaxmaxin - pesukone  
 vaze - ruukku (maljakko, vaasi)  
-vaze - keidas  
 Venezuela - Venezuela  
 venjovoranje - satsuma  
 ventur - seikkailu  

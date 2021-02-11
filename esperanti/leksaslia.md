@@ -42,7 +42,7 @@
 |**arme**|armilo|franca:arme, angla:arms, hispana:portugala:arma|
 |**arte**|arto|hispana:portugala:arte, angla:franca:art, japana:アート (āto)|
 |**asan**|posteno|hindia:आसन (āsan), angla:asana, rusa:асана (asana)|
-|**asia**|Azio|angla:hispana:Asia, rusa:Азия (Aziya), turka:Asya, araba:آسيا (ʾāsiyā), persa:آسیا‎ (âsiyâ), hindia:एशिया (eśiyā), bengala:এশিয়া (eśiẏa), marataja:आशिया (āśiyā), malaja:Asia, mandarena:亞洲 (yàzhōu), kantona:亚洲 (aa3 zau1), vua:亚洲 (ia tseu), japana:アジア (ajia), korea:아시아 (asia)|
+|**Asia**|Azio|angla:hispana:Asia, rusa:Азия (Aziya), turka:Asya, araba:آسيا (ʾāsiyā), persa:آسیا‎ (âsiyâ), hindia:एशिया (eśiyā), bengala:এশিয়া (eśiẏa), marataja:आशिया (āśiyā), malaja:Asia, mandarena:亞洲 (yàzhōu), kantona:亚洲 (aa3 zau1), vua:亚洲 (ia tseu), japana:アジア (ajia), korea:아시아 (asia)|
 |**askete**|ascetiko|angla:ascetic, hispana:portugala:asceta, franca:ascéte, rusa:аскет (asket)|
 |**asle**|origino|araba:(ʾaṣl), turka:asl, malaja:asal, hindia:असल (asl), svahila:asili|
 |**asme**|astmo|franca:asthme, angla:asthma, hispana:portugala:malaja:asma, polona:astma|
@@ -383,7 +383,6 @@
 |**insan**|homo|araba:(ʔinsan), hindia:इंसान (insān), turka:insan, urdua:(insān), persa:(ensān)|
 |**ion**|iono|angla:franca:hispana:ion, rusa:ион (ion), turka:iyon|
 |**irita**|agaci (tedi, malamuzi)|angla:irritate, franca:irriter, hispana:portugala:irritar, deu:irritieren, japana:いらいらさせる (iraira saseru)|
-|**isa**|igi|angla:-ize, hispana:portugala:-izar, franca:-iser, rusa:-изова́ть (-izovat’)|
 |**istan**|regiono|persa:ـستان‎ (-estān), hye:-ստան (-stan), kaz:tat:rusa:-стан (-stan), turka:angla:hispana:malaja:-istan, portugala:istão, hindia:-स्तान (-stān), mandarena:斯坦 (sītǎn), japana:-スタン (sutan)|
 |**iste**|isto de ismo|angla:deu:turka:-ist, franca:-iste, hispana:portugala:-ista, rusa:-ист (-ist)|
 |**ive**|emo (inklino, tendenco)|angla:-ive, deu:-iv, franca:-if,-ive, portugala:hispana:-ivo, rusa:-ивный (-ivnyj)|
@@ -628,6 +627,7 @@
 |**note**|noto (rimarko, komento)|deu:angla:franca:note, hispana:portugala:nota, turka:not, japana:ノート (nōto), korea:노트 (noteu), persa:(not)|
 |**novi**|nova|rusa:новый (novyy), portugala:novo, hispana:nuevo, hindia:नव (nav), angla:novel, franca:nouveau|
 |**o**|aŭ|angla:or, hispana:filipina:o, franca:portugala:ou, mandarena:或 (huò), araba:(ʾaw)|
+|**oaze**|oazo|angla:franca:hispana:portugala:oasis, rusa:оазис (oazis), deu:Oase, polona:oaza, japana:オアシス (oashisu), korea:오아시스 (oasiseu) + araba:(wāḥa), turka:vaha, persa:(vāhe)|
 |**oke**|okulo|hispana:ojo, rusa:око (oko), bengala:অক্ষি (ôkkhi) + angla:portugala:ocular, franca:oculaire|
 |**okeyi**|akceptebla (okej)|angla:okay, hispana:turka:malaja:okey, portugala:OK, rusa:окей (okej), araba:أُوكِي‎‎‎ (ʾokey), hindia:ओके (oke), mandarena:OK (ōukèi), japana:オーケー (ōkē)|
 |**onde**|ondo|hispana:portugala:itala:onda, franca:onde, malaja:ombak|
@@ -814,7 +814,6 @@
 |**tope**|ĉapelo|malaja:topi, hindia: टोपी (ṭopī), bengala:টুপি (ṭupi), tamila:(toppi)|
 |**torse**|torso|franca:torse, rusa:торс (tors), deu:angla:hispana:malaja:torso|
 |**tova**|treni|angla:tow, mandarena:拖 (tuō)|
-|**toval**|viŝilo|franca:touaille, angla:towel, hispana:toalla, portugala:toalha, hindia:तौलिया (tauliyā), bengala:তোয়ালে (toyale), filipina:tuwalya, japana:タオル (taoru)|
 |**tren**|trajno (vagonaro)|angla:franca:train, hispana:turka:tren, hindia:ट्रेन (ṭren), portugala:trem|
 |**tribe**|tribo|franca:hispana:tribu, portugala:filipina:tribo, angla:tribe|
 |**tube**|tubo|hispana:portugala:tubo, angla:franca:tube, japana:チューブ (chūbu), zulua:ithumbu|
@@ -830,11 +829,11 @@
 |**urse**|urso|franca:ours, portugala:urso, hispana:oso, persa:(xers)|
 |**uza**|uzi|angla:use, hispana:usar, polona:używać|
 |**vade**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|
+|**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
 |**vagin**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
 |**van**|amuzo|mandarena:玩 (wán), kantona:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|
 |**vav**|ŭaŭ!|mandarena:哇 (wā), angla:wow|
 |**vaxa**|lavi|angla:wash, deu:waschen, mandarena:洗 (xǐ)|
-|**vaze**|oazo|araba:(wāḥa), turka:vaha, persa:(vāhe) + angla:franca:hispana:portugala:oasis, rusa:оазис (oazis), deu:Oase, polona:oaza, japana:オアシス (oashisu), korea:오아시스 (oasiseu)|
 |**vaze**|vazo|deu:angla:franca:vase, polona:waza, rusa:ваза (vaza), turka:vazo|
 |**ventur**|aventuro|deu:Abenteuer, hispana:aventura, franca:aventure, rusa:авантюра (avantyura), turka:avantür, angla:adventure|
 |**veri**|vera|angla:very, itala:vero, rusa:верный (verniy), hispana:verdadero, portugala:verdadeiro, deu:wahr, franca:vrai|

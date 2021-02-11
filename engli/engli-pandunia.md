@@ -17,7 +17,7 @@ access (admission, accessibility) - akses
 access (reach, enter) - aksesa  
 accessibility (ease of access) - fasilia da akses  
 accessible (within reach) - aksesabli  
-accommodate - domisa  
+accommodate - domana  
 achoo - acu\*  
 acknowledge - resida  
 acorn - balutopal  
@@ -126,7 +126,7 @@ anglophone (English speking) - englofoni
 Angola - Angola  
 angry (furious) - furi  
 animal - hevan  
-animal husbandry - hevanjenisia  
+animal husbandry - hevanjenitia  
 animate - anima  
 animation (cartoon) - anim  
 anniversary - nenfeste  
@@ -192,7 +192,7 @@ ascetic - askete
 asexual - anseksi  
 ash (ashes) - huy  
 ash tree - yasen  
-Asia - asia  
+Asia - Asia  
 Asian - asi  
 ask (inquire) - eska  
 ask (request, beg; please) - pliza  
@@ -514,7 +514,7 @@ calendar - kalende
 californium - kalifornem  
 caliph - halif  
 caliphate - halifia  
-call (name) - namisa  
+call (name) - namita  
 call on the phone - telfona  
 Callisto - Kalisto  
 calm (peaceful, quiet) - xanti  
@@ -526,7 +526,7 @@ camp - kampe
 camper - kamper  
 can (know, be able) - abla  
 Canada - Kanada  
-cancel (nullify) - nolisa  
+cancel (nullify) - nola  
 candela - kandel  
 candle - mumfote  
 candy (sweets) - kande  
@@ -567,7 +567,6 @@ catch fish - saida pex
 Caucasia - Kaukasia  
 cauldron - dayvaze  
 cause (be the cause for) - saba  
-cause to make - isa  
 cave - guhe  
 Cayman Islands - Kaiman nesia  
 ceiling - kamargav  
@@ -678,7 +677,8 @@ clone (replica) - klon
 clone (replicate) - klona  
 close (shut) - ankaya  
 closed - ankayi  
-cloth (fabric, textile) - texe  
+cloth (fabric, textile) - tex  
+clothed (dressed) - fuki  
 clothing (clothes) - fuke  
 cloud - mege  
 club - klube  
@@ -978,8 +978,8 @@ dollar - dolar
 dolphin - dolfin  
 dome - kupe  
 domestic (tame) - domi  
-domesticate (cultivate) - dosiljenisa  
-domesticated - dosiljenisi  
+domesticate (cultivate) - dosiljenita  
+domesticated - dosiljeni  
 Dominica - Dominika  
 Dominican Republic - Dominiki Komunkratia  
 dominoes - dominogem  
@@ -1001,7 +1001,6 @@ draw - grafa
 drawer - tirsanduke  
 drawing (design) - desen  
 drawing (graph, image) - graf  
-dress (clothe oneself) - fuku  
 dress (clothe sb.) - fuka  
 drill (bore, perforate) - fora  
 drinking vessel (cup, glass, mug, goblet, chalice) - kupe  
@@ -1275,7 +1274,7 @@ forget - anmema
 fork - forke  
 form (questionaire) - eskodokum  
 form (shape) - forme  
-formatting - kitaborupe  
+formatting - kitaboforme  
 forum (public space) - forum  
 forward - jino  
 found - baza  
@@ -1789,7 +1788,7 @@ lantern - hogosanduke
 lanthanum - lantanem  
 Lao (Laotian) - lavi  
 Laos - Lav  
-lapis lazuli - lazurxeke  
+lapis lazuli - lazurpetre  
 larva (maggot, caterpillar) - larve  
 lasagna - lazanye  
 last (final) - finodi  
@@ -2282,7 +2281,7 @@ note (observe, notice) - nota
 notebook - notobuke  
 nothing - nol xey  
 notice (notification) - notis  
-notify - notisa  
+notify - notana  
 noun - namloge  
 novelty - nove  
 November - desunmes  
@@ -2299,7 +2298,7 @@ number - nombre
 nylon - nilon  
 ####O - O  
 oak tree - balute  
-oasis - vaze  
+oasis - oaze  
 Oberon - Oberon  
 object (item) - vute  
 oblique (askew, tilted) - terci  
@@ -3276,6 +3275,7 @@ systemic - sistemi
 ####T - T  
 table - meze  
 table of contents (inventory) - tenliste  
+tablecloth - mezotex  
 tablette computer - tablokomputer  
 tabulate - tabla date  
 tactics (strategy) - tatike  
@@ -3441,7 +3441,7 @@ torrent - daydar
 touch - toca  
 tourism - safaristia  
 tourist - safariste  
-towel - toval  
+towel - gantex  
 tower - minar  
 town - nagre  
 toxic (poisonous, venomous) - toksi  
@@ -3644,7 +3644,7 @@ we - mome
 weak - debili  
 wealth (fortune) - ricia  
 weapon (arms) - arme  
-wear (have on clothes) - fuki  
+wear (dress, put on) - fuku  
 weather - samanhal  
 weave - texa  
 website - netoloke  

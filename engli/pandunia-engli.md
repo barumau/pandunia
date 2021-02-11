@@ -180,7 +180,7 @@ Artike - Arctic
 Artiki Hay - Arctic Ocean  
 Aruba - Aruba  
 asi - Asian  
-asia - Asia  
+Asia - Asia  
 asan - posture (asana)  
 asar - effect (impact, impression, result, outcome)  
 asara - effect (bring about)  
@@ -697,7 +697,7 @@ dolfin - dolphin
 dom - home (residence)  
 doma - live in (reside in, inhabit)  
 domi - domestic (tame)  
-domisa - accommodate  
+domana - accommodate  
 domzeze - housefly  
 dominogem - dominoes  
 Dominiki Komunkratia - Dominican Republic  
@@ -712,8 +712,8 @@ dongogoril - eastern gorilla
 donjon aventur - dungeon crawl  
 dosila - tame (train)  
 dosili - tame (docile, obedient)  
-dosiljenisi - domesticated  
-dosiljenisa - domesticate (cultivate)  
+dosiljeni - domesticated  
+dosiljenita - domesticate (cultivate)  
 doste - friend  
 dosti - friendly (kind, nice, gentle)  
 dostia - friendship  
@@ -998,8 +998,8 @@ frika - rub (scrape, scrub)
 fuga - return (restore, recover, resume)  
 fuka - dress (clothe sb.)  
 fuke - clothing (clothes)  
-fuki - wear (have on clothes)  
-fuku - dress (clothe oneself)  
+fuki - clothed (dressed)  
+fuku - wear (dress, put on)  
 ful - flower  
 fulu - blossom (bloom)  
 fulmosim - spring (springtime)  
@@ -1049,6 +1049,7 @@ gani - dry
 gancav - hay  
 ganmosim - dry season  
 ganputav - raisin  
+gantex - towel  
 Gana - Ghana  
 Ganda - Uganda  
 Ganga - Ganges  
@@ -1269,7 +1270,7 @@ herze - hertz (Hz)
 Hesia - Hesse  
 hesem - hassium  
 hevan - animal  
-hevanjenisia - animal husbandry  
+hevanjenitia - animal husbandry  
 hevanparke - zoo (zoological garden)  
 hiar - cucumber  
 hibride - hybrid (mongrel)  
@@ -1390,7 +1391,6 @@ iridem - iridium
 irita - irritate (annoy, disturb)  
 ironi - ironic  
 ironia - irony  
-isa - cause to make  
 islam - submission (surrender)  
 islamfobia - islamophobia  
 islamiste - muslim (moslem)  
@@ -1698,10 +1698,10 @@ kitu - go (move away)
 kitaba - write  
 kitabe - writing (text)  
 kitabia - literature (body of written works)  
+kitaboforme - formatting  
 kitabokan - library  
 kitabomaxin - typewriter  
 kitabominister - librarian  
-kitaborupe - formatting  
 kivi\* - kiwi fruit  
 klara - clarify (clear up)  
 klari - clear (obvious)  
@@ -1914,7 +1914,7 @@ laya - come (arrive)
 layana - bring  
 lazanye - lasagna  
 lazuri - azure  
-lazurxeke - lapis lazuli  
+lazurpetre - lapis lazuli  
 lefte - left  
 lefti - left hand  
 leftiste - leftist (left-winger)  
@@ -2200,6 +2200,7 @@ metre - measurement
 Mexiko - Mexico  
 Mexiko site - Mexico City  
 mey (meyi) - every (each)  
+mezotex - tablecloth  
 meze - table  
 mezistan - plateau (tableland)  
 mien - noodle  
@@ -2344,7 +2345,7 @@ najisbinde - stain (spot)
 najisi - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
 nam - name  
 Namibia - Namibia  
-namisa - call (name)  
+namita - call (name)  
 namkitaba - sign (autograph)  
 namloge - noun  
 namu - be called (be named)  
@@ -2428,7 +2429,7 @@ nol (noli) - zero (none)
 nol jan - nobody (no-one)  
 nol sate - never  
 nol xey - nothing  
-nolisa - cancel (nullify)  
+nola - cancel (nullify)  
 noma - manage (organize, direct)  
 nombra - count (enumerate)  
 nombre - number  
@@ -2452,9 +2453,9 @@ nosi - nasal
 nostalgi - nostalgic  
 nostalgia - nostalgia (longing)  
 nota - note (observe, notice)  
+notana - notify  
 note - note (observation, remark, comment)  
 notis - notice (notification)  
-notisa - notify  
 notobuke - notebook  
 nova - renew (make new, renovate)  
 nove - novelty  
@@ -2472,6 +2473,7 @@ nudistia - nudism
 nuton - newton (N)  
 ####O - O  
 o - or  
+oaze - oasis  
 Oberon - Oberon  
 Oceania - Oceania  
 ode - rank (position in an ordered list)  
@@ -3338,8 +3340,8 @@ tesle - tesla (T)
 testa - try (attempt)  
 teste - test (try, attempt)  
 Tetis - Tethys  
+tex - cloth (fabric, textile)  
 texa - weave  
-texe - cloth (fabric, textile)  
 texmaxin - loom  
 tezi - intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)  
 tezu - intensify  
@@ -3378,7 +3380,6 @@ torem - thorium
 torse - trunk (torso)  
 tortuge - turtle (tortoise)  
 tova - drag (haul, tow, trail)  
-toval - towel  
 transa - transit (pass through or across)  
 transe - transit (passage)  
 transeria - transportation  
@@ -3489,7 +3490,6 @@ vaxa - wash
 vaxmaxin - washing machine  
 vaxurse - raccoon  
 vaze - pot (vase, bin, jar, jug)  
-vaze - oasis  
 venda - sell (vend)  
 vendoxope - trade (commerce)  
 vendoxoper - trader (merchant)  

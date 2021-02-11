@@ -94,7 +94,7 @@ arsen - arseno
 arte - arto  
 artiste - artisto  
 asi - azia  
-asia - Azio  
+Asia - Azio  
 asan - posteno  
 askete - ascetiko  
 asle - origino  
@@ -393,7 +393,7 @@ dolfin - delfeno
 dom - hejmo (loĝejo)  
 doma - loĝi  
 domi - hejma  
-domisa - loĝigi  
+domana - loĝigi  
 domzeze - muŝo  
 don - donaco  
 dona - doni  
@@ -565,8 +565,7 @@ fransem - franciumo
 frem - kadro  
 fuka - vestigi  
 fuke - vesto  
-fuki - surporti  
-fuku - vesti  
+fuku - vesti (surporti)  
 ful - floro  
 fulmosim - printempo  
 fulvaze - vazo (florpoto)  
@@ -597,6 +596,7 @@ gamia - geedzeco
 gamel - kamelo  
 gani - seka  
 ganputav - sekvinbero  
+gantex - viŝilo  
 Ganga - Gangoj  
 ganje - kanabo  
 ganum - tritiko  
@@ -763,7 +763,6 @@ Irakia - Irakio
 Iran - Iranio  
 iridem - iridio  
 irita - agaci (tedi, malamuzi)  
-isa - igi  
 islamisti - islama  
 islamisti xaria - ŝario  
 islamistia - islamo  
@@ -1116,6 +1115,7 @@ metode - metodo
 metre - mezuro  
 Mexiko - Meksikio  
 mey (meyi) - ĉiu(j)  
+mezotex - tablotuko  
 meze - tablo  
 mien - nudelo  
 migre - migrado  
@@ -1233,6 +1233,7 @@ novo - ĵus
 nuton - newtono (N)  
 ####O - O  
 o - aŭ  
+oaze - oazo  
 Oceania - Oceanio  
 oganeson - oganesono  
 oka - okulumi  
@@ -1612,7 +1613,6 @@ tope - ĉapelo
 torem - torio  
 torse - torso  
 tova - treni  
-toval - viŝilo  
 tren - trajno (vagonaro)  
 trendav - fervojo  
 tribe - tribo  
@@ -1646,6 +1646,7 @@ uza - uzi
 va ce - tie  
 va ke - kie  
 vade - valo  
+vaf - hundo  
 vagin - vagino  
 vaginitis - vaginito  
 val - valoro  
@@ -1658,7 +1659,6 @@ vav - ŭaŭ!
 vaxa - lavi  
 vaxmaxin - lavmaŝino  
 vaze - vazo  
-vaze - oazo  
 ventur - aventuro  
 venturer - aventuristo  
 veri - vera  

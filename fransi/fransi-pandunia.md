@@ -101,7 +101,7 @@ art - arte
 artichaut - karcof  
 artiste - artiste  
 asiatique - asi  
-Asie - asia  
+Asie - Asia  
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
@@ -262,6 +262,7 @@ chef - xef
 chemise - kamis  
 cher - luvi  
 chercher - sova  
+chien - vaf  
 chimie - kimlojia  
 Chine - Junguo  
 chocolat - cokolate  
@@ -380,8 +381,8 @@ docile (insipide) - dosili
 document (dossier) - dokum  
 documentaire - dokumfilme  
 domestique - domi  
-domestiquer (apprivoiser) - dosiljenisa  
-domestiqué (apprivoisé) - dosiljenisi  
+domestiquer (apprivoiser) - dosiljenita  
+domestiqué (apprivoisé) - dosiljeni  
 dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - jena  
 données - date  
@@ -586,7 +587,7 @@ langue - bax
 langue - lisan  
 langue maternelle - jeni bax  
 lapin (lièvre) - tuze  
-lapis-lazuli - lazurxeke  
+lapis-lazuli - lazurpetre  
 lasagne - lazanye  
 latéral - lati  
 lave - yongopetre  
@@ -703,6 +704,7 @@ mémoire - mem
 méninge - mening  
 ####N - N  
 nagar (flotter) - boyu  
+nappe - mezotex  
 nation - nasia  
 nausée - retroguli sense  
 nautile - nautil  
@@ -861,7 +863,7 @@ pomme - apel
 pont - pul  
 porte - porte  
 porte-bloc (planchette à pince) - pinsoban  
-porter - fuki  
+porter (s’habiller) - fuku  
 Porto Rico - Portorikia  
 Portoricain - portoriki  
 posidonie (herbiers marins) - haycav  
@@ -988,6 +990,7 @@ sens - sense
 sentir - aroma  
 sept (7) - seti  
 serrure - sor  
+serviette - gantex  
 seul (unique) - uniki  
 sexe - jinse  
 shopping - xope  
@@ -1022,7 +1025,6 @@ série - silia
 sûr - sekuri  
 sûrement - ameno  
 s’accroupir - indosida  
-s’habiller - fuku  
 ####T - T  
 table - meze  
 tableau (panneau) - ban  
@@ -1049,7 +1051,7 @@ thé - cay
 tige - tan  
 tigre - bagre  
 tirer - tira milke  
-tissu - texe  
+tissu - tex  
 titre - temnam  
 toile d'araignée - arannete  
 tomate - tomate  
@@ -1163,7 +1165,7 @@ zèbre - zebre
 éducation - xulia  
 égal (même) - sami  
 électricité - eletre  
-élevage - hevanjenisia  
+élevage - hevanjenitia  
 élever - jenita  
 élément (unité fondamentale) - em  
 élément chimique - kimem  

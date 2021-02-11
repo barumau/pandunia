@@ -248,7 +248,7 @@ dong - восток (ост)
 dongogoril - восточная горилла  
 dosila - укрощать (приручить)  
 dosili - кроткий  
-dosiljenisa - одомашнивать  
+dosiljenita - одомашнивать  
 dosti - приятный (добрый)  
 duga - читать  
 duli - два (2)  
@@ -318,8 +318,8 @@ frem - рама
 frika - царапать  
 fuka - одевать  
 fuke - одежда  
-fuki - носить  
-fuku - одеваться  
+fuki - оде́тый  
+fuku - носить (одеваться)  
 ful - цветок  
 fulmosim - весна  
 fungopal - гриб  
@@ -597,7 +597,7 @@ laya - приходить
 layana - приносить  
 lazanye - лазанья  
 lazuri - лазурь  
-lazurxeke - лазурит  
+lazurpetre - лазурит  
 lefte - левый  
 lengomosim - зима  
 lengomosimi - зимний  
@@ -692,6 +692,7 @@ Merkur - Меркурий
 mes - месяц  
 mester - мастер  
 metalbede - наковальня  
+mezotex - скатерть  
 meze - стол  
 migre - миграция  
 migru - переезжать  
@@ -753,6 +754,7 @@ novi - новый
 novike - новичок  
 ####O - O  
 o - или  
+oaze - oasis  
 ode - ранг  
 oke - глаз (око)  
 oki - глазной  
@@ -1008,7 +1010,7 @@ terci - косой
 teroristia - терроризм  
 tes - довод  
 teste - проба (тест)  
-texe - ткань  
+tex - ткань  
 texmaxin - ткацкий станок  
 tikete - билет  
 tim - команда  
@@ -1039,6 +1041,7 @@ Uran - Уран
 va - в  
 va linye - онлайн  
 vadosusan - ландыш  
+vaf - собака  
 vagin - влагалище (вагина)  
 vaginitis - вагинит  
 val - ценность  
@@ -1050,7 +1053,6 @@ vaxa - мыть
 vaxmaxin - стиральная машина  
 vaxurse - енот  
 vaze - ваза  
-vaze - oasis  
 venda - продать  
 vendoxopa - обмениваться  
 venjovoranje - мандарин уншиу  

@@ -292,7 +292,7 @@
 |**laxa**|deixar|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |**laya**|vir|zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|
 |**lazanye**|lasanha|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
-|**lazurxeke**|lápis-lazúli|fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|
+|**lazurpetre**|lápis-lazúli|fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|
 |**lefte**|esquerdo|eng:left|
 |**lense**|lente|eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|
 |**lenti**|lento|fra:lent, spa:por:lento|
@@ -380,6 +380,7 @@
 |**note**|nota|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |**novi**|novo|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |**o**|ou|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
+|**oaze**|oasis|eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|
 |**oke**|olho|spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|
 |**onde**|onda|spa:por:ita:onda, fra:onde, may:ombak|
 |**onor**|honra|eng:pol:spa:honor, fra:honneur, por:honra, tur:onur|
@@ -492,7 +493,6 @@
 |**tikete**|bilhete|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
 |**tomate**|tomate|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
 |**tova**|arrastar|eng:tow, zho:拖 (tuō)|
-|**toval**|toalha|fra:touaille, eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
 |**trate**|acordo (tratado, contrato)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
 |**truke**|truque (fraude)|eng:trick, deu:Trick, fra:truc, spa:truco, por:truque, hun:trükk, rus:трюк (tr’uk)|
 |**tuze**|coelho (lebre)|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|
@@ -502,10 +502,10 @@
 |**ura**|urra|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**urse**|urso|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**vade**|vale (uadi)|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
+|**vaf**|cão (cachorro)|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagin**|vagina|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
 |**vampir**|vampiro|deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|
 |**vaxurse**|guaxinim (rato-lavadeiro)|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
-|**vaze**|oasis|ara:(wāḥa), tur:vaha, fas:(vāhe) + eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|
 |**venda**|vender|eng:vend, spa:por:vender, fra:vendre|
 |**ventur**|aventura|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
 |**veri**|verdadeiro|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|

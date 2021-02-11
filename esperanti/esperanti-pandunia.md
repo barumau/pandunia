@@ -118,7 +118,7 @@ avida - tami
 avokado - avakate  
 azeno - gade  
 azia - asi  
-Azio - asia  
+Azio - Asia  
 aĉetanto (aĉetisto) - xoper  
 aĉeti - xopa  
 aĝo - umur  
@@ -611,11 +611,11 @@ humana - insaniki
 humura - yumori  
 humuristo - yumoriste  
 humuro - yumor  
+hundo - vaf  
 ####I - I  
 iam - koy sate  
 ideo - idey  
 ido (infano) - pute  
-igi - isa  
 ili - lole  
 ilo - tul  
 indio - hindem  
@@ -917,7 +917,7 @@ loko - loke
 longa - longi  
 longigi - longa  
 loĝi - doma  
-loĝigi - domisa  
+loĝigi - domana  
 ludanto - gemer  
 ludi - gema  
 ludi rolon - rola  
@@ -1126,7 +1126,7 @@ novulo - novike
 nudelo - mien  
 nuno - zay  
 ####O - O  
-oazo - vaze  
+oazo - oaze  
 obrelo - barxocate  
 Oceanio - Oceania  
 oceano - dayhay  
@@ -1501,7 +1501,6 @@ super - supro
 superiri - supra  
 supo - supe  
 surfaco - fas  
-surporti - fuki  
 surprizo - suprize  
 suĉi - cupa  
 suŝio - suxi\*  
@@ -1511,6 +1510,7 @@ sŭahili - svahili
 tabako - tabake  
 tabelo - datotable  
 tablo - meze  
+tablotuko - mezotex  
 tabulludo - banogem  
 tabulo - ban  
 tagmanĝo - denyam  
@@ -1650,7 +1650,7 @@ versio (toisinto) - version
 veruko - zeyil  
 vespermanĝo - xamyam  
 vespero - xam  
-vesti - fuku  
+vesti (surporti) - fuku  
 vestigi - fuka  
 vesto - fuke  
 vetero - samanhal  
@@ -1678,7 +1678,7 @@ vizaĝo - muke
 vizitanto - keger  
 viziti - kege  
 vizito - kega  
-viŝilo - toval  
+viŝilo - gantex  
 vojaĝanto - safarer  
 vojaĝi - safara  
 vojaĝo - safar  

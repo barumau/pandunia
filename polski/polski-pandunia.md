@@ -115,7 +115,7 @@ autonomiczny - autonomi
 awaria (wadliwe działanie) - malfunce  
 awokado - avakate  
 Azerbejdżan - Azerbaijan  
-Azja - asia  
+Azja - Asia  
 azjatycki - asi  
 azot - nitre  
 aż do - hata  
@@ -427,7 +427,7 @@ darmsztadt - darmositem
 darwinista - darviniste  
 darwinizm - darvinistia  
 data - nenmesyom  
-dać mieszkanie (zakwaterować) - domisa  
+dać mieszkanie (zakwaterować) - domana  
 dać, dawać - dona  
 deaktywować (wyłączyć, zatrzymać) - anativa  
 debatować, prowadzić dyskurs - lona  
@@ -655,7 +655,7 @@ fonem - fonem
 fonologia - fonlojia  
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
-formatowanie - kitaborupe  
+formatowanie - kitaboforme  
 formularz (kwestionariusz) - eskodokum  
 forum - forum  
 fosfor - pospor  
@@ -832,7 +832,7 @@ Hiszpania - Espania
 hmm - hem  
 Ho Chi Minh (Sajgon) - Ho Ci Min site  
 hobby - hobe  
-hodowla zwierząt - hevanjenisia  
+hodowla zwierząt - hevanjenitia  
 hojność (szczodrość) - karimia  
 hojny (szczodry) - karimi  
 hokej - hoke  
@@ -1265,7 +1265,7 @@ lampa - lampe
 lantan - lantanem  
 Laos - Lav  
 laotański - lavi  
-lapis lazuli - lazurxeke  
+lapis lazuli - lazurpetre  
 larwa, czerw, gąsienica - larve  
 larwa, czerw, gąsienica - lasun  
 las wodorostów - algojangle  
@@ -1643,7 +1643,7 @@ nawóz - caniver
 nazista - nasiste  
 nazizm - nasistia  
 nazwa użytkownika - uzernam  
-nazwać, nazywać, wezwać, wzywać - namisa  
+nazwać, nazywać, wezwać, wzywać - namita  
 nazwisko, imię rodziny - familnam  
 naładować, załadować, obładować, ładować - lada  
 negatywny (przeciwny, nie) - ani  
@@ -1713,7 +1713,7 @@ normalny, standardowy - normi
 Norwegia - Norge  
 norweski - norgi  
 nos - nos  
-nosić ubrania - fuki  
+nosić ubrania - fuku  
 nosorożec - kornonos  
 nosowy - nosi  
 nostalgia (tęsknota) - nostalgia  
@@ -1737,7 +1737,7 @@ numer - nombre
 nylon - nilon  
 nóż - cake  
 ####O - O  
-oaza - vaze  
+oaza - oaze  
 obcęgi, kleszcze, szczypce - pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zayi  
 obiad, lunch - denyam  
@@ -1756,6 +1756,7 @@ obrażenia (rana, krzywda) - avar
 obrona - def  
 obronić (chronić) - defa  
 obrońca - defer  
+obrus - mezotex  
 obrócić (kręcić) - rota  
 obrócić się (kręcić się) - rotu  
 obserwator (widz) - vider  
@@ -2146,7 +2147,7 @@ potrzebny - yavan
 potrzebować - yavu  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
 potwór, monstrum - monoster  
-powiadomić, powiadamiać - notisa  
+powiadomić, powiadamiać - notana  
 powierzchnia - fas  
 powierzchnia, region, teren - aria  
 powiesić, wieszać - penda  
@@ -2519,7 +2520,7 @@ różnica - alsifia
 różny (inny) - alsifi  
 różny (różnorodny) - balibali  
 różowy, różany - rozorangi  
-ręcznik - toval  
+ręcznik - gantex  
 ręczny - handi  
 ręka, dłoń - hande  
 rękaw - kamisi xake  
@@ -2615,7 +2616,6 @@ skupić, się, skoncentrować się - fokusa
 skwer, plac - maidan  
 skwierczeć - ziza  
 skóra - pil  
-skłonić do (spowodować zrobienie) - isa  
 smacznego - salam yam  
 smak - guste  
 smakować jak - gustu ko  
@@ -2900,7 +2900,7 @@ tikka - tike
 tikka masala - masali tike  
 Timor - Timor  
 Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dongi Timor  
-tkanina (materiał, sukno) - texe  
+tkanina (materiał, sukno) - tex  
 tkać (pleść) - texa  
 tlen - okse  
 tlenek - okside  
@@ -2993,8 +2993,8 @@ uciszyć (uciszać) - xuxa
 uczestniczyć, wziąć udział, brać udział - parta  
 uczestnik - parter  
 uczeń, student - xuler  
-udomowiony (domowy) - dosiljenisi  
-udomowić (kultywować) - dosiljenisa  
+udomowiony (domowy) - dosiljeni  
+udomowić (kultywować) - dosiljenita  
 ufać (wierzyć, liczyć, polegać) - yavxina  
 Uganda - Ganda  
 ugotować się, gotować się - bulu  

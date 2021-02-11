@@ -8,7 +8,7 @@ aamiainen - subyam
 aamu - sube  
 aarre - bav  
 aasi - gade  
-Aasia - asia  
+Aasia - Asia  
 aasialainen - asi  
 aate (ismi, ideologia, uskonto, jne) - istia  
 aatteen kannattaja - iste  
@@ -162,7 +162,7 @@ astma - asme
 astrobiologia - astrobivlojia  
 asua - doma  
 asunto (koti) - dom  
-asuttaa - domisa  
+asuttaa - domana  
 Ateena - Atina  
 ateisti (jumalankieltäjä) - andeviste  
 ateljee (studio) - estudia  
@@ -604,7 +604,7 @@ hummus - humusosos
 humoristi - yumoriste  
 hunaja - mel  
 huomata (hoksata) - nota  
-huomauttaa - notisa  
+huomauttaa - notana  
 huomautus - notis  
 Huomenta! - salam sube  
 huominen - badodeno  
@@ -893,6 +893,7 @@ kana - kokode
 Kanada - Kanada  
 kanava (kanaali) - kanal  
 kandela - kandel  
+kangas - tex  
 kannabis (marihuana, hamppu) - ganje  
 kannada (eräs intialainen kieli) - karnadi  
 kannu (karahvi) - jar  
@@ -953,7 +954,7 @@ keho (ruumis) - bode
 kehonrakennus (bodaus) - muskulbin  
 kehys (raamit) - frem  
 kehä (ottelualue) - ringar  
-keidas - vaze  
+keidas - oaze  
 keino (menetelmä, metodi) - metode  
 keinotekoinen (teko-, keino-) - cani  
 keinotekoinen kieli (tekokieli, keinokieli) - canbax  
@@ -1210,6 +1211,8 @@ kurainen (mutainen) - poti
 kurja (raukka) - miskini  
 kurkku - hiar  
 kuski (ajuri, ajaja) - xofer  
+kutoa kangasta - texa  
+kutomakone - texmaxin  
 kuu - lun  
 Kuuba - Kuba  
 kuukausi - mes  
@@ -1305,7 +1308,7 @@ lantaani - lantanem
 Laos - Lav  
 laoslainen - lavi  
 lapio - bel  
-lapislatsuli - lazurxeke  
+lapislatsuli - lazurpetre  
 lappo - dartube  
 lapsi (jälkeläinen) - pute  
 lapsi - bace  
@@ -1762,7 +1765,7 @@ Nikaragua - Nikaragua
 nikkeli - nikel  
 nilviäinen - moluske  
 nimi - nam  
-nimittää (kutsua) - namisa  
+nimittää (kutsua) - namita  
 niobium - niobem  
 nisäkäs - mamal  
 Niue - Niue  
@@ -2067,7 +2070,6 @@ pitäisi - xudu
 pitäjä (hallussapitäjä) - tener  
 pitää (pitää hallussa) - tena  
 pitää (tykätä) - suku  
-pitää vaatetta yllään - fuki  
 pitää yhdessä - kontena  
 planeetta - planete  
 platina - platinum  
@@ -2147,7 +2149,7 @@ puhelin - telfon
 puhelintekniikka - telfonia  
 puhua (kommunikoida) - baxa  
 pukea (vaatettaa) - fuka  
-pukeutua - fuku  
+pukeutua (pitää vaatetta yllään) - fuku  
 pullo - botel  
 pumppu - pompa  
 punainen - lali  
@@ -2180,7 +2182,7 @@ pystysuuntainen - gavtali
 pysähdys - ting  
 pysähtyä - tingu  
 pysäyttää - tinga  
-pyyhe - toval  
+pyyheliina - gantex  
 pyynti (metsästys, kalastus) - saide  
 pyytäjä (metsästäjä, kalastaja) - saider  
 pyytää (metsästää, kalastaa) - saida  
@@ -2215,6 +2217,7 @@ pääte: SVO-sanajärjestyksen verbi - -a
 pöly (tomu) - fun  
 pölynimuri - funcuper  
 pöytä - meze  
+pöytäliina - mezotex  
 ####Q - Q  
 Qatar - Katar  
 ####R - R  
@@ -2716,7 +2719,6 @@ te - tote
 tee - cay  
 teehuone (kahvila) - caykan  
 teekuppi - caykupe  
-teettää - isa  
 tehdas - fateria  
 tehdä (valmistaa) - cana  
 tehdä (valmistaa) - fata  
@@ -2736,7 +2738,7 @@ tekniikka (teknologia) - tehnolojia
 teknokratia - tehnokratia  
 teko (toimenpide, akti) - ate  
 teko - fate  
-tekstin muotoilu - kitaborupe  
+tekstin muotoilu - kitaboforme  
 televisio - telvide  
 teltta - hemahe  
 telugu (eräs intialainen kieli) - telugi  
@@ -2754,6 +2756,7 @@ tervehtiä - salama
 tervetuloa! - salam lay  
 terveys - sihe  
 tesla (T) - tesle  
+Tethys - Tetis  
 teurastaa (lahdata) - buca  
 teurastaja - bucer  
 teurastamo - bucokan  
