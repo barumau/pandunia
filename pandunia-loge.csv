@@ -7,6 +7,7 @@ ratibe|pandunia|klase||logasle|engli|franci|espani|portugali|rusi|arabi|putongi 
 -o|-o||||suffix for adverbs|suffixe pour l'adverbe|sufijo para adverbios|||||||||||||-e|pääte: adverbi|przyrostek dla przysłówków
 -u|-u|||hau:wol:-u, swa:-wa|suffix for verbs with OVS word order|suffixe pour les verbes avec ordre des mots OVS|sufijo para verbos con el orden de las palabras OVS|||||||||||||-i (-iĝi)|pääte: OVS-sanajärjestyksen verbi|przyrostek dla czasowników z szykiem zdania OVS
 A|A||||A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A
+a:|a||||but (whereas)|mais (bien que)|pero|||||||||||||sed|mutta|ale, lecz
 abit:e|abite|biv|Abies|spa:por:abeto|fir tree|Sapin|abeto|abeto|пихта||冷杉|モミ|||सनोबर|||||||jodła
 abl:a|abla|||eng:able, spa:hábil, fra:habile, ron:abil|can (know, be able)|pouvoir (être capable)|poder||||会|||||||||povi|voida (osata, pystyä)|móc, umieć
 abl:e|able||||ability (skill)|capacité (compétence)|habilidad|||||||||||||povo|taito (kyky)|możliwość, umiejętność
@@ -15,7 +16,7 @@ abl:o|ablo||||maybe (perhaps, possibly)|peut-être|posiblemente|||||||||||||eble
 acin.em:|acinem|mate|Ac||actinium|actinium|actinio|||||||||||||aktinio|aktinium|aktyn
 acu:|acu*|||spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|achoo|atchoum|achís||||阿嚏|||hắt xì|||||||atsii|apsik
 acu:a|acua||||sneeze|éternuer|estornudar|espirrar|чихать||打喷嚏|||||||||terni|aivastaa|kichać (kichnąć)
-ad:e|ade|||ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet|habit (custom)|coutume|costumbre (hábito)|costume (hábito)|обычай (привычка)|عادة|习惯 (风俗)|習慣 (風俗)|습관 (풍속)|tập quán (phong tục)|आदत||adat||adet|kutimo|tapa|nawyk (przyzwyczajenie)
+ad:e|ade|||ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada|habit (custom)|coutume|costumbre (hábito)|costume (hábito)|обычай (привычка)|عادة|习惯 (风俗)|習慣 (風俗)|습관 (풍속)|tập quán (phong tục)|आदत||adat|ada|adet|kutimo|tapa|nawyk (przyzwyczajenie)
 ad:i|adi||||ordinary (customary, habitual, normal)||ordinario (habitual)||||||||||||||tavallinen|zwyczajny (rutynowy, normalny)
 adal:i|adali|||ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|just (fair, righteous)|juste|justo|justo|справедливый|عدل|公正地||||उचित||adil|adili|adil|justa|oikeudenmukainen|sprawiedliwy
 adal:ia|adalia||||justice|justice|justicia|justiça|справедливость||正义||||न्याय|আদালত|keadilan||adalet|justeco|oikeus|sprawiedliwość
@@ -59,7 +60,7 @@ akses:|akses|||eng:access, spa:acceso, por:acesso, fra:accès, may:akses, jpn:�
 akses:a|aksesa||||access (reach, enter)||acceder||||||||||||||päästä (ulottua)|
 akses.abl:i|aksesabli||||accessible (within reach)||accesible||доступный|||とっつきやすい (アクセス可能)|||सुगम्य (सुगम, सुलभ)||dapat dicapai (dapat diakses)||||ulottuvilla|
 al:a|ala||||change (make different)|changer|cambiar (demudar)|alterar|изменять||改變|変える|바꾸다|||||kubadili||ŝanĝi (aliigi)|muuttaa (tehdä eriksi)|zmienić (zmieniać)
-al:i|ali|||ell:άλλος (állos), ltn:alius, eng:allo-, por:spa:alo-|other|autre|otro|outro|другой (второй)||另一|他の|||अन्य||lainnya||diğer|alia|muu (toinen)|inny
+al:i|ali|||ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)|other|autre|otro|outro|другой (второй)||另一|他の|||अन्य||lainnya||diğer|alia|muu (toinen)|inny
 al:o|alo||||otherwise (else)|autrement|sino|||||||||||||alie|muuten (toisin)|w innym wypadku (inaczej)
 al.fon|alfon||||allophone|allophone|alófono|||||||||||||alofono|allofoni (vaihtoehtoinen ääntämys)|alofon
 al.nam:o|alnamo||||that is (in other words, i.e., alias)||es decir (en otras palabras)|||||||||||||tio estas (alivorte)|eli (toisin sanoen)|innymi słowy
@@ -70,11 +71,14 @@ al.seks:i|alseksi||||heterosexual|hétérosexuel|heterosexual|||||||||||||samsek
 al.sif:i|alsifi||||different||diferente||||||||||||||erilainen|różny (inny)
 al.sif:ia|alsifia||||difference||diferencia||||||||||||||erilaisuus (ero)|różnica
 Alaska|Alaska|dex|||Alaska||Alaska||||||||||||||Alaska|Alaska
-alg:e|alge|||deu:Alge, fra:algue, tur:alg, fas:(âlg), eng:spa:por:pol:alga|alga|algue|alga|alga|водоросли||藻类||||शैवाल||lumut (alga)||yosun|algo|levä|alga (wodorost)
+alg:e|alge|||eng:spa:por:pol:may:alga, fra:algue, deu:Alge, tur:alg, fas:(âlg)|alga|algue|alga|alga|водоросли||藻类||||शैवाल||lumut (alga)||yosun|algo|levä|alga (wodorost)
 alg.o.fung|algofung|biv|||lichen|lichen|liquen||лишай||地衣|地衣類 (苔癬)|||||kulampair (liken)||||jäkälä|porost
 alg.o.jangl:e|algojangle||||kelp forest|forêt de kelp|bosque de algas|floresta de algas|лес водорослей||海藻林|藻場||||||||||las wodorostów
-alkal:|alkal|||ara: قلي (qily),eng:alkali, fra:alcali, spa:por:álcali, jpn:アルカリ (arukari), kor:알칼리 (alkalli), may:alkali|base (alkali)|base (alcali)|base (álcali)|base (álcali)|щёлочь|قلي|碱性|塩基|염기|bazơ|||alkali||baz||emäs|
+alkal:|alkal|||ara: قلي (qily),swa:-kali + eng:alkali, fra:alcali, spa:por:álcali, jpn:アルカリ (arukari), kor:알칼리 (alkalli), may:alkali|base (alkali)|base (alcali)|base (álcali)|base (álcali)|щёлочь|قلي|碱性|塩基|염기|bazơ|||alkali||baz||emäs|
 alkal:i|alkali||||alkaline|basique|alcalino|alcalino||||||||||||alkaleca|emäksinen (alkalinen)|
+alkal.gust:i|alkalgusti||||bitter|amer|amargo|amargo|горький||苦的|苦い||||||||amara|kitkerä (karvas)|gorzki
+alkal.melon:|alkalmelon|biv|Momordica charantia||bitter melon||melón amargo||горький огурец (китайская горькая тыква)||苦瓜|ツルレイシ (ニガウリ)||||||||||przepękla ogórkowata (balsamka ogórkowata)
+alkal.oranj:e|alkaloranje|biv|Citrus × aurantium||bitter orange|orange amère|naranjo amargo||померанец|||ダイダイ||||||||||gorzka pomarańcza
 alkol:|alkol|||fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol|alcohol|alcool|alcohol|álcool|алкоголь||酒||||मद्यसार||alkohol (arak)||alkol|alkoholo|alkoholi|alkohol
 alkol:i|alkoli||||alcoholic|alcoolique|alcohólico|||||||||||||alkohola|alkoholinen|alkoholowy
 almar:|almar|||hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, spa:armario, por:armário|cupboard (closet, cabinet, wardrobe)|placard|armario|armário|шкаф||碗碟橱||||अलमारी|আলমারি|lemari (almari)||dolap|ŝranko|kaappi|kredens (szafa, szafka)
@@ -82,19 +86,15 @@ almas:|almas|||swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs)
 alumin.em:|aluminem|mate|Al||aluminium|aluminium|aluminio|||||||||||||aluminio|alumiini|glin (aluminium)
 alumin.mat:e|aluminmate||||alum||alumbre|||||||||||||||
 alumin.oks.id:e|aluminokside||||alumina (aluminum oxide)||alúmina|||||||||||||||
-am:o|amo|||ara: أَمَّا‎ (ʾammā), fas:اما‎ (ammâ), tur:ama, hau:amma + ita:ma, fra:mais, por:mas + vie:mà|but (whereas)|mais (bien que)|pero|||||||||||||sed|mutta|ale, lecz
 Amar:i|Amari||||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique et langue éthiopienne)|amhara||||||||||||||amhara (etiopialainen kansa ja kieli)|Amhara, amharski
-amar:i|amari|||spa:por:amargo, fra:amer + ara:مر  (marra)|bitter|amer|amargo|amargo|горький||苦的|苦い|||||||||kitkerä|gorzki
-amar.melon:|amarmelon|biv|Momordica charantia||bitter melon||melón amargo||горький огурец (китайская горькая тыква)||苦瓜|ツルレイシ (ニガウリ)||||||||||przepękla ogórkowata (balsamka ogórkowata)
-amar.oranj:e|amaroranje|biv|Citrus × aurantium||bitter orange|orange amère|naranjo amargo||померанец|||ダイダイ||||||||||gorzka pomarańcza
-amen:a|amena||||assure (affirm, confirm)||asegurar (confirmar)|||||||||||||certigi|varmistaa|zapewniać (zapewnić)
-amen:i|ameni||||certain (sure)||seguro|||||||||||||certa|varma|pewny (pewien)
-amen:o|ameno|||ara:(ʾāmin), tur:amin,emin, heb:hbo:אמן, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|certainly (surely, amen)|sûrement|seguramente (amén)|||||||||||||certe|varmasti (totisesti, aamen)|na pewno (z pewnością, amen)
+amen:a|amena||||trust (have faith)||||||||||||||||luottaa (uskoa)|
+amen:i|ameni||||trusted||||||||||||||||varma|
+amen:o|ameno|||heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|surely (verily, amen)|sûrement|seguramente (amén)||||||||||||||uskottavasti (totisesti, aamen)|
 Amerik:e|Amerike|||eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika)|America (continent)|Amérique|América|||||||||||||Ameriko|Amerikka|Ameryka (kontynent)
 amerik:i|ameriki||||American|américain|americano|||||||||||||amerika|amerikkalainen|amerykański
 Amerik:i Samoa:|Ameriki Samoa|dex|AS||American Samoa||Samoa Americana|||||||||||||||Amerykańska Samoa
 amerik.em|amerikem|mate|Am||americium||americio|||||||||||||americio|amerikium|ameryk
-amir:|amir|||ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|order (command)||orden (mando, comando)|||||||||||amri|emir|ordono|käsky (komento)|rozkaz, komenda
+amir:|amir|||ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|order (command)||orden (mando, comando)|||||||||||amri|emir|ordono|käsky (komento)|rozkaz, komenda
 amir:a|amira||||order (issue a command)||mandar (ordenar)|||||||||||||ordoni|käskeä (komentaa)|rozkazać, rozkazywać, zakomendować
 amir:ia|amiria||||emirate||emirato||||||||||||||emiirikunta|emirat
 amir.er:|amirer||||emir||emir||||||||||||||emiiri|emir
@@ -382,7 +382,7 @@ biv.loj:ia|bivlojia||||biology (study of organic life)|biologie|biología|biolog
 biv.mut:i|bivmuti||||fermented|||||||||||||||||sfermentowany
 biv.mut:u|bivmutu||||ferment (leaven)|fermenter|fermentar|fermentar|заквасить||发酵|熟成する (発酵する)||||||||||fermentować
 biv.sistem:|bivsistem||||biome|biome|bioma|bioma|биом||生物群系|生物群系||||||||||biom
-bix:u|bixu|||zho:必须 (bìxū)|must||deber (necesitar)|||||||||||||devi|täytyä (olla pakko)|musieć
+dev:u|devu|||fra:devoir, spa:deber, por:dever|must|devoir|deber (necesitar)|dever||||||||||||devi|täytyä (olla pakko)|musieć
 bizar:i|bizari|||eng:fra:bizarre, por:bizarro, deu:bizarr|odd (strange, weird)||raro (extraño)|||||||||||||stranga|outo (kummallinen)|dziwny
 biznes:|biznes|||eng:business, rus:бизнес (biznes), may:bisnes, jpn:ビジネス (bijinesu)|business (commercial activity)||negocios (comercio)||предприятие (бизнес)|||業務 (営業, ビジネス)|||व्यवसाय|||||negoco|liiketoiminta (bisnes)|biznes, interes (aktywność komercyjna)
 biznes.er:|bizneser||||businessperson (businessman)||empresario|||||||||||||komercisto|liikemies|osoba biznesu, biznesman
@@ -665,13 +665,14 @@ des.mes:|desmes|mese|||October||octubre|||||１０月|||||||||lokakuu|luty
 des.un.mes:|desunmes|mese|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
 desen:|desen|||eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)|drawing (design)||dibujo (diseño)|||||||||||||desegno|piirustus|rysunek, obraz
 detal:|detal|||eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|detail||detalle|||||||||||||detalo|yksityiskohta (detalji)|detal, szczegół
-dev:|dev|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
+dev:|dev|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
 dev:i|devi||||divine (godly)||divino|||||||||||||dia|jumalallinen|boski
 dev.ist:e|deviste||||theist||teísta||||||||||||||teisti|teistyczny
 dev.ist:ia|devistia||||theism||teísmo||||||||||||||teismi (jumalusko)|teizm
 dev.krat:ia|devkratia||||theocracy||teocracia|||||||||||||teokratio|teokratia|teokracja
 dev.loj:ia|devlojia||||theology||teología|||||||||||||teologio|teologia|teologia
 dev.sag:e|devsage||||myth (divine story)||mito (cuento divino)|||||||||||||mito|jumaltaru (myytti)|mit, boska opowieść
+dev.sof:ia|devsofia||||theosophy|théosophie|teosofía|teosofia|теософия||||신지학||थियोसोफी||||||teosofia|teozofia
 dex:|dex|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)||país (nación, estado, terra)||||||||देश|দেশ||||lando|maa (valtio)|kraj, ziemia
 dex.o.jan:|dexojan||||citizen||ciudadano||||公民|市民|||||||||kansalainen (valtion asukas)|obywatel
 dik:a|dika||||aim at (for, toward)|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|tähdätä (kohti)|celować
@@ -2441,8 +2442,6 @@ nol sate|nol sate||||never||nunca||||||||||||||ei koskaan (ei kertaakaan)|nigdy
 nol xey|nol xey||||nothing||nada||||||||||||||ei mitään|nic, żadna rzecz
 nola|nola||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
 noma|noma||||manage (organize, direct)||dirigir (gestionar, administrar)||||||||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
-numb:a|numba||||count (enumerate)||contar|||||数える||||||||||liczyć
-numb:e|numbe|||eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|number|nombre (numéro)|número|número|число||数||||संख्या (नंबर)|সংখ্যা (নম্বর )|angka (nombor)|nambari|sayı|nombro|lukumäärä (luku, numero)|numer
 nomia|nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|management (-nomy)||gerencia (dirección)||||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
 nonga|nonga|||zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)||cultivar||||||||||||||viljellä|uprawić, uprawiać
 nonger|nonger||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
@@ -2480,6 +2479,8 @@ novyangi|novyangi||||modern||moderno|||||近代的||||||||||nowoczesne
 nudi|nudi|||eng:nude, spa:desnudo, por:fra:nu|naked (bare, nude)||desnudo||||||||||||||alaston (paljas, naku)|nagi, goły, obnażony
 nudiste|nudiste||||nudist||nudista||||||||||||||nudisti|nudysta
 nudistia|nudistia||||nudism||nudismo||||||||||||||nudismi|nudyzm
+numb:a|numba||||count (enumerate)||contar|||||数える||||||||||liczyć
+numb:e|numbe|||eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|number|nombre (numéro)|número|número|число||数||||संख्या (नंबर)|সংখ্যা (নম্বর )|angka (nombor)|nambari|sayı|nombro|lukumäärä (luku, numero)|numer
 nuton|nuton|unomete|N||newton (N)||newton (N)|||||||||||||newtono (N)|newton (N)|niuton (N)
 O|O||||O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O
 o:|o|funce||eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
@@ -3199,6 +3200,7 @@ sos|sos|||eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vi
 sosis|sosis|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage|saucisse|salchicha|salsicha|колбаса (сосиска)|سُجُق|香肠|ソーセージ|||सॉसेज||sosis (sosej)|soseji||kolbaso|makkara|kiełbasa
 Soto|Soto|dex|LS||Lesotho||Lesoto||||||||||||||Lesoto|Lesotho
 sov:a|sova|||zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜 (sō)|search (seek, look for)|chercher|buscar|buscar (procurar)|искать||寻找|探す (捜索する)|||कुछ खोजना||menggeledah|kutafuta|aramak|||szukać
+suan:|suan||||acid|||||||||||||||acido|happo|
 suan:i|suani|||zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny
 sub:e|sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
 sub.o.den:|suboden||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
@@ -3542,7 +3544,7 @@ vil:o|vilo||||will (in future)||ir a (en el futuro)|||||||||||||estonte|tuleva|w
 vild:i|vildi|||deu:eng:ned:wild, sve:vild|wild (savage)||salvaje||||||||||||||villi (kesytön)|dziki
 viman:|viman|||hin:mar:विमान (vimān), ben:বিমান (biman), guj:વિમાન (vimān), tel:విమానము (vimānamu), tam:விமானம் (vimāṉam)|airplane||aeroplano||||||||||||||lentokone|samolot
 viman.kap.er:|vimankaper||||plane hijacker||||||||||||||||lentokonekaappari|porywacz samolotu
-vin:|vin|||fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain)|wine||vino|||||||||||||vino|viini|wino
+vin:|vin|||fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain), swa:mvinyo|wine||vino|||||||||||||vino|viini|wino
 vin.er:ia|vineria||||winery||bodega||||||||||||||viinipanimo|winiarnia
 ving:|ving|||eng:wing, deu:Schwinge|wing||ala||||||||||||||siipi|skrzydło
 vinil:|vinil|||eng:vinyl, spa:vinilo, por:vinil, fra:vinyle, rus:винил (vinil), jpn:ビニル (viniru)|vinyl||vinilo||||||||||||||vinyyli|winyl
