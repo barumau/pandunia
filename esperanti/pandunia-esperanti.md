@@ -5,6 +5,7 @@
 -ia - ejo (ujo, io)  
 -u - -i (-iĝi)  
 ####A - A  
+a - sed  
 abla - povi  
 able - povo  
 abli - ebla  
@@ -46,15 +47,12 @@ alraya - malkonsenti
 alseksi - samseksema  
 alge - algo  
 alkali - alkaleca  
+alkalgusti - amara  
 alkol - alkoholo  
 alkoli - alkohola  
 almar - ŝranko  
 almas - diamanto  
 aluminem - aluminio  
-amo - sed  
-amena - certigi  
-ameni - certa  
-ameno - certe  
 Amerike - Ameriko  
 ameriki - amerika  
 amerikem - americio  
@@ -135,7 +133,7 @@ bali - ok (8)
 balde - sitelo  
 balon - balono  
 ban - tabulo  
-banogem - tabulludo  
+bangem - tabulludo  
 banan - banano  
 bandir - flago  
 Banglodex - Bangladeŝo  
@@ -155,7 +153,7 @@ barde - barbo
 barka - gratuli  
 barkoke - abrikoto  
 barti - Barata  
-Barte - Baratio  
+Bartia - Baratio  
 barude - pulvo  
 barxe - pluvo  
 barxi - pluva  
@@ -187,7 +185,7 @@ bedinjan - melongeno
 bega - fuĝi  
 beka - baki  
 beker - bakisto  
-bekeria - bakejo  
+bekokan - bakejo  
 Belarus - Belorusio  
 Belgia - Belgio  
 Belize - Beliceo  
@@ -212,12 +210,12 @@ bismute - bismuto
 biv - organismo  
 bivi - orgaaninen (biologinen)  
 bivlojia - biologio  
-bixu - devi  
+debu - devi  
 bizari - stranga  
 biznes - negoco  
 bizneser - komercisto  
 blabla - babili  
-blableria - babilejo  
+blablokan - babilejo  
 bode - korpo  
 bodi - korpa  
 Bodia - Tibeto  
@@ -231,7 +229,7 @@ Bolivia - Bolivio
 bombe - bombo  
 boni - bona  
 bonrupi - bonaspekta  
-bonsif - eco  
+bonsifia - eco  
 bori - enui  
 boria - enuo  
 borem - borio  
@@ -359,15 +357,15 @@ defta - registri
 defte - registraĵo  
 deftia - registro (konto)  
 dem - popolo  
-demografia - demografio  
-demokrati - demokratia  
-demokratia - demokratio  
+demgrafia - demografio  
+demkrati - demokratia  
+demkratia - demokratio  
 demon - demono  
 den - tago  
 denyam - tagmanĝo  
 denga - atendi  
 desi - dek (10)  
-deskili - dek miloj  
+deskilo\* - dek miloj  
 desen - desegno  
 detal - detalo  
 dev - dio  
@@ -485,7 +483,7 @@ faini - fajna
 famil - familio  
 familnam - familinomo  
 fani - kotraŭa  
-fansoldixo - maldekstrume  
+rotolefto - maldekstrume  
 fantaza - fantaci  
 fantaze - fantazio  
 fantazi - fantazia  
@@ -497,7 +495,7 @@ fasinia - fascinado
 fata - fari  
 fate - faro (fakto)  
 fater - fabrikisto  
-fateria - fabriko  
+fatokan - fabriko  
 faxiste - faŝisto  
 faxistia - faŝismo  
 febre - febro  
@@ -643,7 +641,7 @@ guanxe - rilato
 Guatemala - Gvatemalo  
 gubu\* - hipopotamo  
 gude - ĉevalo  
-guhe - kaverno  
+guh - kaverno  
 gula - gluti  
 gum - tamburo  
 gun - armeo  
@@ -703,7 +701,7 @@ helisviman - helikoptero
 helpe - helpo  
 hem - hm  
 hema - pripensi (rigardi ia)  
-hemahe - tendo  
+hemah - tendo  
 hen - malamo  
 hesem - hasio  
 hevan - besto  
@@ -749,7 +747,7 @@ inde - eno
 indi - ena  
 Indonesia - Indonezio  
 infekse - infekto  
-inform:e - informacio  
+informe - informacio  
 insan - homo  
 insani hake - homaj rajtoj  
 insania - homaro  
@@ -773,7 +771,7 @@ istia - ismo
 istan - regiono  
 Italia - Italio  
 iva - emi  
-ive - emo (inklino, tendenco)  
+iv - emo (inklino, tendenco)  
 ####J - J  
 ja - de (el, pro)  
 jagi - uyanık  
@@ -802,7 +800,7 @@ jengi - milita
 jinse - sekso  
 jinsi - seksa  
 jiraf - ĝirafo  
-jive - vivo  
+jiv - vivo  
 jivi - viva  
 jovan - junulo  
 jovani - juna  
@@ -815,7 +813,7 @@ judav - ĵudo
 jul - ĵulo (J)  
 jung - centro  
 jungofon - vokalo  
-jungxulkan - gimnazio  
+jungoxulkan - gimnazio  
 Junguo - Ĉinio  
 jupe - jupo  
 jus - suko  
@@ -859,17 +857,17 @@ kance - vitro
 kande - bombono  
 kangaru\* - kangaro  
 kanjar - ponardo  
-kano - kanuo (kanoto)  
+kano\* - kanuo (kanoto)  
 kante - ŝultro  
 kanun - lego  
 kapa - kapti  
 kar - laboro  
 karer - laboristo  
 karloge - verbo  
-karokan - laborejo  
-karaibia - Karibio  
-karate - karateo  
-karave - karvio  
+karkan - laborejo  
+Karaibia - Karibio  
+karate\* - karateo  
+karav - karvio  
 karbe - karbono  
 karbodulokside - karbona dioksido  
 karde - karto  
@@ -883,7 +881,7 @@ Katalunia - Katalunio
 katan - glavo  
 katus - kaktuso  
 kava - fosi  
-kave - foso  
+kav - foso  
 kavayi - ĉarma  
 kaya - malfermi  
 kayi - malferma  
@@ -917,7 +915,7 @@ klara - klarigi
 klari - klara  
 klaro - kompreneble  
 klim - klimato  
-klimolojia - klimatscienco  
+klimlojia - klimatscienco  
 klon - klono  
 klona - kloni  
 klorem - kloro  
@@ -938,7 +936,7 @@ konboni - kongrui
 koncaniste - komunisto  
 koncanistia - komunismo  
 konkara - kunlabori  
-konfuze - Konfuceo  
+Kongfuze - Konfuceo  
 konserte - koncerto  
 kontra - kontraŭ  
 kopa - kopii  
@@ -1022,7 +1020,7 @@ limonrangi - flava
 lince - linko  
 linye - lineo  
 lisi - glata  
-lisan - lango  
+lin - lango  
 liste - listo  
 litem - litio  
 litre - litro  
@@ -1082,14 +1080,14 @@ masal - spico
 maske - masko  
 maste - masto  
 mate - materio  
-matike - matematiko  
-matiker - matematikisto  
+hisabolojia - matematiko  
+hisabolojer - matematikisto  
 matur - plenaĝa  
 maturi - matura (plenkreska)  
 maturi fem - virino  
 maturi man - viro  
 mav - kato  
-max - pli  
+max (maxo) - pli  
 max ka bas - tro  
 maxo - ankaŭ  
 maxim (maximo) - plej  
@@ -1100,7 +1098,7 @@ medika - sanigi (kuraci)
 mediker - kuracisto  
 medu - inter  
 mega\* - miliono  
-mehe - ŝafo  
+meh - ŝafo  
 mel - mielo  
 melodia - melodio  
 mem - memoro  
@@ -1109,7 +1107,7 @@ member - membro
 men - signifo  
 Merkur - Merkuro  
 mes - monato  
-meta - mezuri  
+metra - mezuri  
 metal - metalo  
 metode - metodo  
 metre - mezuro  
@@ -1119,12 +1117,12 @@ mezotex - tablotuko
 meze - tablo  
 mien - nudelo  
 migre - migrado  
-mikro- - mikro-  
+mikro\* - mikro-  
 milke - lakto  
-milmetre - milimetro  
-milo- - mili-  
+milimitre - milimetro  
+mili\* - mili-  
 min (mino) - malpli  
-min ko bas - maltro  
+min ka bas - maltro  
 mina - escepte  
 minar - turo  
 minim (minimo) - malplej  
@@ -1145,7 +1143,7 @@ moge - inko
 moke - arbo  
 mokojongoparke - arboĝardeno  
 mokomate - ligno  
-molidenum - molibdeno  
+molidenem - molibdeno  
 moluske - molusko  
 mongoli - mongola  
 Mongolia - Mongolio  
@@ -1158,7 +1156,7 @@ mosim - sezono
 moskovem - moskovio  
 mote - movo  
 moter - motoro  
-muhe - bovo  
+muh - bovo  
 muhmanse - bovaĵo  
 muke - vizaĝo  
 mul - radiko  
@@ -1170,8 +1168,8 @@ murkaguje - tapeto
 murce - formiko  
 mus - devo  
 musa - devigi  
-musike - muziko  
-musiker - muzikisto  
+muzike - muziko  
+muziker - muzikisto  
 muskete - muskedo  
 muskul - muskolo  
 muskulbin - korpokulturado  
@@ -1219,7 +1217,6 @@ no - ne
 nobelem - nobelio  
 noce - nokto  
 node - nodo  
-numbe - nombro  
 norde - nordo  
 Norge - Norvegio  
 norgi - norvega  
@@ -1230,6 +1227,7 @@ notobuke - kajero
 novi - nova  
 novike - novulo  
 novo - ĵus  
+numbe - nombro  
 nuton - newtono (N)  
 ####O - O  
 o - aŭ  
@@ -1279,7 +1277,7 @@ pape - patro
 papagay - papago  
 papay - papajo  
 par - nivelo  
-pari nombre - para nombro  
+pari numbe - para nombro  
 parce - ero  
 parde - kurteno  
 parke - parko (ĝardeno)  
@@ -1308,7 +1306,7 @@ pete - ventro
 peta\* - peta-  
 petre - roko  
 pex - fiŝo  
-pexohuke - fiŝhoko  
+pexhuke - fiŝhoko  
 pexosaider - fiŝkaptisto  
 peykar - metiero  
 piano\* - piano  
@@ -1327,7 +1325,7 @@ pix - piso (urino)
 pixa - pisi (urini)  
 pize - pico  
 pizeria - picejo  
-platinum - plateno  
+platinem - plateno  
 pliza - peti (bonvolu)  
 pliza laya - inviti  
 plum - pruno  
@@ -1353,7 +1351,7 @@ prezidente - prezidento
 prizona - malliberigi  
 prizonkan - malliberejo  
 problem - problemo  
-profesor - profesoro  
+profeser - profesoro  
 program - programo  
 prometem - prometio  
 protacinem - protaktinio  
@@ -1366,7 +1364,7 @@ pura - plenigi
 puri - plena  
 puro - plene  
 purfina - kompleti  
-purani - malnova  
+ceniki - malnova  
 pute - ido (infano)  
 putav - vinbero  
 Putong Cini - mandarinĉina  
@@ -1418,7 +1416,7 @@ ros - roso
 rototafun - uragano (tajfuno)  
 roze - rozo  
 rubidem - rubidio  
-ruhe - animo (psiko)  
+ruh - animo (psiko)  
 ruhlojia - psikologio  
 ruke - dorso  
 rupe - aspekto  
@@ -1447,7 +1445,7 @@ sahi - ĝusta (prava)
 saida - ĉasi  
 saide - ĉasado  
 saider - ĉasisto  
-salte - salo  
+sal - salo  
 sali - sala  
 salam (salami) - bona (en salutoj)  
 salam cute - bonan vojaĝon  
@@ -1458,8 +1456,8 @@ salam xam - Bonan vesperon
 salam yam - bonan apetiton!  
 salama - saluti  
 salame - saluto  
-saman - ĉielo  
-samanhal - vetero  
+samay - ĉielo  
+samayhal - vetero  
 samarem - samario  
 samdexi - samlandano  
 samemos - kompato  
@@ -1476,13 +1474,13 @@ sang - sango
 santi - sankta  
 sapate - ŝuo  
 sapater - ŝuisto  
-sapateria - ŝuistejo  
+sapatokan - ŝuistejo  
 sarkaske - kasko  
 saudar - frato aŭ fratino  
 sauna\* - saŭno  
 sava - scii (koni)  
-save - scio  
-savolojia - sciteorio (epistemologio)  
+sav - scio  
+savlojia - sciteorio (epistemologio)  
 say - ombro  
 sekse - sekso  
 selenem - seleno  
@@ -1496,7 +1494,7 @@ serpe - serpento
 setyom - dimanĉosunnuntai  
 seti - sep (7)  
 siahi - nigra  
-seaborgem - seborgio  
+siborgem - seborgio  
 sida - sidi  
 sifloge - adjektivo  
 sihi - sana  
@@ -1509,7 +1507,7 @@ simpli - simpla
 sin - brusto  
 sing - leono  
 Singapur - Singapuro  
-sinkafas - torako  
+sinkapse - torako  
 sirke - vinagro  
 sisyom - sabato  
 sismolojia - sismologio  
@@ -1530,6 +1528,7 @@ sonkamar - dormoĉambro
 sonu - dormi  
 sos - saŭco  
 sosis - kolbaso  
+suan - acido  
 suani - acida  
 sube - mateno  
 sude - sudo  
@@ -1547,14 +1546,14 @@ superi - bonega
 supra - superiri  
 supro - super  
 suprize - surprizo  
-suxi\* - suŝio  
+suxi - suŝio  
 suy - akvo  
 suygas - vaporo  
 suyi - akva  
-suynide - soifo  
+suyyav - soifo  
 svahili - sŭahili  
 ####T - T  
-ta - al (ĝis, por)  
+pa - al (ĝis, por)  
 te - vi (ci)  
 ti - via (cia)  
 tote - vi ĉiu  
@@ -1571,7 +1570,7 @@ tarje - traduko
 tarjer - tradukisto  
 tas - plado  
 tatu\* - tatuo  
-tave - pato  
+tav - pato  
 tayi - tajlanda  
 Tayia - Tajlando  
 tazi - freŝa  
@@ -1594,7 +1593,7 @@ tenu - aparteni
 teoria - teorio  
 tepe - bendo  
 terbem - terbio  
-termometer - termometro  
+termometrer - termometro  
 teror - teroro  
 teroriste - teroristo  
 teroristia - terorismo  
@@ -1631,7 +1630,7 @@ un (uni) - unu (1)
 unia - uniono  
 unal - unu la alian (reciproke)  
 unali - reciproka  
-unistia - monismo  
+unemistia - monismo  
 uniki - sola (ununura)  
 uniko - sole (nur)  
 unmaro - unufoje  
@@ -1667,7 +1666,7 @@ version - versio (toisinto)
 vespe - abelo aŭ vespo  
 vey - vosto  
 vida - vidi (rigardi)  
-vidove - vidvo  
+vidov - vidvo  
 vike - vikia artikulo  
 vil - estonoteco  
 vilo - estonte  
@@ -1739,7 +1738,7 @@ yala - rapidigi
 yama - manĝi (trinki)  
 yamfite - legomo  
 yamkamar - manĝoĉambro  
-yamnide - malsato  
+yamyav - malsato  
 yang - speco (tipo, stilo)  
 yavu - bezoni  
 Yemen - Jemeno  

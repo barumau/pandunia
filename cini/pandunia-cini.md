@@ -19,7 +19,7 @@ airporte - 飞机场
 ais - 冰  
 aisu - 结冰  
 aiskrem - 冰淇淋  
-aisohoke - 冰球  
+aishoke - 冰球  
 ajili - 灵活的  
 akar - 蜱 (螨)  
 akse - 轴线  
@@ -31,11 +31,11 @@ alge - 藻类
 algofung - 地衣  
 algojangle - 海藻林  
 alkal - 碱性  
+alkalgusti - 苦的  
+alkalmelon - 苦瓜  
 alkol - 酒  
 almar - 碗碟橱  
 almas - 钻石  
-amari - 苦的  
-amarmelon - 苦瓜  
 andiniste - 不信神的  
 anmema - 忘记  
 analiza - 分析  
@@ -58,7 +58,7 @@ arme - 武器
 arom - 气味  
 aroma - 闻到  
 aromu - 发臭  
-aromomelon - 香瓜  
+arommelon - 香瓜  
 arte - 艺术  
 artiste - 美术家  
 asar - 影响  
@@ -66,7 +66,7 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
-astrobivlojia - 太空生物学  
+kosmobivlojia - 太空生物学  
 ate - 作为 (行为)  
 ation - 行动  
 ativi - 活性  
@@ -92,7 +92,7 @@ balsenter - 章鱼
 balibali - 各种各样  
 balute - 橡树 (xiàng)  
 ban - 板子  
-banogem - 版图游戏  
+bangem - 版图游戏  
 banan - 香蕉  
 bande - 班  (一帮)  
 bandir - 旗  
@@ -232,7 +232,7 @@ duli - 二 (2)
 dulyom - 星期二 (禮拜二)  
 dunia - 世界  
 dur - 时间  
-duruabli - 耐用的  
+durabli - 耐用的  
 durmetrer - 秒表  
 dux - 淋浴  
 ####E - E  
@@ -240,7 +240,7 @@ e - 和
 ekor - 松鼠  
 ekse - 外  
 eksotira - 拉  
-eksoyam - 野餐  
+eksyam - 野餐  
 eletrolinye - 电缆 (电线)  
 eletrorade - 闪电  
 emoje - 绘文字  
@@ -255,7 +255,7 @@ europobalute - 夏櫟
 evanjil - 福音  
 ####F - F  
 faidia - 效用 (好处)  
-fansoldixo - 反时针方向的  
+rotolefto - 反时针方向的  
 fas - 面  
 fasteli - 深  
 fasilia da akses - 無障礙環境  
@@ -323,7 +323,7 @@ goton - 棉
 governe - 政府  
 grafsage - 漫画  
 granite - 花岗石  
-grave - 砾石  
+grav - 砾石  
 grimas - 鬼脸  
 Guangjov - 广州  
 guke - 菊花  
@@ -360,7 +360,7 @@ helis - 螺旋
 helisviman - 直升机  
 helpa - 帮助  
 hema - 深思 (考虑)  
-hemahe - 帐篷  
+hemah - 帐篷  
 Hesia - 黑森  
 hevan - 动物  
 hevanparke - 动物园  
@@ -392,7 +392,7 @@ insan - 人类
 insani hake - 人权  
 insanistia - 人文主义  
 itis - 炎症  
-ive - 趋势  
+iv - 趋势  
 ####J - J  
 ja - 从  
 jagu - 睡醒  
@@ -408,14 +408,14 @@ jekodona - 借出
 jekogeta - 借入  
 jeni - 生的  
 jeni bax - 母语  
-jenotipe - 基因型  
+jentipe - 基因型  
 jinse - 性别  
 jiraf - 长颈鹿  
-jive - 生命  
+jiv - 生命  
 jul - 焦耳 (J)  
 jumle - 句子  
 jung - 中心  
-jungxulkan - 中学  
+jungoxulkan - 中学  
 Junguo - 中国  
 Jupiter - 木星  
 jus - 汁  
@@ -455,7 +455,7 @@ kar - 工作
 karer - 工人 (工作者)  
 karloge - 动词  
 karmisa - 提交  
-karokan - 工厂  
+karkan - 工厂  
 kara - 工作  
 karbodulokside - 二氧化碳  
 karcof - 菜蓟  
@@ -471,7 +471,7 @@ katoglutoban - 剪贴板
 katan - 剑  
 katus - 仙人掌  
 kava - 挖  
-kave - 坑 (穴)  
+kav - 坑 (穴)  
 keci - 客气  
 keger - 客人  
 kenar - 边  
@@ -490,7 +490,7 @@ kitabokan - 图书馆
 kitabomaxin - 打字机  
 kivi\* - 奇异果  
 klien - 顾客  
-klimomute - 气候变化  
+klimmute - 气候变化  
 komputer - 计算机  
 kono - 共同 (一起)  
 konboni - 相配  
@@ -536,7 +536,7 @@ lampe - 灯
 lan - 诅咒  
 lancograf - 投影  
 lancografa - 投射  
-lancovute - 投掷物  
+lancite - 投掷物  
 lantanem - 鑭  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
@@ -569,7 +569,7 @@ limonike - 柑橘
 lince - 猞猁 (山貓)  
 linka - 连接  
 linke - 联系  
-lisan - 舌头  
+lin - 舌头  
 liste - 单子  
 litre - 升  
 loga - 说话 (讲)  
@@ -613,6 +613,7 @@ masal - 香料
 masmulsolful - 菊芋  
 maste - 桅  
 mate - 物质  
+hisabolojia - 数学  
 matur - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
@@ -658,10 +659,11 @@ mosim - 季
 moter - 马达 (发动机)  
 mul - 根  
 mumcape - 封印  
-mumomelon - 冬瓜 (白瓜)  
+mummelon - 冬瓜 (白瓜)  
 mur - 墙壁  
 murkaguje - 壁纸 (墙纸)  
 murce - 蚂蚁  
+muzike - 音乐  
 muskulbin - 健美运动  
 ####N - N  
 nade - 河 (江)  
@@ -675,19 +677,19 @@ nefre - 肾脏
 nefte - 油  
 neftoguke - 野菊花  
 nilcentaur - 矢車菊  
-nilceramxing - 茜草花  
+nilseramxing - 茜草花  
 nili - 蓝色  
 Nipon - 日本  
 nix - 壁龛  
 nizde - 巢 (穴)  
 no - 不  
 noce - 夜  
-numbe - 数  
 norde - 北  
 nostalgia - 怀旧  
 note - 便条  
 novi - 新  
 novike - 新手  
+numbe - 数  
 ####O - O  
 o - 或  
 oaze - оазис  
@@ -716,7 +718,7 @@ pape - 爸爸
 papagay - 鹉鹦  
 papay - 木瓜  
 par - 水平  
-pari nombre - 偶数  
+pari numbe - 偶数  
 param - 参数  
 parcokayu - 爆裂  
 parke - 园  
@@ -740,7 +742,7 @@ pes - 钱
 pesdiske - 硬币  
 petronefte - 石油  
 pex - 鱼  
-pexohuke - 鱼钩  
+pexhuke - 鱼钩  
 pexosaider - 鱼夫  
 peykar - 职业  
 piaze - 洋葱  
@@ -771,6 +773,7 @@ puma\* - 美洲獅 (山狮)
 purfina - 完成  
 purfityamiste - 纯素食主义者  
 purxipa - 浸泡  
+ceniki - 古老 (以前)  
 putavoranje - 葡萄柚  
 putongi - 普通  
 ####Q - Q  
@@ -797,7 +800,7 @@ ris - 米
 ritim - 节奏  
 roketolancer - 火箭筒  
 Roma - 罗马  
-rom.kamil: - 果香菊  
+romakamil - 果香菊  
 rototafun - 飓风 (台风)  
 rototope - 陀螺  
 roze - 玫瑰  
@@ -811,10 +814,10 @@ sahi - 正确
 saida - 打猎  
 saide - 狩猎  
 saider - 狩人  
-salte - 盐  
+sal - 盐  
 salame - 迎接  
-saman - 天空  
-samanhal - 天气  
+samay - 天空  
+samayhal - 天气  
 sami - 一样  
 sammetri - 对称  
 sammetria - 对称性  
@@ -841,7 +844,7 @@ seti - 七 (7)
 siahi - 黑色  
 side - 座部 (马鞍)  
 sifloge - 形容词  
-sihe - 健康  
+sih - 健康  
 sihi - 健康  
 sikliste - 骑自行车的人  
 sil - 连结  
@@ -875,14 +878,14 @@ suy - 水
 suygas - 蒸汽  
 suykaboge - 葫芦  
 suyminte - 水薄荷  
-suynide - 口渴  
+suyyav - 口渴  
 ####T - T  
-ta - 到  
+pa - 到  
 te - 你  
 tote - 你们  
 tablokomputer - 平板电脑  
 tail - 砖 (瓦)  
-taksometer - 计程器  
+taksometrer - 计程器  
 tali moke - 灌木  
 tami - 贪婪的  
 tan - 茎 (梗)  
@@ -947,7 +950,7 @@ venturer - 冒险者
 vespe - 蜂  
 vey - 尾巴 (尾部)  
 vida - 看  
-vidove - 寡妇  
+vidov - 寡妇  
 vijin - 味精  
 voda - 许诺  
 vode - 诺言  
@@ -955,7 +958,7 @@ volu - 想要 (愿意)
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ####W - W  
-Wenjov - 温州  
+Venjov - 温州  
 ####X - X  
 xalke - 鳞  
 xam - 晚上  
@@ -999,7 +1002,7 @@ xuxo - 噓
 ####Y - Y  
 ye - 对 (是)  
 yamfite - 蔬菜  
-yamnide - 饥饿  
+yamyav - 饥饿  
 yasen - 白蜡树  
 yatimdom - 孤儿院  
 yavu - 需要  

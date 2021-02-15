@@ -6,7 +6,7 @@
 |**-u**|-i (-iĝi)|haŭsa:volofa:-u, svahila:-wa|
 |**abla**|povi|angla:able, hispana:hábil, franca:habile, ron:abil|
 |**adali**|justa|araba: عدل (’adl), malaja:turka:adil, svahila:adili + hindia:अदालत (adālat)|
-|**ade**|kutimo|araba: عادة (ʿāda), hindia:आदत (ādat), malaja:adat, turka:adet|
+|**ade**|kutimo|araba: عادة (ʿāda), hindia:आदत (ādat), malaja:adat, turka:adet, svahila:ada|
 |**adres**|adreso|angla:address, franca:deu:adresse, rusa:адрес (adres), portugala:endereço|
 |**Afrike**|Afriko|araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika|
 |**aga**|se|persa:urdua:اگر‎‎ (agar), hindia:अगर (agar), turka:eğer, + kantona:假 (gaa1), vua:假 (ga)|
@@ -18,21 +18,20 @@
 |**ajili**|lerta|angla:franca:agile, hispana:portugala:ágil, deu:agil|
 |**akse**|akso|angla:axis, franca:axe, hindia:अक्ष (akṣ), turka:eksen|
 |**aksente**|akcento|angla:franca:accent, hispana:portugala:acento, polona:akcent, japana:アクセント (akusento)|
-|**alge**|algo|deu:Alge, franca:algue, turka:alg, persa:(âlg), angla:hispana:portugala:polona:alga|
-|**ali**|alia|greka:άλλος (állos), latina:alius, angla:allo-, portugala:hispana:alo-|
+|**alge**|algo|angla:hispana:portugala:polona:malaja:alga, franca:algue, deu:Alge, turka:alg, persa:(âlg)|
+|**ali**|alia|greka:άλλος (állos), latina:alius, angla:franca:allo-, portugala:hispana:alo-, rusa: алло- (allo-)|
 |**alkol**|alkoholo|franca:alcool portugala:álcool hispana:alcohol angla:alcohol hindia: araba:(kuhul), rusa:алкоголь (alkohol), polona:alkohol|
 |**almar**|ŝranko|hindia:अलमारी (almārī), bengala:আলমারি (almari), malaja:lemari, hispana:armario, portugala:armário|
 |**almas**|diamanto|svahila:almasi, rusa:алмаз (almaz), araba:(ʾalmāsa), persa:(almâs), turka:elmas|
-|**ameno**|certe|araba:(ʾāmin), turka:amin,emin, heb:hbo:אמן, greka:ἀμήν (ámén), angla:deu:franca:polona:hispana:amen, mandarena:阿门 (āmén), korea:아멘 (amen), japana:アーメン (āmen)|
 |**Amerike**|Ameriko|angla:America, hispana:portugala:América, rusa:Америка (Amerika), turka:svahila:malaja:Amerika, araba:أمريكا‎ (ʾamrīkā), hindia:अमेरिका (amerikā), bengala:আমেরিকা (amerika), japana:アメリカ (amerika)|
-|**amir**|ordono|araba: أَمْر‎ (ʾamr), persa: امر‎ (amr), turka:emir, svahila:amri, haŭsa:umarni + angla:admiral, franca:amiral, hispana:portugala:emir rusa:эмир (emir)|
-|**amo**|sed|araba: أَمَّا‎ (ʾammā), persa:اما‎ (ammâ), turka:ama, haŭsa:amma + itala:ma, franca:mais, portugala:mas + vjetnama:mà|
+|**amir**|ordono|araba: أَمْر‎ (ʾamr), persa: امر‎ (amr), turka:emir, svahila:amiri, haŭsa:umarni + angla:admiral, franca:amiral, hispana:portugala:emir rusa:эмир (emir)|
 |**analize**|analizo|angla:analysis, franca:analyse, portugala:análise, hispana:análisis, rusa:анализ (analiz), turka:analiz|
 |**ande**|ovo|hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)|
 |**ani**|mala|greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-|
 |**anim**|kartuno|angla:franca:animation, hispana:animación, portugala:animação, rusa:анимация, japana:アニメ (anime), turka:malaja:anime, araba:أنمي m (ʾanimī), hindia:ऐनिमे (ainime), korea:아니메 (anime)|
 |**anjil**|mesaĝo|greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl), rusa:евангелие (evangeliye), franca:évangile, portugala:evangelho|
 |**anker**|ankro|angla:anchor, franca:ancre, portugala:âncora, malaja:jangkar, rusa:якорь, araba:(ʾanjar), hindia:लंगर (laṅgar), urdua:(laṅgar), teluga:లంగరు (laṅgaru)|
+|**anten**|anteno|angla:antenna, hispana:portugala:malaja:antena, franca:antenne, rusa:антенна (antenna), turka:anten, japana:アンテナ (antena)|
 |**anus**|anuso|angla:franca:anus, portugala:ânus, hispana:ano, deu:Anus, rusa:анус (anus), turka:anüs|
 |**apel**|pomo|angla:apple, deu:Apfel, malaja:apel, bengala:আেপল (apôl), zulua:ihhabhula|
 |**ar**|areo|angla:area, portugala:hispana:área, polona:areał, franca:aire|
@@ -108,7 +107,6 @@
 |**birkan**|drinkejo|angla:bar, hindia:बार (bār), hispana:bar, mandarena:酒吧 (jiǔbā), rusa:бар (bar)|
 |**biskute**|biskvito (kuketo)|angla:franca:biscut, portugala:biscoito, rusa:бисквит (biskvit), turka:bisküvi, svahila:biskuti, araba:بسكويت‎ (baskawīt), hindia:बिस्कुट (biskuṭ), malaja:biskut, japana:ビスケット (bisuketto)|
 |**biv**|organismo|angla:deu:franca:hispana:portugala:polona:malaja:svahila:turka:bio-, rusa:био- (bio-)|
-|**bixu**|devi|mandarena:必须 (bìxū)|
 |**bizari**|stranga|angla:franca:bizarre, portugala:bizarro, deu:bizarr|
 |**biznes**|negoco|angla:business, rusa:бизнес (biznes), malaja:bisnes, japana:ビジネス (bijinesu)|
 |**blabla**|babili|franca:blablater, angla:babble, hispana:blablablá|
@@ -156,6 +154,7 @@
 |**cel**|ĉelo|malaja:sel, persa:sellul, taja:เซลล์ (seel), svahila:seli, filipina:selula, angla:cell, franca:cellule, hispana:célula|
 |**ci**|ĉi tiu|mandarena:此 (cǐ), kantona:此 (chi2), franca:ce|
 |**cimpanze**|ĉimpanzo|angla:chimpanzee, hispana:chimpancé, portugala:franca:chimpanzé, rusa:шимпанзе (shimpanze), turka:şempanze, araba:شمبانزي‎ (šimbanzī), hindia:चिंपांजी (cimpāñjī), japana:チンパンジー (chinpanjī), malaja:cimpanzi|
+|**cincil**|ĉinĉilo|angla:hispana:franca:chinchilla, portugala:chinchila, rusa:шиншилла (šinšilla), turka:çinçilya, malaja:cincila, japana:チンチラ (chinchira)|
 |**cini**|hana|hindia:चीनी (cīnī), turka:Çin, araba:(ṣiniy), hispana:chino, angla:Chinese, taja:จีน (chin), mandarena:秦 (qín)|
 |**cita**|citi|angla:cite, hispana:portugala:citar, franca:citer, deu:zitieren, rusa:цитировать (citirovat’)|
 |**cize**|fromaĝo|angla: cheese, mandarena: 起司 (qǐsī), svahila: chizi, japana:チーズ (chīzu), korea:치즈 (chijeu)|
@@ -177,17 +176,18 @@
 |**dav**|vojo|mandarena:道 (dào), kantona:道 (dou6), japana:道 (dō), korea:도 (do), vjetnama:đạo|
 |**dayhay**|oceano|mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)|
 |**dayi**|granda|kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai,tai), korea:대— (dae-)|
+|**debu**|devi|franca:devoir, hispana:deber, portugala:dever|
 |**def**|defendo|araba:(difāʿ), persa:(defâ'), hindia:दफ़ा (dafā), urdua:(difā'), + franca:angla:defense, hispana:defensa, portugala:defesa, turka:defans|
 |**defte**|registraĵo|turka:defter, greka:τεφτέρι (tefteri), malaja:daftar, araba:persa:(daftar)|
 |**dem**|popolo|angla:hispana:demo-, franca:démo-, rusa:демо- (demo-)|
-|**demokratia**|demokratio|angla:democracy, rusa:демократия (demokratiya), hispana:democracia, franca: portugala: deu: araba:(dīmukratiya), svahila:demokrasia|
+|**demkratia**|demokratio|angla:democracy, rusa:демократия (demokratiya), hispana:democracia, franca: portugala: deu: araba:(dīmukratiya), svahila:demokrasia|
 |**demon**|demono|angla:turka:demon, hispana:demonio, portugala:demônio, franca:démon, deu:Dämon, rusa:демон (demon)|
 |**den**|tago|rusa:день (deń), hindia:दिन (din), bengala:দিন (din) + mandarena:天 (tiān), kantona:天 (tin1)|
 |**denga**|atendi|mandarena:等 (děng),  kantona:等 (dang2)|
 |**desen**|desegno|angla:design, hispana:diseño, rusa:дизайн (dizain), turka:desen, hindia:डिज़ाइन (ḍizāin), japana:デザイン (dezain)|
 |**desi**|dek (10)|portugala:dez, hispana:diez, franca:dix, rusa:десять (desyat'), polona:dziesięć, hindia:दस (das), urdua:(das), bengala:দশ (dôś), + angla:deci-, malaja:desi-, japana:デシ- (deshi), deu:dezi-|
 |**detal**|detalo|angla:detail, hispana:detalle, portugala:detalhe, franca:détail, deu:Detail, rusa:дета́ль (detal’)|
-|**dev**|dio|portugala:deus, malaja:dewa, hindia:देवता (devtā), kanara:(dēva)|
+|**dev**|dio|portugala:deus, malaja:dewa, hindia:देवता (devtā), kanara:(dēva) + angla:theo-, franca:théo-, hispana:teo-, rusa:тео- (teo-)|
 |**dex**|lando|hindia:देश (deś), bengala:দেশ (deś), teluga:(dēśamu)|
 |**dike**|celo|mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích + bengala:দিকে (dike)|
 |**din**|religio|araba:(dīn), bengala:দীন (din), persa:(din), turka:malaja:din, svahila:dini, haŭsa:addini, hindia:दीन (dīn)|
@@ -240,6 +240,8 @@
 |**faini**|fajna|angla:fine, hispana:portugala:fino, franca:fin|
 |**famil**|familio|angla:family, hispana:familia, portugala:família, franca:famille|
 |**fani**|kotraŭa|mandarena:反 (fǎn), yue反 (faan3), vjetnama:phản, japana:反 (han-), korea:반 (ban-)|
+|**fantaze**|fantazio|angla:franca:fantasy, hispana:fantasía, portugala:svahila:fantasia, rusa:фантазия (fantazija), turka:fantezi, malaja:fantasi, japana:ファンタジー (fantajī)|
+|**fantom**|fantomo|angla:phantom, hispana:portugala:fantasma, franca:fantôme, rusa:фантом (fantom)|
 |**fas**|surfaco|angla:franca:portugala:face, hispana:faz, deu:Facette|
 |**fasili**|facila|angla:facility, hispana:portugala:fácil, franca:facile|
 |**fasinia**|fascinado|angla:fascination, hispana:fascinación, deu:Faszination|
@@ -257,6 +259,7 @@
 |**fiksa**|fiksi|angla:fix, franca:fixer, hispana:fijar, portugala:fixar|
 |**filme**|filmo|angla:hispana:franca:film, portugala:filme, deu:Film, rusa:фильм (fil’m), turka:film, araba:فيلم (film), japana:フィルム (firumu), malaja:pilem|
 |**filsofia**|filozofio|hispana:filosofia, rusa:философия (filosofiya), malaja:filsafat, araba:(falsafa), svahila:falsafa, turka:felsefe, hindia:फ़लसफ़ा (falasfā), angla:philosophy, franca:philosophie|
+|**filter**|filtri|angla:filter, hispana:portugala:filtro, franca:turka:filtre, rusa:фильтр (filʹtr), hindia:फ़िल्टर (filṭar), bengala:ফিল্টার (philṭar), japana:フィルター (firutā)|
 |**fin**|fino|hispana: fin, franca: fin, portugala: fim|
 |**fiorde**|fjordo|nor:angla:fjord, franca:malaja:fiord, portugala:fiorde, hispana:fiordo, rusa:фьорд (f’ord), japana:フィヨルド (fiyorudo)|
 |**firuze**|turkiso|per:(firuze), turka:firuze, araba:(fayrūz), svahila:feruzi, hindia:फीरोज़ा (phīrozā), bengala:ফিরোজা (phiroja), malaja:pirus, rusa:бирюза (biryuza)|
@@ -325,7 +328,7 @@
 |**guanxe**|rilato|mandarena:关系 (guānxi), vjetnama:quan hệ, korea:관계 (gwangye), japana:関係 (kankei)|
 |**gubu***|hipopotamo|fula:ngabu konga:ngubu/mvubu, zulua:imvubu, amharaba:gumarre|
 |**gude**|ĉevalo|hindia:घोड़ा (ghoṛā), bengala:ঘোড়া (ghoṛa), malaja:kuda, kanara:ಕುದುರೆ (kudure), tamila:குதிரை (kutirai), teluga:గుర్రము (gurramu), panĝaba:ਘੋੜਾ (ghōṛā)|
-|**guhe**|kaverno|bengala:গুহা (guha), taja:คูหา (gūhā), teluga:గుహ (guha), hindia:गुफ़ा (gufā), malaja:gua|
+|**guh**|kaverno|bengala:গুহা (guha), taja:คูหา (gūhā), teluga:గుహ (guha), hindia:गुफ़ा (gufā), malaja:gua|
 |**gula**|gluti|bengala:গেলা (gela), portugala:engolir, rusa:глотать (glotat'), taja:กลืน (glʉʉn), hispana:deglutir, franca:déglutir|
 |**gum**|tamburo|svahila:sna:konga:ngoma, nya:ng'oma, + mandarena:鼓 (gǔ)|
 |**gun**|armeo|mandarena:军 (jūn), kantona:軍 (gwan1), japana:軍 (gun), korea:군 (gun), vjetnama:quân|
@@ -358,7 +361,7 @@
 |**he**|ĉu?|franca:portugala:hein, japana:e|
 |**helpe**|helpo|angla:help, deu:Hilfe|
 |**hem**|hm|angla:hmm, rusa:хм (hm), эм (em), korea:음 (eum)|
-|**hemahe**|tendo|araba:(xayma), haŭsa:laima, hindia:ख़ैमा (xEmā), svahila:hema, malaja:kemah, may:khemah, mng:майхан (mayhan)|
+|**hemah**|tendo|araba:(xayma), haŭsa:laima, hindia:ख़ैमा (xEmā), svahila:hema, malaja:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|malamo|mandarena:恨 (hèn), kantona:恨 (han6), vua:恨 (hhen3), vjetnama:hận, japana:嫌 (ken), korea:혐 (hyeom) + franca:haine|
 |**hevan**|besto|malaja:kewan, araba:(haywān), hindia:हैवान (haivān), turka:hayvan|
 |**hiar**|kukumo|persa:خیار (xiyâr), turka:hıyar, araba:خيار‎ (khiyār), hindia:खीरा (khīrā), bengala:ক্ষীরা (kṣīrā)|
@@ -371,6 +374,7 @@
 |**hoke**|hokeo|angla:franca:hispana:hockey, portugala:hóquei, rusa:хоккей (hokkey),  japana:ホッケー (hokkē), hindia:हाकी (hākī), bengala:হকি (hôki), araba:(hūkī)|
 |**hor**|horo|franca:heure, angla:hour, hispana:portugala:hora|
 |**horloger**|horloĝo|lat:horologium, franca:horloge, itala:orologio, hispana:reloj, portugala:relógio, malaja:arloji|
+|**hormon**|hormono|angla:franca:hormone, hispana:hormona, rusa:гормон (gormon), turka:malaja:hormon, araba:هُرْمُون‎ (hurmūn), hindia:हॉर्मोन (hŏrmon), mandarena:荷尔蒙 (hé'ěrméng), japana:ホルモン (horumon)|
 |**hotel**|hotelo|angla:deu:hispana:portugala:malaja:hotel, franca:hôtel, hindia:होटल (hoṭal), bengala:হোটেল (hoṭel), japana:ホテル (hoteru), korea:호텔 (hotel), rusa:отель (otel)|
 |**huke**|hoko|angla:hook, deu:Haken, rusa: гак (gak), polona:hak, hindia:हुक (huk), bengala:হুক (huk), malaja:hak|
 |**huley**|vulpo|mandarena:狐狸 (húlí), kantona:狐狸 (wu4 lei4-2), vua:狐狸 (hhu li3), korea:호리 (hori), vjetnama:hồ li|
@@ -381,11 +385,12 @@
 |**inde**|eno|angla:in, mandarena:内 (nèi), hindia:अंदर (andar), korea:안 (an), greka:εντός (entós), hispana:portugala:dentro|
 |**infekse**|infekto|itala:infezione, angla:infection, portugala:infecção, turka:enfeksiyon, rusa:инфекция (infektsiya)|
 |**insan**|homo|araba:(ʔinsan), hindia:इंसान (insān), turka:insan, urdua:(insān), persa:(ensān)|
+|**inxala**|esperi|araba:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), persa:ان‌شاءالله (enšâ'allâh), turka:inşallah, malaja:insya allah, hispana:ojalá, portugala:oxalá, angla:inshallah, rusa:иншаллах (inšallax), bengala:ইনশাআল্লাহ্ (inśaallah), mandarena:印沙安拉 (yìnshā'ānlā)|
 |**ion**|iono|angla:franca:hispana:ion, rusa:ион (ion), turka:iyon|
 |**irita**|agaci (tedi, malamuzi)|angla:irritate, franca:irriter, hispana:portugala:irritar, deu:irritieren, japana:いらいらさせる (iraira saseru)|
 |**istan**|regiono|persa:ـستان‎ (-estān), hye:-ստան (-stan), kaz:tat:rusa:-стан (-stan), turka:angla:hispana:malaja:-istan, portugala:istão, hindia:-स्तान (-stān), mandarena:斯坦 (sītǎn), japana:-スタン (sutan)|
 |**iste**|isto de ismo|angla:deu:turka:-ist, franca:-iste, hispana:portugala:-ista, rusa:-ист (-ist)|
-|**ive**|emo (inklino, tendenco)|angla:-ive, deu:-iv, franca:-if,-ive, portugala:hispana:-ivo, rusa:-ивный (-ivnyj)|
+|**iv**|emo (inklino, tendenco)|angla:-ive, deu:-iv, franca:-if,-ive, portugala:hispana:-ivo, rusa:-ивный (-ivnyj)|
 |**jagi**|uyanık|hindia:जागना (jāgnā), bengala:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), marataja:जागणे (j̈āgṇe), guĝarata:જાગવું (jāgvũ), malaja:jaga|
 |**jake**|jako|angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta|
 |**jampa**|salti|angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
@@ -401,7 +406,7 @@
 |**jeng**|milito (batalo)|mandarena:爭 (zhēng), vjetnama:tranh, korea:전쟁 (jeonjaeng), turka:kur:ceng, persa:urdua:(jang), hindia:जंग (jang)|
 |**jinse**|sekso|araba:urdua:(jins), persa:(jens), svahila:jinsi, turka:cins, angla:gender, portugala:gênero|
 |**jiraf**|ĝirafo|araba:(zarāfa), angla:franca:giraffe, portugala:girafa, hispana:jirafa, rusa:жираф (žiraf),malaja:jerapah, turka:zürafa, korea:지라프 (jirapeu), hindia: जिराफ़ (jirāf), bengala:জরৈফ (jôrôph)|
-|**jive**|vivo|hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy|
+|**jiv**|vivo|hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy|
 |**jovani**|juna|hindia:जवान (javān), persa:urdua:(javān), teluga:యువ (yuva), portugala:jovem, hispana:joven, itala:giovane|
 |**juder**|juĝisto|angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji + rusa:судья (sud'ya)|
 |**jung**|centro|mandarena:中 (zhōng), kantona:中 (zung), korea:중 (jung), japana:中 (chuu-)|
@@ -424,17 +429,18 @@
 |**kanape**|sofo|franca:portugala:hispana:canapé, deu:Kanapee, rusa:канапе (kanape), turka:kanepe, persa:(kânâpe), araba:(kanaba)|
 |**kance**|vitro|hindia:काँच (kānc), bengala:কাঁচ (kãcô), marataja:काच (kāc), malaja:kaca, teluga:గాజు (gāju)|
 |**kande**|bombono|angla:candy, hindia:कैंडी (kaiṇḍī), japana:キャンデー (ja) (kyandē), filipina:kendi|
+|**kangaru***|kangaro|angla:kangaroo, hispana:canguro, portugala:canguru, rusa:кенгуру (kenguru), turka:kanguru, svahila:kangaruu, araba:كَنْغَر‎ (kanḡar), hindia:कंगारू (kaṅgārū), malaja:kanggaru, japana:カンガルー (kangarū)|
 |**kanjar**|ponardo|persa:(xanjar), turka:haner, rusa:кинжал (kinžal)|
-|**kano**|kanuo (kanoto)|angla:canoe, franca:canoë, hispana:portugala:canoa, rusa:каноэ (kanoe), japana:カヌー (kanū), korea:카누 (kanu), turka:kano|
+|**kano***|kanuo (kanoto)|angla:canoe, franca:canoë, hispana:portugala:canoa, rusa:каноэ (kanoe), japana:カヌー (kanū), korea:카누 (kanu), turka:kano|
 |**kante**|ŝultro|hindia:कंधा (kandhā), urdua:(kandhā), bengala:কাঁধ (kandhô), + japana:肩 (kata), + araba:(kataf), + mina:肩頭 (keng-thâu)|
 |**kanun**|lego|araba:(qānūn), turka:kanun, svahila:kanuni, hindia:क़ानून (qānūn), + angla:franca:canon, portugala:cânone, rusa:канон (kanon)|
 |**kapa**|kapti|turka:kapmak, hungara:kap, sve:kapa, fin:kaapata, ned:kapen, hispana:portugala:capturar, angla:capture, spa:por:caber, kmera:ចាប់ (cap)|
 |**kar**|laboro|malaja:karya, hindia:कर्म (karma), urdua:(karm), panĝaba:ਕਰਮ (karm), kanara:tamila:teluga:(karma), angla:deu:franca:hispana:portugala:karma, kmera:កម្ម (kam), birma:ကံ (kam), taja:กรรม (kam), rusa:карма (karma) |
-|**karave**|karvio|araba:(karāwiya), angla:caraway, franca:carvi, hispana:alcaravea, portugala:alcaravia|
+|**karav**|karvio|araba:(karāwiya), angla:caraway, franca:carvi, hispana:alcaravea, portugala:alcaravia|
 |**karde**|karto|angla:card, japana: カード (kādo), svahila: kadi, mandarena:卡 (kǎ), deu:Karte, malaja:kartu, franca:carte|
 |**karibi**|proksima|araba:persa:urdua:(qarīb), svahila:karibu, turka:takribi|
+|**karkan**|laborejo|angla:workshop, persa:کارخانه‎ (kârxâne), hindia:कारख़ाना (kārxānā), bengala:কারখানা (karôkhana), mandarena:工厂 (gōngchǎng)|
 |**karloge**|verbo|hindia:क्रिया (kriyā), bengala:ক্রিয়া (kriya), teluga:క్రియ (kriya), kmera:កិរិយា (keriyaa), taja:กริยา (grì-yaa), malaja:kata kerja|
-|**karokan**|laborejo|angla:workshop, persa:کارخانه‎ (kârxâne), hindia:कारख़ाना (kārxānā), bengala:কারখানা (karôkhana), mandarena:工厂 (gōngchǎng)|
 |**karote**|karoto|angla:carrot, franca:carotte, deu:Karotte, svahila:karoti, malaja:karot, vjetnama:cà rốt|
 |**karvan**|karavano|persa:urdua:(kârvân), turka:kervan, hindia:कारवाँ (kārvā̃), angla:caravan, deu:Karawane, franca:caraven, hispana:portugala:caravana, polona:karawana, rusa:караван (karavan), filipina:karabana, japana:キャラバン (kyaraban), korea:카라반 (karaban)|
 |**kastan**|kaŝtano|hispana:castaňa, araba:(kastanāʾ), turka:kestane, rusa:каштан (kaštan)|
@@ -469,7 +475,7 @@
 |**kompania**|kompanio (firmao)|angla:company, hindia:कंपनी (kampanī), rusa:компания (kompaniya), filipina:kompanya, polona:kompania|
 |**komputer**|komputero|angla:computer, hispana:computadora, portugala:computador, rusa:компьютер (komp’uter), araba:كَمْبْيُوتَر‎ (kambyūtar), svahila:kompyuta, hindia:कंप्यूटर (kampyūṭar), bengala:কম্পিউটার (kômpiuṭar), malaja:komputer, japana:コンピューター (konpyūtā)|
 |**komuni**|komuna|angla:common, hispana:común, portugala:comum, franca:commun, rusa:коммунальный (kommunal’nyy)|
-|**konfuze**|Konfuceo|mandarena:孔夫子 (Kǒng Fūzǐ)|
+|**Kongfuze**|Konfuceo|mandarena:孔夫子 (Kǒng Fūzǐ)|
 |**kono**|kune|mandarena:共 (gòng), kantona:共 (gung4), korea:공 (gong), vjetnama:cộng, japana:共 (kyō-), angla:franca:hispana:portugala:con-|
 |**konserte**|koncerto|angla:franca:concert, hispana:concierto, portugala:concerto, deu:Konzert, rusa:концерт (koncert), malaja:turka:konser, japana:コンサート (konsāto), korea:콘서트 (konseoteu), hindia:कॉन्सर्ट (kŏnsarṭ)|
 |**kontra**|kontraŭ|hispana:portugala:contra, franca:contre, angla:counter-, greka:κόντρα (kontra)|
@@ -495,7 +501,7 @@
 |**kuga**|plori|mandarena:哭 (kū), kantona:哭 (huk1), vjetnama:khóc|
 |**kuli**|bonega (mojosa)|angla:deu:franca:cool, japana:クール (kūru), mandarena:酷 (kù)|
 |**kultur**|kulturo|angla:franca:culture, hispana:portugala:cultura, rusa:культу́ра (kulʹtúra), turka:kültür, japana:カルチャー (karuchā)|
-|**kupe**|taso|angla:cup, franca:coupe, hispana:copa, portugala:copo, araba: كُوب‎ (kūb), turka:kupa, hindia:कप (kap), japana:コップ (koppu), korea:컵 (keop)|
+|**kupe**|taso|angla:cup, franca:coupe, hispana:copa, portugala:copo, araba: كُوب‎ (kūb), turka:kupa, hindia:कप (kap), japana:コップ (koppu), korea:컵 (keop) + persa:(koppe), ara:قبة (qubba), malaja:kubah, rusa:купол (kupol), deu:Kuppel|
 |**kurse**|seĝo|araba:(kursiy), hindia:कुरसी (kursī), urdua:(kursī), panĝaba:ਕੁਰਸੀ (kursī), teluga:(kurcī), malaja:som:kursi, persa:(korsi)|
 |**kurve**|kurbo|angla:curve, franca:courbe, hispana:portugala:curva|
 |**labe**|lipo|persa:urdua:(lab), hindia:लब (lab), filipina:labi, hispana:labio, portugala:lábio|
@@ -516,9 +522,9 @@
 |**lili**|malgranda|angla:little|
 |**limi**|kvin (5)|malaja:filipina:lima, mlg:dimy|
 |**limon**|citrono|persa:(limun), angla:lemon, turka:limon, rusa:лимон (limon), hispana:limón, portugala:limão, hindia:नींबू (nīmbū), urdua:(nībū), mandarena:柠檬 (níngméng), japana:檸檬 (remon), korea:레몬 (remon), svahila:ndimu,limau, bengala:লেবু (lebu)|
+|**lin**|lango|araba:(lisān), amhara:ልሳን (ləsan), malaja:turka:lisan, hindia:लिसान (lisān) + franca:langue, hispana:lengua, portugala:língua, angla:lingual|
 |**lince**|linko|angla:franca:lynx, hispana:portugala:lince, hindia:लिंक्स (links)|
 |**linye**|lineo|angla:line, franca:ligne, hispana:línea, portugala:linha, rusa:линия (liniya), polona:linia|
-|**lisan**|lango|araba:(lisān), amhara:ልሳን (ləsan), malaja:turka:lisan, hindia:लिसान (lisān),|
 |**lisi**|glata|franca:lisse, hispana:portugala:liso, persa:(liz), malaja:licin|
 |**liste**|listo|angla:list, hispana:portugala:lista, rusa:лист (list), deu:franca:liste, persa:(list), hindia:लिस्ट (lisṭ), urdua:(lisṭ), japana:リスト (risuto)|
 |**litre**|litro|angla:franca:turka:litre, deu:malaja:liter, hispana:portugala:litro, rusa:литр (litr), polona:litr, araba: لتر‎(litr), hindia:लीटर (līṭar), bengala:লিটার (liṭar), japana:リットル (rittoru), korea:리터 (riteo), vjetnama:lít, svahila:lita|
@@ -533,6 +539,7 @@
 |**lul**|perlo|amharaba:ሉል (lul), ara:(luʾluʾa), svahila:lulu, oroma:lu'ulu'a, haŭsa:lu'ulu'u, fula:luuluuri, persa:(lo'lo')|
 |**lun**|luno|franca:lune, hispana:luna, angla:lunar, rusa:луна (luná)|
 |**luta**|rabi|hindia:लूटना (lūṭnā), urdua:(lūṭnā), bengala:লুটা (luṭā), panĝaba:ਲੁੱਟ (luṭ), angla:loot, + mandarena:掠夺 (lüèduó), kantona:掠 (loek6)|
+|**luve**|amo|angla:love, rusa:любовь (l’ubov’), hindia:लोभ (lobh), latina:libido|
 |**magia**|magio|angla:magic, hispana:portugala:magia, franca:magie, rusa:ма́гия (mágija), rus:マジック (majikku)|
 |**makas**|tondilo|araba:(maqaṣ), turka:makas, svahila:mkasi, oroma:maqasii, haŭsa:almakashi, joruba:àlùmogàjí|
 |**mal (mali)**|malbona|angla:mal-, hispana:franca:mal, portugala:mau, rusa:моль (mol’)|
@@ -552,16 +559,15 @@
 |**maske**|masko|angla:mask, franca:masque, hispana:portugala:máscara, rusa:маска (maska), hindia:मास्क (māsk), japana:マスク (masuku), korea:마스크 (maseukeu), malaja:masker, turka:maske|
 |**maste**|masto|angla:deu:mast, hindia:मस्तूल (mastūl), japana:マスト (masuto), rusa:мачта (mačta), polona:maszt, portugala:mastro, hispana:mástil|
 |**mate**|materio|angla:matter, franca:matière, hispana:portugala:materia, rusa:материя (materiya), deu:Materie, malaja:materi, + araba: مادة (mādda),  turka:madde + kantona:物 (mat), vjetnama:vật|
-|**matike**|matematiko|deu:Mathe(matik), angla:math(ematics), hispana:matemática, rusa:математика (matematika)|
 |**maturi**|matura (plenkreska)|angla:franca:mature, hispana:portugala:maduro|
 |**mav**|kato|mandarena:猫 (māo), kantona:貓 (maau), vjetnama:mèo, svahila:nyau|
-|**max**|pli|hispana:mas, portugala:mais + angla:franca:maximum, rusa:максимум (maksimum), malaja:maksimum, persa: ماکسیمم‎ (mâksimom)|
+|**max (maxo)**|pli|hispana:mas, portugala:mais + angla:franca:maximum, rusa:максимум (maksimum), malaja:maksimum, persa: ماکسیمم‎ (mâksimom)|
 |**maxin**|maŝino|franca: machine, angla: machine, deu: Maschine, malaja: mesin|
 |**me**|mi|angla:me, franca:portugala:hispana:me, hindi:मैं (mẽ), svahila:mimi|
 |**medi**|mezo|hispana:medio, angla:medium, hindia:माद्धयम (mādhyam)|
 |**medika**|sanigi (kuraci)|angla:medicine, hispana:medicina, portugala:medicamento, franca:médicament, rusa:медикамент (medikament)|
 |**mega***|miliono|angla:franca:hispana:portugala:malaja:turka:mega-, rusa:мега- (mega-), japana:メガ (mega), korea:메가- (mega-)|
-|**mehe**|ŝafo|hindia:मेष (meṣ), persa:(miš), taja:เมษ (met), + lingala:konga:meme, japana:メーメー (mē mē), portugala:meh, araba:(maa'), turka:mee|
+|**meh**|ŝafo|hindia:मेष (meṣ), persa:(miš), taja:เมษ (met), + lingala:konga:meme, japana:メーメー (mē mē), portugala:meh, araba:(maa'), turka:mee|
 |**mel**|mielo|portugala:mel, franca:hispana:miel, greka:μέλι (méli)|
 |**melodia**|melodio|angla:melody, hispana:melodía, portugala:melodia, rusa:мело́дия (melódija), turka:malaja:melodi, persa:ملودی‎ (melodi), japana:メロディー (merodī)|
 |**mem**|memoro|angla:memory, franca:mémoire, hispana:memoria, portugala:memória|
@@ -583,6 +589,7 @@
 |**minute**|minuto|angla:minute, hispana:portugala:minuto, rusa:мину́та (minúta), hindia:मिनट (minaṭ), bengala:মিনিট (miniṭ), malaja:minit|
 |**mirer**|spegulo|angla:mirror, franca:miroir, araba:mirʾāh, arz:mirāya|
 |**misal**|ekzemplo|hindia:मिसाल (misāl), araba:(mithāl), persa:(mesâl), malaja:misal, turka:mesela|
+|**miskini**|mizera|araba:مِسْكِين (miskīn), persa:مسکین‎ (meskin), turka:malaja:miskin, svahila:maskini, hindia:, bengala:মিসকিন (miśkin), franca:miskine, hispana:mezquino, portugala:mesquinho|
 |**Misria**|Egipto|araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr)|
 |**mitre**|metro|angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:mita|
 |**mixa**|miksi|deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)|
@@ -593,17 +600,17 @@
 |**morti**|morta|portugala:morto, franca:mort, hispana:muerto, persa:(morde), urdua:(murda), hindia:मृत (mrta), rusa:мёртвый (myortvïy), + malaja:mati, + araba:(mawt), amhara:ሞት (mot)|
 |**mosim**|sezono|araba: موسم (mawsim), hindia:मौसम (mausam), malaja:musim, turka:mevsim, svahila:msimu + angla:monsoon, franca:mousson, portugala:monção, rusa:муссон|
 |**moter**|motoro|angla:hispana:portugala:turka:malaja:motor, fra;moteur, rusa:мотор (motor), araba:(mutūr), mandarena:摩托 (mótuō), japana:モーター (mōtā), korea:모터 (moteo), vjetnama:mô-tơ, hindia:मोटर (moṭar), bengala:মোটর (moṭôr)|
-|**muhe**|bovo|(onom,) angla:moo, deu:muh, rusa:му (mu), taja:มอ (mo), hindia:(mū), japana:モーモー (mō mō), mandarena:哞 (mōu), turka:mö|
+|**muh**|bovo|(onom,) angla:moo, deu:muh, rusa:му (mu), taja:มอ (mo), hindia:(mū), japana:モーモー (mō mō), mandarena:哞 (mōu), turka:mö|
 |**muke**|vizaĝo|bengala:মুখ (mukh), hindia:मुख (mukh), tamila:முகம் (mukam), teluga:(mukhamu), malaja:muka, filipina:mukha|
 |**mul**|radiko|hindia:marataja:मूल (mūl), bengala:মূল (mūl), teluga:మూలము (mūlamu), malaja:filipina:mula, kmera:មូល (mul), birma:မူလ (mula), tha:มูล (mun)|
 |**mun**|pordo|korea:문 (mun), kantona:門 (mun), japana:門 (mon), mandarena:门 (mén)|
 |**mur**|vando|franca:mur, hispana:portugala:muro + deu:Mauer, polona:mur|
 |**murce**|formiko|persa:مورچه (murče), rusa:мурашка (murashka), greka:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
-|**musike**|muziko|angla:music, hispana:música, rusa:музика (muzika), araba:(mūsīqā)|
 |**muskete**|muskedo|angla:musket, hispana:portugala:mosquete, franca:mousquet, rusa:мушке́т (muškét), japana:マスケット (masuketto)|
 |**muskul**|muskolo|angla:franca:muscle, hispana:portugala:músculo, deu:Muskel, rusa:му́скул (múskul), svahila:msuli|
 |**muta**|aliigi|hispana:mudar, angla:mutate, franca:muter|
 |**mux**|muso|polona:mysz, rusa:мышь (myś), persa:(muš)|
+|**muzike**|muziko|angla:music, franca:musique, hispana:portugala:música, rusa:музика (muzika), araba:(mūsīqā), turka:müzik, malaja:musik|
 |**nade**|rivero|hindia:marataja:नदी (nadī) (nadī), urdua:(nadī), bengala:নদী (nôdī), panĝaba:ਨਦੀ (nadī), guĝarata:નદી (nadī), kanara:ನದಿ (nadi), teluga:నది (nadi), tamila:நதி (nati)|
 |**nafas**|spiro|araba:persa:(nafas), malaja:napas, turka:nefes, haŭsa:numfashi|
 |**nagre**|urbo|hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), kanara:ನಗರ (nagara), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon)|
@@ -694,12 +701,11 @@
 |**pote**|koto|igba:potọ potọ, lingala:pɔtɔpɔ́tɔ, konga:franca:poto-poto|
 |**prezidente**|prezidento|angla:president, hispana:portugala:presidente, rusa:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), persa:پرزیدنت‎ (perezident), malaja:presiden|
 |**problem**|problemo|angla:problem, franca:problème, hispana:portugala:problema, rusa:проблема (problema), bengala:প্রব্লেম (prôblem)|
-|**profesor**|profesoro|angla:portugala:professor, hispana:profesor, rusa:профессор (professor), turka:profesör, svahila:profesa, persa:پروفسور‎ (profesor), hindia:प्रोफ़ेसर (profesar)|
+|**profeser**|profesoro|angla:portugala:professor, hispana:profesor, rusa:профессор (professor), turka:profesör, svahila:profesa, persa:پروفسور‎ (profesor), hindia:प्रोफ़ेसर (profesar)|
 |**program**|programo|angla:malaja:turka:program, franca:programme, portugala:hispana:programa, rusa:программа (programma), japana:プログラム (puroguramu), korea:프로그램 (peurogeuraem), hindia:प्रोग्राम (progrām), svahila:programu|
 |**pul**|ponto|hindia:पुल (pul), bengala:পুল (pul), urdua:(pul), persa:(pol)|
 |**pulmon**|pulmo|hispana:pulmón, franca:poumon, portugala:pulmão, angla:pulmonic|
 |**punte**|punkto|hispana:punto, rusa:пункт (punkt), angla:point|
-|**purani**|malnova|hindia:पुराना (purānā), urdua:(purānā), bengala:পুৰণা (puron), panĝaba:ਪੁਰਾਣਾ (purāṇā)|
 |**puri**|plena|hindia:पूर्ण (pūrn), bengala:পূর্ণ (pūrṇa), panĝaba:ਪੂਰਾ (pūrā), persa:(por)|
 |**putav**|vinbero|mandarena:葡萄 (pútáo), kantona:葡萄 (pou4 tou4), vua:葡萄 (bu dau3), japana:葡萄 (budō), korea:포도 (podo), vjetnama:bồ đào|
 |**pute**|ido (infano)|taja:บุตร (but), hindia:पूत (pūt), पुत्र (putra), bengala:পুত্র (putr), panĝaba:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), malaja:putera, teluga:పుత్రుడు (putruḍu)|
@@ -722,7 +728,7 @@
 |**robote**|roboto|angla:franca:hispana:turka:malaja:robot, portugala:robô, rusa:робот (robot), araba:رُوبُوت‎ (rōbōt), persa:روبات‎ (rōbât), hindia:रोबोट (rōbōṭ), tamila:ரோபோ (rōpō), japana:ロボット (robotto), korea:로봇 (robot)|
 |**ros**|roso|franca:rosée, hispana:rocío, rusa:роса (rosa)|
 |**roze**|rozo|franca:angla:rose, hispana:portugala:rosa, rusa:роза (roza), persa:(roz, gol-e sorx), filipina:rosas|
-|**ruhe**|animo (psiko)|araba:(rūħ), malaja:ruh, turka:ruh, hindia:रूह (rūh), svahila:roho, haŭsa:ruhu, som:ruux, + rusa:дух (duh)|
+|**ruh**|animo (psiko)|araba:(rūħ), malaja:ruh, turka:ruh, hindia:रूह (rūh), svahila:roho, haŭsa:ruhu, som:ruux, + rusa:дух (duh)|
 |**ruhlojia**|psikologio|turka:ruh bilimi, hindia:मनोविज्ञान (manovigyān), bengala:মনোবিজ্ঞান (mônobiggan), malaja:ilmu jiwa, araba:(ʿilm an-nafs), deu:Seelenkunde, angla:psychology, hispana:psicológia|
 |**ruke**|dorso|deu:Rücken|
 |**rupe**|aspekto|hindia:रूप (rūp), malaja: rupa, taja: รูป (rūp), kmera:រូប (rūp)|
@@ -736,9 +742,9 @@
 |**sage**|rakonto|angla:hispana:portugala:malaja:saga, deu:Sage, rusa:сага (saga)|
 |**sahi**|ĝusta (prava)|hindia:सही (sahī), urdua:(sahī), persa:(sahih), araba:(ṣaḥīḥ), svahila:sahihi|
 |**saide**|ĉasado|araba:(ṣayd), turka:seyd, urdua:صید‎ (said), persa:صید‎ (seyd), heb:ציד‎ (tsayid)|
+|**sal**|salo|angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)|
 |**salame**|saluto|araba:(salām), svahila:salamu, malaja:selamat, hindia:सलाम (salām), bengala: সালাম (salam), mandarena:萨拉姆 (sàlāmǔ), japana:サラーム (sarāmu), korea:살람 (sallam), vjetnama:xa lam, rusa:салям (salyam)|
-|**salte**|salo|angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)|
-|**saman**|ĉielo|araba:(samāʾ), amhara:ሰማይ (sämay), oroma:samii, haŭsa:sama, joruba:sánmà, hindia:आसमान (āsmān), persa:panĝaba:urdua:(āsmān)|
+|**samay**|ĉielo|araba:(samāʾ), amhara:ሰማይ (sämay), oroma:samii, haŭsa:sama, joruba:sánmà, hindia:आसमान (āsmān), persa:panĝaba:urdua:(āsmān)|
 |**sami**|sama|angla:same, franca:semblable, rusa:самый (samyy), malaja:sama, hindia:सम (sam)|
 |**san**|tri (3)|mandarena:三 (sān), kantona:三 (sam1), japana:三 (san), korea:삼 (sam), vjetnama:tam, taja:สาม (saam)|
 |**sanduke**|skatolo (kesto)|svahila:sanduku, turka:sandık, rusa:сундук (sunduk), araba:صُنْدُوق‎ (ṣundūq), persa:urdua:صندوق‎ (sanduq)|
@@ -782,11 +788,11 @@
 |**sum**|sumo|angla:sum, hispana:suma, portugala:soma, franca:somme, deu:Summe, rusa:сумма (summa)|
 |**sundari**|bela|hindia:सुन्दर (sundar), bengala:সুন্দর (sundôr), guĝarata:સુંદર (sundar),|
 |**supe**|supo|hispana:sopa, angla: soup, franca: soupe, deu: Suppe, svahila: supu, rusa:суп (sup), malaja:sup, japana:スープ (sūpu)|
+|**superi**|bonega|angla:franca:super, hispana:portugala:súper, japana:スーパー (sūpā)|
 |**supra**|superiri|angla:super, hispana:portugala:sobre, itala:sopra|
 |**suprize**|surprizo|angla:surprise, turka:sürpriz, persa:(surpris), rusa::сюрприз (siurpriz), portugala:surpresa, hispana:sorpresa|
-|**suxi***|suŝio|japana:寿司 (sushi), angla:hispana:sushi, rusa:су́ши (sushi), turka:suşi|
+|**suxi**|suŝio|japana:寿司 (sushi), angla:hispana:sushi, rusa:су́ши (sushi), turka:suşi|
 |**suy**|akvo|mandarena:水 (shuǐ), japana:(sui), vjetnama:thuỷ, + turka:su|
-|**ta**|al (ĝis, por)|angla:to, persa: تا‎ (tâ), hindia:-तक (-tak)|
 |**tabake**|tabako|deu:Tabak, rusa:табак (tabak), franca:tabac, hispana:portugala:tabaco, japana:タバコ (tabako), angla:tobacco, hindia:तंबाकू (tambākū), malaja:tembakau|
 |**tafun**|ŝtormo|mandarena:大风 (dàfēng), kantona:大風 (daai6fung1), korea:태풍 (taepung), japana:台風 (taifuu), taja:ไต้ฝุ่น (taifun), araba:(ṭūfān), persa:urdua:(tufān), hindia:तूफ़ान (tūfān), panĝaba:ਤੂਫ਼ਾਨ (tūfān), portugala:tufão, hispana:tifón, franca:typhon, angla:typhoon, rusa:тайфун (tayfun)|
 |**taige**|tajgo|rusa:тайга (tayga), angla:hispana:portugala:malaja:taiga, turka:tayga, araba:تايغا‎ (tāyḡā), mandarena:泰加林 (tàijiālín), japana:タイガ (taiga)|
@@ -795,7 +801,7 @@
 |**tarje**|traduko|araba:(tarjama), hindia:तर्जुमा (tarjuma), urdua:(tarjuma), bengala:তর্জমা (tôrjôma), malaja:terjemah, turka:tercüme|
 |**tas**|plado|rusa:таз, araba:طشت‎ (ṭašt), hindia:तश्तरी (tashtarī)|
 |**tatu***|tatuo|sam:tah:tatau, haw:kākau, malaja:tato, angla:tattoo, franca:tatouage, hispana:tatuaje, rusa:тату (tatu)|
-|**tave**|pato|hindia:तवा (tavā), turka:tava, persa:(tābe)|
+|**tav**|pato|hindia:तवा (tavā), turka:tava, persa:(tābe)|
 |**tazi**|freŝa|turka:taze, hindia:ताज़ा (tāzā), bengala:তাজা (taja), persa:(tâze)|
 |**te**|vi (ci)|franca:portugala:hispana:tu, hindia:तू (tū), rusa:ты (ty)|
 |**tehne**|tekniko|greka:τεχνική (tehniki), rusa:техника (tehnika), franca:angla:technique, hispana:portugala:técnica, hindia:तकनीक (taknīk), malaja:teknik|
@@ -831,6 +837,7 @@
 |**vade**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|
 |**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
 |**vagin**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
+|**val**|valoro|angla:value, hispana:portugala:valor, franca:valeur|
 |**van**|amuzo|mandarena:玩 (wán), kantona:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|
 |**vav**|ŭaŭ!|mandarena:哇 (wā), angla:wow|
 |**vaxa**|lavi|angla:wash, deu:waschen, mandarena:洗 (xǐ)|
@@ -841,9 +848,9 @@
 |**vespe**|abelo aŭ vespo|hispana:avispa, portugala:itala:vespa, angla:wasp, deu:Wespe|
 |**vey**|vosto|mandarena:尾 (wěi), kantona:尾 (mei5), vua:尾 (vi3), nan:尾 (bé), japana:尾 (bi)|
 |**vida**|vidi (rigardi)|rusa:видеть (videt’), itala:vedere, hispana:portugala:ver, polona:widzieć, angla:vide|
-|**vidove**|vidvo|angla:widow, hispana:viudo, portugala:viúvo, franca:veuve, deu:Witwe, rusa:вдова (vdova), hindia:विधवा (vidhavā), bengala:বিধবা (bidhabā), teluga:విధవ (vidhava)|
+|**vidov**|vidvo|angla:widow, hispana:viudo, portugala:viúvo, franca:veuve, deu:Witwe, rusa:вдова (vdova), hindia:विधवा (vidhavā), bengala:বিধবা (bidhabā), teluga:విధవ (vidhava)|
 |**vil**|estonoteco|angla:will + vua:未来 (víle), mandarena:未来 (wèilái), korea:미래 (miræ), japana:未来 (mirai)|
-|**vin**|vino|franca:vin, hispana:vino, rusa:вино (vino), angla:wine, deu:Wein, hindia:वाइन (vāin), japana:ワイン (wain)|
+|**vin**|vino|franca:vin, hispana:vino, rusa:вино (vino), angla:wine, deu:Wein, hindia:वाइन (vāin), japana:ワイン (wain), svahila:mvinyo|
 |**vir**|heroo|hindia:वीर (vīr), urdua:(vīr), bengala:বীর (bīr), tamila:வீரன் (vīraṉ), teluga:వీరుడు (vīruḍu), malaja:wira, taja:วีร (wi-ra), + franca:portugala:hispana:viril, angla:virile|
 |**visi**|vic-|angla:franca:hispana:portugala:vice-, rusa:вице- (vitse-), deu:vize-|
 |**volfe**|lupo|deu:ned:angla:wolf, rusa:волк (volk)|
