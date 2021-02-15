@@ -26,7 +26,7 @@ alaranjado - oranji
 alcachofra - karcof  
 alcachofra-girassol (tupinambo) - masmulsolful  
 alcalino - alkali  
-alcaravia (cariz) - karave  
+alcaravia (cariz) - karav  
 alface - letis  
 alfinete - pin  
 alga - alge  
@@ -39,7 +39,7 @@ altar - pujomeze
 alterar - ala  
 alô - halo\*  
 amante - luver  
-amargo - amari  
+amargo - alkalgusti  
 ameixa - plum  
 amor - luve  
 amêndoa - badam  
@@ -48,7 +48,7 @@ andesito - andesite
 anel - ring  
 animal (besta, bicho) - hevan  
 antimônio - estibem  
-anzol - pexohuke  
+anzol - pexhuke  
 análise - analize  
 aperfeiçoar - purbona  
 apodrecer-se - pudu  
@@ -73,7 +73,7 @@ aspirina - aspirin
 assinar - namkitaba  
 assustador - fobani  
 assustar - foba  
-astrobiologia - astrobivlojia  
+astrobiologia - kosmobivlojia  
 ataque - agres  
 Atenas - Atina  
 ativo - ativi  
@@ -133,7 +133,7 @@ bravo (valente, corajoso) - bravi
 bravo! - bravo  
 braço - handoxake  
 Buda - Bude  
-buraco - kave  
+buraco - kav  
 buscar (procurar) - sova  
 bétula - berje  
 ####C - C  
@@ -149,13 +149,13 @@ calendário - kalende
 calças - pante  
 camarão - krevete  
 camisa - kamis  
-camomila-romana - rom.kamil:  
+camomila-romana - romakamil  
 camomila-vulgar - kamil  
 cana-de-açúcar - xukarcav  
 canguru - kangaru\*  
 canhão (ravina, barranco) - kanion  
 canhǎo - daypav  
-canoa - kano  
+canoa - kano\*  
 Cantalupo in Sabina - Kantalupo va Sabina  
 capa - mantol  
 capa de chuva - barxokote  
@@ -163,10 +163,10 @@ cardo - kardon
 cardo-mariano - milkokardon  
 cardo-roxo - perkardon  
 careta (esgar) - grimas  
-Caribe - karaibia  
+Caribe - Karaibia  
 carne - manse  
 carrapato (ácaros) - akar  
-carreira - peykari jive  
+carreira - peykari jiv  
 carta - karde  
 carta geográfica - gevgraf  
 cartografia - gevgrafia  
@@ -174,7 +174,7 @@ Cartum - Hartum
 carvalho - balute  
 carvalho-roble - europobalute  
 casca (concha) - kaske  
-cascalho - grave  
+cascalho - grav  
 castanho (marrom) - bruni  
 cavar (escavar) - kava  
 caçar - saida  
@@ -254,7 +254,7 @@ cristal - kristal
 croassã - kruasante  
 crocodiliano - krokodil  
 crocodilo - longokrokodil  
-cromo -   
+cromo - jamkarde  
 cronómetro - durmetrer  
 cruz - krus  
 crème - krem  
@@ -263,7 +263,7 @@ cubo - kube
 cume (pico, topo) - pike  
 cápsico - cili\*  
 cão (cachorro) - vaf  
-céu - saman  
+céu - samay  
 cópia - kope  
 cósmico - kosmi  
 ####D - D  
@@ -284,6 +284,7 @@ deslizar - glisu
 despertar - jagu  
 destino - cenamen  
 deus - dev  
+dever - debu  
 dia - den  
 diamante - almas  
 digital - feni  
@@ -325,7 +326,7 @@ endereço - adres
 enganar - truka  
 ensinar (lecionar) - xulana  
 ensino primário - bazoxulkan  
-ensino secundário - jungxulkan  
+ensino secundário - jungoxulkan  
 ensopar (encharcar, marinar) - purxipa  
 enterrar - gabra  
 enxada - cope  
@@ -391,7 +392,7 @@ flor - ful
 floresta de algas - algojangle  
 fogo - hoge  
 fogos de artifício - hogotehne  
-fome - yamnide  
+fome - yamyav  
 força aérea - airgun  
 foto (fotografia) - fotograf  
 fotografia - fotografia  
@@ -417,7 +418,7 @@ gelar - aisu
 generalíssimo - gunrajer  
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
-genótipo - jenotipe  
+genótipo - jentipe  
 geometria - gevmetria  
 geopolítica - gevpolitike  
 Germânia - Germania  
@@ -457,7 +458,7 @@ humano - insaniki
 humor - emoshal  
 hélicoptero - helisviman  
 hóquei - hoke  
-hóquei no gelo - aisohoke  
+hóquei no gelo - aishoke  
 ####I - I  
 idade - umur  
 idoso - lavi  
@@ -484,7 +485,7 @@ janela - janel
 Japão - Nipon  
 jengibre - zinje  
 joelho - gute  
-jogo de tabuleiro - banogem  
+jogo de tabuleiro - bangem  
 joule (J) - jul  
 jugo - yoke  
 juiz - juder  
@@ -529,8 +530,8 @@ lua - lun
 lugar (local) - loke  
 lula (calamar) - kalamar  
 luta - jihade  
-luteranismo - martinlutheristia  
-luterano - martinlutheristi  
+luteranismo - martinluteristia  
+luterano - martinluteristi  
 luz - fote  
 lápide - gabroxeke  
 lápis - kalam  
@@ -539,14 +540,14 @@ lâmpada (luminária) - lampe
 léxico - logi  
 líder (chefe) - lider  
 língua (idioma) - bax  
-língua - lisan  
+língua - lin  
 língua materna - jeni bax  
 lírio - susan  
 lírio-do-vale - vadosusan  
 ####M - M  
 macroalga - hayalge  
 magnésio - magesem  
-mais - max  
+mais - max (maxo)  
 maldição - lan  
 mamão (papaia) - papay  
 manga - kamisi xake  
@@ -566,6 +567,7 @@ marítimo - hayi
 massa - mas  
 mastro - maste  
 matadouro - bucokan  
+matemática - hisabolojia  
 matéria - mate  
 maçã - apel  
 medusa - hayjel  
@@ -574,7 +576,7 @@ mel - mel
 melancia - arbuze  
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
-melão coreano - aromomelon  
+melão coreano - arommelon  
 memória - mem  
 meninge - mening  
 mensagem - anjil  
@@ -605,7 +607,7 @@ motor - moter
 mover - kina  
 Mover-se - kinu  
 moyen - medi  
-mudança climática - klimomute  
+mudança climática - klimmute  
 mudar-se - migru  
 multilíngue (plurilíngue) - polbaxi  
 mundo - dunia  
@@ -618,6 +620,7 @@ mãe - mam
 mão - hande  
 mês - mes  
 mó - molxeke  
+música - muzike  
 ####N - N  
 nadar (flutuar) - boyu  
 nautiloide - nautil  
@@ -731,7 +734,7 @@ pilha (bateria) - batre
 pimenta - pipre  
 pinheiro - song  
 pintura - pente  
-piquenique - eksoyam  
+piquenique - eksyam  
 pirataria - piratia  
 plano - plan  
 planta (vegetal) - fite  
@@ -760,7 +763,7 @@ profundo - fasteli
 programa - program  
 projeto - projete  
 projeção - lancograf  
-projétil - lancovute  
+projétil - lancite  
 prolongado - longoduri  
 promessa (voto) - vode  
 prova - dalil  
@@ -831,7 +834,7 @@ rã - krokroke
 saber (conhecer) - sava  
 sacada (varanda) - berande  
 saco - sake  
-sal - salte  
+sal - sal  
 sala (câmara) - kamar  
 salino - sali  
 salmão-cão (salmão-keta) - bakosalmon  
@@ -846,12 +849,12 @@ Satanás - xatan
 Saturno - Saturne  
 saudação - salame  
 saudável (saudio) - sihi  
-saúde - sihe  
+saúde - sih  
 se - aga  
 se - se  
-seabórgio - seaborgem  
+seabórgio - siborgem  
 seda - silke  
-sede - suynide  
+sede - suyyav  
 segunda-feira - unyom  
 seguro - sekuri  
 seis (6) - sisi  
@@ -889,7 +892,7 @@ só (solitário) - unjani
 ####T - T  
 tablet - tablokomputer  
 tangerina (mandarim) - laloranje  
-taxímetro - taksometer  
+taxímetro - taksometrer  
 tear - texmaxin  
 tectónica de placas - plati gevkaskia  
 telefonar - telfona  
@@ -899,9 +902,10 @@ tempero - masal
 templo - pujokan  
 tempo (duração) - dur  
 tender - iva  
-tendência - ive  
+tendência - iv  
 tentar (provar) - testa  
 tentáculo - senter  
+teosofia - devsofia  
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
@@ -959,6 +963,7 @@ vara (bastão) - baton
 vazar - lova  
 vegetalista - purfityamiste  
 vegetariano - fityamiste  
+velho (antigo) - ceniki  
 vender - venda  
 ver - vida  
 verbo - karloge  
@@ -973,11 +978,11 @@ verruga - zeyil
 verão - garmomosim  
 vestir - fuka  
 vez - mar  
-vida - jive  
+vida - jiv  
 vidro - kance  
 vir - laya  
 vivo - jivi  
-viúvo - vidove  
+viúvo - vidov  
 voar - feyu  
 vocabulário - logia  
 vogal - jungofon  

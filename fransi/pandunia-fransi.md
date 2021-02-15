@@ -5,6 +5,7 @@
 -o - suffixe pour l'adverbe  
 -u - suffixe pour les verbes avec ordre des mots OVS  
 ####A - A  
+a - mais (bien que)  
 abite - Sapin  
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
@@ -34,7 +35,7 @@ airgun - armée de l'ai
 airporte - aéroport  
 aisu - geler (glacer)  
 aiskrem - crème glacée  
-aisohoke - hockey sur glace  
+aishoke - hockey sur glace  
 ajili - agile  
 akar - acarien  
 akse - axe  
@@ -50,15 +51,14 @@ algofung - lichen
 algojangle - forêt de kelp  
 alkal - base (alcali)  
 alkali - basique  
+alkalgusti - amer  
+alkaloranje - orange amère  
 alkol - alcool  
 alkoli - alcoolique  
 almar - placard  
 almas - diamant  
 aluminem - aluminium  
-amo - mais (bien que)  
 Amari - Amhara (groupe ethnique et langue éthiopienne)  
-amari - amer  
-amaroranje - orange amère  
 ameno - sûrement  
 Amerike - Amérique  
 ameriki - américain  
@@ -107,7 +107,7 @@ asli - originel
 aslameriki - amérindien (indien)  
 asme - asthme  
 aspirin - aspirine  
-astrobivlojia - astrobiologie  
+kosmobivlojia - astrobiologie  
 ate - acte  
 ater - agent (faiseur)  
 ation - action  
@@ -137,7 +137,7 @@ balonpex - poisson-globe
 balute - chêne  
 balutopal - gland  
 ban - tableau (panneau)  
-banogem - jeu de société  
+bangem - jeu de société  
 banan - banane  
 bande - bande  
 bandir - drapeau  
@@ -189,6 +189,7 @@ bivcaniver - compost
 bivlojia - biologie  
 bivmutu - fermenter  
 bivsistem - biome  
+debu - devoir  
 bode - corps  
 bokse - boxe  
 bokser - boxeur  
@@ -262,6 +263,7 @@ defban - bouclire
 defkaske - armure  
 den - jour  
 dev - dieu  
+devsofia - théosophie  
 dika - viser  
 dike - objectif (cible)  
 din - religion  
@@ -301,7 +303,7 @@ ekojeni - sauvage
 ekor - écureuil  
 ekse - fuera (exterior)  
 eksotira - tender  
-eksoyam - piquenique  
+eksyam - piquenique  
 eletre - électricité  
 em - élément (unité fondamentale)  
 emoje - émoticône (emoji)  
@@ -323,7 +325,7 @@ europobalute - chêne pédonculé
 evanjil - évangile  
 ####F - F  
 faner - opposant (antagoniste)  
-fansoldixo - dans le sens antihoraire  
+rotolefto - dans le sens antihoraire  
 fas - face (facette)  
 fasteli - profond  
 fasili - facile  
@@ -392,7 +394,7 @@ gevgrafia - cartographie (geographie)
 gevkaski plate - plaque tectonique  
 gevlojia - géologie  
 gevmetria - géométrie  
-zemnici prizon - oubliette (cul de basse-fosse)  
+gevnici prizon - oubliette (cul de basse-fosse)  
 gevpolitike - géopolitique  
 gevtermi - géothermique  
 gida - guider  
@@ -410,7 +412,7 @@ goton - coton
 governe - gouvernement  
 grafsage - bande dessinée  
 granite - granit  
-grave - gravire  
+grav - gravire  
 grimas - grimace  
 grupe - groupe  
 gul - goule  
@@ -444,7 +446,7 @@ helisbabul - acacia faux-gommier
 helisviman - hélicoptère  
 hem - hum  
 hema - considérer  
-hemahe - tente  
+hemah - tente  
 hen - haine  
 Hesia - Hesse  
 hevan - animal (bête)  
@@ -480,11 +482,11 @@ insanistia - humanisme
 ironia - ironie  
 itis - inflammation  
 iva - avoir tendance à  
-ive - tendance  
+iv - tendance  
 ####J - J  
 ja - de  
 jagi - éveillé  
- - carte à collectionner  
+jamkarde - carte à collectionner  
 jamul - prune de Java  
 jan - personne (gente)  
 janel - fenêtre  
@@ -498,19 +500,19 @@ jekogeta - empruntre
 jena - donner naissance (procréer, engendrer, accoucher)  
 jeni bax - langue maternelle  
 jenita - élever  
-jenotipe - génotype  
+jentipe - génotype  
 jihade - lutte  
 jino - en avant  
 jinse - sexe  
 jiraf - giraffe  
-jive - vie  
+jiv - vie  
 jivi - vivant  
 jovani moke - pousse  
 juder - juje  
 jul - joule (J)  
 jung - centre  
 jungofon - voyelle  
-jungxulkan - école secondaire  
+jungoxulkan - école secondaire  
 Junguo - Chine  
 Jupiter - Jupiter  
 jus - jus  
@@ -544,7 +546,7 @@ kance - verre
 kangaru\* - kangourou  
 kanion - canyon (ravin)  
 kankuate - kumquat  
-kano - canoë  
+kano\* - canoë  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kapotruke - piège  
 kar - travail  
@@ -552,7 +554,7 @@ karer - travailleur (ouvrier)
 karloge - verbe  
 karmisa - soumettre  
 kara - travailler  
-karaibia - Caraïbes  
+Karaibia - Caraïbes  
 karbodulokside - dioxyde de carbone  
 karcof - artichaut  
 karde - carte  
@@ -568,7 +570,7 @@ katoglutoban - presse-papier
 katan - épée  
 katus - cactus  
 kava - creuser  
-kave - fosse  
+kav - fosse  
 kerne - coeur  
 kim - substance  
 kimem - élément chimique  
@@ -586,7 +588,7 @@ kitabomaxin - machine à écrire
 kivi\* - kiwi  
 klari - clair  
 klien - client  
-klimomute - changement climatique  
+klimmute - changement climatique  
 komputer - ordinateur  
 konkara - collaborer  
 konseler - consultant (conseiller)  
@@ -635,7 +637,7 @@ lampe - lampe
 lan - malédiccion  
 lancograf - projection  
 lancografa - projeter (donner)  
-lancovute - projectile  
+lancite - projectile  
 lasun - ail  
 late - côté  
 lati - latéral  
@@ -667,7 +669,7 @@ limon - citron
 lince - lynx  
 linke - lien  
 linye - ligne  
-lisan - langue  
+lin - langue  
 liste - liste  
 litre - litre  
 loga - parler  
@@ -714,8 +716,8 @@ mar - fois
 marce - marche  
 margay - margay (chat-tigre)  
 Marse - Mars  
-martinlutheristi - luthérien  
-martinlutheristia - luthéranisme  
+martinluteristi - luthérien  
+martinluteristia - luthéranisme  
 mas - masse  
 masal - épices  
 maske - masque  
@@ -723,9 +725,10 @@ masmul - tubercule
 masmulsolful - topinambour  
 maste - mât  
 mate - matière  
+hisabolojia - mathématiques  
 matur - adulte  
 mav - chat  
-max - plus  
+max (maxo) - plus  
 maxime - maximum  
 mece - match  
 medi - medio  
@@ -770,6 +773,7 @@ mul - racine
 mur - mur  
 murkaguje - papier peint  
 murce - fourmi  
+muzike - musique  
 muskulbin - culturisme (musculation)  
 ####N - N  
 nade - rivière (fleuve)  
@@ -793,12 +797,12 @@ nix - niche
 nizde - nid  
 no - non (ne...pas)  
 noce - noit  
-numbe - nombre (numéro)  
 norde - nord  
 nostalgia - nostalgie  
 note - note  
 novi - nouveau  
 novike - néophyte  
+numbe - nombre (numéro)  
 ####O - O  
 o - ou  
 ode - rang  
@@ -840,7 +844,7 @@ papagay - perroquet
 papay - papaye  
 par - niveau  
 pari - pair (pareil, egal)  
-pari nombre - nombre pair  
+pari numbe - nombre pair  
 param - paramètre  
 parce - fragment  
 Paris - Paris  
@@ -866,10 +870,10 @@ pesdiske - monnaie (pièce)
 petre - roche (pierre)  
 petronefte - pétrole (essence)  
 pex - poisson  
-pexohuke - hameçon  
+pexhuke - hameçon  
 pexosaider - pêcheur  
 peykar - profession (métier)  
-peykari jive - carrière  
+peykari jiv - carrière  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pin - épingle  
@@ -908,6 +912,7 @@ puri - plein
 purbona - perfectionner (parfaire)  
 purfina - accomplir (terminer)  
 purxipa - tremper (faire mariner)  
+ceniki - vieux (ancien)  
 pute - fils ou fille  
 putavoranje - pamplemousse  
 ####Q - Q  
@@ -943,13 +948,13 @@ ritim - rhythme
 robote - robot  
 roketolancer - Lance-roquettes  
 Roma - Rome  
-rom.kamil: - Camomille Romaine  
+romakamil - Camomille Romaine  
 ros - rosée  
 rosta - rôtir  
 rototope - toupie  
 roze - rose  
 rozosalmon - saumon rose  
-ruhe - psyché  
+ruh - psyché  
 ruhlojia - psychologie  
 ruhmixi - perplexe (désorienté)  
 ####S - S  
@@ -960,10 +965,10 @@ safariste - touriste
 sahi - correct (juste)  
 saida - chasser  
 sake - sac  
-salte - sel  
+sal - sel  
 salame - salut (salam)  
 salmon - truite  
-saman - ciel  
+samay - ciel  
 samemos - compassion  
 sami - égal (même)  
 sammetri - symétrique  
@@ -991,7 +996,7 @@ setyom - dimanche
 seti - sept (7)  
 siahi - noir  
 sifloge - adjectif  
-sihe - santé  
+sih - santé  
 sihi - sain  
 sikle - bicyclette  
 sikliste - cycliste  
@@ -1011,7 +1016,7 @@ sofa\* - canapé (sofa)
 sol - soleil  
 solcate - ombrelle (parasol)  
 solful - Tournesol  
-solsentaur - Centaurée du solstice  
+solcentaur - Centaurée du solstice  
 sonkamar - chambre à coucher  
 sonpapil - pavot somnifère  
 sonu - dormir  
@@ -1027,12 +1032,12 @@ susan - lys
 suy - eau  
 suygas - vapeur d’eau  
 suyminte - Menthe aquatique  
-suynide - soif  
+suyyav - soif  
 ####T - T  
 te - tu  
 tablokomputer - ordinateur tablette  
 tail - carreau (tuile)  
-taksometer - taximètre  
+taksometrer - taximètre  
 tal - bas  
 tala - baisser  
 tali - bas  
@@ -1110,7 +1115,7 @@ vermute - vermouth
 vespe - abeille ou guêpe  
 vesponizde - ruche (nid d'abeille)  
 vida - voir  
-vidove - veuve  
+vidov - veuve  
 violeti - violet (pourpre)  
 virus - virus  
 voda - promettre  
@@ -1120,7 +1125,7 @@ volfe - loup
 vulve - vulve  
 vute - objet (article)  
 ####W - W  
-Wolof - wolof  
+Volof - wolof  
 ####X - X  
 xalke - échelle  
 Xampan - Champagne  
@@ -1164,7 +1169,7 @@ xur - début (commencement)
 ya - avec  
 ye - oui  
 yamfite - légume  
-yamnide - faim  
+yamyav - faim  
 yasen - frêne  
 yatimdom - orphelinat  
 yav - besoin  

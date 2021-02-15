@@ -17,7 +17,7 @@ airgun - força aérea
 airporte - aeroporto  
 aisu - gelar  
 aiskrem - sorvete (gelado)  
-aisohoke - hóquei no gelo  
+aishoke - hóquei no gelo  
 ajabe - maravilha  
 ajili - ágil  
 akar - carrapato (ácaros)  
@@ -30,10 +30,10 @@ alge - alga
 algojangle - floresta de algas  
 alkal - base (álcali)  
 alkali - alcalino  
+alkalgusti - amargo  
 alkol - álcool  
 almar - armário  
 almas - diamante  
-amari - amargo  
 andiniste - infiel  
 anmema - esquecer  
 analize - análise  
@@ -51,7 +51,7 @@ arke - arco
 arme - arma  
 arom - cheiro  
 aromu - cheirar  
-aromomelon - melão coreano  
+arommelon - melão coreano  
 arte - arte  
 artiste - artista  
 asar - efeito  
@@ -61,7 +61,7 @@ asli - original
 aslameriki - indígena (índio)  
 asme - asma  
 aspirin - aspirina  
-astrobivlojia - astrobiologia  
+kosmobivlojia - astrobiologia  
 ate - ato  
 ater - agente  
 ation - ação  
@@ -86,7 +86,7 @@ balsenter - polvo
 balibali - vários  
 balute - carvalho  
 ban - painel  
-banogem - jogo de tabuleiro  
+bangem - jogo de tabuleiro  
 banan - banana  
 bande - bando  
 banke - banco  
@@ -130,6 +130,7 @@ biv - organismo
 bivlojia - biología  
 bivmutu - fermentar  
 bivsistem - bioma  
+debu - dever  
 bode - corpo  
 bokse - boxe  
 bokser - boxeador (pugilista)  
@@ -199,6 +200,7 @@ defban - escudo
 defkaske - armadura  
 den - dia  
 dev - deus  
+devsofia - teosofia  
 dika - mirar (apontar)  
 dike - objetivo  
 din - religião  
@@ -229,7 +231,7 @@ e - e
 ekor - esquilo  
 ekse - вне  
 eksotira - estirar  
-eksoyam - piquenique  
+eksyam - piquenique  
 eletre - eletricidade  
 em - elemento  
 emoje - emoticon (emoji)  
@@ -318,7 +320,7 @@ goton - algodão
 governe - governo  
 grafsage - quadrinhos (banda desenhada)  
 granite - granito  
-grave - cascalho  
+grav - cascalho  
 grimas - careta (esgar)  
 grupe - grupo  
 gun - exército  
@@ -384,12 +386,12 @@ insanistia - humanismo
 ironia - ironia  
 itis - inflamaçao  
 iva - tender  
-ive - tendência  
+iv - tendência  
 ####J - J  
 ja - de  
 jagi - acordado  
 jagu - despertar  
- - cromo  
+jamkarde - cromo  
 jamul - jambolão (jambo)  
 jan - pessoa (gente)  
 janel - janela  
@@ -399,17 +401,17 @@ jeka - emprestar (pedir emprestado)
 jekodona - emprestar  
 jekogeta - pedir emprestado  
 jeni bax - língua materna  
-jenotipe - genótipo  
+jentipe - genótipo  
 jihade - luta  
 jinse - sexo  
 jiraf - girafa  
-jive - vida  
+jiv - vida  
 jivi - vivo  
 juder - juiz  
 jul - joule (J)  
 jung - centro  
 jungofon - vogal  
-jungxulkan - ensino secundário  
+jungoxulkan - ensino secundário  
 Junguo - China  
 Jupiter - Júpiter  
 jus - suco (sumo)  
@@ -441,7 +443,7 @@ kance - vidro
 kangaru\* - canguru  
 kanion - canhão (ravina, barranco)  
 kankuate - quincã (cunquate)  
-kano - canoa  
+kano\* - canoa  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kantalupomelon - meloa (cantalupo)  
 kapotruke - armadilha  
@@ -449,8 +451,8 @@ kar - trabalho
 karer - trabalhador  
 karloge - verbo  
 kara - trabalhar  
-karaibia - Caribe  
-karave - alcaravia (cariz)  
+Karaibia - Caribe  
+karav - alcaravia (cariz)  
 karbodulokside - dióxido de carbono  
 karcof - alcachofra  
 karde - carta  
@@ -464,7 +466,7 @@ katoglutoban - área de transferência
 katan - espada  
 katus - cacto  
 kava - cavar (escavar)  
-kave - buraco  
+kav - buraco  
 kenarbaryer - cerca  
 kerne - núcleo (cerne)  
 kim - substância  
@@ -482,7 +484,7 @@ kitabomaxin - máquina de escrever
 kivi\* - quivi  
 klari - claro  
 klien - cliente  
-klimomute - mudança climática  
+klimmute - mudança climática  
 komputer - computador  
 konboni - combinar com  
 konkara - colaborar  
@@ -527,7 +529,7 @@ lama\* - lama
 lampe - lâmpada (luminária)  
 lan - maldição  
 lancograf - projeção  
-lancovute - projétil  
+lancite - projétil  
 lasun - alho  
 late - lado  
 lati - lateral  
@@ -560,7 +562,7 @@ lince - lince
 linka - relier (connecter)  
 linke - conexão (vínculo, laço)  
 linye - linha  
-lisan - língua  
+lin - língua  
 liste - lista  
 litre - litro  
 loga - falar  
@@ -603,8 +605,8 @@ marce - marcha
 margarite - margarida  
 margay - gato-maracajá  
 Marse - Marte  
-martinlutheristi - luterano  
-martinlutheristia - luteranismo  
+martinluteristi - luterano  
+martinluteristia - luteranismo  
 mas - massa  
 masal - tempero  
 maske - máscara  
@@ -612,8 +614,9 @@ masmul - tubérculo
 masmulsolful - alcachofra-girassol (tupinambo)  
 maste - mastro  
 mate - matéria  
+hisabolojia - matemática  
 mav - gato  
-max - mais  
+max (maxo) - mais  
 maxime - máximo  
 mece - partida  
 mede - meio (metade)  
@@ -654,6 +657,7 @@ moter - motor
 mul - raíz  
 mur - muro (muralha)  
 murkaguje - papel de parede  
+muzike - música  
 muskulbin - fisiculturismo  
 ####N - N  
 na - sem  
@@ -676,12 +680,12 @@ nix - nicho
 nizde - ninho (vespiero)  
 no - não  
 noce - noite  
-numbe - número  
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note - nota  
 novi - novo  
 novike - novato (neófito)  
+numbe - número  
 ####O - O  
 o - ou  
 oaze - oasis  
@@ -740,10 +744,10 @@ pesdiske - moeda
 petre - rocha (pedra)  
 petronefte - petróleo  
 pex - peixe  
-pexohuke - anzol  
+pexhuke - anzol  
 pexosaider - pescador  
 peykar - profissão  
-peykari jive - carreira  
+peykari jiv - carreira  
 piaze - cebola  
 pike - cume (pico, topo)  
 pil - pele  
@@ -777,6 +781,7 @@ purbona - aperfeiçoar
 purfina - terminar (acabar, concluir)  
 purfityamiste - vegetalista  
 purxipa - ensopar (encharcar, marinar)  
+ceniki - velho (antigo)  
 pute - filho ou filha  
 putavoranje - toranja  
 ####Q - Q  
@@ -805,7 +810,7 @@ ritim - ritmo
 robote - robô  
 roketolancer - lançador de foguetes  
 Roma - Roma  
-rom.kamil: - camomila-romana  
+romakamil - camomila-romana  
 roze - rosa  
 rozosalmon - salmão-rosa  
 ruhmixi - perplexo (confuso)  
@@ -815,10 +820,10 @@ se - se
 sahi - correto (justo)  
 saida - caçar  
 sake - saco  
-salte - sal  
+sal - sal  
 sali - salino  
 salame - saudação  
-saman - céu  
+samay - céu  
 samemos - compaixão  
 sami - igual  
 sammetri - simétrico  
@@ -845,9 +850,9 @@ seram - cerâmico
 setyom - domingo  
 seti - sete (7)  
 siahi - preto  
-seaborgem - seabórgio  
+siborgem - seabórgio  
 sifloge - adjetivo  
-sihe - saúde  
+sih - saúde  
 sihi - saudável (saudio)  
 sikliste - ciclista  
 sil - elo  
@@ -878,12 +883,12 @@ susan - lírio
 suy - água  
 suygas - vapor  
 suyminte - hortelã-da-água  
-suynide - sede  
+suyyav - sede  
 ####T - T  
 te - tu  
 tablokomputer - tablet  
 tail - ladrilho (telha, azulejo)  
-taksometer - taxímetro  
+taksometrer - taxímetro  
 tali moke - arbusto (mata)  
 tan - haste (talo, caule)  
 tate - margem  
@@ -941,7 +946,7 @@ verme - verme
 vermute - vermute  
 vespe - abelha ou vespa  
 vida - ver  
-vidove - viúvo  
+vidov - viúvo  
 violeti - purpúreo (roxo)  
 vode - promessa (voto)  
 vol - vontade  
@@ -987,7 +992,7 @@ xur - começo (início, princípio)
 ####Y - Y  
 ye - sim  
 yamfite - verdura (hortaliça, legume)  
-yamnide - fome  
+yamyav - fome  
 yasen - freixo  
 yatimdom - orfanato  
 yav - necessidade  

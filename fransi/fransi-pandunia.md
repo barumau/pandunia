@@ -49,7 +49,7 @@ allô - halo\*
 alphabet - harfia  
 aluminium - aluminem  
 amande - badam  
-amer - amari  
+amer - alkalgusti  
 Amhara (groupe ethnique et langue éthiopienne) - Amari  
 amiral - hayamirer  
 amour (affection) - luve  
@@ -105,7 +105,7 @@ Asie - Asia
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
-astrobiologie - astrobivlojia  
+astrobiologie - kosmobivlojia  
 atchoum - acu\*  
 Athènes - Atina  
 attaquer (agresser) - agresa  
@@ -213,30 +213,30 @@ calendrier - kalende
 caleçon - bokserpante  
 calmar (encornet, calamar) - kalamar  
 calme (tranquille) - xanti  
-Camomille Romaine - rom.kamil:  
+Camomille Romaine - romakamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa\*  
 Canne à sucre - xukarcav  
 canon - daypav  
-canoë - kano  
+canoë - kano\*  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanion  
 capacité (compétence) - able  
 cape - mantol  
 carapace (coquille, coquillage, croûte) - kaske  
-Caraïbes - karaibia  
+Caraïbes - Karaibia  
 cardon - kardonkarcof  
 carotte - karote  
 carreau (tuile) - tail  
-carrière - peykari jive  
+carrière - peykari jiv  
 carte - gevgraf  
 carte - karde  
-carte à collectionner -   
+carte à collectionner - jamkarde  
 cartographie (geographie) - gevgrafia  
 Centaurée - centaur  
 Centaurée bleuet - nilcentaur  
-Centaurée du solstice - solsentaur  
+Centaurée du solstice - solcentaur  
 centre - jung  
 cerise - cerize  
 chachlik - xixmanse  
@@ -245,7 +245,7 @@ Champagne - Xampan
 Champagner - Xampan vin  
 champignon - fungopal  
 chance - canse  
-changement climatique - klimomute  
+changement climatique - klimmute  
 changer - ala  
 chapitre - babe  
 chardon - kardon  
@@ -273,7 +273,7 @@ chu - padi
 chêne - balute  
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
-ciel - saman  
+ciel - samay  
 cime (pic, sommet) - pike  
 cimetière - gabristan  
 cinq (5) - limi  
@@ -359,13 +359,14 @@ dance - danse
 dandélion - makanful  
 danger - hatre  
 danois - dani  
-dans le sens antihoraire - fansoldixo  
+dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
 de - ja  
 demander (poser un question; est-ce que) - eska  
 dessous - nice  
 destin - cenamen  
 deux (2) - duli  
+devoir - debu  
 diamant - almas  
 dieu - dev  
 dimanche - setyom  
@@ -434,7 +435,7 @@ face (facette) - fas
 facile - fasili  
 faible - debili  
 faible - mirdi  
-faim - yamnide  
+faim - yamyav  
 faire - fata  
 fait - fate  
 fanal (balise) - fotominar  
@@ -462,7 +463,7 @@ force navale (marine) - haygun
 forer (percer) - fora  
 forêt (jungle) - jangle  
 forêt de kelp - algojangle  
-fosse - kave  
+fosse - kav  
 fougères - parne  
 fourmi - murce  
 fragment - parce  
@@ -492,7 +493,7 @@ gorille - goril
 goule - gul  
 gouvernement - governe  
 granit - granite  
-gravire - grave  
+gravire - grav  
 grenouille - krokroke  
 grimace - grimas  
 groupe - grupe  
@@ -502,7 +503,7 @@ guide - gider
 guide touristique - gidobuke  
 guider - gida  
 guitare - gitar  
-génotype - jenotipe  
+génotype - jentipe  
 généralissime - gunrajer  
 généreux - donivi  
 généreux - karimi  
@@ -514,7 +515,7 @@ géothermique - gevtermi
 ####H - H  
 habiller (vêtir) - fuka  
 haine - hen  
-hameçon - pexohuke  
+hameçon - pexhuke  
 haut - gav  
 Hesse - Hesia  
 heure - hor  
@@ -524,7 +525,7 @@ Hindustan - Hindia
 hiver - lengomosim  
 hivernal (hibernal) - lengomosimi  
 hockey - hoke  
-hockey sur glace - aisohoke  
+hockey sur glace - aishoke  
 honneur - onor  
 honorer - onora  
 horloge - horloger  
@@ -555,7 +556,7 @@ jade - giuke
 Japon - Nipon  
 jaïnisme - jeinistia  
 je (me) - me  
-jeu de société - banogem  
+jeu de société - bangem  
 jeudi - caryom  
 joug - yoke  
 joule (J) - jul  
@@ -584,7 +585,7 @@ lama - liama\*
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bax  
-langue - lisan  
+langue - lin  
 langue maternelle - jeni bax  
 lapin (lièvre) - tuze  
 lapis-lazuli - lazurpetre  
@@ -619,8 +620,8 @@ loutre - lontre
 lumière - fote  
 lundi - unyom  
 lune - lun  
-luthéranisme - martinlutheristia  
-luthérien - martinlutheristi  
+luthéranisme - martinluteristia  
+luthérien - martinluteristi  
 lutte - jihade  
 lynx - lince  
 lys - susan  
@@ -632,7 +633,7 @@ magma - pastopetre
 magnésium - magesem  
 maillon (chaînon) - sil  
 main - hande  
-mais (bien que) - amo  
+mais (bien que) - a  
 maison - dom  
 malédiccion - lan  
 manche - kamisi xake  
@@ -652,6 +653,7 @@ Mars - Marse
 masque - maske  
 masse - mas  
 match - mece  
+mathématiques - hisabolojia  
 matière - mate  
 maximum - maxime  
 maître - mester  
@@ -695,6 +697,7 @@ moussu - mosi
 mouvoir (bouger) - kina  
 mule - gadogude  
 mur - mur  
+musique - muzike  
 mycélium - fungonete  
 mât - maste  
 mère (maman) - mam  
@@ -718,7 +721,7 @@ niveau - par
 noir - siahi  
 noit - noce  
 nombre (numéro) - numbe  
-nombre pair - pari nombre  
+nombre pair - pari numbe  
 non (ne...pas) - no  
 nord - norde  
 nostalgie - nostalgia  
@@ -750,7 +753,7 @@ option - cuzable
 or - aur  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
-orange amère - amaroranje  
+orange amère - alkaloranje  
 orange douce - xukaroranje  
 orchidée - orkide  
 ordinateur - komputer  
@@ -766,7 +769,7 @@ orthogonal - ortogoni
 otite - oritis  
 ou - o  
 oublier - anmema  
-oubliette (cul de basse-fosse) - zemnici prizon  
+oubliette (cul de basse-fosse) - gevnici prizon  
 oui - ye  
 ours - urse  
 oxyde - okside  
@@ -830,7 +833,7 @@ pieu (poteau) - zong
 pile (batterie) - batre  
 piment - cili\*  
 pioche - pincope  
-piquenique - eksoyam  
+piquenique - eksyam  
 piraterie - piratia  
 pistolet - pav  
 pizza - pize  
@@ -848,7 +851,7 @@ plein - puri
 pluie - barxe  
 plume - kalam  
 plurilingue (multilingue) - polbaxi  
-plus - max  
+plus - max (maxo)  
 pluvieux - barxi  
 pocion - medikosuy  
 podzol - huydarte  
@@ -882,7 +885,7 @@ professeur (enseignant) - xulaner
 profession (métier) - peykar  
 profond - fasteli  
 programme - program  
-projectile - lancovute  
+projectile - lancite  
 projection - lancograf  
 projet - projete  
 projeter (donner) - lancografa  
@@ -895,7 +898,7 @@ précieux - bavi
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruhlojia  
-psyché - ruhe  
+psyché - ruh  
 pâquerette - englomargarite  
 péter - peda  
 pétrole (essence) - petronefte  
@@ -963,7 +966,7 @@ salut (salam) - salame
 samedi - sisyom  
 sandwich - sanduice  
 sang - sang  
-santé - sihe  
+santé - sih  
 Sapin - abite  
 Satan - xatan  
 Saturne - Saturne  
@@ -984,7 +987,7 @@ se - se
 se baigner - banyu  
 se mouvoir - kinu  
 se rappeler (se remémorer) - mema  
-sel - salte  
+sel - sal  
 semence - sem  
 sens - sense  
 sentir - aroma  
@@ -1002,7 +1005,7 @@ situation (état de choses) - xeyhal
 six (6) - sisi  
 société - socia  
 soie - silke  
-soif - suynide  
+soif - suyyav  
 soldat - gunjan  
 soleil - sol  
 son (sa) - si  
@@ -1032,22 +1035,23 @@ tablette de chocolat - cokolatobaton
 tarte - pay  
 tasse à thé - caykupe  
 taupe - krote  
-taximètre - taksometer  
+taximètre - taksometrer  
 technique - tehne  
 technologie - tehnolojia  
 tectonique des plaques - plati gevkaskia  
 temple - pujokan  
 temps (durée) - dur  
-tendance - ive  
+tendance - iv  
 tender - eksotira  
 tentacule - senter  
-tente - hemahe  
+tente - hemah  
 terrain - gevforme  
 Terre - Gevia  
 terre cuite - bekopote  
 terreplatiste - platogeviste  
 terrorisme - teroristia  
 thé - cay  
+théosophie - devsofia  
 tige - tan  
 tigre - bagre  
 tirer - tira milke  
@@ -1109,9 +1113,10 @@ verre - kance
 verre coloré - rangi kance  
 verrue - zeyil  
 vert - lugi  
-veuve - vidove  
+veuve - vidov  
 viande - manse  
-vie - jive  
+vie - jiv  
+vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
 ville - site  
@@ -1138,7 +1143,7 @@ Vénus - Venus
 vêtements - fuke  
 vœu (promesse) - vode  
 ####W - W  
-wolof - Wolof  
+wolof - Volof  
 ####X - X  
 ####Y - Y  
 ####Z - Z  
@@ -1157,7 +1162,7 @@ zèbre - zebre
 échelle - xalke  
 école (collège) - xulkan  
 école primaire - bazoxulkan  
-école secondaire - jungxulkan  
+école secondaire - jungoxulkan  
 écorce - tira pil  
 écrire - kitaba  
 écriture - kitabe  
