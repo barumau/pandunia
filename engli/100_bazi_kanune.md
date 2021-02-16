@@ -4,7 +4,7 @@ These are the basic rules of Pandunia language.
 They are described in more detail later in this document.
 
 1. The spelling follows the pronunciation exactly.
-2. The stress is placed on the syllable before the last consonant or the last semivowel of the word.
+2. The last syllable of the word stem is stressed.
 3. Words consist of a stem and one or more suffixes.
    The last suffix indicates the word class to which the word belongs.
     - Adjectives end in **-i**, ex. **novi** = new.
