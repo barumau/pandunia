@@ -140,7 +140,7 @@ anjil - message
 anjiler - messenger  
 anker - anchor  
 Antartike - Antarctica  
-Antartiki Hay - Antarctic Ocean  
+Antartiki Hai - Antarctic Ocean  
 anten - antenna (aerial)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
@@ -177,7 +177,7 @@ arsen - arsenic
 arte - art (skilful creative activity)  
 artiste - artist  
 Artike - Arctic  
-Artiki Hay - Arctic Ocean  
+Artiki Hai - Arctic Ocean  
 Aruba - Aruba  
 asi - Asian  
 Asia - Asia  
@@ -192,7 +192,7 @@ aslaustrali - Australian Aboriginal
 asme - asthma  
 aspirin - aspirin  
 astatem - astatine  
-kosmobivlojia - astrobiology  
+kosmobiulojia - astrobiology  
 ate - act (deed)  
 ater - agent (doer, actor)  
 ation - action  
@@ -200,7 +200,7 @@ ativa - activate (enable, turn on, trigger)
 ativi - active (on, enabled)  
 ata\* - sugar-apple (sweetsop)  
 Atina - Athens  
-Atlanti Hay - Atlantic Ocean  
+Atlanti Hai - Atlantic Ocean  
 atlantokade - Atlantic cod  
 atlantosalmon - Atlantic salmon  
 atom - atom  
@@ -222,7 +222,7 @@ avari - damaged (corrupt)
 avarani - harmful (damaging)  
 Axur - Assur  
 Axuria - Assyria  
-ay - ouch (ow, alas)  
+ai - ouch (ow, alas)  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babe - chapter (section)  
@@ -247,7 +247,7 @@ bahayiste - Baha'ist
 bahayistia - Baha'ism  
 Bahrain - Bahrain  
 baki - white  
-bakocoy - bok choy  
+bakocoi - bok choy  
 bakomargarite - oxeye daisy  
 bakosalmon - chum salmon  
 bali - eight (8)  
@@ -289,7 +289,7 @@ barka - congratulate (bless)
 barke! - congratulations! (blessing)  
 barkoke - apricot  
 barti - Indian  
-Barti Hay - Indian Ocean  
+Barti Hai - Indian Ocean  
 Bartia - India  
 barude - gunpowder  
 barxe - rain (precipitation)  
@@ -310,16 +310,16 @@ baton - bar (pole, rod, shaft, staff, stick)
 batonkapse - cage  
 batonpang - baguette  
 batre - battery  
-bav - treasure (valuables)  
+bau - treasure (valuables)  
 bavi - precious  
-bavxeke - gem (gemstone, jewel)  
+bauxeke - gem (gemstone, jewel)  
 bax - language (communication)  
 baxa - speak (communicate)  
 baxi jinse - grammatical gender  
 baxkanun - grammar  
 baxkanuni - grammatical  
 baxlojia - linguistics  
-bay - bay (gulf)  
+bai - bay (gulf)  
 baza - found  
 baze - base (foundation)  
 bazi - basic  
@@ -369,17 +369,17 @@ binde - dot (spot)
 bir - beer  
 birkan - bar (pub, beer house)  
 bis - genderqueer (non-binary)  
-Bisav Ginia - Guinea-Bissau  
+Bisau Ginia - Guinea-Bissau  
 biskute - biscuit (cookie)  
 bismute - bismuth  
-biv - organism (organic life)  
+biu - organism (organic life)  
 bivi - organic  
 bivi jinse - biological sex  
-bivcaniver - compost  
-bivlojia - biology (study of organic life)  
-bivmuti - fermented  
-bivmutu - ferment (leaven)  
-bivsistem - biome  
+biucaniver - compost  
+biulojia - biology (study of organic life)  
+biumuti - fermented  
+biumutu - ferment (leaven)  
+biusistem - biome  
 debu - must  
 bizari - odd (strange, weird)  
 biznes - business (commercial activity)  
@@ -421,7 +421,7 @@ botolefte - port (left side of a ship)
 botoraite - starboard (right side of a ship)  
 botoxef - captain  
 bote - boat (ship)  
-boy - float (buoy, bobber)  
+boi - float (buoy, bobber)  
 boyu - float (swim)  
 brauza - explore (browse)  
 brauzer - explorer (browser)  
@@ -436,7 +436,7 @@ brox - brush
 bruni - brown  
 brunalge - brown algae  
 brunsalmon - brown trout  
-Bruney - Brunei Darussalam  
+Brunei - Brunei Darussalam  
 buca - butcher  
 bucer - butcher  
 bucokan - abattoir (slaughterhouse)  
@@ -464,7 +464,7 @@ buste - bust (bosom)
 bute - boot  
 buton - key (push-button, switch)  
 butonban - keyboard  
-buy - baobab  
+bui - baobab  
 buze - goat  
 ####C - C  
 ce - that one  
@@ -497,11 +497,11 @@ carmes - April
 caryom - Thursday  
 carme - charm (attraction)  
 cate - roof  
-cav - grass  
+cau - grass  
 cavistan - grassland  
-cay - tea  
-caykan - tea house  
-caykupe - tea cup  
+cai - tea  
+caikan - tea house  
+caikupe - tea cup  
 Cehia - Czech Republic  
 ceka - check (to examine)  
 cel - cell (biology)  
@@ -552,7 +552,7 @@ cora - steal
 corer - thief  
 Cosen - Korea  
 Coseni - Korean  
-coy - greens  
+coi - greens  
 cum - kiss  
 cupa - suck (absorb)  
 cuta - leave (go out, exit)  
@@ -610,8 +610,8 @@ darvinistia - Darwinism
 date - data (numeric information)  
 datobanke - database (databank)  
 datotable - data table (matrix)  
-dav - way (road)  
-davban - road sign  
+dau - way (road)  
+dauban - road sign  
 daviste - Taoist  
 davistia - Taoism (Daoism)  
 dayi - big (great)  
@@ -619,17 +619,17 @@ dayia - size
 dayu - grow (get bigger)  
 dayanjiler - ambassador  
 dayanjilkan - embassy  
-daydar - torrent  
-daydarja - amplify (scale)  
-daydom - palace (mansion)  
-dayhay - ocean  
-daylasun - giant onion  
-daypav - gun (cannon)  
-daypaver - cannoneer  
-daysite - big city  
-dayvaze - cauldron  
-dayxeke - boulder  
-dayxulkan - university  
+daidar - torrent  
+daidarja - amplify (scale)  
+daidom - palace (mansion)  
+daihai - ocean  
+dailasun - giant onion  
+daipau - gun (cannon)  
+daipaver - cannoneer  
+daisite - big city  
+daivaze - cauldron  
+daixeke - boulder  
+daixulkan - university  
 debili - weak  
 deci\* - deci-  
 decibel - decibel  
@@ -661,14 +661,14 @@ desmes - October
 desunmes - November  
 desen - drawing (design)  
 detal - detail  
-dev - god (deity)  
+deu - god (deity)  
 devi - divine (godly)  
 deviste - theist  
 devistia - theism  
-devkratia - theocracy  
-devlojia - theology  
-devsage - myth (divine story)  
-devsofia - theosophy  
+deukratia - theocracy  
+deulojia - theology  
+deusage - myth (divine story)  
+deusofia - theosophy  
 dex - country (land, state)  
 dexojan - citizen  
 dika - aim at (for, toward)  
@@ -720,7 +720,7 @@ dosti - friendly (kind, nice, gentle)
 dostia - friendship  
 dotor - doctor (scholar who has attained doctorate)  
 dotoria - doctorate  
-dov - bean or pea (legume)  
+dou - bean or pea (legume)  
 dox - fault (sin, blame, defect, guilt)  
 doxi - guilty  
 doze - portion (dose)  
@@ -811,7 +811,7 @@ eria - shop (workshop, place of doing)
 erbem - erbium  
 Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
-esey - essay  
+esei - essay  
 eska - ask (inquire)  
 eske - question (query, inquiry)  
 eskan - interrogative  
@@ -916,8 +916,9 @@ feste - party (celebration, festival)
 festoden - holiday  
 fete - fat (grease)  
 feti - fatty (greasy)  
+fei - flight  
 feyu - fly (go through air)  
-feymux - bat (flying mammal)  
+feimux - bat (flying mammal)  
 figur - figure (representation)  
 Fiji - Fiji  
 fikra - think (ponder, reflect)  
@@ -1019,8 +1020,8 @@ fute - foot
 futoban - scaffolding (gangplank)  
 futobol - football (soccer)  
 futoxake - leg  
-futav - axe (hatchet)  
-fuy - bah! (yuck!)  
+futau - axe (hatchet)  
+fui - bah! (yuck!)  
 ####G - G  
 Gabon - Gabon  
 gabra - bury  
@@ -1047,9 +1048,9 @@ Gambia - Gambia
 gamel - camel  
 gana - dry out  
 gani - dry  
-gancav - hay  
+gancau - hay  
 ganmosim - dry season  
-ganputav - raisin  
+ganputau - raisin  
 gantex - towel  
 Gana - Ghana  
 Ganda - Uganda  
@@ -1076,16 +1077,16 @@ gasu - gasify (vaporize)
 gati - hard (tough)  
 gatomate - solid  
 gatomati - rigid (solid)  
-gav - top  
+gau - top  
 gava - raise (lift)  
 gavi - high (tall)  
 gavi tanur - blast furnace  
 gavia - height (altitude)  
 gavu - rise (go up)  
-gavdarji - advanced (high-level)  
-gavdarju - level up (graduate)  
-gavtali - vertical  
-gavtalu - bob up and down  
+gaudarji - advanced (high-level)  
+gaudarju - level up (graduate)  
+gautali - vertical  
+gautalu - bob up and down  
 gaze - gauze  
 gazel - gazelle  
 gazete - magazine (journal, gazette)  
@@ -1099,26 +1100,26 @@ germanem - germanium
 Gernezi - Guernsey  
 geta - get (receive, obtain, take)  
 geter - getter (receiver, recipient)  
-gev - earth (ground)  
+geu - earth (ground)  
 Gevia - Earth (Terra)  
-gevdov - peanut (groundnut)  
-gevforme - terrain  
-gevgraf - map (chart)  
-gevgrafia - cartography (geography)  
-gevgunia - ground force (army)  
-gevkaski krake - fault line  
-gevkaski plate - tectonic plate  
-gevlojia - geology  
-Gevmedi Hay - Mediterranean  
-gevmetria - geometry  
-gevnici - underground (subterrainean)  
-gevnici prizon - dungeon (underground prison)  
-gevparlinye - equator  
-Gevparlinyi Ginia - Equatorial Guinea  
-gevpolitike - geopolitics  
-gevsisme - earthquake  
-gevtermi - geothermal  
-gevtike - lot (plot of land)  
+geudou - peanut (groundnut)  
+geuforme - terrain  
+geugraf - map (chart)  
+geugrafia - cartography (geography)  
+geugunia - ground force (army)  
+geukaski krake - fault line  
+geukaski plate - tectonic plate  
+geulojia - geology  
+Geumedi Hay - Mediterranean  
+geumetria - geometry  
+geunici - underground (subterrainean)  
+geunici prizon - dungeon (underground prison)  
+geuparlinye - equator  
+Geuparlinyi Ginia - Equatorial Guinea  
+geupolitike - geopolitics  
+geusisme - earthquake  
+geutermi - geothermal  
+geutike - lot (plot of land)  
 geyi - gay (homosexual)  
 gida - guide (lead, show the way)  
 gider - guide  
@@ -1149,7 +1150,7 @@ grafer - illustrator (graphic artist)
 grafsage - comic (cartoon)  
 gram - gram (g)  
 granite - granite  
-grav - gravel  
+grau - gravel  
 Grenada - Grenada  
 Grenadin nesia - the Grenadines  
 grimas - grimace  
@@ -1161,7 +1162,7 @@ grosia - thickness
 grupe - group  
 Guadelupe - Guadeloupe  
 Guam - Guam  
-Guangjov - Guangzhou (Canton)  
+Guangjou - Guangzhou (Canton)  
 guanxe - relationship (association, connection)  
 Guatemala - Guatemala  
 gubu\* - hippopotamus  
@@ -1183,8 +1184,8 @@ gusta - taste (sense flavor)
 guste - taste (flavor)  
 gustu ko - taste like  
 gute - knee  
-guy - ogre (troll, goblin)  
-guypapil - oriental poppy  
+gui - ogre (troll, goblin)  
+guipapil - oriental poppy  
 Guyana - Guyana  
 ####H - H  
 he - huh? (pardon?)  
@@ -1235,23 +1236,23 @@ hata - until (til, up to)
 hato - even (implying extreme example)  
 hatre - danger (peril)  
 hatri - dangerous (perilous)  
-hav - wind  
+hau - wind  
 hava - blow  
-Havaii - Hawaii  
-Havaii nesia - Hawaiian archipelago  
+Havai - Hawaii  
+Havai nesia - Hawaiian archipelago  
 haxix - hashish  
-hay - sea  
+hai - sea  
 hayi - maritime  
 hayalge - seaweed (macroalgae)  
 hayamirer - admiral  
-haycav - seagrass  
-hayful - sea anemone  
-haygun - sea force (navy)  
-hayhiar - sea cucumber  
-hayjel - jellyfish (seajelly)  
-haynili - aqua (teal)  
-hayporte - harbor (seaport)  
-haytate - coast (beach)  
+haicau - seagrass  
+haiful - sea anemone  
+haigun - sea force (navy)  
+haihiar - sea cucumber  
+haijel - jellyfish (seajelly)  
+hainili - aqua (teal)  
+haiporte - harbor (seaport)  
+haitate - coast (beach)  
 Hayakia - Armenia  
 helem - helium  
 heleni - Greek (Hellenic)  
@@ -1324,7 +1325,7 @@ Horvatia - Croatia
 hotel - hotel  
 huke - hook  
 hukokrus - swastika (hooked cross)  
-huley - fox  
+hulei - fox  
 humus - chickpea  
 humusosos - hummus  
 hura - free (liberate)  
@@ -1335,16 +1336,16 @@ huriste - liberalist
 huristi - liberal  
 huristia - liberalism  
 huxi - nice (pleasant, comfortable, cushy)  
-huy - ash (ashes)  
-huydarte - podzol  
-huyrangi - grey (gray, ashy)  
+hui - ash (ashes)  
+huidarte - podzol  
+huirangi - grey (gray, ashy)  
 ####I - I  
 ibri - Hebrew  
 ica - will (want)  
 ice - will (volition, desire)  
-idey - idea (concept, notion)  
+idei - idea (concept, notion)  
 ideyi - conceptual  
-ideygraf - ideogram  
+ideigraf - ideogram  
 idiote - idiot  
 idioti - stupid (idiotic)  
 idiotia - idiocy (stupidity)  
@@ -1407,7 +1408,7 @@ istan - region
 Italia - Italy  
 itis - inflammation (-itis)  
 iva - tend to  
-iv - tendency (inclination)  
+ivia - tendency (inclination)  
 ####J - J  
 ja - from (since, because)  
 jaga - wake (make awake)  
@@ -1471,7 +1472,7 @@ jinmun - entrance
 jinse - gender (sex)  
 jinsi - sexual (pertaining to gender)  
 jiraf - giraffe  
-jiv - life (existence)  
+jiu - life (existence)  
 jivi - live (be alive, living)  
 joke - joke  
 joker - joker  
@@ -1486,7 +1487,7 @@ juda - judge
 jude - judgment (sentence)  
 juder - judge (referee)  
 judi - judicial  
-judav - judo  
+judau - judo  
 jul - joule (J)  
 jumle - sentence (phrase)  
 jung - middle (center)  
@@ -1511,13 +1512,13 @@ ke - what?
 ki - which?  
 ki jan - who?  
 ki sate - when?  
-ki xey - what thing?  
+ki xei - what thing?  
 ki yangi - what kind of?  
 ko? - how?  
 ko multo - how many?  
 kababa - barbecue (grill)  
 kababi manse - grilled meat (kebab)  
-kabav - water buffalo  
+kabau - water buffalo  
 kabin - cabin (booth)  
 kaboge - squash (pumpkin, gourd)  
 Kabu Verdi - Cabo Verde (Cape Verde)  
@@ -1602,7 +1603,7 @@ karate\* - karate
 karav - caraway  
 karbe - carbon (coal)  
 karbodulokside - carbon dioxide  
-karbosuy - carbohydrate (saccharide)  
+karbosui - carbohydrate (saccharide)  
 karcof - globe artichoke  
 karde - card  
 kardon - thistle  
@@ -1633,7 +1634,7 @@ Katar - Qatar
 katus - cactus  
 Kaukasia - Caucasia  
 kava - dig (excavate)  
-kav - pit (excavation, cavity)  
+kau - pit (excavation, cavity)  
 kavayi - cute (sweet)  
 kax - cash box  
 kaxer - cashier  
@@ -1793,10 +1794,10 @@ koste - cost (price)
 kosti - expensive (costly)  
 Kote Da Ivuar - Côte d’Ivoire (Ivory Coast)  
 kote - coat  
-koy (koyi) - some  
-koy jan - someone (somebody)  
-koy sate - sometime  
-koy xey - something  
+koi - some  
+koi jan - someone (somebody)  
+koi sate - sometime  
+koi xei - something  
 krabe - crab  
 krake - crack (rift)  
 kran - valve (tap, faucet)  
@@ -1832,7 +1833,7 @@ kuang - mineral (ore)
 kuanga - mine (extract)  
 kuanger - miner  
 kuangia - mine  
-kuangosuy - mineral water  
+kuangosui - mineral water  
 kuangotunel - mineshaft  
 kuani - wide (broad)  
 kuania - width (breadth)  
@@ -1906,8 +1907,8 @@ lav - elder
 Lav - Laos  
 lavi - old (aged, elderly)  
 lavi - Lao (Laotian)  
-lavmam - grandmother  
-lavpape - grandfather  
+laumam - grandmother  
+laupape - grandfather  
 lax - leftover (residue, vestige)  
 laxa - leave behind (abandon, let go)  
 laxu - stay behind (linger)  
@@ -2089,7 +2090,7 @@ mangi - busy (occupied)
 mangan - manganese  
 mango\* - mango  
 mangus - mangosteen  
-Manihay - prophet Mani  
+Manihai - prophet Mani  
 manihayistia - Manichaeism  
 Manin nes - Isle of Man  
 manioke - cassava (manioc)  
@@ -2106,7 +2107,7 @@ maraton - marathon
 marca - walk (march)  
 margarin - margarine  
 margarite - daisy  
-margay - margay  
+margai - margay  
 Marian nesia - Northern Mariana Islands  
 marka - mark (leave a mark)  
 marke - mark (trace)  
@@ -2159,7 +2160,7 @@ media - medium (media)
 medika - heal (cure, remedy)  
 mediker - doctor (medic, physician, healer)  
 medikia - medicine (field of study)  
-medikosuy - potion  
+medikosui - potion  
 medita - meditate (ponder)  
 medofas - interface  
 medu - among (amid, between)  
@@ -2200,7 +2201,7 @@ metrun - unit (measurement)
 metre - measurement  
 Mexiko - Mexico  
 Mexiko site - Mexico City  
-mey (meyi) - every (each)  
+mei - every (each)  
 mezotex - tablecloth  
 meze - table  
 mezistan - plateau (tableland)  
@@ -2290,7 +2291,7 @@ mos - moss
 mosi - mossy  
 mosim - season  
 moskite - mosquito  
-Moskove - Moscow  
+Moskou - Moscow  
 moskovem - moscovium  
 mote - motion (movement)  
 moter - engine (motor)  
@@ -2368,7 +2369,7 @@ Nauru - Nauru
 nautil - nautilus  
 navati - Nahuatl (Nahua)  
 navi - nine (9)  
-navmes - September  
+naumes - September  
 naziste - Nazi  
 nazistia - Nazism  
 Nederlandi Antil - Netherlands Antilles  
@@ -2429,7 +2430,7 @@ node - knot (node)
 nol (noli) - zero (none)  
 nol jan - nobody (no-one)  
 nol sate - never  
-nol xey - nothing  
+nol xei - nothing  
 nola - cancel (nullify)  
 noma - manage (organize, direct)  
 nomia - management (-nomy)  
@@ -2489,9 +2490,9 @@ oka - eye (look, watch)
 oke - eye  
 oki - ocular  
 okokex - eyelash  
-okosuy - tear drop  
-okosuygas - tear gas  
-okey - okay (acceptance)  
+okosui - tear drop  
+okosuigas - tear gas  
+okei - okay (acceptance)  
 okeya - accept (say okay)  
 okeyi - okay (acceptable)  
 okse - oxygen  
@@ -2529,7 +2530,7 @@ ostoxalke - scute
 Ostria - Austria  
 ####P - P  
 pace - peace  
-Paci Hay - Pacific Ocean  
+Paci Hai - Pacific Ocean  
 paciste - pacifist  
 pacistia - pacifism  
 pacokade - Pacific cod  
@@ -2550,7 +2551,7 @@ Palav - Palau
 palme - palm tree  
 pan (pani) - all  
 pan jan - everybody (everyone)  
-pan xey - everything  
+pan xei - everything  
 pansato - always  
 panafriki - pan-African  
 panameriki - pan-American  
@@ -2575,8 +2576,8 @@ panjabi - Punjabi
 panke - fan (ventilator)  
 pante - pants (trousers)  
 pape - father (dad, papa)  
-papagay - parrot (parakeet)  
-papay - papaya  
+papagai - parrot (parakeet)  
+papai - papaya  
 papir - document (paper)  
 Papua Novi Ginia - Papua New Guinea  
 par - level  
@@ -2585,9 +2586,9 @@ pari - even (level, peer, equal)
 pari numbe - even number  
 parlinyi - parallel (longitudinal)  
 parlinyu - align (go along)  
-Paraguay - Paraguay  
+Paraguai - Paraguay  
 param - parameter (argument, input variable)  
-paray - outcast (pariah)  
+parai - outcast (pariah)  
 paraya - despise (scorn)  
 parca - shatter (break into pieces)  
 parce - piece (fragment, shred, morsel, crumb, shard)  
@@ -2629,7 +2630,7 @@ paxa - hurt
 paxi - painful  
 paxia - suffering  
 paxu - suffer (get hurt)  
-pay - pie (pastry)  
+pai - pie (pastry)  
 peda - fart (flatulate)  
 pede - fart (flatulence)  
 pedal - pedal  
@@ -2655,12 +2656,12 @@ pex - fish
 pexhuke - fishhook  
 pexosaider - fisher  
 pextanke - fish tank  
-pey - payment  
+pei - payment  
 peya - pay  
-peykar - profession (job, occupation, trade, vocation)  
-peykari - professional (occupational, career)  
-peykari jiv - career (professional life)  
-peykarer - professional (pro)  
+peikar - profession (job, occupation, trade, vocation)  
+peikari - professional (occupational, career)  
+peikari jiu - career (professional life)  
+peikarer - professional (pro)  
 piano\* - piano  
 piaze - onion  
 pige - buttocks (bum, butt, ass)  
@@ -2700,7 +2701,7 @@ planete - planet
 plastike - plastic  
 plate - plane (plate)  
 plati - flat (planar)  
-plati gevkaskia - plate tectonics  
+plati geukaskia - plate tectonics  
 platistan - plain (plateau, flat lands)  
 platoforme - platform  
 platogeviste - flat-earther  
@@ -2744,7 +2745,7 @@ pompa - pump
 ponta - point at (indicate)  
 ponter - pointer (indicator)  
 pontopin - compass (magnetized needle)  
-porey - leek  
+porei - leek  
 porne - porn  
 pornografia - pornography  
 porte - port (station)  
@@ -2853,7 +2854,7 @@ rastu - grow (grow up, expand)
 ratiba - order (arrange)  
 ratibe - order (arrangement, sequence)  
 ratibi - orderly (organized, in sequence, tidy, regular)  
-ray - opinion (view)  
+rai - opinion (view)  
 raya - deem (think that)  
 razon - reason (rational thinking)  
 razoni - rational (reasonable)  
@@ -2882,13 +2883,13 @@ retrogula - throw up (vomit, regurgitate)
 retroguli sense - nausea (motion sickness)  
 retrotikete - return ticket  
 Reunion - Réunion  
-rey - repetition  
+rei - repetition  
 reya - repeat (iterate)  
 reyo - again (repeatedly)  
-reybon - repair (fix)  
-reybona - repair (fix, mend)  
-reyboner - repairer  
-reyzoka - continue (resume)  
+reibon - repair (fix)  
+reibona - repair (fix, mend)  
+reiboner - repairer  
+reizoka - continue (resume)  
 rezerva - reserve (book)  
 rezerve - reservation (booking, withholding)  
 rezin - resin  
@@ -2991,7 +2992,7 @@ salade - salad
 salam (salami) - good (in greetings)  
 salam cute - farewell  
 salam den - Good day  
-salam lay - welcome!  
+salam lai - welcome!  
 salam sube - Good morning  
 salam xam - Good evening  
 salam yam - bon appetit!  
@@ -3000,10 +3001,10 @@ salame - greeting (hello)
 salmon - salmon (trout)  
 Salon - Sierra Leone  
 Salvador - El Salvador  
-samay - sky (heaven)  
+samai - sky (heaven)  
 samayi - celestial (heavenly)  
-samayhal - weather  
-samaynili - light blue (sky blue, azure)  
+samaihal - weather  
+samainili - light blue (sky blue, azure)  
 samarem - samarium  
 samdexi - compatriot  
 samemos - compassion (sympathy)  
@@ -3053,8 +3054,8 @@ sava - know (be aware of)
 savan - savannah  
 sav - knowledge  
 savi - known  
-savlojia - epistemology  
-say - shadow  
+saulojia - epistemology  
+sai - shadow  
 sekreter - secretary  
 sekreteria - secretariat  
 seksa - have sex  
@@ -3237,19 +3238,19 @@ susan - lily
 suta - sew  
 sutur - suture (seam)  
 suxi - sushi  
-suy - water  
-suygas - steam (vapor)  
+sui - water  
+suigas - steam (vapor)  
 suyi - watery  
-suykaboge - calabash  
-suyminte - watermint  
-suyyav - thirst  
-suyrang - watercolor  
-suysekuri - waterproof  
-svahili - Swahili  
-Svalbarde - Svalbard  
-Svati - Eswatini (Swaziland)  
-Svenia - Sweden  
-Svisia - Switzerland  
+suikaboge - calabash  
+suiminte - watermint  
+suiyau - thirst  
+suirang - watercolor  
+suisekuri - waterproof  
+suahili - Swahili  
+Sualbarde - Svalbard  
+Suati - Eswatini (Swaziland)  
+Suenia - Sweden  
+Suisia - Switzerland  
 ####T - T  
 pa - to (toward, till, until, for)  
 te - you (singular)  
@@ -3260,7 +3261,7 @@ tabla date - tabulate
 table - slab (slate, tablet, board)  
 tablokomputer - tablette computer  
 tafun - storm (tempest, typhoon, hurricane, cyclone)  
-Taibey - Taipei  
+Taibei - Taipei  
 taige - taiga  
 tail - tile  
 Taivan - Taiwan (Republic of China)  
@@ -3296,7 +3297,7 @@ tas - dish
 tate - shore (bank, edge)  
 tatike - tactics (strategy)  
 tatu\* - tattoo  
-tav - frying pan  
+tau - frying pan  
 tayi - Thai  
 Tayia - Thailand  
 tazi - fresh  
@@ -3449,7 +3450,7 @@ uranem - uranium
 urdi - Urdu  
 Urdun - Jordan  
 urse - bear  
-Uruguay - Uruguay  
+Uruguai - Uruguay  
 Uruxalem - Jerusalem  
 uza - use (employ, apply)  
 uzabli - usable (available)  
@@ -3514,7 +3515,7 @@ veste - west
 vesti - western  
 vestodongia - longitude  
 vestogoril - western gorilla  
-vey - tail  
+vei - tail  
 vida - look (see)  
 vide - view (vision)  
 vidu - be seen  
@@ -3580,7 +3581,7 @@ Xampan - Champagne
 Xampan vin - champagne  
 xamyam - dinner  
 xan - mountain (hill)  
-Xanghay - Shanghai  
+Xanghai - Shanghai  
 xante - rest (relief, repose)  
 xanti - calm (peaceful, quiet)  
 xarke - shark  
@@ -3606,10 +3607,10 @@ xeng - victory (win)
 xenga - win (triumph, succeed, accomplish)  
 xenon - xenon  
 xense - master (sensei)  
-xey - thing  
-xeyhal - situation (circumstances, state of affairs)  
-xeyhalironia - situational irony  
-xibay - failure (loss, flop, miss, defeat)  
+xei - thing  
+xeihal - situation (circumstances, state of affairs)  
+xeihalironia - situational irony  
+xibai - failure (loss, flop, miss, defeat)  
 xibay - loss (failure, miss)  
 xibaya - lose (fail, miss, be defeated)  
 xibaya tena - lose (shed, miss, misplace)  
@@ -3687,14 +3688,14 @@ yav - need (shortage, lack)
 yavi - needy (lacking)  
 yavu - need (lack)  
 yavan - necessary (needed)  
-yavxina - trust (rely)  
-yavxinabli - loyal (faithful, trustworthy)  
-yavxinablia - loyalty (faithfulness)  
+yauxina - trust (rely)  
+yauxinabli - loyal (faithful, trustworthy)  
+yauxinablia - loyalty (faithfulness)  
 yehudi - Jewish  
 yehudistia - Judaism  
 Yemen - Yemen  
 Yesus - Jesus  
-yey - yay! (yeah!)  
+yei - yay! (yeah!)  
 yeze - coconut tree  
 yoga - do yoga  
 yoge - yoga  
@@ -3733,7 +3734,7 @@ zayia - presence (existence)
 zayo - presenty (currently, now)  
 zayu - appear  
 zayu - exist (be present)  
-zaydeno - today  
+zaideno - today  
 zebre - zebra  
 zeta\* - zetta-  
 zeyil - wart  
