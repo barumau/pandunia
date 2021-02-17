@@ -18,8 +18,8 @@ airgun - 空军
 airporte - 飞机场  
 ais - 冰  
 aisu - 结冰  
-aiskrem - 冰淇淋  
 aishoke - 冰球  
+aiskrem - 冰淇淋  
 ajili - 灵活的  
 akar - 蜱 (螨)  
 akse - 轴线  
@@ -66,7 +66,6 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
-kosmobivlojia - 太空生物学  
 ate - 作为 (行为)  
 ation - 行动  
 ativi - 活性  
@@ -84,7 +83,7 @@ bagre - 虎
 bagroselote - 小斑虎貓  
 bah - 呸  
 baki - 白  
-bakocoy - 白菜 (小白菜)  
+bakocoi - 白菜 (小白菜)  
 bakomargarite - 法蘭西菊  
 bakosalmon - 大麻哈鱼 (狗鮭)  
 bali - 八 (8)  
@@ -96,11 +95,11 @@ bangem - 版图游戏
 banan - 香蕉  
 bande - 班  (一帮)  
 bandir - 旗  
-banke - 银行  
-banse - 竹子  
 banye - 洗澡  
 banyu - 游泳  
 banyokamar - 浴室  
+banke - 银行  
+banse - 竹子  
 bari - 重型的  
 barkoke - 杏子  
 barxe - 雨  
@@ -113,14 +112,14 @@ baskobol - 篮球
 batonkapse - 笼  
 batre - 电池  
 bavi - 宝贵  
-bavxeke - 宝石  
+bauxeke - 宝石  
 bax - 语言  
 baxi jinse - 文法的性  
 baxlojia - 语言学  
 baze - 底部  
+bazobol - 棒球  
 bazoxulkan - 小学  
 bazar - 市场  
-bazobol - 棒球  
 bebe - 宝宝  
 bekopote - 陶瓦  
 bel - 铲  
@@ -131,12 +130,13 @@ bete - 甜菜頭
 bil - 帐单  
 bina - 建设  
 bir - 啤酒  
-biv - 生物  
+biu - 生物  
 bivi jinse - 生物性別  
-bivlojia - 生物学  
-bivmutu - 发酵  
-bivsistem - 生物群系  
+biulojia - 生物学  
+biumutu - 发酵  
+biusistem - 生物群系  
 bode - 身体  
+boyu - 漂浮  
 bokse - 拳击  
 bokser - 拳击手  
 bokserpante - 平角褲  
@@ -146,11 +146,10 @@ boni - 好
 bondarme - 道德  
 bonrupi - 好看  
 bonsinyi - 吉利的  
+bote - 船 (艇)  
 botel - 瓶  
 botolefte - 左舷  
 botoraite - 右舷  
-bote - 船 (艇)  
-boyu - 漂浮  
 bruni - 棕色 (色)  
 brunsalmon - 褐鳟  
 bucer - 屠夫  
@@ -162,18 +161,19 @@ bum - 爆炸
 buton - 扣子  
 buze - 山羊  
 ####C - C  
+cai - 茶  
+caikan - 茶馆  
+caikupe - 茶碗  
 cakre - 轮子  
 camace - 匙子  
 cantergrupe - 合唱团  
 cari - 四 (4)  
 caryom - 星期四 (禮拜四)  
-cay - 茶  
-caykan - 茶馆  
-caykupe - 茶碗  
 celolojia - 细胞学  
 ceno - 以前  
 cenamen - 命運  
 cendeno - 昨日  
+ceniki - 古老 (以前)  
 ceng - 层  
 cili\* - 菜椒  
 cilifun - 辣椒粉  
@@ -190,6 +190,11 @@ Congcing - 重庆
 cope - 锄头  
 cuzable - 选择 (买卖权)  
 ####D - D  
+daidom - 殿 (宫殿, 宅第)  
+daihai - 大洋 (大海)  
+daipau - 大炮  
+daivaze - 炼药锅  
+daixeke - 磐石  
 dani - 丹麦的  
 danger - 钟 (摇铃)  
 danta - 咬  
@@ -199,16 +204,11 @@ darjomute - 发展 (开发)
 date - 数据  
 datobanke - 数据库  
 datotable - 表格  
-daydom - 殿 (宫殿, 宅第)  
-dayhay - 大洋 (大海)  
-daypav - 大炮  
-dayvaze - 炼药锅  
-dayxeke - 磐石  
 debili - 虚弱 (易坏)  
 defban - 盾牌  
 defkaske - 盔甲  
 den - 白天  
-dev - 神  
+deu - 神  
 dexojan - 公民  
 dika - 瞄准  
 dike - 目的 (目标)  
@@ -239,8 +239,8 @@ dux - 淋浴
 e - 和  
 ekor - 松鼠  
 ekse - 外  
-eksotira - 拉  
 eksyam - 野餐  
+eksotira - 拉  
 eletrolinye - 电缆 (电线)  
 eletrorade - 闪电  
 emoje - 绘文字  
@@ -251,27 +251,26 @@ eske - 问题
 esponje - 海绵  
 estan - 锡  
 estibem - 锑  
-europobalute - 夏櫟  
 evanjil - 福音  
+europobalute - 夏櫟  
 ####F - F  
 faidia - 效用 (好处)  
-rotolefto - 反时针方向的  
 fas - 面  
 fasteli - 深  
 fasilia da akses - 無障礙環境  
 fate - 事实  
 fatigu - 疲劳  
+feyu - 飞  
 fem - 女  
 feni - 数字的  
-feyu - 飞  
 filme - 膜  
 filsofia - 哲学  
 fino - 了  
 fiorde - 峡湾  
 firuze - 绿松石  
 fite - 植物  
-fitolojia - 植物学  
 fityamiste - 素食主义者  
+fitolojia - 植物学  
 flece - 箭  
 foba - 吓唬  
 fobu - 害怕  
@@ -295,7 +294,7 @@ gadogude - 骡
 Galia - 高卢  
 galaksia - 恆星系  
 galte - 错误  
-gancav - 干草  
+gancau - 干草  
 ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
@@ -303,12 +302,12 @@ gati - 硬
 gatomate - 固体  
 genca - 检查  
 geta - 获得  
-gevforme - 地势  
-gevgraf - 地图  
-gevgrafia - 地图学 (地理)  
-gevmetria - 几何学  
-gevpolitike - 地缘政治  
-gevtermi - 地热的  
+geuforme - 地势  
+geugraf - 地图  
+geugrafia - 地图学 (地理)  
+geumetria - 几何学  
+geupolitike - 地缘政治  
+geutermi - 地热的  
 gida - 导游  
 gider - 导游  
 gidobuke - 指南  
@@ -323,18 +322,28 @@ goton - 棉
 governe - 政府  
 grafsage - 漫画  
 granite - 花岗石  
-grav - 砾石  
+grau - 砾石  
 grimas - 鬼脸  
-Guangjov - 广州  
+Guangjou - 广州  
+guipapil - 鬼罂粟 (東方罌粟)  
 guke - 菊花  
 gun - 军队  
 gunjan - 军人  
 gunrajer - 大元帅  
 gute - 膝  
-guypapil - 鬼罂粟 (東方罌粟)  
 ####H - H  
 habar - 消息  
 haha - 笑  
+hai - 海  
+hayalge - 海藻  
+hayamirer - 海军上将  
+haicau - 海草  
+haiful - 海葵  
+haigun - 海军  
+haihiar - 海參  
+haijel - 海蜇  
+haiporte - 海港  
+haitate - 海岸  
 hake - 权利  
 hal - 状态  
 hami - 重要  
@@ -346,16 +355,6 @@ Hartum - 喀土穆
 hata - 直到  
 hato - 连  
 hatre - 危险  
-hay - 海  
-hayalge - 海藻  
-hayamirer - 海军上将  
-haycav - 海草  
-hayful - 海葵  
-haygun - 海军  
-hayhiar - 海參  
-hayjel - 海蜇  
-hayporte - 海港  
-haytate - 海岸  
 helis - 螺旋  
 helisviman - 直升机  
 helpa - 帮助  
@@ -369,6 +368,7 @@ hijabe - 面纱
 Hindia - 印度斯坦  
 Hindonade - 印度河  
 hisaba - 计算  
+hisabolojia - 数学  
 hoga - 燃烧  
 hoge - 火  
 hogu - 烧  
@@ -379,20 +379,36 @@ hoke - 曲棍球
 hor - 小时  
 horloger - 钟  
 hotel - 旅馆  
+huidarte - 灰化土  
 huke - 钩  
 hukokrus - 卍 (卐)  
-huley - 狐狸  
+hulei - 狐狸  
 huri - 自由的  
 huria - 自由  
-huydarte - 灰化土  
 ####I - I  
+ye - 对 (是)  
+yamfite - 蔬菜  
+yamyav - 饥饿  
+yasen - 白蜡树  
+yatimdom - 孤儿院  
+yavu - 需要  
+yavan - 必要的  
+yauxina - 信赖  
+yauxinabli - 忠实  
 iki - 的  
 indosida - 蹲  
 insan - 人类  
 insani hake - 人权  
 insanistia - 人文主义  
+yoge - 瑜伽功  
+yoke - 轭  
+yom - 日  
+yomsete - 週  
+yongu - 融化  
+yongopetre - 熔岩  
+yongosaha - 熔炼  
 itis - 炎症  
-iv - 趋势  
+ivia - 趋势  
 ####J - J  
 ja - 从  
 jagu - 睡醒  
@@ -411,7 +427,7 @@ jeni bax - 母语
 jentipe - 基因型  
 jinse - 性别  
 jiraf - 长颈鹿  
-jiv - 生命  
+jiu - 生命  
 jul - 焦耳 (J)  
 jumle - 句子  
 jung - 中心  
@@ -429,10 +445,10 @@ kafe\* - 咖啡
 kafekan - 咖啡馆  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
+kali harfe - 空隙  
 kalam - 笔  
 kalamar - 鱿鱼  
 kalende - 日历  
-kali harfe - 空隙  
 kalsite - 方解石  
 kalsokristal - 大理石  
 kalsomate - 石灰  
@@ -452,11 +468,11 @@ kankuate - 金柑
 kantalupomelon - 鈔皮瓜  
 kapotruke - 陷阱  
 kar - 工作  
+kara - 工作  
 karer - 工人 (工作者)  
+karkan - 工厂  
 karloge - 动词  
 karmisa - 提交  
-karkan - 工厂  
-kara - 工作  
 karbodulokside - 二氧化碳  
 karcof - 菜蓟  
 karde - 牌  
@@ -470,8 +486,8 @@ kata - 切
 katoglutoban - 剪贴板  
 katan - 剑  
 katus - 仙人掌  
+kau - 坑 (穴)  
 kava - 挖  
-kav - 坑 (穴)  
 keci - 客气  
 keger - 客人  
 kenar - 边  
@@ -501,13 +517,14 @@ koncung - 昆虫
 konserte - 音乐会  
 kope - 摹本 (拷貝)  
 kora - 跑步  
+korer - 跑步者  
 koral - 珊瑚  
 korde - 线  
-korer - 跑步者  
 kornomelon - 刺角瓜  
 kortokrokodil - 短吻鳄  
 kosmi - 宇宙的  
 kosmia - 宇宙  
+kosmobiulojia - 太空生物学  
 krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
 krevete - 虾 (xiā)  
@@ -525,26 +542,26 @@ kuxu - 躺
 le - 他，她，它  
 lole - 他们  
 lage - 湖  
+laya - 来  
+layana - 带来  
 laje - 废物 (垃圾)  
-lalbavxeke - 红宝石  
 lali - 红  
+lalbavxeke - 红宝石  
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
 lalsalmon - 紅鮭  
 lama\* - 喇嘛  
 lampe - 灯  
 lan - 诅咒  
+lancite - 投掷物  
 lancograf - 投影  
 lancografa - 投射  
-lancite - 投掷物  
 lantanem - 鑭  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 Latvia - 拉脱维亚  
 lavi - 老 (老年, 年歲大)  
 laxa - 落 (留下)  
-laya - 来  
-layana - 带来  
 lazanye - 千层面  
 lazurpetre - 青金岩  
 lefte - 左  
@@ -560,16 +577,16 @@ libobaze - 架子
 libel - 蜻蜓  
 lider - 领导  
 lili - 小  
-lilxeke - 砾石  
 lilkaboge - 西葫芦  
+lilxeke - 砾石  
 limi - 五 (5)  
 limyom - 星期五 (禮拜五)  
 limon - 柠檬  
 limonike - 柑橘  
+lin - 舌头  
 lince - 猞猁 (山貓)  
 linka - 连接  
 linke - 联系  
-lin - 舌头  
 liste - 单子  
 litre - 升  
 loga - 说话 (讲)  
@@ -607,13 +624,12 @@ manir - 方式
 manse - 肉  
 mantol - 斗篷  
 mar - 次 (度, 遍)  
-margay - 長尾虎貓  
+margai - 長尾虎貓  
 mas - 质量  
-masal - 香料  
 masmulsolful - 菊芋  
+masal - 香料  
 maste - 桅  
 mate - 物质  
-hisabolojia - 数学  
 matur - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
@@ -622,20 +638,20 @@ maxforte - 加固
 maxim (maximo) - 最  
 mece - 比赛  
 medi - 中型  
-medikosuy - 药水  
-mega\* - 百万 (兆)  
+medikosui - 药水  
 mege - 云  
-melon - 厚皮甜瓜 (蜜瓜)  
+mega\* - 百万 (兆)  
+mei - 每  
 melvesposanduke - 蜂箱  
+melon - 厚皮甜瓜 (蜜瓜)  
 mem - 记忆 (记性)  
 mema - 记得 (回忆)  
 men - 意义  
 mening - 脑脊膜  
 metalbede - 铁砧  
 metaljanger - 铁匠  
-mey (meyi) - 每  
-mezotex - 桌布  
 meze - 桌子  
+mezotex - 桌布  
 migra - 搬家  
 milkokardon - 水飞蓟  
 minte - 薄荷  
@@ -651,9 +667,9 @@ mokojanger - 木匠
 mokomate - 木材  
 mokotan - 原木  
 mol - 摩尔 (单位)  
-molekul - 分子  
 molia - 磨坊  
 molxeke - 磨石  
+molekul - 分子  
 mos - 苔藓  
 mosim - 季  
 moter - 马达 (发动机)  
@@ -663,26 +679,26 @@ mummelon - 冬瓜 (白瓜)
 mur - 墙壁  
 murkaguje - 壁纸 (墙纸)  
 murce - 蚂蚁  
-muzike - 音乐  
 muskulbin - 健美运动  
+muzike - 音乐  
 ####N - N  
+no - 不  
 nade - 河 (江)  
 najis - 污染物  
 najisa - 污染  
 namkitaba - 签署  
 nasmedi - 国际  
-nautil - 鹦鹉螺  
 navi - 九 (9)  
+nautil - 鹦鹉螺  
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
+nili - 蓝色  
 nilcentaur - 矢車菊  
 nilseramxing - 茜草花  
-nili - 蓝色  
 Nipon - 日本  
 nix - 壁龛  
 nizde - 巢 (穴)  
-no - 不  
 noce - 夜  
 norde - 北  
 nostalgia - 怀旧  
@@ -694,7 +710,7 @@ numbe - 数
 o - 或  
 oaze - оазис  
 oke - 眼睛  
-okosuygas - 催泪瓦斯  
+okosuigas - 催泪瓦斯  
 okside - 氧化物  
 onde - 波浪  
 or - 耳  
@@ -707,16 +723,18 @@ oselote - 虎貓
 osidian - 黑曜岩  
 ostojamia - 骨骼  
 ####P - P  
+pa - 到  
 pace - 和平  
 paciste - 和平主义者  
 pacistia - 和平主义  
 pagre - 包头  
+pai - 馅饼  
 pandemi patia - 大流行病  
 pang - 面包  
 pante - 裤子  
 pape - 爸爸  
-papagay - 鹉鹦  
-papay - 木瓜  
+papagai - 鹉鹦  
+papai - 木瓜  
 par - 水平  
 pari numbe - 偶数  
 param - 参数  
@@ -730,9 +748,9 @@ patojener - 病原体
 patolojia - 病理学  
 pav - 手枪  
 pax - 疼痛  
-pay - 馅饼  
 peda - 放屁  
 pede - 屁  
+peikar - 职业  
 pelmen - 饺子  
 pelpel - 蝴蝶  
 pendokardon - 垂花飞廉  
@@ -744,7 +762,6 @@ petronefte - 石油
 pex - 鱼  
 pexhuke - 鱼钩  
 pexosaider - 鱼夫  
-peykar - 职业  
 piaze - 洋葱  
 pil - 皮  
 pin - 别针  
@@ -753,13 +770,13 @@ pinkardon - 大翅蓟
 pipre - 胡椒  
 piprominte - 辣薄荷  
 pis - 云杉  
-plati gevkaskia - 板块构造论  
+plati geukaskia - 板块构造论  
 platistan - 平原  
 pliza - 请  
 plum - 李子  
 polmaro - 经常  
 pontopin - 指南针  
-porey - 韭葱  
+porei - 韭葱  
 porte - 港  
 pote - 坭  
 problem - 问题 (难题)  
@@ -773,7 +790,6 @@ puma\* - 美洲獅 (山狮)
 purfina - 完成  
 purfityamiste - 纯素食主义者  
 purxipa - 浸泡  
-ceniki - 古老 (以前)  
 putavoranje - 葡萄柚  
 putongi - 普通  
 ####Q - Q  
@@ -785,15 +801,15 @@ rari - 稀有 (稀少的)
 ras - 种族  
 ratiba - 整理  
 ratibe - 常规 (次序)  
+reya - 重复  
+reibon - 修理  
+reibona - 修理  
+reiboner - 修理工人  
 reste - 其余  
 retru - 返回 (回来)  
 retrogula - 呕吐  
 retroguli sense - 恶心  
 retrotikete - 往返票  
-reya - 重复  
-reybon - 修理  
-reybona - 修理  
-reyboner - 修理工人  
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
@@ -801,6 +817,7 @@ ritim - 节奏
 roketolancer - 火箭筒  
 Roma - 罗马  
 romakamil - 果香菊  
+rotolefto - 反时针方向的  
 rototafun - 飓风 (台风)  
 rototope - 陀螺  
 roze - 玫瑰  
@@ -816,13 +833,13 @@ saide - 狩猎
 saider - 狩人  
 sal - 盐  
 salame - 迎接  
-samay - 天空  
-samayhal - 天气  
 sami - 一样  
 sammetri - 对称  
 sammetria - 对称性  
 samrayia - 一致  
 samsifia - 模型  
+samai - 天空  
+samaihal - 天气  
 san - 三 (3)  
 sanyom - 星期三 (禮拜三)  
 sanzong - 三叉戟  
@@ -839,8 +856,8 @@ sense - 感觉
 senter - 觸手  
 ser - 锯子  
 seram - 陶瓷  
-setyom - 星期日 (禮拜日)  
 seti - 七 (7)  
+setyom - 星期日 (禮拜日)  
 siahi - 黑色  
 side - 座部 (马鞍)  
 sifloge - 形容词  
@@ -851,36 +868,35 @@ sil - 连结
 silia - 系列  
 silke - 丝绸  
 sira - 隐藏  
-sirkopurxipe - 腌菜  
 sirplan - 阴谋 (密谋)  
-sisyom - 星期六 (礼拜六)  
+sirkopurxipe - 腌菜  
 sisi - 六 (6)  
+sisyom - 星期六 (礼拜六)  
 soci jinse - 社會性別  
 socia - 社会  
 sofa\* - 沙发  
 sol - 太阳  
 solful - 向日葵  
 solsistem - 太阳系  
-song - 松  
+sonu - 睡觉 (困觉)  
 sonkamar - 卧室 (寝室)  
 sonpapil - 鴉片罌粟  
-sonu - 睡觉 (困觉)  
+song - 松  
 sor - 锁  
 sosis - 香肠  
 sova - 寻找  
+sui - 水  
+suigas - 蒸汽  
+suiyau - 口渴  
+suikaboge - 葫芦  
+suiminte - 水薄荷  
 suki - 高兴  
-sundardake - 装饰  
 sundari - 漂亮 (美)  
 sundaria - 美丽  
+sundardake - 装饰  
 suprize - 惊奇  
 susan - 百合花  
-suy - 水  
-suygas - 蒸汽  
-suykaboge - 葫芦  
-suyminte - 水薄荷  
-suyyav - 口渴  
 ####T - T  
-pa - 到  
 te - 你  
 tote - 你们  
 tablokomputer - 平板电脑  
@@ -920,17 +936,6 @@ truka - 耍花招
 truke - 伎俩  
 tuze - 兔子  
 ####U - U  
-umami - 鲜味  
-umur - 年岁  
-un (uni) - 一 (1)  
-uniki - 唯一 (独)  
-uniko - 只有 (惟独)  
-unjani - 独自的 (孤单)  
-unmaro - 一次 (一遍)  
-unyom - 星期一 (禮拜一)  
-ungle - 手指  
-ura - 好哇  
-####V - V  
 va - 在  
 va linye - 在线  
 vade - 山谷  
@@ -942,34 +947,44 @@ vampir - 吸血鬼
 van - 娱乐  
 vanu - 玩耍  
 vaxurse - 浣熊  
+vei - 尾巴 (尾部)  
 venda - 卖  
 vendoxope - 贸易  
+Venjov - 温州  
 venjovoranje - 温州蜜柑  
 ventur - 冒险  
 venturer - 冒险者  
 vespe - 蜂  
-vey - 尾巴 (尾部)  
 vida - 看  
 vidov - 寡妇  
 vijin - 味精  
+umami - 鲜味  
+umur - 年岁  
+un (uni) - 一 (1)  
+uniki - 唯一 (独)  
+uniko - 只有 (惟独)  
+unyom - 星期一 (禮拜一)  
+unjani - 独自的 (孤单)  
+unmaro - 一次 (一遍)  
+ungle - 手指  
 voda - 许诺  
 vode - 诺言  
 volu - 想要 (愿意)  
+ura - 好哇  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 ####W - W  
-Venjov - 温州  
 ####X - X  
 xalke - 鳞  
 xam - 晚上  
-Xanghay - 上海  
+Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 撒但  
 xavi - 少  
+xei - 事物 (东西)  
+xeihal - 事态  
 xeke - 石 (岩)  
-xey - 事物 (东西)  
-xeyhal - 事态  
-xibay - 失败 (击败)  
+xibai - 失败 (击败)  
 xibaya - 输  
 xibaya tena - 亏损 (失去)  
 xim - 心  
@@ -999,23 +1014,6 @@ xura - 开始
 xute - 技术  
 xuti - 熟练  
 xuxo - 噓  
-####Y - Y  
-ye - 对 (是)  
-yamfite - 蔬菜  
-yamyav - 饥饿  
-yasen - 白蜡树  
-yatimdom - 孤儿院  
-yavu - 需要  
-yavan - 必要的  
-yavxina - 信赖  
-yavxinabli - 忠实  
-yoge - 瑜伽功  
-yoke - 轭  
-yom - 日  
-yomsete - 週  
-yongu - 融化  
-yongopetre - 熔岩  
-yongosaha - 熔炼  
 ####Z - Z  
 zebre - 斑马  
 zeyil - 疣  

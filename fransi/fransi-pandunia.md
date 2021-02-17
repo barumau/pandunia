@@ -105,7 +105,7 @@ Asie - Asia
 aspirine - aspirin  
 assez - basi  
 asthme - asme  
-astrobiologie - kosmobivlojia  
+astrobiologie - kosmobiulojia  
 atchoum - acu\*  
 Athènes - Atina  
 attaquer (agresser) - agresa  
@@ -123,12 +123,12 @@ avoir tendance à - iva
 axe - akse  
 azur - lazuri  
 aéroport - airporte  
-aïe! - ay  
+aïe! - ai  
 ####B - B  
 babord - botolefte  
 backgammon - narde  
 bagage - bagaje  
-baie - bay  
+baie - bai  
 baie - ber  
 bain - banye  
 baisser - tala  
@@ -162,8 +162,8 @@ bibliothèque - kitabokan
 bicyclette - sikle  
 bilingue - dulbaxi  
 billet - tikete  
-biologie - bivlojia  
-biome - bivsistem  
+biologie - biulojia  
+biome - biusistem  
 bière - bir  
 blanc - baki  
 blettes (bettes) - selge  
@@ -218,7 +218,7 @@ Camomille sauvage - kamil
 canapé (sofa) - kanape  
 canapé (sofa) - sofa\*  
 Canne à sucre - xukarcav  
-canon - daypav  
+canon - daipau  
 canoë - kano\*  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanion  
@@ -229,11 +229,11 @@ Caraïbes - Karaibia
 cardon - kardonkarcof  
 carotte - karote  
 carreau (tuile) - tail  
-carrière - peykari jiv  
-carte - gevgraf  
+carrière - peikari jiu  
+carte - geugraf  
 carte - karde  
 carte à collectionner - jamkarde  
-cartographie (geographie) - gevgrafia  
+cartographie (geographie) - geugrafia  
 Centaurée - centaur  
 Centaurée bleuet - nilcentaur  
 Centaurée du solstice - solcentaur  
@@ -255,8 +255,8 @@ chardon penché - pendokardon
 charme - carme  
 chasser - saida  
 chat - mav  
-chaudron - dayvaze  
-chauve-souris - feymux  
+chaudron - daivaze  
+chauve-souris - feimux  
 chaux - kalsomate  
 chef - xef  
 chemise - kamis  
@@ -266,14 +266,14 @@ chien - vaf
 chimie - kimlojia  
 Chine - Junguo  
 chocolat - cokolate  
-chose - xey  
+chose - xei  
 chronique - duriki  
 chronomètre - durmetrer  
 chu - padi  
 chêne - balute  
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
-ciel - samay  
+ciel - samai  
 cime (pic, sommet) - pike  
 cimetière - gabristan  
 cinq (5) - limi  
@@ -293,13 +293,13 @@ commercer - vendoxopa
 compassion - samemos  
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
-compost - bivcaniver  
+compost - biucaniver  
 compote de pommes - apelsos  
 comprendre (réaliser) - aha  
 concert - konserte  
 concombre - hiar  
 concombre confit (cornichon) - sirkopurxipi hiar  
-concombre de mer - hayhiar  
+concombre de mer - haihiar  
 conseil - sel  
 conseiller - sela  
 considérer - hema  
@@ -352,7 +352,7 @@ culturisme (musculation) - muskulbin
 cycliste - sikliste  
 cytologie - celolojia  
 célérité - siri mote  
-côte - haytate  
+côte - haitate  
 côté - late  
 ####D - D  
 dance - danse  
@@ -368,7 +368,7 @@ destin - cenamen
 deux (2) - duli  
 devoir - debu  
 diamant - almas  
-dieu - dev  
+dieu - deu  
 dimanche - setyom  
 dinde (dindon) - dinde  
 diorite - diorite  
@@ -403,7 +403,7 @@ déchirer - cira
 développement - darjomute  
 ####E - E  
 east (orient) - dong  
-eau - suy  
+eau - sui  
 effectuer - asara  
 effet - asar  
 effrayant - fobani  
@@ -445,25 +445,25 @@ favori (préféré) - favori
 favoritisme - favoristia  
 fente (fissure, fêlure) - krake  
 fenêtre - janel  
-fermenter - bivmutu  
+fermenter - biumutu  
 feu - hoge  
 feu d’artifice - hogotehne  
-fier - yavxina  
+fier - yauxina  
 fil - korde  
 fils ou fille - pute  
 fini - fini  
 fiord - fiorde  
 fleur - ful  
 flèche - flece  
-foin - gancav  
+foin - gancau  
 fois - mar  
 fondu - yongosaha  
 football - futobol  
-force navale (marine) - haygun  
+force navale (marine) - haigun  
 forer (percer) - fora  
 forêt (jungle) - jangle  
 forêt de kelp - algojangle  
-fosse - kav  
+fosse - kau  
 fougères - parne  
 fourmi - murce  
 fragment - parce  
@@ -479,7 +479,7 @@ féliciter - barka
 galaxie - galaksia  
 Gaule - Galia  
 gaz - gas  
-gaz lacrymogène - okosuygas  
+gaz lacrymogène - okosuigas  
 gazelle - gazel  
 geler (glacer) - aisu  
 genou - gute  
@@ -493,7 +493,7 @@ gorille - goril
 goule - gul  
 gouvernement - governe  
 granit - granite  
-gravire - grav  
+gravire - grau  
 grenouille - krokroke  
 grimace - grimas  
 groupe - grupe  
@@ -508,15 +508,15 @@ généralissime - gunrajer
 généreux - donivi  
 généreux - karimi  
 générosité (charité) - karimia  
-géologie - gevlojia  
-géométrie - gevmetria  
-géopolitique - gevpolitike  
-géothermique - gevtermi  
+géologie - geulojia  
+géométrie - geumetria  
+géopolitique - geupolitike  
+géothermique - geutermi  
 ####H - H  
 habiller (vêtir) - fuka  
 haine - hen  
 hameçon - pexhuke  
-haut - gav  
+haut - gau  
 Hesse - Hesia  
 heure - hor  
 heureux - suki  
@@ -645,7 +645,7 @@ marbre - kalsokristal
 marche - marce  
 marché (bazar) - bazar  
 mardi - dulyom  
-margay (chat-tigre) - margay  
+margay (chat-tigre) - margai  
 marguerite - bakomargarite  
 mariage - gamia  
 Maroc - Magribia  
@@ -660,10 +660,10 @@ maître - mester
 medio - medi  
 melt - yongu  
 menthe - minte  
-Menthe aquatique - suyminte  
+Menthe aquatique - suiminte  
 menthe poivrée - piprominte  
 menthe verte - zongominte  
-mer - hay  
+mer - hai  
 mercredi - sanyom  
 Mercure - Merkur  
 merde - xite  
@@ -702,7 +702,7 @@ mycélium - fungonete
 mât - maste  
 mère (maman) - mam  
 mètre - mitre  
-méduse - hayjel  
+méduse - haijel  
 mémoire - mem  
 méninge - mening  
 ####N - N  
@@ -740,7 +740,7 @@ obsidienne - osidian
 occupé - mangi  
 ocelot - oselote  
 oculaire - oki  
-océan - dayhay  
+océan - daihai  
 odeur - arom  
 oeuf - ande  
 oignon - piaze  
@@ -761,7 +761,7 @@ ordinateur tablette - tablokomputer
 ordre - ratibe  
 ordures - laje  
 oreille - or  
-organisme - biv  
+organisme - biu  
 origine - asle  
 originel - asli  
 orphelinat - yatimdom  
@@ -769,7 +769,7 @@ orthogonal - ortogoni
 otite - oritis  
 ou - o  
 oublier - anmema  
-oubliette (cul de basse-fosse) - gevnici prizon  
+oubliette (cul de basse-fosse) - geunici prizon  
 oui - ye  
 ours - urse  
 oxyde - okside  
@@ -780,14 +780,14 @@ page - varkolate
 pain - pang  
 pair (pareil, egal) - pari  
 paix - pace  
-palais (château, manoir) - daydom  
+palais (château, manoir) - daidom  
 pamplemousse - putavoranje  
 panda - pande  
 pandémie - pandemi patia  
-panneau de signalisation - davban  
+panneau de signalisation - dauban  
 pantalon - pante  
 pantoufle (babouche) - babuce  
-papaye - papay  
+papaye - papai  
 papier - kaguje  
 papier peint - murkaguje  
 papillon - pelpel  
@@ -805,7 +805,7 @@ pastèque - arbuze
 pathologie - patolojia  
 patient - patike  
 pause - pauze  
-pavot d'Orient - guypapil  
+pavot d'Orient - guipapil  
 pavot somnifère - sonpapil  
 pavé - cirkoxeke  
 peindre - penta  
@@ -816,7 +816,7 @@ perder - xibaya tena
 pere (papa) - pape  
 perfectionner (parfaire) - purbona  
 perplexe (désorienté) - ruhmixi  
-perroquet - papagay  
+perroquet - papagai  
 personne (gente) - jan  
 pet (vesse) - pede  
 petit - lili  
@@ -827,7 +827,7 @@ philosophie - filsofia
 photographie - fotograf  
 photographie - fotografia  
 pierre - xeke  
-pierre précieuse (joyau) - bavxeke  
+pierre précieuse (joyau) - bauxeke  
 pierre tombale - gabroxeke  
 pieu (poteau) - zong  
 pile (batterie) - batre  
@@ -846,16 +846,16 @@ plan - plan
 planche - mokoban  
 plante (végétal) - fite  
 planter - poza  
-plaque tectonique - gevkaski plate  
+plaque tectonique - geukaski plate  
 plein - puri  
 pluie - barxe  
 plume - kalam  
 plurilingue (multilingue) - polbaxi  
 plus - max (maxo)  
 pluvieux - barxi  
-pocion - medikosuy  
-podzol - huydarte  
-poireau - porey  
+pocion - medikosui  
+podzol - huidarte  
+poireau - porei  
 poisson - pex  
 poisson-globe - balonpex  
 poivre - pipre  
@@ -869,7 +869,7 @@ porte-bloc (planchette à pince) - pinsoban
 porter (s’habiller) - fuku  
 Porto Rico - Portorikia  
 Portoricain - portoriki  
-posidonie (herbiers marins) - haycav  
+posidonie (herbiers marins) - haicau  
 possible - abli  
 possédant (propriétaire) - malker  
 Poulpe (pieuvre) - balsenter  
@@ -882,7 +882,7 @@ preuve - dalil
 problème - problem  
 problématique - problemi  
 professeur (enseignant) - xulaner  
-profession (métier) - peykar  
+profession (métier) - peikar  
 profond - fasteli  
 programme - program  
 projectile - lancite  
@@ -922,9 +922,9 @@ rayon de miel - melvesponizde
 rein - nefre  
 religion - din  
 remplir - pura  
-renard - huley  
+renard - hulei  
 repos - xante  
-reprendre - reyzoka  
+reprendre - reizoka  
 requin - xarke  
 reste - reste  
 retourner (revenir) - retru  
@@ -937,7 +937,7 @@ rivière (fleuve) - nade
 riz - ris  
 robot - robote  
 roche (pierre) - petre  
-rocher - dayxeke  
+rocher - daixeke  
 Rome - Roma  
 rose - roze  
 rosée - ros  
@@ -947,12 +947,12 @@ ruban (bande) - tepe
 rubis - lalbavxeke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
-réparateur - reyboner  
-réparation - reybon  
-réparer - reybona  
+réparateur - reiboner  
+réparation - reibon  
+réparer - reibona  
 réponse - javabe  
 répéter - reya  
-répétition - rey  
+répétition - rei  
 rêche (rugueux, gros) - karsi  
 rôtir - rosta  
 ####S - S  
@@ -1001,11 +1001,11 @@ si - aga
 signer - namkitaba  
 silex - hogoxeke  
 simulation - samsifia  
-situation (état de choses) - xeyhal  
+situation (état de choses) - xeihal  
 six (6) - sisi  
 société - socia  
 soie - silke  
-soif - suyyav  
+soif - suiyau  
 soldat - gunjan  
 soleil - sol  
 son (sa) - si  
@@ -1032,26 +1032,26 @@ s’accroupir - indosida
 table - meze  
 tableau (panneau) - ban  
 tablette de chocolat - cokolatobaton  
-tarte - pay  
-tasse à thé - caykupe  
+tarte - pai  
+tasse à thé - caikupe  
 taupe - krote  
 taximètre - taksometrer  
 technique - tehne  
 technologie - tehnolojia  
-tectonique des plaques - plati gevkaskia  
+tectonique des plaques - plati geukaskia  
 temple - pujokan  
 temps (durée) - dur  
-tendance - iv  
+tendance - ivia  
 tender - eksotira  
 tentacule - senter  
 tente - hemah  
-terrain - gevforme  
+terrain - geuforme  
 Terre - Gevia  
 terre cuite - bekopote  
 terreplatiste - platogeviste  
 terrorisme - teroristia  
-thé - cay  
-théosophie - devsofia  
+thé - cai  
+théosophie - deusofia  
 tige - tan  
 tigre - bagre  
 tirer - tira milke  
@@ -1092,14 +1092,13 @@ une fois - unmaro
 uniquement - uniko  
 uranium - uranem  
 Uranus - Uran  
-####V - V  
 vagine - vagin  
 vaginite - vaginitis  
 valeur - val  
 vallée (oued) - vade  
 vampire - vampir  
 vampire des abysses - vampirbalsenter  
-vapeur d’eau - suygas  
+vapeur d’eau - suigas  
 varech - varkalge  
 vase - vaze  
 vendre - venda  
@@ -1115,7 +1114,7 @@ verrue - zeyil
 vert - lugi  
 veuve - vidov  
 viande - manse  
-vie - jiv  
+vie - jiu  
 vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
@@ -1131,6 +1130,7 @@ vocabulaire (lexique) - logia
 voile - hijabe  
 voir - vida  
 voire (même) - hato  
+vol - fei  
 volcan - hogoxan  
 voler - feyu  
 vouloir - volu  
@@ -1145,7 +1145,6 @@ vœu (promesse) - vode
 ####W - W  
 wolof - Volof  
 ####X - X  
-####Y - Y  
 ####Z - Z  
 zombi - zombe  
 zone - zon  
@@ -1158,7 +1157,7 @@ zèbre - zebre
 Égypte - Misria  
 Épicéa - pis  
 âge - umur  
-échec - xibay  
+échec - xibai  
 échelle - xalke  
 école (collège) - xulkan  
 école primaire - bazoxulkan  

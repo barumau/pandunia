@@ -20,7 +20,7 @@ afegão - afgani
 agacharse - indosida  
 agente - ater  
 agressor - agreser  
-ai! - ay  
+ai! - ai  
 ainda - zoko  
 alaranjado - oranji  
 alcachofra - karcof  
@@ -32,7 +32,7 @@ alfinete - pin
 alga - alge  
 algodão - goton  
 alho - lasun  
-alho-porro - porey  
+alho-porro - porei  
 aligátor (jacaré) - kortokrokodil  
 almirante - hayamirer  
 altar - pujomeze  
@@ -73,7 +73,7 @@ aspirina - aspirin
 assinar - namkitaba  
 assustador - fobani  
 assustar - foba  
-astrobiologia - kosmobivlojia  
+astrobiologia - kosmobiulojia  
 ataque - agres  
 Atenas - Atina  
 ativo - ativi  
@@ -108,7 +108,7 @@ base - baze
 basebol (beisebol) - bazobol  
 basketball - baskobol  
 bastante (suficiente) - basi  
-baía - bay  
+baía - bai  
 bebê - bebe  
 beleza - sundaria  
 belo (lindo) - sundari  
@@ -116,8 +116,8 @@ biblioteca - kitabokan
 bigorna - metalbede  
 bilhete - tikete  
 bilíngue - dulbaxi  
-biología - bivlojia  
-bioma - bivsistem  
+biología - biulojia  
+bioma - biusistem  
 bola - bol  
 bom - boni  
 bomba - bombe  
@@ -133,7 +133,7 @@ bravo (valente, corajoso) - bravi
 bravo! - bravo  
 braço - handoxake  
 Buda - Bude  
-buraco - kav  
+buraco - kau  
 buscar (procurar) - sova  
 bétula - berje  
 ####C - C  
@@ -154,7 +154,7 @@ camomila-vulgar - kamil
 cana-de-açúcar - xukarcav  
 canguru - kangaru\*  
 canhão (ravina, barranco) - kanion  
-canhǎo - daypav  
+canhǎo - daipau  
 canoa - kano\*  
 Cantalupo in Sabina - Kantalupo va Sabina  
 capa - mantol  
@@ -166,15 +166,15 @@ careta (esgar) - grimas
 Caribe - Karaibia  
 carne - manse  
 carrapato (ácaros) - akar  
-carreira - peykari jiv  
+carreira - peikari jiu  
 carta - karde  
-carta geográfica - gevgraf  
-cartografia - gevgrafia  
+carta geográfica - geugraf  
+cartografia - geugrafia  
 Cartum - Hartum  
 carvalho - balute  
 carvalho-roble - europobalute  
 casca (concha) - kaske  
-cascalho - grav  
+cascalho - grau  
 castanho (marrom) - bruni  
 cavar (escavar) - kava  
 caçar - saida  
@@ -191,7 +191,7 @@ Champagne - Xampan
 champaña - Xampan vin  
 chance - canse  
 charme - carme  
-chavena (tigela de chá) - caykupe  
+chavena (tigela de chá) - caikupe  
 chefe - xef  
 cheio - puri  
 cheirar - aromu  
@@ -200,7 +200,7 @@ China - Junguo
 chocolate - cokolate  
 chuva - barxe  
 chuvoso (pluvioso) - barxi  
-chá - cay  
+chá - cai  
 ciclista - sikliste  
 cidade - site  
 cinco (5) - limi  
@@ -210,7 +210,7 @@ claro - klari
 cliente - klien  
 coelho (lebre) - tuze  
 cogumelo - fungopal  
-coisa - xey  
+coisa - xei  
 colaborar - konkara  
 colar (aderir) - gluta  
 colher - camace  
@@ -229,7 +229,7 @@ concerto - konserte
 condutor (chofer, motorista) - xofer  
 conduzir - xofa  
 conexão (vínculo, laço) - linke  
-confiar (contar com) - yavxina  
+confiar (contar com) - yauxina  
 conselho - sel  
 considerar - hema  
 construir - bina  
@@ -244,7 +244,7 @@ corredor - korer
 correr - kora  
 correto (justo) - sahi  
 cosmo - kosmia  
-costa - haytate  
+costa - haitate  
 costume (hábito) - ade  
 crente - diniste  
 crepe (panqueca) - krepe  
@@ -263,7 +263,7 @@ cubo - kube
 cume (pico, topo) - pike  
 cápsico - cili\*  
 cão (cachorro) - vaf  
-céu - samay  
+céu - samai  
 cópia - kope  
 cósmico - kosmi  
 ####D - D  
@@ -283,7 +283,7 @@ desenvolvimento - darjomute
 deslizar - glisu  
 despertar - jagu  
 destino - cenamen  
-deus - dev  
+deus - deu  
 dever - debu  
 dia - den  
 diamante - almas  
@@ -332,7 +332,7 @@ enterrar - gabra
 enxada - cope  
 erro (falta) - galte  
 errôneo - galti  
-erva marinha - haycav  
+erva marinha - haicau  
 escama - xalke  
 escola (colégio) - xulkan  
 escovinha (centáurea) - nilcentaur  
@@ -347,7 +347,7 @@ esmeralda - zumurude
 espada - katan  
 espaço - kali harfe  
 espirrar - acua  
-espodossolo - huydarte  
+espodossolo - huidarte  
 esponja - esponje  
 esposo ou esposa - gamike  
 esquecer - anmema  
@@ -380,8 +380,8 @@ fazenda (tecido) - tex
 fazer - fata  
 fechadura - sor  
 feliz - suki  
-feno - gancav  
-fermentar - bivmutu  
+feno - gancau  
+fermentar - biumutu  
 filho ou filha - pute  
 filosofia - filsofia  
 fio (linha) - korde  
@@ -413,14 +413,14 @@ gancho - huke
 garrafa (botelha) - botel  
 gato - mav  
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
-gato-maracajá - margay  
+gato-maracajá - margai  
 gelar - aisu  
 generalíssimo - gunrajer  
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
 genótipo - jentipe  
-geometria - gevmetria  
-geopolítica - gevpolitike  
+geometria - geumetria  
+geopolítica - geupolitike  
 Germânia - Germania  
 girafa - jiraf  
 girassol - solful  
@@ -438,7 +438,7 @@ guiar - gida
 guitarra - gitar  
 Gália - Galia  
 gás - gas  
-gás lacrimogéneo - okosuygas  
+gás lacrimogéneo - okosuigas  
 gênero gramatical - baxi jinse  
 ####H - H  
 haste (talo, caule) - tan  
@@ -449,7 +449,7 @@ honra - onor
 honrar - onora  
 hora - hor  
 hortelã - minte  
-hortelã-da-água - suyminte  
+hortelã-da-água - suiminte  
 hortelã-pimenta - piprominte  
 hortelã-verde - zongominte  
 hotel - hotel  
@@ -549,18 +549,18 @@ macroalga - hayalge
 magnésio - magesem  
 mais - max (maxo)  
 maldição - lan  
-mamão (papaia) - papay  
+mamão (papaia) - papai  
 manga - kamisi xake  
 maniqueísmo - manihayistia  
 mantra - mantre  
-mar - hay  
+mar - hai  
 maravilha - ajabe  
 marcha - marce  
 margarida - margarite  
 margarida-comum - englomargarite  
 margarita-maior - bakomargarite  
 margem - tate  
-marinha - haygun  
+marinha - haigun  
 Marrocos - Magribia  
 Marte - Marse  
 marítimo - hayi  
@@ -570,7 +570,7 @@ matadouro - bucokan
 matemática - hisabolojia  
 matéria - mate  
 maçã - apel  
-medusa - hayjel  
+medusa - haijel  
 meio (metade) - mede  
 mel - mel  
 melancia - arbuze  
@@ -654,7 +654,7 @@ oasis - oaze
 objetivo - dike  
 oblíquo (torto) - terci  
 obsidiana - osidian  
-oceano - dayhay  
+oceano - daihai  
 ocular - oki  
 ocultar (esconder) - sira  
 ocupado (atarefado) - mangi  
@@ -668,7 +668,7 @@ opção - cuzable
 ordem - ratibe  
 orelha - or  
 orfanato - yatimdom  
-organismo - biv  
+organismo - biu  
 origem - asle  
 original - asli  
 orquídea - orkide  
@@ -687,7 +687,7 @@ padeiro - beker
 pai - pape  
 painel - ban  
 palavra (vocábulo) - loge  
-palácio (mansão, palacete) - daydom  
+palácio (mansão, palacete) - daidom  
 panda - pande  
 pandemia - pandemi patia  
 papel - kaguje  
@@ -707,8 +707,8 @@ paz - pace
 pederneira - hogoxeke  
 pedir emprestado - jekogeta  
 pedra - xeke  
-pedra preciosa (gema) - bavxeke  
-pedregulho - dayxeke  
+pedra preciosa (gema) - bauxeke  
+pedregulho - daixeke  
 pedrinha - lilxeke  
 pegajoso (adesivo) - gluti  
 peidar - peda  
@@ -717,7 +717,7 @@ peixe - pex
 pele - pil  
 pepino - hiar  
 pepino-africano (kiwano) - kornomelon  
-pepino-do-mar (holotúrias) - hayhiar  
+pepino-do-mar (holotúrias) - haihiar  
 pequeno - lili  
 perdedor - xibayer  
 perder - xibaya tena  
@@ -744,7 +744,7 @@ ponte - pul
 por exemplo - misalo  
 por muito tempo - longoduro  
 porto - porte  
-porto marítimo - hayporte  
+porto marítimo - haiporte  
 Porto Rico - Portorikia  
 porto-riquenho - portoriki  
 possível - abli  
@@ -758,7 +758,7 @@ precioso - bavi
 preto - siahi  
 problema - problem  
 professor (docente) - xulaner  
-profissão - peykar  
+profissão - peikar  
 profundo - fasteli  
 programa - program  
 projeto - projete  
@@ -795,7 +795,7 @@ quivi - kivi\*
 química - kimlojia  
 ####R - R  
 rachadura - krake  
-raposa - huley  
+raposa - hulei  
 raro - rari  
 rasgar - cir  
 rasgar - cira  
@@ -806,11 +806,11 @@ relier (connecter) - linka
 religião - din  
 relógio - horloger  
 remover - kita  
-reparador - reyboner  
-reparar - reybona  
-reparo - reybon  
+reparador - reiboner  
+reparar - reibona  
+reparo - reibon  
 repetir - reya  
-repetição - rey  
+repetição - rei  
 reserva - rezerve  
 resposta - javabe  
 resto - reste  
@@ -854,7 +854,7 @@ se - aga
 se - se  
 seabórgio - siborgem  
 seda - silke  
-sede - suyyav  
+sede - suiyau  
 segunda-feira - unyom  
 seguro - sekuri  
 seis (6) - sisi  
@@ -875,7 +875,7 @@ simetria - sammetria
 simulação - samsifia  
 simétrico - sammetri  
 sino (campainha) - danger  
-situaçao - xeyhal  
+situaçao - xeihal  
 sociedade - socia  
 sol - sol  
 soldado - gunjan  
@@ -894,7 +894,7 @@ tablet - tablokomputer
 tangerina (mandarim) - laloranje  
 taxímetro - taksometrer  
 tear - texmaxin  
-tectónica de placas - plati gevkaskia  
+tectónica de placas - plati geukaskia  
 telefonar - telfona  
 telefonia - telfonia  
 temer - fobu  
@@ -902,16 +902,16 @@ tempero - masal
 templo - pujokan  
 tempo (duração) - dur  
 tender - iva  
-tendência - iv  
+tendência - ivia  
 tentar (provar) - testa  
 tentáculo - senter  
-teosofia - devsofia  
+teosofia - deusofia  
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
 terracota - bekopote  
 terraplanista - platogeviste  
-terreno - gevforme  
+terreno - geuforme  
 terça-feira - dulyom  
 teste - teste  
 tigre - bagre  
@@ -921,7 +921,7 @@ toalha de mesa - mezotex
 tomate - tomate  
 tora - mokotan  
 toranja - putavoranje  
-torta - pay  
+torta - pai  
 toupeira - krote  
 trabalhador - karer  
 trabalhar - kara  
@@ -950,7 +950,6 @@ Urano - Uran
 urra - ura  
 urso - urse  
 usar - aplika  
-####V - V  
 vagina - vagin  
 vaginite - vaginitis  
 vale (uadi) - vade  
@@ -958,7 +957,7 @@ valer - valu
 valor (valia) - val  
 valorar - vala  
 vampiro - vampir  
-vapor - suygas  
+vapor - suigas  
 vara (bastão) - baton  
 vazar - lova  
 vegetalista - purfityamiste  
@@ -970,7 +969,7 @@ verbo - karloge
 verdadeiro - veri  
 verde - lugi  
 verdura (hortaliça, legume) - yamfite  
-verdura - coy  
+verdura - coi  
 verme - verme  
 vermelho - lali  
 vermute - vermute  
@@ -978,7 +977,7 @@ verruga - zeyil
 verão - garmomosim  
 vestir - fuka  
 vez - mar  
-vida - jiv  
+vida - jiu  
 vidro - kance  
 vir - laya  
 vivo - jivi  
@@ -988,6 +987,7 @@ vocabulário - logia
 vogal - jungofon  
 voltar (retornar) - retru  
 vontade - vol  
+voo - fei  
 votar - vota  
 voto - vote  
 vulcão - hogoxan  
@@ -997,14 +997,13 @@ Vénus - Venus
 véu - hijabe  
 ####W - W  
 ####X - X  
-####Y - Y  
 ####Z - Z  
 zebra - zebre  
 zona - zon  
 zoológico - hevanparke  
 zumbi - zombe  
 ágil - ajili  
-água - suy  
+água - sui  
 álcool - alkol  
 área de transferência - katoglutoban  
 árvore - moke  
