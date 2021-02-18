@@ -1178,10 +1178,10 @@
 |**sofia**|sabiduría|ell:σοφία (sofía)|
 |**soke**|calcetín|deu:Socke, eng:sock, swa:soksi, zul:isokisi, jpn:ソックス (sokkusu), rus:носок (nosok)|
 |**sol**|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
-|**son**|sueño|rus:сон (son), por:sono, hin:सोना (sonā), ben:শোয়া (śoya)|
-|**sonde**|sonido (audio)|eng:sound,sonic, fra:son, spa:son,sonido, ita:suono, + kor:소리 (sori)|
+|**som**|sueño|fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: نَوْم‎ (nawm)|
+|**sompapil**|adormidera (amapola real)|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|
+|**son**|sonido (audio)|eng:sonic, fra:son, spa:son,sonido, por:som, ita:suono, + kor:소리 (sori) + zho:声 (shēng), wuu:声 (sən)|
 |**song**|pino|zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)|
-|**sonpapil**|adormidera (amapola real)|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|
 |**sor**|cerradura (candado)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sos**|salsa|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|
 |**sosis**|salchicha|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|

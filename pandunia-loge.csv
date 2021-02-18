@@ -134,6 +134,7 @@ an.mem:a|anmema||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ
 an.pac:e|anpace||||unrest|||||||||||||||malpaco|levottomuus (konflikti)|niepokój
 an.romans:i|anromansi||||aromantic||arromántico|||||||||||||||aromantyczny
 an.seks:i|anseksi||||asexual||asexual|||||||||||||||aseksualny
+an.som:ia|ansomia||||insomnia|insomnie|insomnio|insônia|бессонница (инсомния)||失眠|不眠症|불면증|mất ngủ|अनिद्रा||||uykusuzluk|sendormeco|unettomuus|
 an.sor:a|ansora||||unlock||||||||||||||||avata lukko|otworzyć (otwierać, odkluczyć, odkluczać)
 an.sor:i|ansori||||unlocked||||||||||||||||lukitsematon|zamknięty na klucz (zakluczony)
 an.tap:a|antapa||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
@@ -3249,14 +3250,14 @@ sol.estas:|solestas||||solstice||solsticio||||||||||||||päivänseisaus|przesile
 sol.ful:|solful|biv|Helianthus annus||sunflower|Tournesol|girasol|girassol|подсолнечный||向日葵|ヒマワリ||||||||||słonecznik
 sol.sistem:|solsistem||||solar system||sistema solar||||太阳系|||||||||sunsistemo|aurinkokunta|układ słoneczny
 Solomon: nes:ia|Solomon nesia|dex|SB||Solomon Islands||Islas Salomón||||||||||||||Salomon-saaret|Wyspy Salomona
+som:|som|||fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: نَوْم‎ (nawm)|sleep|sommeil|sueño|sono||نَوْم‎|||||नींद|||||dormo|nukkuminen (uni)|sen
+som:u|somu||||sleep (be asleep)|dormir|dormir|dormir|спать||睡觉 (困觉)|寝る|자다||सोना|শোয়া|tidur|kulala|uyumak|dormi|nukkua|spać
+som.kamar:|somkamar||||bedroom|chambre à coucher|dormitorio|quarto (dormitório)|спальня||卧室 (寝室)|寝室|침실|phòng ngủ|शयनकक्ष||kamar tidur|chumba cha kulala|yatak odası|dormoĉambro|makuuhuone|sypialnia
+som.papil:|sompapil|biv|Papaver somniferum|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|opium poppy|pavot somnifère|adormidera (amapola real)|papoila-dormideira|мак снотворный||鴉片罌粟|ケシ||||||mpopi||||mak lekarski
 Somal:ia|Somalia|dex|SO||Somalia||Somalia||||||||||||||Somalia|Somalia
 Somal.dex:|Somaldex|dex|||Somaliland||Solamilandia||||||||||||||Somalimaa|Somaliland
-son:|son|||rus:сон (son), por:sono, hin:सोना (sonā), ben:শোয়া (śoya)|sleep||sueño|||||||||||||dormo|nukkuminen (uni)|sen
-son:u|sonu||||sleep (be asleep)|dormir|dormir|dormir|спать||睡觉 (困觉)|寝る|자다||सोना|শোয়া|tidur|kulala|uyumak|dormi|nukkua|spać
-son.kamar:|sonkamar||||bedroom|chambre à coucher|dormitorio|quarto (dormitório)|спальня||卧室 (寝室)|寝室|침실|phòng ngủ|शयनकक्ष||kamar tidur|chumba cha kulala|yatak odası|dormoĉambro|makuuhuone|sypialnia
-son.papil:|sonpapil|biv|Papaver somniferum|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|opium poppy|pavot somnifère|adormidera (amapola real)|papoila-dormideira|мак снотворный||鴉片罌粟|ケシ||||||mpopi||||mak lekarski
-sond:a|sonda||||sound (make a sound)||sonar||||||||||||||ääntää|brzmieć, wydać dźwięk, wydawać dźwięk
-sond:e|sonde|||eng:sound,sonic, fra:son, spa:son,sonido, ita:suono, + kor:소리 (sori)|sound (audio)||sonido (audio)|||||||||||||sono|ääni|dźwięk, brzmienie
+son:|son|||eng:sonic, fra:son, spa:son,sonido, por:som, ita:suono, + kor:소리 (sori) + zho:声 (shēng), wuu:声 (sən)|sound (audio)|son|sonido (audio)|som||||||||||||sono|ääni|dźwięk, brzmienie
+son:a|sona||||sound (make a sound)||sonar||||||||||||||ääntää|brzmieć, wydać dźwięk, wydawać dźwięk
 song:|song|biv|Pinus|zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)|pine tree||pino|pinheiro|сосна||松|マツ|||चीड़|||||pino|mänty|sosna
 sor:|sor|||zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|lock (fastener)|serrure|cerradura (candado)|fechadura|замок||锁|錠||||||||||zamek (zapięcie)
 sor:a|sora||||lock (fasten)|||||||||||||||||zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)

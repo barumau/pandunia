@@ -1525,7 +1525,7 @@ maksaa - peya
 maksimi (enimmäismäärä) - maxime  
 maksu - pei  
 maku - guste  
-makuuhuone - sonkamar  
+makuuhuone - somkamar  
 malagassi - malagasi  
 malaiji - malayi  
 malajalam (eräs intialainen kieli) - malayali  
@@ -1804,8 +1804,8 @@ noviisi (uusikko, vasta-alkaja) - novike
 nudismi - nudistia  
 nudisti - nudiste  
 nukke - pupe  
-nukkua - sonu  
-nukkuminen (uni) - son  
+nukkua - somu  
+nukkuminen (uni) - som  
 nuoli - flece  
 nuori - jovani  
 nuorukainen - jovan  
@@ -2940,6 +2940,7 @@ ulottuvilla - aksesabli
 ulvoa - ulula  
 ulvonta - ulul  
 umami (ruokaisanmakuinen) - umami  
+unettomuus - ansomia  
 Unkari - Magyaria  
 unohtaa - anmema  
 upea (hieno) - kuli  
@@ -3269,12 +3270,12 @@ zulu - Zulu
 äsken (vasta, juuri) - novo  
 äänestää - vota  
 ääni (äänestyksessä) - vote  
-ääni - sonde  
+ääni - son  
 äänioikeus - votohake  
 äänne (foneemi) - fonem  
 äänne (fooni) - fon  
 ääntää (lausua) - fona  
-ääntää - sonda  
+ääntää - sona  
 äärettömyys (rajattomuus) - anlimitia  
 ĉampano - Xampan vin  
 šakaali - xakal  

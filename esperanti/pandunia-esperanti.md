@@ -75,6 +75,7 @@ anjama - disigi
 anjani - fremda (nekonata)  
 anmema - forgesi  
 anpace - malpaco  
+ansomia - sendormeco  
 analiza - analizi  
 analize - analizo  
 ande - ovo  
@@ -1545,10 +1546,10 @@ soke - ŝtrumpo
 sol - suno  
 solcate - sunombrelo  
 solsistem - sunsistemo  
-son - dormo  
-sonu - dormi  
-sonkamar - dormoĉambro  
-sonde - sono  
+som - dormo  
+somu - dormi  
+somkamar - dormoĉambro  
+son - sono  
 song - pino  
 sos - saŭco  
 sosis - kolbaso  

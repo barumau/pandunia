@@ -1130,8 +1130,8 @@
 |**sofia**|viisaus|kreikka:σοφία (sofía)|
 |**soke**|sukka|deu:Socke, englanti:sock, suahili:soksi, zulu:isokisi, japani:ソックス (sokkusu), venäjä:носок (nosok)|
 |**sol**|aurinko|espanja:portugali:sol, ranska:soleil, + hindi:सौर (sOr), telugu:(saur)|
-|**son**|nukkuminen (uni)|venäjä:сон (son), portugali:sono, hindi:सोना (sonā), bangla:শোয়া (śoya)|
-|**sonde**|ääni|englanti:sound,sonic, ranska:son, espanja:son,sonido, italia:suono, + korea:소리 (sori)|
+|**som**|nukkuminen (uni)|ranska:sommeil, portugali:sono, venäjä:сон (son), hindi:सोना (sonā), bangla:শোয়া (śoya) + arabia: نَوْم‎ (nawm)|
+|**son**|ääni|englanti:sonic, ranska:son, espanja:son,sonido, portugali:som, italia:suono, + korea:소리 (sori) + yleiskiina:声 (shēng), wu-kiina:声 (sən)|
 |**song**|mänty|yleiskiina:松 (sōng), wu-kiina:(son), thai:สน (sǒn), korea:솔 (sol), vietnami:thông, + venäjä:сосна (sosna)|
 |**sos**|kastike (soosi)|englanti:ranska:sauce, venäjä:соус (sous), hindi:सॉस (sos), deu:Soße, vietnami:xốt, japani:ソース (sōsu), thai:ซอส (soot), korea:소스 (soseu), malaiji:saus|
 |**sosis**|makkara|ranska:saucisse, turkki:malaiji:sosis, persia:(sosis), venäjä:сосиска  (sosiska), japani:ソーセージ (sosēji), hindi:सॉसेज (sosej), bangla:সসেজ (sôsej), englanti:sausage|

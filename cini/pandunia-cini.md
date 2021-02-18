@@ -43,6 +43,7 @@ amater - 爱好者
 amer - 恋人 (情人, 爱人)  
 andiniste - 不信神的  
 anmema - 忘记  
+ansomia - 失眠  
 analiza - 分析  
 analize - 分析  
 andesite - 安山岩  
@@ -882,9 +883,9 @@ sofa\* - 沙发
 sol - 太阳  
 solful - 向日葵  
 solsistem - 太阳系  
-sonu - 睡觉 (困觉)  
-sonkamar - 卧室 (寝室)  
-sonpapil - 鴉片罌粟  
+somu - 睡觉 (困觉)  
+somkamar - 卧室 (寝室)  
+sompapil - 鴉片罌粟  
 song - 松  
 sor - 锁  
 sosis - 香肠  

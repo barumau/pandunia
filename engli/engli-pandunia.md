@@ -321,7 +321,7 @@ become open - kayu
 bed - bede  
 bedouin (nomadic) - badavi  
 bedrock - bazopetre  
-bedroom - sonkamar  
+bedroom - somkamar  
 bee nest (beehive, wasp's nest) - vesponizde  
 bee or wasp - vespe  
 beef - muhmanse  
@@ -1654,6 +1654,7 @@ innate (endogenous, indigenous, inborn) - indojeni
 inner (internal) - indi  
 insect - koncung  
 inside (interior) - inde  
+insomnia - ansomia  
 instructions (recipe) - resete  
 insult (offence) - ninde  
 insult (offend) - insulta  
@@ -2353,7 +2354,7 @@ open (not closed) - kayi
 open (wide, spacious) - maidani  
 open - kaya  
 opinion (view) - rai  
-opium poppy - sonpapil  
+opium poppy - sompapil  
 opponent (antagonist) - faner  
 opportunity (chance) - canse  
 oppose (resist) - fana  
@@ -3080,8 +3081,8 @@ skull - saroste
 sky (heaven) - samai  
 slab (slate, tablet, board) - table  
 Slavic - slavi  
-sleep (be asleep) - sonu  
-sleep - son  
+sleep (be asleep) - somu  
+sleep - som  
 sleeve - kamisi xake  
 slide (slip, glide, skate) - glisu  
 slipper - babuce  
@@ -3135,8 +3136,8 @@ song - cante
 soon - suno  
 sorry (pardon) - pardon  
 soul (mind, psyche) - ruh  
-sound (audio) - sonde  
-sound (make a sound) - sonda  
+sound (audio) - son  
+sound (make a sound) - sona  
 soup (stew) - supe  
 sour - suani  
 south - sude  

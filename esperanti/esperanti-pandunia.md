@@ -317,9 +317,9 @@ dokumento - dokum
 dolaro - dolar  
 donaco - don  
 doni - dona  
-dormi - sonu  
-dormo - son  
-dormoĉambro - sonkamar  
+dormi - somu  
+dormo - som  
+dormoĉambro - somkamar  
 dorso - ruke  
 dramo - dram  
 drinkejo - birkan  
@@ -1433,6 +1433,7 @@ sema - semi
 semajno - yomsete  
 semo - sem  
 sen - na  
+sendormeco - ansomia  
 senti - senta  
 sentumo - sense  
 sep (7) - seti  
@@ -1471,7 +1472,7 @@ soldato - gunjan
 sole (nur) - uniko  
 solido - gatomate  
 somero - garmomosim  
-sono - sonde  
+sono - son  
 speciala - hasi  
 speco (tipo, stilo) - yang  
 speguli - mira  

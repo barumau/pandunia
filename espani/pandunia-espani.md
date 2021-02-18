@@ -112,6 +112,7 @@ anjami - escaso (disperso, ralo)
 anmema - olvidar  
 anromansi - arromántico  
 anseksi - asexual  
+ansomia - insomnio  
 antapa - desatascar  
 anzaya - quitar (eliminar, borrar)  
 analiza - analizar  
@@ -3012,14 +3013,14 @@ solestas - solsticio
 solful - girasol  
 solsistem - sistema solar  
 Solomon nesia - Islas Salomón  
+som - sueño  
+somu - dormir  
+somkamar - dormitorio  
+sompapil - adormidera (amapola real)  
 Somalia - Somalia  
 Somaldex - Solamilandia  
-son - sueño  
-sonu - dormir  
-sonkamar - dormitorio  
-sonpapil - adormidera (amapola real)  
-sonda - sonar  
-sonde - sonido (audio)  
+son - sonido (audio)  
+sona - sonar  
 song - pino  
 sor - cerradura (candado)  
 sos - salsa  

@@ -74,6 +74,7 @@ ampul - ampoule (fiole)
 anama - exécrer  
 andiniste - infidèle (incroyant)  
 anmema - oublier  
+ansomia - insomnie  
 analiza - analyser  
 analize - analyse  
 ande - oeuf  
@@ -1041,9 +1042,11 @@ sol - soleil
 solcate - ombrelle (parasol)  
 solcentaur - Centaurée du solstice  
 solful - Tournesol  
-sonu - dormir  
-sonkamar - chambre à coucher  
-sonpapil - pavot somnifère  
+som - sommeil  
+somu - dormir  
+somkamar - chambre à coucher  
+sompapil - pavot somnifère  
+son - son  
 sor - serrure  
 sos - sauce  
 sosis - saucisse  

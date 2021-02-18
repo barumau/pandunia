@@ -303,7 +303,7 @@ documentário - dokumfilme
 dois (2) - duli  
 domingo - setyom  
 doméstico - domi  
-dormir - sonu  
+dormir - somu  
 ducha - dux  
 durar - duru  
 duro - gati  
@@ -475,6 +475,7 @@ infiel - andiniste
 inflamaçao - itis  
 inimigo - dusjan  
 inseto - koncung  
+insônia - ansomia  
 internacional - nasmedi  
 invernal (hibernal) - lengomosimi  
 inverno - lengomosim  
@@ -698,7 +699,7 @@ pandemia - pandemi patia
 papel - kaguje  
 papel de parede - murkaguje  
 papoila - maidanpapil  
-papoila-dormideira - sonpapil  
+papoila-dormideira - sompapil  
 parque - parke  
 partida - mece  
 parâmetro - param  
@@ -782,7 +783,7 @@ pícea (espruce) - pis
 quadrinhos (banda desenhada) - grafsage  
 quando - ki sate  
 quarta-feira - sanyom  
-quarto (dormitório) - sonkamar  
+quarto (dormitório) - somkamar  
 quartzo - kuarze  
 quatro (4) - cari  
 que (como) - ka  
@@ -885,7 +886,9 @@ situaçao - xeihal
 sociedade - socia  
 sol - sol  
 soldado - gunjan  
+som - son  
 sombrinha - solcate  
+sono - som  
 sorvete (gelado) - aiskrem  
 substância - kim  
 suco (sumo) - jus  

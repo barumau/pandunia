@@ -3045,14 +3045,14 @@ solestas - przesilenie
 solful - słonecznik  
 solsistem - układ słoneczny  
 Solomon nesia - Wyspy Salomona  
+som - sen  
+somu - spać  
+somkamar - sypialnia  
+sompapil - mak lekarski  
 Somalia - Somalia  
 Somaldex - Somaliland  
-son - sen  
-sonu - spać  
-sonkamar - sypialnia  
-sonpapil - mak lekarski  
-sonda - brzmieć, wydać dźwięk, wydawać dźwięk  
-sonde - dźwięk, brzmienie  
+son - dźwięk, brzmienie  
+sona - brzmieć, wydać dźwięk, wydawać dźwięk  
 song - sosna  
 sor - zamek (zapięcie)  
 sora - zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)  

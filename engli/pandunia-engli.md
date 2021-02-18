@@ -132,6 +132,7 @@ anmema - forget
 anpace - unrest  
 anromansi - aromantic  
 anseksi - asexual  
+ansomia - insomnia  
 ansora - unlock  
 ansori - unlocked  
 antapa - unplug (uncork)  
@@ -3236,14 +3237,14 @@ solestas - solstice
 solful - sunflower  
 solsistem - solar system  
 Solomon nesia - Solomon Islands  
+som - sleep  
+somu - sleep (be asleep)  
+somkamar - bedroom  
+sompapil - opium poppy  
 Somalia - Somalia  
 Somaldex - Somaliland  
-son - sleep  
-sonu - sleep (be asleep)  
-sonkamar - bedroom  
-sonpapil - opium poppy  
-sonda - sound (make a sound)  
-sonde - sound (audio)  
+son - sound (audio)  
+sona - sound (make a sound)  
 song - pine tree  
 sor - lock (fastener)  
 sora - lock (fasten)  

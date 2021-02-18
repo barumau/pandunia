@@ -1203,10 +1203,10 @@
 |**sofia**|wisdom|Greek:σοφία (sofía)|
 |**soke**|sock (stocking)|deu:Socke, English:sock, Swahili:soksi, Zulu:isokisi, Japanese:ソックス (sokkusu), Russian:носок (nosok)|
 |**sol**|sun|Spanish:Portuguese:sol, French:soleil, + Hindi:सौर (sOr), Telugu:(saur)|
-|**son**|sleep|Russian:сон (son), Portuguese:sono, Hindi:सोना (sonā), Bengali:শোয়া (śoya)|
-|**sonde**|sound (audio)|English:sound,sonic, French:son, Spanish:son,sonido, Italian:suono, + Korean:소리 (sori)|
+|**som**|sleep|French:sommeil, Portuguese:sono, Russian:сон (son), Hindi:सोना (sonā), Bengali:শোয়া (śoya) + Arabic: نَوْم‎ (nawm)|
+|**sompapil**|opium poppy|English:poppy, Spanish:amapola, Portuguese:papoula, Swahili:mpopi, Bengali:পপি (papi), Japanese:ポピー (popī)|
+|**son**|sound (audio)|English:sonic, French:son, Spanish:son,sonido, Portuguese:som, Italian:suono, + Korean:소리 (sori) + Mandarin:声 (shēng), Wu-Chinese:声 (sən)|
 |**song**|pine tree|Mandarin:松 (sōng), Wu-Chinese:(son), Thai:สน (sǒn), Korean:솔 (sol), Vietnamese:thông, + Russian:сосна (sosna)|
-|**sonpapil**|opium poppy|English:poppy, Spanish:amapola, Portuguese:papoula, Swahili:mpopi, Bengali:পপি (papi), Japanese:ポピー (popī)|
 |**sor**|lock (fastener)|Mandarin:锁 (suǒ), Cantonese:鎖 (so2), Wu-Chinese:鎖 (su2), Japanese:錠 (jō), Khmer:សោ (sao), Spanish:cierre, French:serrure, Hungarian:zár|
 |**sos**|sauce|English:French:sauce, Russian:соус (sous), Hindi:सॉस (sos), deu:Soße, Vietnamese:xốt, Japanese:ソース (sōsu), Thai:ซอส (soot), Korean:소스 (soseu), Malay:saus|
 |**sosis**|sausage|French:saucisse, Turkish:Malay:sosis, Persian:(sosis), Russian:сосиска  (sosiska), Japanese:ソーセージ (sosēji), Hindi:सॉसेज (sosej), Bengali:সসেজ (sôsej), English:sausage|

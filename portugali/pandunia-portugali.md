@@ -42,6 +42,7 @@ amer - amante
 amike - querido  
 andiniste - infiel  
 anmema - esquecer  
+ansomia - insônia  
 analize - análise  
 andesite - andesito  
 anjil - mensagem  
@@ -887,9 +888,11 @@ socia - sociedade
 sol - sol  
 solcate - sombrinha  
 solful - girassol  
-sonu - dormir  
-sonkamar - quarto (dormitório)  
-sonpapil - papoila-dormideira  
+som - sono  
+somu - dormir  
+somkamar - quarto (dormitório)  
+sompapil - papoila-dormideira  
+son - som  
 song - pinheiro  
 sor - fechadura  
 sosis - salsicha  

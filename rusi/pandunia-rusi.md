@@ -42,6 +42,7 @@ amer - любовник
 amirlinye - командная строка  
 andiniste - неверующий  
 anmema - забывать  
+ansomia - бессонница (инсомния)  
 analiza - анализировать  
 analize - анализ  
 andesite - андезит  
@@ -992,9 +993,9 @@ soke - носок
 sol - солнце  
 solcate - зонтик от солнца  
 solful - подсолнечный  
-sonu - спать  
-sonkamar - спальня  
-sonpapil - мак снотворный  
+somu - спать  
+somkamar - спальня  
+sompapil - мак снотворный  
 song - сосна  
 sor - замок  
 sori - запереть  

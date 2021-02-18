@@ -774,8 +774,8 @@
 |**sofia**|saga|greka:σοφία (sofía)|
 |**soke**|ŝtrumpo|deu:Socke, angla:sock, svahila:soksi, zulua:isokisi, japana:ソックス (sokkusu), rusa:носок (nosok)|
 |**sol**|suno|hispana:portugala:sol, franca:soleil, + hindia:सौर (sOr), teluga:(saur)|
-|**son**|dormo|rusa:сон (son), portugala:sono, hindia:सोना (sonā), bengala:শোয়া (śoya)|
-|**sonde**|sono|angla:sound,sonic, franca:son, hispana:son,sonido, itala:suono, + korea:소리 (sori)|
+|**som**|dormo|franca:sommeil, portugala:sono, rusa:сон (son), hindia:सोना (sonā), bengala:শোয়া (śoya) + araba: نَوْم‎ (nawm)|
+|**son**|sono|angla:sonic, franca:son, hispana:son,sonido, portugala:som, itala:suono, + korea:소리 (sori) + mandarena:声 (shēng), vua:声 (sən)|
 |**song**|pino|mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)|
 |**sos**|saŭco|angla:franca:sauce, rusa:соус (sous), hindia:सॉस (sos), deu:Soße, vjetnama:xốt, japana:ソース (sōsu), taja:ซอส (soot), korea:소스 (soseu), malaja:saus|
 |**sosis**|kolbaso|franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage|

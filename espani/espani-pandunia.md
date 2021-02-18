@@ -62,7 +62,7 @@ adjetivo - sifloge
 adoquín - cirkoxeke  
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
-adormidera (amapola real) - sonpapil  
+adormidera (amapola real) - sompapil  
 adulterio - zin  
 adulto - matur  
 adverbo - modologe  
@@ -1059,8 +1059,8 @@ Dominica - Dominika
 dominio (reinado) - kratia  
 dominó - dominogem  
 doméstico (domesticado) - domi  
-dormir - sonu  
-dormitorio - sonkamar  
+dormir - somu  
+dormitorio - somkamar  
 dos (2) - duli  
 dos veces - dulmaro  
 dotes (arte, habilidad) - xute  
@@ -1685,6 +1685,7 @@ innato (endógeno) - indojeni
 innecesario - anyavi  
 inodoro (wáter, retrete) - tualete  
 insecto - koncung  
+insomnio - ansomia  
 instrucciones (receta) - resete  
 instrumento de arco - ticin  
 insultar (ofender) - insulta  
@@ -3078,8 +3079,8 @@ Somalia - Somalia
 sombra - sai  
 sombrero - tupe  
 someterse (rendirse, ceder) - islamu  
-sonar - sonda  
-sonido (audio) - sonde  
+sonar - sona  
+sonido (audio) - son  
 sopa - supe  
 soplar (echar) - hava  
 soporte (perchero, atril) - libobaze  
@@ -3101,7 +3102,7 @@ Sudáfrica - Sudafrike
 Sudán - Sudan  
 Sudán del Sur - Sudi Sudan  
 Suecia - Suenia  
-sueño - son  
+sueño - som  
 sufijo - badofikse  
 sufijo para adjetivos - -i  
 sufijo para adverbios - -o  

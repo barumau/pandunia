@@ -234,7 +234,7 @@ broń nuklearna - kerni arme
 bruk - cirkoxeke  
 brunatnica - brunalge  
 Brunei Darussalam - Brunei  
-brzmieć, wydać dźwięk, wydawać dźwięk - sonda  
+brzmieć, wydać dźwięk, wydawać dźwięk - sona  
 brzoza - berje  
 brzuch - pete  
 brzydki - dusvidi  
@@ -562,7 +562,7 @@ długość - longia
 długość geograficzna - vestodongia  
 dźinizm, dżinizm - jeinistia  
 dźwignia - tirbaton  
-dźwięk, brzmienie - sonde  
+dźwięk, brzmienie - son  
 Dżakarta - Jakarta  
 Dżibuti - Jibuti  
 dżul (J) - jul  
@@ -1366,7 +1366,7 @@ magnetyczny - mageti
 magnez - magesem  
 maj - dulmes  
 Majotta - Mayote  
-mak lekarski - sonpapil  
+mak lekarski - sompapil  
 mak polny - maidanpapil  
 mak wschodni - guipapil  
 makaron - mien  
@@ -2562,7 +2562,7 @@ seks, stosunek płciowy - sekse
 seksowny, ponętny - seksi  
 sekunda - sekunde  
 selen - selenem  
-sen - son  
+sen - som  
 Senegal - Senegal  
 sensor (detektor, czujka) - senser  
 ser - cize  
@@ -2642,7 +2642,7 @@ sosna - song
 spacja - kali harfe  
 spadek, dziedzictwo, spuścizna, zapis - varis  
 spalić, palić - hoga  
-spać - sonu  
+spać - somu  
 specjalny, wyraźny, wyrazisty - hasi  
 spis treści (tabela zawartości) - tenliste  
 spisek (konspiracja) - sirplan  
@@ -2737,7 +2737,7 @@ Swalbard - Sualbarde
 swastyka - hukokrus  
 Syberia - Sibiria  
 syn - mani pute  
-sypialnia - sonkamar  
+sypialnia - somkamar  
 Syria - Suria  
 syrop - xirope  
 system - sistem  

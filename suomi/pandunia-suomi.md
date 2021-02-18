@@ -122,6 +122,7 @@ ankoda - purkaa koodi (dekoodata)
 anlimitia - äärettömyys (rajattomuus)  
 anmema - unohtaa  
 anpace - levottomuus (konflikti)  
+ansomia - unettomuus  
 ansora - avata lukko  
 ansori - lukitsematon  
 antapa - korkata  
@@ -2826,13 +2827,13 @@ solcate - aurinkovarjo
 solestas - päivänseisaus  
 solsistem - aurinkokunta  
 Solomon nesia - Salomon-saaret  
+som - nukkuminen (uni)  
+somu - nukkua  
+somkamar - makuuhuone  
 Somalia - Somalia  
 Somaldex - Somalimaa  
-son - nukkuminen (uni)  
-sonu - nukkua  
-sonkamar - makuuhuone  
-sonda - ääntää  
-sonde - ääni  
+son - ääni  
+sona - ääntää  
 song - mänty  
 sos - kastike (soosi)  
 sosis - makkara  

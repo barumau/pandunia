@@ -241,7 +241,7 @@ Centaurée du solstice - solcentaur
 centre - jung  
 cerise - cerize  
 chachlik - xixmanse  
-chambre à coucher - sonkamar  
+chambre à coucher - somkamar  
 Champagne - Xampan  
 Champagner - Xampan vin  
 champignon - fungopal  
@@ -389,7 +389,7 @@ domestiqué (apprivoisé) - dosiljeni
 dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - jena  
 données - date  
-dormir - sonu  
+dormir - somu  
 douche - dux  
 drapeau - bandir  
 droit (rectiligne) - orti  
@@ -552,6 +552,7 @@ Indus - Hindonade
 infidèle (incroyant) - andiniste  
 inflammation - itis  
 insecte - koncung  
+insomnie - ansomia  
 international - nasmedi  
 interracial - rasmedi  
 ironie - ironia  
@@ -812,7 +813,7 @@ pathologie - patolojia
 patient - patike  
 pause - pauze  
 pavot d'Orient - guipapil  
-pavot somnifère - sonpapil  
+pavot somnifère - sompapil  
 pavé - cirkoxeke  
 peindre - penta  
 peinture - pente  
@@ -1014,7 +1015,9 @@ soie - silke
 soif - suiyau  
 soldat - gunjan  
 soleil - sol  
+sommeil - som  
 son (sa) - si  
+son - son  
 soumettre - karmisa  
 squelette - ostojamia  
 substance - kim  
