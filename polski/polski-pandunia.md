@@ -124,7 +124,7 @@ babcia (babka) - laumam
 badać, studiować - loja  
 bagaż - bagaje  
 bagietka - batonpang  
-bagno - potistan  
+bagno - pototopia  
 bahaista - bahayiste  
 bahaizm - bahayistia  
 Bahamy - Bahama  
@@ -237,7 +237,7 @@ Brunei Darussalam - Brunei
 brzmieć, wydać dźwięk, wydawać dźwięk - sonda  
 brzoza - berje  
 brzuch - pete  
-brzydki - malrupi  
+brzydki - dusvidi  
 brązowy, koloru kawy - bruni  
 Budda - Bude  
 buddysta - budiste  
@@ -357,7 +357,7 @@ ciężarny (w ciąży) - hamili
 ciężki (masywny) - bari  
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanci  
-cmentarz - gabristan  
+cmentarz - gabrotopia  
 cnota (moralność) - bondarme  
 cnotliwy (prawy) - bondarmi  
 co? - ke  
@@ -1089,8 +1089,8 @@ kminek - karav
 kobalt - kobalte  
 kobieta, dorosła samica - maturi fem  
 kobieta; kobiecy - fem  
-kochany (drogi) - luvi  
-kochać - luva  
+kochany (drogi) - ami  
+kochać - ama  
 kochać romantycznie - romansa  
 kochać się, uprawiać seks - seksa  
 kocioł - daivaze  
@@ -1275,6 +1275,7 @@ latarnia morska - fotominar
 latać (fruwać) - daru  
 latać, lecieć - feyu  
 lato - garmomosim  
+laudacja - euloge  
 lawa - yongopetre  
 lazania - lazanye  
 lejek - dartube  
@@ -1505,7 +1506,7 @@ mięta pieprzowa - piprominte
 mięta wodna - suiminte  
 mięta zielona (mięta kłosowa) - zongominte  
 miłośnik (fan, -fil) - filer  
-miłość (afekt) - luve  
+miłość (afekt) - am  
 miłość romantyczna - romansia  
 miły, przyjemny, uroczy - huxi  
 Mjanma, Birma - Myanma  
@@ -2328,7 +2329,7 @@ puma (kuguar) - puma\*
 punkt - binde  
 pustka - kal  
 pusty - kali  
-pustynia - registan  
+pustynia - regotopia  
 pułapka - kapotruke  
 pyszny - yami  
 pytajny, związany z pytaniem - eskan  
@@ -2345,7 +2346,7 @@ pęknąć (rozpaść się) - fenu
 płakać, łkać - kuga  
 płaski - plati  
 płaski chleb, ćapati - capate  
-płaskowyż (plateau) - mezistan  
+płaskowyż (plateau) - mezotopia  
 płaskoziemca - platogeviste  
 płaszcz - kote  
 płaszcz nieprzemakalny - barxokote  
@@ -2388,7 +2389,7 @@ razem (wspólnie) - kono
 rdzeń (jądro, pestka) - kerne  
 rebelia, powstanie - rebel  
 recepta, receptura, przepis - resete  
-region - istan  
+region - tope  
 register - deftia  
 rejestr - defte  
 rekin - xarke  
@@ -2509,7 +2510,7 @@ rzęsa - okokex
 róg - buge  
 róg - korne  
 równik - geuparlinye  
-równina (plaskowyż, plateau) - platistan  
+równina (plaskowyż, plateau) - platotopia  
 równoległy (podłużny) - parlinyi  
 równy - pari  
 równy - parike  
@@ -2926,8 +2927,7 @@ treść (zawartość) - ten
 tropikalny - garmozoni  
 tropiki - garmozon  
 trucizna (toksyna) - tokse  
-trudność (trud) - kunan  
-trudny (ciężki) - kunani  
+trudność (trud) - dushal  
 trwanie - dur  
 trwać, zająć czas; przez - duru  
 trwały (wytrzymały, podtrzymywalny) - durabli  
@@ -3500,7 +3500,7 @@ zły, zrujnowany, zepsuty - harabi
 łóżko - bede  
 łączyć (złączyć) - darunu  
 łączyć, wiązać, złączyć - linka  
-łąka - cavistan  
+łąka - cautopia  
 Święta Helena - Santi Helena  
 ścieżka (droga, szlak, kurs) - rute  
 ścisnąć (sciskać, wycisnąć) - indo puxa  

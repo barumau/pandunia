@@ -55,18 +55,18 @@ alporti (venigi) - layana
 alta - gavi  
 altaro - pujomeze  
 aluminio - aluminem  
-amanto - luver  
+amanto - amer  
 amara - alkalgusti  
 ambasado - dayanjilkan  
 ambasadoro - dayanjiler  
 americio - amerikem  
 amerika - ameriki  
 Ameriko - Amerike  
-ami (ŝati) - luva  
+ami (ŝati) - ama  
 amika (bonkora) - dosti  
 amikeco - dostia  
 amiko - doste  
-amo - luve  
+amo - am  
 ampero - amper  
 amuza - vani  
 amuzi - vana  
@@ -299,7 +299,7 @@ devi - debu
 devigi - musa  
 devo - mus  
 devus - xudu  
-dezerto - registan  
+dezerto - regotopia  
 deziro - kamia  
 dia - devi  
 diablo (Satano) - xatan  
@@ -714,7 +714,7 @@ kanuo (kanoto) - kano\*
 kaoso (malordo) - haos  
 kapro - buze  
 kapti - kapa  
-kara - luvi  
+kara - ami  
 karateo - karate\*  
 karavano - karvan  
 karbona dioksido - karbodulokside  
@@ -723,6 +723,7 @@ Karibio - Karaibia
 karoto - karote  
 karto - karde  
 kartuno - anim  
+karulo - amike  
 karvio - karav  
 kasko - sarkaske  
 kastoro - kastor  
@@ -933,13 +934,15 @@ magio - magia
 magnezio - magesem  
 majao - mayan  
 mala - ani  
+malami - anama  
 malamiko - andoste  
+malamiko - dusjan  
 malamo - hen  
+malamulo - anamike  
 malavara - donivi  
 malbona - mal (mali)  
-malbonaspekta - malrupi  
+malbonaspekta - dusvidi  
 maldekstrume - rotolefto  
-malfacila - kunani  
 malferma - kayi  
 malfermi - kaya  
 malfermiĝi - kayu  
@@ -1330,7 +1333,7 @@ rapideco - rapidia
 rapidigi - yala  
 reciproka - unali  
 regi - kratia  
-regiono - istan  
+regiono - tope  
 registraĵo - defte  
 registri - defta  
 registro (konto) - deftia  
@@ -1569,7 +1572,7 @@ tiu - ce
 tiu - ci  
 Toglando - Togo  
 tomato - tomate  
-tombejo - gabristan  
+tombejo - gabrotopia  
 tombo - gabre  
 tomboŝtono - gabroxeke  
 tondilo - makas  

@@ -59,12 +59,19 @@ alkoli - alcoolique
 almar - placard  
 almas - diamant  
 aluminem - aluminium  
+am - amour (affection)  
+ama - aimer  
+ami - cher  
+amater - amateur  
+amer - amoureux  
+amike - chéri  
 Amari - Amhara (groupe ethnique et langue éthiopienne)  
 ameno - sûrement  
 Amerike - Amérique  
 ameriki - américain  
 amper - ampère  
 ampul - ampoule (fiole)  
+anama - exécrer  
 andiniste - infidèle (incroyant)  
 anmema - oublier  
 analiza - analyser  
@@ -296,6 +303,9 @@ dura - passer
 duru - durer  
 duriki - chronique  
 durmetrer - chronomètre  
+dusjan - ennemi  
+duskar - méfait (péché)  
+dusvidi - laid (vilain)  
 dux - douche  
 ####E - E  
 e - et  
@@ -320,6 +330,7 @@ esponje - éponge
 estan - étain  
 estibem - antimoine  
 evanjil - évangile  
+euloge - éloge  
 Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
@@ -368,7 +379,7 @@ futobol - football
 ####G - G  
 gabra - enterrer  
 gabre - tombe  
-gabristan - cimetière  
+gabrotopia - cimetière  
 gabroxeke - pierre tombale  
 gadogude - mule  
 Galia - Gaule  
@@ -709,10 +720,6 @@ lontre - loutre
 lugi - vert  
 lun - lune  
 luter - brigand (bandit)  
-luva - aimer  
-luve - amour (affection)  
-luvi - cher  
-luver - amoureux  
 ####M - M  
 me - je (me)  
 mome - nous  
@@ -904,8 +911,8 @@ pis - Épicéa
 pize - pizza  
 plan - plan  
 plati geukaskia - tectonique des plaques  
-platistan - plaine  
 platogeviste - terreplatiste  
+platotopia - plaine  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 porei - poireau  
@@ -1084,6 +1091,7 @@ tira milke - tirer
 tira pil - écorce  
 toca - toucher  
 tomate - tomate  
+topograf - topographie  
 tova - traîner  
 trate - contract (traité)  
 truka - escroquer  

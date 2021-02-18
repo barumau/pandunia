@@ -35,6 +35,11 @@ alkalgusti - amargo
 alkol - álcool  
 almar - armário  
 almas - diamante  
+am - amor  
+ami - querido (caro)  
+amater - amador  
+amer - amante  
+amike - querido  
 andiniste - infiel  
 anmema - esquecer  
 analize - análise  
@@ -225,6 +230,9 @@ dur - tempo (duração)
 duru - durar  
 duriki - crónico  
 durmetrer - cronómetro  
+dusjan - inimigo  
+duskar - malfeitoria (pecado)  
+dusvidi - feio  
 dux - ducha  
 ####E - E  
 e - e  
@@ -245,6 +253,7 @@ esponje - esponja
 estan - estanho  
 estibem - antimônio  
 evanjil - evangelho  
+euloge - elogio  
 europobalute - carvalho-roble  
 ####F - F  
 fas - face (faceta)  
@@ -285,7 +294,7 @@ futobol - futebol
 ####G - G  
 gabra - enterrar  
 gabre - sepultura (túmulo)  
-gabristan - cemitério  
+gabrotopia - cemitério  
 gabroxeke - lápide  
 Galia - Gália  
 galaksia - galáxia  
@@ -597,9 +606,6 @@ lova - vazar
 lugi - verde  
 lun - lua  
 luter - ladrão  
-luve - amor  
-luvi - querido (caro)  
-luver - amante  
 ####M - M  
 me - eu (me)  
 mome - nós  
@@ -916,6 +922,7 @@ tex - fazenda (tecido)
 texmaxin - tear  
 tikete - bilhete  
 tomate - tomate  
+topograf - topografia  
 tova - arrastar  
 trate - acordo (tratado, contrato)  
 truka - enganar  

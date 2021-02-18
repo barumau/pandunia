@@ -54,6 +54,11 @@ alkoli - alkohola
 almar - ŝranko  
 almas - diamanto  
 aluminem - aluminio  
+am - amo  
+ama - ami (ŝati)  
+ami - kara  
+amer - amanto  
+amike - karulo  
 Amerike - Ameriko  
 ameriki - amerika  
 amerikem - americio  
@@ -61,6 +66,8 @@ amir - ordono
 amira - ordoni  
 amper - ampero  
 ani - mala  
+anama - malami  
+anamike - malamulo  
 andeviste - ateisto  
 andiniste - malkredulo  
 andoste - malamiko  
@@ -423,6 +430,8 @@ dunia bax - mondlingvo
 dur - daŭro  
 dura - daŭrigi  
 duru - daŭri (dum)  
+dusjan - malamiko  
+dusvidi - malbonaspekta  
 dute - dubo  
 duva - preĝi  
 duve - preĝo  
@@ -579,7 +588,7 @@ futobol - piedpilko
 ####G - G  
 gabra - enterigi  
 gabre - tombo  
-gabristan - tombejo  
+gabrotopia - tombejo  
 gabroxeke - tomboŝtono  
 gade - azeno  
 gadolinem - gadolinio  
@@ -786,7 +795,6 @@ Islandia - Islando
 Israel - Israelo  
 iste - isto de ismo  
 istia - ismo  
-istan - regiono  
 Italia - Italio  
 iva - emi  
 ivia - emo (inklino, tendenco)  
@@ -998,7 +1006,6 @@ kube - kubo
 kuga - plori  
 kuli - bonega (mojosa)  
 kultur - kulturo  
-kunani - malfacila  
 kupe - taso  
 kupre - kupro  
 kurem - kuriumo  
@@ -1070,10 +1077,6 @@ lun - luno
 luta - rabi  
 luter - rabisto  
 lutetem - lutecio  
-luva - ami (ŝati)  
-luve - amo  
-luvi - kara  
-luver - amanto  
 ####M - M  
 me - mi  
 mi - mia  
@@ -1084,7 +1087,6 @@ mayan - majao
 maitnerem - mejtnerio  
 makas - tondilo  
 mal (mali) - malbona  
-malrupi - malbonaspekta  
 Mali - Malio  
 malike - jasmeno  
 malker - havanto  
@@ -1410,7 +1412,7 @@ rasmedi - interrasa
 rastu - kreski  
 redi - preta  
 rege - sablo  
-registan - dezerto  
+regotopia - dezerto  
 rei - ripetado  
 reya - ripeti (refari)  
 reyo - denove (ripete)  
@@ -1629,6 +1631,7 @@ toca - tuŝi
 Togo - Toglando  
 tomate - tomato  
 ton - tono  
+tope - regiono  
 torem - torio  
 torse - torso  
 tova - treni  

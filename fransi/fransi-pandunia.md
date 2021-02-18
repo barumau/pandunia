@@ -32,7 +32,7 @@ agile - ajili
 agresseur - agreser  
 agression (attaque) - agres  
 ail - lasun  
-aimer - luva  
+aimer - ama  
 air - air  
 aire (superficie) - ar  
 alcool - alkol  
@@ -49,11 +49,12 @@ allô - halo\*
 alphabet - harfia  
 aluminium - aluminem  
 amande - badam  
+amateur - amater  
 amer - alkalgusti  
 Amhara (groupe ethnique et langue éthiopienne) - Amari  
 amiral - hayamirer  
-amour (affection) - luve  
-amoureux - luver  
+amour (affection) - am  
+amoureux - amer  
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - ameriki  
@@ -260,7 +261,7 @@ chauve-souris - feimux
 chaux - kalsomate  
 chef - xef  
 chemise - kamis  
-cher - luvi  
+cher - ami  
 chercher - sova  
 chien - vaf  
 chimie - kimlojia  
@@ -270,12 +271,13 @@ chose - xei
 chronique - duriki  
 chronomètre - durmetrer  
 chu - padi  
+chéri - amike  
 chêne - balute  
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
 ciel - samai  
 cime (pic, sommet) - pike  
-cimetière - gabristan  
+cimetière - gabrotopia  
 cinq (5) - limi  
 cirse commun - perkardon  
 citron - limon  
@@ -416,6 +418,7 @@ en ligne - va linye
 enclume - metalbede  
 encore - zoko  
 enfant - bace  
+ennemi - dusjan  
 enseigner - xulana  
 enterrer - gabra  
 entonnoir - dartube  
@@ -430,6 +433,7 @@ Europe - Europe
 européen - europi  
 exact (précis) - justi  
 explosion - bum  
+exécrer - anama  
 ####F - F  
 face (facette) - fas  
 facile - fasili  
@@ -576,6 +580,7 @@ kiwi - kivi\*
 kumquat - kankuate  
 ####L - L  
 lac - lage  
+laid (vilain) - dusvidi  
 laine - mehi kex  
 laisser - laxa  
 lait - milke  
@@ -703,6 +708,7 @@ mât - maste
 mère (maman) - mam  
 mètre - mitre  
 méduse - haijel  
+méfait (péché) - duskar  
 mémoire - mem  
 méninge - mening  
 ####N - N  
@@ -841,7 +847,7 @@ pièce (chambre) - kamar
 piège - kapotruke  
 placard - almar  
 place - maidan  
-plaine - platistan  
+plaine - platotopia  
 plan - plan  
 planche - mokoban  
 plante (végétal) - fite  
@@ -1061,6 +1067,7 @@ toile d'araignée - arannete
 tomate - tomate  
 tombe - gabre  
 topinambour - masmulsolful  
+topographie - topograf  
 toucher - toca  
 toupie - rototope  
 touriste - safariste  
@@ -1171,6 +1178,7 @@ zèbre - zebre
 électricité - eletre  
 élevage - hevanjenitia  
 élever - jenita  
+éloge - euloge  
 élément (unité fondamentale) - em  
 élément chimique - kimem  
 émeraude - zumurude  

@@ -93,6 +93,7 @@ alum - aluminmate
 alumina (aluminum oxide) - aluminokside  
 aluminium - aluminem  
 always - pansato  
+amateur - amater  
 amaze - ajaba  
 amazing (astonishing) - ajabi  
 ambassador - dayanjiler  
@@ -247,6 +248,7 @@ backpack (rucksack) - rukosake
 backup - sekuri kope  
 backward (in reverse) - retro  
 bad (ruined, destroyed) - harabi  
+bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dusi  
 bad - mal (mali)  
 bag (sack) - sake  
 baguette - batonpang  
@@ -875,6 +877,7 @@ danger (peril) - hatre
 dangerous (perilous) - hatri  
 Danish - dani  
 dark (dim) - oskuri  
+darling (honey) - amike  
 darmstadtium - darmositem  
 Darwinism - darvinistia  
 Darwinist - darviniste  
@@ -888,7 +891,7 @@ day (24 hours) - yom
 day (daytime) - den  
 deactivate (disable, turn off) - anativa  
 dead (deceased) - morti  
-dear (beloved) - luvi  
+dear (beloved) - ami  
 death - morte  
 debate (discuss) - lona  
 debug - angalta  
@@ -922,7 +925,7 @@ Denmark - Dania
 dentist - dantomediker  
 depth - fastelia  
 descriptive - sifi  
-desert - registan  
+desert - regotopia  
 desk - karmeze  
 despise (scorn) - paraya  
 destine (set) - gola  
@@ -939,7 +942,6 @@ die (dice) - dade
 die - mortu  
 difference - alsifia  
 different - alsifi  
-difficult (hard, tough) - kunani  
 dig (excavate) - kava  
 dining room - yamkamar  
 dinner - xamyam  
@@ -954,6 +956,7 @@ disc (disk) - diske
 discrete (digital, quantized) - feni  
 discussion (debate, discourse) - lon  
 dish - tas  
+dislike (loathe) - anama  
 disperse (spread out, scatter) - anjama  
 distance (far away) - tel  
 distance (length) - telia  
@@ -1024,6 +1027,8 @@ dust (powder) - fun
 dye - rangomate  
 dynamite - dinamite  
 dysprosium - disprosem  
+dystheism (maltheism) - dusdevistia  
+dystopia - dustopia  
 ####E - E  
 each other (one another, mutually) - unal  
 ear - or  
@@ -1077,7 +1082,9 @@ end (ending) - fin
 end - finu  
 ended (finished) - fini  
 endonym - indonam  
+enemy (foe, villain) - dusjan  
 enemy (unfriend) - andoste  
+enemy - anamike  
 energy - energe  
 engine (motor) - moter  
 engineer - injener  
@@ -1111,6 +1118,7 @@ Ethiopia - Etiopia
 ethnic - zuki  
 ethnic group - zuke  
 etymology - logaslia  
+eugenics - eujenistia  
 Eurasia - eurasia  
 euro (€) - euro\*  
 Europa - Europa  
@@ -1118,6 +1126,7 @@ Europe - Europe
 European - europi  
 European Union (EU) - Europi Unia  
 europium - europem  
+eutheism - eudevistia  
 evaluate (review, criticise) - pipinga  
 evaluation (criticism) - piping  
 even (implying extreme example) - hato  
@@ -1415,10 +1424,10 @@ grape - putav
 grapefruit - putavoranje  
 graphic (pictorial) - grafi  
 grass - cau  
-grassland - cavistan  
+grassland - cautopia  
 grave (tomb) - gabre  
 gravel - grau  
-graveyard - gabristan  
+graveyard - gabrotopia  
 Greece - Helenia  
 greedy - tami  
 Greek (Hellenic) - heleni  
@@ -1477,7 +1486,7 @@ hang (dangle) - penda
 happy (delighted) - suki  
 harbor (seaport) - haiporte  
 hard (tough) - gati  
-hardship (difficulty, challenge) - kunan  
+hardship (difficulty, challenge) - dushal  
 harm (damage) - avara  
 harmful (damaging) - avarani  
 harmonious - harmoni  
@@ -1540,6 +1549,7 @@ history (study of history) - historia
 hmm - hem  
 Ho Chi Minh City (Saigon) - Ho Ci Min site  
 hobby - hobe  
+hobbyist - hobiste  
 hockey - hoke  
 hoe - cope  
 hold (detain) - estasa  
@@ -1912,10 +1922,10 @@ lose (shed, miss, misplace) - xibaya tena
 loser - xibayer  
 loss (failure, miss) - xibay  
 lot (plot of land) - geutike  
-love (hold dear) - luva  
-love (liking, affection) - luve  
+love (hold dear) - ama  
+love (liking, affection) - am  
 love romantically - romansa  
-lover - luver  
+lover - amer  
 low (short) - tali  
 lower (inferior) - nici  
 lower (put down) - tala  
@@ -1998,7 +2008,7 @@ marriage (matrimony) - gamia
 married - gami  
 marry - gama  
 Mars - Marse  
-marsh (bog, swamp, morass) - potistan  
+marsh (bog, swamp, morass) - pototopia  
 Marshall Islands - Marxal nesia  
 martial art - jengoxute  
 marvel (wonder) - ajabe  
@@ -2100,6 +2110,7 @@ mint - minte
 minute - minute  
 Miranda - Miranda  
 mirror - mirer  
+misdeed (sin, vice) - duskar  
 misfortune (bad luck) - mal zar  
 mission (transmission, emission) - misia  
 mistake (error, fault, bug) - galte  
@@ -2541,7 +2552,7 @@ pizza - pize
 pizzeria - pizeria  
 place (location) - loke  
 plain (ordinary, unadorned, simple, mere) - sadi  
-plain (plateau, flat lands) - platistan  
+plain (plateau, flat lands) - platotopia  
 plan - plan  
 plane (plate) - plate  
 plane (tool for making a smooth surface) - rande  
@@ -2552,7 +2563,7 @@ plasma (ionized gas) - plazme
 plastic - plastike  
 plate - platotas  
 plate tectonics - plati geukaskia  
-plateau (tableland) - mezistan  
+plateau (tableland) - mezotopia  
 platform - platoforme  
 platinum - platinem  
 Plato - Platon  
@@ -2623,6 +2634,8 @@ practical (pragmatic) - prati
 practice (actuality) - prate  
 practice (to exercise) - lenxa  
 praise (commend, exalt) - halela  
+praise (eulogize) - euloga  
+praise (eulogy) - euloge  
 praseodymium - prasedem  
 pray - duva  
 prayer - duve  
@@ -2752,7 +2765,7 @@ receipt (acknowledgement) - reside
 red - lali  
 reflect - mira  
 refuse (deny, decline) - nega  
-region - istan  
+region - tope  
 register (record, log) - defta  
 register (record, log) - defte  
 registry (account) - deftia  
@@ -3439,6 +3452,7 @@ top (peak, pinnacle, summit, apex, vertex) - pike
 top (spinning top) - rototope  
 top - gau  
 topic (subject, theme) - tem  
+topography - topograf  
 torch - fotobaton  
 torrent - daidar  
 touch - toca  
@@ -3509,7 +3523,7 @@ typewriter - kitabomaxin
 tyrant (despot) - zalimi rajer  
 ####U - U  
 Uganda - Ganda  
-ugly - malrupi  
+ugly (unsightly) - dusvidi  
 Ukraine - Ukraina  
 umbrella - barxocate  
 umbrella thorn acacia tree - helisbabul  
@@ -3551,6 +3565,7 @@ use (utility, benefit, gain, advantage) - faidia
 useful (beneficial, advantageous) - faidi  
 user - uzer  
 username - uzernam  
+utopia - eutopia  
 Uzbekistan - Uzbekia  
 vaccine - vaksin  
 vacuum cleaner - funcuper  

@@ -86,6 +86,12 @@ almas - diamond
 aluminem - aluminium  
 aluminmate - alum  
 aluminokside - alumina (aluminum oxide)  
+am - love (liking, affection)  
+ama - love (hold dear)  
+ami - dear (beloved)  
+amater - amateur  
+amer - lover  
+amike - darling (honey)  
 Amari - Amhara (an Ethiopian ethnic group and language)  
 amena - trust (have faith)  
 ameni - trusted  
@@ -102,6 +108,8 @@ amirhake - authority (power to give orders)
 amirlinye - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
+anama - dislike (loathe)  
+anamike - enemy  
 anativa - deactivate (disable, turn off)  
 anativi - off (deactivated, disabled)  
 ancenvidi - unexpected  
@@ -499,7 +507,7 @@ carmes - April
 carme - charm (attraction)  
 cate - roof  
 cau - grass  
-cavistan - grassland  
+cautopia - grassland  
 Cehia - Czech Republic  
 ceka - check (to examine)  
 cel - cell (biology)  
@@ -760,6 +768,13 @@ duru - last (take time; during)
 durabli - durable (endurable, sustainable)  
 duriki - chronic (lasting)  
 durmetrer - stopwatch  
+dusi - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
+dusdevistia - dystheism (maltheism)  
+dushal - hardship (difficulty, challenge)  
+dusjan - enemy (foe, villain)  
+duskar - misdeed (sin, vice)  
+dustopia - dystopia  
+dusvidi - ugly (unsightly)  
 dute - doubt (disbelief)  
 dutabli - dubious (suspicious, unbelievable)  
 dutani - doubtful (suspicious, disbelieving)  
@@ -846,6 +861,11 @@ estudia - studio
 Etiopia - Ethiopia  
 evi - beneficial (good)  
 evanjil - gospel (divine message)  
+eudevistia - eutheism  
+eujenistia - eugenics  
+euloga - praise (eulogize)  
+euloge - praise (eulogy)  
+eutopia - utopia  
 eurasia - Eurasia  
 eureka - find (discover)  
 euro\* - euro (€)  
@@ -1027,7 +1047,7 @@ futau - axe (hatchet)
 Gabon - Gabon  
 gabra - bury  
 gabre - grave (tomb)  
-gabristan - graveyard  
+gabrotopia - graveyard  
 gabroxeke - tombstone (gravestone)  
 gade - donkey (ass)  
 gadogude - mule  
@@ -1302,6 +1322,7 @@ historia - history (study of history)
 historer - historian  
 Ho Ci Min site - Ho Chi Minh City (Saigon)  
 hobe - hobby  
+hobiste - hobbyist  
 hoga - burn (cause to burn)  
 hoge - fire (burning)  
 hogi - fiery  
@@ -1452,7 +1473,6 @@ Islandia - Iceland
 Israel - Israel  
 iste - proponent (supporter, activist, -ist)  
 istia - ism (doctrine, ideology, religion, etc)  
-istan - region  
 Italia - Italy  
 itis - inflammation (-itis)  
 iva - tend to  
@@ -1902,8 +1922,6 @@ kukokamar - kitchen
 kuli - cool  
 kulombe - coulomb (unit)  
 kultur - culture  
-kunan - hardship (difficulty, challenge)  
-kunani - difficult (hard, tough)  
 kupe - drinking vessel (cup, glass, mug, goblet, chalice)  
 kupocate - dome  
 kupon - coupon  
@@ -2082,10 +2100,6 @@ lusun - asparagus
 luta - rob (loot, plunder, pillage, ransack)  
 luter - robber (plunderer)  
 lutetem - lutetium  
-luva - love (hold dear)  
-luve - love (liking, affection)  
-luvi - dear (beloved)  
-luver - lover  
 ####M - M  
 me - I (me)  
 mi - my  
@@ -2121,7 +2135,6 @@ mal (mali) - bad
 mal zar - misfortune (bad luck)  
 maldarja - downgrade  
 malfunce - malfunction  
-malrupi - ugly  
 malsinyi - ominous (foreboding)  
 malagasi - Malagasy  
 Malagasia - Madagascar  
@@ -2255,8 +2268,8 @@ metrun - unit (measurement)
 Mexiko - Mexico  
 Mexiko site - Mexico City  
 meze - table  
-mezistan - plateau (tableland)  
 mezotex - tablecloth  
+mezotopia - plateau (tableland)  
 Myanma - Myanmar (Burma)  
 mien - noodle  
 migra - move (migrate, relocate)  
@@ -2755,10 +2768,10 @@ plastike - plastic
 plate - plane (plate)  
 plati - flat (planar)  
 plati geukaskia - plate tectonics  
-platistan - plain (plateau, flat lands)  
 platoforme - platform  
 platogeviste - flat-earther  
 platotas - plate  
+platotopia - plain (plateau, flat lands)  
 platinem - platinum  
 Platon - Plato  
 platoniste - Platonist  
@@ -2813,7 +2826,7 @@ postocape - postal stamp
 postokan - post office  
 pote - mud (mire)  
 poti - muddy  
-potistan - marsh (bog, swamp, morass)  
+pototopia - marsh (bog, swamp, morass)  
 poza - pose (set, plant)  
 poze - pose (position)  
 prasedem - praseodymium  
@@ -2914,8 +2927,8 @@ rebel - rebellion
 reda - prepare (make ready)  
 redi - ready  
 rege - sand  
-registan - desert  
 regopetre - sandstone  
+regotopia - desert  
 rei - repetition  
 reya - repeat (iterate)  
 reyo - again (repeatedly)  
@@ -3427,6 +3440,8 @@ tomate - tomato
 ton - tone (note, pitch, shade)  
 tong - barrel (can, cask)  
 Tonga - Tonga  
+tope - region  
+topograf - topography  
 torem - thorium  
 torse - trunk (torso)  
 tortuge - turtle (tortoise)  

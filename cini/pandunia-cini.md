@@ -36,6 +36,11 @@ alkalmelon - 苦瓜
 alkol - 酒  
 almar - 碗碟橱  
 almas - 钻石  
+am - 愛  
+ama - 爱  
+ami - 亲爱的  
+amater - 爱好者  
+amer - 恋人 (情人, 爱人)  
 andiniste - 不信神的  
 anmema - 忘记  
 analiza - 分析  
@@ -234,6 +239,9 @@ dunia - 世界
 dur - 时间  
 durabli - 耐用的  
 durmetrer - 秒表  
+dusi - 难  
+dusjan - 敌人  
+dusvidi - 难看  
 dux - 淋浴  
 ####E - E  
 e - 和  
@@ -288,7 +296,7 @@ fungopal - 蘑菇
 ####G - G  
 gabra - 埋葬  
 gabre - 坟墓  
-gabristan - 公墓 (墓地)  
+gabrotopia - 公墓 (墓地)  
 gabroxeke - 墓石 (墓碑)  
 gadogude - 骡  
 Galia - 高卢  
@@ -604,10 +612,6 @@ lugi - 绿色
 lung - 龙  
 luta - 掠夺  
 luter - 强盗  
-luva - 爱  
-luve - 愛  
-luvi - 亲爱的  
-luver - 恋人 (情人, 爱人)  
 ####M - M  
 me - 我  
 mome - 我们  
@@ -771,7 +775,7 @@ pipre - 胡椒
 piprominte - 辣薄荷  
 pis - 云杉  
 plati geukaskia - 板块构造论  
-platistan - 平原  
+platotopia - 平原  
 pliza - 请  
 plum - 李子  
 polmaro - 经常  
@@ -930,6 +934,7 @@ tira pil - 削 (刮去)
 tirbaton - 杆  
 toca - 接触  
 tomate - 西红柿  
+topograf - 地形  
 tova - 拖  
 trate - 合同 (合约)  
 truka - 耍花招  

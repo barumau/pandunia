@@ -38,10 +38,11 @@ almirante - hayamirer
 altar - pujomeze  
 alterar - ala  
 alô - halo\*  
-amante - luver  
+amador - amater  
+amante - amer  
 amargo - alkalgusti  
 ameixa - plum  
-amor - luve  
+amor - am  
 amêndoa - badam  
 analógico - zoki  
 andesito - andesite  
@@ -179,7 +180,7 @@ castanho (marrom) - bruni
 cavar (escavar) - kava  
 caçar - saida  
 cebola - piaze  
-cemitério - gabristan  
+cemitério - gabrotopia  
 cenoura - karote  
 centro - jung  
 centáurea - centaur  
@@ -316,6 +317,7 @@ elemento - em
 elemento químico - kimem  
 eletricidade - eletre  
 elo - sil  
+elogio - euloge  
 embalar - lifafa  
 emoticon (emoji) - emoje  
 emoçao - emos  
@@ -379,6 +381,7 @@ favorito (preferido) - favori
 fazenda (tecido) - tex  
 fazer - fata  
 fechadura - sor  
+feio - dusvidi  
 feliz - suki  
 feno - gancau  
 fermentar - biumutu  
@@ -470,6 +473,7 @@ indígena (índio) - aslameriki
 infecção - infekse  
 infiel - andiniste  
 inflamaçao - itis  
+inimigo - dusjan  
 inseto - koncung  
 internacional - nasmedi  
 invernal (hibernal) - lengomosimi  
@@ -549,6 +553,7 @@ macroalga - hayalge
 magnésio - magesem  
 mais - max (maxo)  
 maldição - lan  
+malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
 manga - kamisi xake  
 maniqueísmo - manihayistia  
@@ -787,7 +792,8 @@ queimar - hoga
 queimarse - hogu  
 quem - ki jan  
 querer (desejar) - volu  
-querido (caro) - luvi  
+querido (caro) - ami  
+querido - amike  
 questão (pergunta) - eske  
 quincã (cunquate) - kankuate  
 quinta-feira - caryom  
@@ -919,6 +925,7 @@ tijolo - dobe
 toalha - gantex  
 toalha de mesa - mezotex  
 tomate - tomate  
+topografia - topograf  
 tora - mokotan  
 toranja - putavoranje  
 torta - pai  

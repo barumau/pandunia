@@ -82,6 +82,12 @@ almas - diamante
 aluminem - aluminio  
 aluminmate - alumbre  
 aluminokside - alúmina  
+am - amor  
+ama - amar  
+ami - querido  
+amater - amateur (aficionado)  
+amer - amante (enamorado)  
+amike - amado (cariño)  
 Amari - amhara  
 ameno - seguramente (amén)  
 Amerike - América  
@@ -95,6 +101,7 @@ amirer - emir
 amirlinye - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
+anama - detestar  
 andaka - destapar  
 andeviste - ateo  
 andiniste - infiel (descreído)  
@@ -462,7 +469,7 @@ carmes - abril
 carme - encanto  
 cate - techo (tejado)  
 cau - césped (hierba)  
-cavistan - pradera (pastizal)  
+cautopia - pradera (pastizal)  
 Cehia - República Checa  
 ceka - revisar (chequear)  
 cel - célula  
@@ -702,6 +709,11 @@ duru - durar (durante, llevar tiempo)
 durabli - durable  
 duriki - crónico  
 durmetrer - cronómetro  
+dusi - malo (difícil, duro)  
+dushal - dificultad (apuro, privación)  
+dusjan - enemigo  
+duskar - pecado  
+dusvidi - feo  
 dute - duda  
 duva - rezar (orar)  
 duve - rezo (oración)  
@@ -782,6 +794,7 @@ estudia - estudio
 Etiopia - Etiopía  
 evi - beneficioso (bueno)  
 evanjil - evangelio  
+euloge - elogio  
 eurasia - Eurasia  
 eureka - econtrar (hallar)  
 euro\* - euro  
@@ -948,7 +961,7 @@ futau - hacha
 Gabon - Gabón  
 gabra - enterrar  
 gabre - tumba (sepultura)  
-gabristan - cementerio  
+gabrotopia - cementerio  
 gabroxeke - lápida  
 gade - burro (asno)  
 gadogude - mula  
@@ -1345,7 +1358,6 @@ Islandia - Islandia
 Israel - Israel  
 iste - proponente (defensor, -ista)  
 istia - ideología (doctrina, religión, -ismo)  
-istan - región (zona)  
 Italia - Italia  
 itis - inflamación  
 iva - tender  
@@ -1757,8 +1769,6 @@ kukokamar - cocina
 kuli - genial  
 kulombe - culombio  
 kultur - cultura  
-kunan - dificultad (apuro, privación)  
-kunani - difícil (duro)  
 kupe - vaso (taza, copa)  
 kupocate - cúpula  
 kupon - cupón (vale)  
@@ -1924,10 +1934,6 @@ lusun - espárrago
 luta - saquear (desvalijar, robar)  
 luter - ladrón  
 lutetem - lutecio  
-luva - amar  
-luve - amor  
-luvi - querido  
-luver - amante (enamorado)  
 ####M - M  
 me - yo  
 mi - mi  
@@ -1961,7 +1967,6 @@ mal (mali) - malo
 mal zar - infortunio (mala suerte)  
 maldarja - degradar  
 malfunce - falla (mal funcionamiento)  
-malrupi - feo  
 malsinyi - ominoso (amenazador)  
 malagasi - malgache  
 Malagasia - Madagascar  
@@ -2088,8 +2093,8 @@ metrun - unidad (medida)
 Mexiko - México  
 Mexiko site - Ciudad de México  
 meze - mesa  
-mezistan - meseta  
 mezotex - mantel  
+mezotopia - meseta  
 Myanma - Myanmar (Birmania)  
 mien - fideo (tallarín)  
 migra - migrar (emigrar, tralsadar)  
@@ -2555,9 +2560,9 @@ plastike - plástico
 plate - plano (placa)  
 plati - plana (llano, liso)  
 plati geukaskia - tectónica de placas  
-platistan - llanura  
 platogeviste - terraplanista  
 platotas - plato  
+platotopia - llanura  
 platinem - platino  
 Platon - Platón  
 platoniste - platonista  
@@ -2612,7 +2617,7 @@ postocape - sello postal
 postokan - oficina de correos  
 pote - lodo (barro, fango)  
 poti - embarrado (enlodado)  
-potistan - ciénaga (pantano)  
+pototopia - ciénaga (pantano)  
 poza - hacer posar (plantar)  
 poze - pose (postura)  
 prasedem - praseodimio  
@@ -2708,7 +2713,7 @@ rebel - rebelión (sublevación)
 reda - preparar (hacer listo)  
 redi - listo (preparado)  
 rege - arena  
-registan - desierto  
+regotopia - desierto  
 rei - repetición  
 reya - repetir  
 reyo - otra vez (de nuevo)  
@@ -3200,6 +3205,8 @@ tomate - tomate
 ton - tono  
 tong - barril (tonel)  
 Tonga - Tonga  
+tope - región (zona)  
+topograf - topografía  
 torem - torio  
 torse - torso  
 tortuge - tortuga  

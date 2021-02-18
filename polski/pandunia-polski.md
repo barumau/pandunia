@@ -77,6 +77,9 @@ alkoli - alkoholowy
 almar - kredens (szafa, szafka)  
 almas - diament  
 aluminem - glin (aluminium)  
+am - miłość (afekt)  
+ama - kochać  
+ami - kochany (drogi)  
 Amari - Amhara, amharski  
 Amerike - Ameryka (kontynent)  
 ameriki - amerykański  
@@ -466,7 +469,7 @@ carmes - lipiec
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
-cavistan - łąka  
+cautopia - łąka  
 Cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 cel - komórka (biologia)  
@@ -715,6 +718,8 @@ duru - trwać, zająć czas; przez
 durabli - trwały (wytrzymały, podtrzymywalny)  
 duriki - chroniczny  
 durmetrer - stoper (sekundomierz)  
+dushal - trudność (trud)  
+dusvidi - brzydki  
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 dutabli - wątpliwy (niewiarygodny, podejrzany)  
 dutani - niepewny (podejrzliwy, niedowierzący)  
@@ -797,6 +802,7 @@ estudia - studio (pracownia)
 Etiopia - Etiopia  
 evi - korzystny (dobry)  
 evanjil - ewangelia  
+euloge - laudacja  
 eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
 euro\* - euro (€)  
@@ -961,7 +967,7 @@ futau - siekera, topór
 Gabon - Gabon  
 gabra - zakopać (pochować)  
 gabre - grób (mogiła, grobowiec)  
-gabristan - cmentarz  
+gabrotopia - cmentarz  
 gabroxeke - nagrobek  
 gade - osioł  
 gadogude - muł  
@@ -1359,7 +1365,6 @@ Islandia - Islandia
 Israel - Izrael  
 iste - przyrostek dla wsperającego ideę  
 istia - przyrostek dla ideologii  
-istan - region  
 Italia - Italia, Włochy  
 itis - zapalenie  
 iva - być skłonnym (mieć skłonność)  
@@ -1777,8 +1782,6 @@ kukokamar - kuchnia
 kuli - świetny  
 kulombe - kulomb  
 kultur - kultura  
-kunan - trudność (trud)  
-kunani - trudny (ciężki)  
 kupe - kubek  
 kupocate - kopuła  
 kupon - kupon  
@@ -1948,9 +1951,6 @@ lusun - szparag; szparagia
 luta - obrabować, splądrować  
 luter - rabuś (grabieżca)  
 lutetem - lutet  
-luva - kochać  
-luve - miłość (afekt)  
-luvi - kochany (drogi)  
 ####M - M  
 me - ja, mnie  
 mi - mój  
@@ -1986,7 +1986,6 @@ mal (mali) - zły
 mal zar - zły los  
 maldarja - dezaktualizować (pogorszyć)  
 malfunce - awaria (wadliwe działanie)  
-malrupi - brzydki  
 malsinyi - złowieszczy  
 malagasi - madagaskarski; malagaski  
 Malagasia - Madagaskar  
@@ -2117,8 +2116,8 @@ metrun - jednostka miary
 Mexiko - Meksyk  
 Mexiko site - Meksyk  
 meze - stół  
-mezistan - płaskowyż (plateau)  
 mezotex - obrus  
+mezotopia - płaskowyż (plateau)  
 Myanma - Mjanma, Birma  
 mien - makaron  
 migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
@@ -2592,10 +2591,10 @@ plastike - plastik
 plate - płaszczyzna (płyta)  
 plati - płaski  
 plati geukaskia - tektonika płyt  
-platistan - równina (plaskowyż, plateau)  
 platoforme - platforma  
 platogeviste - płaskoziemca  
 platotas - talerz  
+platotopia - równina (plaskowyż, plateau)  
 platinem - platyna  
 Platon - Platon  
 platoniste - platończyk  
@@ -2648,7 +2647,7 @@ postocape - znaczek pocztowy
 postokan - poczta, budynek poczty  
 pote - błoto  
 poti - błotnisty  
-potistan - bagno  
+pototopia - bagno  
 poza - pozować, ustawiać się  
 poze - poza, pozycja  
 prasedem - prazeodym  
@@ -2745,8 +2744,8 @@ rebel - rebelia, powstanie
 reda - przygotować, przygotowywać  
 redi - gotowy  
 rege - piasek, piach  
-registan - pustynia  
 regopetre - piaskowiec  
+regotopia - pustynia  
 rei - powtarzanie, powtórka  
 reya - powtórzyć, powtarzać  
 reyo - znowu (ponownie)  
@@ -3238,6 +3237,7 @@ tomate - pomidor
 ton - ton, dźwięk, nuta, tonacja  
 tong - beczka  
 Tonga - Tonga  
+tope - region  
 torem - tor  
 torse - tułów  
 tortuge - żółw  

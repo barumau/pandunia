@@ -35,6 +35,10 @@ alkaloranje - померанец
 alkol - алкоголь  
 almar - шкаф  
 almas - алмаз (бриллиант)  
+am - любовь  
+ama - любить  
+amater - любитель  
+amer - любовник  
 amirlinye - командная строка  
 andiniste - неверующий  
 anmema - забывать  
@@ -262,6 +266,8 @@ duru - длиться
 durabli - долговечный  
 duriki - хронический  
 durmetrer - секундомер  
+dusjan - враг (противник)  
+dusvidi - безобразный (некрасивый)  
 dux - душ  
 ####E - E  
 ekojeni - дикий  
@@ -285,6 +291,7 @@ eskulter - скульптор
 esponje - губка  
 estibem - сурьма (стибиум)  
 evanjil - евангелие  
+euloge - панегирик  
 europobalute - дуб черешчатый  
 ####F - F  
 faidia - применение (утилитарность)  
@@ -330,7 +337,7 @@ futobol - футбол
 ####G - G  
 gabra - хоронить  
 gabre - могила (гроб)  
-gabristan - кладбище  
+gabrotopia - кладбище  
 gabroxeke - надгробие  
 gadogude - мул  
 Galia - Галлия  
@@ -662,9 +669,6 @@ lova - протекать (просочиться)
 lugi - зелёный  
 lun - луна  
 luter - грабитель  
-luva - любить  
-luve - любовь  
-luver - любовник  
 ####M - M  
 me - я  
 mome - мы  
@@ -1047,6 +1051,7 @@ tirbaton - рычаг
 tirdar - отбойное течение  
 toca - касаться  
 tomate - помидор (томат)  
+topograf - топография  
 tova - волочить  
 trate - договор  
 truka - обмануть  

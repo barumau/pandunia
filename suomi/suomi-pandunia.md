@@ -12,7 +12,7 @@ Aasia - Asia
 aasialainen - asi  
 aate (ismi, ideologia, uskonto, jne) - istia  
 aatteen kannattaja - iste  
-aavikko (hiekkaerämaa) - registan  
+aavikko (hiekkaerämaa) - regotopia  
 Abhaasia - Apsni  
 aboriginaali (Australian alkuperäisasukas) - aslaustrali  
 abyssinia - Habaxia  
@@ -86,6 +86,7 @@ aloittaa - xura
 alttari - pujomeze  
 alue (seutu) - aria  
 alumiini - aluminem  
+amatööri - amater  
 amerikium - amerikem  
 Amerikka - Amerike  
 amerikkalainen - ameriki  
@@ -284,6 +285,8 @@ dualismi - dulistia
 dubnium - dubnem  
 dynamiitti - dinamite  
 dysprosium - disprosem  
+dysteismi (usko jumalan pahuuteen) - dusdevistia  
+dystopia - dustopia  
 ####E - E  
 Ecuador - Ekuador  
 edellinen - ceni  
@@ -390,6 +393,7 @@ etuliite (prefiksi) - cenfikse
 etymologia - logaslia  
 etäisyys (kaukaisuus) - tel  
 etäisyys (kaukaisuus) - telia  
+eugeniikka - eujenistia  
 Euraasia - eurasia  
 euro (€) - euro\*  
 Euroopan unioni - Europi Unia  
@@ -397,6 +401,7 @@ Eurooppa - Europe
 eurooppalainen - europi  
 Europa-kuu - Europa  
 europium - europem  
+euteismi (usko jumalan hyvyyteen) - eudevistia  
 evankeliumi(hyvä sana) - evanjil  
 eväsretki (piknik) - eksyam  
 ####F - F  
@@ -504,6 +509,7 @@ harjoitus - lenxe
 harmaa - huirangi  
 harmonia - harmonia  
 harmoninen - harmoni  
+harrastaja - hobiste  
 harrastus - hobe  
 harso - gaze  
 hasis - haxix  
@@ -513,7 +519,7 @@ haureus (uskottomuus) - zin
 hauska (huvittava) - vani  
 hauta - gabre  
 hautakivi - gabroxeke  
-hautausmaa - gabristan  
+hautausmaa - gabrotopia  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
 he - lole  
@@ -704,6 +710,8 @@ Indonesia - Indonesia
 Indusjoki - Hindonade  
 infektio (tartunta) - infekse  
 inhimillinen - insaniki  
+inhokki (inhotus) - anamike  
+inhota - anama  
 inkivääri - zinje  
 insinööri - injener  
 internet - internete  
@@ -1179,6 +1187,7 @@ kulkea poikki, läpi tai yli - transa
 kulma (nurkka) - gon  
 kulmamitta (goniometri) - gonmetrer  
 kulombi (mittayksikkö C) - kulombe  
+kulta (rakas) - amike  
 kulta - aur  
 kulttuuri - kultur  
 kuluttaa (viettää aikaa) - dura  
@@ -1763,7 +1772,7 @@ niellä - gula
 Niger - Nijer  
 Nigeria - Naijiria  
 nihonium - niponem  
-niitty - cavistan  
+niitty - cautopia  
 Nikaragua - Nikaragua  
 nikkeli - nikel  
 nilviäinen - moluske  
@@ -1905,6 +1914,7 @@ paahtoleipä - rosti pang
 paapuuri - botolefte  
 paeta (karata) - bega  
 pah (pyh) - bah  
+paha (epäsuotuisa, epämiellyttävä, vastustava) - dusi  
 paholainen (saatana, piru) - xatan  
 paikallinen - loki  
 paikka (sija, sijainti) - loke  
@@ -2237,14 +2247,14 @@ radon - radon
 raha - pes  
 rahka - panir  
 raja - limite  
-rakas (armas) - luvi  
-rakastaa (pitää, tykätä) - luva  
+rakas (armas) - ami  
+rakastaa (pitää, tykätä) - ama  
 rakastaa romanttisesti - romansa  
-rakastaja - luver  
+rakastaja - amer  
 rakennus (rakenne) - bin  
 rakentaa - bina  
 raketti - rokete  
-rakkaus (tykkääminen) - luve  
+rakkaus (tykkääminen) - am  
 ramadan - ramazan  
 Ranska - Fransia  
 ranskaa puhuva (frankofoni) - fransofoni  
@@ -2318,7 +2328,7 @@ ruiske (injektio) - jux
 ruiskuttaa - juxa  
 rukoilla - duva  
 rukous - duve  
-ruma (pahannäköinen) - malrupi  
+ruma (pahannäköinen) - dusvidi  
 rumpu - gum  
 runo - xir  
 runoilija - xirer  
@@ -2447,7 +2457,7 @@ seuraava - badi
 seurata (tulla perässä, tulla jäljessä) - bada  
 seuraus - bade  
 seurustella (toimia yhdessä) - soca  
-seutu (maa) - istan  
+seutu (maa) - tope  
 Seychellit - Sexel nesia  
 sianliha - gurubomanse  
 side (remmi) - fax  
@@ -2565,7 +2575,7 @@ sulka - per
 sulkea (panna kiinni) - ankaya  
 sulkea vetoketjulla - zipa  
 summa - sum  
-suo (räme) - potistan  
+suo (räme) - pototopia  
 suodattaa - filter  
 suojakilpi - defban  
 suojakypärä - defkaske  
@@ -2609,6 +2619,7 @@ sylkeä - tuha
 symmetria - sammetria  
 symmetrinen - sammetri  
 synnyttää - jena  
+synti (paha teko) - duskar  
 synty (syntymä) - jen  
 syntymäpäivä - jenden  
 syntyä - jenu  
@@ -2810,6 +2821,7 @@ tomaatti - tomate
 Tonga - Tonga  
 tonni (1000 kg) - megagram  
 tontti (maakaistale) - geutike  
+topografia - topograf  
 tori (basaari) - bazar  
 torni - minar  
 torstai - caryom  
@@ -2949,6 +2961,7 @@ uskonnoton - andiniste
 uskonto - din  
 uskottavasti (totisesti, aamen) - ameno  
 uskovainen - diniste  
+utopia - eutopia  
 uudistaa - nova  
 uuni - tanur  
 uusi - novi  
@@ -2970,8 +2983,7 @@ vahvistaa (voimistaa) - forta
 vaihe (etappi) - faze  
 vaihtaa - badla  
 vaihtoehto - cuzable  
-vaikea - kunani  
-vaikeus (hankaluus) - kunan  
+vaikeus (hankaluus) - dushal  
 vaikuttaa - asara  
 vaikutus (tulos) - asar  
 vain (pelkästään) - sado  
@@ -3086,6 +3098,7 @@ viha - hen
 vihainen (suuttunut) - furi  
 vihannes - coi  
 vihollinen - andoste  
+vihollinen - dusjan  
 vihreä - lugi  
 viihdyttää (huvittaa) - vana  
 viikko - yomsete  
@@ -3215,6 +3228,8 @@ yksivärinen - unrangi
 yleinen (universaali) - putongi  
 yleiskiina (mandariinikiina) - Putong Cini  
 yliopisto - daixulkan  
+ylistys - euloge  
+ylistää (puhua hyvää, kehua) - euloga  
 ylistää - halela  
 ylittää - supra  
 ylitys - supre  

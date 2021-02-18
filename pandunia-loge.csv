@@ -87,6 +87,12 @@ almas:|almas|||swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs)
 alumin.em:|aluminem|mate|Al||aluminium|aluminium|aluminio|||||||||||||aluminio|alumiini|glin (aluminium)
 alumin.mat:e|aluminmate||||alum||alumbre|||||||||||||||
 alumin.oks.id:e|aluminokside||||alumina (aluminum oxide)||alúmina|||||||||||||||
+am:|am|||eng:fra:amour, spa:por:amor|love (liking, affection)|amour (affection)|amor|amor|любовь||愛|愛|||मुहब्बत (अनुराग, पसंद)||cinta (kasih, asmara)|penzi (ashiki, upendo)|sevda (aşk)|amo|rakkaus (tykkääminen)|miłość (afekt)
+am:a|ama||||love (hold dear)|aimer|amar||любить||爱|||||||||ami (ŝati)|rakastaa (pitää, tykätä)|kochać
+am:i|ami||||dear (beloved)|cher|querido|querido (caro)|||亲爱的|愛しい|||प्यारा|||||kara|rakas (armas)|kochany (drogi)
+am.at.er:|amater||||amateur|amateur|amateur (aficionado)|amador|любитель||爱好者|アマチュア|아마추어||||||amatör||amatööri|
+am.er:|amer||||lover|amoureux|amante (enamorado)|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja|
+am.ik:e|amike||||darling (honey)|chéri|amado (cariño)|querido||حَبِيب‎|||||हबीब (प्रिय)|||||karulo|kulta (rakas)|
 Amar:i|Amari|nas|||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique et langue éthiopienne)|amhara||||||||||||||amhara (etiopialainen kansa ja kieli)|Amhara, amharski
 amen:a|amena||||trust (have faith)||||||||||||||||luottaa (uskoa)|
 amen:i|ameni||||trusted||||||||||||||||varma|
@@ -104,6 +110,8 @@ amir.lini:e|amirlinye||||command line (console, terminal)||interfaz de línea de
 amper:|amper|unomete|A||ampere (amp)|ampère|amperio|||||||||||||ampero|ampeeri|amper
 ampul:|ampul|||fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|ampoule (vial)|ampoule (fiole)|ampolla (vial)||||||||||||||ampulli|ampułka
 an.:i|ani|||ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|reverse (negative, un-)|||||||||||||||mala|vastakohtainen (negatiivinen, epä-)|negatywny (przeciwny, nie)
+an.am:a|anama||||dislike (loathe)|exécrer|detestar|||||||||||||malami|inhota|
+an.am.ik:e|anamike||||enemy|||||||||||||||malamulo|inhokki (inhotus)|
 an.at.iu:a|anativa||||deactivate (disable, turn off)||||||||||||||||poistaa toiminnasta|deaktywować (wyłączyć, zatrzymać)
 an.at.iu:i|anativi||||off (deactivated, disabled)||||||||||||||||epäaktiivinen (pois toiminnasta)|zdeaktywowany (wyłączony, zatrzymany)
 an.cen.uid:i|ancenvidi||||unexpected||||||||||||||||ennennäkemätön|niespodziewany
@@ -501,7 +509,7 @@ car.mes:|carmes|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
 carm:e|carme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 cat:e|cate|||hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|roof||techo (tejado)|||||||||||||tekto|katto (katos)|dach
 cau:|cau|biv||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
-cau.istan:|cavistan||||grassland||pradera (pastizal)|||||草地|||||||||niitty|łąka
+cau.top:ia|cautopia||||grassland||pradera (pastizal)|||||草地|||||||||niitty|łąka
 Ceh:ia|Cehia|dex|CZ||Czech Republic||República Checa||||||||||||||Tšekki|Republika Czeska, Czechy
 cek:a|ceka|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
 cel:|cel|||may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|cell (biology)||célula|||||||||||||ĉelo|solu|komórka (biologia)
@@ -764,6 +772,13 @@ dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:
 dur.abl:i|durabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
+dus:i|dusi|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)||malo (difícil, duro)||||难|難しい||khó (khốn nạn)|दुश्वार||||||paha (epäsuotuisa, epämiellyttävä, vastustava)|
+dus.deu.ist:ia|dusdevistia||||dystheism (maltheism)||||||||||||||||dysteismi (usko jumalan pahuuteen)|
+dus.hal:|dushal||||hardship (difficulty, challenge)||dificultad (apuro, privación)||||||||||||||vaikeus (hankaluus)|trudność (trud)
+dus.jan:|dusjan||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
+dus.kar:|duskar||||misdeed (sin, vice)|méfait (péché)|pecado|malfeitoria (pecado)||||悪事|||||||||synti (paha teko)|
+dus.top:ia|dustopia||||dystopia||||||||||||||||dystopia|
+dus.vid:i|dusvidi||||ugly (unsightly)|laid (vilain)|feo|feio|безобразный (некрасивый)|قَبِيح|难看|見苦しい|추악하다|xấu xí|बदसूरत|বিশ্রী|hodoh||çirkin|malbonaspekta|ruma (pahannäköinen)|brzydki
 dut:e|dute|||fra:doute, eng:doubt, spa:tgl:duda|doubt (disbelief)||duda|||||||||||||dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
 dut.abl:i|dutabli||||dubious (suspicious, unbelievable)||||||||||||||||epäilyttävä|wątpliwy (niewiarygodny, podejrzany)
 dut.an:i|dutani||||doubtful (suspicious, disbelieving)||||||||||||||||epäilevä|niepewny (podejrzliwy, niedowierzący)
@@ -850,6 +865,11 @@ estud:ia|estudia|||rus:студия (studiya), spa:estudio, por:estúdio|studio|
 Etiop:ia|Etiopia|dex|ET||Ethiopia||Etiopía|||||||||||||Etiopio|Etiopia|Etiopia
 eu:i|evi|||eng:fra:spa:por:eu-|beneficial (good)||beneficioso (bueno)||||||||||||||hyvä (eettisesti hyvä)|korzystny (dobry)
 eu.anjil:|evanjil||||gospel (divine message)|évangile|evangelio|evangelho|евангелие||福音||||सुसमाचार||injil||incil|evangelio|evankeliumi(hyvä sana)|ewangelia
+eu.deu.ist:ia|eudevistia||||eutheism||||||||||||||||euteismi (usko jumalan hyvyyteen)|
+eu.jen.ist:ia|eujenistia||||eugenics||||||||||||||||eugeniikka|
+eu.log:a|euloga||||praise (eulogize)||||||||||||||||ylistää (puhua hyvää, kehua)|
+eu.log:e|euloge||||praise (eulogy)|éloge|elogio|elogio|панегирик|||賛辞|찬사||||||||ylistys|laudacja
+eu.top:ia|eutopia||||utopia||||||||||||||||utopia|
 eur.as:ia|eurasia|||eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|Eurasia||Eurasia|||||||||||||Eŭrazio|Euraasia|Eurazja
 eurek:a|eureka|||ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|find (discover)||econtrar (hallar)|||||||||||||trovi|löytää (keksiä)|znaleźć, znajdywać, odkryć, odkrywać
 euro:|euro*||||euro (€)||euro|||||||||||||eŭro|euro (€)|euro (€)
@@ -1032,7 +1052,7 @@ G|G||||G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
 Gabon:|Gabon|dex|GA||Gabon||Gabón||||||||||||||Gabon|Gabon
 gabr:a|gabra||||bury|enterrer|enterrar|enterrar|хоронить||埋葬|葬る (埋葬する)||||||||enterigi|haudata|zakopać (pochować)
 gabr:e|gabre|||ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, swa:kaburi, tur:kabir, deu:Grab, pol:grób, rus:гроб (grob)|grave (tomb)|tombe|tumba (sepultura)|sepultura (túmulo)|могила (гроб)||坟墓|墓|무덤|mộ (phần mộ)|क़ब्र|কবর|kubur|kaburi|mezar (kabir)|tombo|hauta|grób (mogiła, grobowiec)
-gabr.istan:|gabristan||||graveyard|cimetière|cementerio|cemitério|кладбище|مقبرة‎|公墓 (墓地)|墓 (墓地)|묘지|nghĩa trang|क़ब्रिस्तान|কারবালা|pekuburan|makaburi|mezarlık (kabristan, mezaristan)|tombejo|hautausmaa|cmentarz
+gabr.o.top:ia|gabrotopia||||graveyard|cimetière|cementerio|cemitério|кладбище|مقبرة‎|公墓 (墓地)|墓 (墓地)|묘지|nghĩa trang|क़ब्रिस्तान|কারবালা|pekuburan|makaburi|mezarlık (kabristan, mezaristan)|tombejo|hautausmaa|cmentarz
 gabr.o.xek:e|gabroxeke||||tombstone (gravestone)|pierre tombale|lápida|lápide|надгробие||墓石 (墓碑)|墓石 (墓碑)|묘석|bia mộ|कब्र का पत्थर||batu nisan||mezartaşı|tomboŝtono|hautakivi|nagrobek
 gad:e|gade|biv|Equus africanu asinus|hin:गधा (gadhā), ben:গাধা (gadha), guj:ગધેડો (gadheḍo), tel:(gāḍida), tam:(kaḻutai), may:keledai, + yor:ké̩té̩ké̩té̩|donkey (ass)||burro (asno)|||||||||||||azeno|aasi|osioł
 gad.o.gud:e|gadogude|biv|Equus asinus♂ × Equus caballus♀||mule|mule|mula||мул||骡|騾馬|||||||||muuli|muł
@@ -1308,6 +1328,7 @@ histor:ia|historia|||eng:history, spa:swa:historia, por:história, fra:histoire,
 histor.er:|historer||||historian||historiador|||||||||||||historiisto|historioitsija|historyk
 Ho Ci Min sit:e|Ho Ci Min site|site|||Ho Chi Minh City (Saigon)|||||||||Thành phố Hồ Chí Minh||||||||Ho Chi Minh (Sajgon)
 hob:e|hobe|||eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|hobby||pasatiempo (hobby, afición)|||||||||||||hobio|harrastus|hobby
+hob.ist:e|hobiste||||hobbyist||||||||||||||||harrastaja|
 hog:a|hoga||||burn (cause to burn)|brûler|quemar|queimar|жечь (палить)|أَحْرَقَ|燃烧|燃やす|태우다||जलाना|||kuchoma|yakmak||polttaa|spalić, palić
 hog:e|hoge|||spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|fire (burning)|feu|fuego|fogo|огонь|نَار|火|火|불|lửa|आग (अग्नि)|আগুন (অগ্নি)|api|moto|ateş|fajro|tuli|ogień
 hog:i|hogi||||fiery||ardiente (encendido)|||||||||||||fajra|tulinen|ognisty
@@ -1459,7 +1480,6 @@ Island:ia|Islandia|dex|IS||Iceland||Islandia|||||||||||||Islando|Islanti|Islandi
 Israel:|Israel|dex|IL||Israel||Israel|||||||||||||Israelo|Israel|Izrael
 ist:e|iste|||eng:deu:tur:-ist, fra:-iste, spa:por:-ista, rus:-ист (-ist)|proponent (supporter, activist, -ist)||proponente (defensor, -ista)|||||||||||||isto de ismo|aatteen kannattaja|przyrostek dla wsperającego ideę
 ist:ia|istia||||ism (doctrine, ideology, religion, etc)||ideología (doctrina, religión, -ismo)|||||||||||||ismo|aate (ismi, ideologia, uskonto, jne)|przyrostek dla ideologii
-istan:|istan|||fas:ـستان‎ (-estān), hye:-ստան (-stan), kaz:tat:rus:-стан (-stan), tur:eng:spa:may:-istan, por:istão, hin:-स्तान (-stān), zho:斯坦 (sītǎn), jpn:-スタン (sutan)|region||región (zona)|||||||||||||regiono|seutu (maa)|region
 Ital:ia|Italia|dex|IT||Italy||Italia|||||||||||||Italio|Italia|Italia, Włochy
 itis:|itis|||eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|inflammation (-itis)|inflammation|inflamación|inflamaçao|воспаление||炎症||||||||||tulehdus|zapalenie
 iu:a|iva||||tend to|avoir tendance à|tender|tender||||||||||||emi|olla taipuvainen|być skłonnym (mieć skłonność)
@@ -1910,8 +1930,6 @@ kuk.o.kamar:|kukokamar||||kitchen||cocina||кухня|||台所|||||||||keittiö|
 kul:i|kuli|||eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)|cool||genial|||||カッコいい||||||||bonega (mojosa)|upea (hieno)|świetny
 kulomb:e|kulombe|unomete|C||coulomb (unit)||culombio||||||||||||||kulombi (mittayksikkö C)|kulomb
 kultur:|kultur|||eng:fra:culture, spa:por:cultura, rus:культу́ра (kulʹtúra), tur:kültür, jpn:カルチャー (karuchā)|culture||cultura|||||||||||||kulturo|kulttuuri|kultura
-kunan:|kunan|||zho:困难 (kùnnán), jpn:困難 (konan), vie:khốn nạn, kor:곤란 (gollan)|hardship (difficulty, challenge)||dificultad (apuro, privación)||||||||||||||vaikeus (hankaluus)|trudność (trud)
-kunan:i|kunani||||difficult (hard, tough)||difícil (duro)|||||||||||||malfacila|vaikea|trudny (ciężki)
 kup:e|kupe|||eng:cup, fra:coupe, spa:copa, por:copo, ara: كُوب‎ (kūb), tur:kupa, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop) + fas:(koppe), ara:قبة (qubba), may:kubah, rus:купол (kupol), deu:Kuppel|drinking vessel (cup, glass, mug, goblet, chalice)|coupe (tasse, verre)|vaso (taza, copa)|copo (taça)|чаша (чашка, стакан)|كُوب‎|杯子|コップ|컵|ly (chén)|प्याला|পেয়ালা|cangkir (cawan, gelas)|kikombe (glas)|kase (fincan, bardak, kupa)|taso|malja (kuppi, muki, lasi)|kubek
 kup.o.cat:e|kupocate||||dome||cúpula||||||||||||||kupoli (holvikatto)|kopuła
 kupon:|kupon|||eng:fra:coupon, spa:cupón, por:cupom, rus:купо́н (kupón), may:kupon, jpn:クーポン (kūpon), kor:쿠폰 (kupon)|coupon||cupón (vale)||||||||||||||kuponki|kupon
@@ -2090,10 +2108,6 @@ lusun:|lusun|biv||zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)|asparagus||espá
 lut:a|luta|||hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|rob (loot, plunder, pillage, ransack)||saquear (desvalijar, robar)||||掠夺|||||||||rabi|ryöstää (ryövätä)|obrabować, splądrować
 lut.er:|luter||||robber (plunderer)|brigand (bandit)|ladrón|ladrão|грабитель||强盗||||डाकू|||||rabisto|ryöväri (rosvo)|rabuś (grabieżca)
 lutet.em:|lutetem|mate|Lu||lutetium||lutecio|||||||||||||lutecio|lutetium|lutet
-luu:a|luva||||love (hold dear)|aimer|amar||любить||爱|||||||||ami (ŝati)|rakastaa (pitää, tykätä)|kochać
-luu:e|luve|||eng:love, rus:любовь (l’ubov’), hin:लोभ (lobh), ltn:libido|love (liking, affection)|amour (affection)|amor|amor|любовь||愛|愛|||मुहब्बत (अनुराग, पसंद)||cinta (kasih, asmara)|penzi (ashiki, upendo)|sevda (aşk)|amo|rakkaus (tykkääminen)|miłość (afekt)
-luu:i|luvi||||dear (beloved)|cher|querido|querido (caro)|||亲爱的|愛しい|||प्यारा|||||kara|rakas (armas)|kochany (drogi)
-luu.er:|luver||||lover|amoureux|amante (enamorado)|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja|
 M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 m:e|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
@@ -2129,7 +2143,6 @@ mal: (mal:i)|mal (mali)|||eng:mal-, spa:fra:mal, por:mau, rus:моль (mol’)|
 mal: zar:|mal zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
 mal.darj:a|maldarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
 mal.func:e|malfunce||||malfunction||falla (mal funcionamiento)||||||||||||||toimintahäiriö|awaria (wadliwe działanie)
-mal.rup:i|malrupi|||zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|ugly||feo|||||||||||||malbonaspekta|ruma (pahannäköinen)|brzydki
 mal.sini:i|malsinyi||||ominous (foreboding)||ominoso (amenazador)||зловещий||不祥的|不吉 (縁起の悪い)||||||||||złowieszczy
 malagas:i|malagasi||||Malagasy||malgache||||||||||||||malagassi|madagaskarski; malagaski
 Malagas:ia|Malagasia|dex|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
@@ -2265,8 +2278,8 @@ metr.un:|metrun||||unit (measurement)||unidad (medida)|||||||||||||||jednostka m
 Mexiko:|Mexiko|dex|MX||Mexico||México|||||||||||||Meksikio|Meksiko|Meksyk
 Mexiko: sit:e|Mexiko site|xefsite|||Mexico City||Ciudad de México|||||||||||||||Meksyk
 mez:e|meze|||por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|table|table|mesa|mesa|стол|طَاوِلَة|桌子|机 (テーブル)|||मेज़||meja|meza|masa|tablo|pöytä|stół
-mez.istan:|mezistan||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
 mez.o.tex:|mezotex||||tablecloth|nappe|mantel|toalha de mesa|скатерть|غِطَاء اَلْمَائِدَة‎|桌布|テーブル掛け|식탁보|khăn trải bàn|मेज़पोश|টেবিলক্লথ|alas meja||masa örtüsü|tablotuko|pöytäliina|obrus
+mez.o.top:ia|mezotopia||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
 Mianma:|Myanma|dex|MM||Myanmar (Burma)||Myanmar (Birmania)|||||||||||||Birmo|Myanmar (Burma)|Mjanma, Birma
 mien:|mien|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
 migr:a|migra||||move (migrate, relocate)||migrar (emigrar, tralsadar)||||搬家||||||||||muuttaa (siirtää)|ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)
@@ -2765,10 +2778,10 @@ plast.ik:e|plastike|||eng:plastic, spa:por:plástico, rus:пластик (plasti
 plat:e|plate|||eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)|plane (plate)||plano (placa)|||||||||||||||płaszczyzna (płyta)
 plat:i|plati||||flat (planar)||plana (llano, liso)|||||平ら|||||||||litteä|płaski
 plat:i geu.kask:ia|plati geukaskia||||plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)||||||||||tektonika płyt
-plat.istan:|platistan||||plain (plateau, flat lands)|plaine|llanura||||平原|草原||||||||||równina (plaskowyż, plateau)
 plat.o.form:e|platoforme||||platform|||||||||||||||||platforma
 plat.o.geu.ist:e|platogeviste||||flat-earther|terreplatiste|terraplanista|terraplanista|плоскоземелец||||||||||||litteän maapallon kannattaja|płaskoziemca
 plat.o.tas:|platotas||||plate||plato||||||||||||||lautanen|talerz
+plat.o.top:ia|platotopia||||plain (plateau, flat lands)|plaine|llanura||||平原|草原||||||||||równina (plaskowyż, plateau)
 platin.em:|platinem|mate|Pt||platinum||platino|||||||||||||plateno|platina|platyna
 Platon:|Platon||||Plato||Platón||||||||||||||Platon|Platon
 platon.ist:e|platoniste||||Platonist||platonista||||||||||||||platonisti|platończyk
@@ -2824,7 +2837,7 @@ post.o.cap:e|postocape||||postal stamp||sello postal||||||||||||||postileima|zna
 post.o.kan:|postokan||||post office||oficina de correos|||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
 pot:e|pote|||ibo:potọ potọ, lin:pɔtɔpɔ́tɔ, kon:fra:poto-poto|mud (mire)|boue (fange, bourbe, gadoue)|lodo (barro, fango)|lama|болото||坭|泥|||कीचड़||lumpur||çamur|koto|muta (kura, lieju)|błoto
 pot:i|poti||||muddy||embarrado (enlodado)|||||||||||||kota|kurainen (mutainen)|błotnisty
-pot.istan:|potistan||||marsh (bog, swamp, morass)||ciénaga (pantano)||||||||||||||suo (räme)|bagno
+pot.o.top:ia|pototopia||||marsh (bog, swamp, morass)||ciénaga (pantano)||||||||||||||suo (räme)|bagno
 poz:a|poza||||pose (set, plant)|planter|hacer posar (plantar)|||||植える|||||||||panna (asettaa)|pozować, ustawiać się
 poz:e|poze|||eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|pose (position)||pose (postura)||||||||||||||asetelma|poza, pozycja
 prased.em:|prasedem|mate|Pr||praseodymium||praseodimio||||||||||||||praseodyymi|prazeodym
@@ -2925,8 +2938,8 @@ rebel:|rebel|||eng:rebel, spa:por:rebelde fra:rebelle|rebellion||rebelión (subl
 red:a|reda||||prepare (make ready)||preparar (hacer listo)||||||||||||||tehdä valmiiksi|przygotować, przygotowywać
 red:i|redi|||eng:ready, fra:prêt, mao:reri|ready||listo (preparado)|||||||||||||preta|valmis|gotowy
 reg:e|rege|||fas:(rig), hin:रेग (reg), urd:(reg)|sand||arena|||||||||||||sablo|hiekka|piasek, piach
-reg.istan:|registan||||desert||desierto|||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
 reg.o.petr:e|regopetre||||sandstone|grès||||||砂岩||||||||||piaskowiec
+reg.o.top:ia|regotopia||||desert||desierto|||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
 rei:|rei|||eng:fra:por:spa:re-, rus:ре- (re-)|repetition|répétition|repetición|repetição|повторение|||繰り返し||||||||ripetado|toisto|powtarzanie, powtórka
 rei:a|reya||||repeat (iterate)|répéter|repetir|repetir|повторять||重复|繰り返す|되풀이하다||दोहराना|||||ripeti (refari)|toistaa|powtórzyć, powtarzać
 rei:o|reyo||||again (repeatedly)||otra vez (de nuevo)|||||||||||||denove (ripete)|taas (uudestaan)|znowu (ponownie)
@@ -3440,6 +3453,8 @@ tomat:e|tomate|biv||eng:tomato, por:spa:tomate, rus:томат (tomat), may:toma
 ton:|ton|||eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|tone (note, pitch, shade)||tono|||||||||||||tono|sävel (sävy)|ton, dźwięk, nuta, tonacja
 tong:|tong|||zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:tong, + fra:tonneau, spa:tonel, ned:ton|barrel (can, cask)||barril (tonel)||||||||||||||tynnyri (tölkki)|beczka
 Tonga:|Tonga|dex|TO||Tonga||Tonga||||||||||||||Tonga|Tonga
+top:e|tope||||region||región (zona)|||||||||||||regiono|seutu (maa)|region
+top.o.graf:|topograf||||topography|topographie|topografía|topografia|топография||地形|地勢|||||topografi||topografi||topografia|
 tor.em:|torem|mate|Th||thorium||torio|||||||||||||torio||tor
 tors:e|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortug:e|tortuge|biv|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw

@@ -80,6 +80,12 @@ alkoli - alkoholinen
 almar - kaappi  
 almas - timantti  
 aluminem - alumiini  
+am - rakkaus (tykkääminen)  
+ama - rakastaa (pitää, tykätä)  
+ami - rakas (armas)  
+amater - amatööri  
+amer - rakastaja  
+amike - kulta (rakas)  
 Amari - amhara (etiopialainen kansa ja kieli)  
 amena - luottaa (uskoa)  
 ameni - varma  
@@ -94,6 +100,8 @@ amirer - emiiri
 amirhake - käskyvalta  
 amper - ampeeri  
 ampul - ampulli  
+anama - inhota  
+anamike - inhokki (inhotus)  
 anativa - poistaa toiminnasta  
 anativi - epäaktiivinen (pois toiminnasta)  
 ancenvidi - ennennäkemätön  
@@ -465,7 +473,7 @@ carmes - huhtikuu
 carme - vetovoima (šarmi)  
 cate - katto (katos)  
 cau - ruoho  
-cavistan - niitty  
+cautopia - niitty  
 Cehia - Tšekki  
 ceka - tarkistaa (tsekata)  
 cel - solu  
@@ -714,6 +722,13 @@ duru - kestää (viedä aikaa)
 durabli - kestävä (luja)  
 duriki - kestävä (krooninen)  
 durmetrer - sekuntikello  
+dusi - paha (epäsuotuisa, epämiellyttävä, vastustava)  
+dusdevistia - dysteismi (usko jumalan pahuuteen)  
+dushal - vaikeus (hankaluus)  
+dusjan - vihollinen  
+duskar - synti (paha teko)  
+dustopia - dystopia  
+dusvidi - ruma (pahannäköinen)  
 dute - epäilys  
 dutabli - epäilyttävä  
 dutani - epäilevä  
@@ -795,6 +810,11 @@ estudia - ateljee (studio)
 Etiopia - Etiopia  
 evi - hyvä (eettisesti hyvä)  
 evanjil - evankeliumi(hyvä sana)  
+eudevistia - euteismi (usko jumalan hyvyyteen)  
+eujenistia - eugeniikka  
+euloga - ylistää (puhua hyvää, kehua)  
+euloge - ylistys  
+eutopia - utopia  
 eurasia - Euraasia  
 eureka - löytää (keksiä)  
 euro\* - euro (€)  
@@ -967,7 +987,7 @@ futau - kirves
 Gabon - Gabon  
 gabra - haudata  
 gabre - hauta  
-gabristan - hautausmaa  
+gabrotopia - hautausmaa  
 gabroxeke - hautakivi  
 gade - aasi  
 gadogude - muuli  
@@ -1209,6 +1229,7 @@ histor - historia (aikakirjat)
 historia - historia (oppiaine)  
 historer - historioitsija  
 hobe - harrastus  
+hobiste - harrastaja  
 hoga - polttaa  
 hoge - tuli  
 hogi - tulinen  
@@ -1333,7 +1354,6 @@ Islandia - Islanti
 Israel - Israel  
 iste - aatteen kannattaja  
 istia - aate (ismi, ideologia, uskonto, jne)  
-istan - seutu (maa)  
 Italia - Italia  
 itis - tulehdus  
 iva - olla taipuvainen  
@@ -1712,8 +1732,6 @@ kukokamar - keittiö
 kuli - upea (hieno)  
 kulombe - kulombi (mittayksikkö C)  
 kultur - kulttuuri  
-kunan - vaikeus (hankaluus)  
-kunani - vaikea  
 kupe - malja (kuppi, muki, lasi)  
 kupocate - kupoli (holvikatto)  
 kupon - kuponki  
@@ -1858,10 +1876,6 @@ lusun - parsa
 luta - ryöstää (ryövätä)  
 luter - ryöväri (rosvo)  
 lutetem - lutetium  
-luva - rakastaa (pitää, tykätä)  
-luve - rakkaus (tykkääminen)  
-luvi - rakas (armas)  
-luver - rakastaja  
 ####M - M  
 me - minä  
 mi - minun  
@@ -1891,7 +1905,6 @@ mal (mali) - huono
 mal zar - epäonni  
 maldarja - laskea tasoa  
 malfunce - toimintahäiriö  
-malrupi - ruma (pahannäköinen)  
 malagasi - malagassi  
 Malagasia - Madagaskar  
 malayi - malaiji  
@@ -2475,7 +2488,7 @@ postocape - postileima
 postokan - postitoimisto  
 pote - muta (kura, lieju)  
 poti - kurainen (mutainen)  
-potistan - suo (räme)  
+pototopia - suo (räme)  
 poza - panna (asettaa)  
 poze - asetelma  
 prasedem - praseodyymi  
@@ -2559,7 +2572,7 @@ rebel - kapina
 reda - tehdä valmiiksi  
 redi - valmis  
 rege - hiekka  
-registan - aavikko (hiekkaerämaa)  
+regotopia - aavikko (hiekkaerämaa)  
 rei - toisto  
 reya - toistaa  
 reyo - taas (uudestaan)  
@@ -2973,6 +2986,8 @@ tomate - tomaatti
 ton - sävel (sävy)  
 tong - tynnyri (tölkki)  
 Tonga - Tonga  
+tope - seutu (maa)  
+topograf - topografia  
 torse - vartalo (varsi, torso)  
 tortuge - kilpikonna  
 tova - vetää (kiskoa, raahata)  

@@ -141,13 +141,15 @@ aluminio - aluminem
 aló - halo\*  
 alófono - alfon  
 alúmina - aluminokside  
-amante (enamorado) - luver  
+amado (cariño) - amike  
+amante (enamorado) - amer  
 amapola silvestre - maidanpapil  
-amar - luva  
+amar - ama  
 amar románticamente - romansa  
 amargo - alkalgusti  
 amarillo - limonrangi  
 amasar (masajear) - masaja  
+amateur (aficionado) - amater  
 ambiental (ecológico, natural) - eki  
 ambiguo - polmeni  
 americano - ameriki  
@@ -156,7 +158,7 @@ amhara - Amari
 amigo - doste  
 amistad (compañerismo) - dostia  
 amoldarse - konformu  
-amor - luve  
+amor - am  
 amperio - amper  
 ampolla (vial) - ampul  
 América - Amerike  
@@ -587,7 +589,7 @@ celebrar (festejar) - festa
 celeste (azul celeste) - samainili  
 celeste (celestial) - samayi  
 celoso (envidioso) - jelosi  
-cementerio - gabristan  
+cementerio - gabrotopia  
 cemento - semente  
 cena - xamyam  
 ceniza - hui  
@@ -665,7 +667,7 @@ Ciudad de México - Mexiko site
 ciudadano - dexojan  
 civilización - sivilia  
 civilizado - sivili  
-ciénaga (pantano) - potistan  
+ciénaga (pantano) - pototopia  
 claro (luminoso) - foti  
 claro - klari  
 clarín (corneta) - buge  
@@ -982,7 +984,7 @@ descanso (alivio) - xante
 descargar - netogeta  
 descriptivo - sifi  
 deseo - vol  
-desierto - registan  
+desierto - regotopia  
 deslizar - glisu  
 desnudo - nudi  
 despertar - jaga  
@@ -993,6 +995,7 @@ destapar - andaka
 destinar - gola  
 destino - cenamen  
 detalle - detal  
+detestar - anama  
 devolver (vomitar) - retrogula  
 diagonal - transogoni  
 diamante - almas  
@@ -1005,8 +1008,7 @@ diez (10) - desi
 diferencia - alsifia  
 diferenciar (distinguir) - hasa  
 diferente - alsifi  
-dificultad (apuro, privación) - kunan  
-difícil (duro) - kunani  
+dificultad (apuro, privación) - dushal  
 Dinamarca - Dania  
 dinamita - dinamite  
 dinero (plata) - pes  
@@ -1109,6 +1111,7 @@ elemento (unidad fundamental) - em
 elemento químico - kimem  
 ellos o ellas - lole  
 elogiar (alabar, exaltar) - halela  
+elogio - euloge  
 elástico (flexible) - lasti  
 eléctrico - eletri  
 email (correo electrónico) - eletroposte (e-poste)  
@@ -1142,6 +1145,7 @@ encurtido - sirkopurxipi
 encurtir - sirkopurxipa  
 enderezar (poner recto) - orta  
 endónimo - indonam  
+enemigo - dusjan  
 energía - energe  
 energía nuclear - kerni energe  
 enero - unmes  
@@ -1316,7 +1320,7 @@ felicitar - barka
 feliz - suki  
 feminismo - femistia  
 feministe - femiste  
-feo - malrupi  
+feo - dusvidi  
 fermentar - biumutu  
 fermio - fermem  
 fideo (tallarín) - mien  
@@ -1900,7 +1904,7 @@ livermorio - livermorem
 llama - liama\*  
 llamar (poner) - namita  
 llamarse - namu  
-llanura - platistan  
+llanura - platotopia  
 llave - cabe  
 llenar - pura  
 lleno (completo) - puri  
@@ -1971,6 +1975,7 @@ Maldivas - Divehia
 malgache - malagasi  
 Mali - Mali  
 malinterpretar - galto buda  
+malo (difícil, duro) - dusi  
 malo - mal (mali)  
 Malta - Malta  
 mamífero - mamal  
@@ -2079,7 +2084,7 @@ mercado (bazar) - bazar
 mercurio - hurargente  
 Mercurio - Merkur  
 mesa - meze  
-meseta - mezistan  
+meseta - mezotopia  
 mesiánico - kristi  
 meta (gol, destinación) - gol  
 metal - metal  
@@ -2484,6 +2489,7 @@ paz - pace
 país (nación, estado, terra) - dex  
 país extranjero - eksodex  
 Países Bajos - Nederlandia  
+pecado - duskar  
 pecho (busto) - buste  
 pecho (seno, tórax) - sin  
 pedal - pedal  
@@ -2645,7 +2651,7 @@ poste (estaca, palo) - zong
 postura (posición) - asan  
 potasio - kalem  
 practicar (ensayar, ejercitar) - lenxa  
-pradera (pastizal) - cavistan  
+pradera (pastizal) - cautopia  
 praseodimio - prasedem  
 preceder (anteceder) - cena  
 precio (coste) - koste  
@@ -2748,7 +2754,7 @@ quemar - hoga
 quemarse - hogu  
 querer (desear) - volu  
 querer (disponer) - ica  
-querido - luvi  
+querido - ami  
 querubín - kerube  
 queso - cize  
 queso fresco - panir  
@@ -2812,7 +2818,7 @@ regalo (obsequio) - don
 registrar (recordar, anotar) - defta  
 registro (archivo, anotación) - defte  
 registro (cuenta) - deftia  
-región (zona) - istan  
+región (zona) - tope  
 regla (ley) - kanun  
 regresar (restablecer, restaurar, recuperar, reanudar) - fuga  
 reina - femi rajer  
@@ -3255,6 +3261,7 @@ tonelada - megagram
 Tonga - Tonga  
 tono - ton  
 topo - krote  
+topografía - topograf  
 torio - torem  
 tormenta (tempestad) - tafun  
 tormenta - gromtafun  
