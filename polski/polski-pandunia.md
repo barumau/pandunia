@@ -368,7 +368,7 @@ cudzysłów - citomarke
 cukier - xukar  
 cukierek, słodycze - kande  
 cukinia - lilkaboge  
-cukrowiec jadalny - yamxukarcav  
+cukrowiec jadalny - yamxukarcau  
 cynk - estan  
 cynk - zinke  
 Cypr - Kipris  
@@ -639,7 +639,7 @@ filozofia - filsofia
 filozoficzny - filsofi  
 filtr - filter  
 Finlandia - Suomia  
-fioletowy - violeti  
+fioletowy - viyoleti  
 fiord - fiorde  
 firma, kompania, korporacja - kompania  
 fizyk - fizikia  
@@ -785,7 +785,7 @@ głosować (złożyć głos) - vota
 głowa - sar  
 głupi (idiotyczny) - idioti  
 głupiec, bufon - bufon  
-głód - yamyav  
+głód - yamyau  
 główny - xefi  
 głęboki - fasteli  
 głębokość - fastelia  
@@ -931,7 +931,7 @@ jak, niż, od - ka
 jak? - ki xei  
 jaki? - ki yangi  
 jakikolwiek, którykolwiek - eni  
-jakiś - koi  
+jakiś - koi (koyi)  
 Jamajka - Jamaika  
 Japonia - Nipon  
 japoński - niponi  
@@ -963,11 +963,11 @@ jesion - yasen
 jezioro - lage  
 Jezus - Yesus  
 jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - aga  
-jod; jodyna - iodem  
+jod; jodyna - yodem  
 jodła - abite  
 joga - yoge  
 jogin (joginka) - yogiste  
-jon - ion  
+jon - iyon  
 Jordan - Urdun  
 Joruba - yorubi  
 Jowisz - Jupiter  
@@ -989,7 +989,7 @@ kabina, budka - kabin
 kaczka - bate  
 kadm - kadem  
 Kajmany - Kaiman nesia  
-kakao - kakav  
+kakao - kakau  
 kaktus - katus  
 kalcyt - kalsite  
 kalendarz - kalende  
@@ -1008,7 +1008,7 @@ kanapka - sanduice
 kanał - kanal  
 kandela - kandel  
 kangur - kangaru\*  
-kanion - kanion  
+kanion - kanyon  
 kannada - karnadi  
 kanoe - kano\*  
 kanonier - daipaver  
@@ -1085,7 +1085,7 @@ klub - klube
 klucz - cabe  
 kluska, knedel, pieróg; ravioli, pelmeni - pelmen  
 kląć (przeklinać) - lana  
-kminek - karav  
+kminek - karau  
 kobalt - kobalte  
 kobieta, dorosła samica - maturi fem  
 kobieta; kobiecy - fem  
@@ -1105,7 +1105,7 @@ kolacja - xamyam
 kolano - gute  
 kolczuga - silnete  
 kolec - ding  
-kolej - trendav  
+kolej - trendau  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
 kolekcjonować, zebrać, zbierać - jama  
 kolonia, osada - kolonia  
@@ -1167,7 +1167,7 @@ koszt, cena - koste
 kosztować - kosta  
 kosztowny (drogi) - kosti  
 koszula - kamis  
-kot - mav  
+kot - mau  
 kotwica - anker  
 kowadło - metalbede  
 kowal - metaljanger  
@@ -1263,7 +1263,7 @@ lama - lama\*
 lama - liama\*  
 lampa - lampe  
 lantan - lantanem  
-Laos - Lav  
+Laos - Lau  
 laotański - lavi  
 lapis lazuli - lazurpetre  
 larwa, czerw, gąsienica - larve  
@@ -1370,7 +1370,7 @@ mak lekarski - sompapil
 mak polny - maidanpapil  
 mak wschodni - guipapil  
 makaron - mien  
-Makau - Makav  
+Makau - Makau  
 maksimum - maxime  
 maksymalny - maximi  
 malajski - malayali  
@@ -1379,7 +1379,7 @@ malaria - malaria
 malarz - penter  
 Malawi - Malavi  
 Malediwy (Republika Malediwów) - Divehia  
-Malezja - Malaysia  
+Malezja - Malaisia  
 Mali - Mali  
 Malta - Malta  
 mandarynka - laloranje  
@@ -1390,7 +1390,7 @@ mango - mango\*
 mangostan - mangus  
 mangusta - mungus  
 manicheizm - manihayistia  
-maniok - manioke  
+maniok - manyoke  
 mapa - geugraf  
 marathi - marati  
 maraton - maraton  
@@ -1541,7 +1541,7 @@ morf - morfe
 morfem - morfem  
 morski - hayi  
 morskoniebieski - hainili  
-Morze Śródziemne - Geumedi Hay  
+Morze Śródziemne - Geumedi Hai  
 moskovium - moskovem  
 Moskwa - Moskou  
 most - pul  
@@ -1725,8 +1725,8 @@ notować, obserwować, zauważyć, zauważać - nota
 Nowa Kaledonia - Novi Kaledonia  
 Nowa Zelandia - Novi Zelandia  
 nowicjusz (nowa osoba) - novike  
-nowoczesne - novyangi  
-nowość - nov  
+nowoczesne - nouyangi  
+nowość - nou  
 nowy - novi  
 Nowy Jork - Novi Yorke  
 nożyce, nożyczki - makas  
@@ -1885,7 +1885,7 @@ pająk - aran
 pajęczyna - arannete  
 Pakistan - Pakistan  
 pakt (kontrakt, ugoda, umowa, konwencja) - kontrate  
-Palau - Palav  
+Palau - Palau  
 palec - ungle  
 pallad - paladem  
 palma, drzewo palmowe - palme  
@@ -1983,7 +1983,7 @@ pierścień, pierścionek; obrączka - ungloring
 pies - vaf  
 pień - mokotan  
 piknik - eksyam  
-pilaw - polav  
+pilaw - polau  
 pilot - piloter  
 pingwin - pinguin  
 pionowy - gautali  
@@ -1996,7 +1996,7 @@ pirat - pirater
 pirotechnika - hogotehne  
 pismo, tekst - kitabe  
 pistolet - pistol  
-pistolet, strzelba, ręczna broń palna - pav  
+pistolet, strzelba, ręczna broń palna - pau  
 Pitcairn - Pitkerne nesia  
 piwo - bir  
 piwonia - mudan  
@@ -2065,7 +2065,7 @@ pogrubiona litera - grosi harfe
 poinformować, informować, zakomunikować, komunikować - informa  
 pojawić się - zayu  
 pojęciowy - ideyi  
-pokaz, ekspozycja, wystawa - xov  
+pokaz, ekspozycja, wystawa - xou  
 pokazać, pokazywać, wystawić, wystawiać - xova  
 poker - poke  
 pokolenie (generacja) - jengrupe  
@@ -2142,7 +2142,7 @@ poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza
 posłaniec (wysłannik) - anjiler  
 pot - suede  
 potas - kalem  
-potrzeba - yav  
+potrzeba - yau  
 potrzebny - yavan  
 potrzebować - yavu  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
@@ -2249,7 +2249,7 @@ przedpołudnie - suboden
 przedrostek (prefiks) - cenfikse  
 przedstawić (przedłożyć, przedstawić, złożyć, składać) - karmisa  
 przedłużyć, przedłużać - longa  
-przegrana (strata, porażka) - xibay  
+przegrana (strata, porażka) - xibai  
 przegrany, pokonany - xibayer  
 przegrać, przegrywać - xibaya  
 przejazd, przewóz, tranzyt - transe  
@@ -2369,8 +2369,8 @@ racjonalny, rozsądny - razoni
 rad - radem  
 rada, porada - sel  
 radio - radi geter  
-radioaktywność - ioni radia  
-radioaktywny - ioni radi  
+radioaktywność - iyoni radia  
+radioaktywny - iyoni radi  
 radoiometr - radometrer  
 radon - radon  
 rakieta - rokete  
@@ -2456,7 +2456,7 @@ roślina, sadzonka - fite
 rożen (szpikulec) - xix  
 rtęć - hurargente  
 rubid - rubidem  
-rubin - lalbavxeke  
+rubin - lalbauxeke  
 ruch - kin  
 ruch - mote  
 ruchowy, kinetyczny - kini  
@@ -2686,7 +2686,7 @@ Stany Zjednoczone Ameryki - Uniti Dex Da Amerike (UDA)
 Starożytny Egipt (Kemet) - Kemia  
 stary (sędziwy, wiekowy) - lavi  
 stary, starożytny - ceniki  
-starzec - lav  
+starzec - lau  
 statyczny, stacjonarny, nieruchomy - estasi  
 stać - libu  
 stały (sztywny) - gatomati  
@@ -2725,7 +2725,7 @@ Suazi - Suati
 suchy - gani  
 Sudan - Sudan  
 Sudan Południowy - Sudi Sudan  
-sufit - kamargav  
+sufit - kamargau  
 sugerować, proponować - suja  
 sugestia, propozycja - suje  
 suma - sum  
@@ -2886,7 +2886,7 @@ teoria - teoria
 teozofia - deusofia  
 tera- - tera\*  
 terakota - bekopote  
-teraźniejszość, współczesność (teraz) - zay  
+teraźniejszość, współczesność (teraz) - zai  
 teraźniejszość, współczesność - zayia  
 terb - terbem  
 teren - geuforme  
@@ -2933,7 +2933,7 @@ trwać, zająć czas; przez - duru
 trwały (wytrzymały, podtrzymywalny) - durabli  
 tryb nocny - nocomode  
 Trynidad i Tobago - Trinidade e Tobago  
-trzcina cukrowa - xukarcav  
+trzcina cukrowa - xukarcau  
 trzeć (pocierać, obetrzeć, pucować) - frika  
 trzy (3) - san  
 trząść (machać) - sisma  
@@ -3085,7 +3085,7 @@ ważny - hami
 wciąż, nadal - zoko  
 wcześniej (uprzednio) - ceno  
 wczoraj - cendeno  
-wdowa - vidov  
+wdowa - vidou  
 według ruchu wskazówek zegara - rotoraito  
 weganin (weganka) - purfityamiste  
 wegetarianin - fityamiste  
@@ -3093,7 +3093,7 @@ wejście - jinmun
 welon (woalka) - hijabe  
 Wenezuela - Venezuela  
 Wenus - Venus  
-Wenzhou - Venjov  
+Wenzhou - Venjou  
 weranda, balkon, taras, ganek - berande  
 wermut - vermute  
 wersja (wariacja, edycja, wydanie) - version  
@@ -3116,7 +3116,7 @@ wiceprezydent - visprezidente
 widelec - forke  
 widok, wzrok - vide  
 wieczór - xam  
-wiedza - sav  
+wiedza - sau  
 wiedzieć - sava  
 wiejski, rustykalny - rusti  
 wiek - umur  
@@ -3149,7 +3149,7 @@ wina, grzech; defekt, wada - dox
 winiarnia - vinkan  
 winny - doxi  
 wino - vin  
-winogrono - putav  
+winogrono - putau  
 winyl - vinil  
 wiosna - fulmosim  
 wirus - virus  
@@ -3185,7 +3185,7 @@ wolof - Volof
 wolt (V) - volte  
 wosk - mum  
 wosko lądowe (armia) - geugunia  
-wow!, łoł!, jej! - vav  
+wow!, łoł!, jej! - vau  
 wołowina - muhmanse  
 wprost (bezpośrednio) - dixo  
 wprostowywać (wyprostować) - orta  
@@ -3217,7 +3217,7 @@ wy, was - tote
 wybrać, wybierać, selekcjonować - cuza  
 wybrzeże (brzeg, krawędź) - tate  
 wybrzeże (plaża) - haitate  
-Wybrzeże Kości Słowniowej - Kote Da Ivuar  
+Wybrzeże Kości Słowniowej - Kote Da Ivar  
 wybuch - bum  
 wybór, elekcja, selekcja - cuze  
 wycie, skowyt - ulul  

@@ -490,10 +490,10 @@ huri - libre
 ya - avec  
 ye - oui  
 yamfite - légume  
-yamyav - faim  
+yamyau - faim  
 yasen - frêne  
 yatimdom - orphelinat  
-yav - besoin  
+yau - besoin  
 yavi - nécessiteux (dans le besoin)  
 yavu - avoir besoin de  
 yavan - nécessaire  
@@ -573,7 +573,7 @@ kamisi xake - manche
 kanape - canapé (sofa)  
 kance - verre  
 kangaru\* - kangourou  
-kanion - canyon (ravin)  
+kanyon - canyon (ravin)  
 kankuate - kumquat  
 kano\* - canoë  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -661,7 +661,7 @@ laya - venir
 layana - apporter  
 laje - ordures  
 lali - rouge  
-lalbavxeke - rubis  
+lalbauxeke - rubis  
 laloranje - mandarine  
 lalsalmon - saumon sockeye  
 lama\* - lama (enseignant religieux du bouddhisme tibétain)  
@@ -752,7 +752,7 @@ maske - masque
 maste - mât  
 mate - matière  
 matur - adulte  
-mav - chat  
+mau - chat  
 max (maxo) - plus  
 maxime - maximum  
 mece - match  
@@ -881,7 +881,7 @@ pastopetre - magma
 patike - patient  
 patojener - agent pathogène  
 patolojia - pathologie  
-pav - pistolet  
+pau - pistolet  
 pauze - pause  
 peda - péter  
 pede - pet (vesse)  
@@ -1131,8 +1131,8 @@ vermute - vermouth
 vespe - abeille ou guêpe  
 vesponizde - ruche (nid d'abeille)  
 vida - voir  
-vidov - veuve  
-violeti - violet (pourpre)  
+vidou - veuve  
+viyoleti - violet (pourpre)  
 virus - virus  
 umur - âge  
 un (uni) - un (1)  
@@ -1180,7 +1180,7 @@ xopa - acheter
 xope - shopping  
 xukar - sucre  
 xukarbete - betterave à sucre (betterave sucrière)  
-xukarcav - Canne à sucre  
+xukarcau - Canne à sucre  
 xukaroranje - orange douce  
 xul - leçon  
 xula - apprendre (étudier)  

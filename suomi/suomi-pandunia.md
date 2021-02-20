@@ -719,7 +719,7 @@ Intia - Bartia
 intiaani (Amerikan alkuperäisasukas) - aslameriki  
 intialainen - barti  
 Intian valtameri - Barti Hai  
-ioni - ion  
+ioni - iyon  
 Irak - Irakia  
 Iran - Iran  
 iridium - iridem  
@@ -775,7 +775,7 @@ Jeesus - Yesus
 Jemen - Yemen  
 Jersey - Jerze  
 jo (tehty teko) - fino  
-jodi - iodem  
+jodi - yodem  
 johtaa - lida  
 johtaja (pomo) - lider  
 joka (jokainen) - mei  
@@ -783,7 +783,7 @@ joka (sivulauseen aloittava sana) - da
 jokainen asia - pan xei  
 jokainen ihminen - pan jan  
 joki (virta) - nade  
-jokin (joku) - koi  
+jokin (joku) - koi (koyi)  
 jokin - koi xei  
 joku - koi jan  
 jooga - yoge  
@@ -814,7 +814,7 @@ jumalallinen - devi
 jumaltaru (myytti) - deusage  
 juna - tren  
 junakaappari - trenkaper  
-junarata (rautatie) - trendav  
+junarata (rautatie) - trendau  
 juoksija - korer  
 juoni (salaliitto) - sirplan  
 juosta - kora  
@@ -848,7 +848,7 @@ jäännös (loput) - reste
 jäätelö - aiskrem  
 jäätyä - aisu  
 ####K - K  
-kaakao - kakav  
+kaakao - kakau  
 kaaos - haos  
 kaappi - almar  
 kaari - arke  
@@ -932,7 +932,7 @@ kartogratia - geugrafia
 kartta - geugraf  
 kassa - kax  
 kassanhoitaja - kaxer  
-kassava (maniokki) - manioke  
+kassava (maniokki) - manyoke  
 kastanja - kastan  
 kaste - ros  
 kastike (soosi) - sos  
@@ -1074,7 +1074,7 @@ kirkastaa (valaista) - minga
 kirkko - eglis  
 kirsikka - cerize  
 kirves - futau  
-kissa - mav  
+kissa - mau  
 kitara - gitar  
 kitkerä (karvas) - alkalgusti  
 kivennäinen (mineraali) - kuang  
@@ -1194,7 +1194,7 @@ kuluttaa (viettää aikaa) - dura
 kuluttaa aikaa - pasu  
 kuluva (tämänhetkinen) - zayi  
 kumi - gom  
-kumina - karav  
+kumina - karau  
 kumkvatti - kankuate  
 kummitus (aave) - fantom  
 Kungfutse - Kongfuze  
@@ -1315,7 +1315,7 @@ lakki (hattu) - tupe
 lammas - meh  
 lamppu - lampe  
 lantaani - lantanem  
-Laos - Lav  
+Laos - Lau  
 laoslainen - lavi  
 lapio - bel  
 lapislatsuli - lazurpetre  
@@ -1361,7 +1361,7 @@ lentokonekaappari - vimankaper
 lentää - feyu  
 lepakko - feimux  
 lepo - xante  
-leski - vidov  
+leski - vidou  
 Lesoto - Soto  
 leveä - kuani  
 levottomuus (konflikti) - anpace  
@@ -1503,7 +1503,7 @@ maapähkinä - geudou
 maaseutu - rustia  
 maata (makoilla) - kuxu  
 maavoimat - geugunia  
-Macao - Makav  
+Macao - Makau  
 Madagaskar - Malagasia  
 magneetti - magete  
 magneettinen - mageti  
@@ -1532,7 +1532,7 @@ malajalam (eräs intialainen kieli) - malayali
 malaria - malaria  
 Malawi - Malavi  
 Malediivit - Divehia  
-Malesia - Malaysia  
+Malesia - Malaisia  
 Mali - Mali  
 malja (kuppi, muki, lasi) - kupe  
 malli - model  
@@ -1794,7 +1794,7 @@ norjalainen - norgi
 normaali - normi  
 normi - norme  
 norsu (elefantti) - gaje  
-Norsunluurannikko - Kote Da Ivuar  
+Norsunluurannikko - Kote Da Ivar  
 nostaa - gava  
 nostaa pystyyn - liba  
 nostaa tasoa - bondarja  
@@ -1818,20 +1818,20 @@ nähdä - vida
 näkymä - vide  
 näkyä - vidu  
 näkökenttä - vidomaidan  
-nälkä - yamyav  
+nälkä - yamyau  
 näppäimistö - butonban  
 näytellä - rola  
 näyttelijä - roler  
 näyttää - xova  
 näyttää jltkn - rupu  
-näytös (esitys, show) - xov  
+näytös (esitys, show) - xou  
 ####O - O  
 odottaa - denga  
 oganesson - oganeson  
 ohjaaja (pilotti, luotsi) - piloter  
 ohjelma - program  
 ohjelmoija - programer  
-oho (vau) - vav  
+oho (vau) - vau  
 oikea (paikkansapitävä) - sahi  
 oikea puoli - raite  
 oikeistolainen - raitiste  
@@ -1942,7 +1942,7 @@ palaa - hogu
 palanen (murunen, riekale, sirpale) - parce  
 palata - retru  
 palatsi - daidom  
-Palau - Palav  
+Palau - Palau  
 palauttaa - fuga  
 Palestiina - Filistin  
 paljastaa - andaka  
@@ -2053,7 +2053,7 @@ piirustus - desen
 pikkukaupunki - lilsite  
 pikkutakki (jakku) - jake  
 pilaantua (raunioitua) - harabu  
-pilahvi - polav  
+pilahvi - polau  
 pilalla (raunioina) - harabi  
 pilata (raunioittaa) - haraba  
 pilkku - kom  
@@ -2189,7 +2189,7 @@ pyhä - santi
 pylly (takapuoli, pakarat) - pige  
 pylväs (pilari) - kolum  
 pyramidi - piram  
-pyssy - pav  
+pyssy - pau  
 pysty (seisova) - libi  
 pystysuuntainen - gautali  
 pysähdys - ting  
@@ -2238,8 +2238,8 @@ Raamattu - biblia
 raamatullinen - bibli  
 raastaa - circira  
 raastettu - circiri  
-radioaktiivinen - ioni radi  
-radioaktiivisuus - ioni radia  
+radioaktiivinen - iyoni radi  
+radioaktiivisuus - iyoni radia  
 radiolähetin - radi miser  
 radiovastaanotin - radi geter  
 radium - radem  
@@ -2323,7 +2323,7 @@ roska - laje
 rotu - ras  
 rotujen välinen - rasmedi  
 Ruanda - Rvanda  
-rubiini - lalbavxeke  
+rubiini - lalbauxeke  
 ruiske (injektio) - jux  
 ruiskuttaa - juxa  
 rukoilla - duva  
@@ -2714,7 +2714,7 @@ tarkka (täsmällinen) - justi
 tarpeeksi (riittävästi) - basi  
 tarpeellinen - yavan  
 tarpeeton - anyavi  
-tarve (puute) - yav  
+tarve (puute) - yau  
 tarvita - yavu  
 tasainen (tasavertainen) - pari  
 tasavalta - komunkratia  
@@ -2781,7 +2781,7 @@ tie - dau
 tiede (tutkimus) - lojia  
 tiedottaa (informoida) - informa  
 tieto (info) - informe  
-tieto (tietämys) - sav  
+tieto (tietämys) - sau  
 tietokanta - datobanke  
 tietokone - komputer  
 tietoteoria (epistemologia) - saulojia  
@@ -2911,7 +2911,7 @@ tähdätä (kohti) - dika
 tähti - xing  
 tämä (nämä) - ci  
 tämä - ce  
-tämä hetki (nyt) - zay  
+tämä hetki (nyt) - zai  
 tänään - zaideno  
 täplä (läiskä) - binde  
 tärkeä - hami  
@@ -3106,7 +3106,7 @@ viikko - yomsete
 viimeinen - finodi  
 viini - vin  
 viinipanimo - vinkan  
-viinirypäle - putav  
+viinirypäle - putau  
 viisas - sofi  
 viisaus - sofia  
 viisi (5) - limi  
@@ -3178,7 +3178,7 @@ väite (teesi) - tes
 väittely (debatti) - lon  
 väittää - tesa  
 väli - mede  
-Välimeri - Geumedi Hay  
+Välimeri - Geumedi Hai  
 välipala (naposteltava) - lilyam  
 välissä - medu  
 väri - rang  
@@ -3193,7 +3193,7 @@ Wales - Kamria
 walesilainen - kamri  
 Washington D####C - Vaxington DC  
 watti - vate  
-Wenzhou - Venjov  
+Wenzhou - Venjou  
 wikikirjoitus - vike  
 wolframi - volfram  
 wolofin kansa ja kieli - Volof  

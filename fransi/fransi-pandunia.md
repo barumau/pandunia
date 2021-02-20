@@ -156,7 +156,7 @@ bassin - basen
 bateau - bote  
 beau - sundari  
 beauté - sundaria  
-besoin - yav  
+besoin - yau  
 betterave - bete  
 betterave à sucre (betterave sucrière) - xukarbete  
 bibliothèque - kitabokan  
@@ -218,11 +218,11 @@ Camomille Romaine - romakamil
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa\*  
-Canne à sucre - xukarcav  
+Canne à sucre - xukarcau  
 canon - daipau  
 canoë - kano\*  
 Cantalupo in Sabina - Kantalupo va Sabina  
-canyon (ravin) - kanion  
+canyon (ravin) - kanyon  
 capacité (compétence) - able  
 cape - mantol  
 carapace (coquille, coquillage, croûte) - kaske  
@@ -255,7 +255,7 @@ chardon Marie - milkokardon
 chardon penché - pendokardon  
 charme - carme  
 chasser - saida  
-chat - mav  
+chat - mau  
 chaudron - daivaze  
 chauve-souris - feimux  
 chaux - kalsomate  
@@ -439,7 +439,7 @@ face (facette) - fas
 facile - fasili  
 faible - debili  
 faible - mirdi  
-faim - yamyav  
+faim - yamyau  
 faire - fata  
 fait - fate  
 fanal (balise) - fotominar  
@@ -842,7 +842,7 @@ piment - cili\*
 pioche - pincope  
 piquenique - eksyam  
 piraterie - piratia  
-pistolet - pav  
+pistolet - pau  
 pizza - pize  
 pièce (chambre) - kamar  
 piège - kapotruke  
@@ -951,7 +951,7 @@ rosée - ros
 roue - cakre  
 rouge - lali  
 ruban (bande) - tepe  
-rubis - lalbavxeke  
+rubis - lalbauxeke  
 ruche (nid d'abeille) - vesponizde  
 ruse - truke  
 réparateur - reiboner  
@@ -1122,14 +1122,14 @@ verre - kance
 verre coloré - rangi kance  
 verrue - zeyil  
 vert - lugi  
-veuve - vidov  
+veuve - vidou  
 viande - manse  
 vie - jiu  
 vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
 ville - site  
-violet (pourpre) - violeti  
+violet (pourpre) - viyoleti  
 virus - virus  
 visage - muke  
 viser - dika  

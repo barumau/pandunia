@@ -1133,7 +1133,7 @@ geugunia - ground force (army)
 geukaski krake - fault line  
 geukaski plate - tectonic plate  
 geulojia - geology  
-Geumedi Hay - Mediterranean  
+Geumedi Hai - Mediterranean  
 geumetria - geometry  
 geunici - underground (subterrainean)  
 geunici prizon - dungeon (underground prison)  
@@ -1312,7 +1312,7 @@ hindem - indium
 hindiste - Hindu  
 hindistia - Hinduism  
 Hindonade - Indus river  
-Hiperion - Hyperion  
+Hiperyon - Hyperion  
 hisaba - calculate  
 hisabe - calculation  
 hisabia - arithmetics  
@@ -1376,15 +1376,15 @@ yam - food (meal)
 yama - consume (eat or drink)  
 yami - delicious (yummy)  
 yamfite - vegetable  
-yamyav - hunger  
+yamyau - hunger  
 yamkamar - dining room  
-yamxukarcav - duruka  
+yamxukarcau - duruka  
 yang - kind (style, sort, type)  
 Yapetus - Iapetus  
 yasen - ash tree  
 yatim - orphan  
 yatimdom - orphanage  
-yav - need (shortage, lack)  
+yau - need (shortage, lack)  
 yavi - needy (lacking)  
 yavu - need (lack)  
 yavan - necessary (needed)  
@@ -1407,6 +1407,9 @@ Yemen - Yemen
 Yesus - Jesus  
 yeze - coconut tree  
 ifrite - ifrit  
+iyon - ion  
+iyoni radi - radioactive  
+iyoni radia - radioactivity (ionizing radiation)  
 iki - -ic (a person or thing with specific character)  
 impera - reign (rule as an emperor)  
 imperia - empire  
@@ -1440,7 +1443,7 @@ interes - interest
 interesi - interesting  
 inxala - hope (wish)  
 Io - Io  
-iodem - iodine  
+yodem - iodine  
 yoga - do yoga  
 yoge - yoga  
 yogiste - yogi  
@@ -1448,9 +1451,6 @@ yohani feste - Saint John's Day
 yoke - yoke  
 yom - day (24 hours)  
 yomsete - week  
-ion - ion  
-ioni radi - radioactive  
-ioni radia - radioactivity (ionizing radiation)  
 yongu - melt (be liquified)  
 yongopetre - lava  
 yongosaha - smelt  
@@ -1610,7 +1610,7 @@ kayu - become open
 Kaiman nesia - Cayman Islands  
 kaka - defecate (shit)  
 kake - excrement (shit)  
-kakav - cocoa  
+kakau - cocoa  
 kal - void (empty space)  
 kali - empty (void)  
 kali harfe - space (character)  
@@ -1629,7 +1629,7 @@ kalsomate - lime
 kalsopetre - limestone  
 kamia - sexual desire (lust)  
 kamar - room (chamber)  
-kamargav - ceiling  
+kamargau - ceiling  
 kamartal - floor  
 Kambojia - Cambodia  
 Kamerun - Cameroon  
@@ -1654,7 +1654,7 @@ kande - candy (sweets)
 kandel - candela  
 kang - comb  
 kangaru\* - kangaroo  
-kanion - canyon (ravine, gorge, gully)  
+kanyon - canyon (ravine, gorge, gully)  
 kanjar - dagger  
 kankuate - kumquat  
 kano\* - canoe  
@@ -1677,7 +1677,7 @@ karxuler - apprentice
 Karaibia - Caribbean  
 karaoke - karaoke  
 karate\* - karate  
-karav - caraway  
+karau - caraway  
 karbe - carbon (coal)  
 karbodulokside - carbon dioxide  
 karbosui - carbohydrate (saccharide)  
@@ -1796,7 +1796,7 @@ klube - club
 kobalte - cobalt  
 koda - encode (encrypt)  
 kode - code (cipher)  
-koi - some  
+koi (koyi) - some  
 koi jan - someone (somebody)  
 koi sate - sometime  
 koi xei - something  
@@ -1872,7 +1872,7 @@ koste - cost (price)
 kosti - expensive (costly)  
 Kosta Rika - Costa Rica  
 kote - coat  
-Kote Da Ivuar - Côte d’Ivoire (Ivory Coast)  
+Kote Da Ivar - Côte d’Ivoire (Ivory Coast)  
 krabe - crab  
 krake - crack (rift)  
 kran - valve (tap, faucet)  
@@ -1949,7 +1949,7 @@ layana - bring
 laje - garbage (rubbish, trash)  
 lake - lacquer (varnish)  
 lali - red  
-lalbavxeke - ruby  
+lalbauxeke - ruby  
 lalolince - bobcat  
 laloranje - mandarin orange (tangerine)  
 lalsalmon - sockeye salmon  
@@ -1977,8 +1977,8 @@ latojan - companion (partner, sidekick)
 latini harfia - Latin alphabet  
 latinkitaba - romanize  
 Latvia - Latvia  
-lav - elder  
-Lav - Laos  
+lau - elder  
+Lau - Laos  
 lavi - old (aged, elderly)  
 lavi - Lao (Laotian)  
 laumam - grandmother  
@@ -2131,7 +2131,7 @@ makal - article (writing)
 makan - butter  
 makanful - dandelion  
 makas - scissors (shears)  
-Makav - Macao  
+Makau - Macao  
 mal (mali) - bad  
 mal zar - misfortune (bad luck)  
 maldarja - downgrade  
@@ -2141,7 +2141,7 @@ malagasi - Malagasy
 Malagasia - Madagascar  
 malayi - Malay  
 malayali - Malayali (Malayalam)  
-Malaysia - Malaysia  
+Malaisia - Malaysia  
 malaria - malaria  
 Malavi - Malawi  
 Mali - Mali  
@@ -2163,7 +2163,7 @@ mangus - mangosteen
 Manihai - prophet Mani  
 manihayistia - Manichaeism  
 Manin nes - Isle of Man  
-manioke - cassava (manioc)  
+manyoke - cassava (manioc)  
 manir - behavior (manners)  
 manira - behave (act)  
 manse - meat (flesh)  
@@ -2201,7 +2201,7 @@ matur - adult
 maturi - mature (ripe, adult)  
 maturi fem - woman (adult female)  
 maturi man - man (adult male)  
-mav - cat  
+mau - cat  
 max (maxo) - more  
 max ka bas - too much  
 maxi - additional  
@@ -2523,7 +2523,7 @@ note - note (observation, remark, comment)
 notana - notify  
 notite - notice (notification)  
 notobuke - notebook  
-nov - novelty  
+nou - novelty  
 nova - renew (make new, renovate)  
 novi - new (recent)  
 Novi Yorke - New York  
@@ -2531,7 +2531,7 @@ Novi Yorke site - New York City
 Novi Kaledonia - New Caledonia  
 Novi Zelandia - New Zealand  
 novo - just (recently)  
-novyangi - modern  
+nouyangi - modern  
 novike - novice (newbie)  
 nudi - naked (bare, nude)  
 nudiste - nudist  
@@ -2615,7 +2615,7 @@ pakse - bird
 pal - fruit  
 palabe - conflict (argument, dispute, quarrel)  
 paladem - palladium  
-Palav - Palau  
+Palau - Palau  
 palme - palm tree  
 pan (pani) - all  
 pan jan - everybody (everyone)  
@@ -2688,7 +2688,7 @@ patike - patient (subject of medical treatment)
 patojener - pathogen  
 patolojia - pathology  
 patate - potato  
-pav - gun (firearm)  
+pau - gun (firearm)  
 pava - shoot (fire)  
 paunde - pound (£)  
 pauza - pause (interrupt)  
@@ -2798,7 +2798,7 @@ polmaria - frequency
 polmaro - often (frequently)  
 polmeni - ambiguous  
 polnasi - multinational  
-polav - pilaf (pulao)  
+polau - pilaf (pulao)  
 polis - police  
 poliser - police officer  
 politike - politics  
@@ -2872,7 +2872,7 @@ purfityamiste - vegan
 purfityamistia - veganism  
 purxipa - soak (steep, marinate)  
 pute - child (son or daughter)  
-putav - grape  
+putau - grape  
 putavoranje - grapefruit  
 Putong Cini - Mandarin Chinese (Putonghua)  
 putongi - common (general, universal)  
@@ -3114,7 +3114,7 @@ sarkaske - helmet
 saroste - skull  
 sate - moment (while, short time)  
 Saturne - Saturn  
-sav - knowledge  
+sau - knowledge  
 sava - know (be aware of)  
 savi - known  
 saulojia - epistemology  
@@ -3454,7 +3454,7 @@ transogoni - diagonal
 trata - agree (make an agreement)  
 trate - agreement (treaty)  
 tren - train  
-trendav - rail (railway, railroad)  
+trendau - rail (railway, railroad)  
 trenkaper - train hijacker  
 tribe - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
@@ -3511,7 +3511,7 @@ varkalge - kelp
 varkolate - page (side of a leaf of a book)  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
-vav - wow! (gee!)  
+vau - wow! (gee!)  
 vaxa - wash  
 vaxmaxin - washing machine  
 vaxurse - raccoon  
@@ -3524,7 +3524,7 @@ vendoxopa - trade (buy and sell)
 vendoxope - trade (commerce)  
 vendoxoper - trader (merchant)  
 Venezuela - Venezuela  
-Venjov - Wenzhou  
+Venjou - Wenzhou  
 venjovoranje - satsuma mandarin  
 ventur - adventure (venture)  
 venturer - adventurer  
@@ -3547,9 +3547,10 @@ vidu - be seen
 vider - spectator (sightseer)  
 vidomaidan - visual field (field of vision)  
 vidopunte - perspective (point of view)  
-vidov - widow  
+vidou - widow  
 vieti - Vietnamese (Viet)  
 Vietia - Viet Nam  
+viyoleti - purple (violet)  
 vijin - MSG (monosodium glutamate)  
 vike - wiki article  
 vikia - wiki  
@@ -3562,7 +3563,6 @@ vin - wine
 vinkan - winery  
 ving - wing  
 vinil - vinyl  
-violeti - purple (violet)  
 vir - hero  
 viri - heroic  
 Virjin nesia - Virgin Islands, US  
@@ -3674,7 +3674,7 @@ xenga - win (triumph, succeed, accomplish)
 xenon - xenon  
 xense - master (sensei)  
 xibai - failure (loss, flop, miss, defeat)  
-xibay - loss (failure, miss)  
+xibai - loss (failure, miss)  
 xibaya - lose (fail, miss, be defeated)  
 xibaya tena - lose (shed, miss, misplace)  
 xibayer - loser  
@@ -3701,13 +3701,13 @@ xoke - shock (collision)
 xopa - buy (purchase)  
 xope - shopping  
 xoper - buyer  
-xov - show (display, exhibition)  
+xou - show (display, exhibition)  
 xova - show (display, demonstrate)  
 xudu - should (ought)  
 xukar - sugar  
 xukari - sugary (sweet)  
 xukarbete - sugar beet  
-xukarcav - sugarcane  
+xukarcau - sugarcane  
 xukaroranje - sweet orange  
 xul - lesson (teaching)  
 xula - learn (study)  
@@ -3728,7 +3728,7 @@ xuxa - silence (make silent)
 xuxi - silent  
 xuxo - hush (shh)  
 ####Z - Z  
-zay - present time (now)  
+zai - present time (now)  
 zaya - summon (add, spawn)  
 zayi - present (current, existing)  
 zayia - presence (existence)  

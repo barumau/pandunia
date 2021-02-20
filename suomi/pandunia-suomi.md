@@ -1064,7 +1064,7 @@ geudou - maapähkinä
 geugraf - kartta  
 geugrafia - kartogratia  
 geugunia - maavoimat  
-Geumedi Hay - Välimeri  
+Geumedi Hai - Välimeri  
 geumetria - geometria  
 geuparlinye - päiväntasaaja  
 Geuparlinyi Ginia - Päiväntasaajan Guinea  
@@ -1276,12 +1276,12 @@ yam - ruoka
 yama - nauttia (syödä, juoda)  
 yami - herkullinen (nami)  
 yamfite - kasvis  
-yamyav - nälkä  
+yamyau - nälkä  
 yamkamar - ruokasali  
 yang - laji (tyyppi, tyyli)  
 yatim - orpo  
 yatimdom - orpokoti  
-yav - tarve (puute)  
+yau - tarve (puute)  
 yavi - puutteenalainen  
 yavu - tarvita  
 yavan - tarpeellinen  
@@ -1300,6 +1300,9 @@ yei - jee! (hurraa!)
 Yemen - Jemen  
 Yesus - Jeesus  
 yeze - kookos  
+iyon - ioni  
+iyoni radi - radioaktiivinen  
+iyoni radia - radioaktiivisuus  
 iki - -llinen (kantasanalle ominaispiirteinen)  
 impera - hallita yksinvaltaisesti  
 imperia - keisarikunta  
@@ -1327,7 +1330,7 @@ insulte - loukkaus (herja)
 internete - internet  
 interes - kiinnostus (mielenkiinto)  
 inxala - toivoa  
-iodem - jodi  
+yodem - jodi  
 yoga - joogata  
 yoge - jooga  
 yogiste - joogi  
@@ -1335,9 +1338,6 @@ yohani feste - juhannus (kristillinen juhla)
 yoke - ies  
 yom - vuorokausi  
 yomsete - viikko  
-ion - ioni  
-ioni radi - radioaktiivinen  
-ioni radia - radioaktiivisuus  
 yorubi - joruban kansa ja kieli  
 yote - pisara (tippa)  
 Irakia - Irak  
@@ -1474,7 +1474,7 @@ kayu - aueta (avautua)
 Kaiman nesia - Cayman-saaret  
 kaka - ulostaa (kakata)  
 kake - uloste (kakka)  
-kakav - kaakao  
+kakau - kaakao  
 kal - tyhjö  
 kali - tyhjä  
 kalem - kalium  
@@ -1525,7 +1525,7 @@ karmeze - työpöytä (kirjoituspöytä)
 Karaibia - Karibia  
 karaoke - karaoke  
 karate\* - karate  
-karav - kumina  
+karau - kumina  
 karbe - hiili  
 karbodulokside - hiilidioksidi  
 karde - kortti  
@@ -1631,7 +1631,7 @@ klube - kerho (klubi)
 kobalte - kobaltti  
 koda - koodata  
 kode - koodi  
-koi - jokin (joku)  
+koi (koyi) - jokin (joku)  
 koi jan - joku  
 koi sate - joskus  
 koi xei - jokin  
@@ -1697,7 +1697,7 @@ kosta - maksaa (olla hintana)
 koste - hinta (maksu)  
 Kosta Rika - Costa Rica  
 kote - takki  
-Kote Da Ivuar - Norsunluurannikko  
+Kote Da Ivar - Norsunluurannikko  
 krabe - rapu (taskurapu)  
 kran - hana (venttiili, kraana)  
 kratia - valta  
@@ -1757,7 +1757,7 @@ layana - tuoda
 laje - roska  
 lake - lakka  
 lali - punainen  
-lalbavxeke - rubiini  
+lalbauxeke - rubiini  
 laloranje - mandariini  
 lampe - lamppu  
 lanca - heittää (paiskata)  
@@ -1775,7 +1775,7 @@ lati - sivu-
 latini harfia - latinalaiset aakkoset  
 latinkitaba - latinoida  
 Latvia - Latvia  
-Lav - Laos  
+Lau - Laos  
 lavi - laoslainen  
 laurensem - lawrensium  
 lax - jäte (hylkytavara)  
@@ -1901,7 +1901,7 @@ maitnerem - meitnerium
 makal - artikkeli (kirjoitus)  
 makan - voi  
 makas - sakset  
-Makav - Macao  
+Makau - Macao  
 mal (mali) - huono  
 mal zar - epäonni  
 maldarja - laskea tasoa  
@@ -1910,7 +1910,7 @@ malagasi - malagassi
 Malagasia - Madagaskar  
 malayi - malaiji  
 malayali - malajalam (eräs intialainen kieli)  
-Malaysia - Malesia  
+Malaisia - Malesia  
 malaria - malaria  
 Malavi - Malawi  
 Mali - Mali  
@@ -1932,7 +1932,7 @@ mangus - mangostani
 Manihai - profeetta Mani  
 manihayistia - manikealaisuus  
 Manin nes - Manin saari  
-manioke - kassava (maniokki)  
+manyoke - kassava (maniokki)  
 manir - käytös (käyttäytyminen, tapa, tavat)  
 manira - käyttäytyä  
 manse - liha  
@@ -1965,7 +1965,7 @@ matur - aikuinen
 maturi - kypsä (aikuinen)  
 maturi fem - nainen  
 maturi man - mies  
-mav - kissa  
+mau - kissa  
 max (maxo) - enemmän (myös, lisäksi, plus)  
 max ka bas - liikaa  
 maxi - lisä-  
@@ -2309,7 +2309,7 @@ pakse - lintu
 pal - hedelmä  
 palabe - riita (kiista)  
 paladem - palladium  
-Palav - Palau  
+Palau - Palau  
 palme - palmu  
 pan (pani) - kaikki  
 pan jan - jokainen ihminen  
@@ -2372,7 +2372,7 @@ patike - potilas
 patojener - patogeeni  
 patolojia - patologia (tautioppi)  
 patate - peruna (potaatti)  
-pav - pyssy  
+pau - pyssy  
 paunde - punta  
 pauza - keskeyttää (tauottaa)  
 pauze - tauko (keskeytys, paussi)  
@@ -2462,7 +2462,7 @@ polmaria - taajuus (tiheys)
 polmaro - usein  
 polmeni - monimerkityksinen  
 polnasi - monikansallinen  
-polav - pilahvi  
+polau - pilahvi  
 polis - poliisi  
 poliser - poliiisi (poliisimies)  
 politike - politiikka  
@@ -2528,7 +2528,7 @@ purboni - täydellinen (täysin hyvä)
 purfina - tehdä loppuun (saada valmiiksi)  
 purfityamiste - vegaani  
 pute - lapsi (jälkeläinen)  
-putav - viinirypäle  
+putau - viinirypäle  
 Putong Cini - yleiskiina (mandariinikiina)  
 putongi - yleinen (universaali)  
 puxa - työntää (puskea)  
@@ -2730,7 +2730,7 @@ sarkaske - kypärä
 saroste - pääkallo  
 sate - hetki (kotva)  
 Saturne - Saturnus  
-sav - tieto (tietämys)  
+sau - tieto (tietämys)  
 sava - tietää (tuntea)  
 savi - tietty (tunnettu)  
 saulojia - tietoteoria (epistemologia)  
@@ -2998,7 +2998,7 @@ transeria - kuljetus
 trata - sopia (tehdä sopimus)  
 trate - sopimus  
 tren - juna  
-trendav - junarata (rautatie)  
+trendau - junarata (rautatie)  
 trenkaper - junakaappari  
 tribe - heimo  
 Trinidade e Tobago - Trinidad ja Tobago  
@@ -3043,7 +3043,7 @@ varke - lehti (arkki, levy)
 varkolate - sivu (kirjassa)  
 vate - watti  
 Vatikan - Vatikaanivaltio  
-vav - oho (vau)  
+vau - oho (vau)  
 vaxa - pestä  
 vaxmaxin - pesukone  
 Vaxington D####C - Washington DC  
@@ -3051,7 +3051,7 @@ vaze - ruukku (maljakko, vaasi)
 UDA du - yhdysvaltalainen (ns. Amerikkalainen)  
 vei - häntä  
 Venezuela - Venezuela  
-Venjov - Wenzhou  
+Venjou - Wenzhou  
 venjovoranje - satsuma  
 ventur - seikkailu  
 venturer - seikkailija  
@@ -3067,7 +3067,7 @@ vida - nähdä
 vide - näkymä  
 vidu - näkyä  
 vidomaidan - näkökenttä  
-vidov - leski  
+vidou - leski  
 vieti - vietnamilainen  
 Vietia - Vietnam  
 vijin - natriumglutamaatti  
@@ -3199,7 +3199,7 @@ xoke - isku (šokki)
 xopa - ostaa  
 xope - ostokset  
 xoper - ostaja  
-xov - näytös (esitys, show)  
+xou - näytös (esitys, show)  
 xova - näyttää  
 xudu - pitäisi  
 xukar - sokeri  
@@ -3222,7 +3222,7 @@ xuxa - hiljentää
 xuxi - hiljainen  
 xuxo - hiljaa (hys, shhh)  
 ####Z - Z  
-zay - tämä hetki (nyt)  
+zai - tämä hetki (nyt)  
 zayi - kuluva (tämänhetkinen)  
 zayia - läsnäolo  
 zayu - olla olemassa  

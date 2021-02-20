@@ -397,7 +397,7 @@ huria - 自由
 ####I - I  
 ye - 对 (是)  
 yamfite - 蔬菜  
-yamyav - 饥饿  
+yamyau - 饥饿  
 yasen - 白蜡树  
 yatimdom - 孤儿院  
 yavu - 需要  
@@ -472,7 +472,7 @@ kance - 玻璃
 kancodake - 釉  
 kande - 糖果  
 kangaru\* - 袋鼠  
-kanion - 峡谷 (深谷)  
+kanyon - 峡谷 (深谷)  
 kankuate - 金柑  
 kantalupomelon - 鈔皮瓜  
 kapotruke - 陷阱  
@@ -555,7 +555,7 @@ laya - 来
 layana - 带来  
 laje - 废物 (垃圾)  
 lali - 红  
-lalbavxeke - 红宝石  
+lalbauxeke - 红宝石  
 lalolince - 短尾貓  
 laloranje - 柑橘 (红橘)  
 lalsalmon - 紅鮭  
@@ -638,7 +638,7 @@ mate - 物质
 matur - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
-mav - 猫  
+mau - 猫  
 maxforte - 加固  
 maxim (maximo) - 最  
 mece - 比赛  
@@ -751,7 +751,7 @@ pastopetre - 岩漿
 patike - 患者 (病患)  
 patojener - 病原体  
 patolojia - 病理学  
-pav - 手枪  
+pau - 手枪  
 pax - 疼痛  
 peda - 放屁  
 pede - 屁  
@@ -956,13 +956,13 @@ vaxurse - 浣熊
 vei - 尾巴 (尾部)  
 venda - 卖  
 vendoxope - 贸易  
-Venjov - 温州  
+Venjou - 温州  
 venjovoranje - 温州蜜柑  
 ventur - 冒险  
 venturer - 冒险者  
 vespe - 蜂  
 vida - 看  
-vidov - 寡妇  
+vidou - 寡妇  
 vijin - 味精  
 umami - 鲜味  
 umur - 年岁  
@@ -1006,7 +1006,7 @@ xofer - 司机
 xopa - 买  
 xope - 购物 (血拼)  
 xukar - 糖  
-xukarcav - 甘蔗  
+xukarcau - 甘蔗  
 xul - 课  
 xula - 学习  
 xulia - 教育  

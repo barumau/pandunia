@@ -439,10 +439,10 @@ huri - свободный (вольный)
 ####I - I  
 ye - да  
 yamfite - овощ  
-yamyav - голод  
+yamyau - голод  
 yasen - ясень  
 yatimdom - детский дом  
-yav - нужда  
+yau - нужда  
 yavu - нуждаться  
 yavan - нужный  
 yauxina - доверять (понадеяться)  
@@ -456,7 +456,7 @@ insani hake - права человека
 insaniki - человечный  
 insanistia - гуманизм  
 inxala - надеяться (чаять)  
-iodem - йод  
+yodem - йод  
 yoge - йога  
 yohani feste - Иванов день  
 yoke - ярмо (иго)  
@@ -522,7 +522,7 @@ kance - стекло
 kancodaka - глазуровать  
 kancodake - глазурь  
 kangaru\* - кенгуру  
-kanion - овраг (ущелье, каньон)  
+kanyon - овраг (ущелье, каньон)  
 kanjar - кинжал  
 kankuate - кумкват (кинкан)  
 kano\* - каноэ  
@@ -615,7 +615,7 @@ laya - приходить
 layana - приносить  
 laje - мусор (дрянь)  
 lali - красный  
-lalbavxeke - рубин  
+lalbauxeke - рубин  
 lalolince - рыжая рысь  
 laloranje - мандарин  
 lalsalmon - нерка (красница)  
@@ -704,7 +704,7 @@ maske - маска
 maste - мачта  
 mate - материя  
 matur - взрослый  
-mav - кошка  
+mau - кошка  
 maxforte - пополнение  
 maxime - максимум  
 mece - матч  
@@ -830,7 +830,7 @@ pasporte - паспорт
 patike - пациент (больной)  
 patojener - патоген  
 patolojia - патология  
-pav - пистолет  
+pau - пистолет  
 pava - стрелять  
 pauze - пауза  
 pax - боль  
@@ -870,7 +870,7 @@ pliza - просить
 plum - слива  
 polbaxi - многоязычный  
 polmaro - часто  
-polav - плов  
+polau - плов  
 pontopin - компас  
 porei - лук-порей  
 porte - порт  
@@ -1069,7 +1069,7 @@ val - ценность
 vala - оценивать  
 vampir - вампир (упырь)  
 vampirbalsenter - адский вампир  
-vav - вау!  
+vau - вау!  
 vaxa - мыть  
 vaxmaxin - стиральная машина  
 vaxurse - енот  
@@ -1087,9 +1087,9 @@ vestogoril - западная горилла
 vida - видеть  
 vider - зрительница  
 vidopunte - перспектива (точки зрения)  
-vidov - вдова  
+vidou - вдова  
+viyoleti - фиолетовый (пурпурный)  
 vinkan - винном заводе  
-violeti - фиолетовый (пурпурный)  
 virus - вирус  
 viruslojia - вирусология  
 vize - виза  
@@ -1139,7 +1139,7 @@ xope - покупка (шоппинг)
 xova - доказать (демонстрировать)  
 xukar - сахар  
 xukarbete - сахарная свёкла  
-xukarcav - сахарный тростник  
+xukarcau - сахарный тростник  
 xukaroranje - апельсин  
 xul - урок (учение)  
 xula - учиться  
