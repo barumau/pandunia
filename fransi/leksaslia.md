@@ -263,9 +263,9 @@
 |**kanape**|canapé (sofa)|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
 |**kance**|verre|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:kaca, tel:గాజు (gāju)|
 |**kangaru***|kangourou|eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|
-|**kanion**|canyon (ravin)|eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon|
 |**kankuate**|kumquat|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|
 |**kano***|canoë|eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|
+|**kanyon**|canyon (ravin)|eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon|
 |**kar**|travail|may:karya, hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma) |
 |**karcof**|artichaut|ara:خرشوف (kharshuf), amh:ከርቹፍ (kärčuf), spa:alcachofa, por:alcachofra, pol:karczoch|
 |**karde**|carte|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
@@ -364,7 +364,7 @@
 |**maske**|masque|eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske|
 |**maste**|mât|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
 |**mate**|matière|eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi, + ara: مادة (mādda),  tur:madde + yue:物 (mat), vie:vật|
-|**mav**|chat|zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|
+|**mau**|chat|zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|
 |**max (maxo)**|plus|spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|
 |**maxime**|maximum|eng:fra:maximum, por:spa:máximo, rus:максимум (maksimum), may:maksimum|
 |**me**|je (me)|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|
@@ -443,8 +443,8 @@
 |**parke**|parc|eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|
 |**parne**|fougères|eng:fern, rus:папоротник (paporotnik), hin:फर्न (pharna), ben:ফার্ন (phārna)|
 |**pasporte**|passeport|eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|
+|**pau**|pistolet|zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)|
 |**pauze**|pause|eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)|
-|**pav**|pistolet|zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)|
 |**pede**|pet (vesse)|ben:পাদ (pad), hin:पाद (pād), spa:pedo, por:peido, fra:pet, rus:пердение (perdeniye)|
 |**pelpel**|papillon|por:borboleta, fra:papillon, ita:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), swa:kipepeo, yor:labalábá, tgl:paruparo|
 |**pente**|peinture|eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)|
@@ -572,9 +572,9 @@
 |**verme**|ver|eng:worm, por:verme, fra:ver, deu:Wurm|
 |**vespe**|abeille ou guêpe|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |**vida**|voir|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|
-|**vidov**|veuve|eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|
-|**violeti**|violet (pourpre)|eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)|
+|**vidou**|veuve|eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|
 |**virus**|virus|eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|
+|**viyoleti**|violet (pourpre)|eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)|
 |**vode**|vœu (promesse)|fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|
 |**volfe**|loup|deu:ned:eng:wolf, rus:волк (volk)|
 |**volu**|vouloir|fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|
@@ -599,7 +599,7 @@
 |**xulkan**|école (collège)|zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah|
 |**xur**|début (commencement)|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
 |**yasen**|frêne|rus:ясень (yasen’), pol:jesion|
-|**yav**|besoin|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
+|**yau**|besoin|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
 |**ye**|oui|eng:yes;yeah, kor:예 (ye), may:ya|
 |**yoke**|joug|eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách|
 |**yongu**|melt|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|

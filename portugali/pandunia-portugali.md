@@ -391,10 +391,10 @@ huri - livre (forro)
 ####I - I  
 ye - sim  
 yamfite - verdura (hortaliça, legume)  
-yamyav - fome  
+yamyau - fome  
 yasen - freixo  
 yatimdom - orfanato  
-yav - necessidade  
+yau - necessidade  
 yavi - necessitado  
 yavu - necessitar  
 yavan - necessário  
@@ -465,7 +465,7 @@ kamis - camisa
 kamisi xake - manga  
 kance - vidro  
 kangaru\* - canguru  
-kanion - canhão (ravina, barranco)  
+kanyon - canhão (ravina, barranco)  
 kankuate - quincã (cunquate)  
 kano\* - canoa  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -476,7 +476,7 @@ kara - trabalhar
 karer - trabalhador  
 karloge - verbo  
 Karaibia - Caribe  
-karav - alcaravia (cariz)  
+karau - alcaravia (cariz)  
 karbodulokside - dióxido de carbono  
 karcof - alcachofra  
 karde - carta  
@@ -549,7 +549,7 @@ laya - vir
 layana - trazer  
 laje - refugo (escória)  
 lali - vermelho  
-lalbavxeke - rubi  
+lalbauxeke - rubi  
 laloranje - tangerina (mandarim)  
 lalsalmon - salmão-vermelho  
 lama\* - lama  
@@ -636,7 +636,7 @@ masal - tempero
 maske - máscara  
 maste - mastro  
 mate - matéria  
-mav - gato  
+mau - gato  
 max (maxo) - mais  
 maxime - máximo  
 mece - partida  
@@ -753,7 +753,7 @@ paste - pasta
 patike - paciente  
 patojener - patógeno  
 patolojia - patologia  
-pav - arma de fogo  
+pau - arma de fogo  
 pauze - pausa  
 peda - peidar  
 pede - peido  
@@ -956,8 +956,8 @@ verme - verme
 vermute - vermute  
 vespe - abelha ou vespa  
 vida - ver  
-vidov - viúvo  
-violeti - purpúreo (roxo)  
+vidou - viúvo  
+viyoleti - purpúreo (roxo)  
 umur - idade  
 un (uni) - um (1)  
 uniki - único (só)  
@@ -1002,7 +1002,7 @@ xofer - condutor (chofer, motorista)
 xopa - comprar  
 xope - compras  
 xukar - açúcar  
-xukarcav - cana-de-açúcar  
+xukarcau - cana-de-açúcar  
 xul - lição  
 xula - aprender  
 xulia - educação  

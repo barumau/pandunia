@@ -423,7 +423,7 @@ fenestro - janel
 fenestrokadro - janelfrem  
 fermio - fermem  
 fero - fer  
-fervojo - trendav  
+fervojo - trendau  
 festi - festa  
 festo - feste  
 feĉo - hamir  
@@ -494,7 +494,7 @@ fungo - fung
 funkcii - funcu  
 furo - furete  
 furzo - pede  
-fusilo - pav  
+fusilo - pau  
 fuĝi - bega  
 ####G - G  
 gadolinio - gadolinem  
@@ -638,7 +638,7 @@ interrasa - rasmedi
 interŝanĝi - badla  
 inviti - pliza laya  
 io - koi xei  
-iono - ion  
+iono - iyon  
 Irakio - Irakia  
 Iranio - Iran  
 iri - kitu  
@@ -653,7 +653,7 @@ isto de ismo - iste
 Italio - Italia  
 iterbio - yuterbem  
 itrio - yutrem  
-iu - koi  
+iu - koi (koyi)  
 iu ajn - eni  
 iu persono - koi jan  
 ####J - J  
@@ -668,7 +668,7 @@ jasmeno - malike
 Jemeno - Yemen  
 jes - ye  
 Jesuo - Yesus  
-jodo - iodem  
+jodo - yodem  
 jogo - yoge  
 jugo - yoke  
 juna - jovani  
@@ -688,7 +688,7 @@ kafo - kafe\*
 kaftaso - kafekupe  
 kaj - e  
 kajero - notobuke  
-kakao - kakav  
+kakao - kakau  
 kaktuso - katus  
 kalcio - kalsem  
 kalcito - kalsite  
@@ -724,11 +724,11 @@ karoto - karote
 karto - karde  
 kartuno - anim  
 karulo - amike  
-karvio - karav  
+karvio - karau  
 kasko - sarkaske  
 kastoro - kastor  
 Katalunio - Katalunia  
-kato - mav  
+kato - mau  
 kaverno - guh  
 kaĝo - batonkapse  
 kaŝtano - kastan  
@@ -967,7 +967,7 @@ malproksimeco - tel
 malproksimeco - telia  
 malrapida - lenti  
 malsana - pati  
-malsato - yamyav  
+malsato - yamyau  
 malsukceso - xibai  
 maltro - min ka bas  
 malvarma - lengi  
@@ -1056,7 +1056,7 @@ mono - pes
 monoklo - unoki lense  
 monstro - monoster  
 monto - xan  
-montri (ekspozicii) - xov  
+montri (ekspozicii) - xou  
 montri - ponta  
 mordi - danta  
 morgaŭ - badodeno  
@@ -1127,7 +1127,7 @@ nova - novi
 novaĵoj - habar  
 novulo - novike  
 nudelo - mien  
-nuno - zay  
+nuno - zai  
 ####O - O  
 oazo - oaze  
 obrelo - barxocate  
@@ -1376,7 +1376,7 @@ roko - petre
 Romo - Roma  
 roso - ros  
 rozo - roze  
-rubeno - lalbavxeke  
+rubeno - lalbauxeke  
 rubidio - rubidem  
 rubo - laje  
 ruinigita - harabi  
@@ -1414,7 +1414,7 @@ saŭco - sos
 saŭno - sauna\*  
 scienco - lojia  
 scii (koni) - sava  
-scio - sav  
+scio - sau  
 sciteorio (epistemologio) - saulojia  
 sciuro - ekor  
 se - aga  
@@ -1663,11 +1663,11 @@ via (cia) - ti
 viando - manse  
 vic- - visi  
 vidi (rigardi) - vida  
-vidvo - vidov  
+vidvo - vidou  
 vikia artikulo - vike  
 vilaĝo - ruste  
 vinagro - sirke  
-vinbero - putav  
+vinbero - putau  
 vino - vin  
 vintra - lengomosimi  
 vintro - lengomosim  
@@ -1784,4 +1784,4 @@ zuluo - Zulu
 ŝuisto - sapater  
 ŝultro - kante  
 ŝuo - sapate  
-ŭaŭ! - vav  
+ŭaŭ! - vau  

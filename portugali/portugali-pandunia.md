@@ -26,7 +26,7 @@ alaranjado - oranji
 alcachofra - karcof  
 alcachofra-girassol (tupinambo) - masmulsolful  
 alcalino - alkali  
-alcaravia (cariz) - karav  
+alcaravia (cariz) - karau  
 alface - letis  
 alfinete - pin  
 alga - alge  
@@ -61,7 +61,7 @@ arco - arke
 argila - glutopote  
 argumento - argum  
 arma - arme  
-arma de fogo - pav  
+arma de fogo - pau  
 armadilha - kapotruke  
 armadura - defkaske  
 armário - almar  
@@ -152,9 +152,9 @@ camarão - krevete
 camisa - kamis  
 camomila-romana - romakamil  
 camomila-vulgar - kamil  
-cana-de-açúcar - xukarcav  
+cana-de-açúcar - xukarcau  
 canguru - kangaru\*  
-canhão (ravina, barranco) - kanion  
+canhão (ravina, barranco) - kanyon  
 canhǎo - daipau  
 canoa - kano\*  
 Cantalupo in Sabina - Kantalupo va Sabina  
@@ -395,7 +395,7 @@ flor - ful
 floresta de algas - algojangle  
 fogo - hoge  
 fogos de artifício - hogotehne  
-fome - yamyav  
+fome - yamyau  
 força aérea - airgun  
 foto (fotografia) - fotograf  
 fotografia - fotografia  
@@ -414,7 +414,7 @@ galáxia - galaksia
 gamão - narde  
 gancho - huke  
 garrafa (botelha) - botel  
-gato - mav  
+gato - mau  
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
 gato-maracajá - margai  
 gelar - aisu  
@@ -631,7 +631,7 @@ música - muzike
 nadar (flutuar) - boyu  
 nautiloide - nautil  
 nação - nasia  
-necessidade - yav  
+necessidade - yau  
 necessitado - yavi  
 necessitar - yavu  
 necessário - yavan  
@@ -773,7 +773,7 @@ projétil - lancite
 prolongado - longoduri  
 promessa (voto) - vode  
 prova - dalil  
-purpúreo (roxo) - violeti  
+purpúreo (roxo) - viyoleti  
 purê de maçã - apelsos  
 pá - bel  
 página - varkolate  
@@ -834,7 +834,7 @@ roda - cakre
 Roma - Roma  
 rosa - roze  
 roupa (vestidura) - fuke  
-rubi - lalbavxeke  
+rubi - lalbauxeke  
 rápido - rapidi  
 rã - krokroke  
 ####S - S  
@@ -991,7 +991,7 @@ vida - jiu
 vidro - kance  
 vir - laya  
 vivo - jivi  
-viúvo - vidov  
+viúvo - vidou  
 voar - feyu  
 vocabulário - logia  
 vogal - jungofon  

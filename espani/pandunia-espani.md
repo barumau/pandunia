@@ -1040,7 +1040,7 @@ geugrafia - cartografía (geografía)
 geugunia - ejército  
 geukaski plate - placa tectónica  
 geulojia - geología  
-Geumedi Hay - Mediterráneo  
+Geumedi Hai - Mediterráneo  
 geumetria - geometría  
 geunici - subterráneo  
 geunici prizon - mazmorra  
@@ -1271,13 +1271,13 @@ yam - comida
 yama - comer (bebir)  
 yami - delicioso  
 yamfite - verdura (legumbre)  
-yamyav - hambre  
+yamyau - hambre  
 yamkamar - comedor  
 yang - variedad (tipo, estilo)  
 yasen - fresno  
 yatim - huérfano  
 yatimdom - orfanato  
-yav - necesidad  
+yau - necesidad  
 yavi - necesitado  
 yavu - necesitar  
 yavan - necesario  
@@ -1299,6 +1299,9 @@ yei - yupi
 Yemen - Yemen  
 Yesus - Jesús  
 yeze - coco  
+iyon - ion  
+iyoni radi - radiactivo  
+iyoni radia - radiación ionizante  
 impera - reinar (reinar como emperador)  
 imperia - imperio  
 imperer - emperador  
@@ -1329,16 +1332,13 @@ internete - Internet
 interes - interés  
 interesi - interesante  
 inxala - esperar (desear)  
-iodem - yodo (iodo)  
+yodem - yodo (iodo)  
 yoga - hacer yoga  
 yoge - yoga  
 yogiste - yogui  
 yohani feste - día de San Juan  
 yoke - yugo  
 yomsete - semana  
-ion - ion  
-ioni radi - radiactivo  
-ioni radia - radiación ionizante  
 yongu - derretirse  
 yongopetre - lava  
 yote - gota  
@@ -1486,7 +1486,7 @@ kayu - abirse
 Kaiman nesia - islas Caimán  
 kaka - defecar  
 kake - caca  
-kakav - cacao  
+kakau - cacao  
 kal - espacio (separación)  
 kali - vacío (desocupado)  
 kali harfe - espacio (texto)  
@@ -1525,7 +1525,7 @@ kande - caramelo
 kandel - candela (unidad de intensidad luminosa)  
 kang - peine  
 kangaru\* - canguro  
-kanion - cañón (barranco, quebrada)  
+kanyon - cañón (barranco, quebrada)  
 kanjar - puñal (daga)  
 kankuate - kumquat (quinoto)  
 kano\* - canoa  
@@ -1545,7 +1545,7 @@ karmisa - entregar (enviar)
 Karaibia - Caribe  
 karaoke - karaoke  
 karate\* - karate  
-karav - carvis (alcaravea)  
+karau - carvis (alcaravea)  
 karbe - carbón  
 karbodulokside - dióxido de carbono  
 karbosui - carbohidrato  
@@ -1656,7 +1656,7 @@ klube - club
 kobalte - cobalto  
 koda - codificar (cifrar)  
 kode - código (cifra)  
-koi - algún  
+koi (koyi) - algún  
 koi jan - algién  
 koi sate - algún día (algún vez)  
 koi xei - algo  
@@ -1723,7 +1723,7 @@ kosta - costar
 koste - precio (coste)  
 Kosta Rika - Costa Rica  
 kote - abrigo (chaqueta)  
-Kote Da Ivuar - Costa de Marfil  
+Kote Da Ivar - Costa de Marfil  
 krake - raja (grieta)  
 kran - válvula (llave, canilla)  
 kratia - dominio (reinado)  
@@ -1794,7 +1794,7 @@ layana - traer
 laje - basura (desechos)  
 lake - laca  
 lali - rojo  
-lalbavxeke - rubí  
+lalbauxeke - rubí  
 lalolince - lince rojo (gato montés)  
 laloranje - mandarina (tangerina)  
 lalsalmon - salmón rojo  
@@ -1821,8 +1821,8 @@ latojan - compañero (compinche)
 latini harfia - alfabeto latino  
 latinkitaba - romanizar  
 Latvia - Letonia  
-lav - viejo (anciano)  
-Lav - Laos  
+lau - viejo (anciano)  
+Lau - Laos  
 lavi - viejo (anciano)  
 lavi - laosiano  
 laumam - abuela  
@@ -1963,7 +1963,7 @@ makal - artículo (texto)
 makan - mantequilla  
 makanful - dientes de león (panaderos)  
 makas - tijera  
-Makav - Macao  
+Makau - Macao  
 mal (mali) - malo  
 mal zar - infortunio (mala suerte)  
 maldarja - degradar  
@@ -1973,7 +1973,7 @@ malagasi - malgache
 Malagasia - Madagascar  
 malayi - malayo  
 malayali - malayali (malabar, malayalam)  
-Malaysia - Malasia  
+Malaisia - Malasia  
 malaria - malaria (paludismo)  
 Malavi - Malaui  
 Mali - Mali  
@@ -1995,7 +1995,7 @@ mangus - mangostán (jobo de la India)
 Manihai - profeta Mani  
 manihayistia - maniqueísmo  
 Manin nes - Isla de Man  
-manioke - yuca (mandioca)  
+manyoke - yuca (mandioca)  
 manir - comportamiento (conducta)  
 manira - comportarse (portarse)  
 manse - carne  
@@ -2034,7 +2034,7 @@ matur - adulto
 maturi - maduro (adulto, curado)  
 maturi fem - mujer (señora)  
 maturi man - hombre (señor)  
-mav - gato  
+mau - gato  
 max (maxo) - más  
 max ka bas - demasiado  
 maxi - adicional (extra)  
@@ -2335,13 +2335,13 @@ note - nota
 notana - avisar (notificar)  
 notite - aviso (notificación)  
 notobuke - cuaderno (libreta)  
-nov - novedad  
+nou - novedad  
 nova - renovar  
 novi - nuevo  
 Novi Kaledonia - Nueva Caledonia  
 Novi Zelandia - Nueva Zelanda  
 novo - ahora mismo (justo)  
-novyangi - moderno  
+nouyangi - moderno  
 novike - novato  
 nudi - desnudo  
 nudiste - nudista  
@@ -2417,7 +2417,7 @@ Pakistan - Pakistán
 pakse - pájaro (ave)  
 pal - fruta  
 paladem - paladio  
-Palav - Palaos  
+Palau - Palaos  
 palme - palmera  
 pan (pani) - todo  
 pan jan - todas las personas  
@@ -2486,7 +2486,7 @@ patike - paciente
 patojener - patógeno  
 patolojia - patología  
 patate - papa  
-pav - pistola (rifle)  
+pau - pistola (rifle)  
 pava - disparar  
 paunde - libra (£)  
 pauza - parar  
@@ -2590,7 +2590,7 @@ polmaria - frecuencia
 polmaro - frecuentemente  
 polmeni - ambiguo  
 polnasi - multinacional  
-polav - pilaf (pulaw)  
+polau - pilaf (pulaw)  
 polis - policía  
 poliser - policía  
 politike - política  
@@ -2662,7 +2662,7 @@ purfityamiste - vegano
 purfityamistia - veganismo  
 purxipa - remojar (marinar, encurtir, macerar)  
 pute - hijo o hija  
-putav - uva  
+putau - uva  
 putavoranje - pomelo (toronja)  
 Putong Cini - chino mandarín  
 putongi - general (common)  
@@ -2894,7 +2894,7 @@ sarkaske - casco (yelmo)
 saroste - cráneo (calavera)  
 sate - momento (tiempo)  
 Saturne - Saturno  
-sav - sabiduría (conocimiento)  
+sau - sabiduría (conocimiento)  
 sava - saber (conocer)  
 savi - conocido  
 saulojia - epistemología  
@@ -3218,7 +3218,7 @@ transeria - transporte
 transogoni - diagonal  
 trate - contrato (tratado)  
 tren - tren  
-trendav - vía férrea  
+trendau - vía férrea  
 tribe - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
 truka - engañar  
@@ -3272,7 +3272,7 @@ varkalge - kelp
 varkolate - página  
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
-vav - guau (vaya)  
+vau - guau (vaya)  
 vaxa - lavar  
 vaxmaxin - lavadora  
 vaxurse - mapache  
@@ -3304,9 +3304,10 @@ vidu - ser visto
 vider - espectador  
 vidomaidan - campo de visión  
 vidopunte - perspectiva (punto de vista)  
-vidov - viudo  
+vidou - viudo  
 vieti - vietnamita  
 Vietia - Vietnam  
+viyoleti - morado (púrpura)  
 vijin - GMS  
 vike - página wiki  
 vil - futuro  
@@ -3317,7 +3318,6 @@ vin - vino
 vinkan - bodega  
 ving - ala  
 vinil - vinilo  
-violeti - morado (púrpura)  
 vir - héroe  
 viri - valiente (heroico)  
 Virjin nesia - Islas Vírgenes  
@@ -3447,13 +3447,13 @@ xoke - choque (sacudida)
 xopa - comprar  
 xope - compras (shopping)  
 xoper - comprador  
-xov - exposición (espectáculo)  
+xou - exposición (espectáculo)  
 xova - mostrar  
 xudu - deber (se recomienda)  
 xukar - azúcar  
 xukari - azucarado  
 xukarbete - remolacha azucarera  
-xukarcav - caña de azúcar  
+xukarcau - caña de azúcar  
 xul - lección  
 xula - aprender (estudiar)  
 xulia - educación  
@@ -3471,7 +3471,7 @@ xuti - hábil
 xuxi - silencioso  
 xuxo - chito (chist)  
 ####Z - Z  
-zay - presente  
+zai - presente  
 zaya - generar (añadir)  
 zayi - actual  
 zayia - presencia (existencia)  

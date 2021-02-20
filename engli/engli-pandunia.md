@@ -537,7 +537,7 @@ cannoneer - daipaver
 canoe - kano\*  
 cantaloupe - kantalupomelon  
 Cantalupo in Sabina - Kantalupo va Sabina  
-canyon (ravine, gorge, gully) - kanion  
+canyon (ravine, gorge, gully) - kanyon  
 cape (cloak, mantle) - mantol  
 captain - botoxef  
 car (cart, carriage, wagon, automobile) - gar  
@@ -545,7 +545,7 @@ car park (parking lot) - garparke
 carat - kir  
 carat - kirate  
 caravan (convoy) - karvan  
-caraway - karav  
+caraway - karau  
 carbohydrate (saccharide) - karbosui  
 carbon (coal) - karbe  
 carbon dioxide - karbodulokside  
@@ -558,10 +558,10 @@ carrot - karote
 cartography (geography) - geugrafia  
 cash box - kax  
 cashier - kaxer  
-cassava (manioc) - manioke  
+cassava (manioc) - manyoke  
 caste - jenklas  
 castle (fortress, stronghold) - burge  
-cat - mav  
+cat - mau  
 Catalonia - Katalunia  
 catch (capture, seize, snatch, intercept) - kapa  
 catch fish - kapa pex  
@@ -571,7 +571,7 @@ cauldron - daivaze
 cause (be the cause for) - saba  
 cave - guh  
 Cayman Islands - Kaiman nesia  
-ceiling - kamargav  
+ceiling - kamargau  
 celebrate (party) - festa  
 celestial (heavenly) - samayi  
 cell (biology) - cel  
@@ -689,7 +689,7 @@ cobblestone - cirkoxeke
 coca - koke  
 Coca-Cola - kokokol  
 cocktail - mixi alkol  
-cocoa - kakav  
+cocoa - kakau  
 coconut tree - yeze  
 Cocos (Keeling) Islands - Kokos nesia  
 cod - kade  
@@ -864,7 +864,7 @@ Cyprus - Kipris
 Cyrillic alphabet - kirili harfia  
 cytology - celolojia  
 Czech Republic - Cehia  
-Côte d’Ivoire (Ivory Coast) - Kote Da Ivuar  
+Côte d’Ivoire (Ivory Coast) - Kote Da Ivar  
 ####D - D  
 dagger - kanjar  
 daimyo oak - dantobalute  
@@ -1022,7 +1022,7 @@ dumpling (ravioli, pelmeni) - pelmen
 dungeon (underground prison) - geunici prizon  
 dungeon crawl - donjon aventur  
 durable (endurable, sustainable) - durabli  
-duruka - yamxukarcav  
+duruka - yamxukarcau  
 dust (powder) - fun  
 dye - rangomate  
 dynamite - dinamite  
@@ -1058,7 +1058,7 @@ eight (8) - bali
 einsteinium - ainstainem  
 El Salvador - Salvador  
 elastic - lasti  
-elder - lav  
+elder - lau  
 electric - eletri  
 electricity - eletre  
 electron - eletron  
@@ -1420,7 +1420,7 @@ grammatical gender - baxi jinse
 grandfather - laupape  
 grandmother - laumam  
 granite - granite  
-grape - putav  
+grape - putau  
 grapefruit - putavoranje  
 graphic (pictorial) - grafi  
 grass - cau  
@@ -1466,7 +1466,7 @@ Guinea-Bissau - Bisau Ginia
 guitar - gitar  
 Gujarati - gujarati  
 gun (cannon) - daipau  
-gun (firearm) - pav  
+gun (firearm) - pau  
 gunpowder - barude  
 guru (teacher) - guru\*  
 Guyana - Guyana  
@@ -1596,7 +1596,7 @@ humorist - yumoriste
 humorous (comical, funny) - yumori  
 hundred (100) - xati  
 Hungary - Magyaria  
-hunger - yamyav  
+hunger - yamyau  
 hunt (fish) - saida  
 hunter - saider  
 hunting (fishing) - saide  
@@ -1606,7 +1606,7 @@ hush (shh) - xuxo
 hybrid (mongrel) - hibride  
 hydrogen - hidre  
 hygiene (cleanliness) - hijenia  
-Hyperion - Hiperion  
+Hyperion - Hiperyon  
 I (me) - me  
 ####I - I  
 Iapetus - Yapetus  
@@ -1673,8 +1673,8 @@ interracial - rasmedi
 interrogative - eskan  
 invite - pliza laya  
 Io - Io  
-iodine - iodem  
-ion - ion  
+iodine - yodem  
+ion - iyon  
 Iran - Iran  
 Iraq - Irakia  
 Ireland - Aire  
@@ -1777,7 +1777,7 @@ knee - gute
 knife - cake  
 knot (node) - node  
 know (be aware of) - sava  
-knowledge - sav  
+knowledge - sau  
 known - savi  
 Konkani - Konkani  
 Korea - Cosen  
@@ -1798,7 +1798,7 @@ language (communication) - bax
 lantern - hogosanduke  
 lanthanum - lantanem  
 Lao (Laotian) - lavi  
-Laos - Lav  
+Laos - Lau  
 lapis lazuli - lazurpetre  
 larva (maggot, caterpillar) - larve  
 lasagna - lazanye  
@@ -1921,7 +1921,7 @@ loom - texmaxin
 lose (fail, miss, be defeated) - xibaya  
 lose (shed, miss, misplace) - xibaya tena  
 loser - xibayer  
-loss (failure, miss) - xibay  
+loss (failure, miss) - xibai  
 lot (plot of land) - geutike  
 love (hold dear) - ama  
 love (liking, affection) - am  
@@ -1944,7 +1944,7 @@ lychee (litchi) - lice
 lymph - linfe  
 lynx - lince  
 ####M - M  
-Macao - Makav  
+Macao - Makau  
 machine - maxin  
 mad (insane, crazy) - foli  
 Madagascar - Malagasia  
@@ -1972,7 +1972,7 @@ malaria - malaria
 Malawi - Malavi  
 Malay - malayi  
 Malayali (Malayalam) - malayali  
-Malaysia - Malaysia  
+Malaysia - Malaisia  
 Maldives - Divehia  
 male - man  
 malfunction - malfunce  
@@ -2050,7 +2050,7 @@ Mecca - makah
 medallion (medal) - medal  
 medicine (field of study) - medikia  
 meditate (ponder) - medita  
-Mediterranean - Geumedi Hay  
+Mediterranean - Geumedi Hai  
 medium (intermediate, mean) - medi  
 medium (media) - media  
 meet - mita  
@@ -2121,7 +2121,7 @@ mixer (blender) - mixer
 model (design) - model  
 model (design) - modela  
 model (similarity, simulation) - samsifia  
-modern - novyangi  
+modern - nouyangi  
 Moldova - Moldova  
 mole (burrowing animal) - krote  
 mole (unit) - mol  
@@ -2225,7 +2225,7 @@ near (close) - karibi
 nearly (closely, almost) - karibo  
 necessary (needed) - yavan  
 need (lack) - yavu  
-need (shortage, lack) - yav  
+need (shortage, lack) - yau  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
 needy (lacking) - yavi  
 negotiate (arrange) - lona biznes  
@@ -2295,7 +2295,7 @@ nothing - nol xei
 notice (notification) - notite  
 notify - notana  
 noun - namloge  
-novelty - nov  
+novelty - nou  
 November - desunmes  
 novice (newbie) - novike  
 nuclear energy - kerni energe  
@@ -2416,7 +2416,7 @@ paint - pente
 painter - penter  
 Pakistan - Pakistan  
 palace (mansion) - daidom  
-Palau - Palav  
+Palau - Palau  
 Palestinian Territory - Filistin  
 palladium - paladem  
 palm tree - palme  
@@ -2531,7 +2531,7 @@ piece (fragment, shred, morsel, crumb, shard) - parce
 piece (nugget, tikka) - tike  
 pierce (perforate, bore) - konga  
 pig - gurube  
-pilaf (pulao) - polav  
+pilaf (pulao) - polau  
 pilot - piloter  
 pinch - pinsa  
 pine tree - song  
@@ -2649,7 +2649,7 @@ pregnant - hamili
 prepare (make ready) - reda  
 presence (existence) - zayia  
 present (current, existing) - zayi  
-present time (now) - zay  
+present time (now) - zai  
 presenty (currently, now) - zayo  
 president - prezidente  
 press (imprint) - capa  
@@ -2703,7 +2703,7 @@ pufferfish - balonpex
 pull (draw, drag) - tira  
 pump - pompa  
 Punjabi - panjabi  
-purple (violet) - violeti  
+purple (violet) - viyoleti  
 push - puxa  
 put (place, set) - loka  
 put forward (advance, progress) - jina  
@@ -2728,14 +2728,14 @@ racist - rasiste
 radiate - rada  
 radiation - radia  
 radio receiver - radi geter  
-radioactive - ioni radi  
-radioactivity (ionizing radiation) - ioni radia  
+radioactive - iyoni radi  
+radioactivity (ionizing radiation) - iyoni radia  
 radiometer - radometrer  
 radiotransmitter - radi miser  
 radish - lobake  
 radium - radem  
 radon - radon  
-rail (railway, railroad) - trendav  
+rail (railway, railroad) - trendau  
 rain (pour down) - barxu  
 rain (precipitation) - barxe  
 rainbow - rangarke  
@@ -2873,7 +2873,7 @@ royal - raji
 rub (scrape, scrub) - frika  
 rubber - gom  
 rubidium - rubidem  
-ruby - lalbavxeke  
+ruby - lalbauxeke  
 rude (offensive) - nindi  
 ruin (destroy, devastate, demolish) - haraba  
 rule (be in charge) - sulta  
@@ -3041,7 +3041,7 @@ should (ought) - xudu
 shoulder - kante  
 shovel (spade, scoop) - bel  
 show (display, demonstrate) - xova  
-show (display, exhibition) - xov  
+show (display, exhibition) - xou  
 shower - dux  
 shrimp (prawn) - krevete  
 Siberia - Sibiria  
@@ -3127,7 +3127,7 @@ Solomon Islands - Solomon nesia
 solstice - solestas  
 Somalia - Somalia  
 Somaliland - Somaldex  
-some - koi  
+some - koi (koyi)  
 someone (somebody) - koi jan  
 something - koi xei  
 sometime - koi sate  
@@ -3246,7 +3246,7 @@ suffix for verbs with SVO word order - -a
 sugar - xukar  
 sugar beet - xukarbete  
 sugar-apple (sweetsop) - ata\*  
-sugarcane - xukarcav  
+sugarcane - xukarcau  
 sugary (sweet) - xukari  
 suggest (propose) - suja  
 suggestion (proposal) - suje  
@@ -3674,7 +3674,7 @@ weight (burden) - bar
 weight (heaviness, gravity) - baria  
 welcome! - salam lai  
 Welsh - kamri  
-Wenzhou - Venjov  
+Wenzhou - Venjou  
 west - veste  
 western - vesti  
 western gorilla - vestogoril  
@@ -3695,7 +3695,7 @@ who? - ki jan
 whole (entire) - holi  
 wholeness (integrity) - holia  
 wide (broad) - kuani  
-widow - vidov  
+widow - vidou  
 width (breadth) - kuania  
 wiki - vikia  
 wiki article - vike  
@@ -3735,7 +3735,7 @@ world language - dunia bax
 worm - verme  
 worship (reveration) - puje  
 worship (revere) - puja  
-wow! (gee!) - vav  
+wow! (gee!) - vau  
 wrap - lifafa  
 wrapping (envelope, covering) - lifaf  
 write - kitaba  

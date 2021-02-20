@@ -117,7 +117,7 @@ algas pardas - brunalge
 algién - koi jan  
 algo - koi xei  
 algodón - goton  
-algún - koi  
+algún - koi (koyi)  
 algún día (algún vez) - koi sate  
 alicate - pinser  
 alinear - parlinyu  
@@ -464,7 +464,7 @@ cable - eletrolinye
 Cabo Verde - Kabu Verdi  
 cabra - buze  
 caca - kake  
-cacao - kakav  
+cacao - kakau  
 cacto - katus  
 cada - mei  
 cadena - silsil  
@@ -561,7 +561,7 @@ carpeta - dokumsanduke
 carpintero - mokojanger  
 carrera - peikari jiu  
 cartografía (geografía) - geugrafia  
-carvis (alcaravea) - karav  
+carvis (alcaravea) - karau  
 casa (hogar, residencia) - dom  
 casado - gami  
 casamiento - gamia  
@@ -578,9 +578,9 @@ causar - saba
 cavar (excavar) - kava  
 cazador - saider  
 cazar (pescar) - saida  
-caña de azúcar - xukarcav  
+caña de azúcar - xukarcau  
 cañonear - daipaver  
-cañón (barranco, quebrada) - kanion  
+cañón (barranco, quebrada) - kanyon  
 cañón - daipau  
 cebolla - piaze  
 cebra - zebre  
@@ -826,7 +826,7 @@ cosa - xei
 coser - suta  
 cosmos - kosmia  
 costa - haitate  
-Costa de Marfil - Kote Da Ivuar  
+Costa de Marfil - Kote Da Ivar  
 Costa Rica - Kosta Rika  
 costar - kosta  
 costumbre (hábito) - ade  
@@ -1288,7 +1288,7 @@ explorar - brauza
 explosión (estallado) - bum  
 explotar (estallar) - bumu  
 exportar - eksomisa  
-exposición (espectáculo) - xov  
+exposición (espectáculo) - xou  
 expulsar (exceptuar, excepto) - eksa  
 exterior - ekse  
 exterior - eksi  
@@ -1421,7 +1421,7 @@ gaseoso - gasi
 gasificar - gasa  
 gasificarse - gasu  
 gasolina (bencina) - benzin  
-gato - mav  
+gato - mau  
 gato manchado (tigrillo) - bagroselote  
 gato tigre (maracayá) - margai  
 gay (homosexual) - geyi  
@@ -1501,7 +1501,7 @@ Guam - Guam
 guapo (bien parecido) - bonrupi  
 guarda (preservador, conservador) - hafizer  
 Guatemala - Guatemala  
-guau (vaya) - vav  
+guau (vaya) - vau  
 Guernesey - Gernezi  
 guiar - gida  
 Guinea - Konakri Ginia  
@@ -1539,7 +1539,7 @@ hafnio - hafnem
 Haití - Aiti  
 halo (aureola) - fotocirke  
 hamaca - hamake  
-hambre - yamyav  
+hambre - yamyau  
 hamo (anzuelo) - pexhuke  
 hasio - hesem  
 hasta (también) - hato  
@@ -1710,7 +1710,7 @@ invitado (visita) - keger
 invitar - pliza laya  
 inyección - jux  
 inyectar - juxa  
-ion - ion  
+ion - iyon  
 ir - kitu  
 ir a (en el futuro) - vilo  
 ira (furia) - furia  
@@ -1822,7 +1822,7 @@ lago - lage
 lama - lama\*  
 lantano - lantanem  
 lanzamisiles - roketolancer  
-Laos - Lav  
+Laos - Lau  
 laosiano - lavi  
 lapislázuli - lazurpetre  
 largo (longitud) - longia  
@@ -1946,7 +1946,7 @@ líquido (fluido) - darmati
 líquido - darmate  
 lógica - logike  
 ####M - M  
-Macao - Makav  
+Macao - Makau  
 Macedonia del Norte - Nordi Makedonia  
 macrial (militar) - jengi  
 macroalga - hayalge  
@@ -1966,7 +1966,7 @@ magnesio - magesem
 magnético - mageti  
 mago - mager  
 malaria (paludismo) - malaria  
-Malasia - Malaysia  
+Malasia - Malaisia  
 Malaui - Malavi  
 malayali (malabar, malayalam) - malayali  
 malayo - malayi  
@@ -2058,7 +2058,7 @@ medio - media
 medioambiente (naturaleza) - ekia  
 medir (tomar las medidas) - metra  
 meditar (reflexionar) - medita  
-Mediterráneo - Geumedi Hay  
+Mediterráneo - Geumedi Hai  
 medusa - haijel  
 megavatio - megavate  
 meitnerio - maitnerem  
@@ -2131,7 +2131,7 @@ moda (tendencia) - faxon
 modelar - model  
 modelo (similitud, simulación) - samsifia  
 modelo - modela  
-moderno - novyangi  
+moderno - nouyangi  
 modo (manera, forma) - mode  
 modo nocturno - nocomode  
 mojado - xipi  
@@ -2162,7 +2162,7 @@ Montenegro - Cernagora
 monumento - membin  
 monóculo - unoki lense  
 monólogo - autologe  
-morado (púrpura) - violeti  
+morado (púrpura) - viyoleti  
 moral (ético) - darmi  
 moralidad (ética) - darme  
 morder - danta  
@@ -2243,7 +2243,7 @@ Nazi - naziste
 nazismo - nazistia  
 Naúru - Nauru  
 necesario - yavan  
-necesidad - yav  
+necesidad - yau  
 necesitado - yavi  
 necesitar - yavu  
 nefritis - nefritis  
@@ -2299,7 +2299,7 @@ notar (observar) - nota
 notar el sabor - gusta  
 noticias - habar  
 novato - novike  
-novedad - nov  
+novedad - nou  
 nube - mege  
 nudismo - nudistia  
 nudista - nudiste  
@@ -2409,7 +2409,7 @@ palabra (vocablo) - loge
 palacio (mansión) - daidom  
 paladio - paladem  
 palanca - tirbaton  
-Palaos - Palav  
+Palaos - Palau  
 Palestina - Filistin  
 palmera - palme  
 palpar (tocar) - senta  
@@ -2566,7 +2566,7 @@ piedra - xeke
 piedra preciosa (joya, gema) - bauxeke  
 piel - pil  
 pila (batería) - batre  
-pilaf (pulaw) - polav  
+pilaf (pulaw) - polau  
 piloto - piloter  
 pimienta - pipre  
 pimpollo - jovani moke  
@@ -2582,7 +2582,7 @@ pirámide - piram
 pis (meados) - pix  
 piscina (alberca, lavadero) - basen  
 piso (suelo) - kamartal  
-pistola (rifle) - pav  
+pistola (rifle) - pau  
 pistola - pistol  
 pizza - pize  
 pizzería - pizeria  
@@ -2663,7 +2663,7 @@ pregunta - eske
 preguntar (inquirir) - eska  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
-presente - zay  
+presente - zai  
 presidente - prezidente  
 presión atmosférica - airbaria  
 prestar (pedir prestado) - jeka  
@@ -2774,8 +2774,8 @@ racismo - rasistia
 racista - rasiste  
 ración (dosis) - doze  
 radiación - radia  
-radiación ionizante - ioni radia  
-radiactivo - ioni radi  
+radiación ionizante - iyoni radia  
+radiactivo - iyoni radi  
 radiar (emitir) - rada  
 radio - radem  
 radiotransmisor - radi miser  
@@ -2912,7 +2912,7 @@ roto - parci
 rotor - roter  
 Ruanda - Rvanda  
 rubidio - rubidem  
-rubí - lalbavxeke  
+rubí - lalbauxeke  
 rueda (volante) - cakre  
 ruido - kelel  
 ruiseñor - bulbul  
@@ -2932,7 +2932,7 @@ rígido (sólido) - gatomati
 sabana - savan  
 sabbat - sabate  
 saber (conocer) - sava  
-sabiduría (conocimiento) - sav  
+sabiduría (conocimiento) - sau  
 sabiduría - sofia  
 sabio - sofi  
 sabroso (umami) - umami  
@@ -3358,7 +3358,7 @@ ustedes - tote
 usuario - uzer  
 utilizable (disponible) - uzabli  
 utuo (recíproco) - unali  
-uva - putav  
+uva - putau  
 Uzbekistán - Uzbekia  
 uña - nahun  
 vaca (toro) - muh  
@@ -3425,7 +3425,7 @@ vidriado (esmalte) - kancodake
 vidriar (glasear) - kancodaka  
 vidrio (cristal) - kance  
 vidrio volcánico - hogoxani kance  
-viejo (anciano) - lav  
+viejo (anciano) - lau  
 viejo (anciano) - lavi  
 viejo (antiguo) - ceniki  
 viento - hau  
@@ -3445,7 +3445,7 @@ visado - vize
 visitar - kega  
 visitar - kege  
 vista (visión) - vide  
-viudo - vidov  
+viudo - vidou  
 vivir (residir) - doma  
 vivo (lleno de vida) - jivi  
 vocabulario (léxico) - logia  
@@ -3462,7 +3462,7 @@ vuelo - fei
 vuelta - retre  
 vulva - vulve  
 válvula (llave, canilla) - kran  
-vía férrea - trendav  
+vía férrea - trendau  
 ####W - W  
 Wallis y Futuna - Valis e Futuna nesia  
 ####X - X  
@@ -3473,10 +3473,10 @@ yac - yake
 Yemen - Yemen  
 Yibuti - Jibuti  
 yo - me  
-yodo (iodo) - iodem  
+yodo (iodo) - yodem  
 yoga - yoge  
 yogui - yogiste  
-yuca (mandioca) - manioke  
+yuca (mandioca) - manyoke  
 yudo - judau  
 yugo - yoke  
 yunque - metalbede  

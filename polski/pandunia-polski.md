@@ -1045,7 +1045,7 @@ geugunia - wosko lądowe (armia)
 geukaski krake - uskok  
 geukaski plate - płyta tektoniczna  
 geulojia - geologia  
-Geumedi Hay - Morze Śródziemne  
+Geumedi Hai - Morze Śródziemne  
 geunici - podziemny  
 geunici prizon - loch  
 geuparlinye - równik  
@@ -1271,14 +1271,14 @@ yam - jedzenie, posiłek
 yama - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 yami - pyszny  
 yamfite - warzywo  
-yamyav - głód  
+yamyau - głód  
 yamkamar - jadalnia  
-yamxukarcav - cukrowiec jadalny  
+yamxukarcau - cukrowiec jadalny  
 yang - rodzaj, typ, styl  
 yasen - jesion  
 yatim - sierota  
 yatimdom - sierociniec, dom dziecka  
-yav - potrzeba  
+yau - potrzeba  
 yavu - potrzebować  
 yavan - potrzebny  
 yauxina - ufać (wierzyć, liczyć, polegać)  
@@ -1300,6 +1300,9 @@ Yemen - Jemen
 Yesus - Jezus  
 yeze - kokos  
 ifrite - ifrit  
+iyon - jon  
+iyoni radi - radioaktywny  
+iyoni radia - radioaktywność  
 iki - -owy (-ny, okazujący cechę)  
 impera - władać, panować, rządzić jako imperator  
 imperia - imperium  
@@ -1332,16 +1335,13 @@ internete - internet
 interes - zainteresowanie, zaciekawienie; interesujący  
 interesi - interesujący  
 inxala - nadzieja, życzenie  
-iodem - jod; jodyna  
+yodem - jod; jodyna  
 yoga - uprawiać jogę  
 yoge - joga  
 yogiste - jogin (joginka)  
 yohani feste - dzień świętego Jana  
 yoke - jarzmo  
 yomsete - tydzień  
-ion - jon  
-ioni radi - radioaktywny  
-ioni radia - radioaktywność  
 yongu - topnieć (upłynniać się)  
 yongopetre - lawa  
 yongosaha - topić (upłynnić, upłynniać)  
@@ -1493,7 +1493,7 @@ kayu - otworzyć się, otwierać się
 Kaiman nesia - Kajmany  
 kaka - defekować, srać  
 kake - ekskrement, gówno  
-kakav - kakao  
+kakau - kakao  
 kal - pustka  
 kali - pusty  
 kali harfe - spacja  
@@ -1511,7 +1511,7 @@ kalsomate - wapno
 kalsopetre - wapień  
 kamia - pożądanie, żadza  
 kamar - pokój, sala  
-kamargav - sufit  
+kamargau - sufit  
 kamartal - podłoga  
 Kambojia - Kambodża  
 Kamerun - Kamerun  
@@ -1535,7 +1535,7 @@ kande - cukierek, słodycze
 kandel - kandela  
 kang - grzebień  
 kangaru\* - kangur  
-kanion - kanion  
+kanyon - kanion  
 kanjar - sztylet (puginał)  
 kankuate - kumkwat  
 kano\* - kanoe  
@@ -1556,7 +1556,7 @@ karxuler - praktykant
 Karaibia - Karaiby  
 karaoke - karaoke  
 karate\* - karate  
-karav - kminek  
+karau - kminek  
 karbe - węgiel  
 karbodulokside - dwutlenek węgla  
 karcof - karczoch zwyczajny  
@@ -1663,7 +1663,7 @@ klube - klub
 kobalte - kobalt  
 koda - kodować  
 kode - kod, szyfr  
-koi - jakiś  
+koi (koyi) - jakiś  
 koi jan - ktoś  
 koi sate - sometime  
 koi xei - coś  
@@ -1731,7 +1731,7 @@ koste - koszt, cena
 kosti - kosztowny (drogi)  
 Kosta Rika - Kostaryka  
 kote - płaszcz  
-Kote Da Ivuar - Wybrzeże Kości Słowniowej  
+Kote Da Ivar - Wybrzeże Kości Słowniowej  
 krabe - krab  
 krake - pęknięcie  
 kran - kran (zawór)  
@@ -1806,7 +1806,7 @@ laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdża�
 laje - śmieć, odpadek  
 lake - lakier  
 lali - czerwony  
-lalbavxeke - rubin  
+lalbauxeke - rubin  
 lalolince - ryś rudy  
 laloranje - mandarynka  
 lalsalmon - nerka (łosoś czerwony)  
@@ -1834,8 +1834,8 @@ latojan - towarzysz (partner, kumpel)
 latini harfia - alfabet łaciński, łacinka, alfabet rzymski  
 latinkitaba - zromanizować  
 Latvia - Łotwa  
-lav - starzec  
-Lav - Laos  
+lau - starzec  
+Lau - Laos  
 lavi - stary (sędziwy, wiekowy)  
 lavi - laotański  
 laumam - babcia (babka)  
@@ -1981,7 +1981,7 @@ makal - artykuł, tekst
 makan - masło  
 makanful - mlecz  
 makas - nożyce, nożyczki  
-Makav - Makau  
+Makau - Makau  
 mal (mali) - zły  
 mal zar - zły los  
 maldarja - dezaktualizować (pogorszyć)  
@@ -1991,7 +1991,7 @@ malagasi - madagaskarski; malagaski
 Malagasia - Madagaskar  
 malayi - malajski  
 malayali - malajski  
-Malaysia - Malezja  
+Malaisia - Malezja  
 malaria - malaria  
 Malavi - Malawi  
 Mali - Mali  
@@ -2013,7 +2013,7 @@ mangus - mangostan
 Manihai - prorok Mani  
 manihayistia - manicheizm  
 Manin nes - Wyspa Man  
-manioke - maniok  
+manyoke - maniok  
 manir - zachowanie (maniery, kultura)  
 manira - zachowywać się (działać)  
 manse - mięso  
@@ -2048,7 +2048,7 @@ matur - osoba dorosła
 maturi - dorosły, dojrzały  
 maturi fem - kobieta, dorosła samica  
 maturi man - mężczyzna, dorosły samiec  
-mav - kot  
+mau - kot  
 max (maxo) - bardzie  
 max ka bas - zbyt  
 maxi - dodatkowy  
@@ -2360,7 +2360,7 @@ note - uwaga, obserwacja
 notana - powiadomić, powiadamiać  
 notite - wiadomość, zawiadomienie, powiadomienie  
 notobuke - notatnik  
-nov - nowość  
+nou - nowość  
 nova - odnowić, odnawiać, uczynić nowym  
 novi - nowy  
 Novi Yorke - Nowy Jork  
@@ -2368,7 +2368,7 @@ Novi Yorke site - Stan Nowy Jork
 Novi Kaledonia - Nowa Kaledonia  
 Novi Zelandia - Nowa Zelandia  
 novo - właśnie, dopiero co, ostatnio, niedawno  
-novyangi - nowoczesne  
+nouyangi - nowoczesne  
 novike - nowicjusz (nowa osoba)  
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
@@ -2446,7 +2446,7 @@ Pakistan - Pakistan
 pakse - ptak  
 pal - owoc  
 paladem - pallad  
-Palav - Palau  
+Palau - Palau  
 palme - palma, drzewo palmowe  
 pan (pani) - wszyscy, wszystkie, wszystko; każdy  
 pan jan - każdy człowiek, wszyscy  
@@ -2516,7 +2516,7 @@ patike - pacjent
 patojener - patogen  
 patolojia - patologia  
 patate - ziemniak  
-pav - pistolet, strzelba, ręczna broń palna  
+pau - pistolet, strzelba, ręczna broń palna  
 pava - strzelać (strzelić)  
 paunde - funt (£)  
 pauza - przerwać, przerywać  
@@ -2620,7 +2620,7 @@ polmaria - częstotliwość
 polmaro - często  
 polmeni - wieloznaczny  
 polnasi - wielonarodowy  
-polav - pilaw  
+polau - pilaw  
 polis - policja  
 poliser - oficer policji, policjant  
 politike - polityka  
@@ -2690,7 +2690,7 @@ purboni - perfekcyjny
 purfityamiste - weganin (weganka)  
 purxipa - namoczyć (marynować)  
 pute - dziecko, potomek  
-putav - winogrono  
+putau - winogrono  
 putavoranje - grejpfrut  
 Putong Cini - mandaryński chiński, Putonghua  
 putongi - powszechny, uniwersalny  
@@ -2924,7 +2924,7 @@ sarkaske - hełm
 saroste - czaszka  
 sate - moment  
 Saturne - Saturn  
-sav - wiedza  
+sau - wiedza  
 sava - wiedzieć  
 savi - wiadomy, znany  
 saulojia - epistemologia  
@@ -3248,7 +3248,7 @@ transogoni - przekątny
 trata - zgodzić się (umówić się)  
 trate - porozumienie  
 tren - pociąg  
-trendav - kolej  
+trendau - kolej  
 trenkaper - porywacz pociągu  
 tribe - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
@@ -3301,7 +3301,7 @@ varkalge - listownicowiec
 varkolate - strona  
 vate - wat  
 Vatikan - Watykan, Państwo Watykańskie  
-vav - wow!, łoł!, jej!  
+vau - wow!, łoł!, jej!  
 vaxa - prać, umyć, myć  
 vaxmaxin - pralka  
 vaxurse - szop pracz  
@@ -3314,7 +3314,7 @@ vendoxopa - handlować
 vendoxope - handel  
 vendoxoper - handlarz (kupiec)  
 Venezuela - Wenezuela  
-Venjov - Wenzhou  
+Venjou - Wenzhou  
 venjovoranje - mandarynka Satsuma (pomarańcza Satsuma)  
 ventur - przygoda  
 venturer - poszukiwacz przygód (awanturnik)  
@@ -3335,9 +3335,10 @@ vidu - być widzianym
 vider - obserwator (widz)  
 vidomaidan - pole widzenia  
 vidopunte - perspektywa (punkt widzenia)  
-vidov - wdowa  
+vidou - wdowa  
 vieti - wietnamski  
 Vietia - Wietnam  
+viyoleti - fioletowy  
 vijin - glutaminian sodu  
 vike - artykuł wiki  
 vil - przyszłość  
@@ -3349,7 +3350,6 @@ vin - wino
 vinkan - winiarnia  
 ving - skrzydło  
 vinil - winyl  
-violeti - fioletowy  
 vir - bohater, heros  
 viri - bohaterski, heroiczny, odważny, brawurowy  
 Virjin nesia - Wyspy Dziewicze USA  
@@ -3456,7 +3456,7 @@ xenga - zwyciężyć, wygrać
 xenon - ksenon  
 xense - mistrz (sensei)  
 xibai - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
-xibay - przegrana (strata, porażka)  
+xibai - przegrana (strata, porażka)  
 xibaya - przegrać, przegrywać  
 xibaya tena - stracić (utracić, tracić, zgubuć, gubić)  
 xibayer - przegrany, pokonany  
@@ -3483,13 +3483,13 @@ xoke - szokwstrząs; kolizja
 xopa - kupić  
 xope - zakupy (sprawunki, shopping)  
 xoper - nabywca (kupiec)  
-xov - pokaz, ekspozycja, wystawa  
+xou - pokaz, ekspozycja, wystawa  
 xova - pokazać, pokazywać, wystawić, wystawiać  
 xudu - powinien  
 xukar - cukier  
 xukari - słodki  
 xukarbete - burak cukrowy  
-xukarcav - trzcina cukrowa  
+xukarcau - trzcina cukrowa  
 xukaroranje - pomarańcza słodka (pomarańcza chińska)  
 xul - lekcja  
 xula - nauczyć się, uczyć się, studiować  
@@ -3507,7 +3507,7 @@ xuxa - uciszyć (uciszać)
 xuxi - cichy  
 xuxo - ćsi  
 ####Z - Z  
-zay - teraźniejszość, współczesność (teraz)  
+zai - teraźniejszość, współczesność (teraz)  
 zaya - wzywać (wezwać, dodawać, dodać)  
 zayi - obecny, teraźniejszy, aktualny, bieżący, współczesny  
 zayia - teraźniejszość, współczesność  

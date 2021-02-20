@@ -757,7 +757,7 @@ ye - jes
 yala - rapidigi  
 yama - manĝi (trinki)  
 yamfite - legomo  
-yamyav - malsato  
+yamyau - malsato  
 yamkamar - manĝoĉambro  
 yang - speco (tipo, stilo)  
 yavu - bezoni  
@@ -767,6 +767,7 @@ idei - ideo
 Yemen - Jemeno  
 Yesus - Jesuo  
 yeze - kokoso  
+iyon - iono  
 inde - eno  
 indi - ena  
 Indonesia - Indonezio  
@@ -779,12 +780,11 @@ insaniki - humana
 insanistia - homismo  
 interesi - interesa  
 inxala - esperi  
-iodem - jodo  
+yodem - jodo  
 yoge - jogo  
 yoke - jugo  
 yom - tago (periodo de 24 horoj)  
 yomsete - semajno  
-ion - iono  
 Irakia - Irakio  
 Iran - Iranio  
 iridem - iridio  
@@ -869,7 +869,7 @@ kaya - malfermi
 kayi - malferma  
 kayu - malfermiĝi  
 kake - feko  
-kakav - kakao  
+kakau - kakao  
 kali - malplena  
 kalem - kalio  
 kalam - plumo  
@@ -902,7 +902,7 @@ karkan - laborejo
 karloge - verbo  
 Karaibia - Karibio  
 karate\* - karateo  
-karav - karvio  
+karau - karvio  
 karbe - karbono  
 karbodulokside - karbona dioksido  
 karde - karto  
@@ -954,7 +954,7 @@ klorem - kloro
 klube - klubo  
 kobalte - kobalto  
 kode - kodo  
-koi - iu  
+koi (koyi) - iu  
 koi jan - iu persono  
 koi sate - iam  
 koi xei - io  
@@ -1021,7 +1021,7 @@ laya - veni
 layana - alporti (venigi)  
 laje - rubo  
 lali - ruĝa  
-lalbavxeke - rubeno  
+lalbauxeke - rubeno  
 laloranje - mandarino  
 lampe - lampo  
 lanca - ĵeti (lanĉi)  
@@ -1111,7 +1111,7 @@ matur - plenaĝa
 maturi - matura (plenkreska)  
 maturi fem - virino  
 maturi man - viro  
-mav - kato  
+mau - kato  
 max (maxo) - pli  
 max ka bas - tro  
 maxo - ankaŭ  
@@ -1317,7 +1317,7 @@ pati - malsana
 patike - paciento  
 patolojia - patologio  
 patate - terpomo  
-pav - fusilo  
+pau - fusilo  
 pede - furzo  
 pedal - pedalo  
 peikar - metiero  
@@ -1390,7 +1390,7 @@ puri - plena
 puro - plene  
 purfina - kompleti  
 pute - ido (infano)  
-putav - vinbero  
+putau - vinbero  
 Putong Cini - mandarinĉina  
 putongi - generala (universala)  
 ####Q - Q  
@@ -1502,7 +1502,7 @@ sapate - ŝuo
 sapater - ŝuisto  
 sapatokan - ŝuistejo  
 sarkaske - kasko  
-sav - scio  
+sau - scio  
 sava - scii (koni)  
 saulojia - sciteorio (epistemologio)  
 saudar - frato aŭ fratino  
@@ -1637,7 +1637,7 @@ torem - torio
 torse - torso  
 tova - treni  
 tren - trajno (vagonaro)  
-trendav - fervojo  
+trendau - fervojo  
 tribe - tribo  
 tube - tubo  
 tuha - sputi  
@@ -1662,7 +1662,7 @@ vana - amuzi
 vani - amuza  
 varkolate - paĝo  
 vate - vato  
-vav - ŭaŭ!  
+vau - ŭaŭ!  
 vaxa - lavi  
 vaxmaxin - lavmaŝino  
 vaze - vazo  
@@ -1674,7 +1674,7 @@ vermute - vermuto
 version - versio (toisinto)  
 vespe - abelo aŭ vespo  
 vida - vidi (rigardi)  
-vidov - vidvo  
+vidou - vidvo  
 vike - vikia artikulo  
 vil - estonoteco  
 vilo - estonte  
@@ -1741,7 +1741,7 @@ xofa - konduki
 xofer - ŝoforo (kondukisto)  
 xopa - aĉeti  
 xoper - aĉetanto (aĉetisto)  
-xov - montri (ekspozicii)  
+xou - montri (ekspozicii)  
 xudu - devus  
 xukar - sukero  
 xul - leciono  
@@ -1757,7 +1757,7 @@ xuru - komenciĝi
 xuxa - silentigi  
 xuxi - silenta  
 ####Z - Z  
-zay - nuno  
+zai - nuno  
 zayi - ĉeestanta (nuna, ekzistanta)  
 zayia - ĉeestanteco (ekzisto)  
 zaideno - hodiaŭ  
