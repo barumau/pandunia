@@ -262,6 +262,11 @@ fata_liste 10 rusi
 # fransi e pandunia
 fata_liste 7 fransi
 
+#Tiddly fransi e pandunia
+cp fransi/pandunia-fransi.md temp/temp.txt
+sed 's/_//g' -i temp/temp.txt
+cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > fransi/tiddly.html
+
 # espani e pandunia
 fata_liste 8 espani
 
