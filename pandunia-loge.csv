@@ -682,6 +682,7 @@ deu.ist:e|deviste||||theist||teísta||||||||||||||teisti|teistyczny
 deu.ist:ia|devistia||||theism||teísmo||||||||||||||teismi (jumalusko)|teizm
 deu.krat:ia|deukratia||||theocracy||teocracia|||||||||||||teokratio|teokratia|teokracja
 deu.loj:ia|deulojia||||theology||teología|||||||||||||teologio|teologia|teologia
+deu.nagr:i harf:e|deunagri harfe||||Devanagari alphabet|dévanagari|devanágari|devanágari|деванагари||天城文|デーヴァナーガリー|데바나가리||देवनागरी|দেবনাগরী|||||devanagari|dewanagari
 deu.sag:e|deusage||||myth (divine story)||mito (cuento divino)|||||||||||||mito|jumaltaru (myytti)|mit, boska opowieść
 deu.sof:ia|deusofia||||theosophy|théosophie|teosofía|teosofia|теософия||||신지학||थियोसोफी||||||teosofia|teozofia
 dex:|dex|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)||país (nación, estado, terra)||||||||देश|দেশ||||lando|maa (valtio)|kraj, ziemia
@@ -778,6 +779,8 @@ dus.deu.ist:ia|dusdevistia||||dystheism (maltheism)||||||||||||||||dysteismi (us
 dus.hal:|dushal||||hardship (difficulty, challenge)||dificultad (apuro, privación)||||||||||||||vaikeus (hankaluus)|trudność (trud)
 dus.jan:|dusjan||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
 dus.kar:|duskar||||misdeed (sin, vice)|méfait (péché)|pecado|malfeitoria (pecado)||||悪事|||||||||synti (paha teko)|
+dus.nam:|dusnam||||insult (offense)||insulto (ofensa)||||||||||||||loukkaus (herja)|obraza (obelga)
+dus.nam.an:a|dusnamana||||insult (offend, call names)||insultar (ofender)||||||||||||||solvata (loukata)|obrazić
 dus.top:ia|dustopia||||dystopia||||||||||||||||dystopia|
 dus.vid:i|dusvidi||||ugly (unsightly)|laid (vilain)|feo|feio|безобразный (некрасивый)|قَبِيح|难看|見苦しい|추악하다|xấu xí|बदसूरत|বিশ্রী|hodoh||çirkin|malbonaspekta|ruma (pahannäköinen)|brzydki
 dut:e|dute|||fra:doute, eng:doubt, spa:tgl:duda|doubt (disbelief)||duda|||||||||||||dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
@@ -1411,20 +1414,17 @@ imper:ia|imperia|||eng:empire, spa:imperio, por:império, rus:империя (im
 imper.er:|imperer||||emperor||emperador||||||||||||||keisari|imperator
 imper.ist:e|imperiste||||imperialist||imperialista||||||||||||||imperialisti|imperialista
 imper.ist:ia|imperistia||||imperialism||imperialismo||||||||||||||imperialismi|imperializm
+in:|in|||eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 in:a|inda||||contain (include)||contener|||||||||||||||zawierać
 in:i|indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
-in.jen:i|indojeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
+in.jen:i|injeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 in.migr:a|inmigra||||immigrate (move in)|immigrer|inmigrar|imigrar|иммигрировать||移民 (移居)|移住する (移民する)||nhập cư|||||||muuttaa maahan|
 in.migr.an:|inmigran||||immigrant|immigrant|inmigrante|imigrante|иммигрант||移民者|移民 (移住者)||dân nhập cư|||||||maahanmuuttaja|
-in.mis:a|indomisa||||import||importar|||||||||||||||importować (zaimportować)
-in.nam:|indonam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
-in.pux:a|indo puxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
-in.sid:a|indosida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
-ind:e|inde|||eng:in, zho:内 (nèi), hin:अंदर (andar), kor:안 (an), ell:εντός (entós), spa:por:dentro|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
+in.mis:a|inmisa||||import||importar|||||||||||||||importować (zaimportować)
+in.nam:|innam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
+in.pux:a|inpuxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
+in.sid:a|insida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
 Indones:ia|Indonesia|dex|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
-infeks:e|infekse|||ita:infezione, eng:infection, por:infecção, tur:enfeksiyon, rus:инфекция (infektsiya)|infection (infestation)||infección|infecção|||||||||||enfeksiyon|infekto|infektio (tartunta)|infekcja (zakażenie)
-inform:a|informa|||eng:inform, spa:por:informar, fra:informer, deu:informieren, rus:информировать (informirovat’)|inform (communicate)||informar (comunicar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
-inform:e|informe||||information||información|||||||||||||informacio|tieto (info)|informacja
 injen.er:|injener|||eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia)|engineer||ingeniero||||||||||||||insinööri|inżynier
 insan:|insan|biu|Homo Sapiens|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|human being|être humain|ser humano|ser humano|человек|إِنْسَان|人类|人間|인류||मनुष्य (इंसान)|মানুষ|manusia|binadamu|insan|homo|ihminen|człowiek, istota ludzka
 insan:i hak:e|insani hake||||human rights|droits de l'homme|derechos humanos|direitos humanos|права человека||人权|人権|인권|nhân quyền|मानव अधिकार||hak asasi manusia|haki za kibinadamu|insan hakları|homaj rajtoj|ihmisoikeudet|prawa człowieka
@@ -1433,8 +1433,6 @@ insan.ik:i|insaniki||||humane|humain|humano|humano|человечный|||||||||
 insan.ist:e|insaniste||||humanist||humanista||||||||||||||humanisti|humanista
 insan.ist:i|insanisti||||humanistic||humanístico||||||||||||||humanistinen|humanistyczny
 insan.ist:ia|insanistia||||humanism|humanisme|humanismo|humanismo|гуманизм|إِنْسَانِيَّة|人文主义|ヒューマニズム (人文主義)|인문주의|nhân văn chủ nghỉa|मानवतावाद||humanisme||hümanizm|homismo|humanismi|humanizm
-insult:a|insulta|||eng:insult, fra:insulter, spa:por:insultar|insult (offend)||insultar (ofender)||||||||||||||solvata (loukata)|obrazić
-insult:e|insulte||||insult (offense)||insulto (ofensa)||||||||||||||loukkaus (herja)|obraza (obelga)
 inter.net:e|internete||||internet||Internet||||||||||||||internet|internet
 interes:|interes|||eng:interest, spa:interés, por:interesse, fra:intérêt, deu:Interesse, rus:интере́с (interes)|interest||interés||||||||||||||kiinnostus (mielenkiinto)|zainteresowanie, zaciekawienie; interesujący
 interes:i|interesi||||interesting||interesante|||||||||||||interesa||interesujący
@@ -1829,6 +1827,8 @@ kon.form:u|konformu||||conform (fit, mold)||amoldarse||применяться (�
 kon.func.abl:i|konfuncabli||||compatible (supported)||compatible|||||||||||||||kompatybilny (pasujący)
 kon.kar:a|konkara||||collaborate (work together)|collaborer|colaborar|colaborar|сотрудничать (кооперировать)||合作|共同して働|공동으로 일하다||||kerjasama|||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
 kon.pax:ia|konpaxia||||compassion||compasión||жалость (сердобольность)|||同情||||||||||
+kon.sau:|konsau||||information (communicable knowledge)||información|||||||||||||informacio|tieto|informacja
+kon.sau.an:a|konsavana||||communicate (inform about)||comunicar (informar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 kon.sel:a|konsela||||give consultation||||||||||||||||konsultoida (antaa neuvoja)|
 kon.sel.er:|konseler||||counselor (consultant)|consultant (conseiller)|consultor|consultor|консультант (советник)||顾问|顧問|||||||||konsultti|
 kon.ten:a|kontena||||contain (hold together)||||||||||||||||pitää yhdessä|
@@ -2417,8 +2417,8 @@ najis:a|najisa||||corrupt (pollute, soil, defile, stain, taint)||corromper (cont
 najis:i|najisi||||dirty (soiled, polluted, defiled, tainted, unclean, impure)||sucio (corrompido)|||||汚い|||प्रदूषित|||-chafu||||
 najis.bind:e|najisbinde||||stain (spot)||mancha|||||染み (汚点)||||||||||
 nam:|nam|||hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|name||nombre|||||名前||||||||nomo|nimi|imię, nazwa
-nam:u|namu||||be called (be named)||llamarse||||||||||||||olla nimeltään|być wezwanym, być wzywanym, być nazwanym, być nazywanym
-nam.it:a|namita||||call (name)||llamar (poner)||||||||||||||nimittää (kutsua)|nazwać, nazywać, wezwać, wzywać
+nam:a|nama||||be called (be named)||llamarse||||||||||||||olla nimeltään|być wezwanym, być wzywanym, być nazwanym, być nazywanym
+nam.an:a|namana||||call (name)||llamar (poner)||||||||||||||nimittää (kutsua)|nazwać, nazywać, wezwać, wzywać
 nam.kitab:a|namkitaba||||sign (autograph)|signer|firmar|assinar|подписать||签署|署名する (サイン)||||||||||podpis (autograf)
 nam.log:e|namloge|||zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|noun||sustantivo|||||||||||||substantivo|substantiivi (nimisana)|rzeczownik
 Namib:ia|Namibia|dex|NA||Namibia||Namibia|||||||||||||Namibio|Namibia|Namibia
@@ -2691,6 +2691,8 @@ pat:ia|patia|||deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pat
 pat.ik:e|patike||||patient (subject of medical treatment)|patient|paciente|paciente|пациент (больной)|مَرِيض‎|患者 (病患)|患者|환자|bệnh nhân|रोगी (मरीज़)||pesakit|||paciento|potilas|pacjent
 pat.o.jen.er:|patojener||||pathogen|agent pathogène|patógeno|patógeno|патоген||病原体||||||||patojen||patogeeni|patogen
 pat.o.loj:ia|patolojia||||pathology|pathologie|patología|patologia|патология||病理学||||विकृतिविज्ञान||patologi||patoloji|patologio|patologia (tautioppi)|patologia
+pat.o.mis:|patomis||||infection (infestation, contagion)|infection (contagion)|infección (contagio)|infecção (contágio)|инфекция (заразная болезнь)||传染|伝染|감염||||||enfeksiyon|infekto|infektio (tartunta)|infekcja (zakażenie)
+pat.o.mis:a|patomisa||||infect|infecter|infectar (contagiar)|infectar (contagiar)||||||||||||||
 patat:e|patate|biv||fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|potato||papa|||||||||||||terpomo|peruna (potaatti)|ziemniak
 pau:|pau|||zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)|gun (firearm)|pistolet|pistola (rifle)|arma de fogo|пистолет||手枪|銃|총|súng lục (súng sáu)|बंदूक़ (पिस्तौल)|বন্দুক|pistol|bunduki|tabanca|fusilo|pyssy|pistolet, strzelba, ręczna broń palna
 pau:a|pava||||shoot (fire)||disparar||стрелять|||撃つ||||||||||strzelać (strzelić)
@@ -3433,6 +3435,7 @@ tir:a milk:e|tira milke||||milk (draw milk)|tirer|ordeñar||тянуть||拉|||
 tir:a pil:|tira pil||||strip (peel)|écorce|quitar (pelar)||ободрать||削 (刮去)|はがす (剥ぐ)||||||||||obrać (obierać)
 tir.baton:|tirbaton||||lever||palanca||рычаг||杆|レバー (てこ)||||||||||dźwignia
 tir.dar:|tirdar||||rip current||corriente de resaca||отбойное течение|||離岸流||||||||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
+tir.long:a|tirlonga||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
 tir.sanduk:e|tirsanduke||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuflada
 Titan:|Titan|planete 6 lune 6|||Titan|||||||||||||||||
 Titan:ia|Titania|planete 7 lune 4|||Titania|||||||||||||||||
@@ -3504,7 +3507,6 @@ uai.iam:|vaiyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野
 uai.jan:|vaijan||||outsider||||посторонний (аутсайдер)||外人 (局外人)|部外者 (アウトサイダー)|||||||||ulkopuolinen|
 uai.mis:a|vaimisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
 uai.nam:|vainam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
-uai.tir:a|vaitira||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
 uakil:|vakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||reprezentant (przedstawiciel)
 uakil:a|vakila||||represent||representar||||||||||||||edustaa|reprezentować
 uaksin:|vaksin|||eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|vaccine||vacuna||||||||||||||rokote|szczepionka
