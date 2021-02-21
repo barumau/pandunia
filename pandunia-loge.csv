@@ -795,15 +795,6 @@ ek.o.jen:i|ekojeni||||wild (savage)|sauvage|salvaje||дикий|||野生||||||||
 ek.o.loj:ia|ekolojia|||deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|ecology (study of environment)||ecología||||||||||||||ekologia (ympäristötiede)|ekologia (nauka o środowisku)
 ekor:|ekor|biv|Sciuridae|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|squirrel|écureuil|ardilla|esquilo|белка||松鼠|栗鼠|다람쥐||गिलहरी|কাঠবিড়াল|bajing (tupai)|kindi|sincap|sciuro|orava|wiewiórka
 ekran:|ekran|||fra:écran, por:ecrã, rus:экран (ekran), pol:tur:ekran, kat:ეკრანი (eḳrani)|screen||pantalla|||||||||||||ekrano|kuvaruutu|ekran
-eks:a|eksa||||oust (expel, exclude, except, save)||expulsar (exceptuar, excepto)||выгнать (исключить, кроме)|||追出 (退ける, 除いて)||||||||krom (escepti)|poistaa (paitsi, poislukien)|wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)
-eks:e|ekse||eng:spa:por:fra:ex-, rus:экс-, may:eks-, jpn:エクス (ekusu-)|outside (exterior)|extérieur|fuera (exterior)|exterior|вне||外|外|||बाहरी||luar (pinggir, tepi)|nje||dış|ekstero|ulkopuoli|zęwnętrzny
-eks:i|eksi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
-eks.iam:|eksyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
-eks.o.dex:|eksodex||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
-eks.o.dex:i|eksodexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
-eks.o.mis:a|eksomisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
-eks.o.nam:|eksonam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
-eks.o.tir:a|eksotira||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
 eksa:|eksa*|||eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)|exa-|||||||||||||||eksa-|eksa-|
 Ekuador:|Ekuador|dex|EC||Ecuador||Ecuador|||||||||||||Ekvadoro|Ecuador|Ekwador
 eletr:e|eletre|||por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|electricity|électricité|electricidad|eletricidade||||電気|||||||cereyan (elektrik)|elektro|sähkö|elektryczność
@@ -1420,14 +1411,16 @@ imper:ia|imperia|||eng:empire, spa:imperio, por:império, rus:империя (im
 imper.er:|imperer||||emperor||emperador||||||||||||||keisari|imperator
 imper.ist:e|imperiste||||imperialist||imperialista||||||||||||||imperialisti|imperialista
 imper.ist:ia|imperistia||||imperialism||imperialismo||||||||||||||imperialismi|imperializm
-ind:a|inda||||contain (include)||contener|||||||||||||||zawierać
+in:a|inda||||contain (include)||contener|||||||||||||||zawierać
+in:i|indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
+in.jen:i|indojeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
+in.migr:a|inmigra||||immigrate (move in)|immigrer|inmigrar|imigrar|иммигрировать||移民 (移居)|移住する (移民する)||nhập cư|||||||muuttaa maahan|
+in.migr.an:|inmigran||||immigrant|immigrant|inmigrante|imigrante|иммигрант||移民者|移民 (移住者)||dân nhập cư|||||||maahanmuuttaja|
+in.mis:a|indomisa||||import||importar|||||||||||||||importować (zaimportować)
+in.nam:|indonam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
+in.pux:a|indo puxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
+in.sid:a|indosida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
 ind:e|inde|||eng:in, zho:内 (nèi), hin:अंदर (andar), kor:안 (an), ell:εντός (entós), spa:por:dentro|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
-ind:i|indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
-ind:o pux:a|indo puxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
-ind.o.jen:i|indojeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
-ind.o.mis:a|indomisa||||import||importar|||||||||||||||importować (zaimportować)
-ind.o.nam:|indonam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
-ind.o.sid:a|indosida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
 Indones:ia|Indonesia|dex|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
 infeks:e|infekse|||ita:infezione, eng:infection, por:infecção, tur:enfeksiyon, rus:инфекция (infektsiya)|infection (infestation)||infección|infecção|||||||||||enfeksiyon|infekto|infektio (tartunta)|infekcja (zakażenie)
 inform:a|informa|||eng:inform, spa:por:informar, fra:informer, deu:informieren, rus:информировать (informirovat’)|inform (communicate)||informar (comunicar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
@@ -2938,7 +2931,7 @@ razon:u|razonu||||make sense||tener sentido|||||||||||||||mieć sens
 Rea:|Rea|planete 6 lune 5|||Rhea|||||||||||||||||
 rebel:|rebel|||eng:rebel, spa:por:rebelde fra:rebelle|rebellion||rebelión (sublevación)||||||||||||||kapina|rebelia, powstanie
 red:a|reda||||prepare (make ready)||preparar (hacer listo)||||||||||||||tehdä valmiiksi|przygotować, przygotowywać
-red:i|redi|||eng:ready, fra:prêt, mao:reri|ready||listo (preparado)|||||||||||||preta|valmis|gotowy
+red:i|redi|||eng:ready, deu:bereit, fra:prêt, mao:reri|ready (prepared)||listo (preparado)|||||||||||||preta|valmis|gotowy
 reg:e|rege|||fas:(rig), hin:रेग (reg), urd:(reg)|sand||arena|||||||||||||sablo|hiekka|piasek, piach
 reg.o.petr:e|regopetre||||sandstone|grès||||||砂岩||||||||||piaskowiec
 reg.o.top:ia|regotopia||||desert||desierto|||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
@@ -3502,6 +3495,16 @@ uad.o.susan:|vadosusan|biv|Convallaria majalis||lily of the valley||convalaria (
 uaf:|vaf|biv||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog|chien|perro|cão (cachorro)|собака|كَلْب‎|狗|犬 (狗)|개|chó|कुत्ता|কুকুর|anjing (asu)|mbwa|köpek|hundo|koira|pies
 uagin:|vagin|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 uagin.itis:|vaginitis||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
+uai:|vai||zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), vie:ngoại|outside (exterior)|extérieur|fuera (exterior)|exterior||вне||外|外|||बाहरी||luar (pinggir, tepi)|nje|dış|ekstero|ulkopuoli|zęwnętrzny
+uai:a|vaya||||oust (expel, exclude, except, save)||expulsar (exceptuar, excepto)||выгнать (исключить, кроме)|||追出 (退ける, 除いて)||||||||krom (escepti)|poistaa (paitsi, poislukien)|wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)
+uai:i|vayi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
+uai.dex:|vaidex||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
+uai.dex:i|vaidexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
+uai.iam:|vaiyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
+uai.jan:|vaijan||||outsider||||посторонний (аутсайдер)||外人 (局外人)|部外者 (アウトサイダー)|||||||||ulkopuolinen|
+uai.mis:a|vaimisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
+uai.nam:|vainam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
+uai.tir:a|vaitira||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
 uakil:|vakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||reprezentant (przedstawiciel)
 uakil:a|vakila||||represent||representar||||||||||||||edustaa|reprezentować
 uaksin:|vaksin|||eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|vaccine||vacuna||||||||||||||rokote|szczepionka
