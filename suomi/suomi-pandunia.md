@@ -912,7 +912,7 @@ kansainvälinen - nasmedi
 kansakunta - nasia  
 kansalainen (valtion asukas) - dexojan  
 kansallinen - nasi  
-kansallissosialismi - nasi socistia  
+kansallissosialismi - nasi sosistia  
 kansallisuusaate (nationalismi) - nasistia  
 kansanryhmien välinen - zukomedi  
 kansanryhmä (etninen ryhmä) - zuke  
@@ -935,7 +935,7 @@ kassanhoitaja - kaxer
 kassava (maniokki) - manyoke  
 kastanja - kastan  
 kaste - ros  
-kastike (soosi) - sos  
+kastike (soosi) - saus  
 kasvaa (suurentua) - dayu  
 kasvaa - rastu  
 kasvi - fite  
@@ -2452,11 +2452,11 @@ sentti - centi\*
 senttimetri (cm) - centimitre  
 seppä - metaljanger  
 Serbia - Serbia  
-seura - socia  
+seura - sosia  
 seuraava - badi  
 seurata (tulla perässä, tulla jäljessä) - bada  
 seuraus - bade  
-seurustella (toimia yhdessä) - soca  
+seurustella (toimia yhdessä) - sosa  
 seutu (maa) - tope  
 Seychellit - Sexel nesia  
 sianliha - gurubomanse  
@@ -2543,9 +2543,9 @@ sorakivi - lilxeke
 sormi tai varvas - ungle  
 sormus - ungloring  
 sorsa (ankka) - bate  
-sosiaalinen media - soci media  
-sosialismi - socistia  
-sosialisti - sociste  
+sosiaalinen media - sosi media  
+sosialismi - sosistia  
+sosialisti - sosiste  
 sotilaallinen - jengi  
 sotilas - gunjan  
 soturi (taistelija) - jenger  
@@ -2563,7 +2563,7 @@ Sudan - Sudan
 sudenkorento - libel  
 suhde (yhteys) - guanxe  
 suihku - dux  
-sukka - soke  
+sukka - maze  
 suklaa - cokolate  
 suklaapatukka - cokolatobaton  
 sukunimi - familnam  
@@ -2589,9 +2589,9 @@ suoraan - dixo
 suorakulma (oikokulma) - ortogon  
 suorakulmainen - ortogoni  
 suoristaa (ojentaa) - orta  
-suosia - favora  
-suosikki (suosittu) - favori  
-suosinta (favoritismi) - favoristia  
+suosia (pitää parempana) - maxfila  
+suosikki (suosittu) - maxfili  
+suosinta (favoritismi) - maxfilistia  
 suosittu (trendikäs) - faxoni  
 surettaa - duka  
 Surinam - Surinam  
@@ -3089,7 +3089,7 @@ viedä pois (viedä maasta) - eksomisa
 vielä (yhä, jatkuvasti) - zoko  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - keger  
-vieras (tuntematon) - anjani  
+vieras (tuntematon) - ansavi  
 viesti - anjil  
 viestintuoja (airut) - anjiler  
 Vietnam - Vietia  
@@ -3215,7 +3215,7 @@ yhdysvaltalainen (ns. Amerikkalainen) - UDA du
 yhteinen - komuni  
 yhteinen - koni  
 yhteiskieli - konbax  
-yhteiskunnallinen (sosiaalinen) - soci  
+yhteiskunnallinen (sosiaalinen) - sosi  
 yhteisymmärrys - samrayia  
 yhteisö (kokoontuminen, kollektiivi) - jamia  
 yhtenäinen - uniti  

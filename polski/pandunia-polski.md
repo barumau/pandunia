@@ -104,13 +104,13 @@ anyavi - niepotrzebny
 anici - niechętny  
 anjama - rozproszyć, rozpraszać  
 anjami - rzadki (rozrzedzony, rozproszony)  
-anjani - dziwny (nieznany)  
 ankaya - zamknąć (zamykać)  
 ankayi - zamknięty  
 anlimitia - nieskończoność  
 anmema - zapominać (zapomnieć)  
 anpace - niepokój  
 anromansi - aromantyczny  
+ansavi - dziwny (nieznany)  
 anseksi - aseksualny  
 ansora - otworzyć (otwierać, odkluczyć, odkluczać)  
 ansori - zamknięty na klucz (zakluczony)  
@@ -843,8 +843,6 @@ fater - twórca, kreator, czynnik
 fatokan - fabryka, manufaktura  
 fatigia - zmęczenie (wyczerpanie)  
 fatigu - męczyć się (nużyć się)  
-favora - preferować (woleć)  
-favori - ulubiony  
 fax - bandaż, taśma, wstążka  
 faxiste - faszysta  
 faxistia - faszyzm  
@@ -881,12 +879,12 @@ fikse - załącznik (przyrostek, afiks)
 fila - lubić  
 filia - zamiłowanie (-filia)  
 filer - miłośnik (fan, -fil)  
+filsofia - filozofia  
+filsofer - filozof  
 Filipinas - Filipiny  
 Filistin - Terytorium Palestyńskie  
 filme - film  
 filsofi - filozoficzny  
-filsofia - filozofia  
-filsofer - filozof  
 filter - filtr  
 fin - koniec  
 fina - skończyć, kończyć  
@@ -1387,7 +1385,7 @@ jamia - kolekcja, zbiór; zgromadzenie, zebranie
 Jamaika - Jamajka  
 jampa - skoczyć, skakać  
 jamul - czapetka kuminowa  
-jan - osoba; ludzie  
+jan - osoba  
 janel - okno  
 jangi - umiejętny (sprawny, zręczny)  
 janger - rzemieślnik  
@@ -2054,6 +2052,8 @@ max ka bas - zbyt
 maxi - dodatkowy  
 maxboni - dodatkowy  
 maxdarja - zwiększyć o jeden  
+maxfila - preferować (woleć)  
+maxfili - ulubiony  
 maxforta - wesprzeć (wzmocnić, zasilić)  
 maxforte - wsparcie (wzmocnienie, zasilenie)  
 maxim (maximo) - nabardziej, maksymalnie  
@@ -2063,6 +2063,7 @@ maximi - maksymalny
 maxin - maszyna  
 maxori - większościowy, wiodący, główny  
 maxoria - większość  
+maze - skarpeta, skarpetka, pończocha  
 meca - konkurować, rywalizować; odbyć mecz, odbywać mecz  
 mece - mecz, rywalizacja  
 mede - środek  
@@ -2264,7 +2265,7 @@ nanomitre - nanometr
 narake - piekło  
 nas - ludzie (lud, ludność)  
 nasi - narodowy (ludowy)  
-nasi socistia - narodowy socjalizm  
+nasi sosistia - narodowy socjalizm  
 nasia - naród, narodowość  
 nasiste - nacjonalista  
 nasistia - nacjonalizm  
@@ -2932,6 +2933,7 @@ savan - sawanna
 Saudi Arabia - Arabia Saudyjska  
 saudar - rodzeństwo, brat lub siostra  
 sauna\* - sauna  
+saus - sos  
 sekreter - sekretarz  
 sekreteria - sekretariat  
 seksa - kochać się, uprawiać seks  
@@ -3027,17 +3029,10 @@ sivilia - cywilizacja
 slavi - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
-soca - socjalizować się  
-soci - społeczny  
-soci jinse - płeć społeczna  
-soci media - media społecznościowe  
-socia - społeczeństwo, system społeczny  
-sociste - socjalista  
-socistia - socjalizm  
 sofi - mądry  
 sofia - mądrość  
 sofa\* - sofa (kanapa)  
-soke - skarpeta, skarpetka, pończocha  
+soka - szukać  
 sol - słońce  
 solcate - parasol  
 solcentaur - chaber wełnisty  
@@ -3057,10 +3052,15 @@ song - sosna
 sor - zamek (zapięcie)  
 sora - zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)  
 sori - zamknięty (zakluczony, zapięty, bezpieczny)  
-sos - sos  
+sosa - socjalizować się  
+sosi - społeczny  
+sosi jinse - płeć społeczna  
+sosi media - media społecznościowe  
+sosia - społeczeństwo, system społeczny  
+sosiste - socjalista  
+sosistia - socjalizm  
 sosis - kiełbasa  
 Soto - Lesotho  
-sova - szukać  
 suahili - suahili  
 Sualbarde - Swalbard  
 suani - kwaśny  

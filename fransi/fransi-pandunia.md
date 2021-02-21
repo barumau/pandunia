@@ -4,18 +4,23 @@ a (dans, en, chez) - va
 abattoir - bucokan  
 abattre - buca  
 abeille ou guêpe - vespe  
+Abkhazie - Apsni  
+aborigènes australiens - aslaustrali  
 abricot - barkoke  
 acacia faux-gommier - helisbabul  
 acarien - akar  
 accent - aksente  
+accessible (atteignable, à portée) - aksesabli  
 accomplir (terminer) - purfina  
 accord - samrayia  
 accès - akses  
+accéder (accéder à qqch., entrer, entrer dans qqch, pénétrer, atteindre) - aksesa  
 acheter - xopa  
 acte - ate  
 actif - ativi  
 actinium - acinem  
 action - ation  
+activer (allumer, mettre en marche, déclencher) - ativa  
 adhésif (collant) - gluti  
 adjectif - sifloge  
 adresse - adres  
@@ -30,11 +35,13 @@ agent (faiseur) - ater
 agent pathogène - patojener  
 agile - ajili  
 agresseur - agreser  
+agressif - agresivi  
 agression (attaque) - agres  
 ail - lasun  
 aimer - ama  
 air - air  
 aire (superficie) - ar  
+Alaska - Alaska  
 alcool - alkol  
 alcoolique - alkoli  
 algue - alge  
@@ -47,7 +54,9 @@ alligator - kortokrokodil
 allophone - alfon  
 allô - halo\*  
 alphabet - harfia  
+alumine (oxyde d'aluminium) - aluminokside  
 aluminium - aluminem  
+alun - aluminmate  
 amande - badam  
 amateur - amater  
 amer - alkalgusti  
@@ -58,12 +67,15 @@ amoureux - amer
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - ameriki  
+américium - amerikem  
 amérindien (indien) - aslameriki  
 Amérique - Amerike  
+anal - anusi  
 analyse - analize  
 analyser - analiza  
 ancre - anker  
 Andes - Andes  
+Andorre - Andora  
 andésite - andesite  
 anglophone - englofoni  
 Angola - Angola  
@@ -73,9 +85,13 @@ animer - anima
 anneau - ring  
 Antarctique - Antartike  
 antenne - anten  
+Antigua - Antigua  
+Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibem  
 anus - anus  
+août - balmes  
 appartenir à - tenu  
+application - aplike  
 appliquer - aplika  
 apporter - layana  
 apprendre (étudier) - xula  
@@ -85,7 +101,10 @@ arachnophobie - aranfobia
 araignée - aran  
 arboretum, pépinière - mokojongoparke  
 arbre - moke  
+arc - arke  
 arc-en-ciel - rangarke  
+archer - arker  
+arctique - Artike  
 argent - argente  
 argent - pes  
 Argentine - Argentina  
@@ -97,19 +116,30 @@ arme - arme
 armure - defkaske  
 armée - gun  
 armée de l'ai - airgun  
+arobase (@) - adresharfe  
 arsenic - arsen  
 art - arte  
 artichaut - karcof  
 artiste - artiste  
+Artsakh - Arcah  
+Aruba - Aruba  
+ascète - askete  
+asexué - anseksi  
 asiatique - asi  
 Asie - Asia  
 aspirine - aspirin  
 assez - basi  
+Assur - Axur  
+Assyrie - Axuria  
+astate - astatem  
 asthme - asme  
 astrobiologie - kosmobiulojia  
 atchoum - acu\*  
 Athènes - Atina  
+athée - andeviste  
+atome - atom  
 attaquer (agresser) - agresa  
+Australie - Australia  
 autel - pujomeze  
 automne - padomosim  
 autre - ali  
@@ -118,10 +148,12 @@ avant - ceno
 avec - ya  
 aventure - ventur  
 aventurier - venturer  
+avocat - avakate  
 avoir - tena  
 avoir besoin de - yavu  
 avoir tendance à - iva  
 axe - akse  
+Azerbaijan - Azerbaijan  
 azur - lazuri  
 aéroport - airporte  
 aïe! - ai  
@@ -129,19 +161,28 @@ aïe! - ai
 babord - botolefte  
 backgammon - narde  
 bagage - bagaje  
-baie - bai  
+bah - bah  
+baie (golf) - bai  
 baie - ber  
 bain - banye  
 baisser - tala  
+balance (poids) - barmetrer  
 balcon - berande  
 balle (boule) - bol  
+ballon - balon  
 bambou - banse  
 banane - banan  
 bande - bande  
 bande dessinée - grafsage  
+bangladais - banglodexi  
+Bangladesh - Banglodex  
 banque - banke  
 banquier - banker  
+Barbade - Barbados  
+barbare - barbar  
 barbe - barde  
+Barbuda - Barbuda  
+baromètre - airbarmetrer  
 barrière - baryer  
 baryum - barem  
 bas - tal  
@@ -156,6 +197,7 @@ bassin - basen
 bateau - bote  
 beau - sundari  
 beauté - sundaria  
+bengali - bangli  
 besoin - yau  
 betterave - bete  
 betterave à sucre (betterave sucrière) - xukarbete  
@@ -198,6 +240,7 @@ buisson - tali moke
 but (destination) - gol  
 bâton (canne, tige) - baton  
 bébé - bebe  
+bédouin - badavi  
 bûche - mokotan  
 ####C - C  
 cacher - sira  
@@ -262,7 +305,7 @@ chaux - kalsomate
 chef - xef  
 chemise - kamis  
 cher - ami  
-chercher - sova  
+chercher - soka  
 chien - vaf  
 chimie - kimlojia  
 Chine - Junguo  
@@ -364,6 +407,7 @@ danois - dani
 dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
 de - ja  
+demain - badodeno  
 demander (poser un question; est-ce que) - eska  
 dessous - nice  
 destin - cenamen  
@@ -371,6 +415,8 @@ deux (2) - duli
 devoir - debu  
 diamant - almas  
 dieu - deu  
+différence - alsifia  
+différent - alsifi  
 dimanche - setyom  
 dinde (dindon) - dinde  
 diorite - diorite  
@@ -379,6 +425,7 @@ directeur (principal) - xulxef
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
+diverger (ne pas être d'accord) - alraya  
 divers (plusieurs) - balibali  
 docile (insipide) - dosili  
 document (dossier) - dokum  
@@ -398,10 +445,12 @@ droits de l'homme - insani hake
 dur - gati  
 durer - duru  
 dynamite - dinamite  
+déboguer (débugger) - angalta  
 début (commencement) - xur  
 décapé (mariné) - sirkopurxipi  
 déchirer - cir  
 déchirer - cira  
+désaccord (différend) - alrayia  
 développement - darjomute  
 ####E - E  
 east (orient) - dong  
@@ -418,13 +467,16 @@ en ligne - va linye
 enclume - metalbede  
 encore - zoko  
 enfant - bace  
+ennemi - anamike  
 ennemi - dusjan  
 enseigner - xulana  
+ensuite (après, plus tard) - bado  
 enterrer - gabra  
 entonnoir - dartube  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
+espace (zone, région) - aria  
 espace - kali harfe  
 et - e  
 ethnie - zuke  
@@ -441,17 +493,19 @@ faible - debili
 faible - mirdi  
 faim - yamyau  
 faire - fata  
+faire confiance (espérer, croire qqn./qqch., avoir la foi) - amena  
 fait - fate  
 fanal (balise) - fotominar  
 fatigue - fatigia  
 faute (erreur) - galte  
-favori (préféré) - favori  
-favoritisme - favoristia  
+favori (préféré) - maxfili  
+favoritisme - maxfilistia  
 fente (fissure, fêlure) - krake  
 fenêtre - janel  
 fermenter - biumutu  
 feu - hoge  
 feu d’artifice - hogotehne  
+fiable (de confiance, fidèle, sûr, crédible) - ameni  
 fier - yauxina  
 fil - korde  
 fils ou fille - pute  
@@ -478,6 +532,7 @@ fromage - cize
 fromage blanc - panir  
 frêne - yasen  
 fuera (exterior) - ekse  
+Félicitations ! - barke!  
 féliciter - barka  
 ####G - G  
 galaxie - galaksia  
@@ -491,6 +546,8 @@ genre grammatical - baxi jinse
 Germanie - Germania  
 gingembre - zinje  
 giraffe - jiraf  
+glace - ais  
+glacé (glacial, gelé) - aisi  
 gland - balutopal  
 glisser - glisu  
 gorille - goril  
@@ -521,6 +578,7 @@ habiller (vêtir) - fuka
 haine - hen  
 hameçon - pexhuke  
 haut - gau  
+Haïti - Aiti  
 Hesse - Hesia  
 heure - hor  
 heureux - suki  
@@ -543,11 +601,14 @@ humanisme - insanistia
 humeur - emoshal  
 hygiène - hijenia  
 hélicoptère - helisviman  
+hétéroromantique (hétéromantique) - alromansi  
 hétérosexuel - alseksi  
 hôtel - hotel  
 ####I - I  
 imperméable - barxokote  
 important - hami  
+Inde - Bartia  
+indien - barti  
 Indus - Hindonade  
 infidèle (incroyant) - andiniste  
 inflammation - itis  
@@ -555,6 +616,9 @@ insecte - koncung
 insomnie - ansomia  
 international - nasmedi  
 interracial - rasmedi  
+inutile - anyavi  
+inverse (négatif, in-) - ani  
+Irland - Aire  
 ironie - ironia  
 ####J - J  
 jade - giuke  
@@ -609,6 +673,7 @@ lichen - algofung
 lien - linke  
 lieu - loke  
 ligne - linye  
+ligne de commande (console, terminal, invite de commande) - amirlinye  
 lime (citron vert) - kagujolimon  
 lire - duga  
 liste - liste  
@@ -673,7 +738,9 @@ mer - hai
 mercredi - sanyom  
 Mercure - Merkur  
 merde - xite  
+merveille - ajabe  
 message - anjil  
+messager - anjiler  
 mettre (placer) - loka  
 meule - molxeke  
 miel - mel  
@@ -712,6 +779,7 @@ méduse - haijel
 méfait (péché) - duskar  
 mémoire - mem  
 méninge - mening  
+métaux lourds - barmetal  
 ####N - N  
 nagar (flotter) - boyu  
 nappe - mezotex  
@@ -748,6 +816,10 @@ occupé - mangi
 ocelot - oselote  
 oculaire - oki  
 océan - daihai  
+Océan Antarctique - Antartiki Hai  
+océan Arctique - Artiki Hai  
+océan Atlantique - Atlanti Hai  
+océan Indien - Barti Hai  
 odeur - arom  
 oeuf - ande  
 oignon - piaze  
@@ -763,6 +835,7 @@ orange (fruit) - oranje
 orange amère - alkaloranje  
 orange douce - xukaroranje  
 orchidée - orkide  
+ordinaire (habituel, normal) - adi  
 ordinateur - komputer  
 ordinateur tablette - tablokomputer  
 ordre - ratibe  
@@ -791,6 +864,7 @@ palais (château, manoir) - daidom
 pamplemousse - putavoranje  
 panda - pande  
 pandémie - pandemi patia  
+panier (panier de basketball) - baske  
 panneau de signalisation - dauban  
 pantalon - pante  
 pantoufle (babouche) - babuce  
@@ -824,7 +898,7 @@ pere (papa) - pape
 perfectionner (parfaire) - purbona  
 perplexe (désorienté) - ruhmixi  
 perroquet - papagai  
-personne (gente) - jan  
+personne - jan  
 pet (vesse) - pede  
 petit - lili  
 peu - xavi  
@@ -862,6 +936,8 @@ plus - max (maxo)
 pluvieux - barxi  
 pocion - medikosui  
 podzol - huidarte  
+poids (charge) - bar  
+poids (lourdeur, gravité) - baria  
 poireau - porei  
 poisson - pex  
 poisson-globe - balonpex  
@@ -879,12 +955,15 @@ Portoricain - portoriki
 posidonie (herbiers marins) - haicau  
 possible - abli  
 possédant (propriétaire) - malker  
+posture (position) - asan  
+poudre à canon - barude  
 Poulpe (pieuvre) - balsenter  
 pourri - pudi  
 pourrir (se décomposer) - pudu  
 pousse - jovani moke  
 pouvoir (être capable) - abla  
 presse-papier - katoglutoban  
+pression atmosphérique - airbaria  
 preuve - dalil  
 problème - problem  
 problématique - problemi  
@@ -902,6 +981,7 @@ propriété (possession, bien) - malke
 prune - plum  
 prune de Java - jamul  
 précieux - bavi  
+préférer - maxfila  
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruhlojia  
@@ -965,19 +1045,21 @@ rôtir - rosta
 ####S - S  
 s'installer (déménager) - migru  
 sac - sake  
+sagesse - sofia  
 sain - sihi  
 saison - mosim  
 salle de bains - banyokamar  
 salle de classe - xulkamar  
 salut (salam) - salame  
 samedi - sisyom  
+Samoa américaines - Ameriki Samoa  
 sandwich - sanduice  
 sang - sang  
 santé - sih  
 Sapin - abite  
 Satan - xatan  
 Saturne - Saturne  
-sauce - sos  
+sauce - saus  
 saucisse - sosis  
 saumon altentique - atlantosalmon  
 saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
@@ -994,10 +1076,12 @@ se - se
 se baigner - banyu  
 se mouvoir - kinu  
 se rappeler (se remémorer) - mema  
+seau - balde  
 sel - sal  
 semence - sem  
 sens - sense  
-sentir - aroma  
+sentir qqch (avoir l'odeur de qqch) - aromu  
+sentir qqch - aroma  
 sept (7) - seti  
 serrure - sor  
 serviette - gantex  
@@ -1010,7 +1094,7 @@ silex - hogoxeke
 simulation - samsifia  
 situation (état de choses) - xeihal  
 six (6) - sisi  
-société - socia  
+société - sosia  
 soie - silke  
 soif - suiyau  
 soldat - gunjan  
@@ -1023,11 +1107,13 @@ squelette - ostojamia
 substance - kim  
 sucre - xukar  
 sueur - suede  
+suffixe - badofikse  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour l'adverbe - -o  
 suffixe pour les verbes avec ordre des mots OV####S - -u  
 suffixe pour les verbes avec ordre des mots SV####O - -a  
+suivre - bada  
 sujet (thème) - tem  
 svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
@@ -1063,6 +1149,7 @@ thé - cai
 théosophie - deusofia  
 tige - tan  
 tigre - bagre  
+tire à l'arc - arkeria  
 tirer - tira milke  
 tissu - tex  
 titre - temnam  
@@ -1167,6 +1254,7 @@ zèbre - zebre
 Égypte - Misria  
 Épicéa - pis  
 âge - umur  
+éblouir (étonner, stupéfier, surprendre) - ajaba  
 échec - xibai  
 échelle - xalke  
 école (collège) - xulkan  
@@ -1185,6 +1273,8 @@ zèbre - zebre
 élément (unité fondamentale) - em  
 élément chimique - kimem  
 émeraude - zumurude  
+émir - amirer  
+émirat - amiria  
 émoticône (emoji) - emoje  
 émotion - emos  
 épices - masal  

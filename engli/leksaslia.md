@@ -349,7 +349,6 @@
 |**fiksa**|fix (attach)|English:fix, French:fixer, Spanish:fijar, Portuguese:fixar|
 |**filer**|fan (-phile)|English:French:-phile, Portuguese:Spanish:-filo|
 |**filme**|film (membrane, video)|English:Spanish:French:film, Portuguese:filme, deu:Film, Russian:фильм (fil’m), Turkish:film, Arabic:فيلم (film), Japanese:フィルム (firumu), Malay:pilem|
-|**filsofia**|philosophy|Spanish:filosofia, Russian:философия (filosofiya), Malay:filsafat, Arabic:(falsafa), Swahili:falsafa, Turkish:felsefe, Hindi:फ़लसफ़ा (falasfā), English:philosophy, French:philosophie|
 |**filter**|filter|English:filter, Spanish:Portuguese:filtro, French:Turkish:filtre, Russian:фильтр (filʹtr), Hindi:फ़िल्टर (filṭar), Bengali:ফিল্টার (philṭar), Japanese:フィルター (firutā)|
 |**fin**|end (ending)|Spanish: fin, French: fin, Portuguese: fim|
 |**fiorde**|fjord|nor:English:fjord, French:Malay:fiord, Portuguese:fiorde, Spanish:fiordo, Russian:фьорд (f’ord), Japanese:フィヨルド (fiyorudo)|
@@ -530,7 +529,7 @@
 |**jamia**|collection (congregation, assembly)|Arabic:(jamʿiyya), Hausa:jam'iyya, Swahili:jamii, Turkish:camia|
 |**jampa**|jump|English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jamul**|jamul (jambul, rose apple)|Hindi:जामुन (jāmun), English:jambul, Portuguese:jambolão, Arabic:جَمُّون (jammūn), Swahili:zambarau|
-|**jan**|person (people)|Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon) + French:gens, Portuguese:gente|
+|**jan**|person (individual)|Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon) + French:gens, Portuguese:gente|
 |**janel**|window|Portuguese:janela, Bengali:জানালা (janala), Malay:jendela + Tamil:சன்னல் (sannal), nya:zenera, Kongo:nêla|
 |**janger**|artisan (craftsman)|Mandarin:匠 (jiàng), Thai:ช่าง (jang), Khmer:ជាង (ciəng)|
 |**jangle**|forest (woods, jungle)|English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel|
@@ -825,6 +824,7 @@
 |**maxin**|machine|French: machine, English: machine, deu: Maschine, Malay: mesin|
 |**maxori**|major (not minor)|French:majeur, English:major, Spanish:mayor|
 |**maxoria**|majority|Spanish:mayoría, Portuguese:maioria, English:majority, French:majorité|
+|**maze**|sock (stocking)|Hindi:मोज़ा (mozā), Bengali:মোজা (moja), Urdu: موزا‎ (mozā) + Mandarin:袜子 (wàzi), Wu-Chinese:袜子 (ma’zi), Cantonese:襪 (mat6), Korean:말 (mal)|
 |**me**|I (me)|English:me, French:Portuguese:Spanish:me, hindi:मैं (mẽ), Swahili:mimi|
 |**mece**|match (contest)|English:French:match, Hindi:मैच (mɛc), Swahili:meci, Polish:mecz, Russian:матч (matč), Turkish:maç|
 |**medal**|medallion (medal)|English:medal, Spanish:medalla, Portuguese:medalha, French:médaille, Russian:меда́ль (medálʹ), Hindi:मेडल (meḍal), Bengali:মেডেল (meḍel), Turkish:madalya, Japanese:メダル (medaru)|
@@ -1158,6 +1158,7 @@
 |**sate**|moment (while, short time)|Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa|
 |**saudar**|sibling (brother or sister)|Malay:saudara, Hindi:सहोदर (sahodar), Bengali:সহোদর (sôhodôr)|
 |**sauna***|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
+|**saus**|sauce|English:French:sauce, Russian:соус (sous), Hindi:सॉस (sos), deu:Soße, Vietnamese:xốt, Japanese:ソース (sōsu), Thai:ซอส (soot), Korean:소스 (soseu), Malay:saus|
 |**sava**|know (be aware of)|French:savoir, Spanish:Portuguese:saber, English:savvy|
 |**savan**|savannah|English:savannah, Spanish:sabana, Russian:саванна (savanna), Arabic:سافانا (safana), Swahili:savana, Hindi:सवाना (savaana), Japanese:サバンナ (sabanna)|
 |**sekreter**|secretary|English:secretary, Spanish:secretario, Portuguese:secretário, French:secrétaire, deu:Sekretär, Russian:секретарь (sekretar’), Turkish:sekreter, Persian:سکرتر‎ (sekreter)|
@@ -1198,19 +1199,17 @@
 |**sistem**|system|English:system, Spanish:Portuguese:sistema, French:système, Russian:система (sistema), Hindi:सिस्टम (sisṭam), Bengali:সিস্টেম (śiśṭem), Malay:sistem|
 |**site**|city (town)|English:city, French:cité, Portuguese:cidade, Spanish:ciudad, Italian:città + Mandarin:市 (shì), Korean:시 (si), Japanese:都市 (toshi)|
 |**sivili**|civilized (civil)|English:civil, Portuguese:civil, Hindi:सिविल (sivil), Malay:sipil|
-|**socia**|society (association)|Russian:социум (socium), English:society, Spanish:sociedad|
 |**sofa***|sofa (couch)|English:French:sofa, Spanish:Portuguese:sofá, Russian:софа (sofa), Mandarin:沙发 (shāfā), Japanese:ソファ (sofa), Korean:소파 (sopa), Hindi:सोफ़ा (sofā)|
-|**sofia**|wisdom|Greek:σοφία (sofía)|
-|**soke**|sock (stocking)|deu:Socke, English:sock, Swahili:soksi, Zulu:isokisi, Japanese:ソックス (sokkusu), Russian:носок (nosok)|
+|**sofia**|wisdom|Greek:σοφία (sofía) + English:philosophy, French:philosophie, Spanish:filosofia, Russian:философия (filosofiya), Malay:filsafat, Arabic:(falsafa), Swahili:falsafa, Turkish:felsefe, Hindi:फ़लसफ़ा (falasfā)|
+|**soka**|search (seek, look for)|Mandarin:搜 (sōu), Cantonese:搜 (sau1), Wu-Chinese:搜 (seu1), Japanese:捜索 (sōsaku) + English:seek, deu:suchen + Russian:искать (iskat’)|
 |**sol**|sun|Spanish:Portuguese:sol, French:soleil, + Hindi:सौर (sOr), Telugu:(saur)|
 |**som**|sleep|French:sommeil, Portuguese:sono, Russian:сон (son), Hindi:सोना (sonā), Bengali:শোয়া (śoya) + Arabic: نَوْم‎ (nawm)|
 |**sompapil**|opium poppy|English:poppy, Spanish:amapola, Portuguese:papoula, Swahili:mpopi, Bengali:পপি (papi), Japanese:ポピー (popī)|
 |**son**|sound (audio)|English:sonic, French:son, Spanish:son,sonido, Portuguese:som, Italian:suono, + Korean:소리 (sori) + Mandarin:声 (shēng), Wu-Chinese:声 (sən)|
 |**song**|pine tree|Mandarin:松 (sōng), Wu-Chinese:(son), Thai:สน (sǒn), Korean:솔 (sol), Vietnamese:thông, + Russian:сосна (sosna)|
 |**sor**|lock (fastener)|Mandarin:锁 (suǒ), Cantonese:鎖 (so2), Wu-Chinese:鎖 (su2), Japanese:錠 (jō), Khmer:សោ (sao), Spanish:cierre, French:serrure, Hungarian:zár|
-|**sos**|sauce|English:French:sauce, Russian:соус (sous), Hindi:सॉस (sos), deu:Soße, Vietnamese:xốt, Japanese:ソース (sōsu), Thai:ซอส (soot), Korean:소스 (soseu), Malay:saus|
+|**sosia**|society (association)|Russian:социум (socium), English:society, Spanish:sociedad|
 |**sosis**|sausage|French:saucisse, Turkish:Malay:sosis, Persian:(sosis), Russian:сосиска  (sosiska), Japanese:ソーセージ (sosēji), Hindi:सॉसेज (sosej), Bengali:সসেজ (sôsej), English:sausage|
-|**sova**|search (seek, look for)|Mandarin:搜 (sōu), Cantonese:搜 (sau1), Wu-Chinese:搜 (seu1), Japanese:捜 (sō)|
 |**suani**|sour|Mandarin:酸 (suān), Cantonese:酸 (syun1), Wu-Chinese:酸 (soe1), Japanese:酸 (san), Korean:산 (san), Vietnamese:toan|
 |**sube**|morning (dawn)|Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba|
 |**sude**|south|Spanish:sur, Portuguese:sul, French:sud|

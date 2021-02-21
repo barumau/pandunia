@@ -272,8 +272,8 @@ fatigu - 疲劳
 feyu - 飞  
 fem - 女  
 feni - 数字的  
-filme - 膜  
 filsofia - 哲学  
+filme - 膜  
 fino - 了  
 fiorde - 峡湾  
 firuze - 绿松石  
@@ -639,8 +639,10 @@ matur - 成年人
 maturi fem - 女人  
 maturi man - 男人  
 mau - 猫  
+maxfila - 比较喜欢  
 maxforte - 加固  
 maxim (maximo) - 最  
+maze - 袜子  
 mece - 比赛  
 medi - 中型  
 medikosui - 药水  
@@ -877,9 +879,9 @@ sirplan - 阴谋 (密谋)
 sirkopurxipe - 腌菜  
 sisi - 六 (6)  
 sisyom - 星期六 (礼拜六)  
-soci jinse - 社會性別  
-socia - 社会  
+sofia - 智慧  
 sofa\* - 沙发  
+soka - 寻找  
 sol - 太阳  
 solful - 向日葵  
 solsistem - 太阳系  
@@ -888,8 +890,9 @@ somkamar - 卧室 (寝室)
 sompapil - 鴉片罌粟  
 song - 松  
 sor - 锁  
+sosi jinse - 社會性別  
+sosia - 社会  
 sosis - 香肠  
-sova - 寻找  
 sui - 水  
 suigas - 蒸汽  
 suiyau - 口渴  

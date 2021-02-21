@@ -115,13 +115,13 @@ anyavi - tarpeeton
 anici - vastahakoinen (haluton)  
 anjama - hajauttaa  
 anjami - hajanainen  
-anjani - vieras (tuntematon)  
 ankaya - sulkea (panna kiinni)  
 ankayi - suljettu  
 ankoda - purkaa koodi (dekoodata)  
 anlimitia - äärettömyys (rajattomuus)  
 anmema - unohtaa  
 anpace - levottomuus (konflikti)  
+ansavi - vieras (tuntematon)  
 ansomia - unettomuus  
 ansora - avata lukko  
 ansori - lukitsematon  
@@ -855,9 +855,6 @@ fater - tekijä (valmistaja)
 fatokan - tehdas  
 fatigia - väsymys  
 fatigu - väsyä  
-favora - suosia  
-favori - suosikki (suosittu)  
-favoristia - suosinta (favoritismi)  
 fax - side (remmi)  
 faxiste - fasisti  
 faxistia - fasismi  
@@ -894,12 +891,12 @@ fikse - kiinnitys
 fila - tykätä (pitää)  
 filia - tykkääminen  
 filer - fani (-fiili)  
+filsofia - filosofia  
+filsofer - filosofi  
 Filipinas - Filippiinit  
 Filistin - Palestiina  
 filme - filmi  
 filsofi - filosofinen  
-filsofia - filosofia  
-filsofer - filosofi  
 filter - suodattaa  
 fin - loppu  
 fina - lopettaa  
@@ -1969,12 +1966,16 @@ mau - kissa
 max (maxo) - enemmän (myös, lisäksi, plus)  
 max ka bas - liikaa  
 maxi - lisä-  
+maxfila - suosia (pitää parempana)  
+maxfili - suosikki (suosittu)  
+maxfilistia - suosinta (favoritismi)  
 maxim (maximo) - eniten  
 maxime - maksimi (enimmäismäärä)  
 maximi - enimmäis-  
 maxin - kone  
 maxori - enemmistö-  
 maxoria - enemmistö  
+maze - sukka  
 meca - otella  
 mece - ottelu (matsi)  
 mede - väli  
@@ -2145,7 +2146,7 @@ narake - helvetti
 narde - backgammon  
 nas - kansa  
 nasi - kansallinen  
-nasi socistia - kansallissosialismi  
+nasi sosistia - kansallissosialismi  
 nasia - kansakunta  
 nasiste - nationalisti  
 nasistia - kansallisuusaate (nationalismi)  
@@ -2737,6 +2738,7 @@ saulojia - tietoteoria (epistemologia)
 Saudi Arabia - Saudi Arabia  
 saudar - sisarus (veli tai sisko)  
 sauna\* - sauna  
+saus - kastike (soosi)  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
 sekse - seksi (sukupuolisuhde)  
@@ -2812,16 +2814,9 @@ sivilia - sivilisaatio
 slavi - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-soca - seurustella (toimia yhdessä)  
-soci - yhteiskunnallinen (sosiaalinen)  
-soci media - sosiaalinen media  
-socia - seura  
-sociste - sosialisti  
-socistia - sosialismi  
 sofi - viisas  
 sofia - viisaus  
 sofa\* - sohva  
-soke - sukka  
 sol - aurinko  
 solcate - aurinkovarjo  
 solestas - päivänseisaus  
@@ -2835,7 +2830,12 @@ Somaldex - Somalimaa
 son - ääni  
 sona - ääntää  
 song - mänty  
-sos - kastike (soosi)  
+sosa - seurustella (toimia yhdessä)  
+sosi - yhteiskunnallinen (sosiaalinen)  
+sosi media - sosiaalinen media  
+sosia - seura  
+sosiste - sosialisti  
+sosistia - sosialismi  
 sosis - makkara  
 Soto - Lesoto  
 suahili - suahili  

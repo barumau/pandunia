@@ -15,6 +15,7 @@
 |**aha**|comprendre (réaliser)|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
 |**ai**|aïe!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**air**|air|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
+|**ais**|glace|eng:ice, deu:Eis, may:és|
 |**aiskrem**|crème glacée|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|
 |**ajili**|agile|eng:fra:agile, spa:por:ágil, deu:agil|
 |**akar**|acarien|spa:por:ácaro, fra:acarien, tur:acari|
@@ -34,39 +35,52 @@
 |**analize**|analyse|eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|
 |**ande**|oeuf|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |**andesite**|andésite|spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|
+|**ani**|inverse (négatif, in-)|ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|
 |**anim**|animation|eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|
 |**anjil**|message|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |**anker**|ancre|eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru)|
 |**anten**|antenne|eng:antenna, spa:por:may:antena, fra:antenne, rus:антенна (antenna), tur:anten, jpn:アンテナ (antena)|
 |**anus**|anus|eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|
 |**apel**|pomme|eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|
+|**aplike**|application|eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|
 |**ar**|aire (superficie)|eng:area, por:spa:área, pol:areał, fra:aire|
 |**aran**|araignée|fra:araignee, por:aranha, spa:araña, eng:arachnid|
 |**arbuze**|pastèque|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|
 |**argente**|argent|por:ita:argento, fra:argent, may:argentum|
 |**argum**|argument|eng:fra:argument, spa:por:argumento, rus:аргумент (argument)|
+|**arke**|arc|eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka|
 |**arme**|arme|fra:arme, eng:arms, spa:por:arma|
 |**arom**|odeur|eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)|
 |**arte**|art|spa:por:arte, eng:fra:art, jpn:アート (āto)|
+|**asan**|posture (position)|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |**asar**|effet|ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir|
 |**Asia**|Asie|eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|
+|**askete**|ascète|eng:ascetic, spa:por:asceta, fra:ascéte, rus:аскет (asket)|
 |**asle**|origine|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |**asme**|asthme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |**aspirin**|aspirine|eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin)|
 |**ate**|acte|por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|
 |**ater**|agent (faiseur)|eng:actor,-ator, fra:-ateur, spa:por:-ador|
+|**Atlanti Hai**|océan Atlantique|eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|
+|**atom**|atome|eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|
 |**aur**|or|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
+|**avakate**|avocat|nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|
 |**avar**|dommage|ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|
+|**Axuria**|Assyrie|akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr)|
 |**babe**|chapitre|may:bab, ara:urd:fas:(bāb)|
 |**babuce**|pantoufle (babouche)|ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
 |**bace**|enfant|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
+|**bada**|suivre|ara:بعد‎ (baʿda), swa:baada, hin:बाद (bāda)|
 |**badam**|amande|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |**bagaje**|bagage|eng:baggage, fra:bagage, por:bagagem, rus:багаж (bagazh), tur:bagaj, ben:ব্যাগেজ (bjagej), may:bagasi|
 |**bagre**|tigre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:тигр (tigr)|
-|**bai**|baie|eng:bay, spa:bahía, por:baía, fra:baie|
+|**bah**|bah|eng:spa:ita:bah, por:ba|
+|**bai**|baie (golf)|eng:bay, spa:bahía, por:baía, fra:baie|
 |**baki**|blanc|yue:白 (baak6), vie:bạch, zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
+|**balde**|seau|spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|
 |**bali**|huit (8)|zho:八 (bā), kor:팔 (pal), tgl:walo, haw:walu|
 |**balibali**|divers (plusieurs)|eng:various, spa:vario, por:vário, jpn:とりどり (toridori), ben:বিবিধ (bibidha), may:berbagai-bagai, swa:balimbali|
+|**balon**|ballon|fra:ballon, tur:may:pol:balon, eng:balloon, tgl:balun, hau:balân|
 |**balute**|chêne|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota|
 |**ban**|tableau (panneau)|zho:板 (bǎn)yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|
 |**banan**|banane|wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|
@@ -75,14 +89,18 @@
 |**banke**|banque|eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|
 |**banse**|bambou|hin:बांस (bāns), ben:বাঁশ (bãśô), pnb:ਬਾਂਸ (bāns), swa:mwanzi|
 |**banye**|bain|spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|
+|**barbar**|barbare|deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|
 |**barde**|barbe|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
 |**bari**|lourd|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |**barka**|féliciter|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|
 |**barkoke**|abricot|ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke|
+|**barti**|indien|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
+|**barude**|poudre à canon|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
 |**barxe**|pluie|hin:बारिश (bāriś), ben:বৃষ্টি (briśṭi), tur:baran|
 |**baryer**|barrière|eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|
 |**basen**|bassin|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**basi**|assez|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
+|**baske**|panier (panier de basketball)|eng:basket, may:bakul, jpn:バスケット (basuketto)|
 |**baton**|bâton (canne, tige)|eng:cane, fra:canne, zho:杆 (gǎn),|
 |**batre**|pile (batterie)|eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri|
 |**bax**|langue|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
@@ -170,7 +188,6 @@
 |**fatigia**|fatigue|eng:fra:fatigue, spa:fatiga, por:fadiga, ita:fatica|
 |**faze**|phase|spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)|
 |**feyu**|voler|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
-|**filsofia**|philosophie|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |**fiorde**|fiord|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |**fite**|plante (végétal)|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
 |**flece**|flèche|spa:por:flecha, fra:flèche, eng:fletch|
@@ -235,7 +252,7 @@
 |**ivia**|tendance|eng:-ive, deu:-iv, fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
 |**jagi**|éveillé|hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|
 |**jamul**|prune de Java|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|
-|**jan**|personne (gente)|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
+|**jan**|personne|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
 |**janel**|fenêtre|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**jangle**|forêt (jungle)|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
 |**javabe**|réponse|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|
@@ -502,6 +519,7 @@
 |**sanduice**|sandwich|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |**sang**|sang|fra:sang, spa:sangre, por:sangue|
 |**sar**|tête|fas:(sar), hin:सिर (sir), ara:(raʾs)|
+|**saus**|sauce|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|
 |**sava**|savoir (connaître)|fra:savoir, spa:por:saber, eng:savvy|
 |**savan**|savane|eng:savannah, spa:sabana, rus:саванна (savanna), ara:سافانا (safana), swa:savana, hin:सवाना (savaana), jpn:サバンナ (sabanna)|
 |**sekuri**|sûr|eng:secure, deu:sicher, spa:por:seguro|
@@ -518,16 +536,16 @@
 |**silke**|soie|zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), eng:silk, spa:por:sérico, rus:шёлк (sholk)|
 |**sisi**|six (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|
 |**site**|ville|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
-|**socia**|société|rus:социум (socium), eng:society, spa:sociedad|
 |**sofa***|canapé (sofa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
+|**sofia**|sagesse|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
+|**soka**|chercher|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen + rus:искать (iskat’)|
 |**sol**|soleil|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |**som**|sommeil|fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: نَوْم‎ (nawm)|
 |**sompapil**|pavot somnifère|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|
 |**son**|son|eng:sonic, fra:son, spa:son,sonido, por:som, ita:suono, + kor:소리 (sori) + zho:声 (shēng), wuu:声 (sən)|
 |**sor**|serrure|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
-|**sos**|sauce|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|
+|**sosia**|société|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|saucisse|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sova**|chercher|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜 (sō)|
 |**suede**|sueur|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |**sui**|eau|zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su|
 |**suki**|heureux|hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk) + jpn:好く (suku), may: suka|

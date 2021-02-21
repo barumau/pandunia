@@ -836,9 +836,6 @@ fater - farbicante
 fatokan - fábrica  
 fatigia - fatiga  
 fatigu - cansarse (fatigar)  
-favora - preferir (favorecer)  
-favori - favorito (preferido)  
-favoristia - favoritismo  
 fax - tira (faja, vendaje, cinta)  
 faxiste - fascista  
 faxistia - fascismo  
@@ -875,12 +872,12 @@ fikse - accesorio (afijo)
 fila - gustarse (querer)  
 filia - attracción (-filia)  
 filer - fan (-filo)  
+filsofia - filosofía  
+filsofer - filósofo  
 Filipinas - Filipinas  
 Filistin - Palestina  
 filme - película (film, membrana)  
 filsofi - filosófico  
-filsofia - filosofía  
-filsofer - filósofo  
 filter - filtro  
 fin - fin (el final)  
 fina - terminar (acabar)  
@@ -1381,7 +1378,7 @@ jamia - colección (grupo, conjunto, montón)
 jamkarde - cromo  
 Jamaika - Jamaica  
 jampa - saltar (brincar)  
-jan - persona (gente)  
+jan - persona  
 janel - ventana  
 janger - artesano  
 jangle - bosque (jungla, selva)  
@@ -2039,6 +2036,9 @@ max (maxo) - más
 max ka bas - demasiado  
 maxi - adicional (extra)  
 maxo - además  
+maxfila - preferir (favorecer)  
+maxfili - favorito (preferido)  
+maxfilistia - favoritismo  
 maxforte - refuerzos  
 maxim (maximo) - lo más  
 maxime - máximo  
@@ -2046,6 +2046,7 @@ maximi - máximo
 maxin - máquina  
 maxori - mayor  
 maxoria - mayoría  
+maze - calcetín  
 meca - competir  
 mece - partido  
 mede - medio  
@@ -2240,7 +2241,7 @@ narake - infierno
 narde - backgammon  
 nas - gente  
 nasi - nacional  
-nasi socistia - socialismo nacional  
+nasi sosistia - socialismo nacional  
 nasia - nación  
 nasiste - nacionalista  
 nasistia - nacionalismo  
@@ -2902,6 +2903,7 @@ savan - sabana
 Saudi Arabia - Arabia Saudita  
 saudar - hermano o hermana  
 sauna\* - sauna  
+saus - salsa  
 sekreter - secretario  
 sekreteria - secretaría  
 seksa - tener sexo  
@@ -2995,17 +2997,10 @@ sivilia - civilización
 slavi - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  
-soca - alternar (interactuar)  
-soci - social  
-soci jinse - género social  
-soci media - redes sociales  
-socia - sociedad  
-sociste - socialista  
-socistia - socialismo  
 sofi - sabio  
 sofia - sabiduría  
 sofa\* - sofá  
-soke - calcetín  
+soka - buscar  
 sol - sol  
 solcate - parasol  
 solcentaur - abrepuño  
@@ -3023,10 +3018,15 @@ son - sonido (audio)
 sona - sonar  
 song - pino  
 sor - cerradura (candado)  
-sos - salsa  
+sosa - alternar (interactuar)  
+sosi - social  
+sosi jinse - género social  
+sosi media - redes sociales  
+sosia - sociedad  
+sosiste - socialista  
+sosistia - socialismo  
 sosis - salchicha  
 Soto - Lesoto  
-sova - buscar  
 suahili - suajili  
 Sualbarde - Svalbard  
 suani - agrio (ácido)  

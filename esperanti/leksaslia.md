@@ -259,7 +259,6 @@
 |**fikre**|penso|araba:(fikr), persa:(fekr), turka:fikir, malaja:pikir, hindia:(fikr)|
 |**fiksa**|fiksi|angla:fix, franca:fixer, hispana:fijar, portugala:fixar|
 |**filme**|filmo|angla:hispana:franca:film, portugala:filme, deu:Film, rusa:фильм (fil’m), turka:film, araba:فيلم (film), japana:フィルム (firumu), malaja:pilem|
-|**filsofia**|filozofio|hispana:filosofia, rusa:философия (filosofiya), malaja:filsafat, araba:(falsafa), svahila:falsafa, turka:felsefe, hindia:फ़लसफ़ा (falasfā), angla:philosophy, franca:philosophie|
 |**filter**|filtri|angla:filter, hispana:portugala:filtro, franca:turka:filtre, rusa:фильтр (filʹtr), hindia:फ़िल्टर (filṭar), bengala:ফিল্টার (philṭar), japana:フィルター (firutā)|
 |**fin**|fino|hispana: fin, franca: fin, portugala: fim|
 |**fiorde**|fjordo|nor:angla:fjord, franca:malaja:fiord, portugala:fiorde, hispana:fiordo, rusa:фьорд (f’ord), japana:フィヨルド (fiyorudo)|
@@ -561,6 +560,7 @@
 |**mau**|kato|mandarena:猫 (māo), kantona:貓 (maau), vjetnama:mèo, svahila:nyau|
 |**max (maxo)**|pli|hispana:mas, portugala:mais + angla:franca:maximum, rusa:максимум (maksimum), malaja:maksimum, persa: ماکسیمم‎ (mâksimom)|
 |**maxin**|maŝino|franca: machine, angla: machine, deu: Maschine, malaja: mesin|
+|**maze**|ŝtrumpo|hindia:मोज़ा (mozā), bengala:মোজা (moja), urdua: موزا‎ (mozā) + mandarena:袜子 (wàzi), vua:袜子 (ma’zi), kantona:襪 (mat6), korea:말 (mal)|
 |**me**|mi|angla:me, franca:portugala:hispana:me, hindi:मैं (mẽ), svahila:mimi|
 |**medi**|mezo|hispana:medio, angla:medium, hindia:माद्धयम (mādhyam)|
 |**medika**|sanigi (kuraci)|angla:medicine, hispana:medicina, portugala:medicamento, franca:médicament, rusa:медикамент (medikament)|
@@ -752,6 +752,7 @@
 |**sapate**|ŝuo|hispana:zapato, portugala:sapato, malaja:sepatu, svahila:sapatu|
 |**saudar**|frato aŭ fratino|malaja:saudara, hindia:सहोदर (sahodar), bengala:সহোদর (sôhodôr)|
 |**sauna***|saŭno|fin:deu:angla:franca:portugala:hispana:malaja:turka:sauna, rusa:сауна (sauna), mandarena:桑拿 (sāngná), japana:サウナ (sauna), korea:사우나 (sauna), hindia:सॉना (sonā), persa:urdua:(sonā), taja:ซาวน่า (saona)|
+|**saus**|saŭco|angla:franca:sauce, rusa:соус (sous), hindia:सॉस (sos), deu:Soße, vjetnama:xốt, japana:ソース (sōsu), taja:ซอส (soot), korea:소스 (soseu), malaja:saus|
 |**sava**|scii (koni)|franca:savoir, hispana:portugala:saber, angla:savvy|
 |**sekse**|sekso|angla:sex, franca:sexe, hispana:portugala:sexo, rusa:секс (seks), turka:seks, hindia:सेक्स (seks), japana:セックス (sekkusu), korea:섹스 (sekseu)|
 |**sem**|semo|franca:semence, portugala:semente, hispana:semilla, rusa:семя (semya), angla:semen|
@@ -769,15 +770,13 @@
 |**sirke**|vinagro|turka:sirke, persa:(serke), hindia:सिरका (sirkā), panĝaba:ਸਿਰਕਾ (sirkā)|
 |**sistem**|sistemo|angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem|
 |**site**|urbo|angla:city, franca:cité, portugala:cidade, hispana:ciudad, itala:città + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)|
-|**socia**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
 |**sofa***|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
-|**sofia**|saga|greka:σοφία (sofía)|
-|**soke**|ŝtrumpo|deu:Socke, angla:sock, svahila:soksi, zulua:isokisi, japana:ソックス (sokkusu), rusa:носок (nosok)|
+|**sofia**|saĝeco|greka:σοφία (sofía) + angla:philosophy, franca:philosophie, hispana:filosofia, rusa:философия (filosofiya), malaja:filsafat, araba:(falsafa), svahila:falsafa, turka:felsefe, hindia:फ़लसफ़ा (falasfā)|
 |**sol**|suno|hispana:portugala:sol, franca:soleil, + hindia:सौर (sOr), teluga:(saur)|
 |**som**|dormo|franca:sommeil, portugala:sono, rusa:сон (son), hindia:सोना (sonā), bengala:শোয়া (śoya) + araba: نَوْم‎ (nawm)|
 |**son**|sono|angla:sonic, franca:son, hispana:son,sonido, portugala:som, itala:suono, + korea:소리 (sori) + mandarena:声 (shēng), vua:声 (sən)|
 |**song**|pino|mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)|
-|**sos**|saŭco|angla:franca:sauce, rusa:соус (sous), hindia:सॉस (sos), deu:Soße, vjetnama:xốt, japana:ソース (sōsu), taja:ซอส (soot), korea:소스 (soseu), malaja:saus|
+|**sosia**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
 |**sosis**|kolbaso|franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage|
 |**suani**|acida|mandarena:酸 (suān), kantona:酸 (syun1), vua:酸 (soe1), japana:酸 (san), korea:산 (san), vjetnama:toan|
 |**sube**|mateno|araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba|

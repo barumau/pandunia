@@ -343,7 +343,6 @@
 |**fiksa**|kiinnittää|englanti:fix, ranska:fixer, espanja:fijar, portugali:fixar|
 |**filer**|fani (-fiili)|englanti:ranska:-phile, portugali:espanja:-filo|
 |**filme**|filmi|englanti:espanja:ranska:film, portugali:filme, deu:Film, venäjä:фильм (fil’m), turkki:film, arabia:فيلم (film), japani:フィルム (firumu), malaiji:pilem|
-|**filsofia**|filosofia|espanja:filosofia, venäjä:философия (filosofiya), malaiji:filsafat, arabia:(falsafa), suahili:falsafa, turkki:felsefe, hindi:फ़लसफ़ा (falasfā), englanti:philosophy, ranska:philosophie|
 |**filter**|suodattaa|englanti:filter, espanja:portugali:filtro, ranska:turkki:filtre, venäjä:фильтр (filʹtr), hindi:फ़िल्टर (filṭar), bangla:ফিল্টার (philṭar), japani:フィルター (firutā)|
 |**fin**|loppu|espanja: fin, ranska: fin, portugali: fim|
 |**fiorde**|vuono|nor:englanti:fjord, ranska:malaiji:fiord, portugali:fiorde, espanja:fiordo, venäjä:фьорд (f’ord), japani:フィヨルド (fiyorudo)|
@@ -781,6 +780,7 @@
 |**maxin**|kone|ranska: machine, englanti: machine, deu: Maschine, malaiji: mesin|
 |**maxori**|enemmistö-|ranska:majeur, englanti:major, espanja:mayor|
 |**maxoria**|enemmistö|espanja:mayoría, portugali:maioria, englanti:majority, ranska:majorité|
+|**maze**|sukka|hindi:मोज़ा (mozā), bangla:মোজা (moja), urdu: موزا‎ (mozā) + yleiskiina:袜子 (wàzi), wu-kiina:袜子 (ma’zi), kantoninkiina:襪 (mat6), korea:말 (mal)|
 |**me**|minä|englanti:me, ranska:portugali:espanja:me, hindi:मैं (mẽ), suahili:mimi|
 |**mece**|ottelu (matsi)|englanti:ranska:match, hindi:मैच (mɛc), suahili:meci, puola:mecz, venäjä:матч (matč), turkki:maç|
 |**medal**|mitali|englanti:medal, espanja:medalla, portugali:medalha, ranska:médaille, venäjä:меда́ль (medálʹ), hindi:मेडल (meḍal), bangla:মেডেল (meḍel), turkki:madalya, japani:メダル (medaru)|
@@ -1089,6 +1089,7 @@
 |**sate**|hetki (kotva)|arabia:(sāʿa), persia:(sâ'at), malaiji:turkki:saat, suahili:saa|
 |**saudar**|sisarus (veli tai sisko)|malaiji:saudara, hindi:सहोदर (sahodar), bangla:সহোদর (sôhodôr)|
 |**sauna***|sauna|fin:deu:englanti:ranska:portugali:espanja:malaiji:turkki:sauna, venäjä:сауна (sauna), yleiskiina:桑拿 (sāngná), japani:サウナ (sauna), korea:사우나 (sauna), hindi:सॉना (sonā), persia:urdu:(sonā), thai:ซาวน่า (saona)|
+|**saus**|kastike (soosi)|englanti:ranska:sauce, venäjä:соус (sous), hindi:सॉस (sos), deu:Soße, vietnami:xốt, japani:ソース (sōsu), thai:ซอส (soot), korea:소스 (soseu), malaiji:saus|
 |**sava**|tietää (tuntea)|ranska:savoir, espanja:portugali:saber, englanti:savvy|
 |**sekreter**|sihteeri|englanti:secretary, espanja:secretario, portugali:secretário, ranska:secrétaire, deu:Sekretär, venäjä:секретарь (sekretar’), turkki:sekreter, persia:سکرتر‎ (sekreter)|
 |**sekse**|seksi (sukupuolisuhde)|englanti:sex, ranska:sexe, espanja:portugali:sexo, venäjä:секс (seks), turkki:seks, hindi:सेक्स (seks), japani:セックス (sekkusu), korea:섹스 (sekseu)|
@@ -1125,15 +1126,13 @@
 |**sistem**|järjestelmä (systeemi)|englanti:system, espanja:portugali:sistema, ranska:système, venäjä:система (sistema), hindi:सिस्टम (sisṭam), bangla:সিস্টেম (śiśṭem), malaiji:sistem|
 |**site**|kaupunki|englanti:city, ranska:cité, portugali:cidade, espanja:ciudad, italia:città + yleiskiina:市 (shì), korea:시 (si), japani:都市 (toshi)|
 |**sivili**|sivistynyt|englanti:civil, portugali:civil, hindi:सिविल (sivil), malaiji:sipil|
-|**socia**|seura|venäjä:социум (socium), englanti:society, espanja:sociedad|
 |**sofa***|sohva|englanti:ranska:sofa, espanja:portugali:sofá, venäjä:софа (sofa), yleiskiina:沙发 (shāfā), japani:ソファ (sofa), korea:소파 (sopa), hindi:सोफ़ा (sofā)|
-|**sofia**|viisaus|kreikka:σοφία (sofía)|
-|**soke**|sukka|deu:Socke, englanti:sock, suahili:soksi, zulu:isokisi, japani:ソックス (sokkusu), venäjä:носок (nosok)|
+|**sofia**|viisaus|kreikka:σοφία (sofía) + englanti:philosophy, ranska:philosophie, espanja:filosofia, venäjä:философия (filosofiya), malaiji:filsafat, arabia:(falsafa), suahili:falsafa, turkki:felsefe, hindi:फ़लसफ़ा (falasfā)|
 |**sol**|aurinko|espanja:portugali:sol, ranska:soleil, + hindi:सौर (sOr), telugu:(saur)|
 |**som**|nukkuminen (uni)|ranska:sommeil, portugali:sono, venäjä:сон (son), hindi:सोना (sonā), bangla:শোয়া (śoya) + arabia: نَوْم‎ (nawm)|
 |**son**|ääni|englanti:sonic, ranska:son, espanja:son,sonido, portugali:som, italia:suono, + korea:소리 (sori) + yleiskiina:声 (shēng), wu-kiina:声 (sən)|
 |**song**|mänty|yleiskiina:松 (sōng), wu-kiina:(son), thai:สน (sǒn), korea:솔 (sol), vietnami:thông, + venäjä:сосна (sosna)|
-|**sos**|kastike (soosi)|englanti:ranska:sauce, venäjä:соус (sous), hindi:सॉस (sos), deu:Soße, vietnami:xốt, japani:ソース (sōsu), thai:ซอส (soot), korea:소스 (soseu), malaiji:saus|
+|**sosia**|seura|venäjä:социум (socium), englanti:society, espanja:sociedad|
 |**sosis**|makkara|ranska:saucisse, turkki:malaiji:sosis, persia:(sosis), venäjä:сосиска  (sosiska), japani:ソーセージ (sosēji), hindi:सॉसेज (sosej), bangla:সসেজ (sôsej), englanti:sausage|
 |**suani**|hapan (kirpeä)|yleiskiina:酸 (suān), kantoninkiina:酸 (syun1), wu-kiina:酸 (soe1), japani:酸 (san), korea:산 (san), vietnami:toan|
 |**sube**|aamu|arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba|

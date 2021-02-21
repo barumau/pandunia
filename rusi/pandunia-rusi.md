@@ -304,14 +304,12 @@ fasilia da akses - доступность
 fatokan - завод (фабрика)  
 fatigia - усталость  
 fatigu - устать  
-favori - любимый  
-favoristia - фаворитизм (кумовство)  
 faze - фаза  
 fei - полёт  
 feyu - лететь  
 feimux - летучая мышь  
-filme - плева (фильм)  
 filsofia - философия  
+filme - плева (фильм)  
 fiorde - фьорд  
 firuze - бирюза  
 fite - растение  
@@ -705,8 +703,12 @@ maste - мачта
 mate - материя  
 matur - взрослый  
 mau - кошка  
+maxfila - предпочитать  
+maxfili - любимый  
+maxfilistia - фаворитизм (кумовство)  
 maxforte - пополнение  
 maxime - максимум  
+maze - носок  
 mece - матч  
 medi - средний  
 medika - лечить  
@@ -956,6 +958,7 @@ sapate - туфля
 sar - голова  
 Saturne - Сатурн  
 sava - знать  
+saus - соус  
 sel - совет  
 sela - советовать  
 selge - мангольд  
@@ -986,10 +989,9 @@ sirkopurxipi - марино́ванный
 sisi - шесть (6)  
 sisyom - суббота  
 slavi - славянский  
-soci jinse - гендер  
-socia - общество (социум)  
+sofia - мудрость  
 sofa\* - софа (диван, канапе)  
-soke - носок  
+soka - искать  
 sol - солнце  
 solcate - зонтик от солнца  
 solful - подсолнечный  
@@ -999,9 +1001,9 @@ sompapil - мак снотворный
 song - сосна  
 sor - замок  
 sori - запереть  
-sos - соус  
+sosi jinse - гендер  
+sosia - общество (социум)  
 sosis - колбаса (сосиска)  
-sova - искать  
 sui - вода  
 suigas - пар  
 suiyau - жажда  

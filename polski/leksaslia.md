@@ -339,7 +339,6 @@
 |**fiksa**|przyczepić, przymocować|eng:fix, fra:fixer, spa:fijar, por:fixar|
 |**filer**|miłośnik (fan, -fil)|eng:fra:-phile, por:spa:-filo|
 |**filme**|film|eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem|
-|**filsofia**|filozofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |**filter**|filtr|eng:filter, spa:por:filtro, fra:tur:filtre, rus:фильтр (filʹtr), hin:फ़िल्टर (filṭar), ben:ফিল্টার (philṭar), jpn:フィルター (firutā)|
 |**fin**|koniec|spa: fin, fra: fin, por: fim|
 |**fiorde**|fiord|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
@@ -519,7 +518,7 @@
 |**jamia**|kolekcja, zbiór; zgromadzenie, zebranie|ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia|
 |**jampa**|skoczyć, skakać|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jamul**|czapetka kuminowa|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|
-|**jan**|osoba; ludzie|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
+|**jan**|osoba|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
 |**janel**|okno|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**janger**|rzemieślnik|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
 |**jangle**|las, dżungla, zagajnik|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
@@ -806,6 +805,7 @@
 |**maxin**|maszyna|fra: machine, eng: machine, deu: Maschine, may: mesin|
 |**maxori**|większościowy, wiodący, główny|fra:majeur, eng:major, spa:mayor|
 |**maxoria**|większość|spa:mayoría, por:maioria, eng:majority, fra:majorité|
+|**maze**|skarpeta, skarpetka, pończocha|hin:मोज़ा (mozā), ben:মোজা (moja), urd: موزا‎ (mozā) + zho:袜子 (wàzi), wuu:袜子 (ma’zi), yue:襪 (mat6), kor:말 (mal)|
 |**me**|ja, mnie|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|
 |**mece**|mecz, rywalizacja|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |**medal**|medalion, medal|eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|
@@ -1134,6 +1134,7 @@
 |**sate**|moment|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|
 |**saudar**|rodzeństwo, brat lub siostra|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |**sauna***|sauna|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
+|**saus**|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|
 |**sava**|wiedzieć|fra:savoir, spa:por:saber, eng:savvy|
 |**savan**|sawanna|eng:savannah, spa:sabana, rus:саванна (savanna), ara:سافانا (safana), swa:savana, hin:सवाना (savaana), jpn:サバンナ (sabanna)|
 |**sekreter**|sekretarz|eng:secretary, spa:secretario, por:secretário, fra:secrétaire, deu:Sekretär, rus:секретарь (sekretar’), tur:sekreter, fas:سکرتر‎ (sekreter)|
@@ -1174,19 +1175,17 @@
 |**sistem**|system|eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|
 |**site**|miast, miasteczko|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**sivili**|cywilizowany (ucywilizowany)|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
-|**socia**|społeczeństwo, system społeczny|rus:социум (socium), eng:society, spa:sociedad|
 |**sofa***|sofa (kanapa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
-|**sofia**|mądrość|ell:σοφία (sofía)|
-|**soke**|skarpeta, skarpetka, pończocha|deu:Socke, eng:sock, swa:soksi, zul:isokisi, jpn:ソックス (sokkusu), rus:носок (nosok)|
+|**sofia**|mądrość|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
+|**soka**|szukać|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen + rus:искать (iskat’)|
 |**sol**|słońce|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |**som**|sen|fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: نَوْم‎ (nawm)|
 |**sompapil**|mak lekarski|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|
 |**son**|dźwięk, brzmienie|eng:sonic, fra:son, spa:son,sonido, por:som, ita:suono, + kor:소리 (sori) + zho:声 (shēng), wuu:声 (sən)|
 |**song**|sosna|zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)|
 |**sor**|zamek (zapięcie)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
-|**sos**|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|
+|**sosia**|społeczeństwo, system społeczny|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|kiełbasa|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sova**|szukać|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜 (sō)|
 |**suani**|kwaśny|zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|
 |**sube**|ranek, rano, poranek|ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|
 |**sude**|południe|spa:sur, por:sul, fra:sud|

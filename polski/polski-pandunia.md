@@ -545,7 +545,7 @@ dziki - vildi
 dziobak - batokrote  
 dziura - kong  
 dziw (cudo) - ajabe  
-dziwny (nieznany) - anjani  
+dziwny (nieznany) - ansavi  
 dziwny - bizari  
 dzięki, dzięki ci - danke  
 dziękować - danka  
@@ -1433,7 +1433,7 @@ mech - mos
 mecz, rywalizacja - mece  
 medalion, medal - medal  
 media - media  
-media społecznościowe - soci media  
+media społecznościowe - sosi media  
 meduza - haijel  
 medycyna - medikia  
 medytować; dumać, rozmyślać, zastanawiać się - medita  
@@ -1625,7 +1625,7 @@ naprawić, naprawiać - reibona
 naprzód - jino  
 narkotyk - droge  
 narodowy (ludowy) - nasi  
-narodowy socjalizm - nasi socistia  
+narodowy socjalizm - nasi sosistia  
 narodziny - jen  
 narzędzie - tul  
 naród, narodowość - nasia  
@@ -1842,10 +1842,10 @@ osiem (8) - bali
 osioł - gade  
 osm - osmem  
 osmoza - osmos  
+osoba - jan  
 osoba biznesu, biznesman - bizneser  
 osoba dorosła - matur  
 osoba mówiąca w Panduni - panduniste  
-osoba; ludzie - jan  
 osobisty numer identyfikacyjny (pin) - sekurnumbe  
 osobisty, intymny, prywatny - auti  
 ostatni, końcowy - finodi  
@@ -2202,7 +2202,7 @@ prawy (prawostronny, z prawej strony) - raiti
 prazeodym - prasedem  
 prać, umyć, myć - vaxa  
 precyzyjny, dokładny - justi  
-preferować (woleć) - favora  
+preferować (woleć) - maxfila  
 premier - xefi minister  
 prezydent - prezidente  
 problem - problem  
@@ -2354,7 +2354,7 @@ płaszczyzna (płyta) - plate
 płciowy - jinsi  
 płeć - jinse  
 płeć biologiczna - bivi jinse  
-płeć społeczna - soci jinse  
+płeć społeczna - sosi jinse  
 płot - kenarbaryer  
 płuco - pulmon  
 płyta - tail  
@@ -2598,7 +2598,7 @@ siły powietrzne - airgun
 skand - eskandem  
 Skandynawia - Eskandia  
 skarb; skrabiec - bau  
-skarpeta, skarpetka, pończocha - soke  
+skarpeta, skarpetka, pończocha - maze  
 skała - petre  
 skała macierzysta - bazopetre  
 skoczyć, skakać - jampa  
@@ -2626,9 +2626,9 @@ smutny - duki
 smycz (cugiel, lejc, wodza) - lidokorde  
 snajper (strzelec wyborowy) - justopaver  
 sobota - sisyom  
-socjalista - sociste  
-socjalizm - socistia  
-socjalizować się - soca  
+socjalista - sosiste  
+socjalizm - sosistia  
+socjalizować się - sosa  
 soczewka - lense  
 sofa (kanapa) - sofa\*  
 sofa, kanapa - kanape  
@@ -2636,7 +2636,7 @@ sok - jus
 Somalia - Somalia  
 Somaliland - Somaldex  
 sometime - koi sate  
-sos - sos  
+sos - saus  
 sos jabłkowy - apelsos  
 sosna - song  
 spacja - kali harfe  
@@ -2656,8 +2656,8 @@ sposób (metoda, tryb) - mode
 spotkanie, zebranie - mite  
 spotkać - mita  
 spowodować, powodować - saba  
-społeczeństwo, system społeczny - socia  
-społeczny - soci  
+społeczeństwo, system społeczny - sosia  
+społeczny - sosi  
 sprawdzić, sprawdzać, skontrolować - ceka  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - genca  
 sprawiedliwość - adalia  
@@ -2795,7 +2795,7 @@ sztuka - arte
 sztuka walki - jengoxute  
 sztylet (puginał) - kanjar  
 szuflada - tirsanduke  
-szukać - sova  
+szukać - soka  
 Szwajcaria - Suisia  
 Szwecja - Suenia  
 szyb górniczy - kuangotunel  
@@ -3007,7 +3007,7 @@ układ słoneczny - solsistem
 ul (gniazdo pszczół lub os) - vesponizde  
 ul - melvesposanduke  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
-ulubiony - favori  
+ulubiony - maxfili  
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - jangi  
 umiejętny (wprawny) - xuti  

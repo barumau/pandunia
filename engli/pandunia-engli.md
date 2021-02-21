@@ -123,7 +123,6 @@ anyavi - unnecessary (extraneous, unneeded)
 anici - reluctant  
 anjama - disperse (spread out, scatter)  
 anjami - sparse (scattered)  
-anjani - strange (unknown)  
 ankaya - close (shut)  
 ankayi - closed  
 ankoda - decode (decrypt)  
@@ -131,6 +130,7 @@ anlimitia - infinity
 anmema - forget  
 anpace - unrest  
 anromansi - aromantic  
+ansavi - strange (unknown)  
 anseksi - asexual  
 ansomia - insomnia  
 ansora - unlock  
@@ -911,9 +911,6 @@ fatokan - factory
 fatigia - fatigue (weariness)  
 fatigu - get tired (become weary)  
 favor - favor (goodwill)  
-favora - prefer  
-favori - favorite (preferred)  
-favoristia - favoritism  
 fax - bandage (strip, ribbon)  
 faxiste - fascist  
 faxistia - fascism  
@@ -950,12 +947,12 @@ fikse - attachment (affix)
 fila - like  
 filia - attraction (-philia)  
 filer - fan (-phile)  
+filsofia - philosophy  
+filsofer - philosopher  
 Filipinas - Philippines  
 Filistin - Palestinian Territory  
 filme - film (membrane, video)  
 filsofi - philosophic  
-filsofia - philosophy  
-filsofer - philosopher  
 filter - filter  
 fin - end (ending)  
 fina - finish (put an end to)  
@@ -1498,7 +1495,7 @@ jamkarde - trading card
 Jamaika - Jamaica  
 jampa - jump  
 jamul - jamul (jambul, rose apple)  
-jan - person (people)  
+jan - person (individual)  
 janel - window  
 janelfrem - window frame  
 jangi - crafty (dexterous)  
@@ -2208,6 +2205,9 @@ maxi - additional
 maxo - also (too)  
 maxboni - bonus  
 maxdarja - increment  
+maxfila - prefer (favor)  
+maxfili - favorite (preferred)  
+maxfilistia - favoritism  
 maxforta - reinforce (replenish)  
 maxforte - reinforcements  
 maxim (maximo) - most (maximally)  
@@ -2217,6 +2217,7 @@ maximi - maximal
 maxin - machine  
 maxori - major (not minor)  
 maxoria - majority  
+maze - sock (stocking)  
 meca - compete (have a match)  
 mece - match (contest)  
 mede - middle (the part in between)  
@@ -2425,7 +2426,7 @@ narake - hell
 narde - backgammon  
 nas - people (folk)  
 nasi - national  
-nasi socistia - national socialism  
+nasi sosistia - national socialism  
 nasia - nation  
 nasiste - nationalist  
 nasistia - nationalism  
@@ -3122,6 +3123,7 @@ savan - savannah
 Saudi Arabia - Saudi Arabia  
 saudar - sibling (brother or sister)  
 sauna\* - sauna  
+saus - sauce  
 sekreter - secretary  
 sekreteria - secretariat  
 seksa - have sex  
@@ -3219,17 +3221,10 @@ sivilia - civilization
 slavi - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-soca - socialize (interact)  
-soci - social  
-soci jinse - social gender  
-soci media - social media  
-socia - society (association)  
-sociste - socialist  
-socistia - socialism  
 sofi - wise  
 sofia - wisdom  
 sofa\* - sofa (couch)  
-soke - sock (stocking)  
+soka - search (seek, look for)  
 sol - sun  
 solcate - parasol  
 solcentaur - yellow starthistle  
@@ -3249,10 +3244,15 @@ song - pine tree
 sor - lock (fastener)  
 sora - lock (fasten)  
 sori - locked (secure)  
-sos - sauce  
+sosa - socialize (interact)  
+sosi - social  
+sosi jinse - social gender  
+sosi media - social media  
+sosia - society (association)  
+sosiste - socialist  
+sosistia - socialism  
 sosis - sausage  
 Soto - Lesotho  
-sova - search (seek, look for)  
 suahili - Swahili  
 Sualbarde - Svalbard  
 suan - acid  

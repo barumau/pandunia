@@ -135,7 +135,7 @@ bravo! - bravo
 braço - handoxake  
 Buda - Bude  
 buraco - kau  
-buscar (procurar) - sova  
+buscar (procurar) - soka  
 bétula - berje  
 ####C - C  
 cabeça - sar  
@@ -376,8 +376,8 @@ falar - loga
 farol (baliza) - fotominar  
 fato (facto) - fate  
 fator - fater  
-favoritismo - favoristia  
-favorito (preferido) - favori  
+favoritismo - maxfilistia  
+favorito (preferido) - maxfili  
 fazenda (tecido) - tex  
 fazer - fata  
 fechadura - sor  
@@ -577,6 +577,7 @@ matemática - hisabolojia
 matéria - mate  
 maçã - apel  
 medusa - haijel  
+meia - maze  
 meio (metade) - mede  
 mel - mel  
 melancia - arbuze  
@@ -733,7 +734,7 @@ perplexo (confuso) - ruhmixi
 peru - dinde  
 pesado - bari  
 pescador - pexosaider  
-pessoa (gente) - jan  
+pessoa - jan  
 petróleo - petronefte  
 picareta - pincope  
 pilha (bateria) - batre  
@@ -761,6 +762,7 @@ prata - argente
 prateleira (estante) - liboban  
 praça - maidan  
 precioso - bavi  
+preferir - maxfila  
 preto - siahi  
 problema - problem  
 professor (docente) - xulaner  
@@ -838,6 +840,7 @@ rubi - lalbauxeke
 rápido - rapidi  
 rã - krokroke  
 ####S - S  
+sabedoria (sagacidade, sapiência) - sofia  
 saber (conhecer) - sava  
 sacada (varanda) - berande  
 saco - sake  
@@ -883,7 +886,7 @@ simulação - samsifia
 simétrico - sammetri  
 sino (campainha) - danger  
 situaçao - xeihal  
-sociedade - socia  
+sociedade - sosia  
 sol - sol  
 soldado - gunjan  
 som - son  

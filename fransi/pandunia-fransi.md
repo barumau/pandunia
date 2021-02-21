@@ -15,9 +15,11 @@ acinem - actinium
 acu\* - atchoum  
 acua - éternuer  
 ade - coutume  
+adi - ordinaire (habituel, normal)  
 adali - juste  
 adalia - justice  
 adres - adresse  
+adresharfe - arobase (@)  
 afgani - afghan  
 Afgania - Afghanistan  
 Afrike - Afrique  
@@ -28,25 +30,42 @@ aga - si
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
 agreser - agresseur  
+agresivi - agressif  
 aha - comprendre (réaliser)  
 ai - aïe!  
 ainstainem - Einsteinium  
 air - air  
+airbaria - pression atmosphérique  
+airbarmetrer - baromètre  
 airgun - armée de l'ai  
 airporte - aéroport  
+Aire - Irland  
+ais - glace  
+aisi - glacé (glacial, gelé)  
 aisu - geler (glacer)  
 aishoke - hockey sur glace  
 aiskrem - crème glacée  
+Aiti - Haïti  
+ajaba - éblouir (étonner, stupéfier, surprendre)  
+ajabe - merveille  
 ajili - agile  
 akar - acarien  
 akse - axe  
 aksente - accent  
 akses - accès  
+aksesa - accéder (accéder à qqch., entrer, entrer dans qqch, pénétrer, atteindre)  
+aksesabli - accessible (atteignable, à portée)  
 ala - changer  
 ali - autre  
 alo - autrement  
 alfon - allophone  
+alraya - diverger (ne pas être d'accord)  
+alrayia - désaccord (différend)  
+alromansi - hétéroromantique (hétéromantique)  
 alseksi - hétérosexuel  
+alsifi - différent  
+alsifia - différence  
+Alaska - Alaska  
 alge - algue  
 algofung - lichen  
 algojangle - forêt de kelp  
@@ -59,6 +78,8 @@ alkoli - alcoolique
 almar - placard  
 almas - diamant  
 aluminem - aluminium  
+aluminmate - alun  
+aluminokside - alumine (oxyde d'aluminium)  
 am - amour (affection)  
 ama - aimer  
 ami - cher  
@@ -66,81 +87,131 @@ amater - amateur
 amer - amoureux  
 amike - chéri  
 Amari - Amhara (groupe ethnique et langue éthiopienne)  
+amena - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
+ameni - fiable (de confiance, fidèle, sûr, crédible)  
 ameno - sûrement  
 Amerike - Amérique  
 ameriki - américain  
+Ameriki Samoa - Samoa américaines  
+amerikem - américium  
+amiria - émirat  
+amirer - émir  
+amirlinye - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
 anama - exécrer  
+anamike - ennemi  
+andeviste - athée  
 andiniste - infidèle (incroyant)  
+angalta - déboguer (débugger)  
+anyavi - inutile  
 anmema - oublier  
+anseksi - asexué  
 ansomia - insomnie  
 analiza - analyser  
 analize - analyse  
 ande - oeuf  
 Andes - Andes  
 andesite - andésite  
+Andora - Andorre  
 Angola - Angola  
 anim - animation  
 anima - animer  
 anjil - message  
+anjiler - messager  
 anker - ancre  
 Antartike - Antarctique  
+Antartiki Hai - Océan Antarctique  
 anten - antenne  
+Antigua - Antigua  
+Antigua e Barbuda - Antigua-et-Barbuda  
 anus - anus  
+anusi - anal  
 apel - pomme  
 apelsos - compote de pommes  
 aplika - appliquer  
+aplike - application  
+Apsni - Abkhazie  
 ar - aire (superficie)  
+aria - espace (zone, région)  
 arabi - arabe  
 aran - araignée  
 aranfobia - arachnophobie  
 arannete - toile d'araignée  
 arbuze - pastèque  
+Arcah - Artsakh  
 argente - argent  
 Argentina - Argentine  
 argon - argon  
 argum - argument  
+arke - arc  
+arker - archer  
+arkeria - tire à l'arc  
 arme - arme  
 arom - odeur  
-aroma - sentir  
+aroma - sentir qqch  
+aromu - sentir qqch (avoir l'odeur de qqch)  
 arsen - arsenic  
 arte - art  
 artiste - artiste  
+Artike - arctique  
+Artiki Hai - océan Arctique  
+Aruba - Aruba  
 asi - asiatique  
 Asia - Asie  
+asan - posture (position)  
 asar - effet  
 asara - effectuer  
+askete - ascète  
 asle - origine  
 asli - originel  
 aslameriki - amérindien (indien)  
+aslaustrali - aborigènes australiens  
 asme - asthme  
 aspirin - aspirine  
+astatem - astate  
 ate - acte  
 ater - agent (faiseur)  
 ation - action  
+ativa - activer (allumer, mettre en marche, déclencher)  
 ativi - actif  
 Atina - Athènes  
+Atlanti Hai - océan Atlantique  
 atlantokade - morue de l'Atlantique  
 atlantosalmon - saumon altentique  
+atom - atome  
+avakate - avocat  
 avar - dommage  
 aur - or  
+Australia - Australie  
 autologe - monologue  
+Axur - Assur  
+Axuria - Assyrie  
+Azerbaijan - Azerbaijan  
 ####B - B  
 babe - chapitre  
 babuce - pantoufle (babouche)  
 bace - enfant  
+bada - suivre  
+bado - ensuite (après, plus tard)  
+badodeno - demain  
+badofikse - suffixe  
 badam - amande  
+badavi - bédouin  
 bagaje - bagage  
 bagre - tigre  
 bagroselote - oncille  
-bai - baie  
+bah - bah  
+bai - baie (golf)  
 baki - blanc  
 bakomargarite - marguerite  
 bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
 bali - huit (8)  
+balmes - août  
 balsenter - Poulpe (pieuvre)  
+balde - seau  
 balibali - divers (plusieurs)  
+balon - ballon  
 balonpex - poisson-globe  
 balute - chêne  
 balutopal - gland  
@@ -149,19 +220,34 @@ bangem - jeu de société
 banan - banane  
 bande - bande  
 bandir - drapeau  
+bangli - bengali  
+Banglodex - Bangladesh  
+banglodexi - bangladais  
 banye - bain  
 banyu - se baigner  
 banyokamar - salle de bains  
 banke - banque  
 banker - banquier  
 banse - bambou  
+bar - poids (charge)  
 bari - lourd  
+baria - poids (lourdeur, gravité)  
 barem - baryum  
+barmetal - métaux lourds  
+barmetrer - balance (poids)  
+Barbados - Barbade  
+barbar - barbare  
+Barbuda - Barbuda  
 barde - barbe  
 barya - bloquer  
 baryer - barrière  
 barka - féliciter  
+barke! - Félicitations !  
 barkoke - abricot  
+barti - indien  
+Barti Hai - océan Indien  
+Bartia - Inde  
+barude - poudre à canon  
 barxe - pluie  
 barxi - pluvieux  
 barxocate - parapluie  
@@ -169,6 +255,7 @@ barxokote - imperméable
 barxomosim - mousson  
 basi - assez  
 basen - bassin  
+baske - panier (panier de basketball)  
 baskobol - basketball  
 baton - bâton (canne, tige)  
 batonkapse - cage  
@@ -343,8 +430,6 @@ fasili - facile
 fata - faire  
 fate - fait  
 fatigia - fatigue  
-favori - favori (préféré)  
-favoristia - favoritisme  
 faze - phase  
 fei - vol  
 feyu - voler  
@@ -518,7 +603,7 @@ jagi - éveillé
 Jayeria - Algérie  
 jamkarde - carte à collectionner  
 jamul - prune de Java  
-jan - personne (gente)  
+jan - personne  
 janel - fenêtre  
 jangle - forêt (jungle)  
 javabe - réponse  
@@ -754,6 +839,9 @@ mate - matière
 matur - adulte  
 mau - chat  
 max (maxo) - plus  
+maxfila - préférer  
+maxfili - favori (préféré)  
+maxfilistia - favoritisme  
 maxime - maximum  
 mece - match  
 medi - medio  
@@ -1008,6 +1096,7 @@ sar - tête
 Saturne - Saturne  
 sava - savoir (connaître)  
 savan - savane  
+saus - sauce  
 sekuri - sûr  
 sel - conseil  
 sela - conseiller  
@@ -1036,8 +1125,9 @@ sirkopurxipi hiar - concombre confit (cornichon)
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
-socia - société  
+sofia - sagesse  
 sofa\* - canapé (sofa)  
+soka - chercher  
 sol - soleil  
 solcate - ombrelle (parasol)  
 solcentaur - Centaurée du solstice  
@@ -1048,9 +1138,8 @@ somkamar - chambre à coucher
 sompapil - pavot somnifère  
 son - son  
 sor - serrure  
-sos - sauce  
+sosia - société  
 sosis - saucisse  
-sova - chercher  
 suede - sueur  
 sui - eau  
 suigas - vapeur d’eau  

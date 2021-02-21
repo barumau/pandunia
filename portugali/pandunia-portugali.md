@@ -264,8 +264,6 @@ fata - fazer
 fate - fato (facto)  
 fater - fator  
 fatigia - fadiga  
-favori - favorito (preferido)  
-favoristia - favoritismo  
 fei - voo  
 feyu - voar  
 feni - digital  
@@ -417,7 +415,7 @@ jagi - acordado
 jagu - despertar  
 jamkarde - cromo  
 jamul - jambolão (jambo)  
-jan - pessoa (gente)  
+jan - pessoa  
 janel - janela  
 jangle - selva (floresta, jângal)  
 javabe - resposta  
@@ -638,7 +636,11 @@ maste - mastro
 mate - matéria  
 mau - gato  
 max (maxo) - mais  
+maxfila - preferir  
+maxfili - favorito (preferido)  
+maxfilistia - favoritismo  
 maxime - máximo  
+maze - meia  
 mece - partida  
 mede - meio (metade)  
 medi - moyen  
@@ -884,7 +886,8 @@ sisi - seis (6)
 sisyom - sábado  
 site - cidade  
 slavi - eslavo  
-socia - sociedade  
+sofia - sabedoria (sagacidade, sapiência)  
+soka - buscar (procurar)  
 sol - sol  
 solcate - sombrinha  
 solful - girassol  
@@ -895,8 +898,8 @@ sompapil - papoila-dormideira
 son - som  
 song - pinheiro  
 sor - fechadura  
+sosia - sociedade  
 sosis - salsicha  
-sova - buscar (procurar)  
 suede - suor  
 sui - água  
 suigas - vapor  

@@ -1195,8 +1195,8 @@ fatty (greasy) - feti
 fault (sin, blame, defect, guilt) - dox  
 fault line - geukaski krake  
 favor (goodwill) - favor  
-favorite (preferred) - favori  
-favoritism - favoristia  
+favorite (preferred) - maxfili  
+favoritism - maxfilistia  
 fear (be afraid) - fobu  
 fear (phobia) - fobia  
 feather - per  
@@ -2211,7 +2211,7 @@ nanometer - nanomitre
 nasal - nosi  
 nation - nasia  
 national - nasi  
-national socialism - nasi socistia  
+national socialism - nasi sosistia  
 nationalism - nasistia  
 nationalist - nasiste  
 native language (mother tongue) - jeni bax  
@@ -2496,7 +2496,7 @@ perfect - purboni
 peripheral - kenari  
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
-person (people) - jan  
+person (individual) - jan  
 personal (intimate, private, custom) - auti  
 personal identification number (PIN) - sekurnumbe  
 personalize (customize) - auta  
@@ -2643,7 +2643,7 @@ prayer - duve
 precious - bavi  
 precise (exact, accurate) - justi  
 predate (be before) - cena  
-prefer - favora  
+prefer (favor) - maxfila  
 prefix - cenfikse  
 pregnant - hamili  
 prepare (make ready) - reda  
@@ -2925,7 +2925,7 @@ Satanist - xataniste
 satsuma mandarin - venjovoranje  
 Saturday - sisyom  
 Saturn - Saturne  
-sauce - sos  
+sauce - saus  
 Saudi Arabia - Saudi Arabia  
 sauna - sauna\*  
 sausage - sosis  
@@ -2963,7 +2963,7 @@ sea cucumber - haihiar
 sea force (navy) - haigun  
 seaborgium - siborgem  
 seagrass - haicau  
-search (seek, look for) - sova  
+search (seek, look for) - soka  
 season - mosim  
 seat (saddle) - side  
 seaweed (macroalgae) - hayalge  
@@ -3105,14 +3105,14 @@ snow (be snowing) - himu
 snow - him  
 soak (steep, marinate) - purxipa  
 soap - sabun  
-social - soci  
-social gender - soci jinse  
-social media - soci media  
-socialism - socistia  
-socialist - sociste  
-socialize (interact) - soca  
-society (association) - socia  
-sock (stocking) - soke  
+social - sosi  
+social gender - sosi jinse  
+social media - sosi media  
+socialism - sosistia  
+socialist - sosiste  
+socialize (interact) - sosa  
+society (association) - sosia  
+sock (stocking) - maze  
 sockeye salmon - lalsalmon  
 sodium - natrem  
 sofa (couch) - kanape  
@@ -3215,7 +3215,7 @@ stopwatch - durmetrer
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
 straight - orti  
 straighten - orta  
-strange (unknown) - anjani  
+strange (unknown) - ansavi  
 stray (deviant) - rutogalti  
 stray (deviate) - rutogalta  
 strengthen (reinforce) - forta  

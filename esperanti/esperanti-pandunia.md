@@ -481,7 +481,7 @@ franca krepo - fransi krepe
 Francio - Fransia  
 franciumo - fransem  
 frato aŭ fratino - saudar  
-fremda (nekonata) - anjani  
+fremda (nekonata) - ansavi  
 fremda lando - eksodex  
 freneza - foli  
 frenezeco - folia  
@@ -1279,6 +1279,7 @@ poŝo - jebe
 poŝtejo - postokan  
 pravigi - saha  
 preciza (ekzakta) - justi  
+preferi (pliŝati) - maxfila  
 presaĵo - cape  
 presi - capa  
 preta - redi  
@@ -1389,7 +1390,6 @@ ruĝa - lali
 sabato - sisyom  
 sablo - rege  
 safrano - safran  
-saga - sofia  
 sala - sali  
 salo - sal  
 salti - jampa  
@@ -1410,7 +1410,8 @@ sanigi (kuraci) - medika
 sankta - santi  
 sapo - sabun  
 saĝa - sofi  
-saŭco - sos  
+saĝeco - sofia  
+saŭco - saus  
 saŭno - sauna\*  
 scienco - lojia  
 scii (koni) - sava  
@@ -1463,7 +1464,7 @@ skribo - kitabe
 skulti - eskulta  
 skultisto - eskulter  
 smeraldo - zumurude  
-socio - socia  
+socio - sosia  
 sofo - kanape  
 sofo - sofa\*  
 soifo - suiyau  
@@ -1778,7 +1779,7 @@ zuluo - Zulu
 ŝtoneto - lilxeke  
 ŝtono - xeke  
 ŝtormo - tafun  
-ŝtrumpo - soke  
+ŝtrumpo - maze  
 ŝtuparo - eskal  
 ŝuistejo - sapatokan  
 ŝuisto - sapater  

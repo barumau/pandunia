@@ -131,7 +131,7 @@ alquilar (arrendar, dar en arriendo) - kirdona
 alquilar (arrendar, tomar en arriendo) - kirgeta  
 alquiler (arriendo) - kir  
 altar - pujomeze  
-alternar (interactuar) - soca  
+alternar (interactuar) - sosa  
 alternativa (sustituto) - vis  
 alto (parte de arriba) - gau  
 alto - gavi  
@@ -448,7 +448,7 @@ Burkina Faso - Burkina Faso
 burro (asno) - gade  
 Burundi - Rundi  
 bus (autobús) - bus  
-buscar - sova  
+buscar - soka  
 Bután - Drugia  
 bárbaro - barbar  
 básico - bazi  
@@ -486,7 +486,7 @@ calabaza china (calabaza de la cera) - mummelon
 calabaza de peregrino - suikaboge  
 calamar - kalamar  
 calamar vampiro - vampirbalsenter  
-calcetín - soke  
+calcetín - maze  
 calcio - kalsem  
 calcita - kalsite  
 calcular (computar) - komputa  
@@ -1311,8 +1311,8 @@ fascinación - fasinia
 fascismo - faxistia  
 fascista - faxiste  
 fatiga - fatigia  
-favoritismo - favoristia  
-favorito (preferido) - favori  
+favoritismo - maxfilistia  
+favorito (preferido) - maxfili  
 faz (faceta) - fas  
 febrero - dulmes  
 fecha - nenmesyom  
@@ -1519,7 +1519,7 @@ Guyana Francesa - Fransi Guyana
 guía - gider  
 guía de viaje - gidobuke  
 género gramatical - baxi jinse  
-género social - soci jinse  
+género social - sosi jinse  
 ####H - H  
 haber (en el pasado) - paso  
 habilidad - able  
@@ -2540,7 +2540,7 @@ permitido (admisible) - halali
 permitir (dejar) - halala  
 pero - a  
 perro - vaf  
-persona (gente) - jan  
+persona - jan  
 personal (privado, a medida) - auti  
 personalizar - auta  
 perspectiva (punto de vista) - vidopunte  
@@ -2657,7 +2657,7 @@ praseodimio - prasedem
 preceder (anteceder) - cena  
 precio (coste) - koste  
 precioso - bavi  
-preferir (favorecer) - favora  
+preferir (favorecer) - maxfila  
 prefijo - cenfikse  
 pregunta - eske  
 preguntar (inquirir) - eska  
@@ -2810,7 +2810,7 @@ reconocer (admitir) - resida
 reconocimiento (recibo) - reside  
 recto - orti  
 red - nete  
-redes sociales - soci media  
+redes sociales - sosi media  
 redondo (circular) - cirki  
 reducir a la mitad (dividir en dos) - dulo fena  
 reflejar - mira  
@@ -2951,7 +2951,7 @@ salmón chum (keta) - bakosalmon
 salmón del Atlántico - atlantosalmon  
 salmón rojo - lalsalmon  
 salmón rosado - rozosalmon  
-salsa - sos  
+salsa - saus  
 saltar (brincar) - jampa  
 salud - sih  
 saludable - sihi  
@@ -3062,11 +3062,11 @@ sitio web - netoloke
 situación - xeihal  
 sobre - supro  
 sobrepasar - supra  
-social - soci  
-socialismo - socistia  
-socialismo nacional - nasi socistia  
-socialista - sociste  
-sociedad - socia  
+social - sosi  
+socialismo - sosistia  
+socialismo nacional - nasi sosistia  
+socialista - sosiste  
+sociedad - sosia  
 sodio - natrem  
 sofá - kanape  
 sofá - sofa\*  

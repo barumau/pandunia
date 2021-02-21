@@ -72,9 +72,9 @@ andeviste - ateisto
 andiniste - malkredulo  
 andoste - malamiko  
 anjama - disigi  
-anjani - fremda (nekonata)  
 anmema - forgesi  
 anpace - malpaco  
+ansavi - fremda (nekonata)  
 ansomia - sendormeco  
 analiza - analizi  
 analize - analizo  
@@ -525,11 +525,11 @@ figur - figuro
 fikra - pensi  
 fikre - penso  
 fiksa - fiksi  
+filsofia - filozofio  
+filsofer - filozofo  
 Filipinas - Filipinoj  
 filme - filmo  
 filsofi - filozofia  
-filsofia - filozofio  
-filsofer - filozofo  
 filter - filtri  
 fin - fino  
 fina - fini  
@@ -1115,8 +1115,10 @@ mau - kato
 max (maxo) - pli  
 max ka bas - tro  
 maxo - ankaŭ  
+maxfila - preferi (pliŝati)  
 maxim (maximo) - plej  
 maxin - maŝino  
+maze - ŝtrumpo  
 medi - mezo  
 medu - inter  
 medika - sanigi (kuraci)  
@@ -1507,6 +1509,7 @@ sava - scii (koni)
 saulojia - sciteorio (epistemologio)  
 saudar - frato aŭ fratino  
 sauna\* - saŭno  
+saus - saŭco  
 sekse - sekso  
 selenem - seleno  
 sem - semo  
@@ -1538,11 +1541,9 @@ sisyom - sabato
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
-socia - socio  
 sofi - saĝa  
-sofia - saga  
+sofia - saĝeco  
 sofa\* - sofo  
-soke - ŝtrumpo  
 sol - suno  
 solcate - sunombrelo  
 solsistem - sunsistemo  
@@ -1551,7 +1552,7 @@ somu - dormi
 somkamar - dormoĉambro  
 son - sono  
 song - pino  
-sos - saŭco  
+sosia - socio  
 sosis - kolbaso  
 suahili - sŭahili  
 suan - acido  
