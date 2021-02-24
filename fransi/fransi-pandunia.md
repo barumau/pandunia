@@ -309,7 +309,7 @@ chercher - soka
 chien - vaf  
 chimie - kimlojia  
 Chine - Junguo  
-chocolat - cokolate  
+chocolat - coklate  
 chose - xei  
 chronique - duriki  
 chronomètre - durmetrer  
@@ -379,7 +379,7 @@ crabe - krabe
 craindre (avoir peur) - fobu  
 creuser - kava  
 crevette - krevete  
-cristal - kristal  
+cristal - bilor  
 crochet - huke  
 crocodile - longokrokodil  
 crocodilien - krokodil  
@@ -451,6 +451,7 @@ décapé (mariné) - sirkopurxipi
 déchirer - cir  
 déchirer - cira  
 désaccord (différend) - alrayia  
+dévanagari - deunagri harfe  
 développement - darjomute  
 ####E - E  
 east (orient) - dong  
@@ -531,7 +532,7 @@ francophonie - Fransofonia
 fromage - cize  
 fromage blanc - panir  
 frêne - yasen  
-fuera (exterior) - ekse  
+fuera (exterior) - vai  
 Félicitations ! - barke!  
 féliciter - barka  
 ####G - G  
@@ -605,11 +606,15 @@ hétéroromantique (hétéromantique) - alromansi
 hétérosexuel - alseksi  
 hôtel - hotel  
 ####I - I  
+immigrant - inmigran  
+immigrer - inmigra  
 imperméable - barxokote  
 important - hami  
 Inde - Bartia  
 indien - barti  
 Indus - Hindonade  
+infecter - patomisa  
+infection (contagion) - patomis  
 infidèle (incroyant) - andiniste  
 inflammation - itis  
 insecte - koncung  
@@ -914,7 +919,8 @@ pieu (poteau) - zong
 pile (batterie) - batre  
 piment - cili\*  
 pioche - pincope  
-piquenique - eksyam  
+piquant - pinani  
+piquenique - vaiyam  
 piraterie - piratia  
 pistolet - pau  
 pizza - pize  
@@ -1122,11 +1128,11 @@ séminal - semi
 série - silia  
 sûr - sekuri  
 sûrement - ameno  
-s’accroupir - indosida  
+s’accroupir - insida  
 ####T - T  
 table - meze  
 tableau (panneau) - ban  
-tablette de chocolat - cokolatobaton  
+tablette de chocolat - coklatobaton  
 tarte - pai  
 tasse à thé - caikupe  
 taupe - krote  
@@ -1137,7 +1143,7 @@ tectonique des plaques - plati geukaskia
 temple - pujokan  
 temps (durée) - dur  
 tendance - ivia  
-tender - eksotira  
+tender - tirlonga  
 tentacule - senter  
 tente - hemah  
 terrain - geuforme  

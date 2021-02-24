@@ -154,7 +154,7 @@ barometr - airbarmetrer
 barwnik - rangomate  
 basen - basen  
 bateria - batre  
-baton czekoladowy - cokolatobaton  
+baton czekoladowy - coklatobaton  
 bawełna - goton  
 bawić, zabawiać - vana  
 bawół domowy - kabau  
@@ -266,7 +266,7 @@ być podobnym, być jak - samu
 być przeciw - kontra  
 być skłonnym (mieć skłonność) - iva  
 być umiejscowionym (być ulokowanym, stać) - loku  
-być wezwanym, być wzywanym, być nazwanym, być nazywanym - namu  
+być wezwanym, być wzywanym, być nazwanym, być nazywanym - nama  
 być widzianym - vidu  
 być wycentrowanym, być w środku - jungu  
 bóbr - kastor  
@@ -392,7 +392,7 @@ czasownik - karloge
 czaszka - saroste  
 czcić, szanować - puja  
 czekać - denga  
-czekolada - cokolate  
+czekolada - coklate  
 czempion - campion  
 czerwiec - sanmes  
 czerwony - lali  
@@ -451,6 +451,7 @@ deska - mokoban
 deszcz - barxe  
 deszczowy - barxi  
 detal, szczegół - detal  
+dewanagari - deunagri harfe  
 dezaktualizować (pogorszyć) - maldarja  
 diabelski, szatański - xatani  
 diabeł, szatan - xatan  
@@ -571,13 +572,13 @@ echo - mirsonde
 efekt halo - fotocirke  
 egipski - misri  
 Egipt - Misria  
-egzonim - eksonam  
+egzonim - vainam  
 einstein - ainstainem  
 ekologia (nauka o środowisku) - ekolojia  
 ekran - ekran  
 ekskrement, gówno - kake  
 eksplodować (wybuchnąć, wybuchać) - bumu  
-eksportować (wyeksportować) - eksomisa  
+eksportować (wyeksportować) - vaimisa  
 Ekwador - Ekuador  
 elastyczny - lasti  
 elegancki, szykowny - xiki  
@@ -591,7 +592,7 @@ emocja, uczucie - emos
 emocjonalny (uczuciowy) - emosi  
 emoji (emotkon) - emoje  
 emulować (symulować, naśladować, modelować) - samsifa  
-endonim - indonam  
+endonim - innam  
 energia - energe  
 energia nuklearna - kerni energe  
 enzym - enzim  
@@ -880,15 +881,15 @@ imperializm - imperistia
 imperium - imperia  
 Imperium Osmańskie - Osmani Imperia  
 Imperium Rzymskie - Roma Imperia  
-importować (zaimportować) - indomisa  
+importować (zaimportować) - inmisa  
 ind - hindem  
 indiański - aslameriki  
 Indie - Bartia  
 Indonezja - Indonesia  
 Indyjski - barti  
 indyk - dinde  
-infekcja (zakażenie) - infekse  
-informacja - informe  
+infekcja (zakażenie) - patomis  
+informacja - konsau  
 inny - ali  
 innymi słowy - alnamo  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tezi  
@@ -1197,7 +1198,7 @@ krowa - muh
 krwawić - lova sang  
 kryminalny, przestępczy - krimi  
 krypton - kriton  
-kryształ - kristal  
+kryształ - bilor  
 krytyk - pipinger  
 kryzys - krize  
 kryzysowy - krizi  
@@ -1225,7 +1226,7 @@ który? - ki
 Kuba - Kuba  
 kubek - kupe  
 kubek do herbaty - caikupe  
-kucać (kucnąć) - indosida  
+kucać (kucnąć) - insida  
 kucharz - kuker  
 kuchnia - kukokamar  
 kukurydza - mais  
@@ -1644,7 +1645,7 @@ nawóz - caniver
 nazista - naziste  
 nazizm - nazistia  
 nazwa użytkownika - uzernam  
-nazwać, nazywać, wezwać, wzywać - namita  
+nazwać, nazywać, wezwać, wzywać - namana  
 nazwisko, imię rodziny - familnam  
 naładować, załadować, obładować, ładować - lada  
 negatywny (przeciwny, nie) - ani  
@@ -1747,9 +1748,9 @@ obiecujący (dobrze wróżący) - bonsinyi
 obniżać (obniżyć) - tala  
 obozowicz - kampe  
 obrabować, splądrować - luta  
-obraza (obelga) - insulte  
+obraza (obelga) - dusnam  
 obraza, obelga - ninde  
-obrazić - insulta  
+obrazić - dusnamana  
 obrazowy, graficzny; opisowy - grafi  
 obrać (obierać) - tira pil  
 obraźliwy, niemiły, obelżywy - nindi  
@@ -1982,7 +1983,7 @@ pierścień - ring
 pierścień, pierścionek; obrączka - ungloring  
 pies - vaf  
 pień - mokotan  
-piknik - eksyam  
+piknik - vaiyam  
 pilaw - polau  
 pilot - piloter  
 pingwin - pinguin  
@@ -2062,7 +2063,7 @@ poemat - xir
 poeta - xirer  
 pogoda - samaihal  
 pogrubiona litera - grosi harfe  
-poinformować, informować, zakomunikować, komunikować - informa  
+poinformować, informować, zakomunikować, komunikować - konsavana  
 pojawić się - zayu  
 pojęciowy - ideyi  
 pokaz, ekspozycja, wystawa - xou  
@@ -2436,7 +2437,7 @@ rotor, wirnik - roter
 rower - sikle  
 rower z pedałami - pedalsikle  
 rowerzysta - sikliste  
-rozciągać (rozciągnąć) - eksotira  
+rozciągać (rozciągnąć) - tirlonga  
 rozdział, sekcja - babe  
 rozjaśnić - minga  
 rozkaz, komenda - amir  
@@ -3100,7 +3101,7 @@ wersja (wariacja, edycja, wydanie) - version
 wesoły, ucieszony - suki  
 wesprzeć (wzmocnić, zasilić) - maxforta  
 wewnętrzny - indi  
-wewnętrzny - indojeni  
+wewnętrzny - injeni  
 wełna (runo owcze) - mehi kex  
 wiadomość - anjil  
 wiadomość, nius - habar  
@@ -3168,7 +3169,7 @@ więzienie, zakład karny - prizonkan
 wiśnia (czereśnia) - cerize  
 wkrótce - suno  
 wnieć wkład (przyczynić się) - fendona  
-wnętrze (środek) - inde  
+wnętrze (środek) - in  
 woda - sui  
 woda mineralna - kuangosui  
 wodny - suyi  
@@ -3243,7 +3244,7 @@ wynik (punktacja) - puntonumbe
 wyobrazić, wyobrażać, fantazjować - fantaza  
 wypełnić, wypełniać - pura  
 wyrok - jude  
-wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - eksa  
+wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - vaya  
 wyrzutek - parai  
 wyrzutnia rakietowa - roketolancer  
 wysoki - gavi  
@@ -3312,8 +3313,8 @@ zachwyt (zdumienie) - ajabia
 zachód - veste  
 zaczyna (zacząć, rozpoczynać, rozpocząć) - xuru  
 zacząć, zaczynać - xura  
-zagranica - eksodex  
-zagraniczny - eksodexi  
+zagranica - vaidex  
+zagraniczny - vaidexi  
 zagrożenie, niebezpieczeństwo - hatre  
 zaimek - visloge  
 zainteresowanie, zaciekawienie; interesujący - interes  
@@ -3405,7 +3406,7 @@ zejść (schodzić, zstąpić, zstępować) - aneskala
 zemleć (mleć, mielić) - mola  
 zero, nic, żaden - nol (noli)  
 zespół (drużyna, grupa) - bande  
-zewnętrzny - eksi  
+zewnętrzny - vayi  
 zgniły - pudi  
 zgodzić się (umówić się) - trata  
 ziarno (nasienie) - sem  
@@ -3463,7 +3464,7 @@ zwykły, zwyczajny, prosty - sadi
 zygzag - zigzage  
 zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  
-zęwnętrzny - ekse  
+zęwnętrzny - vai  
 złamanie lini - linyoparce  
 złapać, łapać, schwytać, chwytać - kapa  
 złocień indyjski - neftoguke  
@@ -3503,7 +3504,7 @@ zły, zrujnowany, zepsuty - harabi
 łąka - cautopia  
 Święta Helena - Santi Helena  
 ścieżka (droga, szlak, kurs) - rute  
-ścisnąć (sciskać, wycisnąć) - indo puxa  
+ścisnąć (sciskać, wycisnąć) - inpuxa  
 ściągać (ściągnąć, pobrać, pobierać) - netogeta  
 śliwka - plum  
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glisu  

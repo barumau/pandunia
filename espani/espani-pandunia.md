@@ -73,7 +73,7 @@ afecto (emoción) - emos
 Afganistán - Afgania  
 afgano - afgani  
 africano - Afriki  
-agacharse - indosida  
+agacharse - insida  
 agente - ater  
 agitar (sacudir) - sisma  
 agorafobia - maidanfobia  
@@ -347,7 +347,7 @@ Barbuda - Barbuda
 barco (bote) - bote  
 bario - barem  
 barra (vara, palo) - baton  
-barra de chocolate - cokolatobaton  
+barra de chocolate - coklatobaton  
 barrar (bloquear, obstruir) - barya  
 barrera (barda) - baryer  
 barriga (vientre, panza) - pete  
@@ -639,7 +639,7 @@ Chipre - Kipris
 Chipre del Norte - Nordi Kipris  
 chisporrotear - ziza  
 chito (chist) - xuxo  
-chocolate - cokolate  
+chocolate - coklate  
 choque (sacudida) - xoke  
 chorrear - lova  
 chupar (succionar) - cupa  
@@ -748,6 +748,7 @@ comprar - xopa
 compras (shopping) - xope  
 comprensión (entendimiento) - bude  
 computadora (ordenador) - komputer  
+comunicar (informar) - konsavana  
 comunismo - koncanistia  
 comunista - koncaniste  
 comunitario - komuni  
@@ -850,7 +851,7 @@ criminal - krimi
 criptón (kriptón) - kriton  
 crisantemo - guke  
 crisis - krize  
-cristal - kristal  
+cristal - bilor  
 cristianismo - krististia  
 cristiano - krististe  
 Cristo (mesías) - kriste  
@@ -996,6 +997,7 @@ destinar - gola
 destino - cenamen  
 detalle - detal  
 detestar - anama  
+devanágari - deunagri harfe  
 devolver (vomitar) - retrogula  
 diagonal - transogoni  
 diamante - almas  
@@ -1144,7 +1146,7 @@ encontrarse (estar, situarse) - loku
 encurtido - sirkopurxipi  
 encurtir - sirkopurxipa  
 enderezar (poner recto) - orta  
-endónimo - indonam  
+endónimo - innam  
 enemigo - dusjan  
 energía - energe  
 energía nuclear - kerni energe  
@@ -1251,7 +1253,7 @@ estar de pie - libu
 estar en contra - kontra  
 estaño - estan  
 estimar (apriximarse a) - yaga  
-estirar (extender) - eksotira  
+estirar (extender) - tirlonga  
 esto - ce  
 esto - ci  
 Estonia - Estia  
@@ -1287,13 +1289,13 @@ explorador (navegador) - brauzer
 explorar - brauza  
 explosión (estallado) - bum  
 explotar (estallar) - bumu  
-exportar - eksomisa  
+exportar - vaimisa  
 exposición (espectáculo) - xou  
-expulsar (exceptuar, excepto) - eksa  
-exterior - ekse  
-exterior - eksi  
-extranjero - eksodexi  
-exónimo - eksonam  
+expulsar (exceptuar, excepto) - vaya  
+exterior - vai  
+exterior - vayi  
+extranjero - vaidexi  
+exónimo - vainam  
 ####F - F  
 facilidad - fasilia  
 falda - jupe  
@@ -1654,7 +1656,7 @@ impermeable (sumergible) - suisekuri
 impermeable - barxokote  
 importante - hami  
 importar - hamu  
-importar - indomisa  
+importar - inmisa  
 imprimir - capa  
 impuesto (tributo, tarifa) - tarif  
 imán - magete  
@@ -1669,27 +1671,29 @@ Indonesia - Indonesia
 Indostán - Hindia  
 indígena (indio) - aslameriki  
 inequívoco - unmeni  
-infección - infekse  
+infección (contagio) - patomis  
+infectar (contagiar) - patomisa  
 inferior - nici  
 infiel (descreído) - andiniste  
 infierno - narake  
 inflamación - itis  
-información - informe  
-informar (comunicar) - informa  
+información - konsau  
 informe (reporte, noticia) - reporte  
 infortunio (mala suerte) - mal zar  
 ingeniero - injener  
 Inglaterra - Englia  
 inglés - engli  
-innato (endógeno) - indojeni  
+inmigrante - inmigran  
+inmigrar - inmigra  
+innato (endógeno) - injeni  
 innecesario - anyavi  
 inodoro (wáter, retrete) - tualete  
 insecto - koncung  
 insomnio - ansomia  
 instrucciones (receta) - resete  
 instrumento de arco - ticin  
-insultar (ofender) - insulta  
-insulto (ofensa) - insulte  
+insultar (ofender) - dusnamana  
+insulto (ofensa) - dusnam  
 insulto (ofensa, afrenta) - ninde  
 intenso (brusco, ácido, fuerte, afilado, rápido) - tezi  
 intentar (probar) - testa  
@@ -1697,7 +1701,7 @@ intercambiar (canjear) - badla
 interesante - interesi  
 interfaz de línea de comandos - amirlinye  
 interior (interno) - indi  
-interior - inde  
+interior - in  
 internacional - nasmedi  
 Internet - internete  
 interracial - rasmedi  
@@ -1763,7 +1767,7 @@ jazz - jaze
 jefe - xef  
 Jersey - Jerze  
 Jesús - Yesus  
-jira (pícnic) - eksyam  
+jira (pícnic) - vaiyam  
 jirafa - jiraf  
 joder (coger, copular) - coda  
 Jordania - Urdun  
@@ -1903,8 +1907,8 @@ Lituania - Lietuva
 lituano - lietuva bax  
 livermorio - livermorem  
 llama - liama\*  
-llamar (poner) - namita  
-llamarse - namu  
+llamar (poner) - namana  
+llamarse - nama  
 llanura - platotopia  
 llave - cabe  
 llenar - pura  
@@ -2488,7 +2492,7 @@ pausa - pauze
 pavo (guajalote) - dinde  
 paz - pace  
 país (nación, estado, terra) - dex  
-país extranjero - eksodex  
+país extranjero - vaidex  
 Países Bajos - Nederlandia  
 pecado - duskar  
 pecho (busto) - buste  

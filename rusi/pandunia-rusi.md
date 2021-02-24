@@ -209,7 +209,7 @@ circiri - изорванный
 cirkoxeke - булыжник  
 cize - сыр  
 coi - зелень  
-cokolate - шоколад  
+coklate - шоколад  
 cope - мотыга  
 ####D - D  
 daidom - дворец (особняк)  
@@ -234,6 +234,7 @@ defban - щит
 defkaske - доспехи  
 den - день  
 deu - бог  
+deunagri harfe - деванагари  
 deusofia - теософия  
 dika - целиться  
 dike - цель  
@@ -273,9 +274,6 @@ dux - душ
 ####E - E  
 ekojeni - дикий  
 ekor - белка  
-eksa - выгнать (исключить, кроме)  
-eksyam - пикник  
-eksotira - вытянуть  
 eletrolinye - провод (кабель)  
 eletrorade - молния  
 em - элемент  
@@ -448,7 +446,9 @@ yauxinabli - верный
 yauxinablia - верность  
 Yemen - Йемен  
 Yesus - Иисус  
-indosida - сесть на корточки  
+inmigra - иммигрировать  
+inmigran - иммигрант  
+insida - сесть на корточки  
 insan - человек  
 insani hake - права человека  
 insaniki - человечный  
@@ -594,7 +594,7 @@ krake - щель (трещина)
 kran - кран  
 krepe - блин  
 krevete - креветка  
-kristal - кристалл  
+bilor - кристалл  
 krokodil - крокодил  
 krokroke - лягушка  
 krote - крот  
@@ -832,6 +832,7 @@ pasporte - паспорт
 patike - пациент (больной)  
 patojener - патоген  
 patolojia - патология  
+patomis - инфекция (заразная болезнь)  
 pau - пистолет  
 pava - стрелять  
 pauze - пауза  
@@ -859,6 +860,7 @@ pexosaider - рыбак (рыболов)
 piaze - лук  
 pike - вершина  
 pin - булавка (игла, шип)  
+pinani - пикантный  
 pincope - киркомотыга  
 pinkardon - татарник колючий  
 pinsoban - планшет  
@@ -1052,6 +1054,7 @@ tira milke - тянуть
 tira pil - ободрать  
 tirbaton - рычаг  
 tirdar - отбойное течение  
+tirlonga - вытянуть  
 toca - касаться  
 tomate - помидор (томат)  
 topograf - топография  
@@ -1067,6 +1070,10 @@ vadosusan - ландыш
 vaf - собака  
 vagin - влагалище (вагина)  
 vaginitis - вагинит  
+vai - вне  
+vaya - выгнать (исключить, кроме)  
+vaiyam - пикник  
+vaijan - посторонний (аутсайдер)  
 val - ценность  
 vala - оценивать  
 vampir - вампир (упырь)  

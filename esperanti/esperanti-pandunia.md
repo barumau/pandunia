@@ -340,8 +340,8 @@ ejo (ujo, io) - -ia
 ejo - aria  
 ekrano - ekran  
 eksa- - eksa\*  
-ekstera - eksi  
-ekstero - ekse  
+ekstera - vayi  
+ekstero - vai  
 Ekvadoro - Ekuador  
 ekzemple - misalo  
 ekzemplo - misal  
@@ -364,7 +364,7 @@ emocii - emosu
 emocio - emos  
 ena - indi  
 energio - energe  
-eno - inde  
+eno - in  
 enterigi - gabra  
 enui - bori  
 enuo - boria  
@@ -482,7 +482,7 @@ Francio - Fransia
 franciumo - fransem  
 frato aŭ fratino - saudar  
 fremda (nekonata) - ansavi  
-fremda lando - eksodex  
+fremda lando - vaidex  
 freneza - foli  
 frenezeco - folia  
 freŝa - tazi  
@@ -622,8 +622,8 @@ indio - hindem
 Indonezio - Indonesia  
 Induso - Hindonade  
 infano - bace  
-infekto - infekse  
-informacio - informe  
+infekto - patomis  
+informacio - konsau  
 inko - moge  
 ino - fem  
 instrui - xulana  
@@ -835,7 +835,7 @@ kristnasko - kristojen
 kristo - kriste  
 krizo - krize  
 Kroatio - Horvatia  
-krom (escepti) - eksa  
+krom (escepti) - vaya  
 kromo - kromem  
 krono - koron  
 kruco - krus  
@@ -1741,8 +1741,8 @@ zuluo - Zulu
 ĉirkaŭi - cirka  
 ĉiu - pan (pani)  
 ĉiu(j) - mei  
-ĉokolado - cokolate  
-ĉokolado - cokolatobaton  
+ĉokolado - coklate  
+ĉokolado - coklatobaton  
 ĉu? - he  
 Ĝajnismo - jeinistia  
 ĝelo - jel  

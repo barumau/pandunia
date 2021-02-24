@@ -554,8 +554,8 @@ citomarke - quotation mark
 cize - cheese  
 coda - fuck (copulate)  
 coi - greens  
-cokolate - chocolate  
-cokolatobaton - chocolate bar  
+coklate - chocolate  
+coklatobaton - chocolate bar  
 Congcing - Chongqing  
 cope - hoe  
 cor - theft  
@@ -678,6 +678,7 @@ deviste - theist
 devistia - theism  
 deukratia - theocracy  
 deulojia - theology  
+deunagri harfe - Devanagari alphabet  
 deusage - myth (divine story)  
 deusofia - theosophy  
 dex - country (land, state)  
@@ -774,6 +775,8 @@ dusdevistia - dystheism (maltheism)
 dushal - hardship (difficulty, challenge)  
 dusjan - enemy (foe, villain)  
 duskar - misdeed (sin, vice)  
+dusnam - insult (offense)  
+dusnamana - insult (offend, call names)  
 dustopia - dystopia  
 dusvidi - ugly (unsightly)  
 dute - doubt (disbelief)  
@@ -791,15 +794,6 @@ ekojeni - wild (savage)
 ekolojia - ecology (study of environment)  
 ekor - squirrel  
 ekran - screen  
-eksa - oust (expel, exclude, except, save)  
-ekse - extérieur  
-eksi - outer (external)  
-eksyam - picnic  
-eksodex - foreign country  
-eksodexi - foreign  
-eksomisa - export  
-eksonam - exonym  
-eksotira - stretch (extend)  
 eksa\* - exa-  
 Ekuador - Ecuador  
 eletre - electricity  
@@ -1413,18 +1407,17 @@ imperia - empire
 imperer - emperor  
 imperiste - imperialist  
 imperistia - imperialism  
+in - inside (interior)  
 inda - contain (include)  
-inde - inside (interior)  
 indi - inner (internal)  
-indo puxa - squeeze (squish)  
-indojeni - innate (endogenous, indigenous, inborn)  
-indomisa - import  
-indonam - endonym  
-indosida - crouch (squat)  
+injeni - innate (endogenous, indigenous, inborn)  
+inmigra - immigrate (move in)  
+inmigran - immigrant  
+inmisa - import  
+innam - endonym  
+inpuxa - squeeze (squish)  
+insida - crouch (squat)  
 Indonesia - Indonesia  
-infekse - infection (infestation)  
-informa - inform (communicate)  
-informe - information  
 injener - engineer  
 insan - human being  
 insani hake - human rights  
@@ -1433,8 +1426,6 @@ insaniki - humane
 insaniste - humanist  
 insanisti - humanistic  
 insanistia - humanism  
-insulta - insult (offend)  
-insulte - insult (offense)  
 internete - internet  
 interes - interest  
 interesi - interesting  
@@ -1828,6 +1819,8 @@ konformu - conform (fit, mold)
 konfuncabli - compatible (supported)  
 konkara - collaborate (work together)  
 konpaxia - compassion  
+konsau - information (communicable knowledge)  
+konsavana - communicate (inform about)  
 konsela - give consultation  
 konseler - counselor (consultant)  
 kontena - contain (hold together)  
@@ -1886,7 +1879,7 @@ kristi - messianic
 krististe - Christian  
 krististia - Christianity  
 kristojen - Christmas  
-kristal - crystal  
+bilor - crystal  
 krita - cry (shout)  
 kriton - krypton  
 krize - crisis  
@@ -2414,8 +2407,8 @@ najisa - corrupt (pollute, soil, defile, stain, taint)
 najisi - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
 najisbinde - stain (spot)  
 nam - name  
-namu - be called (be named)  
-namita - call (name)  
+nama - be called (be named)  
+namana - call (name)  
 namkitaba - sign (autograph)  
 namloge - noun  
 Namibia - Namibia  
@@ -2688,6 +2681,8 @@ patia - sickness (illness, disease)
 patike - patient (subject of medical treatment)  
 patojener - pathogen  
 patolojia - pathology  
+patomis - infection (infestation, contagion)  
+patomisa - infect  
 patate - potato  
 pau - gun (firearm)  
 pava - shoot (fire)  
@@ -2739,6 +2734,7 @@ pil - skin (peel, bark, leather)
 piloter - pilot  
 pin - needle (pin, splinter, prickle, thorn, stinger, spine, quill)  
 pina - prick (sting)  
+pinani - piquant  
 pincope - pickaxe  
 pinkardon - cotton thistle  
 pinguin - penguin  
@@ -2927,7 +2923,7 @@ razonu - make sense
 Rea - Rhea  
 rebel - rebellion  
 reda - prepare (make ready)  
-redi - ready  
+redi - ready (prepared)  
 rege - sand  
 regopetre - sandstone  
 regotopia - desert  
@@ -3427,6 +3423,7 @@ tira milke - milk (draw milk)
 tira pil - strip (peel)  
 tirbaton - lever  
 tirdar - rip current  
+tirlonga - stretch (extend)  
 tirsanduke - drawer  
 Titan - Titan  
 Titania - Titania  
@@ -3489,6 +3486,15 @@ vadosusan - lily of the valley
 vaf - dog  
 vagin - vagina  
 vaginitis - vaginitis  
+vai - extérieur  
+vaya - oust (expel, exclude, except, save)  
+vayi - outer (external)  
+vaidex - foreign country  
+vaidexi - foreign  
+vaiyam - picnic  
+vaijan - outsider  
+vaimisa - export  
+vainam - exonym  
 vakil - representative (proxy, agent)  
 vakila - represent  
 vaksin - vaccine  

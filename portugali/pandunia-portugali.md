@@ -180,8 +180,8 @@ cira - rasgar
 circiri - esfarrapado  
 cize - queijo  
 coi - verdura  
-cokolate - chocolate  
-cokolatobaton - barra de chocolate  
+coklate - chocolate  
+coklatobaton - barra de chocolate  
 cope - enxada  
 cuzable - opção  
 ####D - D  
@@ -206,6 +206,7 @@ defban - escudo
 defkaske - armadura  
 den - dia  
 deu - deus  
+deunagri harfe - devanágari  
 deusofia - teosofia  
 dika - mirar (apontar)  
 dike - objetivo  
@@ -238,9 +239,6 @@ dux - ducha
 ####E - E  
 e - e  
 ekor - esquilo  
-ekse - вне  
-eksyam - piquenique  
-eksotira - estirar  
 eletre - eletricidade  
 em - elemento  
 emoje - emoticon (emoji)  
@@ -397,8 +395,9 @@ yavi - necessitado
 yavu - necessitar  
 yavan - necessário  
 yauxina - confiar (contar com)  
-indosida - agacharse  
-infekse - infecção  
+inmigra - imigrar  
+inmigran - imigrante  
+insida - agacharse  
 insan - ser humano  
 insani hake - direitos humanos  
 insaniki - humano  
@@ -529,7 +528,7 @@ krake - rachadura
 krem - crème  
 krepe - crepe (panqueca)  
 krevete - camarão  
-kristal - cristal  
+bilor - cristal  
 krokodil - crocodiliano  
 krokroke - rã  
 krote - toupeira  
@@ -755,6 +754,8 @@ paste - pasta
 patike - paciente  
 patojener - patógeno  
 patolojia - patologia  
+patomis - infecção (contágio)  
+patomisa - infectar (contagiar)  
 pau - arma de fogo  
 pauze - pausa  
 peda - peidar  
@@ -927,6 +928,7 @@ teste - teste
 tex - fazenda (tecido)  
 texmaxin - tear  
 tikete - bilhete  
+tirlonga - estirar  
 tomate - tomate  
 topograf - topografia  
 tova - arrastar  
@@ -942,6 +944,7 @@ vadosusan - lírio-do-vale
 vaf - cão (cachorro)  
 vagin - vagina  
 vaginitis - vaginite  
+vaiyam - piquenique  
 val - valor (valia)  
 vala - valorar  
 valu - valer  

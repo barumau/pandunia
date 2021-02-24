@@ -330,8 +330,8 @@ cir - déchirer
 cira - déchirer  
 cirkoxeke - pavé  
 cize - fromage  
-cokolate - chocolat  
-cokolatobaton - tablette de chocolat  
+coklate - chocolat  
+coklatobaton - tablette de chocolat  
 cope - houe  
 cuzable - option  
 ####D - D  
@@ -358,6 +358,7 @@ defban - bouclire
 defkaske - armure  
 den - jour  
 deu - dieu  
+deunagri harfe - dévanagari  
 deusofia - théosophie  
 dika - viser  
 dike - objectif (cible)  
@@ -399,9 +400,6 @@ dux - douche
 e - et  
 ekojeni - sauvage  
 ekor - écureuil  
-ekse - fuera (exterior)  
-eksyam - piquenique  
-eksotira - tender  
 eletre - électricité  
 em - élément (unité fondamentale)  
 emoje - émoticône (emoji)  
@@ -584,7 +582,9 @@ yavu - avoir besoin de
 yavan - nécessaire  
 yauxina - fier  
 Yesus - Jésus  
-indosida - s’accroupir  
+inmigra - immigrer  
+inmigran - immigrant  
+insida - s’accroupir  
 insan - être humain  
 insani hake - droits de l'homme  
 insaniki - humain  
@@ -727,7 +727,7 @@ krem - crème
 krepe - crêpe  
 kreperia - crêperie  
 krevete - crevette  
-kristal - cristal  
+bilor - cristal  
 krokodil - crocodilien  
 krokroke - grenouille  
 krote - taupe  
@@ -969,6 +969,8 @@ pastopetre - magma
 patike - patient  
 patojener - agent pathogène  
 patolojia - pathologie  
+patomis - infection (contagion)  
+patomisa - infecter  
 pau - pistolet  
 pauze - pause  
 peda - péter  
@@ -990,6 +992,7 @@ pexosaider - pêcheur
 piaze - oignon  
 pike - cime (pic, sommet)  
 pin - épingle  
+pinani - piquant  
 pincope - pioche  
 pinkardon - chardon aux ânes  
 pinsoban - porte-bloc (planchette à pince)  
@@ -1181,6 +1184,7 @@ tikete - billet
 tim - équipe  
 tira milke - tirer  
 tira pil - écorce  
+tirlonga - tender  
 toca - toucher  
 tomate - tomate  
 topograf - topographie  
@@ -1198,6 +1202,8 @@ vade - vallée (oued)
 vaf - chien  
 vagin - vagine  
 vaginitis - vaginite  
+vai - fuera (exterior)  
+vaiyam - piquenique  
 val - valeur  
 vala - évaluer  
 vampir - vampire  

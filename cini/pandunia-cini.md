@@ -190,8 +190,8 @@ circira - 撕毁
 circiri - 褴褛的  
 cirkoxeke - 鹅卵石  
 cize - 酪 (起司)  
-cokolate - 巧克力  
-cokolatobaton - 巧克力棒  
+coklate - 巧克力  
+coklatobaton - 巧克力棒  
 Congcing - 重庆  
 cope - 锄头  
 cuzable - 选择 (买卖权)  
@@ -215,6 +215,7 @@ defban - 盾牌
 defkaske - 盔甲  
 den - 白天  
 deu - 神  
+deunagri harfe - 天城文  
 dexojan - 公民  
 dika - 瞄准  
 dike - 目的 (目标)  
@@ -247,9 +248,6 @@ dux - 淋浴
 ####E - E  
 e - 和  
 ekor - 松鼠  
-ekse - 外  
-eksyam - 野餐  
-eksotira - 拉  
 eletrolinye - 电缆 (电线)  
 eletrorade - 闪电  
 emoje - 绘文字  
@@ -405,7 +403,9 @@ yavan - 必要的
 yauxina - 信赖  
 yauxinabli - 忠实  
 iki - 的  
-indosida - 蹲  
+inmigra - 移民 (移居)  
+inmigran - 移民者  
+insida - 蹲  
 insan - 人类  
 insani hake - 人权  
 insanistia - 人文主义  
@@ -753,6 +753,7 @@ pastopetre - 岩漿
 patike - 患者 (病患)  
 patojener - 病原体  
 patolojia - 病理学  
+patomis - 传染  
 pau - 手枪  
 pax - 疼痛  
 peda - 放屁  
@@ -936,6 +937,7 @@ tim - 队
 tira milke - 拉  
 tira pil - 削 (刮去)  
 tirbaton - 杆  
+tirlonga - 拉  
 toca - 接触  
 tomate - 西红柿  
 topograf - 地形  
@@ -951,6 +953,9 @@ vade - 山谷
 vadosusan - 鈴蘭  
 vaf - 狗  
 vagin - 阴道  
+vai - 外  
+vaiyam - 野餐  
+vaijan - 外人 (局外人)  
 val - 价值  
 vampir - 吸血鬼  
 van - 娱乐  

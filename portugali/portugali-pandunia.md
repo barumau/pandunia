@@ -17,7 +17,7 @@ aeite (óleo) - nefte
 aeroporto - airporte  
 Afeganistão - Afgania  
 afegão - afgani  
-agacharse - indosida  
+agacharse - insida  
 agente - ater  
 agressor - agreser  
 ai! - ai  
@@ -101,7 +101,7 @@ bando - bande
 banqueiro - banker  
 barba - barde  
 barco (navio) - bote  
-barra de chocolate - cokolatobaton  
+barra de chocolate - coklatobaton  
 barrar - barya  
 barreira - baryer  
 base (álcali) - alkal  
@@ -198,7 +198,7 @@ cheio - puri
 cheirar - aromu  
 cheiro - arom  
 China - Junguo  
-chocolate - cokolate  
+chocolate - coklate  
 chuva - barxe  
 chuvoso (pluvioso) - barxi  
 chá - cai  
@@ -251,7 +251,7 @@ crente - diniste
 crepe (panqueca) - krepe  
 crepe - fransi krepe  
 criança (menino) - bace  
-cristal - kristal  
+cristal - bilor  
 croassã - kruasante  
 crocodiliano - krokodil  
 crocodilo - longokrokodil  
@@ -285,6 +285,7 @@ deslizar - glisu
 despertar - jagu  
 destino - cenamen  
 deus - deu  
+devanágari - deunagri harfe  
 dever - debu  
 dia - den  
 diamante - almas  
@@ -361,7 +362,7 @@ estanho - estan
 estar deitado (jazer) - kuxu  
 estação (sazão) - mosim  
 este (leste) - dong  
-estirar - eksotira  
+estirar - tirlonga  
 etimologia - logaslia  
 etnia - zuke  
 eu (me) - me  
@@ -467,10 +468,13 @@ idade - umur
 idoso - lavi  
 igual (par) - pari  
 igual - sami  
+imigrante - inmigran  
+imigrar - inmigra  
 importante - hami  
 Indo - Hindonade  
 indígena (índio) - aslameriki  
-infecção - infekse  
+infectar (contagiar) - patomisa  
+infecção (contágio) - patomis  
 infiel - andiniste  
 inflamaçao - itis  
 inimigo - dusjan  
@@ -741,7 +745,7 @@ pilha (bateria) - batre
 pimenta - pipre  
 pinheiro - song  
 pintura - pente  
-piquenique - eksyam  
+piquenique - vaiyam  
 pirataria - piratia  
 plano - plan  
 planta (vegetal) - fite  
@@ -1025,5 +1029,4 @@ zumbi - zombe
 étnico - zuki  
 óxide - okside  
 único (só) - uniki  
-вне - ekse  
 торговать - vendoxopa  

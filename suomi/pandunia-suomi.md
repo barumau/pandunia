@@ -518,8 +518,8 @@ citomarke - lainausmerkki
 cize - juusto  
 coda - nussia (panna)  
 coi - vihannes  
-cokolate - suklaa  
-cokolatobaton - suklaapatukka  
+coklate - suklaa  
+coklatobaton - suklaapatukka  
 Congcing - Chongqing  
 cope - kuokka  
 cor - varkaus  
@@ -638,6 +638,7 @@ deviste - teisti
 devistia - teismi (jumalusko)  
 deukratia - teokratia  
 deulojia - teologia  
+deunagri harfe - devanagari  
 deusage - jumaltaru (myytti)  
 deusofia - teosofia  
 dex - maa (valtio)  
@@ -728,6 +729,8 @@ dusdevistia - dysteismi (usko jumalan pahuuteen)
 dushal - vaikeus (hankaluus)  
 dusjan - vihollinen  
 duskar - synti (paha teko)  
+dusnam - loukkaus (herja)  
+dusnamana - solvata (loukata)  
 dustopia - dystopia  
 dusvidi - ruma (pahannäköinen)  
 dute - epäilys  
@@ -744,14 +747,6 @@ ekojeni - villi (villinä syntynyt)
 ekolojia - ekologia (ympäristötiede)  
 ekor - orava  
 ekran - kuvaruutu  
-eksa - poistaa (paitsi, poislukien)  
-ekse - ulkopuoli  
-eksi - ulko- (ulkoinen)  
-eksyam - eväsretki (piknik)  
-eksodex - ulkomaa  
-eksodexi - ulkomaalainen  
-eksomisa - viedä pois (viedä maasta)  
-eksonam - eksonyymi  
 eksa\* - eksa-  
 Ekuador - Ecuador  
 eletre - sähkö  
@@ -1306,14 +1301,13 @@ imperia - keisarikunta
 imperer - keisari  
 imperiste - imperialisti  
 imperistia - imperialismi  
-inde - sisus (sisäpuoli)  
+in - sisus (sisäpuoli)  
 indi - sisä- (sisäinen)  
-indojeni - sisäsyntyinen  
-indonam - endonyymi (omakielinen nimi)  
+injeni - sisäsyntyinen  
+inmigra - muuttaa maahan  
+inmigran - maahanmuuttaja  
+innam - endonyymi (omakielinen nimi)  
 Indonesia - Indonesia  
-infekse - infektio (tartunta)  
-informa - tiedottaa (informoida)  
-informe - tieto (info)  
 injener - insinööri  
 insan - ihminen  
 insani hake - ihmisoikeudet  
@@ -1322,8 +1316,6 @@ insaniki - inhimillinen
 insaniste - humanisti  
 insanisti - humanistinen  
 insanistia - humanismi  
-insulta - solvata (loukata)  
-insulte - loukkaus (herja)  
 internete - internet  
 interes - kiinnostus (mielenkiinto)  
 inxala - toivoa  
@@ -1659,6 +1651,8 @@ konboni - sopia
 koncaniste - kommunisti  
 koncanistia - kommunismi  
 konkara - tehdä yhteistyötä  
+konsau - tieto  
+konsavana - tiedottaa (informoida)  
 konsela - konsultoida (antaa neuvoja)  
 konseler - konsultti  
 kontena - pitää yhdessä  
@@ -2135,8 +2129,8 @@ nagre - kaupunki
 nahun - kynsi  
 Naijiria - Nigeria  
 nam - nimi  
-namu - olla nimeltään  
-namita - nimittää (kutsua)  
+nama - olla nimeltään  
+namana - nimittää (kutsua)  
 namloge - substantiivi (nimisana)  
 Namibia - Namibia  
 nanas - ananas  
@@ -2372,6 +2366,7 @@ patia - sairaus
 patike - potilas  
 patojener - patogeeni  
 patolojia - patologia (tautioppi)  
+patomis - infektio (tartunta)  
 patate - peruna (potaatti)  
 pau - pyssy  
 paunde - punta  
@@ -2417,6 +2412,7 @@ pil - nahka (kuori, iho)
 piloter - ohjaaja (pilotti, luotsi)  
 pin - piikki (pistin, neula)  
 pina - pistää (piikittää)  
+pinani - pisteliäs (pikantti)  
 pinguin - pingviini  
 pinser - pihdit  
 pipe - piippu  
@@ -3027,6 +3023,15 @@ vade - laakso
 vaf - koira  
 vagin - emätin (vagina)  
 vaginitis - emätintulehdus  
+vai - ulkopuoli  
+vaya - poistaa (paitsi, poislukien)  
+vayi - ulko- (ulkoinen)  
+vaidex - ulkomaa  
+vaidexi - ulkomaalainen  
+vaiyam - eväsretki (piknik)  
+vaijan - ulkopuolinen  
+vaimisa - viedä pois (viedä maasta)  
+vainam - eksonyymi  
 vakila - edustaa  
 vaksin - rokote  
 val - arvo  

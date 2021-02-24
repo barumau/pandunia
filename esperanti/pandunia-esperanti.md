@@ -313,8 +313,8 @@ cirka - ĉirkaŭi
 cita - citi  
 cize - fromaĝo  
 coda - fiki  
-cokolate - ĉokolado  
-cokolatobaton - ĉokolado  
+coklate - ĉokolado  
+coklatobaton - ĉokolado  
 cor - ŝtelo  
 cora - ŝteli  
 corer - ŝtelisto  
@@ -443,10 +443,6 @@ eglis - preĝejo
 ekia - naturo  
 ekor - sciuro  
 ekran - ekrano  
-eksa - krom (escepti)  
-ekse - ekstero  
-eksi - ekstera  
-eksodex - fremda lando  
 eksa\* - eksa-  
 Ekuador - Ekvadoro  
 eletre - elektro  
@@ -768,11 +764,9 @@ Yemen - Jemeno
 Yesus - Jesuo  
 yeze - kokoso  
 iyon - iono  
-inde - eno  
+in - eno  
 indi - ena  
 Indonesia - Indonezio  
-infekse - infekto  
-informe - informacio  
 insan - homo  
 insani hake - homaj rajtoj  
 insania - homaro  
@@ -972,6 +966,7 @@ konboni - kongrui
 koncaniste - komunisto  
 koncanistia - komunismo  
 konkara - kunlabori  
+konsau - informacio  
 Kongfuze - Konfuceo  
 konserte - koncerto  
 kontra - kontraŭ  
@@ -1318,6 +1313,7 @@ pasporte - pasporto
 pati - malsana  
 patike - paciento  
 patolojia - patologio  
+patomis - infekto  
 patate - terpomo  
 pau - fusilo  
 pede - furzo  
@@ -1657,6 +1653,10 @@ vade - valo
 vaf - hundo  
 vagin - vagino  
 vaginitis - vaginito  
+vai - ekstero  
+vaya - krom (escepti)  
+vayi - ekstera  
+vaidex - fremda lando  
 val - valoro  
 van - amuzo  
 vana - amuzi  

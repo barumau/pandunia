@@ -305,7 +305,7 @@ be against - kontra
 be beside (accompany) - lata  
 be born - jenu  
 be bothered by (bother to, take the trouble to) - mafanu  
-be called (be named) - namu  
+be called (be named) - nama  
 be located (lie, be situated) - loku  
 be seen - vidu  
 be worth - valu  
@@ -516,7 +516,7 @@ calendar - kalende
 californium - kalifornem  
 caliph - halif  
 caliphate - halifia  
-call (name) - namita  
+call (name) - namana  
 call on the phone - telfona  
 Callisto - Kalisto  
 calm (peaceful, quiet) - xanti  
@@ -628,8 +628,8 @@ chimpanzee - cimpanze
 China - Junguo  
 chinchilla - cincil  
 chlorine - klorem  
-chocolate - cokolate  
-chocolate bar - cokolatobaton  
+chocolate - coklate  
+chocolate bar - coklatobaton  
 choice (election, selection) - cuze  
 choir (chorus) - cantergrupe  
 cholera - holir  
@@ -726,6 +726,7 @@ common (general, universal) - putongi
 common (mutual) - koni  
 common (shared) - komuni  
 common language - konbax  
+communicate (inform about) - konsavana  
 communism - koncanistia  
 communist - koncaniste  
 Comoros - Komoro nesia  
@@ -832,12 +833,12 @@ cross (go across) - krusu
 cross - krus  
 crossbow (ballista) - krusarke  
 crosshair (reticle) - kruskorde  
-crouch (squat) - indosida  
+crouch (squat) - insida  
 crown - koron  
 crucify - krusfiksa  
 cruelty (tyranny, despotism) - zalimia  
 cry (shout) - krita  
-crystal - kristal  
+crystal - bilor  
 crêperie - kreperia  
 Cuba - Kuba  
 cube - kube  
@@ -931,6 +932,7 @@ despise (scorn) - paraya
 destine (set) - gola  
 destiny (fate) - cenamen  
 detail - detal  
+Devanagari alphabet - deunagri harfe  
 development - darjomute  
 devil (Satan) - xatan  
 devilish (satanic) - xatani  
@@ -1081,7 +1083,7 @@ encode (encrypt) - koda
 end (ending) - fin  
 end - finu  
 ended (finished) - fini  
-endonym - indonam  
+endonym - innam  
 enemy (foe, villain) - dusjan  
 enemy (unfriend) - andoste  
 enemy - anamike  
@@ -1149,7 +1151,7 @@ exercise - lenxe
 exist (be present) - zayu  
 exit (leaving) - cute  
 exit door - cutomun  
-exonym - eksonam  
+exonym - vainam  
 expect (anticipate, predict, forsee) - cenvida  
 expected - cenvidi  
 expensive (costly) - kosti  
@@ -1157,8 +1159,8 @@ explode (blow up) - bumu
 explore (browse) - brauza  
 explorer (browser) - brauzer  
 explosion (blast, eruption) - bum  
-export - eksomisa  
-extérieur - ekse  
+export - vaimisa  
+extérieur - vai  
 eye (look, watch) - oka  
 eye - oke  
 eyelash - okokex  
@@ -1275,8 +1277,8 @@ for example - misalo
 forbid (ban, disallow) - harama  
 forbidden (illicit, haram, taboo) - harami  
 force (strength, power) - fortia  
-foreign - eksodexi  
-foreign country - eksodex  
+foreign - vaidexi  
+foreign country - vaidex  
 forenoon - suboden  
 forest (woods, jungle) - jangle  
 forget - anmema  
@@ -1626,10 +1628,12 @@ illusion (hallucination) - falsvide
 illustrator (graphic artist) - grafer  
 image projector - lancografer  
 imagine (fantasize) - fantaza  
+immigrant - inmigran  
+immigrate (move in) - inmigra  
 impale (stab, skewer) - zonga  
 imperialism - imperistia  
 imperialist - imperiste  
-import - indomisa  
+import - inmisa  
 important - hami  
 imprison (jail) - prizona  
 increment - maxdarja  
@@ -1640,25 +1644,25 @@ Indian Ocean - Barti Hai
 indium - hindem  
 Indonesia - Indonesia  
 Indus river - Hindonade  
-infection (infestation) - infekse  
+infect - patomisa  
+infection (infestation, contagion) - patomis  
 infidel (pagan, heathen, unbeliever) - kafir  
 infinity - anlimitia  
 inflammation (-itis) - itis  
-inform (communicate) - informa  
-information - informe  
+information (communicable knowledge) - konsau  
 initial (first) - xuri  
 inject - juxa  
 injection - jux  
 ink - moge  
-innate (endogenous, indigenous, inborn) - indojeni  
+innate (endogenous, indigenous, inborn) - injeni  
 inner (internal) - indi  
 insect - koncung  
-inside (interior) - inde  
+inside (interior) - in  
 insomnia - ansomia  
 instructions (recipe) - resete  
 insult (offence) - ninde  
-insult (offend) - insulta  
-insult (offense) - insulte  
+insult (offend, call names) - dusnamana  
+insult (offense) - dusnam  
 intend (plan) - plana  
 intensify - tezu  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - tezi  
@@ -2390,9 +2394,10 @@ otter - lontre
 Ottoman - osman  
 Ottoman Empire - Osmani Imperia  
 ouch (ow, alas) - ai  
-oust (expel, exclude, except, save) - eksa  
+oust (expel, exclude, except, save) - vaya  
 outcast (pariah) - parai  
-outer (external) - eksi  
+outer (external) - vayi  
+outsider - vaijan  
 oven (furnace) - tanur  
 overpass - supre  
 own - malka  
@@ -2523,7 +2528,7 @@ piano - piano\*
 pickaxe - pincope  
 pickle (preserve in vinegar or brine) - sirkopurxipa  
 pickled - sirkopurxipi  
-picnic - eksyam  
+picnic - vaiyam  
 picture book - grafbuke  
 pidgin (contact language) - pijin  
 pie (pastry) - pai  
@@ -2539,6 +2544,7 @@ pineapple - nanas
 pink (rosy) - rozorangi  
 pink salmon - rozosalmon  
 pipe - pipe  
+piquant - pinani  
 piracy - piratia  
 pirate (one who disobeys intellectual property laws) - piratiste  
 pirate (sea robber) - pirater  
@@ -2756,7 +2762,7 @@ raw (crude) - jeni
 ray - rade  
 ray of light - fotorade  
 read - duga  
-ready - redi  
+ready (prepared) - redi  
 realization (awareness, enlightenment, bodhi) - bude  
 realize - buda  
 reason (cause) - sabe  
@@ -3175,7 +3181,7 @@ spring (springtime) - fulmosim
 spruce tree - pis  
 square (tetragon) - cargon  
 squash (pumpkin, gourd) - kaboge  
-squeeze (squish) - indo puxa  
+squeeze (squish) - inpuxa  
 squid (cuttlefish) - kalamar  
 squirrel - ekor  
 Sranan Tongo - surinami bax  
@@ -3219,7 +3225,7 @@ strange (unknown) - ansavi
 stray (deviant) - rutogalti  
 stray (deviate) - rutogalta  
 strengthen (reinforce) - forta  
-stretch (extend) - eksotira  
+stretch (extend) - tirlonga  
 strike (punch) - darba  
 strip (peel) - tira pil  
 strong - forti  

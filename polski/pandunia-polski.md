@@ -516,8 +516,8 @@ citomarke - cudzysłów
 cize - ser  
 coda - jebać, kopulować  
 coi - zielenina  
-cokolate - czekolada  
-cokolatobaton - baton czekoladowy  
+coklate - czekolada  
+coklatobaton - baton czekoladowy  
 Congcing - Chongqing  
 cope - motyka  
 cor - kradzież  
@@ -632,6 +632,7 @@ deviste - teistyczny
 devistia - teizm  
 deukratia - teokracja  
 deulojia - teologia  
+deunagri harfe - dewanagari  
 deusage - mit, boska opowieść  
 deusofia - teozofia  
 dex - kraj, ziemia  
@@ -719,6 +720,8 @@ durabli - trwały (wytrzymały, podtrzymywalny)
 duriki - chroniczny  
 durmetrer - stoper (sekundomierz)  
 dushal - trudność (trud)  
+dusnam - obraza (obelga)  
+dusnamana - obrazić  
 dusvidi - brzydki  
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 dutabli - wątpliwy (niewiarygodny, podejrzany)  
@@ -735,15 +738,6 @@ ekojeni - dziki
 ekolojia - ekologia (nauka o środowisku)  
 ekor - wiewiórka  
 ekran - ekran  
-eksa - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
-ekse - zęwnętrzny  
-eksi - zewnętrzny  
-eksyam - piknik  
-eksodex - zagranica  
-eksodexi - zagraniczny  
-eksomisa - eksportować (wyeksportować)  
-eksonam - egzonim  
-eksotira - rozciągać (rozciągnąć)  
 Ekuador - Ekwador  
 eletre - elektryczność  
 eletri - elektryczny  
@@ -1307,18 +1301,15 @@ imperia - imperium
 imperer - imperator  
 imperiste - imperialista  
 imperistia - imperializm  
+in - wnętrze (środek)  
 inda - zawierać  
-inde - wnętrze (środek)  
 indi - wewnętrzny  
-indo puxa - ścisnąć (sciskać, wycisnąć)  
-indojeni - wewnętrzny  
-indomisa - importować (zaimportować)  
-indonam - endonim  
-indosida - kucać (kucnąć)  
+injeni - wewnętrzny  
+inmisa - importować (zaimportować)  
+innam - endonim  
+inpuxa - ścisnąć (sciskać, wycisnąć)  
+insida - kucać (kucnąć)  
 Indonesia - Indonezja  
-infekse - infekcja (zakażenie)  
-informa - poinformować, informować, zakomunikować, komunikować  
-informe - informacja  
 injener - inżynier  
 insan - człowiek, istota ludzka  
 insani hake - prawa człowieka  
@@ -1327,8 +1318,6 @@ insaniki - ludzki
 insaniste - humanista  
 insanisti - humanistyczny  
 insanistia - humanizm  
-insulta - obrazić  
-insulte - obraza (obelga)  
 internete - internet  
 interes - zainteresowanie, zaciekawienie; interesujący  
 interesi - interesujący  
@@ -1694,6 +1683,8 @@ koncaniste - komunista
 koncanistia - komunizm  
 konfuncabli - kompatybilny (pasujący)  
 konkara - współpracować (kolaborować)  
+konsau - informacja  
+konsavana - poinformować, informować, zakomunikować, komunikować  
 kontrate - pakt (kontrakt, ugoda, umowa, konwencja)  
 Konakri Ginia - Gwinea  
 koncung - owad  
@@ -1746,7 +1737,7 @@ kristi - mesjański
 krististe - chrześcijanin  
 krististia - chrześcijaństwo  
 kristojen - Boże Narodzenie  
-kristal - kryształ  
+bilor - kryształ  
 krita - krzyknąć, krzyczeć  
 kriton - krypton  
 krize - kryzys  
@@ -2254,8 +2245,8 @@ nagri - miejski
 nahun - paznokieć  
 Naijiria - Nigeria  
 nam - imię, nazwa  
-namu - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
-namita - nazwać, nazywać, wezwać, wzywać  
+nama - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
+namana - nazwać, nazywać, wezwać, wzywać  
 namkitaba - podpis (autograf)  
 namloge - rzeczownik  
 Namibia - Namibia  
@@ -2516,6 +2507,7 @@ patia - choroba
 patike - pacjent  
 patojener - patogen  
 patolojia - patologia  
+patomis - infekcja (zakażenie)  
 patate - ziemniak  
 pau - pistolet, strzelba, ręczna broń palna  
 pava - strzelać (strzelić)  
@@ -3225,6 +3217,7 @@ tira milke - wydoić, doić
 tira pil - obrać (obierać)  
 tirbaton - dźwignia  
 tirdar - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
+tirlonga - rozciągać (rozciągnąć)  
 tirsanduke - szuflada  
 titanem - tytan  
 toca - dotyczyć  
@@ -3281,6 +3274,14 @@ vadosusan - konwalia majowa
 vaf - pies  
 vagin - wagina  
 vaginitis - zapalenie pochwy  
+vai - zęwnętrzny  
+vaya - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
+vayi - zewnętrzny  
+vaidex - zagranica  
+vaidexi - zagraniczny  
+vaiyam - piknik  
+vaimisa - eksportować (wyeksportować)  
+vainam - egzonim  
 vakil - reprezentant (przedstawiciel)  
 vakila - reprezentować  
 vaksin - szczepionka  

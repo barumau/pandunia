@@ -273,6 +273,7 @@ demokratia - demkratia
 demoni (piru) - demon  
 desi - deci\*  
 desibeli - decibel  
+devanagari - deunagri harfe  
 Dione - Dione  
 Djiboutia - Jibuti  
 dokumenttielokuva - dokumfilme  
@@ -308,7 +309,7 @@ eilen - cendeno
 einsteinium - ainstainem  
 ekologia (ympäristötiede) - ekolojia  
 eksa- - eksa\*  
-eksonyymi - eksonam  
+eksonyymi - vainam  
 El Salvador - Salvador  
 ele - jeste  
 elegantti - xiki  
@@ -332,7 +333,7 @@ emäksinen (alkalinen) - alkali
 emäs - alkal  
 emätin (vagina) - vagin  
 emätintulehdus - vaginitis  
-endonyymi (omakielinen nimi) - indonam  
+endonyymi (omakielinen nimi) - innam  
 enemmistö - maxoria  
 enemmistö- - maxori  
 enemmän (myös, lisäksi, plus) - max (maxo)  
@@ -403,7 +404,7 @@ Europa-kuu - Europa
 europium - europem  
 euteismi (usko jumalan hyvyyteen) - eudevistia  
 evankeliumi(hyvä sana) - evanjil  
-eväsretki (piknik) - eksyam  
+eväsretki (piknik) - vaiyam  
 ####F - F  
 Falklandin saaret - Malvinas nesia  
 fani (-fiili) - filer  
@@ -708,7 +709,7 @@ imperialisti - imperiste
 indium - hindem  
 Indonesia - Indonesia  
 Indusjoki - Hindonade  
-infektio (tartunta) - infekse  
+infektio (tartunta) - patomis  
 inhimillinen - insaniki  
 inhokki (inhotus) - anamike  
 inhota - anama  
@@ -1423,7 +1424,7 @@ loppu - fin
 loppua - finu  
 loppuliite (jälkiliite) - badofikse  
 loppunut - fini  
-loukkaus (herja) - insulte  
+loukkaus (herja) - dusnam  
 loukkaus (törkeys) - ninde  
 lounas - denyam  
 luiska (ramppi) - rampe  
@@ -1485,6 +1486,7 @@ löytää (keksiä) - eureka
 maa (maaperä) - geu  
 maa (multa) - darte  
 maa (valtio) - dex  
+maahanmuuttaja - inmigran  
 maailma - dunia  
 maailman- - duni  
 maailmankieli - dunia bax  
@@ -1708,6 +1710,7 @@ muuttaa (muuntaa) - muta
 muuttaa (siirtyä) - migru  
 muuttaa (siirtää) - migra  
 muuttaa (tehdä eriksi) - ala  
+muuttaa maahan - inmigra  
 muutto (migraatio) - migre  
 Myanmar (Burma) - Myanma  
 myky (pelmeni, ravioli) - pelmen  
@@ -1777,7 +1780,7 @@ Nikaragua - Nikaragua
 nikkeli - nikel  
 nilviäinen - moluske  
 nimi - nam  
-nimittää (kutsua) - namita  
+nimittää (kutsua) - namana  
 niobium - niobem  
 nisäkäs - mamal  
 Niue - Niue  
@@ -1849,7 +1852,7 @@ olla - sa
 olla eri mieltä - alraya  
 olla hereillä - jagi  
 olla jkn arvoinen - valu  
-olla nimeltään - namu  
+olla nimeltään - nama  
 olla olemassa - zayu  
 olla samaa mieltä - samraya  
 olla taipuvainen - iva  
@@ -2068,6 +2071,7 @@ piraattipuolue - piratisti partia
 pirullinen - xatani  
 pisara (tippa) - yote  
 piste (täplä) - punte  
+pisteliäs (pikantti) - pinani  
 pistooli - pistol  
 pistää (piikittää) - pina  
 Pitcairn - Pitkerne nesia  
@@ -2104,7 +2108,7 @@ pohtia (meditoida) - medita
 poika (nuori mies) - jovani man  
 poika - mani pute  
 poistaa (hävittää) - anzaya  
-poistaa (paitsi, poislukien) - eksa  
+poistaa (paitsi, poislukien) - vaya  
 poistaa toiminnasta - anativa  
 poistaa virheitä (debugata) - angalta  
 poistua - cuta  
@@ -2501,11 +2505,11 @@ sinä - te
 Siperia - Sibiria  
 sipuli - piaze  
 sisarus (veli tai sisko) - saudar  
-sisus (sisäpuoli) - inde  
+sisus (sisäpuoli) - in  
 sisä- (sisäinen) - indi  
 sisällysluettelo - tenliste  
 sisältö - ten  
-sisäsyntyinen - indojeni  
+sisäsyntyinen - injeni  
 sisäänkäynti - jinmun  
 sitoa - benda  
 sitruuna - limon  
@@ -2533,7 +2537,7 @@ solmia (tehdä solmu) - noda
 solmu - node  
 solu - cel  
 soluoppi (sytologia) - celolojia  
-solvata (loukata) - insulta  
+solvata (loukata) - dusnamana  
 Somalia - Somalia  
 Somalimaa - Somaldex  
 sopia (tehdä sopimus) - trata  
@@ -2564,8 +2568,8 @@ sudenkorento - libel
 suhde (yhteys) - guanxe  
 suihku - dux  
 sukka - maze  
-suklaa - cokolate  
-suklaapatukka - cokolatobaton  
+suklaa - coklate  
+suklaapatukka - coklatobaton  
 sukunimi - familnam  
 sukupuoli - jinse  
 sukupuolinen - jinsi  
@@ -2779,9 +2783,9 @@ thai - tayi
 Thaimaa - Tayia  
 tie - dau  
 tiede (tutkimus) - lojia  
-tiedottaa (informoida) - informa  
-tieto (info) - informe  
+tiedottaa (informoida) - konsavana  
 tieto (tietämys) - sau  
+tieto - konsau  
 tietokanta - datobanke  
 tietokone - komputer  
 tietoteoria (epistemologia) - saulojia  
@@ -2929,10 +2933,11 @@ Tšekki - Cehia
 Uganda - Ganda  
 ukkosmyrsky - gromtafun  
 Ukraina - Ukraina  
-ulko- (ulkoinen) - eksi  
-ulkomaa - eksodex  
-ulkomaalainen - eksodexi  
-ulkopuoli - ekse  
+ulko- (ulkoinen) - vayi  
+ulkomaa - vaidex  
+ulkomaalainen - vaidexi  
+ulkopuoli - vai  
+ulkopuolinen - vaijan  
 uloskäynti - cutomun  
 ulostaa (kakata) - kaka  
 uloste (kakka) - kake  
@@ -3085,7 +3090,7 @@ vety - hidre
 vetää (kiskoa) - tira  
 vetää (kiskoa, raahata) - tova  
 viedä - kita  
-viedä pois (viedä maasta) - eksomisa  
+viedä pois (viedä maasta) - vaimisa  
 vielä (yhä, jatkuvasti) - zoko  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - keger  

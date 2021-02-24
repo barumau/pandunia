@@ -513,8 +513,8 @@ citomarke - comilla
 cize - queso  
 coda - joder (coger, copular)  
 coi - verduras  
-cokolate - chocolate  
-cokolatobaton - barra de chocolate  
+coklate - chocolate  
+coklatobaton - barra de chocolate  
 cope - azada  
 cor - robo (hurto)  
 cora - robar (hurtar)  
@@ -624,6 +624,7 @@ deviste - teísta
 devistia - teísmo  
 deukratia - teocracia  
 deulojia - teología  
+deunagri harfe - devanágari  
 deusage - mito (cuento divino)  
 deusofia - teosofía  
 dex - país (nación, estado, terra)  
@@ -714,6 +715,8 @@ dusi - malo (difícil, duro)
 dushal - dificultad (apuro, privación)  
 dusjan - enemigo  
 duskar - pecado  
+dusnam - insulto (ofensa)  
+dusnamana - insultar (ofender)  
 dusvidi - feo  
 dute - duda  
 duva - rezar (orar)  
@@ -728,15 +731,6 @@ ekojeni - salvaje
 ekolojia - ecología  
 ekor - ardilla  
 ekran - pantalla  
-eksa - expulsar (exceptuar, excepto)  
-ekse - exterior  
-eksi - exterior  
-eksyam - jira (pícnic)  
-eksodex - país extranjero  
-eksodexi - extranjero  
-eksomisa - exportar  
-eksonam - exónimo  
-eksotira - estirar (extender)  
 Ekuador - Ecuador  
 eletre - electricidad  
 eletri - eléctrico  
@@ -1304,17 +1298,16 @@ imperia - imperio
 imperer - emperador  
 imperiste - imperialista  
 imperistia - imperialismo  
+in - interior  
 inda - contener  
-inde - interior  
 indi - interior (interno)  
-indojeni - innato (endógeno)  
-indomisa - importar  
-indonam - endónimo  
-indosida - agacharse  
+injeni - innato (endógeno)  
+inmigra - inmigrar  
+inmigran - inmigrante  
+inmisa - importar  
+innam - endónimo  
+insida - agacharse  
 Indonesia - Indonesia  
-infekse - infección  
-informa - informar (comunicar)  
-informe - información  
 injener - ingeniero  
 insan - ser humano  
 insani hake - derechos humanos  
@@ -1323,8 +1316,6 @@ insaniki - humano
 insaniste - humanista  
 insanisti - humanístico  
 insanistia - humanismo  
-insulta - insultar (ofender)  
-insulte - insulto (ofensa)  
 internete - Internet  
 interes - interés  
 interesi - interesante  
@@ -1684,6 +1675,8 @@ konformu - amoldarse
 konfuncabli - compatible  
 konkara - colaborar  
 konpaxia - compasión  
+konsau - información  
+konsavana - comunicar (informar)  
 konseler - consultor  
 kontener - contenedor  
 kontrate - convenion (pacto)  
@@ -1735,7 +1728,7 @@ kristi - mesiánico
 krististe - cristiano  
 krististia - cristianismo  
 kristojen - Navidad  
-kristal - cristal  
+bilor - cristal  
 krita - gritar  
 kriton - criptón (kriptón)  
 krize - crisis  
@@ -2229,8 +2222,8 @@ najisa - corromper (contaminar)
 najisi - sucio (corrompido)  
 najisbinde - mancha  
 nam - nombre  
-namu - llamarse  
-namita - llamar (poner)  
+nama - llamarse  
+namana - llamar (poner)  
 namkitaba - firmar  
 namloge - sustantivo  
 Namibia - Namibia  
@@ -2486,6 +2479,8 @@ patia - enfermedad
 patike - paciente  
 patojener - patógeno  
 patolojia - patología  
+patomis - infección (contagio)  
+patomisa - infectar (contagiar)  
 patate - papa  
 pau - pistola (rifle)  
 pava - disparar  
@@ -3195,6 +3190,7 @@ tira milke - ordeñar
 tira pil - quitar (pelar)  
 tirbaton - palanca  
 tirdar - corriente de resaca  
+tirlonga - estirar (extender)  
 tirsanduke - cajón (gaveta)  
 titanem - titanio  
 toca - tocar (rozar)  
@@ -3251,6 +3247,14 @@ vadosusan - convalaria (lirio de los valles)
 vaf - perro  
 vagin - vagina  
 vaginitis - vaginitis  
+vai - exterior  
+vaya - expulsar (exceptuar, excepto)  
+vayi - exterior  
+vaidex - país extranjero  
+vaidexi - extranjero  
+vaiyam - jira (pícnic)  
+vaimisa - exportar  
+vainam - exónimo  
 vakila - representar  
 vaksin - vacuna  
 val - valor  
