@@ -110,8 +110,9 @@ ankkuri - anker
 annos - doze  
 ansiosta - danko da  
 antaa - dona  
+antaa anteeksi - mafa  
 Antarktis - Antartike  
-anteeksi - pardon  
+anteeksi - maf  
 anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karimia  
 antelias (avokätinen) - donivi  
 antenni - anten  
@@ -356,7 +357,7 @@ epäaktiivinen (pois toiminnasta) - anativi
 epäilevä - dutani  
 epäilys - dute  
 epäilyttävä - dutabli  
-epäonni - mal zar  
+epäonni - dusi zar  
 epäonnistuminen - xibai  
 erbium - erbem  
 erehtyä (tehdä virhe) - galta  
@@ -618,7 +619,6 @@ Huomenta! - salam sube
 huominen - badodeno  
 huomio (kommentti, merkintä) - note  
 huone - kamar  
-huono - mal (mali)  
 hurma (lumo, tenho) - fasinia  
 hurraa (hurrata) - ura  
 huuli - labe  
@@ -642,7 +642,7 @@ hyvä - boni
 hyvä onni (tuuri, säkä, lykky) - boni zar  
 hyväksyntä - okei  
 hyväksyä - okeya  
-hyvännäköinen - bonrupi  
+hyvännäköinen (kaunis, komea) - bonvidi  
 Hyvää iltaa - salam xam  
 hyvää lupaava - bonsinyi  
 hyvää matkaa - salam cute  
@@ -1326,7 +1326,7 @@ lapsi - bace
 lasagne - lazanye  
 lasi - kance  
 laskea (tehdä laskutoimitus) - hisaba  
-laskea tasoa - maldarja  
+laskea tasoa - dusdarja  
 laskeutua - aneskala  
 lasku (faktuura) - bil  
 lasku (laskelma) - hisabe  
@@ -1859,12 +1859,12 @@ olla taipuvainen - iva
 olla väliä (olla tärkeä) - hamu  
 olut (kalja) - bir  
 oma (-nsa) - si  
-omaisuus - malke  
+omaisuus - mal  
 Oman - Oman  
 omena - apel  
 omenasose - apelsos  
-omistaa - malka  
-omistaja - malker  
+omistaa - mala  
+omistaja - malan  
 omistetun omistajaan liittävä partikkeli - da  
 ommella - suta  
 ongelma - problem  
@@ -2814,7 +2814,7 @@ tohveli - babuce
 toimelias (aktiivinen) - ativi  
 toiminta (funktio) - funcu  
 toiminta - ation  
-toimintahäiriö - malfunce  
+toimintahäiriö - dusfunce  
 toimittaja (journalisti, lehtimies) - gazeter  
 toimiva - funcabli  
 toisiaan (keskenään) - unal  

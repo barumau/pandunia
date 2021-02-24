@@ -150,8 +150,8 @@ bol - 球
 bombe - 炸弹  
 boni - 好  
 bondarme - 道德  
-bonrupi - 好看  
 bonsinyi - 吉利的  
+bonvidi - 好看  
 bote - 船 (艇)  
 botel - 瓶  
 botolefte - 左舷  
@@ -243,6 +243,7 @@ durabli - 耐用的
 durmetrer - 秒表  
 dusi - 难  
 dusjan - 敌人  
+dussinyi - 不祥的  
 dusvidi - 难看  
 dux - 淋浴  
 ####E - E  
@@ -621,7 +622,6 @@ Magribia - 摩洛哥
 maidan - 广场  
 maidanpapil - 虞美人 (雛罌粟)  
 makanful - 蒲公英  
-malsinyi - 不祥的  
 mam - 妈妈  
 mangi - 忙  
 manihayistia - 摩尼教  

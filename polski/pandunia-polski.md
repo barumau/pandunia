@@ -339,6 +339,7 @@ bete - burak
 beton - beton  
 biblia - Biblia  
 bil - rachunek (faktura)  
+bilor - kryształ  
 bin - budynek (struktura)  
 bina - zbudować, budować, konstruować  
 binde - punkt  
@@ -379,10 +380,10 @@ boni zar - dobry los, szczęście
 bondarja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 bondarme - cnota (moralność)  
 bondarmi - cnotliwy (prawy)  
-bonrupi - przystojny, atrakcyjny, ładny  
 bonsifi - wspaniały  
 bonsifia - cecha, atrybut, własność; -ość  
 bonsinyi - obiecujący (dobrze wróżący)  
+bonvidi - przystojny, atrakcyjny, ładny  
 bori - znudzony  
 boria - nuda (znudzenie)  
 borem - bohr  
@@ -719,9 +720,13 @@ duru - trwać, zająć czas; przez
 durabli - trwały (wytrzymały, podtrzymywalny)  
 duriki - chroniczny  
 durmetrer - stoper (sekundomierz)  
+dusi zar - zły los  
+dusdarja - dezaktualizować (pogorszyć)  
+dusfunce - awaria (wadliwe działanie)  
 dushal - trudność (trud)  
 dusnam - obraza (obelga)  
 dusnamana - obrazić  
+dussinyi - złowieszczy  
 dusvidi - brzydki  
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 dutabli - wątpliwy (niewiarygodny, podejrzany)  
@@ -1737,7 +1742,6 @@ kristi - mesjański
 krististe - chrześcijanin  
 krististia - chrześcijaństwo  
 kristojen - Boże Narodzenie  
-bilor - kryształ  
 krita - krzyknąć, krzyczeć  
 kriton - krypton  
 krize - kryzys  
@@ -1944,6 +1948,7 @@ lutetem - lutet
 me - ja, mnie  
 mi - mój  
 mome - my  
+maf - przepraszam!  
 mafan - problem, kłopot, zakłócenie  
 mafana - przeszkodzić, przeszkadzać, robić kłopot  
 mafanu - przejmować się (zawracać sobie głowę)  
@@ -1971,11 +1976,9 @@ makan - masło
 makanful - mlecz  
 makas - nożyce, nożyczki  
 Makau - Makau  
-mal (mali) - zły  
-mal zar - zły los  
-maldarja - dezaktualizować (pogorszyć)  
-malfunce - awaria (wadliwe działanie)  
-malsinyi - złowieszczy  
+mal - własność (mienie)  
+mala - mieć (posiadać)  
+malan - właściciel (posiadacz)  
 malagasi - madagaskarski; malagaski  
 Malagasia - Madagaskar  
 malayi - malajski  
@@ -1985,9 +1988,6 @@ malaria - malaria
 Malavi - Malawi  
 Mali - Mali  
 malike - jaśmin  
-malka - mieć (posiadać)  
-malke - własność (mienie)  
-malker - właściciel (posiadacz)  
 Malta - Malta  
 Malvinas nesia - Falklandy, Malwiny  
 mam - matka, mama  
@@ -2485,7 +2485,6 @@ parci - stłuczony (pęknięty)
 parcokayu - pękać (rozrywać się)  
 parcotalu - zapaść się (zapadać się, runąć)  
 parde - zasłona, kurtyna  
-pardon - przepraszam!  
 Paris - Paryż  
 parke - park (ogród)  
 parne - paproć  

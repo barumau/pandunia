@@ -384,10 +384,10 @@ boni zar - hyvä onni (tuuri, säkä, lykky)
 bondarja - nostaa tasoa  
 bondarme - hyve  
 bondarmi - hyveellinen (hyvä)  
-bonrupi - hyvännäköinen  
 bonsifi - laadukas (hyvä)  
 bonsifia - laatu (laadukkuus, erinomaisuus, hyvyys)  
 bonsinyi - hyvää lupaava  
+bonvidi - hyvännäköinen (kaunis, komea)  
 bori - pitkästynyt  
 boria - tylsyys (pitkästys)  
 borem - bohrium  
@@ -725,7 +725,10 @@ durabli - kestävä (luja)
 duriki - kestävä (krooninen)  
 durmetrer - sekuntikello  
 dusi - paha (epäsuotuisa, epämiellyttävä, vastustava)  
+dusi zar - epäonni  
+dusdarja - laskea tasoa  
 dusdevistia - dysteismi (usko jumalan pahuuteen)  
+dusfunce - toimintahäiriö  
 dushal - vaikeus (hankaluus)  
 dusjan - vihollinen  
 duskar - synti (paha teko)  
@@ -1872,6 +1875,8 @@ lutetem - lutetium
 me - minä  
 mi - minun  
 mome - me  
+maf - anteeksi  
+mafa - antaa anteeksi  
 mafan - vaiva (haitta)  
 mafana - vaivata  
 magi - taianomainen (maaginen)  
@@ -1893,10 +1898,9 @@ makal - artikkeli (kirjoitus)
 makan - voi  
 makas - sakset  
 Makau - Macao  
-mal (mali) - huono  
-mal zar - epäonni  
-maldarja - laskea tasoa  
-malfunce - toimintahäiriö  
+mal - omaisuus  
+mala - omistaa  
+malan - omistaja  
 malagasi - malagassi  
 Malagasia - Madagaskar  
 malayi - malaiji  
@@ -1906,9 +1910,6 @@ malaria - malaria
 Malavi - Malawi  
 Mali - Mali  
 malike - jasmiini  
-malka - omistaa  
-malke - omaisuus  
-malker - omistaja  
 Malta - Malta  
 Malvinas nesia - Falklandin saaret  
 mam - äiti (emä)  
@@ -2347,7 +2348,6 @@ parca - hajottaa (särkeä, repiä, sirpaloida)
 parce - palanen (murunen, riekale, sirpale)  
 parci - rikki (palasina)  
 parde - verhot  
-pardon - anteeksi  
 Paris - Pariisi  
 parke - tarha (puisto)  
 parta - osallistua  

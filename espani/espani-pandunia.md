@@ -952,7 +952,7 @@ defender - defa
 defensa - def  
 defensor - defer  
 definir - sifa  
-degradar - maldarja  
+degradar - dusdarja  
 dejar - laxa  
 dejar caer - pada  
 delfín - dolfin  
@@ -1073,7 +1073,7 @@ dualismo - dulistia
 dubnio - dubnem  
 ducha - dux  
 duda - dute  
-dueño - malker  
+dueño - malan  
 durable - durabli  
 durar (durante, llevar tiempo) - duru  
 duro - gati  
@@ -1299,7 +1299,7 @@ exónimo - vainam
 ####F - F  
 facilidad - fasilia  
 falda - jupe  
-falla (mal funcionamiento) - malfunce  
+falla (mal funcionamiento) - dusfunce  
 fallo (juicio, criterio) - jude  
 falso - falsi  
 familia - famil  
@@ -1500,7 +1500,7 @@ grupo - grupe
 gráfico (pictórico, ilustrado) - grafi  
 Guadalupe - Guadelupe  
 Guam - Guam  
-guapo (bien parecido) - bonrupi  
+guapo (bien parecido) - bonvidi  
 guarda (preservador, conservador) - hafizer  
 Guatemala - Guatemala  
 guau (vaya) - vau  
@@ -1679,7 +1679,7 @@ infierno - narake
 inflamación - itis  
 información - konsau  
 informe (reporte, noticia) - reporte  
-infortunio (mala suerte) - mal zar  
+infortunio (mala suerte) - dusi zar  
 ingeniero - injener  
 Inglaterra - Englia  
 inglés - engli  
@@ -1981,7 +1981,6 @@ malgache - malagasi
 Mali - Mali  
 malinterpretar - galto buda  
 malo (difícil, duro) - dusi  
-malo - mal (mali)  
 Malta - Malta  
 mamífero - mamal  
 mancha - najisbinde  
@@ -2358,7 +2357,7 @@ oler (apestar) - aromu
 oler (olfatear) - aroma  
 olor (aroma) - arom  
 olvidar - anmema  
-ominoso (amenazador) - malsinyi  
+ominoso (amenazador) - dussinyi  
 Omán - Oman  
 onda - onde  
 opción - cuzable  
@@ -2531,8 +2530,9 @@ pera - leze
 perdedor - xibayer  
 perder (fallar) - xibaya  
 perder - xibaya tena  
+perdonar (disculpar) - mafa  
 perdurable (longevo, prolongado) - longoduri  
-perdón - pardon  
+perdón - maf  
 perfeccionar - purbona  
 perfecto - purboni  
 perforar (agujerar) - konga  
@@ -2649,7 +2649,7 @@ porto - porte
 Portugal - Portugal  
 pose (postura) - poze  
 poseedor - tener  
-poseer (ser dueño de) - malka  
+poseer (ser dueño de) - mala  
 posible - abli  
 posiblemente - ablo  
 poste (estaca, palo) - zong  
@@ -2707,7 +2707,7 @@ prometio - prometem
 pronombre - visloge  
 pronto - suno  
 pronunciar (articular) - fona  
-propiedad - malke  
+propiedad - mal  
 proponente (defensor, -ista) - iste  
 proteger (asegurar, guardar) - sekura  
 proximidad - karibe  

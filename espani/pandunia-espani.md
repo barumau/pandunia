@@ -340,6 +340,7 @@ bete - remolacha
 beton - concreto (hormigón)  
 biblia - Biblia  
 bil - cuenta (factura)  
+bilor - cristal  
 bina - construir (edificar)  
 binde - punto (lunar)  
 bir - cerveza (birra)  
@@ -380,10 +381,10 @@ boni zar - buena suerte
 bondarja - mejorar  
 bondarme - virtud (moralidad)  
 bondarmi - virtuoso (moral)  
-bonrupi - guapo (bien parecido)  
 bonsifi - excelente  
 bonsifia - calidad (excelencia, mérito, virtud, ventaja)  
 bonsinyi - auspicioso  
+bonvidi - guapo (bien parecido)  
 bori - aburrido  
 boria - aburrimiento  
 borem - bohrio  
@@ -712,11 +713,15 @@ durabli - durable
 duriki - crónico  
 durmetrer - cronómetro  
 dusi - malo (difícil, duro)  
+dusi zar - infortunio (mala suerte)  
+dusdarja - degradar  
+dusfunce - falla (mal funcionamiento)  
 dushal - dificultad (apuro, privación)  
 dusjan - enemigo  
 duskar - pecado  
 dusnam - insulto (ofensa)  
 dusnamana - insultar (ofender)  
+dussinyi - ominoso (amenazador)  
 dusvidi - feo  
 dute - duda  
 duva - rezar (orar)  
@@ -1728,7 +1733,6 @@ kristi - mesiánico
 krististe - cristiano  
 krististia - cristianismo  
 kristojen - Navidad  
-bilor - cristal  
 krita - gritar  
 kriton - criptón (kriptón)  
 krize - crisis  
@@ -1929,6 +1933,8 @@ lutetem - lutecio
 me - yo  
 mi - mi  
 mome - nosotros  
+maf - perdón  
+mafa - perdonar (disculpar)  
 mafan - problema (disturio)  
 mafana - molestar (preocupar)  
 mafanu - molestar en  
@@ -1954,11 +1960,9 @@ makan - mantequilla
 makanful - dientes de león (panaderos)  
 makas - tijera  
 Makau - Macao  
-mal (mali) - malo  
-mal zar - infortunio (mala suerte)  
-maldarja - degradar  
-malfunce - falla (mal funcionamiento)  
-malsinyi - ominoso (amenazador)  
+mal - propiedad  
+mala - poseer (ser dueño de)  
+malan - dueño  
 malagasi - malgache  
 Malagasia - Madagascar  
 malayi - malayo  
@@ -1968,9 +1972,6 @@ malaria - malaria (paludismo)
 Malavi - Malaui  
 Mali - Mali  
 malike - jazmín  
-malka - poseer (ser dueño de)  
-malke - propiedad  
-malker - dueño  
 Malta - Malta  
 Malvinas nesia - Islas Malvinas  
 mam - madre (mamá)  
@@ -2459,7 +2460,6 @@ parce - fragmento (pedazo)
 parci - roto  
 parcokayu - reventar  
 parde - cortina  
-pardon - perdón  
 parke - parque  
 parne - helecho  
 parta - participar  

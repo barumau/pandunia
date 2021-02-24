@@ -2,18 +2,18 @@
 
 | bax | numbe | fen |
 |-----|-------|-----|
-| pan | 1435 | 100% |
-| engli | 933 | 65% |
-| espani | 803 | 55% |
-| portugali | 747 | 52% |
-| fransi | 738 | 51% |
-| rusi | 636 | 44% |
-| hindustani | 547 | 38% |
+| pan | 1432 | 100% |
+| engli | 930 | 64% |
+| espani | 801 | 55% |
+| portugali | 745 | 52% |
+| fransi | 736 | 51% |
+| rusi | 634 | 44% |
+| hindustani | 548 | 38% |
 | niponi | 457 | 31% |
-| turki | 432 | 30% |
+| turki | 431 | 30% |
 | malayi | 412 | 28% |
 | arabi | 307 | 21% |
-| cini | 288 | 20% |
+| cini | 287 | 20% |
 | coseni | 252 | 17% |
 | bangli | 244 | 17% |
 | farsi | 239 | 16% |

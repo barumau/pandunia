@@ -129,6 +129,7 @@ bel - pá
 ber - baga  
 berande - sacada (varanda)  
 berje - bétula  
+bilor - cristal  
 bina - construir  
 bir - cerveja  
 biu - organismo  
@@ -528,7 +529,6 @@ krake - rachadura
 krem - crème  
 krepe - crepe (panqueca)  
 krevete - camarão  
-bilor - cristal  
 krokodil - crocodiliano  
 krokroke - rã  
 krote - toupeira  
@@ -607,6 +607,7 @@ luter - ladrão
 ####M - M  
 me - eu (me)  
 mome - nós  
+mafa - perdoar (desculpar)  
 magesem - magnésio  
 Magribia - Marrocos  
 maidan - praça  

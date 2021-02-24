@@ -150,7 +150,6 @@
 |**bol**|pallo|englanti:ball, espanja:portugali:malaiji:filippiini:bola, thai:บอล (bɔl), japani:ボール (bōru), korea:볼 (bol), khmer:បាល់ (bal), bangla:বল (bôl), deu:Ball, ranska:boule,balle|
 |**bombe**|pommi|puola:portugali:espanja:turkki:bomba, venäjä:бомба (bomba), deu:ranska:bombe, persia:(bomb), englanti:bomb, bangla:বোমা (boma), hindi:बम (bam), urdu:(bam), japani:ボム (bomu), korea:봄 (bom), malaiji:bom|
 |**boni**|hyvä|ranska:bon, portugali:bom, espanja:bueno, + khmer:បុណ្យ (bon), thai:บุญ (bun), telugu:పుణ్యము (puṇyamu)|
-|**bonrupi**|hyvännäköinen|yleiskiina:好看 (hǎokàn), englanti:good-looking|
 |**bori**|pitkästynyt|englanti:bored, espanja:aburrido, hindi:(bhorī)|
 |**bote**|vene (laiva)|espanja:bote, englanti:boat, hindi:बोट (boṭ), suahili:boti, venäjä:бот (bot), japani:ボート (bōto)|
 |**botel**|pullo|englanti:bottle, ranska:bouteille, espanja:botella, portugali:botelha, venäjä:бутылка (butylka), hindi:बोतल (botal), bangla:বোতল (botôl), malaiji:botol|
@@ -741,10 +740,9 @@
 |**makal**|artikkeli (kirjoitus)|arabia:مَقَال‎ (maqāl), turkki:makale, suahili:makala, persia:مقاله‎ (maqâle), malaiji:makalah|
 |**makan**|voi|hindi:मक्खन (makkhan), bangla:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), marathi:माखण (mākhaṇ), gujarati:માખણ (mākhaṇ)|
 |**makas**|sakset|arabia:(maqaṣ), turkki:makas, suahili:mkasi, oromo:maqasii, hausa:almakashi, yoruba:àlùmogàjí|
-|**mal (mali)**|huono|englanti:mal-, espanja:ranska:mal, portugali:mau, venäjä:моль (mol’)|
+|**mal**|omaisuus|arabia:persia:urdu: مَال‎ (māl), hindi:माल (māl), turkki:mal, suahili:mali, malaiji:milik|
 |**malaria**|malaria|englanti:espanja:ranska:suahili:malaiji:malaria, portugali:malária, venäjä:малярия (mal′arija), turkki:malarya, arabia:مَلَارِيَا‎ (malāriyā), hindi:मलेरिया (maleriyā), japani:マラリア (mararia)|
 |**malike**|jasmiini|kannada:(mallige), tamili:(mallikai), telugu:(malla), malaiji:melati,  korea:말리 (malli), thai:มะลิ (mali), yleiskiina:茉莉 (mòlì)|
-|**malke**|omaisuus|arabia:(mulk), turkki:mal, suahili:mali,miliki, malaiji:milik, persia:melk, + pas:urdu:(mālik), pandzabi:ਮਾਲਕ (mālik)|
 |**mam**|äiti (emä)|espanja:mamá, ranska:maman, englanti:suahili:mama, venäjä:мама (mama), yleiskiina: 妈妈 (māma), japani:ママ (mama), korea:엄마 (eomma), vietnami:má, bangla:মা (ma), hindi:मां (mã)|
 |**mamal**|nisäkäs|englanti:mammal, espanja:portugali:mamífero, ranska:mammifère, turkki:memeli, malaiji:mamalia|
 |**man**|uros (mies)|englanti:man, deu:Mann, hindi:मानुस (mānus), bangla:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), marathi:माणूस (māṇūs), tamili:மனிதன் (maṉitaṉ) + yleiskiina:男 (nán), japani:男 (nan)|
@@ -927,7 +925,6 @@
 |**param**|parametri (argumentti)|englanti:parameter, ranska:paramètre, espanja:portugali:parametro, japani:パラメーター (paramētā), korea:파라미터 (paramiteo)|
 |**parce**|palanen (murunen, riekale, sirpale)|persia:(parče), turkki:parça, hindi:पारचा (pārcā), englanti:part, portugali:espanja:parte|
 |**parde**|verhot|bangla:পরদা (pôrda), hindi:पर्दा (pardā), turkki:perde|
-|**pardon**|anteeksi|ranska:englanti:turkki:ron:unkari:pardon, espanja:perdón, portugali:perdão, bul:venäjä:пардон (pardon)|
 |**pari**|tasainen (tasavertainen)|englanti:peer, ranska:pair,  espanja:portugali:par, deu:Pere, hindi:बराबर (barābar), persia:urdu: برابر‎ (barâbar)|
 |**parke**|tarha (puisto)|englanti:deu:turkki:puola:park, espanja:portugali:parque, ranska:parc, venäjä:парк (park), hindi:पार्क (pārk)|
 |**partia**|osapuoli|englanti:party, deu:Partei, espanja:portugali:partido, ranska:partie, turkki:parti, puola:partia, venäjä:партия (partiya)|

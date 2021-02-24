@@ -373,6 +373,7 @@ beton:|beton|||fra:béton, por:betão, deu:Beton, rus:бетон (beton), pol:tu
 bibl:i|bibli||||Biblical|||||||||||||||biblia|raamatullinen|
 bibl:ia|biblia||||Bible||Biblia|||||||||||||Biblio|Raamattu|Biblia
 bil:|bil|||eng:bill, hin:बिल (bil), may:bil|bill (invoice)||cuenta (factura)||счёт||帐单||||||bon (bil)||||lasku (faktuura)|rachunek (faktura)
+bilor:|bilor|||ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|crystal|cristal|cristal|cristal|кристалл|||結晶||||||||||kryształ
 bin:|bin||||building (structure)||||||||||||||||rakennus (rakenne)|budynek (struktura)
 bin:a|bina|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|build (construct)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
 bind:e|binde|||hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|dot (spot)||punto (lunar)|||||||||||||punkto|täplä (läiskä)|punkt
@@ -415,10 +416,10 @@ bon:i zar:|boni zar||||good luck||buena suerte||||||||||||||hyvä onni (tuuri, s
 bon.darj:a|bondarja||||upgrade (level up)||mejorar||||||||||||||nostaa tasoa|aktualizować (zaktualizować, ulepszać, ulepszyć)
 bon.darm:e|bondarme||||virtue (morals)||virtud (moralidad)||||道德||||||||||hyve|cnota (moralność)
 bon.darm:i|bondarmi||||virtuous||virtuoso (moral)||||||||||||||hyveellinen (hyvä)|cnotliwy (prawy)
-bon.rup:i|bonrupi|||zho:好看 (hǎokàn), eng:good-looking|good-looking||guapo (bien parecido)||||好看|||||||||bonaspekta|hyvännäköinen|przystojny, atrakcyjny, ładny
 bon.sif:i|bonsifi||||excellent||excelente||||||||||||||laadukas (hyvä)|wspaniały
 bon.sif:ia|bonsifia||||excellence (quality, virtue)||calidad (excelencia, mérito, virtud, ventaja)|||||||||||||eco|laatu (laadukkuus, erinomaisuus, hyvyys)|cecha, atrybut, własność; -ość
 bon.sini:i|bonsinyi||||auspicious (promising)||auspicioso||благоприятный||吉利的||||||||||hyvää lupaava|obiecujący (dobrze wróżący)
+bon.vid:i|bonvidi||||beautiful (handsome, good-looking)||guapo (bien parecido)||||好看|||||||||bonaspekta|hyvännäköinen (kaunis, komea)|przystojny, atrakcyjny, ładny
 bor:i|bori|||eng:bored, spa:aburrido, hin:(bhorī)|bored||aburrido|||||||||||||enui|pitkästynyt|znudzony
 bor:ia|boria||27 emotions||boredom||aburrimiento||||||||बोरियत|||||enuo|tylsyys (pitkästys)|nuda (znudzenie)
 bor.em:|borem|mate|Bh||bohrium||bohrio|||||||||||||borio|bohrium|bohr
@@ -775,12 +776,16 @@ dur.abl:i|durabli||||durable (endurable, sustainable)||durable||долговеч
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
 dus:i|dusi|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)||malo (difícil, duro)||||难|難しい||khó (khốn nạn)|दुश्वार||||||paha (epäsuotuisa, epämiellyttävä, vastustava)|
+dus:i zar:|dusi zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
+dus.darj:a|dusdarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
 dus.deu.ist:ia|dusdevistia||||dystheism (maltheism)||||||||||||||||dysteismi (usko jumalan pahuuteen)|
+dus.func:e|dusfunce||||dysfunction (malfunction)||falla (mal funcionamiento)||||||||||||||toimintahäiriö|awaria (wadliwe działanie)
 dus.hal:|dushal||||hardship (difficulty, challenge)||dificultad (apuro, privación)||||||||||||||vaikeus (hankaluus)|trudność (trud)
 dus.jan:|dusjan||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
 dus.kar:|duskar||||misdeed (sin, vice)|méfait (péché)|pecado|malfeitoria (pecado)||||悪事|||||||||synti (paha teko)|
 dus.nam:|dusnam||||insult (offense)||insulto (ofensa)||||||||||||||loukkaus (herja)|obraza (obelga)
 dus.nam.an:a|dusnamana||||insult (offend, call names)||insultar (ofender)||||||||||||||solvata (loukata)|obrazić
+dus.sini:i|dussinyi||||ominous (foreboding)||ominoso (amenazador)||зловещий||不祥的|不吉 (縁起の悪い)||||||||||złowieszczy
 dus.top:ia|dustopia||||dystopia||||||||||||||||dystopia|
 dus.vid:i|dusvidi||||ugly (unsightly)|laid (vilain)|feo|feio|безобразный (некрасивый)|قَبِيح|难看|見苦しい|추악하다|xấu xí|बदसूरत|বিশ্রী|hodoh||çirkin|malbonaspekta|ruma (pahannäköinen)|brzydki
 dut:e|dute|||fra:doute, eng:doubt, spa:tgl:duda|doubt (disbelief)||duda|||||||||||||dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
@@ -1887,7 +1892,6 @@ krist:i|kristi||||messianic||mesiánico||||||||||||||messiaaninen|mesjański
 krist.ist:e|krististe||||Christian||cristiano||||||||||||||kristitty|chrześcijanin
 krist.ist:ia|krististia||||Christianity||cristianismo||||||||||||||kristinusko|chrześcijaństwo
 krist.o.jen:|kristojen|||ell:Χριστούγεννα (Christoúgenna)|Christmas||Navidad|||||||||||||kristnasko|joulu|Boże Narodzenie
-bilor:|bilor|||ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|crystal|cristal|cristal|cristal|кристалл|||結晶||||||||||kryształ
 krit:a|krita|||eng:cry, spa:por:gritar, fra:crier, rus:крича́ть (kričátʹ)|cry (shout)||gritar||||||||||||||huutaa|krzyknąć, krzyczeć
 kriton:|kriton|mate|Kr||krypton||criptón (kriptón)|||||||||||||kriptono|kryptoni|krypton
 kriz:e|krize|||eng:crisis, fra:por:crise, deu:Krise, rus:кризис (krizis), spa:crisis|crisis||crisis|||||||||||||krizo|kriisi (käännekohta)|kryzys
@@ -2103,6 +2107,8 @@ M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 m:e|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
 m.o.m:e|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
+maf:|maf||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, hau:yafe||pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||||anteeksi|przepraszam!
+maf:a|mafa||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||||||माफ करना||memaafkan|kusamehe|affetmek|pardoni|antaa anteeksi|
 mafan:|mafan||||trouble (disturbance, bother)||problema (disturio)||||||||||||||vaiva (haitta)|problem, kłopot, zakłócenie
 mafan:a|mafana|||zho:麻煩 (máfan), yue:麻煩 (maa4 faan4), wuu:麻煩 (mo ve3)|bother||molestar (preocupar)||утруждать||||||||||||vaivata|przeszkodzić, przeszkadzać, robić kłopot
 mafan:u|mafanu||||be bothered by (bother to, take the trouble to)||molestar en||утруждай|||悩む (わざわざする)||||||||||przejmować się (zawracać sobie głowę)
@@ -2130,11 +2136,9 @@ makan:|makan|||hin:मक्खन (makkhan), ben:মাখন (makhôn), pan:�
 makan.ful:|makanful|biv|Taraxacum officinale||dandelion|dandélion|dientes de león (panaderos)|dente-de-leão (taráxaco)|одуванчик||蒲公英|タンポポ||||||||||mlecz
 makas:|makas|||ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí|scissors (shears)||tijera|||||||||||||tondilo|sakset|nożyce, nożyczki
 Makau:|Makau|dex|MO||Macao||Macao||||||||||||||Macao|Makau
-mal: (mal:i)|mal (mali)|||eng:mal-, spa:fra:mal, por:mau, rus:моль (mol’)|bad||malo|||||悪い||||||||malbona|huono|zły
-mal: zar:|mal zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
-mal.darj:a|maldarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
-mal.func:e|malfunce||||malfunction||falla (mal funcionamiento)||||||||||||||toimintahäiriö|awaria (wadliwe działanie)
-mal.sini:i|malsinyi||||ominous (foreboding)||ominoso (amenazador)||зловещий||不祥的|不吉 (縁起の悪い)||||||||||złowieszczy
+mal:|mal|||ara:fas:urd: مَال‎ (māl), hin:माल (māl), tur:mal, swa:mali, may:milik|property (belongings, possessions)|propriété (possession, bien)|propiedad|||مَال‎|||||माल (संपत्ति)||||||omaisuus|własność (mienie)
+mal:a|mala||||own||poseer (ser dueño de)||||||||||||||omistaa|mieć (posiadać)
+mal.an:|malan||||owner (proprietor)|possédant (propriétaire)|dueño|||||||||||||havanto|omistaja|właściciel (posiadacz)
 malagas:i|malagasi||||Malagasy||malgache||||||||||||||malagassi|madagaskarski; malagaski
 Malagas:ia|Malagasia|dex|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 malai:i|malayi||||Malay||malayo||||||||||||||malaiji|malajski
@@ -2144,9 +2148,6 @@ malar:ia|malaria|||eng:spa:fra:swa:may:malaria, por:malária, rus:малярия
 Malaui:|Malavi|dex|MW||Malawi||Malaui||||||||||||||Malawi|Malawi
 Mali:|Mali|dex|ML||Mali||Mali|||||||||||||Malio|Mali|Mali
 malik:e|malike|||kan:(mallige), tam:(mallikai), tel:(malla), may:melati,  kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì)|jasmine||jazmín|||||||||||||jasmeno|jasmiini|jaśmin
-malk:a|malka||||own||poseer (ser dueño de)||||||||||||||omistaa|mieć (posiadać)
-malk:e|malke|||ara:(mulk), tur:mal, swa:mali,miliki, may:milik, fas:melk, + pas:urd:(mālik), pnb:ਮਾਲਕ (mālik)|property (belongings, possessions)|propriété (possession, bien)|propiedad||||||||||||||omaisuus|własność (mienie)
-malk.er:|malker||||owner (proprietor)|possédant (propriétaire)|dueño|||||||||||||havanto|omistaja|właściciel (posiadacz)
 Malta:|Malta|dex|MT||Malta||Malta||||||||||||||Malta|Malta
 Maluinas: nes:ia|Malvinas nesia|dex|FK||Falkland Islands (Malvinas)||Islas Malvinas||||||||||||||Falklandin saaret|Falklandy, Malwiny
 mam:|mam|||spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
@@ -2669,7 +2670,6 @@ parc:i|parci||||broken (shattered)||roto||||||||||||||rikki (palasina)|stłuczon
 parc.o.kai:u|parcokayu||||burst (pop)||reventar||||爆裂|弾ける||||||||||pękać (rozrywać się)
 parc.o.tal:u|parcotalu||||collapse|||||||||||||||||zapaść się (zapadać się, runąć)
 pard:e|parde|||ben:পরদা (pôrda), hin:पर्दा (pardā), tur:perde|curtain||cortina||||||||पर्दा|পরদা|||perde|kurteno|verhot|zasłona, kurtyna
-pardon:|pardon|||fra:eng:tur:ron:hun:pardon, spa:perdón, por:perdão, bul:rus:пардон (pardon)|sorry (pardon)||perdón|||||ごめんなさい|||||||||anteeksi|przepraszam!
 Paris:|Paris|xefsite|FR||Paris|Paris|||||||||||||||Pariisi|Paryż
 park:e|parke|||eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|park (garden)|parc|parque|parque|парк||园||||पार्क|||||parko (ĝardeno)|tarha (puisto)|park (ogród)
 parn:e|parne|||eng:fern, rus:папоротник (paporotnik), hin:फर्न (pharna), ben:ফার্ন (phārna)|fern|fougères|helecho|samambaia|папоротник||蕨|羊歯|||फर्न||paku pakis|mkangaga||||paproć
@@ -3799,4 +3799,3 @@ zuk.o.med:i|zukomedi||||interethnic||interétnica||межэтнический|||
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 Zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:e|zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-

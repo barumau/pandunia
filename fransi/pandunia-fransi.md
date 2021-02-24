@@ -276,6 +276,7 @@ ber - baie
 berande - balcon  
 berje - bouleau  
 bete - betterave  
+bilor - cristal  
 bina - construire  
 bir - bière  
 biu - organisme  
@@ -727,7 +728,6 @@ krem - crème
 krepe - crêpe  
 kreperia - crêperie  
 krevete - crevette  
-bilor - cristal  
 krokodil - crocodilien  
 krokroke - grenouille  
 krote - taupe  
@@ -809,13 +809,14 @@ luter - brigand (bandit)
 ####M - M  
 me - je (me)  
 mome - nous  
+mafa - pardonner  
 magesem - magnésium  
 Magribia - Maroc  
 maidan - place  
 maidanpapil - coquelicot  
 makanful - dandélion  
-malke - propriété (possession, bien)  
-malker - possédant (propriétaire)  
+mal - propriété (possession, bien)  
+malan - possédant (propriétaire)  
 mam - mère (maman)  
 mangi - occupé  
 manihayistia - manichéisme  

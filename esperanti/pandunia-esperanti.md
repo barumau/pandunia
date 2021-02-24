@@ -235,8 +235,8 @@ Bolgaria - Bulgario
 Bolivia - Bolivio  
 bombe - bombo  
 boni - bona  
-bonrupi - bonaspekta  
 bonsifia - eco  
+bonvidi - bonaspekta  
 bori - enui  
 boria - enuo  
 borem - borio  
@@ -1077,15 +1077,15 @@ lutetem - lutecio
 me - mi  
 mi - mia  
 mome - ni  
+mafa - pardoni  
 magia - magio  
 magesem - magnezio  
 mayan - majao  
 maitnerem - mejtnerio  
 makas - tondilo  
-mal (mali) - malbona  
+malan - havanto  
 Mali - Malio  
 malike - jasmeno  
-malker - havanto  
 mam - patrino  
 man - viro  
 mangi - okupata  

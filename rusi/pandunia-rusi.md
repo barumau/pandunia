@@ -143,6 +143,7 @@ berande - балкон
 berje - берёза  
 bete - свёкла  
 bil - счёт  
+bilor - кристалл  
 bina - строить  
 bir - пиво  
 biu - организм  
@@ -269,6 +270,7 @@ durabli - долговечный
 duriki - хронический  
 durmetrer - секундомер  
 dusjan - враг (противник)  
+dussinyi - зловещий  
 dusvidi - безобразный (некрасивый)  
 dux - душ  
 ####E - E  
@@ -594,7 +596,6 @@ krake - щель (трещина)
 kran - кран  
 krepe - блин  
 krevete - креветка  
-bilor - кристалл  
 krokodil - крокодил  
 krokroke - лягушка  
 krote - крот  
@@ -679,7 +680,6 @@ maidan - площадь (сквер, майдан)
 maidanpapil - мак самосейка  
 majenti - маджента (фуксия)  
 makanful - одуванчик  
-malsinyi - зловещий  
 mam - мать (мама)  
 mangi - занятый  
 manihayistia - манихейство  

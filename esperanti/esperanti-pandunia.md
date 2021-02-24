@@ -214,7 +214,7 @@ Bonan matenon! - salam sube
 Bonan tagon - salam den  
 Bonan vesperon - salam xam  
 bonan vojaĝon - salam cute  
-bonaspekta - bonrupi  
+bonaspekta - bonvidi  
 bonega (mojosa) - kuli  
 bonega - superi  
 bonvenon! - salam lai  
@@ -563,7 +563,7 @@ harmonia - harmoni
 harmonio - harmonia  
 haro - kex  
 hasio - hesem  
-havanto - malker  
+havanto - malan  
 haveno - haiporte  
 haveno - porte  
 havi (teni) - tena  
@@ -940,7 +940,6 @@ malamiko - dusjan
 malamo - hen  
 malamulo - anamike  
 malavara - donivi  
-malbona - mal (mali)  
 malbonaspekta - dusvidi  
 maldekstrume - rotolefto  
 malferma - kayi  
@@ -1190,6 +1189,7 @@ papajo - papai
 papero - kaguje  
 papilio - pelpel  
 para nombro - pari numbe  
+pardoni - mafa  
 parko (ĝardeno) - parke  
 parolema - logivi  
 paroli (komuniki) - baxa  

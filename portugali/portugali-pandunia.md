@@ -732,6 +732,7 @@ pepino-do-mar (holotúrias) - haihiar
 pequeno - lili  
 perdedor - xibayer  
 perder - xibaya tena  
+perdoar (desculpar) - mafa  
 perguntar - eska  
 perigo - hatre  
 perplexo (confuso) - ruhmixi  

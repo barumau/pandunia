@@ -119,7 +119,6 @@
 |**bol**|pilko|angla:ball, hispana:portugala:malaja:filipina:bola, taja:บอล (bɔl), japana:ボール (bōru), korea:볼 (bol), kmera:បាល់ (bal), bengala:বল (bôl), deu:Ball, franca:boule,balle|
 |**bombe**|bombo|polona:portugala:hispana:turka:bomba, rusa:бомба (bomba), deu:franca:bombe, persa:(bomb), angla:bomb, bengala:বোমা (boma), hindia:बम (bam), urdua:(bam), japana:ボム (bomu), korea:봄 (bom), malaja:bom|
 |**boni**|bona|franca:bon, portugala:bom, hispana:bueno, + kmera:បុណ្យ (bon), taja:บุญ (bun), teluga:పుణ్యము (puṇyamu)|
-|**bonrupi**|bonaspekta|mandarena:好看 (hǎokàn), angla:good-looking|
 |**bori**|enui|angla:bored, hispana:aburrido, hindia:(bhorī)|
 |**bote**|boato (ŝipo)|hispana:bote, angla:boat, hindia:बोट (boṭ), svahila:boti, rusa:бот (bot), japana:ボート (bōto)|
 |**botel**|botelo|angla:bottle, franca:bouteille, hispana:botella, portugala:botelha, rusa:бутылка (butylka), hindia:बोतल (botal), bengala:বোতল (botôl), malaja:botol|
@@ -538,7 +537,6 @@
 |**luta**|rabi|hindia:लूटना (lūṭnā), urdua:(lūṭnā), bengala:লুটা (luṭā), panĝaba:ਲੁੱਟ (luṭ), angla:loot, + mandarena:掠夺 (lüèduó), kantona:掠 (loek6)|
 |**magia**|magio|angla:magic, hispana:portugala:magia, franca:magie, rusa:ма́гия (mágija), rus:マジック (majikku)|
 |**makas**|tondilo|araba:(maqaṣ), turka:makas, svahila:mkasi, oroma:maqasii, haŭsa:almakashi, joruba:àlùmogàjí|
-|**mal (mali)**|malbona|angla:mal-, hispana:franca:mal, portugala:mau, rusa:моль (mol’)|
 |**malike**|jasmeno|kanara:(mallige), tamila:(mallikai), teluga:(malla), malaja:melati,  korea:말리 (malli), taja:มะลิ (mali), mandarena:茉莉 (mòlì)|
 |**mam**|patrino|hispana:mamá, franca:maman, angla:svahila:mama, rusa:мама (mama), mandarena: 妈妈 (māma), japana:ママ (mama), korea:엄마 (eomma), vjetnama:má, bengala:মা (ma), hindia:मां (mã)|
 |**man**|viro|angla:man, deu:Mann, hindia:मानुस (mānus), bengala:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), marataja:माणूस (māṇūs), tamila:மனிதன் (maṉitaṉ) + mandarena:男 (nán), japana:男 (nan)|

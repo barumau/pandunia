@@ -371,6 +371,7 @@ beton - concrete (material with cement)
 bibli - Biblical  
 biblia - Bible  
 bil - bill (invoice)  
+bilor - crystal  
 bin - building (structure)  
 bina - build (construct)  
 binde - dot (spot)  
@@ -413,10 +414,10 @@ boni zar - good luck
 bondarja - upgrade (level up)  
 bondarme - virtue (morals)  
 bondarmi - virtuous  
-bonrupi - good-looking  
 bonsifi - excellent  
 bonsifia - excellence (quality, virtue)  
 bonsinyi - auspicious (promising)  
+bonvidi - beautiful (handsome, good-looking)  
 bori - bored  
 boria - boredom  
 borem - bohrium  
@@ -771,12 +772,16 @@ durabli - durable (endurable, sustainable)
 duriki - chronic (lasting)  
 durmetrer - stopwatch  
 dusi - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
+dusi zar - misfortune (bad luck)  
+dusdarja - downgrade  
 dusdevistia - dystheism (maltheism)  
+dusfunce - dysfunction (malfunction)  
 dushal - hardship (difficulty, challenge)  
 dusjan - enemy (foe, villain)  
 duskar - misdeed (sin, vice)  
 dusnam - insult (offense)  
 dusnamana - insult (offend, call names)  
+dussinyi - ominous (foreboding)  
 dustopia - dystopia  
 dusvidi - ugly (unsightly)  
 dute - doubt (disbelief)  
@@ -1879,7 +1884,6 @@ kristi - messianic
 krististe - Christian  
 krististia - Christianity  
 kristojen - Christmas  
-bilor - crystal  
 krita - cry (shout)  
 kriton - krypton  
 krize - crisis  
@@ -2095,6 +2099,8 @@ lutetem - lutetium
 me - I (me)  
 mi - my  
 mome - we  
+maf - pardon (forgiveness; sorry)  
+mafa - forgive (pardon)  
 mafan - trouble (disturbance, bother)  
 mafana - bother  
 mafanu - be bothered by (bother to, take the trouble to)  
@@ -2122,11 +2128,9 @@ makan - butter
 makanful - dandelion  
 makas - scissors (shears)  
 Makau - Macao  
-mal (mali) - bad  
-mal zar - misfortune (bad luck)  
-maldarja - downgrade  
-malfunce - malfunction  
-malsinyi - ominous (foreboding)  
+mal - property (belongings, possessions)  
+mala - own  
+malan - owner (proprietor)  
 malagasi - Malagasy  
 Malagasia - Madagascar  
 malayi - Malay  
@@ -2136,9 +2140,6 @@ malaria - malaria
 Malavi - Malawi  
 Mali - Mali  
 malike - jasmine  
-malka - own  
-malke - property (belongings, possessions)  
-malker - owner (proprietor)  
 Malta - Malta  
 Malvinas nesia - Falkland Islands (Malvinas)  
 mam - mother (mom, mama)  
@@ -2659,7 +2660,6 @@ parci - broken (shattered)
 parcokayu - burst (pop)  
 parcotalu - collapse  
 parde - curtain  
-pardon - sorry (pardon)  
 Paris - Paris  
 parke - park (garden)  
 parne - fern  

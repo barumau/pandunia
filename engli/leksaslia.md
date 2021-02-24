@@ -155,7 +155,6 @@
 |**bol**|ball|English:ball, Spanish:Portuguese:Malay:Filipino:bola, Thai:บอล (bɔl), Japanese:ボール (bōru), Korean:볼 (bol), Khmer:បាល់ (bal), Bengali:বল (bôl), deu:Ball, French:boule,balle|
 |**bombe**|bomb|Polish:Portuguese:Spanish:Turkish:bomba, Russian:бомба (bomba), deu:French:bombe, Persian:(bomb), English:bomb, Bengali:বোমা (boma), Hindi:बम (bam), Urdu:(bam), Japanese:ボム (bomu), Korean:봄 (bom), Malay:bom|
 |**boni**|good|French:bon, Portuguese:bom, Spanish:bueno, + Khmer:បុណ្យ (bon), Thai:บุญ (bun), Telugu:పుణ్యము (puṇyamu)|
-|**bonrupi**|good-looking|Mandarin:好看 (hǎokàn), English:good-looking|
 |**bori**|bored|English:bored, Spanish:aburrido, Hindi:(bhorī)|
 |**bote**|boat (ship)|Spanish:bote, English:boat, Hindi:बोट (boṭ), Swahili:boti, Russian:бот (bot), Japanese:ボート (bōto)|
 |**botel**|bottle|English:bottle, French:bouteille, Spanish:botella, Portuguese:botelha, Russian:бутылка (butylka), Hindi:बोतल (botal), Bengali:বোতল (botôl), Malay:botol|
@@ -783,10 +782,9 @@
 |**makal**|article (writing)|Arabic:مَقَال‎ (maqāl), Turkish:makale, Swahili:makala, Persian:مقاله‎ (maqâle), Malay:makalah|
 |**makan**|butter|Hindi:मक्खन (makkhan), Bengali:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), Marathi:माखण (mākhaṇ), Gujarati:માખણ (mākhaṇ)|
 |**makas**|scissors (shears)|Arabic:(maqaṣ), Turkish:makas, Swahili:mkasi, Oromo:maqasii, Hausa:almakashi, Yoruba:àlùmogàjí|
-|**mal (mali)**|bad|English:mal-, Spanish:French:mal, Portuguese:mau, Russian:моль (mol’)|
+|**mal**|property (belongings, possessions)|Arabic:Persian:Urdu: مَال‎ (māl), Hindi:माल (māl), Turkish:mal, Swahili:mali, Malay:milik|
 |**malaria**|malaria|English:Spanish:French:Swahili:Malay:malaria, Portuguese:malária, Russian:малярия (mal′arija), Turkish:malarya, Arabic:مَلَارِيَا‎ (malāriyā), Hindi:मलेरिया (maleriyā), Japanese:マラリア (mararia)|
 |**malike**|jasmine|Kannada:(mallige), Tamil:(mallikai), Telugu:(malla), Malay:melati,  Korean:말리 (malli), Thai:มะลิ (mali), Mandarin:茉莉 (mòlì)|
-|**malke**|property (belongings, possessions)|Arabic:(mulk), Turkish:mal, Swahili:mali,miliki, Malay:milik, Persian:melk, + pas:Urdu:(mālik), Punjabi:ਮਾਲਕ (mālik)|
 |**mam**|mother (mom, mama)|Spanish:mamá, French:maman, English:Swahili:mama, Russian:мама (mama), Mandarin: 妈妈 (māma), Japanese:ママ (mama), Korean:엄마 (eomma), Vietnamese:má, Bengali:মা (ma), Hindi:मां (mã)|
 |**mamal**|mammal|English:mammal, Spanish:Portuguese:mamífero, French:mammifère, Turkish:memeli, Malay:mamalia|
 |**man**|male|English:man, deu:Mann, Hindi:मानुस (mānus), Bengali:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), Marathi:माणूस (māṇūs), Tamil:மனிதன் (maṉitaṉ) + Mandarin:男 (nán), Japanese:男 (nan)|
@@ -986,7 +984,6 @@
 |**param**|parameter (argument, input variable)|English:parameter, French:paramètre, Spanish:Portuguese:parametro, Japanese:パラメーター (paramētā), Korean:파라미터 (paramiteo)|
 |**parce**|piece (fragment, shred, morsel, crumb, shard)|Persian:(parče), Turkish:parça, Hindi:पारचा (pārcā), English:part, Portuguese:Spanish:parte|
 |**parde**|curtain|Bengali:পরদা (pôrda), Hindi:पर्दा (pardā), Turkish:perde|
-|**pardon**|sorry (pardon)|French:English:Turkish:ron:Hungarian:pardon, Spanish:perdón, Portuguese:perdão, bul:Russian:пардон (pardon)|
 |**pari**|even (level, peer, equal)|English:peer, French:pair,  Spanish:Portuguese:par, deu:Pere, Hindi:बराबर (barābar), Persian:Urdu: برابر‎ (barâbar)|
 |**parke**|park (garden)|English:deu:Turkish:Polish:park, Spanish:Portuguese:parque, French:parc, Russian:парк (park), Hindi:पार्क (pārk)|
 |**parne**|fern|English:fern, Russian:папоротник (paporotnik), Hindi:फर्न (pharna), Bengali:ফার্ন (phārna)|

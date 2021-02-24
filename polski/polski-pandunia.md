@@ -112,7 +112,7 @@ Austria - Ostria
 autobus, autokar - bus  
 autonomia - autonomia  
 autonomiczny - autonomi  
-awaria (wadliwe działanie) - malfunce  
+awaria (wadliwe działanie) - dusfunce  
 awokado - avakate  
 Azerbejdżan - Azerbaijan  
 Azja - Asia  
@@ -452,7 +452,7 @@ deszcz - barxe
 deszczowy - barxi  
 detal, szczegół - detal  
 dewanagari - deunagri harfe  
-dezaktualizować (pogorszyć) - maldarja  
+dezaktualizować (pogorszyć) - dusdarja  
 diabelski, szatański - xatani  
 diabeł, szatan - xatan  
 diament - almas  
@@ -1466,7 +1466,7 @@ mielić - molia
 miesiąc - mes  
 mieszkać - doma  
 mieć (partykuła posiadania) - du  
-mieć (posiadać) - malka  
+mieć (posiadać) - mala  
 mieć (trzymać) - tena  
 mieć sens - razonu  
 migdał - badam  
@@ -2262,7 +2262,7 @@ przekroczyć, przekraczać, przejść nad, iść nad - supra
 przekąska - lilyam  
 przekątny - transogoni  
 przepołowić (podzielić przez dwa) - dulo fena  
-przepraszam! - pardon  
+przepraszam! - maf  
 przepękla ogórkowata (balsamka ogórkowata) - alkalmelon  
 przerwać, przerywać - pauza  
 przesilenie - solestas  
@@ -2307,7 +2307,7 @@ przyrostek dla przymiotnika - -i
 przyrostek dla przysłówków - -o  
 przyrostek dla wsperającego ideę - iste  
 przyrostek dla wykonawcy - er  
-przystojny, atrakcyjny, ładny - bonrupi  
+przystojny, atrakcyjny, ładny - bonvidi  
 przyszłość - vil  
 przysłówek - modologe  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tirdar  
@@ -3285,8 +3285,8 @@ Węgry - Magyaria
 węzeł, zupeł - node  
 władać, panować, rządzić jako imperator - impera  
 władca - sultan  
-własność (mienie) - malke  
-właściciel (posiadacz) - malker  
+własność (mienie) - mal  
+właściciel (posiadacz) - malan  
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kex  
@@ -3470,11 +3470,10 @@ złapać, łapać, schwytać, chwytać - kapa
 złocień indyjski - neftoguke  
 złodziej - corer  
 złoto - aur  
-złowieszczy - malsinyi  
+złowieszczy - dussinyi  
 złośliwy, okrutny - zalimi  
 zły (wsciekły, gniewny) - furi  
-zły - mal (mali)  
-zły los - mal zar  
+zły los - dusi zar  
 zły, zrujnowany, zepsuty - harabi  
 ćsi - xuxo  
 ćwiczenie - lenxe  

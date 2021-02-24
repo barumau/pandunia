@@ -249,7 +249,6 @@ backup - sekuri kope
 backward (in reverse) - retro  
 bad (ruined, destroyed) - harabi  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dusi  
-bad - mal (mali)  
 bag (sack) - sake  
 baguette - batonpang  
 bah - bah  
@@ -313,6 +312,7 @@ beacon (lighthouse) - fotominar
 bean or pea (legume) - dou  
 bear - urse  
 beard - barde  
+beautiful (handsome, good-looking) - bonvidi  
 beautiful (handsome, pretty) - sundari  
 beauty - sundaria  
 beaver - kastor  
@@ -994,7 +994,7 @@ double (multiply by two) - dulo multa
 double entendre - dulmeni  
 doubt (disbelief) - dute  
 doubtful (suspicious, disbelieving) - dutani  
-downgrade - maldarja  
+downgrade - dusdarja  
 download - netogeta  
 drag (haul, tow, trail) - tova  
 dragon - lung  
@@ -1028,6 +1028,7 @@ duruka - yamxukarcau
 dust (powder) - fun  
 dye - rangomate  
 dynamite - dinamite  
+dysfunction (malfunction) - dusfunce  
 dysprosium - disprosem  
 dystheism (maltheism) - dusdevistia  
 dystopia - dustopia  
@@ -1282,6 +1283,7 @@ foreign country - vaidex
 forenoon - suboden  
 forest (woods, jungle) - jangle  
 forget - anmema  
+forgive (pardon) - mafa  
 fork - forke  
 form (questionaire) - eskodokum  
 form (shape) - forme  
@@ -1408,7 +1410,6 @@ Good day - salam den
 Good evening - salam xam  
 good luck - boni zar  
 Good morning - salam sube  
-good-looking - bonrupi  
 gorilla - goril  
 gospel (divine message) - evanjil  
 govern - governa  
@@ -1979,7 +1980,6 @@ Malayali (Malayalam) - malayali
 Malaysia - Malaisia  
 Maldives - Divehia  
 male - man  
-malfunction - malfunce  
 Mali - Mali  
 Malta - Malta  
 mammal - mamal  
@@ -2116,7 +2116,7 @@ minute - minute
 Miranda - Miranda  
 mirror - mirer  
 misdeed (sin, vice) - duskar  
-misfortune (bad luck) - mal zar  
+misfortune (bad luck) - dusi zar  
 mission (transmission, emission) - misia  
 mistake (error, fault, bug) - galte  
 misunderstand - galto buda  
@@ -2346,7 +2346,7 @@ old (aged, elderly) - lavi
 old (ancient, former) - ceniki  
 olive - zaitun  
 Oman - Oman  
-ominous (foreboding) - malsinyi  
+ominous (foreboding) - dussinyi  
 once - unmaro  
 oncilla - bagroselote  
 one (1) - un (uni)  
@@ -2400,8 +2400,8 @@ outer (external) - vayi
 outsider - vaijan  
 oven (furnace) - tanur  
 overpass - supre  
-own - malka  
-owner (proprietor) - malker  
+own - mala  
+owner (proprietor) - malan  
 oxeye daisy - bakomargarite  
 oxide - okside  
 oxygen - okse  
@@ -2451,6 +2451,7 @@ Paraguay - Paraguai
 parallel (longitudinal) - parlinyi  
 parameter (argument, input variable) - param  
 parasol - solcate  
+pardon (forgiveness; sorry) - maf  
 parent (mother or father) - jener  
 Paris - Paris  
 park (garden) - parke  
@@ -2691,7 +2692,7 @@ promise (vow, oath) - vode
 pronoun - visloge  
 pronounce (articulate) - fona  
 proof (evidence, proof, demonstration, testimony) - dalil  
-property (belongings, possessions) - malke  
+property (belongings, possessions) - mal  
 prophecy - nabe  
 prophet - naber  
 prophet Mani - Manihai  
@@ -3140,7 +3141,6 @@ sometime - koi sate
 son - mani pute  
 song - cante  
 soon - suno  
-sorry (pardon) - pardon  
 soul (mind, psyche) - ruh  
 sound (audio) - son  
 sound (make a sound) - sona  

@@ -882,6 +882,7 @@ par exemple - misalo
 paramètre - param  
 parapluie - barxocate  
 parc - parke  
+pardonner - mafa  
 Paris - Paris  
 parler - loga  
 parti - kiti  
@@ -960,7 +961,7 @@ Porto Rico - Portorikia
 Portoricain - portoriki  
 posidonie (herbiers marins) - haicau  
 possible - abli  
-possédant (propriétaire) - malker  
+possédant (propriétaire) - malan  
 posture (position) - asan  
 poudre à canon - barude  
 Poulpe (pieuvre) - balsenter  
@@ -983,7 +984,7 @@ projet - projete
 projeter (donner) - lancografa  
 prolongé - longoduri  
 promettre - voda  
-propriété (possession, bien) - malke  
+propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
 précieux - bavi  
