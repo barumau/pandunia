@@ -476,10 +476,6 @@ buton:|buton|||eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (ba
 buton.ban:|butonban||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klawiatura
 buz:e|buze|||swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
 C|C||||C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C
-c:e|ce||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
-c:e|ce||||this one||esto|||||これ||||||||ĉi tio|tämä|ten konkretny
-c:i|ci||||that (those)||eso|||||||||||||tiu|tuo (nuo)|tamten (tamten)
-c:i|ci|||zho:此 (cǐ), yue:此 (chi2), fra:ce|this (these)||esto|||||||||||||ĉi tiu|tämä (nämä)|ten, te
 cab:e|cabe|||por:chave, hin:(cābi), kon:nsapi|key||llave|||||||||||||ŝlosilo|avain|klucz
 Cad:ia|Cadia|dex|TD||Chad||Chad||||||||||||||Tšad|Czad
 cai:|cai|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
@@ -576,9 +572,10 @@ cuz:a|cuza|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choose (el
 cuz:e|cuze||||choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
 cuz.abl:e|cuzable||||option (choice)|option|opción|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
 D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
-d:a|da|||fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|of (particle of possession)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|omistetun omistajaan liittävä partikkeli|z (partykuła posiadania)
-d:a|da||||that (function word to introduce a relative clause)|||||||||||||||kiu (komencigas relativan frazon)|joka (sivulauseen aloittava sana)|
-d:u|du|prep.||zho:的 (de)|'s (postposition of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
+d:a|da||||of (attributive preposition)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|määritetyn määritteeseen liittävä partikkeli|z (partykuła posiadania)
+d:e|de||||that (this)||eso (esto)|||||||||||||tio|tämä (tuo, se)|
+d:i|di|||[di] eng:the, deu:die + [da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de)|the (this, that, these, those)|le|el (esto, eso)|||||||||||||la (tiu)|tämä (tuo, se)|ten (te)
+d:u|du|prep.|||'s (attributive postposition)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
 dad:e|dade|||spa:por:tgl:dado, may:swa:dadu|die (dice)||dado|dado|||||||||dadu|dadu||ĵetkubo|noppa (arpakuutio)|kość do gry
 dai:i|dayi|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
 dai:ia|dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
@@ -3490,8 +3487,7 @@ Tuualu:|Tuvalu|dex|TV||Tuvalu||Tuvalu||||||||||||||Tuvalu|Tuwalu
 tuz:e|tuze|biv|Lagomorpha|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|rabbit (hare)|lapin (lièvre)|conejo (liebre)|coelho (lebre)|кролик (заяц)||兔子|うさぎ|||खरगोश (शशक, सुस्सा)||arnab (kelinci)|sungura|tavşan||jänis|królik, zając
 U|U||||U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U
 u:a|va|prep.|rus:в (v), pol:w + ara:وَ (wa), fas: و‎ (va), tur:ve, swa:wa + yue:和 (wo4), kor:와 (wa), vie:và||by (at, in, on)|a (dans, en, chez)|en (a)||в||在||||||||||luona (-lla, -ssa)|przy, z, na, w, u
-u:a c:e|va ce||||there||allí (allá)||||||||||||||tuolla|
-u:a c:e|va ce||||here||acá (aquí)|||||||||||||tie|täällä|tu (tutaj, tam)
+u:a d:e|va de||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
 u:a k:e|va ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
 u:a lini:e|va linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 uad:e|vade|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina

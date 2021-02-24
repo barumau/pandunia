@@ -176,11 +176,10 @@ In Pandunia, function words have the following characteristics:
 | 3| 3rd person    | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
 | 4| Reflexive     | **se**<br>~self        | **si**<br>one's own    |                        |**sa**<br>to be; as a   |                        |
 | 5| Interrogative | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         | **ka**<br>than, as     |                        |
-| 6| Demonstrative | **ce**<br>this/that    | **ci**<br>this/that    |**co**<br>like this/that|                        |                        |
+| 6| Demonstrative | **de**<br>this/that    | **di**<br>the/this/that|**do**<br>like this/that| **da**<br>of, like     | **du**<br>'s, -like    |
 | 7| Negation      |(**ne**<br>none)        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      |                        |
 | 8| Affirmation   | **ye**<br>yes          |                        | **yo**<br>indeed       | **ya**<br>with         |                        |
-| 9| Possession    |                        |                        |                        | **da**<br>of           | **du**<br>'s           |
-|10| Location      |                        |                        |                        | **va**<br>at, in, on   |                        |
-|11| Destination   |                        |                        |                        | **pa**<br>to, for      |                        |
-|12| Origin        |                        |                        |                        | **ja**<br>from, since  |                        |
+| 9| Location      |                        |                        |                        | **va**<br>at, in, on   |                        |
+|10| Destination   |                        |                        |                        | **pa**<br>to, for      |                        |
+|11| Origin        |                        |                        |                        | **ja**<br>from, since  |                        |
 
