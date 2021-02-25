@@ -177,8 +177,8 @@ In Pandunia, function words have the following characteristics:
 | 4| Reflexive     | **se**<br>~self        | **si**<br>one's own    |                        |**sa**<br>to be; as a   |                        |
 | 5| Interrogative | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         | **ka**<br>than, as     |                        |
 | 6| Demonstrative | **de**<br>this/that    | **di**<br>the/this/that|**do**<br>like this/that| **da**<br>of, like     | **du**<br>'s, -like    |
-| 7| Negation      |(**ne**<br>none)        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>without      |                        |
-| 8| Affirmation   | **ye**<br>yes          |                        | **yo**<br>indeed       | **ya**<br>with         |                        |
+| 7| Negation      |(**ne**<br>none)        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>lack; without|                        |
+| 8| Affirmation   | **ye**<br>yes          |                        | **yo**<br>yes, indeed  | **ya**<br>have; with   |                        |
 | 9| Location      |                        |                        |                        | **va**<br>at, in, on   |                        |
 |10| Destination   |                        |                        |                        | **pa**<br>to, for      |                        |
 |11| Origin        |                        |                        |                        | **ja**<br>from, since  |                        |
