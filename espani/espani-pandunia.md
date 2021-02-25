@@ -985,6 +985,7 @@ descanso (alivio) - xante
 descargar - netogeta  
 descriptivo - sifi  
 deseo - vol  
+desfigurar - dusforma  
 desierto - regotopia  
 deslizar - glisu  
 desnudo - nudi  

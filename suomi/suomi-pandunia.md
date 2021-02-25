@@ -357,6 +357,7 @@ epäaktiivinen (pois toiminnasta) - anativi
 epäilevä - dutani  
 epäilys - dute  
 epäilyttävä - dutabli  
+epämuodostunut - dusformi  
 epäonni - dusi zar  
 epäonnistuminen - xibai  
 erbium - erbem  
@@ -2880,6 +2881,7 @@ Turkki - Turkia
 turkkilainen - turki  
 Turkmenistan - Turkomenia  
 turkoosi - firuze  
+turmella ulkomuoto - dusforma  
 turvallinen (varma) - sekuri  
 tutkia (opiskella) - loja  
 tutkia - genca  

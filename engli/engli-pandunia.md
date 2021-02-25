@@ -957,6 +957,7 @@ disagreement (disconsent) - alrayia
 disc (disk) - diske  
 discrete (digital, quantized) - feni  
 discussion (debate, discourse) - lon  
+disfigure - dusforma  
 dish - tas  
 dislike (loathe) - anama  
 disperse (spread out, scatter) - anjama  
@@ -1980,6 +1981,7 @@ Malayali (Malayalam) - malayali
 Malaysia - Malaisia  
 Maldives - Divehia  
 male - man  
+malformed (deformed, disfigured) - dusformi  
 Mali - Mali  
 Malta - Malta  
 mammal - mamal  

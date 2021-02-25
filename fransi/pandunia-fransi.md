@@ -393,6 +393,7 @@ dura - passer
 duru - durer  
 duriki - chronique  
 durmetrer - chronomètre  
+dusforma - défigurer  
 dusjan - ennemi  
 duskar - méfait (péché)  
 dusvidi - laid (vilain)  

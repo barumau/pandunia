@@ -242,6 +242,7 @@ dur - 时间
 durabli - 耐用的  
 durmetrer - 秒表  
 dusi - 难  
+dusforma - 变丑  
 dusjan - 敌人  
 dussinyi - 不祥的  
 dusvidi - 难看  

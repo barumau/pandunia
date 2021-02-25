@@ -450,6 +450,7 @@ début (commencement) - xur
 décapé (mariné) - sirkopurxipi  
 déchirer - cir  
 déchirer - cira  
+défigurer - dusforma  
 désaccord (différend) - alrayia  
 dévanagari - deunagri harfe  
 développement - darjomute  

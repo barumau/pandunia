@@ -281,6 +281,7 @@ dente-de-leão (taráxaco) - makanful
 derretre - yongu  
 descanso (repouso) - xante  
 desenvolvimento - darjomute  
+desfigurar - dusforma  
 deslizar - glisu  
 despertar - jagu  
 destino - cenamen  

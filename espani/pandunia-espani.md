@@ -715,6 +715,7 @@ durmetrer - cronómetro
 dusi - malo (difícil, duro)  
 dusi zar - infortunio (mala suerte)  
 dusdarja - degradar  
+dusforma - desfigurar  
 dusfunce - falla (mal funcionamiento)  
 dushal - dificultad (apuro, privación)  
 dusjan - enemigo  

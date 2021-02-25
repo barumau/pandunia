@@ -1190,6 +1190,7 @@ papero - kaguje
 papilio - pelpel  
 para nombro - pari numbe  
 pardoni - mafa  
+pardono - maf  
 parko (ĝardeno) - parke  
 parolema - logivi  
 paroli (komuniki) - baxa  

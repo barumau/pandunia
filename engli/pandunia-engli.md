@@ -775,6 +775,8 @@ dusi - bad (unfavorable, negative, evil, wicked, troublesome, difficult)
 dusi zar - misfortune (bad luck)  
 dusdarja - downgrade  
 dusdevistia - dystheism (maltheism)  
+dusforma - disfigure  
+dusformi - malformed (deformed, disfigured)  
 dusfunce - dysfunction (malfunction)  
 dushal - hardship (difficulty, challenge)  
 dusjan - enemy (foe, villain)  

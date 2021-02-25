@@ -233,6 +233,7 @@ dur - tempo (duração)
 duru - durar  
 duriki - crónico  
 durmetrer - cronómetro  
+dusforma - desfigurar  
 dusjan - inimigo  
 duskar - malfeitoria (pecado)  
 dusvidi - feio  

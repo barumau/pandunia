@@ -269,6 +269,7 @@ duru - длиться
 durabli - долговечный  
 duriki - хронический  
 durmetrer - секундомер  
+dusforma - уродовать  
 dusjan - враг (противник)  
 dussinyi - зловещий  
 dusvidi - безобразный (некрасивый)  

@@ -1077,6 +1077,7 @@ lutetem - lutecio
 me - mi  
 mi - mia  
 mome - ni  
+maf - pardono  
 mafa - pardoni  
 magia - magio  
 magesem - magnezio  

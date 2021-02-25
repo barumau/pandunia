@@ -728,6 +728,8 @@ dusi - paha (epäsuotuisa, epämiellyttävä, vastustava)
 dusi zar - epäonni  
 dusdarja - laskea tasoa  
 dusdevistia - dysteismi (usko jumalan pahuuteen)  
+dusforma - turmella ulkomuoto  
+dusformi - epämuodostunut  
 dusfunce - toimintahäiriö  
 dushal - vaikeus (hankaluus)  
 dusjan - vihollinen  
