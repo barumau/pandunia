@@ -475,7 +475,7 @@ bust:e|buste|||fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Bü
 but:e|bute|||eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|boot|botte|bota|bota|ботинок|||ブーツ|||||||||saapas (buutsi)|but
 buton:|buton|||eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|key (push-button, switch)|bouton|tecla (botón)|botão|пуговица||扣子||||बटन||kancing||düğme|klavo (butono)|nappi (näppäin, kytkin, nappula)|klawisz, przycisk, przełącznik, guzik
 buton.ban:|butonban||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klawiatura
-buz:e|buze|||swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
+buz:e|buze|biv|Capra|swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
 C|C||||C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C
 c:e|ce||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
 c:e|ce||||this one||esto|||||これ||||||||ĉi tio|tämä|ten konkretny
@@ -1348,8 +1348,6 @@ Hong: Gong:|Hong Gong|dex|HK||Hong Kong, SAR China||Hong Kong||||||||||||||Hong 
 hor:|hor|||fra:heure, eng:hour, spa:por:hora|hour|heure|hora|hora|час|سَاعَة|小时|時 (１時間)|시|giờ|घंटा|ঘন্টা|jam|saa|saat|horo|tunti|godzina
 hor.log.er:|horloger|||lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji|clock (watch)|horloge|reloj|relógio|часы|ساعة‎|钟|時計|시계|đồng hồ|घड़ी|ঘড়ি|jam (jam dinding)|saa|saat|horloĝo|kello (ajannäyttäjä)|zegar (zegarek)
 hor.log.er.minar:|horlogerminar||||clocktower||torre del reloj||||||||||||||kellotorni|wieża zegarowa
-horizon:|horizon||||horizon||horizonte|||||||||||||||horyzont
-horizon:i|horizoni|||eng:spa:fra:por:horizontal, rus:горизонта́льный (gorizontal’nyy)|||horizontal (lateral)||horizontal|||||||||||||poziomy (horyzontalny)
 hormon:|hormon|||eng:fra:hormone, spa:hormona, rus:гормон (gormon), tur:may:hormon, ara:هُرْمُون‎ (hurmūn), hin:हॉर्मोन (hŏrmon), zho:荷尔蒙 (hé'ěrméng), jpn:ホルモン (horumon)|hormone||hormona|||||||||||||hormono|hormoni|hormon
 Horuat:ia|Horvatia|dex|HR||Croatia||Croacia|||||||||||||Kroatio|Kroatia|Chorwacja
 hotel:|hotel|||eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|hotel|hôtel|hotel (albergue)|hotel|гостиница (отель)||旅馆|ホテル (旅館)|호텔 (여관)|khách sạn (lữ quán)|होटल|হোটেল|hotel|hoteli|otel|hotelo|hotelli|hotel
@@ -1916,7 +1914,7 @@ kuang:ia|kuangia||||mine|mine|mina|mina|мина||矿场|鉱山||||||||||kopalni
 kuang.er:|kuanger||||miner||minero|||||坑夫||||||||||górnik (kopacz)
 kuang.o.sui:|kuangosui||||mineral water||agua mineral||||||||||||||kivennäisvesi|woda mineralna
 kuang.o.tunel:|kuangotunel||||mineshaft|||||||||||||||||szyb górniczy
-kuarz:e|kuarze|||deu:Quarz, eng:fra:quartz, spa:cuarzo, rus:кварц (kvarc), tur:kuvars, hin:क्वार्ट्ज (kvārtj), jpn:クオーツ (kuōtsu), may:kuarza|quartz|quartz|cuarzo|quartzo|кварц||石英|石英||||||||||kwarc
+kuarc:e|kuarce|||deu:Quarz, eng:fra:quartz, spa:cuarzo, rus:кварц (kvarc), tur:kuvars, hin:क्वार्ट्ज (kvārtj), jpn:クオーツ (kuōtsu), may:kuarza|quartz|quartz|cuarzo|quartzo|кварц||石英|石英||||||||||kwarc
 kub:e|kube|||spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|cube|cube|cubo|cubo|куб|كَعْبَة|立方体|立方体|입방체|hình lập phương|घन|ঘনক|kubus||küp|kubo|kuutio|sześcian
 Kuba:|Kuba|dex|CU||Cuba||Cuba||||||||||||||Kuuba|Kuba
 kug:a|kuga|||zho:哭 (kū), yue:哭 (huk1), vie:khóc|weep (cry)||llorar|||||||||||||plori|itkeä|płakać, łkać
@@ -1975,7 +1973,7 @@ last:i|lasti|||eng:elastic, spa:por:elástico, gla:lastaig, rus:эласти́ч
 lasun:|lasun|biv|Allium sativum|hin:लहसुन (lahsun), ben:রসুন (rôśun), zho:大蒜 (dàsuàn)|garlic|ail|ajo|alho|чеснок||大蒜 (蒜头)|大蒜|마늘|tỏi|लहसुन|রসুন|bawang putih|kitunguu saumu|sarımsak|ajlo|valkosipuli|larwa, czerw, gąsienica
 lat:a|lata||||be beside (accompany)||estar al lado de|||||||||||||||być obok
 lat:e|late|||spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)|side (flank)|côté|lado (flanco)|lado|сторона (бок)||侧面 (旁边)|側 (脇)||||||||flanko (latero)|sivu (kylki, puoli)|strona (bok)
-lat:i|lati||||lateral|latéral|lateral|lateral|боковой (латеральный)|||||||||||flanka (latera)|sivu-|boczny
+lat:i|lati||||||lateral (horizontal)|latéral|lateral (horizontal)|lateral|боковой (латеральный)|||||||||flanka (latera)|sivu-|poziomy (horyzontalny, boczny)
 lat:o|lato||||sideways (laterally)||de lado|||||||||||||||z boku (na bok)
 lat.o.jan:|latojan||||companion (partner, sidekick)||compañero (compinche)|||||||||||||||towarzysz (partner, kumpel)
 latin:i harf:ia|latini harfia||||Latin alphabet||alfabeto latino||||||||||||||latinalaiset aakkoset|alfabet łaciński, łacinka, alfabet rzymski
@@ -2005,8 +2003,8 @@ lens:e|lense|||eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hi
 lent:i|lenti|||fra:lent, spa:por:lento|slow (lethargic)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas|powolny (wolny, letargiczny)
 lenx:a|lenxa||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
 lenx:e|lenxe|||zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|exercise||ensayo (ejercitio)|||||||||||||ekzerco|harjoitus|ćwiczenie
-letis:|letis|||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce|laitue|lechuga|alface|салат-латук||莴苣|レタス|||लेटिष|লেটুস||||laktuko|lehtisalaatti|sałata
-lez:e|leze|||zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|pear||pera||||梨|||||||||piro|päärynä|gruszka
+letis:|letis|biv||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce|laitue|lechuga|alface|салат-латук||莴苣|レタス|||लेटिष|লেটুস||||laktuko|lehtisalaatti|sałata
+lez:e|leze|biv||zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|pear||pera||||梨|||||||||piro|päärynä|gruszka
 liama:|liama*|biv||eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|llama|lama|llama|lhama|лама||大羊駝|ラマ||||||||||lama
 lib:a|liba||||erect||erigir (montar, armar)||||||||||||||nostaa pystyyn|postawić (stawiać)
 lib:i|libi||||erect (standing)||erguido||||||||||||||pysty (seisova)|postawiony (stojący)
@@ -2017,7 +2015,7 @@ lib.o.baz:e|libobaze||||stand (rack)||soporte (perchero, atril)||||架子|台|||
 Libanen:|Libanen|dex|LB||Lebanon||Líbano||||||||||||||Libanon|Liban
 libel:|libel|||spa:por:libélula, fra:libellule, deu:Libelle|dragonfly|libellule|libélula|libélula|стрекоза||蜻蜓|蜻蛉|잠자리||व्याध पतंग|ফড়িং|capung||yusufçuk|libelo|sudenkorento|ważka
 Liber:ia|Liberia|dex|LR||Liberia||Liberia||||||||||||||Liberia|Liberia
-lic:e|lice|||zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|lychee (litchi)||lichi||||||||||||||litši|liczi
+lic:e|lice|biv||zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|lychee (litchi)||lichi||||||||||||||litši|liczi
 lid:a|lida||||lead (direct)||dirigir (mandar, conducir, capitanear)||||||||||||||johtaa|prowadzić, dowodzić, kierować
 lid.er:|lider|||eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|leader (director)|dirigeant (leader)|dirigente (líder)|líder (chefe)|руководитель (лидер)||领导||||||||||johtaja (pomo)|dowódca, kierownik
 lid.o.kord:e|lidokorde||||leash (rein)||correa (rein)|||||リード (手綱)||||||||||smycz (cugiel, lejc, wodza)
@@ -2245,7 +2243,7 @@ meh:i kex:|mehi kex||||wool (fleece)|laine||||||||||||||||wełna (runo owcze)
 mei:|mei|||zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|every (each)||cada||||每|毎||||||||ĉiu(j)|joka (jokainen)|każdy, wszyscy
 mel:|mel|||por:mel, fra:spa:miel, ell:μέλι (méli)|honey|miel|miel|mel||||||||||||mielo|hunaja|miód
 mel.uesp:e|melvespe|biv|Apis||honeybee||abeja||||||||||||||mehiläinen|pszczoła miodna
-mel.uesp.o.nizd:e|melvesponizde||||beehive (honeycomb)|rayon de miel|colmena (panal)||улей (соты)|||蜂の巣 (ハニカム)|||||sarang lebah|sega||||plaster
+mel.uesp.o.nid:e|melvesponide||||beehive (honeycomb)|rayon de miel|colmena (panal)||улей (соты)|||蜂の巣 (ハニカム)|||||sarang lebah|sega||||plaster
 mel.uesp.o.sanduk:e|melvesposanduke||||beehive (beehouse)||||||蜂箱|養蜂箱||||||||||ul
 melod:i|melodi||||melodious (melodic)||melodioso||||||||||||||melodinen (sointuisa)|melodyczny
 melod:ia|melodia|||eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|melody||melodía|||||||||||||melodio|melodia (sävelmä)|melodia
@@ -2477,6 +2475,7 @@ nic:a|nica||||go under||||||||||||||||alittaa|iść w dół (iść pod spód, i�
 nic:e|nice|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 nic:i|nici||||lower (inferior)||inferior||||||||||||||ala-|poniższy
 nic:o|nico||||under||debajo||||||||||||||alla|pod (poniżej)
+nid:e|nide|||eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), hin:नीड़ (nīḍa), ben:নীড় (nīṛa)|nest (hive, den)|nid|nido (avispero, hormiguero, ratonera)|ninho (vespiero)|гнездо (улей)||巢 (穴)|巣|||घोंसला (नीड़, छत्ताधानी)||sarang|tundu (kiota, mzinga)||||gniazdo (ul, nora, jama, barłóg, legowisko)
 Nijer:|Nijer|dex|NE||Niger||Níger|||||||||||||Niĝero|Niger|Niger
 Nikaragua:|Nikaragua|dex|NI||Nicaragua||Nicaragua|||||||||||||Nikaragvo|Nikaragua|Nikaragua
 nikel:|nikel|mate|Ni||nickel||níquel|||||||||||||nikelo|nikkeli|nikiel
@@ -2494,7 +2493,6 @@ Nistr:ia|Nistria|dex|||Transnistria||Transnistria (Cisdniéster)||||||||||||||Tr
 nitr:e|nitre|mate|N||nitrogen||nitrógeno|||||||||||||nitrogeno|typpi|azot
 Niue:|Niue|dex|NU||Niue||Niue||||||||||||||Niue|Niue
 nix:|nix|||fra:eng:niche, por:nicho, rus:ниша (niša)|niche (recess, alcove)|niche|hornacina|nicho|ниша||壁龛|壁龕|반침||||||||alkovi|nisza, alkowa
-nizd:e|nizde|||eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), hin:नीड़ (nīḍa), ben:নীড় (nīṛa)|nest (hive, den)|nid|nido (avispero, hormiguero, ratonera)|ninho (vespiero)|гнездо (улей)||巢 (穴)|巣|||घोंसला (नीड़, छत्ताधानी)||sarang|tundu (kiota, mzinga)||||gniazdo (ul, nora, jama, barłóg, legowisko)
 nobel.em:|nobelem|mate|No||nobelium||nobelio|||||||||||||nobelio|nobelium|nobel
 noc:e|noce|||spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|night|noit|noche|noite|ночь||夜|夜|||रात||malam||gece|nokto|yö|noc
 noc.o.mod:e|nocomode||||night mode||modo nocturno||||||||||||||yömoodi|tryb nocny
@@ -3096,6 +3094,7 @@ sam.sif:ia|samsifia||||model (similarity, simulation)|simulation|modelo (similit
 samai:|samai|||ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|sky (heaven)|ciel|cielo|céu|небо|سَمَاء|天空|空|하늘|trời|आसमान (आकाश)|আকাশ|langit|mbingu|gök|ĉielo|taivas|niebo
 samai:i|samayi||||celestial (heavenly)||celeste (celestial)|||||||||||||||niebieski, niebiański, podniebny
 samai.hal:|samaihal||||weather||clima (tiempo)||погода||天气|天気|날씨|thời tiết|मौसम (ऋतु)|বতৰ|cuaca (hawa)|hali ya hewa|hava|vetero|sää|pogoda
+samai.kenar:|samaikenar||||horizon||horizonte||горизонт||地平线|地平線 (水平線, 天際)||||||||||horyzont
 samai.nil:i|samainili||||light blue (sky blue, azure)||celeste (azul celeste)||голубой|||空色||||||||||jasnoniebieski (lazurowy)
 samar.em:|samarem|mate|Sm||samarium||samario|||||||||||||samario||samar
 Samoa:|Samoa|dex|WS||Samoa||Samoa||||||||||||||Samoa|Samoa
@@ -3557,7 +3556,7 @@ uerm:e|verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm|ver|verme|verme||||||
 uermut:e|vermute|alkohol|||vermouth|vermouth|vermú|vermute|вермут|||||||||||vermuto|vermutti|wermut
 uersion:|version|||eng:fra:version, por:versão, rus:версия (versiya), may:versi|version (variation, edition)||versión (modelo)|||||||||||||versio (toisinto)|versio|wersja (wariacja, edycja, wydanie)
 uesp:e|vespe|biv||spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|bee or wasp|abeille ou guêpe|abeja o avispa|abelha ou vespa|||蜂|蜂||||||||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
-uesp.o.nizd:e|vesponizde||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣||||||||||ul (gniazdo pszczół lub os)
+uesp.o.nid:e|vesponide||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣||||||||||ul (gniazdo pszczół lub os)
 uest:e|veste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west||oeste||||||||||||||länsi|zachód
 uest:i|vesti||||western||occidental||||||||||||||läntinen|zachodni
 uest.o.dong:ia|vestodongia||||longitude||longitud|||||||||||||||długość geograficzna
