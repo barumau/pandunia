@@ -13,6 +13,7 @@ abl:a|abla|||eng:able, spa:hábil, fra:habile, ron:abil|can (know, be able)|pouv
 abl:e|able||||ability (skill)|capacité (compétence)|habilidad|||||||||||||povo|taito (kyky)|możliwość, umiejętność
 abl:i|abli||||possible|possible|posible|possível|возможный||可能|ありうる|가능하다||संभव (मुमकिन)||||olası (mümkün)|ebla|mahdollinen|możliwy
 abl:o|ablo||||maybe (perhaps, possibly)|peut-être|posiblemente|||||||||||||eble|ehkä (mahdollisesti)|prawdopodobnie (możliwie)
+abl.an:i|ablani||||able (capable)|||||||||||||||povanta|kykenevä (voiva)|
 acin.em:|acinem|mate|Ac||actinium|actinium|actinio|||||||||||||aktinio|aktinium|aktyn
 acu:|acu*|||spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|achoo|atchoum|achís||||阿嚏|||hắt xì|||||||atsii|apsik
 acu:a|acua||||sneeze|éternuer|estornudar|espirrar|чихать||打喷嚏|||||||||terni|aivastaa|kichać (kichnąć)
@@ -342,7 +343,7 @@ bazar:|bazar|||fas:urd: بازار (bāzār), hin:बाज़ार (bāzār),
 bazar.hur.ist:ia|bazarhuristia||||market liberalism||||||||||||||||markkinaliberalismi|liberalizm rynkowy
 beb:e|bebe|||fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|baby (infant)|bébé|bebé|bebê|младенец|رَضِيع|宝宝|赤ちゃん|||शिशु||bayi|mtoto mchanga||bebo|vauva|niemowlę
 bed:e|bede|||eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|bed||cama|||||||||||||lito|vuode (sänky, peti)|łóżko
-bedinjan:|bedinjan|biv|Solanum melongena|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|eggplant (aubergine, brinjal)||berenjena|||||||||||||melongeno|munakoiso|bakłażan, oberżyna
+bedinj:e|bedinje|biu|Solanum melongena|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|eggplant (aubergine, brinjal)|aubergine|berenjena|beringela||||||||||||melongeno|munakoiso|bakłażan, oberżyna
 beg:a|bega|||rus:убегать (ubegat'), hin:भागना (bhāgnā)|escape (flee, run away)||escaparse (evitar, huir)|||||||||||||fuĝi|paeta (karata)|uciec, uciekać
 bei:u|beyu|||zho:被 (bèi)|undergo (passivizing verb)||sufrir (verbo pasivo)||||||||||||||läpikäydä (passiivin muodostava verbi)|być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 Beijing:|Beijing||||Beijing (Peking)||Pekín||||||||||||||Peking (Beijing)|Pekin
@@ -580,7 +581,7 @@ D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
 d:a|da|||fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|of (particle of possession)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|omistetun omistajaan liittävä partikkeli|z (partykuła posiadania)
 d:a|da||||that (function word to introduce a relative clause)|||||||||||||||kiu (komencigas relativan frazon)|joka (sivulauseen aloittava sana)|
 d:u|du|prep.||zho:的 (de)|'s (postposition of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
-dad:e|dade|||spa:por:tgl:dado, may:swa:dadu|die (dice)||dado|dado|||||||||dadu|dadu||ĵetkubo|noppa (arpakuutio)|kość do gry
+zar.kub:e|zarkube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
 dai:i|dayi|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
 dai:ia|dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
 dai:u|dayu||||grow (get bigger)||crecer (aumentar)||||||||||||||kasvaa (suurentua)|urosnąć, rosnąć, wzrosnąć, wzrastać
@@ -628,7 +629,7 @@ dar.un:u|darunu||||merge (fuse)||fusionar (fundir)||||||||||||||sulaa yhteen (fu
 darb:a|darba|||ara:ضرب‎ (ḍaraba), fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|strike (punch)||golpear (pegar)|||||||||||||bati|lyödä (iskeä)|bić, uderzyć, uderzać
 darj:e|darje|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|step (degree, rank, grade, level, class)||paso (grado, nivel, rango, calidad, categoría)||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
 darj:i|darji||||gradual||||||||||||||||asteittainen (porrastettu)|stopniowy
-darj.o.maidan:|darjomaidan||||gradient (gradation, incline)|||||||||||||||||gradient (gradacja, stopniowanie)
+darj.o.meden:|darjomeden||||gradient (gradation, incline)|||||||||||||||||gradient (gradacja, stopniowanie)
 darj.o.mut:e|darjomute||||development|développement|desarrollo|desenvolvimento|развитие||发展 (开发)|発展 (開発)|발전 (개발)|sự phát triển|विकास|||||disvolvi|kehitys|rozwój
 darm:e|darme|||hin:धर्म (dharm), urd:(dharm), ben:ধর্ম (dhôrmô), guj:ધર્મ (dharma), tel:ధర్మము (dharmamu), tam:தருமம் (tarumam), tha:ธรรม (tam), mya:ဓမ္မ (dhamma), may:derma, zho:達摩 (dámó), kor:달마 (dalma), eng:deu:fra:spa:dharma, por:darma, rus:дхарма (dharma)|morality (ethics)||moralidad (ética)||||||||||||||moraali|moralność, etyka
 darm:i|darmi||||moral||moral (ético)||||||||||||||moraalinen|moralny
@@ -1095,6 +1096,7 @@ garm.o.mosim:|garmomosim|mosim|||summer|été|verano|verão|лето||夏季|夏
 garm.o.mosim.med:i den:|garmomosimmedi den||||Midsummer Day||Midsommar||||||||||||||juhannus (keskikesä, mittumaari)|przesilenie letnie (dzień srodka lata)
 garm.o.zon:|garmozon||||tropics|tropique|trópico|trópicos|тропик||热带|熱帯|||||||||tropiikki|tropiki
 garm.o.zon:i|garmozoni||||tropical||||||||||||||||trooppinen|tropikalny
+garm.o.zon:i cau.top:ia|garmozoni cautopia||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 gas:|gas|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|gas|gaz|gas|gás|газ||||||गैस||gas||gaz|gaso|kaasu|gaz
 gas:a|gasa||||gasify (vaporize)||gasificar||||||||||||||kaasuttaa|zamieniać w gaz
 gas:i|gasi||||gaseous||gaseoso||||||||||||||kaasumainen|gazowy
@@ -1553,12 +1555,12 @@ jiu:i|jivi||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живо�
 jok:e|joke|||eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|joke||broma (chiste)||||||||||||||vitsi|żart
 jok.er:|joker||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
 jong:|jong|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
-jouan:|jovan||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
-jouan:i|jovani|||hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane|young||joven|||||||||||||juna|nuori|młody
-jouan:i fem:|jovani fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
-jouan:i man:|jovani man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
-jouan:i mok:e|jovani moke||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
-jouan:ia|jovania||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
+jouen:|joven||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
+jouen:i|joveni|||hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|young (juvenile)|jeune (juvénile)|joven|jovem|юный||||젊다||जवान|||||juna|nuori|młody
+jouen:i fem:|joveni fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
+jouen:i man:|joveni man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
+jouen:i mok:e|joveni moke||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
+jouen:ia|jovenia||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
 jud:a|juda||||judge||juzgar (considerar)||||||||||||||tuomita|sądzić (osądzić)
 jud:e|jude||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
 jud:i|judi||||judicial||||||||||||||||oikeudellinen|
@@ -2124,10 +2126,6 @@ maget:i|mageti||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 Magiar:ia|Magyaria|dex|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 Magrib:ia|Magribia|dex|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
 maian:|mayan||||Maya||maya|||||||||||||majao|maya (mayaintiaani)|Maya
-maidan:|maidan|||ara:(maydān), fas:(meydan), hin:मैदान (maidān), tur:meydan, swa:medani, rus:майдан (maydan)|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)||广场|広場|광장|quảng trường||||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
-maidan:i|maidani||||open (wide, spacious)||abierto (extenso)||||||||||||||avara (aava)|otwarty (przestrzenny)
-maidan.fob:ia|maidanfobia||||agoraphobia||agorafobia||||||||||||||agorafobia (avoimen paikan kammo)|agorafobia
-maidan.papil:|maidanpapil|biv|Papaver rhoeas||corn poppy|coquelicot|amapola silvestre|papoila|мак самосейка||虞美人 (雛罌粟)|ヒナゲシ||||||||||mak polny
 Maiot:e|Mayote|dex|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 mais:|mais|||eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|corn (maize)||maíz||||||||||||||maissi|kukurydza
 maitner.em:|maitnerem|mate|Mt||meitnerium||meitnerio|||||||||||||mejtnerio|meitnerium|meitner
@@ -2231,6 +2229,10 @@ med:ia|media||||medium (media)||medio||||||||||||||media|media
 med:u|medu||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
 med.o.fas:|medofas||||interface|||||||||||||||||interfejs
 medal:|medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|medallion (medal)||medallón||||||||||||||mitali|medalion, medal
+meden:|meden|||ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)|مَيْدَان‎|广场|広場|광장|quảng trường|मैदान|ময়দান||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
+meden:i|medeni||||open (wide, spacious)||abierto (extenso)||||||||||||||avara (aava, aukea)|otwarty (przestrzenny)
+meden.fob:ia|medenfobia||||agoraphobia||agorafobia||||||||||||||agorafobia (avaran paikan kammo)|agorafobia
+meden.papil:|medenpapil|biv|Papaver rhoeas||corn poppy|coquelicot|amapola silvestre|papoila|мак самосейка||虞美人 (雛罌粟)|ヒナゲシ||||||||||mak polny
 medik:a|medika|||eng:medicine, spa:medicina, por:medicamento, fra:médicament, rus:медикамент (medikament)|heal (cure, remedy)||curar (sanar)||лечить|||||||||||sanigi (kuraci)|hoitaa (lääkitä)|uleczyć, leczyć, uzdrowić, uzdrawiać
 medik:ia|medikia||||medicine (field of study)||medicina||||||||||||||lääketiede|medycyna
 medik.er:|mediker||||doctor (medic, physician, healer)||doctor (médico)||врач (медик, лекарь, доктор)|||医者||||||||kuracisto|lääkäri (tohtori)|doktor, lekarz, uzdrowiciel
@@ -3129,7 +3131,6 @@ sau:|sau||||knowledge||sabiduría (conocimiento)|||||||||||||scio|tieto (tietäm
 sau:a|sava|||fra:savoir, spa:por:saber, eng:savvy|know (be aware of)|savoir (connaître)|saber (conocer)|saber (conhecer)|знать||知道 (晓得)|知る|알다|biết|जानना|জানা (চেনা)|tahu|kujua|bilmek|scii (koni)|tietää (tuntea)|wiedzieć
 sau:i|savi||||known||conocido||||||||||||||tietty (tunnettu)|wiadomy, znany
 sau.loj:ia|saulojia||||epistemology||epistemología|||||||||||||sciteorio (epistemologio)|tietoteoria (epistemologia)|epistemologia
-sauan:|savan|||eng:savannah, spa:sabana, rus:саванна (savanna), ara:سافانا (safana), swa:savana, hin:सवाना (savaana), jpn:サバンナ (sabanna)|savannah|savane|sabana|||||サバンナ||||||||||sawanna
 Saud:i Arab:ia|Saudi Arabia|dex|SA||Saudi Arabia||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska
 saudar:|saudar|||may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|sibling (brother or sister)||hermano o hermana|||||||||||||frato aŭ fratino|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 sauna:|sauna*|||fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|sauna||sauna|||||||||||||saŭno|sauna|sauna
@@ -3566,7 +3567,7 @@ uid:a|vida|||rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć,
 uid:e|vide||||view (vision)||vista (visión)||||||||||||||näkymä|widok, wzrok
 uid:u|vidu||||be seen||ser visto||||||||||||||näkyä|być widzianym
 uid.er:|vider||||spectator (sightseer)||espectador||зрительница|||見物人||||||||||obserwator (widz)
-uid.o.maidan:|vidomaidan||||visual field (field of vision)||campo de visión||||||||||||||näkökenttä|pole widzenia
+uid.o.meden:|vidomeden||||visual field (field of vision)||campo de visión||||||||||||||näkökenttä|pole widzenia
 uid.o.punt:e|vidopunte||||perspective (point of view)||perspectiva (punto de vista)||перспектива (точки зрения)|||遠近法 (見通し, 観点)||||||||||perspektywa (punkt widzenia)
 uidou:|vidou|||eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|widow|veuve|viudo|viúvo|вдова|أرملة‎|寡妇|寡婦|홀어미 (과부)|quả phụ|विधवा|বিধবা|janda (balu)|mjane|dul|vidvo|leski|wdowa
 uiet:i|vieti||||Vietnamese (Viet)||vietnamita||||||||||||||vietnamilainen|wietnamski
@@ -3673,9 +3674,11 @@ xarm:e|xarme|||fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham
 xarnir:|xarnir|||fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|hinge (pivot)||bisagra (gozne)|||||||||||||ĉarniro (pivoto)|sarana|zawias, oś
 xart:a|xarta||||stipulate||espicificar (estipular)||||||||||||||vaatia (edellyttää)|wymagać, przewidywać
 xart:e|xarte|||tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|condition (requirement)||condición (requisito, estipulación)|||||||||||||kondiĉo (postulo)|vaatimus (edellytys)|warunek
-xat:i|xati|||hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|hundred (100)||cien (100)||сто|||百 (１００)||||||||cent|sata (100)|sto (100)
-xatan:|xatan|||ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|devil (Satan)|Satan|Satanás|Satanás|Сатана||撒但|悪魔|||शैतान||iblis (syaitan)|shetani|şeytan|diablo (Satano)|paholainen (saatana, piru)|diabeł, szatan
-xatan:i|xatani||||devilish (satanic)||satánico||||||||||||||pirullinen|diabelski, szatański
+xat:i|xati|||hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|hundred (100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|सौ|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (100)|sto (100)
+xat:a|xata||||oppose (antagonize, object, resist)|s'opposer à|oponer|opor|противостоять||||||||||||vastustaa|
+xat:an|xatan||||adversary (antagonist, opponent)|adversaire (antagoniste, ennemi)|adversario|adversário|противник||敌手|敵 (相手)||||প্রতিপক্ষ|||rakip||vastustaja (vihollinen)|
+Xat:an|Xatan|||heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|devil (Satan)|Satan|Satanás|Satanás|Сатана||撒但|悪魔|||शैतान||iblis (syaitan)|shetani|şeytan|diablo (Satano)|saatana (sielunvihollinen)|diabeł, szatan
+xat.an:i|xatani||||devilish (satanic)||satánico||||||||||||||pirullinen|diabelski, szatański
 xatan.ist:e|xataniste||||Satanist||satanista||||||||||||||satanisti|satanista
 xatan.ist:ia|xatanistia||||Satanism (devil worship)||satanismo||||||||||||||satanismi (paholaisenpalvonta)|satanizm
 xatranj:e|xatranje|||hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|chess||ajedrez||||||||शतरंज||catur|sataranji||ŝako|šakki|szachy
@@ -3765,7 +3768,7 @@ zaman:|zaman|||tur:zaman, may:jaman, swa:zamani, ara:(zaman), fas:(zamān), + hi
 zaman.don:a|zamandona||||dedicate (devote)||dedicar|||||||||||||||dedykować (poświęcać, poświęcić)
 zaman.don:ia|zamandonia||||dedication (devotion)|||||||||||||||||dedykacja (poświęcenie)
 Zamb:ia|Zambia|dex|ZM||Zambia||Zambia||Замбия|||||||||||Zambio|Sambia|Zambia
-zar:|zar|||ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
+zar:|zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
 zar:i|zari||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
 Zardux:|Zardux||||Zoroaster|Zoroastre|Zoroastro||Зороастр|||||||||||Zoroastro|Zarathustra|Zaratusztra
 zardux.ist:e|zarduxiste||||Zoroastrian|zoroastrien|zoroastriano||зороастризм|||||||||||zoroastristo|zarathustralainen|zaratrustianin
