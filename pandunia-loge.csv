@@ -311,7 +311,6 @@ barx:u|barxu||||rain (pour down)||llover||дожди́ть|||雨が降る|||||||
 barx.o.cat:e|barxocate||||umbrella|parapluie|parasol|guarda-chuva|зонтик||伞||||छाता||payung||şemsiye|obrelo|sateenvarjo|parasol
 barx.o.kot:e|barxokote||||raincoat|imperméable|impermeable|capa de chuva|плащ (дождевик)||雨衣||||रेनकोट||jas hujan||yağmurluk||sadetakki|płaszcz nieprzemakalny
 barx.o.mosim:|barxomosim||||rainy season (monsoon)|mousson||monção|муссон||雨季|雨季|우기|mùa mưa|वर्षा ऋतु||musim hujan|majira ya mvua|muson||sadekausi|
-bas:i|basi|||fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|enough (sufficient)|assez|bastante|bastante (suficiente)|достаточно (довольно)||够|十分|||काफ़ी (बस)||cukup|basi||sufiĉa|tarpeeksi (riittävästi)|wystarczający
 basen:|basen|||eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|pool (basin, bowl)|bassin|piscina (alberca, lavadero)|bacia|бассейн|||||||||||baseno|allas|basen
 bask:e|baske|||eng:basket, may:bakul, jpn:バスケット (basuketto)|basket (basketball hoop)|panier (panier de basketball)|cesta (canasta, barquilla, aro)|||||||||||||korbo|kori|kosz
 bask.o.bol:|baskobol||||basket ball|basketball|baloncesto (básquetbol)|basketball|баскетбол||篮球||||बास्केट बॉल||bola basket||basketbol||koripallo|piłka do koszykówki (koszykówka)
@@ -2203,7 +2202,7 @@ matur:i fem:|maturi fem||||woman (adult female)||mujer (señora)||||女人|女�
 matur:i man:|maturi man||||man (adult male)||hombre (señor)||||男人|男の人||||||||viro|mies|mężczyzna, dorosły samiec
 mau:|mau|biv||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat|chat|gato|gato|кошка||猫|猫|고양이|mèo|बिल्ली|বেড়াল|kucing|paka (nyau)|kedi|kato|kissa|kot
 max: (max:o)|max (maxo)|||spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|more|plus|más|mais||||||||||||pli|enemmän (myös, lisäksi, plus)|bardzie
-max: k:a bas:|max ka bas||||too much||demasiado|||||||||||||tro|liikaa|zbyt
+max: k:a okei:|max ka okei||||too much||demasiado|||||||||||||tro|liikaa|zbyt
 max:i|maxi||||additional||adicional (extra)||||||||||||||lisä-|dodatkowy
 max:o|maxo||||also (too)||además|||||||||||||ankaŭ||
 max.bon:i|maxboni||||bonus|||||||||||||||||dodatkowy
@@ -2290,7 +2289,7 @@ milk:e|milke|||eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu)
 milk.o.kardon:|milkokardon|biv|Silybum marianum||milk thistle|chardon Marie|cardo mariano|cardo-mariano|расторопша пятнистая||水飞蓟|マリアアザミ||||||||||ostropest plamisty
 Mimas:|Mimas|planete 6 lune 1|||Mimas|||||||||||||||||
 min: (min:o)|min (mino)|||spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|less||menos|||||||||||||malpli|vähemmän|mniej
-min: k:a bas:|min ka bas||||too little||demasiado poco|||||||||||||maltro|liian vähän|zbyt mało
+min: k:a okei:|min ka okei||||too little||demasiado poco|||||||||||||maltro|liian vähän|zbyt mało
 min:a|mina||||except (minus)||excepto (menos)|||||||||||||escepte|paitsi (miinus)|oprócz, minus
 min:i|mini||||less (fewer)|||||||||||||||||
 min.darj:a|mindarja||||decrement|||||||||||||||||zmniejszyć o jeden
@@ -2565,7 +2564,7 @@ ok.o.sui:|okosui|||tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണു
 ok.o.sui.gas:|okosuigas||||tear gas|gaz lacrymogène|gas lacrimógeno|gás lacrimogéneo|слезоточи́вый газ||催泪瓦斯|催涙ガス||hơi cay||||||||gaz łzawiący
 okei:|okei||||okay (acceptance)||||||||||||||||hyväksyntä|
 okei:a|okeya||||accept (say okay)||aceptar||||||||||||||hyväksyä|zaakceptować, akceptować, powiedzieć okej, mówić okej
-okei:i|okeyi|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptable)||bien|||||大丈夫 (ＯＫ)||||||||akceptebla (okej)|kelpo (okei)|okej, spoko, akceptowalny
+okei:i|okeyi|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptable, alright, enough, sufficient)|assez|bien (aceptable, bastante, sufficiente)|bastante (suficiente)|достаточно (довольно)|||大丈夫 (ＯＫ, 十分)|||काफ़ी (बस)||cukup|basi||akceptebla (okej, sufiĉa)|kelpo (okei, tarpeeksi, riittävästi)|okej, spoko, akceptowalny, wystarczający
 oks:e|okse|mate|O||oxygen||oxígeno|||||||||||||oksigeno|happi|tlen
 oks.id:e|okside||||oxide|oxyde|óxide|óxide|окись (оксид)||氧化物|||||||||oksido|oksidi|tlenek
 Oland:i nes:ia|Olandi nesia|dex|AX||Aland Islands||islas Aland||||||||||||||Ahvenanmaa (Oolanti)|Wyspy Alandzkie
