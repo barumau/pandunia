@@ -71,9 +71,9 @@ The same rule applies also for two adjectives.
 ### With verb subject
 
 A verb can't be subject as such.
-So the verb is first, use **ce** to start a comment about the verb.
+So the verb is first, use **de** to start a comment about the verb.
 
-**chanta, ce sa boni.**
+**canta, de sa boni.**
 – Singing, that is good. (Singing is good.)
 
 

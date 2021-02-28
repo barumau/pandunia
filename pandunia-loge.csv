@@ -474,10 +474,6 @@ buton:|buton|||eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (ba
 buton.ban:|butonban||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klawiatura
 buz:e|buze|||swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
 C|C||||C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C
-c:e|ce||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
-c:e|ce||||this one||esto|||||これ||||||||ĉi tio|tämä|ten konkretny
-c:i|ci||||that (those)||eso|||||||||||||tiu|tuo (nuo)|tamten (tamten)
-c:i|ci|||zho:此 (cǐ), yue:此 (chi2), fra:ce|this (these)||esto|||||||||||||ĉi tiu|tämä (nämä)|ten, te
 cab:e|cabe|||por:chave, hin:(cābi), kon:nsapi|key||llave|||||||||||||ŝlosilo|avain|klucz
 Cad:ia|Cadia|dex|TD||Chad||Chad||||||||||||||Tšad|Czad
 cai:|cai|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
@@ -574,9 +570,10 @@ cuz:a|cuza|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choose (el
 cuz:e|cuze||||choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
 cuz.abl:e|cuzable||||option (choice)|option|opción|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
 D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
-d:a|da|||fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|of (particle of possession)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|omistetun omistajaan liittävä partikkeli|z (partykuła posiadania)
-d:a|da||||that (function word to introduce a relative clause)|||||||||||||||kiu (komencigas relativan frazon)|joka (sivulauseen aloittava sana)|
-d:u|du|prep.||zho:的 (de)|'s (postposition of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
+d:a|da||||of (attributive preposition)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|määritetyn määritteeseen liittävä partikkeli|z (partykuła posiadania)
+d:e|de||||that (this)||eso (esto)|||||||||||||tio|tämä (tuo, se)|
+d:i|di|||[di] eng:the, deu:die + [da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de)|the (this, that, these, those)|le|el (esto, eso)|||||||||||||la (tiu)|tämä (tuo, se)|ten (te)
+d:u|du|prep.|||'s (attributive postposition)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
 dai:i|dayi|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
 dai:ia|dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
 dai:u|dayu||||grow (get bigger)||crecer (aumentar)||||||||||||||kasvaa (suurentua)|urosnąć, rosnąć, wzrosnąć, wzrastać
@@ -1224,8 +1221,7 @@ hai:|hai|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), 
 hai:i|hayi||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
 hai.alg:e|hayalge|biv|||seaweed (macroalgae)|algues|macroalga|macroalga|морские водоросли||海藻|海藻|||||rumpai laut|||||wodorosty
 hai.amir.er:|hayamirer||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
-hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morska
-hai.ful:|haiful|biv|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
+hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morhai.ful:|haiful|biv|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
 hai.gun:|haigun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.hiar:|haihiar|biv|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
 hai.jel:|haijel|biv|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||meduza
@@ -1368,7 +1364,7 @@ hur.ist:ia|huristia||||liberalism||liberalismo||||||||||||||liberalismi|liberali
 hux:i|huxi|||fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|nice (pleasant, comfortable, cushy)||cómodo (lujoso)||||||||ख़ुश|খুশি|||hoş|agrabla|mukava (kiva, miellyttävä)|miły, przyjemny, uroczy
 I|I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I
 i:a|ya||||with (by)|avec|con||||||||||||||kanssa (kera, -lla)|
-i:e|ye|||eng:yes;yeah, kor:예 (ye), may:ya|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
+i:e|ye|||[ye] eng:yes;yeah, kor:예 (ye), may:ya + [ya] zho:有 (yǒu), yue:有 (yau5) + fra:il y a|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 iag:a|yaga||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 iag:o|yago|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
 iag.o.nes:|yagones||||peninsula||península|||||||||||||||półwysep
@@ -3497,8 +3493,7 @@ Tuualu:|Tuvalu|dex|TV||Tuvalu||Tuvalu||||||||||||||Tuvalu|Tuwalu
 tuz:e|tuze|biv|Lagomorpha|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|rabbit (hare)|lapin (lièvre)|conejo (liebre)|coelho (lebre)|кролик (заяц)||兔子|うさぎ|||खरगोश (शशक, सुस्सा)||arnab (kelinci)|sungura|tavşan||jänis|królik, zając
 U|U||||U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U
 u:a|va|prep.|rus:в (v), pol:w + ara:وَ (wa), fas: و‎ (va), tur:ve, swa:wa + yue:和 (wo4), kor:와 (wa), vie:và||by (at, in, on)|a (dans, en, chez)|en (a)||в||在||||||||||luona (-lla, -ssa)|przy, z, na, w, u
-u:a c:e|va ce||||there||allí (allá)||||||||||||||tuolla|
-u:a c:e|va ce||||here||acá (aquí)|||||||||||||tie|täällä|tu (tutaj, tam)
+u:a d:e|va de||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
 u:a k:e|va ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
 u:a lini:e|va linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 uad:e|vade|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina

@@ -337,24 +337,24 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ce <small>this or that</small>
+### de <small>this or that</small>
 
-**ce sa ke?**
+**de sa ke?**
 What's this?
 
-**ce sa aple.**
+**de sa aple.**
 This is an apple.
 
-**ce sa ke?**
+**de sa ke?**
 What is that?
 
-**ce sa oranje.**
+**de sa oranje.**
 That is an orange.
 
-**ce sa kirmi aple.**
+**de sa kirmi aple.**
 This is a red apple.
 
-**ci aple sa kirmi.**
+**di aple sa kirmi.**
 This apple is red.
 
 Note: When an adjective like
@@ -362,17 +362,17 @@ Note: When an adjective like
 is placed before a noun, it works as a modifier.
 When it follows the noun, it works as an adjectival verb.
 
-**ce sa kirmi.**
+**de sa kirmi.**
 This is red.
 
 Note: The demonstrative pronoun has two forms.
-The forms **ce** is used when it stands alone.
-The form **ci** is used when it modifies a noun.
+The forms **de** is used when it stands alone.
+The form **di** is used when it modifies a noun.
 
 **lole va ke?**
 Where are they?
 
-**lole va ce.**
+**lole va de.**
 They are here/there.
 
 **lole va te.**
@@ -386,16 +386,16 @@ They are (here) by me.
 
 ### du <small>'s (possessive particle)</small>
 
-**ce sa ke?**
+**de sa ke?**
 What's this?
 
-**ce sa me du telfone.**
+**de sa me du telfone.**
 It's my telephone.
 
-**ce sa ke du?**
+**de sa ke du?**
 Whose is this?
 
-**ce mi.**
+**de mi.**
 It's mine.
 
 Note: Possessive particle **du** is put between the owner and the owned thing.
@@ -455,7 +455,7 @@ I have two children.
 **me sava le.**
 I know him/her.
 
-**eska te sava ci jan?**
+**eska te sava di jan?**
 Do you know that person?
 
 **eska tote sava unale?**
@@ -531,7 +531,7 @@ No, I don't want tea. I want coffee.
 
 **te vola ki apel?**
 Which apple do you want?  
-**ci kirmi.**
+**di kirmi.**
 This red one.
 
 
@@ -595,7 +595,7 @@ Are you thirsty?
 **pardon! me no aha.**
 Sorry, I don't understand.
 
-**pardon! ce sa ke?**
+**pardon! de sa ke?**
 Excuse me, what's this?
 
 **pardon. ti name ke?**
@@ -703,7 +703,7 @@ I saw him/her yesterday.
 
 ### mena <small>to mean</small>
 
-**ci loge mena ke?**
+**di loge mena ke?**
 What does this word mean?
 
 **"maw" mena ke?**
@@ -721,7 +721,7 @@ I don't understand what it means.
 **pliza kitaba ti adres.**
 Please, write your address.
 
-**pliza kitaba le va ce.**
+**pliza kitaba le va de.**
 Please, write it here!
 
 
@@ -804,7 +804,7 @@ The voyage is very long.
 **hotel va ke?**
 Where is the hotel?
 
-**hotel va ci daw.**
+**hotel va di daw.**
 The hotel is on that road.
 
 **te va ke?**
@@ -929,7 +929,7 @@ Please give some money.
 **pliza dona le pa me.**
 Please give it to me.
 
-**me dona ce pa te.**
+**me dona de pa te.**
 I give this to you.
 
 **me dona buke pa lole.**
@@ -1051,7 +1051,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**pliza sida va ce!**
+**pliza sida va de!**
 Please, sit here!
 
 **me suku stasa.**

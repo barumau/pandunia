@@ -34,26 +34,25 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 **mome vida ze.**
 – We see ourselves.
 
-## Demonstrative pronouns
+## Demonstrative pronoun
 
-The demonstrative pronouns are:
+The demonstrative pronoun is:
 
-**ye**
-– this one  
-**we**
-– that one
+**de**
+– the one, this one, that one
 
-**me volu ye.**
-– I want this one.  
-**le volu we.**
-– He/she wants that one.
+**me vola de.**
+– I want that.  
+**le vola de.**
+– He/she wants that.
 
-They end in **-i** when they function as modifiers i.e. when they come before a noun.
+It ends in **-i** when it functions as a modifier i.e. when it comes before a noun.
 
-**yi maw**
-– This cat  
-**wi maw**
-– That cat
+**di mau**
+– the/this/that cat  
+**di vaf**
+– the/this/that dog  
+
 
 ## Interrogative pronouns
 
@@ -91,6 +90,6 @@ Also adjectives are questioned with **ki**.
 **ko lil?**
 – How small?
 
-**te tena ko day maw?**
+**te tena ko day mau?**
 – How big cat do you have?
 
