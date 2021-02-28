@@ -428,7 +428,7 @@ borrow (lend) - jeka
 borrow - jekogeta  
 Bosnia and Herzegovina - Bosnia e Hercegovina  
 botany (phytology) - fitolojia  
-bother (annoy, disturb) - turba  
+bother (annoy, disturb, irritate) - turba  
 Botswana - Cvana  
 bottle - botel  
 bottom - tal  
@@ -1693,7 +1693,6 @@ iridium - iridem
 iron - fer  
 ironic - ironi  
 irony - ironia  
-irritate (annoy, disturb) - irita  
 Islam - islamistia  
 Islamic - islamisti  
 islamophobia - islamfobia  

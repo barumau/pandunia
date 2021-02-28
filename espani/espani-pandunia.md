@@ -2145,7 +2145,6 @@ mol - mol
 moldear - forma  
 Moldova - Moldova  
 moler (pulverizar) - mola  
-molestar (irritar, fastidiar) - irita  
 molestar (perturber) - turba  
 molestar en - turbu  
 molibdeno - molidenem  

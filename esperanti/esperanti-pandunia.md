@@ -21,7 +21,6 @@ afrika - Afriki
 afrikamanteco - afrikofilia  
 afrikamanto - afrikofiler  
 Afriko - Afrike  
-agaci (tedi, malamuzi) - irita  
 agado - ation  
 aganto - ater  
 agema - ativi  

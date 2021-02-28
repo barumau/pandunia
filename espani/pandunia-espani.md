@@ -1331,7 +1331,6 @@ yote - gota
 Irakia - Iraq  
 Iran - Irán  
 iridem - iridio  
-irita - molestar (irritar, fastidiar)  
 ironi - irónico  
 ironia - ironía  
 islam - sumisión (rendición)  

@@ -3279,7 +3279,6 @@ zulu - Zulu
 äidinkieli - jeni bax  
 äiti (emä) - mam  
 ällistyttää - ajaba  
-ärsyttää (häiritä) - irita  
 äsken (vasta, juuri) - novo  
 äänestää - vota  
 ääni (äänestyksessä) - vote  

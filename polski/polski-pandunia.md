@@ -906,7 +906,6 @@ ironia dramatyczna - dramironia
 ironia sytuacyjna - xeihalironia  
 ironiczny - ironi  
 iryd - iridem  
-irytować (zirytować, drażnić) - irita  
 Islam - islamistia  
 islamofobia - islamfobia  
 islamski - islamisti  

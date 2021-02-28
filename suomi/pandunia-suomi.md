@@ -1332,7 +1332,6 @@ yote - pisara (tippa)
 Irakia - Irak  
 Iran - Iran  
 iridem - iridium  
-irita - ärsyttää (häiritä)  
 islam - alistuminen (antautuminen)  
 islamu - alistua (antautua)  
 islamfobia - islamofobia (islamin pelko)  

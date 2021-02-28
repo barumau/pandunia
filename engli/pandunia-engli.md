@@ -1449,7 +1449,6 @@ yota\* - yotta-
 Irakia - Iraq  
 Iran - Iran  
 iridem - iridium  
-irita - irritate (annoy, disturb)  
 ironi - ironic  
 ironia - irony  
 islam - submission (surrender)  
@@ -3474,7 +3473,7 @@ tuneltren - subway (metro)
 tunike - tunic (gown)  
 Tunisia - Tunisia  
 tupe - hat (cap)  
-turba - bother (annoy, disturb)  
+turba - bother (annoy, disturb, irritate)  
 turbe - trouble (disturbance, bother, annoyance)  
 turbu - be bothered by (bother to, take the trouble to)  
 turki - Turkish  

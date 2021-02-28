@@ -778,7 +778,6 @@ yomsete - semajno
 Irakia - Irakio  
 Iran - Iranio  
 iridem - iridio  
-irita - agaci (tedi, malamuzi)  
 islamisti - islama  
 islamisti xaria - ŝario  
 islamistia - islamo  

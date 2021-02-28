@@ -1332,7 +1332,6 @@ yota\* - milion
 Irakia - Irak  
 Iran - Iran  
 iridem - iryd  
-irita - irytować (zirytować, drażnić)  
 ironi - ironiczny  
 ironia - ironia  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
