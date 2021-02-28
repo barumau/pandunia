@@ -53,7 +53,6 @@ acuarela - suirang
 acuario (pecera) - pextanke  
 acuerdo - samrayia  
 acuoso - suyi  
-acá (aquí) - va ce  
 adelante - jino  
 además - maxo  
 adicional (extra) - maxi  
@@ -122,7 +121,7 @@ algún - koi (koyi)
 algún día (algún vez) - koi sate  
 alicate - pinser  
 alinear - parlinyu  
-allí (allá) - va ce  
+allí (allá) - va de  
 almendra - badam  
 almirante - hayamirer  
 almohada - kuxen  
@@ -295,7 +294,7 @@ aventura - ventur
 aventurero - venturer  
 avisar (notificar) - notana  
 aviso (notificación) - notite  
-avispero (colmena) - vesponizde  
+avispero (colmena) - vesponide  
 axproximarse - karibu  
 ay! - ai  
 ayer - cendeno  
@@ -385,7 +384,7 @@ biblioteca - kitabokan
 bibliotecario - kitabominister  
 bicicleta - pedalsikle  
 bicicleta - sikle  
-bien - okeyi  
+bien (aceptable) - okeyi  
 bienvenido - salam lai  
 bilingüe - dulbaxi  
 billete de ida y vuelta - retrotikete  
@@ -594,7 +593,7 @@ celeste (celestial) - samayi
 celoso (envidioso) - jelosi  
 cementerio - gabrotopia  
 cemento - semente  
-cena - xamyam  
+cena - suaryam  
 ceniza - hui  
 centellear (titilar) - xingofota  
 centi- (por ciento) - centi\*  
@@ -709,7 +708,7 @@ colchón - matras
 colección (grupo, conjunto, montón) - jamia  
 colectivo - jami  
 colgar - penda  
-colmena (panal) - melvesponizde  
+colmena (panal) - melvesponide  
 colocar (poner, ubicar) - loka  
 Colombia - Kolombia  
 colonia - kolonia  
@@ -745,7 +744,7 @@ completar (terminar) - purfina
 complot (conspiración) - sirplan  
 comportamiento (conducta) - manir  
 comportarse (portarse) - manira  
-compota de manzanas - apelsos  
+compota de manzanas - aplosaus  
 comprador - xoper  
 comprar - xopa  
 compras (shopping) - xope  
@@ -1107,6 +1106,7 @@ eje - akse
 ejemplo - misal  
 ejército - geugunia  
 ejército - gun  
+el (esto, eso) - di  
 El Salvador - Salvador  
 el uno al otro (se) - unal  
 elección - cuze  
@@ -1223,8 +1223,7 @@ eslavo - slavi
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - zumurude  
-eso - ce  
-eso - ci  
+eso (esto) - de  
 espacio (separación) - kal  
 espacio (texto) - kali harfe  
 espada - katan  
@@ -1260,8 +1259,6 @@ estar en contra - kontra
 estaño - estan  
 estimar (apriximarse a) - yaga  
 estirar (extender) - tirlonga  
-esto - ce  
-esto - ci  
 Estonia - Estia  
 estornudar - acua  
 estrella - xing  
@@ -1608,8 +1605,7 @@ Hong Kong - Hong Gong
 hongo (moho) - fung  
 honrar - onora  
 hora - hor  
-horizontal (lateral) - horizoni  
-horizonte - horizon  
+horizonte - samaikenar  
 hormigo - murce  
 hormona - hormon  
 hornacina - nix  
@@ -1629,7 +1625,7 @@ humor (gracia) - yumor
 humor - emoshal  
 humorista - yumoriste  
 humorístico (gracioso, cómico) - yumori  
-humus - humusosos  
+humus - humusosaus  
 Hungría - Magyaria  
 huracán (tifón) - rototafun  
 hurra - ura  
@@ -1839,7 +1835,7 @@ largo (longitud) - longia
 largo - longi  
 larva - larve  
 lasaña - lazanye  
-lateral - lati  
+lateral (horizontal) - lati  
 latitud - sudonordia  
 laurencio - laurensem  
 lava - yongopetre  
@@ -2005,7 +2001,7 @@ mantener (detener) - estasa
 mantequilla - makan  
 mantra - mantre  
 manual - handi  
-manzana - apel  
+manzana - aple  
 manzanilla de Castilla - kamil  
 manzanilla romana (camomila común) - romakamil  
 maní - geudou  
@@ -2150,8 +2146,8 @@ moldear - forma
 Moldova - Moldova  
 moler (pulverizar) - mola  
 molestar (irritar, fastidiar) - irita  
-molestar (preocupar) - mafana  
-molestar en - mafanu  
+molestar (perturber) - turba  
+molestar en - turbu  
 molibdeno - molidenem  
 molinero - moler  
 molino - molia  
@@ -2273,7 +2269,7 @@ nevar - himu
 newton (N) - nuton  
 neón - neon  
 Nicaragua - Nikaragua  
-nido (avispero, hormiguero, ratonera) - nizde  
+nido (avispero, hormiguero, ratonera) - nide  
 nieve - him  
 Nieves - Nevis  
 Nigeria - Naijiria  
@@ -2290,7 +2286,7 @@ no - no
 no binario (género) - bis  
 nobelio - nobelem  
 nobiembre - desunmes  
-noche (tarde) - xam  
+noche (tarde) - suar  
 noche - noce  
 nombre - nam  
 nombre de usuario - uzernam  
@@ -2692,7 +2688,7 @@ principal - xefi
 prisión - prizon  
 proactinio - protacinem  
 probar (demonstrar, comprobar) - dalila  
-problema (disturio) - mafan  
+problema (disturio) - turbe  
 problema - problem  
 problemático - problemi  
 proceso (procedimiento) - proses  
@@ -3178,7 +3174,7 @@ taoísta - daviste
 tapa (funda, cubierta) - dake  
 taponar - tapa  
 tapón (tapa) - tape  
-tarde (después de mediodía) - xamden  
+tarde (después de mediodía) - suarden  
 tarjeta (carta) - karde  
 tasa (precio, cuota, tarifa) - takse  
 tatuaje - tatu\*  

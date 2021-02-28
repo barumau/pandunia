@@ -345,7 +345,7 @@ compassion - samemos
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
 compost - biucaniver  
-compote de pommes - apelsos  
+compote de pommes - aplosaus  
 comprendre (réaliser) - aha  
 concert - konserte  
 concombre - hiar  
@@ -583,6 +583,7 @@ géologie - geulojia
 géométrie - geumetria  
 géopolitique - geupolitike  
 géothermique - geutermi  
+gêner (déranger, perturber) - turba  
 ####H - H  
 habiller (vêtir) - fuka  
 haine - hen  
@@ -675,8 +676,8 @@ langue maternelle - jeni bax
 lapin (lièvre) - tuze  
 lapis-lazuli - lazurpetre  
 lasagne - lazanye  
-latéral - lati  
 lave - yongopetre  
+le - di  
 lent - lenti  
 lentille - lense  
 Lettonie - Latvia  
@@ -806,7 +807,7 @@ Neptune - Neputun
 neuf (9) - navi  
 neurone - neurcel  
 niche - nix  
-nid - nizde  
+nid - nide  
 niveau - par  
 noir - siahi  
 noit - noce  
@@ -962,7 +963,7 @@ poivre - pipre
 poivre long - longopipre  
 poli - fotofrika  
 pollution - najis  
-pomme - apel  
+pomme - aple  
 pont - pul  
 porte - porte  
 porte-bloc (planchette à pince) - pinsoban  
@@ -1022,7 +1023,7 @@ racine - mul
 rang - ode  
 rare - rari  
 raton laveur - vaxurse  
-rayon de miel - melvesponizde  
+rayon de miel - melvesponide  
 rein - nefre  
 religion - din  
 remplir - pura  
@@ -1049,7 +1050,7 @@ roue - cakre
 rouge - lali  
 ruban (bande) - tepe  
 rubis - lalbauxeke  
-ruche (nid d'abeille) - vesponizde  
+ruche (nid d'abeille) - vesponide  
 ruse - truke  
 réparateur - reiboner  
 réparation - reibon  
@@ -1115,6 +1116,7 @@ six (6) - sisi
 société - sosia  
 soie - silke  
 soif - suiyau  
+soir (soirée) - suar  
 soldat - gunjan  
 soleil - sol  
 sommeil - som  

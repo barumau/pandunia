@@ -51,8 +51,8 @@ anjil - месседж
 anker - якорь  
 anten - антенна  
 anus - анус  
-apel - яблоко  
-apelsos - яблочное пюре  
+aple - яблоко  
+aplosaus - яблочное пюре  
 Apsni - Абхазия  
 ar - площадь  
 arabobabul - акация нильская  
@@ -428,7 +428,6 @@ hogoxeke - кремень
 hoke - хоккей  
 hor - час  
 horloger - часы  
-horizoni - horizontal  
 hotel - гостиница (отель)  
 huidarte - подзол  
 huke - крюк (гак)  
@@ -628,7 +627,7 @@ lan - проклятие
 lancite - снаряд  
 lasun - чеснок  
 late - сторона (бок)  
-lati - боковой (латеральный)  
+lati - lateral (horizontal)  
 Latvia - Латвия  
 lavi - пожилой  
 lazanye - лазанья  
@@ -676,8 +675,6 @@ luter - грабитель
 ####M - M  
 me - я  
 mome - мы  
-mafana - утруждать  
-mafanu - утруждай  
 magesem - магний  
 Magribia - Марокко  
 majenti - маджента (фуксия)  
@@ -719,7 +716,7 @@ medika - лечить
 mediker - врач (медик, лекарь, доктор)  
 medikosui - зелье  
 mege - облако  
-melvesponizde - улей (соты)  
+melvesponide - улей (соты)  
 melon - дыня  
 mem - память  
 mema - помнить  
@@ -780,11 +777,11 @@ nefre - почка
 nefte - масло  
 Neputun - Нептун  
 neurcel - нейрон  
+nide - гнездо (улей)  
 nili - синий (голубой)  
 nilcentaur - василёк синий  
 Nipon - Япония  
 nix - ниша  
-nizde - гнездо (улей)  
 noce - ночь  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
@@ -956,6 +953,7 @@ samrayia - согласие
 samsifia - симуляция  
 samai - небо  
 samaihal - погода  
+samaikenar - горизонт  
 samainili - голубой  
 san - три (3)  
 sanyom - среда  
@@ -1013,6 +1011,7 @@ sori - запереть
 sosi jinse - гендер  
 sosia - общество (социум)  
 sosis - колбаса (сосиска)  
+suar - вечер  
 sui - вода  
 suigas - пар  
 suiyau - жажда  
@@ -1069,6 +1068,8 @@ tova - волочить
 trate - договор  
 truka - обмануть  
 truke - обман  
+turba - утруждать  
+turbu - утруждай  
 tuze - кролик (заяц)  
 ####U - U  
 va - в  

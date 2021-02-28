@@ -52,7 +52,7 @@ anjil - 信息
 anker - 锚  
 anten - 天线  
 anus - 肛门  
-apel - 苹果  
+aple - 苹果  
 aplika - 运用  
 ar - 面积  
 arabobabul - 阿拉伯金合欢  
@@ -572,6 +572,7 @@ lancografa - 投射
 lantanem - 鑭  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
+lati - боковой (латеральный)  
 Latvia - 拉脱维亚  
 lavi - 老 (老年, 年歲大)  
 laxa - 落 (留下)  
@@ -706,12 +707,12 @@ nautil - 鹦鹉螺
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
+nide - 巢 (穴)  
 nili - 蓝色  
 nilcentaur - 矢車菊  
 nilseramxing - 茜草花  
 Nipon - 日本  
 nix - 壁龛  
-nizde - 巢 (穴)  
 noce - 夜  
 norde - 北  
 nostalgia - 怀旧  
@@ -854,6 +855,7 @@ samrayia - 一致
 samsifia - 模型  
 samai - 天空  
 samaihal - 天气  
+samaikenar - 地平线  
 san - 三 (3)  
 sanyom - 星期三 (禮拜三)  
 sanzong - 三叉戟  
@@ -900,6 +902,7 @@ sor - 锁
 sosi jinse - 社會性別  
 sosia - 社会  
 sosis - 香肠  
+suar - 晚上  
 sui - 水  
 suigas - 蒸汽  
 suiyau - 口渴  
@@ -996,7 +999,6 @@ vute - 物体 (物品)
 ####W - W  
 ####X - X  
 xalke - 鳞  
-xam - 晚上  
 Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  

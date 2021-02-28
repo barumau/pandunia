@@ -127,8 +127,8 @@ Antigua - Antigua
 Antigua e Barbuda - Antigua-et-Barbuda  
 anus - anus  
 anusi - anal  
-apel - pomme  
-apelsos - compote de pommes  
+aple - pomme  
+aplosaus - compote de pommes  
 aplika - appliquer  
 aplike - application  
 Apsni - Abkhazie  
@@ -337,6 +337,7 @@ coklatobaton - tablette de chocolat
 cope - houe  
 cuzable - option  
 ####D - D  
+di - le  
 daidom - palais (château, manoir)  
 daihai - océan  
 daipau - canon  
@@ -763,7 +764,6 @@ lancograf - projection
 lancografa - projeter (donner)  
 lasun - ail  
 late - côté  
-lati - latéral  
 Latvia - Lettonie  
 lavi - vieux (âgé, ancien)  
 laxa - laisser  
@@ -856,7 +856,7 @@ medikosui - pocion
 mege - nuage  
 mehi kex - laine  
 mel - miel  
-melvesponizde - rayon de miel  
+melvesponide - rayon de miel  
 mem - mémoire  
 mema - se rappeler (se remémorer)  
 mening - méninge  
@@ -914,11 +914,11 @@ Neputun - Neptune
 netogeta - télécharger  
 neurcel - neurone  
 nice - dessous  
+nide - nid  
 nili - bleu  
 nilcentaur - Centaurée bleuet  
 Nipon - Japon  
 nix - niche  
-nizde - nid  
 noce - noit  
 norde - nord  
 nostalgia - nostalgie  
@@ -1152,6 +1152,7 @@ son - son
 sor - serrure  
 sosia - société  
 sosis - saucisse  
+suar - soir (soirée)  
 suede - sueur  
 sui - eau  
 suigas - vapeur d’eau  
@@ -1202,6 +1203,7 @@ trate - contract (traité)
 truka - escroquer  
 truke - ruse  
 Tunisia - Tunisie  
+turba - gêner (déranger, perturber)  
 tuze - lapin (lièvre)  
 ####U - U  
 va - a (dans, en, chez)  
@@ -1233,7 +1235,7 @@ vero - vraiment
 verme - ver  
 vermute - vermouth  
 vespe - abeille ou guêpe  
-vesponizde - ruche (nid d'abeille)  
+vesponide - ruche (nid d'abeille)  
 vida - voir  
 vidou - veuve  
 viyoleti - violet (pourpre)  

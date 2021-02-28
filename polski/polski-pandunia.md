@@ -206,7 +206,6 @@ blisko (niemal, prawie) - karibo
 bliskość - karibe  
 blog - bloge  
 blokować, hamować - barya  
-boczny - lati  
 bogactwo (fortuna, majątek) - ricia  
 bogaty - rici  
 bohater, heros - vir  
@@ -710,7 +709,7 @@ globalny (światowy) - panduni
 globalny - duni  
 glutaminian sodu - vijin  
 gluten - gluten  
-gniazdo (ul, nora, jama, barłóg, legowisko) - nizde  
+gniazdo (ul, nora, jama, barłóg, legowisko) - nide  
 gniew, furia - furia  
 godzina - hor  
 golem - golem  
@@ -849,14 +848,14 @@ Honduras - Onduras
 Hong Kong - Hong Gong  
 honorowy - onori  
 hormon - hormon  
-horyzont - horizon  
+horyzont - samaikenar  
 hotel - hotel  
 houstoia azurowa - nilseramxing  
 houstonia - seramxing  
 humanista - insaniste  
 humanistyczny - insanisti  
 humanizm - insanistia  
-hummus - humusosos  
+hummus - humusosaus  
 humor (nastrój) - emoshal  
 humor - yumor  
 humorystyczny, śmieszny, zabawny, komiczny - yumori  
@@ -923,7 +922,7 @@ iść wzdłuż (pójść wzdłuż) - parlinyu
 iść, maszerować - marca  
 ####J - J  
 ja, mnie - me  
-jabłko - apel  
+jabłko - aple  
 jabłko cukrowe - ata\*  
 jadalnia - yamkamar  
 jagoda - ber  
@@ -1103,7 +1102,7 @@ kokos - yeze
 koktajl - mixi alkol  
 kola (coca-cola) - kokokol  
 kola, napój gazowany - kol  
-kolacja - xamyam  
+kolacja - suaryam  
 kolano - gute  
 kolczuga - silnete  
 kolec - ding  
@@ -2022,7 +2021,7 @@ placy - ruke
 plan - plan  
 planeta - planete  
 planować - plana  
-plaster - melvesponizde  
+plaster - melvesponide  
 plastik - plastike  
 platforma - platoforme  
 Platon - Platon  
@@ -2106,7 +2105,7 @@ ponieważ, bo - sabo da
 poniższy - nici  
 popełnić błąd - galta  
 popiół - hui  
-popołudnie - xamden  
+popołudnie - suarden  
 poprawić, poprawiać, prostować, korygować - saha  
 poprawny (wykonalny) - funcabli  
 poprowadzić do (doprowadzić do, powodować) - asara  
@@ -2165,7 +2164,7 @@ powód, przyczyna - sabe
 poza, pozycja - poze  
 pozdrowienie - salame  
 pozdrowić, pozdrawiać - salama  
-poziomy (horyzontalny) - horizoni  
+poziomy (horyzontalny, boczny) - lati  
 pozostawać w tyle (zwlekać) - laxu  
 pozostawiać (pozostawić) - laxa  
 pozostałość (szczątek) - lax  
@@ -2209,7 +2208,7 @@ preferować (woleć) - maxfila
 premier - xefi minister  
 prezydent - prezidente  
 problem - problem  
-problem, kłopot, zakłócenie - mafan  
+problem, kłopot, zakłócenie - turbe  
 problematyczny - problemi  
 proces, procedura - proses  
 proch strzelniczy - barude  
@@ -2256,7 +2255,7 @@ przegrana (strata, porażka) - xibai
 przegrany, pokonany - xibayer  
 przegrać, przegrywać - xibaya  
 przejazd, przewóz, tranzyt - transe  
-przejmować się (zawracać sobie głowę) - mafanu  
+przejmować się (zawracać sobie głowę) - turbu  
 przejść w poprzek - krusu  
 przejść, przechodzić, przejechać, przejeżdżać - transa  
 przekleństwo (cholera!) - lan  
@@ -2271,7 +2270,7 @@ przesilenie - solestas
 przesilenie letnie (dzień srodka lata) - garmomosimmedi den  
 przestępstwo - krim  
 przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - migru  
-przeszkodzić, przeszkadzać, robić kłopot - mafana  
+przeszkodzić, przeszkadzać, robić kłopot - turba  
 przeszłość - pas  
 przeszły, miniony - pasi  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
@@ -2640,7 +2639,7 @@ Somalia - Somalia
 Somaliland - Somaldex  
 sometime - koi sate  
 sos - saus  
-sos jabłkowy - apelsos  
+sos jabłkowy - aplosaus  
 sosna - song  
 spacja - kali harfe  
 spadek, dziedzictwo, spuścizna, zapis - varis  
@@ -2849,8 +2848,6 @@ tal - talem
 talerz - platotas  
 taleta, W####C - tualete  
 tamilski - Tamil  
-tamten (tamten) - ci  
-tamten - ce  
 Tanach, Biblia hebrajska - tanah  
 taniec - danse  
 tantal - tantalem  
@@ -2878,8 +2875,7 @@ tellur - telurem
 telugu - telugi  
 temat, motyw - tem  
 temperatura - terme  
-ten konkretny - ce  
-ten, te - ci  
+ten (te) - di  
 tendencja - ivia  
 tenesyn, tennessine - tenesiem  
 tenis - tenis  
@@ -2925,7 +2921,7 @@ tost - rosti pang
 towarzysz (partner, kumpel) - latojan  
 transport - transeria  
 trawa - cau  
-trawa morska - haicau  
+trawa morhai.ful: - haicau  
 treść (zawartość) - ten  
 tropikalny - garmozoni  
 tropiki - garmozon  
@@ -2945,7 +2941,7 @@ trzęsienie Ziemi - geusisme
 trójkąt - sangon  
 trójząb - sanzong  
 trąba powietrzna (cyklon, tornado, tajfun) - rototafun  
-tu (tutaj, tam) - va ce  
+tu (tutaj, tam) - va de  
 tuba, rura - tube  
 tul - tulem  
 tulipan - tulpe  
@@ -3007,7 +3003,7 @@ ukrzyżować - krusfiksa
 ukształtować, kształtować, urzeźbić, rzeźbić - forma  
 ukwiał - haiful  
 układ słoneczny - solsistem  
-ul (gniazdo pszczół lub os) - vesponizde  
+ul (gniazdo pszczół lub os) - vesponide  
 ul - melvesposanduke  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
 ulubiony - maxfili  
@@ -3118,7 +3114,7 @@ wice- - visi
 wiceprezydent - visprezidente  
 widelec - forke  
 widok, wzrok - vide  
-wieczór - xam  
+wieczór - suar  
 wiedza - sau  
 wiedzieć - sava  
 wiejski, rustykalny - rusti  

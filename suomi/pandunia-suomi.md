@@ -128,6 +128,7 @@ ansora - avata lukko
 ansori - lukitsematon  
 antapa - korkata  
 anzaya - poistaa (hävittää)  
+an:a - teettää  
 analiza - analysoida  
 analize - analyysi  
 ande - muna  
@@ -146,8 +147,8 @@ Antigua - Antigua
 Antigua e Barbuda - Antigua ja Barbuda  
 anus - peräaukko (anus)  
 anusi - anaalinen  
-apel - omena  
-apelsos - omenasose  
+aple - omena  
+aplosaus - omenasose  
 aplika - soveltaa  
 aplike - sovellus  
 Apsni - Abhaasia  
@@ -440,10 +441,6 @@ buton - nappi (näppäin, kytkin, nappula)
 butonban - näppäimistö  
 buze - vuohi  
 ####C - C  
-ce - tuo  
-ce - tämä  
-ci - tuo (nuo)  
-ci - tämä (nämä)  
 cabe - avain  
 Cadia - Tšad  
 cai - tee  
@@ -534,8 +531,9 @@ cuza - valita
 cuze - valinta (vaali)  
 cuzable - vaihtoehto  
 ####D - D  
-da - omistetun omistajaan liittävä partikkeli  
-da - joka (sivulauseen aloittava sana)  
+da - määritetyn määritteeseen liittävä partikkeli  
+de - tämä (tuo, se)  
+di - tämä (tuo, se)  
 du - -n (oma)  
 dayi - iso (suuri)  
 dayia - suuruus (koko)  
@@ -1250,7 +1248,7 @@ huke - koukku (haka)
 hukokrus - hakaristi (svastika)  
 hulei - kettu  
 humus - kikherne  
-humusosos - hummus  
+humusosaus - hummus  
 hura - vapauttaa  
 huri - vapaa  
 huria - vapaus  
@@ -1878,8 +1876,6 @@ mi - minun
 mome - me  
 maf - anteeksi  
 mafa - antaa anteeksi  
-mafan - vaiva (haitta)  
-mafana - vaivata  
 magi - taianomainen (maaginen)  
 magia - taika (taikuus, magia)  
 mager - taikuri  
@@ -2846,6 +2842,9 @@ suahili - suahili
 Sualbarde - Svalbard  
 suan - happo  
 suani - hapan (kirpeä)  
+suar - ilta  
+suarden - iltapäivä  
+suaryam - illallinen  
 Suati - Swazimaa  
 sube - aamu  
 subyam - aamiainen  
@@ -3017,6 +3016,8 @@ tuneltren - metrojuna (maanalainen)
 tunike - mekko (tunika)  
 Tunisia - Tunisia  
 tupe - lakki (hattu)  
+turba - häiritä (vaivata)  
+turbe - häiriö (vaiva)  
 turki - turkkilainen  
 Turkia - Turkki  
 Turkomenia - Turkmenistan  
@@ -3024,8 +3025,7 @@ Tuvalu - Tuvalu
 tuze - jänis  
 ####U - U  
 va - luona (-lla, -ssa)  
-va ce - tuolla  
-va ce - täällä  
+va de - siellä (tuolla)  
 va ke - missä?  
 vade - laakso  
 vaf - koira  
@@ -3158,9 +3158,6 @@ Uzbekia - Uzbekistan
 xake - oksa (haara)  
 xakal - šakaali  
 xal - huivi (šaali)  
-xam - ilta  
-xamden - iltapäivä  
-xamyam - illallinen  
 xaman - šamaani  
 Xampan vin - ĉampano  
 xan - vuori (mäki)  

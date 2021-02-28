@@ -1,5 +1,5 @@
 # engli-pandunia
-'s (postposition of possession) - du  
+'s (attributive postposition) - du  
 -ic (a person or thing with specific character) - iki  
 @ symbol - adresharfe  
 ####A - A  
@@ -53,7 +53,7 @@ Africa - Afrike
 African - Afriki  
 afrophile - afrikofiler  
 Afrophilia - afrikofilia  
-afternoon - xamden  
+afternoon - suarden  
 again (repeatedly) - reyo  
 age - umur  
 agent (doer, actor) - ater  
@@ -149,8 +149,8 @@ anvil - metalbede
 any (no matter which) - eni  
 appear - zayu  
 appearance (looks) - rupe  
-apple - apel  
-applesauce - apelsos  
+apple - aple  
+applesauce - aplosaus  
 application - aplike  
 apply (put to use for a purpose) - aplika  
 apprentice - karxuler  
@@ -306,7 +306,7 @@ be about (discuss as a subject) - tema
 be against - kontra  
 be beside (accompany) - lata  
 be born - jenu  
-be bothered by (bother to, take the trouble to) - mafanu  
+be bothered by (bother to, take the trouble to) - turbu  
 be called (be named) - nama  
 be located (lie, be situated) - loku  
 be seen - vidu  
@@ -325,11 +325,11 @@ bed - bede
 bedouin (nomadic) - badavi  
 bedrock - bazopetre  
 bedroom - somkamar  
-bee nest (beehive, wasp's nest) - vesponizde  
+bee nest (beehive, wasp's nest) - vesponide  
 bee or wasp - vespe  
 beef - muhmanse  
 beehive (beehouse) - melvesposanduke  
-beehive (honeycomb) - melvesponizde  
+beehive (honeycomb) - melvesponide  
 beer - bir  
 beetroot - bete  
 before (in the past) - paso  
@@ -428,7 +428,7 @@ borrow (lend) - jeka
 borrow - jekogeta  
 Bosnia and Herzegovina - Bosnia e Hercegovina  
 botany (phytology) - fitolojia  
-bother - mafana  
+bother (annoy, disturb) - turba  
 Botswana - Cvana  
 bottle - botel  
 bottom - tal  
@@ -572,6 +572,7 @@ catch fish - saida pex
 Caucasia - Kaukasia  
 cauldron - daivaze  
 cause (be the cause for) - saba  
+cause (make sb. do sth.) - an:a  
 cave - guh  
 Cayman Islands - Kaiman nesia  
 ceiling - kamargau  
@@ -951,7 +952,7 @@ difference - alsifia
 different - alsifi  
 dig (excavate) - kava  
 dining room - yamkamar  
-dinner - xamyam  
+dinner - suaryam  
 Dione - Dione  
 diorite - diorite  
 direction - dix  
@@ -1141,7 +1142,7 @@ evaluation (criticism) - piping
 even (implying extreme example) - hato  
 even (level, peer, equal) - pari  
 even number - pari numbe  
-evening - xam  
+evening - suar  
 event (case, instance) - kas  
 every (each) - mei  
 everybody (everyone) - pan jan  
@@ -1532,7 +1533,6 @@ helmet - sarkaske
 help (aid, assistance) - helpe  
 help (assist) - helpa  
 Helsinki - Helsinki  
-here - va ce  
 heritage (legacy, bequest) - varis  
 hero - vir  
 heroic - viri  
@@ -1580,7 +1580,7 @@ Hong Kong, SAR China - Hong Gong
 honorable (respectable) - onori  
 hook - huke  
 hope (wish) - inxala  
-horizon - horizon  
+horizon - samaikenar  
 hormone - hormon  
 horn - korne  
 horned melon (kiwano) - kornomelon  
@@ -1599,7 +1599,7 @@ humane - insaniki
 humanism - insanistia  
 humanist - insaniste  
 humanistic - insanisti  
-hummus - humusosos  
+hummus - humusosaus  
 humor - yumor  
 humorist - yumoriste  
 humorous (comical, funny) - yumori  
@@ -1816,7 +1816,6 @@ lasagna - lazanye
 last (final) - finodi  
 last (take time; during) - duru  
 later (after) - bado  
-lateral - lati  
 Latin alphabet - latini harfia  
 latitude - sudonordia  
 Latvia - Latvia  
@@ -2247,7 +2246,7 @@ nephritis - nefritis
 Neptune - Neputun  
 neptunium - neputunem  
 nerve - neur  
-nest (hive, den) - nizde  
+nest (hive, den) - nide  
 net (web, mesh) - nete  
 Netherlands - Nederlandia  
 Netherlands Antilles - Nederlandi Antil  
@@ -2334,7 +2333,7 @@ octopus - balsenter
 ocular - oki  
 odd (strange, weird) - bizari  
 Odia (Oriya) - odisi  
-of (particle of possession) - da  
+of (attributive preposition) - da  
 of course (obviously) - klaro  
 off (deactivated, disabled) - anativi  
 office (bureau) - ofisia  
@@ -3389,10 +3388,9 @@ than (as, compared to) - ka
 thank - danka  
 thanks (thank you) - danke  
 thanks to - danko da  
-that (function word to introduce a relative clause) - da  
-that (those) - ci  
+that (this) - de  
 that is (in other words, i.e., alias) - alnamo  
-that one - ce  
+the (this, that, these, those) - di  
 the Grenadines - Grenadin nesia  
 theft - cor  
 theism - devistia  
@@ -3401,7 +3399,7 @@ theocracy - deukratia
 theology - deulojia  
 theory - teoria  
 theosophy - deusofia  
-there - va ce  
+there - va de  
 thermometer - termometrer  
 they - lole  
 thick - grosi  
@@ -3410,8 +3408,6 @@ thief - corer
 thing - xei  
 think (ponder, reflect) - fikra  
 thirst - suiyau  
-this (these) - ci  
-this one - ce  
 thistle - kardon  
 thorium - torem  
 thorn tree (acacia) - babul  
@@ -3507,7 +3503,7 @@ Trinidad and Tobago - Trinidade e Tobago
 Triton - Triton  
 tropical - garmozoni  
 tropics - garmozon  
-trouble (disturbance, bother) - mafan  
+trouble (disturbance, bother, annoyance) - turbe  
 true (real, genuine) - veri  
 truly (indeed, very) - vero  
 trunk (torso) - torse  

@@ -613,7 +613,7 @@ hulluus (mielettömyys) - folia
 humanismi - insanistia  
 humanisti - insaniste  
 humanistinen - insanisti  
-hummus - humusosos  
+hummus - humusosaus  
 humoristi - yumoriste  
 hunaja - mel  
 huomata (hoksata) - nota  
@@ -663,6 +663,8 @@ hyönteinen (ötökkä) - koncung
 hyöty (etu) - faide  
 hyötyaines - faidomate  
 häh? - he  
+häiritä (vaivata) - turba  
+häiriö (vaiva) - turbe  
 häkki - batonkapse  
 hämmästys (ihmetys) - ajabia  
 hämähäkinverkko - arannete  
@@ -691,7 +693,7 @@ ikkuna - janel
 ikkunankehys (ikkunanpuite) - janelfrem  
 ikä - umur  
 ilkeä (julma) - zalimi  
-illallinen - xamyam  
+illallinen - suaryam  
 ilma - air  
 ilman - na  
 ilmanpaine - airbaria  
@@ -704,8 +706,8 @@ ilmavoimat - airgun
 ilmiasu (ulkonäkö) - rupe  
 iloinen (tyytyväinen) - suki  
 ilostuttaa - suka  
-ilta - xam  
-iltapäivä - xamden  
+ilta - suar  
+iltapäivä - suarden  
 ilves - lince  
 imeä - cupa  
 imperialismi - imperistia  
@@ -784,7 +786,6 @@ jodi - yodem
 johtaa - lida  
 johtaja (pomo) - lider  
 joka (jokainen) - mei  
-joka (sivulauseen aloittava sana) - da  
 jokainen asia - pan xei  
 jokainen ihminen - pan jan  
 joki (virta) - nade  
@@ -1732,6 +1733,7 @@ mänty - song
 märkä (kostea) - xipi  
 mätä - pudi  
 määritellä (luonnehtia) - sifa  
+määritetyn määritteeseen liittävä partikkeli - da  
 määrä (päämäärä, kohtalo) - cenamen  
 määrätä - gola  
 ####N - N  
@@ -1866,11 +1868,10 @@ olut (kalja) - bir
 oma (-nsa) - si  
 omaisuus - mal  
 Oman - Oman  
-omena - apel  
-omenasose - apelsos  
+omena - aple  
+omenasose - aplosaus  
 omistaa - mala  
 omistaja - malan  
-omistetun omistajaan liittävä partikkeli - da  
 ommella - suta  
 ongelma - problem  
 ongelmallinen - problemi  
@@ -2471,6 +2472,7 @@ seutu (maa) - tope
 Seychellit - Sexel nesia  
 sianliha - gurubomanse  
 side (remmi) - fax  
+siellä (tuolla) - va de  
 siemen - sem  
 siemen- - semi  
 siemenjyvä - semdan  
@@ -2744,6 +2746,7 @@ te - tote
 tee - cai  
 teehuone (kahvila) - caikan  
 teekuppi - caikupe  
+teettää - an:a  
 tehdas - fatokan  
 tehdä (valmistaa) - cana  
 tehdä (valmistaa) - fata  
@@ -2867,11 +2870,8 @@ tuntea (kokea tunteita) - emosu
 tuntea - senta  
 tunteellinen (tunne-) - emosi  
 tunti - hor  
-tuo (nuo) - ci  
-tuo - ce  
 tuoda - layana  
 tuoli - kurse  
-tuolla - va ce  
 tuomari - juder  
 tuomio - jude  
 tuomita - juda  
@@ -2922,8 +2922,8 @@ työskennellä - kara
 tähdätä (kohti) - dika  
 tähti - xing  
 tähtialus - astronau  
-tämä (nämä) - ci  
-tämä - ce  
+tämä (tuo, se) - de  
+tämä (tuo, se) - di  
 tämä hetki (nyt) - zai  
 tänään - zaideno  
 täplä (läiskä) - binde  
@@ -2934,7 +2934,6 @@ täysin - puro
 täytetty pulla - mante  
 täyttää - pura  
 täytyä (olla pakko) - debu  
-täällä - va ce  
 törkeä - nindi  
 Tšad - Cadia  
 Tšekki - Cehia  
@@ -3002,9 +3001,7 @@ vaikeus (hankaluus) - dushal
 vaikuttaa - asara  
 vaikutus (tulos) - asar  
 vain (pelkästään) - sado  
-vaiva (haitta) - mafan  
 vaivata (hieroa) - masaja  
-vaivata - mafana  
 valaistunut - budi  
 valinta (vaali) - cuze  
 valita - cuza  

@@ -522,7 +522,7 @@ lama - pote
 lançador de foguetes - roketolancer  
 laranja - oranje  
 lasanha - lazanye  
-lateral - lati  
+latéral - lati  
 leite - milke  
 lembrar-se (recordar-se) - mema  
 lente - lense  
@@ -588,7 +588,7 @@ mastro - maste
 matadouro - bucokan  
 matemática - hisabolojia  
 matéria - mate  
-maçã - apel  
+maçã - aple  
 medusa - haijel  
 meia - maze  
 meio (metade) - mede  
@@ -617,6 +617,7 @@ moenda (moinho) - molia
 moer - mola  
 mol - mol  
 moldura - frem  
+molestar (perturber) - turba  
 molhado - xipi  
 molhar - xipa  
 monção - barxomosim  
@@ -654,9 +655,10 @@ Netuno - Neputun
 neurônio - neurcel  
 neve - him  
 nicho - nix  
-ninho (vespiero) - nizde  
+ninho (vespiero) - nide  
 nivel - par  
 noite - noce  
+noitinha - suar  
 norte - norde  
 nostalgia (saudade) - nostalgia  
 nota - note  
@@ -792,7 +794,7 @@ prolongado - longoduri
 promessa (voto) - vode  
 prova - dalil  
 purpúreo (roxo) - viyoleti  
-purê de maçã - apelsos  
+purê de maçã - aplosaus  
 pá - bel  
 página - varkolate  
 pão - pang  

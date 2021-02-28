@@ -618,6 +618,7 @@ hundo - vaf
 iam - koi sate  
 ideo - idei  
 ido (infano) - pute  
+igi (farigi) - an:a  
 ili - lole  
 ilo - tul  
 indio - hindem  
@@ -751,7 +752,6 @@ kio? - ke
 kio? - ki xei  
 kiom? - ko multo  
 kiso - cum  
-kiu (komencigas relativan frazon) - da  
 kiu? - ki jan  
 kivo - kivi\*  
 klara - klari  
@@ -868,6 +868,7 @@ kuŝi - kuxu
 kvar (4) - cari  
 kvin (5) - limi  
 ####L - L  
+la (tiu) - di  
 laborejo - karkan  
 laboristo - karer  
 laboro - kar  
@@ -1266,7 +1267,7 @@ politikisto - politiker
 politiko - politike  
 polonio - polskem  
 polvo - fun  
-pomo - apel  
+pomo - aple  
 ponardo - kanjar  
 ponto - pul  
 popolo - dem  
@@ -1276,7 +1277,7 @@ porkaĵo - gurubomanse
 porko - gurube  
 Portoriko - Portorikia  
 posteno - asan  
-posttagmeze - xamden  
+posttagmeze - suarden  
 povanta - ablani  
 povi - abla  
 povo - able  
@@ -1566,17 +1567,16 @@ terpomo - patate
 tertremo - geusisme  
 testo - teste  
 Tibeto - Bodia  
-tie - va ce  
+tie - va de  
 tigro - bagre  
 timi - fobu  
 timiga - fobani  
 timigi - foba  
 timo (fobio) - fobia  
+tio - de  
 tio estas (alivorte) - alnamo  
 tiri - tira  
 titanio - titanem  
-tiu - ce  
-tiu - ci  
 Toglando - Togo  
 tomato - tomate  
 tombejo - gabrotopia  
@@ -1657,8 +1657,8 @@ verda - lugi
 vermuto - vermute  
 versio (toisinto) - version  
 veruko - zeyil  
-vespermanĝo - xamyam  
-vespero - xam  
+vespermanĝo - suaryam  
+vespero - suar  
 vesti (surporti) - fuku  
 vestigi - fuka  
 vesto - fuke  
@@ -1737,8 +1737,6 @@ zuluo - Zulu
 ĉenero - sil  
 ĉeno - silsil  
 ĉevalo - gude  
-ĉi tio - ce  
-ĉi tiu - ci  
 ĉiam - pansato  
 ĉielo - samai  
 ĉimpanzo - cimpanze  

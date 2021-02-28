@@ -140,6 +140,7 @@ an.sor:a|ansora||||unlock||||||||||||||||avata lukko|otworzyć (otwierać, odklu
 an.sor:i|ansori||||unlocked||||||||||||||||lukitsematon|zamknięty na klucz (zakluczony)
 an.tap:a|antapa||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
 an.zai:a|anzaya||||remove (delete, dispose, erase)||quitar (eliminar, borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
+an1:a|an:a|||eng:fra:-ant, spa:por:-ando, tur:-(y)an;-(y)en, may:-an + [ana] fas:(-ân-), hin:(-(v)ānā), ben:-নো  (-ānô)|cause (make sb. do sth.)|||||||||||||||igi (farigi)|teettää|
 analiz:a|analiza||||analyse|analyser|analizar||анализировать||分析|||||||||analizi|analysoida|analizować
 analiz:e|analize|||eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|analysis|analyse|análisis|análise|анализ||分析||||||||analiz|analizo|analyysi|analiza
 and:e|ande|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg|oeuf|huevo|||||||||||||ovo|muna|jajko (jajo)
@@ -159,8 +160,8 @@ Antigua:|Antigua|dex|||Antigua|Antigua|Antigua||||||||||||||Antigua|Antigua
 Antigua: e: Barbuda:|Antigua e Barbuda|dex|AG||Antigua and Barbuda|Antigua-et-Barbuda|Antigua y Barbuda||||||||||||||Antigua ja Barbuda|Antigua i Barbuda
 anus:|anus|||eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|anus|anus|ano||анус||肛门|||||||||anuso|peräaukko (anus)|odbyt
 anus:i|anusi||||anal|anal|anal|||||||||||||anusa|anaalinen|analny, odbytni
-apel:|apel|biv||eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|||सेब||apel (epal)|tofaa|elma|pomo|omena|jabłko
-apel.sos:|apelsos||||applesauce|compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||omenasose|sos jabłkowy
+apl:e|aple|biv||eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|||सेब||apel (epal)|tofaa|elma|pomo|omena|jabłko
+apl.o.saus:|aplosaus||||applesauce|compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||omenasose|sos jabłkowy
 aplik:a|aplika||||apply (put to use for a purpose)|appliquer|emplear (aplicar)|usar|||运用||||प्रयोग में लाना||||kullanmak||soveltaa|zastosować, stosować
 aplik:e|aplike|||eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|application|application|aplicación||||||||||||||sovellus|zastosowanie, aplikacja
 Apsni:|Apsni|dex|||Abkhazia|Abkhazie|abjazia||Абхазия||||||||||||Abhaasia|Abchazja
@@ -1221,7 +1222,8 @@ hai:|hai|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), 
 hai:i|hayi||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
 hai.alg:e|hayalge|biv|||seaweed (macroalgae)|algues|macroalga|macroalga|морские водоросли||海藻|海藻|||||rumpai laut|||||wodorosty
 hai.amir.er:|hayamirer||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
-hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morhai.ful:|haiful|biv|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
+hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morhai.ful:
+hai.ful:|haiful|biv|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
 hai.gun:|haigun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.hiar:|haihiar|biv|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
 hai.jel:|haijel|biv|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||meduza
@@ -1351,7 +1353,7 @@ huk:e|huke|||eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk
 huk.o.krus:|hukokrus||||swastika (hooked cross)|svastika (croix gammée)|esvástica (cruz gamada)|suástica (cruz gamada)|свастика||卍 (卐)|卍 (卐)|만자문|chữ Vạn|स्वस्तिक|স্বস্তিক|||gamalı haç|svastiko|hakaristi (svastika)|swastyka
 hulei:|hulei|biv|Vulpes vulpes|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|fox|renard|zorro|raposa|лиса|ثَعْلَب|狐狸|狐|여우|cáo|लोमड़ी|শিয়াল|rubah|thalabu|tilki|vulpo|kettu|lis
 humus:|humus|biv||ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)|chickpea||garbanzo||||||||||||||kikherne|ciecierzyca
-humus.o.sos:|humusosos||||hummus||humus||||||||||||||hummus|hummus
+humus.o.saus:|humusosaus||||hummus||humus||||||||||||||hummus|hummus
 hur:a|hura||||free (liberate)||liberar (soltar)|||||||||||||liberigi|vapauttaa|uwolnić, uwalniać
 hur:i|huri|||ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro|free (unchained)|libre|libre (horro)|livre (forro)|свободный (вольный)|حر|自由的|自由|자유|tự do|मुक्त (आज़ाद)|মুকলি|bebas|huru|özgür (hür)|libera|vapaa|wolny, niepodległy, niezależny
 hur:ia|huria||||freedom (liberty)||libertad||||自由|||||||||libereco|vapaus|wolność, niepodległość, niezależność
@@ -2102,11 +2104,8 @@ M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 m:e|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
 m.o.m:e|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
-maf:|maf||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, tur:af, hau:yafe||pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
+maf:|maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
 maf:a|mafa||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||||||माफ करना||memaafkan|kusamehe|affetmek|pardoni|antaa anteeksi|
-mafan:|mafan||||trouble (disturbance, bother)||problema (disturio)||||||||||||||vaiva (haitta)|problem, kłopot, zakłócenie
-mafan:a|mafana|||zho:麻煩 (máfan), yue:麻煩 (maa4 faan4), wuu:麻煩 (mo ve3)|bother||molestar (preocupar)||утруждать||||||||||||vaivata|przeszkodzić, przeszkadzać, robić kłopot
-mafan:u|mafanu||||be bothered by (bother to, take the trouble to)||molestar en||утруждай|||悩む (わざわざする)||||||||||przejmować się (zawracać sobie głowę)
 mag:i|magi||||magical||magical||||||||||||||taianomainen (maaginen)|magiczny
 mag:ia|magia|||eng:magic, spa:por:magia, fra:magie, rus:ма́гия (mágija), rus:マジック (majikku)|magic||magia|||||||||||||magio|taika (taikuus, magia)|magia
 mag.asar:|magasar||||spell (enchantment)|||||||||||||||||zaklecie
@@ -3268,6 +3267,9 @@ suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 Sualbard:e|Sualbarde|dex|||Svalbard||Svalbard||||||||||||||Svalbard|Swalbard
 suan:|suan||||acid|||||||||||||||acido|happo|
 suan:i|suani|||zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny
+suar:|suar|||fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|evening|soir (soirée)|noche (tarde)|noitinha|вечер||晚上|夕べ||||||||vespero|ilta|wieczór
+suar.den:|suarden||||afternoon||tarde (después de mediodía)|||||||||||||posttagmeze|iltapäivä|popołudnie
+suar.iam|suaryam||||dinner||cena|||||夕食||||||||vespermanĝo|illallinen|kolacja
 Suat:i|Suati|dex|SZ||Eswatini (Swaziland)||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi
 sub:e|sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
 sub.iam:|subyam||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
@@ -3485,6 +3487,9 @@ tunel.tren:|tuneltren||||subway (metro)||metro|||||||||||||metroo|metrojuna (maa
 tunik:e|tunike|||spa:túnica, eng:tunic, rus:туника (tunika)|tunic (gown)||túnica|||||||||||||robo|mekko (tunika)|tunika, toga
 Tunis:ia|Tunisia|dex|TN||Tunisia|Tunisie|Túnez||||||||||||||Tunisia|Tunezja
 tup:e|tupe|||may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|hat (cap)||sombrero|||||||||||||ĉapelo|lakki (hattu)|kapelusz, czapka
+turb:a|turba|||eng:disturb, fra:perturber, spa:por:perturbar|bother (annoy, disturb)|gêner (déranger, perturber)|molestar (perturber)|molestar (perturber)|утруждать||||||||||||häiritä (vaivata)|przeszkodzić, przeszkadzać, robić kłopot
+turb:e|turbe||||trouble (disturbance, bother, annoyance)||problema (disturio)||||||||||||||häiriö (vaiva)|problem, kłopot, zakłócenie
+turb:u|turbu||||be bothered by (bother to, take the trouble to)||molestar en||утруждай|||悩む (わざわざする)||||||||||przejmować się (zawracać sobie głowę)
 turk:i|turki||||Turkish||turco||||||||||||||turkkilainen|turecki
 Turk:ia|Turkia|dex|TR||Turkey||Turquía|||||||||||||Turkio|Turkki|Turcja
 Turkomen:ia|Turkomenia|dex|TM||Turkmenistan||Turkmenistán||||||||||||||Turkmenistan|Turkmenistan
@@ -3657,10 +3662,7 @@ xak:e|xake|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx)
 xakal:|xakal|biv||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
 xal:|xal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik
 xalk:e|xalke|||eng:scale, fra:échelle, hin:शल्क (shalka)|scale (flake)|échelle|escama|escama|чешуя||鳞|うろこ|||शल्क||sisik|gamba||||szala 
-xam:|xam|||hin: शाम (śām), fas:(šām), tur:akşam|evening||noche (tarde)||||晚上|夕べ||||||||vespero|ilta|wieczór
-xam.den:|xamden||||afternoon||tarde (después de mediodía)|||||||||||||posttagmeze|iltapäivä|popołudnie
-xam.iam:|xamyam||||dinner||cena|||||夕食||||||||vespermanĝo|illallinen|kolacja
-xaman:|xaman|||eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)|shaman||chamán (brujo, hechicero)||шаман|||シャーマン|||||dukun (pawang, shaman)|||ŝamano|šamaani|szaman
+xam.an:|xaman|||eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)|shaman||chamán (brujo, hechicero)||шаман|||シャーマン|||||dukun (pawang, shaman)|||ŝamano|šamaani|szaman
 Xampan:|Xampan|regia|||Champagne|Champagne|Champaña|Champagne|Шампань|||香槟|シャンパーニュ|||||||||Champagne
 Xampan: uin:|Xampan vin|alkohol|||champagne|Champagner|champagne|champaña|champanhe|шампанское|||||||||||ĉampano|samppanja
 xan:|xan|||zho:山 (shān), jpn:山 (san), kor:산 (san), vie:sơn|mountain (hill)||montaña (colina)|||||||||||||monto|vuori (mäki)|góra, wzgórze

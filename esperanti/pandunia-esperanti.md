@@ -77,6 +77,7 @@ anmema - forgesi
 anpace - malpaco  
 ansavi - fremda (nekonata)  
 ansomia - sendormeco  
+an:a - igi (farigi)  
 analiza - analizi  
 analize - analizo  
 ande - ovo  
@@ -87,7 +88,7 @@ anker - ankro
 anten - anteno  
 anus - anuso  
 anusi - anusa  
-apel - pomo  
+aple - pomo  
 ar - areo  
 aria - ejo  
 arabi - araba  
@@ -272,10 +273,6 @@ buton - klavo (butono)
 butonban - klavaro  
 buze - kapro  
 ####C - C  
-ce - tiu  
-ce - ĉi tio  
-ci - tiu  
-ci - ĉi tiu  
 cabe - ŝlosilo  
 cai - teo  
 cake - tranĉilo  
@@ -326,7 +323,8 @@ cuza - elekti
 cuze - elekto  
 ####D - D  
 da - de (partiklo de posedo)  
-da - kiu (komencigas relativan frazon)  
+de - tio  
+di - la (tiu)  
 du - propra (partiklo de posedo)  
 dayi - granda  
 dayanjiler - ambasadoro  
@@ -1557,6 +1555,9 @@ sosis - kolbaso
 suahili - sŭahili  
 suan - acido  
 suani - acida  
+suar - vespero  
+suarden - posttagmeze  
+suaryam - vespermanĝo  
 sube - mateno  
 sude - sudo  
 Sudi Cosen - Sudkoreio  
@@ -1651,7 +1652,7 @@ tunike - robo
 tupe - ĉapelo  
 Turkia - Turkio  
 ####U - U  
-va ce - tie  
+va de - tie  
 va ke - kie  
 vade - valo  
 vaf - hundo  
@@ -1713,9 +1714,6 @@ uza - uzi
 ####X - X  
 xake - branĉo  
 xal - koltuko  
-xam - vespero  
-xamden - posttagmeze  
-xamyam - vespermanĝo  
 xaman - ŝamano  
 xan - monto  
 xanti - trankvila (serena)  

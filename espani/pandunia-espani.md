@@ -134,8 +134,8 @@ Antigua - Antigua
 Antigua e Barbuda - Antigua y Barbuda  
 anus - ano  
 anusi - anal  
-apel - manzana  
-apelsos - compota de manzanas  
+aple - manzana  
+aplosaus - compota de manzanas  
 aplika - emplear (aplicar)  
 aplike - aplicación  
 Apsni - abjazia  
@@ -436,10 +436,6 @@ buton - tecla (botón)
 butonban - teclado  
 buze - cabra  
 ####C - C  
-ce - eso  
-ce - esto  
-ci - eso  
-ci - esto  
 cabe - llave  
 Cadia - Chad  
 cai - té  
@@ -529,6 +525,8 @@ cuze - elección
 cuzable - opción  
 ####D - D  
 da - de (posposición de posesión)  
+de - eso (esto)  
+di - el (esto, eso)  
 du - de (posposición de posesión)  
 dayi - grande  
 dayia - tamaño  
@@ -1231,8 +1229,6 @@ Hong Gong - Hong Kong
 hor - hora  
 horloger - reloj  
 horlogerminar - torre del reloj  
-horizon - horizonte  
-horizoni - horizontal (lateral)  
 hormon - hormona  
 Horvatia - Croacia  
 hotel - hotel (albergue)  
@@ -1243,7 +1239,7 @@ huke - gancho (anzuelo, alcayata)
 hukokrus - esvástica (cruz gamada)  
 hulei - zorro  
 humus - garbanzo  
-humusosos - humus  
+humusosaus - humus  
 hura - liberar (soltar)  
 huri - libre (horro)  
 huria - libertad  
@@ -1808,7 +1804,7 @@ lasti - elástico (flexible)
 lasun - ajo  
 lata - estar al lado de  
 late - lado (flanco)  
-lati - lateral  
+lati - lateral (horizontal)  
 lato - de lado  
 latojan - compañero (compinche)  
 latini harfia - alfabeto latino  
@@ -1934,9 +1930,6 @@ mi - mi
 mome - nosotros  
 maf - perdón  
 mafa - perdonar (disculpar)  
-mafan - problema (disturio)  
-mafana - molestar (preocupar)  
-mafanu - molestar en  
 magi - magical  
 magia - magia  
 mager - mago  
@@ -2059,7 +2052,7 @@ meh - oveja
 mei - cada  
 mel - miel  
 melvespe - abeja  
-melvesponizde - colmena (panal)  
+melvesponide - colmena (panal)  
 melodi - melodioso  
 melodia - melodía  
 melon - melón  
@@ -2284,6 +2277,7 @@ neurpatia - neuropatía
 nice - parte inferior  
 nici - inferior  
 nico - debajo  
+nide - nido (avispero, hormiguero, ratonera)  
 Nijer - Níger  
 Nikaragua - Nicaragua  
 nikel - níquel  
@@ -2300,7 +2294,6 @@ Nistria - Transnistria (Cisdniéster)
 nitre - nitrógeno  
 Niue - Niue  
 nix - hornacina  
-nizde - nido (avispero, hormiguero, ratonera)  
 nobelem - nobelio  
 noce - noche  
 nocomode - modo nocturno  
@@ -2367,7 +2360,7 @@ okokex - pestaña
 okosui - lágrima  
 okosuigas - gas lacrimógeno  
 okeya - aceptar  
-okeyi - bien  
+okeyi - bien (aceptable)  
 okse - oxígeno  
 okside - óxide  
 Olandi nesia - islas Aland  
@@ -2868,6 +2861,7 @@ samsifia - modelo (similitud, simulación)
 samai - cielo  
 samayi - celeste (celestial)  
 samaihal - clima (tiempo)  
+samaikenar - horizonte  
 samainili - celeste (azul celeste)  
 samarem - samario  
 Samoa - Samoa  
@@ -3030,6 +3024,9 @@ Soto - Lesoto
 suahili - suajili  
 Sualbarde - Svalbard  
 suani - agrio (ácido)  
+suar - noche (tarde)  
+suarden - tarde (después de mediodía)  
+suaryam - cena  
 Suati - Esuatini (Suazilandia)  
 sube - mañana  
 subyam - desayuno  
@@ -3236,6 +3233,9 @@ tuneltren - metro
 tunike - túnica  
 Tunisia - Túnez  
 tupe - sombrero  
+turba - molestar (perturber)  
+turbe - problema (disturio)  
+turbu - molestar en  
 turki - turco  
 Turkia - Turquía  
 Turkomenia - Turkmenistán  
@@ -3243,8 +3243,7 @@ Tuvalu - Tuvalu
 tuze - conejo (liebre)  
 ####U - U  
 va - en (a)  
-va ce - allí (allá)  
-va ce - acá (aquí)  
+va de - allí (allá)  
 va ke - dónde  
 va linye - en línea  
 vade - valle  
@@ -3302,7 +3301,7 @@ verme - verme
 vermute - vermú  
 version - versión (modelo)  
 vespe - abeja o avispa  
-vesponizde - avispero (colmena)  
+vesponide - avispero (colmena)  
 veste - oeste  
 vesti - occidental  
 vestodongia - longitud  
@@ -3397,9 +3396,6 @@ xake - rama
 xakal - chacal  
 xal - bufanda (chal)  
 xalke - escama  
-xam - noche (tarde)  
-xamden - tarde (después de mediodía)  
-xamyam - cena  
 xaman - chamán (brujo, hechicero)  
 Xampan - Champaña  
 Xampan vin - champagne  

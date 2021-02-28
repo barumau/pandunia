@@ -47,8 +47,8 @@ analize - análise
 andesite - andesito  
 anjil - mensagem  
 anker - âncora  
-apel - maçã  
-apelsos - purê de maçã  
+aple - maçã  
+aplosaus - purê de maçã  
 aplika - usar  
 aran - aranha  
 arbuze - melancia  
@@ -561,7 +561,7 @@ lancite - projétil
 lancograf - projeção  
 lasun - alho  
 late - lado  
-lati - lateral  
+lati - latéral  
 Latvia - Letónia  
 lavi - idoso  
 laxa - deixar  
@@ -704,11 +704,11 @@ nefre - rim
 nefte - aeite (óleo)  
 Neputun - Netuno  
 neurcel - neurônio  
+nide - ninho (vespiero)  
 nili - azur  
 nilcentaur - escovinha (centáurea)  
 Nipon - Japão  
 nix - nicho  
-nizde - ninho (vespiero)  
 noce - noite  
 norde - norte  
 nostalgia - nostalgia (saudade)  
@@ -909,6 +909,7 @@ song - pinheiro
 sor - fechadura  
 sosia - sociedade  
 sosis - salsicha  
+suar - noitinha  
 suede - suor  
 sui - água  
 suigas - vapor  
@@ -943,6 +944,7 @@ tova - arrastar
 trate - acordo (tratado, contrato)  
 truka - enganar  
 truke - truque (fraude)  
+turba - molestar (perturber)  
 tuze - coelho (lebre)  
 ####U - U  
 va ke - onde  

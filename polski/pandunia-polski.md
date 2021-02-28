@@ -135,8 +135,8 @@ Antigua - Antigua
 Antigua e Barbuda - Antigua i Barbuda  
 anus - odbyt  
 anusi - analny, odbytni  
-apel - jabłko  
-apelsos - sos jabłkowy  
+aple - jabłko  
+aplosaus - sos jabłkowy  
 aplika - zastosować, stosować  
 aplike - zastosowanie, aplikacja  
 Apsni - Abchazja  
@@ -430,10 +430,6 @@ buton - klawisz, przycisk, przełącznik, guzik
 butonban - klawiatura  
 buze - koza  
 ####C - C  
-ce - tamten  
-ce - ten konkretny  
-ci - tamten (tamten)  
-ci - ten, te  
 cabe - klucz  
 Cadia - Czad  
 cai - herbata  
@@ -531,6 +527,7 @@ cuze - wybór, elekcja, selekcja
 cuzable - opcja (wybór)  
 ####D - D  
 da - z (partykuła posiadania)  
+di - ten (te)  
 du - mieć (partykuła posiadania)  
 dayi - duży  
 dayia - rozmiar  
@@ -1123,7 +1120,7 @@ hai - może
 hayi - morski  
 hayalge - wodorosty  
 hayamirer - admirał  
-haicau - trawa morska  
+haicau - trawa morhai.ful:  
 haiful - ukwiał  
 haigun - marynarka (flota)  
 haihiar - strzykwa  
@@ -1230,8 +1227,6 @@ Hong Gong - Hong Kong
 hor - godzina  
 horloger - zegar (zegarek)  
 horlogerminar - wieża zegarowa  
-horizon - horyzont  
-horizoni - poziomy (horyzontalny)  
 hormon - hormon  
 Horvatia - Chorwacja  
 hotel - hotel  
@@ -1242,7 +1237,7 @@ huke - hak
 hukokrus - swastyka  
 hulei - lis  
 humus - ciecierzyca  
-humusosos - hummus  
+humusosaus - hummus  
 hura - uwolnić, uwalniać  
 huri - wolny, niepodległy, niezależny  
 huria - wolność, niepodległość, niezależność  
@@ -1816,7 +1811,7 @@ lasti - elastyczny
 lasun - larwa, czerw, gąsienica  
 lata - być obok  
 late - strona (bok)  
-lati - boczny  
+lati - poziomy (horyzontalny, boczny)  
 lato - z boku (na bok)  
 latojan - towarzysz (partner, kumpel)  
 latini harfia - alfabet łaciński, łacinka, alfabet rzymski  
@@ -1944,9 +1939,6 @@ me - ja, mnie
 mi - mój  
 mome - my  
 maf - przepraszam!  
-mafan - problem, kłopot, zakłócenie  
-mafana - przeszkodzić, przeszkadzać, robić kłopot  
-mafanu - przejmować się (zawracać sobie głowę)  
 magi - magiczny  
 magia - magia  
 magasar - zaklecie  
@@ -2072,7 +2064,7 @@ mehi kex - wełna (runo owcze)
 mei - każdy, wszyscy  
 mel - miód  
 melvespe - pszczoła miodna  
-melvesponizde - plaster  
+melvesponide - plaster  
 melvesposanduke - ul  
 melodi - melodyczny  
 melodia - melodia  
@@ -2302,6 +2294,7 @@ nica - iść w dół (iść pod spód, iść na dno)
 nice - spód  
 nici - poniższy  
 nico - pod (poniżej)  
+nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
 Nijer - Niger  
 Nikaragua - Nikaragua  
 nikel - nikiel  
@@ -2319,7 +2312,6 @@ Nistria - Naddniestrze
 nitre - azot  
 Niue - Niue  
 nix - nisza, alkowa  
-nizde - gniazdo (ul, nora, jama, barłóg, legowisko)  
 nobelem - nobel  
 noce - noc  
 nocomode - tryb nocny  
@@ -2889,6 +2881,7 @@ samsifia - model (podobieństwo, symulować)
 samai - niebo  
 samayi - niebieski, niebiański, podniebny  
 samaihal - pogoda  
+samaikenar - horyzont  
 samainili - jasnoniebieski (lazurowy)  
 samarem - samar  
 Samoa - Samoa  
@@ -3056,6 +3049,9 @@ Soto - Lesotho
 suahili - suahili  
 Sualbarde - Swalbard  
 suani - kwaśny  
+suar - wieczór  
+suarden - popołudnie  
+suaryam - kolacja  
 Suati - Suazi  
 sube - ranek, rano, poranek  
 subyam - śniadanie  
@@ -3259,6 +3255,9 @@ tuneltren - metro
 tunike - tunika, toga  
 Tunisia - Tunezja  
 tupe - kapelusz, czapka  
+turba - przeszkodzić, przeszkadzać, robić kłopot  
+turbe - problem, kłopot, zakłócenie  
+turbu - przejmować się (zawracać sobie głowę)  
 turki - turecki  
 Turkia - Turcja  
 Turkomenia - Turkmenistan  
@@ -3266,7 +3265,7 @@ Tuvalu - Tuwalu
 tuze - królik, zając  
 ####U - U  
 va - przy, z, na, w, u  
-va ce - tu (tutaj, tam)  
+va de - tu (tutaj, tam)  
 va ke - gdzie  
 va linye - online (na linii, w sieci)  
 vade - dolina  
@@ -3325,7 +3324,7 @@ verme - robak
 vermute - wermut  
 version - wersja (wariacja, edycja, wydanie)  
 vespe - pszczoła lub osa  
-vesponizde - ul (gniazdo pszczół lub os)  
+vesponide - ul (gniazdo pszczół lub os)  
 veste - zachód  
 vesti - zachodni  
 vestodongia - długość geograficzna  
@@ -3420,9 +3419,6 @@ xake - gałąź, konar
 xakal - szakal  
 xal - szal, szalik  
 xalke - szala   
-xam - wieczór  
-xamden - popołudnie  
-xamyam - kolacja  
 xaman - szaman  
 Xampan - Champagne  
 Xampan vin - samppanja  

@@ -138,6 +138,7 @@ ansora - unlock
 ansori - unlocked  
 antapa - unplug (uncork)  
 anzaya - remove (delete, dispose, erase)  
+an:a - cause (make sb. do sth.)  
 analiza - analyse  
 analize - analysis  
 ande - egg  
@@ -157,8 +158,8 @@ Antigua - Antigua
 Antigua e Barbuda - Antigua and Barbuda  
 anus - anus  
 anusi - anal  
-apel - apple  
-apelsos - applesauce  
+aple - apple  
+aplosaus - applesauce  
 aplika - apply (put to use for a purpose)  
 aplike - application  
 Apsni - Abkhazia  
@@ -472,10 +473,6 @@ buton - key (push-button, switch)
 butonban - keyboard  
 buze - goat  
 ####C - C  
-ce - that one  
-ce - this one  
-ci - that (those)  
-ci - this (these)  
 cabe - key  
 Cadia - Chad  
 cai - tea  
@@ -571,9 +568,10 @@ cuza - choose (elect, select, pick)
 cuze - choice (election, selection)  
 cuzable - option (choice)  
 ####D - D  
-da - of (particle of possession)  
-da - that (function word to introduce a relative clause)  
-du - 's (postposition of possession)  
+da - of (attributive preposition)  
+de - that (this)  
+di - the (this, that, these, those)  
+du - 's (attributive postposition)  
 dayi - big (great)  
 dayia - size  
 dayu - grow (get bigger)  
@@ -1339,7 +1337,6 @@ Hong Gong - Hong Kong, SAR China
 hor - hour  
 horloger - clock (watch)  
 horlogerminar - clocktower  
-horizon - horizon  
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
@@ -1350,7 +1347,7 @@ huke - hook
 hukokrus - swastika (hooked cross)  
 hulei - fox  
 humus - chickpea  
-humusosos - hummus  
+humusosaus - hummus  
 hura - free (liberate)  
 huri - free (unchained)  
 huria - freedom (liberty)  
@@ -1966,7 +1963,6 @@ lasti - elastic
 lasun - garlic  
 lata - be beside (accompany)  
 late - side (flank)  
-lati - lateral  
 lato - sideways (laterally)  
 latojan - companion (partner, sidekick)  
 latini harfia - Latin alphabet  
@@ -2102,9 +2098,6 @@ mi - my
 mome - we  
 maf - pardon (forgiveness; sorry)  
 mafa - forgive (pardon)  
-mafan - trouble (disturbance, bother)  
-mafana - bother  
-mafanu - be bothered by (bother to, take the trouble to)  
 magi - magical  
 magia - magic  
 magasar - spell (enchantment)  
@@ -2234,7 +2227,7 @@ mehi kex - wool (fleece)
 mei - every (each)  
 mel - honey  
 melvespe - honeybee  
-melvesponizde - beehive (honeycomb)  
+melvesponide - beehive (honeycomb)  
 melvesposanduke - beehive (beehouse)  
 melodi - melodious (melodic)  
 melodia - melody  
@@ -2473,6 +2466,7 @@ nica - go under
 nice - underside (underneath)  
 nici - lower (inferior)  
 nico - under  
+nide - nest (hive, den)  
 Nijer - Niger  
 Nikaragua - Nicaragua  
 nikel - nickel  
@@ -2490,7 +2484,6 @@ Nistria - Transnistria
 nitre - nitrogen  
 Niue - Niue  
 nix - niche (recess, alcove)  
-nizde - nest (hive, den)  
 nobelem - nobelium  
 noce - night  
 nocomode - night mode  
@@ -3090,6 +3083,7 @@ samsifia - model (similarity, simulation)
 samai - sky (heaven)  
 samayi - celestial (heavenly)  
 samaihal - weather  
+samaikenar - horizon  
 samainili - light blue (sky blue, azure)  
 samarem - samarium  
 Samoa - Samoa  
@@ -3260,6 +3254,9 @@ suahili - Swahili
 Sualbarde - Svalbard  
 suan - acid  
 suani - sour  
+suar - evening  
+suarden - afternoon  
+suaryam - dinner  
 Suati - Eswatini (Swaziland)  
 sube - morning (dawn)  
 subyam - breakfast  
@@ -3477,6 +3474,9 @@ tuneltren - subway (metro)
 tunike - tunic (gown)  
 Tunisia - Tunisia  
 tupe - hat (cap)  
+turba - bother (annoy, disturb)  
+turbe - trouble (disturbance, bother, annoyance)  
+turbu - be bothered by (bother to, take the trouble to)  
 turki - Turkish  
 Turkia - Turkey  
 Turkomenia - Turkmenistan  
@@ -3484,8 +3484,7 @@ Tuvalu - Tuvalu
 tuze - rabbit (hare)  
 ####U - U  
 va - by (at, in, on)  
-va ce - there  
-va ce - here  
+va de - there  
 va ke - where  
 va linye - online  
 vade - valley  
@@ -3549,7 +3548,7 @@ verme - worm
 vermute - vermouth  
 version - version (variation, edition)  
 vespe - bee or wasp  
-vesponizde - bee nest (beehive, wasp's nest)  
+vesponide - bee nest (beehive, wasp's nest)  
 veste - west  
 vesti - western  
 vestodongia - longitude  
@@ -3650,9 +3649,6 @@ xake - branch (bough)
 xakal - jackal  
 xal - scarf (shawl)  
 xalke - scale (flake)  
-xam - evening  
-xamden - afternoon  
-xamyam - dinner  
 xaman - shaman  
 Xampan - Champagne  
 Xampan vin - champagne  
