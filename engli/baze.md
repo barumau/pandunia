@@ -58,16 +58,14 @@ The ending indicates a part of speech.
 Nouns indicate a group of one or more; definite or indefinite; masculine, neuter or feminine.
 Number, definiteness and gender are indicated by additional words.
 
-**maw**
+**mau**
 – a cat, the cat, cats, the cats  
-**un maw**
-– one cat  
-**multi maw**
+**un mau**
+– one cat   
+**multi mau**
 – many cats  
-**yi maw**
-– this cat, these cats
-**wi maw**
-– that cat, those cats
+**di mau**
+– the/this/that cat(s)
 
 ### Personal pronouns
 
@@ -113,9 +111,9 @@ Passive verbs have the ending **-u**.
 Adjectives are usually before the noun that they modify,
 but they can be can be after it too.
 
-**novi idey**
+**novi idei**
 – new idea  
-**idey novi**
+**idei novi**
 – _idea new_
 
 Adjectives are compared with
@@ -123,8 +121,8 @@ Adjectives are compared with
 **min** (_less_), **minim** (_least_) and **sam** (_equally, as_).
 The point of comparison is introduced with **ka**.
 
-**yi idey si max novi ka wi idey.**
-– This idea is newer than that idea.
+**mi idei si max novi ka ti idei.**
+– My idea is newer than your idea.
 
 Adverbs end in **-o**.
 They are usually before the word that they modify,
@@ -140,14 +138,14 @@ but not always.
 
 The word **no** denies the word that follows it.
 
-**no me a le volu kapa le**
+**no me a le vola kapa le**
 – Not me but he/she wants to take it.  
-**me no volu kapa le.**
+**me no vola kapa le.**
 – I don't want to take it.  
-**me volu no kapa le.**
+**me vola no kapa le.**
 – I want _not_ to take it.  
-**me volu kapa no ye a ve.**
-– I want to take not this but that.
+**me vola kapa no le a de.**
+– I want to take not it but that.
 
 
 ### Questions
