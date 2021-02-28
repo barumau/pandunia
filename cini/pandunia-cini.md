@@ -72,6 +72,8 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
+astre - 天体  
+astronaver - 宇航员  
 ate - 作为 (行为)  
 ation - 行动  
 ativi - 活性  
@@ -152,10 +154,7 @@ boni - 好
 bondarme - 道德  
 bonsinyi - 吉利的  
 bonvidi - 好看  
-bote - 船 (艇)  
 botel - 瓶  
-botolefte - 左舷  
-botoraite - 右舷  
 bruni - 棕色 (色)  
 brunsalmon - 褐鳟  
 bucer - 屠夫  
@@ -307,6 +306,7 @@ gancau - 干草
 ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
+garmozoni cautopia - 稀树草原  
 gati - 硬  
 gatomate - 固体  
 genca - 检查  
@@ -536,6 +536,8 @@ kortokrokodil - 短吻鳄
 kosmi - 宇宙的  
 kosmia - 宇宙  
 kosmobiulojia - 太空生物学  
+kosmonau - 太空船  
+kosmonaver - 太空人  
 krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
 krevete - 虾 (xiā)  
@@ -620,8 +622,6 @@ me - 我
 mome - 我们  
 magesem - 镁  
 Magribia - 摩洛哥  
-maidan - 广场  
-maidanpapil - 虞美人 (雛罌粟)  
 makanful - 蒲公英  
 mam - 妈妈  
 mangi - 忙  
@@ -646,6 +646,8 @@ maxim (maximo) - 最
 maze - 袜子  
 mece - 比赛  
 medi - 中型  
+meden - 广场  
+medenpapil - 虞美人 (雛罌粟)  
 medikosui - 药水  
 mege - 云  
 mega\* - 百万 (兆)  
@@ -696,7 +698,10 @@ najis - 污染物
 najisa - 污染  
 namkitaba - 签署  
 nasmedi - 国际  
+nau - 船 (艇)  
 navi - 九 (9)  
+naulefte - 左舷  
+nauraite - 右舷  
 nautil - 鹦鹉螺  
 nefre - 肾脏  
 nefte - 油  
@@ -994,7 +999,9 @@ xalke - 鳞
 xam - 晚上  
 Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
-xatan - 撒但  
+xatan - 敌手  
+Xatan - 撒但  
+xati - सौ  
 xavi - 少  
 xei - 事物 (东西)  
 xeihal - 事态  
@@ -1030,6 +1037,7 @@ xute - 技术
 xuti - 熟练  
 xuxo - 噓  
 ####Z - Z  
+zarkube - 骰子 (色子)  
 zebre - 斑马  
 zeyil - 疣  
 zeze - 双翅目  

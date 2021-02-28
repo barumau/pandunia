@@ -109,6 +109,8 @@ ascetiko - askete
 aspekto - rupe  
 aspirino - aspirin  
 astmo - asme  
+astro - astre  
+astronaŭto - astronaver  
 atako (agreso) - agres  
 ateisto - andeviste  
 atendi - denga  
@@ -132,7 +134,7 @@ aŭtuno - padomosim
 ####B - B  
 babilejo - blablokan  
 babili - blabla  
-babordo - botolefte  
+babordo - naulefte  
 bah! - fui  
 bahaismo - bahayistia  
 bahaisto - bahayiste  
@@ -196,8 +198,8 @@ biskvito (kuketo) - biskute
 bismuto - bismute  
 blanka - baki  
 blua - nili  
-boato (ŝipo) - bote  
-boatumi - bota  
+boato (ŝipo) - nau  
+boatumi - nava  
 bobelo - lilbol  
 bojkoto - boikote  
 boksisto - bokser  
@@ -302,7 +304,7 @@ devus - xudu
 dezerto - regotopia  
 deziro - kamia  
 dia - devi  
-diablo (Satano) - xatan  
+diablo (Satano) - Xatan  
 diamanto - almas  
 dimanĉosunnuntai - setyom  
 dio - deu  
@@ -671,9 +673,9 @@ Jesuo - Yesus
 jodo - yodem  
 jogo - yoge  
 jugo - yoke  
-juna - jovani  
-juneco - jovania  
-junulo - jovan  
+juna - joveni  
+juneco - jovenia  
+junulo - joven  
 jupo - jupe  
 justa - adali  
 justeco - adalia  
@@ -762,8 +764,8 @@ kloni - klona
 klono - klon  
 kloro - klorem  
 klubo - klube  
-knabino - jovani fem  
-knabo - jovani man  
+knabino - joveni fem  
+knabo - joveni man  
 kobalto - kobalte  
 kodo - kode  
 koko - kokode  
@@ -813,6 +815,7 @@ koro - xim
 korpa - bodi  
 korpo - bode  
 korpokulturado - muskulbin  
+kosmonaŭto - kosmonaver  
 kota - poti  
 koto - pote  
 kotono - goton  
@@ -1003,7 +1006,7 @@ Meksikio - Mexiko
 meleagro - dinde  
 melki - tira milke  
 melodio - melodia  
-melongeno - bedinjan  
+melongeno - bedinje  
 membro - member  
 memmova - automoti  
 memori - mema  
@@ -1274,6 +1277,7 @@ porko - gurube
 Portoriko - Portorikia  
 posteno - asan  
 posttagmeze - xamden  
+povanta - ablani  
 povi - abla  
 povo - able  
 poŝo - jebe  
@@ -1597,7 +1601,7 @@ treni - tova
 trezoro - bau  
 tri (3) - san  
 tribo - tribe  
-tribordo - botoraite  
+tribordo - nauraite  
 tritiko - ganum  
 tro - max ka bas  
 trovi - eureka  
@@ -1757,7 +1761,7 @@ zuluo - Zulu
 ĥoro - cantergrupe  
 ĵaŭdo - caryom  
 ĵeti (lanĉi) - lanca  
-ĵetkubo - dade  
+ĵetkubo - zarkube  
 ĵudo - judau  
 ĵulo (J) - jul  
 ĵus - novo  

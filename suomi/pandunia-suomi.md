@@ -11,6 +11,7 @@ abla - voida (osata, pystyä)
 able - taito (kyky)  
 abli - mahdollinen  
 ablo - ehkä (mahdollisesti)  
+ablani - kykenevä (voiva)  
 acinem - aktinium  
 acu\* - atsii  
 acua - aivastaa  
@@ -188,6 +189,9 @@ aslaustrali - aboriginaali (Australian alkuperäisasukas)
 asme - astma  
 aspirin - aspiriini  
 astatem - astatiini  
+astre - taivaankappale  
+astronau - tähtialus  
+astronaver - astronautti (tähtimatkaaja)  
 ate - teko (toimenpide, akti)  
 ater - tekijä (toimija)  
 ation - toiminta  
@@ -317,7 +321,7 @@ bazar - tori (basaari)
 bazarhuristia - markkinaliberalismi  
 bebe - vauva  
 bede - vuode (sänky, peti)  
-bedinjan - munakoiso  
+bedinje - munakoiso  
 bega - paeta (karata)  
 beyu - läpikäydä (passiivin muodostava verbi)  
 Beijing - Peking (Beijing)  
@@ -393,14 +397,7 @@ boria - tylsyys (pitkästys)
 borem - bohrium  
 boron - boori  
 Bosnia e Hercegovina - Bosnia ja Hertsegovina  
-bota - veneillä  
-bote - vene (laiva)  
 botel - pullo  
-boter - veneilijä  
-botokaper - laivakaappari  
-botolefte - paapuuri  
-botoraite - tyyrpuuri  
-botoxef - kapteeni  
 bravi - rohkea (urhea, uljas)  
 bravo - bravo!  
 brauza - selata  
@@ -540,7 +537,6 @@ cuzable - vaihtoehto
 da - omistetun omistajaan liittävä partikkeli  
 da - joka (sivulauseen aloittava sana)  
 du - -n (oma)  
-dade - noppa (arpakuutio)  
 dayi - iso (suuri)  
 dayia - suuruus (koko)  
 dayu - kasvaa (suurentua)  
@@ -1028,6 +1024,7 @@ garmomosim - kesä (suvi)
 garmomosimmedi den - juhannus (keskikesä, mittumaari)  
 garmozon - tropiikki  
 garmozoni - trooppinen  
+garmozoni cautopia - savanni  
 gas - kaasu  
 gasa - kaasuttaa  
 gasi - kaasumainen  
@@ -1416,11 +1413,11 @@ jivi - elävä (elää)
 joke - vitsi  
 joker - vitsiniekka  
 jong - laji  
-jovan - nuorukainen  
-jovani - nuori  
-jovani fem - tyttö (nuori neito)  
-jovani man - poika (nuori mies)  
-jovania - nuoruus  
+joven - nuorukainen  
+joveni - nuori  
+joveni fem - tyttö (nuori neito)  
+joveni man - poika (nuori mies)  
+jovenia - nuoruus  
 juda - tuomita  
 jude - tuomio  
 judi - oikeudellinen  
@@ -1688,6 +1685,8 @@ kos - yskä
 kosmi - kosminen  
 kosmia - avaruus (kosmos)  
 kosmobiulojia - astrobiologia  
+kosmonau - avaruusalus  
+kosmonaver - avaruusmatkaaja (kosmonautti)  
 Kosovo - Kosovo  
 kosta - maksaa (olla hintana)  
 koste - hinta (maksu)  
@@ -1890,9 +1889,6 @@ mageti - magneettinen
 Magyaria - Unkari  
 Magribia - Marokko  
 mayan - maya (mayaintiaani)  
-maidan - kenttä (aukio)  
-maidani - avara (aava)  
-maidanfobia - agorafobia (avoimen paikan kammo)  
 Mayote - Mayotte  
 mais - maissi  
 maitnerem - meitnerium  
@@ -1979,6 +1975,9 @@ mede - väli
 media - media  
 medu - välissä  
 medal - mitali  
+meden - kenttä (aukio)  
+medeni - avara (aava, aukea)  
+medenfobia - agorafobia (avaran paikan kammo)  
 medika - hoitaa (lääkitä)  
 medikia - lääketiede  
 mediker - lääkäri (tohtori)  
@@ -2149,8 +2148,15 @@ nasiste - nationalisti
 nasistia - kansallisuusaate (nationalismi)  
 nasmedi - kansainvälinen  
 natrem - natrium  
+nau - vene (laiva)  
+nava - veneillä  
 navi - yhdeksän  
+naver - veneilijä  
+naukaper - laivakaappari  
+naulefte - paapuuri  
 naumes - syyskuu  
+nauraite - tyyrpuuri  
+nauxef - kapteeni  
 navati - nahuatli  
 Nauru - Nauru  
 naziste - natsi  
@@ -3073,7 +3079,7 @@ vesti - läntinen
 vida - nähdä  
 vide - näkymä  
 vidu - näkyä  
-vidomaidan - näkökenttä  
+vidomeden - näkökenttä  
 vidou - leski  
 vieti - vietnamilainen  
 Vietia - Vietnam  
@@ -3164,8 +3170,10 @@ xarme - häpeä
 xarnir - sarana  
 xarta - vaatia (edellyttää)  
 xarte - vaatimus (edellytys)  
+xata - vastustaa  
+xatan - vastustaja (vihollinen)  
+Xatan - saatana (sielunvihollinen)  
 xati - sata (100)  
-xatan - paholainen (saatana, piru)  
 xatani - pirullinen  
 xataniste - satanisti  
 xatanistia - satanismi (paholaisenpalvonta)  
@@ -3242,6 +3250,7 @@ zaman - aikakausi
 Zambia - Sambia  
 zar - sattuma (onni)  
 zari - sattumanvarainen  
+zarkube - noppa (arpakuutio)  
 Zardux - Zarathustra  
 zarduxiste - zarathustralainen  
 zarduxistia - zarathustralaisuus  

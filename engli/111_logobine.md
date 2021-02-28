@@ -37,6 +37,25 @@ For example, this is how **termometer** (_thermometer_) is made:
 
 ### Common Suffixes
 
+#### an-
+
+Creates verbs that reverse the meaning of the base verb.
+
+**noda** to tie; **annoda** to untie  
+**tapa** to plug, to close with a plug; **antapa** to unplug, to open the plug.  
+
+#### -an-
+
+Active participle and causative suffix
+
+**yama** to eat  
+**yamani** eating  
+**yamana** to make eat, to feed  
+**xula** to learn  
+**xulana** to teach  
+**sava** to know  
+**savana** to let know, to inform  
+
 #### -er
 
 Creates agent nouns. It denotes a person or a tool which does the action.
@@ -61,7 +80,7 @@ root as a whole.
 
 **insan** human being; **insania** humanity, mankind, all the human beings as a group.  
 **kristi** Christian, **kristia** Christianity, all Christians as a group.  
-**filosof** view, outlook, life wisdom; **filosofia** philosophy, the discipline of wisdom.  
+**filsof** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
 
 This ending is often found in place names, especially in country
 names. However this use is not systematic and it's not required. There
@@ -79,11 +98,10 @@ Also abstract nouns often end in **-ia**.
 **novi** new, **novia** newness, novelty  
 **huri** free, **huria** freedom
 
-When it is added after -er, it means a place of work.
+When it is added after -er, it means a field of expertise.
 
-**bekeria** bakery  
-**fateria** factory  
-**sapateria** shoemaker's shop  
+**injener** engineering  
+**sapateria** shoemaking  
 
 #### -ik-
 
@@ -103,15 +121,24 @@ new
 → **novike**
 novice, newbie
 
-#### -an-
+#### -abli
 
-Active participle and causative suffix
+Indicates possibility. It is often used with the active participle **-an-**.
 
-**yama** to eat  
-**yamani** eating  
-**yamana** to make eat, to feed  
-**eskula** to learn  
-**eskulana** to teach  
+**abli** possible  
+**ablani** able, capable  
+**vidabli** which can be seen, visible  
+**vidablani** who/which can see
+
+#### -ist-
+
+This suffix that denotes a person who tends to behave or think in a
+certain way or to follow a certain ideology or religion.
+
+**deu** god  
+**deviste** theist (one who believes in existence of a god or gods)  
+**devisti** theistic  
+**devistia** theism (system of belief in a god or gods)
 
 #### -it-
 
@@ -119,33 +146,7 @@ Passive participle and causative suffix.
 
 **sava** to know  
 **saviti** known  
-**savita** to make known, to inform  
-**nama** to call  
-**namita** to name  
-
-#### -abli
-
-Indicates possibility. It is often used with the active participle **-an-**.
-
-**vidabli** which can be seen, visible  
-**vidanabli** who/which can see
-
-#### -ist-
-
-This suffix that denotes a person who tends to behave or think in a
-certain way or to follow a certain ideology or religion.
-
-**dew** god  
-**dewiste** theist (one who believes in existence of a god or gods)  
-**dewisti** theistic  
-**dewistia** theism (system of belief in a god or gods)  
-
-#### an-
-
-Creates verbs that reverse the meaning of the base verb.
-
-**noda** to tie; **annoda** to untie  
-**tapa** to plug, to close with a plug; **antapa** to unplug, to open the plug.  
+**savita** to make known  
 
 ## Function Words
 

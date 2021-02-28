@@ -205,6 +205,9 @@ asl.austral:i|aslaustrali||||Australian Aboriginal|aborigènes australiens|abori
 asm:e|asme|||fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|asthma|asthme|asma|asma|астма||气喘||||श्वासरोग||bengek||astım|astmo|astma|astma
 aspirin:|aspirin|||eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin)|aspirin|aspirine|aspirina|aspirina|аспирин||阿司匹林||||||aspirin||aspirin|aspirino|aspiriini|aspiryna
 astat.em:|astatem|mate|As||astatine|astate|ástato||||||||||||||astatiini|astat
+astr.e|astre||fra:astre, por:astro, eng:astro-||celestial body|astre (corps céleste)|cuerpo celeste|astro (corpo celeste)|небесное тело||天体|天体 ||||||||astro|taivaankappale|
+astr.o.nau:|astronau||||starship|astronef|astronave (nave estelar)|astronave|звездолёт||||||||||||tähtialus|
+astr.o.nau.er:|astronaver||||astronaut|astronaute|astronauta|astronauta|астронавт||宇航员||||||||astronot|astronaŭto|astronautti (tähtimatkaaja)|astronauta
 at:e|ate|||por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|act (deed)|acte|acto|ato|действие (акт)|عمل|作为 (行为)|行為|||||tindakan (perbuatan)|kitendo||ago|teko (toimenpide, akti)|
 at.er:|ater|||eng:actor,-ator, fra:-ateur, spa:por:-ador|agent (doer, actor)|agent (faiseur)|agente|agente|деятель||||||||||fail|aganto|tekijä (toimija)|
 at.ion:|ation||||action|action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta|
@@ -426,14 +429,7 @@ bor:ia|boria||27 emotions||boredom||aburrimiento||||||||बोरियत|||||e
 bor.em:|borem|mate|Bh||bohrium||bohrio|||||||||||||borio|bohrium|bohr
 boron:|boron|mate|B||boron||boro|||||||||||||boro|boori|bor
 Bosn:ia e Hercegouina:|Bosnia e Hercegovina|dex|BA||Bosnia and Herzegovina||Bosnia y Herzegovina||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
-bot:a|bota||||sail||navegar (ir en bote)|||||||||||||boatumi|veneillä|żeglować (płynąć)
-bot:e|bote|||spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|boat (ship)|bateau|barco (bote)|barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||boato (ŝipo)|vene (laiva)|łódź, statek
-bot.el:|botel|||eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|bottle|bouteille|botella|garrafa (botelha)|бутылка||瓶|瓶|병|chai|शीशी (बोतल)|বোতল|botol|chupa|şişe|botelo|pullo|butelka
-bot.er:|boter||||sailer||velero||||||||||||||veneilijä|żeglarz (marynarz)
-bot.o.kap.er:|botokaper||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (korsarz)
-bot.o.left:e|botolefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
-bot.o.rait:e|botoraite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
-bot.o.xef:|botoxef||||captain||capitán||||||||||||||kapteeni|kapitan
+botel:|botel|||eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|bottle|bouteille|botella|garrafa (botelha)|бутылка||瓶|瓶|병|chai|शीशी (बोतल)|বোতল|botol|chupa|şişe|botelo|pullo|butelka
 brau:i|bravi|||eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|brave (gallant, valiant)|brave||bravo (valente, corajoso)||||||||||||brava|rohkea (urhea, uljas)|Odwarzny (
 brau:o|bravo||||bravo!|bravo!|bravo!|bravo!|браво||||||शाबाश|||||brave!|bravo!|brawo (gratulacje)
 brauz:a|brauza||||explore (browse)||explorar||исследовать|||探る, 探検する|||||||||selata|poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)
@@ -581,7 +577,6 @@ D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
 d:a|da|||fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|of (particle of possession)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|omistetun omistajaan liittävä partikkeli|z (partykuła posiadania)
 d:a|da||||that (function word to introduce a relative clause)|||||||||||||||kiu (komencigas relativan frazon)|joka (sivulauseen aloittava sana)|
 d:u|du|prep.||zho:的 (de)|'s (postposition of possession)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
-zar.kub:e|zarkube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
 dai:i|dayi|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
 dai:ia|dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
 dai:u|dayu||||grow (get bigger)||crecer (aumentar)||||||||||||||kasvaa (suurentua)|urosnąć, rosnąć, wzrosnąć, wzrastać
@@ -1873,6 +1868,8 @@ kos:|kos|||rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho
 kosm:i|kosmi||||cosmic|cosmique|cósmico|cósmico|космический||宇宙的||||लौकिक||kosmik||evrenle ilgili||kosminen|kosmiczny
 kosm:ia|kosmia|||rus:космос (kosmos), eng:fra:spa:cosmos|space (cosmos, universe)|cosmos|cosmos|cosmo|космос||宇宙||||ब्रह्मांड||alam semesta||evren||avaruus (kosmos)|kosmos, wszechświat
 kosm.o.biu.loj:ia|kosmobiulojia||||astrobiology|astrobiologie|astrobiologia|astrobiologia|астробиология||太空生物学||||||||||astrobiologia|
+kosm.o.nau:|kosmonau||||spaceship|vaisseau spatial|nave espacial|nave espacial|космический корабль|سَفِينَة فَضَائِيَّة‎|太空船|宇宙船|우주선||अंतरिक्ष यान|মহাকাশযান|pesawat luar angkasa||uzay gemisi||avaruusalus|
+kosm.o.nau.er:|kosmonaver||||cosmonaut|cosmonaute|cosmonauta|cosmonauta|космонавт||太空人||||अंतरिक्ष यात्री||||kozmonot|kosmonaŭto|avaruusmatkaaja (kosmonautti)|kosmonauta
 Kosouo:|Kosovo|dex|KV||Kosovo||Kosovo||||||||||||||Kosovo|Kosowo
 kost:a|kosta|||eng:cost, spa:costar, por:custar, fra:coûter, deu:kosten|cost||costar||||||||||||||maksaa (olla hintana)|kosztować
 kost:e|koste||||cost (price)||precio (coste)||||||||||||||hinta (maksu)|koszt, cena
@@ -2441,8 +2438,15 @@ nas.ist:ia|nasistia||||nationalism||nacionalismo||||||||||||||kansallisuusaate (
 nas.med:i|nasmedi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
 natr:e|natre||||natron||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||
 natr.em:|natrem|mate|Na||sodium||sodio||натрий|||||||||||natrio|natrium|sód
+nau:|nau|||fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|boat (ship)|bateau|barco (bote)|barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||boato (ŝipo)|vene (laiva)|łódź, statek
+nau:a|nava||||sail||navegar (ir en bote)|||||||||||||boatumi|veneillä|żeglować (płynąć)
 nau:i|navi|||hin:नौ (nau), urd:(nau), spa:nueve, por:nove, fra:neuf|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||||||||yhdeksän|dziewięć (9)
+nau.er:|naver||||sailer||velero||||||||||||||veneilijä|żeglarz (marynarz)
+nau.kap.er:|naukaper||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (korsarz)
+nau.left:e|naulefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
 nau.mes:|naumes|mes|||September||septiembre|||||９月|||||||||syyskuu|grudzień
+nau.rait:e|nauraite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
+nau.xef:|nauxef||||captain||capitán||||||||||||||kapteeni|kapitan
 nauat:i|navati||||Nahuatl (Nahua)||náhuatl (nahua)|||||||||||||naūatla|nahuatli|nahuatl
 Nauru:|Nauru|dex|NR||Nauru||Naúru||||||||||||||Nauru|Nauru
 nautil:|nautil|biv||eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|nautilus|nautile|nautilo|nautiloide|наутилид||鹦鹉螺|オウムガイ|||नौटिलस|||||||nautilus
@@ -3674,10 +3678,10 @@ xarm:e|xarme|||fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham
 xarnir:|xarnir|||fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|hinge (pivot)||bisagra (gozne)|||||||||||||ĉarniro (pivoto)|sarana|zawias, oś
 xart:a|xarta||||stipulate||espicificar (estipular)||||||||||||||vaatia (edellyttää)|wymagać, przewidywać
 xart:e|xarte|||tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|condition (requirement)||condición (requisito, estipulación)|||||||||||||kondiĉo (postulo)|vaatimus (edellytys)|warunek
-xat:i|xati|||hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|hundred (100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|सौ|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (100)|sto (100)
 xat:a|xata||||oppose (antagonize, object, resist)|s'opposer à|oponer|opor|противостоять||||||||||||vastustaa|
 xat:an|xatan||||adversary (antagonist, opponent)|adversaire (antagoniste, ennemi)|adversario|adversário|противник||敌手|敵 (相手)||||প্রতিপক্ষ|||rakip||vastustaja (vihollinen)|
 Xat:an|Xatan|||heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|devil (Satan)|Satan|Satanás|Satanás|Сатана||撒但|悪魔|||शैतान||iblis (syaitan)|shetani|şeytan|diablo (Satano)|saatana (sielunvihollinen)|diabeł, szatan
+xat:i|xati|||hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|hundred (100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|सौ|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (100)|sto (100)
 xat.an:i|xatani||||devilish (satanic)||satánico||||||||||||||pirullinen|diabelski, szatański
 xatan.ist:e|xataniste||||Satanist||satanista||||||||||||||satanisti|satanista
 xatan.ist:ia|xatanistia||||Satanism (devil worship)||satanismo||||||||||||||satanismi (paholaisenpalvonta)|satanizm
@@ -3770,6 +3774,7 @@ zaman.don:ia|zamandonia||||dedication (devotion)|||||||||||||||||dedykacja (poś
 Zamb:ia|Zambia|dex|ZM||Zambia||Zambia||Замбия|||||||||||Zambio|Sambia|Zambia
 zar:|zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
 zar:i|zari||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
+zar.kub:e|zarkube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
 Zardux:|Zardux||||Zoroaster|Zoroastre|Zoroastro||Зороастр|||||||||||Zoroastro|Zarathustra|Zaratusztra
 zardux.ist:e|zarduxiste||||Zoroastrian|zoroastrien|zoroastriano||зороастризм|||||||||||zoroastristo|zarathustralainen|zaratrustianin
 zardux.ist:ia|zarduxistia||||Zoroastrianism|zoroastrisme|zoroastrismo|||||||||||||zoroastrismo|zarathustralaisuus|zaratusztrianizm

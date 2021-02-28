@@ -68,6 +68,9 @@ asli - original
 aslameriki - indígena (índio)  
 asme - asma  
 aspirin - aspirina  
+astre - astro (corpo celeste)  
+astronau - astronave  
+astronaver - astronauta  
 ate - ato  
 ater - agente  
 ation - ação  
@@ -123,6 +126,7 @@ bazobol - basebol (beisebol)
 bazoxulkan - ensino primário  
 bazar - mercado (bazar)  
 bebe - bebê  
+bedinje - beringela  
 beker - padeiro  
 bekopote - terracota  
 bel - pá  
@@ -144,9 +148,7 @@ bokserpante - samba-canção
 bol - bola  
 bombe - bomba  
 boni - bom  
-bote - barco (navio)  
 botel - garrafa (botelha)  
-botolefte - bombordo  
 bravi - bravo (valente, corajoso)  
 bravo - bravo!  
 bruni - castanho (marrom)  
@@ -186,7 +188,6 @@ coklatobaton - barra de chocolate
 cope - enxada  
 cuzable - opção  
 ####D - D  
-dade - dado  
 daidom - palácio (mansão, palacete)  
 daihai - oceano  
 daipau - canhǎo  
@@ -430,6 +431,7 @@ jinse - sexo
 jiraf - girafa  
 jiu - vida  
 jivi - vivo  
+joveni - jovem  
 juder - juiz  
 jul - joule (J)  
 jung - centro  
@@ -526,6 +528,8 @@ kortokrokodil - aligátor (jacaré)
 kosmi - cósmico  
 kosmia - cosmo  
 kosmobiulojia - astrobiologia  
+kosmonau - nave espacial  
+kosmonaver - cosmonauta  
 krake - rachadura  
 krem - crème  
 krepe - crepe (panqueca)  
@@ -611,8 +615,6 @@ mome - nós
 mafa - perdoar (desculpar)  
 magesem - magnésio  
 Magribia - Marrocos  
-maidan - praça  
-maidanpapil - papoila  
 makanful - dente-de-leão (taráxaco)  
 mam - mãe  
 mangi - ocupado (atarefado)  
@@ -645,6 +647,8 @@ maze - meia
 mece - partida  
 mede - meio (metade)  
 medi - moyen  
+meden - praça  
+medenpapil - papoila  
 mege - nuvem  
 mel - mel  
 melon - melão  
@@ -692,7 +696,9 @@ namkitaba - assinar
 narde - gamão  
 nasia - nação  
 nasmedi - internacional  
+nau - barco (navio)  
 navi - nove (9)  
+naulefte - bombordo  
 nautil - nautiloide  
 nefre - rim  
 nefte - aeite (óleo)  
@@ -993,7 +999,10 @@ Xampan vin - champaña
 xante - descanso (repouso)  
 xanti - tranquilo (calmo)  
 xarke - tubarão  
-xatan - Satanás  
+xata - opor  
+xatan - adversário  
+Xatan - Satanás  
+xati - cem (100)  
 xavi - poucos  
 xef - chefe  
 xei - coisa  
@@ -1020,6 +1029,7 @@ xulkan - escola (colégio)
 xulxef - diretor  
 xur - começo (início, princípio)  
 ####Z - Z  
+zarkube - dado  
 zebre - zebra  
 zeyil - verruga  
 zinje - jengibre  

@@ -12,6 +12,7 @@ abla - can (know, be able)
 able - ability (skill)  
 abli - possible  
 ablo - maybe (perhaps, possibly)  
+ablani - able (capable)  
 acinem - actinium  
 acu\* - achoo  
 acua - sneeze  
@@ -202,6 +203,9 @@ aslaustrali - Australian Aboriginal
 asme - asthma  
 aspirin - aspirin  
 astatem - astatine  
+astre - celestial body  
+astronau - starship  
+astronaver - astronaut  
 ate - act (deed)  
 ater - agent (doer, actor)  
 ation - action  
@@ -340,7 +344,7 @@ bazar - market (bazaar)
 bazarhuristia - market liberalism  
 bebe - baby (infant)  
 bede - bed  
-bedinjan - eggplant (aubergine, brinjal)  
+bedinje - eggplant (aubergine, brinjal)  
 bega - escape (flee, run away)  
 beyu - undergo (passivizing verb)  
 Beijing - Beijing (Peking)  
@@ -423,14 +427,7 @@ boria - boredom
 borem - bohrium  
 boron - boron  
 Bosnia e Hercegovina - Bosnia and Herzegovina  
-bota - sail  
-bote - boat (ship)  
 botel - bottle  
-boter - sailer  
-botokaper - privateer (buccaneer)  
-botolefte - port (left side of a ship)  
-botoraite - starboard (right side of a ship)  
-botoxef - captain  
 bravi - brave (gallant, valiant)  
 bravo - bravo!  
 brauza - explore (browse)  
@@ -577,7 +574,6 @@ cuzable - option (choice)
 da - of (particle of possession)  
 da - that (function word to introduce a relative clause)  
 du - 's (postposition of possession)  
-dade - die (dice)  
 dayi - big (great)  
 dayia - size  
 dayu - grow (get bigger)  
@@ -624,7 +620,7 @@ darunu - merge (fuse)
 darba - strike (punch)  
 darje - step (degree, rank, grade, level, class)  
 darji - gradual  
-darjomaidan - gradient (gradation, incline)  
+darjomeden - gradient (gradation, incline)  
 darjomute - development  
 darme - morality (ethics)  
 darmi - moral  
@@ -1090,6 +1086,7 @@ garmomosim - summer
 garmomosimmedi den - Midsummer Day  
 garmozon - tropics  
 garmozoni - tropical  
+garmozoni cautopia - savannah  
 gas - gas  
 gasa - gasify (vaporize)  
 gasi - gaseous  
@@ -1546,12 +1543,12 @@ jivi - live (be alive, living)
 joke - joke  
 joker - joker  
 jong - species  
-jovan - youth (young person)  
-jovani - young  
-jovani fem - girl  
-jovani man - boy  
-jovani moke - sapling  
-jovania - youth (young age)  
+joven - youth (young person)  
+joveni - young (juvenile)  
+joveni fem - girl  
+joveni man - boy  
+joveni moke - sapling  
+jovenia - youth (young age)  
 juda - judge  
 jude - judgment (sentence)  
 judi - judicial  
@@ -1863,6 +1860,8 @@ kos - cough
 kosmi - cosmic  
 kosmia - space (cosmos, universe)  
 kosmobiulojia - astrobiology  
+kosmonau - spaceship  
+kosmonaver - cosmonaut  
 Kosovo - Kosovo  
 kosta - cost  
 koste - cost (price)  
@@ -2116,10 +2115,6 @@ mageti - magnetic
 Magyaria - Hungary  
 Magribia - Morocco  
 mayan - Maya  
-maidan - field (square, plaza, maidan)  
-maidani - open (wide, spacious)  
-maidanfobia - agoraphobia  
-maidanpapil - corn poppy  
 Mayote - Mayotte  
 mais - corn (maize)  
 maitnerem - meitnerium  
@@ -2222,6 +2217,10 @@ media - medium (media)
 medu - among (amid, between)  
 medofas - interface  
 medal - medallion (medal)  
+meden - field (square, plaza, maidan)  
+medeni - open (wide, spacious)  
+medenfobia - agoraphobia  
+medenpapil - corn poppy  
 medika - heal (cure, remedy)  
 medikia - medicine (field of study)  
 mediker - doctor (medic, physician, healer)  
@@ -2429,8 +2428,15 @@ nasistia - nationalism
 nasmedi - international  
 natre - natron  
 natrem - sodium  
+nau - boat (ship)  
+nava - sail  
 navi - nine (9)  
+naver - sailer  
+naukaper - privateer (buccaneer)  
+naulefte - port (left side of a ship)  
 naumes - September  
+nauraite - starboard (right side of a ship)  
+nauxef - captain  
 navati - Nahuatl (Nahua)  
 Nauru - Nauru  
 nautil - nautilus  
@@ -3117,7 +3123,6 @@ sau - knowledge
 sava - know (be aware of)  
 savi - known  
 saulojia - epistemology  
-savan - savannah  
 Saudi Arabia - Saudi Arabia  
 saudar - sibling (brother or sister)  
 sauna\* - sauna  
@@ -3553,7 +3558,7 @@ vida - look (see)
 vide - view (vision)  
 vidu - be seen  
 vider - spectator (sightseer)  
-vidomaidan - visual field (field of vision)  
+vidomeden - visual field (field of vision)  
 vidopunte - perspective (point of view)  
 vidou - widow  
 vieti - Vietnamese (Viet)  
@@ -3660,8 +3665,10 @@ xarme - shame (disgrace)
 xarnir - hinge (pivot)  
 xarta - stipulate  
 xarte - condition (requirement)  
+xata - oppose (antagonize, object, resist)  
+xatan - adversary (antagonist, opponent)  
+Xatan - devil (Satan)  
 xati - hundred (100)  
-xatan - devil (Satan)  
 xatani - devilish (satanic)  
 xataniste - Satanist  
 xatanistia - Satanism (devil worship)  
@@ -3754,6 +3761,7 @@ zamandonia - dedication (devotion)
 Zambia - Zambia  
 zar - hazard (chance)  
 zari - random  
+zarkube - die (dice)  
 Zardux - Zoroaster  
 zarduxiste - Zoroastrian  
 zarduxistia - Zoroastrianism  

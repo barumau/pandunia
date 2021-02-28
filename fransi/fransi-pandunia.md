@@ -25,6 +25,7 @@ adhésif (collant) - gluti
 adjectif - sifloge  
 adresse - adres  
 adulte - matur  
+adversaire (antagoniste, ennemi) - xatan  
 afghan - afgani  
 Afghanistan - Afgania  
 africain - Afriki  
@@ -133,12 +134,16 @@ Assur - Axur
 Assyrie - Axuria  
 astate - astatem  
 asthme - asme  
+astre (corps céleste) - astre  
 astrobiologie - kosmobiulojia  
+astronaute - astronaver  
+astronef - astronau  
 atchoum - acu\*  
 Athènes - Atina  
 athée - andeviste  
 atome - atom  
 attaquer (agresser) - agresa  
+aubergine - bedinje  
 Australie - Australia  
 autel - pujomeze  
 automne - padomosim  
@@ -158,7 +163,7 @@ azur - lazuri
 aéroport - airporte  
 aïe! - ai  
 ####B - B  
-babord - botolefte  
+babord - naulefte  
 backgammon - narde  
 bagage - bagaje  
 bah - bah  
@@ -194,7 +199,7 @@ baseball - bazobol
 basique - alkali  
 basketball - baskobol  
 bassin - basen  
-bateau - bote  
+bateau - nau  
 beau - sundari  
 beauté - sundaria  
 bengali - bangli  
@@ -278,6 +283,7 @@ carte - geugraf
 carte - karde  
 carte à collectionner - jamkarde  
 cartographie (geographie) - geugrafia  
+cent (100) - xati  
 Centaurée - centaur  
 Centaurée bleuet - nilcentaur  
 Centaurée du solstice - solcentaur  
@@ -356,12 +362,13 @@ continuer (poursuivre) - zoka
 contract (traité) - trate  
 convention (alliance, pacte) - kontrate  
 copie - kope  
-coquelicot - maidanpapil  
+coquelicot - medenpapil  
 corail - koral  
 corne - korne  
 corps - bode  
 correct (juste) - sahi  
 cosmique - kosmi  
+cosmonaute - kosmonaver  
 cosmos - kosmia  
 coton - goton  
 couch (couchette) - kuxloke  
@@ -445,6 +452,7 @@ droits de l'homme - insani hake
 dur - gati  
 durer - duru  
 dynamite - dinamite  
+dé - zarkube  
 déboguer (débugger) - angalta  
 début (commencement) - xur  
 décapé (mariné) - sirkopurxipi  
@@ -633,6 +641,7 @@ jaïnisme - jeinistia
 je (me) - me  
 jeu de société - bangem  
 jeudi - caryom  
+jeune (juvénile) - joveni  
 joug - yoke  
 joule (J) - jul  
 jour - den  
@@ -929,7 +938,7 @@ pizza - pize
 pièce (chambre) - kamar  
 piège - kapotruke  
 placard - almar  
-place - maidan  
+place - meden  
 plaine - platotopia  
 plan - plan  
 planche - mokoban  
@@ -968,7 +977,7 @@ poudre à canon - barude
 Poulpe (pieuvre) - balsenter  
 pourri - pudi  
 pourrir (se décomposer) - pudu  
-pousse - jovani moke  
+pousse - joveni moke  
 pouvoir (être capable) - abla  
 presse-papier - katoglutoban  
 pression atmosphérique - airbaria  
@@ -1052,6 +1061,7 @@ rêche (rugueux, gros) - karsi
 rôtir - rosta  
 ####S - S  
 s'installer (déménager) - migru  
+s'opposer à - xata  
 sac - sake  
 sagesse - sofia  
 sain - sihi  
@@ -1065,7 +1075,7 @@ sandwich - sanduice
 sang - sang  
 santé - sih  
 Sapin - abite  
-Satan - xatan  
+Satan - Xatan  
 Saturne - Saturne  
 sauce - saus  
 saucisse - sosis  
@@ -1074,7 +1084,7 @@ saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
 sauvage - ekojeni  
-savane - savan  
+savane - garmozoni cautopia  
 savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
@@ -1176,7 +1186,7 @@ travailler - kara
 travailleur (ouvrier) - karer  
 traîner - tova  
 tremper (faire mariner) - purxipa  
-tribord - botoraite  
+tribord - nauraite  
 trois (3) - san  
 tropique - garmozon  
 truite - salmon  
@@ -1199,6 +1209,7 @@ uranium - uranem
 Uranus - Uran  
 vagine - vagin  
 vaginite - vaginitis  
+vaisseau spatial - kosmonau  
 valeur - val  
 vallée (oued) - vade  
 vampire - vampir  

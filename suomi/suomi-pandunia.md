@@ -25,7 +25,7 @@ Afrikka - Afrike
 afrikkalainen - Afriki  
 afrofiili - afrikofiler  
 afrofilia - afrikofilia  
-agorafobia (avoimen paikan kammo) - maidanfobia  
+agorafobia (avaran paikan kammo) - medenfobia  
 ahne - tami  
 ahnehtia - tamu  
 Ahvenanmaa (Oolanti) - Olandi nesia  
@@ -162,6 +162,7 @@ asti (saakka) - hata
 astia (kulho) - tas  
 astma - asme  
 astrobiologia - kosmobiulojia  
+astronautti (tähtimatkaaja) - astronaver  
 asua - doma  
 asunto (koti) - dom  
 asuttaa - domana  
@@ -182,8 +183,10 @@ auto (automobiili) - motogar
 autonominen - autonomi  
 auttaa (avustaa) - helpa  
 avain - cabe  
-avara (aava) - maidani  
+avara (aava, aukea) - medeni  
 avaruus (kosmos) - kosmia  
+avaruusalus - kosmonau  
+avaruusmatkaaja (kosmonautti) - kosmonaver  
 avata lukko - ansora  
 avioliitto - gamia  
 avokado - avakate  
@@ -921,7 +924,7 @@ kansanryhmä (etninen ryhmä) - zuke
 kansio (hakemisto) - dokumsanduke  
 kanssa (kera, -lla) - ya  
 kapina - rebel  
-kapteeni - botoxef  
+kapteeni - nauxef  
 karaatti - kirate  
 karaoke - karaoke  
 karate - karate\*  
@@ -987,7 +990,7 @@ kemikaali - kimi
 kenguru - kangaru\*  
 Kenia - Kenya  
 kenkä - sapate  
-kenttä (aukio) - maidan  
+kenttä (aukio) - meden  
 kerho (klubi) - klube  
 kerma - krem  
 kermankeltainen - kremi  
@@ -1245,6 +1248,7 @@ kuvanveistäjä - eskulter
 kuvaruutu - ekran  
 kuvitella - fantaza  
 Kuwait - Kuvaitia  
+kykenevä (voiva) - ablani  
 kyllä - ye  
 kylmä - lengi  
 kylpeä - banyu  
@@ -1308,7 +1312,7 @@ lahja - don
 lahti - bai  
 lainata (siteerata) - cita  
 lainausmerkki - citomarke  
-laivakaappari - botokaper  
+laivakaappari - naukaper  
 laji (tyyppi, tyyli) - yang  
 laji - jong  
 laki - kanun  
@@ -1681,7 +1685,7 @@ muistio (muistiinmerkintä) - memnote
 mukava (kiva, miellyttävä) - huxi  
 mukulakivi - cirkoxeke  
 muna - ande  
-munakoiso - bedinjan  
+munakoiso - bedinje  
 munuainen - nefre  
 munuaistulehdus (nefriitti) - nefritis  
 muoto - forme  
@@ -1791,7 +1795,7 @@ nolla (ei yhtään) - nol (noli)
 nopea (pikainen, vauhdikas) - rapidi  
 nopeus (vauhti) - rapidia  
 nopeusmittari - rapidometrer  
-noppa (arpakuutio) - dade  
+noppa (arpakuutio) - zarkube  
 Norfolkin saaret - Norfolke nes  
 Norja - Norge  
 norjalainen - norgi  
@@ -1811,9 +1815,9 @@ nukke - pupe
 nukkua - somu  
 nukkuminen (uni) - som  
 nuoli - flece  
-nuori - jovani  
-nuorukainen - jovan  
-nuoruus - jovania  
+nuori - joveni  
+nuorukainen - joven  
+nuoruus - jovenia  
 nussia (panna) - coda  
 nuudeli - mien  
 nyrkkeilijä - bokser  
@@ -1821,7 +1825,7 @@ nyrkkeily - bokse
 nähdä - vida  
 näkymä - vide  
 näkyä - vidu  
-näkökenttä - vidomaidan  
+näkökenttä - vidomeden  
 nälkä - yamyau  
 näppäimistö - butonban  
 näytellä - rola  
@@ -1915,11 +1919,10 @@ ovi (portti, veräjä) - mun
 ####P - P  
 paahtaa (paistaa) - rosta  
 paahtoleipä - rosti pang  
-paapuuri - botolefte  
+paapuuri - naulefte  
 paeta (karata) - bega  
 pah (pyh) - bah  
 paha (epäsuotuisa, epämiellyttävä, vastustava) - dusi  
-paholainen (saatana, piru) - xatan  
 paikallinen - loki  
 paikka (sija, sijainti) - loke  
 painaa (leimata) - capa  
@@ -2106,7 +2109,7 @@ Pohjois-Irlanti - Nordi Aire
 Pohjois-Korea - Nordi Cosen  
 Pohjois-Kypros - Nordi Kipris  
 pohtia (meditoida) - medita  
-poika (nuori mies) - jovani man  
+poika (nuori mies) - joveni man  
 poika - mani pute  
 poistaa (hävittää) - anzaya  
 poistaa (paitsi, poislukien) - vaya  
@@ -2361,6 +2364,7 @@ saaja (vastaanottaja) - geter
 saapas (buutsi) - bute  
 saari - nes  
 saaristo - nesia  
+saatana (sielunvihollinen) - Xatan  
 sade - barxe  
 sadekausi - barxomosim  
 sadetakki - barxokote  
@@ -2423,6 +2427,7 @@ satuttaa - paxa
 Saudi Arabia - Saudi Arabia  
 sauma (ommel) - sutur  
 sauna - sauna\*  
+savanni - garmozoni cautopia  
 savi - glutopote  
 savityö (keramiikka) - seram  
 savu - duman  
@@ -2675,6 +2680,7 @@ taitava - xuti
 taiteilija - artiste  
 taito (kyky) - able  
 taito - xute  
+taivaankappale - astre  
 taivas - samai  
 Taiwan - Taivan  
 takki - kote  
@@ -2902,11 +2908,11 @@ typerys (idiootti) - idiote
 typpi - nitre  
 tyranni - zalimi rajer  
 tyrannia - zalimia  
-tyttö (nuori neito) - jovani fem  
+tyttö (nuori neito) - joveni fem  
 tyttölapsi - femi pute  
 Tyyni valtameri - Paci Hai  
 tyyny - kuxen  
-tyyrpuuri - botoraite  
+tyyrpuuri - nauraite  
 työ (tehtävä) - kar  
 työkalu - tul  
 työntekijä (työläinen) - karer  
@@ -2915,6 +2921,7 @@ työpöytä (kirjoituspöytä) - karmeze
 työskennellä - kara  
 tähdätä (kohti) - dika  
 tähti - xing  
+tähtialus - astronau  
 tämä (nämä) - ci  
 tämä - ce  
 tämä hetki (nyt) - zai  
@@ -3052,6 +3059,8 @@ vastapäivään - rotolefto
 vastata - javaba  
 vastaus - javabe  
 vastustaa - fana  
+vastustaa - xata  
+vastustaja (vihollinen) - xatan  
 vastustaja - faner  
 Vatikaanivaltio - Vatikan  
 vaurio (vahinko, haveri) - avar  
@@ -3063,9 +3072,9 @@ veistos (patsas) - eskulte
 veistää kuvaa - eskulta  
 veitsi (puukko) - cake  
 veloittaa (verottaa) - taksa  
-vene (laiva) - bote  
-veneilijä - boter  
-veneillä - bota  
+vene (laiva) - nau  
+veneilijä - naver  
+veneillä - nava  
 Venezuela - Venezuela  
 Venäjä - Rusia  
 venäläinen - rusi  

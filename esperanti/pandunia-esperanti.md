@@ -10,6 +10,7 @@ abla - povi
 able - povo  
 abli - ebla  
 ablo - eble  
+ablani - povanta  
 acinem - aktinio  
 acua - terni  
 ade - kutimo  
@@ -109,6 +110,8 @@ asli - origina
 aslaustrali - aborigeno  
 asme - astmo  
 aspirin - aspirino  
+astre - astro  
+astronaver - astronaŭto  
 ate - ago  
 ater - aganto  
 ation - agado  
@@ -189,7 +192,7 @@ bazoxulkan - bazlernejo
 bazar - merkato (bazaro)  
 bebe - bebo  
 bede - lito  
-bedinjan - melongeno  
+bedinje - melongeno  
 bega - fuĝi  
 beka - baki  
 beker - bakisto  
@@ -241,11 +244,7 @@ bori - enui
 boria - enuo  
 borem - borio  
 boron - boro  
-bota - boatumi  
-bote - boato (ŝipo)  
 botel - botelo  
-botolefte - babordo  
-botoraite - tribordo  
 bravi - brava  
 bravo - brave!  
 Brazil - Brazilo  
@@ -329,7 +328,6 @@ cuze - elekto
 da - de (partiklo de posedo)  
 da - kiu (komencigas relativan frazon)  
 du - propra (partiklo de posedo)  
-dade - ĵetkubo  
 dayi - granda  
 dayanjiler - ambasadoro  
 dayanjilkan - ambasado  
@@ -828,11 +826,11 @@ jinsi - seksa
 jiraf - ĝirafo  
 jiu - vivo  
 jivi - viva  
-jovan - junulo  
-jovani - juna  
-jovani fem - knabino  
-jovani man - knabo  
-jovania - juneco  
+joven - junulo  
+joveni - juna  
+joveni fem - knabino  
+joveni man - knabo  
+jovenia - juneco  
 jude - juĝo  
 juder - juĝisto  
 judau - ĵudo  
@@ -982,6 +980,7 @@ koronvirus - krunviruso
 korta - mallongigi  
 korti - mallonga  
 kos - tuso  
+kosmonaver - kosmonaŭto  
 kote - palto  
 krabe - krabo  
 kran - krano (valvo)  
@@ -1213,6 +1212,10 @@ Namibia - Namibio
 nanas - ananaso  
 nasmedi - internacia  
 natrem - natrio  
+nau - boato (ŝipo)  
+nava - boatumi  
+naulefte - babordo  
+nauraite - tribordo  
 navati - naūatla  
 nefre - reno  
 nen - jaro  
@@ -1719,8 +1722,8 @@ xanti - trankvila (serena)
 xarme - honto  
 xarnir - ĉarniro (pivoto)  
 xarte - kondiĉo (postulo)  
+Xatan - diablo (Satano)  
 xati - cent  
-xatan - diablo (Satano)  
 xatranje - ŝako  
 xavi - malmulte  
 xef - estro (ĉefulo)  
@@ -1767,6 +1770,7 @@ zaitun - olivo
 Zambia - Zambio  
 zar - hazardo  
 zari - hazarda  
+zarkube - ĵetkubo  
 Zardux - Zoroastro  
 zarduxiste - zoroastristo  
 zarduxistia - zoroastrismo  

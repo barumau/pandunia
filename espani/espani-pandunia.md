@@ -5,7 +5,7 @@ abedul - berje
 abeja - melvespe  
 abeja o avispa - vespe  
 abeto - abite  
-abierto (extenso) - maidani  
+abierto (extenso) - medeni  
 abierto - kayi  
 abirse - kayu  
 Abisinia - Habaxia  
@@ -67,6 +67,7 @@ adulterio - zin
 adulto - matur  
 adverbo - modologe  
 adversario (oponente) - faner  
+adversario - xatan  
 aeroplano - viman  
 aeropuerto - airporte  
 afecto (emoción) - emos  
@@ -76,7 +77,7 @@ africano - Afriki
 agacharse - insida  
 agente - ater  
 agitar (sacudir) - sisma  
-agorafobia - maidanfobia  
+agorafobia - medenfobia  
 agosto - balmes  
 agradecer - danka  
 agresivo - agresivi  
@@ -143,7 +144,7 @@ alófono - alfon
 alúmina - aluminokside  
 amado (cariño) - amike  
 amante (enamorado) - amer  
-amapola silvestre - maidanpapil  
+amapola silvestre - medenpapil  
 amar - ama  
 amar románticamente - romansa  
 amargo - alkalgusti  
@@ -267,6 +268,8 @@ aspiradora - funcuper
 aspirina - aspirin  
 Assur (Ashur) - Axur  
 astrobiologia - kosmobiulojia  
+astronauta - astronaver  
+astronave (nave estelar) - astronau  
 asunto (caso) - eskotem  
 asustador - fobani  
 asustar (atemorizar) - foba  
@@ -309,7 +312,7 @@ azur (blao) - lazuri
 azúcar - xukar  
 año - nen  
 ####B - B  
-babor - botolefte  
+babor - naulefte  
 bacalao - kade  
 bacalao común - atlantokade  
 backgammon - narde  
@@ -344,7 +347,7 @@ barandilla (pasamanos) - langan
 barba - barde  
 Barbados - Barbados  
 Barbuda - Barbuda  
-barco (bote) - bote  
+barco (bote) - nau  
 bario - barem  
 barra (vara, palo) - baton  
 barra de chocolate - coklatobaton  
@@ -372,7 +375,7 @@ bellota - balutopal
 beneficioso (bueno) - evi  
 bengalí - bangli  
 Benín - Benin  
-berenjena - bedinjan  
+berenjena - bedinje  
 berilio - berilem  
 berkelio - berkelem  
 Bermuda - Bermuda  
@@ -516,7 +519,7 @@ campana (cencerro) - danger
 campeón - campion  
 campista - kamper  
 campo - rustia  
-campo de visión - vidomaidan  
+campo de visión - vidomeden  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
 cancelar - nola  
@@ -532,7 +535,7 @@ cantidad - polia
 caos (desorden) - haos  
 capa (manto) - mantol  
 capa (piso, planta, estrato) - ceng  
-capitán - botoxef  
+capitán - nauxef  
 capturar (apresar) - kapa  
 capítulo (sección) - babe  
 cara (rosto) - muke  
@@ -818,13 +821,14 @@ correo - poste
 correr - kora  
 corriente de resaca - tirdar  
 corromper (contaminar) - najisa  
-corsario - botokaper  
+corsario - naukaper  
 cortar - kata  
 cortina - parde  
 corto (breve) - korti  
 Corán - kuran  
 cosa - xei  
 coser - suta  
+cosmonauta - kosmonaver  
 cosmos - kosmia  
 costa - haitate  
 Costa de Marfil - Kote Da Ivar  
@@ -884,6 +888,7 @@ cuchara - camace
 cuchillo - cake  
 cuenta (factura) - bil  
 cuerpo - bode  
+cuerpo celeste - astre  
 cueva (caverna) - guh  
 culombio - kulombe  
 culpa (defecto, crimen) - dox  
@@ -917,7 +922,7 @@ cómodo (lujoso) - huxi
 cósmico - kosmi  
 cúpula - kupocate  
 ####D - D  
-dado - dade  
+dado - zarkube  
 damas - damgem  
 danés - dani  
 dar - dona  
@@ -1260,7 +1265,7 @@ esto - ci
 Estonia - Estia  
 estornudar - acua  
 estrella - xing  
-estribor - botoraite  
+estribor - nauraite  
 estudiante - xuler  
 estudiar (investigar) - loja  
 estudio - estudia  
@@ -1773,8 +1778,8 @@ jirafa - jiraf
 joder (coger, copular) - coda  
 Jordania - Urdun  
 joule (J) - jul  
-joven - jovan  
-joven - jovani  
+joven - joven  
+joven - joveni  
 judaísmo - yehudistia  
 judío - yehudi  
 juego - gem  
@@ -1793,7 +1798,7 @@ Jupiter - Jupiter
 justicia - adalia  
 justo (exactamente) - justo  
 justo - adali  
-juventud - jovania  
+juventud - jovenia  
 juzgar (considerar) - juda  
 ####K - K  
 karaoke - karaoke  
@@ -2241,7 +2246,8 @@ nariz - nos
 nasal - nosi  
 natrón - natre  
 nautilo - nautil  
-navegar (ir en bote) - bota  
+nave espacial - kosmonau  
+navegar (ir en bote) - nava  
 Navidad - kristojen  
 Nazi - naziste  
 nazismo - nazistia  
@@ -2277,8 +2283,8 @@ niobio - niobem
 nitrógeno - nitre  
 Niue - Niue  
 nivel - par  
-niña - jovani fem  
-niño - jovani man  
+niña - joveni fem  
+niño - joveni man  
 niño o niña - bace  
 no - no  
 no binario (género) - bis  
@@ -2364,6 +2370,7 @@ onda - onde
 opción - cuzable  
 opinar - raya  
 opinión - rai  
+oponer - xata  
 oponerse (resistir) - fana  
 oportunidad (chance) - canse  
 oración - jumle  
@@ -2574,7 +2581,7 @@ pila (batería) - batre
 pilaf (pulaw) - polau  
 piloto - piloter  
 pimienta - pipre  
-pimpollo - jovani moke  
+pimpollo - joveni moke  
 pingüino - pinguin  
 pino - song  
 pintar - penta  
@@ -2608,7 +2615,7 @@ platonismo - platonistia
 platonista - platoniste  
 Platón - Platon  
 platónico - platonisti  
-plaza - maidan  
+plaza - meden  
 plomo - plumbe  
 pluma - per  
 plutonio - plutonem  
@@ -2934,7 +2941,7 @@ rápido - rapidi
 réservation - rezerve  
 rígido (sólido) - gatomati  
 ####S - S  
-sabana - savan  
+sabana - garmozoni cautopia  
 sabbat - sabate  
 saber (conocer) - sava  
 sabiduría (conocimiento) - sau  
@@ -2982,7 +2989,7 @@ saquear (desvalijar, robar) - luta
 sartén - tau  
 satanismo - xatanistia  
 satanista - xataniste  
-Satanás - xatan  
+Satanás - Xatan  
 Saturno - Saturne  
 satánico - xatani  
 sauna - sauna\*  
@@ -3390,7 +3397,7 @@ veganismo - purfityamistia
 vegano - purfityamiste  
 vegetariano - fityamiste  
 vela (candela, cirio) - mumfote  
-velero - boter  
+velero - naver  
 velo - hijabe  
 velocímetro - rapidometrer  
 vender - venda  

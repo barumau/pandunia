@@ -170,6 +170,9 @@ aslaustrali - aborigènes australiens
 asme - asthme  
 aspirin - aspirine  
 astatem - astate  
+astre - astre (corps céleste)  
+astronau - astronef  
+astronaver - astronaute  
 ate - acte  
 ater - agent (faiseur)  
 ation - action  
@@ -269,6 +272,7 @@ bazobol - baseball
 bazoxulkan - école primaire  
 bazar - marché (bazar)  
 bebe - bébé  
+bedinje - aubergine  
 beker - boulanger  
 bekopote - terre cuite  
 bel - pelle  
@@ -292,10 +296,7 @@ bokserpante - caleçon
 bol - balle (boule)  
 bombe - bombe  
 boni - bon  
-bote - bateau  
 botel - bouteille  
-botolefte - babord  
-botoraite - tribord  
 bravi - brave  
 bravo - bravo!  
 bruni - brun (marron)  
@@ -479,6 +480,7 @@ gantex - serviette
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
+garmozoni cautopia - savane  
 gas - gaz  
 gati - dur  
 gau - haut  
@@ -623,7 +625,8 @@ jinse - sexe
 jiraf - giraffe  
 jiu - vie  
 jivi - vivant  
-jovani moke - pousse  
+joveni - jeune (juvénile)  
+joveni moke - pousse  
 juder - juje  
 jul - joule (J)  
 jung - centre  
@@ -723,6 +726,8 @@ kortokrokodil - alligator
 kosmi - cosmique  
 kosmia - cosmos  
 kosmobiulojia - astrobiologie  
+kosmonau - vaisseau spatial  
+kosmonaver - cosmonaute  
 krabe - crabe  
 krake - fente (fissure, fêlure)  
 krem - crème  
@@ -813,8 +818,6 @@ mome - nous
 mafa - pardonner  
 magesem - magnésium  
 Magribia - Maroc  
-maidan - place  
-maidanpapil - coquelicot  
 makanful - dandélion  
 mal - propriété (possession, bien)  
 malan - possédant (propriétaire)  
@@ -847,6 +850,8 @@ maxfilistia - favoritisme
 maxime - maximum  
 mece - match  
 medi - medio  
+meden - place  
+medenpapil - coquelicot  
 medikosui - pocion  
 mege - nuage  
 mehi kex - laine  
@@ -898,7 +903,10 @@ namkitaba - signer
 narde - backgammon  
 nasia - nation  
 nasmedi - international  
+nau - bateau  
 navi - neuf (9)  
+naulefte - babord  
+nauraite - tribord  
 nautil - nautile  
 nefre - rein  
 nefte - huile (pétrole)  
@@ -1100,7 +1108,6 @@ sang - sang
 sar - tête  
 Saturne - Saturne  
 sava - savoir (connaître)  
-savan - savane  
 saus - sauce  
 sekuri - sûr  
 sel - conseil  
@@ -1257,7 +1264,10 @@ Xampan vin - Champagner
 xante - repos  
 xanti - calme (tranquille)  
 xarke - requin  
-xatan - Satan  
+xata - s'opposer à  
+xatan - adversaire (antagoniste, ennemi)  
+Xatan - Satan  
+xati - cent (100)  
 xavi - peu  
 xef - chef  
 xei - chose  
@@ -1290,6 +1300,7 @@ xulkan - école (collège)
 xulxef - directeur (principal)  
 xur - début (commencement)  
 ####Z - Z  
+zarkube - dé  
 Zardux - Zoroastre  
 zarduxiste - zoroastrien  
 zarduxistia - zoroastrisme  
