@@ -44,6 +44,7 @@ fata_leksasli_liste() {
 }
 
 fata_liste() {
+    echo cana logoliste pa $2
     fata_liste_pandunia_X $1 $2
     fata_liste_X_pandunia $1 $2
     fata_leksasli_liste $1 $2
@@ -226,6 +227,7 @@ tarja_leksaslia_pa_esperanti() {
 
 
 #dos2unix pandunia-loge.csv
+sed 's/\t/|/g' -i pandunia-loge.csv
 
 # engli e pandunia
 fata_liste 6 engli

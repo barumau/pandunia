@@ -13,6 +13,7 @@ acordado - jagi
 acordo (tratado, contrato) - trate  
 acordo - samrayia  
 adjetivo - sifloge  
+adversário - xatan  
 aeite (óleo) - nefte  
 aeroporto - airporte  
 Afeganistão - Afgania  
@@ -74,7 +75,10 @@ aspirina - aspirin
 assinar - namkitaba  
 assustador - fobani  
 assustar - foba  
+astro (corpo celeste) - astre  
 astrobiologia - kosmobiulojia  
+astronauta - astronaver  
+astronave - astronau  
 ataque - agres  
 Atenas - Atina  
 ativo - ativi  
@@ -100,7 +104,7 @@ banco de dados - datobanke
 bando - bande  
 banqueiro - banker  
 barba - barde  
-barco (navio) - bote  
+barco (navio) - nau  
 barra de chocolate - coklatobaton  
 barrar - barya  
 barreira - baryer  
@@ -113,6 +117,7 @@ baía - bai
 bebê - bebe  
 beleza - sundaria  
 belo (lindo) - sundari  
+beringela - bedinje  
 biblioteca - kitabokan  
 bigorna - metalbede  
 bilhete - tikete  
@@ -122,7 +127,7 @@ bioma - biusistem
 bola - bol  
 bom - boni  
 bomba - bombe  
-bombordo - botolefte  
+bombordo - naulefte  
 borboleta - pelpel  
 bota - bute  
 botânica - fitolojia  
@@ -180,6 +185,7 @@ castanho (marrom) - bruni
 cavar (escavar) - kava  
 caçar - saida  
 cebola - piaze  
+cem (100) - xati  
 cemitério - gabrotopia  
 cenoura - karote  
 centro - jung  
@@ -245,6 +251,7 @@ corredor - korer
 correr - kora  
 correto (justo) - sahi  
 cosmo - kosmia  
+cosmonauta - kosmonaver  
 costa - haitate  
 costume (hábito) - ade  
 crente - diniste  
@@ -268,7 +275,7 @@ céu - samai
 cópia - kope  
 cósmico - kosmi  
 ####D - D  
-dado - dade  
+dado - zarkube  
 dados - date  
 damasco (abricó) - barkoke  
 dano (avaria) - avar  
@@ -281,6 +288,7 @@ dente-de-leão (taráxaco) - makanful
 derretre - yongu  
 descanso (repouso) - xante  
 desenvolvimento - darjomute  
+desfigurar - dusforma  
 deslizar - glisu  
 despertar - jagu  
 destino - cenamen  
@@ -496,6 +504,7 @@ jengibre - zinje
 joelho - gute  
 jogo de tabuleiro - bangem  
 joule (J) - jul  
+jovem - joveni  
 jugo - yoke  
 juiz - juder  
 justiça - adalia  
@@ -635,6 +644,7 @@ música - muzike
 ####N - N  
 nadar (flutuar) - boyu  
 nautiloide - nautil  
+nave espacial - kosmonau  
 nação - nasia  
 necessidade - yau  
 necessitado - yavi  
@@ -675,6 +685,7 @@ onda - onde
 onde - va ke  
 online - va linye  
 ontem - cendeno  
+opor - xata  
 opção - cuzable  
 ordem - ratibe  
 orelha - or  
@@ -703,7 +714,7 @@ panda - pande
 pandemia - pandemi patia  
 papel - kaguje  
 papel de parede - murkaguje  
-papoila - maidanpapil  
+papoila - medenpapil  
 papoila-dormideira - sompapil  
 parque - parke  
 partida - mece  
@@ -732,6 +743,7 @@ pepino-do-mar (holotúrias) - haihiar
 pequeno - lili  
 perdedor - xibayer  
 perder - xibaya tena  
+perdoar (desculpar) - mafa  
 perguntar - eska  
 perigo - hatre  
 perplexo (confuso) - ruhmixi  
@@ -764,7 +776,7 @@ poucos - xavi
 prancheta - pinsoban  
 prata - argente  
 prateleira (estante) - liboban  
-praça - maidan  
+praça - meden  
 precioso - bavi  
 preferir - maxfila  
 preto - siahi  
@@ -859,7 +871,7 @@ samambaia - parne
 samba-canção - bokserpante  
 sanduíche - sanduice  
 sangue - sang  
-Satanás - xatan  
+Satanás - Xatan  
 Saturno - Saturne  
 saudação - salame  
 saudável (saudio) - sihi  

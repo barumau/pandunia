@@ -7,6 +7,7 @@ a couple of - duli o sani
 abattoir (slaughterhouse) - bucokan  
 ability (skill) - able  
 Abkhazia - Apsni  
+able (capable) - ablani  
 about (approximately, nearly, almost) - yago  
 above (over) - supro  
 Abyssinia - Habaxia  
@@ -41,6 +42,7 @@ advancement (milestone) - jin
 adventure (venture) - ventur  
 adventurer - venturer  
 adverb - modologe  
+adversary (antagonist, opponent) - xatan  
 advice (counsel) - sel  
 advice (recommend) - sela  
 advisor (counselor, mentor) - menter  
@@ -58,7 +60,7 @@ agent (doer, actor) - ater
 aggressive - agresivi  
 aggressor - agreser  
 agile - ajili  
-agoraphobia - maidanfobia  
+agoraphobia - medenfobia  
 agree (concur) - samraya  
 agree (make an agreement) - trata  
 agreement (consent) - samrayia  
@@ -207,6 +209,7 @@ Assyria - Axuria
 astatine - astatem  
 asthma - asme  
 astrobiology - kosmobiulojia  
+astronaut - astronaver  
 atheist - andeviste  
 Athens - Atina  
 athlete (sportsman) - keler  
@@ -249,7 +252,6 @@ backup - sekuri kope
 backward (in reverse) - retro  
 bad (ruined, destroyed) - harabi  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dusi  
-bad - mal (mali)  
 bag (sack) - sake  
 baguette - batonpang  
 bah - bah  
@@ -313,6 +315,7 @@ beacon (lighthouse) - fotominar
 bean or pea (legume) - dou  
 bear - urse  
 beard - barde  
+beautiful (handsome, good-looking) - bonvidi  
 beautiful (handsome, pretty) - sundari  
 beauty - sundaria  
 beaver - kastor  
@@ -399,7 +402,7 @@ blue - nili
 bluet - seramxing  
 board (pane, panel) - ban  
 board game - bangem  
-boat (ship) - bote  
+boat (ship) - nau  
 bob up and down - gautalu  
 bobcat - lalolince  
 bodily (corporal) - bodi  
@@ -437,7 +440,7 @@ box (container) - kapse
 boxer - bokser  
 boxer shorts (boxers) - bokserpante  
 boxing - bokse  
-boy - jovani man  
+boy - joveni man  
 boycott - boikote  
 brain - serebre  
 branch (bough) - xake  
@@ -539,7 +542,7 @@ cantaloupe - kantalupomelon
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravine, gorge, gully) - kanyon  
 cape (cloak, mantle) - mantol  
-captain - botoxef  
+captain - nauxef  
 car (cart, carriage, wagon, automobile) - gar  
 car park (parking lot) - garparke  
 carat - kir  
@@ -574,6 +577,7 @@ Cayman Islands - Kaiman nesia
 ceiling - kamargau  
 celebrate (party) - festa  
 celestial (heavenly) - samayi  
+celestial body - astre  
 cell (biology) - cel  
 cement - semente  
 center (concentrate) - junga  
@@ -787,7 +791,7 @@ copyright - kopohake
 coral - koral  
 core (nucleus, kernel) - kerne  
 corn (maize) - mais  
-corn poppy - maidanpapil  
+corn poppy - medenpapil  
 corner (angle) - gon  
 cornflower - nilcentaur  
 corona virus - koronvirus  
@@ -795,6 +799,7 @@ correct (make right) - saha
 corrupt (pollute, soil, defile, stain, taint) - najisa  
 corruption (filth, pollution, contamination, najis) - najis  
 cosmic - kosmi  
+cosmonaut - kosmonaver  
 cost (price) - koste  
 cost - kosta  
 Costa Rica - Kosta Rika  
@@ -934,13 +939,13 @@ destiny (fate) - cenamen
 detail - detal  
 Devanagari alphabet - deunagri harfe  
 development - darjomute  
-devil (Satan) - xatan  
+devil (Satan) - Xatan  
 devilish (satanic) - xatani  
 dew - ros  
 diagonal - transogoni  
 diamond - almas  
 dictionary (word list) - logoliste  
-die (dice) - dade  
+die (dice) - zarkube  
 die - mortu  
 difference - alsifia  
 different - alsifi  
@@ -957,6 +962,7 @@ disagreement (disconsent) - alrayia
 disc (disk) - diske  
 discrete (digital, quantized) - feni  
 discussion (debate, discourse) - lon  
+disfigure - dusforma  
 dish - tas  
 dislike (loathe) - anama  
 disperse (spread out, scatter) - anjama  
@@ -994,7 +1000,7 @@ double (multiply by two) - dulo multa
 double entendre - dulmeni  
 doubt (disbelief) - dute  
 doubtful (suspicious, disbelieving) - dutani  
-downgrade - maldarja  
+downgrade - dusdarja  
 download - netogeta  
 drag (haul, tow, trail) - tova  
 dragon - lung  
@@ -1028,6 +1034,7 @@ duruka - yamxukarcau
 dust (powder) - fun  
 dye - rangomate  
 dynamite - dinamite  
+dysfunction (malfunction) - dusfunce  
 dysprosium - disprosem  
 dystheism (maltheism) - dusdevistia  
 dystopia - dustopia  
@@ -1053,7 +1060,7 @@ education (schooling) - xulia
 effect (bring about) - asara  
 effect (impact, impression, result, outcome) - asar  
 egg - ande  
-eggplant (aubergine, brinjal) - bedinjan  
+eggplant (aubergine, brinjal) - bedinje  
 Egypt - Misria  
 Egyptian - misri  
 eight (8) - bali  
@@ -1217,7 +1224,7 @@ fermium - fermem
 fern - parne  
 fertilize - caniva  
 fertilizer - caniver  
-field (square, plaza, maidan) - maidan  
+field (square, plaza, maidan) - meden  
 fiery - hogi  
 fiever - febre  
 fight (war, battle, combat) - jeng  
@@ -1282,6 +1289,7 @@ foreign country - vaidex
 forenoon - suboden  
 forest (woods, jungle) - jangle  
 forget - anmema  
+forgive (pardon) - mafa  
 fork - forke  
 form (questionaire) - eskodokum  
 form (shape) - forme  
@@ -1381,7 +1389,7 @@ gift - don
 ginger - zinje  
 ginseng - jenxen  
 giraffe - jiraf  
-girl - jovani fem  
+girl - joveni fem  
 give - dona  
 give birth (beget, generate, breed) - jena  
 give consultation - konsela  
@@ -1408,12 +1416,11 @@ Good day - salam den
 Good evening - salam xam  
 good luck - boni zar  
 Good morning - salam sube  
-good-looking - bonrupi  
 gorilla - goril  
 gospel (divine message) - evanjil  
 govern - governa  
 government - governe  
-gradient (gradation, incline) - darjomaidan  
+gradient (gradation, incline) - darjomeden  
 gradual - darji  
 gram (g) - gram  
 grammar - baxkanun  
@@ -1979,7 +1986,7 @@ Malayali (Malayalam) - malayali
 Malaysia - Malaisia  
 Maldives - Divehia  
 male - man  
-malfunction - malfunce  
+malformed (deformed, disfigured) - dusformi  
 Mali - Mali  
 Malta - Malta  
 mammal - mamal  
@@ -2116,7 +2123,7 @@ minute - minute
 Miranda - Miranda  
 mirror - mirer  
 misdeed (sin, vice) - duskar  
-misfortune (bad luck) - mal zar  
+misfortune (bad luck) - dusi zar  
 mission (transmission, emission) - misia  
 mistake (error, fault, bug) - galte  
 misunderstand - galto buda  
@@ -2346,7 +2353,7 @@ old (aged, elderly) - lavi
 old (ancient, former) - ceniki  
 olive - zaitun  
 Oman - Oman  
-ominous (foreboding) - malsinyi  
+ominous (foreboding) - dussinyi  
 once - unmaro  
 oncilla - bagroselote  
 one (1) - un (uni)  
@@ -2355,12 +2362,13 @@ online - va linye
 only (single, sole, lone) - uniki  
 only (solely, just) - uniko  
 open (not closed) - kayi  
-open (wide, spacious) - maidani  
+open (wide, spacious) - medeni  
 open - kaya  
 opinion (view) - rai  
 opium poppy - sompapil  
 opponent (antagonist) - faner  
 opportunity (chance) - canse  
+oppose (antagonize, object, resist) - xata  
 oppose (resist) - fana  
 opposite (anti-) - fani  
 option (choice) - cuzable  
@@ -2400,8 +2408,8 @@ outer (external) - vayi
 outsider - vaijan  
 oven (furnace) - tanur  
 overpass - supre  
-own - malka  
-owner (proprietor) - malker  
+own - mala  
+owner (proprietor) - malan  
 oxeye daisy - bakomargarite  
 oxide - okside  
 oxygen - okse  
@@ -2451,6 +2459,7 @@ Paraguay - Paraguai
 parallel (longitudinal) - parlinyi  
 parameter (argument, input variable) - param  
 parasol - solcate  
+pardon (forgiveness; sorry) - maf  
 parent (mother or father) - jener  
 Paris - Paris  
 park (garden) - parke  
@@ -2620,7 +2629,7 @@ population - demmultia
 pork - gurubomanse  
 porn - porne  
 pornography - pornografia  
-port (left side of a ship) - botolefte  
+port (left side of a ship) - naulefte  
 port (station) - porte  
 portion (dose) - doze  
 Portugal - Portugal  
@@ -2667,7 +2676,7 @@ prime minister - xefi minister
 print (stamp) - cape  
 prison (imprisonment) - prizon  
 prison - prizonkan  
-privateer (buccaneer) - botokaper  
+privateer (buccaneer) - naukaper  
 problem (issue) - problem  
 problematic - problemi  
 process (procedure) - proses  
@@ -2691,7 +2700,7 @@ promise (vow, oath) - vode
 pronoun - visloge  
 pronounce (articulate) - fona  
 proof (evidence, proof, demonstration, testimony) - dalil  
-property (belongings, possessions) - malke  
+property (belongings, possessions) - mal  
 prophecy - nabe  
 prophet - naber  
 prophet Mani - Manihai  
@@ -2903,8 +2912,8 @@ sadden (make sad) - duka
 safe (secure, protected) - sekuri  
 saffron - safran  
 Sahrawi Arab Democratic Republic - Sahravia  
-sail - bota  
-sailer - boter  
+sail - nava  
+sailer - naver  
 Saint Helena - Santi Helena  
 Saint John's Day - yohani feste  
 Saint Kitts - Santi Kitse  
@@ -2925,7 +2934,7 @@ sandstone - regopetre
 sandwich - sanduice  
 Sao Paulo - Santi Paulo  
 Sao Tome and Principe - Santi Tome e Prinsipe  
-sapling - jovani moke  
+sapling - joveni moke  
 Satanism (devil worship) - xatanistia  
 Satanist - xataniste  
 satsuma mandarin - venjovoranje  
@@ -2935,7 +2944,7 @@ sauce - saus
 Saudi Arabia - Saudi Arabia  
 sauna - sauna\*  
 sausage - sosis  
-savannah - savan  
+savannah - garmozoni cautopia  
 save (deposit, bank) - banka  
 savory (umami) - umami  
 saw - ser  
@@ -3140,7 +3149,6 @@ sometime - koi sate
 son - mani pute  
 song - cante  
 soon - suno  
-sorry (pardon) - pardon  
 soul (mind, psyche) - ruh  
 sound (audio) - son  
 sound (make a sound) - sona  
@@ -3156,6 +3164,7 @@ South Sudan - Sudi Sudan
 southern - sudi  
 space (character) - kali harfe  
 space (cosmos, universe) - kosmia  
+spaceship - kosmonau  
 Spain - Espania  
 sparse (scattered) - anjami  
 speak (communicate) - baxa  
@@ -3196,7 +3205,8 @@ stand (rack) - libobaze
 stand - libu  
 stand still - estasu  
 star - xing  
-starboard (right side of a ship) - botoraite  
+starboard (right side of a ship) - nauraite  
+starship - astronau  
 state (condition, status, situation) - hal  
 static (stationary) - estasi  
 station - estasia  
@@ -3623,7 +3633,7 @@ visa - vize
 visit - kega  
 visitation (visit) - kege  
 visitor (guest) - keger  
-visual field (field of vision) - vidomaidan  
+visual field (field of vision) - vidomeden  
 vocabulary (lexicon) - logia  
 void (empty space) - kal  
 volcanic glass - hogoxani kance  
@@ -3765,10 +3775,10 @@ Yoruba (language and people) - yorubi
 yotta- - yota\*  
 you (singular) - te  
 you all - tote  
-young - jovani  
+young (juvenile) - joveni  
 your - ti  
-youth (young age) - jovania  
-youth (young person) - jovan  
+youth (young age) - jovenia  
+youth (young person) - joven  
 ytterbium - yuterbem  
 yttrium - yutrem  
 ####Z - Z  

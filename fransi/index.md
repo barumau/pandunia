@@ -20,8 +20,6 @@ Quelques traits remarquables du pandunia :
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
 - [Petits cours en images](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Recueil d’expressions](fraze.md)
-- [Orthographe](abc.md)
-- [Grammaire](kanun.md)
 - Dictionnaire [français → pandunia](fransi-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fransi.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
@@ -31,10 +29,6 @@ Quelques traits remarquables du pandunia :
 ## Articles
 
 - [Le pandunia, une nouvelle langue de communication mondiale](dunia_baxe.md)
-- [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
-- [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
-- [Esperanto vs. Pandunia](esperanti_i_pandunia.md)
-- [Miscellaneous notes](note.md)
 
 
 ## Présentation au format PDF (en anglais)

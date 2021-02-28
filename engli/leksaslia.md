@@ -119,7 +119,7 @@
 |**baze**|base (foundation)|English:French:Portuguese:Spanish:base, deu:Basis, Russian:база (baza)|
 |**bebe**|baby (infant)|French:bébé, Portuguese:bebê, Spanish:bebé, Turkish:bebek, English:baby, Cantonese:BB (bibi)|
 |**bede**|bed|English:bed, deu:Bett, Japanese:ベッド (beddo), Zulu:umbhede|
-|**bedinjan**|eggplant (aubergine, brinjal)|Hindi:बैंगन (bEngān), Arabic:(bādinjān), Portuguese:berinjela, French:aubergine, Spanish:berenjena, Turkish:badincan, patlıcan, Russian:баклажан (baklažan), Swahili:mbilingani|
+|**bedinje**|eggplant (aubergine, brinjal)|Hindi:बैंगन (bEngān), Arabic:(bādinjān), Portuguese:berinjela, French:aubergine, Spanish:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), Turkish:badincan, patlıcan, Russian:баклажан (baklažan), Swahili:mbilingani|
 |**bega**|escape (flee, run away)|Russian:убегать (ubegat'), Hindi:भागना (bhāgnā)|
 |**beka**|bake|English:bake, Hindi:पकाना (pakānā), Russian:печь (peč), deu:backen|
 |**bel**|shovel (spade, scoop)|Persian: بیل‎ (bil), Turkish:bel, Hindi:बेलचा (belcā), Bengali:বেলচা (bēlacā), French:pelle|
@@ -155,9 +155,7 @@
 |**bol**|ball|English:ball, Spanish:Portuguese:Malay:Filipino:bola, Thai:บอล (bɔl), Japanese:ボール (bōru), Korean:볼 (bol), Khmer:បាល់ (bal), Bengali:বল (bôl), deu:Ball, French:boule,balle|
 |**bombe**|bomb|Polish:Portuguese:Spanish:Turkish:bomba, Russian:бомба (bomba), deu:French:bombe, Persian:(bomb), English:bomb, Bengali:বোমা (boma), Hindi:बम (bam), Urdu:(bam), Japanese:ボム (bomu), Korean:봄 (bom), Malay:bom|
 |**boni**|good|French:bon, Portuguese:bom, Spanish:bueno, + Khmer:បុណ្យ (bon), Thai:บุญ (bun), Telugu:పుణ్యము (puṇyamu)|
-|**bonrupi**|good-looking|Mandarin:好看 (hǎokàn), English:good-looking|
 |**bori**|bored|English:bored, Spanish:aburrido, Hindi:(bhorī)|
-|**bote**|boat (ship)|Spanish:bote, English:boat, Hindi:बोट (boṭ), Swahili:boti, Russian:бот (bot), Japanese:ボート (bōto)|
 |**botel**|bottle|English:bottle, French:bouteille, Spanish:botella, Portuguese:botelha, Russian:бутылка (butylka), Hindi:बोतल (botal), Bengali:বোতল (botôl), Malay:botol|
 |**brauzer**|explorer (browser)|English:browser, deu:Browsre, Russian:браузер (brauzer), Hindi:ब्राउज़र (brauzar), Bengali:ব্রাউজার (brā'ujāra), Japanese:ブラウザ (burauzā)|
 |**bravi**|brave (gallant, valiant)|English:French:brave, Russian:бравый (braviy), Portuguese:bravo, Arabic:(brāvo)|
@@ -221,7 +219,6 @@
 |**cuta**|leave (go out, exit)|Mandarin:出 (chū), Hakka-Chinese:(chut), Korean:출 (chul), Hindi:छूटना (chūtnā) + Turkish:çıkmak|
 |**cuza**|choose (elect, select, pick)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
 |**da**|of (particle of possession)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
-|**dade**|die (dice)|Spanish:Portuguese:Filipino:dado, Malay:Swahili:dadu|
 |**daihai**|ocean|Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)|
 |**daka**|cover (conceal)|Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck|
 |**dalil**|proof (evidence, proof, demonstration, testimony)|Arabic:(dalil), Bengali:দলিল (dôlil), Swahili:dalili, Turkish:delil|
@@ -550,7 +547,7 @@
 |**jiu**|life (existence)|Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy|
 |**joke**|joke|English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jong**|species|Mandarin:種 (zhǒng), Cantonese:種 (zung2), Wu-Chinese:種 (tson2), Japanese:種 (shu), Korean:종 (jong), Vietnamese:chủng|
-|**jovani**|young|Hindi:जवान (javān), Persian:Urdu:(javān), Telugu:యువ (yuva), Portuguese:jovem, Spanish:joven, Italian:giovane|
+|**joveni**|young (juvenile)|Hindi:जवान (javān), Persian:Urdu:(javān), Telugu:యువ (yuva), Portuguese:jovem, Spanish:joven, Italian:giovane, English:juvenile, French:juvénile|
 |**juder**|judge (referee)|English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji + Russian:судья (sud'ya)|
 |**jumle**|sentence (phrase)|Arabic:(jumla), Turkish:cümle, Hindi:जुमला (jumlā), Mandarin:句 (jù)|
 |**jung**|middle (center)|Mandarin:中 (zhōng), Cantonese:中 (zung), Korean:중 (jung), Japanese:中 (chuu-)|
@@ -777,16 +774,14 @@
 |**mafana**|bother|Mandarin:麻煩 (máfan), Cantonese:麻煩 (maa4 faan4), Wu-Chinese:麻煩 (mo ve3)|
 |**magete**|magnet|English:magnet, Spanish:magnete, Russian:магнит (magnit), Turkish:mıknatıs, Arabic:مَغْنَاطِيس‎ (maḡnāṭīs), Malay:maknit|
 |**magia**|magic|English:magic, Spanish:Portuguese:magia, French:magie, Russian:ма́гия (mágija), rus:マジック (majikku)|
-|**maidan**|field (square, plaza, maidan)|Arabic:(maydān), Persian:(meydan), Hindi:मैदान (maidān), Turkish:meydan, Swahili:medani, Russian:майдан (maydan)|
 |**mais**|corn (maize)|English:maize, Spanish:maíz, French:maïs, Russian:маи́с (maís)|
 |**majenti**|magenta (fuchsia)|English:magenta, Spanish:magenta, Russian:маджента (madzhenta), Arabic:ماجنتي (majinati), Hindi:मैजेंटा (maijenta), Japanese:マゼンタ (mazenta), Malay:magenta|
 |**makal**|article (writing)|Arabic:مَقَال‎ (maqāl), Turkish:makale, Swahili:makala, Persian:مقاله‎ (maqâle), Malay:makalah|
 |**makan**|butter|Hindi:मक्खन (makkhan), Bengali:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), Marathi:माखण (mākhaṇ), Gujarati:માખણ (mākhaṇ)|
 |**makas**|scissors (shears)|Arabic:(maqaṣ), Turkish:makas, Swahili:mkasi, Oromo:maqasii, Hausa:almakashi, Yoruba:àlùmogàjí|
-|**mal (mali)**|bad|English:mal-, Spanish:French:mal, Portuguese:mau, Russian:моль (mol’)|
+|**mal**|property (belongings, possessions)|Arabic:Persian:Urdu: مَال‎ (māl), Hindi:माल (māl), Turkish:mal, Swahili:mali, Malay:milik|
 |**malaria**|malaria|English:Spanish:French:Swahili:Malay:malaria, Portuguese:malária, Russian:малярия (mal′arija), Turkish:malarya, Arabic:مَلَارِيَا‎ (malāriyā), Hindi:मलेरिया (maleriyā), Japanese:マラリア (mararia)|
 |**malike**|jasmine|Kannada:(mallige), Tamil:(mallikai), Telugu:(malla), Malay:melati,  Korean:말리 (malli), Thai:มะลิ (mali), Mandarin:茉莉 (mòlì)|
-|**malke**|property (belongings, possessions)|Arabic:(mulk), Turkish:mal, Swahili:mali,miliki, Malay:milik, Persian:melk, + pas:Urdu:(mālik), Punjabi:ਮਾਲਕ (mālik)|
 |**mam**|mother (mom, mama)|Spanish:mamá, French:maman, English:Swahili:mama, Russian:мама (mama), Mandarin: 妈妈 (māma), Japanese:ママ (mama), Korean:엄마 (eomma), Vietnamese:má, Bengali:মা (ma), Hindi:मां (mã)|
 |**mamal**|mammal|English:mammal, Spanish:Portuguese:mamífero, French:mammifère, Turkish:memeli, Malay:mamalia|
 |**man**|male|English:man, deu:Mann, Hindi:मानुस (mānus), Bengali:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), Marathi:माणूस (māṇūs), Tamil:மனிதன் (maṉitaṉ) + Mandarin:男 (nán), Japanese:男 (nan)|
@@ -823,6 +818,7 @@
 |**me**|I (me)|English:me, French:Portuguese:Spanish:me, hindi:मैं (mẽ), Swahili:mimi|
 |**mece**|match (contest)|English:French:match, Hindi:मैच (mɛc), Swahili:meci, Polish:mecz, Russian:матч (matč), Turkish:maç|
 |**medal**|medallion (medal)|English:medal, Spanish:medalla, Portuguese:medalha, French:médaille, Russian:меда́ль (medálʹ), Hindi:मेडल (meḍal), Bengali:মেডেল (meḍel), Turkish:madalya, Japanese:メダル (medaru)|
+|**meden**|field (square, plaza, maidan)|Arabic: مَيْدَان‎ (maydān), Persian:(meydan), Hindi:मैदान (maidān), Bengali:ময়দান (moidan), Turkish:meydan, Swahili:medani, Russian:майдан (maydan) + Mandarin:田 (tián), Japanese:田 (den), Korean:전 (jeon), Vietnamese:điền|
 |**medi**|medium (intermediate, mean)|Spanish:medio, English:medium, Hindi:माद्धयम (mādhyam)|
 |**medika**|heal (cure, remedy)|English:medicine, Spanish:medicina, Portuguese:medicamento, French:médicament, Russian:медикамент (medikament)|
 |**medita**|meditate (ponder)|English:meditate, Spanish:meditar, French:méditer, Russian:медитировать (meditirovatʹ)|
@@ -910,6 +906,7 @@
 |**narake**|hell|Hindi:नरक (narak), Bengali:নরক (nôrôk), pan:ਨਰਕ (nark), Marathi:नर्क (nark), Telugu:నరకము (narakamu), Tamil:நரகம் (narakam), Malay:neraka, Thai:นรก (ná-rók), Japanese:奈落 (naraku)|
 |**narde**|backgammon|Persian:Urdu: نرد‎ (nard), Russian:нарды (nardy)|
 |**nasia**|nation|Arabic:(nās), + English:French:nation, deu:Nazion, Portuguese:nação, Spanish:nación, Polish:nacja, Russian:нация (natsiya)|
+|**nau**|boat (ship)|French:navire, Spanish:nave, Portuguese:navio, Persian: ناو‎ (nâv), Hindi:नाव (nāv)|
 |**nautil**|nautilus|English:nautilus, Spanish:nautilo, Portuguese:nautiloide, Russian:наутилид (nautilid), Arabic:نوتي (noti), Hindi:नौटिलस (nautilas), Turkish:notilus|
 |**navi**|nine (9)|Hindi:नौ (nau), Urdu:(nau), Spanish:nueve, Portuguese:nove, French:neuf|
 |**naziste**|Nazi|Russian:нацист (natsist), Japanese:ナチ (nachi), Korean:나치 (nachi), Portuguese:Italian:nazista|
@@ -986,7 +983,6 @@
 |**param**|parameter (argument, input variable)|English:parameter, French:paramètre, Spanish:Portuguese:parametro, Japanese:パラメーター (paramētā), Korean:파라미터 (paramiteo)|
 |**parce**|piece (fragment, shred, morsel, crumb, shard)|Persian:(parče), Turkish:parça, Hindi:पारचा (pārcā), English:part, Portuguese:Spanish:parte|
 |**parde**|curtain|Bengali:পরদা (pôrda), Hindi:पर्दा (pardā), Turkish:perde|
-|**pardon**|sorry (pardon)|French:English:Turkish:ron:Hungarian:pardon, Spanish:perdón, Portuguese:perdão, bul:Russian:пардон (pardon)|
 |**pari**|even (level, peer, equal)|English:peer, French:pair,  Spanish:Portuguese:par, deu:Pere, Hindi:बराबर (barābar), Persian:Urdu: برابر‎ (barâbar)|
 |**parke**|park (garden)|English:deu:Turkish:Polish:park, Spanish:Portuguese:parque, French:parc, Russian:парк (park), Hindi:पार्क (pārk)|
 |**parne**|fern|English:fern, Russian:папоротник (paporotnik), Hindi:फर्न (pharna), Bengali:ফার্ন (phārna)|
@@ -1155,7 +1151,6 @@
 |**sauna***|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
 |**saus**|sauce|English:French:sauce, Russian:соус (sous), Hindi:सॉस (sos), deu:Soße, Vietnamese:xốt, Japanese:ソース (sōsu), Thai:ซอส (soot), Korean:소스 (soseu), Malay:saus|
 |**sava**|know (be aware of)|French:savoir, Spanish:Portuguese:saber, English:savvy|
-|**savan**|savannah|English:savannah, Spanish:sabana, Russian:саванна (savanna), Arabic:سافانا (safana), Swahili:savana, Hindi:सवाना (savaana), Japanese:サバンナ (sabanna)|
 |**sekreter**|secretary|English:secretary, Spanish:secretario, Portuguese:secretário, French:secrétaire, deu:Sekretär, Russian:секретарь (sekretar’), Turkish:sekreter, Persian:سکرتر‎ (sekreter)|
 |**sekse**|sex (sexual relation)|English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)|
 |**sekunde**|second(s)|English:second, Spanish:Portuguese:segundo, Russian:секунда (sekunda), Swahili:sekunde, Hindi:सैकण्ड (saikaṇḍ), Bengali:সেকেন্ড (śekenḍ)|
@@ -1363,7 +1358,7 @@
 |**xarme**|shame (disgrace)|Persian:(šarm),  Urdu:(śarma), Hindi:शर्म (śarma), deu:Scham, English:shame, Russian:срам (sram)|
 |**xarnir**|hinge (pivot)|French:charnière, Spanish:charnela, deu:Scharnier, Russian:шарнир (šarnir)|
 |**xarte**|condition (requirement)|Turkish:şart, Arabic:Persian:(šart), Swahili:sharuti, Hindi:शर्त (śart), Bengali:শর্ত (śôrt)|
-|**xatan**|devil (Satan)|Arabic:(šayṭān), Hindi:शैतान (śaitān), Turkish:şeytan, Persian:(šaytān), Swahili:Shetani, English:French:deu:Vietnamese:Satan, Spanish:Satán, Portuguese:Satã, Russian:Сатана (Satana), Mandarin:撒但 (Sādàn), Thai:ซาตาน (satan), Korean:사탄 (satan), Japanese:サタン (satan), Malay:Setan|
+|**Xatan**|devil (Satan)|heb: שָׂטָן‎ (śaṭan), Arabic:(šayṭān), English:French:deu:Vietnamese:Satan, Spanish:Satán, Portuguese:Satã, Russian:Сатана (Satana), Mandarin:撒但 (Sādàn), Korean:사탄 (satan), Japanese:サタン (satan), Hindi:शैतान (śaitān), Malay:Setan, Turkish:şeytan, Swahili:Shetani|
 |**xati**|hundred (100)|Hindi:शत (śat), Bengali:শত (śôt), Persian:صَد‎ (sad), Russian:сто (sto), Polish:sto|
 |**xatranje**|chess|Hindi:शतरंज (śatrañj), Urdu:(śatrañj), Persian:(šatranj), Turkish:satranç, Arabic:(šaṭranj), Swahili:sataranji, Telugu:చతురంగము (caturaṅgamu), Tamil:சதுரங்கம் (caturaṅkam), Malay:catur, Khmer:ចត្រង្គ (caʾtrɑng), Portuguese:xadrez|
 |**xavi**|little (few, not many)|Mandarin:少 (shǎo), Cantonese:少 (siu2), Japanese:少 (shō), Korean:소 (so)|
@@ -1415,7 +1410,7 @@
 |**zaitun**|olive|Arabic:(zaitūn), Spanish:aceituna, Malay:zaitun, Swahili:zaituni, Hindi:Urdu:(zaitūn)|
 |**zalimi**|mean (cruel)|Arabic:(ẓālim), Turkish:zalim, Urdu:Hindi:(zālim), Persian:(zālem), Swahili:dhalimu|
 |**zaman**|time (period, epoch, era)|Turkish:zaman, Malay:jaman, Swahili:zamani, Arabic:(zaman), Persian:(zamān), + Hindi:समय (samay)|
-|**zar**|hazard (chance)|Arabic:(zahr), + English:hazard, Spanish:Portuguese:azar, + Turkish:zar, Greek:ζάρι (zári), bul:зар (zar)|
+|**zar**|hazard (chance)|Arabic: زَهْر (zahr), Turkish:zar, Persian: زار (zâr) + English:hazard, Spanish:Portuguese:azar|
 |**zayi**|present (current, existing)|Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại|
 |**zebre**|zebra|English:Portuguese:Turkish:zebra, Spanish:cebra, Russian:зебра (zebra), Hindi:ज़ेब्रा (zebrā), Japanese:ゼブラ (zebura)|
 |**zeta***|zetta-|English:French:Spanish:Portuguese:zetta-, Malay:zeta-, Japanese:ゼタ- (zeta-), Korean:제타- (jeta-), Mandarin:泽它- (zétā-)|

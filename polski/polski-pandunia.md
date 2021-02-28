@@ -14,7 +14,7 @@ afrofil - afrikofiler
 afrofilia - afrikofilia  
 Afryka - Afrike  
 afrykański, Afrykanin - Afriki  
-agorafobia - maidanfobia  
+agorafobia - medenfobia  
 agresywny - agresivi  
 aj!, ał! - ai  
 akacja - babul  
@@ -101,6 +101,7 @@ aseksualny - anseksi
 aspiryna - aspirin  
 astat - astatem  
 astma - asme  
+astronauta - astronaver  
 Asyria - Axuria  
 Aszur - Axur  
 atak (agresja, napaść) - agres  
@@ -112,7 +113,7 @@ Austria - Ostria
 autobus, autokar - bus  
 autonomia - autonomia  
 autonomiczny - autonomi  
-awaria (wadliwe działanie) - malfunce  
+awaria (wadliwe działanie) - dusfunce  
 awokado - avakate  
 Azerbejdżan - Azerbaijan  
 Azja - Asia  
@@ -129,8 +130,8 @@ bahaista - bahayiste
 bahaizm - bahayistia  
 Bahamy - Bahama  
 Bahrajn - Bahrain  
-bakburta (lewa burta) - botolefte  
-bakłażan, oberżyna - bedinjan  
+bakburta (lewa burta) - naulefte  
+bakłażan, oberżyna - bedinje  
 balon - balon  
 bambus - banse  
 banan - banan  
@@ -333,7 +334,7 @@ chrześcijanin - krististe
 chrześcijaństwo - krististia  
 chwalić (wychwalać) - halela  
 chór - cantergrupe  
-chłopak - jovani man  
+chłopak - joveni man  
 ciasto, ciastko - keke  
 ciało - bode  
 ciało stałe - gatomate  
@@ -452,9 +453,9 @@ deszcz - barxe
 deszczowy - barxi  
 detal, szczegół - detal  
 dewanagari - deunagri harfe  
-dezaktualizować (pogorszyć) - maldarja  
+dezaktualizować (pogorszyć) - dusdarja  
 diabelski, szatański - xatani  
-diabeł, szatan - xatan  
+diabeł, szatan - Xatan  
 diament - almas  
 dioryt - diorite  
 dmuchać - hava  
@@ -536,7 +537,7 @@ dziennik pokładowy (notatnik) - deftobuke
 dziennikarz - gazeter  
 dziesięć (10) - desi  
 dziesięć tysięcy - deskilo\*  
-dziewczyna - jovani fem  
+dziewczyna - joveni fem  
 dziewięć (9) - navi  
 dzień - den  
 dzień dobry - salam den  
@@ -727,7 +728,7 @@ gra - gem
 gra planszowa - bangem  
 gracki, helleński; Grek - heleni  
 gracz - gemer  
-gradient (gradacja, stopniowanie) - darjomaidan  
+gradient (gradacja, stopniowanie) - darjomeden  
 gram - gram  
 gramatyczny - baxkanuni  
 gramatyka - baxkanun  
@@ -1016,9 +1017,9 @@ kanonier - daipaver
 kantalupa - kantalupomelon  
 Kanton - Guangjou  
 kapelusz, czapka - tupe  
-kaper (korsarz) - botokaper  
+kaper (korsarz) - naukaper  
 kapeć (papeć, bambosz) - babuce  
-kapitan - botoxef  
+kapitan - nauxef  
 kapusta pekińska - bakocoi  
 Karaiby - Karaibia  
 karaoke - karaoke  
@@ -1160,6 +1161,7 @@ koronawirus - koronvirus
 korzeń - mul  
 korzystny (dobry) - evi  
 kosmiczny - kosmi  
+kosmonauta - kosmonaver  
 kosmos, wszechświat - kosmia  
 Kosowo - Kosovo  
 Kostaryka - Kosta Rika  
@@ -1178,7 +1180,7 @@ koło, okrąg - cirke
 koń - gude  
 kościół - eglis  
 kość - oste  
-kość do gry - dade  
+kość do gry - zarkube  
 krab - krabe  
 kradzież - cor  
 kraj, ziemia - dex  
@@ -1368,7 +1370,7 @@ magnez - magesem
 maj - dulmes  
 Majotta - Mayote  
 mak lekarski - sompapil  
-mak polny - maidanpapil  
+mak polny - medenpapil  
 mak wschodni - guipapil  
 makaron - mien  
 Makau - Makau  
@@ -1466,7 +1468,7 @@ mielić - molia
 miesiąc - mes  
 mieszkać - doma  
 mieć (partykuła posiadania) - du  
-mieć (posiadać) - malka  
+mieć (posiadać) - mala  
 mieć (trzymać) - tena  
 mieć sens - razonu  
 migdał - badam  
@@ -1583,10 +1585,10 @@ mądry - sofi
 męczyć się (nużyć się) - fatigu  
 męski - man  
 mężczyzna, dorosły samiec - maturi man  
-młode drzewo - jovani moke  
-młodość - jovania  
-młody - jovani  
-młodzież, młoda osoba - jovan  
+młode drzewo - joveni moke  
+młodość - jovenia  
+młody - joveni  
+młodzież, młoda osoba - joven  
 młot, młotek - hamar  
 młynarz - moler  
 ####N - N  
@@ -1859,7 +1861,7 @@ oszacować, szacować, przybliżyć, przybliżać - yaga
 oszczędzać (deponować) - banka  
 oszukać (oszukiwać - truka  
 otoczyć, otaczać - cirka  
-otwarty (przestrzenny) - maidani  
+otwarty (przestrzenny) - medeni  
 otwarty, niezamknięty - kayi  
 otworzyć (otwierać, odkluczyć, odkluczać) - ansora  
 otworzyć się, otwierać się - kayu  
@@ -2074,7 +2076,7 @@ pokrycie; pokrywa, wieko, dekiel; pokład - dake
 pokój - pace  
 pokój rozmów, chat - blablokan  
 pokój, sala - kamar  
-pole widzenia - vidomaidan  
+pole widzenia - vidomeden  
 pole, powierzchnia - ar  
 polerować (szlifować) - fotofrika  
 policja - polis  
@@ -2262,7 +2264,7 @@ przekroczyć, przekraczać, przejść nad, iść nad - supra
 przekąska - lilyam  
 przekątny - transogoni  
 przepołowić (podzielić przez dwa) - dulo fena  
-przepraszam! - pardon  
+przepraszam! - maf  
 przepękla ogórkowata (balsamka ogórkowata) - alkalmelon  
 przerwać, przerywać - pauza  
 przesilenie - solestas  
@@ -2307,7 +2309,7 @@ przyrostek dla przymiotnika - -i
 przyrostek dla przysłówków - -o  
 przyrostek dla wsperającego ideę - iste  
 przyrostek dla wykonawcy - er  
-przystojny, atrakcyjny, ładny - bonrupi  
+przystojny, atrakcyjny, ładny - bonvidi  
 przyszłość - vil  
 przysłówek - modologe  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tirdar  
@@ -2548,7 +2550,7 @@ satanista - xataniste
 satanizm - xatanistia  
 Saturn - Saturne  
 sauna - sauna\*  
-sawanna - savan  
+sawanna - garmozoni cautopia  
 sałata - letis  
 sałatka - salade  
 scena - sen  
@@ -2614,7 +2616,7 @@ skrzydło - ving
 skrócić, skracać - korta  
 skupienie, koncentracja - fokus  
 skupić, się, skoncentrować się - fokusa  
-skwer, plac - maidan  
+skwer, plac - meden  
 skwierczeć - ziza  
 skóra - pil  
 smacznego - salam yam  
@@ -2691,7 +2693,7 @@ starzec - lau
 statyczny, stacjonarny, nieruchomy - estasi  
 stać - libu  
 stały (sztywny) - gatomati  
-sterburta (prawa burta) - botoraite  
+sterburta (prawa burta) - nauraite  
 sto (100) - xati  
 stojak (wieszak) - libobaze  
 stokrotka - margarite  
@@ -3285,8 +3287,8 @@ Węgry - Magyaria
 węzeł, zupeł - node  
 władać, panować, rządzić jako imperator - impera  
 władca - sultan  
-własność (mienie) - malke  
-właściciel (posiadacz) - malker  
+własność (mienie) - mal  
+właściciel (posiadacz) - malan  
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kex  
@@ -3470,11 +3472,10 @@ złapać, łapać, schwytać, chwytać - kapa
 złocień indyjski - neftoguke  
 złodziej - corer  
 złoto - aur  
-złowieszczy - malsinyi  
+złowieszczy - dussinyi  
 złośliwy, okrutny - zalimi  
 zły (wsciekły, gniewny) - furi  
-zły - mal (mali)  
-zły los - mal zar  
+zły los - dusi zar  
 zły, zrujnowany, zepsuty - harabi  
 ćsi - xuxo  
 ćwiczenie - lenxe  
@@ -3497,7 +3498,7 @@ zły, zrujnowany, zepsuty - harabi
 łuska (blaszka, tarczka) - ostoxalke  
 łyżka - camace  
 łza - okosui  
-łódź, statek - bote  
+łódź, statek - nau  
 łóżko - bede  
 łączyć (złączyć) - darunu  
 łączyć, wiązać, złączyć - linka  
@@ -3541,8 +3542,8 @@ zły, zrujnowany, zepsuty - harabi
 żal, smutek - duke  
 żart - joke  
 żartowniś, dowcipniś - joker  
-żeglarz (marynarz) - boter  
-żeglować (płynąć) - bota  
+żeglarz (marynarz) - naver  
+żeglować (płynąć) - nava  
 żegnaj, dobre odejście - salam cute  
 żel, galareta - jel  
 żelazo - fer  

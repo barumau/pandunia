@@ -13,6 +13,7 @@ abl:a|abla|||eng:able, spa:hábil, fra:habile, ron:abil|can (know, be able)|pouv
 abl:e|able||||ability (skill)|capacité (compétence)|habilidad|||||||||||||povo|taito (kyky)|możliwość, umiejętność
 abl:i|abli||||possible|possible|posible|possível|возможный||可能|ありうる|가능하다||संभव (मुमकिन)||||olası (mümkün)|ebla|mahdollinen|możliwy
 abl:o|ablo||||maybe (perhaps, possibly)|peut-être|posiblemente|||||||||||||eble|ehkä (mahdollisesti)|prawdopodobnie (możliwie)
+abl.an:i|ablani||||able (capable)|||||||||||||||povanta|kykenevä (voiva)|
 acin.em:|acinem|mate|Ac||actinium|actinium|actinio|||||||||||||aktinio|aktinium|aktyn
 acu:|acu*|||spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|achoo|atchoum|achís||||阿嚏|||hắt xì|||||||atsii|apsik
 acu:a|acua||||sneeze|éternuer|estornudar|espirrar|чихать||打喷嚏|||||||||terni|aivastaa|kichać (kichnąć)
@@ -204,6 +205,9 @@ asl.austral:i|aslaustrali||||Australian Aboriginal|aborigènes australiens|abori
 asm:e|asme|||fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|asthma|asthme|asma|asma|астма||气喘||||श्वासरोग||bengek||astım|astmo|astma|astma
 aspirin:|aspirin|||eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin)|aspirin|aspirine|aspirina|aspirina|аспирин||阿司匹林||||||aspirin||aspirin|aspirino|aspiriini|aspiryna
 astat.em:|astatem|mate|As||astatine|astate|ástato||||||||||||||astatiini|astat
+astr.e|astre||fra:astre, por:astro, eng:astro-||celestial body|astre (corps céleste)|cuerpo celeste|astro (corpo celeste)|небесное тело||天体|天体 ||||||||astro|taivaankappale|
+astr.o.nau:|astronau||||starship|astronef|astronave (nave estelar)|astronave|звездолёт||||||||||||tähtialus|
+astr.o.nau.er:|astronaver||||astronaut|astronaute|astronauta|astronauta|астронавт||宇航员||||||||astronot|astronaŭto|astronautti (tähtimatkaaja)|astronauta
 at:e|ate|||por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|act (deed)|acte|acto|ato|действие (акт)|عمل|作为 (行为)|行為|||||tindakan (perbuatan)|kitendo||ago|teko (toimenpide, akti)|
 at.er:|ater|||eng:actor,-ator, fra:-ateur, spa:por:-ador|agent (doer, actor)|agent (faiseur)|agente|agente|деятель||||||||||fail|aganto|tekijä (toimija)|
 at.ion:|ation||||action|action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta|
@@ -342,7 +346,7 @@ bazar:|bazar|||fas:urd: بازار (bāzār), hin:बाज़ार (bāzār),
 bazar.hur.ist:ia|bazarhuristia||||market liberalism||||||||||||||||markkinaliberalismi|liberalizm rynkowy
 beb:e|bebe|||fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|baby (infant)|bébé|bebé|bebê|младенец|رَضِيع|宝宝|赤ちゃん|||शिशु||bayi|mtoto mchanga||bebo|vauva|niemowlę
 bed:e|bede|||eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|bed||cama|||||||||||||lito|vuode (sänky, peti)|łóżko
-bedinjan:|bedinjan|biv|Solanum melongena|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|eggplant (aubergine, brinjal)||berenjena|||||||||||||melongeno|munakoiso|bakłażan, oberżyna
+bedinj:e|bedinje|biu|Solanum melongena|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|eggplant (aubergine, brinjal)|aubergine|berenjena|beringela||||||||||||melongeno|munakoiso|bakłażan, oberżyna
 beg:a|bega|||rus:убегать (ubegat'), hin:भागना (bhāgnā)|escape (flee, run away)||escaparse (evitar, huir)|||||||||||||fuĝi|paeta (karata)|uciec, uciekać
 bei:u|beyu|||zho:被 (bèi)|undergo (passivizing verb)||sufrir (verbo pasivo)||||||||||||||läpikäydä (passiivin muodostava verbi)|być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 Beijing:|Beijing||||Beijing (Peking)||Pekín||||||||||||||Peking (Beijing)|Pekin
@@ -373,6 +377,7 @@ beton:|beton|||fra:béton, por:betão, deu:Beton, rus:бетон (beton), pol:tu
 bibl:i|bibli||||Biblical|||||||||||||||biblia|raamatullinen|
 bibl:ia|biblia||||Bible||Biblia|||||||||||||Biblio|Raamattu|Biblia
 bil:|bil|||eng:bill, hin:बिल (bil), may:bil|bill (invoice)||cuenta (factura)||счёт||帐单||||||bon (bil)||||lasku (faktuura)|rachunek (faktura)
+bilor:|bilor|||ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|crystal|cristal|cristal|cristal|кристалл|||結晶||||||||||kryształ
 bin:|bin||||building (structure)||||||||||||||||rakennus (rakenne)|budynek (struktura)
 bin:a|bina|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|build (construct)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
 bind:e|binde|||hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|dot (spot)||punto (lunar)|||||||||||||punkto|täplä (läiskä)|punkt
@@ -415,23 +420,16 @@ bon:i zar:|boni zar||||good luck||buena suerte||||||||||||||hyvä onni (tuuri, s
 bon.darj:a|bondarja||||upgrade (level up)||mejorar||||||||||||||nostaa tasoa|aktualizować (zaktualizować, ulepszać, ulepszyć)
 bon.darm:e|bondarme||||virtue (morals)||virtud (moralidad)||||道德||||||||||hyve|cnota (moralność)
 bon.darm:i|bondarmi||||virtuous||virtuoso (moral)||||||||||||||hyveellinen (hyvä)|cnotliwy (prawy)
-bon.rup:i|bonrupi|||zho:好看 (hǎokàn), eng:good-looking|good-looking||guapo (bien parecido)||||好看|||||||||bonaspekta|hyvännäköinen|przystojny, atrakcyjny, ładny
 bon.sif:i|bonsifi||||excellent||excelente||||||||||||||laadukas (hyvä)|wspaniały
 bon.sif:ia|bonsifia||||excellence (quality, virtue)||calidad (excelencia, mérito, virtud, ventaja)|||||||||||||eco|laatu (laadukkuus, erinomaisuus, hyvyys)|cecha, atrybut, własność; -ość
 bon.sini:i|bonsinyi||||auspicious (promising)||auspicioso||благоприятный||吉利的||||||||||hyvää lupaava|obiecujący (dobrze wróżący)
+bon.vid:i|bonvidi||||beautiful (handsome, good-looking)||guapo (bien parecido)||||好看|||||||||bonaspekta|hyvännäköinen (kaunis, komea)|przystojny, atrakcyjny, ładny
 bor:i|bori|||eng:bored, spa:aburrido, hin:(bhorī)|bored||aburrido|||||||||||||enui|pitkästynyt|znudzony
 bor:ia|boria||27 emotions||boredom||aburrimiento||||||||बोरियत|||||enuo|tylsyys (pitkästys)|nuda (znudzenie)
 bor.em:|borem|mate|Bh||bohrium||bohrio|||||||||||||borio|bohrium|bohr
 boron:|boron|mate|B||boron||boro|||||||||||||boro|boori|bor
 Bosn:ia e Hercegouina:|Bosnia e Hercegovina|dex|BA||Bosnia and Herzegovina||Bosnia y Herzegovina||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
-bot:a|bota||||sail||navegar (ir en bote)|||||||||||||boatumi|veneillä|żeglować (płynąć)
-bot:e|bote|||spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|boat (ship)|bateau|barco (bote)|barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||boato (ŝipo)|vene (laiva)|łódź, statek
-bot.el:|botel|||eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|bottle|bouteille|botella|garrafa (botelha)|бутылка||瓶|瓶|병|chai|शीशी (बोतल)|বোতল|botol|chupa|şişe|botelo|pullo|butelka
-bot.er:|boter||||sailer||velero||||||||||||||veneilijä|żeglarz (marynarz)
-bot.o.kap.er:|botokaper||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (korsarz)
-bot.o.left:e|botolefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
-bot.o.rait:e|botoraite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
-bot.o.xef:|botoxef||||captain||capitán||||||||||||||kapteeni|kapitan
+botel:|botel|||eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|bottle|bouteille|botella|garrafa (botelha)|бутылка||瓶|瓶|병|chai|शीशी (बोतल)|বোতল|botol|chupa|şişe|botelo|pullo|butelka
 brau:i|bravi|||eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|brave (gallant, valiant)|brave||bravo (valente, corajoso)||||||||||||brava|rohkea (urhea, uljas)|Odwarzny (
 brau:o|bravo||||bravo!|bravo!|bravo!|bravo!|браво||||||शाबाश|||||brave!|bravo!|brawo (gratulacje)
 brauz:a|brauza||||explore (browse)||explorar||исследовать|||探る, 探検する|||||||||selata|poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)
@@ -576,7 +574,6 @@ d:a|da||||of (attributive preposition)||de (posposición de posesión)||||||||||
 d:e|de||||that (this)||eso (esto)|||||||||||||tio|tämä (tuo, se)|
 d:i|di|||[di] eng:the, deu:die + [da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de)|the (this, that, these, those)|le|el (esto, eso)|||||||||||||la (tiu)|tämä (tuo, se)|ten (te)
 d:u|du|prep.|||'s (attributive postposition)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
-dad:e|dade|||spa:por:tgl:dado, may:swa:dadu|die (dice)||dado|dado|||||||||dadu|dadu||ĵetkubo|noppa (arpakuutio)|kość do gry
 dai:i|dayi|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
 dai:ia|dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
 dai:u|dayu||||grow (get bigger)||crecer (aumentar)||||||||||||||kasvaa (suurentua)|urosnąć, rosnąć, wzrosnąć, wzrastać
@@ -624,7 +621,7 @@ dar.un:u|darunu||||merge (fuse)||fusionar (fundir)||||||||||||||sulaa yhteen (fu
 darb:a|darba|||ara:ضرب‎ (ḍaraba), fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|strike (punch)||golpear (pegar)|||||||||||||bati|lyödä (iskeä)|bić, uderzyć, uderzać
 darj:e|darje|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|step (degree, rank, grade, level, class)||paso (grado, nivel, rango, calidad, categoría)||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
 darj:i|darji||||gradual||||||||||||||||asteittainen (porrastettu)|stopniowy
-darj.o.maidan:|darjomaidan||||gradient (gradation, incline)|||||||||||||||||gradient (gradacja, stopniowanie)
+darj.o.meden:|darjomeden||||gradient (gradation, incline)|||||||||||||||||gradient (gradacja, stopniowanie)
 darj.o.mut:e|darjomute||||development|développement|desarrollo|desenvolvimento|развитие||发展 (开发)|発展 (開発)|발전 (개발)|sự phát triển|विकास|||||disvolvi|kehitys|rozwój
 darm:e|darme|||hin:धर्म (dharm), urd:(dharm), ben:ধর্ম (dhôrmô), guj:ધર્મ (dharma), tel:ధర్మము (dharmamu), tam:தருமம் (tarumam), tha:ธรรม (tam), mya:ဓမ္မ (dhamma), may:derma, zho:達摩 (dámó), kor:달마 (dalma), eng:deu:fra:spa:dharma, por:darma, rus:дхарма (dharma)|morality (ethics)||moralidad (ética)||||||||||||||moraali|moralność, etyka
 darm:i|darmi||||moral||moral (ético)||||||||||||||moraalinen|moralny
@@ -772,12 +769,18 @@ dur.abl:i|durabli||||durable (endurable, sustainable)||durable||долговеч
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
 dus:i|dusi|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)||malo (difícil, duro)||||难|難しい||khó (khốn nạn)|दुश्वार||||||paha (epäsuotuisa, epämiellyttävä, vastustava)|
+dus:i zar:|dusi zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
+dus.darj:a|dusdarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
 dus.deu.ist:ia|dusdevistia||||dystheism (maltheism)||||||||||||||||dysteismi (usko jumalan pahuuteen)|
+dus.form:a|dusforma||||disfigure|défigurer|desfigurar|desfigurar|уродовать||变丑|醜くする|||||||||turmella ulkomuoto|
+dus.form:i|dusformi||||malformed (deformed, disfigured)||||||||||||||||epämuodostunut|
+dus.func:e|dusfunce||||dysfunction (malfunction)||falla (mal funcionamiento)||||||||||||||toimintahäiriö|awaria (wadliwe działanie)
 dus.hal:|dushal||||hardship (difficulty, challenge)||dificultad (apuro, privación)||||||||||||||vaikeus (hankaluus)|trudność (trud)
 dus.jan:|dusjan||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
 dus.kar:|duskar||||misdeed (sin, vice)|méfait (péché)|pecado|malfeitoria (pecado)||||悪事|||||||||synti (paha teko)|
 dus.nam:|dusnam||||insult (offense)||insulto (ofensa)||||||||||||||loukkaus (herja)|obraza (obelga)
 dus.nam.an:a|dusnamana||||insult (offend, call names)||insultar (ofender)||||||||||||||solvata (loukata)|obrazić
+dus.sini:i|dussinyi||||ominous (foreboding)||ominoso (amenazador)||зловещий||不祥的|不吉 (縁起の悪い)||||||||||złowieszczy
 dus.top:ia|dustopia||||dystopia||||||||||||||||dystopia|
 dus.vid:i|dusvidi||||ugly (unsightly)|laid (vilain)|feo|feio|безобразный (некрасивый)|قَبِيح|难看|見苦しい|추악하다|xấu xí|बदसूरत|বিশ্রী|hodoh||çirkin|malbonaspekta|ruma (pahannäköinen)|brzydki
 dut:e|dute|||fra:doute, eng:doubt, spa:tgl:duda|doubt (disbelief)||duda|||||||||||||dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
@@ -1085,6 +1088,7 @@ garm.o.mosim:|garmomosim|mosim|||summer|été|verano|verão|лето||夏季|夏
 garm.o.mosim.med:i den:|garmomosimmedi den||||Midsummer Day||Midsommar||||||||||||||juhannus (keskikesä, mittumaari)|przesilenie letnie (dzień srodka lata)
 garm.o.zon:|garmozon||||tropics|tropique|trópico|trópicos|тропик||热带|熱帯|||||||||tropiikki|tropiki
 garm.o.zon:i|garmozoni||||tropical||||||||||||||||trooppinen|tropikalny
+garm.o.zon:i cau.top:ia|garmozoni cautopia||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 gas:|gas|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|gas|gaz|gas|gás|газ||||||गैस||gas||gaz|gaso|kaasu|gaz
 gas:a|gasa||||gasify (vaporize)||gasificar||||||||||||||kaasuttaa|zamieniać w gaz
 gas:i|gasi||||gaseous||gaseoso||||||||||||||kaasumainen|gazowy
@@ -1217,8 +1221,7 @@ hai:|hai|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), 
 hai:i|hayi||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
 hai.alg:e|hayalge|biv|||seaweed (macroalgae)|algues|macroalga|macroalga|морские водоросли||海藻|海藻|||||rumpai laut|||||wodorosty
 hai.amir.er:|hayamirer||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
-hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morska
-hai.ful:|haiful|biv|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
+hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morhai.ful:|haiful|biv|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
 hai.gun:|haigun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.hiar:|haihiar|biv|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
 hai.jel:|haijel|biv|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||meduza
@@ -1543,12 +1546,12 @@ jiu:i|jivi||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живо�
 jok:e|joke|||eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|joke||broma (chiste)||||||||||||||vitsi|żart
 jok.er:|joker||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
 jong:|jong|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
-jouan:|jovan||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
-jouan:i|jovani|||hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane|young||joven|||||||||||||juna|nuori|młody
-jouan:i fem:|jovani fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
-jouan:i man:|jovani man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
-jouan:i mok:e|jovani moke||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
-jouan:ia|jovania||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
+jouen:|joven||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
+jouen:i|joveni|||hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|young (juvenile)|jeune (juvénile)|joven|jovem|юный||||젊다||जवान|||||juna|nuori|młody
+jouen:i fem:|joveni fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
+jouen:i man:|joveni man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
+jouen:i mok:e|joveni moke||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
+jouen:ia|jovenia||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
 jud:a|juda||||judge||juzgar (considerar)||||||||||||||tuomita|sądzić (osądzić)
 jud:e|jude||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
 jud:i|judi||||judicial||||||||||||||||oikeudellinen|
@@ -1861,6 +1864,8 @@ kos:|kos|||rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho
 kosm:i|kosmi||||cosmic|cosmique|cósmico|cósmico|космический||宇宙的||||लौकिक||kosmik||evrenle ilgili||kosminen|kosmiczny
 kosm:ia|kosmia|||rus:космос (kosmos), eng:fra:spa:cosmos|space (cosmos, universe)|cosmos|cosmos|cosmo|космос||宇宙||||ब्रह्मांड||alam semesta||evren||avaruus (kosmos)|kosmos, wszechświat
 kosm.o.biu.loj:ia|kosmobiulojia||||astrobiology|astrobiologie|astrobiologia|astrobiologia|астробиология||太空生物学||||||||||astrobiologia|
+kosm.o.nau:|kosmonau||||spaceship|vaisseau spatial|nave espacial|nave espacial|космический корабль|سَفِينَة فَضَائِيَّة‎|太空船|宇宙船|우주선||अंतरिक्ष यान|মহাকাশযান|pesawat luar angkasa||uzay gemisi||avaruusalus|
+kosm.o.nau.er:|kosmonaver||||cosmonaut|cosmonaute|cosmonauta|cosmonauta|космонавт||太空人||||अंतरिक्ष यात्री||||kozmonot|kosmonaŭto|avaruusmatkaaja (kosmonautti)|kosmonauta
 Kosouo:|Kosovo|dex|KV||Kosovo||Kosovo||||||||||||||Kosovo|Kosowo
 kost:a|kosta|||eng:cost, spa:costar, por:custar, fra:coûter, deu:kosten|cost||costar||||||||||||||maksaa (olla hintana)|kosztować
 kost:e|koste||||cost (price)||precio (coste)||||||||||||||hinta (maksu)|koszt, cena
@@ -1884,7 +1889,6 @@ krist:i|kristi||||messianic||mesiánico||||||||||||||messiaaninen|mesjański
 krist.ist:e|krististe||||Christian||cristiano||||||||||||||kristitty|chrześcijanin
 krist.ist:ia|krististia||||Christianity||cristianismo||||||||||||||kristinusko|chrześcijaństwo
 krist.o.jen:|kristojen|||ell:Χριστούγεννα (Christoúgenna)|Christmas||Navidad|||||||||||||kristnasko|joulu|Boże Narodzenie
-bilor:|bilor|||ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|crystal|cristal|cristal|cristal|кристалл|||結晶||||||||||kryształ
 krit:a|krita|||eng:cry, spa:por:gritar, fra:crier, rus:крича́ть (kričátʹ)|cry (shout)||gritar||||||||||||||huutaa|krzyknąć, krzyczeć
 kriton:|kriton|mate|Kr||krypton||criptón (kriptón)|||||||||||||kriptono|kryptoni|krypton
 kriz:e|krize|||eng:crisis, fra:por:crise, deu:Krise, rus:кризис (krizis), spa:crisis|crisis||crisis|||||||||||||krizo|kriisi (käännekohta)|kryzys
@@ -2100,6 +2104,8 @@ M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 m:e|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
 m.o.m:e|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
+maf:|maf||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, tur:af, hau:yafe||pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
+maf:a|mafa||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||||||माफ करना||memaafkan|kusamehe|affetmek|pardoni|antaa anteeksi|
 mafan:|mafan||||trouble (disturbance, bother)||problema (disturio)||||||||||||||vaiva (haitta)|problem, kłopot, zakłócenie
 mafan:a|mafana|||zho:麻煩 (máfan), yue:麻煩 (maa4 faan4), wuu:麻煩 (mo ve3)|bother||molestar (preocupar)||утруждать||||||||||||vaivata|przeszkodzić, przeszkadzać, robić kłopot
 mafan:u|mafanu||||be bothered by (bother to, take the trouble to)||molestar en||утруждай|||悩む (わざわざする)||||||||||przejmować się (zawracać sobie głowę)
@@ -2113,10 +2119,6 @@ maget:i|mageti||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 Magiar:ia|Magyaria|dex|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 Magrib:ia|Magribia|dex|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
 maian:|mayan||||Maya||maya|||||||||||||majao|maya (mayaintiaani)|Maya
-maidan:|maidan|||ara:(maydān), fas:(meydan), hin:मैदान (maidān), tur:meydan, swa:medani, rus:майдан (maydan)|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)||广场|広場|광장|quảng trường||||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
-maidan:i|maidani||||open (wide, spacious)||abierto (extenso)||||||||||||||avara (aava)|otwarty (przestrzenny)
-maidan.fob:ia|maidanfobia||||agoraphobia||agorafobia||||||||||||||agorafobia (avoimen paikan kammo)|agorafobia
-maidan.papil:|maidanpapil|biv|Papaver rhoeas||corn poppy|coquelicot|amapola silvestre|papoila|мак самосейка||虞美人 (雛罌粟)|ヒナゲシ||||||||||mak polny
 Maiot:e|Mayote|dex|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 mais:|mais|||eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|corn (maize)||maíz||||||||||||||maissi|kukurydza
 maitner.em:|maitnerem|mate|Mt||meitnerium||meitnerio|||||||||||||mejtnerio|meitnerium|meitner
@@ -2127,11 +2129,9 @@ makan:|makan|||hin:मक्खन (makkhan), ben:মাখন (makhôn), pan:�
 makan.ful:|makanful|biv|Taraxacum officinale||dandelion|dandélion|dientes de león (panaderos)|dente-de-leão (taráxaco)|одуванчик||蒲公英|タンポポ||||||||||mlecz
 makas:|makas|||ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí|scissors (shears)||tijera|||||||||||||tondilo|sakset|nożyce, nożyczki
 Makau:|Makau|dex|MO||Macao||Macao||||||||||||||Macao|Makau
-mal: (mal:i)|mal (mali)|||eng:mal-, spa:fra:mal, por:mau, rus:моль (mol’)|bad||malo|||||悪い||||||||malbona|huono|zły
-mal: zar:|mal zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
-mal.darj:a|maldarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
-mal.func:e|malfunce||||malfunction||falla (mal funcionamiento)||||||||||||||toimintahäiriö|awaria (wadliwe działanie)
-mal.sini:i|malsinyi||||ominous (foreboding)||ominoso (amenazador)||зловещий||不祥的|不吉 (縁起の悪い)||||||||||złowieszczy
+mal:|mal|||ara:fas:urd: مَال‎ (māl), hin:माल (māl), tur:mal, swa:mali, may:milik|property (belongings, possessions)|propriété (possession, bien)|propiedad|||مَال‎|||||माल (संपत्ति)||||||omaisuus|własność (mienie)
+mal:a|mala||||own||poseer (ser dueño de)||||||||||||||omistaa|mieć (posiadać)
+mal.an:|malan||||owner (proprietor)|possédant (propriétaire)|dueño|||||||||||||havanto|omistaja|właściciel (posiadacz)
 malagas:i|malagasi||||Malagasy||malgache||||||||||||||malagassi|madagaskarski; malagaski
 Malagas:ia|Malagasia|dex|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 malai:i|malayi||||Malay||malayo||||||||||||||malaiji|malajski
@@ -2141,9 +2141,6 @@ malar:ia|malaria|||eng:spa:fra:swa:may:malaria, por:malária, rus:малярия
 Malaui:|Malavi|dex|MW||Malawi||Malaui||||||||||||||Malawi|Malawi
 Mali:|Mali|dex|ML||Mali||Mali|||||||||||||Malio|Mali|Mali
 malik:e|malike|||kan:(mallige), tam:(mallikai), tel:(malla), may:melati,  kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì)|jasmine||jazmín|||||||||||||jasmeno|jasmiini|jaśmin
-malk:a|malka||||own||poseer (ser dueño de)||||||||||||||omistaa|mieć (posiadać)
-malk:e|malke|||ara:(mulk), tur:mal, swa:mali,miliki, may:milik, fas:melk, + pas:urd:(mālik), pnb:ਮਾਲਕ (mālik)|property (belongings, possessions)|propriété (possession, bien)|propiedad||||||||||||||omaisuus|własność (mienie)
-malk.er:|malker||||owner (proprietor)|possédant (propriétaire)|dueño|||||||||||||havanto|omistaja|właściciel (posiadacz)
 Malta:|Malta|dex|MT||Malta||Malta||||||||||||||Malta|Malta
 Maluinas: nes:ia|Malvinas nesia|dex|FK||Falkland Islands (Malvinas)||Islas Malvinas||||||||||||||Falklandin saaret|Falklandy, Malwiny
 mam:|mam|||spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
@@ -2225,6 +2222,10 @@ med:ia|media||||medium (media)||medio||||||||||||||media|media
 med:u|medu||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
 med.o.fas:|medofas||||interface|||||||||||||||||interfejs
 medal:|medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|medallion (medal)||medallón||||||||||||||mitali|medalion, medal
+meden:|meden|||ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)|مَيْدَان‎|广场|広場|광장|quảng trường|मैदान|ময়দান||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
+meden:i|medeni||||open (wide, spacious)||abierto (extenso)||||||||||||||avara (aava, aukea)|otwarty (przestrzenny)
+meden.fob:ia|medenfobia||||agoraphobia||agorafobia||||||||||||||agorafobia (avaran paikan kammo)|agorafobia
+meden.papil:|medenpapil|biv|Papaver rhoeas||corn poppy|coquelicot|amapola silvestre|papoila|мак самосейка||虞美人 (雛罌粟)|ヒナゲシ||||||||||mak polny
 medik:a|medika|||eng:medicine, spa:medicina, por:medicamento, fra:médicament, rus:медикамент (medikament)|heal (cure, remedy)||curar (sanar)||лечить|||||||||||sanigi (kuraci)|hoitaa (lääkitä)|uleczyć, leczyć, uzdrowić, uzdrawiać
 medik:ia|medikia||||medicine (field of study)||medicina||||||||||||||lääketiede|medycyna
 medik.er:|mediker||||doctor (medic, physician, healer)||doctor (médico)||врач (медик, лекарь, доктор)|||医者||||||||kuracisto|lääkäri (tohtori)|doktor, lekarz, uzdrowiciel
@@ -2433,8 +2434,15 @@ nas.ist:ia|nasistia||||nationalism||nacionalismo||||||||||||||kansallisuusaate (
 nas.med:i|nasmedi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
 natr:e|natre||||natron||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||
 natr.em:|natrem|mate|Na||sodium||sodio||натрий|||||||||||natrio|natrium|sód
+nau:|nau|||fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|boat (ship)|bateau|barco (bote)|barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||boato (ŝipo)|vene (laiva)|łódź, statek
+nau:a|nava||||sail||navegar (ir en bote)|||||||||||||boatumi|veneillä|żeglować (płynąć)
 nau:i|navi|||hin:नौ (nau), urd:(nau), spa:nueve, por:nove, fra:neuf|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||||||||yhdeksän|dziewięć (9)
+nau.er:|naver||||sailer||velero||||||||||||||veneilijä|żeglarz (marynarz)
+nau.kap.er:|naukaper||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (korsarz)
+nau.left:e|naulefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
 nau.mes:|naumes|mes|||September||septiembre|||||９月|||||||||syyskuu|grudzień
+nau.rait:e|nauraite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
+nau.xef:|nauxef||||captain||capitán||||||||||||||kapteeni|kapitan
 nauat:i|navati||||Nahuatl (Nahua)||náhuatl (nahua)|||||||||||||naūatla|nahuatli|nahuatl
 Nauru:|Nauru|dex|NR||Nauru||Naúru||||||||||||||Nauru|Nauru
 nautil:|nautil|biv||eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|nautilus|nautile|nautilo|nautiloide|наутилид||鹦鹉螺|オウムガイ|||नौटिलस|||||||nautilus
@@ -2666,7 +2674,6 @@ parc:i|parci||||broken (shattered)||roto||||||||||||||rikki (palasina)|stłuczon
 parc.o.kai:u|parcokayu||||burst (pop)||reventar||||爆裂|弾ける||||||||||pękać (rozrywać się)
 parc.o.tal:u|parcotalu||||collapse|||||||||||||||||zapaść się (zapadać się, runąć)
 pard:e|parde|||ben:পরদা (pôrda), hin:पर्दा (pardā), tur:perde|curtain||cortina||||||||पर्दा|পরদা|||perde|kurteno|verhot|zasłona, kurtyna
-pardon:|pardon|||fra:eng:tur:ron:hun:pardon, spa:perdón, por:perdão, bul:rus:пардон (pardon)|sorry (pardon)||perdón|||||ごめんなさい|||||||||anteeksi|przepraszam!
 Paris:|Paris|xefsite|FR||Paris|Paris|||||||||||||||Pariisi|Paryż
 park:e|parke|||eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|park (garden)|parc|parque|parque|парк||园||||पार्क|||||parko (ĝardeno)|tarha (puisto)|park (ogród)
 parn:e|parne|||eng:fern, rus:папоротник (paporotnik), hin:फर्न (pharna), ben:ফার্ন (phārna)|fern|fougères|helecho|samambaia|папоротник||蕨|羊歯|||फर्न||paku pakis|mkangaga||||paproć
@@ -3124,7 +3131,6 @@ sau:|sau||||knowledge||sabiduría (conocimiento)|||||||||||||scio|tieto (tietäm
 sau:a|sava|||fra:savoir, spa:por:saber, eng:savvy|know (be aware of)|savoir (connaître)|saber (conocer)|saber (conhecer)|знать||知道 (晓得)|知る|알다|biết|जानना|জানা (চেনা)|tahu|kujua|bilmek|scii (koni)|tietää (tuntea)|wiedzieć
 sau:i|savi||||known||conocido||||||||||||||tietty (tunnettu)|wiadomy, znany
 sau.loj:ia|saulojia||||epistemology||epistemología|||||||||||||sciteorio (epistemologio)|tietoteoria (epistemologia)|epistemologia
-sauan:|savan|||eng:savannah, spa:sabana, rus:саванна (savanna), ara:سافانا (safana), swa:savana, hin:सवाना (savaana), jpn:サバンナ (sabanna)|savannah|savane|sabana|||||サバンナ||||||||||sawanna
 Saud:i Arab:ia|Saudi Arabia|dex|SA||Saudi Arabia||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska
 saudar:|saudar|||may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|sibling (brother or sister)||hermano o hermana|||||||||||||frato aŭ fratino|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 sauna:|sauna*|||fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|sauna||sauna|||||||||||||saŭno|sauna|sauna
@@ -3560,7 +3566,7 @@ uid:a|vida|||rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć,
 uid:e|vide||||view (vision)||vista (visión)||||||||||||||näkymä|widok, wzrok
 uid:u|vidu||||be seen||ser visto||||||||||||||näkyä|być widzianym
 uid.er:|vider||||spectator (sightseer)||espectador||зрительница|||見物人||||||||||obserwator (widz)
-uid.o.maidan:|vidomaidan||||visual field (field of vision)||campo de visión||||||||||||||näkökenttä|pole widzenia
+uid.o.meden:|vidomeden||||visual field (field of vision)||campo de visión||||||||||||||näkökenttä|pole widzenia
 uid.o.punt:e|vidopunte||||perspective (point of view)||perspectiva (punto de vista)||перспектива (точки зрения)|||遠近法 (見通し, 観点)||||||||||perspektywa (punkt widzenia)
 uidou:|vidou|||eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|widow|veuve|viudo|viúvo|вдова|أرملة‎|寡妇|寡婦|홀어미 (과부)|quả phụ|विधवा|বিধবা|janda (balu)|mjane|dul|vidvo|leski|wdowa
 uiet:i|vieti||||Vietnamese (Viet)||vietnamita||||||||||||||vietnamilainen|wietnamski
@@ -3667,9 +3673,11 @@ xarm:e|xarme|||fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham
 xarnir:|xarnir|||fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|hinge (pivot)||bisagra (gozne)|||||||||||||ĉarniro (pivoto)|sarana|zawias, oś
 xart:a|xarta||||stipulate||espicificar (estipular)||||||||||||||vaatia (edellyttää)|wymagać, przewidywać
 xart:e|xarte|||tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|condition (requirement)||condición (requisito, estipulación)|||||||||||||kondiĉo (postulo)|vaatimus (edellytys)|warunek
-xat:i|xati|||hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|hundred (100)||cien (100)||сто|||百 (１００)||||||||cent|sata (100)|sto (100)
-xatan:|xatan|||ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|devil (Satan)|Satan|Satanás|Satanás|Сатана||撒但|悪魔|||शैतान||iblis (syaitan)|shetani|şeytan|diablo (Satano)|paholainen (saatana, piru)|diabeł, szatan
-xatan:i|xatani||||devilish (satanic)||satánico||||||||||||||pirullinen|diabelski, szatański
+xat:a|xata||||oppose (antagonize, object, resist)|s'opposer à|oponer|opor|противостоять||||||||||||vastustaa|
+xat:an|xatan||||adversary (antagonist, opponent)|adversaire (antagoniste, ennemi)|adversario|adversário|противник||敌手|敵 (相手)||||প্রতিপক্ষ|||rakip||vastustaja (vihollinen)|
+Xat:an|Xatan|||heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|devil (Satan)|Satan|Satanás|Satanás|Сатана||撒但|悪魔|||शैतान||iblis (syaitan)|shetani|şeytan|diablo (Satano)|saatana (sielunvihollinen)|diabeł, szatan
+xat:i|xati|||hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|hundred (100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|सौ|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (100)|sto (100)
+xat.an:i|xatani||||devilish (satanic)||satánico||||||||||||||pirullinen|diabelski, szatański
 xatan.ist:e|xataniste||||Satanist||satanista||||||||||||||satanisti|satanista
 xatan.ist:ia|xatanistia||||Satanism (devil worship)||satanismo||||||||||||||satanismi (paholaisenpalvonta)|satanizm
 xatranj:e|xatranje|||hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|chess||ajedrez||||||||शतरंज||catur|sataranji||ŝako|šakki|szachy
@@ -3759,8 +3767,9 @@ zaman:|zaman|||tur:zaman, may:jaman, swa:zamani, ara:(zaman), fas:(zamān), + hi
 zaman.don:a|zamandona||||dedicate (devote)||dedicar|||||||||||||||dedykować (poświęcać, poświęcić)
 zaman.don:ia|zamandonia||||dedication (devotion)|||||||||||||||||dedykacja (poświęcenie)
 Zamb:ia|Zambia|dex|ZM||Zambia||Zambia||Замбия|||||||||||Zambio|Sambia|Zambia
-zar:|zar|||ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
+zar:|zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
 zar:i|zari||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
+zar.kub:e|zarkube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
 Zardux:|Zardux||||Zoroaster|Zoroastre|Zoroastro||Зороастр|||||||||||Zoroastro|Zarathustra|Zaratusztra
 zardux.ist:e|zarduxiste||||Zoroastrian|zoroastrien|zoroastriano||зороастризм|||||||||||zoroastristo|zarathustralainen|zaratrustianin
 zardux.ist:ia|zarduxistia||||Zoroastrianism|zoroastrisme|zoroastrismo|||||||||||||zoroastrismo|zarathustralaisuus|zaratusztrianizm
@@ -3795,4 +3804,3 @@ zuk.o.med:i|zukomedi||||interethnic||interétnica||межэтнический|||
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 Zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:e|zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-

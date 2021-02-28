@@ -180,6 +180,7 @@ aslaustrali - aborygeński
 asme - astma  
 aspirin - aspiryna  
 astatem - astat  
+astronaver - astronauta  
 ativa - aktywować (włączyć, uruchomić)  
 ativi - aktywny (włączony, uruchomiony)  
 ata\* - jabłko cukrowe  
@@ -310,7 +311,7 @@ bazar - rynek, bazar
 bazarhuristia - liberalizm rynkowy  
 bebe - niemowlę  
 bede - łóżko  
-bedinjan - bakłażan, oberżyna  
+bedinje - bakłażan, oberżyna  
 bega - uciec, uciekać  
 beyu - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 Beijing - Pekin  
@@ -339,6 +340,7 @@ bete - burak
 beton - beton  
 biblia - Biblia  
 bil - rachunek (faktura)  
+bilor - kryształ  
 bin - budynek (struktura)  
 bina - zbudować, budować, konstruować  
 binde - punkt  
@@ -379,23 +381,16 @@ boni zar - dobry los, szczęście
 bondarja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 bondarme - cnota (moralność)  
 bondarmi - cnotliwy (prawy)  
-bonrupi - przystojny, atrakcyjny, ładny  
 bonsifi - wspaniały  
 bonsifia - cecha, atrybut, własność; -ość  
 bonsinyi - obiecujący (dobrze wróżący)  
+bonvidi - przystojny, atrakcyjny, ładny  
 bori - znudzony  
 boria - nuda (znudzenie)  
 borem - bohr  
 boron - bor  
 Bosnia e Hercegovina - Bośnia i Harcegowina  
-bota - żeglować (płynąć)  
-bote - łódź, statek  
 botel - butelka  
-boter - żeglarz (marynarz)  
-botokaper - kaper (korsarz)  
-botolefte - bakburta (lewa burta)  
-botoraite - sterburta (prawa burta)  
-botoxef - kapitan  
 bravi - Odwarzny (  
 bravo - brawo (gratulacje)  
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
@@ -537,7 +532,6 @@ cuzable - opcja (wybór)
 ####D - D  
 da - z (partykuła posiadania)  
 du - mieć (partykuła posiadania)  
-dade - kość do gry  
 dayi - duży  
 dayia - rozmiar  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
@@ -579,7 +573,7 @@ darunu - łączyć (złączyć)
 darba - bić, uderzyć, uderzać  
 darje - stopień, poziom, ranga, klasa  
 darji - stopniowy  
-darjomaidan - gradient (gradacja, stopniowanie)  
+darjomeden - gradient (gradacja, stopniowanie)  
 darjomute - rozwój  
 darme - moralność, etyka  
 darmi - moralny  
@@ -719,9 +713,13 @@ duru - trwać, zająć czas; przez
 durabli - trwały (wytrzymały, podtrzymywalny)  
 duriki - chroniczny  
 durmetrer - stoper (sekundomierz)  
+dusi zar - zły los  
+dusdarja - dezaktualizować (pogorszyć)  
+dusfunce - awaria (wadliwe działanie)  
 dushal - trudność (trud)  
 dusnam - obraza (obelga)  
 dusnamana - obrazić  
+dussinyi - złowieszczy  
 dusvidi - brzydki  
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 dutabli - wątpliwy (niewiarygodny, podejrzany)  
@@ -1001,6 +999,7 @@ garmomosim - lato
 garmomosimmedi den - przesilenie letnie (dzień srodka lata)  
 garmozon - tropiki  
 garmozoni - tropikalny  
+garmozoni cautopia - sawanna  
 gas - gaz  
 gasa - zamieniać w gaz  
 gasi - gazowy  
@@ -1423,12 +1422,12 @@ jivi - żyć (żywy, żyjący)
 joke - żart  
 joker - żartowniś, dowcipniś  
 jong - gatunek  
-jovan - młodzież, młoda osoba  
-jovani - młody  
-jovani fem - dziewczyna  
-jovani man - chłopak  
-jovani moke - młode drzewo  
-jovania - młodość  
+joven - młodzież, młoda osoba  
+joveni - młody  
+joveni fem - dziewczyna  
+joveni man - chłopak  
+joveni moke - młode drzewo  
+jovenia - młodość  
 juda - sądzić (osądzić)  
 jude - wyrok  
 juder - sędzia  
@@ -1714,6 +1713,7 @@ kortokrokodil - aligator
 kos - kaszel; kaszlnięcie  
 kosmi - kosmiczny  
 kosmia - kosmos, wszechświat  
+kosmonaver - kosmonauta  
 Kosovo - Kosowo  
 kosta - kosztować  
 koste - koszt, cena  
@@ -1737,7 +1737,6 @@ kristi - mesjański
 krististe - chrześcijanin  
 krististia - chrześcijaństwo  
 kristojen - Boże Narodzenie  
-bilor - kryształ  
 krita - krzyknąć, krzyczeć  
 kriton - krypton  
 krize - kryzys  
@@ -1944,6 +1943,7 @@ lutetem - lutet
 me - ja, mnie  
 mi - mój  
 mome - my  
+maf - przepraszam!  
 mafan - problem, kłopot, zakłócenie  
 mafana - przeszkodzić, przeszkadzać, robić kłopot  
 mafanu - przejmować się (zawracać sobie głowę)  
@@ -1957,10 +1957,6 @@ mageti - magnetyczny
 Magyaria - Węgry  
 Magribia - Maroko  
 mayan - Maya  
-maidan - skwer, plac  
-maidani - otwarty (przestrzenny)  
-maidanfobia - agorafobia  
-maidanpapil - mak polny  
 Mayote - Majotta  
 mais - kukurydza  
 maitnerem - meitner  
@@ -1971,11 +1967,9 @@ makan - masło
 makanful - mlecz  
 makas - nożyce, nożyczki  
 Makau - Makau  
-mal (mali) - zły  
-mal zar - zły los  
-maldarja - dezaktualizować (pogorszyć)  
-malfunce - awaria (wadliwe działanie)  
-malsinyi - złowieszczy  
+mal - własność (mienie)  
+mala - mieć (posiadać)  
+malan - właściciel (posiadacz)  
 malagasi - madagaskarski; malagaski  
 Malagasia - Madagaskar  
 malayi - malajski  
@@ -1985,9 +1979,6 @@ malaria - malaria
 Malavi - Malawi  
 Mali - Mali  
 malike - jaśmin  
-malka - mieć (posiadać)  
-malke - własność (mienie)  
-malker - właściciel (posiadacz)  
 Malta - Malta  
 Malvinas nesia - Falklandy, Malwiny  
 mam - matka, mama  
@@ -2063,6 +2054,10 @@ media - media
 medu - między (wśród, pośród)  
 medofas - interfejs  
 medal - medalion, medal  
+meden - skwer, plac  
+medeni - otwarty (przestrzenny)  
+medenfobia - agorafobia  
+medenpapil - mak polny  
 medika - uleczyć, leczyć, uzdrowić, uzdrawiać  
 medikia - medycyna  
 mediker - doktor, lekarz, uzdrowiciel  
@@ -2262,8 +2257,15 @@ nasiste - nacjonalista
 nasistia - nacjonalizm  
 nasmedi - międzynarodowy  
 natrem - sód  
+nau - łódź, statek  
+nava - żeglować (płynąć)  
 navi - dziewięć (9)  
+naver - żeglarz (marynarz)  
+naukaper - kaper (korsarz)  
+naulefte - bakburta (lewa burta)  
 naumes - grudzień  
+nauraite - sterburta (prawa burta)  
+nauxef - kapitan  
 navati - nahuatl  
 Nauru - Nauru  
 nautil - nautilus  
@@ -2485,7 +2487,6 @@ parci - stłuczony (pęknięty)
 parcokayu - pękać (rozrywać się)  
 parcotalu - zapaść się (zapadać się, runąć)  
 parde - zasłona, kurtyna  
-pardon - przepraszam!  
 Paris - Paryż  
 parke - park (ogród)  
 parne - paproć  
@@ -2921,7 +2922,6 @@ sau - wiedza
 sava - wiedzieć  
 savi - wiadomy, znany  
 saulojia - epistemologia  
-savan - sawanna  
 Saudi Arabia - Arabia Saudyjska  
 saudar - rodzeństwo, brat lub siostra  
 sauna\* - sauna  
@@ -3334,7 +3334,7 @@ vida - patrzeć, widzieć
 vide - widok, wzrok  
 vidu - być widzianym  
 vider - obserwator (widz)  
-vidomaidan - pole widzenia  
+vidomeden - pole widzenia  
 vidopunte - perspektywa (punkt widzenia)  
 vidou - wdowa  
 vieti - wietnamski  
@@ -3435,8 +3435,8 @@ xarme - wstyd (hańba, kompromitacja)
 xarnir - zawias, oś  
 xarta - wymagać, przewidywać  
 xarte - warunek  
+Xatan - diabeł, szatan  
 xati - sto (100)  
-xatan - diabeł, szatan  
 xatani - diabelski, szatański  
 xataniste - satanista  
 xatanistia - satanizm  
@@ -3525,6 +3525,7 @@ zamandonia - dedykacja (poświęcenie)
 Zambia - Zambia  
 zar - niebezpieczeństwo, ryzyko, szansa  
 zari - losowy  
+zarkube - kość do gry  
 Zardux - Zaratusztra  
 zarduxiste - zaratrustianin  
 zarduxistia - zaratusztrianizm  

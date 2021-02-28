@@ -178,6 +178,9 @@ aslaustrali - aborigen
 asme - asma  
 aspirin - aspirina  
 astatem - ástato  
+astre - cuerpo celeste  
+astronau - astronave (nave estelar)  
+astronaver - astronauta  
 ate - acto  
 ater - agente  
 ation - acción  
@@ -311,7 +314,7 @@ bazoxulkan - escuela primaria
 bazar - mercado (bazar)  
 bebe - bebé  
 bede - cama  
-bedinjan - berenjena  
+bedinje - berenjena  
 bega - escaparse (evitar, huir)  
 beyu - sufrir (verbo pasivo)  
 Beijing - Pekín  
@@ -340,6 +343,7 @@ bete - remolacha
 beton - concreto (hormigón)  
 biblia - Biblia  
 bil - cuenta (factura)  
+bilor - cristal  
 bina - construir (edificar)  
 binde - punto (lunar)  
 bir - cerveza (birra)  
@@ -380,23 +384,16 @@ boni zar - buena suerte
 bondarja - mejorar  
 bondarme - virtud (moralidad)  
 bondarmi - virtuoso (moral)  
-bonrupi - guapo (bien parecido)  
 bonsifi - excelente  
 bonsifia - calidad (excelencia, mérito, virtud, ventaja)  
 bonsinyi - auspicioso  
+bonvidi - guapo (bien parecido)  
 bori - aburrido  
 boria - aburrimiento  
 borem - bohrio  
 boron - boro  
 Bosnia e Hercegovina - Bosnia y Herzegovina  
-bota - navegar (ir en bote)  
-bote - barco (bote)  
 botel - botella  
-boter - velero  
-botokaper - corsario  
-botolefte - babor  
-botoraite - estribor  
-botoxef - capitán  
 bravo - bravo!  
 brauza - explorar  
 brauzer - explorador (navegador)  
@@ -533,7 +530,6 @@ cuzable - opción
 ####D - D  
 da - de (posposición de posesión)  
 du - de (posposición de posesión)  
-dade - dado  
 dayi - grande  
 dayia - tamaño  
 dayu - crecer (aumentar)  
@@ -712,11 +708,16 @@ durabli - durable
 duriki - crónico  
 durmetrer - cronómetro  
 dusi - malo (difícil, duro)  
+dusi zar - infortunio (mala suerte)  
+dusdarja - degradar  
+dusforma - desfigurar  
+dusfunce - falla (mal funcionamiento)  
 dushal - dificultad (apuro, privación)  
 dusjan - enemigo  
 duskar - pecado  
 dusnam - insulto (ofensa)  
 dusnamana - insultar (ofender)  
+dussinyi - ominoso (amenazador)  
 dusvidi - feo  
 dute - duda  
 duva - rezar (orar)  
@@ -994,6 +995,7 @@ garmi masal - garam masala
 garmomosim - verano  
 garmomosimmedi den - Midsommar  
 garmozon - trópico  
+garmozoni cautopia - sabana  
 gas - gas  
 gasa - gasificar  
 gasi - gaseoso  
@@ -1417,12 +1419,12 @@ jivi - vivo (lleno de vida)
 joke - broma (chiste)  
 joker - bromista (chistoso)  
 jong - especie  
-jovan - joven  
-jovani - joven  
-jovani fem - niña  
-jovani man - niño  
-jovani moke - pimpollo  
-jovania - juventud  
+joven - joven  
+joveni - joven  
+joveni fem - niña  
+joveni man - niño  
+joveni moke - pimpollo  
+jovenia - juventud  
 juda - juzgar (considerar)  
 jude - fallo (juicio, criterio)  
 juder - juez (árbitro, réferi)  
@@ -1708,6 +1710,8 @@ kos - tos
 kosmi - cósmico  
 kosmia - cosmos  
 kosmobiulojia - astrobiologia  
+kosmonau - nave espacial  
+kosmonaver - cosmonauta  
 Kosovo - Kosovo  
 kosta - costar  
 koste - precio (coste)  
@@ -1728,7 +1732,6 @@ kristi - mesiánico
 krististe - cristiano  
 krististia - cristianismo  
 kristojen - Navidad  
-bilor - cristal  
 krita - gritar  
 kriton - criptón (kriptón)  
 krize - crisis  
@@ -1929,6 +1932,8 @@ lutetem - lutecio
 me - yo  
 mi - mi  
 mome - nosotros  
+maf - perdón  
+mafa - perdonar (disculpar)  
 mafan - problema (disturio)  
 mafana - molestar (preocupar)  
 mafanu - molestar en  
@@ -1941,10 +1946,6 @@ mageti - magnético
 Magyaria - Hungría  
 Magribia - Marruecos  
 mayan - maya  
-maidan - plaza  
-maidani - abierto (extenso)  
-maidanfobia - agorafobia  
-maidanpapil - amapola silvestre  
 Mayote - Mayotte (Mahoré)  
 mais - maíz  
 maitnerem - meitnerio  
@@ -1954,11 +1955,9 @@ makan - mantequilla
 makanful - dientes de león (panaderos)  
 makas - tijera  
 Makau - Macao  
-mal (mali) - malo  
-mal zar - infortunio (mala suerte)  
-maldarja - degradar  
-malfunce - falla (mal funcionamiento)  
-malsinyi - ominoso (amenazador)  
+mal - propiedad  
+mala - poseer (ser dueño de)  
+malan - dueño  
 malagasi - malgache  
 Malagasia - Madagascar  
 malayi - malayo  
@@ -1968,9 +1967,6 @@ malaria - malaria (paludismo)
 Malavi - Malaui  
 Mali - Mali  
 malike - jazmín  
-malka - poseer (ser dueño de)  
-malke - propiedad  
-malker - dueño  
 Malta - Malta  
 Malvinas nesia - Islas Malvinas  
 mam - madre (mamá)  
@@ -2047,6 +2043,10 @@ medi - medio (mediano)
 media - medio  
 medu - entre  
 medal - medallón  
+meden - plaza  
+medeni - abierto (extenso)  
+medenfobia - agorafobia  
+medenpapil - amapola silvestre  
 medika - curar (sanar)  
 medikia - medicina  
 mediker - doctor (médico)  
@@ -2241,8 +2241,15 @@ nasistia - nacionalismo
 nasmedi - internacional  
 natre - natrón  
 natrem - sodio  
+nau - barco (bote)  
+nava - navegar (ir en bote)  
 navi - nueve (9)  
+naver - velero  
+naukaper - corsario  
+naulefte - babor  
 naumes - septiembre  
+nauraite - estribor  
+nauxef - capitán  
 navati - náhuatl (nahua)  
 Nauru - Naúru  
 nautil - nautilo  
@@ -2459,7 +2466,6 @@ parce - fragmento (pedazo)
 parci - roto  
 parcokayu - reventar  
 parde - cortina  
-pardon - perdón  
 parke - parque  
 parne - helecho  
 parta - participar  
@@ -2894,7 +2900,6 @@ sau - sabiduría (conocimiento)
 sava - saber (conocer)  
 savi - conocido  
 saulojia - epistemología  
-savan - sabana  
 Saudi Arabia - Arabia Saudita  
 saudar - hermano o hermana  
 sauna\* - sauna  
@@ -3306,7 +3311,7 @@ vida - ver (mirar)
 vide - vista (visión)  
 vidu - ser visto  
 vider - espectador  
-vidomaidan - campo de visión  
+vidomeden - campo de visión  
 vidopunte - perspectiva (punto de vista)  
 vidou - viudo  
 vieti - vietnamita  
@@ -3406,8 +3411,10 @@ xarme - vergüenza (pena)
 xarnir - bisagra (gozne)  
 xarta - espicificar (estipular)  
 xarte - condición (requisito, estipulación)  
+xata - oponer  
+xatan - adversario  
+Xatan - Satanás  
 xati - cien (100)  
-xatan - Satanás  
 xatani - satánico  
 xataniste - satanista  
 xatanistia - satanismo  
@@ -3492,6 +3499,7 @@ zamandona - dedicar
 Zambia - Zambia  
 zar - riesgo (posibilidad)  
 zari - azar (aleatorio)  
+zarkube - dado  
 Zardux - Zoroastro  
 zarduxiste - zoroastriano  
 zarduxistia - zoroastrismo  

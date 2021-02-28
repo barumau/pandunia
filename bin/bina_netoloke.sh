@@ -9,7 +9,7 @@ muta_GitHub_dokumsanduke() {
 }
 
 bina_netoloke() {
-    echo $1
+    echo bina netoloke pa $1
     bina_MkDocs $1
     muta_GitHub_dokumsanduke $1
 }

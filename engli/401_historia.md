@@ -26,7 +26,7 @@ The language is called _Gaia_.
 
 In a time when electronic multilingual dictionaries were not available in the internet,
 Risto creates a new collaborative wiki called
-[Multilingual Vocabulary Resource (Mulivo)](mulivo.pbworks.com)
+[Multilingual Vocabulary Resource (Mulivo)](http://mulivo.pbworks.com)
 for finding out common words in widely spoken languages around the world.
 
 In 2006, the Gaia project is ended without completion.

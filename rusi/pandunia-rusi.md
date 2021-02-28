@@ -72,6 +72,9 @@ asle - начало (причина)
 aslameriki - инде́йский  
 asme - астма  
 aspirin - аспирин  
+astre - небесное тело  
+astronau - звездолёт  
+astronaver - астронавт  
 ate - действие (акт)  
 ater - деятель  
 ation - действие (акция)  
@@ -143,6 +146,7 @@ berande - балкон
 berje - берёза  
 bete - свёкла  
 bil - счёт  
+bilor - кристалл  
 bina - строить  
 bir - пиво  
 biu - организм  
@@ -163,10 +167,7 @@ bol - шар
 bombe - бомба  
 boni - хороший  
 bonsinyi - благоприятный  
-bote - лодка (бот)  
 botel - бутылка  
-botolefte - левый борт  
-botoraite - правый борт  
 bravo - браво  
 brauza - исследовать  
 brauzer - исследователь (браузер)  
@@ -268,7 +269,9 @@ duru - длиться
 durabli - долговечный  
 duriki - хронический  
 durmetrer - секундомер  
+dusforma - уродовать  
 dusjan - враг (противник)  
+dussinyi - зловещий  
 dusvidi - безобразный (некрасивый)  
 dux - душ  
 ####E - E  
@@ -482,7 +485,8 @@ jinse - пол
 jiraf - жираф  
 jiu - жизнь  
 jivi - живой  
-jovani moke - саженец  
+joveni - юный  
+joveni moke - саженец  
 juder - судья  
 jul - джоуль (J)  
 jumle - фраза  
@@ -589,12 +593,13 @@ kortokrokodil - аллигатор
 kosmi - космический  
 kosmia - космос  
 kosmobiulojia - астробиология  
+kosmonau - космический корабль  
+kosmonaver - космонавт  
 krabe - краб  
 krake - щель (трещина)  
 kran - кран  
 krepe - блин  
 krevete - креветка  
-bilor - кристалл  
 krokodil - крокодил  
 krokroke - лягушка  
 krote - крот  
@@ -675,11 +680,8 @@ mafana - утруждать
 mafanu - утруждай  
 magesem - магний  
 Magribia - Марокко  
-maidan - площадь (сквер, майдан)  
-maidanpapil - мак самосейка  
 majenti - маджента (фуксия)  
 makanful - одуванчик  
-malsinyi - зловещий  
 mam - мать (мама)  
 mangi - занятый  
 manihayistia - манихейство  
@@ -711,6 +713,8 @@ maxime - максимум
 maze - носок  
 mece - матч  
 medi - средний  
+meden - площадь (сквер, майдан)  
+medenpapil - мак самосейка  
 medika - лечить  
 mediker - врач (медик, лекарь, доктор)  
 medikosui - зелье  
@@ -767,7 +771,10 @@ nasia - нация
 nasmedi - междунаро́дный  
 natre - натрит (натр, натрон, кристаллическая сода)  
 natrem - натрий  
+nau - лодка (бот)  
 navi - девять (9)  
+naulefte - левый борт  
+nauraite - правый борт  
 nautil - наутилид  
 nefre - почка  
 nefte - масло  
@@ -1126,8 +1133,10 @@ Xampan vin - champanhe
 xante - отдых  
 xanti - спокойный  
 xarke - акула  
+xata - противостоять  
+xatan - противник  
+Xatan - Сатана  
 xati - сто  
-xatan - Сатана  
 xavi - мало  
 xaxu - шурша́ть  
 xef - шеф  
@@ -1163,6 +1172,7 @@ xuxi - тихий
 zalimi rajer - тиран (деспот)  
 zaman - период (эпоха)  
 Zambia - Замбия  
+zarkube - кость (кубик)  
 Zardux - Зороастр  
 zarduxiste - зороастризм  
 zebre - зебра  
