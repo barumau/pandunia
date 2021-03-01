@@ -56,14 +56,8 @@ Puedes encontrarlos en varios lugares de internet:
 - [Chat de voz en Discord](https://discord.gg/FWavWeG)
 - Canal QQ: 717549404
 - Sigue a pandunia en [Twitter](https://twitter.com/pandunia_).
-- Puedes apuntarte a la [lista de correo de pandunia (en inglés o en
-  pandunia)](https://groups.yahoo.com/neo/groups/pandunia/info) con una cuenta
-  de Yahoo o simplemente [enviando un mensaje en
-  blanco](mailto:pandunia-subscribe@yahoogroups.com).
-- Otras listas de correo relacionadas (en inglés):
-    * [Auxlang](https://listserv.brown.edu/archives/auxlang.html)
-      ([copia](https://groups.yahoo.com/neo/groups/Auxlang/info))
-    * [Worldlang list](https://groups.yahoo.com/neo/groups/Worldlanglist/info).
+
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
 
 Puedes contactar por correo con el creador de Pandunia, Risto Kupsala, en el
 correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los

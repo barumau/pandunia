@@ -3,7 +3,7 @@ Pandunia - a simple world language
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
-## What's Pandunia?
+## What is Pandunia?
 
 Pandunia is a helping language for world-wide use.
 It is an easy language that people can use to talk with each other
@@ -16,8 +16,13 @@ like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
 Learning Pandunia is equally easy for everybody.
 Its words have been borrowed from many languages on all continents and all cultures of the world.
 
+## Coming soon...
 
-## Learning material
+New and improved version of Pandunia will be published in March 2021.
+Version 2.0 includes improved grammatical structures, more logical structure words, and new and changed words.
+
+
+## How to learn it?
 
 - [The basics](baze.md) in one short page
 - [Lessons with Dialogs](darse.md)
@@ -47,7 +52,8 @@ Its words have been borrowed from many languages on all continents and all cultu
 
 ## Join Others
 
-Many people are already interested about Pandunia and they are speaking it. You can find Pandunia forums in several places:
+Many people are already interested about Pandunia and they are speaking it.
+You can find Pandunia forums in several places:
 
 - Links and discussion in [Reddit](https://www.reddit.com/r/pandunia/)
 - [Friends of Pandunia](http://www.facebook.com/groups/pandunia) in Facebook
@@ -60,11 +66,10 @@ Many people are already interested about Pandunia and they are speaking it. You 
 - QQ channel: 717549404
 - You can follow Pandunia also on [Twitter](https://twitter.com/pandunia_).
   Spread the word!
-- You can talk about Pandunia also in [Auxlang](https://listserv.brown.edu/archives/auxlang.html) mailing list.
-  Click _Subscribe_ and enter your email address to join the list.
 - You can help to [translate this site](tarja_netoloke.md)
 
-You can contact a creator of Pandunia, Risto Kupsala, via email
-[risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned
-forums.
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+
+You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
+[risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
 

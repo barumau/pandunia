@@ -17,5 +17,7 @@ A pandunia é uma língua artificial multicultural.
 - [Grupo Facebook da pandunia](http://www.facebook.com/groups/pandunia)
 - [Sala de conversa em Telegram](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
 
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+
 Contato: risto@pandunia.info
 

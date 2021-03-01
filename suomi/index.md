@@ -16,6 +16,12 @@ Pandunia on tarkoitettu aivan kaikille! Keinotekoisena kielenä pandunialla ei o
 
 Mikäli olet kiinnostunut muista keinotekoisista kielistä, kuten esperanto, ido, interlingua, toki pona tai lidepla, siinä tapauksessa tulet melko varmasti tykkäämään panduniasta.
 
+## Tulossa pian...
+
+Pandunia uusi, parannettu version julkaistaan maaliskuussa 2021.
+Versio 2.0 sisältää kieliopin parannuksia, loogisemmat rakennesanat sekä uusia ja muutettuja sanoja.
+
+
 ## Opiskele!
 
 Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole pakko päntätä päähän.
@@ -34,11 +40,15 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 ## Jutellaan!
 
 - Löydä muita pandunian puhujia [Amikumu](https://amikumu.com/)-sovelluksella!
-- Panduniasta voi puhua suomeksi Facebookin [Tekokielet](http://www.facebook.com/groups/tekokielet)-ryhmässä ja Suomi24:n [Keinokielet](http://keskustelu.suomi24.fi/tiede-ja-teknologia/tiede/keinokielet)-ryhmässä
-- Facebookin [Pandunia](http://www.facebook.com/groups/pandunia)-ryhmä toimii englanniksi
-- Telegramissa on kanavat [kokonaan panduniaksi](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg), [englanniksi](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) ja [esperantoksi](https://pandunia.telegramo.org/)
-- Pandunialle on myös oma [Reddit](https://www.reddit.com/r/pandunia/).
-- Viimeisenä ja vähäisimpänä on hiljainen [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia), johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
+- Panduniasta voi puhua suomeksi Facebookin [Tekokielet](http://www.facebook.com/groups/tekokielet)-ryhmässä.
+  ja Suomi24:n [Keinokielet](http://keskustelu.suomi24.fi/tiede-ja-teknologia/tiede/keinokielet)-ryhmässä.
+- Facebookin [Pandunia](http://www.facebook.com/groups/pandunia)-ryhmä toimii pääasiassa englanniksi.
+- Telegramissa on kanavat [kokonaan panduniaksi](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg), [englanniksi](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) ja [esperantoksi](https://pandunia.telegramo.org/).
+- Pandunialle on myös oma [Reddit-foorumi](https://www.reddit.com/r/pandunia/).
+- Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
+  johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
+
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 

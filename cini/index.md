@@ -10,6 +10,8 @@
 - [Telegram的聊天室](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
 - [Facebook 社区](http://www.facebook.com/groups/pandunia)
 
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+
 
 给我们发电子邮件: risto@pandunia.info
 

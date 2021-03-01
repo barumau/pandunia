@@ -35,7 +35,6 @@ Niektóre zauważalne cechy Panduni:
 - [Prezentacja w formacie PDF (ang.)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
 - [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
 - [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinie uczących się
-<!---- [Esperanto vs. Pandunia](esperanti_i_pandunia.md)--->
 
 ## Dołącz do innych
 
@@ -49,7 +48,6 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 - Kanał QQ: 717549404
 - Możesz również obserwować Pandunię na [Twitterze](https://twitter.com/pandunia_). Nieś wieści!
 
-
-Pandunia jest również obecna na listach mailingowych. Do oficjalnej [grupy Pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) można dołączyć wysyłając [tutaj](mailto:pandunia-subscribe@yahoogroups.com) pustą wiadomość e-mail. Inne powiązane listy mailingowe obejmują [Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) i [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
 
 Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@pandunia.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.
