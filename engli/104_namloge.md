@@ -12,7 +12,7 @@ So the same form is used in singular and plural, in definite and indefinite, etc
 – a table, tables, the table or the tables  
 **kurse**
 – a chair, chairs, the chair or the chairs  
-**suy**
+**sui**
 – water
 
 Number and definiteness are often known because they were specified earlier in the discussion or because they are general knowledge.
@@ -29,7 +29,7 @@ Number can be mentioned with number words when it is needed.
 – one chair  
 **duli kurse**
 – two chairs  
-**tini kurse**
+**sani kurse**
 – three chairs  
 **poli kurse**
 – many chairs; chairs

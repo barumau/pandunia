@@ -165,14 +165,14 @@ If the root is a place word, then its adjectival form will mean "that which is f
 Normally, when a word doesn't end in a vowel, it is a noun.
 The noun ending **-e** is used only when the word would be otherwise difficult to pronounce by international speakers.
 So it is necessary to use **-e** after stop consonants (ex. **supe** instead of **sup**),
-affricates (ex. **noche** and **laje** instead of **noch** and **laj**),
-voiced fricatives (ex. **nove** and **taze** instead of **nov** and **taz**)
+affricates (ex. **noce** and **laje** instead of **noc** and **laj**),
+voiced fricatives (ex. **taze** instead of and **taz**)
 and consonant series (ex. **poste** and **yogurte** instead of **post** and **yogurt**).
 Otherwise nouns don't have a vowel ending.
 
 In addition, a handful of adjectives and adverbs don't have a vowel ending.
-The adjectives without the ending are **bon** (good), **mal** (bad), **lil** (small), **day** (big),
-**nol** (none), **un** (one), **koy** (some), **mey** (every), and **pan** (all).
+The adjectives without the ending are **bon** (good), **mal** (bad), **lil** (small), **dai** (big),
+**nol** (none), **un** (one), **koi** (some), **mei** (every), and **pan** (all).
 The advebs withouth the ending are **max** (more), **maxim** (most), **min** (less), and **minim** (least).
 
 Note that it is always acceptable to use the vowel endings on every word.

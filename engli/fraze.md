@@ -43,7 +43,7 @@ Good morning!
 **salam den!**
 Good day!
 
-**salam xam!**
+**salam suar!**
 Good evening!
 
 **salam noce!**
@@ -187,7 +187,7 @@ He is a man.
 **le sa fem.**
 She is a woman.
 
-**le sa apel.**
+**le sa aple.**
 It is an apple.
 
 **le** is the general third person pronoun. It is used for people (irrespective
@@ -308,7 +308,7 @@ We are women.
 **tote sa man.**
 You are men.
 
-**lole sa apel.**
+**lole sa aple.**
 They are apples.
 
 
@@ -389,7 +389,7 @@ They are (here) by me.
 **de sa ke?**
 What's this?
 
-**de sa me du telfone.**
+**de sa me du telfon.**
 It's my telephone.
 
 **de sa ke du?**
@@ -441,7 +441,7 @@ I have a good house.
 **le no tena pese.**
 He/she doesn't have money.
 
-**me volu tena novi telfone.**
+**me vola tena novi telfon.**
 I want to have a new phone.
 
 **eska te tena bace?**
@@ -494,7 +494,7 @@ He/she eats an apple.
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
-Therefore a word like **apel** can refer to one or more apples.
+Therefore a word like **aple** can refer to one or more apples.
 
 **eska te yama kafe?**
 Do you drink coffee?
@@ -510,7 +510,7 @@ verb tells is it about eating, drinking or both.
 I'm having coffee and bread.
 
 
-### volu <small>want</small>
+### vola <small>want</small>
 
 **eska te vola yama?**
 Would you like to eat?
@@ -524,12 +524,12 @@ the word order is not affected by the **ke**.
 **me vola yama kafe.**
 I want to drink coffee.
 
-**eska te vola yama cay?**
+**eska te vola yama cai?**
 Would you like to drink tea?  
-**no. me no volu cay. me volu kafe.**
+**no. me no vola cai. me vola kafe.**
 No, I don't want tea. I want coffee.
 
-**te vola ki apel?**
+**te vola ki aple?**
 Which apple do you want?  
 **di kirmi.**
 This red one.
@@ -537,7 +537,7 @@ This red one.
 
 ### pliza <small>request, please</small>
 
-**me pliza te yama cay.**
+**me pliza te yama cai.**
 I ask you to drink tea.
 
 **me pliza te laya dom.**
@@ -548,7 +548,7 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**pliza yama cay.**
+**pliza yama cai.**
 Please, have some tea!
 
 **pliza yama kafe.**
@@ -584,7 +584,7 @@ I'm hungry.
 **eska te nida yama?**
 Are you hungry?
 
-**eska te nida suy?**
+**eska te nida sui?**
 Are you thirsty?
 
 
@@ -664,7 +664,7 @@ How do you say "cat" in Pandunia?
 **"cat" logu ko va pandunia?**
 How is "cat" said in Pandunia?
 
-**mav loga miau.**
+**mau loga miau.**
 Cat says meow.
 
 
@@ -691,7 +691,7 @@ What kind of music do you listen to?
 **suku vida te.**
 Pleased to see you!
 
-**vida te reo!**
+**vida te reyo!**
 See you again!
 
 **vida te badodeno!**
@@ -706,8 +706,8 @@ I saw him/her yesterday.
 **di loge mena ke?**
 What does this word mean?
 
-**"maw" mena ke?**
-What does "maw" mean?
+**"mau" mena ke?**
+What does "mau" mean?
 
 **le mena yange da hevan.**
 It means a kind of animal.
@@ -1010,7 +1010,7 @@ It is cheap / expensive.
 **mome plizu laya.**
 We are being called.
 
-**me serca tualete.**
+**me soka tualete.**
 I'm looking for the toilet.
 
 ****

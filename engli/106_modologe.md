@@ -19,9 +19,9 @@ or at the end of the sentence.
 A modifier can modify also another modifier.
 For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
 
-**day ren**
+**dayi ren**
 – a big person  
-**lil ren**
+**lili ren**
 – a little person  
 **sundari ren**
 – a beautiful person
@@ -51,7 +51,7 @@ Particle
 **ka**
 relates the adverbs of comparison to the point of comparison.
 
-**me sa max bon ka te.**
+**me sa max boni ka te.**
 = I am better than you.  
 **te loga samo bono ka me.**
 = You speak as well as me.
@@ -64,13 +64,13 @@ Here are some of the most frequently used adverbs:
 
 **paso**
 – before, earlier  
-**cheno**
+**ceno**
 – before, earlier  
 **medo**
 – between  
 **bado**
 – after, later  
-**vico**
+**viso**
 – instead  
 **duro**
 – in the meanwhile  
@@ -90,6 +90,6 @@ A complement can be added with the preposition **da**.
 **me vida lole paso da unyom.**
 – I have seen them before Monday.
 
-**me wana shopa towgar maxo da motogar.**
+**me vola xopa tougar maxo da motogar.**
 – I want to buy a trailer in addition to the car.
 

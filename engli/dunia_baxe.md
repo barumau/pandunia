@@ -196,8 +196,9 @@ stress is hard to learn for people who are used to fixed stress.
 Neither word tone nor variable word stress are necessary in the world
 language.
 
-Pandunia has fixed stress. The stress falls on the last syllable that is
-before the vowel ending. Like this: **haló. me vóla lóga bón dúnia báx.**
+Pandunia has fixed stress. The stress falls on the last syllable that is before the vowel ending.
+Like this:
+**halóu. me vóla lóga bóni dúnia báx.**
 
 Pandunia doesn't have lexical tone.
 
@@ -387,7 +388,7 @@ form that sounds familiar to speakers of as many languages as possible.
 | Pandunia root | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
 | **kort**      | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **nov**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
+| **nou**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
 | **marc**      | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **post**      | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
@@ -418,7 +419,7 @@ a normal PoS suffix.
  
 | 字 | Pandunia root | Cantonese  | Mandarin   | Japanese   | Korean     | Vietnamese |
 |----|---------------|------------|------------|------------|------------|------------|
-| 水 | **suy**       | sui        | shuǐ       | sui        | su         | thuỷ       |
+| 水 | **sui**       | sui        | shuǐ       | sui        | su         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
 | 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
@@ -448,7 +449,7 @@ The verb **beyu** is used when the object of an action comes first in
 the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  apele beyu yama.
+    Pandunia:  aple beyu yama.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **beyu** is a loan word from Standard Chinese, but it is also close to
@@ -470,17 +471,10 @@ Also verbs are not conjugated. One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  le si apele.
+    Pandunia:  le sa aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  lole si apele.
+    Pandunia:  lole sa aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
-
-
-
-## Pandunia - a global language
-
-![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag")
-
 

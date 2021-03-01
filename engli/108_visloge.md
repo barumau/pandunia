@@ -24,14 +24,14 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 **ze**
 – self
 
-Note! The reflexive pronoun **ze** is used for all persons,
+Note! The reflexive pronoun **se** is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**me vida ze**
+**me vida se**
 – I see myself.  
-**le vida ze**
+**le vida se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mome vida ze.**
+**mome vida se.**
 – We see ourselves.
 
 ## Demonstrative pronoun
@@ -65,31 +65,29 @@ It does the job of English words _who_ and _what_.
 The adjectival interrogative pronoun is **ki**
 and it means the same as English _which_.
 
-**ki shey?**
+**ki xei?**
 – What? (Which thing?)  
-**ki ren?**
+**ki jan?**
 – Who? (Which person?)  
 **ki zaman?**
 – When? (What time?)  
-**ki yang?**
-– How? (What manner?)
 
 The adverbial interrogative pronoun is **ko**
 and it means the same as English _how_.
 
-Also adjectives are questioned with **ki**.
+Also adjectives are questioned with **ko**.
 
 **ko novi?**
 – How new?  
 **ko kosti?**
 – How costy?  
-**ko pol?**
+**ko poli?**
 – How many?  
-**ko day?**
+**ko dayi?**
 – How big?  
-**ko lil?**
+**ko lili?**
 – How small?
 
-**te tena ko day mau?**
+**te tena ko dayi mau?**
 – How big cat do you have?
 

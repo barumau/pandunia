@@ -5,9 +5,9 @@
 Observations are the simplest sentence type.
 They may consist of only one word, which draws the listener's attention.
 
-**maw!**
+**mau!**
 – A cat!  
-**barxu!**
+**barxa!**
 – (It) rains!
 
 ## Stative Sentences
@@ -162,11 +162,11 @@ which indicates a modality such as advice, desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **me gowa dome.**
+1. **me gova dom.**
    – I go home.  
-2. **me abla gowa dome.**
+2. **me abla gova dom.**
    – I can go home.  
-3. **me vola abla gowa dome.**
+3. **me vola abla gova dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -199,9 +199,9 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VVO)
 
-**me pliza te laya dome.**
+**me pliza te laya dom.**
 – I ask you to come home.  
-**pliza laya dome!**
+**pliza laya dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -215,11 +215,11 @@ This is done especially in commands and requests.
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku maw e waf.**
+**me suku mau e vaf.**
 – I like cats and dogs.  
-**me suku maw o waf.**
+**me suku mau o vaf.**
 – I like cats or dogs.  
-**me suku maw a no waf.**
+**me suku mau a no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -252,7 +252,7 @@ Such sentences can be simply negated with **no**.
 
 **le no sa xef.**
 – He is not the boss.  
-**le no novi meze.**
+**le no sa novi meze.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -313,24 +313,24 @@ The modifier particle can be used for any possessive noun or pronoun.
 With regards to possession, **du** works like the apostrophe-s ('s) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria du mame**
+**Maria du mam**
 – Maria's mother  
-**Maria du mame du dome**
+**Maria du mam du dom**
 – Maria's mother's house
 
 **da** works like "of" in English.
 It indicates that the next word has possession of the previous one.
 
-**mame da Maria**
+**mam da Maria**
 – the mother of Maria  
-**dome da mame da Maria**
+**dom da mam da Maria**
 – the house of the mother of Maria
 
 It's possible to use **da** and **du** with personal pronouns too,
 so one can say things like
-**dome da me** (_the house of mine_)
+**dom da me** (_the house of mine_)
 but it's better to use the short possessive pronouns and say simply
-**mi dome** (_my house_).
+**mi dom** (_my house_).
 
 #### Modification with noun phrases
 
@@ -341,14 +341,14 @@ The modifier particles are useful for creating complex adjectives that consists 
 
 **rozi rang du labe**
 – rose-colored lips  
-**samani rang du kan**
+**samani rang du oke**
 – sky-colored eyes
 
 Or in the opposite order:
 
 **labe da rozi rang**
 – lips of the rose-color  
-**kan da samani rang**
+**oke da samani rang**
 – eyes of the sky-color
 
 The particles help in creating measure words too.
@@ -357,15 +357,15 @@ The particles help in creating measure words too.
 – one sack of potatoes  
 **dul sake du patate**
 – two sacks of potatoes  
-**may sake du patate**
+**max sake du patate**
 – more sacks of potatoes
 
 Note that **du** and **da** connect phrases together.
 So a modifier phrase with and without **du** can mean a different thing.
 
-**may sundari fule**
+**max sundari fule**
 – more beautiful flowers  
-**may du sundari fule**
+**max du sundari fule**
 – more of beautiful flowers
 
 #### Modification with verb phrases
@@ -374,11 +374,11 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
 
 A declarative phrase:  
-**maw vidu me.**
+**mau vidu me.**
 – A cat is seen by me.
 
 The corresponding modifying phrase:  
-**maw da vidu me**
+**mau da vidu me**
 – the cat that is _seen by me_
 
 Note! Although **da** seems to have a similar role here as English relative pronouns _which_, _that_, _who_ and _whom_,
@@ -387,22 +387,22 @@ it's still nothing more than a particle connecting a modifier (in this case: a v
 The opposite word order is made with **du** and the verb ending in **-a**.
 
 A declarative phrase:  
-**me vida maw.**
+**me vida mau.**
 – I see a cat.
 
 The corresponding modifying phrase:  
-**me vida du maw**
+**me vida du mau**
 – _My seen_ cat i.e. the cat _that I see_
 
 Pay attention to the final vowels! They are crucial for the meaning!
 
-**maw da vidu man**
-– the cat that is seen by the man  
-**maw da vida man**
-– the cat that sees the man  
-**maw vida du man**
+**mau da vidu man**
+– the cat that _is seen_ by the man  
+**mau da vida man**
+– the cat that _sees_ the man  
+**mau vida du man**
 – the _cat-seen_ man  
-**maw vidu du man**
+**mau vidu du man**
 – the _cat-seeing_ man
 
 Note! In Pandunia, words can be put in many different orders.
@@ -412,7 +412,7 @@ That's why some translations sound clumsy in English although the original phras
 
 The modified noun can be part of an adposition phrase too.
 
-**me safara pa du site si teli.**
+**me safara pa du site sa teli.**
 – My destination city is far away.
 
 With the modified noun at the beginning, we need to call into action the otherwise rarely used postpositions
@@ -420,7 +420,7 @@ With the modified noun at the beginning, we need to call into action the otherwi
 
 **site da pu me safara si teli.**
 – The city I’m traveling to is far away.  
-**yi kalam da su me zay kitaba si novi.**
+**di kalam da su me zayo kitaba sa novi.**
 – This pen, with which I’m writing now, is new.
 
 #### 9.2.5. Modification with clauses
@@ -428,16 +428,16 @@ With the modified noun at the beginning, we need to call into action the otherwi
 Any clause can modify a noun in the same manner: the modified noun is moved to the beginning of the modifying clause
 and separated out with **da**, or moved to the end and separated out with **du**.
 
-**me serca me paso abla laxa du eni shey.**
+**me soka me paso abla laxa du eni xei.**
 – I'm looking for anything I might have left behind.
 
 In more complex cases, it can become challenging to maneuver the noun to the end of the clause. In these cases, the
 word order may be relaxed as long as it is clear where in the modifying clause the noun goes. Note, however, that it
 may be more understandable to simply rearrange the sentence entirely.
 
-**lole namana loke da me no abla eureka sa karte.**
+**lole namana loke da me no abla eureka va karte.**
 – They named a place I couldn't find on the map.
-**me cana table da jan. me raya mome xudu wenda lole tema liga momi partia.**
+**me cana table da jan. me raya mome xudu eska lole tema liga momi partia.**
 – I've tabulated the people that I think we should ask about joining our party.
 
 ### Modal Particles
@@ -466,23 +466,23 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **paso** (past), **zayo** (present) and **wilo** (future, upcoming).
+The general time words are **paso** (past), **zayo** (present) and **vilo** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**me paso tena maw.**
+**me paso tena mau.**
 – I had cats.  
-**a me no zayo tena maw.**
+**a me no zayo tena mau.**
 – But I now don't have cats.  
-**ablo me wilo tena maw.**
+**ablo me vilo tena mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **va pase** (in the past) etc.
 
-**me tena maw va pase.**
+**me tena mau va pase.**
 – I had cats in the past.  
-**a me no tena maw va zaye.**
+**a me no tena mau va zaye.**
 – But I don't have cats at present.  
-**ablo me tena maw va wile.**
+**ablo me tena mau va vile.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

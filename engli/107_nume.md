@@ -11,9 +11,9 @@ They are put before the word or phrase that they qualify.
 – two stars  
 **sani xing**
 – three stars  
-**shawi xing**
+**xavi xing**
 – few stars  
-**multi xing**
+**poli xing**
 – many stars
 
 **un day kurse**
@@ -29,7 +29,7 @@ The basic number words are:
 - 1 **un**
 - 2 **duli**
 - 3 **sani**
-- 4 **chari**
+- 4 **cari**
 - 5 **limi**
 - 6 **sisi**
 - 7 **seti**
@@ -74,9 +74,9 @@ Fractions are formed with the help of
 
 **uni dulfen**
 – a half, ½  
-**uni charfen**
+**uni carfen**
 – a quarter, ¼  
-**sani charfen**
+**sani carfen**
 – three quarters, ¾
 
 
@@ -157,7 +157,7 @@ So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'thre
   – July
 8. **balmes**
   – August
-9. **navmes**
+9. **naumes**
   – September
 10. **desmes**
   – October

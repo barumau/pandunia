@@ -172,7 +172,7 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **bash**.
+So the Pandunia word for language becomes **bax**.
 
 
 ### Examples of global words
@@ -196,7 +196,7 @@ So the Pandunia word for language becomes **bash**.
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### chay (tea)
+#### cai (tea)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -292,7 +292,7 @@ So the Pandunia word for language becomes **bash**.
 
 ### Examples of words from Arabic
 
-#### duwe (prayer)
+#### duve (prayer)
 
 | Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|

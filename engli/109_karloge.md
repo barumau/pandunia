@@ -42,7 +42,7 @@ The word order is subject–verb–object.
 
 | Subject | Verb     | Object    |
 |---------|----------|-----------|
-| **maw** | **yama** | **mush.** |
+| **mau** | **yama** | **mux.** |
 | Cats    | eat      | mice.     |
 
 
@@ -77,7 +77,7 @@ and the object (if there is one) does the action of the verb.
 
 | Subject  | Verb      | Object    |
 |----------|-----------|-----------|
-| **mush** | **yamu**  | **maw.**  |
+| **mux**  | **yamu**  | **mau.**  |
 | Mice     | are eaten | by cats.  |
 
 When a passive verb is used, the focus is on the recipient of the action.
@@ -100,7 +100,7 @@ In Pandunia, a passive verb is used when:
 1. The subject receives an action,
    ex. **kitabu** (to be written), **darbu** (to get hit).
 2. The subject undergoes a change of state,
-   ex. **parchu** (to get broken), **novu** (to become new).
+   ex. **parcu** (to get broken), **novu** (to become new).
 3. The subject moves to another place,
    ex. **layu** (to come), **marchu** (to walk).
 3. The subject is influenced or stimulated by the object,
@@ -254,13 +254,13 @@ In other situations, the causative is formed by using one of the participle suff
 Here is a more complete example.
 Note that "to feed" has two different causative meanings in English.
 
-**pesh yamu.**
+**pex yamu.**
 – Fish is eaten.  
-**maw yama pesh.**
+**mau yama pex.**
 – The cat eats fish.  
-**me yamita pesh pa maw.**
+**me yamita pex pa mau.**
 – I feed fish to the cat.  
-**me yamana maw a pesh.**
+**me yamana mau va pex.**
 – I feed the cat with fish.
 
 A causative can imply that the action is done for the causer.
@@ -292,7 +292,7 @@ the preposition is complemented by a pronoun or a noun phrase.
 – I'm in the hotel.  
 **me sona va hotel.**
 – I sleep in the hotel.  
-**me sona ja sham pa sube.**
+**me sona ja xam pa sube.**
 – I sleep since evening until morning.  
 **me safara ja London pa Paris.**
 – I travel from London to Paris.  
@@ -312,7 +312,7 @@ refer to time.
 **va** is an all-purpose locative preposition.
 Its basic meaning is "at".
  
-**me libu va dome.**  
+**me liba va dome.**  
 _I stand with house._  
 I stand by the house.
  
@@ -357,7 +357,7 @@ many phrases, the verb says enough alone.
 – S/he lies (on) the sofa.  
 **pex nata daria.**
 – Fish swim (in) the sea.  
-**jenger marcha daw.**
+**jenger marca dau.**
 – Warriors march (on) the road.  
 
 ### Preposition of relation
@@ -378,9 +378,9 @@ In the above example
 
 **ka** is also used when adjectives are compared.
 
-**pute sa min day ko pape.**
+**pute sa min dayi ko pape.**
 – The child is smaller than the father.  
-**lawpape sa samo day ka pape.**
+**laupape sa samo dayi ka pape.**
 – Grandfather is as big as father.
 
 **ka** relates the adverbs of comparison
