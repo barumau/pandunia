@@ -30,6 +30,6 @@ te ablu xula pandunia uza [mini xul](mini_darse.html).
     * [nam da dex](dexonam.md)
     * [logaslia](leksaslia.md) e [loge du numbe](loge_du_numbe.md)
 * vikia
-    * [vikia va miraheze](https://pandunia.miraheze.org/wiki/Xefi_varkolate)
+    * [vikia va Fandom](https://pandunia.fandom.com/)
     * [ali vikia va pandunia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
 

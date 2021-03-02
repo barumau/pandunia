@@ -530,7 +530,7 @@ Havaiji - Havai
 Havaijin saaret - Havai nesia  
 he - lole  
 hedelmä - pal  
-hei (haloo) - halo\*  
+hei (haloo) - halou  
 heijastaa (peilata) - mira  
 heijastaa kuvia (projisoida) - lancografa  
 heikko - debili  
@@ -2802,7 +2802,7 @@ tietoteoria (epistemologia) - saulojia
 tietty (tunnettu) - savi  
 tietysti (selvästi) - klaro  
 tietää (tuntea) - sava  
-Tiibet - Bodia  
+Tiibet - Botia  
 tiikeri - bagre  
 tiili - dobe  
 tiisai - dulyom  

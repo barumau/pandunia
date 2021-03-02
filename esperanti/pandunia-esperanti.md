@@ -229,7 +229,7 @@ blabla - babili
 blablokan - babilejo  
 bode - korpo  
 bodi - korpa  
-Bodia - Tibeto  
+Botia - Tibeto  
 boikote - bojkoto  
 boke - buŝo  
 bokse - bokso  
@@ -674,7 +674,7 @@ haida - ni faru...
 hake - rajto  
 hal - stato  
 halif - kalifo  
-halo\* - saluton!  
+halou - saluton!  
 hami - grava  
 hamu - gravi  
 hamake - hamako  

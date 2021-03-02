@@ -1400,7 +1400,7 @@ salo - sal
 salti - jampa  
 saluti - salama  
 saluto - salame  
-saluton! - halo\*  
+saluton! - halou  
 sama - sami  
 samario - samarem  
 samlandano - samdexi  
@@ -1565,7 +1565,7 @@ teroro - teror
 terpomo - patate  
 tertremo - geusisme  
 testo - teste  
-Tibeto - Bodia  
+Tibeto - Botia  
 tie - va de  
 tigro - bagre  
 timi - fobu  

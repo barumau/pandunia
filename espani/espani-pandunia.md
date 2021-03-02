@@ -138,7 +138,7 @@ alto - gavi
 altura (altitud) - gavia  
 alumbre - aluminmate  
 aluminio - aluminem  
-aló - halo\*  
+aló - halou  
 alófono - alfon  
 alúmina - aluminokside  
 amado (cariño) - amike  
@@ -3335,7 +3335,7 @@ tántalo - tantalem
 té - cai  
 técnica - tehne  
 télugu - telugi  
-Tíbet - Bodia  
+Tíbet - Botia  
 título - temnam  
 tóxico - toksi  
 tú (usted) - te  

@@ -372,7 +372,7 @@ blablokan - keskusteluhuone
 bloge - blogi (nettikolumni)  
 bode - keho (ruumis)  
 bodi - ruumiillinen  
-Bodia - Tiibet  
+Botia - Tiibet  
 boi - kelluke (poiju)  
 boyu - kellua (uida)  
 boikote - boikotti  
@@ -1146,7 +1146,7 @@ halali - sallittu (hyväksytty)
 halela - ylistää  
 halif - kalifi  
 halifia - kalifaatti  
-halo\* - hei (haloo)  
+halou - hei (haloo)  
 hami - tärkeä  
 hamu - olla väliä (olla tärkeä)  
 hamake - riippumatto  

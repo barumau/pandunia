@@ -533,7 +533,7 @@ haijel - méduse
 haitate - côte  
 hake - droit  
 hal - état  
-halo\* - allô  
+halou - allô  
 hami - important  
 hande - main  
 handoxake - bras  

@@ -351,7 +351,7 @@ haiporte - porto marítimo
 haitate - costa  
 hake - direito  
 hal - estado  
-halo\* - alô  
+halou - alô  
 hami - importante  
 hamili - grávida (prenhe)  
 hande - mão  

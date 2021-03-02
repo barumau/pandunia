@@ -113,7 +113,6 @@
 |**biznes**|negoco|angla:business, rusa:бизнес (biznes), malaja:bisnes, japana:ビジネス (bijinesu)|
 |**blabla**|babili|franca:blablater, angla:babble, hispana:blablablá|
 |**bode**|korpo|angla:body, araba:(badan), hindia:बदन (badan), persa:urdua:(badan), turka:beden|
-|**Bodia**|Tibeto|tib:བོད (bod, phØ)|
 |**boikote**|bojkoto|angla:franca:boycott, hispana:boicot, portugala:boicote, japana:ボイコット (boikotto), persa:بایکوت‎ (bâykot), бойкот (boykot)|
 |**boke**|buŝo|hispana:portugala:boca|
 |**bokse**|bokso|angla:box, deu:Boxen, franca:portugala:boxe, hispana:boxeo, rusa:бокс (boks), japana:ボクシング (bokushingu), korea:복싱 (boksing), hindia:बॉक्सिंग (bŏksiṅg), bengala:বক্সিং (bôksing), malaja:boksing, turka:boks|
@@ -122,6 +121,7 @@
 |**boni**|bona|franca:bon, portugala:bom, hispana:bueno, + kmera:បុណ្យ (bon), taja:บุญ (bun), teluga:పుణ్యము (puṇyamu)|
 |**bori**|enui|angla:bored, hispana:aburrido, hindia:(bhorī)|
 |**botel**|botelo|angla:bottle, franca:bouteille, hispana:botella, portugala:botelha, rusa:бутылка (butylka), hindia:बोतल (botal), bengala:বোতল (botôl), malaja:botol|
+|**Botia**|Tibeto|tib:བོད (bod, phØ)|
 |**bravi**|brava|angla:franca:brave, rusa:бравый (braviy), portugala:bravo, araba:(brāvo)|
 |**brox**|broso|angla:brush, franca:brosse, bengala:ব্রাশ (braś), hindia:ब्रश (braś), urdua:(braś), haŭsa:svahila:burashi, japana:ブラシ (burashi), korea:브러시 (beureosi), persa:(boros), malaja:berus|
 |**bruni**|bruna|franca:brun, araba:(bunniy), hindia:भूरा (bhūrā), angla:brown|
@@ -338,7 +338,7 @@
 |**haida**|ni faru...|rum:háide, greka:άιντε (áinte), bul:ха́йде (hájde), rusa:айда (ayda), turka:hadi, araba:هَيَّا‎ (hayyā), vjetnama:hãy|
 |**hake**|rajto|araba:(ḥaq), hindia:हक़ (haq), turka:malaja:hak, svahila:haki, haŭsa:hakki|
 |**hal**|stato|araba:(ḥāla), hindia:हालत (hālat), svahila:hali, turka:hâl|
-|**halo***|saluton!|angla:hello,hullo, franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), turka:alo, hindia:हेलो (helo), mandarena:哈啰 (hāluō)|
+|**halou**|saluton!|angla:hello,hullo, franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), turka:alo, hindia:हेलो (helo), mandarena:哈啰 (hāluō)|
 |**hamake**|hamako|angla:hammock, hispana:hamaca, franca:hamac, rusa:гамак (gamak), turka:hamak, japana:ハンモック (hanmokku)|
 |**hamar**|martelo|angla:hammer, deu:Hammer, japana:ハンマー (hanmā), haŭsa:hamā̀|
 |**hami**|grava|araba: هَامّ (hāmm), hindia:अहम (aham), urdua: اہم (aham), turka:mühim, persa:(mohemm)|

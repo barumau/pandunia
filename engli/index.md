@@ -35,9 +35,10 @@ Version 2.0 includes improved grammatical structures, more logical structure wor
 - [Pandunia-English](pandunia-engli.md) dictionary
 - [Origins of words](leksaslia.md) (with [language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 
-## Stories
+## Texts
 
 - [The rich man and the poor man](rici_man_i_miskin_man.md)
+- [Fandom Wiki in Pandunia](https://pandunia.fandom.com/)
 
 ## Articles
 

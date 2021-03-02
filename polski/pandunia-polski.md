@@ -366,7 +366,7 @@ blablokan - pokój rozmów, chat
 bloge - blog  
 bode - ciało  
 bodi - cielesny  
-Bodia - Tybet  
+Botia - Tybet  
 boi - spławik (boja)  
 boyu - dryfować (pływać, płynąć)  
 boikote - bojkot  
@@ -1137,7 +1137,7 @@ halali - dozwolony (dopuszczalny, zezwolony, halal)
 halela - chwalić (wychwalać)  
 halif - kalif  
 halifia - kalifat  
-halo\* - halo, cześć  
+halou - halo, cześć  
 hami - ważny  
 hamu - znaczyć (liczyć się, być ważnym)  
 hamake - hamak  

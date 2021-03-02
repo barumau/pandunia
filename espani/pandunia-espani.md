@@ -367,7 +367,7 @@ blablokan - sala de chat (tertuliadero)
 bloge - blog  
 bode - cuerpo  
 bodi - corporal (corpóreo)  
-Bodia - Tíbet  
+Botia - Tíbet  
 boi - flotador (boya)  
 boyu - nadar (flotar)  
 boikote - boicot  
@@ -1135,7 +1135,7 @@ halaloliste - lista blanca
 halela - elogiar (alabar, exaltar)  
 halif - califa  
 halifia - califato  
-halo\* - aló  
+halou - aló  
 hami - importante  
 hamu - importar  
 hamake - hamaca  

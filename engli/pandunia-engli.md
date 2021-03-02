@@ -402,7 +402,7 @@ blablokan - chat room
 bloge - blog (web log)  
 bode - body  
 bodi - bodily (corporal)  
-Bodia - Tibet  
+Botia - Tibet  
 boi - float (buoy, bobber)  
 boyu - float (swim)  
 boikote - boycott  
@@ -1234,7 +1234,7 @@ halaloliste - whitelist
 halela - praise (commend, exalt)  
 halif - caliph  
 halifia - caliphate  
-halo\* - hello (hi)  
+halou - hello (hi)  
 hami - important  
 hamu - matter (be important)  
 hamake - hammock  

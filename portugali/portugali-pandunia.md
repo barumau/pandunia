@@ -38,7 +38,7 @@ aligátor (jacaré) - kortokrokodil
 almirante - hayamirer  
 altar - pujomeze  
 alterar - ala  
-alô - halo\*  
+alô - halou  
 amador - amater  
 amante - amer  
 amargo - alkalgusti  

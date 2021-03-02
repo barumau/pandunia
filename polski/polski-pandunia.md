@@ -795,7 +795,7 @@ haczyk - pexhuke
 hafn - hafnem  
 Haiti - Aiti  
 hak - huke  
-halo, cześć - halo\*  
+halo, cześć - halou  
 hamak - hamake  
 han chiński - cini  
 handel - vendoxope  
@@ -2965,7 +2965,7 @@ twaróg - panir
 twój - ti  
 twórca, kreator, czynnik - fater  
 ty, ciebie - te  
-Tybet - Bodia  
+Tybet - Botia  
 tydzień - yomsete  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suikaboge  

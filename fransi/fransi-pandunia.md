@@ -53,7 +53,7 @@ aller (quitter) - kitu
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alfon  
-allô - halo\*  
+allô - halou  
 alphabet - harfia  
 alumine (oxyde d'aluminium) - aluminokside  
 aluminium - aluminem  

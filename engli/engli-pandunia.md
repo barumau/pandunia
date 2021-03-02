@@ -1528,7 +1528,7 @@ height (altitude) - gavia
 helicopter - helisviman  
 helium - helem  
 hell - narake  
-hello (hi) - halo\*  
+hello (hi) - halou  
 helmet - sarkaske  
 help (aid, assistance) - helpe  
 help (assist) - helpa  
@@ -3420,7 +3420,7 @@ thulium - tulem
 thunder (roaring) - grom  
 thunderstorm - gromtafun  
 Thursday - caryom  
-Tibet - Bodia  
+Tibet - Botia  
 tick (mite) - akar  
 ticket - tikete  
 tie (fasten, bind) - benda  
