@@ -229,7 +229,6 @@ blabla - babili
 blablokan - babilejo  
 bode - korpo  
 bodi - korpa  
-Botia - Tibeto  
 boikote - bojkoto  
 boke - buŝo  
 bokse - bokso  
@@ -245,6 +244,7 @@ bori - enui
 boria - enuo  
 borem - borio  
 boron - boro  
+Botia - Tibeto  
 botel - botelo  
 bravi - brava  
 bravo - brave!  

@@ -1758,7 +1758,7 @@ keeper (preserver) - hafizer
 kelp - varkalge  
 kelp forest - algojangle  
 kelvin - kelvin  
-Kenya - Kenya  
+Kenya - Kenia  
 ketchup - kecape  
 kettle - ketle  
 key (push-button, switch) - buton  

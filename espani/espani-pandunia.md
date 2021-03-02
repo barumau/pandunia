@@ -1804,7 +1804,7 @@ Karnataka - karnadia
 Kazajistán (Kazakistan) - Kazakia  
 kelp - varkalge  
 kelvin - kelvin  
-Kenia - Kenya  
+Kenia - Kenia  
 kilograma - kilogram  
 kilometre - kilomitre  
 Kirguizistán - Kirgizia  

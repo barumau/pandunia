@@ -4,23 +4,31 @@
 
 ### Dialog
 
-<big>👩</big>
+![](http://www.pandunia.info/grafe/halou.png "halou!")
+
+<big>👩🏻</big>
+**halou!**
+= Hello!  
+<big>🧑🏾</big>
+**salam!**
+= Hello!  
+<big>👩🏻</big>
 **te sa ke?**
 = Who are you?  
-<big>🧔</big>
+<big>🧑🏾</big>
 **me sa Yusef. te sa ke?**
 = I am Yusef. Who are you?  
-<big>👩</big>
-**me sa Maria. le sa ke?**
+<big>👩🏻</big>
+**me sa Sara. le sa ke?**
 = I am Maria. Who is that?  
-<big>🧔</big>
+<big>🧑🏾</big>
 **le sa mi doste.**
 = That is my friend.  
-<big>👩</big>
+<big>👩🏻</big>
 **li nam sa ke?**
 = What's her name?  
-<big>🧔</big>
-**li nam sa Sara.**
+<big>🧑🏾</big>
+**li nam sa Maria.**
 = Her name is Sarah.
 
 ### Grammar
@@ -123,16 +131,23 @@ animal
 **salam**
 = Hello!
 
-This is how people greet each other in Pandunia. They say **salam**.
+This is how people often greet each other in Pandunia.
+They say **salam**.
 It is used for saying both hello and goodbye.
 
 **salam**
 = Bye!
 
-The word **salam** means "greeting". It is originally an Arabic word,
-which means _peace_, and it is a common greeting in many parts of the
-world, especially in Africa and Asia. Pandunia is a constructed world
-language, which borrows words from all parts of the world.
+The word
+**salam**
+means "greeting".
+It is originally a Middle Eastern word for wishing well-being, health and safety.
+It appears as "shlaam" in Aramaic, the language that Jesus of Nazareth spoke,
+in Hebrew it is "shalom",
+and in Arabic it is "salaam".
+Today it is a common greeting in hundreds of languages in Africa, Asia and Europe.
+Pandunia is a constructed world language
+that borrows international words from all parts of the world.
 
 The verb form of **salam** is **salama**, which means "to greet".
 
@@ -166,24 +181,25 @@ that are obvious in the present situation.
 **salam!**
 = Hello!
 
-The pattern in **salam te** is convenient for addressing people by
-name, kinship term or profession.
-
-**salam toni!**
-= Hello, Tony!  
-**salam mam!**
-= Hello, mother!  
-**salam pape!**
-= Hello, father!  
-**salam xef!**
-= Hello, chief!
-
 Another Pandunia word for greeting is **halou**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
 **halou!**
 = Hello!
+
+You may use both **salam** and **halou**
+to address people by name, kinship term or profession.
+
+**halou, toni!**
+= Hello, Tony!  
+**salam, mam!**
+= Hello, mother!  
+**halou, pape!**
+= Hello, father!  
+**salam, xef!**
+= Hello, chief!
+
 
 
 ### Exercises

@@ -989,7 +989,7 @@ kelvin (K) - kelvin
 kemia - kimlojia  
 kemikaali - kimi  
 kenguru - kangaru\*  
-Kenia - Kenya  
+Kenia - Kenia  
 kenkä - sapate  
 kenttä (aukio) - meden  
 kerho (klubi) - klube  

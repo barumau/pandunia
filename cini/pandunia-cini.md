@@ -355,6 +355,7 @@ haiporte - 海港
 haitate - 海岸  
 hake - 权利  
 hal - 状态  
+halou - 哈啰 (哈喽)  
 hami - 重要  
 hamili - 怀孕  
 hande - 手  

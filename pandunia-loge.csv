@@ -404,7 +404,6 @@ blabl.o.kan:|blablokan||||chat room||sala de chat (tertuliadero)|||||||||||||bab
 blog:e|bloge|||eng:fra:spa:por:tur:may:blog, rus:блог (blog), ara:بلوغ‎ (blūḡ), hin:ब्लॉग (blŏg), zho:博客 (bókè), jpn:ブログ (burogu)|blog (web log)||blog||||||||||||||blogi (nettikolumni)|blog
 bod:e|bode|||eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|body|corps|cuerpo|corpo|тело|بَدَن‎|身体|体|||शरीर (बदन)||tubuh (badan)|mwili|beden|korpo|keho (ruumis)|ciało
 bod:i|bodi||||bodily (corporal)||corporal (corpóreo)|||||||||||||korpa|ruumiillinen|cielesny
-Bot:ia|Botia|dex||tib:བོད (bod, phØ)|Tibet||Tíbet|||||||||||||Tibeto|Tiibet|Tybet
 boi:|boi|||eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), jpn:ブイ (bui), kor:부표 (bupyo)|float (buoy, bobber)||flotador (boya)||поплавок (буй)|||フロート (ブイ)|||||||||kelluke (poiju)|spławik (boja)
 boi:u|boyu||||float (swim)|nagar (flotter)|nadar (flotar)|nadar (flutuar)|плавать||漂浮|泳ぐ (浮く)|||||||||kellua (uida)|dryfować (pływać, płynąć)
 boikot:e|boikote|||eng:fra:boycott, spa:boicot, por:boicote, jpn:ボイコット (boikotto), fas:بایکوت‎ (bâykot), бойкот (boykot)|boycott||boicot|||||||||||||bojkoto|boikotti|bojkot
@@ -430,6 +429,7 @@ bor:ia|boria||27 emotions||boredom||aburrimiento||||||||बोरियत|||||e
 bor.em:|borem|mate|Bh||bohrium||bohrio|||||||||||||borio|bohrium|bohr
 boron:|boron|mate|B||boron||boro|||||||||||||boro|boori|bor
 Bosn:ia e Hercegouina:|Bosnia e Hercegovina|dex|BA||Bosnia and Herzegovina||Bosnia y Herzegovina||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
+Bot:ia|Botia|dex||tib:བོད (bod, phØ)|Tibet||Tíbet|||||||||||||Tibeto|Tiibet|Tybet
 botel:|botel|||eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|bottle|bouteille|botella|garrafa (botelha)|бутылка||瓶|瓶|병|chai|शीशी (बोतल)|বোতল|botol|chupa|şişe|botelo|pullo|butelka
 brau:i|bravi|||eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|brave (gallant, valiant)|brave||bravo (valente, corajoso)||||||||||||brava|rohkea (urhea, uljas)|Odwarzny (
 brau:o|bravo||||bravo!|bravo!|bravo!|bravo!|браво||||||शाबाश|||||brave!|bravo!|brawo (gratulacje)
@@ -1240,7 +1240,7 @@ halal.o.list:e|halaloliste||||whitelist||lista blanca|||||ホワイトリスト|
 halel:a|halela|||heb:(hal'lu yah), eng:hallelujah, zho:哈利路亚 (hālìlùyà), ara:(hallilūyā), por:fra:alléluia, rus:аллилуйя (alliluyya), spa:aleluya, may:haleluya, tgl:aleluya, jpn:ハレルヤ (hareruya), kor:할렐루야 (hallelluya)|praise (commend, exalt)||elogiar (alabar, exaltar)||||||||||||||ylistää|chwalić (wychwalać)
 halif:|halif||||caliph||califa|||||||||||||kalifo|kalifi|kalif
 halif:ia|halifia||||caliphate||califato||||||||||||||kalifaatti|kalifat
-halou:|halou|||eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|hello (hi)|allô|aló|alô|алло||||||हेलो||||alo|saluton!|hei (haloo)|halo, cześć
+halou:|halou|||eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|hello (hi)|allô|aló|alô|алло||哈啰 (哈喽)||||हेलो||||alo|saluton!|hei (haloo)|halo, cześć
 ham:i|hami|||ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:mühim, fas:(mohemm)|important|important|importante|importante|важный (значимый)||重要||||महत्वपूर्ण (अहम)||penting||önemli (mühim)|grava|tärkeä|ważny
 ham:u|hamu||||matter (be important)||importar|||||||||||||gravi|olla väliä (olla tärkeä)|znaczyć (liczyć się, być ważnym)
 hamak:e|hamake|||eng:hammock, spa:hamaca, fra:hamac, rus:гамак (gamak), tur:hamak, jpn:ハンモック (hanmokku)|hammock||hamaca|||||||||||||hamako|riippumatto|hamak
@@ -1721,11 +1721,11 @@ kel.er:|keler||||athlete (sportsman)||deportista||||||||||||||urheilija|hałas
 kelel:|kelel|||swa:kon:makelele|noise||ruido||||||||||||||meteli|atleta, sportowiec
 keluin:|kelvin|unomete|K||kelvin||kelvin||||||||||||||kelvin (K)|kelwin
 Kem:ia|Kemia||||Ancient Egypt (Kemet)||Egipcia Antigua||||||||||||||muinainen Egypti|Starożytny Egipt (Kemet)
+Ken:ia|Kenia|dex|KE||Kenya||Kenia||||||||||||||Kenia|Kenia
 kenar:|kenar|||tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|border (edge, fringe, margin, rim, side, shore, periphery)||frontera (límite, borde, periferia)||||边||||किनारा|||||rando (orlo)|reuna (ääri)|granica, skraj, brzeg
 kenar:i|kenari||||peripheral||periférico||||||||||||||reuna-|peryferyjny
 kenar.bari.er:|kenarbaryer||||fence||valla (cerca)|cerca|забор (ограда)||篱笆|柵 (垣)||||||||||płot
 kenar.fon:|kenarfon||||consonant||consonante||||||||||||||konsonantti|spółgłoska
-Kenia:|Kenya|dex|KE||Kenya||Kenia||||||||||||||Kenia|Kenia
 kern:e|kerne|||eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|core (nucleus, kernel)|coeur|corazón (núcleo)|núcleo (cerne)|||核心|核||||||||kerno (koro)|ydin (sydän)|rdzeń (jądro, pestka)
 kern:i arm:e|kerni arme||||nuclear weapon (nuke)||arma nuclear|||||||||||||kernarmilo|ydinase|broń nuklearna
 kern:i dar.un:ia|kerni darunia||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)

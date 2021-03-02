@@ -1046,7 +1046,7 @@ każdy, wszyscy - mei
 kebab - kababi manse  
 keczup - kecape  
 kelwin - kelvin  
-Kenia - Kenya  
+Kenia - Kenia  
 keta - bakosalmon  
 kichać (kichnąć) - acua  
 kiedy? - ko?  

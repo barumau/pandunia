@@ -366,7 +366,6 @@ blablokan - pokój rozmów, chat
 bloge - blog  
 bode - ciało  
 bodi - cielesny  
-Botia - Tybet  
 boi - spławik (boja)  
 boyu - dryfować (pływać, płynąć)  
 boikote - bojkot  
@@ -390,6 +389,7 @@ boria - nuda (znudzenie)
 borem - bohr  
 boron - bor  
 Bosnia e Hercegovina - Bośnia i Harcegowina  
+Botia - Tybet  
 botel - butelka  
 bravi - Odwarzny (  
 bravo - brawo (gratulacje)  
@@ -1584,11 +1584,11 @@ keler - hałas
 kelel - atleta, sportowiec  
 kelvin - kelwin  
 Kemia - Starożytny Egipt (Kemet)  
+Kenia - Kenia  
 kenar - granica, skraj, brzeg  
 kenari - peryferyjny  
 kenarbaryer - płot  
 kenarfon - spółgłoska  
-Kenya - Kenia  
 kerne - rdzeń (jądro, pestka)  
 kerni arme - broń nuklearna  
 kerni darunia - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)  

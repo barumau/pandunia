@@ -442,7 +442,7 @@
 |**hal**|tila (tilanne, seikka)|arabia:(ḥāla), hindi:हालत (hālat), suahili:hali, turkki:hâl|
 |**halali**|sallittu (hyväksytty)|arabia:(ḥalāl), persia:urdu:(halāl), englanti:espanja:ranska:portugali:malaiji:halal, turkki:helal, venäjä:халяльный (xaljalʹniy), hindi:हलाल (halāl), suahili:halali, korea:할랄 (hallal)|
 |**halela**|ylistää|heb:(hal'lu yah), englanti:hallelujah, yleiskiina:哈利路亚 (hālìlùyà), arabia:(hallilūyā), portugali:ranska:alléluia, venäjä:аллилуйя (alliluyya), espanja:aleluya, malaiji:haleluya, filippiini:aleluya, japani:ハレルヤ (hareruya), korea:할렐루야 (hallelluya)|
-|**halou**|hei (haloo)|englanti:hello,hullo, ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), turkki:alo, hindi:हेलो (helo), yleiskiina:哈啰 (hāluō)|
+|**halou**|hei (haloo)|englanti:hello,  yleiskiina:哈喽 (hālóu), hindi:हेलो (helo), bangla:হ্যালো  (hyalo), malaiji:halo + ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), arabia: آلُو‎ (ʾālū), turkki:alo|
 |**hamake**|riippumatto|englanti:hammock, espanja:hamaca, ranska:hamac, venäjä:гамак (gamak), turkki:hamak, japani:ハンモック (hanmokku)|
 |**hamar**|vasara|englanti:hammer, deu:Hammer, japani:ハンマー (hanmā), hausa:hamā̀|
 |**hami**|tärkeä|arabia: هَامّ (hāmm), hindi:अहम (aham), urdu: اہم (aham), turkki:mühim, persia:(mohemm)|

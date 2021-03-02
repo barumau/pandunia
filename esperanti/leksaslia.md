@@ -338,7 +338,7 @@
 |**haida**|ni faru...|rum:háide, greka:άιντε (áinte), bul:ха́йде (hájde), rusa:айда (ayda), turka:hadi, araba:هَيَّا‎ (hayyā), vjetnama:hãy|
 |**hake**|rajto|araba:(ḥaq), hindia:हक़ (haq), turka:malaja:hak, svahila:haki, haŭsa:hakki|
 |**hal**|stato|araba:(ḥāla), hindia:हालत (hālat), svahila:hali, turka:hâl|
-|**halou**|saluton!|angla:hello,hullo, franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), turka:alo, hindia:हेलो (helo), mandarena:哈啰 (hāluō)|
+|**halou**|saluton!|angla:hello,  mandarena:哈喽 (hālóu), hindia:हेलो (helo), bengala:হ্যালো  (hyalo), malaja:halo + franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), araba: آلُو‎ (ʾālū), turka:alo|
 |**hamake**|hamako|angla:hammock, hispana:hamaca, franca:hamac, rusa:гамак (gamak), turka:hamak, japana:ハンモック (hanmokku)|
 |**hamar**|martelo|angla:hammer, deu:Hammer, japana:ハンマー (hanmā), haŭsa:hamā̀|
 |**hami**|grava|araba: هَامّ (hāmm), hindia:अहम (aham), urdua: اہم (aham), turka:mühim, persa:(mohemm)|

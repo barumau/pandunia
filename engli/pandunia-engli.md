@@ -402,7 +402,6 @@ blablokan - chat room
 bloge - blog (web log)  
 bode - body  
 bodi - bodily (corporal)  
-Botia - Tibet  
 boi - float (buoy, bobber)  
 boyu - float (swim)  
 boikote - boycott  
@@ -428,6 +427,7 @@ boria - boredom
 borem - bohrium  
 boron - boron  
 Bosnia e Hercegovina - Bosnia and Herzegovina  
+Botia - Tibet  
 botel - bottle  
 bravi - brave (gallant, valiant)  
 bravo - bravo!  
@@ -1715,11 +1715,11 @@ keler - athlete (sportsman)
 kelel - noise  
 kelvin - kelvin  
 Kemia - Ancient Egypt (Kemet)  
+Kenia - Kenya  
 kenar - border (edge, fringe, margin, rim, side, shore, periphery)  
 kenari - peripheral  
 kenarbaryer - fence  
 kenarfon - consonant  
-Kenya - Kenya  
 kerne - core (nucleus, kernel)  
 kerni arme - nuclear weapon (nuke)  
 kerni darunia - nuclear fusion  

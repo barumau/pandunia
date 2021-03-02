@@ -372,7 +372,6 @@ blablokan - keskusteluhuone
 bloge - blogi (nettikolumni)  
 bode - keho (ruumis)  
 bodi - ruumiillinen  
-Botia - Tiibet  
 boi - kelluke (poiju)  
 boyu - kellua (uida)  
 boikote - boikotti  
@@ -398,6 +397,7 @@ boria - tylsyys (pitkästys)
 borem - bohrium  
 boron - boori  
 Bosnia e Hercegovina - Bosnia ja Hertsegovina  
+Botia - Tiibet  
 botel - pullo  
 bravi - rohkea (urhea, uljas)  
 bravo - bravo!  
@@ -1555,10 +1555,10 @@ keler - urheilija
 kelel - meteli  
 kelvin - kelvin (K)  
 Kemia - muinainen Egypti  
+Kenia - Kenia  
 kenar - reuna (ääri)  
 kenari - reuna-  
 kenarfon - konsonantti  
-Kenya - Kenia  
 kerne - ydin (sydän)  
 kerni arme - ydinase  
 kerni darunia - ydinfuusio  

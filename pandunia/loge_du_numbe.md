@@ -11,11 +11,11 @@
 | hindustani | 548 | 38% |
 | niponi | 455 | 31% |
 | turki | 433 | 30% |
-| malayi | 414 | 28% |
-| arabi | 307 | 21% |
+| malayi | 415 | 29% |
+| arabi | 308 | 21% |
 | cini | 287 | 20% |
 | coseni | 253 | 17% |
-| bangli | 247 | 17% |
+| bangli | 248 | 17% |
 | farsi | 240 | 16% |
 | suahili | 218 | 15% |
 | vieti | 127 | 8% |
