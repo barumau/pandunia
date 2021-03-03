@@ -20,7 +20,7 @@
 = I am Yusef. Who are you?  
 <big>👩🏻</big>
 **me sa Sara. le sa ke?**
-= I am Maria. Who is that?  
+= I am Sara. Who is that?  
 <big>🧑🏾</big>
 **le sa mi doste.**
 = That is my friend.  
@@ -29,7 +29,7 @@
 = What's her name?  
 <big>🧑🏾</big>
 **li nam sa Maria.**
-= Her name is Sarah.
+= Her name is Maria.
 
 ### Grammar
 
@@ -242,10 +242,10 @@ chief, boss
 ### Dialog
 
 <big>🧒</big>
-**salam!**
+**halou!**
 = Hello!  
 <big>🧓</big>
-**salam! pliza sida.**
+**halou! pliza sida.**
 = Hello! Please sit!  
 <big>🧒</big>
 **danke.**
@@ -254,7 +254,7 @@ chief, boss
 **pliza yama kafe o cai.**
 = Please have some coffee or tea.  
 <big>🧒</big>
-**me yama cai. danke.**
+**me vola cai. danke.**
 = I will have some tea, thank you.  
 ...  
 <big>🧓</big>
@@ -406,7 +406,7 @@ Yes or no questions
 **me no baxa pandunia...**
 = I don't speak Pandunia...  
 <big>👩‍🍳</big>
-**pardon! eska le yama cai?**
+**maf! eska le yama cai?**
 = Pardon! Will he have tea?  
 <big>🧔</big>
 **no. le no yama cai. le yama kafe.**
@@ -415,8 +415,8 @@ Yes or no questions
 **eska te yama supe?**
 = Would you like to have soup?  
 <big>🧔</big>
-**ye, yama.**
-= Yes. (_I eat._)  
+**ye.**
+= Yes.  
 <big>👩‍🍳</big>
 **eska le yama supe?**
 = Would he like to have soup?  

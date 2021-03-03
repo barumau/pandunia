@@ -52,7 +52,7 @@ Good night!
 **salam yam!**
 Bon appetit!
 
-**salam lay!**
+**salam lai!**
 Welcome!
 
 **salam cute!**
@@ -395,7 +395,7 @@ It's my telephone.
 **de sa ke du?**
 Whose is this?
 
-**de mi.**
+**de sa mi.**
 It's mine.
 
 Note: Possessive particle **du** is put between the owner and the owned thing.
@@ -414,19 +414,22 @@ I am Sarah's friend.
 Mandarin: 的 (de).</small>
 
 
-### name <small>name</small>
+### nam <small>name</small>
 
-**ti name sa ke?**
+**ti nam sa ke?**
 What's your name?
 
-**mi name sa Tomas.**
+**mi nam sa Tomas.**
 My name is Thomas.
 
-**li name sa ke?**
+**li nam sa ke?**
 What is his/her name?
 
-**li name sa Sara.**
+**li nam sa Sara.**
 Her name is Sarah.
+
+**me nama tomas.**
+I am called Thomas.
 
 <small>Etymology. **name** is from Hindi: नाम  "nām", Farsi: نام‏‎
 "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German:
@@ -444,9 +447,9 @@ He/she doesn't have money.
 **me vola tena novi telfon.**
 I want to have a new phone.
 
-**eska te tena bace?**
+**eska te tena pute?**
 Do you have children?  
-**me tena duli bace.**
+**me tena duli pute.**
 I have two children.
 
 
@@ -484,7 +487,7 @@ I want to help you.
 
 ### yama <small>consume, eat, drink</small>
 
-**eska te vola yama koy?**
+**eska te vola yama koi?**
 Would you like to eat something?
 
 **le yama aple.**
@@ -499,8 +502,8 @@ Therefore a word like **aple** can refer to one or more apples.
 **eska te yama kafe?**
 Do you drink coffee?
 
-**me yama kafe.**
-I drink coffee.
+**ye. me yama kafe.**
+Yes, I drink coffee.
 
 Tip: Meaning of **yama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
@@ -566,10 +569,10 @@ Please, help me.
 **haida yama!**
 Let's eat!
 
-**haida gowa yama!**
+**haida gova yama!**
 Let's go eat!
 
-**haida gowa dom.**
+**haida gova dom.**
 Let's go home.
 
 
@@ -590,15 +593,15 @@ Are you thirsty?
 
 ## Part 3. Communication
 
-### pardon <small>sorry, pardon</small>
+### maf <small>sorry, pardon</small>
 
-**pardon! me no aha.**
+**maf! me no aha.**
 Sorry, I don't understand.
 
-**pardon! de sa ke?**
+**maf! de sa ke?**
 Excuse me, what's this?
 
-**pardon. ti name ke?**
+**maf. te nama ke?**
 Excuse me, what's your name?
 
 
@@ -610,25 +613,25 @@ Do you understand me?
 **me aha.**
 I understand.
 
-**pardon. me no aha te.**
+**maf. me no aha te.**
 Sorry. I don't understand you.
 
 **me no baso aha te.**
 I didn't quite understand you.
 
-**me aha nole.**
+**me aha nol.**
 I don't understand at all.
 
 
 ### abla <small>can</small>
 
-**me abla xofa gare.**
+**me abla xofa gar.**
 I can drive a car.
 
-**le no abla xofa gare.**
+**le no abla xofa gar.**
 He/she doesn't know how to drive a car.
 
-**eska te abla xula le?**
+**eska te abla reibona le?**
 Do you know how to fix it?
 
 **eska te abla pandunia?**
@@ -682,7 +685,7 @@ Please speak louder.
 **me auda musike.**
 I listen to music.
 
-**te auda ki yange du musike?**
+**te auda ki yang du musike?**
 What kind of music do you listen to?
 
 
@@ -709,7 +712,7 @@ What does this word mean?
 **"mau" mena ke?**
 What does "mau" mean?
 
-**le mena yange da hevan.**
+**le mena yang da hevan.**
 It means a kind of animal.
 
 **me no aha le mena ke.**
@@ -727,11 +730,11 @@ Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
 
-**eska tote abla baxa pandunia.**
-Can you speak Pandunia?
+**eska tote baxa pandunia.**
+Do you speak Pandunia?
 
-**mome abla baxa pandunia.**
-We can speak Pandunia.
+**mome baxa pandunia.**
+We speak Pandunia.
 
 **eska te abla baxa engli?**
 Can you speak English?
@@ -742,33 +745,33 @@ French, Spanish, Portuguese, Russian
 **cini, niponi, indonesi**
 Chinese, Japanese, Indonesian
 
-**arabi, turki, farsi, urdu, hindi**
+**arabi, turki, farsi, urdi, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
-**suahili, hausa, yoruba, amari**
+**suahili, hausi, yorubi, amari**
 Swahili, Hausa, Yoruba, Amharic
 
 
 ## Part 4. Going around
 
-### gowa <small>to go</small>
+### gova <small>to go</small>
 
-**te gowa ke?**
+**te gova ke?**
 Where are you going?
 
-**me gowa dom.**
+**me gova dom.**
 I'm going home.
 
-**me musu gowa ke?**
+**me musu gova ke?**
 Where should I go?
 
-**me musu gowa pa ki ren?**
+**me musu gova pa ki ren?**
 To whom should I go?
 
-**haida gowa!**
+**haida gova!**
 Let's go!
 
-**haida gowa va fute**
+**haida gova va fute**
 Let's go by foot!
 
 
@@ -780,7 +783,7 @@ Come here!
 **te laya ja ke?**
 Where do you come from?
 
-**me laya ja Dubay.**
+**me laya ja Dubai.**
 I come from Dubai.
 
 **me laya dom badodeno.**
@@ -795,7 +798,7 @@ Do you travel by train?
 **mome safara ja London pa Paris.**
 We travel from London to Paris.
 
-**safar multo longi.**
+**safar polo longi.**
 The voyage is very long.
 
 
@@ -804,7 +807,7 @@ The voyage is very long.
 **hotel va ke?**
 Where is the hotel?
 
-**hotel va di daw.**
+**hotel va di dau.**
 The hotel is on that road.
 
 **te va ke?**
@@ -833,7 +836,7 @@ Where do you live?
 **me doma Singapur.**
 I live in Singapore.
 
-**eska te doma yi hotel?**
+**eska te doma di hotel?**
 Do you live in this hotel?
 
 Tip: It is also okay to say **te doma va ke?** instead of **te doma ke**.
