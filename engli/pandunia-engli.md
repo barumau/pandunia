@@ -379,6 +379,8 @@ bil - bill (invoice)
 bilor - crystal  
 bin - building (structure)  
 bina - build (construct)  
+binplania - architecture  
+binplaner - architect  
 binde - dot (spot)  
 bir - beer  
 birkan - bar (pub, beer house)  
@@ -1737,6 +1739,7 @@ kim - substance (physical material from which something is made)
 kimi - chemical  
 kimem - chemical element  
 kimlojia - chemistry  
+kimonou - kimono  
 kin - movement  
 kina - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
 kini - kinetic  
@@ -2086,6 +2089,7 @@ lugomelon - honeydew (green melon)
 Luksemburge - Luxembourg  
 lul - pearl  
 lun - moon  
+lunkeke - mooncake  
 lung - dragon  
 lusun - asparagus  
 luta - rob (loot, plunder, pillage, ransack)  
@@ -2868,7 +2872,7 @@ purfina - complete (make done)
 purfityamiste - vegan  
 purfityamistia - veganism  
 purxipa - soak (steep, marinate)  
-pute - child (son or daughter)  
+pute - child (offspring)  
 putau - grape  
 putavoranje - grapefruit  
 Putong Cini - Mandarin Chinese (Putonghua)  
@@ -2960,6 +2964,7 @@ rim - rhyme (verse)
 ring - ring  
 ringar - ring (sports or exhibition arena)  
 ris - rice  
+risvin - rice wine  
 riske - risk  
 riski - risky  
 rite - custom (tradition, practice, convention)  
@@ -3058,8 +3063,8 @@ salam cute - farewell
 salam den - Good day  
 salam yam - bon appetit!  
 salam lai - welcome!  
+salam suar - Good evening  
 salam sube - Good morning  
-salam xam - Good evening  
 salama - greet  
 salame - greeting (hello)  
 salmon - salmon (trout)  

@@ -82,6 +82,8 @@ arachnofobia - aranfobia
 arboretum - mokojongoparke  
 arbuz - arbuze  
 archipelag - nesia  
+architekt - binplaner  
+architektura - binplania  
 Argentyna - Argentina  
 argon - argon  
 argument - argum  
@@ -463,7 +465,7 @@ dobry - boni
 dobry ... - salam (salami)  
 dobry los, szczęście - boni zar  
 dobry ranek - salam sube  
-dobry wieczór - salam xam  
+dobry wieczór - salam suar  
 dodatkowy - maxboni  
 dodatkowy - maxi  
 doktor (uczony, który osiągnął doktorat) - dotor  
@@ -1057,6 +1059,7 @@ kiełbasa - sosis
 kilof - pincope  
 kilogram (kg) - kilogram  
 kilometr - kilomitre  
+kimono - kimonou  
 kinematografia - kingrafia  
 kino - kingraf  
 kinowy - kingrafi  

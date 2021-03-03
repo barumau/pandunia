@@ -164,6 +164,8 @@ arboretum - mokojongoparke
 archer - arker  
 archery - arkeria  
 archipelago - nesia  
+architect - binplaner  
+architecture - binplania  
 Arctic - Artike  
 Arctic Ocean - Artiki Hai  
 area (extent of surface) - ar  
@@ -627,7 +629,7 @@ chicken - kokode
 chickpea - humus  
 chief (boss) - xef  
 child (minor) - bace  
-child (son or daughter) - pute  
+child (offspring) - pute  
 Chile - Cile  
 chimpanzee - cimpanze  
 China - Junguo  
@@ -1414,7 +1416,7 @@ goniometer - gonmetrer
 good (in greetings) - salam (salami)  
 good - boni  
 Good day - salam den  
-Good evening - salam xam  
+Good evening - salam suar  
 good luck - boni zar  
 Good morning - salam sube  
 gorilla - goril  
@@ -1771,6 +1773,7 @@ kill - morta
 killer - morter  
 kilogram (kg) - kilogram  
 kilometer (km) - kilomitre  
+kimono - kimonou  
 kind (style, sort, type) - yang  
 kinetic - kini  
 king - mani rajer  
@@ -2155,6 +2158,7 @@ month - mes
 monument (memorial) - membin  
 mood (emotional state) - emoshal  
 moon - lun  
+mooncake - lunkeke  
 moral - darmi  
 morality (ethics) - darme  
 more - max (maxo)  
@@ -2834,6 +2838,7 @@ rhyme (verse) - rim
 rhythm (beat) - ritim  
 rib cage - sinkapse  
 rice - ris  
+rice wine - risvin  
 rich - rici  
 right (correct, accurate) - sahi  
 right (entitlement) - hake  

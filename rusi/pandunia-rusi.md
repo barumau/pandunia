@@ -148,6 +148,8 @@ bete - свёкла
 bil - счёт  
 bilor - кристалл  
 bina - строить  
+binplania - архитектура  
+binplaner - архитектор  
 bir - пиво  
 biu - организм  
 bivi - органический  
@@ -462,6 +464,7 @@ yohani feste - Иванов день
 yoke - ярмо (иго)  
 yom - сутки  
 ironia - ирония  
+islamistia - ислам (мусульманство)  
 itis - воспаление  
 ivia - тенденция  
 yumor - юмор  
@@ -553,6 +556,7 @@ kenarbaryer - забор (ограда)
 kim - вещество  
 kimem - химический элемент  
 kimlojia - химия  
+kimonou - кимоно  
 kina - двигать  
 kinu - двигаться  
 kingraf - фильм (кино)  
@@ -671,6 +675,7 @@ lontre - выдра
 lova - протекать (просочиться)  
 lugi - зелёный  
 lun - луна  
+lunkeke - лунный пирог  
 luter - грабитель  
 ####M - M  
 me - я  
@@ -921,6 +926,7 @@ retroguli sense - тошнота
 rim - рифма  
 ringar - ринг (манеж)  
 ris - рис  
+risvin - рисовое вино  
 ritim - ритм (такт)  
 robote - робот  
 roketolancer - ракетная установка  

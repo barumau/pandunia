@@ -130,6 +130,8 @@ arboretum (puulajipuisto) - mokojongoparke
 Argentiina - Argentina  
 argon - argon  
 Ariel - Ariel  
+arkkitehti - binplaner  
+arkkitehtuuri - binplania  
 Arktis - Artike  
 armeija (sotajoukko) - gun  
 Armenia - Hayakia  
@@ -647,7 +649,7 @@ hyvä onni (tuuri, säkä, lykky) - boni zar
 hyväksyntä - okei  
 hyväksyä - okeya  
 hyvännäköinen (kaunis, komea) - bonvidi  
-Hyvää iltaa - salam xam  
+Hyvää iltaa - salam suar  
 hyvää lupaava - bonsinyi  
 hyvää matkaa - salam cute  
 hyvää ruokahalua! - salam yam  
@@ -1059,6 +1061,7 @@ kilistää (soittaa kelloa) - danga
 kilogramma - kilogram  
 kilometri - kilomitre  
 kilpikonna - tortuge  
+kimono - kimonou  
 kineettinen (liike-) - kini  
 Kinshasa - Kinxasa  
 Kinshasan Kongo - Kinxasa Kongo  
@@ -1231,6 +1234,7 @@ kutoa kangasta - texa
 kutomakone - texmaxin  
 kuu - lun  
 Kuuba - Kuba  
+kuukakku - lunkeke  
 kuukausi - mes  
 kuulla (kuunnella) - auda  
 kuulua (olla jkn hallussa) - tenu  
@@ -2302,6 +2306,7 @@ rhenium - renem
 rhodium - rodem  
 riippumatto - hamake  
 riisi - ris  
+riisiviina - risvin  
 riita (kiista) - palabe  
 rikas - rici  
 rikki (palasina) - parci  

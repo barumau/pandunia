@@ -282,6 +282,8 @@ berje - bouleau
 bete - betterave  
 bilor - cristal  
 bina - construire  
+binplania - architecture  
+binplaner - architecte  
 bir - bière  
 biu - organisme  
 biucaniver - compost  
@@ -599,6 +601,8 @@ yongu - melt
 yongopetre - lave  
 yongosaha - fondu  
 ironia - ironie  
+islam - soumission  
+islamistia - Islam  
 itis - inflammation  
 iva - avoir tendance à  
 ivia - tendance  
@@ -695,6 +699,7 @@ kerne - coeur
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
+kimonou - kimono  
 kina - mouvoir (bouger)  
 kinu - se mouvoir  
 Kinxasa - Kinshasa  
@@ -811,6 +816,7 @@ longopipre - poivre long
 lontre - loutre  
 lugi - vert  
 lun - lune  
+lunkeke - gâteau de lune  
 luter - brigand (bandit)  
 ####M - M  
 me - je (me)  
@@ -1069,6 +1075,7 @@ rim - rime
 ring - anneau  
 ringar - ring (manège)  
 ris - riz  
+risvin - vin de riz  
 ritim - rhythme  
 robote - robot  
 roketolancer - Lance-roquettes  

@@ -66,6 +66,8 @@ arma de fogo - pau
 armadilha - kapotruke  
 armadura - defkaske  
 armário - almar  
+arquiteto - binplaner  
+arquitetura - binplania  
 arrastar - tova  
 arroz - ris  
 arte - arte  
@@ -125,6 +127,7 @@ bilíngue - dulbaxi
 biología - biulojia  
 bioma - biusistem  
 bola - bol  
+bolo lunar - lunkeke  
 bom - boni  
 bomba - bombe  
 bombordo - naulefte  
@@ -493,6 +496,7 @@ invernal (hibernal) - lengomosimi
 inverno - lengomosim  
 ir - kitu  
 ironia - ironia  
+islã - islamistia  
 item - vute  
 ####J - J  
 jade - giuke  
@@ -816,6 +820,7 @@ querer (desejar) - volu
 querido (caro) - ami  
 querido - amike  
 questão (pergunta) - eske  
+quimono - kimonou  
 quincã (cunquate) - kankuate  
 quinta-feira - caryom  
 quivi - kivi\*  

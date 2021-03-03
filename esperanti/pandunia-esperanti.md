@@ -214,6 +214,8 @@ beton - betono
 bibli - biblia  
 biblia - Biblio  
 bina - konstrui  
+binplania - arĥitekturo  
+binplaner - arĥitekto  
 binde - punkto  
 bir - biero  
 birkan - drinkejo  
@@ -924,6 +926,7 @@ kexosabun - ŝampuo
 kilomitre - kilometro  
 kimem - kemia elemento  
 kimlojia - ĥemio (kemio)  
+kimonou - kimono  
 kina - movi  
 kinu - moviĝi  
 kitu - iri  
@@ -1477,8 +1480,8 @@ salam cute - bonan vojaĝon
 salam den - Bonan tagon  
 salam yam - bonan apetiton!  
 salam lai - bonvenon!  
+salam suar - Bonan vesperon  
 salam sube - Bonan matenon!  
-salam xam - Bonan vesperon  
 salama - saluti  
 salame - saluto  
 sami - sama  

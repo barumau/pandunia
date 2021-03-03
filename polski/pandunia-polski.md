@@ -343,6 +343,8 @@ bil - rachunek (faktura)
 bilor - kryształ  
 bin - budynek (struktura)  
 bina - zbudować, budować, konstruować  
+binplania - architektura  
+binplaner - architekt  
 binde - punkt  
 bir - piwo  
 birkan - bar, knajpa  
@@ -1604,6 +1606,7 @@ kilogram - kilogram (kg)
 kilomitre - kilometr  
 kimi - chemiczny  
 kimlojia - chemia  
+kimonou - kimono  
 kin - ruch  
 kina - ruszać, przenościć, zmieniać miejsce, inspirować  
 kini - ruchowy, kinetyczny  
@@ -2858,8 +2861,8 @@ salam cute - żegnaj, dobre odejście
 salam den - dzień dobry  
 salam yam - smacznego  
 salam lai - witaj, dobre przybycie  
+salam suar - dobry wieczór  
 salam sube - dobry ranek  
-salam xam - dobry wieczór  
 salama - pozdrowić, pozdrawiać  
 salame - pozdrowienie  
 salmon - łosoś (pstrąg)  

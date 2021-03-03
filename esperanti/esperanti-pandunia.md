@@ -104,6 +104,8 @@ artefarita lingvo - canbax
 artisto - artiste  
 arto - arte  
 arĝento - argente  
+arĥitekto - binplaner  
+arĥitekturo - binplania  
 ascetiko - askete  
 aspekto - rupe  
 aspirino - aspirin  
@@ -213,7 +215,7 @@ bona - boni
 bonan apetiton! - salam yam  
 Bonan matenon! - salam sube  
 Bonan tagon - salam den  
-Bonan vesperon - salam xam  
+Bonan vesperon - salam suar  
 bonan vojaĝon - salam cute  
 bonaspekta - bonvidi  
 bonega (mojosa) - kuli  
@@ -747,6 +749,7 @@ kiam? - ki sate
 kie - va ke  
 kiel? - ko?  
 kilometro - kilomitre  
+kimono - kimonou  
 kio? - ke  
 kio? - ki xei  
 kiom? - ko multo  

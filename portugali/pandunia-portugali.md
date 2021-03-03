@@ -135,6 +135,8 @@ berande - sacada (varanda)
 berje - bétula  
 bilor - cristal  
 bina - construir  
+binplania - arquitetura  
+binplaner - arquiteto  
 bir - cerveja  
 biu - organismo  
 biulojia - biología  
@@ -408,6 +410,7 @@ insanistia - humanismo
 yoke - jugo  
 yongu - derretre  
 ironia - ironia  
+islamistia - islã  
 itis - inflamaçao  
 iva - tender  
 ivia - tendência  
@@ -497,6 +500,7 @@ kerne - núcleo (cerne)
 kim - substância  
 kimem - elemento químico  
 kimlojia - química  
+kimonou - quimono  
 kina - mover  
 kinu - Mover-se  
 kita - remover  
@@ -608,6 +612,7 @@ lontre - lontra
 lova - vazar  
 lugi - verde  
 lun - lua  
+lunkeke - bolo lunar  
 luter - ladrão  
 ####M - M  
 me - eu (me)  

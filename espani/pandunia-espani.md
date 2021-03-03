@@ -345,6 +345,8 @@ biblia - Biblia
 bil - cuenta (factura)  
 bilor - cristal  
 bina - construir (edificar)  
+binplania - arquitectura  
+binplaner - arquitecto  
 binde - punto (lunar)  
 bir - cerveza (birra)  
 birkan - bar (pub)  
@@ -1339,7 +1341,7 @@ islamfobia - islamofobia
 islamiste - musulmán  
 islamisti - islámico  
 islamisti xaria - sharía  
-islamistia - Islam  
+islamistia - islamismo (islam)  
 Islandia - Islandia  
 Israel - Israel  
 iste - proponente (defensor, -ista)  
@@ -1601,6 +1603,7 @@ kim - sustancia
 kimi - químico  
 kimem - elemento químico  
 kimlojia - química  
+kimonou - quimono  
 kin - movimiento  
 kina - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
 kini - cinético  
@@ -1918,6 +1921,7 @@ lugomelon - melón verde
 Luksemburge - Luxemburgo  
 lul - perla  
 lun - luna  
+lunkeke - pastel de luna  
 lung - dragón  
 lusun - espárrago  
 luta - saquear (desvalijar, robar)  
@@ -2836,8 +2840,8 @@ salam cute - adiós
 salam den - buenas tardes  
 salam yam - buen provecho  
 salam lai - bienvenido  
+salam suar - buenas noches  
 salam sube - buenos días  
-salam xam - buenas noches  
 salama - saludar  
 salame - saludo  
 salmon - salmón (trucha)  

@@ -353,6 +353,8 @@ biblia - Raamattu
 bil - lasku (faktuura)  
 bin - rakennus (rakenne)  
 bina - rakentaa  
+binplania - arkkitehtuuri  
+binplaner - arkkitehti  
 binde - täplä (läiskä)  
 bir - olut (kalja)  
 birkan - baari (kapakka)  
@@ -1576,6 +1578,7 @@ kim - aine (aines, materia)
 kimi - kemikaali  
 kimem - alkuaine  
 kimlojia - kemia  
+kimonou - kimono  
 kin - liike  
 kina - liikuttaa (innoittaa)  
 kinu - liikkua  
@@ -1864,6 +1867,7 @@ lugi - vihreä
 Luksemburge - Luxemburg  
 lul - helmi  
 lun - kuu  
+lunkeke - kuukakku  
 lung - itämainen lohikäärme  
 lusun - parsa  
 luta - ryöstää (ryövätä)  
@@ -2602,6 +2606,7 @@ rim - säe (riimi)
 ring - rengas (kehä)  
 ringar - kehä (ottelualue)  
 ris - riisi  
+risvin - riisiviina  
 riske - riski  
 riski - riskialtis  
 rite - tapa (perinne)  
@@ -2689,8 +2694,8 @@ salam cute - hyvää matkaa
 salam den - päivää!  
 salam yam - hyvää ruokahalua!  
 salam lai - tervetuloa!  
+salam suar - Hyvää iltaa  
 salam sube - Huomenta!  
-salam xam - Hyvää iltaa  
 salama - tervehtiä  
 salame - tervehdys (terve!)  
 Salon - Sierra Leone  

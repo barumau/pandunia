@@ -381,6 +381,8 @@ bil:|bil|||eng:bill, hin:बिल (bil), may:bil|bill (invoice)||cuenta (factu
 bilor:|bilor|||ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|crystal|cristal|cristal|cristal|кристалл|||結晶||||||||||kryształ
 bin:|bin||||building (structure)||||||||||||||||rakennus (rakenne)|budynek (struktura)
 bin:a|bina|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|build (construct)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
+bin.plan:ia|binplania||||architecture|architecture|arquitectura|arquitetura|архитектура|هَنْدَسَة مِعْمَارِيَّة‎|建筑学|建築学|건축학|kiến trúc|वास्तुकला||seni bina|ujenzi|mimarlık|arĥitekturo|arkkitehtuuri|architektura
+bin.plan.er:|binplaner||||architect|architecte|arquitecto|arquiteto|архитектор|مِعْمَارِيّ‎|建筑师|建築家|건축가|kiến trúc sư|वास्तुकार|স্থপতি|arkitek (jurubina)||mimar|arĥitekto|arkkitehti|architekt
 bind:e|binde|||hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|dot (spot)||punto (lunar)|||||||||||||punkto|täplä (läiskä)|punkt
 bir:|bir|||eng:beer, tur:bira, fra:bière, ara: بيرة (bīra), may:bir, hin:बियर (biyar), swa:bia, zho:啤(酒) pí(jiǔ), jpn:ビール (bīru)|beer|bière|cerveza (birra)|cerveja|пиво|بيرة|啤酒|ビール|||बियर||bir|bia||biero|olut (kalja)|piwo
 bir.kan:|birkan|||eng:bar, hin:बार (bār), spa:bar, zho:酒吧 (jiǔbā), rus:бар (bar)|bar (pub, beer house)||bar (pub)|||||||||||||drinkejo|baari (kapakka)|bar, knajpa
@@ -1457,13 +1459,13 @@ Iran:|Iran|dex|IR||Iran||Irán|||||||||||||Iranio|Iran|Iran
 irid.em:|iridem|mate|Ir||iridium||iridio|||||||||||||iridio|iridium|iryd
 iron:i|ironi||||ironic||irónico|||||反語的||||||||||ironiczny
 iron:ia|ironia|||eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|irony|ironie|ironía|ironia|ирония|||反語 (皮肉)||||||||||ironia
-islam:|islam|||ara:(ʾislām), fas:(taslim), tur:teslim|submission (surrender)||sumisión (rendición)||||||||||||||alistuminen (antautuminen)|poddanie się, uległość, pokora, posłuszeństwo
+islam:|islam|||ara:(ʾislām), fas:(taslim), tur:teslim|submission (surrender)|soumission|sumisión (rendición)||||||||||||||alistuminen (antautuminen)|poddanie się, uległość, pokora, posłuszeństwo
 islam:u|islamu||||surrender (submit, yield)||someterse (rendirse, ceder)||||||||||||||alistua (antautua)|poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym
 islam.fob:ia|islamfobia||||islamophobia||islamofobia||||||||||||||islamofobia (islamin pelko)|islamofobia
 islam.ist:e|islamiste||||muslim (moslem)||musulmán||||||||||||||muslimi (islaminuskoinen)|muzułman, muzułmanin
 islam.ist:i|islamisti||||Islamic||islámico|||||||||||||islama|islamilainen|islamski
 islam.ist:i xar:ia|islamisti xaria||||shari'a||sharía|||||||||||||ŝario|šaria|szariat
-islam.ist:ia|islamistia||||Islam||Islam|||||||||||||islamo|islam|Islam
+islam.ist:ia|islamistia||||Islam|Islam|islamismo (islam)|islã|ислам (мусульманство)|الْإِسْلَام|回教 (伊斯蘭教)|イスラム教|이슬람교 (회교)|Islam giáo (Hồi giáo)|इस्लाम|ইসলাম|agama Islam|Uislamu|İslam|islamo|islam|Islam
 Island:ia|Islandia|dex|IS||Iceland||Islandia|||||||||||||Islando|Islanti|Islandia
 Israel:|Israel|dex|IL||Israel||Israel|||||||||||||Israelo|Israel|Izrael
 ist:e|iste|||eng:deu:tur:-ist, fra:-iste, spa:por:-ista, rus:-ист (-ist)|proponent (supporter, activist, -ist)||proponente (defensor, -ista)|||||||||||||isto de ismo|aatteen kannattaja|przyrostek dla wsperającego ideę
@@ -1744,6 +1746,7 @@ kim:|kim|||eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya),
 kim:i|kimi||||chemical||químico||||||||||||||kemikaali|chemiczny
 kim.em:|kimem||||chemical element|élément chimique|elemento químico|elemento químico|химический элемент||元素|元素|원소|nguyên tố|रासायनिक तत्व||unsur kimia||kimyasal element|kemia elemento|alkuaine|
 kim.loj:ia|kimlojia||||chemistry|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|ĥemio (kemio)|kemia|chemia
+kimonou:|kimonou||||kimono|kimono|quimono|quimono|кимоно||和服|着物|기모노|kimono||||||kimono|kimono|kimono
 kin:|kin||||movement||movimiento||||||||||||||liike|ruch
 kin:a|kina||||move (transfer, shift, stir, budge, rouse, motivate, inspire)|mouvoir (bouger)|mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)|mover|двигать||动|動かす|이동시키다|||||||movi|liikuttaa (innoittaa)|ruszać, przenościć, zmieniać miejsce, inspirować
 kin:i|kini|||eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|kinetic||cinético||||||||||||||kineettinen (liike-)|ruchowy, kinetyczny
@@ -2094,6 +2097,7 @@ lug.o.melon:|lugomelon|biv|Cucumis melo, Inodorus||honeydew (green melon)||meló
 Luksemburg:e|Luksemburge|dex|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 lul:|lul|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
 lun:|lun|planete 3 lune 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
+lun.kek:e|lunkeke||||mooncake|gâteau de lune|pastel de luna|bolo lunar|лунный пирог|كَعْكَة اَلْقَمَر‎|月饼|月餅|월병||||kue bulan||ay keki||kuukakku|
 lung:|lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok
 lusun:|lusun|biv||zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)|asparagus||espárrago||||||||||||||parsa|szparag; szparagia
 lut:a|luta|||hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|rob (loot, plunder, pillage, ransack)||saquear (desvalijar, robar)||||掠夺|||||||||rabi|ryöstää (ryövätä)|obrabować, splądrować
@@ -2879,7 +2883,7 @@ pur.fin:a|purfina||||complete (make done)|accomplir (terminer)|completar (termin
 pur.fit.iam.ist:e|purfityamiste||||vegan||vegano|vegetalista|веган||纯素食主义者|絶対菜食主義者 (ヴィーガン)|비건||||vegan||||vegaani|weganin (weganka)
 pur.fit.iam.ist:ia|purfityamistia||||veganism||veganismo|||||ヴィーガニズム|비거니즘||वीगनवाद||||veganlık|||
 pur.xip:a|purxipa||||soak (steep, marinate)|tremper (faire mariner)|remojar (marinar, encurtir, macerar)|ensopar (encharcar, marinar)|мариновать||浸泡|漬ける (締める)|||भिगोना|||||||namoczyć (marynować)
-put:e|pute|||tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|child (son or daughter)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
+put:e|pute|||tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
 putau:|putau|biv||zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào|grape||uva|||||||||||||vinbero|viinirypäle|winogrono
 putau.oranj:e|putavoranje|biv|Citrus × paradisi|eng:grapefruit, zho:葡萄柚|grapefruit|pamplemousse|pomelo (toronja)|toranja|грейпфрут||葡萄柚|グレープフルーツ|||चकोतरा||limau gedang|||||grejpfrut
 Putong: Cin:i|Putong Cini||||Mandarin Chinese (Putonghua)||chino mandarín|||||||||||||mandarinĉina|yleiskiina (mandariinikiina)|mandaryński chiński, Putonghua
@@ -2971,6 +2975,7 @@ rim:|rim|||spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|rhyme (verse)|ri
 ring:|ring|||eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|ring|anneau|anillo|anel|||环 (轮)|輪|고리|vòng|||cincin (ring)||halka||rengas (kehä)|pierścień
 ring.ar:|ringar||||ring (sports or exhibition arena)|ring (manège)|ring|ringue|ринг (манеж)||擂台|リング|링||रिंग||||||kehä (ottelualue)|
 ris:|ris|||tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|rice|riz|arroz|arroz|рис||米|米 (ご飯)|||चावल||nasi (padi)|||rizo|riisi|ryż
+ris.uin:|risvin||||rice wine|vin de riz|||рисовое вино||黄酒 (米酒)||청주 (미주)||||||||riisiviina|
 risk:e|riske|||fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|risk||riesgo|||||||||||||risko|riski|ryzyko
 risk:i|riski||||risky||arriesgado|||||||||||||riska|riskialtis|ryzykowny
 rit:e|rite|||hin:रीति (rīti), ben:রীতি (rīti) + eng:fra:rite, spa:por:rito|custom (tradition, practice, convention)||costumbre (tradición, convención)||||||||रीति (रिवाज, रस्म)|রীতি|||||tapa (perinne)|obyczaj, zwyczaj, tradycja, praktyka, konwencja
@@ -3070,8 +3075,8 @@ salam: cut:e|salam cute||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää m
 salam: den:|salam den||||Good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
 salam: iam:|salam yam||||bon appetit!||buen provecho|||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
 salam: lai:|salam lai||||welcome!||bienvenido|||||||||||||bonvenon!|tervetuloa!|witaj, dobre przybycie
+salam: suar:|salam suar||||Good evening||buenas noches|||||||||||||Bonan vesperon|Hyvää iltaa|dobry wieczór
 salam: sub:e|salam sube||||Good morning||buenos días|||||||||||||Bonan matenon!|Huomenta!|dobry ranek
-salam: xam:|salam xam||||Good evening||buenas noches|||||||||||||Bonan vesperon|Hyvää iltaa|dobry wieczór
 salam:a|salama||||greet||saludar|||||||||||||saluti|tervehtiä|pozdrowić, pozdrawiać
 salam:e|salame|||ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|greeting (hello)|salut (salam)|saludo|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluto|tervehdys (terve!)|pozdrowienie
 salmon:|salmon|biv||eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|salmon (trout)|truite|salmón (trucha)|||||鮭鱒|||||ikan salmon (ikan trout)|samoni||||łosoś (pstrąg)

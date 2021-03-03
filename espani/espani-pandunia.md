@@ -232,6 +232,8 @@ armonioso - harmoni
 armonía - harmonia  
 arnés (arreos, jaeces) - harnes  
 arquero - arker  
+arquitecto - binplaner  
+arquitectura - binplania  
 arrastrar - tova  
 arreglo - reibon  
 arriesgado - riski  
@@ -437,7 +439,7 @@ budista - budiste
 buen (hola) - salam (salami)  
 buen provecho - salam yam  
 buena suerte - boni zar  
-buenas noches - salam xam  
+buenas noches - salam suar  
 buenas tardes - salam den  
 bueno - boni  
 buenos días - salam sube  
@@ -1732,7 +1734,7 @@ Isla de Man - Manin nes
 Isla de San Vicente - Santi Vinsente  
 Isla Norfolk - Norfolke nes  
 Isla Santa Elena - Santi Helena  
-Islam - islamistia  
+islamismo (islam) - islamistia  
 islamofobia - islamfobia  
 Islandia - Islandia  
 islas Aland - Olandi nesia  
@@ -2486,6 +2488,7 @@ paso elevado - supre
 pasta - paste  
 pastel (galleta) - keke  
 pastel (pay) - pai  
+pastel de luna - lunkeke  
 pato - bate  
 patología - patolojia  
 patrimonio (herencia, legado) - varis  
@@ -2767,6 +2770,7 @@ querubín - kerube
 queso - cize  
 queso fresco - panir  
 quilate - kirate  
+quimono - kimonou  
 quiosco (kiosco) - kioske  
 quitar (eliminar, borrar) - anzaya  
 quitar (pelar) - tira pil  

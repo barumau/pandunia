@@ -105,6 +105,8 @@ arbre - moke
 arc - arke  
 arc-en-ciel - rangarke  
 archer - arker  
+architecte - binplaner  
+architecture - binplania  
 arctique - Artike  
 argent - argente  
 argent - pes  
@@ -574,6 +576,7 @@ guide - gider
 guide touristique - gidobuke  
 guider - gida  
 guitare - gitar  
+gâteau de lune - lunkeke  
 génotype - jentipe  
 généralissime - gunrajer  
 généreux - donivi  
@@ -635,6 +638,7 @@ inutile - anyavi
 inverse (négatif, in-) - ani  
 Irland - Aire  
 ironie - ironia  
+Islam - islamistia  
 ####J - J  
 jade - giuke  
 Japon - Nipon  
@@ -656,6 +660,7 @@ Jésus - Yesus
 ####K - K  
 kangourou - kangaru\*  
 Khartoum - Hartum  
+kimono - kimonou  
 Kinshasa - Kinxasa  
 kiwi - kivi\*  
 kumquat - kankuate  
@@ -1123,6 +1128,7 @@ sommeil - som
 son (sa) - si  
 son - son  
 soumettre - karmisa  
+soumission - islam  
 squelette - ostojamia  
 substance - kim  
 sucre - xukar  
@@ -1237,6 +1243,7 @@ vieux (ancien) - ceniki
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
 ville - site  
+vin de riz - risvin  
 violet (pourpre) - viyoleti  
 virus - virus  
 visage - muke  

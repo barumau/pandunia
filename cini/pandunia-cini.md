@@ -137,6 +137,8 @@ berje - 桦树
 bete - 甜菜頭  
 bil - 帐单  
 bina - 建设  
+binplania - 建筑学  
+binplaner - 建筑师  
 bir - 啤酒  
 biu - 生物  
 bivi jinse - 生物性別  
@@ -419,6 +421,7 @@ yomsete - 週
 yongu - 融化  
 yongopetre - 熔岩  
 yongosaha - 熔炼  
+islamistia - 回教 (伊斯蘭教)  
 itis - 炎症  
 ivia - 趋势  
 ####J - J  
@@ -508,6 +511,7 @@ kerne - 核心
 kim - 物质  
 kimem - 元素  
 kimlojia - 化学  
+kimonou - 和服  
 kina - 动  
 kinu - 动  
 kita - 除去  
@@ -616,6 +620,7 @@ longopipre - 荜拔
 lontre - 獭  
 lova - 漏  
 lugi - 绿色  
+lunkeke - 月饼  
 lung - 龙  
 luta - 掠夺  
 luter - 强盗  
@@ -829,6 +834,7 @@ retrotikete - 往返票
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
+risvin - 黄酒 (米酒)  
 ritim - 节奏  
 roketolancer - 火箭筒  
 Roma - 罗马  
