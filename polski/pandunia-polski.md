@@ -360,6 +360,7 @@ biulojia - biologia (nauka o życiu)
 biumuti - sfermentowany  
 biumutu - fermentować  
 biusistem - biom  
+biutokse - toksyna  
 bizari - dziwny  
 biznes - biznes, interes (aktywność komercyjna)  
 bizneser - osoba biznesu, biznesman  
@@ -1029,8 +1030,6 @@ geter - odbiorca
 geu - ziemia, grunt, gleba  
 geudou - orzech ziemny  
 geuforme - teren  
-geugraf - mapa  
-geugrafia - kartografia  
 geugunia - wosko lądowe (armia)  
 geukaski krake - uskok  
 geukaski plate - płyta tektoniczna  
@@ -1184,9 +1183,6 @@ hemah - namiot
 hen - nienawidzić  
 herze - herc  
 hesem - has  
-hevan - animal  
-hevanjenitia - hodowla zwierząt  
-hevanparke - zoo (ogród zoologiczny)  
 hiar - ogórek  
 hibride - hybryda; kundel  
 hidre - wodór  
@@ -2093,6 +2089,8 @@ metaljanger - kowal
 metode - metoda, sposób  
 metra - zmierzyć  
 metre - miara  
+metrograf - mapa  
+metrografia - kartografia  
 metrun - jednostka miary  
 Mexiko - Meksyk  
 Mexiko site - Meksyk  
@@ -3548,6 +3546,11 @@ zon - pas, strefa
 zong - słup (pal, kołek)  
 zonga - nabić (przebić, dźgnąć)  
 zongominte - mięta zielona (mięta kłosowa)  
+zou - animal  
+zoujenitia - hodowla zwierząt  
+zouloji - zoologiczny  
+zoulojia - zoologia  
+zouparke - zoo (ogród zoologiczny)  
 zuke - grupa etniczna  
 zuki - etniczny  
 zukomedi - międzyetniczny  

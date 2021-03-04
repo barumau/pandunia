@@ -398,7 +398,6 @@
 |**genca**|tutkia|yleiskiina:检查 (jiǎnchá), kantoninkiina:檢查 (gimcaa), vietnami:kiểm tra, jpn,検査 (kensa)|
 |**geta**|hankkia (saada)|englanti:get|
 |**geu**|maa (maaperä)|englanti:espanja:portugali:geo-, ranska:géo-, venäjä:гео- (geo-)|
-|**geugraf**|kartta|yleiskiina:地图 (dìtú), kantoninkiina:地圖 (dei6 tou4), japani:地図 (chizu), korea:지도 (jido), vietnami:địa đồ, hindi:मानचित्र (māncitra), bangla: মানচিত্র (mancitr)|
 |**geyi**|homo (homoseksuaali)|englanti:ranska:espanja:gay, portugali:guei|
 |**gida**|opastaa (ohjata)|englanti:ranska:guide, espanja:guía, portugali:guia, venäjä:гид  (gid), japani:ガイド (gaido), korea:가이드 (gaideu) + arabia:قَادَ‎ (qāda)|
 |**giga***|miljardi (giga-)|englanti:ranska:espanja:portugali:malaiji:turkki:giga-, venäjä:гига- (giga-), japani:ギガ (giga), korea:기가- (giga-)|
@@ -465,7 +464,6 @@
 |**hem**|hmm|englanti:hmm, venäjä:хм (hm), эм (em), korea:음 (eum)|
 |**hemah**|teltta|arabia:(xayma), hausa:laima, hindi:ख़ैमा (xEmā), suahili:hema, malaiji:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|viha|yleiskiina:恨 (hèn), kantoninkiina:恨 (han6), wu-kiina:恨 (hhen3), vietnami:hận, japani:嫌 (ken), korea:혐 (hyeom) + ranska:haine|
-|**hevan**|eläin|malaiji:kewan, arabia:(haywān), hindi:हैवान (haivān), turkki:hayvan|
 |**hiar**|kurkku|persia:خیار (xiyâr), turkki:hıyar, arabia:خيار‎ (khiyār), hindi:खीरा (khīrā), bangla:ক্ষীরা (kṣīrā)|
 |**hibride**|risteytys (hybridi)|englanti:hybrid, espanja:portugali:híbrido, ranska:hybride, venäjä:гибрид (gibrid)|
 |**hijabe**|verho (huntu, peite)|arabia:(ḥijāb), persia:(hejâb), suahili:hijabu, hausa:hijabi, hindi:हिजाब (hijāb), bangla:হিজাব (hijab), englanti:portugali:hijab, ranska:hidjab, espanja:hiyab, venäjä:хиджаб (xidžab)|
@@ -792,6 +790,7 @@
 |**metal**|metalli|englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)|
 |**metode**|keino (menetelmä, metodi)|englanti:method, espanja:portugali:método, ranska:méthode, venäjä:ме́тод (métod), turkki:metod, malaiji:metode|
 |**metre**|mitta (koko, määrä)|englanti:meter, hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra|
+|**metrograf**|kartta|hindi:मानचित्र (māncitra), bangla:মানচিত্র (mancitr) + yleiskiina:地图 (dìtú), kantoninkiina:地圖 (dei6 tou4), japani:地図 (chizu), korea:지도 (jido), vietnami:địa đồ|
 |**meze**|pöytä|portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa|
 |**mien**|nuudeli|yleiskiina:面 (miàn), malaiji:mie, japani:麺 (men), thai:หมี่ (mii), khmer:មី (mi)|
 |**migre**|muutto (migraatio)|ranska:englanti:migration, espanja:migración, portugali:migração, venäjä:миграция (migratsiya)|
@@ -1181,7 +1180,7 @@
 |**ting**|pysähdys|yleiskiina:停 (tíng), kantoninkiina:停 (ting4), wu-kiina:停 (din2), vietnami:đình|
 |**tira**|vetää (kiskoa)|espanja:portugali:tirar, ranska:tirer, englanti:tear, turkki:tire|
 |**toca**|koskea (koskettaa)|englanti:touch, espanja: tocar, + hindi: छूना (chūnā), yleiskiina: 触 (chù)|
-|**toksi**|myrkyllinen|englanti:toxic, ranska:toxique, espanja:portugali:tóxico, venäjä:токсичний (toksicniy), malaiji:toksik|
+|**tokse**|myrkky|englanti:toxic, ranska:toxique, espanja:portugali:tóxico, venäjä:токсичний (toksicniy), malaiji:toksik + yleiskiina:毒 (dú), kantoninkiina:毒 (duk6), wu-kiina:毒 (do’), japani:毒 (doku/toku), korea:독 (dok), vietnami:độc|
 |**tolera**|sallia|englanti:tolerate, espanja:portugali:tolerar, ranska:tolérer, deu:tolerieren|
 |**tomate**|tomaatti|englanti:tomato, portugali:espanja:tomate, venäjä:томат (tomat), malaiji:tomat, hindi:टमाटर (ṭamāṭar)|
 |**ton**|sävel (sävy)|englanti:tone, suahili:kitone, venäjä:тон (ton), deu:Ton, espanja:tono|
@@ -1330,6 +1329,7 @@
 |**zoku**|jatkua|wu-kiina:续 (zoq), kantoninkiina:續 (zuk6), japani:続 (zoku), korea:속 (sok), vietnami:kế tục|
 |**zombe**|zombi|Kongo:nzambi, englanti:zombie, espanja:turkki:zombi, portugali:zumbi, venäjä:зомби (zombi), arabia:زُومْبِي‎ (zūmbī), hindi:ज़ोंबी (zombī), japani:ゾンビ (zonbi), korea:좀비 (jombi)|
 |**zon**|vyö|kreikka:ζώνη (zónē), englanti:ranska:zone, espanja:portugali:zona, venäjä:зона (zona)|
+|**zou**|eläin|englanti:ranska:espanja:portugali:malaiji:turkki:zoo-, venäjä:зоо- (zoo-)|
 |**zukam**|vilustuminen|arabia:زُكَام‎ (zukām), persia:زکام‎ (zukâm), hindi:ज़ुकाम (zukāma)|
 |**zuke**|kansanryhmä (etninen ryhmä)|yleiskiina:族 (zú), kantoninkiina:族 (zuk6), japani:族 (zoku), korea:족 (jok), vietnami:tộc|
 |**zumurude**|smaragdi|persia:(zomorrod), turkki:zümrüt, arabia:(zumurrud), malaiji:zamrud, venäjä:изумруд (izumrud), suahili:zumaridi, yleiskiina:祖母绿 (zǔmǔlǜ)|

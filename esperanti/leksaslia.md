@@ -358,7 +358,6 @@
 |**hem**|hm|angla:hmm, rusa:хм (hm), эм (em), korea:음 (eum)|
 |**hemah**|tendo|araba:(xayma), haŭsa:laima, hindia:ख़ैमा (xEmā), svahila:hema, malaja:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|malamo|mandarena:恨 (hèn), kantona:恨 (han6), vua:恨 (hhen3), vjetnama:hận, japana:嫌 (ken), korea:혐 (hyeom) + franca:haine|
-|**hevan**|besto|malaja:kewan, araba:(haywān), hindia:हैवान (haivān), turka:hayvan|
 |**hiar**|kukumo|persa:خیار (xiyâr), turka:hıyar, araba:خيار‎ (khiyār), hindia:खीरा (khīrā), bengala:ক্ষীরা (kṣīrā)|
 |**hibride**|miksulo|angla:hybrid, hispana:portugala:híbrido, franca:hybride, rusa:гибрид (gibrid)|
 |**him**|neĝo|hindia:हिमपात (himpāt), taja:หิมะ (hima), teluga:(himamu)|
@@ -895,5 +894,6 @@
 |**zinje**|zingibro|tamila:இஞ்சி (inji), angla:ginger, araba:(zanjabīl), turka:zencefil, franca:gingembre|
 |**zir**|kumino|bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán)|
 |**zon**|zono|greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)|
+|**zou**|besto|angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-)|
 |**zuke**|etno|mandarena:族 (zú), kantona:族 (zuk6), japana:族 (zoku), korea:족 (jok), vjetnama:tộc|
 |**zumurude**|smeraldo|persa:(zomorrod), turka:zümrüt, araba:(zumurrud), malaja:zamrud, rusa:изумруд (izumrud), svahila:zumaridi, mandarena:祖母绿 (zǔmǔlǜ)|

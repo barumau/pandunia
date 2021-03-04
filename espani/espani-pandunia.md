@@ -179,7 +179,7 @@ Angola - Angola
 anillo (sortija) - ungloring  
 anillo - ring  
 animación (dibujo animado) - anim  
-animal (bestia) - hevan  
+animal (bestia) - zou  
 animar - anima  
 aniversario - nenfeste  
 ano - anus  
@@ -564,7 +564,7 @@ carpa (toldo) - hemah
 carpeta - dokumsanduke  
 carpintero - mokojanger  
 carrera - peikari jiu  
-cartografía (geografía) - geugrafia  
+cartografía - metrografia  
 carvis (alcaravea) - karau  
 casa (hogar, residencia) - dom  
 casado - gami  
@@ -1445,6 +1445,7 @@ gengibre - zinje
 genial - kuli  
 genotipo - jentipe  
 gente - nas  
+geografía - geugrafia  
 geología - geulojia  
 geometría - geumetria  
 geopolítica - geupolitike  
@@ -2007,7 +2008,7 @@ manzana - aple
 manzanilla de Castilla - kamil  
 manzanilla romana (camomila común) - romakamil  
 maní - geudou  
-mapa - geugraf  
+mapa - metrograf  
 mapache - vaxurse  
 mar - hai  
 maratí - marati  
@@ -3284,6 +3285,8 @@ torso - torse
 tortuga - tortuge  
 tos - kos  
 totalidad (integridad) - holia  
+toxicología - toksolojia  
+toxina - biutokse  
 trabajador (obrero) - karer  
 trabajar - kara  
 trabajo - kar  
@@ -3502,7 +3505,9 @@ zigurat - zikur
 zigzag - zigzage  
 Zimbabue - Zimbabve  
 zombi - zombe  
-zoo - hevanparke  
+zoo - zouparke  
+zoología - zoulojia  
+zoológico - zouloji  
 zoroastriano - zarduxiste  
 zoroastrismo - zarduxistia  
 Zoroastro - Zardux  

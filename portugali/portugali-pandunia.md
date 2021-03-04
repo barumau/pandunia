@@ -48,7 +48,7 @@ amêndoa - badam
 analógico - zoki  
 andesito - andesite  
 anel - ring  
-animal (besta, bicho) - hevan  
+animal (besta, bicho) - zou  
 antimônio - estibem  
 anzol - pexhuke  
 análise - analize  
@@ -177,8 +177,8 @@ carne - manse
 carrapato (ácaros) - akar  
 carreira - peikari jiu  
 carta - karde  
-carta geográfica - geugraf  
-cartografia - geugrafia  
+carta geográfica - metrograf  
+cartografia - metrografia  
 Cartum - Hartum  
 carvalho - balute  
 carvalho-roble - europobalute  
@@ -434,6 +434,7 @@ generalíssimo - gunrajer
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
 genótipo - jentipe  
+geografia - geugrafia  
 geometria - geumetria  
 geopolítica - geupolitike  
 Germânia - Germania  
@@ -959,6 +960,8 @@ tora - mokotan
 toranja - putavoranje  
 torta - pai  
 toupeira - krote  
+toxicologia - toksolojia  
+toxina - biutokse  
 trabalhador - karer  
 trabalhar - kara  
 trabalho - kar  
@@ -1036,7 +1039,9 @@ véu - hijabe
 ####Z - Z  
 zebra - zebre  
 zona - zon  
-zoológico - hevanparke  
+zoologia - zoulojia  
+zoológico - zouloji  
+zoológico - zouparke  
 zumbi - zombe  
 ágil - ajili  
 água - sui  

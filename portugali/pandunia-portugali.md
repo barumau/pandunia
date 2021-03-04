@@ -142,6 +142,7 @@ biu - organismo
 biulojia - biología  
 biumutu - fermentar  
 biusistem - bioma  
+biutokse - toxina  
 bode - corpo  
 boyu - nadar (flutuar)  
 bokse - boxe  
@@ -314,8 +315,7 @@ Germania - Germânia
 geta - ter (achar, receber)  
 Gevia - Terra  
 geuforme - terreno  
-geugraf - carta geográfica  
-geugrafia - cartografia  
+geugrafia - geografia  
 geumetria - geometria  
 geupolitike - geopolítica  
 gida - guiar  
@@ -365,8 +365,6 @@ helisviman - hélicoptero
 hem - hmm  
 hema - considerar  
 Hesia - Hesse (Héssia)  
-hevan - animal (besta, bicho)  
-hevanparke - zoológico  
 hiar - pepino  
 hijabe - véu  
 hijenia - higiene  
@@ -665,6 +663,8 @@ Merkur - Mercúrio
 mes - mês  
 mester - mestre  
 metalbede - bigorna  
+metrograf - carta geográfica  
+metrografia - cartografia  
 meze - mesa  
 mezotex - toalha de mesa  
 migre - migração  
@@ -943,6 +943,7 @@ tex - fazenda (tecido)
 texmaxin - tear  
 tikete - bilhete  
 tirlonga - estirar  
+toksolojia - toxicologia  
 tomate - tomate  
 topograf - topografia  
 tova - arrastar  
@@ -1046,6 +1047,10 @@ zombe - zumbi
 zon - zona  
 zong - poste (estaca)  
 zongominte - hortelã-verde  
+zou - animal (besta, bicho)  
+zouloji - zoológico  
+zoulojia - zoologia  
+zouparke - zoológico  
 zuke - etnia  
 zuki - étnico  
 zumurude - esmeralda  

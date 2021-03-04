@@ -183,7 +183,7 @@ bereto - berete
 berilio - berilem  
 berkelio - berkelem  
 Berlino - Berlin  
-besto - hevan  
+besto - zou  
 betono - beton  
 bezoni - yavu  
 biblia - bibli  
@@ -517,6 +517,7 @@ Gaŭlio - Galia
 geedzeco - gamia  
 generala (universala) - putongi  
 genuo - gute  
+geografio - geugrafia  
 geometrio - geumetria  
 germaniumo - germanem  
 gimnazio - jungoxulkan  
@@ -1713,7 +1714,9 @@ zingibro - zinje
 zinko - zinke  
 zirkonio - zirkonem  
 zono - zon  
-zoo (bestoĝardeno) - hevanparke  
+zoo (bestoĝardeno) - zouparke  
+zoologia - zouloji  
+zoologio - zoulojia  
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
 Zoroastro - Zardux  

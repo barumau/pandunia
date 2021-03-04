@@ -65,7 +65,7 @@ anglizować (zanglizować) - englokitaba
 anglofil - englofiler  
 Angola - Angola  
 animacja - anim  
-animal - hevan  
+animal - zou  
 animować - anima  
 Antarktyka - Antartike  
 antena - anten  
@@ -835,7 +835,7 @@ Hiszpania - Espania
 hmm - hem  
 Ho Chi Minh (Sajgon) - Ho Ci Min site  
 hobby - hobe  
-hodowla zwierząt - hevanjenitia  
+hodowla zwierząt - zoujenitia  
 hojność (szczodrość) - karimia  
 hojny (szczodry) - karimi  
 hokej - hoke  
@@ -1031,7 +1031,7 @@ karczoch zwyczajny - karcof
 Karnataka - karnadia  
 karta - karde  
 kartka (dokument) - varke  
-kartografia - geugrafia  
+kartografia - metrografia  
 kasjer - kaxer  
 kasta - jenklas  
 kaszel; kaszlnięcie - kos  
@@ -1395,7 +1395,7 @@ mangostan - mangus
 mangusta - mungus  
 manicheizm - manihayistia  
 maniok - manyoke  
-mapa - geugraf  
+mapa - metrograf  
 marathi - marati  
 maraton - maraton  
 marchew - karote  
@@ -2910,6 +2910,7 @@ toczyć, turlać - rula
 Togo - Togo  
 Tokio - Tokyo  
 toksyczny (trujący) - toksi  
+toksyna - biutokse  
 tolerować - tolera  
 ton, dźwięk, nuta, tonacja - ton  
 tona - megagram  
@@ -3444,7 +3445,9 @@ znaleźć, znajdywać, odkryć, odkrywać - eureka
 znowu (ponownie) - reyo  
 znudzony - bori  
 zombie, zombi - zombe  
-zoo (ogród zoologiczny) - hevanparke  
+zoo (ogród zoologiczny) - zouparke  
+zoologia - zoulojia  
+zoologiczny - zouloji  
 zostawić (zostawiać) - xante  
 zostać, zostawać - restu  
 zrobić (stworzyć, wykreować) - fata  

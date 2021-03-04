@@ -398,6 +398,7 @@ biu.loj:ia|biulojia||||biology (study of organic life)|biologie|biología|biolog
 biu.mut:i|biumuti||||fermented|||||||||||||||||sfermentowany
 biu.mut:u|biumutu||||ferment (leaven)|fermenter|fermentar|fermentar|заквасить||发酵|熟成する (発酵する)||||||||||fermentować
 biu.sistem:|biusistem||||biome|biome|bioma|bioma|биом||生物群系|生物群系||||||||||biom
+biu.toks:e|biutokse||||toxin|toxine|toxina|toxina|токсин||毒素|毒素|독소|toxin (độc tố)|||||||toksiini|toksyna
 bizar:i|bizari|||eng:fra:bizarre, por:bizarro, deu:bizarr|odd (strange, weird)||raro (extraño)|||||||||||||stranga|outo (kummallinen)|dziwny
 biznes:|biznes|||eng:business, rus:бизнес (biznes), may:bisnes, jpn:ビジネス (bijinesu)|business (commercial activity)||negocios (comercio)||предприятие (бизнес)|||業務 (営業, ビジネス)|||व्यवसाय|||||negoco|liiketoiminta (bisnes)|biznes, interes (aktywność komercyjna)
 biznes.er:|bizneser||||businessperson (businessman)||empresario|||||||||||||komercisto|liikemies|osoba biznesu, biznesman
@@ -1127,8 +1128,7 @@ geu:|geu|||eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|earth (ground)||tierr
 Geu:ia|Gevia|planete 3|||Earth (Terra)|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer|||
 geu.dou:|geudou|biv|||peanut (groundnut)||maní||||||||||||||maapähkinä|orzech ziemny
 geu.form:e|geuforme||||terrain|terrain|terreno|terreno|||地势|地形||||||||||teren
-geu.graf:|geugraf|||zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ, hin:मानचित्र (māncitra), ben: মানচিত্র (mancitr)|map (chart)|carte|mapa|carta geográfica|карта||地图||||नक़्शा (मानचित्र)||peta (map)||harita||kartta|mapa
-geu.graf:ia|geugrafia||||cartography (geography)|cartographie (geographie)|cartografía (geografía)|cartografia|картография||地图学 (地理)||||||||||kartogratia|kartografia
+geu.graf:ia|geugrafia||||geography|geographie|geografía|geografia|география||地理|||||||jiografia||geografio|maantiede|
 geu.gun:ia|geugunia||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
 geu.kask:i krak:e|geukaski krake||||fault line|||||||||||||||||uskok
 geu.kask:i plat:e|geukaski plate||||tectonic plate|plaque tectonique|placa tectónica|||||||||||||||płyta tektoniczna
@@ -1294,9 +1294,6 @@ hen:a|hena||||hate (despise)||odiar|||||||||||||||
 herz:e|herze|unomete|Hz||hertz (Hz)||hercio (Hz)||||||||||||||hertsi (Hz)|herc
 Hes:ia|Hesia||||Hesse|Hesse|Hesse (Hessia)|Hesse (Héssia)|Гессен||黑森|ヘッセン|||||||||Hessen|
 hes.em:|hesem|mate|Hs||hassium||hasio|||||||||||||hasio|hasium|has
-heuan:|hevan|||may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
-heuan.jen.it:ia|hevanjenitia||||animal husbandry|élevage||||||畜産||||||||||hodowla zwierząt
-heuan.park:e|hevanparke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园||||||kebun binatang||hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
 hiar:|hiar|biv|Cucumis sativus|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|cucumber|concombre|pepino|pepino|огурец||黄瓜|キュウリ||||||||kukumo|kurkku|ogórek
 hibrid:e|hibride|||eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)|hybrid (mongrel)||híbrido (mestizo)|||||||||||||miksulo|risteytys (hybridi)|hybryda; kundel
 hidr:e|hidre|mate|H||hydrogen||hidrógeno|||||||||||||hidrogeno|vety|wodór
@@ -2267,6 +2264,8 @@ metal.jang.er:|metaljanger||||blacksmith (iron forger)||herrero||||铁匠|||||||
 metod:e|metode|||eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode|method (means)||método|||||||||||||metodo|keino (menetelmä, metodi)|metoda, sposób
 metr:a|metra||||measure (take measurements)||medir (tomar las medidas)|||||||||||||mezuri|mitata|zmierzyć
 metr:e|metre|||eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measurement||medida|||||||||||||mezuro|mitta (koko, määrä)|miara
+metr.o.graf:|metrograf|||hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|map (chart)|carte|mapa|carta geográfica|карта||地图||||नक़्शा (मानचित्र)||peta (map)||harita||kartta|mapa
+metr.o.graf:ia|metrografia||||cartography|cartographie|cartografía|cartografia|картография||地图学||||||||||kartogratia|kartografia
 metr.un:|metrun||||unit (measurement)||unidad (medida)|||||||||||||||jednostka miary
 Mexiko:|Mexiko|dex|MX||Mexico||México|||||||||||||Meksikio|Meksiko|Meksyk
 Mexiko: sit:e|Mexiko site|xefsite|||Mexico City||Ciudad de México|||||||||||||||Meksyk
@@ -3452,8 +3451,9 @@ titan.em:|titanem|mate|Ti||titanem||titanio|||||||||||||titanio|titaani|tytan
 toc:a|toca|||eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|touch|toucher|tocar (rozar)||касаться||接触|||||||||tuŝi|koskea (koskettaa)|dotyczyć
 Togo:|Togo|dex|TG||Togo||Togo|||||||||||||Toglando|Togo|Togo
 Tokio:|Tokyo||||Tokyo|||||||東京||||||||||Tokio
-toks:e|tokse||||poison (venom)||veneno (toxina)|||||毒|||||||||myrkky|trucizna (toksyna)
-toks:i|toksi|||eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik|toxic (poisonous, venomous)||tóxico||||||||||||||myrkyllinen|toksyczny (trujący)
+toks:e|tokse|||eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|poison (venom)||veneno (toxina)|||||毒|||||||||myrkky|trucizna (toksyna)
+toks:i|toksi||||toxic (poisonous, venomous)||tóxico||||||||||||||myrkyllinen|toksyczny (trujący)
+toks.o.loj:ia|toksolojia||||toxicology|toxicologie|toxicología|toxicologia|токсикология||毒物学||||||||||toksikologia (myrkkyoppi)|
 toler:a|tolera|||eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren|tolerate||tolerar||||||||||||||sallia|tolerować
 tomat:e|tomate|biv||eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|tomato|tomate|tomate|tomate|помидор (томат)||西红柿||||टमाटर|||||tomato|tomaatti|pomidor
 ton:|ton|||eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|tone (note, pitch, shade)||tono|||||||||||||tono|sävel (sävy)|ton, dźwięk, nuta, tonacja
@@ -3803,6 +3803,14 @@ zon:|zon|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zon
 zong:|zong|||zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|post (stake, peg, skewer)|pieu (poteau)|poste (estaca, palo)|poste (estaca)|кол||桩|杭||||||||||słup (pal, kołek)
 zong:a|zonga||||impale (stab, skewer)||atravesar|||||刺す||||||||||nabić (przebić, dźgnąć)
 zong.o.mint:e|zongominte|biv|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
+zou:|zou|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
+zou.fil:ia|zoufilia||||zoophily||||||||||||||||eläinrakkaus|
+zou.geu.graf:ia|zougeugrafia||||zoogeography||||||||||||||||eläinmaantiede|
+zou.jen.it:ia|zoujenitia||||animal husbandry|élevage||||||畜産||||||||||hodowla zwierząt
+zou.loj:i|zouloji||||zoological|zoologique|zoológico|zoológico|зоологический|||動物学の|||||||zoolojik|zoologia|eläintieteellinen|zoologiczny
+zou.loj:ia|zoulojia||||zoology|zoologie|zoología|zoologia|зоология|عِلْم اَلْحَيَوَان|动物学|動物学|동물학|động vật học|प्राणि विज्ञान|প্রাণিবিজ্ঞান|zoologi (kaji haiwan)||zooloji|zoologio|eläintiede (zoologia)|zoologia
+zou.park:e|zouparke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园|動物園|동물원|thảo cầm viên|चिड़ियाघर|চিড়িয়াখানা|kebun binatang|bustani ya wanyama|hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
+zou.toks:e|zoutokse||||zootoxin||||||||||||||||eläinmyrkky (zootoksiini)|
 zuk:e|zuke|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group|ethnie|etnia|etnia|этнос||民族|民族|민족|dân tộc||||||etno|kansanryhmä (etninen ryhmä)|grupa etniczna
 zuk:i|zuki||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민족의||||||etnik|etna|etninen|etniczny
 zuk.o.med:i|zukomedi||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny

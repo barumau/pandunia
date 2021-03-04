@@ -623,6 +623,7 @@ gema - ludi
 gemer - ludanto  
 germanem - germaniumo  
 geta - akiri (ricevi, preni)  
+geugrafia - geografio  
 geumetria - geometrio  
 geusisme - tertremo  
 gida - gvidi  
@@ -709,8 +710,6 @@ hema - pripensi (rigardi ia)
 hemah - tendo  
 hen - malamo  
 hesem - hasio  
-hevan - besto  
-hevanparke - zoo (bestoĝardeno)  
 hiar - kukumo  
 hibride - miksulo  
 hidre - hidrogeno  
@@ -1783,6 +1782,10 @@ zir - kumino
 zirkonem - zirkonio  
 zoko - ankoraŭ  
 zon - zono  
+zou - besto  
+zouloji - zoologia  
+zoulojia - zoologio  
+zouparke - zoo (bestoĝardeno)  
 zuke - etno  
 zuki - etna  
 zukomedi - interetna  

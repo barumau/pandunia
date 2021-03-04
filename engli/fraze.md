@@ -712,7 +712,7 @@ What does this word mean?
 **"mau" mena ke?**
 What does "mau" mean?
 
-**le mena yang da hevan.**
+**le mena yang da zou.**
 It means a kind of animal.
 
 **me no aha le mena ke.**

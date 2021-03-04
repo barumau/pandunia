@@ -129,8 +129,8 @@ anglophile - englofiler
 anglophone (English speking) - englofoni  
 Angola - Angola  
 angry (furious) - furi  
-animal - hevan  
-animal husbandry - hevanjenitia  
+animal - zou  
+animal husbandry - zoujenitia  
 animate - anima  
 animation (cartoon) - anim  
 anniversary - nenfeste  
@@ -560,7 +560,7 @@ Caribbean - Karaibia
 carpenter - mokojanger  
 carpet (rug) - taltex  
 carrot - karote  
-cartography (geography) - geugrafia  
+cartography - metrografia  
 cash box - kax  
 cashier - kaxer  
 cassava (manioc) - manyoke  
@@ -1367,6 +1367,7 @@ generalissimo (shogun) - gunrajer
 generation (cohort) - jengrupe  
 generous (open-handed) - donivi  
 genotype - jentipe  
+geography - geugrafia  
 geology - geulojia  
 geometry - geumetria  
 geopolitics - geupolitike  
@@ -2005,7 +2006,7 @@ mantra - mantre
 manual - handi  
 many (much) - multi  
 many (much, more than one) - poli  
-map (chart) - geugraf  
+map (chart) - metrograf  
 Marathi - marati  
 marathon - maraton  
 marble - kalsokristal  
@@ -3479,6 +3480,8 @@ towel - gantex
 tower - minar  
 town - nagre  
 toxic (poisonous, venomous) - toksi  
+toxicology - toksolojia  
+toxin - biutokse  
 trade (buy and sell) - vendoxopa  
 trade (commerce) - vendoxope  
 trader (merchant) - vendoxoper  
@@ -3795,7 +3798,12 @@ zipper - zipe
 zircon - zirkon  
 zirconium - zirkonem  
 zombie - zombe  
-zoo (zoological garden) - hevanparke  
+zoo (zoological garden) - zouparke  
+zoogeography - zougeugrafia  
+zoological - zouloji  
+zoology - zoulojia  
+zoophily - zoufilia  
+zootoxin - zoutokse  
 Zoroaster - Zardux  
 Zoroastrian - zarduxiste  
 Zoroastrianism - zarduxistia  

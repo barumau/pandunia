@@ -158,6 +158,7 @@ biucaniver - компост
 biulojia - биология  
 biumutu - заквасить  
 biusistem - биом  
+biutokse - токсин  
 biznes - предприятие (бизнес)  
 bode - тело  
 boi - поплавок (буй)  
@@ -355,8 +356,7 @@ gazete - газета
 gemer - игрок (геймер)  
 geta - получить  
 Gevia - Земля  
-geugraf - карта  
-geugrafia - картография  
+geugrafia - география  
 geumetria - геометрия  
 geunici prizon - ублиет (подземная тюрьма)  
 geupolitike - геополитика  
@@ -413,8 +413,6 @@ hem - хм
 hema - думать  
 hemah - палатка (шатёр)  
 Hesia - Гессен  
-hevan - животное  
-hevanparke - зоопарк  
 hiar - огурец  
 hijabe - вуаль  
 hijenia - гигиена  
@@ -730,6 +728,8 @@ Merkur - Меркурий
 mes - месяц  
 mester - мастер  
 metalbede - наковальня  
+metrograf - карта  
+metrografia - картография  
 meze - стол  
 mezotex - скатерть  
 migre - миграция  
@@ -1068,6 +1068,7 @@ tirbaton - рычаг
 tirdar - отбойное течение  
 tirlonga - вытянуть  
 toca - касаться  
+toksolojia - токсикология  
 tomate - помидор (томат)  
 topograf - топография  
 tova - волочить  
@@ -1194,6 +1195,10 @@ zoko - ещё
 zon - пояс (зона)  
 zong - кол  
 zongominte - мята колоси́стая  
+zou - животное  
+zouloji - зоологический  
+zoulojia - зоология  
+zouparke - зоопарк  
 zuke - этнос  
 zuki - этнический  
 zukomedi - межэтнический  

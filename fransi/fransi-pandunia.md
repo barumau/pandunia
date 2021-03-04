@@ -80,7 +80,7 @@ Andorre - Andora
 andésite - andesite  
 anglophone - englofoni  
 Angola - Angola  
-animal (bête) - hevan  
+animal (bête) - zou  
 animation - anim  
 animer - anima  
 anneau - ring  
@@ -281,10 +281,10 @@ cardon - kardonkarcof
 carotte - karote  
 carreau (tuile) - tail  
 carrière - peikari jiu  
-carte - geugraf  
 carte - karde  
+carte - metrograf  
 carte à collectionner - jamkarde  
-cartographie (geographie) - geugrafia  
+cartographie - metrografia  
 cent (100) - xati  
 Centaurée - centaur  
 Centaurée bleuet - nilcentaur  
@@ -555,6 +555,7 @@ gazelle - gazel
 geler (glacer) - aisu  
 genou - gute  
 genre grammatical - baxi jinse  
+geographie - geugrafia  
 Germanie - Germania  
 gingembre - zinje  
 giraffe - jiraf  
@@ -1188,6 +1189,8 @@ toucher - toca
 toupie - rototope  
 touriste - safariste  
 Tournesol - solful  
+toxicologie - toksolojia  
+toxine - biutokse  
 traduction - tarje  
 travail - kar  
 travailler - kara  
@@ -1273,7 +1276,9 @@ wolof - Volof
 ####Z - Z  
 zombi - zombe  
 zone - zon  
-zoo - hevanparke  
+zoo - zouparke  
+zoologie - zoulojia  
+zoologique - zouloji  
 Zoroastre - Zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  
@@ -1295,7 +1300,7 @@ zèbre - zebre
 éducation - xulia  
 égal (même) - sami  
 électricité - eletre  
-élevage - hevanjenitia  
+élevage - zoujenitia  
 élever - jenita  
 éloge - euloge  
 élément (unité fondamentale) - em  

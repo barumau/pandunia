@@ -361,6 +361,7 @@ biucaniver - abono orgánico (compost)
 biulojia - biología  
 biumutu - fermentar  
 biusistem - bioma  
+biutokse - toxina  
 bizari - raro (extraño)  
 biznes - negocios (comercio)  
 bizneser - empresario  
@@ -1028,8 +1029,7 @@ geu - tierra
 Gevia - Tierra  
 geudou - maní  
 geuforme - terreno  
-geugraf - mapa  
-geugrafia - cartografía (geografía)  
+geugrafia - geografía  
 geugunia - ejército  
 geukaski plate - placa tectónica  
 geulojia - geología  
@@ -1188,8 +1188,6 @@ hena - odiar
 herze - hercio (Hz)  
 Hesia - Hesse (Hessia)  
 hesem - hasio  
-hevan - animal (bestia)  
-hevanparke - zoo  
 hiar - pepino  
 hibride - híbrido (mestizo)  
 hidre - hidrógeno  
@@ -2080,6 +2078,8 @@ metaljanger - herrero
 metode - método  
 metra - medir (tomar las medidas)  
 metre - medida  
+metrograf - mapa  
+metrografia - cartografía  
 metrun - unidad (medida)  
 Mexiko - México  
 Mexiko site - Ciudad de México  
@@ -3202,6 +3202,7 @@ toca - tocar (rozar)
 Togo - Togo  
 tokse - veneno (toxina)  
 toksi - tóxico  
+toksolojia - toxicología  
 tolera - tolerar  
 tomate - tomate  
 ton - tono  
@@ -3523,6 +3524,10 @@ zon - cinturón (zona)
 zong - poste (estaca, palo)  
 zonga - atravesar  
 zongominte - hierbabuena  
+zou - animal (bestia)  
+zouloji - zoológico  
+zoulojia - zoología  
+zouparke - zoo  
 zuke - etnia  
 zuki - étnico  
 zukomedi - interétnica  

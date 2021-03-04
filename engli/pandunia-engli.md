@@ -396,6 +396,7 @@ biulojia - biology (study of organic life)
 biumuti - fermented  
 biumutu - ferment (leaven)  
 biusistem - biome  
+biutokse - toxin  
 bizari - odd (strange, weird)  
 biznes - business (commercial activity)  
 bizneser - businessperson (businessman)  
@@ -1122,8 +1123,7 @@ geu - earth (ground)
 Gevia - Earth (Terra)  
 geudou - peanut (groundnut)  
 geuforme - terrain  
-geugraf - map (chart)  
-geugrafia - cartography (geography)  
+geugrafia - geography  
 geugunia - ground force (army)  
 geukaski krake - fault line  
 geukaski plate - tectonic plate  
@@ -1288,9 +1288,6 @@ hena - hate (despise)
 herze - hertz (Hz)  
 Hesia - Hesse  
 hesem - hassium  
-hevan - animal  
-hevanjenitia - animal husbandry  
-hevanparke - zoo (zoological garden)  
 hiar - cucumber  
 hibride - hybrid (mongrel)  
 hidre - hydrogen  
@@ -2257,6 +2254,8 @@ metaljanger - blacksmith (iron forger)
 metode - method (means)  
 metra - measure (take measurements)  
 metre - measurement  
+metrograf - map (chart)  
+metrografia - cartography  
 metrun - unit (measurement)  
 Mexiko - Mexico  
 Mexiko site - Mexico City  
@@ -3441,6 +3440,7 @@ Togo - Togo
 Tokyo - Tokyo  
 tokse - poison (venom)  
 toksi - toxic (poisonous, venomous)  
+toksolojia - toxicology  
 tolera - tolerate  
 tomate - tomato  
 ton - tone (note, pitch, shade)  
@@ -3790,6 +3790,14 @@ zon - belt (zone)
 zong - post (stake, peg, skewer)  
 zonga - impale (stab, skewer)  
 zongominte - spearmint  
+zou - animal  
+zoufilia - zoophily  
+zougeugrafia - zoogeography  
+zoujenitia - animal husbandry  
+zouloji - zoological  
+zoulojia - zoology  
+zouparke - zoo (zoological garden)  
+zoutokse - zootoxin  
 zuke - ethnic group  
 zuki - ethnic  
 zukomedi - interethnic  

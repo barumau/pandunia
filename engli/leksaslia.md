@@ -405,7 +405,6 @@
 |**genca**|examine (inspect, check)|Mandarin:检查 (jiǎnchá), Cantonese:檢查 (gimcaa), Vietnamese:kiểm tra, jpn,検査 (kensa)|
 |**geta**|get (receive, obtain, take)|English:get|
 |**geu**|earth (ground)|English:Spanish:Portuguese:geo-, French:géo-, Russian:гео- (geo-)|
-|**geugraf**|map (chart)|Mandarin:地图 (dìtú), Cantonese:地圖 (dei6 tou4), Japanese:地図 (chizu), Korean:지도 (jido), Vietnamese:địa đồ, Hindi:मानचित्र (māncitra), Bengali: মানচিত্র (mancitr)|
 |**geyi**|gay (homosexual)|English:French:Spanish:gay, Portuguese:guei|
 |**gida**|guide (lead, show the way)|English:French:guide, Spanish:guía, Portuguese:guia, Russian:гид  (gid), Japanese:ガイド (gaido), Korean:가이드 (gaideu) + Arabic:قَادَ‎ (qāda)|
 |**giga***|billion (giga-)|English:French:Spanish:Portuguese:Malay:Turkish:giga-, Russian:гига- (giga-), Japanese:ギガ (giga), Korean:기가- (giga-)|
@@ -475,7 +474,6 @@
 |**hem**|hmm|English:hmm, Russian:хм (hm), эм (em), Korean:음 (eum)|
 |**hemah**|tent|Arabic:(xayma), Hausa:laima, Hindi:ख़ैमा (xEmā), Swahili:hema, Malay:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|hatred (hate, resentment, odium)|Mandarin:恨 (hèn), Cantonese:恨 (han6), Wu-Chinese:恨 (hhen3), Vietnamese:hận, Japanese:嫌 (ken), Korean:혐 (hyeom) + French:haine|
-|**hevan**|animal|Malay:kewan, Arabic:(haywān), Hindi:हैवान (haivān), Turkish:hayvan|
 |**hiar**|cucumber|Persian:خیار (xiyâr), Turkish:hıyar, Arabic:خيار‎ (khiyār), Hindi:खीरा (khīrā), Bengali:ক্ষীরা (kṣīrā)|
 |**hibride**|hybrid (mongrel)|English:hybrid, Spanish:Portuguese:híbrido, French:hybride, Russian:гибрид (gibrid)|
 |**hijabe**|veil (cover, screen)|Arabic:(ḥijāb), Persian:(hejâb), Swahili:hijabu, Hausa:hijabi, Hindi:हिजाब (hijāb), Bengali:হিজাব (hijab), English:Portuguese:hijab, French:hidjab, Spanish:hiyab, Russian:хиджаб (xidžab)|
@@ -838,6 +836,7 @@
 |**metal**|metal|English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)|
 |**metode**|method (means)|English:method, Spanish:Portuguese:método, French:méthode, Russian:ме́тод (métod), Turkish:metod, Malay:metode|
 |**metre**|measurement|English:meter, Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra|
+|**metrograf**|map (chart)|Hindi:मानचित्र (māncitra), Bengali:মানচিত্র (mancitr) + Mandarin:地图 (dìtú), Cantonese:地圖 (dei6 tou4), Japanese:地図 (chizu), Korean:지도 (jido), Vietnamese:địa đồ|
 |**meze**|table|Portuguese:Spanish:mesa, Hindi:मेज़ (mez), Swahili:meza, Malay:meja, Tamil:மேசை (mesei), Persian: میز‏‎ (miz), Turkish:masa|
 |**mien**|noodle|Mandarin:面 (miàn), Malay:mie, Japanese:麺 (men), Thai:หมี่ (mii), Khmer:មី (mi)|
 |**migre**|migration (moving)|French:English:migration, Spanish:migración, Portuguese:migração, Russian:миграция (migratsiya)|
@@ -1264,7 +1263,7 @@
 |**tipe**|type (kind, genre)|English:French:type, Spanish:Portuguese:tipo, ru:тип (tip), Turkish:tip, Japanese:タイプ (taipu)|
 |**tira**|pull (draw, drag)|Spanish:Portuguese:tirar, French:tirer, English:tear, Turkish:tire|
 |**toca**|touch|English:touch, Spanish: tocar, + Hindi: छूना (chūnā), Mandarin: 触 (chù)|
-|**toksi**|toxic (poisonous, venomous)|English:toxic, French:toxique, Spanish:Portuguese:tóxico, Russian:токсичний (toksicniy), Malay:toksik|
+|**tokse**|poison (venom)|English:toxic, French:toxique, Spanish:Portuguese:tóxico, Russian:токсичний (toksicniy), Malay:toksik + Mandarin:毒 (dú), Cantonese:毒 (duk6), Wu-Chinese:毒 (do’), Japanese:毒 (doku/toku), Korean:독 (dok), Vietnamese:độc|
 |**tolera**|tolerate|English:tolerate, Spanish:Portuguese:tolerar, French:tolérer, deu:tolerieren|
 |**tomate**|tomato|English:tomato, Portuguese:Spanish:tomate, Russian:томат (tomat), Malay:tomat, Hindi:टमाटर (ṭamāṭar)|
 |**ton**|tone (note, pitch, shade)|English:tone, Swahili:kitone, Russian:тон (ton), deu:Ton, Spanish:tono|
@@ -1426,6 +1425,7 @@
 |**zombe**|zombie|Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)|
 |**zon**|belt (zone)|Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)|
 |**zong**|post (stake, peg, skewer)|Mandarin:樁 (zhuāng), Cantonese:樁 (zong1), nan:樁 (zuang1), Japanese:樁 (shō), Vietnamese:thưởng|
+|**zou**|animal|English:French:Spanish:Portuguese:Malay:Turkish:zoo-, Russian:зоо- (zoo-)|
 |**zukam**|cold (illness)|Arabic:زُكَام‎ (zukām), Persian:زکام‎ (zukâm), Hindi:ज़ुकाम (zukāma)|
 |**zuke**|ethnic group|Mandarin:族 (zú), Cantonese:族 (zuk6), Japanese:族 (zoku), Korean:족 (jok), Vietnamese:tộc|
 |**zumurude**|emerald|Persian:(zomorrod), Turkish:zümrüt, Arabic:(zumurrud), Malay:zamrud, Russian:изумруд (izumrud), Swahili:zumaridi, Mandarin:祖母绿 (zǔmǔlǜ)|

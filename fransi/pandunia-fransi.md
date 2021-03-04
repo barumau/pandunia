@@ -290,6 +290,7 @@ biucaniver - compost
 biulojia - biologie  
 biumutu - fermenter  
 biusistem - biome  
+biutokse - toxine  
 bode - corps  
 boyu - nagar (flotter)  
 bokse - boxe  
@@ -491,8 +492,7 @@ gazel - gazelle
 Germania - Germanie  
 Gevia - Terre  
 geuforme - terrain  
-geugraf - carte  
-geugrafia - cartographie (geographie)  
+geugrafia - geographie  
 geukaski plate - plaque tectonique  
 geulojia - géologie  
 geumetria - géométrie  
@@ -551,9 +551,6 @@ hema - considérer
 hemah - tente  
 hen - haine  
 Hesia - Hesse  
-hevan - animal (bête)  
-hevanjenitia - élevage  
-hevanparke - zoo  
 hiar - concombre  
 hijabe - voile  
 hijenia - hygiène  
@@ -870,6 +867,8 @@ Merkur - Mercure
 mes - mois  
 mester - maître  
 metalbede - enclume  
+metrograf - carte  
+metrografia - cartographie  
 meze - table  
 mezotex - nappe  
 migre - migration  
@@ -1203,6 +1202,7 @@ tira milke - tirer
 tira pil - écorce  
 tirlonga - tender  
 toca - toucher  
+toksolojia - toxicologie  
 tomate - tomate  
 topograf - topographie  
 tova - traîner  
@@ -1323,6 +1323,11 @@ zombe - zombi
 zon - zone  
 zong - pieu (poteau)  
 zongominte - menthe verte  
+zou - animal (bête)  
+zoujenitia - élevage  
+zouloji - zoologique  
+zoulojia - zoologie  
+zouparke - zoo  
 zuke - ethnie  
 zuki - ethnique  
 Zulu - zoulou  

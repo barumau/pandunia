@@ -366,6 +366,7 @@ biu - orgaaninen elämä
 bivi - elävä (orgaaninen)  
 bivi jinse - biologinen sukupuoli  
 biulojia - biologia  
+biutokse - toksiini  
 bizari - outo (kummallinen)  
 biznes - liiketoiminta (bisnes)  
 bizneser - liikemies  
@@ -1055,8 +1056,7 @@ geta - hankkia (saada)
 geter - saaja (vastaanottaja)  
 geu - maa (maaperä)  
 geudou - maapähkinä  
-geugraf - kartta  
-geugrafia - kartogratia  
+geugrafia - maantiede  
 geugunia - maavoimat  
 Geumedi Hai - Välimeri  
 geumetria - geometria  
@@ -1198,8 +1198,6 @@ hen - viha
 herze - hertsi (Hz)  
 Hesia - Hessen  
 hesem - hasium  
-hevan - eläin  
-hevanparke - eläintarha  
 hiar - kurkku  
 hibride - risteytys (hybridi)  
 hidre - vety  
@@ -2009,6 +2007,8 @@ metaljanger - seppä
 metode - keino (menetelmä, metodi)  
 metra - mitata  
 metre - mitta (koko, määrä)  
+metrograf - kartta  
+metrografia - kartogratia  
 Mexiko - Meksiko  
 meze - pöytä  
 mezotex - pöytäliina  
@@ -2989,6 +2989,7 @@ toca - koskea (koskettaa)
 Togo - Togo  
 tokse - myrkky  
 toksi - myrkyllinen  
+toksolojia - toksikologia (myrkkyoppi)  
 tolera - sallia  
 tomate - tomaatti  
 ton - sävel (sävy)  
@@ -3275,6 +3276,13 @@ zoko - vielä (yhä, jatkuvasti)
 zoku - jatkua  
 zombe - zombi  
 zon - vyö  
+zou - eläin  
+zoufilia - eläinrakkaus  
+zougeugrafia - eläinmaantiede  
+zouloji - eläintieteellinen  
+zoulojia - eläintiede (zoologia)  
+zouparke - eläintarha  
+zoutokse - eläinmyrkky (zootoksiini)  
 zuke - kansanryhmä (etninen ryhmä)  
 zuki - etninen  
 zukomedi - kansanryhmien välinen  

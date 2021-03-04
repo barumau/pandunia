@@ -394,7 +394,6 @@
 |**genca**|sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
 |**geta**|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać|eng:get|
 |**geu**|ziemia, grunt, gleba|eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|
-|**geugraf**|mapa|zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ, hin:मानचित्र (māncitra), ben: মানচিত্র (mancitr)|
 |**geyi**|gejowski (homoseksualny)|eng:fra:spa:gay, por:guei|
 |**gida**|prowadzić (wskazać drogę)|eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu) + ara:قَادَ‎ (qāda)|
 |**giga***|bilion, giga-|eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|
@@ -463,7 +462,6 @@
 |**hem**|hmm|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |**hemah**|namiot|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|nienawidzić|zho:恨 (hèn), yue:恨 (han6), wuu:恨 (hhen3), vie:hận, jpn:嫌 (ken), kor:혐 (hyeom) + fra:haine|
-|**hevan**|animal|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
 |**hiar**|ogórek|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hibride**|hybryda; kundel|eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)|
 |**hijabe**|welon (woalka)|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
@@ -817,6 +815,7 @@
 |**metal**|metal|eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|
 |**metode**|metoda, sposób|eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode|
 |**metre**|miara|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
+|**metrograf**|mapa|hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|
 |**meze**|stół|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**mien**|makaron|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
 |**migre**|migracja|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
@@ -1237,7 +1236,7 @@
 |**tipe**|typ (rodzaj, gatunek)|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
 |**tira**|ciągnąć|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
 |**toca**|dotyczyć|eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|
-|**toksi**|toksyczny (trujący)|eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik|
+|**tokse**|trucizna (toksyna)|eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|
 |**tolera**|tolerować|eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren|
 |**tomate**|pomidor|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
 |**ton**|ton, dźwięk, nuta, tonacja|eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|
@@ -1393,6 +1392,7 @@
 |**zombe**|zombie, zombi|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
 |**zon**|pas, strefa|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |**zong**|słup (pal, kołek)|zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|
+|**zou**|animal|eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|
 |**zukam**|przeziębienie, katar|ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|
 |**zuke**|grupa etniczna|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |**zumurude**|szmaragd|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|

@@ -48,9 +48,9 @@ simply replace it with **no** (which is the word for _no_).
 **le no sa Sara.**
 = She is not Sarah.
 
-**mau sa hevan.**
+**mau sa zou.**
 = The cat is an animal.  
-**dom no sa hevan.**
+**dom no sa zou.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
@@ -110,7 +110,7 @@ woman
 man  
 **mau**
 cat  
-**hevan**
+**zou**
 animal
 
 ### Answers to the Exercises

@@ -396,7 +396,6 @@
 |**genca**|examinar (inspeccionar)|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
 |**geta**|conseguir (obtener, recibir)|eng:get|
 |**geu**|tierra|eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|
-|**geugraf**|mapa|zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ, hin:मानचित्र (māncitra), ben: মানচিত্র (mancitr)|
 |**geyi**|gay (homosexual)|eng:fra:spa:gay, por:guei|
 |**gida**|guiar|eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu) + ara:قَادَ‎ (qāda)|
 |**giga***|giga-|eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|
@@ -464,7 +463,6 @@
 |**hem**|hm|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |**hemah**|carpa (toldo)|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|odio|zho:恨 (hèn), yue:恨 (han6), wuu:恨 (hhen3), vie:hận, jpn:嫌 (ken), kor:혐 (hyeom) + fra:haine|
-|**hevan**|animal (bestia)|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
 |**hiar**|pepino|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hibride**|híbrido (mestizo)|eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)|
 |**hijabe**|velo|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
@@ -817,6 +815,7 @@
 |**metal**|metal|eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|
 |**metode**|método|eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode|
 |**metre**|medida|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
+|**metrograf**|mapa|hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|
 |**meze**|mesa|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**mien**|fideo (tallarín)|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
 |**migre**|migración|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
@@ -1237,7 +1236,7 @@
 |**tipe**|tipo (género)|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
 |**tira**|tirar|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
 |**toca**|tocar (rozar)|eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|
-|**toksi**|tóxico|eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik|
+|**tokse**|veneno (toxina)|eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|
 |**tolera**|tolerar|eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren|
 |**tomate**|tomate|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
 |**ton**|tono|eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|
@@ -1392,6 +1391,7 @@
 |**zombe**|zombi|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
 |**zon**|cinturón (zona)|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |**zong**|poste (estaca, palo)|zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|
+|**zou**|animal (bestia)|eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|
 |**zukam**|resfriado (catarro)|ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|
 |**zuke**|etnia|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |**zumurude**|esmeralda|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|

@@ -145,6 +145,7 @@ bivi jinse - 生物性別
 biulojia - 生物学  
 biumutu - 发酵  
 biusistem - 生物群系  
+biutokse - 毒素  
 bode - 身体  
 boyu - 漂浮  
 bokse - 拳击  
@@ -314,8 +315,7 @@ gatomate - 固体
 genca - 检查  
 geta - 获得  
 geuforme - 地势  
-geugraf - 地图  
-geugrafia - 地图学 (地理)  
+geugrafia - 地理  
 geumetria - 几何学  
 geupolitike - 地缘政治  
 geutermi - 地热的  
@@ -373,8 +373,6 @@ helpa - 帮助
 hema - 深思 (考虑)  
 hemah - 帐篷  
 Hesia - 黑森  
-hevan - 动物  
-hevanparke - 动物园  
 hiar - 黄瓜  
 hijabe - 面纱  
 Hindia - 印度斯坦  
@@ -667,6 +665,8 @@ men - 意义
 mening - 脑脊膜  
 metalbede - 铁砧  
 metaljanger - 铁匠  
+metrograf - 地图  
+metrografia - 地图学  
 meze - 桌子  
 mezotex - 桌布  
 migra - 搬家  
@@ -955,6 +955,7 @@ tira pil - 削 (刮去)
 tirbaton - 杆  
 tirlonga - 拉  
 toca - 接触  
+toksolojia - 毒物学  
 tomate - 西红柿  
 topograf - 地形  
 tova - 拖  
@@ -1056,5 +1057,8 @@ zoki - 指针式的
 zoko - 还 (依然)  
 zong - 桩  
 zongominte - 留兰香  
+zou - 动物  
+zoulojia - 动物学  
+zouparke - 动物园  
 zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  

@@ -328,8 +328,13 @@ elokuva - kingraf
 elokuvallinen - kingrafi  
 elokuvataide - kingrafia  
 elokuvateatteri - kingrafkan  
-eläin - hevan  
-eläintarha - hevanparke  
+eläin - zou  
+eläinmaantiede - zougeugrafia  
+eläinmyrkky (zootoksiini) - zoutokse  
+eläinrakkaus - zoufilia  
+eläintarha - zouparke  
+eläintiede (zoologia) - zoulojia  
+eläintieteellinen - zouloji  
 elämä (olemassaolo) - jiu  
 elävä (elää) - jivi  
 elävä (orgaaninen) - bivi  
@@ -936,8 +941,8 @@ karhu - urse
 Karibia - Karaibia  
 Karnataka (Intian osavaltio) - karnadia  
 kartio (keila) - konus  
-kartogratia - geugrafia  
-kartta - geugraf  
+kartogratia - metrografia  
+kartta - metrograf  
 kassa - kax  
 kassanhoitaja - kaxer  
 kassava (maniokki) - manyoke  
@@ -1510,6 +1515,7 @@ maali (pelissä) - gol
 maaliskuu - sanmes  
 maanantai - unyom  
 maanjäristys - geusisme  
+maantiede - geugrafia  
 maanviljelijä - nonger  
 maapähkinä - geudou  
 maaseutu - rustia  
@@ -2836,6 +2842,8 @@ toisiaan (keskenään) - unal
 toistaa - reya  
 toisto - rei  
 toivoa - inxala  
+toksiini - biutokse  
+toksikologia (myrkkyoppi) - toksolojia  
 tomaatti - tomate  
 Tonga - Tonga  
 tonni (1000 kg) - megagram  
