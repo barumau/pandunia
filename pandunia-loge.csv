@@ -141,8 +141,6 @@ an.sor:i|ansori||||unlocked||||||||||||||||lukitsematon|zamknięty na klucz (zak
 an.tap:a|antapa||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
 an.zai:a|anzaya||||remove (delete, dispose, erase)||quitar (eliminar, borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
 an1:a|an:a|||eng:fra:-ant, spa:por:-ando, tur:-(y)an;-(y)en, may:-an + [ana] fas:(-ân-), hin:(-(v)ānā), ben:-নো  (-ānô)|cause (make sb. do sth.)|||||||||||||||igi (farigi)|teettää|
-analiz:a|analiza||||analyse|analyser|analizar||анализировать||分析|||||||||analizi|analysoida|analizować
-analiz:e|analize|||eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|analysis|analyse|análisis|análise|анализ||分析||||||||analiz|analizo|analyysi|analiza
 and:e|ande|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg|oeuf|huevo|||||||||||||ovo|muna|jajko (jajo)
 Andes:|Andes||||Andes|Andes|Andes|||||||||||||Andoj|Andit|Andy
 andes.it:e|andesite|||spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|andesite|andésite|andesita|andesito|андезит||安山岩|安山岩||||||||||andezyt
@@ -637,6 +635,7 @@ daruin.ist:e|darviniste||||Darwinist||darwinista||||||||||||||darwinisti|darwini
 daruin.ist:ia|darvinistia||||Darwinism||darwinismo||||||||||||||darwinismi|darwinizm
 dat:e|date|||eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|data (numeric information)|données|datos|dados|данные||数据||||डेटा||data||veri|datumo|data (numeerinen tieto)|dane
 dat.o.bank:e|datobanke||||database (databank)|base de données|banco de datos (base de datos)|banco de dados|база данных||数据库||||डेटाबेस||basis data||veritabanı|datumbanko|tietokanta|baza danych (bank danych)
+dat.o.fen.kat:e|datofenkate||||data analysis||análisis de datos|||||データ解析||||||||||
 dat.o.tabl:e|datotable||||data table (matrix)||tabla||||表格|表|표||तालिका|তালিকা||||tabelo|taulukko|tablioca, macierz
 dau:|dau|||zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|way (road)||camino (calle)|||||道||||||||vojo|tie|droga, szosa, ulica
 dau.ban:|dauban||||road sign|panneau de signalisation|señal de tránsito||табличка с названием улицы||||||||||||liikennemerkki|
@@ -817,6 +816,7 @@ emos:i|emosi||||emotional (emotive)||emotivo||эмоциональный||||||||
 emos:u|emosu||||feel||sentir|||||||||||||emocii|tuntea (kokea tunteita)|czuć, odczuć, odczuwać
 emos.hal:|emoshal||||mood (emotional state)|humeur|humor|humor|настроение||心情|||||||||animstato|tunnetila (tuuli)|humor (nastrój)
 en:i|eni|||eng:any|any (no matter which)||qualquier|||||||||||||iu ajn|mikä tahansa|jakikolwiek, którykolwiek
+enjen.er:|enjener|||eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia)|engineer||ingeniero||||||||||||||insinööri|inżynier
 Enceladus:|Enceladus|planete 6 lune 2|||Enceladus|||||||||||||||||
 energ:e|energe|||eng:energy, spa:energía, por:energia, fra:énergie, rus:энергия (energiya), tur:enerji, fas:انرژی‎ (enerži), jpn:エネルギー (enerugī)|energy||energía|||||||||||||energio|energia|energia
 engl:i|engli||||English||inglés|||||||||||||angla|englanti|Anglik; angielski
@@ -827,7 +827,7 @@ engl.o.kitab:a|englokitaba||||anglicize||anglicanizar||||||||||||||englannistaa|
 engl.o.margarit:e|englomargarite|biv|Bellis perennis||English daisy|pâquerette|margarita común (pascueta)|margarida-comum|маргаритка многоле́тняя||雛菊|ヒナギク||||||||||stokrotka pospolita
 enzim:|enzim|||eng:fra:enzyme, spa:por:enzima, rus:энзим (enzim), tur:may:enzim, ara:انزيم‎, fas:آنزیم‎ (ânzim)|enzyme||enzima||||||||||||||entsyymi|enzym
 er:|er|||eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|doer (agent, actor)||hacedor (perpetrador)|||||||||||||isto (anto)|tekijä (aikaansaaja)|przyrostek dla wykonawcy
-er:ia|eria||||shop (workshop, place of doing)||taller||||||||||||||paja (kauppa, tekimö)|przyrostek dla miejsca wykonywania
+er:ia|eria||||field (art, workforce)||taller||||||||||||||paja (kauppa, tekimö)|przyrostek dla miejsca wykonywania
 erb.em:|erbem|mate|Er||erbium||erbio|||||||||||||erbio|erbium|erb
 Eris:|Eris||||Eris (dwarf planet)||Eris (planeta enano)|||||||||||||Eris (planedeto)|Eris (kääpiöplaneetta)|Eris (planeta karłowata)
 Eritr:ia|Eritria|dex|ER||Eritrea||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea
@@ -934,6 +934,8 @@ fen:a|fena||||divide (to partition)||dividir (repartir)|||||||||||||dividi|jakaa
 fen:i|feni||||discrete (digital, quantized)|distinct (numérique)|discreto (digital)|digital|||数字的|デジタル|||||||||osittainen (diskreetti)|dyskretny (cyfrowy, kwantowy)
 fen:u|fenu||||split (fall apart)||partir (dividirse)||||||||||||||jakautua (hajota)|pęknąć (rozpaść się)
 fen.don:a|fendona||||contribute||contribuir||||||||||||||osallistua (tehdä osansa)|wnieć wkład (przyczynić się)
+fen.kat:a|fenkata||||analyse (dissect, parse)|analyser|analizar (disecar)||анализировать||分析|見つめ直す||||||||analizi|analysoida|analizować
+fen.kat:e|fenkate||||analysis (dissection)|analyse|análisis (disección)|análise|анализ||分析|分析 (解析)|||विश्लेषण||||analiz|analizo|analyysi|analiza
 fer:|fer|mate|Fe|spa:hierro, por:ferro, fra:fer, may:ferum|iron||hierro|||||||||||||fero|rauta|żelazo
 ferm.em:|fermem|mate|Fm||fermium||fermio|||||||||||||fermio|fermium|ferm
 fest:a|festa||||celebrate (party)||celebrar (festejar)|||||||||||||festi|juhlia|świętować, imprezować
@@ -1224,7 +1226,7 @@ hai:|hai|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), 
 hai:i|hayi||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
 hai.alg:e|hayalge|biv|||seaweed (macroalgae)|algues|macroalga|macroalga|морские водоросли||海藻|海藻|||||rumpai laut|||||wodorosty
 hai.amir.er:|hayamirer||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
-hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa morhai.ful:
+hai.cau:|haicau|biv|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa mor
 hai.ful:|haiful|biv|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
 hai.gun:|haigun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.hiar:|haihiar|biv|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
@@ -1362,7 +1364,7 @@ hur.ist:i|huristi||||liberal||liberal||||||||||||||liberaali (vapaamielinen)|lib
 hur.ist:ia|huristia||||liberalism||liberalismo||||||||||||||liberalismi|liberalizm
 hux:i|huxi|||fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|nice (pleasant, comfortable, cushy)||cómodo (lujoso)||||||||ख़ुश|খুশি|||hoş|agrabla|mukava (kiva, miellyttävä)|miły, przyjemny, uroczy
 I|I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I
-i:a|ya||||with (by)|avec|con||||||||||||||kanssa (kera, -lla)|
+i:a|ya||||with (by, have)|avec (avoir)|con (tener)||с (иметь)||有|||||||||havi (teni)|kanssa (kera, -lla)|mieć (trzymać)
 i:e|ye|||[ye] eng:yes;yeah, kor:예 (ye), may:ya + [ya] zho:有 (yǒu), yue:有 (yau5) + fra:il y a|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 iag:a|yaga||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 iag:o|yago|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
@@ -1416,7 +1418,10 @@ imper.ist:ia|imperistia||||imperialism||imperialismo||||||||||||||imperialismi|i
 in:|in|||eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 in:a|inda||||contain (include)||contener|||||||||||||||zawierać
 in:i|indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
+in.an:|inan||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
+in.it:e|inite||||content||contenido||||||||||||||sisältö|treść (zawartość)
 in.jen:i|injeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
+in.list:e|inliste||||table of contents (inventory)||índice de contenidos||||||||||||||sisällysluettelo|spis treści (tabela zawartości)
 in.migr:a|inmigra||||immigrate (move in)|immigrer|inmigrar|imigrar|иммигрировать||移民 (移居)|移住する (移民する)||nhập cư|||||||muuttaa maahan|
 in.migr.an:|inmigran||||immigrant|immigrant|inmigrante|imigrante|иммигрант||移民者|移民 (移住者)||dân nhập cư|||||||maahanmuuttaja|
 in.mis:a|inmisa||||import||importar|||||||||||||||importować (zaimportować)
@@ -1424,7 +1429,6 @@ in.nam:|innam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|en
 in.pux:a|inpuxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
 in.sid:a|insida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
 Indones:ia|Indonesia|dex|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
-injen.er:|injener|||eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia)|engineer||ingeniero||||||||||||||insinööri|inżynier
 insan:|insan|biu|Homo Sapiens|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|human being|être humain|ser humano|ser humano|человек|إِنْسَان|人类|人間|인류||मनुष्य (इंसान)|মানুষ|manusia|binadamu|insan|homo|ihminen|człowiek, istota ludzka
 insan:i hak:e|insani hake||||human rights|droits de l'homme|derechos humanos|direitos humanos|права человека||人权|人権|인권|nhân quyền|मानव अधिकार||hak asasi manusia|haki za kibinadamu|insan hakları|homaj rajtoj|ihmisoikeudet|prawa człowieka
 insan:ia|insania||||mankind (humanity)||humanidad (género humano)|||||||||||||homaro|ihmiskunta|ludzkość, rodzaj ludzki
@@ -1433,8 +1437,6 @@ insan.ist:e|insaniste||||humanist||humanista||||||||||||||humanisti|humanista
 insan.ist:i|insanisti||||humanistic||humanístico||||||||||||||humanistinen|humanistyczny
 insan.ist:ia|insanistia||||humanism|humanisme|humanismo|humanismo|гуманизм|إِنْسَانِيَّة|人文主义|ヒューマニズム (人文主義)|인문주의|nhân văn chủ nghỉa|मानवतावाद||humanisme||hümanizm|homismo|humanismi|humanizm
 inter.net:e|internete||||internet||Internet||||||||||||||internet|internet
-interes:|interes|||eng:interest, spa:interés, por:interesse, fra:intérêt, deu:Interesse, rus:интере́с (interes)|interest||interés||||||||||||||kiinnostus (mielenkiinto)|zainteresowanie, zaciekawienie; interesujący
-interes:i|interesi||||interesting||interesante|||||||||||||interesa||interesujący
 inxal:a|inxala|||ara:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), fas:ان‌شاءالله (enšâ'allâh), tur:inşallah, may:insya allah, spa:ojalá, por:oxalá, eng:inshallah, rus:иншаллах (inšallax), ben:ইনশাআল্লাহ্ (inśaallah), zho:印沙安拉 (yìnshā'ānlā)|hope (wish)||esperar (desear)||надеяться (чаять)|||||||||||esperi|toivoa|nadzieja, życzenie
 Io:|Io|planete 5 lune 1|||Io|||||||||||||||||
 iod.em:|yodem|mate|I||iodine||yodo (iodo)||йод|||||||||||jodo|jodi|jod; jodyna
@@ -1487,6 +1489,7 @@ Jakarta:|Jakarta|xefsite|||Jakarta||||||||||||Jakarta|||||Dżakarta
 jam:a|jama||||collect (gather, bring together, assemble)||recoger (juntar, reunir, acumular, recolectar, montar)|||||||||||||kolekti (kunigi)|koota (kerätä)|kolekcjonować, zebrać, zbierać
 jam:i|jami||||collective||colectivo|||||||||||||kolekta|kollektiivinen|zbiorowy, zbiorczy
 jam:ia|jamia|||ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia|collection (congregation, assembly)||colección (grupo, conjunto, montón)||||||||||||||yhteisö (kokoontuminen, kollektiivi)|kolekcja, zbiór; zgromadzenie, zebranie
+jam.hafiz:a|jamhafiza||||hold together||||||||||||||||pitää yhdessä|
 jam.kard:e|jamkarde||||trading card|carte à collectionner|cromo|cromo|||||||||||||keräilykortti|
 Jamaika:|Jamaika|dex|JM||Jamaica||Jamaica|||||||||||||Jamajko|Jamaika|Jamajka
 jamp:a|jampa|||eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|jump||saltar (brincar)|||||||||||||salti|hypätä (hyppiä)|skoczyć, skakać
@@ -1610,11 +1613,11 @@ kal:i harf:e|kali harfe||||space (character)|espace|espacio (texto)|espaço|||�
 kal.em:|kalem|mate|K||potassium||potasio|||||||||||||kalio|kalium|potas
 Kalal:ia|Kalalia|dex|GL||Greenland||Groenlandia||||||||||||||Grönlanti|Grenlandia
 kalam:|kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|plume|bolígrafo|lápis|ручка||笔|ペン|||क़लम|কলম |pen (pena, kalam)|kalamu|kalem|plumo|kynä|pióro, długopis
-kalamar:|kalamar|biv|Decapodiformes|ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)|squid (cuttlefish)|calmar (encornet, calamar)|calamar|lula (calamar)|кальмар||鱿鱼|イカ||||||||||kałamarnica (mątwa)
 kalend:e|kalende|||eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda|calendar|calendrier|calendario|calendário|календарь|تقويم|日历|暦 (カレンダー)|달력 (카렌더)|lịch|कालदर्शक (कैलेण्डर)|পঞ্জিকা|kalender|kalenda|takvim|kalendaro|kalenteri|kalendarz
 kaliforn.em:|kalifornem|mate|Cf||californium||californio|||||||||||||kaliforniumo|kalifornium|kaliforn
 Kalisto:|Kalisto|planete 5 lune 4|||Callisto|||||||||||||||||
 kalkul:ia|kalkulia|||fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|calculus (manipulation of symbolic expressions)||cálculo||||||||||||||kalkyyli|rachunek (formalny system obliczeń)
+kalmar:|kalmar|biv|Decapodiformes|ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)|squid (cuttlefish)|calmar (encornet, calamar)|calamar|lula (calamar)|кальмар||鱿鱼|イカ||||||||||kałamarnica (mątwa)
 kals.em:|kalsem|mate|Ca||calcium (Ca)||calcio|||||||||||||kalcio|kalsium|wapń
 kals.it:e|kalsite||CaCO3||calcite|calcite|calcita|calcita|кальцит||方解石||||||||kalsit|kalcito|kalsiitti (kalkkisälpä)|kalcyt
 kals.o.kristal:|kalsokristal||||marble|marbre|marmól|mármore|мрамор|رُخَّام|大理石|大理石|대리석|đá hoa|संगमरमर||marmer||mermer|marmoro|marmori|marmur
@@ -1830,8 +1833,6 @@ kon.sau:|konsau||||information (communicable knowledge)||información|||||||||||
 kon.sau.an:a|konsavana||||communicate (inform about)||comunicar (informar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 kon.sel:a|konsela||||give consultation||||||||||||||||konsultoida (antaa neuvoja)|
 kon.sel.er:|konseler||||counselor (consultant)|consultant (conseiller)|consultor|consultor|консультант (советник)||顾问|顧問|||||||||konsultti|
-kon.ten:a|kontena||||contain (hold together)||||||||||||||||pitää yhdessä|
-kon.ten.er:|kontener||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
 kon.trat:e|kontrate||||pact (contract, covenant, alliance)|convention (alliance, pacte)|convenion (pacto)|pacto|контракт||公約||||||||||liittosopimus|pakt (kontrakt, ugoda, umowa, konwencja)
 Konakr:i Gin:ia|Konakri Ginia|dex|GN||Guinea||Guinea||||||||||||||Guinea|Gwinea
 koncung:|koncung|biv|Insecta|zho:昆蟲 (kūnchóng), yue:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), jpn:昆蟲 (konchū)|insect|insecte|insecto|inseto|насекомое||昆虫|昆虫|곤충|sâu bọ (côn trùng)|कीड़ा||serangga|mdudu|böcek||hyönteinen (ötökkä)|owad
@@ -1879,7 +1880,7 @@ krat:ia|kratia|||eng:-cracy, spa:por:-cracia, fra:-cratie, deu:-kratie, may:-kra
 krem:|krem|||fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|cream|crème|crema|crème||||クリーム||||||||kremo|kerma|krem
 krem:i|kremi|rang|||creamy (cream colored)||cremoso||||||||||||||kermankeltainen|kremowy
 krep:e|krepe|yam||fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|pancake|crêpe|panqueque (crepa)|crepe (panqueca)|блин||薄烤饼|パンケーキ|팬케이크||||||krep|krepo (patkuko)|lätty (räiskäle, pannukakku)|naleśnik
-krep.er:ia|kreperia||||crêperie|crêperie||||||||||||||krepejo|kreppikoju|naleśnikarnia
+krep.o.kan:|krepokan||||pancake house (crêperie)|crêperie||||||||||||||krepejo|kreppikoju|naleśnikarnia
 kreuet:e|krevete|||eng:fra:crevette, ita:gamberetto, rus:креветка (krevetka)|shrimp (prawn)|crevette|camarón|camarão|креветка||虾 (xiā)|海老||||||||||krewetka
 krim:|krim|||eng:fra:por:crime, spa:crimen, tgl:krimen|crime||crimen (delito)|||||||||||||krimo|rikos|przestępstwo
 krim:i|krimi||||criminal||criminal|||||||||||||krima|rikos- (rikollinen)|kryminalny, przestępczy
@@ -2127,8 +2128,9 @@ makan.ful:|makanful|biv|Taraxacum officinale||dandelion|dandélion|dientes de le
 makas:|makas|||ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí|scissors (shears)||tijera|||||||||||||tondilo|sakset|nożyce, nożyczki
 Makau:|Makau|dex|MO||Macao||Macao||||||||||||||Macao|Makau
 mal:|mal|||ara:fas:urd: مَال‎ (māl), hin:माल (māl), tur:mal, swa:mali, may:milik|property (belongings, possessions)|propriété (possession, bien)|propiedad|||مَال‎|||||माल (संपत्ति)||||||omaisuus|własność (mienie)
-mal:a|mala||||own||poseer (ser dueño de)||||||||||||||omistaa|mieć (posiadać)
-mal.an:|malan||||owner (proprietor)|possédant (propriétaire)|dueño|||||||||||||havanto|omistaja|właściciel (posiadacz)
+mal:a|mala||||own (possess, have)||poseer (tener, ser dueño de)||||||||||||||omistaa|mieć (posiadać)
+mal:u|malu||||belong|appartenir à|ser de||принадлежать||属于|||||||||aparteni|kuulua (olla jkn hallussa)|należeć
+mal.an:|malan||||owner (proprietor)|possédant (propriétaire)|dueño|||||||||||||havanto|omistaja (pitäjä, hallussapitäjä)|właściciel (posiadacz)
 malagas:i|malagasi||||Malagasy||malgache||||||||||||||malagassi|madagaskarski; malagaski
 Malagas:ia|Malagasia|dex|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 malai:i|malayi||||Malay||malayo||||||||||||||malaiji|malajski
@@ -2771,7 +2773,7 @@ Pitkern:e nes:ia|Pitkerne nesia|dex|PN||Pitcairn Islands||Islas Pitcairn||||||||
 pix:|pix|||eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|piss (urine)||pis (meados)|||||||||||||piso (urino)|virtsa (pissa, kusi)|siki
 pix:a|pixa||||piss (urinate)||mear|||||||||||||pisi (urini)|virtsata (kusta)|sikać, szczać, oddawać mocz
 piz:e|pize|||ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|pizza|pizza|pizza||пицца|||||||||||pico|pitsa (pizza)|pizza
-piz.er:ia|pizeria||||pizzeria||pizzería|||||||||||||picejo|pitseria|pizzeria
+piz.o.kan:|pizokan||||pizzeria||pizzería|||||||||||||picejo|pitseria|pizzeria
 plan:|plan|||eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan|plan|plan|plano|план||||||प्लैन||||||suunnitelma|plan
 plan:a|plana||||intend (plan)||planear (tener pensado)||||||||||||||suunnitella|planować
 planet:e|planete|||eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)|planet||planeta||||||||||||||planeetta|planeta
@@ -2889,7 +2891,6 @@ Putong: Cin:i|Putong Cini||||Mandarin Chinese (Putonghua)||chino mandarín||||||
 putong:i|putongi|||zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|common (general, universal)||general (common)||||普通|||||||||generala (universala)|yleinen (universaali)|powszechny, uniwersalny
 pux:a|puxa|||eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|push||empujar (presionar)||||||||||||||työntää (puskea)|pchnąć, pchać
 pux.er:|puxer||||piston|||||||||||||||||tłok
-Q|Q||||Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q|Q
 R|R||||R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R
 rad:a|rada||||radiate||radiar (emitir)||||||||||||||säteillä|promieniować
 rad:e|rade||||ray||rayo||||||||||||||säde|promień
@@ -3095,11 +3096,6 @@ sam.seks:i|samseksi||||homosexual||homosexual|||||||||||||samseksema|homoseksuaa
 sam.sif:a|samsifa||||emulate (simulate, mimic, model)||simular|||||シミュレートする||||||||||emulować (symulować, naśladować, modelować)
 sam.sif:i|samsifi||||similar (analogous)||similar|||||同じよう (近い)|||||||||samanlainen|podobny (analogiczny)
 sam.sif:ia|samsifia||||model (similarity, simulation)|simulation|modelo (similitud, simulación)|simulação|симуляция||模型|模型 (類似, シミュレーション)||||||||||model (podobieństwo, symulować)
-samai:|samai|||ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|sky (heaven)|ciel|cielo|céu|небо|سَمَاء|天空|空|하늘|trời|आसमान (आकाश)|আকাশ|langit|mbingu|gök|ĉielo|taivas|niebo
-samai:i|samayi||||celestial (heavenly)||celeste (celestial)|||||||||||||||niebieski, niebiański, podniebny
-samai.hal:|samaihal||||weather||clima (tiempo)||погода||天气|天気|날씨|thời tiết|मौसम (ऋतु)|বতৰ|cuaca (hawa)|hali ya hewa|hava|vetero|sää|pogoda
-samai.kenar:|samaikenar||||horizon||horizonte||горизонт||地平线|地平線 (水平線, 天際)||||||||||horyzont
-samai.nil:i|samainili||||light blue (sky blue, azure)||celeste (azul celeste)||голубой|||空色||||||||||jasnoniebieski (lazurowy)
 samar.em:|samarem|mate|Sm||samarium||samario|||||||||||||samario||samar
 Samoa:|Samoa|dex|WS||Samoa||Samoa||||||||||||||Samoa|Samoa
 san:|san|||zho:三 (sān), yue:三 (sam1), jpn:三 (san), kor:삼 (sam), vie:tam, tha:สาม (saam)|three (3)|trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)
@@ -3132,6 +3128,10 @@ sau:|sau||||knowledge||sabiduría (conocimiento)|||||||||||||scio|tieto (tietäm
 sau:a|sava|||fra:savoir, spa:por:saber, eng:savvy|know (be aware of)|savoir (connaître)|saber (conocer)|saber (conhecer)|знать||知道 (晓得)|知る|알다|biết|जानना|জানা (চেনা)|tahu|kujua|bilmek|scii (koni)|tietää (tuntea)|wiedzieć
 sau:i|savi||||known||conocido||||||||||||||tietty (tunnettu)|wiadomy, znany
 sau.loj:ia|saulojia||||epistemology||epistemología|||||||||||||sciteorio (epistemologio)|tietoteoria (epistemologia)|epistemologia
+sau.uol:|sauvol||||interest (curiosity)||interés||интерес (любопытство)||趣|興味 (好奇心)|||||||||kiinnostus (mielenkiinto)|zainteresowanie, zaciekawienie; interesujący
+sau.uol:i|sauvoli||||interested (curious)||interesado (curioso)||любопытный|||||||||||||
+sau.uol:u|sauvolu||||wonder (be interested in, would like to know)||preguntarse||задуматься (думать, гадать)|||訝る (-かしら)||||||||||
+sau.uol.an:i|sauvolani||||interesting (curious)||interesante (curioso)||интере́сный||有趣|面白い||||||||interesa||interesujący
 Saud:i Arab:ia|Saudi Arabia|dex|SA||Saudi Arabia||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska
 saudar:|saudar|||may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|sibling (brother or sister)||hermano o hermana|||||||||||||frato aŭ fratino|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 sauna:|sauna*|||fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|sauna||sauna|||||||||||||saŭno|sauna|sauna
@@ -3398,11 +3398,11 @@ telur.em:|telurem|mate|Te||tellurium||telurio|||||||||||||teluro||tellur
 tem:|tem|||fra: thème, spa: tema, rus: тема (tema), deu:Thema|topic (subject, theme)|sujet (thème)|tema||тема||主题目|||||||||temo|aihe (teema)|temat, motyw
 tem:a|tema||||be about (discuss as a subject)||tratar de|||||||||||||esti pri; pridiskuti|aiheesta (-sta)|być o; dyskutować o
 tem.nam:|temnam||||title (headline)|titre|título|título|название (пьесы, заголовок)|eunwan (laqab)|标题|題名 (書名, タイトル)||||||||||tytuł (nagłówek)
-ten:|ten||||content (possession)||contenido||||||||||||||sisältö|treść (zawartość)
-ten:a|tena|||spa:tener, fra:tenir, eng:contain|have (keep, possess)|avoir|tener (poseer)||иметь||有|||||||||havi (teni)|pitää (pitää hallussa)|mieć (trzymać)
-ten:u|tenu||||belong|appartenir à|ser de||принадлежать||属于|||||||||aparteni|kuulua (olla jkn hallussa)|należeć
-ten.er:|tener||||keeper (possessor)||poseedor||||||||||||||pitäjä (hallussapitäjä)|uchwyt (pojemnik)
-ten.list:e|tenliste||||table of contents (inventory)||índice de contenidos||||||||||||||sisällysluettelo|spis treści (tabela zawartości)
+ten:|ten|||zho:天 (tiān), yue:天 (tin1), wuu:天 (thi1), jpn:天 (ten), kor:천 (cheon), vie:thiên|sky (heaven)|ciel|cielo|céu|небо|سَمَاء|天空|空|하늘|trời|आसमान (आकाश)|আকাশ|langit|mbingu|gök|ĉielo|taivas|niebo
+ten:i|teni||||celestial (heavenly)||celeste (celestial)|||||||||||||||niebieski, niebiański, podniebny
+ten.hal:|tenhal||||weather||clima (tiempo)||погода||天气|天気|날씨|thời tiết|मौसम (ऋतु)|বতৰ|cuaca (hawa)|hali ya hewa|hava|vetero|sää|pogoda
+ten.kenar:|tenkenar||||horizon||horizonte||горизонт||地平线|地平線 (水平線, 天際)||||||||||horyzont
+ten.nil:i|tennili||||light blue (sky blue, azure)||celeste (azul celeste)||голубой|||空色||||||||||jasnoniebieski (lazurowy)
 Tenesi:|Tenesi||||Tennessee||Tennessee|||||||||||||||
 tenesi.em:|tenesiem|mate|Ts||tennessine||teneso|||||||||||||teneso||tenesyn, tennessine
 tenis:|tenis||||tennis||tennis|||||||||||||teniso|tennis|tenis
@@ -3660,7 +3660,6 @@ uz.abl:i|uzabli||||usable (available)||utilizable (disponible)|||||使用可能|
 uz.er:|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
 uz.er.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
 Uzbek:ia|Uzbekia|dex|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
-W|W||||W|W|W|W|W|W|W|W|W|W|W|W|W|W|W|W|W|W
 X|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 xak:e|xake|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 xakal:|xakal|biv||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
