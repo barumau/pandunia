@@ -3,12 +3,32 @@
 Pandunia usa o alfabeto latino básico mostrado abaixo junto com os
 correspondentes símbolos Alfabeto Fonético Internacional (AFI):
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w\~ʋ\~v | ʃ | j | z~dz |
+| a        | /a/     |
+| b        | /b/     |
+| c        | /tʃ~tʂ~tɕ/ |
+| d        | /d/     |
+| e        | /e/     |
+| f        | /f/     |
+| g        | /g/     |
+| h        | /h~x/   |
+| i        | /i/     |
+| j        | /dʒ~dʐ~dʑ/ |
+| k        | /kʰ/    |
+| l        | /l/     |
+| m        | /m/     |
+| n        | /n/     |
+| o        | /o/     |
+| p        | /pʰ/    |
+| r        | /r~ɹ/   |
+| s        | /s/     |
+| t        | /tʰ/    |
+| u        | /u/     |
+| v        | /w~ʋ~v/ |
+| x        | /ʃ~ʂ~ɕ/ |
+| y        | /j/     |
+| z        | /z~dz/  |
 
-Em Pandunia, cada letra sempre representa o mesmo som e nenhuma letra
-é muda.
+Em Pandunia, cada letra sempre representa o mesmo som e nenhuma letra é muda.
 
 ## As vogais
 

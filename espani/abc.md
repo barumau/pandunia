@@ -3,32 +3,32 @@
 Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
 con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
-| Pandunia | AFI     |
+| Pandunia | IPA     |
 |:--------:|:-------:|
 | a        | /a/     |
 | b        | /b/     |
-| c        | /tʃ~ts/ |
+| c        | /tʃ~tʂ~tɕ/ |
 | d        | /d/     |
 | e        | /e/     |
 | f        | /f/     |
 | g        | /g/     |
-| h        | /h/     |
+| h        | /h~x/   |
 | i        | /i/     |
-| j        | /dʒ/    |
-| k        | /k/     |
+| j        | /dʒ~dʐ~dʑ/ |
+| k        | /kʰ/    |
 | l        | /l/     |
 | m        | /m/     |
 | n        | /n/     |
-| p        | /p/     |
 | o        | /o/     |
+| p        | /pʰ/    |
 | r        | /r~ɹ/   |
 | s        | /s/     |
-| t        | /t/     |
+| t        | /tʰ/    |
 | u        | /u/     |
-| v        | /ʋ~w~v/ |
-| x        | /ʃ/     |
+| v        | /w~ʋ~v/ |
+| x        | /ʃ~ʂ~ɕ/ |
 | y        | /j/     |
-| z        | /z/     |
+| z        | /z~dz/  |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es muda.
 
@@ -87,15 +87,15 @@ consonante.
 
 Ejemplos:
 
-- **mav** /máw/, **hotel** /hotél/
-- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
+- **mau** /máu/, **hotel** /hotél/
+- **novi** /nówi/, **muzike** /muzíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundari planete.  
-    /dúnia sí mómi sundári planéte./
+     dunia sa momi sundari planete.  
+    /dúnia sá mómi sundári planéte./
 
-     me vola loga komuni baxe, le si pandunia.  
-    /mé vóla lóga komúni báxe, lé sí pandúnia./
+     me vola loga komuni bax, le sa pandunia.  
+    /mé vóla lóga komúni báx, lé sa pandúnia./
 
 
 ## Uso de las letras mayúsculas y minúsculas

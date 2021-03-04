@@ -3,9 +3,32 @@
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński.
 Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w\~ʋ\~v | ʃ | j | z~dz |
+| Pandunia | IPA     |
+|:--------:|:-------:|
+| a        | /a/     |
+| b        | /b/     |
+| c        | /tʃ~tʂ~tɕ/ |
+| d        | /d/     |
+| e        | /e/     |
+| f        | /f/     |
+| g        | /g/     |
+| h        | /h~x/   |
+| i        | /i/     |
+| j        | /dʒ~dʐ~dʑ/ |
+| k        | /kʰ/    |
+| l        | /l/     |
+| m        | /m/     |
+| n        | /n/     |
+| o        | /o/     |
+| p        | /pʰ/    |
+| r        | /r~ɹ/   |
+| s        | /s/     |
+| t        | /tʰ/    |
+| u        | /u/     |
+| v        | /w~ʋ~v/ |
+| x        | /ʃ~ʂ~ɕ/ |
+| y        | /j/     |
+| z        | /z~dz/  |
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
@@ -48,11 +71,11 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. hotél.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nóvi, dúnia, musíke.
 
-     dunia si momi sundari planete.  
-    /dúnia sí mómi sundári planéte./
+     dunia sa momi sundari planete.  
+    /dúnia sá mómi sundári planéte./
 
-     me wana loga komuni baxe, le si pandunia.  
-    /mé wóla lóga komúni báxe, lé sí pandúnia./
+     me vola loga komuni bax, le sa pandunia.  
+    /mé wóla lóga komúni báx, lé sá pandúnia./
 
 
 ## Wielkość liter
