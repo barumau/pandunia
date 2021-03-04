@@ -139,8 +139,6 @@ ansori - unlocked
 antapa - unplug (uncork)  
 anzaya - remove (delete, dispose, erase)  
 an:a - cause (make sb. do sth.)  
-analiza - analyse  
-analize - analysis  
 ande - egg  
 Andes - Andes  
 andesite - andesite  
@@ -633,6 +631,7 @@ darviniste - Darwinist
 darvinistia - Darwinism  
 date - data (numeric information)  
 datobanke - database (databank)  
+datofenkate - data analysis  
 datotable - data table (matrix)  
 dau - way (road)  
 dauban - road sign  
@@ -813,6 +812,7 @@ emosi - emotional (emotive)
 emosu - feel  
 emoshal - mood (emotional state)  
 eni - any (no matter which)  
+enjener - engineer  
 Enceladus - Enceladus  
 energe - energy  
 engli - English  
@@ -823,7 +823,7 @@ englokitaba - anglicize
 englomargarite - English daisy  
 enzim - enzyme  
 er - doer (agent, actor)  
-eria - shop (workshop, place of doing)  
+eria - field (art, workforce)  
 erbem - erbium  
 Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
@@ -929,6 +929,8 @@ fena - divide (to partition)
 feni - discrete (digital, quantized)  
 fenu - split (fall apart)  
 fendona - contribute  
+fenkata - analyse (dissect, parse)  
+fenkate - analysis (dissection)  
 fer - iron  
 fermem - fermium  
 festa - celebrate (party)  
@@ -1356,7 +1358,7 @@ huristi - liberal
 huristia - liberalism  
 huxi - nice (pleasant, comfortable, cushy)  
 ####I - I  
-ya - with (by)  
+ya - with (by, have)  
 ye - yes  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
@@ -1410,7 +1412,10 @@ imperistia - imperialism
 in - inside (interior)  
 inda - contain (include)  
 indi - inner (internal)  
+inan - container  
+inite - content  
 injeni - innate (endogenous, indigenous, inborn)  
+inliste - table of contents (inventory)  
 inmigra - immigrate (move in)  
 inmigran - immigrant  
 inmisa - import  
@@ -1418,7 +1423,6 @@ innam - endonym
 inpuxa - squeeze (squish)  
 insida - crouch (squat)  
 Indonesia - Indonesia  
-injener - engineer  
 insan - human being  
 insani hake - human rights  
 insania - mankind (humanity)  
@@ -1427,8 +1431,6 @@ insaniste - humanist
 insanisti - humanistic  
 insanistia - humanism  
 internete - internet  
-interes - interest  
-interesi - interesting  
 inxala - hope (wish)  
 Io - Io  
 yodem - iodine  
@@ -1481,6 +1483,7 @@ Jakarta - Jakarta
 jama - collect (gather, bring together, assemble)  
 jami - collective  
 jamia - collection (congregation, assembly)  
+jamhafiza - hold together  
 jamkarde - trading card  
 Jamaika - Jamaica  
 jampa - jump  
@@ -1604,11 +1607,11 @@ kali harfe - space (character)
 kalem - potassium  
 Kalalia - Greenland  
 kalam - pen (writing tool)  
-kalamar - squid (cuttlefish)  
 kalende - calendar  
 kalifornem - californium  
 Kalisto - Callisto  
 kalkulia - calculus (manipulation of symbolic expressions)  
+kalmar - squid (cuttlefish)  
 kalsem - calcium (Ca)  
 kalsite - calcite  
 kalsokristal - marble  
@@ -1823,8 +1826,6 @@ konsau - information (communicable knowledge)
 konsavana - communicate (inform about)  
 konsela - give consultation  
 konseler - counselor (consultant)  
-kontena - contain (hold together)  
-kontener - container  
 kontrate - pact (contract, covenant, alliance)  
 Konakri Ginia - Guinea  
 koncung - insect  
@@ -1872,7 +1873,7 @@ kratia - rule (reign)
 krem - cream  
 kremi - creamy (cream colored)  
 krepe - pancake  
-kreperia - crêperie  
+krepokan - pancake house (crêperie)  
 krevete - shrimp (prawn)  
 krim - crime  
 krimi - criminal  
@@ -2119,7 +2120,8 @@ makanful - dandelion
 makas - scissors (shears)  
 Makau - Macao  
 mal - property (belongings, possessions)  
-mala - own  
+mala - own (possess, have)  
+malu - belong  
 malan - owner (proprietor)  
 malagasi - Malagasy  
 Malagasia - Madagascar  
@@ -2761,7 +2763,7 @@ Pitkerne nesia - Pitcairn Islands
 pix - piss (urine)  
 pixa - piss (urinate)  
 pize - pizza  
-pizeria - pizzeria  
+pizokan - pizzeria  
 plan - plan  
 plana - intend (plan)  
 planete - planet  
@@ -2878,7 +2880,6 @@ Putong Cini - Mandarin Chinese (Putonghua)
 putongi - common (general, universal)  
 puxa - push  
 puxer - piston  
-####Q - Q  
 ####R - R  
 rada - radiate  
 rade - ray  
@@ -3083,11 +3084,6 @@ samseksi - homosexual
 samsifa - emulate (simulate, mimic, model)  
 samsifi - similar (analogous)  
 samsifia - model (similarity, simulation)  
-samai - sky (heaven)  
-samayi - celestial (heavenly)  
-samaihal - weather  
-samaikenar - horizon  
-samainili - light blue (sky blue, azure)  
 samarem - samarium  
 Samoa - Samoa  
 san - three (3)  
@@ -3120,6 +3116,10 @@ sau - knowledge
 sava - know (be aware of)  
 savi - known  
 saulojia - epistemology  
+sauvol - interest (curiosity)  
+sauvoli - interested (curious)  
+sauvolu - wonder (be interested in, would like to know)  
+sauvolani - interesting (curious)  
 Saudi Arabia - Saudi Arabia  
 saudar - sibling (brother or sister)  
 sauna\* - sauna  
@@ -3385,11 +3385,11 @@ telurem - tellurium
 tem - topic (subject, theme)  
 tema - be about (discuss as a subject)  
 temnam - title (headline)  
-ten - content (possession)  
-tena - have (keep, possess)  
-tenu - belong  
-tener - keeper (possessor)  
-tenliste - table of contents (inventory)  
+ten - sky (heaven)  
+teni - celestial (heavenly)  
+tenhal - weather  
+tenkenar - horizon  
+tennili - light blue (sky blue, azure)  
 Tenesi - Tennessee  
 tenesiem - tennessine  
 tenis - tennis  
@@ -3647,7 +3647,6 @@ uzabli - usable (available)
 uzer - user  
 uzernam - username  
 Uzbekia - Uzbekistan  
-####W - W  
 ####X - X  
 xake - branch (bough)  
 xakal - jackal  

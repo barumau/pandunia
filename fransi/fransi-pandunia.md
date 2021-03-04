@@ -72,8 +72,8 @@ américium - amerikem
 amérindien (indien) - aslameriki  
 Amérique - Amerike  
 anal - anusi  
-analyse - analize  
-analyser - analiza  
+analyse - fenkate  
+analyser - fenkata  
 ancre - anker  
 Andes - Andes  
 Andorre - Andora  
@@ -91,7 +91,7 @@ Antigua-et-Barbuda - Antigua e Barbuda
 antimoine - estibem  
 anus - anus  
 août - balmes  
-appartenir à - tenu  
+appartenir à - malu  
 application - aplike  
 appliquer - aplika  
 apporter - layana  
@@ -152,11 +152,10 @@ automne - padomosim
 autre - ali  
 autrement - alo  
 avant - ceno  
-avec - ya  
+avec (avoir) - ya  
 aventure - ventur  
 aventurier - venturer  
 avocat - avakate  
-avoir - tena  
 avoir besoin de - yavu  
 avoir tendance à - iva  
 axe - akse  
@@ -262,7 +261,7 @@ calcite - kalsite
 calculer - hisaba  
 calendrier - kalende  
 caleçon - bokserpante  
-calmar (encornet, calamar) - kalamar  
+calmar (encornet, calamar) - kalmar  
 calme (tranquille) - xanti  
 Camomille Romaine - romakamil  
 Camomille sauvage - kamil  
@@ -326,7 +325,7 @@ chéri - amike
 chêne - balute  
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
-ciel - samai  
+ciel - ten  
 cime (pic, sommet) - pike  
 cimetière - gabrotopia  
 cinq (5) - limi  
@@ -358,7 +357,7 @@ conseiller - sela
 considérer - hema  
 construire - bina  
 consultant (conseiller) - konseler  
-conteneur - kontener  
+conteneur - inan  
 continu (analogique) - zoki  
 continuer (poursuivre) - zoka  
 contract (traité) - trate  
@@ -399,7 +398,7 @@ crème - krem
 crème glacée - aiskrem  
 crêpe - fransi krepe  
 crêpe - krepe  
-crêperie - kreperia  
+crêperie - krepokan  
 cube - kube  
 cuiller - camace  
 culturisme (musculation) - muskulbin  
@@ -1014,7 +1013,6 @@ pâquerette - englomargarite
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - pexosaider  
-####Q - Q  
 quand - ki sate  
 quartz - kuarze  
 quatre (4) - cari  
@@ -1270,7 +1268,6 @@ végétarien - fityamiste
 Vénus - Venus  
 vêtements - fuke  
 vœu (promesse) - vode  
-####W - W  
 wolof - Volof  
 ####X - X  
 ####Z - Z  

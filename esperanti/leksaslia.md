@@ -28,7 +28,6 @@
 |**Amerike**|Ameriko|angla:America, hispana:portugala:América, rusa:Америка (Amerika), turka:svahila:malaja:Amerika, araba:أمريكا‎ (ʾamrīkā), hindia:अमेरिका (amerikā), bengala:আমেরিকা (amerika), japana:アメリカ (amerika)|
 |**amir**|ordono|araba: أَمْر‎ (ʾamr), persa: امر‎ (amr), turka:emir, svahila:amiri, haŭsa:umarni + angla:admiral, franca:amiral, hispana:portugala:emir rusa:эмир (emir)|
 |**an:a**|igi (farigi)|angla:franca:-ant, hispana:portugala:-ando, turka:-(y)an;-(y)en, malaja:-an + [ana] persa:(-ân-), hindia:(-(v)ānā), bengala:-নো  (-ānô)|
-|**analize**|analizo|angla:analysis, franca:analyse, portugala:análise, hispana:análisis, rusa:анализ (analiz), turka:analiz|
 |**ande**|ovo|hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)|
 |**ani**|mala|greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-|
 |**anim**|kartuno|angla:franca:animation, hispana:animación, portugala:animação, rusa:анимация, japana:アニメ (anime), turka:malaja:anime, araba:أنمي m (ʾanimī), hindia:ऐनिमे (ainime), korea:아니메 (anime)|
@@ -736,7 +735,6 @@
 |**saide**|ĉasado|araba:(ṣayd), turka:seyd, urdua:صید‎ (said), persa:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sal**|salo|angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)|
 |**salame**|saluto|araba:(salām), svahila:salamu, malaja:selamat, hindia:सलाम (salām), bengala: সালাম (salam), mandarena:萨拉姆 (sàlāmǔ), japana:サラーム (sarāmu), korea:살람 (sallam), vjetnama:xa lam, rusa:салям (salyam)|
-|**samai**|ĉielo|araba:(samāʾ), amhara:ሰማይ (sämay), oroma:samii, haŭsa:sama, joruba:sánmà, hindia:आसमान (āsmān), persa:panĝaba:urdua:(āsmān)|
 |**sami**|sama|angla:same, franca:semblable, rusa:самый (samyy), malaja:sama, hindia:सम (sam)|
 |**san**|tri (3)|mandarena:三 (sān), kantona:三 (sam1), japana:三 (san), korea:삼 (sam), vjetnama:tam, taja:สาม (saam)|
 |**sanduke**|skatolo (kesto)|svahila:sanduku, turka:sandık, rusa:сундук (sunduk), araba:صُنْدُوق‎ (ṣundūq), persa:urdua:صندوق‎ (sanduq)|
@@ -798,7 +796,7 @@
 |**tehne**|tekniko|greka:τεχνική (tehniki), rusa:техника (tehnika), franca:angla:technique, hispana:portugala:técnica, hindia:तकनीक (taknīk), malaja:teknik|
 |**tel**|malproksimeco|angla:hispana:portugala:malaja:tele-, franca:télé-, rusa:теле- (tele-)|
 |**tem**|temo|franca: thème, hispana: tema, rusa: тема (tema), deu:Thema|
-|**tena**|havi (teni)|hispana:tener, franca:tenir, angla:contain|
+|**ten**|ĉielo|mandarena:天 (tiān), kantona:天 (tin1), vua:天 (thi1), japana:天 (ten), korea:천 (cheon), vjetnama:thiên|
 |**teoria**|teorio|angla:theory, hispana:teoría, portugala:teoria, franca:téorie, rusa:теория (teoriya), persa:تئوری‎ (teori), malaja:teori|
 |**tepe**|bendo|angla:tape, svahila:tepu, japana:(tēpu), turka:teyp|
 |**teror**|teroro|angla:hispana:portugala:terror, franca:terreur|

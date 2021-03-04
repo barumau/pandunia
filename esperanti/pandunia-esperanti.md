@@ -78,8 +78,6 @@ anpace - malpaco
 ansavi - fremda (nekonata)  
 ansomia - sendormeco  
 an:a - igi (farigi)  
-analiza - analizi  
-analize - analizo  
 ande - ovo  
 Andes - Andoj  
 anim - kartuno  
@@ -509,6 +507,8 @@ fem - ino
 femi pute - filino  
 fen - parto (frakcio)  
 fena - dividi  
+fenkata - analizi  
+fenkate - analizo  
 fer - fero  
 fermem - fermio  
 festa - festi  
@@ -746,6 +746,7 @@ huri - libera
 huria - libereco  
 huxi - agrabla  
 ####I - I  
+ya - havi (teni)  
 ye - jes  
 yala - rapidigi  
 yama - manĝi (trinki)  
@@ -769,7 +770,6 @@ insani hake - homaj rajtoj
 insania - homaro  
 insaniki - humana  
 insanistia - homismo  
-interesi - interesa  
 inxala - esperi  
 yodem - jodo  
 yoge - jogo  
@@ -986,7 +986,7 @@ kran - krano (valvo)
 kratia - regi  
 krem - kremo  
 krepe - krepo (patkuko)  
-kreperia - krepejo  
+krepokan - krepejo  
 krim - krimo  
 krimi - krima  
 kriste - kristo  
@@ -1082,6 +1082,7 @@ magesem - magnezio
 mayan - majao  
 maitnerem - mejtnerio  
 makas - tondilo  
+malu - aparteni  
 malan - havanto  
 Mali - Malio  
 malike - jasmeno  
@@ -1350,7 +1351,7 @@ piram - piramido
 pix - piso (urino)  
 pixa - pisi (urini)  
 pize - pico  
-pizeria - picejo  
+pizokan - picejo  
 platinem - plateno  
 pliza - peti (bonvolu)  
 pliza laya - inviti  
@@ -1394,7 +1395,6 @@ pute - ido (infano)
 putau - vinbero  
 Putong Cini - mandarinĉina  
 putongi - generala (universala)  
-####Q - Q  
 ####R - R  
 radi geter - radio  
 radem - radiumo  
@@ -1491,8 +1491,6 @@ sammetria - simetrio
 samraya - samopinii (interkonsenti)  
 samrayia - interkonsento  
 samseksi - samseksema  
-samai - ĉielo  
-samaihal - vetero  
 samarem - samario  
 san - tri (3)  
 sanyom - merredo  
@@ -1506,6 +1504,7 @@ sarkaske - kasko
 sau - scio  
 sava - scii (koni)  
 saulojia - sciteorio (epistemologio)  
+sauvolani - interesa  
 saudar - frato aŭ fratino  
 sauna\* - saŭno  
 saus - saŭco  
@@ -1613,8 +1612,8 @@ telvide - televidilo
 telurem - teluro  
 tem - temo  
 tema - esti pri; pridiskuti  
-tena - havi (teni)  
-tenu - aparteni  
+ten - ĉielo  
+tenhal - vetero  
 tenesiem - teneso  
 tenis - teniso  
 teoria - teorio  
@@ -1711,7 +1710,6 @@ uranem - uranio
 urse - urso  
 vulve - vulvo  
 uza - uzi  
-####W - W  
 ####X - X  
 xake - branĉo  
 xal - koltuko  

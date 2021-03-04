@@ -129,8 +129,6 @@ ansori - lukitsematon
 antapa - korkata  
 anzaya - poistaa (hävittää)  
 an:a - teettää  
-analiza - analysoida  
-analize - analyysi  
 ande - muna  
 Andes - Andit  
 Andora - Andorra  
@@ -763,6 +761,7 @@ emos - tunne (mielenliikutus)
 emosu - tuntea (kokea tunteita)  
 emoshal - tunnetila (tuuli)  
 eni - mikä tahansa  
+enjener - insinööri  
 energe - energia  
 engli - englanti  
 Englia - Englanti  
@@ -872,6 +871,8 @@ fena - jakaa (paloitella)
 feni - osittainen (diskreetti)  
 fenu - jakautua (hajota)  
 fendona - osallistua (tehdä osansa)  
+fenkata - analysoida  
+fenkate - analyysi  
 fer - rauta  
 fermem - fermium  
 festa - juhlia  
@@ -1303,12 +1304,14 @@ imperiste - imperialisti
 imperistia - imperialismi  
 in - sisus (sisäpuoli)  
 indi - sisä- (sisäinen)  
+inan - kontti  
+inite - sisältö  
 injeni - sisäsyntyinen  
+inliste - sisällysluettelo  
 inmigra - muuttaa maahan  
 inmigran - maahanmuuttaja  
 innam - endonyymi (omakielinen nimi)  
 Indonesia - Indonesia  
-injener - insinööri  
 insan - ihminen  
 insani hake - ihmisoikeudet  
 insania - ihmiskunta  
@@ -1317,7 +1320,6 @@ insaniste - humanisti
 insanisti - humanistinen  
 insanistia - humanismi  
 internete - internet  
-interes - kiinnostus (mielenkiinto)  
 inxala - toivoa  
 yodem - jodi  
 yoga - joogata  
@@ -1361,6 +1363,7 @@ jake - pikkutakki (jakku)
 jama - koota (kerätä)  
 jami - kollektiivinen  
 jamia - yhteisö (kokoontuminen, kollektiivi)  
+jamhafiza - pitää yhdessä  
 jamkarde - keräilykortti  
 Jamaika - Jamaika  
 jampa - hypätä (hyppiä)  
@@ -1655,8 +1658,6 @@ konsau - tieto
 konsavana - tiedottaa (informoida)  
 konsela - konsultoida (antaa neuvoja)  
 konseler - konsultti  
-kontena - pitää yhdessä  
-kontener - kontti  
 kontrate - liittosopimus  
 Konakri Ginia - Guinea  
 koncung - hyönteinen (ötökkä)  
@@ -1697,7 +1698,7 @@ kratia - valta
 krem - kerma  
 kremi - kermankeltainen  
 krepe - lätty (räiskäle, pannukakku)  
-kreperia - kreppikoju  
+krepokan - kreppikoju  
 krim - rikos  
 krimi - rikos- (rikollinen)  
 kriste - kristus (messias)  
@@ -1895,7 +1896,8 @@ makas - sakset
 Makau - Macao  
 mal - omaisuus  
 mala - omistaa  
-malan - omistaja  
+malu - kuulua (olla jkn hallussa)  
+malan - omistaja (pitäjä, hallussapitäjä)  
 malagasi - malagassi  
 Malagasia - Madagaskar  
 malayi - malaiji  
@@ -2437,7 +2439,7 @@ Pitkerne nesia - Pitcairn
 pix - virtsa (pissa, kusi)  
 pixa - virtsata (kusta)  
 pize - pitsa (pizza)  
-pizeria - pitseria  
+pizokan - pitseria  
 plan - suunnitelma  
 plana - suunnitella  
 planete - planeetta  
@@ -2536,7 +2538,6 @@ putau - viinirypäle
 Putong Cini - yleiskiina (mandariinikiina)  
 putongi - yleinen (universaali)  
 puxa - työntää (puskea)  
-####Q - Q  
 ####R - R  
 rada - säteillä  
 rade - säde  
@@ -2710,8 +2711,6 @@ samraya - olla samaa mieltä
 samrayia - yhteisymmärrys  
 samseksi - homoseksuaali  
 samsifi - samanlainen  
-samai - taivas  
-samaihal - sää  
 Samoa - Samoa  
 san - kolme (3)  
 sangon - kolmio  
@@ -2739,6 +2738,7 @@ sau - tieto (tietämys)
 sava - tietää (tuntea)  
 savi - tietty (tunnettu)  
 saulojia - tietoteoria (epistemologia)  
+sauvol - kiinnostus (mielenkiinto)  
 Saudi Arabia - Saudi Arabia  
 saudar - sisarus (veli tai sisko)  
 sauna\* - sauna  
@@ -2948,11 +2948,8 @@ telvide - televisio
 telugi - telugu (eräs intialainen kieli)  
 tem - aihe (teema)  
 tema - aiheesta (-sta)  
-ten - sisältö  
-tena - pitää (pitää hallussa)  
-tenu - kuulua (olla jkn hallussa)  
-tener - pitäjä (hallussapitäjä)  
-tenliste - sisällysluettelo  
+ten - taivas  
+tenhal - sää  
 tenis - tennis  
 tenta - houkutella  
 teoria - teoria  
@@ -3158,7 +3155,6 @@ vute - esine (tavara)
 uza - käyttää  
 uzer - käyttäjä  
 Uzbekia - Uzbekistan  
-####W - W  
 ####X - X  
 xake - oksa (haara)  
 xakal - šakaali  

@@ -115,8 +115,8 @@ ampoule (vial) - ampul
 amuse (entertain) - vana  
 anaglyphic (stereoscopic) - dulgrafi  
 anal - anusi  
-analyse - analiza  
-analysis - analize  
+analyse (dissect, parse) - fenkata  
+analysis (dissection) - fenkate  
 anchor - anker  
 Ancient Egypt (Kemet) - Kemia  
 and - e  
@@ -352,7 +352,7 @@ Belize - Belize
 bell - danger  
 belly (stomach, abdomen) - pete  
 belong (be a member) - memba  
-belong - tenu  
+belong - malu  
 belt (zone) - zon  
 bench - bence  
 beneficial (good) - evi  
@@ -579,7 +579,7 @@ cave - guh
 Cayman Islands - Kaiman nesia  
 ceiling - kamargau  
 celebrate (party) - festa  
-celestial (heavenly) - samayi  
+celestial (heavenly) - teni  
 celestial body - astre  
 cell (biology) - cel  
 cement - semente  
@@ -772,10 +772,9 @@ consitution - bazokanun
 consonant - kenarfon  
 conspiracy (plot) - sirplan  
 consume (eat or drink) - yama  
-contain (hold together) - kontena  
 contain (include) - inda  
-container - kontener  
-content (possession) - ten  
+container - inan  
+content - inite  
 continue (carry on, proceed) - zoka  
 continue (go on, keep on) - zoku  
 continue (resume) - reizoka  
@@ -847,7 +846,6 @@ crucify - krusfiksa
 cruelty (tyranny, despotism) - zalimia  
 cry (shout) - krita  
 crystal - bilor  
-crêperie - kreperia  
 Cuba - Kuba  
 cube - kube  
 cucumber - hiar  
@@ -891,6 +889,7 @@ darmstadtium - darmositem
 Darwinism - darvinistia  
 Darwinist - darviniste  
 data (numeric information) - date  
+data analysis - datofenkate  
 data table (matrix) - datotable  
 database (databank) - datobanke  
 date - nenmesyom  
@@ -1099,7 +1098,7 @@ enemy (unfriend) - andoste
 enemy - anamike  
 energy - energe  
 engine (motor) - moter  
-engineer - injener  
+engineer - enjener  
 England - Englia  
 English - engli  
 English daisy - englomargarite  
@@ -1227,6 +1226,7 @@ fermium - fermem
 fern - parne  
 fertilize - caniva  
 fertilizer - caniver  
+field (art, workforce) - eria  
 field (square, plaza, maidan) - meden  
 fiery - hogi  
 fiever - febre  
@@ -1510,7 +1510,6 @@ hassium - hesem
 hat (cap) - tupe  
 hate (despise) - hena  
 hatred (hate, resentment, odium) - hen  
-have (keep, possess) - tena  
 have sex - seksa  
 Hawaii - Havai  
 Hawaiian archipelago - Havai nesia  
@@ -1565,6 +1564,7 @@ hobbyist - hobiste
 hockey - hoke  
 hoe - cope  
 hold (detain) - estasa  
+hold together - jamhafiza  
 hole - kong  
 holiday - festoden  
 holmium - holmem  
@@ -1583,7 +1583,7 @@ Hong Kong, SAR China - Hong Gong
 honorable (respectable) - onori  
 hook - huke  
 hope (wish) - inxala  
-horizon - samaikenar  
+horizon - tenkenar  
 hormone - hormon  
 horn - korne  
 horned melon (kiwano) - kornomelon  
@@ -1676,8 +1676,9 @@ insult (offense) - dusnam
 intend (plan) - plana  
 intensify - tezu  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - tezi  
-interest - interes  
-interesting - interesi  
+interest (curiosity) - sauvol  
+interested (curious) - sauvoli  
+interesting (curious) - sauvolani  
 interethnic - zukomedi  
 interface - medofas  
 international - nasmedi  
@@ -1756,7 +1757,6 @@ karate - karate\*
 Karnataka - karnadia  
 Kazakhstan - Kazakia  
 keep (preserve, conserve, retain, spare) - hafiza  
-keeper (possessor) - tener  
 keeper (preserver) - hafizer  
 kelp - varkalge  
 kelp forest - algojangle  
@@ -1879,7 +1879,7 @@ life (existence) - jiu
 light (bright) - foti  
 light (illumination) - fote  
 light (weightless) - legi  
-light blue (sky blue, azure) - samainili  
+light blue (sky blue, azure) - tennili  
 lightning bolt - eletrorade  
 like (enjoy, be fond of) - suku  
 like - fila  
@@ -2411,7 +2411,7 @@ outer (external) - vayi
 outsider - vaijan  
 oven (furnace) - tanur  
 overpass - supre  
-own - mala  
+own (possess, have) - mala  
 owner (proprietor) - malan  
 oxeye daisy - bakomargarite  
 oxide - okside  
@@ -2442,6 +2442,7 @@ pan-Asian - panasi
 pan-European - paneuropi  
 Panama - Panama  
 pancake - krepe  
+pancake house (crêperie) - krepokan  
 panda - pande  
 pandemic - pandemi  
 pandemic disease - pandemi patia  
@@ -2568,7 +2569,7 @@ piston - puxer
 pit (excavation, cavity) - kau  
 Pitcairn Islands - Pitkerne nesia  
 pizza - pize  
-pizzeria - pizeria  
+pizzeria - pizokan  
 place (location) - loke  
 plain (ordinary, unadorned, simple, mere) - sadi  
 plain (plateau, flat lands) - platotopia  
@@ -2727,7 +2728,6 @@ put (place, set) - loka
 put forward (advance, progress) - jina  
 pyramid - piram  
 pyrolatry - hogopujia  
-####Q - Q  
 Qatar - Katar  
 qualify (describe) - sifa  
 quark (paneer) - panir  
@@ -3051,7 +3051,6 @@ shoemaker's shop - sapatokan
 shogunate - gunrajia  
 shoot (fire) - pava  
 shop (store or workshop) - kan  
-shop (workshop, place of doing) - eria  
 shopping - xope  
 shore (bank, edge) - tate  
 short (brief) - korti  
@@ -3097,7 +3096,7 @@ skillful (crafty) - xuti
 skin (peel, bark, leather) - pil  
 skirt - jupe  
 skull - saroste  
-sky (heaven) - samai  
+sky (heaven) - ten  
 slab (slate, tablet, board) - table  
 Slavic - slavi  
 sleep (be asleep) - somu  
@@ -3195,7 +3194,7 @@ spruce tree - pis
 square (tetragon) - cargon  
 squash (pumpkin, gourd) - kaboge  
 squeeze (squish) - inpuxa  
-squid (cuttlefish) - kalamar  
+squid (cuttlefish) - kalmar  
 squirrel - ekor  
 Sranan Tongo - surinami bax  
 Sri Lanka (Ceylon) - Lanka  
@@ -3310,7 +3309,7 @@ system - sistem
 systemic - sistemi  
 ####T - T  
 table - meze  
-table of contents (inventory) - tenliste  
+table of contents (inventory) - inliste  
 tablecloth - mezotex  
 tablette computer - tablokomputer  
 tabulate - tabla date  
@@ -3647,7 +3646,6 @@ vote (ballot) - vote
 vote (cast a vote) - vota  
 vowel - jungofon  
 vulva - vulve  
-####W - W  
 wait - denga  
 wake (become awake) - jagu  
 wake (make awake) - jaga  
@@ -3683,7 +3681,7 @@ weak - debili
 wealth (fortune) - ricia  
 weapon (arms) - arme  
 wear (dress, put on) - fuku  
-weather - samaihal  
+weather - tenhal  
 weave - texa  
 website - netoloke  
 Wednesday - sanyom  
@@ -3735,12 +3733,13 @@ winter melon (wax gourd, ash gourd) - mummelon
 wintry - lengomosimi  
 wisdom - sofia  
 wise - sofi  
-with (by) - ya  
+with (by, have) - ya  
 without - na  
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - maturi fem  
 wonder (be amazed) - ajabu  
+wonder (be interested in, would like to know) - sauvolu  
 wood (timber) - mokomate  
 wood board (plank) - mokoban  
 wool (fleece) - mehi kex  

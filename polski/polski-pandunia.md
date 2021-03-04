@@ -52,8 +52,8 @@ amerykański - ameriki
 Amhara, amharski - Amari  
 amper - amper  
 ampułka - ampul  
-analiza - analize  
-analizować - analiza  
+analiza - fenkate  
+analizować - fenkata  
 analny, odbytni - anusi  
 ananans - nanas  
 andezyt - andesite  
@@ -850,7 +850,7 @@ Honduras - Onduras
 Hong Kong - Hong Gong  
 honorowy - onori  
 hormon - hormon  
-horyzont - samaikenar  
+horyzont - tenkenar  
 hotel - hotel  
 houstoia azurowa - nilseramxing  
 houstonia - seramxing  
@@ -895,10 +895,10 @@ informacja - konsau
 inny - ali  
 innymi słowy - alnamo  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tezi  
-interesujący - interesi  
+interesujący - sauvolani  
 interfejs - medofas  
 internet - internete  
-inżynier - injener  
+inżynier - enjener  
 Irak - Irakia  
 Iran - Iran  
 Irlandia - Aire  
@@ -939,7 +939,7 @@ Japonia - Nipon
 japoński - niponi  
 jarzmo - yoke  
 jaskinia - guh  
-jasnoniebieski (lazurowy) - samainili  
+jasnoniebieski (lazurowy) - tennili  
 jasny, czysty - mingi  
 jasny, świetlny - foti  
 jastrun właściwy - bakomargarite  
@@ -1042,7 +1042,7 @@ Kaukazja - Kaukasia
 kawa - kafe\*  
 kawiarnia - kafekan  
 Kazachstan - Kazakia  
-kałamarnica (mątwa) - kalamar  
+kałamarnica (mątwa) - kalmar  
 każdy człowiek, wszyscy - pan jan  
 każdy, wszyscy - mei  
 kebab - kababi manse  
@@ -1470,7 +1470,7 @@ miesiąc - mes
 mieszkać - doma  
 mieć (partykuła posiadania) - du  
 mieć (posiadać) - mala  
-mieć (trzymać) - tena  
+mieć (trzymać) - ya  
 mieć sens - razonu  
 migdał - badam  
 migracja - migre  
@@ -1611,9 +1611,9 @@ nagrobek - gabroxeke
 nahuatl - navati  
 najmniej, minimalnie - minim (minimo)  
 naleśnik - krepe  
-naleśnikarnia - kreperia  
+naleśnikarnia - krepokan  
 należeć (być członkiem) - memba  
-należeć - tenu  
+należeć - malu  
 namalować, malować - penta  
 namalować, malować - pente  
 Namibia - Namibia  
@@ -1672,9 +1672,9 @@ nie zgadzać się - alraya
 niebezpieczeństwo, ryzyko, szansa - zar  
 niebezpieczny - hatri  
 niebieski - nili  
-niebieski, niebiański, podniebny - samayi  
+niebieski, niebiański, podniebny - teni  
 niebieskozielony (cyjan) - siani  
-niebo - samai  
+niebo - ten  
 niech my, hajda - haida  
 niechętny - anici  
 niedziela - setyom  
@@ -2005,7 +2005,7 @@ Pitcairn - Pitkerne nesia
 piwo - bir  
 piwonia - mudan  
 pizza - pize  
-pizzeria - pizeria  
+pizzeria - pizokan  
 pióro - per  
 pióro, długopis - kalam  
 piątek - limyom  
@@ -2064,7 +2064,7 @@ podążać - bada
 podłoga - kamartal  
 poemat - xir  
 poeta - xirer  
-pogoda - samaihal  
+pogoda - tenhal  
 pogrubiona litera - grosi harfe  
 poinformować, informować, zakomunikować, komunikować - konsavana  
 pojawić się - zayu  
@@ -2364,7 +2364,6 @@ płuco - pulmon
 płyta - tail  
 płyta tektoniczna - geukaski plate  
 płytki - faskaribi  
-####Q - Q  
 ####R - R  
 rabuś (grabieżca) - luter  
 rachunek (faktura) - bil  
@@ -2648,7 +2647,7 @@ spadek, dziedzictwo, spuścizna, zapis - varis
 spalić, palić - hoga  
 spać - somu  
 specjalny, wyraźny, wyrazisty - hasi  
-spis treści (tabela zawartości) - tenliste  
+spis treści (tabela zawartości) - inliste  
 spisek (konspiracja) - sirplan  
 spocony - suedi  
 spodnie (pantalony, portki) - pante  
@@ -2924,8 +2923,8 @@ tost - rosti pang
 towarzysz (partner, kumpel) - latojan  
 transport - transeria  
 trawa - cau  
-trawa morhai.ful: - haicau  
-treść (zawartość) - ten  
+trawa mor - haicau  
+treść (zawartość) - inite  
 tropikalny - garmozoni  
 tropiki - garmozon  
 trucizna (toksyna) - tokse  
@@ -2989,7 +2988,6 @@ tłuszcz - fete
 ####U - U  
 ubranie, ubiór, strój - fuke  
 ucho - or  
-uchwyt (pojemnik) - tener  
 uciec, uciekać - bega  
 uciszyć (uciszać) - xuxa  
 uczestniczyć, wziąć udział, brać udział - parta  
@@ -3054,7 +3052,6 @@ użyć, używać, zatrudnić, stosować - uza
 Vanuatu - Vanuatu  
 viski - viske  
 voodoo - vodun  
-####W - W  
 w innym wypadku (inaczej) - alo  
 w przyszłości - vilo  
 waga (ciężkość) - baria  
@@ -3318,7 +3315,7 @@ zagranica - vaidex
 zagraniczny - vaidexi  
 zagrożenie, niebezpieczeństwo - hatre  
 zaimek - visloge  
-zainteresowanie, zaciekawienie; interesujący - interes  
+zainteresowanie, zaciekawienie; interesujący - sauvol  
 zajęty - mangi  
 zaklecie - magasar  
 zakopać (pochować) - gabra  

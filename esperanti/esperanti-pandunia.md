@@ -70,8 +70,8 @@ ampero - amper
 amuza - vani  
 amuzi - vana  
 amuzo - van  
-analizi - analiza  
-analizo - analize  
+analizi - fenkata  
+analizo - fenkate  
 ananaso - nanas  
 anaso - bate  
 Andoj - Andes  
@@ -87,7 +87,7 @@ antaŭiri - cena
 anteno - anten  
 anusa - anusi  
 anuso - anus  
-aparteni - tenu  
+aparteni - malu  
 araba - arabi  
 araneo - aran  
 araneofobio - aranfobia  
@@ -570,7 +570,7 @@ hasio - hesem
 havanto - malan  
 haveno - haiporte  
 haveno - porte  
-havi (teni) - tena  
+havi (teni) - ya  
 hazarda - zari  
 hazardo - zar  
 haŭto - pil  
@@ -635,7 +635,7 @@ instrui - xulana
 instruisto - xulaner  
 insulto - ninde  
 inter - medu  
-interesa - interesi  
+interesa - sauvolani  
 interetna - zukomedi  
 interkonsento - samrayia  
 internacia - nasmedi  
@@ -831,7 +831,7 @@ kreda - xina
 kredo - xin  
 kredulo - diniste  
 kremo - krem  
-krepejo - kreperia  
+krepejo - krepokan  
 krepo (patkuko) - krepe  
 kreski - rastu  
 krima - krimi  
@@ -1229,7 +1229,7 @@ peza - bari
 pezmetalo - barmetal  
 pezo - baria  
 piano - piano\*  
-picejo - pizeria  
+picejo - pizokan  
 pico - pize  
 piedo - fute  
 piedpilko - futobol  
@@ -1320,7 +1320,6 @@ punkto - punte
 pura - safi  
 purigi - safa  
 purigisto - safer  
-####Q - Q  
 ####R - R  
 rabi - luta  
 rabisto - luter  
@@ -1665,7 +1664,7 @@ vespero - suar
 vesti (surporti) - fuku  
 vestigi - fuka  
 vesto - fuke  
-vetero - samaihal  
+vetero - tenhal  
 vi (ci) - te  
 vi ĉiu - tote  
 via (cia) - ti  
@@ -1705,7 +1704,6 @@ vorto (parolo) - loge
 vosto - vei  
 vulpo - hulei  
 vulvo - vulve  
-####W - W  
 ####X - X  
 ####Z - Z  
 Zambio - Zambia  
@@ -1743,7 +1741,7 @@ zuluo - Zulu
 ĉeno - silsil  
 ĉevalo - gude  
 ĉiam - pansato  
-ĉielo - samai  
+ĉielo - ten  
 ĉimpanzo - cimpanze  
 ĉinĉilo - cincil  
 ĉirkaŭi - cirka  

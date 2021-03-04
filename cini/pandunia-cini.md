@@ -44,8 +44,6 @@ amer - 恋人 (情人, 爱人)
 andiniste - 不信神的  
 anmema - 忘记  
 ansomia - 失眠  
-analiza - 分析  
-analize - 分析  
 andesite - 安山岩  
 anim - 活跃  
 anjil - 信息  
@@ -274,6 +272,8 @@ fatigu - 疲劳
 feyu - 飞  
 fem - 女  
 feni - 数字的  
+fenkata - 分析  
+fenkate - 分析  
 filsofia - 哲学  
 filme - 膜  
 fino - 了  
@@ -396,6 +396,7 @@ hulei - 狐狸
 huri - 自由的  
 huria - 自由  
 ####I - I  
+ya - 有  
 ye - 对 (是)  
 yamfite - 蔬菜  
 yamyau - 饥饿  
@@ -460,8 +461,8 @@ kaguje - 纸
 kagujolimon - 墨西哥萊檬  
 kali harfe - 空隙  
 kalam - 笔  
-kalamar - 鱿鱼  
 kalende - 日历  
+kalmar - 鱿鱼  
 kalsite - 方解石  
 kalsokristal - 大理石  
 kalsomate - 石灰  
@@ -628,6 +629,7 @@ mome - 我们
 magesem - 镁  
 Magribia - 摩洛哥  
 makanful - 蒲公英  
+malu - 属于  
 mam - 妈妈  
 mangi - 忙  
 manihayistia - 摩尼教  
@@ -813,7 +815,6 @@ purfityamiste - 纯素食主义者
 purxipa - 浸泡  
 putavoranje - 葡萄柚  
 putongi - 普通  
-####Q - Q  
 ####R - R  
 rangarkosalmon - 虹鱒  
 rangomate - 染料  
@@ -860,9 +861,6 @@ sammetri - 对称
 sammetria - 对称性  
 samrayia - 一致  
 samsifia - 模型  
-samai - 天空  
-samaihal - 天气  
-samaikenar - 地平线  
 san - 三 (3)  
 sanyom - 星期三 (禮拜三)  
 sanzong - 三叉戟  
@@ -872,6 +870,8 @@ sapate - 鞋
 sar - 头  
 Saturne - 土星  
 sava - 知道 (晓得)  
+sauvol - 趣  
+sauvolani - 有趣  
 sem - 种  
 semi - 种子的  
 semdan - 种子  
@@ -941,8 +941,9 @@ telfona - 打电话
 telvide - 电视机  
 tem - 主题目  
 temnam - 标题  
-tena - 有  
-tenu - 属于  
+ten - 天空  
+tenhal - 天气  
+tenkenar - 地平线  
 terci - 斜的  
 teroristia - 恐怖行为  
 tes - 论据  
@@ -1004,7 +1005,6 @@ volu - 想要 (愿意)
 ura - 好哇  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
-####W - W  
 ####X - X  
 xalke - 鳞  
 Xanghai - 上海  

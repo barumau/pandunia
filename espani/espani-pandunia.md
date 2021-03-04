@@ -163,7 +163,7 @@ amperio - amper
 ampolla (vial) - ampul  
 América - Amerike  
 anal - anusi  
-analizar - analiza  
+analizar (disecar) - fenkata  
 anaranjado - oranji  
 ancho - kuani  
 anchura - kuania  
@@ -194,7 +194,8 @@ Antillas Neerlandesas - Nederlandi Antil
 antimonio - estibem  
 antorcha - fotobaton  
 antónimo - fannam  
-análisis - analize  
+análisis (disección) - fenkate  
+análisis de datos - datofenkate  
 anón (ates, saramuyo) - ata\*  
 aparecer - zayu  
 apartarse (desviarse) - rutogalta  
@@ -488,7 +489,7 @@ calabacín - lilkaboge
 calabaza - kaboge  
 calabaza china (calabaza de la cera) - mummelon  
 calabaza de peregrino - suikaboge  
-calamar - kalamar  
+calamar - kalmar  
 calamar vampiro - vampirbalsenter  
 calcetín - maze  
 calcio - kalsem  
@@ -590,8 +591,8 @@ cebolla - piaze
 cebra - zebre  
 celebración (fiesta) - feste  
 celebrar (festejar) - festa  
-celeste (azul celeste) - samainili  
-celeste (celestial) - samayi  
+celeste (azul celeste) - tennili  
+celeste (celestial) - teni  
 celoso (envidioso) - jelosi  
 cementerio - gabrotopia  
 cemento - semente  
@@ -649,7 +650,7 @@ chorrear - lova
 chupar (succionar) - cupa  
 cian - siani  
 ciclista - sikliste  
-cielo - samai  
+cielo - ten  
 cien (100) - xati  
 ciencia (estudia, investigación) - lojia  
 ciencia política - politikolojia  
@@ -679,7 +680,7 @@ clase (categoría) - klas
 clasificar - klasa  
 clavo (pincho, punta) - ding  
 cliente - klien  
-clima (tiempo) - samaihal  
+clima (tiempo) - tenhal  
 clima - klim  
 climatología - klimlojia  
 clon - klona  
@@ -756,7 +757,7 @@ comunicar (informar) - konsavana
 comunismo - koncanistia  
 comunista - koncaniste  
 comunitario - komuni  
-con - ya  
+con (tener) - ya  
 concentración - fokusa  
 concentrar (enfocarse) - fokus  
 conceptual - ideyi  
@@ -788,9 +789,9 @@ construir (edificar) - bina
 consultor - konseler  
 contaminación (corrupción, porquería, suciedad) - najis  
 contar - numba  
-contenedor - kontener  
+contenedor - inan  
 contener - inda  
-contenido - ten  
+contenido - inite  
 continuar (reanudar) - reizoka  
 continuo (analógico) - zoki  
 contrario (opuesto) - fani  
@@ -1608,7 +1609,7 @@ Hong Kong - Hong Gong
 hongo (moho) - fung  
 honrar - onora  
 hora - hor  
-horizonte - samaikenar  
+horizonte - tenkenar  
 hormigo - murce  
 hormona - hormon  
 hornacina - nix  
@@ -1685,7 +1686,7 @@ inflamación - itis
 información - konsau  
 informe (reporte, noticia) - reporte  
 infortunio (mala suerte) - dusi zar  
-ingeniero - injener  
+ingeniero - enjener  
 Inglaterra - Englia  
 inglés - engli  
 inmigrante - inmigran  
@@ -1703,7 +1704,8 @@ insulto (ofensa, afrenta) - ninde
 intenso (brusco, ácido, fuerte, afilado, rápido) - tezi  
 intentar (probar) - testa  
 intercambiar (canjear) - badla  
-interesante - interesi  
+interesado (curioso) - sauvoli  
+interesante (curioso) - sauvolani  
 interfaz de línea de comandos - amirlinye  
 interior (interno) - indi  
 interior - in  
@@ -1711,7 +1713,7 @@ internacional - nasmedi
 Internet - internete  
 interracial - rasmedi  
 interrogativa - eskan  
-interés - interes  
+interés - sauvol  
 interétnica - zukomedi  
 invernal - lengomosimi  
 invierno - lengomosim  
@@ -2596,7 +2598,7 @@ piso (suelo) - kamartal
 pistola (rifle) - pau  
 pistola - pistol  
 pizza - pize  
-pizzería - pizeria  
+pizzería - pizokan  
 piña - nanas  
 placa tectónica - geukaski plate  
 plan - plan  
@@ -2655,8 +2657,7 @@ portapapeles - katoglutoban
 porto - porte  
 Portugal - Portugal  
 pose (postura) - poze  
-poseedor - tener  
-poseer (ser dueño de) - mala  
+poseer (tener, ser dueño de) - mala  
 posible - abli  
 posiblemente - ablo  
 poste (estaca, palo) - zong  
@@ -2672,6 +2673,7 @@ preferir (favorecer) - maxfila
 prefijo - cenfikse  
 pregunta - eske  
 preguntar (inquirir) - eska  
+preguntarse - sauvolu  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
 presente - zai  
@@ -2758,7 +2760,6 @@ pícea - pis
 pólvora - barude  
 póquer - poke  
 público - demi  
-####Q - Q  
 qualquier - eni  
 que (como) - ka  
 quedarse - restu  
@@ -3022,7 +3023,7 @@ sentir - emosu
 septiembre - naumes  
 ser (estar) - sa  
 ser - ser  
-ser de - tenu  
+ser de - malu  
 ser humano - insan  
 ser visto - vidu  
 Serbia - Serbia  
@@ -3209,7 +3210,6 @@ templo - pujokan
 tendencia - ivia  
 tender - iva  
 tenedor - forke  
-tener (poseer) - tena  
 tener gusto a - gustu ko  
 tener sentido - razonu  
 tener sexo - seksa  
@@ -3477,7 +3477,6 @@ vuelta - retre
 vulva - vulve  
 válvula (llave, canilla) - kran  
 vía férrea - trendau  
-####W - W  
 Wallis y Futuna - Valis e Futuna nesia  
 ####X - X  
 xenón - xenon  
@@ -3530,7 +3529,7 @@ zulú - Zulu
 éste - dong  
 ética (filosofía moral) - darmolojia  
 étnico - zuki  
-índice de contenidos - tenliste  
+índice de contenidos - inliste  
 ósmosis - osmos  
 óxide - okside  
 únicamente (solo) - uniko  

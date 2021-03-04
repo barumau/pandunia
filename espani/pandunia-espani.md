@@ -115,8 +115,6 @@ anseksi - asexual
 ansomia - insomnio  
 antapa - desatascar  
 anzaya - quitar (eliminar, borrar)  
-analiza - analizar  
-analize - análisis  
 ande - huevo  
 Andes - Andes  
 andesite - andesita  
@@ -581,6 +579,7 @@ darviniste - darwinista
 darvinistia - darwinismo  
 date - datos  
 datobanke - banco de datos (base de datos)  
+datofenkate - análisis de datos  
 datotable - tabla  
 dau - camino (calle)  
 dauban - señal de tránsito  
@@ -747,6 +746,7 @@ emosi - emotivo
 emosu - sentir  
 emoshal - humor  
 eni - qualquier  
+enjener - ingeniero  
 energe - energía  
 engli - inglés  
 Englia - Inglaterra  
@@ -852,6 +852,8 @@ fena - dividir (repartir)
 feni - discreto (digital)  
 fenu - partir (dividirse)  
 fendona - contribuir  
+fenkata - analizar (disecar)  
+fenkate - análisis (disección)  
 fer - hierro  
 fermem - fermio  
 festa - celebrar (festejar)  
@@ -1249,7 +1251,7 @@ huristi - liberal
 huristia - liberalismo  
 huxi - cómodo (lujoso)  
 ####I - I  
-ya - con  
+ya - con (tener)  
 ye - sí  
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
@@ -1299,14 +1301,16 @@ imperistia - imperialismo
 in - interior  
 inda - contener  
 indi - interior (interno)  
+inan - contenedor  
+inite - contenido  
 injeni - innato (endógeno)  
+inliste - índice de contenidos  
 inmigra - inmigrar  
 inmigran - inmigrante  
 inmisa - importar  
 innam - endónimo  
 insida - agacharse  
 Indonesia - Indonesia  
-injener - ingeniero  
 insan - ser humano  
 insani hake - derechos humanos  
 insania - humanidad (género humano)  
@@ -1315,8 +1319,6 @@ insaniste - humanista
 insanisti - humanístico  
 insanistia - humanismo  
 internete - Internet  
-interes - interés  
-interesi - interesante  
 inxala - esperar (desear)  
 yodem - yodo (iodo)  
 yoga - hacer yoga  
@@ -1478,10 +1480,10 @@ kali harfe - espacio (texto)
 kalem - potasio  
 Kalalia - Groenlandia  
 kalam - bolígrafo  
-kalamar - calamar  
 kalende - calendario  
 kalifornem - californio  
 kalkulia - cálculo  
+kalmar - calamar  
 kalsem - calcio  
 kalsite - calcita  
 kalsokristal - marmól  
@@ -1676,7 +1678,6 @@ konpaxia - compasión
 konsau - información  
 konsavana - comunicar (informar)  
 konseler - consultor  
-kontener - contenedor  
 kontrate - convenion (pacto)  
 Konakri Ginia - Guinea  
 koncung - insecto  
@@ -1950,7 +1951,8 @@ makanful - dientes de león (panaderos)
 makas - tijera  
 Makau - Macao  
 mal - propiedad  
-mala - poseer (ser dueño de)  
+mala - poseer (tener, ser dueño de)  
+malu - ser de  
 malan - dueño  
 malagasi - malgache  
 Malagasia - Madagascar  
@@ -2551,7 +2553,7 @@ Pitkerne nesia - Islas Pitcairn
 pix - pis (meados)  
 pixa - mear  
 pize - pizza  
-pizeria - pizzería  
+pizokan - pizzería  
 plan - plan  
 plana - planear (tener pensado)  
 planete - planeta  
@@ -2665,7 +2667,6 @@ putavoranje - pomelo (toronja)
 Putong Cini - chino mandarín  
 putongi - general (common)  
 puxa - empujar (presionar)  
-####Q - Q  
 ####R - R  
 rada - radiar (emitir)  
 rade - rayo  
@@ -2861,11 +2862,6 @@ samseksi - homosexual
 samsifa - simular  
 samsifi - similar  
 samsifia - modelo (similitud, simulación)  
-samai - cielo  
-samayi - celeste (celestial)  
-samaihal - clima (tiempo)  
-samaikenar - horizonte  
-samainili - celeste (azul celeste)  
 samarem - samario  
 Samoa - Samoa  
 san - tres (3)  
@@ -2897,6 +2893,10 @@ sau - sabiduría (conocimiento)
 sava - saber (conocer)  
 savi - conocido  
 saulojia - epistemología  
+sauvol - interés  
+sauvoli - interesado (curioso)  
+sauvolu - preguntarse  
+sauvolani - interesante (curioso)  
 Saudi Arabia - Arabia Saudita  
 saudar - hermano o hermana  
 sauna\* - sauna  
@@ -3152,11 +3152,11 @@ telurem - telurio
 tem - tema  
 tema - tratar de  
 temnam - título  
-ten - contenido  
-tena - tener (poseer)  
-tenu - ser de  
-tener - poseedor  
-tenliste - índice de contenidos  
+ten - cielo  
+teni - celeste (celestial)  
+tenhal - clima (tiempo)  
+tenkenar - horizonte  
+tennili - celeste (azul celeste)  
 Tenesi - Tennessee  
 tenesiem - teneso  
 tenis - tennis  
@@ -3394,7 +3394,6 @@ uzabli - utilizable (disponible)
 uzer - usuario  
 uzernam - nombre de usuario  
 Uzbekia - Uzbekistán  
-####W - W  
 ####X - X  
 xake - rama  
 xakal - chacal  

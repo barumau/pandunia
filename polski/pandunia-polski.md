@@ -116,8 +116,6 @@ ansora - otworzyć (otwierać, odkluczyć, odkluczać)
 ansori - zamknięty na klucz (zakluczony)  
 antapa - odetkać, odtykać  
 anzaya - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
-analiza - analizować  
-analize - analiza  
 ande - jajko (jajo)  
 Andes - Andy  
 andesite - andezyt  
@@ -750,6 +748,7 @@ emosi - emocjonalny (uczuciowy)
 emosu - czuć, odczuć, odczuwać  
 emoshal - humor (nastrój)  
 eni - jakikolwiek, którykolwiek  
+enjener - inżynier  
 energe - energia  
 engli - Anglik; angielski  
 Englia - Anglia  
@@ -855,6 +854,8 @@ fena - dzielić
 feni - dyskretny (cyfrowy, kwantowy)  
 fenu - pęknąć (rozpaść się)  
 fendona - wnieć wkład (przyczynić się)  
+fenkata - analizować  
+fenkate - analiza  
 fer - żelazo  
 fermem - ferm  
 festa - świętować, imprezować  
@@ -1121,7 +1122,7 @@ hai - może
 hayi - morski  
 hayalge - wodorosty  
 hayamirer - admirał  
-haicau - trawa morhai.ful:  
+haicau - trawa mor  
 haiful - ukwiał  
 haigun - marynarka (flota)  
 haihiar - strzykwa  
@@ -1245,6 +1246,7 @@ huristi - liberalny, wolnościowy
 huristia - liberalizm  
 huxi - miły, przyjemny, uroczy  
 ####I - I  
+ya - mieć (trzymać)  
 ye - tak  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
@@ -1296,13 +1298,14 @@ imperistia - imperializm
 in - wnętrze (środek)  
 inda - zawierać  
 indi - wewnętrzny  
+inite - treść (zawartość)  
 injeni - wewnętrzny  
+inliste - spis treści (tabela zawartości)  
 inmisa - importować (zaimportować)  
 innam - endonim  
 inpuxa - ścisnąć (sciskać, wycisnąć)  
 insida - kucać (kucnąć)  
 Indonesia - Indonezja  
-injener - inżynier  
 insan - człowiek, istota ludzka  
 insani hake - prawa człowieka  
 insania - ludzkość, rodzaj ludzki  
@@ -1311,8 +1314,6 @@ insaniste - humanista
 insanisti - humanistyczny  
 insanistia - humanizm  
 internete - internet  
-interes - zainteresowanie, zaciekawienie; interesujący  
-interesi - interesujący  
 inxala - nadzieja, życzenie  
 yodem - jod; jodyna  
 yoga - uprawiać jogę  
@@ -1478,10 +1479,10 @@ kali harfe - spacja
 kalem - potas  
 Kalalia - Grenlandia  
 kalam - pióro, długopis  
-kalamar - kałamarnica (mątwa)  
 kalende - kalendarz  
 kalifornem - kaliforn  
 kalkulia - rachunek (formalny system obliczeń)  
+kalmar - kałamarnica (mątwa)  
 kalsem - wapń  
 kalsite - kalcyt  
 kalsokristal - marmur  
@@ -1721,7 +1722,7 @@ kratia - rządzić, władać
 krem - krem  
 kremi - kremowy  
 krepe - naleśnik  
-kreperia - naleśnikarnia  
+krepokan - naleśnikarnia  
 krevete - krewetka  
 krim - przestępstwo  
 krimi - kryminalny, przestępczy  
@@ -1959,6 +1960,7 @@ makas - nożyce, nożyczki
 Makau - Makau  
 mal - własność (mienie)  
 mala - mieć (posiadać)  
+malu - należeć  
 malan - właściciel (posiadacz)  
 malagasi - madagaskarski; malagaski  
 Malagasia - Madagaskar  
@@ -2569,7 +2571,7 @@ Pitkerne nesia - Pitcairn
 pix - siki  
 pixa - sikać, szczać, oddawać mocz  
 pize - pizza  
-pizeria - pizzeria  
+pizokan - pizzeria  
 plan - plan  
 plana - planować  
 planete - planeta  
@@ -2682,7 +2684,6 @@ Putong Cini - mandaryński chiński, Putonghua
 putongi - powszechny, uniwersalny  
 puxa - pchnąć, pchać  
 puxer - tłok  
-####Q - Q  
 ####R - R  
 rada - promieniować  
 rade - promień  
@@ -2878,11 +2879,6 @@ samseksi - homoseksualny
 samsifa - emulować (symulować, naśladować, modelować)  
 samsifi - podobny (analogiczny)  
 samsifia - model (podobieństwo, symulować)  
-samai - niebo  
-samayi - niebieski, niebiański, podniebny  
-samaihal - pogoda  
-samaikenar - horyzont  
-samainili - jasnoniebieski (lazurowy)  
 samarem - samar  
 Samoa - Samoa  
 san - trzy (3)  
@@ -2915,6 +2911,8 @@ sau - wiedza
 sava - wiedzieć  
 savi - wiadomy, znany  
 saulojia - epistemologia  
+sauvol - zainteresowanie, zaciekawienie; interesujący  
+sauvolani - interesujący  
 Saudi Arabia - Arabia Saudyjska  
 saudar - rodzeństwo, brat lub siostra  
 sauna\* - sauna  
@@ -3170,11 +3168,11 @@ telurem - tellur
 tem - temat, motyw  
 tema - być o; dyskutować o  
 temnam - tytuł (nagłówek)  
-ten - treść (zawartość)  
-tena - mieć (trzymać)  
-tenu - należeć  
-tener - uchwyt (pojemnik)  
-tenliste - spis treści (tabela zawartości)  
+ten - niebo  
+teni - niebieski, niebiański, podniebny  
+tenhal - pogoda  
+tenkenar - horyzont  
+tennili - jasnoniebieski (lazurowy)  
 tenesiem - tenesyn, tennessine  
 tenis - tenis  
 tenta - kusić, nakłonić, nakłaniać  
@@ -3413,7 +3411,6 @@ uza - użyć, używać, zatrudnić, stosować
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 Uzbekia - Uzbekistan  
-####W - W  
 ####X - X  
 xake - gałąź, konar  
 xakal - szakal  

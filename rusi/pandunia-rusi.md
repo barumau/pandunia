@@ -43,8 +43,6 @@ amirlinye - командная строка
 andiniste - неверующий  
 anmema - забывать  
 ansomia - бессонница (инсомния)  
-analiza - анализировать  
-analize - анализ  
 andesite - андезит  
 anim - оживление  
 anjil - месседж  
@@ -312,6 +310,8 @@ faze - фаза
 fei - полёт  
 feyu - лететь  
 feimux - летучая мышь  
+fenkata - анализировать  
+fenkate - анализ  
 filsofia - философия  
 filme - плева (фильм)  
 fiorde - фьорд  
@@ -435,6 +435,7 @@ hukokrus - свастика
 hulei - лиса  
 huri - свободный (вольный)  
 ####I - I  
+ya - с (иметь)  
 ye - да  
 yamfite - овощ  
 yamyau - голод  
@@ -448,6 +449,7 @@ yauxinabli - верный
 yauxinablia - верность  
 Yemen - Йемен  
 Yesus - Иисус  
+inan - контейнер  
 inmigra - иммигрировать  
 inmigran - иммигрант  
 insida - сесть на корточки  
@@ -510,8 +512,8 @@ kaguje - бумага
 kagujolimon - лайм  
 kali - пустой  
 kalam - ручка  
-kalamar - кальмар  
 kalende - календарь  
+kalmar - кальмар  
 kalsite - кальцит  
 kalsokristal - мрамор  
 kalsomate - известь  
@@ -577,7 +579,6 @@ konformu - применяться (согласоваться)
 konkara - сотрудничать (кооперировать)  
 konpaxia - жалость (сердобольность)  
 konseler - консультант (советник)  
-kontener - контейнер  
 kontrate - контракт  
 koncung - насекомое  
 konga - пробиться  
@@ -682,6 +683,7 @@ magesem - магний
 Magribia - Марокко  
 majenti - маджента (фуксия)  
 makanful - одуванчик  
+malu - принадлежать  
 mam - мать (мама)  
 mangi - занятый  
 manihayistia - манихейство  
@@ -904,7 +906,6 @@ puri - полный
 purfityamiste - веган  
 purxipa - мариновать  
 putavoranje - грейпфрут  
-####Q - Q  
 ####R - R  
 rangarke - радуга  
 rangarkosalmon - микижа (камчатская сёмга)  
@@ -957,10 +958,6 @@ sammetri - симметричный
 sammetria - симметрия  
 samrayia - согласие  
 samsifia - симуляция  
-samai - небо  
-samaihal - погода  
-samaikenar - горизонт  
-samainili - голубой  
 san - три (3)  
 sanyom - среда  
 sanzong - трезубец  
@@ -971,6 +968,10 @@ sapate - туфля
 sar - голова  
 Saturne - Сатурн  
 sava - знать  
+sauvol - интерес (любопытство)  
+sauvoli - любопытный  
+sauvolu - задуматься (думать, гадать)  
+sauvolani - интере́сный  
 saus - соус  
 sel - совет  
 sela - советовать  
@@ -1051,8 +1052,10 @@ teloloku - телепортировать
 telvide - телевизор  
 tem - тема  
 temnam - название (пьесы, заголовок)  
-tena - иметь  
-tenu - принадлежать  
+ten - небо  
+tenhal - погода  
+tenkenar - горизонт  
+tennili - голубой  
 tepe - лента  
 terci - косой  
 teroristia - терроризм  
@@ -1132,7 +1135,6 @@ ura - ура
 Uran - Уран  
 vulve - вульва  
 vute - статья (предмет)  
-####W - W  
 ####X - X  
 xalke - чешуя  
 xaman - шаман  

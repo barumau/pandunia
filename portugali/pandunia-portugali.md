@@ -43,7 +43,6 @@ amike - querido
 andiniste - infiel  
 anmema - esquecer  
 ansomia - insônia  
-analize - análise  
 andesite - andesito  
 anjil - mensagem  
 anker - âncora  
@@ -271,6 +270,7 @@ fatigia - fadiga
 fei - voo  
 feyu - voar  
 feni - digital  
+fenkate - análise  
 filsofia - filosofia  
 fiorde - fiorde  
 fite - planta (vegetal)  
@@ -398,6 +398,7 @@ yavi - necessitado
 yavu - necessitar  
 yavan - necessário  
 yauxina - confiar (contar com)  
+inan - contêiner  
 inmigra - imigrar  
 inmigran - imigrante  
 insida - agacharse  
@@ -455,8 +456,8 @@ kaguje - papel
 kagujolimon - lima  
 kali harfe - espaço  
 kalam - lápis  
-kalamar - lula (calamar)  
 kalende - calendário  
+kalmar - lula (calamar)  
 kalsite - calcita  
 kalsokristal - mármore  
 kalsomate - cal  
@@ -516,7 +517,6 @@ komputer - computador
 konboni - combinar com  
 konkara - colaborar  
 konseler - consultor  
-kontener - contêiner  
 kontrate - pacto  
 koncung - inseto  
 konserte - concerto  
@@ -820,7 +820,6 @@ purfityamiste - vegetalista
 purxipa - ensopar (encharcar, marinar)  
 pute - filho ou filha  
 putavoranje - toranja  
-####Q - Q  
 ####R - R  
 rang - cor  
 rangarkosalmon - truta-arco-íris  
@@ -865,7 +864,6 @@ sammetri - simétrico
 sammetria - simetria  
 samrayia - acordo  
 samsifia - simulação  
-samai - céu  
 san - três (3)  
 sanyom - quarta-feira  
 sanduice - sanduíche  
@@ -936,6 +934,7 @@ tehne - técnica
 telfona - telefonar  
 telfonia - telefonia  
 temnam - título  
+ten - céu  
 terci - oblíquo (torto)  
 testa - tentar (provar)  
 teste - teste  
@@ -999,7 +998,6 @@ Uran - Urano
 urse - urso  
 vulve - vulva  
 vute - item  
-####W - W  
 ####X - X  
 xalke - escama  
 Xampan - Champagne  

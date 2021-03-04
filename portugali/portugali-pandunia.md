@@ -51,7 +51,7 @@ anel - ring
 animal (besta, bicho) - zou  
 antimônio - estibem  
 anzol - pexhuke  
-análise - analize  
+análise - fenkate  
 aperfeiçoar - purbona  
 apodrecer-se - pudu  
 aprender - xula  
@@ -244,7 +244,7 @@ conselho - sel
 considerar - hema  
 construir - bina  
 consultor - konseler  
-contêiner - kontener  
+contêiner - inan  
 copo (taça) - kupe  
 cor - rang  
 coral - koral  
@@ -274,7 +274,7 @@ cubo - kube
 cume (pico, topo) - pike  
 cápsico - cili\*  
 cão (cachorro) - vaf  
-céu - samai  
+céu - ten  
 cópia - kope  
 cósmico - kosmi  
 ####D - D  
@@ -551,7 +551,7 @@ longo - longi
 lontra - lontre  
 lua - lun  
 lugar (local) - loke  
-lula (calamar) - kalamar  
+lula (calamar) - kalmar  
 luta - jihade  
 luteranismo - martinluteristia  
 luterano - martinluteristi  
@@ -804,7 +804,6 @@ pá - bel
 página - varkolate  
 pão - pang  
 pícea (espruce) - pis  
-####Q - Q  
 quadrinhos (banda desenhada) - grafsage  
 quando - ki sate  
 quarta-feira - sanyom  
@@ -1034,7 +1033,6 @@ vulva - vulve
 vários - balibali  
 Vénus - Venus  
 véu - hijabe  
-####W - W  
 ####X - X  
 ####Z - Z  
 zebra - zebre  

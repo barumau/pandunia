@@ -108,8 +108,6 @@ anyavi - inutile
 anmema - oublier  
 anseksi - asexué  
 ansomia - insomnie  
-analiza - analyser  
-analize - analyse  
 ande - oeuf  
 Andes - Andes  
 andesite - andésite  
@@ -440,6 +438,8 @@ fei - vol
 feyu - voler  
 feimux - chauve-souris  
 feni - distinct (numérique)  
+fenkata - analyser  
+fenkate - analyse  
 filsofia - philosophie  
 fini - fini  
 fiorde - fiord  
@@ -574,7 +574,7 @@ hukokrus - svastika (croix gammée)
 hulei - renard  
 huri - libre  
 ####I - I  
-ya - avec  
+ya - avec (avoir)  
 ye - oui  
 yamfite - légume  
 yamyau - faim  
@@ -586,6 +586,7 @@ yavu - avoir besoin de
 yavan - nécessaire  
 yauxina - fier  
 Yesus - Jésus  
+inan - conteneur  
 inmigra - immigrer  
 inmigran - immigrant  
 insida - s’accroupir  
@@ -652,8 +653,8 @@ kaguje - papier
 kagujolimon - lime (citron vert)  
 kali harfe - espace  
 kalam - plume  
-kalamar - calmar (encornet, calamar)  
 kalende - calendrier  
+kalmar - calmar (encornet, calamar)  
 kalsite - calcite  
 kalsokristal - marbre  
 kalsomate - chaux  
@@ -714,7 +715,6 @@ klimmute - changement climatique
 komputer - ordinateur  
 konkara - collaborer  
 konseler - consultant (conseiller)  
-kontener - conteneur  
 kontrate - convention (alliance, pacte)  
 koncung - insecte  
 konserte - concert  
@@ -735,7 +735,7 @@ krabe - crabe
 krake - fente (fissure, fêlure)  
 krem - crème  
 krepe - crêpe  
-kreperia - crêperie  
+krepokan - crêperie  
 krevete - crevette  
 krokodil - crocodilien  
 krokroke - grenouille  
@@ -823,6 +823,7 @@ magesem - magnésium
 Magribia - Maroc  
 makanful - dandélion  
 mal - propriété (possession, bien)  
+malu - appartenir à  
 malan - possédant (propriétaire)  
 mam - mère (maman)  
 mangi - occupé  
@@ -1045,7 +1046,6 @@ purfina - accomplir (terminer)
 purxipa - tremper (faire mariner)  
 pute - fils ou fille  
 putavoranje - pamplemousse  
-####Q - Q  
 ####R - R  
 rang - couleur  
 rangi kance - verre coloré  
@@ -1106,7 +1106,6 @@ sammetri - symétrique
 sammetria - symétrie  
 samrayia - accord  
 samsifia - simulation  
-samai - ciel  
 san - trois (3)  
 sanyom - mercredi  
 sanduice - sandwich  
@@ -1188,8 +1187,7 @@ telfona - téléphoner
 telvide - téléviseur  
 tem - sujet (thème)  
 temnam - titre  
-tena - avoir  
-tenu - appartenir à  
+ten - ciel  
 tepe - ruban (bande)  
 terci - oblique (de travers)  
 teroristia - terrorisme  
@@ -1265,7 +1263,6 @@ uranem - uranium
 urse - ours  
 vulve - vulve  
 vute - objet (article)  
-####W - W  
 ####X - X  
 xalke - échelle  
 Xampan - Champagne  

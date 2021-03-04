@@ -97,8 +97,8 @@ ammattilainen - peikarer
 ampeeri - amper  
 ampulli - ampul  
 anaalinen - anusi  
-analysoida - analiza  
-analyysi - analize  
+analysoida - fenkata  
+analyysi - fenkate  
 ananas - nanas  
 Andit - Andes  
 Andorra - Andora  
@@ -727,7 +727,7 @@ inhimillinen - insaniki
 inhokki (inhotus) - anamike  
 inhota - anama  
 inkivääri - zinje  
-insinööri - injener  
+insinööri - enjener  
 internet - internete  
 Intia - Bartia  
 intiaani (Amerikan alkuperäisasukas) - aslameriki  
@@ -1052,7 +1052,7 @@ kiillottaa - fotofrika
 Kiina - Junguo  
 kiinnittää - fiksa  
 kiinnitys - fikse  
-kiinnostus (mielenkiinto) - interes  
+kiinnostus (mielenkiinto) - sauvol  
 kiinteä - gatomati  
 kiinteä aine - gatomate  
 kiirehtiä - yala  
@@ -1128,7 +1128,7 @@ konsultoida (antaa neuvoja) - konsela
 konsultti - konseler  
 kontaktikieli (pidgin) - pijin  
 kontiainen (maamyyrä) - krote  
-kontti - kontener  
+kontti - inan  
 koodata - koda  
 koodi - kode  
 kooka - koke  
@@ -1175,7 +1175,7 @@ kova - gati
 Kreikka - Helenia  
 kreikkalainen - heleni  
 kreppi - fransi krepe  
-kreppikoju - kreperia  
+kreppikoju - krepokan  
 kriisi (käännekohta) - krize  
 kriittinen (kriisi-) - krizi  
 kristinusko - krististia  
@@ -1242,7 +1242,7 @@ Kuuba - Kuba
 kuukakku - lunkeke  
 kuukausi - mes  
 kuulla (kuunnella) - auda  
-kuulua (olla jkn hallussa) - tenu  
+kuulua (olla jkn hallussa) - malu  
 kuulua (olla jäsenenä) - memba  
 kuume - febre  
 kuunnella - ora  
@@ -1881,7 +1881,7 @@ Oman - Oman
 omena - aple  
 omenasose - aplosaus  
 omistaa - mala  
-omistaja - malan  
+omistaja (pitäjä, hallussapitäjä) - malan  
 ommella - suta  
 ongelma - problem  
 ongelmallinen - problemi  
@@ -2096,13 +2096,11 @@ pitkäpippuri - longopipre
 pitkästi (kauas) - longo  
 pitkästynyt - bori  
 pitsa (pizza) - pize  
-pitseria - pizeria  
+pitseria - pizokan  
 pituus - longia  
 pitäisi - xudu  
-pitäjä (hallussapitäjä) - tener  
-pitää (pitää hallussa) - tena  
 pitää (tykätä) - suku  
-pitää yhdessä - kontena  
+pitää yhdessä - jamhafiza  
 planeetta - planete  
 platina - platinem  
 Platon - Platon  
@@ -2250,7 +2248,6 @@ pöly (tomu) - fun
 pölynimuri - funcuper  
 pöytä - meze  
 pöytäliina - mezotex  
-####Q - Q  
 Qatar - Katar  
 ####R - R  
 Raamattu - biblia  
@@ -2526,8 +2523,8 @@ sipuli - piaze
 sisarus (veli tai sisko) - saudar  
 sisus (sisäpuoli) - in  
 sisä- (sisäinen) - indi  
-sisällysluettelo - tenliste  
-sisältö - ten  
+sisällysluettelo - inliste  
+sisältö - inite  
 sisäsyntyinen - injeni  
 sisäänkäynti - jinmun  
 sitoa - benda  
@@ -2667,7 +2664,7 @@ säteillä - rada
 säteily - radia  
 säteilymittari - radometrer  
 sävel (sävy) - ton  
-sää - samaihal  
+sää - tenhal  
 sääty (kasti) - jenklas  
 söpö (suloinen) - kavayi  
 ####T - T  
@@ -2694,7 +2691,7 @@ taiteilija - artiste
 taito (kyky) - able  
 taito - xute  
 taivaankappale - astre  
-taivas - samai  
+taivas - ten  
 Taiwan - Taivan  
 takki - kote  
 taksa (tariffi) - tarif  
@@ -3214,7 +3211,6 @@ väsymys - fatigia
 väsyä - fatigu  
 väärä (epätosi, vale-) - falsi  
 väärä (virheellinen) - galti  
-####W - W  
 Wales - Kamria  
 walesilainen - kamri  
 Washington D####C - Vaxington DC  
