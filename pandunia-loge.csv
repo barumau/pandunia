@@ -1229,7 +1229,7 @@ hai.amir.er:|hayamirer||||admiral|amiral|almirante|almirante|адмирал|أَ
 hai.cau:|haicau|biu|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa mor
 hai.ful:|haiful|biu|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
 hai.gun:|haigun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
-hai.hiar:|haihiar|biu|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
+hai.hiiar:|haihiyar|biu|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
 hai.jel:|haijel|biu|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||meduza
 hai.nil:i|hainili||||aqua (teal)|||||||水色||||||||||morskoniebieski
 hai.port:e|haiporte||||harbor (seaport)||puerto marítimo|porto marítimo|||海港|海港||||||||haveno|satama|port morski (przystań)
@@ -3215,7 +3215,7 @@ sirk:e|sirke|||tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿ
 sirk.o.pur.xip:a|sirkopurxipa||||pickle (preserve in vinegar or brine)||encurtir|||||酢漬けある|||||mengasamkan|||||kisić (marynować)
 sirk.o.pur.xip:e|sirkopurxipe|||fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|||||||腌菜|漬物|||अचार||acar (jeruk)|||||marynować
 sirk.o.pur.xip:i|sirkopurxipi||||pickled|décapé (mariné)|encurtido||марино́ванный|||||||||||||kiszony (marynowany)
-sirk.o.pur.xip:i hiar:|sirkopurxipi hiar||||gherkin (pickle)|concombre confit (cornichon)|pepinillo|||||||||||||||korniszon
+sirk.o.pur.xip:i hiiar:|sirkopurxipi hiyar||||gherkin (pickle)|concombre confit (cornichon)|pepinillo|||||||||||||||korniszon
 sis:i|sisi|numbe|6|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
 sis.fas:|sisfas||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
 sis.gon:|sisgon||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
