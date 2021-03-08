@@ -811,6 +811,7 @@ neige - him
 Neptune - Neputun  
 neuf (9) - navi  
 neurone - neurcel  
+neurotoxine - neurtokse  
 niche - nix  
 nid - nide  
 niveau - par  

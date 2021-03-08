@@ -1329,3 +1329,4 @@ zuke - ethnie
 zuki - ethnique  
 Zulu - zoulou  
 zumurude - émeraude  
+neurtokse - neurotoxine  

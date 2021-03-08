@@ -360,8 +360,8 @@ ciężki (masywny) - bari
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanci  
 cmentarz - gabrotopia  
-cnota (moralność) - bondarme  
-cnotliwy (prawy) - bondarmi  
+cnota (moralność) - bondeke  
+cnotliwy (prawy) - bondeki  
 co? - ke  
 co? - ki jan  
 coś - koi xei  
@@ -608,7 +608,7 @@ Estonia - Estia
 etap, faza - faze  
 Etiopia - Etiopia  
 etniczny - zuki  
-etyka - darmolojia  
+etyka - dekolojia  
 etymologia - logaslia  
 Eurazja - eurasia  
 euro (€) - euro\*  
@@ -1538,8 +1538,8 @@ Mongolski - mongoli
 monizm - unemistia  
 monolog - autologe  
 monoteizm - undevistia  
-moralność, etyka - darme  
-moralny - darmi  
+moralność, etyka - deke  
+moralny - deki  
 morela - barkoke  
 morf - morfe  
 morfem - morfem  

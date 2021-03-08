@@ -387,8 +387,8 @@ bombe - pommi
 boni - hyvä  
 boni zar - hyvä onni (tuuri, säkä, lykky)  
 bondarja - nostaa tasoa  
-bondarme - hyve  
-bondarmi - hyveellinen (hyvä)  
+bondeke - hyve  
+bondeki - hyveellinen (hyvä)  
 bonsifi - laadukas (hyvä)  
 bonsifia - laatu (laadukkuus, erinomaisuus, hyvyys)  
 bonsinyi - hyvää lupaava  
@@ -581,9 +581,9 @@ darba - lyödä (iskeä)
 darje - porras (aste, taso)  
 darji - asteittainen (porrastettu)  
 darjomute - kehitys  
-darme - moraali  
-darmi - moraalinen  
-darmolojia - etiikka (moraalioppi)  
+deke - moraali  
+deki - moraalinen  
+dekolojia - etiikka (moraalioppi)  
 darmositem - darmstadtium  
 darte - maa (multa)  
 darti - likainen (mutainen)  
@@ -3285,3 +3285,4 @@ zukomedi - kansanryhmien välinen
 zukam - vilustuminen  
 Zulu - zulu  
 zumurude - smaragdi  
+neurtokse - hermomyrkky  

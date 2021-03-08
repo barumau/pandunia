@@ -1124,7 +1124,7 @@ essay - esei
 estimate (approximate) - yaga  
 Estonia - Estia  
 Eswatini (Swaziland) - Suati  
-ethics - darmolojia  
+ethics - dekolojia  
 Ethiopia - Etiopia  
 ethnic - zuki  
 ethnic group - zuke  
@@ -2160,8 +2160,8 @@ monument (memorial) - membin
 mood (emotional state) - emoshal  
 moon - lun  
 mooncake - lunkeke  
-moral - darmi  
-morality (ethics) - darme  
+moral - deki  
+morality (ethics) - deke  
 more - max (maxo)  
 morning (dawn) - sube  
 Morocco - Magribia  
@@ -2257,6 +2257,7 @@ Netherlands Antilles - Nederlandi Antil
 neural - neuri  
 neuron - neurcel  
 neuropathy - neurpatia  
+neurotoxin - neurtokse  
 never - nol sate  
 Nevis - Nevis  
 new (recent) - novi  
@@ -3628,8 +3629,8 @@ vinegar - sirke
 vinyl - vinil  
 Virgin Islands, U####S - Virjin nesia  
 virology - viruslojia  
-virtue (morals) - bondarme  
-virtuous - bondarmi  
+virtue (morals) - bondeke  
+virtuous - bondeki  
 virus - virus  
 visa - vize  
 visit - kega  

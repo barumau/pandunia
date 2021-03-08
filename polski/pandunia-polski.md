@@ -379,8 +379,8 @@ bombe - bomba
 boni - dobry  
 boni zar - dobry los, szczęście  
 bondarja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
-bondarme - cnota (moralność)  
-bondarmi - cnotliwy (prawy)  
+bondeke - cnota (moralność)  
+bondeki - cnotliwy (prawy)  
 bonsifi - wspaniały  
 bonsifia - cecha, atrybut, własność; -ość  
 bonsinyi - obiecujący (dobrze wróżący)  
@@ -573,9 +573,9 @@ darje - stopień, poziom, ranga, klasa
 darji - stopniowy  
 darjomeden - gradient (gradacja, stopniowanie)  
 darjomute - rozwój  
-darme - moralność, etyka  
-darmi - moralny  
-darmolojia - etyka  
+deke - moralność, etyka  
+deki - moralny  
+dekolojia - etyka  
 darmositem - darmsztadt  
 darte - grunt (ziemia, próchnica)  
 darti - ziemny (glebowy, gruntowy)  

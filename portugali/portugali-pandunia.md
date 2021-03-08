@@ -657,6 +657,7 @@ necessitado - yavi
 necessitar - yavu  
 necessário - yavan  
 Netuno - Neputun  
+neurotoxina - neurtokse  
 neurônio - neurcel  
 neve - him  
 nicho - nix  

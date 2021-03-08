@@ -2172,8 +2172,8 @@ monumento - membin
 monóculo - unoki lense  
 monólogo - autologe  
 morado (púrpura) - viyoleti  
-moral (ético) - darmi  
-moralidad (ética) - darme  
+moral (ético) - deki  
+moralidad (ética) - deke  
 morder - danta  
 morfema - morfem  
 morfo - morfe  
@@ -3452,8 +3452,8 @@ vinagre - sirke
 vinilo - vinil  
 vino - vin  
 virología - viruslojia  
-virtud (moralidad) - bondarme  
-virtuoso (moral) - bondarmi  
+virtud (moralidad) - bondeke  
+virtuoso (moral) - bondeki  
 virus - virus  
 visado - vize  
 visitar - kega  
@@ -3527,7 +3527,7 @@ zulú - Zulu
 átomo - atom  
 él o ella - le  
 éste - dong  
-ética (filosofía moral) - darmolojia  
+ética (filosofía moral) - dekolojia  
 étnico - zuki  
 índice de contenidos - inliste  
 ósmosis - osmos  

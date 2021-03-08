@@ -417,8 +417,8 @@ bombe - bomb
 boni - good  
 boni zar - good luck  
 bondarja - upgrade (level up)  
-bondarme - virtue (morals)  
-bondarmi - virtuous  
+bondeke - virtue (morals)  
+bondeki - virtuous  
 bonsifi - excellent  
 bonsifia - excellence (quality, virtue)  
 bonsinyi - auspicious (promising)  
@@ -621,9 +621,9 @@ darje - step (degree, rank, grade, level, class)
 darji - gradual  
 darjomeden - gradient (gradation, incline)  
 darjomute - development  
-darme - morality (ethics)  
-darmi - moral  
-darmolojia - ethics  
+deke - morality (ethics)  
+deki - moral  
+dekolojia - ethics  
 darmositem - darmstadtium  
 darte - soil (dirt)  
 darti - soily (dirty)  
@@ -3803,3 +3803,4 @@ zukomedi - interethnic
 zukam - cold (illness)  
 Zulu - Zulu  
 zumurude - emerald  
+neurtokse - neurotoxin  

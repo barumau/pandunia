@@ -398,7 +398,7 @@ Etelä-Korea - Sudi Cosen
 Etelä-Ossetia - Sudi Iria (Alonia)  
 Etelä-Sudan - Sudi Sudan  
 Eteläinen Jäämeri - Antartiki Hai  
-etiikka (moraalioppi) - darmolojia  
+etiikka (moraalioppi) - dekolojia  
 etikka - sirke  
 Etiopia - Etiopia  
 etninen - zuki  
@@ -560,6 +560,7 @@ henkinen (psyykkinen) - ruhi
 heprea - ibri  
 herkullinen (nami) - yami  
 hermo - neur  
+hermomyrkky - neurtokse  
 hermosairaus (neuropatia) - neurpatia  
 hermosolu (neuroni) - neurcel  
 hermostollinen - neuri  
@@ -645,8 +646,8 @@ hymiö (emoji) - emoje
 hypätä (hyppiä) - jampa  
 hyrrä - rototope  
 hyttynen (sääski) - moskite  
-hyve - bondarme  
-hyveellinen (hyvä) - bondarmi  
+hyve - bondeke  
+hyveellinen (hyvä) - bondeki  
 hyvä (eettisesti hyvä) - evi  
 hyvä (tervehdyksissä) - salam (salami)  
 hyvä - boni  
@@ -1681,8 +1682,8 @@ montako? (paljonko?) - ko multo
 Montenegro - Cernagora  
 moottori - moter  
 moottoripyörä - motosikle  
-moraali - darme  
-moraalinen - darmi  
+moraali - deke  
+moraalinen - deki  
 morfeemi - morfem  
 morfi - morfe  
 Mosambik - Mozambike  

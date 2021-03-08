@@ -1052,3 +1052,4 @@ zouparke - zoológico
 zuke - etnia  
 zuki - étnico  
 zumurude - esmeralda  
+neurtokse - neurotoxina  

@@ -419,8 +419,8 @@ bomb:e|bombe|||pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas
 bon:i|boni|||fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|good|bon|bueno|bom|хороший|حَسَن|好|良い|||अच्छा||bagus|mzuri||bona|hyvä|dobry
 bon:i zar:|boni zar||||good luck||buena suerte||||||||||||||hyvä onni (tuuri, säkä, lykky)|dobry los, szczęście
 bon.darj:a|bondarja||||upgrade (level up)||mejorar||||||||||||||nostaa tasoa|aktualizować (zaktualizować, ulepszać, ulepszyć)
-bon.darm:e|bondarme||||virtue (morals)||virtud (moralidad)||||道德||||||||||hyve|cnota (moralność)
-bon.darm:i|bondarmi||||virtuous||virtuoso (moral)||||||||||||||hyveellinen (hyvä)|cnotliwy (prawy)
+bon.dek:e|bondeke||||virtue (morals)||virtud (moralidad)||||道德||||||||||hyve|cnota (moralność)
+bon.dek:i|bondeki||||virtuous||virtuoso (moral)||||||||||||||hyveellinen (hyvä)|cnotliwy (prawy)
 bon.sif:i|bonsifi||||excellent||excelente||||||||||||||laadukas (hyvä)|wspaniały
 bon.sif:ia|bonsifia||||excellence (quality, virtue)||calidad (excelencia, mérito, virtud, ventaja)|||||||||||||eco|laatu (laadukkuus, erinomaisuus, hyvyys)|cecha, atrybut, własność; -ość
 bon.sini:i|bonsinyi||||auspicious (promising)||auspicioso||благоприятный||吉利的||||||||||hyvää lupaava|obiecujący (dobrze wróżący)
@@ -625,9 +625,9 @@ darj:e|darje|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derec
 darj:i|darji||||gradual||||||||||||||||asteittainen (porrastettu)|stopniowy
 darj.o.meden:|darjomeden||||gradient (gradation, incline)|||||||||||||||||gradient (gradacja, stopniowanie)
 darj.o.mut:e|darjomute||||development|développement|desarrollo|desenvolvimento|развитие||发展 (开发)|発展 (開発)|발전 (개발)|sự phát triển|विकास|||||disvolvi|kehitys|rozwój
-darm:e|darme|||hin:धर्म (dharm), urd:(dharm), ben:ধর্ম (dhôrmô), guj:ધર્મ (dharma), tel:ధర్మము (dharmamu), tam:தருமம் (tarumam), tha:ธรรม (tam), mya:ဓမ္မ (dhamma), may:derma, zho:達摩 (dámó), kor:달마 (dalma), eng:deu:fra:spa:dharma, por:darma, rus:дхарма (dharma)|morality (ethics)||moralidad (ética)||||||||||||||moraali|moralność, etyka
-darm:i|darmi||||moral||moral (ético)||||||||||||||moraalinen|moralny
-darm.o.loj:ia|darmolojia||||ethics||ética (filosofía moral)||||||||||||||etiikka (moraalioppi)|etyka
+dek:e|deke|||zho:德 (dé), yue:德 (dak1), jpn:德 (toku), kor:덕 (deok), vie:đức|morality (ethics)||moralidad (ética)||||||||||||||moraali|moralność, etyka
+dek:i|deki||||moral||moral (ético)||||||||||||||moraalinen|moralny
+dek.o.loj:ia|dekolojia||||ethics||ética (filosofía moral)||||||||||||||etiikka (moraalioppi)|etyka
 darm.o.sit.em:|darmositem|mate|Ds||darmstadtium||darmstatio||||||||||||||darmstadtium|darmsztadt
 dart:e|darte|||eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|soil (dirt)||tierra (barro)|||||土|||||||||maa (multa)|grunt (ziemia, próchnica)
 dart:i|darti||||soily (dirty)||sucio||||||||||||||likainen (mutainen)|ziemny (glebowy, gruntowy)
@@ -3816,3 +3816,4 @@ zuk.o.med:i|zukomedi||||interethnic||interétnica||межэтнический|||
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 Zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:e|zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+neur.toks:e|neurtokse||||neurotoxin|neurotoxine||neurotoxina|||神经毒素|神経毒|||||||||hermomyrkky|

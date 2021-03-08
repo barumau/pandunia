@@ -152,7 +152,7 @@ bokserpante - 平角褲
 bol - 球  
 bombe - 炸弹  
 boni - 好  
-bondarme - 道德  
+bondeke - 道德  
 bonsinyi - 吉利的  
 bonvidi - 好看  
 botel - 瓶  
@@ -1062,3 +1062,4 @@ zoulojia - 动物学
 zouparke - 动物园  
 zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  
+neurtokse - 神经毒素  

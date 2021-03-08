@@ -222,7 +222,6 @@
 |**dante**|diente|spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|
 |**darba**|golpear (pegar)|ara:ضرب‎ (ḍaraba), fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|
 |**darje**|paso (grado, nivel, rango, calidad, categoría)|ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|
-|**darme**|moralidad (ética)|hin:धर्म (dharm), urd:(dharm), ben:ধর্ম (dhôrmô), guj:ધર્મ (dharma), tel:ధర్మము (dharmamu), tam:தருமம் (tarumam), tha:ธรรม (tam), mya:ဓမ္မ (dhamma), may:derma, zho:達摩 (dámó), kor:달마 (dalma), eng:deu:fra:spa:dharma, por:darma, rus:дхарма (dharma)|
 |**darte**|tierra (barro)|eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|
 |**date**|datos|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
 |**dau**|camino (calle)|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
@@ -231,6 +230,7 @@
 |**debu**|deber (necesitar)|fra:devoir, spa:deber, por:dever|
 |**def**|defensa|ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'), + fra:eng:defense, spa:defensa, por:defesa, tur:defans|
 |**defte**|registro (archivo, anotación)|tur:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(daftar)|
+|**deke**|moralidad (ética)|zho:德 (dé), yue:德 (dak1), jpn:德 (toku), kor:덕 (deok), vie:đức|
 |**dem**|pueblo (población)|eng:spa:demo-, fra:démo-, rus:демо- (demo-)|
 |**demkratia**|democracia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
 |**demon**|demonio|eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:демон (demon)|

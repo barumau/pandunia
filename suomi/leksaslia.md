@@ -224,7 +224,6 @@
 |**dar**|virta (virtaus)|hindi:धारा (dhārā), telugu:ధార (dhāra) + persia: دریا‎ (daryâ), hin:दर्या (daryā), bangla:দরিয়া (dôriẏa), turkki:derya|
 |**darba**|lyödä (iskeä)|arabia:ضرب‎ (ḍaraba), persia:ضرب (ḍarb) + venäjä:уда́рить (udarit’)|
 |**darje**|porras (aste, taso)|arabia:(daraja), hindi:दर्जा (darjā), suahili:daraja, turkki:derece, persia:(dareje), malaiji:derajat, + yleiskiina:阶 (jiē)|
-|**darme**|moraali|hindi:धर्म (dharm), urdu:(dharm), bangla:ধর্ম (dhôrmô), gujarati:ધર્મ (dharma), telugu:ధర్మము (dharmamu), tamili:தருமம் (tarumam), thai:ธรรม (tam), burma:ဓမ္မ (dhamma), malaiji:derma, yleiskiina:達摩 (dámó), korea:달마 (dalma), englanti:deu:ranska:espanja:dharma, portugali:darma, venäjä:дхарма (dharma)|
 |**darte**|maa (multa)|englanti:dirt, hindi:धरती (dhartī), urdu:(dhartī), vietnami:đất, malaiji:darat|
 |**date**|data (numeerinen tieto)|englanti:malaiji:data, vietnami:đa ta, deu:Daten, espanja:filippiini:datos, portugali:dados, persia:(dâde-hâ), hindi:डेटा (ḍeṭā), urdu:(ḍeṭā), japani:データ (dēta)|
 |**dau**|tie|yleiskiina:道 (dào), kantoninkiina:道 (dou6), japani:道 (dō), korea:도 (do), vietnami:đạo|
@@ -233,6 +232,7 @@
 |**debu**|täytyä (olla pakko)|ranska:devoir, espanja:deber, portugali:dever|
 |**def**|puolustus|arabia:(difāʿ), persia:(defâ'), hindi:दफ़ा (dafā), urdu:(difā'), + ranska:englanti:defense, espanja:defensa, portugali:defesa, turkki:defans|
 |**defte**|tallenne (rekisteri)|turkki:defter, kreikka:τεφτέρι (tefteri), malaiji:daftar, arabia:persia:(daftar)|
+|**deke**|moraali|yleiskiina:德 (dé), kantoninkiina:德 (dak1), japani:德 (toku), korea:덕 (deok), vietnami:đức|
 |**dem**|väestö (kansa)|englanti:espanja:demo-, ranska:démo-, venäjä:демо- (demo-)|
 |**demkratia**|demokratia|englanti:democracy, venäjä:демократия (demokratiya), espanja:democracia, ranska: portugali: deu: arabia:(dīmukratiya), suahili:demokrasia|
 |**demon**|demoni (piru)|englanti:turkki:demon, espanja:demonio, portugali:demônio, ranska:démon, deu:Dämon, venäjä:демон (demon)|

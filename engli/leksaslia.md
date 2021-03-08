@@ -229,7 +229,6 @@
 |**dar**|flow (current, stream)|Hindi:धारा (dhārā), Telugu:ధార (dhāra) + Persian: دریا‎ (daryâ), hin:दर्या (daryā), Bengali:দরিয়া (dôriẏa), Turkish:derya|
 |**darba**|strike (punch)|Arabic:ضرب‎ (ḍaraba), Persian:ضرب (ḍarb) + Russian:уда́рить (udarit’)|
 |**darje**|step (degree, rank, grade, level, class)|Arabic:(daraja), Hindi:दर्जा (darjā), Swahili:daraja, Turkish:derece, Persian:(dareje), Malay:derajat, + Mandarin:阶 (jiē)|
-|**darme**|morality (ethics)|Hindi:धर्म (dharm), Urdu:(dharm), Bengali:ধর্ম (dhôrmô), Gujarati:ધર્મ (dharma), Telugu:ధర్మము (dharmamu), Tamil:தருமம் (tarumam), Thai:ธรรม (tam), Burmese:ဓမ္မ (dhamma), Malay:derma, Mandarin:達摩 (dámó), Korean:달마 (dalma), English:deu:French:Spanish:dharma, Portuguese:darma, Russian:дхарма (dharma)|
 |**darte**|soil (dirt)|English:dirt, Hindi:धरती (dhartī), Urdu:(dhartī), Vietnamese:đất, Malay:darat|
 |**date**|data (numeric information)|English:Malay:data, Vietnamese:đa ta, deu:Daten, Spanish:Filipino:datos, Portuguese:dados, Persian:(dâde-hâ), Hindi:डेटा (ḍeṭā), Urdu:(ḍeṭā), Japanese:データ (dēta)|
 |**dau**|way (road)|Mandarin:道 (dào), Cantonese:道 (dou6), Japanese:道 (dō), Korean:도 (do), Vietnamese:đạo|
@@ -238,6 +237,7 @@
 |**debu**|must|French:devoir, Spanish:deber, Portuguese:dever|
 |**def**|defense (defence)|Arabic:(difāʿ), Persian:(defâ'), Hindi:दफ़ा (dafā), Urdu:(difā'), + French:English:defense, Spanish:defensa, Portuguese:defesa, Turkish:defans|
 |**defte**|register (record, log)|Turkish:defter, Greek:τεφτέρι (tefteri), Malay:daftar, Arabic:Persian:(daftar)|
+|**deke**|morality (ethics)|Mandarin:德 (dé), Cantonese:德 (dak1), Japanese:德 (toku), Korean:덕 (deok), Vietnamese:đức|
 |**dem**|people (population)|English:Spanish:demo-, French:démo-, Russian:демо- (demo-)|
 |**demkratia**|democracy|English:democracy, Russian:демократия (demokratiya), Spanish:democracia, French: Portuguese: deu: Arabic:(dīmukratiya), Swahili:demokrasia|
 |**demon**|demon|English:Turkish:demon, Spanish:demonio, Portuguese:demônio, French:démon, deu:Dämon, Russian:демон (demon)|

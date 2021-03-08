@@ -382,8 +382,8 @@ bombe - bomba
 boni - bueno  
 boni zar - buena suerte  
 bondarja - mejorar  
-bondarme - virtud (moralidad)  
-bondarmi - virtuoso (moral)  
+bondeke - virtud (moralidad)  
+bondeki - virtuoso (moral)  
 bonsifi - excelente  
 bonsifia - calidad (excelencia, mérito, virtud, ventaja)  
 bonsinyi - auspicioso  
@@ -569,9 +569,9 @@ darunu - fusionar (fundir)
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
 darjomute - desarrollo  
-darme - moralidad (ética)  
-darmi - moral (ético)  
-darmolojia - ética (filosofía moral)  
+deke - moralidad (ética)  
+deki - moral (ético)  
+dekolojia - ética (filosofía moral)  
 darmositem - darmstatio  
 darte - tierra (barro)  
 darti - sucio  
