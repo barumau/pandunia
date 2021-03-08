@@ -244,6 +244,7 @@ arroz - ris
 arruinado (devastado, asolado) - harabi  
 arruinar (destruir, devastar, asolar) - haraba  
 arsénico - arsen  
+arte (campo) - eria  
 arte - arte  
 arte marcial - jengoxute  
 artesano - janger  
@@ -307,11 +308,11 @@ azada - cope
 azafrán - safran  
 azar (aleatorio) - zari  
 Azerbaiyán - Azerbaijan  
-azucarado - xukari  
+azucarado - sukari  
 azufre - sulfe  
 azul - nili  
 azur (blao) - lazuri  
-azúcar - xukar  
+azúcar - sukar  
 año - nen  
 ####B - B  
 babor - naulefte  
@@ -583,7 +584,7 @@ causar - saba
 cavar (excavar) - kava  
 cazador - saider  
 cazar (pescar) - saida  
-caña de azúcar - xukarcau  
+caña de azúcar - sukarcau  
 cañonear - daipaver  
 cañón (barranco, quebrada) - kanyon  
 cañón - daipau  
@@ -651,7 +652,7 @@ chupar (succionar) - cupa
 cian - siani  
 ciclista - sikliste  
 cielo - ten  
-cien (100) - xati  
+cien (100) - xoti  
 ciencia (estudia, investigación) - lojia  
 ciencia política - politikolojia  
 cigarro - sigar  
@@ -945,7 +946,7 @@ de lado - lato
 debajo - nico  
 debatir (discutir) - lona  
 deber (necesitar) - debu  
-deber (se recomienda) - xudu  
+deber (se recomienda) - selu  
 deci- - deci\*  
 decibelio - decibel  
 deciembre - desdulmes  
@@ -1598,7 +1599,7 @@ hockey sobre hielo - aishoke
 hoja - varke  
 holmio - holmem  
 holograma - holgraf  
-holoturia (pepino de mar) - haihiar  
+holoturia (pepino de mar) - haihiyar  
 hombre (señor) - maturi man  
 hombro - kante  
 homorromántico - samromansi  
@@ -2259,7 +2260,7 @@ necesitar - yavu
 nefritis - nefritis  
 negociar - lona biznes  
 negocios (comercio) - biznes  
-negro - siahi  
+negro - siyahi  
 nenúfar (lirio de agua) - nenufar  
 neodimio - neodimem  
 Nepal - Nepal  
@@ -2317,7 +2318,7 @@ nudo - node
 Nueva Caledonia - Novi Kaledonia  
 nueva línea - linyoparce  
 Nueva Zelanda - Novi Zelandia  
-nueve (9) - navi  
+nueve (9) - tixi  
 nuevo - novi  
 nunca - nol sate  
 nutria - lontre  
@@ -2355,7 +2356,7 @@ odiar - hena
 odio - hen  
 oeste - veste  
 oficial - ofisi  
-oficina - ofiseria  
+oficina - ofiskan  
 oficina de correos - postokan  
 oganesón - oganeson  
 ogro (gnomo, trol, duende, trasgo) - gui  
@@ -2364,7 +2365,7 @@ oler (apestar) - aromu
 oler (olfatear) - aroma  
 olor (aroma) - arom  
 olvidar - anmema  
-ominoso (amenazador) - dussinyi  
+ominoso (amenazador) - dusosinyi  
 Omán - Oman  
 onda - onde  
 opción - cuzable  
@@ -2531,8 +2532,8 @@ pentaedro - limfas
 pentágono - limgon  
 península - yagones  
 peonía - mudan  
-pepinillo - sirkopurxipi hiar  
-pepino - hiar  
+pepinillo - sirkopurxipi hiyar  
+pepino - hiyar  
 pepita - semdan  
 pequeño - lili  
 pera - leze  
@@ -2772,7 +2773,7 @@ querubín - kerube
 queso - cize  
 queso fresco - panir  
 quilate - kirate  
-quimono - kimonou  
+quimono - kimono\*  
 quiosco (kiosco) - kioske  
 quitar (eliminar, borrar) - anzaya  
 quitar (pelar) - tira pil  
@@ -2850,7 +2851,7 @@ relámpago - eletrorade
 remitente - miser  
 remojar (marinar, encurtir, macerar) - purxipa  
 remolacha - bete  
-remolacha azucarera - xukarbete  
+remolacha azucarera - sukarbete  
 renio - renem  
 renovar - nova  
 reparador - reiboner  
@@ -3020,7 +3021,7 @@ sentarse - sidu
 sentido - sense  
 sentir (detectar) - sensa  
 sentir - emosu  
-septiembre - naumes  
+septiembre - tixmes  
 ser (estar) - sa  
 ser - ser  
 ser de - malu  
@@ -3166,7 +3167,6 @@ Taipei - Taibei
 Taiwán - Taivan  
 taladrar (perforar) - fora  
 talio - talem  
-taller - eria  
 tallo - tan  
 tamaño - dayia  
 tambor - gum  

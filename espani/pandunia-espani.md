@@ -569,9 +569,6 @@ darunu - fusionar (fundir)
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
 darjomute - desarrollo  
-deke - moralidad (ética)  
-deki - moral (ético)  
-dekolojia - ética (filosofía moral)  
 darmositem - darmstatio  
 darte - tierra (barro)  
 darti - sucio  
@@ -598,6 +595,9 @@ defta - registrar (recordar, anotar)
 defte - registro (archivo, anotación)  
 deftia - registro (cuenta)  
 deftobuke - diario  
+deke - moralidad (ética)  
+deki - moral (ético)  
+dekolojia - ética (filosofía moral)  
 dem - pueblo (población)  
 demi - público  
 demgrafia - demografía  
@@ -717,7 +717,7 @@ dusjan - enemigo
 duskar - pecado  
 dusnam - insulto (ofensa)  
 dusnamana - insultar (ofender)  
-dussinyi - ominoso (amenazador)  
+dusosinyi - ominoso (amenazador)  
 dusvidi - feo  
 dute - duda  
 duva - rezar (orar)  
@@ -746,16 +746,16 @@ emosi - emotivo
 emosu - sentir  
 emoshal - humor  
 eni - qualquier  
-enjener - ingeniero  
 energe - energía  
 engli - inglés  
 Englia - Inglaterra  
 englofiler - anglófilo  
 englokitaba - anglicanizar  
 englomargarite - margarita común (pascueta)  
+enjener - ingeniero  
 enzim - enzima  
 er - hacedor (perpetrador)  
-eria - taller  
+eria - arte (campo)  
 erbem - erbio  
 Eris - Eris (planeta enano)  
 Eritria - Eritrea  
@@ -1125,7 +1125,7 @@ hayalge - macroalga
 hayamirer - almirante  
 haiful - actinia (anémonas de mar)  
 haigun - marina (armada)  
-haihiar - holoturia (pepino de mar)  
+haihiyar - holoturia (pepino de mar)  
 haijel - medusa  
 haiporte - puerto marítimo  
 haitate - costa  
@@ -1190,9 +1190,9 @@ hena - odiar
 herze - hercio (Hz)  
 Hesia - Hesse (Hessia)  
 hesem - hasio  
-hiar - pepino  
 hibride - híbrido (mestizo)  
 hidre - hidrógeno  
+hiyar - pepino  
 hijabe - velo  
 hijenia - higiene  
 him - nieve  
@@ -1603,7 +1603,7 @@ kim - sustancia
 kimi - químico  
 kimem - elemento químico  
 kimlojia - química  
-kimonou - quimono  
+kimono\* - quimono  
 kin - movimiento  
 kina - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
 kini - cinético  
@@ -2241,11 +2241,9 @@ natre - natrón
 natrem - sodio  
 nau - barco (bote)  
 nava - navegar (ir en bote)  
-navi - nueve (9)  
 naver - velero  
 naukaper - corsario  
 naulefte - babor  
-naumes - septiembre  
 nauraite - estribor  
 nauxef - capitán  
 navati - náhuatl (nahua)  
@@ -2357,7 +2355,7 @@ ofis - cargo
 ofisi - oficial  
 ofisia - ministerio (departamento)  
 ofiser - funcionario  
-ofiseria - oficina  
+ofiskan - oficina  
 oganeson - oganesón  
 oke - ojo  
 oki - ocular  
@@ -2914,6 +2912,7 @@ sekurkode - contraseña
 sekurnumbe - número de identificación personal  
 sel - consejo  
 sela - aconsejar  
+selu - deber (se recomienda)  
 selenem - selenio  
 selge - acelga  
 sem - semilla  
@@ -2939,7 +2938,6 @@ seti - siete (7)
 setyom - domingo  
 setomes - julio  
 Sexel nesia - Seychelles  
-siahi - negro  
 siani - cian  
 Sibiria - Siberia  
 siborgem - seaborgio  
@@ -2953,6 +2951,7 @@ sifloge - adjetivo
 sigar - cigarro  
 sih - salud  
 sihi - saludable  
+siyahi - negro  
 sikiste - sij  
 sikistia - sijismo  
 sikle - bicicleta  
@@ -2978,7 +2977,7 @@ sirplan - complot (conspiración)
 sirke - vinagre  
 sirkopurxipa - encurtir  
 sirkopurxipi - encurtido  
-sirkopurxipi hiar - pepinillo  
+sirkopurxipi hiyar - pepinillo  
 sisi - seis (6)  
 sisfas - hexaedro (cubo)  
 sisgon - hexágono  
@@ -3061,6 +3060,10 @@ suje - surgéncia (propuesta)
 suka - gustar (complacer)  
 suki - feliz  
 suku - gustarse (disfrutar)  
+sukar - azúcar  
+sukari - azucarado  
+sukarbete - remolacha azucarera  
+sukarcau - caña de azúcar  
 sulfe - azufre  
 sulta - reinar (gobernar)  
 sultia - poder (autoridad, competencia)  
@@ -3198,6 +3201,8 @@ tirdar - corriente de resaca
 tirlonga - estirar (extender)  
 tirsanduke - cajón (gaveta)  
 titanem - titanio  
+tixi - nueve (9)  
+tixmes - septiembre  
 toca - tocar (rozar)  
 Togo - Togo  
 tokse - veneno (toxina)  
@@ -3413,7 +3418,6 @@ xarte - condición (requisito, estipulación)
 xata - oponer  
 xatan - adversario  
 Xatan - Satanás  
-xati - cien (100)  
 xatani - satánico  
 xataniste - satanista  
 xatanistia - satanismo  
@@ -3457,13 +3461,9 @@ xoke - choque (sacudida)
 xopa - comprar  
 xope - compras (shopping)  
 xoper - comprador  
+xoti - cien (100)  
 xou - exposición (espectáculo)  
 xova - mostrar  
-xudu - deber (se recomienda)  
-xukar - azúcar  
-xukari - azucarado  
-xukarbete - remolacha azucarera  
-xukarcau - caña de azúcar  
 xul - lección  
 xula - aprender (estudiar)  
 xulia - educación  

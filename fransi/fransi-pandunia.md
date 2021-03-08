@@ -206,7 +206,7 @@ beauté - sundaria
 bengali - bangli  
 besoin - yau  
 betterave - bete  
-betterave à sucre (betterave sucrière) - xukarbete  
+betterave à sucre (betterave sucrière) - sukarbete  
 bibliothèque - kitabokan  
 bicyclette - sikle  
 bilingue - dulbaxi  
@@ -267,7 +267,7 @@ Camomille Romaine - romakamil
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa\*  
-Canne à sucre - xukarcau  
+Canne à sucre - sukarcau  
 canon - daipau  
 canoë - kano\*  
 Cantalupo in Sabina - Kantalupo va Sabina  
@@ -284,7 +284,7 @@ carte - karde
 carte - metrograf  
 carte à collectionner - jamkarde  
 cartographie - metrografia  
-cent (100) - xati  
+cent (100) - xoti  
 Centaurée - centaur  
 Centaurée bleuet - nilcentaur  
 Centaurée du solstice - solcentaur  
@@ -349,9 +349,9 @@ compost - biucaniver
 compote de pommes - aplosaus  
 comprendre (réaliser) - aha  
 concert - konserte  
-concombre - hiar  
-concombre confit (cornichon) - sirkopurxipi hiar  
-concombre de mer - haihiar  
+concombre - hiyar  
+concombre confit (cornichon) - sirkopurxipi hiyar  
+concombre de mer - haihiyar  
 conseil - sel  
 conseiller - sela  
 considérer - hema  
@@ -660,7 +660,7 @@ Jésus - Yesus
 ####K - K  
 kangourou - kangaru\*  
 Khartoum - Hartum  
-kimono - kimonou  
+kimono - kimono\*  
 Kinshasa - Kinxasa  
 kiwi - kivi\*  
 kumquat - kankuate  
@@ -809,13 +809,13 @@ nausée - retroguli sense
 nautile - nautil  
 neige - him  
 Neptune - Neputun  
-neuf (9) - navi  
+neuf (9) - tixi  
 neurone - neurcel  
 neurotoxine - neurtokse  
 niche - nix  
 nid - nide  
 niveau - par  
-noir - siahi  
+noir - siyahi  
 noit - noce  
 nombre (numéro) - numbe  
 nombre pair - pari numbe  
@@ -855,7 +855,7 @@ or - aur
 orange (couleur) - oranji  
 orange (fruit) - oranje  
 orange amère - alkaloranje  
-orange douce - xukaroranje  
+orange douce - sukaroranje  
 orchidée - orkide  
 ordinaire (habituel, normal) - adi  
 ordinateur - komputer  
@@ -1131,7 +1131,7 @@ soumettre - karmisa
 soumission - islam  
 squelette - ostojamia  
 substance - kim  
-sucre - xukar  
+sucre - sukar  
 sueur - suede  
 suffixe - badofikse  
 suffixe pour dériver les noms - -e  

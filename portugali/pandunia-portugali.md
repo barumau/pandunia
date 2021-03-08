@@ -347,7 +347,7 @@ hayalge - macroalga
 hayamirer - almirante  
 haicau - erva marinha  
 haigun - marinha  
-haihiar - pepino-do-mar (holotúrias)  
+haihiyar - pepino-do-mar (holotúrias)  
 haijel - medusa  
 haiporte - porto marítimo  
 haitate - costa  
@@ -365,7 +365,7 @@ helisviman - hélicoptero
 hem - hmm  
 hema - considerar  
 Hesia - Hesse (Héssia)  
-hiar - pepino  
+hiyar - pepino  
 hijabe - véu  
 hijenia - higiene  
 him - neve  
@@ -499,7 +499,7 @@ kerne - núcleo (cerne)
 kim - substância  
 kimem - elemento químico  
 kimlojia - química  
-kimonou - quimono  
+kimono\* - quimono  
 kina - mover  
 kinu - Mover-se  
 kita - remover  
@@ -702,13 +702,13 @@ narde - gamão
 nasia - nação  
 nasmedi - internacional  
 nau - barco (navio)  
-navi - nove (9)  
 naulefte - bombordo  
 nautil - nautiloide  
 nefre - rim  
 nefte - aeite (óleo)  
 Neputun - Netuno  
 neurcel - neurônio  
+neurtokse - neurotoxina  
 nide - ninho (vespiero)  
 nili - azur  
 nilcentaur - escovinha (centáurea)  
@@ -883,11 +883,11 @@ ser - serra
 seram - cerâmico  
 seti - sete (7)  
 setyom - domingo  
-siahi - preto  
 siborgem - seabórgio  
 sifloge - adjetivo  
 sih - saúde  
 sihi - saudável (saudio)  
+siyahi - preto  
 sikliste - ciclista  
 sil - elo  
 silia - série (sequência)  
@@ -919,6 +919,8 @@ suigas - vapor
 suiyau - sede  
 suiminte - hortelã-da-água  
 suki - feliz  
+sukar - açúcar  
+sukarcau - cana-de-açúcar  
 sundari - belo (lindo)  
 sundaria - beleza  
 susan - lírio  
@@ -942,6 +944,7 @@ tex - fazenda (tecido)
 texmaxin - tear  
 tikete - bilhete  
 tirlonga - estirar  
+tixi - nove (9)  
 toksolojia - toxicologia  
 tomate - tomate  
 topograf - topografia  
@@ -1008,7 +1011,6 @@ xarke - tubarão
 xata - opor  
 xatan - adversário  
 Xatan - Satanás  
-xati - cem (100)  
 xavi - poucos  
 xef - chefe  
 xei - coisa  
@@ -1024,8 +1026,7 @@ xofa - conduzir
 xofer - condutor (chofer, motorista)  
 xopa - comprar  
 xope - compras  
-xukar - açúcar  
-xukarcau - cana-de-açúcar  
+xoti - cem (100)  
 xul - lição  
 xula - aprender  
 xulia - educação  
@@ -1052,4 +1053,3 @@ zouparke - zoológico
 zuke - etnia  
 zuki - étnico  
 zumurude - esmeralda  
-neurtokse - neurotoxina  

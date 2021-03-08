@@ -625,9 +625,6 @@ darj:e|darje|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derec
 darj:i|darji||||gradual||||||||||||||||asteittainen (porrastettu)|stopniowy
 darj.o.meden:|darjomeden||||gradient (gradation, incline)|||||||||||||||||gradient (gradacja, stopniowanie)
 darj.o.mut:e|darjomute||||development|développement|desarrollo|desenvolvimento|развитие||发展 (开发)|発展 (開発)|발전 (개발)|sự phát triển|विकास|||||disvolvi|kehitys|rozwój
-dek:e|deke|||zho:德 (dé), yue:德 (dak1), jpn:德 (toku), kor:덕 (deok), vie:đức|morality (ethics)||moralidad (ética)||||||||||||||moraali|moralność, etyka
-dek:i|deki||||moral||moral (ético)||||||||||||||moraalinen|moralny
-dek.o.loj:ia|dekolojia||||ethics||ética (filosofía moral)||||||||||||||etiikka (moraalioppi)|etyka
 darm.o.sit.em:|darmositem|mate|Ds||darmstadtium||darmstatio||||||||||||||darmstadtium|darmsztadt
 dart:e|darte|||eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|soil (dirt)||tierra (barro)|||||土|||||||||maa (multa)|grunt (ziemia, próchnica)
 dart:i|darti||||soily (dirty)||sucio||||||||||||||likainen (mutainen)|ziemny (glebowy, gruntowy)
@@ -655,6 +652,9 @@ deft:e|defte|||tur:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(da
 deft:ia|deftia||||registry (account)||registro (cuenta)|||||||||||||registro (konto)|rekisteri (tili)|register
 deft.o.buk:e|deftobuke||||logbook||diario||||||||||||||lokikirja|dziennik pokładowy (notatnik)
 Deimos:|Deimos|planete 4 lun 2|||Deimos||||||||||||||||Deimos|
+dek:e|deke|||zho:德 (dé), yue:德 (dak1), jpn:德 (toku), kor:덕 (deok), vie:đức|morality (ethics)||moralidad (ética)||||||||||||||moraali|moralność, etyka
+dek:i|deki||||moral||moral (ético)||||||||||||||moraalinen|moralny
+dek.o.loj:ia|dekolojia||||ethics||ética (filosofía moral)||||||||||||||etiikka (moraalioppi)|etyka
 dem:|dem|||eng:spa:demo-, fra:démo-, rus:демо- (demo-)|people (population)||pueblo (población)|||||||||||||popolo|väestö (kansa)|lud, społeczeństwo
 dem:i|demi||||public||público||||||||||||||julkinen (kansan-)|publiczny
 dem.graf:ia|demgrafia||||demography||demografía|||||||||||||demografio|väestötiede (demografia)|demografia
@@ -816,7 +816,6 @@ emos:i|emosi||||emotional (emotive)||emotivo||эмоциональный||||||||
 emos:u|emosu||||feel||sentir|||||||||||||emocii|tuntea (kokea tunteita)|czuć, odczuć, odczuwać
 emos.hal:|emoshal||||mood (emotional state)|humeur|humor|humor|настроение||心情|||||||||animstato|tunnetila (tuuli)|humor (nastrój)
 en:i|eni|||eng:any|any (no matter which)||qualquier|||||||||||||iu ajn|mikä tahansa|jakikolwiek, którykolwiek
-enjen.er:|enjener|||eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia)|engineer||ingeniero||||||||||||||insinööri|inżynier
 Enceladus:|Enceladus|planete 6 lun 2|||Enceladus|||||||||||||||||
 energ:e|energe|||eng:energy, spa:energía, por:energia, fra:énergie, rus:энергия (energiya), tur:enerji, fas:انرژی‎ (enerži), jpn:エネルギー (enerugī)|energy||energía|||||||||||||energio|energia|energia
 engl:i|engli||||English||inglés|||||||||||||angla|englanti|Anglik; angielski
@@ -825,6 +824,7 @@ engl.o.fil.er:|englofiler||||anglophile||anglófilo||||||||||||||anglofiili|angl
 engl.o.fon:i|englofoni||||anglophone (English speking)|anglophone|||||||||||||||englantia puhuva (anglofoni)|
 engl.o.kitab:a|englokitaba||||anglicize||anglicanizar||||||||||||||englannistaa|anglizować (zanglizować)
 engl.o.margarit:e|englomargarite|biu|Bellis perennis||English daisy|pâquerette|margarita común (pascueta)|margarida-comum|маргаритка многоле́тняя||雛菊|ヒナギク||||||||||stokrotka pospolita
+enjen.er:|enjener|||eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia)|engineer||ingeniero||||||||||||||insinööri|inżynier
 enzim:|enzim|||eng:fra:enzyme, spa:por:enzima, rus:энзим (enzim), tur:may:enzim, ara:انزيم‎, fas:آنزیم‎ (ânzim)|enzyme||enzima||||||||||||||entsyymi|enzym
 er:|er|||eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|doer (agent, actor)||hacedor (perpetrador)|||||||||||||isto (anto)|tekijä (aikaansaaja)|przyrostek dla wykonawcy
 er:ia|eria||||field (art, workforce)||arte (campo)|||||||||||||||
@@ -1377,7 +1377,7 @@ iam:i|yami||||delicious (yummy)||delicioso|||||美味しい|||||||||herkullinen 
 iam.fit:e|yamfite||||vegetable|légume|verdura (legumbre)|verdura (hortaliça, legume)|овощ||蔬菜||||सब्ज़ी|সবজি|||sebze|legomo|kasvis|warzywo
 iam.iau:|yamyau||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
 iam.kamar:|yamkamar||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
-iam.xukar.cau:|yamxukarcau|biu|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
+iam.sukar.cau:|yamsukarcau|biu|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
 iang:|yang|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|kind (style, sort, type)||variedad (tipo, estilo)|||||タイプ||||||||speco (tipo, stilo)|laji (tyyppi, tyyli)|rodzaj, typ, styl
 Iapetus:|Yapetus|planete 6 lun 8|||Iapetus|||||||||||||||||
 iasen:|yasen|biu|Fraxinus|rus:ясень (yasen’), pol:jesion|ash tree|frêne|fresno|freixo|ясень||白蜡树|秦皮|||||||dişbudak|||jesion
@@ -2475,6 +2475,7 @@ neur:|neur|||eng:spa:por:fra:deu:neuro-, rus:невро- (nevro-)|nerve||nervio|
 neur:i|neuri||||neural||neural|||||||||||||nerva|hermostollinen|nerwowy (neuronowy)
 neur.cel:|neurcel||||neuron|neurone|neurona|neurônio|нейрон||||||||||nöron|neŭrono|hermosolu (neuroni)|neuron
 neur.pat:ia|neurpatia||||neuropathy||neuropatía||||||||||||||hermosairaus (neuropatia)|neuropatia
+neur.toks:e|neurtokse||||neurotoxin|neurotoxine||neurotoxina|||神经毒素|神経毒|||||||||hermomyrkky|
 nic:a|nica||||go under||||||||||||||||alittaa|iść w dół (iść pod spód, iść na dno)
 nic:e|nice|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 nic:i|nici||||lower (inferior)||inferior||||||||||||||ala-|poniższy
@@ -3148,6 +3149,7 @@ sekur.kod:e|sekurkode||||password (security code)||contraseña|||||||||||||||has
 sekur.numb:e|sekurnumbe||||personal identification number (PIN)||número de identificación personal|||||暗証番号||||||||||osobisty numer identyfikacyjny (pin)
 sel:|sel|||ara: صَلَاح‎ (ṣalāḥ), hin:सलाह (salāh), tel:సలహా (salahā), tur:salık + eng:counsel, fra:conseil, spa:consejo, por:conselho + rus:консультант (konsultant)|advice (counsel)|conseil|consejo|conselho|совет||||||||||||neuvo|rada, porada
 sel:a|sela||||advice (recommend)|conseiller|aconsejar|aconselhar|советовать||||||||||||neuvoa|
+sel:u|selu||||should (ought)||deber (se recomienda)|||||||||||||devus|pitäisi|powinien
 selen.em:|selenem|mate|Se||selenium||selenio|||||||||||||seleno|seleeni|selen
 selg:e|selge|biu|Beta vulgaris subsp. vulgaris, Cicla|ara:سلق (silqa), spa:por:acelga|chard|blettes (bettes)|acelga||мангольд|||フダンソウ (スイスチャード)||||||||||boćwina (botwina)
 sem:|sem|||fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|seed (semen)|semence|semilla|semente|семя||种||||बीज|বীজ|biji||tohum|semo|siemen|ziarno (nasienie)
@@ -3303,6 +3305,11 @@ suj:e|suje|||hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:s
 suk:a|suka||||please (delight, make happy)||gustar (complacer)||||||||||||||ilostuttaa|cieszyć, podobać się
 suk:i|suki|||hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk) + jpn:好く (suku), may: suka|happy (delighted)|heureux|feliz|feliz|счастливый (радостный)||高兴|幸せな|행복하다|mừng|सुखी (ख़ुश)|খুশি|senang||mutlu|feliĉa|iloinen (tyytyväinen)|wesoły, ucieszony
 suk:u|suku||||like (enjoy, be fond of)||gustarse (disfrutar)|||||||||||||ŝati|pitää (tykätä)|lubić, cieszyć się
+sukar:|sukar|||eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)|sugar|sucre|azúcar|açúcar|сахар|سُكَّر|糖|砂糖|설탕|đường|शक्कर|চিনি (শর্করা)|gula (sakar)|sukari|şeker|sukero|sokeri|cukier
+sukar:i|sukari||||sugary (sweet)||azucarado||||||||||||||sokerinen (makea)|słodki
+sukar.bet:e|sukarbete|biu|Beta vulgaris subsp. vulgaris, Altissima||sugar beet|betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла|||テンサイ (サトウダイコン)||||||||||burak cukrowy
+sukar.cau:|sukarcau|biu|||sugarcane|Canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||甘蔗|サトウキビ|||गन्ना||tebu|muwa||||trzcina cukrowa
+sukar.oranj:e|sukaroranje|biu|Citrus × sinensis||sweet orange|orange douce|||апельсин|||オレンジ (アマダイダイ)||||||||||pomarańcza słodka (pomarańcza chińska)
 sulf:e|sulfe|mate|S||sulfur (brimstone)||azufre|||||||||||||sulfuro|rikki|siarka
 sult:a|sulta||||rule (be in charge)||reinar (gobernar)|||||||||||||||rządzić, władać
 sult:ia|sultia||||power (authority, rule)||poder (autoridad, competencia)|||||||||||||||siła, autorytet, władza
@@ -3731,12 +3738,6 @@ xop.er:|xoper||||buyer||comprador|||||||||||||aĉetanto (aĉetisto)|ostaja|nabyw
 xot:i|xoti|numbe|100|hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|hundred (100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|सौ|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (100)|sto (100)
 xou:|xou|||eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|show (display, exhibition)||exposición (espectáculo)|||||||||||||montri (ekspozicii)|näytös (esitys, show)|pokaz, ekspozycja, wystawa
 xou:a|xova||||show (display, demonstrate)||mostrar||доказать (демонстрировать)|||見せる (示す, デモる)|||||||||näyttää|pokazać, pokazywać, wystawić, wystawiać
-xud:u|xudu|||eng:should|should (ought)||deber (se recomienda)|||||||||||||devus|pitäisi|powinien
-xukar:|xukar|||ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, tam:சக்கரை (cakkarai)|sugar|sucre|azúcar|açúcar|сахар|سُكَّر|糖|砂糖|||शक्कर|চিনি (শর্করা)|sakar|sukari|şeker|sukero|sokeri|cukier
-xukar:i|xukari||||sugary (sweet)||azucarado||||||||||||||sokerinen (makea)|słodki
-xukar.bet:e|xukarbete|biu|Beta vulgaris subsp. vulgaris, Altissima||sugar beet|betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла|||テンサイ (サトウダイコン)||||||||||burak cukrowy
-xukar.cau:|xukarcau|biu|||sugarcane|Canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||甘蔗|サトウキビ|||गन्ना||tebu|muwa||||trzcina cukrowa
-xukar.oranj:e|xukaroranje|biu|Citrus × sinensis||sweet orange|orange douce|||апельсин|||オレンジ (アマダイダイ)||||||||||pomarańcza słodka (pomarańcza chińska)
 xul:|xul||||lesson (teaching)|leçon|lección|lição|урок (учение)|دَرْس‎|课||||||ajaran|funzo||leciono|oppi (opetus)|lekcja
 xul:a|xula||||learn (study)|apprendre (étudier)|aprender (estudiar)|aprender|учиться||学习|学ぶ|배우다|học (học tập)|सीखना|শেখা|belajar|kujifunza|öğrenmek|lerni (studi)|oppia (opiskella)|nauczyć się, uczyć się, studiować
 xul:ia|xulia||||education (schooling)|éducation|educación|educação|образование|تَعْلِيم|教育||||शिक्षा|শিক্ষা||elimu|||koulutus|
@@ -3817,4 +3818,3 @@ zuk.o.med:i|zukomedi||||interethnic||interétnica||межэтнический|||
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 Zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:e|zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-neur.toks:e|neurtokse||||neurotoxin|neurotoxine||neurotoxina|||神经毒素|神経毒|||||||||hermomyrkky|

@@ -247,7 +247,7 @@ buŝo - boke
 ####C - C  
 celi - dika  
 celo - dike  
-cent - xati  
+cent - xoti  
 centono - centi\*  
 centro - jung  
 cepo - piaze  
@@ -301,7 +301,7 @@ detalo - detal
 devi - debu  
 devigi - musa  
 devo - mus  
-devus - xudu  
+devus - selu  
 dezerto - regotopia  
 deziro - kamia  
 dia - devi  
@@ -750,7 +750,7 @@ kiam? - ki sate
 kie - va ke  
 kiel? - ko?  
 kilometro - kilomitre  
-kimono - kimonou  
+kimono - kimono\*  
 kio? - ke  
 kio? - ki xei  
 kiom? - ko multo  
@@ -849,7 +849,7 @@ krunviruso - koronvirus
 ksenono - xenon  
 kubo - kube  
 kuko - keke  
-kukumo - hiar  
+kukumo - hiyar  
 kulero - camace  
 kulo - pige  
 kulpa - doxi  
@@ -1109,7 +1109,7 @@ neĝo - him
 neŭrono - neurcel  
 ni - mome  
 ni faru... - haida  
-nigra - siahi  
+nigra - siyahi  
 nihonio - niponem  
 Nikaragvo - Nikaragua  
 nikelo - nikel  
@@ -1503,7 +1503,7 @@ substantivo - namloge
 Sudkoreio - Sudi Cosen  
 sudo - sude  
 sufiĉa - basi  
-sukero - xukar  
+sukero - sukar  
 suko - jus  
 sulfuro - sulfe  
 sumo - sum  

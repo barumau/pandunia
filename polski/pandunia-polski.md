@@ -573,9 +573,6 @@ darje - stopień, poziom, ranga, klasa
 darji - stopniowy  
 darjomeden - gradient (gradacja, stopniowanie)  
 darjomute - rozwój  
-deke - moralność, etyka  
-deki - moralny  
-dekolojia - etyka  
 darmositem - darmsztadt  
 darte - grunt (ziemia, próchnica)  
 darti - ziemny (glebowy, gruntowy)  
@@ -600,6 +597,9 @@ defta - zapisać (zarejestrować)
 defte - rejestr  
 deftia - register  
 deftobuke - dziennik pokładowy (notatnik)  
+deke - moralność, etyka  
+deki - moralny  
+dekolojia - etyka  
 dem - lud, społeczeństwo  
 demi - publiczny  
 demgrafia - demografia  
@@ -717,7 +717,7 @@ dusfunce - awaria (wadliwe działanie)
 dushal - trudność (trud)  
 dusnam - obraza (obelga)  
 dusnamana - obrazić  
-dussinyi - złowieszczy  
+dusosinyi - złowieszczy  
 dusvidi - brzydki  
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 dutabli - wątpliwy (niewiarygodny, podejrzany)  
@@ -748,16 +748,15 @@ emosi - emocjonalny (uczuciowy)
 emosu - czuć, odczuć, odczuwać  
 emoshal - humor (nastrój)  
 eni - jakikolwiek, którykolwiek  
-enjener - inżynier  
 energe - energia  
 engli - Anglik; angielski  
 Englia - Anglia  
 englofiler - anglofil  
 englokitaba - anglizować (zanglizować)  
 englomargarite - stokrotka pospolita  
+enjener - inżynier  
 enzim - enzym  
 er - przyrostek dla wykonawcy  
-eria - przyrostek dla miejsca wykonywania  
 erbem - erb  
 Eris - Eris (planeta karłowata)  
 Eritria - Erytrea  
@@ -1125,7 +1124,7 @@ hayamirer - admirał
 haicau - trawa mor  
 haiful - ukwiał  
 haigun - marynarka (flota)  
-haihiar - strzykwa  
+haihiyar - strzykwa  
 haijel - meduza  
 hainili - morskoniebieski  
 haiporte - port morski (przystań)  
@@ -1184,9 +1183,9 @@ hemah - namiot
 hen - nienawidzić  
 herze - herc  
 hesem - has  
-hiar - ogórek  
 hibride - hybryda; kundel  
 hidre - wodór  
+hiyar - ogórek  
 hijabe - welon (woalka)  
 hijeni - czysty (higieniczny, sanitarny)  
 hijenia - higiena  
@@ -1259,7 +1258,7 @@ yami - pyszny
 yamfite - warzywo  
 yamyau - głód  
 yamkamar - jadalnia  
-yamxukarcau - cukrowiec jadalny  
+yamsukarcau - cukrowiec jadalny  
 yang - rodzaj, typ, styl  
 yasen - jesion  
 yatim - sierota  
@@ -1603,7 +1602,7 @@ kilogram - kilogram (kg)
 kilomitre - kilometr  
 kimi - chemiczny  
 kimlojia - chemia  
-kimonou - kimono  
+kimono\* - kimono  
 kin - ruch  
 kina - ruszać, przenościć, zmieniać miejsce, inspirować  
 kini - ruchowy, kinetyczny  
@@ -2253,11 +2252,9 @@ nasmedi - międzynarodowy
 natrem - sód  
 nau - łódź, statek  
 nava - żeglować (płynąć)  
-navi - dziewięć (9)  
 naver - żeglarz (marynarz)  
 naukaper - kaper (korsarz)  
 naulefte - bakburta (lewa burta)  
-naumes - grudzień  
 nauraite - sterburta (prawa burta)  
 nauxef - kapitan  
 navati - nahuatl  
@@ -2373,7 +2370,7 @@ ofis - urząd, pozycja, stanowisko, funkcja
 ofisi - oficjalny  
 ofisia - biuro, urząd  
 ofiser - funkcjonariusz, urzędnik  
-ofiseria - biuro (pokój)  
+ofiskan - biuro (pokój)  
 oganeson - oganesson  
 oka - patrzeć (oglądać)  
 oke - oko  
@@ -2928,6 +2925,7 @@ sekuri - bezpieczny
 sekurkode - hasło  
 sekurnumbe - osobisty numer identyfikacyjny (pin)  
 sel - rada, porada  
+selu - powinien  
 selenem - selen  
 selge - boćwina (botwina)  
 sem - ziarno (nasienie)  
@@ -2955,7 +2953,6 @@ seti - siedem (7)
 setyom - niedziela  
 setomes - październik  
 Sexel nesia - Seszele  
-siahi - czarny  
 siani - niebieskozielony (cyjan)  
 Sibiria - Syberia  
 siborgem - seaborg  
@@ -2969,6 +2966,7 @@ sifloge - przymiotnik
 sigar - papieros (cygar)  
 sih - zdrowie  
 sihi - zdrowy  
+siyahi - czarny  
 sikiste - sikh  
 sikistia - sikhizm  
 sikle - rower  
@@ -2994,7 +2992,7 @@ sirke - ocet
 sirkopurxipa - kisić (marynować)  
 sirkopurxipe - marynować  
 sirkopurxipi - kiszony (marynowany)  
-sirkopurxipi hiar - korniszon  
+sirkopurxipi hiyar - korniszon  
 sisi - sześć (6)  
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
@@ -3081,6 +3079,11 @@ suje - sugestia, propozycja
 suka - cieszyć, podobać się  
 suki - wesoły, ucieszony  
 suku - lubić, cieszyć się  
+sukar - cukier  
+sukari - słodki  
+sukarbete - burak cukrowy  
+sukarcau - trzcina cukrowa  
+sukaroranje - pomarańcza słodka (pomarańcza chińska)  
 sulfe - siarka  
 sulta - rządzić, władać  
 sultia - siła, autorytet, władza  
@@ -3214,6 +3217,8 @@ tirdar - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągają
 tirlonga - rozciągać (rozciągnąć)  
 tirsanduke - szuflada  
 titanem - tytan  
+tixi - dziewięć (9)  
+tixmes - grudzień  
 toca - dotyczyć  
 Togo - Togo  
 Tokyo - Tokio  
@@ -3429,7 +3434,6 @@ xarnir - zawias, oś
 xarta - wymagać, przewidywać  
 xarte - warunek  
 Xatan - diabeł, szatan  
-xati - sto (100)  
 xatani - diabelski, szatański  
 xataniste - satanista  
 xatanistia - satanizm  
@@ -3477,14 +3481,9 @@ xoke - szokwstrząs; kolizja
 xopa - kupić  
 xope - zakupy (sprawunki, shopping)  
 xoper - nabywca (kupiec)  
+xoti - sto (100)  
 xou - pokaz, ekspozycja, wystawa  
 xova - pokazać, pokazywać, wystawić, wystawiać  
-xudu - powinien  
-xukar - cukier  
-xukari - słodki  
-xukarbete - burak cukrowy  
-xukarcau - trzcina cukrowa  
-xukaroranje - pomarańcza słodka (pomarańcza chińska)  
 xul - lekcja  
 xula - nauczyć się, uczyć się, studiować  
 xulaner - nauczyciel  

@@ -244,7 +244,7 @@ durmetrer - 秒表
 dusi - 难  
 dusforma - 变丑  
 dusjan - 敌人  
-dussinyi - 不祥的  
+dusosinyi - 不祥的  
 dusvidi - 难看  
 dux - 淋浴  
 ####E - E  
@@ -351,7 +351,7 @@ hayamirer - 海军上将
 haicau - 海草  
 haiful - 海葵  
 haigun - 海军  
-haihiar - 海參  
+haihiyar - 海參  
 haijel - 海蜇  
 haiporte - 海港  
 haitate - 海岸  
@@ -373,7 +373,7 @@ helpa - 帮助
 hema - 深思 (考虑)  
 hemah - 帐篷  
 Hesia - 黑森  
-hiar - 黄瓜  
+hiyar - 黄瓜  
 hijabe - 面纱  
 Hindia - 印度斯坦  
 Hindonade - 印度河  
@@ -510,7 +510,7 @@ kerne - 核心
 kim - 物质  
 kimem - 元素  
 kimlojia - 化学  
-kimonou - 和服  
+kimono\* - 和服  
 kina - 动  
 kinu - 动  
 kita - 除去  
@@ -708,13 +708,13 @@ najisa - 污染
 namkitaba - 签署  
 nasmedi - 国际  
 nau - 船 (艇)  
-navi - 九 (9)  
 naulefte - 左舷  
 nauraite - 右舷  
 nautil - 鹦鹉螺  
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
+neurtokse - 神经毒素  
 nide - 巢 (穴)  
 nili - 蓝色  
 nilcentaur - 矢車菊  
@@ -881,11 +881,11 @@ ser - 锯子
 seram - 陶瓷  
 seti - 七 (7)  
 setyom - 星期日 (禮拜日)  
-siahi - 黑色  
 side - 座部 (马鞍)  
 sifloge - 形容词  
 sih - 健康  
 sihi - 健康  
+siyahi - 黑色  
 sikliste - 骑自行车的人  
 sil - 连结  
 silia - 系列  
@@ -916,6 +916,8 @@ suiyau - 口渴
 suikaboge - 葫芦  
 suiminte - 水薄荷  
 suki - 高兴  
+sukar - 糖  
+sukarcau - 甘蔗  
 sundari - 漂亮 (美)  
 sundaria - 美丽  
 sundardake - 装饰  
@@ -955,6 +957,7 @@ tira milke - 拉
 tira pil - 削 (刮去)  
 tirbaton - 杆  
 tirlonga - 拉  
+tixi - 九 (9)  
 toca - 接触  
 toksolojia - 毒物学  
 tomate - 西红柿  
@@ -1011,7 +1014,6 @@ Xanghai - 上海
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
 Xatan - 撒但  
-xati - सौ  
 xavi - 少  
 xei - 事物 (东西)  
 xeihal - 事态  
@@ -1031,8 +1033,7 @@ xofa - 开车
 xofer - 司机  
 xopa - 买  
 xope - 购物 (血拼)  
-xukar - 糖  
-xukarcau - 甘蔗  
+xoti - सौ  
 xul - 课  
 xula - 学习  
 xulia - 教育  
@@ -1062,4 +1063,3 @@ zoulojia - 动物学
 zouparke - 动物园  
 zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  
-neurtokse - 神经毒素  

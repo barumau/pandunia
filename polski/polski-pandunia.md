@@ -197,7 +197,7 @@ biromantyczny - dulromansi
 biseksualny - dulseksi  
 biszkopt, ciastko - biskute  
 biurko - karmeze  
-biuro (pokój) - ofiseria  
+biuro (pokój) - ofiskan  
 biuro, urząd - ofisia  
 biust - buste  
 bizmut - bismute  
@@ -249,7 +249,7 @@ budżet - bujete
 bufet (szwedzki stół) - bufete  
 bulwa - masmul  
 burak - bete  
-burak cukrowy - xukarbete  
+burak cukrowy - sukarbete  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 burza z piorunami - gromtafun  
@@ -367,10 +367,10 @@ co? - ki jan
 coś - koi xei  
 croissant - kruasante  
 cudzysłów - citomarke  
-cukier - xukar  
+cukier - sukar  
 cukierek, słodycze - kande  
 cukinia - lilkaboge  
-cukrowiec jadalny - yamxukarcau  
+cukrowiec jadalny - yamsukarcau  
 cynk - estan  
 cynk - zinke  
 Cypr - Kipris  
@@ -387,7 +387,7 @@ czajnik - ketle
 czapetka kuminowa - jamul  
 czar (urok, wdzięk) - carme  
 Czarnogóra - Cernagora  
-czarny - siahi  
+czarny - siyahi  
 czas (epoka, era) - zaman  
 czas; okazja - mar  
 czasownik - karloge  
@@ -539,7 +539,7 @@ dziennikarz - gazeter
 dziesięć (10) - desi  
 dziesięć tysięcy - deskilo\*  
 dziewczyna - joveni fem  
-dziewięć (9) - navi  
+dziewięć (9) - tixi  
 dzień - den  
 dzień dobry - salam den  
 dzień świętego Jana - yohani feste  
@@ -749,7 +749,7 @@ grillować - kababa
 grom, huk - grom  
 grubość - grosia  
 gruby - grosi  
-grudzień - naumes  
+grudzień - tixmes  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -1059,7 +1059,7 @@ kiełbasa - sosis
 kilof - pincope  
 kilogram (kg) - kilogram  
 kilometr - kilomitre  
-kimono - kimonou  
+kimono - kimono\*  
 kinematografia - kingrafia  
 kino - kingraf  
 kinowy - kingrafi  
@@ -1156,7 +1156,7 @@ Korea Południowa - Sudi Cosen
 Korea Północna (Koreańska Republika Ludowo-Demokratyczna) - Nordi Cosen  
 koreański - Coseni  
 korek, zatyczka, szpunt - tape  
-korniszon - sirkopurxipi hiar  
+korniszon - sirkopurxipi hiyar  
 korona - koron  
 koronawirus - koronvirus  
 korzeń - mul  
@@ -1805,7 +1805,7 @@ ogień - hoge
 ognisty - hogi  
 ogon - vei  
 ogr (trol, goblin) - gui  
-ogórek - hiar  
+ogórek - hiyar  
 ogórek kiwano - kornomelon  
 ogórek melon - melon  
 ojciec - pape  
@@ -2094,7 +2094,7 @@ polować (łowić) - saida
 Polska - Polske  
 polski - polski  
 pomarańcza - oranje  
-pomarańcza słodka (pomarańcza chińska) - xukaroranje  
+pomarańcza słodka (pomarańcza chińska) - sukaroranje  
 pomarańczowy - oranji  
 pomidor - tomate  
 pomnik (memoriał) - membin  
@@ -2156,7 +2156,7 @@ powierzchnia - fas
 powierzchnia, region, teren - aria  
 powiesić, wieszać - penda  
 powietrze - air  
-powinien - xudu  
+powinien - selu  
 powolny (wolny, letargiczny) - lenti  
 powrót - retre  
 powszechny, uniwersalny - putongi  
@@ -2305,7 +2305,6 @@ przyrostek dla czasowników z szykiem zdania OV####S - -u
 przyrostek dla czasowników z szykiem zdania SV####O - -a  
 przyrostek dla ideologii - istia  
 przyrostek dla miejsca - -ia  
-przyrostek dla miejsca wykonywania - eria  
 przyrostek dla przymiotnika - -i  
 przyrostek dla przysłówków - -o  
 przyrostek dla wsperającego ideę - iste  
@@ -2694,7 +2693,7 @@ statyczny, stacjonarny, nieruchomy - estasi
 stać - libu  
 stały (sztywny) - gatomati  
 sterburta (prawa burta) - nauraite  
-sto (100) - xati  
+sto (100) - xoti  
 stojak (wieszak) - libobaze  
 stokrotka - margarite  
 stokrotka pospolita - englomargarite  
@@ -2716,7 +2715,7 @@ strona - varkolate
 stront - estrontem  
 strzała (bełt) - flece  
 strzelać (strzelić) - pava  
-strzykwa - haihiar  
+strzykwa - haihiyar  
 strzępić (drzeć) - circira  
 studio (pracownia) - estudia  
 styczeń - unmes  
@@ -2813,7 +2812,7 @@ sól - sal
 sądzić (osądzić) - juda  
 sędzia - juder  
 słaby - debili  
-słodki - xukari  
+słodki - sukari  
 słodki ziemniak - kamote  
 słonecznik - solful  
 słony - sali  
@@ -2934,7 +2933,7 @@ trwać, zająć czas; przez - duru
 trwały (wytrzymały, podtrzymywalny) - durabli  
 tryb nocny - nocomode  
 Trynidad i Tobago - Trinidade e Tobago  
-trzcina cukrowa - xukarcau  
+trzcina cukrowa - sukarcau  
 trzeć (pocierać, obetrzeć, pucować) - frika  
 trzy (3) - san  
 trząść (machać) - sisma  
@@ -3470,7 +3469,7 @@ złapać, łapać, schwytać, chwytać - kapa
 złocień indyjski - neftoguke  
 złodziej - corer  
 złoto - aur  
-złowieszczy - dussinyi  
+złowieszczy - dusosinyi  
 złośliwy, okrutny - zalimi  
 zły (wsciekły, gniewny) - furi  
 zły los - dusi zar  

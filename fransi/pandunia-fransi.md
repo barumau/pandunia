@@ -530,7 +530,7 @@ hayalge - algues
 hayamirer - amiral  
 haicau - posidonie (herbiers marins)  
 haigun - force navale (marine)  
-haihiar - concombre de mer  
+haihiyar - concombre de mer  
 haijel - méduse  
 haitate - côte  
 hake - droit  
@@ -551,7 +551,7 @@ hema - considérer
 hemah - tente  
 hen - haine  
 Hesia - Hesse  
-hiar - concombre  
+hiyar - concombre  
 hijabe - voile  
 hijenia - hygiène  
 him - neige  
@@ -697,7 +697,7 @@ kerne - coeur
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
-kimonou - kimono  
+kimono\* - kimono  
 kina - mouvoir (bouger)  
 kinu - se mouvoir  
 Kinxasa - Kinshasa  
@@ -910,7 +910,6 @@ narde - backgammon
 nasia - nation  
 nasmedi - international  
 nau - bateau  
-navi - neuf (9)  
 naulefte - babord  
 nauraite - tribord  
 nautil - nautile  
@@ -919,6 +918,7 @@ nefte - huile (pétrole)
 Neputun - Neptune  
 netogeta - télécharger  
 neurcel - neurone  
+neurtokse - neurotoxine  
 nice - dessous  
 nide - nid  
 nili - bleu  
@@ -1125,10 +1125,10 @@ senter - tentacule
 ser - scie  
 seti - sept (7)  
 setyom - dimanche  
-siahi - noir  
 sifloge - adjectif  
 sih - santé  
 sihi - sain  
+siyahi - noir  
 sikle - bicyclette  
 sikliste - cycliste  
 sil - maillon (chaînon)  
@@ -1138,7 +1138,7 @@ sira - cacher
 siri mote - célérité  
 sirplan - complot (conspiration)  
 sirkopurxipi - décapé (mariné)  
-sirkopurxipi hiar - concombre confit (cornichon)  
+sirkopurxipi hiyar - concombre confit (cornichon)  
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
@@ -1164,6 +1164,10 @@ suigas - vapeur d’eau
 suiyau - soif  
 suiminte - Menthe aquatique  
 suki - heureux  
+sukar - sucre  
+sukarbete - betterave à sucre (betterave sucrière)  
+sukarcau - Canne à sucre  
+sukaroranje - orange douce  
 sundari - beau  
 sundaria - beauté  
 susan - lys  
@@ -1199,6 +1203,7 @@ tim - équipe
 tira milke - tirer  
 tira pil - écorce  
 tirlonga - tender  
+tixi - neuf (9)  
 toca - toucher  
 toksolojia - toxicologie  
 tomate - tomate  
@@ -1273,7 +1278,6 @@ xarke - requin
 xata - s'opposer à  
 xatan - adversaire (antagoniste, ennemi)  
 Xatan - Satan  
-xati - cent (100)  
 xavi - peu  
 xef - chef  
 xei - chose  
@@ -1291,10 +1295,7 @@ xix - brochette
 xixmanse - chachlik  
 xopa - acheter  
 xope - shopping  
-xukar - sucre  
-xukarbete - betterave à sucre (betterave sucrière)  
-xukarcau - Canne à sucre  
-xukaroranje - orange douce  
+xoti - cent (100)  
 xul - leçon  
 xula - apprendre (étudier)  
 xulia - éducation  
@@ -1329,4 +1330,3 @@ zuke - ethnie
 zuki - ethnique  
 Zulu - zoulou  
 zumurude - émeraude  
-neurtokse - neurotoxine  

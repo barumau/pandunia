@@ -581,9 +581,6 @@ darba - lyödä (iskeä)
 darje - porras (aste, taso)  
 darji - asteittainen (porrastettu)  
 darjomute - kehitys  
-deke - moraali  
-deki - moraalinen  
-dekolojia - etiikka (moraalioppi)  
 darmositem - darmstadtium  
 darte - maa (multa)  
 darti - likainen (mutainen)  
@@ -610,6 +607,9 @@ defte - tallenne (rekisteri)
 deftia - rekisteri (tili)  
 deftobuke - lokikirja  
 Deimos - Deimos  
+deke - moraali  
+deki - moraalinen  
+dekolojia - etiikka (moraalioppi)  
 dem - väestö (kansa)  
 demgrafia - väestötiede (demografia)  
 demkrati - demokraattinen  
@@ -761,16 +761,15 @@ emos - tunne (mielenliikutus)
 emosu - tuntea (kokea tunteita)  
 emoshal - tunnetila (tuuli)  
 eni - mikä tahansa  
-enjener - insinööri  
 energe - energia  
 engli - englanti  
 Englia - Englanti  
 englofiler - anglofiili  
 englofoni - englantia puhuva (anglofoni)  
 englokitaba - englannistaa  
+enjener - insinööri  
 enzim - entsyymi  
 er - tekijä (aikaansaaja)  
-eria - paja (kauppa, tekimö)  
 erbem - erbium  
 Eris - Eris (kääpiöplaneetta)  
 Eritria - Eritrea  
@@ -1199,9 +1198,9 @@ hen - viha
 herze - hertsi (Hz)  
 Hesia - Hessen  
 hesem - hasium  
-hiar - kurkku  
 hibride - risteytys (hybridi)  
 hidre - vety  
+hiyar - kurkku  
 hijabe - verho (huntu, peite)  
 hijeni - hygieeninen  
 hijenia - hygienia (puhtaus)  
@@ -1579,7 +1578,7 @@ kim - aine (aines, materia)
 kimi - kemikaali  
 kimem - alkuaine  
 kimlojia - kemia  
-kimonou - kimono  
+kimono\* - kimono  
 kin - liike  
 kina - liikuttaa (innoittaa)  
 kinu - liikkua  
@@ -2151,11 +2150,9 @@ nasmedi - kansainvälinen
 natrem - natrium  
 nau - vene (laiva)  
 nava - veneillä  
-navi - yhdeksän  
 naver - veneilijä  
 naukaper - laivakaappari  
 naulefte - paapuuri  
-naumes - syyskuu  
 nauraite - tyyrpuuri  
 nauxef - kapteeni  
 navati - nahuatli  
@@ -2185,6 +2182,7 @@ neur - hermo
 neuri - hermostollinen  
 neurcel - hermosolu (neuroni)  
 neurpatia - hermosairaus (neuropatia)  
+neurtokse - hermomyrkky  
 nica - alittaa  
 nice - alapuoli  
 nici - ala-  
@@ -2752,6 +2750,7 @@ sekura - suojella (suojata, turvata)
 sekuri - turvallinen (varma)  
 sel - neuvo  
 sela - neuvoa  
+selu - pitäisi  
 selenem - seleeni  
 sem - siemen  
 semi - siemen-  
@@ -2775,7 +2774,6 @@ seti - seitsemän (7)
 setyom - niedziela  
 setomes - heinäkuu  
 Sexel nesia - Seychellit  
-siahi - musta  
 siani - syaani  
 Sibiria - Siperia  
 sida - istua  
@@ -2786,6 +2784,7 @@ sifloge - adjektiivi (laatusana)
 sigar - savuke tai sikari  
 sih - terveys  
 sihi - terve  
+siyahi - musta  
 sikiste - sikhi  
 sikistia - sikhiläisyys  
 sikle - pyörä (polkupyörä, moottoripyörä)  
@@ -2874,6 +2873,8 @@ suje - ehdotus
 suka - ilostuttaa  
 suki - iloinen (tyytyväinen)  
 suku - pitää (tykätä)  
+sukar - sokeri  
+sukari - sokerinen (makea)  
 sulfe - rikki  
 sum - summa  
 suma - ynnätä (summata)  
@@ -2982,6 +2983,8 @@ tira - vetää (kiskoa)
 tira milke - lypsää maitoa  
 tirsanduke - vetolaatikko  
 titanem - titaani  
+tixi - yhdeksän  
+tixmes - syyskuu  
 toca - koskea (koskettaa)  
 Togo - Togo  
 tokse - myrkky  
@@ -3171,7 +3174,6 @@ xarte - vaatimus (edellytys)
 xata - vastustaa  
 xatan - vastustaja (vihollinen)  
 Xatan - saatana (sielunvihollinen)  
-xati - sata (100)  
 xatani - pirullinen  
 xataniste - satanisti  
 xatanistia - satanismi (paholaisenpalvonta)  
@@ -3212,11 +3214,9 @@ xoke - isku (šokki)
 xopa - ostaa  
 xope - ostokset  
 xoper - ostaja  
+xoti - sata (100)  
 xou - näytös (esitys, show)  
 xova - näyttää  
-xudu - pitäisi  
-xukar - sokeri  
-xukari - sokerinen (makea)  
 xul - oppi (opetus)  
 xula - oppia (opiskella)  
 xulia - koulutus  
@@ -3285,4 +3285,3 @@ zukomedi - kansanryhmien välinen
 zukam - vilustuminen  
 Zulu - zulu  
 zumurude - smaragdi  
-neurtokse - hermomyrkky  

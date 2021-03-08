@@ -621,9 +621,6 @@ darje - step (degree, rank, grade, level, class)
 darji - gradual  
 darjomeden - gradient (gradation, incline)  
 darjomute - development  
-deke - morality (ethics)  
-deki - moral  
-dekolojia - ethics  
 darmositem - darmstadtium  
 darte - soil (dirt)  
 darti - soily (dirty)  
@@ -651,6 +648,9 @@ defte - register (record, log)
 deftia - registry (account)  
 deftobuke - logbook  
 Deimos - Deimos  
+deke - morality (ethics)  
+deki - moral  
+dekolojia - ethics  
 dem - people (population)  
 demi - public  
 demgrafia - demography  
@@ -779,7 +779,7 @@ dusjan - enemy (foe, villain)
 duskar - misdeed (sin, vice)  
 dusnam - insult (offense)  
 dusnamana - insult (offend, call names)  
-dussinyi - ominous (foreboding)  
+dusosinyi - ominous (foreboding)  
 dustopia - dystopia  
 dusvidi - ugly (unsightly)  
 dute - doubt (disbelief)  
@@ -812,7 +812,6 @@ emosi - emotional (emotive)
 emosu - feel  
 emoshal - mood (emotional state)  
 eni - any (no matter which)  
-enjener - engineer  
 Enceladus - Enceladus  
 energe - energy  
 engli - English  
@@ -821,6 +820,7 @@ englofiler - anglophile
 englofoni - anglophone (English speking)  
 englokitaba - anglicize  
 englomargarite - English daisy  
+enjener - engineer  
 enzim - enzyme  
 er - doer (agent, actor)  
 eria - field (art, workforce)  
@@ -1223,7 +1223,7 @@ hayamirer - admiral
 haicau - seagrass  
 haiful - sea anemone  
 haigun - sea force (navy)  
-haihiar - sea cucumber  
+haihiyar - sea cucumber  
 haijel - jellyfish (seajelly)  
 hainili - aqua (teal)  
 haiporte - harbor (seaport)  
@@ -1290,9 +1290,9 @@ hena - hate (despise)
 herze - hertz (Hz)  
 Hesia - Hesse  
 hesem - hassium  
-hiar - cucumber  
 hibride - hybrid (mongrel)  
 hidre - hydrogen  
+hiyar - cucumber  
 hijabe - veil (cover, screen)  
 hijeni - cleanly (hygienic, sanitary)  
 hijenia - hygiene (cleanliness)  
@@ -1371,7 +1371,7 @@ yami - delicious (yummy)
 yamfite - vegetable  
 yamyau - hunger  
 yamkamar - dining room  
-yamxukarcau - duruka  
+yamsukarcau - duruka  
 yang - kind (style, sort, type)  
 Yapetus - Iapetus  
 yasen - ash tree  
@@ -1463,6 +1463,7 @@ Islandia - Iceland
 Israel - Israel  
 iste - proponent (supporter, activist, -ist)  
 istia - ism (doctrine, ideology, religion, etc)  
+ite - object (patient, target)  
 Italia - Italy  
 itis - inflammation (-itis)  
 iva - tend to  
@@ -1739,7 +1740,7 @@ kim - substance (physical material from which something is made)
 kimi - chemical  
 kimem - chemical element  
 kimlojia - chemistry  
-kimonou - kimono  
+kimono\* - kimono  
 kin - movement  
 kina - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
 kini - kinetic  
@@ -2427,11 +2428,9 @@ natre - natron
 natrem - sodium  
 nau - boat (ship)  
 nava - sail  
-navi - nine (9)  
 naver - sailer  
 naukaper - privateer (buccaneer)  
 naulefte - port (left side of a ship)  
-naumes - September  
 nauraite - starboard (right side of a ship)  
 nauxef - captain  
 navati - Nahuatl (Nahua)  
@@ -2466,6 +2465,7 @@ neur - nerve
 neuri - neural  
 neurcel - neuron  
 neurpatia - neuropathy  
+neurtokse - neurotoxin  
 nica - go under  
 nice - underside (underneath)  
 nici - lower (inferior)  
@@ -2550,7 +2550,7 @@ ofis - office (position)
 ofisi - official  
 ofisia - office (bureau)  
 ofiser - officer  
-ofiseria - office (room)  
+ofiskan - office (room)  
 oganeson - oganesson  
 oka - eye (look, watch)  
 oke - eye  
@@ -3137,6 +3137,7 @@ sekurkode - password (security code)
 sekurnumbe - personal identification number (PIN)  
 sel - advice (counsel)  
 sela - advice (recommend)  
+selu - should (ought)  
 selenem - selenium  
 selge - chard  
 sem - seed (semen)  
@@ -3164,7 +3165,6 @@ seti - seven (7)
 setyom - Sunday  
 setomes - July  
 Sexel nesia - Seychelles  
-siahi - black  
 siani - cyan  
 Sibiria - Siberia  
 siborgem - seaborgium  
@@ -3178,6 +3178,7 @@ sifloge - adjective
 sigar - cigarette (cigar)  
 sih - health  
 sihi - healthy  
+siyahi - black  
 sikiste - Sikh  
 sikistia - Sikhism  
 sikle - bike (cycle)  
@@ -3203,7 +3204,7 @@ sirplan - conspiracy (plot)
 sirke - vinegar  
 sirkopurxipa - pickle (preserve in vinegar or brine)  
 sirkopurxipi - pickled  
-sirkopurxipi hiar - gherkin (pickle)  
+sirkopurxipi hiyar - gherkin (pickle)  
 sisi - six (6)  
 sisfas - hexahedron (cube)  
 sisgon - hexagon  
@@ -3291,6 +3292,11 @@ suje - suggestion (proposal)
 suka - please (delight, make happy)  
 suki - happy (delighted)  
 suku - like (enjoy, be fond of)  
+sukar - sugar  
+sukari - sugary (sweet)  
+sukarbete - sugar beet  
+sukarcau - sugarcane  
+sukaroranje - sweet orange  
 sulfe - sulfur (brimstone)  
 sulta - rule (be in charge)  
 sultia - power (authority, rule)  
@@ -3435,6 +3441,8 @@ tirsanduke - drawer
 Titan - Titan  
 Titania - Titania  
 titanem - titanem  
+tixi - nine (9)  
+tixmes - September  
 toca - touch  
 Togo - Togo  
 Tokyo - Tokyo  
@@ -3667,7 +3675,6 @@ xarte - condition (requirement)
 xata - oppose (antagonize, object, resist)  
 xatan - adversary (antagonist, opponent)  
 Xatan - devil (Satan)  
-xati - hundred (100)  
 xatani - devilish (satanic)  
 xataniste - Satanist  
 xatanistia - Satanism (devil worship)  
@@ -3715,14 +3722,9 @@ xoke - shock (collision)
 xopa - buy (purchase)  
 xope - shopping  
 xoper - buyer  
+xoti - hundred (100)  
 xou - show (display, exhibition)  
 xova - show (display, demonstrate)  
-xudu - should (ought)  
-xukar - sugar  
-xukari - sugary (sweet)  
-xukarbete - sugar beet  
-xukarcau - sugarcane  
-xukaroranje - sweet orange  
 xul - lesson (teaching)  
 xula - learn (study)  
 xulia - education (schooling)  
@@ -3803,4 +3805,3 @@ zukomedi - interethnic
 zukam - cold (illness)  
 Zulu - Zulu  
 zumurude - emerald  
-neurtokse - neurotoxin  

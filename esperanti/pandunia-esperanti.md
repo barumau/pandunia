@@ -710,9 +710,9 @@ hema - pripensi (rigardi ia)
 hemah - tendo  
 hen - malamo  
 hesem - hasio  
-hiar - kukumo  
 hibride - miksulo  
 hidre - hidrogeno  
+hiyar - kukumo  
 him - neĝo  
 himros - frosto  
 Himalia - Himalajo  
@@ -925,7 +925,7 @@ kexosabun - ŝampuo
 kilomitre - kilometro  
 kimem - kemia elemento  
 kimlojia - ĥemio (kemio)  
-kimonou - kimono  
+kimono\* - kimono  
 kina - movi  
 kinu - moviĝi  
 kitu - iri  
@@ -1509,6 +1509,7 @@ saudar - frato aŭ fratino
 sauna\* - saŭno  
 saus - saŭco  
 sekse - sekso  
+selu - devus  
 selenem - seleno  
 sem - semo  
 semi - sema  
@@ -1519,11 +1520,11 @@ serebre - cerbo
 serpe - serpento  
 seti - sep (7)  
 setyom - dimanĉosunnuntai  
-siahi - nigra  
 siborgem - seborgio  
 sida - sidi  
 sifloge - adjektivo  
 sihi - sana  
+siyahi - nigra  
 sikliste - biciklisto  
 sil - ĉenero  
 silia - serio  
@@ -1567,6 +1568,7 @@ suigas - vaporo
 suiyau - soifo  
 suki - feliĉa  
 suku - ŝati  
+sukar - sukero  
 sulfe - sulfuro  
 sum - sumo  
 sundari - bela  
@@ -1720,7 +1722,6 @@ xarme - honto
 xarnir - ĉarniro (pivoto)  
 xarte - kondiĉo (postulo)  
 Xatan - diablo (Satano)  
-xati - cent  
 xatranje - ŝako  
 xavi - malmulte  
 xef - estro (ĉefulo)  
@@ -1743,9 +1744,8 @@ xofa - konduki
 xofer - ŝoforo (kondukisto)  
 xopa - aĉeti  
 xoper - aĉetanto (aĉetisto)  
+xoti - cent  
 xou - montri (ekspozicii)  
-xudu - devus  
-xukar - sukero  
 xul - leciono  
 xula - lerni (studi)  
 xulana - instrui  

@@ -92,7 +92,7 @@ azur (blau) - lazuri
 azur - nili  
 açougueiro (talhante) - bucer  
 ação - ation  
-açúcar - xukar  
+açúcar - sukar  
 ####B - B  
 bacalhau-do-atlântico - atlantokade  
 bacia - basen  
@@ -160,7 +160,7 @@ camarão - krevete
 camisa - kamis  
 camomila-romana - romakamil  
 camomila-vulgar - kamil  
-cana-de-açúcar - xukarcau  
+cana-de-açúcar - sukarcau  
 canguru - kangaru\*  
 canhão (ravina, barranco) - kanyon  
 canhǎo - daipau  
@@ -188,7 +188,7 @@ castanho (marrom) - bruni
 cavar (escavar) - kava  
 caçar - saida  
 cebola - piaze  
-cem (100) - xati  
+cem (100) - xoti  
 cemitério - gabrotopia  
 cenoura - karote  
 centro - jung  
@@ -669,7 +669,7 @@ norte - norde
 nostalgia (saudade) - nostalgia  
 nota - note  
 novato (neófito) - novike  
-nove (9) - navi  
+nove (9) - tixi  
 novo - novi  
 nuvem - mege  
 náusea - retroguli sense  
@@ -745,9 +745,9 @@ peidar - peda
 peido - pede  
 peixe - pex  
 pele - pil  
-pepino - hiar  
+pepino - hiyar  
 pepino-africano (kiwano) - kornomelon  
-pepino-do-mar (holotúrias) - haihiar  
+pepino-do-mar (holotúrias) - haihiyar  
 pequeno - lili  
 perdedor - xibayer  
 perder - xibaya tena  
@@ -787,7 +787,7 @@ prateleira (estante) - liboban
 praça - meden  
 precioso - bavi  
 preferir - maxfila  
-preto - siahi  
+preto - siyahi  
 problema - problem  
 professor (docente) - xulaner  
 profissão - peikar  
@@ -821,7 +821,7 @@ querer (desejar) - volu
 querido (caro) - ami  
 querido - amike  
 questão (pergunta) - eske  
-quimono - kimonou  
+quimono - kimono\*  
 quincã (cunquate) - kankuate  
 quinta-feira - caryom  
 quivi - kivi\*  

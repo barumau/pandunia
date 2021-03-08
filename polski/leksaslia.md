@@ -462,12 +462,12 @@
 |**hem**|hmm|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |**hemah**|namiot|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|nienawidzić|zho:恨 (hèn), yue:恨 (han6), wuu:恨 (hhen3), vie:hận, jpn:嫌 (ken), kor:혐 (hyeom) + fra:haine|
-|**hiar**|ogórek|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hibride**|hybryda; kundel|eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)|
 |**hijabe**|welon (woalka)|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
 |**hijenia**|higiena|deu:eng:hygiene, fra:hygiène, spa:por:higiene, rus:гигиена (gigiena), tur:hijyen|
 |**him**|śnieg|hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|
 |**historia**|historia, badanie historii|eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)|
+|**hiyar**|ogórek|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hobe**|hobby|eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|
 |**hoge**|ogień|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
 |**hoke**|hokej|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|
@@ -880,7 +880,6 @@
 |**nasia**|naród, narodowość|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |**nau**|łódź, statek|fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|
 |**nautil**|nautilus|eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|
-|**navi**|dziewięć (9)|hin:नौ (nau), urd:(nau), spa:nueve, por:nove, fra:neuf|
 |**naziste**|nazista|rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
 |**nefre**|nerka|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
 |**nefte**|olej|ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|
@@ -914,7 +913,7 @@
 |**numbe**|numer|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**o**|lub, albo|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
 |**oaze**|oaza|eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|
-|**ofiseria**|biuro (pokój)|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|
+|**ofisia**|biuro, urząd|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|
 |**oke**|oko|spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|
 |**okeyi**|okej, spoko, akceptowalny|eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|
 |**okosui**|łza|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
@@ -1137,7 +1136,6 @@
 |**serve**|służba|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |**sesam**|sezam|tur:susam, eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim)|
 |**seti**|siedem (7)|spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), tha:เจ็ด (chet), yue:七 (chat1), jpn:七 (shichi), tur:yedi|
-|**siahi**|czarny|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
 |**siani**|niebieskozielony (cyjan)|eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|
 |**sida**|siedzieć|rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|
 |**sif**|cecha, właściwość, parametr|hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)|
@@ -1157,6 +1155,7 @@
 |**sistem**|system|eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|
 |**site**|miast, miasteczko|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**sivili**|cywilizowany (ucywilizowany)|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
+|**siyahi**|czarny|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
 |**sofa***|sofa (kanapa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|mądrość|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soka**|szukać|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen + rus:искать (iskat’)|
@@ -1176,6 +1175,7 @@
 |**sui**|woda|zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su|
 |**suikaboge**|tykwa pospolita (kabalasz)|por:abóbora-d'água, tur:su kabağı|
 |**suje**|sugestia, propozycja|hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão|
+|**sukar**|cukier|eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)|
 |**suki**|wesoły, ucieszony|hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk) + jpn:好く (suku), may: suka|
 |**sultan**|władca|ara:سلطة (sulṭa), eng:tur:may:sultan, spa:sultán, rus: султан (sultan), fas:سلطان‎ (soltân), hin:सुल्तान (sultān), ben:সুলতান (śultan)|
 |**sum**|suma|eng:sum, spa:suma, por:soma, fra:somme, deu:Summe, rus:сумма (summa)|
@@ -1232,6 +1232,7 @@
 |**ting**|stop; przerwa, zatrzymanie|zho:停 (tíng), yue:停 (ting4), wuu:停 (din2), vie:đình|
 |**tipe**|typ (rodzaj, gatunek)|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
 |**tira**|ciągnąć|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
+|**tixi**|dziewięć (9)|ara:تِسْعَة (tisʿa), heb:תשע  (tésha), swa:tisa|
 |**toca**|dotyczyć|eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|
 |**tokse**|trucizna (toksyna)|eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|
 |**tolera**|tolerować|eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren|
@@ -1324,7 +1325,6 @@
 |**xarnir**|zawias, oś|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |**xarte**|warunek|tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|
 |**Xatan**|diabeł, szatan|heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|
-|**xati**|sto (100)|hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|
 |**xatranje**|szachy|hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|
 |**xavi**|niewiele (mało)|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |**xaxu**|szeleścić|zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha|
@@ -1348,9 +1348,8 @@
 |**xofer**|szofer (kierowca)|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|
 |**xoke**|szokwstrząs; kolizja|eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|
 |**xope**|zakupy (sprawunki, shopping)|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
+|**xoti**|sto (100)|hin:शत (śat), ben:শত (śôt), fas:صَد‎ (sad), rus:сто (sto), pol:sto|
 |**xou**|pokaz, ekspozycja, wystawa|eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|
-|**xudu**|powinien|eng:should|
-|**xukar**|cukier|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, tam:சக்கரை (cakkarai)|
 |**xulkan**|szkoła (instytucja)|zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah|
 |**xur**|początek|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
 |**xute**|umiejętność (kompetencja)|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|

@@ -390,7 +390,7 @@ bite - danta
 bitter - alkalgusti  
 bitter melon - alkalmelon  
 bitter orange - alkaloranje  
-black - siahi  
+black - siyahi  
 blacklist - haramliste  
 blacksmith (iron forger) - metaljanger  
 blast furnace - gavi tanur  
@@ -848,7 +848,7 @@ cry (shout) - krita
 crystal - bilor  
 Cuba - Kuba  
 cube - kube  
-cucumber - hiar  
+cucumber - hiyar  
 cultivate (farm) - nonga  
 culture - kultur  
 cumin (jeera) - zir  
@@ -1032,7 +1032,7 @@ dumpling (ravioli, pelmeni) - pelmen
 dungeon (underground prison) - geunici prizon  
 dungeon crawl - donjon aventur  
 durable (endurable, sustainable) - durabli  
-duruka - yamxukarcau  
+duruka - yamsukarcau  
 dust (powder) - fun  
 dye - rangomate  
 dynamite - dinamite  
@@ -1384,7 +1384,7 @@ get off (descend) - aneskala
 get tired (become weary) - fatigu  
 getter (receiver, recipient) - geter  
 Ghana - Gana  
-gherkin (pickle) - sirkopurxipi hiar  
+gherkin (pickle) - sirkopurxipi hiyar  
 ghost (phantom) - fantom  
 ghoul - gul  
 giant onion - dailasun  
@@ -1606,7 +1606,7 @@ hummus - humusosaus
 humor - yumor  
 humorist - yumoriste  
 humorous (comical, funny) - yumori  
-hundred (100) - xati  
+hundred (100) - xoti  
 Hungary - Magyaria  
 hunger - yamyau  
 hunt (fish) - saida  
@@ -1774,7 +1774,7 @@ kill - morta
 killer - morter  
 kilogram (kg) - kilogram  
 kilometer (km) - kilomitre  
-kimono - kimonou  
+kimono - kimono\*  
 kind (style, sort, type) - yang  
 kinetic - kini  
 king - mani rajer  
@@ -2279,7 +2279,7 @@ night - noce
 night mode - nocomode  
 nightingale - bulbul  
 nihonium - niponem  
-nine (9) - navi  
+nine (9) - tixi  
 niobium - niobem  
 nitrogen - nitre  
 Niue - Niue  
@@ -2328,6 +2328,7 @@ oak tree - balute
 oasis - oaze  
 Oberon - Oberon  
 object (item) - vute  
+object (patient, target) - ite  
 oblique (askew, tilted) - terci  
 obsidian - osidian  
 ocean - daihai  
@@ -2343,7 +2344,7 @@ of course (obviously) - klaro
 off (deactivated, disabled) - anativi  
 office (bureau) - ofisia  
 office (position) - ofis  
-office (room) - ofiseria  
+office (room) - ofiskan  
 officer - ofiser  
 official - ofisi  
 offline - na linye  
@@ -2357,7 +2358,7 @@ old (aged, elderly) - lavi
 old (ancient, former) - ceniki  
 olive - zaitun  
 Oman - Oman  
-ominous (foreboding) - dussinyi  
+ominous (foreboding) - dusosinyi  
 once - unmaro  
 oncilla - bagroselote  
 one (1) - un (uni)  
@@ -2979,7 +2980,7 @@ sculpture (statue) - eskulte
 scute - ostoxalke  
 sea - hai  
 sea anemone - haiful  
-sea cucumber - haihiar  
+sea cucumber - haihiyar  
 sea force (navy) - haigun  
 seaborgium - siborgem  
 seagrass - haicau  
@@ -3010,7 +3011,7 @@ sense (method of perception) - sense
 sense (perceive, detect) - sensa  
 sensor (detector) - senser  
 sentence (phrase) - jumle  
-September - naumes  
+September - tixmes  
 Serbia - Serbia  
 series (sequence) - silia  
 servant - server  
@@ -3056,7 +3057,7 @@ shopping - xope
 shore (bank, edge) - tate  
 short (brief) - korti  
 shorten - korta  
-should (ought) - xudu  
+should (ought) - selu  
 shoulder - kante  
 shovel (spade, scoop) - bel  
 show (display, demonstrate) - xova  
@@ -3263,11 +3264,11 @@ suffix for adverbs - -o
 suffix for derived nouns - -e  
 suffix for verbs with OVS word order - -u  
 suffix for verbs with SVO word order - -a  
-sugar - xukar  
-sugar beet - xukarbete  
+sugar - sukar  
+sugar beet - sukarbete  
 sugar-apple (sweetsop) - ata\*  
-sugarcane - xukarcau  
-sugary (sweet) - xukari  
+sugarcane - sukarcau  
+sugary (sweet) - sukari  
 suggest (propose) - suja  
 suggestion (proposal) - suje  
 sulfur (brimstone) - sulfe  
@@ -3298,7 +3299,7 @@ swastika (hooked cross) - hukokrus
 sweat (perspiration) - suede  
 sweaty - suedi  
 Sweden - Suenia  
-sweet orange - xukaroranje  
+sweet orange - sukaroranje  
 sweet potato - kamote  
 Switzerland - Suisia  
 sword - katan  

@@ -474,13 +474,13 @@
 |**hem**|hmm|English:hmm, Russian:хм (hm), эм (em), Korean:음 (eum)|
 |**hemah**|tent|Arabic:(xayma), Hausa:laima, Hindi:ख़ैमा (xEmā), Swahili:hema, Malay:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|hatred (hate, resentment, odium)|Mandarin:恨 (hèn), Cantonese:恨 (han6), Wu-Chinese:恨 (hhen3), Vietnamese:hận, Japanese:嫌 (ken), Korean:혐 (hyeom) + French:haine|
-|**hiar**|cucumber|Persian:خیار (xiyâr), Turkish:hıyar, Arabic:خيار‎ (khiyār), Hindi:खीरा (khīrā), Bengali:ক্ষীরা (kṣīrā)|
 |**hibride**|hybrid (mongrel)|English:hybrid, Spanish:Portuguese:híbrido, French:hybride, Russian:гибрид (gibrid)|
 |**hijabe**|veil (cover, screen)|Arabic:(ḥijāb), Persian:(hejâb), Swahili:hijabu, Hausa:hijabi, Hindi:हिजाब (hijāb), Bengali:হিজাব (hijab), English:Portuguese:hijab, French:hidjab, Spanish:hiyab, Russian:хиджаб (xidžab)|
 |**hijenia**|hygiene (cleanliness)|deu:English:hygiene, French:hygiène, Spanish:Portuguese:higiene, Russian:гигиена (gigiena), Turkish:hijyen|
 |**him**|snow|Hindi:हिमपात (himpāt), Thai:หิมะ (hima), Telugu:(himamu)|
 |**hisabe**|calculation|Arabic: حِسَاب‎ (ḥisāb), Turkish:hesap, Oromo:hisaaba, Swahili:hisabu, Hindi:हिसाब (hisāb), Bengali:হিসাব (hiśab)|
 |**historia**|history (study of history)|English:history, Spanish:Swahili:historia, Portuguese:história, French:histoire, Russian:история (istoriya)|
+|**hiyar**|cucumber|Persian:خیار (xiyâr), Turkish:hıyar, Arabic:خيار‎ (khiyār), Hindi:खीरा (khīrā), Bengali:ক্ষীরা (kṣīrā)|
 |**hobe**|hobby|English:Spanish:Portuguese:deu:French:hobby, Russian:хобби (hobbi)|
 |**hoge**|fire (burning)|Spanish:fuego, Portuguese:fogo + Russian:огонь (ogon’), Hindi:आग (āg), Bengali:অগ্নি (ôgni), pan:ਅੱਗ (ag) + Mandarin:火 (huǒ), Cantonese:火 (fo2), Wu-Chinese:火 (hu2), Korean:화 (hwa), Vietnamese:hoả|
 |**hoke**|hockey|English:French:Spanish:hockey, Portuguese:hóquei, Russian:хоккей (hokkey),  Japanese:ホッケー (hokkē), Hindi:हाकी (hākī), Bengali:হকি (hôki), Arabic:(hūkī)|
@@ -508,6 +508,7 @@
 |**ironia**|irony|English:irony, Spanish:ironía, Portuguese:ironia, French:ironie, Russian:иро́ния (ironija), Japanese:アイロニー (aironī)|
 |**islam**|submission (surrender)|Arabic:(ʾislām), Persian:(taslim), Turkish:teslim|
 |**iste**|proponent (supporter, activist, -ist)|English:deu:Turkish:-ist, French:-iste, Spanish:Portuguese:-ista, Russian:-ист (-ist)|
+|**ite**|object (patient, target)|English:-ed, French:-ite, deu:-it, Spanish:Portuguese:-ido, Hindi:-इत (-it)|
 |**itis**|inflammation (-itis)|English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)|
 |**ivia**|tendency (inclination)|English:-ive, deu:-iv, French:-if,-ive, Portuguese:Spanish:-ivo, Russian:-ивный (-ivnyj)|
 |**iyon**|ion|English:French:Spanish:ion, Russian:ион (ion), Turkish:iyon|
@@ -903,7 +904,6 @@
 |**nasia**|nation|Arabic:(nās), + English:French:nation, deu:Nazion, Portuguese:nação, Spanish:nación, Polish:nacja, Russian:нация (natsiya)|
 |**nau**|boat (ship)|French:navire, Spanish:nave, Portuguese:navio, Persian: ناو‎ (nâv), Hindi:नाव (nāv)|
 |**nautil**|nautilus|English:nautilus, Spanish:nautilo, Portuguese:nautiloide, Russian:наутилид (nautilid), Arabic:نوتي (noti), Hindi:नौटिलस (nautilas), Turkish:notilus|
-|**navi**|nine (9)|Hindi:नौ (nau), Urdu:(nau), Spanish:nueve, Portuguese:nove, French:neuf|
 |**naziste**|Nazi|Russian:нацист (natsist), Japanese:ナチ (nachi), Korean:나치 (nachi), Portuguese:Italian:nazista|
 |**nefre**|kidney|English:French:nephro-, Spanish:Portuguese:nefro-, deu:Niere|
 |**nefte**|oil|Arabic:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), Turkish:aze:neft, Russian:нефть (neft’), kar:ნავთი (navti) + Persian:نفت (naft), English:naphtha, Spanish:Portuguese:nafta, Japanese:ナフサ (nafusa), Korean:나프타 (napeuta), Malay:nafta|
@@ -938,7 +938,7 @@
 |**o**|or|English:or, Spanish:Filipino:o, French:Portuguese:ou, Mandarin:或 (huò), Arabic:(ʾaw)|
 |**oaze**|oasis|English:French:Spanish:Portuguese:oasis, Russian:оазис (oazis), deu:Oase, Polish:oaza, Japanese:オアシス (oashisu), Korean:오아시스 (oasiseu) + Arabic:(wāḥa), Turkish:vaha, Persian:(vāhe)|
 |**ode**|rank (position in an ordered list)|English:order, French:ordre, Spanish:orden, Portuguese:ordem, Swahili:oda + Mandarin:第 (dì), Vietnamese:đệ, Khmer:ទី (dī)|
-|**ofiseria**|office (room)|English:French:office, Spanish:oficina, Russian:офис (ofis), Turkish:ofis, Swahili:afisi, Bengali:অফিস (ôphiś), Malay:opis, Japanese:オフィス (ofisu)|
+|**ofisia**|office (bureau)|English:French:office, Spanish:oficina, Russian:офис (ofis), Turkish:ofis, Swahili:afisi, Bengali:অফিস (ôphiś), Malay:opis, Japanese:オフィス (ofisu)|
 |**oke**|eye|Spanish:ojo, Russian:око (oko), Bengali:অক্ষি (ôkkhi) + English:Portuguese:ocular, French:oculaire|
 |**okeyi**|okay (acceptable)|English:okay, Spanish:Turkish:Malay:okey, Portuguese:OK, Russian:окей (okej), Arabic:أُوكِي‎‎‎ (ʾokey), Hindi:ओके (oke), Mandarin:OK (ōukèi), Japanese:オーケー (ōkē)|
 |**okosui**|tear drop|Tamil:கண்ணீர் (kaṇṇīr), Malayalam:കണ്ണുനീർ (kaṇṇunīr), Telugu:(kannīru), Korean:눈물 (nunmul), Vietnamese:nước mắt, Malay:air mata, Thai:น้ำตา|
@@ -1163,7 +1163,6 @@
 |**serve**|service|English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis, Hindi:(sevâ)|
 |**sesam**|sesame|Turkish:susam, English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim)|
 |**seti**|seven (7)|Spanish:siete, Portuguese:sete, French:sept, Hindi:सात (sāt), Bengali:সাত (sat), Thai:เจ็ด (chet), Cantonese:七 (chat1), Japanese:七 (shichi), Turkish:yedi|
-|**siahi**|black|Persian:سیاه‎ (siyâh), Hindi:सियाह (siyāh), Urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), Turkish:siyah|
 |**siani**|cyan|English:cyan, Spanish:cian, Russian:циан (tsian), Arabic:سيان (sayan), Hindi:क्यान (kyāna), Japanese:シアン (shian), Malay:sian|
 |**sida**|sit (put down)|Russian:сидеть (sidet'), English:sit, deu:sitzen, Italian:sedere|
 |**sif**|attribute (charasteristic, quality, feature, description, property)|Hindi:गुण (guṇ), Bengali:গুণ (guṇ), Telugu:గుణము (guṇamu), Burmese:ဂုဏ် (gun), Malay:guna, Thai:คุณ (kun), Khmer:គុណ (kun)|
@@ -1183,6 +1182,7 @@
 |**sistem**|system|English:system, Spanish:Portuguese:sistema, French:système, Russian:система (sistema), Hindi:सिस्टम (sisṭam), Bengali:সিস্টেম (śiśṭem), Malay:sistem|
 |**site**|city (town)|English:city, French:cité, Portuguese:cidade, Spanish:ciudad, Italian:città + Mandarin:市 (shì), Korean:시 (si), Japanese:都市 (toshi)|
 |**sivili**|civilized (civil)|English:civil, Portuguese:civil, Hindi:सिविल (sivil), Malay:sipil|
+|**siyahi**|black|Persian:سیاه‎ (siyâh), Hindi:सियाह (siyāh), Urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), Turkish:siyah|
 |**sofa***|sofa (couch)|English:French:sofa, Spanish:Portuguese:sofá, Russian:софа (sofa), Mandarin:沙发 (shāfā), Japanese:ソファ (sofa), Korean:소파 (sopa), Hindi:सोफ़ा (sofā)|
 |**sofia**|wisdom|Greek:σοφία (sofía) + English:philosophy, French:philosophie, Spanish:filosofia, Russian:философия (filosofiya), Malay:filsafat, Arabic:(falsafa), Swahili:falsafa, Turkish:felsefe, Hindi:फ़लसफ़ा (falasfā)|
 |**soka**|search (seek, look for)|Mandarin:搜 (sōu), Cantonese:搜 (sau1), Wu-Chinese:搜 (seu1), Japanese:捜索 (sōsaku) + English:seek, deu:suchen + Russian:искать (iskat’)|
@@ -1202,6 +1202,7 @@
 |**sui**|water|Mandarin:水 (shuǐ), Japanese:水 (sui), Korean:수 (su), Vietnamese:thuỷ + Turkish:su|
 |**suikaboge**|calabash|Portuguese:abóbora-d'água, Turkish:su kabağı|
 |**suje**|suggestion (proposal)|Hindi:सुझाव (sujhāv), Telugu:(sūcana), English:suggestion, Portuguese:sugestão|
+|**sukar**|sugar|English:sugar, French:sucre, Spanish:azúcar, Portuguese:açúcar, Arabic: سُكَّر (sukkar), Hindi:शक्कर (śakkar), Bengali:শর্করা (śôrkôra), Malay:sakar, Swahili:sukari, Turkish:şeker, Tamil:சக்கரை (cakkarai)|
 |**suki**|happy (delighted)|Hindi:सुखी (sukhī), Japanese:好き (suki), Thai:สุข (suk) + jpn:好く (suku), Malay: suka|
 |**sultan**|ruler|Arabic:سلطة (sulṭa), English:Turkish:Malay:sultan, Spanish:sultán, Russian: султан (sultan), Persian:سلطان‎ (soltân), Hindi:सुल्तान (sultān), Bengali:সুলতান (śultan)|
 |**sum**|sum (total)|English:sum, Spanish:suma, Portuguese:soma, French:somme, deu:Summe, Russian:сумма (summa)|
@@ -1259,6 +1260,7 @@
 |**ting**|stop|Mandarin:停 (tíng), Cantonese:停 (ting4), Wu-Chinese:停 (din2), Vietnamese:đình|
 |**tipe**|type (kind, genre)|English:French:type, Spanish:Portuguese:tipo, ru:тип (tip), Turkish:tip, Japanese:タイプ (taipu)|
 |**tira**|pull (draw, drag)|Spanish:Portuguese:tirar, French:tirer, English:tear, Turkish:tire|
+|**tixi**|nine (9)|Arabic:تِسْعَة (tisʿa), heb:תשע  (tésha), Swahili:tisa|
 |**toca**|touch|English:touch, Spanish: tocar, + Hindi: छूना (chūnā), Mandarin: 触 (chù)|
 |**tokse**|poison (venom)|English:toxic, French:toxique, Spanish:Portuguese:tóxico, Russian:токсичний (toksicniy), Malay:toksik + Mandarin:毒 (dú), Cantonese:毒 (duk6), Wu-Chinese:毒 (do’), Japanese:毒 (doku/toku), Korean:독 (dok), Vietnamese:độc|
 |**tolera**|tolerate|English:tolerate, Spanish:Portuguese:tolerar, French:tolérer, deu:tolerieren|
@@ -1354,7 +1356,6 @@
 |**xarnir**|hinge (pivot)|French:charnière, Spanish:charnela, deu:Scharnier, Russian:шарнир (šarnir)|
 |**xarte**|condition (requirement)|Turkish:şart, Arabic:Persian:(šart), Swahili:sharuti, Hindi:शर्त (śart), Bengali:শর্ত (śôrt)|
 |**Xatan**|devil (Satan)|heb: שָׂטָן‎ (śaṭan), Arabic:(šayṭān), English:French:deu:Vietnamese:Satan, Spanish:Satán, Portuguese:Satã, Russian:Сатана (Satana), Mandarin:撒但 (Sādàn), Korean:사탄 (satan), Japanese:サタン (satan), Hindi:शैतान (śaitān), Malay:Setan, Turkish:şeytan, Swahili:Shetani|
-|**xati**|hundred (100)|Hindi:शत (śat), Bengali:শত (śôt), Persian:صَد‎ (sad), Russian:сто (sto), Polish:sto|
 |**xatranje**|chess|Hindi:शतरंज (śatrañj), Urdu:(śatrañj), Persian:(šatranj), Turkish:satranç, Arabic:(šaṭranj), Swahili:sataranji, Telugu:చతురంగము (caturaṅgamu), Tamil:சதுரங்கம் (caturaṅkam), Malay:catur, Khmer:ចត្រង្គ (caʾtrɑng), Portuguese:xadrez|
 |**xavi**|little (few, not many)|Mandarin:少 (shǎo), Cantonese:少 (siu2), Japanese:少 (shō), Korean:소 (so)|
 |**xaxu**|rustle|Mandarin:(shasha), Russian:шуршать (shurshat’), Swahili:-chakacha|
@@ -1378,9 +1379,8 @@
 |**xofer**|chauffeur (driver)|French:English:deu:chauffeur, Spanish:Portuguese:chofer, Russian:шофёр (šofjor), Polish:szofer, Thai: โชเฟอร์ (chofoe), Turkish:şoför, Persian:(šofer)|
 |**xoke**|shock (collision)|English:nld:shock, French:choc, Spanish:Portuguese:choque, Turkish:şok, Malay:syok + Mandarin:冲击 (chōngjī), Cantonese:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), Japanese:衝撃 (shōgeki)|
 |**xope**|shopping|English:French:Spanish:shopping, Japanese:ショッピング (shoppingu), Korean:쇼핑 (syoping), Thai:ชอปปิ้ง (chop-bing), Russian:шоппинг (šopping), Mandarin:血拼 (xuèpīn)|
+|**xoti**|hundred (100)|Hindi:शत (śat), Bengali:শত (śôt), Persian:صَد‎ (sad), Russian:сто (sto), Polish:sto|
 |**xou**|show (display, exhibition)|English:deu:French:Spanish:Portuguese:show, Russian:шоу (šou), Turkish:şov, Swahili:shoo, Thai:โชว์ (choo), Korean:쇼 (syo), Japanese:ショー (shō), Mandarin:秀 (xiù)|
-|**xudu**|should (ought)|English:should|
-|**xukar**|sugar|Arabic:(sukkar), Swahili:sukari, Portuguese:açúcar, Spanish:azúcar, Hindi:शक्कर (śakkar), Bengali:শর্করা (śôrkôra), Turkish:şeker, Tamil:சக்கரை (cakkarai)|
 |**xulkan**|school (institution)|Mandarin:学 (xué) + deu:Schule, Swahili:shule + English:school, French:école, Spanish:escuela, Portuguese:escola, Russian:школа (škola), Hindi:स्कूल (skūl), Bengali:স্কুল (śkul), Malay:sekolah|
 |**xur**|beginning (start, commencement, onset)|Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)|
 |**xute**|skill (art, craft)|Mandarin:术 (shù), Cantonese:術 (seot6), Japanese:術 (jutsu), Korean:술 (sul)|

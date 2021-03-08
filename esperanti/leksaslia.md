@@ -357,11 +357,11 @@
 |**hem**|hm|angla:hmm, rusa:хм (hm), эм (em), korea:음 (eum)|
 |**hemah**|tendo|araba:(xayma), haŭsa:laima, hindia:ख़ैमा (xEmā), svahila:hema, malaja:kemah, may:khemah, mng:майхан (mayhan)|
 |**hen**|malamo|mandarena:恨 (hèn), kantona:恨 (han6), vua:恨 (hhen3), vjetnama:hận, japana:嫌 (ken), korea:혐 (hyeom) + franca:haine|
-|**hiar**|kukumo|persa:خیار (xiyâr), turka:hıyar, araba:خيار‎ (khiyār), hindia:खीरा (khīrā), bengala:ক্ষীরা (kṣīrā)|
 |**hibride**|miksulo|angla:hybrid, hispana:portugala:híbrido, franca:hybride, rusa:гибрид (gibrid)|
 |**him**|neĝo|hindia:हिमपात (himpāt), taja:หิมะ (hima), teluga:(himamu)|
 |**hisabe**|kalkulo|araba: حِسَاب‎ (ḥisāb), turka:hesap, oroma:hisaaba, svahila:hisabu, hindia:हिसाब (hisāb), bengala:হিসাব (hiśab)|
 |**historia**|historio (studo de historio)|angla:history, hispana:svahila:historia, portugala:história, franca:histoire, rusa:история (istoriya)|
+|**hiyar**|kukumo|persa:خیار (xiyâr), turka:hıyar, araba:خيار‎ (khiyār), hindia:खीरा (khīrā), bengala:ক্ষীরা (kṣīrā)|
 |**hobe**|hobio|angla:hispana:portugala:deu:franca:hobby, rusa:хобби (hobbi)|
 |**hoge**|fajro|hispana:fuego, portugala:fogo + rusa:огонь (ogon’), hindia:आग (āg), bengala:অগ্নি (ôgni), pan:ਅੱਗ (ag) + mandarena:火 (huǒ), kantona:火 (fo2), vua:火 (hu2), korea:화 (hwa), vjetnama:hoả|
 |**hoke**|hokeo|angla:franca:hispana:hockey, portugala:hóquei, rusa:хоккей (hokkey),  japana:ホッケー (hokkē), hindia:हाकी (hākī), bengala:হকি (hôki), araba:(hūkī)|
@@ -752,7 +752,6 @@
 |**serebre**|cerbo|angla:cerebrum, hispana:cerebro, portugala:cérebro, franca:cerveau|
 |**serpe**|serpento|hindia:सर्प (sarp), bengala:সাপ (sap), teluga:(sarpamu), franca:angla:serpent, hispana:serpiente, + mandarena:蛇 (shé), + joruba:sèbé|
 |**seti**|sep (7)|hispana:siete, portugala:sete, franca:sept, hindia:सात (sāt), bengala:সাত (sat), taja:เจ็ด (chet), kantona:七 (chat1), japana:七 (shichi), turka:yedi|
-|**siahi**|nigra|persa:سیاه‎ (siyâh), hindia:सियाह (siyāh), urdua:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turka:siyah|
 |**sida**|sidi|rusa:сидеть (sidet'), angla:sit, deu:sitzen, itala:sedere|
 |**sil**|ĉenero|hindia:सिलसिला (silsilā), araba:(silsila), turka:silsile, svahila:silisili + mandarena:系列 (xìliè) + angla:series, franca:série, hispana:serie, rusa:серия (seriya), tur:seri|
 |**simpli**|simpla|angla:hispana:franca:simple, portugala:simples, deu:simpel|
@@ -761,6 +760,7 @@
 |**sirke**|vinagro|turka:sirke, persa:(serke), hindia:सिरका (sirkā), panĝaba:ਸਿਰਕਾ (sirkā)|
 |**sistem**|sistemo|angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem|
 |**site**|urbo|angla:city, franca:cité, portugala:cidade, hispana:ciudad, itala:città + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)|
+|**siyahi**|nigra|persa:سیاه‎ (siyâh), hindia:सियाह (siyāh), urdua:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turka:siyah|
 |**sofa***|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
 |**sofia**|saĝeco|greka:σοφία (sofía) + angla:philosophy, franca:philosophie, hispana:filosofia, rusa:философия (filosofiya), malaja:filsafat, araba:(falsafa), svahila:falsafa, turka:felsefe, hindia:फ़लसफ़ा (falasfā)|
 |**sol**|suno|hispana:portugala:sol, franca:soleil, + hindia:सौर (sOr), teluga:(saur)|
@@ -774,6 +774,7 @@
 |**sube**|mateno|araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba|
 |**sude**|sudo|hispana:sur, portugala:sul, franca:sud|
 |**sui**|akvo|mandarena:水 (shuǐ), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su|
+|**sukar**|sukero|angla:sugar, franca:sucre, hispana:azúcar, portugala:açúcar, araba: سُكَّر (sukkar), hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), malaja:sakar, svahila:sukari, turka:şeker, tamila:சக்கரை (cakkarai)|
 |**suki**|feliĉa|hindia:सुखी (sukhī), japana:好き (suki), taja:สุข (suk) + jpn:好く (suku), malaja: suka|
 |**sum**|sumo|angla:sum, hispana:suma, portugala:soma, franca:somme, deu:Summe, rusa:сумма (summa)|
 |**sundari**|bela|hindia:सुन्दर (sundar), bengala:সুন্দর (sundôr), guĝarata:સુંદર (sundar),|
@@ -855,7 +856,6 @@
 |**xarnir**|ĉarniro (pivoto)|franca:charnière, hispana:charnela, deu:Scharnier, rusa:шарнир (šarnir)|
 |**xarte**|kondiĉo (postulo)|turka:şart, araba:persa:(šart), svahila:sharuti, hindia:शर्त (śart), bengala:শর্ত (śôrt)|
 |**Xatan**|diablo (Satano)|heb: שָׂטָן‎ (śaṭan), araba:(šayṭān), angla:franca:deu:vjetnama:Satan, hispana:Satán, portugala:Satã, rusa:Сатана (Satana), mandarena:撒但 (Sādàn), korea:사탄 (satan), japana:サタン (satan), hindia:शैतान (śaitān), malaja:Setan, turka:şeytan, svahila:Shetani|
-|**xati**|cent|hindia:शत (śat), bengala:শত (śôt), persa:صَد‎ (sad), rusa:сто (sto), polona:sto|
 |**xatranje**|ŝako|hindia:शतरंज (śatrañj), urdua:(śatrañj), persa:(šatranj), turka:satranç, araba:(šaṭranj), svahila:sataranji, teluga:చతురంగము (caturaṅgamu), tamila:சதுரங்கம் (caturaṅkam), malaja:catur, kmera:ចត្រង្គ (caʾtrɑng), portugala:xadrez|
 |**xavi**|malmulte|mandarena:少 (shǎo), kantona:少 (siu2), japana:少 (shō), korea:소 (so)|
 |**xef**|estro (ĉefulo)|franca:chef, portugala:chefe, gal:xefe, hispana:jefe, rusa:шеф (šef), angla:chief, svahila:chifu, japana:チーフ (chīfu), + araba:(šeyx)|
@@ -870,9 +870,8 @@
 |**xirope**|siropo|araba:(šarāb), portugala:xarope, angla:syrup, turka:şurup, japana:シロップ (shiroppu)|
 |**xite**|merdo|angla:shit, mandarena:屎 (shǐ), kantona:屎 (si2)|
 |**xofer**|ŝoforo (kondukisto)|franca:angla:deu:chauffeur, hispana:portugala:chofer, rusa:шофёр (šofjor), polona:szofer, taja: โชเฟอร์ (chofoe), turka:şoför, persa:(šofer)|
+|**xoti**|cent|hindia:शत (śat), bengala:শত (śôt), persa:صَد‎ (sad), rusa:сто (sto), polona:sto|
 |**xou**|montri (ekspozicii)|angla:deu:franca:hispana:portugala:show, rusa:шоу (šou), turka:şov, svahila:shoo, taja:โชว์ (choo), korea:쇼 (syo), japana:ショー (shō), mandarena:秀 (xiù)|
-|**xudu**|devus|angla:should|
-|**xukar**|sukero|araba:(sukkar), svahila:sukari, portugala:açúcar, hispana:azúcar, hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), turka:şeker, tamila:சக்கரை (cakkarai)|
 |**xulkan**|lernejo|mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), hindia:स्कूल (skūl), bengala:স্কুল (śkul), malaja:sekolah|
 |**xur**|komenco|araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)|
 |**yama**|manĝi (trinki)|kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam|

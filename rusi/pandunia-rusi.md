@@ -272,7 +272,7 @@ duriki - хронический
 durmetrer - секундомер  
 dusforma - уродовать  
 dusjan - враг (противник)  
-dussinyi - зловещий  
+dusosinyi - зловещий  
 dusvidi - безобразный (некрасивый)  
 dux - душ  
 ####E - E  
@@ -396,7 +396,7 @@ hayamirer - адмирал
 haicau - морские травы  
 haiful - морские анемоны  
 haigun - военно-морской флот  
-haihiar - голотурия (морские огурц)  
+haihiyar - голотурия (морские огурц)  
 hal - состояние (статус)  
 halou - алло  
 hami - важный (значимый)  
@@ -413,7 +413,7 @@ hem - хм
 hema - думать  
 hemah - палатка (шатёр)  
 Hesia - Гессен  
-hiar - огурец  
+hiyar - огурец  
 hijabe - вуаль  
 hijenia - гигиена  
 Hindia - Индостан  
@@ -556,7 +556,7 @@ kenarbaryer - забор (ограда)
 kim - вещество  
 kimem - химический элемент  
 kimlojia - химия  
-kimonou - кимоно  
+kimono\* - кимоно  
 kina - двигать  
 kinu - двигаться  
 kingraf - фильм (кино)  
@@ -776,7 +776,6 @@ nasmedi - междунаро́дный
 natre - натрит (натр, натрон, кристаллическая сода)  
 natrem - натрий  
 nau - лодка (бот)  
-navi - девять (9)  
 naulefte - левый борт  
 nauraite - правый борт  
 nautil - наутилид  
@@ -985,12 +984,12 @@ ser - пила
 seram - керамика  
 seti - семь (7)  
 setyom - воскресенье  
-siahi - чёрный  
 siani - циан  
 siborgem - сиборгий  
 sida - сидеть  
 side - сиденье (седло)  
 sifloge - прилагательное  
+siyahi - чёрный  
 sikliste - велосипедист  
 sil - звено  
 silia - серия  
@@ -1025,6 +1024,10 @@ suiyau - жажда
 suikaboge - тыква горлянка (калабас)  
 suiminte - мята водная  
 suki - счастливый (радостный)  
+sukar - сахар  
+sukarbete - сахарная свёкла  
+sukarcau - сахарный тростник  
+sukaroranje - апельсин  
 sundari - красивый  
 sundaria - красота  
 sundardaka - украсить  
@@ -1070,6 +1073,7 @@ tira pil - ободрать
 tirbaton - рычаг  
 tirdar - отбойное течение  
 tirlonga - вытянуть  
+tixi - девять (9)  
 toca - касаться  
 toksolojia - токсикология  
 tomate - помидор (томат)  
@@ -1146,7 +1150,6 @@ xarke - акула
 xata - противостоять  
 xatan - противник  
 Xatan - Сатана  
-xati - сто  
 xavi - мало  
 xaxu - шурша́ть  
 xef - шеф  
@@ -1164,11 +1167,8 @@ xixmanse - шашлык
 xofer - шофёр  
 xopa - покупать (купить)  
 xope - покупка (шоппинг)  
+xoti - сто  
 xova - доказать (демонстрировать)  
-xukar - сахар  
-xukarbete - сахарная свёкла  
-xukarcau - сахарный тростник  
-xukaroranje - апельсин  
 xul - урок (учение)  
 xula - учиться  
 xulia - образование  

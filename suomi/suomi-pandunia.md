@@ -1067,7 +1067,7 @@ kilistää (soittaa kelloa) - danga
 kilogramma - kilogram  
 kilometri - kilomitre  
 kilpikonna - tortuge  
-kimono - kimonou  
+kimono - kimono\*  
 kineettinen (liike-) - kini  
 Kinshasa - Kinxasa  
 Kinshasan Kongo - Kinxasa Kongo  
@@ -1234,7 +1234,7 @@ kupoli (holvikatto) - kupocate
 kuponki - kupon  
 kurainen (mutainen) - poti  
 kurja (raukka) - miskini  
-kurkku - hiar  
+kurkku - hiyar  
 kuski (ajuri, ajaja) - xofer  
 kutoa kangasta - texa  
 kutomakone - texmaxin  
@@ -1707,7 +1707,7 @@ musiikki - muzike
 musketti - muskete  
 musketööri - musketer  
 muslimi (islaminuskoinen) - islamiste  
-musta - siahi  
+musta - siyahi  
 musta lista - haramliste  
 muste - moge  
 mustekala - balsenter  
@@ -1945,7 +1945,6 @@ painos (leima) - cape
 painotus (aksentti) - aksente  
 paita - kamis  
 paitsi (miinus) - mina  
-paja (kauppa, tekimö) - eria  
 paja (tekimö) - kan  
 paja (työpaja) - karkan  
 pakana - kafir  
@@ -2099,7 +2098,7 @@ pitkästynyt - bori
 pitsa (pizza) - pize  
 pitseria - pizokan  
 pituus - longia  
-pitäisi - xudu  
+pitäisi - selu  
 pitää (tykätä) - suku  
 pitää yhdessä - jamhafiza  
 planeetta - planete  
@@ -2419,7 +2418,7 @@ sarjakuva - grafsage
 sarvi - korne  
 sarvikuono - kornonos  
 saslik - xixmanse  
-sata (100) - xati  
+sata (100) - xoti  
 sata tuhatta - deskilo\*  
 sataa - barxu  
 satakieli - bulbul  
@@ -2548,8 +2547,8 @@ soihtu - fotobaton
 soittaa (musisoida) - muzika  
 soittaa puhelimella - telfona  
 soittokello - danger  
-sokeri - xukar  
-sokerinen (makea) - xukari  
+sokeri - sukar  
+sokerinen (makea) - sukari  
 solmia (tehdä solmu) - noda  
 solmu - node  
 solu - cel  
@@ -2651,7 +2650,7 @@ syy - sabe
 syyllinen - doxi  
 syylä - zeyil  
 Syyria - Suria  
-syyskuu - naumes  
+syyskuu - tixmes  
 säde - rade  
 sädekehä (halo) - fotocirke  
 säe (riimi) - rim  
@@ -3227,7 +3226,7 @@ ydinenergia - kerni energe
 ydinfissio - kerni fenia  
 ydinfuusio - kerni darunia  
 ydinfysiikka - kerni fizikia  
-yhdeksän - navi  
+yhdeksän - tixi  
 yhdessä - kono  
 Yhdistyneet Arabiemiirikunnat - Uniti Arabi Amiria (UAA)  
 yhdistys (sidos) - linke  
