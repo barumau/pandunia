@@ -4,7 +4,8 @@
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/halou.png "halou!")
+![](http://www.pandunia.info/grafe/halou.png "halou!")  
+<small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 <big>👩🏻</big>
 **halou!**

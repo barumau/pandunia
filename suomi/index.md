@@ -1,14 +1,20 @@
-# pandunia - koko maailman kieli
+# halou, dunia!
 
-![](http://www.pandunia.info/bandir/bandir.png "Pandunian lippu")
+Tervehdys, maailma!
+Tervetuloa saamaan tietoa panduniasta, tasapuolisesti koko maailman apukielestä!
 
-## Mikä?
+![](http://www.pandunia.info/grafe/halou_dunia.png "halou dunia!")  
+<small>Kuvan lähde [Freepik](http://www.freepik.com)</small>
+
+## Mikä on pandunia?
 
 Pandunia on keinotekoinen kieli, joka on suunniteltu kaikkien maailman ihmisten käyttöön kansainvälisessä viestinnässä.
 
 - Pandunia on helpompi ja yksinkertaisempi kuin luonnollisesti kehittyneet maailmankielet, kuten englanti, ranska, venäjä, arabia ja kiina.
 - Keinotekoisena kielenä pandunia on täysin säännöllinen kieli. Siinä ei ole poikkeuksia eikä muitakaan tarpeettomia hankaluuksia.
 - Pandunia on aidosti kansainvälinen! Sen sanat ovat peräisin maailman eri puolilla puhutuista kielistä, mukaan lukien 12 maailman puhutuinta kieltä, jotka ova englanti, kiina, espanja, hindi-urdu, arabia, venäjä, bangla, portugali, malaiji-indonesia, japani, ranska ja saksa.
+
+![](http://www.pandunia.info/bandir/bandir.png "Pandunian lippu")
 
 ## Kelle?
 
@@ -48,7 +54,8 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 - Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
   johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")  
+<small>Kuvan lähde [Freepik](http://www.freepik.com)</small>
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 

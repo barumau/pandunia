@@ -1,7 +1,10 @@
-Pandunia - a simple world language
-==================================
+# halou, dunia!
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+Hello, world!
+Welcome to learn about Pandunia, the evenly global helping language!
+
+![](http://www.pandunia.info/grafe/halou_dunia.png "halou dunia!")  
+<small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Pandunia?
 
@@ -15,6 +18,8 @@ It is simpler, more regular and easier to learn than natural world languages,
 like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
 Learning Pandunia is equally easy for everybody.
 Its words have been borrowed from many languages on all continents and all cultures of the world.
+
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
 ## Coming soon...
 
@@ -33,7 +38,7 @@ Version 2.0 includes improved grammatical structures, more logical structure wor
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](engli-pandunia.md) dictionary
 - [Pandunia-English](pandunia-engli.md) dictionary
-- [Origins of words](leksaslia.md) (with [language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
+- [Origins of words](leksaslia.md)
 
 ## Texts
 
@@ -69,7 +74,8 @@ You can find Pandunia forums in several places:
   Spread the word!
 - You can help to [translate this site](tarja_netoloke.md)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")  
+<small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
 [risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
