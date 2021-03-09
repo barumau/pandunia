@@ -516,7 +516,6 @@ cen:a|cena||||predate (be before)||preceder (anteceder)|||||||||||||antaŭiri|ed
 cen:i|ceni||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
 cen:o|ceno|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before)|avant|más temprano (antes)||раньше||以前|以前 (前に)|전에||||||||ennen (aiemmin)|wcześniej (uprzednio)
 cen.ag:a|cenaga||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
-cen.amen:|cenamen||||destiny (fate)|destin|destino|destino|судьба||命運|運命 (宿命)|||किस्मत||takdir||kader||määrä (päämäärä, kohtalo)|przeznaczenie, los
 cen.den:o|cendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 cen.fiks:e|cenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
 cen.iang:i|cenyangi||||classic (classical)||clásico|||||古典的||||||||||klasyczny
@@ -771,6 +770,7 @@ dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:
 dur.abl:i|durabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
+dur.sat:e|dursate||||period (era, epoch, term)||era (periodo, época)||период (эпоха)|||時代 (年代)|||अवधि||jaman (zaman)|zamani|zaman||aikakausi|czas (epoka, era)
 dus:i|dusi|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)||malo (difícil, duro)||||难|難しい||khó (khốn nạn)|दुश्वार||||||paha (epäsuotuisa, epämiellyttävä, vastustava)|
 dus:i zar:|dusi zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
 dus.darj:a|dusdarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
@@ -1300,8 +1300,6 @@ hibrid:e|hibride|||eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (
 hidr:e|hidre|mate|H||hydrogen||hidrógeno|||||||||||||hidrogeno|vety|wodór
 hiiar:|hiyar|biu|Cucumis sativus|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|cucumber|concombre|pepino|pepino|огурец||黄瓜|キュウリ||||||||kukumo|kurkku|ogórek
 hijab:e|hijabe|||ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|veil (cover, screen)|voile|velo|véu|вуаль|حِجَاب|面纱||||||||hijabu (veli, shela)||verho (huntu, peite)|welon (woalka)
-hijen:i|hijeni||||cleanly (hygienic, sanitary)||||||||||||||||hygieeninen|czysty (higieniczny, sanitarny)
-hijen:ia|hijenia|||deu:eng:hygiene, fra:hygiène, spa:por:higiene, rus:гигиена (gigiena), tur:hijyen|hygiene (cleanliness)|hygiène|higiene|higiene|гигиена||||||||||hijyen||hygienia (puhtaus)|higiena
 him:|him|||hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|snow|neige|nieve|neve||||||||||||neĝo|lumi|śnieg
 him:u|himu||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
 him.ros:|himros||||frost||escarcha|||||||||||||frosto|kuura|szron
@@ -1944,8 +1942,11 @@ lab:e|labe|||fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|li
 lad:a|lada|||eng:load, deu:laden, pol:ładować, hin:लादना (lādnā)|load (to charge)||cargar||||||||लादना (भरना)||||||ladata|naładować, załadować, obładować, ładować
 lag:e|lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
 Lagos:|Lagos|xefsite|NG||Lagos||||||||||||||||Lagos|
+lai:|lai||||arrival (approach)||llegada (arribo)|||||||||||||||
 lai:a|laya|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (arrive)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla (saapua)|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
+lai:o|layo||||will (in future)||ir a (en el futuro)|||||||||||||estonte|tuleva|w przyszłości
 lai.an:a|layana||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
+lai.sate:|lai||||future time||futuro|||||||||||||estonoteco|tulevaisuus|przyszłość
 laj:e|laje|||zho:垃圾 (lājī)|garbage (rubbish, trash)|ordures|basura (desechos)|refugo (escória)|мусор (дрянь)||废物 (垃圾)|ゴミ (廃棄物)|||kadha, kachara||sampah|takataka|çöp|rubo|roska|śmieć, odpadek
 lak:e|lake|||eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|lacquer (varnish)||laca||||||||||||||lakka|lakier
 lal:i|lali|rang||hin:लाल (lāl), ben:লাল (lal), tur:al|red|rouge|rojo|vermelho|красный|أَحْمَر|红|赤い|빨갛다|đỏ|लाल|লাল|merah|nyekundu|kırmızı (al)|ruĝa|punainen|czerwony
@@ -2434,6 +2435,7 @@ nas:ia|nasia|||ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nació
 nas.ist:e|nasiste||||nationalist||nacionalista||||||||||||||nationalisti|nacjonalista
 nas.ist:ia|nasistia||||nationalism||nacionalismo||||||||||||||kansallisuusaate (nationalismi)|nacjonalizm
 nas.med:i|nasmedi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
+nasib:e|nasibe|||ara:نَصِيب • (naṣīb), fas:نصیب‎ (nasib), tur:nasip, swa:nasibu, may:nasib, hin:नसीब (nasīb), ben:নসীব (nôśib), pan:ਕਿਸਮਤ (nasīb), ara:قِسْمَة (qisma), fas:قسمت‎ (qismat), tur:kısmet, hin:क़िस्मत (qismat), ben:কিসমত (kiśmôt), pan:ਕਿਸਮਤ (kisamata)|destiny (fate)|destin|destino|destino|судьба||命運|運命 (宿命)|||किस्मत||takdir (nasib, qadar)|kura (nasibu)|kader (nasip, kısmet)||määrä (päämäärä, kohtalo)|przeznaczenie, los
 natr:e|natre||||natron||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||
 natr.em:|natrem|mate|Na||sodium||sodio||натрий|||||||||||natrio|natrium|sód
 nau:|nau|||fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|boat (ship)|bateau|barco (bote)|barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||boato (ŝipo)|vene (laiva)|łódź, statek
@@ -2681,11 +2683,12 @@ parn:e|parne|||eng:fern, rus:папоротник (paporotnik), hin:फर्न
 part:a|parta||||participate (attend, partake, take part)||participar|||||||||||||partopreni|osallistua|uczestniczyć, wziąć udział, brać udział
 part:ia|partia|||eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|party (group)||partido (grupo)|||||||||||||partio|osapuoli|partia
 part.er:|parter||||participant||participante||||||||||||||osallistuja|uczestnik
-pas:|pas|||eng:past, spa:pasado, por:passado, fra: passé|past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
+pas:|pas||||pass (passage)||pase (pasada)|||||||||||||||
 pas:i|pasi||||past (bygone)||anterior (remoto)|||||||||||||pasinta|mennyt|przeszły, miniony
 pas:o|paso||||before (in the past)||haber (en el pasado)|||||||||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|poprzednio (przedtem)
-pas:u|pasu||||pass (go by, go past)||pasar||||||||||||||kuluttaa aikaa|minąć, mijać, przeminąć, przemijać
+pas:u|pasu|||eng:pass, spa:pasar, por:passar, fra: passer|pass (go by, go past)||pasar||||||||||||||kuluttaa aikaa|minąć, mijać, przeminąć, przemijać
 pas.iu:i|pasivi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
+pas.o.sat:e|pasosate||||past time||pasado|||||||||||||pasinteco|menneisyys|przeszłość
 pas.port:e|pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 pask:e|paske||||Easter||Pascua||||||||||||||pääsiäinen|Wielkanoc
 paskal:|paskal|unomete|Pa||pascal (Pa)||pascal (Pa)||||||||||||||pascal (Pa)|paskal (Pa)
@@ -3050,6 +3053,8 @@ sad:o|sado||||simply (merely, only)||||||||||||||||vain (pelkästään)|
 saf:a|safa||||clean (purify)||limpiar|||||||||||||purigi|puhdistaa (siivota)|wyczyścić, czyścić
 saf:i|safi|||swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|clean (pure)||limpio||||||||साफ़|||||pura|puhdas (siivo, siisti)|czysty
 saf.er:|safer||||cleaner||limpiador|||||||||||||purigisto|siivooja|sprzątacz, sprzątacz
+saf.sih:i|safsihi||||cleanly (hygienic, sanitary)||higiénico||гигиеничный|||清潔|||||||||hygieeninen|czysty (higieniczny, sanitarny)
+saf.sih:ia|safsihia||||hygiene (sanitation, cleanliness)|hygiène|higiene|higiene|гигиена|||衛生|||||||hijyen||hygienia (puhtaus)|higiena
 safar:|safar|||ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:safari|travel (voyage, trip)||viaje||||旅行||||यात्रा (सफ़र)|||||vojaĝo|matka (reissu)|podróż
 safar:a|safara||||travel||viajar|||||||||||||vojaĝi|matkustaa|podróżować
 safar.er:|safarer||||traveler||viajero|||||||||||||vojaĝanto|matkailija|podróżnik
@@ -3122,7 +3127,9 @@ sapat.o.kan:|sapatokan||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suu
 sar:|sar|bode||fas:(sar), hin:सिर (sir), ara:(raʾs)|head|tête|cabeza|cabeça|голова|رَأْس|头|頭|머리|đầu|सिर|মাথা|kepala|kichwa|baç (kafa)||pää|głowa
 sar.kask:e|sarkaske||||helmet||casco (yelmo)|||||||||||||kasko|kypärä|hełm
 sar.ost:e|saroste|bode|||skull||cráneo (calavera)||||||||||||||pääkallo|czaszka
-sat:e|sate|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|moment (while, short time)||momento (tiempo)|||سَاعَة‎|||||||saat|saa|saat||hetki (kotva)|moment
+sat:e|sate|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|time (moment, while, period)||tiempo (momento, periodo)||время|سَاعَة‎||時 (時間, 時期)|||समय (वक़्त)||saat|saa|saat||hetki (kotva)|moment
+sat.o.don:a|satodona||||dedicate (devote)||dedicar|||||||||||||||dedykować (poświęcać, poświęcić)
+sat.o.don:ia|satodonia||||dedication (devotion)|||||||||||||||||dedykacja (poświęcenie)
 Saturn:e|Saturne|planete 6|||Saturn|Saturne|Saturno|Saturno|Сатурн|زحل|土星|土星|||||||Satürn||Saturnus|Saturn
 sau:|sau||||knowledge||sabiduría (conocimiento)|||||||||||||scio|tieto (tietämys)|wiedza
 sau:a|sava|||fra:savoir, spa:por:saber, eng:savvy|know (be aware of)|savoir (connaître)|saber (conocer)|saber (conhecer)|знать||知道 (晓得)|知る|알다|biết|जानना|জানা (চেনা)|tahu|kujua|bilmek|scii (koni)|tietää (tuntea)|wiedzieć
@@ -3591,8 +3598,6 @@ uiiolet:i|viyoleti|||eng:por:fra:violet, spa:violeta, deu:violett, rus:фиол�
 uijin:|vijin|||zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|MSG (monosodium glutamate)||GMS||||味精||미원|mì chính|||micin (vetsin)||||natriumglutamaatti|glutaminian sodu
 uik:e|vike||||wiki article||página wiki|||||||||||||vikia artikulo|wikikirjoitus|artykuł wiki
 uik:ia|vikia|||eng:fra:spa:por:may:wiki, tur:viki, ara:وِيكي‎ (wikī), fas:ویکی‎ (viki), hin:विकि (viki), ben:উইকি (uiki), zho:维基 (wéijī), yue:維基 (wai4 gei1), jpn:ウィキ (wiki), kor:위키 (wiki)|wiki|||||||||||||||||
-uil:|vil|||eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ), jpn:未来 (mirai)|future time||futuro|||||||||||||estonoteco|tulevaisuus|przyszłość
-uil:o|vilo||||will (in future)||ir a (en el futuro)|||||||||||||estonte|tuleva|w przyszłości
 uild:i|vildi|||deu:eng:ned:wild, sve:vild|wild (savage)||salvaje||||||||||||||villi (kesytön)|dziki
 uiman:|viman|||hin:mar:विमान (vimān), ben:বিমান (biman), guj:વિમાન (vimān), tel:విమానము (vimānamu), tam:விமானம் (vimāṉam)|airplane||aeroplano||||||||||||||lentokone|samolot
 uiman.kap.er:|vimankaper||||plane hijacker||||||||||||||||lentokonekaappari|porywacz samolotu
@@ -3757,7 +3762,7 @@ xux:a|xuxa||||silence (make silent)|||||||||||||||silentigi|hiljentää|uciszyć
 xux:i|xuxi||||silent||silencioso||тихий|||||||||||silenta|hiljainen|cichy
 xux:o|xuxo|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)||chito (chist)||||噓|しーっ|쉿|suỵt|||||||hiljaa (hys, shhh)|ćsi
 Z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
-zai:|zai||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
+zai:|zai||||present (here, now)||actualidad|||||||||||||||
 zai:a|zaya||||summon (add, spawn)||generar (añadir)|||||||||||||||wzywać (wezwać, dodawać, dodać)
 zai:i|zayi|||zho:在 (zài), jpn:在 (zai), vie:tại|present (current, existing)||actual|||||||||||||ĉeestanta (nuna, ekzistanta)|kuluva (tämänhetkinen)|obecny, teraźniejszy, aktualny, bieżący, współczesny
 zai:ia|zayia||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
@@ -3765,13 +3770,11 @@ zai:o|zayo||||presenty (currently, now)||ahora (actualmente)|||||||||||||||
 zai:u|zayu||||appear||aparecer|||||||||||||||pojawić się
 zai:u|zayu||||exist (be present)||existir (estar presente)|||||ある (いる)|||||||||olla olemassa|istnieć (być obecnym)
 zai.den:o|zaideno||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, dzisiaj
+zai.sat:e|zaisate||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
 zaitun:|zaitun|biu||ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|olive||aceituna|||||||||||||olivo|oliivi|oliwka
 zalim:i|zalimi|||ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|mean (cruel)||mezquino (antipático, cruel)||||||||||||||ilkeä (julma)|złośliwy, okrutny
 zalim:i raj.er:|zalimi rajer||||tyrant (despot)||tirano (déspota)||тиран (деспот)|||暴君|||तानाशाह||penzalim (raja lalim)||zorba (zalim)||tyranni|tyran
 zalim:ia|zalimia||||cruelty (tyranny, despotism)||crueldad (tiranía)||||||||||||||tyrannia|tyrania
-zaman:|zaman|||tur:zaman, may:jaman, swa:zamani, ara:(zaman), fas:(zamān), + hin:समय (samay)|time (period, epoch, era)||tiempo (periodo)||период (эпоха)||||||||jaman (zaman)|zamani|zaman||aikakausi|czas (epoka, era)
-zaman.don:a|zamandona||||dedicate (devote)||dedicar|||||||||||||||dedykować (poświęcać, poświęcić)
-zaman.don:ia|zamandonia||||dedication (devotion)|||||||||||||||||dedykacja (poświęcenie)
 Zamb:ia|Zambia|dex|ZM||Zambia||Zambia||Замбия|||||||||||Zambio|Sambia|Zambia
 zar:|zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
 zar:i|zari||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
