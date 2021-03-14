@@ -19,16 +19,16 @@ or at the end of the sentence.
 A modifier can modify also another modifier.
 For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
 
-**dayi ren**
+**dayi jan**
 – a big person  
-**lili ren**
+**lili jan**
 – a little person  
-**sundari ren**
+**sundari jan**
 – a beautiful person
 
-**dayo sundari ren**
+**dayo sundari jan**
 – very beautiful person  
-**lilo sundari ren**
+**lilo sundari jan**
 – somewhat beautiful person
 
 
