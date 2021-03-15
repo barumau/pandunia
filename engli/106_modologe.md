@@ -11,7 +11,7 @@ or at the end of the sentence.
 – I well sleep.  
 **me sona _bono_.**
 – I sleep _well_.  
-**te basha pandunia _bono_.**
+**te baxa pandunia _bono_.**
 – You speak Pandunia _well_.
 
 ## Modifying another modifier

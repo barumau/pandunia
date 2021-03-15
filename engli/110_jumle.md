@@ -192,9 +192,9 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me wenda te basha pandunia.**
+**me eska te baxa pandunia.**
 – I ask do you speak Pandunia.  
-**wenda te basha pandunia?**
+**eska te baxa pandunia?**
 – Do you speak Pandunia.
 
 ### Short pivot structure (VVO)
