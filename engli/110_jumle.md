@@ -206,6 +206,77 @@ This is done especially in commands and requests.
 (Word for word: _Request come home!_)
 
 
+## Relative clauses
+
+A relative clause is a subordinate clause that modifies a noun phrase, most commonly a noun.
+For example, the phrase "the person who lives there" containst the noun _person_,
+which is modified by the relative clause _who lives there_.
+
+There are different ways to build a relative clause in Pandunia.
+The relative pronoun in Pandunia is **de**
+and it corresponds to English _that_, _who_ and _which_.
+
+The relativized word can be emphasized by **di**,
+as in the following example,
+but it is necessary only in complex phrases.
+
+**di buke, de jan kitaba, padu.**
+– _That_ book, which the person writes, falls.
+
+Normally the same sentence includes only **de**.
+
+**buke, de jan kitaba, padu.**
+– The book that the person writes falls.
+
+It is possible to leave also **de** out.
+This structure is called _reduced relative clause_.
+
+**buke, jan kitaba, padu.**
+– The book the person writes falls.
+
+The relative pronoun is necessary
+when the relativized noun is the subject of the relative clause.
+
+**jan, de kitaba buke, padu.**
+– The person that writes the book falls.
+
+Also the object noun of a preposition can be the target of the relative clause.
+It's possible to use relative pronouns or the reduced relative clause structure.
+
+**_di_ kalam, ya _de_ jan kitaba buke, padu.**
+– _That_ pen, with _which_ the person writes the book, falls.  
+**kalam, jan kitaba buke ya, padu.**
+– The pen the person writes the book with falls.
+
+The relative pronoun can be put in its right place in the pivot structure
+or it can be left out by using the reduced relative clause structure.
+
+**_di_ jan, me vida _de_ kitaba buke, padu.**
+– The person, whom I see write the book, falls.  
+**jan, me vida kitaba buke, padu.**
+– The person that I see write the book falls.  
+
+Also _resumptive relative pronoun_ can be used if needed.
+
+**_di_ jan, me kitaba buke ya _de_ du kalam, padu.**
+– The person whose pen I write the book with falls.  
+
+Finally, a content clause can also involve **de**,
+which refers back to the previous phrase.
+
+**jan kitaba buke, de sa hami.**
+– The person writes a book, which is important.
+
+However, it is unclear whethere **de** (_which_) refers to only the book
+or the fact that the person writes the book.
+It can be clarified by an expression like
+**di fate**
+(_the fact_).
+
+**jan kitaba buke, di fate sa hami.**
+– The fact that the person writes the book is important.
+
+
 ## Combining phrases with conjunctions
 
 ### Basic conjunctions
