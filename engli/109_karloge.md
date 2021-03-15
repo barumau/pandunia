@@ -2,17 +2,17 @@
 
 ## Verb types
 
-A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
+A verb denotes an action or an occurence, for example to eat, to speak, to look and to think.
 
-A verb can involve an agent and a recipient.
+A verb can involve an agent and a patient.
 The agent performs or "causes" an action,
-and the recipient receives or "experiences" the action.
+and the patient receives or "experiences" the action.
 
 There are three types of verbs in Pandunia:
 
-1. Active: The subject does the action.
+1. Agent-oriented verbs: The subject does the action in the SVO word order.
    The the verb ends in **-a**.
-2. Passive: The subject receives the action.
+2. Patient-oriented-verbs: The subject "suffers" the action in the SVO word order.
    The verb ends in **-u**.
 3. Stative: The subject is in the state that is indicated by the verb.
    The verb ends in **-i**.
@@ -29,96 +29,156 @@ Consider the following examples:
 **kamar safi.**
 – The room is clean. (stative verb)
 
-As you can see, **-a** and **-u** indicate opposite orders for the agent and recipient.
+As you can see, **-a** and **-u** indicate opposite orders of the agent and patient.
 
 
-### Active verbs
+### Agent-oriented verbs
 
-Verbs that end in **-a** are called _active verbs_.
-In the active voice,
-the subject does the action,
-and the object receives the action of the verb.
-The word order is subject–verb–object.
+Verbs that end in **-a** are called _agent-oriented verbs_
+because the agent comes before the verb.
+The agent and patient are arranged around the verb as depicted in the figure below.
 
-| Subject | Verb     | Object    |
-|---------|----------|-----------|
-| **mau** | **yama** | **mux.** |
-| Cats    | eat      | mice.     |
+    Figure. Word order sequence for verbs that end in -a.
+    
+               ╔════════════╗
+          ┌───▶║   Verb -a  ╟───┐
+          │    ╚════════════╝   │
+          │                     │
+          │                     ▼
+    ╔═════╧══════╗       ╔════════════╗
+    ║   Agent    ║◀──────╢   Patient  ║
+    ╚════════════╝       ╚════════════╝
 
 
-In active sentences, the focus is on the doer of the action.
+#### Order A1: Agent, verb and patient
 
-![](http://www.pandunia.info/grafe/kitaba.png "ren kitaba buke.")  
-**fem kitaba buke.**  
-– The woman writes a book.
+The most common word order in Pandunia is agent–verb–patient.
+It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
-The subject of an active verb is the doer or the agent
-who does the action that the verb indicates.
-The action is done to the object,
-which is the passive recipient of the action.
+
+               ╔════════════╗
+          ┌───▶║   Verb -a  ╟───┐
+          │    ╚════════════╝   │
+          │                     │
+          │                     ▼
+    ╔═════╧══════╗       ╔════════════╗
+    ║   Agent    ║       ║   Patient  ║
+    ╚════════════╝       ╚════════════╝
 
 Examples:  
-**te vida ke?**
-– You see what?  
 **me vida lole.**
 – I see them.  
 **te beka pang.**
 – You bake bread.  
 
+#### Order A2: Patient, agent and verb
 
-### Passive verbs
+The second structure in this triangle is patient–agent–verb.
+It is frequent in dependant clauses.
 
-Verbs that end in **-u** are called _passive verbs_.
-(They could be also called _mediopassive verbs_.)
-The sentence word order is the normal subject–verb–object,
-but this time
-the subject receives the action,
-and the object (if there is one) does the action of the verb.
+               ╔════════════╗
+          ┌───▶║   Verb -a  ║
+          │    ╚════════════╝
+          │
+          │
+    ╔═════╧══════╗       ╔════════════╗
+    ║   Agent    ║◀──────╢   Patient  ║
+    ╚════════════╝       ╚════════════╝
 
-| Subject  | Verb      | Object    |
-|----------|-----------|-----------|
-| **mux**  | **yamu**  | **mau.**  |
-| Mice     | are eaten | by cats.  |
+Examples:  
+**ke te vida?**
+– What do you see?  
+**me yama pang, de te beka.**
+– I eat bread _that you baked._
 
-When a passive verb is used, the focus is on the recipient of the action.
+#### Order A3: Verb, patient and agent
 
-![](http://www.pandunia.info/grafe/kitabu.png "buke kitabu.")  
-**buke kitabu.**  
-– The book is written.
+The third structure of this triangle is the verb-patient-agent, which is rarely used.
+It is described here only for the sake of completeness.
 
-See how the object of the active verb becomes the subject of the passive verb:
+               ╔════════════╗
+               ║   Verb -a  ╟───┐
+               ╚════════════╝   │
+                                │
+                                ▼
+    ╔════════════╗       ╔════════════╗
+    ║   Agent    ║◀──────╢   Patient  ║
+    ╚════════════╝       ╚════════════╝
 
-| Subject    | Verb       | Object        |
-|------------|------------|---------------|
-| **fem**    | **kitaba** | ***buke.***   |
-| The woman  | writes     | _the book_.   |
-| ***buke*** | **kitabu** | **fem.**      |
-| _The book_ | is written | by the woman. |
 
-In Pandunia, a passive verb is used when:
+### Patient-oriented verbs
 
-1. The subject receives an action,
-   ex. **kitabu** (to be written), **darbu** (to get hit).
-2. The subject undergoes a change of state,
-   ex. **parcu** (to get broken), **novu** (to become new).
-3. The subject moves to another place,
-   ex. **layu** (to come), **marchu** (to walk).
-3. The subject is influenced or stimulated by the object,
-   ex. **suku** (to be pleased), **fobu** (to be scared)
+Verbs that end in **-u** are called _patient-oriented verbs_
+because the patient comes before the verb.
+The agent and patient are arranged around the verb as depicted in the figure below.
 
-Sometimes a passive verb is used in Pandunia when an active verb would be used in English
-because of the last point.
-For example, desire is stimulated by the object of desire,
-so the corresponding verb **volu** (_to want or desire_) is "passive" in Pandunia.
-Likewise, joy and pleasure are stimulated by the source of joy,
-so the corresponding verb **suku** (_to enjoy or like_) is also "passive"
-– as it can also be in English (_to be pleased by_)!
+    Figure. Word order sequence for verbs that end in -u.
+    
+               ╔════════════╗
+          ┌────╢   Verb -u  ║◀──┐
+          │    ╚════════════╝   │
+          │                     │
+          ▼                     │
+    ╔════════════╗       ╔══════╧═════╗
+    ║   Agent    ╟──────▶║   Patient  ║
+    ╚════════════╝       ╚════════════╝
 
-**me volu novi jupe.**
-– I desire a new skirt.  
-**me suku boni yam.**
-– I enjoy good food. OR
-I am pleased by good food.
+#### Order U1: Patient, verb and agent
+
+The patient-verb-agent order is common in the passive voice,
+where the focus is on the passive recipient of the action.
+
+               ╔════════════╗
+          ┌────╢   Verb -u  ║◀──┐
+          │    ╚════════════╝   │
+          │                     │
+          ▼                     │
+    ╔════════════╗       ╔══════╧═════╗
+    ║   Agent    ║       ║   Patient  ║
+    ╚════════════╝       ╚════════════╝
+
+Often they can be translated to English by using the passive voice or an intransitive verb
+but sometimes a transitive verb can be used too.
+
+Examples:  
+**pang beku te.**
+– Bread is baked by you.  
+**kupe parcu.**
+– The cup got broken.  
+**rajer suku lole.**
+– The king is pleased by them.
+
+#### Order U2: Agent, patient and verb
+
+The agent–patient–verb order is a possible alternative for the agent–verb–patient order.
+It is used in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
+
+               ╔════════════╗
+               ║   Verb -u  ║◀──┐
+               ╚════════════╝   │
+                                │
+                                │
+    ╔════════════╗       ╔══════╧═════╗
+    ║   Agent    ╟──────▶║   Patient  ║
+    ╚════════════╝       ╚════════════╝
+
+Examples:  
+**me lole vidu.** - _I them see._  
+**te pang beku.** - _You bread bake._
+
+#### Order U3: Verb, agent and patient
+
+The verb–agent–patient order is very rare but possible.
+It is described here only for the sake of completeness.
+
+               ╔════════════╗
+          ┌────╢   Verb -u  ║
+          │    ╚════════════╝
+          │
+          ▼
+    ╔════════════╗       ╔════════════╗
+    ║   Agent    ╟──────▶║   Patient  ║
+    ╚════════════╝       ╚════════════╝
 
 
 ### Stative verbs
@@ -126,10 +186,6 @@ I am pleased by good food.
 Verbs that end in **-i** are called _stative verbs_.
 They are basically adjectives that describe the subject in a verb-like manner.
 The subject of a stative verb is in the state denoted by the verb root.
-
-![](http://www.pandunia.info/grafe/kitabi.png "buke kitabi.")  
-**buke kitabi.**  
-– The book is written.
 
 Stative verbs differ from passive verbs by the fact that
 a stative verb is about being in a state
@@ -139,29 +195,12 @@ and a passive verb is a _passive of becoming_.
 
 Stative verbs are always intransitive.
 They can't have an object.
-For example, see how the verbs about
-**fuke**
-(clothes or clothing) work.
-
-**me fuki.**
-– I am clothed. OR I am dressed.  
-**me fuku sapate.**
-– I wear shoes.  
-**le fuka sapate pa me.**
-– He or she puts shoes on me.
-
-So, as a verb,
-**fuki**
-means _to be clothed or dressed_
-and, as an adjective, _clothed, dressed_.
-
-**fuki ren abla restu jivi va lengia.**
-– A clothed person can stay alive in the cold.
 
 
-### Summary of the verb types
+### Comparison of the verb types
 
-The verb types are summarized in the table below.
+The verb types are summarized in the table below
+for the normal subject–verb–object word order.
 
 | Noun           | Stative verb   | Passive verb   | Active verb    |
 |----------------|----------------|----------------|----------------|
@@ -169,7 +208,7 @@ The verb types are summarized in the table below.
 | writing        | written        | get written    | write          |
 | **saf**        | **safi**       | **safu**       | **safa**       |
 | tidyness       | tidy, clean    | get clean      | make clean     |
-| **nove**       | **novi**       | **novu**       | **nova**       |
+| **nou**        | **novi**       | **novu**       | **nova**       |
 | novelty        | new, novel     | get new        | make new       |
 | **yam**        | **yami**       | **yamu**       | **yama**       |
 | food           | eaten          | get eaten      | eat            |
@@ -190,8 +229,8 @@ The verb types are summarized in the table below.
 | greed          | greedy         | covet, hog     | make greedy    |
 | **fobe**       | **fobi**       | **fobu**       | **foba**       |
 | fear           | afraid, scared | fear           | scare          |
-| **lay**        | **layi**       | **layu**       | **laya**       |
-| arrival        |                | come, arrive   |bring, make come|
+| **lai**        | **layi**       | **layu**       | **laya**       |
+| arrival        |                | get reached    | arrive, reach  |
 | **fuke**       | **fuki**       | **fuku**       | **fuka**       |
 | clothing       | clothed        | be worn        | wear           |
 | **dur**        | **duri**       | **duru**       | **dura**       |
