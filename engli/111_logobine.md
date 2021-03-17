@@ -16,11 +16,11 @@ Compound words are made of bare word stems and a vowel ending.
 For example, this is how the word **andewisti** (atheistic) is made:
 
            an       (negation)
-       +  dew       (god)
+       +  deu       (god)
        +  ist       (proponent, -ist)
        +    i       (adjective ending)
-   _____________
-   = andewisti      (atheistic)
+    _____________
+    = andevisti     (atheistic)
 
 If joining bare stems together would result into a difficult consonant sequence,
 a padding vowel **-o-** is inserted between them.
@@ -86,12 +86,12 @@ This ending is often found in place names, especially in country
 names. However this use is not systematic and it's not required. There
 are also a lot of country names that do not end in **-ia**.
 
-**arabi** Arab, Arabic; **arabia** Arabia  
-**rusi** Russian; **rusia** Russia  
-**turki** Turk, Turkish; **turkia** Turkey  
-**asia** Asia  
-**indonesia** Indonesia  
-**italia** Italy  
+**arabi** Arab, Arabic; **Arabia** Arabia  
+**rusi** Russian; **Rusia** Russia  
+**turki** Turk, Turkish; **Turkia** Turkey  
+**Asia** Asia  
+**Indonesia** Indonesia  
+**Italia** Italy
 
 Also abstract nouns often end in **-ia**.
 
@@ -100,7 +100,7 @@ Also abstract nouns often end in **-ia**.
 
 When it is added after -er, it means a field of expertise.
 
-**injener** engineering  
+**enjener** engineering  
 **sapateria** shoemaking  
 
 #### -ik-

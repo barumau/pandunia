@@ -21,7 +21,7 @@ Pronouns can substitute nouns and noun phrases.
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
-**ze**
+**se**
 – self
 
 Note! The reflexive pronoun **se** is used for all persons,
