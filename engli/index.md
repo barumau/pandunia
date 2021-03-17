@@ -34,11 +34,13 @@ Version 2.0 includes improved grammatical structures, more logical structure wor
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Phrasebook](fraze.md)
+- [Grammar of Pandunia}(pandunia.pdf) in PDF format
 
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](engli-pandunia.md) dictionary
 - [Pandunia-English](pandunia-engli.md) dictionary
 - [Origins of words](leksaslia.md)
+
 
 ## Texts
 
