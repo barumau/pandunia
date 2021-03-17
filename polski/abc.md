@@ -7,28 +7,28 @@ Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu 
 |:--------:|:-------:|
 | a        | /a/     |
 | b        | /b/     |
-| c        | /tʃ~tʂ~tɕ/ |
+| c        | /tʃ≈tʂ≈tɕ/ |
 | d        | /d/     |
 | e        | /e/     |
 | f        | /f/     |
 | g        | /g/     |
-| h        | /h~x/   |
+| h        | /h≈x/   |
 | i        | /i/     |
-| j        | /dʒ~dʐ~dʑ/ |
+| j        | /dʒ≈dʐ≈dʑ/ |
 | k        | /kʰ/    |
 | l        | /l/     |
 | m        | /m/     |
 | n        | /n/     |
 | o        | /o/     |
 | p        | /pʰ/    |
-| r        | /r~ɹ/   |
+| r        | /r≈ɹ/   |
 | s        | /s/     |
 | t        | /tʰ/    |
 | u        | /u/     |
-| v        | /w~ʋ~v/ |
-| x        | /ʃ~ʂ~ɕ/ |
+| v        | /w≈ʋ≈v/ |
+| x        | /ʃ≈ʂ≈ɕ/ |
 | y        | /j/     |
-| z        | /z~dz/  |
+| z        | /z≈dz/  |
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
