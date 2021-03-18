@@ -170,17 +170,28 @@ In Pandunia, function words have the following characteristics:
     - **-a** indicates a preposition
     - **-u** indicates a postposition
 
-|  | Idea          | -e (pronoun)           | -i (determiner)        | -o (adverb)            | -a (prep.)             | -u (postp.)            |
-|--|:--------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| 1| 1st person    | **me**<br>I            | **mi**<br>my           |                        |                        |                        |
-| 2| 2nd person    | **te**<br>you          | **ti**<br>your         |                        |                        |                        |
-| 3| 3rd person    | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
-| 4| Reflexive     | **se**<br>~self        | **si**<br>one's own    |                        |**sa**<br>to be; as a   |                        |
-| 5| Interrogative | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         | **ka**<br>than, as     |                        |
-| 6| Anaphoric     |**de**<br>this/that,which|**di**<br>the/this/that|**do**<br>like this/that| **da**<br>of, like     | **du**<br>'s, -like    |
-| 7| Negation      |(**ne**<br>none)        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>lack; without|                        |
-| 8| Affirmation   | **ye**<br>yes          |                        | **yo**<br>yes, indeed  | **ya**<br>have; with   |                        |
-| 9| Location      |                        |                        |                        | **va**<br>at, in, on   |                        |
-|10| Destination   |                        |                        |                        | **pa**<br>to, for      |                        |
-|11| Origin        |                        |                        |                        | **ja**<br>from, since  |                        |
+|  | Idea          | -e (pronoun)       | -i (determiner)    | -o (adverb)        | -a (prep.)         | -u (postp.)        |
+|--|:--------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+| 1| 1st person    | **me**             | **mi**             |                    |                    |                    |
+|  |               | I                  | my                 |                    |                    |                    |
+| 2| 2nd person    | **te**             | **ti**             |                    |                    |                    |
+|  |               | you                | your               |                    |                    |                    |
+| 3| 3rd person    | **le**             | **li**             |                    |                    |                    |
+|  |               | he, she, it        | his, her, its      |                    |                    |                    |
+| 4| Reflexive     | **se**             | **si**             |                    |**sa**              |                    |
+|  |               | ~self              | one's own          |                    |to be; as a         |                    |
+| 5| Interrogative | **ke**             | **ki**             | **ko**             | **ka**             |                    |
+|  |               | what?              | which?             | how?               | than, as           |                    |
+| 6| Anaphoric     | **de**             | **di**             | **do**             | **da**             | **du**             |
+|  |               | this/that, which   | the/this/that      | like this/that     | of, like           | 's, -like          |
+| 7| Negation      | **ne**             | **ni**             | **no**             | **na**             |                    |
+|  |               | none               | no, not any        | not                | lack; without      |                    |
+| 8| Affirmation   | **ye**             |                    | **yo**             | **ya**             |                    |
+|  |               | yes                |                    | yes, indeed        | have; with         |                    |
+| 9| Location      |                    |                    |                    | **va**             |                    |
+|  |               |                    |                    |                    | at, in, on         |                    |
+|10| Destination   |                    |                    |                    | **pa**             |                    |
+|  |               |                    |                    |                    | to, for            |                    |
+|11| Origin        |                    |                    |                    | **ja**             |                    |
+|  |               |                    |                    |                    | from, since        |                    |
 
