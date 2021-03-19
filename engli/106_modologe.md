@@ -44,17 +44,36 @@ Modifiers can be compared with the adverbs of comparison.
   (_less_) indicates comparison of inferiority
 - **minim**
   (_least_) indicates the superlative of inferiority
-- **samo**
+- **paro**
   (_as_ or _equally_) indicates the comparison of equality
 
-Particle
+The particle
 **ka**
-relates the adverbs of comparison to the point of comparison.
+relates the adverbs of comparison to the object of comparison.
 
-**me sa max boni ka te.**
-= I am better than you.  
-**te loga samo bono ka me.**
+**aple sa max boni ka oranje.**
+= Apples are better than oranges.  
+**oranje sa min boni ka aple.**
+= Oranges are less good than apples.  
+**te loga paro bono ka me.**
 = You speak as well as me.
+
+It is also possible to compare modifiers with the following verbs,
+which are directly attached to the object of comparison.
+
+- **maxu**
+  (_to exceed_)
+- **minu**
+  (_to subceed_)
+- **paru**
+  (_to equal_)
+
+**aple sa boni maxu oranje.**
+– Apples are good, exceed oranges. _meaning:_ Apples are better than oranges.  
+**oranje sa boni minu aple.**
+– Oranges are good, subceed apples. _meaning:_ Oranges are less good than apples.  
+**te loga bono para me.**
+– You speak well, equal me. _meaning:_ You speak as well as me.
 
 
 ## Adverbs of time and space

@@ -1957,7 +1957,9 @@ maturi man - mies
 mau - kissa  
 max (maxo) - enemmän (myös, lisäksi, plus)  
 max ka bas - liikaa  
+maxa - lisätä (enentää)  
 maxi - lisä-  
+maxu - ylittää (olla enemmän kuin)  
 maxfila - suosia (pitää parempana)  
 maxfili - suosikki (suosittu)  
 maxfilistia - suosinta (favoritismi)  
@@ -2028,6 +2030,8 @@ milke - maito
 min (mino) - vähemmän  
 min ka bas - liian vähän  
 mina - paitsi (miinus)  
+mina - vähentää  
+minu - alittaa (olla vähemmän kuin)  
 minar - torni  
 minga - kirkastaa (valaista)  
 mingi - kirkas (selkeä)  
@@ -2347,6 +2351,7 @@ par - taso
 para - tasoittaa (tasata)  
 pari - tasainen (tasavertainen)  
 pari numbe - parillinen luku  
+paru - olla yhtä kuin  
 parike - vertainen  
 Paraguai - Paraguai  
 parai - hylkiö (paaria)  

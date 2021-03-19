@@ -2198,8 +2198,10 @@ matur:i man:|maturi man||||man (adult male)||hombre (señor)||||男人|男の人
 mau:|mau|biu||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat|chat|gato|gato|кошка||猫|猫|고양이|mèo|बिल्ली|বেড়াল|kucing|paka (nyau)|kedi|kato|kissa|kot
 max: (max:o)|max (maxo)|||spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|more|plus|más|mais||||||||||||pli|enemmän (myös, lisäksi, plus)|bardzie
 max: k:a bas:|max ka bas||||too much||demasiado|||||||||||||tro|liikaa|zbyt
+max:a|maxa||||increase||||||||||||||||lisätä (enentää)|
 max:i|maxi||||additional||adicional (extra)||||||||||||||lisä-|dodatkowy
 max:o|maxo||||also (too)||además|||||||||||||ankaŭ||
+max:u|maxu||||exceed (be greater than)||||||||||||||||ylittää (olla enemmän kuin)|
 max.bon:i|maxboni||||bonus|||||||||||||||||dodatkowy
 max.darj:a|maxdarja||||increment|||||||||||||||||zwiększyć o jeden
 max.fil:a|maxfila||||prefer (favor)|préférer|preferir (favorecer)|preferir|предпочитать|فَضَّلَ|比较喜欢|||||||||preferi (pliŝati)|suosia (pitää parempana)|preferować (woleć)
@@ -2292,7 +2294,9 @@ Mimas:|Mimas|planete 6 lun 1|||Mimas|||||||||||||||||
 min: (min:o)|min (mino)|||spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|less||menos|||||||||||||malpli|vähemmän|mniej
 min: k:a bas:|min ka bas||||too little||demasiado poco|||||||||||||maltro|liian vähän|zbyt mało
 min:a|mina||||except (minus)||excepto (menos)|||||||||||||escepte|paitsi (miinus)|oprócz, minus
+min:a|mina||||decrease (lessen)||||||||||||||||vähentää|
 min:i|mini||||less (fewer)|||||||||||||||||
+min:u|minu||||subceed (be less than)||||||||||||||||alittaa (olla vähemmän kuin)|
 min.darj:a|mindarja||||decrement|||||||||||||||||zmniejszyć o jeden
 minar:|minar|||swa: mnara, tur: minare, + eng:minaret|tower||torre|||||||||||||turo|torni|wieża
 ming:a|minga||||brighten||iluminar||||||||||||||kirkastaa (valaista)|rozjaśnić
@@ -2663,6 +2667,7 @@ par:|par||||level|niveau|nivel|nivel|уровень|مستوى|水平||||||||sev
 par:a|para||||equalize (even out)||||||||||||||||tasoittaa (tasata)|
 par:i|pari|||eng:peer, fra:pair,  spa:por:par, deu:Pere, hin:बराबर (barābar), fas:urd: برابر‎ (barâbar)|even (level, peer, equal)|pair (pareil, egal)|equilibrado (par)|igual (par)|равный||||||बराबर||||||tasainen (tasavertainen)|równy
 par:i numb:e|pari numbe||||even number|nombre pair|número par||чётное число||偶数|偶数|짝수||||||çift sayı|para nombro|parillinen luku|
+par:u|paru||||equal||||||||||||||||olla yhtä kuin|
 par.ik:e|parike||||peer||equilibrado (par)||||||||||||||vertainen|równy
 par.lini:i|parlinyi||||parallel (longitudinal)||paralelo||параллельный|||並行||||||||||równoległy (podłużny)
 par.lini:u|parlinyu||||align (go along)||alinear|||||||||||||||iść wzdłuż (pójść wzdłuż)

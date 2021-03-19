@@ -910,6 +910,7 @@ decibel - decibel
 decode (decrypt) - ankoda  
 decorate (embellish) - sundardaka  
 decoration (ornament) - sundardake  
+decrease (lessen) - mina  
 decrement - mindarja  
 dedicate (devote) - zamandona  
 dedication (devotion) - zamandonia  
@@ -1110,6 +1111,7 @@ environment (nature) - ekia
 environmental (natural) - eki  
 enzyme - enzim  
 epistemology - saulojia  
+equal - paru  
 equalize (even out) - para  
 equator - geuparlinye  
 Equatorial Guinea - Geuparlinyi Ginia  
@@ -1151,6 +1153,7 @@ everything - pan xei
 exa- - eksa\*  
 examine (inspect, check) - genca  
 example (instance of) - misal  
+exceed (be greater than) - maxu  
 excellence (quality, virtue) - bonsifia  
 excellent - bonsifi  
 except (minus) - mina  
@@ -1646,6 +1649,7 @@ imperialist - imperiste
 import - inmisa  
 important - hami  
 imprison (jail) - prizona  
+increase - maxa  
 increment - maxdarja  
 India - Bartia  
 Indian - barti  
@@ -3250,6 +3254,7 @@ struggle (strife) - jihade
 student (pupil, learner) - xuler  
 studio - estudia  
 stupid (idiotic) - idioti  
+subceed (be less than) - minu  
 submission (surrender) - islam  
 submit (present) - karmisa  
 substance (physical material from which something is made) - kim  

@@ -2189,8 +2189,10 @@ maturi man - man (adult male)
 mau - cat  
 max (maxo) - more  
 max ka bas - too much  
+maxa - increase  
 maxi - additional  
 maxo - also (too)  
+maxu - exceed (be greater than)  
 maxboni - bonus  
 maxdarja - increment  
 maxfila - prefer (favor)  
@@ -2282,7 +2284,9 @@ Mimas - Mimas
 min (mino) - less  
 min ka bas - too little  
 mina - except (minus)  
+mina - decrease (lessen)  
 mini - less (fewer)  
+minu - subceed (be less than)  
 mindarja - decrement  
 minar - tower  
 minga - brighten  
@@ -2653,6 +2657,7 @@ par - level
 para - equalize (even out)  
 pari - even (level, peer, equal)  
 pari numbe - even number  
+paru - equal  
 parike - peer  
 parlinyi - parallel (longitudinal)  
 parlinyu - align (go along)  

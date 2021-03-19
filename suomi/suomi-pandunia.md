@@ -70,6 +70,7 @@ algebra - jebria
 Algeria - Jayeria  
 alistua (antautua) - islamu  
 alistuminen (antautuminen) - islam  
+alittaa (olla vähemmän kuin) - minu  
 alittaa - nica  
 alkaa - xuru  
 alkoholi - alkol  
@@ -1420,6 +1421,7 @@ lippu (piletti) - tikete
 lippu - bandir  
 lista (luettelo) - liste  
 lisä- - maxi  
+lisätä (enentää) - maxa  
 litium - litem  
 litra - litre  
 litteä - plati  
@@ -1875,6 +1877,7 @@ olla olemassa - zayu
 olla samaa mieltä - samraya  
 olla taipuvainen - iva  
 olla väliä (olla tärkeä) - hamu  
+olla yhtä kuin - paru  
 olut (kalja) - bir  
 oma (-nsa) - si  
 omaisuus - mal  
@@ -3194,6 +3197,7 @@ väestö (kansa) - dem
 väestötiede (demografia) - demgrafia  
 vähemmistö - minoria  
 vähemmän - min (mino)  
+vähentää - mina  
 vähimmäis- - minimi  
 vähiten - minim (minimo)  
 vähäinen - minori  
@@ -3255,6 +3259,7 @@ yliopisto - daixulkan
 ylistys - euloge  
 ylistää (puhua hyvää, kehua) - euloga  
 ylistää - halela  
+ylittää (olla enemmän kuin) - maxu  
 ylittää - supra  
 ylitys - supre  
 yllä (pääll) - supro  
