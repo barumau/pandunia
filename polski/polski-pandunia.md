@@ -1285,7 +1285,6 @@ lazania - lazanye
 lejek - dartube  
 lekcja - xul  
 lekki - legi  
-leksem - logem  
 lepić (kleić) - gluta  
 lepki (kleisty) - gluti  
 Lesotho - Soto  
@@ -2823,6 +2822,7 @@ słowik - bulbul
 słownictwo - logia  
 słowny (leksykalny) - logi  
 słowo (mowa) - loge  
+słowo - logem  
 słoń - gaje  
 słońce - sol  
 słuchać - ora  

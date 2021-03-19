@@ -294,6 +294,7 @@ automóvil (coche) - motogar
 autonomía - autonomia  
 autónomo - autonomi  
 avanzar (entrar, adelantar, progresar) - jinu  
+avena - aven  
 aventura - ventur  
 aventurero - venturer  
 avisar (notificar) - notana  
@@ -1534,6 +1535,7 @@ género social - sosi jinse
 haber (en el pasado) - paso  
 habilidad - able  
 habitación (cuarto, sala, pieza) - kamar  
+habla (palabras) - loge  
 hablador (locuaz) - logivi  
 hablante de Pandunia - panduniste  
 hablar (comunicarse) - baxa  
@@ -1869,7 +1871,6 @@ letra (carácter) - harfe
 letra negrita - grosi harfe  
 levadura - hamir  
 levantar (elevar) - gava  
-lexema - logem  
 leño (tronca) - mokotan  
 león - sing  
 liar (enrollar) - rula  
@@ -2417,7 +2418,7 @@ pagano (infiel) - kafir
 pago - pei  
 Pakistán - Pakistan  
 pala - bel  
-palabra (vocablo) - loge  
+palabra (vocablo) - logem  
 palacio (mansión) - daidom  
 paladio - paladem  
 palanca - tirbaton  

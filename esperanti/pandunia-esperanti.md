@@ -121,6 +121,7 @@ avakate - avokado
 avar - damaĝo  
 avarani - damaĝa  
 auda - aŭdi (aŭskulti)  
+aven - aveno  
 aur - oro  
 Australia - Aŭstralio  
 automoti - memmova  
@@ -1050,9 +1051,11 @@ litem - litio
 litre - litro  
 lobake - rafaneto  
 loga - paroli  
-loge - vorto (parolo)  
+loge - parolo  
+logi - vorta  
 logia - vortaro  
 logaslia - etimologio  
+logem - vorto  
 logivi - parolema  
 logoliste - vortaro  
 logike - logiko  

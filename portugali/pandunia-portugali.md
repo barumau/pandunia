@@ -77,6 +77,7 @@ ativi - ativo
 Atina - Atenas  
 atlantokade - bacalhau-do-atlântico  
 avar - dano (avaria)  
+aven - aveia  
 aur - ouro  
 autologe - monólogo  
 ####B - B  
@@ -595,10 +596,11 @@ linke - conexão (vínculo, laço)
 liste - lista  
 litre - litro  
 loga - falar  
-loge - palavra (vocábulo)  
+loge - fala (palavras)  
 logi - léxico  
 logia - vocabulário  
 logaslia - etimologia  
+logem - palavra (vocábulo)  
 loka - colocar (pôr)  
 loke - lugar (local)  
 loki - local  

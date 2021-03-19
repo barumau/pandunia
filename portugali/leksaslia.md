@@ -41,6 +41,7 @@
 |**ater**|agente|eng:actor,-ator, fra:-ateur, spa:por:-ador|
 |**aur**|ouro|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |**avar**|dano (avaria)|ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|
+|**aven**|aveia|fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|
 |**bace**|criança (menino)|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
 |**badam**|amêndoa|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |**bagaje**|bagagem|eng:baggage, fra:bagage, por:bagagem, rus:багаж (bagazh), tur:bagaj, ben:ব্যাগেজ (bjagej), may:bagasi|
@@ -184,7 +185,7 @@
 |**hami**|importante|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:mühim, fas:(mohemm)|
 |**hamili**|grávida (prenhe)|ara:(ḥāmil), may:hamil, tur:hamile, urd:(hāmila), fas:(hâmele)|
 |**hande**|mão|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
-|**hata**|até|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|**hata**|até|por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|
 |**hatre**|perigo|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**hem**|hmm|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |**hijabe**|véu|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
@@ -305,7 +306,7 @@
 |**linye**|linha|eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|
 |**liste**|lista|eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|
 |**litre**|litro|eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|
-|**loge**|palavra (vocábulo)|ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|
+|**loge**|fala (palavras)|ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|
 |**loke**|lugar (local)|eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|
 |**longi**|longo|eng:fra:long, deu:lang, por:longo|
 |**lontre**|lontra|spa:tgl:lutrino, fra:loutre, por:lontra, ita:lontra|

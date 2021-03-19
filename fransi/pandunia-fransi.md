@@ -183,6 +183,7 @@ atlantosalmon - saumon altentique
 atom - atome  
 avakate - avocat  
 avar - dommage  
+aven - avoine  
 aur - or  
 Australia - Australie  
 autologe - monologue  
@@ -796,10 +797,11 @@ linke - lien
 liste - liste  
 litre - litre  
 loga - parler  
-loge - mot  
+loge - parole (mots)  
 logi - lexical  
 logia - vocabulaire (lexique)  
 logaslia - étymologie  
+logem - mot  
 logivi - loquace  
 loka - mettre (placer)  
 loke - lieu  

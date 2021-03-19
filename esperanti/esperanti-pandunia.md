@@ -117,6 +117,7 @@ ateisto - andeviste
 atendi - denga  
 Ateno - Atina  
 atomo - atom  
+aveno - aven  
 aventuristo - venturer  
 aventuro - ventur  
 avida - tami  
@@ -1202,6 +1203,7 @@ parko (ĝardeno) - parke
 parolema - logivi  
 paroli (komuniki) - baxa  
 paroli - loga  
+parolo - loge  
 partio - partia  
 parto (frakcio) - fen  
 partopreni - parta  
@@ -1698,9 +1700,10 @@ vokalo - jungofon
 voli - volu  
 volo - ice  
 volo - vol  
+vorta - logi  
 vortaro - logia  
 vortaro - logoliste  
-vorto (parolo) - loge  
+vorto - logem  
 vosto - vei  
 vulpo - hulei  
 vulvo - vulve  

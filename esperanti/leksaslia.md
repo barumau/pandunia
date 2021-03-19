@@ -55,6 +55,7 @@
 |**aur**|oro|latina:aurum, portugala:ouro, hispana:oro, franca:or, rusa:аурум (aurum), malaja:aurum|
 |**avakate**|avokado|nah:ahuakatl, hispana:aguacate, portugala:abacate, filipina:abokado, japana:アボカド (abokado), korea:아보카도 (abokado), franca:avocat, polona:awokado, konga:zavoká|
 |**avar**|damaĝo|araba: عَوَارِيَّة‎ (ʿawāriyya), angla:(nautical) average, franca:avarie, hispana:avéria, portugala:avaria, rusa:авария (avariya), turka:avarya|
+|**aven**|aveno|franca:avoine, hispana:avena, portugala:aveia, rusa:овёс (ovyos), malaja:haver|
 |**babe**|ĉapitro|malaja:bab, araba:urdua:persa:(bāb)|
 |**babuce**|pantoflo|araba: بَابُوج‎ (bābūj), hispana:babucha, franca:babouche, angla:babouche|
 |**bace**|infano|persa:(bačče), urdua:(baccā), hindia:बच्चा (baccā), guĝarata: બચ્ચું (baccũ), filipina: bata|
@@ -349,7 +350,7 @@
 |**harfe**|litero|araba:(ḥarf), turka:harf, persa:urdua:(harf), haŭsa:harafi, svahila:herufi, malaja:huruf|
 |**harmonia**|harmonio|angla:harmony, hispana:armonía, portugala:harmonia, franca:harmonie, rusa:гармония (garmoniya)|
 |**hasi**|speciala|araba:(xāṣṣ), persa:urdua:(xās), hindia:ख़ास (xās), malaja:khas|
-|**hata**|ĝis|portugala:até, araba:(ḥatta), hispana:hasta, svahila:hata|
+|**hata**|ĝis|portugala:até, araba:(ḥatta), hispana:hasta, svahila:hata + persa: تا‎ (tâ), hindia:तक (-tak)|
 |**hatre**|danĝero|araba: خطر‎ (xaṭar), persa: خطر‎ (xatar), urdua: خطرہ‎ (xatrā), hindia:ख़तरा (xatrā), svahila:hatari, turka:muhatara|
 |**hau**|vento|hindia:हवा (havā), bengala:হাওয়া (haowa) + araba: هَوَاء‎ (hawāʾ), turka:hava, malaja:hawa, svahila:hewa|
 |**he**|ĉu?|franca:portugala:hein, japana:e|
@@ -519,7 +520,7 @@
 |**liste**|listo|angla:list, hispana:portugala:lista, rusa:лист (list), deu:franca:liste, persa:(list), hindia:लिस्ट (lisṭ), urdua:(lisṭ), japana:リスト (risuto)|
 |**litre**|litro|angla:franca:turka:litre, deu:malaja:liter, hispana:portugala:litro, rusa:литр (litr), polona:litr, araba: لتر‎(litr), hindia:लीटर (līṭar), bengala:লিটার (liṭar), japana:リットル (rittoru), korea:리터 (riteo), vjetnama:lít, svahila:lita|
 |**lobake**|rafaneto|mandarena:萝卜 (luóbo), kantona:蘿蔔 (lobaak), malaja:lobak|
-|**loge**|vorto (parolo)|greka:λόγος (logos), angla:franca:-logue, hispana:portugala:-logo, rusa:-лог (-log), persa:(loğat), araba:(luğa), hindia:लुग़त (luġat), svahila:lugha, turka:lügat, malaja:logat|
+|**loge**|parolo|greka:λόγος (logos), angla:franca:-logue, hispana:portugala:-logo, rusa:-лог (-log), persa:(loğat), araba:(luğa), hindia:लुग़त (luġat), svahila:lugha, turka:lügat, malaja:logat|
 |**logike**|logiko|angla:logic, hispana:portugala:lógica, rusa:логика (logika), mandarena:逻辑 (luóji)|
 |**lojia**|scienco|angla:-ology, hispana:-ología, franca:-ologie, rusa:ология (-ologiya), turka:-loji|
 |**loke**|loko|angla:location, hispana:lugar, franca:localisation, + deu:turka:lokal, polona:lokalny|

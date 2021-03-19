@@ -1896,7 +1896,7 @@ loge - słowo (mowa)
 logi - słowny (leksykalny)  
 logia - słownictwo  
 logaslia - etymologia  
-logem - leksem  
+logem - słowo  
 logironia - sarkazm  
 logivi - rozmowny  
 logofiler - logofil (miłośnik słów)  

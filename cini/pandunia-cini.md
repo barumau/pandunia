@@ -78,6 +78,7 @@ ativi - 活性
 Atina - 雅典  
 atlantokade - 大西洋鱈  
 atlantosalmon - 大西洋鮭  
+aven - 燕麦  
 aur - 金  
 autologe - 独白  
 ####B - B  
@@ -608,8 +609,9 @@ linke - 联系
 liste - 单子  
 litre - 升  
 loga - 说话 (讲)  
-loge - 词  
+loge - 语言  
 logia - 词汇  
+logem - 词  
 loka - 放置  
 loke - 地方  
 lon - 论  

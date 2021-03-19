@@ -72,6 +72,7 @@
 |**aute**|self (identity)|Greek:αὐτός (aftós), English:French:Spanish:Portuguese:auto-, Russian:авто- (avto-)|
 |**avakate**|avocado|nah:ahuakatl, Spanish:aguacate, Portuguese:abacate, Filipino:abokado, Japanese:アボカド (abokado), Korean:아보카도 (abokado), French:avocat, Polish:awokado, Kongo:zavoká|
 |**avar**|damage (injury, harm)|Arabic: عَوَارِيَّة‎ (ʿawāriyya), English:(nautical) average, French:avarie, Spanish:avéria, Portuguese:avaria, Russian:авария (avariya), Turkish:avarya|
+|**aven**|oat|French:avoine, Spanish:avena, Portuguese:aveia, Russian:овёс (ovyos), Malay:haver|
 |**Axuria**|Assyria|akk:(aššur), Arabic:(aššur), Hindi:अश्शूर (aśśūr), Persian:(āšūr)|
 |**babe**|chapter (section)|Malay:bab, Arabic:Urdu:Persian:(bāb)|
 |**babuce**|slipper|Arabic: بَابُوج‎ (bābūj), Spanish:babucha, French:babouche, English:babouche|
@@ -465,7 +466,7 @@
 |**harmonia**|harmony|English:harmony, Spanish:armonía, Portuguese:harmonia, French:harmonie, Russian:гармония (garmoniya)|
 |**harnes**|harness|French:harnais, English:harness, Spanish:arnés, Portuguese:arnês|
 |**hasi**|special (distinct)|Arabic:(xāṣṣ), Persian:Urdu:(xās), Hindi:ख़ास (xās), Malay:khas|
-|**hata**|until (til, up to)|Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata|
+|**hata**|until (til, up to)|Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata + Persian: تا‎ (tâ), Hindi:तक (-tak)|
 |**hatre**|danger (peril)|Arabic: خطر‎ (xaṭar), Persian: خطر‎ (xatar), Urdu: خطرہ‎ (xatrā), Hindi:ख़तरा (xatrā), Swahili:hatari, Turkish:muhatara|
 |**hau**|wind|Hindi:हवा (havā), Bengali:হাওয়া (haowa) + Arabic: هَوَاء‎ (hawāʾ), Turkish:hava, Malay:hawa, Swahili:hewa|
 |**he**|huh? (pardon?)|French:Portuguese:hein, Japanese:e|
@@ -751,7 +752,7 @@
 |**liste**|list (listing, catalogue)|English:list, Spanish:Portuguese:lista, Russian:лист (list), deu:French:liste, Persian:(list), Hindi:लिस्ट (lisṭ), Urdu:(lisṭ), Japanese:リスト (risuto)|
 |**litre**|litre (liter)|English:French:Turkish:litre, deu:Malay:liter, Spanish:Portuguese:litro, Russian:литр (litr), Polish:litr, Arabic: لتر‎(litr), Hindi:लीटर (līṭar), Bengali:লিটার (liṭar), Japanese:リットル (rittoru), Korean:리터 (riteo), Vietnamese:lít, Swahili:lita|
 |**lobake**|radish|Mandarin:萝卜 (luóbo), Cantonese:蘿蔔 (lobaak), Malay:lobak|
-|**loge**|word (speech)|Greek:λόγος (logos), English:French:-logue, Spanish:Portuguese:-logo, Russian:-лог (-log), Persian:(loğat), Arabic:(luğa), Hindi:लुग़त (luġat), Swahili:lugha, Turkish:lügat, Malay:logat|
+|**loge**|speech (talk, words)|Greek:λόγος (logos), English:French:-logue, Spanish:Portuguese:-logo, Russian:-лог (-log), Persian:(loğat), Arabic:(luğa), Hindi:लुग़त (luġat), Swahili:lugha, Turkish:lügat, Malay:logat|
 |**logike**|logic (deduction)|English:logic, Spanish:Portuguese:lógica, Russian:логика (logika), Mandarin:逻辑 (luóji)|
 |**lojia**|science (study, research)|English:-ology, Spanish:-ología, French:-ologie, Russian:ология (-ologiya), Turkish:-loji|
 |**loke**|place (location)|English:location, Spanish:lugar, French:localisation, + deu:Turkish:lokal, Polish:lokalny|

@@ -1863,8 +1863,6 @@ level - par
 level down - talo darju  
 level up (graduate) - gaudarju  
 lever - tirbaton  
-lexeme - logem  
-lexical - logi  
 liberal - huristi  
 liberalism - huristia  
 liberalist - huriste  
@@ -2326,6 +2324,7 @@ nylon - nilon
 ####O - O  
 oak tree - balute  
 oasis - oaze  
+oat - aven  
 Oberon - Oberon  
 object (item) - vute  
 object (patient, target) - ite  
@@ -2954,7 +2953,7 @@ savannah - garmozoni cautopia
 save (deposit, bank) - banka  
 savory (umami) - umami  
 saw - ser  
-say (speak) - loga  
+say (speak, talk) - loga  
 scaffolding (gangplank) - futoban  
 scale (flake) - xalke  
 scales (weighing device) - barmetrer  
@@ -3178,6 +3177,7 @@ spearmint - zongominte
 special (distinct) - hasi  
 species - jong  
 spectator (sightseer) - vider  
+speech (talk, words) - loge  
 speed (velocity) - rapidia  
 speedometer - rapidometrer  
 spell (enchantment) - magasar  
@@ -3187,6 +3187,7 @@ spiderweb (cobweb) - arannete
 spiral (helix, corkscrew, twist) - helis  
 spit - tuha  
 split (fall apart) - fenu  
+spoken (lexical) - logi  
 sponge - esponje  
 spoon - camace  
 sport (athletics) - kel  
@@ -3745,7 +3746,7 @@ wonder (be interested in, would like to know) - sauvolu
 wood (timber) - mokomate  
 wood board (plank) - mokoban  
 wool (fleece) - mehi kex  
-word (speech) - loge  
+word (lexeme) - logem  
 work (job, task) - kar  
 work - kara  
 worker - karer  

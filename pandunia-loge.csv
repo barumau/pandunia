@@ -224,6 +224,7 @@ auar:a|avara||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
 auar:i|avari||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
 auar.an:i|avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen (vaurioittava)|krzywdzący (szkodliwy)
 aud:a|auda|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
+auen:|aven|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
 aur:|aur|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold|or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto
 Austral:ia|Australia|dex|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Australia|Australia
 aut:a|auta||||personalize (customize)||personalizar|||||カスタマイズする||||||||||
@@ -1270,7 +1271,7 @@ Hartum:|Hartum|xefsite|SD||Khartoum|Khartoum|Jartum|Cartum|Хартум|الخر
 has:a|hasa||||distinguish||diferenciar (distinguir)||||||||||||||erottaa (nähdä ero)|rozróżniać (rozróżnić)
 has:i|hasi|||ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|special (distinct)||especial (diferenciado, distinto)|||||||||||||speciala|erikoinen (erityinen)|specjalny, wyraźny, wyrazisty
 has:ia|hasia||||distinction (specialty)||especialización (distinción)||||||||||||||erikoisuus|różnica (specjalność)
-hat:a|hata|prep.||por:até, ara:(ḥatta), spa:hasta, swa:hata|until (til, up to)|jusque (jusqu’à)|hasta|até|до||直到|||||||mpaka||ĝis|asti (saakka)|aż do
+hat:a|hata|prep.||por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|until (til, up to)|jusque (jusqu’à)|hasta|até|до||直到|||||||mpaka||ĝis|asti (saakka)|aż do
 hat:o|hato||||even (implying extreme example)|voire (même)|hasta (también)||||连||||और भी|||||eĉ|jopa|nawet
 hatr:e|hatre|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|danger (peril)|danger|peligro|perigo|опасность|خطر‎|危险|危険|위험|nguy hiểm|जोखिम (ख़तरा)|বিপদ|bahaya|hatari|tehlike (muhatara)|danĝero|vaara|zagrożenie, niebezpieczeństwo
 hatr:i|hatri||||dangerous (perilous)||peligroso|||||||||||||danĝera|vaarallinen|niebezpieczny
@@ -2056,12 +2057,12 @@ lit.em:|litem|mate|Li||lithium||litio|||||||||||||litio|litium|lit
 litr:e|litre|||eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|litre (liter)|litre|litro|litro|литр|لتر‎|升|リットル|리터|lít|लीटर|লিটার|liter|lita|litre|litro|litra|litr
 liuermor.em:|livermorem|mate|Lv||livermorium||livermorio||||||||||||||livermorium|liwermor
 lobak:e|lobake|biu|Raphanus raphanistrum|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|radish||rábano|||||||||||||rafaneto|retikka (retiisi)|rzodkiewka
-log:a|loga||||say (speak)|parler|decir (hablar)|falar|говорить|تَكَلَّمَ|说话 (讲)|話す|말하다||बोलना|বলা|berbicara|kuongea||paroli|sanoa (puhua)|mówić, rozmawiać
-log:e|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|word (speech)|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto (parolo)|sana (puhe)|słowo (mowa)
-log:i|logi||||lexical|lexical|léxico|léxico|лексический||||||||||||sanallinen|słowny (leksykalny)
+log:a|loga||||say (speak, talk)|parler|decir (hablar)|falar|говорить|تَكَلَّمَ|说话 (讲)|話す|말하다||बोलना|বলা|berbicara|kuongea||paroli|sanoa (puhua)|mówić, rozmawiać
+log:e|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|speech (talk, words)|parole (mots)|habla (palabras)|fala (palavras)|речь||语言|演説|말|ngôn từ|बात (बोल)|জবান|||söz|parolo|puhe (sanat)|słowo (mowa)
+log:i|logi||||spoken (lexical)|lexical|léxico|léxico|лексический|||||||||||vorta|sanallinen (puhuttu)|słowny (leksykalny)
 log:ia|logia||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
 log.asl:ia|logaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
-log.em:|logem||||lexeme||lexema||||||||||||||lekseemi|leksem
+log.em:|logem||||word (lexeme)|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
 log.iron:ia|logironia||||verbal irony (sarcasm)|||||||||||||||||sarkazm
 log.iu:i|logivi||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
 log.o.fil:ia|logofilia||||logophilia||||||||||||||||logofilia|

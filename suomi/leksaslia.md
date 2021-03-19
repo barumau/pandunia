@@ -69,6 +69,7 @@
 |**aute**|itseys|kreikka:αὐτός (aftós), englanti:ranska:espanja:portugali:auto-, venäjä:авто- (avto-)|
 |**avakate**|avokado|nah:ahuakatl, espanja:aguacate, portugali:abacate, filippiini:abokado, japani:アボカド (abokado), korea:아보카도 (abokado), ranska:avocat, puola:awokado, Kongo:zavoká|
 |**avar**|vaurio (vahinko, haveri)|arabia: عَوَارِيَّة‎ (ʿawāriyya), englanti:(nautical) average, ranska:avarie, espanja:avéria, portugali:avaria, venäjä:авария (avariya), turkki:avarya|
+|**aven**|kaura|ranska:avoine, espanja:avena, portugali:aveia, venäjä:овёс (ovyos), malaiji:haver|
 |**Axuria**|Assyria|akk:(aššur), arabia:(aššur), hindi:अश्शूर (aśśūr), persia:(āšūr)|
 |**babe**|luku (kirjan osa)|malaiji:bab, arabia:urdu:persia:(bāb)|
 |**babuce**|tohveli|arabia: بَابُوج‎ (bābūj), espanja:babucha, ranska:babouche, englanti:babouche|
@@ -455,7 +456,7 @@
 |**harmonia**|harmonia|englanti:harmony, espanja:armonía, portugali:harmonia, ranska:harmonie, venäjä:гармония (garmoniya)|
 |**harnes**|valjaat|ranska:harnais, englanti:harness, espanja:arnés, portugali:arnês|
 |**hasi**|erikoinen (erityinen)|arabia:(xāṣṣ), persia:urdu:(xās), hindi:ख़ास (xās), malaiji:khas|
-|**hata**|asti (saakka)|portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata|
+|**hata**|asti (saakka)|portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata + persia: تا‎ (tâ), hindi:तक (-tak)|
 |**hatre**|vaara|arabia: خطر‎ (xaṭar), persia: خطر‎ (xatar), urdu: خطرہ‎ (xatrā), hindi:ख़तरा (xatrā), suahili:hatari, turkki:muhatara|
 |**hau**|tuuli (puhallus)|hindi:हवा (havā), bangla:হাওয়া (haowa) + arabia: هَوَاء‎ (hawāʾ), turkki:hava, malaiji:hawa, suahili:hewa|
 |**he**|häh?|ranska:portugali:hein, japani:e|
@@ -710,7 +711,7 @@
 |**liste**|lista (luettelo)|englanti:list, espanja:portugali:lista, venäjä:лист (list), deu:ranska:liste, persia:(list), hindi:लिस्ट (lisṭ), urdu:(lisṭ), japani:リスト (risuto)|
 |**litre**|litra|englanti:ranska:turkki:litre, deu:malaiji:liter, espanja:portugali:litro, venäjä:литр (litr), puola:litr, arabia: لتر‎(litr), hindi:लीटर (līṭar), bangla:লিটার (liṭar), japani:リットル (rittoru), korea:리터 (riteo), vietnami:lít, suahili:lita|
 |**lobake**|retikka (retiisi)|yleiskiina:萝卜 (luóbo), kantoninkiina:蘿蔔 (lobaak), malaiji:lobak|
-|**loge**|sana (puhe)|kreikka:λόγος (logos), englanti:ranska:-logue, espanja:portugali:-logo, venäjä:-лог (-log), persia:(loğat), arabia:(luğa), hindi:लुग़त (luġat), suahili:lugha, turkki:lügat, malaiji:logat|
+|**loge**|puhe (sanat)|kreikka:λόγος (logos), englanti:ranska:-logue, espanja:portugali:-logo, venäjä:-лог (-log), persia:(loğat), arabia:(luğa), hindi:लुग़त (luġat), suahili:lugha, turkki:lügat, malaiji:logat|
 |**logike**|logiikka|englanti:logic, espanja:portugali:lógica, venäjä:логика (logika), yleiskiina:逻辑 (luóji)|
 |**lojia**|tiede (tutkimus)|englanti:-ology, espanja:-ología, ranska:-ologie, venäjä:ология (-ologiya), turkki:-loji|
 |**loke**|paikka (sija, sijainti)|englanti:location, espanja:lugar, ranska:localisation, + deu:turkki:lokal, puola:lokalny|

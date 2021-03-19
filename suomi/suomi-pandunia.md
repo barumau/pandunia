@@ -970,6 +970,7 @@ kauneus - sundaria
 kaunis (komea, sievä) - sundari  
 kaupunki - nagre  
 kaupunki - site  
+kaura - aven  
 Kazakstan - Kazakia  
 kebab (grilliliha) - kababi manse  
 kehitys - darjomute  
@@ -1369,7 +1370,6 @@ leipomo - bekokan
 leipuri - beker  
 leipä - pang  
 leiri - kampe  
-lekseemi - logem  
 lempi (romanssi, rakkaus) - romansia  
 lento - fei  
 lentoasema (lentokenttä) - airporte  
@@ -2174,6 +2174,7 @@ Puerto Rico - Portorikia
 puertoricolainen - portoriki  
 puhdas (siivo, siisti) - safi  
 puhdistaa (siivota) - safa  
+puhe (sanat) - loge  
 puhelias - logivi  
 puhelin - telfon  
 puhelintekniikka - telfonia  
@@ -2402,8 +2403,8 @@ Sambia - Zambia
 sammal - mos  
 Samoa - Samoa  
 San Marino - Santi Marino  
-sana (puhe) - loge  
-sanallinen - logi  
+sana - logem  
+sanallinen (puhuttu) - logi  
 sanaluettelo - logoliste  
 sanasto - logia  
 sankari (urho) - vir  

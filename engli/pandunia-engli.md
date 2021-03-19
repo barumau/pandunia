@@ -222,6 +222,7 @@ avara - harm (damage)
 avari - damaged (corrupt)  
 avarani - harmful (damaging)  
 auda - hear (listen)  
+aven - oat  
 aur - gold  
 Australia - Australia  
 auta - personalize (customize)  
@@ -2048,12 +2049,12 @@ litem - lithium
 litre - litre (liter)  
 livermorem - livermorium  
 lobake - radish  
-loga - say (speak)  
-loge - word (speech)  
-logi - lexical  
+loga - say (speak, talk)  
+loge - speech (talk, words)  
+logi - spoken (lexical)  
 logia - vocabulary (lexicon)  
 logaslia - etymology  
-logem - lexeme  
+logem - word (lexeme)  
 logironia - verbal irony (sarcasm)  
 logivi - talkative  
 logofilia - logophilia  

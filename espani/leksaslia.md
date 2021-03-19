@@ -70,6 +70,7 @@
 |**aute**|mismo (yo)|ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|
 |**avakate**|aguacate|nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|
 |**avar**|daño (corrupción)|ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|
+|**aven**|avena|fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|
 |**Axuria**|Asiria|akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr)|
 |**babe**|capítulo (sección)|may:bab, ara:urd:fas:(bāb)|
 |**babuce**|chinelo (pantufa)|ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
@@ -454,7 +455,7 @@
 |**harmonia**|armonía|eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)|
 |**harnes**|arnés (arreos, jaeces)|fra:harnais, eng:harness, spa:arnés, por:arnês|
 |**hasi**|especial (diferenciado, distinto)|ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|
-|**hata**|hasta|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|**hata**|hasta|por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|
 |**hatre**|peligro|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**hau**|viento|hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa|
 |**he**|cómo? (eh?)|fra:por:hein, jpn:e|
@@ -729,7 +730,7 @@
 |**liste**|lista|eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|
 |**litre**|litro|eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|
 |**lobake**|rábano|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|
-|**loge**|palabra (vocablo)|ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|
+|**loge**|habla (palabras)|ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|
 |**logike**|lógica|eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)|
 |**lojia**|ciencia (estudia, investigación)|eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji|
 |**loke**|lugar|eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|

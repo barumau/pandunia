@@ -178,8 +178,8 @@ In Pandunia, function words have the following characteristics:
 |  |               | you                | your               |                    |                    |                    |
 | 3| 3rd person    | **le**             | **li**             |                    |                    |                    |
 |  |               | he, she, it        | his, her, its      |                    |                    |                    |
-| 4| Reflexive     | **se**             | **si**             |                    |**sa**              |                    |
-|  |               | ~self              | one's own          |                    |to be; as a         |                    |
+| 4| Reflexive     | **se**             | **si**             |                    | **sa**             |                    |
+|  |               | ~self              | one's own          |                    | to be; as a        |                    |
 | 5| Interrogative | **ke**             | **ki**             | **ko**             | **ka**             |                    |
 |  |               | what?              | which?             | how?               | than, as           |                    |
 | 6| Anaphoric     | **de**             | **di**             | **do**             | **da**             | **du**             |

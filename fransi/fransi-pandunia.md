@@ -156,6 +156,7 @@ avec (avoir) - ya
 aventure - ventur  
 aventurier - venturer  
 avocat - avakate  
+avoine - aven  
 avoir besoin de - yavu  
 avoir tendance à - iva  
 axe - akse  
@@ -778,7 +779,7 @@ mordre - danta
 morue - kade  
 morue de l'Atlantique - atlantokade  
 morue du Pacifique - pacokade  
-mot - loge  
+mot - logem  
 moteur - moter  
 mouche - domzeze  
 moudre - mola  
@@ -902,6 +903,7 @@ parc - parke
 pardonner - mafa  
 Paris - Paris  
 parler - loga  
+parole (mots) - loge  
 parti - kiti  
 passeport - pasporte  
 passer - dura  

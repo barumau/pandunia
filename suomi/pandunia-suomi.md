@@ -205,6 +205,7 @@ avara - vahingoittaa (vaurioittaa)
 avari - vaurioitunut  
 avarani - vahingollinen (vaurioittava)  
 auda - kuulla (kuunnella)  
+aven - kaura  
 aur - kulta  
 Australia - Australia  
 aute - itseys  
@@ -1832,11 +1833,11 @@ litre - litra
 livermorem - livermorium  
 lobake - retikka (retiisi)  
 loga - sanoa (puhua)  
-loge - sana (puhe)  
-logi - sanallinen  
+loge - puhe (sanat)  
+logi - sanallinen (puhuttu)  
 logia - sanasto  
 logaslia - etymologia  
-logem - lekseemi  
+logem - sana  
 logivi - puhelias  
 logofilia - logofilia  
 logofiler - logofiili  

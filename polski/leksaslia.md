@@ -453,7 +453,7 @@
 |**harmonia**|harmonia|eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)|
 |**harnes**|zaprzęc, zaprzęgać|fra:harnais, eng:harness, spa:arnés, por:arnês|
 |**hasi**|specjalny, wyraźny, wyrazisty|ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas|
-|**hata**|aż do|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|**hata**|aż do|por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|
 |**hatre**|zagrożenie, niebezpieczeństwo|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**hau**|wiatr|hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa|
 |**he**|hę?, co?, pardon?|fra:por:hein, jpn:e|

@@ -86,6 +86,7 @@ Atenas - Atina
 ativo - ativi  
 ato - ate  
 até - hata  
+aveia - aven  
 aventura - ventur  
 aventureiro - venturer  
 azur (blau) - lazuri  
@@ -384,6 +385,7 @@ exército - gun
 ####F - F  
 face (faceta) - fas  
 fadiga - fatigia  
+fala (palavras) - loge  
 falar - loga  
 farol (baliza) - fotominar  
 fato (facto) - fate  
@@ -716,7 +718,7 @@ pacto - kontrate
 padeiro - beker  
 pai - pape  
 painel - ban  
-palavra (vocábulo) - loge  
+palavra (vocábulo) - logem  
 palácio (mansão, palacete) - daidom  
 panda - pande  
 pandemia - pandemi patia  

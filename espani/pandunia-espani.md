@@ -195,6 +195,7 @@ avara - dañar
 avari - dañado  
 avarani - dañino (perjudicial)  
 auda - oír (escuchar)  
+aven - avena  
 aur - oro  
 Australia - Australia  
 auta - personalizar  
@@ -1887,11 +1888,11 @@ litre - litro
 livermorem - livermorio  
 lobake - rábano  
 loga - decir (hablar)  
-loge - palabra (vocablo)  
+loge - habla (palabras)  
 logi - léxico  
 logia - vocabulario (léxico)  
 logaslia - etimología  
-logem - lexema  
+logem - palabra (vocablo)  
 logivi - hablador (locuaz)  
 logoliste - disionario (lexicón)  
 logike - lógica  

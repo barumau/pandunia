@@ -81,6 +81,7 @@ Atina - Афины
 atlantokade - Атлантическая треска  
 atlantosalmon - Атлантический лосось (сёмга)  
 avar - повреждение (авария)  
+aven - овёс  
 aur - золото (аурум)  
 autologe - монолог  
 ####B - B  
@@ -660,10 +661,11 @@ linke - связь (ссылка)
 liste - список  
 litre - литр  
 loga - говорить  
-loge - слово  
+loge - речь  
 logi - лексический  
 logia - словарь  
 logaslia - этимология  
+logem - слово (речь)  
 loka - ставить  
 loke - место  
 longo - далеко  
