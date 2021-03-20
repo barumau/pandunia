@@ -49,12 +49,18 @@ The agent and patient are arranged around the verb as depicted in the figure bel
     │   Agent    │◀──────┤   Patient  │
     └────────────┘       └────────────┘
 
-There can be only one verb, one agent, and one patient.
-Therefore it is possible to put them in exactly three different orders:
+There can be only one verb, one agent, and one patient
+one after another in a sentence.
+The word order cycle is unfolded by removing one of the three arrows.
+This results into following three word orders:
 
 1. Agent – verb – patient
 2. Patient – agent – verb
 3. Verb – patient – agent
+
+If there is a word immediately before the verb, it is the agent.
+If there is a word immediately after the verb, it is the patient.
+
 
 #### Order A-1: Agent, verb and patient
 
@@ -136,6 +142,8 @@ Therefore it is possible to put them in exactly three different orders:
 2. Agent – patient – verb
 3. Verb – agent – patient
 
+The arguments of patient-oriented verbs are exactly in the opposite order
+compared to agent-oriented verbs.
 
 #### Order U-1: Patient, verb and agent
 
