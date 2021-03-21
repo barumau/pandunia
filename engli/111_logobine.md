@@ -184,10 +184,10 @@ In Pandunia, function words have the following characteristics:
 |  |               | what?              | which?             | how?               | than, as           |                    |
 | 6| Anaphoric     | **de**             | **di**             | **do**             | **da**             | **du**             |
 |  |               | this/that, which   | the/this/that      | like this/that     | of, like           | 's, -like          |
-| 7| Negation      | **ne**             | **ni**             | **no**             | **na**             |                    |
+| 7| Exclusion     | **ne**             | **ni**             | **no**             | **na**             |                    |
 |  |               | none               | no, not any        | not                | lack; without      |                    |
-| 8| Affirmation   | **ye**             |                    | **yo**             | **ya**             |                    |
-|  |               | yes                |                    | yes, indeed        | have; with         |                    |
+| 8| Inclusion     | **ye**             | **yi**             | **yo**             | **ya**             |                    |
+|  |               | something          | some               | yes, indeed        | have; with         |                    |
 | 9| Location      |                    |                    |                    | **va**             |                    |
 |  |               |                    |                    |                    | at, in, on         |                    |
 |10| Destination   |                    |                    |                    | **pa**             |                    |
