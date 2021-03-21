@@ -38,16 +38,7 @@ Verbs that end in **-a** are called _agent-oriented verbs_
 because the agent comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-    Figure. Word order cycle for A-verbs (the verbs that end in -a).
-    
-               ┌────────────┐
-          ┌───▶│   A-verb   ├───┐
-          │    └────────────┘   │
-          │                     │
-          │                     ▼
-    ┌─────┴──────┐       ┌────────────┐
-    │   Agent    │◀──────┤   Patient  │
-    └────────────┘       └────────────┘
+![](http://www.pandunia.info/grafe/agent-verb-patient.png "Agent-verb-patient cycle")
 
 There can be only one verb, one agent, and one patient
 one after another in a sentence.
@@ -67,16 +58,6 @@ If there is a word immediately after the verb, it is the patient.
 The most common word order in Pandunia is agent–verb–patient.
 It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
-
-               ┌────────────┐
-          ┌───▶│   A-verb   ├───┐
-          │    └────────────┘   │
-          │                     │
-          │                     ▼
-    ┌─────┴──────┐       ┌────────────┐
-    │   Agent    │       │   Patient  │
-    └────────────┘       └────────────┘
-
 Examples:  
 **me vida lole.**
 – I see them.  
@@ -87,15 +68,6 @@ Examples:
 
 The second order is patient–agent–verb.
 It is frequent in dependant clauses.
-
-               ┌────────────┐
-          ┌───▶│   A-verb   │
-          │    └────────────┘
-          │
-          │
-    ┌─────┴──────┐       ┌────────────┐
-    │   Agent    │◀──────┤   Patient  │
-    └────────────┘       └────────────┘
 
 Examples:  
 **ke te vida?**
@@ -108,14 +80,6 @@ Examples:
 The third order is the verb-patient-agent, which is rarely used.
 It is described here only for the sake of completeness.
 
-               ┌────────────┐
-               │   A-verb   ├───┐
-               └────────────┘   │
-                                │
-                                ▼
-    ┌────────────┐       ┌────────────┐
-    │   Agent    │◀──────┤   Patient  │
-    └────────────┘       └────────────┘
 
 
 ### Patient-oriented verbs
@@ -124,16 +88,7 @@ Verbs that end in **-u** are called _patient-oriented verbs_
 because the patient comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-    Figure. Word order sequence for U-verbs (the verbs that end in -u).
-    
-               ┌────────────┐
-          ┌────┤   U-verb   │◀──┐
-          │    └────────────┘   │
-          │                     │
-          ▼                     │
-    ┌────────────┐       ┌──────┴─────┐
-    │   Agent    ├──────▶│   Patient  │
-    └────────────┘       └────────────┘
+![](http://www.pandunia.info/grafe/patient-verb-agent.png "Patient-verb-agent cycle")
 
 There can be only one verb, one agent, and one patient.
 Therefore it is possible to put them in exactly three different orders:
@@ -149,15 +104,6 @@ compared to agent-oriented verbs.
 
 The patient-verb-agent order is common in the passive voice,
 where the focus is on the passive recipient of the action.
-
-               ┌────────────┐
-          ┌────┤   U-verb   │◀──┐
-          │    └────────────┘   │
-          │                     │
-          ▼                     │
-    ┌────────────┐       ┌──────┴─────┐
-    │   Agent    │       │   Patient  │
-    └────────────┘       └────────────┘
 
 Often they can be translated to English by using the passive voice or an intransitive verb
 but sometimes a transitive verb can be used too.
@@ -175,15 +121,6 @@ Examples:
 The agent–patient–verb order is a possible alternative for the agent–verb–patient order.
 It is used in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
-               ┌────────────┐
-               │   U-verb   │◀──┐
-               └────────────┘   │
-                                │
-                                │
-    ┌────────────┐       ┌──────┴─────┐
-    │   Agent    ├──────▶│   Patient  │
-    └────────────┘       └────────────┘
-
 Examples:  
 **me lole vidu.** - _I them see._  
 **te pang beku.** - _You bread bake._
@@ -193,14 +130,6 @@ Examples:
 The verb–agent–patient order is very rare but possible.
 It is described here only for the sake of completeness.
 
-               ┌────────────┐
-          ┌────┤   U-verb   │
-          │    └────────────┘
-          │
-          ▼
-    ┌────────────┐       ┌────────────┐
-    │   Agent    ├──────▶│   Patient  │
-    └────────────┘       └────────────┘
 
 
 ### Stative verbs
