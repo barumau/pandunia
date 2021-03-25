@@ -442,96 +442,12 @@ So a modifier phrase with and without **du** can mean a different thing.
 #### Modification with verb phrases
 
 Verbs and verb phrases are turned into modifiers by placing **da** or **du** immediately next to the verb.
-The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
 
-A declarative phrase:  
-**mau vidu me.**
-– A cat is seen by me.
+**arte da penta graf**
+– the art of painting pictures  
+**suke da helpa ale**
+– the joy of helping others
 
-The corresponding modifying phrase:  
-**mau da vidu me**
-– the cat that is _seen by me_
-
-Note! Although **da** seems to have a similar role here as English relative pronouns _which_, _that_, _who_ and _whom_,
-it's still nothing more than a particle connecting a modifier (in this case: a verb phrase) to the modified.
-
-The opposite word order is made with **du** and the verb ending in **-a**.
-
-A declarative phrase:  
-**me vida mau.**
-– I see a cat.
-
-The corresponding modifying phrase:  
-**me vida du mau**
-– _My seen_ cat i.e. the cat _that I see_
-
-Pay attention to the final vowels! They are crucial for the meaning!
-
-**mau da vidu man**
-– the cat that _is seen_ by the man  
-**mau da vida man**
-– the cat that _sees_ the man  
-**mau vida du man**
-– the _cat-seen_ man  
-**mau vidu du man**
-– the _cat-seeing_ man
-
-Note! In Pandunia, words can be put in many different orders.
-That's why some translations sound clumsy in English although the original phrases are perfectly natural in Pandunia.
-
-#### Modification with adposition phrases
-
-The modified noun can be part of an adposition phrase too.
-
-**me safara pa du site sa teli.**
-– My destination city is far away.
-
-With the modified noun at the beginning, we need to call into action the otherwise rarely used postpositions
-**nu**, **cu**, **su**, and **pu**.
-
-**site da pu me safara si teli.**
-– The city I’m traveling to is far away.  
-**di kalam da su me zayo kitaba sa novi.**
-– This pen, with which I’m writing now, is new.
-
-#### 9.2.5. Modification with clauses
-
-Any clause can modify a noun in the same manner: the modified noun is moved to the beginning of the modifying clause
-and separated out with **da**, or moved to the end and separated out with **du**.
-
-**me soka me paso abla laxa du eni xei.**
-– I'm looking for anything I might have left behind.
-
-In more complex cases, it can become challenging to maneuver the noun to the end of the clause. In these cases, the
-word order may be relaxed as long as it is clear where in the modifying clause the noun goes. Note, however, that it
-may be more understandable to simply rearrange the sentence entirely.
-
-**lole namana loke da me no abla eureka va karte.**
-– They named a place I couldn't find on the map.
-**me cana table da jan. me raya mome xudu eska lole tema liga momi partia.**
-– I've tabulated the people that I think we should ask about joining our party.
-
-### Modal Particles
-
-Modal particles indicate what the speaker thinks about s/he says in relation to the listener.
-Modal particles are commonly used in many languages.
-East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
-
-In Pandunia, a modal particle modifies the subsequent word, or the whole sentence,
-when the modal particle is the last word in the sentence.
-
-The particle **plus** _(also)_ is a good example because it functions much like in English.
-
-**le yama bir plus.**
-– S/he drinks beer, _also_.  
-**le yama plus bir.**
-– S/he drinks _also beer_.  
-**le plus yama bir.**
-– S/he _also drinks_ beer.  
-**plus le yama bir.**
-– _Also s/he_ drinks beer.
-
-Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
 
 ### Tense and Aspect Particles
