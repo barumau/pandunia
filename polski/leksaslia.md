@@ -508,6 +508,7 @@
 |**janger**|rzemieślnik|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
 |**jangle**|las, dżungla, zagajnik|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
 |**jar**|dzban, dzbanek; słój, słoik|eng:jar, ara:(jara), por:spa:jarra|
+|**jau**|jęczmień|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|
 |**javabe**|odpowiedź, odzew|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|
 |**jebe**|kieszeń|hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba|
 |**jebria**|algebra|ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre|
@@ -612,8 +613,8 @@
 |**kioske**|kiosk|fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|
 |**kir**|wynająć, wynajmować, zatrudnić, zatrudniać|ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|
 |**kirate**|karat|metrun|
+|**kita**|iść (przemieścić się)|fra:quitter, tur:gitmek, spa:quitar|
 |**kitabe**|pismo, tekst|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
-|**kitu**|iść (przemieścić się)|fra:quitter, tur:gitmek, spa:quitar|
 |**kivi***|owoc kiwi|eng:fra:spa:may:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi|
 |**klari**|przeźroczysty, jasny|deu:klar, spa:por:claro, eng:clear, fra:clair|
 |**klas**|klasa, kategoria|eng:class, spa:clase, por:fra:classe, rus:класс (klass), کلاس‎ (kelâs), may:kelas, jpn:クラス (kurasu)|

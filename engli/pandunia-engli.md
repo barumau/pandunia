@@ -272,6 +272,7 @@ balon - balloon
 balonpex - pufferfish  
 balute - oak tree  
 balutopal - acorn  
+bamye - okra (okro)  
 ban - board (pane, panel)  
 bangem - board game  
 banan - banana  
@@ -1497,6 +1498,7 @@ jangi - crafty (dexterous)
 janger - artisan (craftsman)  
 jangle - forest (woods, jungle)  
 jar - jug (jar, pitcher)  
+jau - barley  
 javaba - respond (give an answer)  
 javabe - answer (reply, response)  
 jaze - jazz  
@@ -1761,9 +1763,9 @@ kirate - carat
 Kirgizia - Kyrgyzstan  
 Kiribati - Kiribati  
 kirili harfia - Cyrillic alphabet  
-kita - remove (take away)  
+kita - go (move away)  
 kiti - gone (away)  
-kitu - go (move away)  
+kitana - remove (take away)  
 kitaba - write  
 kitabe - writing (text)  
 kitabia - literature (body of written works)  
@@ -3231,6 +3233,9 @@ Slovenia - Slovenia
 sofi - wise  
 sofia - wisdom  
 sofa\* - sofa (couch)  
+soi - soy bean  
+soimilke - soy milk  
+soisaus - soy sauce  
 soka - search (seek, look for)  
 sol - sun  
 solcate - parasol  

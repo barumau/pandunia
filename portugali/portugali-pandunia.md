@@ -198,6 +198,7 @@ cerca - kenarbaryer
 cereja - cerize  
 cerveja - bir  
 cerâmico - seram  
+cevada - jau  
 Champagne - Xampan  
 champaña - Xampan vin  
 chance - canse  
@@ -497,7 +498,7 @@ insônia - ansomia
 internacional - nasmedi  
 invernal (hibernal) - lengomosimi  
 inverno - lengomosim  
-ir - kitu  
+ir - kita  
 ironia - ironia  
 islã - islamistia  
 item - vute  
@@ -531,6 +532,7 @@ laranja - oranje
 lasanha - lazanye  
 latéral - lati  
 leite - milke  
+leite de soja - soimilke  
 lembrar-se (recordar-se) - mema  
 lente - lense  
 lento - lenti  
@@ -627,6 +629,7 @@ moldura - frem
 molestar (perturber) - turba  
 molhado - xipi  
 molhar - xipa  
+molho de soja - soisaus  
 monção - barxomosim  
 monóculo - unoki lense  
 monólogo - autologe  
@@ -823,6 +826,7 @@ querer (desejar) - volu
 querido (caro) - ami  
 querido - amike  
 questão (pergunta) - eske  
+quiabo - bamye  
 quimono - kimono\*  
 quincã (cunquate) - kankuate  
 quinta-feira - caryom  
@@ -840,7 +844,7 @@ refugo (escória) - laje
 relier (connecter) - linka  
 religião - din  
 relógio - horloger  
-remover - kita  
+remover - kitana  
 reparador - reiboner  
 reparar - reibona  
 reparo - reibon  
@@ -913,6 +917,7 @@ simétrico - sammetri
 sino (campainha) - danger  
 situaçao - xeihal  
 sociedade - sosia  
+soja - soi  
 sol - sol  
 soldado - gunjan  
 som - son  

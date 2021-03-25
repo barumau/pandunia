@@ -97,6 +97,7 @@ bali - 八 (8)
 balsenter - 章鱼  
 balibali - 各种各样  
 balute - 橡树 (xiàng)  
+bamye - 秋葵  
 ban - 板子  
 bangem - 版图游戏  
 banan - 香蕉  
@@ -433,6 +434,7 @@ janel - 窗戶
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
 jangle - 森林  
+jau - 大麦  
 javabe - 回答  
 jeka - 借  
 jekodona - 借出  
@@ -514,8 +516,8 @@ kimlojia - 化学
 kimono\* - 和服  
 kina - 动  
 kinu - 动  
-kita - 除去  
-kitu - 去  
+kita - 去  
+kitana - 除去  
 kitaba - 写  
 kitabia - 文学  
 kitabokan - 图书馆  
@@ -899,6 +901,9 @@ sisi - 六 (6)
 sisyom - 星期六 (礼拜六)  
 sofia - 智慧  
 sofa\* - 沙发  
+soi - 大豆 (黄豆)  
+soimilke - 豆浆  
+soisaus - 酱油  
 soka - 寻找  
 sol - 太阳  
 solful - 向日葵  

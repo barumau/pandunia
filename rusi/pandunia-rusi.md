@@ -99,6 +99,7 @@ bali - восемь (8)
 balsenter - спрут (осьминог)  
 balonpex - иглобрюховые  
 balute - дуб  
+bamye - окра (бамия)  
 ban - доска (панель)  
 bangem - настольная игра  
 banan - банан  
@@ -476,6 +477,7 @@ jagu - проснуться
 jamul - джамболан  
 janel - окно  
 jangle - лес (джунгли)  
+jau - ячмень  
 javabe - ответ  
 jena - родить  
 jeni - сырой  
@@ -563,7 +565,7 @@ kinu - двигаться
 kingraf - фильм (кино)  
 kir - аренда  
 kirgeta - арендовать  
-kitu - идти  
+kita - идти  
 kitaba - писать  
 kitabe - письмо  
 kitabia - литература (словесность)  
@@ -1006,6 +1008,9 @@ sisyom - суббота
 slavi - славянский  
 sofia - мудрость  
 sofa\* - софа (диван, канапе)  
+soi - соя  
+soimilke - соевое молоко  
+soisaus - соевый соус  
 soka - искать  
 sol - солнце  
 solcate - зонтик от солнца  

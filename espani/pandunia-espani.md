@@ -244,6 +244,7 @@ balon - globo
 balonpex - pez globo  
 balute - roble  
 balutopal - bellota  
+bamye - ocra  
 bangem - juego de mesa  
 banan - plátano (banana)  
 bande - banda  
@@ -1374,6 +1375,7 @@ janel - ventana
 janger - artesano  
 jangle - bosque (jungla, selva)  
 jar - jarra  
+jau - cebada  
 javaba - responder (contestar)  
 javabe - repuesta (contestación)  
 jaze - jazz  
@@ -1620,8 +1622,8 @@ kirate - quilate
 Kirgizia - Kirguizistán  
 Kiribati - Kiribati  
 kirili harfia - alfabeto cirílico  
-kita - quitar (remover)  
-kitu - ir  
+kita - ir  
+kitana - quitar (remover)  
 kitaba - escribir  
 kitabe - escritura  
 kitabia - literatura  
@@ -2997,6 +2999,9 @@ Slovenia - Eslovenia
 sofi - sabio  
 sofia - sabiduría  
 sofa\* - sofá  
+soi - soja  
+soimilke - leche de soja  
+soisaus - salsa de soja  
 soka - buscar  
 sol - sol  
 solcate - parasol  

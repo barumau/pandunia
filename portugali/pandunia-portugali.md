@@ -94,6 +94,7 @@ bali - oito (8)
 balsenter - polvo  
 balibali - vários  
 balute - carvalho  
+bamye - quiabo  
 ban - painel  
 bangem - jogo de tabuleiro  
 banan - banana  
@@ -423,6 +424,7 @@ jamul - jambolão (jambo)
 jan - pessoa  
 janel - janela  
 jangle - selva (floresta, jângal)  
+jau - cevada  
 javabe - resposta  
 jeka - emprestar (pedir emprestado)  
 jekodona - emprestar  
@@ -503,8 +505,8 @@ kimlojia - química
 kimono\* - quimono  
 kina - mover  
 kinu - Mover-se  
-kita - remover  
-kitu - ir  
+kita - ir  
+kitana - remover  
 kitaba - escrevere  
 kitabe - escrita  
 kitabia - literatura  
@@ -901,6 +903,9 @@ sisyom - sábado
 site - cidade  
 slavi - eslavo  
 sofia - sabedoria (sagacidade, sapiência)  
+soi - soja  
+soimilke - leite de soja  
+soisaus - molho de soja  
 soka - buscar (procurar)  
 sol - sol  
 solcate - sombrinha  

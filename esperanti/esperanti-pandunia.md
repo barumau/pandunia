@@ -608,6 +608,7 @@ homo - insan
 Honduro - Onduras  
 honoro (respekto) - onor  
 honto - xarme  
+hordeo - jau  
 horloĝo - horloger  
 hormono - hormon  
 horo - hor  
@@ -647,7 +648,7 @@ io - koi xei
 iono - iyon  
 Irakio - Irakia  
 Iranio - Iran  
-iri - kitu  
+iri - kita  
 iridio - iridem  
 islama - islamisti  
 islamo - islamistia  
@@ -1478,6 +1479,9 @@ socio - sosia
 sofo - kanape  
 sofo - sofa\*  
 soifo - suiyau  
+sojlakto - soimilke  
+sojo - soi  
+sojsaŭco - soisaus  
 sola (ununura) - uniki  
 soldato - gunjan  
 sole (nur) - uniko  

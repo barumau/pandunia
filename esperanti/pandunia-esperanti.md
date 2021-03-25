@@ -808,6 +808,7 @@ janel - fenestro
 janelfrem - fenestrokadro  
 janger - metiisto  
 jangle - arbaro  
+jau - hordeo  
 javaba - respondi  
 javabe - respondo  
 jebe - poŝo  
@@ -929,7 +930,7 @@ kimlojia - ĥemio (kemio)
 kimono\* - kimono  
 kina - movi  
 kinu - moviĝi  
-kitu - iri  
+kita - iri  
 kitabe - skribo  
 kitabia - literaturo  
 kitabokan - librejo  
@@ -1546,6 +1547,9 @@ site - urbo
 sofi - saĝa  
 sofia - saĝeco  
 sofa\* - sofo  
+soi - sojo  
+soimilke - sojlakto  
+soisaus - sojsaŭco  
 sol - suno  
 solcate - sunombrelo  
 solsistem - sunsistemo  

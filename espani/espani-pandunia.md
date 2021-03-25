@@ -589,6 +589,7 @@ caña de azúcar - sukarcau
 cañonear - daipaver  
 cañón (barranco, quebrada) - kanyon  
 cañón - daipau  
+cebada - jau  
 cebolla - piaze  
 cebra - zebre  
 celebración (fiesta) - feste  
@@ -1725,7 +1726,7 @@ invitar - pliza laya
 inyección - jux  
 inyectar - juxa  
 ion - iyon  
-ir - kitu  
+ir - kita  
 ir a (en el futuro) - vilo  
 ira (furia) - furia  
 Iraq - Irakia  
@@ -1853,6 +1854,7 @@ leal (fiel) - yauxinabli
 lealtad (fidelidad) - yauxinablia  
 lección - xul  
 leche - milke  
+leche de soja - soimilke  
 lecho de roca - bazopetre  
 lechuga - letis  
 leer - duga  
@@ -2343,6 +2345,7 @@ occidental - vesti
 Oceanía - Oceania  
 ocelote - oselote  
 ocho (8) - bali  
+ocra - bamye  
 octubre - desmes  
 ocular - oki  
 ocultar (esconder) - sira  
@@ -2778,7 +2781,7 @@ quimono - kimono\*
 quiosco (kiosco) - kioske  
 quitar (eliminar, borrar) - anzaya  
 quitar (pelar) - tira pil  
-quitar (remover) - kita  
+quitar (remover) - kitana  
 quién - ki jan  
 qué - ke  
 qué tipo de - ki yangi  
@@ -2967,6 +2970,7 @@ salmón del Atlántico - atlantosalmon
 salmón rojo - lalsalmon  
 salmón rosado - rozosalmon  
 salsa - saus  
+salsa de soja - soisaus  
 saltar (brincar) - jampa  
 salud - sih  
 saludable - sihi  
@@ -3085,6 +3089,7 @@ sociedad - sosia
 sodio - natrem  
 sofá - kanape  
 sofá - sofa\*  
+soja - soi  
 sol - sol  
 Solamilandia - Somaldex  
 soldado - gunjan  

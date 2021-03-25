@@ -91,6 +91,7 @@
 |**balibali**|various (diverse, miscellaneous)|English:various, Spanish:vario, Portuguese:vário, Japanese:とりどり (toridori), Bengali:বিবিধ (bibidha), Malay:berbagai-bagai, Swahili:balimbali|
 |**balon**|balloon|French:ballon, Turkish:Malay:Polish:balon, English:balloon, Filipino:balun, Hausa:balân|
 |**balute**|oak tree|Arabic:بلوط (ballūṭ), Persian:بلوط (balut), Hindi:बलूत (balūta), Spanish:bellota|
+|**bamye**|okra (okro)|Arabic: بَامْيَة‎ (bāmya), Swahili:bamia, Amharic:ባሚያ (bamiya), Turkish:bamya, Persian: بامیه‎ (bâmiye), Russian:бамия (bamiya)|
 |**ban**|board (pane, panel)|Mandarin:板 (bǎn)Cantonese:板 (baan2), Japanese:板 (ban), Korean:판자 (panja), Vietnamese:bảng, Thai:บาน (baan) + Malay:papan + Swahili:bao + English:Spanish:panel, French:panneau, Russian:панель, Turkish:pano|
 |**banan**|banana|Wolof:banaana, Russian:банан (banan), Polish:banan, French:deu:banane, Portuguese:Spanish:English:banana, Japanese:バナナ (banana), Korean:바나나 (banana)|
 |**bande**|band (squad, group)|Mandarin:班 (bān), Vietnamese:ban, Korean:반 (ban), + English:deu:band, French:bande, Russian:банда (banda), Spanish:Portuguese:Filipino:Polish:banda, Japanese:バンド (bando)|
@@ -523,6 +524,7 @@
 |**janger**|artisan (craftsman)|Mandarin:匠 (jiàng), Thai:ช่าง (jang), Khmer:ជាង (ciəng)|
 |**jangle**|forest (woods, jungle)|English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel|
 |**jar**|jug (jar, pitcher)|English:jar, Arabic:(jara), Portuguese:Spanish:jarra|
+|**jau**|barley|Hindi:जौ (jau), Bengali:যব (jôb), Marathi:जव (jav), Gujarati:જવ (jav), Persian: جو‎ (jow)|
 |**javabe**|answer (reply, response)|Arabic: جَوَاب‎ (jawāb), Hindi:जवाब (javāb), Malay:jawab, Swahili:jibu,jawabu, Turkish:cevap|
 |**jebe**|pocket|Hindi:जेब (jeb), Punjabi:ਜੇਬ (jeb), Urdu:(jeb), Telugu:(jēbu), Arabic:(jayb), Turkish:cep, Wolof:jiba|
 |**jebria**|algebra|Arabic:Persian:(jabr), Turkish:cebir, Urdu:(aljabrā), English:algebra, French:algèbre|
@@ -632,8 +634,8 @@
 |**kioske**|kiosk|Persian:کوشک‎ (kôšk), English:Turkish:kiosk, Spanish:quiosco, Portuguese:quiosque, Russian:киоск (kiosk), Hindi:कीओस्क (kīosk), Malay:kios, Japanese:キオスク (kiosuku)|
 |**kir**|carat|Arabic:(kirāʾ), Turkish:kira, Hindi:किराया (kirāyā), Urdu:(kirāyā), Persian:(kerāya), Spanish:alquiler|
 |**kirate**|carat|metrun|
+|**kita**|go (move away)|French:quitter, Turkish:gitmek, Spanish:quitar|
 |**kitabe**|writing (text)|Arabic:Urdu:(kitāb), Persian:(ketâb), Turkish:kitap, Malay:kitab, Swahili:kitabu, Hindi:किताब (kitāb)|
-|**kitu**|go (move away)|French:quitter, Turkish:gitmek, Spanish:quitar|
 |**kivi***|kiwi fruit|English:French:Spanish:Malay:kiwi, Portuguese:quivi, Japanese:キーウィ (kīwi), Korean:키위 (kiwi), Hindi:कीवी (kīvī), Turkish:kivi|
 |**klari**|clear (obvious)|deu:klar, Spanish:Portuguese:claro, English:clear, French:clair|
 |**klas**|class (category)|English:class, Spanish:clase, Portuguese:French:classe, Russian:класс (klass), کلاس‎ (kelâs), Malay:kelas, Japanese:クラス (kurasu)|
@@ -1186,6 +1188,7 @@
 |**siyahi**|black|Persian:سیاه‎ (siyâh), Hindi:सियाह (siyāh), Urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), Turkish:siyah|
 |**sofa***|sofa (couch)|English:French:sofa, Spanish:Portuguese:sofá, Russian:софа (sofa), Mandarin:沙发 (shāfā), Japanese:ソファ (sofa), Korean:소파 (sopa), Hindi:सोफ़ा (sofā)|
 |**sofia**|wisdom|Greek:σοφία (sofía) + English:philosophy, French:philosophie, Spanish:filosofia, Russian:философия (filosofiya), Malay:filsafat, Arabic:(falsafa), Swahili:falsafa, Turkish:felsefe, Hindi:फ़लसफ़ा (falasfā)|
+|**soi**|soy bean|English:soy, French:Spanish:Portuguese:soja, Russian:соя (soya), Arabic: صُويَا‎ (ṣūyā), Hindi:सोया (soyā), Malay:Turkish:soya + Japanese:醤油 (shōyu)|
 |**soka**|search (seek, look for)|Mandarin:搜 (sōu), Cantonese:搜 (sau1), Wu-Chinese:搜 (seu1), Japanese:捜索 (sōsaku) + English:seek, deu:suchen + Russian:искать (iskat’)|
 |**sol**|sun|Spanish:Portuguese:sol, French:soleil, + Hindi:सौर (sOr), Telugu:(saur)|
 |**som**|sleep|French:sommeil, Portuguese:sono, Russian:сон (son), Hindi:सोना (sonā), Bengali:শোয়া (śoya) + Arabic: نَوْم‎ (nawm)|

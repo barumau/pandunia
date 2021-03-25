@@ -287,6 +287,7 @@ barbarian - barbar
 barbecue (grill) - kababa  
 Barbuda - Barbuda  
 barium - barem  
+barley - jau  
 barometer - airbarmetrer  
 barrel (can, cask) - tong  
 barrier (fence) - baryer  
@@ -1408,7 +1409,7 @@ global - duni
 globe artichoke - karcof  
 glue (adhesive) - glute  
 gluten - gluten  
-go (move away) - kitu  
+go (move away) - kita  
 go under - nica  
 goal (destination) - gol  
 goat - buze  
@@ -2357,6 +2358,7 @@ ogre (troll, goblin) - gui
 oil - nefte  
 okay (acceptable) - okeyi  
 okay (acceptance) - okei  
+okra (okro) - bamye  
 old (aged, elderly) - lavi  
 old (ancient, former) - ceniki  
 olive - zaitun  
@@ -2804,7 +2806,7 @@ reluctant - anici
 remain (stay) - restu  
 remember (recall) - mema  
 remove (delete, dispose, erase) - anzaya  
-remove (take away) - kita  
+remove (take away) - kitana  
 renew (make new, renovate) - nova  
 rent (charter, lease) - kirgeta  
 rent out (let, lease) - kirdona  
@@ -3170,6 +3172,9 @@ South Korea (Republic of Korea) - Sudi Cosen
 South Ossetia (Alania) - Sudi Iria (Alonia)  
 South Sudan - Sudi Sudan  
 southern - sudi  
+soy bean - soi  
+soy milk - soimilke  
+soy sauce - soisaus  
 space (character) - kali harfe  
 space (cosmos, universe) - kosmia  
 spaceship - kosmonau  

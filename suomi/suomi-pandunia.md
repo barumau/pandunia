@@ -1608,7 +1608,7 @@ melodinen (sointuisa) - melodi
 menneisyys - pas  
 mennyt (poissa) - kiti  
 mennyt - pasi  
-mennä - kitu  
+mennä - kita  
 menopaluulippu - retrotikete  
 meri - hai  
 meri- (merellinen) - hayi  
@@ -1855,6 +1855,7 @@ ohjaaja (pilotti, luotsi) - piloter
 ohjelma - program  
 ohjelmoija - programer  
 oho (vau) - vau  
+ohra - jau  
 oikea (paikkansapitävä) - sahi  
 oikea puoli - raite  
 oikeistolainen - raitiste  
@@ -1863,6 +1864,7 @@ oikeudenmukainen - adali
 oikeus (oikeutus) - hake  
 oikeus - adalia  
 oivaltaa (tajuta) - aha  
+okra - bamye  
 oksa (haara) - xake  
 oksidi - okside  
 olento (olio) - ser  
@@ -2548,6 +2550,9 @@ smaragdi - zumurude
 sohva - kanape  
 sohva - sofa\*  
 soihtu - fotobaton  
+soija - soi  
+soijakastike - soisaus  
+soijamaito - soimilke  
 soittaa (musisoida) - muzika  
 soittaa puhelimella - telfona  
 soittokello - danger  
@@ -3111,7 +3116,7 @@ vetovoima (šarmi) - carme
 vety - hidre  
 vetää (kiskoa) - tira  
 vetää (kiskoa, raahata) - tova  
-viedä - kita  
+viedä - kitana  
 viedä pois (viedä maasta) - vaimisa  
 vielä (yhä, jatkuvasti) - zoko  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  

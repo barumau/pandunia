@@ -1371,6 +1371,7 @@ jangi - umiejętny (sprawny, zręczny)
 janger - rzemieślnik  
 jangle - las, dżungla, zagajnik  
 jar - dzban, dzbanek; słój, słoik  
+jau - jęczmień  
 javaba - odpowiedzieć, odpowiadać  
 javabe - odpowiedź, odzew  
 jaze - jazz, dżez  
@@ -1619,7 +1620,7 @@ kirate - karat
 Kirgizia - Kirgistan  
 Kiribati - Kiribati  
 kirili harfia - cyrylica  
-kitu - iść (przemieścić się)  
+kita - iść (przemieścić się)  
 kitaba - napisać, pisać  
 kitabe - pismo, tekst  
 kitaboforme - formatowanie  
@@ -3013,6 +3014,8 @@ Slovenia - Słowenia
 sofi - mądry  
 sofia - mądrość  
 sofa\* - sofa (kanapa)  
+soimilke - mleko sojowe  
+soisaus - sos sojowy  
 soka - szukać  
 sol - słońce  
 solcate - parasol  

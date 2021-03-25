@@ -249,6 +249,7 @@ balibali - monenlainen
 balon - ilmapallo  
 balute - tammi  
 balutopal - tammenterho  
+bamye - okra  
 ban - lauta (paneeli)  
 bangem - lautapeli  
 banan - banaani  
@@ -1375,6 +1376,7 @@ jangi - kätevä
 janger - artesaani (käsityöläinen)  
 jangle - metsä (viidakko)  
 jar - kannu (karahvi)  
+jau - ohra  
 javaba - vastata  
 javabe - vastaus  
 jaze - jazz (jatsi)  
@@ -1598,9 +1600,9 @@ kirate - karaatti
 Kirgizia - Kirgistan (Kirgisia)  
 Kiribati - Kiribati  
 kirili harfia - kyrilliset aakkoset  
-kita - viedä  
+kita - mennä  
 kiti - mennyt (poissa)  
-kitu - mennä  
+kitana - viedä  
 kitaba - kirjoittaa  
 kitabe - kirjoitus (teksti)  
 kitabia - kirjallisuus  
@@ -2826,6 +2828,9 @@ Slovenia - Slovenia
 sofi - viisas  
 sofia - viisaus  
 sofa\* - sohva  
+soi - soija  
+soimilke - soijamaito  
+soisaus - soijakastike  
 sol - aurinko  
 solcate - aurinkovarjo  
 solestas - päivänseisaus  

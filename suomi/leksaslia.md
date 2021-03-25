@@ -88,6 +88,7 @@
 |**balibali**|monenlainen|englanti:various, espanja:vario, portugali:vário, japani:とりどり (toridori), bangla:বিবিধ (bibidha), malaiji:berbagai-bagai, suahili:balimbali|
 |**balon**|ilmapallo|ranska:ballon, turkki:malaiji:puola:balon, englanti:balloon, filippiini:balun, hausa:balân|
 |**balute**|tammi|arabia:بلوط (ballūṭ), persia:بلوط (balut), hindi:बलूत (balūta), espanja:bellota|
+|**bamye**|okra|arabia: بَامْيَة‎ (bāmya), suahili:bamia, amhara:ባሚያ (bamiya), turkki:bamya, persia: بامیه‎ (bâmiye), venäjä:бамия (bamiya)|
 |**ban**|lauta (paneeli)|yleiskiina:板 (bǎn)kantoninkiina:板 (baan2), japani:板 (ban), korea:판자 (panja), vietnami:bảng, thai:บาน (baan) + malaiji:papan + suahili:bao + englanti:espanja:panel, ranska:panneau, venäjä:панель, turkki:pano|
 |**banan**|banaani|wolof:banaana, venäjä:банан (banan), puola:banan, ranska:deu:banane, portugali:espanja:englanti:banana, japani:バナナ (banana), korea:바나나 (banana)|
 |**bande**|ryhmä (työryhmä, yhtye, bändi)|yleiskiina:班 (bān), vietnami:ban, korea:반 (ban), + englanti:deu:band, ranska:bande, venäjä:банда (banda), espanja:portugali:filippiini:puola:banda, japani:バンド (bando)|
@@ -510,6 +511,7 @@
 |**janger**|artesaani (käsityöläinen)|yleiskiina:匠 (jiàng), thai:ช่าง (jang), khmer:ជាង (ciəng)|
 |**jangle**|metsä (viidakko)|englanti:ranska:jungle, espanja:jungla, portugali:jângal, venäjä:джунгли (džungli), hindi:जंगल (jangal), bangla:জঙ্গল (jônggôl), malaiji:jenggela, japani:ジャングル (janguru), korea:정글 (jeonggeul), turkki:cengel|
 |**jar**|kannu (karahvi)|englanti:jar, arabia:(jara), portugali:espanja:jarra|
+|**jau**|ohra|hindi:जौ (jau), bangla:যব (jôb), marathi:जव (jav), gujarati:જવ (jav), persia: جو‎ (jow)|
 |**javabe**|vastaus|arabia: جَوَاب‎ (jawāb), hindi:जवाब (javāb), malaiji:jawab, suahili:jibu,jawabu, turkki:cevap|
 |**jebe**|tasku|hindi:जेब (jeb), pandzabi:ਜੇਬ (jeb), urdu:(jeb), telugu:(jēbu), arabia:(jayb), turkki:cep, wolof:jiba|
 |**jebria**|algebra|arabia:persia:(jabr), turkki:cebir, urdu:(aljabrā), englanti:algebra, ranska:algèbre|
@@ -607,8 +609,8 @@
 |**kioske**|kioski|persia:کوشک‎ (kôšk), englanti:turkki:kiosk, espanja:quiosco, portugali:quiosque, venäjä:киоск (kiosk), hindi:कीओस्क (kīosk), malaiji:kios, japani:キオスク (kiosuku)|
 |**kir**|vuokra|arabia:(kirāʾ), turkki:kira, hindi:किराया (kirāyā), urdu:(kirāyā), persia:(kerāya), espanja:alquiler|
 |**kirate**|karaatti|metrun|
+|**kita**|mennä|ranska:quitter, turkki:gitmek, espanja:quitar|
 |**kitabe**|kirjoitus (teksti)|arabia:urdu:(kitāb), persia:(ketâb), turkki:kitap, malaiji:kitab, suahili:kitabu, hindi:किताब (kitāb)|
-|**kitu**|mennä|ranska:quitter, turkki:gitmek, espanja:quitar|
 |**kivi***|kiivi|englanti:ranska:espanja:malaiji:kiwi, portugali:quivi, japani:キーウィ (kīwi), korea:키위 (kiwi), hindi:कीवी (kīvī), turkki:kivi|
 |**klari**|selvä (selkeä)|deu:klar, espanja:portugali:claro, englanti:clear, ranska:clair|
 |**klas**|luokka (kategoria)|englanti:class, espanja:clase, portugali:ranska:classe, venäjä:класс (klass), کلاس‎ (kelâs), malaiji:kelas, japani:クラス (kurasu)|
@@ -1114,6 +1116,7 @@
 |**siyahi**|musta|persia:سیاه‎ (siyâh), hindi:सियाह (siyāh), urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turkki:siyah|
 |**sofa***|sohva|englanti:ranska:sofa, espanja:portugali:sofá, venäjä:софа (sofa), yleiskiina:沙发 (shāfā), japani:ソファ (sofa), korea:소파 (sopa), hindi:सोफ़ा (sofā)|
 |**sofia**|viisaus|kreikka:σοφία (sofía) + englanti:philosophy, ranska:philosophie, espanja:filosofia, venäjä:философия (filosofiya), malaiji:filsafat, arabia:(falsafa), suahili:falsafa, turkki:felsefe, hindi:फ़लसफ़ा (falasfā)|
+|**soi**|soija|englanti:soy, ranska:espanja:portugali:soja, venäjä:соя (soya), arabia: صُويَا‎ (ṣūyā), hindi:सोया (soyā), malaiji:turkki:soya + japani:醤油 (shōyu)|
 |**sol**|aurinko|espanja:portugali:sol, ranska:soleil, + hindi:सौर (sOr), telugu:(saur)|
 |**som**|nukkuminen (uni)|ranska:sommeil, portugali:sono, venäjä:сон (son), hindi:सोना (sonā), bangla:শোয়া (śoya) + arabia: نَوْم‎ (nawm)|
 |**son**|ääni|englanti:sonic, ranska:son, espanja:son,sonido, portugali:som, italia:suono, + korea:소리 (sori) + yleiskiina:声 (shēng), wu-kiina:声 (sən)|

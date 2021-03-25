@@ -389,6 +389,7 @@
 |**janel**|fenestro|portugala:janela, bengala:জানালা (janala), malaja:jendela + tamila:சன்னல் (sannal), nya:zenera, konga:nêla|
 |**janger**|metiisto|mandarena:匠 (jiàng), taja:ช่าง (jang), kmera:ជាង (ciəng)|
 |**jangle**|arbaro|angla:franca:jungle, hispana:jungla, portugala:jângal, rusa:джунгли (džungli), hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), malaja:jenggela, japana:ジャングル (janguru), korea:정글 (jeonggeul), turka:cengel|
+|**jau**|hordeo|hindia:जौ (jau), bengala:যব (jôb), marataja:जव (jav), guĝarata:જવ (jav), persa: جو‎ (jow)|
 |**javabe**|respondo|araba: جَوَاب‎ (jawāb), hindia:जवाब (javāb), malaja:jawab, svahila:jibu,jawabu, turka:cevap|
 |**jebe**|poŝo|hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), urdua:(jeb), teluga:(jēbu), araba:(jayb), turka:cep, volofa:jiba|
 |**jeinistia**|Ĝajnismo|hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)|
@@ -452,8 +453,8 @@
 |**kerne**|kerno (koro)|angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)|
 |**kex**|haro|japana:毛 (ke), hindia:केश (keś), urdua:(keś), panĝaba:ਕੇਸ਼ (keś), teluga:(kēśamu), kanara:(kēśa)|
 |**kilo***|mil (kilo-)|angla:franca:hispana:portugala:malaja:turka:kilo-, rusa:кило- (kilo-), japana:キロ- (kiro-), korea:킬로- (killo-)|
+|**kita**|iri|franca:quitter, turka:gitmek, hispana:quitar|
 |**kitabe**|skribo|araba:urdua:(kitāb), persa:(ketâb), turka:kitap, malaja:kitab, svahila:kitabu, hindia:किताब (kitāb)|
-|**kitu**|iri|franca:quitter, turka:gitmek, hispana:quitar|
 |**kivi***|kivo|angla:franca:hispana:malaja:kiwi, portugala:quivi, japana:キーウィ (kīwi), korea:키위 (kiwi), hindia:कीवी (kīvī), turka:kivi|
 |**klari**|klara|deu:klar, hispana:portugala:claro, angla:clear, franca:clair|
 |**klim**|klimato|greka:κλίμα (eklíma), hispana:portugala:clima, araba:(ʾiqlīm), malaja:turka:iklim, angla:climate, rusa:климат (klimat)|
@@ -764,6 +765,7 @@
 |**siyahi**|nigra|persa:سیاه‎ (siyâh), hindia:सियाह (siyāh), urdua:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turka:siyah|
 |**sofa***|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
 |**sofia**|saĝeco|greka:σοφία (sofía) + angla:philosophy, franca:philosophie, hispana:filosofia, rusa:философия (filosofiya), malaja:filsafat, araba:(falsafa), svahila:falsafa, turka:felsefe, hindia:फ़लसफ़ा (falasfā)|
+|**soi**|sojo|angla:soy, franca:hispana:portugala:soja, rusa:соя (soya), araba: صُويَا‎ (ṣūyā), hindia:सोया (soyā), malaja:turka:soya + japana:醤油 (shōyu)|
 |**sol**|suno|hispana:portugala:sol, franca:soleil, + hindia:सौर (sOr), teluga:(saur)|
 |**som**|dormo|franca:sommeil, portugala:sono, rusa:сон (son), hindia:सोना (sonā), bengala:শোয়া (śoya) + araba: نَوْم‎ (nawm)|
 |**son**|sono|angla:sonic, franca:son, hispana:son,sonido, portugala:som, itala:suono, + korea:소리 (sori) + mandarena:声 (shēng), vua:声 (sən)|

@@ -217,6 +217,7 @@ balon - ballon
 balonpex - poisson-globe  
 balute - chêne  
 balutopal - gland  
+bamye - gombo  
 ban - tableau (panneau)  
 bangem - jeu de société  
 banan - banane  
@@ -614,6 +615,7 @@ jamul - prune de Java
 jan - personne  
 janel - fenêtre  
 jangle - forêt (jungle)  
+jau - orge  
 javabe - réponse  
 jeinistia - jaïnisme  
 jeka - prêter (empruntre)  
@@ -702,8 +704,8 @@ kimono\* - kimono
 kina - mouvoir (bouger)  
 kinu - se mouvoir  
 Kinxasa - Kinshasa  
+kita - aller (quitter)  
 kiti - parti  
-kitu - aller (quitter)  
 kitaba - écrire  
 kitabe - écriture  
 kitabia - littérature  
@@ -1146,6 +1148,9 @@ sisyom - samedi
 site - ville  
 sofia - sagesse  
 sofa\* - canapé (sofa)  
+soi - soja  
+soimilke - lait de soja  
+soisaus - sauce de soja  
 soka - chercher  
 sol - soleil  
 solcate - ombrelle (parasol)  

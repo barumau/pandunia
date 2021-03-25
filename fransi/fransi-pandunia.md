@@ -49,7 +49,7 @@ algue - alge
 algues - hayalge  
 algues brunes - brunalge  
 Algérie - Jayeria  
-aller (quitter) - kitu  
+aller (quitter) - kita  
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alfon  
@@ -563,6 +563,7 @@ glace - ais
 glacé (glacial, gelé) - aisi  
 gland - balutopal  
 glisser - glisu  
+gombo - bamye  
 gorille - goril  
 goule - gul  
 gouvernement - governe  
@@ -671,6 +672,7 @@ laid (vilain) - dusvidi
 laine - mehi kex  
 laisser - laxa  
 lait - milke  
+lait de soja - soimilke  
 laitue - letis  
 lama (enseignant religieux du bouddhisme tibétain) - lama\*  
 lama - liama\*  
@@ -865,6 +867,7 @@ ordre - ratibe
 ordures - laje  
 oreille - or  
 organisme - biu  
+orge - jau  
 origine - asle  
 originel - asli  
 orphelinat - yatimdom  
@@ -1086,6 +1089,7 @@ Sapin - abite
 Satan - Xatan  
 Saturne - Saturne  
 sauce - saus  
+sauce de soja - soisaus  
 saucisse - sosis  
 saumon altentique - atlantosalmon  
 saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
@@ -1124,6 +1128,7 @@ société - sosia
 soie - silke  
 soif - suiyau  
 soir (soirée) - suar  
+soja - soi  
 soldat - gunjan  
 soleil - sol  
 sommeil - som  

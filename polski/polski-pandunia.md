@@ -917,7 +917,7 @@ Italia, Włochy - Italia
 iterb - yuterbem  
 itr - yutrem  
 Izrael - Israel  
-iść (przemieścić się) - kitu  
+iść (przemieścić się) - kita  
 iść w dół (iść pod spód, iść na dno) - nica  
 iść wzdłuż (pójść wzdłuż) - parlinyu  
 iść, maszerować - marca  
@@ -977,6 +977,7 @@ judaizm - yehudistia
 judo - judau  
 jutro - badodeno  
 już (skończona czynność) - fino  
+jęczmień - jau  
 język - lin  
 język ojczysty (język rodzimy) - jeni bax  
 język surinamski - surinami bax  
@@ -1515,6 +1516,7 @@ miły, przyjemny, uroczy - huxi
 Mjanma, Birma - Myanma  
 mlecz - makanful  
 mleko - milke  
+mleko sojowe - soimilke  
 mniej - min (mino)  
 mniejszościowy - minori  
 mniejszość - minoria  
@@ -2639,6 +2641,7 @@ Somaliland - Somaldex
 sometime - koi sate  
 sos - saus  
 sos jabłkowy - aplosaus  
+sos sojowy - soisaus  
 sosna - song  
 spacja - kali harfe  
 spadek, dziedzictwo, spuścizna, zapis - varis  
