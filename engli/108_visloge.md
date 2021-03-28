@@ -64,7 +64,7 @@ They end in **-i** when they functions as modifiers i.e. when they come before a
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**je** refers to things previously spoken,
+**de** refers to things previously spoken,
 **ye** refers to things currently being spoken,
 and **ve** refers to things about to be spoken.
 
@@ -75,11 +75,11 @@ In the above, **yi jumle** (_this sentence_) refers to the sentence being spoken
 
 **me mena ve: me ama te.**
 – I mean this: I love you. OR I mean that I love you.  
-**me ama te. je me mena.**
+**me ama te. de me mena.**
 – I love you. That is what I mean.
 
 In the above, the pronoun **ve** refers to the content of the next statement
-and **je** refers to the content of the previous statement.
+and **de** refers to the content of the previous statement.
 
 
 ## Interrogative pronouns
@@ -150,7 +150,7 @@ In Pandunia, the pronouns and other function words that are derived from them ha
 |  |               | you                | your               |                    |                    |                    |
 | 3| 3rd person    | **le**             | **li**             |                    |                    |                    |
 |  |               | he, she, it        | his, her, its      |                    |                    |                    |
-| 4| Reflexive     | **se**             | **si**             |                    | **sa**             |                    |
+| 4| Sameness      | **se**             | **si**             |                    | **sa**             |                    |
 |  |               | ~self              | one's own          |                    | to be; as a        |                    |
 | 5| Interrogative | **ke**             | **ki**             | **ko**             |                    |                    |
 |  |               | what?              | which?             | how?               |                    |                    |
@@ -158,12 +158,12 @@ In Pandunia, the pronouns and other function words that are derived from them ha
 |  |               | something          | some               | yes, indeed        | have; with; there's|                    |
 | 7| Exclusive     | **ne**             | **ni**             | **no**             | **na**             |                    |
 |  |               | none               | no, not any        | not                | lack; without      |                    |
-| 8| Present       | **ye**             | **yi**             | **yo**             | **ya**             |                    |
+| 8| Present       | **?e**             | **?i**             | **?o**             | **?a**             |                    |
 |  | location      | this               | this               | thus               | at, in, on         |                    |
 | 9| Future        | **ve**             | **vi**             | **vo**             | **va**             |                    |
 |  | destination   | that there         | that there         | so                 | to, for            |                    |
-|10| Past          | **je**             | **ji**             |                    | **ja**             |                    |
+|10| Past          | **de**             | **di**             |                    | **da**             |                    |
 |  | origin        | that, which        | that, which        |                    | from, since; than  |                    |
-|11| Attributive   |                    |                    |                    | **da**             | **du**             |
+|11| Attributive   |                    |                    |                    | **ya**             | **yu**             |
 |  |               |                    |                    |                    | of, like           | 's, -like          |
 
