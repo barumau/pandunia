@@ -42,7 +42,7 @@ The demonstrative pronoun is:
 – this  
 **ve**
 – that, that over there  
-**je**
+**de**
 – that; the aforementioned
 
 **me vola ye.**
@@ -56,7 +56,7 @@ They end in **-i** when they functions as modifiers i.e. when they come before a
 – this cat  
 **vi vaf**
 – that dog  
-**ji mux**
+**di mux**
 – the mouse (that we talked about)
 
 
