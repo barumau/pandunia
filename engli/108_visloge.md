@@ -34,24 +34,52 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 **mome vida se.**
 – We see ourselves.
 
-## Demonstrative pronoun
+## Demonstrative pronouns
 
 The demonstrative pronoun is:
 
-**de**
-– the one, this one, that one
+**ye**
+– this  
+**ve**
+– that, that over there  
+**je**
+– that; the aforementioned
 
-**me vola de.**
-– I want that.  
-**le vola de.**
+**me vola ye.**
+– I want this.  
+**le vola ve.**
 – He/she wants that.
 
-It ends in **-i** when it functions as a modifier i.e. when it comes before a noun.
+They end in **-i** when they functions as modifiers i.e. when they come before a noun.
 
-**di mau**
-– the/this/that cat  
-**di vaf**
-– the/this/that dog  
+**yi mau**
+– this cat  
+**vi vaf**
+– that dog  
+**ji mux**
+– the mouse (that we talked about)
+
+
+### Abstract use
+
+The demonstrative pronouns can be used also discourse internally.
+Then they refer to abstract entities of discourse, not concrete objects.
+**je** refers to things previously spoken,
+**ye** refers to things currently being spoken,
+and **ve** refers to things about to be spoken.
+
+**yi jumle sa korti.**
+– This sentence is short.
+
+In the above, **yi jumle** (_this sentence_) refers to the sentence being spoken.
+
+**me mena ve: me ama te.**
+– I mean this: I love you. OR I mean that I love you.  
+**me ama te. je me mena.**
+– I love you. That is what I mean.
+
+In the above, the pronoun **ve** refers to the content of the next statement
+and **je** refers to the content of the previous statement.
 
 
 ## Interrogative pronouns
@@ -90,4 +118,52 @@ Also adjectives are questioned with **ko**.
 
 **te tena ko dayi mau?**
 – How big cat do you have?
+
+
+## Table of pronouns and other function words
+
+_Function words_ are words that help to structure other words into more or less complex sentences.
+It is a _closed class_ of words, so new words can never be added to it.
+_Content words_, on the other hand, is an open, ever-growing class of words,
+and they refer to things in the world outside the structure of the language.
+Function words have only a structural role
+and therefore they behave differently than content words.
+
+In Pandunia, the pronouns and other function words that are derived from them have the following characteristics:
+
+1. The word is made up of one consonant and one vowel.
+2. The consonant indicates the general idea of the word.
+   Sometimes the same consonant is used for expressing two different ideas.
+3. The vowel has a structural meaning, as follows:
+    - **-e** indicates a pronoun
+    - **-i** indicates a determiner,
+      which indicates definiteness, possession, etc.
+    - **-o** indicates an adverb of manner
+    - **-a** indicates a preposition
+    - **-u** indicates a postposition
+
+|  | Idea          | Pronoun            | Determiner         | Adverb             | Preposition        | Postposition       |
+|--|:--------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+| 1| 1st person    | **me**             | **mi**             |                    |                    |                    |
+|  |               | I                  | my                 |                    |                    |                    |
+| 2| 2nd person    | **te**             | **ti**             |                    |                    |                    |
+|  |               | you                | your               |                    |                    |                    |
+| 3| 3rd person    | **le**             | **li**             |                    |                    |                    |
+|  |               | he, she, it        | his, her, its      |                    |                    |                    |
+| 4| Reflexive     | **se**             | **si**             |                    | **sa**             |                    |
+|  |               | ~self              | one's own          |                    | to be; as a        |                    |
+| 5| Interrogative | **ke**             | **ki**             | **ko**             |                    |                    |
+|  |               | what?              | which?             | how?               |                    |                    |
+| 6| Inclusive     | **he**             | **hi**             | **ho**             | **ha**             |                    |
+|  |               | something          | some               | yes, indeed        | have; with; there's|                    |
+| 7| Exclusive     | **ne**             | **ni**             | **no**             | **na**             |                    |
+|  |               | none               | no, not any        | not                | lack; without      |                    |
+| 8| Present       | **ye**             | **yi**             | **yo**             | **ya**             |                    |
+|  | location      | this               | this               | thus               | at, in, on         |                    |
+| 9| Future        | **ve**             | **vi**             | **vo**             | **va**             |                    |
+|  | destination   | that there         | that there         | so                 | to, for            |                    |
+|10| Past          | **je**             | **ji**             |                    | **ja**             |                    |
+|  | origin        | that, which        | that, which        |                    | from, since; than  |                    |
+|11| Attributive   |                    |                    |                    | **da**             | **du**             |
+|  |               |                    |                    |                    | of, like           | 's, -like          |
 
