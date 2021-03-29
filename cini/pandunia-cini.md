@@ -314,6 +314,7 @@ garmozon - 热带
 garmozoni cautopia - 稀树草原  
 gati - 硬  
 gatomate - 固体  
+gautehnia - 高科技 (高技术)  
 genca - 检查  
 geta - 获得  
 geuforme - 地势  
@@ -400,6 +401,7 @@ huria - 自由
 ####I - I  
 ya - 有  
 ye - 对 (是)  
+Yahve - 耶和华 (雅威)  
 yamfite - 蔬菜  
 yamyau - 饥饿  
 yasen - 白蜡树  
@@ -831,6 +833,7 @@ reya - 重复
 reibon - 修理  
 reibona - 修理  
 reiboner - 修理工人  
+reisikla - 循环再造  
 reste - 其余  
 retru - 返回 (回来)  
 retrogula - 呕吐  

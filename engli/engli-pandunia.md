@@ -1550,6 +1550,7 @@ hexagon - sisgon
 hexahedron (cube) - sisfas  
 hide (conceal) - sira  
 high (tall) - gavi  
+high technology (hi-tech) - gautehnia  
 Himalayas - Himalia  
 Hindi (Hindustani) - hindi  
 Hindu - hindiste  
@@ -2138,6 +2139,7 @@ model (design) - model
 model (design) - modela  
 model (similarity, simulation) - samsifia  
 modern - nouyangi  
+mold (shape) - plasta  
 Moldova - Moldova  
 mole (burrowing animal) - krote  
 mole (unit) - mol  
@@ -2489,7 +2491,7 @@ passport - pasporte
 password (security code) - sekurkode  
 past (bygone) - pasi  
 past times - pas  
-paste - paste  
+paste (dough) - paste  
 pathogen - patojener  
 pathology - patolojia  
 patient (subject of medical treatment) - patike  
@@ -2587,6 +2589,7 @@ plane hijacker - vimankaper
 planet - planete  
 plant (vegetable, vegetation) - fite  
 plasma (ionized gas) - plazme  
+plastic (moldable, malleable) - plasti  
 plastic - plastike  
 plate - platotas  
 plate tectonics - plati geukaskia  
@@ -2600,6 +2603,7 @@ Platonist - platoniste
 platypus - batokrote  
 play a game - gema  
 play music - muzika  
+playdough - plastopaste  
 player (gamer) - gemer  
 please (delight, make happy) - suka  
 pliers (pincers) - pinser  
@@ -2788,6 +2792,7 @@ reason (cause) - sabe
 reason (rational thinking) - razon  
 rebellion - rebel  
 receipt (acknowledgement) - reside  
+recycle - reisikla  
 red - lali  
 reflect - mira  
 refuse (deny, decline) - nega  
@@ -3774,6 +3779,7 @@ writing (text) - kitabe
 wrong (incorrect, erroneous, faulty) - galti  
 ####X - X  
 xenon - xenon  
+Yahweh (Jehovah) - Yahve  
 yak - yake  
 yay! (yeah!) - yei  
 year - nen  

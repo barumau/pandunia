@@ -749,6 +749,7 @@ huxi - agrabla
 ####I - I  
 ya - havi (teni)  
 ye - jes  
+Yahve - Javeo (Jehovo)  
 yala - rapidigi  
 yama - manĝi (trinki)  
 yamfite - legomo  
@@ -1425,6 +1426,7 @@ reyo - denove (ripete)
 reibon - riparo  
 reibona - ripari  
 reiboner - riparisto  
+reisikla - recikligi  
 renem - renio  
 rentogenem - rentgenio  
 restorante - restaŭracio  

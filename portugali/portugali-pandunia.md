@@ -508,6 +508,7 @@ jaguatirica (ocelote) - oselote
 jambolão (jambo) - jamul  
 janela - janel  
 Japão - Nipon  
+Javé (Jeová) - Yahve  
 jengibre - zinje  
 joelho - gute  
 jogo de tabuleiro - bangem  
@@ -593,6 +594,7 @@ Marrocos - Magribia
 Marte - Marse  
 marítimo - hayi  
 massa - mas  
+massa de modelar (massinha) - plastopaste  
 mastro - maste  
 matadouro - bucokan  
 matemática - hisabolojia  
@@ -620,11 +622,13 @@ metro - mitre
 migração - migre  
 mina - kuangia  
 mirar (apontar) - dika  
+modelar - forma  
 modo (maneira, jeito) - mode  
 moeda - pesdiske  
 moenda (moinho) - molia  
 moer - mola  
 mol - mol  
+moldar (modelar) - plasta  
 moldura - frem  
 molestar (perturber) - turba  
 molhado - xipi  
@@ -774,6 +778,7 @@ piquenique - vaiyam
 pirataria - piratia  
 plano - plan  
 planta (vegetal) - fite  
+plástico - plasti  
 poluição - najis  
 polvo - balsenter  
 ponte - pul  
@@ -840,6 +845,7 @@ rasgar - cir
 rasgar - cira  
 raça - ras  
 raíz - mul  
+reciclar - reisikla  
 refugo (escória) - laje  
 relier (connecter) - linka  
 religião - din  

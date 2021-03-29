@@ -245,7 +245,7 @@
 |**detal**|yksityiskohta (detalji)|englanti:detail, espanja:detalle, portugali:detalhe, ranska:détail, deu:Detail, venäjä:дета́ль (detal’)|
 |**deu**|jumala|portugali:deus, malaiji:dewa, hindi:देवता (devtā), kannada:(dēva) + englanti:theo-, ranska:théo-, espanja:teo-, venäjä:тео- (teo-)|
 |**dex**|maa (valtio)|hindi:देश (deś), bangla:দেশ (deś), telugu:(dēśamu)|
-|**di**|tämä (tuo, se)|[di] englanti:the, deu:die + [da] ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] yleiskiina:的 (de)|
+|**di**|tämä (tuo, se)|[di] englanti:the, deu:die + [da] ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] yleiskiina:的 (de), kantoninkiina:啲 (di1)|
 |**dike**|maali (maalitaulu, kohde)|yleiskiina:的 (dí), kantoninkiina:的 (dik1), japani:的 (teki), vietnami:đích + bangla:দিকে (dike)|
 |**din**|uskonto|arabia:(dīn), bangla:দীন (din), persia:(din), turkki:malaiji:din, suahili:dini, hausa:addini, hindi:दीन (dīn)|
 |**dinamite**|dynamiitti|englanti:dynamite, espanja:dinamita, venäjä:динамит (dinamit), turkki:malaiji:dinamit, arabia:ديناميت (dinamit), hindi:डायनामाइट (dāyanāmait), japani:ダイナマイト (dainamaito)|

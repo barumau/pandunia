@@ -765,6 +765,7 @@ Itävalta - Ostria
 ####J - J  
 ja (sekä) - e  
 jade - giuke  
+Jahve (Jehova) - Yahve  
 jainalaisuus - jeinistia  
 jakaa (jaella) - fada  
 jakaa (paloitella) - fena  
@@ -1050,6 +1051,7 @@ kielletty - harami
 kieltää - harama  
 kieltää - nega  
 kierre (spiraali) - helis  
+kierrättää - reisikla  
 kiihkeä (väkevä, voimakas, vahva, kova) - tezi  
 kiillottaa - fotofrika  
 Kiina - Junguo  
@@ -1155,6 +1157,7 @@ korjata - reibona
 korjaus - reibon  
 korkata - antapa  
 korkea - gavi  
+korkea teknologia - gautehnia  
 korkeatasoinen (edistynyt) - gaudarji  
 korkeus - gavia  
 korkittaa (tukkia) - tapa  
@@ -1704,6 +1707,8 @@ munuainen - nefre
 munuaistulehdus (nefriitti) - nefritis  
 muoto - forme  
 muotoilla (muovata) - forma  
+muovailuvaha - plastopaste  
+muovata (muovailla) - plasta  
 muovi - plastike  
 musiikki - muzike  
 musketti - muskete  
@@ -2107,6 +2112,7 @@ pitäisi - selu
 pitää (tykätä) - suku  
 pitää yhdessä - jamhafiza  
 planeetta - planete  
+plastinen (muovailtava) - plasti  
 platina - platinem  
 Platon - Platon  
 platoninen - platonisti  

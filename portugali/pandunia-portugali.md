@@ -283,6 +283,7 @@ foba - assustar
 fobu - temer  
 fobani - assustador  
 fora - furar (perfurar)  
+forma - modelar  
 fote - luz  
 fotograf - foto (fotografia)  
 fotografia - fotografia  
@@ -391,6 +392,7 @@ hulei - raposa
 huri - livre (forro)  
 ####I - I  
 ye - sim  
+Yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
 yasen - freixo  
@@ -801,6 +803,9 @@ piprominte - hortelã-pimenta
 piratia - pirataria  
 pis - pícea (espruce)  
 plan - plano  
+plasta - moldar (modelar)  
+plasti - plástico  
+plastopaste - massa de modelar (massinha)  
 plati geukaskia - tectónica de placas  
 platogeviste - terraplanista  
 plum - ameixa  
@@ -836,6 +841,7 @@ reya - repetir
 reibon - reparo  
 reibona - reparar  
 reiboner - reparador  
+reisikla - reciclar  
 reste - resto  
 retru - voltar (retornar)  
 retroguli sense - náusea  

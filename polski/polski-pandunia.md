@@ -2276,6 +2276,7 @@ przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - mig
 przeszkodzić, przeszkadzać, robić kłopot - turba  
 przeszłość - pas  
 przeszły, miniony - pasi  
+przetwarzać - reisikla  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
 przewidzieć (spodziewać się) - cenvida  
 przewodnik - gider  

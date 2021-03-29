@@ -672,6 +672,7 @@ japana - niponi
 Japanio - Nipon  
 jaro - nen  
 jasmeno - malike  
+Javeo (Jehovo) - Yahve  
 Jemeno - Yemen  
 jes - ye  
 Jesuo - Yesus  
@@ -1343,6 +1344,7 @@ rando (orlo) - kenar
 rapida - rapidi  
 rapideco - rapidia  
 rapidigi - yala  
+recikligi - reisikla  
 reciproka - unali  
 regi - kratia  
 regiono - tope  

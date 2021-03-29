@@ -1109,6 +1109,7 @@ gaudarji - advanced (high-level)
 gaudarju - level up (graduate)  
 gautali - vertical  
 gautalu - bob up and down  
+gautehnia - high technology (hi-tech)  
 gaze - gauze  
 gazel - gazelle  
 gazete - magazine (journal, gazette)  
@@ -1365,6 +1366,7 @@ ye - yes
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
 yagones - peninsula  
+Yahve - Yahweh (Jehovah)  
 yake - yak  
 yala - hurry (hasten)  
 yam - food (meal)  
@@ -2687,7 +2689,7 @@ pasivi - passive (inactive)
 pasporte - passport  
 paske - Easter  
 paskal - pascal (Pa)  
-paste - paste  
+paste - paste (dough)  
 pastopetre - magma  
 pati - ill (sick)  
 patia - sickness (illness, disease)  
@@ -2775,7 +2777,10 @@ pizokan - pizzeria
 plan - plan  
 plana - intend (plan)  
 planete - planet  
+plasta - mold (shape)  
+plasti - plastic (moldable, malleable)  
 plastike - plastic  
+plastopaste - playdough  
 plate - plane (plate)  
 plati - flat (planar)  
 plati geukaskia - plate tectonics  
@@ -2945,6 +2950,7 @@ reyo - again (repeatedly)
 reibon - repair (fix)  
 reibona - repair (fix, mend)  
 reiboner - repairer  
+reisikla - recycle  
 reizoka - continue (resume)  
 renem - rhenium  
 rentogenem - roentgenium  

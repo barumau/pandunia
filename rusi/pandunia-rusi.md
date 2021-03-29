@@ -325,6 +325,7 @@ flece - стрела (стрелка)
 foba - страшить  
 fobu - бояться (страшиться)  
 fora - сверлить (бурить)  
+forma - формировать  
 fote - свет  
 fotofrika - полировать  
 fotografia - фотография  
@@ -353,6 +354,7 @@ garmomosim - лето
 garmozon - тропик  
 gas - газ  
 gati - твёрдый  
+gautehnia - высокие технологии  
 gazel - газель  
 gazete - газета  
 gemer - игрок (геймер)  
@@ -439,6 +441,7 @@ huri - свободный (вольный)
 ####I - I  
 ya - с (иметь)  
 ye - да  
+Yahve - Яхве (Иегова)  
 yamfite - овощ  
 yamyau - голод  
 yasen - ясень  
@@ -883,6 +886,9 @@ piprominte - мята перечная
 pis - ель  
 pize - пицца  
 plan - план  
+plasta - лепить  
+plasti - пластичный  
+plastike - пластмасса  
 platogeviste - плоскоземелец  
 pliza - просить  
 plum - слива  
@@ -923,6 +929,7 @@ reya - повторять
 reibon - починка (ремонт)  
 reibona - чинить (ремонтировать)  
 reiboner - ремонтник  
+reisikla - рециркулировать  
 reste - остаток  
 retru - возвращаться  
 retrogula - рвать (изрыга́ть)  

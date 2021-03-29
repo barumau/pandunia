@@ -531,6 +531,7 @@ fondu - yongosaha
 football - futobol  
 force navale (marine) - haigun  
 forer (percer) - fora  
+former - forma  
 forêt (jungle) - jangle  
 forêt de kelp - algojangle  
 fosse - kau  
@@ -594,6 +595,7 @@ habiller (vêtir) - fuka
 haine - hen  
 hameçon - pexhuke  
 haut - gau  
+hautes technologies - gautehnia  
 Haïti - Aiti  
 Hesse - Hesia  
 heure - hor  
@@ -771,6 +773,7 @@ miel - mel
 migration - migre  
 mine - kuangia  
 mode (façon, manière) - mode  
+modeler - plasta  
 mois - mes  
 mole (unité) - mol  
 monde - dunia  
@@ -1016,6 +1019,8 @@ prêter - jekodona
 psychologie - ruhlojia  
 psyché - ruh  
 pâquerette - englomargarite  
+pâte - paste  
+pâte à modeler - plastopaste  
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - pexosaider  
@@ -1034,6 +1039,7 @@ rang - ode
 rare - rari  
 raton laveur - vaxurse  
 rayon de miel - melvesponide  
+recycler - reisikla  
 rein - nefre  
 religion - din  
 remplir - pura  
@@ -1278,6 +1284,7 @@ vêtements - fuke
 vœu (promesse) - vode  
 wolof - Volof  
 ####X - X  
+Yahweh (Jéhovah) - Yahve  
 ####Z - Z  
 zombi - zombe  
 zone - zon  

@@ -2737,6 +2737,7 @@ reyo - znowu (ponownie)
 reibon - naprawa  
 reibona - naprawić, naprawiać  
 reiboner - naprawiacz  
+reisikla - przetwarzać  
 renem - ren  
 rentogenem - roentgen  
 reporta - raportować, relacjonować, opowiadać  

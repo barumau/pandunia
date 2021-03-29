@@ -186,7 +186,7 @@
 |**detal**|detalo|angla:detail, hispana:detalle, portugala:detalhe, franca:détail, deu:Detail, rusa:дета́ль (detal’)|
 |**deu**|dio|portugala:deus, malaja:dewa, hindia:देवता (devtā), kanara:(dēva) + angla:theo-, franca:théo-, hispana:teo-, rusa:тео- (teo-)|
 |**dex**|lando|hindia:देश (deś), bengala:দেশ (deś), teluga:(dēśamu)|
-|**di**|la (tiu)|[di] angla:the, deu:die + [da] franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] mandarena:的 (de)|
+|**di**|la (tiu)|[di] angla:the, deu:die + [da] franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] mandarena:的 (de), kantona:啲 (di1)|
 |**dike**|celo|mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích + bengala:দিকে (dike)|
 |**din**|religio|araba:(dīn), bengala:দীন (din), persa:(din), turka:malaja:din, svahila:dini, haŭsa:addini, hindia:दीन (dīn)|
 |**dinde**|meleagro|franca:dinde, rusa:индюк (indyuk), turka:hindi, araba: دِيك هِنْدِيّ‎ (dīk hindiy)|

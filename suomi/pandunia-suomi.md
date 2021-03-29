@@ -1042,6 +1042,7 @@ gavia - korkeus
 gavu - nousta  
 gaudarji - korkeatasoinen (edistynyt)  
 gautali - pystysuuntainen  
+gautehnia - korkea teknologia  
 gaze - harso  
 gazel - gaselli  
 gazete - lehti (sanomalehti)  
@@ -1264,6 +1265,7 @@ ya - kanssa (kera, -lla)
 ye - kyllä  
 yaga - arvioida  
 yago - noin (arviolta, suunnilleen)  
+Yahve - Jahve (Jehova)  
 yake - jakki  
 yala - kiirehtiä  
 yam - ruoka  
@@ -2449,7 +2451,10 @@ pizokan - pitseria
 plan - suunnitelma  
 plana - suunnitella  
 planete - planeetta  
+plasta - muovata (muovailla)  
+plasti - plastinen (muovailtava)  
 plastike - muovi  
+plastopaste - muovailuvaha  
 plati - litteä  
 platogeviste - litteän maapallon kannattaja  
 platotas - lautanen  
@@ -2591,6 +2596,7 @@ reyo - taas (uudestaan)
 reibon - korjaus  
 reibona - korjata  
 reiboner - korjaaja  
+reisikla - kierrättää  
 reizoka - jatkua uudestaan  
 renem - rhenium  
 rentogenem - röntgenium  

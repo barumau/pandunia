@@ -453,6 +453,7 @@ foba - effrayer
 fobu - craindre (avoir peur)  
 fobani - effrayant  
 fora - forer (percer)  
+forma - former  
 fote - lumière  
 fotofrika - poli  
 fotograf - photographie  
@@ -490,6 +491,7 @@ garmozoni cautopia - savane
 gas - gaz  
 gati - dur  
 gau - haut  
+gautehnia - hautes technologies  
 gazel - gazelle  
 Germania - Germanie  
 Gevia - Terre  
@@ -578,6 +580,7 @@ huri - libre
 ####I - I  
 ya - avec (avoir)  
 ye - oui  
+Yahve - Yahweh (Jéhovah)  
 yamfite - légume  
 yamyau - faim  
 yasen - frêne  
@@ -985,6 +988,7 @@ Paris - Paris
 parke - parc  
 parne - fougères  
 pasporte - passeport  
+paste - pâte  
 pastopetre - magma  
 patike - patient  
 patojener - agent pathogène  
@@ -1022,6 +1026,8 @@ piratia - piraterie
 pis - Épicéa  
 pize - pizza  
 plan - plan  
+plasta - modeler  
+plastopaste - pâte à modeler  
 plati geukaskia - tectonique des plaques  
 platogeviste - terreplatiste  
 platotopia - plaine  
@@ -1067,6 +1073,7 @@ reya - répéter
 reibon - réparation  
 reibona - réparer  
 reiboner - réparateur  
+reisikla - recycler  
 reizoka - reprendre  
 reste - reste  
 retro - en arrière  

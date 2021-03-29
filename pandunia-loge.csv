@@ -576,7 +576,7 @@ cuz.abl:e|cuzable||||option (choice)|option|opción|opção|||选择 (买卖权)
 D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
 d:a|da||||of (attributive preposition)||de (posposición de posesión)|||||||||||||de (partiklo de posedo)|määritetyn määritteeseen liittävä partikkeli|z (partykuła posiadania)
 d:e|de||||that (this)||eso (esto)|||||||||||||tio|tämä (tuo, se)|
-d:i|di|||[di] eng:the, deu:die + [da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de)|the (this, that, these, those)|le|el (esto, eso)|||||||||||||la (tiu)|tämä (tuo, se)|ten (te)
+d:i|di|||[di] eng:the, deu:die + [da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de), yue:啲 (di1)|the (this, that, these, those)|le|el (esto, eso)|||||||||||||la (tiu)|tämä (tuo, se)|ten (te)
 d:u|du|prep.|||'s (attributive postposition)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
 dai:i|dayi|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||大きい||||||||granda|iso (suuri)|duży
 dai:ia|dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
@@ -997,7 +997,7 @@ fon.loj:ia|fonlojia||||phonology||fonología||||||||||||||fonologia (äänneoppi
 font:e|fonte|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|fountain (spring, well)||fuente (manantial)||||||||||||||lähde (kaivo)|fontanna (studnia, źródło)
 for:a|fora|||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)|forer (percer)|taladrar (perforar)|furar (perfurar)|сверлить (бурить)||钻孔|||||||||taladri|porata|wiercić, borować
 fork:e|forke|||eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|fork||tenedor|||||||||||||forko|haarukka|widelec
-form:a|forma||||shape (sculpt)||moldear|||||||||||||formigi|muotoilla (muovata)|ukształtować, kształtować, urzeźbić, rzeźbić
+form:a|forma||||shape (sculpt)|former|formar|modelar|формировать|||||||||||formigi|muotoilla (muovata)|ukształtować, kształtować, urzeźbić, rzeźbić
 form:e|forme|||eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)|form (shape)||forma (figura)|||||||||||||formo|muoto|forma, kształt
 fort:a|forta||||strengthen (reinforce)||||||||||||||||vahvistaa (voimistaa)|wzmocnić (wzmocnić, wzmóc)
 fort:i|forti|||fra:fort, spa:fuerte, por:forte, eng:force|strong||fuerte|||||||||||||forta|voimakas (vahva)|silny
@@ -1114,6 +1114,7 @@ gau.darj:i|gaudarji||||advanced (high-level)||||||||||||||||korkeatasoinen (edis
 gau.darj:u|gaudarju||||level up (graduate)|||||||||||||||||
 gau.tal:i|gautali||||vertical||vertical||||||||||||||pystysuuntainen|pionowy
 gau.tal:u|gautalu||||bob up and down||inclinar|||||浮き沈みする||||||||||
+gau.tehn:ia|gautehnia||||high technology (hi-tech)|hautes technologies|||высокие технологии||高科技 (高技术)|ハイテク|하이테크||||||||korkea teknologia|
 gaz:e|gaze|||deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze|gauze||gasa|||||||||||||gazo|harso|gaza
 gazel:|gazel|biu||ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|gazelle|gazelle|gacela||газель|||ガゼル||||||||gazelo|gaselli|gazela
 gazet:e|gazete|||eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete|magazine (journal, gazette)||revista (periódico, gaceta)||газета|||||||||gazeti|gazete|gazeto (revuo)|lehti (sanomalehti)|magazyn, dziennik, gazeta
@@ -1371,6 +1372,7 @@ i:e|ye|||[ye] eng:yes;yeah, kor:예 (ye), may:ya + [ya] zho:有 (yǒu), yue:有 
 iag:a|yaga||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 iag:o|yago|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
 iag.o.nes:|yagones||||peninsula||península|||||||||||||||półwysep
+iahu:e|Yahve||||Yahweh (Jehovah)|Yahweh (Jéhovah)|Yahvé (Jehová)|Javé (Jeová)|Яхве (Иегова)|يَهْوَه|耶和华 (雅威)|ヤハウェ (エホバ)|야훼 (여호와)|||||Yehova||Javeo (Jehovo)|Jahve (Jehova)|
 iak:e|yake|||eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|yak||yac||||||||||||||jakki|jak (zwierzę)
 ial:a|yala||||hurry (hasten)||meter prisa|||||||||||||rapidigi|kiirehtiä|popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 iam:|yam||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
@@ -2697,7 +2699,7 @@ pas.iu:i|pasivi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
 pas.port:e|pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 pask:e|paske||||Easter||Pascua||||||||||||||pääsiäinen|Wielkanoc
 paskal:|paskal|unomete|Pa||pascal (Pa)||pascal (Pa)||||||||||||||pascal (Pa)|paskal (Pa)
-past:e|paste|||eng:deu:paste, rus:паста (pasta), spa:por:pasta|paste||pasta|pasta|||||||||||||tahna (tahdas)|pasta
+past:e|paste|||eng:deu:paste, rus:паста (pasta), spa:por:pasta|paste (dough)|pâte|pasta|pasta|||||||||||||tahna (tahdas)|pasta
 past.o.petr:e|pastopetre||||magma|magma|magma||||岩漿|マグマ (岩漿)||||||||||magma
 pat:i|pati||||ill (sick)||enfermo|||||||||||||malsana|sairas|chory
 pat:ia|patia|||deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|sickness (illness, disease)||enfermedad||||||||||||||sairaus|choroba
@@ -2785,7 +2787,10 @@ piz.o.kan:|pizokan||||pizzeria||pizzería|||||||||||||picejo|pitseria|pizzeria
 plan:|plan|||eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan|plan|plan|plano|план||||||प्लैन||||||suunnitelma|plan
 plan:a|plana||||intend (plan)||planear (tener pensado)||||||||||||||suunnitella|planować
 planet:e|planete|||eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)|planet||planeta||||||||||||||planeetta|planeta
-plast.ik:e|plastike|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic||plástico||||||||||||||muovi|plastik
+plast:a|plasta||||mold (shape)|modeler|moldear (modelar)|moldar (modelar)|лепить||||||||||||muovata (muovailla)|
+plast:i|plasti||||plastic (moldable, malleable)||maleable|plástico|пластичный||||||||||||plastinen (muovailtava)|
+plast.ik:e|plastike|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic||plástico||пластмасса||||||||||||muovi|plastik
+plast.o.past:e|plastopaste||||playdough|pâte à modeler|plastilina|massa de modelar (massinha)|||||||||||||muovailuvaha|
 plat:e|plate|||eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)|plane (plate)||plano (placa)|||||||||||||||płaszczyzna (płyta)
 plat:i|plati||||flat (planar)||plana (llano, liso)|||||平ら|||||||||litteä|płaski
 plat:i geu.kask:ia|plati geukaskia||||plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)||||||||||tektonika płyt
@@ -2956,6 +2961,7 @@ rei:o|reyo||||again (repeatedly)||otra vez (de nuevo)|||||||||||||denove (ripete
 rei.bon:|reibon||||repair (fix)|réparation|arreglo|reparo|починка (ремонт)||修理|修理|수리||मरम्मत|||||riparo|korjaus|naprawa
 rei.bon:a|reibona||||repair (fix, mend)|réparer|reparar (arreglar)|reparar|чинить (ремонтировать)|صَلَّحَ‎|修理|修理する|고치다 (수리하다)|sửa chữa|मरम्मत करना||||tamir etmek|ripari|korjata|naprawić, naprawiać
 rei.bon.er:|reiboner||||repairer|réparateur|reparador|reparador|ремонтник|مُصْلِح‎|修理工人|修理工|수리공||||||tamirci|riparisto|korjaaja|naprawiacz
+rei.sik:a|reisikla||||recycle|recycler|reciclar|reciclar|рециркулировать||循环再造|再生する (リサイクルする)|재활용하다||पुनः चक्रित करना||kitar semula||geri dönüştürmek|recikligi|kierrättää|przetwarzać
 rei.zok:a|reizoka||||continue (resume)|reprendre|continuar (reanudar)|||||再開する|||||||||jatkua uudestaan|
 ren.em:|renem|mate|Re||rhenium||renio|||||||||||||renio|rhenium|ren
 rentogen.em:|rentogenem|mate|Rg||roentgenium||roentgenio|||||||||||||rentgenio|röntgenium|roentgen

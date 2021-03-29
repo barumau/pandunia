@@ -909,7 +909,7 @@ fonlojia - fonología
 fonte - fuente (manantial)  
 fora - taladrar (perforar)  
 forke - tenedor  
-forma - moldear  
+forma - formar  
 forme - forma (figura)  
 forti - fuerte  
 fortia - fuerza  
@@ -1258,6 +1258,7 @@ ye - sí
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
 yagones - península  
+Yahve - Yahvé (Jehová)  
 yake - yac  
 yala - meter prisa  
 yam - comida  
@@ -2558,7 +2559,10 @@ pizokan - pizzería
 plan - plan  
 plana - planear (tener pensado)  
 planete - planeta  
+plasta - moldear (modelar)  
+plasti - maleable  
 plastike - plástico  
+plastopaste - plastilina  
 plate - plano (placa)  
 plati - plana (llano, liso)  
 plati geukaskia - tectónica de placas  
@@ -2721,6 +2725,7 @@ reyo - otra vez (de nuevo)
 reibon - arreglo  
 reibona - reparar (arreglar)  
 reiboner - reparador  
+reisikla - reciclar  
 reizoka - continuar (reanudar)  
 renem - renio  
 rentogenem - roentgenio  

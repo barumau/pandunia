@@ -1365,6 +1365,7 @@ fonema - fonem
 fono (segmento acústico) - fon  
 fonología - fonlojia  
 forma (figura) - forme  
+formar - forma  
 formateo - kitaboforme  
 formulario - eskodokum  
 foro (espacio público) - forum  
@@ -1988,6 +1989,7 @@ malayo - malayi
 maldecir - lana  
 maldición - lan  
 Maldivas - Divehia  
+maleable - plasti  
 malgache - malagasi  
 Mali - Mali  
 malinterpretar - galto buda  
@@ -2151,7 +2153,7 @@ modo nocturno - nocomode
 mojado - xipi  
 mojar - xipa  
 mol - mol  
-moldear - forma  
+moldear (modelar) - plasta  
 Moldova - Moldova  
 moler (pulverizar) - mola  
 molestar (perturber) - turba  
@@ -2613,6 +2615,7 @@ planeta - planete
 plano (placa) - plate  
 planta (vegetal, vegetación) - fite  
 plasma (gas ionizado) - plazme  
+plastilina - plastopaste  
 plata - argente  
 platino - platinem  
 plato - platotas  
@@ -2823,6 +2826,7 @@ real (de realtad) - raji
 rebelión (sublevación) - rebel  
 receptor de radio - radi geter  
 rechazar (negar) - nega  
+reciclar - reisikla  
 recoger (juntar, reunir, acumular, recolectar, montar) - jama  
 reconocer (admitir) - resida  
 reconocimiento (recibo) - reside  
@@ -3489,6 +3493,7 @@ xenón - xenon
 y - e  
 ya (acción completado) - fino  
 yac - yake  
+Yahvé (Jehová) - Yahve  
 Yemen - Yemen  
 Yibuti - Jibuti  
 yo - me  
