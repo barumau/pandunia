@@ -376,6 +376,7 @@
 |**mar**|fois|ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal|
 |**marce**|marche|eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi|
 |**margai**|margay (chat-tigre)|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|
+|**marke**|trace|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
 |**Marse**|Mars|eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|
 |**mas**|masse|eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|
 |**masal**|épices|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
@@ -473,7 +474,7 @@
 |**petre**|roche (pierre)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
 |**pex**|poisson|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
 |**piaze**|oignon|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
-|**pike**|cime (pic, sommet)|eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|
+|**pike**|bout (pointe, pic)|eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|
 |**pin**|épingle|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |**pipre**|poivre|eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|
 |**piratia**|piraterie|eng:piracy, spa:piratería, por:pirataria, fra:piraterie, deu:Piraterie, rus:пиратство (piratstvo), jpn:パイレーシ|

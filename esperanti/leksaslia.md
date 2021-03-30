@@ -29,6 +29,7 @@
 |**amir**|ordono|araba: أَمْر‎ (ʾamr), persa: امر‎ (amr), turka:emir, svahila:amiri, haŭsa:umarni + angla:admiral, franca:amiral, hispana:portugala:emir rusa:эмир (emir)|
 |**an:a**|igi (farigi)|angla:franca:-ant, hispana:portugala:-ando, turka:-(y)an;-(y)en, malaja:-an + [ana] persa:(-ân-), hindia:(-(v)ānā), bengala:-নো  (-ānô)|
 |**ande**|ovo|hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)|
+|**angul**|fingro|hindia:अंगुलि (aṅgulī), bengala:আঙুল (aṅgul)|
 |**ani**|mala|greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-|
 |**anim**|kartuno|angla:franca:animation, hispana:animación, portugala:animação, rusa:анимация, japana:アニメ (anime), turka:malaja:anime, araba:أنمي m (ʾanimī), hindia:ऐनिमे (ainime), korea:아니메 (anime)|
 |**anjil**|mesaĝo|greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl), rusa:евангелие (evangeliye), franca:évangile, portugala:evangelho|
@@ -674,7 +675,6 @@
 |**piaze**|cepo|persa:urdua:پیاز (piaz), hindia:प्याज (pyaz), bengala:পেঁয়াজ (peadz)|
 |**pige**|kulo|filipina:pigi, mandarena:屁股 (pìgu), kantona:屁股 (pei3 gu2)|
 |**pijin**|piĝino|angla:hispana:portugala:franca:pidgin, rusa:пиджин (pidzhin), svahila:pijini, mandarena:皮欽語 (píqīnyǔ), japana:ピジン (pijin)|
-|**pike**|pinto|angla:peak, franca:pic, hispana:portugala:pico, rusa:пик (pik), que:pikchu|
 |**pil**|haŭto|angla:peel, hispana:piel, portugala:pele, mandarena:皮 (pí), vua:皮 (bí), kantona:皮 (pei4)|
 |**pin**|nadlo (pinglo, pikilo)|angla:pin, japana:ピン (pin), korea:핀 (pin), hindia:पिन (pin)|
 |**pinguin**|pingveno|angla:malaja:penguin, hispana:pingüino, portugala:pinguim, rusa:пингвин (pingvin), turka:penguen, hindia:पेंगुइन (peṅguin), bengala:পেঙ্গুইন (peṅguin), japana:ペンギン (pingin)|
@@ -824,7 +824,6 @@
 |**umur**|aĝo|araba:عُمْر‎ (ʿumr), hindia:उमर (umar), malaja:umur, svahila:umri|
 |**un (uni)**|unu (1)|franca:un, hispana:uno, portugala:um,una, angla:one|
 |**unal**|unu la alian (reciproke)|angla:one another, itala:l’una, l’altra, franca: l'un l'autre, hispana:el uno al otro, portugala:um ao outro, turka:birbirine, mandarena:彼此 (bǐcǐ)|
-|**ungle**|fingro|hindia:उंगली (uṅglī), bengala:অঙ্গুলি (ôṅguli), guĝarata:આંગળી (ā̃gaḷī), pli:aṅguli|
 |**urse**|urso|franca:ours, portugala:urso, hispana:oso, persa:(xers)|
 |**uza**|uzi|angla:use, hispana:usar, polona:używać|
 |**vade**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|

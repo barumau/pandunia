@@ -144,6 +144,10 @@ Andes - Andes
 andesite - andesite  
 Andora - Andorra  
 Angola - Angola  
+angul - finger (toe)  
+angulmarke - fingerprint  
+angulpike - fingertip  
+angulring - finger ring  
 anim - animation (cartoon)  
 anima - animate  
 anjil - message  
@@ -1041,6 +1045,7 @@ furete - polecat (ferret)
 fute - foot  
 futoban - scaffolding (gangplank)  
 futobol - football (soccer)  
+futomarke - footprint  
 futoxake - leg  
 futau - axe (hatchet)  
 ####G - G  
@@ -1153,6 +1158,8 @@ gluta - stick (adhere, paste, glue)
 glute - glue (adhesive)  
 gluti - sticky (ahesive)  
 gluten - gluten  
+glutobende - adhesive bandage (band-aid, sticking plaster)  
+glutograf - sticker  
 glutopote - clay  
 gol - goal (destination)  
 gola - destine (set)  
@@ -2744,7 +2751,7 @@ piano\* - piano
 piaze - onion  
 pige - buttocks (bum, butt, ass)  
 pijin - pidgin (contact language)  
-pike - top (peak, pinnacle, summit, apex, vertex)  
+pike - point (tip, cusp, peak)  
 pil - skin (peel, bark, leather)  
 piloter - pilot  
 pin - needle (pin, splinter, prickle, thorn, stinger, spine, quill)  
@@ -2840,6 +2847,7 @@ posta - mail (send by mail)
 poste - mail  
 postocape - postal stamp  
 postokan - post office  
+postomarke - postmark (postage stamp)  
 pote - mud (mire)  
 poti - muddy  
 pototopia - marsh (bog, swamp, morass)  
@@ -3643,8 +3651,6 @@ unmes - January
 unodi - first (number one)  
 unoki lense - monocle  
 unrangi - monochrome  
-ungle - finger (toe)  
-ungloring - finger ring  
 voda - promise (pledge)  
 vode - promise (vow, oath)  
 vodun - voodoo  
@@ -3681,6 +3687,7 @@ xaman - shaman
 Xampan - Champagne  
 Xampan vin - champagne  
 xan - mountain (hill)  
+xanpike - top (peak, pinnacle, summit, apex, vertex)  
 Xanghai - Shanghai  
 xante - rest (relief, repose)  
 xanti - calm (peaceful, quiet)  

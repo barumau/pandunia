@@ -121,6 +121,8 @@ Andes - Andy
 andesite - andezyt  
 Andora - Andora  
 Angola - Angola  
+angul - palec  
+angulring - pierścień, pierścionek; obrączka  
 anim - animacja  
 anima - animować  
 anjil - wiadomość  
@@ -2543,7 +2545,6 @@ piano\* - pianino
 piaze - cebula  
 pige - pośladki, pupa, tyłek, zadek  
 pijin - pidżin, język pomocniczy  
-pike - szczyt (wierzchołek)  
 pil - skóra  
 piloter - pilot  
 pin - igła, szpilka  
@@ -3393,8 +3394,6 @@ unmeni - jednoznaczny
 unmes - styczeń  
 unodi - pierwszy, numer jeden  
 unrangi - jednokolorowy (monochromatyczny)  
-ungle - palec  
-ungloring - pierścień, pierścionek; obrączka  
 voda - obiecać, angażować się  
 vodun - voodoo  
 vol - wola (chęć, pragnienie)  
@@ -3429,6 +3428,7 @@ xaman - szaman
 Xampan - Champagne  
 Xampan vin - samppanja  
 xan - góra, wzgórze  
+xanpike - szczyt (wierzchołek)  
 Xanghai - Szanghaj  
 xante - zostawić (zostawiać)  
 xanti - spokojny  

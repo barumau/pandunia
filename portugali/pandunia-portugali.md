@@ -44,6 +44,9 @@ andiniste - infiel
 anmema - esquecer  
 ansomia - insônia  
 andesite - andesito  
+angul - dedo  
+angulmarke - impressão digital  
+angulpike - ponta do dedo  
 anjil - mensagem  
 anker - âncora  
 aple - maçã  
@@ -297,6 +300,7 @@ ful - flor
 fung - fungo  
 fungopal - cogumelo  
 futobol - futebol  
+futomarke - pegada  
 ####G - G  
 gabra - enterrar  
 gabre - sepultura (túmulo)  
@@ -328,6 +332,8 @@ giuke - jade
 glisu - deslizar  
 gluta - colar (aderir)  
 gluti - pegajoso (adesivo)  
+glutobende - penso (band-aid)  
+glutograf - adesivo  
 glutopote - argila  
 gol - meta (gol)  
 goril - gorila  
@@ -636,6 +642,7 @@ mar - vez
 marce - marcha  
 margai - gato-maracajá  
 margarite - margarida  
+marke - mancha (marca)  
 Marse - Marte  
 martinluteristi - luterano  
 martinluteristia - luteranismo  
@@ -792,7 +799,7 @@ pex - peixe
 pexhuke - anzol  
 pexosaider - pescador  
 piaze - cebola  
-pike - cume (pico, topo)  
+pike - ponta (pico, bico)  
 pil - pele  
 pin - alfinete  
 pincope - picareta  
@@ -814,6 +821,7 @@ porei - alho-porro
 porte - porto  
 portoriki - porto-riquenho  
 Portorikia - Porto Rico  
+postomarke - carimbo  
 pote - lama  
 problem - problema  
 program - programa  
@@ -1003,7 +1011,6 @@ unyom - segunda-feira
 unjani - só (solitário)  
 unmaro - uma vez  
 unoki lense - monóculo  
-ungle - dedo  
 vode - promessa (voto)  
 vol - vontade  
 volu - querer (desejar)  
@@ -1018,6 +1025,7 @@ vute - item
 xalke - escama  
 Xampan - Champagne  
 Xampan vin - champaña  
+xanpike - cume (pico, topo)  
 xante - descanso (repouso)  
 xanti - tranquilo (calmo)  
 xarke - tubarão  

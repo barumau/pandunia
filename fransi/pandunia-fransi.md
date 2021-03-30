@@ -113,6 +113,8 @@ Andes - Andes
 andesite - andésite  
 Andora - Andorre  
 Angola - Angola  
+angulmarke - empreinte digitale  
+angulpike - bout de doigt  
 anim - animation  
 anima - animer  
 anjil - message  
@@ -470,6 +472,7 @@ ful - fleur
 fungonete - mycélium  
 fungopal - champignon  
 futobol - football  
+futomarke - empreinte de pied  
 ####G - G  
 gabra - enterrer  
 gabre - tombe  
@@ -511,6 +514,8 @@ giuke - jade
 glisu - glisser  
 gluta - coller  
 gluti - adhésif (collant)  
+glutobende - pansement (sparadrap)  
+glutograf - autocollant  
 glutopote - argile  
 gol - but (destination)  
 goril - gorille  
@@ -842,6 +847,7 @@ mantre - mantra
 mar - fois  
 marce - marche  
 margai - margay (chat-tigre)  
+marke - trace  
 Marse - Mars  
 martinluteristi - luthérien  
 martinluteristia - luthéranisme  
@@ -1014,7 +1020,7 @@ pex - poisson
 pexhuke - hameçon  
 pexosaider - pêcheur  
 piaze - oignon  
-pike - cime (pic, sommet)  
+pike - bout (pointe, pic)  
 pin - épingle  
 pinani - piquant  
 pincope - pioche  
@@ -1037,6 +1043,7 @@ porei - poireau
 porte - porte  
 portoriki - Portoricain  
 Portorikia - Porto Rico  
+postomarke - cachet de la poste  
 pote - boue (fange, bourbe, gadoue)  
 poza - planter  
 problem - problème  
@@ -1286,6 +1293,7 @@ vute - objet (article)
 xalke - échelle  
 Xampan - Champagne  
 Xampan vin - Champagner  
+xanpike - cime (pic, sommet)  
 xante - repos  
 xanti - calme (tranquille)  
 xarke - requin  

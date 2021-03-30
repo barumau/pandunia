@@ -146,6 +146,10 @@ Andes:|Andes||||Andes|Andes|Andes|||||||||||||Andoj|Andit|Andy
 andes.it:e|andesite|||spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|andesite|andésite|andesita|andesito|андезит||安山岩|安山岩||||||||||andezyt
 Andora:|Andora|dex|AD||Andorra|Andorre|Andorra||||||||||||||Andorra|Andora
 Angola:|Angola|dex|AO||Angola|Angola|Angola||||||||||||||Angola|Angola
+angul:|angul|||hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|finger (toe)||dedo|dedo|палец||手指|指|||उंगली (अंगुलि)|আঙুল|jari|kidole|parmak|fingro|sormi tai varvas|palec
+angul.mark:e|angulmarke||||fingerprint|empreinte digitale|huella digital|impressão digital|отпечаток пальца||指纹 (指印)|指紋|지문||||||parmak izi||sormenjälki|
+angul.pik:e|angulpike||||fingertip|bout de doigt|yema del dedo|ponta do dedo|кончик пальца|بَنَان‎|指尖|指先|||अंगुलाग्र||||||sormenpää|
+angul.ring:|angulring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
 anim:|anim|||eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|animation (cartoon)|animation|animación (dibujo animado)||оживление||活跃|||||||||kartuno|animaatio (piirretty)|animacja
 anim:a|anima||||animate|animer|animar||||||||||||||animoida|animować
 anjil:|anjil|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|message|message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość
@@ -1046,6 +1050,7 @@ furet:e|furete|||fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jp
 fut:e|fute|bode||eng:foot, deu:Pfote|foot||pie (pata)|||||||||||||piedo|jalka (jalkaterä)|stopa
 fut.o.ban:|futoban||||scaffolding (gangplank)||andamiaje|||||足場||||||||||rusztowanie (trap)
 fut.o.bol:|futobol|||eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|football (soccer)|football|fútbol|futebol|футбол|||フットボール|||फ़ुटबॉल|||||piedpilko|jalkapallo|piłka nożna
+fut.o.mark:e|futomarke||||footprint|empreinte de pied|pisada (huella)|pegada|след ноги||脚印|足跡|발자국||||||ayak izi||jalanjälki|
 fut.o.xak:e|futoxake|bode|||leg||||||||||||||||jalka (alaraaja)|noga
 futau:|futau|||tgl:puthaw, zho:斧头 (fǔtóu), yue:斧頭 (futau), nan:斧頭 (pú-thâu)|axe (hatchet)||hacha||||||||||||||kirves|siekera, topór
 G|G||||G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
@@ -1159,6 +1164,8 @@ glut:a|gluta||||stick (adhere, paste, glue)|coller|pegar|colar (aderir)|клеи
 glut:e|glute|||eng:glue, swa:gluu, + fra:glutineux|glue (adhesive)||pegamento (pega, goma)|||||||||||||gluo|liima|klej
 glut:i|gluti||||sticky (ahesive)|adhésif (collant)|pegajoso (adhesivo)|pegajoso (adesivo)|клейкий (липкий)||黏的|粘い|||||||||tahmainen (liimamainen)|lepki (kleisty)
 glut.en:|gluten|||eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)|gluten||gluten|||||||||||||gluteno|gluteeni|gluten
+glut.o.bend:e|glutobende||||adhesive bandage (band-aid, sticking plaster)|pansement (sparadrap)|curita (apósito)|penso (band-aid)|пластырь||创可贴 (邦迪)|絆創膏|반창고||||||||laastari|
+glut.o.graf:|glutograf||||sticker|autocollant|adhesivo|adesivo|наклейка||贴纸|ステッカー||||||||glumarko|tarra|
 glut.o.pot:e|glutopote||||clay|argile|arcilla (barro)|argila|глина||黏土|粘土|||||||||savi|glina
 gol:|gol|||por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|goal (destination)|but (destination)|meta (gol, destinación)|meta (gol)|цель||目的|目的 (行き先, ゴール)|||लक्ष्य (गोल)||||amaç (hedef, gol)|golo|maali (pelissä)|cel
 gol:a|gola||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
@@ -2178,7 +2185,7 @@ margarin:|margarin|||eng:fra:margarine, spa:por:margarina, rus:маргари́�
 margarit:e|margarite|biu||spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|daisy||margarita|margarida|маргаритка|||||||||||||stokrotka
 Marian: nes:ia|Marian nesia|dex|MP||Northern Mariana Islands||Islas Marianas|||||||||||||||Mariany Północne
 mark:a|marka||||mark (leave a mark)||marcar||||||||||||||merkitä (jättää jälki)|zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad
-mark:e|marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)||marca (huella, mancha)||||||||||||||merkki (jälki)|znak, trop
+mark:e|marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)|trace|marca (huella, mancha)|mancha (marca)|||||||||||||merkki (jälki)|znak, trop
 Mars:e|Marse|planete 4||eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|Mars|Mars|Marte|Marte|Марс|المريخ|||||||||Mars||Mars|Mars
 martinluter.ist:i|martinluteristi||||Lutheran|luthérien|luterano|luterano|лютеранский||||||||||||luterilainen|luterański
 martinluter.ist:ia|martinluteristia||||Lutheranism|luthéranisme|luteranismo|luteranismo|лютера́нство||||||||||||luterilaisuus|luteranizm
@@ -2754,7 +2761,7 @@ piano:|piano*|||eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur
 piaz:e|piaze|biu|Allium cepa|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|onion|oignon|cebolla|cebola|лук|بَصَل|洋葱|玉葱|양파|hành tây|प्याज|পেঁয়াজ|bawang|kitunguu|soğan|cepo|sipuli|cebula
 pig:e|pige|||tgl:pigi, zho:屁股 (pìgu), yue:屁股 (pei3 gu2)|buttocks (bum, butt, ass)||trasero (nalgas)|||||||||||||kulo|pylly (takapuoli, pakarat)|pośladki, pupa, tyłek, zadek
 pijin:|pijin|||eng:spa:por:fra:pidgin, rus:пиджин (pidzhin), swa:pijini, zho:皮欽語 (píqīnyǔ), jpn:ピジン (pijin)|pidgin (contact language)||pidgin|||||||||||||piĝino|kontaktikieli (pidgin)|pidżin, język pomocniczy
-pik:e|pike|||eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|top (peak, pinnacle, summit, apex, vertex)|cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина|||頂点||||||||pinto|huippu|szczyt (wierzchołek)
+pik:e|pike|||eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|point (tip, cusp, peak)|bout (pointe, pic)|pico (punta)|ponta (pico, bico)|кончик (остриё, пик)||尖顶|先||chóp|||||||kärki (pää)|
 pil:|pil|||eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|skin (peel, bark, leather)||piel|pele|||皮|||||||||haŭto|nahka (kuori, iho)|skóra
 pilot.er:|piloter|||eng:por:pilot, spa:piloto, fra:pilote, deu:Pilot, rus:пило́т (pilót), jpn:パイロット (pairotto)|pilot||piloto||||||||||||||ohjaaja (pilotti, luotsi)|pilot
 pin:|pin|||eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|needle (pin, splinter, prickle, thorn, stinger, spine, quill)|épingle|alfiler (espina, aguja)|alfinete|булавка (игла, шип)||别针|針 (刺, ピン)|핀|ghim|पिन|||||nadlo (pinglo, pikilo)|piikki (pistin, neula)|igła, szpilka
@@ -2851,6 +2858,7 @@ post:a|posta||||mail (send by mail)||eviar por correo||||||||||||||postittaa|nad
 post:e|poste|||eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), fas:پست‎ (post), may:pos|mail||correo||||||||||||||posti (postilähetys)|poczta
 post.o.cap:e|postocape||||postal stamp||sello postal||||||||||||||postileima|znaczek pocztowy
 post.o.kan:|postokan||||post office||oficina de correos|||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
+post.o.mark:e|postomarke||||postmark (postage stamp)|cachet de la poste|matasellos|carimbo|почтовый штемпель|||||||||||poŝtmarko|postileima|
 pot:e|pote|||ibo:potọ potọ, lin:pɔtɔpɔ́tɔ, kon:fra:poto-poto|mud (mire)|boue (fange, bourbe, gadoue)|lodo (barro, fango)|lama|болото||坭|泥|||कीचड़||lumpur||çamur|koto|muta (kura, lieju)|błoto
 pot:i|poti||||muddy||embarrado (enlodado)|||||||||||||kota|kurainen (mutainen)|błotnisty
 pot.o.top:ia|pototopia||||marsh (bog, swamp, morass)||ciénaga (pantano)||||||||||||||suo (räme)|bagno
@@ -3656,8 +3664,6 @@ un.mes:|unmes|mes|||January||enero|||||１月|||||||||tammikuu|styczeń
 un.od:i|unodi||||first (number one)||primero (numbre uno)||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
 un.ok:i lens:e|unoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un.rang:i|unrangi||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
-ungl:e|ungle|||hin:उंगली (uṅglī), ben:অঙ্গুলি (ôṅguli), guj:આંગળી (ā̃gaḷī), pli:aṅguli|finger (toe)||dedo|dedo|палец||手指|指|||उंगली|আঙুল|jari|kidole|parmak|fingro|sormi tai varvas|palec
-ungl.o.ring:|ungloring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
 uod:a|voda||||promise (pledge)|promettre|prometer (comprometerse)||||许诺|||||||||promesi|luvata (vannoa)|obiecać, angażować się
 uod:e|vode|||fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|promise (vow, oath)|vœu (promesse)|promesa (voto)|promessa (voto)|клятва (присяга, обет)|وعد|诺言|約束|약속||वचन (वादा)||||||lupaus (vala)|
 uodun:|vodun|||ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|voodoo||vudú||||||||||||||voodoo|voodoo
@@ -3694,6 +3700,7 @@ xam.an:|xaman|||eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tu
 Xampan:|Xampan|regia|||Champagne|Champagne|Champaña|Champagne|Шампань|||香槟|シャンパーニュ|||||||||Champagne
 Xampan: uin:|Xampan vin|alkohol|||champagne|Champagner|champagne|champaña|champanhe|шампанское|||||||||||ĉampano|samppanja
 xan:|xan|||zho:山 (shān), jpn:山 (san), kor:산 (san), vie:sơn|mountain (hill)||montaña (colina)|||||||||||||monto|vuori (mäki)|góra, wzgórze
+xan.pik:e|xanpike||||top (peak, pinnacle, summit, apex, vertex)|cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина|||頂点||||||||pinto|huippu|szczyt (wierzchołek)
 Xanghai:|Xanghai|site|||Shanghai||||||上海|||||||||||Szanghaj
 xant:e|xante||||rest (relief, repose)|repos|descanso (alivio)|descanso (repouso)|отдых||||||||||||lepo|zostawić (zostawiać)
 xant:i|xanti|||hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)|calm (peaceful, quiet)|calme (tranquille)|tranquilo (calmado)|tranquilo (calmo)|спокойный||||||शांत|||||trankvila (serena)|rauhallinen (levollinen, tyyni)|spokojny

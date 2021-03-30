@@ -32,6 +32,7 @@ active (on, enabled) - ativi
 actor (actress) - roler  
 additional - maxi  
 address - adres  
+adhesive bandage (band-aid, sticking plaster) - glutobende  
 adjective - sifloge  
 admiral - hayamirer  
 adult - matur  
@@ -1242,8 +1243,10 @@ film (membrane, video) - filme
 filter - filter  
 find (discover) - eureka  
 fine (delicate) - faini  
-finger (toe) - ungle  
-finger ring - ungloring  
+finger (toe) - angul  
+finger ring - angulring  
+fingerprint - angulmarke  
+fingertip - angulpike  
 finish (put an end to) - fina  
 finished - finiti  
 finite (limited) - limiti  
@@ -1286,6 +1289,7 @@ food (meal) - yam
 fool (buffoon) - bufon  
 foot - fute  
 football (soccer) - futobol  
+footprint - futomarke  
 for a long time - longoduro  
 for example - misalo  
 forbid (ban, disallow) - harama  
@@ -2616,6 +2620,7 @@ podzol - huidarte
 poem - xir  
 poet - xirer  
 point (period, full stop) - punte  
+point (tip, cusp, peak) - pike  
 point at (indicate) - ponta  
 pointer (indicator) - ponter  
 poison (venom) - tokse  
@@ -2654,6 +2659,7 @@ possible - abli
 post (stake, peg, skewer) - zong  
 post office - postokan  
 postal stamp - postocape  
+postmark (postage stamp) - postomarke  
 posture (asana) - asan  
 pot (vase, bin, jar, jug) - vaze  
 potassium - kalem  
@@ -3239,6 +3245,7 @@ stem (torso, trunk, stalk) - tan
 step (degree, rank, grade, level, class) - darje  
 stereophonic - dulsondi  
 stick (adhere, paste, glue) - gluta  
+sticker - glutograf  
 sticky (ahesive) - gluti  
 still (yet, continuously) - zoko  
 stipulate - xarta  
@@ -3483,7 +3490,7 @@ too much - max ka bas
 tool - tul  
 tooth - dante  
 tooth brush - dantobrox  
-top (peak, pinnacle, summit, apex, vertex) - pike  
+top (peak, pinnacle, summit, apex, vertex) - xanpike  
 top (spinning top) - rototope  
 top - gau  
 topic (subject, theme) - tem  

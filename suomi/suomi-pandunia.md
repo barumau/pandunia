@@ -615,7 +615,7 @@ houkutella - tenta
 housut - pante  
 huhtikuu - carmes  
 huippu - gau  
-huippu - pike  
+huippu - xanpike  
 huivi (šaali) - xal  
 hullu (mieletön) - foli  
 hulluus (mielettömyys) - folia  
@@ -772,6 +772,7 @@ jakaa (paloitella) - fena
 jakaa yhteiseksi - komuna  
 jakautua (hajota) - fenu  
 jakki - yake  
+jalanjälki - futomarke  
 jalka (alaraaja) - futoxake  
 jalka (jalkaterä) - fute  
 jalkapallo - futobol  
@@ -1284,6 +1285,7 @@ kysymys - eske
 kysyvä - eskan  
 kysyä - eska  
 kyynel - okosui  
+kärki (pää) - pike  
 kärppä (fretti) - furete  
 kärpänen - domzeze  
 kärry (vaunu, auto, jne) - gar  
@@ -1317,6 +1319,7 @@ köynnös - eskaltan
 ####L - L  
 laadukas (hyvä) - bonsifi  
 laakso - vade  
+laastari - glutobende  
 laatikko - kapse  
 laatikko - sanduke  
 laatta (levy) - table  
@@ -2162,6 +2165,7 @@ Portugali - Portugal
 portugalia puhuva - portugalfoni  
 posti (postilähetys) - poste  
 postileima - postocape  
+postileima - postomarke  
 postitoimisto - postokan  
 postittaa - posta  
 potilas - patike  
@@ -2575,8 +2579,10 @@ sopia (tehdä sopimus) - trata
 sopia - konboni  
 sopimus - trate  
 sorakivi - lilxeke  
-sormi tai varvas - ungle  
-sormus - ungloring  
+sormenjälki - angulmarke  
+sormenpää - angulpike  
+sormi tai varvas - angul  
+sormus - angulring  
 sorsa (ankka) - bate  
 sosiaalinen media - sosi media  
 sosialismi - sosistia  
@@ -2750,6 +2756,7 @@ tarkka (täsmällinen) - justi
 tarpeeksi (riittävästi) - basi  
 tarpeellinen - yavan  
 tarpeeton - anyavi  
+tarra - glutograf  
 tarve (puute) - yau  
 tarvita - yavu  
 tasainen (tasavertainen) - pari  

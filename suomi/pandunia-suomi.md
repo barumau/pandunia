@@ -133,6 +133,10 @@ ande - muna
 Andes - Andit  
 Andora - Andorra  
 Angola - Angola  
+angul - sormi tai varvas  
+angulmarke - sormenjälki  
+angulpike - sormenpää  
+angulring - sormus  
 anim - animaatio (piirretty)  
 anima - animoida  
 anjil - viesti  
@@ -978,6 +982,7 @@ furia - viha (suuttumus, raivo)
 furete - kärppä (fretti)  
 fute - jalka (jalkaterä)  
 futobol - jalkapallo  
+futomarke - jalanjälki  
 futoxake - jalka (alaraaja)  
 futau - kirves  
 ####G - G  
@@ -1078,6 +1083,8 @@ gluta - liimata
 glute - liima  
 gluti - tahmainen (liimamainen)  
 gluten - gluteeni  
+glutobende - laastari  
+glutograf - tarra  
 glutopote - savi  
 gol - maali (pelissä)  
 gola - määrätä  
@@ -2424,7 +2431,7 @@ piano\* - piano
 piaze - sipuli  
 pige - pylly (takapuoli, pakarat)  
 pijin - kontaktikieli (pidgin)  
-pike - huippu  
+pike - kärki (pää)  
 pil - nahka (kuori, iho)  
 piloter - ohjaaja (pilotti, luotsi)  
 pin - piikki (pistin, neula)  
@@ -2504,6 +2511,7 @@ posta - postittaa
 poste - posti (postilähetys)  
 postocape - postileima  
 postokan - postitoimisto  
+postomarke - postileima  
 pote - muta (kura, lieju)  
 poti - kurainen (mutainen)  
 pototopia - suo (räme)  
@@ -3149,8 +3157,6 @@ unmes - tammikuu
 unodi - ensimmäinen (numero yksi)  
 unoki lense - monokkeli  
 unrangi - yksivärinen  
-ungle - sormi tai varvas  
-ungloring - sormus  
 voda - luvata (vannoa)  
 vode - lupaus (vala)  
 vodun - voodoo  
@@ -3182,6 +3188,7 @@ xal - huivi (šaali)
 xaman - šamaani  
 Xampan vin - ĉampano  
 xan - vuori (mäki)  
+xanpike - huippu  
 xante - lepo  
 xanti - rauhallinen (levollinen, tyyni)  
 xarme - häpeä  

@@ -38,6 +38,7 @@
 |**an:a**|cause (make sb. do sth.)|English:French:-ant, Spanish:Portuguese:-ando, Turkish:-(y)an;-(y)en, Malay:-an + [ana] Persian:(-ân-), Hindi:(-(v)ānā), Bengali:-নো  (-ānô)|
 |**ande**|egg|Hindi:अंडा (aṇḍā), Bengali:আণ্ডা (aṇḍa), Urdu:(aṇḍā), Punjabi:ਆਂਡਾ (āṇḍā), Telugu:(aṇḍamu), Zulu:xho:iqanda, mon:өндөг (öndög)|
 |**andesite**|andesite|Spanish:andesita, English:andesite, Russian:андезит (andezit), Turkish:andezit, Arabic:أنديزيت ('andizit), Hindi:एंडेसाइट (endesait), Vietnamese:Malay:andesit|
+|**angul**|finger (toe)|Hindi:अंगुलि (aṅgulī), Bengali:আঙুল (aṅgul)|
 |**ani**|reverse (negative, un-)|Greek:ἀν- (an-), English:un-, Hindi:अन- (an-), French:Spanish:Portuguese:in-|
 |**anim**|animation (cartoon)|English:French:animation, Spanish:animación, Portuguese:animação, Russian:анимация, Japanese:アニメ (anime), Turkish:Malay:anime, Arabic:أنمي m (ʾanimī), Hindi:ऐनिमे (ainime), Korean:아니메 (anime)|
 |**anjil**|message|Greek:ἀγγελία (angelía), Arabic:(ʾinjīl), Swahili:injili, Malay:injil, Turkish:incil, Hindi:इंजील (iñjīl), Russian:евангелие (evangeliye), French:évangile, Portuguese:evangelho|
@@ -1011,7 +1012,7 @@
 |**piaze**|onion|Persian:Urdu:پیاز (piaz), Hindi:प्याज (pyaz), Bengali:পেঁয়াজ (peadz)|
 |**pige**|buttocks (bum, butt, ass)|Filipino:pigi, Mandarin:屁股 (pìgu), Cantonese:屁股 (pei3 gu2)|
 |**pijin**|pidgin (contact language)|English:Spanish:Portuguese:French:pidgin, Russian:пиджин (pidzhin), Swahili:pijini, Mandarin:皮欽語 (píqīnyǔ), Japanese:ピジン (pijin)|
-|**pike**|top (peak, pinnacle, summit, apex, vertex)|English:peak, French:pic, Spanish:Portuguese:pico, Russian:пик (pik), que:pikchu|
+|**pike**|point (tip, cusp, peak)|English:peak, French:pic, Spanish:Portuguese:pico, Russian:пик (pik), que:pikchu|
 |**pil**|skin (peel, bark, leather)|English:peel, Spanish:piel, Portuguese:pele, Mandarin:皮 (pí), Wu-Chinese:皮 (bí), Cantonese:皮 (pei4)|
 |**piloter**|pilot|English:Portuguese:pilot, Spanish:piloto, French:pilote, deu:Pilot, Russian:пило́т (pilót), Japanese:パイロット (pairotto)|
 |**pin**|needle (pin, splinter, prickle, thorn, stinger, spine, quill)|English:pin, Japanese:ピン (pin), Korean:핀 (pin), Hindi:पिन (pin)|
@@ -1295,7 +1296,6 @@
 |**umur**|age|Arabic:عُمْر‎ (ʿumr), Hindi:उमर (umar), Malay:umur, Swahili:umri|
 |**un (uni)**|one (1)|French:un, Spanish:uno, Portuguese:um,una, English:one|
 |**unal**|each other (one another, mutually)|English:one another, Italian:l’una, l’altra, French: l'un l'autre, Spanish:el uno al otro, Portuguese:um ao outro, Turkish:birbirine, Mandarin:彼此 (bǐcǐ)|
-|**ungle**|finger (toe)|Hindi:उंगली (uṅglī), Bengali:অঙ্গুলি (ôṅguli), Gujarati:આંગળી (ā̃gaḷī), pli:aṅguli|
 |**ura**|cheer (hurrah, hooray)|Russian:ура (ura), Italian:urrà, deu:Spanish:hurra, French:hourra, English:hurrah, Malay:hore, Persian:(hurâ)|
 |**urse**|bear|French:ours, Portuguese:urso, Spanish:oso, Persian:(xers)|
 |**uza**|use (employ, apply)|English:use, Spanish:usar, Polish:używać|

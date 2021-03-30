@@ -12,6 +12,7 @@ aconselhar - sela
 acordado - jagi  
 acordo (tratado, contrato) - trate  
 acordo - samrayia  
+adesivo - glutograf  
 adjetivo - sifloge  
 adversário - xatan  
 aeite (óleo) - nefte  
@@ -174,6 +175,7 @@ cardo-mariano - milkokardon
 cardo-roxo - perkardon  
 careta (esgar) - grimas  
 Caribe - Karaibia  
+carimbo - postomarke  
 carne - manse  
 carrapato (ácaros) - akar  
 carreira - peikari jiu  
@@ -273,7 +275,7 @@ cruz - krus
 crème - krem  
 crónico - duriki  
 cubo - kube  
-cume (pico, topo) - pike  
+cume (pico, topo) - xanpike  
 cápsico - cili\*  
 cão (cachorro) - vaf  
 céu - ten  
@@ -286,7 +288,7 @@ damasco (abricó) - barkoke
 dano (avaria) - avar  
 danês - dani  
 de - ja  
-dedo - ungle  
+dedo - angul  
 deitar - kuxa  
 deixar - laxa  
 dente-de-leão (taráxaco) - makanful  
@@ -486,6 +488,7 @@ igual - sami
 imigrante - inmigran  
 imigrar - inmigra  
 importante - hami  
+impressão digital - angulmarke  
 Indo - Hindonade  
 indígena (índio) - aslameriki  
 infectar (contagiar) - patomisa  
@@ -579,6 +582,7 @@ mais - max (maxo)
 maldição - lan  
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
+mancha (marca) - marke  
 manga - kamisi xake  
 maniqueísmo - manihayistia  
 mantra - mantre  
@@ -749,11 +753,13 @@ pedra - xeke
 pedra preciosa (gema) - bauxeke  
 pedregulho - daixeke  
 pedrinha - lilxeke  
+pegada - futomarke  
 pegajoso (adesivo) - gluti  
 peidar - peda  
 peido - pede  
 peixe - pex  
 pele - pil  
+penso (band-aid) - glutobende  
 pepino - hiyar  
 pepino-africano (kiwano) - kornomelon  
 pepino-do-mar (holotúrias) - haihiyar  
@@ -781,6 +787,8 @@ planta (vegetal) - fite
 plástico - plasti  
 poluição - najis  
 polvo - balsenter  
+ponta (pico, bico) - pike  
+ponta do dedo - angulpike  
 ponte - pul  
 por exemplo - misalo  
 por muito tempo - longoduro  

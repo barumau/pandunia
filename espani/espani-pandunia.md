@@ -55,6 +55,7 @@ acuerdo - samrayia
 acuoso - suyi  
 adelante - jino  
 además - maxo  
+adhesivo - glutograf  
 adicional (extra) - maxi  
 adiós - salam cute  
 adjetivo - sifloge  
@@ -176,7 +177,7 @@ andrajoso - circiri
 anglicanizar - englokitaba  
 anglófilo - englofiler  
 Angola - Angola  
-anillo (sortija) - ungloring  
+anillo (sortija) - angulring  
 anillo - ring  
 animación (dibujo animado) - anim  
 animal (bestia) - zou  
@@ -658,7 +659,7 @@ cien (100) - xoti
 ciencia (estudia, investigación) - lojia  
 ciencia política - politikolojia  
 cigarro - sigar  
-cima (pico, cumbre, vértice) - pike  
+cima (pico, cumbre, vértice) - xanpike  
 cinc - zinke  
 cinco (5) - limi  
 cinta (cinta para el pelo) - kexbende  
@@ -904,6 +905,7 @@ cumpleaños - jenden
 cupón (vale) - kupon  
 curar (sanar) - medika  
 curio - kurem  
+curita (apósito) - glutobende  
 curva - kurve  
 curvo - kurvi  
 cuál - ki  
@@ -956,7 +958,7 @@ decir (hablar) - loga
 decoración (adorno) - sundardake  
 decorar (adornar) - sundardaka  
 dedicar - zamandona  
-dedo - ungle  
+dedo - angul  
 defecar - kaka  
 defender - defa  
 defensa - def  
@@ -1622,6 +1624,7 @@ hornear (cocer) - beka
 horno - tanur  
 hotel (albergue) - hotel  
 hoy - zaideno  
+huella digital - angulmarke  
 hueso - oste  
 huevo - ande  
 humanidad (género humano) - insania  
@@ -2049,6 +2052,7 @@ masaje - masaje
 masculino (macho) - man  
 matadero - bucokan  
 matar (morir, asesinar) - morta  
+matasellos - postomarke  
 matemática - hisabolojia  
 matemático - hisabolojer  
 material - mati  
@@ -2580,6 +2584,7 @@ pez (pescado) - pex
 pez globo - balonpex  
 peñasco (pedrusco) - daixeke  
 piano - piano\*  
+pico (punta) - pike  
 pidgin - pijin  
 pie (pata) - fute  
 piedra - xeke  
@@ -2600,6 +2605,7 @@ pirata - pirater
 piratería - piratia  
 pirámide - piram  
 pis (meados) - pix  
+pisada (huella) - futomarke  
 piscina (alberca, lavadero) - basen  
 piso (suelo) - kamartal  
 pistola (rifle) - pau  
@@ -3494,6 +3500,7 @@ y - e
 ya (acción completado) - fino  
 yac - yake  
 Yahvé (Jehová) - Yahve  
+yema del dedo - angulpike  
 Yemen - Yemen  
 Yibuti - Jibuti  
 yo - me  

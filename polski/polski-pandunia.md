@@ -1891,7 +1891,7 @@ pajęczyna - arannete
 Pakistan - Pakistan  
 pakt (kontrakt, ugoda, umowa, konwencja) - kontrate  
 Palau - Palau  
-palec - ungle  
+palec - angul  
 pallad - paladem  
 palma, drzewo palmowe - palme  
 pamiętać - mema  
@@ -1984,7 +1984,7 @@ pierwszy, numer jeden - unodi
 pierwszy, początkowy - xuri  
 pierś - sin  
 pierścień - ring  
-pierścień, pierścionek; obrączka - ungloring  
+pierścień, pierścionek; obrączka - angulring  
 pies - vaf  
 pień - mokotan  
 piknik - vaiyam  
@@ -2766,7 +2766,7 @@ szaszłyk - xixmanse
 szczepionka - vaksin  
 szczoteczka do zębów - dantobrox  
 szczotka - brox  
-szczyt (wierzchołek) - pike  
+szczyt (wierzchołek) - xanpike  
 szef, kierownik - xef  
 szeleścić - xaxu  
 szeroki - kuani  

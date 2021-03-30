@@ -441,7 +441,7 @@ filozofia - filsofi
 filozofio - filsofia  
 filozofo - filsofer  
 filtri - filter  
-fingro - ungle  
+fingro - angul  
 fini - fina  
 finita - finiti  
 finiĝi - finu  
@@ -529,6 +529,7 @@ glaciiĝi (frostiĝi) - aisu
 glacio - ais  
 glata - lisi  
 glavo - katan  
+glumarko - glutograf  
 gluo - glute  
 gluteno - gluten  
 gluti - gula  
@@ -1241,7 +1242,7 @@ piki - pina
 pilko - bol  
 pingveno - pinguin  
 pino - song  
-pinto - pike  
+pinto - xanpike  
 pinĉilo - pinser  
 pipro - pipre  
 piramido - piram  
@@ -1290,6 +1291,7 @@ povi - abla
 povo - able  
 poŝo - jebe  
 poŝtejo - postokan  
+poŝtmarko - postomarke  
 pravigi - saha  
 preciza (ekzakta) - justi  
 preferi (pliŝati) - maxfila  
@@ -1371,7 +1373,7 @@ reĝo aŭ reĝino - rajer
 ridi - haha  
 rilato - guanxe  
 rimarki - nota  
-ringo - ungloring  
+ringo - angulring  
 rinocero - kornonos  
 ripari - reibona  
 riparisto - reiboner  

@@ -120,6 +120,10 @@ Andes - Andes
 andesite - andesita  
 Andora - Andorra  
 Angola - Angola  
+angul - dedo  
+angulmarke - huella digital  
+angulpike - yema del dedo  
+angulring - anillo (sortija)  
 anim - animación (dibujo animado)  
 anima - animar  
 anjil - mensaje  
@@ -954,6 +958,7 @@ furete - hurón
 fute - pie (pata)  
 futoban - andamiaje  
 futobol - fútbol  
+futomarke - pisada (huella)  
 futau - hacha  
 ####G - G  
 Gabon - Gabón  
@@ -1058,6 +1063,8 @@ gluta - pegar
 glute - pegamento (pega, goma)  
 gluti - pegajoso (adhesivo)  
 gluten - gluten  
+glutobende - curita (apósito)  
+glutograf - adhesivo  
 glutopote - arcilla (barro)  
 gol - meta (gol, destinación)  
 gola - destinar  
@@ -2530,7 +2537,7 @@ piano\* - piano
 piaze - cebolla  
 pige - trasero (nalgas)  
 pijin - pidgin  
-pike - cima (pico, cumbre, vértice)  
+pike - pico (punta)  
 pil - piel  
 piloter - piloto  
 pin - alfiler (espina, aguja)  
@@ -2621,6 +2628,7 @@ posta - eviar por correo
 poste - correo  
 postocape - sello postal  
 postokan - oficina de correos  
+postomarke - matasellos  
 pote - lodo (barro, fango)  
 poti - embarrado (enlodado)  
 pototopia - ciénaga (pantano)  
@@ -3383,8 +3391,6 @@ unmes - enero
 unodi - primero (numbre uno)  
 unoki lense - monóculo  
 unrangi - monocromático  
-ungle - dedo  
-ungloring - anillo (sortija)  
 voda - prometer (comprometerse)  
 vode - promesa (voto)  
 vodun - vudú  
@@ -3419,6 +3425,7 @@ xaman - chamán (brujo, hechicero)
 Xampan - Champaña  
 Xampan vin - champagne  
 xan - montaña (colina)  
+xanpike - cima (pico, cumbre, vértice)  
 xante - descanso (alivio)  
 xanti - tranquilo (calmado)  
 xarke - tiburón  

@@ -44,6 +44,9 @@ andiniste - неверующий
 anmema - забывать  
 ansomia - бессонница (инсомния)  
 andesite - андезит  
+angul - палец  
+angulmarke - отпечаток пальца  
+angulpike - кончик пальца  
 anim - оживление  
 anjil - месседж  
 anker - якорь  
@@ -340,6 +343,7 @@ ful - цветок
 fulmosim - весна  
 fungopal - гриб  
 futobol - футбол  
+futomarke - след ноги  
 ####G - G  
 gabra - хоронить  
 gabre - могила (гроб)  
@@ -372,6 +376,8 @@ giuke - нефрит (жад)
 glisu - задвигаться (скользи́ть)  
 gluta - клеиться  
 gluti - клейкий (липкий)  
+glutobende - пластырь  
+glutograf - наклейка  
 glutopote - глина  
 gol - цель  
 goril - горилла  
@@ -875,7 +881,7 @@ pex - рыба
 pexhuke - крючок  
 pexosaider - рыбак (рыболов)  
 piaze - лук  
-pike - вершина  
+pike - кончик (остриё, пик)  
 pin - булавка (игла, шип)  
 pinani - пикантный  
 pincope - киркомотыга  
@@ -900,6 +906,7 @@ porei - лук-порей
 porte - порт  
 portoriki - пуэрториканец  
 Portorikia - Пуэрто-Рико  
+postomarke - почтовый штемпель  
 pote - болото  
 problem - проблема  
 problemi - проблематичный  
@@ -1146,7 +1153,6 @@ unyom - понедельник
 unjani - одинокий (единичный)  
 unmaro - один раз  
 unoki lense - монокль  
-ungle - палец  
 vode - клятва (присяга, обет)  
 volu - хотеть  
 ura - ура  
@@ -1158,6 +1164,7 @@ xalke - чешуя
 xaman - шаман  
 Xampan - Шампань  
 Xampan vin - champanhe  
+xanpike - вершина  
 xante - отдых  
 xanti - спокойный  
 xarke - акула  

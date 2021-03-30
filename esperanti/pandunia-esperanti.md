@@ -80,6 +80,8 @@ ansomia - sendormeco
 an:a - igi (farigi)  
 ande - ovo  
 Andes - Andoj  
+angul - fingro  
+angulring - ringo  
 anim - kartuno  
 anjil - mesaĝo  
 anker - ankro  
@@ -632,6 +634,7 @@ gitar - gitaro
 giuke - jado  
 glute - gluo  
 gluten - gluteno  
+glutograf - glumarko  
 gol - golo  
 gom - kaŭĉuko  
 gon - angulo  
@@ -1345,7 +1348,6 @@ piano\* - piano
 piaze - cepo  
 pige - kulo  
 pijin - piĝino  
-pike - pinto  
 pil - haŭto  
 pin - nadlo (pinglo, pikilo)  
 pina - piki  
@@ -1377,6 +1379,7 @@ porte - haveno
 Portorikia - Portoriko  
 pospor - fosforo  
 postokan - poŝtejo  
+postomarke - poŝtmarko  
 pote - koto  
 poti - kota  
 prezidente - prezidento  
@@ -1711,8 +1714,6 @@ uniko - sole (nur)
 unyom - luno  
 unmaro - unufoje  
 unoki lense - monoklo  
-ungle - fingro  
-ungloring - ringo  
 voda - promesi  
 vol - volo  
 volu - voli  
@@ -1726,6 +1727,7 @@ xake - branĉo
 xal - koltuko  
 xaman - ŝamano  
 xan - monto  
+xanpike - pinto  
 xanti - trankvila (serena)  
 xarme - honto  
 xarnir - ĉarniro (pivoto)  

@@ -37,6 +37,7 @@
 |**ampul**|ampolla (vial)|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
 |**ande**|huevo|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |**andesite**|andesita|spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|
+|**angul**|dedo|hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|
 |**anim**|animación (dibujo animado)|eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|
 |**anjil**|mensaje|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |**anker**|ancla|eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru)|
@@ -985,7 +986,7 @@
 |**piaze**|cebolla|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
 |**pige**|trasero (nalgas)|tgl:pigi, zho:屁股 (pìgu), yue:屁股 (pei3 gu2)|
 |**pijin**|pidgin|eng:spa:por:fra:pidgin, rus:пиджин (pidzhin), swa:pijini, zho:皮欽語 (píqīnyǔ), jpn:ピジン (pijin)|
-|**pike**|cima (pico, cumbre, vértice)|eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|
+|**pike**|pico (punta)|eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|
 |**pil**|piel|eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|
 |**piloter**|piloto|eng:por:pilot, spa:piloto, fra:pilote, deu:Pilot, rus:пило́т (pilót), jpn:パイロット (pairotto)|
 |**pin**|alfiler (espina, aguja)|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
@@ -1267,7 +1268,6 @@
 |**umur**|edad|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
 |**un (uni)**|uno (1)|fra:un, spa:uno, por:um,una, eng:one|
 |**unal**|el uno al otro (se)|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
-|**ungle**|dedo|hin:उंगली (uṅglī), ben:অঙ্গুলি (ôṅguli), guj:આંગળી (ā̃gaḷī), pli:aṅguli|
 |**ura**|hurra|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**urse**|oso|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**uza**|usar (aplicar)|eng:use, spa:usar, pol:używać|

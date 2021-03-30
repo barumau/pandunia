@@ -34,6 +34,7 @@
 |**ampul**|ampułka|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
 |**ande**|jajko (jajo)|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |**andesite**|andezyt|spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|
+|**angul**|palec|hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|
 |**ani**|negatywny (przeciwny, nie)|ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|
 |**anim**|animacja|eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|
 |**anjil**|wiadomość|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
@@ -982,7 +983,6 @@
 |**piaze**|cebula|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
 |**pige**|pośladki, pupa, tyłek, zadek|tgl:pigi, zho:屁股 (pìgu), yue:屁股 (pei3 gu2)|
 |**pijin**|pidżin, język pomocniczy|eng:spa:por:fra:pidgin, rus:пиджин (pidzhin), swa:pijini, zho:皮欽語 (píqīnyǔ), jpn:ピジン (pijin)|
-|**pike**|szczyt (wierzchołek)|eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|
 |**pil**|skóra|eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|
 |**piloter**|pilot|eng:por:pilot, spa:piloto, fra:pilote, deu:Pilot, rus:пило́т (pilót), jpn:パイロット (pairotto)|
 |**pin**|igła, szpilka|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
@@ -1263,7 +1263,6 @@
 |**umur**|wiek|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
 |**un (uni)**|jeden (1)|fra:un, spa:uno, por:um,una, eng:one|
 |**unal**|się (nawzajem, wzajemnie)|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
-|**ungle**|palec|hin:उंगली (uṅglī), ben:অঙ্গুলি (ôṅguli), guj:આંગળી (ā̃gaḷī), pli:aṅguli|
 |**ura**|wiwatować; hura|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**urse**|niedźwiedź|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**uza**|użyć, używać, zatrudnić, stosować|eng:use, spa:usar, pol:używać|

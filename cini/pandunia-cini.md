@@ -45,6 +45,9 @@ andiniste - 不信神的
 anmema - 忘记  
 ansomia - 失眠  
 andesite - 安山岩  
+angul - 手指  
+angulmarke - 指纹 (指印)  
+angulpike - 指尖  
 anim - 活跃  
 anjil - 信息  
 anker - 锚  
@@ -298,6 +301,7 @@ fuke - 衣服
 fuku - 穿  
 ful - 花  
 fungopal - 蘑菇  
+futomarke - 脚印  
 ####G - G  
 gabra - 埋葬  
 gabre - 坟墓  
@@ -329,6 +333,8 @@ gitar - 吉他
 giuke - 玉  
 glisu - 滑下  
 gluti - 黏的  
+glutobende - 创可贴 (邦迪)  
+glutograf - 贴纸  
 glutopote - 黏土  
 gol - 目的  
 goril - 大猩猩  
@@ -792,6 +798,7 @@ pex - 鱼
 pexhuke - 鱼钩  
 pexosaider - 鱼夫  
 piaze - 洋葱  
+pike - 尖顶  
 pil - 皮  
 pin - 别针  
 pincope - 镐  
@@ -1011,7 +1018,6 @@ uniko - 只有 (惟独)
 unyom - 星期一 (禮拜一)  
 unjani - 独自的 (孤单)  
 unmaro - 一次 (一遍)  
-ungle - 手指  
 voda - 许诺  
 vode - 诺言  
 volu - 想要 (愿意)  

@@ -36,6 +36,7 @@
 |**ampul**|ampulli|ranska:englanti:ampoule, yleiskiina:安瓿 (ānbù), japani:アンプル (anpuru), venäjä:ампула (ámpula), arabia:(ʾambūla)|
 |**an:a**|teettää|englanti:ranska:-ant, espanja:portugali:-ando, turkki:-(y)an;-(y)en, malaiji:-an + [ana] persia:(-ân-), hindi:(-(v)ānā), bangla:-নো  (-ānô)|
 |**ande**|muna|hindi:अंडा (aṇḍā), bangla:আণ্ডা (aṇḍa), urdu:(aṇḍā), pandzabi:ਆਂਡਾ (āṇḍā), telugu:(aṇḍamu), zulu:xho:iqanda, mon:өндөг (öndög)|
+|**angul**|sormi tai varvas|hindi:अंगुलि (aṅgulī), bangla:আঙুল (aṅgul)|
 |**ani**|vastakohtainen (negatiivinen, epä-)|kreikka:ἀν- (an-), englanti:un-, hindi:अन- (an-), ranska:espanja:portugali:in-|
 |**anim**|animaatio (piirretty)|englanti:ranska:animation, espanja:animación, portugali:animação, venäjä:анимация, japani:アニメ (anime), turkki:malaiji:anime, arabia:أنمي m (ʾanimī), hindi:ऐनिमे (ainime), korea:아니메 (anime)|
 |**anjil**|viesti|kreikka:ἀγγελία (angelía), arabia:(ʾinjīl), suahili:injili, malaiji:injil, turkki:incil, hindi:इंजील (iñjīl), venäjä:евангелие (evangeliye), ranska:évangile, portugali:evangelho|
@@ -951,7 +952,7 @@
 |**piaze**|sipuli|persia:urdu:پیاز (piaz), hindi:प्याज (pyaz), bangla:পেঁয়াজ (peadz)|
 |**pige**|pylly (takapuoli, pakarat)|filippiini:pigi, yleiskiina:屁股 (pìgu), kantoninkiina:屁股 (pei3 gu2)|
 |**pijin**|kontaktikieli (pidgin)|englanti:espanja:portugali:ranska:pidgin, venäjä:пиджин (pidzhin), suahili:pijini, yleiskiina:皮欽語 (píqīnyǔ), japani:ピジン (pijin)|
-|**pike**|huippu|englanti:peak, ranska:pic, espanja:portugali:pico, venäjä:пик (pik), que:pikchu|
+|**pike**|kärki (pää)|englanti:peak, ranska:pic, espanja:portugali:pico, venäjä:пик (pik), que:pikchu|
 |**pil**|nahka (kuori, iho)|englanti:peel, espanja:piel, portugali:pele, yleiskiina:皮 (pí), wu-kiina:皮 (bí), kantoninkiina:皮 (pei4)|
 |**piloter**|ohjaaja (pilotti, luotsi)|englanti:portugali:pilot, espanja:piloto, ranska:pilote, deu:Pilot, venäjä:пило́т (pilót), japani:パイロット (pairotto)|
 |**pin**|piikki (pistin, neula)|englanti:pin, japani:ピン (pin), korea:핀 (pin), hindi:पिन (pin)|
@@ -1211,7 +1212,6 @@
 |**umur**|ikä|arabia:عُمْر‎ (ʿumr), hindi:उमर (umar), malaiji:umur, suahili:umri|
 |**un (uni)**|yksi (1)|ranska:un, espanja:uno, portugali:um,una, englanti:one|
 |**unal**|toisiaan (keskenään)|englanti:one another, italia:l’una, l’altra, ranska: l'un l'autre, espanja:el uno al otro, portugali:um ao outro, turkki:birbirine, yleiskiina:彼此 (bǐcǐ)|
-|**ungle**|sormi tai varvas|hindi:उंगली (uṅglī), bangla:অঙ্গুলি (ôṅguli), gujarati:આંગળી (ā̃gaḷī), pli:aṅguli|
 |**ura**|hurraa (hurrata)|venäjä:ура (ura), italia:urrà, deu:espanja:hurra, ranska:hourra, englanti:hurrah, malaiji:hore, persia:(hurâ)|
 |**urse**|karhu|ranska:ours, portugali:urso, espanja:oso, persia:(xers)|
 |**uza**|käyttää|englanti:use, espanja:usar, puola:używać|

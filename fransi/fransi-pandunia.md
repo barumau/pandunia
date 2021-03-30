@@ -148,6 +148,7 @@ attaquer (agresser) - agresa
 aubergine - bedinje  
 Australie - Australia  
 autel - pujomeze  
+autocollant - glutograf  
 automne - padomosim  
 autre - ali  
 autrement - alo  
@@ -231,6 +232,8 @@ Bouddha - Bude
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
 bouleau - berje  
+bout (pointe, pic) - pike  
+bout de doigt - angulpike  
 bouteille - botel  
 bouton - buton  
 boxe - bokse  
@@ -251,6 +254,7 @@ bédouin - badavi
 bûche - mokotan  
 ####C - C  
 cacher - sira  
+cachet de la poste - postomarke  
 cactus - katus  
 cadre - frem  
 café - kafekan  
@@ -327,7 +331,7 @@ chêne - balute
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
 ciel - ten  
-cime (pic, sommet) - pike  
+cime (pic, sommet) - xanpike  
 cimetière - gabrotopia  
 cinq (5) - limi  
 cirse commun - perkardon  
@@ -472,6 +476,8 @@ effet - asar
 effrayant - fobani  
 effrayer - foba  
 Einsteinium - ainstainem  
+empreinte de pied - futomarke  
+empreinte digitale - angulmarke  
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
@@ -895,6 +901,7 @@ panda - pande
 pandémie - pandemi patia  
 panier (panier de basketball) - baske  
 panneau de signalisation - dauban  
+pansement (sparadrap) - glutobende  
 pantalon - pante  
 pantoufle (babouche) - babuce  
 papaye - papai  
@@ -1203,6 +1210,7 @@ touriste - safariste
 Tournesol - solful  
 toxicologie - toksolojia  
 toxine - biutokse  
+trace - marke  
 traduction - tarje  
 travail - kar  
 travailler - kara  

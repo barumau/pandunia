@@ -22,6 +22,7 @@
 |**almas**|diamante|swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |**am**|amor|eng:fra:amour, spa:por:amor|
 |**andesite**|andesito|spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|
+|**angul**|dedo|hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|
 |**anjil**|mensagem|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |**anker**|âncora|eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru)|
 |**aple**|maçã|eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|
@@ -325,6 +326,7 @@
 |**marce**|marcha|eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi|
 |**margai**|gato-maracajá|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|
 |**margarite**|margarida|spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|
+|**marke**|mancha (marca)|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
 |**Marse**|Marte|eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|
 |**mas**|massa|eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|
 |**masal**|tempero|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
@@ -418,7 +420,7 @@
 |**petre**|rocha (pedra)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
 |**pex**|peixe|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
 |**piaze**|cebola|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
-|**pike**|cume (pico, topo)|eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|
+|**pike**|ponta (pico, bico)|eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|
 |**pil**|pele|eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|
 |**pin**|alfinete|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |**pipre**|pimenta|eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|
@@ -508,7 +510,6 @@
 |**tuze**|coelho (lebre)|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|
 |**umur**|idade|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
 |**un (uni)**|um (1)|fra:un, spa:uno, por:um,una, eng:one|
-|**ungle**|dedo|hin:उंगली (uṅglī), ben:অঙ্গুলি (ôṅguli), guj:આંગળી (ā̃gaḷī), pli:aṅguli|
 |**ura**|urra|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**urse**|urso|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**vade**|vale (uadi)|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
