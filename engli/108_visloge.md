@@ -47,22 +47,24 @@ The plural form is used in the reciprocal sense.
 
 ## Demonstrative pronouns
 
-The demonstrative pronoun is:
+The demonstrative pronouns are:
 
 **ye**
 – this  
 **ve**
 – that  
 **le**
-– that; the aforementioned
+– it, the aforementioned
 
 **ve** is used for introducing a new object.
-**le** is used when the speaker has already mentioned the object.
+**le** is used when the speaker has already mentioned the object or person.
 
 **me vola ye.**
 – I want this.  
-**le vola ve.**
-– He/she wants that.
+**te vola ve.**
+– You wants that.  
+**ye sa mux. mau vola yama le.**
+– This is a mouse. The cat wants to eat it.
 
 They end in **-i** when they functions as modifiers i.e. when they come before a noun.
 
