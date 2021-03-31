@@ -10,11 +10,11 @@ Pronouns can substitute nouns and noun phrases.
 – you  
 **le**
 – he, she, it  
-**mome**
+**mes**
 – we  
-**tote**
+**tes**
 – you all  
-**lole**
+**les**
 – they
 
 ## Reflexive pronoun
@@ -31,8 +31,19 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 – I see myself.  
 **le vida se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mome vida se.**
+**mes vida se.**
 – We see ourselves.
+
+The plural form is used in the reciprocal sense.
+
+**ses**
+– each other
+
+**me e te vida ses.**
+– Me and you see each other.  
+**mes vida ses.**
+– We see each other.
+
 
 ## Demonstrative pronouns
 
@@ -41,9 +52,12 @@ The demonstrative pronoun is:
 **ye**
 – this  
 **ve**
-– that, that over there  
-**de**
+– that  
+**le**
 – that; the aforementioned
+
+**ve** is used for introducing a new object.
+**le** is used when the speaker has already mentioned the object.
 
 **me vola ye.**
 – I want this.  
@@ -56,7 +70,7 @@ They end in **-i** when they functions as modifiers i.e. when they come before a
 – this cat  
 **vi vaf**
 – that dog  
-**di mux**
+**li mux**
 – the mouse (that we talked about)
 
 
@@ -64,7 +78,7 @@ They end in **-i** when they functions as modifiers i.e. when they come before a
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**de** refers to things previously spoken,
+**le** refers to things previously spoken,
 **ye** refers to things currently being spoken,
 and **ve** refers to things about to be spoken.
 
@@ -75,7 +89,7 @@ In the above, **yi jumle** (_this sentence_) refers to the sentence being spoken
 
 **me mena ve: me ama te.**
 – I mean this: I love you. OR I mean that I love you.  
-**me ama te. de me mena.**
+**me ama te. le me mena.**
 – I love you. That is what I mean.
 
 In the above, the pronoun **ve** refers to the content of the next statement
@@ -148,22 +162,20 @@ In Pandunia, the pronouns and other function words that are derived from them ha
 |  |               | I                  | my                 |                    |                    |                    |
 | 2| 2nd person    | **te**             | **ti**             |                    |                    |                    |
 |  |               | you                | your               |                    |                    |                    |
-| 3| 3rd person    | **le**             | **li**             |                    |                    |                    |
-|  |               | he, she, it        | his, her, its      |                    |                    |                    |
-| 4| Sameness      | **se**             | **si**             |                    | **sa**             |                    |
-|  |               | ~self              | one's own          |                    | to be; as a        |                    |
-| 5| Interrogative | **ke**             | **ki**             | **ko**             |                    |                    |
+| 3| Past distal   | **le**             | **li**             | **lo**             | **la**             |                    |
+|  |               | it, he, she        | the                | as aforementioned  | from, since; than  |                    |
+| 4| Proximal      | **he**             | **hi**             | **ho**             | **ha**             |                    |
+|  |               | this               | this               | like this          | at, in, on         |                    |
+| 5| Future distal | **ve**             | **vi**             | **vo**             | **va**             |                    |
+|  |               | that               | that               | like that          | to, for            |                    |
+| 6| Identity      | **se**             | **si**             |                    | **sa**             |                    |
+|  |               | self               | 's own             |                    | be; as             |                    |
+| 7| Question      | **ke**             | **ki**             | **ko**             |                    |                    |
 |  |               | what?              | which?             | how?               |                    |                    |
-| 6| Inclusive     | **he**             | **hi**             | **ho**             | **ha**             |                    |
-|  |               | something          | some               | yes, indeed        | have; with; there's|                    |
-| 7| Exclusive     | **ne**             | **ni**             | **no**             | **na**             |                    |
-|  |               | none               | no, not any        | not                | lack; without      |                    |
-| 8| Present       | **?e**             | **?i**             | **?o**             | **?a**             |                    |
-|  | location      | this               | this               | thus               | at, in, on         |                    |
-| 9| Future        | **ve**             | **vi**             | **vo**             | **va**             |                    |
-|  | destination   | that there         | that there         | so                 | to, for            |                    |
-|10| Past          | **de**             | **di**             |                    | **da**             |                    |
-|  | origin        | that, which        | that, which        |                    | from, since; than  |                    |
-|11| Attributive   |                    |                    |                    | **ya**             | **yu**             |
-|  |               |                    |                    |                    | of, like           | 's, -like          |
+| 8| Existence     | **ye**             | **yi**             | **yo**             | **ya**             |                    |
+|  |               | (some)one          | some, a(n)         | really             | with; there is     |                    |
+| 9| Non-existence | **ne**             | **ni**             | **no**             | **na**             |                    |
+|  |               | none               | not any            | not; no            | without            |                    |
+|10| Relative      | **de**             |                    |                    | **da**             | **du**             |
+|  |               | which              |                    |                    | of, like           | 's, -like          |
 
