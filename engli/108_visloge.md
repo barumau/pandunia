@@ -1,8 +1,8 @@
 # Pronouns
 
-## Personal pronouns
-
 Pronouns can substitute nouns and noun phrases.
+
+## Personal pronouns
 
 **me**
 – I, me  
@@ -17,6 +17,11 @@ Pronouns can substitute nouns and noun phrases.
 **les**
 – they
 
+All pronouns can be used for all genders.
+The most common third person pronoun is **le**
+but also **ye** (_this_) and **ve** (_that_) can be used instead.
+
+
 ## Reflexive pronoun
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
@@ -24,7 +29,7 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 **se**
 – self
 
-Note! The reflexive pronoun **se** is used for all persons,
+Note! The same reflexive pronoun is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
 **me vida se**
@@ -49,31 +54,37 @@ The plural form is used in the reciprocal sense.
 
 The demonstrative pronouns are:
 
-**ye**
+**ye** / **yi**
 – this  
-**ve**
+**ve** / **vi**
 – that  
-**le**
+**le** / **li**
 – it, the aforementioned
 
-**ve** is used for introducing a new object.
-**le** is used when the speaker has already mentioned the object or person.
+The form that ends in **-e** is used when the demonstrative stands alone,
+and the form that ends in **-i** is used when the demonstrative modifies a noun.
 
-**me vola ye.**
-– I want this.  
-**te vola ve.**
-– You wants that.  
-**ye sa mux. mau vola yama le.**
-– This is a mouse. The cat wants to eat it.
+The proximal demonstrative **ye** points to things that are near the speaker.
+The distal demonstrative **ve** points to things that are far from the speaker.
 
-They end in **-i** when they functions as modifiers i.e. when they come before a noun.
+**ye sa boni.**
+– This is good.  
+**ve sa dusi.**
+– That is bad.  
+**me vola yi buke, no vi.**
+– I want this book, not that.
 
-**yi mau**
-– this cat  
-**vi vaf**
-– that dog  
-**li mux**
-– the mouse (that we talked about)
+The basic proximal and distal pronouns are used for introducing a new object.
+The topical demonstrative **le**, on the other hand,
+does not specify physical distance
+but it is used when the speaker has already mentioned the object or person in question
+and it is known by the audience or is topical within the discourse.
+
+**ye sa mau. le vola yama vi mux.**
+– This is a cat. It wants to eat that mouse.
+
+**me mala un mau e un vaf. li vaf sa dayi. le yama polo yam.**
+– I own a cat and a dog. The dog is big. It eats a lot of food.
 
 
 ### Abstract use
@@ -160,24 +171,24 @@ In Pandunia, the pronouns and other function words that are derived from them ha
 
 |  | Idea          | Pronoun            | Determiner         | Adverb             | Preposition        | Postposition       |
 |--|:--------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
-| 1| 1st person    | **me**             | **mi**             |                    |                    |                    |
+| 1| Speaker       | **me**             | **mi**             |                    |                    |                    |
 |  |               | I                  | my                 |                    |                    |                    |
-| 2| 2nd person    | **te**             | **ti**             |                    |                    |                    |
+| 2| Addressee     | **te**             | **ti**             |                    |                    |                    |
 |  |               | you                | your               |                    |                    |                    |
-| 3| Past distal   | **le**             | **li**             | **lo**             | **la**             |                    |
-|  |               | it, he, she        | the                | as aforementioned  | from, since; than  |                    |
-| 4| Proximal      | **he**             | **hi**             | **ho**             | **ha**             |                    |
+| 3| Topical       | **le**             | **li**             | **lo**             | **la**             |                    |
+|  |               | that (aforesaid)   | the (aforesaid)    | as aforesaid       | from, since        |                    |
+| 4| Proximal      | **ye**             | **yi**             | **yo**             | **ya**             |                    |
 |  |               | this               | this               | like this          | at, in, on         |                    |
-| 5| Future distal | **ve**             | **vi**             | **vo**             | **va**             |                    |
+| 5| Distal        | **ve**             | **vi**             | **vo**             | **va**             |                    |
 |  |               | that               | that               | like that          | to, for            |                    |
 | 6| Identity      | **se**             | **si**             |                    | **sa**             |                    |
 |  |               | self               | 's own             |                    | be; as             |                    |
 | 7| Question      | **ke**             | **ki**             | **ko**             |                    |                    |
 |  |               | what?              | which?             | how?               |                    |                    |
-| 8| Existence     | **ye**             | **yi**             | **yo**             | **ya**             |                    |
+| 8| Existence     | **he**             | **hi**             | **ho**             | **ha**             |                    |
 |  |               | (some)one          | some, a(n)         | really             | with; there is     |                    |
 | 9| Non-existence | **ne**             | **ni**             | **no**             | **na**             |                    |
 |  |               | none               | not any            | not; no            | without            |                    |
-|10| Relative      | **de**             |                    |                    | **da**             | **du**             |
-|  |               | which              |                    |                    | of, like           | 's, -like          |
+|10| Relative      | **de**             | **di**             |                    | **da**             | **du**             |
+|  |               | which              | which              |                    | of                 | 's                 |
 
