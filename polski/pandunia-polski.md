@@ -530,7 +530,6 @@ cuze - wybór, elekcja, selekcja
 cuzable - opcja (wybór)  
 ####D - D  
 da - z (partykuła posiadania)  
-di - ten (te)  
 du - mieć (partykuła posiadania)  
 dayi - duży  
 dayia - rozmiar  
@@ -730,6 +729,7 @@ dux - prysznic
 ####E - E  
 e - i, oraz  
 eglis - kościół  
+eh - hę?, co?, pardon?  
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
 ekojeni - dziki  
@@ -1110,7 +1110,7 @@ guste - smak
 gustu ko - smakować jak  
 gute - kolano  
 ####H - H  
-he - hę?, co?, pardon?  
+ha - mieć (trzymać)  
 habar - wiadomość, nius  
 habargazete - gazeta  
 habaxi - abisyński  
@@ -1247,7 +1247,10 @@ huristi - liberalny, wolnościowy
 huristia - liberalizm  
 huxi - miły, przyjemny, uroczy  
 ####I - I  
-ya - mieć (trzymać)  
+ya - przy, z, na, w, u  
+ya ke - gdzie  
+ya linye - online (na linii, w sieci)  
+ya ve - tu (tutaj, tam)  
 ye - tak  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
@@ -1355,7 +1358,6 @@ yumoriste - komik
 yuterbem - iterb  
 yutrem - itr  
 ####J - J  
-ja - z (od)  
 jaga - obudzić, budzić  
 jagi - przebudzony, przytomny  
 Jayeria - Algieria  
@@ -1781,6 +1783,7 @@ kuxu - leżeć
 kuxen - poduszka  
 kuxloke - kuszetka (koja)  
 ####L - L  
+la - z (od)  
 le - on, ona, ono  
 lole - oni  
 labe - warga  
@@ -2415,7 +2418,6 @@ ostojamia - szkielet
 ostoxalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
 ####P - P  
-pa - do, dopóki, dla  
 pace - pokój  
 Paci Hai - Ocean Spokojny (Pacyfik)  
 paciste - pacyfista  
@@ -3272,10 +3274,7 @@ Turkomenia - Turkmenistan
 Tuvalu - Tuwalu  
 tuze - królik, zając  
 ####U - U  
-va - przy, z, na, w, u  
-va de - tu (tutaj, tam)  
-va ke - gdzie  
-va linye - online (na linii, w sieci)  
+va - do, dopóki, dla  
 vade - dolina  
 vadosusan - konwalia majowa  
 vaf - pies  

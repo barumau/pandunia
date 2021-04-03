@@ -326,8 +326,6 @@ cuza - elekti
 cuze - elekto  
 ####D - D  
 da - de (partiklo de posedo)  
-de - tio  
-di - la (tiu)  
 du - propra (partiklo de posedo)  
 dayi - granda  
 dayanjiler - ambasadoro  
@@ -439,6 +437,7 @@ dux - duŝo
 ####E - E  
 e - kaj  
 eglis - preĝejo  
+eh - ĉu?  
 ekia - naturo  
 ekor - sciuro  
 ekran - ekrano  
@@ -667,7 +666,7 @@ guste - gusto
 gustu ko - gusti kiel  
 gute - genuo  
 ####H - H  
-he - ĉu?  
+ha - havi (teni)  
 habar - novaĵoj  
 habargazete - gazeto  
 hafnem - hafnio  
@@ -750,8 +749,11 @@ huri - libera
 huria - libereco  
 huxi - agrabla  
 ####I - I  
-ya - havi (teni)  
+ya ke - kie  
+ya ve - tie  
+ye - ĉi tio  
 ye - jes  
+yi - ĉi tiu  
 Yahve - Javeo (Jehovo)  
 yala - rapidigi  
 yama - manĝi (trinki)  
@@ -800,7 +802,6 @@ yumoriste - humuristo
 yuterbem - iterbio  
 yutrem - itrio  
 ####J - J  
-ja - de (el, pro)  
 jagi - uyanık  
 jake - jako  
 jama - kolekti (kunigi)  
@@ -1013,6 +1014,7 @@ kurse - seĝo
 kurve - kurbo  
 kuxu - kuŝi  
 ####L - L  
+la - de (el, pro)  
 le - li aŭ ŝi aŭ ĝi  
 lole - ili  
 labe - lipo  
@@ -1286,7 +1288,6 @@ osmem - osmio
 osmos - osmozo  
 oste - osto  
 ####P - P  
-pa - al (ĝis, por)  
 pace - paco  
 paciste - pacifisto  
 pacistia - pacifismo  
@@ -1666,8 +1667,9 @@ tunike - robo
 tupe - ĉapelo  
 Turkia - Turkio  
 ####U - U  
-va de - tie  
-va ke - kie  
+va - al (ĝis, por)  
+ve - tio  
+ve - tiu  
 vade - valo  
 vaf - hundo  
 vagin - vagino  

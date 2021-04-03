@@ -287,7 +287,7 @@ dados - date
 damasco (abricó) - barkoke  
 dano (avaria) - avar  
 danês - dani  
-de - ja  
+de - la  
 dedo - angul  
 deitar - kuxa  
 deixar - laxa  
@@ -703,8 +703,8 @@ ocupado (atarefado) - mangi
 oito (8) - bali  
 olho - oke  
 onda - onde  
-onde - va ke  
-online - va linye  
+onde - ya ke  
+online - ya linye  
 ontem - cendeno  
 opor - xata  
 opção - cuzable  

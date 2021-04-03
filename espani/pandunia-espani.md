@@ -532,8 +532,6 @@ cuze - elección
 cuzable - opción  
 ####D - D  
 da - de (posposición de posesión)  
-de - eso (esto)  
-di - el (esto, eso)  
 du - de (posposición de posesión)  
 dayi - grande  
 dayia - tamaño  
@@ -732,6 +730,7 @@ dux - ducha
 ####E - E  
 e - y  
 eglis - iglesia  
+eh - cómo? (eh?)  
 eki - ambiental (ecológico, natural)  
 ekia - medioambiente (naturaleza)  
 ekojeni - salvaje  
@@ -1119,7 +1118,7 @@ guste - gusto (sabor)
 gustu ko - tener gusto a  
 gute - rodilla  
 ####H - H  
-he - cómo? (eh?)  
+ha - con (tener)  
 habar - noticias  
 habargazete - periódico (diario)  
 habaxi - abisinio  
@@ -1260,7 +1259,10 @@ huristi - liberal
 huristia - liberalismo  
 huxi - cómodo (lujoso)  
 ####I - I  
-ya - con (tener)  
+ya - en (a)  
+ya ke - dónde  
+ya linye - en línea  
+ya ve - allí (allá)  
 ye - sí  
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
@@ -1366,7 +1368,6 @@ yumoriste - humorista
 yuterbem - iterbio  
 yutrem - itrio  
 ####J - J  
-ja - de (desde)  
 jaga - despertar  
 jagi - despierto  
 jagu - despertarse  
@@ -1785,6 +1786,7 @@ kuxa - acostar (poner)
 kuxu - acostarse (echarse, tenderse, tumbarse)  
 kuxen - almohada  
 ####L - L  
+la - de (desde)  
 le - él o ella  
 lole - ellos o ellas  
 labe - labio  
@@ -2408,7 +2410,6 @@ oste - hueso
 ostojamia - esqueleto (armazón)  
 Ostria - Austria  
 ####P - P  
-pa - a (hacia)  
 pace - paz  
 Paci Hai - océano Pacífico  
 paciste - pacifista  
@@ -3270,10 +3271,7 @@ Turkomenia - Turkmenistán
 Tuvalu - Tuvalu  
 tuze - conejo (liebre)  
 ####U - U  
-va - en (a)  
-va de - allí (allá)  
-va ke - dónde  
-va linye - en línea  
+va - a (hacia)  
 vade - valle  
 vadosusan - convalaria (lirio de los valles)  
 vaf - perro  

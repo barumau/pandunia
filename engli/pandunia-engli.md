@@ -576,8 +576,7 @@ cuze - choice (election, selection)
 cuzable - option (choice)  
 ####D - D  
 da - of (attributive preposition)  
-de - that (this)  
-di - the (this, that, these, those)  
+de - which (who, that)  
 du - 's (attributive postposition)  
 dayi - big (great)  
 dayia - size  
@@ -797,6 +796,7 @@ dux - shower
 ####E - E  
 e - and  
 eglis - church  
+eh - huh? (pardon?)  
 eki - environmental (natural)  
 ekia - environment (nature)  
 ekojeni - wild (savage)  
@@ -1217,7 +1217,8 @@ guste - taste (flavor)
 gustu ko - taste like  
 gute - knee  
 ####H - H  
-he - huh? (pardon?)  
+ha - with (there be; have)  
+he - one (someone)  
 habar - news  
 habargazete - newspaper (gazette)  
 habaxi - Abyssinian  
@@ -1368,8 +1369,13 @@ huristi - liberal
 huristia - liberalism  
 huxi - nice (pleasant, comfortable, cushy)  
 ####I - I  
-ya - with (by, have)  
+ya - by (at, in, on)  
+ya ke - where  
+ya linye - online  
+ya ve - there  
+ye - this  
 ye - yes  
+yi - this  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
 yagones - peninsula  
@@ -1485,7 +1491,6 @@ yumoriste - humorist
 yuterbem - ytterbium  
 yutrem - yttrium  
 ####J - J  
-ja - from (since, because)  
 jaga - wake (make awake)  
 jagi - awake  
 jagu - wake (become awake)  
@@ -1943,6 +1948,7 @@ kuxu - lie (lie down)
 kuxen - cushion (pillow)  
 kuxloke - berth (couchette)  
 ####L - L  
+la - from (since, because)  
 le - he or she or it  
 lole - they  
 labe - lip  
@@ -2409,6 +2415,7 @@ muziker - musician
 ####N - N  
 na - without  
 na linye - offline  
+ne - none  
 no - not (no)  
 nabe - prophecy  
 naber - prophet  
@@ -2611,7 +2618,6 @@ ostojamia - skeleton (frame)
 ostoxalke - scute  
 Ostria - Austria  
 ####P - P  
-pa - to (toward, till, until, for)  
 pace - peace  
 Paci Hai - Pacific Ocean  
 paciste - pacifist  
@@ -3520,10 +3526,9 @@ Turkomenia - Turkmenistan
 Tuvalu - Tuvalu  
 tuze - rabbit (hare)  
 ####U - U  
-va - by (at, in, on)  
-va de - there  
-va ke - where  
-va linye - online  
+va - to (toward, till, until, for)  
+ve - that  
+ve - that  
 vade - valley  
 vadosusan - lily of the valley  
 vaf - dog  

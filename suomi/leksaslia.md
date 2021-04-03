@@ -215,6 +215,7 @@
 |**cupa**|imeä|espanja:portugali:chupar, khmer:ជប់ (cup)|
 |**cuta**|poistua|yleiskiina:出 (chū), hakkakiina:(chut), korea:출 (chul), hindi:छूटना (chūtnā) + turkki:çıkmak|
 |**cuza**|valita|englanti:choose, + hindi:चुनना (cunnā), + vietnami:chọn|
+|**da**|määritetyn määritteeseen liittävä partikkeli|[da] ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] yleiskiina:的 (de), kantoninkiina:啲 (di1) + [de] deu:der|
 |**daihai**|valtameri|yleiskiina:大海 (dàhǎi), japani:大海 (taikai),  korea:대양 (daeyang), vietnami:đại dương, hindi:महासागर (mahāsāgar), bangla:মহাসমুদ্র (môhaśmudr), thai:มหาสมุทร (mahasamut)|
 |**daka**|peittää|hindi:ढकना (dhaknā), bangla:ঢাকা (ḍhaka), pandzabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, englanti:deck|
 |**dalil**|todiste (todistus, osoitus, demonstraatio)|arabia:(dalil), bangla:দলিল (dôlil), suahili:dalili, turkki:delil|
@@ -246,7 +247,6 @@
 |**detal**|yksityiskohta (detalji)|englanti:detail, espanja:detalle, portugali:detalhe, ranska:détail, deu:Detail, venäjä:дета́ль (detal’)|
 |**deu**|jumala|portugali:deus, malaiji:dewa, hindi:देवता (devtā), kannada:(dēva) + englanti:theo-, ranska:théo-, espanja:teo-, venäjä:тео- (teo-)|
 |**dex**|maa (valtio)|hindi:देश (deś), bangla:দেশ (deś), telugu:(dēśamu)|
-|**di**|tämä (tuo, se)|[di] englanti:the, deu:die + [da] ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] yleiskiina:的 (de), kantoninkiina:啲 (di1)|
 |**dike**|maali (maalitaulu, kohde)|yleiskiina:的 (dí), kantoninkiina:的 (dik1), japani:的 (teki), vietnami:đích + bangla:দিকে (dike)|
 |**din**|uskonto|arabia:(dīn), bangla:দীন (din), persia:(din), turkki:malaiji:din, suahili:dini, hausa:addini, hindi:दीन (dīn)|
 |**dinamite**|dynamiitti|englanti:dynamite, espanja:dinamita, venäjä:динамит (dinamit), turkki:malaiji:dinamit, arabia:ديناميت (dinamit), hindi:डायनामाइट (dāyanāmait), japani:ダイナマイト (dainamaito)|
@@ -283,6 +283,7 @@
 |**dux**|suihku|ranska:douche, espanja:portugali:ducha, deu:Dusche, venäjä:душ (duš), arabia: دوش (dūš), malaiji:dus, turkki:duş|
 |**e**|ja (sekä)|ranska:et, portugali:e, espanja:y;e, yleiskiina:和 (hé)|
 |**eglis**|kirkko|persia:(kelisā), turkki:kilise, malaiji:gereja, portugali:igreja, hindi:गिरजा (girjā), arabia:(kanisā), ranska:église|
+|**eh**|häh?|ranska:portugali:hein, japani:e|
 |**ekia**|luonto|englanti:espanja:portugali:eco-, ranska:éco-, deu:öko-, venäjä:эко-, turkki:malaiji:eko-|
 |**ekolojia**|ekologia (ympäristötiede)|deu:Ökologie, englanti:ecology, ranska:écologie, venäjä:экология (ekologiya), malaiji:ekologi, turkki:ekoloji, suahili:ikolojia|
 |**ekor**|orava|ranska:écureuil, yoruba:ọkẹrẹ, sve:ekorre, hausa:kurege|
@@ -461,7 +462,6 @@
 |**hata**|asti (saakka)|portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata + persia: تا‎ (tâ), hindi:तक (-tak)|
 |**hatre**|vaara|arabia: خطر‎ (xaṭar), persia: خطر‎ (xatar), urdu: خطرہ‎ (xatrā), hindi:ख़तरा (xatrā), suahili:hatari, turkki:muhatara|
 |**hau**|tuuli (puhallus)|hindi:हवा (havā), bangla:হাওয়া (haowa) + arabia: هَوَاء‎ (hawāʾ), turkki:hava, malaiji:hawa, suahili:hewa|
-|**he**|häh?|ranska:portugali:hein, japani:e|
 |**helis**|kierre (spiraali)|kreikka: ἕλιξ (helix), englanti:helix, ranska:portugali:espanja:hélice, puola:helisa, arabia:(ḥalazūn), turkki:helezon|
 |**helpe**|apu|englanti:help, deu:Hilfe|
 |**hem**|hmm|englanti:hmm, venäjä:хм (hm), эм (em), korea:음 (eum)|
@@ -1229,6 +1229,7 @@
 |**vau**|oho (vau)|yleiskiina:哇 (wā), englanti:wow|
 |**vaxa**|pestä|englanti:wash, deu:waschen, yleiskiina:洗 (xǐ)|
 |**vaze**|ruukku (maljakko, vaasi)|deu:englanti:ranska:vase, puola:waza, venäjä:ваза (vaza), turkki:vazo|
+|**ve**|tuo|hindi:वह (veh), bangla:ওই (oi)|
 |**vei**|häntä|yleiskiina:尾 (wěi), kantoninkiina:尾 (mei5), wu-kiina:尾 (vi3), nan:尾 (bé), japani:尾 (bi)|
 |**ventur**|seikkailu|deu:Abenteuer, espanja:aventura, ranska:aventure, venäjä:авантюра (avantyura), turkki:avantür, englanti:adventure|
 |**veri**|tosi (aito)|englanti:very, italia:vero, venäjä:верный (verniy), espanja:verdadero, portugali:verdadeiro, deu:wahr, ranska:vrai|
@@ -1303,6 +1304,7 @@
 |**yatim**|orpo|arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)|
 |**yau**|tarve (puute)|yleiskiina:要 (yāo), kantoninkiina:要 (jiu1), wu-kiina:要 (yo1), japani:要 (yō), vietnami:yêu|
 |**ye**|kyllä|[ye] englanti:yes;yeah, korea:예 (ye), malaiji:ya + [ya] yleiskiina:有 (yǒu), kantoninkiina:有 (yau5) + ranska:il y a|
+|**ye**|tämä|hindi:यह (yeh), bangla:এই (ei), korea:이 (i)|
 |**yei**|jee! (hurraa!)|englanti:yay, puola:jej, japani:イエイ (iei)|
 |**yeze**|kookos|yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)|
 |**yoge**|jooga|hindi:योग (yog), pandzabi:ਯੋਗ (yog), urdu:(yog), bangla:যোগ (jog), telugu:యోగా (yōgā), thai:โยคะ (yōga), englanti:espanja:malaiji:turkki:yoga, portugali:ioga, venäjä:йога (yoga), yleiskiina:瑜伽 (yújiā), japani:ヨーガ (yōga), korea:요가 (yoga)|

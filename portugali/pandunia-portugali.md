@@ -397,6 +397,8 @@ hukokrus - suástica (cruz gamada)
 hulei - raposa  
 huri - livre (forro)  
 ####I - I  
+ya ke - onde  
+ya linye - online  
 ye - sim  
 Yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
@@ -424,7 +426,6 @@ itis - inflamaçao
 iva - tender  
 ivia - tendência  
 ####J - J  
-ja - de  
 jagi - acordado  
 jagu - despertar  
 jamkarde - cromo  
@@ -559,6 +560,7 @@ kupe - copo (taça)
 kuxa - deitar  
 kuxu - estar deitado (jazer)  
 ####L - L  
+la - de  
 lage - lago  
 laya - vir  
 layana - trazer  
@@ -976,8 +978,6 @@ truke - truque (fraude)
 turba - molestar (perturber)  
 tuze - coelho (lebre)  
 ####U - U  
-va ke - onde  
-va linye - online  
 vade - vale (uadi)  
 vadosusan - lírio-do-vale  
 vaf - cão (cachorro)  

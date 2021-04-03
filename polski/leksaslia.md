@@ -211,6 +211,7 @@
 |**cupa**|ssać|spa:por:chupar, khm:ជប់ (cup)|
 |**cuta**|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać|zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|
 |**cuza**|wybrać, wybierać, selekcjonować|eng:choose, + hin:चुनना (cunnā), + vie:chọn|
+|**da**|z (partykuła posiadania)|[da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de), yue:啲 (di1) + [de] deu:der|
 |**daihai**|ocean|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**daka**|przykryć, przykrywać, ukryć, ukrywać|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |**dalil**|dowód; zeznanie|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
@@ -241,7 +242,6 @@
 |**detal**|detal, szczegół|eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|
 |**deu**|bóg, bóstwo|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|
 |**dex**|kraj, ziemia|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
-|**di**|ten (te)|[di] eng:the, deu:die + [da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de), yue:啲 (di1)|
 |**dike**|cel|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike)|
 |**din**|religia, wyznanie|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |**dinamite**|dynamit|eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|
@@ -278,6 +278,7 @@
 |**dux**|prysznic|fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|
 |**e**|i, oraz|fra:et, por:e, spa:y;e, zho:和 (hé)|
 |**eglis**|kościół|fas:(kelisā), tur:kilise, may:gereja, por:igreja, hin:गिरजा (girjā), ara:(kanisā), fra:église|
+|**eh**|hę?, co?, pardon?|fra:por:hein, jpn:e|
 |**ekia**|natura, środowisko|eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-|
 |**ekolojia**|ekologia (nauka o środowisku)|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
 |**ekor**|wiewiórka|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|
@@ -457,7 +458,6 @@
 |**hata**|aż do|por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|
 |**hatre**|zagrożenie, niebezpieczeństwo|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**hau**|wiatr|hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa|
-|**he**|hę?, co?, pardon?|fra:por:hein, jpn:e|
 |**helis**|helisa|ell: ἕλιξ (helix), eng:helix, fra:por:spa:hélice, pol:helisa, ara:(ḥalazūn), tur:helezon|
 |**helpe**|pomoc, wsparcie|eng:help, deu:Hilfe|
 |**hem**|hmm|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|

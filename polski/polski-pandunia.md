@@ -460,7 +460,7 @@ diabeł, szatan - Xatan
 diament - almas  
 dioryt - diorite  
 dmuchać - hava  
-do, dopóki, dla - pa  
+do, dopóki, dla - va  
 dobry - boni  
 dobry ... - salam (salami)  
 dobry los, szczęście - boni zar  
@@ -692,7 +692,7 @@ gazela - gazel
 gazeta - habargazete  
 gazowy - gasi  
 gałąź, konar - xake  
-gdzie - va ke  
+gdzie - ya ke  
 gejowski (homoseksualny) - geyi  
 genderqueer, niebinarny - bis  
 genotyp - jentipe  
@@ -862,7 +862,7 @@ humor (nastrój) - emoshal
 humor - yumor  
 humorystyczny, śmieszny, zabawny, komiczny - yumori  
 hybryda; kundel - hibride  
-hę?, co?, pardon? - he  
+hę?, co?, pardon? - eh  
 ####I - I  
 i, oraz - e  
 idea, pomysł - idei  
@@ -1470,7 +1470,7 @@ miesiąc - mes
 mieszkać - doma  
 mieć (partykuła posiadania) - du  
 mieć (posiadać) - mala  
-mieć (trzymać) - ya  
+mieć (trzymać) - ha  
 mieć sens - razonu  
 migdał - badam  
 migracja - migre  
@@ -1821,7 +1821,7 @@ Oman - Oman
 omszały (mszysty) - mosi  
 on, ona, ono - le  
 oni - lole  
-online (na linii, w sieci) - va linye  
+online (na linii, w sieci) - ya linye  
 opaska do włosów - kexbende  
 opcja (wybór) - cuzable  
 opinia, pogląd - rai  
@@ -2286,7 +2286,7 @@ przeziębienie, katar - zukam
 przeznaczenie, los - cenamen  
 przeznaczyć - gola  
 przeźroczysty, jasny - klari  
-przy, z, na, w, u - va  
+przy, z, na, w, u - ya  
 przyczepić, przymocować - fiksa  
 przygoda - ventur  
 przygoda w lochu - donjon aventur  
@@ -2879,7 +2879,6 @@ tellur - telurem
 telugu - telugi  
 temat, motyw - tem  
 temperatura - terme  
-ten (te) - di  
 tendencja - ivia  
 tenesyn, tennessine - tenesiem  
 tenis - tenis  
@@ -2946,7 +2945,7 @@ trzęsienie Ziemi - geusisme
 trójkąt - sangon  
 trójząb - sanzong  
 trąba powietrzna (cyklon, tornado, tajfun) - rototafun  
-tu (tutaj, tam) - va de  
+tu (tutaj, tam) - ya ve  
 tuba, rura - tube  
 tul - tulem  
 tulipan - tulpe  
@@ -3292,7 +3291,7 @@ właściwy, poprawny - sahi
 właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kex  
 ####X - X  
-z (od) - ja  
+z (od) - la  
 z (partykuła posiadania) - da  
 ####Z - Z  
 z boku (na bok) - lato  

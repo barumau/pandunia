@@ -39,7 +39,7 @@ aktoro (aktorino) - roler
 akva - suyi  
 akvo - sui  
 akvomelono - arbuze  
-al (ĝis, por) - pa  
+al (ĝis, por) - va  
 alfabeto - harfia  
 algo - alge  
 alia - ali  
@@ -276,7 +276,7 @@ datumo - date
 daŭri (dum) - duru  
 daŭrigi - dura  
 daŭro - dur  
-de (el, pro) - ja  
+de (el, pro) - la  
 de (partiklo de posedo) - da  
 defendanto (defendisto) - defer  
 defendi - defa  
@@ -572,7 +572,7 @@ hasio - hesem
 havanto - malan  
 haveno - haiporte  
 haveno - porte  
-havi (teni) - ya  
+havi (teni) - ha  
 hazarda - zari  
 hazardo - zar  
 haŭto - pil  
@@ -751,7 +751,7 @@ keĉupo - kecape
 kia? - ki yangi  
 kialo - sabe  
 kiam? - ki sate  
-kie - va ke  
+kie - ya ke  
 kiel? - ko?  
 kilometro - kilomitre  
 kimono - kimono\*  
@@ -875,7 +875,6 @@ kuŝi - kuxu
 kvar (4) - cari  
 kvin (5) - limi  
 ####L - L  
-la (tiu) - di  
 laborejo - karkan  
 laboristo - karer  
 laboro - kar  
@@ -1579,16 +1578,17 @@ terpomo - patate
 tertremo - geusisme  
 testo - teste  
 Tibeto - Botia  
-tie - va de  
+tie - ya ve  
 tigro - bagre  
 timi - fobu  
 timiga - fobani  
 timigi - foba  
 timo (fobio) - fobia  
-tio - de  
+tio - ve  
 tio estas (alivorte) - alnamo  
 tiri - tira  
 titanio - titanem  
+tiu - ve  
 Toglando - Togo  
 tomato - tomate  
 tombejo - gabrotopia  
@@ -1751,6 +1751,8 @@ zuluo - Zulu
 ĉenero - sil  
 ĉeno - silsil  
 ĉevalo - gude  
+ĉi tio - ye  
+ĉi tiu - yi  
 ĉiam - pansato  
 ĉielo - ten  
 ĉimpanzo - cimpanze  
@@ -1760,7 +1762,7 @@ zuluo - Zulu
 ĉiu(j) - mei  
 ĉokolado - coklate  
 ĉokolado - coklatobaton  
-ĉu? - he  
+ĉu? - eh  
 Ĝajnismo - jeinistia  
 ĝelo - jel  
 ĝentila - keci  

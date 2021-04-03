@@ -1,5 +1,5 @@
 # fransi-pandunia
-a (dans, en, chez) - va  
+a (dans, en, chez) - ya  
 ####A - A  
 abattoir - bucokan  
 abattre - buca  
@@ -153,7 +153,7 @@ automne - padomosim
 autre - ali  
 autrement - alo  
 avant - ceno  
-avec (avoir) - ya  
+avec (avoir) - ha  
 aventure - ventur  
 aventurier - venturer  
 avocat - avakate  
@@ -419,7 +419,7 @@ danger - hatre
 danois - dani  
 dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
-de - ja  
+de - la  
 demain - badodeno  
 demander (poser un question; est-ce que) - eska  
 dessous - nice  
@@ -481,7 +481,7 @@ empreinte digitale - angulmarke
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
-en ligne - va linye  
+en ligne - ya linye  
 enclume - metalbede  
 encore - zoko  
 enfant - bace  
@@ -693,7 +693,6 @@ lapin (lièvre) - tuze
 lapis-lazuli - lazurpetre  
 lasagne - lazanye  
 lave - yongopetre  
-le - di  
 lent - lenti  
 lentille - lense  
 Lettonie - Latvia  
@@ -888,7 +887,7 @@ oubliette (cul de basse-fosse) - geunici prizon
 oui - ye  
 ours - urse  
 oxyde - okside  
-où - va ke  
+où - ya ke  
 ####P - P  
 pacifiste - paciste  
 page - varkolate  

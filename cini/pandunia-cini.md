@@ -352,6 +352,7 @@ gunjan - 军人
 gunrajer - 大元帅  
 gute - 膝  
 ####H - H  
+ha - 有  
 habar - 消息  
 haha - 笑  
 hai - 海  
@@ -405,7 +406,8 @@ hulei - 狐狸
 huri - 自由的  
 huria - 自由  
 ####I - I  
-ya - 有  
+ya - 在  
+ya linye - 在线  
 ye - 对 (是)  
 Yahve - 耶和华 (雅威)  
 yamfite - 蔬菜  
@@ -434,7 +436,6 @@ islamistia - 回教 (伊斯蘭教)
 itis - 炎症  
 ivia - 趋势  
 ####J - J  
-ja - 从  
 jagu - 睡醒  
 jamul - 閻浮樹  
 jan - 人  
@@ -567,6 +568,7 @@ kube - 立方体
 kupe - 杯子  
 kuxu - 躺  
 ####L - L  
+la - 从  
 le - 他，她，它  
 lole - 他们  
 lage - 湖  
@@ -757,7 +759,6 @@ oselote - 虎貓
 osidian - 黑曜岩  
 ostojamia - 骨骼  
 ####P - P  
-pa - 到  
 pace - 和平  
 paciste - 和平主义者  
 pacistia - 和平主义  
@@ -985,8 +986,7 @@ truka - 耍花招
 truke - 伎俩  
 tuze - 兔子  
 ####U - U  
-va - 在  
-va linye - 在线  
+va - 到  
 vade - 山谷  
 vadosusan - 鈴蘭  
 vaf - 狗  

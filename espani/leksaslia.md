@@ -215,6 +215,7 @@
 |**cupa**|chupar (succionar)|spa:por:chupar, khm:ជប់ (cup)|
 |**cuta**|salir (irse)|zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|
 |**cuza**|elegir (escoger, seleccionar)|eng:choose, + hin:चुनना (cunnā), + vie:chọn|
+|**da**|de (posposición de posesión)|[da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de), yue:啲 (di1) + [de] deu:der|
 |**daihai**|océano|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**daka**|cubrir (tapar)|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |**dalil**|prueba|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
@@ -244,7 +245,6 @@
 |**detal**|detalle|eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|
 |**deu**|dios|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|
 |**dex**|país (nación, estado, terra)|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
-|**di**|el (esto, eso)|[di] eng:the, deu:die + [da] fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de), yue:啲 (di1)|
 |**dike**|objetivo|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike)|
 |**din**|religión|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |**dinamite**|dinamita|eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|
@@ -282,6 +282,7 @@
 |**dux**|ducha|fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|
 |**e**|y|fra:et, por:e, spa:y;e, zho:和 (hé)|
 |**eglis**|iglesia|fas:(kelisā), tur:kilise, may:gereja, por:igreja, hin:गिरजा (girjā), ara:(kanisā), fra:église|
+|**eh**|cómo? (eh?)|fra:por:hein, jpn:e|
 |**ekia**|medioambiente (naturaleza)|eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-|
 |**ekolojia**|ecología|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
 |**ekor**|ardilla|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|
@@ -460,7 +461,6 @@
 |**hata**|hasta|por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|
 |**hatre**|peligro|ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**hau**|viento|hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa|
-|**he**|cómo? (eh?)|fra:por:hein, jpn:e|
 |**helis**|espiral (hélice)|ell: ἕλιξ (helix), eng:helix, fra:por:spa:hélice, pol:helisa, ara:(ḥalazūn), tur:helezon|
 |**helpe**|ayuda (asistencia)|eng:help, deu:Hilfe|
 |**hem**|hm|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|

@@ -220,6 +220,7 @@
 |**cupa**|suck (absorb)|Spanish:Portuguese:chupar, Khmer:ជប់ (cup)|
 |**cuta**|leave (go out, exit)|Mandarin:出 (chū), Hakka-Chinese:(chut), Korean:출 (chul), Hindi:छूटना (chūtnā) + Turkish:çıkmak|
 |**cuza**|choose (elect, select, pick)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
+|**da**|of (attributive preposition)|[da] French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] Mandarin:的 (de), Cantonese:啲 (di1) + [de] deu:der|
 |**daihai**|ocean|Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)|
 |**daka**|cover (conceal)|Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck|
 |**dalil**|proof (evidence, proof, demonstration, testimony)|Arabic:(dalil), Bengali:দলিল (dôlil), Swahili:dalili, Turkish:delil|
@@ -251,7 +252,6 @@
 |**detal**|detail|English:detail, Spanish:detalle, Portuguese:detalhe, French:détail, deu:Detail, Russian:дета́ль (detal’)|
 |**deu**|god (deity)|Portuguese:deus, Malay:dewa, Hindi:देवता (devtā), Kannada:(dēva) + English:theo-, French:théo-, Spanish:teo-, Russian:тео- (teo-)|
 |**dex**|country (land, state)|Hindi:देश (deś), Bengali:দেশ (deś), Telugu:(dēśamu)|
-|**di**|the (this, that, these, those)|[di] English:the, deu:die + [da] French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] Mandarin:的 (de), Cantonese:啲 (di1)|
 |**dike**|target (aim, objective)|Mandarin:的 (dí), Cantonese:的 (dik1), Japanese:的 (teki), Vietnamese:đích + Bengali:দিকে (dike)|
 |**din**|religion (worship)|Arabic:(dīn), Bengali:দীন (din), Persian:(din), Turkish:Malay:din, Swahili:dini, Hausa:addini, Hindi:दीन (dīn)|
 |**dinamite**|dynamite|English:dynamite, Spanish:dinamita, Russian:динамит (dinamit), Turkish:Malay:dinamit, Arabic:ديناميت (dinamit), Hindi:डायनामाइट (dāyanāmait), Japanese:ダイナマイト (dainamaito)|
@@ -289,6 +289,7 @@
 |**dux**|shower|French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş|
 |**e**|and|French:et, Portuguese:e, Spanish:y;e, Mandarin:和 (hé)|
 |**eglis**|church|Persian:(kelisā), Turkish:kilise, Malay:gereja, Portuguese:igreja, Hindi:गिरजा (girjā), Arabic:(kanisā), French:église|
+|**eh**|huh? (pardon?)|French:Portuguese:hein, Japanese:e|
 |**ekia**|environment (nature)|English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-|
 |**ekolojia**|ecology (study of environment)|deu:Ökologie, English:ecology, French:écologie, Russian:экология (ekologiya), Malay:ekologi, Turkish:ekoloji, Swahili:ikolojia|
 |**ekor**|squirrel|French:écureuil, Yoruba:ọkẹrẹ, sve:ekorre, Hausa:kurege|
@@ -471,7 +472,6 @@
 |**hata**|until (til, up to)|Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata + Persian: تا‎ (tâ), Hindi:तक (-tak)|
 |**hatre**|danger (peril)|Arabic: خطر‎ (xaṭar), Persian: خطر‎ (xatar), Urdu: خطرہ‎ (xatrā), Hindi:ख़तरा (xatrā), Swahili:hatari, Turkish:muhatara|
 |**hau**|wind|Hindi:हवा (havā), Bengali:হাওয়া (haowa) + Arabic: هَوَاء‎ (hawāʾ), Turkish:hava, Malay:hawa, Swahili:hewa|
-|**he**|huh? (pardon?)|French:Portuguese:hein, Japanese:e|
 |**helis**|spiral (helix, corkscrew, twist)|Greek: ἕλιξ (helix), English:helix, French:Portuguese:Spanish:hélice, Polish:helisa, Arabic:(ḥalazūn), Turkish:helezon|
 |**helpe**|help (aid, assistance)|English:help, deu:Hilfe|
 |**hem**|hmm|English:hmm, Russian:хм (hm), эм (em), Korean:음 (eum)|
@@ -1316,6 +1316,7 @@
 |**vaxa**|wash|English:wash, deu:waschen, Mandarin:洗 (xǐ)|
 |**vaxurse**|raccoon|Mandarin:浣熊, Japanese:洗熊, Italian:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
 |**vaze**|pot (vase, bin, jar, jug)|deu:English:French:vase, Polish:waza, Russian:ваза (vaza), Turkish:vazo|
+|**ve**|that|Hindi:वह (veh), Bengali:ওই (oi)|
 |**vei**|tail|Mandarin:尾 (wěi), Cantonese:尾 (mei5), Wu-Chinese:尾 (vi3), nan:尾 (bé), Japanese:尾 (bi)|
 |**venda**|sell (vend)|English:vend, Spanish:Portuguese:vender, French:vendre|
 |**ventur**|adventure (venture)|deu:Abenteuer, Spanish:aventura, French:aventure, Russian:авантюра (avantyura), Turkish:avantür, English:adventure|
@@ -1396,6 +1397,7 @@
 |**yasen**|ash tree|Russian:ясень (yasen’), Polish:jesion|
 |**yatim**|orphan|Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)|
 |**yau**|need (shortage, lack)|Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu|
+|**ye**|this|Hindi:यह (yeh), Bengali:এই (ei), Korean:이 (i)|
 |**ye**|yes|[ye] English:yes;yeah, Korean:예 (ye), Malay:ya + [ya] Mandarin:有 (yǒu), Cantonese:有 (yau5) + French:il y a|
 |**yei**|yay! (yeah!)|English:yay, Polish:jej, Japanese:イエイ (iei)|
 |**yeze**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|

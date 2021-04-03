@@ -165,6 +165,7 @@
 |**cupa**|suĉi|hispana:portugala:chupar, kmera:ជប់ (cup)|
 |**cuta**|eliri|mandarena:出 (chū), hakaa:(chut), korea:출 (chul), hindia:छूटना (chūtnā) + turka:çıkmak|
 |**cuza**|elekti|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
+|**da**|de (partiklo de posedo)|[da] franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] mandarena:的 (de), kantona:啲 (di1) + [de] deu:der|
 |**daihai**|oceano|mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)|
 |**daka**|kovri|hindia:ढकना (dhaknā), bengala:ঢাকা (ḍhaka), panĝaba:ਢੱਕਣਾ (ḍhakṇā), deu:decken, angla:deck|
 |**danke**|danko|angla:thank, deu:Danke, + hindia:धन्यवाद (dhanyavād)|
@@ -187,7 +188,6 @@
 |**detal**|detalo|angla:detail, hispana:detalle, portugala:detalhe, franca:détail, deu:Detail, rusa:дета́ль (detal’)|
 |**deu**|dio|portugala:deus, malaja:dewa, hindia:देवता (devtā), kanara:(dēva) + angla:theo-, franca:théo-, hispana:teo-, rusa:тео- (teo-)|
 |**dex**|lando|hindia:देश (deś), bengala:দেশ (deś), teluga:(dēśamu)|
-|**di**|la (tiu)|[di] angla:the, deu:die + [da] franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də) + [du] mandarena:的 (de), kantona:啲 (di1)|
 |**dike**|celo|mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích + bengala:দিকে (dike)|
 |**din**|religio|araba:(dīn), bengala:দীন (din), persa:(din), turka:malaja:din, svahila:dini, haŭsa:addini, hindia:दीन (dīn)|
 |**dinde**|meleagro|franca:dinde, rusa:индюк (indyuk), turka:hindi, araba: دِيك هِنْدِيّ‎ (dīk hindiy)|
@@ -215,6 +215,7 @@
 |**dux**|duŝo|franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş|
 |**e**|kaj|franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)|
 |**eglis**|preĝejo|persa:(kelisā), turka:kilise, malaja:gereja, portugala:igreja, hindia:गिरजा (girjā), araba:(kanisā), franca:église|
+|**eh**|ĉu?|franca:portugala:hein, japana:e|
 |**ekia**|naturo|angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-|
 |**ekor**|sciuro|franca:écureuil, joruba:ọkẹrẹ, sve:ekorre, haŭsa:kurege|
 |**ekran**|ekrano|franca:écran, portugala:ecrã, rusa:экран (ekran), polona:turka:ekran, kat:ეკრანი (eḳrani)|
@@ -354,7 +355,6 @@
 |**hata**|ĝis|portugala:até, araba:(ḥatta), hispana:hasta, svahila:hata + persa: تا‎ (tâ), hindia:तक (-tak)|
 |**hatre**|danĝero|araba: خطر‎ (xaṭar), persa: خطر‎ (xatar), urdua: خطرہ‎ (xatrā), hindia:ख़तरा (xatrā), svahila:hatari, turka:muhatara|
 |**hau**|vento|hindia:हवा (havā), bengala:হাওয়া (haowa) + araba: هَوَاء‎ (hawāʾ), turka:hava, malaja:hawa, svahila:hewa|
-|**he**|ĉu?|franca:portugala:hein, japana:e|
 |**helpe**|helpo|angla:help, deu:Hilfe|
 |**hem**|hm|angla:hmm, rusa:хм (hm), эм (em), korea:음 (eum)|
 |**hemah**|tendo|araba:(xayma), haŭsa:laima, hindia:ख़ैमा (xEmā), svahila:hema, malaja:kemah, may:khemah, mng:майхан (mayhan)|
@@ -835,6 +835,7 @@
 |**vau**|ŭaŭ!|mandarena:哇 (wā), angla:wow|
 |**vaxa**|lavi|angla:wash, deu:waschen, mandarena:洗 (xǐ)|
 |**vaze**|vazo|deu:angla:franca:vase, polona:waza, rusa:ваза (vaza), turka:vazo|
+|**ve**|tio|hindia:वह (veh), bengala:ওই (oi)|
 |**vei**|vosto|mandarena:尾 (wěi), kantona:尾 (mei5), vua:尾 (vi3), nan:尾 (bé), japana:尾 (bi)|
 |**ventur**|aventuro|deu:Abenteuer, hispana:aventura, franca:aventure, rusa:авантюра (avantyura), turka:avantür, angla:adventure|
 |**veri**|vera|angla:very, itala:vero, rusa:верный (verniy), hispana:verdadero, portugala:verdadeiro, deu:wahr, franca:vrai|
@@ -879,6 +880,7 @@
 |**yama**|manĝi (trinki)|kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam|
 |**yang**|speco (tipo, stilo)|mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)|
 |**ye**|jes|[ye] angla:yes;yeah, korea:예 (ye), malaja:ya + [ya] mandarena:有 (yǒu), kantona:有 (yau5) + franca:il y a|
+|**ye**|ĉi tio|hindia:यह (yeh), bengala:এই (ei), korea:이 (i)|
 |**yeze**|kokoso|mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)|
 |**yoge**|jogo|hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)|
 |**yoke**|jugo|angla:yoke, hispana:yugo, portugala:jugo, persa:  یوغ‎ (yuğ), kantona:軛 (aak1), vjetnama:ách|

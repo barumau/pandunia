@@ -502,7 +502,7 @@ butterfly (moth) - pelpel
 buttocks (bum, butt, ass) - pige  
 buy (purchase) - xopa  
 buyer - xoper  
-by (at, in, on) - va  
+by (at, in, on) - ya  
 ####C - C  
 cabin (booth) - kabin  
 cable (wire, line) - eletrolinye  
@@ -1331,7 +1331,7 @@ friend - doste
 friendly (kind, nice, gentle) - dosti  
 friendship - dostia  
 frog - krokroke  
-from (since, because) - ja  
+from (since, because) - la  
 frost - himros  
 fruit - pal  
 frying pan - tau  
@@ -1604,7 +1604,7 @@ how many? - ko multo
 how? - ko?  
 howl - ulula  
 howling - ulul  
-huh? (pardon?) - he  
+huh? (pardon?) - eh  
 human being - insan  
 human rights - insani hake  
 humane - insaniki  
@@ -2295,6 +2295,7 @@ Niue - Niue
 nobelium - nobelem  
 nobody (no-one) - nol jan  
 noise - kelel  
+none - ne  
 noodle - mien  
 Norfolk Island - Norfolke nes  
 norm (standard) - norme  
@@ -2373,8 +2374,9 @@ ominous (foreboding) - dusosinyi
 once - unmaro  
 oncilla - bagroselote  
 one (1) - un (uni)  
+one (someone) - he  
 onion - piaze  
-online - va linye  
+online - ya linye  
 only (single, sole, lone) - uniki  
 only (solely, just) - uniko  
 open (not closed) - kayi  
@@ -3417,9 +3419,9 @@ than (as, compared to) - ka
 thank - danka  
 thanks (thank you) - danke  
 thanks to - danko da  
-that (this) - de  
+that - ve  
+that - ve  
 that is (in other words, i.e., alias) - alnamo  
-the (this, that, these, those) - di  
 the Grenadines - Grenadin nesia  
 theft - cor  
 theism - devistia  
@@ -3428,7 +3430,7 @@ theocracy - deukratia
 theology - deulojia  
 theory - teoria  
 theosophy - deusofia  
-there - va de  
+there - ya ve  
 thermometer - termometrer  
 they - lole  
 thick - grosi  
@@ -3437,6 +3439,8 @@ thief - corer
 thing - xei  
 think (ponder, reflect) - fikra  
 thirst - suiyau  
+this - ye  
+this - yi  
 thistle - kardon  
 thorium - torem  
 thorn tree (acacia) - babul  
@@ -3468,7 +3472,7 @@ Titan - Titan
 titanem - titanem  
 Titania - Titania  
 title (headline) - temnam  
-to (toward, till, until, for) - pa  
+to (toward, till, until, for) - va  
 to be centered (amid, in the middle) - jungu  
 toast (toasted bread) - rosti pang  
 tobacco - tabake  
@@ -3728,7 +3732,8 @@ what? - ke
 wheat - ganum  
 wheel - cakre  
 when? - ki sate  
-where - va ke  
+where - ya ke  
+which (who, that) - de  
 which? - ki  
 whisky (whiskey) - viske  
 white - baki  
@@ -3758,7 +3763,7 @@ winter melon (wax gourd, ash gourd) - mummelon
 wintry - lengomosimi  
 wisdom - sofia  
 wise - sofi  
-with (by, have) - ya  
+with (there be; have) - ha  
 without - na  
 wolf - volfe  
 Wolof (language and people) - Volof  

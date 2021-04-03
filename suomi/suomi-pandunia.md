@@ -311,6 +311,7 @@ ehkä (mahdollisesti) - ablo
 ei - no  
 ei koskaan (ei kertaakaan) - nol sate  
 ei kukaan - nol jan  
+ei mitään - ne  
 ei mitään - nol xei  
 eilen - cendeno  
 einsteinium - ainstainem  
@@ -671,7 +672,7 @@ hyökätä (käydä päälle) - agresa
 hyönteinen (ötökkä) - koncung  
 hyöty (etu) - faide  
 hyötyaines - faidomate  
-häh? - he  
+häh? - eh  
 häiritä (vaivata) - turba  
 häiriö (vaiva) - turbe  
 häkki - batonkapse  
@@ -797,11 +798,13 @@ jodi - yodem
 johtaa - lida  
 johtaja (pomo) - lider  
 joka (jokainen) - mei  
+joka (mikä) - de  
 jokainen asia - pan xei  
 jokainen ihminen - pan jan  
 joki (virta) - nade  
 jokin (joku) - koi (koyi)  
 jokin - koi xei  
+joku (jokin) - he  
 joku - koi jan  
 jooga - yoge  
 joogata - yoga  
@@ -934,7 +937,7 @@ kansallisuusaate (nationalismi) - nasistia
 kansanryhmien välinen - zukomedi  
 kansanryhmä (etninen ryhmä) - zuke  
 kansio (hakemisto) - dokumsanduke  
-kanssa (kera, -lla) - ya  
+kanssa (kera, -lla) - ha  
 kapina - rebel  
 kapteeni - nauxef  
 karaatti - kirate  
@@ -1462,12 +1465,12 @@ luodinkestävä - dansekuri
 luokitella (kategorisoida) - klasa  
 luokka (kategoria) - klas  
 luokkahuone - xulkamar  
-luokse (tykö, kohti, asti) - pa  
+luokse (tykö, kohti, asti) - va  
 luola - guh  
 luolaseikkailu - donjon aventur  
-luona (-lla, -ssa) - va  
+luona (-lla, -ssa) - ya  
 luonto - ekia  
-luota (lähtien, -sta, -lta) - ja  
+luota (lähtien, -sta, -lta) - la  
 luottaa (uskoa) - amena  
 lupaus (vala) - vode  
 lusikka - camace  
@@ -1662,7 +1665,7 @@ ministeriö - ministeria
 minun - mi  
 minuutti - minute  
 minä - me  
-missä? - va ke  
+missä? - ya ke  
 mitali - medal  
 mitata - metra  
 miten? - ko?  
@@ -2496,7 +2499,7 @@ seutu (maa) - tope
 Seychellit - Sexel nesia  
 sianliha - gurubomanse  
 side (remmi) - fax  
-siellä (tuolla) - va de  
+siellä (tuolla) - ya ve  
 siemen - sem  
 siemen- - semi  
 siemenjyvä - semdan  
@@ -2902,6 +2905,8 @@ tuntea (kokea tunteita) - emosu
 tuntea - senta  
 tunteellinen (tunne-) - emosi  
 tunti - hor  
+tuo - ve  
+tuo - ve  
 tuoda - layana  
 tuoli - kurse  
 tuomari - juder  
@@ -2954,8 +2959,8 @@ työskennellä - kara
 tähdätä (kohti) - dika  
 tähti - xing  
 tähtialus - astronau  
-tämä (tuo, se) - de  
-tämä (tuo, se) - di  
+tämä - ye  
+tämä - yi  
 tämä hetki (nyt) - zai  
 tänään - zaideno  
 täplä (läiskä) - binde  

@@ -1,5 +1,5 @@
 # espani-pandunia
-a (hacia) - pa  
+a (hacia) - va  
 ####A - A  
 abedul - berje  
 abeja - melvespe  
@@ -122,7 +122,7 @@ algún - koi (koyi)
 algún día (algún vez) - koi sate  
 alicate - pinser  
 alinear - parlinyu  
-allí (allá) - va de  
+allí (allá) - ya ve  
 almendra - badam  
 almirante - hayamirer  
 almohada - kuxen  
@@ -761,7 +761,7 @@ comunicar (informar) - konsavana
 comunismo - koncanistia  
 comunista - koncaniste  
 comunitario - komuni  
-con (tener) - ya  
+con (tener) - ha  
 concentración - fokusa  
 concentrar (enfocarse) - fokus  
 conceptual - ideyi  
@@ -924,7 +924,7 @@ cóctel - mixi alkol
 código (cifra) - kode  
 cólera - holir  
 cómo - ko?  
-cómo? (eh?) - he  
+cómo? (eh?) - eh  
 cómodo (lujoso) - huxi  
 cósmico - kosmi  
 cúpula - kupocate  
@@ -943,7 +943,7 @@ dañado - avari
 dañar - avara  
 dañino (perjudicial) - avarani  
 daño (corrupción) - avar  
-de (desde) - ja  
+de (desde) - la  
 de (posposición de posesión) - da  
 de (posposición de posesión) - du  
 de lado - lato  
@@ -1095,7 +1095,7 @@ débil - debili
 día - den  
 día de San Juan - yohani feste  
 día festivo (feriado) - festoden  
-dónde - va ke  
+dónde - ya ke  
 ####E - E  
 eco - mirsonde  
 ecología - ekolojia  
@@ -1114,7 +1114,6 @@ eje - akse
 ejemplo - misal  
 ejército - geugunia  
 ejército - gun  
-el (esto, eso) - di  
 El Salvador - Salvador  
 el uno al otro (se) - unal  
 elección - cuze  
@@ -1149,10 +1148,10 @@ emperador - imperer
 emplear (aplicar) - aplika  
 empresario - bizneser  
 empujar (presionar) - puxa  
-en (a) - va  
+en (a) - ya  
 en el sentido contrario al las agujas del reloj - rotolefto  
 en el sentido del las agujas del reloj - rotoraito  
-en línea - va linye  
+en línea - ya linye  
 encanto - carme  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
@@ -1231,7 +1230,6 @@ eslavo - slavi
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - zumurude  
-eso (esto) - de  
 espacio (separación) - kal  
 espacio (texto) - kali harfe  
 espada - katan  

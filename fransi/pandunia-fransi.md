@@ -342,7 +342,6 @@ coklatobaton - tablette de chocolat
 cope - houe  
 cuzable - option  
 ####D - D  
-di - le  
 daidom - palais (château, manoir)  
 daihai - océan  
 daipau - canon  
@@ -533,6 +532,7 @@ gunjan - soldat
 gunrajer - généralissime  
 gute - genou  
 ####H - H  
+ha - avec (avoir)  
 haha - rire  
 hai - mer  
 hayalge - algues  
@@ -583,7 +583,9 @@ hukokrus - svastika (croix gammée)
 hulei - renard  
 huri - libre  
 ####I - I  
-ya - avec (avoir)  
+ya - a (dans, en, chez)  
+ya ke - où  
+ya linye - en ligne  
 ye - oui  
 Yahve - Yahweh (Jéhovah)  
 yamfite - légume  
@@ -615,7 +617,6 @@ itis - inflammation
 iva - avoir tendance à  
 ivia - tendance  
 ####J - J  
-ja - de  
 jagi - éveillé  
 Jayeria - Algérie  
 jamkarde - carte à collectionner  
@@ -761,6 +762,7 @@ kuxa - coucher
 kuxu - être couché  
 kuxloke - couch (couchette)  
 ####L - L  
+la - de  
 lage - lac  
 laya - venir  
 layana - apporter  
@@ -1237,9 +1239,6 @@ Tunisia - Tunisie
 turba - gêner (déranger, perturber)  
 tuze - lapin (lièvre)  
 ####U - U  
-va - a (dans, en, chez)  
-va ke - où  
-va linye - en ligne  
 vade - vallée (oued)  
 vaf - chien  
 vagin - vagine  

@@ -539,8 +539,7 @@ cuze - valinta (vaali)
 cuzable - vaihtoehto  
 ####D - D  
 da - määritetyn määritteeseen liittävä partikkeli  
-de - tämä (tuo, se)  
-di - tämä (tuo, se)  
+de - joka (mikä)  
 du - -n (oma)  
 dayi - iso (suuri)  
 dayia - suuruus (koko)  
@@ -748,6 +747,7 @@ dux - suihku
 ####E - E  
 e - ja (sekä)  
 eglis - kirkko  
+eh - häh?  
 ekia - luonto  
 ekojeni - villi (villinä syntynyt)  
 ekolojia - ekologia (ympäristötiede)  
@@ -1135,7 +1135,8 @@ guste - maku
 gustu ko - maistua  
 gute - polvi  
 ####H - H  
-he - häh?  
+ha - kanssa (kera, -lla)  
+he - joku (jokin)  
 habar - uutinen  
 habargazete - sanomalehti  
 habaxi - abyssinialainen  
@@ -1268,8 +1269,12 @@ huristi - liberaali (vapaamielinen)
 huristia - liberalismi  
 huxi - mukava (kiva, miellyttävä)  
 ####I - I  
-ya - kanssa (kera, -lla)  
+ya - luona (-lla, -ssa)  
+ya ke - missä?  
+ya ve - siellä (tuolla)  
+ye - tämä  
 ye - kyllä  
+yi - tämä  
 yaga - arvioida  
 yago - noin (arviolta, suunnilleen)  
 Yahve - Jahve (Jehova)  
@@ -1365,7 +1370,6 @@ yumoriste - humoristi
 yuterbem - ytterbium  
 yutrem - yttrium  
 ####J - J  
-ja - luota (lähtien, -sta, -lta)  
 jaga - herättää  
 jagi - olla hereillä  
 Jayeria - Algeria  
@@ -1752,6 +1756,7 @@ kuxa - panna jkn maate
 kuxu - maata (makoilla)  
 kuxen - tyyny  
 ####L - L  
+la - luota (lähtien, -sta, -lta)  
 le - hän (se)  
 lole - he  
 labe - huuli  
@@ -2138,6 +2143,7 @@ muzike - musiikki
 muziker - muusikko  
 ####N - N  
 na - ilman  
+ne - ei mitään  
 no - ei  
 nabe - profetia  
 naber - profeetta  
@@ -2310,7 +2316,6 @@ osmos - osmoosi
 oste - luu  
 Ostria - Itävalta  
 ####P - P  
-pa - luokse (tykö, kohti, asti)  
 pace - rauha  
 Paci Hai - Tyyni valtameri  
 paciste - pasifisti  
@@ -3054,9 +3059,9 @@ Turkomenia - Turkmenistan
 Tuvalu - Tuvalu  
 tuze - jänis  
 ####U - U  
-va - luona (-lla, -ssa)  
-va de - siellä (tuolla)  
-va ke - missä?  
+va - luokse (tykö, kohti, asti)  
+ve - tuo  
+ve - tuo  
 vade - laakso  
 vaf - koira  
 vagin - emätin (vagina)  
