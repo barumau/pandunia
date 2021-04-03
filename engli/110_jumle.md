@@ -220,6 +220,8 @@ The relativized word can be emphasized by **di**,
 as in the following example,
 but it is necessary only in complex phrases.
 
+In Pandunia, relative clauses are always set off by commas.
+
 **di buke, de jan kitaba, padu.**
 – _That_ book, which the person writes, falls.
 
