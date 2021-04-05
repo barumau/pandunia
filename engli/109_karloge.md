@@ -38,7 +38,7 @@ Verbs that end in **-a** are called _agent-oriented verbs_
 because the agent comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-![](http://www.pandunia.info/grafe/agent-verb-patient.png "Agent-verb-patient cycle")
+![](http://www.pandunia.info/grafe/eng_agent-verb-patient.png "Agent-verb-patient cycle")
 
 There can be only one verb, one agent, and one patient
 one after another in a sentence.
@@ -88,7 +88,7 @@ Verbs that end in **-u** are called _patient-oriented verbs_
 because the patient comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-![](http://www.pandunia.info/grafe/patient-verb-agent.png "Patient-verb-agent cycle")
+![](http://www.pandunia.info/grafe/eng_patient-verb-agent.png "Patient-verb-agent cycle")
 
 There can be only one verb, one agent, and one patient.
 Therefore it is possible to put them in exactly three different orders:
