@@ -393,7 +393,6 @@
 |**mel**|miel|por:mel, fra:spa:miel, ell:μέλι (méli)|
 |**mem**|mémoire|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**mening**|méninge|eng:meninx, spa:por:meninge, fra:méninge|
-|**mes**|mois|por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|
 |**mester**|maître|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |**metrograf**|carte|hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|
 |**meze**|table|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|

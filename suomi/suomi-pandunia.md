@@ -325,7 +325,7 @@ elektroni - eletron
 elementti (yksinkertaisin yksikkö) - em  
 eli (toisin sanoen) - alnamo  
 elohopea - hurargente  
-elokuu - balmes  
+elokuu - ballun  
 elokuva - kingraf  
 elokuvallinen - kingrafi  
 elokuvataide - kingrafia  
@@ -537,7 +537,7 @@ hautakivi - gabroxeke
 hautausmaa - gabrotopia  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
-he - lole  
+he - les  
 hedelmä - pal  
 hei (haloo) - halou  
 heijastaa (peilata) - mira  
@@ -545,12 +545,12 @@ heijastaa kuvia (projisoida) - lancografa
 heikko - debili  
 heimo - tribe  
 heinä - gancau  
-heinäkuu - setomes  
+heinäkuu - setolun  
 heittää (paiskata) - lanca  
 helikopteri - helisviman  
 helium - helem  
 helmi - lul  
-helmikuu - dulmes  
+helmikuu - dullun  
 helppo - fasili  
 Helsinki - Helsinki  
 helvetti - narake  
@@ -614,7 +614,7 @@ hormoni - hormon
 hotelli - hotel  
 houkutella - tenta  
 housut - pante  
-huhtikuu - carmes  
+huhtikuu - carlun  
 huippu - gau  
 huippu - xanpike  
 huivi (šaali) - xal  
@@ -817,7 +817,7 @@ joskus - koi sate
 joukkue (tiimi) - tim  
 joule (J) - jul  
 joulu - kristojen  
-joulukuu - desdulmes  
+joulukuu - desdullun  
 jousiammunta - arkeria  
 jousiampuja - arker  
 jousisoitin - ticin  
@@ -1034,7 +1034,7 @@ kestää (viedä aikaa) - duru
 kesy - dosili  
 kesyttää - dosila  
 kesä (suvi) - garmomosim  
-kesäkuu - sismes  
+kesäkuu - sislun  
 ketju - silsil  
 ketjun lenkki - sil  
 ketsuppi - kecape  
@@ -1250,7 +1250,7 @@ kutomakone - texmaxin
 kuu - lun  
 Kuuba - Kuba  
 kuukakku - lunkeke  
-kuukausi - mes  
+kuukausi - lun  
 kuulla (kuunnella) - auda  
 kuulua (olla jkn hallussa) - malu  
 kuulua (olla jäsenenä) - memba  
@@ -1442,7 +1442,7 @@ logiikka - logike
 logofiili - logofiler  
 logofilia - logofilia  
 lohkare (järkäle) - daixeke  
-lokakuu - desmes  
+lokakuu - deslun  
 lokikirja - deftobuke  
 looginen - logiki  
 lopetettu - finiti  
@@ -1524,7 +1524,7 @@ maalata - penta
 maalata - pente  
 maali (maalitaulu, kohde) - dike  
 maali (pelissä) - gol  
-maaliskuu - sanmes  
+maaliskuu - sanlun  
 maanantai - unyom  
 maanjäristys - geusisme  
 maantiede - geugrafia  
@@ -1584,7 +1584,7 @@ marja - ber
 markkinaliberalismi - bazarhuristia  
 marmori - kalsokristal  
 Marokko - Magribia  
-marraskuu - desunmes  
+marraskuu - desunlun  
 Mars - Marse  
 Marshall-saaret - Marxal nesia  
 massa - mas  
@@ -1603,7 +1603,7 @@ Mauritius - Moris
 mauste - masal  
 maya (mayaintiaani) - mayan  
 Mayotte - Mayote  
-me - mome  
+me - mes  
 media - media  
 megawatti (MW) - megavate  
 mehiläinen - melvespe  
@@ -2674,7 +2674,7 @@ syy - sabe
 syyllinen - doxi  
 syylä - zeyil  
 Syyria - Suria  
-syyskuu - tixmes  
+syyskuu - tixlun  
 säde - rade  
 sädekehä (halo) - fotocirke  
 säe (riimi) - rim  
@@ -2733,7 +2733,7 @@ talvinen - lengomosimi
 tamil (eräs intialainen kieli) - Tamil  
 tammenterho - balutopal  
 tammi - balute  
-tammikuu - unmes  
+tammikuu - unlun  
 tammipeli - damgem  
 tanakh - tanah  
 tankki (säiliö) - tanke  
@@ -2775,7 +2775,7 @@ taulutietokone (tabletti) - tablokomputer
 tavallinen - adi  
 tavanomainen (perinteinen) - riti  
 tavata - mita  
-te - tote  
+te - tes  
 tee - cai  
 teehuone (kahvila) - caikan  
 teekuppi - caikupe  
@@ -2861,6 +2861,7 @@ toimintahäiriö - dusfunce
 toimittaja (journalisti, lehtimies) - gazeter  
 toimiva - funcabli  
 toisiaan (keskenään) - unal  
+toisiaan (toinen toistaan) - ses  
 toistaa - reya  
 toisto - rei  
 toivoa - inxala  
@@ -2877,7 +2878,7 @@ torstai - caryom
 torvi (torvisoitin) - buge  
 tosi (aito) - veri  
 toukka - larve  
-toukokuu - limmes  
+toukokuu - limlun  
 Transdnistria - Nistria  
 trendi - faxon  
 Trinidad ja Tobago - Trinidade e Tobago  

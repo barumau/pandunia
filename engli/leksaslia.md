@@ -834,7 +834,6 @@
 |**mening**|meninx (meninges)|English:meninx, Spanish:Portuguese:meninge, French:méninge|
 |**menter**|advisor (counselor, mentor)|Sanskrit:मन्त्रिन् (mantrin), Hindi:मंत्री (mantrī), Thai:มนตรี (mon-tri), Malay:menteri, English:deu:French:Portuguese:Spanish:mentor, Japanese:メンター (mentā), Korean:멘토 (mento), Russian:ментор (mentor)|
 |**merante**|lauan tree (meranti, balau)|Malay:English:Portuguese:meranti|
-|**mes**|month|Portuguese:mês, Spanish:mez, Russian:месяц (mesyats), Bengali:মাস (mas), Swahili:mwezi|
 |**mester**|master (expert)|Portuguese:mestre, French:maître, Polish:mistrz, English:master, Russian:мастер (master), Spanish:maestro, deu:Meister, Hindi:(mistrī)|
 |**metal**|metal|English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)|
 |**metode**|method (means)|English:method, Spanish:Portuguese:método, French:méthode, Russian:ме́тод (métod), Turkish:metod, Malay:metode|

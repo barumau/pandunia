@@ -396,7 +396,7 @@ czcić, szanować - puja
 czekać - denga  
 czekolada - coklate  
 czempion - campion  
-czerwiec - sanmes  
+czerwiec - sanlun  
 czerwony - lali  
 cześć, szacunek - puje  
 czosnek olbrzymi - dailasun  
@@ -749,7 +749,7 @@ grillować - kababa
 grom, huk - grom  
 grubość - grosia  
 gruby - grosi  
-grudzień - tixmes  
+grudzień - tixlun  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -1254,7 +1254,7 @@ kwarc - kuarze
 kwaśny - suani  
 kwestia, problem - eskotem  
 kwiat - ful  
-kwiecień - desdulmes  
+kwiecień - desdullun  
 kwitnąć, rozkwitnąć, rozkwitać - fulu  
 kąpać się - banyu  
 kąpiel - banye  
@@ -1315,11 +1315,11 @@ limfa - linfe
 limit, granica - limite  
 limonkowy (limonkowo zielony) - limonlugi  
 linia, pas, pręga, smuga - linye  
-lipiec - carmes  
+lipiec - carlun  
 lis - hulei  
 lista słów - logoliste  
 lista, spis, wykaz - liste  
-listopad - balmes  
+listopad - ballun  
 listownicowiec - varkalge  
 lit - litem  
 litera, znak - harfe  
@@ -1352,7 +1352,7 @@ lustro - mirer
 luteranizm - martinluteristia  
 luterański - martinluteristi  
 lutet - lutetem  
-luty - desmes  
+luty - deslun  
 luźna rozmowa, gadanina - blabla  
 lód - ais  
 ####M - M  
@@ -1368,7 +1368,7 @@ magma - pastopetre
 magnes - magete  
 magnetyczny - mageti  
 magnez - magesem  
-maj - dulmes  
+maj - dullun  
 Majotta - Mayote  
 mak lekarski - sompapil  
 mak polny - medenpapil  
@@ -1409,7 +1409,7 @@ martwić - duku
 martwy, nieżywy, zabity - morti  
 marynarka (flota) - haigun  
 marynować - sirkopurxipe  
-marzec - desunmes  
+marzec - desunlun  
 marznąć (zamarznąć) - aisu  
 masa - mas  
 masaż - masaje  
@@ -1466,7 +1466,7 @@ miejsce, lokacja - loke
 miejscowy, lokalny - loki  
 miejski - nagri  
 mielić - molia  
-miesiąc - mes  
+miesiąc - lun  
 mieszkać - doma  
 mieć (partykuła posiadania) - du  
 mieć (posiadać) - mala  
@@ -1571,7 +1571,7 @@ muzułman, muzułmanin - islamiste
 muzyk - muziker  
 muzyka - muzike  
 muł - gadogude  
-my - mome  
+my - mes  
 mydło - sabun  
 mylić (gmatwać, zmieszać, konsternować) - ruhmixa  
 mysz - mux  
@@ -1820,7 +1820,7 @@ oliwka - zaitun
 Oman - Oman  
 omszały (mszysty) - mosi  
 on, ona, ono - le  
-oni - lole  
+oni - les  
 online (na linii, w sieci) - ya linye  
 opaska do włosów - kexbende  
 opcja (wybór) - cuzable  
@@ -1947,7 +1947,7 @@ pauza (przerwa) - pauze
 paznokieć - nahun  
 pałac - daidom  
 paść, padać, upaść, upadać - padu  
-październik - setomes  
+październik - setolun  
 pchnąć, pchać - puxa  
 pedał - pedal  
 Pekin - Beijing  
@@ -2585,7 +2585,7 @@ siedzieć - sida
 siekera, topór - futau  
 sierociniec, dom dziecka - yatimdom  
 sierota - yatim  
-sierpień - limmes  
+sierpień - limlun  
 Sierra Leone - Salon  
 sieć - nete  
 sikać, szczać, oddawać mocz - pixa  
@@ -2721,7 +2721,7 @@ strzelać (strzelić) - pava
 strzykwa - haihiyar  
 strzępić (drzeć) - circira  
 studio (pracownia) - estudia  
-styczeń - unmes  
+styczeń - unlun  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parca  
 stłuczony (pęknięty) - parci  
@@ -3190,7 +3190,7 @@ wow!, łoł!, jej! - vau
 wołowina - muhmanse  
 wprost (bezpośrednio) - dixo  
 wprostowywać (wyprostować) - orta  
-wrzesień - sismes  
+wrzesień - sislun  
 wrócić, wracać, wycofać się, wycofywać się - retru  
 wróg (nieprzyjaciel) - andoste  
 wsad, partia, porcja, seria - lote  
@@ -3214,7 +3214,7 @@ wszyscy, wszystkie, wszystko; każdy - pan (pani)
 wszystko - pan xei  
 wtorek - dulyom  
 wulkan - hogoxan  
-wy, was - tote  
+wy, was - tes  
 wybrać, wybierać, selekcjonować - cuza  
 wybrzeże (brzeg, krawędź) - tate  
 wybrzeże (plaża) - haitate  

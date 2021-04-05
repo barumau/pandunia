@@ -59,7 +59,7 @@ The most common word order in Pandunia is agent–verb–patient.
 It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
 Examples:  
-**me vida lole.**
+**me vida les.**
 – I see them.  
 **te beka pang.**
 – You bake bread.  
@@ -113,7 +113,7 @@ Examples:
 – Bread is baked by you.  
 **kupe parcu.**
 – The cup got broken.  
-**rajer suku lole.**
+**rajer suku les.**
 – The king is pleased by them.
 
 #### Order U-2: Agent, patient and verb
@@ -122,7 +122,7 @@ The agent–patient–verb order is a possible alternative for the agent–verb�
 It is used in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
 Examples:  
-**me lole vidu.** - _I them see._  
+**me les vidu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
 #### Order U-3: Verb, agent and patient

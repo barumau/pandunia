@@ -268,7 +268,7 @@ bakocoi - bok choy
 bakomargarite - oxeye daisy  
 bakosalmon - chum salmon  
 bali - eight (8)  
-balmes - August  
+ballun - August  
 balsenter - octopus  
 balde - bucket  
 balibali - various (diverse, miscellaneous)  
@@ -506,7 +506,7 @@ capate - flatbread (chapati, roti)
 cari - four (4)  
 cargon - square (tetragon)  
 caryom - Thursday  
-carmes - April  
+carlun - April  
 carme - charm (attraction)  
 cate - roof  
 cau - grass  
@@ -668,10 +668,10 @@ den - day (daytime)
 denyam - lunch  
 denga - wait  
 desi - ten (10)  
-desdulmes - December  
+desdullun - December  
 deskilo\* - ten thousand  
-desmes - October  
-desunmes - November  
+deslun - October  
+desunlun - November  
 desen - drawing (design)  
 detal - detail  
 deu - god (deity)  
@@ -756,9 +756,9 @@ dulbaxi - bilingual
 dulgrafi - anaglyphic (stereoscopic)  
 dulyom - Tuesday  
 dulistia - dualism  
+dullun - February  
 dulmaro - twice  
 dulmeni - double entendre  
-dulmes - February  
 dulromansi - biromantic  
 dulseksi - bisexual  
 dulsondi - stereophonic  
@@ -1950,7 +1950,7 @@ kuxloke - berth (couchette)
 ####L - L  
 la - from (since, because)  
 le - he or she or it  
-lole - they  
+les - they  
 labe - lip  
 lada - load (to charge)  
 lage - lake  
@@ -2046,7 +2046,7 @@ limi - five (5)
 limfas - pentahedron (prism)  
 limgon - pentagon  
 limyom - Friday  
-limmes - May  
+limlun - May  
 limite - limit (boundary)  
 limiti - finite (limited)  
 limon - lemon  
@@ -2106,6 +2106,7 @@ lugomelon - honeydew (green melon)
 Luksemburge - Luxembourg  
 lul - pearl  
 lun - moon  
+lun - month  
 lunkeke - mooncake  
 lung - dragon  
 lusun - asparagus  
@@ -2115,7 +2116,7 @@ lutetem - lutetium
 ####M - M  
 me - I (me)  
 mi - my  
-mome - we  
+mes - we  
 maf - pardon (forgiveness; sorry)  
 mafa - forgive (pardon)  
 magi - magical  
@@ -2268,7 +2269,6 @@ meningitis - meningitis
 menter - advisor (counselor, mentor)  
 merante - lauan tree (meranti, balau)  
 Merkur - Mercury  
-mes - month  
 mesta - master (be an expert at sth)  
 mester - master (expert)  
 metal - metal  
@@ -3056,6 +3056,7 @@ rutin - routine (habit)
 sa - be  
 se - self (reflexive pronoun)  
 ser - being (entity)  
+ses - each other (one another)  
 saba - cause (be the cause for)  
 sabe - reason (cause)  
 sabo da - because  
@@ -3117,7 +3118,7 @@ Samoa - Samoa
 san - three (3)  
 sangon - triangle  
 sanyom - Wednesday  
-sanmes - March  
+sanlun - March  
 sanzong - trident  
 sanduice - sandwich  
 sanduke - box (chest)  
@@ -3191,7 +3192,7 @@ server - servant
 sesam - sesame  
 seti - seven (7)  
 setyom - Sunday  
-setomes - July  
+setolun - July  
 Sexel nesia - Seychelles  
 siani - cyan  
 Sibiria - Siberia  
@@ -3237,7 +3238,7 @@ sisi - six (6)
 sisfas - hexahedron (cube)  
 sisgon - hexagon  
 sisyom - Saturday  
-sismes - June  
+sislun - June  
 sisma - shake (swing)  
 sisme - shake (jolt, earthquake)  
 sismi - seismic (vibrational)  
@@ -3359,7 +3360,7 @@ suxi - sushi
 ####T - T  
 te - you (singular)  
 ti - your  
-tote - you all  
+tes - you all  
 tabake - tobacco  
 tabla date - tabulate  
 table - slab (slate, tablet, board)  
@@ -3473,7 +3474,7 @@ Titan - Titan
 Titania - Titania  
 titanem - titanem  
 tixi - nine (9)  
-tixmes - September  
+tixlun - September  
 toca - touch  
 Togo - Togo  
 Tokyo - Tokyo  
@@ -3650,9 +3651,9 @@ uniti - united
 Uniti Arabi Amiria (UAA) - United Arab Emirates  
 Uniti Dex Da Amerike (UDA) - United States of America (USA)  
 unjani - alone (lonely, isolated, solitary, single)  
+unlun - January  
 unmaro - once  
 unmeni - unambiguous  
-unmes - January  
 unodi - first (number one)  
 unoki lense - monocle  
 unrangi - monochrome  

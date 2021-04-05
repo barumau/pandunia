@@ -689,11 +689,12 @@ lontre - выдра
 lova - протекать (просочиться)  
 lugi - зелёный  
 lun - луна  
+lun - месяц  
 lunkeke - лунный пирог  
 luter - грабитель  
 ####M - M  
 me - я  
-mome - мы  
+mes - мы  
 magesem - магний  
 Magribia - Марокко  
 majenti - маджента (фуксия)  
@@ -742,7 +743,6 @@ mem - память
 mema - помнить  
 memnote - меморандум  
 Merkur - Меркурий  
-mes - месяц  
 mester - мастер  
 metalbede - наковальня  
 metrograf - карта  
@@ -967,6 +967,7 @@ rutogalta - отходить (скитаться)
 ####S - S  
 sa - быть  
 se - себя (-ся)  
+ses - друг друга  
 safran - шафран  
 sahi - правильный  
 saida - охотиться  

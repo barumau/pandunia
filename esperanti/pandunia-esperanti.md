@@ -1016,7 +1016,7 @@ kuxu - kuŝi
 ####L - L  
 la - de (el, pro)  
 le - li aŭ ŝi aŭ ĝi  
-lole - ili  
+les - ili  
 labe - lipo  
 laya - veni  
 layana - alporti (venigi)  
@@ -1078,13 +1078,14 @@ lova sang - sangi
 lugi - verda  
 lul - perlo  
 lun - luno  
+lun - monato  
 luta - rabi  
 luter - rabisto  
 lutetem - lutecio  
 ####M - M  
 me - mi  
 mi - mia  
-mome - ni  
+mes - ni  
 maf - pardono  
 mafa - pardoni  
 magia - magio  
@@ -1138,7 +1139,6 @@ mema - memori
 member - membro  
 men - signifo  
 Merkur - Merkuro  
-mes - monato  
 metal - metalo  
 metode - metodo  
 metra - mezuri  
@@ -1464,6 +1464,7 @@ rutin - rutino (kutimo)
 ####S - S  
 sa - esti  
 se - si  
+ses - unu la alian  
 sabe - kialo  
 sabo da - ĉar  
 sabun - sapo  
@@ -1597,7 +1598,7 @@ suxi - suŝio
 ####T - T  
 te - vi (ci)  
 ti - via (cia)  
-tote - vi ĉiu  
+tes - vi ĉiu  
 tabake - tabako  
 tafun - ŝtormo  
 tayi - tajlanda  

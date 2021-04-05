@@ -624,11 +624,12 @@ lontre - lontra
 lova - vazar  
 lugi - verde  
 lun - lua  
+lun - mês  
 lunkeke - bolo lunar  
 luter - ladrão  
 ####M - M  
 me - eu (me)  
-mome - nós  
+mes - nós  
 mafa - perdoar (desculpar)  
 magesem - magnésio  
 Magribia - Marrocos  
@@ -675,7 +676,6 @@ mema - lembrar-se (recordar-se)
 mening - meninge  
 merante - meranti  
 Merkur - Mercúrio  
-mes - mês  
 mester - mestre  
 metalbede - bigorna  
 metrograf - carta geográfica  
@@ -872,6 +872,7 @@ ruhmixi - perplexo (confuso)
 ####S - S  
 sa - ser (estar)  
 se - se  
+ses - um ao outro  
 sahi - correto (justo)  
 saida - caçar  
 sake - saco  

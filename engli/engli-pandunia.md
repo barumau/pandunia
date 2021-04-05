@@ -157,7 +157,7 @@ apply (put to use for a purpose) - aplika
 apprentice - karxuler  
 approach (get near) - karibu  
 apricot - barkoke  
-April - carmes  
+April - carlun  
 aqua (teal) - hainili  
 Arabic - arabi  
 arachnophobia - aranfobia  
@@ -226,7 +226,7 @@ attack (assault) - agresa
 attack (assault, aggression, hostility) - agres  
 attraction (-philia) - filia  
 attribute (charasteristic, quality, feature, description, property) - sif  
-August - balmes  
+August - ballun  
 auspicious (promising) - bonsinyi  
 Australia - Australia  
 Australian Aboriginal - aslaustrali  
@@ -906,7 +906,7 @@ death - morte
 debate (discuss) - lona  
 debug - angalta  
 decay (rot, deteriorate) - pudu  
-December - desdulmes  
+December - desdullun  
 deci- - deci\*  
 decibel - decibel  
 decode (decrypt) - ankoda  
@@ -1044,6 +1044,7 @@ dysprosium - disprosem
 dystheism (maltheism) - dusdevistia  
 dystopia - dustopia  
 ####E - E  
+each other (one another) - ses  
 each other (one another, mutually) - unal  
 ear - or  
 earlier (before) - ceno  
@@ -1216,7 +1217,7 @@ favoritism - maxfilistia
 fear (be afraid) - fobu  
 fear (phobia) - fobia  
 feather - per  
-February - dulmes  
+February - dullun  
 feces (poop, shit) - xite  
 fee (fare) - takse  
 feel (sense by touch) - senta  
@@ -1725,7 +1726,7 @@ Jainism - jeinistia
 Jakarta - Jakarta  
 Jamaica - Jamaika  
 jamul (jambul, rose apple) - jamul  
-January - unmes  
+January - unlun  
 Japan - Nipon  
 Japanese - niponi  
 jasmine - malike  
@@ -1751,9 +1752,9 @@ judicial - judi
 judo - judau  
 jug (jar, pitcher) - jar  
 juice - jus  
-July - setomes  
+July - setolun  
 jump - jampa  
-June - sismes  
+June - sislun  
 Jupiter - Jupiter  
 just (exactly, precisely) - justo  
 just (fair, righteous) - adali  
@@ -2018,7 +2019,7 @@ map (chart) - metrograf
 Marathi - marati  
 marathon - maraton  
 marble - kalsokristal  
-March - sanmes  
+March - sanlun  
 margarine - margarin  
 margay - margai  
 maritime - hayi  
@@ -2057,7 +2058,7 @@ Mauritius - Moris
 maximal - maximi  
 maximize - maxima  
 maximum - maxime  
-May - limmes  
+May - limlun  
 Maya - mayan  
 maybe (perhaps, possibly) - ablo  
 Mayotte - Mayote  
@@ -2164,7 +2165,7 @@ monolog - autologe
 monotheism - undevistia  
 monster - monoster  
 Montenegro - Cernagora  
-month - mes  
+month - lun  
 monument (memorial) - membin  
 mood (emotional state) - emoshal  
 moon - lun  
@@ -2321,7 +2322,7 @@ notice (notification) - notite
 notify - notana  
 noun - namloge  
 novelty - nou  
-November - desunmes  
+November - desunlun  
 novice (newbie) - novike  
 nuclear energy - kerni energe  
 nuclear fission - kerni fenia  
@@ -2345,7 +2346,7 @@ obsidian - osidian
 ocean - daihai  
 Oceania - Oceania  
 ocelot - oselote  
-October - desmes  
+October - deslun  
 octopus - balsenter  
 ocular - oki  
 odd (strange, weird) - bizari  
@@ -3029,7 +3030,7 @@ sense (method of perception) - sense
 sense (perceive, detect) - sensa  
 sensor (detector) - senser  
 sentence (phrase) - jumle  
-September - tixmes  
+September - tixlun  
 Serbia - Serbia  
 series (sequence) - silia  
 servant - server  
@@ -3432,7 +3433,7 @@ theory - teoria
 theosophy - deusofia  
 there - ya ve  
 thermometer - termometrer  
-they - lole  
+they - les  
 thick - grosi  
 thickness - grosia  
 thief - corer  
@@ -3705,7 +3706,7 @@ wax - mum
 wax seal - mumcape  
 way (manner, mode) - mode  
 way (road) - dau  
-we - mome  
+we - mes  
 weak - debili  
 wealth (fortune) - ricia  
 weapon (arms) - arme  
@@ -3807,7 +3808,7 @@ yoke - yoke
 Yoruba (language and people) - yorubi  
 yotta- - yota\*  
 you (singular) - te  
-you all - tote  
+you all - tes  
 young (juvenile) - joveni  
 your - ti  
 youth (young age) - jovenia  

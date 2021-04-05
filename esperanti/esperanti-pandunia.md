@@ -624,7 +624,7 @@ iam - koi sate
 ideo - idei  
 ido (infano) - pute  
 igi (farigi) - an:a  
-ili - lole  
+ili - les  
 ilo - tul  
 indio - hindem  
 Indonezio - Indonesia  
@@ -1054,7 +1054,7 @@ mizera - miskini
 mola - komali  
 molibdeno - molidenem  
 molusko - moluske  
-monato - mes  
+monato - lun  
 mondlingvo - dunia bax  
 mondo - dunia  
 monero - pesdiske  
@@ -1110,7 +1110,7 @@ nervo - neur
 newtono (N) - nuton  
 neĝo - him  
 neŭrono - neurcel  
-ni - mome  
+ni - mes  
 ni faru... - haida  
 nigra - siyahi  
 nihonio - niponem  
@@ -1631,6 +1631,7 @@ tuŝi - toca
 uniono - unia  
 unu (1) - un (uni)  
 unu la alian (reciproke) - unal  
+unu la alian - ses  
 unufoje - unmaro  
 uragano (tajfuno) - rototafun  
 uranio - uranem  
@@ -1676,7 +1677,7 @@ vestigi - fuka
 vesto - fuke  
 vetero - tenhal  
 vi (ci) - te  
-vi ĉiu - tote  
+vi ĉiu - tes  
 via (cia) - ti  
 viando - manse  
 vic- - visi  

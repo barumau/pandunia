@@ -336,7 +336,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **me no vida te.**
 – I don't see you.  
-**me vida no te a lole.**
+**me vida no te a les.**
 – I see, not you, but them.
 
 **me pliza te safa kamar.**

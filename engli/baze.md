@@ -71,9 +71,9 @@ Number, definiteness and gender are indicated by additional words.
 
 | Person | Singular                         | Plural                  |
 |--------|----------------------------------|-------------------------|
-| First  | **me** (_I, me_)                 | **mome** (_we, us_)     |
-| Second | **te** (_you_)                   | **tote** (_you_)        |
-| Third  | **le** (_he or she, him or her_) | **lole** (_they, them_) |
+| First  | **me** (_I, me_)                 | **mes** (_we, us_)      |
+| Second | **te** (_you_)                   | **tes** (_you_)         |
+| Third  | **le** (_he or she, him or her_) | **les** (_they, them_)  |
 
 ### Verbs
 

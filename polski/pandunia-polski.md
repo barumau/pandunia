@@ -232,7 +232,7 @@ bakocoi - kapusta pekińska
 bakomargarite - jastrun właściwy  
 bakosalmon - keta  
 bali - osiem (8)  
-balmes - listopad  
+ballun - listopad  
 balsenter - ośmiornica  
 balde - wiadro  
 balibali - różny (różnorodny)  
@@ -459,7 +459,7 @@ capate - płaski chleb, ćapati
 cari - cztery (4)  
 cargon - kwadrat (czworokąt, czworobok, tetragon)  
 caryom - czwartek  
-carmes - lipiec  
+carlun - lipiec  
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
@@ -613,10 +613,10 @@ den - dzień
 denyam - obiad, lunch  
 denga - czekać  
 desi - dziesięć (10)  
-desdulmes - kwiecień  
+desdullun - kwiecień  
 deskilo\* - dziesięć tysięcy  
-desmes - luty  
-desunmes - marzec  
+deslun - luty  
+desunlun - marzec  
 desen - rysunek, obraz  
 detal - detal, szczegół  
 deu - bóg, bóstwo  
@@ -697,9 +697,9 @@ dulo multa - podwajać (podwoić, pomnożyć przez dwa)
 dulbaxi - dwujęzyczny  
 dulyom - wtorek  
 dulistia - dualizm  
+dullun - maj  
 dulmaro - dwukrotnie (dwa razy)  
 dulmeni - dwuznacznik  
-dulmes - maj  
 dulromansi - biromantyczny  
 dulseksi - biseksualny  
 duman - dym  
@@ -1785,7 +1785,7 @@ kuxloke - kuszetka (koja)
 ####L - L  
 la - z (od)  
 le - on, ona, ono  
-lole - oni  
+les - oni  
 labe - warga  
 lada - naładować, załadować, obładować, ładować  
 lage - jezioro  
@@ -1878,7 +1878,7 @@ limi - pięć (5)
 limfas - pięciościan (pryzmat)  
 limgon - pięciokąt (pentagon)  
 limyom - piątek  
-limmes - sierpień  
+limlun - sierpień  
 limite - limit, granica  
 limiti - skończony (ograniczony)  
 limon - cytryna  
@@ -1933,6 +1933,7 @@ lugomelon - melon miodowy
 Luksemburge - Luksemburg  
 lul - perła  
 lun - księżyc  
+lun - miesiąc  
 lung - smok  
 lusun - szparag; szparagia  
 luta - obrabować, splądrować  
@@ -1941,7 +1942,7 @@ lutetem - lutet
 ####M - M  
 me - ja, mnie  
 mi - mój  
-mome - my  
+mes - my  
 maf - przepraszam!  
 magi - magiczny  
 magia - magia  
@@ -2087,7 +2088,6 @@ meningitis - zapalenie opon mózgowych
 menter - doradca (mentor)  
 merante - damarzyk (meranti)  
 Merkur - Merkury  
-mes - miesiąc  
 mesta - być mistrzem (być ekspertem)  
 mester - mistrz (ekspert)  
 metal - metal  
@@ -2886,7 +2886,7 @@ Samoa - Samoa
 san - trzy (3)  
 sangon - trójkąt  
 sanyom - środa  
-sanmes - czerwiec  
+sanlun - czerwiec  
 sanzong - trójząb  
 sanduice - kanapka  
 sanduke - pudło, skrzynia  
@@ -2956,7 +2956,7 @@ server - sługa
 sesam - sezam  
 seti - siedem (7)  
 setyom - niedziela  
-setomes - październik  
+setolun - październik  
 Sexel nesia - Seszele  
 siani - niebieskozielony (cyjan)  
 Sibiria - Syberia  
@@ -3002,7 +3002,7 @@ sisi - sześć (6)
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
 sisyom - sobota  
-sismes - wrzesień  
+sislun - wrzesień  
 sisma - trząść (machać)  
 sisme - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
 sismi - sejsmiczny (wibracyjny)  
@@ -3121,7 +3121,7 @@ suxi - sushi
 ####T - T  
 te - ty, ciebie  
 ti - twój  
-tote - wy, was  
+tes - wy, was  
 tabake - tytoń  
 tabla date - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
@@ -3225,7 +3225,7 @@ tirlonga - rozciągać (rozciągnąć)
 tirsanduke - szuflada  
 titanem - tytan  
 tixi - dziewięć (9)  
-tixmes - grudzień  
+tixlun - grudzień  
 toca - dotyczyć  
 Togo - Togo  
 Tokyo - Tokio  
@@ -3388,9 +3388,9 @@ unyom - poniedziałek
 uniti - zjednoczony  
 Uniti Arabi Amiria (UAA) - Zjednoczone Emiraty Arabskie  
 Uniti Dex Da Amerike (UDA) - Stany Zjednoczone Ameryki  
+unlun - styczeń  
 unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
-unmes - styczeń  
 unodi - pierwszy, numer jeden  
 unrangi - jednokolorowy (monochromatyczny)  
 voda - obiecać, angażować się  

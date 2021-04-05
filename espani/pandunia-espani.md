@@ -240,7 +240,7 @@ bakocoi - col china
 bakomargarite - margarita  
 bakosalmon - salmón chum (keta)  
 bali - ocho (8)  
-balmes - agosto  
+ballun - agosto  
 balsenter - pulpo  
 balde - balde (cubo)  
 balibali - distintos (diversos)  
@@ -466,7 +466,7 @@ capate - chapati (pan sin levadura)
 cari - cuatro (4)  
 cargon - cuadro  
 caryom - jueves  
-carmes - abril  
+carlun - abril  
 carme - encanto  
 cate - techo (tejado)  
 cau - césped (hierba)  
@@ -613,9 +613,9 @@ den - día
 denyam - almuerzo  
 denga - esperar  
 desi - diez (10)  
-desdulmes - deciembre  
-desmes - octubre  
-desunmes - nobiembre  
+desdullun - deciembre  
+deslun - octubre  
+desunlun - nobiembre  
 desen - dibujo (diseño)  
 detal - detalle  
 deu - dios  
@@ -696,9 +696,9 @@ dulo multa - doblar (multiplicar por dos)
 dulbaxi - bilingüe  
 dulyom - martes  
 dulistia - dualismo  
+dullun - febrero  
 dulmaro - dos veces  
 dulmeni - doble sentido  
-dulmes - febrero  
 dulromansi - birromántico  
 dulseksi - bisexual  
 duman - humo  
@@ -1788,7 +1788,7 @@ kuxen - almohada
 ####L - L  
 la - de (desde)  
 le - él o ella  
-lole - ellos o ellas  
+les - ellos o ellas  
 labe - labio  
 lada - cargar  
 lage - lago  
@@ -1880,7 +1880,7 @@ limi - cinco (5)
 limfas - pentaedro  
 limgon - pentágono  
 limyom - viernes  
-limmes - mayo  
+limlun - mayo  
 limite - límite (frontera, linde)  
 limon - limón  
 limonike - cítrico  
@@ -1933,6 +1933,7 @@ lugomelon - melón verde
 Luksemburge - Luxemburgo  
 lul - perla  
 lun - luna  
+lun - mez  
 lunkeke - pastel de luna  
 lung - dragón  
 lusun - espárrago  
@@ -1942,7 +1943,7 @@ lutetem - lutecio
 ####M - M  
 me - yo  
 mi - mi  
-mome - nosotros  
+mes - nosotros  
 maf - perdón  
 mafa - perdonar (disculpar)  
 magi - magical  
@@ -2084,7 +2085,6 @@ mening - meninge
 meningitis - meningitis  
 menter - consejero (asesor)  
 Merkur - Mercurio  
-mes - mez  
 mesta - dominar  
 mester - maestro (experto)  
 metal - metal  
@@ -2823,6 +2823,7 @@ sa - ser (estar)
 se - se  
 si - su (suyo)  
 ser - ser  
+ses - el uno al otro (mutuamente)  
 saba - causar  
 sabe - razón (causa)  
 sabo da - porque  
@@ -2882,7 +2883,7 @@ Samoa - Samoa
 san - tres (3)  
 sangon - triángulo  
 sanyom - miércoles  
-sanmes - marzo  
+sanlun - marzo  
 sanzong - tridente  
 sanduice - sándwich (sánduche)  
 sanduke - caja (baúl, cofre, estuche)  
@@ -2953,7 +2954,7 @@ server - criado (sirviente)
 sesam - ajonjolí (sésamo)  
 seti - siete (7)  
 setyom - domingo  
-setomes - julio  
+setolun - julio  
 Sexel nesia - Seychelles  
 siani - cian  
 Sibiria - Siberia  
@@ -2999,7 +3000,7 @@ sisi - seis (6)
 sisfas - hexaedro (cubo)  
 sisgon - hexágono  
 sisyom - sábado  
-sismes - junio  
+sislun - junio  
 sisma - agitar (sacudir)  
 sismolojia - sismología  
 sistem - sistema  
@@ -3115,7 +3116,7 @@ suxi - sushi
 ####T - T  
 te - tú (usted)  
 ti - tu  
-tote - ustedes  
+tes - ustedes  
 tabake - tabaco  
 tabla date - tabular  
 table - tabla (lámina, plancha)  
@@ -3222,7 +3223,7 @@ tirlonga - estirar (extender)
 tirsanduke - cajón (gaveta)  
 titanem - titanio  
 tixi - nueve (9)  
-tixmes - septiembre  
+tixlun - septiembre  
 toca - tocar (rozar)  
 Togo - Togo  
 tokse - veneno (toxina)  
@@ -3383,9 +3384,9 @@ uniti - unido
 Uniti Arabi Amiria (UAA) - Emiratos Árabes Unidos  
 Uniti Dex Da Amerike (UDA) - Estados Unidos de América  
 unjani - solo (aislado, solitary, soltero)  
+unlun - enero  
 unmaro - una vez  
 unmeni - inequívoco  
-unmes - enero  
 unodi - primero (numbre uno)  
 unoki lense - monóculo  
 unrangi - monocromático  

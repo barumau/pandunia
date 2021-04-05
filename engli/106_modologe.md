@@ -104,9 +104,9 @@ Here are some of the most frequently used adverbs:
 
 A complement can be added with the preposition **da**.
 
-**me vida lole paso.**
+**me vida les paso.**
 – I have seen them before.  
-**me vida lole paso da unyom.**
+**me vida les paso da unyom.**
 – I have seen them before Monday.
 
 **me vola xopa tougar maxo da motogar.**

@@ -16,7 +16,7 @@ abono orgánico (compost) - biucaniver
 aborigen - aslaustrali  
 abrepuño - solcentaur  
 abrigo (chaqueta) - kote  
-abril - carmes  
+abril - carlun  
 abrir - kaya  
 abuela - laumam  
 aburrido - bori  
@@ -78,7 +78,7 @@ agacharse - insida
 agente - ater  
 agitar (sacudir) - sisma  
 agorafobia - medenfobia  
-agosto - balmes  
+agosto - ballun  
 agradecer - danka  
 agresivo - agresivi  
 agresor - agreser  
@@ -953,7 +953,7 @@ deber (necesitar) - debu
 deber (se recomienda) - selu  
 deci- - deci\*  
 decibelio - decibel  
-deciembre - desdulmes  
+deciembre - desdullun  
 decir (hablar) - loga  
 decoración (adorno) - sundardake  
 decorar (adornar) - sundardaka  
@@ -1115,6 +1115,7 @@ ejemplo - misal
 ejército - geugunia  
 ejército - gun  
 El Salvador - Salvador  
+el uno al otro (mutuamente) - ses  
 el uno al otro (se) - unal  
 elección - cuze  
 electricidad - eletre  
@@ -1124,7 +1125,7 @@ elegante (chic) - xiki
 elegir (escoger, seleccionar) - cuza  
 elemento (unidad fundamental) - em  
 elemento químico - kimem  
-ellos o ellas - lole  
+ellos o ellas - les  
 elogiar (alabar, exaltar) - halela  
 elogio - euloge  
 elástico (flexible) - lasti  
@@ -1163,7 +1164,7 @@ endónimo - innam
 enemigo - dusjan  
 energía - energe  
 energía nuclear - kerni energe  
-enero - unmes  
+enero - unlun  
 enfermedad - patia  
 enfermo - pati  
 engañar - truka  
@@ -1325,7 +1326,7 @@ fatiga - fatigia
 favoritismo - maxfilistia  
 favorito (preferido) - maxfili  
 faz (faceta) - fas  
-febrero - dulmes  
+febrero - dullun  
 fecha - nenmesyom  
 felicitar - barka  
 feliz - suki  
@@ -1797,8 +1798,8 @@ juez (árbitro, réferi) - juder
 jugador - gemer  
 jugar un juego - gema  
 jugo (zumo) - jus  
-julio - setomes  
-junio - sismes  
+julio - setolun  
+junio - sislun  
 juntos - kono  
 juntura (conexión, enlace) - linke  
 Jupiter - Jupiter  
@@ -2043,7 +2044,7 @@ marrón - bruni
 Marte - Marse  
 martes - dulyom  
 martillo (mazo) - hamar  
-marzo - sanmes  
+marzo - sanlun  
 marítimo - hayi  
 masa (trozo, pedazo) - mas  
 masaje - masaje  
@@ -2057,7 +2058,7 @@ material - mati
 Mauricio - Moris  
 mauritania - Muritania  
 maya - mayan  
-mayo - limmes  
+mayo - limlun  
 mayor - maxori  
 mayoría - maxoria  
 Mayotte (Mahoré) - Mayote  
@@ -2111,7 +2112,7 @@ metal pesado - barmetal
 meter prisa - yala  
 metro - mitre  
 metro - tuneltren  
-mez - mes  
+mez - lun  
 mezclar - mixa  
 mezquino (antipático, cruel) - zalimi  
 mi - mi  
@@ -2297,7 +2298,7 @@ niño o niña - bace
 no - no  
 no binario (género) - bis  
 nobelio - nobelem  
-nobiembre - desunmes  
+nobiembre - desunlun  
 noche (tarde) - suar  
 noche - noce  
 nombre - nam  
@@ -2309,7 +2310,7 @@ Norteamérica - Nordi Amerike
 norteño - nordi  
 Noruega - Norge  
 noruego - norgi  
-nosotros - mome  
+nosotros - mes  
 nostalgia - nostalgia  
 nostálgico - nostalgi  
 nota - note  
@@ -2350,7 +2351,7 @@ Oceanía - Oceania
 ocelote - oselote  
 ocho (8) - bali  
 ocra - bamye  
-octubre - desmes  
+octubre - deslun  
 ocular - oki  
 ocultar (esconder) - sira  
 ocupado (atareado) - mangi  
@@ -3034,7 +3035,7 @@ sentarse - sidu
 sentido - sense  
 sentir (detectar) - sensa  
 sentir - emosu  
-septiembre - tixmes  
+septiembre - tixlun  
 ser (estar) - sa  
 ser - ser  
 ser de - malu  
@@ -3382,7 +3383,7 @@ urdu - urdi
 Uruguay - Uruguai  
 usar (aplicar) - uza  
 uso (utilidad, beneficio) - faidia  
-ustedes - tote  
+ustedes - tes  
 usuario - uzer  
 utilizable (disponible) - uzabli  
 utuo (recíproco) - unali  

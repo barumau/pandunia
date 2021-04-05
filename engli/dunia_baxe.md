@@ -475,6 +475,6 @@ _am, is, are, was, were..._
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  lole sa aple.
+    Pandunia:  les sa aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

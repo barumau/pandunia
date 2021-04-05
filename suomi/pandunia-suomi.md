@@ -246,7 +246,7 @@ Bahrain - Bahrain
 bai - lahti  
 baki - valkoinen (valkea)  
 bali - kahdeksan (8)  
-balmes - elokuu  
+ballun - elokuu  
 balsenter - mustekala  
 balde - sanko (ämpäri)  
 balibali - monenlainen  
@@ -471,7 +471,7 @@ capate - chapati
 cari - neljä (4)  
 cargon - neliö  
 caryom - torstai  
-carmes - huhtikuu  
+carlun - huhtikuu  
 carme - vetovoima (šarmi)  
 cate - katto (katos)  
 cau - ruoho  
@@ -626,10 +626,10 @@ den - päivä
 denyam - lounas  
 denga - odottaa  
 desi - kymmenen (10)  
-desdulmes - joulukuu  
+desdullun - joulukuu  
 deskilo\* - sata tuhatta  
-desmes - lokakuu  
-desunmes - marraskuu  
+deslun - lokakuu  
+desunlun - marraskuu  
 desen - piirustus  
 detal - yksityiskohta (detalji)  
 deu - jumala  
@@ -709,9 +709,9 @@ dulbaxi - kaksikielinen
 dulgrafi - stereoskooppinen  
 dulyom - tiisai  
 dulistia - dualismi  
+dullun - helmikuu  
 dulmaro - kahdesti (kaksi kertaa)  
 dulmeni - kaksimielinen (kaksimerkityksinen)  
-dulmes - helmikuu  
 dulseksi - biseksuaali  
 dulsondi - stereofoninen  
 duman - savu  
@@ -1758,7 +1758,7 @@ kuxen - tyyny
 ####L - L  
 la - luota (lähtien, -sta, -lta)  
 le - hän (se)  
-lole - he  
+les - he  
 labe - huuli  
 lada - ladata  
 Lagos - Lagos  
@@ -1831,7 +1831,7 @@ limi - viisi (5)
 limfas - viisitahokas (prisma)  
 limgon - viisikulmio  
 limyom - perjantai  
-limmes - toukokuu  
+limlun - toukokuu  
 limite - raja  
 limon - sitruuna  
 limonrangi - keltainen  
@@ -1882,6 +1882,7 @@ lugi - vihreä
 Luksemburge - Luxemburg  
 lul - helmi  
 lun - kuu  
+lun - kuukausi  
 lunkeke - kuukakku  
 lung - itämainen lohikäärme  
 lusun - parsa  
@@ -1891,7 +1892,7 @@ lutetem - lutetium
 ####M - M  
 me - minä  
 mi - minun  
-mome - me  
+mes - me  
 maf - anteeksi  
 mafa - antaa anteeksi  
 magi - taianomainen (maaginen)  
@@ -2019,7 +2020,6 @@ mening - aivokalvo
 meningitis - aivokalvontulehdus  
 menter - neuvontantaja (mentori)  
 Merkur - Merkurius  
-mes - kuukausi  
 mesta - taitaa (olla mestari jskn)  
 mester - mestari (asiantuntija)  
 metal - metalli  
@@ -2687,6 +2687,7 @@ sa - olla
 se - itse  
 si - oma (-nsa)  
 ser - olento (olio)  
+ses - toisiaan (toinen toistaan)  
 saba - aiheuttaa (olla syynä)  
 sabe - syy  
 sabo da - koska (johdosta, takia)  
@@ -2740,7 +2741,7 @@ Samoa - Samoa
 san - kolme (3)  
 sangon - kolmio  
 sanyom - keskiviikko  
-sanmes - maaliskuu  
+sanlun - maaliskuu  
 sanduice - voileipä  
 sanduke - laatikko  
 sang - veri  
@@ -2799,7 +2800,7 @@ server - palvelija (tarjoilija)
 sesam - seesami  
 seti - seitsemän (7)  
 setyom - niedziela  
-setomes - heinäkuu  
+setolun - heinäkuu  
 Sexel nesia - Seychellit  
 siani - syaani  
 Sibiria - Siperia  
@@ -2835,7 +2836,7 @@ sisi - kuusi (6)
 sisfas - kuutio (kuusitahokas)  
 sisgon - kuusikulmio  
 sisyom - lauantai  
-sismes - kesäkuu  
+sislun - kesäkuu  
 sismolojia - seismologia  
 sistem - järjestelmä (systeemi)  
 site - kaupunki  
@@ -2929,7 +2930,7 @@ suxi - sushi
 ####T - T  
 te - sinä  
 ti - sinun  
-tote - te  
+tes - te  
 tabake - tupakka  
 tabla date - taulukoida  
 table - laatta (levy)  
@@ -3014,7 +3015,7 @@ tira milke - lypsää maitoa
 tirsanduke - vetolaatikko  
 titanem - titaani  
 tixi - yhdeksän  
-tixmes - syyskuu  
+tixlun - syyskuu  
 toca - koskea (koskettaa)  
 Togo - Togo  
 tokse - myrkky  
@@ -3156,9 +3157,9 @@ unyom - maanantai
 uniti - yhtenäinen  
 Uniti Arabi Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
 Uniti Dex Da Amerike (UDA) - Yhdysvallat (ns. Amerikka)  
+unlun - tammikuu  
 unmaro - kerran  
 unmeni - yksimerkityksinen  
-unmes - tammikuu  
 unodi - ensimmäinen (numero yksi)  
 unoki lense - monokkeli  
 unrangi - yksivärinen  

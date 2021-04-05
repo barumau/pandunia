@@ -347,7 +347,6 @@
 |**mem**|memória|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**mening**|meninge|eng:meninx, spa:por:meninge, fra:méninge|
 |**merante**|meranti|may:eng:por:meranti|
-|**mes**|mês|por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|
 |**mester**|mestre|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |**metrograf**|carta geográfica|hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|
 |**meze**|mesa|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|

@@ -787,7 +787,6 @@
 |**men**|merkitys|arabia:(maʿnā), persia:urdu:(ma'ni), hindi:मअनी (maani), suahili:maana, haw:manaʻo, englanti:meaning, deu:Meinung|
 |**mening**|aivokalvo|englanti:meninx, espanja:portugali:meninge, ranska:méninge|
 |**menter**|neuvontantaja (mentori)|sanskriitti:मन्त्रिन् (mantrin), hindi:मंत्री (mantrī), thai:มนตรี (mon-tri), malaiji:menteri, englanti:deu:ranska:portugali:espanja:mentor, japani:メンター (mentā), korea:멘토 (mento), venäjä:ментор (mentor)|
-|**mes**|kuukausi|portugali:mês, espanja:mez, venäjä:месяц (mesyats), bangla:মাস (mas), suahili:mwezi|
 |**mester**|mestari (asiantuntija)|portugali:mestre, ranska:maître, puola:mistrz, englanti:master, venäjä:мастер (master), espanja:maestro, deu:Meister, hindi:(mistrī)|
 |**metal**|metalli|englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)|
 |**metode**|keino (menetelmä, metodi)|englanti:method, espanja:portugali:método, ranska:méthode, venäjä:ме́тод (métod), turkki:metod, malaiji:metode|

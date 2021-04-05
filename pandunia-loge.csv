@@ -270,7 +270,7 @@ bak.o.coi:|bakocoi||||bok choy||col china||||白菜 (小白菜)||||||pakcoy|||||
 bak.o.margarit:e|bakomargarite|biu|Leucanthemum vulgare||oxeye daisy|marguerite|margarita|margarita-maior|нивяник обыкновенный (ромашка)||法蘭西菊|フランスギク||||||||||jastrun właściwy
 bak.o.salmon:|bakosalmon|biu|Orcorhynchus keta||chum salmon|saumon du Pacifique (saumon kéta, saumon chien)|salmón chum (keta)|salmão-cão (salmão-keta)|кета||大麻哈鱼 (狗鮭)|シロザケ||||||||||keta
 bal:i|bali|numbe|8|zho:八 (bā), kor:팔 (pal), tgl:walo, haw:walu|eight (8)|huit (8)|ocho (8)|oito (8)|восемь (8)||八 (8)|八 (8)||||||||ok (8)|kahdeksan (8)|osiem (8)
-bal.mes:|balmes|mes|||August|août|agosto|||||８月|||||||||elokuu|listopad
+bal.lun:|ballun|mes|||August|août|agosto|||||８月|||||||||elokuu|listopad
 bal.sent.er:|balsenter|biu|Octopodiformes||octopus|Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)||章鱼|タコ|||||||||mustekala|ośmiornica
 bald:e|balde|||spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|bucket|seau|balde (cubo)|||||||||||||sitelo|sanko (ämpäri)|wiadro
 balibal:i|balibali|||eng:various, spa:vario, por:vário, jpn:とりどり (toridori), ben:বিবিধ (bibidha), may:berbagai-bagai, swa:balimbali|various (diverse, miscellaneous)|divers (plusieurs)|distintos (diversos)|vários|||各种各样|色々 (種々, 様々, 区々, とりどり, それぞれ)|||||||||monenlainen|różny (różnorodny)
@@ -508,7 +508,7 @@ capat:e|capate|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapa
 car:i|cari|numbe|4|rus:четыре (chetyre), hye:չորս (čʿors), hin:mar:चार (cār), ben:চার (car), pan:ਚਾਰ (chār), guj:ચાર (cār), may:catur|four (4)|quatre (4)|cuatro (4)|quatro (4)|четыре (4)||四 (4)|四 (4)||||||||kvar (4)|neljä (4)|cztery (4)
 car.gon:|cargon||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
 car.iom:|caryom||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
-car.mes:|carmes|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
+car.lun:|carlun|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
 carm:e|carme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 cat:e|cate|||hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|roof||techo (tejado)|||||||||||||tekto|katto (katos)|dach
 cau:|cau|biu||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
@@ -672,10 +672,10 @@ den:|den|||rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:�
 den.iam:|denyam||||lunch||almuerzo|||||昼食||||||||tagmanĝo|lounas|obiad, lunch
 deng:a|denga|||zho:等 (děng),  yue:等 (dang2)|wait||esperar|||||||||||||atendi|odottaa|czekać
 des:i|desi|numbe|10|por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|ten (10)||diez (10)|||||十 (１０)||||||||dek (10)|kymmenen (10)|dziesięć (10)
-des.dul.mes:|desdulmes|mes|||December||deciembre|||||１２月|||||||||joulukuu|kwiecień
+des.dul.lun:|desdullun|mes|||December||deciembre|||||１２月|||||||||joulukuu|kwiecień
 des.kilo:|deskilo*||||ten thousand|||||||万||||||||dek miloj|sata tuhatta|dziesięć tysięcy
-des.mes:|desmes|mes|||October||octubre|||||１０月|||||||||lokakuu|luty
-des.un.mes:|desunmes|mes|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
+des.lun:|deslun|mes|||October||octubre|||||１０月|||||||||lokakuu|luty
+des.un.lun:|desunlun|mes|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
 desen:|desen|||eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)|drawing (design)||dibujo (diseño)|||||||||||||desegno|piirustus|rysunek, obraz
 detal:|detal|||eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|detail||detalle|||||||||||||detalo|yksityiskohta (detalji)|detal, szczegół
 deu:|deu|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
@@ -760,9 +760,9 @@ dul.bax:i|dulbaxi||||bilingual|bilingue|bilingüe|bilíngue|двуязычный
 dul.graf:i|dulgrafi||||anaglyphic (stereoscopic)||||||||||||||||stereoskooppinen|
 dul.iom:|dulyom||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiisai|wtorek
 dul.ist:ia|dulistia||||dualism||dualismo||||||||||||||dualismi|dualizm
+dul.lun:|dullun|mes|||February||febrero|||||２月|||||||||helmikuu|maj
 dul.mar:o|dulmaro||||twice||dos veces||||||||||||||kahdesti (kaksi kertaa)|dwukrotnie (dwa razy)
 dul.men:i|dulmeni||||double entendre||doble sentido||||||||||||||kaksimielinen (kaksimerkityksinen)|dwuznacznik
-dul.mes:|dulmes|mes|||February||febrero|||||２月|||||||||helmikuu|maj
 dul.romans:i|dulromansi||||biromantic||birromántico|||||||||||||||biromantyczny
 dul.seks:i|dulseksi||||bisexual||bisexual||||||||||||||biseksuaali|biseksualny
 dul.sond:i|dulsondi||||stereophonic||||||||||||||||stereofoninen|
@@ -1957,7 +1957,7 @@ kux.lok:e|kuxloke|||fra:eng:couchette, ita:cuccetta, pol:kuszetka|berth (couchet
 L|L||||L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L
 l:a|la|prep.|||from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
 l:e|le|pron.|||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
-l.o.l:e|lole|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
+l.es:|les|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
 lab:e|labe|||fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|lip||labio|||||||||||||lipo|huuli|warga
 lad:a|lada|||eng:load, deu:laden, pol:ładować, hin:लादना (lādnā)|load (to charge)||cargar||||||||लादना (भरना)||||||ladata|naładować, załadować, obładować, ładować
 lag:e|lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
@@ -2054,7 +2054,7 @@ lim:i|limi|numbe|5|may:tgl:lima, mlg:dimy|five (5)|cinq (5)|cinco (5)|cinco (5)|
 lim.fas:|limfas||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
 lim.gon:|limgon||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
 lim.iom:|limyom||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
-lim.mes:|limmes|mes|||May||mayo|||||５月|||||||||toukokuu|sierpień
+lim.lun:|limlun|mes|||May||mayo|||||５月|||||||||toukokuu|sierpień
 limit:e|limite|||eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|limit (boundary)||límite (frontera, linde)||||||||||||||raja|limit, granica
 limit:i|limiti||||finite (limited)|||||||||||||||||skończony (ograniczony)
 limon:|limon|biu|Citrus limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon|citron|limón|limão|лимон||柠檬|レモン|||नींबू||jeruk lemon (limau)||limon|citrono|sitruuna|cytryna
@@ -2114,6 +2114,7 @@ lug.o.melon:|lugomelon|biu|Cucumis melo, Inodorus||honeydew (green melon)||meló
 Luksemburg:e|Luksemburge|dex|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 lul:|lul|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
 lun:|lun|planete 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
+lun:|lun||||month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
 lun.kek:e|lunkeke||||mooncake|gâteau de lune|pastel de luna|bolo lunar|лунный пирог|كَعْكَة اَلْقَمَر‎|月饼|月餅|월병||||kue bulan||ay keki||kuukakku|
 lung:|lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok
 lusun:|lusun|biu||zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)|asparagus||espárrago||||||||||||||parsa|szparag; szparagia
@@ -2123,7 +2124,7 @@ lutet.em:|lutetem|mate|Lu||lutetium||lutecio|||||||||||||lutecio|lutetium|lutet
 M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 m:e|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
-m.o.m:e|mome|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
+m.es:|mes|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
 maf:|maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
 maf:a|mafa||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||||||माफ करना||memaafkan|kusamehe|affetmek|pardoni|antaa anteeksi|
 mag:i|magi||||magical||magical||||||||||||||taianomainen (maaginen)|magiczny
@@ -2278,7 +2279,6 @@ mening.itis:|meningitis||||meningitis||meningitis||||||||||||||aivokalvontulehdu
 ment.er:|menter|||san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|advisor (counselor, mentor)||consejero (asesor)||||||||||||||neuvontantaja (mentori)|doradca (mentor)
 merant:e|merante|biu|Shorea|may:eng:por:meranti|lauan tree (meranti, balau)|||meranti||||||||||||||damarzyk (meranti)
 Merkur:|Merkur|planete 1|||Mercury|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury
-mes:|mes|||por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
 mest:a|mesta||||master (be an expert at sth)||dominar||||||||||||||taitaa (olla mestari jskn)|być mistrzem (być ekspertem)
 mest.er:|mester|||por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|master (expert)|maître|maestro (experto)|mestre|мастер||||||||||||mestari (asiantuntija)|mistrz (ekspert)
 metal:|metal|||eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|metal||metal|||||金属||||||||metalo|metalli|metal
@@ -3068,6 +3068,7 @@ s:a|sa||||be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah|
 s:e|se||||self (reflexive pronoun)|se|se|se|себя (-ся)|||||||||||si|itse|sam, siebie
 s:i|si|||||son (sa)|su (suyo)||||||||||||||oma (-nsa)|
 s.er:|ser||||being (entity)||ser||||||||||||||olento (olio)|
+s.es:|ses||||each other (one another)|l'un l'autre|el uno al otro (mutuamente)|um ao outro|друг друга||彼此||||||||birbiri|unu la alian|toisiaan (toinen toistaan)|
 sab:a|saba||||cause (be the cause for)||causar||||||||||||||aiheuttaa (olla syynä)|spowodować, powodować
 sab:e|sabe|||heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|reason (cause)||razón (causa)|||||||||||||kialo|syy|powód, przyczyna
 sab:o d:a|sabo da||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
@@ -3129,7 +3130,7 @@ Samoa:|Samoa|dex|WS||Samoa||Samoa||||||||||||||Samoa|Samoa
 san:|san|numbe|3|zho:三 (sān), yue:三 (sam1), jpn:三 (san), kor:삼 (sam), vie:tam, tha:สาม (saam)|three (3)|trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)
 san.gon:|sangon||||triangle||triángulo||||||||||||||kolmio|trójkąt
 san.iom:|sanyom||||Wednesday|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merredo|keskiviikko|środa
-san.mes:|sanmes|mes|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
+san.lun:|sanlun|mes|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
 san.zong:|sanzong||||trident||tridente||трезубец||三叉戟|三つまた (トライデント)||||||||||trójząb
 sanduic:e|sanduice|||eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|sandwich|sandwich|sándwich (sánduche)|sanduíche|сандвич|سَانْدَوِيتْش|三明治 (三文治)|サンドイッチ|||सैंडविच||roti lapis (sandwic).||||voileipä|kanapka
 sanduk:e|sanduke|||swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|box (chest)||caja (baúl, cofre, estuche)||сундук|||||||||sanduku|sandık|skatolo (kesto)|laatikko|pudło, skrzynia
@@ -3203,7 +3204,7 @@ seru.er:|server||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilij
 sesam:|sesam|biu|Sesamum indicum|tur:susam, eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim)|sesame||ajonjolí (sésamo)||||||||||||||seesami|sezam
 set:i|seti|numbe|7|spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), tha:เจ็ด (chet), yue:七 (chat1), jpn:七 (shichi), tur:yedi|seven (7)|sept (7)|siete (7)|sete (7)|семь (7)|七 (7)|七 (7)|||||||||sep (7)|seitsemän (7)|siedem (7)
 set.iom:|setyom||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
-set.o.mes:|setomes|mes|||July||julio|||||７月|||||||||heinäkuu|październik
+set.o.lun:|setolun|mes|||July||julio|||||７月|||||||||heinäkuu|październik
 Sexel: nes:ia|Sexel nesia|dex|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
 sian:i|siani|||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン|||||||||syaani|niebieskozielony (cyjan)
 Sibir:ia|Sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
@@ -3250,7 +3251,7 @@ sis:i|sisi|numbe|6|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest�
 sis.fas:|sisfas||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
 sis.gon:|sisgon||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 sis.iom:|sisyom||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
-sis.mes:|sismes|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
+sis.lun:|sislun|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
 sism:a|sisma||||shake (swing)||agitar (sacudir)|||||振る||||||||||trząść (machać)
 sism:e|sisme|||ell:σεισμός (seismós), eng:seism, spa:sismo, fra:séisme, tur:sismik|shake (jolt, earthquake)|||||||||||||||||trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)
 sism:i|sismi||||seismic (vibrational)|||||||||||||||||sejsmiczny (wibracyjny)
@@ -3372,7 +3373,7 @@ sux:i|suxi|||jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suş
 T|T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T
 t:e|te|pron.||fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
 t:i|ti||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
-t.o.t:e|tote|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
+t.es:|tes|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
 tabak:e|tabake|biu|Nicotiana tabacum|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco||tabaco|||||||||||||tabako|tupakka|tytoń
 tabl:a dat:e|tabla date||||tabulate||tabular||||||||||||||taulukoida|ułożyć w trabelę
 tabl:e|table|||eng:table, fra:tableau, spa:tabla, rus:табличка (tablichka), may:tabel, tur:tablo|slab (slate, tablet, board)||tabla (lámina, plancha)||плита||||||बोर्ड||||tahta||laatta (levy)|
@@ -3486,7 +3487,7 @@ Titan:|Titan|planete 6 lun 6|||Titan|||||||||||||||||
 Titan:ia|Titania|planete 7 lun 4|||Titania|||||||||||||||||
 titan.em:|titanem|mate|Ti||titanem||titanio|||||||||||||titanio|titaani|tytan
 tix:i|tixi|numbe|9|ara:تِسْعَة (tisʿa), heb:תשע  (tésha), swa:tisa|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||||||||yhdeksän|dziewięć (9)
-tix.mes:|tixmes|mes|||September||septiembre|||||９月|||||||||syyskuu|grudzień
+tix.lun:|tixlun|mes|||September||septiembre|||||９月|||||||||syyskuu|grudzień
 toc:a|toca|||eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|touch|toucher|tocar (rozar)||касаться||接触|||||||||tuŝi|koskea (koskettaa)|dotyczyć
 Togo:|Togo|dex|TG||Togo||Togo|||||||||||||Toglando|Togo|Togo
 Tokio:|Tokyo||||Tokyo|||||||東京||||||||||Tokio
@@ -3663,9 +3664,9 @@ un.it:i|uniti||||united||unido||||||||||||||yhtenäinen|zjednoczony
 Un.it:i Arab:i Amir:ia (UAA)|Uniti Arabi Amiria (UAA)|dex|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
 Un.it:i Dex: D:a Amerik:e (UDA)|Uniti Dex Da Amerike (UDA)|dex|US||United States of America (USA)||Estados Unidos de América||||||||||||||Yhdysvallat (ns. Amerikka)|Stany Zjednoczone Ameryki
 un.jan:i|unjani||||alone (lonely, isolated, solitary, single)||solo (aislado, solitary, soltero)|só (solitário)|одинокий (единичный)||独自的 (孤单)|一人の (寂しい, ポツリ)|||एकाकी||seorangan (sendiri)|||||
+un.lun:|unlun|mes|||January||enero|||||１月|||||||||tammikuu|styczeń
 un.mar:o|unmaro||||once|une fois|una vez|uma vez|один раз||一次 (一遍)||一度 (一回, 一遍)|한번|एक बार|||||unufoje|kerran|raz (jeden raz)
 un.men:i|unmeni||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
-un.mes:|unmes|mes|||January||enero|||||１月|||||||||tammikuu|styczeń
 un.od:i|unodi||||first (number one)||primero (numbre uno)||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
 un.ok:i lens:e|unoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un.rang:i|unrangi||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)

@@ -211,7 +211,7 @@ baki - blanc
 bakomargarite - marguerite  
 bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
 bali - huit (8)  
-balmes - août  
+ballun - août  
 balsenter - Poulpe (pieuvre)  
 balde - seau  
 balibali - divers (plusieurs)  
@@ -827,11 +827,12 @@ longopipre - poivre long
 lontre - loutre  
 lugi - vert  
 lun - lune  
+lun - mois  
 lunkeke - gâteau de lune  
 luter - brigand (bandit)  
 ####M - M  
 me - je (me)  
-mome - nous  
+mes - nous  
 mafa - pardonner  
 magesem - magnésium  
 Magribia - Maroc  
@@ -880,7 +881,6 @@ mem - mémoire
 mema - se rappeler (se remémorer)  
 mening - méninge  
 Merkur - Mercure  
-mes - mois  
 mester - maître  
 metalbede - enclume  
 metrograf - carte  
@@ -1113,6 +1113,7 @@ ruhmixi - perplexe (désorienté)
 sa - être  
 se - se  
 si - son (sa)  
+ses - l'un l'autre  
 safariste - touriste  
 sahi - correct (juste)  
 saida - chasser  

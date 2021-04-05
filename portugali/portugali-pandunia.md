@@ -657,7 +657,7 @@ máscara - maske
 máximo - maxime  
 mãe - mam  
 mão - hande  
-mês - mes  
+mês - lun  
 mó - molxeke  
 música - muzike  
 ####N - N  
@@ -687,7 +687,7 @@ novo - novi
 nuvem - mege  
 náusea - retroguli sense  
 não - no  
-nós - mome  
+nós - mes  
 núcleo (cerne) - kerne  
 número - numbe  
 ####O - O  
@@ -1004,6 +1004,7 @@ técnica - tehne
 título - temnam  
 ####U - U  
 um (1) - un (uni)  
+um ao outro - ses  
 uma vez - unmaro  
 unicamente - uniko  
 Urano - Uran  

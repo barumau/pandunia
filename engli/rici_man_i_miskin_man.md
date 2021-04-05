@@ -30,7 +30,7 @@ rici man loga pa hakimer, "yi man nosa mi yami pang mey den, a peya pa mi nol xe
 </td><td>
 The rich man said, "This man smells my delicious bread every day but pays me nothing for it."
 </td></tr><tr><td>
-hakimer loga, "duli tote laya badoden, e miskini man bixu jama sake da limi auri pesoparce!"
+hakimer loga, "duli tes laya badoden, e miskini man bixu jama sake da limi auri pesoparce!"
 </td><td>
 The judge said, "Both of you come tomorrow, and the poor man must bring a bag of 5 gold coins!"
 </td></tr><tr><td>

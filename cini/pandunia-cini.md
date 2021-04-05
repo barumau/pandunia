@@ -570,7 +570,7 @@ kuxu - 躺
 ####L - L  
 la - 从  
 le - 他，她，它  
-lole - 他们  
+les - 他们  
 lage - 湖  
 laya - 来  
 layana - 带来  
@@ -639,7 +639,7 @@ luta - 掠夺
 luter - 强盗  
 ####M - M  
 me - 我  
-mome - 我们  
+mes - 我们  
 magesem - 镁  
 Magribia - 摩洛哥  
 makanful - 蒲公英  
@@ -863,6 +863,7 @@ rozosalmon - 粉紅鮭
 ruhmixi - 困惑 (混乱)  
 ####S - S  
 sa - 对  
+ses - 彼此  
 sabun - 肥皂  
 safar - 旅行  
 sahi - 正确  
@@ -943,7 +944,7 @@ suprize - 惊奇
 susan - 百合花  
 ####T - T  
 te - 你  
-tote - 你们  
+tes - 你们  
 tablokomputer - 平板电脑  
 tail - 砖 (瓦)  
 taksometrer - 计程器  

@@ -90,7 +90,7 @@ Antigua - Antigua
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibem  
 anus - anus  
-août - balmes  
+août - ballun  
 appartenir à - malu  
 application - aplike  
 appliquer - aplika  
@@ -675,6 +675,7 @@ Kinshasa - Kinxasa
 kiwi - kivi\*  
 kumquat - kankuate  
 ####L - L  
+l'un l'autre - ses  
 lac - lage  
 laid (vilain) - dusvidi  
 laine - mehi kex  
@@ -779,7 +780,7 @@ migration - migre
 mine - kuangia  
 mode (façon, manière) - mode  
 modeler - plasta  
-mois - mes  
+mois - lun  
 mole (unité) - mol  
 monde - dunia  
 monnaie (pièce) - pesdiske  
@@ -834,7 +835,7 @@ non (ne...pas) - no
 nord - norde  
 nostalgie - nostalgia  
 note - note  
-nous - mome  
+nous - mes  
 nouveau - novi  
 nuage - mege  
 nécessaire - yavan  
