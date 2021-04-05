@@ -10,11 +10,11 @@ Pronouns can substitute nouns and noun phrases.
 – you  
 **le**
 – he, she, it  
-**mes**
+**mome**
 – we  
-**tes**
+**tote**
 – you all  
-**les**
+**lole**
 – they
 
 All pronouns can be used for all genders.
@@ -36,17 +36,17 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 – I see myself.  
 **le vida se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mes vida se.**
+**mome vida se.**
 – We see ourselves.
 
-The plural form is used in the reciprocal sense.
+The word **unal** is used as the reciprocal pronoun.
 
-**ses**
+**unal**
 – each other
 
-**me e te vida ses.**
+**me e te vida unal.**
 – Me and you see each other.  
-**mes vida ses.**
+**mome vida unal.**
 – We see each other.
 
 
