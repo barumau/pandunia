@@ -1,5 +1,5 @@
-# pandunia-esperanti sa leksasle
-| pandunia | esperanti | leksasle |
+# pandunia-esperanti ha logasle
+| pandunia | esperanti | logasle |
 |----------|----------|----------|
 |**-i**|-a (-e)|araba:(-i), persa:(-i), hindia:-ई (-ī), bengala:-ই (-i), angla:-y, japana:-い (-i), hungara:-i|
 |**-ia**|ejo (ujo, io)|hispana:portugala:angla:-ia, rusa:-ия (-iya), araba: ية (-iya), japana:屋 (-ya)|

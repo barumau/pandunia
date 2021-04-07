@@ -1,5 +1,5 @@
-# pandunia-portugali sa leksasle
-| pandunia | portugali | leksasle |
+# pandunia-portugali ha logasle
+| pandunia | portugali | logasle |
 |----------|----------|----------|
 |**abite**|abeto|spa:por:abeto|
 |**adali**|justo|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|

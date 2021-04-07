@@ -1,5 +1,5 @@
-# pandunia-suomi sa leksasle
-| pandunia | suomi | leksasle |
+# pandunia-suomi ha logasle
+| pandunia | suomi | logasle |
 |----------|----------|----------|
 |**-i**|pääte: adjektiivi tai adverbi|arabia:(-i), persia:(-i), hindi:-ई (-ī), bangla:-ই (-i), englanti:-y, japani:-い (-i), unkari:-i|
 |**-ia**|ajattelun, olemisen tai ihmisten ala tai alue|espanja:portugali:englanti:-ia, venäjä:-ия (-iya), arabia: ية (-iya), japani:屋 (-ya)|

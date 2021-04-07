@@ -1,5 +1,5 @@
-# pandunia-polski sa leksasle
-| pandunia | polski | leksasle |
+# pandunia-polski ha logasle
+| pandunia | polski | logasle |
 |----------|----------|----------|
 |**-i**|przyrostek dla przymiotnika|ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-い (-i), hun:-i|
 |**-ia**|przyrostek dla miejsca|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|

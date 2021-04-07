@@ -1,5 +1,5 @@
-# pandunia-espani sa leksasle
-| pandunia | espani | leksasle |
+# pandunia-espani ha logasle
+| pandunia | espani | logasle |
 |----------|----------|----------|
 |**-i**|sufijo para adjetivos|ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-い (-i), hun:-i|
 |**-ia**|sufijo para regiónes y sustantivos abstractos|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|

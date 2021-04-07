@@ -1,5 +1,5 @@
-# pandunia-engli sa leksasle
-| pandunia | engli | leksasle |
+# pandunia-engli ha logasle
+| pandunia | engli | logasle |
 |----------|----------|----------|
 |**-i**|suffix for adjectives|Arabic:(-i), Persian:(-i), Hindi:-ई (-ī), Bengali:-ই (-i), English:-y, Japanese:-い (-i), Hungarian:-i|
 |**-ia**|area of thinking or being|Spanish:Portuguese:English:-ia, Russian:-ия (-iya), Arabic: ية (-iya), Japanese:屋 (-ya)|
