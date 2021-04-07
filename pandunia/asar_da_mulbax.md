@@ -1,6 +1,6 @@
-#influs da mulbax va pandunia
+#asar la mulbax va pandunia
 
-| bax | influs |
+| bax | asar |
 |-----|--------|
 | engli | 14% |
 | fransi | 10% |

@@ -7,14 +7,14 @@ kitaba_pike() {
 }
 
 fata_leksasli_liste() {
-    cat pandunia-loge.csv | cut -d '|' -f 5 > temp/lekse.txt
+    cat pandunia-loge.csv | cut -d '|' -f 5 > temp/logaslia.txt
     #Delete empty lines
-    sed -i '/^$/d' temp/lekse.txt
+    sed -i '/^$/d' temp/logaslia.txt
 }
 
 konta_bax() {
    # uza grep va konta di konte
-   bax=$(cat temp/lekse.txt | grep -c "$1:")
+   bax=$(cat temp/logaslia.txt | grep -c "$1:")
    #kitaba konte e 100-fen
    echo "$2 $bax $((($bax*100)/$3))%" >> temp/stats.txt
 }
@@ -22,13 +22,13 @@ konta_bax() {
 konta_baxi_aria()
 {
    echo "europi " >> temp/stats.txt
-   cat temp/lekse.txt | grep -E "(eng:|fra:|spa:|por:|deu:|rus:)" -c >> temp/stats.txt
+   cat temp/logaslia.txt | grep -E "(eng:|fra:|spa:|por:|deu:|rus:)" -c >> temp/stats.txt
    echo "barti " >> temp/stats.txt
-   cat temp/lekse.txt | grep -E "(hin:|urd:|ben:|tam:|tel:|kan:)" -c >> temp/stats.txt
+   cat temp/logaslia.txt | grep -E "(hin:|urd:|ben:|tam:|tel:|kan:)" -c >> temp/stats.txt
    echo "cini " >> temp/stats.txt
-   cat temp/lekse.txt | grep -E "(zho:|yue:|wuu:)" -c >> temp/stats.txt
+   cat temp/logaslia.txt | grep -E "(zho:|yue:|wuu:)" -c >> temp/stats.txt
    echo "afriki " >> temp/stats.txt
-   cat temp/lekse.txt | grep -E "(swa:|hau:|yor:|ibo:|amh:|orm:)" -c >> temp/stats.txt
+   cat temp/logaslia.txt | grep -E "(swa:|hau:|yor:|ibo:|amh:|orm:)" -c >> temp/stats.txt
 }
 
 fata_table() {
@@ -43,7 +43,7 @@ fata_table() {
 fata_leksasli_liste
 
 rm temp/stats.txt
-pan=$(cat temp/lekse.txt | grep -c ":" )
+pan=$(cat temp/logaslia.txt | grep -c ":" )
 echo "pan $pan 100%" >> temp/stats.txt
 
 konta_bax eng engli $pan
