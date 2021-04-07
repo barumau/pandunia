@@ -1,4 +1,4 @@
-#numbe da panduni loge ja ali bax
+#numbe da panduni loge la ali bax
 
 | bax | numbe | fen |
 |-----|-------|-----|

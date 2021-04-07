@@ -1,5 +1,5 @@
 kitaba_pike() {
-   echo "#numbe da panduni loge ja ali bax" > pandunia/loge_du_numbe.md
+   echo "#numbe da panduni loge la ali bax" > pandunia/loge_du_numbe.md
    echo "" >> pandunia/loge_du_numbe.md
    echo "| bax | numbe | fen |" >> pandunia/loge_du_numbe.md
    echo "|-----|-------|-----|" >> pandunia/loge_du_numbe.md
@@ -9,12 +9,13 @@ kitaba_pike() {
 fata_leksasli_liste() {
     cat pandunia-loge.csv | cut -d '|' -f 5 > temp/lekse.txt
     #Delete empty lines
-    sed -i '/\ ← $/d' temp/lekse.txt
+    sed -i '/^$/d' temp/lekse.txt
 }
 
 konta_bax() {
-#   echo "$2 " >> temp/stats.txt
+   # uza grep va konta di konte
    bax=$(cat temp/lekse.txt | grep -c "$1:")
+   #kitaba konte e 100-fen
    echo "$2 $bax $((($bax*100)/$3))%" >> temp/stats.txt
 }
 
@@ -31,7 +32,7 @@ konta_baxi_aria()
 }
 
 fata_table() {
-   #Add horizontal bar between nam e num
+   #Add horizontal bar between nam e numbe
    sed 's/ / \| /g' -i temp/stats.txt
    #Add horizontal bar to line-begin
    sed 's/^/\| /' -i temp/stats.txt
@@ -66,10 +67,10 @@ konta_bax may malayi $pan
 konta_bax ara arabi $pan
 konta_bax swa suahili $pan
 
-#kina nam e num pa sam linye
+#kina nam e numbe va sami linye
 perl -pi -e 's/ \n/ /' temp/stats.txt
 
-#orda ya day pa lil num, sa kolum 2
+#ratiba la dayi va lili numbe, ya kolum 2
 sort -rn -k2 temp/stats.txt -o temp/stats.txt
 
 fata_table
