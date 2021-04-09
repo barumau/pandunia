@@ -84,7 +84,7 @@ angul - fingro
 angulring - ringo  
 anim - kartuno  
 anjil - mesaĝo  
-anker - ankro  
+angar - ankro  
 anten - anteno  
 anus - anuso  
 anusi - anusa  
@@ -308,6 +308,8 @@ Cile - Ĉilio
 cimpanze - ĉimpanzo  
 cini - hana  
 cincil - ĉinĉilo  
+cinga - peti (bonvolu)  
+cinga laya - inviti  
 cirka - ĉirkaŭi  
 cita - citi  
 cize - fromaĝo  
@@ -1361,8 +1363,6 @@ pixa - pisi (urini)
 pize - pico  
 pizokan - picejo  
 platinem - plateno  
-pliza - peti (bonvolu)  
-pliza laya - inviti  
 plum - pruno  
 plumbe - plumbo  
 plutonem - plutonio  

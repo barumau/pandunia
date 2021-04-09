@@ -118,7 +118,7 @@ anaglyphic (stereoscopic) - dulgrafi
 anal - anusi  
 analyse (dissect, parse) - fenkata  
 analysis (dissection) - fenkate  
-anchor - anker  
+anchor - angar  
 Ancient Egypt (Kemet) - Kemia  
 and - e  
 Andes - Andes  
@@ -202,7 +202,7 @@ ash tree - yasen
 Asia - Asia  
 Asian - asi  
 ask (inquire) - eska  
-ask (request, beg; please) - pliza  
+ask (request, beg, plead; please) - cinga  
 asparagus - lusun  
 aspirin - aspirin  
 associate - liga  
@@ -767,7 +767,7 @@ confused (perplexed, disoriented, bewildered) - ruhmixi
 Congo (Brazzaville) - Brazavil Kongo  
 Congo Kinshasa - Kinxasa Kongo  
 congratulate (bless) - barka  
-congratulations! (blessing) - barke!  
+congratulations! (blessing, benediction) - barke!  
 connect (join, link) - linka  
 consequence (back, follow-up) - bade  
 consitution - bazokanun  
@@ -1697,7 +1697,7 @@ internet - internete
 interpreter (translator) - tarjer  
 interracial - rasmedi  
 interrogative - eskan  
-invite - pliza laya  
+invite - cinga laya  
 Io - Io  
 iodine - yodem  
 ion - iyon  
@@ -1978,8 +1978,8 @@ magical - magi
 magician (sorcerer) - mager  
 magma - pastopetre  
 magnesium - magesem  
-magnet - magete  
-magnetic - mageti  
+magnet - manete  
+magnetic - maneti  
 mail (send by mail) - posta  
 mail - poste  
 main (principal) - xefi  
@@ -2136,7 +2136,7 @@ mirror - mirer
 misdeed (sin, vice) - duskar  
 misfortune (bad luck) - dusi zar  
 mission (transmission, emission) - misia  
-mistake (error, fault, bug) - galte  
+mistake (error, fault, blunder, bug) - galte  
 misunderstand - galto buda  
 mix (blend) - mixa  
 mixer (blender) - mixer  
@@ -2677,7 +2677,7 @@ praise (commend, exalt) - halela
 praise (eulogize) - euloga  
 praise (eulogy) - euloge  
 praseodymium - prasedem  
-pray - duva  
+pray (beg, entreat, implore) - duva  
 prayer - duve  
 precious - bavi  
 precise (exact, accurate) - justi  
@@ -2835,6 +2835,7 @@ represent - vakila
 representative (proxy, agent) - vakil  
 republic - komunkratia  
 Republic of North Macedonia - Nordi Makedonia  
+request (petition) - cing  
 research (to study) - loja  
 resemble (be like) - samu  
 reservation (booking, withholding) - rezerve  

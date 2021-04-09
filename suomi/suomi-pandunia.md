@@ -107,7 +107,7 @@ anglofiili - englofiler
 Angola - Angola  
 animaatio (piirretty) - anim  
 animoida - anima  
-ankkuri - anker  
+ankkuri - angar  
 annos - doze  
 ansiosta - danko da  
 antaa - dona  
@@ -1188,6 +1188,7 @@ kreppi - fransi krepe
 kreppikoju - krepokan  
 kriisi (käännekohta) - krize  
 kriittinen (kriisi-) - krizi  
+kristalli - bilor  
 kristinusko - krististia  
 kristitty - krististe  
 kristus (messias) - kriste  
@@ -1535,8 +1536,8 @@ maata (makoilla) - kuxu
 maavoimat - geugunia  
 Macao - Makau  
 Madagaskar - Malagasia  
-magneetti - magete  
-magneettinen - mageti  
+magneetti - manete  
+magneettinen - maneti  
 magnesium - magesem  
 maha (vatsa) - pete  
 mahdollinen - abli  
@@ -2233,10 +2234,11 @@ pysähtyä - tingu
 pysäyttää - tinga  
 pyyheliina - gantex  
 pyynti (metsästys, kalastus) - saide  
+pyyntö - cing  
 pyytäjä (metsästäjä, kalastaja) - saider  
+pyytää (anoa) - cinga  
 pyytää (metsästää, kalastaa) - saida  
-pyytää - pliza  
-pyytää tulemaan - pliza laya  
+pyytää tulemaan - cinga laya  
 pyöreä - cirki  
 pyörittää - rota  
 pyöriä - rotu  
@@ -2362,7 +2364,7 @@ Ruanda - Rvanda
 rubiini - lalbauxeke  
 ruiske (injektio) - jux  
 ruiskuttaa - juxa  
-rukoilla - duva  
+rukoilla (anoa) - duva  
 rukous - duve  
 ruma (pahannäköinen) - dusvidi  
 rumpu - gum  

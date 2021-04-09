@@ -81,7 +81,7 @@ animo (psiko) - ruh
 animstato - emoshal  
 ankaŭ - maxo  
 ankoraŭ - zoko  
-ankro - anker  
+ankro - angar  
 antaŭe (pasinte) - paso  
 antaŭiri - cena  
 anteno - anten  
@@ -644,7 +644,7 @@ interkonsento - samrayia
 internacia - nasmedi  
 interrasa - rasmedi  
 interŝanĝi - badla  
-inviti - pliza laya  
+inviti - cinga laya  
 io - koi xei  
 iono - iyon  
 Irakio - Irakia  
@@ -1228,7 +1228,7 @@ perlo - lul
 persa - farsi  
 persono - jan  
 peta- - peta\*  
-peti (bonvolu) - pliza  
+peti (bonvolu) - cinga  
 peza - bari  
 pezmetalo - barmetal  
 pezo - baria  

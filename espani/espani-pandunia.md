@@ -168,7 +168,7 @@ analizar (disecar) - fenkata
 anaranjado - oranji  
 ancho - kuani  
 anchura - kuania  
-ancla - anker  
+ancla - angar  
 andamiaje - futoban  
 Andes - Andes  
 andesita - andesite  
@@ -1672,7 +1672,7 @@ importar - hamu
 importar - inmisa  
 imprimir - capa  
 impuesto (tributo, tarifa) - tarif  
-imán - magete  
+imán - manete  
 inclinar - gautalu  
 inclinar - terca  
 India - Bartia  
@@ -1725,7 +1725,7 @@ interétnica - zukomedi
 invernal - lengomosimi  
 invierno - lengomosim  
 invitado (visita) - keger  
-invitar - pliza laya  
+invitar - cinga laya  
 inyección - jux  
 inyectar - juxa  
 ion - iyon  
@@ -1981,7 +1981,7 @@ magia - magia
 magical - magi  
 magma - pastopetre  
 magnesio - magesem  
-magnético - mageti  
+magnético - maneti  
 mago - mager  
 malaria (paludismo) - malaria  
 Malasia - Malaisia  
@@ -2518,7 +2518,7 @@ pecho (seno, tórax) - sin
 pedal - pedal  
 pedazo - tike  
 pedernal (sílex) - hogoxeke  
-pedir (invitar; por favor) - pliza  
+pedir (invitar; por favor) - cinga  
 pedir prestado - jekogeta  
 pedo - pede  
 peer - peda  

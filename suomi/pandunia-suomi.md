@@ -141,7 +141,7 @@ anim - animaatio (piirretty)
 anima - animoida  
 anjil - viesti  
 anjiler - viestintuoja (airut)  
-anker - ankkuri  
+angar - ankkuri  
 Antartike - Antarktis  
 Antartiki Hai - Eteläinen Jäämeri  
 anten - antenni  
@@ -355,6 +355,7 @@ beton - betoni
 bibli - raamatullinen  
 biblia - Raamattu  
 bil - lasku (faktuura)  
+bilor - kristalli  
 bin - rakennus (rakenne)  
 bina - rakentaa  
 binplania - arkkitehtuuri  
@@ -505,6 +506,9 @@ cilifun - paprikajauhe
 cimpanze - simpanssi  
 cini - han-kiinalainen  
 cincil - chinchilla  
+cing - pyyntö  
+cinga - pyytää (anoa)  
+cinga laya - pyytää tulemaan  
 Cipia - Albania  
 cir - repeämä  
 cira - repiä  
@@ -741,7 +745,7 @@ dusvidi - ruma (pahannäköinen)
 dute - epäilys  
 dutabli - epäilyttävä  
 dutani - epäilevä  
-duva - rukoilla  
+duva - rukoilla (anoa)  
 duve - rukous  
 dux - suihku  
 ####E - E  
@@ -1899,8 +1903,8 @@ magi - taianomainen (maaginen)
 magia - taika (taikuus, magia)  
 mager - taikuri  
 magesem - magnesium  
-magete - magneetti  
-mageti - magneettinen  
+manete - magneetti  
+maneti - magneettinen  
 Magyaria - Unkari  
 Magribia - Marokko  
 mayan - maya (mayaintiaani)  
@@ -2475,8 +2479,6 @@ Platon - Platon
 platoniste - platonisti  
 platonisti - platoninen  
 platonistia - platonismi  
-pliza - pyytää  
-pliza laya - pyytää tulemaan  
 plum - luumu  
 plumbe - lyijy  
 Pluton - Pluto (kääpiöplaneetta)  

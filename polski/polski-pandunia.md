@@ -1173,7 +1173,7 @@ kosztować - kosta
 kosztowny (drogi) - kosti  
 koszula - kamis  
 kot - mau  
-kotwica - anker  
+kotwica - angar  
 kowadło - metalbede  
 kowal - metaljanger  
 koza - buze  
@@ -1365,8 +1365,8 @@ magia - magia
 magiczny - magi  
 magik, czarownik - mager  
 magma - pastopetre  
-magnes - magete  
-magnetyczny - mageti  
+magnes - manete  
+magnetyczny - maneti  
 magnez - magesem  
 maj - dullun  
 Majotta - Mayote  
@@ -2231,7 +2231,7 @@ promień światła - fotorade
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - Manihai  
-prosić - pliza  
+prosić - cinga  
 prostopadły - ortogoni  
 prosty - orti  
 prosty, nieskomplikowany - simpli  
@@ -3350,7 +3350,7 @@ zapisać (zarejestrować) - defta
 zapominać (zapomnieć) - anmema  
 zapomnieć, zapominać - bula  
 zapożyczenie (wyraz obcy) - jekologe  
-zaprosić, zapraszać - pliza laya  
+zaprosić, zapraszać - cinga laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
 zapytać, spytać, pytać - eska  

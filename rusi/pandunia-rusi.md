@@ -49,7 +49,7 @@ angulmarke - отпечаток пальца
 angulpike - кончик пальца  
 anim - оживление  
 anjil - месседж  
-anker - якорь  
+angar - якорь  
 anten - антенна  
 anus - анус  
 aple - яблоко  
@@ -209,6 +209,7 @@ centaur - василёк
 cerize - черешня  
 cili\* - перец (паприка)  
 cini - хань  
+cinga - просить  
 cir - рвать  
 cira - рвать  
 circira - изорвать  
@@ -898,7 +899,6 @@ plasta - лепить
 plasti - пластичный  
 plastike - пластмасса  
 platogeviste - плоскоземелец  
-pliza - просить  
 plum - слива  
 polbaxi - многоязычный  
 polmaro - часто  

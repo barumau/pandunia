@@ -50,7 +50,7 @@ angulmarke - 指纹 (指印)
 angulpike - 指尖  
 anim - 活跃  
 anjil - 信息  
-anker - 锚  
+angar - 锚  
 anten - 天线  
 anus - 肛门  
 aple - 苹果  
@@ -189,6 +189,7 @@ ceng - 层
 cili\* - 菜椒  
 cilifun - 辣椒粉  
 cini - 汉族  
+cinga - 请  
 cir - 撕裂  
 cira - 撕裂  
 circira - 撕毁  
@@ -251,6 +252,7 @@ dusforma - 变丑
 dusjan - 敌人  
 dusosinyi - 不祥的  
 dusvidi - 难看  
+duve - 祈祷  
 dux - 淋浴  
 ####E - E  
 e - 和  
@@ -809,7 +811,6 @@ piprominte - 辣薄荷
 pis - 云杉  
 plati geukaskia - 板块构造论  
 platotopia - 平原  
-pliza - 请  
 plum - 李子  
 polmaro - 经常  
 pontopin - 指南针  

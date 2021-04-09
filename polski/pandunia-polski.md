@@ -127,7 +127,7 @@ anim - animacja
 anima - animować  
 anjil - wiadomość  
 anjiler - posłaniec (wysłannik)  
-anker - kotwica  
+angar - kotwica  
 Antartike - Antarktyka  
 Antartiki Hai - Ocean Antarktyczny (Ocean Południowy)  
 anten - antena  
@@ -496,6 +496,8 @@ cilifun - papryka
 cimpanze - szympans  
 cini - han chiński  
 cincil - szynszyla  
+cinga - prosić  
+cinga laya - zaprosić, zapraszać  
 Cipia - Albania  
 cir - rwać (drzeć)  
 cira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
@@ -1949,8 +1951,8 @@ magia - magia
 magasar - zaklecie  
 mager - magik, czarownik  
 magesem - magnez  
-magete - magnes  
-mageti - magnetyczny  
+manete - magnes  
+maneti - magnetyczny  
 Magyaria - Węgry  
 Magribia - Maroko  
 mayan - Maya  
@@ -2590,8 +2592,6 @@ platoniste - platończyk
 platonisti - platoniczne  
 platonistia - platonizm  
 plazme - plazma (zjonizowany gaz)  
-pliza - prosić  
-pliza laya - zaprosić, zapraszać  
 plum - śliwka  
 plumbe - ołów  
 Pluton - Pluton (planeta karłowata)  

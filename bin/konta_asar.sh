@@ -42,14 +42,14 @@ konta_asar() {
       then
          sum=$(echo "$line" | grep -o "...:" | wc -l)
          #echo $sum
-         asar=$((asar+(1000/sum)))
+         asar=$((asar+(10000/sum)))
          #echo $asar
       fi
       n=$((n+1))
    done < $filename
    #percent=$(bc -l <<< "scale = 1; $asar / $3")
-   percent=$(printf "%.0f" $(echo "scale=2;($asar/10)/$3" | bc))
-   echo $1 $percent " %"
+   percent=$(printf "%.0f" $(echo "scale=2;$asar/($3*100)" | bc))
+   echo "$2 $asar $3 $percent%"
    #echo "$2 $((($asar/10)/$3))%" >> temp/stats.txt
    echo "$2 $percent%" >> temp/stats.txt
 }

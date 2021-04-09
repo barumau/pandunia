@@ -48,7 +48,7 @@ angul - dedo
 angulmarke - impressão digital  
 angulpike - ponta do dedo  
 anjil - mensagem  
-anker - âncora  
+angar - âncora  
 aple - maçã  
 aplosaus - purê de maçã  
 aplika - usar  

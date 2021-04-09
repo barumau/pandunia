@@ -119,7 +119,7 @@ anim - animation
 anima - animer  
 anjil - message  
 anjiler - messager  
-anker - ancre  
+angar - ancre  
 Antartike - Antarctique  
 Antartiki Hai - Océan Antarctique  
 anten - antenne  
@@ -1187,7 +1187,9 @@ sui - eau
 suigas - vapeur d’eau  
 suiyau - soif  
 suiminte - Menthe aquatique  
+suka - plaire  
 suki - heureux  
+suku - se plaire  
 sukar - sucre  
 sukarbete - betterave à sucre (betterave sucrière)  
 sukarcau - Canne à sucre  

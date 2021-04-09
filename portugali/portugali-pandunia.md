@@ -1070,7 +1070,7 @@ zumbi - zombe
 área de transferência - katoglutoban  
 árvore - moke  
 áspero - karsi  
-âncora - anker  
+âncora - angar  
 étnico - zuki  
 óxide - okside  
 único (só) - uniki  

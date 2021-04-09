@@ -74,7 +74,7 @@ Amérique - Amerike
 anal - anusi  
 analyse - fenkate  
 analyser - fenkata  
-ancre - anker  
+ancre - angar  
 Andes - Andes  
 Andorre - Andora  
 andésite - andesite  
@@ -962,6 +962,7 @@ piège - kapotruke
 placard - almar  
 place - meden  
 plaine - platotopia  
+plaire - suka  
 plan - plan  
 planche - mokoban  
 plante (végétal) - fite  
@@ -1118,6 +1119,7 @@ scutelle - ostoxalke
 se - se  
 se baigner - banyu  
 se mouvoir - kinu  
+se plaire - suku  
 se rappeler (se remémorer) - mema  
 seau - balde  
 sel - sal  

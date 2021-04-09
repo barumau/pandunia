@@ -152,7 +152,7 @@ anim - animation (cartoon)
 anima - animate  
 anjil - message  
 anjiler - messenger  
-anker - anchor  
+angar - anchor  
 Antartike - Antarctica  
 Antartiki Hai - Antarctic Ocean  
 anten - antenna (aerial)  
@@ -306,7 +306,7 @@ barde - beard
 barya - bar (obstruct, block)  
 baryer - barrier (fence)  
 barka - congratulate (bless)  
-barke! - congratulations! (blessing)  
+barke! - congratulations! (blessing, benediction)  
 barkoke - apricot  
 barti - Indian  
 Barti Hai - Indian Ocean  
@@ -542,6 +542,9 @@ cilifun - paprika
 cimpanze - chimpanzee  
 cini - Han Chinese  
 cincil - chinchilla  
+cing - request (petition)  
+cinga - ask (request, beg, plead; please)  
+cinga laya - invite  
 Cipia - Albania  
 cir - tear (rip, edge)  
 cira - tear (rip, split)  
@@ -790,7 +793,7 @@ dusvidi - ugly (unsightly)
 dute - doubt (disbelief)  
 dutabli - dubious (suspicious, unbelievable)  
 dutani - doubtful (suspicious, disbelieving)  
-duva - pray  
+duva - pray (beg, entreat, implore)  
 duve - prayer  
 dux - shower  
 ####E - E  
@@ -1063,7 +1066,7 @@ galem - gallium
 galaksia - galaxy  
 galeria - gallery (exhibition hall)  
 galta - make a mistake  
-galte - mistake (error, fault, bug)  
+galte - mistake (error, fault, blunder, bug)  
 galti - wrong (incorrect, erroneous, faulty)  
 galto buda - misunderstand  
 gama - marry  
@@ -2124,8 +2127,8 @@ magia - magic
 magasar - spell (enchantment)  
 mager - magician (sorcerer)  
 magesem - magnesium  
-magete - magnet  
-mageti - magnetic  
+manete - magnet  
+maneti - magnetic  
 Magyaria - Hungary  
 Magribia - Morocco  
 mayan - Maya  
@@ -2807,8 +2810,6 @@ platoniste - Platonist
 platonisti - Platonic  
 platonistia - Platonism  
 plazme - plasma (ionized gas)  
-pliza - ask (request, beg; please)  
-pliza laya - invite  
 plum - plum (prune)  
 plumbe - lead  
 Pluton - Pluto (dwarf planet)  
