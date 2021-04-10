@@ -6,15 +6,15 @@ Pandunia - maailman yhteyskieli
 
 Monet ihmiset ovat tottuneet näkemään alla olevan näköisen maailmankartan. Kyseessä on tunnettu [Mercatorin projektio](https://fi.wikipedia.org/wiki/Mercatorin_projektio), joka valitettavasti vääristää pinta-alaa.
 
-![](http://www.pandunia.info/grafe/karte_da_merkator.jpg "Mercatorin palloprojektio")
+![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercatorin palloprojektio")
 
-Mistä se johtuu? Maapallon on kolmiulotteinen kappale, jota on mahdotonta grafea täydellisesti kaksiulotteisena piirustuksena. Yksi tunnetuimmista pinta-alan oikein esittävistä kartoista on [Petersin projektio](https://fi.wikipedia.org/wiki/Petersin_projektio). Se näyttää pinta-alat oikein mutta muodot väärin. Vertaa Grönlannin ja Afrikan kokoa näillä kartoilla. Mercatorin projektiossa Grönlanti näyttää Afrikan kokoiselta, mutta Petersin projektio paljastaa, että todellisuudessa Afrikka on 14 kertaa Grönlantia suurempi.
+Mistä se johtuu? Maapallon on kolmiulotteinen kappale, jota on mahdotonta grafea täydellisesti kaksiulotteisena piirustuksena. Yksi tunnetuimmista pinta-alan oikein esittävistä kartoista on [Equal Earth projektio](https://en.wikipedia.org/wiki/Equal_Earth_projection). Se näyttää pinta-alat oikein mutta muodot väärin. Vertaa Grönlannin ja Afrikan kokoa näillä kartoilla. Mercatorin projektiossa Grönlanti näyttää Afrikan kokoiselta, mutta Equal Earth projektio paljastaa, että todellisuudessa Afrikka on 14 kertaa Grönlantia suurempi.
 
-![](http://www.pandunia.info/grafe/karte_da_peters.jpg "Petersin palloprojektio")
+![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth palloprojektio")
 
 Se luonnollisesta maailmasta. Me elämme myös ihmisten maailmassa, jossa maapallo on jaettu valtioihin ja kansakuntiin. Tavallisissa kartoissa valtioiden koko riippuu niiden pinta-alasta.
 
-![](http://www.pandunia.info/grafe/karte_da_aria.png "Valtiokartta")
+![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Valtiokartta")
 
 Alla olevassa kartassa valtiot on piirretty väkiluvun eikä pinta-alan mukaan. Näin piirrettynä esim. Suomi näyttää entistä pienemmältä ja Kiina ja Intia entistä suuremmilta – ja vielä enemmän kun vertailukohtana on Mercatorin projektio!
 
