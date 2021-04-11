@@ -29,7 +29,8 @@ Afrik:e|Afrike|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), h
 Afrik:i|Afriki||||African|africain|africano|||||||||||||afrika|afrikkalainen|afrykański, Afrykanin
 afrik.o.fil:ia|afrikofilia||||Afrophilia|afrophilie||||||||||||||afrikamanteco|afrofilia|afrofilia
 afrik.o.fil.er:|afrikofiler||||afrophile|afrophile||||||||||||||afrikamanto|afrofiili|afrofil
-ag:a|aga|||fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|if (suppose, assume)|si|si (suponer)|se|если|إن|如果 (要是)|もし|||अगर (यदि)||jika (kalau)|ikiwa (kama)||se|jos (olettaa)|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa
+ag:a|aga||||suppose (assume)||suponer|||||||||||||||przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa
+ag:o d:a|ago da|||fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|if (supposing)|si|si|se|если|إن|如果 (要是)|もし|||अगर (यदि)||jika (kalau)|ikiwa (kama)||se|jos (olettaa)|jeśli, jeżeli
 agres:|agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
 agres:a|agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
 agres.er:|agreser||||aggressor|agresseur|agresor|agressor|агрессор||侵略者||||||||||hyökkääjä|
@@ -97,7 +98,7 @@ am.ik:e|amike||||darling (honey)|chéri|amado (cariño)|querido||حَبِيب‎
 Amar:i|Amari|nas|||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique et langue éthiopienne)|amhara||||||||||||||amhara (etiopialainen kansa ja kieli)|Amhara, amharski
 amen:a|amena||||trust (have faith)|faire confiance (espérer, croire qqn./qqch., avoir la foi)|||||||||||||||luottaa (uskoa)|
 amen:i|ameni||||trusted|fiable (de confiance, fidèle, sûr, crédible)|||||||||||||||varma|
-amen:o|ameno|||heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|surely (verily, amen)|sûrement|seguramente (amén)||||||||||||||uskottavasti (totisesti, aamen)|
+amen:o|ameno|||heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|surely (verily, amen, according to)|sûrement|seguramente (amén, según)||конечно (согласно)|||キッと (南無, によって)|||||||||uskottavasti (totisesti, aamen)|
 Amerik:e|Amerike|||eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika)|America (continent)|Amérique|América|||||||||||||Ameriko|Amerikka|Ameryka (kontynent)
 amerik:i|ameriki||||American|américain|americano|||||||||||||amerika|amerikkalainen|amerykański
 Amerik:i Samoa:|Ameriki Samoa|dex|AS||American Samoa|Samoa américaines|Samoa Americana|||||||||||||||Amerykańska Samoa
@@ -549,6 +550,7 @@ cir.cir:i|circiri||||tattered (ragged, torn)||andrajoso|esfarrapado|изорва
 cirk:a|cirka||||surround (encircle)||rodear (cirundar)|||||||||||||ĉirkaŭi|ympäröidä (piirittää)|otoczyć, otaczać
 cirk:e|cirke|||eng:circle, spa:por:círculo, fra:cercle, fas:چرخ‎ (čarx), hin:चक्र (cakra)|circle (round)||círculo||||||||||||||piiri (ympyrä)|koło, okrąg
 cirk:i|cirki||||round (circular)||redondo (circular)||||||||||||||pyöreä|okrągły
+cirk:o|cirko||||around||acerca|||||あたり||||||||||
 cirk.o.xek:e|cirkoxeke||||cobblestone|pavé|adoquín||булыжник||鹅卵石|丸石 (玉石, 栗石)|||||||||mukulakivi|bruk
 cit:a|cita|||eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|quote (cite)||citar|||||||||||||citi|lainata (siteerata)|cytować
 cit.o.mark:e|citomarke||||quotation mark||comilla||||||||||||||lainausmerkki|cudzysłów
@@ -769,7 +771,8 @@ dun:ia|dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā)
 dun:ia bax:|dunia bax||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
 dur:|dur||||time (duration, quantity of time)|temps (durée)|tiempo (duración)|tempo (duração)|||时间||||समय (वक़्त)||waktu|wakati|vakit|daŭro|aika (kesto, kestoaika)|trwanie
 dur:a|dura||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||||||||daŭrigi|kuluttaa (viettää aikaa)|minąć, mijać (czas)
-dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
+dur:o|duro||||during||durante|||||||||||||||przez
+dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|last (take time)|durer|durar (llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas
 dur.abl:i|durabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
@@ -1287,6 +1290,7 @@ helis.babul:|helisbabul|biu|Vachellia tortilis||umbrella thorn acacia tree|acaci
 helis.uiman:|helisviman||||helicopter|hélicoptère|helicóptero|hélicoptero|вертолёт||直升机|ヘリコプター|헬리콥터 (헬기)||हेलिकॉप्टर|হেলিকোপটার||||helikoptero|helikopteri|helikopter
 help:a|helpa||||help (assist)||ayudar (asistar)||||帮助|手伝う (助ける)|||||||||auttaa (avustaa)|pomóc, pomagać, asystować
 help:e|helpe|||eng:help, deu:Hilfe|help (aid, assistance)||ayuda (asistencia)|||||||||||||helpo|apu|pomoc, wsparcie
+help:o|helpo||||helpfully (for)||amablemente (para)|||||ために||||||||||
 Helsinki:|Helsinki|xefsite|FI||Helsinki||||||||||||||||Helsinki|
 hem:|hem|||eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|hmm|hum|hm|hmm|хм|||||hmm (hừmm)||||||hm|hmm|hmm
 hem:a|hema||||ponder (think, contemplate, consider, regard)|considérer|considerar (reflexionar, pensar en)|considerar|думать||深思 (考虑)|考える|||विचार करना||menung (mengirakan)|||pripensi (rigardi ia)|miettiä (pohtia, pitää jonakin)|dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę
@@ -1565,7 +1569,8 @@ juml:e|jumle|||ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (j
 jung:|jung|||zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
 jung:a|junga||||center (concentrate)||centrar (concentrar)||||||||||||||keskittää|centrować, skupić, skupiać
 jung:i|jungi||||central (middle)||central|||||||||||||||centralny (środkowy)
-jung:u|jungu||||to be centered (amid, in the middle)||centrarse (en el centro de)||||||||||||||keskittyä (olla keskellä)|być wycentrowanym, być w środku
+jung:o|jungo||||amid (in the middle)||en el centro|||||||||||||||
+jung:u|jungu||||to be centered||centrarse||||||||||||||keskittyä (olla keskellä)|być wycentrowanym, być w środku
 Jung.afrik:e|Jungafrike|dex|CF||Central African Republic||República Centroafricana||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
 jung.o.fon:|jungofon||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali|samogłoska
 jung.o.xul.kan:|jungoxulkan||||secondary school|école secondaire|escuela secundaria|ensino secundário|средняя школа||中学|||trường trung học|||sekolah menengah|||gimnazio|yläaste ja lukio|
@@ -1770,6 +1775,7 @@ Kiribati:|Kiribati|dex|KI||Kiribati||Kiribati||||||||||||||Kiribati|Kiribati
 kiril:i harf:ia|kirili harfia||||Cyrillic alphabet||alfabeto cirílico||||||||||||||kyrilliset aakkoset|cyrylica
 kit:a|kita|||fra:quitter, tur:gitmek, spa:quitar|go (move away)|aller (quitter)|ir|ir|идти||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść (przemieścić się)
 kit:i|kiti||||gone (away)|parti|||||||||||||||mennyt (poissa)|
+kit:o|kito||||away||lejos de|||||||||||||||
 kit.an:a|kitana||||remove (take away)||quitar (remover)|remover|||除去||||||||||viedä|
 kitab:a|kitaba||||write|écrire|escribir|escrevere|писать||写||||लिखना||menulis||yazmak||kirjoittaa|napisać, pisać
 kitab:e|kitabe|||ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|writing (text)|écriture|escritura|escrita|письмо||||||||tulisan||yazı|skribo|kirjoitus (teksti)|pismo, tekst
@@ -1844,7 +1850,8 @@ Kongfuz:e|Kongfuze|||zho:孔夫子 (Kǒng Fūzǐ)|Confucious||confucio||||||||||
 kongfuz.ist:ia|kongfuzistia||||Confucianism||confucianismo||||||||||||||Kungfutselaisuus|konfucjanizm
 Konkani:|Konkani|nas|||Konkani||konkani||||||||||||||konkani (eräs intialainen kieli)|konkani
 konsert:e|konserte|||eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|concert|concert|concierto|concerto|концерт||音乐会|コンサート (音楽会)|콘서트 (음악회)||कॉन्सर्ट|সঙ্গীতানুষ্ঠান|konser||konser|koncerto|konsertti|koncert
-kontr:a|kontra|coverb||spa:por:contra, fra:contre, eng:counter-, ell:κόντρα (kontra)|be against||estar en contra|||||||||||||kontraŭ|vastaan (vasten)|być przeciw
+kontr:a|kontra|||spa:por:contra, fra:contre, eng:counter-, ell:κόντρα (kontra)|be against||estar en contra|||||||||||||||być przeciw
+kontr:o|kontro||||against (contrarily)||contra|||||||||||||kontraŭ|vastaan (vasten)|
 konus:|konus|||eng:por:cone, spa:cono, fra:conique, rus:ко́нус (kónus), tur:koni, may:kon|cone||cono||||||||||||||kartio (keila)|szyszka
 kop:a|kopa||||copy (replicate)||copiar|||||||||||||kopii|kopioida (jäljentää)|kopiować, replikować
 kop:e|kope|||eng:copy, fra:copie, spa:por:copia, rus:копия (kopiya), hin:कापी (kāpī), tur:kopya, may:kopi, zho:拷貝 (kǎobèi), jpn:コピー (kopī)|copy (duplicate, replica)|copie|copia (réplica)|cópia|копия||摹本 (拷貝)|コピー|||कापी (प्रति)||salinan (turunan, kopi)|nakala|kopya (suret, nüsha)|kopio|kopio (jäljennös)|kopia, replika
@@ -1947,6 +1954,7 @@ lad:a|lada|||eng:load, deu:laden, pol:ładować, hin:लादना (lādnā)|l
 lag:e|lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
 Lagos:|Lagos|xefsite|NG||Lagos||||||||||||||||Lagos|
 lai:a|laya|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (arrive)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla (saapua)|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
+lai:o|layo||||toward||hacia|||||||||||||||
 lai.an:a|layana||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
 laj:e|laje|||zho:垃圾 (lājī)|garbage (rubbish, trash)|ordures|basura (desechos)|refugo (escória)|мусор (дрянь)||废物 (垃圾)|ゴミ (廃棄物)|||kadha, kachara||sampah|takataka|çöp|rubo|roska|śmieć, odpadek
 lak:e|lake|||eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|lacquer (varnish)||laca||||||||||||||lakka|lakier
@@ -1971,7 +1979,6 @@ lantan.em:|lantanem|mate|La||lanthanum||lantano||||鑭|ランタン|||||||||lant
 laru:e|larve|||deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|larva (maggot, caterpillar)||larva||||||||||||||toukka|larwa, czerw, gąsienica
 last:i|lasti|||eng:elastic, spa:por:elástico, gla:lastaig, rus:эласти́чный (elastíčnyj), tur:may:elastik, jpn:エラスティック (erasutikku)|elastic||elástico (flexible)||||||||||||||joustava (elastinen)|elastyczny
 lasun:|lasun|biu|Allium sativum|hin:लहसुन (lahsun), ben:রসুন (rôśun), zho:大蒜 (dàsuàn)|garlic|ail|ajo|alho|чеснок||大蒜 (蒜头)|大蒜|마늘|tỏi|लहसुन|রসুন|bawang putih|kitunguu saumu|sarımsak|ajlo|valkosipuli|larwa, czerw, gąsienica
-lat:a|lata||||be beside (accompany)||estar al lado de|||||||||||||||być obok
 lat:e|late|||spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)|side (flank)|côté|lado (flanco)|lado|сторона (бок)||侧面 (旁边)|側 (脇)||||||||flanko (latero)|sivu (kylki, puoli)|strona (bok)
 lat:i|lati||||||lateral (horizontal)|latéral|lateral (horizontal)|lateral|боковой (латеральный)|||||||||flanka (latera)|sivu-|poziomy (horyzontalny, boczny)
 lat:o|lato||||sideways (laterally)||de lado|||||||||||||||z boku (na bok)
@@ -2225,7 +2232,7 @@ mec:e|mece|||eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:мат
 med:e|mede||||middle (the part in between)||medio|meio (metade)|||||||||||||väli|środek
 med:i|medi|||spa:medio, eng:medium, hin:माद्धयम (mādhyam)|medium (intermediate, mean)|medio|medio (mediano)|moyen|средний|مُتَوَسِّط|中型|||||||||mezo|keskiverto (keski-)|średni
 med:ia|media||||medium (media)||medio||||||||||||||media|media
-med:u|medu||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
+med:o|medo||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
 med.o.fas:|medofas||||interface|||||||||||||||||interfejs
 medal:|medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|medallion (medal)||medallón||||||||||||||mitali|medalion, medal
 meden:|meden|||ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)|مَيْدَان‎|广场|広場|광장|quảng trường|मैदान|ময়দান||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
@@ -2672,7 +2679,8 @@ par:i numb:e|pari numbe||||even number|nombre pair|número par||чётное ч�
 par.an:a|parana||||equalize (even out)||||||||||||||||tasoittaa (tasata)|
 par.ik:e|parike||||peer||equilibrado (par)||||||||||||||vertainen|równy
 par.lini:i|parlinyi||||parallel (longitudinal)||paralelo||параллельный|||並行||||||||||równoległy (podłużny)
-par.lini:u|parlinyu||||align (go along)||alinear|||||||||||||||iść wzdłuż (pójść wzdłuż)
+par.lini:o|parlinyo||||along||a lo largo|||||||||||||||
+par.lini:u|parlinyu||||align||alinear|||||||||||||||iść wzdłuż (pójść wzdłuż)
 Paraguai:|Paraguai|dex|PY||Paraguay||Paraguay||||||||||||||Paraguai|Paragwaj
 parai:|parai|||hin:पराया (parāyā), eng:pariah, rus:пария (pariya), spa:paria|outcast (pariah)||paria||||||||||||||hylkiö (paaria)|wyrzutek
 parai:a|paraya||||despise (scorn)||despreciar (desdeñar)||||||||||||||halveksia (hyljeksiä)|gardzić (pogardzać)
@@ -2692,7 +2700,7 @@ part.er:|parter||||participant||participante||||||||||||||osallistuja|uczestnik
 pas:|pas|||eng:past, spa:pasado, por:passado, fra: passé|past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
 pas:a|pasa||||pass (go by, go past)||pasar||||||||||||||kuluttaa aikaa|minąć, mijać, przeminąć, przemijać
 pas:i|pasi||||past (bygone)||anterior (remoto)|||||||||||||pasinta|mennyt|przeszły, miniony
-pas:o|paso||||before (in the past)||haber (en el pasado)|||||||||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|poprzednio (przedtem)
+pas:o|paso||||before (in the past, past, by)||haber (en el pasado)|||||||||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|poprzednio (przedtem)
 pas.iu:i|pasivi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
 pas.port:e|pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 pask:e|paske||||Easter||Pascua||||||||||||||pääsiäinen|Wielkanoc
@@ -3417,6 +3425,7 @@ telug:i|telugi|nas|||Telugu||télugu||||||||||||||telugu (eräs intialainen kiel
 telur.em:|telurem|mate|Te||tellurium||telurio|||||||||||||teluro||tellur
 tem:|tem|||fra: thème, spa: tema, rus: тема (tema), deu:Thema|topic (subject, theme)|sujet (thème)|tema||тема||主题目|||||||||temo|aihe (teema)|temat, motyw
 tem:a|tema||||be about (discuss as a subject)||tratar de|||||||||||||esti pri; pridiskuti|aiheesta (-sta)|być o; dyskutować o
+tem:o|temo||||on the topic (about)|||||||について||||||||||
 tem.nam:|temnam||||title (headline)|titre|título|título|название (пьесы, заголовок)|eunwan (laqab)|标题|題名 (書名, タイトル)||||||||||tytuł (nagłówek)
 ten:|ten|||zho:天 (tiān), yue:天 (tin1), wuu:天 (thi1), jpn:天 (ten), kor:천 (cheon), vie:thiên|sky (heaven)|ciel|cielo|céu|небо|سَمَاء|天空|空|하늘|trời|आसमान (आकाश)|আকাশ|langit|mbingu|gök|ĉielo|taivas|niebo
 ten:i|teni||||celestial (heavenly)||celeste (celestial)|||||||||||||||niebieski, niebiański, podniebny
@@ -3489,6 +3498,7 @@ tortug:e|tortuge|biu|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:to
 tou:a|tova|||eng:tow, zho:拖 (tuō)|drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
 trans:a|transa||||transit (pass through or across)||transitar (atravesar)||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 trans:e|transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (passage)||tránsito||||||||||||||läpikulku|przejazd, przewóz, tranzyt
+trans:o|transo||||through (across)||a través|||||||||||||||
 trans.er:ia|transeria||||transportation||transporte||||||||||||||kuljetus|transport
 trans.o.gon:i|transogoni||||diagonal||diagonal|||||||||||||||przekątny
 trat:a|trata||||agree (make an agreement)||||||||||||||||sopia (tehdä sopimus)|zgodzić się (umówić się)
@@ -3622,6 +3632,7 @@ uirus.loj:ia|viruslojia|||pol:wirusologia, rus:вирусология (virusolog
 uis:|vis||||alternative (substitute, replacement)||alternativa (sustituto)|||||代替||||||||||alternatywa (substytut, zastępstwo)
 uis:a|visa||||substitute (replace)||sustituir (reemplezar)||||||||||||||korvata|zastąpić (podstawić, zamienić)
 uis:i|visi|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy)||vice-|||||||||||||vic-|vara- (korvike-)|wice-
+uis:o|viso||||instead||en lugar de|||||||||||||||
 uis.log:e|visloge||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
 uis.prezident:e|visprezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
 uisk:e|viske|alkohol|||whisky (whiskey)|||||||||||||||||viski
@@ -3678,6 +3689,7 @@ Uruxalem:|Uruxalem|xefsite|||Jerusalem|||||القُدس‎||||||||||||Jerozolima
 uulu:e|vulve|||fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|vulva|vulve|vulva|vulva|вульва||外阴 (陰门)|陰門|음문|âm hộ|||||vulva|vulvo|häpy (ulkosynnyttimet)|srom
 uut:e|vute|||zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|object (item)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
 uz:a|uza|||eng:use, spa:usar, pol:używać|use (employ, apply)||usar (aplicar)|||||||||||||uzi|käyttää|użyć, używać, zatrudnić, stosować
+uz:o|uzo||||while using (with)|||||||||||||||||
 uz.abl:i|uzabli||||usable (available)||utilizable (disponible)|||||使用可能||||||||||
 uz.er:|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
 uz.er.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
