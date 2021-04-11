@@ -119,7 +119,7 @@ antelias (avokätinen) - donivi
 antenni - anten  
 Antigua - Antigua  
 Antigua ja Barbuda - Antigua e Barbuda  
-antikristus - fankriste  
+antikristus - ankriste  
 antimoni - estibem  
 apinanleipäpuu (baobab) - bui  
 appelsiini - oranje  
@@ -884,6 +884,7 @@ kahista - xaxu
 kahvi - kafe\*  
 kahvikuppi - kafekupe  
 kahvila - kafekan  
+kahvipannu - kafepote  
 kaide (reelinki) - langan  
 kaikki - pan (pani)  
 kaiku - mirsonde  
@@ -984,7 +985,7 @@ keho (ruumis) - bode
 kehonrakennus (bodaus) - muskulbin  
 kehys (raamit) - frem  
 kehä (ottelualue) - ringar  
-keidas - oaze  
+keidas - vas  
 keino (menetelmä, metodi) - metode  
 keinotekoinen (teko-, keino-) - cani  
 keinotekoinen kieli (tekokieli, keinokieli) - canbax  
@@ -1007,6 +1008,7 @@ kenguru - kangaru\*
 Kenia - Kenia  
 kenkä - sapate  
 kenttä (aukio) - meden  
+keramiikka - poteria  
 kerho (klubi) - klube  
 kerma - krem  
 kermankeltainen - kremi  
@@ -1205,7 +1207,8 @@ kuiva - gani
 kuivata (kuivattaa) - gana  
 kuka? - ki jan  
 kukka - ful  
-kukkaruukku - fulvaze  
+kukkamaljakko - fuljar  
+kukkaruukku - fulpote  
 kukkia - fulu  
 kuljetus - transeria  
 kulkea poikki, läpi tai yli - transa  
@@ -1242,7 +1245,7 @@ kupari - kupre
 kupla - lilbol  
 kupoli (holvikatto) - kupocate  
 kuponki - kupon  
-kurainen (mutainen) - poti  
+kurainen (mutainen) - fani  
 kurja (raukka) - miskini  
 kurkku - hiyar  
 kuski (ajuri, ajaja) - xofer  
@@ -1444,6 +1447,7 @@ logofiili - logofiler
 logofilia - logofilia  
 lohkare (järkäle) - daixeke  
 lokakuu - deslun  
+lokasuoja - fandefban  
 lokikirja - deftobuke  
 looginen - logiki  
 lopetettu - finiti  
@@ -1725,7 +1729,7 @@ musta - siyahi
 musta lista - haramliste  
 muste - moge  
 mustekala - balsenter  
-muta (kura, lieju) - pote  
+muta (kura, lieju) - fan  
 mutka (kurvi) - kurve  
 mutkikas - kurvi  
 mutta - a  
@@ -2031,6 +2035,7 @@ pasifisti - paciste
 paska (sonta) - xite  
 paskantaa (ulostaa) - xita  
 passi - pasporte  
+pata - pote  
 patja - matras  
 patogeeni - patojener  
 patologia (tautioppi) - patolojia  
@@ -2100,7 +2105,7 @@ pioni - mudan
 pippuri - pipre  
 piraatti (joka ei kunnioita tekijänoikeuksia) - piratiste  
 piraattipuolue - piratisti partia  
-pirullinen - xatani  
+pirullinen - Xatani  
 pisara (tippa) - yote  
 piste (täplä) - punte  
 pisteliäs (pikantti) - pinani  
@@ -2376,7 +2381,7 @@ ruokasali - yamkamar
 Ruotsi - Suenia  
 rusina - ganputau  
 ruskea - bruni  
-ruukku (maljakko, vaasi) - vaze  
+ruukku (kannu, maljakko, karahvi) - jar  
 ruumiillinen - bodi  
 ruusu - roze  
 ruuti - barude  
@@ -2394,7 +2399,7 @@ saaja (vastaanottaja) - geter
 saapas (buutsi) - bute  
 saari - nes  
 saaristo - nesia  
-saatana (sielunvihollinen) - Xatan  
+saatana (sielunvihollinen) - Xatan (ruhxatan)  
 sade - barxe  
 sadekausi - barxomosim  
 sadetakki - barxokote  
@@ -2458,7 +2463,8 @@ Saudi Arabia - Saudi Arabia
 sauma (ommel) - sutur  
 sauna - sauna\*  
 savanni - garmozoni cautopia  
-savi - glutopote  
+savenvalaja - poter  
+savi - glutofan  
 savityö (keramiikka) - seram  
 savu - duman  
 savuke tai sikari - sigar  
@@ -2621,7 +2627,7 @@ sulka - per
 sulkea (panna kiinni) - ankaya  
 sulkea vetoketjulla - zipa  
 summa - sum  
-suo (räme) - pototopia  
+suo (räme) - fantopia  
 suodattaa - filter  
 suojakilpi - defban  
 suojakypärä - defkaske  
@@ -2781,6 +2787,7 @@ te - tes
 tee - cai  
 teehuone (kahvila) - caikan  
 teekuppi - caikupe  
+teepannu - caipote  
 teettää - an:a  
 tehdas - fatokan  
 tehdä (valmistaa) - cana  
@@ -2929,6 +2936,7 @@ Turkmenistan - Turkomenia
 turkoosi - firuze  
 turmella ulkomuoto - dusforma  
 turvallinen (varma) - sekuri  
+turve - turfe  
 tutkia (opiskella) - loja  
 tutkia - genca  
 tuuli (puhallus) - hau  
@@ -3087,18 +3095,15 @@ vartioida (vahtia) - garda
 vasara - hamar  
 vasemmistolainen - leftiste  
 vasen - lefte  
-vasta- (anti-) - fani  
 vastaan (vasten) - kontra  
 vastahakoinen (haluton) - anici  
-vastakohta (antonyymi) - fannam  
+vastakohta (antonyymi) - annam  
 vastakohtainen (negatiivinen, epä-) - ani  
 vastapäivään - rotolefto  
 vastata - javaba  
 vastaus - javabe  
-vastustaa - fana  
 vastustaa - xata  
 vastustaja (vihollinen) - xatan  
-vastustaja - faner  
 Vatikaanivaltio - Vatikan  
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avari  

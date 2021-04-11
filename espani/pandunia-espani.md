@@ -109,7 +109,9 @@ angalta - depurar
 anyavi - innecesario  
 anjama - dispersar (esparcir, desmontar)  
 anjami - escaso (disperso, ralo)  
+ankriste - Anticristo  
 anmema - olvidar  
+annam - antónimo  
 anromansi - arromántico  
 anseksi - asexual  
 ansomia - insomnio  
@@ -119,6 +121,7 @@ ande - huevo
 Andes - Andes  
 andesite - andesita  
 Andora - Andorra  
+angar - ancla  
 Angola - Angola  
 angul - dedo  
 angulmarke - huella digital  
@@ -128,7 +131,6 @@ anim - animación (dibujo animado)
 anima - animar  
 anjil - mensaje  
 anjiler - mensajero  
-angar - ancla  
 Antartike - antartida  
 Antartiki Hai - océano Antártico  
 anten - antena  
@@ -324,8 +326,8 @@ beyu - sufrir (verbo pasivo)
 Beijing - Pekín  
 beka - hornear (cocer)  
 beker - panadero  
+bekofan - terracota  
 bekokan - panadería  
-bekopote - terracota  
 bel - belio  
 bel - pala  
 Belarus - Belarús  
@@ -448,6 +450,7 @@ Cadia - Chad
 cai - té  
 caikan - salón de té  
 caikupe - taza de té  
+caipote - tetera  
 cake - cuchillo  
 cakre - rueda (volante)  
 camace - cuchara  
@@ -816,11 +819,10 @@ falsi - falso
 falsvide - ilusión  
 famil - familia  
 familnam - apellido  
-fana - oponerse (resistir)  
-fani - contrario (opuesto)  
-faner - adversario (oponente)  
-fankriste - Anticristo  
-fannam - antónimo  
+fan - lodo (barro, fango)  
+fani - embarrado (enlodado)  
+fandefban - guarda-barros (aleta)  
+fantopia - ciénaga (pantano)  
 fantaza - imaginar (fantasear)  
 fantaze - imaginación (fantasía)  
 fantazi - imaginario (fantástico)  
@@ -944,9 +946,10 @@ fuke - ropa (vestimenta)
 fuki - vestido (llevando ropa)  
 fuku - llevar (verstirse)  
 ful - flor  
+fuljar - florero  
 fulu - florecer  
 fulmosim - primavera  
-fulvaze - florero  
+fulpote - maceta (plantera)  
 fun - polvo  
 funcuper - aspiradora  
 funcu - funcionar  
@@ -1065,8 +1068,8 @@ glute - pegamento (pega, goma)
 gluti - pegajoso (adhesivo)  
 gluten - gluten  
 glutobende - curita (apósito)  
+glutofan - arcilla (barro)  
 glutograf - adhesivo  
-glutopote - arcilla (barro)  
 gol - meta (gol, destinación)  
 gola - destinar  
 gom - goma (caucho, hule)  
@@ -1386,6 +1389,7 @@ janel - ventana
 janger - artesano  
 jangle - bosque (jungla, selva)  
 jar - jarra  
+jar - jarra  
 jau - cebada  
 javaba - responder (contestar)  
 javabe - repuesta (contestación)  
@@ -1478,6 +1482,7 @@ kadem - cadmio
 kafe\* - café  
 kafekan - café (cafetería)  
 kafekupe - taza de café  
+kafepote - cafetera  
 kafir - pagano (infiel)  
 kaguje - papel  
 kagujolimon - limero  
@@ -1952,8 +1957,6 @@ magi - magical
 magia - magia  
 mager - mago  
 magesem - magnesio  
-manete - imán  
-maneti - magnético  
 Magyaria - Hungría  
 Magribia - Marruecos  
 mayan - maya  
@@ -1986,6 +1989,8 @@ mamal - mamífero
 man - masculino (macho)  
 mani pute - hijo  
 mani rajer - rey  
+manete - imán  
+maneti - magnético  
 mangi - ocupado (atareado)  
 mangan - manganeso  
 mango\* - mango  
@@ -2363,7 +2368,6 @@ numbe - número
 nuton - newton (N)  
 ####O - O  
 o - o  
-oaze - oasis  
 Oceania - Oceanía  
 odisi - oriya  
 ofis - cargo  
@@ -2630,9 +2634,8 @@ poste - correo
 postocape - sello postal  
 postokan - oficina de correos  
 postomarke - matasellos  
-pote - lodo (barro, fango)  
-poti - embarrado (enlodado)  
-pototopia - ciénaga (pantano)  
+poter - alfarero  
+poteria - alfarería  
 poza - hacer posar (plantar)  
 poze - pose (postura)  
 prasedem - praseodimio  
@@ -3305,13 +3308,13 @@ varis - patrimonio (herencia, legado)
 varke - hoja  
 varkalge - kelp  
 varkolate - página  
+vas - oasis  
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
 vau - guau (vaya)  
 vaxa - lavar  
 vaxmaxin - lavadora  
 vaxurse - mapache  
-vaze - jarrón (bote)  
 UDA du - estadounidense  
 vei - cola (rabo)  
 venda - vender  
@@ -3432,10 +3435,10 @@ xarme - vergüenza (pena)
 xarnir - bisagra (gozne)  
 xarta - espicificar (estipular)  
 xarte - condición (requisito, estipulación)  
-xata - oponer  
-xatan - adversario  
-Xatan - Satanás  
-xatani - satánico  
+xata - oponerse (resistir)  
+xatan - adversario (oponente)  
+Xatan (ruhxatan) - Satanás  
+Xatani - satánico  
 xataniste - satanista  
 xatanistia - satanismo  
 xatranje - ajedrez  

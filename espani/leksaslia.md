@@ -315,8 +315,7 @@
 |**faini**|fino (delgado, delicado)|eng:fine, spa:por:fino, fra:fin|
 |**falsi**|falso|eng:false, spa:por:falso, fra:faux, deu:falsch|
 |**famil**|familia|eng:family, spa:familia, por:família, fra:famille|
-|**fani**|contrario (opuesto)|zho:反 (fǎn), yue反 (faan3), vie:phản, jpn:反 (han-), kor:반 (ban-)|
-|**fannam**|antónimo|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
+|**fan**|lodo (barro, fango)|fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|
 |**fantaze**|imaginación (fantasía)|eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фантазия (fantazija), tur:fantezi, may:fantasi, jpn:ファンタジー (fantajī)|
 |**fantom**|fantasma|eng:phantom, spa:por:fantasma, fra:fantôme, rus:фантом (fantom)|
 |**fas**|faz (faceta)|eng:fra:por:face, spa:faz, deu:Facette|
@@ -509,6 +508,7 @@
 |**janel**|ventana|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**janger**|artesano|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
 |**jangle**|bosque (jungla, selva)|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
+|**jar**|jarra|ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|
 |**jar**|jarra|eng:jar, ara:(jara), por:spa:jarra|
 |**jau**|cebada|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|
 |**javabe**|repuesta (contestación)|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|
@@ -874,13 +874,13 @@
 |**nafas**|respiración|ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|
 |**nagre**|pueblo|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
 |**nahun**|uña|fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)|
-|**najis**|contaminación (corrupción, porquería, suciedad)|ara:نجس (najis), fas:نجس (najes), may:najis + eng:najis, rus:наджа́са (nadžása), tur:necis|
+|**najis**|contaminación (corrupción, porquería, suciedad)|ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|
 |**nam**|nombre|hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|
 |**namloge**|sustantivo|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |**nanas**|piña|may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|
 |**narake**|infierno|hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)|
 |**narde**|backgammon|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
-|**nasia**|nación|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
+|**nasia**|nación|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |**nau**|barco (bote)|fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|
 |**nautil**|nautilo|eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|
 |**naziste**|Nazi|rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
@@ -896,7 +896,7 @@
 |**nice**|parte inferior|ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|
 |**nide**|nido (avispero, hormiguero, ratonera)|eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), hin:नीड़ (nīḍa), ben:নীড় (nīṛa)|
 |**nili**|azul|ben:নীল (nīl), hin:नीला (nīlā), urd:(nīlā), tam:நீலம் (nīlam)|
-|**nilon**|nailon (nilón)|eng:por:fra:nylon, spa:nilón, rus:нейло́н (nejlón), ara:نَايْلُون‎ (nāylūn), fas:نایلون‎ (nâylon), may:nilon, zho:尼龙 (nílóng), jpn:ナイロン (nairon)|
+|**nilon**|nailon (nilón)|eng:por:fra:nylon, spa:nilón, rus:нейлон (nejlon), ara:نَايْلُون‎ (nāylūn), fas:نایلون‎ (nâylon), may:nilon, swa:nailoni, zho:尼龙 (nílóng), jpn:ナイロン (nairon)|
 |**ninde**|insulto (ofensa, afrenta)|hin:mar:निन्द् (nind)|
 |**nix**|hornacina|fra:eng:niche, por:nicho, rus:ниша (niša)|
 |**no**|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
@@ -914,7 +914,6 @@
 |**nudi**|desnudo|eng:nude, spa:desnudo, por:fra:nu|
 |**numbe**|número|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**o**|o|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
-|**oaze**|oasis|eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|
 |**ofisia**|ministerio (departamento)|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|
 |**oke**|ojo|spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|
 |**okeyi**|bien (aceptable)|eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|
@@ -961,7 +960,7 @@
 |**pas**|pasado|eng:past, spa:pasado, por:passado, fra: passé|
 |**pasporte**|pasaporte|eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|
 |**paste**|pasta|eng:deu:paste, rus:паста (pasta), spa:por:pasta|
-|**patate**|papa|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|
+|**patate**|papa|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), swa:mbatata, eng:potato, tgl:patatas|
 |**patia**|enfermedad|deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|
 |**pau**|pistola (rifle)|zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)|
 |**pauze**|pausa|eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)|
@@ -992,7 +991,7 @@
 |**pipe**|tubo (caño)|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |**pipinga**|criticar (evaluar)|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
 |**pipre**|pimienta|eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|
-|**piram**|pirámide|eng:pyramid, + ara:(haram)|
+|**piram**|pirámide|eng:pyramid, fra:pyramide, spa:por:pirámide, rus:пирамида (piramida), hin:पिरमिड (pirmiḍ),अहराम (ahrām), ben:পিরামিড (piramiḍ), may:piramida, jpn:ピラミッド (piramiddo), kor:피라미드 (piramideu) + ara:(haram), swa:haram|
 |**pirater**|pirata|eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat)|
 |**piratia**|piratería|eng:piracy, spa:piratería, por:pirataria, fra:piraterie, deu:Piraterie, rus:пиратство (piratstvo), jpn:パイレーシ|
 |**pis**|pícea|spa:por:pícea, fra:Épicéa|
@@ -1015,8 +1014,7 @@
 |**porei**|puerro (cebolla larga)|spa:puerro, por:porro, fra:poireau, deu:Porree, fin:purjo, rus:порей (porey), may:perai|
 |**porne**|porno|eng:porn, spa:tur:may:porno, por:pornô, deu:Pornografie, rus:порно (porno), jpn:ポルノ (poruno)|
 |**porte**|porto|eng:port, fra:porte, spa:por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)|
-|**poste**|correo|eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), fas:پست‎ (post), may:pos|
-|**pote**|lodo (barro, fango)|ibo:potọ potọ, lin:pɔtɔpɔ́tɔ, kon:fra:poto-poto|
+|**poste**|correo|eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), swa:posta, may:pos|
 |**poze**|pose (postura)|eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|
 |**prate**|práctica|eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|
 |**prezidente**|presidente|eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden|
@@ -1279,10 +1277,10 @@
 |**vanil**|vainilla|eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|
 |**varis**|patrimonio (herencia, legado)|may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|
 |**varke**|hoja|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
+|**vas**|oasis|ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|
 |**vau**|guau (vaya)|zho:哇 (wā), eng:wow|
 |**vaxa**|lavar|eng:wash, deu:waschen, zho:洗 (xǐ)|
 |**vaxurse**|mapache|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
-|**vaze**|jarrón (bote)|deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|
 |**vei**|cola (rabo)|zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|
 |**venda**|vender|eng:vend, spa:por:vender, fra:vendre|
 |**ventur**|aventura|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
@@ -1325,7 +1323,7 @@
 |**xarme**|vergüenza (pena)|fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|
 |**xarnir**|bisagra (gozne)|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |**xarte**|condición (requisito, estipulación)|tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|
-|**Xatan**|Satanás|heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|
+|**Xatan (ruhxatan)**|Satanás|heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|
 |**xatranje**|ajedrez|hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|
 |**xavi**|poco (pocos)|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |**xaxu**|susurrar (curjir)|zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha|

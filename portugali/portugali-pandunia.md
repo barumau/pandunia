@@ -60,7 +60,7 @@ ar - air
 aranha - aran  
 arbusto (mata) - tali moke  
 arco - arke  
-argila - glutopote  
+argila - glutofan  
 argumento - argum  
 arma - arme  
 arma de fogo - pau  
@@ -144,12 +144,14 @@ bravo (valente, corajoso) - bravi
 bravo! - bravo  
 braço - handoxake  
 Buda - Bude  
+bule - caipote  
 buraco - kau  
 buscar (procurar) - soka  
 bétula - berje  
 ####C - C  
 cabeça - sar  
 cacto - katus  
+cafeteira - kafepote  
 café - kafekan  
 café - kafe\*  
 cal - kalsomate  
@@ -199,6 +201,7 @@ centáurea - centaur
 cerca - kenarbaryer  
 cereja - cerize  
 cerveja - bir  
+cerâmica - poteria  
 cerâmico - seram  
 cevada - jau  
 Champagne - Xampan  
@@ -511,6 +514,7 @@ jaguatirica (ocelote) - oselote
 jambolão (jambo) - jamul  
 janela - janel  
 Japão - Nipon  
+jarra (jarro) - jar  
 Javé (Jeová) - Yahve  
 jengibre - zinje  
 joelho - gute  
@@ -529,8 +533,8 @@ lado - late
 ladrilho (telha, azulejo) - tail  
 ladrão - luter  
 lago - lage  
+lama (lodo) - fan  
 lama - lama\*  
-lama - pote  
 lançador de foguetes - roketolancer  
 laranja - oranje  
 lasanha - lazanye  
@@ -692,7 +696,7 @@ núcleo (cerne) - kerne
 número - numbe  
 ####O - O  
 o que - ke  
-oasis - oaze  
+oasis - vas  
 objetivo - dike  
 oblíquo (torto) - terci  
 obsidiana - osidian  
@@ -701,6 +705,7 @@ ocular - oki
 ocultar (esconder) - sira  
 ocupado (atarefado) - mangi  
 oito (8) - bali  
+oleiro - poter  
 olho - oke  
 onda - onde  
 onde - ya ke  
@@ -737,6 +742,7 @@ papel - kaguje
 papel de parede - murkaguje  
 papoila - medenpapil  
 papoila-dormideira - sompapil  
+para-lama - fandefban  
 parque - parke  
 partida - mece  
 parâmetro - param  
@@ -782,6 +788,7 @@ pinheiro - song
 pintura - pente  
 piquenique - vaiyam  
 pirataria - piratia  
+pirâmida - piram  
 plano - plan  
 planta (vegetal) - fite  
 plástico - plasti  
@@ -821,6 +828,7 @@ purpúreo (roxo) - viyoleti
 purê de maçã - aplosaus  
 pá - bel  
 página - varkolate  
+pântano - fantopia  
 pão - pang  
 pícea (espruce) - pis  
 quadrinhos (banda desenhada) - grafsage  
@@ -899,7 +907,7 @@ samambaia - parne
 samba-canção - bokserpante  
 sanduíche - sanduice  
 sangue - sang  
-Satanás - Xatan  
+Satanás - Xatan (ruhxatan)  
 Saturno - Saturne  
 saudação - salame  
 saudável (saudio) - sihi  
@@ -966,7 +974,7 @@ teosofia - deusofia
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
-terracota - bekopote  
+terracota - bekofan  
 terraplanista - platogeviste  
 terreno - geuforme  
 terça-feira - dulyom  
@@ -1020,6 +1028,7 @@ valorar - vala
 vampiro - vampir  
 vapor - suigas  
 vara (bastão) - baton  
+vaso de flores - fulpote  
 vazar - lova  
 vegetalista - purfityamiste  
 vegetariano - fityamiste  

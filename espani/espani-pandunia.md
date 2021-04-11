@@ -66,8 +66,7 @@ adormidera (amapola real) - sompapil
 adulterio - zin  
 adulto - matur  
 adverbo - modologe  
-adversario (oponente) - faner  
-adversario - xatan  
+adversario (oponente) - xatan  
 aeroplano - viman  
 aeropuerto - airporte  
 afecto (emoción) - emos  
@@ -111,6 +110,8 @@ alemán - doici
 alfabeto - harfia  
 alfabeto cirílico - kirili harfia  
 alfabeto latino - latini harfia  
+alfarero - poter  
+alfarería - poteria  
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - taltex  
 alga - alge  
@@ -188,13 +189,13 @@ antartida - Antartike
 antena - anten  
 anterior (remoto) - pasi  
 antibalas - dansekuri  
-Anticristo - fankriste  
+Anticristo - ankriste  
 Antigua - Antigua  
 Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlandi Antil  
 antimonio - estibem  
 antorcha - fotobaton  
-antónimo - fannam  
+antónimo - annam  
 análisis (disección) - fenkate  
 análisis de datos - datofenkate  
 anón (ates, saramuyo) - ata\*  
@@ -213,7 +214,7 @@ arboreto - mokojongoparke
 arbusto (mata) - tali moke  
 archipiélago - nesia  
 archipiélago de Hawái - Havai nesia  
-arcilla (barro) - glutopote  
+arcilla (barro) - glutofan  
 arco - arke  
 arco iris - rangarke  
 ardiente (encendido) - hogi  
@@ -478,6 +479,7 @@ cada - mei
 cadena - silsil  
 cadmio - kadem  
 caer - padu  
+cafetera - kafepote  
 café (cafetería) - kafekan  
 café - kafe\*  
 cagar - xita  
@@ -676,7 +678,7 @@ Ciudad de México - Mexiko site
 ciudadano - dexojan  
 civilización - sivilia  
 civilizado - sivili  
-ciénaga (pantano) - pototopia  
+ciénaga (pantano) - fantopia  
 claro (luminoso) - foti  
 claro - klari  
 clarín (corneta) - buge  
@@ -798,7 +800,6 @@ contener - inda
 contenido - inite  
 continuar (reanudar) - reizoka  
 continuo (analógico) - zoki  
-contrario (opuesto) - fani  
 contraseña - sekurkode  
 contrato (tratado) - trate  
 contribuir - fendona  
@@ -1135,7 +1136,7 @@ embajada - dayanjilkan
 embajador - dayanjiler  
 embalar (llevar) - paka  
 embarazado (preñado) - hamili  
-embarrado (enlodado) - poti  
+embarrado (enlodado) - fani  
 embudo - dartube  
 emir - amirer  
 emirato - amiria  
@@ -1357,7 +1358,7 @@ flecha - flece
 flerovio - flerovem  
 flor - ful  
 florecer - fulu  
-florero - fulvaze  
+florero - fuljar  
 flotador (boya) - boi  
 fluir - daru  
 flúor - flurem  
@@ -1514,6 +1515,7 @@ Guadalupe - Guadelupe
 Guam - Guam  
 guapo (bien parecido) - bonvidi  
 guarda (preservador, conservador) - hafizer  
+guarda-barros (aleta) - fandefban  
 Guatemala - Guatemala  
 guau (vaya) - vau  
 Guernesey - Gernezi  
@@ -1773,7 +1775,7 @@ japonés - niponi
 Japón - Nipon  
 jarabe (sirope) - xirope  
 jarra - jar  
-jarrón (bote) - vaze  
+jarra - jar  
 Jartum - Hartum  
 jaula (caja) - batonkapse  
 jazmín - malike  
@@ -1938,7 +1940,7 @@ lo menos - minim (minimo)
 lo más - maxim (maximo)  
 lobo - volfe  
 local - loki  
-lodo (barro, fango) - pote  
+lodo (barro, fango) - fan  
 logical - logiki  
 longitud - vestodongia  
 loro (papagayo) - papagai  
@@ -1966,6 +1968,7 @@ lógica - logike
 ####M - M  
 Macao - Makau  
 Macedonia del Norte - Nordi Makedonia  
+maceta (plantera) - fulpote  
 macrial (militar) - jengi  
 macroalga - hayalge  
 Madagascar - Malagasia  
@@ -2341,7 +2344,7 @@ número de identificación personal - sekurnumbe
 número par - pari numbe  
 ####O - O  
 o - o  
-oasis - oaze  
+oasis - vas  
 objetivo - dike  
 objeto (artículo) - vute  
 oblicuo (torcido) - terci  
@@ -2380,8 +2383,7 @@ onda - onde
 opción - cuzable  
 opinar - raya  
 opinión - rai  
-oponer - xata  
-oponerse (resistir) - fana  
+oponerse (resistir) - xata  
 oportunidad (chance) - canse  
 oración - jumle  
 orden (mando, comando) - amir  
@@ -3005,9 +3007,9 @@ saquear (desvalijar, robar) - luta
 sartén - tau  
 satanismo - xatanistia  
 satanista - xataniste  
-Satanás - Xatan  
+Satanás - Xatan (ruhxatan)  
 Saturno - Saturne  
-satánico - xatani  
+satánico - Xatani  
 sauna - sauna\*  
 se - se  
 seaborgio - siborgem  
@@ -3242,7 +3244,7 @@ tera- - tera\*
 terbio - terbem  
 terminar (acabar) - fina  
 termómetro - termometrer  
-terracota - bekopote  
+terracota - bekofan  
 terraplanista - platogeviste  
 terremoto - geusisme  
 terreno (solar) - geutike  
@@ -3253,6 +3255,7 @@ terrorista - teroriste
 tesis - tes  
 tesla (T) - tesle  
 tesoro - bau  
+tetera - caipote  
 teísmo - devistia  
 teísta - deviste  
 tiburón - xarke  

@@ -80,11 +80,11 @@ ansomia - sendormeco
 an:a - igi (farigi)  
 ande - ovo  
 Andes - Andoj  
+angar - ankro  
 angul - fingro  
 angulring - ringo  
 anim - kartuno  
 anjil - mesaĝo  
-angar - ankro  
 anten - anteno  
 anus - anuso  
 anusi - anusa  
@@ -278,6 +278,7 @@ buze - kapro
 ####C - C  
 cabe - ŝlosilo  
 cai - teo  
+caipote - teujo  
 cake - tranĉilo  
 cakre - rado  
 camace - kulero  
@@ -489,7 +490,9 @@ faidia - utileco
 faini - fajna  
 famil - familio  
 familnam - familinomo  
-fani - kotraŭa  
+fan - koto  
+fani - kota  
+fantopia - marĉo  
 fantaza - fantaci  
 fantaze - fantazio  
 fantazi - fantazia  
@@ -575,8 +578,9 @@ fuka - vestigi
 fuke - vesto  
 fuku - vesti (surporti)  
 ful - floro  
+fuljar - vazo  
 fulmosim - printempo  
-fulvaze - vazo (florpoto)  
+fulpote - florpoto  
 fun - polvo  
 funcu - funkcii  
 fung - fungo  
@@ -815,6 +819,7 @@ janel - fenestro
 janelfrem - fenestrokadro  
 janger - metiisto  
 jangle - arbaro  
+jar - kruĉo  
 jau - hordeo  
 javaba - respondi  
 javabe - respondo  
@@ -863,6 +868,7 @@ kadem - kadmio
 kafe\* - kafo  
 kafekan - kafejo  
 kafekupe - kaftaso  
+kafepote - kafeujo  
 kaguje - papero  
 kaya - malfermi  
 kayi - malferma  
@@ -1268,7 +1274,6 @@ numbe - nombro
 nuton - newtono (N)  
 ####O - O  
 o - aŭ  
-oaze - oazo  
 Oceania - Oceanio  
 oganeson - oganesono  
 oka - okulumi  
@@ -1381,8 +1386,6 @@ Portorikia - Portoriko
 pospor - fosforo  
 postokan - poŝtejo  
 postomarke - poŝtmarko  
-pote - koto  
-poti - kota  
 prezidente - prezidento  
 prizona - malliberigi  
 prizonkan - malliberejo  
@@ -1666,6 +1669,7 @@ tunel - tunelo
 tuneltren - metroo  
 tunike - robo  
 tupe - ĉapelo  
+turfe - torfo  
 Turkia - Turkio  
 ####U - U  
 va - al (ĝis, por)  
@@ -1684,11 +1688,11 @@ van - amuzo
 vana - amuzi  
 vani - amuza  
 varkolate - paĝo  
+vas - oazo  
 vate - vato  
 vau - ŭaŭ!  
 vaxa - lavi  
 vaxmaxin - lavmaŝino  
-vaze - vazo  
 vei - vosto  
 ventur - aventuro  
 venturer - aventuristo  
@@ -1735,7 +1739,7 @@ xanti - trankvila (serena)
 xarme - honto  
 xarnir - ĉarniro (pivoto)  
 xarte - kondiĉo (postulo)  
-Xatan - diablo (Satano)  
+Xatan (ruhxatan) - diablo (Satano)  
 xatranje - ŝako  
 xavi - malmulte  
 xef - estro (ĉefulo)  

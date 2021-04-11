@@ -129,8 +129,10 @@ an.jam:i|anjami||||sparse (scattered)||escaso (disperso, ralo)|||||疎ら|||||||
 an.kai:a|ankaya||||close (shut)||||||||||||||||sulkea (panna kiinni)|zamknąć (zamykać)
 an.kai:i|ankayi||||closed||||||||||||||||suljettu|zamknięty
 an.kod:a|ankoda||||decode (decrypt)||||||||||||||||purkaa koodi (dekoodata)|
+an.krist:e|ankriste||||antichrist||Anticristo||||||||||||||antikristus|antychryst
 an.limit:ia|anlimitia||||infinity||||||||||||||||äärettömyys (rajattomuus)|nieskończoność
 an.mem:a|anmema||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ|忘记|忘れる|잊다|quên|भूलना|ভুলে যাওয়া|lupa|kusahau|unutmak|forgesi|unohtaa|zapominać (zapomnieć)
+an.nam:|annam||||antonym|antonyme|antónimo||антоним||||||||antonim||antonim||vastakohta (antonyymi)|antonim
 an.pac:e|anpace||||unrest|||||||||||||||malpaco|levottomuus (konflikti)|niepokój
 an.romans:i|anromansi||||aromantic||arromántico|||||||||||||||aromantyczny
 an.sav:i|ansavi||||strange (unknown)||||||||||अनजाना|||||fremda (nekonata)|vieras (tuntematon)|dziwny (nieznany)
@@ -145,6 +147,7 @@ and:e|ande|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(
 Andes:|Andes||||Andes|Andes|Andes|||||||||||||Andoj|Andit|Andy
 andes.it:e|andesite|||spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|andesite|andésite|andesita|andesito|андезит||安山岩|安山岩||||||||||andezyt
 Andora:|Andora|dex|AD||Andorra|Andorre|Andorra||||||||||||||Andorra|Andora
+angar:|angar|||eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga|anchor|ancre|ancla|âncora|якорь||锚||||लंगर||jangkar||çıpa|ankro|ankkuri|kotwica
 Angola:|Angola|dex|AO||Angola|Angola|Angola||||||||||||||Angola|Angola
 angul:|angul|||hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|finger (toe)||dedo|dedo|палец||手指|指|||उंगली (अंगुलि)|আঙুল|jari|kidole|parmak|fingro|sormi tai varvas|palec
 angul.mark:e|angulmarke||||fingerprint|empreinte digitale|huella digital|impressão digital|отпечаток пальца||指纹 (指印)|指紋|지문||||||parmak izi||sormenjälki|
@@ -154,7 +157,6 @@ anim:|anim|||eng:fra:animation, spa:animación, por:animação, rus:анимац
 anim:a|anima||||animate|animer|animar||||||||||||||animoida|animować
 anjil:|anjil|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|message|message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość
 anjil.er:|anjiler||||messenger|messager|mensajero||||||||||||||viestintuoja (airut)|posłaniec (wysłannik)
-angar:|angar|||eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga|anchor|ancre|ancla|âncora|якорь||锚||||लंगर||jangkar||çıpa|ankro|ankkuri|kotwica
 Antartik:e|Antartike|dex|AQ||Antarctica|Antarctique|antartida||||||||||||||Antarktis|Antarktyka
 Antartik:i Hai:|Antartiki Hai||||Antarctic Ocean|Océan Antarctique|océano Antártico||||||||||||||Eteläinen Jäämeri|Ocean Antarktyczny (Ocean Południowy)
 anten:|anten|||eng:antenna, spa:por:may:antena, fra:antenne, rus:антенна (antenna), tur:anten, jpn:アンテナ (antena)|antenna (aerial)|antenne|antena||антенна||天线|||||||||anteno|antenni|antena
@@ -357,8 +359,8 @@ bei:u|beyu|||zho:被 (bèi)|undergo (passivizing verb)||sufrir (verbo pasivo)|||
 Beijing:|Beijing||||Beijing (Peking)||Pekín||||||||||||||Peking (Beijing)|Pekin
 bek:a|beka|||eng:bake, hin:पकाना (pakānā), rus:печь (peč), deu:backen|bake||hornear (cocer)|||||||||||||baki|leipoa|piec
 bek.er:|beker||||baker|boulanger|panadero|padeiro|хлебопёк (пекарь)|||||||||||bakisto|leipuri|piekarz
+bek.o.fan:|bekofan||||terracotta|terre cuite|terracota|terracota|терракота||陶瓦|テラコッタ||||||||||terakota
 bek.o.kan:|bekokan||||bakery (bakehouse)||panadería||пекарня (булочная)|||パン屋 (ベーカリー)||||||||bakejo|leipomo|piekarnia
-bek.o.pot:e|bekopote||||terracotta|terre cuite|terracota|terracota|терракота||陶瓦|テラコッタ||||||||||terakota
 bel:|bel|unomete|B||bel (unit)||belio||||||||||||||beli (B)|bel
 bel:|bel|||fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), fra:pelle|shovel (spade, scoop)|pelle|pala|pá|лопата||铲|シャベル (スコップ)|||||||||lapio|łopata (szpadel)
 Belarus:|Belarus|dex|BY||Belarus||Belarús|||||||||||||Belorusio|Valkovenäjä|Białoruś
@@ -487,6 +489,7 @@ Cad:ia|Cadia|dex|TD||Chad||Chad||||||||||||||Tšad|Czad
 cai:|cai|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
 cai.kan:|caikan||||tea house||salón de té||чайная (чайхана)||茶馆|茶店 (茶館)||quán trà|चायख़ाना||||çayhane||teehuone (kahvila)|herbaciarnia
 cai.kup:e|caikupe||||tea cup|tasse à thé|taza de té|chavena (tigela de chá)|чайная чашка||茶碗|茶碗|||||cawan||||teekuppi|kubek do herbaty
+cai.pot:e|caipote||||teapot|théière|tetera|bule|чайник|إِبْرِيق الشَّاي‎|茶壶|急須|찻주전자|ấm trà|चायदानी||teko (poci teh)||çaydanlık|teujo|teepannu|imbryk (czajnik)
 cak:e|cake|||hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|knife||cuchillo|||||||||||||tranĉilo|veitsi (puukko)|nóż
 cakr:e|cakre|||hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram|wheel|roue|rueda (volante)|roda|колесо|عجلة‎|轮子|車輪|바퀴 (차륜)|bánh xe|चक्र|চাকা|roda (setir, cakera)|gurudumu|tekerlek (çark)|rado|ratas|koło
 camac:e|camace|||fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|spoon|cuiller|cuchara|colher|ложка||匙子|スプーン|숟가락 (스푼)||चम्मच|চামচ||||kulero|lusikka|łyżka
@@ -898,11 +901,10 @@ fals:i|falsi|||eng:false, spa:por:falso, fra:faux, deu:falsch|false (fake)||fals
 fals.uid:e|falsvide||||illusion (hallucination)||ilusión|||||幻覚|||||||||harhanäky (näköharha)|iluzja (halucynacja)
 famil:|famil|||eng:family, spa:familia, por:família, fra:famille|family||familia|||||||||||||familio|perhe|rodzina
 famil.nam:|familnam||||surname (family name)||apellido|||||||||||||familinomo|sukunimi|nazwisko, imię rodziny
-fan:a|fana||||oppose (resist)||oponerse (resistir)||||||||||||||vastustaa|sprzeciwiać się (opierać się)
-fan:i|fani|||zho:反 (fǎn), yue反 (faan3), vie:phản, jpn:反 (han-), kor:반 (ban-)|opposite (anti-)||contrario (opuesto)|||||||||||||kotraŭa|vasta- (anti-)|przeciwstawny (naprzeciw, naprzeciwko, anty-)
-fan.er:|faner||||opponent (antagonist)|opposant (antagoniste)|adversario (oponente)||||||||||||||vastustaja|przeciwnik (antagonista)
-fan.krist:e|fankriste||||antichrist||Anticristo||||||||||||||antikristus|antychryst
-fan.nam:|fannam|||eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|antonym||antónimo||||||||||||||vastakohta (antonyymi)|antonim
+fan:|fan|||fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|mud (mire)|boue (fange, bourbe, gadoue)|lodo (barro, fango)|lama (lodo)|болото|طِين‎|坭|泥|||कीचड़|কাদা|lumpur|tope|çamur|koto|muta (kura, lieju)|błoto
+fan:i|fani||||muddy||embarrado (enlodado)|||||||||||||kota|kurainen (mutainen)|błotnisty
+fan.def.ban:|fandefban||||fender|garde-boue (aile)|guarda-barros (aleta)|para-lama|||挡泥板|フェンダー|||||||||lokasuoja|błotnik
+fan.top:ia|fantopia||||marsh (bog, swamp, morass)|marécage (marais)|ciénaga (pantano)|pântano|болото (топь)||沼泽|沼地|늪||||paya (rawa)|bwawa|bataklık|marĉo|suo (räme)|bagno (moczary)
 fantaz:a|fantaza||||imagine (fantasize)||imaginar (fantasear)|||||||||||||fantaci|kuvitella|wyobrazić, wyobrażać, fantazjować
 fantaz:e|fantaze|||eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фантазия (fantazija), tur:fantezi, may:fantasi, jpn:ファンタジー (fantajī)|fantasy (imagination)||imaginación (fantasía)|||||||||||||fantazio|mielikuvitus (fantasia)|fantazja (wyobrażenie, wyobraźnia)
 fantaz:i|fantazi||||fantastic (imaginary)||imaginario (fantástico)|||||||||||||fantazia|mielikuvituksekas (fantastinen)|fantastyczny, fantazyjny
@@ -1037,9 +1039,10 @@ fuk:e|fuke|||zho:服 (fú), yue:服 (fuk6), jpn:服 (fuku), kor:의복 (uibok), 
 fuk:i|fuki||||clothed (dressed)||vestido (llevando ropa)||оде́тый|||||||||||||
 fuk:u|fuku||||wear (dress, put on)|porter (s’habiller)|llevar (verstirse)|trajar (vestir-se)|носить (одеваться)||穿|着る|입다|mặc|पहनना||pakai|kuvaa||vesti (surporti)|pukeutua (pitää vaatetta yllään)|nosić ubrania
 ful:|ful|||hau:fure, ibo:ifulu, lin:folele, hin:फूल (phul), ben:ফুল (phul), fra:fleur, por:spa:flor, eng:flower|flower|fleur|flor|flor|цветок|زَهْرَة|花|花|꽃 (화)|hoa|फूल (पुष्प)|ফুল|bunga|ua||floro|kukka|kwiat
+ful:jar:|fuljar||||flower vase||florero||||花瓶|||lọ hoa|गुलदान (फूलदान)|||||vazo|kukkamaljakko|
 ful:u|fulu||||blossom (bloom)||florecer||||||||||||||kukkia|kwitnąć, rozkwitnąć, rozkwitać
 ful.mosim:|fulmosim|mosim|||spring (springtime)||primavera||весна|||春|||||musim bunga|||printempo|kevät|wiosna
-ful.uaz:e|fulvaze||||vase (flower pot)||florero|||||||||||||vazo (florpoto)|kukkaruukku|wazon; donica, doniczka
+ful.pot:e|fulpote||||flowerpot|pot de fleur|maceta (plantera)|vaso de flores|цвето́чный горшок||花盆|植木鉢|화분|chậu hoa||||||florpoto|kukkaruukku|
 fun:|fun|||zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|dust (powder)||polvo|||||||||||||polvo|pöly (tomu)|pył
 fun.cup.er:|funcuper|||zho:吸尘器 (xīchénqì), deu:Staubsauger|vacuum cleaner||aspiradora||||||||||||||pölynimuri|odkurzacz
 func:u|funcu|||eng:function, spa:por:funcionar, fra:fonctionner, rus:функциони́ровать (funkcionirovat’), may:berfungsi|function (work)||funcionar|||||||||||||funkcii|toiminta (funktio)|funkcja, stanowisko
@@ -1168,8 +1171,8 @@ glut:e|glute|||eng:glue, swa:gluu, + fra:glutineux|glue (adhesive)||pegamento (p
 glut:i|gluti||||sticky (ahesive)|adhésif (collant)|pegajoso (adhesivo)|pegajoso (adesivo)|клейкий (липкий)||黏的|粘い|||||||||tahmainen (liimamainen)|lepki (kleisty)
 glut.en:|gluten|||eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)|gluten||gluten|||||||||||||gluteno|gluteeni|gluten
 glut.o.bend:e|glutobende||||adhesive bandage (band-aid, sticking plaster)|pansement (sparadrap)|curita (apósito)|penso (band-aid)|пластырь||创可贴 (邦迪)|絆創膏|반창고||||||||laastari|
+glut.o.fan:|glutofan||||clay|argile|arcilla (barro)|argila|глина||黏土|粘土|||||||||savi|glina
 glut.o.graf:|glutograf||||sticker|autocollant|adhesivo|adesivo|наклейка||贴纸|ステッカー||||||||glumarko|tarra|
-glut.o.pot:e|glutopote||||clay|argile|arcilla (barro)|argila|глина||黏土|粘土|||||||||savi|glina
 gol:|gol|||por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|goal (destination)|but (destination)|meta (gol, destinación)|meta (gol)|цель||目的|目的 (行き先, ゴール)|||लक्ष्य (गोल)||||amaç (hedef, gol)|golo|maali (pelissä)|cel
 gol:a|gola||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 golem:|golem|||heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)|golem||||||||||||||||golem|golem
@@ -1521,6 +1524,7 @@ jang:i|jangi||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, 
 jang.er:|janger|||zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||artesano||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
 jangl:e|jangle|||eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|forest (woods, jungle)|forêt (jungle)|bosque (jungla, selva)|selva (floresta, jângal)|лес (джунгли)||森林|森 (森林, ジャングル)|숲 (삼림 , 정글)|rừng|जंगल (वन)|বন (জঙ্গল)|hutan (jenggela)|msitu|orman (cengel)|arbaro|metsä (viidakko)|las, dżungla, zagajnik
 jar:|jar|||eng:jar, ara:(jara), por:spa:jarra|jug (jar, pitcher)||jarra||||||||||||||kannu (karahvi)|dzban, dzbanek; słój, słoik
+jar:|jar|||ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|jar (jug, pitcher, carafe, amphora, vase)|jarre (carafe, cruche)|jarra|jarra (jarro)|кувшин (графин)|جَرَّة‎ (زِير‎)|罐 (瓶)|||lọ (bình)||||||kruĉo|ruukku (kannu, maljakko, karahvi)|wazon
 jau:|jau|biu|Hordeum vulgare|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|barley|orge|cebada|cevada|ячмень||大麦|大麦|보리|lúa mạch|जौ|যব|barli|shayiri|arpa|hordeo|ohra|jęczmień
 jauab:a|javaba||||respond (give an answer)||responder (contestar)|||||||||||||respondi|vastata|odpowiedzieć, odpowiadać
 jauab:e|javabe|||ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|answer (reply, response)|réponse|repuesta (contestación)|resposta|ответ|جَوَاب‎|回答|答え (回答)|대답 (회답)|trả lời|जवाब (उत्तर)|উত্তর|jawab|jibu|cevap|respondo|vastaus|odpowiedź, odzew
@@ -1618,6 +1622,7 @@ kad.em:|kadem|mate|Cd||cadmium||cadmio|||||||||||||kadmio|kadmium|kadm
 kafe:|kafe*|||deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|coffee|café|café|café|кофе|قَهْوَة|咖啡|コーヒー|||काफ़ी (क़हवा)||kopi|kahawa|kahve|kafo|kahvi|kawa
 kafe.kan:|kafekan||||cafe (coffee shop)|café|café (cafetería)|café|кафе (кофейня)||咖啡馆|カフェ (コーヒー店)|카페 (커피점)|quán cà phê|कॉफ़ीख़ाना (कैफ़े)|হোটেল (ক্যাফে)|kedai kopi|mkahawa|kahvehane|kafejo|kahvila|kawiarnia
 kafe.kup:e|kafekupe||||coffee cup||taza de café|||||||||||||kaftaso|kahvikuppi|filiżanka do kawy
+kafe.pot:e|kafepote||||coffeepot|cafetière|cafetera|cafeteira|кофейник||咖啡壶|コーヒーポット|커피포트|||||||kafeujo|kahvipannu|imbryk do kawy
 kafir:|kafir|||ara:(kāfir), fas:(kāfer), tur:fra:kâfir, yor:kaferi, swa:kafiri, may:kafir, rus:кафир (kafir), hin:काफ़िर (kāfir)|infidel (pagan, heathen, unbeliever)||pagano (infiel)||||||||||||||pakana|niewierny (poganin, niewierzący)
 kaguj:e|kaguje|||zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|paper (material)|papier|papel|papel|бумага|وَرَق|纸|紙|종이|giấy|काग़ज़|কাগজ|kertas|karatasi|kâğıt|papero|paperi|papier
 kaguj.o.limon:|kagujolimon|biu|Citrus × aurantiifolia||key lime|lime (citron vert)|limero|lima|лайм||墨西哥萊檬|メキシカンライム (マナオ)|||कागजी नींबू||limau nipis|mndimu||||lima (limonka)
@@ -2135,8 +2140,6 @@ mag:ia|magia|||eng:magic, spa:por:magia, fra:magie, rus:ма́гия (mágija), 
 mag.asar:|magasar||||spell (enchantment)|||||||||||||||||zaklecie
 mag.er:|mager||||magician (sorcerer)||mago||||||||||||||taikuri|magik, czarownik
 mages.em:|magesem|mate|Mg||magnesium|magnésium|magnesio|magnésio|магний||镁|マグネシウム|마그네슘|magiê|भ्राजातु|ম্যাগনেসিয়াম|magnesium|magnesi|magnezyum|magnezio|magnesium|magnez
-mante:e|manete|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet||imán|||||||||||sumaku|||magneetti|magnes
-manet:i|maneti||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 Magiar:ia|Magyaria|dex|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 Magrib:ia|Magribia|dex|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
 maian:|mayan||||Maya||maya|||||||||||||majao|maya (mayaintiaani)|Maya
@@ -2170,6 +2173,8 @@ mamal:|mamal|biu|Mammalia|eng:mammal, spa:por:mamífero, fra:mammifère, tur:mem
 man:|man|||eng:man, deu:Mann, hin:मानुस (mānus), ben:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), mar:माणूस (māṇūs), tam:மனிதன் (maṉitaṉ) + zho:男 (nán), jpn:男 (nan)|male||masculino (macho)|||||男||||||||viro|uros (mies)|męski
 man:i put:e|mani pute||||son||hijo||||||||||||||poika|syn
 man:i raj.er:|mani rajer||||king||rey|||||王様|||||||||kuningas|król
+manet:e|manete|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet||imán|||||||||||sumaku|||magneetti|magnes
+manet:i|maneti||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 mang:i|mangi|||zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|busy (occupied)|occupé|ocupado (atareado)|ocupado (atarefado)|занятый||忙|忙しい|||व्यस्त||ramai (sibuk)|kushugulika|işlek|okupata|kiireinen|zajęty
 mangan:|mangan|mate|Mn||manganese||manganeso|||||||||||||mangano|mangaani|mangan
 mango:|mango*|biu||mal:മാങ്ങ (māṅṅa), eng:spa:tur:mango, por:manga, rus:манго (mango), may:mangga, jpn:マンゴー (mangō), kor:망고 (manggo)|mango||mango||||||||||||||mango|mango
@@ -2438,7 +2443,7 @@ nagr:e|nagre|||hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరమ�
 nagr:i|nagri||||urban||urbano|||||||||||||urba|urbaani (kaupunkilais-)|miejski
 nahun:|nahun|||fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)|nail (fingernail)||uña||||||||||||||kynsi|paznokieć
 Naijir:ia|Naijiria|dex|NG||Nigeria||Nigeria|||||||||||||Niĝerio|Nigeria|Nigeria
-najis:|najis|||ara:نجس (najis), fas:نجس (najes), may:najis + eng:najis, rus:наджа́са (nadžása), tur:necis|corruption (filth, pollution, contamination, najis)|pollution|contaminación (corrupción, porquería, suciedad)|poluição|грязь (скверна)||污染物|汚れ (汚染)|||गंदगी (संदूषक, विकृति, दोष)||najis (pencemaran, polusi)|uchafu||||
+najis:|najis|||ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|corruption (filth, pollution, contamination, najis)|pollution|contaminación (corrupción, porquería, suciedad)|poluição|грязь (скверна)||污染物|汚れ (汚染)|||गंदगी (संदूषक, विकृति, दोष)||najis (pencemaran, polusi)|uchafu||||
 najis:a|najisa||||corrupt (pollute, soil, defile, stain, taint)||corromper (contaminar)||||污染|汚す||||||-chafua||||
 najis:i|najisi||||dirty (soiled, polluted, defiled, tainted, unclean, impure)||sucio (corrompido)|||||汚い|||प्रदूषित|||-chafu||||
 najis.bind:e|najisbinde||||stain (spot)||mancha|||||染み (汚点)||||||||||
@@ -2456,7 +2461,7 @@ nard:e|narde|||fas:urd: نرد‎ (nard), rus:нарды (nardy)|backgammon|back
 nas:|nas||||people (folk)||gente||||||||||||||kansa|ludzie (lud, ludność)
 nas:i|nasi||||national||nacional||||||||||||||kansallinen|narodowy (ludowy)
 nas:i sos.ist:ia|nasi sosistia||||national socialism||socialismo nacional||||||||||||||kansallissosialismi|narodowy socjalizm
-nas:ia|nasia|||ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|nation|nation|nación|nação|нация||||||||||||kansakunta|naród, narodowość
+nas:ia|nasia|||ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|nation|nation|nación|nação|нация||||||||||||kansakunta|naród, narodowość
 nas.ist:e|nasiste||||nationalist||nacionalista||||||||||||||nationalisti|nacjonalista
 nas.ist:ia|nasistia||||nationalism||nacionalismo||||||||||||||kansallisuusaate (nationalismi)|nacjonalizm
 nas.med:i|nasmedi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
@@ -2513,7 +2518,7 @@ nikel:|nikel|mate|Ni||nickel||níquel|||||||||||||nikelo|nikkeli|nikiel
 nil:i|nili|rang||ben:নীল (nīl), hin:नीला (nīlā), urd:(nīlā), tam:நீலம் (nīlam)|blue|bleu|azul|azur|синий (голубой)|أَزْرَق|蓝色|青い|||नीला|নীল||biru|buluu|blua|sininen|niebieski
 nil.centaur:|nilcentaur|biu|Centaurea cyanus||cornflower|Centaurée bleuet|aciano (azulejo)|escovinha (centáurea)|василёк синий||矢車菊|ヤグルマギク||||||||||bławatek
 nil.seram.xing:|nilseramxing|biu|Houstonia caerulea||azure bluet||||||茜草花|ヒナソウ||||||||||houstoia azurowa
-nilon:|nilon|||eng:por:fra:nylon, spa:nilón, rus:нейло́н (nejlón), ara:نَايْلُون‎ (nāylūn), fas:نایلون‎ (nâylon), may:nilon, zho:尼龙 (nílóng), jpn:ナイロン (nairon)|nylon||nailon (nilón)|||||||||||||nilono|nailon|nylon
+nilon:|nilon|||eng:por:fra:nylon, spa:nilón, rus:нейлон (nejlon), ara:نَايْلُون‎ (nāylūn), fas:نایلون‎ (nâylon), may:nilon, swa:nailoni, zho:尼龙 (nílóng), jpn:ナイロン (nairon)|nylon|nylon|nailon (nilón)||нейлон||尼龙|ナイロン|||||nilon|nailoni||nilono|nailon|nylon
 nind:e|ninde|||hin:mar:निन्द् (nind)|insult (offence)||insulto (ofensa, afrenta)|||||||||||||insulto|loukkaus (törkeys)|obraza, obelga
 nind:i|nindi||||rude (offensive)||grosero (maleducado)||||||||||||||törkeä|obraźliwy, niemiły, obelżywy
 niob.em:|niobem|mate|Nb||niobium||niobio|||||||||||||niobo|niobium|niob
@@ -2577,7 +2582,6 @@ numb:e|numbe|||eng:number, fra:nombre, spa:por:número, rus:номер (nomer), 
 nuton:|nuton|unomete|N||newton (N)||newton (N)|||||||||||||newtono (N)|newton (N)|niuton (N)
 O|O||||O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O
 o:|o|funce||eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
-oaz:e|oaze|||eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, pol:oaza, jpn:オアシス (oashisu), kor:오아시스 (oasiseu) + ara:(wāḥa), tur:vaha, fas:(vāhe)|oasis||oasis|oasis|oasis|oásis|оазис|||オアシス|오아시스 (천지)|||||oazo|keidas|oaza
 Oberon:|Oberon|planete 7 lun 5|||Oberon|||||||||||||||||
 Ocean:ia|Oceania||||Oceania||Oceanía|||||||||||||Oceanio|Oseania|Oceania
 od:e|ode|||eng:order, fra:ordre, spa:orden, por:ordem, swa:oda + zho:第 (dì), vie:đệ, khm:ទី (dī)|rank (position in an ordered list)|rang|||ранг||||||||||||sija (paikka järjestyksessä)|
@@ -2724,7 +2728,7 @@ pat.o.jen.er:|patojener||||pathogen|agent pathogène|patógeno|patógeno|пат�
 pat.o.loj:ia|patolojia||||pathology|pathologie|patología|patologia|патология||病理学||||विकृतिविज्ञान||patologi||patoloji|patologio|patologia (tautioppi)|patologia
 pat.o.mis:|patomis||||infection (infestation, contagion)|infection (contagion)|infección (contagio)|infecção (contágio)|инфекция (заразная болезнь)||传染|伝染|감염||||||enfeksiyon|infekto|infektio (tartunta)|infekcja (zakażenie)
 pat.o.mis:a|patomisa||||infect|infecter|infectar (contagiar)|infectar (contagiar)||||||||||||||
-patat:e|patate|biu||fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|potato||papa|||||||||||||terpomo|peruna (potaatti)|ziemniak
+patat:e|patate|biu||fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), swa:mbatata, eng:potato, tgl:patatas|potato||papa|||||||||||||terpomo|peruna (potaatti)|ziemniak
 pau:|pau|||zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)|gun (firearm)|pistolet|pistola (rifle)|arma de fogo|пистолет||手枪|銃|총|súng lục (súng sáu)|बंदूक़ (पिस्तौल)|বন্দুক|pistol|bunduki|tabanca|fusilo|pyssy|pistolet, strzelba, ręczna broń palna
 pau:a|pava||||shoot (fire)||disparar||стрелять|||撃つ||||||||||strzelać (strzelić)
 paund:e|paunde||||pound (£)||libra (£)||||||||||||||punta|funt (£)
@@ -2788,7 +2792,7 @@ piping:a|pipinga|||zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
 piping.er:|pipinger||||critic||crítico||||||||||||||arvostelija (kriitikko)|krytyk
 pipr:e|pipre|biu||eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|pepper (peppercorn)|poivre|pimienta|pimenta|перец||胡椒||||गोलमिर्च||lada hitam (merica)|||pipro|pippuri|pieprz
 pipr.o.mint:e|piprominte|biu|Mentha × piperita||peppermint|menthe poivrée|piperita|hortelã-pimenta|мята перечная||辣薄荷|ペパーミント|||पिपरमिंट||daun pudina|||||mięta pieprzowa
-piram:|piram|||eng:pyramid, + ara:(haram)|pyramid||pirámide|||||||||||||piramido|pyramidi|piramida
+piram:|piram|||eng:pyramid, fra:pyramide, spa:por:pirámide, rus:пирамида (piramida), hin:पिरमिड (pirmiḍ),अहराम (ahrām), ben:পিরামিড (piramiḍ), may:piramida, jpn:ピラミッド (piramiddo), kor:피라미드 (piramideu) + ara:(haram), swa:haram|pyramid|pyramide|pirámide|pirâmida|пирамида||金字塔|ピラミッド (金字塔)|피라미드 (금자탑)|kim tự tháp|पिरमिड (अहराम)|পিরামিড|piramida|haram||piramido|pyramidi|piramida
 pirat:ia|piratia|||eng:piracy, spa:piratería, por:pirataria, fra:piraterie, deu:Piraterie, rus:пиратство (piratstvo), jpn:パイレーシ|piracy|piraterie|piratería|pirataria|||||||||||||merirosvous|piractwo
 pirat.er:|pirater|||eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat)|pirate (sea robber)||pirata||||||||||||||merirosvo (piraatti)|pirat
 pirat.ist:e|piratiste||||pirate (one who disobeys intellectual property laws)||partidario de infracción de copyright||||||||||||||piraatti (joka ei kunnioita tekijänoikeuksia)|pirat (osoba naruszająca prawa własności intelektualnej)
@@ -2861,14 +2865,14 @@ Portorik:ia|Portorikia|dex|PR||Puerto Rico|Porto Rico|Puerto Rico|Porto Rico|П�
 Portugal:|Portugal|dex|PT||Portugal||Portugal||||||||||||||Portugali|Portugalia
 portugal.fon:i|portugalfoni||||lusophone (Portuguese speaking)||||||||||||||||portugalia puhuva|
 pospor:|pospor|mate|P||phosphorus||fósforo|||||||||||||fosforo|fosfor|fosfor
-post:a|posta||||mail (send by mail)||eviar por correo||||||||||||||postittaa|nadać, wysłać pocztą
-post:e|poste|||eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), fas:پست‎ (post), may:pos|mail||correo||||||||||||||posti (postilähetys)|poczta
+post:a|posta||||mail (send by mail)||eviar por correo|||||||||||kuposti|||postittaa|nadać, wysłać pocztą
+post:e|poste|||eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), swa:posta, may:pos|mail||correo||||||||||pos|posta|||posti (postilähetys)|poczta
 post.o.cap:e|postocape||||postal stamp||sello postal||||||||||||||postileima|znaczek pocztowy
 post.o.kan:|postokan||||post office||oficina de correos|||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
 post.o.mark:e|postomarke||||postmark (postage stamp)|cachet de la poste|matasellos|carimbo|почтовый штемпель|||||||||||poŝtmarko|postileima|
-pot:e|pote|||ibo:potọ potọ, lin:pɔtɔpɔ́tɔ, kon:fra:poto-poto|mud (mire)|boue (fange, bourbe, gadoue)|lodo (barro, fango)|lama|болото||坭|泥|||कीचड़||lumpur||çamur|koto|muta (kura, lieju)|błoto
-pot:i|poti||||muddy||embarrado (enlodado)|||||||||||||kota|kurainen (mutainen)|błotnisty
-pot.o.top:ia|pototopia||||marsh (bog, swamp, morass)||ciénaga (pantano)||||||||||||||suo (räme)|bagno
+pot:e|pote|||eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu)|pot (vase, bin, jar)|pot (vase)|||||||||||||||pata|
+pot.er:|poter||||potter|potier|alfarero|oleiro|гончар|خَزَّاف‎|陶瓷工|陶工|도공||कुम्हार ||||||savenvalaja|
+pot.er:ia|poteria||||pottery|poterie|alfarería|cerâmica|гончарное дело||陶器制造|陶芸|||||||ufinyanzi||keramiikka|
 poz:a|poza||||pose (set, plant)|planter|hacer posar (plantar)|||||植える|||||||||panna (asettaa)|pozować, ustawiać się
 poz:e|poze|||eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|pose (position)||pose (postura)||||||||||||||asetelma|poza, pozycja
 prased.em:|prasedem|mate|Pr||praseodymium||praseodimio||||||||||||||praseodyymi|prazeodym
@@ -3535,6 +3539,7 @@ tup:e|tupe|||may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), t
 turb:a|turba|||eng:disturb, fra:perturber, spa:por:perturbar|bother (annoy, disturb, irritate)|gêner (déranger, perturber)|molestar (perturber)|molestar (perturber)|утруждать||||||||||||häiritä (vaivata)|przeszkodzić, przeszkadzać, robić kłopot
 turb:e|turbe||||trouble (disturbance, bother, annoyance)||problema (disturio)||||||||||||||häiriö (vaiva)|problem, kłopot, zakłócenie
 turb:u|turbu||||be bothered by (bother to, take the trouble to)||molestar en||утруждай|||悩む (わざわざする)||||||||||przejmować się (zawracać sobie głowę)
+turf:e|turfe|||eng:turf, fra:tourbe, spa:tur:turba, por:turfa, rus:торф (torf)|peat||||||||||||||turba|torfo|turve|
 turk:i|turki||||Turkish||turco||||||||||||||turkkilainen|turecki
 Turk:ia|Turkia|dex|TR||Turkey||Turquía|||||||||||||Turkio|Turkki|Turcja
 Turkomen:ia|Turkomenia|dex|TM||Turkmenistan||Turkmenistán||||||||||||||Turkmenistan|Turkmenistan
@@ -3578,6 +3583,7 @@ uaris:|varis|||may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|heritage (le
 uark:e|varke|||ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|leaf (sheet)||hoja||||||||||||||lehti (arkki, levy)|kartka (dokument)
 uark.alg:e|varkalge||||kelp|varech|kelp|kelp||||コンブ|||||kelp|||||listownicowiec
 uark.o.lat:e|varkolate||||page (side of a leaf of a book)|page|página|página||||ページ (面)||||||||paĝo|sivu (kirjassa)|strona
+uas:|vas|||ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|oasis||oasis|oasis|oasis|oásis|оазис|||オアシス|오아시스 (천지)|||||oazo|keidas|oaza
 uat:e|vate|unomete|W||watt||vatio|||||||||||||vato|watti|wat
 Uatikan:|Vatikan|dex|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 uau:|vau|||zho:哇 (wā), eng:wow|wow! (gee!)||guau (vaya)||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
@@ -3585,7 +3591,6 @@ uax:a|vaxa|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash||lavar||мыть|||||||||
 uax.maxin:|vaxmaxin||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
 uax.urs:e|vaxurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|raccoon|raton laveur|mapache|guaxinim (rato-lavadeiro)|енот||浣熊|狸 (ラクーン, 洗い熊)||||||||||szop pracz
 Uaxington: DC:|Vaxington DC|xefsite|US||Washington DC||||||||||||||||Washington DC|Waszyngton D.C
-uaz:e|vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|pot (vase, bin, jar, jug)|vase|jarrón (bote)||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
 UDA: d:u|UDA du||||American (US)||estadounidense||||||||||||||yhdysvaltalainen (ns. Amerikkalainen)|amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)
 uei:|vei|||zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|tail||cola (rabo)||хвост||尾巴 (尾部)|尾 (尾翼)|||पूंछ (दुम)|লেজ|ekor (kotek, basian)|mkia|kuyruk|vosto|häntä|ogon
 uend:a|venda|||eng:vend, spa:por:vender, fra:vendre|sell (vend)|vendre|vender|vender|продать||卖|売る||||||||||sprzedać (sprzedawać)
@@ -3716,12 +3721,12 @@ xarm:e|xarme|||fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham
 xarnir:|xarnir|||fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|hinge (pivot)||bisagra (gozne)|||||||||||||ĉarniro (pivoto)|sarana|zawias, oś
 xart:a|xarta||||stipulate||espicificar (estipular)||||||||||||||vaatia (edellyttää)|wymagać, przewidywać
 xart:e|xarte|||tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|condition (requirement)||condición (requisito, estipulación)|||||||||||||kondiĉo (postulo)|vaatimus (edellytys)|warunek
-xat:a|xata||||oppose (antagonize, object, resist)|s'opposer à|oponer|opor|противостоять||||||||||||vastustaa|
-xat:an|xatan||||adversary (antagonist, opponent)|adversaire (antagoniste, ennemi)|adversario|adversário|противник||敌手|敵 (相手)||||প্রতিপক্ষ|||rakip||vastustaja (vihollinen)|
-Xat:an|Xatan|||heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|devil (Satan)|Satan|Satanás|Satanás|Сатана||撒但|悪魔|||शैतान||iblis (syaitan)|shetani|şeytan|diablo (Satano)|saatana (sielunvihollinen)|diabeł, szatan
-xat.an:i|xatani||||devilish (satanic)||satánico||||||||||||||pirullinen|diabelski, szatański
-xatan.ist:e|xataniste||||Satanist||satanista||||||||||||||satanisti|satanista
-xatan.ist:ia|xatanistia||||Satanism (devil worship)||satanismo||||||||||||||satanismi (paholaisenpalvonta)|satanizm
+xat:a|xata||||oppose (antagonize, object, resist)|s'opposer à|oponerse (resistir)|opor|противостоять||||||||||||vastustaa|sprzeciwiać się (opierać się)
+xat.an:|xatan||||adversary (antagonist, opponent)|adversaire (antagoniste, ennemi)|adversario (oponente)|adversário|противник||敌手|敵 (相手)||||প্রতিপক্ষ|||rakip||vastustaja (vihollinen)|przeciwnik (antagonista)
+Xat.an: (ruh.xat.an:)|Xatan (ruhxatan)|||heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|devil (Satan)|Satan|Satanás|Satanás|Сатана||撒但|悪魔|||शैतान||iblis (syaitan)|shetani|şeytan|diablo (Satano)|saatana (sielunvihollinen)|diabeł, szatan
+Xat.an:i|Xatani||||devilish (satanic)||satánico||||||||||||||pirullinen|diabelski, szatański
+xat.an.ist:e|xataniste||||Satanist||satanista||||||||||||||satanisti|satanista
+xat.an.ist:ia|xatanistia||||Satanism (devil worship)||satanismo||||||||||||||satanismi (paholaisenpalvonta)|satanizm
 xatranj:e|xatranje|||hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|chess||ajedrez||||||||शतरंज||catur|sataranji||ŝako|šakki|szachy
 xau:i|xavi|||zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|little (few, not many)|peu|poco (pocos)|poucos|мало||少|少ない|||कम|||||malmulte|vähän|niewiele (mało)
 xau:ia|xavia||||scarcity||escasez|||||||||||||||nieliczność

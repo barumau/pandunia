@@ -89,6 +89,7 @@ antenne - anten
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibem  
+antonyme - annam  
 anus - anus  
 août - ballun  
 appartenir à - malu  
@@ -111,7 +112,7 @@ arctique - Artike
 argent - argente  
 argent - pes  
 Argentine - Argentina  
-argile - glutopote  
+argile - glutofan  
 argon - argon  
 argument - argum  
 argument - tes  
@@ -229,7 +230,7 @@ botte - bute
 boucher - bucer  
 bouclire - defban  
 Bouddha - Bude  
-boue (fange, bourbe, gadoue) - pote  
+boue (fange, bourbe, gadoue) - fan  
 boulanger - beker  
 bouleau - berje  
 bout (pointe, pic) - pike  
@@ -257,6 +258,7 @@ cacher - sira
 cachet de la poste - postomarke  
 cactus - katus  
 cadre - frem  
+cafetière - kafepote  
 café - kafekan  
 café - kafe\*  
 cage - batonkapse  
@@ -555,6 +557,7 @@ Félicitations ! - barke!
 féliciter - barka  
 ####G - G  
 galaxie - galaksia  
+garde-boue (aile) - fandefban  
 Gaule - Galia  
 gaz - gas  
 gaz lacrymogène - okosuigas  
@@ -652,6 +655,7 @@ Islam - islamistia
 ####J - J  
 jade - giuke  
 Japon - Nipon  
+jarre (carafe, cruche) - jar  
 jaïnisme - jeinistia  
 je (me) - me  
 jeu de société - bangem  
@@ -753,6 +757,7 @@ marguerite - bakomargarite
 mariage - gamia  
 Maroc - Magribia  
 Mars - Marse  
+marécage (marais) - fantopia  
 masque - maske  
 masse - mas  
 match - mece  
@@ -838,6 +843,7 @@ note - note
 nous - mes  
 nouveau - novi  
 nuage - mege  
+nylon - nilon  
 nécessaire - yavan  
 nécessiteux (dans le besoin) - yavi  
 néophyte - novike  
@@ -861,7 +867,6 @@ oiseau - pakse
 ombrelle (parasol) - solcate  
 oncille - bagroselote  
 onde - onde  
-opposant (antagoniste) - faner  
 option - cuzable  
 or - aur  
 orange (couleur) - oranji  
@@ -996,6 +1001,10 @@ posidonie (herbiers marins) - haicau
 possible - abli  
 possédant (propriétaire) - malan  
 posture (position) - asan  
+pot (vase) - pote  
+pot de fleur - fulpote  
+poterie - poteria  
+potier - poter  
 poudre à canon - barude  
 Poulpe (pieuvre) - balsenter  
 pourri - pudi  
@@ -1026,6 +1035,7 @@ prêter (empruntre) - jeka
 prêter - jekodona  
 psychologie - ruhlojia  
 psyché - ruh  
+pyramide - piram  
 pâquerette - englomargarite  
 pâte - paste  
 pâte à modeler - plastopaste  
@@ -1100,7 +1110,7 @@ sandwich - sanduice
 sang - sang  
 santé - sih  
 Sapin - abite  
-Satan - Xatan  
+Satan - Xatan (ruhxatan)  
 Saturne - Saturne  
 sauce - saus  
 sauce de soja - soisaus  
@@ -1190,10 +1200,11 @@ tentacule - senter
 tente - hemah  
 terrain - geuforme  
 Terre - Gevia  
-terre cuite - bekopote  
+terre cuite - bekofan  
 terreplatiste - platogeviste  
 terrorisme - teroristia  
 thé - cai  
+théière - caipote  
 théosophie - deusofia  
 tige - tan  
 tigre - bagre  
@@ -1249,7 +1260,6 @@ vampire - vampir
 vampire des abysses - vampirbalsenter  
 vapeur d’eau - suigas  
 varech - varkalge  
-vase - vaze  
 vendre - venda  
 vendredi - limyom  
 Venezuela - Venezuela  

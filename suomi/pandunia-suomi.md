@@ -119,8 +119,10 @@ anjami - hajanainen
 ankaya - sulkea (panna kiinni)  
 ankayi - suljettu  
 ankoda - purkaa koodi (dekoodata)  
+ankriste - antikristus  
 anlimitia - äärettömyys (rajattomuus)  
 anmema - unohtaa  
+annam - vastakohta (antonyymi)  
 anpace - levottomuus (konflikti)  
 ansavi - vieras (tuntematon)  
 ansomia - unettomuus  
@@ -132,6 +134,7 @@ an:a - teettää
 ande - muna  
 Andes - Andit  
 Andora - Andorra  
+angar - ankkuri  
 Angola - Angola  
 angul - sormi tai varvas  
 angulmarke - sormenjälki  
@@ -141,7 +144,6 @@ anim - animaatio (piirretty)
 anima - animoida  
 anjil - viesti  
 anjiler - viestintuoja (airut)  
-angar - ankkuri  
 Antartike - Antarktis  
 Antartiki Hai - Eteläinen Jäämeri  
 anten - antenni  
@@ -454,6 +456,7 @@ Cadia - Tšad
 cai - tee  
 caikan - teehuone (kahvila)  
 caikupe - teekuppi  
+caipote - teepannu  
 cake - veitsi (puukko)  
 cakre - ratas  
 camace - lusikka  
@@ -839,10 +842,10 @@ faini - hieno (hienojakoinen)
 falsvide - harhanäky (näköharha)  
 famil - perhe  
 familnam - sukunimi  
-fana - vastustaa  
-faner - vastustaja  
-fankriste - antikristus  
-fannam - vastakohta (antonyymi)  
+fan - muta (kura, lieju)  
+fani - kurainen (mutainen)  
+fandefban - lokasuoja  
+fantopia - suo (räme)  
 fantaza - kuvitella  
 fantaze - mielikuvitus (fantasia)  
 fantazi - mielikuvituksekas (fantastinen)  
@@ -972,9 +975,10 @@ fuka - pukea (vaatettaa)
 fuke - vaate (puku)  
 fuku - pukeutua (pitää vaatetta yllään)  
 ful - kukka  
+fuljar - kukkamaljakko  
 fulu - kukkia  
 fulmosim - kevät  
-fulvaze - kukkaruukku  
+fulpote - kukkaruukku  
 fun - pöly (tomu)  
 funcuper - pölynimuri  
 funcu - toiminta (funktio)  
@@ -1088,8 +1092,8 @@ glute - liima
 gluti - tahmainen (liimamainen)  
 gluten - gluteeni  
 glutobende - laastari  
+glutofan - savi  
 glutograf - tarra  
-glutopote - savi  
 gol - maali (pelissä)  
 gola - määrätä  
 golem - golem  
@@ -1393,6 +1397,7 @@ jangi - kätevä
 janger - artesaani (käsityöläinen)  
 jangle - metsä (viidakko)  
 jar - kannu (karahvi)  
+jar - ruukku (kannu, maljakko, karahvi)  
 jau - ohra  
 javaba - vastata  
 javabe - vastaus  
@@ -1476,6 +1481,7 @@ kadem - kadmium
 kafe\* - kahvi  
 kafekan - kahvila  
 kafekupe - kahvikuppi  
+kafepote - kahvipannu  
 kafir - pakana  
 kaguje - paperi  
 kaya - aukaista (avata)  
@@ -1903,8 +1909,6 @@ magi - taianomainen (maaginen)
 magia - taika (taikuus, magia)  
 mager - taikuri  
 magesem - magnesium  
-manete - magneetti  
-maneti - magneettinen  
 Magyaria - Unkari  
 Magribia - Marokko  
 mayan - maya (mayaintiaani)  
@@ -1935,6 +1939,8 @@ mamal - nisäkäs
 man - uros (mies)  
 mani pute - poika  
 mani rajer - kuningas  
+manete - magneetti  
+maneti - magneettinen  
 mangi - kiireinen  
 mangan - mangaani  
 mango\* - mango  
@@ -2274,7 +2280,6 @@ numbe - lukumäärä (luku, numero)
 nuton - newton (N)  
 ####O - O  
 o - tai (vai)  
-oaze - keidas  
 Oceania - Oseania  
 ode - sija (paikka järjestyksessä)  
 odisi - orija (eräs intialainen kieli)  
@@ -2519,9 +2524,9 @@ poste - posti (postilähetys)
 postocape - postileima  
 postokan - postitoimisto  
 postomarke - postileima  
-pote - muta (kura, lieju)  
-poti - kurainen (mutainen)  
-pototopia - suo (räme)  
+pote - pata  
+poter - savenvalaja  
+poteria - keramiikka  
 poza - panna (asettaa)  
 poze - asetelma  
 prasedem - praseodyymi  
@@ -3056,6 +3061,7 @@ Tunisia - Tunisia
 tupe - lakki (hattu)  
 turba - häiritä (vaivata)  
 turbe - häiriö (vaiva)  
+turfe - turve  
 turki - turkkilainen  
 Turkia - Turkki  
 Turkomenia - Turkmenistan  
@@ -3092,13 +3098,13 @@ Vanuatu - Vanuatu
 varis - perintö  
 varke - lehti (arkki, levy)  
 varkolate - sivu (kirjassa)  
+vas - keidas  
 vate - watti  
 Vatikan - Vatikaanivaltio  
 vau - oho (vau)  
 vaxa - pestä  
 vaxmaxin - pesukone  
 Vaxington D####C - Washington DC  
-vaze - ruukku (maljakko, vaasi)  
 UDA du - yhdysvaltalainen (ns. Amerikkalainen)  
 vei - häntä  
 Venezuela - Venezuela  
@@ -3205,8 +3211,8 @@ xarta - vaatia (edellyttää)
 xarte - vaatimus (edellytys)  
 xata - vastustaa  
 xatan - vastustaja (vihollinen)  
-Xatan - saatana (sielunvihollinen)  
-xatani - pirullinen  
+Xatan (ruhxatan) - saatana (sielunvihollinen)  
+Xatani - pirullinen  
 xataniste - satanisti  
 xatanistia - satanismi (paholaisenpalvonta)  
 xatranje - šakki  

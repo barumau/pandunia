@@ -106,12 +106,14 @@ andiniste - infidèle (incroyant)
 angalta - déboguer (débugger)  
 anyavi - inutile  
 anmema - oublier  
+annam - antonyme  
 anseksi - asexué  
 ansomia - insomnie  
 ande - oeuf  
 Andes - Andes  
 andesite - andésite  
 Andora - Andorre  
+angar - ancre  
 Angola - Angola  
 angulmarke - empreinte digitale  
 angulpike - bout de doigt  
@@ -119,7 +121,6 @@ anim - animation
 anima - animer  
 anjil - message  
 anjiler - messager  
-angar - ancre  
 Antartike - Antarctique  
 Antartiki Hai - Océan Antarctique  
 anten - antenne  
@@ -276,7 +277,7 @@ bazar - marché (bazar)
 bebe - bébé  
 bedinje - aubergine  
 beker - boulanger  
-bekopote - terre cuite  
+bekofan - terre cuite  
 bel - pelle  
 ber - baie  
 berande - balcon  
@@ -318,6 +319,7 @@ buton - bouton
 ####C - C  
 cai - thé  
 caikupe - tasse à thé  
+caipote - théière  
 cakre - roue  
 camace - cuiller  
 canse - chance  
@@ -429,7 +431,9 @@ Europe - Europe
 europi - européen  
 europobalute - chêne pédonculé  
 ####F - F  
-faner - opposant (antagoniste)  
+fan - boue (fange, bourbe, gadoue)  
+fandefban - garde-boue (aile)  
+fantopia - marécage (marais)  
 fas - face (facette)  
 fasteli - profond  
 fasili - facile  
@@ -468,6 +472,7 @@ fuka - habiller (vêtir)
 fuke - vêtements  
 fuku - porter (s’habiller)  
 ful - fleur  
+fulpote - pot de fleur  
 fungonete - mycélium  
 fungopal - champignon  
 futobol - football  
@@ -514,8 +519,8 @@ glisu - glisser
 gluta - coller  
 gluti - adhésif (collant)  
 glutobende - pansement (sparadrap)  
+glutofan - argile  
 glutograf - autocollant  
-glutopote - argile  
 gol - but (destination)  
 goril - gorille  
 goton - coton  
@@ -624,6 +629,7 @@ jamul - prune de Java
 jan - personne  
 janel - fenêtre  
 jangle - forêt (jungle)  
+jar - jarre (carafe, cruche)  
 jau - orge  
 javabe - réponse  
 jeinistia - jaïnisme  
@@ -661,6 +667,7 @@ kaboge - citrouille
 kade - morue  
 kafe\* - café  
 kafekan - café  
+kafepote - cafetière  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kali harfe - espace  
@@ -938,6 +945,7 @@ nice - dessous
 nide - nid  
 nili - bleu  
 nilcentaur - Centaurée bleuet  
+nilon - nylon  
 Nipon - Japon  
 nix - niche  
 noce - noit  
@@ -1030,6 +1038,7 @@ pinkardon - chardon aux ânes
 pinsoban - porte-bloc (planchette à pince)  
 pipre - poivre  
 piprominte - menthe poivrée  
+piram - pyramide  
 piratia - piraterie  
 pis - Épicéa  
 pize - pizza  
@@ -1046,7 +1055,9 @@ porte - porte
 portoriki - Portoricain  
 Portorikia - Porto Rico  
 postomarke - cachet de la poste  
-pote - boue (fange, bourbe, gadoue)  
+pote - pot (vase)  
+poter - potier  
+poteria - poterie  
 poza - planter  
 problem - problème  
 problemi - problématique  
@@ -1255,7 +1266,6 @@ vampirbalsenter - vampire des abysses
 varkalge - varech  
 varkolate - page  
 vaxurse - raton laveur  
-vaze - vase  
 venda - vendre  
 vendoxopa - commercer  
 Venezuela - Venezuela  
@@ -1301,7 +1311,7 @@ xanti - calme (tranquille)
 xarke - requin  
 xata - s'opposer à  
 xatan - adversaire (antagoniste, ennemi)  
-Xatan - Satan  
+Xatan (ruhxatan) - Satan  
 xavi - peu  
 xef - chef  
 xei - chose  

@@ -140,11 +140,11 @@ ant - murce
 Antarctic Ocean - Antartiki Hai  
 Antarctica - Antartike  
 antenna (aerial) - anten  
-antichrist - fankriste  
+antichrist - ankriste  
 Antigua - Antigua  
 Antigua and Barbuda - Antigua e Barbuda  
 antimony - estibem  
-antonym - fannam  
+antonym - annam  
 anus - anus  
 anvil - metalbede  
 any (no matter which) - eni  
@@ -666,7 +666,7 @@ class (category) - klas
 classic (classical) - cenyangi  
 classify (categorize) - klasa  
 classroom - xulkamar  
-clay - glutopote  
+clay - glutofan  
 clean (pure) - safi  
 clean (purify) - safa  
 cleaner - safer  
@@ -707,6 +707,7 @@ coerce (force, compel) - musa
 coercion - mus  
 coffee - kafe\*  
 coffee cup - kafekupe  
+coffeepot - kafepote  
 coin - pesdiske  
 cola - kol  
 cold (illness) - zukam  
@@ -944,8 +945,8 @@ destiny (fate) - cenamen
 detail - detal  
 Devanagari alphabet - deunagri harfe  
 development - darjomute  
-devil (Satan) - Xatan  
-devilish (satanic) - xatani  
+devil (Satan) - Xatan (ruhxatan)  
+devilish (satanic) - Xatani  
 dew - ros  
 diagonal - transogoni  
 diamond - almas  
@@ -1226,6 +1227,7 @@ female - fem
 feminism - femistia  
 feminist - femiste  
 fence - kenarbaryer  
+fender - fandefban  
 ferment (leaven) - biumutu  
 fermented - biumuti  
 fermium - fermem  
@@ -1279,6 +1281,8 @@ florist's chrysanthemum - guke
 flow (current, stream) - dar  
 flow - daru  
 flower - ful  
+flower vase - fuljar  
+flowerpot - fulpote  
 fluid (liquid) - darmati  
 fluorine - flurem  
 fly (go through air) - feyu  
@@ -1729,6 +1733,7 @@ jamul (jambul, rose apple) - jamul
 January - unlun  
 Japan - Nipon  
 Japanese - niponi  
+jar (jug, pitcher, carafe, amphora, vase) - jar  
 jasmine - malike  
 jazz - jaze  
 jealous - jelosi  
@@ -2031,7 +2036,7 @@ marriage (matrimony) - gamia
 married - gami  
 marry - gama  
 Mars - Marse  
-marsh (bog, swamp, morass) - pototopia  
+marsh (bog, swamp, morass) - fantopia  
 Marshall Islands - Marxal nesia  
 martial art - jengoxute  
 marvel (wonder) - ajabe  
@@ -2199,8 +2204,8 @@ movie (cinema) - kingraf
 movie theatre - kingrafkan  
 Mozambique - Mozambike  
 MSG (monosodium glutamate) - vijin  
-mud (mire) - pote  
-muddy - poti  
+mud (mire) - fan  
+muddy - fani  
 mule - gadogude  
 multicultural - polkulturi  
 multiculturalism - polkulturistia  
@@ -2336,7 +2341,7 @@ number - numbe
 nylon - nilon  
 ####O - O  
 oak tree - balute  
-oasis - oaze  
+oasis - vas  
 oat - aven  
 Oberon - Oberon  
 object (item) - vute  
@@ -2385,11 +2390,8 @@ open (wide, spacious) - medeni
 open - kaya  
 opinion (view) - rai  
 opium poppy - sompapil  
-opponent (antagonist) - faner  
 opportunity (chance) - canse  
 oppose (antagonize, object, resist) - xata  
-oppose (resist) - fana  
-opposite (anti-) - fani  
 option (choice) - cuzable  
 or - o  
 orange (fruit) - oranje  
@@ -2510,6 +2512,7 @@ peace - pace
 peanut (groundnut) - geudou  
 pear - leze  
 pearl - lul  
+peat - turfe  
 pebble (gravel) - lilxeke  
 pedal - pedal  
 peer - parike  
@@ -2664,10 +2667,12 @@ post office - postokan
 postal stamp - postocape  
 postmark (postage stamp) - postomarke  
 posture (asana) - asan  
-pot (vase, bin, jar, jug) - vaze  
+pot (vase, bin, jar) - pote  
 potassium - kalem  
 potato - patate  
 potion - medikosui  
+potter - poter  
+pottery - poteria  
 pound (£) - paunde  
 power (authority, rule) - sultia  
 practical (pragmatic) - prati  
@@ -3375,6 +3380,7 @@ tea house - caikan
 teach (educate, instruct) - xulana  
 teacher - xulaner  
 team - tim  
+teapot - caipote  
 tear (rip, edge) - cir  
 tear (rip, split) - cira  
 tear drop - okosui  
@@ -3406,7 +3412,7 @@ tent - hemah
 tentacle (feeler) - senter  
 tera- - tera\*  
 terbium - terbem  
-terracotta - bekopote  
+terracotta - bekofan  
 terrain - geuforme  
 terror - teror  
 terrorism - teroristia  
@@ -3632,7 +3638,6 @@ vanadium - vanadem
 vanilla - vanil  
 Vanuatu - Vanuatu  
 various (diverse, miscellaneous) - balibali  
-vase (flower pot) - fulvaze  
 vegan - purfityamiste  
 veganism - purfityamistia  
 vegetable - yamfite  

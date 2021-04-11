@@ -306,7 +306,7 @@ devus - selu
 dezerto - regotopia  
 deziro - kamia  
 dia - devi  
-diablo (Satano) - Xatan  
+diablo (Satano) - Xatan (ruhxatan)  
 diamanto - almas  
 dimanĉosunnuntai - setyom  
 dio - deu  
@@ -460,6 +460,7 @@ flanka (latera) - lati
 flanko (latero) - late  
 flava - limonrangi  
 floro - ful  
+florpoto - fulpote  
 flughaveno - airporte  
 flugi - feyu  
 flugo - fei  
@@ -693,6 +694,7 @@ juĝo - jude
 kadmio - kadem  
 kadro - frem  
 kafejo - kafekan  
+kafeujo - kafepote  
 kafo - kafe\*  
 kaftaso - kafekupe  
 kaj - e  
@@ -823,10 +825,9 @@ korpa - bodi
 korpo - bode  
 korpokulturado - muskulbin  
 kosmonaŭto - kosmonaver  
-kota - poti  
-koto - pote  
+kota - fani  
+koto - fan  
 kotono - goton  
-kotraŭa - fani  
 kovri - daka  
 kovrilo - dake  
 krabo - krabe  
@@ -850,6 +851,7 @@ kromo - kromem
 krono - koron  
 kruco - krus  
 krunviruso - koronvirus  
+kruĉo - jar  
 ksenono - xenon  
 kubo - kube  
 kuko - keke  
@@ -999,6 +1001,7 @@ margarino - margarin
 marmoro - kalsokristal  
 maro - hai  
 martelo - hamar  
+marĉo - fantopia  
 masko - maske  
 maso - mas  
 masto - maste  
@@ -1138,7 +1141,7 @@ novulo - novike
 nudelo - mien  
 nuno - zai  
 ####O - O  
-oazo - oaze  
+oazo - vas  
 obrelo - barxocate  
 Oceanio - Oceania  
 oceano - daihai  
@@ -1577,6 +1580,7 @@ teroro - teror
 terpomo - patate  
 tertremo - geusisme  
 testo - teste  
+teujo - caipote  
 Tibeto - Botia  
 tie - ya ve  
 tigro - bagre  
@@ -1598,6 +1602,7 @@ tondilo - makas
 tondro - grom  
 tono - ton  
 torako - sinkapse  
+torfo - turfe  
 torio - torem  
 torso - torse  
 torto - pai  
@@ -1653,8 +1658,7 @@ vando - mur
 vaporo - suigas  
 varma - garmi  
 vato - vate  
-vazo (florpoto) - fulvaze  
-vazo - vaze  
+vazo - fuljar  
 vendredo - limyom  
 veni - laya  
 venki - xenga  

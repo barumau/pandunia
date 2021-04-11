@@ -45,12 +45,12 @@ andiniste - 不信神的
 anmema - 忘记  
 ansomia - 失眠  
 andesite - 安山岩  
+angar - 锚  
 angul - 手指  
 angulmarke - 指纹 (指印)  
 angulpike - 指尖  
 anim - 活跃  
 anjil - 信息  
-angar - 锚  
 anten - 天线  
 anus - 肛门  
 aple - 苹果  
@@ -132,7 +132,7 @@ bazobol - 棒球
 bazoxulkan - 小学  
 bazar - 市场  
 bebe - 宝宝  
-bekopote - 陶瓦  
+bekofan - 陶瓦  
 bel - 铲  
 ber - 浆果 (莓)  
 berande - 阳台  
@@ -175,6 +175,7 @@ buze - 山羊
 cai - 茶  
 caikan - 茶馆  
 caikupe - 茶碗  
+caipote - 茶壶  
 cakre - 轮子  
 camace - 匙子  
 cantergrupe - 合唱团  
@@ -271,6 +272,9 @@ evanjil - 福音
 europobalute - 夏櫟  
 ####F - F  
 faidia - 效用 (好处)  
+fan - 坭  
+fandefban - 挡泥板  
+fantopia - 沼泽  
 fas - 面  
 fasteli - 深  
 fasilia da akses - 無障礙環境  
@@ -302,6 +306,8 @@ frika - 擦伤
 fuke - 衣服  
 fuku - 穿  
 ful - 花  
+fuljar - 花瓶  
+fulpote - 花盆  
 fungopal - 蘑菇  
 futomarke - 脚印  
 ####G - G  
@@ -336,8 +342,8 @@ giuke - 玉
 glisu - 滑下  
 gluti - 黏的  
 glutobende - 创可贴 (邦迪)  
+glutofan - 黏土  
 glutograf - 贴纸  
-glutopote - 黏土  
 gol - 目的  
 goril - 大猩猩  
 goton - 棉  
@@ -445,6 +451,7 @@ janel - 窗戶
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
 jangle - 森林  
+jar - 罐 (瓶)  
 jau - 大麦  
 javabe - 回答  
 jeka - 借  
@@ -471,6 +478,7 @@ kaboge - 南瓜
 kade - 鱈  
 kafe\* - 咖啡  
 kafekan - 咖啡馆  
+kafepote - 咖啡壶  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kali harfe - 空隙  
@@ -735,6 +743,7 @@ nide - 巢 (穴)
 nili - 蓝色  
 nilcentaur - 矢車菊  
 nilseramxing - 茜草花  
+nilon - 尼龙  
 Nipon - 日本  
 nix - 壁龛  
 noce - 夜  
@@ -746,7 +755,6 @@ novike - 新手
 numbe - 数  
 ####O - O  
 o - 或  
-oaze - оазис  
 oke - 眼睛  
 okosuigas - 催泪瓦斯  
 okside - 氧化物  
@@ -808,6 +816,7 @@ pincope - 镐
 pinkardon - 大翅蓟  
 pipre - 胡椒  
 piprominte - 辣薄荷  
+piram - 金字塔  
 pis - 云杉  
 plati geukaskia - 板块构造论  
 platotopia - 平原  
@@ -816,7 +825,8 @@ polmaro - 经常
 pontopin - 指南针  
 porei - 韭葱  
 porte - 港  
-pote - 坭  
+poter - 陶瓷工  
+poteria - 陶器制造  
 problem - 问题 (难题)  
 program - 计划  
 pudu - 腐烂  
@@ -1000,6 +1010,7 @@ val - 价值
 vampir - 吸血鬼  
 van - 娱乐  
 vanu - 玩耍  
+vas - оазис  
 vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
 venda - 卖  
@@ -1031,7 +1042,7 @@ xalke - 鳞
 Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
-Xatan - 撒但  
+Xatan (ruhxatan) - 撒但  
 xavi - 少  
 xei - 事物 (东西)  
 xeihal - 事态  

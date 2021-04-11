@@ -127,8 +127,10 @@ anjami - sparse (scattered)
 ankaya - close (shut)  
 ankayi - closed  
 ankoda - decode (decrypt)  
+ankriste - antichrist  
 anlimitia - infinity  
 anmema - forget  
+annam - antonym  
 anpace - unrest  
 anromansi - aromantic  
 ansavi - strange (unknown)  
@@ -143,6 +145,7 @@ ande - egg
 Andes - Andes  
 andesite - andesite  
 Andora - Andorra  
+angar - anchor  
 Angola - Angola  
 angul - finger (toe)  
 angulmarke - fingerprint  
@@ -152,7 +155,6 @@ anim - animation (cartoon)
 anima - animate  
 anjil - message  
 anjiler - messenger  
-angar - anchor  
 Antartike - Antarctica  
 Antartiki Hai - Antarctic Ocean  
 anten - antenna (aerial)  
@@ -355,8 +357,8 @@ beyu - undergo (passivizing verb)
 Beijing - Beijing (Peking)  
 beka - bake  
 beker - baker  
+bekofan - terracotta  
 bekokan - bakery (bakehouse)  
-bekopote - terracotta  
 bel - bel (unit)  
 bel - shovel (spade, scoop)  
 Belarus - Belarus  
@@ -485,6 +487,7 @@ Cadia - Chad
 cai - tea  
 caikan - tea house  
 caikupe - tea cup  
+caipote - teapot  
 cake - knife  
 cakre - wheel  
 camace - spoon  
@@ -894,10 +897,10 @@ falsi - false (fake)
 falsvide - illusion (hallucination)  
 famil - family  
 familnam - surname (family name)  
-fana - oppose (resist)  
-faner - opponent (antagonist)  
-fankriste - antichrist  
-fannam - antonym  
+fan - mud (mire)  
+fani - muddy  
+fandefban - fender  
+fantopia - marsh (bog, swamp, morass)  
 fantaza - imagine (fantasize)  
 fantaze - fantasy (imagination)  
 fantazi - fantastic (imaginary)  
@@ -1032,9 +1035,10 @@ fuke - clothing (clothes)
 fuki - clothed (dressed)  
 fuku - wear (dress, put on)  
 ful - flower  
+fuljar - flower vase  
 fulu - blossom (bloom)  
 fulmosim - spring (springtime)  
-fulvaze - vase (flower pot)  
+fulpote - flowerpot  
 fun - dust (powder)  
 funcuper - vacuum cleaner  
 funcu - function (work)  
@@ -1162,8 +1166,8 @@ glute - glue (adhesive)
 gluti - sticky (ahesive)  
 gluten - gluten  
 glutobende - adhesive bandage (band-aid, sticking plaster)  
+glutofan - clay  
 glutograf - sticker  
-glutopote - clay  
 gol - goal (destination)  
 gola - destine (set)  
 golem - golem  
@@ -1515,6 +1519,7 @@ jangi - crafty (dexterous)
 janger - artisan (craftsman)  
 jangle - forest (woods, jungle)  
 jar - jug (jar, pitcher)  
+jar - jar (jug, pitcher, carafe, amphora, vase)  
 jau - barley  
 javaba - respond (give an answer)  
 javabe - answer (reply, response)  
@@ -1612,6 +1617,7 @@ kadem - cadmium
 kafe\* - coffee  
 kafekan - cafe (coffee shop)  
 kafekupe - coffee cup  
+kafepote - coffeepot  
 kafir - infidel (pagan, heathen, unbeliever)  
 kaguje - paper (material)  
 kagujolimon - key lime  
@@ -2127,8 +2133,6 @@ magia - magic
 magasar - spell (enchantment)  
 mager - magician (sorcerer)  
 magesem - magnesium  
-manete - magnet  
-maneti - magnetic  
 Magyaria - Hungary  
 Magribia - Morocco  
 mayan - Maya  
@@ -2162,6 +2166,8 @@ mamal - mammal
 man - male  
 mani pute - son  
 mani rajer - king  
+manete - magnet  
+maneti - magnetic  
 mangi - busy (occupied)  
 mangan - manganese  
 mango\* - mango  
@@ -2567,7 +2573,6 @@ numbe - number
 nuton - newton (N)  
 ####O - O  
 o - or  
-oaze - oasis  
 Oberon - Oberon  
 Oceania - Oceania  
 ode - rank (position in an ordered list)  
@@ -2855,9 +2860,9 @@ poste - mail
 postocape - postal stamp  
 postokan - post office  
 postomarke - postmark (postage stamp)  
-pote - mud (mire)  
-poti - muddy  
-pototopia - marsh (bog, swamp, morass)  
+pote - pot (vase, bin, jar)  
+poter - potter  
+poteria - pottery  
 poza - pose (set, plant)  
 poze - pose (position)  
 prasedem - praseodymium  
@@ -3522,6 +3527,7 @@ tupe - hat (cap)
 turba - bother (annoy, disturb, irritate)  
 turbe - trouble (disturbance, bother, annoyance)  
 turbu - be bothered by (bother to, take the trouble to)  
+turfe - peat  
 turki - Turkish  
 Turkia - Turkey  
 Turkomenia - Turkmenistan  
@@ -3565,6 +3571,7 @@ varis - heritage (legacy, bequest)
 varke - leaf (sheet)  
 varkalge - kelp  
 varkolate - page (side of a leaf of a book)  
+vas - oasis  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
 vau - wow! (gee!)  
@@ -3572,7 +3579,6 @@ vaxa - wash
 vaxmaxin - washing machine  
 vaxurse - raccoon  
 Vaxington D####C - Washington DC  
-vaze - pot (vase, bin, jar, jug)  
 UDA du - American (US)  
 vei - tail  
 venda - sell (vend)  
@@ -3705,8 +3711,8 @@ xarta - stipulate
 xarte - condition (requirement)  
 xata - oppose (antagonize, object, resist)  
 xatan - adversary (antagonist, opponent)  
-Xatan - devil (Satan)  
-xatani - devilish (satanic)  
+Xatan (ruhxatan) - devil (Satan)  
+Xatani - devilish (satanic)  
 xataniste - Satanist  
 xatanistia - Satanism (devil worship)  
 xatranje - chess  

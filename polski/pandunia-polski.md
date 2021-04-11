@@ -106,8 +106,10 @@ anjama - rozproszyć, rozpraszać
 anjami - rzadki (rozrzedzony, rozproszony)  
 ankaya - zamknąć (zamykać)  
 ankayi - zamknięty  
+ankriste - antychryst  
 anlimitia - nieskończoność  
 anmema - zapominać (zapomnieć)  
+annam - antonim  
 anpace - niepokój  
 anromansi - aromantyczny  
 ansavi - dziwny (nieznany)  
@@ -120,6 +122,7 @@ ande - jajko (jajo)
 Andes - Andy  
 andesite - andezyt  
 Andora - Andora  
+angar - kotwica  
 Angola - Angola  
 angul - palec  
 angulring - pierścień, pierścionek; obrączka  
@@ -127,7 +130,6 @@ anim - animacja
 anima - animować  
 anjil - wiadomość  
 anjiler - posłaniec (wysłannik)  
-angar - kotwica  
 Antartike - Antarktyka  
 Antartiki Hai - Ocean Antarktyczny (Ocean Południowy)  
 anten - antena  
@@ -317,8 +319,8 @@ beyu - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 Beijing - Pekin  
 beka - piec  
 beker - piekarz  
+bekofan - terakota  
 bekokan - piekarnia  
-bekopote - terakota  
 bel - bel  
 bel - łopata (szpadel)  
 Belarus - Białoruś  
@@ -438,6 +440,7 @@ Cadia - Czad
 cai - herbata  
 caikan - herbaciarnia  
 caikupe - kubek do herbaty  
+caipote - imbryk (czajnik)  
 cake - nóż  
 cakre - koło  
 camace - łyżka  
@@ -816,10 +819,10 @@ falsi - fałszywy, nieprawdziwy
 falsvide - iluzja (halucynacja)  
 famil - rodzina  
 familnam - nazwisko, imię rodziny  
-fana - sprzeciwiać się (opierać się)  
-faner - przeciwnik (antagonista)  
-fankriste - antychryst  
-fannam - antonim  
+fan - błoto  
+fani - błotnisty  
+fandefban - błotnik  
+fantopia - bagno (moczary)  
 fantaza - wyobrazić, wyobrażać, fantazjować  
 fantaze - fantazja (wyobrażenie, wyobraźnia)  
 fantazi - fantastyczny, fantazyjny  
@@ -941,7 +944,6 @@ fuku - nosić ubrania
 ful - kwiat  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
 fulmosim - wiosna  
-fulvaze - wazon; donica, doniczka  
 fun - pył  
 funcuper - odkurzacz  
 funcu - funkcja, stanowisko  
@@ -1056,7 +1058,7 @@ gluta - lepić (kleić)
 glute - klej  
 gluti - lepki (kleisty)  
 gluten - gluten  
-glutopote - glina  
+glutofan - glina  
 gol - cel  
 gola - przeznaczyć  
 golem - golem  
@@ -1377,6 +1379,7 @@ jangi - umiejętny (sprawny, zręczny)
 janger - rzemieślnik  
 jangle - las, dżungla, zagajnik  
 jar - dzban, dzbanek; słój, słoik  
+jar - wazon  
 jau - jęczmień  
 javaba - odpowiedzieć, odpowiadać  
 javabe - odpowiedź, odzew  
@@ -1469,6 +1472,7 @@ kadem - kadm
 kafe\* - kawa  
 kafekan - kawiarnia  
 kafekupe - filiżanka do kawy  
+kafepote - imbryk do kawy  
 kafir - niewierny (poganin, niewierzący)  
 kaguje - papier  
 kagujolimon - lima (limonka)  
@@ -1951,8 +1955,6 @@ magia - magia
 magasar - zaklecie  
 mager - magik, czarownik  
 magesem - magnez  
-manete - magnes  
-maneti - magnetyczny  
 Magyaria - Węgry  
 Magribia - Maroko  
 mayan - Maya  
@@ -1986,6 +1988,8 @@ mamal - ssak
 man - męski  
 mani pute - syn  
 mani rajer - król  
+manete - magnes  
+maneti - magnetyczny  
 mangi - zajęty  
 mangan - mangan  
 mango\* - mango  
@@ -2371,7 +2375,6 @@ numbe - numer
 nuton - niuton (N)  
 ####O - O  
 o - lub, albo  
-oaze - oaza  
 Oceania - Oceania  
 odisi - orija  
 ofis - urząd, pozycja, stanowisko, funkcja  
@@ -2634,9 +2637,6 @@ posta - nadać, wysłać pocztą
 poste - poczta  
 postocape - znaczek pocztowy  
 postokan - poczta, budynek poczty  
-pote - błoto  
-poti - błotnisty  
-pototopia - bagno  
 poza - pozować, ustawiać się  
 poze - poza, pozycja  
 prasedem - prazeodym  
@@ -3306,6 +3306,7 @@ varis - spadek, dziedzictwo, spuścizna, zapis
 varke - kartka (dokument)  
 varkalge - listownicowiec  
 varkolate - strona  
+vas - oaza  
 vate - wat  
 Vatikan - Watykan, Państwo Watykańskie  
 vau - wow!, łoł!, jej!  
@@ -3313,7 +3314,6 @@ vaxa - prać, umyć, myć
 vaxmaxin - pralka  
 vaxurse - szop pracz  
 Vaxington D####C - Waszyngton D.C  
-vaze - waza, garnek, pojemnik, słoik, dzban  
 UDA du - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
 vei - ogon  
 venda - sprzedać (sprzedawać)  
@@ -3436,8 +3436,10 @@ xarme - wstyd (hańba, kompromitacja)
 xarnir - zawias, oś  
 xarta - wymagać, przewidywać  
 xarte - warunek  
-Xatan - diabeł, szatan  
-xatani - diabelski, szatański  
+xata - sprzeciwiać się (opierać się)  
+xatan - przeciwnik (antagonista)  
+Xatan (ruhxatan) - diabeł, szatan  
+Xatani - diabelski, szatański  
 xataniste - satanista  
 xatanistia - satanizm  
 xatranje - szachy  

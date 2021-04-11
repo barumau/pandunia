@@ -323,8 +323,7 @@
 |**faini**|fine (delicate)|English:fine, Spanish:Portuguese:fino, French:fin|
 |**falsi**|false (fake)|English:false, Spanish:Portuguese:falso, French:faux, deu:falsch|
 |**famil**|family|English:family, Spanish:familia, Portuguese:família, French:famille|
-|**fani**|opposite (anti-)|Mandarin:反 (fǎn), yue反 (faan3), Vietnamese:phản, Japanese:反 (han-), Korean:반 (ban-)|
-|**fannam**|antonym|English:deu:antonym, French:antonyme, Spanish:Portuguese:antónimo, Russian:антоним (antonim), Malay:Turkish:antonim|
+|**fan**|mud (mire)|French:fang, Spanish:fango + English:fen + Mandarin:粪 (fèn), Cantonese:糞 (fan3), Vietnamese:phân|
 |**fantaze**|fantasy (imagination)|English:French:fantasy, Spanish:fantasía, Portuguese:Swahili:fantasia, Russian:фантазия (fantazija), Turkish:fantezi, Malay:fantasi, Japanese:ファンタジー (fantajī)|
 |**fantom**|ghost (phantom)|English:phantom, Spanish:Portuguese:fantasma, French:fantôme, Russian:фантом (fantom)|
 |**fas**|surface (face)|English:French:Portuguese:face, Spanish:faz, deu:Facette|
@@ -525,6 +524,7 @@
 |**janel**|window|Portuguese:janela, Bengali:জানালা (janala), Malay:jendela + Tamil:சன்னல் (sannal), nya:zenera, Kongo:nêla|
 |**janger**|artisan (craftsman)|Mandarin:匠 (jiàng), Thai:ช่าง (jang), Khmer:ជាង (ciəng)|
 |**jangle**|forest (woods, jungle)|English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel|
+|**jar**|jar (jug, pitcher, carafe, amphora, vase)|Arabic: جَرَة‎ (jara), English:jar, French:jarre, Spanish:Portuguese:jarra|
 |**jar**|jug (jar, pitcher)|English:jar, Arabic:(jara), Portuguese:Spanish:jarra|
 |**jau**|barley|Hindi:जौ (jau), Bengali:যব (jôb), Marathi:जव (jav), Gujarati:જવ (jav), Persian: جو‎ (jow)|
 |**javabe**|answer (reply, response)|Arabic: جَوَاب‎ (jawāb), Hindi:जवाब (javāb), Malay:jawab, Swahili:jibu,jawabu, Turkish:cevap|
@@ -896,13 +896,13 @@
 |**nafas**|breath|Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi|
 |**nagre**|town|Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)|
 |**nahun**|nail (fingernail)|Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)|
-|**najis**|corruption (filth, pollution, contamination, najis)|Arabic:نجس (najis), Persian:نجس (najes), Malay:najis + English:najis, Russian:наджа́са (nadžása), Turkish:necis|
+|**najis**|corruption (filth, pollution, contamination, najis)|Arabic:نجس (najis), Malay:najis, Swahili:najisi, Persian:نجس (najes) + English:najis, Russian:наджаса (nadžasa)|
 |**nam**|name|Hindi:नाम (nām), Persian:Punjabi:Urdu:(nām), Thai:นาม (naam), Malay:nama, deu:English:name, Japanese:名前 (namae), French:nom|
 |**namloge**|noun|Mandarin:名词 (míngcí), Cantonese:名詞 (ming4 ci4), Japanese:名詞 (meishi), Korean:명사 (myeongsa), Hindi:नाम (nām), French:nom, Spanish:nombre, Portuguese:nome, Russian:имя (imya), Arabic:(ism), per:(esm), Swahili:nomino|
 |**nanas**|pineapple|Malay:nanas, Swahili:nanasi, Hindi:अनन्नास (anānnas), Russian:ананас (ananas)|
 |**narake**|hell|Hindi:नरक (narak), Bengali:নরক (nôrôk), pan:ਨਰਕ (nark), Marathi:नर्क (nark), Telugu:నరకము (narakamu), Tamil:நரகம் (narakam), Malay:neraka, Thai:นรก (ná-rók), Japanese:奈落 (naraku)|
 |**narde**|backgammon|Persian:Urdu: نرد‎ (nard), Russian:нарды (nardy)|
-|**nasia**|nation|Arabic:(nās), + English:French:nation, deu:Nazion, Portuguese:nação, Spanish:nación, Polish:nacja, Russian:нация (natsiya)|
+|**nasia**|nation|Arabic:(nās) + English:French:nation, deu:Nazion, Portuguese:nação, Spanish:nación, Polish:nacja, Russian:нация (natsiya)|
 |**nau**|boat (ship)|French:navire, Spanish:nave, Portuguese:navio, Persian: ناو‎ (nâv), Hindi:नाव (nāv)|
 |**nautil**|nautilus|English:nautilus, Spanish:nautilo, Portuguese:nautiloide, Russian:наутилид (nautilid), Arabic:نوتي (noti), Hindi:नौटिलस (nautilas), Turkish:notilus|
 |**naziste**|Nazi|Russian:нацист (natsist), Japanese:ナチ (nachi), Korean:나치 (nachi), Portuguese:Italian:nazista|
@@ -919,7 +919,7 @@
 |**nice**|underside (underneath)|Bengali:নিচে (nice), Hindi:नीचे (nīce), Urdu:(nīce), Russian:ниже (niže)|
 |**nide**|nest (hive, den)|English:nest, Spanish:nido, Portuguese:ninho, French:nid, Russian:гнездо (gnezdo), Hindi:नीड़ (nīḍa), Bengali:নীড় (nīṛa)|
 |**nili**|blue|Bengali:নীল (nīl), Hindi:नीला (nīlā), Urdu:(nīlā), Tamil:நீலம் (nīlam)|
-|**nilon**|nylon|English:Portuguese:French:nylon, Spanish:nilón, Russian:нейло́н (nejlón), Arabic:نَايْلُون‎ (nāylūn), Persian:نایلون‎ (nâylon), Malay:nilon, Mandarin:尼龙 (nílóng), Japanese:ナイロン (nairon)|
+|**nilon**|nylon|English:Portuguese:French:nylon, Spanish:nilón, Russian:нейлон (nejlon), Arabic:نَايْلُون‎ (nāylūn), Persian:نایلون‎ (nâylon), Malay:nilon, Swahili:nailoni, Mandarin:尼龙 (nílóng), Japanese:ナイロン (nairon)|
 |**ninde**|insult (offence)|Hindi:Marathi:निन्द् (nind)|
 |**nix**|niche (recess, alcove)|French:English:niche, Portuguese:nicho, Russian:ниша (niša)|
 |**no**|not (no)|English:Spanish:no, French:non, Portuguese:não, Bengali:না (na), Russian:не (nye), Hindi:नहीं (nahī̃), Korean:아니 (ani), Japanese:-ない (-nai)|
@@ -937,7 +937,6 @@
 |**nudi**|naked (bare, nude)|English:nude, Spanish:desnudo, Portuguese:French:nu|
 |**numbe**|number|English:number, French:nombre, Spanish:Portuguese:número, Russian:номер (nomer), deu:Nummer, Japanese:ナンバー (nanbā), Hindi:नंबर (nambar), Bengali:নম্বর (nômbôr), Turkish:numara, Malay:nombor, Swahili:namba(ri)|
 |**o**|or|English:or, Spanish:Filipino:o, French:Portuguese:ou, Mandarin:或 (huò), Arabic:(ʾaw)|
-|**oaze**|oasis|English:French:Spanish:Portuguese:oasis, Russian:оазис (oazis), deu:Oase, Polish:oaza, Japanese:オアシス (oashisu), Korean:오아시스 (oasiseu) + Arabic:(wāḥa), Turkish:vaha, Persian:(vāhe)|
 |**ode**|rank (position in an ordered list)|English:order, French:ordre, Spanish:orden, Portuguese:ordem, Swahili:oda + Mandarin:第 (dì), Vietnamese:đệ, Khmer:ទី (dī)|
 |**ofisia**|office (bureau)|English:French:office, Spanish:oficina, Russian:офис (ofis), Turkish:ofis, Swahili:afisi, Bengali:অফিস (ôphiś), Malay:opis, Japanese:オフィス (ofisu)|
 |**oke**|eye|Spanish:ojo, Russian:око (oko), Bengali:অক্ষি (ôkkhi) + English:Portuguese:ocular, French:oculaire|
@@ -986,7 +985,7 @@
 |**pas**|past times|English:past, Spanish:pasado, Portuguese:passado, French: passé|
 |**pasporte**|passport|English:passport, French:passeport, Spanish:pasaporte, Portuguese:passaporte, Russian:паспорт (pasport), Hindi:पासपोर्ट (pāsporṭ), Bengali:পাসপোর্ট (pasporṭ), Malay:paspor, Swahili:paspoti, Japanese:パスポート pasupōto)|
 |**paste**|paste (dough)|English:deu:paste, Russian:паста (pasta), Spanish:Portuguese:pasta|
-|**patate**|potato|French:patate, Spanish:patata, Portuguese:batata, Turkish:patates, Arabic:(baṭāṭis), English:potato, Filipino:patatas|
+|**patate**|potato|French:patate, Spanish:patata, Portuguese:batata, Turkish:patates, Arabic:(baṭāṭis), Swahili:mbatata, English:potato, Filipino:patatas|
 |**patia**|sickness (illness, disease)|deu:English:French:patho-, Spanish:Portuguese:Polish:Turkish:Malay:pato-, Russian:пато- (pato-)|
 |**pau**|gun (firearm)|Mandarin:炮 (pâo), Cantonese:炮 (paau3), Vietnamese:pháo, Korean:포 (po), mon:буу (buu)|
 |**pauze**|pause (break, interruption)|English:deu:French:pause, Spanish:Portuguese:pausa, Russian:пауза (pauza)|
@@ -1018,7 +1017,7 @@
 |**pipe**|pipe|Spanish:Malay:pipa, English:French:pipe, Persian:(pip), Vietnamese:píp|
 |**pipinga**|evaluate (review, criticise)|Mandarin:批评 (pīpíng), Vietnamese:phê bình, Korean:비평 (bipyeong)|
 |**pipre**|pepper (peppercorn)|English:pepper, deu:Pfeffer, Italian:pepe, Bengali:পিপুল (pipul), Mandarin:荜拔 (bìbá), Telugu:పిప్పలి (pippali), Persian:(pelpel), Swahili:pilipili|
-|**piram**|pyramid|English:pyramid, + Arabic:(haram)|
+|**piram**|pyramid|English:pyramid, French:pyramide, Spanish:Portuguese:pirámide, Russian:пирамида (piramida), Hindi:पिरमिड (pirmiḍ),अहराम (ahrām), Bengali:পিরামিড (piramiḍ), Malay:piramida, Japanese:ピラミッド (piramiddo), Korean:피라미드 (piramideu) + Arabic:(haram), Swahili:haram|
 |**pirater**|pirate (sea robber)|English:French:pirate, Spanish:Portuguese:pirata, deu:Pirat, Russian:пират (pirat)|
 |**piratia**|piracy|English:piracy, Spanish:piratería, Portuguese:pirataria, French:piraterie, deu:Piraterie, Russian:пиратство (piratstvo), Japanese:パイレーシ|
 |**pis**|spruce tree|Spanish:Portuguese:pícea, French:Épicéa|
@@ -1041,8 +1040,8 @@
 |**porei**|leek|Spanish:puerro, Portuguese:porro, French:poireau, deu:Porree, fin:purjo, Russian:порей (porey), Malay:perai|
 |**porne**|porn|English:porn, Spanish:Turkish:Malay:porno, Portuguese:pornô, deu:Pornografie, Russian:порно (porno), Japanese:ポルノ (poruno)|
 |**porte**|port (station)|English:port, French:porte, Spanish:Portuguese:porto, Russian:порт (port), Hindi:पोर्ट (porṭ), Urdu:(porṭ), Bengali:পোর্ট (porṭ), Thai:พอร์ต (phot)|
-|**poste**|mail|English:post, Portuguese:postagem, French:poste, Russian:почта (pochta), Arabic:بوسطة‎ (busṭa), Persian:پست‎ (post), Malay:pos|
-|**pote**|mud (mire)|Igbo:potọ potọ, Lingala:pɔtɔpɔ́tɔ, Kongo:French:poto-poto|
+|**poste**|mail|English:post, Portuguese:postagem, French:poste, Russian:почта (pochta), Arabic:بوسطة‎ (busṭa), Swahili:posta, Malay:pos|
+|**pote**|pot (vase, bin, jar)|English:French:pot, Spanish:Portuguese:pote, Malay:poci, Japanese:ポット (potto), Korean:포트 (poteu)|
 |**poze**|pose (position)|English:Spanish:Portuguese:French:pose, deu:Pose, Russian:поза (poza), Japanese:ポーズ|
 |**prate**|practice (actuality)|English:practice, French:pratique, Portuguese:prática, Turkish:pratik, Polish:praktyka, Hindi:प्रथा (prathā)|
 |**prezidente**|president|English:president, Spanish:Portuguese:presidente, Russian:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), Persian:پرزیدنت‎ (perezident), Malay:presiden|
@@ -1286,6 +1285,7 @@
 |**tunike**|tunic (gown)|Spanish:túnica, English:tunic, Russian:туника (tunika)|
 |**tupe**|hat (cap)|Malay:topi, Hindi: टोपी (ṭopī), Bengali:টুপি (ṭupi), Tamil:(toppi)|
 |**turba**|bother (annoy, disturb, irritate)|English:disturb, French:perturber, Spanish:Portuguese:perturbar|
+|**turfe**|peat|English:turf, French:tourbe, Spanish:Turkish:turba, Portuguese:turfa, Russian:торф (torf)|
 |**tuze**|rabbit (hare)|Mandarin:兔子 (tùzi), Cantonese:兔仔 (tou3zai2), Korean:토끼 (tokki), Vietnamese:thỏ, Thai:เถาะ (tho)|
 |**ulula**|howl|deu:Heulen, Italian:ululato, Turkish:uluma, Filipino:aulong,|
 |**umami**|savory (umami)|Japanese:旨味 (umami), Korean:우마미 (umami), English:French:Portuguese:Spanish:Malay:umami, Russian:умами (umami)|
@@ -1308,10 +1308,10 @@
 |**vanil**|vanilla|English:vanilla, Spanish:vainilla, Portuguese:baunilha, French:vanille, Russian:ваниль (vanil’)|
 |**varis**|heritage (legacy, bequest)|Malay:waris, Arabic:(wariþ), Swahili:urithi, Turkish:varis,miras|
 |**varke**|leaf (sheet)|Arabic:(waraqa), Hausa:warƙa, Turkish:varak, Persian:(varaqe), taj:варақа (varaqa), Swahili:waraka, + Burmese:အရွက် (arwak)|
+|**vas**|oasis|Arabic:(wāḥa), Turkish:vaha, Persian:(vāhe), English:French:Spanish:Portuguese:oasis, Russian:оазис (oazis), deu:Oase, Japanese:オアシス (oashisu), Korean:오아시스 (oasiseu)|
 |**vau**|wow! (gee!)|Mandarin:哇 (wā), English:wow|
 |**vaxa**|wash|English:wash, deu:waschen, Mandarin:洗 (xǐ)|
 |**vaxurse**|raccoon|Mandarin:浣熊, Japanese:洗熊, Italian:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
-|**vaze**|pot (vase, bin, jar, jug)|deu:English:French:vase, Polish:waza, Russian:ваза (vaza), Turkish:vazo|
 |**ve**|that|Hindi:वह (veh), Bengali:ওই (oi)|
 |**vei**|tail|Mandarin:尾 (wěi), Cantonese:尾 (mei5), Wu-Chinese:尾 (vi3), nan:尾 (bé), Japanese:尾 (bi)|
 |**venda**|sell (vend)|English:vend, Spanish:Portuguese:vender, French:vendre|
@@ -1356,7 +1356,7 @@
 |**xarme**|shame (disgrace)|Persian:(šarm),  Urdu:(śarma), Hindi:शर्म (śarma), deu:Scham, English:shame, Russian:срам (sram)|
 |**xarnir**|hinge (pivot)|French:charnière, Spanish:charnela, deu:Scharnier, Russian:шарнир (šarnir)|
 |**xarte**|condition (requirement)|Turkish:şart, Arabic:Persian:(šart), Swahili:sharuti, Hindi:शर्त (śart), Bengali:শর্ত (śôrt)|
-|**Xatan**|devil (Satan)|heb: שָׂטָן‎ (śaṭan), Arabic:(šayṭān), English:French:deu:Vietnamese:Satan, Spanish:Satán, Portuguese:Satã, Russian:Сатана (Satana), Mandarin:撒但 (Sādàn), Korean:사탄 (satan), Japanese:サタン (satan), Hindi:शैतान (śaitān), Malay:Setan, Turkish:şeytan, Swahili:Shetani|
+|**Xatan (ruhxatan)**|devil (Satan)|heb: שָׂטָן‎ (śaṭan), Arabic:(šayṭān), English:French:deu:Vietnamese:Satan, Spanish:Satán, Portuguese:Satã, Russian:Сатана (Satana), Mandarin:撒但 (Sādàn), Korean:사탄 (satan), Japanese:サタン (satan), Hindi:शैतान (śaitān), Malay:Setan, Turkish:şeytan, Swahili:Shetani|
 |**xatranje**|chess|Hindi:शतरंज (śatrañj), Urdu:(śatrañj), Persian:(šatranj), Turkish:satranç, Arabic:(šaṭranj), Swahili:sataranji, Telugu:చతురంగము (caturaṅgamu), Tamil:சதுரங்கம் (caturaṅkam), Malay:catur, Khmer:ចត្រង្គ (caʾtrɑng), Portuguese:xadrez|
 |**xavi**|little (few, not many)|Mandarin:少 (shǎo), Cantonese:少 (siu2), Japanese:少 (shō), Korean:소 (so)|
 |**xaxu**|rustle|Mandarin:(shasha), Russian:шуршать (shurshat’), Swahili:-chakacha|

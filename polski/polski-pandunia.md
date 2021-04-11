@@ -71,8 +71,8 @@ Antarktyka - Antartike
 antena - anten  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua e Barbuda  
-antonim - fannam  
-antychryst - fankriste  
+antonim - annam  
+antychryst - ankriste  
 Antyle Holenderskie - Nederlandi Antil  
 antymon - estibem  
 apsik - acu\*  
@@ -127,7 +127,7 @@ babcia (babka) - laumam
 badać, studiować - loja  
 bagaż - bagaje  
 bagietka - batonpang  
-bagno - pototopia  
+bagno (moczary) - fantopia  
 bahaista - bahayiste  
 bahaizm - bahayistia  
 Bahamy - Bahama  
@@ -277,8 +277,9 @@ ból - pax
 bąk, bączek - rototope  
 bęben - gum  
 bławatek - nilcentaur  
-błotnisty - poti  
-błoto - pote  
+błotnik - fandefban  
+błotnisty - fani  
+błoto - fan  
 błąd (pomyłka) - galte  
 błędny (niepoprawny) - galti  
 ####C - C  
@@ -455,8 +456,8 @@ deszczowy - barxi
 detal, szczegół - detal  
 dewanagari - deunagri harfe  
 dezaktualizować (pogorszyć) - dusdarja  
-diabelski, szatański - xatani  
-diabeł, szatan - Xatan  
+diabelski, szatański - Xatani  
+diabeł, szatan - Xatan (ruhxatan)  
 diament - almas  
 dioryt - diorite  
 dmuchać - hava  
@@ -706,7 +707,7 @@ gitara - gitar
 glazura (emalia) - kancodake  
 gleba bielicoziemna - huidarte  
 glin (aluminium) - aluminem  
-glina - glutopote  
+glina - glutofan  
 globalny (światowy) - panduni  
 globalny - duni  
 glutaminian sodu - vijin  
@@ -876,6 +877,8 @@ ilość - polia
 ilustrator, grafik - grafer  
 iluzja (halucynacja) - falsvide  
 imbir - zinje  
+imbryk (czajnik) - caipote  
+imbryk do kawy - kafepote  
 imię, nazwa - nam  
 imperator - imperer  
 imperialista - imperiste  
@@ -1743,7 +1746,7 @@ numer - numbe
 nylon - nilon  
 nóż - cake  
 ####O - O  
-oaza - oaze  
+oaza - vas  
 obcęgi, kleszcze, szczypce - pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zayi  
 obiad, lunch - denyam  
@@ -2247,8 +2250,7 @@ przechylać (przechylić, wychylać, wychylić) - terca
 przeciekać, ciec - lova  
 przecinek - kom  
 przeciwnie do ruchu wskazówek zegara - rotolefto  
-przeciwnik (antagonista) - faner  
-przeciwstawny (naprzeciw, naprzeciwko, anty-) - fani  
+przeciwnik (antagonista) - xatan  
 przedmiot (obiekt) - vute  
 przedpołudnie - suboden  
 przedrostek (prefiks) - cenfikse  
@@ -2668,7 +2670,7 @@ sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - genca
 sprawiedliwość - adalia  
 sprawiedliwy - adali  
 sprawić ból, sprawiać ból - paxa  
-sprzeciwiać się (opierać się) - fana  
+sprzeciwiać się (opierać się) - xata  
 sprzedać (sprzedawać) - venda  
 sprzątacz, sprzątacz - safer  
 spróbować, próbować - testa  
@@ -2887,7 +2889,7 @@ teologia - deulojia
 teoria - teoria  
 teozofia - deusofia  
 tera- - tera\*  
-terakota - bekopote  
+terakota - bekofan  
 teraźniejszość, współczesność (teraz) - zai  
 teraźniejszość, współczesność - zayia  
 terb - terbem  
@@ -3079,8 +3081,7 @@ warzywo - yamfite
 Waszyngton D.####C - Vaxington DC  
 wat - vate  
 Watykan, Państwo Watykańskie - Vatikan  
-waza, garnek, pojemnik, słoik, dzban - vaze  
-wazon; donica, doniczka - fulvaze  
+wazon - jar  
 ważka - libel  
 ważny - hami  
 wciąż, nadal - zoko  

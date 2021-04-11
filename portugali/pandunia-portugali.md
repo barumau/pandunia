@@ -44,11 +44,11 @@ andiniste - infiel
 anmema - esquecer  
 ansomia - insônia  
 andesite - andesito  
+angar - âncora  
 angul - dedo  
 angulmarke - impressão digital  
 angulpike - ponta do dedo  
 anjil - mensagem  
-angar - âncora  
 aple - maçã  
 aplosaus - purê de maçã  
 aplika - usar  
@@ -132,7 +132,7 @@ bazar - mercado (bazar)
 bebe - bebê  
 bedinje - beringela  
 beker - padeiro  
-bekopote - terracota  
+bekofan - terracota  
 bel - pá  
 ber - baga  
 berande - sacada (varanda)  
@@ -171,6 +171,7 @@ buton - botão
 ####C - C  
 cai - chá  
 caikupe - chavena (tigela de chá)  
+caipote - bule  
 cakre - roda  
 camace - colher  
 canse - chance  
@@ -265,6 +266,9 @@ evanjil - evangelho
 euloge - elogio  
 europobalute - carvalho-roble  
 ####F - F  
+fan - lama (lodo)  
+fandefban - para-lama  
+fantopia - pântano  
 fas - face (faceta)  
 fasteli - profundo  
 fasili - fácil  
@@ -297,6 +301,7 @@ fuka - vestir
 fuke - roupa (vestidura)  
 fuku - trajar (vestir-se)  
 ful - flor  
+fulpote - vaso de flores  
 fung - fungo  
 fungopal - cogumelo  
 futobol - futebol  
@@ -333,8 +338,8 @@ glisu - deslizar
 gluta - colar (aderir)  
 gluti - pegajoso (adesivo)  
 glutobende - penso (band-aid)  
+glutofan - argila  
 glutograf - adesivo  
-glutopote - argila  
 gol - meta (gol)  
 goril - gorila  
 goton - algodão  
@@ -433,6 +438,7 @@ jamul - jambolão (jambo)
 jan - pessoa  
 janel - janela  
 jangle - selva (floresta, jângal)  
+jar - jarra (jarro)  
 jau - cevada  
 javabe - resposta  
 jeka - emprestar (pedir emprestado)  
@@ -464,6 +470,7 @@ ko? - como
 kaboge - abóbora (jerimun)  
 kafe\* - café  
 kafekan - café  
+kafepote - cafeteira  
 kaguje - papel  
 kagujolimon - lima  
 kali harfe - espaço  
@@ -738,7 +745,6 @@ novike - novato (neófito)
 numbe - número  
 ####O - O  
 o - ou  
-oaze - oasis  
 oke - olho  
 oki - ocular  
 okosuigas - gás lacrimogéneo  
@@ -809,6 +815,7 @@ pinkardon - acanto-bastardo
 pinsoban - prancheta  
 pipre - pimenta  
 piprominte - hortelã-pimenta  
+piram - pirâmida  
 piratia - pirataria  
 pis - pícea (espruce)  
 plan - plano  
@@ -824,7 +831,8 @@ porte - porto
 portoriki - porto-riquenho  
 Portorikia - Porto Rico  
 postomarke - carimbo  
-pote - lama  
+poter - oleiro  
+poteria - cerâmica  
 problem - problema  
 program - programa  
 projete - projeto  
@@ -991,6 +999,7 @@ valu - valer
 vampir - vampiro  
 varkalge - kelp  
 varkolate - página  
+vas - oasis  
 vaxurse - guaxinim (rato-lavadeiro)  
 venda - vender  
 vendoxopa - торговать  
@@ -1032,7 +1041,7 @@ xanti - tranquilo (calmo)
 xarke - tubarão  
 xata - opor  
 xatan - adversário  
-Xatan - Satanás  
+Xatan (ruhxatan) - Satanás  
 xavi - poucos  
 xef - chefe  
 xei - coisa  

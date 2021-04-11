@@ -42,14 +42,15 @@ amer - любовник
 amirlinye - командная строка  
 andiniste - неверующий  
 anmema - забывать  
+annam - антоним  
 ansomia - бессонница (инсомния)  
 andesite - андезит  
+angar - якорь  
 angul - палец  
 angulmarke - отпечаток пальца  
 angulpike - кончик пальца  
 anim - оживление  
 anjil - месседж  
-angar - якорь  
 anten - антенна  
 anus - анус  
 aple - яблоко  
@@ -141,8 +142,8 @@ bazoxulkan - семилетка
 bazar - рынок (базар)  
 bebe - младенец  
 beker - хлебопёк (пекарь)  
+bekofan - терракота  
 bekokan - пекарня (булочная)  
-bekopote - терракота  
 bel - лопата  
 ber - ягода  
 berande - балкон  
@@ -193,6 +194,7 @@ buton - пуговица
 cai - чай  
 caikan - чайная (чайхана)  
 caikupe - чайная чашка  
+caipote - чайник  
 cakre - колесо  
 camace - ложка  
 canse - возможность (шанс)  
@@ -304,6 +306,8 @@ euloge - панегирик
 europobalute - дуб черешчатый  
 ####F - F  
 faidia - применение (утилитарность)  
+fan - болото  
+fantopia - болото (топь)  
 fas - грань  
 fasteli - глубокий  
 fastelia - мелкий  
@@ -342,6 +346,7 @@ fuki - оде́тый
 fuku - носить (одеваться)  
 ful - цветок  
 fulmosim - весна  
+fulpote - цвето́чный горшок  
 fungopal - гриб  
 futobol - футбол  
 futomarke - след ноги  
@@ -378,8 +383,8 @@ glisu - задвигаться (скользи́ть)
 gluta - клеиться  
 gluti - клейкий (липкий)  
 glutobende - пластырь  
+glutofan - глина  
 glutograf - наклейка  
-glutopote - глина  
 gol - цель  
 goril - горилла  
 goton - хлопок  
@@ -488,6 +493,7 @@ jagu - проснуться
 jamul - джамболан  
 janel - окно  
 jangle - лес (джунгли)  
+jar - кувшин (графин)  
 jau - ячмень  
 javabe - ответ  
 jena - родить  
@@ -522,6 +528,7 @@ kababi manse - кебаб
 kaboge - тыква  
 kafe\* - кофе  
 kafekan - кафе (кофейня)  
+kafepote - кофейник  
 kaguje - бумага  
 kagujolimon - лайм  
 kali - пустой  
@@ -802,6 +809,7 @@ neurcel - нейрон
 nide - гнездо (улей)  
 nili - синий (голубой)  
 nilcentaur - василёк синий  
+nilon - нейлон  
 Nipon - Япония  
 nix - ниша  
 noce - ночь  
@@ -813,7 +821,6 @@ novike - новичок
 numbe - число  
 ####O - O  
 o - или  
-oaze - oasis  
 ode - ранг  
 oke - глаз (око)  
 oki - глазной  
@@ -892,6 +899,7 @@ pinkardon - татарник колючий
 pinsoban - планшет  
 pipre - перец  
 piprominte - мята перечная  
+piram - пирамида  
 pis - ель  
 pize - пицца  
 plan - план  
@@ -909,7 +917,8 @@ porte - порт
 portoriki - пуэрториканец  
 Portorikia - Пуэрто-Рико  
 postomarke - почтовый штемпель  
-pote - болото  
+poter - гончар  
+poteria - гончарное дело  
 problem - проблема  
 problemi - проблематичный  
 program - программа  
@@ -1122,11 +1131,11 @@ val - ценность
 vala - оценивать  
 vampir - вампир (упырь)  
 vampirbalsenter - адский вампир  
+vas - oasis  
 vau - вау!  
 vaxa - мыть  
 vaxmaxin - стиральная машина  
 vaxurse - енот  
-vaze - ваза  
 vei - хвост  
 venda - продать  
 vendoxopa - обмениваться  
@@ -1171,7 +1180,7 @@ xanti - спокойный
 xarke - акула  
 xata - противостоять  
 xatan - противник  
-Xatan - Сатана  
+Xatan (ruhxatan) - Сатана  
 xavi - мало  
 xaxu - шурша́ть  
 xef - шеф  
