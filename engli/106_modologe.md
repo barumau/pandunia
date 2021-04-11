@@ -48,29 +48,29 @@ Modifiers can be compared with the adverbs of comparison.
   (_as_ or _equally_) indicates the comparison of equality
 
 The particle
-**ka**
+**la**
 relates the adverbs of comparison to the object of comparison.
 
-**aple sa max boni ka oranje.**
+**aple sa max boni la oranje.**
 = Apples are better than oranges.  
-**oranje sa min boni ka aple.**
+**oranje sa min boni la aple.**
 = Oranges are less good than apples.  
-**te loga paro bono ka me.**
+**te loga paro bono la me.**
 = You speak as well as me.
 
 It is also possible to compare modifiers with the following verbs,
 which are directly attached to the object of comparison.
 
-- **maxu**
+- **maxa**
   (_to exceed_)
-- **minu**
+- **mina**
   (_to subceed_)
-- **paru**
+- **para**
   (_to equal_)
 
-**aple sa boni maxu oranje.**
+**aple sa boni maxa oranje.**
 – Apples are good, exceed oranges. _meaning:_ Apples are better than oranges.  
-**oranje sa boni minu aple.**
+**oranje sa boni mina aple.**
 – Oranges are good, subceed apples. _meaning:_ Oranges are less good than apples.  
 **te loga bono para me.**
 – You speak well, equal me. _meaning:_ You speak as well as me.
@@ -99,7 +99,7 @@ Here are some of the most frequently used adverbs:
 – because  
 **kontro**
 – against  
-**maxo**
+**maxodo**
 – additionally  
 
 A complement can be added with the preposition **da**.
@@ -109,6 +109,6 @@ A complement can be added with the preposition **da**.
 **me vida lole paso da unyom.**
 – I have seen them before Monday.
 
-**me vola xopa tougar maxo da motogar.**
+**me vola xopa tougar maxodo da motogar.**
 – I want to buy a trailer in addition to the car.
 

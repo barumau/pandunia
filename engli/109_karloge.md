@@ -2,30 +2,30 @@
 
 ## Verb types
 
-A verb denotes an action or an occurence, for example to eat, to speak, to look and to think.
+A verb denotes an action or an occurence, for example to eat, to break, to want, or to go.
 
 A verb can involve an agent and a patient.
-The agent performs or "causes" an action,
-and the patient receives or "experiences" the action.
+The agent is the doer of the action, the stimulus of the emotion, or the body of the movement.
+The patient, if there is one, is the target of the action, the experiencer of the emotion, or the reference of the movement.
 
 There are three types of verbs in Pandunia:
 
-1. Agent-oriented verbs: The subject does the action in the SVO word order.
+1. Agent-oriented: The subject is the agent, and does the action to the patient.
    The the verb ends in **-a**.
-2. Patient-oriented-verbs: The subject "suffers" the action in the SVO word order.
+2. Patient-oriented: The subject is the patient, and "suffers" the action done by the agent.
    The verb ends in **-u**.
-3. Stative: The subject is in the state that is indicated by the verb.
+3. Stative: The subject is the patient, and is in the state that is indicated by the verb.
    The verb ends in **-i**.
 
 Consider the following examples:  
 **me safa.**
-– I clean. (active verb)  
+– I clean. (agent-oriented verb)  
 **me safa kamar.**
-– I clean a room. (active verb with an object)  
+– I clean a room. (agent-oriented verb with an object)  
 **kamar safu.**
-– The room is cleaned. (passive verb)  
+– The room is cleaned. (patient-oriented verb)  
 **kamar safu me.**
-– The room is cleaned by me. (passive verb with postponed agent)  
+– The room is cleaned by me. (patient-oriented verb with postponed agent)  
 **kamar safi.**
 – The room is clean. (stative verb)
 
@@ -56,18 +56,20 @@ If there is a word immediately after the verb, it is the patient.
 #### Order A-1: Agent, verb and patient
 
 The most common word order in Pandunia is agent–verb–patient.
-It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
+It places the focus on the agent of the action.
 
 Examples:  
 **me vida lole.**
 – I see them.  
-**te beka pang.**
-– You bake bread.  
+**bace parca kupe.**
+– The child breaks the cup.  
+**lole suka rajer.**
+– They please the king.  
 
 #### Order A-2: Patient, agent and verb
 
 The second order is patient–agent–verb.
-It is frequent in dependant clauses.
+It is frequent in dependent clauses.
 
 Examples:  
 **ke te vida?**
@@ -183,7 +185,7 @@ for the normal subject–verb–object word order.
 | **lai**        | **layi**       | **layu**       | **laya**       |
 | arrival        |                | get reached    | arrive, reach  |
 | **fuke**       | **fuki**       | **fuku**       | **fuka**       |
-| clothing       | clothed        | be worn        | wear           |
+| clothing       | worn           | be put on      | put on         |
 | **dur**        | **duri**       | **duru**       | **dura**       |
 | time, duration | lasting        | last, take time| spend, put time|
 
@@ -198,7 +200,7 @@ It is the active participle suffix.
 – to speak  
 **logani**
 – speaking  
-**logane**
+**logan**
 – the one who speaks
 
 **-it-**
