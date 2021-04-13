@@ -52,6 +52,7 @@ konta_asar() {
    echo "$2 $asar $3 $percent%"
    #echo "$2 $((($asar/10)/$3))%" >> temp/stats.txt
    echo "$2 $percent%" >> temp/stats.txt
+   echo "$1,$asar" >> temp/asarnumbe.csv
 }
 
 fata_table() {
@@ -66,6 +67,7 @@ fata_table() {
 fata_leksasli_liste
 
 rm temp/stats.txt
+rm temp/asarnumbe.csv
 pan=$(cat temp/logaslia.txt | grep -c ":" )
 #echo "pan $pan 100%" >> temp/stats.txt
 
@@ -95,6 +97,7 @@ perl -pi -e 's/ \n/ /' temp/stats.txt
 
 #ratiba la dayi va lili numbe, ya kolum 2
 #sort -rn -k2 temp/stats.txt -o temp/stats.txt
+sort --field-separator=',' --key=2 -rn temp/asarnumbe.csv -o temp/asarnumbe.csv
 
 fata_table
 

@@ -1,3 +1,4 @@
+#!/bin/bash
 kitaba_pike() {
    echo "#numbe da panduni loge la ali bax" > pandunia/loge_du_numbe.md
    echo "" >> pandunia/loge_du_numbe.md
@@ -16,19 +17,9 @@ konta_bax() {
    # uza grep va konta di konte
    bax=$(cat temp/logaslia.txt | grep -c "$1:")
    #kitaba konte e 100-fen
-   echo "$2 $bax $((($bax*100)/$3))%" >> temp/stats.txt
-}
-
-konta_baxi_aria()
-{
-   echo "europi " >> temp/stats.txt
-   cat temp/logaslia.txt | grep -E "(eng:|fra:|spa:|por:|deu:|rus:)" -c >> temp/stats.txt
-   echo "barti " >> temp/stats.txt
-   cat temp/logaslia.txt | grep -E "(hin:|urd:|ben:|tam:|tel:|kan:)" -c >> temp/stats.txt
-   echo "cini " >> temp/stats.txt
-   cat temp/logaslia.txt | grep -E "(zho:|yue:|wuu:)" -c >> temp/stats.txt
-   echo "afriki " >> temp/stats.txt
-   cat temp/logaslia.txt | grep -E "(swa:|hau:|yor:|ibo:|amh:|orm:)" -c >> temp/stats.txt
+   percent=$(printf "%.0f" $(echo "scale=2;($bax*100)/$3" | bc))
+   echo "$2 $bax $percent%" >> temp/stats.txt
+   echo "$1,$percent" >> temp/logonumbe.csv
 }
 
 fata_table() {
@@ -43,6 +34,7 @@ fata_table() {
 fata_leksasli_liste
 
 rm temp/stats.txt
+rm temp/logonumbe.csv
 pan=$(cat temp/logaslia.txt | grep -c ":" )
 echo "pan $pan 100%" >> temp/stats.txt
 
@@ -54,8 +46,8 @@ konta_bax rus rusi $pan
 
 konta_bax hin hindustani $pan
 konta_bax ben bangli $pan
-konta_bax fas farsi $pan
-konta_bax tur turki $pan
+#konta_bax fas farsi $pan
+#konta_bax tur turki $pan
 
 konta_bax zho cini $pan
 konta_bax jpn niponi $pan
@@ -72,6 +64,7 @@ perl -pi -e 's/ \n/ /' temp/stats.txt
 
 #ratiba la dayi va lili numbe, ya kolum 2
 sort -rn -k2 temp/stats.txt -o temp/stats.txt
+sort --field-separator=',' --key=2 -rn temp/logonumbe.csv -o temp/logonumbe.csv
 
 fata_table
 
