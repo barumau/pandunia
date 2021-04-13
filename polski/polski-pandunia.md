@@ -663,7 +663,7 @@ fonologia - fonlojia
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
 formatowanie - kitaboforme  
-formularz (kwestionariusz) - eskodokum  
+formularz (kwestionariusz) - sualdokum  
 forum - forum  
 fosfor - pospor  
 fotograf - fotografer  
@@ -1258,7 +1258,7 @@ Kuwejt - Kuvaitia
 kwadrat (czworokąt, czworobok, tetragon) - cargon  
 kwarc - kuarze  
 kwaśny - suani  
-kwestia, problem - eskotem  
+kwestia, problem - sualtem  
 kwiat - ful  
 kwiecień - desdullun  
 kwitnąć, rozkwitnąć, rozkwitać - fulu  
@@ -2342,8 +2342,8 @@ pusty - kali
 pustynia - regotopia  
 pułapka - kapotruke  
 pyszny - yami  
-pytajny, związany z pytaniem - eskan  
-pytanie - eske  
+pytajny, związany z pytaniem - sualan  
+pytanie - sual  
 pył - fun  
 półka (regał na książki) - liboban  
 północ - norde  
@@ -2849,7 +2849,7 @@ Tajlandia - Tayia
 Tajpej - Taibei  
 tajski - tayi  
 Tajwan, Republika Chińska - Taivan  
-tak - ye  
+tak - ha  
 taki sam - sami  
 taksometr - taksometrer  
 taktyka, strategia - tatike  
@@ -3357,7 +3357,7 @@ zapożyczenie (wyraz obcy) - jekologe
 zaprosić, zapraszać - cinga laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
-zapytać, spytać, pytać - eska  
+zapytać, spytać, pytać - suala  
 zapłacić, opłacić, płacić - peya  
 zapłata, opłata - pei  
 zaratrustianin - zarduxiste  

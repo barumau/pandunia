@@ -295,7 +295,6 @@
 |**er**|przyrostek dla wykonawcy|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |**esei**|esej|eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|
 |**eskal**|schody (drabina)|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
-|**eske**|pytanie|eng:ask|
 |**eskulter**|rzeźbiarz|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**esponje**|gąbka|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
 |**estadia**|stadion, arena|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
@@ -1162,6 +1161,7 @@
 |**sor**|zamek (zapięcie)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|społeczeństwo, system społeczny|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|kiełbasa|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
+|**sual**|pytanie|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali |
 |**suani**|kwaśny|zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|
 |**suar**|wieczór|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
 |**sube**|ranek, rano, poranek|ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|
@@ -1355,7 +1355,6 @@
 |**yasen**|jesion|rus:ясень (yasen’), pol:jesion|
 |**yatim**|sierota|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
 |**yau**|potrzeba|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
-|**ye**|tak|[ye] eng:yes;yeah, kor:예 (ye), may:ya + [ya] zho:有 (yǒu), yue:有 (yau5) + fra:il y a|
 |**yei**|jej|eng:yay, pol:jej, jpn:イエイ (iei)|
 |**yeze**|kokos|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
 |**yoge**|joga|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|

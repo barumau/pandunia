@@ -419,8 +419,6 @@ emos - émotion
 emoshal - humeur  
 englofoni - anglophone  
 englomargarite - pâquerette  
-eska - demander (poser un question; est-ce que)  
-eske - question  
 eskaltan - vigne  
 Eskandia - Scandinavie  
 eskulter - sculpteur  
@@ -540,6 +538,7 @@ gunrajer - généralissime
 gute - genou  
 ####H - H  
 ha - avec (avoir)  
+ha - oui  
 haha - rire  
 hai - mer  
 hayalge - algues  
@@ -593,7 +592,6 @@ huri - libre
 ya - a (dans, en, chez)  
 ya ke - où  
 ya linye - en ligne  
-ye - oui  
 Yahve - Yahweh (Jéhovah)  
 yamfite - légume  
 yamyau - faim  
@@ -1199,6 +1197,8 @@ son - son
 sor - serrure  
 sosia - société  
 sosis - saucisse  
+sual - question  
+suala - demander (poser un question; est-ce que)  
 suar - soir (soirée)  
 suede - sueur  
 sui - eau  

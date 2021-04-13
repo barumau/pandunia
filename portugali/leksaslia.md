@@ -137,7 +137,6 @@
 |**em**|elemento|eng:-eme, spa:por:-ema, fra:-ème, rus:-ема (-ema), may:-em|
 |**emoje**|emoticon (emoji)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**emos**|emoçao|eng:emotion, fra:émotion, spa:emoción, por:emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|
-|**eske**|questão (pergunta)|eng:ask|
 |**eskulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**esponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
 |**estan**|estanho|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
@@ -484,6 +483,7 @@
 |**sor**|fechadura|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|sociedade|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|salsicha|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
+|**sual**|questão (pergunta)|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali |
 |**suar**|noitinha|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
 |**suede**|suor|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |**sui**|água|zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su|
@@ -549,7 +549,6 @@
 |**xur**|começo (início, princípio)|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
 |**yasen**|freixo|rus:ясень (yasen’), pol:jesion|
 |**yau**|necessidade|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
-|**ye**|sim|[ye] eng:yes;yeah, kor:예 (ye), may:ya + [ya] zho:有 (yǒu), yue:有 (yau5) + fra:il y a|
 |**yoke**|jugo|eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách|
 |**yongu**|derretre|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|
 |**zebre**|zebra|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|

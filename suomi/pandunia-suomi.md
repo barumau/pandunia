@@ -789,11 +789,6 @@ erbem - erbium
 Eris - Eris (kääpiöplaneetta)  
 Eritria - Eritrea  
 esei - essee  
-eska - kysyä  
-eske - kysymys  
-eskan - kysyvä  
-eskodokum - kyselylomake  
-eskotem - asia (juttu)  
 eskal - portaat (rappuset, tikkaat)  
 eskala - kiivetä  
 eskaltan - köynnös  
@@ -1146,6 +1141,7 @@ gustu ko - maistua
 gute - polvi  
 ####H - H  
 ha - kanssa (kera, -lla)  
+ha - kyllä  
 he - joku (jokin)  
 habar - uutinen  
 habargazete - sanomalehti  
@@ -1283,7 +1279,6 @@ ya - luona (-lla, -ssa)
 ya ke - missä?  
 ya ve - siellä (tuolla)  
 ye - tämä  
-ye - kyllä  
 yi - tämä  
 yaga - arvioida  
 yago - noin (arviolta, suunnilleen)  
@@ -2886,6 +2881,11 @@ sosistia - sosialismi
 sosis - makkara  
 Soto - Lesoto  
 suahili - suahili  
+sual - kysymys  
+suala - kysyä  
+sualan - kysyvä  
+sualdokum - kyselylomake  
+sualtem - asia (juttu)  
 Sualbarde - Svalbard  
 suan - happo  
 suani - hapan (kirpeä)  

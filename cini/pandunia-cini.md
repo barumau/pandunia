@@ -265,8 +265,6 @@ eletrorade - 闪电
 emoje - 绘文字  
 emoshal - 心情  
 englomargarite - 雛菊  
-eska - 问  
-eske - 问题  
 esponje - 海绵  
 estan - 锡  
 estibem - 锑  
@@ -363,6 +361,7 @@ gunrajer - 大元帅
 gute - 膝  
 ####H - H  
 ha - 有  
+ha - 对 (是)  
 habar - 消息  
 haha - 笑  
 hai - 海  
@@ -418,7 +417,6 @@ huria - 自由
 ####I - I  
 ya - 在  
 ya linye - 在线  
-ye - 对 (是)  
 Yahve - 耶和华 (雅威)  
 yamfite - 蔬菜  
 yamyau - 饥饿  
@@ -945,6 +943,8 @@ sor - 锁
 sosi jinse - 社會性別  
 sosia - 社会  
 sosis - 香肠  
+sual - 问题  
+suala - 问  
 suar - 晚上  
 sui - 水  
 suigas - 蒸汽  

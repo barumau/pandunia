@@ -842,11 +842,6 @@ erbem - erbium
 Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
 esei - essay  
-eska - ask (inquire)  
-eske - question (query, inquiry)  
-eskan - interrogative  
-eskodokum - form (questionaire)  
-eskotem - issue (affair, concern)  
 eskal - stairs (ladder)  
 eskala - climb (get on)  
 eskaltan - vine  
@@ -1227,6 +1222,7 @@ gustu ko - taste like
 gute - knee  
 ####H - H  
 ha - with (there be; have)  
+ha - yes  
 he - one (someone)  
 habar - news  
 habargazete - newspaper (gazette)  
@@ -1383,7 +1379,6 @@ ya ke - where
 ya linye - online  
 ya ve - there  
 ye - this  
-ye - yes  
 yi - this  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
@@ -3299,6 +3294,11 @@ sosistia - socialism
 sosis - sausage  
 Soto - Lesotho  
 suahili - Swahili  
+sual - question (query, inquiry)  
+suala - ask (inquire)  
+sualan - interrogative  
+sualdokum - form (questionaire)  
+sualtem - issue (affair, concern)  
 Sualbarde - Svalbard  
 suan - acid  
 suani - sour  

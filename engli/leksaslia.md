@@ -307,7 +307,6 @@
 |**er**|doer (agent, actor)|English: -er, deu: -er, French: -eur, Spanish: -ero, Portuguese: -eiro|
 |**esei**|essay|English:essay, Spanish:ensayo, Portuguese:ensaio, French:essai, deu:Essay, Russian:эссе (esse), Japanese:エッセイ (essei)|
 |**eskal**|stairs (ladder)|French:escalier, Spanish:escalera, Portuguese:escada, + English:scale, deu:Skale, Russian:шкала (škala)|
-|**eske**|question (query, inquiry)|English:ask|
 |**eskulter**|sculptor|Spanish:Portuguese:escultor, French:sculpteur, English:sculptor, Russian:скульптор (skulptor)|
 |**esponje**|sponge|English:sponge, Spanish:Portuguese:esponja, Arabic:إسفنج (ʾisfanj), Persian:اسفنج‎ (esfanj), Hindi:स्पंज (spanja), Japanese:スポンジ (suponji), Malay:spon, Swahili:sponji|
 |**estadia**|stadium (arena)|French:stade, Portuguese:estádio, Spanish:estadio, Russian:стадион (stadion), English:stadium, Turkish:stadyum, Arabic:(ʾistād), Hindi:स्टेडियम (sṭeḍiyam)|
@@ -1195,6 +1194,7 @@
 |**sor**|lock (fastener)|Mandarin:锁 (suǒ), Cantonese:鎖 (so2), Wu-Chinese:鎖 (su2), Japanese:錠 (jō), Khmer:សោ (sao), Spanish:cierre, French:serrure, Hungarian:zár|
 |**sosia**|society (association)|Russian:социум (socium), English:society, Spanish:sociedad|
 |**sosis**|sausage|French:saucisse, Turkish:Malay:sosis, Persian:(sosis), Russian:сосиска  (sosiska), Japanese:ソーセージ (sosēji), Hindi:सॉसेज (sosej), Bengali:সসেজ (sôsej), English:sausage|
+|**sual**|question (query, inquiry)|Arabic: سؤال (su'āl), Hindi:सवाल (savāl), Malay:soal, Swahili:swali |
 |**suani**|sour|Mandarin:酸 (suān), Cantonese:酸 (syun1), Wu-Chinese:酸 (soe1), Japanese:酸 (san), Korean:산 (san), Vietnamese:toan|
 |**suar**|evening|French:soir, English:soiree, Russian:суаре (suare), Turkish:suare + Malay:sore|
 |**sube**|morning (dawn)|Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba|
@@ -1395,7 +1395,6 @@
 |**yatim**|orphan|Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)|
 |**yau**|need (shortage, lack)|Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu|
 |**ye**|this|Hindi:यह (yeh), Bengali:এই (ei), Korean:이 (i)|
-|**ye**|yes|[ye] English:yes;yeah, Korean:예 (ye), Malay:ya + [ya] Mandarin:有 (yǒu), Cantonese:有 (yau5) + French:il y a|
 |**yei**|yay! (yeah!)|English:yay, Polish:jej, Japanese:イエイ (iei)|
 |**yeze**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|
 |**yoge**|yoga|Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)|

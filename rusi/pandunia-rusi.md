@@ -296,9 +296,6 @@ emos - эмоция (чувство)
 emosi - эмоциональный  
 emoshal - настроение  
 englomargarite - маргаритка многоле́тняя  
-eska - спрашивать  
-eske - вопрос  
-eskodokum - анкета  
 eskala - подниматься  
 eskulter - скульптор  
 esponje - губка  
@@ -406,6 +403,7 @@ gunrajer - генералиссимус
 gute - колено  
 ####H - H  
 ha - с (иметь)  
+ha - да  
 habar - новости  
 haha - смеяться  
 hai - море  
@@ -456,7 +454,6 @@ huri - свободный (вольный)
 ####I - I  
 ya - в  
 ya linye - онлайн  
-ye - да  
 Yahve - Яхве (Иегова)  
 yamfite - овощ  
 yamyau - голод  
@@ -1058,6 +1055,9 @@ sori - запереть
 sosi jinse - гендер  
 sosia - общество (социум)  
 sosis - колбаса (сосиска)  
+sual - вопрос  
+suala - спрашивать  
+sualdokum - анкета  
 suar - вечер  
 sui - вода  
 suigas - пар  

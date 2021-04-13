@@ -846,11 +846,6 @@ erb.em:|erbem|mate|Er||erbium||erbio|||||||||||||erbio|erbium|erb
 Eris:|Eris||||Eris (dwarf planet)||Eris (planeta enano)|||||||||||||Eris (planedeto)|Eris (kääpiöplaneetta)|Eris (planeta karłowata)
 Eritr:ia|Eritria|dex|ER||Eritrea||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea
 esei:|esei|||eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|essay||ensayo (redacción)||||||||||||||essee|esej
-esk:a|eska||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
-esk:e|eske|||eng:ask|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
-esk.an:|eskan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
-esk.o.dokum:|eskodokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
-esk.o.tem:|eskotem||||issue (affair, concern)||asunto (caso)||||||||||||||asia (juttu)|kwestia, problem
 eskal:|eskal|||fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|stairs (ladder)||escalera|||||||||||||ŝtuparo|portaat (rappuset, tikkaat)|schody (drabina)
 eskal:a|eskala||||climb (get on)||escalar||подниматься|||上る (乗る, よじ登る)|||||||||kiivetä|wspinać się (wspiąć się)
 eskal.tan:|eskaltan||||vine|vigne|enredadera|||||蔓草|||||||||köynnös|pnącz
@@ -1232,6 +1227,7 @@ gust:u k:o|gustu ko||||taste like||tener gusto a|||||||||||||gusti kiel|maistua|
 gut:e|gute|||swa:goti, guj:ઘૂંટણ (ghū̃ṭaṇ), hin:घुटना (ghuṭnā), mar:गुडघा (guḍghā)|knee|genou|rodilla|joelho|колено||膝|膝|무릎|đầu gối|घुटना|হাঁটু|lutut|goti|diz|genuo|polvi|kolano
 H|H||||H|H|H|H|H|H|H|H|H|H|H|H|H|H|H|H|H|H
 h:a|ha|prep.|||with (there be; have)|avec (avoir)|con (tener)||с (иметь)||有|||||||||havi (teni)|kanssa (kera, -lla)|mieć (trzymać)
+h:a|ha||||yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 h:e|he||||one (someone)||||||||||||||||joku (jokin)|
 habar:|habar|||ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|news||noticias||новости||消息||||ख़बर||kabar|habari|haber|novaĵoj|uutinen|wiadomość, nius
 habar.gazet:e|habargazete||||newspaper (gazette)||periódico (diario)|||||||||||||gazeto|sanomalehti|gazeta
@@ -1388,7 +1384,6 @@ i:a k:e|ya ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|g
 i:a lini:e|ya linye||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 i:a u:e|ya ve||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
 i:e|ye|||hin:यह (yeh), ben:এই (ei), kor:이 (i)|this|||||||||||||||ĉi tio|tämä|
-i:e|ye|||[ye] eng:yes;yeah, kor:예 (ye), may:ya + [ya] zho:有 (yǒu), yue:有 (yau5) + fra:il y a|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 i:i|yi||||this|||||||||||||||ĉi tiu|tämä|
 iag:a|yaga||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 iag:o|yago|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
@@ -3311,6 +3306,11 @@ sos.ist:ia|sosistia||||socialism||socialismo||||||||||||||sosialismi|socjalizm
 sosis:|sosis|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage|saucisse|salchicha|salsicha|колбаса (сосиска)|سُجُق|香肠|ソーセージ|||सॉसेज||sosis (sosej)|soseji||kolbaso|makkara|kiełbasa
 Soto:|Soto|dex|LS||Lesotho||Lesoto||||||||||||||Lesoto|Lesotho
 suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
+sual:|sual|||ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali |question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
+sual:a|suala||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
+sual.an:|sualan||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
+sual.dokum:|sualdokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
+sual.tem:|sualtem||||issue (affair, concern)||asunto (caso)||||||||||||||asia (juttu)|kwestia, problem
 Sualbard:e|Sualbarde|dex|||Svalbard||Svalbard||||||||||||||Svalbard|Swalbard
 suan:|suan||||acid|||||||||||||||acido|happo|
 suan:i|suani|||zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny

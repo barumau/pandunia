@@ -85,7 +85,7 @@ Thanks!
 **multo danke!**
 Thanks a lot!
 
-**ye, danke.**
+**ha, danke.**
 Yes, thank you.
 
 **no, danke.**
@@ -199,51 +199,51 @@ I greet him/her.
 <small>Etymology. **le** is from French: il/le, Spanish: él/le.</small>
 
 
-### eska <small>to ask a question</small>
+### suala <small>to ask a question</small>
 
 <p style="font-size:5em">🤔❓</p>
 
-**eska te sa Tomas?**
+**suala te sa Tomas?**
 Are you Thomas?
 
-**eska te sa mediker?**
+**suala te sa mediker?**
 Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **eska**.
+Tip: Yes/no questions frequently begin with **suala**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**me eska te mediker.**
+**me suala te mediker.**
 (I ask, you doctor?) by dropping out the first word.
 
-**eska te boni?**
+**suala te boni?**
 How are you? (Literally: _Are you good?_)  
 **me boni.**
 I'm good.  
-**eska te?**
+**suala te?**
 And you?  
 **me no boni.**
 I'm not good.
 
-<small>Etymology. **eska**
+<small>Etymology. **suala**
 is from French: est-ce que /ɛskə/,
 Haitian Creole: èske,
 English: ask.</small>
 
 
-### ye <small>yes</small>
+### ha <small>yes</small>
 
 <p style="font-size:5em">👍</p>
 
-**eska te sa Tomas?**
+**suala te sa Tomas?**
 Are you Thomas.
 
-**ye, me sa Tomas.**
+**ha, me sa Tomas.**
 Yes, I am Thomas.
 
-**eska le sa mediker?**
+**suala le sa mediker?**
 Is he/she a doctor?
 
-**ye, le sa mediker.**
+**ha, le sa mediker.**
 Yes, he is a doctor.
 
 
@@ -257,12 +257,12 @@ I'm not Sarah.
 **me no sa mediker.**
 I'm not a doctor.
 
-**eska te boni?**
+**suala te boni?**
 Are you well?  
-**ye. me boni.**
+**ha. me boni.**
 Yes, I'm well.
 
-**eska te boni?**
+**suala te boni?**
 Are you well?  
 **no, me no boni.**
 No, I'm not well.
@@ -337,24 +337,24 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### de <small>this or that</small>
+### ye & ve <small>this and that</small>
 
-**de sa ke?**
+**ye sa ke?**
 What's this?
 
-**de sa aple.**
+**ye sa aple.**
 This is an apple.
 
-**de sa ke?**
+**ve sa ke?**
 What is that?
 
-**de sa oranje.**
+**ve sa oranje.**
 That is an orange.
 
-**de sa kirmi aple.**
+**ye sa kirmi aple.**
 This is a red apple.
 
-**di aple sa kirmi.**
+**yi aple sa kirmi.**
 This apple is red.
 
 Note: When an adjective like
@@ -362,40 +362,36 @@ Note: When an adjective like
 is placed before a noun, it works as a modifier.
 When it follows the noun, it works as an adjectival verb.
 
-**de sa kirmi.**
+**ye sa kirmi.**
 This is red.
 
 Note: The demonstrative pronoun has two forms.
-The forms **de** is used when it stands alone.
-The form **di** is used when it modifies a noun.
+The forms **ye** and **ve** are used as stand-alone words.
+The forms **yi** and **vi** are used when they modify a noun.
 
-**les va ke?**
+**les ya ke?**
 Where are they?
 
-**les va de.**
-They are here/there.
+**les ya ye.**
+They are here.
 
-**les va te.**
-They are (there) by you.
-
-**les va me.**
-They are (here) by me.
-
+**les ya ve.**
+They are there.
 
 
 
 ### du <small>'s (possessive particle)</small>
 
-**de sa ke?**
+**ye sa ke?**
 What's this?
 
-**de sa me du telfon.**
+**le sa me du telfon.**
 It's my telephone.
 
-**de sa ke du?**
+**ye sa ke du?**
 Whose is this?
 
-**de sa mi.**
+**le sa mi.**
 It's mine.
 
 Note: Possessive particle **du** is put between the owner and the owned thing.
@@ -447,7 +443,7 @@ He/she doesn't have money.
 **me vola tena novi telfon.**
 I want to have a new phone.
 
-**eska te tena pute?**
+**suala te tena pute?**
 Do you have children?  
 **me tena duli pute.**
 I have two children.
@@ -458,10 +454,10 @@ I have two children.
 **me sava le.**
 I know him/her.
 
-**eska te sava di jan?**
+**suala te sava vi jan?**
 Do you know that person?
 
-**eska tes sava ses?**
+**suala tes sava ses?**
 Do you know each other?
 
 **mes sava ses longo.**
@@ -473,10 +469,10 @@ We know each other for a long time.
 **me nida helpe.**
 I need help.
 
-**eska te abla helpa me?**
+**suala te abla helpa me?**
 Can you help me?
 
-**eska me abla helpa te?**
+**suala me abla helpa te?**
 Can I help you?
 
 **me vola helpa te.**
@@ -487,7 +483,7 @@ I want to help you.
 
 ### yama <small>consume, eat, drink</small>
 
-**eska te vola yama koi?**
+**suala te vola yama koi?**
 Would you like to eat something?
 
 **le yama aple.**
@@ -499,10 +495,10 @@ They eat apples.
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
-**eska te yama kafe?**
+**suala te yama kafe?**
 Do you drink coffee?
 
-**ye. me yama kafe.**
+**ha. me yama kafe.**
 Yes, I drink coffee.
 
 Tip: Meaning of **yama** covers both eating and drinking. It can feel odd at
@@ -515,7 +511,7 @@ I'm having coffee and bread.
 
 ### vola <small>want</small>
 
-**eska te vola yama?**
+**suala te vola yama?**
 Would you like to eat?
 
 **te vola yama ke?**
@@ -527,40 +523,40 @@ the word order is not affected by the **ke**.
 **me vola yama kafe.**
 I want to drink coffee.
 
-**eska te vola yama cai?**
+**suala te vola yama cai?**
 Would you like to drink tea?  
 **no. me no vola cai. me vola kafe.**
 No, I don't want tea. I want coffee.
 
 **te vola ki aple?**
 Which apple do you want?  
-**di kirmi.**
+**yi kirmi.**
 This red one.
 
 
-### pliza <small>request, please</small>
+### cinga <small>request, please</small>
 
-**me pliza te yama cai.**
+**me cinga te yama cai.**
 I ask you to drink tea.
 
-**me pliza te laya dom.**
+**me cinga te laya dom.**
 I ask you to come home.
 
-**me pliza te helpa me.**
+**me cinga te helpa me.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**pliza yama cai.**
+**cinga yama cai.**
 Please, have some tea!
 
-**pliza yama kafe.**
+**cinga yama kafe.**
 Please, have some coffee!
 
-**pliza laya dom.**
+**cinga laya dom.**
 Please, come home!
 
-**pliza helpa me.**
+**cinga helpa me.**
 Please, help me.
 
 
@@ -584,10 +580,10 @@ I need help.
 **me nida yama.**
 I'm hungry.
 
-**eska te nida yama?**
+**suala te nida yama?**
 Are you hungry?
 
-**eska te nida sui?**
+**suala te nida sui?**
 Are you thirsty?
 
 
@@ -598,7 +594,7 @@ Are you thirsty?
 **maf! me no aha.**
 Sorry, I don't understand.
 
-**maf! de sa ke?**
+**maf! ye sa ke?**
 Excuse me, what's this?
 
 **maf. te nama ke?**
@@ -607,7 +603,7 @@ Excuse me, what's your name?
 
 ### aha <small>understand</small>
 
-**eska te aha me?**
+**suala te aha me?**
 Do you understand me?
 
 **me aha.**
@@ -631,10 +627,10 @@ I can drive a car.
 **le no abla xofa gar.**
 He/she doesn't know how to drive a car.
 
-**eska te abla reibona le?**
+**suala te abla reibona le?**
 Do you know how to fix it?
 
-**eska te abla pandunia?**
+**suala te abla pandunia?**
 Can you speak Pandunia?
 
 **me abla pandunia.**
@@ -655,16 +651,16 @@ Sorry, I can't speak your language.
 **te loga ke?**
 What did you say?
 
-**me loga pa te.**
+**me loga va te.**
 I talk to you.
 
-**mes loga pa ses.**
+**mes loga va ses.**
 We talk to each other.
 
-**se loga "cat" ko va pandunia?**
+**se loga "cat" ko ya pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" logu ko va pandunia?**
+**"cat" logu ko ya pandunia?**
 How is "cat" said in Pandunia?
 
 **mau loga miau.**
@@ -679,7 +675,7 @@ Listen to me!
 **me no abla auda te.**
 I can't hear you.
 
-**pliza loga forto.**
+**cinga loga forto.**
 Please speak louder.
 
 **me auda musike.**
@@ -706,7 +702,7 @@ I saw him/her yesterday.
 
 ### mena <small>to mean</small>
 
-**di loge mena ke?**
+**yi loge mena ke?**
 What does this word mean?
 
 **"mau" mena ke?**
@@ -721,22 +717,22 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**pliza kitaba ti adres.**
+**cinga kitaba ti adres.**
 Please, write your address.
 
-**pliza kitaba le va de.**
+**cinga kitaba le ya ye.**
 Please, write it here!
 
 
 ### baxa <small>speak a language, communicate</small>
 
-**eska tes baxa pandunia.**
+**suala tes baxa pandunia.**
 Do you speak Pandunia?
 
 **mes baxa pandunia.**
 We speak Pandunia.
 
-**eska te abla baxa engli?**
+**suala te abla baxa engli?**
 Can you speak English?
 
 **fransi, espani, portugali, rusi**
@@ -765,25 +761,25 @@ I'm going home.
 **me musu gova ke?**
 Where should I go?
 
-**me musu gova pa ki ren?**
+**me musu gova va ki ren?**
 To whom should I go?
 
 **haida gova!**
 Let's go!
 
-**haida gova va fute**
+**haida gova ya fute**
 Let's go by foot!
 
 
 ### laya <small>to come</small>
 
-**pliza laya!**
+**cinga laya!**
 Come here!
 
-**te laya ja ke?**
+**te laya la ke?**
 Where do you come from?
 
-**me laya ja Dubai.**
+**me laya la Dubai.**
 I come from Dubai.
 
 **me laya dom badodeno.**
@@ -792,39 +788,39 @@ I will come home tomorrow.
 
 ### safara <small>to travel</small>
 
-**eska te safara va tren?**
+**suala te safara ya tren?**
 Do you travel by train?
 
-**mes safara ja London pa Paris.**
+**mes safara la London va Paris.**
 We travel from London to Paris.
 
 **safar polo longi.**
 The voyage is very long.
 
 
-### va <small>in, on, at</small>
+### ya <small>in, on, at</small>
 
-**hotel va ke?**
+**hotel ya ke?**
 Where is the hotel?
 
-**hotel va di dau.**
+**hotel ya vi dau.**
 The hotel is on that road.
 
-**te va ke?**
+**te ya ke?**
 Where are you?
 
-**me va dom.**
+**me ya dom.**
 I'm at home.
 
-**le va ke?**
+**le ya ke?**
 Where is he/she?
 
-**le sida va kamar.**
+**le sida ya kamar.**
 He/she sits in the room.
 
-Tip! You can use **va** as a preposition or alone as the verb.
+Tip! You can use **ya** as a preposition or alone as the verb.
 
-**me kara va...**
+**me kara ya...**
 I work at ...
 
 
@@ -836,16 +832,16 @@ Where do you live?
 **me doma Singapur.**
 I live in Singapore.
 
-**eska te doma di hotel?**
+**suala te doma yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **te doma va ke?** instead of **te doma ke**.
-However **doma** already covers the meaning of being at somewhere, so **va** is not necessary.
+Tip: It is also okay to say **te doma ya ke?** instead of **te doma ke**.
+However **doma** already covers the meaning of being at somewhere, so **ya** is not necessary.
 
 
 ### denga <small>to wait</small>
 
-**pliza denga!**
+**cinga denga!**
 Please wait!
 
 **denga me!**
@@ -854,7 +850,7 @@ Wait for me!
 **les denga mes.**
 They wait for us.
 
-**me denga te va hotel.**
+**me denga te ya hotel.**
 I wait for you in the hotel.
 
 
@@ -871,7 +867,7 @@ The man is looking at the woman.
 **le zayo sa xef.**  
 He or she is currently the chief.
 
-**le zayo va dom.**  
+**le zayo ya dom.**  
 He or she is currently at home.
 
 
@@ -886,7 +882,7 @@ The man looked at the woman.
 **le paso sa xef.**  
 He or she was the chief.
 
-**le paso va dom.**  
+**le paso ya dom.**  
 He or she was at home.
 
 
@@ -901,7 +897,7 @@ The man has looked at the woman.
 **le fino sa xefe.**  
 He or she has been the chief.
 
-**le fino va dom.**  
+**le fino ya dom.**  
 He or she has been at home.
 
 
@@ -916,7 +912,7 @@ The man will see the woman.
 **le vilo sa xefe.**  
 He or she will be the chief.
 
-**le vilo va dom.**  
+**le vilo ya dom.**  
 He or she will be at home.
 
 
@@ -926,19 +922,19 @@ He or she will be at home.
 
 ### dona <small>give</small>
 
-**pliza dona pese.**
+**cinga dona pese.**
 Please give some money.
 
-**pliza dona le pa me.**
+**cinga dona le va me.**
 Please give it to me.
 
-**me dona de pa te.**
+**me dona ye va te.**
 I give this to you.
 
-**me dona buke pa les.**
+**me dona buke va les.**
 I give a book to them.
 
-**le no vola dona le pa me.**
+**le no vola dona le va me.**
 He/she doesn't want to give it to me.
 
 
@@ -947,11 +943,11 @@ He/she doesn't want to give it to me.
 **me kapa un kafe.**
 I will take a coffee.
 
-**pliza kapa un kafe pa me.**
+**cinga kapa un kafe va me.**
 Please take one coffee for me.
 
-**te fino kapa pese ja me.**
-You already got money from me.
+**te ceno kapa pese la me.**
+You already got money from me before.
 
 **me kapa un bir.**
 I will take a beer.
@@ -959,19 +955,19 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire sa 500 dolar va mes.**  
+**kire sa 500 dolar ya mes.**  
 The rent is 500 dollars in a month.
 
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me vola kapa un gare va kire.**  
+**me vola kapa un gare ya kire.**  
 I want to take a car for rent.
 
 **me vola kirokapa un gare.**
 I want to rent a car.
 
-**le kirodona kamar pa safarer.**
+**le kirodona kamar va safarer.**
 He/she rents rooms to travelers.
 
 
@@ -994,7 +990,7 @@ I will buy a beer.
 **le sa ki yang?**
 What is it like?
 
-**eska le novi?**
+**suala le novi?**
 Is it new?
 
 **ke sa max boni?**
@@ -1010,7 +1006,7 @@ Nothing.
 **le kosta lil / multo.**
 It is cheap / expensive.  
 
-**mes plizu laya.**
+**mes cingu laya.**
 We are being called.
 
 **me soka tualete.**
@@ -1025,7 +1021,7 @@ Come here / back / to us.
 **me darsa pandunia.**
 I study Pandunia.
 
-**xova le pa me va leksobuke!**
+**xova le va me ya logobuke!**
 Show me in the dictionary!
 **me no yada.**
 I don't remember.
@@ -1048,13 +1044,13 @@ Cheers!
 ****
 Of course!
 
-**eska te suku ...?**
+**suala te suku ...?**
 Do you like ...?
 
 ****
 I feel alright.
 
-**pliza sida va de!**
+**cinga sida ya ye!**
 Please, sit here!
 
 **me suku stasa.**
@@ -1063,7 +1059,7 @@ I rather stand.
 ****
 With pleasure!
 
-**feste kaixu va ki zaman?**
+**feste kaixu ya ki zaman?**
 When does the party begin?
 
 **te sahi.**

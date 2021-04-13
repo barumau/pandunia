@@ -277,7 +277,7 @@ astronauta - astronaver
 astronave (nave estelar) - astronau  
 astronomía - astronomia  
 astrónomo - astronomer  
-asunto (caso) - eskotem  
+asunto (caso) - sualtem  
 asustador - fobani  
 asustar (atemorizar) - foba  
 ataque - agres  
@@ -1371,7 +1371,7 @@ fonología - fonlojia
 forma (figura) - forme  
 formar - forma  
 formateo - kitaboforme  
-formulario - eskodokum  
+formulario - sualdokum  
 foro (espacio público) - forum  
 fosa - kau  
 foto (fotografía) - fotograf  
@@ -1725,7 +1725,7 @@ interior - in
 internacional - nasmedi  
 Internet - internete  
 interracial - rasmedi  
-interrogativa - eskan  
+interrogativa - sualan  
 interés - sauvol  
 interétnica - zukomedi  
 invernal - lengomosimi  
@@ -2691,8 +2691,8 @@ precio (coste) - koste
 precioso - bavi  
 preferir (favorecer) - maxfila  
 prefijo - cenfikse  
-pregunta - eske  
-preguntar (inquirir) - eska  
+pregunta - sual  
+preguntar (inquirir) - suala  
 preguntarse - sauvolu  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
@@ -3172,7 +3172,7 @@ susurrar (curjir) - xaxu
 Svalbard - Sualbarde  
 sábado - sisyom  
 sándwich (sánduche) - sanduice  
-sí - ye  
+sí - ha  
 sólido - gatomate  
 ####T - T  
 tabaco - tabake  

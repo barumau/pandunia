@@ -772,11 +772,6 @@ erbem - erbio
 Eris - Eris (planeta enano)  
 Eritria - Eritrea  
 esei - ensayo (redacción)  
-eska - preguntar (inquirir)  
-eske - pregunta  
-eskan - interrogativa  
-eskodokum - formulario  
-eskotem - asunto (caso)  
 eskal - escalera  
 eskala - escalar  
 eskaltan - enredadera  
@@ -1126,6 +1121,7 @@ gustu ko - tener gusto a
 gute - rodilla  
 ####H - H  
 ha - con (tener)  
+ha - sí  
 habar - noticias  
 habargazete - periódico (diario)  
 habaxi - abisinio  
@@ -1270,7 +1266,6 @@ ya - en (a)
 ya ke - dónde  
 ya linye - en línea  
 ya ve - allí (allá)  
-ye - sí  
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
 yagones - península  
@@ -3053,6 +3048,11 @@ sosistia - socialismo
 sosis - salchicha  
 Soto - Lesoto  
 suahili - suajili  
+sual - pregunta  
+suala - preguntar (inquirir)  
+sualan - interrogativa  
+sualdokum - formulario  
+sualtem - asunto (caso)  
 Sualbarde - Svalbard  
 suani - agrio (ácido)  
 suar - noche (tarde)  

@@ -11,7 +11,7 @@
 | bangli | 4% |
 | cini | 6% |
 | niponi | 6% |
-| coseni | 4% |
+| coseni | 3% |
 | vieti | 2% |
 | malayi | 6% |
 | arabi | 5% |

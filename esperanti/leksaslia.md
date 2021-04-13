@@ -228,7 +228,6 @@
 |**eni**|iu ajn|angla:any|
 |**er**|isto (anto)|angla: -er, deu: -er, franca: -eur, hispana: -ero, portugala: -eiro|
 |**eskal**|ŝtuparo|franca:escalier, hispana:escalera, portugala:escada, + angla:scale, deu:Skale, rusa:шкала (škala)|
-|**eske**|demando|angla:ask|
 |**eskulter**|skultisto|hispana:portugala:escultor, franca:sculpteur, angla:sculptor, rusa:скульптор (skulptor)|
 |**estadia**|stadiono (areno)|franca:stade, portugala:estádio, hispana:estadio, rusa:стадион (stadion), angla:stadium, turka:stadyum, araba:(ʾistād), hindia:स्टेडियम (sṭeḍiyam)|
 |**estasia**|stacio|turka:istasyon, portugala:estação, hispana:estación, filipina:estasyon, urdua:(isṭeśan), angla:franca:station, hindia:स्टेशन (sṭeśan), rusa:станция (stantsiya)|
@@ -769,6 +768,7 @@
 |**song**|pino|mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)|
 |**sosia**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
 |**sosis**|kolbaso|franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage|
+|**sual**|demando|araba: سؤال (su'āl), hindia:सवाल (savāl), malaja:soal, svahila:swali |
 |**suani**|acida|mandarena:酸 (suān), kantona:酸 (syun1), vua:酸 (soe1), japana:酸 (san), korea:산 (san), vjetnama:toan|
 |**suar**|vespero|franca:soir, angla:soiree, rusa:суаре (suare), turka:suare + malaja:sore|
 |**sube**|mateno|araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba|
@@ -877,7 +877,6 @@
 |**xur**|komenco|araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)|
 |**yama**|manĝi (trinki)|kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam|
 |**yang**|speco (tipo, stilo)|mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)|
-|**ye**|jes|[ye] angla:yes;yeah, korea:예 (ye), malaja:ya + [ya] mandarena:有 (yǒu), kantona:有 (yau5) + franca:il y a|
 |**ye**|ĉi tio|hindia:यह (yeh), bengala:এই (ei), korea:이 (i)|
 |**yeze**|kokoso|mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)|
 |**yoge**|jogo|hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)|

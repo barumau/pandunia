@@ -780,7 +780,7 @@ pequeno - lili
 perdedor - xibayer  
 perder - xibaya tena  
 perdoar (desculpar) - mafa  
-perguntar - eska  
+perguntar - suala  
 perigo - hatre  
 perplexo (confuso) - ruhmixi  
 peru - dinde  
@@ -853,7 +853,7 @@ quem - ki jan
 querer (desejar) - volu  
 querido (caro) - ami  
 querido - amike  
-questão (pergunta) - eske  
+questão (pergunta) - sual  
 quiabo - bamye  
 quimono - kimono\*  
 quincã (cunquate) - kankuate  
@@ -939,7 +939,7 @@ serra - ser
 sete (7) - seti  
 sexo - jinse  
 sexta-feira - limyom  
-sim - ye  
+sim - ha  
 simetria - sammetria  
 simulação - samsifia  
 simétrico - sammetri  

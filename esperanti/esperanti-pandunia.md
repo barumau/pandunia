@@ -286,9 +286,9 @@ dek (10) - desi
 dek miloj - deskilo\*  
 dekono - deci\*  
 delfeno - dolfin  
-demandanta - eskan  
-demandi - eska  
-demando - eske  
+demandanta - sualan  
+demandi - suala  
+demando - sual  
 demografio - demgrafia  
 demokratia - demkrati  
 demokratio - demkratia  
@@ -678,7 +678,7 @@ jaro - nen
 jasmeno - malike  
 Javeo (Jehovo) - Yahve  
 Jemeno - Yemen  
-jes - ye  
+jes - ha  
 Jesuo - Yesus  
 jodo - yodem  
 jogo - yoge  

@@ -462,9 +462,6 @@ er - isto (anto)
 erbem - erbio  
 Eris - Eris (planedeto)  
 Eritria - Eritreo  
-eska - demandi  
-eske - demando  
-eskan - demandanta  
 eskal - ŝtuparo  
 eskandem - skandio  
 eskulta - skulti  
@@ -674,6 +671,7 @@ gustu ko - gusti kiel
 gute - genuo  
 ####H - H  
 ha - havi (teni)  
+ha - jes  
 habar - novaĵoj  
 habargazete - gazeto  
 hafnem - hafnio  
@@ -759,7 +757,6 @@ huxi - agrabla
 ya ke - kie  
 ya ve - tie  
 ye - ĉi tio  
-ye - jes  
 yi - ĉi tiu  
 Yahve - Javeo (Jehovo)  
 yala - rapidigi  
@@ -1573,6 +1570,9 @@ song - pino
 sosia - socio  
 sosis - kolbaso  
 suahili - sŭahili  
+sual - demando  
+suala - demandi  
+sualan - demandanta  
 suan - acido  
 suani - acida  
 suar - vespero  

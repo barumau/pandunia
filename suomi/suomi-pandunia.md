@@ -152,7 +152,7 @@ asema (satama, lentokenttä) - porte
 asema - estasia  
 asento - asan  
 asetelma - poze  
-asia (juttu) - eskotem  
+asia (juttu) - sualtem  
 asia - xei  
 asiakirja (dokumentti, tiedosto) - dokum  
 askeett - askete  
@@ -1273,7 +1273,7 @@ kuvaruutu - ekran
 kuvitella - fantaza  
 Kuwait - Kuvaitia  
 kykenevä (voiva) - ablani  
-kyllä - ye  
+kyllä - ha  
 kylmä - lengi  
 kylpeä - banyu  
 kylpy - banye  
@@ -1287,10 +1287,10 @@ Kypros - Kipris
 kypsä (aikuinen) - maturi  
 kypärä - sarkaske  
 kyrilliset aakkoset - kirili harfia  
-kyselylomake - eskodokum  
-kysymys - eske  
-kysyvä - eskan  
-kysyä - eska  
+kyselylomake - sualdokum  
+kysymys - sual  
+kysyvä - sualan  
+kysyä - suala  
 kyynel - okosui  
 kärki (pää) - pike  
 kärppä (fretti) - furete  

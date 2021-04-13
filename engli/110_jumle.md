@@ -192,16 +192,16 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me eska te baxa pandunia.**
+**me suala te baxa pandunia.**
 – I ask do you speak Pandunia.  
-**eska te baxa pandunia?**
+**suala te baxa pandunia?**
 – Do you speak Pandunia.
 
 ### Short pivot structure (VVO)
 
-**me pliza te laya dom.**
+**me cinga te laya dom.**
 – I ask you to come home.  
-**pliza laya dom!**
+**cinga laya dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -339,11 +339,11 @@ Different scopes of negation may result depending on the location of the negativ
 **me vida no te a les.**
 – I see, not you, but them.
 
-**me pliza te safa kamar.**
+**me cinga te safa kamar.**
 – I ask you to clean the room.  
-**me no pliza te safa kamar.**
+**me no cinga te safa kamar.**
 – I do NOT ask you to clean the room.  
-**me pliza te no safa kamar.**
+**me cinga te no safa kamar.**
 – I ask you NOT to clean the room.
 
 Words
@@ -352,7 +352,7 @@ Words
 **no**
 (_no_) are used for answering questions.
 
-**eska te vida me?**
+**suala te vida me?**
 – Do you see me?  
 **ye. (me yo vida te.)**
 – Yes. (I indeed see you.)  
@@ -365,7 +365,7 @@ and
 **no**
 apply to the verb, not the whole question.
 
-**eska te no vida me?**
+**suala te no vida me?**
 – Don't you see me?  
 **ye. (me vida te.)**
 – Yes. (I see you.)  

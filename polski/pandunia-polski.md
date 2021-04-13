@@ -770,11 +770,6 @@ erbem - erb
 Eris - Eris (planeta karłowata)  
 Eritria - Erytrea  
 esei - esej  
-eska - zapytać, spytać, pytać  
-eske - pytanie  
-eskan - pytajny, związany z pytaniem  
-eskodokum - formularz (kwestionariusz)  
-eskotem - kwestia, problem  
 eskal - schody (drabina)  
 eskala - wspinać się (wspiąć się)  
 eskaltan - pnącz  
@@ -1117,6 +1112,7 @@ gustu ko - smakować jak
 gute - kolano  
 ####H - H  
 ha - mieć (trzymać)  
+ha - tak  
 habar - wiadomość, nius  
 habargazete - gazeta  
 habaxi - abisyński  
@@ -1257,7 +1253,6 @@ ya - przy, z, na, w, u
 ya ke - gdzie  
 ya linye - online (na linii, w sieci)  
 ya ve - tu (tutaj, tam)  
-ye - tak  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
 yagones - półwysep  
@@ -3053,6 +3048,11 @@ sosistia - socjalizm
 sosis - kiełbasa  
 Soto - Lesotho  
 suahili - suahili  
+sual - pytanie  
+suala - zapytać, spytać, pytać  
+sualan - pytajny, związany z pytaniem  
+sualdokum - formularz (kwestionariusz)  
+sualtem - kwestia, problem  
 Sualbarde - Swalbard  
 suani - kwaśny  
 suar - wieczór  

@@ -258,8 +258,6 @@ emoje - emoticon (emoji)
 emos - emoçao  
 emoshal - humor  
 englomargarite - margarida-comum  
-eska - perguntar  
-eske - questão (pergunta)  
 eskulter - escultor  
 esponje - esponja  
 estan - estanho  
@@ -356,6 +354,7 @@ gunjan - soldado
 gunrajer - generalíssimo  
 gute - joelho  
 ####H - H  
+ha - sim  
 haha - rir  
 hai - mar  
 hayi - marítimo  
@@ -406,7 +405,6 @@ huri - livre (forro)
 ####I - I  
 ya ke - onde  
 ya linye - online  
-ye - sim  
 Yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
@@ -951,6 +949,8 @@ song - pinheiro
 sor - fechadura  
 sosia - sociedade  
 sosis - salsicha  
+sual - questão (pergunta)  
+suala - perguntar  
 suar - noitinha  
 suede - suor  
 sui - água  

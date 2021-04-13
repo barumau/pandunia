@@ -302,7 +302,6 @@
 |**er**|tekijä (aikaansaaja)|englanti: -er, deu: -er, ranska: -eur, espanja: -ero, portugali: -eiro|
 |**esei**|essee|englanti:essay, espanja:ensayo, portugali:ensaio, ranska:essai, deu:Essay, venäjä:эссе (esse), japani:エッセイ (essei)|
 |**eskal**|portaat (rappuset, tikkaat)|ranska:escalier, espanja:escalera, portugali:escada, + englanti:scale, deu:Skale, venäjä:шкала (škala)|
-|**eske**|kysymys|englanti:ask|
 |**eskulter**|kuvanveistäjä|espanja:portugali:escultor, ranska:sculpteur, englanti:sculptor, venäjä:скульптор (skulptor)|
 |**esponje**|sienieläin|englanti:sponge, espanja:portugali:esponja, arabia:إسفنج (ʾisfanj), persia:اسفنج‎ (esfanj), hindi:स्पंज (spanja), japani:スポンジ (suponji), malaiji:spon, suahili:sponji|
 |**estadia**|stadioni (areena)|ranska:stade, portugali:estádio, espanja:estadio, venäjä:стадион (stadion), englanti:stadium, turkki:stadyum, arabia:(ʾistād), hindi:स्टेडियम (sṭeḍiyam)|
@@ -1123,6 +1122,7 @@
 |**song**|mänty|yleiskiina:松 (sōng), wu-kiina:(son), thai:สน (sǒn), korea:솔 (sol), vietnami:thông, + venäjä:сосна (sosna)|
 |**sosia**|seura|venäjä:социум (socium), englanti:society, espanja:sociedad|
 |**sosis**|makkara|ranska:saucisse, turkki:malaiji:sosis, persia:(sosis), venäjä:сосиска  (sosiska), japani:ソーセージ (sosēji), hindi:सॉसेज (sosej), bangla:সসেজ (sôsej), englanti:sausage|
+|**sual**|kysymys|arabia: سؤال (su'āl), hindi:सवाल (savāl), malaiji:soal, suahili:swali |
 |**suani**|hapan (kirpeä)|yleiskiina:酸 (suān), kantoninkiina:酸 (syun1), wu-kiina:酸 (soe1), japani:酸 (san), korea:산 (san), vietnami:toan|
 |**suar**|ilta|ranska:soir, englanti:soiree, venäjä:суаре (suare), turkki:suare + malaiji:sore|
 |**sube**|aamu|arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba|
@@ -1303,7 +1303,6 @@
 |**yang**|laji (tyyppi, tyyli)|yleiskiina:样 (yàng), thai:อย่าง (yàang), khmer:យ៉ាង (yaang)|
 |**yatim**|orpo|arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)|
 |**yau**|tarve (puute)|yleiskiina:要 (yāo), kantoninkiina:要 (jiu1), wu-kiina:要 (yo1), japani:要 (yō), vietnami:yêu|
-|**ye**|kyllä|[ye] englanti:yes;yeah, korea:예 (ye), malaiji:ya + [ya] yleiskiina:有 (yǒu), kantoninkiina:有 (yau5) + ranska:il y a|
 |**ye**|tämä|hindi:यह (yeh), bangla:এই (ei), korea:이 (i)|
 |**yei**|jee! (hurraa!)|englanti:yay, puola:jej, japani:イエイ (iei)|
 |**yeze**|kookos|yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)|

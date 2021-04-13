@@ -425,7 +425,7 @@ dans le sens antihoraire - rotolefto
 dauphin - dolfin  
 de - la  
 demain - badodeno  
-demander (poser un question; est-ce que) - eska  
+demander (poser un question; est-ce que) - suala  
 dessous - nice  
 destin - cenamen  
 deux (2) - duli  
@@ -895,7 +895,7 @@ otite - oritis
 ou - o  
 oublier - anmema  
 oubliette (cul de basse-fosse) - geunici prizon  
-oui - ye  
+oui - ha  
 ours - urse  
 oxyde - okside  
 où - ya ke  
@@ -1054,7 +1054,7 @@ quatre (4) - cari
 que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
-question - eske  
+question - sual  
 qui - ki jan  
 ####R - R  
 race - ras  

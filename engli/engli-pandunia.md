@@ -201,7 +201,7 @@ ash (ashes) - hui
 ash tree - yasen  
 Asia - Asia  
 Asian - asi  
-ask (inquire) - eska  
+ask (inquire) - suala  
 ask (request, beg, plead; please) - cinga  
 asparagus - lusun  
 aspirin - aspirin  
@@ -1310,7 +1310,7 @@ forest (woods, jungle) - jangle
 forget - anmema  
 forgive (pardon) - mafa  
 fork - forke  
-form (questionaire) - eskodokum  
+form (questionaire) - sualdokum  
 form (shape) - forme  
 formatting - kitaboforme  
 forum (public space) - forum  
@@ -1704,7 +1704,7 @@ international - nasmedi
 internet - internete  
 interpreter (translator) - tarjer  
 interracial - rasmedi  
-interrogative - eskan  
+interrogative - sualan  
 invite - cinga laya  
 Io - Io  
 iodine - yodem  
@@ -1723,7 +1723,7 @@ island - nes
 Isle of Man - Manin nes  
 ism (doctrine, ideology, religion, etc) - istia  
 Israel - Israel  
-issue (affair, concern) - eskotem  
+issue (affair, concern) - sualtem  
 Italy - Italia  
 ####J - J  
 jackal - xakal  
@@ -2764,7 +2764,7 @@ qualify (describe) - sifa
 quark (paneer) - panir  
 quartz - kuarze  
 queen - femi rajer  
-question (query, inquiry) - eske  
+question (query, inquiry) - sual  
 quotation mark - citomarke  
 quote (cite) - cita  
 Quran (Koran) - kuran  
@@ -3812,7 +3812,7 @@ yeast - hamir
 yellow - limonrangi  
 yellow starthistle - solcentaur  
 Yemen - Yemen  
-yes - ye  
+yes - ha  
 yesterday - cendeno  
 yoga - yoge  
 yogi - yogiste  
