@@ -104,6 +104,8 @@ aspiryna - aspirin
 astat - astatem  
 astma - asme  
 astronauta - astronaver  
+astronom - astronomer  
+astronomia - astronomia  
 Asyria - Axuria  
 Aszur - Axur  
 atak (agresja, napaść) - agres  
@@ -578,6 +580,7 @@ Egipt - Misria
 egzonim - vainam  
 einstein - ainstainem  
 ekologia (nauka o środowisku) - ekolojia  
+ekonomia - malnomia  
 ekran - ekran  
 ekskrement, gówno - kake  
 eksplodować (wybuchnąć, wybuchać) - bumu  

@@ -73,6 +73,8 @@ aspirin - aspirina
 astre - astro (corpo celeste)  
 astronau - astronave  
 astronaver - astronauta  
+astronomia - astronomia  
+astronomer - astrónomo  
 ate - ato  
 ater - agente  
 ation - ação  
@@ -641,6 +643,7 @@ mafa - perdoar (desculpar)
 magesem - magnésio  
 Magribia - Marrocos  
 makanful - dente-de-leão (taráxaco)  
+malnomia - economia  
 mam - mãe  
 mangi - ocupado (atarefado)  
 manihayistia - maniqueísmo  
@@ -693,6 +696,8 @@ migre - migração
 migru - mudar-se  
 milke - leite  
 milkokardon - cardo-mariano  
+mima - imitar (mimetizar)  
+mimer - mímico  
 minte - hortelã  
 mirdi - fraco  
 misalo - por exemplo  
@@ -737,6 +742,7 @@ nilcentaur - escovinha (centáurea)
 Nipon - Japão  
 nix - nicho  
 noce - noite  
+noma - organizar  
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note - nota  
@@ -771,6 +777,7 @@ pagre - turbante
 pai - torta  
 pake - pacote  
 pandemi patia - pandemia  
+panmim - pantomima (mímica)  
 pande - panda  
 pang - pão  
 panir - queijo fresco  

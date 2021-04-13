@@ -1601,6 +1601,8 @@ matka (reissu) - safar
 matkailija - safarer  
 matkaopas (opaskirja) - gidobuke  
 matkatavarat - bagaje  
+matkia (imitoida) - mima  
+matkija (imitaattori) - mimer  
 matkustaa - safara  
 mato - verme  
 Mauritania - Muritania  
@@ -2015,6 +2017,7 @@ panna jkn maate - kuxa
 panna toimintaan - ativa  
 pannu (paistinpannu) - tau  
 pantheon - pandevia  
+pantomiimi - panmim  
 papaija - papai  
 paperi - kaguje  
 pappi - dinguru\*  
@@ -2736,6 +2739,7 @@ tallenne (rekisteri) - defte
 tallentaa (rekisteröidä, kirjata) - defta  
 tallettaa (tallentaa) - banka  
 tallium - talem  
+taloustiede (ekonomia) - malnomia  
 talvi - lengomosim  
 talvinen - lengomosimi  
 tamil (eräs intialainen kieli) - Tamil  
@@ -2970,6 +2974,8 @@ työskennellä - kara
 tähdätä (kohti) - dika  
 tähti - xing  
 tähtialus - astronau  
+tähtitiede (astronomia) - astronomia  
+tähtitieteilijä - astronomer  
 tämä - ye  
 tämä - yi  
 tämä hetki (nyt) - zai  

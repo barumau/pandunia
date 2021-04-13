@@ -841,6 +841,7 @@
 |**mien**|noodle|Mandarin:面 (miàn), Malay:mie, Japanese:麺 (men), Thai:หมี่ (mii), Khmer:មី (mi)|
 |**migre**|migration (moving)|French:English:migration, Spanish:migración, Portuguese:migração, Russian:миграция (migratsiya)|
 |**milke**|milk|English:milk, deu:Milch, Japanese:ミルク  (miruku), Korean:밀크 (milkeu), Lingala:míliki, Russian:молоко (moloko)|
+|**mima**|mimic (imitate)|English:French:mime, Portuguese:mímico, Russian:мим (mim)|
 |**min (mino)**|less|Spanish:Portuguese:menos, French:moins, Russian:ме́нее (méneje), English:min-|
 |**minar**|tower|Swahili: mnara, Turkish: minare, + English:minaret|
 |**mingi**|bright (brilliant, clear)|Mandarin:Wu-Chinese:明 (míng), Cantonese:明 (ming4), Vietnamese:minh, Korean:명 (myeong)|
@@ -926,7 +927,7 @@
 |**noce**|night|Spanish:noche, Portuguese:noite, Russian:ночь (nočʹ), Polish:noc|
 |**node**|knot (node)|English:node, Spanish:nudo, Portuguese:nó, French:nœud|
 |**nol (noli)**|zero (none)|Russian:ноль (nol'), Malay:nol, deu:null, English:null|
-|**nomia**|management (-nomy)|English:-nomy, deu:French:-nomie, Spanish:Portuguese:-nomia, Russian:-номия (-nomiya)|
+|**nomia**|management (arrangement, -nomy)|English:-nomy, deu:French:-nomie, Spanish:Portuguese:-nomia, Russian:-номия (-nomiya), Malay:-nomi|
 |**nonga**|cultivate (farm)|Mandarin:農 (nóng), Cantonese:農 (nung4), Wu-Chinese:農 (non3), Japanese:農 (nō), Korean:농 (nong), Vietnamese:nông|
 |**norde**|north|English:north, Spanish:Portuguese:norte, deu:Nord, French:nord, Russian:норд (nord)|
 |**normi**|normal|English:Spanish:Portuguese:French:deu:normal, Russian:норма́льный (normálʹnyj), Persian:نرمال‎ (normâl)|

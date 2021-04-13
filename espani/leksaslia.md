@@ -819,6 +819,7 @@
 |**mien**|fideo (tallarín)|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
 |**migre**|migración|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
 |**milke**|leche|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
+|**mima**|imitar|eng:fra:mime, por:mímico, rus:мим (mim)|
 |**min (mino)**|menos|spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|
 |**minar**|torre|swa: mnara, tur: minare, + eng:minaret|
 |**mingi**|brillante (luminoso)|zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)|
@@ -903,7 +904,7 @@
 |**noce**|noche|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**node**|nudo|eng:node, spa:nudo, por:nó, fra:nœud|
 |**nol (noli)**|cero (ninguno)|rus:ноль (nol'), may:nol, deu:null, eng:null|
-|**nomia**|gerencia (dirección)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
+|**nomia**|gerencia (dirección)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|
 |**nonga**|cultivar|zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|
 |**norde**|norte|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
 |**normi**|norma|eng:spa:por:fra:deu:normal, rus:норма́льный (normálʹnyj), fas:نرمال‎ (normâl)|

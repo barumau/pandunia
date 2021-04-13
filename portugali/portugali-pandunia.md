@@ -82,6 +82,8 @@ astro (corpo celeste) - astre
 astrobiologia - kosmobiulojia  
 astronauta - astronaver  
 astronave - astronau  
+astronomia - astronomia  
+astrónomo - astronomer  
 ataque - agres  
 Atenas - Atina  
 ativo - ativi  
@@ -328,6 +330,7 @@ durar - duru
 duro - gati  
 ####E - E  
 e - e  
+economia - malnomia  
 educação - xulia  
 efeito - asar  
 efetuar - asara  
@@ -490,6 +493,7 @@ igual (par) - pari
 igual - sami  
 imigrante - inmigran  
 imigrar - inmigra  
+imitar (mimetizar) - mima  
 importante - hami  
 impressão digital - angulmarke  
 Indo - Hindonade  
@@ -662,6 +666,7 @@ máximo - maxime
 mãe - mam  
 mão - hande  
 mês - lun  
+mímico - mimer  
 mó - molxeke  
 música - muzike  
 ####N - N  
@@ -717,6 +722,7 @@ ordem - ratibe
 orelha - or  
 orfanato - yatimdom  
 organismo - biu  
+organizar - noma  
 origem - asle  
 original - asli  
 orquídea - orkide  
@@ -738,6 +744,7 @@ palavra (vocábulo) - logem
 palácio (mansão, palacete) - daidom  
 panda - pande  
 pandemia - pandemi patia  
+pantomima (mímica) - panmim  
 papel - kaguje  
 papel de parede - murkaguje  
 papoila - medenpapil  

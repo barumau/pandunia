@@ -275,6 +275,8 @@ Assur (Ashur) - Axur
 astrobiologia - kosmobiulojia  
 astronauta - astronaver  
 astronave (nave estelar) - astronau  
+astronomía - astronomia  
+astrónomo - astronomer  
 asunto (caso) - eskotem  
 asustador - fobani  
 asustar (atemorizar) - foba  
@@ -1035,7 +1037,6 @@ dirección - dix
 directamente - dixo  
 director de colegio - xulxef  
 dirigente (líder) - lider  
-dirigir (gestionar, administrar) - noma  
 dirigir (mandar, conducir, capitanear) - lida  
 disco - diske  
 discreto (digital) - feni  
@@ -1100,6 +1101,7 @@ dónde - ya ke
 ####E - E  
 eco - mirsonde  
 ecología - ekolojia  
+economía - malnomia  
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
 ecuador - geuparlinye  
@@ -1662,6 +1664,8 @@ imagen (gráfico, dibujo) - graf
 imaginación (fantasía) - fantaze  
 imaginar (fantasear) - fantaza  
 imaginario (fantástico) - fantazi  
+imitador - mimer  
+imitar - mima  
 imperialismo - imperistia  
 imperialista - imperiste  
 imperio - imperia  
@@ -2394,6 +2398,7 @@ ordeñar - tira milke
 ordinario (habitual) - adi  
 oreja - or  
 orfanato - yatimdom  
+organizar (gestionar) - noma  
 orgasmo - orgazme  
 orgánico - bivi  
 oriental - dongi  

@@ -112,6 +112,7 @@ aspirino - aspirin
 astmo - asme  
 astro - astre  
 astronaŭto - astronaver  
+astronomo - astronomer  
 atako (agreso) - agres  
 ateisto - andeviste  
 atendi - denga  
@@ -342,6 +343,7 @@ Egipto - Misria
 ejnŝtejnio - ainstainem  
 ejo (ujo, io) - -ia  
 ejo - aria  
+ekonomiko - malnomia  
 ekrano - ekran  
 eksa- - eksa\*  
 ekstera - vayi  

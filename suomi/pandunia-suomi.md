@@ -197,6 +197,8 @@ astatem - astatiini
 astre - taivaankappale  
 astronau - tähtialus  
 astronaver - astronautti (tähtimatkaaja)  
+astronomia - tähtitiede (astronomia)  
+astronomer - tähtitieteilijä  
 ate - teko (toimenpide, akti)  
 ater - tekijä (toimija)  
 ation - toiminta  
@@ -1923,6 +1925,7 @@ mal - omaisuus
 mala - omistaa  
 malu - kuulua (olla jkn hallussa)  
 malan - omistaja (pitäjä, hallussapitäjä)  
+malnomia - taloustiede (ekonomia)  
 malagasi - malagassi  
 Malagasia - Madagaskar  
 malayi - malaiji  
@@ -2053,6 +2056,8 @@ mili\* - milli-
 miligram - milligramma  
 milimitre - millimetri  
 milke - maito  
+mima - matkia (imitoida)  
+mimer - matkija (imitaattori)  
 min (mino) - vähemmän  
 min ka bas - liian vähän  
 mina - paitsi (miinus)  
@@ -2359,6 +2364,7 @@ panduni - maailmanlaajuinen (globaali)
 pandunia - pandunia  
 panduniste - pandunian puhuja  
 paneuropi - paneurooppalainen  
+panmim - pantomiimi  
 pansato - aina  
 Panama - Panama  
 pande - panda  

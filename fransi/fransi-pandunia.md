@@ -141,6 +141,8 @@ astre (corps céleste) - astre
 astrobiologie - kosmobiulojia  
 astronaute - astronaver  
 astronef - astronau  
+astronome - astronomer  
+astronomie - astronomia  
 atchoum - acu\*  
 Athènes - Atina  
 athée - andeviste  
@@ -632,6 +634,8 @@ hétéroromantique (hétéromantique) - alromansi
 hétérosexuel - alseksi  
 hôtel - hotel  
 ####I - I  
+imitateur (mime) - mimer  
+imiter - mima  
 immigrant - inmigran  
 immigrer - inmigra  
 imperméable - barxokote  
@@ -880,6 +884,7 @@ ordinateur tablette - tablokomputer
 ordre - ratibe  
 ordures - laje  
 oreille - or  
+organiser - noma  
 organisme - biu  
 orge - jau  
 origine - asle  
@@ -908,6 +913,7 @@ panier (panier de basketball) - baske
 panneau de signalisation - dauban  
 pansement (sparadrap) - glutobende  
 pantalon - pante  
+pantomime - panmim  
 pantoufle (babouche) - babuce  
 papaye - papai  
 papier - kaguje  
@@ -1325,6 +1331,7 @@ zèbre - zebre
 école (collège) - xulkan  
 école primaire - bazoxulkan  
 école secondaire - jungoxulkan  
+économie - malnomia  
 écorce - tira pil  
 écrire - kitaba  
 écriture - kitabe  

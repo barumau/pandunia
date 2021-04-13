@@ -213,6 +213,8 @@ astat.em:|astatem|mate|As||astatine|astate|ástato||||||||||||||astatiini|astat
 astr.e|astre||fra:astre, por:astro, eng:astro-||celestial body|astre (corps céleste)|cuerpo celeste|astro (corpo celeste)|небесное тело||天体|天体 ||||||||astro|taivaankappale|
 astr.o.nau:|astronau||||starship|astronef|astronave (nave estelar)|astronave|звездолёт||||||||||||tähtialus|
 astr.o.nau.er:|astronaver||||astronaut|astronaute|astronauta|astronauta|астронавт||宇航员||||||||astronot|astronaŭto|astronautti (tähtimatkaaja)|astronauta
+astr.o.nom:ia|astronomia||||astronomy|astronomie|astronomía|astronomia|астрономия|عِلْم اَلْفَلَك‎|天文学|天文学|천문학|thiên văn học|खगोल शास्त्र|জ্যোতির্বিজ্ঞান|astronomi (ilmu falak)|falaki|gök bilimi||tähtitiede (astronomia)|astronomia
+astr.o.nom.er:|astronomer||||astronomer|astronome|astrónomo|astrónomo|астроном||天文学家|天文学者|천문학자|nhà thiên văn học|खगोल विज्ञानी||astronom||gök bilimci|astronomo|tähtitieteilijä|astronom
 at:e|ate|||por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|act (deed)|acte|acto|ato|действие (акт)|عمل|作为 (行为)|行為|||||tindakan (perbuatan)|kitendo||ago|teko (toimenpide, akti)|
 at.er:|ater|||eng:actor,-ator, fra:-ateur, spa:por:-ador|agent (doer, actor)|agent (faiseur)|agente|agente|деятель||||||||||fail|aganto|tekijä (toimija)|
 at.ion:|ation||||action|action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta|
@@ -2157,6 +2159,7 @@ mal:|mal|||ara:fas:urd: مَال‎ (māl), hin:माल (māl), tur:mal, swa:m
 mal:a|mala||||own (possess, have)||poseer (tener, ser dueño de)||||||||||||||omistaa|mieć (posiadać)
 mal:u|malu||||belong|appartenir à|ser de||принадлежать||属于|||||||||aparteni|kuulua (olla jkn hallussa)|należeć
 mal.an:|malan||||owner (proprietor)|possédant (propriétaire)|dueño|||||||||||||havanto|omistaja (pitäjä, hallussapitäjä)|właściciel (posiadacz)
+mal.nom:ia|malnomia||||economics|économie|economía|economia|экономика|اِقْتِصَاد‎|经济学|経済学|경제학|kinh tế học|अर्थशास्त्र (अर्थनीति)|অর্থনীতি|ekonomi|uchumi|iktisat|ekonomiko|taloustiede (ekonomia)|ekonomia
 malagas:i|malagasi||||Malagasy||malgache||||||||||||||malagassi|madagaskarski; malagaski
 Malagas:ia|Malagasia|dex|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 malai:i|malayi||||Malay||malayo||||||||||||||malaiji|malajski
@@ -2315,6 +2318,8 @@ mili.gram:|miligram|unomete|mg||milligram||miligrama||||||||||||||milligramma|mi
 mili.mitr:e|milimitre|unomete|mm||millimeter||milimetre|||||||||||||milimetro|millimetri|milimetr
 milk:e|milke|||eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|milk|lait|leche|leite|молоко|||牛乳 (ミルク)||||||||lakto|maito|mleko
 milk.o.kardon:|milkokardon|biu|Silybum marianum||milk thistle|chardon Marie|cardo mariano|cardo-mariano|расторопша пятнистая||水飞蓟|マリアアザミ||||||||||ostropest plamisty
+mim:a|mima|||eng:fra:mime, por:mímico, rus:мим (mim)|mimic (imitate)|imiter|imitar|imitar (mimetizar)|имитировать||模拟  (模仿)||||||||taklit etmek||matkia (imitoida)|
+mim.er:|mimer||||imitator (mime)|imitateur (mime)|imitador|mímico|мим (имитатор)|||模倣者|모방자||||||||matkija (imitaattori)|
 Mimas:|Mimas|planete 6 lun 1|||Mimas|||||||||||||||||
 min: (min:o)|min (mino)|||spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|less||menos|||||||||||||malpli|vähemmän|mniej
 min: k:a bas:|min ka bas||||too little||demasiado poco|||||||||||||maltro|liian vähän|zbyt mało
@@ -2539,8 +2544,8 @@ nol: jan:|nol jan||||nobody (no-one)||ningunos||||||||||||||ei kukaan|nikt, żad
 nol: sat:e|nol sate||||never||nunca||||||||||||||ei koskaan (ei kertaakaan)|nigdy
 nol: xei:|nol xei||||nothing||nada||||||||||||||ei mitään|nic, żadna rzecz
 nol:a|nola||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
-nom:a|noma||||manage (organize, direct)||dirigir (gestionar, administrar)||||||||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
-nom:ia|nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|management (-nomy)||gerencia (dirección)||||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
+nom:a|noma||||manage (organize)|organiser|organizar (gestionar)|organizar|организовать||组织|組織する|||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
+nom:ia|nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|management (arrangement, -nomy)||gerencia (dirección)||организация||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
 nong:a|nonga|||zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)||cultivar||||||||||||||viljellä|uprawić, uprawiać
 nong.er:|nonger||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
 nord:e|norde|||eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|north|nord|norte|norte|север (норд)||北|北|북|||||||nordo|pohjoinen|północ
@@ -2671,6 +2676,7 @@ pan.dun:i|panduni||||global (concerning the whole world)||global (de todo el mun
 pan.dun:ia|pandunia||||Pandunia||Pandunia|||||パンドゥニア||||||||pandunia|pandunia|Pandunia
 pan.dun.ist:e|panduniste||||Pandunia speaker||hablante de Pandunia||||||||||||||pandunian puhuja|osoba mówiąca w Panduni
 pan.europ:i|paneuropi||||pan-European||paneuropeo||||||||||||||paneurooppalainen|paneuropejski
+pan.mim:|panmim||||pantomime|pantomime||pantomima (mímica)|пантомима||哑剧|パントマイム |||||||||pantomiimi|
 pan.romans:i|panromansi||||panromantic||panrromántico|||||||||||||||panromantyczny
 pan.sat:o|pansato||||always||siempre|||||||||||||ĉiam|aina|zawsze
 pan.seks:i|panseksi||||pansexual||pansexual|||||||||||||||panseksualny

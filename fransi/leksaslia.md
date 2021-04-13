@@ -398,6 +398,7 @@
 |**meze**|table|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**migre**|migration|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
 |**milke**|lait|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
+|**mima**|imiter|eng:fra:mime, por:mímico, rus:мим (mim)|
 |**minte**|menthe|eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)|
 |**mirdi**|faible|eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)|
 |**Misria**|Égypte|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|

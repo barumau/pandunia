@@ -75,6 +75,8 @@ asme - 气喘
 aspirin - 阿司匹林  
 astre - 天体  
 astronaver - 宇航员  
+astronomia - 天文学  
+astronomer - 天文学家  
 ate - 作为 (行为)  
 ation - 行动  
 ativi - 活性  
@@ -654,6 +656,7 @@ magesem - 镁
 Magribia - 摩洛哥  
 makanful - 蒲公英  
 malu - 属于  
+malnomia - 经济学  
 mam - 妈妈  
 mangi - 忙  
 manihayistia - 摩尼教  
@@ -697,6 +700,7 @@ meze - 桌子
 mezotex - 桌布  
 migra - 搬家  
 milkokardon - 水飞蓟  
+mima - 模拟  (模仿)  
 minte - 薄荷  
 mirdi - 微弱的  
 misalo - 比如  
@@ -747,6 +751,7 @@ nilon - 尼龙
 Nipon - 日本  
 nix - 壁龛  
 noce - 夜  
+noma - 组织  
 norde - 北  
 nostalgia - 怀旧  
 note - 便条  
@@ -775,6 +780,7 @@ pacistia - 和平主义
 pagre - 包头  
 pai - 馅饼  
 pandemi patia - 大流行病  
+panmim - 哑剧  
 pang - 面包  
 pante - 裤子  
 pape - 爸爸  

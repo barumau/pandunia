@@ -900,7 +900,7 @@
 |**noce**|noc|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**node**|węzeł, zupeł|eng:node, spa:nudo, por:nó, fra:nœud|
 |**nol (noli)**|zero, nic, żaden|rus:ноль (nol'), may:nol, deu:null, eng:null|
-|**nomia**|zarządzanie (-nomia)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
+|**nomia**|zarządzanie (-nomia)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|
 |**nonga**|uprawić, uprawiać|zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|
 |**norde**|północ|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
 |**normi**|normalny, standardowy|eng:spa:por:fra:deu:normal, rus:норма́льный (normálʹnyj), fas:نرمال‎ (normâl)|

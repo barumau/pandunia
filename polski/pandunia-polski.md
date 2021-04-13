@@ -183,6 +183,8 @@ asme - astma
 aspirin - aspiryna  
 astatem - astat  
 astronaver - astronauta  
+astronomia - astronomia  
+astronomer - astronom  
 ativa - aktywować (włączyć, uruchomić)  
 ativi - aktywny (włączony, uruchomiony)  
 ata\* - jabłko cukrowe  
@@ -1972,6 +1974,7 @@ mal - własność (mienie)
 mala - mieć (posiadać)  
 malu - należeć  
 malan - właściciel (posiadacz)  
+malnomia - ekonomia  
 malagasi - madagaskarski; malagaski  
 Malagasia - Madagaskar  
 malayi - malajski  

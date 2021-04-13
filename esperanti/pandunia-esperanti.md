@@ -113,6 +113,7 @@ asme - astmo
 aspirin - aspirino  
 astre - astro  
 astronaver - astronaŭto  
+astronomer - astronomo  
 ate - ago  
 ater - aganto  
 ation - agado  
@@ -1103,6 +1104,7 @@ maitnerem - mejtnerio
 makas - tondilo  
 malu - aparteni  
 malan - havanto  
+malnomia - ekonomiko  
 Mali - Malio  
 malike - jasmeno  
 mam - patrino  

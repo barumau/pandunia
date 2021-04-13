@@ -211,6 +211,8 @@ astatem - astatine
 astre - celestial body  
 astronau - starship  
 astronaver - astronaut  
+astronomia - astronomy  
+astronomer - astronomer  
 ate - act (deed)  
 ater - agent (doer, actor)  
 ation - action  
@@ -2150,6 +2152,7 @@ mal - property (belongings, possessions)
 mala - own (possess, have)  
 malu - belong  
 malan - owner (proprietor)  
+malnomia - economics  
 malagasi - Malagasy  
 Malagasia - Madagascar  
 malayi - Malay  
@@ -2306,6 +2309,8 @@ miligram - milligram
 milimitre - millimeter  
 milke - milk  
 milkokardon - milk thistle  
+mima - mimic (imitate)  
+mimer - imitator (mime)  
 Mimas - Mimas  
 min (mino) - less  
 min ka bas - too little  
@@ -2530,8 +2535,8 @@ nol jan - nobody (no-one)
 nol sate - never  
 nol xei - nothing  
 nola - cancel (nullify)  
-noma - manage (organize, direct)  
-nomia - management (-nomy)  
+noma - manage (organize)  
+nomia - management (arrangement, -nomy)  
 nonga - cultivate (farm)  
 nonger - farmer  
 norde - north  
@@ -2662,6 +2667,7 @@ panduni - global (concerning the whole world)
 pandunia - Pandunia  
 panduniste - Pandunia speaker  
 paneuropi - pan-European  
+panmim - pantomime  
 panromansi - panromantic  
 pansato - always  
 panseksi - pansexual  

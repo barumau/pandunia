@@ -185,6 +185,8 @@ astatem - ástato
 astre - cuerpo celeste  
 astronau - astronave (nave estelar)  
 astronaver - astronauta  
+astronomia - astronomía  
+astronomer - astrónomo  
 ate - acto  
 ater - agente  
 ation - acción  
@@ -1973,6 +1975,7 @@ mal - propiedad
 mala - poseer (tener, ser dueño de)  
 malu - ser de  
 malan - dueño  
+malnomia - economía  
 malagasi - malgache  
 Malagasia - Madagascar  
 malayi - malayo  
@@ -2120,6 +2123,8 @@ miligram - miligrama
 milimitre - milimetre  
 milke - leche  
 milkokardon - cardo mariano  
+mima - imitar  
+mimer - imitador  
 min (mino) - menos  
 min ka bas - demasiado poco  
 mina - excepto (menos)  
@@ -2327,7 +2332,7 @@ nol jan - ningunos
 nol sate - nunca  
 nol xei - nada  
 nola - cancelar  
-noma - dirigir (gestionar, administrar)  
+noma - organizar (gestionar)  
 nomia - gerencia (dirección)  
 nonga - cultivar  
 nonger - granjero (agricultor)  

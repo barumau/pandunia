@@ -77,6 +77,8 @@ aspirin - аспирин
 astre - небесное тело  
 astronau - звездолёт  
 astronaver - астронавт  
+astronomia - астрономия  
+astronomer - астроном  
 ate - действие (акт)  
 ater - деятель  
 ation - действие (акция)  
@@ -708,6 +710,7 @@ Magribia - Марокко
 majenti - маджента (фуксия)  
 makanful - одуванчик  
 malu - принадлежать  
+malnomia - экономика  
 mam - мать (мама)  
 mangi - занятый  
 manihayistia - манихейство  
@@ -761,6 +764,8 @@ migre - миграция
 migru - переезжать  
 milke - молоко  
 milkokardon - расторопша пятнистая  
+mima - имитировать  
+mimer - мим (имитатор)  
 minte - мята  
 mirdi - слабый  
 misalo - например  
@@ -813,6 +818,8 @@ nilon - нейлон
 Nipon - Япония  
 nix - ниша  
 noce - ночь  
+noma - организовать  
+nomia - организация  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
@@ -846,6 +853,7 @@ pagre - чалма
 pai - пирог  
 pake - пакет  
 pandemi patia - пандемия  
+panmim - пантомима  
 pande - панда  
 pang - хлеб  
 panir - творог  

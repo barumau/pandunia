@@ -174,6 +174,8 @@ astatem - astate
 astre - astre (corps céleste)  
 astronau - astronef  
 astronaver - astronaute  
+astronomia - astronomie  
+astronomer - astronome  
 ate - acte  
 ater - agent (faiseur)  
 ation - action  
@@ -847,6 +849,7 @@ makanful - dandélion
 mal - propriété (possession, bien)  
 malu - appartenir à  
 malan - possédant (propriétaire)  
+malnomia - économie  
 mam - mère (maman)  
 mangi - occupé  
 manihayistia - manichéisme  
@@ -898,6 +901,8 @@ migre - migration
 migru - s'installer (déménager)  
 milke - lait  
 milkokardon - chardon Marie  
+mima - imiter  
+mimer - imitateur (mime)  
 minte - menthe  
 mirdi - faible  
 misalo - par exemple  
@@ -949,6 +954,7 @@ nilon - nylon
 Nipon - Japon  
 nix - niche  
 noce - noit  
+noma - organiser  
 norde - nord  
 nostalgia - nostalgie  
 note - note  
@@ -988,6 +994,7 @@ pake - paquet
 pakse - oiseau  
 palabe - querelle (dispute, palabre)  
 pandemi patia - pandémie  
+panmim - pantomime  
 pande - panda  
 pang - pain  
 panir - fromage blanc  

@@ -797,6 +797,7 @@
 |**mien**|nuudeli|yleiskiina:面 (miàn), malaiji:mie, japani:麺 (men), thai:หมี่ (mii), khmer:មី (mi)|
 |**migre**|muutto (migraatio)|ranska:englanti:migration, espanja:migración, portugali:migração, venäjä:миграция (migratsiya)|
 |**milke**|maito|englanti:milk, deu:Milch, japani:ミルク  (miruku), korea:밀크 (milkeu), lingala:míliki, venäjä:молоко (moloko)|
+|**mima**|matkia (imitoida)|englanti:ranska:mime, portugali:mímico, venäjä:мим (mim)|
 |**min (mino)**|vähemmän|espanja:portugali:menos, ranska:moins, venäjä:ме́нее (méneje), englanti:min-|
 |**minar**|torni|suahili: mnara, turkki: minare, + englanti:minaret|
 |**mingi**|kirkas (selkeä)|yleiskiina:wu-kiina:明 (míng), kantoninkiina:明 (ming4), vietnami:minh, korea:명 (myeong)|
@@ -874,7 +875,7 @@
 |**noce**|yö|espanja:noche, portugali:noite, venäjä:ночь (nočʹ), puola:noc|
 |**node**|solmu|englanti:node, espanja:nudo, portugali:nó, ranska:nœud|
 |**nol (noli)**|nolla (ei yhtään)|venäjä:ноль (nol'), malaiji:nol, deu:null, englanti:null|
-|**nomia**|hallinto (hallinnointi)|englanti:-nomy, deu:ranska:-nomie, espanja:portugali:-nomia, venäjä:-номия (-nomiya)|
+|**nomia**|hallinto (hallinnointi)|englanti:-nomy, deu:ranska:-nomie, espanja:portugali:-nomia, venäjä:-номия (-nomiya), malaiji:-nomi|
 |**nonga**|viljellä|yleiskiina:農 (nóng), kantoninkiina:農 (nung4), wu-kiina:農 (non3), japani:農 (nō), korea:농 (nong), vietnami:nông|
 |**norde**|pohjoinen|englanti:north, espanja:portugali:norte, deu:Nord, ranska:nord, venäjä:норд (nord)|
 |**normi**|normaali|englanti:espanja:portugali:ranska:deu:normal, venäjä:норма́льный (normálʹnyj), persia:نرمال‎ (normâl)|

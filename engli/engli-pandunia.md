@@ -213,6 +213,8 @@ astatine - astatem
 asthma - asme  
 astrobiology - kosmobiulojia  
 astronaut - astronaver  
+astronomer - astronomer  
+astronomy - astronomia  
 atheist - andeviste  
 Athens - Atina  
 athlete (sportsman) - keler  
@@ -1062,6 +1064,7 @@ eastern gorilla - dongogoril
 easy - fasili  
 echo - mirsonde  
 ecology (study of environment) - ekolojia  
+economics - malnomia  
 Ecuador - Ekuador  
 education (schooling) - xulia  
 effect (bring about) - asara  
@@ -1652,6 +1655,7 @@ illusion (hallucination) - falsvide
 illustrator (graphic artist) - grafer  
 image projector - lancografer  
 imagine (fantasize) - fantaza  
+imitator (mime) - mimer  
 immigrant - inmigran  
 immigrate (move in) - inmigra  
 impale (stab, skewer) - zonga  
@@ -2007,8 +2011,8 @@ Mali - Mali
 Malta - Malta  
 mammal - mamal  
 man (adult male) - maturi man  
-manage (organize, direct) - noma  
-management (-nomy) - nomia  
+manage (organize) - noma  
+management (arrangement, -nomy) - nomia  
 Mandarin Chinese (Putonghua) - Putong Cini  
 mandarin orange (tangerine) - laloranje  
 manganese - mangan  
@@ -2121,6 +2125,7 @@ milligram - miligram
 millimeter - milimitre  
 million (mega-) - mega\*  
 Mimas - Mimas  
+mimic (imitate) - mima  
 mine (extract) - kuanga  
 mine - kuangia  
 miner - kuanger  
@@ -2472,6 +2477,7 @@ panromantic - panromansi
 pansexual - panseksi  
 pantheism - pandevistia  
 pantheon - pandevia  
+pantomime - panmim  
 pants (trousers) - pante  
 papaya - papai  
 paper (material) - kaguje  
