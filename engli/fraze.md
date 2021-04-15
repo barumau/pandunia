@@ -225,9 +225,10 @@ And you?
 I'm not good.
 
 <small>Etymology. **suala**
-is from French: est-ce que /ɛskə/,
-Haitian Creole: èske,
-English: ask.</small>
+is from Arabic سؤال (su'āl),
+Hindi सवाल (savāl),
+Malay _soal_,
+Swahili _swali_.</small>
 
 
 ### ha <small>yes</small>
