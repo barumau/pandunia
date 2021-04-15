@@ -59,7 +59,7 @@ adhesivo - glutograf
 adicional (extra) - maxi  
 adiós - salam cute  
 adjetivo - sifloge  
-adoquín - cirkoxeke  
+adoquín - sirkoxeke  
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
 adormidera (amapola real) - sompapil  
@@ -95,6 +95,7 @@ ajo - lasun
 ajonjolí (sésamo) - sesam  
 al revés - retro  
 ala - ving  
+alambre (hilo) - metallin  
 alargar - longa  
 Alaska - Alaska  
 Albania - Cipia  
@@ -122,7 +123,7 @@ algodón - goton
 algún - koi (koyi)  
 algún día (algún vez) - koi sate  
 alicate - pinser  
-alinear - parlinyu  
+alinear - parlinu  
 allí (allá) - ya ve  
 almendra - badam  
 almirante - hayamirer  
@@ -204,6 +205,7 @@ apartarse (desviarse) - rutogalta
 apellido - familnam  
 aplicación - aplike  
 aprender (estudiar) - xula  
+apropriado (apto, oportuno) - hapi  
 aproximadamente - yago  
 apuntar (indicar) - ponta  
 apuntar - dika  
@@ -471,7 +473,7 @@ búbalo (arni) - kabau
 caballo - gude  
 cabaña - kabin  
 cabeza - sar  
-cable - eletrolinye  
+cable - eletrolin  
 Cabo Verde - Kabu Verdi  
 cabra - buze  
 caca - kake  
@@ -822,7 +824,7 @@ corno - korne
 coro - cantergrupe  
 corona - koron  
 corporal (corpóreo) - bodi  
-correa (rein) - lidokorde  
+correa (rein) - lidolin  
 correcto (justo) - sahi  
 corredor - korer  
 corregir - saha  
@@ -921,7 +923,7 @@ cárcel - prizonkan
 Cáucaso - Kaukasia  
 célula - cel  
 césped (hierba) - cau  
-círculo - cirke  
+círculo - sirke  
 cítrico - limonike  
 cóctel - mixi alkol  
 código (cifra) - kode  
@@ -1104,7 +1106,7 @@ ecología - ekolojia
 economía - malnomia  
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
-ecuador - geuparlinye  
+ecuador - geuparlin  
 edad - umur  
 educación - xulia  
 educado - keci  
@@ -1155,13 +1157,13 @@ empujar (presionar) - puxa
 en (a) - ya  
 en el sentido contrario al las agujas del reloj - rotolefto  
 en el sentido del las agujas del reloj - rotoraito  
-en línea - ya linye  
+en línea - ya lin  
 encanto - carme  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
 encontrarse (estar, situarse) - loku  
-encurtido - sirkopurxipi  
-encurtir - sirkopurxipa  
+encurtido - suanpurxipi  
+encurtir - suanpurxipa  
 enderezar (poner recto) - orta  
 endónimo - innam  
 enemigo - dusjan  
@@ -1523,7 +1525,7 @@ guau (vaya) - vau
 Guernesey - Gernezi  
 guiar - gida  
 Guinea - Konakri Ginia  
-Guinea Ecuatorial - Geuparlinyi Ginia  
+Guinea Ecuatorial - Geuparlini Ginia  
 Guinea-Bisáu - Bisau Ginia  
 guitarra - gitar  
 gujaratí - gujarati  
@@ -1556,7 +1558,7 @@ hacha - futau
 hachís - haxix  
 hafnio - hafnem  
 Haití - Aiti  
-halo (aureola) - fotocirke  
+halo (aureola) - fotosirke  
 hamaca - hamake  
 hambre - yamyau  
 hamo (anzuelo) - pexhuke  
@@ -1564,6 +1566,7 @@ hasio - hesem
 hasta (también) - hato  
 hasta - hata  
 Hawái - Havai  
+hebra (fibra) - linem  
 hebreo - ibri  
 hecho - fate  
 helado - aiskrem  
@@ -1592,7 +1595,6 @@ higiene - hijenia
 hija - femi pute  
 hijo - mani pute  
 hijo o hija - pute  
-hilo (cordel) - korde  
 Himalaya - Himalia  
 hinduismo - hindistia  
 hindú - hindiste  
@@ -1719,7 +1721,7 @@ intentar (probar) - testa
 intercambiar (canjear) - badla  
 interesado (curioso) - sauvoli  
 interesante (curioso) - sauvolani  
-interfaz de línea de comandos - amirlinye  
+interfaz de línea de comandos - amirlin  
 interior (interno) - indi  
 interior - in  
 internacional - nasmedi  
@@ -1854,7 +1856,7 @@ largo - longi
 larva - larve  
 lasaña - lazanye  
 lateral (horizontal) - lati  
-latitud - sudonordia  
+latitud - veisirke  
 laurencio - laurensem  
 lava - yongopetre  
 lavadora - vaxmaxin  
@@ -1871,7 +1873,7 @@ legumbre (frijol o arveja) - dou
 lejano (lejos) - teli  
 lejos - longo  
 lengua (idioma) - bax  
-lengua - lin  
+lengua - lisan  
 lengua materna - jeni bax  
 lengua mundial - dunia bax  
 lente - lense  
@@ -1912,6 +1914,7 @@ limón - limon
 lince - lince  
 lince rojo (gato montés) - lalolince  
 lindo (precioso) - kavayi  
+linea (hilo, cordel, raya) - lin  
 linfa - linfe  
 lingüística - baxlojia  
 liquen - algofung  
@@ -2331,7 +2334,7 @@ nudismo - nudistia
 nudista - nudiste  
 nudo - node  
 Nueva Caledonia - Novi Kaledonia  
-nueva línea - linyoparce  
+nueva línea - linparce  
 Nueva Zelanda - Novi Zelandia  
 nueve (9) - tixi  
 nuevo - novi  
@@ -2472,7 +2475,7 @@ Papúa Nueva Guinea - Papua Novi Ginia
 paquete - pake  
 parada (alto) - ting  
 Paraguay - Paraguai  
-paralelo - parlinyi  
+paralelo - parlini  
 parar (detener) - tinga  
 parar - pauza  
 pararse (detenerse) - estasu  
@@ -2548,7 +2551,7 @@ pentaedro - limfas
 pentágono - limgon  
 península - yagones  
 peonía - mudan  
-pepinillo - sirkopurxipi hiyar  
+pepinillo - suanpurxipi hiyar  
 pepino - hiyar  
 pepita - semdan  
 pequeño - lili  
@@ -2826,7 +2829,6 @@ rasgar (romper) - cir
 rasgar (romper) - cira  
 raspar (arañar) - frika  
 ratón - mux  
-raya (linea) - linye  
 rayo - rade  
 rayo luminoso - fotorade  
 raza - ras  
@@ -2845,7 +2847,7 @@ reconocimiento (recibo) - reside
 recto - orti  
 red - nete  
 redes sociales - sosi media  
-redondo (circular) - cirki  
+redondo (circular) - sirki  
 reducir a la mitad (dividir en dos) - dulo fena  
 reflejar - mira  
 refuerzos - maxforte  
@@ -2898,7 +2900,7 @@ responder (contestar) - javaba
 restaurante - restorante  
 resto (demás) - reste  
 resulta (efecto) - asar  
-retículo - kruskorde  
+retículo - krusolin  
 reunión (junta, mitin) - mite  
 Reunión - Reunion  
 reventar - parcokayu  
@@ -2927,7 +2929,7 @@ robo (hurto) - cor
 robot (bot) - robote  
 roca (piedra) - petre  
 rocío - ros  
-rodear (cirundar) - cirka  
+rodear (cirundar) - sirka  
 rodilla - gute  
 rodio - rodem  
 roentgenio - rentogenem  
@@ -3471,7 +3473,7 @@ Vietnam - Vietia
 vietnamita - vieti  
 vigilante (guardia) - garder  
 vigilar (guardar) - garda  
-vinagre - sirke  
+vinagre - vinsuan  
 vinilo - vinil  
 vino - vin  
 virología - viruslojia  

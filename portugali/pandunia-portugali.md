@@ -373,6 +373,7 @@ hami - importante
 hamili - grávida (prenhe)  
 hande - mão  
 handoxake - braço  
+hapi - apropriado (apto)  
 Hartum - Cartum  
 hata - até  
 hatre - perigo  
@@ -404,7 +405,7 @@ hulei - raposa
 huri - livre (forro)  
 ####I - I  
 ya ke - onde  
-ya linye - online  
+ya lin - online  
 Yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
@@ -543,7 +544,6 @@ kope - cópia
 kora - correr  
 korer - corredor  
 koral - coral  
-korde - fio (linha)  
 kornomelon - pepino-africano (kiwano)  
 kortokrokodil - aligátor (jacaré)  
 kosmi - cósmico  
@@ -607,11 +607,12 @@ lilxeke - pedrinha
 limi - cinco (5)  
 limyom - sexta-feira  
 limon - limão  
-lin - língua  
+lin - linha (fio)  
+linem - fibra  
 lince - lince  
-linye - linha  
 linka - relier (connecter)  
 linke - conexão (vínculo, laço)  
+lisan - língua  
 liste - lista  
 litre - litro  
 loga - falar  
@@ -686,6 +687,7 @@ merante - meranti
 Merkur - Mercúrio  
 mester - mestre  
 metalbede - bigorna  
+metallin - arame  
 metrograf - carta geográfica  
 metrografia - cartografia  
 meze - mesa  

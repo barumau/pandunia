@@ -79,7 +79,7 @@ alcoholic - alkoli
 alga - alge  
 algebra - jebria  
 Algeria - Jayeria  
-align (go along) - parlinyu  
+align (go along) - parlinu  
 alkaline - alkali  
 all - pan (pani)  
 alligator - kortokrokodil  
@@ -507,7 +507,7 @@ buyer - xoper
 by (at, in, on) - ya  
 ####C - C  
 cabin (booth) - kabin  
-cable (wire, line) - eletrolinye  
+cable (wire, line) - eletrolin  
 Cabo Verde (Cape Verde) - Kabu Verdi  
 cactus - katus  
 cadmium - kadem  
@@ -657,7 +657,7 @@ church - eglis
 cigarette (cigar) - sigar  
 cinematic - kingrafi  
 cinematography - kingrafia  
-circle (round) - cirke  
+circle (round) - sirke  
 citizen - dexojan  
 citrus fruit - limonike  
 city (town) - site  
@@ -696,7 +696,7 @@ club - klube
 coast (beach) - haitate  
 coat - kote  
 cobalt - kobalte  
-cobblestone - cirkoxeke  
+cobblestone - sirkoxeke  
 coca - koke  
 Coca-Cola - kokokol  
 cocktail - mixi alkol  
@@ -733,7 +733,7 @@ comb - kang
 come (arrive) - laya  
 comic (cartoon) - grafsage  
 comma - kom  
-command line (console, terminal) - amirlinye  
+command line (console, terminal) - amirlin  
 common (general, universal) - putongi  
 common (mutual) - koni  
 common (shared) - komuni  
@@ -844,7 +844,7 @@ croissant - kruasante
 cross (go across) - krusu  
 cross - krus  
 crossbow (ballista) - krusarke  
-crosshair (reticle) - kruskorde  
+crosshair (reticle) - krusolin  
 crouch (squat) - insida  
 crown - koron  
 crucify - krusfiksa  
@@ -1120,8 +1120,8 @@ enzyme - enzim
 epistemology - saulojia  
 equal - paru  
 equalize (even out) - para  
-equator - geuparlinye  
-Equatorial Guinea - Geuparlinyi Ginia  
+equator - geuparlin  
+Equatorial Guinea - Geuparlini Ginia  
 erbium - erbem  
 erect (standing) - libi  
 erect - liba  
@@ -1237,6 +1237,7 @@ fermium - fermem
 fern - parne  
 fertilize - caniva  
 fertilizer - caniver  
+fibre - linem  
 field (art, workforce) - eria  
 field (square, plaza, maidan) - meden  
 fiery - hogi  
@@ -1266,6 +1267,8 @@ fish - pex
 fish tank - pextanke  
 fisher - pexosaider  
 fishhook - pexhuke  
+fit (adapt, adjust, make suitable) - hapa  
+fit (suit, be suitable) - hapu  
 five (5) - limi  
 fix (attach) - fiksa  
 fjord - fiorde  
@@ -1400,7 +1403,7 @@ get off (descend) - aneskala
 get tired (become weary) - fatigu  
 getter (receiver, recipient) - geter  
 Ghana - Gana  
-gherkin (pickle) - sirkopurxipi hiyar  
+gherkin (pickle) - suanpurxipi hiyar  
 ghost (phantom) - fantom  
 ghoul - gul  
 giant onion - dailasun  
@@ -1505,7 +1508,7 @@ hafnium - hafnem
 hair - kex  
 hairband (headband) - kexbende  
 Haiti - Aiti  
-halo (aureola) - fotocirke  
+halo (aureola) - fotosirke  
 halve (divide by two) - dulo fena  
 hammer - hamar  
 hammock - hamake  
@@ -1840,7 +1843,7 @@ last (final) - finodi
 last (take time; during) - duru  
 later (after) - bado  
 Latin alphabet - latini harfia  
-latitude - sudonordia  
+latitude - veisirke  
 Latvia - Latvia  
 lauan tree (meranti, balau) - merante  
 laugh - haha  
@@ -1856,7 +1859,7 @@ leaf (sheet) - varke
 league (association) - lige  
 leak - lova  
 learn (study) - xula  
-leash (rein) - lidokorde  
+leash (rein) - lidolin  
 least (minimally) - minim (minimo)  
 leave (go out, exit) - cuta  
 leave behind (abandon, let go) - laxa  
@@ -1909,8 +1912,8 @@ lime - kalsomate
 lime green - limonlugi  
 limestone - kalsopetre  
 limit (boundary) - limite  
-line (stripe) - linye  
-line break (newline) - linyoparce  
+line (thread, string) - lin  
+line break (newline) - linparce  
 linguistics - baxlojia  
 link - sil  
 lion - sing  
@@ -1947,6 +1950,7 @@ long (long-lasting, prolonged) - longoduri
 long (over a gread distance) - longo  
 long pepper (pipli) - longopipre  
 longitude - vestodongia  
+longitudinal (vertical) - gingi  
 look (see) - vida  
 loom - texmaxin  
 lose (fail, miss, be defeated) - xibaya  
@@ -2369,7 +2373,7 @@ office (position) - ofis
 office (room) - ofiskan  
 officer - ofiser  
 official - ofisi  
-offline - na linye  
+offline - na lin  
 often (frequently) - polmaro  
 oganesson - oganeson  
 ogre (troll, goblin) - gui  
@@ -2387,7 +2391,7 @@ oncilla - bagroselote
 one (1) - un (uni)  
 one (someone) - he  
 onion - piaze  
-online - ya linye  
+online - ya lin  
 only (single, sole, lone) - uniki  
 only (solely, just) - uniko  
 open (not closed) - kayi  
@@ -2397,6 +2401,7 @@ opinion (view) - rai
 opium poppy - sompapil  
 opportunity (chance) - canse  
 oppose (antagonize, object, resist) - xata  
+optical fibre (optical cable) - fotolin  
 option (choice) - cuzable  
 or - o  
 orange (fruit) - oranje  
@@ -2484,7 +2489,7 @@ paper (material) - kaguje
 paprika - cilifun  
 Papua New Guinea - Papua Novi Ginia  
 Paraguay - Paraguai  
-parallel (longitudinal) - parlinyi  
+parallel (longitudinal) - parlini  
 parameter (argument, input variable) - param  
 parasol - solcate  
 pardon (forgiveness; sorry) - maf  
@@ -2564,8 +2569,8 @@ physics (science) - fizikia
 physics - fizike  
 piano - piano\*  
 pickaxe - pincope  
-pickle (preserve in vinegar or brine) - sirkopurxipa  
-pickled - sirkopurxipi  
+pickle (preserve in vinegar or brine) - suanpurxipa  
+pickled - suanpurxipi  
 picnic - vaiyam  
 picture book - grafbuke  
 pidgin (contact language) - pijin  
@@ -2918,7 +2923,7 @@ rotate (spin, turn on an axis) - rotu
 rotor (rotator) - roter  
 rotten - pudi  
 rough (coarse) - karsi  
-round (circular) - cirki  
+round (circular) - sirki  
 route (path, trail, course, itinerary) - rute  
 routine (habit) - rutin  
 royal - raji  
@@ -3309,6 +3314,7 @@ sugarcane - sukarcau
 sugary (sweet) - sukari  
 suggest (propose) - suja  
 suggestion (proposal) - suje  
+suitable (appropriate, apt, fit) - hapi  
 sulfur (brimstone) - sulfe  
 sultanate - sultania  
 sum (total) - sum  
@@ -3327,7 +3333,7 @@ surname (family name) - familnam
 surpass (go over) - supra  
 surprise - suprize  
 surrender (submit, yield) - islamu  
-surround (encircle) - cirka  
+surround (encircle) - sirka  
 sushi - suxi  
 suture (seam) - sutur  
 Svalbard - Sualbarde  
@@ -3398,6 +3404,7 @@ technocracy - tehnokratia
 technology (study of techniques) - tehnolojia  
 tectonic plate - geukaski plate  
 telephone - telfon  
+telephone line - telfonlin  
 telephony - telfonia  
 teleport - teloloku  
 television - telvide  
@@ -3460,7 +3467,6 @@ thorium - torem
 thorn tree (acacia) - babul  
 thought (idea) - fikre  
 thousand (kilo-) - kilo\*  
-thread (string, strand, filament, fiber) - korde  
 three (3) - san  
 throw (launch) - lanca  
 throw up (vomit, regurgitate) - retrogula  
@@ -3501,7 +3507,7 @@ tombstone (gravestone) - gabroxeke
 tomorrow - badodeno  
 tone (note, pitch, shade) - ton  
 Tonga - Tonga  
-tongue - lin  
+tongue - lisan  
 tonne (metric ton) - megagram  
 too little - min ka bas  
 too much - max ka bas  
@@ -3541,6 +3547,7 @@ trapdoor - padomun
 travel (voyage, trip) - safar  
 travel - safara  
 traveler - safarer  
+traverse (horizontal) - veyi  
 treasure (valuables) - bau  
 tree - moke  
 triangle - sangon  
@@ -3666,7 +3673,7 @@ Vietnamese (Viet) - vieti
 view (vision) - vide  
 village - ruste  
 vine - eskaltan  
-vinegar - sirke  
+vinegar - vinsuan  
 vinyl - vinil  
 Virgin Islands, U####S - Virjin nesia  
 virology - viruslojia  
@@ -3699,6 +3706,7 @@ wallpaper - murkaguje
 want (desire, longing) - vol  
 want (desire, wish) - volu  
 warm (hot) - garmi  
+warp - ginglin  
 warrior (fighter) - jenger  
 wart - zeyil  
 wash - vaxa  
@@ -3729,6 +3737,7 @@ website - netoloke
 Wednesday - sanyom  
 week - yomsete  
 weep (cry) - kuga  
+weft - veilin  
 weight (burden) - bar  
 weight (heaviness, gravity) - baria  
 welcome! - salam lai  
@@ -3774,6 +3783,7 @@ wing - ving
 winter - lengomosim  
 winter melon (wax gourd, ash gourd) - mummelon  
 wintry - lengomosimi  
+wire - metallin  
 wisdom - sofia  
 wise - sofi  
 with (there be; have) - ha  

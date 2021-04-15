@@ -197,7 +197,6 @@ cir - 撕裂
 cira - 撕裂  
 circira - 撕毁  
 circiri - 褴褛的  
-cirkoxeke - 鹅卵石  
 cize - 酪 (起司)  
 coklate - 巧克力  
 coklatobaton - 巧克力棒  
@@ -260,7 +259,7 @@ dux - 淋浴
 ####E - E  
 e - 和  
 ekor - 松鼠  
-eletrolinye - 电缆 (电线)  
+eletrolin - 电缆 (电线)  
 eletrorade - 闪电  
 emoje - 绘文字  
 emoshal - 心情  
@@ -300,6 +299,7 @@ fora - 钻孔
 fote - 光  
 fotofrika - 擦亮  
 fotograf -  照片 (相片)  
+fotolin - 光线  
 fotominar - 信号  
 frem - 框  
 frika - 擦伤  
@@ -337,6 +337,7 @@ geutermi - 地热的
 gida - 导游  
 gider - 导游  
 gidobuke - 指南  
+ginglin - 經紗  
 gitar - 吉他  
 giuke - 玉  
 glisu - 滑下  
@@ -381,6 +382,7 @@ hami - 重要
 hamili - 怀孕  
 hande - 手  
 handoxake - 胳膊  
+hapi - 合适  
 harfia - 字母表  
 Hartum - 喀土穆  
 hata - 直到  
@@ -416,7 +418,7 @@ huri - 自由的
 huria - 自由  
 ####I - I  
 ya - 在  
-ya linye - 在线  
+ya lin - 在线  
 Yahve - 耶和华 (雅威)  
 yamfite - 蔬菜  
 yamyau - 饥饿  
@@ -556,7 +558,6 @@ kope - 摹本 (拷貝)
 kora - 跑步  
 korer - 跑步者  
 koral - 珊瑚  
-korde - 线  
 kornomelon - 刺角瓜  
 kortokrokodil - 短吻鳄  
 kosmi - 宇宙的  
@@ -572,6 +573,7 @@ krokroke - 蛙
 krote - 鼹鼠  
 kruasante - 牛角包  
 krusarke - 弩 (十字弓)  
+krusolin - 十字线  
 kuangia - 矿场  
 kuarze - 石英  
 kube - 立方体  
@@ -624,10 +626,12 @@ limi - 五 (5)
 limyom - 星期五 (禮拜五)  
 limon - 柠檬  
 limonike - 柑橘  
-lin - 舌头  
+lin - 线  
+linem - 纤维  
 lince - 猞猁 (山貓)  
 linka - 连接  
 linke - 联系  
+lisan - 舌头  
 liste - 单子  
 litre - 升  
 loga - 说话 (讲)  
@@ -692,6 +696,7 @@ men - 意义
 mening - 脑脊膜  
 metalbede - 铁砧  
 metaljanger - 铁匠  
+metallin - 线 (铁丝)  
 metrograf - 地图  
 metrografia - 地图学  
 meze - 桌子  
@@ -727,6 +732,7 @@ murce - 蚂蚁
 muskulbin - 健美运动  
 muzike - 音乐  
 ####N - N  
+na lin - 离线  
 no - 不  
 nade - 河 (江)  
 najis - 污染物  
@@ -923,7 +929,7 @@ silia - 系列
 silke - 丝绸  
 sira - 隐藏  
 sirplan - 阴谋 (密谋)  
-sirkopurxipe - 腌菜  
+sirkoxeke - 鹅卵石  
 sisi - 六 (6)  
 sisyom - 星期六 (礼拜六)  
 sofia - 智慧  
@@ -945,6 +951,7 @@ sosia - 社会
 sosis - 香肠  
 sual - 问题  
 suala - 问  
+suanpurxipe - 腌菜  
 suar - 晚上  
 sui - 水  
 suigas - 蒸汽  
@@ -976,6 +983,7 @@ tehne - 技术
 tehnolojia - 工艺学  
 telfon - 电话机  
 telfona - 打电话  
+telfonlin - 电话线  
 telvide - 电视机  
 tem - 主题目  
 temnam - 标题  
@@ -1019,6 +1027,7 @@ vanu - 玩耍
 vas - оазис  
 vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
+veilin - 緯紗  
 venda - 卖  
 vendoxope - 贸易  
 Venjou - 温州  
@@ -1043,6 +1052,7 @@ volu - 想要 (愿意)
 ura - 好哇  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
+veisirke - 纬度  
 ####X - X  
 xalke - 鳞  
 Xanghai - 上海  

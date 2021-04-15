@@ -312,7 +312,6 @@ cini - hana
 cincil - ĉinĉilo  
 cinga - peti (bonvolu)  
 cinga laya - inviti  
-cirka - ĉirkaŭi  
 cita - citi  
 cize - fromaĝo  
 coda - fiki  
@@ -562,11 +561,11 @@ forum - forumo
 fote - lumo  
 foti - luma  
 fotobaton - torĉo  
-fotocirke - halo  
 fotograf - foto  
 fotografia - fotografio  
 fotografer - fotisto  
 fotografmaxin - fotilo  
+fotosirke - halo  
 fransi krepe - franca krepo  
 Fransia - Francio  
 fransem - franciumo  
@@ -695,6 +694,9 @@ hamir - feĉo
 hande - mano  
 handi - mana  
 haos - kaoso (malordo)  
+hapa - taŭgigi  
+hapi - taŭga  
+hapu - taŭgi  
 harabi - ruinigita  
 harfe - litero  
 harfia - alfabeto  
@@ -1055,10 +1057,11 @@ limi - kvin (5)
 limyom - vendredo  
 limon - citrono  
 limonrangi - flava  
-lin - lango  
+lin - lineo (ŝnuro)  
+linem - fibro  
 lince - linko  
-linye - lineo  
 lisi - glata  
+lisan - lango  
 liste - listo  
 litem - litio  
 litre - litro  
@@ -1147,6 +1150,7 @@ member - membro
 men - signifo  
 Merkur - Merkuro  
 metal - metalo  
+metallin - drato  
 metode - metodo  
 metra - mezuri  
 metre - mezuro  
@@ -1548,7 +1552,7 @@ sin - brusto
 sinkapse - torako  
 sing - leono  
 Singapur - Singapuro  
-sirke - vinagro  
+sirka - ĉirkaŭi  
 sisyom - sabato  
 sismolojia - sismologio  
 sistem - sistemo  
@@ -1731,6 +1735,7 @@ uranem - uranio
 urse - urso  
 vulve - vulvo  
 uza - uzi  
+vinsuan - vinagro  
 ####X - X  
 xake - branĉo  
 xal - koltuko  

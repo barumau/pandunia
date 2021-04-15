@@ -98,7 +98,7 @@ amir - orden (mando, comando)
 amira - mandar (ordenar)  
 amiria - emirato  
 amirer - emir  
-amirlinye - interfaz de línea de comandos  
+amirlin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
 anama - detestar  
@@ -511,10 +511,6 @@ Cipia - Albania
 cir - rasgar (romper)  
 cira - rasgar (romper)  
 circiri - andrajoso  
-cirka - rodear (cirundar)  
-cirke - círculo  
-cirki - redondo (circular)  
-cirkoxeke - adoquín  
 cita - citar  
 citomarke - comilla  
 cize - queso  
@@ -747,7 +743,7 @@ ekran - pantalla
 Ekuador - Ecuador  
 eletre - electricidad  
 eletri - eléctrico  
-eletrolinye - cable  
+eletrolin - cable  
 eletroposte (e-poste) - email (correo electrónico)  
 eletrorade - relámpago  
 eletron - electrón  
@@ -921,7 +917,6 @@ forum - foro (espacio público)
 fote - luz (iluminación)  
 foti - claro (luminoso)  
 fotobaton - antorcha  
-fotocirke - halo (aureola)  
 fotofrika - pulir (lustrar)  
 fotograf - foto (fotografía)  
 fotografia - fotografía  
@@ -929,6 +924,7 @@ fotografer - fotógrafo
 fotografmaxin - cámara  
 fotominar - faro (baliza, almenara)  
 fotorade - rayo luminoso  
+fotosirke - halo (aureola)  
 Fransi Guyana - Guyana Francesa  
 fransi krepe - crepa (crep, tortilla de trigo)  
 Fransi Polnesia - Polinesia Francesa  
@@ -1047,8 +1043,8 @@ Geumedi Hai - Mediterráneo
 geumetria - geometría  
 geunici - subterráneo  
 geunici prizon - mazmorra  
-geuparlinye - ecuador  
-Geuparlinyi Ginia - Guinea Ecuatorial  
+geuparlin - ecuador  
+Geuparlini Ginia - Guinea Ecuatorial  
 geupolitike - geopolítica  
 geusisme - terremoto  
 geutermi - geotérmico  
@@ -1161,6 +1157,7 @@ hande - mano
 handi - manual  
 handoxake - brazo  
 haos - caos (desorden)  
+hapi - apropriado (apto, oportuno)  
 haraba - arruinar (destruir, devastar, asolar)  
 harabi - arruinado (devastado, asolado)  
 harabu - bloquearse (colgarse, fallar)  
@@ -1264,7 +1261,7 @@ huxi - cómodo (lujoso)
 ####I - I  
 ya - en (a)  
 ya ke - dónde  
-ya linye - en línea  
+ya lin - en línea  
 ya ve - allí (allá)  
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
@@ -1712,7 +1709,6 @@ kopernikem - copérnico
 kora - correr  
 korer - corredor  
 koral - coral  
-korde - hilo (cordel)  
 korne - corno  
 kornonos - rinoceronte  
 koron - corona  
@@ -1758,7 +1754,7 @@ krus - cruz
 krusu - cruzar  
 krusarke - ballesta  
 krusfiksa - crucificar  
-kruskorde - retículo  
+krusolin - retículo  
 kuani - ancho  
 kuania - anchura  
 kuang - mineral (mena)  
@@ -1866,7 +1862,7 @@ Liberia - Liberia
 lice - lichi  
 lida - dirigir (mandar, conducir, capitanear)  
 lider - dirigente (líder)  
-lidokorde - correa (rein)  
+lidolin - correa (rein)  
 Lietuva - Lituania  
 lietuva bax - lituano  
 lifaf - envoltura  
@@ -1890,14 +1886,15 @@ limon - limón
 limonike - cítrico  
 limonlugi - verde limón  
 limonrangi - amarillo  
-lin - lengua  
+lin - linea (hilo, cordel, raya)  
+linem - hebra (fibra)  
+linparce - nueva línea  
 lince - lince  
 linfe - linfa  
-linye - raya (linea)  
-linyoparce - nueva línea  
 linka - conectar (empalmar, enlazar, vincular)  
 linke - juntura (conexión, enlace)  
 lisi - suave (liso)  
+lisan - lengua  
 liste - lista  
 litem - litio  
 litre - litro  
@@ -2095,6 +2092,7 @@ mester - maestro (experto)
 metal - metal  
 metalbede - yunque  
 metaljanger - herrero  
+metallin - alambre (hilo)  
 metode - método  
 metra - medir (tomar las medidas)  
 metre - medida  
@@ -2469,8 +2467,8 @@ par - nivel
 pari - equilibrado (par)  
 pari numbe - número par  
 parike - equilibrado (par)  
-parlinyi - paralelo  
-parlinyu - alinear  
+parlini - paralelo  
+parlinu - alinear  
 Paraguai - Paraguay  
 parai - paria  
 paraya - despreciar (desdeñar)  
@@ -2995,10 +2993,10 @@ siri - secreto
 siri mote - sigilo  
 siro motu - colarse  
 sirplan - complot (conspiración)  
-sirke - vinagre  
-sirkopurxipa - encurtir  
-sirkopurxipi - encurtido  
-sirkopurxipi hiyar - pepinillo  
+sirka - rodear (cirundar)  
+sirke - círculo  
+sirki - redondo (circular)  
+sirkoxeke - adoquín  
 sisi - seis (6)  
 sisfas - hexaedro (cubo)  
 sisgon - hexágono  
@@ -3055,6 +3053,9 @@ sualdokum - formulario
 sualtem - asunto (caso)  
 Sualbarde - Svalbard  
 suani - agrio (ácido)  
+suanpurxipa - encurtir  
+suanpurxipi - encurtido  
+suanpurxipi hiyar - pepinillo  
 suar - noche (tarde)  
 suarden - tarde (después de mediodía)  
 suaryam - cena  
@@ -3070,7 +3071,6 @@ Sudi Iria (Alonia) - Osetia del Sur
 Sudi Jorjia e Sudi Sanduice nesia - Georgias del Sur y Sándwich del Sur  
 Sudi Sudan - Sudán del Sur  
 Sudafrike - Sudáfrica  
-sudonordia - latitud  
 Sudan - Sudán  
 suede - sudor  
 suedi - sudoroso (sudado)  
@@ -3423,6 +3423,8 @@ uzabli - utilizable (disponible)
 uzer - usuario  
 uzernam - nombre de usuario  
 Uzbekia - Uzbekistán  
+veisirke - latitud  
+vinsuan - vinagre  
 ####X - X  
 xake - rama  
 xakal - chacal  

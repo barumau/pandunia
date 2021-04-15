@@ -56,7 +56,9 @@ análise - fenkate
 aperfeiçoar - purbona  
 apodrecer-se - pudu  
 aprender - xula  
+apropriado (apto) - hapi  
 ar - air  
+arame - metallin  
 aranha - aran  
 arbusto (mata) - tali moke  
 arco - arke  
@@ -408,9 +410,9 @@ feio - dusvidi
 feliz - suki  
 feno - gancau  
 fermentar - biumutu  
+fibra - linem  
 filho ou filha - pute  
 filosofia - filsofia  
-fio (linha) - korde  
 fiorde - fiorde  
 fisiculturismo - muskulbin  
 flecha (seta) - flece  
@@ -555,7 +557,7 @@ libélula - libel
 lima - kagujolimon  
 limão - limon  
 lince - lince  
-linha - linye  
+linha (fio) - lin  
 lista - liste  
 literatura - kitabia  
 litro - litre  
@@ -579,7 +581,7 @@ lâmpada (luminária) - lampe
 léxico - logi  
 líder (chefe) - lider  
 língua (idioma) - bax  
-língua - lin  
+língua - lisan  
 língua materna - jeni bax  
 lírio - susan  
 lírio-do-vale - vadosusan  
@@ -714,7 +716,7 @@ oleiro - poter
 olho - oke  
 onda - onde  
 onde - ya ke  
-online - ya linye  
+online - ya lin  
 ontem - cendeno  
 opor - xata  
 opção - cuzable  

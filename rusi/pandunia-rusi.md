@@ -39,7 +39,7 @@ am - любовь
 ama - любить  
 amater - любитель  
 amer - любовник  
-amirlinye - командная строка  
+amirlin - командная строка  
 andiniste - неверующий  
 anmema - забывать  
 annam - антоним  
@@ -218,7 +218,6 @@ cir - рвать
 cira - рвать  
 circira - изорвать  
 circiri - изорванный  
-cirkoxeke - булыжник  
 cize - сыр  
 coi - зелень  
 coklate - шоколад  
@@ -288,7 +287,7 @@ dux - душ
 ####E - E  
 ekojeni - дикий  
 ekor - белка  
-eletrolinye - провод (кабель)  
+eletrolin - провод (кабель)  
 eletrorade - молния  
 em - элемент  
 emoje - смайлик (эмодзи)  
@@ -420,6 +419,7 @@ hami - важный (значимый)
 hamili - беременный  
 hande - рука  
 handoxake - рукав  
+hapi - подходящий (годный)  
 harfia - алфавит  
 Hartum - Хартум  
 hata - до  
@@ -453,7 +453,7 @@ hulei - лиса
 huri - свободный (вольный)  
 ####I - I  
 ya - в  
-ya linye - онлайн  
+ya lin - онлайн  
 Yahve - Яхве (Иегова)  
 yamfite - овощ  
 yamyau - голод  
@@ -607,7 +607,6 @@ kope - копия
 kora - бегать (бежать)  
 korer - бегун  
 koral - коралл  
-korde - нитка  
 kornomelon - кивано (рогатая дыня)  
 kornonos - носорог  
 koron - корона  
@@ -673,11 +672,12 @@ limi - пять (5)
 limyom - пятница  
 limon - лимон  
 limonike - цитрус  
-lin - язык  
+lin - линия (нитка)  
+linem - волокно  
 lince - рысь  
-linye - линия  
 linka - соединить (подключить)  
 linke - связь (ссылка)  
+lisan - язык  
 liste - список  
 litre - литр  
 loga - говорить  
@@ -861,7 +861,7 @@ papai - папайя
 par - уровень  
 pari - равный  
 pari numbe - чётное число  
-parlinyi - параллельный  
+parlini - параллельный  
 param - параметр (аргумент)  
 parce - кусок  
 parke - парк  
@@ -1033,7 +1033,7 @@ silke - шёлк
 sinplate - нагрудник  
 sira - скрывать  
 sirplan - заговор (сговор)  
-sirkopurxipi - марино́ванный  
+sirkoxeke - булыжник  
 sisi - шесть (6)  
 sisyom - суббота  
 slavi - славянский  
@@ -1058,6 +1058,7 @@ sosis - колбаса (сосиска)
 sual - вопрос  
 suala - спрашивать  
 sualdokum - анкета  
+suanpurxipi - марино́ванный  
 suar - вечер  
 sui - вода  
 suigas - пар  
@@ -1092,6 +1093,7 @@ tehnolojia - технология
 telfon - телефон  
 telfona - звонить  
 telfonia - телефония  
+telfonlin - телефонная линия  
 teloloku - телепортировать  
 telvide - телевизор  
 tem - тема  
@@ -1145,6 +1147,7 @@ vaxa - мыть
 vaxmaxin - стиральная машина  
 vaxurse - енот  
 vei - хвост  
+veilin - уток  
 venda - продать  
 vendoxopa - обмениваться  
 venjovoranje - мандарин уншиу  

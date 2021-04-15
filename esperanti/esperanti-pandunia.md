@@ -327,6 +327,7 @@ dormo - som
 dormoĉambro - somkamar  
 dorso - ruke  
 dramo - dram  
+drato - metallin  
 drinkejo - birkan  
 du (2) - duli  
 dubnio - dubnem  
@@ -433,6 +434,7 @@ fervojo - trendau
 festi - festa  
 festo - feste  
 feĉo - hamir  
+fibro - linem  
 figuro - figur  
 fiki - coda  
 fiksi - fiksa  
@@ -562,7 +564,7 @@ gvidi - gida
 ####H - H  
 hafnio - hafnem  
 Haitio - Aiti  
-halo - fotocirke  
+halo - fotosirke  
 halti - tingu  
 haltigi - tinga  
 halto - ting  
@@ -887,7 +889,7 @@ laktuko - letis
 lamenti - duku  
 lampo - lampe  
 lando - dex  
-lango - lin  
+lango - lisan  
 lanterno - hogosanduke  
 lasta - finodi  
 Latvio - Latvia  
@@ -913,7 +915,7 @@ libro - buke
 ligi - benda  
 ligno - mokomate  
 liki - lova  
-lineo - linye  
+lineo (ŝnuro) - lin  
 lingvistiko - baxlojia  
 lingvo - bax  
 linko - lince  
@@ -1555,6 +1557,9 @@ Tanzanio - Tanzania
 tapeto - murkaguje  
 taso - kupe  
 tatuo - tatu\*  
+taŭga - hapi  
+taŭgi - hapu  
+taŭgigi - hapa  
 teknecio - tehnem  
 tekniko - tehne  
 teknologio - tehnolojia  
@@ -1691,7 +1696,7 @@ vidi (rigardi) - vida
 vidvo - vidou  
 vikia artikulo - vike  
 vilaĝo - ruste  
-vinagro - sirke  
+vinagro - vinsuan  
 vinbero - putau  
 vino - vin  
 vintra - lengomosimi  
@@ -1764,7 +1769,7 @@ zuluo - Zulu
 ĉielo - ten  
 ĉimpanzo - cimpanze  
 ĉinĉilo - cincil  
-ĉirkaŭi - cirka  
+ĉirkaŭi - sirka  
 ĉiu - pan (pani)  
 ĉiu(j) - mei  
 ĉokolado - coklate  

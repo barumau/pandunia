@@ -519,10 +519,6 @@ cir - repeämä
 cira - repiä  
 circira - raastaa  
 circiri - raastettu  
-cirka - ympäröidä (piirittää)  
-cirke - piiri (ympyrä)  
-cirki - pyöreä  
-cirkoxeke - mukulakivi  
 cita - lainata (siteerata)  
 citomarke - lainausmerkki  
 cize - juusto  
@@ -766,7 +762,7 @@ eksa\* - eksa-
 Ekuador - Ecuador  
 eletre - sähkö  
 eletri - sähköinen  
-eletrolinye - sähköjohto  
+eletrolin - sähköjohto  
 eletroposte (e-poste) - sähköposti  
 eletrorade - salama  
 eletron - elektroni  
@@ -949,14 +945,15 @@ forum - foorumi
 fote - valo  
 foti - valoisa  
 fotobaton - soihtu  
-fotocirke - sädekehä (halo)  
 fotofrika - kiillottaa  
 fotograf - valokuva (foto)  
 fotografia - valokuvaus  
 fotografer - valokuvaaja  
 fotografmaxin - kamera  
+fotolin - valokuitu (valokaapeli)  
 fotominar - majakka  
 fotorade - valonsäde  
+fotosirke - sädekehä (halo)  
 Fransi Guyana - Ranskan Guiana  
 fransi krepe - kreppi  
 Fransi Polnesia - Ranskan Polynesia  
@@ -1073,14 +1070,16 @@ geugrafia - maantiede
 geugunia - maavoimat  
 Geumedi Hai - Välimeri  
 geumetria - geometria  
-geuparlinye - päiväntasaaja  
-Geuparlinyi Ginia - Päiväntasaajan Guinea  
+geuparlin - päiväntasaaja  
+Geuparlini Ginia - Päiväntasaajan Guinea  
 geupolitike - geopolitiikka  
 geusisme - maanjäristys  
 geutike - tontti (maakaistale)  
 gida - opastaa (ohjata)  
 gider - opas (tiennäyttäjä)  
 gidobuke - matkaopas (opaskirja)  
+gingi - pitkittäinen  
+ginglin - loimi  
 gitar - kitara  
 giuke - jade  
 glisu - liukua (luistaa)  
@@ -1176,6 +1175,9 @@ hande - käsi
 handi - käsi-  
 handoxake - käsivarsi  
 haos - kaaos  
+hapa - sovittaa (mukauttaa)  
+hapi - sopiva (passeli)  
+hapu - sopia (passata)  
 haraba - pilata (raunioittaa)  
 harabi - pilalla (raunioina)  
 harabu - pilaantua (raunioitua)  
@@ -1736,6 +1738,7 @@ krote - kontiainen (maamyyrä)
 kruasante - voisarvi (kroissantti)  
 krus - risti  
 krusfiksa - ristiinnaulita  
+krusolin - ristikko  
 kuani - leveä  
 kuang - kivennäinen (mineraali)  
 kuangosui - kivennäisvesi  
@@ -1818,7 +1821,7 @@ Libanen - Libanon
 libel - sudenkorento  
 Liberia - Liberia  
 lice - litši  
-lida - johtaa  
+lida - johtaa (ohjata)  
 lider - johtaja (pomo)  
 Lietuva - Liettua  
 lietuva bax - liettualainen  
@@ -1842,14 +1845,15 @@ limlun - toukokuu
 limite - raja  
 limon - sitruuna  
 limonrangi - keltainen  
-lin - kieli (elin)  
+lin - linja (viiva, lanka, liina, naru, köysi)  
+linem - säie (kuitu)  
+linparce - rivinvaihto  
 lince - ilves  
 linfe - lymfa  
-linye - viiva (linja)  
-linyoparce - rivinvaihto  
 linka - yhdistää  
 linke - yhdistys (sidos)  
 lisi - sileä  
+lisan - kieli (elin)  
 liste - lista (luettelo)  
 litem - litium  
 litre - litra  
@@ -2032,6 +2036,7 @@ mesta - taitaa (olla mestari jskn)
 mester - mestari (asiantuntija)  
 metal - metalli  
 metaljanger - seppä  
+metallin - vaijeri (metallilanka)  
 metode - keino (menetelmä, metodi)  
 metra - mitata  
 metre - mitta (koko, määrä)  
@@ -2839,7 +2844,10 @@ Singapur - Singapore
 sinye - merkki (signaali)  
 siri - salainen  
 sirplan - juoni (salaliitto)  
-sirke - etikka  
+sirka - ympäröidä (piirittää)  
+sirke - piiri (ympyrä)  
+sirki - pyöreä  
+sirkoxeke - mukulakivi  
 sisi - kuusi (6)  
 sisfas - kuutio (kuusitahokas)  
 sisgon - kuusikulmio  
@@ -2989,6 +2997,7 @@ telia - etäisyys (kaukaisuus)
 telfon - puhelin  
 telfona - soittaa puhelimella  
 telfonia - puhelintekniikka  
+telfonlin - puhelinjohto  
 telvide - televisio  
 telugi - telugu (eräs intialainen kieli)  
 tem - aihe (teema)  
@@ -3113,6 +3122,8 @@ vaxmaxin - pesukone
 Vaxington D####C - Washington DC  
 UDA du - yhdysvaltalainen (ns. Amerikkalainen)  
 vei - häntä  
+veyi - poikittainen (vaaka)  
+veilin - kude  
 Venezuela - Venezuela  
 Venjou - Wenzhou  
 venjovoranje - satsuma  
@@ -3201,6 +3212,8 @@ vute - esine (tavara)
 uza - käyttää  
 uzer - käyttäjä  
 Uzbekia - Uzbekistan  
+veisirke - leveyspiiri  
+vinsuan - etikka  
 ####X - X  
 xake - oksa (haara)  
 xakal - šakaali  

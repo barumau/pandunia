@@ -21,6 +21,7 @@ actif - ativi
 actinium - acinem  
 action - ation  
 activer (allumer, mettre en marche, déclencher) - ativa  
+adapter (ajuster) - hapa  
 adhésif (collant) - gluti  
 adjectif - sifloge  
 adresse - adres  
@@ -98,6 +99,7 @@ appliquer - aplika
 apporter - layana  
 apprendre (étudier) - xula  
 apprivoiser (dresser, dompter, discipliner) - dosila  
+approprié (adapté, convenable, opportun) - hapi  
 arabe - arabi  
 arachnophobie - aranfobia  
 araignée - aran  
@@ -359,7 +361,7 @@ compote de pommes - aplosaus
 comprendre (réaliser) - aha  
 concert - konserte  
 concombre - hiyar  
-concombre confit (cornichon) - sirkopurxipi hiyar  
+concombre confit (cornichon) - suanpurxipi hiyar  
 concombre de mer - haihiyar  
 conseil - sel  
 conseiller - sela  
@@ -370,6 +372,7 @@ conteneur - inan
 continu (analogique) - zoki  
 continuer (poursuivre) - zoka  
 contract (traité) - trate  
+convenir (être approprié) - hapu  
 convention (alliance, pacte) - kontrate  
 copie - kope  
 coquelicot - medenpapil  
@@ -465,7 +468,7 @@ dynamite - dinamite
 dé - zarkube  
 déboguer (débugger) - angalta  
 début (commencement) - xur  
-décapé (mariné) - sirkopurxipi  
+décapé (mariné) - suanpurxipi  
 déchirer - cir  
 déchirer - cira  
 défigurer - dusforma  
@@ -485,7 +488,7 @@ empreinte digitale - angulmarke
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
-en ligne - ya linye  
+en ligne - ya lin  
 enclume - metalbede  
 encore - zoko  
 enfant - bace  
@@ -528,8 +531,10 @@ fermenter - biumutu
 feu - hoge  
 feu d’artifice - hogotehne  
 fiable (de confiance, fidèle, sûr, crédible) - ameni  
+fibre - linem  
 fier - yauxina  
-fil - korde  
+fil de fer - metallin  
+fil de trame - veilin  
 fils ou fille - pute  
 fini - fini  
 fiord - fiorde  
@@ -696,7 +701,7 @@ lama - liama\*
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bax  
-langue - lin  
+langue - lisan  
 langue maternelle - jeni bax  
 lapin (lièvre) - tuze  
 lapis-lazuli - lazurpetre  
@@ -712,8 +717,9 @@ libre - huri
 lichen - algofung  
 lien - linke  
 lieu - loke  
-ligne - linye  
-ligne de commande (console, terminal, invite de commande) - amirlinye  
+ligne (fil) - lin  
+ligne de commande (console, terminal, invite de commande) - amirlin  
+ligne téléphonique - telfonlin  
 lime (citron vert) - kagujolimon  
 lire - duga  
 liste - liste  
@@ -937,7 +943,7 @@ patient - patike
 pause - pauze  
 pavot d'Orient - guipapil  
 pavot somnifère - sompapil  
-pavé - cirkoxeke  
+pavé - sirkoxeke  
 peindre - penta  
 peinture - pente  
 pelle - bel  

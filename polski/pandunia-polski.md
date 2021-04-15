@@ -508,10 +508,6 @@ cir - rwać (drzeć)
 cira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
 circira - strzępić (drzeć)  
 circiri - rozstrzępiony (podarty)  
-cirka - otoczyć, otaczać  
-cirke - koło, okrąg  
-cirki - okrągły  
-cirkoxeke - bruk  
 cita - cytować  
 citomarke - cudzysłów  
 cize - ser  
@@ -746,7 +742,7 @@ ekran - ekran
 Ekuador - Ekwador  
 eletre - elektryczność  
 eletri - elektryczny  
-eletrolinye - kabel (linia)  
+eletrolin - kabel (linia)  
 eletroposte (e-poste) - poczta elektroniczna  
 eletrorade - piorun (grom)  
 eletron - elektron  
@@ -919,7 +915,6 @@ forum - forum
 fote - światło, oświetlenie  
 foti - jasny, świetlny  
 fotobaton - pochochodnia (latarka)  
-fotocirke - efekt halo  
 fotofrika - polerować (szlifować)  
 fotograf - zdjęcie (fotografia)  
 fotografia - fotografia  
@@ -927,6 +922,7 @@ fotografer - fotograf
 fotografmaxin - kamera, aparat fotograficzny  
 fotominar - latarnia morska  
 fotorade - promień światła  
+fotosirke - efekt halo  
 Fransi Guyana - Gujana Francuska  
 fransi krepe - francuski naleśnik (crêpe)  
 Fransi Polnesia - Polinezja Francuska  
@@ -1040,8 +1036,8 @@ geulojia - geologia
 Geumedi Hai - Morze Śródziemne  
 geunici - podziemny  
 geunici prizon - loch  
-geuparlinye - równik  
-Geuparlinyi Ginia - Gwinea Równikowa  
+geuparlin - równik  
+Geuparlini Ginia - Gwinea Równikowa  
 geusisme - trzęsienie Ziemi  
 geutike - działka (teren)  
 gida - prowadzić (wskazać drogę)  
@@ -1251,7 +1247,7 @@ huxi - miły, przyjemny, uroczy
 ####I - I  
 ya - przy, z, na, w, u  
 ya ke - gdzie  
-ya linye - online (na linii, w sieci)  
+ya lin - online (na linii, w sieci)  
 ya ve - tu (tutaj, tam)  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
@@ -1702,7 +1698,6 @@ kopohake - prawa autorskie
 kopernikem - kopernik  
 kora - biec (biegać, pędzić)  
 koral - koral  
-korde - nić (dratwa, włókno)  
 korne - róg  
 kornomelon - ogórek kiwano  
 kornonos - nosorożec  
@@ -1751,7 +1746,7 @@ krus - krzyż
 krusu - przejść w poprzek  
 krusarke - kusza (balista)  
 krusfiksa - ukrzyżować  
-kruskorde - celownik optyczny (siatka lunety)  
+krusolin - celownik optyczny (siatka lunety)  
 kuani - szeroki  
 kuania - szerokość  
 kuang - minerał, ruda  
@@ -1862,7 +1857,7 @@ Liberia - Liberia
 lice - liczi  
 lida - prowadzić, dowodzić, kierować  
 lider - dowódca, kierownik  
-lidokorde - smycz (cugiel, lejc, wodza)  
+lidolin - smycz (cugiel, lejc, wodza)  
 Lietuva - Litwa  
 lietuva bax - litewski  
 lifaf - owinięcie (koperta, okładka)  
@@ -1887,14 +1882,15 @@ limiti - skończony (ograniczony)
 limon - cytryna  
 limonlugi - limonkowy (limonkowo zielony)  
 limonrangi - żółty  
-lin - język  
+lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
+linem - włókno  
+linparce - złamanie lini  
 lince - ryś  
 linfe - limfa  
-linye - linia, pas, pręga, smuga  
-linyoparce - złamanie lini  
 linka - łączyć, wiązać, złączyć  
 linke - połączenie, złącze, styk  
 lisi - gładki  
+lisan - język  
 liste - lista, spis, wykaz  
 litem - lit  
 litre - litr  
@@ -2232,7 +2228,7 @@ muzike - muzyka
 muziker - muzyk  
 ####N - N  
 na - bez  
-na linye - offline (nie na linii, poza siecią)  
+na lin - offline (nie na linii, poza siecią)  
 no - nie  
 nabe - proroctwo  
 naber - prorok  
@@ -2474,8 +2470,8 @@ papir - dokument
 Papua Novi Ginia - Papua Nowa Gwinea  
 pari - równy  
 parike - równy  
-parlinyi - równoległy (podłużny)  
-parlinyu - iść wzdłuż (pójść wzdłuż)  
+parlini - równoległy (podłużny)  
+parlinu - iść wzdłuż (pójść wzdłuż)  
 Paraguai - Paragwaj  
 parai - wyrzutek  
 paraya - gardzić (pogardzać)  
@@ -2991,11 +2987,10 @@ siri - sekret
 siri mote - skradanie się  
 siro motu - skradać się  
 sirplan - spisek (konspiracja)  
-sirke - ocet  
-sirkopurxipa - kisić (marynować)  
-sirkopurxipe - marynować  
-sirkopurxipi - kiszony (marynowany)  
-sirkopurxipi hiyar - korniszon  
+sirka - otoczyć, otaczać  
+sirke - koło, okrąg  
+sirki - okrągły  
+sirkoxeke - bruk  
 sisi - sześć (6)  
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
@@ -3055,6 +3050,10 @@ sualdokum - formularz (kwestionariusz)
 sualtem - kwestia, problem  
 Sualbarde - Swalbard  
 suani - kwaśny  
+suanpurxipa - kisić (marynować)  
+suanpurxipe - marynować  
+suanpurxipi - kiszony (marynowany)  
+suanpurxipi hiyar - korniszon  
 suar - wieczór  
 suarden - popołudnie  
 suaryam - kolacja  
@@ -3070,7 +3069,6 @@ Sudi Iria (Alonia) - Osetia Południowa
 Sudi Jorjia e Sudi Sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
 Sudi Sudan - Sudan Południowy  
 Sudafrike - Południowa Afryka  
-sudonordia - południk  
 Sudan - Sudan  
 suede - pot  
 suedi - spocony  
@@ -3421,6 +3419,8 @@ uza - użyć, używać, zatrudnić, stosować
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 Uzbekia - Uzbekistan  
+veisirke - południk  
+vinsuan - ocet  
 ####X - X  
 xake - gałąź, konar  
 xakal - szakal  

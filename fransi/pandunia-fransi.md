@@ -96,7 +96,7 @@ Ameriki Samoa - Samoa américaines
 amerikem - américium  
 amiria - émirat  
 amirer - émir  
-amirlinye - ligne de commande (console, terminal, invite de commande)  
+amirlin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
 anama - exécrer  
@@ -339,7 +339,6 @@ cerize - cerise
 cili\* - piment  
 cir - déchirer  
 cira - déchirer  
-cirkoxeke - pavé  
 cize - fromage  
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
@@ -554,6 +553,9 @@ halou - allô
 hami - important  
 hande - main  
 handoxake - bras  
+hapa - adapter (ajuster)  
+hapi - approprié (adapté, convenable, opportun)  
+hapu - convenir (être approprié)  
 harfia - alphabet  
 Hartum - Khartoum  
 hata - jusque (jusqu’à)  
@@ -591,7 +593,7 @@ huri - libre
 ####I - I  
 ya - a (dans, en, chez)  
 ya ke - où  
-ya linye - en ligne  
+ya lin - en ligne  
 Yahve - Yahweh (Jéhovah)  
 yamfite - légume  
 yamyau - faim  
@@ -741,7 +743,6 @@ kope - copie
 kora - courir  
 korer - coureur  
 koral - corail  
-korde - fil  
 korne - corne  
 koron - couronne  
 kortokrokodil - alligator  
@@ -809,10 +810,11 @@ lilxeke - caillou
 limi - cinq (5)  
 limyom - vendredi  
 limon - citron  
-lin - langue  
+lin - ligne (fil)  
+linem - fibre  
 lince - lynx  
-linye - ligne  
 linke - lien  
+lisan - langue  
 liste - liste  
 litre - litre  
 loga - parler  
@@ -891,6 +893,7 @@ mening - méninge
 Merkur - Mercure  
 mester - maître  
 metalbede - enclume  
+metallin - fil de fer  
 metrograf - carte  
 metrografia - cartographie  
 meze - table  
@@ -1174,8 +1177,7 @@ silke - soie
 sira - cacher  
 siri mote - célérité  
 sirplan - complot (conspiration)  
-sirkopurxipi - décapé (mariné)  
-sirkopurxipi hiyar - concombre confit (cornichon)  
+sirkoxeke - pavé  
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
@@ -1199,6 +1201,8 @@ sosia - société
 sosis - saucisse  
 sual - question  
 suala - demander (poser un question; est-ce que)  
+suanpurxipi - décapé (mariné)  
+suanpurxipi hiyar - concombre confit (cornichon)  
 suar - soir (soirée)  
 suede - sueur  
 sui - eau  
@@ -1232,6 +1236,7 @@ tehne - technique
 tehnolojia - technologie  
 telfon - téléphone  
 telfona - téléphoner  
+telfonlin - ligne téléphonique  
 telvide - téléviseur  
 tem - sujet (thème)  
 temnam - titre  
@@ -1273,6 +1278,7 @@ vampirbalsenter - vampire des abysses
 varkalge - varech  
 varkolate - page  
 vaxurse - raton laveur  
+veilin - fil de trame  
 venda - vendre  
 vendoxopa - commercer  
 Venezuela - Venezuela  
