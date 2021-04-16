@@ -259,6 +259,7 @@ contêiner - inan
 copo (taça) - kupe  
 cor - rang  
 coral - koral  
+corno - korne  
 coro - cantergrupe  
 corpo - bode  
 corredor - korer  

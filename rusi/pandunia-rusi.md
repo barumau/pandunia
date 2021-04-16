@@ -1012,11 +1012,13 @@ sela - советовать
 selge - мангольд  
 sem - семя  
 semi - семенной  
+semente - цемент  
 sen - сцена  
 sense - чувство  
 senter - щупальце  
 ser - пила  
 seram - керамика  
+sesam - сезам  
 seti - семь (7)  
 setyom - воскресенье  
 siani - циан  

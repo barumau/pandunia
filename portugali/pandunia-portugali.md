@@ -544,6 +544,7 @@ kope - cópia
 kora - correr  
 korer - corredor  
 koral - coral  
+korne - corno  
 kornomelon - pepino-africano (kiwano)  
 kortokrokodil - aligátor (jacaré)  
 kosmi - cósmico  

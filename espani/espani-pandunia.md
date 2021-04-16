@@ -820,7 +820,6 @@ Corea - Cosen
 Corea del Norte - Nordi Cosen  
 Corea del Sur - Sudi Cosen  
 coreano - Coseni  
-corno - korne  
 coro - cantergrupe  
 corona - koron  
 corporal (corpóreo) - bodi  
@@ -898,6 +897,7 @@ cubrir (tapar) - daka
 cuchara - camace  
 cuchillo - cake  
 cuenta (factura) - bil  
+cuerno - korne  
 cuerpo - bode  
 cuerpo celeste - astre  
 cueva (caverna) - guh  

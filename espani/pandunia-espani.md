@@ -1709,7 +1709,7 @@ kopernikem - copérnico
 kora - correr  
 korer - corredor  
 koral - coral  
-korne - corno  
+korne - cuerno  
 kornonos - rinoceronte  
 koron - corona  
 korta - acortar (abreviar)  
