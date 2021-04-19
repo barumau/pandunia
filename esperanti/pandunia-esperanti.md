@@ -1379,9 +1379,9 @@ poli - multe
 polbaxi - multlingva  
 polgon - poligono  
 polmaro - ofte  
-politike - politiko  
+politia - politiko  
+politike - politikisto  
 politiki - politika  
-politiker - politikisto  
 polskem - polonio  
 ponta - montri  
 porte - haveno  

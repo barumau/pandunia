@@ -14,6 +14,7 @@ acordo (tratado, contrato) - trate
 acordo - samrayia  
 adesivo - glutograf  
 adjetivo - sifloge  
+administrador - politer  
 adversário - xatan  
 aeite (óleo) - nefte  
 aeroporto - airporte  
@@ -456,7 +457,7 @@ girafa - jiraf
 girassol - solful  
 golfinho (delfim) - dolfin  
 gorila - goril  
-governo - governe  
+governo - polite  
 granito - granite  
 graças a - danko da  
 grupo - grupe  
@@ -873,6 +874,7 @@ raça - ras
 raíz - mul  
 reciclar - reisikla  
 refugo (escória) - laje  
+regime - politomode  
 relier (connecter) - linka  
 religião - din  
 relógio - horloger  
@@ -941,6 +943,7 @@ ser humano - insan
 serra - ser  
 sete (7) - seti  
 sexo - jinse  
+sexologia - seksolojia  
 sexta-feira - limyom  
 sim - ha  
 simetria - sammetria  

@@ -1430,6 +1430,7 @@ jinu - edetä (edistyä)
 jinmun - sisäänkäynti  
 jinse - sukupuoli  
 jinsi - sukupuolinen  
+jinsolojia - sukupuolitutkimus  
 jiraf - kirahvi  
 jiu - elämä (olemassaolo)  
 jivi - elävä (elää)  
@@ -2507,10 +2508,14 @@ polnasi - monikansallinen
 polau - pilahvi  
 polis - poliisi  
 poliser - poliiisi (poliisimies)  
-politike - politiikka  
+polita - hallita (hallinnoida)  
+polite - hallinto  
+politia - politiikka  
+politer - hallinnoija  
+politike - poliitikko  
 politiki - poliittinen  
-politiker - poliitikko  
-politikolojia - politiikantutkimus  
+politolojia - politiikantutkimus  
+politomode - hallintomuoto  
 Polske - puola  
 polski - puolalainen  
 polskem - polonium  
@@ -2786,6 +2791,7 @@ sekreter - sihteeri
 sekreteria - sihteeristö  
 sekse - seksi (sukupuolisuhde)  
 seksi - seksikäs  
+seksolojia - seksologia  
 sekunde - sekunti  
 sekura - suojella (suojata, turvata)  
 sekuri - turvallinen (varma)  

@@ -1172,8 +1172,6 @@ gon - corner (angle)
 gonmetrer - goniometer  
 goril - gorilla  
 goton - cotton  
-governa - govern  
-governe - government  
 graf - drawing (graph, image)  
 grafa - draw  
 grafi - graphic (pictorial)  
@@ -1560,6 +1558,7 @@ jinu - advance (progress, go forward, enter)
 jinmun - entrance  
 jinse - gender (sex)  
 jinsi - sexual (pertaining to gender)  
+jinsolojia - gender studies  
 jiraf - giraffe  
 jiu - life (existence)  
 jivi - live (be alive, living)  
@@ -2839,10 +2838,14 @@ polnasi - multinational
 polau - pilaf (pulao)  
 polis - police  
 poliser - police officer  
-politike - politics  
+polita - administer (govern)  
+polite - government (administration, polity)  
+politia - politics  
+politer - administrator  
+politike - politician (statesman)  
 politiki - political  
-politiker - politician  
-politikolojia - politocology  
+politolojia - politicology  
+politomode - regime  
 Polske - Poland  
 polski - Polish  
 polskem - polonium  
@@ -3168,6 +3171,7 @@ sekreteria - secretariat
 seksa - have sex  
 sekse - sex (sexual relation)  
 seksi - sexy (sexually arousing)  
+seksolojia - sexology  
 sekunde - second(s)  
 sekura - protect (secure, save)  
 sekuri - safe (secure, protected)  

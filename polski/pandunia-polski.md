@@ -1060,8 +1060,6 @@ gon - kąt
 gonmetrer - goniometr (kątomierz)  
 goril - goryl  
 goton - bawełna  
-governa - rządzić  
-governe - rząd  
 graf - opis, przedstawienie; wykres  
 grafa - opisywać, ilustorawć; przedstawiać  
 grafi - obrazowy, graficzny; opisowy  
@@ -2609,10 +2607,12 @@ polnasi - wielonarodowy
 polau - pilaw  
 polis - policja  
 poliser - oficer policji, policjant  
-politike - polityka  
+polita - rządzić  
+polite - rząd  
+politia - polityka  
+politike - polityk  
 politiki - polityczny  
-politiker - polityk  
-politikolojia - politologia  
+politolojia - politologia  
 Polske - Polska  
 polski - polski  
 polskem - polon  
@@ -2918,6 +2918,7 @@ sekreteria - sekretariat
 seksa - kochać się, uprawiać seks  
 sekse - seks, stosunek płciowy  
 seksi - seksowny, ponętny  
+seksolojia - seksuologia  
 sekunde - sekunda  
 sekura - chronić (ratować)  
 sekuri - bezpieczny  

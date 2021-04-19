@@ -2090,10 +2090,10 @@ policja - polis
 policzyć, liczyć, przetwarzać dane - komputa  
 Polinezja Francuska - Fransi Polnesia  
 politeizm - poldevistia  
-politologia - politikolojia  
+politologia - politolojia  
 polityczny - politiki  
-polityk - politiker  
-polityka - politike  
+polityk - politike  
+polityka - politia  
 polon - polskem  
 polowanie (łowienie) - saide  
 polować (łowić) - saida  
@@ -2510,8 +2510,8 @@ rzodkiewka - lobake
 rzucić, rzucać, miotać, cisnąć, ciskać - lanca  
 rzut (projekcja) - lancograf  
 Rzym - Roma  
-rząd - governe  
-rządzić - governa  
+rząd - polite  
+rządzić - polita  
 rządzić, władać - kratia  
 rządzić, władać - sulta  
 rzęsa - okokex  
@@ -2568,6 +2568,7 @@ sekretariat - sekreteria
 sekretarz - sekreter  
 seks, stosunek płciowy - sekse  
 seksowny, ponętny - seksi  
+seksuologia - seksolojia  
 sekunda - sekunde  
 selen - selenem  
 sen - som  

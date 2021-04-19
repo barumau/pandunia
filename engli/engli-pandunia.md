@@ -34,6 +34,8 @@ additional - maxi
 address - adres  
 adhesive bandage (band-aid, sticking plaster) - glutobende  
 adjective - sifloge  
+administer (govern) - polita  
+administrator - politer  
 admiral - hayamirer  
 adult - matur  
 adultery (infidelity) - zin  
@@ -1381,6 +1383,7 @@ gazelle - gazel
 gel (jelly) - jel  
 gem (gemstone, jewel) - bauxeke  
 gender (sex) - jinse  
+gender studies - jinsolojia  
 genderqueer (non-binary) - bis  
 generalissimo (shogun) - gunrajer  
 generation (cohort) - jengrupe  
@@ -1441,8 +1444,7 @@ good luck - boni zar
 Good morning - salam sube  
 gorilla - goril  
 gospel (divine message) - evanjil  
-govern - governa  
-government - governe  
+government (administration, polity) - polite  
 gradient (gradation, incline) - darjomeden  
 gradual - darji  
 gram (g) - gram  
@@ -2650,9 +2652,9 @@ polish - fotofrika
 Polish - polski  
 polite - keci  
 political - politiki  
-politician - politiker  
-politics - politike  
-politocology - politikolojia  
+politician (statesman) - politike  
+politicology - politolojia  
+politics - politia  
 polonium - polskem  
 poly- (multi-) - pol-  
 polygon - polgon  
@@ -2821,6 +2823,7 @@ recycle - reisikla
 red - lali  
 reflect - mira  
 refuse (deny, decline) - nega  
+regime - politomode  
 region - tope  
 register (record, log) - defta  
 register (record, log) - defte  
@@ -3057,6 +3060,7 @@ sesame - sesam
 seven (7) - seti  
 sew - suta  
 sex (sexual relation) - sekse  
+sexology - seksolojia  
 sexual (pertaining to gender) - jinsi  
 sexual desire (lust) - kamia  
 sexy (sexually arousing) - seksi  

@@ -1177,8 +1177,6 @@ gon:|gon|||hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana
 gon.metr.er:|gonmetrer||||goniometer||goniómetro (medidor de ángulos)||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
 goril:|goril|biu||eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)|gorilla|gorille|gorila|gorila|горилла|غوريلا|大猩猩|ゴリラ|고릴라|khỉ đột (gôrila)|वनमानुष (गोरिल्ला)|গরিলা|gorila|ngagi|||gorilla|goryl
 goton:|goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton|coton|algodón|algodão|хлопок||棉||||कपास|||||kotono|puuvilla|bawełna
-gouern:a|governa||||govern||gobernar|||||治める (司る)||||||||||rządzić
-gouern:e|governe|||eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|government|gouvernement|gobierno|governo|||政府|政府||||||||||rząd
 graf:|graf|||eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)|drawing (graph, image)||imagen (gráfico, dibujo)|||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
 graf:a|grafa||||draw||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
 graf:i|grafi||||graphic (pictorial)||gráfico (pictórico, ilustrado)|||||||||||||grafika (bilda)|graafinen|obrazowy, graficzny; opisowy
@@ -1563,8 +1561,9 @@ jin:a|jina||||put forward (advance, progress)|||||||||||||||||
 jin:o|jino||||forward|en avant|adelante||||||||||||||eteen päin|naprzód
 jin:u|jinu|||zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|advance (progress, go forward, enter)||avanzar (entrar, adelantar, progresar)||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
 jin.mun:|jinmun||||entrance||entrada||||||||||||||sisäänkäynti|wejście
-jins:e|jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero|gender (sex)|sexe|sexo (género)|sexo|пол|جِنْس|性别|性別|성별|giới tính|लिंग|লিঙ্গ|jenis kelamin|jinsia|cinsiyet|sekso|sukupuoli|płeć
+jins:e|jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|gender (sex)|sexe|sexo (género)|sexo|пол|جِنْس|性别|性別 (ジェンダー)|성별|giới tính|लिंग|লিঙ্গ|jenis kelamin|jinsia|cinsiyet|sekso|sukupuoli|płeć
 jins:i|jinsi||||sexual (pertaining to gender)|||||||||||||||seksa|sukupuolinen|płciowy
+jins.o.loj:ia|jinsolojia||||gender studies|études de genre|||гендерные исследования||性别研究|ジェンダー研究|||||||cinsellik bilimi||sukupuolitutkimus|
 jiraf:|jiraf|biu||ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe|giraffe|jirafa|girafa|жираф|زَرَافَة|长颈鹿|麒麟|지라프 (기린)|hươu cao cổ|जिराफ़|জরৈফ|jerapah|twiga|zürafa|ĝirafo|kirahvi|żyrafa
 jiu:|jiu|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|life (existence)|vie|vida|vida|жизнь|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)||hidup (hayat)|uhai||vivo|elämä (olemassaolo)|życie
 jiu:i|jivi||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä (elää)|żyć (żywy, żyjący)
@@ -2849,10 +2848,14 @@ pol.nas:i|polnasi||||multinational||multinacional||||||||||||||monikansallinen|w
 polau:|polau|||fas:(polou), hin:पुलाव (pulav), tur:pilav, rus:плов (plov)|pilaf (pulao)||pilaf (pulaw)||плов||||||पुलाव||||pilav||pilahvi|pilaw
 polis:|polis|||eng:fra:police, por:polícia, spa:policía, rus:полиция (policija), tur:may:polis, swa:polisi, ara:بُولِيس‎ (būlīs), hin:पोलिस (polis), ben:পুলিশ (puliś)|police||policía||||||||||||||poliisi|policja
 polis.er:|poliser||||police officer||policía||||||||||||||poliiisi (poliisimies)|oficer policji, policjant
-politik:e|politike|||ell:πολιτική (politikē), may:politik, tur:politika, eng:politics, por:spa:política, fra:politique, rus:политика (politika)|politics||política|||||||||||||politiko|politiikka|polityka
-politik:i|politiki||||political||político|||||||||||||politika|poliittinen|polityczny
-politik.er:|politiker||||politician||político|||||||||||||politikisto|poliitikko|polityk
-politik.o.loj:ia|politikolojia||||politocology||ciencia política||||||||||||||politiikantutkimus|politologia
+polit:a|polita||||administer (govern)||gobernar|||||治める (司る)|||||||||hallita (hallinnoida)|rządzić
+polit:e|polite|||ell:πολιτική (politikē), may:politik, tur:politika, eng:politics, por:spa:política, fra:politique, rus:политика (politika)|government (administration, polity)|gouvernement|gobierno|governo|||政府|政府|||||||||hallinto|rząd
+polit:ia|politia||||politics||política|||||||||||||politiko|politiikka|polityka
+polit.er:|politer||||administrator|administrateur|administrador|administrador|управляющий||||||||||||hallinnoija|
+polit.ik:e|politike||||politician (statesman)||político|||||||||||||politikisto|poliitikko|polityk
+polit.ik:i|politiki||||political||político|||||||||||||politika|poliittinen|polityczny
+polit.o.loj:ia|politolojia||||politicology||ciencia política||||||||||||||politiikantutkimus|politologia
+polit.o.mod:e|politomode||||regime||régimen|regime|||政体|政体|||||||||hallintomuoto|
 Polsk:e|Polske|dex|PL||Poland||Polonia||||||||||||||puola|Polska
 polsk:i|polski||||Polish||polaco||||||||||||||puolalainen|polski
 polsk.em:|polskem|mate|Po||polonium||polonio|||||||||||||polonio|polonium|polon
@@ -3179,6 +3182,7 @@ sekret.er:ia|sekreteria||||secretariat||secretaría||||||||||||||sihteeristö|se
 seks:a|seksa||||have sex||tener sexo|||||||||||||||kochać się, uprawiać seks
 seks:e|sekse|||eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|sex (sexual relation)||sexo|||||||||||||sekso|seksi (sukupuolisuhde)|seks, stosunek płciowy
 seks:i|seksi||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny, ponętny
+seks.o.loj:ia|seksolojia||||sexology|sexologie|sexología|sexologia|сексология|طِبّ جِنْسِيّ‎|性学|性科学||tình dục học||যৌনবিদ্যা|||seksoloji||seksologia|seksuologia
 sekund:e|sekunde|||eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)|second(s)||segundo||||||||||||||sekunti|sekunda
 sekur:a|sekura||||protect (secure, save)||proteger (asegurar, guardar)||||||||||||||suojella (suojata, turvata)|chronić (ratować)
 sekur:i|sekuri|||eng:secure, deu:sicher, spa:por:seguro|safe (secure, protected)|sûr|seguro|seguro|||||||||||||turvallinen (varma)|bezpieczny

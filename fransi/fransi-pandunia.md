@@ -24,6 +24,7 @@ activer (allumer, mettre en marche, déclencher) - ativa
 adapter (ajuster) - hapa  
 adhésif (collant) - gluti  
 adjectif - sifloge  
+administrateur - politer  
 adresse - adres  
 adulte - matur  
 adversaire (antagoniste, ennemi) - xatan  
@@ -583,7 +584,7 @@ glisser - glisu
 gombo - bamye  
 gorille - goril  
 goule - gul  
-gouvernement - governe  
+gouvernement - polite  
 granit - granite  
 gravire - grau  
 grenouille - krokroke  
@@ -1154,6 +1155,7 @@ serrure - sor
 serviette - gantex  
 seul (unique) - uniki  
 sexe - jinse  
+sexologie - seksolojia  
 shopping - xope  
 si - aga  
 signer - namkitaba  
@@ -1368,6 +1370,7 @@ zèbre - zebre
 éternuer - acua  
 étinceler - xingofota  
 étoile - xing  
+études de genre - jinsolojia  
 étudiant - xuler  
 étymologie - logaslia  
 été - garmomosim  

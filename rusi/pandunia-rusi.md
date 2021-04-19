@@ -503,6 +503,7 @@ jenita - выращивать
 jentipe - генотип  
 jihade - борьба (бой)  
 jinse - пол  
+jinsolojia - гендерные исследования  
 jiraf - жираф  
 jiu - жизнь  
 jivi - живой  
@@ -916,6 +917,7 @@ plum - слива
 polbaxi - многоязычный  
 polmaro - часто  
 polau - плов  
+politer - управляющий  
 pontopin - компас  
 porei - лук-порей  
 porte - порт  
@@ -1007,6 +1009,7 @@ sauvoli - любопытный
 sauvolu - задуматься (думать, гадать)  
 sauvolani - интере́сный  
 saus - соус  
+seksolojia - сексология  
 sel - совет  
 sela - советовать  
 selge - мангольд  

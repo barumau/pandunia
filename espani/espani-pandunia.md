@@ -59,6 +59,7 @@ adhesivo - glutograf
 adicional (extra) - maxi  
 adiós - salam cute  
 adjetivo - sifloge  
+administrador - politer  
 adoquín - sirkoxeke  
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
@@ -663,7 +664,7 @@ ciclista - sikliste
 cielo - ten  
 cien (100) - xoti  
 ciencia (estudia, investigación) - lojia  
-ciencia política - politikolojia  
+ciencia política - politolojia  
 cigarro - sigar  
 cima (pico, cumbre, vértice) - xanpike  
 cinc - zinke  
@@ -1479,8 +1480,8 @@ globo - balon
 gluten - gluten  
 GM####S - vijin  
 gobernante (soberano) - sultan  
-gobernar - governa  
-gobierno - governe  
+gobernar - polita  
+gobierno - polite  
 golpear (pegar) - darba  
 goma (caucho, hule) - gom  
 goma arábiga - arabobabul  
@@ -2668,8 +2669,8 @@ polonio - polskem
 polvo - fun  
 polvo de cara - mukofun  
 polígono - polgon  
-política - politike  
-político - politiker  
+política - politia  
+político - politike  
 político - politiki  
 pomelo (toronja) - putavoranje  
 por ejemplo - misalo  
@@ -2962,6 +2963,7 @@ rutherfordio - ruterfordem
 rutina (hábito) - rutin  
 rábano - lobake  
 rápido - rapidi  
+régimen - politomode  
 réservation - rezerve  
 rígido (sólido) - gatomati  
 ####S - S  
@@ -3058,6 +3060,7 @@ servir - serva
 sexo (género) - jinse  
 sexo - bivi jinse  
 sexo - sekse  
+sexología - seksolojia  
 sexy (sexual) - seksi  
 Seychelles - Sexel nesia  
 señal (letrero, indicio) - sinye  

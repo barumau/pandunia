@@ -523,7 +523,6 @@ glutograf - autocollant
 gol - but (destination)  
 goril - gorille  
 goton - coton  
-governe - gouvernement  
 grafsage - bande dessinée  
 granite - granit  
 grau - gravire  
@@ -645,6 +644,7 @@ jentipe - génotype
 jihade - lutte  
 jino - en avant  
 jinse - sexe  
+jinsolojia - études de genre  
 jiraf - giraffe  
 jiu - vie  
 jivi - vivant  
@@ -1058,6 +1058,8 @@ platogeviste - terreplatiste
 platotopia - plaine  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
+polite - gouvernement  
+politer - administrateur  
 porei - poireau  
 porte - porte  
 portoriki - Portoricain  
@@ -1154,6 +1156,7 @@ sar - tête
 Saturne - Saturne  
 sava - savoir (connaître)  
 saus - sauce  
+seksolojia - sexologie  
 sekuri - sûr  
 sel - conseil  
 sela - conseiller  

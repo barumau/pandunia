@@ -348,7 +348,6 @@ glutograf - 贴纸
 gol - 目的  
 goril - 大猩猩  
 goton - 棉  
-governe - 政府  
 grafsage - 漫画  
 granite - 花岗石  
 grau - 砾石  
@@ -463,6 +462,7 @@ jeni - 生的
 jeni bax - 母语  
 jentipe - 基因型  
 jinse - 性别  
+jinsolojia - 性别研究  
 jiraf - 长颈鹿  
 jiu - 生命  
 jul - 焦耳 (J)  
@@ -832,6 +832,8 @@ plati geukaskia - 板块构造论
 platotopia - 平原  
 plum - 李子  
 polmaro - 经常  
+polite - 政府  
+politomode - 政体  
 pontopin - 指南针  
 porei - 韭葱  
 porte - 港  
@@ -909,6 +911,7 @@ Saturne - 土星
 sava - 知道 (晓得)  
 sauvol - 趣  
 sauvolani - 有趣  
+seksolojia - 性学  
 sem - 种  
 semi - 种子的  
 semdan - 种子  

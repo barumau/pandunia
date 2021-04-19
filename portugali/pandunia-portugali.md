@@ -343,7 +343,6 @@ glutograf - adesivo
 gol - meta (gol)  
 goril - gorila  
 goton - algodão  
-governe - governo  
 grafsage - quadrinhos (banda desenhada)  
 granite - granito  
 grau - cascalho  
@@ -834,6 +833,9 @@ plati geukaskia - tectónica de placas
 platogeviste - terraplanista  
 plum - ameixa  
 polbaxi - multilíngue (plurilíngue)  
+polite - governo  
+politer - administrador  
+politomode - regime  
 porei - alho-porro  
 porte - porto  
 portoriki - porto-riquenho  
@@ -909,6 +911,7 @@ Santi Paulo - São Paulo
 sar - cabeça  
 Saturne - Saturno  
 sava - saber (conhecer)  
+seksolojia - sexologia  
 sekuri - seguro  
 sel - conselho  
 sela - aconselhar  

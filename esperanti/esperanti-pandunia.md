@@ -1277,8 +1277,8 @@ poemo - xir
 pokero - poke  
 poligono - polgon  
 politika - politiki  
-politikisto - politiker  
-politiko - politike  
+politikisto - politike  
+politiko - politia  
 polonio - polskem  
 polvo - fun  
 pomo - aple  

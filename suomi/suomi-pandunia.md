@@ -499,7 +499,11 @@ hajauttaa - anjama
 hajottaa (särkeä, repiä, sirpaloida) - parca  
 haju - arom  
 hakaristi (svastika) - hukokrus  
+hallinnoija - politer  
 hallinto (hallinnointi) - nomia  
+hallinto - polite  
+hallintomuoto - politomode  
+hallita (hallinnoida) - polita  
 hallita yksinvaltaisesti - impera  
 halu (toive) - vol  
 haluta - volu  
@@ -2161,10 +2165,10 @@ poistuminen - cute
 pokeri - poke  
 poliiisi (poliisimies) - poliser  
 poliisi - polis  
-poliitikko - politiker  
+poliitikko - politike  
 poliittinen - politiki  
-politiikantutkimus - politikolojia  
-politiikka - politike  
+politiikantutkimus - politolojia  
+politiikka - politia  
 poljin (pedaali) - pedal  
 polku (reitti, kurssi) - rute  
 polkupyörä - pedalsikle  
@@ -2494,6 +2498,7 @@ sekoitin - mixer
 sekoittaa - mixa  
 seksi (sukupuolisuhde) - sekse  
 seksikäs - seksi  
+seksologia - seksolojia  
 sekunti - sekunde  
 sekuntikello - durmetrer  
 selain - brauzer  
@@ -2635,6 +2640,7 @@ suklaapatukka - coklatobaton
 sukunimi - familnam  
 sukupuoli - jinse  
 sukupuolinen - jinsi  
+sukupuolitutkimus - jinsolojia  
 sulaa yhteen (fuusioitua) - darunu  
 suljettu - ankayi  
 sulka - per  

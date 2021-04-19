@@ -1070,8 +1070,6 @@ gon - esquina (rincón, ángulo)
 gonmetrer - goniómetro (medidor de ángulos)  
 goril - gorila  
 goton - algodón  
-governa - gobernar  
-governe - gobierno  
 graf - imagen (gráfico, dibujo)  
 grafa - dibujar (trazar)  
 grafi - gráfico (pictórico, ilustrado)  
@@ -2608,10 +2606,14 @@ polnasi - multinacional
 polau - pilaf (pulaw)  
 polis - policía  
 poliser - policía  
-politike - política  
+polita - gobernar  
+polite - gobierno  
+politia - política  
+politer - administrador  
+politike - político  
 politiki - político  
-politiker - político  
-politikolojia - ciencia política  
+politolojia - ciencia política  
+politomode - régimen  
 Polske - Polonia  
 polski - polaco  
 polskem - polonio  
@@ -2923,6 +2925,7 @@ sekreteria - secretaría
 seksa - tener sexo  
 sekse - sexo  
 seksi - sexy (sexual)  
+seksolojia - sexología  
 sekunde - segundo  
 sekura - proteger (asegurar, guardar)  
 sekuri - seguro  
