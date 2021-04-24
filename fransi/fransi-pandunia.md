@@ -1,5 +1,5 @@
 # fransi-pandunia
-a (dans, en, chez) - va  
+a (dans, en, chez) - ya  
 ####A - A  
 abattoir - bucokan  
 abattre - buca  
@@ -74,7 +74,7 @@ Amérique - Amerike
 anal - anusi  
 analyse - fenkate  
 analyser - fenkata  
-ancre - anker  
+ancre - angar  
 Andes - Andes  
 Andorre - Andora  
 andésite - andesite  
@@ -89,8 +89,9 @@ antenne - anten
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibem  
+antonyme - annam  
 anus - anus  
-août - balmes  
+août - ballun  
 appartenir à - malu  
 application - aplike  
 appliquer - aplika  
@@ -111,7 +112,7 @@ arctique - Artike
 argent - argente  
 argent - pes  
 Argentine - Argentina  
-argile - glutopote  
+argile - glutofan  
 argon - argon  
 argument - argum  
 argument - tes  
@@ -148,11 +149,12 @@ attaquer (agresser) - agresa
 aubergine - bedinje  
 Australie - Australia  
 autel - pujomeze  
+autocollant - glutograf  
 automne - padomosim  
 autre - ali  
 autrement - alo  
 avant - ceno  
-avec (avoir) - ya  
+avec (avoir) - ha  
 aventure - ventur  
 aventurier - venturer  
 avocat - avakate  
@@ -228,9 +230,11 @@ botte - bute
 boucher - bucer  
 bouclire - defban  
 Bouddha - Bude  
-boue (fange, bourbe, gadoue) - pote  
+boue (fange, bourbe, gadoue) - fan  
 boulanger - beker  
 bouleau - berje  
+bout (pointe, pic) - pike  
+bout de doigt - angulpike  
 bouteille - botel  
 bouton - buton  
 boxe - bokse  
@@ -251,8 +255,10 @@ bédouin - badavi
 bûche - mokotan  
 ####C - C  
 cacher - sira  
+cachet de la poste - postomarke  
 cactus - katus  
 cadre - frem  
+cafetière - kafepote  
 café - kafekan  
 café - kafe\*  
 cage - batonkapse  
@@ -327,7 +333,7 @@ chêne - balute
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
 ciel - ten  
-cime (pic, sommet) - pike  
+cime (pic, sommet) - xanpike  
 cimetière - gabrotopia  
 cinq (5) - limi  
 cirse commun - perkardon  
@@ -415,7 +421,7 @@ danger - hatre
 danois - dani  
 dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
-de - ja  
+de - la  
 demain - badodeno  
 demander (poser un question; est-ce que) - eska  
 dessous - nice  
@@ -472,10 +478,12 @@ effet - asar
 effrayant - fobani  
 effrayer - foba  
 Einsteinium - ainstainem  
+empreinte de pied - futomarke  
+empreinte digitale - angulmarke  
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
-en ligne - va linye  
+en ligne - ya linye  
 enclume - metalbede  
 encore - zoko  
 enfant - bace  
@@ -531,6 +539,7 @@ fondu - yongosaha
 football - futobol  
 force navale (marine) - haigun  
 forer (percer) - fora  
+former - forma  
 forêt (jungle) - jangle  
 forêt de kelp - algojangle  
 fosse - kau  
@@ -548,6 +557,7 @@ Félicitations ! - barke!
 féliciter - barka  
 ####G - G  
 galaxie - galaksia  
+garde-boue (aile) - fandefban  
 Gaule - Galia  
 gaz - gas  
 gaz lacrymogène - okosuigas  
@@ -594,6 +604,7 @@ habiller (vêtir) - fuka
 haine - hen  
 hameçon - pexhuke  
 haut - gau  
+hautes technologies - gautehnia  
 Haïti - Aiti  
 Hesse - Hesia  
 heure - hor  
@@ -644,6 +655,7 @@ Islam - islamistia
 ####J - J  
 jade - giuke  
 Japon - Nipon  
+jarre (carafe, cruche) - jar  
 jaïnisme - jeinistia  
 je (me) - me  
 jeu de société - bangem  
@@ -667,6 +679,7 @@ Kinshasa - Kinxasa
 kiwi - kivi\*  
 kumquat - kankuate  
 ####L - L  
+l'un l'autre - ses  
 lac - lage  
 laid (vilain) - dusvidi  
 laine - mehi kex  
@@ -685,7 +698,6 @@ lapin (lièvre) - tuze
 lapis-lazuli - lazurpetre  
 lasagne - lazanye  
 lave - yongopetre  
-le - di  
 lent - lenti  
 lentille - lense  
 Lettonie - Latvia  
@@ -745,6 +757,7 @@ marguerite - bakomargarite
 mariage - gamia  
 Maroc - Magribia  
 Mars - Marse  
+marécage (marais) - fantopia  
 masque - maske  
 masse - mas  
 match - mece  
@@ -771,7 +784,8 @@ miel - mel
 migration - migre  
 mine - kuangia  
 mode (façon, manière) - mode  
-mois - mes  
+modeler - plasta  
+mois - lun  
 mole (unité) - mol  
 monde - dunia  
 monnaie (pièce) - pesdiske  
@@ -826,9 +840,10 @@ non (ne...pas) - no
 nord - norde  
 nostalgie - nostalgia  
 note - note  
-nous - mome  
+nous - mes  
 nouveau - novi  
 nuage - mege  
+nylon - nilon  
 nécessaire - yavan  
 nécessiteux (dans le besoin) - yavi  
 néophyte - novike  
@@ -852,7 +867,6 @@ oiseau - pakse
 ombrelle (parasol) - solcate  
 oncille - bagroselote  
 onde - onde  
-opposant (antagoniste) - faner  
 option - cuzable  
 or - aur  
 orange (couleur) - oranji  
@@ -879,7 +893,7 @@ oubliette (cul de basse-fosse) - geunici prizon
 oui - ye  
 ours - urse  
 oxyde - okside  
-où - va ke  
+où - ya ke  
 ####P - P  
 pacifiste - paciste  
 page - varkolate  
@@ -892,6 +906,7 @@ panda - pande
 pandémie - pandemi patia  
 panier (panier de basketball) - baske  
 panneau de signalisation - dauban  
+pansement (sparadrap) - glutobende  
 pantalon - pante  
 pantoufle (babouche) - babuce  
 papaye - papai  
@@ -952,6 +967,7 @@ piège - kapotruke
 placard - almar  
 place - meden  
 plaine - platotopia  
+plaire - suka  
 plan - plan  
 planche - mokoban  
 plante (végétal) - fite  
@@ -985,6 +1001,10 @@ posidonie (herbiers marins) - haicau
 possible - abli  
 possédant (propriétaire) - malan  
 posture (position) - asan  
+pot (vase) - pote  
+pot de fleur - fulpote  
+poterie - poteria  
+potier - poter  
 poudre à canon - barude  
 Poulpe (pieuvre) - balsenter  
 pourri - pudi  
@@ -1015,7 +1035,10 @@ prêter (empruntre) - jeka
 prêter - jekodona  
 psychologie - ruhlojia  
 psyché - ruh  
+pyramide - piram  
 pâquerette - englomargarite  
+pâte - paste  
+pâte à modeler - plastopaste  
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - pexosaider  
@@ -1034,6 +1057,7 @@ rang - ode
 rare - rari  
 raton laveur - vaxurse  
 rayon de miel - melvesponide  
+recycler - reisikla  
 rein - nefre  
 religion - din  
 remplir - pura  
@@ -1086,7 +1110,7 @@ sandwich - sanduice
 sang - sang  
 santé - sih  
 Sapin - abite  
-Satan - Xatan  
+Satan - Xatan (ruhxatan)  
 Saturne - Saturne  
 sauce - saus  
 sauce de soja - soisaus  
@@ -1105,6 +1129,7 @@ scutelle - ostoxalke
 se - se  
 se baigner - banyu  
 se mouvoir - kinu  
+se plaire - suku  
 se rappeler (se remémorer) - mema  
 seau - balde  
 sel - sal  
@@ -1175,10 +1200,11 @@ tentacule - senter
 tente - hemah  
 terrain - geuforme  
 Terre - Gevia  
-terre cuite - bekopote  
+terre cuite - bekofan  
 terreplatiste - platogeviste  
 terrorisme - teroristia  
 thé - cai  
+théière - caipote  
 théosophie - deusofia  
 tige - tan  
 tigre - bagre  
@@ -1197,6 +1223,7 @@ touriste - safariste
 Tournesol - solful  
 toxicologie - toksolojia  
 toxine - biutokse  
+trace - marke  
 traduction - tarje  
 travail - kar  
 travailler - kara  
@@ -1233,7 +1260,6 @@ vampire - vampir
 vampire des abysses - vampirbalsenter  
 vapeur d’eau - suigas  
 varech - varkalge  
-vase - vaze  
 vendre - venda  
 vendredi - limyom  
 Venezuela - Venezuela  
@@ -1278,6 +1304,7 @@ vêtements - fuke
 vœu (promesse) - vode  
 wolof - Volof  
 ####X - X  
+Yahweh (Jéhovah) - Yahve  
 ####Z - Z  
 zombi - zombe  
 zone - zon  

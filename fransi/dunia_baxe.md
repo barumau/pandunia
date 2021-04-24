@@ -9,22 +9,22 @@ Cet article décrit pourquoi et comment le Pandunia a été créé pour être un
 Beaucoup de gens sont habitués à voir ce genre de mappemonde. C'est la fameuse carte de projection Mercator.
 Malheureusement elle déforme la surface réelle des territoires.
 
-![](http://www.pandunia.info/grafe/karte_da_merkator.jpg "Mercator projection")
+![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
 
 Pourquoi cela ? Le monde est un globe 3D et le dessiner sous la forme d'une carte 2D n'est pas évident.
 Les projections aux justes proportions telles que celles de
-[Peters](https://fr.wikipedia.org/wiki/Projection_de_Peters)
+[Equal Earth](https://fr.wikipedia.org/wiki/Projection_Equal_Earth)
 affichent les surfaces terrestres telles qu'elles sont (ou du moins le plus fidèlement possible).
 Comparez les tailles du Groenland et de l'Afrique sur ces deux cartes.
-Dans la projection Mercator, le Groenland semble plus grand, tandis que dans celle de Peters c'est l'Afrique (14 fois la taille du Groenland).
+Dans la projection Mercator, le Groenland semble plus grand, tandis que dans celle de Equal Earth c'est l'Afrique (14 fois la taille du Groenland).
 
-![](http://www.pandunia.info/grafe/karte_da_peters.jpg "Peters projection")
+![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
 
 C'est le monde naturel.
 Nous vivons également dans un monde d'humains divisé par des frontières entre les nations.
 Dans une représentation classique des pays du monde, la taille des pays est définie par leur zone géographique.
 
-![](http://www.pandunia.info/grafe/karte_da_aria.png "Map by area")
+![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Map by area")
 
 Cependant, la projection cartographique ci-dessous est basée sur la population des pays et non sur leur zone géographique.
 

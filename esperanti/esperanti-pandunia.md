@@ -39,7 +39,7 @@ aktoro (aktorino) - roler
 akva - suyi  
 akvo - sui  
 akvomelono - arbuze  
-al (ĝis, por) - pa  
+al (ĝis, por) - va  
 alfabeto - harfia  
 algo - alge  
 alia - ali  
@@ -81,7 +81,7 @@ animo (psiko) - ruh
 animstato - emoshal  
 ankaŭ - maxo  
 ankoraŭ - zoko  
-ankro - anker  
+ankro - angar  
 antaŭe (pasinte) - paso  
 antaŭiri - cena  
 anteno - anten  
@@ -276,7 +276,7 @@ datumo - date
 daŭri (dum) - duru  
 daŭrigi - dura  
 daŭro - dur  
-de (el, pro) - ja  
+de (el, pro) - la  
 de (partiklo de posedo) - da  
 defendanto (defendisto) - defer  
 defendi - defa  
@@ -306,7 +306,7 @@ devus - selu
 dezerto - regotopia  
 deziro - kamia  
 dia - devi  
-diablo (Satano) - Xatan  
+diablo (Satano) - Xatan (ruhxatan)  
 diamanto - almas  
 dimanĉosunnuntai - setyom  
 dio - deu  
@@ -441,7 +441,7 @@ filozofia - filsofi
 filozofio - filsofia  
 filozofo - filsofer  
 filtri - filter  
-fingro - ungle  
+fingro - angul  
 fini - fina  
 finita - finiti  
 finiĝi - finu  
@@ -460,6 +460,7 @@ flanka (latera) - lati
 flanko (latero) - late  
 flava - limonrangi  
 floro - ful  
+florpoto - fulpote  
 flughaveno - airporte  
 flugi - feyu  
 flugo - fei  
@@ -529,6 +530,7 @@ glaciiĝi (frostiĝi) - aisu
 glacio - ais  
 glata - lisi  
 glavo - katan  
+glumarko - glutograf  
 gluo - glute  
 gluteno - gluten  
 gluti - gula  
@@ -571,7 +573,7 @@ hasio - hesem
 havanto - malan  
 haveno - haiporte  
 haveno - porte  
-havi (teni) - ya  
+havi (teni) - ha  
 hazarda - zari  
 hazardo - zar  
 haŭto - pil  
@@ -623,7 +625,7 @@ iam - koi sate
 ideo - idei  
 ido (infano) - pute  
 igi (farigi) - an:a  
-ili - lole  
+ili - les  
 ilo - tul  
 indio - hindem  
 Indonezio - Indonesia  
@@ -643,7 +645,7 @@ interkonsento - samrayia
 internacia - nasmedi  
 interrasa - rasmedi  
 interŝanĝi - badla  
-inviti - pliza laya  
+inviti - cinga laya  
 io - koi xei  
 iono - iyon  
 Irakio - Irakia  
@@ -672,6 +674,7 @@ japana - niponi
 Japanio - Nipon  
 jaro - nen  
 jasmeno - malike  
+Javeo (Jehovo) - Yahve  
 Jemeno - Yemen  
 jes - ye  
 Jesuo - Yesus  
@@ -691,6 +694,7 @@ juĝo - jude
 kadmio - kadem  
 kadro - frem  
 kafejo - kafekan  
+kafeujo - kafepote  
 kafo - kafe\*  
 kaftaso - kafekupe  
 kaj - e  
@@ -749,7 +753,7 @@ keĉupo - kecape
 kia? - ki yangi  
 kialo - sabe  
 kiam? - ki sate  
-kie - va ke  
+kie - ya ke  
 kiel? - ko?  
 kilometro - kilomitre  
 kimono - kimono\*  
@@ -821,10 +825,9 @@ korpa - bodi
 korpo - bode  
 korpokulturado - muskulbin  
 kosmonaŭto - kosmonaver  
-kota - poti  
-koto - pote  
+kota - fani  
+koto - fan  
 kotono - goton  
-kotraŭa - fani  
 kovri - daka  
 kovrilo - dake  
 krabo - krabe  
@@ -848,6 +851,7 @@ kromo - kromem
 krono - koron  
 kruco - krus  
 krunviruso - koronvirus  
+kruĉo - jar  
 ksenono - xenon  
 kubo - kube  
 kuko - keke  
@@ -873,7 +877,6 @@ kuŝi - kuxu
 kvar (4) - cari  
 kvin (5) - limi  
 ####L - L  
-la (tiu) - di  
 laborejo - karkan  
 laboristo - karer  
 laboro - kar  
@@ -998,6 +1001,7 @@ margarino - margarin
 marmoro - kalsokristal  
 maro - hai  
 martelo - hamar  
+marĉo - fantopia  
 masko - maske  
 maso - mas  
 masto - maste  
@@ -1053,7 +1057,7 @@ mizera - miskini
 mola - komali  
 molibdeno - molidenem  
 molusko - moluske  
-monato - mes  
+monato - lun  
 mondlingvo - dunia bax  
 mondo - dunia  
 monero - pesdiske  
@@ -1109,7 +1113,7 @@ nervo - neur
 newtono (N) - nuton  
 neĝo - him  
 neŭrono - neurcel  
-ni - mome  
+ni - mes  
 ni faru... - haida  
 nigra - siyahi  
 nihonio - niponem  
@@ -1137,7 +1141,7 @@ novulo - novike
 nudelo - mien  
 nuno - zai  
 ####O - O  
-oazo - oaze  
+oazo - vas  
 obrelo - barxocate  
 Oceanio - Oceania  
 oceano - daihai  
@@ -1227,7 +1231,7 @@ perlo - lul
 persa - farsi  
 persono - jan  
 peta- - peta\*  
-peti (bonvolu) - pliza  
+peti (bonvolu) - cinga  
 peza - bari  
 pezmetalo - barmetal  
 pezo - baria  
@@ -1240,7 +1244,7 @@ piki - pina
 pilko - bol  
 pingveno - pinguin  
 pino - song  
-pinto - pike  
+pinto - xanpike  
 pinĉilo - pinser  
 pipro - pipre  
 piramido - piram  
@@ -1289,6 +1293,7 @@ povi - abla
 povo - able  
 poŝo - jebe  
 poŝtejo - postokan  
+poŝtmarko - postomarke  
 pravigi - saha  
 preciza (ekzakta) - justi  
 preferi (pliŝati) - maxfila  
@@ -1343,6 +1348,7 @@ rando (orlo) - kenar
 rapida - rapidi  
 rapideco - rapidia  
 rapidigi - yala  
+recikligi - reisikla  
 reciproka - unali  
 regi - kratia  
 regiono - tope  
@@ -1369,7 +1375,7 @@ reĝo aŭ reĝino - rajer
 ridi - haha  
 rilato - guanxe  
 rimarki - nota  
-ringo - ungloring  
+ringo - angulring  
 rinocero - kornonos  
 ripari - reibona  
 riparisto - reiboner  
@@ -1574,17 +1580,19 @@ teroro - teror
 terpomo - patate  
 tertremo - geusisme  
 testo - teste  
+teujo - caipote  
 Tibeto - Botia  
-tie - va de  
+tie - ya ve  
 tigro - bagre  
 timi - fobu  
 timiga - fobani  
 timigi - foba  
 timo (fobio) - fobia  
-tio - de  
+tio - ve  
 tio estas (alivorte) - alnamo  
 tiri - tira  
 titanio - titanem  
+tiu - ve  
 Toglando - Togo  
 tomato - tomate  
 tombejo - gabrotopia  
@@ -1594,6 +1602,7 @@ tondilo - makas
 tondro - grom  
 tono - ton  
 torako - sinkapse  
+torfo - turfe  
 torio - torem  
 torso - torse  
 torto - pai  
@@ -1627,6 +1636,7 @@ tuŝi - toca
 uniono - unia  
 unu (1) - un (uni)  
 unu la alian (reciproke) - unal  
+unu la alian - ses  
 unufoje - unmaro  
 uragano (tajfuno) - rototafun  
 uranio - uranem  
@@ -1648,8 +1658,7 @@ vando - mur
 vaporo - suigas  
 varma - garmi  
 vato - vate  
-vazo (florpoto) - fulvaze  
-vazo - vaze  
+vazo - fuljar  
 vendredo - limyom  
 veni - laya  
 venki - xenga  
@@ -1672,7 +1681,7 @@ vestigi - fuka
 vesto - fuke  
 vetero - tenhal  
 vi (ci) - te  
-vi ĉiu - tote  
+vi ĉiu - tes  
 via (cia) - ti  
 viando - manse  
 vic- - visi  
@@ -1747,6 +1756,8 @@ zuluo - Zulu
 ĉenero - sil  
 ĉeno - silsil  
 ĉevalo - gude  
+ĉi tio - ye  
+ĉi tiu - yi  
 ĉiam - pansato  
 ĉielo - ten  
 ĉimpanzo - cimpanze  
@@ -1756,7 +1767,7 @@ zuluo - Zulu
 ĉiu(j) - mei  
 ĉokolado - coklate  
 ĉokolado - coklatobaton  
-ĉu? - he  
+ĉu? - eh  
 Ĝajnismo - jeinistia  
 ĝelo - jel  
 ĝentila - keci  

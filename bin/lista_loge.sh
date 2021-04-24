@@ -1,7 +1,7 @@
 fata_liste_pandunia_X() {
-    #pandunia unordi
+    #pandunia unodo
     cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
-    #morta unordi linye
+    #morta unodi linye
     sed -i '1d' $2/pandunia-$2.md
     # alfobeta
     sed -i 's/[A-Z] - .*$/####&/' $2/pandunia-$2.md
@@ -12,9 +12,9 @@ fata_liste_pandunia_X() {
 }
 
 fata_liste_X_pandunia() {
-    #ali bax unordi
+    #ali bax unodo
     cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$2 \"  \"}" > $2/$2-pandunia.md
-    #morta unordi linye
+    #morta unodi linye
     sed -i '1d' $2/$2-pandunia.md
     # alfobeta
     cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
@@ -28,14 +28,14 @@ fata_liste_X_pandunia() {
 fata_leksasli_liste() {
 #    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
     cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
-    #morta unordi linye
+    #morta unodi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
     LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
     #Add header row
-    sed -i "1s/^/| pandunia | $2 | leksasle |\n/" $2/leksaslia.md
+    sed -i "1s/^/| pandunia | $2 | logasle |\n/" $2/leksaslia.md
     #Add header
-    sed -i "1s/^/# pandunia-$2 sa leksasle\n/" $2/leksaslia.md
+    sed -i "1s/^/# pandunia-$2 ha logasle\n/" $2/leksaslia.md
     #Delete empty translations
     sed -i '/||/d' $2/leksaslia.md
     #xula linye 2
@@ -63,7 +63,7 @@ fata_lekse_asle() {
     cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/loge_asle.md
 }
 
-tarja_leksaslia_pa_angli() {
+tarja_logaslia_pa_engli() {
     cd engli
     sed 's/amh:/Amharic:/' -i leksaslia.md
     sed 's/ara:/Arabic:/' -i leksaslia.md
@@ -117,7 +117,7 @@ tarja_leksaslia_pa_angli() {
     cd ..
 }
 
-tarja_leksaslia_pa_suomi() {
+tarja_logaslia_pa_suomi() {
     cd suomi
     sed 's/amh:/amhara:/' -i leksaslia.md
     sed 's/ara:/arabia:/' -i leksaslia.md
@@ -171,7 +171,7 @@ tarja_leksaslia_pa_suomi() {
     cd ..
 }
 
-tarja_leksaslia_pa_esperanti() {
+tarja_logaslia_pa_esperanti() {
     cd esperanti
     sed 's/amh:/amhara:/' -i leksaslia.md
     sed 's/ara:/araba:/' -i leksaslia.md
@@ -232,7 +232,7 @@ sed 's/\t/|/g' -i pandunia-loge.csv
 # engli e pandunia
 fata_liste 6 engli
 fata_leksasli_liste 6 engli
-tarja_leksaslia_pa_angli
+tarja_logaslia_pa_engli
 
 #Tiddly dictionary
 cp engli/pandunia-engli.md temp/temp.txt
@@ -241,11 +241,11 @@ cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
 # esperanti e pandunia
 fata_liste 21 esperanti
-tarja_leksaslia_pa_esperanti
+tarja_logaslia_pa_esperanti
 
 # suomi e pandunia
 fata_liste 22 suomi
-tarja_leksaslia_pa_suomi
+tarja_logaslia_pa_suomi
 
 # polski e pandunia
 fata_liste 23 polski

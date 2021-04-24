@@ -106,18 +106,21 @@ andiniste - infidèle (incroyant)
 angalta - déboguer (débugger)  
 anyavi - inutile  
 anmema - oublier  
+annam - antonyme  
 anseksi - asexué  
 ansomia - insomnie  
 ande - oeuf  
 Andes - Andes  
 andesite - andésite  
 Andora - Andorre  
+angar - ancre  
 Angola - Angola  
+angulmarke - empreinte digitale  
+angulpike - bout de doigt  
 anim - animation  
 anima - animer  
 anjil - message  
 anjiler - messager  
-anker - ancre  
 Antartike - Antarctique  
 Antartiki Hai - Océan Antarctique  
 anten - antenne  
@@ -209,7 +212,7 @@ baki - blanc
 bakomargarite - marguerite  
 bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
 bali - huit (8)  
-balmes - août  
+ballun - août  
 balsenter - Poulpe (pieuvre)  
 balde - seau  
 balibali - divers (plusieurs)  
@@ -274,7 +277,7 @@ bazar - marché (bazar)
 bebe - bébé  
 bedinje - aubergine  
 beker - boulanger  
-bekopote - terre cuite  
+bekofan - terre cuite  
 bel - pelle  
 ber - baie  
 berande - balcon  
@@ -316,6 +319,7 @@ buton - bouton
 ####C - C  
 cai - thé  
 caikupe - tasse à thé  
+caipote - théière  
 cakre - roue  
 camace - cuiller  
 canse - chance  
@@ -340,7 +344,6 @@ coklatobaton - tablette de chocolat
 cope - houe  
 cuzable - option  
 ####D - D  
-di - le  
 daidom - palais (château, manoir)  
 daihai - océan  
 daipau - canon  
@@ -428,7 +431,9 @@ Europe - Europe
 europi - européen  
 europobalute - chêne pédonculé  
 ####F - F  
-faner - opposant (antagoniste)  
+fan - boue (fange, bourbe, gadoue)  
+fandefban - garde-boue (aile)  
+fantopia - marécage (marais)  
 fas - face (facette)  
 fasteli - profond  
 fasili - facile  
@@ -453,6 +458,7 @@ foba - effrayer
 fobu - craindre (avoir peur)  
 fobani - effrayant  
 fora - forer (percer)  
+forma - former  
 fote - lumière  
 fotofrika - poli  
 fotograf - photographie  
@@ -466,9 +472,11 @@ fuka - habiller (vêtir)
 fuke - vêtements  
 fuku - porter (s’habiller)  
 ful - fleur  
+fulpote - pot de fleur  
 fungonete - mycélium  
 fungopal - champignon  
 futobol - football  
+futomarke - empreinte de pied  
 ####G - G  
 gabra - enterrer  
 gabre - tombe  
@@ -490,6 +498,7 @@ garmozoni cautopia - savane
 gas - gaz  
 gati - dur  
 gau - haut  
+gautehnia - hautes technologies  
 gazel - gazelle  
 Germania - Germanie  
 Gevia - Terre  
@@ -509,7 +518,9 @@ giuke - jade
 glisu - glisser  
 gluta - coller  
 gluti - adhésif (collant)  
-glutopote - argile  
+glutobende - pansement (sparadrap)  
+glutofan - argile  
+glutograf - autocollant  
 gol - but (destination)  
 goril - gorille  
 goton - coton  
@@ -526,6 +537,7 @@ gunjan - soldat
 gunrajer - généralissime  
 gute - genou  
 ####H - H  
+ha - avec (avoir)  
 haha - rire  
 hai - mer  
 hayalge - algues  
@@ -576,8 +588,11 @@ hukokrus - svastika (croix gammée)
 hulei - renard  
 huri - libre  
 ####I - I  
-ya - avec (avoir)  
+ya - a (dans, en, chez)  
+ya ke - où  
+ya linye - en ligne  
 ye - oui  
+Yahve - Yahweh (Jéhovah)  
 yamfite - légume  
 yamyau - faim  
 yasen - frêne  
@@ -607,7 +622,6 @@ itis - inflammation
 iva - avoir tendance à  
 ivia - tendance  
 ####J - J  
-ja - de  
 jagi - éveillé  
 Jayeria - Algérie  
 jamkarde - carte à collectionner  
@@ -615,6 +629,7 @@ jamul - prune de Java
 jan - personne  
 janel - fenêtre  
 jangle - forêt (jungle)  
+jar - jarre (carafe, cruche)  
 jau - orge  
 javabe - réponse  
 jeinistia - jaïnisme  
@@ -652,6 +667,7 @@ kaboge - citrouille
 kade - morue  
 kafe\* - café  
 kafekan - café  
+kafepote - cafetière  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kali harfe - espace  
@@ -753,6 +769,7 @@ kuxa - coucher
 kuxu - être couché  
 kuxloke - couch (couchette)  
 ####L - L  
+la - de  
 lage - lac  
 laya - venir  
 layana - apporter  
@@ -817,11 +834,12 @@ longopipre - poivre long
 lontre - loutre  
 lugi - vert  
 lun - lune  
+lun - mois  
 lunkeke - gâteau de lune  
 luter - brigand (bandit)  
 ####M - M  
 me - je (me)  
-mome - nous  
+mes - nous  
 mafa - pardonner  
 magesem - magnésium  
 Magribia - Maroc  
@@ -839,6 +857,7 @@ mantre - mantra
 mar - fois  
 marce - marche  
 margai - margay (chat-tigre)  
+marke - trace  
 Marse - Mars  
 martinluteristi - luthérien  
 martinluteristia - luthéranisme  
@@ -869,7 +888,6 @@ mem - mémoire
 mema - se rappeler (se remémorer)  
 mening - méninge  
 Merkur - Mercure  
-mes - mois  
 mester - maître  
 metalbede - enclume  
 metrograf - carte  
@@ -927,6 +945,7 @@ nice - dessous
 nide - nid  
 nili - bleu  
 nilcentaur - Centaurée bleuet  
+nilon - nylon  
 Nipon - Japon  
 nix - niche  
 noce - noit  
@@ -985,6 +1004,7 @@ Paris - Paris
 parke - parc  
 parne - fougères  
 pasporte - passeport  
+paste - pâte  
 pastopetre - magma  
 patike - patient  
 patojener - agent pathogène  
@@ -1010,7 +1030,7 @@ pex - poisson
 pexhuke - hameçon  
 pexosaider - pêcheur  
 piaze - oignon  
-pike - cime (pic, sommet)  
+pike - bout (pointe, pic)  
 pin - épingle  
 pinani - piquant  
 pincope - pioche  
@@ -1018,10 +1038,13 @@ pinkardon - chardon aux ânes
 pinsoban - porte-bloc (planchette à pince)  
 pipre - poivre  
 piprominte - menthe poivrée  
+piram - pyramide  
 piratia - piraterie  
 pis - Épicéa  
 pize - pizza  
 plan - plan  
+plasta - modeler  
+plastopaste - pâte à modeler  
 plati geukaskia - tectonique des plaques  
 platogeviste - terreplatiste  
 platotopia - plaine  
@@ -1031,7 +1054,10 @@ porei - poireau
 porte - porte  
 portoriki - Portoricain  
 Portorikia - Porto Rico  
-pote - boue (fange, bourbe, gadoue)  
+postomarke - cachet de la poste  
+pote - pot (vase)  
+poter - potier  
+poteria - poterie  
 poza - planter  
 problem - problème  
 problemi - problématique  
@@ -1067,6 +1093,7 @@ reya - répéter
 reibon - réparation  
 reibona - réparer  
 reiboner - réparateur  
+reisikla - recycler  
 reizoka - reprendre  
 reste - reste  
 retro - en arrière  
@@ -1097,6 +1124,7 @@ ruhmixi - perplexe (désorienté)
 sa - être  
 se - se  
 si - son (sa)  
+ses - l'un l'autre  
 safariste - touriste  
 sahi - correct (juste)  
 saida - chasser  
@@ -1170,7 +1198,9 @@ sui - eau
 suigas - vapeur d’eau  
 suiyau - soif  
 suiminte - Menthe aquatique  
+suka - plaire  
 suki - heureux  
+suku - se plaire  
 sukar - sucre  
 sukarbete - betterave à sucre (betterave sucrière)  
 sukarcau - Canne à sucre  
@@ -1223,9 +1253,6 @@ Tunisia - Tunisie
 turba - gêner (déranger, perturber)  
 tuze - lapin (lièvre)  
 ####U - U  
-va - a (dans, en, chez)  
-va ke - où  
-va linye - en ligne  
 vade - vallée (oued)  
 vaf - chien  
 vagin - vagine  
@@ -1239,7 +1266,6 @@ vampirbalsenter - vampire des abysses
 varkalge - varech  
 varkolate - page  
 vaxurse - raton laveur  
-vaze - vase  
 venda - vendre  
 vendoxopa - commercer  
 Venezuela - Venezuela  
@@ -1279,12 +1305,13 @@ vute - objet (article)
 xalke - échelle  
 Xampan - Champagne  
 Xampan vin - Champagner  
+xanpike - cime (pic, sommet)  
 xante - repos  
 xanti - calme (tranquille)  
 xarke - requin  
 xata - s'opposer à  
 xatan - adversaire (antagoniste, ennemi)  
-Xatan - Satan  
+Xatan (ruhxatan) - Satan  
 xavi - peu  
 xef - chef  
 xei - chose  

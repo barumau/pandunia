@@ -1,21 +1,21 @@
-#numbe da panduni loge ja ali bax
+#numbe da panduni loge la ali bax
 
 | bax | numbe | fen |
 |-----|-------|-----|
-| pan | 1429 | 100% |
-| engli | 930 | 65% |
-| espani | 798 | 55% |
-| portugali | 745 | 52% |
-| fransi | 739 | 51% |
-| rusi | 633 | 44% |
-| hindustani | 548 | 38% |
-| niponi | 459 | 32% |
-| turki | 434 | 30% |
+| pan | 1427 | 100% |
+| engli | 934 | 65% |
+| espani | 803 | 56% |
+| portugali | 749 | 52% |
+| fransi | 744 | 52% |
+| rusi | 635 | 44% |
+| hindustani | 553 | 38% |
+| niponi | 462 | 32% |
+| turki | 431 | 30% |
 | malayi | 417 | 29% |
 | arabi | 309 | 21% |
-| cini | 289 | 20% |
-| coseni | 255 | 17% |
-| bangli | 248 | 17% |
-| farsi | 242 | 16% |
-| suahili | 220 | 15% |
-| vieti | 130 | 9% |
+| cini | 291 | 20% |
+| suahili | 262 | 18% |
+| coseni | 259 | 18% |
+| bangli | 251 | 17% |
+| farsi | 240 | 16% |
+| vieti | 131 | 9% |

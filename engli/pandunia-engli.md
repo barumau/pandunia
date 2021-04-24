@@ -127,8 +127,10 @@ anjami - sparse (scattered)
 ankaya - close (shut)  
 ankayi - closed  
 ankoda - decode (decrypt)  
+ankriste - antichrist  
 anlimitia - infinity  
 anmema - forget  
+annam - antonym  
 anpace - unrest  
 anromansi - aromantic  
 ansavi - strange (unknown)  
@@ -143,12 +145,16 @@ ande - egg
 Andes - Andes  
 andesite - andesite  
 Andora - Andorra  
+angar - anchor  
 Angola - Angola  
+angul - finger (toe)  
+angulmarke - fingerprint  
+angulpike - fingertip  
+angulring - finger ring  
 anim - animation (cartoon)  
 anima - animate  
 anjil - message  
 anjiler - messenger  
-anker - anchor  
 Antartike - Antarctica  
 Antartiki Hai - Antarctic Ocean  
 anten - antenna (aerial)  
@@ -264,7 +270,7 @@ bakocoi - bok choy
 bakomargarite - oxeye daisy  
 bakosalmon - chum salmon  
 bali - eight (8)  
-balmes - August  
+ballun - August  
 balsenter - octopus  
 balde - bucket  
 balibali - various (diverse, miscellaneous)  
@@ -302,7 +308,7 @@ barde - beard
 barya - bar (obstruct, block)  
 baryer - barrier (fence)  
 barka - congratulate (bless)  
-barke! - congratulations! (blessing)  
+barke! - congratulations! (blessing, benediction)  
 barkoke - apricot  
 barti - Indian  
 Barti Hai - Indian Ocean  
@@ -351,8 +357,8 @@ beyu - undergo (passivizing verb)
 Beijing - Beijing (Peking)  
 beka - bake  
 beker - baker  
+bekofan - terracotta  
 bekokan - bakery (bakehouse)  
-bekopote - terracotta  
 bel - bel (unit)  
 bel - shovel (spade, scoop)  
 Belarus - Belarus  
@@ -481,6 +487,7 @@ Cadia - Chad
 cai - tea  
 caikan - tea house  
 caikupe - tea cup  
+caipote - teapot  
 cake - knife  
 cakre - wheel  
 camace - spoon  
@@ -502,7 +509,7 @@ capate - flatbread (chapati, roti)
 cari - four (4)  
 cargon - square (tetragon)  
 caryom - Thursday  
-carmes - April  
+carlun - April  
 carme - charm (attraction)  
 cate - roof  
 cau - grass  
@@ -538,6 +545,9 @@ cilifun - paprika
 cimpanze - chimpanzee  
 cini - Han Chinese  
 cincil - chinchilla  
+cing - request (petition)  
+cinga - ask (request, beg, plead; please)  
+cinga laya - invite  
 Cipia - Albania  
 cir - tear (rip, edge)  
 cira - tear (rip, split)  
@@ -572,8 +582,7 @@ cuze - choice (election, selection)
 cuzable - option (choice)  
 ####D - D  
 da - of (attributive preposition)  
-de - that (this)  
-di - the (this, that, these, those)  
+de - which (who, that)  
 du - 's (attributive postposition)  
 dayi - big (great)  
 dayia - size  
@@ -665,10 +674,10 @@ den - day (daytime)
 denyam - lunch  
 denga - wait  
 desi - ten (10)  
-desdulmes - December  
+desdullun - December  
 deskilo\* - ten thousand  
-desmes - October  
-desunmes - November  
+deslun - October  
+desunlun - November  
 desen - drawing (design)  
 detal - detail  
 deu - god (deity)  
@@ -753,9 +762,9 @@ dulbaxi - bilingual
 dulgrafi - anaglyphic (stereoscopic)  
 dulyom - Tuesday  
 dulistia - dualism  
+dullun - February  
 dulmaro - twice  
 dulmeni - double entendre  
-dulmes - February  
 dulromansi - biromantic  
 dulseksi - bisexual  
 dulsondi - stereophonic  
@@ -787,12 +796,13 @@ dusvidi - ugly (unsightly)
 dute - doubt (disbelief)  
 dutabli - dubious (suspicious, unbelievable)  
 dutani - doubtful (suspicious, disbelieving)  
-duva - pray  
+duva - pray (beg, entreat, implore)  
 duve - prayer  
 dux - shower  
 ####E - E  
 e - and  
 eglis - church  
+eh - huh? (pardon?)  
 eki - environmental (natural)  
 ekia - environment (nature)  
 ekojeni - wild (savage)  
@@ -887,10 +897,10 @@ falsi - false (fake)
 falsvide - illusion (hallucination)  
 famil - family  
 familnam - surname (family name)  
-fana - oppose (resist)  
-faner - opponent (antagonist)  
-fankriste - antichrist  
-fannam - antonym  
+fan - mud (mire)  
+fani - muddy  
+fandefban - fender  
+fantopia - marsh (bog, swamp, morass)  
 fantaza - imagine (fantasize)  
 fantaze - fantasy (imagination)  
 fantazi - fantastic (imaginary)  
@@ -1025,9 +1035,10 @@ fuke - clothing (clothes)
 fuki - clothed (dressed)  
 fuku - wear (dress, put on)  
 ful - flower  
+fuljar - flower vase  
 fulu - blossom (bloom)  
 fulmosim - spring (springtime)  
-fulvaze - vase (flower pot)  
+fulpote - flowerpot  
 fun - dust (powder)  
 funcuper - vacuum cleaner  
 funcu - function (work)  
@@ -1041,6 +1052,7 @@ furete - polecat (ferret)
 fute - foot  
 futoban - scaffolding (gangplank)  
 futobol - football (soccer)  
+futomarke - footprint  
 futoxake - leg  
 futau - axe (hatchet)  
 ####G - G  
@@ -1058,7 +1070,7 @@ galem - gallium
 galaksia - galaxy  
 galeria - gallery (exhibition hall)  
 galta - make a mistake  
-galte - mistake (error, fault, bug)  
+galte - mistake (error, fault, blunder, bug)  
 galti - wrong (incorrect, erroneous, faulty)  
 galto buda - misunderstand  
 gama - marry  
@@ -1109,6 +1121,7 @@ gaudarji - advanced (high-level)
 gaudarju - level up (graduate)  
 gautali - vertical  
 gautalu - bob up and down  
+gautehnia - high technology (hi-tech)  
 gaze - gauze  
 gazel - gazelle  
 gazete - magazine (journal, gazette)  
@@ -1152,7 +1165,9 @@ gluta - stick (adhere, paste, glue)
 glute - glue (adhesive)  
 gluti - sticky (ahesive)  
 gluten - gluten  
-glutopote - clay  
+glutobende - adhesive bandage (band-aid, sticking plaster)  
+glutofan - clay  
+glutograf - sticker  
 gol - goal (destination)  
 gola - destine (set)  
 golem - golem  
@@ -1209,7 +1224,8 @@ guste - taste (flavor)
 gustu ko - taste like  
 gute - knee  
 ####H - H  
-he - huh? (pardon?)  
+ha - with (there be; have)  
+he - one (someone)  
 habar - news  
 habargazete - newspaper (gazette)  
 habaxi - Abyssinian  
@@ -1360,11 +1376,17 @@ huristi - liberal
 huristia - liberalism  
 huxi - nice (pleasant, comfortable, cushy)  
 ####I - I  
-ya - with (by, have)  
+ya - by (at, in, on)  
+ya ke - where  
+ya linye - online  
+ya ve - there  
+ye - this  
 ye - yes  
+yi - this  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
 yagones - peninsula  
+Yahve - Yahweh (Jehovah)  
 yake - yak  
 yala - hurry (hasten)  
 yam - food (meal)  
@@ -1476,7 +1498,6 @@ yumoriste - humorist
 yuterbem - ytterbium  
 yutrem - yttrium  
 ####J - J  
-ja - from (since, because)  
 jaga - wake (make awake)  
 jagi - awake  
 jagu - wake (become awake)  
@@ -1498,6 +1519,7 @@ jangi - crafty (dexterous)
 janger - artisan (craftsman)  
 jangle - forest (woods, jungle)  
 jar - jug (jar, pitcher)  
+jar - jar (jug, pitcher, carafe, amphora, vase)  
 jau - barley  
 javaba - respond (give an answer)  
 javabe - answer (reply, response)  
@@ -1595,6 +1617,7 @@ kadem - cadmium
 kafe\* - coffee  
 kafekan - cafe (coffee shop)  
 kafekupe - coffee cup  
+kafepote - coffeepot  
 kafir - infidel (pagan, heathen, unbeliever)  
 kaguje - paper (material)  
 kagujolimon - key lime  
@@ -1934,8 +1957,9 @@ kuxu - lie (lie down)
 kuxen - cushion (pillow)  
 kuxloke - berth (couchette)  
 ####L - L  
+la - from (since, because)  
 le - he or she or it  
-lole - they  
+les - they  
 labe - lip  
 lada - load (to charge)  
 lage - lake  
@@ -2031,7 +2055,7 @@ limi - five (5)
 limfas - pentahedron (prism)  
 limgon - pentagon  
 limyom - Friday  
-limmes - May  
+limlun - May  
 limite - limit (boundary)  
 limiti - finite (limited)  
 limon - lemon  
@@ -2091,6 +2115,7 @@ lugomelon - honeydew (green melon)
 Luksemburge - Luxembourg  
 lul - pearl  
 lun - moon  
+lun - month  
 lunkeke - mooncake  
 lung - dragon  
 lusun - asparagus  
@@ -2100,7 +2125,7 @@ lutetem - lutetium
 ####M - M  
 me - I (me)  
 mi - my  
-mome - we  
+mes - we  
 maf - pardon (forgiveness; sorry)  
 mafa - forgive (pardon)  
 magi - magical  
@@ -2108,8 +2133,6 @@ magia - magic
 magasar - spell (enchantment)  
 mager - magician (sorcerer)  
 magesem - magnesium  
-magete - magnet  
-mageti - magnetic  
 Magyaria - Hungary  
 Magribia - Morocco  
 mayan - Maya  
@@ -2143,6 +2166,8 @@ mamal - mammal
 man - male  
 mani pute - son  
 mani rajer - king  
+manete - magnet  
+maneti - magnetic  
 mangi - busy (occupied)  
 mangan - manganese  
 mango\* - mango  
@@ -2253,7 +2278,6 @@ meningitis - meningitis
 menter - advisor (counselor, mentor)  
 merante - lauan tree (meranti, balau)  
 Merkur - Mercury  
-mes - month  
 mesta - master (be an expert at sth)  
 mester - master (expert)  
 metal - metal  
@@ -2400,6 +2424,7 @@ muziker - musician
 ####N - N  
 na - without  
 na linye - offline  
+ne - none  
 no - not (no)  
 nabe - prophecy  
 naber - prophet  
@@ -2548,7 +2573,6 @@ numbe - number
 nuton - newton (N)  
 ####O - O  
 o - or  
-oaze - oasis  
 Oberon - Oberon  
 Oceania - Oceania  
 ode - rank (position in an ordered list)  
@@ -2602,7 +2626,6 @@ ostojamia - skeleton (frame)
 ostoxalke - scute  
 Ostria - Austria  
 ####P - P  
-pa - to (toward, till, until, for)  
 pace - peace  
 Paci Hai - Pacific Ocean  
 paciste - pacifist  
@@ -2687,7 +2710,7 @@ pasivi - passive (inactive)
 pasporte - passport  
 paske - Easter  
 paskal - pascal (Pa)  
-paste - paste  
+paste - paste (dough)  
 pastopetre - magma  
 pati - ill (sick)  
 patia - sickness (illness, disease)  
@@ -2742,7 +2765,7 @@ piano\* - piano
 piaze - onion  
 pige - buttocks (bum, butt, ass)  
 pijin - pidgin (contact language)  
-pike - top (peak, pinnacle, summit, apex, vertex)  
+pike - point (tip, cusp, peak)  
 pil - skin (peel, bark, leather)  
 piloter - pilot  
 pin - needle (pin, splinter, prickle, thorn, stinger, spine, quill)  
@@ -2775,7 +2798,10 @@ pizokan - pizzeria
 plan - plan  
 plana - intend (plan)  
 planete - planet  
+plasta - mold (shape)  
+plasti - plastic (moldable, malleable)  
 plastike - plastic  
+plastopaste - playdough  
 plate - plane (plate)  
 plati - flat (planar)  
 plati geukaskia - plate tectonics  
@@ -2789,8 +2815,6 @@ platoniste - Platonist
 platonisti - Platonic  
 platonistia - Platonism  
 plazme - plasma (ionized gas)  
-pliza - ask (request, beg; please)  
-pliza laya - invite  
 plum - plum (prune)  
 plumbe - lead  
 Pluton - Pluto (dwarf planet)  
@@ -2835,9 +2859,10 @@ posta - mail (send by mail)
 poste - mail  
 postocape - postal stamp  
 postokan - post office  
-pote - mud (mire)  
-poti - muddy  
-pototopia - marsh (bog, swamp, morass)  
+postomarke - postmark (postage stamp)  
+pote - pot (vase, bin, jar)  
+poter - potter  
+poteria - pottery  
 poza - pose (set, plant)  
 poze - pose (position)  
 prasedem - praseodymium  
@@ -2945,6 +2970,7 @@ reyo - again (repeatedly)
 reibon - repair (fix)  
 reibona - repair (fix, mend)  
 reiboner - repairer  
+reisikla - recycle  
 reizoka - continue (resume)  
 renem - rhenium  
 rentogenem - roentgenium  
@@ -3036,6 +3062,7 @@ rutin - routine (habit)
 sa - be  
 se - self (reflexive pronoun)  
 ser - being (entity)  
+ses - each other (one another)  
 saba - cause (be the cause for)  
 sabe - reason (cause)  
 sabo da - because  
@@ -3097,7 +3124,7 @@ Samoa - Samoa
 san - three (3)  
 sangon - triangle  
 sanyom - Wednesday  
-sanmes - March  
+sanlun - March  
 sanzong - trident  
 sanduice - sandwich  
 sanduke - box (chest)  
@@ -3171,7 +3198,7 @@ server - servant
 sesam - sesame  
 seti - seven (7)  
 setyom - Sunday  
-setomes - July  
+setolun - July  
 Sexel nesia - Seychelles  
 siani - cyan  
 Sibiria - Siberia  
@@ -3217,7 +3244,7 @@ sisi - six (6)
 sisfas - hexahedron (cube)  
 sisgon - hexagon  
 sisyom - Saturday  
-sismes - June  
+sislun - June  
 sisma - shake (swing)  
 sisme - shake (jolt, earthquake)  
 sismi - seismic (vibrational)  
@@ -3339,7 +3366,7 @@ suxi - sushi
 ####T - T  
 te - you (singular)  
 ti - your  
-tote - you all  
+tes - you all  
 tabake - tobacco  
 tabla date - tabulate  
 table - slab (slate, tablet, board)  
@@ -3453,7 +3480,7 @@ Titan - Titan
 Titania - Titania  
 titanem - titanem  
 tixi - nine (9)  
-tixmes - September  
+tixlun - September  
 toca - touch  
 Togo - Togo  
 Tokyo - Tokyo  
@@ -3500,16 +3527,16 @@ tupe - hat (cap)
 turba - bother (annoy, disturb, irritate)  
 turbe - trouble (disturbance, bother, annoyance)  
 turbu - be bothered by (bother to, take the trouble to)  
+turfe - peat  
 turki - Turkish  
 Turkia - Turkey  
 Turkomenia - Turkmenistan  
 Tuvalu - Tuvalu  
 tuze - rabbit (hare)  
 ####U - U  
-va - by (at, in, on)  
-va de - there  
-va ke - where  
-va linye - online  
+va - to (toward, till, until, for)  
+ve - that  
+ve - that  
 vade - valley  
 vadosusan - lily of the valley  
 vaf - dog  
@@ -3544,6 +3571,7 @@ varis - heritage (legacy, bequest)
 varke - leaf (sheet)  
 varkalge - kelp  
 varkolate - page (side of a leaf of a book)  
+vas - oasis  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
 vau - wow! (gee!)  
@@ -3551,7 +3579,6 @@ vaxa - wash
 vaxmaxin - washing machine  
 vaxurse - raccoon  
 Vaxington D####C - Washington DC  
-vaze - pot (vase, bin, jar, jug)  
 UDA du - American (US)  
 vei - tail  
 venda - sell (vend)  
@@ -3631,14 +3658,12 @@ uniti - united
 Uniti Arabi Amiria (UAA) - United Arab Emirates  
 Uniti Dex Da Amerike (UDA) - United States of America (USA)  
 unjani - alone (lonely, isolated, solitary, single)  
+unlun - January  
 unmaro - once  
 unmeni - unambiguous  
-unmes - January  
 unodi - first (number one)  
 unoki lense - monocle  
 unrangi - monochrome  
-ungle - finger (toe)  
-ungloring - finger ring  
 voda - promise (pledge)  
 vode - promise (vow, oath)  
 vodun - voodoo  
@@ -3675,6 +3700,7 @@ xaman - shaman
 Xampan - Champagne  
 Xampan vin - champagne  
 xan - mountain (hill)  
+xanpike - top (peak, pinnacle, summit, apex, vertex)  
 Xanghai - Shanghai  
 xante - rest (relief, repose)  
 xanti - calm (peaceful, quiet)  
@@ -3685,8 +3711,8 @@ xarta - stipulate
 xarte - condition (requirement)  
 xata - oppose (antagonize, object, resist)  
 xatan - adversary (antagonist, opponent)  
-Xatan - devil (Satan)  
-xatani - devilish (satanic)  
+Xatan (ruhxatan) - devil (Satan)  
+Xatani - devilish (satanic)  
 xataniste - Satanist  
 xatanistia - Satanism (devil worship)  
 xatranje - chess  

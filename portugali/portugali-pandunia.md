@@ -12,6 +12,7 @@ aconselhar - sela
 acordado - jagi  
 acordo (tratado, contrato) - trate  
 acordo - samrayia  
+adesivo - glutograf  
 adjetivo - sifloge  
 adversário - xatan  
 aeite (óleo) - nefte  
@@ -59,7 +60,7 @@ ar - air
 aranha - aran  
 arbusto (mata) - tali moke  
 arco - arke  
-argila - glutopote  
+argila - glutofan  
 argumento - argum  
 arma - arme  
 arma de fogo - pau  
@@ -143,12 +144,14 @@ bravo (valente, corajoso) - bravi
 bravo! - bravo  
 braço - handoxake  
 Buda - Bude  
+bule - caipote  
 buraco - kau  
 buscar (procurar) - soka  
 bétula - berje  
 ####C - C  
 cabeça - sar  
 cacto - katus  
+cafeteira - kafepote  
 café - kafekan  
 café - kafe\*  
 cal - kalsomate  
@@ -174,6 +177,7 @@ cardo-mariano - milkokardon
 cardo-roxo - perkardon  
 careta (esgar) - grimas  
 Caribe - Karaibia  
+carimbo - postomarke  
 carne - manse  
 carrapato (ácaros) - akar  
 carreira - peikari jiu  
@@ -197,6 +201,7 @@ centáurea - centaur
 cerca - kenarbaryer  
 cereja - cerize  
 cerveja - bir  
+cerâmica - poteria  
 cerâmico - seram  
 cevada - jau  
 Champagne - Xampan  
@@ -273,7 +278,7 @@ cruz - krus
 crème - krem  
 crónico - duriki  
 cubo - kube  
-cume (pico, topo) - pike  
+cume (pico, topo) - xanpike  
 cápsico - cili\*  
 cão (cachorro) - vaf  
 céu - ten  
@@ -285,8 +290,8 @@ dados - date
 damasco (abricó) - barkoke  
 dano (avaria) - avar  
 danês - dani  
-de - ja  
-dedo - ungle  
+de - la  
+dedo - angul  
 deitar - kuxa  
 deixar - laxa  
 dente-de-leão (taráxaco) - makanful  
@@ -486,6 +491,7 @@ igual - sami
 imigrante - inmigran  
 imigrar - inmigra  
 importante - hami  
+impressão digital - angulmarke  
 Indo - Hindonade  
 indígena (índio) - aslameriki  
 infectar (contagiar) - patomisa  
@@ -508,6 +514,8 @@ jaguatirica (ocelote) - oselote
 jambolão (jambo) - jamul  
 janela - janel  
 Japão - Nipon  
+jarra (jarro) - jar  
+Javé (Jeová) - Yahve  
 jengibre - zinje  
 joelho - gute  
 jogo de tabuleiro - bangem  
@@ -525,8 +533,8 @@ lado - late
 ladrilho (telha, azulejo) - tail  
 ladrão - luter  
 lago - lage  
+lama (lodo) - fan  
 lama - lama\*  
-lama - pote  
 lançador de foguetes - roketolancer  
 laranja - oranje  
 lasanha - lazanye  
@@ -578,6 +586,7 @@ mais - max (maxo)
 maldição - lan  
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
+mancha (marca) - marke  
 manga - kamisi xake  
 maniqueísmo - manihayistia  
 mantra - mantre  
@@ -593,6 +602,7 @@ Marrocos - Magribia
 Marte - Marse  
 marítimo - hayi  
 massa - mas  
+massa de modelar (massinha) - plastopaste  
 mastro - maste  
 matadouro - bucokan  
 matemática - hisabolojia  
@@ -620,11 +630,13 @@ metro - mitre
 migração - migre  
 mina - kuangia  
 mirar (apontar) - dika  
+modelar - forma  
 modo (maneira, jeito) - mode  
 moeda - pesdiske  
 moenda (moinho) - molia  
 moer - mola  
 mol - mol  
+moldar (modelar) - plasta  
 moldura - frem  
 molestar (perturber) - turba  
 molhado - xipi  
@@ -649,7 +661,7 @@ máscara - maske
 máximo - maxime  
 mãe - mam  
 mão - hande  
-mês - mes  
+mês - lun  
 mó - molxeke  
 música - muzike  
 ####N - N  
@@ -679,12 +691,12 @@ novo - novi
 nuvem - mege  
 náusea - retroguli sense  
 não - no  
-nós - mome  
+nós - mes  
 núcleo (cerne) - kerne  
 número - numbe  
 ####O - O  
 o que - ke  
-oasis - oaze  
+oasis - vas  
 objetivo - dike  
 oblíquo (torto) - terci  
 obsidiana - osidian  
@@ -693,10 +705,11 @@ ocular - oki
 ocultar (esconder) - sira  
 ocupado (atarefado) - mangi  
 oito (8) - bali  
+oleiro - poter  
 olho - oke  
 onda - onde  
-onde - va ke  
-online - va linye  
+onde - ya ke  
+online - ya linye  
 ontem - cendeno  
 opor - xata  
 opção - cuzable  
@@ -729,6 +742,7 @@ papel - kaguje
 papel de parede - murkaguje  
 papoila - medenpapil  
 papoila-dormideira - sompapil  
+para-lama - fandefban  
 parque - parke  
 partida - mece  
 parâmetro - param  
@@ -745,11 +759,13 @@ pedra - xeke
 pedra preciosa (gema) - bauxeke  
 pedregulho - daixeke  
 pedrinha - lilxeke  
+pegada - futomarke  
 pegajoso (adesivo) - gluti  
 peidar - peda  
 peido - pede  
 peixe - pex  
 pele - pil  
+penso (band-aid) - glutobende  
 pepino - hiyar  
 pepino-africano (kiwano) - kornomelon  
 pepino-do-mar (holotúrias) - haihiyar  
@@ -772,10 +788,14 @@ pinheiro - song
 pintura - pente  
 piquenique - vaiyam  
 pirataria - piratia  
+pirâmida - piram  
 plano - plan  
 planta (vegetal) - fite  
+plástico - plasti  
 poluição - najis  
 polvo - balsenter  
+ponta (pico, bico) - pike  
+ponta do dedo - angulpike  
 ponte - pul  
 por exemplo - misalo  
 por muito tempo - longoduro  
@@ -808,6 +828,7 @@ purpúreo (roxo) - viyoleti
 purê de maçã - aplosaus  
 pá - bel  
 página - varkolate  
+pântano - fantopia  
 pão - pang  
 pícea (espruce) - pis  
 quadrinhos (banda desenhada) - grafsage  
@@ -840,6 +861,7 @@ rasgar - cir
 rasgar - cira  
 raça - ras  
 raíz - mul  
+reciclar - reisikla  
 refugo (escória) - laje  
 relier (connecter) - linka  
 religião - din  
@@ -885,7 +907,7 @@ samambaia - parne
 samba-canção - bokserpante  
 sanduíche - sanduice  
 sangue - sang  
-Satanás - Xatan  
+Satanás - Xatan (ruhxatan)  
 Saturno - Saturne  
 saudação - salame  
 saudável (saudio) - sihi  
@@ -952,7 +974,7 @@ teosofia - deusofia
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
-terracota - bekopote  
+terracota - bekofan  
 terraplanista - platogeviste  
 terreno - geuforme  
 terça-feira - dulyom  
@@ -990,6 +1012,7 @@ técnica - tehne
 título - temnam  
 ####U - U  
 um (1) - un (uni)  
+um ao outro - ses  
 uma vez - unmaro  
 unicamente - uniko  
 Urano - Uran  
@@ -1005,6 +1028,7 @@ valorar - vala
 vampiro - vampir  
 vapor - suigas  
 vara (bastão) - baton  
+vaso de flores - fulpote  
 vazar - lova  
 vegetalista - purfityamiste  
 vegetariano - fityamiste  
@@ -1055,7 +1079,7 @@ zumbi - zombe
 área de transferência - katoglutoban  
 árvore - moke  
 áspero - karsi  
-âncora - anker  
+âncora - angar  
 étnico - zuki  
 óxide - okside  
 único (só) - uniki  

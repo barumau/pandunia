@@ -45,9 +45,12 @@ andiniste - 不信神的
 anmema - 忘记  
 ansomia - 失眠  
 andesite - 安山岩  
+angar - 锚  
+angul - 手指  
+angulmarke - 指纹 (指印)  
+angulpike - 指尖  
 anim - 活跃  
 anjil - 信息  
-anker - 锚  
 anten - 天线  
 anus - 肛门  
 aple - 苹果  
@@ -129,7 +132,7 @@ bazobol - 棒球
 bazoxulkan - 小学  
 bazar - 市场  
 bebe - 宝宝  
-bekopote - 陶瓦  
+bekofan - 陶瓦  
 bel - 铲  
 ber - 浆果 (莓)  
 berande - 阳台  
@@ -172,6 +175,7 @@ buze - 山羊
 cai - 茶  
 caikan - 茶馆  
 caikupe - 茶碗  
+caipote - 茶壶  
 cakre - 轮子  
 camace - 匙子  
 cantergrupe - 合唱团  
@@ -186,6 +190,7 @@ ceng - 层
 cili\* - 菜椒  
 cilifun - 辣椒粉  
 cini - 汉族  
+cinga - 请  
 cir - 撕裂  
 cira - 撕裂  
 circira - 撕毁  
@@ -248,6 +253,7 @@ dusforma - 变丑
 dusjan - 敌人  
 dusosinyi - 不祥的  
 dusvidi - 难看  
+duve - 祈祷  
 dux - 淋浴  
 ####E - E  
 e - 和  
@@ -266,6 +272,9 @@ evanjil - 福音
 europobalute - 夏櫟  
 ####F - F  
 faidia - 效用 (好处)  
+fan - 坭  
+fandefban - 挡泥板  
+fantopia - 沼泽  
 fas - 面  
 fasteli - 深  
 fasilia da akses - 無障礙環境  
@@ -297,7 +306,10 @@ frika - 擦伤
 fuke - 衣服  
 fuku - 穿  
 ful - 花  
+fuljar - 花瓶  
+fulpote - 花盆  
 fungopal - 蘑菇  
+futomarke - 脚印  
 ####G - G  
 gabra - 埋葬  
 gabre - 坟墓  
@@ -314,6 +326,7 @@ garmozon - 热带
 garmozoni cautopia - 稀树草原  
 gati - 硬  
 gatomate - 固体  
+gautehnia - 高科技 (高技术)  
 genca - 检查  
 geta - 获得  
 geuforme - 地势  
@@ -328,7 +341,9 @@ gitar - 吉他
 giuke - 玉  
 glisu - 滑下  
 gluti - 黏的  
-glutopote - 黏土  
+glutobende - 创可贴 (邦迪)  
+glutofan - 黏土  
+glutograf - 贴纸  
 gol - 目的  
 goril - 大猩猩  
 goton - 棉  
@@ -345,6 +360,7 @@ gunjan - 军人
 gunrajer - 大元帅  
 gute - 膝  
 ####H - H  
+ha - 有  
 habar - 消息  
 haha - 笑  
 hai - 海  
@@ -398,8 +414,10 @@ hulei - 狐狸
 huri - 自由的  
 huria - 自由  
 ####I - I  
-ya - 有  
+ya - 在  
+ya linye - 在线  
 ye - 对 (是)  
+Yahve - 耶和华 (雅威)  
 yamfite - 蔬菜  
 yamyau - 饥饿  
 yasen - 白蜡树  
@@ -426,7 +444,6 @@ islamistia - 回教 (伊斯蘭教)
 itis - 炎症  
 ivia - 趋势  
 ####J - J  
-ja - 从  
 jagu - 睡醒  
 jamul - 閻浮樹  
 jan - 人  
@@ -434,6 +451,7 @@ janel - 窗戶
 janelfrem - 窗框  
 janger - 工匠 (匠人)  
 jangle - 森林  
+jar - 罐 (瓶)  
 jau - 大麦  
 javabe - 回答  
 jeka - 借  
@@ -460,6 +478,7 @@ kaboge - 南瓜
 kade - 鱈  
 kafe\* - 咖啡  
 kafekan - 咖啡馆  
+kafepote - 咖啡壶  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kali harfe - 空隙  
@@ -559,8 +578,9 @@ kube - 立方体
 kupe - 杯子  
 kuxu - 躺  
 ####L - L  
+la - 从  
 le - 他，她，它  
-lole - 他们  
+les - 他们  
 lage - 湖  
 laya - 来  
 layana - 带来  
@@ -629,7 +649,7 @@ luta - 掠夺
 luter - 强盗  
 ####M - M  
 me - 我  
-mome - 我们  
+mes - 我们  
 magesem - 镁  
 Magribia - 摩洛哥  
 makanful - 蒲公英  
@@ -723,6 +743,7 @@ nide - 巢 (穴)
 nili - 蓝色  
 nilcentaur - 矢車菊  
 nilseramxing - 茜草花  
+nilon - 尼龙  
 Nipon - 日本  
 nix - 壁龛  
 noce - 夜  
@@ -734,7 +755,6 @@ novike - 新手
 numbe - 数  
 ####O - O  
 o - 或  
-oaze - оазис  
 oke - 眼睛  
 okosuigas - 催泪瓦斯  
 okside - 氧化物  
@@ -749,7 +769,6 @@ oselote - 虎貓
 osidian - 黑曜岩  
 ostojamia - 骨骼  
 ####P - P  
-pa - 到  
 pace - 和平  
 paciste - 和平主义者  
 pacistia - 和平主义  
@@ -790,22 +809,24 @@ pex - 鱼
 pexhuke - 鱼钩  
 pexosaider - 鱼夫  
 piaze - 洋葱  
+pike - 尖顶  
 pil - 皮  
 pin - 别针  
 pincope - 镐  
 pinkardon - 大翅蓟  
 pipre - 胡椒  
 piprominte - 辣薄荷  
+piram - 金字塔  
 pis - 云杉  
 plati geukaskia - 板块构造论  
 platotopia - 平原  
-pliza - 请  
 plum - 李子  
 polmaro - 经常  
 pontopin - 指南针  
 porei - 韭葱  
 porte - 港  
-pote - 坭  
+poter - 陶瓷工  
+poteria - 陶器制造  
 problem - 问题 (难题)  
 program - 计划  
 pudu - 腐烂  
@@ -831,6 +852,7 @@ reya - 重复
 reibon - 修理  
 reibona - 修理  
 reiboner - 修理工人  
+reisikla - 循环再造  
 reste - 其余  
 retru - 返回 (回来)  
 retrogula - 呕吐  
@@ -852,6 +874,7 @@ rozosalmon - 粉紅鮭
 ruhmixi - 困惑 (混乱)  
 ####S - S  
 sa - 对  
+ses - 彼此  
 sabun - 肥皂  
 safar - 旅行  
 sahi - 正确  
@@ -932,7 +955,7 @@ suprize - 惊奇
 susan - 百合花  
 ####T - T  
 te - 你  
-tote - 你们  
+tes - 你们  
 tablokomputer - 平板电脑  
 tail - 砖 (瓦)  
 taksometrer - 计程器  
@@ -975,8 +998,7 @@ truka - 耍花招
 truke - 伎俩  
 tuze - 兔子  
 ####U - U  
-va - 在  
-va linye - 在线  
+va - 到  
 vade - 山谷  
 vadosusan - 鈴蘭  
 vaf - 狗  
@@ -988,6 +1010,7 @@ val - 价值
 vampir - 吸血鬼  
 van - 娱乐  
 vanu - 玩耍  
+vas - оазис  
 vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
 venda - 卖  
@@ -1008,7 +1031,6 @@ uniko - 只有 (惟独)
 unyom - 星期一 (禮拜一)  
 unjani - 独自的 (孤单)  
 unmaro - 一次 (一遍)  
-ungle - 手指  
 voda - 许诺  
 vode - 诺言  
 volu - 想要 (愿意)  
@@ -1020,7 +1042,7 @@ xalke - 鳞
 Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
-Xatan - 撒但  
+Xatan (ruhxatan) - 撒但  
 xavi - 少  
 xei - 事物 (东西)  
 xeihal - 事态  

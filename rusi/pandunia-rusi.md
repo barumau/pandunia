@@ -42,11 +42,15 @@ amer - любовник
 amirlinye - командная строка  
 andiniste - неверующий  
 anmema - забывать  
+annam - антоним  
 ansomia - бессонница (инсомния)  
 andesite - андезит  
+angar - якорь  
+angul - палец  
+angulmarke - отпечаток пальца  
+angulpike - кончик пальца  
 anim - оживление  
 anjil - месседж  
-anker - якорь  
 anten - антенна  
 anus - анус  
 aple - яблоко  
@@ -138,8 +142,8 @@ bazoxulkan - семилетка
 bazar - рынок (базар)  
 bebe - младенец  
 beker - хлебопёк (пекарь)  
+bekofan - терракота  
 bekokan - пекарня (булочная)  
-bekopote - терракота  
 bel - лопата  
 ber - ягода  
 berande - балкон  
@@ -190,6 +194,7 @@ buton - пуговица
 cai - чай  
 caikan - чайная (чайхана)  
 caikupe - чайная чашка  
+caipote - чайник  
 cakre - колесо  
 camace - ложка  
 canse - возможность (шанс)  
@@ -206,6 +211,7 @@ centaur - василёк
 cerize - черешня  
 cili\* - перец (паприка)  
 cini - хань  
+cinga - просить  
 cir - рвать  
 cira - рвать  
 circira - изорвать  
@@ -300,6 +306,8 @@ euloge - панегирик
 europobalute - дуб черешчатый  
 ####F - F  
 faidia - применение (утилитарность)  
+fan - болото  
+fantopia - болото (топь)  
 fas - грань  
 fasteli - глубокий  
 fastelia - мелкий  
@@ -325,6 +333,7 @@ flece - стрела (стрелка)
 foba - страшить  
 fobu - бояться (страшиться)  
 fora - сверлить (бурить)  
+forma - формировать  
 fote - свет  
 fotofrika - полировать  
 fotografia - фотография  
@@ -337,8 +346,10 @@ fuki - оде́тый
 fuku - носить (одеваться)  
 ful - цветок  
 fulmosim - весна  
+fulpote - цвето́чный горшок  
 fungopal - гриб  
 futobol - футбол  
+futomarke - след ноги  
 ####G - G  
 gabra - хоронить  
 gabre - могила (гроб)  
@@ -353,6 +364,7 @@ garmomosim - лето
 garmozon - тропик  
 gas - газ  
 gati - твёрдый  
+gautehnia - высокие технологии  
 gazel - газель  
 gazete - газета  
 gemer - игрок (геймер)  
@@ -370,7 +382,9 @@ giuke - нефрит (жад)
 glisu - задвигаться (скользи́ть)  
 gluta - клеиться  
 gluti - клейкий (липкий)  
-glutopote - глина  
+glutobende - пластырь  
+glutofan - глина  
+glutograf - наклейка  
 gol - цель  
 goril - горилла  
 goton - хлопок  
@@ -389,6 +403,7 @@ gunjan - солдат
 gunrajer - генералиссимус  
 gute - колено  
 ####H - H  
+ha - с (иметь)  
 habar - новости  
 haha - смеяться  
 hai - море  
@@ -437,8 +452,10 @@ hukokrus - свастика
 hulei - лиса  
 huri - свободный (вольный)  
 ####I - I  
-ya - с (иметь)  
+ya - в  
+ya linye - онлайн  
 ye - да  
+Yahve - Яхве (Иегова)  
 yamfite - овощ  
 yamyau - голод  
 yasen - ясень  
@@ -471,12 +488,12 @@ itis - воспаление
 ivia - тенденция  
 yumor - юмор  
 ####J - J  
-ja - из (от)  
 jagi - acordado  
 jagu - проснуться  
 jamul - джамболан  
 janel - окно  
 jangle - лес (джунгли)  
+jar - кувшин (графин)  
 jau - ячмень  
 javabe - ответ  
 jena - родить  
@@ -511,6 +528,7 @@ kababi manse - кебаб
 kaboge - тыква  
 kafe\* - кофе  
 kafekan - кафе (кофейня)  
+kafepote - кофейник  
 kaguje - бумага  
 kagujolimon - лайм  
 kali - пустой  
@@ -619,6 +637,7 @@ kupe - чаша (чашка, стакан)
 kuxa - положить  (уложить)  
 kuxu - лежать  
 ####L - L  
+la - из (от)  
 laya - приходить  
 layana - приносить  
 laje - мусор (дрянь)  
@@ -678,11 +697,12 @@ lontre - выдра
 lova - протекать (просочиться)  
 lugi - зелёный  
 lun - луна  
+lun - месяц  
 lunkeke - лунный пирог  
 luter - грабитель  
 ####M - M  
 me - я  
-mome - мы  
+mes - мы  
 magesem - магний  
 Magribia - Марокко  
 majenti - маджента (фуксия)  
@@ -731,7 +751,6 @@ mem - память
 mema - помнить  
 memnote - меморандум  
 Merkur - Меркурий  
-mes - месяц  
 mester - мастер  
 metalbede - наковальня  
 metrograf - карта  
@@ -790,6 +809,7 @@ neurcel - нейрон
 nide - гнездо (улей)  
 nili - синий (голубой)  
 nilcentaur - василёк синий  
+nilon - нейлон  
 Nipon - Япония  
 nix - ниша  
 noce - ночь  
@@ -801,7 +821,6 @@ novike - новичок
 numbe - число  
 ####O - O  
 o - или  
-oaze - oasis  
 ode - ранг  
 oke - глаз (око)  
 oki - глазной  
@@ -872,7 +891,7 @@ pex - рыба
 pexhuke - крючок  
 pexosaider - рыбак (рыболов)  
 piaze - лук  
-pike - вершина  
+pike - кончик (остриё, пик)  
 pin - булавка (игла, шип)  
 pinani - пикантный  
 pincope - киркомотыга  
@@ -880,11 +899,14 @@ pinkardon - татарник колючий
 pinsoban - планшет  
 pipre - перец  
 piprominte - мята перечная  
+piram - пирамида  
 pis - ель  
 pize - пицца  
 plan - план  
+plasta - лепить  
+plasti - пластичный  
+plastike - пластмасса  
 platogeviste - плоскоземелец  
-pliza - просить  
 plum - слива  
 polbaxi - многоязычный  
 polmaro - часто  
@@ -894,7 +916,9 @@ porei - лук-порей
 porte - порт  
 portoriki - пуэрториканец  
 Portorikia - Пуэрто-Рико  
-pote - болото  
+postomarke - почтовый штемпель  
+poter - гончар  
+poteria - гончарное дело  
 problem - проблема  
 problemi - проблематичный  
 program - программа  
@@ -923,6 +947,7 @@ reya - повторять
 reibon - починка (ремонт)  
 reibona - чинить (ремонтировать)  
 reiboner - ремонтник  
+reisikla - рециркулировать  
 reste - остаток  
 retru - возвращаться  
 retrogula - рвать (изрыга́ть)  
@@ -951,6 +976,7 @@ rutogalta - отходить (скитаться)
 ####S - S  
 sa - быть  
 se - себя (-ся)  
+ses - друг друга  
 safran - шафран  
 sahi - правильный  
 saida - охотиться  
@@ -1093,8 +1119,6 @@ turba - утруждать
 turbu - утруждай  
 tuze - кролик (заяц)  
 ####U - U  
-va - в  
-va linye - онлайн  
 vadosusan - ландыш  
 vaf - собака  
 vagin - влагалище (вагина)  
@@ -1107,11 +1131,11 @@ val - ценность
 vala - оценивать  
 vampir - вампир (упырь)  
 vampirbalsenter - адский вампир  
+vas - oasis  
 vau - вау!  
 vaxa - мыть  
 vaxmaxin - стиральная машина  
 vaxurse - енот  
-vaze - ваза  
 vei - хвост  
 venda - продать  
 vendoxopa - обмениваться  
@@ -1139,7 +1163,6 @@ unyom - понедельник
 unjani - одинокий (единичный)  
 unmaro - один раз  
 unoki lense - монокль  
-ungle - палец  
 vode - клятва (присяга, обет)  
 volu - хотеть  
 ura - ура  
@@ -1151,12 +1174,13 @@ xalke - чешуя
 xaman - шаман  
 Xampan - Шампань  
 Xampan vin - champanhe  
+xanpike - вершина  
 xante - отдых  
 xanti - спокойный  
 xarke - акула  
 xata - противостоять  
 xatan - противник  
-Xatan - Сатана  
+Xatan (ruhxatan) - Сатана  
 xavi - мало  
 xaxu - шурша́ть  
 xef - шеф  

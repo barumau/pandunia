@@ -71,8 +71,8 @@ Antarktyka - Antartike
 antena - anten  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua e Barbuda  
-antonim - fannam  
-antychryst - fankriste  
+antonim - annam  
+antychryst - ankriste  
 Antyle Holenderskie - Nederlandi Antil  
 antymon - estibem  
 apsik - acu\*  
@@ -127,7 +127,7 @@ babcia (babka) - laumam
 badać, studiować - loja  
 bagaż - bagaje  
 bagietka - batonpang  
-bagno - pototopia  
+bagno (moczary) - fantopia  
 bahaista - bahayiste  
 bahaizm - bahayistia  
 Bahamy - Bahama  
@@ -277,8 +277,9 @@ ból - pax
 bąk, bączek - rototope  
 bęben - gum  
 bławatek - nilcentaur  
-błotnisty - poti  
-błoto - pote  
+błotnik - fandefban  
+błotnisty - fani  
+błoto - fan  
 błąd (pomyłka) - galte  
 błędny (niepoprawny) - galti  
 ####C - C  
@@ -396,7 +397,7 @@ czcić, szanować - puja
 czekać - denga  
 czekolada - coklate  
 czempion - campion  
-czerwiec - sanmes  
+czerwiec - sanlun  
 czerwony - lali  
 cześć, szacunek - puje  
 czosnek olbrzymi - dailasun  
@@ -455,12 +456,12 @@ deszczowy - barxi
 detal, szczegół - detal  
 dewanagari - deunagri harfe  
 dezaktualizować (pogorszyć) - dusdarja  
-diabelski, szatański - xatani  
-diabeł, szatan - Xatan  
+diabelski, szatański - Xatani  
+diabeł, szatan - Xatan (ruhxatan)  
 diament - almas  
 dioryt - diorite  
 dmuchać - hava  
-do, dopóki, dla - pa  
+do, dopóki, dla - va  
 dobry - boni  
 dobry ... - salam (salami)  
 dobry los, szczęście - boni zar  
@@ -692,7 +693,7 @@ gazela - gazel
 gazeta - habargazete  
 gazowy - gasi  
 gałąź, konar - xake  
-gdzie - va ke  
+gdzie - ya ke  
 gejowski (homoseksualny) - geyi  
 genderqueer, niebinarny - bis  
 genotyp - jentipe  
@@ -706,7 +707,7 @@ gitara - gitar
 glazura (emalia) - kancodake  
 gleba bielicoziemna - huidarte  
 glin (aluminium) - aluminem  
-glina - glutopote  
+glina - glutofan  
 globalny (światowy) - panduni  
 globalny - duni  
 glutaminian sodu - vijin  
@@ -749,7 +750,7 @@ grillować - kababa
 grom, huk - grom  
 grubość - grosia  
 gruby - grosi  
-grudzień - tixmes  
+grudzień - tixlun  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -862,7 +863,7 @@ humor (nastrój) - emoshal
 humor - yumor  
 humorystyczny, śmieszny, zabawny, komiczny - yumori  
 hybryda; kundel - hibride  
-hę?, co?, pardon? - he  
+hę?, co?, pardon? - eh  
 ####I - I  
 i, oraz - e  
 idea, pomysł - idei  
@@ -876,6 +877,8 @@ ilość - polia
 ilustrator, grafik - grafer  
 iluzja (halucynacja) - falsvide  
 imbir - zinje  
+imbryk (czajnik) - caipote  
+imbryk do kawy - kafepote  
 imię, nazwa - nam  
 imperator - imperer  
 imperialista - imperiste  
@@ -1173,7 +1176,7 @@ kosztować - kosta
 kosztowny (drogi) - kosti  
 koszula - kamis  
 kot - mau  
-kotwica - anker  
+kotwica - angar  
 kowadło - metalbede  
 kowal - metaljanger  
 koza - buze  
@@ -1254,7 +1257,7 @@ kwarc - kuarze
 kwaśny - suani  
 kwestia, problem - eskotem  
 kwiat - ful  
-kwiecień - desdulmes  
+kwiecień - desdullun  
 kwitnąć, rozkwitnąć, rozkwitać - fulu  
 kąpać się - banyu  
 kąpiel - banye  
@@ -1315,11 +1318,11 @@ limfa - linfe
 limit, granica - limite  
 limonkowy (limonkowo zielony) - limonlugi  
 linia, pas, pręga, smuga - linye  
-lipiec - carmes  
+lipiec - carlun  
 lis - hulei  
 lista słów - logoliste  
 lista, spis, wykaz - liste  
-listopad - balmes  
+listopad - ballun  
 listownicowiec - varkalge  
 lit - litem  
 litera, znak - harfe  
@@ -1352,7 +1355,7 @@ lustro - mirer
 luteranizm - martinluteristia  
 luterański - martinluteristi  
 lutet - lutetem  
-luty - desmes  
+luty - deslun  
 luźna rozmowa, gadanina - blabla  
 lód - ais  
 ####M - M  
@@ -1365,10 +1368,10 @@ magia - magia
 magiczny - magi  
 magik, czarownik - mager  
 magma - pastopetre  
-magnes - magete  
-magnetyczny - mageti  
+magnes - manete  
+magnetyczny - maneti  
 magnez - magesem  
-maj - dulmes  
+maj - dullun  
 Majotta - Mayote  
 mak lekarski - sompapil  
 mak polny - medenpapil  
@@ -1409,7 +1412,7 @@ martwić - duku
 martwy, nieżywy, zabity - morti  
 marynarka (flota) - haigun  
 marynować - sirkopurxipe  
-marzec - desunmes  
+marzec - desunlun  
 marznąć (zamarznąć) - aisu  
 masa - mas  
 masaż - masaje  
@@ -1466,11 +1469,11 @@ miejsce, lokacja - loke
 miejscowy, lokalny - loki  
 miejski - nagri  
 mielić - molia  
-miesiąc - mes  
+miesiąc - lun  
 mieszkać - doma  
 mieć (partykuła posiadania) - du  
 mieć (posiadać) - mala  
-mieć (trzymać) - ya  
+mieć (trzymać) - ha  
 mieć sens - razonu  
 migdał - badam  
 migracja - migre  
@@ -1571,7 +1574,7 @@ muzułman, muzułmanin - islamiste
 muzyk - muziker  
 muzyka - muzike  
 muł - gadogude  
-my - mome  
+my - mes  
 mydło - sabun  
 mylić (gmatwać, zmieszać, konsternować) - ruhmixa  
 mysz - mux  
@@ -1743,7 +1746,7 @@ numer - numbe
 nylon - nilon  
 nóż - cake  
 ####O - O  
-oaza - oaze  
+oaza - vas  
 obcęgi, kleszcze, szczypce - pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zayi  
 obiad, lunch - denyam  
@@ -1820,8 +1823,8 @@ oliwka - zaitun
 Oman - Oman  
 omszały (mszysty) - mosi  
 on, ona, ono - le  
-oni - lole  
-online (na linii, w sieci) - va linye  
+oni - les  
+online (na linii, w sieci) - ya linye  
 opaska do włosów - kexbende  
 opcja (wybór) - cuzable  
 opinia, pogląd - rai  
@@ -1891,7 +1894,7 @@ pajęczyna - arannete
 Pakistan - Pakistan  
 pakt (kontrakt, ugoda, umowa, konwencja) - kontrate  
 Palau - Palau  
-palec - ungle  
+palec - angul  
 pallad - paladem  
 palma, drzewo palmowe - palme  
 pamiętać - mema  
@@ -1947,7 +1950,7 @@ pauza (przerwa) - pauze
 paznokieć - nahun  
 pałac - daidom  
 paść, padać, upaść, upadać - padu  
-październik - setomes  
+październik - setolun  
 pchnąć, pchać - puxa  
 pedał - pedal  
 Pekin - Beijing  
@@ -1984,7 +1987,7 @@ pierwszy, numer jeden - unodi
 pierwszy, początkowy - xuri  
 pierś - sin  
 pierścień - ring  
-pierścień, pierścionek; obrączka - ungloring  
+pierścień, pierścionek; obrączka - angulring  
 pies - vaf  
 pień - mokotan  
 piknik - vaiyam  
@@ -2231,7 +2234,7 @@ promień światła - fotorade
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - Manihai  
-prosić - pliza  
+prosić - cinga  
 prostopadły - ortogoni  
 prosty - orti  
 prosty, nieskomplikowany - simpli  
@@ -2247,8 +2250,7 @@ przechylać (przechylić, wychylać, wychylić) - terca
 przeciekać, ciec - lova  
 przecinek - kom  
 przeciwnie do ruchu wskazówek zegara - rotolefto  
-przeciwnik (antagonista) - faner  
-przeciwstawny (naprzeciw, naprzeciwko, anty-) - fani  
+przeciwnik (antagonista) - xatan  
 przedmiot (obiekt) - vute  
 przedpołudnie - suboden  
 przedrostek (prefiks) - cenfikse  
@@ -2276,6 +2278,7 @@ przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - mig
 przeszkodzić, przeszkadzać, robić kłopot - turba  
 przeszłość - pas  
 przeszły, miniony - pasi  
+przetwarzać - reisikla  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
 przewidzieć (spodziewać się) - cenvida  
 przewodnik - gider  
@@ -2285,7 +2288,7 @@ przeziębienie, katar - zukam
 przeznaczenie, los - cenamen  
 przeznaczyć - gola  
 przeźroczysty, jasny - klari  
-przy, z, na, w, u - va  
+przy, z, na, w, u - ya  
 przyczepić, przymocować - fiksa  
 przygoda - ventur  
 przygoda w lochu - donjon aventur  
@@ -2584,7 +2587,7 @@ siedzieć - sida
 siekera, topór - futau  
 sierociniec, dom dziecka - yatimdom  
 sierota - yatim  
-sierpień - limmes  
+sierpień - limlun  
 Sierra Leone - Salon  
 sieć - nete  
 sikać, szczać, oddawać mocz - pixa  
@@ -2667,7 +2670,7 @@ sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - genca
 sprawiedliwość - adalia  
 sprawiedliwy - adali  
 sprawić ból, sprawiać ból - paxa  
-sprzeciwiać się (opierać się) - fana  
+sprzeciwiać się (opierać się) - xata  
 sprzedać (sprzedawać) - venda  
 sprzątacz, sprzątacz - safer  
 spróbować, próbować - testa  
@@ -2720,7 +2723,7 @@ strzelać (strzelić) - pava
 strzykwa - haihiyar  
 strzępić (drzeć) - circira  
 studio (pracownia) - estudia  
-styczeń - unmes  
+styczeń - unlun  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parca  
 stłuczony (pęknięty) - parci  
@@ -2765,7 +2768,7 @@ szaszłyk - xixmanse
 szczepionka - vaksin  
 szczoteczka do zębów - dantobrox  
 szczotka - brox  
-szczyt (wierzchołek) - pike  
+szczyt (wierzchołek) - xanpike  
 szef, kierownik - xef  
 szeleścić - xaxu  
 szeroki - kuani  
@@ -2878,7 +2881,6 @@ tellur - telurem
 telugu - telugi  
 temat, motyw - tem  
 temperatura - terme  
-ten (te) - di  
 tendencja - ivia  
 tenesyn, tennessine - tenesiem  
 tenis - tenis  
@@ -2887,7 +2889,7 @@ teologia - deulojia
 teoria - teoria  
 teozofia - deusofia  
 tera- - tera\*  
-terakota - bekopote  
+terakota - bekofan  
 teraźniejszość, współczesność (teraz) - zai  
 teraźniejszość, współczesność - zayia  
 terb - terbem  
@@ -2945,7 +2947,7 @@ trzęsienie Ziemi - geusisme
 trójkąt - sangon  
 trójząb - sanzong  
 trąba powietrzna (cyklon, tornado, tajfun) - rototafun  
-tu (tutaj, tam) - va de  
+tu (tutaj, tam) - ya ve  
 tuba, rura - tube  
 tul - tulem  
 tulipan - tulpe  
@@ -3079,8 +3081,7 @@ warzywo - yamfite
 Waszyngton D.####C - Vaxington DC  
 wat - vate  
 Watykan, Państwo Watykańskie - Vatikan  
-waza, garnek, pojemnik, słoik, dzban - vaze  
-wazon; donica, doniczka - fulvaze  
+wazon - jar  
 ważka - libel  
 ważny - hami  
 wciąż, nadal - zoko  
@@ -3190,7 +3191,7 @@ wow!, łoł!, jej! - vau
 wołowina - muhmanse  
 wprost (bezpośrednio) - dixo  
 wprostowywać (wyprostować) - orta  
-wrzesień - sismes  
+wrzesień - sislun  
 wrócić, wracać, wycofać się, wycofywać się - retru  
 wróg (nieprzyjaciel) - andoste  
 wsad, partia, porcja, seria - lote  
@@ -3214,7 +3215,7 @@ wszyscy, wszystkie, wszystko; każdy - pan (pani)
 wszystko - pan xei  
 wtorek - dulyom  
 wulkan - hogoxan  
-wy, was - tote  
+wy, was - tes  
 wybrać, wybierać, selekcjonować - cuza  
 wybrzeże (brzeg, krawędź) - tate  
 wybrzeże (plaża) - haitate  
@@ -3291,7 +3292,7 @@ właściwy, poprawny - sahi
 właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kex  
 ####X - X  
-z (od) - ja  
+z (od) - la  
 z (partykuła posiadania) - da  
 ####Z - Z  
 z boku (na bok) - lato  
@@ -3350,7 +3351,7 @@ zapisać (zarejestrować) - defta
 zapominać (zapomnieć) - anmema  
 zapomnieć, zapominać - bula  
 zapożyczenie (wyraz obcy) - jekologe  
-zaprosić, zapraszać - pliza laya  
+zaprosić, zapraszać - cinga laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
 zapytać, spytać, pytać - eska  

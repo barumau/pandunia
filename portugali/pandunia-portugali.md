@@ -44,8 +44,11 @@ andiniste - infiel
 anmema - esquecer  
 ansomia - insônia  
 andesite - andesito  
+angar - âncora  
+angul - dedo  
+angulmarke - impressão digital  
+angulpike - ponta do dedo  
 anjil - mensagem  
-anker - âncora  
 aple - maçã  
 aplosaus - purê de maçã  
 aplika - usar  
@@ -129,7 +132,7 @@ bazar - mercado (bazar)
 bebe - bebê  
 bedinje - beringela  
 beker - padeiro  
-bekopote - terracota  
+bekofan - terracota  
 bel - pá  
 ber - baga  
 berande - sacada (varanda)  
@@ -168,6 +171,7 @@ buton - botão
 ####C - C  
 cai - chá  
 caikupe - chavena (tigela de chá)  
+caipote - bule  
 cakre - roda  
 camace - colher  
 canse - chance  
@@ -262,6 +266,9 @@ evanjil - evangelho
 euloge - elogio  
 europobalute - carvalho-roble  
 ####F - F  
+fan - lama (lodo)  
+fandefban - para-lama  
+fantopia - pântano  
 fas - face (faceta)  
 fasteli - profundo  
 fasili - fácil  
@@ -283,6 +290,7 @@ foba - assustar
 fobu - temer  
 fobani - assustador  
 fora - furar (perfurar)  
+forma - modelar  
 fote - luz  
 fotograf - foto (fotografia)  
 fotografia - fotografia  
@@ -293,9 +301,11 @@ fuka - vestir
 fuke - roupa (vestidura)  
 fuku - trajar (vestir-se)  
 ful - flor  
+fulpote - vaso de flores  
 fung - fungo  
 fungopal - cogumelo  
 futobol - futebol  
+futomarke - pegada  
 ####G - G  
 gabra - enterrar  
 gabre - sepultura (túmulo)  
@@ -327,7 +337,9 @@ giuke - jade
 glisu - deslizar  
 gluta - colar (aderir)  
 gluti - pegajoso (adesivo)  
-glutopote - argila  
+glutobende - penso (band-aid)  
+glutofan - argila  
+glutograf - adesivo  
 gol - meta (gol)  
 goril - gorila  
 goton - algodão  
@@ -390,7 +402,10 @@ hukokrus - suástica (cruz gamada)
 hulei - raposa  
 huri - livre (forro)  
 ####I - I  
+ya ke - onde  
+ya linye - online  
 ye - sim  
+Yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
 yasen - freixo  
@@ -416,7 +431,6 @@ itis - inflamaçao
 iva - tender  
 ivia - tendência  
 ####J - J  
-ja - de  
 jagi - acordado  
 jagu - despertar  
 jamkarde - cromo  
@@ -424,6 +438,7 @@ jamul - jambolão (jambo)
 jan - pessoa  
 janel - janela  
 jangle - selva (floresta, jângal)  
+jar - jarra (jarro)  
 jau - cevada  
 javabe - resposta  
 jeka - emprestar (pedir emprestado)  
@@ -455,6 +470,7 @@ ko? - como
 kaboge - abóbora (jerimun)  
 kafe\* - café  
 kafekan - café  
+kafepote - cafeteira  
 kaguje - papel  
 kagujolimon - lima  
 kali harfe - espaço  
@@ -551,6 +567,7 @@ kupe - copo (taça)
 kuxa - deitar  
 kuxu - estar deitado (jazer)  
 ####L - L  
+la - de  
 lage - lago  
 laya - vir  
 layana - trazer  
@@ -614,11 +631,12 @@ lontre - lontra
 lova - vazar  
 lugi - verde  
 lun - lua  
+lun - mês  
 lunkeke - bolo lunar  
 luter - ladrão  
 ####M - M  
 me - eu (me)  
-mome - nós  
+mes - nós  
 mafa - perdoar (desculpar)  
 magesem - magnésio  
 Magribia - Marrocos  
@@ -634,6 +652,7 @@ mar - vez
 marce - marcha  
 margai - gato-maracajá  
 margarite - margarida  
+marke - mancha (marca)  
 Marse - Marte  
 martinluteristi - luterano  
 martinluteristia - luteranismo  
@@ -664,7 +683,6 @@ mema - lembrar-se (recordar-se)
 mening - meninge  
 merante - meranti  
 Merkur - Mercúrio  
-mes - mês  
 mester - mestre  
 metalbede - bigorna  
 metrograf - carta geográfica  
@@ -727,7 +745,6 @@ novike - novato (neófito)
 numbe - número  
 ####O - O  
 o - ou  
-oaze - oasis  
 oke - olho  
 oki - ocular  
 okosuigas - gás lacrimogéneo  
@@ -790,7 +807,7 @@ pex - peixe
 pexhuke - anzol  
 pexosaider - pescador  
 piaze - cebola  
-pike - cume (pico, topo)  
+pike - ponta (pico, bico)  
 pil - pele  
 pin - alfinete  
 pincope - picareta  
@@ -798,9 +815,13 @@ pinkardon - acanto-bastardo
 pinsoban - prancheta  
 pipre - pimenta  
 piprominte - hortelã-pimenta  
+piram - pirâmida  
 piratia - pirataria  
 pis - pícea (espruce)  
 plan - plano  
+plasta - moldar (modelar)  
+plasti - plástico  
+plastopaste - massa de modelar (massinha)  
 plati geukaskia - tectónica de placas  
 platogeviste - terraplanista  
 plum - ameixa  
@@ -809,7 +830,9 @@ porei - alho-porro
 porte - porto  
 portoriki - porto-riquenho  
 Portorikia - Porto Rico  
-pote - lama  
+postomarke - carimbo  
+poter - oleiro  
+poteria - cerâmica  
 problem - problema  
 program - programa  
 projete - projeto  
@@ -836,6 +859,7 @@ reya - repetir
 reibon - reparo  
 reibona - reparar  
 reiboner - reparador  
+reisikla - reciclar  
 reste - resto  
 retru - voltar (retornar)  
 retroguli sense - náusea  
@@ -856,6 +880,7 @@ ruhmixi - perplexo (confuso)
 ####S - S  
 sa - ser (estar)  
 se - se  
+ses - um ao outro  
 sahi - correto (justo)  
 saida - caçar  
 sake - saco  
@@ -962,8 +987,6 @@ truke - truque (fraude)
 turba - molestar (perturber)  
 tuze - coelho (lebre)  
 ####U - U  
-va ke - onde  
-va linye - online  
 vade - vale (uadi)  
 vadosusan - lírio-do-vale  
 vaf - cão (cachorro)  
@@ -976,6 +999,7 @@ valu - valer
 vampir - vampiro  
 varkalge - kelp  
 varkolate - página  
+vas - oasis  
 vaxurse - guaxinim (rato-lavadeiro)  
 venda - vender  
 vendoxopa - торговать  
@@ -997,7 +1021,6 @@ unyom - segunda-feira
 unjani - só (solitário)  
 unmaro - uma vez  
 unoki lense - monóculo  
-ungle - dedo  
 vode - promessa (voto)  
 vol - vontade  
 volu - querer (desejar)  
@@ -1012,12 +1035,13 @@ vute - item
 xalke - escama  
 Xampan - Champagne  
 Xampan vin - champaña  
+xanpike - cume (pico, topo)  
 xante - descanso (repouso)  
 xanti - tranquilo (calmo)  
 xarke - tubarão  
 xata - opor  
 xatan - adversário  
-Xatan - Satanás  
+Xatan (ruhxatan) - Satanás  
 xavi - poucos  
 xef - chefe  
 xei - coisa  

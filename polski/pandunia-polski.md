@@ -106,8 +106,10 @@ anjama - rozproszyć, rozpraszać
 anjami - rzadki (rozrzedzony, rozproszony)  
 ankaya - zamknąć (zamykać)  
 ankayi - zamknięty  
+ankriste - antychryst  
 anlimitia - nieskończoność  
 anmema - zapominać (zapomnieć)  
+annam - antonim  
 anpace - niepokój  
 anromansi - aromantyczny  
 ansavi - dziwny (nieznany)  
@@ -120,12 +122,14 @@ ande - jajko (jajo)
 Andes - Andy  
 andesite - andezyt  
 Andora - Andora  
+angar - kotwica  
 Angola - Angola  
+angul - palec  
+angulring - pierścień, pierścionek; obrączka  
 anim - animacja  
 anima - animować  
 anjil - wiadomość  
 anjiler - posłaniec (wysłannik)  
-anker - kotwica  
 Antartike - Antarktyka  
 Antartiki Hai - Ocean Antarktyczny (Ocean Południowy)  
 anten - antena  
@@ -230,7 +234,7 @@ bakocoi - kapusta pekińska
 bakomargarite - jastrun właściwy  
 bakosalmon - keta  
 bali - osiem (8)  
-balmes - listopad  
+ballun - listopad  
 balsenter - ośmiornica  
 balde - wiadro  
 balibali - różny (różnorodny)  
@@ -315,8 +319,8 @@ beyu - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 Beijing - Pekin  
 beka - piec  
 beker - piekarz  
+bekofan - terakota  
 bekokan - piekarnia  
-bekopote - terakota  
 bel - bel  
 bel - łopata (szpadel)  
 Belarus - Białoruś  
@@ -436,6 +440,7 @@ Cadia - Czad
 cai - herbata  
 caikan - herbaciarnia  
 caikupe - kubek do herbaty  
+caipote - imbryk (czajnik)  
 cake - nóż  
 cakre - koło  
 camace - łyżka  
@@ -457,7 +462,7 @@ capate - płaski chleb, ćapati
 cari - cztery (4)  
 cargon - kwadrat (czworokąt, czworobok, tetragon)  
 caryom - czwartek  
-carmes - lipiec  
+carlun - lipiec  
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
@@ -494,6 +499,8 @@ cilifun - papryka
 cimpanze - szympans  
 cini - han chiński  
 cincil - szynszyla  
+cinga - prosić  
+cinga laya - zaprosić, zapraszać  
 Cipia - Albania  
 cir - rwać (drzeć)  
 cira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
@@ -528,7 +535,6 @@ cuze - wybór, elekcja, selekcja
 cuzable - opcja (wybór)  
 ####D - D  
 da - z (partykuła posiadania)  
-di - ten (te)  
 du - mieć (partykuła posiadania)  
 dayi - duży  
 dayia - rozmiar  
@@ -612,10 +618,10 @@ den - dzień
 denyam - obiad, lunch  
 denga - czekać  
 desi - dziesięć (10)  
-desdulmes - kwiecień  
+desdullun - kwiecień  
 deskilo\* - dziesięć tysięcy  
-desmes - luty  
-desunmes - marzec  
+deslun - luty  
+desunlun - marzec  
 desen - rysunek, obraz  
 detal - detal, szczegół  
 deu - bóg, bóstwo  
@@ -696,9 +702,9 @@ dulo multa - podwajać (podwoić, pomnożyć przez dwa)
 dulbaxi - dwujęzyczny  
 dulyom - wtorek  
 dulistia - dualizm  
+dullun - maj  
 dulmaro - dwukrotnie (dwa razy)  
 dulmeni - dwuznacznik  
-dulmes - maj  
 dulromansi - biromantyczny  
 dulseksi - biseksualny  
 duman - dym  
@@ -728,6 +734,7 @@ dux - prysznic
 ####E - E  
 e - i, oraz  
 eglis - kościół  
+eh - hę?, co?, pardon?  
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
 ekojeni - dziki  
@@ -812,10 +819,10 @@ falsi - fałszywy, nieprawdziwy
 falsvide - iluzja (halucynacja)  
 famil - rodzina  
 familnam - nazwisko, imię rodziny  
-fana - sprzeciwiać się (opierać się)  
-faner - przeciwnik (antagonista)  
-fankriste - antychryst  
-fannam - antonim  
+fan - błoto  
+fani - błotnisty  
+fandefban - błotnik  
+fantopia - bagno (moczary)  
 fantaza - wyobrazić, wyobrażać, fantazjować  
 fantaze - fantazja (wyobrażenie, wyobraźnia)  
 fantazi - fantastyczny, fantazyjny  
@@ -937,7 +944,6 @@ fuku - nosić ubrania
 ful - kwiat  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
 fulmosim - wiosna  
-fulvaze - wazon; donica, doniczka  
 fun - pył  
 funcuper - odkurzacz  
 funcu - funkcja, stanowisko  
@@ -1052,7 +1058,7 @@ gluta - lepić (kleić)
 glute - klej  
 gluti - lepki (kleisty)  
 gluten - gluten  
-glutopote - glina  
+glutofan - glina  
 gol - cel  
 gola - przeznaczyć  
 golem - golem  
@@ -1108,7 +1114,7 @@ guste - smak
 gustu ko - smakować jak  
 gute - kolano  
 ####H - H  
-he - hę?, co?, pardon?  
+ha - mieć (trzymać)  
 habar - wiadomość, nius  
 habargazete - gazeta  
 habaxi - abisyński  
@@ -1245,7 +1251,10 @@ huristi - liberalny, wolnościowy
 huristia - liberalizm  
 huxi - miły, przyjemny, uroczy  
 ####I - I  
-ya - mieć (trzymać)  
+ya - przy, z, na, w, u  
+ya ke - gdzie  
+ya linye - online (na linii, w sieci)  
+ya ve - tu (tutaj, tam)  
 ye - tak  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
@@ -1353,7 +1362,6 @@ yumoriste - komik
 yuterbem - iterb  
 yutrem - itr  
 ####J - J  
-ja - z (od)  
 jaga - obudzić, budzić  
 jagi - przebudzony, przytomny  
 Jayeria - Algieria  
@@ -1371,6 +1379,7 @@ jangi - umiejętny (sprawny, zręczny)
 janger - rzemieślnik  
 jangle - las, dżungla, zagajnik  
 jar - dzban, dzbanek; słój, słoik  
+jar - wazon  
 jau - jęczmień  
 javaba - odpowiedzieć, odpowiadać  
 javabe - odpowiedź, odzew  
@@ -1463,6 +1472,7 @@ kadem - kadm
 kafe\* - kawa  
 kafekan - kawiarnia  
 kafekupe - filiżanka do kawy  
+kafepote - imbryk do kawy  
 kafir - niewierny (poganin, niewierzący)  
 kaguje - papier  
 kagujolimon - lima (limonka)  
@@ -1779,8 +1789,9 @@ kuxu - leżeć
 kuxen - poduszka  
 kuxloke - kuszetka (koja)  
 ####L - L  
+la - z (od)  
 le - on, ona, ono  
-lole - oni  
+les - oni  
 labe - warga  
 lada - naładować, załadować, obładować, ładować  
 lage - jezioro  
@@ -1873,7 +1884,7 @@ limi - pięć (5)
 limfas - pięciościan (pryzmat)  
 limgon - pięciokąt (pentagon)  
 limyom - piątek  
-limmes - sierpień  
+limlun - sierpień  
 limite - limit, granica  
 limiti - skończony (ograniczony)  
 limon - cytryna  
@@ -1928,6 +1939,7 @@ lugomelon - melon miodowy
 Luksemburge - Luksemburg  
 lul - perła  
 lun - księżyc  
+lun - miesiąc  
 lung - smok  
 lusun - szparag; szparagia  
 luta - obrabować, splądrować  
@@ -1936,15 +1948,13 @@ lutetem - lutet
 ####M - M  
 me - ja, mnie  
 mi - mój  
-mome - my  
+mes - my  
 maf - przepraszam!  
 magi - magiczny  
 magia - magia  
 magasar - zaklecie  
 mager - magik, czarownik  
 magesem - magnez  
-magete - magnes  
-mageti - magnetyczny  
 Magyaria - Węgry  
 Magribia - Maroko  
 mayan - Maya  
@@ -1978,6 +1988,8 @@ mamal - ssak
 man - męski  
 mani pute - syn  
 mani rajer - król  
+manete - magnes  
+maneti - magnetyczny  
 mangi - zajęty  
 mangan - mangan  
 mango\* - mango  
@@ -2082,7 +2094,6 @@ meningitis - zapalenie opon mózgowych
 menter - doradca (mentor)  
 merante - damarzyk (meranti)  
 Merkur - Merkury  
-mes - miesiąc  
 mesta - być mistrzem (być ekspertem)  
 mester - mistrz (ekspert)  
 metal - metal  
@@ -2364,7 +2375,6 @@ numbe - numer
 nuton - niuton (N)  
 ####O - O  
 o - lub, albo  
-oaze - oaza  
 Oceania - Oceania  
 odisi - orija  
 ofis - urząd, pozycja, stanowisko, funkcja  
@@ -2413,7 +2423,6 @@ ostojamia - szkielet
 ostoxalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
 ####P - P  
-pa - do, dopóki, dla  
 pace - pokój  
 Paci Hai - Ocean Spokojny (Pacyfik)  
 paciste - pacyfista  
@@ -2543,7 +2552,6 @@ piano\* - pianino
 piaze - cebula  
 pige - pośladki, pupa, tyłek, zadek  
 pijin - pidżin, język pomocniczy  
-pike - szczyt (wierzchołek)  
 pil - skóra  
 piloter - pilot  
 pin - igła, szpilka  
@@ -2587,8 +2595,6 @@ platoniste - platończyk
 platonisti - platoniczne  
 platonistia - platonizm  
 plazme - plazma (zjonizowany gaz)  
-pliza - prosić  
-pliza laya - zaprosić, zapraszać  
 plum - śliwka  
 plumbe - ołów  
 Pluton - Pluton (planeta karłowata)  
@@ -2631,9 +2637,6 @@ posta - nadać, wysłać pocztą
 poste - poczta  
 postocape - znaczek pocztowy  
 postokan - poczta, budynek poczty  
-pote - błoto  
-poti - błotnisty  
-pototopia - bagno  
 poza - pozować, ustawiać się  
 poze - poza, pozycja  
 prasedem - prazeodym  
@@ -2737,6 +2740,7 @@ reyo - znowu (ponownie)
 reibon - naprawa  
 reibona - naprawić, naprawiać  
 reiboner - naprawiacz  
+reisikla - przetwarzać  
 renem - ren  
 rentogenem - roentgen  
 reporta - raportować, relacjonować, opowiadać  
@@ -2882,7 +2886,7 @@ Samoa - Samoa
 san - trzy (3)  
 sangon - trójkąt  
 sanyom - środa  
-sanmes - czerwiec  
+sanlun - czerwiec  
 sanzong - trójząb  
 sanduice - kanapka  
 sanduke - pudło, skrzynia  
@@ -2952,7 +2956,7 @@ server - sługa
 sesam - sezam  
 seti - siedem (7)  
 setyom - niedziela  
-setomes - październik  
+setolun - październik  
 Sexel nesia - Seszele  
 siani - niebieskozielony (cyjan)  
 Sibiria - Syberia  
@@ -2998,7 +3002,7 @@ sisi - sześć (6)
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
 sisyom - sobota  
-sismes - wrzesień  
+sislun - wrzesień  
 sisma - trząść (machać)  
 sisme - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
 sismi - sejsmiczny (wibracyjny)  
@@ -3117,7 +3121,7 @@ suxi - sushi
 ####T - T  
 te - ty, ciebie  
 ti - twój  
-tote - wy, was  
+tes - wy, was  
 tabake - tytoń  
 tabla date - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
@@ -3221,7 +3225,7 @@ tirlonga - rozciągać (rozciągnąć)
 tirsanduke - szuflada  
 titanem - tytan  
 tixi - dziewięć (9)  
-tixmes - grudzień  
+tixlun - grudzień  
 toca - dotyczyć  
 Togo - Togo  
 Tokyo - Tokio  
@@ -3270,10 +3274,7 @@ Turkomenia - Turkmenistan
 Tuvalu - Tuwalu  
 tuze - królik, zając  
 ####U - U  
-va - przy, z, na, w, u  
-va de - tu (tutaj, tam)  
-va ke - gdzie  
-va linye - online (na linii, w sieci)  
+va - do, dopóki, dla  
 vade - dolina  
 vadosusan - konwalia majowa  
 vaf - pies  
@@ -3305,6 +3306,7 @@ varis - spadek, dziedzictwo, spuścizna, zapis
 varke - kartka (dokument)  
 varkalge - listownicowiec  
 varkolate - strona  
+vas - oaza  
 vate - wat  
 Vatikan - Watykan, Państwo Watykańskie  
 vau - wow!, łoł!, jej!  
@@ -3312,7 +3314,6 @@ vaxa - prać, umyć, myć
 vaxmaxin - pralka  
 vaxurse - szop pracz  
 Vaxington D####C - Waszyngton D.C  
-vaze - waza, garnek, pojemnik, słoik, dzban  
 UDA du - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
 vei - ogon  
 venda - sprzedać (sprzedawać)  
@@ -3387,13 +3388,11 @@ unyom - poniedziałek
 uniti - zjednoczony  
 Uniti Arabi Amiria (UAA) - Zjednoczone Emiraty Arabskie  
 Uniti Dex Da Amerike (UDA) - Stany Zjednoczone Ameryki  
+unlun - styczeń  
 unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
-unmes - styczeń  
 unodi - pierwszy, numer jeden  
 unrangi - jednokolorowy (monochromatyczny)  
-ungle - palec  
-ungloring - pierścień, pierścionek; obrączka  
 voda - obiecać, angażować się  
 vodun - voodoo  
 vol - wola (chęć, pragnienie)  
@@ -3428,6 +3427,7 @@ xaman - szaman
 Xampan - Champagne  
 Xampan vin - samppanja  
 xan - góra, wzgórze  
+xanpike - szczyt (wierzchołek)  
 Xanghai - Szanghaj  
 xante - zostawić (zostawiać)  
 xanti - spokojny  
@@ -3436,8 +3436,10 @@ xarme - wstyd (hańba, kompromitacja)
 xarnir - zawias, oś  
 xarta - wymagać, przewidywać  
 xarte - warunek  
-Xatan - diabeł, szatan  
-xatani - diabelski, szatański  
+xata - sprzeciwiać się (opierać się)  
+xatan - przeciwnik (antagonista)  
+Xatan (ruhxatan) - diabeł, szatan  
+Xatani - diabelski, szatański  
 xataniste - satanista  
 xatanistia - satanizm  
 xatranje - szachy  

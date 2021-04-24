@@ -38,7 +38,7 @@ Verbs that end in **-a** are called _agent-oriented verbs_
 because the agent comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-![](http://www.pandunia.info/grafe/agent-verb-patient.png "Agent-verb-patient cycle")
+![](http://www.pandunia.info/grafe/eng_agent-verb-patient.png "Agent-verb-patient cycle")
 
 There can be only one verb, one agent, and one patient
 one after another in a sentence.
@@ -59,7 +59,7 @@ The most common word order in Pandunia is agent–verb–patient.
 It places the focus on the agent of the action.
 
 Examples:  
-**me vida lole.**
+**me vida les.**
 – I see them.  
 **bace parca kupe.**
 – The child breaks the cup.  
@@ -90,7 +90,7 @@ Verbs that end in **-u** are called _patient-oriented verbs_
 because the patient comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-![](http://www.pandunia.info/grafe/patient-verb-agent.png "Patient-verb-agent cycle")
+![](http://www.pandunia.info/grafe/eng_patient-verb-agent.png "Patient-verb-agent cycle")
 
 There can be only one verb, one agent, and one patient.
 Therefore it is possible to put them in exactly three different orders:
@@ -115,7 +115,7 @@ Examples:
 – Bread is baked by you.  
 **kupe parcu.**
 – The cup got broken.  
-**rajer suku lole.**
+**rajer suku les.**
 – The king is pleased by them.
 
 #### Order U-2: Agent, patient and verb
@@ -124,7 +124,7 @@ The agent–patient–verb order is a possible alternative for the agent–verb�
 It is used in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
 Examples:  
-**me lole vidu.** - _I them see._  
+**me les vidu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
 #### Order U-3: Verb, agent and patient

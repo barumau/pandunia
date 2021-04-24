@@ -80,9 +80,11 @@ ansomia - sendormeco
 an:a - igi (farigi)  
 ande - ovo  
 Andes - Andoj  
+angar - ankro  
+angul - fingro  
+angulring - ringo  
 anim - kartuno  
 anjil - mesaĝo  
-anker - ankro  
 anten - anteno  
 anus - anuso  
 anusi - anusa  
@@ -276,6 +278,7 @@ buze - kapro
 ####C - C  
 cabe - ŝlosilo  
 cai - teo  
+caipote - teujo  
 cake - tranĉilo  
 cakre - rado  
 camace - kulero  
@@ -306,6 +309,8 @@ Cile - Ĉilio
 cimpanze - ĉimpanzo  
 cini - hana  
 cincil - ĉinĉilo  
+cinga - peti (bonvolu)  
+cinga laya - inviti  
 cirka - ĉirkaŭi  
 cita - citi  
 cize - fromaĝo  
@@ -324,8 +329,6 @@ cuza - elekti
 cuze - elekto  
 ####D - D  
 da - de (partiklo de posedo)  
-de - tio  
-di - la (tiu)  
 du - propra (partiklo de posedo)  
 dayi - granda  
 dayanjiler - ambasadoro  
@@ -437,6 +440,7 @@ dux - duŝo
 ####E - E  
 e - kaj  
 eglis - preĝejo  
+eh - ĉu?  
 ekia - naturo  
 ekor - sciuro  
 ekran - ekrano  
@@ -486,7 +490,9 @@ faidia - utileco
 faini - fajna  
 famil - familio  
 familnam - familinomo  
-fani - kotraŭa  
+fan - koto  
+fani - kota  
+fantopia - marĉo  
 fantaza - fantaci  
 fantaze - fantazio  
 fantazi - fantazia  
@@ -572,8 +578,9 @@ fuka - vestigi
 fuke - vesto  
 fuku - vesti (surporti)  
 ful - floro  
+fuljar - vazo  
 fulmosim - printempo  
-fulvaze - vazo (florpoto)  
+fulpote - florpoto  
 fun - polvo  
 funcu - funkcii  
 fung - fungo  
@@ -632,6 +639,7 @@ gitar - gitaro
 giuke - jado  
 glute - gluo  
 gluten - gluteno  
+glutograf - glumarko  
 gol - golo  
 gom - kaŭĉuko  
 gon - angulo  
@@ -664,7 +672,7 @@ guste - gusto
 gustu ko - gusti kiel  
 gute - genuo  
 ####H - H  
-he - ĉu?  
+ha - havi (teni)  
 habar - novaĵoj  
 habargazete - gazeto  
 hafnem - hafnio  
@@ -747,8 +755,12 @@ huri - libera
 huria - libereco  
 huxi - agrabla  
 ####I - I  
-ya - havi (teni)  
+ya ke - kie  
+ya ve - tie  
+ye - ĉi tio  
 ye - jes  
+yi - ĉi tiu  
+Yahve - Javeo (Jehovo)  
 yala - rapidigi  
 yama - manĝi (trinki)  
 yamfite - legomo  
@@ -796,7 +808,6 @@ yumoriste - humuristo
 yuterbem - iterbio  
 yutrem - itrio  
 ####J - J  
-ja - de (el, pro)  
 jagi - uyanık  
 jake - jako  
 jama - kolekti (kunigi)  
@@ -808,6 +819,7 @@ janel - fenestro
 janelfrem - fenestrokadro  
 janger - metiisto  
 jangle - arbaro  
+jar - kruĉo  
 jau - hordeo  
 javaba - respondi  
 javabe - respondo  
@@ -856,6 +868,7 @@ kadem - kadmio
 kafe\* - kafo  
 kafekan - kafejo  
 kafekupe - kaftaso  
+kafepote - kafeujo  
 kaguje - papero  
 kaya - malfermi  
 kayi - malferma  
@@ -1009,8 +1022,9 @@ kurse - seĝo
 kurve - kurbo  
 kuxu - kuŝi  
 ####L - L  
+la - de (el, pro)  
 le - li aŭ ŝi aŭ ĝi  
-lole - ili  
+les - ili  
 labe - lipo  
 laya - veni  
 layana - alporti (venigi)  
@@ -1072,13 +1086,14 @@ lova sang - sangi
 lugi - verda  
 lul - perlo  
 lun - luno  
+lun - monato  
 luta - rabi  
 luter - rabisto  
 lutetem - lutecio  
 ####M - M  
 me - mi  
 mi - mia  
-mome - ni  
+mes - ni  
 maf - pardono  
 mafa - pardoni  
 magia - magio  
@@ -1132,7 +1147,6 @@ mema - memori
 member - membro  
 men - signifo  
 Merkur - Merkuro  
-mes - monato  
 metal - metalo  
 metode - metodo  
 metra - mezuri  
@@ -1260,7 +1274,6 @@ numbe - nombro
 nuton - newtono (N)  
 ####O - O  
 o - aŭ  
-oaze - oazo  
 Oceania - Oceanio  
 oganeson - oganesono  
 oka - okulumi  
@@ -1282,7 +1295,6 @@ osmem - osmio
 osmos - osmozo  
 oste - osto  
 ####P - P  
-pa - al (ĝis, por)  
 pace - paco  
 paciste - pacifisto  
 pacistia - pacifismo  
@@ -1344,7 +1356,6 @@ piano\* - piano
 piaze - cepo  
 pige - kulo  
 pijin - piĝino  
-pike - pinto  
 pil - haŭto  
 pin - nadlo (pinglo, pikilo)  
 pina - piki  
@@ -1357,8 +1368,6 @@ pixa - pisi (urini)
 pize - pico  
 pizokan - picejo  
 platinem - plateno  
-pliza - peti (bonvolu)  
-pliza laya - inviti  
 plum - pruno  
 plumbe - plumbo  
 plutonem - plutonio  
@@ -1376,8 +1385,7 @@ porte - haveno
 Portorikia - Portoriko  
 pospor - fosforo  
 postokan - poŝtejo  
-pote - koto  
-poti - kota  
+postomarke - poŝtmarko  
 prezidente - prezidento  
 prizona - malliberigi  
 prizonkan - malliberejo  
@@ -1425,6 +1433,7 @@ reyo - denove (ripete)
 reibon - riparo  
 reibona - ripari  
 reiboner - riparisto  
+reisikla - recikligi  
 renem - renio  
 rentogenem - rentgenio  
 restorante - restaŭracio  
@@ -1458,6 +1467,7 @@ rutin - rutino (kutimo)
 ####S - S  
 sa - esti  
 se - si  
+ses - unu la alian  
 sabe - kialo  
 sabo da - ĉar  
 sabun - sapo  
@@ -1591,7 +1601,7 @@ suxi - suŝio
 ####T - T  
 te - vi (ci)  
 ti - via (cia)  
-tote - vi ĉiu  
+tes - vi ĉiu  
 tabake - tabako  
 tafun - ŝtormo  
 tayi - tajlanda  
@@ -1659,10 +1669,12 @@ tunel - tunelo
 tuneltren - metroo  
 tunike - robo  
 tupe - ĉapelo  
+turfe - torfo  
 Turkia - Turkio  
 ####U - U  
-va de - tie  
-va ke - kie  
+va - al (ĝis, por)  
+ve - tio  
+ve - tiu  
 vade - valo  
 vaf - hundo  
 vagin - vagino  
@@ -1676,11 +1688,11 @@ van - amuzo
 vana - amuzi  
 vani - amuza  
 varkolate - paĝo  
+vas - oazo  
 vate - vato  
 vau - ŭaŭ!  
 vaxa - lavi  
 vaxmaxin - lavmaŝino  
-vaze - vazo  
 vei - vosto  
 ventur - aventuro  
 venturer - aventuristo  
@@ -1709,8 +1721,6 @@ uniko - sole (nur)
 unyom - luno  
 unmaro - unufoje  
 unoki lense - monoklo  
-ungle - fingro  
-ungloring - ringo  
 voda - promesi  
 vol - volo  
 volu - voli  
@@ -1724,11 +1734,12 @@ xake - branĉo
 xal - koltuko  
 xaman - ŝamano  
 xan - monto  
+xanpike - pinto  
 xanti - trankvila (serena)  
 xarme - honto  
 xarnir - ĉarniro (pivoto)  
 xarte - kondiĉo (postulo)  
-Xatan - diablo (Satano)  
+Xatan (ruhxatan) - diablo (Satano)  
 xatranje - ŝako  
 xavi - malmulte  
 xef - estro (ĉefulo)  

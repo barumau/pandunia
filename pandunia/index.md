@@ -28,7 +28,7 @@ te ablu xula pandunia uza [mini xul](mini_darse.html).
     * [nam da pal](lekse/pal.html)
     * [rang](lekse/ange.md)
     * [nam da dex](dexonam.md)
-    * [logaslia](leksaslia.md) e [loge du numbe](loge_du_numbe.md)
+    * [logaslia](leksaslia.md) e [loge du numbe](loge_du_numbe.md) e [asar da mulbax](asar_da_mulbax.md)
 * vikia
     * [vikia va Fandom](https://pandunia.fandom.com/)
     * [ali vikia va pandunia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)

@@ -220,6 +220,8 @@ The relativized word can be emphasized by **di**,
 as in the following example,
 but it is necessary only in complex phrases.
 
+In Pandunia, relative clauses are always set off by commas.
+
 **di buke, de jan kitaba, padu.**
 – _That_ book, which the person writes, falls.
 
@@ -334,7 +336,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **me no vida te.**
 – I don't see you.  
-**me vida no te a lole.**
+**me vida no te a les.**
 – I see, not you, but them.
 
 **me pliza te safa kamar.**

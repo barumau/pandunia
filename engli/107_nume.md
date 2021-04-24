@@ -141,28 +141,28 @@ So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'thre
 
 #### Months
 
-1. **unmes**
+1. **unlun**
    – January
-2. **dulmes**
+2. **dullun**
    – February
-3. **sanmes**
+3. **sanlun**
    – March
-4. **carmes**
+4. **carlun**
   – April
-5. **limmes**
+5. **limlun**
   – May
-6. **sismes**
+6. **sislun**
   – June
-7. **setomes**
+7. **setolun**
   – July
-8. **balmes**
+8. **ballun**
   – August
-9. **naumes**
+9. **naulun**
   – September
-10. **desmes**
+10. **deslun**
   – October
-11. **desunmes**
+11. **desunlun**
   – November
-12. **desdulmes**
+12. **desdullun**
   – December
 
