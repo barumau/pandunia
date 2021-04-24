@@ -112,6 +112,7 @@ aspirino - aspirin
 astmo - asme  
 astro - astre  
 astronaŭto - astronaver  
+astronomo - astronomer  
 atako (agreso) - agres  
 ateisto - andeviste  
 atendi - denga  
@@ -285,9 +286,9 @@ dek (10) - desi
 dek miloj - deskilo\*  
 dekono - deci\*  
 delfeno - dolfin  
-demandanta - eskan  
-demandi - eska  
-demando - eske  
+demandanta - sualan  
+demandi - suala  
+demando - sual  
 demografio - demgrafia  
 demokratia - demkrati  
 demokratio - demkratia  
@@ -326,6 +327,7 @@ dormo - som
 dormoĉambro - somkamar  
 dorso - ruke  
 dramo - dram  
+drato - metallin  
 drinkejo - birkan  
 du (2) - duli  
 dubnio - dubnem  
@@ -342,6 +344,7 @@ Egipto - Misria
 ejnŝtejnio - ainstainem  
 ejo (ujo, io) - -ia  
 ejo - aria  
+ekonomiko - malnomia  
 ekrano - ekran  
 eksa- - eksa\*  
 ekstera - vayi  
@@ -431,6 +434,7 @@ fervojo - trendau
 festi - festa  
 festo - feste  
 feĉo - hamir  
+fibro - linem  
 figuro - figur  
 fiki - coda  
 fiksi - fiksa  
@@ -560,7 +564,7 @@ gvidi - gida
 ####H - H  
 hafnio - hafnem  
 Haitio - Aiti  
-halo - fotocirke  
+halo - fotosirke  
 halti - tingu  
 haltigi - tinga  
 halto - ting  
@@ -676,7 +680,7 @@ jaro - nen
 jasmeno - malike  
 Javeo (Jehovo) - Yahve  
 Jemeno - Yemen  
-jes - ye  
+jes - ha  
 Jesuo - Yesus  
 jodo - yodem  
 jogo - yoge  
@@ -885,7 +889,7 @@ laktuko - letis
 lamenti - duku  
 lampo - lampe  
 lando - dex  
-lango - lin  
+lango - lisan  
 lanterno - hogosanduke  
 lasta - finodi  
 Latvio - Latvia  
@@ -911,7 +915,7 @@ libro - buke
 ligi - benda  
 ligno - mokomate  
 liki - lova  
-lineo - linye  
+lineo (ŝnuro) - lin  
 lingvistiko - baxlojia  
 lingvo - bax  
 linko - lince  
@@ -1273,8 +1277,8 @@ poemo - xir
 pokero - poke  
 poligono - polgon  
 politika - politiki  
-politikisto - politiker  
-politiko - politike  
+politikisto - politike  
+politiko - politia  
 polonio - polskem  
 polvo - fun  
 pomo - aple  
@@ -1553,6 +1557,9 @@ Tanzanio - Tanzania
 tapeto - murkaguje  
 taso - kupe  
 tatuo - tatu\*  
+taŭga - hapi  
+taŭgi - hapu  
+taŭgigi - hapa  
 teknecio - tehnem  
 tekniko - tehne  
 teknologio - tehnolojia  
@@ -1689,7 +1696,7 @@ vidi (rigardi) - vida
 vidvo - vidou  
 vikia artikulo - vike  
 vilaĝo - ruste  
-vinagro - sirke  
+vinagro - vinsuan  
 vinbero - putau  
 vino - vin  
 vintra - lengomosimi  
@@ -1762,7 +1769,7 @@ zuluo - Zulu
 ĉielo - ten  
 ĉimpanzo - cimpanze  
 ĉinĉilo - cincil  
-ĉirkaŭi - cirka  
+ĉirkaŭi - sirka  
 ĉiu - pan (pani)  
 ĉiu(j) - mei  
 ĉokolado - coklate  

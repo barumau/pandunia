@@ -183,6 +183,8 @@ asme - astma
 aspirin - aspiryna  
 astatem - astat  
 astronaver - astronauta  
+astronomia - astronomia  
+astronomer - astronom  
 ativa - aktywować (włączyć, uruchomić)  
 ativi - aktywny (włączony, uruchomiony)  
 ata\* - jabłko cukrowe  
@@ -506,10 +508,6 @@ cir - rwać (drzeć)
 cira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
 circira - strzępić (drzeć)  
 circiri - rozstrzępiony (podarty)  
-cirka - otoczyć, otaczać  
-cirke - koło, okrąg  
-cirki - okrągły  
-cirkoxeke - bruk  
 cita - cytować  
 citomarke - cudzysłów  
 cize - ser  
@@ -744,7 +742,7 @@ ekran - ekran
 Ekuador - Ekwador  
 eletre - elektryczność  
 eletri - elektryczny  
-eletrolinye - kabel (linia)  
+eletrolin - kabel (linia)  
 eletroposte (e-poste) - poczta elektroniczna  
 eletrorade - piorun (grom)  
 eletron - elektron  
@@ -768,11 +766,6 @@ erbem - erb
 Eris - Eris (planeta karłowata)  
 Eritria - Erytrea  
 esei - esej  
-eska - zapytać, spytać, pytać  
-eske - pytanie  
-eskan - pytajny, związany z pytaniem  
-eskodokum - formularz (kwestionariusz)  
-eskotem - kwestia, problem  
 eskal - schody (drabina)  
 eskala - wspinać się (wspiąć się)  
 eskaltan - pnącz  
@@ -922,7 +915,6 @@ forum - forum
 fote - światło, oświetlenie  
 foti - jasny, świetlny  
 fotobaton - pochochodnia (latarka)  
-fotocirke - efekt halo  
 fotofrika - polerować (szlifować)  
 fotograf - zdjęcie (fotografia)  
 fotografia - fotografia  
@@ -930,6 +922,7 @@ fotografer - fotograf
 fotografmaxin - kamera, aparat fotograficzny  
 fotominar - latarnia morska  
 fotorade - promień światła  
+fotosirke - efekt halo  
 Fransi Guyana - Gujana Francuska  
 fransi krepe - francuski naleśnik (crêpe)  
 Fransi Polnesia - Polinezja Francuska  
@@ -1043,8 +1036,8 @@ geulojia - geologia
 Geumedi Hai - Morze Śródziemne  
 geunici - podziemny  
 geunici prizon - loch  
-geuparlinye - równik  
-Geuparlinyi Ginia - Gwinea Równikowa  
+geuparlin - równik  
+Geuparlini Ginia - Gwinea Równikowa  
 geusisme - trzęsienie Ziemi  
 geutike - działka (teren)  
 gida - prowadzić (wskazać drogę)  
@@ -1067,8 +1060,6 @@ gon - kąt
 gonmetrer - goniometr (kątomierz)  
 goril - goryl  
 goton - bawełna  
-governa - rządzić  
-governe - rząd  
 graf - opis, przedstawienie; wykres  
 grafa - opisywać, ilustorawć; przedstawiać  
 grafi - obrazowy, graficzny; opisowy  
@@ -1115,6 +1106,7 @@ gustu ko - smakować jak
 gute - kolano  
 ####H - H  
 ha - mieć (trzymać)  
+ha - tak  
 habar - wiadomość, nius  
 habargazete - gazeta  
 habaxi - abisyński  
@@ -1253,9 +1245,8 @@ huxi - miły, przyjemny, uroczy
 ####I - I  
 ya - przy, z, na, w, u  
 ya ke - gdzie  
-ya linye - online (na linii, w sieci)  
+ya lin - online (na linii, w sieci)  
 ya ve - tu (tutaj, tam)  
-ye - tak  
 yaga - oszacować, szacować, przybliżyć, przybliżać  
 yago - około; przybliżony  
 yagones - półwysep  
@@ -1705,7 +1696,6 @@ kopohake - prawa autorskie
 kopernikem - kopernik  
 kora - biec (biegać, pędzić)  
 koral - koral  
-korde - nić (dratwa, włókno)  
 korne - róg  
 kornomelon - ogórek kiwano  
 kornonos - nosorożec  
@@ -1754,7 +1744,7 @@ krus - krzyż
 krusu - przejść w poprzek  
 krusarke - kusza (balista)  
 krusfiksa - ukrzyżować  
-kruskorde - celownik optyczny (siatka lunety)  
+krusolin - celownik optyczny (siatka lunety)  
 kuani - szeroki  
 kuania - szerokość  
 kuang - minerał, ruda  
@@ -1865,7 +1855,7 @@ Liberia - Liberia
 lice - liczi  
 lida - prowadzić, dowodzić, kierować  
 lider - dowódca, kierownik  
-lidokorde - smycz (cugiel, lejc, wodza)  
+lidolin - smycz (cugiel, lejc, wodza)  
 Lietuva - Litwa  
 lietuva bax - litewski  
 lifaf - owinięcie (koperta, okładka)  
@@ -1890,14 +1880,15 @@ limiti - skończony (ograniczony)
 limon - cytryna  
 limonlugi - limonkowy (limonkowo zielony)  
 limonrangi - żółty  
-lin - język  
+lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
+linem - włókno  
+linparce - złamanie lini  
 lince - ryś  
 linfe - limfa  
-linye - linia, pas, pręga, smuga  
-linyoparce - złamanie lini  
 linka - łączyć, wiązać, złączyć  
 linke - połączenie, złącze, styk  
 lisi - gładki  
+lisan - język  
 liste - lista, spis, wykaz  
 litem - lit  
 litre - litr  
@@ -1972,6 +1963,7 @@ mal - własność (mienie)
 mala - mieć (posiadać)  
 malu - należeć  
 malan - właściciel (posiadacz)  
+malnomia - ekonomia  
 malagasi - madagaskarski; malagaski  
 Malagasia - Madagaskar  
 malayi - malajski  
@@ -2234,7 +2226,7 @@ muzike - muzyka
 muziker - muzyk  
 ####N - N  
 na - bez  
-na linye - offline (nie na linii, poza siecią)  
+na lin - offline (nie na linii, poza siecią)  
 no - nie  
 nabe - proroctwo  
 naber - prorok  
@@ -2476,8 +2468,8 @@ papir - dokument
 Papua Novi Ginia - Papua Nowa Gwinea  
 pari - równy  
 parike - równy  
-parlinyi - równoległy (podłużny)  
-parlinyu - iść wzdłuż (pójść wzdłuż)  
+parlini - równoległy (podłużny)  
+parlinu - iść wzdłuż (pójść wzdłuż)  
 Paraguai - Paragwaj  
 parai - wyrzutek  
 paraya - gardzić (pogardzać)  
@@ -2615,10 +2607,12 @@ polnasi - wielonarodowy
 polau - pilaw  
 polis - policja  
 poliser - oficer policji, policjant  
-politike - polityka  
+polita - rządzić  
+polite - rząd  
+politia - polityka  
+politike - polityk  
 politiki - polityczny  
-politiker - polityk  
-politikolojia - politologia  
+politolojia - politologia  
 Polske - Polska  
 polski - polski  
 polskem - polon  
@@ -2924,6 +2918,7 @@ sekreteria - sekretariat
 seksa - kochać się, uprawiać seks  
 sekse - seks, stosunek płciowy  
 seksi - seksowny, ponętny  
+seksolojia - seksuologia  
 sekunde - sekunda  
 sekura - chronić (ratować)  
 sekuri - bezpieczny  
@@ -2993,11 +2988,10 @@ siri - sekret
 siri mote - skradanie się  
 siro motu - skradać się  
 sirplan - spisek (konspiracja)  
-sirke - ocet  
-sirkopurxipa - kisić (marynować)  
-sirkopurxipe - marynować  
-sirkopurxipi - kiszony (marynowany)  
-sirkopurxipi hiyar - korniszon  
+sirka - otoczyć, otaczać  
+sirke - koło, okrąg  
+sirki - okrągły  
+sirkoxeke - bruk  
 sisi - sześć (6)  
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
@@ -3050,8 +3044,17 @@ sosistia - socjalizm
 sosis - kiełbasa  
 Soto - Lesotho  
 suahili - suahili  
+sual - pytanie  
+suala - zapytać, spytać, pytać  
+sualan - pytajny, związany z pytaniem  
+sualdokum - formularz (kwestionariusz)  
+sualtem - kwestia, problem  
 Sualbarde - Swalbard  
 suani - kwaśny  
+suanpurxipa - kisić (marynować)  
+suanpurxipe - marynować  
+suanpurxipi - kiszony (marynowany)  
+suanpurxipi hiyar - korniszon  
 suar - wieczór  
 suarden - popołudnie  
 suaryam - kolacja  
@@ -3067,7 +3070,6 @@ Sudi Iria (Alonia) - Osetia Południowa
 Sudi Jorjia e Sudi Sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
 Sudi Sudan - Sudan Południowy  
 Sudafrike - Południowa Afryka  
-sudonordia - południk  
 Sudan - Sudan  
 suede - pot  
 suedi - spocony  
@@ -3418,6 +3420,8 @@ uza - użyć, używać, zatrudnić, stosować
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 Uzbekia - Uzbekistan  
+veisirke - południk  
+vinsuan - ocet  
 ####X - X  
 xake - gałąź, konar  
 xakal - szakal  

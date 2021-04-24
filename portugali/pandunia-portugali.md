@@ -73,6 +73,8 @@ aspirin - aspirina
 astre - astro (corpo celeste)  
 astronau - astronave  
 astronaver - astronauta  
+astronomia - astronomia  
+astronomer - astrónomo  
 ate - ato  
 ater - agente  
 ation - ação  
@@ -256,8 +258,6 @@ emoje - emoticon (emoji)
 emos - emoçao  
 emoshal - humor  
 englomargarite - margarida-comum  
-eska - perguntar  
-eske - questão (pergunta)  
 eskulter - escultor  
 esponje - esponja  
 estan - estanho  
@@ -343,7 +343,6 @@ glutograf - adesivo
 gol - meta (gol)  
 goril - gorila  
 goton - algodão  
-governe - governo  
 grafsage - quadrinhos (banda desenhada)  
 granite - granito  
 grau - cascalho  
@@ -354,6 +353,7 @@ gunjan - soldado
 gunrajer - generalíssimo  
 gute - joelho  
 ####H - H  
+ha - sim  
 haha - rir  
 hai - mar  
 hayi - marítimo  
@@ -372,6 +372,7 @@ hami - importante
 hamili - grávida (prenhe)  
 hande - mão  
 handoxake - braço  
+hapi - apropriado (apto)  
 Hartum - Cartum  
 hata - até  
 hatre - perigo  
@@ -403,8 +404,7 @@ hulei - raposa
 huri - livre (forro)  
 ####I - I  
 ya ke - onde  
-ya linye - online  
-ye - sim  
+ya lin - online  
 Yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
@@ -543,7 +543,7 @@ kope - cópia
 kora - correr  
 korer - corredor  
 koral - coral  
-korde - fio (linha)  
+korne - corno  
 kornomelon - pepino-africano (kiwano)  
 kortokrokodil - aligátor (jacaré)  
 kosmi - cósmico  
@@ -607,11 +607,12 @@ lilxeke - pedrinha
 limi - cinco (5)  
 limyom - sexta-feira  
 limon - limão  
-lin - língua  
+lin - linha (fio)  
+linem - fibra  
 lince - lince  
-linye - linha  
 linka - relier (connecter)  
 linke - conexão (vínculo, laço)  
+lisan - língua  
 liste - lista  
 litre - litro  
 loga - falar  
@@ -641,6 +642,7 @@ mafa - perdoar (desculpar)
 magesem - magnésio  
 Magribia - Marrocos  
 makanful - dente-de-leão (taráxaco)  
+malnomia - economia  
 mam - mãe  
 mangi - ocupado (atarefado)  
 manihayistia - maniqueísmo  
@@ -685,6 +687,7 @@ merante - meranti
 Merkur - Mercúrio  
 mester - mestre  
 metalbede - bigorna  
+metallin - arame  
 metrograf - carta geográfica  
 metrografia - cartografia  
 meze - mesa  
@@ -693,6 +696,8 @@ migre - migração
 migru - mudar-se  
 milke - leite  
 milkokardon - cardo-mariano  
+mima - imitar (mimetizar)  
+mimer - mímico  
 minte - hortelã  
 mirdi - fraco  
 misalo - por exemplo  
@@ -737,6 +742,7 @@ nilcentaur - escovinha (centáurea)
 Nipon - Japão  
 nix - nicho  
 noce - noite  
+noma - organizar  
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note - nota  
@@ -771,6 +777,7 @@ pagre - turbante
 pai - torta  
 pake - pacote  
 pandemi patia - pandemia  
+panmim - pantomima (mímica)  
 pande - panda  
 pang - pão  
 panir - queijo fresco  
@@ -826,6 +833,9 @@ plati geukaskia - tectónica de placas
 platogeviste - terraplanista  
 plum - ameixa  
 polbaxi - multilíngue (plurilíngue)  
+polite - governo  
+politer - administrador  
+politomode - regime  
 porei - alho-porro  
 porte - porto  
 portoriki - porto-riquenho  
@@ -901,6 +911,7 @@ Santi Paulo - São Paulo
 sar - cabeça  
 Saturne - Saturno  
 sava - saber (conhecer)  
+seksolojia - sexologia  
 sekuri - seguro  
 sel - conselho  
 sela - aconselhar  
@@ -944,6 +955,8 @@ song - pinheiro
 sor - fechadura  
 sosia - sociedade  
 sosis - salsicha  
+sual - questão (pergunta)  
+suala - perguntar  
 suar - noitinha  
 suede - suor  
 sui - água  

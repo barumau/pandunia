@@ -104,6 +104,8 @@ aspiryna - aspirin
 astat - astatem  
 astma - asme  
 astronauta - astronaver  
+astronom - astronomer  
+astronomia - astronomia  
 Asyria - Axuria  
 Aszur - Axur  
 atak (agresja, napaść) - agres  
@@ -233,7 +235,7 @@ brodawka - zeyil
 brom - bromem  
 broń - arme  
 broń nuklearna - kerni arme  
-bruk - cirkoxeke  
+bruk - sirkoxeke  
 brunatnica - brunalge  
 Brunei Darussalam - Brunei  
 brzmieć, wydać dźwięk, wydawać dźwięk - sona  
@@ -294,7 +296,7 @@ cegła - dobe
 cel - dike  
 cel - gol  
 celować - dika  
-celownik optyczny (siatka lunety) - kruskorde  
+celownik optyczny (siatka lunety) - krusolin  
 cement - semente  
 cenny - bavi  
 centralny (środkowy) - jungi  
@@ -572,12 +574,13 @@ Dżibuti - Jibuti
 dżul (J) - jul  
 ####E - E  
 echo - mirsonde  
-efekt halo - fotocirke  
+efekt halo - fotosirke  
 egipski - misri  
 Egipt - Misria  
 egzonim - vainam  
 einstein - ainstainem  
 ekologia (nauka o środowisku) - ekolojia  
+ekonomia - malnomia  
 ekran - ekran  
 ekskrement, gówno - kake  
 eksplodować (wybuchnąć, wybuchać) - bumu  
@@ -660,7 +663,7 @@ fonologia - fonlojia
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
 formatowanie - kitaboforme  
-formularz (kwestionariusz) - eskodokum  
+formularz (kwestionariusz) - sualdokum  
 forum - forum  
 fosfor - pospor  
 fotograf - fotografer  
@@ -774,7 +777,7 @@ gwarancja - garante
 Gwatemala - Guatemala  
 gwiazda - xing  
 Gwinea - Konakri Ginia  
-Gwinea Równikowa - Geuparlinyi Ginia  
+Gwinea Równikowa - Geuparlini Ginia  
 góra (szczyt) - gau  
 góra, wzgórze - xan  
 górnik (kopacz) - kuanger  
@@ -922,7 +925,7 @@ itr - yutrem
 Izrael - Israel  
 iść (przemieścić się) - kita  
 iść w dół (iść pod spód, iść na dno) - nica  
-iść wzdłuż (pójść wzdłuż) - parlinyu  
+iść wzdłuż (pójść wzdłuż) - parlinu  
 iść, maszerować - marca  
 ####J - J  
 ja, mnie - me  
@@ -981,7 +984,7 @@ judo - judau
 jutro - badodeno  
 już (skończona czynność) - fino  
 jęczmień - jau  
-język - lin  
+język - lisan  
 język ojczysty (język rodzimy) - jeni bax  
 język surinamski - surinami bax  
 język sztuczny - canbax  
@@ -990,7 +993,7 @@ język; komunikacja - bax
 językoznastwo - baxlojia  
 ####K - K  
 kabaczek (dynia, tykwa) - kaboge  
-kabel (linia) - eletrolinye  
+kabel (linia) - eletrolin  
 kabina, budka - kabin  
 kaczka - bate  
 kadm - kadem  
@@ -1070,8 +1073,8 @@ kinowy - kingrafi
 kiosk - kioske  
 Kirgistan - Kirgizia  
 Kiribati - Kiribati  
-kisić (marynować) - sirkopurxipa  
-kiszony (marynowany) - sirkopurxipi  
+kisić (marynować) - suanpurxipa  
+kiszony (marynowany) - suanpurxipi  
 kiur - kurem  
 klapa - padomun  
 klasa, kategoria - klas  
@@ -1160,7 +1163,7 @@ Korea Południowa - Sudi Cosen
 Korea Północna (Koreańska Republika Ludowo-Demokratyczna) - Nordi Cosen  
 koreański - Coseni  
 korek, zatyczka, szpunt - tape  
-korniszon - sirkopurxipi hiyar  
+korniszon - suanpurxipi hiyar  
 korona - koron  
 koronawirus - koronvirus  
 korzeń - mul  
@@ -1181,7 +1184,7 @@ kowadło - metalbede
 kowal - metaljanger  
 koza - buze  
 koło - cakre  
-koło, okrąg - cirke  
+koło, okrąg - sirke  
 koń - gude  
 kościół - eglis  
 kość - oste  
@@ -1255,7 +1258,7 @@ Kuwejt - Kuvaitia
 kwadrat (czworokąt, czworobok, tetragon) - cargon  
 kwarc - kuarze  
 kwaśny - suani  
-kwestia, problem - eskotem  
+kwestia, problem - sualtem  
 kwiat - ful  
 kwiecień - desdullun  
 kwitnąć, rozkwitnąć, rozkwitać - fulu  
@@ -1317,7 +1320,7 @@ lima (limonka) - kagujolimon
 limfa - linfe  
 limit, granica - limite  
 limonkowy (limonkowo zielony) - limonlugi  
-linia, pas, pręga, smuga - linye  
+linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
 lipiec - carlun  
 lis - hulei  
 lista słów - logoliste  
@@ -1411,7 +1414,7 @@ Mars - Marse
 martwić - duku  
 martwy, nieżywy, zabity - morti  
 marynarka (flota) - haigun  
-marynować - sirkopurxipe  
+marynować - suanpurxipe  
 marzec - desunlun  
 marznąć (zamarznąć) - aisu  
 masa - mas  
@@ -1712,7 +1715,6 @@ niski - tali
 nisza, alkowa - nix  
 Niue - Niue  
 niuton (N) - nuton  
-nić (dratwa, włókno) - korde  
 nobel - nobelem  
 noc - noce  
 noga - futoxake  
@@ -1785,7 +1787,7 @@ ocelot - oselote
 ocelot tygrysi - bagroselote  
 ocena, krytyka - piping  
 ocenić, oceniać, recenzować, komentować, krytykować - pipinga  
-ocet - sirke  
+ocet - vinsuan  
 oczywiście - klaro  
 odbiorca - geter  
 odbić, odbijać - mira  
@@ -1801,7 +1803,7 @@ odpowiedź, odzew - javabe
 odsłonić, odsłaniać - andaka  
 Odwarzny ( - bravi  
 odwiedzić, odwiedzać - kega  
-offline (nie na linii, poza siecią) - na linye  
+offline (nie na linii, poza siecią) - na lin  
 oficer policji, policjant - poliser  
 oficjalny - ofisi  
 oganesson - oganeson  
@@ -1817,14 +1819,14 @@ okej, spoko, akceptowalny - okeyi
 okno - janel  
 oko - oke  
 około; przybliżony - yago  
-okrągły - cirki  
+okrągły - sirki  
 olej - nefte  
 oliwka - zaitun  
 Oman - Oman  
 omszały (mszysty) - mosi  
 on, ona, ono - le  
 oni - les  
-online (na linii, w sieci) - ya linye  
+online (na linii, w sieci) - ya lin  
 opaska do włosów - kexbende  
 opcja (wybór) - cuzable  
 opinia, pogląd - rai  
@@ -1865,7 +1867,7 @@ oswojony (potulny, posłuszny) - dosili
 oszacować, szacować, przybliżyć, przybliżać - yaga  
 oszczędzać (deponować) - banka  
 oszukać (oszukiwać - truka  
-otoczyć, otaczać - cirka  
+otoczyć, otaczać - sirka  
 otwarty (przestrzenny) - medeni  
 otwarty, niezamknięty - kayi  
 otworzyć (otwierać, odkluczyć, odkluczać) - ansora  
@@ -2088,10 +2090,10 @@ policja - polis
 policzyć, liczyć, przetwarzać dane - komputa  
 Polinezja Francuska - Fransi Polnesia  
 politeizm - poldevistia  
-politologia - politikolojia  
+politologia - politolojia  
 polityczny - politiki  
-polityk - politiker  
-polityka - politike  
+polityk - politike  
+polityka - politia  
 polon - polskem  
 polowanie (łowienie) - saide  
 polować (łowić) - saida  
@@ -2180,7 +2182,7 @@ pozwolić, pozwalać, zezwolić, zezwalać - halala
 połknąć (połykać) - gula  
 położyć - kuxa  
 południe - sude  
-południk - sudonordia  
+południk - veisirke  
 Południowa Afryka - Sudafrike  
 południowy - sudi  
 połączenie, złącze, styk - linke  
@@ -2339,8 +2341,8 @@ pusty - kali
 pustynia - regotopia  
 pułapka - kapotruke  
 pyszny - yami  
-pytajny, związany z pytaniem - eskan  
-pytanie - eske  
+pytajny, związany z pytaniem - sualan  
+pytanie - sual  
 pył - fun  
 półka (regał na książki) - liboban  
 północ - norde  
@@ -2508,16 +2510,16 @@ rzodkiewka - lobake
 rzucić, rzucać, miotać, cisnąć, ciskać - lanca  
 rzut (projekcja) - lancograf  
 Rzym - Roma  
-rząd - governe  
-rządzić - governa  
+rząd - polite  
+rządzić - polita  
 rządzić, władać - kratia  
 rządzić, władać - sulta  
 rzęsa - okokex  
 róg - buge  
 róg - korne  
-równik - geuparlinye  
+równik - geuparlin  
 równina (plaskowyż, plateau) - platotopia  
-równoległy (podłużny) - parlinyi  
+równoległy (podłużny) - parlini  
 równy - pari  
 równy - parike  
 róża - roze  
@@ -2566,6 +2568,7 @@ sekretariat - sekreteria
 sekretarz - sekreter  
 seks, stosunek płciowy - sekse  
 seksowny, ponętny - seksi  
+seksuologia - seksolojia  
 sekunda - sekunde  
 selen - selenem  
 sen - som  
@@ -2629,7 +2632,7 @@ smakować, próbować smaku - gusta
 smieszany (skonfudowany) - ruhmixi  
 smok - lung  
 smutny - duki  
-smycz (cugiel, lejc, wodza) - lidokorde  
+smycz (cugiel, lejc, wodza) - lidolin  
 snajper (strzelec wyborowy) - justopaver  
 sobota - sisyom  
 socjalista - sosiste  
@@ -2846,7 +2849,7 @@ Tajlandia - Tayia
 Tajpej - Taibei  
 tajski - tayi  
 Tajwan, Republika Chińska - Taivan  
-tak - ye  
+tak - ha  
 taki sam - sami  
 taksometr - taksometrer  
 taktyka, strategia - tatike  
@@ -3291,6 +3294,7 @@ właściciel (posiadacz) - malan
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kex  
+włókno - linem  
 ####X - X  
 z (od) - la  
 z (partykuła posiadania) - da  
@@ -3354,7 +3358,7 @@ zapożyczenie (wyraz obcy) - jekologe
 zaprosić, zapraszać - cinga laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
-zapytać, spytać, pytać - eska  
+zapytać, spytać, pytać - suala  
 zapłacić, opłacić, płacić - peya  
 zapłata, opłata - pei  
 zaratrustianin - zarduxiste  
@@ -3468,7 +3472,7 @@ zygzag - zigzage
 zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  
 zęwnętrzny - vai  
-złamanie lini - linyoparce  
+złamanie lini - linparce  
 złapać, łapać, schwytać, chwytać - kapa  
 złocień indyjski - neftoguke  
 złodziej - corer  

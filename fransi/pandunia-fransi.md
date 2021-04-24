@@ -96,7 +96,7 @@ Ameriki Samoa - Samoa américaines
 amerikem - américium  
 amiria - émirat  
 amirer - émir  
-amirlinye - ligne de commande (console, terminal, invite de commande)  
+amirlin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
 anama - exécrer  
@@ -174,6 +174,8 @@ astatem - astate
 astre - astre (corps céleste)  
 astronau - astronef  
 astronaver - astronaute  
+astronomia - astronomie  
+astronomer - astronome  
 ate - acte  
 ater - agent (faiseur)  
 ation - action  
@@ -337,7 +339,6 @@ cerize - cerise
 cili\* - piment  
 cir - déchirer  
 cira - déchirer  
-cirkoxeke - pavé  
 cize - fromage  
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
@@ -417,8 +418,6 @@ emos - émotion
 emoshal - humeur  
 englofoni - anglophone  
 englomargarite - pâquerette  
-eska - demander (poser un question; est-ce que)  
-eske - question  
 eskaltan - vigne  
 Eskandia - Scandinavie  
 eskulter - sculpteur  
@@ -524,7 +523,6 @@ glutograf - autocollant
 gol - but (destination)  
 goril - gorille  
 goton - coton  
-governe - gouvernement  
 grafsage - bande dessinée  
 granite - granit  
 grau - gravire  
@@ -538,6 +536,7 @@ gunrajer - généralissime
 gute - genou  
 ####H - H  
 ha - avec (avoir)  
+ha - oui  
 haha - rire  
 hai - mer  
 hayalge - algues  
@@ -553,6 +552,9 @@ halou - allô
 hami - important  
 hande - main  
 handoxake - bras  
+hapa - adapter (ajuster)  
+hapi - approprié (adapté, convenable, opportun)  
+hapu - convenir (être approprié)  
 harfia - alphabet  
 Hartum - Khartoum  
 hata - jusque (jusqu’à)  
@@ -590,8 +592,7 @@ huri - libre
 ####I - I  
 ya - a (dans, en, chez)  
 ya ke - où  
-ya linye - en ligne  
-ye - oui  
+ya lin - en ligne  
 Yahve - Yahweh (Jéhovah)  
 yamfite - légume  
 yamyau - faim  
@@ -643,6 +644,7 @@ jentipe - génotype
 jihade - lutte  
 jino - en avant  
 jinse - sexe  
+jinsolojia - études de genre  
 jiraf - giraffe  
 jiu - vie  
 jivi - vivant  
@@ -741,7 +743,6 @@ kope - copie
 kora - courir  
 korer - coureur  
 koral - corail  
-korde - fil  
 korne - corne  
 koron - couronne  
 kortokrokodil - alligator  
@@ -809,10 +810,11 @@ lilxeke - caillou
 limi - cinq (5)  
 limyom - vendredi  
 limon - citron  
-lin - langue  
+lin - ligne (fil)  
+linem - fibre  
 lince - lynx  
-linye - ligne  
 linke - lien  
+lisan - langue  
 liste - liste  
 litre - litre  
 loga - parler  
@@ -847,6 +849,7 @@ makanful - dandélion
 mal - propriété (possession, bien)  
 malu - appartenir à  
 malan - possédant (propriétaire)  
+malnomia - économie  
 mam - mère (maman)  
 mangi - occupé  
 manihayistia - manichéisme  
@@ -890,6 +893,7 @@ mening - méninge
 Merkur - Mercure  
 mester - maître  
 metalbede - enclume  
+metallin - fil de fer  
 metrograf - carte  
 metrografia - cartographie  
 meze - table  
@@ -898,6 +902,8 @@ migre - migration
 migru - s'installer (déménager)  
 milke - lait  
 milkokardon - chardon Marie  
+mima - imiter  
+mimer - imitateur (mime)  
 minte - menthe  
 mirdi - faible  
 misalo - par exemple  
@@ -949,6 +955,7 @@ nilon - nylon
 Nipon - Japon  
 nix - niche  
 noce - noit  
+noma - organiser  
 norde - nord  
 nostalgia - nostalgie  
 note - note  
@@ -988,6 +995,7 @@ pake - paquet
 pakse - oiseau  
 palabe - querelle (dispute, palabre)  
 pandemi patia - pandémie  
+panmim - pantomime  
 pande - panda  
 pang - pain  
 panir - fromage blanc  
@@ -1050,6 +1058,8 @@ platogeviste - terreplatiste
 platotopia - plaine  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
+polite - gouvernement  
+politer - administrateur  
 porei - poireau  
 porte - porte  
 portoriki - Portoricain  
@@ -1146,6 +1156,7 @@ sar - tête
 Saturne - Saturne  
 sava - savoir (connaître)  
 saus - sauce  
+seksolojia - sexologie  
 sekuri - sûr  
 sel - conseil  
 sela - conseiller  
@@ -1169,8 +1180,7 @@ silke - soie
 sira - cacher  
 siri mote - célérité  
 sirplan - complot (conspiration)  
-sirkopurxipi - décapé (mariné)  
-sirkopurxipi hiyar - concombre confit (cornichon)  
+sirkoxeke - pavé  
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
@@ -1192,6 +1202,10 @@ son - son
 sor - serrure  
 sosia - société  
 sosis - saucisse  
+sual - question  
+suala - demander (poser un question; est-ce que)  
+suanpurxipi - décapé (mariné)  
+suanpurxipi hiyar - concombre confit (cornichon)  
 suar - soir (soirée)  
 suede - sueur  
 sui - eau  
@@ -1225,6 +1239,7 @@ tehne - technique
 tehnolojia - technologie  
 telfon - téléphone  
 telfona - téléphoner  
+telfonlin - ligne téléphonique  
 telvide - téléviseur  
 tem - sujet (thème)  
 temnam - titre  
@@ -1266,6 +1281,7 @@ vampirbalsenter - vampire des abysses
 varkalge - varech  
 varkolate - page  
 vaxurse - raton laveur  
+veilin - fil de trame  
 venda - vendre  
 vendoxopa - commercer  
 Venezuela - Venezuela  

@@ -197,6 +197,8 @@ astatem - astatiini
 astre - taivaankappale  
 astronau - tähtialus  
 astronaver - astronautti (tähtimatkaaja)  
+astronomia - tähtitiede (astronomia)  
+astronomer - tähtitieteilijä  
 ate - teko (toimenpide, akti)  
 ater - tekijä (toimija)  
 ation - toiminta  
@@ -517,10 +519,6 @@ cir - repeämä
 cira - repiä  
 circira - raastaa  
 circiri - raastettu  
-cirka - ympäröidä (piirittää)  
-cirke - piiri (ympyrä)  
-cirki - pyöreä  
-cirkoxeke - mukulakivi  
 cita - lainata (siteerata)  
 citomarke - lainausmerkki  
 cize - juusto  
@@ -764,7 +762,7 @@ eksa\* - eksa-
 Ekuador - Ecuador  
 eletre - sähkö  
 eletri - sähköinen  
-eletrolinye - sähköjohto  
+eletrolin - sähköjohto  
 eletroposte (e-poste) - sähköposti  
 eletrorade - salama  
 eletron - elektroni  
@@ -787,11 +785,6 @@ erbem - erbium
 Eris - Eris (kääpiöplaneetta)  
 Eritria - Eritrea  
 esei - essee  
-eska - kysyä  
-eske - kysymys  
-eskan - kysyvä  
-eskodokum - kyselylomake  
-eskotem - asia (juttu)  
 eskal - portaat (rappuset, tikkaat)  
 eskala - kiivetä  
 eskaltan - köynnös  
@@ -952,14 +945,15 @@ forum - foorumi
 fote - valo  
 foti - valoisa  
 fotobaton - soihtu  
-fotocirke - sädekehä (halo)  
 fotofrika - kiillottaa  
 fotograf - valokuva (foto)  
 fotografia - valokuvaus  
 fotografer - valokuvaaja  
 fotografmaxin - kamera  
+fotolin - valokuitu (valokaapeli)  
 fotominar - majakka  
 fotorade - valonsäde  
+fotosirke - sädekehä (halo)  
 Fransi Guyana - Ranskan Guiana  
 fransi krepe - kreppi  
 Fransi Polnesia - Ranskan Polynesia  
@@ -1076,14 +1070,16 @@ geugrafia - maantiede
 geugunia - maavoimat  
 Geumedi Hai - Välimeri  
 geumetria - geometria  
-geuparlinye - päiväntasaaja  
-Geuparlinyi Ginia - Päiväntasaajan Guinea  
+geuparlin - päiväntasaaja  
+Geuparlini Ginia - Päiväntasaajan Guinea  
 geupolitike - geopolitiikka  
 geusisme - maanjäristys  
 geutike - tontti (maakaistale)  
 gida - opastaa (ohjata)  
 gider - opas (tiennäyttäjä)  
 gidobuke - matkaopas (opaskirja)  
+gingi - pitkittäinen  
+ginglin - loimi  
 gitar - kitara  
 giuke - jade  
 glisu - liukua (luistaa)  
@@ -1144,6 +1140,7 @@ gustu ko - maistua
 gute - polvi  
 ####H - H  
 ha - kanssa (kera, -lla)  
+ha - kyllä  
 he - joku (jokin)  
 habar - uutinen  
 habargazete - sanomalehti  
@@ -1178,6 +1175,9 @@ hande - käsi
 handi - käsi-  
 handoxake - käsivarsi  
 haos - kaaos  
+hapa - sovittaa (mukauttaa)  
+hapi - sopiva (passeli)  
+hapu - sopia (passata)  
 haraba - pilata (raunioittaa)  
 harabi - pilalla (raunioina)  
 harabu - pilaantua (raunioitua)  
@@ -1281,7 +1281,6 @@ ya - luona (-lla, -ssa)
 ya ke - missä?  
 ya ve - siellä (tuolla)  
 ye - tämä  
-ye - kyllä  
 yi - tämä  
 yaga - arvioida  
 yago - noin (arviolta, suunnilleen)  
@@ -1431,6 +1430,7 @@ jinu - edetä (edistyä)
 jinmun - sisäänkäynti  
 jinse - sukupuoli  
 jinsi - sukupuolinen  
+jinsolojia - sukupuolitutkimus  
 jiraf - kirahvi  
 jiu - elämä (olemassaolo)  
 jivi - elävä (elää)  
@@ -1739,6 +1739,7 @@ krote - kontiainen (maamyyrä)
 kruasante - voisarvi (kroissantti)  
 krus - risti  
 krusfiksa - ristiinnaulita  
+krusolin - ristikko  
 kuani - leveä  
 kuang - kivennäinen (mineraali)  
 kuangosui - kivennäisvesi  
@@ -1821,7 +1822,7 @@ Libanen - Libanon
 libel - sudenkorento  
 Liberia - Liberia  
 lice - litši  
-lida - johtaa  
+lida - johtaa (ohjata)  
 lider - johtaja (pomo)  
 Lietuva - Liettua  
 lietuva bax - liettualainen  
@@ -1845,14 +1846,15 @@ limlun - toukokuu
 limite - raja  
 limon - sitruuna  
 limonrangi - keltainen  
-lin - kieli (elin)  
+lin - linja (viiva, lanka, liina, naru, köysi)  
+linem - säie (kuitu)  
+linparce - rivinvaihto  
 lince - ilves  
 linfe - lymfa  
-linye - viiva (linja)  
-linyoparce - rivinvaihto  
 linka - yhdistää  
 linke - yhdistys (sidos)  
 lisi - sileä  
+lisan - kieli (elin)  
 liste - lista (luettelo)  
 litem - litium  
 litre - litra  
@@ -1923,6 +1925,7 @@ mal - omaisuus
 mala - omistaa  
 malu - kuulua (olla jkn hallussa)  
 malan - omistaja (pitäjä, hallussapitäjä)  
+malnomia - taloustiede (ekonomia)  
 malagasi - malagassi  
 Malagasia - Madagaskar  
 malayi - malaiji  
@@ -2034,6 +2037,7 @@ mesta - taitaa (olla mestari jskn)
 mester - mestari (asiantuntija)  
 metal - metalli  
 metaljanger - seppä  
+metallin - vaijeri (metallilanka)  
 metode - keino (menetelmä, metodi)  
 metra - mitata  
 metre - mitta (koko, määrä)  
@@ -2053,6 +2057,8 @@ mili\* - milli-
 miligram - milligramma  
 milimitre - millimetri  
 milke - maito  
+mima - matkia (imitoida)  
+mimer - matkija (imitaattori)  
 min (mino) - vähemmän  
 min ka bas - liian vähän  
 mina - paitsi (miinus)  
@@ -2359,6 +2365,7 @@ panduni - maailmanlaajuinen (globaali)
 pandunia - pandunia  
 panduniste - pandunian puhuja  
 paneuropi - paneurooppalainen  
+panmim - pantomiimi  
 pansato - aina  
 Panama - Panama  
 pande - panda  
@@ -2501,10 +2508,14 @@ polnasi - monikansallinen
 polau - pilahvi  
 polis - poliisi  
 poliser - poliiisi (poliisimies)  
-politike - politiikka  
+polita - hallita (hallinnoida)  
+polite - hallinto  
+politia - politiikka  
+politer - hallinnoija  
+politike - poliitikko  
 politiki - poliittinen  
-politiker - poliitikko  
-politikolojia - politiikantutkimus  
+politolojia - politiikantutkimus  
+politomode - hallintomuoto  
 Polske - puola  
 polski - puolalainen  
 polskem - polonium  
@@ -2780,6 +2791,7 @@ sekreter - sihteeri
 sekreteria - sihteeristö  
 sekse - seksi (sukupuolisuhde)  
 seksi - seksikäs  
+seksolojia - seksologia  
 sekunde - sekunti  
 sekura - suojella (suojata, turvata)  
 sekuri - turvallinen (varma)  
@@ -2838,7 +2850,10 @@ Singapur - Singapore
 sinye - merkki (signaali)  
 siri - salainen  
 sirplan - juoni (salaliitto)  
-sirke - etikka  
+sirka - ympäröidä (piirittää)  
+sirke - piiri (ympyrä)  
+sirki - pyöreä  
+sirkoxeke - mukulakivi  
 sisi - kuusi (6)  
 sisfas - kuutio (kuusitahokas)  
 sisgon - kuusikulmio  
@@ -2880,6 +2895,11 @@ sosistia - sosialismi
 sosis - makkara  
 Soto - Lesoto  
 suahili - suahili  
+sual - kysymys  
+suala - kysyä  
+sualan - kysyvä  
+sualdokum - kyselylomake  
+sualtem - asia (juttu)  
 Sualbarde - Svalbard  
 suan - happo  
 suani - hapan (kirpeä)  
@@ -2983,6 +3003,7 @@ telia - etäisyys (kaukaisuus)
 telfon - puhelin  
 telfona - soittaa puhelimella  
 telfonia - puhelintekniikka  
+telfonlin - puhelinjohto  
 telvide - televisio  
 telugi - telugu (eräs intialainen kieli)  
 tem - aihe (teema)  
@@ -3107,6 +3128,8 @@ vaxmaxin - pesukone
 Vaxington D####C - Washington DC  
 UDA du - yhdysvaltalainen (ns. Amerikkalainen)  
 vei - häntä  
+veyi - poikittainen (vaaka)  
+veilin - kude  
 Venezuela - Venezuela  
 Venjou - Wenzhou  
 venjovoranje - satsuma  
@@ -3195,6 +3218,8 @@ vute - esine (tavara)
 uza - käyttää  
 uzer - käyttäjä  
 Uzbekia - Uzbekistan  
+veisirke - leveyspiiri  
+vinsuan - etikka  
 ####X - X  
 xake - oksa (haara)  
 xakal - šakaali  

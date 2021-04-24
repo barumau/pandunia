@@ -21,8 +21,10 @@ actif - ativi
 actinium - acinem  
 action - ation  
 activer (allumer, mettre en marche, déclencher) - ativa  
+adapter (ajuster) - hapa  
 adhésif (collant) - gluti  
 adjectif - sifloge  
+administrateur - politer  
 adresse - adres  
 adulte - matur  
 adversaire (antagoniste, ennemi) - xatan  
@@ -98,6 +100,7 @@ appliquer - aplika
 apporter - layana  
 apprendre (étudier) - xula  
 apprivoiser (dresser, dompter, discipliner) - dosila  
+approprié (adapté, convenable, opportun) - hapi  
 arabe - arabi  
 arachnophobie - aranfobia  
 araignée - aran  
@@ -141,6 +144,8 @@ astre (corps céleste) - astre
 astrobiologie - kosmobiulojia  
 astronaute - astronaver  
 astronef - astronau  
+astronome - astronomer  
+astronomie - astronomia  
 atchoum - acu\*  
 Athènes - Atina  
 athée - andeviste  
@@ -357,7 +362,7 @@ compote de pommes - aplosaus
 comprendre (réaliser) - aha  
 concert - konserte  
 concombre - hiyar  
-concombre confit (cornichon) - sirkopurxipi hiyar  
+concombre confit (cornichon) - suanpurxipi hiyar  
 concombre de mer - haihiyar  
 conseil - sel  
 conseiller - sela  
@@ -368,6 +373,7 @@ conteneur - inan
 continu (analogique) - zoki  
 continuer (poursuivre) - zoka  
 contract (traité) - trate  
+convenir (être approprié) - hapu  
 convention (alliance, pacte) - kontrate  
 copie - kope  
 coquelicot - medenpapil  
@@ -423,7 +429,7 @@ dans le sens antihoraire - rotolefto
 dauphin - dolfin  
 de - la  
 demain - badodeno  
-demander (poser un question; est-ce que) - eska  
+demander (poser un question; est-ce que) - suala  
 dessous - nice  
 destin - cenamen  
 deux (2) - duli  
@@ -463,7 +469,7 @@ dynamite - dinamite
 dé - zarkube  
 déboguer (débugger) - angalta  
 début (commencement) - xur  
-décapé (mariné) - sirkopurxipi  
+décapé (mariné) - suanpurxipi  
 déchirer - cir  
 déchirer - cira  
 défigurer - dusforma  
@@ -483,7 +489,7 @@ empreinte digitale - angulmarke
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
-en ligne - ya linye  
+en ligne - ya lin  
 enclume - metalbede  
 encore - zoko  
 enfant - bace  
@@ -526,8 +532,10 @@ fermenter - biumutu
 feu - hoge  
 feu d’artifice - hogotehne  
 fiable (de confiance, fidèle, sûr, crédible) - ameni  
+fibre - linem  
 fier - yauxina  
-fil - korde  
+fil de fer - metallin  
+fil de trame - veilin  
 fils ou fille - pute  
 fini - fini  
 fiord - fiorde  
@@ -576,7 +584,7 @@ glisser - glisu
 gombo - bamye  
 gorille - goril  
 goule - gul  
-gouvernement - governe  
+gouvernement - polite  
 granit - granite  
 gravire - grau  
 grenouille - krokroke  
@@ -632,6 +640,8 @@ hétéroromantique (hétéromantique) - alromansi
 hétérosexuel - alseksi  
 hôtel - hotel  
 ####I - I  
+imitateur (mime) - mimer  
+imiter - mima  
 immigrant - inmigran  
 immigrer - inmigra  
 imperméable - barxokote  
@@ -692,7 +702,7 @@ lama - liama\*
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bax  
-langue - lin  
+langue - lisan  
 langue maternelle - jeni bax  
 lapin (lièvre) - tuze  
 lapis-lazuli - lazurpetre  
@@ -708,8 +718,9 @@ libre - huri
 lichen - algofung  
 lien - linke  
 lieu - loke  
-ligne - linye  
-ligne de commande (console, terminal, invite de commande) - amirlinye  
+ligne (fil) - lin  
+ligne de commande (console, terminal, invite de commande) - amirlin  
+ligne téléphonique - telfonlin  
 lime (citron vert) - kagujolimon  
 lire - duga  
 liste - liste  
@@ -880,6 +891,7 @@ ordinateur tablette - tablokomputer
 ordre - ratibe  
 ordures - laje  
 oreille - or  
+organiser - noma  
 organisme - biu  
 orge - jau  
 origine - asle  
@@ -890,7 +902,7 @@ otite - oritis
 ou - o  
 oublier - anmema  
 oubliette (cul de basse-fosse) - geunici prizon  
-oui - ye  
+oui - ha  
 ours - urse  
 oxyde - okside  
 où - ya ke  
@@ -908,6 +920,7 @@ panier (panier de basketball) - baske
 panneau de signalisation - dauban  
 pansement (sparadrap) - glutobende  
 pantalon - pante  
+pantomime - panmim  
 pantoufle (babouche) - babuce  
 papaye - papai  
 papier - kaguje  
@@ -931,7 +944,7 @@ patient - patike
 pause - pauze  
 pavot d'Orient - guipapil  
 pavot somnifère - sompapil  
-pavé - cirkoxeke  
+pavé - sirkoxeke  
 peindre - penta  
 peinture - pente  
 pelle - bel  
@@ -1048,7 +1061,7 @@ quatre (4) - cari
 que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
-question - eske  
+question - sual  
 qui - ki jan  
 ####R - R  
 race - ras  
@@ -1142,6 +1155,7 @@ serrure - sor
 serviette - gantex  
 seul (unique) - uniki  
 sexe - jinse  
+sexologie - seksolojia  
 shopping - xope  
 si - aga  
 signer - namkitaba  
@@ -1325,6 +1339,7 @@ zèbre - zebre
 école (collège) - xulkan  
 école primaire - bazoxulkan  
 école secondaire - jungoxulkan  
+économie - malnomia  
 écorce - tira pil  
 écrire - kitaba  
 écriture - kitabe  
@@ -1355,6 +1370,7 @@ zèbre - zebre
 éternuer - acua  
 étinceler - xingofota  
 étoile - xing  
+études de genre - jinsolojia  
 étudiant - xuler  
 étymologie - logaslia  
 été - garmomosim  

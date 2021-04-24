@@ -393,10 +393,13 @@ In our opinion the world language should be a mix of all languages
 in the world. That's why Pandunia has at least a few words in common
 with almost all languages of the world.
 
-A lot of words are in common to international and important regional
-languages.
+A lot of words are in common to international and important regional languages.
 
-![](http://www.pandunia.info/grafe/leksasle.png "Source languages")
+![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
+Figure. Bar chart showing the percentage of words similar in the source languages and Pandunia.
+
+![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
+Figure. Pie chart showing distribution of influence from the main source languages to Pandunia.
 
 
 #### Why Pandunia borrows words mainly from widely spoken languages?
@@ -456,30 +459,4 @@ means well-being in general and you can use it as a general
 expression for well-wishing in all kinds of situations, not just when
 you meet somebody. See the first lesson in the [phrasebook](fraze.md)
 for a lot of examples!
-
-#### Why Pandunia doesn't have a verb like "to be"?
-
-"To be" is a multi-purpose verb in English. It has many unrelated
-meanings.
-
-1. to be the same as, ex. _I am a man._
-2. to have a quality, ex. _I am young._
-3. to exist, ex. _I am._
-4. to occupy a place, ex. _I am at home._
-5. to have an age, ex. _I am 20._
-6. to undergo, ex. _I am loved._
-7. to do at present, ex. _I am watching you._
-
-Pandunia has different ways to say these things. Sometimes there's
-no need for a mediating verb at all, and sometimes the Pandunia verb'
-is more precise than the multi-purpose "to be" would have been.
-
-1. **me jovani.** = I am young.
-2. **me man.** = I am a man.
-3. **me zayu.** = I exist.
-4. **me sa dom.** = I am at home.  
-   **me loku dom.** = I occupy home.
-5. **me umuru 20 nen.** = I am 20 years.
-6. **me amu.** = I am loved.
-7. **me zay kana te.** = I am watching you.
 

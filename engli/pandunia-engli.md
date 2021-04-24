@@ -106,7 +106,7 @@ amira - order (issue a command)
 amiria - emirate  
 amirer - emir  
 amirhake - authority (power to give orders)  
-amirlinye - command line (console, terminal)  
+amirlin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
 anama - dislike (loathe)  
@@ -211,6 +211,8 @@ astatem - astatine
 astre - celestial body  
 astronau - starship  
 astronaver - astronaut  
+astronomia - astronomy  
+astronomer - astronomer  
 ate - act (deed)  
 ater - agent (doer, actor)  
 ation - action  
@@ -553,10 +555,6 @@ cir - tear (rip, edge)
 cira - tear (rip, split)  
 circira - tear up (tatter, shred)  
 circiri - tattered (ragged, torn)  
-cirka - surround (encircle)  
-cirke - circle (round)  
-cirki - round (circular)  
-cirkoxeke - cobblestone  
 cita - quote (cite)  
 citomarke - quotation mark  
 cize - cheese  
@@ -813,7 +811,7 @@ eksa\* - exa-
 Ekuador - Ecuador  
 eletre - electricity  
 eletri - electric  
-eletrolinye - cable (wire, line)  
+eletrolin - cable (wire, line)  
 eletroposte (e-poste) - e-mail  
 eletrorade - lightning bolt  
 eletron - electron  
@@ -840,11 +838,6 @@ erbem - erbium
 Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
 esei - essay  
-eska - ask (inquire)  
-eske - question (query, inquiry)  
-eskan - interrogative  
-eskodokum - form (questionaire)  
-eskotem - issue (affair, concern)  
 eskal - stairs (ladder)  
 eskala - climb (get on)  
 eskaltan - vine  
@@ -1011,14 +1004,15 @@ forum - forum (public space)
 fote - light (illumination)  
 foti - light (bright)  
 fotobaton - torch  
-fotocirke - halo (aureola)  
 fotofrika - polish  
 fotograf - photograph  
 fotografia - photography  
 fotografer - photographer  
 fotografmaxin - camera  
+fotolin - optical fibre (optical cable)  
 fotominar - beacon (lighthouse)  
 fotorade - ray of light  
+fotosirke - halo (aureola)  
 Fransi Guyana - French Guiana  
 fransi krepe - crepe  
 Fransi Polnesia - French Polynesia  
@@ -1149,8 +1143,8 @@ Geumedi Hai - Mediterranean
 geumetria - geometry  
 geunici - underground (subterrainean)  
 geunici prizon - dungeon (underground prison)  
-geuparlinye - equator  
-Geuparlinyi Ginia - Equatorial Guinea  
+geuparlin - equator  
+Geuparlini Ginia - Equatorial Guinea  
 geupolitike - geopolitics  
 geusisme - earthquake  
 geutermi - geothermal  
@@ -1158,6 +1152,8 @@ geutike - lot (plot of land)
 gida - guide (lead, show the way)  
 gider - guide  
 gidobuke - guide book  
+gingi - longitudinal (vertical)  
+ginglin - warp  
 gitar - guitar  
 giuke - jade  
 glisu - slide (slip, glide, skate)  
@@ -1176,8 +1172,6 @@ gon - corner (angle)
 gonmetrer - goniometer  
 goril - gorilla  
 goton - cotton  
-governa - govern  
-governe - government  
 graf - drawing (graph, image)  
 grafa - draw  
 grafi - graphic (pictorial)  
@@ -1225,6 +1219,7 @@ gustu ko - taste like
 gute - knee  
 ####H - H  
 ha - with (there be; have)  
+ha - yes  
 he - one (someone)  
 habar - news  
 habargazete - newspaper (gazette)  
@@ -1267,6 +1262,9 @@ hande - hand
 handi - manual  
 handoxake - arm  
 haos - chaos (disorder, turmoil)  
+hapa - fit (adapt, adjust, make suitable)  
+hapi - suitable (appropriate, apt, fit)  
+hapu - fit (suit, be suitable)  
 haraba - ruin (destroy, devastate, demolish)  
 harabi - bad (ruined, destroyed)  
 harabu - crash (shut down, terminate)  
@@ -1378,10 +1376,9 @@ huxi - nice (pleasant, comfortable, cushy)
 ####I - I  
 ya - by (at, in, on)  
 ya ke - where  
-ya linye - online  
+ya lin - online  
 ya ve - there  
 ye - this  
-ye - yes  
 yi - this  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
@@ -1561,6 +1558,7 @@ jinu - advance (progress, go forward, enter)
 jinmun - entrance  
 jinse - gender (sex)  
 jinsi - sexual (pertaining to gender)  
+jinsolojia - gender studies  
 jiraf - giraffe  
 jiu - life (existence)  
 jivi - live (be alive, living)  
@@ -1871,7 +1869,6 @@ kopernikem - copernicium
 kora - run  
 korer - runner  
 koral - coral  
-korde - thread (string, strand, filament, fiber)  
 korne - horn  
 kornomelon - horned melon (kiwano)  
 kornonos - rhinoceros  
@@ -1922,7 +1919,7 @@ krus - cross
 krusu - cross (go across)  
 krusarke - crossbow (ballista)  
 krusfiksa - crucify  
-kruskorde - crosshair (reticle)  
+krusolin - crosshair (reticle)  
 kuani - wide (broad)  
 kuania - width (breadth)  
 kuang - mineral (ore)  
@@ -2035,7 +2032,7 @@ Liberia - Liberia
 lice - lychee (litchi)  
 lida - lead (direct)  
 lider - leader (director)  
-lidokorde - leash (rein)  
+lidolin - leash (rein)  
 Lietuva - Lithuania  
 lietuva bax - Lithuanian  
 lifaf - wrapping (envelope, covering)  
@@ -2062,14 +2059,15 @@ limon - lemon
 limonike - citrus fruit  
 limonlugi - lime green  
 limonrangi - yellow  
-lin - tongue  
+lin - line (thread, string)  
+linem - fibre  
+linparce - line break (newline)  
 lince - lynx  
 linfe - lymph  
-linye - line (stripe)  
-linyoparce - line break (newline)  
 linka - connect (join, link)  
 linke - joint (link)  
 lisi - smooth  
+lisan - tongue  
 liste - list (listing, catalogue)  
 litem - lithium  
 litre - litre (liter)  
@@ -2150,6 +2148,7 @@ mal - property (belongings, possessions)
 mala - own (possess, have)  
 malu - belong  
 malan - owner (proprietor)  
+malnomia - economics  
 malagasi - Malagasy  
 Malagasia - Madagascar  
 malayi - Malay  
@@ -2283,6 +2282,7 @@ mester - master (expert)
 metal - metal  
 metalbede - anvil  
 metaljanger - blacksmith (iron forger)  
+metallin - wire  
 metode - method (means)  
 metra - measure (take measurements)  
 metre - measurement  
@@ -2306,6 +2306,8 @@ miligram - milligram
 milimitre - millimeter  
 milke - milk  
 milkokardon - milk thistle  
+mima - mimic (imitate)  
+mimer - imitator (mime)  
 Mimas - Mimas  
 min (mino) - less  
 min ka bas - too little  
@@ -2423,7 +2425,7 @@ muzike - music
 muziker - musician  
 ####N - N  
 na - without  
-na linye - offline  
+na lin - offline  
 ne - none  
 no - not (no)  
 nabe - prophecy  
@@ -2530,8 +2532,8 @@ nol jan - nobody (no-one)
 nol sate - never  
 nol xei - nothing  
 nola - cancel (nullify)  
-noma - manage (organize, direct)  
-nomia - management (-nomy)  
+noma - manage (organize)  
+nomia - management (arrangement, -nomy)  
 nonga - cultivate (farm)  
 nonger - farmer  
 norde - north  
@@ -2662,6 +2664,7 @@ panduni - global (concerning the whole world)
 pandunia - Pandunia  
 panduniste - Pandunia speaker  
 paneuropi - pan-European  
+panmim - pantomime  
 panromansi - panromantic  
 pansato - always  
 panseksi - pansexual  
@@ -2684,8 +2687,8 @@ pari - even (level, peer, equal)
 pari numbe - even number  
 paru - equal  
 parike - peer  
-parlinyi - parallel (longitudinal)  
-parlinyu - align (go along)  
+parlini - parallel (longitudinal)  
+parlinu - align (go along)  
 Paraguai - Paraguay  
 parai - outcast (pariah)  
 paraya - despise (scorn)  
@@ -2835,10 +2838,14 @@ polnasi - multinational
 polau - pilaf (pulao)  
 polis - police  
 poliser - police officer  
-politike - politics  
+polita - administer (govern)  
+polite - government (administration, polity)  
+politia - politics  
+politer - administrator  
+politike - politician (statesman)  
 politiki - political  
-politiker - politician  
-politikolojia - politocology  
+politolojia - politicology  
+politomode - regime  
 Polske - Poland  
 polski - Polish  
 polskem - polonium  
@@ -3164,6 +3171,7 @@ sekreteria - secretariat
 seksa - have sex  
 sekse - sex (sexual relation)  
 seksi - sexy (sexually arousing)  
+seksolojia - sexology  
 sekunde - second(s)  
 sekura - protect (secure, save)  
 sekuri - safe (secure, protected)  
@@ -3236,10 +3244,10 @@ siri - secret
 siri mote - stealth  
 siro motu - sneak  
 sirplan - conspiracy (plot)  
-sirke - vinegar  
-sirkopurxipa - pickle (preserve in vinegar or brine)  
-sirkopurxipi - pickled  
-sirkopurxipi hiyar - gherkin (pickle)  
+sirka - surround (encircle)  
+sirke - circle (round)  
+sirki - round (circular)  
+sirkoxeke - cobblestone  
 sisi - six (6)  
 sisfas - hexahedron (cube)  
 sisgon - hexagon  
@@ -3293,9 +3301,17 @@ sosistia - socialism
 sosis - sausage  
 Soto - Lesotho  
 suahili - Swahili  
+sual - question (query, inquiry)  
+suala - ask (inquire)  
+sualan - interrogative  
+sualdokum - form (questionaire)  
+sualtem - issue (affair, concern)  
 Sualbarde - Svalbard  
 suan - acid  
 suani - sour  
+suanpurxipa - pickle (preserve in vinegar or brine)  
+suanpurxipi - pickled  
+suanpurxipi hiyar - gherkin (pickle)  
 suar - evening  
 suarden - afternoon  
 suaryam - dinner  
@@ -3311,7 +3327,6 @@ Sudi Iria (Alonia) - South Ossetia (Alania)
 Sudi Jorjia e Sudi Sanduice nesia - South Georgia and the South Sandwich Islands  
 Sudi Sudan - South Sudan  
 Sudafrike - South Africa  
-sudonordia - latitude  
 Sudan - Sudan  
 suede - sweat (perspiration)  
 suedi - sweaty  
@@ -3422,6 +3437,7 @@ telia - distance (length)
 telfon - telephone  
 telfona - call on the phone  
 telfonia - telephony  
+telfonlin - telephone line  
 teloloku - teleport  
 telvide - television  
 telugi - Telugu  
@@ -3581,6 +3597,8 @@ vaxurse - raccoon
 Vaxington D####C - Washington DC  
 UDA du - American (US)  
 vei - tail  
+veyi - traverse (horizontal)  
+veilin - weft  
 venda - sell (vend)  
 vendoxopa - trade (buy and sell)  
 vendoxope - trade (commerce)  
@@ -3691,6 +3709,8 @@ uzabli - usable (available)
 uzer - user  
 uzernam - username  
 Uzbekia - Uzbekistan  
+veisirke - latitude  
+vinsuan - vinegar  
 ####X - X  
 xake - branch (bough)  
 xakal - jackal  

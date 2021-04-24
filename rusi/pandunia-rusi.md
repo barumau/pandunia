@@ -39,7 +39,7 @@ am - любовь
 ama - любить  
 amater - любитель  
 amer - любовник  
-amirlinye - командная строка  
+amirlin - командная строка  
 andiniste - неверующий  
 anmema - забывать  
 annam - антоним  
@@ -77,6 +77,8 @@ aspirin - аспирин
 astre - небесное тело  
 astronau - звездолёт  
 astronaver - астронавт  
+astronomia - астрономия  
+astronomer - астроном  
 ate - действие (акт)  
 ater - деятель  
 ation - действие (акция)  
@@ -216,7 +218,6 @@ cir - рвать
 cira - рвать  
 circira - изорвать  
 circiri - изорванный  
-cirkoxeke - булыжник  
 cize - сыр  
 coi - зелень  
 coklate - шоколад  
@@ -286,7 +287,7 @@ dux - душ
 ####E - E  
 ekojeni - дикий  
 ekor - белка  
-eletrolinye - провод (кабель)  
+eletrolin - провод (кабель)  
 eletrorade - молния  
 em - элемент  
 emoje - смайлик (эмодзи)  
@@ -294,9 +295,6 @@ emos - эмоция (чувство)
 emosi - эмоциональный  
 emoshal - настроение  
 englomargarite - маргаритка многоле́тняя  
-eska - спрашивать  
-eske - вопрос  
-eskodokum - анкета  
 eskala - подниматься  
 eskulter - скульптор  
 esponje - губка  
@@ -404,6 +402,7 @@ gunrajer - генералиссимус
 gute - колено  
 ####H - H  
 ha - с (иметь)  
+ha - да  
 habar - новости  
 haha - смеяться  
 hai - море  
@@ -420,6 +419,7 @@ hami - важный (значимый)
 hamili - беременный  
 hande - рука  
 handoxake - рукав  
+hapi - подходящий (годный)  
 harfia - алфавит  
 Hartum - Хартум  
 hata - до  
@@ -453,8 +453,7 @@ hulei - лиса
 huri - свободный (вольный)  
 ####I - I  
 ya - в  
-ya linye - онлайн  
-ye - да  
+ya lin - онлайн  
 Yahve - Яхве (Иегова)  
 yamfite - овощ  
 yamyau - голод  
@@ -504,6 +503,7 @@ jenita - выращивать
 jentipe - генотип  
 jihade - борьба (бой)  
 jinse - пол  
+jinsolojia - гендерные исследования  
 jiraf - жираф  
 jiu - жизнь  
 jivi - живой  
@@ -608,7 +608,6 @@ kope - копия
 kora - бегать (бежать)  
 korer - бегун  
 koral - коралл  
-korde - нитка  
 kornomelon - кивано (рогатая дыня)  
 kornonos - носорог  
 koron - корона  
@@ -674,11 +673,12 @@ limi - пять (5)
 limyom - пятница  
 limon - лимон  
 limonike - цитрус  
-lin - язык  
+lin - линия (нитка)  
+linem - волокно  
 lince - рысь  
-linye - линия  
 linka - соединить (подключить)  
 linke - связь (ссылка)  
+lisan - язык  
 liste - список  
 litre - литр  
 loga - говорить  
@@ -708,6 +708,7 @@ Magribia - Марокко
 majenti - маджента (фуксия)  
 makanful - одуванчик  
 malu - принадлежать  
+malnomia - экономика  
 mam - мать (мама)  
 mangi - занятый  
 manihayistia - манихейство  
@@ -761,6 +762,8 @@ migre - миграция
 migru - переезжать  
 milke - молоко  
 milkokardon - расторопша пятнистая  
+mima - имитировать  
+mimer - мим (имитатор)  
 minte - мята  
 mirdi - слабый  
 misalo - например  
@@ -813,6 +816,8 @@ nilon - нейлон
 Nipon - Япония  
 nix - ниша  
 noce - ночь  
+noma - организовать  
+nomia - организация  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
@@ -846,6 +851,7 @@ pagre - чалма
 pai - пирог  
 pake - пакет  
 pandemi patia - пандемия  
+panmim - пантомима  
 pande - панда  
 pang - хлеб  
 panir - творог  
@@ -856,7 +862,7 @@ papai - папайя
 par - уровень  
 pari - равный  
 pari numbe - чётное число  
-parlinyi - параллельный  
+parlini - параллельный  
 param - параметр (аргумент)  
 parce - кусок  
 parke - парк  
@@ -911,6 +917,7 @@ plum - слива
 polbaxi - многоязычный  
 polmaro - часто  
 polau - плов  
+politer - управляющий  
 pontopin - компас  
 porei - лук-порей  
 porte - порт  
@@ -1002,16 +1009,19 @@ sauvoli - любопытный
 sauvolu - задуматься (думать, гадать)  
 sauvolani - интере́сный  
 saus - соус  
+seksolojia - сексология  
 sel - совет  
 sela - советовать  
 selge - мангольд  
 sem - семя  
 semi - семенной  
+semente - цемент  
 sen - сцена  
 sense - чувство  
 senter - щупальце  
 ser - пила  
 seram - керамика  
+sesam - сезам  
 seti - семь (7)  
 setyom - воскресенье  
 siani - циан  
@@ -1028,7 +1038,7 @@ silke - шёлк
 sinplate - нагрудник  
 sira - скрывать  
 sirplan - заговор (сговор)  
-sirkopurxipi - марино́ванный  
+sirkoxeke - булыжник  
 sisi - шесть (6)  
 sisyom - суббота  
 slavi - славянский  
@@ -1050,6 +1060,10 @@ sori - запереть
 sosi jinse - гендер  
 sosia - общество (социум)  
 sosis - колбаса (сосиска)  
+sual - вопрос  
+suala - спрашивать  
+sualdokum - анкета  
+suanpurxipi - марино́ванный  
 suar - вечер  
 sui - вода  
 suigas - пар  
@@ -1084,6 +1098,7 @@ tehnolojia - технология
 telfon - телефон  
 telfona - звонить  
 telfonia - телефония  
+telfonlin - телефонная линия  
 teloloku - телепортировать  
 telvide - телевизор  
 tem - тема  
@@ -1137,6 +1152,7 @@ vaxa - мыть
 vaxmaxin - стиральная машина  
 vaxurse - енот  
 vei - хвост  
+veilin - уток  
 venda - продать  
 vendoxopa - обмениваться  
 venjovoranje - мандарин уншиу  

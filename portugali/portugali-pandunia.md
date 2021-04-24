@@ -14,6 +14,7 @@ acordo (tratado, contrato) - trate
 acordo - samrayia  
 adesivo - glutograf  
 adjetivo - sifloge  
+administrador - politer  
 adversário - xatan  
 aeite (óleo) - nefte  
 aeroporto - airporte  
@@ -56,7 +57,9 @@ análise - fenkate
 aperfeiçoar - purbona  
 apodrecer-se - pudu  
 aprender - xula  
+apropriado (apto) - hapi  
 ar - air  
+arame - metallin  
 aranha - aran  
 arbusto (mata) - tali moke  
 arco - arke  
@@ -82,6 +85,8 @@ astro (corpo celeste) - astre
 astrobiologia - kosmobiulojia  
 astronauta - astronaver  
 astronave - astronau  
+astronomia - astronomia  
+astrónomo - astronomer  
 ataque - agres  
 Atenas - Atina  
 ativo - ativi  
@@ -255,6 +260,7 @@ contêiner - inan
 copo (taça) - kupe  
 cor - rang  
 coral - koral  
+corno - korne  
 coro - cantergrupe  
 corpo - bode  
 corredor - korer  
@@ -328,6 +334,7 @@ durar - duru
 duro - gati  
 ####E - E  
 e - e  
+economia - malnomia  
 educação - xulia  
 efeito - asar  
 efetuar - asara  
@@ -405,9 +412,9 @@ feio - dusvidi
 feliz - suki  
 feno - gancau  
 fermentar - biumutu  
+fibra - linem  
 filho ou filha - pute  
 filosofia - filsofia  
-fio (linha) - korde  
 fiorde - fiorde  
 fisiculturismo - muskulbin  
 flecha (seta) - flece  
@@ -450,7 +457,7 @@ girafa - jiraf
 girassol - solful  
 golfinho (delfim) - dolfin  
 gorila - goril  
-governo - governe  
+governo - polite  
 granito - granite  
 graças a - danko da  
 grupo - grupe  
@@ -490,6 +497,7 @@ igual (par) - pari
 igual - sami  
 imigrante - inmigran  
 imigrar - inmigra  
+imitar (mimetizar) - mima  
 importante - hami  
 impressão digital - angulmarke  
 Indo - Hindonade  
@@ -551,7 +559,7 @@ libélula - libel
 lima - kagujolimon  
 limão - limon  
 lince - lince  
-linha - linye  
+linha (fio) - lin  
 lista - liste  
 literatura - kitabia  
 litro - litre  
@@ -575,7 +583,7 @@ lâmpada (luminária) - lampe
 léxico - logi  
 líder (chefe) - lider  
 língua (idioma) - bax  
-língua - lin  
+língua - lisan  
 língua materna - jeni bax  
 lírio - susan  
 lírio-do-vale - vadosusan  
@@ -662,6 +670,7 @@ máximo - maxime
 mãe - mam  
 mão - hande  
 mês - lun  
+mímico - mimer  
 mó - molxeke  
 música - muzike  
 ####N - N  
@@ -709,7 +718,7 @@ oleiro - poter
 olho - oke  
 onda - onde  
 onde - ya ke  
-online - ya linye  
+online - ya lin  
 ontem - cendeno  
 opor - xata  
 opção - cuzable  
@@ -717,6 +726,7 @@ ordem - ratibe
 orelha - or  
 orfanato - yatimdom  
 organismo - biu  
+organizar - noma  
 origem - asle  
 original - asli  
 orquídea - orkide  
@@ -738,6 +748,7 @@ palavra (vocábulo) - logem
 palácio (mansão, palacete) - daidom  
 panda - pande  
 pandemia - pandemi patia  
+pantomima (mímica) - panmim  
 papel - kaguje  
 papel de parede - murkaguje  
 papoila - medenpapil  
@@ -773,7 +784,7 @@ pequeno - lili
 perdedor - xibayer  
 perder - xibaya tena  
 perdoar (desculpar) - mafa  
-perguntar - eska  
+perguntar - suala  
 perigo - hatre  
 perplexo (confuso) - ruhmixi  
 peru - dinde  
@@ -846,7 +857,7 @@ quem - ki jan
 querer (desejar) - volu  
 querido (caro) - ami  
 querido - amike  
-questão (pergunta) - eske  
+questão (pergunta) - sual  
 quiabo - bamye  
 quimono - kimono\*  
 quincã (cunquate) - kankuate  
@@ -863,6 +874,7 @@ raça - ras
 raíz - mul  
 reciclar - reisikla  
 refugo (escória) - laje  
+regime - politomode  
 relier (connecter) - linka  
 religião - din  
 relógio - horloger  
@@ -931,8 +943,9 @@ ser humano - insan
 serra - ser  
 sete (7) - seti  
 sexo - jinse  
+sexologia - seksolojia  
 sexta-feira - limyom  
-sim - ye  
+sim - ha  
 simetria - sammetria  
 simulação - samsifia  
 simétrico - sammetri  

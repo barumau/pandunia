@@ -113,6 +113,7 @@ asme - astmo
 aspirin - aspirino  
 astre - astro  
 astronaver - astronaŭto  
+astronomer - astronomo  
 ate - ago  
 ater - aganto  
 ation - agado  
@@ -311,7 +312,6 @@ cini - hana
 cincil - ĉinĉilo  
 cinga - peti (bonvolu)  
 cinga laya - inviti  
-cirka - ĉirkaŭi  
 cita - citi  
 cize - fromaĝo  
 coda - fiki  
@@ -461,9 +461,6 @@ er - isto (anto)
 erbem - erbio  
 Eris - Eris (planedeto)  
 Eritria - Eritreo  
-eska - demandi  
-eske - demando  
-eskan - demandanta  
 eskal - ŝtuparo  
 eskandem - skandio  
 eskulta - skulti  
@@ -564,11 +561,11 @@ forum - forumo
 fote - lumo  
 foti - luma  
 fotobaton - torĉo  
-fotocirke - halo  
 fotograf - foto  
 fotografia - fotografio  
 fotografer - fotisto  
 fotografmaxin - fotilo  
+fotosirke - halo  
 fransi krepe - franca krepo  
 Fransia - Francio  
 fransem - franciumo  
@@ -673,6 +670,7 @@ gustu ko - gusti kiel
 gute - genuo  
 ####H - H  
 ha - havi (teni)  
+ha - jes  
 habar - novaĵoj  
 habargazete - gazeto  
 hafnem - hafnio  
@@ -696,6 +694,9 @@ hamir - feĉo
 hande - mano  
 handi - mana  
 haos - kaoso (malordo)  
+hapa - taŭgigi  
+hapi - taŭga  
+hapu - taŭgi  
 harabi - ruinigita  
 harfe - litero  
 harfia - alfabeto  
@@ -758,7 +759,6 @@ huxi - agrabla
 ya ke - kie  
 ya ve - tie  
 ye - ĉi tio  
-ye - jes  
 yi - ĉi tiu  
 Yahve - Javeo (Jehovo)  
 yala - rapidigi  
@@ -1057,10 +1057,11 @@ limi - kvin (5)
 limyom - vendredo  
 limon - citrono  
 limonrangi - flava  
-lin - lango  
+lin - lineo (ŝnuro)  
+linem - fibro  
 lince - linko  
-linye - lineo  
 lisi - glata  
+lisan - lango  
 liste - listo  
 litem - litio  
 litre - litro  
@@ -1103,6 +1104,7 @@ maitnerem - mejtnerio
 makas - tondilo  
 malu - aparteni  
 malan - havanto  
+malnomia - ekonomiko  
 Mali - Malio  
 malike - jasmeno  
 mam - patrino  
@@ -1148,6 +1150,7 @@ member - membro
 men - signifo  
 Merkur - Merkuro  
 metal - metalo  
+metallin - drato  
 metode - metodo  
 metra - mezuri  
 metre - mezuro  
@@ -1376,9 +1379,9 @@ poli - multe
 polbaxi - multlingva  
 polgon - poligono  
 polmaro - ofte  
-politike - politiko  
+politia - politiko  
+politike - politikisto  
 politiki - politika  
-politiker - politikisto  
 polskem - polonio  
 ponta - montri  
 porte - haveno  
@@ -1549,7 +1552,7 @@ sin - brusto
 sinkapse - torako  
 sing - leono  
 Singapur - Singapuro  
-sirke - vinagro  
+sirka - ĉirkaŭi  
 sisyom - sabato  
 sismolojia - sismologio  
 sistem - sistemo  
@@ -1571,6 +1574,9 @@ song - pino
 sosia - socio  
 sosis - kolbaso  
 suahili - sŭahili  
+sual - demando  
+suala - demandi  
+sualan - demandanta  
 suan - acido  
 suani - acida  
 suar - vespero  
@@ -1729,6 +1735,7 @@ uranem - uranio
 urse - urso  
 vulve - vulvo  
 uza - uzi  
+vinsuan - vinagro  
 ####X - X  
 xake - branĉo  
 xal - koltuko  

@@ -59,7 +59,8 @@ adhesivo - glutograf
 adicional (extra) - maxi  
 adiós - salam cute  
 adjetivo - sifloge  
-adoquín - cirkoxeke  
+administrador - politer  
+adoquín - sirkoxeke  
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
 adormidera (amapola real) - sompapil  
@@ -95,6 +96,7 @@ ajo - lasun
 ajonjolí (sésamo) - sesam  
 al revés - retro  
 ala - ving  
+alambre (hilo) - metallin  
 alargar - longa  
 Alaska - Alaska  
 Albania - Cipia  
@@ -122,7 +124,7 @@ algodón - goton
 algún - koi (koyi)  
 algún día (algún vez) - koi sate  
 alicate - pinser  
-alinear - parlinyu  
+alinear - parlinu  
 allí (allá) - ya ve  
 almendra - badam  
 almirante - hayamirer  
@@ -204,6 +206,7 @@ apartarse (desviarse) - rutogalta
 apellido - familnam  
 aplicación - aplike  
 aprender (estudiar) - xula  
+apropriado (apto, oportuno) - hapi  
 aproximadamente - yago  
 apuntar (indicar) - ponta  
 apuntar - dika  
@@ -275,7 +278,9 @@ Assur (Ashur) - Axur
 astrobiologia - kosmobiulojia  
 astronauta - astronaver  
 astronave (nave estelar) - astronau  
-asunto (caso) - eskotem  
+astronomía - astronomia  
+astrónomo - astronomer  
+asunto (caso) - sualtem  
 asustador - fobani  
 asustar (atemorizar) - foba  
 ataque - agres  
@@ -469,7 +474,7 @@ búbalo (arni) - kabau
 caballo - gude  
 cabaña - kabin  
 cabeza - sar  
-cable - eletrolinye  
+cable - eletrolin  
 Cabo Verde - Kabu Verdi  
 cabra - buze  
 caca - kake  
@@ -659,7 +664,7 @@ ciclista - sikliste
 cielo - ten  
 cien (100) - xoti  
 ciencia (estudia, investigación) - lojia  
-ciencia política - politikolojia  
+ciencia política - politolojia  
 cigarro - sigar  
 cima (pico, cumbre, vértice) - xanpike  
 cinc - zinke  
@@ -816,11 +821,10 @@ Corea - Cosen
 Corea del Norte - Nordi Cosen  
 Corea del Sur - Sudi Cosen  
 coreano - Coseni  
-corno - korne  
 coro - cantergrupe  
 corona - koron  
 corporal (corpóreo) - bodi  
-correa (rein) - lidokorde  
+correa (rein) - lidolin  
 correcto (justo) - sahi  
 corredor - korer  
 corregir - saha  
@@ -894,6 +898,7 @@ cubrir (tapar) - daka
 cuchara - camace  
 cuchillo - cake  
 cuenta (factura) - bil  
+cuerno - korne  
 cuerpo - bode  
 cuerpo celeste - astre  
 cueva (caverna) - guh  
@@ -919,7 +924,7 @@ cárcel - prizonkan
 Cáucaso - Kaukasia  
 célula - cel  
 césped (hierba) - cau  
-círculo - cirke  
+círculo - sirke  
 cítrico - limonike  
 cóctel - mixi alkol  
 código (cifra) - kode  
@@ -1035,7 +1040,6 @@ dirección - dix
 directamente - dixo  
 director de colegio - xulxef  
 dirigente (líder) - lider  
-dirigir (gestionar, administrar) - noma  
 dirigir (mandar, conducir, capitanear) - lida  
 disco - diske  
 discreto (digital) - feni  
@@ -1100,9 +1104,10 @@ dónde - ya ke
 ####E - E  
 eco - mirsonde  
 ecología - ekolojia  
+economía - malnomia  
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
-ecuador - geuparlinye  
+ecuador - geuparlin  
 edad - umur  
 educación - xulia  
 educado - keci  
@@ -1153,13 +1158,13 @@ empujar (presionar) - puxa
 en (a) - ya  
 en el sentido contrario al las agujas del reloj - rotolefto  
 en el sentido del las agujas del reloj - rotoraito  
-en línea - ya linye  
+en línea - ya lin  
 encanto - carme  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
 encontrarse (estar, situarse) - loku  
-encurtido - sirkopurxipi  
-encurtir - sirkopurxipa  
+encurtido - suanpurxipi  
+encurtir - suanpurxipa  
 enderezar (poner recto) - orta  
 endónimo - innam  
 enemigo - dusjan  
@@ -1369,7 +1374,7 @@ fonología - fonlojia
 forma (figura) - forme  
 formar - forma  
 formateo - kitaboforme  
-formulario - eskodokum  
+formulario - sualdokum  
 foro (espacio público) - forum  
 fosa - kau  
 foto (fotografía) - fotograf  
@@ -1475,8 +1480,8 @@ globo - balon
 gluten - gluten  
 GM####S - vijin  
 gobernante (soberano) - sultan  
-gobernar - governa  
-gobierno - governe  
+gobernar - polita  
+gobierno - polite  
 golpear (pegar) - darba  
 goma (caucho, hule) - gom  
 goma arábiga - arabobabul  
@@ -1521,7 +1526,7 @@ guau (vaya) - vau
 Guernesey - Gernezi  
 guiar - gida  
 Guinea - Konakri Ginia  
-Guinea Ecuatorial - Geuparlinyi Ginia  
+Guinea Ecuatorial - Geuparlini Ginia  
 Guinea-Bisáu - Bisau Ginia  
 guitarra - gitar  
 gujaratí - gujarati  
@@ -1554,7 +1559,7 @@ hacha - futau
 hachís - haxix  
 hafnio - hafnem  
 Haití - Aiti  
-halo (aureola) - fotocirke  
+halo (aureola) - fotosirke  
 hamaca - hamake  
 hambre - yamyau  
 hamo (anzuelo) - pexhuke  
@@ -1562,6 +1567,7 @@ hasio - hesem
 hasta (también) - hato  
 hasta - hata  
 Hawái - Havai  
+hebra (fibra) - linem  
 hebreo - ibri  
 hecho - fate  
 helado - aiskrem  
@@ -1590,7 +1596,6 @@ higiene - hijenia
 hija - femi pute  
 hijo - mani pute  
 hijo o hija - pute  
-hilo (cordel) - korde  
 Himalaya - Himalia  
 hinduismo - hindistia  
 hindú - hindiste  
@@ -1662,6 +1667,8 @@ imagen (gráfico, dibujo) - graf
 imaginación (fantasía) - fantaze  
 imaginar (fantasear) - fantaza  
 imaginario (fantástico) - fantazi  
+imitador - mimer  
+imitar - mima  
 imperialismo - imperistia  
 imperialista - imperiste  
 imperio - imperia  
@@ -1715,13 +1722,13 @@ intentar (probar) - testa
 intercambiar (canjear) - badla  
 interesado (curioso) - sauvoli  
 interesante (curioso) - sauvolani  
-interfaz de línea de comandos - amirlinye  
+interfaz de línea de comandos - amirlin  
 interior (interno) - indi  
 interior - in  
 internacional - nasmedi  
 Internet - internete  
 interracial - rasmedi  
-interrogativa - eskan  
+interrogativa - sualan  
 interés - sauvol  
 interétnica - zukomedi  
 invernal - lengomosimi  
@@ -1850,7 +1857,7 @@ largo - longi
 larva - larve  
 lasaña - lazanye  
 lateral (horizontal) - lati  
-latitud - sudonordia  
+latitud - veisirke  
 laurencio - laurensem  
 lava - yongopetre  
 lavadora - vaxmaxin  
@@ -1867,7 +1874,7 @@ legumbre (frijol o arveja) - dou
 lejano (lejos) - teli  
 lejos - longo  
 lengua (idioma) - bax  
-lengua - lin  
+lengua - lisan  
 lengua materna - jeni bax  
 lengua mundial - dunia bax  
 lente - lense  
@@ -1908,6 +1915,7 @@ limón - limon
 lince - lince  
 lince rojo (gato montés) - lalolince  
 lindo (precioso) - kavayi  
+linea (hilo, cordel, raya) - lin  
 linfa - linfe  
 lingüística - baxlojia  
 liquen - algofung  
@@ -2327,7 +2335,7 @@ nudismo - nudistia
 nudista - nudiste  
 nudo - node  
 Nueva Caledonia - Novi Kaledonia  
-nueva línea - linyoparce  
+nueva línea - linparce  
 Nueva Zelanda - Novi Zelandia  
 nueve (9) - tixi  
 nuevo - novi  
@@ -2394,6 +2402,7 @@ ordeñar - tira milke
 ordinario (habitual) - adi  
 oreja - or  
 orfanato - yatimdom  
+organizar (gestionar) - noma  
 orgasmo - orgazme  
 orgánico - bivi  
 oriental - dongi  
@@ -2467,7 +2476,7 @@ Papúa Nueva Guinea - Papua Novi Ginia
 paquete - pake  
 parada (alto) - ting  
 Paraguay - Paraguai  
-paralelo - parlinyi  
+paralelo - parlini  
 parar (detener) - tinga  
 parar - pauza  
 pararse (detenerse) - estasu  
@@ -2543,7 +2552,7 @@ pentaedro - limfas
 pentágono - limgon  
 península - yagones  
 peonía - mudan  
-pepinillo - sirkopurxipi hiyar  
+pepinillo - suanpurxipi hiyar  
 pepino - hiyar  
 pepita - semdan  
 pequeño - lili  
@@ -2660,8 +2669,8 @@ polonio - polskem
 polvo - fun  
 polvo de cara - mukofun  
 polígono - polgon  
-política - politike  
-político - politiker  
+política - politia  
+político - politike  
 político - politiki  
 pomelo (toronja) - putavoranje  
 por ejemplo - misalo  
@@ -2686,8 +2695,8 @@ precio (coste) - koste
 precioso - bavi  
 preferir (favorecer) - maxfila  
 prefijo - cenfikse  
-pregunta - eske  
-preguntar (inquirir) - eska  
+pregunta - sual  
+preguntar (inquirir) - suala  
 preguntarse - sauvolu  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
@@ -2821,7 +2830,6 @@ rasgar (romper) - cir
 rasgar (romper) - cira  
 raspar (arañar) - frika  
 ratón - mux  
-raya (linea) - linye  
 rayo - rade  
 rayo luminoso - fotorade  
 raza - ras  
@@ -2840,7 +2848,7 @@ reconocimiento (recibo) - reside
 recto - orti  
 red - nete  
 redes sociales - sosi media  
-redondo (circular) - cirki  
+redondo (circular) - sirki  
 reducir a la mitad (dividir en dos) - dulo fena  
 reflejar - mira  
 refuerzos - maxforte  
@@ -2893,7 +2901,7 @@ responder (contestar) - javaba
 restaurante - restorante  
 resto (demás) - reste  
 resulta (efecto) - asar  
-retículo - kruskorde  
+retículo - krusolin  
 reunión (junta, mitin) - mite  
 Reunión - Reunion  
 reventar - parcokayu  
@@ -2922,7 +2930,7 @@ robo (hurto) - cor
 robot (bot) - robote  
 roca (piedra) - petre  
 rocío - ros  
-rodear (cirundar) - cirka  
+rodear (cirundar) - sirka  
 rodilla - gute  
 rodio - rodem  
 roentgenio - rentogenem  
@@ -2955,6 +2963,7 @@ rutherfordio - ruterfordem
 rutina (hábito) - rutin  
 rábano - lobake  
 rápido - rapidi  
+régimen - politomode  
 réservation - rezerve  
 rígido (sólido) - gatomati  
 ####S - S  
@@ -3051,6 +3060,7 @@ servir - serva
 sexo (género) - jinse  
 sexo - bivi jinse  
 sexo - sekse  
+sexología - seksolojia  
 sexy (sexual) - seksi  
 Seychelles - Sexel nesia  
 señal (letrero, indicio) - sinye  
@@ -3167,7 +3177,7 @@ susurrar (curjir) - xaxu
 Svalbard - Sualbarde  
 sábado - sisyom  
 sándwich (sánduche) - sanduice  
-sí - ye  
+sí - ha  
 sólido - gatomate  
 ####T - T  
 tabaco - tabake  
@@ -3466,7 +3476,7 @@ Vietnam - Vietia
 vietnamita - vieti  
 vigilante (guardia) - garder  
 vigilar (guardar) - garda  
-vinagre - sirke  
+vinagre - vinsuan  
 vinilo - vinil  
 vino - vin  
 virología - viruslojia  
