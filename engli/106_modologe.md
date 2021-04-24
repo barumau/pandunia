@@ -112,3 +112,11 @@ A complement can be added with the preposition **da**.
 **me vola xopa tougar maxodo da motogar.**
 – I want to buy a trailer in addition to the car.
 
+Adverb phrases can also be built out of a preposition and a noun:
+**me vida les ya pas.**
+– I have seen them in the past.  
+**me vola xopa tougar sa maxode da motogar.**
+– I want to buy a trailer as an addition to the car.  
+**bace boya va in da guhe.**
+– The child swam into the cave.
+
