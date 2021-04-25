@@ -5,7 +5,7 @@
 A verb denotes an action or an occurence, for example to eat, to break, to want, or to go.
 
 A verb can involve an agent and a patient.
-The agent is the doer of the action, the stimulus of the emotion, or the body of the movement.
+The agent is the doer of the action, the stimulus of the emotion, or the subject of the movement.
 The patient, if there is one, is the target of the action, the experiencer of the emotion, or the reference of the movement.
 
 There are three types of verbs in Pandunia:

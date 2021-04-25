@@ -1252,6 +1252,7 @@ hak:e|hake|||ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 hal:|hal|||ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|state (condition, status, situation)|état|estado (condición)|estado|состояние (статус)||状态|状態|상태||हालत (दशा)||keadaan (kondisi)|hali|durum (hâl)|stato|tila (tilanne, seikka)|stan
 halal:a|halala||||allow (permit)||permitir (dejar)||||||||||||||sallia (antaa lupa)|pozwolić, pozwalać, zezwolić, zezwalać
 halal:i|halali|||ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|permissible (allowed, halal)||permitido (admisible)||||||||||||||sallittu (hyväksytty)|dozwolony (dopuszczalny, zezwolony, halal)
+halal:u|halalu||||may (can)||poder (estar autorizado)|||||||||||||||
 halal.o.list:e|halaloliste||||whitelist||lista blanca|||||ホワイトリスト||||||||||
 halel:a|halela|||heb:(hal'lu yah), eng:hallelujah, zho:哈利路亚 (hālìlùyà), ara:(hallilūyā), por:fra:alléluia, rus:аллилуйя (alliluyya), spa:aleluya, swa:may:haleluya, tgl:aleluya, jpn:ハレルヤ (hareruya), kor:할렐루야 (hallelluya)|praise (commend, exalt)||elogiar (alabar, exaltar)||||||||||||||ylistää|chwalić (wychwalać)
 halif:|halif||||caliph||califa|||||||||||||kalifo|kalifi|kalif
@@ -2087,7 +2088,6 @@ litr:e|litre|||eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (li
 liuermor.em:|livermorem|mate|Lv||livermorium||livermorio||||||||||||||livermorium|liwermor
 lobak:e|lobake|biu|Raphanus raphanistrum|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|radish||rábano|||||||||||||rafaneto|retikka (retiisi)|rzodkiewka
 log:a|loga||||say (speak, talk)|parler|decir (hablar)|falar|говорить|تَكَلَّمَ|说话 (讲)|話す|말하다||बोलना|বলা|berbicara|kuongea||paroli|sanoa (puhua)|mówić, rozmawiać
-log:a sel:a|loga sela||||advise (recommend)|conseiller|aconsejar|aconselhar|советовать||||||||||||neuvoa|
 log:e|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|speech (talk, words)|parole (mots)|habla (palabras)|fala (palavras)|речь||语言|演説|말|ngôn từ|बात (बोल)|জবান|||söz|parolo|puhe (sanat)|słowo (mowa)
 log:i|logi||||spoken (lexical)|lexical|léxico|léxico|лексический|||||||||||vorta|sanallinen (puhuttu)|słowny (leksykalny)
 log:ia|logia||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
@@ -3200,6 +3200,7 @@ sekur:i kop:e|sekuri kope||||backup||copia de seguridad|||||バックアップ (
 sekur.kod:e|sekurkode||||password (security code)||contraseña|||||||||||||||hasło
 sekur.numb:e|sekurnumbe||||personal identification number (PIN)||número de identificación personal|||||暗証番号||||||||||osobisty numer identyfikacyjny (pin)
 sel:|sel|||ara: صَلَاح‎ (ṣalāḥ), hin:सलाह (salāh), tel:సలహా (salahā), tur:salık + eng:counsel, fra:conseil, spa:consejo, por:conselho + rus:консультант (konsultant)|advice (counsel)|conseil|consejo|conselho|совет||||||||||||neuvo|rada, porada
+sel:a|sela||||advise (recommend)|conseiller|aconsejar|aconselhar|советовать||||||||||||neuvoa|
 sel:u|selu||||should (ought)||deber (se recomienda)|||||||||||||devus|pitäisi|powinien
 selen.em:|selenem|mate|Se||selenium||selenio|||||||||||||seleno|seleeni|selen
 selg:e|selge|biu|Beta vulgaris subsp. vulgaris, Cicla|ara:سلق (silqa), spa:por:acelga|chard|blettes (bettes)|acelga||мангольд|||フダンソウ (スイスチャード)||||||||||boćwina (botwina)
@@ -3268,7 +3269,7 @@ sir.plan:|sirplan||||conspiracy (plot)|complot (conspiration)|complot (conspirac
 sirk:a|sirka||||surround (encircle)||rodear (cirundar)|||||||||||||ĉirkaŭi|ympäröidä (piirittää)|otoczyć, otaczać
 sirk:e|sirke|||eng:circle, spa:por:círculo, fra:cercle|circle (round)||círculo||||||||||||||piiri (ympyrä)|koło, okrąg
 sirk:i|sirki||||round (circular)||redondo (circular)||||||||||||||pyöreä|okrągły
-cirk:o|cirko||||around||acerca|||||あたり||||||||||
+sirk:o|sirko||||around||acerca|||||あたり||||||||||
 sirk.o.xek:e|sirkoxeke||||cobblestone|pavé|adoquín||булыжник||鹅卵石|丸石 (玉石, 栗石)|||||||||mukulakivi|bruk
 sis:i|sisi|numbe|6|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
 sis.fas:|sisfas||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
@@ -3624,7 +3625,7 @@ uax.urs:e|vaxurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär,
 Uaxington: DC:|Vaxington DC|xefsite|US||Washington DC||||||||||||||||Washington DC|Waszyngton D.C
 UDA: d:u|UDA du||||American (US)||estadounidense||||||||||||||yhdysvaltalainen (ns. Amerikkalainen)|amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)
 uei:|vei|||zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|tail||cola (rabo)||хвост||尾巴 (尾部)|尾 (尾翼)|||पूंछ (दुम)|লেজ|ekor (kotek, basian)|mkia|kuyruk|vosto|häntä|ogon
-uei:i|veyi|||zho:纬度 (wěi), kor:위 (wi), vie:vĩ|traverse (horizontal)||||||||||||||||poikittainen (vaaka)|
+uei:i|veyi|||zho:纬度 (wěi), kor:위 (wi), vie:vĩ|transverse (horizontal)||||||||||||||||poikittainen (vaaka)|
 uei.lin:|veilin||||weft|fil de trame|||уток||緯紗|横糸|||||||||kude|
 uend:a|venda|||eng:vend, spa:por:vender, fra:vendre|sell (vend)|vendre|vender|vender|продать||卖|売る||||||||||sprzedać (sprzedawać)
 uend.o.xop:a|vendoxopa||||trade (buy and sell)|commercer|comerciar|торговать|обмениваться|||売買する||||||||||handlować
