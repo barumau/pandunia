@@ -337,6 +337,7 @@ bel - pala
 Belarus - Belarús  
 Belgia - Bélgica  
 Belize - Belice  
+ben - hijo o hija  
 bence - banco (silla)  
 benda - atar (amarrar)  
 bende - banda (cinta)  
@@ -420,6 +421,7 @@ bruni - marrón
 brunalge - algas pardas  
 brunsalmon - trucha marrón  
 Brunei - Brunei  
+brus - hermano o hermana  
 buca - carnear (matar)  
 bucer - carnicero  
 bucokan - matadero  
@@ -505,7 +507,11 @@ cesem - cesio
 Cile - Chile  
 cili\* - chile  
 cimpanze - chimpancé  
+cin - parente (madre o padre)  
 cini - chinés (de los Han)  
+cinbrusben - primo  
+cinmai - abuela  
+cinpai - abuelo  
 cincil - chinchilla  
 cinga - pedir (invitar; por favor)  
 cinga laya - invitar  
@@ -989,10 +995,13 @@ galta - errar (cometer un error)
 galte - error  
 galti - erróneo  
 galto buda - malinterpretar  
+gam - esposo o esposa  
 gama - casar  
 gami - casado  
 gamia - casamiento  
-gamike - esposo o esposa  
+gamben - hijastro o  hijastra  
+gammai - suegra  
+gampai - suegro  
 Gambia - Gambia  
 gamel - camello  
 gana - secar  
@@ -1420,7 +1429,6 @@ jeni - crudo
 jeni bax - lengua materna  
 jenu - nacer  
 jenden - cumpleaños  
-jener - parente (madre o padre)  
 jengrupe - generación (cohorte)  
 jenita - criar  
 jenklas - casta  
@@ -1845,8 +1853,6 @@ lau - viejo (anciano)
 Lau - Laos  
 lavi - viejo (anciano)  
 lavi - laosiano  
-laumam - abuela  
-laupape - abluelo  
 laurensem - laurencio  
 lax - vestigio (sobrante, residuo)  
 laxa - dejar  
@@ -1970,6 +1976,7 @@ mager - mago
 magesem - magnesio  
 Magyaria - Hungría  
 Magribia - Marruecos  
+mai - madre (mamá)  
 mayan - maya  
 Mayote - Mayotte (Mahoré)  
 mais - maíz  
@@ -1996,7 +2003,7 @@ Mali - Mali
 malike - jazmín  
 Malta - Malta  
 Malvinas nesia - Islas Malvinas  
-mam - madre (mamá)  
+mam - seno (teta)  
 mamal - mamífero  
 man - masculino (macho)  
 mani pute - hijo  
@@ -2440,6 +2447,7 @@ padomosim - otoño
 padomun - trampilla  
 pagre - turbante  
 pai - pastel (pay)  
+pai - padre (papá)  
 paka - embalar (llevar)  
 pake - paquete  
 Pakistan - Pakistán  
@@ -2474,7 +2482,6 @@ panir - queso fresco
 panjabi - punjabí  
 panke - ventilador  
 pante - pantalones  
-pape - padre (papá)  
 papagai - loro (papagayo)  
 papai - papaya  
 papir - artículo (documento)  
@@ -2696,7 +2703,6 @@ purfina - completar (terminar)
 purfityamiste - vegano  
 purfityamistia - veganismo  
 purxipa - remojar (marinar, encurtir, macerar)  
-pute - hijo o hija  
 putau - uva  
 putavoranje - pomelo (toronja)  
 Putong Cini - chino mandarín  
@@ -2942,7 +2948,6 @@ sauvoli - interesado (curioso)
 sauvolu - preguntarse  
 sauvolani - interesante (curioso)  
 Saudi Arabia - Arabia Saudita  
-saudar - hermano o hermana  
 sauna\* - sauna  
 saus - salsa  
 sekreter - secretario  
@@ -3447,6 +3452,8 @@ uzernam - nombre de usuario
 Uzbekia - Uzbekistán  
 veisirke - latitud  
 vinsuan - vinagre  
+vismai - madrastra  
+vispai - padrastro  
 ####X - X  
 xake - rama  
 xakal - chacal  

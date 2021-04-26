@@ -203,6 +203,7 @@ bekokan - bakejo
 Belarus - Belorusio  
 Belgia - Belgio  
 Belize - Beliceo  
+ben - ido (infano)  
 bence - benko  
 benda - ligi  
 bende - bandaĝo (vindo)  
@@ -256,6 +257,7 @@ Brazil - Brazilo
 bromem - bromo  
 brox - broso  
 bruni - bruna  
+brus - frato aŭ fratino  
 buca - buĉi  
 bucer - buĉisto  
 bucokan - buĉejo  
@@ -309,6 +311,9 @@ cesem - cezio
 Cile - Ĉilio  
 cimpanze - ĉimpanzo  
 cini - hana  
+cinbrusben - kuzo  
+cinmai - avino  
+cinpai - avo  
 cincil - ĉinĉilo  
 cinga - peti (bonvolu)  
 cinga laya - inviti  
@@ -610,6 +615,8 @@ galte - eraro (miso)
 galti - erara  
 gama - edzigi  
 gamia - geedzeco  
+gammai - bopatrino  
+gampai - bopatro  
 gamel - kamelo  
 gani - seka  
 ganputau - sekvinbero  
@@ -1108,6 +1115,7 @@ maf - pardono
 mafa - pardoni  
 magia - magio  
 magesem - magnezio  
+mai - patrino  
 mayan - majao  
 maitnerem - mejtnerio  
 makas - tondilo  
@@ -1116,7 +1124,7 @@ malan - havanto
 malnomia - ekonomiko  
 Mali - Malio  
 malike - jasmeno  
-mam - patrino  
+mam - mamo  
 man - viro  
 mangi - okupata  
 mangan - mangano  
@@ -1311,6 +1319,7 @@ paciste - pacifisto
 pacistia - pacifismo  
 padomosim - aŭtuno  
 pai - torto  
+pai - patro  
 pake - pako  
 pakse - birdo  
 pal - frukto  
@@ -1327,7 +1336,6 @@ pang - pano
 panike - paniko  
 panke - ventumilo  
 pante - pantalonoj  
-pape - patro  
 papagai - papago  
 papai - papajo  
 par - nivelo  
@@ -1414,7 +1422,6 @@ pura - plenigi
 puri - plena  
 puro - plene  
 purfina - kompleti  
-pute - ido (infano)  
 putau - vinbero  
 Putong Cini - mandarinĉina  
 putongi - generala (universala)  
@@ -1531,7 +1538,6 @@ sau - scio
 sava - scii (koni)  
 saulojia - sciteorio (epistemologio)  
 sauvolani - interesa  
-saudar - frato aŭ fratino  
 sauna\* - saŭno  
 saus - saŭco  
 sekse - sekso  
@@ -1742,6 +1748,8 @@ urse - urso
 vulve - vulvo  
 uza - uzi  
 vinsuan - vinagro  
+vismai - vicpatrino  
+vispai - vicpatro  
 ####X - X  
 xake - branĉo  
 xal - koltuko  

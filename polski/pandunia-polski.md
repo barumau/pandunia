@@ -328,6 +328,7 @@ bel - łopata (szpadel)
 Belarus - Białoruś  
 Belgia - Belgia  
 Belize - Belize  
+ben - dziecko, potomek  
 bence - ławka  
 benda - związać, wiązać; zapiąć, zapinać  
 bende - taśma; bandaż  
@@ -411,6 +412,7 @@ bruni - brązowy, koloru kawy
 brunalge - brunatnica  
 brunsalmon - pstrąg potokowy  
 Brunei - Brunei Darussalam  
+brus - rodzeństwo, brat lub siostra  
 buda - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 Bude - Budda  
 bude - uświadomienie, świadomość; oświecenie, bodhi  
@@ -499,7 +501,11 @@ Cile - Chile
 cili\* - papryka  
 cilifun - papryka  
 cimpanze - szympans  
+cin - rodzic (matka lub ojciec)  
 cini - han chiński  
+cinbrusben - kuzyn  
+cinmai - babcia (babka)  
+cinpai - dziadek (dziad)  
 cincil - szynszyla  
 cinga - prosić  
 cinga laya - zaprosić, zapraszać  
@@ -974,10 +980,10 @@ galta - popełnić błąd
 galte - błąd (pomyłka)  
 galti - błędny (niepoprawny)  
 galto buda - źle zrozumieć  
+gam - małżonek (małżonka)  
 gama - ożenić się, poślubić, wyjść za mąż  
 gami - ożeniony, zamężny, w związku małżeńskim  
 gamia - małżeństwo, związek małżeński  
-gamike - małżonek (małżonka)  
 Gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
 gana - suszyć (wysuszyć)  
@@ -1396,7 +1402,6 @@ jeni - surowy (niedojrzały)
 jeni bax - język ojczysty (język rodzimy)  
 jenu - urodzić się, rodzić się  
 jenden - urodziny  
-jener - rodzic (matka lub ojciec)  
 jengrupe - pokolenie (generacja)  
 jenita - rozmnażać  
 jenklas - kasta  
@@ -1827,8 +1832,6 @@ lau - starzec
 Lau - Laos  
 lavi - stary (sędziwy, wiekowy)  
 lavi - laotański  
-laumam - babcia (babka)  
-laupape - dziadek (dziad)  
 laurensem - lorens  
 lax - pozostałość (szczątek)  
 laxa - pozostawiać (pozostawić)  
@@ -1954,6 +1957,7 @@ mager - magik, czarownik
 magesem - magnez  
 Magyaria - Węgry  
 Magribia - Maroko  
+mai - matka, mama  
 mayan - Maya  
 Mayote - Majotta  
 mais - kukurydza  
@@ -1981,7 +1985,6 @@ Mali - Mali
 malike - jaśmin  
 Malta - Malta  
 Malvinas nesia - Falklandy, Malwiny  
-mam - matka, mama  
 mamal - ssak  
 man - męski  
 mani pute - syn  
@@ -2432,6 +2435,7 @@ padomosim - jesień
 padomun - klapa  
 pagre - turban  
 pai - placek, ciasto  
+pai - ojciec  
 paka - zapakować, pakować  
 pake - paczka, paka  
 Pakistan - Pakistan  
@@ -2466,7 +2470,6 @@ panir - twaróg
 panjabi - pendżabski  
 panke - wiatrak (wentylator)  
 pante - spodnie (pantalony, portki)  
-pape - ojciec  
 papagai - papuga  
 papai - papaja  
 papir - dokument  
@@ -2677,7 +2680,6 @@ purbona - doskonalić (optymalizować, ulepszać)
 purboni - perfekcyjny  
 purfityamiste - weganin (weganka)  
 purxipa - namoczyć (marynować)  
-pute - dziecko, potomek  
 putau - winogrono  
 putavoranje - grejpfrut  
 Putong Cini - mandaryński chiński, Putonghua  
@@ -2922,7 +2924,6 @@ saulojia - epistemologia
 sauvol - zainteresowanie, zaciekawienie; interesujący  
 sauvolani - interesujący  
 Saudi Arabia - Arabia Saudyjska  
-saudar - rodzeństwo, brat lub siostra  
 sauna\* - sauna  
 saus - sos  
 sekreter - sekretarz  

@@ -368,6 +368,8 @@ bel - shovel (spade, scoop)
 Belarus - Belarus  
 Belgia - Belgium  
 Belize - Belize  
+ben - child (offspring)  
+benben - grandchild  
 bence - bench  
 benda - tie (fasten, bind)  
 bende - band (tape, bandage)  
@@ -456,6 +458,8 @@ bruni - brown
 brunalge - brown algae  
 brunsalmon - brown trout  
 Brunei - Brunei Darussalam  
+brus - sibling (brother or sister)  
+brusben - nephew or niece  
 buca - butcher  
 bucer - butcher  
 bucokan - abattoir (slaughterhouse)  
@@ -547,7 +551,14 @@ Cile - Chile
 cili\* - pepper (capsicum)  
 cilifun - paprika  
 cimpanze - chimpanzee  
+cin - parent (mother or father)  
 cini - Han Chinese  
+cinbrusben - cousin  
+cincin - grandparent  
+cingam - step-parent  
+cingamben - step-sibling  
+cinmai - grandmother  
+cinpai - grandfather  
 cincil - chinchilla  
 cing - request (petition)  
 cinga - ask (request, beg, plead; please)  
@@ -1082,10 +1093,14 @@ galta - make a mistake
 galte - mistake (error, fault, blunder, bug)  
 galti - wrong (incorrect, erroneous, faulty)  
 galto buda - misunderstand  
+gam - spouse (husband or wife)  
 gama - marry  
 gami - married  
 gamia - marriage (matrimony)  
-gamike - spouse (husband or wife)  
+gamben - step-child  
+gamcin - parent-in-law  
+gammai - mother-in-law  
+gampai - father-in-law  
 Gambia - Gambia  
 gamel - camel  
 gana - dry out  
@@ -1556,7 +1571,6 @@ jeni - raw (crude)
 jeni bax - native language (mother tongue)  
 jenu - be born  
 jenden - birthday  
-jener - parent (mother or father)  
 jengrupe - generation (cohort)  
 jenita - breed  
 jenklas - caste  
@@ -2018,8 +2032,6 @@ lau - elder
 Lau - Laos  
 lavi - old (aged, elderly)  
 lavi - Lao (Laotian)  
-laumam - grandmother  
-laupape - grandfather  
 laurensem - lawrencium  
 lax - leftover (residue, vestige)  
 laxa - leave behind (abandon, let go)  
@@ -2154,6 +2166,9 @@ mager - magician (sorcerer)
 magesem - magnesium  
 Magyaria - Hungary  
 Magribia - Morocco  
+mai - mother (mom, mama)  
+maimai - maternal grandmother  
+maipai - maternal grandfather  
 mayan - Maya  
 Mayote - Mayotte  
 mais - corn (maize)  
@@ -2181,7 +2196,7 @@ Mali - Mali
 malike - jasmine  
 Malta - Malta  
 Malvinas nesia - Falkland Islands (Malvinas)  
-mam - mother (mom, mama)  
+mam - breast (boob, tit)  
 mamal - mammal  
 man - male  
 mani pute - son  
@@ -2660,6 +2675,9 @@ padomosim - autumn (fall)
 padomun - trapdoor  
 pagre - turban  
 pai - pie (pastry)  
+pai - father (dad, papa)  
+paimai - paternal grandmother  
+paipai - paternal grandfather  
 paka - pack  
 pake - pack (package)  
 Pakistan - Pakistan  
@@ -2696,7 +2714,6 @@ panir - quark (paneer)
 panjabi - Punjabi  
 panke - fan (ventilator)  
 pante - pants (trousers)  
-pape - father (dad, papa)  
 papagai - parrot (parakeet)  
 papai - papaya  
 papir - document (paper)  
@@ -2933,7 +2950,6 @@ purfina - complete (make done)
 purfityamiste - vegan  
 purfityamistia - veganism  
 purxipa - soak (steep, marinate)  
-pute - child (offspring)  
 putau - grape  
 putavoranje - grapefruit  
 Putong Cini - Mandarin Chinese (Putonghua)  
@@ -3191,7 +3207,6 @@ sauvoli - interested (curious)
 sauvolu - wonder (be interested in, would like to know)  
 sauvolani - interesting (curious)  
 Saudi Arabia - Saudi Arabia  
-saudar - sibling (brother or sister)  
 sauna\* - sauna  
 saus - sauce  
 sekreter - secretary  
@@ -3733,6 +3748,8 @@ uzernam - username
 Uzbekia - Uzbekistan  
 veisirke - latitude  
 vinsuan - vinegar  
+vismai - step-mother  
+vispai - step-father  
 ####X - X  
 xake - branch (bough)  
 xakal - jackal  

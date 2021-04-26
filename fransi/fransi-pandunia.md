@@ -212,7 +212,9 @@ basketball - baskobol
 bassin - basen  
 bateau - nau  
 beau - sundari  
+beau-père - gampai  
 beauté - sundaria  
+belle-mère - gammai  
 bengali - bangli  
 besoin - yau  
 betterave - bete  
@@ -396,6 +398,7 @@ coureur - korer
 courgette - lilkaboge  
 courir - kora  
 couronne - koron  
+cousin - cinbrusben  
 coutume - ade  
 couvrir - daka  
 crabe - krabe  
@@ -547,7 +550,7 @@ fibre - linem
 fier - yauxina  
 fil de fer - metallin  
 fil de trame - veilin  
-fils ou fille - pute  
+fils ou fille - ben  
 fini - fini  
 fiord - fiorde  
 fleur - ful  
@@ -595,6 +598,8 @@ gombo - bamye
 gorille - goril  
 goule - gul  
 gouvernement - polite  
+grand-mère - cinmai  
+grand-père - cinpai  
 granit - granite  
 gravire - grau  
 grenouille - krokroke  
@@ -836,7 +841,7 @@ mur - mur
 musique - muzike  
 mycélium - fungonete  
 mât - maste  
-mère (maman) - mam  
+mère (maman) - mai  
 mètre - mitre  
 méduse - haijel  
 méfait (péché) - duskar  
@@ -964,7 +969,7 @@ peinture - pente
 pelle - bel  
 perdant - xibayer  
 perder - xibaya tena  
-pere (papa) - pape  
+pere (papa) - pai  
 perfectionner (parfaire) - purbona  
 perplexe (désorienté) - ruhmixi  
 perroquet - papagai  
@@ -1159,6 +1164,7 @@ se mouvoir - kinu
 se plaire - suku  
 se rappeler (se remémorer) - mema  
 seau - balde  
+sein - mam  
 sel - sal  
 semence - sem  
 sens - sense  
@@ -1377,7 +1383,7 @@ zèbre - zebre
 épices - masal  
 épingle - pin  
 éponge - esponje  
-époux - gamike  
+époux - gam  
 épreuve (test) - teste  
 épée - katan  
 équipe - tim  

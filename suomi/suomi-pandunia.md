@@ -111,6 +111,7 @@ animaatio (piirretty) - anim
 animoida - anima  
 ankkuri - angar  
 annos - doze  
+anoppi - gammai  
 ansiosta - danko da  
 antaa - dona  
 antaa anteeksi - mafa  
@@ -125,6 +126,8 @@ antikristus - ankriste
 antimoni - estibem  
 apinanleipäpuu (baobab) - bui  
 appelsiini - oranje  
+appi - gampai  
+appivanhempi - gamcin  
 aprikoosi - barkoke  
 apu - helpe  
 arabialainen - arabi  
@@ -757,9 +760,15 @@ islamofobia (islamin pelko) - islamfobia
 Islanti - Islandia  
 iso (suuri) - dayi  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britania  
+isoisä - cinpai  
+isovanhempi - cincin  
+isoäiti - cinmai  
 Israel - Israel  
 istua - sida  
-isä - pape  
+isä - pai  
+isänisä - paipai  
+isänäiti - paimai  
+isäpuoli (äidin puoliso) - vispai  
 Italia - Italia  
 itkeä - kuga  
 itse - se  
@@ -1366,7 +1375,8 @@ laoslainen - lavi
 lapio - bel  
 lapislatsuli - lazurpetre  
 lappo - riutube  
-lapsi (jälkeläinen) - pute  
+lapsenlapsi - benben  
+lapsi (jälkeläinen) - ben  
 lapsi - bace  
 lasagne - lazanye  
 lasi - kance  
@@ -1840,6 +1850,7 @@ nilviäinen - moluske
 nimi - nam  
 nimittää (kutsua) - namana  
 niobium - niobem  
+nisä (tissi) - mam  
 nisäkäs - mamal  
 Niue - Niue  
 nobelium - nobelem  
@@ -2240,7 +2251,7 @@ punkki - akar
 punta - paunde  
 puola - Polske  
 puolalainen - polski  
-puoliso (aviomies tai -vaimo) - gamike  
+puoliso (aviomies tai -vaimo) - gam  
 puolittaa (jakaa kahdella) - dulo fena  
 puolustaa - defa  
 puolustaja - defer  
@@ -2530,6 +2541,7 @@ sentti - centi\*
 senttimetri (cm) - centimitre  
 seppä - metaljanger  
 Serbia - Serbia  
+serkku - cinbrusben  
 seura - sosia  
 seuraava - badi  
 seurata (tulla perässä, tulla jäljessä) - bada  
@@ -2579,7 +2591,9 @@ sinun - ti
 sinä - te  
 Siperia - Sibiria  
 sipuli - piaze  
-sisarus (veli tai sisko) - saudar  
+sisaruksen lapsi - brusben  
+sisarus (veli tai sisko) - brus  
+sisaruspuoli - cingamben  
 sisus (sisäpuoli) - in  
 sisä- (sisäinen) - indi  
 sisällysluettelo - inliste  
@@ -3117,7 +3131,7 @@ vanadiini - vanadem
 vanginvartija - prizoner  
 vangita - prizona  
 vanha (muinainen) - ceniki  
-vanhempi (isä tai äiti) - jener  
+vanhempi (isä tai äiti) - cin  
 vanilja - vanil  
 vankeus - prizon  
 vankila - prizonkan  
@@ -3369,8 +3383,11 @@ Zimbabwe - Zimbabve
 zirkonium - zirkonem  
 zombi - zombe  
 zulu - Zulu  
+äidinisä - maipai  
 äidinkieli - jeni bax  
-äiti (emä) - mam  
+äidinäiti - maimai  
+äiti (emä) - mai  
+äitipuoli (isän puoliso) - vismai  
 ällistyttää - ajaba  
 äsken (vasta, juuri) - novo  
 äänestää - vota  

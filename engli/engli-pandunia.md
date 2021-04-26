@@ -460,6 +460,7 @@ Brazil - Brazil
 Brazzaville - Brazavil  
 bread - pang  
 breakfast - subyam  
+breast (boob, tit) - mam  
 breastplate - sinplate  
 breath - nafas  
 breed - jenita  
@@ -637,7 +638,7 @@ chicken - kokode
 chickpea - humus  
 chief (boss) - xef  
 child (minor) - bace  
-child (offspring) - pute  
+child (offspring) - ben  
 Chile - Cile  
 chimpanzee - cimpanze  
 China - Junguo  
@@ -826,6 +827,7 @@ counterclockwise (anticlockwise) - rotolefto
 country (land, state) - dex  
 countryside - rustia  
 coupon - kupon  
+cousin - cinbrusben  
 cover (conceal) - daka  
 cover (lid, cap, deck) - dake  
 covet - tamu  
@@ -1225,7 +1227,8 @@ fascist - faxiste
 fashion (trend) - faxon  
 fast (quick, rapid, speedy) - rapidi  
 fat (grease) - fete  
-father (dad, papa) - pape  
+father (dad, papa) - pai  
+father-in-law - gampai  
 fatigue (weariness) - fatigia  
 fatty (greasy) - feti  
 fault (sin, blame, defect, guilt) - dox  
@@ -1464,8 +1467,10 @@ gram (g) - gram
 grammar - baxkanun  
 grammatical - baxkanuni  
 grammatical gender - baxi jinse  
-grandfather - laupape  
-grandmother - laumam  
+grandchild - benben  
+grandfather - cinpai  
+grandmother - cinmai  
+grandparent - cincin  
 granite - granite  
 grape - putau  
 grapefruit - putavoranje  
@@ -2080,6 +2085,8 @@ match (contest) - mece
 match (fit, suit, go well together) - konboni  
 material (ingredient, resource) - faidomate  
 material - mati  
+maternal grandfather - maipai  
+maternal grandmother - maimai  
 mathematician - hisabolojer  
 mathematics (math) - hisabolojia  
 matter (be important) - hamu  
@@ -2217,7 +2224,8 @@ mosquito - moskite
 moss - mos  
 mossy - mosi  
 most (maximally) - maxim (maximo)  
-mother (mom, mama) - mam  
+mother (mom, mama) - mai  
+mother-in-law - gammai  
 motion (movement) - mote  
 motorcar (automobile) - motogar  
 motorcycle - motosikle  
@@ -2290,6 +2298,7 @@ negotiate (arrange) - lona biznes
 neodymium - neodimem  
 neon - neon  
 Nepal - Nepal  
+nephew or niece - brusben  
 nephritis - nefritis  
 Neptune - Neputun  
 neptunium - neputunem  
@@ -2514,7 +2523,8 @@ parallel (longitudinal) - parlini
 parameter (argument, input variable) - param  
 parasol - solcate  
 pardon (forgiveness; sorry) - maf  
-parent (mother or father) - jener  
+parent (mother or father) - cin  
+parent-in-law - gamcin  
 Paris - Paris  
 park (garden) - parke  
 parrot (parakeet) - papagai  
@@ -2533,6 +2543,8 @@ password (security code) - sekurkode
 past (bygone) - pasi  
 past times - pas  
 paste (dough) - paste  
+paternal grandfather - paipai  
+paternal grandmother - paimai  
 pathogen - patojener  
 pathology - patolojia  
 patient (subject of medical treatment) - patike  
@@ -3124,7 +3136,7 @@ show (display, exhibition) - xou
 shower - dux  
 shrimp (prawn) - krevete  
 Siberia - Sibiria  
-sibling (brother or sister) - saudar  
+sibling (brother or sister) - brus  
 sickness (illness, disease) - patia  
 side (flank) - late  
 sideways (laterally) - lato  
@@ -3254,7 +3266,7 @@ spoken (lexical) - logi
 sponge - esponje  
 spoon - camace  
 sport (athletics) - kel  
-spouse (husband or wife) - gamike  
+spouse (husband or wife) - gam  
 spring (springtime) - fulmosim  
 spruce tree - pis  
 square (tetragon) - cargon  
@@ -3286,6 +3298,11 @@ steam (vapor) - suigas
 steamed bun (mantou, manti) - mante  
 stem (torso, trunk, stalk) - tan  
 step (degree, rank, grade, level, class) - darje  
+step-child - gamben  
+step-father - vispai  
+step-mother - vismai  
+step-parent - cingam  
+step-sibling - cingamben  
 stereophonic - dulsondi  
 stick (adhere, paste, glue) - gluta  
 sticker - glutograf  

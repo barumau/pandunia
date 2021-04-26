@@ -344,6 +344,8 @@ bel - lapio
 Belarus - Valkovenäjä  
 Belgia - Belgia  
 Belize - Belize  
+ben - lapsi (jälkeläinen)  
+benben - lapsenlapsi  
 bence - penkki  
 benda - sitoa  
 bende - nauha (side)  
@@ -425,6 +427,8 @@ bromem - bromi
 brox - harja  
 bruni - ruskea  
 Brunei - Brunei  
+brus - sisarus (veli tai sisko)  
+brusben - sisaruksen lapsi  
 buca - teurastaa (lahdata)  
 bucer - teurastaja  
 bucokan - teurastamo  
@@ -511,7 +515,13 @@ Cile - Chile
 cili\* - paprika  
 cilifun - paprikajauhe  
 cimpanze - simpanssi  
+cin - vanhempi (isä tai äiti)  
 cini - han-kiinalainen  
+cinbrusben - serkku  
+cincin - isovanhempi  
+cingamben - sisaruspuoli  
+cinmai - isoäiti  
+cinpai - isoisä  
 cincil - chinchilla  
 cing - pyyntö  
 cinga - pyytää (anoa)  
@@ -1019,10 +1029,13 @@ galta - erehtyä (tehdä virhe)
 galte - virhe (erhe)  
 galti - väärä (virheellinen)  
 galto buda - ymmärtää väärin  
+gam - puoliso (aviomies tai -vaimo)  
 gama - naida (mennä naimisiin)  
 gami - naimisissa  
 gamia - avioliitto  
-gamike - puoliso (aviomies tai -vaimo)  
+gamcin - appivanhempi  
+gammai - anoppi  
+gampai - appi  
 Gambia - Gambia  
 gamel - kameli  
 gana - kuivata (kuivattaa)  
@@ -1430,7 +1443,6 @@ jena - synnyttää
 jeni bax - äidinkieli  
 jenu - syntyä  
 jenden - syntymäpäivä  
-jener - vanhempi (isä tai äiti)  
 jenklas - sääty (kasti)  
 jentipe - perimä (genotyyppi)  
 jeng - taistelu (sota)  
@@ -1933,6 +1945,9 @@ mager - taikuri
 magesem - magnesium  
 Magyaria - Unkari  
 Magribia - Marokko  
+mai - äiti (emä)  
+maimai - äidinäiti  
+maipai - äidinisä  
 mayan - maya (mayaintiaani)  
 Mayote - Mayotte  
 mais - maissi  
@@ -1957,7 +1972,7 @@ Mali - Mali
 malike - jasmiini  
 Malta - Malta  
 Malvinas nesia - Falklandin saaret  
-mam - äiti (emä)  
+mam - nisä (tissi)  
 mamal - nisäkäs  
 man - uros (mies)  
 mani pute - poika  
@@ -2360,6 +2375,9 @@ padu - pudota (tipahtaa)
 padomosim - syksy (syys)  
 pagre - turbaani  
 pai - piirakka (piiras)  
+pai - isä  
+paimai - isänäiti  
+paipai - isänisä  
 paka - pakata  
 pake - pakkaus (paketti)  
 Pakistan - Pakistan  
@@ -2394,7 +2412,6 @@ panir - rahka
 panjabi - pandžabi (eräs intialainen kieli)  
 panke - viuhka (tuuletin)  
 pante - housut  
-pape - isä  
 papagai - papukaija  
 papai - papaija  
 Papua Novi Ginia - Papua Uusi-Guinea  
@@ -2594,7 +2611,6 @@ purbona - tehdä täydelliseksi
 purboni - täydellinen (täysin hyvä)  
 purfina - tehdä loppuun (saada valmiiksi)  
 purfityamiste - vegaani  
-pute - lapsi (jälkeläinen)  
 putau - viinirypäle  
 Putong Cini - yleiskiina (mandariinikiina)  
 putongi - yleinen (universaali)  
@@ -2811,7 +2827,6 @@ savi - tietty (tunnettu)
 saulojia - tietoteoria (epistemologia)  
 sauvol - kiinnostus (mielenkiinto)  
 Saudi Arabia - Saudi Arabia  
-saudar - sisarus (veli tai sisko)  
 sauna\* - sauna  
 saus - kastike (soosi)  
 sekreter - sihteeri  
@@ -3242,6 +3257,8 @@ uzer - käyttäjä
 Uzbekia - Uzbekistan  
 veisirke - leveyspiiri  
 vinsuan - etikka  
+vismai - äitipuoli (isän puoliso)  
+vispai - isäpuoli (äidin puoliso)  
 ####X - X  
 xake - oksa (haara)  
 xakal - šakaali  

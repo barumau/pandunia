@@ -283,6 +283,7 @@ bedinje - aubergine
 beker - boulanger  
 bekofan - terre cuite  
 bel - pelle  
+ben - fils ou fille  
 ber - baie  
 berande - balcon  
 berje - bouleau  
@@ -339,6 +340,9 @@ ceniki - vieux (ancien)
 centaur - Centaurée  
 cerize - cerise  
 cili\* - piment  
+cinbrusben - cousin  
+cinmai - grand-mère  
+cinpai - grand-père  
 cir - déchirer  
 cira - déchirer  
 cize - fromage  
@@ -498,8 +502,10 @@ Galia - Gaule
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
+gam - époux  
 gamia - mariage  
-gamike - époux  
+gammai - belle-mère  
+gampai - beau-père  
 gancau - foin  
 gantex - serviette  
 ganum - blé  
@@ -862,12 +868,13 @@ mes - nous
 mafa - pardonner  
 magesem - magnésium  
 Magribia - Maroc  
+mai - mère (maman)  
 makanful - dandélion  
 mal - propriété (possession, bien)  
 malu - appartenir à  
 malan - possédant (propriétaire)  
 malnomia - économie  
-mam - mère (maman)  
+mam - sein  
 mangi - occupé  
 manihayistia - manichéisme  
 manir - comportement (manière)  
@@ -1007,6 +1014,7 @@ padi - chu
 padomosim - automne  
 pagre - turban  
 pai - tarte  
+pai - pere (papa)  
 pake - paquet  
 pakse - oiseau  
 palabe - querelle (dispute, palabre)  
@@ -1016,7 +1024,6 @@ pande - panda
 pang - pain  
 panir - fromage blanc  
 pante - pantalon  
-pape - pere (papa)  
 papagai - perroquet  
 papai - papaye  
 par - niveau  
@@ -1100,7 +1107,6 @@ puri - plein
 purbona - perfectionner (parfaire)  
 purfina - accomplir (terminer)  
 purxipa - tremper (faire mariner)  
-pute - fils ou fille  
 putavoranje - pamplemousse  
 ####R - R  
 rang - couleur  

@@ -214,6 +214,8 @@ centaur - василёк
 cerize - черешня  
 cili\* - перец (паприка)  
 cini - хань  
+cinmai - бабушка  
+cinpai - дедушка  
 cinga - просить  
 cir - рвать  
 cira - рвать  
@@ -720,11 +722,11 @@ me - я
 mes - мы  
 magesem - магний  
 Magribia - Марокко  
+mai - мать (мама)  
 majenti - маджента (фуксия)  
 makanful - одуванчик  
 malu - принадлежать  
 malnomia - экономика  
-mam - мать (мама)  
 mangi - занятый  
 manihayistia - манихейство  
 manir - поведение (манера)  
@@ -863,6 +865,7 @@ padi - упавший  (падший)
 padomun - лаз  
 pagre - чалма  
 pai - пирог  
+pai - отец (папа)  
 pake - пакет  
 pandemi patia - пандемия  
 panmim - пантомима  
@@ -870,7 +873,6 @@ pande - панда
 pang - хлеб  
 panir - творог  
 pante - брюки  
-pape - отец (папа)  
 papagai - попугай  
 papai - папайя  
 par - уровень  
@@ -1199,6 +1201,8 @@ ura - ура
 Uran - Уран  
 vulve - вульва  
 vute - статья (предмет)  
+vismai - мачеха  
+vispai - отчим  
 ####X - X  
 xalke - чешуя  
 xaman - шаман  

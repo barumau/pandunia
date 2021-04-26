@@ -125,7 +125,7 @@ azjatycki - asi
 azot - nitre  
 aż do - hata  
 ####B - B  
-babcia (babka) - laumam  
+babcia (babka) - cinmai  
 badać, studiować - loja  
 bagaż - bagaje  
 bagietka - batonpang  
@@ -530,11 +530,11 @@ dystans - tel
 dystans - telia  
 dywan - taltex  
 dzban, dzbanek; słój, słoik - jar  
-dziadek (dziad) - laupape  
+dziadek (dziad) - cinpai  
 działka (teren) - geutike  
 działo - daipau  
 dziecko (nieletni) - bace  
-dziecko, potomek - pute  
+dziecko, potomek - ben  
 dzielić (współdzielić) - komuna  
 dzielić - fena  
 dziennik pokładowy (notatnik) - deftobuke  
@@ -1258,6 +1258,7 @@ kusić, nakłonić, nakłaniać - tenta
 kusza (balista) - krusarke  
 kuszetka (koja) - kuxloke  
 Kuwejt - Kuvaitia  
+kuzyn - cinbrusben  
 kwadrat (czworokąt, czworobok, tetragon) - cargon  
 kwarc - kuarze  
 kwaśny - suani  
@@ -1434,14 +1435,14 @@ materac - matras
 materia, substancja - mate  
 materialny - mati  
 materiał (składnik, zasób) - faidomate  
-matka, mama - mam  
+matka, mama - mai  
 Mauretania - Muritania  
 Mauritius - Moris  
 Maya - mayan  
 małpa (znak na - adresharfe  
 mały; mało, trochę, nieco - lili  
 małżeństwo, związek małżeński - gamia  
-małżonek (małżonka) - gamike  
+małżonek (małżonka) - gam  
 mech - mos  
 mecz, rywalizacja - mece  
 medalion, medal - medal  
@@ -1817,7 +1818,7 @@ ogr (trol, goblin) - gui
 ogórek - hiyar  
 ogórek kiwano - kornomelon  
 ogórek melon - melon  
-ojciec - pape  
+ojciec - pai  
 okej, spoko, akceptowalny - okeyi  
 okno - janel  
 oko - oke  
@@ -2429,8 +2430,8 @@ rod - rodem
 rodak, ziomek, krajan - samdexi  
 rodzaj gramatyczny - baxi jinse  
 rodzaj, typ, styl - yang  
-rodzeństwo, brat lub siostra - saudar  
-rodzic (matka lub ojciec) - jener  
+rodzeństwo, brat lub siostra - brus  
+rodzic (matka lub ojciec) - cin  
 rodzina - famil  
 rodzynka - ganputau  
 roentgen - rentogenem  

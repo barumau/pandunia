@@ -126,6 +126,7 @@
 |**bega**|escape (flee, run away)|Russian:убегать (ubegat'), Hindi:भागना (bhāgnā)|
 |**beka**|bake|English:bake, Hindi:पकाना (pakānā), Russian:печь (peč), deu:backen|
 |**bel**|shovel (spade, scoop)|Persian: بیل‎ (bil), Turkish:bel, Hindi:बेलचा (belcā), Bengali:বেলচা (bēlacā), French:pelle|
+|**ben**|child (offspring)|Arabic: ابن (ibn, bint), heb:בן (ben), בת (bat)|
 |**bence**|bench|English:bench, Swahili:benchi, Hindi:बेंच (bẽc), Japanese:ベンチ (benchi), Korean:벤치 (benchi)|
 |**bende**|band (tape, bandage)|Italian:benda, Swahili:bendeji, Spanish:venda, French:bande, English:band, deu:Binde, Russian:бинт (bint) Hindi:बाँधना (bāndhnā)|
 |**benzin**|gasoline (petrol)|deu:Benzin, Spanish:bencina, Russian:бензин (benzin), Turkish:benzin, Arabic:بنزين (banzīn), Hindi:बेंज़ीन (benzīn), Malay:bensin, Japanese:ベンジン (benjin), Swahili:benzini|
@@ -204,6 +205,7 @@
 |**cerize**|cherry|English:cherry, French:cerise, Spanish:cereza, Portuguese:cereja, Russian:черешня (čerešnya), Arabic:(karaz), Turkish:kiraz, Hindi:गिलास (gilās), Bengali:চেরি  (ceri), Malay:ceri, Japanese:チェリー (cherī), Korean:체리 (cheri)|
 |**cili***|pepper (capsicum)|English:chili, Portuguese:Spanish:chile, Japanese:チリ (chiri), Korean:칠리 (chilli), Malay:cili|
 |**cimpanze**|chimpanzee|English:chimpanzee, Spanish:chimpancé, Portuguese:French:chimpanzé, Russian:шимпанзе (shimpanze), Turkish:şempanze, Arabic:شمبانزي‎ (šimbanzī), Hindi:चिंपांजी (cimpāñjī), Japanese:チンパンジー (chinpanjī), Malay:cimpanzi|
+|**cin**|parent (mother or father)|Mandarin:親 (qīn), Cantonese:親 (can), Wu-Chinese:親 (qin), Japanese:親 (sin), Korean:친 (chin)|
 |**cincil**|chinchilla|English:Spanish:French:chinchilla, Portuguese:chinchila, Russian:шиншилла (šinšilla), Turkish:çinçilya, Malay:cincila, Japanese:チンチラ (chinchira)|
 |**cinga**|ask (request, beg, plead; please)|Mandarin:请 (qǐng), Cantonese:請 (cing2), Korean:청 (cheong), Vietnamese:thỉnh|
 |**cini**|Han Chinese|Hindi:चीनी (cīnī), Turkish:Çin, Arabic:(ṣiniy), Spanish:chino, English:Chinese, Thai:จีน (chin), Mandarin:秦 (qín)|
@@ -387,8 +389,8 @@
 |**galaksia**|galaxy|English:galaxy, Spanish:galaxia, Portuguese:galáxia, French:galaxie, Russian:галактика (galaktika), Turkish:Malay:galaksi, Hindi:गैलेक्सी (gaileksī)|
 |**galeria**|gallery (exhibition hall)|English:gallery, Spanish:galería, Portuguese:galeria, French:galerie, Russian:галерея (galereya), Turkish:galeri, Hindi:गैलरी (gailrī), Japanese:ギャラリー (gyararī)|
 |**galte**|mistake (error, fault, blunder, bug)|Arabic:(ğalṭa), Hindi:ग़लती (ġaltī), Swahili:ghalati, Turkish:galat, Persian:(ğalat),|
+|**gam**|spouse (husband or wife)|English:-gamy, French:-gamie, Spanish:Portuguese:-gamia, Russian:-гамия (gamiya)|
 |**gamel**|camel|Arabic:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) English:camel, Spanish:camello, Portuguese:camelo, Swahili:ngamia|
-|**gami**|married|English:married, French:marié, Spanish:Portuguese:marido|
 |**gani**|dry|Mandarin:干 (gān), Cantonese:乾 (gon1), Japanese:乾 (kan), Korean:건 (geon)|
 |**ganje**|cannabis (marijuana, ganja, pot, weed)|Hindi:गांजा (gāñjā), Urdu:(gānjā), Punjabi:ਗਾਂਜਾ (gāñjā), Bengali:গাঁজা (gañja), Telugu:గంజాయి (gañjāyi), Tamil:கஞ்சா (kañcā), Khmer:កញ្ឆា (kɑñchaa), Thai:กัญชา (gan-chaa), Vietnamese:cần sa, English:Portuguese:Malay:ganja, Japanese:ガンジャ (gānjya)|
 |**ganputau**|raisin|Korean:건포도 (geonpodo), Mandarin:葡萄干 (pútáogān)|
@@ -770,6 +772,7 @@
 |**luta**|rob (loot, plunder, pillage, ransack)|Hindi:लूटना (lūṭnā), Urdu:(lūṭnā), Bengali:লুটা (luṭā), Punjabi:ਲੁੱਟ (luṭ), English:loot, + Mandarin:掠夺 (lüèduó), Cantonese:掠 (loek6)|
 |**maf**|pardon (forgiveness; sorry)|Arabic: مُعَاف‎ (muʿāf), Hindi:माफ़ (māf), Bengali:মাফ (maph), Malay:maaf, Swahili:afu, Turkish:af, Hausa:yafe|
 |**magia**|magic|English:magic, Spanish:Portuguese:magia, French:magie, Russian:ма́гия (mágija), rus:マジック (majikku)|
+|**mai**|mother (mom, mama)|Portuguese:mãe + Mandarin:妈 (mā), Vietnamese:má, Bengali:মা (ma), Hindi:मां (mã) + English:Swahili:mama, Spanish:mamá, French:maman, Russian:мама (mama), Japanese:ママ (mama), Korean:엄마 (eomma)|
 |**mais**|corn (maize)|English:maize, Spanish:maíz, French:maïs, Russian:маи́с (maís)|
 |**majenti**|magenta (fuchsia)|English:magenta, Spanish:magenta, Russian:маджента (madzhenta), Arabic:ماجنتي (majinati), Hindi:मैजेंटा (maijenta), Japanese:マゼンタ (mazenta), Malay:magenta|
 |**makal**|article (writing)|Arabic:مَقَال‎ (maqāl), Turkish:makale, Swahili:makala, Persian:مقاله‎ (maqâle), Malay:makalah|
@@ -778,7 +781,7 @@
 |**mal**|property (belongings, possessions)|Arabic:Persian:Urdu: مَال‎ (māl), Hindi:माल (māl), Turkish:mal, Swahili:mali, Malay:milik|
 |**malaria**|malaria|English:Spanish:French:Swahili:Malay:malaria, Portuguese:malária, Russian:малярия (mal′arija), Turkish:malarya, Arabic:مَلَارِيَا‎ (malāriyā), Hindi:मलेरिया (maleriyā), Japanese:マラリア (mararia)|
 |**malike**|jasmine|Kannada:(mallige), Tamil:(mallikai), Telugu:(malla), Malay:melati,  Korean:말리 (malli), Thai:มะลิ (mali), Mandarin:茉莉 (mòlì)|
-|**mam**|mother (mom, mama)|Spanish:mamá, French:maman, English:Swahili:mama, Russian:мама (mama), Mandarin: 妈妈 (māma), Japanese:ママ (mama), Korean:엄마 (eomma), Vietnamese:má, Bengali:মা (ma), Hindi:मां (mã)|
+|**mam**|breast (boob, tit)|English:mamma, French:mamelle, Spanish:Portuguese:mama, Turkish:meme|
 |**mamal**|mammal|English:mammal, Spanish:Portuguese:mamífero, French:mammifère, Turkish:memeli, Malay:mamalia|
 |**man**|male|English:man, deu:Mann, Hindi:मानुस (mānus), Bengali:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), Marathi:माणूस (māṇūs), Tamil:மனிதன் (maṉitaṉ) + Mandarin:男 (nán), Japanese:男 (nan)|
 |**manete**|magnet|English:magnet, French:magnétique, Spanish:magnete, Russian:магнит (magnit), Turkish:mıknatıs, Arabic:مَغْنَاطِيس‎ (maḡnāṭīs), Malay:maknit|
@@ -957,6 +960,7 @@
 |**pace**|peace|Italian:pace, English:peace, Spanish:Portuguese:paz, French:paix|
 |**padu**|fall|Telugu:(paḍu), Russian:падать (padat'), Hindi: पड़ना (paṛnā)|
 |**pagre**|turban|Hindi:Marathi:पगड़ी (pagṛī), Urdu:(pagṛī), Bengali:পাগড়ি (pagri)|
+|**pai**|father (dad, papa)|Portuguese:pai + Mandarin:爸 (bà)  + English:French:papa, Spanish:papá, Russian:папа (papa), Arabic:(bābā), Japanese:パパ (papa), Korean:아빠 (appa), Hindi:बाप (bāp),  Bengali:বাবা (baba), Malay:bapa, Swahili:Turkish:baba|
 |**pai**|pie (pastry)|English:pie, Spanish:pay, Malay:pai, Hindi:पाई (pāī), Urdu:(pāī), Bengali:পাই (pai), Japanese:パイ (pai), Korean:파이 (pai), Mandarin:排 (pái), Cantonese:批 (pai1), Persian:(pây)|
 |**pake**|pack (package)|English:pack, Russian:пакет (paket), Hindi:पैकेट (pækeṭ), deu:Turkish:paket, French:paquet, Spanish:paquete, Portuguese:pacote|
 |**pakse**|bird|Hindi:Marathi:पक्षी (pakṣī), Malayalam:പക്ഷി (pakṣi), Telugu:(pakṣi), kh:បក្សី (baksəy), Thai:ปักษา (pak-sa), Bengali:পাখী (pakhī), Punjabi:ਪੰਖੀ (paṅkhī)|
@@ -972,7 +976,6 @@
 |**pante**|pants (trousers)|English:pants, Hindi:पैंट (paiṇṭ), Bengali:প্যান্ট (pyanṭ), Spanish:pantalón, French:pantalon, Arabic:بنطلون‎ (banṭalōn), Turkish:pantolon|
 |**papagai**|parrot (parakeet)|Arabic:(babbaḡāʾ), Turkish:papağan, Spanish:papagayo, Portuguese:papagaio, deu:Papagei, Hungarian:papagáj, Russian:попугай (popugay)|
 |**papai**|papaya|English:Spanish:Turkish:papaya, French:papaye, Swahili:papai, Portuguese:papaia, Russian:папайя (papayya), Japanese:パパイヤ (papaiya), Korean:파파야 (papaya), Hindi:पपीता (papītā), Bengali:পেঁপে (pẽpe)|
-|**pape**|father (dad, papa)|English:French:papa, Spanish:papá, Russian:папа (papa), Arabic:(bābā), Mandarin:爸爸 (bàba), Japanese:パパ (papa), Korean:아빠 (appa), Hindi:बाप (bāp),  Bengali:বাবা (baba), Malay:bapa, Swahili:Turkish:baba|
 |**papir**|document (paper)|deu:Papier, English:paper, Spanish:Portuguese:papel, French:Polish:papier|
 |**parai**|outcast (pariah)|Hindi:पराया (parāyā), English:pariah, Russian:пария (pariya), Spanish:paria|
 |**param**|parameter (argument, input variable)|English:parameter, French:paramètre, Spanish:Portuguese:parametro, Japanese:パラメーター (paramētā), Korean:파라미터 (paramiteo)|
@@ -1062,7 +1065,6 @@
 |**puri**|full (complete, saturated)|Hindi:पूर्ण (pūrn), Bengali:পূর্ণ (pūrṇa), Punjabi:ਪੂਰਾ (pūrā), Persian:(por)|
 |**putau**|grape|Mandarin:葡萄 (pútáo), Cantonese:葡萄 (pou4 tou4), Wu-Chinese:葡萄 (bu dau3), Japanese:葡萄 (budō), Korean:포도 (podo), Vietnamese:bồ đào|
 |**putavoranje**|grapefruit|English:grapefruit, Mandarin:葡萄柚|
-|**pute**|child (offspring)|Thai:บุตร (but), Hindi:पूत (pūt), पुत्र (putra), Bengali:পুত্র (putr), Punjabi:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), Malay:putera, Telugu:పుత్రుడు (putruḍu)|
 |**putongi**|common (general, universal)|Mandarin:普通 (pǔtōng), Cantonese:普通 (pou2tung1), Vietnamese:phổ thông, Korean:보통 (botong)|
 |**puxa**|push|English:push, Spanish:empujar, Portuguese:empurrar, French:pousser, Russian:пихать (pihat’)|
 |**radia**|radiation|English:French:radiation, Spanish:radiación, Portuguese:radiação, Malay:radiasi, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)|
@@ -1142,7 +1144,6 @@
 |**sapate**|chaussure|Spanish:zapato, Portuguese:sapato, Malay:sepatu, Swahili:sapatu|
 |**sar**|head|Persian:(sar), Hindi:सिर (sir) + Arabic:(raʾs), Swahili:rasi|
 |**sate**|moment (while, short time)|Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa|
-|**saudar**|sibling (brother or sister)|Malay:saudara, Hindi:सहोदर (sahodar), Bengali:সহোদর (sôhodôr)|
 |**sauna***|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
 |**saus**|sauce|English:French:sauce, Russian:соус (sous), Hindi:सॉस (sos), deu:Soße, Vietnamese:xốt, Japanese:ソース (sōsu), Thai:ซอส (soot), Korean:소스 (soseu), Malay:saus|
 |**sava**|know (be aware of)|French:savoir, Spanish:Portuguese:saber, English:savvy|

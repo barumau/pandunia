@@ -123,6 +123,7 @@
 |**bega**|paeta (karata)|venäjä:убегать (ubegat'), hindi:भागना (bhāgnā)|
 |**beka**|leipoa|englanti:bake, hindi:पकाना (pakānā), venäjä:печь (peč), deu:backen|
 |**bel**|lapio|persia: بیل‎ (bil), turkki:bel, hindi:बेलचा (belcā), bangla:বেলচা (bēlacā), ranska:pelle|
+|**ben**|lapsi (jälkeläinen)|arabia: ابن (ibn, bint), heb:בן (ben), בת (bat)|
 |**bence**|penkki|englanti:bench, suahili:benchi, hindi:बेंच (bẽc), japani:ベンチ (benchi), korea:벤치 (benchi)|
 |**bende**|nauha (side)|italia:benda, suahili:bendeji, espanja:venda, ranska:bande, englanti:band, deu:Binde, venäjä:бинт (bint) hindi:बाँधना (bāndhnā)|
 |**benzin**|bensiini (bensa)|deu:Benzin, espanja:bencina, venäjä:бензин (benzin), turkki:benzin, arabia:بنزين (banzīn), hindi:बेंज़ीन (benzīn), malaiji:bensin, japani:ベンジン (benjin), suahili:benzini|
@@ -200,6 +201,7 @@
 |**cerize**|kirsikka|englanti:cherry, ranska:cerise, espanja:cereza, portugali:cereja, venäjä:черешня (čerešnya), arabia:(karaz), turkki:kiraz, hindi:गिलास (gilās), bangla:চেরি  (ceri), malaiji:ceri, japani:チェリー (cherī), korea:체리 (cheri)|
 |**cili***|paprika|englanti:chili, portugali:espanja:chile, japani:チリ (chiri), korea:칠리 (chilli), malaiji:cili|
 |**cimpanze**|simpanssi|englanti:chimpanzee, espanja:chimpancé, portugali:ranska:chimpanzé, venäjä:шимпанзе (shimpanze), turkki:şempanze, arabia:شمبانزي‎ (šimbanzī), hindi:चिंपांजी (cimpāñjī), japani:チンパンジー (chinpanjī), malaiji:cimpanzi|
+|**cin**|vanhempi (isä tai äiti)|yleiskiina:親 (qīn), kantoninkiina:親 (can), wu-kiina:親 (qin), japani:親 (sin), korea:친 (chin)|
 |**cincil**|chinchilla|englanti:espanja:ranska:chinchilla, portugali:chinchila, venäjä:шиншилла (šinšilla), turkki:çinçilya, malaiji:cincila, japani:チンチラ (chinchira)|
 |**cinga**|pyytää (anoa)|yleiskiina:请 (qǐng), kantoninkiina:請 (cing2), korea:청 (cheong), vietnami:thỉnh|
 |**cini**|han-kiinalainen|hindi:चीनी (cīnī), turkki:Çin, arabia:(ṣiniy), espanja:chino, englanti:Chinese, thai:จีน (chin), yleiskiina:秦 (qín)|
@@ -381,8 +383,8 @@
 |**galaksia**|galaksi|englanti:galaxy, espanja:galaxia, portugali:galáxia, ranska:galaxie, venäjä:галактика (galaktika), turkki:malaiji:galaksi, hindi:गैलेक्सी (gaileksī)|
 |**galeria**|galleria|englanti:gallery, espanja:galería, portugali:galeria, ranska:galerie, venäjä:галерея (galereya), turkki:galeri, hindi:गैलरी (gailrī), japani:ギャラリー (gyararī)|
 |**galte**|virhe (erhe)|arabia:(ğalṭa), hindi:ग़लती (ġaltī), suahili:ghalati, turkki:galat, persia:(ğalat),|
+|**gam**|puoliso (aviomies tai -vaimo)|englanti:-gamy, ranska:-gamie, espanja:portugali:-gamia, venäjä:-гамия (gamiya)|
 |**gamel**|kameli|arabia:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) englanti:camel, espanja:camello, portugali:camelo, suahili:ngamia|
-|**gami**|naimisissa|englanti:married, ranska:marié, espanja:portugali:marido|
 |**gani**|kuiva|yleiskiina:干 (gān), kantoninkiina:乾 (gon1), japani:乾 (kan), korea:건 (geon)|
 |**ganje**|kannabis (marihuana, hamppu)|hindi:गांजा (gāñjā), urdu:(gānjā), pandzabi:ਗਾਂਜਾ (gāñjā), bangla:গাঁজা (gañja), telugu:గంజాయి (gañjāyi), tamili:கஞ்சா (kañcā), khmer:កញ្ឆា (kɑñchaa), thai:กัญชา (gan-chaa), vietnami:cần sa, englanti:portugali:malaiji:ganja, japani:ガンジャ (gānjya)|
 |**ganputau**|rusina|korea:건포도 (geonpodo), yleiskiina:葡萄干 (pútáogān)|
@@ -733,6 +735,7 @@
 |**luta**|ryöstää (ryövätä)|hindi:लूटना (lūṭnā), urdu:(lūṭnā), bangla:লুটা (luṭā), pandzabi:ਲੁੱਟ (luṭ), englanti:loot, + yleiskiina:掠夺 (lüèduó), kantoninkiina:掠 (loek6)|
 |**maf**|anteeksi|arabia: مُعَاف‎ (muʿāf), hindi:माफ़ (māf), bangla:মাফ (maph), malaiji:maaf, suahili:afu, turkki:af, hausa:yafe|
 |**magia**|taika (taikuus, magia)|englanti:magic, espanja:portugali:magia, ranska:magie, venäjä:ма́гия (mágija), rus:マジック (majikku)|
+|**mai**|äiti (emä)|portugali:mãe + yleiskiina:妈 (mā), vietnami:má, bangla:মা (ma), hindi:मां (mã) + englanti:suahili:mama, espanja:mamá, ranska:maman, venäjä:мама (mama), japani:ママ (mama), korea:엄마 (eomma)|
 |**mais**|maissi|englanti:maize, espanja:maíz, ranska:maïs, venäjä:маи́с (maís)|
 |**makal**|artikkeli (kirjoitus)|arabia:مَقَال‎ (maqāl), turkki:makale, suahili:makala, persia:مقاله‎ (maqâle), malaiji:makalah|
 |**makan**|voi|hindi:मक्खन (makkhan), bangla:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), marathi:माखण (mākhaṇ), gujarati:માખણ (mākhaṇ)|
@@ -740,7 +743,7 @@
 |**mal**|omaisuus|arabia:persia:urdu: مَال‎ (māl), hindi:माल (māl), turkki:mal, suahili:mali, malaiji:milik|
 |**malaria**|malaria|englanti:espanja:ranska:suahili:malaiji:malaria, portugali:malária, venäjä:малярия (mal′arija), turkki:malarya, arabia:مَلَارِيَا‎ (malāriyā), hindi:मलेरिया (maleriyā), japani:マラリア (mararia)|
 |**malike**|jasmiini|kannada:(mallige), tamili:(mallikai), telugu:(malla), malaiji:melati,  korea:말리 (malli), thai:มะลิ (mali), yleiskiina:茉莉 (mòlì)|
-|**mam**|äiti (emä)|espanja:mamá, ranska:maman, englanti:suahili:mama, venäjä:мама (mama), yleiskiina: 妈妈 (māma), japani:ママ (mama), korea:엄마 (eomma), vietnami:má, bangla:মা (ma), hindi:मां (mã)|
+|**mam**|nisä (tissi)|englanti:mamma, ranska:mamelle, espanja:portugali:mama, turkki:meme|
 |**mamal**|nisäkäs|englanti:mammal, espanja:portugali:mamífero, ranska:mammifère, turkki:memeli, malaiji:mamalia|
 |**man**|uros (mies)|englanti:man, deu:Mann, hindi:मानुस (mānus), bangla:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), marathi:माणूस (māṇūs), tamili:மனிதன் (maṉitaṉ) + yleiskiina:男 (nán), japani:男 (nan)|
 |**manete**|magneetti|englanti:magnet, ranska:magnétique, espanja:magnete, venäjä:магнит (magnit), turkki:mıknatıs, arabia:مَغْنَاطِيس‎ (maḡnāṭīs), malaiji:maknit|
@@ -904,6 +907,7 @@
 |**pace**|rauha|italia:pace, englanti:peace, espanja:portugali:paz, ranska:paix|
 |**padu**|pudota (tipahtaa)|telugu:(paḍu), venäjä:падать (padat'), hindi: पड़ना (paṛnā)|
 |**pagre**|turbaani|hindi:marathi:पगड़ी (pagṛī), urdu:(pagṛī), bangla:পাগড়ি (pagri)|
+|**pai**|isä|portugali:pai + yleiskiina:爸 (bà)  + englanti:ranska:papa, espanja:papá, venäjä:папа (papa), arabia:(bābā), japani:パパ (papa), korea:아빠 (appa), hindi:बाप (bāp),  bangla:বাবা (baba), malaiji:bapa, suahili:turkki:baba|
 |**pai**|piirakka (piiras)|englanti:pie, espanja:pay, malaiji:pai, hindi:पाई (pāī), urdu:(pāī), bangla:পাই (pai), japani:パイ (pai), korea:파이 (pai), yleiskiina:排 (pái), kantoninkiina:批 (pai1), persia:(pây)|
 |**pake**|pakkaus (paketti)|englanti:pack, venäjä:пакет (paket), hindi:पैकेट (pækeṭ), deu:turkki:paket, ranska:paquet, espanja:paquete, portugali:pacote|
 |**pakse**|lintu|hindi:marathi:पक्षी (pakṣī), malayalam:പക്ഷി (pakṣi), telugu:(pakṣi), kh:បក្សី (baksəy), thai:ปักษา (pak-sa), bangla:পাখী (pakhī), pandzabi:ਪੰਖੀ (paṅkhī)|
@@ -919,7 +923,6 @@
 |**pante**|housut|englanti:pants, hindi:पैंट (paiṇṭ), bangla:প্যান্ট (pyanṭ), espanja:pantalón, ranska:pantalon, arabia:بنطلون‎ (banṭalōn), turkki:pantolon|
 |**papagai**|papukaija|arabia:(babbaḡāʾ), turkki:papağan, espanja:papagayo, portugali:papagaio, deu:Papagei, unkari:papagáj, venäjä:попугай (popugay)|
 |**papai**|papaija|englanti:espanja:turkki:papaya, ranska:papaye, suahili:papai, portugali:papaia, venäjä:папайя (papayya), japani:パパイヤ (papaiya), korea:파파야 (papaya), hindi:पपीता (papītā), bangla:পেঁপে (pẽpe)|
-|**pape**|isä|englanti:ranska:papa, espanja:papá, venäjä:папа (papa), arabia:(bābā), yleiskiina:爸爸 (bàba), japani:パパ (papa), korea:아빠 (appa), hindi:बाप (bāp),  bangla:বাবা (baba), malaiji:bapa, suahili:turkki:baba|
 |**parai**|hylkiö (paaria)|hindi:पराया (parāyā), englanti:pariah, venäjä:пария (pariya), espanja:paria|
 |**param**|parametri (argumentti)|englanti:parameter, ranska:paramètre, espanja:portugali:parametro, japani:パラメーター (paramētā), korea:파라미터 (paramiteo)|
 |**parce**|palanen (murunen, riekale, sirpale)|persia:(parče), turkki:parça, hindi:पारचा (pārcā), englanti:part, portugali:espanja:parte|
@@ -1001,7 +1004,6 @@
 |**pupe**|nukke|ranska:poupée, deu:Puppe, englanti:puppet, vietnami:búp bê, ktu:popi, heb:(bubá)|
 |**puri**|täysi|hindi:पूर्ण (pūrn), bangla:পূর্ণ (pūrṇa), pandzabi:ਪੂਰਾ (pūrā), persia:(por)|
 |**putau**|viinirypäle|yleiskiina:葡萄 (pútáo), kantoninkiina:葡萄 (pou4 tou4), wu-kiina:葡萄 (bu dau3), japani:葡萄 (budō), korea:포도 (podo), vietnami:bồ đào|
-|**pute**|lapsi (jälkeläinen)|thai:บุตร (but), hindi:पूत (pūt), पुत्र (putra), bangla:পুত্র (putr), pandzabi:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), malaiji:putera, telugu:పుత్రుడు (putruḍu)|
 |**putongi**|yleinen (universaali)|yleiskiina:普通 (pǔtōng), kantoninkiina:普通 (pou2tung1), vietnami:phổ thông, korea:보통 (botong)|
 |**puxa**|työntää (puskea)|englanti:push, espanja:empujar, portugali:empurrar, ranska:pousser, venäjä:пихать (pihat’)|
 |**radia**|säteily|englanti:ranska:radiation, espanja:radiación, portugali:radiação, malaiji:radiasi, venäjä:радио (radio), turkki:radyo, suahili:redio, hindi:रेडियो (reḍiyo), bangla:রেডিও (reḍio), japani:ラジオ (rajio), korea:라디오 (radio)|
@@ -1078,7 +1080,6 @@
 |**sapate**|kenkä|espanja:zapato, portugali:sapato, malaiji:sepatu, suahili:sapatu|
 |**sar**|pää|persia:(sar), hindi:सिर (sir) + arabia:(raʾs), suahili:rasi|
 |**sate**|hetki (kotva)|arabia:(sāʿa), persia:(sâ'at), malaiji:turkki:saat, suahili:saa|
-|**saudar**|sisarus (veli tai sisko)|malaiji:saudara, hindi:सहोदर (sahodar), bangla:সহোদর (sôhodôr)|
 |**sauna***|sauna|fin:deu:englanti:ranska:portugali:espanja:malaiji:turkki:sauna, venäjä:сауна (sauna), yleiskiina:桑拿 (sāngná), japani:サウナ (sauna), korea:사우나 (sauna), hindi:सॉना (sonā), persia:urdu:(sonā), thai:ซาวน่า (saona)|
 |**saus**|kastike (soosi)|englanti:ranska:sauce, venäjä:соус (sous), hindi:सॉस (sos), deu:Soße, vietnami:xốt, japani:ソース (sōsu), thai:ซอส (soot), korea:소스 (soseu), malaiji:saus|
 |**sava**|tietää (tuntea)|ranska:savoir, espanja:portugali:saber, englanti:savvy|

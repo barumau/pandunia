@@ -138,6 +138,7 @@ bedinje - beringela
 beker - padeiro  
 bekofan - terracota  
 bel - pá  
+ben - filho ou filha  
 ber - baga  
 berande - sacada (varanda)  
 berje - bétula  
@@ -190,6 +191,9 @@ ceniki - velho (antigo)
 centaur - centáurea  
 cerize - cereja  
 cili\* - cápsico  
+cinbrusben - primo  
+cinmai - avó  
+cinpai - avô  
 cir - rasgar  
 cira - rasgar  
 circiri - esfarrapado  
@@ -328,7 +332,10 @@ Galia - Gália
 galaksia - galáxia  
 galte - erro (falta)  
 galti - errôneo  
-gamike - esposo ou esposa  
+gam - esposo ou esposa  
+gamben - enteado  
+gammai - sogra  
+gampai - sogro  
 gancau - feno  
 gantex - toalha  
 ganum - trigo  
@@ -659,9 +666,10 @@ mes - nós
 mafa - perdoar (desculpar)  
 magesem - magnésio  
 Magribia - Marrocos  
+mai - mãe  
 makanful - dente-de-leão (taráxaco)  
 malnomia - economia  
-mam - mãe  
+mam - seio (mama)  
 mangi - ocupado (atarefado)  
 manihayistia - maniqueísmo  
 manir - comportamento (conduta)  
@@ -792,6 +800,7 @@ paciste - pacifista
 padomosim - outono  
 pagre - turbante  
 pai - torta  
+pai - pai  
 pake - pacote  
 pandemi patia - pandemia  
 panmim - pantomima (mímica)  
@@ -799,7 +808,6 @@ pande - panda
 pang - pão  
 panir - queijo fresco  
 pante - calças  
-pape - pai  
 papai - mamão (papaia)  
 par - nivel  
 pari - igual (par)  
@@ -872,7 +880,6 @@ purbona - aperfeiçoar
 purfina - terminar (acabar, concluir)  
 purfityamiste - vegetalista  
 purxipa - ensopar (encharcar, marinar)  
-pute - filho ou filha  
 putavoranje - toranja  
 ####R - R  
 rang - cor  
@@ -1064,6 +1071,8 @@ Uran - Urano
 urse - urso  
 vulve - vulva  
 vute - item  
+vismai - madrasta  
+vispai - padrasto  
 ####X - X  
 xalke - escama  
 Xampan - Champagne  

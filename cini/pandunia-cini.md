@@ -663,10 +663,12 @@ me - 我
 mes - 我们  
 magesem - 镁  
 Magribia - 摩洛哥  
+mai - 妈妈  
+maimai - 外婆 (外祖母)  
+maipai - 外公 (外祖父)  
 makanful - 蒲公英  
 malu - 属于  
 malnomia - 经济学  
-mam - 妈妈  
 mangi - 忙  
 manihayistia - 摩尼教  
 manir - 方式  
@@ -789,11 +791,13 @@ paciste - 和平主义者
 pacistia - 和平主义  
 pagre - 包头  
 pai - 馅饼  
+pai - 爸爸  
+paimai - 奶奶 (祖母)  
+paipai - 爷爷 (祖父)  
 pandemi patia - 大流行病  
 panmim - 哑剧  
 pang - 面包  
 pante - 裤子  
-pape - 爸爸  
 papagai - 鹉鹦  
 papai - 木瓜  
 par - 水平  
@@ -1062,6 +1066,8 @@ ura - 好哇
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 veisirke - 纬度  
+vismai - 继母  
+vispai - 继父  
 ####X - X  
 xalke - 鳞  
 Xanghai - 上海  

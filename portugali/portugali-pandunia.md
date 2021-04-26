@@ -97,6 +97,8 @@ até - hata
 aveia - aven  
 aventura - ventur  
 aventureiro - venturer  
+avó - cinmai  
+avô - cinpai  
 azur (blau) - lazuri  
 azur - nili  
 açougueiro (talhante) - bucer  
@@ -358,6 +360,7 @@ ensinar (lecionar) - xulana
 ensino primário - bazoxulkan  
 ensino secundário - jungoxulkan  
 ensopar (encharcar, marinar) - purxipa  
+enteado - gamben  
 enterrar - gabra  
 enxada - cope  
 erro (falta) - galte  
@@ -380,7 +383,7 @@ espaço - kali harfe
 espirrar - acua  
 espodossolo - huidarte  
 esponja - esponje  
-esposo ou esposa - gamike  
+esposo ou esposa - gam  
 esquecer - anmema  
 esqueleto - ostojamia  
 esquerdo - lefte  
@@ -426,7 +429,7 @@ feliz - suki
 feno - gancau  
 fermentar - biumutu  
 fibra - linem  
-filho ou filha - pute  
+filho ou filha - ben  
 filosofia - filsofia  
 fiorde - fiorde  
 fisiculturismo - muskulbin  
@@ -607,6 +610,7 @@ lírio - susan
 lírio-do-vale - vadosusan  
 ####M - M  
 macroalga - hayalge  
+madrasta - vismai  
 magnésio - magesem  
 mais - max (maxo)  
 maldição - lan  
@@ -685,7 +689,7 @@ máquina de escrever - kitabomaxin
 mármore - kalsokristal  
 máscara - maske  
 máximo - maxime  
-mãe - mam  
+mãe - mai  
 mão - hande  
 mês - lun  
 mímico - mimer  
@@ -760,7 +764,8 @@ pacifista - paciste
 pacote - pake  
 pacto - kontrete  
 padeiro - beker  
-pai - pape  
+padrasto - vispai  
+pai - pai  
 painel - ban  
 palavra (vocábulo) - logem  
 palácio (mansão, palacete) - daidom  
@@ -842,6 +847,7 @@ praça - meden
 precioso - bavi  
 preferir - maxfila  
 preto - siyahi  
+primo - cinbrusben  
 problema - problem  
 professor (docente) - xulaner  
 profissão - peikar  
@@ -949,6 +955,7 @@ seda - silke
 sede - suiyau  
 segunda-feira - unyom  
 seguro - sekuri  
+seio (mama) - mam  
 seis (6) - sisi  
 selva (floresta, jângal) - jangle  
 sem - na  
@@ -970,6 +977,8 @@ simétrico - sammetri
 sino (campainha) - danger  
 situaçao - xeihal  
 sociedade - sosia  
+sogra - gammai  
+sogro - gampai  
 soja - soi  
 sol - sol  
 soldado - gunjan  

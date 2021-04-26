@@ -370,6 +370,8 @@ bel:|bel|||fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:ব�
 Belarus:|Belarus|dex|BY||Belarus||Belarús|||||||||||||Belorusio|Valkovenäjä|Białoruś
 Belg:ia|Belgia|dex|BE||Belgium||Bélgica|||||||||||||Belgio|Belgia|Belgia
 Beliz:e|Belize|dex|BZ||Belize||Belice|||||||||||||Beliceo|Belize|Belize
+ben:|ben|||ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
+ben.ben:|benben||||grandchild||||||||||||||||lapsenlapsi|
 benc:e|bence|||eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|bench||banco (silla)|||||||||||||benko|penkki|ławka
 bend:a|benda||||tie (fasten, bind)||atar (amarrar)|||||||||||||ligi|sitoa|związać, wiązać; zapiąć, zapinać
 bend:e|bende|||ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|band (tape, bandage)||banda (cinta)|||||||||||||bandaĝo (vindo)|nauha (side)|taśma; bandaż
@@ -458,6 +460,8 @@ brun:i|bruni|rang||fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown
 brun.alg:e|brunalge|biu|Phaeophyceae||brown algae|algues brunes|algas pardas||бурые водоросли|||褐藻||||||||||brunatnica
 brun.salmon:|brunsalmon|biu|Salmo trutta||brown trout|truite brune (truite de mer)|trucha marrón|truta-marrom|кумжа||褐鳟|ブラウントラウト|||||trout coklat|||||pstrąg potokowy
 Brunei:|Brunei|dex|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
+brus:|brus||||sibling (brother or sister)||hermano o hermana|||||||||||||frato aŭ fratino|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
+brus.ben:|brusben||||nephew or niece||||||||||||||||sisaruksen lapsi|
 buc:a|buca||||butcher|abattre|carnear (matar)|abater||||||||||||buĉi|teurastaa (lahdata)|
 buc.er:|bucer|||eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ)|butcher|boucher|carnicero|açougueiro (talhante)|мясник|جَزَّار‎|屠夫|肉屋|푸주한|người hàng thịt|क़साई (बूचड़)||tukang daging|||buĉisto|teurastaja|
 buc.o.kan:|bucokan|||fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)|abattoir (slaughterhouse)|abattoir|matadero|matadouro|бойня||屠宰场|屠畜場|도살장|lò mổ|बूचड़खाना (कसाईखाना)|কসাইখানা|||mezbaha|buĉejo|teurastamo|
@@ -550,7 +554,14 @@ Cil:e|Cile|dex|CL||Chile||Chile|||||||||||||Ĉilio|Chile|Chile
 cili:|cili*|||eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|pepper (capsicum)|piment|chile|cápsico|перец (паприка)||菜椒||||मिर्च||cabai (lada, cili)||||paprika|papryka
 cili.fun:|cilifun||||paprika||||||辣椒粉|パプリカ|||||||||paprikajauhe|papryka
 cimpanz:e|cimpanze|biu||eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|chimpanzee||chimpancé|||||||||||||ĉimpanzo|simpanssi|szympans
+cin:|cin|||zho:親 (qīn), yue:親 (can), wuu:親 (qin), jpn:親 (sin), kor:친 (chin)|parent (mother or father)||parente (madre o padre)||||||||||||||vanhempi (isä tai äiti)|rodzic (matka lub ojciec)
 cin:i|cini|||hin:चीनी (cīnī), tur:Çin, ara:(ṣiniy), spa:chino, eng:Chinese, tha:จีน (chin), zho:秦 (qín)|Han Chinese||chinés (de los Han)||хань||汉族|||||||||hana|han-kiinalainen|han chiński
+cin.brus.ben:|cinbrusben||||cousin|cousin|primo|primo||||||||||binamu||kuzo|serkku|kuzyn
+cin.cin:|cincin||||grandparent||||||||||||||||isovanhempi|
+cin.gam:|cingam||||step-parent|||||||||||||||||
+cin.gam.ben:|cingamben||||step-sibling||||||||||||||||sisaruspuoli|
+cin.mai:|cinmai||||grandmother|grand-mère|abuela|avó|бабушка|جَدَّة‎||お婆さん||||||||avino|isoäiti|babcia (babka)
+cin.pai:|cinpai||||grandfather|grand-père|abuelo|avô|дедушка|جَدّ‎||||||||||avo|isoisä|dziadek (dziad)
 cincil:|cincil|biu||eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)|chinchilla||chinchilla|||||||||||||ĉinĉilo|chinchilla|szynszyla
 cing:|cing||||request (petition)||||||||||||||||pyyntö|
 cing:a|cinga|||zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|ask (request, beg, plead; please)||pedir (invitar; por favor)||просить||请|請う (ーて下さい)||||||||peti (bonvolu)|pyytää (anoa)|prosić
@@ -1085,10 +1096,14 @@ galt:a|galta||||make a mistake||errar (cometer un error)||||||||ग़लत क
 galt:e|galte|||ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|mistake (error, fault, blunder, bug)|faute (erreur)|error|erro (falta)|||错误|間違い (誤り, バグ)|||ग़लती (भूल)||||yanlışlık (galat, erör)|eraro (miso)|virhe (erhe)|błąd (pomyłka)
 galt:i|galti||||wrong (incorrect, erroneous, faulty)|erroné|erróneo|errôneo|||||||ग़लत||||yanlış|erara|väärä (virheellinen)|błędny (niepoprawny)
 galt:o bud:a|galto buda||||misunderstand||malinterpretar||||||||ग़लत समझना||||||ymmärtää väärin|źle zrozumieć
+gam:|gam|||eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (gamiya)|spouse (husband or wife)|époux|esposo o esposa|esposo ou esposa|||||||||||||puoliso (aviomies tai -vaimo)|małżonek (małżonka)
 gam:a|gama||||marry||casar|||||||||||||edzigi|naida (mennä naimisiin)|ożenić się, poślubić, wyjść za mąż
-gam:i|gami|||eng:married, fra:marié, spa:por:marido|married||casado||||||||||||||naimisissa|ożeniony, zamężny, w związku małżeńskim
+gam:i|gami||||married||casado||||||||||||||naimisissa|ożeniony, zamężny, w związku małżeńskim
 gam:ia|gamia||||marriage (matrimony)|mariage|casamiento|||||||||||||geedzeco|avioliitto|małżeństwo, związek małżeński
-gam.ik:e|gamike||||spouse (husband or wife)|époux|esposo o esposa|esposo ou esposa|||||||||||||puoliso (aviomies tai -vaimo)|małżonek (małżonka)
+gam.ben:|gamben||||step-child||hijastro o  hijastra|enteado||||連れ子||||||||||
+gam.cin:|gamcin||||parent-in-law||||||||||||||||appivanhempi|
+gam.mai:|gammai||||mother-in-law|belle-mère|suegra|sogra||||||||||||bopatrino|anoppi|
+gam.pai:|gampai||||father-in-law|beau-père|suegro|sogro||||||||||||bopatro|appi|
 Gamb:ia|Gambia|dex|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
 gamel:|gamel|biu||ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia|camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
 gan:a|gana||||dry out||secar||||||||||||||kuivata (kuivattaa)|suszyć (wysuszyć)
@@ -1560,7 +1575,6 @@ jen:i|jeni||||raw (crude)||crudo||сырой||生的|生 (未熟)||||||||||surow
 jen:i bax:|jeni bax||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
 jen:u|jenu||||be born||nacer|||||||||||||naski|syntyä|urodzić się, rodzić się
 jen.den:|jenden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
-jen.er:|jener||||parent (mother or father)||parente (madre o padre)||||||||||||||vanhempi (isä tai äiti)|rodzic (matka lub ojciec)
 jen.grup:e|jengrupe||||generation (cohort)||generación (cohorte)||поколение|||||||||||||pokolenie (generacja)
 jen.it:a|jenita||||breed|élever|criar||выращивать|||湧かす||||||||||rozmnażać
 jen.klas:|jenklas||||caste||casta||||||||||||||sääty (kasti)|kasta
@@ -2024,8 +2038,6 @@ lau:|lau||||elder||viejo (anciano)|||||||||||||||starzec
 Lau:|Lau|dex|LA||Laos||Laos||||||||||||||Laos|Laos
 lau:i|lavi|||zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão|old (aged, elderly)|vieux (âgé, ancien)|viejo (anciano)|idoso|пожилой||老 (老年, 年歲大)|年配||già (lão)||||||||stary (sędziwy, wiekowy)
 lau:i|lavi||||Lao (Laotian)||laosiano||||||||||||||laoslainen|laotański
-lau.mam:|laumam||||grandmother||abuela|||||||||||||||babcia (babka)
-lau.pap:e|laupape||||grandfather||abluelo|||||||||||||||dziadek (dziad)
 laurens.em:|laurensem|mate|Lr||lawrencium||laurencio|||||||||||||laŭrencio|lawrensium|lorens
 lax:|lax||||leftover (residue, vestige)||vestigio (sobrante, residuo)||||||||||||||jäte (hylkytavara)|pozostałość (szczątek)
 lax:a|laxa|||fra:laisser,lâcher, ita:lasciare, deu:lassen|leave behind (abandon, let go)|laisser|dejar|deixar|||落 (留下)|残す|||||||||jättää (hylätä)|pozostawiać (pozostawić)
@@ -2160,6 +2172,9 @@ mag.er:|mager||||magician (sorcerer)||mago||||||||||||||taikuri|magik, czarownik
 mages.em:|magesem|mate|Mg||magnesium|magnésium|magnesio|magnésio|магний||镁|マグネシウム|마그네슘|magiê|भ्राजातु|ম্যাগনেসিয়াম|magnesium|magnesi|magnezyum|magnezio|magnesium|magnez
 Magiar:ia|Magyaria|dex|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 Magrib:ia|Magribia|dex|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
+mai:|mai|||por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
+mai.mai:|maimai||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
+mai.pai:|maipai||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
 maian:|mayan||||Maya||maya|||||||||||||majao|maya (mayaintiaani)|Maya
 Maiot:e|Mayote|dex|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 mais:|mais|||eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|corn (maize)||maíz||||||||||||||maissi|kukurydza
@@ -2187,7 +2202,7 @@ Mali:|Mali|dex|ML||Mali||Mali|||||||||||||Malio|Mali|Mali
 malik:e|malike|||kan:(mallige), tam:(mallikai), tel:(malla), may:melati,  kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì)|jasmine||jazmín|||||||||||||jasmeno|jasmiini|jaśmin
 Malta:|Malta|dex|MT||Malta||Malta||||||||||||||Malta|Malta
 Maluinas: nes:ia|Malvinas nesia|dex|FK||Falkland Islands (Malvinas)||Islas Malvinas||||||||||||||Falklandin saaret|Falklandy, Malwiny
-mam:|mam|||spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
+mam:|mam|||eng:mamma, fra:mamelle, spa:por:mama, tur:meme|breast (boob, tit)|sein|seno (teta)|seio (mama)|||||||||payudara|titi|meme|mamo|nisä (tissi)|
 mamal:|mamal|biu|Mammalia|eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia|mammal||mamífero||||||||||||||nisäkäs|ssak
 man:|man|||eng:man, deu:Mann, hin:मानुस (mānus), ben:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), mar:माणूस (māṇūs), tam:மனிதன் (maṉitaṉ) + zho:男 (nán), jpn:男 (nan)|male||masculino (macho)|||||男||||||||viro|uros (mies)|męski
 man:i put:e|mani pute||||son||hijo||||||||||||||poika|syn
@@ -2668,6 +2683,9 @@ pad.o.mosim:|padomosim|mosim|||autumn (fall)|automne|otoño|outono||||||||||||a�
 pad.o.mun:|padomun||||trapdoor||trampilla||лаз|||落とし戸||||||||||klapa
 pagr:e|pagre|||hin:mar:पगड़ी (pagṛī), urd:(pagṛī), ben:পাগড়ি (pagri)|turban|turban|turbante|turbante|чалма||包头||||पगड़ी|পাগড়ি|||||turbaani|turban
 pai:|pai|||eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|pie (pastry)|tarte|pastel (pay)|torta|пирог||馅饼||||||kue pai||turta|torto|piirakka (piiras)|placek, ciasto
+pai:|pai|||por:pai + zho:爸 (bà)  + eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
+pai.mai:|paimai||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
+pai.pai:|paipai||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
 pak:a|paka||||pack||embalar (llevar)||||||||||||||pakata|zapakować, pakować
 pak:e|pake|||eng:pack, rus:пакет (paket), hin:पैकेट (pækeṭ), deu:tur:paket, fra:paquet, spa:paquete, por:pacote|pack (package)|paquet|paquete|pacote|пакет||||||पैकेट||||paket|pako|pakkaus (paketti)|paczka, paka
 Pakistan:|Pakistan|dex|||Pakistan||Pakistán||||||||||||||Pakistan|Pakistan
@@ -2704,7 +2722,6 @@ panir:|panir|||hin:पनीर (panīr), pnb:ਪਨੀਰ (panīr), ben:পন�
 panjab:i|panjabi|nas|||Punjabi||punjabí||||||||||||||pandžabi (eräs intialainen kieli)|pendżabski
 pank:e|panke|||hin:पंखा (paṅkhā), urd:(pankhā), mya:ပန်ကာ (panka), fas:(panke), + eng:punkah, fra:panka, deu:Pankha|fan (ventilator)||ventilador|||||||||||||ventumilo|viuhka (tuuletin)|wiatrak (wentylator)
 pant:e|pante|||eng:pants, hin:पैंट (paiṇṭ), ben:প্যান্ট (pyanṭ), spa:pantalón, fra:pantalon, ara:بنطلون‎ (banṭalōn), tur:pantolon|pants (trousers)|pantalon|pantalones|calças|брюки|بنطلون‎|裤子|ズボン|바지|quần|पैंट|প্যান্ট|celana (seluar)|pantolon (şalvar)|suruali|pantalonoj|housut|spodnie (pantalony, portki)
-pap:e|pape|||eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
 papagai:|papagai|biu|Psittaciformes|ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)|parrot (parakeet)|perroquet|loro (papagayo)||попугай||鹉鹦|||||||||papago|papukaija|papuga
 papai:|papai|biu||eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), hin:पपीता (papītā), ben:পেঁপে (pẽpe)|papaya|papaye|papaya|mamão (papaia)|папайя||木瓜|パパイヤ|파파야|đu đủ|पपीता|পেঁপে|pepaya (betik)|papai|papaya|papajo|papaija|papaja
 papir:|papir|||deu:Papier, eng:paper, spa:por:papel, fra:pol:papier|document (paper)||artículo (documento)|||||||||||||||dokument
@@ -2942,7 +2959,6 @@ pur.fin:a|purfina||||complete (make done)|accomplir (terminer)|completar (termin
 pur.fit.iam.ist:e|purfityamiste||||vegan||vegano|vegetalista|веган||纯素食主义者|絶対菜食主義者 (ヴィーガン)|비건||||vegan||||vegaani|weganin (weganka)
 pur.fit.iam.ist:ia|purfityamistia||||veganism||veganismo|||||ヴィーガニズム|비거니즘||वीगनवाद||||veganlık|||
 pur.xip:a|purxipa||||soak (steep, marinate)|tremper (faire mariner)|remojar (marinar, encurtir, macerar)|ensopar (encharcar, marinar)|мариновать||浸泡|漬ける (締める)|||भिगोना|||||||namoczyć (marynować)
-put:e|pute|||tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
 putau:|putau|biu||zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào|grape||uva|||||||||||||vinbero|viinirypäle|winogrono
 putau.oranj:e|putavoranje|biu|Citrus × paradisi|eng:grapefruit, zho:葡萄柚|grapefruit|pamplemousse|pomelo (toronja)|toranja|грейпфрут||葡萄柚|グレープフルーツ|||चकोतरा||limau gedang|||||grejpfrut
 Putong: Cin:i|Putong Cini||||Mandarin Chinese (Putonghua)||chino mandarín|||||||||||||mandarinĉina|yleiskiina (mandariinikiina)|mandaryński chiński, Putonghua
@@ -3201,7 +3217,6 @@ sau.uol:i|sauvoli||||interested (curious)||interesado (curioso)||любопыт�
 sau.uol:u|sauvolu||||wonder (be interested in, would like to know)||preguntarse||задуматься (думать, гадать)|||訝る (-かしら)||||||||||
 sau.uol.an:i|sauvolani||||interesting (curious)||interesante (curioso)||интере́сный||有趣|面白い||||||||interesa||interesujący
 Saud:i Arab:ia|Saudi Arabia|dex|SA||Saudi Arabia||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska
-saudar:|saudar|||may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|sibling (brother or sister)||hermano o hermana|||||||||||||frato aŭ fratino|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 sauna:|sauna*|||fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|sauna||sauna|||||||||||||saŭno|sauna|sauna
 saus:|saus|||eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|sauce|sauce|salsa||соус|||ソース|소스|xốt|सॉस||saus|||saŭco|kastike (soosi)|sos
 sekret.er:|sekreter|||eng:secretary, spa:secretario, por:secretário, fra:secrétaire, deu:Sekretär, rus:секретарь (sekretar’), tur:sekreter, fas:سکرتر‎ (sekreter)|secretary||secretario||||||||||||||sihteeri|sekretarz
@@ -3745,6 +3760,8 @@ uz.er.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkowni
 Uzbek:ia|Uzbekia|dex|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
 vei.sirk:e|veisirke||||latitude||latitud||||纬度|緯度|위도|vĩ độ|||||||leveyspiiri|południk
 vin.suan:|vinsuan||||vinegar||vinagre|||||||||||||vinagro|etikka|ocet
+vis.mai:|vismai||||step-mother||madrastra|madrasta|мачеха||继母|継母|계모|mẹ kế|सौतेली माँ|||||vicpatrino|äitipuoli (isän puoliso)|
+vis.pai:|vispai||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
 X|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 xak:e|xake|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 xakal:|xakal|biu||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal

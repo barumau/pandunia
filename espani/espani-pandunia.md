@@ -11,14 +11,14 @@ abirse - kayu
 Abisinia - Habaxia  
 abisinio - habaxi  
 abjazia - Apsni  
-abluelo - laupape  
 abono orgánico (compost) - biucaniver  
 aborigen - aslaustrali  
 abrepuño - solcentaur  
 abrigo (chaqueta) - kote  
 abril - carlun  
 abrir - kaya  
-abuela - laumam  
+abuela - cinmai  
+abuelo - cinpai  
 aburrido - bori  
 aburrimiento - boria  
 acacia de copa plana - helisbabul  
@@ -1256,7 +1256,7 @@ esperar - denga
 espicificar (estipular) - xarta  
 espiral (hélice) - helis  
 esponja - esponje  
-esposo o esposa - gamike  
+esposo o esposa - gam  
 espárrago - lusun  
 esqueleto (armazón) - ostojamia  
 esquina (rincón, ángulo) - gon  
@@ -1588,7 +1588,7 @@ helicóptero - helisviman
 helio - helem  
 heno - gancau  
 hercio (Hz) - herze  
-hermano o hermana - saudar  
+hermano o hermana - brus  
 hermoso (bello, lindo) - sundari  
 herramienta - tul  
 herrero - metaljanger  
@@ -1606,8 +1606,9 @@ hierbabuena - zongominte
 hierro - fer  
 higiene - hijenia  
 hija - femi pute  
+hijastro o  hijastra - gamben  
 hijo - mani pute  
-hijo o hija - pute  
+hijo o hija - ben  
 Himalaya - Himalia  
 hinduismo - hindistia  
 hindú - hindiste  
@@ -1998,7 +1999,8 @@ macrial (militar) - jengi
 macroalga - hayalge  
 Madagascar - Malagasia  
 madera - mokomate  
-madre (mamá) - mam  
+madrastra - vismai  
+madre (mamá) - mai  
 maduro (adulto, curado) - maturi  
 maestro (experto) - mester  
 maestro (gurú, profesor) - guru\*  
@@ -2449,7 +2451,8 @@ oír (escuchar) - auda
 paciente - patike  
 pacifismo - pacistia  
 pacifista - paciste  
-padre (papá) - pape  
+padrastro - vispai  
+padre (papá) - pai  
 pagano (infiel) - kafir  
 pago - pei  
 Pakistán - Pakistan  
@@ -2502,7 +2505,7 @@ parasol - barxocate
 parasol - solcate  
 parecer - rupu  
 parecerse a - samu  
-parente (madre o padre) - jener  
+parente (madre o padre) - cin  
 paria - parai  
 parque - parke  
 parte (fracción) - fen  
@@ -2730,6 +2733,7 @@ primavera - fulmosim
 primer (inicial, inaugural) - xuri  
 primer ministro - xefi minister  
 primero (numbre uno) - unodi  
+primo - cinbrusben  
 principal - xefi  
 prisión - prizon  
 proactinio - protacinem  
@@ -3058,6 +3062,7 @@ semilla - sem
 seminal - semi  
 sencillo (liso) - sadi  
 Senegal - Senegal  
+seno (teta) - mam  
 sentar - sida  
 sentarse - sidu  
 sentido - sense  
@@ -3160,6 +3165,8 @@ Sudáfrica - Sudafrike
 Sudán - Sudan  
 Sudán del Sur - Sudi Sudan  
 Suecia - Suenia  
+suegra - gammai  
+suegro - gampai  
 sueño - som  
 sufijo - badofikse  
 sufijo para adjetivos - -i  
