@@ -37,6 +37,7 @@ ainstainem - Einsteinium
 air - air  
 airbaria - pression atmosphérique  
 airbarmetrer - baromètre  
+airbivi - aérobique  
 airgun - armée de l'ai  
 airporte - aéroport  
 Aire - Irland  
@@ -99,6 +100,7 @@ amirer - émir
 amirlin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
+anairbivi - anaérobique  
 anama - exécrer  
 anamike - ennemi  
 andeviste - athée  
@@ -357,7 +359,6 @@ danger - cloche
 danko da - grâce à  
 danse - dance  
 danta - mordre  
-dartube - entonnoir  
 darjomute - développement  
 date - données  
 datobanke - base de données  
@@ -429,6 +430,17 @@ euloge - éloge
 Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
+ex - extérieur  
+exyam - piquenique  
+exkava - excaver  
+exklusa - exclure  
+exklusivi - exclusif  
+explanete - exoplanète  
+exploze - explosion  
+explozu - exploser (détoner)  
+expoza - exposer  
+extrata - extraire  
+exvidi - évident  
 ####F - F  
 fan - boue (fange, bourbe, gadoue)  
 fandefban - garde-boue (aile)  
@@ -571,8 +583,8 @@ hiyar - concombre
 hijabe - voile  
 hijenia - hygiène  
 him - neige  
+Hinde riu - Indus  
 Hindia - Hindustan  
-Hindonade - Indus  
 hisaba - calculer  
 hisabolojia - mathématiques  
 hoga - brûler  
@@ -605,8 +617,13 @@ yavan - nécessaire
 yauxina - fier  
 Yesus - Jésus  
 inan - conteneur  
+inklusa - inclure  
+inkluso - y compris  
+inklusivi - inclusif  
 inmigra - immigrer  
 inmigran - immigrant  
+inploze - implosion  
+inplozu - imploser  
 insida - s’accroupir  
 insan - être humain  
 insani hake - droits de l'homme  
@@ -736,7 +753,7 @@ klimmute - changement climatique
 komputer - ordinateur  
 konkara - collaborer  
 konseler - consultant (conseiller)  
-kontrate - convention (alliance, pacte)  
+kontrete - convention (alliance, pacte)  
 koncung - insecte  
 konserte - concert  
 kope - copie  
@@ -931,7 +948,6 @@ muskulbin - culturisme (musculation)
 muzike - musique  
 ####N - N  
 no - non (ne...pas)  
-nade - rivière (fleuve)  
 najis - pollution  
 namkitaba - signer  
 narde - backgammon  
@@ -1117,6 +1133,8 @@ ringar - ring (manège)
 ris - riz  
 risvin - vin de riz  
 ritim - rhythme  
+riu - rivière (fleuve)  
+riutube - entonnoir  
 robote - robot  
 roketolancer - Lance-roquettes  
 Roma - Rome  
@@ -1244,6 +1262,7 @@ telvide - téléviseur
 tem - sujet (thème)  
 temnam - titre  
 ten - ciel  
+tensi - tendu  
 tepe - ruban (bande)  
 terci - oblique (de travers)  
 teroristia - terrorisme  
@@ -1260,8 +1279,9 @@ toca - toucher
 toksolojia - toxicologie  
 tomate - tomate  
 topograf - topographie  
-tova - traîner  
-trate - contract (traité)  
+trata - traîner  
+trater - tracteur  
+trete - contract (traité)  
 truka - escroquer  
 truke - ruse  
 Tunisia - Tunisie  
@@ -1272,8 +1292,6 @@ vade - vallée (oued)
 vaf - chien  
 vagin - vagine  
 vaginitis - vaginite  
-vai - fuera (exterior)  
-vaiyam - piquenique  
 val - valeur  
 vala - évaluer  
 vampir - vampire  

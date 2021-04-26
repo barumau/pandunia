@@ -35,6 +35,7 @@ ainstainem - einsteinium
 air - aire  
 airbaria - presión atmosférica  
 airbarmetrer - barómetro  
+airbivi - aeróbico  
 airgun - fuerza aérea  
 airporte - aeropuerto  
 Aire - Irlanda  
@@ -101,6 +102,7 @@ amirer - emir
 amirlin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
+anairbivi - anaeróbico  
 anama - detestar  
 andaka - destapar  
 andeviste - ateo  
@@ -567,12 +569,6 @@ dante - diente
 dantobalute - roble daimyo  
 dantobrox - cepillo de dientes  
 dantomediker - dentista (odontólogo)  
-daru - fluir  
-darmate - líquido  
-darmati - líquido (fluido)  
-dartube - embudo  
-darunia - fusión  
-darunu - fusionar (fundir)  
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
 darjomute - desarrollo  
@@ -803,6 +799,24 @@ europi - europeo
 Europi Unia - Unión Europea  
 europem - europio  
 europobalute - roble común  
+ex - fuera (exterior)  
+exa - expulsar (exceptuar, excepto)  
+exi - exterior  
+exdex - país extranjero  
+exdexi - extranjero  
+exyam - jira (pícnic)  
+exkava - excavar  
+exklusa - excluir  
+exklusivi - exclusivo  
+exmisa - exportar  
+exnam - exónimo  
+exojeni - exógeno  
+explanete - exoplaneta (planeta extrasolar)  
+exploze - explosión  
+explozu - explosionar  
+expoza - exponer (revelar)  
+extrata - extraer  
+exvidi - evidente  
 ####F - F  
 fada - suministrar (dar, proveer, emitir)  
 faidi - útil (beneficioso)  
@@ -1205,11 +1219,11 @@ him - nieve
 himu - nevar  
 himros - escarcha  
 Himalia - Himalaya  
+Hinde riu - Indo  
 Hindia - Indostán  
 hindem - indium  
 hindiste - hindú  
 hindistia - hinduismo  
-Hindonade - Indo  
 hisaba - calcular  
 hisabia - aritmética (cálculos)  
 hisabolojia - matemática  
@@ -1313,11 +1327,16 @@ indi - interior (interno)
 inan - contenedor  
 inite - contenido  
 injeni - innato (endógeno)  
+inklusa - incluir  
+inkluso - incluido  
+inklusivi - inclusivo  
 inliste - índice de contenidos  
 inmigra - inmigrar  
 inmigran - inmigrante  
 inmisa - importar  
 innam - endónimo  
+inploze - implosión  
+inplozu - implosionar  
 insida - agacharse  
 Indonesia - Indonesia  
 insan - ser humano  
@@ -1689,7 +1708,7 @@ konpaxia - compasión
 konsau - información  
 konsavana - comunicar (informar)  
 konseler - consultor  
-kontrate - convenion (pacto)  
+kontrete - convenion (pacto)  
 Konakri Ginia - Guinea  
 koncung - insecto  
 kong - agujero (hueco)  
@@ -2225,7 +2244,6 @@ na - sin
 no - no  
 nabe - profecía  
 naber - profeta  
-nade - rio  
 nafas - respiración  
 nagre - pueblo  
 nagri - urbano  
@@ -2769,6 +2787,13 @@ riski - arriesgado
 rite - costumbre (tradición, convención)  
 riti - traditional (convencional)  
 ritim - ritmo  
+riu - rio  
+rivu - fluir  
+riumate - líquido  
+riumati - líquido (fluido)  
+riutube - embudo  
+rivunia - fusión  
+rivunu - fusionar (fundir)  
 robote - robot (bot)  
 rodem - rodio  
 rokete - cohete (misil)  
@@ -3195,6 +3220,7 @@ tennili - celeste (azul celeste)
 Tenesi - Tennessee  
 tenesiem - teneso  
 tenis - tennis  
+tensi - tenso  
 tenta - tentar (seducir)  
 teoria - teoría  
 tepe - cinta adhesiva  
@@ -3229,8 +3255,8 @@ tira - tirar
 tira milke - ordeñar  
 tira pil - quitar (pelar)  
 tirbaton - palanca  
-tirdar - corriente de resaca  
 tirlonga - estirar (extender)  
+tiroriu - corriente de resaca  
 tirsanduke - cajón (gaveta)  
 titanem - titanio  
 tixi - nueve (9)  
@@ -3250,14 +3276,15 @@ topograf - topografía
 torem - torio  
 torse - torso  
 tortuge - tortuga  
-tova - arrastrar  
 transa - transitar (atravesar)  
 transe - tránsito  
 transeria - transporte  
 transogoni - diagonal  
-trate - contrato (tratado)  
+trata - arrastrar  
+trater - tractor  
 tren - tren  
 trendau - vía férrea  
+trete - contrato (tratado)  
 tribe - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
 truka - engañar  
@@ -3289,14 +3316,6 @@ vadosusan - convalaria (lirio de los valles)
 vaf - perro  
 vagin - vagina  
 vaginitis - vaginitis  
-vai - exterior  
-vaya - expulsar (exceptuar, excepto)  
-vayi - exterior  
-vaidex - país extranjero  
-vaidexi - extranjero  
-vaiyam - jira (pícnic)  
-vaimisa - exportar  
-vainam - exónimo  
 vakila - representar  
 vaksin - vacuna  
 val - valor  

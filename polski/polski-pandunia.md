@@ -344,8 +344,8 @@ ciało - bode
 ciało stałe - gatomate  
 cichy - xuxi  
 ciecierzyca - humus  
-ciecz (płyn) - darmate  
-ciekły (płynny) - darmati  
+ciecz (płyn) - riumate  
+ciekły (płynny) - riumati  
 cielesny - bodi  
 ciemny, słabo oświetlony - oskuri  
 ciepły - garmi  
@@ -577,14 +577,15 @@ echo - mirsonde
 efekt halo - fotosirke  
 egipski - misri  
 Egipt - Misria  
-egzonim - vainam  
+egzonim - exnam  
+egzoplaneta - explanete  
 einstein - ainstainem  
 ekologia (nauka o środowisku) - ekolojia  
 ekonomia - malnomia  
 ekran - ekran  
 ekskrement, gówno - kake  
 eksplodować (wybuchnąć, wybuchać) - bumu  
-eksportować (wyeksportować) - vaimisa  
+eksportować (wyeksportować) - exmisa  
 Ekwador - Ekuador  
 elastyczny - lasti  
 elegancki, szykowny - xiki  
@@ -675,7 +676,7 @@ fu, fuj - fui
 funkcja, stanowisko - funcu  
 funkcjonariusz, urzędnik - ofiser  
 funt (£) - paunde  
-fuzja (amalgamowanie, łączenie) - darunia  
+fuzja (amalgamowanie, łączenie) - rivunia  
 fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerni darunia  
 ####G - G  
 Gabon - Gabon  
@@ -889,6 +890,8 @@ imperializm - imperistia
 imperium - imperia  
 Imperium Osmańskie - Osmani Imperia  
 Imperium Rzymskie - Roma Imperia  
+implodować - inplozu  
+implozja - inploze  
 importować (zaimportować) - inmisa  
 ind - hindem  
 indiański - aslameriki  
@@ -1283,13 +1286,13 @@ las wodorostów - algojangle
 las, dżungla, zagajnik - jangle  
 latarnia - hogosanduke  
 latarnia morska - fotominar  
-latać (fruwać) - daru  
+latać (fruwać) - rivu  
 latać, lecieć - feyu  
 lato - garmomosim  
 laudacja - euloge  
 lawa - yongopetre  
 lazania - lazanye  
-lejek - dartube  
+lejek - riutube  
 lekcja - xul  
 lekki - legi  
 lepić (kleić) - gluta  
@@ -1894,7 +1897,7 @@ padać (lać) - barxu
 pająk - aran  
 pajęczyna - arannete  
 Pakistan - Pakistan  
-pakt (kontrakt, ugoda, umowa, konwencja) - kontrate  
+pakt (kontrakt, ugoda, umowa, konwencja) - kontrete  
 Palau - Palau  
 palec - angul  
 pallad - paladem  
@@ -1992,7 +1995,7 @@ pierścień - ring
 pierścień, pierścionek; obrączka - angulring  
 pies - vaf  
 pień - mokotan  
-piknik - vaiyam  
+piknik - exyam  
 pilaw - polau  
 pilot - piloter  
 pingwin - pinguin  
@@ -2132,7 +2135,7 @@ porno, film erotyczny - porne
 pornografia - pornografia  
 porost - algofung  
 porozumienie - samrayia  
-porozumienie - trate  
+porozumienie - trete  
 port - porte  
 port morski (przystań) - haiporte  
 Portoryko (Puerto Rico) - Portorikia  
@@ -2318,7 +2321,7 @@ przyrostek dla wykonawcy - er
 przystojny, atrakcyjny, ładny - bonvidi  
 przyszłość - vil  
 przysłówek - modologe  
-prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tirdar  
+prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tiroriu  
 prędkościomierz - rapidometrer  
 prędkość (szybkość) - rapidia  
 pręt, kij - baton  
@@ -2500,7 +2503,7 @@ rzadki (rozrzedzony, rozproszony) - anjami
 rzadkość - raria  
 rzecz - xei  
 rzeczownik - namloge  
-rzeka - nade  
+rzeka - riu  
 rzemieślnik - janger  
 rzeźba - eskulte  
 rzeźbiarstwo - eskultia  
@@ -2928,6 +2931,7 @@ tor - torem
 torba, wór, worek, torba, sakwa - sake  
 tost - rosti pang  
 towarzysz (partner, kumpel) - latojan  
+traktor (ciągnik) - trater  
 transport - transeria  
 trawa - cau  
 trawa mor - haicau  
@@ -3223,6 +3227,7 @@ wybrać, wybierać, selekcjonować - cuza
 wybrzeże (brzeg, krawędź) - tate  
 wybrzeże (plaża) - haitate  
 Wybrzeże Kości Słowniowej - Kote Da Ivar  
+wybuch (eksplozja) - exploze  
 wybuch - bum  
 wybór, elekcja, selekcja - cuze  
 wycie, skowyt - ulul  
@@ -3248,7 +3253,7 @@ wynik (punktacja) - puntonumbe
 wyobrazić, wyobrażać, fantazjować - fantaza  
 wypełnić, wypełniać - pura  
 wyrok - jude  
-wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - vaya  
+wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - exa  
 wyrzutek - parai  
 wyrzutnia rakietowa - roketolancer  
 wysoki - gavi  
@@ -3318,8 +3323,8 @@ zachwyt (zdumienie) - ajabia
 zachód - veste  
 zaczyna (zacząć, rozpoczynać, rozpocząć) - xuru  
 zacząć, zaczynać - xura  
-zagranica - vaidex  
-zagraniczny - vaidexi  
+zagranica - exdex  
+zagraniczny - exdexi  
 zagrożenie, niebezpieczeństwo - hatre  
 zaimek - visloge  
 zainteresowanie, zaciekawienie; interesujący - sauvol  
@@ -3411,9 +3416,9 @@ zejść (schodzić, zstąpić, zstępować) - aneskala
 zemleć (mleć, mielić) - mola  
 zero, nic, żaden - nol (noli)  
 zespół (drużyna, grupa) - bande  
-zewnętrzny - vayi  
+zewnętrzny - exi  
 zgniły - pudi  
-zgodzić się (umówić się) - trata  
+zgodzić się (umówić się) - treta  
 ziarno (nasienie) - sem  
 ziarno, nasienie - semdan  
 zielenina - coi  
@@ -3471,7 +3476,7 @@ zwykły, zwyczajny, prosty - sadi
 zygzag - zigzage  
 zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  
-zęwnętrzny - vai  
+zęwnętrzny - ex  
 złamanie lini - linparce  
 złapać, łapać, schwytać, chwytać - kapa  
 złocień indyjski - neftoguke  
@@ -3505,7 +3510,7 @@ zły, zrujnowany, zepsuty - harabi
 łza - okosui  
 łódź, statek - nau  
 łóżko - bede  
-łączyć (złączyć) - darunu  
+łączyć (złączyć) - rivunu  
 łączyć, wiązać, złączyć - linka  
 łąka - cautopia  
 Święta Helena - Santi Helena  

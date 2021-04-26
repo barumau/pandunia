@@ -39,6 +39,7 @@ ainstainem - einsteinium
 air - air  
 airbaria - atmospheric pressure  
 airbarmetrer - barometer  
+airbivi - aerobic  
 airgun - airforce  
 airporte - airport (aeroport)  
 Aire - Ireland  
@@ -109,6 +110,7 @@ amirhake - authority (power to give orders)
 amirlin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
+anairbivi - anaerobic  
 anama - dislike (loathe)  
 anamike - enemy  
 anativa - deactivate (disable, turn off)  
@@ -587,13 +589,13 @@ dayia - size
 dayu - grow (get bigger)  
 dayanjiler - ambassador  
 dayanjilkan - embassy  
-daidar - torrent  
 daidarja - amplify (scale)  
 daidom - palace (mansion)  
 daihai - ocean  
 dailasun - giant onion  
 daipau - gun (cannon)  
 daipaver - cannoneer  
+dairiu - torrent  
 daisite - big city  
 daivaze - cauldron  
 daixeke - boulder  
@@ -618,13 +620,6 @@ dante - tooth
 dantobalute - daimyo oak  
 dantobrox - tooth brush  
 dantomediker - dentist  
-dar - flow (current, stream)  
-daru - flow  
-darmate - liquid  
-darmati - fluid (liquid)  
-dartube - funnel  
-darunia - fusion (amalgamation)  
-darunu - merge (fuse)  
 darba - strike (punch)  
 darje - step (degree, rank, grade, level, class)  
 darji - gradual  
@@ -879,6 +874,26 @@ Europi Unia - European Union (EU)
 europem - europium  
 europobalute - English oak  
 Europa - Europa  
+ex - outside (exterior)  
+exa - oust (expel, exclude, except, save)  
+exi - outer (external)  
+exdex - foreign country  
+exdexi - foreign  
+exyam - picnic  
+exkava - excavate (dig out)  
+exklusa - exclude (keep out)  
+exklusivi - exclusive  
+exmisa - export  
+exnam - exonym  
+exojan - outsider  
+exojeni - exogenous  
+explanete - exoplanet  
+exploze - explosion  
+explozu - explode  
+expoza - expose (reveal)  
+extensa - extend (stretch out)  
+extrata - extract (draw out)  
+exvidi - evident (apparent, obvious)  
 ####F - F  
 fada - supply (dispense, issue, put out)  
 faide - resource (utility, asset)  
@@ -1316,12 +1331,12 @@ him - snow
 himu - snow (be snowing)  
 himros - frost  
 Himalia - Himalayas  
+Hinde riu - Indus river  
 hindi - Hindi (Hindustani)  
 Hindia - Hindustan  
 hindem - indium  
 hindiste - Hindu  
 hindistia - Hinduism  
-Hindonade - Indus river  
 Hiperyon - Hyperion  
 hisaba - calculate  
 hisabe - calculation  
@@ -1436,11 +1451,16 @@ indi - inner (internal)
 inan - container  
 inite - content  
 injeni - innate (endogenous, indigenous, inborn)  
+inklusa - include (enclose, hold in)  
+inkluso - including  
+inklusivi - inclusive  
 inliste - table of contents (inventory)  
 inmigra - immigrate (move in)  
 inmigran - immigrant  
 inmisa - import  
 innam - endonym  
+inploze - implosion  
+inplozu - implode (collapse)  
 inpuxa - squeeze (squish)  
 insida - crouch (squat)  
 Indonesia - Indonesia  
@@ -1809,6 +1829,7 @@ klon - clone (replica)
 klona - clone (replicate)  
 klorem - chlorine  
 klube - club  
+klusa - close (shut)  
 kobalte - cobalt  
 koda - encode (encrypt)  
 kode - code (cipher)  
@@ -1851,7 +1872,7 @@ konsau - information (communicable knowledge)
 konsavana - communicate (inform about)  
 konsela - give consultation  
 konseler - counselor (consultant)  
-kontrate - pact (contract, covenant, alliance)  
+kontrete - pact (contract, covenant, alliance)  
 Konakri Ginia - Guinea  
 koncung - insect  
 kong - hole  
@@ -2430,7 +2451,6 @@ ne - none
 no - not (no)  
 nabe - prophecy  
 naber - prophet  
-nade - river (stream)  
 nafas - breath  
 nagre - town  
 nagri - urban  
@@ -3011,6 +3031,14 @@ riski - risky
 rite - custom (tradition, practice, convention)  
 riti - conventional (customary, traditional)  
 ritim - rhythm (beat)  
+riu - flow (current, stream)  
+riu - river (stream)  
+rivu - flow  
+riumate - liquid  
+riumati - fluid (liquid)  
+riutube - funnel  
+rivunia - fusion (amalgamation)  
+rivunu - merge (fuse)  
 robote - robot (bot)  
 rodem - rhodium  
 rokete - rocket  
@@ -3453,6 +3481,8 @@ tennili - light blue (sky blue, azure)
 Tenesi - Tennessee  
 tenesiem - tennessine  
 tenis - tennis  
+tensi - tight (tense)  
+tensia - tension  
 tenta - tempt (entice)  
 teoria - theory  
 tepe - tape  
@@ -3489,8 +3519,8 @@ tira - pull (draw, drag)
 tira milke - milk (draw milk)  
 tira pil - strip (peel)  
 tirbaton - lever  
-tirdar - rip current  
 tirlonga - stretch (extend)  
+tiroriu - rip current  
 tirsanduke - drawer  
 Titan - Titan  
 Titania - Titania  
@@ -3513,16 +3543,17 @@ topograf - topography
 torem - thorium  
 torse - trunk (torso)  
 tortuge - turtle (tortoise)  
-tova - drag (haul, tow, trail)  
 transa - transit (pass through or across)  
 transe - transit (passage)  
 transeria - transportation  
 transogoni - diagonal  
-trata - agree (make an agreement)  
-trate - agreement (treaty)  
+trata - drag (haul, tow, trail)  
+trater - tractor  
 tren - train  
 trendau - rail (railway, railroad)  
 trenkaper - train hijacker  
+treta - agree (make an agreement)  
+trete - agreement (treaty)  
 tribe - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
@@ -3558,15 +3589,6 @@ vadosusan - lily of the valley
 vaf - dog  
 vagin - vagina  
 vaginitis - vaginitis  
-vai - extérieur  
-vaya - oust (expel, exclude, except, save)  
-vayi - outer (external)  
-vaidex - foreign country  
-vaidexi - foreign  
-vaiyam - picnic  
-vaijan - outsider  
-vaimisa - export  
-vainam - exonym  
 vakil - representative (proxy, agent)  
 vakila - represent  
 vaksin - vaccine  

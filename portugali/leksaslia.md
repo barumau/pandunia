@@ -140,6 +140,8 @@
 |**eskulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**esponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
 |**estan**|estanho|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|**ex**|exterior|eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|
+|**exploze**|explosão|eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|
 |**fan**|lama (lodo)|fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|
 |**fas**|face (faceta)|eng:fra:por:face, spa:faz, deu:Facette|
 |**fasili**|fácil|eng:facility, spa:por:fácil, fra:facile|
@@ -364,7 +366,6 @@
 |**mul**|raíz|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
 |**mur**|muro (muralha)|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**muzike**|música|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
-|**nade**|rio|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |**najis**|poluição|ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|
 |**narde**|gamão|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
 |**nasia**|nação|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
@@ -448,6 +449,7 @@
 |**ring**|anel|eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|
 |**ris**|arroz|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |**ritim**|ritmo|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
+|**riu**|rio|spa:por:rio, eng:river, fra:rivière|
 |**robote**|robô|eng:fra:spa:tur:may:robot, por:robô, rus:робот (robot), ara:رُوبُوت‎ (rōbōt), fas:روبات‎ (rōbât), hin:रोबोट (rōbōṭ), tam:ரோபோ (rōpō), jpn:ロボット (robotto), kor:로봇 (robot)|
 |**roze**|rosa|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |**sahi**|correto (justo)|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
@@ -498,13 +500,14 @@
 |**te**|tu|fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|
 |**tehne**|técnica|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |**ten**|céu|zho:天 (tiān), yue:天 (tin1), wuu:天 (thi1), jpn:天 (ten), kor:천 (cheon), vie:thiên|
+|**tensi**|tenso|eng:tense, fra:tendu, spa:por:tenso|
 |**terci**|oblíquo (torto)|spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)|
 |**teste**|teste|eng:fra:test, rus: тест (test), por:teste, tur:test|
 |**tikete**|bilhete|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
 |**tixi**|nove (9)|ara:تِسْعَة (tisʿa), heb:תשע  (tésha), swa:tisa|
 |**tomate**|tomate|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
-|**tova**|arrastar|eng:tow, zho:拖 (tuō)|
-|**trate**|acordo (tratado, contrato)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
+|**trater**|trator|eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|
+|**trete**|acordo (tratado, contrato)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
 |**truke**|truque (fraude)|eng:trick, deu:Trick, fra:truc, spa:truco, por:truque, hun:trükk, rus:трюк (tr’uk)|
 |**turba**|molestar (perturber)|eng:disturb, fra:perturber, spa:por:perturbar|
 |**tuze**|coelho (lebre)|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|

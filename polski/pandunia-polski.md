@@ -566,12 +566,6 @@ dante - ząb
 dantobalute - dąb zębaty  
 dantobrox - szczoteczka do zębów  
 dantomediker - dentysta  
-daru - latać (fruwać)  
-darmate - ciecz (płyn)  
-darmati - ciekły (płynny)  
-dartube - lejek  
-darunia - fuzja (amalgamowanie, łączenie)  
-darunu - łączyć (złączyć)  
 darba - bić, uderzyć, uderzać  
 darje - stopień, poziom, ranga, klasa  
 darji - stopniowy  
@@ -801,6 +795,16 @@ europi - europejski
 Europi Unia - Unia Europejska (EU)  
 europem - europ  
 europobalute - dąb szypułkowy  
+ex - zęwnętrzny  
+exa - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
+exi - zewnętrzny  
+exdex - zagranica  
+exdexi - zagraniczny  
+exyam - piknik  
+exmisa - eksportować (wyeksportować)  
+exnam - egzonim  
+explanete - egzoplaneta  
+exploze - wybuch (eksplozja)  
 ####F - F  
 fada - dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
 faide - zasób  
@@ -1302,6 +1306,8 @@ injeni - wewnętrzny
 inliste - spis treści (tabela zawartości)  
 inmisa - importować (zaimportować)  
 innam - endonim  
+inploze - implozja  
+inplozu - implodować  
 inpuxa - ścisnąć (sciskać, wycisnąć)  
 insida - kucać (kucnąć)  
 Indonesia - Indonezja  
@@ -1679,7 +1685,7 @@ konfuncabli - kompatybilny (pasujący)
 konkara - współpracować (kolaborować)  
 konsau - informacja  
 konsavana - poinformować, informować, zakomunikować, komunikować  
-kontrate - pakt (kontrakt, ugoda, umowa, konwencja)  
+kontrete - pakt (kontrakt, ugoda, umowa, konwencja)  
 Konakri Ginia - Gwinea  
 koncung - owad  
 kong - dziura  
@@ -2230,7 +2236,6 @@ na lin - offline (nie na linii, poza siecią)
 no - nie  
 nabe - proroctwo  
 naber - prorok  
-nade - rzeka  
 nafas - oddech  
 nagre - miasto  
 nagri - miejski  
@@ -2765,6 +2770,13 @@ riski - ryzykowny
 rite - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 riti - konwencjonalny, zwyczajowy, tradycyjny  
 ritim - rytm, bit  
+riu - rzeka  
+rivu - latać (fruwać)  
+riumate - ciecz (płyn)  
+riumati - ciekły (płynny)  
+riutube - lejek  
+rivunia - fuzja (amalgamowanie, łączenie)  
+rivunu - łączyć (złączyć)  
 robote - robot  
 rodem - rod  
 rokete - rakieta  
@@ -3222,8 +3234,8 @@ tira - ciągnąć
 tira milke - wydoić, doić  
 tira pil - obrać (obierać)  
 tirbaton - dźwignia  
-tirdar - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirlonga - rozciągać (rozciągnąć)  
+tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirsanduke - szuflada  
 titanem - tytan  
 tixi - dziewięć (9)  
@@ -3246,11 +3258,12 @@ transa - przejść, przechodzić, przejechać, przejeżdżać
 transe - przejazd, przewóz, tranzyt  
 transeria - transport  
 transogoni - przekątny  
-trata - zgodzić się (umówić się)  
-trate - porozumienie  
+trater - traktor (ciągnik)  
 tren - pociąg  
 trendau - kolej  
 trenkaper - porywacz pociągu  
+treta - zgodzić się (umówić się)  
+trete - porozumienie  
 tribe - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
 truka - oszukać (oszukiwać  
@@ -3282,14 +3295,6 @@ vadosusan - konwalia majowa
 vaf - pies  
 vagin - wagina  
 vaginitis - zapalenie pochwy  
-vai - zęwnętrzny  
-vaya - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
-vayi - zewnętrzny  
-vaidex - zagranica  
-vaidexi - zagraniczny  
-vaiyam - piknik  
-vaimisa - eksportować (wyeksportować)  
-vainam - egzonim  
 vakil - reprezentant (przedstawiciel)  
 vakila - reprezentować  
 vaksin - szczepionka  

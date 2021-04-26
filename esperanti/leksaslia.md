@@ -234,6 +234,8 @@
 |**eurasia**|Eŭrazio|angla:hispana:malaja:Eurasia, portugala:Eurásia, franca:Eurasie, rusa:Евразия (Evraziya), turka:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), araba:يُورَاسِيَا‎ (yūrāsiyā), hindia:यूरेशिया (yūreśiyā), bengala:ইউরেশিয়া (iureśiẏa), mandarena:歐亞大陸 (Ōuyà dàlù), japana:ユーラシア (yūrashiya)|
 |**eureka**|trovi|greka:ευρίσκω (evrísko), angla:hispana:eureka, portugala:eureca, franca:eurêka, rusa:эврика (evrika), turka:efreka, japana:ユーレカ (yūreka)|
 |**Europe**|Eŭropo|angla:franca:Europe, hispana:portugala:deu:polona:Europa, greka:Ευρώπη (Evrópi) rusa:Европа (Evropa), turka:Avrupa, svahila:Uropa, hindia:यूरोप (yūrop), malaja:Eropah, mandarena:歐洲 (Ōuzhōu), japana:ヨーロッパ (yōroppa)|
+|**ex**|ekstero|angla:franca:hispana:ex-, portugala:ex- (es-), rusa:экзо- (ekzo-), malaja:eks-|
+|**exploze**|eksplodo|angla:franca:explosion, hispana:explosión, portugala:exploção, rusa:имплозия (imploziya), malaja:eksplosi|
 |**faidia**|utileco|araba:(fāʾida), turka:fayda, svahila:faida, hindia:फ़ायदा (fāyadā), malaja:faedah|
 |**faini**|fajna|angla:fine, hispana:portugala:fino, franca:fin|
 |**famil**|familio|angla:family, hispana:familia, portugala:família, franca:famille|
@@ -603,7 +605,6 @@
 |**muta**|aliigi|hispana:mudar, angla:mutate, franca:muter|
 |**mux**|muso|polona:mysz, rusa:мышь (myś), persa:(muš)|
 |**muzike**|muziko|angla:music, franca:musique, hispana:portugala:música, rusa:музика (muzika), araba:(mūsīqā), svahila:muziki, turka:müzik, malaja:musik|
-|**nade**|rivero|hindia:marataja:नदी (nadī) (nadī), urdua:(nadī), bengala:নদী (nôdī), panĝaba:ਨਦੀ (nadī), guĝarata:નદી (nadī), kanara:ನದಿ (nadi), teluga:నది (nadi), tamila:நதி (nati)|
 |**nafas**|spiro|araba:persa:(nafas), malaja:napas, turka:nefes, haŭsa:numfashi|
 |**nagre**|urbo|hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), kanara:ನಗರ (nagara), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon)|
 |**nam**|nomo|hindia:नाम (nām), persa:panĝaba:urdua:(nām), taja:นาม (naam), malaja:nama, deu:angla:name, japana:名前 (namae), franca:nom|
@@ -713,6 +714,7 @@
 |**ris**|rizo|tamila:அரிசி (arisi), araba:(ʾaruzz), hispana:portugala:arroz, oroma:ruuzii, franca:riz, rusa:рис (ris), angla:rice, deu:Reis|
 |**riske**|risko|franca:risque, angla:turka:risk, portugala:risco, rusa:риск (risk), japana:リスク (ja) (risuku), deu:malaja:risiko|
 |**ritim**|ritmo|turka:ritim, angla:rhythm, franca:rhythme, hispana:portugala:ritmo, rusa:ритм (ritm), korea:리듬 (rideum), malaja:ritme|
+|**riu**|rivero|hispana:portugala:rio, angla:river, franca:rivière|
 |**robote**|roboto|angla:franca:hispana:turka:malaja:robot, portugala:robô, rusa:робот (robot), araba:رُوبُوت‎ (rōbōt), persa:روبات‎ (rōbât), hindia:रोबोट (rōbōṭ), tamila:ரோபோ (rōpō), japana:ロボット (robotto), korea:로봇 (robot)|
 |**ros**|roso|franca:rosée, hispana:rocío, rusa:роса (rosa)|
 |**roze**|rozo|franca:angla:rose, hispana:portugala:rosa, rusa:роза (roza), persa:(roz, gol-e sorx), filipina:rosas|
@@ -807,7 +809,7 @@
 |**tomate**|tomato|angla:tomato, portugala:hispana:tomate, rusa:томат (tomat), malaja:tomat, hindia:टमाटर (ṭamāṭar)|
 |**ton**|tono|angla:tone, svahila:kitone, rusa:тон (ton), deu:Ton, hispana:tono|
 |**torse**|torso|franca:torse, rusa:торс (tors), deu:angla:hispana:malaja:torso|
-|**tova**|treni|angla:tow, mandarena:拖 (tuō)|
+|**trater**|traktoro|angla:hispana:tractor, franca:tracteur, portugala:trator, rusa:трактор (traktor), araba: تَرَاكْتُور‎ (tarāktūr), japana:トラクター (torakutā), korea:트랙타 (teuraekta), hindia:ट्रैक्टर (ṭraikṭar), bengala:ট্র্যাক্টর (ṭrækṭôr), malaja:traktor, svahila:trekta, turka:traktör|
 |**tren**|trajno (vagonaro)|angla:franca:train, hispana:turka:tren, hindia:ट्रेन (ṭren), portugala:trem|
 |**tribe**|tribo|franca:hispana:tribu, portugala:filipina:tribo, angla:tribe|
 |**tube**|tubo|hispana:portugala:tubo, angla:franca:tube, japana:チューブ (chūbu), zulua:ithumbu|
@@ -826,7 +828,6 @@
 |**vade**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|
 |**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
 |**vagin**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
-|**vai**|ekstero|outside (exterior)|
 |**val**|valoro|angla:value, hispana:portugala:valor, franca:valeur|
 |**van**|amuzo|mandarena:玩 (wán), kantona:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|
 |**vas**|oazo|araba:(wāḥa), turka:vaha, persa:(vāhe), angla:franca:hispana:portugala:oasis, rusa:оазис (oazis), deu:Oase, japana:オアシス (oashisu), korea:오아시스 (oasiseu)|

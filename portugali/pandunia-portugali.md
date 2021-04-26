@@ -14,6 +14,7 @@ agres - ataque
 agreser - agressor  
 ai - ai!  
 air - ar  
+airbivi - aeróbico  
 airgun - força aérea  
 airporte - aeroporto  
 aisu - gelar  
@@ -40,6 +41,7 @@ ami - querido (caro)
 amater - amador  
 amer - amante  
 amike - querido  
+anairbivi - anaeróbico  
 andiniste - infiel  
 anmema - esquecer  
 ansomia - insônia  
@@ -208,7 +210,6 @@ danger - sino (campainha)
 danko da - graças a  
 danse - baile (danza)  
 danta - morder  
-dartube - funil  
 darjomute - desenvolvimento  
 date - dados  
 datobanke - banco de dados  
@@ -265,6 +266,18 @@ estibem - antimônio
 evanjil - evangelho  
 euloge - elogio  
 europobalute - carvalho-roble  
+ex - exterior  
+exyam - piquenique  
+exkava - escavar  
+exklusa - excluir  
+exklusivi - exclusivo  
+exojeni - exógeno  
+explanete - exoplaneta (planeta extrassolar)  
+exploze - explosão  
+explozu - explodir  
+expoza - expor (revelar)  
+extrata - extrair  
+exvidi - evidente  
 ####F - F  
 fan - lama (lodo)  
 fandefban - para-lama  
@@ -384,7 +397,7 @@ hiyar - pepino
 hijabe - véu  
 hijenia - higiene  
 him - neve  
-Hindonade - Indo  
+Hinde riu - Indo  
 hisaba - calcular  
 hisabolojia - matemática  
 hoga - queimar  
@@ -416,8 +429,13 @@ yavu - necessitar
 yavan - necessário  
 yauxina - confiar (contar com)  
 inan - contêiner  
+inklusa - incluir  
+inkluso - incluindo  
+inklusivi - inclusivo  
 inmigra - imigrar  
 inmigran - imigrante  
+inploze - imploção  
+inplozu - implodir  
 insida - agacharse  
 insan - ser humano  
 insani hake - direitos humanos  
@@ -536,7 +554,7 @@ komputer - computador
 konboni - combinar com  
 konkara - colaborar  
 konseler - consultor  
-kontrate - pacto  
+kontrete - pacto  
 koncung - inseto  
 konserte - concerto  
 kope - cópia  
@@ -722,7 +740,6 @@ muzike - música
 ####N - N  
 na - sem  
 no - não  
-nade - rio  
 najis - poluição  
 namkitaba - assinar  
 narde - gamão  
@@ -880,6 +897,8 @@ ring - anel
 ringar - ringue  
 ris - arroz  
 ritim - ritmo  
+riu - rio  
+riutube - funil  
 robote - robô  
 roketolancer - lançador de foguetes  
 Roma - Roma  
@@ -982,6 +1001,7 @@ telfona - telefonar
 telfonia - telefonia  
 temnam - título  
 ten - céu  
+tensi - tenso  
 terci - oblíquo (torto)  
 testa - tentar (provar)  
 teste - teste  
@@ -993,8 +1013,9 @@ tixi - nove (9)
 toksolojia - toxicologia  
 tomate - tomate  
 topograf - topografia  
-tova - arrastar  
-trate - acordo (tratado, contrato)  
+trata - arrastar  
+trater - trator  
+trete - acordo (tratado, contrato)  
 truka - enganar  
 truke - truque (fraude)  
 turba - molestar (perturber)  
@@ -1005,7 +1026,6 @@ vadosusan - lírio-do-vale
 vaf - cão (cachorro)  
 vagin - vagina  
 vaginitis - vaginite  
-vaiyam - piquenique  
 val - valor (valia)  
 vala - valorar  
 valu - valer  

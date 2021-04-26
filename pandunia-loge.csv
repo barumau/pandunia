@@ -40,6 +40,7 @@ ainstain.em:|ainstainem|mate|Es||einsteinium|Einsteinium|einsteinium||||||||||||
 air:|air|||eng:fra:spa:air, por:ar, rus:аэро- (aero-)|air|air|aire|ar|воздух|هوا‎|空气|空気|공기|không khí|हवा (वायु)|বায়ু|udara (hawa)|hewa|hava|aero|ilma|powietrze
 air.bar:ia|airbaria||||atmospheric pressure|pression atmosphérique|presión atmosférica||||||||||||||ilmanpaine|ciśnienie atmosferyczne
 air.bar.metr.er:|airbarmetrer||||barometer|baromètre|barómetro||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
+air.biu:i|airbivi||||aerobic|aérobique|aeróbico|aeróbico|аэробный|||好気性|||||||||aerobinen|
 air.gun:|airgun||||airforce|armée de l'ai|fuerza aérea|força aérea|военно-воздушные силы||空军|空軍|공군|không quân|वायु सेना||angkatan udara||hava kuvetleri|aerarmeo|ilmavoimat|siły powietrzne
 air.port:e|airporte||||airport (aeroport)|aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|lotnisko (port lotniczy)
 Aire:|Aire|dex|IE||Ireland|Irland|Irlanda||||||||||||||Irlanti|Irlandia
@@ -111,6 +112,7 @@ amir.lin:|amirlin||||command line (console, terminal)|ligne de commande (console
 amper:|amper|unomete|A||ampere (amp)|ampère|amperio|||||||||||||ampero|ampeeri|amper
 ampul:|ampul|||fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|ampoule (vial)|ampoule (fiole)|ampolla (vial)||||||||||||||ampulli|ampułka
 an.:i|ani|||ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|reverse (negative, un-)|inverse (négatif, in-)||||||||||||||mala|vastakohtainen (negatiivinen, epä-)|negatywny (przeciwny, nie)
+an.air.biu:i|anairbivi||||anaerobic|anaérobique|anaeróbico|anaeróbico|||厌氧的|嫌気性|||||||||anaerobinen|
 an.am:a|anama||||dislike (loathe)|exécrer|detestar|||||||||||||malami|inhota|
 an.am.ik:e|anamike||||enemy|ennemi||||||||||||||malamulo|inhokki (inhotus)|
 an.at.iu:a|anativa||||deactivate (disable, turn off)||||||||||||||||poistaa toiminnasta|deaktywować (wyłączyć, zatrzymać)
@@ -590,13 +592,13 @@ dai:ia|dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
 dai:u|dayu||||grow (get bigger)||crecer (aumentar)||||||||||||||kasvaa (suurentua)|urosnąć, rosnąć, wzrosnąć, wzrastać
 dai.anjil.er:|dayanjiler||||ambassador||embajador|||||||||||||ambasadoro|lähettiläs|ambasador
 dai.anjil.kan:|dayanjilkan||||embassy||embajada|||||||||||||ambasado|lähetystö|ambasada
-dai.dar:|daidar||||torrent||||||||||||||||hyöky (vyöry)|
 dai.darj:a|daidarja||||amplify (scale)||||||||||||||||korottaa|wzmacniać (wzmocnić)
 dai.dom:|daidom||||palace (mansion)|palais (château, manoir)|palacio (mansión)|palácio (mansão, palacete)|дворец (особняк)|قَصْر‎|殿 (宫殿, 宅第)|宮殿 (邸宅)|궁 (궁전)|cung điện|महल|প্রাসাদ|istana|kasri|saray|palaco|palatsi|pałac
 dai.hai:|daihai|||zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|ocean|océan|océano|oceano|океан||大洋 (大海)|大洋 (大海)|대양|đại dương|महासागर|মহাসমুদ্র|samudra (lautan)|bahari|okyanus|oceano|valtameri|ocean
 dai.lasun:|dailasun|biu|Allium giganteum||giant onion||||лук исполинский|||||||||||||czosnek olbrzymi
 dai.pau:|daipau||||gun (cannon)|canon|cañón|canhǎo|пушка||大炮|大砲|대포|đại pháo|तोप|তোপ|meriam|mzinga|top|kanono|tykki|działo
 dai.pau.er:|daipaver||||cannoneer||cañonear|||||||||||||kanonisto|tykkimies|kanonier
+dai.riu:|dairiu||||torrent||||||||||||||||hyöky (vyöry)|
 dai.sit:e|daisite||||big city|||||||||||||||urbego|suurkaupunki|
 dai.uaz:e|daivaze||||cauldron|chaudron|caldero||котёл||炼药锅|大釜 (大鍋)||||||||||kocioł
 dai.xek:e|daixeke||||boulder|rocher|peñasco (pedrusco)|pedregulho|валун||磐石|大石||||||||ŝtonego|lohkare (järkäle)|głaz
@@ -621,14 +623,6 @@ dant:e|dante|||spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (d�
 dant.o.balut:e|dantobalute|biu|Quercus dentata||daimyo oak||roble daimyo||дуб зубчатый||槲树|カシワ||||||||||dąb zębaty
 dant.o.brox:|dantobrox||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
 dant.o.medik.er:|dantomediker||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
-dar:|dar|||hin:धारा (dhārā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), hin:दर्या (daryā), ben:দরিয়া (dôriẏa), tur:derya|flow (current, stream)||||||||||धारा||||||virta (virtaus)|
-dar:ia|daria||||||||||||||दर्या||||||virta (suuri vesi, yms)|
-dar:u|daru||||flow||fluir||||||||||||||virrata|latać (fruwać)
-dar.mat:e|darmate||||liquid||líquido||||||||||||||neste|ciecz (płyn)
-dar.mat:i|darmati||||fluid (liquid)||líquido (fluido)||||||||||||||nestemäinen|ciekły (płynny)
-dar.tub:e|dartube||||funnel|entonnoir|embudo|funil|воронка||漏斗|漏斗|||||||||lappo|lejek
-dar.un:ia|darunia||||fusion (amalgamation)||fusión||||||||||||||fuusio (yhteensulautuminen)|fuzja (amalgamowanie, łączenie)
-dar.un:u|darunu||||merge (fuse)||fusionar (fundir)||||||||||||||sulaa yhteen (fuusioitua)|łączyć (złączyć)
 darb:a|darba|||ara:ضرب‎ (ḍaraba), swa:dhurubu, fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|strike (punch)||golpear (pegar)|||||||||||kupiga (kudhurubu)||bati|lyödä (iskeä)|bić, uderzyć, uderzać
 darj:e|darje|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|step (degree, rank, grade, level, class)||paso (grado, nivel, rango, calidad, categoría)||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
 darj:i|darji||||gradual||||||||||||||||asteittainen (porrastettu)|stopniowy
@@ -883,6 +877,26 @@ Europ:i Un:ia|Europi Unia||||European Union (EU)||Unión Europea|||||||||||||Eŭ
 europ.em:|europem|mate|Eu||europium||europio|||||||||||||eŭropio|europium|europ
 europ.o.balut:e|europobalute|biu|Quercus robur||English oak|chêne pédonculé|roble común|carvalho-roble|дуб черешчатый||夏櫟|ヨーロッパナラ||||||||||dąb szypułkowy
 Europa:|Europa|planete 5 lun 2|||Europa||||||||||||||||Europa-kuu|
+ex:|ex|||eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|outside (exterior)|extérieur|fuera (exterior)|exterior|вне||外|外|||बाहरी||luar (pinggir, tepi)|nje|dış|ekstero|ulkopuoli|zęwnętrzny
+ex:a|exa||||oust (expel, exclude, except, save)||expulsar (exceptuar, excepto)||выгнать (исключить, кроме)|||追出 (退ける, 除いて)||||||||krom (escepti)|poistaa (paitsi, poislukien)|wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)
+ex:i|exi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
+ex.dex:|exdex||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
+ex.dex:i|exdexi||||foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
+ex.iam:|exyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
+ex.kau:a|exkava||||excavate (dig out)|excaver|excavar|escavar|||||||||||||kaivaa esiin|
+ex.klus:a|exklusa||||exclude (keep out)|exclure|excluir|excluir|исключить|||||||||||ekskludi|sulkea pois|
+ex.klus.iv:i|exklusivi||||exclusive|exclusif|exclusivo|exclusivo|исключительный (эксклюзивный)||||||||||||poissulkeva (eksklusiivinen)|
+ex.mis:a|exmisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
+ex.nam:|exnam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
+ex.o.jan:|exojan||||outsider||||посторонний (аутсайдер)||外人 (局外人)|部外者 (アウトサイダー)|||||||||ulkopuolinen|
+ex.o.jen:i|exojeni||||exogenous||exógeno|exógeno|экзогенный||||||||||||ulkosyntyinen|
+ex.planet:e|explanete||||exoplanet|exoplanète|exoplaneta (planeta extrasolar)|exoplaneta (planeta extrassolar)|экзопланета (внесолнечная планета)||系外行星|系外惑星|외계 행성|ngoại hành tinh|||||güneş dışı gezegen|ekzoplanedo|eksoplaneetta|egzoplaneta
+ex.ploz:e|exploze|||eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|explosion|explosion|explosión|explosão|взрыв||爆炸|爆発|폭발|nổ|विस्फोट|বিস্ফোরণ||ledakan (letupan, eksplosi)|patlama|eksplodo|räjähdys|wybuch (eksplozja)
+ex.ploz:u|explozu||||explode|exploser (détoner)|explosionar|explodir|взрываться|||||||||||eksplodi|räjähtää|
+ex.poz:a|expoza||||expose (reveal)|exposer|exponer (revelar)|expor (revelar)|||||||||||||ottaa esiin (paljastaa)|
+ex.tens:a|extensa||||extend (stretch out)||||||||||||||||venyttää (pingottaa)|
+ex.trat:a|extrata||||extract (draw out)|extraire|extraer|extrair|извлекать||||||||||||vetää ulos|
+ex.vid:i|exvidi||||evident (apparent, obvious)|évident|evidente|evidente|очевидный||||||||||bariz|evidenta|ilmeinen (silminnähtävä)|
 F|F||||F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F
 fad:a|fada|||zho:发 (fā), yue:發 (faat3), wuu:發 (faq4), jpn:発 (hatsu), vie:phát|supply (dispense, issue, put out)||suministrar (dar, proveer, emitir)||||||||||||||jakaa (jaella)|dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)
 faid:e|faide||||resource (utility, asset)||||||||||||||||hyöty (etu)|zasób
@@ -1321,12 +1335,12 @@ him:|him|||hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himam
 him:u|himu||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
 him.ros:|himros||||frost||escarcha|||||||||||||frosto|kuura|szron
 Himal:ia|Himalia||||Himalayas||Himalaya|||||||||||||Himalajo|Himalaja|Himalaje
+Hind:e riu:|Hinde riu||||Indus river|Indus|Indo|Indo|Инд|نَهْر الْسِنْد‎|印度河|インダス川|||सिन्धु (सिन्ध नदी)|সিন্ধু|||Ind|Induso|Indusjoki|
 hind:i|hindi||||Hindi (Hindustani)||||||||||हिंदी (हिंदुस्तानी)|হিন্দি|||||hindin kieli|
 Hind:ia|Hindia||||Hindustan|Hindustan|Indostán||Индостан||印度斯坦||||हिंदुस्तान|হিন্দুস্তান|||||Hindustan|
 hind.em:|hindem|mate|In||indium||indium|||||||||||||indio|indium|ind
 hind.ist:e|hindiste||||Hindu||hindú|||||||||||||hinduo|hindu|hinduistyczny
 hind.ist:ia|hindistia||||Hinduism||hinduismo|||||||||||||hinduismo|hindulaisuus (hinduismi)|hinduizm
-Hind.o.nad:e|Hindonade||||Indus river|Indus|Indo|Indo|Инд|نَهْر الْسِنْد‎|印度河|インダス川|||सिन्धु (सिन्ध नदी)|সিন্ধু|||Ind|Induso|Indusjoki|
 Hiperion:|Hiperyon|planete 6 lun 7|||Hyperion|||||||||||||||||
 hisab:a|hisaba||||calculate|calculer|calcular|calcular|вычислять|حَسَبَ|计算|計算する|계산하다|||||||kalkuli|laskea (tehdä laskutoimitus)|kalkulować
 hisab:e|hisabe|||ara: حِسَاب‎ (ḥisāb), tur:hesap, orm:hisaaba, swa:hisabu, hin:हिसाब (hisāb), ben:হিসাব (hiśab)|calculation|||||حِسَاب‎|||||हिसाब|হিসাব||hisabu|hesap|kalkulo|lasku (laskelma)|
@@ -1441,11 +1455,16 @@ in:i|indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäi
 in.an:|inan||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
 in.it:e|inite||||content||contenido||||||||||||||sisältö|treść (zawartość)
 in.jen:i|injeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
+in.klus:a|inklusa||||include (enclose, hold in)|inclure|incluir|incluir|включить||包括||||||||||sisällyttää (sulkea sisäänsä)|
+in.klus:o|inkluso||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
+in.klus.iv:i|inklusivi||||inclusive|inclusif|inclusivo|inclusivo|||||||||||||kattava|
 in.list:e|inliste||||table of contents (inventory)||índice de contenidos||||||||||||||sisällysluettelo|spis treści (tabela zawartości)
 in.migr:a|inmigra||||immigrate (move in)|immigrer|inmigrar|imigrar|иммигрировать||移民 (移居)|移住する (移民する)||nhập cư|||||||muuttaa maahan|
 in.migr.an:|inmigran||||immigrant|immigrant|inmigrante|imigrante|иммигрант||移民者|移民 (移住者)||dân nhập cư|||||||maahanmuuttaja|
 in.mis:a|inmisa||||import||importar|||||||||||||||importować (zaimportować)
 in.nam:|innam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
+in.ploz:e|inploze||||implosion|implosion|implosión|imploção|имплозия||内爆||||||||||luhistuminen|implozja
+in.ploz:u|inplozu||||implode (collapse)|imploser|implosionar|implodir|взрываться вовнутрь||||||||||||luhistua (sortua sisään)|implodować
 in.pux:a|inpuxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
 in.sid:a|insida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
 Indones:ia|Indonesia|dex|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
@@ -1815,6 +1834,7 @@ klon:|klon|||en:por:fra:clone, spa:clon rus:клон (klon), may:klon, jpn:ク�
 klon:a|klona||||clone (replicate)||clon|||||||||||||kloni|kloonata (monistaa)|klonować, repilikować
 klor.em:|klorem|mate|Cl||chlorine||cloro|||||||||||||kloro|kloori|chlor
 klub:e|klube|||eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|club||club|||||||||||||klubo|kerho (klubi)|klub
+klus:a|klusa|||eng:fra:spa:por:-clus-, rus:ключить (-klyučítʹ)|close (shut)||||||||||||||||sulkea|
 kobalt:e|kobalte|mate|Co||cobalt||cobalto|||||||||||||kobalto|kobaltti|kobalt
 kod:a|koda||||encode (encrypt)||codificar (cifrar)||||||||||||||koodata|kodować
 kod:e|kode|||eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|code (cipher)||código (cifra)|||||||||||||kodo|koodi|kod, szyfr
@@ -1857,7 +1877,7 @@ kon.sau:|konsau||||information (communicable knowledge)||información|||||||||||
 kon.sau.an:a|konsavana||||communicate (inform about)||comunicar (informar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 kon.sel:a|konsela||||give consultation||||||||||||||||konsultoida (antaa neuvoja)|
 kon.sel.er:|konseler||||counselor (consultant)|consultant (conseiller)|consultor|consultor|консультант (советник)||顾问|顧問|||||||||konsultti|
-kon.trat:e|kontrate||||pact (contract, covenant, alliance)|convention (alliance, pacte)|convenion (pacto)|pacto|контракт||公約||||||||||liittosopimus|pakt (kontrakt, ugoda, umowa, konwencja)
+kon.tret:e|kontrete||||pact (contract, covenant, alliance)|convention (alliance, pacte)|convenion (pacto)|pacto|контракт||公約||||||||||liittosopimus|pakt (kontrakt, ugoda, umowa, konwencja)
 Konakr:i Gin:ia|Konakri Ginia|dex|GN||Guinea||Guinea||||||||||||||Guinea|Gwinea
 koncung:|koncung|biu|Insecta|zho:昆蟲 (kūnchóng), yue:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), jpn:昆蟲 (konchū)|insect|insecte|insecto|inseto|насекомое||昆虫|昆虫|곤충|sâu bọ (côn trùng)|कीड़ा||serangga|mdudu|böcek||hyönteinen (ötökkä)|owad
 kong:|kong|||zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng|hole||agujero (hueco)||||||||||||||reikä|dziura
@@ -2439,7 +2459,6 @@ n:e|ne||||none||||||||||||||||ei mitään|
 n:o|no|||eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|not (no)|non (ne...pas)|no|não|нет (не)||不|いいえ|||नहीं|না|tidak|||ne|ei|nie
 nab:e|nabe||||prophecy||profecía|||||||||||||profetaĵo|profetia|proroctwo
 nab.er:|naber|||ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|prophet||profeta||||||||||||||profeetta|prorok
-nad:e|nade|||hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|river (stream)|rivière (fleuve)|rio|rio|река|نَهْر|河 (江)|川|강||नदी (दरिया)|নদী|sungai|mto||rivero|joki (virta)|rzeka
 nafas:|nafas|||ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|breath||respiración|||||||||||||spiro|hengitys (henkäys)|oddech
 nagr:e|nagre|||hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|town||pueblo|||||||||||||urbo|kaupunki|miasto
 nagr:i|nagri||||urban||urbano|||||||||||||urba|urbaani (kaupunkilais-)|miejski
@@ -3021,6 +3040,14 @@ risk:i|riski||||risky||arriesgado|||||||||||||riska|riskialtis|ryzykowny
 rit:e|rite|||hin:रीति (rīti), ben:রীতি (rīti) + eng:fra:rite, spa:por:rito|custom (tradition, practice, convention)||costumbre (tradición, convención)||||||||रीति (रिवाज, रस्म)|রীতি|||||tapa (perinne)|obyczaj, zwyczaj, tradycja, praktyka, konwencja
 rit:i|riti||||conventional (customary, traditional)||traditional (convencional)||||||||||||||tavanomainen (perinteinen)|konwencjonalny, zwyczajowy, tradycyjny
 ritim:|ritim|||tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|rhythm (beat)|rhythme|ritmo|ritmo|ритм (такт)||节奏|リズム|리듬|nhịp điệu|ताल|তাল|ritme (rentak)||ritim|ritmo|rytmi|rytm, bit
+riu:|riu|||hin:धारा (dhārā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), hin:दर्या (daryā), ben:দরিয়া (dôriẏa), tur:derya|flow (current, stream)||||||||||धारा||||||virta (virtaus)|
+riu:|riu|||spa:por:rio, eng:river, fra:rivière|river (stream)|rivière (fleuve)|rio|rio|река|نَهْر|河 (江)|川|강||नदी (दरिया)|নদী|sungai|mto||rivero|joki (virta)|rzeka
+riu:u|rivu||||flow||fluir||||||||||||||virrata|latać (fruwać)
+riu.mat:e|riumate||||liquid||líquido||||||||||||||neste|ciecz (płyn)
+riu.mat:i|riumati||||fluid (liquid)||líquido (fluido)||||||||||||||nestemäinen|ciekły (płynny)
+riu.tub:e|riutube||||funnel|entonnoir|embudo|funil|воронка||漏斗|漏斗|||||||||lappo|lejek
+riu.un:ia|rivunia||||fusion (amalgamation)||fusión||||||||||||||fuusio (yhteensulautuminen)|fuzja (amalgamowanie, łączenie)
+riu.un:u|rivunu||||merge (fuse)||fusionar (fundir)||||||||||||||sulaa yhteen (fuusioitua)|łączyć (złączyć)
 robot:e|robote|||eng:fra:spa:tur:may:robot, por:robô, rus:робот (robot), ara:رُوبُوت‎ (rōbōt), fas:روبات‎ (rōbât), hin:रोबोट (rōbōṭ), tam:ரோபோ (rōpō), jpn:ロボット (robotto), kor:로봇 (robot)|robot (bot)|robot|robot (bot)|robô|робот|||||||||||roboto|robotti|robot
 rod.em:|rodem|mate|Rh||rhodium||rodio|||||||||||||rodio|rhodium|rod
 roket:e|rokete|||eng:rocket, deu:Rokete, rus:ракета (raketa), tur:may:roket, swa:roketi, fas:راکت‎ (râket), hin:राकेट (rākeṭ), ben:রকেট (rôkeṭ), jpn:ロケット (roketto), kor:로켓 (roket)|rocket||cohete (misil)||||||||||||||raketti|rakieta
@@ -3465,6 +3492,9 @@ ten.nil:i|tennili||||light blue (sky blue, azure)||celeste (azul celeste)||го�
 Tenesi:|Tenesi||||Tennessee||Tennessee|||||||||||||||
 tenesi.em:|tenesiem|mate|Ts||tennessine||teneso|||||||||||||teneso||tenesyn, tennessine
 tenis:|tenis||||tennis||tennis|||||||||||||teniso|tennis|tenis
+tens:a|tensa||||||||||||||||||||kirentää (kiristää)|
+tens:i|tensi|||eng:tense, fra:tendu, spa:por:tenso|tight (tense)|tendu|tenso|tenso|тугой||||||||||||kireä (tiukka, jännittynyt)|
+tens:ia|tensia||||tension||||||||||||||||jännitys (jännite)|
 tent:a|tenta|||eng:tempt, spa:por:tentar, fra:tenter|tempt (entice)||tentar (seducir)||||||||||||||houkutella|kusić, nakłonić, nakłaniać
 teor:ia|teoria|||eng:theory, spa:teoría, por:teoria, fra:téorie, rus:теория (teoriya), fas:تئوری‎ (teori), may:teori|theory||teoría|||||||||||||teorio|teoria|teoria
 tep:e|tepe|||eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|tape|ruban (bande)|cinta adhesiva||лента|||||||||||bendo|teippi (nauha)|taśma
@@ -3501,8 +3531,8 @@ tir:a|tira|||spa:por:tirar, fra:tirer, eng:tear, tur:tire|pull (draw, drag)||tir
 tir:a milk:e|tira milke||||milk (draw milk)|tirer|ordeñar||тянуть||拉|||||||||melki|lypsää maitoa|wydoić, doić
 tir:a pil:|tira pil||||strip (peel)|écorce|quitar (pelar)||ободрать||削 (刮去)|はがす (剥ぐ)||||||||||obrać (obierać)
 tir.baton:|tirbaton||||lever||palanca||рычаг||杆|レバー (てこ)||||||||||dźwignia
-tir.dar:|tirdar||||rip current||corriente de resaca||отбойное течение|||離岸流||||||||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
 tir.long:a|tirlonga||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
+tir.o.riu:|tiroriu||||rip current||corriente de resaca||отбойное течение|||離岸流||||||||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
 tir.sanduk:e|tirsanduke||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuflada
 Titan:|Titan|planete 6 lun 6|||Titan|||||||||||||||||
 Titan:ia|Titania|planete 7 lun 4|||Titania|||||||||||||||||
@@ -3525,16 +3555,17 @@ top.o.graf:|topograf||||topography|topographie|topografía|topografia|топог
 tor.em:|torem|mate|Th||thorium||torio|||||||||||||torio||tor
 tors:e|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortug:e|tortuge|biu|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
-tou:a|tova|||eng:tow, zho:拖 (tuō)|drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
 trans:a|transa||||transit (pass through or across)||transitar (atravesar)||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 trans:e|transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (passage)||tránsito||||||||||||||läpikulku|przejazd, przewóz, tranzyt
 trans.er:ia|transeria||||transportation||transporte||||||||||||||kuljetus|transport
 trans.o.gon:i|transogoni||||diagonal||diagonal|||||||||||||||przekątny
-trat:a|trata||||agree (make an agreement)||||||||||||||||sopia (tehdä sopimus)|zgodzić się (umówić się)
-trat:e|trate|||eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|agreement (treaty)|contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор||合同 (合约)|合意|||||kontrak||sözleşme (kontrat)||sopimus|porozumienie
+trat:a|trata||||drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
+trat.er:|trater|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|tractor|tracteur|tractor|trator|трактор|تَرَاكْتُور‎|拖拉机 (铁牛)|トラクター|트랙타|máy kéo|ट्रैक्टर|ট্র্যাক্টর|traktor|trekta|traktör|traktoro|traktori|traktor (ciągnik)
 tren:|tren|||eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|train||tren|||||電車 (列車)||||||||trajno (vagonaro)|juna|pociąg
 tren.dau:|trendau||||rail (railway, railroad)||vía férrea|||||||||||||fervojo|junarata (rautatie)|kolej
 tren.kap.er:|trenkaper||||train hijacker||||||||||||||||junakaappari|porywacz pociągu
+tret:a|treta||||agree (make an agreement)||||||||||||||||sopia (tehdä sopimus)|zgodzić się (umówić się)
+tret:e|trete|||eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|agreement (treaty)|contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор||合同 (合约)|合意|||||kontrak||sözleşme (kontrat)||sopimus|porozumienie
 trib:e|tribe|||fra:spa:tribu, por:tgl:tribo, eng:tribe|tribe||tribu|||||||||||||tribo|heimo|plemię
 Trinidad:e e: Tobago:|Trinidade e Tobago|dex|TT||Trinidad and Tobago||Trinidad y Tobago||||||||||||||Trinidad ja Tobago|Trynidad i Tobago
 Triton:|Triton|planete 8 lun 1|||Triton|||||||||||||||||
@@ -3570,15 +3601,6 @@ uad.o.susan:|vadosusan|biu|Convallaria majalis||lily of the valley||convalaria (
 uaf:|vaf|biu||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog|chien|perro|cão (cachorro)|собака|كَلْب‎|狗|犬 (狗)|개|chó|कुत्ता|কুকুর|anjing (asu)|mbwa|köpek|hundo|koira|pies
 uagin:|vagin|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 uagin.itis:|vaginitis||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
-uai:|vai||zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), vie:ngoại + rus:вы- (vy-)|outside (exterior)|extérieur|fuera (exterior)|exterior||вне||外|外|||बाहरी||luar (pinggir, tepi)|nje|dış|ekstero|ulkopuoli|zęwnętrzny
-uai:a|vaya||||oust (expel, exclude, except, save)||expulsar (exceptuar, excepto)||выгнать (исключить, кроме)|||追出 (退ける, 除いて)||||||||krom (escepti)|poistaa (paitsi, poislukien)|wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)
-uai:i|vayi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
-uai.dex:|vaidex||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
-uai.dex:i|vaidexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
-uai.iam:|vaiyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
-uai.jan:|vaijan||||outsider||||посторонний (аутсайдер)||外人 (局外人)|部外者 (アウトサイダー)|||||||||ulkopuolinen|
-uai.mis:a|vaimisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
-uai.nam:|vainam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
 uakil:|vakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||reprezentant (przedstawiciel)
 uakil:a|vakila||||represent||representar||||||||||||||edustaa|reprezentować
 uaksin:|vaksin|||eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|vaccine||vacuna||||||||||||||rokote|szczepionka

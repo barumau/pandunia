@@ -76,6 +76,7 @@ Amérique - Amerike
 anal - anusi  
 analyse - fenkate  
 analyser - fenkata  
+anaérobique - anairbivi  
 ancre - angar  
 Andes - Andes  
 Andorre - Andora  
@@ -169,6 +170,7 @@ avoir tendance à - iva
 axe - akse  
 Azerbaijan - Azerbaijan  
 azur - lazuri  
+aérobique - airbivi  
 aéroport - airporte  
 aïe! - ai  
 ####B - B  
@@ -372,9 +374,9 @@ consultant (conseiller) - konseler
 conteneur - inan  
 continu (analogique) - zoki  
 continuer (poursuivre) - zoka  
-contract (traité) - trate  
+contract (traité) - trete  
 convenir (être approprié) - hapu  
-convention (alliance, pacte) - kontrate  
+convention (alliance, pacte) - kontrete  
 copie - kope  
 coquelicot - medenpapil  
 corail - koral  
@@ -498,7 +500,7 @@ ennemi - dusjan
 enseigner - xulana  
 ensuite (après, plus tard) - bado  
 enterrer - gabra  
-entonnoir - dartube  
+entonnoir - riutube  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -510,7 +512,16 @@ ethnique - zuki
 Europe - Europe  
 européen - europi  
 exact (précis) - justi  
+excaver - exkava  
+exclure - exklusa  
+exclusif - exklusivi  
+exoplanète - explanete  
+exploser (détoner) - explozu  
 explosion - bum  
+explosion - exploze  
+exposer - expoza  
+extraire - extrata  
+extérieur - ex  
 exécrer - anama  
 ####F - F  
 face (facette) - fas  
@@ -560,7 +571,6 @@ francophonie - Fransofonia
 fromage - cize  
 fromage blanc - panir  
 frêne - yasen  
-fuera (exterior) - vai  
 Félicitations ! - barke!  
 féliciter - barka  
 ####G - G  
@@ -645,10 +655,14 @@ imiter - mima
 immigrant - inmigran  
 immigrer - inmigra  
 imperméable - barxokote  
+imploser - inplozu  
+implosion - inploze  
 important - hami  
+inclure - inklusa  
+inclusif - inklusivi  
 Inde - Bartia  
 indien - barti  
-Indus - Hindonade  
+Indus - Hinde riu  
 infecter - patomisa  
 infection (contagion) - patomis  
 infidèle (incroyant) - andiniste  
@@ -971,7 +985,7 @@ pile (batterie) - batre
 piment - cili\*  
 pioche - pincope  
 piquant - pinani  
-piquenique - vaiyam  
+piquenique - exyam  
 piraterie - piratia  
 pistolet - pau  
 pizza - pize  
@@ -1085,7 +1099,7 @@ riche - rici
 rime - rim  
 ring (manège) - ringar  
 rire - haha  
-rivière (fleuve) - nade  
+rivière (fleuve) - riu  
 riz - ris  
 robot - robote  
 roche (pierre) - petre  
@@ -1210,6 +1224,7 @@ temple - pujokan
 temps (durée) - dur  
 tendance - ivia  
 tender - tirlonga  
+tendu - tensi  
 tentacule - senter  
 tente - hemah  
 terrain - geuforme  
@@ -1238,11 +1253,12 @@ Tournesol - solful
 toxicologie - toksolojia  
 toxine - biutokse  
 trace - marke  
+tracteur - trater  
 traduction - tarje  
 travail - kar  
 travailler - kara  
 travailleur (ouvrier) - karer  
-traîner - tova  
+traîner - trata  
 tremper (faire mariner) - purxipa  
 tribord - nauraite  
 trois (3) - san  
@@ -1318,6 +1334,7 @@ vêtements - fuke
 vœu (promesse) - vode  
 wolof - Volof  
 ####X - X  
+y compris - inkluso  
 Yahweh (Jéhovah) - Yahve  
 ####Z - Z  
 zombi - zombe  
@@ -1377,6 +1394,7 @@ zèbre - zebre
 évaluer - vala  
 évangile - evanjil  
 éveillé - jagi  
+évident - exvidi  
 être - sa  
 être couché - kuxu  
 être humain - insan  

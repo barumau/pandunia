@@ -481,6 +481,15 @@ Europe - Eŭropo
 europi - Eŭropa  
 Europi Unia - Eŭropa Unio (EU)  
 europem - eŭropio  
+ex - ekstero  
+exa - krom (escepti)  
+exi - ekstera  
+exdex - fremda lando  
+exklusa - ekskludi  
+explanete - ekzoplanedo  
+exploze - eksplodo  
+explozu - eksplodi  
+exvidi - evidenta  
 ####F - F  
 faidi - utila  
 faidia - utileco  
@@ -726,10 +735,10 @@ hiyar - kukumo
 him - neĝo  
 himros - frosto  
 Himalia - Himalajo  
+Hinde riu - Induso  
 hindem - indio  
 hindiste - hinduo  
 hindistia - hinduismo  
-Hindonade - Induso  
 hisaba - kalkuli  
 hisabe - kalkulo  
 hisabolojia - matematiko  
@@ -1222,7 +1231,6 @@ muziker - muzikisto
 na - sen  
 no - ne  
 nabe - profetaĵo  
-nade - rivero  
 nafas - spiro  
 nagre - urbo  
 nagri - urba  
@@ -1448,6 +1456,7 @@ ris - rizo
 riske - risko  
 riski - riska  
 ritim - ritmo  
+riu - rivero  
 robote - roboto  
 rodem - rodio  
 rola - ludi rolon  
@@ -1662,7 +1671,8 @@ ton - tono
 tope - regiono  
 torem - torio  
 torse - torso  
-tova - treni  
+trata - treni  
+trater - traktoro  
 tren - trajno (vagonaro)  
 trendau - fervojo  
 tribe - tribo  
@@ -1685,10 +1695,6 @@ vade - valo
 vaf - hundo  
 vagin - vagino  
 vaginitis - vaginito  
-vai - ekstero  
-vaya - krom (escepti)  
-vayi - ekstera  
-vaidex - fremda lando  
 val - valoro  
 van - amuzo  
 vana - amuzi  

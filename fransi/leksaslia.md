@@ -182,6 +182,8 @@
 |**esponje**|éponge|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
 |**estan**|étain|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
 |**Europe**|Europe|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
+|**ex**|extérieur|eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|
+|**exploze**|explosion|eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|
 |**fan**|boue (fange, bourbe, gadoue)|fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|
 |**fas**|face (facette)|eng:fra:por:face, spa:faz, deu:Facette|
 |**fasili**|facile|eng:facility, spa:por:fácil, fra:facile|
@@ -412,7 +414,6 @@
 |**mur**|mur|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**murce**|fourmi|fas:مورچه (murče), rus:мурашка (murashka), ell:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
 |**muzike**|musique|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
-|**nade**|rivière (fleuve)|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |**najis**|pollution|ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|
 |**narde**|backgammon|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
 |**nasia**|nation|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
@@ -506,6 +507,7 @@
 |**ring**|anneau|eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|
 |**ris**|riz|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |**ritim**|rhythme|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
+|**riu**|rivière (fleuve)|spa:por:rio, eng:river, fra:rivière|
 |**robote**|robot|eng:fra:spa:tur:may:robot, por:robô, rus:робот (robot), ara:رُوبُوت‎ (rōbōt), fas:روبات‎ (rōbât), hin:रोबोट (rōbōṭ), tam:ரோபோ (rōpō), jpn:ロボット (robotto), kor:로봇 (robot)|
 |**ros**|rosée|fra:rosée, spa:rocío, rus:роса (rosa)|
 |**rosta**|rôtir|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
@@ -568,6 +570,7 @@
 |**tehne**|technique|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |**tem**|sujet (thème)|fra: thème, spa: tema, rus: тема (tema), deu:Thema|
 |**ten**|ciel|zho:天 (tiān), yue:天 (tin1), wuu:天 (thi1), jpn:天 (ten), kor:천 (cheon), vie:thiên|
+|**tensi**|tendu|eng:tense, fra:tendu, spa:por:tenso|
 |**tepe**|ruban (bande)|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |**terci**|oblique (de travers)|spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)|
 |**tes**|argument|eng:thesis, fra:thèse, spa:tesis|
@@ -577,8 +580,8 @@
 |**tixi**|neuf (9)|ara:تِسْعَة (tisʿa), heb:תשע  (tésha), swa:tisa|
 |**toca**|toucher|eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|
 |**tomate**|tomate|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
-|**tova**|traîner|eng:tow, zho:拖 (tuō)|
-|**trate**|contract (traité)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
+|**trater**|tracteur|eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|
+|**trete**|contract (traité)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
 |**truke**|ruse|eng:trick, deu:Trick, fra:truc, spa:truco, por:truque, hun:trükk, rus:трюк (tr’uk)|
 |**turba**|gêner (déranger, perturber)|eng:disturb, fra:perturber, spa:por:perturbar|
 |**tuze**|lapin (lièvre)|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|
@@ -589,7 +592,6 @@
 |**vade**|vallée (oued)|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
 |**vaf**|chien|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagin**|vagine|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
-|**vai**|fuera (exterior)|outside (exterior)|
 |**val**|valeur|eng:value, spa:por:valor, fra:valeur|
 |**vampir**|vampire|deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|
 |**vaxurse**|raton laveur|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|

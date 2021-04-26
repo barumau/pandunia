@@ -13,6 +13,7 @@ aga - если
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
 air - воздух  
+airbivi - аэробный  
 airgun - военно-воздушные силы  
 airporte - аэропорт  
 aishoke - хокке́й с ша́йбой  
@@ -236,7 +237,6 @@ danger - звонок
 danse - танец  
 danta - откусить  
 dantobalute - дуб зубчатый  
-dartube - воронка  
 darjomute - развитие  
 date - данные  
 datobanke - база данных  
@@ -302,6 +302,18 @@ estibem - сурьма (стибиум)
 evanjil - евангелие  
 euloge - панегирик  
 europobalute - дуб черешчатый  
+ex - вне  
+exa - выгнать (исключить, кроме)  
+exyam - пикник  
+exklusa - исключить  
+exklusivi - исключительный (эксклюзивный)  
+exojan - посторонний (аутсайдер)  
+exojeni - экзогенный  
+explanete - экзопланета (внесолнечная планета)  
+exploze - взрыв  
+explozu - взрываться  
+extrata - извлекать  
+exvidi - очевидный  
 ####F - F  
 faidia - применение (утилитарность)  
 fan - болото  
@@ -433,8 +445,8 @@ Hesia - Гессен
 hiyar - огурец  
 hijabe - вуаль  
 hijenia - гигиена  
+Hinde riu - Инд  
 Hindia - Индостан  
-Hindonade - Инд  
 hisaba - вычислять  
 hisabolojia - математика  
 hoga - жечь (палить)  
@@ -468,8 +480,11 @@ yauxinablia - верность
 Yemen - Йемен  
 Yesus - Иисус  
 inan - контейнер  
+inklusa - включить  
 inmigra - иммигрировать  
 inmigran - иммигрант  
+inploze - имплозия  
+inplozu - взрываться вовнутрь  
 insida - сесть на корточки  
 insan - человек  
 insani hake - права человека  
@@ -600,7 +615,7 @@ konformu - применяться (согласоваться)
 konkara - сотрудничать (кооперировать)  
 konpaxia - жалость (сердобольность)  
 konseler - консультант (советник)  
-kontrate - контракт  
+kontrete - контракт  
 koncung - насекомое  
 konga - пробиться  
 konserte - концерт  
@@ -793,7 +808,6 @@ muskulbin - культуризм
 muzike - музика  
 ####N - N  
 no - нет (не)  
-nade - река  
 najis - грязь (скверна)  
 namkitaba - подписать  
 narde - нарды (триктрак)   
@@ -964,6 +978,8 @@ ringar - ринг (манеж)
 ris - рис  
 risvin - рисовое вино  
 ritim - ритм (такт)  
+riu - река  
+riutube - воронка  
 robote - робот  
 roketolancer - ракетная установка  
 Roma - Рим  
@@ -1107,6 +1123,7 @@ ten - небо
 tenhal - погода  
 tenkenar - горизонт  
 tennili - голубой  
+tensi - тугой  
 tepe - лента  
 terci - косой  
 teroristia - терроризм  
@@ -1119,15 +1136,16 @@ tim - команда
 tira milke - тянуть  
 tira pil - ободрать  
 tirbaton - рычаг  
-tirdar - отбойное течение  
 tirlonga - вытянуть  
+tiroriu - отбойное течение  
 tixi - девять (9)  
 toca - касаться  
 toksolojia - токсикология  
 tomate - помидор (томат)  
 topograf - топография  
-tova - волочить  
-trate - договор  
+trata - волочить  
+trater - трактор  
+trete - договор  
 truka - обмануть  
 truke - обман  
 turba - утруждать  
@@ -1138,10 +1156,6 @@ vadosusan - ландыш
 vaf - собака  
 vagin - влагалище (вагина)  
 vaginitis - вагинит  
-vai - вне  
-vaya - выгнать (исключить, кроме)  
-vaiyam - пикник  
-vaijan - посторонний (аутсайдер)  
 val - ценность  
 vala - оценивать  
 vampir - вампир (упырь)  

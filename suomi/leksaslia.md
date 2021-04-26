@@ -226,7 +226,6 @@
 |**danke**|kiitos|englanti:thank, deu:Danke, + hindi:धन्यवाद (dhanyavād)|
 |**danse**|tanssi|englanti:ranska:dance, espanja:danza, portugali:dança, deu:Tanz, venäjä:танец (taněc), turkki:dans, japani:ダンス (dansu), korea:댄스 (daenseu), suahili:dansi|
 |**dante**|hammas|espanja:diente, portugali:dente, ranska:dent, englanti:dental, hindi:दाँत (dā̃t), bangla:দাঁত (dãtô), pan:ਦੰਦ (dand), malaiji:danta|
-|**dar**|virta (virtaus)|hindi:धारा (dhārā), telugu:ధార (dhāra) + persia: دریا‎ (daryâ), hin:दर्या (daryā), bangla:দরিয়া (dôriẏa), turkki:derya|
 |**darba**|lyödä (iskeä)|arabia:ضرب‎ (ḍaraba), suahili:dhurubu, persia:ضرب (ḍarb) + venäjä:уда́рить (udarit’)|
 |**darje**|porras (aste, taso)|arabia:(daraja), hindi:दर्जा (darjā), suahili:daraja, turkki:derece, persia:(dareje), malaiji:derajat, + yleiskiina:阶 (jiē)|
 |**darte**|maa (multa)|englanti:dirt, hindi:धरती (dhartī), urdu:(dhartī), vietnami:đất, malaiji:darat|
@@ -311,6 +310,8 @@
 |**eureka**|löytää (keksiä)|kreikka:ευρίσκω (evrísko), englanti:espanja:eureka, portugali:eureca, ranska:eurêka, venäjä:эврика (evrika), turkki:efreka, japani:ユーレカ (yūreka)|
 |**Europe**|Eurooppa|englanti:ranska:Europe, espanja:portugali:deu:puola:Europa, kreikka:Ευρώπη (Evrópi) venäjä:Европа (Evropa), turkki:Avrupa, suahili:Uropa, hindi:यूरोप (yūrop), malaiji:Eropah, yleiskiina:歐洲 (Ōuzhōu), japani:ヨーロッパ (yōroppa)|
 |**evi**|hyvä (eettisesti hyvä)|englanti:ranska:espanja:portugali:eu-|
+|**ex**|ulkopuoli|englanti:ranska:espanja:ex-, portugali:ex- (es-), venäjä:экзо- (ekzo-), malaiji:eks-|
+|**exploze**|räjähdys|englanti:ranska:explosion, espanja:explosión, portugali:exploção, venäjä:имплозия (imploziya), malaiji:eksplosi|
 |**fada**|jakaa (jaella)|yleiskiina:发 (fā), kantoninkiina:發 (faat3), wu-kiina:發 (faq4), japani:発 (hatsu), vietnami:phát|
 |**faidia**|hyödyllisyys|arabia:(fāʾida), turkki:fayda, suahili:faida, hindi:फ़ायदा (fāyadā), malaiji:faedah|
 |**faini**|hieno (hienojakoinen)|englanti:fine, espanja:portugali:fino, ranska:fin|
@@ -620,6 +621,7 @@
 |**klim**|ilmasto|kreikka:κλίμα (eklíma), espanja:portugali:clima, arabia:(ʾiqlīm), malaiji:turkki:iklim, englanti:climate, venäjä:климат (klimat)|
 |**klon**|klooni (identtinen kopio)|en:portugali:ranska:clone, espanja:clon venäjä:клон (klon), malaiji:klon, japani:クローン (kurōn)|
 |**klube**|kerho (klubi)|englanti:espanja:ranska:club, portugali:clube, venäjä:клуб, turkki:kulüp, suahili:klabu, hindi:क्लब (klab), malaiji:kelab, yleiskiina:俱乐部 (jùlèbù), japani:クラブ (kurabu)|
+|**klusa**|sulkea|englanti:ranska:espanja:portugali:-clus-, venäjä:ключить (-klyučítʹ)|
 |**kode**|koodi|englanti:code, espanja:portugali:código, ru:код, persia:کد‎ (kod), hindi:कोड (koḍ), japani:コード (kōdo)|
 |**koi (koyi)**|jokin (joku)|hindi:कोई (koī), urdu:(koī), venäjä:кое- (koye-)|
 |**koke**|kooka|espanja:englanti:coca, venäjä:кока (koka), turkki:koka, yleiskiina:古柯 (gǔké)|
@@ -846,7 +848,6 @@
 |**mux**|hiiri|puola:mysz, venäjä:мышь (myś), persia:(muš)|
 |**muzike**|musiikki|englanti:music, ranska:musique, espanja:portugali:música, venäjä:музика (muzika), arabia:(mūsīqā), suahili:muziki, turkki:müzik, malaiji:musik|
 |**naber**|profeetta|arabia:(nabiy), hindi:नबी (nabī), malaiji:nabi, suahili:nabii, hausa:annabi, turkki:nebi|
-|**nade**|joki (virta)|hindi:marathi:नदी (nadī) (nadī), urdu:(nadī), bangla:নদী (nôdī), pandzabi:ਨਦੀ (nadī), gujarati:નદી (nadī), kannada:ನದಿ (nadi), telugu:నది (nadi), tamili:நதி (nati)|
 |**nafas**|hengitys (henkäys)|arabia:persia:(nafas), malaiji:napas, turkki:nefes, hausa:numfashi|
 |**nagre**|kaupunki|hindi:नगर (nagar), bangla:নগর (nôgôr), telugu:నగరము (nagaramu), kannada:ನಗರ (nagara), tamili:நகரம் (nakaram), khmer:អង្គរ (ʾɑngkɔɔ), thai:นคร (na-khon)|
 |**nahun**|kynsi|persia:ناخن‎ (nâxon), hindi:नाख़ुन m (nāxun), bangla:নখ (nôkh), pan:नख (nakh), venäjä:нога́ (nogá)|
@@ -1033,6 +1034,8 @@
 |**riske**|riski|ranska:risque, englanti:turkki:risk, portugali:risco, venäjä:риск (risk), japani:リスク (ja) (risuku), deu:malaiji:risiko|
 |**rite**|tapa (perinne)|hindi:रीति (rīti), bangla:রীতি (rīti) + englanti:ranska:rite, espanja:portugali:rito|
 |**ritim**|rytmi|turkki:ritim, englanti:rhythm, ranska:rhythme, espanja:portugali:ritmo, venäjä:ритм (ritm), korea:리듬 (rideum), malaiji:ritme|
+|**riu**|joki (virta)|espanja:portugali:rio, englanti:river, ranska:rivière|
+|**riu**|virta (virtaus)|hindi:धारा (dhārā), telugu:ధార (dhāra) + persia: دریا‎ (daryâ), hin:दर्या (daryā), bangla:দরিয়া (dôriẏa), turkki:derya|
 |**robote**|robotti|englanti:ranska:espanja:turkki:malaiji:robot, portugali:robô, venäjä:робот (robot), arabia:رُوبُوت‎ (rōbōt), persia:روبات‎ (rōbât), hindi:रोबोट (rōbōṭ), tamili:ரோபோ (rōpō), japani:ロボット (robotto), korea:로봇 (robot)|
 |**rokete**|raketti|englanti:rocket, deu:Rokete, venäjä:ракета (raketa), turkki:malaiji:roket, suahili:roketi, persia:راکت‎ (râket), hindi:राकेट (rākeṭ), bangla:রকেট (rôkeṭ), japani:ロケット (roketto), korea:로켓 (roket)|
 |**rol**|rooli (osa)|englanti:role, ranska:rôle, deu:Rolle, venäjä:роль (rol’), turkki:rol, kat:როლი (roli), persia:رل‎ (rol)|
@@ -1166,6 +1169,7 @@
 |**tel**|etäisyys (kaukaisuus)|englanti:espanja:portugali:malaiji:tele-, ranska:télé-, venäjä:теле- (tele-)|
 |**tem**|aihe (teema)|ranska: thème, espanja: tema, venäjä: тема (tema), deu:Thema|
 |**ten**|taivas|yleiskiina:天 (tiān), kantoninkiina:天 (tin1), wu-kiina:天 (thi1), japani:天 (ten), korea:천 (cheon), vietnami:thiên|
+|**tensi**|kireä (tiukka, jännittynyt)|englanti:tense, ranska:tendu, espanja:portugali:tenso|
 |**tenta**|houkutella|englanti:tempt, espanja:portugali:tentar, ranska:tenter|
 |**teoria**|teoria|englanti:theory, espanja:teoría, portugali:teoria, ranska:téorie, venäjä:теория (teoriya), persia:تئوری‎ (teori), malaiji:teori|
 |**tepe**|teippi (nauha)|englanti:tape, suahili:tepu, japani:(tēpu), turkki:teyp|
@@ -1191,10 +1195,10 @@
 |**tong**|tynnyri (tölkki)|yleiskiina:桶 (tǒng), khmer:តុង (tong), thai:ถัง (tǎng), korea:통 (tong), vietnami:thùng, malaiji:tong, + ranska:tonneau, espanja:tonel, ned:ton|
 |**torse**|vartalo (varsi, torso)|ranska:torse, venäjä:торс (tors), deu:englanti:espanja:malaiji:torso|
 |**tortuge**|kilpikonna|englanti:tortoise, espanja:tortuga, portugali:tartaruga, ranska:tortue|
-|**tova**|vetää (kiskoa, raahata)|englanti:tow, yleiskiina:拖 (tuō)|
 |**transe**|läpikulku|englanti:ranska:espanja:portugali:deu:malaiji:trans-, venäjä:транс- (trans-)|
-|**trate**|sopimus|englanti:treaty, ranska:traité, espanja:portugali:tratado, venäjä:контракт (kontrakt), turkki:kontrat, malaiji:kontrak|
+|**trater**|traktori|englanti:espanja:tractor, ranska:tracteur, portugali:trator, venäjä:трактор (traktor), arabia: تَرَاكْتُور‎ (tarāktūr), japani:トラクター (torakutā), korea:트랙타 (teuraekta), hindi:ट्रैक्टर (ṭraikṭar), bangla:ট্র্যাক্টর (ṭrækṭôr), malaiji:traktor, suahili:trekta, turkki:traktör|
 |**tren**|juna|englanti:ranska:train, espanja:turkki:tren, hindi:ट्रेन (ṭren), portugali:trem|
+|**trete**|sopimus|englanti:treaty, ranska:traité, espanja:portugali:tratado, venäjä:контракт (kontrakt), turkki:kontrat, malaiji:kontrak|
 |**tribe**|heimo|ranska:espanja:tribu, portugali:filippiini:tribo, englanti:tribe|
 |**tualete**|vessa|ranska:toilettes, englanti:malaiji:toilet, portugali:toalete, venäjä:туалет (tualet), turkki:tuvalet, persia:توالت‎ (tuâlet), hindi:टॉयलेट (ṭŏyaleṭ), japani:トイレ (toire)|
 |**tube**|putki (tuubi)|espanja:portugali:tubo, englanti:ranska:tube, japani:チューブ (chūbu), zulu:ithumbu|
@@ -1219,8 +1223,6 @@
 |**vade**|laakso|englanti:valley, ranska:vallée, espanja:valle, portugali:vale, arabia: وَادٍ‎ (wādin), hindi:वादी (vādī), malaiji:wadi, turkki:vadi|
 |**vaf**|koira|englanti:woof, ranska:ouaf, venäjä:гав (gav), turkki:hav, yleiskiina:汪 (wāng), japani:ワン (wan)|
 |**vagin**|emätin (vagina)|englanti:ranska:vagina, portugali:espanja:vagina, venäjä:вагина (vagina), japani:ワギナ (wagina), korea:바기나 (bagina), turkki:vajina, malaiji:vagina|
-|**vai**|ulkopuoli|outside (exterior)|
-|**vaidexi**|ulkomaalainen|hindi:(videśī), telugu:(vidēśi), yleiskiina:外国的 (wàiguóde)|
 |**vaksin**|rokote|englanti:vaccine, espanja:vacuna, portugali:vacina, venäjä:вакцина (vakcina), hindi:वैक्सीन (vaiksīn), japani:ワクチン (wakuchin), malaiji:vaksin|
 |**val**|arvo|englanti:value, espanja:portugali:valor, ranska:valeur|
 |**van**|huvi (hauskuus)|yleiskiina:玩 (wán), kantoninkiina:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|

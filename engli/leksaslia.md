@@ -230,7 +230,6 @@
 |**danke**|thanks (thank you)|English:thank, deu:Danke, + Hindi:धन्यवाद (dhanyavād)|
 |**danse**|dance|English:French:dance, Spanish:danza, Portuguese:dança, deu:Tanz, Russian:танец (taněc), Turkish:dans, Japanese:ダンス (dansu), Korean:댄스 (daenseu), Swahili:dansi|
 |**dante**|tooth|Spanish:diente, Portuguese:dente, French:dent, English:dental, Hindi:दाँत (dā̃t), Bengali:দাঁত (dãtô), pan:ਦੰਦ (dand), Malay:danta|
-|**dar**|flow (current, stream)|Hindi:धारा (dhārā), Telugu:ధార (dhāra) + Persian: دریا‎ (daryâ), hin:दर्या (daryā), Bengali:দরিয়া (dôriẏa), Turkish:derya|
 |**darba**|strike (punch)|Arabic:ضرب‎ (ḍaraba), Swahili:dhurubu, Persian:ضرب (ḍarb) + Russian:уда́рить (udarit’)|
 |**darje**|step (degree, rank, grade, level, class)|Arabic:(daraja), Hindi:दर्जा (darjā), Swahili:daraja, Turkish:derece, Persian:(dareje), Malay:derajat, + Mandarin:阶 (jiē)|
 |**darte**|soil (dirt)|English:dirt, Hindi:धरती (dhartī), Urdu:(dhartī), Vietnamese:đất, Malay:darat|
@@ -316,6 +315,8 @@
 |**eureka**|find (discover)|Greek:ευρίσκω (evrísko), English:Spanish:eureka, Portuguese:eureca, French:eurêka, Russian:эврика (evrika), Turkish:efreka, Japanese:ユーレカ (yūreka)|
 |**Europe**|Europe|English:French:Europe, Spanish:Portuguese:deu:Polish:Europa, Greek:Ευρώπη (Evrópi) Russian:Европа (Evropa), Turkish:Avrupa, Swahili:Uropa, Hindi:यूरोप (yūrop), Malay:Eropah, Mandarin:歐洲 (Ōuzhōu), Japanese:ヨーロッパ (yōroppa)|
 |**evi**|beneficial (good)|English:French:Spanish:Portuguese:eu-|
+|**ex**|outside (exterior)|English:French:Spanish:ex-, Portuguese:ex- (es-), Russian:экзо- (ekzo-), Malay:eks-|
+|**exploze**|explosion|English:French:explosion, Spanish:explosión, Portuguese:exploção, Russian:имплозия (imploziya), Malay:eksplosi|
 |**fada**|supply (dispense, issue, put out)|Mandarin:发 (fā), Cantonese:發 (faat3), Wu-Chinese:發 (faq4), Japanese:発 (hatsu), Vietnamese:phát|
 |**faidia**|use (utility, benefit, gain, advantage)|Arabic:(fāʾida), Turkish:fayda, Swahili:faida, Hindi:फ़ायदा (fāyadā), Malay:faedah|
 |**faini**|fine (delicate)|English:fine, Spanish:Portuguese:fino, French:fin|
@@ -644,6 +645,7 @@
 |**klim**|climate|Greek:κλίμα (eklíma), Spanish:Portuguese:clima, Arabic:(ʾiqlīm), Malay:Turkish:iklim, English:climate, Russian:климат (klimat)|
 |**klon**|clone (replica)|en:Portuguese:French:clone, Spanish:clon Russian:клон (klon), Malay:klon, Japanese:クローン (kurōn)|
 |**klube**|club|English:Spanish:French:club, Portuguese:clube, Russian:клуб, Turkish:kulüp, Swahili:klabu, Hindi:क्लब (klab), Malay:kelab, Mandarin:俱乐部 (jùlèbù), Japanese:クラブ (kurabu)|
+|**klusa**|close (shut)|English:French:Spanish:Portuguese:-clus-, Russian:ключить (-klyučítʹ)|
 |**kode**|code (cipher)|English:code, Spanish:Portuguese:código, ru:код, Persian:کد‎ (kod), Hindi:कोड (koḍ), Japanese:コード (kōdo)|
 |**koi (koyi)**|some|Hindi:कोई (koī), Urdu:(koī), Russian:кое- (koye-)|
 |**koke**|coca|Spanish:English:coca, Russian:кока (koka), Turkish:koka, Mandarin:古柯 (gǔké)|
@@ -891,7 +893,6 @@
 |**mux**|mouse|Polish:mysz, Russian:мышь (myś), Persian:(muš)|
 |**muzike**|music|English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik|
 |**naber**|prophet|Arabic:(nabiy), Hindi:नबी (nabī), Malay:nabi, Swahili:nabii, Hausa:annabi, Turkish:nebi|
-|**nade**|river (stream)|Hindi:Marathi:नदी (nadī) (nadī), Urdu:(nadī), Bengali:নদী (nôdī), Punjabi:ਨਦੀ (nadī), Gujarati:નદી (nadī), Kannada:ನದಿ (nadi), Telugu:నది (nadi), Tamil:நதி (nati)|
 |**nafas**|breath|Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi|
 |**nagre**|town|Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)|
 |**nahun**|nail (fingernail)|Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)|
@@ -1096,6 +1097,8 @@
 |**riske**|risk|French:risque, English:Turkish:risk, Portuguese:risco, Russian:риск (risk), Japanese:リスク (ja) (risuku), deu:Malay:risiko|
 |**rite**|custom (tradition, practice, convention)|Hindi:रीति (rīti), Bengali:রীতি (rīti) + English:French:rite, Spanish:Portuguese:rito|
 |**ritim**|rhythm (beat)|Turkish:ritim, English:rhythm, French:rhythme, Spanish:Portuguese:ritmo, Russian:ритм (ritm), Korean:리듬 (rideum), Malay:ritme|
+|**riu**|flow (current, stream)|Hindi:धारा (dhārā), Telugu:ధార (dhāra) + Persian: دریا‎ (daryâ), hin:दर्या (daryā), Bengali:দরিয়া (dôriẏa), Turkish:derya|
+|**riu**|river (stream)|Spanish:Portuguese:rio, English:river, French:rivière|
 |**robote**|robot (bot)|English:French:Spanish:Turkish:Malay:robot, Portuguese:robô, Russian:робот (robot), Arabic:رُوبُوت‎ (rōbōt), Persian:روبات‎ (rōbât), Hindi:रोबोट (rōbōṭ), Tamil:ரோபோ (rōpō), Japanese:ロボット (robotto), Korean:로봇 (robot)|
 |**rokete**|rocket|English:rocket, deu:Rokete, Russian:ракета (raketa), Turkish:Malay:roket, Swahili:roketi, Persian:راکت‎ (râket), Hindi:राकेट (rākeṭ), Bengali:রকেট (rôkeṭ), Japanese:ロケット (roketto), Korean:로켓 (roket)|
 |**rol**|role|English:role, French:rôle, deu:Rolle, Russian:роль (rol’), Turkish:rol, kat:როლი (roli), Persian:رل‎ (rol)|
@@ -1242,6 +1245,7 @@
 |**tel**|distance (far away)|English:Spanish:Portuguese:Malay:tele-, French:télé-, Russian:теле- (tele-)|
 |**tem**|topic (subject, theme)|French: thème, Spanish: tema, Russian: тема (tema), deu:Thema|
 |**ten**|sky (heaven)|Mandarin:天 (tiān), Cantonese:天 (tin1), Wu-Chinese:天 (thi1), Japanese:天 (ten), Korean:천 (cheon), Vietnamese:thiên|
+|**tensi**|tight (tense)|English:tense, French:tendu, Spanish:Portuguese:tenso|
 |**tenta**|tempt (entice)|English:tempt, Spanish:Portuguese:tentar, French:tenter|
 |**teoria**|theory|English:theory, Spanish:teoría, Portuguese:teoria, French:téorie, Russian:теория (teoriya), Persian:تئوری‎ (teori), Malay:teori|
 |**tepe**|tape|English:tape, Swahili:tepu, Japanese:(tēpu), Turkish:teyp|
@@ -1269,10 +1273,10 @@
 |**tong**|barrel (can, cask)|Mandarin:桶 (tǒng), Khmer:តុង (tong), Thai:ถัง (tǎng), Korean:통 (tong), Vietnamese:thùng, Malay:tong, + French:tonneau, Spanish:tonel, ned:ton|
 |**torse**|trunk (torso)|French:torse, Russian:торс (tors), deu:English:Spanish:Malay:torso|
 |**tortuge**|turtle (tortoise)|English:tortoise, Spanish:tortuga, Portuguese:tartaruga, French:tortue|
-|**tova**|drag (haul, tow, trail)|English:tow, Mandarin:拖 (tuō)|
 |**transe**|transit (passage)|English:French:Spanish:Portuguese:deu:Malay:trans-, Russian:транс- (trans-)|
-|**trate**|agreement (treaty)|English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak|
+|**trater**|tractor|English:Spanish:tractor, French:tracteur, Portuguese:trator, Russian:трактор (traktor), Arabic: تَرَاكْتُور‎ (tarāktūr), Japanese:トラクター (torakutā), Korean:트랙타 (teuraekta), Hindi:ट्रैक्टर (ṭraikṭar), Bengali:ট্র্যাক্টর (ṭrækṭôr), Malay:traktor, Swahili:trekta, Turkish:traktör|
 |**tren**|train|English:French:train, Spanish:Turkish:tren, Hindi:ट्रेन (ṭren), Portuguese:trem|
+|**trete**|agreement (treaty)|English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak|
 |**tribe**|tribe|French:Spanish:tribu, Portuguese:Filipino:tribo, English:tribe|
 |**truke**|trick (ruse, fraud)|English:trick, deu:Trick, French:truc, Spanish:truco, Portuguese:truque, Hungarian:trükk, Russian:трюк (tr’uk)|
 |**tualete**|toilet (WC)|French:toilettes, English:Malay:toilet, Portuguese:toalete, Russian:туалет (tualet), Turkish:tuvalet, Persian:توالت‎ (tuâlet), Hindi:टॉयलेट (ṭŏyaleṭ), Japanese:トイレ (toire)|
@@ -1298,8 +1302,6 @@
 |**vade**|valley|English:valley, French:vallée, Spanish:valle, Portuguese:vale, Arabic: وَادٍ‎ (wādin), Hindi:वादी (vādī), Malay:wadi, Turkish:vadi|
 |**vaf**|dog|English:woof, French:ouaf, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)|
 |**vagin**|vagina|English:French:vagina, Portuguese:Spanish:vagina, Russian:вагина (vagina), Japanese:ワギナ (wagina), Korean:바기나 (bagina), Turkish:vajina, Malay:vagina|
-|**vai**|extérieur|outside (exterior)|
-|**vaidexi**|foreign|Hindi:(videśī), Telugu:(vidēśi), Mandarin:外国的 (wàiguóde)|
 |**vakil**|representative (proxy, agent)|Arabic:وكيل‎ (wakīl), Swahili:wakili, Persian:وکیل‎ (vakil), Hindi:वकील (vakīl), Bengali:উকিল (ukil)|
 |**vaksin**|vaccine|English:vaccine, Spanish:vacuna, Portuguese:vacina, Russian:вакцина (vakcina), Hindi:वैक्सीन (vaiksīn), Japanese:ワクチン (wakuchin), Malay:vaksin|
 |**val**|value (worth)|English:value, Spanish:Portuguese:valor, French:valeur|

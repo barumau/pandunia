@@ -308,6 +308,8 @@
 |**eureka**|econtrar (hallar)|ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|
 |**Europe**|Europa|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
 |**evi**|beneficioso (bueno)|eng:fra:spa:por:eu-|
+|**ex**|fuera (exterior)|eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|
+|**exploze**|explosión|eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|
 |**fada**|suministrar (dar, proveer, emitir)|zho:发 (fā), yue:發 (faat3), wuu:發 (faq4), jpn:発 (hatsu), vie:phát|
 |**faidia**|uso (utilidad, beneficio)|ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah|
 |**faini**|fino (delgado, delicado)|eng:fine, spa:por:fino, fra:fin|
@@ -868,7 +870,6 @@
 |**mux**|ratón|pol:mysz, rus:мышь (myś), fas:(muš)|
 |**muzike**|música|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
 |**naber**|profeta|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
-|**nade**|rio|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |**nafas**|respiración|ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|
 |**nagre**|pueblo|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
 |**nahun**|uña|fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)|
@@ -1068,6 +1069,7 @@
 |**riske**|riesgo|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |**rite**|costumbre (tradición, convención)|hin:रीति (rīti), ben:রীতি (rīti) + eng:fra:rite, spa:por:rito|
 |**ritim**|ritmo|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
+|**riu**|rio|spa:por:rio, eng:river, fra:rivière|
 |**robote**|robot (bot)|eng:fra:spa:tur:may:robot, por:robô, rus:робот (robot), ara:رُوبُوت‎ (rōbōt), fas:روبات‎ (rōbât), hin:रोबोट (rōbōṭ), tam:ரோபோ (rōpō), jpn:ロボット (robotto), kor:로봇 (robot)|
 |**rokete**|cohete (misil)|eng:rocket, deu:Rokete, rus:ракета (raketa), tur:may:roket, swa:roketi, fas:راکت‎ (râket), hin:राकेट (rākeṭ), ben:রকেট (rôkeṭ), jpn:ロケット (roketto), kor:로켓 (roket)|
 |**rol**|papel|eng:role, fra:rôle, deu:Rolle, rus:роль (rol’), tur:rol, kat:როლი (roli), fas:رل‎ (rol)|
@@ -1212,6 +1214,7 @@
 |**tel**|lo lejos|eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|
 |**tem**|tema|fra: thème, spa: tema, rus: тема (tema), deu:Thema|
 |**ten**|cielo|zho:天 (tiān), yue:天 (tin1), wuu:天 (thi1), jpn:天 (ten), kor:천 (cheon), vie:thiên|
+|**tensi**|tenso|eng:tense, fra:tendu, spa:por:tenso|
 |**tenta**|tentar (seducir)|eng:tempt, spa:por:tentar, fra:tenter|
 |**teoria**|teoría|eng:theory, spa:teoría, por:teoria, fra:téorie, rus:теория (teoriya), fas:تئوری‎ (teori), may:teori|
 |**tepe**|cinta adhesiva|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
@@ -1239,10 +1242,10 @@
 |**tong**|barril (tonel)|zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:tong, + fra:tonneau, spa:tonel, ned:ton|
 |**torse**|torso|fra:torse, rus:торс (tors), deu:eng:spa:may:torso|
 |**tortuge**|tortuga|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|
-|**tova**|arrastrar|eng:tow, zho:拖 (tuō)|
 |**transe**|tránsito|eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|
-|**trate**|contrato (tratado)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
+|**trater**|tractor|eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|
 |**tren**|tren|eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|
+|**trete**|contrato (tratado)|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
 |**tribe**|tribu|fra:spa:tribu, por:tgl:tribo, eng:tribe|
 |**truke**|truco|eng:trick, deu:Trick, fra:truc, spa:truco, por:truque, hun:trükk, rus:трюк (tr’uk)|
 |**tualete**|inodoro (wáter, retrete)|fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)|
@@ -1267,8 +1270,6 @@
 |**vade**|valle|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
 |**vaf**|perro|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagin**|vagina|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
-|**vai**|exterior|outside (exterior)|
-|**vaidexi**|extranjero|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |**vaksin**|vacuna|eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|
 |**val**|valor|eng:value, spa:por:valor, fra:valeur|
 |**vampir**|vampiro|deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|
