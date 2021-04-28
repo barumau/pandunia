@@ -14,6 +14,7 @@ agres - ataque
 agreser - agressor  
 ai - ai!  
 air - ar  
+airbivi - aeróbico  
 airgun - força aérea  
 airporte - aeroporto  
 aisu - gelar  
@@ -40,6 +41,7 @@ ami - querido (caro)
 amater - amador  
 amer - amante  
 amike - querido  
+anairbivi - anaeróbico  
 andiniste - infiel  
 anmema - esquecer  
 ansomia - insônia  
@@ -136,6 +138,7 @@ bedinje - beringela
 beker - padeiro  
 bekofan - terracota  
 bel - pá  
+ben - filho ou filha  
 ber - baga  
 berande - sacada (varanda)  
 berje - bétula  
@@ -188,6 +191,9 @@ ceniki - velho (antigo)
 centaur - centáurea  
 cerize - cereja  
 cili\* - cápsico  
+cinbrusben - primo  
+cinmai - avó  
+cinpai - avô  
 cir - rasgar  
 cira - rasgar  
 circiri - esfarrapado  
@@ -208,7 +214,6 @@ danger - sino (campainha)
 danko da - graças a  
 danse - baile (danza)  
 danta - morder  
-dartube - funil  
 darjomute - desenvolvimento  
 date - dados  
 datobanke - banco de dados  
@@ -265,6 +270,18 @@ estibem - antimônio
 evanjil - evangelho  
 euloge - elogio  
 europobalute - carvalho-roble  
+ex - exterior  
+exyam - piquenique  
+exkava - escavar  
+exklusa - excluir  
+exklusivi - exclusivo  
+exojeni - exógeno  
+explanete - exoplaneta (planeta extrassolar)  
+exploze - explosão  
+explozu - explodir  
+expoza - expor (revelar)  
+extrata - extrair  
+exvidi - evidente  
 ####F - F  
 fan - lama (lodo)  
 fandefban - para-lama  
@@ -315,7 +332,10 @@ Galia - Gália
 galaksia - galáxia  
 galte - erro (falta)  
 galti - errôneo  
-gamike - esposo ou esposa  
+gam - esposo ou esposa  
+gamben - enteado  
+gammai - sogra  
+gampai - sogro  
 gancau - feno  
 gantex - toalha  
 ganum - trigo  
@@ -384,7 +404,7 @@ hiyar - pepino
 hijabe - véu  
 hijenia - higiene  
 him - neve  
-Hindonade - Indo  
+Hinde riu - Indo  
 hisaba - calcular  
 hisabolojia - matemática  
 hoga - queimar  
@@ -416,8 +436,13 @@ yavu - necessitar
 yavan - necessário  
 yauxina - confiar (contar com)  
 inan - contêiner  
+inklusa - incluir  
+inkluso - incluindo  
+inklusivi - inclusivo  
 inmigra - imigrar  
 inmigran - imigrante  
+inploze - imploção  
+inplozu - implodir  
 insida - agacharse  
 insan - ser humano  
 insani hake - direitos humanos  
@@ -536,7 +561,7 @@ komputer - computador
 konboni - combinar com  
 konkara - colaborar  
 konseler - consultor  
-kontrate - pacto  
+kontrete - pacto  
 koncung - inseto  
 konserte - concerto  
 kope - cópia  
@@ -641,9 +666,10 @@ mes - nós
 mafa - perdoar (desculpar)  
 magesem - magnésio  
 Magribia - Marrocos  
+mai - mãe  
 makanful - dente-de-leão (taráxaco)  
 malnomia - economia  
-mam - mãe  
+mam - seio (mama)  
 mangi - ocupado (atarefado)  
 manihayistia - maniqueísmo  
 manir - comportamento (conduta)  
@@ -722,7 +748,6 @@ muzike - música
 ####N - N  
 na - sem  
 no - não  
-nade - rio  
 najis - poluição  
 namkitaba - assinar  
 narde - gamão  
@@ -775,6 +800,7 @@ paciste - pacifista
 padomosim - outono  
 pagre - turbante  
 pai - torta  
+pai - pai  
 pake - pacote  
 pandemi patia - pandemia  
 panmim - pantomima (mímica)  
@@ -782,7 +808,6 @@ pande - panda
 pang - pão  
 panir - queijo fresco  
 pante - calças  
-pape - pai  
 papai - mamão (papaia)  
 par - nivel  
 pari - igual (par)  
@@ -855,7 +880,6 @@ purbona - aperfeiçoar
 purfina - terminar (acabar, concluir)  
 purfityamiste - vegetalista  
 purxipa - ensopar (encharcar, marinar)  
-pute - filho ou filha  
 putavoranje - toranja  
 ####R - R  
 rang - cor  
@@ -880,6 +904,8 @@ ring - anel
 ringar - ringue  
 ris - arroz  
 ritim - ritmo  
+riu - rio  
+riutube - funil  
 robote - robô  
 roketolancer - lançador de foguetes  
 Roma - Roma  
@@ -982,6 +1008,7 @@ telfona - telefonar
 telfonia - telefonia  
 temnam - título  
 ten - céu  
+tensi - tenso  
 terci - oblíquo (torto)  
 testa - tentar (provar)  
 teste - teste  
@@ -993,8 +1020,9 @@ tixi - nove (9)
 toksolojia - toxicologia  
 tomate - tomate  
 topograf - topografia  
-tova - arrastar  
-trate - acordo (tratado, contrato)  
+trata - arrastar  
+trater - trator  
+trete - acordo (tratado, contrato)  
 truka - enganar  
 truke - truque (fraude)  
 turba - molestar (perturber)  
@@ -1005,7 +1033,6 @@ vadosusan - lírio-do-vale
 vaf - cão (cachorro)  
 vagin - vagina  
 vaginitis - vaginite  
-vaiyam - piquenique  
 val - valor (valia)  
 vala - valorar  
 valu - valer  
@@ -1044,6 +1071,8 @@ Uran - Urano
 urse - urso  
 vulve - vulva  
 vute - item  
+vismai - madrasta  
+vispai - padrasto  
 ####X - X  
 xalke - escama  
 Xampan - Champagne  

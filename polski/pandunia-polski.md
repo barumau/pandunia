@@ -328,6 +328,7 @@ bel - łopata (szpadel)
 Belarus - Białoruś  
 Belgia - Belgia  
 Belize - Belize  
+ben - dziecko, potomek  
 bence - ławka  
 benda - związać, wiązać; zapiąć, zapinać  
 bende - taśma; bandaż  
@@ -411,6 +412,7 @@ bruni - brązowy, koloru kawy
 brunalge - brunatnica  
 brunsalmon - pstrąg potokowy  
 Brunei - Brunei Darussalam  
+brus - rodzeństwo, brat lub siostra  
 buda - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 Bude - Budda  
 bude - uświadomienie, świadomość; oświecenie, bodhi  
@@ -499,7 +501,11 @@ Cile - Chile
 cili\* - papryka  
 cilifun - papryka  
 cimpanze - szympans  
+cin - rodzic (matka lub ojciec)  
 cini - han chiński  
+cinbrusben - kuzyn  
+cinmai - babcia (babka)  
+cinpai - dziadek (dziad)  
 cincil - szynszyla  
 cinga - prosić  
 cinga laya - zaprosić, zapraszać  
@@ -566,12 +572,6 @@ dante - ząb
 dantobalute - dąb zębaty  
 dantobrox - szczoteczka do zębów  
 dantomediker - dentysta  
-daru - latać (fruwać)  
-darmate - ciecz (płyn)  
-darmati - ciekły (płynny)  
-dartube - lejek  
-darunia - fuzja (amalgamowanie, łączenie)  
-darunu - łączyć (złączyć)  
 darba - bić, uderzyć, uderzać  
 darje - stopień, poziom, ranga, klasa  
 darji - stopniowy  
@@ -801,6 +801,16 @@ europi - europejski
 Europi Unia - Unia Europejska (EU)  
 europem - europ  
 europobalute - dąb szypułkowy  
+ex - zęwnętrzny  
+exa - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
+exi - zewnętrzny  
+exdex - zagranica  
+exdexi - zagraniczny  
+exyam - piknik  
+exmisa - eksportować (wyeksportować)  
+exnam - egzonim  
+explanete - egzoplaneta  
+exploze - wybuch (eksplozja)  
 ####F - F  
 fada - dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
 faide - zasób  
@@ -970,10 +980,10 @@ galta - popełnić błąd
 galte - błąd (pomyłka)  
 galti - błędny (niepoprawny)  
 galto buda - źle zrozumieć  
+gam - małżonek (małżonka)  
 gama - ożenić się, poślubić, wyjść za mąż  
 gami - ożeniony, zamężny, w związku małżeńskim  
 gamia - małżeństwo, związek małżeński  
-gamike - małżonek (małżonka)  
 Gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
 gana - suszyć (wysuszyć)  
@@ -1302,6 +1312,8 @@ injeni - wewnętrzny
 inliste - spis treści (tabela zawartości)  
 inmisa - importować (zaimportować)  
 innam - endonim  
+inploze - implozja  
+inplozu - implodować  
 inpuxa - ścisnąć (sciskać, wycisnąć)  
 insida - kucać (kucnąć)  
 Indonesia - Indonezja  
@@ -1390,7 +1402,6 @@ jeni - surowy (niedojrzały)
 jeni bax - język ojczysty (język rodzimy)  
 jenu - urodzić się, rodzić się  
 jenden - urodziny  
-jener - rodzic (matka lub ojciec)  
 jengrupe - pokolenie (generacja)  
 jenita - rozmnażać  
 jenklas - kasta  
@@ -1679,7 +1690,7 @@ konfuncabli - kompatybilny (pasujący)
 konkara - współpracować (kolaborować)  
 konsau - informacja  
 konsavana - poinformować, informować, zakomunikować, komunikować  
-kontrate - pakt (kontrakt, ugoda, umowa, konwencja)  
+kontrete - pakt (kontrakt, ugoda, umowa, konwencja)  
 Konakri Ginia - Gwinea  
 koncung - owad  
 kong - dziura  
@@ -1821,8 +1832,6 @@ lau - starzec
 Lau - Laos  
 lavi - stary (sędziwy, wiekowy)  
 lavi - laotański  
-laumam - babcia (babka)  
-laupape - dziadek (dziad)  
 laurensem - lorens  
 lax - pozostałość (szczątek)  
 laxa - pozostawiać (pozostawić)  
@@ -1948,6 +1957,7 @@ mager - magik, czarownik
 magesem - magnez  
 Magyaria - Węgry  
 Magribia - Maroko  
+mai - matka, mama  
 mayan - Maya  
 Mayote - Majotta  
 mais - kukurydza  
@@ -1975,7 +1985,6 @@ Mali - Mali
 malike - jaśmin  
 Malta - Malta  
 Malvinas nesia - Falklandy, Malwiny  
-mam - matka, mama  
 mamal - ssak  
 man - męski  
 mani pute - syn  
@@ -2230,7 +2239,6 @@ na lin - offline (nie na linii, poza siecią)
 no - nie  
 nabe - proroctwo  
 naber - prorok  
-nade - rzeka  
 nafas - oddech  
 nagre - miasto  
 nagri - miejski  
@@ -2427,6 +2435,7 @@ padomosim - jesień
 padomun - klapa  
 pagre - turban  
 pai - placek, ciasto  
+pai - ojciec  
 paka - zapakować, pakować  
 pake - paczka, paka  
 Pakistan - Pakistan  
@@ -2461,7 +2470,6 @@ panir - twaróg
 panjabi - pendżabski  
 panke - wiatrak (wentylator)  
 pante - spodnie (pantalony, portki)  
-pape - ojciec  
 papagai - papuga  
 papai - papaja  
 papir - dokument  
@@ -2672,7 +2680,6 @@ purbona - doskonalić (optymalizować, ulepszać)
 purboni - perfekcyjny  
 purfityamiste - weganin (weganka)  
 purxipa - namoczyć (marynować)  
-pute - dziecko, potomek  
 putau - winogrono  
 putavoranje - grejpfrut  
 Putong Cini - mandaryński chiński, Putonghua  
@@ -2765,6 +2772,13 @@ riski - ryzykowny
 rite - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 riti - konwencjonalny, zwyczajowy, tradycyjny  
 ritim - rytm, bit  
+riu - rzeka  
+rivu - latać (fruwać)  
+riumate - ciecz (płyn)  
+riumati - ciekły (płynny)  
+riutube - lejek  
+rivunia - fuzja (amalgamowanie, łączenie)  
+rivunu - łączyć (złączyć)  
 robote - robot  
 rodem - rod  
 rokete - rakieta  
@@ -2910,7 +2924,6 @@ saulojia - epistemologia
 sauvol - zainteresowanie, zaciekawienie; interesujący  
 sauvolani - interesujący  
 Saudi Arabia - Arabia Saudyjska  
-saudar - rodzeństwo, brat lub siostra  
 sauna\* - sauna  
 saus - sos  
 sekreter - sekretarz  
@@ -3222,8 +3235,8 @@ tira - ciągnąć
 tira milke - wydoić, doić  
 tira pil - obrać (obierać)  
 tirbaton - dźwignia  
-tirdar - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirlonga - rozciągać (rozciągnąć)  
+tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirsanduke - szuflada  
 titanem - tytan  
 tixi - dziewięć (9)  
@@ -3246,11 +3259,12 @@ transa - przejść, przechodzić, przejechać, przejeżdżać
 transe - przejazd, przewóz, tranzyt  
 transeria - transport  
 transogoni - przekątny  
-trata - zgodzić się (umówić się)  
-trate - porozumienie  
+trater - traktor (ciągnik)  
 tren - pociąg  
 trendau - kolej  
 trenkaper - porywacz pociągu  
+treta - zgodzić się (umówić się)  
+trete - porozumienie  
 tribe - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
 truka - oszukać (oszukiwać  
@@ -3282,14 +3296,6 @@ vadosusan - konwalia majowa
 vaf - pies  
 vagin - wagina  
 vaginitis - zapalenie pochwy  
-vai - zęwnętrzny  
-vaya - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
-vayi - zewnętrzny  
-vaidex - zagranica  
-vaidexi - zagraniczny  
-vaiyam - piknik  
-vaimisa - eksportować (wyeksportować)  
-vainam - egzonim  
 vakil - reprezentant (przedstawiciel)  
 vakila - reprezentować  
 vaksin - szczepionka  

@@ -11,14 +11,14 @@ abirse - kayu
 Abisinia - Habaxia  
 abisinio - habaxi  
 abjazia - Apsni  
-abluelo - laupape  
 abono orgánico (compost) - biucaniver  
 aborigen - aslaustrali  
 abrepuño - solcentaur  
 abrigo (chaqueta) - kote  
 abril - carlun  
 abrir - kaya  
-abuela - laumam  
+abuela - cinmai  
+abuelo - cinpai  
 aburrido - bori  
 aburrimiento - boria  
 acacia de copa plana - helisbabul  
@@ -70,6 +70,7 @@ adverbo - modologe
 adversario (oponente) - xatan  
 aeroplano - viman  
 aeropuerto - airporte  
+aeróbico - airbivi  
 afecto (emoción) - emos  
 Afganistán - Afgania  
 afgano - afgani  
@@ -166,6 +167,7 @@ amor - am
 amperio - amper  
 ampolla (vial) - ampul  
 América - Amerike  
+anaeróbico - anairbivi  
 anal - anusi  
 analizar (disecar) - fenkata  
 anaranjado - oranji  
@@ -240,7 +242,7 @@ arnés (arreos, jaeces) - harnes
 arquero - arker  
 arquitecto - binplaner  
 arquitectura - binplania  
-arrastrar - tova  
+arrastrar - trata  
 arreglo - reibon  
 arriesgado - riski  
 arroba (@) - adresharfe  
@@ -806,10 +808,10 @@ contenido - inite
 continuar (reanudar) - reizoka  
 continuo (analógico) - zoki  
 contraseña - sekurkode  
-contrato (tratado) - trate  
+contrato (tratado) - trete  
 contribuir - fendona  
 convalaria (lirio de los valles) - vadosusan  
-convenion (pacto) - kontrate  
+convenion (pacto) - kontrete  
 copia (réplica) - kope  
 copia de seguridad - sekuri kope  
 copiar - kopa  
@@ -830,7 +832,7 @@ corredor - korer
 corregir - saha  
 correo - poste  
 correr - kora  
-corriente de resaca - tirdar  
+corriente de resaca - tiroriu  
 corromper (contaminar) - najisa  
 corsario - naukaper  
 cortar - kata  
@@ -1142,7 +1144,7 @@ embajador - dayanjiler
 embalar (llevar) - paka  
 embarazado (preñado) - hamili  
 embarrado (enlodado) - fani  
-embudo - dartube  
+embudo - riutube  
 emir - amirer  
 emirato - amiria  
 Emiratos Árabes Unidos - Uniti Arabi Amiria (UAA)  
@@ -1254,7 +1256,7 @@ esperar - denga
 espicificar (estipular) - xarta  
 espiral (hélice) - helis  
 esponja - esponje  
-esposo o esposa - gamike  
+esposo o esposa - gam  
 espárrago - lusun  
 esqueleto (armazón) - ostojamia  
 esquina (rincón, ángulo) - gon  
@@ -1296,22 +1298,31 @@ europio - europem
 evaluación (crítica) - piping  
 evangelio - evanjil  
 eviar por correo - posta  
+evidente - exvidi  
 exacto (preciso) - justi  
 examinar (inspeccionar) - genca  
+excavar - exkava  
 excelente - bonsifi  
 excepto (menos) - mina  
+excluir - exklusa  
+exclusivo - exklusivi  
 existir (estar presente) - zayu  
+exoplaneta (planeta extrasolar) - explanete  
 explorador (navegador) - brauzer  
 explorar - brauza  
+explosionar - explozu  
 explosión (estallado) - bum  
+explosión - exploze  
 explotar (estallar) - bumu  
-exportar - vaimisa  
+exponer (revelar) - expoza  
+exportar - exmisa  
 exposición (espectáculo) - xou  
-expulsar (exceptuar, excepto) - vaya  
-exterior - vai  
-exterior - vayi  
-extranjero - vaidexi  
-exónimo - vainam  
+expulsar (exceptuar, excepto) - exa  
+exterior - exi  
+extraer - extrata  
+extranjero - exdexi  
+exógeno - exojeni  
+exónimo - exnam  
 ####F - F  
 facilidad - fasilia  
 falda - jupe  
@@ -1365,7 +1376,7 @@ flor - ful
 florecer - fulu  
 florero - fuljar  
 flotador (boya) - boi  
-fluir - daru  
+fluir - rivu  
 flúor - flurem  
 fondo - tal  
 fonema - fonem  
@@ -1393,6 +1404,7 @@ fruta - pal
 frío - lengi  
 fuego - hoge  
 fuente (manantial) - fonte  
+fuera (exterior) - ex  
 fuerte - forti  
 fuerza - fortia  
 fuerza aérea - airgun  
@@ -1400,8 +1412,8 @@ funcionar - funcu
 funcionario - ofiser  
 fundador - bazer  
 fundar (basar) - baza  
-fusionar (fundir) - darunu  
-fusión - darunia  
+fusionar (fundir) - rivunu  
+fusión - rivunia  
 fusión nuclear - kerni darunia  
 futuro - vil  
 fábrica - fatokan  
@@ -1576,7 +1588,7 @@ helicóptero - helisviman
 helio - helem  
 heno - gancau  
 hercio (Hz) - herze  
-hermano o hermana - saudar  
+hermano o hermana - brus  
 hermoso (bello, lindo) - sundari  
 herramienta - tul  
 herrero - metaljanger  
@@ -1594,8 +1606,9 @@ hierbabuena - zongominte
 hierro - fer  
 higiene - hijenia  
 hija - femi pute  
+hijastro o  hijastra - gamben  
 hijo - mani pute  
-hijo o hija - pute  
+hijo o hija - ben  
 Himalaya - Himalia  
 hinduismo - hindistia  
 hindú - hindiste  
@@ -1676,6 +1689,8 @@ Imperio otomano - Osmani Imperia
 Imperio romano - Roma Imperia  
 impermeable (sumergible) - suisekuri  
 impermeable - barxokote  
+implosionar - inplozu  
+implosión - inploze  
 importante - hami  
 importar - hamu  
 importar - inmisa  
@@ -1684,11 +1699,14 @@ impuesto (tributo, tarifa) - tarif
 imán - manete  
 inclinar - gautalu  
 inclinar - terca  
+incluido - inkluso  
+incluir - inklusa  
+inclusivo - inklusivi  
 India - Bartia  
 indicador (cursor) - ponter  
 indio (hindú) - barti  
 indium - hindem  
-Indo - Hindonade  
+Indo - Hinde riu  
 Indonesia - Indonesia  
 Indostán - Hindia  
 indígena (indio) - aslameriki  
@@ -1790,7 +1808,7 @@ jazz - jaze
 jefe - xef  
 Jersey - Jerze  
 Jesús - Yesus  
-jira (pícnic) - vaiyam  
+jira (pícnic) - exyam  
 jirafa - jiraf  
 joder (coger, copular) - coda  
 Jordania - Urdun  
@@ -1970,8 +1988,8 @@ lápida - gabroxeke
 léxico - logi  
 Líbano - Libanen  
 límite (frontera, linde) - limite  
-líquido (fluido) - darmati  
-líquido - darmate  
+líquido (fluido) - riumati  
+líquido - riumate  
 lógica - logike  
 ####M - M  
 Macao - Makau  
@@ -1981,7 +1999,8 @@ macrial (militar) - jengi
 macroalga - hayalge  
 Madagascar - Malagasia  
 madera - mokomate  
-madre (mamá) - mam  
+madrastra - vismai  
+madre (mamá) - mai  
 maduro (adulto, curado) - maturi  
 maestro (experto) - mester  
 maestro (gurú, profesor) - guru\*  
@@ -2432,7 +2451,8 @@ oír (escuchar) - auda
 paciente - patike  
 pacifismo - pacistia  
 pacifista - paciste  
-padre (papá) - pape  
+padrastro - vispai  
+padre (papá) - pai  
 pagano (infiel) - kafir  
 pago - pei  
 Pakistán - Pakistan  
@@ -2485,7 +2505,7 @@ parasol - barxocate
 parasol - solcate  
 parecer - rupu  
 parecerse a - samu  
-parente (madre o padre) - jener  
+parente (madre o padre) - cin  
 paria - parai  
 parque - parke  
 parte (fracción) - fen  
@@ -2521,7 +2541,7 @@ pausa - pauze
 pavo (guajalote) - dinde  
 paz - pace  
 país (nación, estado, terra) - dex  
-país extranjero - vaidex  
+país extranjero - exdex  
 Países Bajos - Nederlandia  
 pecado - duskar  
 pecho (busto) - buste  
@@ -2713,6 +2733,7 @@ primavera - fulmosim
 primer (inicial, inaugural) - xuri  
 primer ministro - xefi minister  
 primero (numbre uno) - unodi  
+primo - cinbrusben  
 principal - xefi  
 prisión - prizon  
 proactinio - protacinem  
@@ -2918,7 +2939,7 @@ riesgo - riske
 rima - rim  
 ring - ringar  
 rinoceronte - kornonos  
-rio - nade  
+rio - riu  
 ritmo - ritim  
 rito (ceremonia) - pujorite  
 riñon - nefre  
@@ -3041,6 +3062,7 @@ semilla - sem
 seminal - semi  
 sencillo (liso) - sadi  
 Senegal - Senegal  
+seno (teta) - mam  
 sentar - sida  
 sentarse - sidu  
 sentido - sense  
@@ -3143,6 +3165,8 @@ Sudáfrica - Sudafrike
 Sudán - Sudan  
 Sudán del Sur - Sudi Sudan  
 Suecia - Suenia  
+suegra - gammai  
+suegro - gampai  
 sueño - som  
 sufijo - badofikse  
 sufijo para adjetivos - -i  
@@ -3243,6 +3267,7 @@ tener sexo - seksa
 teneso - tenesiem  
 Tennessee - Tenesi  
 tennis - tenis  
+tenso - tensi  
 tentar (seducir) - tenta  
 tentempié - lilyam  
 tentáculo - senter  
@@ -3318,6 +3343,7 @@ toxina - biutokse
 trabajador (obrero) - karer  
 trabajar - kara  
 trabajo - kar  
+tractor - trater  
 tradicción (interpretación) - tarje  
 traditional (convencional) - riti  
 traducir (interpretar) - tarja  

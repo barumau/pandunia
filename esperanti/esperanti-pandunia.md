@@ -122,6 +122,8 @@ aveno - aven
 aventuristo - venturer  
 aventuro - ventur  
 avida - tami  
+avino - cinmai  
+avo - cinpai  
 avokado - avakate  
 azeno - gade  
 azia - asi  
@@ -223,6 +225,8 @@ bonaspekta - bonvidi
 bonega (mojosa) - kuli  
 bonega - superi  
 bonvenon! - salam lai  
+bopatrino - gammai  
+bopatro - gampai  
 borio - borem  
 boro - boron  
 botelo - botel  
@@ -347,13 +351,17 @@ ejo - aria
 ekonomiko - malnomia  
 ekrano - ekran  
 eksa- - eksa\*  
-ekstera - vayi  
-ekstero - vai  
+ekskludi - exklusa  
+eksplodi - explozu  
+eksplodo - exploze  
+ekstera - exi  
+ekstero - ex  
 Ekvadoro - Ekuador  
 ekzemple - misalo  
 ekzemplo - misal  
 ekzerci - lenxa  
 ekzerco - lenxe  
+ekzoplanedo - explanete  
 elefanto - gaje  
 elekti - cuza  
 elekto - cuze  
@@ -395,6 +403,7 @@ Etiopio - Etiopia
 etna - zuki  
 etno - zuke  
 evangelio - evanjil  
+evidenta - exvidi  
 eĉ - hato  
 eĥo - mirsonde  
 Eŭrazio - eurasia  
@@ -489,9 +498,9 @@ fotografio - fotografia
 franca krepo - fransi krepe  
 Francio - Fransia  
 franciumo - fransem  
-frato aŭ fratino - saudar  
+frato aŭ fratino - brus  
 fremda (nekonata) - ansavi  
-fremda lando - vaidex  
+fremda lando - exdex  
 freneza - foli  
 frenezeco - folia  
 freŝa - tazi  
@@ -627,13 +636,13 @@ hundo - vaf
 ####I - I  
 iam - koi sate  
 ideo - idei  
-ido (infano) - pute  
+ido (infano) - ben  
 igi (farigi) - an:a  
 ili - les  
 ilo - tul  
 indio - hindem  
 Indonezio - Indonesia  
-Induso - Hindonade  
+Induso - Hinde riu  
 infano - bace  
 infekto - patomis  
 informacio - konsau  
@@ -850,7 +859,7 @@ kristnasko - kristojen
 kristo - kriste  
 krizo - krize  
 Kroatio - Horvatia  
-krom (escepti) - vaya  
+krom (escepti) - exa  
 kromo - kromem  
 krono - koron  
 kruco - krus  
@@ -877,6 +886,7 @@ kuristo - korer
 kuriumo - kurem  
 kurteno - parde  
 kutimo - ade  
+kuzo - cinbrusben  
 kuŝi - kuxu  
 kvar (4) - cari  
 kvin (5) - limi  
@@ -989,6 +999,7 @@ malvarma - lengi
 malĝoja - duki  
 malĝojigi - duka  
 malĝojo - duke  
+mamo - mam  
 mana - handi  
 mandarino - laloranje  
 mandarinĉina - Putong Cini  
@@ -1222,8 +1233,8 @@ pasporto - pasporte
 pastro - dinguru\*  
 pato - tau  
 patologio - patolojia  
-patrino - mam  
-patro - pape  
+patrino - mai  
+patro - pai  
 paĝo - varkolate  
 pedalo - pedal  
 peniso - penis  
@@ -1389,7 +1400,7 @@ ripeti (refari) - reya
 riska - riski  
 risko - riske  
 ritmo - ritim  
-rivero - nade  
+rivero - riu  
 rizo - ris  
 robo - tunike  
 roboto - robote  
@@ -1618,10 +1629,11 @@ traduki - tarja
 tradukisto - tarjer  
 traduko - tarje  
 trajno (vagonaro) - tren  
+traktoro - trater  
 trankvila (serena) - xanti  
 tranĉi - kata  
 tranĉilo - cake  
-treni - tova  
+treni - trata  
 trezoro - bau  
 tri (3) - san  
 tribo - tribe  
@@ -1692,6 +1704,8 @@ vi ĉiu - tes
 via (cia) - ti  
 viando - manse  
 vic- - visi  
+vicpatrino - vismai  
+vicpatro - vispai  
 vidi (rigardi) - vida  
 vidvo - vidou  
 vikia artikulo - vike  

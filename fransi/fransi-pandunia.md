@@ -76,6 +76,7 @@ Amérique - Amerike
 anal - anusi  
 analyse - fenkate  
 analyser - fenkata  
+anaérobique - anairbivi  
 ancre - angar  
 Andes - Andes  
 Andorre - Andora  
@@ -169,6 +170,7 @@ avoir tendance à - iva
 axe - akse  
 Azerbaijan - Azerbaijan  
 azur - lazuri  
+aérobique - airbivi  
 aéroport - airporte  
 aïe! - ai  
 ####B - B  
@@ -210,7 +212,9 @@ basketball - baskobol
 bassin - basen  
 bateau - nau  
 beau - sundari  
+beau-père - gampai  
 beauté - sundaria  
+belle-mère - gammai  
 bengali - bangli  
 besoin - yau  
 betterave - bete  
@@ -372,9 +376,9 @@ consultant (conseiller) - konseler
 conteneur - inan  
 continu (analogique) - zoki  
 continuer (poursuivre) - zoka  
-contract (traité) - trate  
+contract (traité) - trete  
 convenir (être approprié) - hapu  
-convention (alliance, pacte) - kontrate  
+convention (alliance, pacte) - kontrete  
 copie - kope  
 coquelicot - medenpapil  
 corail - koral  
@@ -394,6 +398,7 @@ coureur - korer
 courgette - lilkaboge  
 courir - kora  
 couronne - koron  
+cousin - cinbrusben  
 coutume - ade  
 couvrir - daka  
 crabe - krabe  
@@ -498,7 +503,7 @@ ennemi - dusjan
 enseigner - xulana  
 ensuite (après, plus tard) - bado  
 enterrer - gabra  
-entonnoir - dartube  
+entonnoir - riutube  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -510,7 +515,16 @@ ethnique - zuki
 Europe - Europe  
 européen - europi  
 exact (précis) - justi  
+excaver - exkava  
+exclure - exklusa  
+exclusif - exklusivi  
+exoplanète - explanete  
+exploser (détoner) - explozu  
 explosion - bum  
+explosion - exploze  
+exposer - expoza  
+extraire - extrata  
+extérieur - ex  
 exécrer - anama  
 ####F - F  
 face (facette) - fas  
@@ -536,7 +550,7 @@ fibre - linem
 fier - yauxina  
 fil de fer - metallin  
 fil de trame - veilin  
-fils ou fille - pute  
+fils ou fille - ben  
 fini - fini  
 fiord - fiorde  
 fleur - ful  
@@ -560,7 +574,6 @@ francophonie - Fransofonia
 fromage - cize  
 fromage blanc - panir  
 frêne - yasen  
-fuera (exterior) - vai  
 Félicitations ! - barke!  
 féliciter - barka  
 ####G - G  
@@ -585,6 +598,8 @@ gombo - bamye
 gorille - goril  
 goule - gul  
 gouvernement - polite  
+grand-mère - cinmai  
+grand-père - cinpai  
 granit - granite  
 gravire - grau  
 grenouille - krokroke  
@@ -645,10 +660,14 @@ imiter - mima
 immigrant - inmigran  
 immigrer - inmigra  
 imperméable - barxokote  
+imploser - inplozu  
+implosion - inploze  
 important - hami  
+inclure - inklusa  
+inclusif - inklusivi  
 Inde - Bartia  
 indien - barti  
-Indus - Hindonade  
+Indus - Hinde riu  
 infecter - patomisa  
 infection (contagion) - patomis  
 infidèle (incroyant) - andiniste  
@@ -822,7 +841,7 @@ mur - mur
 musique - muzike  
 mycélium - fungonete  
 mât - maste  
-mère (maman) - mam  
+mère (maman) - mai  
 mètre - mitre  
 méduse - haijel  
 méfait (péché) - duskar  
@@ -950,7 +969,7 @@ peinture - pente
 pelle - bel  
 perdant - xibayer  
 perder - xibaya tena  
-pere (papa) - pape  
+pere (papa) - pai  
 perfectionner (parfaire) - purbona  
 perplexe (désorienté) - ruhmixi  
 perroquet - papagai  
@@ -971,7 +990,7 @@ pile (batterie) - batre
 piment - cili\*  
 pioche - pincope  
 piquant - pinani  
-piquenique - vaiyam  
+piquenique - exyam  
 piraterie - piratia  
 pistolet - pau  
 pizza - pize  
@@ -1085,7 +1104,7 @@ riche - rici
 rime - rim  
 ring (manège) - ringar  
 rire - haha  
-rivière (fleuve) - nade  
+rivière (fleuve) - riu  
 riz - ris  
 robot - robote  
 roche (pierre) - petre  
@@ -1145,6 +1164,7 @@ se mouvoir - kinu
 se plaire - suku  
 se rappeler (se remémorer) - mema  
 seau - balde  
+sein - mam  
 sel - sal  
 semence - sem  
 sens - sense  
@@ -1210,6 +1230,7 @@ temple - pujokan
 temps (durée) - dur  
 tendance - ivia  
 tender - tirlonga  
+tendu - tensi  
 tentacule - senter  
 tente - hemah  
 terrain - geuforme  
@@ -1238,11 +1259,12 @@ Tournesol - solful
 toxicologie - toksolojia  
 toxine - biutokse  
 trace - marke  
+tracteur - trater  
 traduction - tarje  
 travail - kar  
 travailler - kara  
 travailleur (ouvrier) - karer  
-traîner - tova  
+traîner - trata  
 tremper (faire mariner) - purxipa  
 tribord - nauraite  
 trois (3) - san  
@@ -1318,6 +1340,7 @@ vêtements - fuke
 vœu (promesse) - vode  
 wolof - Volof  
 ####X - X  
+y compris - inkluso  
 Yahweh (Jéhovah) - Yahve  
 ####Z - Z  
 zombi - zombe  
@@ -1360,7 +1383,7 @@ zèbre - zebre
 épices - masal  
 épingle - pin  
 éponge - esponje  
-époux - gamike  
+époux - gam  
 épreuve (test) - teste  
 épée - katan  
 équipe - tim  
@@ -1377,6 +1400,7 @@ zèbre - zebre
 évaluer - vala  
 évangile - evanjil  
 éveillé - jagi  
+évident - exvidi  
 être - sa  
 être couché - kuxu  
 être humain - insan  

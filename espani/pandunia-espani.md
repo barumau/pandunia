@@ -35,6 +35,7 @@ ainstainem - einsteinium
 air - aire  
 airbaria - presión atmosférica  
 airbarmetrer - barómetro  
+airbivi - aeróbico  
 airgun - fuerza aérea  
 airporte - aeropuerto  
 Aire - Irlanda  
@@ -101,6 +102,7 @@ amirer - emir
 amirlin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
+anairbivi - anaeróbico  
 anama - detestar  
 andaka - destapar  
 andeviste - ateo  
@@ -335,6 +337,7 @@ bel - pala
 Belarus - Belarús  
 Belgia - Bélgica  
 Belize - Belice  
+ben - hijo o hija  
 bence - banco (silla)  
 benda - atar (amarrar)  
 bende - banda (cinta)  
@@ -418,6 +421,7 @@ bruni - marrón
 brunalge - algas pardas  
 brunsalmon - trucha marrón  
 Brunei - Brunei  
+brus - hermano o hermana  
 buca - carnear (matar)  
 bucer - carnicero  
 bucokan - matadero  
@@ -503,7 +507,11 @@ cesem - cesio
 Cile - Chile  
 cili\* - chile  
 cimpanze - chimpancé  
+cin - parente (madre o padre)  
 cini - chinés (de los Han)  
+cinbrusben - primo  
+cinmai - abuela  
+cinpai - abuelo  
 cincil - chinchilla  
 cinga - pedir (invitar; por favor)  
 cinga laya - invitar  
@@ -567,12 +575,6 @@ dante - diente
 dantobalute - roble daimyo  
 dantobrox - cepillo de dientes  
 dantomediker - dentista (odontólogo)  
-daru - fluir  
-darmate - líquido  
-darmati - líquido (fluido)  
-dartube - embudo  
-darunia - fusión  
-darunu - fusionar (fundir)  
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
 darjomute - desarrollo  
@@ -803,6 +805,24 @@ europi - europeo
 Europi Unia - Unión Europea  
 europem - europio  
 europobalute - roble común  
+ex - fuera (exterior)  
+exa - expulsar (exceptuar, excepto)  
+exi - exterior  
+exdex - país extranjero  
+exdexi - extranjero  
+exyam - jira (pícnic)  
+exkava - excavar  
+exklusa - excluir  
+exklusivi - exclusivo  
+exmisa - exportar  
+exnam - exónimo  
+exojeni - exógeno  
+explanete - exoplaneta (planeta extrasolar)  
+exploze - explosión  
+explozu - explosionar  
+expoza - exponer (revelar)  
+extrata - extraer  
+exvidi - evidente  
 ####F - F  
 fada - suministrar (dar, proveer, emitir)  
 faidi - útil (beneficioso)  
@@ -975,10 +995,13 @@ galta - errar (cometer un error)
 galte - error  
 galti - erróneo  
 galto buda - malinterpretar  
+gam - esposo o esposa  
 gama - casar  
 gami - casado  
 gamia - casamiento  
-gamike - esposo o esposa  
+gamben - hijastro o  hijastra  
+gammai - suegra  
+gampai - suegro  
 Gambia - Gambia  
 gamel - camello  
 gana - secar  
@@ -1205,11 +1228,11 @@ him - nieve
 himu - nevar  
 himros - escarcha  
 Himalia - Himalaya  
+Hinde riu - Indo  
 Hindia - Indostán  
 hindem - indium  
 hindiste - hindú  
 hindistia - hinduismo  
-Hindonade - Indo  
 hisaba - calcular  
 hisabia - aritmética (cálculos)  
 hisabolojia - matemática  
@@ -1313,11 +1336,16 @@ indi - interior (interno)
 inan - contenedor  
 inite - contenido  
 injeni - innato (endógeno)  
+inklusa - incluir  
+inkluso - incluido  
+inklusivi - inclusivo  
 inliste - índice de contenidos  
 inmigra - inmigrar  
 inmigran - inmigrante  
 inmisa - importar  
 innam - endónimo  
+inploze - implosión  
+inplozu - implosionar  
 insida - agacharse  
 Indonesia - Indonesia  
 insan - ser humano  
@@ -1401,7 +1429,6 @@ jeni - crudo
 jeni bax - lengua materna  
 jenu - nacer  
 jenden - cumpleaños  
-jener - parente (madre o padre)  
 jengrupe - generación (cohorte)  
 jenita - criar  
 jenklas - casta  
@@ -1689,7 +1716,7 @@ konpaxia - compasión
 konsau - información  
 konsavana - comunicar (informar)  
 konseler - consultor  
-kontrate - convenion (pacto)  
+kontrete - convenion (pacto)  
 Konakri Ginia - Guinea  
 koncung - insecto  
 kong - agujero (hueco)  
@@ -1826,8 +1853,6 @@ lau - viejo (anciano)
 Lau - Laos  
 lavi - viejo (anciano)  
 lavi - laosiano  
-laumam - abuela  
-laupape - abluelo  
 laurensem - laurencio  
 lax - vestigio (sobrante, residuo)  
 laxa - dejar  
@@ -1951,6 +1976,7 @@ mager - mago
 magesem - magnesio  
 Magyaria - Hungría  
 Magribia - Marruecos  
+mai - madre (mamá)  
 mayan - maya  
 Mayote - Mayotte (Mahoré)  
 mais - maíz  
@@ -1977,7 +2003,7 @@ Mali - Mali
 malike - jazmín  
 Malta - Malta  
 Malvinas nesia - Islas Malvinas  
-mam - madre (mamá)  
+mam - seno (teta)  
 mamal - mamífero  
 man - masculino (macho)  
 mani pute - hijo  
@@ -2225,7 +2251,6 @@ na - sin
 no - no  
 nabe - profecía  
 naber - profeta  
-nade - rio  
 nafas - respiración  
 nagre - pueblo  
 nagri - urbano  
@@ -2422,6 +2447,7 @@ padomosim - otoño
 padomun - trampilla  
 pagre - turbante  
 pai - pastel (pay)  
+pai - padre (papá)  
 paka - embalar (llevar)  
 pake - paquete  
 Pakistan - Pakistán  
@@ -2456,7 +2482,6 @@ panir - queso fresco
 panjabi - punjabí  
 panke - ventilador  
 pante - pantalones  
-pape - padre (papá)  
 papagai - loro (papagayo)  
 papai - papaya  
 papir - artículo (documento)  
@@ -2678,7 +2703,6 @@ purfina - completar (terminar)
 purfityamiste - vegano  
 purfityamistia - veganismo  
 purxipa - remojar (marinar, encurtir, macerar)  
-pute - hijo o hija  
 putau - uva  
 putavoranje - pomelo (toronja)  
 Putong Cini - chino mandarín  
@@ -2769,6 +2793,13 @@ riski - arriesgado
 rite - costumbre (tradición, convención)  
 riti - traditional (convencional)  
 ritim - ritmo  
+riu - rio  
+rivu - fluir  
+riumate - líquido  
+riumati - líquido (fluido)  
+riutube - embudo  
+rivunia - fusión  
+rivunu - fusionar (fundir)  
 robote - robot (bot)  
 rodem - rodio  
 rokete - cohete (misil)  
@@ -2917,7 +2948,6 @@ sauvoli - interesado (curioso)
 sauvolu - preguntarse  
 sauvolani - interesante (curioso)  
 Saudi Arabia - Arabia Saudita  
-saudar - hermano o hermana  
 sauna\* - sauna  
 saus - salsa  
 sekreter - secretario  
@@ -3195,6 +3225,7 @@ tennili - celeste (azul celeste)
 Tenesi - Tennessee  
 tenesiem - teneso  
 tenis - tennis  
+tensi - tenso  
 tenta - tentar (seducir)  
 teoria - teoría  
 tepe - cinta adhesiva  
@@ -3229,8 +3260,8 @@ tira - tirar
 tira milke - ordeñar  
 tira pil - quitar (pelar)  
 tirbaton - palanca  
-tirdar - corriente de resaca  
 tirlonga - estirar (extender)  
+tiroriu - corriente de resaca  
 tirsanduke - cajón (gaveta)  
 titanem - titanio  
 tixi - nueve (9)  
@@ -3250,14 +3281,15 @@ topograf - topografía
 torem - torio  
 torse - torso  
 tortuge - tortuga  
-tova - arrastrar  
 transa - transitar (atravesar)  
 transe - tránsito  
 transeria - transporte  
 transogoni - diagonal  
-trate - contrato (tratado)  
+trata - arrastrar  
+trater - tractor  
 tren - tren  
 trendau - vía férrea  
+trete - contrato (tratado)  
 tribe - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
 truka - engañar  
@@ -3289,14 +3321,6 @@ vadosusan - convalaria (lirio de los valles)
 vaf - perro  
 vagin - vagina  
 vaginitis - vaginitis  
-vai - exterior  
-vaya - expulsar (exceptuar, excepto)  
-vayi - exterior  
-vaidex - país extranjero  
-vaidexi - extranjero  
-vaiyam - jira (pícnic)  
-vaimisa - exportar  
-vainam - exónimo  
 vakila - representar  
 vaksin - vacuna  
 val - valor  
@@ -3428,6 +3452,8 @@ uzernam - nombre de usuario
 Uzbekia - Uzbekistán  
 veisirke - latitud  
 vinsuan - vinagre  
+vismai - madrastra  
+vispai - padrastro  
 ####X - X  
 xake - rama  
 xakal - chacal  

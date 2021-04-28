@@ -49,6 +49,7 @@ adversary (antagonist, opponent) - xatan
 advice (counsel) - sel  
 advice (recommend) - sela  
 advisor (counselor, mentor) - menter  
+aerobic - airbivi  
 Afghan - afgani  
 Afghanistan - Afgania  
 afraid (scared) - fobi  
@@ -65,9 +66,9 @@ aggressor - agreser
 agile - ajili  
 agoraphobia - medenfobia  
 agree (concur) - samraya  
-agree (make an agreement) - trata  
+agree (make an agreement) - treta  
 agreement (consent) - samrayia  
-agreement (treaty) - trate  
+agreement (treaty) - trete  
 aim at (for, toward) - dika  
 air - air  
 airforce - airgun  
@@ -116,6 +117,7 @@ ampere (amp) - amper
 amplify (scale) - daidarja  
 ampoule (vial) - ampul  
 amuse (entertain) - vana  
+anaerobic - anairbivi  
 anaglyphic (stereoscopic) - dulgrafi  
 anal - anusi  
 analyse (dissect, parse) - fenkata  
@@ -458,6 +460,7 @@ Brazil - Brazil
 Brazzaville - Brazavil  
 bread - pang  
 breakfast - subyam  
+breast (boob, tit) - mam  
 breastplate - sinplate  
 breath - nafas  
 breed - jenita  
@@ -635,7 +638,7 @@ chicken - kokode
 chickpea - humus  
 chief (boss) - xef  
 child (minor) - bace  
-child (offspring) - pute  
+child (offspring) - ben  
 Chile - Cile  
 chimpanzee - cimpanze  
 China - Junguo  
@@ -689,6 +692,7 @@ clockwise - rotoraito
 clone (replica) - klon  
 clone (replicate) - klona  
 close (shut) - ankaya  
+close (shut) - klusa  
 closed - ankayi  
 cloth (fabric, textile) - tex  
 clothed (dressed) - fuki  
@@ -823,6 +827,7 @@ counterclockwise (anticlockwise) - rotolefto
 country (land, state) - dex  
 countryside - rustia  
 coupon - kupon  
+cousin - cinbrusben  
 cover (conceal) - daka  
 cover (lid, cap, deck) - dake  
 covet - tamu  
@@ -1012,7 +1017,7 @@ doubt (disbelief) - dute
 doubtful (suspicious, disbelieving) - dutani  
 downgrade - dusdarja  
 download - netogeta  
-drag (haul, tow, trail) - tova  
+drag (haul, tow, trail) - trata  
 dragon - lung  
 dragonfly - libel  
 drama - dram  
@@ -1159,29 +1164,39 @@ event (case, instance) - kas
 every (each) - mei  
 everybody (everyone) - pan jan  
 everything - pan xei  
+evident (apparent, obvious) - exvidi  
 exa- - eksa\*  
 examine (inspect, check) - genca  
 example (instance of) - misal  
+excavate (dig out) - exkava  
 exceed (be greater than) - maxu  
 excellence (quality, virtue) - bonsifia  
 excellent - bonsifi  
 except (minus) - mina  
 exchange (swap, replace, trade) - badla  
+exclude (keep out) - exklusa  
+exclusive - exklusivi  
 excrement (shit) - kake  
 exercise - lenxe  
 exist (be present) - zayu  
 exit (leaving) - cute  
 exit door - cutomun  
-exonym - vainam  
+exogenous - exojeni  
+exonym - exnam  
+exoplanet - explanete  
 expect (anticipate, predict, forsee) - cenvida  
 expected - cenvidi  
 expensive (costly) - kosti  
 explode (blow up) - bumu  
+explode - explozu  
 explore (browse) - brauza  
 explorer (browser) - brauzer  
 explosion (blast, eruption) - bum  
-export - vaimisa  
-extérieur - vai  
+explosion - exploze  
+export - exmisa  
+expose (reveal) - expoza  
+extend (stretch out) - extensa  
+extract (draw out) - extrata  
 eye (look, watch) - oka  
 eye - oke  
 eyelash - okokex  
@@ -1212,7 +1227,8 @@ fascist - faxiste
 fashion (trend) - faxon  
 fast (quick, rapid, speedy) - rapidi  
 fat (grease) - fete  
-father (dad, papa) - pape  
+father (dad, papa) - pai  
+father-in-law - gampai  
 fatigue (weariness) - fatigia  
 fatty (greasy) - feti  
 fault (sin, blame, defect, guilt) - dox  
@@ -1286,12 +1302,12 @@ float (buoy, bobber) - boi
 float (swim) - boyu  
 floor - kamartal  
 florist's chrysanthemum - guke  
-flow (current, stream) - dar  
-flow - daru  
+flow (current, stream) - riu  
+flow - rivu  
 flower - ful  
 flower vase - fuljar  
 flowerpot - fulpote  
-fluid (liquid) - darmati  
+fluid (liquid) - riumati  
 fluorine - flurem  
 fly (go through air) - feyu  
 fly - zeze  
@@ -1308,8 +1324,8 @@ for example - misalo
 forbid (ban, disallow) - harama  
 forbidden (illicit, haram, taboo) - harami  
 force (strength, power) - fortia  
-foreign - vaidexi  
-foreign country - vaidex  
+foreign - exdexi  
+foreign country - exdex  
 forenoon - suboden  
 forest (woods, jungle) - jangle  
 forget - anmema  
@@ -1354,9 +1370,9 @@ fully (completely) - puro
 fun (amusement) - van  
 function (work) - funcu  
 fungus (mushroom) - fung  
-funnel - dartube  
+funnel - riutube  
 funny (amusing) - vani  
-fusion (amalgamation) - darunia  
+fusion (amalgamation) - rivunia  
 future time - vil  
 ####G - G  
 Gabon - Gabon  
@@ -1451,8 +1467,10 @@ gram (g) - gram
 grammar - baxkanun  
 grammatical - baxkanuni  
 grammatical gender - baxi jinse  
-grandfather - laupape  
-grandmother - laumam  
+grandchild - benben  
+grandfather - cinpai  
+grandmother - cinmai  
+grandparent - cincin  
 granite - granite  
 grape - putau  
 grapefruit - putavoranje  
@@ -1666,9 +1684,14 @@ immigrate (move in) - inmigra
 impale (stab, skewer) - zonga  
 imperialism - imperistia  
 imperialist - imperiste  
+implode (collapse) - inplozu  
+implosion - inploze  
 import - inmisa  
 important - hami  
 imprison (jail) - prizona  
+include (enclose, hold in) - inklusa  
+including - inkluso  
+inclusive - inklusivi  
 increase - maxa  
 increment - maxdarja  
 India - Bartia  
@@ -1677,7 +1700,7 @@ Indian chrysanthemum - neftoguke
 Indian Ocean - Barti Hai  
 indium - hindem  
 Indonesia - Indonesia  
-Indus river - Hindonade  
+Indus river - Hinde riu  
 infect - patomisa  
 infection (infestation, contagion) - patomis  
 infidel (pagan, heathen, unbeliever) - kafir  
@@ -1920,7 +1943,7 @@ linguistics - baxlojia
 link - sil  
 lion - sing  
 lip - labe  
-liquid - darmate  
+liquid - riumate  
 list (listing, catalogue) - liste  
 listen - ora  
 literature (body of written works) - kitabia  
@@ -2062,6 +2085,8 @@ match (contest) - mece
 match (fit, suit, go well together) - konboni  
 material (ingredient, resource) - faidomate  
 material - mati  
+maternal grandfather - maipai  
+maternal grandmother - maimai  
 mathematician - hisabolojer  
 mathematics (math) - hisabolojia  
 matter (be important) - hamu  
@@ -2105,7 +2130,7 @@ meninx (meninges) - mening
 mental (psychic) - ruhi  
 mercury (quicksilver) - hurargente  
 Mercury - Merkur  
-merge (fuse) - darunu  
+merge (fuse) - rivunu  
 message - anjil  
 messenger - anjiler  
 messianic - kristi  
@@ -2199,7 +2224,8 @@ mosquito - moskite
 moss - mos  
 mossy - mosi  
 most (maximally) - maxim (maximo)  
-mother (mom, mama) - mam  
+mother (mom, mama) - mai  
+mother-in-law - gammai  
 motion (movement) - mote  
 motorcar (automobile) - motogar  
 motorcycle - motosikle  
@@ -2272,6 +2298,7 @@ negotiate (arrange) - lona biznes
 neodymium - neodimem  
 neon - neon  
 Nepal - Nepal  
+nephew or niece - brusben  
 nephritis - nefritis  
 Neptune - Neputun  
 neptunium - neputunem  
@@ -2435,10 +2462,11 @@ otter - lontre
 Ottoman - osman  
 Ottoman Empire - Osmani Imperia  
 ouch (ow, alas) - ai  
-oust (expel, exclude, except, save) - vaya  
+oust (expel, exclude, except, save) - exa  
 outcast (pariah) - parai  
-outer (external) - vayi  
-outsider - vaijan  
+outer (external) - exi  
+outside (exterior) - ex  
+outsider - exojan  
 oven (furnace) - tanur  
 overpass - supre  
 own (possess, have) - mala  
@@ -2453,7 +2481,7 @@ pacifism - pacistia
 pacifist - paciste  
 pack (package) - pake  
 pack - paka  
-pact (contract, covenant, alliance) - kontrate  
+pact (contract, covenant, alliance) - kontrete  
 page (side of a leaf of a book) - varkolate  
 pain - pax  
 painful - paxi  
@@ -2495,7 +2523,8 @@ parallel (longitudinal) - parlini
 parameter (argument, input variable) - param  
 parasol - solcate  
 pardon (forgiveness; sorry) - maf  
-parent (mother or father) - jener  
+parent (mother or father) - cin  
+parent-in-law - gamcin  
 Paris - Paris  
 park (garden) - parke  
 parrot (parakeet) - papagai  
@@ -2514,6 +2543,8 @@ password (security code) - sekurkode
 past (bygone) - pasi  
 past times - pas  
 paste (dough) - paste  
+paternal grandfather - paipai  
+paternal grandmother - paimai  
 pathogen - patojener  
 pathology - patolojia  
 patient (subject of medical treatment) - patike  
@@ -2573,7 +2604,7 @@ piano - piano\*
 pickaxe - pincope  
 pickle (preserve in vinegar or brine) - suanpurxipa  
 pickled - suanpurxipi  
-picnic - vaiyam  
+picnic - exyam  
 picture book - grafbuke  
 pidgin (contact language) - pijin  
 pie (pastry) - pai  
@@ -2892,12 +2923,12 @@ rigid (solid) - gatomati
 ring (sports or exhibition arena) - ringar  
 ring (toll, clang) - danga  
 ring - ring  
-rip current - tirdar  
+rip current - tiroriu  
 rise (go up) - gavu  
 risk - riske  
 risky - riski  
 ritual (ceremony, religious custom) - pujorite  
-river (stream) - nade  
+river (stream) - riu  
 road sign - dauban  
 roast - rosta  
 rob (loot, plunder, pillage, ransack) - luta  
@@ -3105,7 +3136,7 @@ show (display, exhibition) - xou
 shower - dux  
 shrimp (prawn) - krevete  
 Siberia - Sibiria  
-sibling (brother or sister) - saudar  
+sibling (brother or sister) - brus  
 sickness (illness, disease) - patia  
 side (flank) - late  
 sideways (laterally) - lato  
@@ -3235,7 +3266,7 @@ spoken (lexical) - logi
 sponge - esponje  
 spoon - camace  
 sport (athletics) - kel  
-spouse (husband or wife) - gamike  
+spouse (husband or wife) - gam  
 spring (springtime) - fulmosim  
 spruce tree - pis  
 square (tetragon) - cargon  
@@ -3267,6 +3298,11 @@ steam (vapor) - suigas
 steamed bun (mantou, manti) - mante  
 stem (torso, trunk, stalk) - tan  
 step (degree, rank, grade, level, class) - darje  
+step-child - gamben  
+step-father - vispai  
+step-mother - vismai  
+step-parent - cingam  
+step-sibling - cingamben  
 stereophonic - dulsondi  
 stick (adhere, paste, glue) - gluta  
 sticker - glutograf  
@@ -3425,6 +3461,7 @@ tendency (inclination) - ivia
 Tennessee - Tenesi  
 tennessine - tenesiem  
 tennis - tenis  
+tension - tensia  
 tent - hemah  
 tentacle (feeler) - senter  
 tera- - tera\*  
@@ -3484,6 +3521,7 @@ ticket - tikete
 tie (fasten, bind) - benda  
 tie a knot - noda  
 tiger - bagre  
+tight (tense) - tensi  
 tikka masala - masali tike  
 tile - tail  
 tilt (skew) - terca  
@@ -3524,7 +3562,7 @@ top - gau
 topic (subject, theme) - tem  
 topography - topograf  
 torch - fotobaton  
-torrent - daidar  
+torrent - dairiu  
 touch - toca  
 tourism - safaristia  
 tourist - safariste  
@@ -3534,6 +3572,7 @@ town - nagre
 toxic (poisonous, venomous) - toksi  
 toxicology - toksolojia  
 toxin - biutokse  
+tractor - trater  
 trade (buy and sell) - vendoxopa  
 trade (commerce) - vendoxope  
 trader (merchant) - vendoxoper  

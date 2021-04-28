@@ -38,6 +38,7 @@ ainstainem - einsteinium
 air - ilma  
 airbaria - ilmanpaine  
 airbarmetrer - ilmapuntari (ilmanpainemittari, barometri)  
+airbivi - aerobinen  
 airgun - ilmavoimat  
 airporte - lentoasema (lentokenttä)  
 Aire - Irlanti  
@@ -101,6 +102,7 @@ amirer - emiiri
 amirhake - käskyvalta  
 amper - ampeeri  
 ampul - ampulli  
+anairbivi - anaerobinen  
 anama - inhota  
 anamike - inhokki (inhotus)  
 anativa - poistaa toiminnasta  
@@ -342,6 +344,8 @@ bel - lapio
 Belarus - Valkovenäjä  
 Belgia - Belgia  
 Belize - Belize  
+ben - lapsi (jälkeläinen)  
+benben - lapsenlapsi  
 bence - penkki  
 benda - sitoa  
 bende - nauha (side)  
@@ -423,6 +427,8 @@ bromem - bromi
 brox - harja  
 bruni - ruskea  
 Brunei - Brunei  
+brus - sisarus (veli tai sisko)  
+brusben - sisaruksen lapsi  
 buca - teurastaa (lahdata)  
 bucer - teurastaja  
 bucokan - teurastamo  
@@ -509,7 +515,13 @@ Cile - Chile
 cili\* - paprika  
 cilifun - paprikajauhe  
 cimpanze - simpanssi  
+cin - vanhempi (isä tai äiti)  
 cini - han-kiinalainen  
+cinbrusben - serkku  
+cincin - isovanhempi  
+cingamben - sisaruspuoli  
+cinmai - isoäiti  
+cinpai - isoisä  
 cincil - chinchilla  
 cing - pyyntö  
 cinga - pyytää (anoa)  
@@ -551,12 +563,12 @@ dayia - suuruus (koko)
 dayu - kasvaa (suurentua)  
 dayanjiler - lähettiläs  
 dayanjilkan - lähetystö  
-daidar - hyöky (vyöry)  
 daidarja - korottaa  
 daidom - palatsi  
 daihai - valtameri  
 daipau - tykki  
 daipaver - tykkimies  
+dairiu - hyöky (vyöry)  
 daisite - suurkaupunki  
 daixeke - lohkare (järkäle)  
 daixulkan - yliopisto  
@@ -579,14 +591,6 @@ danta - purra
 dante - hammas  
 dantobrox - hammasharja  
 dantomediker - hammaslääkäri  
-dar - virta (virtaus)  
-daria - virta (suuri vesi, yms)  
-daru - virrata  
-darmate - neste  
-darmati - nestemäinen  
-dartube - lappo  
-darunia - fuusio (yhteensulautuminen)  
-darunu - sulaa yhteen (fuusioitua)  
 darba - lyödä (iskeä)  
 darje - porras (aste, taso)  
 darji - asteittainen (porrastettu)  
@@ -825,6 +829,26 @@ europi - eurooppalainen
 Europi Unia - Euroopan unioni  
 europem - europium  
 Europa - Europa-kuu  
+ex - ulkopuoli  
+exa - poistaa (paitsi, poislukien)  
+exi - ulko- (ulkoinen)  
+exdex - ulkomaa  
+exdexi - ulkomaalainen  
+exyam - eväsretki (piknik)  
+exkava - kaivaa esiin  
+exklusa - sulkea pois  
+exklusivi - poissulkeva (eksklusiivinen)  
+exmisa - viedä pois (viedä maasta)  
+exnam - eksonyymi  
+exojan - ulkopuolinen  
+exojeni - ulkosyntyinen  
+explanete - eksoplaneetta  
+exploze - räjähdys  
+explozu - räjähtää  
+expoza - ottaa esiin (paljastaa)  
+extensa - venyttää (pingottaa)  
+extrata - vetää ulos  
+exvidi - ilmeinen (silminnähtävä)  
 ####F - F  
 fada - jakaa (jaella)  
 faide - hyöty (etu)  
@@ -1005,10 +1029,13 @@ galta - erehtyä (tehdä virhe)
 galte - virhe (erhe)  
 galti - väärä (virheellinen)  
 galto buda - ymmärtää väärin  
+gam - puoliso (aviomies tai -vaimo)  
 gama - naida (mennä naimisiin)  
 gami - naimisissa  
 gamia - avioliitto  
-gamike - puoliso (aviomies tai -vaimo)  
+gamcin - appivanhempi  
+gammai - anoppi  
+gampai - appi  
 Gambia - Gambia  
 gamel - kameli  
 gana - kuivata (kuivattaa)  
@@ -1226,12 +1253,12 @@ hijenia - hygienia (puhtaus)
 him - lumi  
 himros - kuura  
 Himalia - Himalaja  
+Hinde riu - Indusjoki  
 hindi - hindin kieli  
 Hindia - Hindustan  
 hindem - indium  
 hindiste - hindu  
 hindistia - hindulaisuus (hinduismi)  
-Hindonade - Indusjoki  
 hisaba - laskea (tehdä laskutoimitus)  
 hisabe - lasku (laskelma)  
 hisabia - laskuoppi (aritmetiikka)  
@@ -1329,10 +1356,15 @@ indi - sisä- (sisäinen)
 inan - kontti  
 inite - sisältö  
 injeni - sisäsyntyinen  
+inklusa - sisällyttää (sulkea sisäänsä)  
+inkluso - mukaan lukien  
+inklusivi - kattava  
 inliste - sisällysluettelo  
 inmigra - muuttaa maahan  
 inmigran - maahanmuuttaja  
 innam - endonyymi (omakielinen nimi)  
+inploze - luhistuminen  
+inplozu - luhistua (sortua sisään)  
 Indonesia - Indonesia  
 insan - ihminen  
 insani hake - ihmisoikeudet  
@@ -1411,7 +1443,6 @@ jena - synnyttää
 jeni bax - äidinkieli  
 jenu - syntyä  
 jenden - syntymäpäivä  
-jener - vanhempi (isä tai äiti)  
 jenklas - sääty (kasti)  
 jentipe - perimä (genotyyppi)  
 jeng - taistelu (sota)  
@@ -1645,6 +1676,7 @@ klon - klooni (identtinen kopio)
 klona - kloonata (monistaa)  
 klorem - kloori  
 klube - kerho (klubi)  
+klusa - sulkea  
 kobalte - kobaltti  
 koda - koodata  
 kode - koodi  
@@ -1683,7 +1715,7 @@ konsau - tieto
 konsavana - tiedottaa (informoida)  
 konsela - konsultoida (antaa neuvoja)  
 konseler - konsultti  
-kontrate - liittosopimus  
+kontrete - liittosopimus  
 Konakri Ginia - Guinea  
 koncung - hyönteinen (ötökkä)  
 kong - reikä  
@@ -1913,6 +1945,9 @@ mager - taikuri
 magesem - magnesium  
 Magyaria - Unkari  
 Magribia - Marokko  
+mai - äiti (emä)  
+maimai - äidinäiti  
+maipai - äidinisä  
 mayan - maya (mayaintiaani)  
 Mayote - Mayotte  
 mais - maissi  
@@ -1937,7 +1972,7 @@ Mali - Mali
 malike - jasmiini  
 Malta - Malta  
 Malvinas nesia - Falklandin saaret  
-mam - äiti (emä)  
+mam - nisä (tissi)  
 mamal - nisäkäs  
 man - uros (mies)  
 mani pute - poika  
@@ -2163,7 +2198,6 @@ ne - ei mitään
 no - ei  
 nabe - profetia  
 naber - profeetta  
-nade - joki (virta)  
 nafas - hengitys (henkäys)  
 nagre - kaupunki  
 nahun - kynsi  
@@ -2341,6 +2375,9 @@ padu - pudota (tipahtaa)
 padomosim - syksy (syys)  
 pagre - turbaani  
 pai - piirakka (piiras)  
+pai - isä  
+paimai - isänäiti  
+paipai - isänisä  
 paka - pakata  
 pake - pakkaus (paketti)  
 Pakistan - Pakistan  
@@ -2375,7 +2412,6 @@ panir - rahka
 panjabi - pandžabi (eräs intialainen kieli)  
 panke - viuhka (tuuletin)  
 pante - housut  
-pape - isä  
 papagai - papukaija  
 papai - papaija  
 Papua Novi Ginia - Papua Uusi-Guinea  
@@ -2575,7 +2611,6 @@ purbona - tehdä täydelliseksi
 purboni - täydellinen (täysin hyvä)  
 purfina - tehdä loppuun (saada valmiiksi)  
 purfityamiste - vegaani  
-pute - lapsi (jälkeläinen)  
 putau - viinirypäle  
 Putong Cini - yleiskiina (mandariinikiina)  
 putongi - yleinen (universaali)  
@@ -2656,6 +2691,14 @@ riski - riskialtis
 rite - tapa (perinne)  
 riti - tavanomainen (perinteinen)  
 ritim - rytmi  
+riu - virta (virtaus)  
+riu - joki (virta)  
+rivu - virrata  
+riumate - neste  
+riumati - nestemäinen  
+riutube - lappo  
+rivunia - fuusio (yhteensulautuminen)  
+rivunu - sulaa yhteen (fuusioitua)  
 robote - robotti  
 rodem - rhodium  
 rokete - raketti  
@@ -2784,7 +2827,6 @@ savi - tietty (tunnettu)
 saulojia - tietoteoria (epistemologia)  
 sauvol - kiinnostus (mielenkiinto)  
 Saudi Arabia - Saudi Arabia  
-saudar - sisarus (veli tai sisko)  
 sauna\* - sauna  
 saus - kastike (soosi)  
 sekreter - sihteeri  
@@ -3011,6 +3053,9 @@ tema - aiheesta (-sta)
 ten - taivas  
 tenhal - sää  
 tenis - tennis  
+tensa - kirentää (kiristää)  
+tensi - kireä (tiukka, jännittynyt)  
+tensia - jännitys (jännite)  
 tenta - houkutella  
 teoria - teoria  
 tepe - teippi (nauha)  
@@ -3058,15 +3103,16 @@ tope - seutu (maa)
 topograf - topografia  
 torse - vartalo (varsi, torso)  
 tortuge - kilpikonna  
-tova - vetää (kiskoa, raahata)  
 transa - kulkea poikki, läpi tai yli  
 transe - läpikulku  
 transeria - kuljetus  
-trata - sopia (tehdä sopimus)  
-trate - sopimus  
+trata - vetää (kiskoa, raahata)  
+trater - traktori  
 tren - juna  
 trendau - junarata (rautatie)  
 trenkaper - junakaappari  
+treta - sopia (tehdä sopimus)  
+trete - sopimus  
 tribe - heimo  
 Trinidade e Tobago - Trinidad ja Tobago  
 tualete - vessa  
@@ -3096,15 +3142,6 @@ vade - laakso
 vaf - koira  
 vagin - emätin (vagina)  
 vaginitis - emätintulehdus  
-vai - ulkopuoli  
-vaya - poistaa (paitsi, poislukien)  
-vayi - ulko- (ulkoinen)  
-vaidex - ulkomaa  
-vaidexi - ulkomaalainen  
-vaiyam - eväsretki (piknik)  
-vaijan - ulkopuolinen  
-vaimisa - viedä pois (viedä maasta)  
-vainam - eksonyymi  
 vakila - edustaa  
 vaksin - rokote  
 val - arvo  
@@ -3220,6 +3257,8 @@ uzer - käyttäjä
 Uzbekia - Uzbekistan  
 veisirke - leveyspiiri  
 vinsuan - etikka  
+vismai - äitipuoli (isän puoliso)  
+vispai - isäpuoli (äidin puoliso)  
 ####X - X  
 xake - oksa (haara)  
 xakal - šakaali  

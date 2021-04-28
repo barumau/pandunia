@@ -39,6 +39,7 @@ ainstainem - einsteinium
 air - air  
 airbaria - atmospheric pressure  
 airbarmetrer - barometer  
+airbivi - aerobic  
 airgun - airforce  
 airporte - airport (aeroport)  
 Aire - Ireland  
@@ -109,6 +110,7 @@ amirhake - authority (power to give orders)
 amirlin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
+anairbivi - anaerobic  
 anama - dislike (loathe)  
 anamike - enemy  
 anativa - deactivate (disable, turn off)  
@@ -366,6 +368,8 @@ bel - shovel (spade, scoop)
 Belarus - Belarus  
 Belgia - Belgium  
 Belize - Belize  
+ben - child (offspring)  
+benben - grandchild  
 bence - bench  
 benda - tie (fasten, bind)  
 bende - band (tape, bandage)  
@@ -454,6 +458,8 @@ bruni - brown
 brunalge - brown algae  
 brunsalmon - brown trout  
 Brunei - Brunei Darussalam  
+brus - sibling (brother or sister)  
+brusben - nephew or niece  
 buca - butcher  
 bucer - butcher  
 bucokan - abattoir (slaughterhouse)  
@@ -545,7 +551,14 @@ Cile - Chile
 cili\* - pepper (capsicum)  
 cilifun - paprika  
 cimpanze - chimpanzee  
+cin - parent (mother or father)  
 cini - Han Chinese  
+cinbrusben - cousin  
+cincin - grandparent  
+cingam - step-parent  
+cingamben - step-sibling  
+cinmai - grandmother  
+cinpai - grandfather  
 cincil - chinchilla  
 cing - request (petition)  
 cinga - ask (request, beg, plead; please)  
@@ -587,13 +600,13 @@ dayia - size
 dayu - grow (get bigger)  
 dayanjiler - ambassador  
 dayanjilkan - embassy  
-daidar - torrent  
 daidarja - amplify (scale)  
 daidom - palace (mansion)  
 daihai - ocean  
 dailasun - giant onion  
 daipau - gun (cannon)  
 daipaver - cannoneer  
+dairiu - torrent  
 daisite - big city  
 daivaze - cauldron  
 daixeke - boulder  
@@ -618,13 +631,6 @@ dante - tooth
 dantobalute - daimyo oak  
 dantobrox - tooth brush  
 dantomediker - dentist  
-dar - flow (current, stream)  
-daru - flow  
-darmate - liquid  
-darmati - fluid (liquid)  
-dartube - funnel  
-darunia - fusion (amalgamation)  
-darunu - merge (fuse)  
 darba - strike (punch)  
 darje - step (degree, rank, grade, level, class)  
 darji - gradual  
@@ -879,6 +885,26 @@ Europi Unia - European Union (EU)
 europem - europium  
 europobalute - English oak  
 Europa - Europa  
+ex - outside (exterior)  
+exa - oust (expel, exclude, except, save)  
+exi - outer (external)  
+exdex - foreign country  
+exdexi - foreign  
+exyam - picnic  
+exkava - excavate (dig out)  
+exklusa - exclude (keep out)  
+exklusivi - exclusive  
+exmisa - export  
+exnam - exonym  
+exojan - outsider  
+exojeni - exogenous  
+explanete - exoplanet  
+exploze - explosion  
+explozu - explode  
+expoza - expose (reveal)  
+extensa - extend (stretch out)  
+extrata - extract (draw out)  
+exvidi - evident (apparent, obvious)  
 ####F - F  
 fada - supply (dispense, issue, put out)  
 faide - resource (utility, asset)  
@@ -1067,10 +1093,14 @@ galta - make a mistake
 galte - mistake (error, fault, blunder, bug)  
 galti - wrong (incorrect, erroneous, faulty)  
 galto buda - misunderstand  
+gam - spouse (husband or wife)  
 gama - marry  
 gami - married  
 gamia - marriage (matrimony)  
-gamike - spouse (husband or wife)  
+gamben - step-child  
+gamcin - parent-in-law  
+gammai - mother-in-law  
+gampai - father-in-law  
 Gambia - Gambia  
 gamel - camel  
 gana - dry out  
@@ -1316,12 +1346,12 @@ him - snow
 himu - snow (be snowing)  
 himros - frost  
 Himalia - Himalayas  
+Hinde riu - Indus river  
 hindi - Hindi (Hindustani)  
 Hindia - Hindustan  
 hindem - indium  
 hindiste - Hindu  
 hindistia - Hinduism  
-Hindonade - Indus river  
 Hiperyon - Hyperion  
 hisaba - calculate  
 hisabe - calculation  
@@ -1436,11 +1466,16 @@ indi - inner (internal)
 inan - container  
 inite - content  
 injeni - innate (endogenous, indigenous, inborn)  
+inklusa - include (enclose, hold in)  
+inkluso - including  
+inklusivi - inclusive  
 inliste - table of contents (inventory)  
 inmigra - immigrate (move in)  
 inmigran - immigrant  
 inmisa - import  
 innam - endonym  
+inploze - implosion  
+inplozu - implode (collapse)  
 inpuxa - squeeze (squish)  
 insida - crouch (squat)  
 Indonesia - Indonesia  
@@ -1536,7 +1571,6 @@ jeni - raw (crude)
 jeni bax - native language (mother tongue)  
 jenu - be born  
 jenden - birthday  
-jener - parent (mother or father)  
 jengrupe - generation (cohort)  
 jenita - breed  
 jenklas - caste  
@@ -1809,6 +1843,7 @@ klon - clone (replica)
 klona - clone (replicate)  
 klorem - chlorine  
 klube - club  
+klusa - close (shut)  
 kobalte - cobalt  
 koda - encode (encrypt)  
 kode - code (cipher)  
@@ -1851,7 +1886,7 @@ konsau - information (communicable knowledge)
 konsavana - communicate (inform about)  
 konsela - give consultation  
 konseler - counselor (consultant)  
-kontrate - pact (contract, covenant, alliance)  
+kontrete - pact (contract, covenant, alliance)  
 Konakri Ginia - Guinea  
 koncung - insect  
 kong - hole  
@@ -1997,8 +2032,6 @@ lau - elder
 Lau - Laos  
 lavi - old (aged, elderly)  
 lavi - Lao (Laotian)  
-laumam - grandmother  
-laupape - grandfather  
 laurensem - lawrencium  
 lax - leftover (residue, vestige)  
 laxa - leave behind (abandon, let go)  
@@ -2133,6 +2166,9 @@ mager - magician (sorcerer)
 magesem - magnesium  
 Magyaria - Hungary  
 Magribia - Morocco  
+mai - mother (mom, mama)  
+maimai - maternal grandmother  
+maipai - maternal grandfather  
 mayan - Maya  
 Mayote - Mayotte  
 mais - corn (maize)  
@@ -2160,7 +2196,7 @@ Mali - Mali
 malike - jasmine  
 Malta - Malta  
 Malvinas nesia - Falkland Islands (Malvinas)  
-mam - mother (mom, mama)  
+mam - breast (boob, tit)  
 mamal - mammal  
 man - male  
 mani pute - son  
@@ -2430,7 +2466,6 @@ ne - none
 no - not (no)  
 nabe - prophecy  
 naber - prophet  
-nade - river (stream)  
 nafas - breath  
 nagre - town  
 nagri - urban  
@@ -2640,6 +2675,9 @@ padomosim - autumn (fall)
 padomun - trapdoor  
 pagre - turban  
 pai - pie (pastry)  
+pai - father (dad, papa)  
+paimai - paternal grandmother  
+paipai - paternal grandfather  
 paka - pack  
 pake - pack (package)  
 Pakistan - Pakistan  
@@ -2676,7 +2714,6 @@ panir - quark (paneer)
 panjabi - Punjabi  
 panke - fan (ventilator)  
 pante - pants (trousers)  
-pape - father (dad, papa)  
 papagai - parrot (parakeet)  
 papai - papaya  
 papir - document (paper)  
@@ -2913,7 +2950,6 @@ purfina - complete (make done)
 purfityamiste - vegan  
 purfityamistia - veganism  
 purxipa - soak (steep, marinate)  
-pute - child (offspring)  
 putau - grape  
 putavoranje - grapefruit  
 Putong Cini - Mandarin Chinese (Putonghua)  
@@ -3011,6 +3047,14 @@ riski - risky
 rite - custom (tradition, practice, convention)  
 riti - conventional (customary, traditional)  
 ritim - rhythm (beat)  
+riu - flow (current, stream)  
+riu - river (stream)  
+rivu - flow  
+riumate - liquid  
+riumati - fluid (liquid)  
+riutube - funnel  
+rivunia - fusion (amalgamation)  
+rivunu - merge (fuse)  
 robote - robot (bot)  
 rodem - rhodium  
 rokete - rocket  
@@ -3163,7 +3207,6 @@ sauvoli - interested (curious)
 sauvolu - wonder (be interested in, would like to know)  
 sauvolani - interesting (curious)  
 Saudi Arabia - Saudi Arabia  
-saudar - sibling (brother or sister)  
 sauna\* - sauna  
 saus - sauce  
 sekreter - secretary  
@@ -3453,6 +3496,8 @@ tennili - light blue (sky blue, azure)
 Tenesi - Tennessee  
 tenesiem - tennessine  
 tenis - tennis  
+tensi - tight (tense)  
+tensia - tension  
 tenta - tempt (entice)  
 teoria - theory  
 tepe - tape  
@@ -3489,8 +3534,8 @@ tira - pull (draw, drag)
 tira milke - milk (draw milk)  
 tira pil - strip (peel)  
 tirbaton - lever  
-tirdar - rip current  
 tirlonga - stretch (extend)  
+tiroriu - rip current  
 tirsanduke - drawer  
 Titan - Titan  
 Titania - Titania  
@@ -3513,16 +3558,17 @@ topograf - topography
 torem - thorium  
 torse - trunk (torso)  
 tortuge - turtle (tortoise)  
-tova - drag (haul, tow, trail)  
 transa - transit (pass through or across)  
 transe - transit (passage)  
 transeria - transportation  
 transogoni - diagonal  
-trata - agree (make an agreement)  
-trate - agreement (treaty)  
+trata - drag (haul, tow, trail)  
+trater - tractor  
 tren - train  
 trendau - rail (railway, railroad)  
 trenkaper - train hijacker  
+treta - agree (make an agreement)  
+trete - agreement (treaty)  
 tribe - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
@@ -3558,15 +3604,6 @@ vadosusan - lily of the valley
 vaf - dog  
 vagin - vagina  
 vaginitis - vaginitis  
-vai - extérieur  
-vaya - oust (expel, exclude, except, save)  
-vayi - outer (external)  
-vaidex - foreign country  
-vaidexi - foreign  
-vaiyam - picnic  
-vaijan - outsider  
-vaimisa - export  
-vainam - exonym  
 vakil - representative (proxy, agent)  
 vakila - represent  
 vaksin - vaccine  
@@ -3711,6 +3748,8 @@ uzernam - username
 Uzbekia - Uzbekistan  
 veisirke - latitude  
 vinsuan - vinegar  
+vismai - step-mother  
+vispai - step-father  
 ####X - X  
 xake - branch (bough)  
 xakal - jackal  

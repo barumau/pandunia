@@ -37,6 +37,7 @@ ainstainem - Einsteinium
 air - air  
 airbaria - pression atmosphérique  
 airbarmetrer - baromètre  
+airbivi - aérobique  
 airgun - armée de l'ai  
 airporte - aéroport  
 Aire - Irland  
@@ -99,6 +100,7 @@ amirer - émir
 amirlin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
+anairbivi - anaérobique  
 anama - exécrer  
 anamike - ennemi  
 andeviste - athée  
@@ -281,6 +283,7 @@ bedinje - aubergine
 beker - boulanger  
 bekofan - terre cuite  
 bel - pelle  
+ben - fils ou fille  
 ber - baie  
 berande - balcon  
 berje - bouleau  
@@ -337,6 +340,9 @@ ceniki - vieux (ancien)
 centaur - Centaurée  
 cerize - cerise  
 cili\* - piment  
+cinbrusben - cousin  
+cinmai - grand-mère  
+cinpai - grand-père  
 cir - déchirer  
 cira - déchirer  
 cize - fromage  
@@ -357,7 +363,6 @@ danger - cloche
 danko da - grâce à  
 danse - dance  
 danta - mordre  
-dartube - entonnoir  
 darjomute - développement  
 date - données  
 datobanke - base de données  
@@ -429,6 +434,17 @@ euloge - éloge
 Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
+ex - extérieur  
+exyam - piquenique  
+exkava - excaver  
+exklusa - exclure  
+exklusivi - exclusif  
+explanete - exoplanète  
+exploze - explosion  
+explozu - exploser (détoner)  
+expoza - exposer  
+extrata - extraire  
+exvidi - évident  
 ####F - F  
 fan - boue (fange, bourbe, gadoue)  
 fandefban - garde-boue (aile)  
@@ -486,8 +502,10 @@ Galia - Gaule
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
+gam - époux  
 gamia - mariage  
-gamike - époux  
+gammai - belle-mère  
+gampai - beau-père  
 gancau - foin  
 gantex - serviette  
 ganum - blé  
@@ -571,8 +589,8 @@ hiyar - concombre
 hijabe - voile  
 hijenia - hygiène  
 him - neige  
+Hinde riu - Indus  
 Hindia - Hindustan  
-Hindonade - Indus  
 hisaba - calculer  
 hisabolojia - mathématiques  
 hoga - brûler  
@@ -605,8 +623,13 @@ yavan - nécessaire
 yauxina - fier  
 Yesus - Jésus  
 inan - conteneur  
+inklusa - inclure  
+inkluso - y compris  
+inklusivi - inclusif  
 inmigra - immigrer  
 inmigran - immigrant  
+inploze - implosion  
+inplozu - imploser  
 insida - s’accroupir  
 insan - être humain  
 insani hake - droits de l'homme  
@@ -736,7 +759,7 @@ klimmute - changement climatique
 komputer - ordinateur  
 konkara - collaborer  
 konseler - consultant (conseiller)  
-kontrate - convention (alliance, pacte)  
+kontrete - convention (alliance, pacte)  
 koncung - insecte  
 konserte - concert  
 kope - copie  
@@ -845,12 +868,13 @@ mes - nous
 mafa - pardonner  
 magesem - magnésium  
 Magribia - Maroc  
+mai - mère (maman)  
 makanful - dandélion  
 mal - propriété (possession, bien)  
 malu - appartenir à  
 malan - possédant (propriétaire)  
 malnomia - économie  
-mam - mère (maman)  
+mam - sein  
 mangi - occupé  
 manihayistia - manichéisme  
 manir - comportement (manière)  
@@ -931,7 +955,6 @@ muskulbin - culturisme (musculation)
 muzike - musique  
 ####N - N  
 no - non (ne...pas)  
-nade - rivière (fleuve)  
 najis - pollution  
 namkitaba - signer  
 narde - backgammon  
@@ -991,6 +1014,7 @@ padi - chu
 padomosim - automne  
 pagre - turban  
 pai - tarte  
+pai - pere (papa)  
 pake - paquet  
 pakse - oiseau  
 palabe - querelle (dispute, palabre)  
@@ -1000,7 +1024,6 @@ pande - panda
 pang - pain  
 panir - fromage blanc  
 pante - pantalon  
-pape - pere (papa)  
 papagai - perroquet  
 papai - papaye  
 par - niveau  
@@ -1084,7 +1107,6 @@ puri - plein
 purbona - perfectionner (parfaire)  
 purfina - accomplir (terminer)  
 purxipa - tremper (faire mariner)  
-pute - fils ou fille  
 putavoranje - pamplemousse  
 ####R - R  
 rang - couleur  
@@ -1117,6 +1139,8 @@ ringar - ring (manège)
 ris - riz  
 risvin - vin de riz  
 ritim - rhythme  
+riu - rivière (fleuve)  
+riutube - entonnoir  
 robote - robot  
 roketolancer - Lance-roquettes  
 Roma - Rome  
@@ -1244,6 +1268,7 @@ telvide - téléviseur
 tem - sujet (thème)  
 temnam - titre  
 ten - ciel  
+tensi - tendu  
 tepe - ruban (bande)  
 terci - oblique (de travers)  
 teroristia - terrorisme  
@@ -1260,8 +1285,9 @@ toca - toucher
 toksolojia - toxicologie  
 tomate - tomate  
 topograf - topographie  
-tova - traîner  
-trate - contract (traité)  
+trata - traîner  
+trater - tracteur  
+trete - contract (traité)  
 truka - escroquer  
 truke - ruse  
 Tunisia - Tunisie  
@@ -1272,8 +1298,6 @@ vade - vallée (oued)
 vaf - chien  
 vagin - vagine  
 vaginitis - vaginite  
-vai - fuera (exterior)  
-vaiyam - piquenique  
 val - valeur  
 vala - évaluer  
 vampir - vampire  

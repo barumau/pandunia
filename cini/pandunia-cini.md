@@ -41,6 +41,7 @@ ama - 爱
 ami - 亲爱的  
 amater - 爱好者  
 amer - 恋人 (情人, 爱人)  
+anairbivi - 厌氧的  
 andiniste - 不信神的  
 anmema - 忘记  
 ansomia - 失眠  
@@ -213,7 +214,6 @@ dani - 丹麦的
 danger - 钟 (摇铃)  
 danta - 咬  
 dantobalute - 槲树  
-dartube - 漏斗  
 darjomute - 发展 (开发)  
 date - 数据  
 datobanke - 数据库  
@@ -269,6 +269,11 @@ estan - 锡
 estibem - 锑  
 evanjil - 福音  
 europobalute - 夏櫟  
+ex - 外  
+exyam - 野餐  
+exojan - 外人 (局外人)  
+explanete - 系外行星  
+exploze - 爆炸  
 ####F - F  
 faidia - 效用 (好处)  
 fan - 坭  
@@ -395,8 +400,8 @@ hemah - 帐篷
 Hesia - 黑森  
 hiyar - 黄瓜  
 hijabe - 面纱  
+Hinde riu - 印度河  
 Hindia - 印度斯坦  
-Hindonade - 印度河  
 hisaba - 计算  
 hisabolojia - 数学  
 hoga - 燃烧  
@@ -428,8 +433,10 @@ yavan - 必要的
 yauxina - 信赖  
 yauxinabli - 忠实  
 iki - 的  
+inklusa - 包括  
 inmigra - 移民 (移居)  
 inmigran - 移民者  
+inploze - 内爆  
 insida - 蹲  
 insan - 人类  
 insani hake - 人权  
@@ -551,7 +558,7 @@ kono - 共同 (一起)
 konboni - 相配  
 konkara - 合作  
 konseler - 顾问  
-kontrate - 公約  
+kontrete - 公約  
 koncung - 昆虫  
 konserte - 音乐会  
 kope - 摹本 (拷貝)  
@@ -656,10 +663,12 @@ me - 我
 mes - 我们  
 magesem - 镁  
 Magribia - 摩洛哥  
+mai - 妈妈  
+maimai - 外婆 (外祖母)  
+maipai - 外公 (外祖父)  
 makanful - 蒲公英  
 malu - 属于  
 malnomia - 经济学  
-mam - 妈妈  
 mangi - 忙  
 manihayistia - 摩尼教  
 manir - 方式  
@@ -734,7 +743,6 @@ muzike - 音乐
 ####N - N  
 na lin - 离线  
 no - 不  
-nade - 河 (江)  
 najis - 污染物  
 najisa - 污染  
 namkitaba - 签署  
@@ -783,11 +791,13 @@ paciste - 和平主义者
 pacistia - 和平主义  
 pagre - 包头  
 pai - 馅饼  
+pai - 爸爸  
+paimai - 奶奶 (祖母)  
+paipai - 爷爷 (祖父)  
 pandemi patia - 大流行病  
 panmim - 哑剧  
 pang - 面包  
 pante - 裤子  
-pape - 爸爸  
 papagai - 鹉鹦  
 papai - 木瓜  
 par - 水平  
@@ -875,6 +885,8 @@ ringar - 擂台
 ris - 米  
 risvin - 黄酒 (米酒)  
 ritim - 节奏  
+riu - 河 (江)  
+riutube - 漏斗  
 roketolancer - 火箭筒  
 Roma - 罗马  
 romakamil - 果香菊  
@@ -1009,8 +1021,9 @@ toca - 接触
 toksolojia - 毒物学  
 tomate - 西红柿  
 topograf - 地形  
-tova - 拖  
-trate - 合同 (合约)  
+trata - 拖  
+trater - 拖拉机 (铁牛)  
+trete - 合同 (合约)  
 truka - 耍花招  
 truke - 伎俩  
 tuze - 兔子  
@@ -1020,9 +1033,6 @@ vade - 山谷
 vadosusan - 鈴蘭  
 vaf - 狗  
 vagin - 阴道  
-vai - 外  
-vaiyam - 野餐  
-vaijan - 外人 (局外人)  
 val - 价值  
 vampir - 吸血鬼  
 van - 娱乐  
@@ -1056,6 +1066,8 @@ ura - 好哇
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
 veisirke - 纬度  
+vismai - 继母  
+vispai - 继父  
 ####X - X  
 xalke - 鳞  
 Xanghai - 上海  

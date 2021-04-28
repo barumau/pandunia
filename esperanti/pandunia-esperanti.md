@@ -203,6 +203,7 @@ bekokan - bakejo
 Belarus - Belorusio  
 Belgia - Belgio  
 Belize - Beliceo  
+ben - ido (infano)  
 bence - benko  
 benda - ligi  
 bende - bandaĝo (vindo)  
@@ -256,6 +257,7 @@ Brazil - Brazilo
 bromem - bromo  
 brox - broso  
 bruni - bruna  
+brus - frato aŭ fratino  
 buca - buĉi  
 bucer - buĉisto  
 bucokan - buĉejo  
@@ -309,6 +311,9 @@ cesem - cezio
 Cile - Ĉilio  
 cimpanze - ĉimpanzo  
 cini - hana  
+cinbrusben - kuzo  
+cinmai - avino  
+cinpai - avo  
 cincil - ĉinĉilo  
 cinga - peti (bonvolu)  
 cinga laya - inviti  
@@ -481,6 +486,15 @@ Europe - Eŭropo
 europi - Eŭropa  
 Europi Unia - Eŭropa Unio (EU)  
 europem - eŭropio  
+ex - ekstero  
+exa - krom (escepti)  
+exi - ekstera  
+exdex - fremda lando  
+exklusa - ekskludi  
+explanete - ekzoplanedo  
+exploze - eksplodo  
+explozu - eksplodi  
+exvidi - evidenta  
 ####F - F  
 faidi - utila  
 faidia - utileco  
@@ -601,6 +615,8 @@ galte - eraro (miso)
 galti - erara  
 gama - edzigi  
 gamia - geedzeco  
+gammai - bopatrino  
+gampai - bopatro  
 gamel - kamelo  
 gani - seka  
 ganputau - sekvinbero  
@@ -726,10 +742,10 @@ hiyar - kukumo
 him - neĝo  
 himros - frosto  
 Himalia - Himalajo  
+Hinde riu - Induso  
 hindem - indio  
 hindiste - hinduo  
 hindistia - hinduismo  
-Hindonade - Induso  
 hisaba - kalkuli  
 hisabe - kalkulo  
 hisabolojia - matematiko  
@@ -1099,6 +1115,7 @@ maf - pardono
 mafa - pardoni  
 magia - magio  
 magesem - magnezio  
+mai - patrino  
 mayan - majao  
 maitnerem - mejtnerio  
 makas - tondilo  
@@ -1107,7 +1124,7 @@ malan - havanto
 malnomia - ekonomiko  
 Mali - Malio  
 malike - jasmeno  
-mam - patrino  
+mam - mamo  
 man - viro  
 mangi - okupata  
 mangan - mangano  
@@ -1222,7 +1239,6 @@ muziker - muzikisto
 na - sen  
 no - ne  
 nabe - profetaĵo  
-nade - rivero  
 nafas - spiro  
 nagre - urbo  
 nagri - urba  
@@ -1303,6 +1319,7 @@ paciste - pacifisto
 pacistia - pacifismo  
 padomosim - aŭtuno  
 pai - torto  
+pai - patro  
 pake - pako  
 pakse - birdo  
 pal - frukto  
@@ -1319,7 +1336,6 @@ pang - pano
 panike - paniko  
 panke - ventumilo  
 pante - pantalonoj  
-pape - patro  
 papagai - papago  
 papai - papajo  
 par - nivelo  
@@ -1406,7 +1422,6 @@ pura - plenigi
 puri - plena  
 puro - plene  
 purfina - kompleti  
-pute - ido (infano)  
 putau - vinbero  
 Putong Cini - mandarinĉina  
 putongi - generala (universala)  
@@ -1448,6 +1463,7 @@ ris - rizo
 riske - risko  
 riski - riska  
 ritim - ritmo  
+riu - rivero  
 robote - roboto  
 rodem - rodio  
 rola - ludi rolon  
@@ -1522,7 +1538,6 @@ sau - scio
 sava - scii (koni)  
 saulojia - sciteorio (epistemologio)  
 sauvolani - interesa  
-saudar - frato aŭ fratino  
 sauna\* - saŭno  
 saus - saŭco  
 sekse - sekso  
@@ -1662,7 +1677,8 @@ ton - tono
 tope - regiono  
 torem - torio  
 torse - torso  
-tova - treni  
+trata - treni  
+trater - traktoro  
 tren - trajno (vagonaro)  
 trendau - fervojo  
 tribe - tribo  
@@ -1685,10 +1701,6 @@ vade - valo
 vaf - hundo  
 vagin - vagino  
 vaginitis - vaginito  
-vai - ekstero  
-vaya - krom (escepti)  
-vayi - ekstera  
-vaidex - fremda lando  
 val - valoro  
 van - amuzo  
 vana - amuzi  
@@ -1736,6 +1748,8 @@ urse - urso
 vulve - vulvo  
 uza - uzi  
 vinsuan - vinagro  
+vismai - vicpatrino  
+vispai - vicpatro  
 ####X - X  
 xake - branĉo  
 xal - koltuko  

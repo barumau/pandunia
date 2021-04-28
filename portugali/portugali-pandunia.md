@@ -10,7 +10,7 @@ acento - aksente
 acesso - akses  
 aconselhar - sela  
 acordado - jagi  
-acordo (tratado, contrato) - trate  
+acordo (tratado, contrato) - trete  
 acordo - samrayia  
 adesivo - glutograf  
 adjetivo - sifloge  
@@ -18,6 +18,7 @@ administrador - politer
 adversário - xatan  
 aeite (óleo) - nefte  
 aeroporto - airporte  
+aeróbico - airbivi  
 Afeganistão - Afgania  
 afegão - afgani  
 agacharse - insida  
@@ -47,6 +48,7 @@ amargo - alkalgusti
 ameixa - plum  
 amor - am  
 amêndoa - badam  
+anaeróbico - anairbivi  
 analógico - zoki  
 andesito - andesite  
 anel - ring  
@@ -72,7 +74,7 @@ armadura - defkaske
 armário - almar  
 arquiteto - binplaner  
 arquitetura - binplania  
-arrastar - tova  
+arrastar - trata  
 arroz - ris  
 arte - arte  
 artista - artiste  
@@ -95,6 +97,8 @@ até - hata
 aveia - aven  
 aventura - ventur  
 aventureiro - venturer  
+avó - cinmai  
+avô - cinpai  
 azur (blau) - lazuri  
 azur - nili  
 açougueiro (talhante) - bucer  
@@ -356,12 +360,14 @@ ensinar (lecionar) - xulana
 ensino primário - bazoxulkan  
 ensino secundário - jungoxulkan  
 ensopar (encharcar, marinar) - purxipa  
+enteado - gamben  
 enterrar - gabra  
 enxada - cope  
 erro (falta) - galte  
 errôneo - galti  
 erva marinha - haicau  
 escama - xalke  
+escavar - exkava  
 escola (colégio) - xulkan  
 escovinha (centáurea) - nilcentaur  
 escrevere - kitaba  
@@ -377,7 +383,7 @@ espaço - kali harfe
 espirrar - acua  
 espodossolo - huidarte  
 esponja - esponje  
-esposo ou esposa - gamike  
+esposo ou esposa - gam  
 esquecer - anmema  
 esqueleto - ostojamia  
 esquerdo - lefte  
@@ -392,9 +398,19 @@ etimologia - logaslia
 etnia - zuke  
 eu (me) - me  
 evangelho - evanjil  
+evidente - exvidi  
 exato (preciso) - justi  
+excluir - exklusa  
+exclusivo - exklusivi  
+exoplaneta (planeta extrassolar) - explanete  
+explodir - explozu  
 explosão - bum  
+explosão - exploze  
+expor (revelar) - expoza  
+exterior - ex  
+extrair - extrata  
 exército - gun  
+exógeno - exojeni  
 ####F - F  
 face (faceta) - fas  
 fadiga - fatigia  
@@ -413,7 +429,7 @@ feliz - suki
 feno - gancau  
 fermentar - biumutu  
 fibra - linem  
-filho ou filha - pute  
+filho ou filha - ben  
 filosofia - filsofia  
 fiorde - fiorde  
 fisiculturismo - muskulbin  
@@ -431,7 +447,7 @@ fraco - mirdi
 fragmento - parce  
 freixo - yasen  
 fungo - fung  
-funil - dartube  
+funil - riutube  
 furar (perfurar) - fora  
 futebol - futobol  
 fácil - fasili  
@@ -498,9 +514,14 @@ igual - sami
 imigrante - inmigran  
 imigrar - inmigra  
 imitar (mimetizar) - mima  
+implodir - inplozu  
+imploção - inploze  
 importante - hami  
 impressão digital - angulmarke  
-Indo - Hindonade  
+incluindo - inkluso  
+incluir - inklusa  
+inclusivo - inklusivi  
+Indo - Hinde riu  
 indígena (índio) - aslameriki  
 infectar (contagiar) - patomisa  
 infecção (contágio) - patomis  
@@ -589,6 +610,7 @@ lírio - susan
 lírio-do-vale - vadosusan  
 ####M - M  
 macroalga - hayalge  
+madrasta - vismai  
 magnésio - magesem  
 mais - max (maxo)  
 maldição - lan  
@@ -667,7 +689,7 @@ máquina de escrever - kitabomaxin
 mármore - kalsokristal  
 máscara - maske  
 máximo - maxime  
-mãe - mam  
+mãe - mai  
 mão - hande  
 mês - lun  
 mímico - mimer  
@@ -740,9 +762,10 @@ outro - ali
 paciente - patike  
 pacifista - paciste  
 pacote - pake  
-pacto - kontrate  
+pacto - kontrete  
 padeiro - beker  
-pai - pape  
+padrasto - vispai  
+pai - pai  
 painel - ban  
 palavra (vocábulo) - logem  
 palácio (mansão, palacete) - daidom  
@@ -797,7 +820,7 @@ pilha (bateria) - batre
 pimenta - pipre  
 pinheiro - song  
 pintura - pente  
-piquenique - vaiyam  
+piquenique - exyam  
 pirataria - piratia  
 pirâmida - piram  
 plano - plan  
@@ -824,6 +847,7 @@ praça - meden
 precioso - bavi  
 preferir - maxfila  
 preto - siyahi  
+primo - cinbrusben  
 problema - problem  
 professor (docente) - xulaner  
 profissão - peikar  
@@ -891,7 +915,7 @@ reto - orti
 rim - nefre  
 rima - rim  
 ringue - ringar  
-rio - nade  
+rio - riu  
 rir - haha  
 ritmo - ritim  
 robô - robote  
@@ -931,6 +955,7 @@ seda - silke
 sede - suiyau  
 segunda-feira - unyom  
 seguro - sekuri  
+seio (mama) - mam  
 seis (6) - sisi  
 selva (floresta, jângal) - jangle  
 sem - na  
@@ -952,6 +977,8 @@ simétrico - sammetri
 sino (campainha) - danger  
 situaçao - xeihal  
 sociedade - sosia  
+sogra - gammai  
+sogro - gampai  
 soja - soi  
 sol - sol  
 soldado - gunjan  
@@ -981,6 +1008,7 @@ templo - pujokan
 tempo (duração) - dur  
 tender - iva  
 tendência - ivia  
+tenso - tensi  
 tentar (provar) - testa  
 tentáculo - senter  
 teosofia - deusofia  
@@ -1009,6 +1037,7 @@ trabalhar - kara
 trabalho - kar  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - xanti  
+trator - trater  
 trazer - layana  
 trigo - ganum  
 truque (fraude) - truke  
