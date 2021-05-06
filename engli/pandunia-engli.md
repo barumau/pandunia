@@ -33,6 +33,7 @@ agra - cultivate (farm)
 agri - agricultural  
 agre - agriculture  
 agrer - farmer  
+agrobiulojia - agrobiology  
 agrocun - rural village  
 agronomia - agronomy  
 agrostan - countryside  
@@ -2340,7 +2341,11 @@ mien - noodle
 migra - move (migrate, relocate)  
 migre - migration (moving)  
 migru - move (migrate, relocate oneself)  
+mikri - tiny (microscopic)  
 mikro\* - micro-  
+mikrobiu - microorganism (microbe)  
+mikrobiulojia - microbiology  
+mikroskope - microscope  
 Mikronesia - Micronesia  
 mili\* - milli-  
 miligram - milligram  
@@ -3314,6 +3319,7 @@ sistemi - systemic
 site - city (town)  
 sivili - civilized (civil)  
 sivilia - civilization  
+skope - scope (viewer)  
 Skotia - Scotland  
 skulta - sculpt (carve)  
 skulte - sculpture (statue)  
@@ -3514,6 +3520,7 @@ telfona - call on the phone
 telfonia - telephony  
 telfonlin - telephone line  
 teloloku - teleport  
+teloskope - telescope  
 telvide - television  
 telugi - Telugu  
 telurem - tellurium  

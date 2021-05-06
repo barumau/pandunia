@@ -1173,6 +1173,9 @@ Myanma - Birmo
 mien - nudelo  
 migre - migrado  
 mikro\* - mikro-  
+mikrobiu - mikrobo  
+mikrobiulojia - mikrobiologio  
+mikroskope - mikroskopo  
 mili\* - mili-  
 milimitre - milimetro  
 milke - lakto  
@@ -1656,6 +1659,7 @@ teli - malproksima
 telia - malproksimeco  
 telfon - telefono  
 telfona - telefoni  
+teloskope - teleskopo  
 telvide - televidilo  
 telurem - teluro  
 tem - temo  

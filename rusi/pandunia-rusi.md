@@ -12,6 +12,7 @@ Afgania - Афганистан
 aga - если  
 agra - выращивать  
 agri - аграрный  
+agrobiulojia - агробиология  
 agronomia - агрономия  
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
@@ -783,6 +784,9 @@ meze - стол
 mezotex - скатерть  
 migre - миграция  
 migru - переезжать  
+mikrobiu - микроб  
+mikrobiulojia - микробиология  
+mikroskope - микроскоп  
 milke - молоко  
 milkokardon - расторопша пятнистая  
 mima - имитировать  
@@ -1132,6 +1136,7 @@ telfona - звонить
 telfonia - телефония  
 telfonlin - телефонная линия  
 teloloku - телепортировать  
+teloskope - телескоп  
 telvide - телевизор  
 tem - тема  
 temnam - название (пьесы, заголовок)  

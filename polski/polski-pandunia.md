@@ -1487,7 +1487,10 @@ mieć sens - razonu
 migdał - badam  
 migracja - migre  
 mikro- - mikro\*  
+mikrobiologia - mikrobiulojia  
 Mikronezja - Mikronesia  
+mikroorganizm  (mikrob) - mikrobiu  
+mikroskop - mikroskope  
 mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixa  
 mili- - mili\*  
@@ -2886,6 +2889,7 @@ teizm - devistia
 tektonika płyt - plati geukaskia  
 telefon - telfon  
 teleportować się - teloloku  
+teleskop - teloskope  
 telewizja - telvide  
 tellur - telurem  
 telugu - telugi  

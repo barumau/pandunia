@@ -2101,6 +2101,9 @@ migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać 
 migre - migracja  
 migru - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 mikro\* - mikro-  
+mikrobiu - mikroorganizm  (mikrob)  
+mikrobiulojia - mikrobiologia  
+mikroskope - mikroskop  
 Mikronesia - Mikronezja  
 mili\* - mili-  
 miligram - miligram  
@@ -3190,6 +3193,7 @@ teli - daleki, odległy
 telia - dystans  
 telfon - telefon  
 teloloku - teleportować się  
+teloskope - teleskop  
 telvide - telewizja  
 telugi - telugu  
 telurem - tellur  

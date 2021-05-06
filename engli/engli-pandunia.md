@@ -71,6 +71,7 @@ agreement (consent) - samrayia
 agreement (treaty) - trete  
 agricultural - agri  
 agriculture - agre  
+agrobiology - agrobiulojia  
 agronomy - agronomia  
 aim (point) - dika  
 air - air  
@@ -2162,7 +2163,10 @@ method (means) - metode
 Mexico - Mexiko  
 Mexico City - Mexiko site  
 micro- - mikro\*  
+microbiology - mikrobiulojia  
 Micronesia - Mikronesia  
+microorganism (microbe) - mikrobiu  
+microscope - mikroskope  
 middle (center) - jung  
 middle (the part in between) - mede  
 Midsummer Day - garmomosimmedi den  
@@ -3065,6 +3069,7 @@ scent (odor, fragrance, aroma) - arom
 school (institution) - xulkan  
 science (study, research) - lojia  
 scissors (shears) - makas  
+scope (viewer) - skope  
 score (grade) - puntonumbe  
 scoreboard - puntoban  
 Scotland - Skotia  
@@ -3478,6 +3483,7 @@ telephone - telfon
 telephone line - telfonlin  
 telephony - telfonia  
 teleport - teloloku  
+telescope - teloskope  
 television - telvide  
 tell (narrate) - saga  
 tellurium - telurem  
@@ -3561,6 +3567,7 @@ time (instance, occasion) - mar
 time (period, epoch, era) - zaman  
 Timor - Timor  
 tin - stan  
+tiny (microscopic) - mikri  
 Titan - Titan  
 titanem - titanem  
 Titania - Titania  

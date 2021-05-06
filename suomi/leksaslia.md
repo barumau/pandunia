@@ -795,6 +795,7 @@
 |**meze**|pöytä|portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa|
 |**mien**|nuudeli|yleiskiina:面 (miàn), malaiji:mie, japani:麺 (men), thai:หมี่ (mii), khmer:មី (mi)|
 |**migre**|muutto (migraatio)|ranska:englanti:migration, espanja:migración, portugali:migração, venäjä:миграция (migratsiya)|
+|**mikri**|pikkuruinen (mikroskooppinen)|englanti:ranska:espanja:portugali:micro-, venäjä:микро- (mikro-), japani:マイクロ- (maikuro-), malaiji:turkki:mikr-|
 |**milke**|maito|englanti:milk, deu:Milch, japani:ミルク  (miruku), korea:밀크 (milkeu), lingala:míliki, venäjä:молоко (moloko)|
 |**mima**|matkia (imitoida)|englanti:ranska:mime, portugali:mímico, venäjä:мим (mim)|
 |**min (mino)**|vähemmän|espanja:portugali:menos, ranska:moins, venäjä:ме́нее (méneje), englanti:min-|
@@ -1111,6 +1112,7 @@
 |**site**|kaupunki|englanti:city, ranska:cité, portugali:cidade, espanja:ciudad, italia:città + yleiskiina:市 (shì), korea:시 (si), japani:都市 (toshi)|
 |**sivili**|sivistynyt|englanti:civil, portugali:civil, hindi:सिविल (sivil), malaiji:sipil|
 |**siyahi**|musta|persia:سیاه‎ (siyâh), hindi:सियाह (siyāh), urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turkki:siyah|
+|**skope**|katselulaite (skooppi)|englanti:ranska:-scope, espanja:portugali:-scopio, venäjä:-скоп (skop), japani:スコープ (sukōpu), hindi:स्कोप (-skop), malaiji:turkki:-skop|
 |**skulter**|kuvanveistäjä|espanja:portugali:escultor, ranska:sculpteur, englanti:sculptor, venäjä:скульптор (skulptor)|
 |**sofa***|sohva|englanti:ranska:sofa, espanja:portugali:sofá, venäjä:софа (sofa), yleiskiina:沙发 (shāfā), japani:ソファ (sofa), korea:소파 (sopa), hindi:सोफ़ा (sofā)|
 |**sofia**|viisaus|kreikka:σοφία (sofía) + englanti:philosophy, ranska:philosophie, espanja:filosofia, venäjä:философия (filosofiya), malaiji:filsafat, arabia:(falsafa), suahili:falsafa, turkki:felsefe, hindi:फ़लसफ़ा (falasfā)|

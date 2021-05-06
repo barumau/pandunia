@@ -1059,6 +1059,9 @@ mia - mi
 mielo - mel  
 migrado - migre  
 mikro- - mikro\*  
+mikrobiologio - mikrobiulojia  
+mikrobo - mikrobiu  
+mikroskopo - mikroskope  
 miksi - mixa  
 miksilo - mixer  
 miksulo - hibride  
@@ -1585,6 +1588,7 @@ teknologio - tehnolojia
 tekto - cate  
 telefoni - telfona  
 telefono - telfon  
+teleskopo - teloskope  
 televidilo - telvide  
 teluro - telurem  
 temo - tem  

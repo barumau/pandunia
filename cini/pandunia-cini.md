@@ -11,6 +11,7 @@ adalia - 正义
 adres - 地址  
 Afgania - 阿富汗  
 aga - 如果 (要是)  
+agrobiulojia - 土壤生物学  
 agrocun - 农村  
 agronomia - 农学  
 agres - 攻击  
@@ -714,6 +715,9 @@ metrografia - 地图学
 meze - 桌子  
 mezotex - 桌布  
 migra - 搬家  
+mikrobiu - 微生物   
+mikrobiulojia - 微生物学  
+mikroskope - 显微镜  
 milkokardon - 水飞蓟  
 mima - 模拟  (模仿)  
 minte - 薄荷  
@@ -1005,6 +1009,7 @@ tehnolojia - 工艺学
 telfon - 电话机  
 telfona - 打电话  
 telfonlin - 电话线  
+teloskope - 望远镜  
 telvide - 电视机  
 tem - 主题目  
 temnam - 标题  

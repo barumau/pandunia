@@ -12,6 +12,7 @@ Afgania - Afeganistão
 aga - se  
 agra - cultivar  
 agri - agrícola  
+agrobiulojia - agrobiologia  
 agronomia - agronomia  
 agres - ataque  
 agreser - agressor  
@@ -725,6 +726,9 @@ meze - mesa
 mezotex - toalha de mesa  
 migre - migração  
 migru - mudar-se  
+mikrobiu - micróbio  
+mikrobiulojia - microbiologia  
+mikroskope - microscópio  
 milke - leite  
 milkokardon - cardo-mariano  
 mima - imitar (mimetizar)  
@@ -1021,6 +1025,7 @@ tate - margem
 tehne - técnica  
 telfona - telefonar  
 telfonia - telefonia  
+teloskope - telescópio  
 temnam - título  
 ten - céu  
 tensi - tenso  

@@ -837,6 +837,7 @@
 |**meze**|table|Portuguese:Spanish:mesa, Hindi:मेज़ (mez), Swahili:meza, Malay:meja, Tamil:மேசை (mesei), Persian: میز‏‎ (miz), Turkish:masa|
 |**mien**|noodle|Mandarin:面 (miàn), Malay:mie, Japanese:麺 (men), Thai:หมี่ (mii), Khmer:មី (mi)|
 |**migre**|migration (moving)|French:English:migration, Spanish:migración, Portuguese:migração, Russian:миграция (migratsiya)|
+|**mikri**|tiny (microscopic)|English:French:Spanish:Portuguese:micro-, Russian:микро- (mikro-), Japanese:マイクロ- (maikuro-), Malay:Turkish:mikr-|
 |**milke**|milk|English:milk, deu:Milch, Japanese:ミルク  (miruku), Korean:밀크 (milkeu), Lingala:míliki, Russian:молоко (moloko)|
 |**mima**|mimic (imitate)|English:French:mime, Portuguese:mímico, Russian:мим (mim)|
 |**min (mino)**|less|Spanish:Portuguese:menos, French:moins, Russian:ме́нее (méneje), English:min-|
@@ -1177,6 +1178,7 @@
 |**site**|city (town)|English:city, French:cité, Portuguese:cidade, Spanish:ciudad, Italian:città + Mandarin:市 (shì), Korean:시 (si), Japanese:都市 (toshi)|
 |**sivili**|civilized (civil)|English:civil, Portuguese:civil, Hindi:सिविल (sivil), Malay:sipil|
 |**siyahi**|black|Persian:سیاه‎ (siyâh), Hindi:सियाह (siyāh), Urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), Turkish:siyah|
+|**skope**|scope (viewer)|English:French:-scope, Spanish:Portuguese:-scopio, Russian:-скоп (skop), Japanese:スコープ (sukōpu), Hindi:स्कोप (-skop), Malay:Turkish:-skop|
 |**skulter**|sculptor|Spanish:Portuguese:escultor, French:sculpteur, English:sculptor, Russian:скульптор (skulptor)|
 |**sofa***|sofa (couch)|English:French:sofa, Spanish:Portuguese:sofá, Russian:софа (sofa), Mandarin:沙发 (shāfā), Japanese:ソファ (sofa), Korean:소파 (sopa), Hindi:सोफ़ा (sofā)|
 |**sofia**|wisdom|Greek:σοφία (sofía) + English:philosophy, French:philosophie, Spanish:filosofia, Russian:философия (filosofiya), Malay:filsafat, Arabic:(falsafa), Swahili:falsafa, Turkish:felsefe, Hindi:फ़लसफ़ा (falasfā)|

@@ -31,6 +31,7 @@ aga - jos (olettaa)
 agra - viljellä  
 agre - viljely  
 agrer - maanviljelijä  
+agrobiulojia - maatalousbiologia  
 agrocun - maalaiskylä  
 agronomia - agronomia (maatalous)  
 agrostan - maaseutu  
@@ -2090,7 +2091,11 @@ mien - nuudeli
 migra - muuttaa (siirtää)  
 migre - muutto (migraatio)  
 migru - muuttaa (siirtyä)  
+mikri - pikkuruinen (mikroskooppinen)  
 mikro\* - mikro-  
+mikrobiu - mikrobi  
+mikrobiulojia - mikrobiologia  
+mikroskope - mikroskooppi  
 Mikronesia - Mikronesia  
 mili\* - milli-  
 miligram - milligramma  
@@ -2914,6 +2919,7 @@ sistem - järjestelmä (systeemi)
 site - kaupunki  
 sivili - sivistynyt  
 sivilia - sivilisaatio  
+skope - katselulaite (skooppi)  
 Skotia - Skotlanti  
 skulta - veistää kuvaa  
 skulte - veistos (patsas)  
@@ -3077,6 +3083,7 @@ telfon - puhelin
 telfona - soittaa puhelimella  
 telfonia - puhelintekniikka  
 telfonlin - puhelinjohto  
+teloskope - kaukoputki (teleskooppi)  
 telvide - televisio  
 telugi - telugu (eräs intialainen kieli)  
 tem - aihe (teema)  

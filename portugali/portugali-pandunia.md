@@ -24,6 +24,7 @@ afegão - afgani
 agacharse - insida  
 agente - ater  
 agressor - agreser  
+agrobiologia - agrobiulojia  
 agronomia - agronomia  
 agrícola - agri  
 ai! - ai  
@@ -668,6 +669,9 @@ mesa - meze
 mestre - mester  
 meta (gol) - gol  
 metro - mitre  
+microbiologia - mikrobiulojia  
+microscópio - mikroskope  
+micróbio - mikrobiu  
 migração - migre  
 mina - kuangia  
 mirar (apontar) - dika  
@@ -1016,6 +1020,7 @@ tear - texmaxin
 tectónica de placas - plati geukaskia  
 telefonar - telfona  
 telefonia - telfonia  
+telescópio - teloskope  
 temer - fobu  
 tempero - masal  
 templo - pujokan  

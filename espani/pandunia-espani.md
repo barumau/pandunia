@@ -29,6 +29,7 @@ aga - si (suponer)
 agra - cultivar  
 agri - agrícola  
 agrer - granjero (agricultor)  
+agrobiulojia - agrobiología  
 agronomia - agronomía  
 agrostan - campo  
 agrostani - rural (rústico)  
@@ -2125,6 +2126,9 @@ migra - migrar (emigrar, tralsadar)
 migre - migración  
 migru - migrarse (mudarse, trasladarse)  
 mikro\* - micro-  
+mikrobiu - microbio  
+mikrobiulojia - microbiología  
+mikroskope - microscopio  
 Mikronesia - Micronesia  
 mili\* - mili-  
 miligram - miligrama  
@@ -3225,6 +3229,7 @@ telfon - telefono
 telfona - telefonear  
 telfonia - telefonía  
 teloloku - teletransportarse  
+teloskope - telescopio  
 telvide - televisión  
 telugi - télugu  
 telurem - telurio  

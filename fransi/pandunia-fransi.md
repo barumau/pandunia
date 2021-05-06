@@ -29,6 +29,7 @@ afrikofiler - afrophile
 aga - si  
 agra - cultiver  
 agri - agricole  
+agrobiulojia - agrobiologie  
 agronomia - agronomie  
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
@@ -926,6 +927,9 @@ meze - table
 mezotex - nappe  
 migre - migration  
 migru - s'installer (déménager)  
+mikrobiu - microbe  
+mikrobiulojia - microbiologie  
+mikroskope - microscope  
 milke - lait  
 milkokardon - chardon Marie  
 mima - imiter  
@@ -1281,6 +1285,7 @@ tehnolojia - technologie
 telfon - téléphone  
 telfona - téléphoner  
 telfonlin - ligne téléphonique  
+teloskope - télescope (lunette)  
 telvide - téléviseur  
 tem - sujet (thème)  
 temnam - titre  

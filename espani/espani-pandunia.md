@@ -85,6 +85,7 @@ agradecer - danka
 agresivo - agresivi  
 agresor - agreser  
 agrio (ácido) - suani  
+agrobiología - agrobiulojia  
 agronomía - agronomia  
 agrícola - agri  
 agua - sui  
@@ -2159,7 +2160,10 @@ mezquino (antipático, cruel) - zalimi
 mi - mi  
 micelio - fungonete  
 micro- - mikro\*  
+microbio - mikrobiu  
+microbiología - mikrobiulojia  
 Micronesia - Mikronesia  
+microscopio - mikroskope  
 Midsommar - garmomosimmedi den  
 miedo (-fobia) - fobia  
 miel - mel  
@@ -3266,6 +3270,7 @@ telar - texmaxin
 telefonear - telfona  
 telefono - telfon  
 telefonía - telfonia  
+telescopio - teloskope  
 teletransportarse - teloloku  
 televisión - telvide  
 telurio - telurem  

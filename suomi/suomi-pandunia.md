@@ -991,6 +991,7 @@ kasvot (naama) - muke
 kasvu - raste  
 Katalonia - Katalunia  
 katkaista (leikata) - kata  
+katselulaite (skooppi) - skope  
 katsoa (tarkkailla) - speta  
 katsoja (tarkkailija) - speter  
 kattava - inklusivi  
@@ -1000,6 +1001,7 @@ kauan (pitkän aikaa) - longoduro
 kauhu (terrori) - teror  
 kaukainen - teli  
 Kaukasia - Kaukasia  
+kaukoputki (teleskooppi) - teloskope  
 kauneus - sundaria  
 kaunis (komea, sievä) - sundari  
 kaupunki - nagre  
@@ -1580,6 +1582,7 @@ maapähkinä - geudou
 maaseutu - agrostan  
 maata (makoilla) - kuxu  
 maataloudellinen (agraari-) - agri  
+maatalousbiologia - agrobiulojia  
 maavoimat - geugunia  
 Macao - Makau  
 Madagaskar - Malagasia  
@@ -1698,7 +1701,10 @@ mielipide (näkemys) - rai
 mies - maturi man  
 miettiä (pohtia, pitää jonakin) - hema  
 mikro- - mikro\*  
+mikrobi - mikrobiu  
+mikrobiologia - mikrobiulojia  
 Mikronesia - Mikronesia  
+mikroskooppi - mikroskope  
 mikä tahansa - eni  
 mikä? (kumpi?) - ki  
 mikä? (mitä?) - ke  
@@ -2149,6 +2155,7 @@ piirros (graafi) - graf
 piirtää - grafa  
 piirustus - desen  
 pikkukaupunki - lilsite  
+pikkuruinen (mikroskooppinen) - mikri  
 pikkutakki (jakku) - jake  
 pilaantua (raunioitua) - harabu  
 pilahvi - polau  

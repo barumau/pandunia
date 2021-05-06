@@ -34,6 +34,7 @@ agr:a|agra||||cultivate (farm)|cultiver|cultivar|cultivar|выращивать||
 agr:i|agri|||eng:fra:spa:por:tur:agro-, rus:агро- (agro-)|agricultural|agricole|agrícola|agrícola|аграрный|||||||||||agrikultura|maataloudellinen (agraari-)|
 agr:ia|agre||||agriculture|||||||||||||||agrikulturo|viljely|
 agr.er:|agrer||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
+agr.o.biu.loj:ia|agrobiulojia||||agrobiology|agrobiologie|agrobiología|agrobiologia|агробиология||土壤生物学||||||||agrobiyoloji||maatalousbiologia|
 agr.o.cun:|agrocun||||rural village||||||农村|農村|농촌|nông thôn|||||||maalaiskylä|
 agr.o.nom:ia|agronomia||||agronomy|agronomie|agronomía|agronomia|агрономия|عِلْم الزِرَاعَة‎|农学|農学|농학|nông học|||||agronomi|agronomio|agronomia (maatalous)|agronomia
 agr.o.stan:|agrostan||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
@@ -2348,7 +2349,11 @@ mien:|mien|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), kh
 migr:a|migra||||move (migrate, relocate)||migrar (emigrar, tralsadar)||||搬家||||||||||muuttaa (siirtää)|ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)
 migr:e|migre|||fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|migration (moving)|migration|migración|migração|миграция|||||||||||migrado|muutto (migraatio)|migracja
 migr:u|migru||||move (migrate, relocate oneself)|s'installer (déménager)|migrarse (mudarse, trasladarse)|mudar-se|переезжать||||||||||||muuttaa (siirtyä)|przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)
-mikro:|mikro*||||micro-||micro-|||||||||||||mikro-|mikro-|mikro-
+mikr:i|mikri|||eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-|tiny (microscopic)||||||||||||||mikrobiyoloji||pikkuruinen (mikroskooppinen)|
+mikr.o:|mikro*||||micro-||micro-|||||||||||||mikro-|mikro-|mikro-
+mikr.o.biu:|mikrobiu||||microorganism (microbe)|microbe|microbio|micróbio|микроб|مِيكْرُوب‎|微生物 |微生物|미생물|vi sinh vật|सूक्ष्मजीव||mikroba||mikrop|mikrobo|mikrobi|mikroorganizm  (mikrob)
+mikr.o.biu.loj:ia|mikrobiulojia||||microbiology|microbiologie|microbiología|microbiologia|микробиология||微生物学|微生物学|미생물학|vi sinh vật học||||||mikrobiologio|mikrobiologia|mikrobiologia
+mikr.o.skop:e|mikroskope||||microscope|microscope|microscopio|microscópio|микроскоп|مِجْهَر‎|显微镜|顕微鏡 (マイクロスコープ)|현미경|kính hiển vi|ख़ुर्दबीन|অণুবীক্ষণযন্ত্র|mikroskop|hadubini|mikroskop|mikroskopo|mikroskooppi|mikroskop
 Mikrones:ia|Mikronesia|dex|FM||Micronesia||Micronesia||||||||||||||Mikronesia|Mikronezja
 mili:|mili*|numbe|||milli-||mili-|||||||||||||mili-|milli-|mili-
 mili.gram:|miligram|unomete|mg||milligram||miligrama||||||||||||||milligramma|miligram
@@ -3324,6 +3329,7 @@ sistem:i|sistemi||||systemic||sistémico|||||||||||||||systemowy
 sit:e|site|||eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|city (town)|ville|ciudad|cidade||||||||||||urbo|kaupunki|miast, miasteczko
 siuil:i|sivili|||eng:civil, por:civil, hin:सिविल (sivil), may:sipil|civilized (civil)||civilizado||||||||||||||sivistynyt|cywilizowany (ucywilizowany)
 siuil:ia|sivilia||||civilization||civilización||||||||||||||sivilisaatio|cywilizacja
+skop:e|skope|||eng:fra:-scope, spa:por:-scopio, rus:-скоп (skop), jpn:スコープ (sukōpu), hin:स्कोप (-skop), may:tur:-skop|scope (viewer)||||||||||||||||katselulaite (skooppi)|
 Skot:ia|Skotia|dex|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
 skult:a|skulta||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
 skult:e|skulte||||sculpture (statue)||escultura (estatua)|||||||||||||statuo (skultaĵo)|veistos (patsas)|rzeźba
@@ -3525,6 +3531,7 @@ tel.fon:a|telfona||||call on the phone|téléphoner|telefonear|telefonar|зво�
 tel.fon:ia|telfonia||||telephony||telefonía|telefonia|телефония||||||||||||puhelintekniikka|
 tel.fon.lin:|telfonlin||||telephone line|ligne téléphonique|||телефонная линия||电话线||||||||||puhelinjohto|
 tel.o.lok:u|teloloku||||teleport||teletransportarse||телепортировать|||瞬間移動||||||||||teleportować się
+tel.o.skop:e|teloskope||||telescope|télescope (lunette)|telescopio|telescópio|телескоп||望远镜|望遠鏡 (テレスコープ)|망원경|kính thiên văn|दूरबीन|দূরবীন|teleskop|darubini|teleskop|teleskopo|kaukoputki (teleskooppi)|teleskop
 tel.uid:e|telvide||||television|téléviseur|televisión||телевизор||电视机|||||||||televidilo|televisio|telewizja
 telug:i|telugi|nas|||Telugu||télugu||||||||||||||telugu (eräs intialainen kieli)|telugu
 telur.em:|telurem|mate|Te||tellurium||telurio|||||||||||||teluro||tellur

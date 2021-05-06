@@ -41,6 +41,7 @@ agresseur - agreser
 agressif - agresivi  
 agression (attaque) - agres  
 agricole - agri  
+agrobiologie - agrobiulojia  
 agronomie - agronomia  
 ail - lasun  
 aimer - ama  
@@ -817,6 +818,9 @@ message - anjil
 messager - anjiler  
 mettre (placer) - loka  
 meule - molxeke  
+microbe - mikrobiu  
+microbiologie - mikrobiulojia  
+microscope - mikroskope  
 miel - mel  
 migration - migre  
 mine - kuangia  
@@ -1289,6 +1293,7 @@ tu - te
 tubercule - masmul  
 Tunisie - Tunisia  
 turban - pagre  
+télescope (lunette) - teloskope  
 télécharger - netogeta  
 téléphone - telfon  
 téléphoner - telfona  
