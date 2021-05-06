@@ -2,7 +2,7 @@
 
 ## Verb types
 
-A verb denotes an action or an occurence, for example to eat, to speak, to look and to think.
+A verb denotes an action or an occurence, for example to eat, to break, to want or to go.
 
 A verb can involve an agent and a patient.
 The agent performs or "causes" an action,
@@ -10,11 +10,11 @@ and the patient receives or "experiences" the action.
 
 There are three types of verbs in Pandunia:
 
-1. Agent-oriented verbs: The subject does the action in the SVO word order.
+1. Active verbs: The subject is the agent, and does the action to the patient.
    The the verb ends in **-a**.
-2. Patient-oriented-verbs: The subject "suffers" the action in the SVO word order.
+2. Passive verbs: The subject is the patient, and "suffers" the action done by the agent.
    The verb ends in **-u**.
-3. Stative: The subject is in the state that is indicated by the verb.
+3. Intransative verbs: The subject is the patient, and there is no agent.
    The verb ends in **-i**.
 
 Consider the following examples:  
@@ -27,7 +27,7 @@ Consider the following examples:
 **kamar safu me.**
 – The room is cleaned by me. (passive verb with postponed agent)  
 **kamar safi.**
-– The room is clean. (stative verb)
+– The room is clean. (intransitive verb)
 
 As you can see, **-a** and **-u** indicate opposite orders of the agent and patient.
 
@@ -61,13 +61,15 @@ It is used typically in the active voice, where the the focus is on the agent (i
 Examples:  
 **me vida les.**
 – I see them.  
-**te beka pang.**
-– You bake bread.  
+**bace parca kupe.**
+– The child breaks the cup.
+**lole suka rajer.**
+– They please the king.  
 
 #### Order A-2: Patient, agent and verb
 
 The second order is patient–agent–verb.
-It is frequent in dependant clauses.
+It is frequent in dependent clauses.
 
 Examples:  
 **ke te vida?**
@@ -132,20 +134,19 @@ It is described here only for the sake of completeness.
 
 
 
-### Stative verbs
+### Intransitive verbs
 
-Verbs that end in **-i** are called _stative verbs_.
+Verbs that end in **-i** are called _intransitive verbs_.
 They are basically adjectives that describe the subject in a verb-like manner.
-The subject of a stative verb is in the state denoted by the verb root.
+They usually describe the state of the subject, but they can sometimes be actions, too.
 
-Stative verbs differ from passive verbs by the fact that
-a stative verb is about being in a state
-whereas a passive verb indicates a change of state.
-In other words, a stative verb is a _passive of being_
-and a passive verb is a _passive of becoming_.
+Intransitive verbs differ from passive verbs by the fact that
+an intransitive verb does not imply there was an agent
+and is usually about being in a state
+whereas a passive verb suggests there was a causing entity,
+and is usually about a change of state.
 
-Stative verbs are always intransitive.
-They can't have an object.
+Intransitive verbs can't have an object.
 
 
 ### Comparison of the verb types
@@ -156,13 +157,13 @@ for the normal subject–verb–object word order.
 | Noun           | Stative verb   | Passive verb   | Active verb    |
 |----------------|----------------|----------------|----------------|
 | **kitabe**     | **kitabi**     | **kitabu**     | **kitaba**     |
-| writing        | written        | get written    | write          |
+| writing        | written        | be written     | write          |
 | **saf**        | **safi**       | **safu**       | **safa**       |
-| tidyness       | tidy, clean    | get clean      | make clean     |
+| tidyness       | tidy, clean    | be cleaned     | make clean     |
 | **nou**        | **novi**       | **novu**       | **nova**       |
-| novelty        | new, novel     | get new        | make new       |
+| novelty        | new, novel     | be made new    | make new       |
 | **yam**        | **yami**       | **yamu**       | **yama**       |
-| food           | eaten          | get eaten      | eat            |
+| food           | eaten          | be eaten       | eat            |
 | **guste**      | **gusti**      | **gustu**      | **gusta**      |
 | taste          | tasty          | be tasted      | taste, try     |
 | **am**         | **ami**        | **amu**        | **ama**        |
@@ -171,19 +172,19 @@ for the normal subject–verb–object word order.
 | Noun           | Stative verb   | Passive verb   | Active verb    |
 |----------------|----------------|----------------|----------------|
 | **suke**       | **suki**       | **suku**       | **suka**       |
-| joy, pleasure  | joyful, happy  | please         | enjoy, like    |
-| **nide**       | **nidi**       | **nidu**       | **nida**       |
-| need           | needy          | be needed      | need           |
+| joy, pleasure  | joyful, happy  | enjoy, like    | please         |
+| **nide**       | **yavi**       | **yavu**       | **yava**       |
+| need           | needy          | need           | be needed      |
 | **vol**        | **voli**       | **volu**       | **vola**       |
-| want           | wanting        | be wanted      | want           |
+| want           | wanting        | want           | be wanted      |
 | **tam**        | **tami**       | **tamu**       | **tama**       |
 | greed          | greedy         | covet, hog     | make greedy    |
 | **fobe**       | **fobi**       | **fobu**       | **foba**       |
 | fear           | afraid, scared | fear           | scare          |
 | **lai**        | **layi**       | **layu**       | **laya**       |
-| arrival        |                | get reached    | arrive, reach  |
+| arrival        | come           | be brought     | bring          |
 | **fuke**       | **fuki**       | **fuku**       | **fuka**       |
-| clothing       | clothed        | be worn        | wear           |
+| clothing       | worn           | be put on      | put on         |
 | **dur**        | **duri**       | **duru**       | **dura**       |
 | time, duration | lasting        | last, take time| spend, put time|
 
