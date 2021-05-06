@@ -24,6 +24,9 @@ Afriki - afrika
 afrikofilia - afrikamanteco  
 afrikofiler - afrikamanto  
 aga - se  
+agri - agrikultura  
+agre - agrikulturo  
+agronomia - agronomio  
 agres - atako (agreso)  
 agresivi - agresema  
 aha - kompreni  
@@ -322,6 +325,7 @@ cor - ŝtelo
 cora - ŝteli  
 corer - ŝtelisto  
 cum - kiso  
+cun - vilaĝo  
 cupa - suĉi  
 cuta - eliri  
 cute - eliro  
@@ -593,7 +597,7 @@ futobol - piedpilko
 ####G - G  
 gabra - enterigi  
 gabre - tombo  
-gabrotopia - tombejo  
+gabrostan - tombejo  
 gabroxeke - tomboŝtono  
 gade - azeno  
 gadolinem - gadolinio  
@@ -838,6 +842,7 @@ jena - naskigi
 jeni bax - hejmlingvo  
 jenu - naski  
 jenden - naskiĝtago  
+jenostan - naskiĝejo  
 jeng - milito (batalo)  
 jengi - milita  
 jinse - sekso  
@@ -1440,7 +1445,7 @@ retre - reiro
 retru - reiri  
 redi - preta  
 rege - sablo  
-regotopia - dezerto  
+regostan - dezerto  
 rei - ripetado  
 reya - ripeti (refari)  
 reyo - denove (ripete)  
@@ -1473,7 +1478,6 @@ ruhlojia - psikologio
 ruke - dorso  
 rupe - aspekto  
 rusi krepe - rusa krepo  
-ruste - vilaĝo  
 rutenem - rutenio  
 ruterfordem - ruterfordio  
 rutin - rutino (kutimo)  

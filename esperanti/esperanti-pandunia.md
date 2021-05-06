@@ -27,6 +27,9 @@ agema - ativi
 ago - ate  
 agrabla - huxi  
 agresema - agresivi  
+agrikultura - agri  
+agrikulturo - agre  
+agronomio - agronomia  
 aj (alas) - ai  
 ajlo - lasun  
 akcento - aksente  
@@ -308,7 +311,7 @@ devi - debu
 devigi - musa  
 devo - mus  
 devus - selu  
-dezerto - regotopia  
+dezerto - regostan  
 deziro - kamia  
 dia - devi  
 diablo (Satano) - Xatan (ruhxatan)  
@@ -1113,6 +1116,7 @@ najtingalo - bulbul
 Namibio - Namibia  
 naski - jenu  
 naskigi - jena  
+naskiĝejo - jenostan  
 naskiĝtago - jenden  
 nasko - jen  
 natrio - natrem  
@@ -1617,7 +1621,7 @@ titanio - titanem
 tiu - ve  
 Toglando - Togo  
 tomato - tomate  
-tombejo - gabrotopia  
+tombejo - gabrostan  
 tombo - gabre  
 tomboŝtono - gabroxeke  
 tondilo - makas  
@@ -1713,7 +1717,7 @@ vicpatro - vispai
 vidi (rigardi) - vida  
 vidvo - vidou  
 vikia artikulo - vike  
-vilaĝo - ruste  
+vilaĝo - cun  
 vinagro - vinsuan  
 vinbero - putau  
 vino - vin  

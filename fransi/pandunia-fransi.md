@@ -27,6 +27,9 @@ Afriki - africain
 afrikofilia - afrophilie  
 afrikofiler - afrophile  
 aga - si  
+agra - cultiver  
+agri - agricole  
+agronomia - agronomie  
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
 agreser - agresseur  
@@ -345,6 +348,7 @@ cize - fromage
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
 cope - houe  
+cun - village  
 cuzable - option  
 ####D - D  
 daidom - palais (château, manoir)  
@@ -488,7 +492,7 @@ futomarke - empreinte de pied
 ####G - G  
 gabra - enterrer  
 gabre - tombe  
-gabrotopia - cimetière  
+gabrostan - cimetière  
 gabroxeke - pierre tombale  
 gadogude - mule  
 Galia - Gaule  
@@ -505,7 +509,7 @@ gantex - serviette
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
-garmozoni cautopia - savane  
+garmozoni caustan - savane  
 gas - gaz  
 gati - dur  
 gau - haut  
@@ -659,6 +663,7 @@ jekogeta - empruntre
 jena - donner naissance (procréer, engendrer, accoucher)  
 jeni bax - langue maternelle  
 jenita - élever  
+jenostan - lieu de naissance  
 jentipe - génotype  
 jihade - lutte  
 jino - en avant  
@@ -703,6 +708,7 @@ kamar - pièce (chambre)
 kamil - Camomille sauvage  
 kamis - chemise  
 kamisi xake - manche  
+kampostan - terrain de camping  
 kanape - canapé (sofa)  
 kance - verre  
 kangaru\* - kangourou  
@@ -1074,7 +1080,7 @@ plasta - modeler
 plastopaste - pâte à modeler  
 plati geukaskia - tectonique des plaques  
 platogeviste - terreplatiste  
-platotopia - plaine  
+platostan - plaine  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 polite - gouvernement  
@@ -1411,7 +1417,7 @@ zon - zone
 zong - pieu (poteau)  
 zongominte - menthe verte  
 zou - animal (bête)  
-zoujenitia - élevage  
+zovagria - élevage  
 zouloji - zoologique  
 zoulojia - zoologie  
 zouparke - zoo  

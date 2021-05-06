@@ -28,6 +28,13 @@ Afriki - afrikkalainen
 afrikofilia - afrofilia  
 afrikofiler - afrofiili  
 aga - jos (olettaa)  
+agra - viljellä  
+agre - viljely  
+agrer - maanviljelijä  
+agrocun - maalaiskylä  
+agronomia - agronomia (maatalous)  
+agrostan - maaseutu  
+agrostani - maalais-  
 agres - hyökkäys (päällekarkaus, aggressio)  
 agresa - hyökätä (käydä päälle)  
 agreser - hyökkääjä  
@@ -482,7 +489,7 @@ carlun - huhtikuu
 carme - vetovoima (šarmi)  
 cate - katto (katos)  
 cau - ruoho  
-cautopia - niitty  
+caustan - ruohotasanko  
 Cehia - Tšekki  
 ceka - tarkistaa (tsekata)  
 cel - solu  
@@ -542,6 +549,7 @@ Cosen - Korea
 Coseni - korealainen  
 Cvana - Botswana  
 cum - suukko (pusu)  
+cun - kylä  
 cupa - imeä  
 cuta - poistua  
 cute - poistuminen  
@@ -1000,7 +1008,7 @@ futau - kirves
 Gabon - Gabon  
 gabra - haudata  
 gabre - hauta  
-gabrotopia - hautausmaa  
+gabrostan - hautausmaa  
 gabroxeke - hautakivi  
 gade - aasi  
 gadogude - muuli  
@@ -1047,7 +1055,7 @@ garmomosim - kesä (suvi)
 garmomosimmedi den - juhannus (keskikesä, mittumaari)  
 garmozon - tropiikki  
 garmozoni - trooppinen  
-garmozoni cautopia - savanni  
+garmozoni caustan - savanni  
 gas - kaasu  
 gasa - kaasuttaa  
 gasi - kaasumainen  
@@ -1245,6 +1253,7 @@ Hindia - Hindustan
 hindem - indium  
 hindiste - hindu  
 hindistia - hindulaisuus (hinduismi)  
+hindostani - hindustanin kieli  
 hisaba - laskea (tehdä laskutoimitus)  
 hisabe - lasku (laskelma)  
 hisabia - laskuoppi (aritmetiikka)  
@@ -1439,6 +1448,7 @@ jeni bax - äidinkieli
 jenu - syntyä  
 jenden - syntymäpäivä  
 jenklas - sääty (kasti)  
+jenostan - syntymäpaikka  
 jentipe - perimä (genotyyppi)  
 jeng - taistelu (sota)  
 jengi - sotilaallinen  
@@ -1540,6 +1550,7 @@ kamis - paita
 kamote - bataatti  
 kampe - leiri  
 kamper - retkeilijä  
+kampostan - leirintäalue  
 kamri - walesilainen  
 Kamria - Wales  
 kan - paja (tekimö)  
@@ -2278,8 +2289,6 @@ nol sate - ei koskaan (ei kertaakaan)
 nol xei - ei mitään  
 noma - järjestellä (hallinnoida, organisoida, manageroida)  
 nomia - hallinto (hallinnointi)  
-nonga - viljellä  
-nonger - maanviljelijä  
 norde - pohjoinen  
 nordi - pohjoinen  
 Nordi Aire - Pohjois-Irlanti  
@@ -2660,7 +2669,7 @@ rebel - kapina
 reda - tehdä valmiiksi  
 redi - valmis  
 rege - hiekka  
-regotopia - aavikko (hiekkaerämaa)  
+regostan - aavikko (hiekkaerämaa)  
 rei - toisto  
 reya - toistaa  
 reyo - taas (uudestaan)  
@@ -2740,9 +2749,6 @@ rupu - näyttää jltkn
 rusi - venäläinen  
 rusi krepe - blini  
 Rusia - Venäjä  
-ruste - kylä  
-rusti - maalais-  
-rustia - maaseutu  
 rute - polku (reitti, kurssi)  
 rutin - tapa (rutiini)  
 ####S - S  
@@ -2950,6 +2956,7 @@ sporte - urheilu
 sporter - urheilija  
 stadia - stadioni (areena)  
 stan - tina  
+stan - alue (seutu)  
 stasa - seisottaa  
 stasi - seisova (staattinen)  
 stasia - asema  
@@ -3403,9 +3410,9 @@ zoku - jatkua
 zombe - zombi  
 zon - vyö  
 zou - eläin  
+zovagria - karjanhoito  
 zoufilia - eläinrakkaus  
 zougeugrafia - eläinmaantiede  
-zoujenitia - karjanhoito  
 zouloji - eläintieteellinen  
 zoulojia - eläintiede (zoologia)  
 zouparke - eläintarha  

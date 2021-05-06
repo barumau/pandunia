@@ -29,6 +29,14 @@ Afriki - African
 afrikofilia - Afrophilia  
 afrikofiler - afrophile  
 aga - if (suppose, assume)  
+agra - cultivate (farm)  
+agri - agricultural  
+agre - agriculture  
+agrer - farmer  
+agrocun - rural village  
+agronomia - agronomy  
+agrostan - countryside  
+agrostani - rural (rustic)  
 agres - attack (assault, aggression, hostility)  
 agresa - attack (assault)  
 agreser - aggressor  
@@ -516,7 +524,7 @@ carlun - April
 carme - charm (attraction)  
 cate - roof  
 cau - grass  
-cautopia - grassland  
+caustan - grassland (prairie)  
 Cehia - Czech Republic  
 ceka - check (to examine)  
 cel - cell (biology)  
@@ -579,6 +587,7 @@ Cosen - Korea
 Coseni - Korean  
 Cvana - Botswana  
 cum - kiss  
+cun - village  
 cupa - suck (absorb)  
 cuta - leave (go out, exit)  
 cute - exit (leaving)  
@@ -1064,7 +1073,7 @@ futau - axe (hatchet)
 Gabon - Gabon  
 gabra - bury  
 gabre - grave (tomb)  
-gabrotopia - graveyard  
+gabrostan - graveyard (cemetery, burial ground)  
 gabroxeke - tombstone (gravestone)  
 gade - donkey (ass)  
 gadogude - mule  
@@ -1113,7 +1122,7 @@ garmomosim - summer
 garmomosimmedi den - Midsummer Day  
 garmozon - tropics  
 garmozoni - tropical  
-garmozoni cautopia - savannah  
+garmozoni caustan - savannah  
 gas - gas  
 gasa - gasify (vaporize)  
 gasi - gaseous  
@@ -1338,6 +1347,7 @@ Hindia - Hindustan
 hindem - indium  
 hindiste - Hindu  
 hindistia - Hinduism  
+hindostani - Hindustani language  
 Hiperyon - Hyperion  
 hisaba - calculate  
 hisabe - calculation  
@@ -1569,6 +1579,7 @@ jenden - birthday
 jengrupe - generation (cohort)  
 jenita - breed  
 jenklas - caste  
+jenostan - birthplace  
 jentipe - genotype  
 jeng - fight (war, battle, combat)  
 jengi - military (martial, warlike)  
@@ -1683,6 +1694,7 @@ kamisi xake - sleeve
 kamote - sweet potato  
 kampe - camp  
 kamper - camper  
+kampostan - campground  
 kamri - Welsh  
 Kamria - Wales (Cambria)  
 kan - shop (store or workshop)  
@@ -2321,8 +2333,8 @@ metrun - unit (measurement)
 Mexiko - Mexico  
 Mexiko site - Mexico City  
 meze - table  
+mezostan - plateau (tableland)  
 mezotex - tablecloth  
-mezotopia - plateau (tableland)  
 Myanma - Myanmar (Burma)  
 mien - noodle  
 migra - move (migrate, relocate)  
@@ -2562,8 +2574,6 @@ nol xei - nothing
 nola - cancel (nullify)  
 noma - manage (organize)  
 nomia - management (arrangement, -nomy)  
-nonga - cultivate (farm)  
-nonger - farmer  
 norde - north  
 nordi - northern  
 Nordi Aire - Northern Ireland  
@@ -2840,8 +2850,8 @@ plati - flat (planar)
 plati geukaskia - plate tectonics  
 platoforme - platform  
 platogeviste - flat-earther  
+platostan - plain (plateau, flat lands)  
 platotas - plate  
-platotopia - plain (plateau, flat lands)  
 platinem - platinum  
 Platon - Plato  
 platoniste - Platonist  
@@ -3014,7 +3024,7 @@ reda - prepare (make ready)
 redi - ready (prepared)  
 rege - sand  
 regopetre - sandstone  
-regotopia - desert  
+regostan - desert  
 rei - repetition  
 reya - repeat (iterate)  
 reyo - again (repeatedly)  
@@ -3102,9 +3112,6 @@ rupu - seem
 rusi - Russian  
 rusi krepe - blini  
 Rusia - Russia  
-ruste - village  
-rusti - rural (rustic)  
-rustia - countryside  
 rute - route (path, trail, course, itinerary)  
 rutogalta - stray (deviate)  
 rutogalti - stray (deviant)  
@@ -3357,6 +3364,7 @@ sporte - sport (athletics)
 sporter - athlete (sportsman)  
 stadia - stadium (arena)  
 stan - tin  
+stan - tract (land, ground, region)  
 stasa - hold (detain)  
 stasi - static (stationary)  
 stasia - station  
@@ -3916,9 +3924,9 @@ zong - post (stake, peg, skewer)
 zonga - impale (stab, skewer)  
 zongominte - spearmint  
 zou - animal  
+zovagria - animal husbandry  
 zoufilia - zoophily  
 zougeugrafia - zoogeography  
-zoujenitia - animal husbandry  
 zouloji - zoological  
 zoulojia - zoology  
 zouparke - zoo (zoological garden)  

@@ -10,6 +10,9 @@ adres - endereço
 afgani - afegão  
 Afgania - Afeganistão  
 aga - se  
+agra - cultivar  
+agri - agrícola  
+agronomia - agronomia  
 agres - ataque  
 agreser - agressor  
 ai - ai!  
@@ -202,6 +205,7 @@ coi - verdura
 coklate - chocolate  
 coklatobaton - barra de chocolate  
 cope - enxada  
+cun - aldeia (vila)  
 cuzable - opção  
 ####D - D  
 daidom - palácio (mansão, palacete)  
@@ -323,7 +327,7 @@ futomarke - pegada
 ####G - G  
 gabra - enterrar  
 gabre - sepultura (túmulo)  
-gabrotopia - cemitério  
+gabrostan - cemitério  
 gabroxeke - lápide  
 Galia - Gália  
 galaksia - galáxia  
@@ -469,6 +473,7 @@ jeka - emprestar (pedir emprestado)
 jekodona - emprestar  
 jekogeta - pedir emprestado  
 jeni bax - língua materna  
+jenostan - terra natal  
 jentipe - genótipo  
 jihade - luta  
 jinse - sexo  
@@ -509,6 +514,7 @@ kamar - sala (câmara)
 kamil - camomila-vulgar  
 kamis - camisa  
 kamisi xake - manga  
+kampostan - área de acampamento  
 kance - vidro  
 kangaru\* - canguru  
 kanyon - canhão (ravina, barranco)  

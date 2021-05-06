@@ -11,6 +11,8 @@ adalia - 正义
 adres - 地址  
 Afgania - 阿富汗  
 aga - 如果 (要是)  
+agrocun - 农村  
+agronomia - 农学  
 agres - 攻击  
 agreser - 侵略者  
 air - 空气  
@@ -203,6 +205,7 @@ coklate - 巧克力
 coklatobaton - 巧克力棒  
 Congcing - 重庆  
 cope - 锄头  
+cun - 村  
 cuzable - 选择 (买卖权)  
 ####D - D  
 daidom - 殿 (宫殿, 宅第)  
@@ -316,7 +319,7 @@ futomarke - 脚印
 ####G - G  
 gabra - 埋葬  
 gabre - 坟墓  
-gabrotopia - 公墓 (墓地)  
+gabrostan - 公墓 (墓地)  
 gabroxeke - 墓石 (墓碑)  
 gadogude - 骡  
 Galia - 高卢  
@@ -326,7 +329,7 @@ gancau - 干草
 ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
-garmozoni cautopia - 稀树草原  
+garmozoni caustan - 稀树草原  
 gati - 硬  
 gatomate - 固体  
 gautehnia - 高科技 (高技术)  
@@ -466,6 +469,7 @@ jekodona - 借出
 jekogeta - 借入  
 jeni - 生的  
 jeni bax - 母语  
+jenostan - 出生地  
 jentipe - 基因型  
 jinse - 性别  
 jinsolojia - 性别研究  
@@ -838,7 +842,7 @@ piprominte - 辣薄荷
 piram - 金字塔  
 pis - 云杉  
 plati geukaskia - 板块构造论  
-platotopia - 平原  
+platostan - 平原  
 plum - 李子  
 polmaro - 经常  
 polite - 政府  

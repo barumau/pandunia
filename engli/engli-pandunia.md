@@ -69,6 +69,9 @@ agree (concur) - samraya
 agree (make an agreement) - treta  
 agreement (consent) - samrayia  
 agreement (treaty) - trete  
+agricultural - agri  
+agriculture - agre  
+agronomy - agronomia  
 aim (point) - dika  
 air - air  
 airforce - airgun  
@@ -135,7 +138,7 @@ anglophone (English speking) - englofoni
 Angola - Angola  
 angry (furious) - furi  
 animal - zou  
-animal husbandry - zoujenitia  
+animal husbandry - zovagria  
 animate - anima  
 animation (cartoon) - anim  
 anniversary - nenfeste  
@@ -392,6 +395,7 @@ bird - pakse
 biromantic - dulromansi  
 birth - jen  
 birthday - jenden  
+birthplace - jenostan  
 biscuit (cookie) - biskute  
 bisexual - dulseksi  
 bismuth - bismute  
@@ -541,6 +545,7 @@ camera - fotografmaxin
 Cameroon - Kamerun  
 camp - kampe  
 camper - kamper  
+campground - kampostan  
 can (know, be able) - abla  
 Canada - Kanada  
 cancel (nullify) - nola  
@@ -827,7 +832,7 @@ counselor (consultant) - konseler
 count (enumerate) - numba  
 counterclockwise (anticlockwise) - rotolefto  
 country (land, state) - dex  
-countryside - rustia  
+countryside - agrostan  
 coupon - kupon  
 cousin - cinbrusben  
 cover (conceal) - daka  
@@ -863,7 +868,7 @@ crystal - bilor
 Cuba - Kuba  
 cube - kube  
 cucumber - hiyar  
-cultivate (farm) - nonga  
+cultivate (farm) - agra  
 culture - kultur  
 cumin (jeera) - zir  
 cupboard (closet, cabinet, wardrobe) - almar  
@@ -948,7 +953,7 @@ Denmark - Dania
 dentist - dantomediker  
 depth - fastelia  
 descriptive - sifi  
-desert - regotopia  
+desert - regostan  
 desk - karmeze  
 despise (scorn) - paraya  
 destine (set) - gola  
@@ -1225,7 +1230,7 @@ fantastic (imaginary) - fantazi
 fantasy (imagination) - fantaze  
 far (distant) - teli  
 farewell - salam cute  
-farmer - nonger  
+farmer - agrer  
 fart (flatulate) - peda  
 fart (flatulence) - pede  
 fascination - fasinia  
@@ -1485,10 +1490,10 @@ grape - putau
 grapefruit - putavoranje  
 graphic (pictorial) - grafi  
 grass - cau  
-grassland - cautopia  
+grassland (prairie) - caustan  
 grave (tomb) - gabre  
 gravel - grau  
-graveyard - gabrotopia  
+graveyard (cemetery, burial ground) - gabrostan  
 Greece - Helenia  
 greedy - tami  
 Greek (Hellenic) - heleni  
@@ -1600,6 +1605,7 @@ Hindi (Hindustani) - hindi
 Hindu - hindiste  
 Hinduism - hindistia  
 Hindustan - Hindia  
+Hindustani language - hindostani  
 hinge (pivot) - xarnir  
 hippopotamus - gubu\*  
 hispanophone (Spanish speaking) - espanfoni  
@@ -2653,7 +2659,7 @@ pizza - pize
 pizzeria - pizokan  
 place (location) - loke  
 plain (ordinary, unadorned, simple, mere) - sadi  
-plain (plateau, flat lands) - platotopia  
+plain (plateau, flat lands) - platostan  
 plan - plan  
 plane (plate) - plate  
 plane (tool for making a smooth surface) - rande  
@@ -2665,7 +2671,7 @@ plastic (moldable, malleable) - plasti
 plastic - plastike  
 plate - platotas  
 plate tectonics - plati geukaskia  
-plateau (tableland) - mezotopia  
+plateau (tableland) - mezostan  
 platform - platoforme  
 platinum - platinem  
 Plato - Platon  
@@ -2993,7 +2999,8 @@ ruler - sultan
 rum - rum  
 run - kora  
 runner - korer  
-rural (rustic) - rusti  
+rural (rustic) - agrostani  
+rural village - agrocun  
 Russia - Rusia  
 Russian - rusi  
 rustle - xaxu  
@@ -3040,7 +3047,7 @@ sauce - saus
 Saudi Arabia - Saudi Arabia  
 sauna - sauna\*  
 sausage - sosis  
-savannah - garmozoni cautopia  
+savannah - garmozoni caustan  
 save (deposit, bank) - banka  
 savory (umami) - umami  
 saw - ser  
@@ -3596,6 +3603,7 @@ town - nagre
 toxic (poisonous, venomous) - toksi  
 toxicology - toksolojia  
 toxin - biutokse  
+tract (land, ground, region) - stan  
 tractor - trater  
 trade (buy and sell) - vendoxopa  
 trade (commerce) - vendoxope  
@@ -3741,7 +3749,7 @@ victory (win) - xeng
 Viet Nam - Vietia  
 Vietnamese (Viet) - vieti  
 view (vision) - vide  
-village - ruste  
+village - cun  
 vine - eskaltan  
 vinegar - vinsuan  
 vinyl - vinil  

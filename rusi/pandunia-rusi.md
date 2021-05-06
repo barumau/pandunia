@@ -10,6 +10,9 @@ adres - адрес
 afgani - афганский  
 Afgania - Афганистан  
 aga - если  
+agra - выращивать  
+agri - аграрный  
+agronomia - агрономия  
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
 air - воздух  
@@ -225,6 +228,7 @@ cize - сыр
 coi - зелень  
 coklate - шоколад  
 cope - мотыга  
+cun - деревня (село)  
 ####D - D  
 daidom - дворец (особняк)  
 daihai - океан  
@@ -363,7 +367,7 @@ futomarke - след ноги
 ####G - G  
 gabra - хоронить  
 gabre - могила (гроб)  
-gabrotopia - кладбище  
+gabrostan - кладбище  
 gabroxeke - надгробие  
 gadogude - мул  
 Galia - Галлия  
@@ -517,6 +521,7 @@ jeni - сырой
 jeni bax - родной язык  
 jengrupe - поколение  
 jenita - выращивать  
+jenostan - место рождения  
 jentipe - генотип  
 jihade - борьба (бой)  
 jinse - пол  
@@ -559,6 +564,7 @@ kalsopetre - известняк
 kamar - комната (камера)  
 kamil - ромашка аптечная  
 kamis - рубашка  
+kampostan - полевой стан  
 kanape - канапе  
 kance - стекло  
 kancodaka - глазуровать  

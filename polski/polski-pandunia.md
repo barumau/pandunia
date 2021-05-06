@@ -16,6 +16,7 @@ Afryka - Afrike
 afrykański, Afrykanin - Afriki  
 agorafobia - medenfobia  
 agresywny - agresivi  
+agronomia - agronomia  
 aj!, ał! - ai  
 akacja - babul  
 akacja arabska - arabobabul  
@@ -362,7 +363,7 @@ ciężarny (w ciąży) - hamili
 ciężki (masywny) - bari  
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanci  
-cmentarz - gabrotopia  
+cmentarz - gabrostan  
 cnota (moralność) - bondeke  
 cnotliwy (prawy) - bondeki  
 co? - ke  
@@ -841,7 +842,7 @@ Hiszpania - Espania
 hmm - hem  
 Ho Chi Minh (Sajgon) - Ho Ci Min site  
 hobby - hobe  
-hodowla zwierząt - zoujenitia  
+hodowla zwierząt - zovagria  
 hojność (szczodrość) - karimia  
 hojny (szczodry) - karimi  
 hokej - hoke  
@@ -2343,7 +2344,7 @@ puma (kuguar) - puma\*
 punkt - binde  
 pustka - kal  
 pusty - kali  
-pustynia - regotopia  
+pustynia - regostan  
 pułapka - kapotruke  
 pyszny - yami  
 pytajny, związany z pytaniem - sualan  
@@ -2360,7 +2361,7 @@ pęknąć (rozpaść się) - fenu
 płakać, łkać - kuga  
 płaski - plati  
 płaski chleb, ćapati - capate  
-płaskowyż (plateau) - mezotopia  
+płaskowyż (plateau) - mezostan  
 płaskoziemca - platogeviste  
 płaszcz - kote  
 płaszcz nieprzemakalny - barxokote  
@@ -2438,7 +2439,7 @@ rodzynka - ganputau
 roentgen - rentogenem  
 rok - nen  
 rola - rol  
-rolnik, farmer - nonger  
+rolnik, farmer - agrer  
 romantyczny - romansi  
 ropa naftowa - petronefte  
 rosa - ros  
@@ -2523,7 +2524,7 @@ rzęsa - okokex
 róg - buge  
 róg - korne  
 równik - geuparlin  
-równina (plaskowyż, plateau) - platotopia  
+równina (plaskowyż, plateau) - platostan  
 równoległy (podłużny) - parlini  
 równy - pari  
 równy - parike  
@@ -2560,7 +2561,7 @@ satanista - xataniste
 satanizm - xatanistia  
 Saturn - Saturne  
 sauna - sauna\*  
-sawanna - garmozoni cautopia  
+sawanna - garmozoni caustan  
 sałata - letis  
 sałatka - salade  
 scena - sen  
@@ -3033,7 +3034,7 @@ Unia Europejska (EU) - Europi Unia
 uniwersytet - daixulkan  
 upadły - padi  
 uprawiać jogę - yoga  
-uprawić, uprawiać - nonga  
+uprawić, uprawiać - agra  
 uprzejmy - keci  
 upuścić, upuszczać - pada  
 Uran - Uran  
@@ -3131,7 +3132,7 @@ widok, wzrok - vide
 wieczór - suar  
 wiedza - sau  
 wiedzieć - sava  
-wiejski, rustykalny - rusti  
+wiejski, rustykalny - agrostani  
 wiek - umur  
 wielbłąd, wielbłądzica - gamel  
 wiele - multi  
@@ -3153,8 +3154,8 @@ wierzący (osoba religijna) - diniste
 Wietnam - Vietia  
 wietnamski - vieti  
 wiewiórka - ekor  
-wieś, tereny wiejskie - rustia  
-wieś, wioska - ruste  
+wieś, tereny wiejskie - agrostan  
+wieś, wioska - cun  
 wieża - minar  
 wieża zegarowa - horlogerminar  
 wilk - volfe  
@@ -3516,7 +3517,7 @@ zły, zrujnowany, zepsuty - harabi
 łóżko - bede  
 łączyć (złączyć) - rivunu  
 łączyć, wiązać, złączyć - linka  
-łąka - cautopia  
+łąka - caustan  
 Święta Helena - Santi Helena  
 ścieżka (droga, szlak, kurs) - rute  
 ścisnąć (sciskać, wycisnąć) - inpuxa  

@@ -40,6 +40,8 @@ agile - ajili
 agresseur - agreser  
 agressif - agresivi  
 agression (attaque) - agres  
+agricole - agri  
+agronomie - agronomia  
 ail - lasun  
 aimer - ama  
 air - air  
@@ -343,7 +345,7 @@ chêne pédonculé - europobalute
 chœur - cantergrupe  
 ciel - ten  
 cime (pic, sommet) - xanpike  
-cimetière - gabrotopia  
+cimetière - gabrostan  
 cinq (5) - limi  
 cirse commun - perkardon  
 citron - limon  
@@ -419,6 +421,7 @@ crêpe - krepe
 crêperie - krepokan  
 cube - kube  
 cuiller - camace  
+cultiver - agra  
 culturisme (musculation) - muskulbin  
 cycliste - sikliste  
 cytologie - celolojia  
@@ -740,6 +743,7 @@ libre - huri
 lichen - algofung  
 lien - linke  
 lieu - loke  
+lieu de naissance - jenostan  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amirlin  
 ligne téléphonique - telfonlin  
@@ -1001,7 +1005,7 @@ pièce (chambre) - kamar
 piège - kapotruke  
 placard - almar  
 place - meden  
-plaine - platotopia  
+plaine - platostan  
 plaire - suka  
 plan - plan  
 planche - mokoban  
@@ -1158,7 +1162,7 @@ saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
 sauvage - ekojeni  
-savane - garmozoni cautopia  
+savane - garmozoni caustan  
 savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
@@ -1242,6 +1246,7 @@ tendu - tensi
 tentacule - senter  
 tente - hemah  
 terrain - geuforme  
+terrain de camping - kampostan  
 Terre - Gevia  
 terre cuite - bekofan  
 terreplatiste - platogeviste  
@@ -1325,6 +1330,7 @@ vie - jiu
 vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
+village - cun  
 ville - site  
 vin de riz - risvin  
 violet (pourpre) - viyoleti  
@@ -1382,7 +1388,7 @@ zèbre - zebre
 éducation - xulia  
 égal (même) - sami  
 électricité - eletre  
-élevage - zoujenitia  
+élevage - zovagria  
 élever - jenita  
 éloge - euloge  
 élément (unité fondamentale) - em  

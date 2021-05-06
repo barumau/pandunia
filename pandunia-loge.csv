@@ -30,6 +30,14 @@ Afrik:i|Afriki||||African|africain|africano|||||||||||||afrika|afrikkalainen|afr
 afrik.o.fil:ia|afrikofilia||||Afrophilia|afrophilie||||||||||||||afrikamanteco|afrofilia|afrofilia
 afrik.o.fil.er:|afrikofiler||||afrophile|afrophile||||||||||||||afrikamanto|afrofiili|afrofil
 ag:a|aga|||fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|if (suppose, assume)|si|si (suponer)|se|если|إن|如果 (要是)|もし|||अगर (यदि)||jika (kalau)|ikiwa (kama)||se|jos (olettaa)|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa
+agr:a|agra||||cultivate (farm)|cultiver|cultivar|cultivar|выращивать||||||||||||viljellä|uprawić, uprawiać
+agr:i|agri|||eng:fra:spa:por:tur:agro-, rus:агро- (agro-)|agricultural|agricole|agrícola|agrícola|аграрный|||||||||||agrikultura|maataloudellinen (agraari-)|
+agr:ia|agre||||agriculture|||||||||||||||agrikulturo|viljely|
+agr.er:|agrer||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
+agr.o.cun:|agrocun||||rural village||||||农村|農村|농촌|nông thôn|||||||maalaiskylä|
+agr.o.nom:ia|agronomia||||agronomy|agronomie|agronomía|agronomia|агрономия|عِلْم الزِرَاعَة‎|农学|農学|농학|nông học|||||agronomi|agronomio|agronomia (maatalous)|agronomia
+agr.o.stan:|agrostan||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
+agr.o.stan:i|agrostani||||rural (rustic)||rural (rústico)||||||||||||||maalais-|wiejski, rustykalny
 agres:|agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
 agres:a|agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
 agres.er:|agreser||||aggressor|agresseur|agresor|agressor|агрессор||侵略者||||||||||hyökkääjä|
@@ -518,7 +526,7 @@ car.lun:|carlun|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
 carm:e|carme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 cat:e|cate|||hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|roof||techo (tejado)|||||||||||||tekto|katto (katos)|dach
 cau:|cau|biu||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
-cau.top:ia|cautopia||||grassland||pradera (pastizal)|||||草地|||||||||niitty|łąka
+cau.stan:|caustan||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 Ceh:ia|Cehia|dex|CZ||Czech Republic||República Checa||||||||||||||Tšekki|Republika Czeska, Czechy
 cek:a|ceka|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
 cel:|cel|||may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|cell (biology)||célula|||||||||||||ĉelo|solu|komórka (biologia)
@@ -582,6 +590,7 @@ Cosen:|Cosen|dex||kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Ch
 Cosen:i|Coseni||||Korean||coreano||||||||||||||korealainen|koreański
 Cuana:|Cvana|dex|BW||Botswana||Botsuana||||||||||||||Botswana|Botswana
 cum:|cum|||hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|kiss||beso|||||||||||||kiso|suukko (pusu)|całus
+cun:|cun|||zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|village|village|aldea|aldeia (vila)|деревня (село)|قَرْيَة‎|村|村|마을 (촌락)|làng (thôn)|गांव (देहात)|গ্রাম|desa|kijiji|köy|vilaĝo|kylä|wieś, wioska
 cup:a|cupa|||spa:por:chupar, khm:ជប់ (cup)|suck (absorb)||chupar (succionar)|||||||||||||suĉi|imeä|ssać
 cut:a|cuta|||zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|leave (go out, exit)||salir (irse)|||||||||||||eliri|poistua|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać
 cut:e|cute||||exit (leaving)||escapatoria|||||||||||||eliro|poistuminen|wyjśćie, opuszczenie
@@ -1067,7 +1076,7 @@ G|G||||G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
 Gabon:|Gabon|dex|GA||Gabon||Gabón||||||||||||||Gabon|Gabon
 gabr:a|gabra||||bury|enterrer|enterrar|enterrar|хоронить||埋葬|葬る (埋葬する)||||||||enterigi|haudata|zakopać (pochować)
 gabr:e|gabre|||ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, swa:kaburi, tur:kabir, deu:Grab, pol:grób, rus:гроб (grob)|grave (tomb)|tombe|tumba (sepultura)|sepultura (túmulo)|могила (гроб)||坟墓|墓|무덤|mộ (phần mộ)|क़ब्र|কবর|kubur|kaburi|mezar (kabir)|tombo|hauta|grób (mogiła, grobowiec)
-gabr.o.top:ia|gabrotopia||||graveyard|cimetière|cementerio|cemitério|кладбище|مقبرة‎|公墓 (墓地)|墓 (墓地)|묘지|nghĩa trang|क़ब्रिस्तान|কারবালা|pekuburan|makaburi|mezarlık (kabristan, mezaristan)|tombejo|hautausmaa|cmentarz
+gabr.o.stan:|gabrostan||||graveyard (cemetery, burial ground)|cimetière|cementerio|cemitério|кладбище|مقبرة‎|公墓 (墓地)|墓 (墓地)|묘지|nghĩa trang|क़ब्रिस्तान|কারবালা|pekuburan|makaburi|mezarlık (kabristan, mezaristan)|tombejo|hautausmaa|cmentarz
 gabr.o.xek:e|gabroxeke||||tombstone (gravestone)|pierre tombale|lápida|lápide|надгробие||墓石 (墓碑)|墓石 (墓碑)|묘석|bia mộ|कब्र का पत्थर||batu nisan||mezartaşı|tomboŝtono|hautakivi|nagrobek
 gad:e|gade|biu|Equus africanu asinus|hin:गधा (gadhā), ben:গাধা (gadha), guj:ગધેડો (gadheḍo), tel:(gāḍida), tam:(kaḻutai), may:keledai, + yor:ké̩té̩ké̩té̩|donkey (ass)||burro (asno)|||||||||||||azeno|aasi|osioł
 gad.o.gud:e|gadogude|biu|Equus asinus♂ × Equus caballus♀||mule|mule|mula||мул||骡|騾馬|||||||||muuli|muł
@@ -1116,7 +1125,7 @@ garm.o.mosim:|garmomosim|mosim|||summer|été|verano|verão|лето||夏季|夏
 garm.o.mosim.med:i den:|garmomosimmedi den||||Midsummer Day||Midsommar||||||||||||||juhannus (keskikesä, mittumaari)|przesilenie letnie (dzień srodka lata)
 garm.o.zon:|garmozon||||tropics|tropique|trópico|trópicos|тропик||热带|熱帯|||||||||tropiikki|tropiki
 garm.o.zon:i|garmozoni||||tropical||||||||||||||||trooppinen|tropikalny
-garm.o.zon:i cau.top:ia|garmozoni cautopia||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
+garm.o.zon:i cau.stan:|garmozoni caustan||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 gas:|gas|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|gas|gaz|gas|gás|газ||||||गैस||gas||gaz|gaso|kaasu|gaz
 gas:a|gasa||||gasify (vaporize)||gasificar||||||||||||||kaasuttaa|zamieniać w gaz
 gas:i|gasi||||gaseous||gaseoso||||||||||||||kaasumainen|gazowy
@@ -1342,6 +1351,7 @@ Hind:ia|Hindia||||Hindustan|Hindustan|Indostán||Индостан||印度斯坦|
 hind.em:|hindem|mate|In||indium||indium|||||||||||||indio|indium|ind
 hind.ist:e|hindiste||||Hindu||hindú|||||||||||||hinduo|hindu|hinduistyczny
 hind.ist:ia|hindistia||||Hinduism||hinduismo|||||||||||||hinduismo|hindulaisuus (hinduismi)|hinduizm
+hind.o.stan:i|hindostani||||Hindustani language||||||||||||||||hindustanin kieli|
 Hiperion:|Hiperyon|planete 6 lun 7|||Hyperion|||||||||||||||||
 hisab:a|hisaba||||calculate|calculer|calcular|calcular|вычислять|حَسَبَ|计算|計算する|계산하다|||||||kalkuli|laskea (tehdä laskutoimitus)|kalkulować
 hisab:e|hisabe|||ara: حِسَاب‎ (ḥisāb), tur:hesap, orm:hisaaba, swa:hisabu, hin:हिसाब (hisāb), ben:হিসাব (hiśab)|calculation|||||حِسَاب‎|||||हिसाब|হিসাব||hisabu|hesap|kalkulo|lasku (laskelma)|
@@ -1573,6 +1583,7 @@ jen.den:|jenden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä
 jen.grup:e|jengrupe||||generation (cohort)||generación (cohorte)||поколение|||||||||||||pokolenie (generacja)
 jen.it:a|jenita||||breed|élever|criar||выращивать|||湧かす||||||||||rozmnażać
 jen.klas:|jenklas||||caste||casta||||||||||||||sääty (kasti)|kasta
+jen.o.stan:|jenostan||||birthplace|lieu de naissance|lugar de nacimiento|terra natal|место рождения||出生地|出生地|출생지|nơi sinh (sinh quán)|जन्मस्थान||||doğum yeri|naskiĝejo|syntymäpaikka|
 jen.tip:e|jentipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
 jeng:|jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|fight (war, battle, combat)||pelea (guerra, batalla)|||||戦闘 (格闘)||||||||milito (batalo)|taistelu (sota)|walka, wojna
 jeng:i|jengi||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
@@ -1687,6 +1698,7 @@ kamis:i xak:e|kamisi xake||||sleeve|manche|manga|manga|||袖子|袖||||||||||rę
 kamot:e|kamote|biu|Ipomoea batatas|spa:camote, tgl:kamote|sweet potato||camote (batata)|||||||||||||batato|bataatti|słodki ziemniak
 kamp:e|kampe|||eng:camp, spa:campamento, por:acampamento, tur:kamp, swa:kambi, hin:कैंप (kaimp), may:kem, jpn:キャンプ (kyanpu)|camp||campamento||||||||||||||leiri|obozowicz
 kamp.er:|kamper||||camper||campista||||||||||||||retkeilijä|obóz
+kamp.o.stan:|kampostan||||campground|terrain de camping||área de acampamento|полевой стан||||||||||||leirintäalue|
 kamr:i|kamri||||Welsh||galés||||||||||||||walesilainen|walijski
 Kamr:ia|Kamria|dex|||Wales (Cambria)||Gales||||||||||||||Wales|Walia
 kan:|kan|||fas:خانه‎ (xâne), rus:-хана (-hana), hin:ख़ाना (xānā), ben:খানা (khana), tur:hane + zho:馆 (guǎn), kor:관 (gwan), jpn:館 (-kan), vie:quán|shop (store or workshop)||||||店 (馆)|店 (館)|관|quán|ख़ाना|খানা|||hane|farejo|paja (tekimö)|
@@ -2329,8 +2341,8 @@ metr.un:|metrun||||unit (measurement)||unidad (medida)|||||||||||||||jednostka m
 Mexiko:|Mexiko|dex|MX||Mexico||México|||||||||||||Meksikio|Meksiko|Meksyk
 Mexiko: sit:e|Mexiko site|xefsite|||Mexico City||Ciudad de México|||||||||||||||Meksyk
 mez:e|meze|||por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|table|table|mesa|mesa|стол|طَاوِلَة|桌子|机 (テーブル)|||मेज़||meja|meza|masa|tablo|pöytä|stół
+mez.o.stan:|mezostan||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
 mez.o.tex:|mezotex||||tablecloth|nappe|mantel|toalha de mesa|скатерть|غِطَاء اَلْمَائِدَة‎|桌布|テーブル掛け|식탁보|khăn trải bàn|मेज़पोश|টেবিলক্লথ|alas meja||masa örtüsü|tablotuko|pöytäliina|obrus
-mez.o.top:ia|mezotopia||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
 Mianma:|Myanma|dex|MM||Myanmar (Burma)||Myanmar (Birmania)|||||||||||||Birmo|Myanmar (Burma)|Mjanma, Birma
 mien:|mien|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
 migr:a|migra||||move (migrate, relocate)||migrar (emigrar, tralsadar)||||搬家||||||||||muuttaa (siirtää)|ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)
@@ -2570,8 +2582,6 @@ nol: xei:|nol xei||||nothing||nada||||||||||||||ei mitään|nic, żadna rzecz
 nol:a|nola||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
 nom:a|noma||||manage (organize)|organiser|organizar (gestionar)|organizar|организовать||组织|組織する|||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
 nom:ia|nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|management (arrangement, -nomy)||gerencia (dirección)||организация||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
-nong:a|nonga|||zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)||cultivar||||||||||||||viljellä|uprawić, uprawiać
-nong.er:|nonger||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
 nord:e|norde|||eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|north|nord|norte|norte|север (норд)||北|北|북|||||||nordo|pohjoinen|północ
 nord:i|nordi||||northern||norteño||||||||||||||pohjoinen|północny
 Nord:i Aire:|Nordi Aire|dex|||Northern Ireland||Irlanda del Norte||||||||||||||Pohjois-Irlanti|Irlandia Północna
@@ -2848,8 +2858,8 @@ plat:i|plati||||flat (planar)||plana (llano, liso)|||||平ら|||||||||litteä|p�
 plat:i geu.kask:ia|plati geukaskia||||plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)||||||||||tektonika płyt
 plat.o.form:e|platoforme||||platform|||||||||||||||||platforma
 plat.o.geu.ist:e|platogeviste||||flat-earther|terreplatiste|terraplanista|terraplanista|плоскоземелец||||||||||||litteän maapallon kannattaja|płaskoziemca
+plat.o.stan:|platostan||||plain (plateau, flat lands)|plaine|llanura||||平原|草原||||||||||równina (plaskowyż, plateau)
 plat.o.tas:|platotas||||plate||plato||||||||||||||lautanen|talerz
-plat.o.top:ia|platotopia||||plain (plateau, flat lands)|plaine|llanura||||平原|草原||||||||||równina (plaskowyż, plateau)
 platin.em:|platinem|mate|Pt||platinum||platino|||||||||||||plateno|platina|platyna
 Platon:|Platon||||Plato||Platón||||||||||||||Platon|Platon
 platon.ist:e|platoniste||||Platonist||platonista||||||||||||||platonisti|platończyk
@@ -3023,7 +3033,7 @@ red:a|reda||||prepare (make ready)||preparar (hacer listo)||||||||||||||tehdä v
 red:i|redi|||eng:ready, deu:bereit, fra:prêt, mao:reri|ready (prepared)||listo (preparado)|||||||||||||preta|valmis|gotowy
 reg:e|rege|||fas:(rig), hin:रेग (reg), urd:(reg)|sand||arena|||||||||||||sablo|hiekka|piasek, piach
 reg.o.petr:e|regopetre||||sandstone|grès||||||砂岩||||||||||piaskowiec
-reg.o.top:ia|regotopia||||desert||desierto|||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
+reg.o.stan:|regostan||||desert||desierto|||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
 rei:|rei|||eng:fra:por:spa:re-, rus:ре- (re-)|repetition|répétition|repetición|repetição|повторение|||繰り返し||||||||ripetado|toisto|powtarzanie, powtórka
 rei:a|reya||||repeat (iterate)|répéter|repetir|repetir|повторять||重复|繰り返す|되풀이하다||दोहराना|||||ripeti (refari)|toistaa|powtórzyć, powtarzać
 rei:o|reyo||||again (repeatedly)||otra vez (de nuevo)|||||||||||||denove (ripete)|taas (uudestaan)|znowu (ponownie)
@@ -3111,9 +3121,6 @@ rup:u|rupu||||seem||parecer||||||||||||||näyttää jltkn|wyglądać (wydawać s
 rus:i|rusi||||Russian||ruso||||||||||||||venäläinen|rosyjski
 rus:i krep:e|rusi krepe|yam|||blini|||||||||||||||rusa krepo|blini|rosyjski naleśnik (blin)
 Rus:ia|Rusia|dex|RU||Russia||Rusia||||||||||||||Venäjä|Rosja
-rust:e|ruste|||fas:روستا‎ (rustâ), + eng:rustic, por:spa:rustico, fra:rustique|village||aldea|||||||||||||vilaĝo|kylä|wieś, wioska
-rust:i|rusti||||rural (rustic)||rural (rústico)||||||||||||||maalais-|wiejski, rustykalny
-rust:ia|rustia||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
 rut:e|rute|||eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)|route (path, trail, course, itinerary)||ruta||||||||||||||polku (reitti, kurssi)|ścieżka (droga, szlak, kurs)
 rut.o.galt:a|rutogalta||||stray (deviate)||apartarse (desviarse)||отходить (скитаться)|||逸れる||||||||||zbłąkać się (wykoleić się)
 rut.o.galt:i|rutogalti||||stray (deviant)|||||||||||||||||zbłąkany (dewiacyjny, wykolejony)
@@ -3367,6 +3374,7 @@ sport:e|sporte|||eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sp
 sport.er:|sporter||||athlete (sportsman)||deportista||||||||||||||urheilija|hałas
 stad:ia|stadia|||fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||estadio (arena)|||||||||||||stadiono (areno)|stadioni (areena)|stadion, arena
 stan:|stan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
+stan:|stan|||hin:स्थान (sthān), rus:стан (stan), fas: ـستان‎ (-stân)|tract (land, ground, region)||||||||||||||||alue (seutu)|
 stas:a|stasa||||hold (detain)||mantener (detener)||||||||||||||seisottaa|zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
 stas:i|stasi||||static (stationary)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
 stas:ia|stasia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station||estación|||||||||||||stacio|asema|stacja
@@ -3928,9 +3936,9 @@ zong:|zong|||zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō
 zong:a|zonga||||impale (stab, skewer)||atravesar|||||刺す||||||||||nabić (przebić, dźgnąć)
 zong.o.mint:e|zongominte|biu|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
 zou:|zou|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
+zou.agr:ia|zovagria||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|hodowla zwierząt
 zou.fil:ia|zoufilia||||zoophily||||||||||||||||eläinrakkaus|
 zou.geu.graf:ia|zougeugrafia||||zoogeography||||||||||||||||eläinmaantiede|
-zou.jen.it:ia|zoujenitia||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|hodowla zwierząt
 zou.loj:i|zouloji||||zoological|zoologique|zoológico|zoológico|зоологический|||動物学の|||||||zoolojik|zoologia|eläintieteellinen|zoologiczny
 zou.loj:ia|zoulojia||||zoology|zoologie|zoología|zoologia|зоология|عِلْم اَلْحَيَوَان|动物学|動物学|동물학|động vật học|प्राणि विज्ञान|প্রাণিবিজ্ঞান|zoologi (kaji haiwan)||zooloji|zoologio|eläintiede (zoologia)|zoologia
 zou.park:e|zouparke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园|動物園|동물원|thảo cầm viên|चिड़ियाघर|চিড়িয়াখানা|kebun binatang|bustani ya wanyama|hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)

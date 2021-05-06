@@ -85,6 +85,8 @@ agradecer - danka
 agresivo - agresivi  
 agresor - agreser  
 agrio (ácido) - suani  
+agronomía - agronomia  
+agrícola - agri  
 agua - sui  
 agua mineral - kuangosui  
 aguacate - avakate  
@@ -108,7 +110,7 @@ alcachofera - karcof
 alcalino - alkali  
 alcohol - alkol  
 alcohólico - alkoli  
-aldea - ruste  
+aldea - cun  
 Alemania - Doicia  
 alemán - doici  
 alfabeto - harfia  
@@ -533,7 +535,7 @@ campamento - kampe
 campana (cencerro) - danger  
 campeón - campion  
 campista - kamper  
-campo - rustia  
+campo - agrostan  
 campo de visión - vidomeden  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
@@ -608,7 +610,7 @@ celebrar (festejar) - festa
 celeste (azul celeste) - tennili  
 celeste (celestial) - teni  
 celoso (envidioso) - jelosi  
-cementerio - gabrotopia  
+cementerio - gabrostan  
 cemento - semente  
 cena - suaryam  
 ceniza - hui  
@@ -908,7 +910,7 @@ cueva (caverna) - guh
 culombio - kulombe  
 culpa (defecto, crimen) - dox  
 culpable - doxi  
-cultivar - nonga  
+cultivar - agra  
 cultura - kultur  
 cumpleaños - jenden  
 cupón (vale) - kupon  
@@ -1008,7 +1010,7 @@ descargar - netogeta
 descriptivo - sifi  
 deseo - vol  
 desfigurar - dusforma  
-desierto - regotopia  
+desierto - regostan  
 deslizar - glisu  
 desnudo - nudi  
 despertar - jaga  
@@ -1520,7 +1522,7 @@ Granada - Grenada
 Granadinas - Grenadin nesia  
 grande - dayi  
 granito - granite  
-granjero (agricultor) - nonger  
+granjero (agricultor) - agrer  
 grasa - fete  
 graso (adiposo) - feti  
 grava - grau  
@@ -1959,7 +1961,7 @@ livermorio - livermorem
 llama - liama\*  
 llamar (poner) - namana  
 llamarse - nama  
-llanura - platotopia  
+llanura - platostan  
 llave - cabe  
 llenar - pura  
 lleno (completo) - puri  
@@ -1982,6 +1984,7 @@ lote (grupo) - lote
 lucha - jihade  
 luchador (guerrero) - jenger  
 lugar - loke  
+lugar de nacimiento - jenostan  
 lujuria (deseo) - kamia  
 luna - lun  
 lunes - unyom  
@@ -2142,7 +2145,7 @@ mercado (bazar) - bazar
 mercurio - hurargente  
 Mercurio - Merkur  
 mesa - meze  
-meseta - mezotopia  
+meseta - mezostan  
 mesiánico - kristi  
 meta (gol, destinación) - gol  
 metal - metal  
@@ -2717,7 +2720,7 @@ posterior - postri
 postura (posición) - asan  
 potasio - kalem  
 practicar (ensayar, ejercitar) - lenxa  
-pradera (pastizal) - cautopia  
+pradera (pastizal) - caustan  
 praseodimio - prasedem  
 preceder (anteceder) - cena  
 precio (coste) - koste  
@@ -2986,7 +2989,7 @@ rueda (volante) - cakre
 ruido - kelel  
 ruiseñor - bulbul  
 Rumania - Romania  
-rural (rústico) - rusti  
+rural (rústico) - agrostani  
 Rusia - Rusia  
 ruso - rusi  
 ruta - rute  
@@ -2999,7 +3002,7 @@ régimen - politomode
 réservation - rezerve  
 rígido (sólido) - gatomati  
 ####S - S  
-sabana - garmozoni cautopia  
+sabana - garmozoni caustan  
 sabbat - sabate  
 saber (conocer) - sava  
 sabiduría (conocimiento) - sau  

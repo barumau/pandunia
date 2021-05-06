@@ -12,7 +12,7 @@ Aasia - Asia
 aasialainen - asi  
 aate (ismi, ideologia, uskonto, jne) - istia  
 aatteen kannattaja - iste  
-aavikko (hiekkaerämaa) - regotopia  
+aavikko (hiekkaerämaa) - regostan  
 Abhaasia - Apsni  
 aboriginaali (Australian alkuperäisasukas) - aslaustrali  
 abyssinia - Habaxia  
@@ -27,6 +27,7 @@ afrikkalainen - Afriki
 afrofiili - afrikofiler  
 afrofilia - afrikofilia  
 agorafobia (avaran paikan kammo) - medenfobia  
+agronomia (maatalous) - agronomia  
 ahne - tami  
 ahnehtia - tamu  
 Ahvenanmaa (Oolanti) - Olandi nesia  
@@ -87,6 +88,7 @@ allofoni (vaihtoehtoinen ääntämys) - alfon
 aloittaa - xura  
 alttari - pujomeze  
 alue (seutu) - aria  
+alue (seutu) - stan  
 alumiini - aluminem  
 amatööri - amater  
 amerikium - amerikem  
@@ -544,7 +546,7 @@ haureus (uskottomuus) - zin
 hauska (huvittava) - vani  
 hauta - gabre  
 hautakivi - gabroxeke  
-hautausmaa - gabrotopia  
+hautausmaa - gabrostan  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
 he - les  
@@ -602,6 +604,7 @@ hindin kieli - hindi
 hindu - hindiste  
 hindulaisuus (hinduismi) - hindistia  
 Hindustan - Hindia  
+hindustanin kieli - hindostani  
 hinta (maksu) - koste  
 hirviö - monoster  
 historia (aikakirjat) - histor  
@@ -967,7 +970,7 @@ karate - karate\*
 karavaani (saattue) - karvan  
 karhu - urse  
 Karibia - Karaibia  
-karjanhoito - zoujenitia  
+karjanhoito - zovagria  
 Karnataka (Intian osavaltio) - karnadia  
 kartio (keila) - konus  
 kartogratia - metrografia  
@@ -1306,7 +1309,7 @@ kylmä - lengi
 kylpeä - banyu  
 kylpy - banye  
 kylpyhuone - banyokamar  
-kylä - ruste  
+kylä - cun  
 kymmenen (10) - desi  
 kynsi - nahun  
 kynttilä - mumfote  
@@ -1415,6 +1418,7 @@ leipomo - bekokan
 leipuri - beker  
 leipä - pang  
 leiri - kampe  
+leirintäalue - kampostan  
 lempi (romanssi, rakkaus) - romansia  
 lento - fei  
 lentoasema (lentokenttä) - airporte  
@@ -1560,7 +1564,8 @@ maailma - dunia
 maailman- - duni  
 maailmankieli - dunia bax  
 maailmanlaajuinen (globaali) - panduni  
-maalais- - rusti  
+maalais- - agrostani  
+maalaiskylä - agrocun  
 maalari - penter  
 maalata - penta  
 maalata - pente  
@@ -1570,10 +1575,11 @@ maaliskuu - sanlun
 maanantai - unyom  
 maanjäristys - geusisme  
 maantiede - geugrafia  
-maanviljelijä - nonger  
+maanviljelijä - agrer  
 maapähkinä - geudou  
-maaseutu - rustia  
+maaseutu - agrostan  
 maata (makoilla) - kuxu  
+maataloudellinen (agraari-) - agri  
 maavoimat - geugunia  
 Macao - Makau  
 Madagaskar - Malagasia  
@@ -1855,7 +1861,6 @@ niellä - gula
 Niger - Nijer  
 Nigeria - Naijiria  
 nihonium - niponem  
-niitty - cautopia  
 Nikaragua - Nikaragua  
 nikkeli - nikel  
 nilviäinen - moluske  
@@ -2435,6 +2440,7 @@ rumpu - gum
 runo - xir  
 runoilija - xirer  
 ruoho - cau  
+ruohotasanko - caustan  
 ruoka - yam  
 ruokasali - yamkamar  
 Ruotsi - Suenia  
@@ -2523,7 +2529,7 @@ satuttaa - paxa
 Saudi Arabia - Saudi Arabia  
 sauma (ommel) - sutur  
 sauna - sauna\*  
-savanni - garmozoni cautopia  
+savanni - garmozoni caustan  
 savenvalaja - poter  
 savi - glutofan  
 savityö (keramiikka) - seram  
@@ -2750,6 +2756,7 @@ symmetrinen - sammetri
 synnyttää - jena  
 synti (paha teko) - duskar  
 synty (syntymä) - jen  
+syntymäpaikka - jenostan  
 syntymäpäivä - jenden  
 syntyä - jenu  
 syreeni - lilake  
@@ -3264,7 +3271,8 @@ viisikulmio - limgon
 viisitahokas (prisma) - limfas  
 viisumi - vize  
 vika (synti) - dox  
-viljellä - nonga  
+viljellä - agra  
+viljely - agre  
 villi (kesytön) - vildi  
 villi (villinä syntynyt) - ekojeni  
 vilustuminen - zukam  

@@ -26,6 +26,12 @@ Afgania - Afganistán
 Afrike - África  
 Afriki - africano  
 aga - si (suponer)  
+agra - cultivar  
+agri - agrícola  
+agrer - granjero (agricultor)  
+agronomia - agronomía  
+agrostan - campo  
+agrostani - rural (rústico)  
 agres - ataque  
 agreser - agresor  
 agresivi - agresivo  
@@ -473,7 +479,7 @@ carlun - abril
 carme - encanto  
 cate - techo (tejado)  
 cau - césped (hierba)  
-cautopia - pradera (pastizal)  
+caustan - pradera (pastizal)  
 Cehia - República Checa  
 ceka - revisar (chequear)  
 cel - célula  
@@ -528,6 +534,7 @@ Cosen - Corea
 Coseni - coreano  
 Cvana - Botsuana  
 cum - beso  
+cun - aldea  
 cupa - chupar (succionar)  
 cuta - salir (irse)  
 cute - escapatoria  
@@ -962,7 +969,7 @@ futau - hacha
 Gabon - Gabón  
 gabra - enterrar  
 gabre - tumba (sepultura)  
-gabrotopia - cementerio  
+gabrostan - cementerio  
 gabroxeke - lápida  
 gade - burro (asno)  
 gadogude - mula  
@@ -1007,7 +1014,7 @@ garmi masal - garam masala
 garmomosim - verano  
 garmomosimmedi den - Midsommar  
 garmozon - trópico  
-garmozoni cautopia - sabana  
+garmozoni caustan - sabana  
 gas - gas  
 gasa - gasificar  
 gasi - gaseoso  
@@ -1417,6 +1424,7 @@ jenden - cumpleaños
 jengrupe - generación (cohorte)  
 jenita - criar  
 jenklas - casta  
+jenostan - lugar de nacimiento  
 jentipe - genotipo  
 jeng - pelea (guerra, batalla)  
 jengi - macrial (militar)  
@@ -2109,8 +2117,8 @@ metrun - unidad (medida)
 Mexiko - México  
 Mexiko site - Ciudad de México  
 meze - mesa  
+mezostan - meseta  
 mezotex - mantel  
-mezotopia - meseta  
 Myanma - Myanmar (Birmania)  
 mien - fideo (tallarín)  
 migra - migrar (emigrar, tralsadar)  
@@ -2333,8 +2341,6 @@ nol xei - nada
 nola - cancelar  
 noma - organizar (gestionar)  
 nomia - gerencia (dirección)  
-nonga - cultivar  
-nonger - granjero (agricultor)  
 norde - norte  
 nordi - norteño  
 Nordi Aire - Irlanda del Norte  
@@ -2585,8 +2591,8 @@ plate - plano (placa)
 plati - plana (llano, liso)  
 plati geukaskia - tectónica de placas  
 platogeviste - terraplanista  
+platostan - llanura  
 platotas - plato  
-platotopia - llanura  
 platinem - platino  
 Platon - Platón  
 platoniste - platonista  
@@ -2751,7 +2757,7 @@ rebel - rebelión (sublevación)
 reda - preparar (hacer listo)  
 redi - listo (preparado)  
 rege - arena  
-regotopia - desierto  
+regostan - desierto  
 rei - repetición  
 reya - repetir  
 reyo - otra vez (de nuevo)  
@@ -2835,9 +2841,6 @@ rupe - aspecto
 rupu - parecer  
 rusi - ruso  
 Rusia - Rusia  
-ruste - aldea  
-rusti - rural (rústico)  
-rustia - campo  
 rute - ruta  
 rutogalta - apartarse (desviarse)  
 rutenem - rutenio  

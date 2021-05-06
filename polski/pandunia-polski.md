@@ -28,6 +28,11 @@ Afriki - afrykański, Afrykanin
 afrikofilia - afrofilia  
 afrikofiler - afrofil  
 aga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
+agra - uprawić, uprawiać  
+agrer - rolnik, farmer  
+agronomia - agronomia  
+agrostan - wieś, tereny wiejskie  
+agrostani - wiejski, rustykalny  
 agres - atak (agresja, napaść)  
 agresivi - agresywny  
 aha - rozumieć, pojmować  
@@ -464,7 +469,7 @@ carlun - lipiec
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
-cautopia - łąka  
+caustan - łąka  
 Cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 cel - komórka (biologia)  
@@ -524,6 +529,7 @@ Cosen - Korea
 Coseni - koreański  
 Cvana - Botswana  
 cum - całus  
+cun - wieś, wioska  
 cupa - ssać  
 cuta - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 cute - wyjśćie, opuszczenie  
@@ -945,7 +951,7 @@ futau - siekera, topór
 Gabon - Gabon  
 gabra - zakopać (pochować)  
 gabre - grób (mogiła, grobowiec)  
-gabrotopia - cmentarz  
+gabrostan - cmentarz  
 gabroxeke - nagrobek  
 gade - osioł  
 gadogude - muł  
@@ -988,7 +994,7 @@ garmomosim - lato
 garmomosimmedi den - przesilenie letnie (dzień srodka lata)  
 garmozon - tropiki  
 garmozoni - tropikalny  
-garmozoni cautopia - sawanna  
+garmozoni caustan - sawanna  
 gas - gaz  
 gasa - zamieniać w gaz  
 gasi - gazowy  
@@ -2087,8 +2093,8 @@ metrun - jednostka miary
 Mexiko - Meksyk  
 Mexiko site - Meksyk  
 meze - stół  
+mezostan - płaskowyż (plateau)  
 mezotex - obrus  
-mezotopia - płaskowyż (plateau)  
 Myanma - Mjanma, Birma  
 mien - makaron  
 migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
@@ -2312,8 +2318,6 @@ nol sate - nigdy
 nol xei - nic, żadna rzecz  
 noma - zarządzać (organizować, kierować)  
 nomia - zarządzanie (-nomia)  
-nonga - uprawić, uprawiać  
-nonger - rolnik, farmer  
 norde - północ  
 nordi - północny  
 Nordi Aire - Irlandia Północna  
@@ -2565,8 +2569,8 @@ plati - płaski
 plati geukaskia - tektonika płyt  
 platoforme - platforma  
 platogeviste - płaskoziemca  
+platostan - równina (plaskowyż, plateau)  
 platotas - talerz  
-platotopia - równina (plaskowyż, plateau)  
 platinem - platyna  
 Platon - Platon  
 platoniste - platończyk  
@@ -2724,7 +2728,7 @@ reda - przygotować, przygotowywać
 redi - gotowy  
 rege - piasek, piach  
 regopetre - piaskowiec  
-regotopia - pustynia  
+regostan - pustynia  
 rei - powtarzanie, powtórka  
 reya - powtórzyć, powtarzać  
 reyo - znowu (ponownie)  
@@ -2808,9 +2812,6 @@ rupu - wyglądać (wydawać się)
 rusi - rosyjski  
 rusi krepe - rosyjski naleśnik (blin)  
 Rusia - Rosja  
-ruste - wieś, wioska  
-rusti - wiejski, rustykalny  
-rustia - wieś, tereny wiejskie  
 rute - ścieżka (droga, szlak, kurs)  
 rutogalta - zbłąkać się (wykoleić się)  
 rutogalti - zbłąkany (dewiacyjny, wykolejony)  
@@ -3561,7 +3562,7 @@ zong - słup (pal, kołek)
 zonga - nabić (przebić, dźgnąć)  
 zongominte - mięta zielona (mięta kłosowa)  
 zou - animal  
-zoujenitia - hodowla zwierząt  
+zovagria - hodowla zwierząt  
 zouloji - zoologiczny  
 zoulojia - zoologia  
 zouparke - zoo (ogród zoologiczny)  

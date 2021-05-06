@@ -24,6 +24,8 @@ afegão - afgani
 agacharse - insida  
 agente - ater  
 agressor - agreser  
+agronomia - agronomia  
+agrícola - agri  
 ai! - ai  
 ainda - zoko  
 alaranjado - oranji  
@@ -31,6 +33,7 @@ alcachofra - karcof
 alcachofra-girassol (tupinambo) - masmulsolful  
 alcalino - alkali  
 alcaravia (cariz) - karau  
+aldeia (vila) - cun  
 alface - letis  
 alfinete - pin  
 alga - alge  
@@ -203,7 +206,7 @@ cavar (escavar) - kava
 caçar - saida  
 cebola - piaze  
 cem (100) - xoti  
-cemitério - gabrotopia  
+cemitério - gabrostan  
 cenoura - karote  
 centro - jung  
 centáurea - centaur  
@@ -288,6 +291,7 @@ cruz - krus
 crème - krem  
 crónico - duriki  
 cubo - kube  
+cultivar - agra  
 cume (pico, topo) - xanpike  
 cápsico - cili\*  
 cão (cachorro) - vaf  
@@ -1025,6 +1029,7 @@ teosofia - deusofia
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
+terra natal - jenostan  
 terracota - bekofan  
 terraplanista - platogeviste  
 terreno - geuforme  
@@ -1130,6 +1135,7 @@ zumbi - zombe
 ágil - ajili  
 água - sui  
 álcool - alkol  
+área de acampamento - kampostan  
 área de transferência - katoglutoban  
 árvore - moke  
 áspero - karsi  
