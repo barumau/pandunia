@@ -251,12 +251,6 @@ babe - chapter (section)
 babuce - slipper  
 babul - thorn tree (acacia)  
 bace - child (minor)  
-bada - follow (come after)  
-bade - consequence (back, follow-up)  
-badi - next (following, back)  
-bado - later (after)  
-badodeno - tomorrow  
-badofikse - suffix  
 badam - almond  
 badavi - bedouin (nomadic)  
 badla - exchange (swap, replace, trade)  
@@ -515,6 +509,7 @@ capa - press (imprint)
 cape - print (stamp)  
 capate - flatbread (chapati, roti)  
 cari - four (4)  
+cargalope - gallop  
 cargon - square (tetragon)  
 caryom - Thursday  
 carlun - April  
@@ -695,7 +690,7 @@ deusage - myth (divine story)
 deusofia - theosophy  
 dex - country (land, state)  
 dexojan - citizen  
-dika - aim at (for, toward)  
+dika - aim (point)  
 dike - target (aim, objective)  
 din - religion (worship)  
 dini - religious  
@@ -849,25 +844,10 @@ eskala - climb (get on)
 eskaltan - vine  
 Eskandia - Scandinavia  
 eskandem - scandium  
-Eskotia - Scotland  
-eskulta - sculpt (carve)  
-eskulte - sculpture (statue)  
-eskultia - sculpture (art of sculpting)  
-eskulter - sculptor  
 Espania - Spain  
 espanfoni - hispanophone (Spanish speaking)  
 esperanti - Esperanto  
-esponje - sponge  
 Estia - Estonia  
-estadia - stadium (arena)  
-estan - tin  
-estasa - hold (detain)  
-estasi - static (stationary)  
-estasia - station  
-estasu - stand still  
-estibem - antimony  
-estrontem - strontium  
-estudia - studio  
 Etiopia - Ethiopia  
 evi - beneficial (good)  
 evanjil - gospel (divine message)  
@@ -875,6 +855,7 @@ eudevistia - eutheism
 eujenistia - eugenics  
 euloga - praise (eulogize)  
 euloge - praise (eulogy)  
+euspeti - auspicious  
 eutopia - utopia  
 eurasia - Eurasia  
 eureka - find (discover)  
@@ -903,6 +884,10 @@ exploze - explosion
 explozu - explode  
 expoza - expose (reveal)  
 extensa - extend (stretch out)  
+extri - outward (external)  
+extro - outside  
+extru - exit (get out)  
+extroversi - extrovert (outgoing)  
 extrata - extract (draw out)  
 exvidi - evident (apparent, obvious)  
 ####F - F  
@@ -1089,6 +1074,7 @@ Galia - Gaul
 galem - gallium  
 galaksia - galaxy  
 galeria - gallery (exhibition hall)  
+galope - canter and gallop  
 galta - make a mistake  
 galte - mistake (error, fault, blunder, bug)  
 galti - wrong (incorrect, erroneous, faulty)  
@@ -1464,6 +1450,7 @@ in - inside (interior)
 inda - contain (include)  
 indi - inner (internal)  
 inan - container  
+indika - indicate (point into)  
 inite - content  
 injeni - innate (endogenous, indigenous, inborn)  
 inklusa - include (enclose, hold in)  
@@ -1478,6 +1465,14 @@ inploze - implosion
 inplozu - implode (collapse)  
 inpuxa - squeeze (squish)  
 insida - crouch (squat)  
+inspeta - inspect  
+intra - enter (insert, put in)  
+intre - inside (interior)  
+intri - inward (internal)  
+intro - inside  
+intru - enter (get in)  
+introspete - introspection  
+introversi - introvert  
 Indonesia - Indonesia  
 insan - human being  
 insani hake - human rights  
@@ -1771,8 +1766,6 @@ kega - visit
 kege - visitation (visit)  
 keger - visitor (guest)  
 keke - cake (cookie)  
-kel - sport (athletics)  
-keler - athlete (sportsman)  
 kelel - noise  
 kelvin - kelvin  
 Kemia - Ancient Egypt (Kemet)  
@@ -1886,6 +1879,7 @@ konsau - information (communicable knowledge)
 konsavana - communicate (inform about)  
 konsela - give consultation  
 konseler - counselor (consultant)  
+kontra - go against  
 kontrete - pact (contract, covenant, alliance)  
 Konakri Ginia - Guinea  
 koncung - insect  
@@ -1895,7 +1889,6 @@ Kongfuze - Confucious
 kongfuzistia - Confucianism  
 Konkani - Konkani  
 konserte - concert  
-kontra - be against  
 konus - cone  
 kopa - copy (replicate)  
 kope - copy (duplicate, replica)  
@@ -2898,6 +2891,14 @@ portoriki - Puerto Rican
 Portorikia - Puerto Rico  
 Portugal - Portugal  
 portugalfoni - lusophone (Portuguese speaking)  
+pos - consequence (back, follow-up)  
+posa - follow (come after)  
+posi - next (following, back)  
+poso - later (after)  
+posdeno - tomorrow  
+posfikse - suffix  
+pospoza - put back (postpone)  
+postri - backward (posterior)  
 pospor - phosphorus  
 posta - mail (send by mail)  
 poste - mail  
@@ -2953,7 +2954,7 @@ purxipa - soak (steep, marinate)
 putau - grape  
 putavoranje - grapefruit  
 Putong Cini - Mandarin Chinese (Putonghua)  
-putongi - common (general, universal)  
+putongi - common (general)  
 puxa - push  
 puxer - piston  
 ####R - R  
@@ -3000,6 +3001,13 @@ ratibi - orderly (organized, in sequence, tidy, regular)
 razon - reason (rational thinking)  
 razoni - rational (reasonable)  
 razonu - make sense  
+retra - return (put back)  
+retre - return (way back)  
+retro - backward (in reverse)  
+retru - return (get back)  
+retrogula - throw up (vomit, regurgitate)  
+retroguli sense - nausea (motion sickness)  
+retrotikete - return ticket  
 Rea - Rhea  
 rebel - rebellion  
 reda - prepare (make ready)  
@@ -3025,12 +3033,6 @@ reside - receipt (acknowledgement)
 reste - rest (remainder)  
 restu - remain (stay)  
 restorante - restaurant  
-retre - return (way back)  
-retro - backward (in reverse)  
-retru - return (go back)  
-retrogula - throw up (vomit, regurgitate)  
-retroguli sense - nausea (motion sickness)  
-retrotikete - return ticket  
 Reunion - Réunion  
 rezerva - reserve (book)  
 rezerve - reservation (booking, withholding)  
@@ -3305,6 +3307,11 @@ sistemi - systemic
 site - city (town)  
 sivili - civilized (civil)  
 sivilia - civilization  
+Skotia - Scotland  
+skulta - sculpt (carve)  
+skulte - sculpture (statue)  
+skultia - sculpture (art of sculpting)  
+skulter - sculptor  
 slavi - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -3343,6 +3350,23 @@ sosiste - socialist
 sosistia - socialism  
 sosis - sausage  
 Soto - Lesotho  
+speta - watch (observe, spectate)  
+speter - spectator (observer)  
+sponje - sponge  
+sporte - sport (athletics)  
+sporter - athlete (sportsman)  
+stadia - stadium (arena)  
+stan - tin  
+stasa - hold (detain)  
+stasi - static (stationary)  
+stasia - station  
+stasu - stand still  
+stibem - antimony  
+strontem - strontium  
+studa - study (work in order to practise or demonstrate)  
+stude - study (work made in order to practise or demonstrate)  
+studia - studio  
+studer - student  
 suahili - Swahili  
 sual - question (query, inquiry)  
 suala - ask (inquire)  
@@ -3636,6 +3660,7 @@ UDA du - American (US)
 vei - tail  
 veyi - traverse (horizontal)  
 veilin - weft  
+veisirke - latitude  
 venda - sell (vend)  
 vendoxopa - trade (buy and sell)  
 vendoxope - trade (commerce)  
@@ -3651,6 +3676,8 @@ vero - truly (indeed, very)
 verita - verify (authenticate)  
 verme - worm  
 vermute - vermouth  
+versa - turn around (flip)  
+versu - face (versus)  
 version - version (variation, edition)  
 vespe - bee or wasp  
 vesponide - bee nest (beehive, wasp's nest)  
@@ -3678,6 +3705,7 @@ viman - airplane
 vimankaper - plane hijacker  
 vin - wine  
 vinkan - winery  
+vinsuan - vinegar  
 ving - wing  
 vinil - vinyl  
 vir - hero  
@@ -3689,7 +3717,10 @@ vis - alternative (substitute, replacement)
 visa - substitute (replace)  
 visi - vice (deputy)  
 visloge - pronoun  
+vismai - step-mother  
+vispai - step-father  
 visprezidente - vice-president  
+visrajer - viceroy  
 viske - whisky (whiskey)  
 vite - screw  
 vize - visa  
@@ -3719,6 +3750,7 @@ unmeni - unambiguous
 unodi - first (number one)  
 unoki lense - monocle  
 unrangi - monochrome  
+unversi - universal  
 voda - promise (pledge)  
 vode - promise (vow, oath)  
 vodun - voodoo  
@@ -3746,10 +3778,6 @@ uzabli - usable (available)
 uzer - user  
 uzernam - username  
 Uzbekia - Uzbekistan  
-veisirke - latitude  
-vinsuan - vinegar  
-vismai - step-mother  
-vispai - step-father  
 ####X - X  
 xake - branch (bough)  
 xakal - jackal  

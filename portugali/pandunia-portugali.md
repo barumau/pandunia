@@ -263,10 +263,6 @@ emoje - emoticon (emoji)
 emos - emoçao  
 emoshal - humor  
 englomargarite - margarida-comum  
-eskulter - escultor  
-esponje - esponja  
-estan - estanho  
-estibem - antimônio  
 evanjil - evangelho  
 euloge - elogio  
 europobalute - carvalho-roble  
@@ -280,6 +276,7 @@ explanete - exoplaneta (planeta extrassolar)
 exploze - explosão  
 explozu - explodir  
 expoza - expor (revelar)  
+extru - sair  
 extrata - extrair  
 exvidi - evidente  
 ####F - F  
@@ -330,6 +327,7 @@ gabrotopia - cemitério
 gabroxeke - lápide  
 Galia - Gália  
 galaksia - galáxia  
+galope - galope  
 galte - erro (falta)  
 galti - errôneo  
 gam - esposo ou esposa  
@@ -444,6 +442,7 @@ inmigran - imigrante
 inploze - imploção  
 inplozu - implodir  
 insida - agacharse  
+intru - entrar  
 insan - ser humano  
 insani hake - direitos humanos  
 insaniki - humano  
@@ -865,6 +864,7 @@ porei - alho-porro
 porte - porto  
 portoriki - porto-riquenho  
 Portorikia - Porto Rico  
+postri - posterior  
 postomarke - carimbo  
 poter - oleiro  
 poteria - cerâmica  
@@ -888,6 +888,10 @@ rapidi - rápido
 rari - raro  
 ras - raça  
 ratibe - ordem  
+retra - retornar  
+retru - voltar (regressar)  
+retroguli sense - náusea  
+retrotikete - passagem de volta  
 rei - repetição  
 reya - repetir  
 reibon - reparo  
@@ -895,9 +899,6 @@ reibona - reparar
 reiboner - reparador  
 reisikla - reciclar  
 reste - resto  
-retru - voltar (retornar)  
-retroguli sense - náusea  
-retrotikete - passagem de volta  
 rezerve - reserva  
 rim - rima  
 ring - anel  
@@ -963,6 +964,7 @@ sirplan - complô (conspiração)
 sisi - seis (6)  
 sisyom - sábado  
 site - cidade  
+skulter - escultor  
 slavi - eslavo  
 sofia - sabedoria (sagacidade, sapiência)  
 soi - soja  
@@ -981,6 +983,13 @@ song - pinheiro
 sor - fechadura  
 sosia - sociedade  
 sosis - salsicha  
+speter - espetador  
+sponje - esponja  
+sporte - esporte  
+stan - estanho  
+stibem - antimônio  
+studa - estudar (examinar)  
+studer - estudante  
 sual - questão (pergunta)  
 suala - perguntar  
 suar - noitinha  
@@ -1049,10 +1058,14 @@ Venus - Vénus
 veri - verdadeiro  
 verme - verme  
 vermute - vermute  
+versu - encarar (afrontar; vérsus)  
 vespe - abelha ou vespa  
 vida - ver  
 vidou - viúvo  
 viyoleti - purpúreo (roxo)  
+vismai - madrasta  
+vispai - padrasto  
+visrajer - vice-rei  
 umur - idade  
 un (uni) - um (1)  
 uniki - único (só)  
@@ -1061,6 +1074,7 @@ unyom - segunda-feira
 unjani - só (solitário)  
 unmaro - uma vez  
 unoki lense - monóculo  
+unversi - universal  
 vode - promessa (voto)  
 vol - vontade  
 volu - querer (desejar)  
@@ -1071,8 +1085,6 @@ Uran - Urano
 urse - urso  
 vulve - vulva  
 vute - item  
-vismai - madrasta  
-vispai - padrasto  
 ####X - X  
 xalke - escama  
 Xampan - Champagne  

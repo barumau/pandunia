@@ -91,7 +91,7 @@ Antarctique - Antartike
 antenne - anten  
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
-antimoine - estibem  
+antimoine - stibem  
 antonyme - annam  
 anus - anus  
 août - ballun  
@@ -433,7 +433,7 @@ danois - dani
 dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
 de - la  
-demain - badodeno  
+demain - posdeno  
 demander (poser un question; est-ce que) - suala  
 dessous - nice  
 destin - cenamen  
@@ -501,9 +501,10 @@ enfant - bace
 ennemi - anamike  
 ennemi - dusjan  
 enseigner - xulana  
-ensuite (après, plus tard) - bado  
+ensuite (après, plus tard) - poso  
 enterrer - gabra  
 entonnoir - riutube  
+entrer - intru  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -578,6 +579,7 @@ Félicitations ! - barke!
 féliciter - barka  
 ####G - G  
 galaxie - galaksia  
+galop - galope  
 garde-boue (aile) - fandefban  
 Gaule - Galia  
 gaz - gas  
@@ -676,6 +678,7 @@ insecte - koncung
 insomnie - ansomia  
 international - nasmedi  
 interracial - rasmedi  
+introverti - introversi  
 inutile - anyavi  
 inverse (négatif, in-) - ani  
 Irland - Aire  
@@ -1033,6 +1036,7 @@ posidonie (herbiers marins) - haicau
 possible - abli  
 possédant (propriétaire) - malan  
 posture (position) - asan  
+postérieur - postri  
 pot (vase) - pote  
 pot de fleur - fulpote  
 poterie - poteria  
@@ -1058,6 +1062,7 @@ projet - projete
 projeter (donner) - lancografa  
 prolongé - longoduri  
 promettre - voda  
+propice - euspeti  
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
@@ -1092,6 +1097,7 @@ rayon de miel - melvesponide
 recycler - reisikla  
 rein - nefre  
 religion - din  
+remettre - retra  
 remplir - pura  
 renard - hulei  
 repos - xante  
@@ -1156,7 +1162,7 @@ savane - garmozoni cautopia
 savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
-sculpteur - eskulter  
+sculpteur - skulter  
 scutelle - ostoxalke  
 se - se  
 se baigner - banyu  
@@ -1195,17 +1201,19 @@ son (sa) - si
 son - son  
 soumettre - karmisa  
 soumission - islam  
+spectateur - speter  
+sport - sporte  
 squelette - ostojamia  
 substance - kim  
 sucre - sukar  
 sueur - suede  
-suffixe - badofikse  
+suffixe - posfikse  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour l'adverbe - -o  
 suffixe pour les verbes avec ordre des mots OV####S - -u  
 suffixe pour les verbes avec ordre des mots SV####O - -a  
-suivre - bada  
+suivre - posa  
 sujet (thème) - tem  
 svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
@@ -1285,6 +1293,7 @@ tête - sar
 un (1) - un (uni)  
 une fois - unmaro  
 uniquement - uniko  
+universel - unversi  
 uranium - uranem  
 Uranus - Uran  
 vagine - vagin  
@@ -1306,9 +1315,12 @@ vermouth - vermute
 verre - kance  
 verre coloré - rangi kance  
 verrue - zeyil  
+verse (face á) - versu  
+verser - versa  
 vert - lugi  
 veuve - vidou  
 viande - manse  
+vice-roi - visrajer  
 vie - jiu  
 vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
@@ -1382,19 +1394,22 @@ zèbre - zebre
 émotion - emos  
 épices - masal  
 épingle - pin  
-éponge - esponje  
+éponge - sponje  
 époux - gam  
 épreuve (test) - teste  
 épée - katan  
 équipe - tim  
 étagère - liboban  
-étain - estan  
+étain - stan  
 état - hal  
 éternuer - acua  
 étinceler - xingofota  
 étoile - xing  
+étude - stude  
 études de genre - jinsolojia  
+étudiant - studer  
 étudiant - xuler  
+étudier - studa  
 étymologie - logaslia  
 été - garmomosim  
 évaluer - vala  

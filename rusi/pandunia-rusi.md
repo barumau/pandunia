@@ -298,9 +298,6 @@ emosi - эмоциональный
 emoshal - настроение  
 englomargarite - маргаритка многоле́тняя  
 eskala - подниматься  
-eskulter - скульптор  
-esponje - губка  
-estibem - сурьма (стибиум)  
 evanjil - евангелие  
 euloge - панегирик  
 europobalute - дуб черешчатый  
@@ -314,6 +311,7 @@ exojeni - экзогенный
 explanete - экзопланета (внесолнечная планета)  
 exploze - взрыв  
 explozu - взрываться  
+extroversi - экстраверт  
 extrata - извлекать  
 exvidi - очевидный  
 ####F - F  
@@ -370,6 +368,7 @@ gabroxeke - надгробие
 gadogude - мул  
 Galia - Галлия  
 galaksia - галактика  
+galope - кентер и галоп  
 gancau - сено  
 ganum - пшеница  
 garmomosim - лето  
@@ -488,6 +487,7 @@ inmigran - иммигрант
 inploze - имплозия  
 inplozu - взрываться вовнутрь  
 insida - сесть на корточки  
+introversi - интроверт  
 insan - человек  
 insani hake - права человека  
 insaniki - человечный  
@@ -939,6 +939,7 @@ porei - лук-порей
 porte - порт  
 portoriki - пуэрториканец  
 Portorikia - Пуэрто-Рико  
+poso - после  
 postomarke - почтовый штемпель  
 poter - гончар  
 poteria - гончарное дело  
@@ -965,6 +966,9 @@ ras - раса
 rasmedi - межрасовый  
 ratibe - установка  
 ratibi - организованный (порядок)  
+retru - возвращаться  
+retrogula - рвать (изрыга́ть)  
+retroguli sense - тошнота  
 rei - повторение  
 reya - повторять  
 reibon - починка (ремонт)  
@@ -972,9 +976,6 @@ reibona - чинить (ремонтировать)
 reiboner - ремонтник  
 reisikla - рециркулировать  
 reste - остаток  
-retru - возвращаться  
-retrogula - рвать (изрыга́ть)  
-retroguli sense - тошнота  
 rim - рифма  
 ringar - ринг (манеж)  
 ris - рис  
@@ -1059,6 +1060,7 @@ sirplan - заговор (сговор)
 sirkoxeke - булыжник  
 sisi - шесть (6)  
 sisyom - суббота  
+skulter - скульптор  
 slavi - славянский  
 sofia - мудрость  
 sofa\* - софа (диван, канапе)  
@@ -1078,6 +1080,12 @@ sori - запереть
 sosi jinse - гендер  
 sosia - общество (социум)  
 sosis - колбаса (сосиска)  
+sponje - губка  
+sporte - спорт  
+stibem - сурьма (стибиум)  
+studa - изучать  
+stude - этюд  
+studer - студент  
 sual - вопрос  
 suala - спрашивать  
 sualdokum - анкета  
@@ -1186,6 +1194,9 @@ viyoleti - фиолетовый (пурпурный)
 vinkan - винном заводе  
 virus - вирус  
 viruslojia - вирусология  
+vismai - мачеха  
+vispai - отчим  
+visrajer - вице-король  
 vize - виза  
 umur - возраст  
 un (uni) - один (1)  
@@ -1201,8 +1212,6 @@ ura - ура
 Uran - Уран  
 vulve - вульва  
 vute - статья (предмет)  
-vismai - мачеха  
-vispai - отчим  
 ####X - X  
 xalke - чешуя  
 xaman - шаман  

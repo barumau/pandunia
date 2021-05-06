@@ -70,7 +70,6 @@
 |**babe**|chapitre|may:bab, ara:urd:fas:(bāb), swa:babu|
 |**babuce**|pantoufle (babouche)|ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
 |**bace**|enfant|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl:bata|
-|**bada**|suivre|ara:بعد‎ (baʿda), swa:baada, hin:बाद (bāda)|
 |**badam**|amande|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |**bagaje**|bagage|eng:baggage, fra:bagage, por:bagagem, rus:багаж (bagazh), tur:bagaj, ben:ব্যাগেজ (bjagej), may:bagasi|
 |**bagre**|tigre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:тигр (tigr)|
@@ -156,7 +155,7 @@
 |**debu**|devoir|fra:devoir, spa:deber, por:dever|
 |**den**|jour|rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:天 (tiān), yue:天 (tin1)|
 |**deu**|dieu|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|
-|**dike**|objectif (cible)|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike)|
+|**dike**|objectif (cible)|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike) + eng:indicate, fra:indiquer, spa:por:indicar|
 |**din**|religion|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |**dinamite**|dynamite|eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|
 |**dinde**|dinde (dindon)|fra:dinde, rus:индюк (indyuk), tur:hindi, ara: دِيك هِنْدِيّ‎ (dīk hindiy)|
@@ -179,9 +178,6 @@
 |**em**|élément (unité fondamentale)|eng:-eme, spa:por:-ema, fra:-ème, rus:-ема (-ema), may:-em|
 |**emoje**|émoticône (emoji)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**emos**|émotion|eng:emotion, fra:émotion, spa:emoción, por:emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|
-|**eskulter**|sculpteur|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
-|**esponje**|éponge|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
-|**estan**|étain|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
 |**Europe**|Europe|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
 |**ex**|extérieur|eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|
 |**exploze**|explosion|eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|
@@ -204,6 +200,7 @@
 |**futobol**|football|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |**gabre**|tombe|ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, swa:kaburi, tur:kabir, deu:Grab, pol:grób, rus:гроб (grob)|
 |**galaksia**|galaxie|eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)|
+|**galope**|galop|eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|
 |**galte**|faute (erreur)|ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|
 |**gam**|époux|eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (gamiya)|
 |**ganum**|blé|fas:گندم‎(gandom), may:gandum, urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|
@@ -503,7 +500,6 @@
 |**ras**|race|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |**rei**|répétition|eng:fra:por:spa:re-, rus:ре- (re-)|
 |**reste**|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
-|**retro**|en arrière|eng:spa:por:deu:retro-, fra:rétro-, rus:ретро- (retro-)|
 |**rici**|riche|eng:rich, fra:riche, por:spa:rico|
 |**rim**|rime|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|
 |**ring**|anneau|eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|
@@ -543,6 +539,7 @@
 |**sisi**|six (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|
 |**site**|ville|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**siyahi**|noir|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
+|**skulter**|sculpteur|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**sofa***|canapé (sofa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|sagesse|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soi**|soja|eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)|
@@ -554,6 +551,10 @@
 |**sor**|serrure|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|société|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|saucisse|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
+|**sponje**|éponge|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
+|**sporte**|sport|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
+|**stan**|étain|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|**studa**|étudier|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**sual**|question|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suar**|soir (soirée)|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
 |**suede**|sueur|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
@@ -601,6 +602,7 @@
 |**ventur**|aventure|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
 |**veri**|vrai|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
 |**verme**|ver|eng:worm, por:verme, fra:ver, deu:Wurm|
+|**versu**|verse (face á)|eng:versus, fra:verse, spa:por:versar|
 |**vespe**|abeille ou guêpe|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |**vida**|voir|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|
 |**vidou**|veuve|eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|

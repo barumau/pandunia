@@ -223,12 +223,6 @@ Azerbaijan - Azerbaiyán
 babe - capítulo (sección)  
 babuce - chinelo (pantufa)  
 bace - niño o niña  
-bada - seguir  
-bade - consecuencia (siguiente)  
-badi - siguiente (trasero)  
-bado - más tarde  
-badodeno - mañana  
-badofikse - sufijo  
 badam - almendra  
 badavi - nómada  
 badla - intercambiar (canjear)  
@@ -775,28 +769,14 @@ eskala - escalar
 eskaltan - enredadera  
 Eskandia - Escandinavia  
 eskandem - escandio  
-Eskotia - Escocia  
-eskulta - esculpir  
-eskulte - escultura (estatua)  
-eskultia - escultura (arte de escultura)  
-eskulter - escultor  
 Espania - España  
 esperanti - Esperanto  
-esponje - esponja  
 Estia - Estonia  
-estadia - estadio (arena)  
-estan - estaño  
-estasa - mantener (detener)  
-estasi - estático (estacionario)  
-estasia - estación  
-estasu - pararse (detenerse)  
-estibem - antimonio  
-estrontem - strontium  
-estudia - estudio  
 Etiopia - Etiopía  
 evi - beneficioso (bueno)  
 evanjil - evangelio  
 euloge - elogio  
+euspeti - propicio  
 eurasia - Eurasia  
 eureka - econtrar (hallar)  
 euro\* - euro  
@@ -821,6 +801,7 @@ explanete - exoplaneta (planeta extrasolar)
 exploze - explosión  
 explozu - explosionar  
 expoza - exponer (revelar)  
+extru - salir (egresar)  
 extrata - extraer  
 exvidi - evidente  
 ####F - F  
@@ -991,6 +972,7 @@ Galia - Galia
 galem - galio  
 galaksia - galaxia  
 galeria - galería  
+galope - galope  
 galta - errar (cometer un error)  
 galte - error  
 galti - erróneo  
@@ -1347,6 +1329,9 @@ innam - endónimo
 inploze - implosión  
 inplozu - implosionar  
 insida - agacharse  
+intro - dentro  
+intru - entrar  
+introversi - introvertido  
 Indonesia - Indonesia  
 insan - ser humano  
 insani hake - derechos humanos  
@@ -1614,8 +1599,6 @@ kega - visitar
 kege - visitar  
 keger - invitado (visita)  
 keke - pastel (galleta)  
-kel - deporte  
-keler - deportista  
 kelel - ruido  
 kelvin - kelvin  
 Kemia - Egipcia Antigua  
@@ -1716,6 +1699,7 @@ konpaxia - compasión
 konsau - información  
 konsavana - comunicar (informar)  
 konseler - consultor  
+kontra - estar en contra  
 kontrete - convenion (pacto)  
 Konakri Ginia - Guinea  
 koncung - insecto  
@@ -1725,7 +1709,6 @@ Kongfuze - confucio
 kongfuzistia - confucianismo  
 Konkani - konkani  
 konserte - concierto  
-kontra - estar en contra  
 konus - cono  
 kopa - copiar  
 kope - copia (réplica)  
@@ -2653,6 +2636,13 @@ porte - porto
 portoriki - puertorriqueño  
 Portorikia - Puerto Rico  
 Portugal - Portugal  
+pos - consecuencia (siguiente)  
+posa - seguir  
+posi - siguiente (trasero)  
+poso - más tarde  
+posdeno - mañana  
+posfikse - sufijo  
+postri - posterior  
 pospor - fósforo  
 posta - eviar por correo  
 poste - correo  
@@ -2750,6 +2740,13 @@ ratibi - ordenado (regular)
 razon - razón  
 razoni - razonable  
 razonu - tener sentido  
+retra - retornar  
+retre - vuelta  
+retro - al revés  
+retru - volver  
+retrogula - devolver (vomitar)  
+retroguli sense - náusea  
+retrotikete - billete de ida y vuelta  
 rebel - rebelión (sublevación)  
 reda - preparar (hacer listo)  
 redi - listo (preparado)  
@@ -2773,12 +2770,6 @@ reside - reconocimiento (recibo)
 reste - resto (demás)  
 restu - quedarse  
 restorante - restaurante  
-retre - vuelta  
-retro - al revés  
-retru - volver  
-retrogula - devolver (vomitar)  
-retroguli sense - náusea  
-retrotikete - billete de ida y vuelta  
 Reunion - Reunión  
 rezerva - reservar  
 rezerve - réservation  
@@ -3042,6 +3033,11 @@ sistemi - sistémico
 site - ciudad  
 sivili - civilizado  
 sivilia - civilización  
+Skotia - Escocia  
+skulta - esculpir  
+skulte - escultura (estatua)  
+skultia - escultura (arte de escultura)  
+skulter - escultor  
 slavi - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  
@@ -3078,6 +3074,21 @@ sosiste - socialista
 sosistia - socialismo  
 sosis - salchicha  
 Soto - Lesoto  
+speter - espectador  
+sponje - esponja  
+sporte - deporte  
+sporter - deportista  
+stadia - estadio (arena)  
+stan - estaño  
+stasa - mantener (detener)  
+stasi - estático (estacionario)  
+stasia - estación  
+stasu - pararse (detenerse)  
+stibem - antimonio  
+strontem - strontium  
+studa - estudiar (examinar)  
+studia - estudio  
+studer - estudiante  
 suahili - suajili  
 sual - pregunta  
 suala - preguntar (inquirir)  
@@ -3349,6 +3360,7 @@ vaxmaxin - lavadora
 vaxurse - mapache  
 UDA du - estadounidense  
 vei - cola (rabo)  
+veisirke - latitud  
 venda - vender  
 vendoxopa - comerciar  
 vendoxope - comercio  
@@ -3361,6 +3373,8 @@ veri - verdadero
 verita - autenticar  
 verme - verme  
 vermute - vermú  
+versa - versar  
+versu - afrontar  
 version - versión (modelo)  
 vespe - abeja o avispa  
 vesponide - avispero (colmena)  
@@ -3386,6 +3400,7 @@ vildi - salvaje
 viman - aeroplano  
 vin - vino  
 vinkan - bodega  
+vinsuan - vinagre  
 ving - ala  
 vinil - vinilo  
 vir - héroe  
@@ -3397,7 +3412,10 @@ vis - alternativa (sustituto)
 visa - sustituir (reemplezar)  
 visi - vice-  
 visloge - pronombre  
+vismai - madrastra  
+vispai - padrastro  
 visprezidente - vicepresidente  
+visrajer - virrey  
 vite - tornillo  
 vize - visado  
 Ukraina - Ucrania  
@@ -3425,6 +3443,7 @@ unmeni - inequívoco
 unodi - primero (numbre uno)  
 unoki lense - monóculo  
 unrangi - monocromático  
+unversi - universal  
 voda - prometer (comprometerse)  
 vode - promesa (voto)  
 vodun - vudú  
@@ -3450,10 +3469,6 @@ uzabli - utilizable (disponible)
 uzer - usuario  
 uzernam - nombre de usuario  
 Uzbekia - Uzbekistán  
-veisirke - latitud  
-vinsuan - vinagre  
-vismai - madrastra  
-vispai - padrastro  
 ####X - X  
 xake - rama  
 xakal - chacal  

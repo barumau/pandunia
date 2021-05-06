@@ -354,6 +354,7 @@ eksa- - eksa\*
 ekskludi - exklusa  
 eksplodi - explozu  
 eksplodo - exploze  
+ekster - extro  
 ekstera - exi  
 ekstero - ex  
 Ekvadoro - Ekuador  
@@ -530,7 +531,7 @@ gazeto - habargazete
 gazo - gaze  
 Gaŭlio - Galia  
 geedzeco - gamia  
-generala (universala) - putongi  
+generala - putongi  
 genuo - gute  
 geografio - geugrafia  
 geometrio - geumetria  
@@ -825,7 +826,7 @@ Konfuceo - Kongfuze
 kongrui - konboni  
 konscia - budi  
 konstrui - bina  
-kontraŭ - kontra  
+kontraŭi - kontra  
 kontroli - ceka  
 kopernicio - kopernikem  
 kopii - kopa  
@@ -1086,7 +1087,7 @@ monto - xan
 montri (ekspozicii) - xou  
 montri - ponta  
 mordi - danta  
-morgaŭ - badodeno  
+morgaŭ - posdeno  
 morta - morti  
 mortigi - morta  
 mortigisto - morter  
@@ -1457,10 +1458,10 @@ seka - gani
 seksa - jinsi  
 sekso - jinse  
 sekso - sekse  
-sekva - badi  
-sekvi - bada  
+sekva - posi  
+sekvi - posa  
 sekvinbero - ganputau  
-sekvo - bade  
+sekvo - pos  
 seleno - selenem  
 sema - semi  
 semajno - yomsete  
@@ -1493,8 +1494,8 @@ situacio (aferstato) - xeihal
 skandio - eskandem  
 skatolo (kesto) - sanduke  
 skribo - kitabe  
-skulti - eskulta  
-skultisto - eskulter  
+skulti - skulta  
+skultisto - skulter  
 smeraldo - zumurude  
 socio - sosia  
 sofo - kanape  
@@ -1513,19 +1514,22 @@ speciala - hasi
 speco (tipo, stilo) - yang  
 speguli - mira  
 spegulo - mirer  
+spektanto - speter  
+spekti - speta  
 spico - masal  
 spiro - nafas  
-sporto - kel  
+sporto - sporte  
 sputi - tuha  
-stacio - estasia  
-stadiono (areno) - estadia  
+stacio - stasia  
+stadiono (areno) - stadia  
 stango - baton  
 stato - hal  
-statuo (skultaĵo) - eskulte  
+statuo (skultaĵo) - skulte  
 stelo - xing  
 stranga - bizari  
-stroncio - estrontem  
+stroncio - strontem  
 studento (lernanto) - xuler  
+studento - studer  
 substantivo - namloge  
 Sudkoreio - Sudi Cosen  
 sudo - sude  

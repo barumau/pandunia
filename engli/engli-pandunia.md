@@ -69,7 +69,7 @@ agree (concur) - samraya
 agree (make an agreement) - treta  
 agreement (consent) - samrayia  
 agreement (treaty) - trete  
-aim at (for, toward) - dika  
+aim (point) - dika  
 air - air  
 airforce - airgun  
 airplane - viman  
@@ -147,7 +147,7 @@ antenna (aerial) - anten
 antichrist - ankriste  
 Antigua - Antigua  
 Antigua and Barbuda - Antigua e Barbuda  
-antimony - estibem  
+antimony - stibem  
 antonym - annam  
 anus - anus  
 anvil - metalbede  
@@ -221,7 +221,7 @@ astronomer - astronomer
 astronomy - astronomia  
 atheist - andeviste  
 Athens - Atina  
-athlete (sportsman) - keler  
+athlete (sportsman) - sporter  
 Atlantic cod - atlantokade  
 Atlantic Ocean - Atlanti Hai  
 Atlantic salmon - atlantosalmon  
@@ -234,6 +234,7 @@ attraction (-philia) - filia
 attribute (charasteristic, quality, feature, description, property) - sif  
 August - ballun  
 auspicious (promising) - bonsinyi  
+auspicious - euspeti  
 Australia - Australia  
 Australian Aboriginal - aslaustrali  
 Austria - Ostria  
@@ -259,6 +260,7 @@ backgammon - narde
 backpack (rucksack) - rukosake  
 backup - sekuri kope  
 backward (in reverse) - retro  
+backward (posterior) - postri  
 bad (ruined, destroyed) - harabi  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dusi  
 bag (sack) - sake  
@@ -313,7 +315,6 @@ battery - batre
 bay (gulf) - bai  
 be - sa  
 be about (discuss as a subject) - tema  
-be against - kontra  
 be beside (accompany) - lata  
 be born - jenu  
 be bothered by (bother to, take the trouble to) - turbu  
@@ -551,6 +552,7 @@ cannoneer - daipaver
 canoe - kano\*  
 cantaloupe - kantalupomelon  
 Cantalupo in Sabina - Kantalupo va Sabina  
+canter and gallop - galope  
 canyon (ravine, gorge, gully) - kanyon  
 cape (cloak, mantle) - mantol  
 captain - nauxef  
@@ -740,7 +742,7 @@ come (arrive) - laya
 comic (cartoon) - grafsage  
 comma - kom  
 command line (console, terminal) - amirlin  
-common (general, universal) - putongi  
+common (general) - putongi  
 common (mutual) - koni  
 common (shared) - komuni  
 common language - konbax  
@@ -778,7 +780,7 @@ Congo Kinshasa - Kinxasa Kongo
 congratulate (bless) - barka  
 congratulations! (blessing, benediction) - barke!  
 connect (join, link) - linka  
-consequence (back, follow-up) - bade  
+consequence (back, follow-up) - pos  
 consitution - bazokanun  
 consonant - kenarfon  
 conspiracy (plot) - sirplan  
@@ -1120,6 +1122,8 @@ English daisy - englomargarite
 English oak - europobalute  
 enjoy (play) - vanu  
 enough (sufficient) - basi  
+enter (get in) - intru  
+enter (insert, put in) - intra  
 entrance - jinmun  
 environment (nature) - ekia  
 environmental (natural) - eki  
@@ -1179,6 +1183,7 @@ exclusive - exklusivi
 excrement (shit) - kake  
 exercise - lenxe  
 exist (be present) - zayu  
+exit (get out) - extru  
 exit (leaving) - cute  
 exit door - cutomun  
 exogenous - exojeni  
@@ -1197,10 +1202,12 @@ export - exmisa
 expose (reveal) - expoza  
 extend (stretch out) - extensa  
 extract (draw out) - extrata  
+extrovert (outgoing) - extroversi  
 eye (look, watch) - oka  
 eye - oke  
 eyelash - okokex  
 ####F - F  
+face (versus) - versu  
 face - muke  
 face powder - mukofun  
 factory - fatokan  
@@ -1313,7 +1320,7 @@ fly (go through air) - feyu
 fly - zeze  
 focus (concentration) - fokus  
 folder (directory) - dokumsanduke  
-follow (come after) - bada  
+follow (come after) - posa  
 food (meal) - yam  
 fool (buffoon) - bufon  
 foot - fute  
@@ -1380,6 +1387,7 @@ gadolinium - gadolinem
 galaxy - galaksia  
 gallery (exhibition hall) - galeria  
 gallium - galem  
+gallop - cargalope  
 Gambia - Gambia  
 game - gem  
 Ganges - Ganga  
@@ -1444,6 +1452,7 @@ globe artichoke - karcof
 glue (adhesive) - glute  
 gluten - gluten  
 go (move away) - kita  
+go against - kontra  
 go under - nica  
 goal (destination) - gol  
 goat - buze  
@@ -1603,7 +1612,7 @@ hobby - hobe
 hobbyist - hobiste  
 hockey - hoke  
 hoe - cope  
-hold (detain) - estasa  
+hold (detain) - stasa  
 hold together - jamhafiza  
 hole - kong  
 holiday - festoden  
@@ -1698,6 +1707,7 @@ India - Bartia
 Indian - barti  
 Indian chrysanthemum - neftoguke  
 Indian Ocean - Barti Hai  
+indicate (point into) - indika  
 indium - hindem  
 Indonesia - Indonesia  
 Indus river - Hinde riu  
@@ -1715,7 +1725,10 @@ innate (endogenous, indigenous, inborn) - injeni
 inner (internal) - indi  
 insect - koncung  
 inside (interior) - in  
+inside (interior) - intre  
+inside - intro  
 insomnia - ansomia  
+inspect - inspeta  
 instructions (recipe) - resete  
 insult (offence) - ninde  
 insult (offend, call names) - dusnamana  
@@ -1733,7 +1746,10 @@ internet - internete
 interpreter (translator) - tarjer  
 interracial - rasmedi  
 interrogative - sualan  
+introspection - introspete  
+introvert - introversi  
 invite - cinga laya  
+inward (internal) - intri  
 Io - Io  
 iodine - yodem  
 ion - iyon  
@@ -1866,7 +1882,7 @@ larva (maggot, caterpillar) - larve
 lasagna - lazanye  
 last (final) - finodi  
 last (take time; during) - duru  
-later (after) - bado  
+later (after) - poso  
 Latin alphabet - latini harfia  
 latitude - veisirke  
 Latvia - Latvia  
@@ -2321,7 +2337,7 @@ New Zealand - Novi Zelandia
 news - habar  
 newspaper (gazette) - habargazete  
 newton (N) - nuton  
-next (following, back) - badi  
+next (following, back) - posi  
 Nicaragua - Nikaragua  
 nice (pleasant, comfortable, cushy) - huxi  
 niche (recess, alcove) - nix  
@@ -2466,7 +2482,9 @@ oust (expel, exclude, except, save) - exa
 outcast (pariah) - parai  
 outer (external) - exi  
 outside (exterior) - ex  
+outside - extro  
 outsider - exojan  
+outward (external) - extri  
 oven (furnace) - tanur  
 overpass - supre  
 own (possess, have) - mala  
@@ -2794,6 +2812,7 @@ Punjabi - panjabi
 purple (violet) - viyoleti  
 push - puxa  
 put (place, set) - loka  
+put back (postpone) - pospoza  
 put forward (advance, progress) - jina  
 pyramid - piram  
 pyrolatry - hogopujia  
@@ -2898,7 +2917,8 @@ respond (give an answer) - javaba
 rest (relief, repose) - xante  
 rest (remainder) - reste  
 restaurant - restorante  
-return (go back) - retru  
+return (get back) - retru  
+return (put back) - retra  
 return (restore, recover, resume) - fuga  
 return (way back) - retre  
 return ticket - retrotikete  
@@ -3040,13 +3060,13 @@ science (study, research) - lojia
 scissors (shears) - makas  
 score (grade) - puntonumbe  
 scoreboard - puntoban  
-Scotland - Eskotia  
+Scotland - Skotia  
 screen - ekran  
 screw - vite  
-sculpt (carve) - eskulta  
-sculptor - eskulter  
-sculpture (art of sculpting) - eskultia  
-sculpture (statue) - eskulte  
+sculpt (carve) - skulta  
+sculptor - skulter  
+sculpture (art of sculpting) - skultia  
+sculpture (statue) - skulte  
 scute - ostoxalke  
 sea - hai  
 sea anemone - haiful  
@@ -3251,6 +3271,7 @@ spear thistle - perkardon
 spearmint - zongominte  
 special (distinct) - hasi  
 species - jong  
+spectator (observer) - speter  
 spectator (sightseer) - vider  
 speech (talk, words) - loge  
 speed (velocity) - rapidia  
@@ -3263,9 +3284,9 @@ spiral (helix, corkscrew, twist) - helis
 spit - tuha  
 split (fall apart) - fenu  
 spoken (lexical) - logi  
-sponge - esponje  
+sponge - sponje  
 spoon - camace  
-sport (athletics) - kel  
+sport (athletics) - sporte  
 spouse (husband or wife) - gam  
 spring (springtime) - fulmosim  
 spruce tree - pis  
@@ -3276,7 +3297,7 @@ squid (cuttlefish) - kalmar
 squirrel - ekor  
 Sranan Tongo - surinami bax  
 Sri Lanka (Ceylon) - Lanka  
-stadium (arena) - estadia  
+stadium (arena) - stadia  
 stage (phase) - faze  
 stage (scene) - sen  
 stain (spot) - najisbinde  
@@ -3284,13 +3305,13 @@ stained glass - rangi kance
 stairs (ladder) - eskal  
 stand (rack) - libobaze  
 stand - libu  
-stand still - estasu  
+stand still - stasu  
 star - xing  
 starboard (right side of a ship) - nauraite  
 starship - astronau  
 state (condition, status, situation) - hal  
-static (stationary) - estasi  
-station - estasia  
+static (stationary) - stasi  
+station - stasia  
 stay behind (linger) - laxu  
 steal - cora  
 stealth - siri mote  
@@ -3326,10 +3347,13 @@ stretch (extend) - tirlonga
 strike (punch) - darba  
 strip (peel) - tira pil  
 strong - forti  
-strontium - estrontem  
+strontium - strontem  
 struggle (strife) - jihade  
 student (pupil, learner) - xuler  
-studio - estudia  
+student - studer  
+studio - studia  
+study (work in order to practise or demonstrate) - studa  
+study (work made in order to practise or demonstrate) - stude  
 stupid (idiotic) - idioti  
 subceed (be less than) - minu  
 submission (surrender) - islam  
@@ -3341,7 +3365,7 @@ suck (absorb) - cupa
 Sudan - Sudan  
 suffer (get hurt) - paxu  
 suffering - paxia  
-suffix - badofikse  
+suffix - posfikse  
 suffix for adjectives - -i  
 suffix for adverbs - -o  
 suffix for derived nouns - -e  
@@ -3529,7 +3553,7 @@ time (duration, quantity of time) - dur
 time (instance, occasion) - mar  
 time (period, epoch, era) - zaman  
 Timor - Timor  
-tin - estan  
+tin - stan  
 Titan - Titan  
 titanem - titanem  
 Titania - Titania  
@@ -3546,7 +3570,7 @@ Tokyo - Tokyo
 tolerate - tolera  
 tomato - tomate  
 tombstone (gravestone) - gabroxeke  
-tomorrow - badodeno  
+tomorrow - posdeno  
 tone (note, pitch, shade) - ton  
 Tonga - Tonga  
 tongue - lisan  
@@ -3624,6 +3648,7 @@ turkey - dinde
 Turkey - Turkia  
 Turkish - turki  
 Turkmenistan - Turkomenia  
+turn around (flip) - versa  
 turquoise gem - firuze  
 turtle (tortoise) - tortuge  
 Tuvalu - Tuvalu  
@@ -3656,6 +3681,7 @@ united - uniti
 United Arab Emirates - Uniti Arabi Amiria (UAA)  
 United Kingdom - Britania  
 United States of America (USA) - Uniti Dex Da Amerike (UDA)  
+universal - unversi  
 university - daixulkan  
 unlock - ansora  
 unlocked - ansori  
@@ -3710,6 +3736,7 @@ version (variation, edition) - version
 vertical - gautali  
 vice (deputy) - visi  
 vice-president - visprezidente  
+viceroy - visrajer  
 victory (win) - xeng  
 Viet Nam - Vietia  
 Vietnamese (Viet) - vieti  
@@ -3755,6 +3782,7 @@ wart - zeyil
 wash - vaxa  
 washing machine - vaxmaxin  
 Washington D####C - Vaxington DC  
+watch (observe, spectate) - speta  
 water - sui  
 water buffalo - kabau  
 water lily (nenuphar) - nenufar  

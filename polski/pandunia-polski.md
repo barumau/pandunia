@@ -213,12 +213,6 @@ babe - rozdział, sekcja
 babuce - kapeć (papeć, bambosz)  
 babul - akacja  
 bace - dziecko (nieletni)  
-bada - podążać  
-bade - konsekwencja, skutek  
-badi - następny (następujący)  
-bado - później  
-badodeno - jutro  
-badofikse - przyrostek (sufiks)  
 badam - migdał  
 badavi - beduiński; nomadyczny  
 badla - wymieniać, wymienić, zamieniać, zamienić  
@@ -771,24 +765,9 @@ eskala - wspinać się (wspiąć się)
 eskaltan - pnącz  
 Eskandia - Skandynawia  
 eskandem - skand  
-Eskotia - Szkocja  
-eskulta - rzeźbić  
-eskulte - rzeźba  
-eskultia - rzeźbiarstwo  
-eskulter - rzeźbiarz  
 Espania - Hiszpania  
 esperanti - Esperanto  
-esponje - gąbka  
 Estia - Estonia  
-estadia - stadion, arena  
-estan - cynk  
-estasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
-estasi - statyczny, stacjonarny, nieruchomy  
-estasia - stacja  
-estasu - nie ruszać się  
-estibem - antymon  
-estrontem - stront  
-estudia - studio (pracownia)  
 Etiopia - Etiopia  
 evi - korzystny (dobry)  
 evanjil - ewangelia  
@@ -976,6 +955,7 @@ Galia - Galia
 galem - gal  
 galaksia - galaktyka  
 galeria - galeria, sala wystawowa  
+galope - cwał (galop)  
 galta - popełnić błąd  
 galte - błąd (pomyłka)  
 galti - błędny (niepoprawny)  
@@ -1590,8 +1570,6 @@ kega - odwiedzić, odwiedzać
 kege - wizyta  
 keger - wizytant (gość)  
 keke - ciasto, ciastko  
-kel - sport, lekkoatletyka  
-keler - hałas  
 kelel - atleta, sportowiec  
 kelvin - kelwin  
 Kemia - Starożytny Egipt (Kemet)  
@@ -1690,6 +1668,7 @@ konfuncabli - kompatybilny (pasujący)
 konkara - współpracować (kolaborować)  
 konsau - informacja  
 konsavana - poinformować, informować, zakomunikować, komunikować  
+kontra - być przeciw  
 kontrete - pakt (kontrakt, ugoda, umowa, konwencja)  
 Konakri Ginia - Gwinea  
 koncung - owad  
@@ -1699,7 +1678,6 @@ Kongfuze - Konfucjusz
 kongfuzistia - konfucjanizm  
 Konkani - konkani  
 konserte - koncert  
-kontra - być przeciw  
 konus - szyszka  
 kopa - kopiować, replikować  
 kope - kopia, replika  
@@ -2634,6 +2612,12 @@ pornografia - pornografia
 porte - port  
 Portorikia - Portoryko (Puerto Rico)  
 Portugal - Portugalia  
+pos - konsekwencja, skutek  
+posa - podążać  
+posi - następny (następujący)  
+poso - później  
+posdeno - jutro  
+posfikse - przyrostek (sufiks)  
 pospor - fosfor  
 posta - nadać, wysłać pocztą  
 poste - poczta  
@@ -2729,6 +2713,12 @@ ratibe - porządek
 razon - rozum, rozsądek  
 razoni - racjonalny, rozsądny  
 razonu - mieć sens  
+retre - powrót  
+retro - wstecz  
+retru - wrócić, wracać, wycofać się, wycofywać się  
+retrogula - wymiotować (zwrócić)  
+retroguli sense - nudności (choroba lokomocyjna)  
+retrotikete - bilet powrotny  
 rebel - rebelia, powstanie  
 reda - przygotować, przygotowywać  
 redi - gotowy  
@@ -2752,12 +2742,6 @@ reside - paragon, pokwitowanie
 reste - pozostałość, reszta  
 restu - zostać, zostawać  
 restorante - restauracja  
-retre - powrót  
-retro - wstecz  
-retru - wrócić, wracać, wycofać się, wycofywać się  
-retrogula - wymiotować (zwrócić)  
-retroguli sense - nudności (choroba lokomocyjna)  
-retrotikete - bilet powrotny  
 Reunion - Reunion  
 rezerva - rezerwować (zarezerwować)  
 rezerve - rezerwacja  
@@ -3019,6 +3003,11 @@ sistemi - systemowy
 site - miast, miasteczko  
 sivili - cywilizowany (ucywilizowany)  
 sivilia - cywilizacja  
+Skotia - Szkocja  
+skulta - rzeźbić  
+skulte - rzeźba  
+skultia - rzeźbiarstwo  
+skulter - rzeźbiarz  
 slavi - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
@@ -3056,6 +3045,19 @@ sosiste - socjalista
 sosistia - socjalizm  
 sosis - kiełbasa  
 Soto - Lesotho  
+sponje - gąbka  
+sporte - sport, lekkoatletyka  
+sporter - hałas  
+stadia - stadion, arena  
+stan - cynk  
+stasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
+stasi - statyczny, stacjonarny, nieruchomy  
+stasia - stacja  
+stasu - nie ruszać się  
+stibem - antymon  
+strontem - stront  
+studia - studio (pracownia)  
+studer - student  
 suahili - suahili  
 sual - pytanie  
 suala - zapytać, spytać, pytać  
@@ -3324,6 +3326,7 @@ vaxurse - szop pracz
 Vaxington D####C - Waszyngton D.C  
 UDA du - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
 vei - ogon  
+veisirke - południk  
 venda - sprzedać (sprzedawać)  
 vendoxopa - handlować  
 vendoxope - handel  
@@ -3363,6 +3366,7 @@ viman - samolot
 vimankaper - porywacz samolotu  
 vin - wino  
 vinkan - winiarnia  
+vinsuan - ocet  
 ving - skrzydło  
 vinil - winyl  
 vir - bohater, heros  
@@ -3375,6 +3379,7 @@ visa - zastąpić (podstawić, zamienić)
 visi - wice-  
 visloge - zaimek  
 visprezidente - wiceprezydent  
+visrajer - wicekról  
 viske - viski  
 vite - śruba, wkręt  
 vize - wiza  
@@ -3426,8 +3431,6 @@ uza - użyć, używać, zatrudnić, stosować
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 Uzbekia - Uzbekistan  
-veisirke - południk  
-vinsuan - ocet  
 ####X - X  
 xake - gałąź, konar  
 xakal - szakal  

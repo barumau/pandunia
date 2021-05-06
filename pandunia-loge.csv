@@ -253,12 +253,6 @@ bab:e|babe|||may:bab, ara:urd:fas:(bāb), swa:babu|chapter (section)|chapitre|ca
 babuc:e|babuce|||ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|slipper|pantoufle (babouche)|chinelo (pantufa)|||||||||||||pantoflo|tohveli|kapeć (papeć, bambosz)
 babul:|babul|biu|Vachellia|hin:बबूल (babūl), ben:বাবলা (bābalā), eng:babul|thorn tree (acacia)||||акация||||||||||||akaasia|akacja
 bac:e|bace|||fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl:bata|child (minor)|enfant|niño o niña|criança (menino)|ребёнок|طِفْل|小孩|子供 (赤ちゃん)|||बच्चा|||mtoto||infano|lapsi|dziecko (nieletni)
-bad:a|bada|||ara:بعد‎ (baʿda), swa:baada, hin:बाद (bāda)|follow (come after)|suivre|seguir|||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
-bad:e|bade||||consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
-bad:i|badi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
-bad:o|bado||||later (after)|ensuite (après, plus tard)|más tarde||||||||||||||myöhemmin|później
-bad.o.den:o|badodeno||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
-bad.o.fiks:e|badofikse||||suffix|suffixe|sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
 badam:|badam|||may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|almond|amande|almendra|amêndoa|миндаль|لَوْز|杏仁 (巴旦木)|アーモンド (扁桃)|아몬드 (편도)|hạnh nhân|बादाम|বাদাম|badam|lozi|badem||manteli|migdał
 badau:i|badavi|nas|||bedouin (nomadic)|bédouin|nómada|||||||||||||beduino (nomado)|beduiini|beduiński; nomadyczny
 badl:a|badla|||ara:(badala), hin:बदला (badlā), swa:badili, tur:bedel|exchange (swap, replace, trade)||intercambiar (canjear)|||||||||||||interŝanĝi|vaihtaa|wymieniać, wymienić, zamieniać, zamienić
@@ -423,7 +417,7 @@ boi:|boi|||eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), j
 boi:u|boyu||||float (swim)|nagar (flotter)|nadar (flotar)|nadar (flutuar)|плавать||漂浮|泳ぐ (浮く)|||||||||kellua (uida)|dryfować (pływać, płynąć)
 boikot:e|boikote|||eng:fra:boycott, spa:boicot, por:boicote, jpn:ボイコット (boikotto), fas:بایکوت‎ (bâykot), бойкот (boykot)|boycott||boicot|||||||||||||bojkoto|boikotti|bojkot
 bok:e|boke|||spa:por:boca|mouth||boca|||||||||||||buŝo|suu|usta
-boks:e|bokse|esporte||eng:box, deu:Boxen, fra:por:boxe, spa:boxeo, rus:бокс (boks), jpn:ボクシング (bokushingu), kor:복싱 (boksing), hin:बॉक्सिंग (bŏksiṅg), ben:বক্সিং (bôksing), may:boksing, tur:boks|boxing|boxe|boxeo|boxe|бокс||拳击|ボクシング (拳闘)|권투 (복싱)||बॉक्सिंग|বক্সিং|tinju (boksing)|ndondi|boks|bokso|nyrkkeily|boks
+boks:e|bokse|sporte||eng:box, deu:Boxen, fra:por:boxe, spa:boxeo, rus:бокс (boks), jpn:ボクシング (bokushingu), kor:복싱 (boksing), hin:बॉक्सिंग (bŏksiṅg), ben:বক্সিং (bôksing), may:boksing, tur:boks|boxing|boxe|boxeo|boxe|бокс||拳击|ボクシング (拳闘)|권투 (복싱)||बॉक्सिंग|বক্সিং|tinju (boksing)|ndondi|boks|bokso|nyrkkeily|boks
 boks.er:|bokser||||boxer|boxeur|boxeador|boxeador (pugilista)|боксёр||拳击手|ボクサー (拳闘家)|복서||||||boksör|boksisto|nyrkkeilijä|
 boks.er.pant:e|bokserpante||||boxer shorts (boxers)|caleçon|bóxer|samba-canção|семейные||平角褲||||||||baksır||bokserit|
 bol:|bol|||eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|ball|balle (boule)|bola|bola|шар|كورة|球|玉 (球)||||गोला||bola|mpira|pilko|pallo|piłka
@@ -517,6 +511,7 @@ cap:a|capa||||press (imprint)||imprimir|||||||||||||presi|painaa (leimata)|nacis
 cap:e|cape|||hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|print (stamp)||grabado (sello, estampando)||||||||छाप|ছাপ||||presaĵo|painos (leima)|odcisk, ślad; stempel, pieczęć
 capat:e|capate|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus:чапати (čapati), mya:ချပါတီ (kyapati)|flatbread (chapati, roti)||chapati (pan sin levadura)||||||||||||||chapati|płaski chleb, ćapati
 car:i|cari|numbe|4|rus:четыре (chetyre), hye:չորս (čʿors), hin:mar:चार (cār), ben:চার (car), pan:ਚਾਰ (chār), guj:ચાર (cār), may:catur|four (4)|quatre (4)|cuatro (4)|quatro (4)|четыре (4)||四 (4)|四 (4)||||||||kvar (4)|neljä (4)|cztery (4)
+car.galop:e|cargalope||||gallop||||||||||||||||neli (kiitolaukka)|
 car.gon:|cargon||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
 car.iom:|caryom||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
 car.lun:|carlun|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
@@ -698,8 +693,8 @@ deu.sag:e|deusage||||myth (divine story)||mito (cuento divino)|||||||||||||mito|
 deu.sof:ia|deusofia||||theosophy|théosophie|teosofía|teosofia|теософия||||신지학||थियोसोफी||||||teosofia|teozofia
 dex:|dex|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)||país (nación, estado, terra)||||||||देश|দেশ||||lando|maa (valtio)|kraj, ziemia
 dex.o.jan:|dexojan||||citizen||ciudadano||||公民|市民|||||||||kansalainen (valtion asukas)|obywatel
-dik:a|dika||||aim at (for, toward)|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|tähdätä (kohti)|celować
-dik:e|dike|||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike)|target (aim, objective)|objectif (cible)|objetivo|objetivo|цель||目的 (目标)|標的 (ターゲット)|목표 (표적)|mục tiêu (đích)||||||celo|maali (maalitaulu, kohde)|cel
+dik:a|dika||||aim (point)|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|osoittaa (tähdätä)|celować
+dik:e|dike|||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike) + eng:indicate, fra:indiquer, spa:por:indicar|target (aim, objective)|objectif (cible)|objetivo|objetivo|цель||目的 (目标)|標的 (ターゲット)|목표 (표적)|mục tiêu (đích)||||||celo|maali (maalitaulu, kohde)|cel
 din:|din|||ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|religion (worship)|religion|religión|religião|религия (вера)|دين‎|宗教|宗教|종교|tôn giáo|धर्म (दीन)|ধর্ম (দীন)|agama (din)|dini|din (inanç)|religio|uskonto|religia, wyznanie
 din:i|dini||||religious||religioso|||||||||||||religia|uskonnollinen|religijny
 din.guru:|dinguru*||||priest (cleric)||sacerdote (clérigo, eclesiástico)|||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
@@ -852,25 +847,10 @@ eskal:a|eskala||||climb (get on)||escalar||подниматься|||上る (乗�
 eskal.tan:|eskaltan||||vine|vigne|enredadera|||||蔓草|||||||||köynnös|pnącz
 Eskand:ia|Eskandia||||Scandinavia|Scandinavie|Escandinavia||||||||||||||Skandinavia|Skandynawia
 eskand.em:|eskandem|mate|Sc||scandium||escandio|||||||||||||skandio|skandium|skand
-Eskot:ia|Eskotia|dex|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
-eskult:a|eskulta||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
-eskult:e|eskulte||||sculpture (statue)||escultura (estatua)|||||||||||||statuo (skultaĵo)|veistos (patsas)|rzeźba
-eskult:ia|eskultia||||sculpture (art of sculpting)||escultura (arte de escultura)||||||||||||||kuvanveisto|rzeźbiarstwo
-eskult.er:|eskulter|||spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|sculptor|sculpteur|escultor|escultor|скульптор|||||||||||skultisto|kuvanveistäjä|rzeźbiarz
 Espan:ia|Espania|dex|ES||Spain||España|||||||||||||Hispanio|Espanja|Hiszpania
 espan.fon:i|espanfoni||||hispanophone (Spanish speaking)||||||||||||||||espanjaa puhuva|
 esperant:i|esperanti||||Esperanto||Esperanto|||||||||||||Esperanto|esperanto|Esperanto
-esponj:e|esponje|biu||eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|sponge|éponge|esponja|esponja|губка||海绵|スポンジ (海綿)|||||||||sienieläin|gąbka
 Est:ia|Estia|dex|EE||Estonia||Estonia|||||||||||||Estonio|Viro (Eesti)|Estonia
-estad:ia|estadia|||fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||estadio (arena)|||||||||||||stadiono (areno)|stadioni (areena)|stadion, arena
-estan:|estan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
-estas:a|estasa||||hold (detain)||mantener (detener)||||||||||||||seisottaa|zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
-estas:i|estasi||||static (stationary)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
-estas:ia|estasia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station||estación|||||||||||||stacio|asema|stacja
-estas:u|estasu||||stand still||pararse (detenerse)||||||||||||||seisoa (seisahtaa)|nie ruszać się
-estib.em:|estibem|mate|Sb||antimony|antimoine|antimonio|antimônio|сурьма (стибиум)||锑|アンチモン|||अंजन||||||antimoni|antymon
-estront.em:|estrontem|mate|Sr||strontium||strontium|||||||||||||stroncio|strontium|stront
-estud:ia|estudia|||rus:студия (studiya), spa:estudio, por:estúdio|studio||estudio||||||||||||||ateljee (studio)|studio (pracownia)
 Etiop:ia|Etiopia|dex|ET||Ethiopia||Etiopía|||||||||||||Etiopio|Etiopia|Etiopia
 eu:i|evi|||eng:fra:spa:por:eu-|beneficial (good)||beneficioso (bueno)||||||||||||||hyvä (eettisesti hyvä)|korzystny (dobry)
 eu.anjil:|evanjil||||gospel (divine message)|évangile|evangelio|evangelho|евангелие||福音||||सुसमाचार||injil||incil|evangelio|evankeliumi(hyvä sana)|ewangelia
@@ -878,6 +858,7 @@ eu.deu.ist:ia|eudevistia||||eutheism||||||||||||||||euteismi (usko jumalan hyvyy
 eu.jen.ist:ia|eujenistia||||eugenics||||||||||||||||eugeniikka|
 eu.log:a|euloga||||praise (eulogize)||||||||||||||||ylistää (puhua hyvää, kehua)|
 eu.log:e|euloge||||praise (eulogy)|éloge|elogio|elogio|панегирик|||賛辞|찬사||||||||ylistys|laudacja
+eu.spet:i|euspeti||||auspicious|propice|propicio||||||||||||||lupaava (hyvältä vaikuttava)|
 eu.top:ia|eutopia||||utopia||||||||||||||||utopia|
 eur.as:ia|eurasia|||eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|Eurasia||Eurasia|||||||||||||Eŭrazio|Euraasia|Eurazja
 eurek:a|eureka|||ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|find (discover)||econtrar (hallar)|||||||||||||trovi|löytää (keksiä)|znaleźć, znajdywać, odkryć, odkrywać
@@ -906,6 +887,10 @@ ex.ploz:e|exploze|||eng:fra:explosion, spa:explosión, por:exploção, rus:им�
 ex.ploz:u|explozu||||explode|exploser (détoner)|explosionar|explodir|взрываться|||||||||||eksplodi|räjähtää|
 ex.poz:a|expoza||||expose (reveal)|exposer|exponer (revelar)|expor (revelar)|||||||||||||ottaa esiin (paljastaa)|
 ex.tens:a|extensa||||extend (stretch out)||||||||||||||||venyttää (pingottaa)|
+ex.tr:i|extri||||outward (external)||||||||||||||||ulkoinen|
+ex.tr:o|extro||||outside|||||||||||||||ekster|ulkona (ulkopuolella)|
+ex.tr:u|extru||||exit (get out)||salir (egresar)|sair|||||||||||||poistua (mennä ulos)|
+ex.tr.o.uers:i|extroversi||||extrovert (outgoing)||||экстраверт||外向的|外向的な|||||||||ulospäinsuuntautunut (ekstrovertti)|
 ex.trat:a|extrata||||extract (draw out)|extraire|extraer|extrair|извлекать||||||||||||vetää ulos|
 ex.vid:i|exvidi||||evident (apparent, obvious)|évident|evidente|evidente|очевидный||||||||||bariz|evidenta|ilmeinen (silminnähtävä)|
 F|F||||F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F
@@ -1092,6 +1077,7 @@ Gal:ia|Galia||||Gaul|Gaule|Galia|Gália|Галлия||高卢|ガリア||||||||Ga
 gal.em:|galem|mate|Ga||gallium||galio|||||||||||||galiumo|gallium|gal
 galaks:ia|galaksia|||eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)|galaxy|galaxie|galaxia|galáxia|галактика||恆星系|銀河|은하|thiên hà|गैलेक्सी|ছায়াপথ|galaksi||galaksi|galaksio|galaksi|galaktyka
 galer:ia|galeria|||eng:gallery, spa:galería, por:galeria, fra:galerie, rus:галерея (galereya), tur:galeri, hin:गैलरी (gailrī), jpn:ギャラリー (gyararī)|gallery (exhibition hall)||galería|||||||||||||galerio (ekspozicio)|galleria|galeria, sala wystawowa
+galop:e|galope|||eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|canter and gallop|galop|galope|galope|кентер и галоп||||||||||||laukka|cwał (galop)
 galt:a|galta||||make a mistake||errar (cometer un error)||||||||ग़लत करना||||||erehtyä (tehdä virhe)|popełnić błąd
 galt:e|galte|||ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|mistake (error, fault, blunder, bug)|faute (erreur)|error|erro (falta)|||错误|間違い (誤り, バグ)|||ग़लती (भूल)||||yanlışlık (galat, erör)|eraro (miso)|virhe (erhe)|błąd (pomyłka)
 galt:i|galti||||wrong (incorrect, erroneous, faulty)|erroné|erróneo|errôneo|||||||ग़लत||||yanlış|erara|väärä (virheellinen)|błędny (niepoprawny)
@@ -1468,6 +1454,7 @@ in:|in|||eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (na
 in:a|inda||||contain (include)||contener|||||||||||||||zawierać
 in:i|indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
 in.an:|inan||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
+in.dik:a|indika||||indicate (point into)||||||||||||||||osoittaa (näyttää)|
 in.it:e|inite||||content||contenido||||||||||||||sisältö|treść (zawartość)
 in.jen:i|injeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 in.klus:a|inklusa||||include (enclose, hold in)|inclure|incluir|incluir|включить||包括||||||||||sisällyttää (sulkea sisäänsä)|
@@ -1482,6 +1469,14 @@ in.ploz:e|inploze||||implosion|implosion|implosión|imploção|имплозия|
 in.ploz:u|inplozu||||implode (collapse)|imploser|implosionar|implodir|взрываться вовнутрь||||||||||||luhistua (sortua sisään)|implodować
 in.pux:a|inpuxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
 in.sid:a|insida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
+in.spet:a|inspeta||||inspect||||||||||||||||tarkastaa (katsoa sisään)|
+in.tr:a|intra||||enter (insert, put in)||||||||||||||||panna sisään|
+in.tr:e|intre||||inside (interior)||||||||||||||||sisäpuoli|
+in.tr:i|intri||||inward (internal)||||||||||||||||sisäinen|
+in.tr:o|intro||||inside||dentro||||||||||||||sisällä (sisäpuolella)|
+in.tr:u|intru||||enter (get in)|entrer|entrar|entrar|||||||||||||mennä sisään|
+in.tr.o.spet:e|introspete||||introspection||||||||||||||||introspektio|
+in.tr.o.uers:i|introversi||||introvert|introverti|introvertido||интроверт||内向的|内向的な人|||||||||sisäänpäinsuuntautunut (introvertti)|
 Indones:ia|Indonesia|dex|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
 insan:|insan|biu|Homo Sapiens|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|human being|être humain|ser humano|ser humano|человек|إِنْسَان|人类|人間|인류||मनुष्य (इंसान)|মানুষ|manusia|binadamu|insan|homo|ihminen|człowiek, istota ludzka
 insan:i hak:e|insani hake||||human rights|droits de l'homme|derechos humanos|direitos humanos|права человека||人权|人権|인권|nhân quyền|मानव अधिकार||hak asasi manusia|haki za kibinadamu|insan hakları|homaj rajtoj|ihmisoikeudet|prawa człowieka
@@ -1775,8 +1770,6 @@ keg:a|kega||||visit||visitar|||||||||||||vizito|käydä (vierailla)|odwiedzić, 
 keg:e|kege|||zho:客 (kè), wuu:客 (ka’), jpn:客 (kyaku), kor:객 (gaeg), vie:khách, tha:แขก (khæk)|visitation (visit)||visitar|||||||||||||viziti|käynti (vierailu, visiitti)|wizyta
 keg.er:|keger||||visitor (guest)||invitado (visita)||||客人|客人|손님|khách||||||vizitanto|vierailija (vieras)|wizytant (gość)
 kek:e|keke|||eng:cake, rus:кекс (keks), ara:(kaʿka), hin:केक (kek), jpn:ケーキ (kēki), swa:keki, tur:kek|cake (cookie)||pastel (galleta)|||||||||||||kuko|kakku (keksi)|ciasto, ciastko
-kel:|kel|||hin:खेल (khel), ben:খেলা (khela), tha:กีฬา (kīlā), khm:កីឡា (keila)|sport (athletics)||deporte|||||||||||||sporto|urheilu|sport, lekkoatletyka
-kel.er:|keler||||athlete (sportsman)||deportista||||||||||||||urheilija|hałas
 kelel:|kelel|||swa:kon:makelele|noise||ruido||||||||||||||meteli|atleta, sportowiec
 keluin:|kelvin|unomete|K||kelvin||kelvin||||||||||||||kelvin (K)|kelwin
 Kem:ia|Kemia||||Ancient Egypt (Kemet)||Egipcia Antigua||||||||||||||muinainen Egypti|Starożytny Egipt (Kemet)
@@ -1891,6 +1884,7 @@ kon.sau:|konsau||||information (communicable knowledge)||información|||||||||||
 kon.sau.an:a|konsavana||||communicate (inform about)||comunicar (informar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 kon.sel:a|konsela||||give consultation||||||||||||||||konsultoida (antaa neuvoja)|
 kon.sel.er:|konseler||||counselor (consultant)|consultant (conseiller)|consultor|consultor|консультант (советник)||顾问|顧問|||||||||konsultti|
+kon.tr:a|kontra|coverb|||go against||estar en contra|||||||||||||kontraŭi|mennä vasten|być przeciw
 kon.tret:e|kontrete||||pact (contract, covenant, alliance)|convention (alliance, pacte)|convenion (pacto)|pacto|контракт||公約||||||||||liittosopimus|pakt (kontrakt, ugoda, umowa, konwencja)
 Konakr:i Gin:ia|Konakri Ginia|dex|GN||Guinea||Guinea||||||||||||||Guinea|Gwinea
 koncung:|koncung|biu|Insecta|zho:昆蟲 (kūnchóng), yue:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), jpn:昆蟲 (konchū)|insect|insecte|insecto|inseto|насекомое||昆虫|昆虫|곤충|sâu bọ (côn trùng)|कीड़ा||serangga|mdudu|böcek||hyönteinen (ötökkä)|owad
@@ -1900,7 +1894,6 @@ Kongfuz:e|Kongfuze|||zho:孔夫子 (Kǒng Fūzǐ)|Confucious||confucio||||||||||
 kongfuz.ist:ia|kongfuzistia||||Confucianism||confucianismo||||||||||||||Kungfutselaisuus|konfucjanizm
 Konkani:|Konkani|nas|||Konkani||konkani||||||||||||||konkani (eräs intialainen kieli)|konkani
 konsert:e|konserte|||eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|concert|concert|concierto|concerto|концерт||音乐会|コンサート (音楽会)|콘서트 (음악회)||कॉन्सर्ट|সঙ্গীতানুষ্ঠান|konser||konser|koncerto|konsertti|koncert
-kontr:a|kontra|coverb||spa:por:contra, fra:contre, eng:counter-, ell:κόντρα (kontra)|be against||estar en contra|||||||||||||kontraŭ|vastaan (vasten)|być przeciw
 konus:|konus|||eng:por:cone, spa:cono, fra:conique, rus:ко́нус (kónus), tur:koni, may:kon|cone||cono||||||||||||||kartio (keila)|szyszka
 kop:a|kopa||||copy (replicate)||copiar|||||||||||||kopii|kopioida (jäljentää)|kopiować, replikować
 kop:e|kope|||eng:copy, fra:copie, spa:por:copia, rus:копия (kopiya), hin:कापी (kāpī), tur:kopya, may:kopi, zho:拷貝 (kǎobèi), jpn:コピー (kopī)|copy (duplicate, replica)|copie|copia (réplica)|cópia|копия||摹本 (拷貝)|コピー|||कापी (प्रति)||salinan (turunan, kopi)|nakala|kopya (suret, nüsha)|kopio|kopio (jäljennös)|kopia, replika
@@ -2907,6 +2900,14 @@ portorik:i|portoriki||||Puerto Rican|Portoricain|puertorriqueño|porto-riquenho|
 Portorik:ia|Portorikia|dex|PR||Puerto Rico|Porto Rico|Puerto Rico|Porto Rico|Пуэрто-Рико||||||||||Porto Riko|Portoriko|Puerto Rico|Portoryko (Puerto Rico)
 Portugal:|Portugal|dex|PT||Portugal||Portugal||||||||||||||Portugali|Portugalia
 portugal.fon:i|portugalfoni||||lusophone (Portuguese speaking)||||||||||||||||portugalia puhuva|
+pos|pos|||eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-)|consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
+pos:a|posa||||follow (come after)|suivre|seguir|||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
+pos:i|posi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
+pos:o|poso||||later (after)|ensuite (après, plus tard)|más tarde||после||||||||||||myöhemmin|później
+pos.den:o|posdeno||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
+pos.fiks:e|posfikse||||suffix|suffixe|sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
+pos.poz:a|pospoza||||put back (postpone)||||||||||||||||siirtää taakse|
+pos.tr:i|postri||||backward (posterior)|postérieur|posterior|posterior|||||||||||||myöhempi (takainen)|
 pospor:|pospor|mate|P||phosphorus||fósforo|||||||||||||fosforo|fosfor|fosfor
 post:a|posta||||mail (send by mail)||eviar por correo|||||||||||kuposti|||postittaa|nadać, wysłać pocztą
 post:e|poste|||eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), swa:posta, may:pos|mail||correo||||||||||pos|posta|||posti (postilähetys)|poczta
@@ -2962,7 +2963,7 @@ pur.xip:a|purxipa||||soak (steep, marinate)|tremper (faire mariner)|remojar (mar
 putau:|putau|biu||zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào|grape||uva|||||||||||||vinbero|viinirypäle|winogrono
 putau.oranj:e|putavoranje|biu|Citrus × paradisi|eng:grapefruit, zho:葡萄柚|grapefruit|pamplemousse|pomelo (toronja)|toranja|грейпфрут||葡萄柚|グレープフルーツ|||चकोतरा||limau gedang|||||grejpfrut
 Putong: Cin:i|Putong Cini||||Mandarin Chinese (Putonghua)||chino mandarín|||||||||||||mandarinĉina|yleiskiina (mandariinikiina)|mandaryński chiński, Putonghua
-putong:i|putongi|||zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|common (general, universal)||general (common)||||普通|||||||||generala (universala)|yleinen (universaali)|powszechny, uniwersalny
+putong:i|putongi|||zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|common (general)||general (common)||||普通|||||||||generala|yleinen (universaali)|powszechny, uniwersalny
 pux:a|puxa|||eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|push||empujar (presionar)||||||||||||||työntää (puskea)|pchnąć, pchać
 pux.er:|puxer||||piston|||||||||||||||||tłok
 R|R||||R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R
@@ -3009,6 +3010,13 @@ ratib:i|ratibi||||orderly (organized, in sequence, tidy, regular)||ordenado (reg
 razon:|razon|||eng:reason, spa:razón, por:razão, fra:raison rus:разум (razum)|reason (rational thinking)||razón||||||||||||||järki (järkeily, päättely)|rozum, rozsądek
 razon:i|razoni||||rational (reasonable)||razonable||||||||||||||järjellinen (järkiperäinen, rationaalinen)|racjonalny, rozsądny
 razon:u|razonu||||make sense||tener sentido|||||||||||||||mieć sens
+re.tr:a|retra||||return (put back)|remettre|retornar|retornar|||||||||||||palauttaa|
+re.tr:e|retre||||return (way back)||vuelta|||||||||||||reiro|paluu|powrót
+re.tr:o|retro||||backward (in reverse)|en arrière|al revés|||||||||||||||wstecz
+re.tr:u|retru||||return (get back)|retourner (revenir)|volver|voltar (regressar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
+re.tr.o.gul:a|retrogula||||throw up (vomit, regurgitate)||devolver (vomitar)||рвать (изрыга́ть)||呕吐|戻す (吐く)||||||||||wymiotować (zwrócić)
+re.tr.o.gul:i sens:e|retroguli sense||||nausea (motion sickness)|nausée|náusea|náusea|тошнота||恶心|吐き気 (嘔気)||||||||||nudności (choroba lokomocyjna)
+re.tr.o.tiket:e|retrotikete||||return ticket|Aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|bilet powrotny
 Rea:|Rea|planete 6 lun 5|||Rhea|||||||||||||||||
 rebel:|rebel|||eng:rebel, spa:por:rebelde fra:rebelle|rebellion||rebelión (sublevación)||||||||||||||kapina|rebelia, powstanie
 red:a|reda||||prepare (make ready)||preparar (hacer listo)||||||||||||||tehdä valmiiksi|przygotować, przygotowywać
@@ -3034,12 +3042,6 @@ resid:e|reside|||fas:(resid), hin:रसीद (rasīd), urd:(rasīd), guj:ર�
 rest:e|reste|||fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|rest (remainder)|reste|resto (demás)|resto|остаток|بَاقِيَّة|其余||||बाक़ी|বাকি||baki|||jäännös (loput)|pozostałość, reszta
 rest:u|restu||||remain (stay)||quedarse||||||||||||||jäädä jäljelle|zostać, zostawać
 restorant:e|restorante|||eng:fra:restaurant, spa:por:restaurante, rus:ресторан (restoran), tur:may:restoran, hin:रेस्तरां (restarā̃), ben:রেস্টুরেন্ট (reśṭurenṭ), jpn:レストラン (resutoran)|restaurant||restaurante|||||||||||||restaŭracio|ravintola|restauracja
-retr:e|retre||||return (way back)||vuelta|||||||||||||reiro|paluu|powrót
-retr:o|retro|||eng:spa:por:deu:retro-, fra:rétro-, rus:ретро- (retro-)|backward (in reverse)|en arrière|al revés|||||||||||||||wstecz
-retr:u|retru||||return (go back)|retourner (revenir)|volver|voltar (retornar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
-retr.o.gul:a|retrogula||||throw up (vomit, regurgitate)||devolver (vomitar)||рвать (изрыга́ть)||呕吐|戻す (吐く)||||||||||wymiotować (zwrócić)
-retr.o.gul:i sens:e|retroguli sense||||nausea (motion sickness)|nausée|náusea|náusea|тошнота||恶心|吐き気 (嘔気)||||||||||nudności (choroba lokomocyjna)
-retr.o.tiket:e|retrotikete||||return ticket|Aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|bilet powrotny
 Reunion:|Reunion|dex|RE||Réunion||Reunión||||||||||||||Reunion|Reunion
 rezeru:a|rezerva||||reserve (book)||reservar||||||||||||rezerve ettirmek|||rezerwować (zarezerwować)
 rezeru:e|rezerve|||eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|reservation (booking, withholding)||réservation|reserva||||||||||||rezervo|varaus (ennakkovaraus)|rezerwacja
@@ -3315,6 +3317,11 @@ sistem:i|sistemi||||systemic||sistémico|||||||||||||||systemowy
 sit:e|site|||eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|city (town)|ville|ciudad|cidade||||||||||||urbo|kaupunki|miast, miasteczko
 siuil:i|sivili|||eng:civil, por:civil, hin:सिविल (sivil), may:sipil|civilized (civil)||civilizado||||||||||||||sivistynyt|cywilizowany (ucywilizowany)
 siuil:ia|sivilia||||civilization||civilización||||||||||||||sivilisaatio|cywilizacja
+Skot:ia|Skotia|dex|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
+skult:a|skulta||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
+skult:e|skulte||||sculpture (statue)||escultura (estatua)|||||||||||||statuo (skultaĵo)|veistos (patsas)|rzeźba
+skult:ia|skultia||||sculpture (art of sculpting)||escultura (arte de escultura)||||||||||||||kuvanveisto|rzeźbiarstwo
+skult.er:|skulter|||spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|sculptor|sculpteur|escultor|escultor|скульптор|||||||||||skultisto|kuvanveistäjä|rzeźbiarz
 slau:i|slavi||||Slavic||eslavo|eslavo|славянский||||||||||||slaavilainen|słowiański
 Slouak:ia|Slovakia|dex|SK||Slovakia||Eslovaquia||||||||||||||Slovakia|Słowacja
 Slouen:ia|Slovenia|dex|SI||Slovenia||Eslovenia||||||||||||||Slovenia|Słowenia
@@ -3353,6 +3360,23 @@ sos.ist:e|sosiste||||socialist||socialista||||||||||||||sosialisti|socjalista
 sos.ist:ia|sosistia||||socialism||socialismo||||||||||||||sosialismi|socjalizm
 sosis:|sosis|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage|saucisse|salchicha|salsicha|колбаса (сосиска)|سُجُق|香肠|ソーセージ|||सॉसेज||sosis (sosej)|soseji||kolbaso|makkara|kiełbasa
 Soto:|Soto|dex|LS||Lesotho||Lesoto||||||||||||||Lesoto|Lesotho
+spet:a|speta|||eng:spectate, fra:spa:-spect-, por:-spet-|watch (observe, spectate)|||||||||||||||spekti|katsoa (tarkkailla)|
+spet.er:|speter||||spectator (observer)|spectateur|espectador|espetador||||||||||mshabiki|seyirci|spektanto|katsoja (tarkkailija)|
+sponj:e|sponje|biu||eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|sponge|éponge|esponja|esponja|губка||海绵|スポンジ (海綿)|||||||||sienieläin|gąbka
+sport:e|sporte|||eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|sport (athletics)|sport|deporte|esporte|спорт||||||स्पोर्ट|||spoti|spor|sporto|urheilu|sport, lekkoatletyka
+sport.er:|sporter||||athlete (sportsman)||deportista||||||||||||||urheilija|hałas
+stad:ia|stadia|||fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||estadio (arena)|||||||||||||stadiono (areno)|stadioni (areena)|stadion, arena
+stan:|stan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
+stas:a|stasa||||hold (detain)||mantener (detener)||||||||||||||seisottaa|zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
+stas:i|stasi||||static (stationary)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
+stas:ia|stasia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station||estación|||||||||||||stacio|asema|stacja
+stas:u|stasu||||stand still||pararse (detenerse)||||||||||||||seisoa (seisahtaa)|nie ruszać się
+stib.em:|stibem|mate|Sb||antimony|antimoine|antimonio|antimônio|сурьма (стибиум)||锑|アンチモン|||अंजन||||||antimoni|antymon
+stront.em:|strontem|mate|Sr||strontium||strontium|||||||||||||stroncio|strontium|stront
+stud:a|studa|||eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|study (work in order to practise or demonstrate)|étudier|estudiar (examinar)|estudar (examinar)|изучать||||||||||||opiskella (tutkia)|
+stud:e|stude||||study (work made in order to practise or demonstrate)|étude|||этюд||||||||||||tutkielma|
+stud:ia|studia||||studio||estudio||||||||||||||ateljee (studio)|studio (pracownia)
+stud.er:|studer||||student|étudiant|estudiante|estudante|студент||||||विद्यार्थी (स्टूडेंट)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento|opiskelija|student
 suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 sual:|sual|||ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
 sual:a|suala||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
@@ -3648,6 +3672,7 @@ UDA: d:u|UDA du||||American (US)||estadounidense||||||||||||||yhdysvaltalainen (
 uei:|vei|||zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|tail||cola (rabo)||хвост||尾巴 (尾部)|尾 (尾翼)|||पूंछ (दुम)|লেজ|ekor (kotek, basian)|mkia|kuyruk|vosto|häntä|ogon
 uei:i|veyi|||zho:纬度 (wěi), kor:위 (wi), vie:vĩ|traverse (horizontal)||||||||||||||||poikittainen (vaaka)|
 uei.lin:|veilin||||weft|fil de trame|||уток||緯紗|横糸|||||||||kude|
+uei.sirk:e|veisirke||||latitude||latitud||||纬度|緯度|위도|vĩ độ|||||||leveyspiiri|południk
 uend:a|venda|||eng:vend, spa:por:vender, fra:vendre|sell (vend)|vendre|vender|vender|продать||卖|売る||||||||||sprzedać (sprzedawać)
 uend.o.xop:a|vendoxopa||||trade (buy and sell)|commercer|comerciar|торговать|обмениваться|||売買する||||||||||handlować
 uend.o.xop:e|vendoxope||||trade (commerce)||comercio||||贸易|交易 (売買)||||||||||handel
@@ -3663,6 +3688,8 @@ uer:o|vero||||truly (indeed, very)|vraiment|||||||||||||||todella|
 uer.it:a|verita||||verify (authenticate)||autenticar|||||ただす||||||||||
 uerm:e|verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm|ver|verme|verme|||||||||||||mato|robak
 uermut:e|vermute|alkohol|||vermouth|vermouth|vermú|vermute|вермут|||||||||||vermuto|vermutti|wermut
+uers:a|versa||||turn around (flip)|verser|versar||||||||||||||kääntää jtkn päin|
+uers:u|versu|||eng:versus, fra:verse, spa:por:versar|face (versus)|verse (face á)|afrontar|encarar (afrontar; vérsus)|||||||||||||kohti (päin)|
 uersion:|version|||eng:fra:version, por:versão, rus:версия (versiya), may:versi|version (variation, edition)||versión (modelo)|||||||||||||versio (toisinto)|versio|wersja (wariacja, edycja, wydanie)
 uesp:e|vespe|biu||spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|bee or wasp|abeille ou guêpe|abeja o avispa|abelha ou vespa|||蜂|蜂||||||||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
 uesp.o.nid:e|vesponide||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣||||||||||ul (gniazdo pszczół lub os)
@@ -3690,6 +3717,7 @@ uiman:|viman|||hin:mar:विमान (vimān), ben:বিমান (biman), gu
 uiman.kap.er:|vimankaper||||plane hijacker||||||||||||||||lentokonekaappari|porywacz samolotu
 uin:|vin|||fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain), swa:mvinyo|wine||vino|||||||||||||vino|viini|wino
 uin.kan:|vinkan||||winery||bodega||винном заводе|||ワイナリー (酒造場)|||||||||viinipanimo|winiarnia
+uin.suan:|vinsuan||||vinegar||vinagre|||||||||||||vinagro|etikka|ocet
 uing:|ving|||eng:wing, deu:Schwinge|wing||ala||||||||||||||siipi|skrzydło
 uinil:|vinil|||eng:vinyl, spa:vinilo, por:vinil, fra:vinyle, rus:винил (vinil), jpn:ビニル (viniru)|vinyl||vinilo||||||||||||||vinyyli|winyl
 uir:|vir|||hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|hero||héroe|||||||||||||heroo|sankari (urho)|bohater, heros
@@ -3701,7 +3729,10 @@ uis:|vis||||alternative (substitute, replacement)||alternativa (sustituto)|||||�
 uis:a|visa||||substitute (replace)||sustituir (reemplezar)||||||||||||||korvata|zastąpić (podstawić, zamienić)
 uis:i|visi|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy)||vice-|||||||||||||vic-|vara- (korvike-)|wice-
 uis.log:e|visloge||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
+uis.mai:|vismai||||step-mother||madrastra|madrasta|мачеха||继母|継母|계모|mẹ kế|सौतेली माँ|||||vicpatrino|äitipuoli (isän puoliso)|
+uis.pai:|vispai||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
 uis.prezident:e|visprezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
+uis.raj.er:|visrajer||||viceroy|vice-roi|virrey|vice-rei|вице-король||||||||wizurai||||varakuningas|wicekról
 uisk:e|viske|alkohol|||whisky (whiskey)|||||||||||||||||viski
 uit:e|vite|||fra:vis, ita:vite, rus:винт (vint), tur:vida|screw||tornillo||||||||||||||ruuvi|śruba, wkręt
 uiz:e|vize|||tur:vize, eng:visa, rus:виза (viza), hin:वीज़ा (vīzā)|visa||visado||виза||||||वीज़ा||||||viisumi|wiza
@@ -3731,6 +3762,7 @@ un.men:i|unmeni||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jedno
 un.od:i|unodi||||first (number one)||primero (numbre uno)||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
 un.ok:i lens:e|unoki lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un.rang:i|unrangi||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
+un.uers:i|unversi||||universal|universel|universal|universal|||||||||||||universaali|
 uod:a|voda||||promise (pledge)|promettre|prometer (comprometerse)||||许诺|||||||||promesi|luvata (vannoa)|obiecać, angażować się
 uod:e|vode|||fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|promise (vow, oath)|vœu (promesse)|promesa (voto)|promessa (voto)|клятва (присяга, обет)|وعد|诺言|約束|약속||वचन (वादा)||||||lupaus (vala)|
 uodun:|vodun|||ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|voodoo||vudú||||||||||||||voodoo|voodoo
@@ -3758,10 +3790,6 @@ uz.abl:i|uzabli||||usable (available)||utilizable (disponible)|||||使用可能|
 uz.er:|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
 uz.er.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
 Uzbek:ia|Uzbekia|dex|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
-vei.sirk:e|veisirke||||latitude||latitud||||纬度|緯度|위도|vĩ độ|||||||leveyspiiri|południk
-vin.suan:|vinsuan||||vinegar||vinagre|||||||||||||vinagro|etikka|ocet
-vis.mai:|vismai||||step-mother||madrastra|madrasta|мачеха||继母|継母|계모|mẹ kế|सौतेली माँ|||||vicpatrino|äitipuoli (isän puoliso)|
-vis.pai:|vispai||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
 X|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 xak:e|xake|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 xakal:|xakal|biu||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
@@ -3902,7 +3930,7 @@ zong.o.mint:e|zongominte|biu|Mentha spicata||spearmint|menthe verte|hierbabuena|
 zou:|zou|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 zou.fil:ia|zoufilia||||zoophily||||||||||||||||eläinrakkaus|
 zou.geu.graf:ia|zougeugrafia||||zoogeography||||||||||||||||eläinmaantiede|
-zou.jen.it:ia|zoujenitia||||animal husbandry|élevage||||||畜産||||||||||hodowla zwierząt
+zou.jen.it:ia|zoujenitia||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|hodowla zwierząt
 zou.loj:i|zouloji||||zoological|zoologique|zoológico|zoológico|зоологический|||動物学の|||||||zoolojik|zoologia|eläintieteellinen|zoologiczny
 zou.loj:ia|zoulojia||||zoology|zoologie|zoología|zoologia|зоология|عِلْم اَلْحَيَوَان|动物学|動物学|동물학|động vật học|प्राणि विज्ञान|প্রাণিবিজ্ঞান|zoologi (kaji haiwan)||zooloji|zoologio|eläintiede (zoologia)|zoologia
 zou.park:e|zouparke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园|動物園|동물원|thảo cầm viên|चिड़ियाघर|চিড়িয়াখানা|kebun binatang|bustani ya wanyama|hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)

@@ -201,10 +201,6 @@ Azerbaijan - Azerbaijan
 babe - chapitre  
 babuce - pantoufle (babouche)  
 bace - enfant  
-bada - suivre  
-bado - ensuite (après, plus tard)  
-badodeno - demain  
-badofikse - suffixe  
 badam - amande  
 badavi - bédouin  
 bagaje - bagage  
@@ -425,12 +421,9 @@ englofoni - anglophone
 englomargarite - pâquerette  
 eskaltan - vigne  
 Eskandia - Scandinavie  
-eskulter - sculpteur  
-esponje - éponge  
-estan - étain  
-estibem - antimoine  
 evanjil - évangile  
 euloge - éloge  
+euspeti - propice  
 Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
@@ -500,6 +493,7 @@ gabroxeke - pierre tombale
 gadogude - mule  
 Galia - Gaule  
 galaksia - galaxie  
+galope - galop  
 galte - faute (erreur)  
 galti - erroné  
 gam - époux  
@@ -631,6 +625,8 @@ inmigran - immigrant
 inploze - implosion  
 inplozu - imploser  
 insida - s’accroupir  
+intru - entrer  
+introversi - introverti  
 insan - être humain  
 insani hake - droits de l'homme  
 insaniki - humain  
@@ -1087,6 +1083,11 @@ porei - poireau
 porte - porte  
 portoriki - Portoricain  
 Portorikia - Porto Rico  
+posa - suivre  
+poso - ensuite (après, plus tard)  
+posdeno - demain  
+posfikse - suffixe  
+postri - postérieur  
 postomarke - cachet de la poste  
 pote - pot (vase)  
 poter - potier  
@@ -1119,6 +1120,11 @@ rari - rare
 ras - race  
 rasmedi - interracial  
 ratibe - ordre  
+retra - remettre  
+retro - en arrière  
+retru - retourner (revenir)  
+retroguli sense - nausée  
+retrotikete - Aller-retour  
 regopetre - grès  
 rei - répétition  
 reya - répéter  
@@ -1128,10 +1134,6 @@ reiboner - réparateur
 reisikla - recycler  
 reizoka - reprendre  
 reste - reste  
-retro - en arrière  
-retru - retourner (revenir)  
-retroguli sense - nausée  
-retrotikete - Aller-retour  
 rici - riche  
 rim - rime  
 ring - anneau  
@@ -1208,6 +1210,7 @@ sirkoxeke - pavé
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
+skulter - sculpteur  
 sofia - sagesse  
 sofa\* - canapé (sofa)  
 soi - soja  
@@ -1226,6 +1229,14 @@ son - son
 sor - serrure  
 sosia - société  
 sosis - saucisse  
+speter - spectateur  
+sponje - éponge  
+sporte - sport  
+stan - étain  
+stibem - antimoine  
+studa - étudier  
+stude - étude  
+studer - étudiant  
 sual - question  
 suala - demander (poser un question; est-ce que)  
 suanpurxipi - décapé (mariné)  
@@ -1317,12 +1328,15 @@ veri - vrai
 vero - vraiment  
 verme - ver  
 vermute - vermouth  
+versa - verser  
+versu - verse (face á)  
 vespe - abeille ou guêpe  
 vesponide - ruche (nid d'abeille)  
 vida - voir  
 vidou - veuve  
 viyoleti - violet (pourpre)  
 virus - virus  
+visrajer - vice-roi  
 umur - âge  
 un (uni) - un (1)  
 uniki - seul (unique)  
@@ -1330,6 +1344,7 @@ uniko - uniquement
 unyom - lundi  
 unmaro - une fois  
 unoki lense - monocle  
+unversi - universel  
 voda - promettre  
 vode - vœu (promesse)  
 volu - vouloir  

@@ -74,7 +74,7 @@ Antigua i Barbuda - Antigua e Barbuda
 antonim - annam  
 antychryst - ankriste  
 Antyle Holenderskie - Nederlandi Antil  
-antymon - estibem  
+antymon - stibem  
 apsik - acu\*  
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabi  
@@ -374,7 +374,8 @@ cukier - sukar
 cukierek, słodycze - kande  
 cukinia - lilkaboge  
 cukrowiec jadalny - yamsukarcau  
-cynk - estan  
+cwał (galop) - galope  
+cynk - stan  
 cynk - zinke  
 Cypr - Kipris  
 Cypr Północny - Nordi Kipris  
@@ -784,7 +785,7 @@ góra, wzgórze - xan
 górnik (kopacz) - kuanger  
 górny - supri  
 gówno - xite  
-gąbka - esponje  
+gąbka - sponje  
 gładki - lisi  
 głaz - daixeke  
 głos - vote  
@@ -815,7 +816,7 @@ haszysz - haxix
 hasło - sekurkode  
 Hawaje (archipelag hawajski) - Havai nesia  
 Hawaje - Havai  
-hałas - keler  
+hałas - sporter  
 hebel, strug - rande  
 heblować - randa  
 hebrajski - ibri  
@@ -984,7 +985,7 @@ Joruba - yorubi
 Jowisz - Jupiter  
 judaizm - yehudistia  
 judo - judau  
-jutro - badodeno  
+jutro - posdeno  
 już (skończona czynność) - fino  
 jęczmień - jau  
 język - lisan  
@@ -1148,7 +1149,7 @@ koniec - fin
 konkani - Konkani  
 konkurować, rywalizować; odbyć mecz, odbywać mecz - meca  
 konopie - ganje  
-konsekwencja, skutek - bade  
+konsekwencja, skutek - pos  
 konstytucja - bazokanun  
 kontynuować; wznawiać, ponawiać - zoku  
 konwalia majowa - vadosusan  
@@ -1645,7 +1646,7 @@ narodziny - jen
 narzędzie - tul  
 naród, narodowość - nasia  
 nasienny - semi  
-następny (następujący) - badi  
+następny (następujący) - posi  
 natura, środowisko - ekia  
 nauczyciel - xulaner  
 nauczyć się, uczyć się, studiować - xula  
@@ -1678,7 +1679,7 @@ neuropatia - neurpatia
 Nevis - Nevis  
 nic, żadna rzecz - nol xei  
 nie - no  
-nie ruszać się - estasu  
+nie ruszać się - stasu  
 nie zgadzać się - alraya  
 niebezpieczeństwo, ryzyko, szansa - zar  
 niebezpieczny - hatri  
@@ -2070,7 +2071,7 @@ podstawa, baza, fundament - baze
 poduszka - kuxen  
 podwajać (podwoić, pomnożyć przez dwa) - dulo multa  
 podziemny - geunici  
-podążać - bada  
+podążać - posa  
 podłoga - kamartal  
 poemat - xir  
 poeta - xirer  
@@ -2309,7 +2310,7 @@ przykład - misal
 przymiotnik - sifloge  
 przymus - mus  
 przyprawa - masal  
-przyrostek (sufiks) - badofikse  
+przyrostek (sufiks) - posfikse  
 przyrostek dla (wyniku) działania - -e  
 przyrostek dla czasowników z szykiem zdania OV####S - -u  
 przyrostek dla czasowników z szykiem zdania SV####O - -a  
@@ -2352,7 +2353,7 @@ półka (regał na książki) - liboban
 północ - norde  
 północny - nordi  
 półwysep - yagones  
-później - bado  
+później - poso  
 pękać (rozrywać się) - parcokayu  
 pęknięcie - krake  
 pęknąć (rozpaść się) - fenu  
@@ -2506,10 +2507,10 @@ rzecz - xei
 rzeczownik - namloge  
 rzeka - riu  
 rzemieślnik - janger  
-rzeźba - eskulte  
-rzeźbiarstwo - eskultia  
-rzeźbiarz - eskulter  
-rzeźbić - eskulta  
+rzeźba - skulte  
+rzeźbiarstwo - skultia  
+rzeźbiarz - skulter  
+rzeźbić - skulta  
 rzodkiewka - lobake  
 rzucić, rzucać, miotać, cisnąć, ciskać - lanca  
 rzut (projekcja) - lancograf  
@@ -2665,7 +2666,7 @@ spodnie (pantalony, portki) - pante
 spodziewany (przewidziany) - cenvidi  
 spokojny - xanti  
 sporokarp - fungopal  
-sport, lekkoatletyka - kel  
+sport, lekkoatletyka - sporte  
 sposób (metoda, tryb) - mode  
 spotkanie, zebranie - mite  
 spotkać - mita  
@@ -2692,8 +2693,8 @@ Sri Lanka - Lanka
 srom - vulve  
 ssak - mamal  
 ssać - cupa  
-stacja - estasia  
-stadion, arena - estadia  
+stacja - stasia  
+stadion, arena - stadia  
 stan - hal  
 Stan Nowy Jork - Novi Yorke site  
 Stany Zjednoczone Ameryki - Uniti Dex Da Amerike (UDA)  
@@ -2701,7 +2702,7 @@ Starożytny Egipt (Kemet) - Kemia
 stary (sędziwy, wiekowy) - lavi  
 stary, starożytny - ceniki  
 starzec - lau  
-statyczny, stacjonarny, nieruchomy - estasi  
+statyczny, stacjonarny, nieruchomy - stasi  
 stać - libu  
 stały (sztywny) - gatomati  
 sterburta (prawa burta) - nauraite  
@@ -2724,12 +2725,13 @@ strażnik więzienny - prizoner
 strażnik, ochroniarz - garder  
 strona (bok) - late  
 strona - varkolate  
-stront - estrontem  
+stront - strontem  
 strzała (bełt) - flece  
 strzelać (strzelić) - pava  
 strzykwa - haihiyar  
 strzępić (drzeć) - circira  
-studio (pracownia) - estudia  
+student - studer  
+studio (pracownia) - studia  
 styczeń - unlun  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parca  
@@ -2789,7 +2791,7 @@ sześć (6) - sisi
 szisz kebab - xixkababe  
 szkielet - ostojamia  
 szklić (glazurować) - kancodaka  
-Szkocja - Eskotia  
+Szkocja - Skotia  
 szkoła (instytucja) - xulkan  
 szkoła podstawowa - bazoxulkan  
 szkło - kance  
@@ -3122,6 +3124,7 @@ wiara, wierzenie, kredo - xin
 wiatr - hau  
 wiatrak (wentylator) - panke  
 wice- - visi  
+wicekról - visrajer  
 wiceprezydent - visprezidente  
 widelec - forke  
 widok, wzrok - vide  
@@ -3383,7 +3386,7 @@ zasób - faide
 zasłona, kurtyna - parde  
 zatkać, ztykać - tapa  
 zatoka - bai  
-zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - estasa  
+zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - stasa  
 zatrzymać - tinga  
 zatrzymać się - tingu  
 zawias, oś - xarnir  

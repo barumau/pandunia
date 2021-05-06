@@ -123,7 +123,7 @@ antenni - anten
 Antigua - Antigua  
 Antigua ja Barbuda - Antigua e Barbuda  
 antikristus - ankriste  
-antimoni - estibem  
+antimoni - stibem  
 apinanleipäpuu (baobab) - bui  
 appelsiini - oranje  
 appi - gampai  
@@ -154,7 +154,7 @@ arvostelija (kriitikko) - pipinger
 arvottaa - vala  
 ase - arme  
 asema (satama, lentokenttä) - porte  
-asema - estasia  
+asema - stasia  
 asento - asan  
 asetelma - poze  
 asia (juttu) - sualtem  
@@ -176,7 +176,7 @@ asunto (koti) - dom
 asuttaa - domana  
 Ateena - Atina  
 ateisti (jumalankieltäjä) - andeviste  
-ateljee (studio) - estudia  
+ateljee (studio) - studia  
 Atlantin valtameri - Atlanti Hai  
 atomi - atom  
 atsii - acu\*  
@@ -640,7 +640,7 @@ huomata (hoksata) - nota
 huomauttaa - notana  
 huomautus - notite  
 Huomenta! - salam sube  
-huominen - badodeno  
+huominen - posdeno  
 huomio (kommentti, merkintä) - note  
 huone - kamar  
 hurma (lumo, tenho) - fasinia  
@@ -747,6 +747,7 @@ Intia - Bartia
 intiaani (Amerikan alkuperäisasukas) - aslameriki  
 intialainen - barti  
 Intian valtameri - Barti Hai  
+introspektio - introspete  
 ioni - iyon  
 Irak - Irakia  
 Iran - Iran  
@@ -966,6 +967,7 @@ karate - karate\*
 karavaani (saattue) - karvan  
 karhu - urse  
 Karibia - Karaibia  
+karjanhoito - zoujenitia  
 Karnataka (Intian osavaltio) - karnadia  
 kartio (keila) - konus  
 kartogratia - metrografia  
@@ -986,6 +988,8 @@ kasvot (naama) - muke
 kasvu - raste  
 Katalonia - Katalunia  
 katkaista (leikata) - kata  
+katsoa (tarkkailla) - speta  
+katsoja (tarkkailija) - speter  
 kattava - inklusivi  
 kattila - ketle  
 katto (katos) - cate  
@@ -1134,6 +1138,7 @@ kloori - klorem
 kobaltti - kobalte  
 koe (testi, yritys) - teste  
 kohtelias (kiltti) - keci  
+kohti (päin) - versu  
 koira - vaf  
 koivu - berje  
 kokata (laittaa ruokaa) - kuka  
@@ -1290,8 +1295,8 @@ kuutio (kuusitahokas) - sisfas
 kuutio - kube  
 kuvaileva (määrittelevä) - sifi  
 kuvakirja - grafbuke  
-kuvanveisto - eskultia  
-kuvanveistäjä - eskulter  
+kuvanveisto - skultia  
+kuvanveistäjä - skulter  
 kuvaruutu - ekran  
 kuvitella - fantaza  
 Kuwait - Kuvaitia  
@@ -1340,6 +1345,7 @@ käytännöllinen (pragmaattinen) - prati
 käytäntö (pragmatia) - prate  
 käytös (käyttäytyminen, tapa, tavat) - manir  
 käännös (tulkinta) - tarje  
+kääntää jtkn päin - versa  
 kääre (kuori) - lifaf  
 kääriä (panna kääröön) - lifafa  
 kääriä - rula  
@@ -1391,6 +1397,7 @@ latinoida - latinkitaba
 lattia - kamartal  
 Latvia - Latvia  
 lauantai - sisyom  
+laukka - galope  
 laulaa - canta  
 laulu - cante  
 lauta (paneeli) - ban  
@@ -1481,7 +1488,7 @@ lopetettu - finiti
 lopettaa - fina  
 loppu - fin  
 loppua - finu  
-loppuliite (jälkiliite) - badofikse  
+loppuliite (jälkiliite) - posfikse  
 loppunut - fini  
 loukkaus (herja) - dusnam  
 loukkaus (törkeys) - ninde  
@@ -1506,6 +1513,7 @@ luona (-lla, -ssa) - ya
 luonto - ekia  
 luota (lähtien, -sta, -lta) - la  
 luottaa (uskoa) - amena  
+lupaava (hyvältä vaikuttava) - euspeti  
 lupaus (vala) - vode  
 lusikka - camace  
 luterilainen - martinluteristi  
@@ -1654,6 +1662,8 @@ menneisyys - pas
 mennyt (poissa) - kiti  
 mennyt - pasi  
 mennä - kita  
+mennä sisään - intru  
+mennä vasten - kontra  
 menopaluulippu - retrotikete  
 meri - hai  
 meri- (merellinen) - hayi  
@@ -1787,7 +1797,8 @@ mylläri - moler
 myrkky - tokse  
 myrkyllinen - toksi  
 myrsky - tafun  
-myöhemmin - bado  
+myöhemmin - poso  
+myöhempi (takainen) - postri  
 myötätunto (sympatia) - samemos  
 mädäntyä (mädätä) - pudu  
 mänty - song  
@@ -1821,6 +1832,7 @@ nauraa - haha
 Nauru - Nauru  
 nauta (lehmä) - muh  
 nauttia (syödä, juoda) - yama  
+neli (kiitolaukka) - cargalope  
 neliö - cargon  
 neljä (4) - cari  
 nenä - nos  
@@ -1947,6 +1959,8 @@ opas (tiennäyttäjä) - gider
 opastaa (ohjata) - gida  
 opettaa - xulana  
 opettaja - xulaner  
+opiskelija - studer  
+opiskella (tutkia) - studa  
 oppi (opetus) - xul  
 oppia (opiskella) - xula  
 oppilas - xuler  
@@ -1972,7 +1986,9 @@ osmium - osmem
 osmoosi - osmos  
 osoite - adres  
 osoitin (viisari) - ponter  
+osoittaa (näyttää) - indika  
 osoittaa (näyttää) - ponta  
+osoittaa (tähdätä) - dika  
 ostaa - xopa  
 ostaja - xoper  
 ostokset - xope  
@@ -2017,6 +2033,7 @@ palata - retru
 palatsi - daidom  
 Palau - Palau  
 palauttaa - fuga  
+palauttaa - retra  
 Palestiina - Filistin  
 paljastaa - andaka  
 paljon (monta) - poli  
@@ -2046,6 +2063,7 @@ pankkiiri - banker
 panna (asettaa) - poza  
 panna (asettaa, sijoittaa) - loka  
 panna jkn maate - kuxa  
+panna sisään - intra  
 panna toimintaan - ativa  
 pannu (paistinpannu) - tau  
 pantheon - pandevia  
@@ -2185,6 +2203,7 @@ poistaa (hävittää) - anzaya
 poistaa (paitsi, poislukien) - exa  
 poistaa toiminnasta - anativa  
 poistaa virheitä (debugata) - angalta  
+poistua (mennä ulos) - extru  
 poistua - cuta  
 poistuminen - cute  
 pokeri - poke  
@@ -2516,9 +2535,9 @@ seikkailija - venturer
 seikkailu - ventur  
 seinä (muuri) - mur  
 seismologia - sismolojia  
-seisoa (seisahtaa) - estasu  
-seisottaa - estasa  
-seisova (staattinen) - estasi  
+seisoa (seisahtaa) - stasu  
+seisottaa - stasa  
+seisova (staattinen) - stasi  
 seistä (seisoa) - libu  
 seitsemän (7) - seti  
 sekoitin - mixer  
@@ -2543,9 +2562,9 @@ seppä - metaljanger
 Serbia - Serbia  
 serkku - cinbrusben  
 seura - sosia  
-seuraava - badi  
-seurata (tulla perässä, tulla jäljessä) - bada  
-seuraus - bade  
+seuraava - posi  
+seurata (tulla perässä, tulla jäljessä) - posa  
+seuraus - pos  
 seurustella (toimia yhdessä) - sosa  
 seutu (maa) - tope  
 Seychellit - Sexel nesia  
@@ -2557,13 +2576,14 @@ siemen- - semi
 siemenjyvä - semdan  
 sienen hattu - fungopal  
 sieni - fung  
-sienieläin - esponje  
+sienieläin - sponje  
 Sierra Leone - Salon  
 sihistä - ziza  
 sihteeri - sekreter  
 sihteeristö - sekreteria  
 siipi - ving  
 siirappi - xirope  
+siirtää taakse - pospoza  
 siitin (penis) - penis  
 siivooja - safer  
 sija (paikka järjestyksessä) - ode  
@@ -2596,11 +2616,15 @@ sisarus (veli tai sisko) - brus
 sisaruspuoli - cingamben  
 sisus (sisäpuoli) - in  
 sisä- (sisäinen) - indi  
+sisäinen - intri  
 sisällysluettelo - inliste  
 sisällyttää (sulkea sisäänsä) - inklusa  
+sisällä (sisäpuolella) - intro  
 sisältö - inite  
+sisäpuoli - intre  
 sisäsyntyinen - injeni  
 sisäänkäynti - jinmun  
+sisäänpäinsuuntautunut (introvertti) - introversi  
 sitoa - benda  
 sitruuna - limon  
 sivilisaatio - sivilia  
@@ -2610,7 +2634,7 @@ sivu (kylki, puoli) - late
 sivu- - lati  
 Skandinavia - Eskandia  
 skandium - eskandem  
-Skotlanti - Eskotia  
+Skotlanti - Skotia  
 slaavilainen - slavi  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -2655,10 +2679,10 @@ soveltaa - aplika
 sovittaa (mukauttaa) - hapa  
 sranan tongo - surinami bax  
 Sri Lanka - Lanka  
-stadioni (areena) - estadia  
+stadioni (areena) - stadia  
 stereofoninen - dulsondi  
 stereoskooppinen - dulgrafi  
-strontium - estrontem  
+strontium - strontem  
 suahili - suahili  
 substantiivi (nimisana) - namloge  
 Sudan - Sudan  
@@ -2817,6 +2841,7 @@ tapetti - murkaguje
 tappaa - morta  
 tappaja - morter  
 tarha (puisto) - parke  
+tarkastaa (katsoa sisään) - inspeta  
 tarkistaa (tsekata) - ceka  
 tarkka (täsmällinen) - justi  
 tarpeeksi (riittävästi) - basi  
@@ -2909,7 +2934,7 @@ tila (tilanne, seikka) - hal
 tilanne (asiaintila) - xeihal  
 timantti - almas  
 Timor - Timor  
-tina - estan  
+tina - stan  
 titaani - titanem  
 todella - vero  
 todistaa - dalila  
@@ -2995,6 +3020,7 @@ turvallinen (varma) - sekuri
 turve - turfe  
 tutkia (opiskella) - loja  
 tutkia - genca  
+tutkielma - stude  
 tuuli (puhallus) - hau  
 tuulla (puhaltaa) - hava  
 Tuvalu - Tuvalu  
@@ -3023,7 +3049,6 @@ työntekijä (työläinen) - karer
 työntää (puskea) - puxa  
 työpöytä (kirjoituspöytä) - karmeze  
 työskennellä - kara  
-tähdätä (kohti) - dika  
 tähti - xing  
 tähtialus - astronau  
 tähtitiede (astronomia) - astronomia  
@@ -3048,12 +3073,15 @@ Uganda - Ganda
 ukkosmyrsky - gromtafun  
 Ukraina - Ukraina  
 ulko- (ulkoinen) - exi  
+ulkoinen - extri  
 ulkomaa - exdex  
 ulkomaalainen - exdexi  
+ulkona (ulkopuolella) - extro  
 ulkopuoli - ex  
 ulkopuolinen - exojan  
 ulkosyntyinen - exojeni  
 uloskäynti - cutomun  
+ulospäinsuuntautunut (ekstrovertti) - extroversi  
 ulostaa (kakata) - kaka  
 uloste (kakka) - kake  
 ulottuvilla - aksesabli  
@@ -3061,6 +3089,7 @@ ulvoa - ulula
 ulvonta - ulul  
 umami (ruokaisanmakuinen) - umami  
 unettomuus - ansomia  
+universaali - unversi  
 Unkari - Magyaria  
 unohtaa - anmema  
 upea (hieno) - kuli  
@@ -3070,8 +3099,8 @@ Uranus - Uran
 urbaani (kaupunkilais-) - nagri  
 urdu - urdi  
 urhea (sankarillinen) - viri  
-urheilija - keler  
-urheilu - kel  
+urheilija - sporter  
+urheilu - sporte  
 uros (mies) - man  
 Uruguai - Uruguai  
 usein - polmaro  
@@ -3141,6 +3170,7 @@ vapaa - huri
 vapaus - huria  
 vapauttaa - hura  
 vara- (korvike-) - visi  
+varakuningas - visrajer  
 varapresidentti - visprezidente  
 varas - corer  
 varastaa - cora  
@@ -3156,7 +3186,6 @@ vartioida (vahtia) - garda
 vasara - hamar  
 vasemmistolainen - leftiste  
 vasen - lefte  
-vastaan (vasten) - kontra  
 vastahakoinen (haluton) - anici  
 vastakohta (antonyymi) - annam  
 vastakohtainen (negatiivinen, epä-) - ani  
@@ -3171,8 +3200,8 @@ vaurioitunut - avari
 vauva - bebe  
 vegaani - purfityamiste  
 vehnä - ganum  
-veistos (patsas) - eskulte  
-veistää kuvaa - eskulta  
+veistos (patsas) - skulte  
+veistää kuvaa - skulta  
 veitsi (puukko) - cake  
 veloittaa (verottaa) - taksa  
 vene (laiva) - nau  

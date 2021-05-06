@@ -132,10 +132,6 @@ automoti - memmova
 babe - ĉapitro  
 babuce - pantoflo  
 bace - infano  
-bada - sekvi  
-bade - sekvo  
-badi - sekva  
-badodeno - morgaŭ  
 badavi - beduino (nomado)  
 badla - interŝanĝi  
 bagaje - pakaĵo  
@@ -468,15 +464,9 @@ Eris - Eris (planedeto)
 Eritria - Eritreo  
 eskal - ŝtuparo  
 eskandem - skandio  
-eskulta - skulti  
-eskulte - statuo (skultaĵo)  
-eskulter - skultisto  
 Espania - Hispanio  
 esperanti - Esperanto  
 Estia - Estonio  
-estadia - stadiono (areno)  
-estasia - stacio  
-estrontem - stroncio  
 Etiopia - Etiopio  
 evanjil - evangelio  
 eurasia - Eŭrazio  
@@ -494,6 +484,7 @@ exklusa - ekskludi
 explanete - ekzoplanedo  
 exploze - eksplodo  
 explozu - eksplodi  
+extro - ekster  
 exvidi - evidenta  
 ####F - F  
 faidi - utila  
@@ -945,7 +936,6 @@ kega - vizito
 kege - viziti  
 keger - vizitanto  
 keke - kuko  
-kel - sporto  
 kenar - rando (orlo)  
 kerne - kerno (koro)  
 kerni arme - kernarmilo  
@@ -995,9 +985,9 @@ koncaniste - komunisto
 koncanistia - komunismo  
 konkara - kunlabori  
 konsau - informacio  
+kontra - kontraŭi  
 Kongfuze - Konfuceo  
 konserte - koncerto  
-kontra - kontraŭ  
 kopa - kopii  
 kope - kopio  
 kopernikem - kopernicio  
@@ -1402,6 +1392,10 @@ polskem - polonio
 ponta - montri  
 porte - haveno  
 Portorikia - Portoriko  
+pos - sekvo  
+posa - sekvi  
+posi - sekva  
+posdeno - morgaŭ  
 pospor - fosforo  
 postokan - poŝtejo  
 postomarke - poŝtmarko  
@@ -1424,7 +1418,7 @@ puro - plene
 purfina - kompleti  
 putau - vinbero  
 Putong Cini - mandarinĉina  
-putongi - generala (universala)  
+putongi - generala  
 ####R - R  
 radi geter - radio  
 radem - radiumo  
@@ -1442,6 +1436,8 @@ rasiste - racisto
 rasistia - racismo  
 rasmedi - interrasa  
 rastu - kreski  
+retre - reiro  
+retru - reiri  
 redi - preta  
 rege - sablo  
 regotopia - dezerto  
@@ -1455,8 +1451,6 @@ reisikla - recikligi
 renem - renio  
 rentogenem - rentgenio  
 restorante - restaŭracio  
-retre - reiro  
-retru - reiri  
 rezerve - rezervo  
 rezin - rezino  
 ris - rizo  
@@ -1572,6 +1566,9 @@ sisyom - sabato
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
+skulta - skulti  
+skulte - statuo (skultaĵo)  
+skulter - skultisto  
 sofi - saĝa  
 sofia - saĝeco  
 sofa\* - sofo  
@@ -1588,6 +1585,13 @@ son - sono
 song - pino  
 sosia - socio  
 sosis - kolbaso  
+speta - spekti  
+speter - spektanto  
+sporte - sporto  
+stadia - stadiono (areno)  
+stasia - stacio  
+strontem - stroncio  
+studer - studento  
 suahili - sŭahili  
 sual - demando  
 suala - demandi  
@@ -1724,10 +1728,13 @@ vike - vikia artikulo
 vil - estonoteco  
 vilo - estonte  
 vin - vino  
+vinsuan - vinagro  
 vir - heroo  
 viri - heroa  
 visi - vic-  
 visloge - pronomo  
+vismai - vicpatrino  
+vispai - vicpatro  
 umur - aĝo  
 un (uni) - unu (1)  
 unia - uniono  
@@ -1747,9 +1754,6 @@ uranem - uranio
 urse - urso  
 vulve - vulvo  
 uza - uzi  
-vinsuan - vinagro  
-vismai - vicpatrino  
-vispai - vicpatro  
 ####X - X  
 xake - branĉo  
 xal - koltuko  
