@@ -570,6 +570,7 @@ cincil:|cincil|biu||eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла 
 cing:|cing||||request (petition)||||||||||||||||pyyntö|
 cing:a|cinga|||zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|ask (request, beg, plead; please)||pedir (invitar; por favor)||просить||请|請う (ーて下さい)||||||||peti (bonvolu)|pyytää (anoa)|prosić
 cing:a lai:a|cinga laya||||invite||invitar|||||||||||||inviti|pyytää tulemaan|zaprosić, zapraszać
+Cip:ia|Cipia|dex|AL||Albania||Albania||||||||||||||Albania|Albania
 cir:|cir||||tear (rip, edge)|déchirer|rasgar (romper)|rasgar|рвать||撕裂|裂く|||||||||repeämä|rwać (drzeć)
 cir:a|cira|||hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|tear (rip, split)|déchirer|rasgar (romper)|rasgar|рвать||撕裂|裂く|||||||||repiä|drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)
 cir.cir:a|circira||||tear up (tatter, shred)||||изорвать||撕毁|千切る|||||||||raastaa|strzępić (drzeć)
@@ -859,6 +860,7 @@ eskand.em:|eskandem|mate|Sc||scandium||escandio|||||||||||||skandio|skandium|ska
 Espan:ia|Espania|dex|ES||Spain||España|||||||||||||Hispanio|Espanja|Hiszpania
 espan.fon:i|espanfoni||||hispanophone (Spanish speaking)||||||||||||||||espanjaa puhuva|
 esperant:i|esperanti||||Esperanto||Esperanto|||||||||||||Esperanto|esperanto|Esperanto
+Eskot:ia|Eskotia|dex|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
 eskult:a|eskulta||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
 eskult:e|eskulte||||sculpture (statue)||escultura (estatua)|||||||||||||statuo (skultaĵo)|veistos (patsas)|rzeźba
 eskult:ia|eskultia||||sculpture (art of sculpting)||escultura (arte de escultura)||||||||||||||kuvanveisto|rzeźbiarstwo
@@ -874,6 +876,7 @@ estas:ia|estasia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd
 estas:u|estasu||||stand still||pararse (detenerse)||||||||||||||seisoa (seisahtaa)|nie ruszać się
 estan:|estan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
 estib.em:|estibem|mate|Sb||antimony|antimoine|antimonio|antimônio|сурьма (стибиум)||锑|アンチモン|||अंजन||||||antimoni|antymon
+estront.em:|estrontem|mate|Sr||strontium||strontium|||||||||||||stroncio|strontium|stront
 estud:a|estuda|||eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|study (work in order to practise or demonstrate)|étudier|estudiar (examinar)|estudar (examinar)|изучать||||||||||||opiskella (tutkia)|
 estud:e|estude||||study (work made in order to practise or demonstrate)|étude|||этюд||||||||||||tutkielma|
 estud:ia|estudia||||studio||estudio||||||||||||||ateljee (studio)|studio (pracownia)
@@ -3347,7 +3350,6 @@ sistem:i|sistemi||||systemic||sistémico|||||||||||||||systemowy
 sit:e|site|||eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|city (town)|ville|ciudad|cidade||||||||||||urbo|kaupunki|miast, miasteczko
 siuil:i|sivili|||eng:civil, por:civil, hin:सिविल (sivil), may:sipil|civilized (civil)||civilizado||||||||||||||sivistynyt|cywilizowany (ucywilizowany)
 siuil:ia|sivilia||||civilization||civilización||||||||||||||sivilisaatio|cywilizacja
-Skot:ia|Skotia|dex|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
 slau:i|slavi||||Slavic||eslavo|eslavo|славянский||||||||||||slaavilainen|słowiański
 Slouak:ia|Slovakia|dex|SK||Slovakia||Eslovaquia||||||||||||||Slovakia|Słowacja
 Slouen:ia|Slovenia|dex|SI||Slovenia||Eslovenia||||||||||||||Slovenia|Słowenia
@@ -3386,7 +3388,6 @@ sos.ist:e|sosiste||||socialist||socialista||||||||||||||sosialisti|socjalista
 sos.ist:ia|sosistia||||socialism||socialismo||||||||||||||sosialismi|socjalizm
 sosis:|sosis|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage|saucisse|salchicha|salsicha|колбаса (сосиска)|سُجُق|香肠|ソーセージ|||सॉसेज||sosis (sosej)|soseji||kolbaso|makkara|kiełbasa
 Soto:|Soto|dex|LS||Lesotho||Lesoto||||||||||||||Lesoto|Lesotho
-stront.em:|strontem|mate|Sr||strontium||strontium|||||||||||||stroncio|strontium|stront
 suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 sual:|sual|||ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
 sual:a|suala||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
@@ -3863,7 +3864,6 @@ xit:e|xite|||eng:shit, zho:屎 (shǐ), yue:屎 (si2)|feces (poop, shit)|merde|m
 xix:|xix|||tur:şiş + eng:shish-, rus:шиш- (šiš-)|skewer|brochette|brocheta||||扦子|||xiên|||||şiş||varras|rożen (szpikulec)
 xix.kabab:e|xixkababe||||shish kebab||||шиш-кебаб||||||||||şiş kebap||varraskebab|szisz kebab
 xix.mans:e|xixmanse||||shashlik|chachlik|||шашлык||串烧||||||sate||şişlik|ŝaŝliko|saslik|szaszłyk
-Xkip:ia|Xkipia|dex|AL||Albania||Albania||||||||||||||Albania|Albania
 xof:a|xofa||||drive (steer)||conducir|conduzir|||开车|||||||||konduki|ajaa (kuskata)|prowadzić pojazd
 xof.er:|xofer|||fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|chauffeur (driver)||conductor (chofer)|condutor (chofer, motorista)|шофёр||司机||||||||sürücü (şoför)|ŝoforo (kondukisto)|kuski (ajuri, ajaja)|szofer (kierowca)
 xok:e|xoke|||eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|shock (collision)||choque (sacudida)||||||||||||||isku (šokki)|szokwstrząs; kolizja
