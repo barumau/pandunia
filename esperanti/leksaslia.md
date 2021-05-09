@@ -11,6 +11,7 @@
 |**Afrike**|Afriko|araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika, angla:hispana:portugala:Africa, franca:Afrique, rusa:Африка (Afrika), hindia:अफ़्रीका (afrīkā), bengala:আফ্রিকা (aphrika), japana:アフリカ (Afurika), korea:프리카 (Apeurika)|
 |**aga**|se|persa:urdua:اگر‎‎ (agar), hindia:अगर (agar), turka:eğer, + kantona:假 (gaa1), vua:假 (ga)|
 |**agres**|atako (agreso)|angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif|
+|**agri**|agrikultura|angla:franca:hispana:portugala:turka:agro-, rusa:агро- (agro-)|
 |**aha**|kompreni|rusa:ага (aha), korea: 아하 (aha), angla: uh-huh, polona:aha|
 |**ai**|aj (alas)|hispana:ay, portugala:ai, franca:aïe, mandarena:哎 (ai), korea:아야 (aya), persa:(ây), rusa:ай (ay)|
 |**air**|aero|angla:franca:hispana:air, portugala:ar, rusa:аэро- (aero-)|
@@ -60,7 +61,6 @@
 |**babe**|ĉapitro|malaja:bab, araba:urdua:persa:(bāb), svahila:babu|
 |**babuce**|pantoflo|araba: بَابُوج‎ (bābūj), hispana:babucha, franca:babouche, angla:babouche|
 |**bace**|infano|persa:(bačče), urdua:(baccā), hindia:बच्चा (baccā), guĝarata: બચ્ચું (baccũ), filipina:bata|
-|**bada**|sekvi|araba:بعد‎ (baʿda), svahila:baada, hindia:बाद (bāda)|
 |**badla**|interŝanĝi|araba:(badala), hindia:बदला (badlā), svahila:badili, turka:bedel|
 |**bagaje**|pakaĵo|angla:baggage, franca:bagage, portugala:bagagem, rusa:багаж (bagazh), turka:bagaj, bengala:ব্যাগেজ (bjagej), malaja:bagasi|
 |**bagre**|tigro|hindia:बाघ (bāgh), bengala:বাঘ (bagh), + persa:(babr), + hispana:portugala:tigre, rusa:тигр (tigr)|
@@ -164,6 +164,7 @@
 |**coklate**|ĉokolado|hispana:portugala:angla:chocolate, franca:chocolat, rusa:шоколад (šokolad), mandarena:巧克力 (qiǎokèlì), japana:チョコレート (chokorēto), korea:초콜렛 (chokollet), hindia:चाकलेट (cāklet), bengala:চকলেট (côkleṭ), malaja:cokelat, svahila:chokoleti, turka:çikolata|
 |**cor**|ŝtelo|hindia:marataja:चोरी (corī), urdua:(corī), tha:โจร (chon), malaja:curi, bengala:চুরি (curi)|
 |**cum**|kiso|hindia:चूमना (cūmnā), urdua:(cūmnā), malajala:ചുംബനം (cumbanaṃ), malaja:cium, japana:チュー (chū), taja:จูบ (cup)|
+|**cun**|vilaĝo|mandarena:村 (cūn), kantona:村 (cyun1), japana:村 (son), korea:촌 (chon), vjetnama:thôn|
 |**cupa**|suĉi|hispana:portugala:chupar, kmera:ជប់ (cup)|
 |**cuta**|eliri|mandarena:出 (chū), hakaa:(chut), korea:출 (chul), hindia:छूटना (chūtnā) + turka:çıkmak|
 |**cuza**|elekti|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
@@ -190,7 +191,7 @@
 |**detal**|detalo|angla:detail, hispana:detalle, portugala:detalhe, franca:détail, deu:Detail, rusa:дета́ль (detal’)|
 |**deu**|dio|portugala:deus, malaja:dewa, hindia:देवता (devtā), kanara:(dēva) + angla:theo-, franca:théo-, hispana:teo-, rusa:тео- (teo-)|
 |**dex**|lando|hindia:देश (deś), bengala:দেশ (deś), teluga:(dēśamu)|
-|**dike**|celo|mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích + bengala:দিকে (dike)|
+|**dike**|celo|mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích + bengala:দিকে (dike) + angla:indicate, franca:indiquer, hispana:portugala:indicar|
 |**din**|religio|araba:(dīn), bengala:দীন (din), persa:(din), turka:malaja:din, svahila:dini, haŭsa:addini, hindia:दीन (dīn)|
 |**dinde**|meleagro|franca:dinde, rusa:индюк (indyuk), turka:hindi, araba: دِيك هِنْدِيّ‎ (dīk hindiy)|
 |**ding**|najlo|mandarena:钉 (dīng), kantona:釘 (deng1), vjetnama:đinh|
@@ -229,9 +230,6 @@
 |**eni**|iu ajn|angla:any|
 |**er**|isto (anto)|angla: -er, deu: -er, franca: -eur, hispana: -ero, portugala: -eiro|
 |**eskal**|ŝtuparo|franca:escalier, hispana:escalera, portugala:escada, + angla:scale, deu:Skale, rusa:шкала (škala)|
-|**eskulter**|skultisto|hispana:portugala:escultor, franca:sculpteur, angla:sculptor, rusa:скульптор (skulptor)|
-|**estadia**|stadiono (areno)|franca:stade, portugala:estádio, hispana:estadio, rusa:стадион (stadion), angla:stadium, turka:stadyum, araba:(ʾistād), hindia:स्टेडियम (sṭeḍiyam)|
-|**estasia**|stacio|turka:istasyon, portugala:estação, hispana:estación, filipina:estasyon, urdua:(isṭeśan), angla:franca:station, hindia:स्टेशन (sṭeśan), rusa:станция (stantsiya)|
 |**eurasia**|Eŭrazio|angla:hispana:malaja:Eurasia, portugala:Eurásia, franca:Eurasie, rusa:Евразия (Evraziya), turka:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), araba:يُورَاسِيَا‎ (yūrāsiyā), hindia:यूरेशिया (yūreśiyā), bengala:ইউরেশিয়া (iureśiẏa), mandarena:歐亞大陸 (Ōuyà dàlù), japana:ユーラシア (yūrashiya)|
 |**eureka**|trovi|greka:ευρίσκω (evrísko), angla:hispana:eureka, portugala:eureca, franca:eurêka, rusa:эврика (evrika), turka:efreka, japana:ユーレカ (yūreka)|
 |**Europe**|Eŭropo|angla:franca:Europe, hispana:portugala:deu:polona:Europa, greka:Ευρώπη (Evrópi) rusa:Европа (Evropa), turka:Avrupa, svahila:Uropa, hindia:यूरोप (yūrop), malaja:Eropah, mandarena:歐洲 (Ōuzhōu), japana:ヨーロッパ (yōroppa)|
@@ -454,7 +452,6 @@
 |**keci**|ĝentila|mandarena:客气 (kèqì), kantona:客氣 (haak3 hei3), vua:客氣 (khaq qi4)|
 |**kege**|viziti|mandarena:客 (kè), vua:客 (ka’), japana:客 (kyaku), korea:객 (gaeg), vjetnama:khách, taja:แขก (khæk)|
 |**keke**|kuko|angla:cake, rusa:кекс (keks), araba:(kaʿka), hindia:केक (kek), japana:ケーキ (kēki), svahila:keki, turka:kek|
-|**kel**|sporto|hindia:खेल (khel), bengala:খেলা (khela), taja:กีฬา (kīlā), kmera:កីឡា (keila)|
 |**kenar**|rando (orlo)|turka:kenar, hindia:किनारा (kinārā), urdua:(kanārā)|
 |**kerne**|kerno (koro)|angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)|
 |**kex**|haro|japana:毛 (ke), hindia:केश (keś), urdua:(keś), panĝaba:ਕੇਸ਼ (keś), teluga:(kēśamu), kanara:(kēśa)|
@@ -477,7 +474,6 @@
 |**Kongfuze**|Konfuceo|mandarena:孔夫子 (Kǒng Fūzǐ)|
 |**kono**|kune|mandarena:共 (gòng), kantona:共 (gung4), korea:공 (gong), vjetnama:cộng, japana:共 (kyō-), angla:franca:hispana:portugala:con-|
 |**konserte**|koncerto|angla:franca:concert, hispana:concierto, portugala:concerto, deu:Konzert, rusa:концерт (koncert), malaja:turka:konser, japana:コンサート (konsāto), korea:콘서트 (konseoteu), hindia:कॉन्सर्ट (kŏnsarṭ)|
-|**kontra**|kontraŭ|hispana:portugala:contra, franca:contre, angla:counter-, greka:κόντρα (kontra)|
 |**kope**|kopio|angla:copy, franca:copie, hispana:portugala:copia, rusa:копия (kopiya), hindia:कापी (kāpī), turka:kopya, malaja:kopi, mandarena:拷貝 (kǎobèi), japana:コピー (kopī)|
 |**kora**|kuri|franca:courir, hispana:portugala:correr|
 |**korne**|korno|franca:corne, hispana:cuerno, portugala:corno, angla:horn, araba:(qarn)|
@@ -690,6 +686,7 @@
 |**poli**|multe|greka:πολλοί (polloí), angla:franca:deu:poly-, hispana:portugala:poli-, rusa:поли- (poli-)|
 |**ponta**|montri|angla:point, portugala:apontar, hispana:apuntar, franca:pointer|
 |**porte**|haveno|angla:port, franca:porte, hispana:portugala:porto, rusa:порт (port), hindia:पोर्ट (porṭ), urdua:(porṭ), bengala:পোর্ট (porṭ), taja:พอร์ต (phot)|
+|**pos**|sekvo|angla:franca:post-, hispana:pos, portugala:pós-, rusa:после- (posle-)|
 |**prezidente**|prezidento|angla:president, hispana:portugala:presidente, rusa:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), persa:پرزیدنت‎ (perezident), malaja:presiden|
 |**problem**|problemo|angla:problem, franca:problème, hispana:portugala:problema, rusa:проблема (problema), bengala:প্রব্লেম (prôblem)|
 |**profeser**|profesoro|angla:portugala:professor, hispana:profesor, rusa:профессор (professor), turka:profesör, svahila:profesa, persa:پروفسور‎ (profesor), hindia:प्रोफ़ेसर (profesar)|
@@ -699,7 +696,7 @@
 |**punte**|punkto|hispana:punto, rusa:пункт (punkt), angla:point|
 |**puri**|plena|hindia:पूर्ण (pūrn), bengala:পূর্ণ (pūrṇa), panĝaba:ਪੂਰਾ (pūrā), persa:(por)|
 |**putau**|vinbero|mandarena:葡萄 (pútáo), kantona:葡萄 (pou4 tou4), vua:葡萄 (bu dau3), japana:葡萄 (budō), korea:포도 (podo), vjetnama:bồ đào|
-|**putongi**|generala (universala)|mandarena:普通 (pǔtōng), kantona:普通 (pou2tung1), vjetnama:phổ thông, korea:보통 (botong)|
+|**putongi**|generala|mandarena:普通 (pǔtōng), kantona:普通 (pou2tung1), vjetnama:phổ thông, korea:보통 (botong)|
 |**rai**|opinio|araba:(raʾy), svahila:rai, hindia:राय (rāy), persa:(ra'y), turka:rey|
 |**rampe**|ramplo|franca:rampe, angla:ramp, portugala:hispana:rampa, japana:ランプ (ranpu)|
 |**rang**|koloro|bengala:রং (rông), hindia:रंग (raṅg), urdua:(raṅg), persa:(rang), teluga:రంగు (raṅgu), svahila:rangi, lingala:lángi, turka:renk|
@@ -723,7 +720,6 @@
 |**ruhlojia**|psikologio|turka:ruh bilimi, hindia:मनोविज्ञान (manovigyān), bengala:মনোবিজ্ঞান (mônobiggan), malaja:ilmu jiwa, araba:(ʿilm an-nafs), deu:Seelenkunde, angla:psychology, hispana:psicológia|
 |**ruke**|dorso|deu:Rücken|
 |**rupe**|aspekto|hindia:रूप (rūp), malaja: rupa, taja: รูป (rūp), kmera:រូប (rūp)|
-|**ruste**|vilaĝo|persa:روستا‎ (rustâ), + angla:rustic, portugala:hispana:rustico, franca:rustique|
 |**rutin**|rutino (kutimo)|angla:franca:routine, hispana:rutina, portugala:rotina, deu:Routine, persa:روتین‎ (rutin), rusa:рутина (rutina)|
 |**sabe**|kialo|heb:(sibá), haŭsa:sabo;sababi, konga:sambu, araba:urdua:(sabab), turka:sebep, malaja:sebab, svahila:sababu|
 |**sabun**|sapo|araba:(ṣābūn), turka:sabun, svahila:sabuni, hindia:साबुन (sābun), portugala:sabão, hispana:jabón, franca:savon|
@@ -760,6 +756,7 @@
 |**sistem**|sistemo|angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem|
 |**site**|urbo|angla:city, franca:cité, portugala:cidade, hispana:ciudad, itala:città + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)|
 |**siyahi**|nigra|persa:سیاه‎ (siyâh), hindia:सियाह (siyāh), urdua:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turka:siyah|
+|**skulter**|skultisto|hispana:portugala:escultor, franca:sculpteur, angla:sculptor, rusa:скульптор (skulptor)|
 |**sofa***|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
 |**sofia**|saĝeco|greka:σοφία (sofía) + angla:philosophy, franca:philosophie, hispana:filosofia, rusa:философия (filosofiya), malaja:filsafat, araba:(falsafa), svahila:falsafa, turka:felsefe, hindia:फ़लसफ़ा (falasfā)|
 |**soi**|sojo|angla:soy, franca:hispana:portugala:soja, rusa:соя (soya), araba: صُويَا‎ (ṣūyā), hindia:सोया (soyā), malaja:turka:soya + japana:醤油 (shōyu)|
@@ -769,6 +766,10 @@
 |**song**|pino|mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)|
 |**sosia**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
 |**sosis**|kolbaso|franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage|
+|**speta**|spekti|angla:spectate, franca:hispana:-spect-, portugala:-spet-|
+|**sporte**|sporto|angla:deu:franca:sport, hispana:deporte, portugala:esporte, rusa:спорт (sport), japana:スポーツ (supōtsu), korea:스포츠 (seupocheu), hindia:स्पोर्ट (sporṭ), svahila:spoti, turka:spor|
+|**stadia**|stadiono (areno)|franca:stade, portugala:estádio, hispana:estadio, rusa:стадион (stadion), angla:stadium, turka:stadyum, araba:(ʾistād), hindia:स्टेडियम (sṭeḍiyam)|
+|**stasia**|stacio|turka:istasyon, portugala:estação, hispana:estación, filipina:estasyon, urdua:(isṭeśan), angla:franca:station, hindia:स्टेशन (sṭeśan), rusa:станция (stantsiya)|
 |**sual**|demando|araba: سؤال (su'āl), hindia:सवाल (savāl), malaja:soal, svahila:swali|
 |**suani**|acida|mandarena:酸 (suān), kantona:酸 (syun1), vua:酸 (soe1), japana:酸 (san), korea:산 (san), vjetnama:toan|
 |**suar**|vespero|franca:soir, angla:soiree, rusa:суаре (suare), turka:suare + malaja:sore|

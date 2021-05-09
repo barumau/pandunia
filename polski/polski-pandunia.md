@@ -16,6 +16,7 @@ Afryka - Afrike
 afrykański, Afrykanin - Afriki  
 agorafobia - medenfobia  
 agresywny - agresivi  
+agronomia - agronomia  
 aj!, ał! - ai  
 akacja - babul  
 akacja arabska - arabobabul  
@@ -74,7 +75,7 @@ Antigua i Barbuda - Antigua e Barbuda
 antonim - annam  
 antychryst - ankriste  
 Antyle Holenderskie - Nederlandi Antil  
-antymon - estibem  
+antymon - stibem  
 apsik - acu\*  
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabi  
@@ -362,7 +363,7 @@ ciężarny (w ciąży) - hamili
 ciężki (masywny) - bari  
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanci  
-cmentarz - gabrotopia  
+cmentarz - gabrostan  
 cnota (moralność) - bondeke  
 cnotliwy (prawy) - bondeki  
 co? - ke  
@@ -374,7 +375,8 @@ cukier - sukar
 cukierek, słodycze - kande  
 cukinia - lilkaboge  
 cukrowiec jadalny - yamsukarcau  
-cynk - estan  
+cwał (galop) - galope  
+cynk - stan  
 cynk - zinke  
 Cypr - Kipris  
 Cypr Północny - Nordi Kipris  
@@ -784,7 +786,7 @@ góra, wzgórze - xan
 górnik (kopacz) - kuanger  
 górny - supri  
 gówno - xite  
-gąbka - esponje  
+gąbka - sponje  
 gładki - lisi  
 głaz - daixeke  
 głos - vote  
@@ -815,7 +817,7 @@ haszysz - haxix
 hasło - sekurkode  
 Hawaje (archipelag hawajski) - Havai nesia  
 Hawaje - Havai  
-hałas - keler  
+hałas - sporter  
 hebel, strug - rande  
 heblować - randa  
 hebrajski - ibri  
@@ -840,7 +842,7 @@ Hiszpania - Espania
 hmm - hem  
 Ho Chi Minh (Sajgon) - Ho Ci Min site  
 hobby - hobe  
-hodowla zwierząt - zoujenitia  
+hodowla zwierząt - zovagria  
 hojność (szczodrość) - karimia  
 hojny (szczodry) - karimi  
 hokej - hoke  
@@ -984,7 +986,7 @@ Joruba - yorubi
 Jowisz - Jupiter  
 judaizm - yehudistia  
 judo - judau  
-jutro - badodeno  
+jutro - posdeno  
 już (skończona czynność) - fino  
 jęczmień - jau  
 język - lisan  
@@ -1148,7 +1150,7 @@ koniec - fin
 konkani - Konkani  
 konkurować, rywalizować; odbyć mecz, odbywać mecz - meca  
 konopie - ganje  
-konsekwencja, skutek - bade  
+konsekwencja, skutek - pos  
 konstytucja - bazokanun  
 kontynuować; wznawiać, ponawiać - zoku  
 konwalia majowa - vadosusan  
@@ -1485,7 +1487,10 @@ mieć sens - razonu
 migdał - badam  
 migracja - migre  
 mikro- - mikro\*  
+mikrobiologia - mikrobiulojia  
 Mikronezja - Mikronesia  
+mikroorganizm  (mikrob) - mikrobiu  
+mikroskop - mikroskope  
 mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixa  
 mili- - mili\*  
@@ -1645,7 +1650,7 @@ narodziny - jen
 narzędzie - tul  
 naród, narodowość - nasia  
 nasienny - semi  
-następny (następujący) - badi  
+następny (następujący) - posi  
 natura, środowisko - ekia  
 nauczyciel - xulaner  
 nauczyć się, uczyć się, studiować - xula  
@@ -1678,7 +1683,7 @@ neuropatia - neurpatia
 Nevis - Nevis  
 nic, żadna rzecz - nol xei  
 nie - no  
-nie ruszać się - estasu  
+nie ruszać się - stasu  
 nie zgadzać się - alraya  
 niebezpieczeństwo, ryzyko, szansa - zar  
 niebezpieczny - hatri  
@@ -2070,7 +2075,7 @@ podstawa, baza, fundament - baze
 poduszka - kuxen  
 podwajać (podwoić, pomnożyć przez dwa) - dulo multa  
 podziemny - geunici  
-podążać - bada  
+podążać - posa  
 podłoga - kamartal  
 poemat - xir  
 poeta - xirer  
@@ -2309,7 +2314,7 @@ przykład - misal
 przymiotnik - sifloge  
 przymus - mus  
 przyprawa - masal  
-przyrostek (sufiks) - badofikse  
+przyrostek (sufiks) - posfikse  
 przyrostek dla (wyniku) działania - -e  
 przyrostek dla czasowników z szykiem zdania OV####S - -u  
 przyrostek dla czasowników z szykiem zdania SV####O - -a  
@@ -2342,7 +2347,7 @@ puma (kuguar) - puma\*
 punkt - binde  
 pustka - kal  
 pusty - kali  
-pustynia - regotopia  
+pustynia - regostan  
 pułapka - kapotruke  
 pyszny - yami  
 pytajny, związany z pytaniem - sualan  
@@ -2352,14 +2357,14 @@ półka (regał na książki) - liboban
 północ - norde  
 północny - nordi  
 półwysep - yagones  
-później - bado  
+później - poso  
 pękać (rozrywać się) - parcokayu  
 pęknięcie - krake  
 pęknąć (rozpaść się) - fenu  
 płakać, łkać - kuga  
 płaski - plati  
 płaski chleb, ćapati - capate  
-płaskowyż (plateau) - mezotopia  
+płaskowyż (plateau) - mezostan  
 płaskoziemca - platogeviste  
 płaszcz - kote  
 płaszcz nieprzemakalny - barxokote  
@@ -2437,7 +2442,7 @@ rodzynka - ganputau
 roentgen - rentogenem  
 rok - nen  
 rola - rol  
-rolnik, farmer - nonger  
+rolnik, farmer - agrer  
 romantyczny - romansi  
 ropa naftowa - petronefte  
 rosa - ros  
@@ -2506,10 +2511,10 @@ rzecz - xei
 rzeczownik - namloge  
 rzeka - riu  
 rzemieślnik - janger  
-rzeźba - eskulte  
-rzeźbiarstwo - eskultia  
-rzeźbiarz - eskulter  
-rzeźbić - eskulta  
+rzeźba - skulte  
+rzeźbiarstwo - skultia  
+rzeźbiarz - skulter  
+rzeźbić - skulta  
 rzodkiewka - lobake  
 rzucić, rzucać, miotać, cisnąć, ciskać - lanca  
 rzut (projekcja) - lancograf  
@@ -2522,7 +2527,7 @@ rzęsa - okokex
 róg - buge  
 róg - korne  
 równik - geuparlin  
-równina (plaskowyż, plateau) - platotopia  
+równina (plaskowyż, plateau) - platostan  
 równoległy (podłużny) - parlini  
 równy - pari  
 równy - parike  
@@ -2559,7 +2564,7 @@ satanista - xataniste
 satanizm - xatanistia  
 Saturn - Saturne  
 sauna - sauna\*  
-sawanna - garmozoni cautopia  
+sawanna - garmozoni caustan  
 sałata - letis  
 sałatka - salade  
 scena - sen  
@@ -2665,7 +2670,7 @@ spodnie (pantalony, portki) - pante
 spodziewany (przewidziany) - cenvidi  
 spokojny - xanti  
 sporokarp - fungopal  
-sport, lekkoatletyka - kel  
+sport, lekkoatletyka - sporte  
 sposób (metoda, tryb) - mode  
 spotkanie, zebranie - mite  
 spotkać - mita  
@@ -2692,8 +2697,8 @@ Sri Lanka - Lanka
 srom - vulve  
 ssak - mamal  
 ssać - cupa  
-stacja - estasia  
-stadion, arena - estadia  
+stacja - stasia  
+stadion, arena - stadia  
 stan - hal  
 Stan Nowy Jork - Novi Yorke site  
 Stany Zjednoczone Ameryki - Uniti Dex Da Amerike (UDA)  
@@ -2701,7 +2706,7 @@ Starożytny Egipt (Kemet) - Kemia
 stary (sędziwy, wiekowy) - lavi  
 stary, starożytny - ceniki  
 starzec - lau  
-statyczny, stacjonarny, nieruchomy - estasi  
+statyczny, stacjonarny, nieruchomy - stasi  
 stać - libu  
 stały (sztywny) - gatomati  
 sterburta (prawa burta) - nauraite  
@@ -2724,12 +2729,13 @@ strażnik więzienny - prizoner
 strażnik, ochroniarz - garder  
 strona (bok) - late  
 strona - varkolate  
-stront - estrontem  
+stront - strontem  
 strzała (bełt) - flece  
 strzelać (strzelić) - pava  
 strzykwa - haihiyar  
 strzępić (drzeć) - circira  
-studio (pracownia) - estudia  
+student - studer  
+studio (pracownia) - studia  
 styczeń - unlun  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parca  
@@ -2789,7 +2795,7 @@ sześć (6) - sisi
 szisz kebab - xixkababe  
 szkielet - ostojamia  
 szklić (glazurować) - kancodaka  
-Szkocja - Eskotia  
+Szkocja - Skotia  
 szkoła (instytucja) - xulkan  
 szkoła podstawowa - bazoxulkan  
 szkło - kance  
@@ -2883,6 +2889,7 @@ teizm - devistia
 tektonika płyt - plati geukaskia  
 telefon - telfon  
 teleportować się - teloloku  
+teleskop - teloskope  
 telewizja - telvide  
 tellur - telurem  
 telugu - telugi  
@@ -3031,7 +3038,7 @@ Unia Europejska (EU) - Europi Unia
 uniwersytet - daixulkan  
 upadły - padi  
 uprawiać jogę - yoga  
-uprawić, uprawiać - nonga  
+uprawić, uprawiać - agra  
 uprzejmy - keci  
 upuścić, upuszczać - pada  
 Uran - Uran  
@@ -3122,13 +3129,14 @@ wiara, wierzenie, kredo - xin
 wiatr - hau  
 wiatrak (wentylator) - panke  
 wice- - visi  
+wicekról - visrajer  
 wiceprezydent - visprezidente  
 widelec - forke  
 widok, wzrok - vide  
 wieczór - suar  
 wiedza - sau  
 wiedzieć - sava  
-wiejski, rustykalny - rusti  
+wiejski, rustykalny - agrostani  
 wiek - umur  
 wielbłąd, wielbłądzica - gamel  
 wiele - multi  
@@ -3150,8 +3158,8 @@ wierzący (osoba religijna) - diniste
 Wietnam - Vietia  
 wietnamski - vieti  
 wiewiórka - ekor  
-wieś, tereny wiejskie - rustia  
-wieś, wioska - ruste  
+wieś, tereny wiejskie - agrostan  
+wieś, wioska - cun  
 wieża - minar  
 wieża zegarowa - horlogerminar  
 wilk - volfe  
@@ -3383,7 +3391,7 @@ zasób - faide
 zasłona, kurtyna - parde  
 zatkać, ztykać - tapa  
 zatoka - bai  
-zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - estasa  
+zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - stasa  
 zatrzymać - tinga  
 zatrzymać się - tingu  
 zawias, oś - xarnir  
@@ -3513,7 +3521,7 @@ zły, zrujnowany, zepsuty - harabi
 łóżko - bede  
 łączyć (złączyć) - rivunu  
 łączyć, wiązać, złączyć - linka  
-łąka - cautopia  
+łąka - caustan  
 Święta Helena - Santi Helena  
 ścieżka (droga, szlak, kurs) - rute  
 ścisnąć (sciskać, wycisnąć) - inpuxa  

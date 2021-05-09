@@ -24,6 +24,9 @@ afegão - afgani
 agacharse - insida  
 agente - ater  
 agressor - agreser  
+agrobiologia - agrobiulojia  
+agronomia - agronomia  
+agrícola - agri  
 ai! - ai  
 ainda - zoko  
 alaranjado - oranji  
@@ -31,6 +34,7 @@ alcachofra - karcof
 alcachofra-girassol (tupinambo) - masmulsolful  
 alcalino - alkali  
 alcaravia (cariz) - karau  
+aldeia (vila) - cun  
 alface - letis  
 alfinete - pin  
 alga - alge  
@@ -53,7 +57,7 @@ analógico - zoki
 andesito - andesite  
 anel - ring  
 animal (besta, bicho) - zou  
-antimônio - estibem  
+antimônio - stibem  
 anzol - pexhuke  
 análise - fenkate  
 aperfeiçoar - purbona  
@@ -203,7 +207,7 @@ cavar (escavar) - kava
 caçar - saida  
 cebola - piaze  
 cem (100) - xoti  
-cemitério - gabrotopia  
+cemitério - gabrostan  
 cenoura - karote  
 centro - jung  
 centáurea - centaur  
@@ -288,6 +292,7 @@ cruz - krus
 crème - krem  
 crónico - duriki  
 cubo - kube  
+cultivar - agra  
 cume (pico, topo) - xanpike  
 cápsico - cili\*  
 cão (cachorro) - vaf  
@@ -353,6 +358,7 @@ emoticon (emoji) - emoje
 emoçao - emos  
 emprestar (pedir emprestado) - jeka  
 emprestar - jekodona  
+encarar (afrontar; vérsus) - versu  
 encontrar - mita  
 endereço - adres  
 enganar - truka  
@@ -362,6 +368,7 @@ ensino secundário - jungoxulkan
 ensopar (encharcar, marinar) - purxipa  
 enteado - gamben  
 enterrar - gabra  
+entrar - intru  
 enxada - cope  
 erro (falta) - galte  
 errôneo - galti  
@@ -374,26 +381,30 @@ escrevere - kitaba
 escrita - kitabe  
 escudo - defban  
 escudo - ostoxalke  
-escultor - eskulter  
+escultor - skulter  
 esfarrapado - circiri  
 eslavo - slavi  
 esmeralda - zumurude  
 espada - katan  
 espaço - kali harfe  
+espetador - speter  
 espirrar - acua  
 espodossolo - huidarte  
-esponja - esponje  
+esponja - sponje  
+esporte - sporte  
 esposo ou esposa - gam  
 esquecer - anmema  
 esqueleto - ostojamia  
 esquerdo - lefte  
 esquilo - ekor  
 estado - hal  
-estanho - estan  
+estanho - stan  
 estar deitado (jazer) - kuxu  
 estação (sazão) - mosim  
 este (leste) - dong  
 estirar - tirlonga  
+estudante - studer  
+estudar (examinar) - studa  
 etimologia - logaslia  
 etnia - zuke  
 eu (me) - me  
@@ -453,6 +464,7 @@ futebol - futobol
 fácil - fasili  
 ####G - G  
 gaiola (jaula) - batonkapse  
+galope - galope  
 galáxia - galaksia  
 gamão - narde  
 gancho - huke  
@@ -657,6 +669,9 @@ mesa - meze
 mestre - mester  
 meta (gol) - gol  
 metro - mitre  
+microbiologia - mikrobiulojia  
+microscópio - mikroskope  
+micróbio - mikrobiu  
 migração - migre  
 mina - kuangia  
 mirar (apontar) - dika  
@@ -839,6 +854,7 @@ Porto Rico - Portorikia
 porto-riquenho - portoriki  
 possível - abli  
 poste (estaca) - zong  
+posterior - postri  
 poucos - xavi  
 prancheta - pinsoban  
 prata - argente  
@@ -912,6 +928,7 @@ reserva - rezerve
 resposta - javabe  
 resto - reste  
 reto - orti  
+retornar - retra  
 rim - nefre  
 rima - rim  
 ringue - ringar  
@@ -932,6 +949,7 @@ sabedoria (sagacidade, sapiência) - sofia
 saber (conhecer) - sava  
 sacada (varanda) - berande  
 saco - sake  
+sair - extru  
 sal - sal  
 sala (câmara) - kamar  
 salino - sali  
@@ -1002,6 +1020,7 @@ tear - texmaxin
 tectónica de placas - plati geukaskia  
 telefonar - telfona  
 telefonia - telfonia  
+telescópio - teloskope  
 temer - fobu  
 tempero - masal  
 templo - pujokan  
@@ -1015,6 +1034,7 @@ teosofia - deusofia
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
+terra natal - jenostan  
 terracota - bekofan  
 terraplanista - platogeviste  
 terreno - geuforme  
@@ -1057,6 +1077,7 @@ um (1) - un (uni)
 um ao outro - ses  
 uma vez - unmaro  
 unicamente - uniko  
+universal - unversi  
 Urano - Uran  
 urra - ura  
 urso - urse  
@@ -1089,6 +1110,7 @@ verruga - zeyil
 verão - garmomosim  
 vestir - fuka  
 vez - mar  
+vice-rei - visrajer  
 vida - jiu  
 vidro - kance  
 vir - laya  
@@ -1097,7 +1119,7 @@ viúvo - vidou
 voar - feyu  
 vocabulário - logia  
 vogal - jungofon  
-voltar (retornar) - retru  
+voltar (regressar) - retru  
 vontade - vol  
 voo - fei  
 votar - vota  
@@ -1118,6 +1140,7 @@ zumbi - zombe
 ágil - ajili  
 água - sui  
 álcool - alkol  
+área de acampamento - kampostan  
 área de transferência - katoglutoban  
 árvore - moke  
 áspero - karsi  

@@ -24,6 +24,9 @@ Afriki - afrika
 afrikofilia - afrikamanteco  
 afrikofiler - afrikamanto  
 aga - se  
+agri - agrikultura  
+agre - agrikulturo  
+agronomia - agronomio  
 agres - atako (agreso)  
 agresivi - agresema  
 aha - kompreni  
@@ -132,10 +135,6 @@ automoti - memmova
 babe - ĉapitro  
 babuce - pantoflo  
 bace - infano  
-bada - sekvi  
-bade - sekvo  
-badi - sekva  
-badodeno - morgaŭ  
 badavi - beduino (nomado)  
 badla - interŝanĝi  
 bagaje - pakaĵo  
@@ -326,6 +325,7 @@ cor - ŝtelo
 cora - ŝteli  
 corer - ŝtelisto  
 cum - kiso  
+cun - vilaĝo  
 cupa - suĉi  
 cuta - eliri  
 cute - eliro  
@@ -468,15 +468,9 @@ Eris - Eris (planedeto)
 Eritria - Eritreo  
 eskal - ŝtuparo  
 eskandem - skandio  
-eskulta - skulti  
-eskulte - statuo (skultaĵo)  
-eskulter - skultisto  
 Espania - Hispanio  
 esperanti - Esperanto  
 Estia - Estonio  
-estadia - stadiono (areno)  
-estasia - stacio  
-estrontem - stroncio  
 Etiopia - Etiopio  
 evanjil - evangelio  
 eurasia - Eŭrazio  
@@ -494,6 +488,7 @@ exklusa - ekskludi
 explanete - ekzoplanedo  
 exploze - eksplodo  
 explozu - eksplodi  
+extro - ekster  
 exvidi - evidenta  
 ####F - F  
 faidi - utila  
@@ -602,7 +597,7 @@ futobol - piedpilko
 ####G - G  
 gabra - enterigi  
 gabre - tombo  
-gabrotopia - tombejo  
+gabrostan - tombejo  
 gabroxeke - tomboŝtono  
 gade - azeno  
 gadolinem - gadolinio  
@@ -847,6 +842,7 @@ jena - naskigi
 jeni bax - hejmlingvo  
 jenu - naski  
 jenden - naskiĝtago  
+jenostan - naskiĝejo  
 jeng - milito (batalo)  
 jengi - milita  
 jinse - sekso  
@@ -945,7 +941,6 @@ kega - vizito
 kege - viziti  
 keger - vizitanto  
 keke - kuko  
-kel - sporto  
 kenar - rando (orlo)  
 kerne - kerno (koro)  
 kerni arme - kernarmilo  
@@ -995,9 +990,9 @@ koncaniste - komunisto
 koncanistia - komunismo  
 konkara - kunlabori  
 konsau - informacio  
+kontra - kontraŭi  
 Kongfuze - Konfuceo  
 konserte - koncerto  
-kontra - kontraŭ  
 kopa - kopii  
 kope - kopio  
 kopernikem - kopernicio  
@@ -1178,6 +1173,9 @@ Myanma - Birmo
 mien - nudelo  
 migre - migrado  
 mikro\* - mikro-  
+mikrobiu - mikrobo  
+mikrobiulojia - mikrobiologio  
+mikroskope - mikroskopo  
 mili\* - mili-  
 milimitre - milimetro  
 milke - lakto  
@@ -1402,6 +1400,10 @@ polskem - polonio
 ponta - montri  
 porte - haveno  
 Portorikia - Portoriko  
+pos - sekvo  
+posa - sekvi  
+posi - sekva  
+posdeno - morgaŭ  
 pospor - fosforo  
 postokan - poŝtejo  
 postomarke - poŝtmarko  
@@ -1424,7 +1426,7 @@ puro - plene
 purfina - kompleti  
 putau - vinbero  
 Putong Cini - mandarinĉina  
-putongi - generala (universala)  
+putongi - generala  
 ####R - R  
 radi geter - radio  
 radem - radiumo  
@@ -1442,9 +1444,11 @@ rasiste - racisto
 rasistia - racismo  
 rasmedi - interrasa  
 rastu - kreski  
+retre - reiro  
+retru - reiri  
 redi - preta  
 rege - sablo  
-regotopia - dezerto  
+regostan - dezerto  
 rei - ripetado  
 reya - ripeti (refari)  
 reyo - denove (ripete)  
@@ -1455,8 +1459,6 @@ reisikla - recikligi
 renem - renio  
 rentogenem - rentgenio  
 restorante - restaŭracio  
-retre - reiro  
-retru - reiri  
 rezerve - rezervo  
 rezin - rezino  
 ris - rizo  
@@ -1479,7 +1481,6 @@ ruhlojia - psikologio
 ruke - dorso  
 rupe - aspekto  
 rusi krepe - rusa krepo  
-ruste - vilaĝo  
 rutenem - rutenio  
 ruterfordem - ruterfordio  
 rutin - rutino (kutimo)  
@@ -1572,6 +1573,9 @@ sisyom - sabato
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
+skulta - skulti  
+skulte - statuo (skultaĵo)  
+skulter - skultisto  
 sofi - saĝa  
 sofia - saĝeco  
 sofa\* - sofo  
@@ -1588,6 +1592,13 @@ son - sono
 song - pino  
 sosia - socio  
 sosis - kolbaso  
+speta - spekti  
+speter - spektanto  
+sporte - sporto  
+stadia - stadiono (areno)  
+stasia - stacio  
+strontem - stroncio  
+studer - studento  
 suahili - sŭahili  
 sual - demando  
 suala - demandi  
@@ -1648,6 +1659,7 @@ teli - malproksima
 telia - malproksimeco  
 telfon - telefono  
 telfona - telefoni  
+teloskope - teleskopo  
 telvide - televidilo  
 telurem - teluro  
 tem - temo  
@@ -1724,10 +1736,13 @@ vike - vikia artikulo
 vil - estonoteco  
 vilo - estonte  
 vin - vino  
+vinsuan - vinagro  
 vir - heroo  
 viri - heroa  
 visi - vic-  
 visloge - pronomo  
+vismai - vicpatrino  
+vispai - vicpatro  
 umur - aĝo  
 un (uni) - unu (1)  
 unia - uniono  
@@ -1747,9 +1762,6 @@ uranem - uranio
 urse - urso  
 vulve - vulvo  
 uza - uzi  
-vinsuan - vinagro  
-vismai - vicpatrino  
-vispai - vicpatro  
 ####X - X  
 xake - branĉo  
 xal - koltuko  

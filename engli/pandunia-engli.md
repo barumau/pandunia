@@ -29,6 +29,15 @@ Afriki - African
 afrikofilia - Afrophilia  
 afrikofiler - afrophile  
 aga - if (suppose, assume)  
+agra - cultivate (farm)  
+agri - agricultural  
+agre - agriculture  
+agrer - farmer  
+agrobiulojia - agrobiology  
+agrocun - rural village  
+agronomia - agronomy  
+agrostan - countryside  
+agrostani - rural (rustic)  
 agres - attack (assault, aggression, hostility)  
 agresa - attack (assault)  
 agreser - aggressor  
@@ -251,12 +260,6 @@ babe - chapter (section)
 babuce - slipper  
 babul - thorn tree (acacia)  
 bace - child (minor)  
-bada - follow (come after)  
-bade - consequence (back, follow-up)  
-badi - next (following, back)  
-bado - later (after)  
-badodeno - tomorrow  
-badofikse - suffix  
 badam - almond  
 badavi - bedouin (nomadic)  
 badla - exchange (swap, replace, trade)  
@@ -515,13 +518,14 @@ capa - press (imprint)
 cape - print (stamp)  
 capate - flatbread (chapati, roti)  
 cari - four (4)  
+cargalope - gallop  
 cargon - square (tetragon)  
 caryom - Thursday  
 carlun - April  
 carme - charm (attraction)  
 cate - roof  
 cau - grass  
-cautopia - grassland  
+caustan - grassland (prairie)  
 Cehia - Czech Republic  
 ceka - check (to examine)  
 cel - cell (biology)  
@@ -584,6 +588,7 @@ Cosen - Korea
 Coseni - Korean  
 Cvana - Botswana  
 cum - kiss  
+cun - village  
 cupa - suck (absorb)  
 cuta - leave (go out, exit)  
 cute - exit (leaving)  
@@ -695,7 +700,7 @@ deusage - myth (divine story)
 deusofia - theosophy  
 dex - country (land, state)  
 dexojan - citizen  
-dika - aim at (for, toward)  
+dika - aim (point)  
 dike - target (aim, objective)  
 din - religion (worship)  
 dini - religious  
@@ -849,25 +854,10 @@ eskala - climb (get on)
 eskaltan - vine  
 Eskandia - Scandinavia  
 eskandem - scandium  
-Eskotia - Scotland  
-eskulta - sculpt (carve)  
-eskulte - sculpture (statue)  
-eskultia - sculpture (art of sculpting)  
-eskulter - sculptor  
 Espania - Spain  
 espanfoni - hispanophone (Spanish speaking)  
 esperanti - Esperanto  
-esponje - sponge  
 Estia - Estonia  
-estadia - stadium (arena)  
-estan - tin  
-estasa - hold (detain)  
-estasi - static (stationary)  
-estasia - station  
-estasu - stand still  
-estibem - antimony  
-estrontem - strontium  
-estudia - studio  
 Etiopia - Ethiopia  
 evi - beneficial (good)  
 evanjil - gospel (divine message)  
@@ -875,6 +865,7 @@ eudevistia - eutheism
 eujenistia - eugenics  
 euloga - praise (eulogize)  
 euloge - praise (eulogy)  
+euspeti - auspicious  
 eutopia - utopia  
 eurasia - Eurasia  
 eureka - find (discover)  
@@ -903,6 +894,10 @@ exploze - explosion
 explozu - explode  
 expoza - expose (reveal)  
 extensa - extend (stretch out)  
+extri - outward (external)  
+extro - outside  
+extru - exit (get out)  
+extroversi - extrovert (outgoing)  
 extrata - extract (draw out)  
 exvidi - evident (apparent, obvious)  
 ####F - F  
@@ -1079,7 +1074,7 @@ futau - axe (hatchet)
 Gabon - Gabon  
 gabra - bury  
 gabre - grave (tomb)  
-gabrotopia - graveyard  
+gabrostan - graveyard (cemetery, burial ground)  
 gabroxeke - tombstone (gravestone)  
 gade - donkey (ass)  
 gadogude - mule  
@@ -1089,6 +1084,7 @@ Galia - Gaul
 galem - gallium  
 galaksia - galaxy  
 galeria - gallery (exhibition hall)  
+galope - canter and gallop  
 galta - make a mistake  
 galte - mistake (error, fault, blunder, bug)  
 galti - wrong (incorrect, erroneous, faulty)  
@@ -1127,7 +1123,7 @@ garmomosim - summer
 garmomosimmedi den - Midsummer Day  
 garmozon - tropics  
 garmozoni - tropical  
-garmozoni cautopia - savannah  
+garmozoni caustan - savannah  
 gas - gas  
 gasa - gasify (vaporize)  
 gasi - gaseous  
@@ -1352,6 +1348,7 @@ Hindia - Hindustan
 hindem - indium  
 hindiste - Hindu  
 hindistia - Hinduism  
+hindostani - Hindustani language  
 Hiperyon - Hyperion  
 hisaba - calculate  
 hisabe - calculation  
@@ -1464,6 +1461,7 @@ in - inside (interior)
 inda - contain (include)  
 indi - inner (internal)  
 inan - container  
+indika - indicate (point into)  
 inite - content  
 injeni - innate (endogenous, indigenous, inborn)  
 inklusa - include (enclose, hold in)  
@@ -1478,6 +1476,14 @@ inploze - implosion
 inplozu - implode (collapse)  
 inpuxa - squeeze (squish)  
 insida - crouch (squat)  
+inspeta - inspect  
+intra - enter (insert, put in)  
+intre - inside (interior)  
+intri - inward (internal)  
+intro - inside  
+intru - enter (get in)  
+introspete - introspection  
+introversi - introvert  
 Indonesia - Indonesia  
 insan - human being  
 insani hake - human rights  
@@ -1574,6 +1580,7 @@ jenden - birthday
 jengrupe - generation (cohort)  
 jenita - breed  
 jenklas - caste  
+jenostan - birthplace  
 jentipe - genotype  
 jeng - fight (war, battle, combat)  
 jengi - military (martial, warlike)  
@@ -1688,6 +1695,7 @@ kamisi xake - sleeve
 kamote - sweet potato  
 kampe - camp  
 kamper - camper  
+kampostan - campground  
 kamri - Welsh  
 Kamria - Wales (Cambria)  
 kan - shop (store or workshop)  
@@ -1771,8 +1779,6 @@ kega - visit
 kege - visitation (visit)  
 keger - visitor (guest)  
 keke - cake (cookie)  
-kel - sport (athletics)  
-keler - athlete (sportsman)  
 kelel - noise  
 kelvin - kelvin  
 Kemia - Ancient Egypt (Kemet)  
@@ -1886,6 +1892,7 @@ konsau - information (communicable knowledge)
 konsavana - communicate (inform about)  
 konsela - give consultation  
 konseler - counselor (consultant)  
+kontra - go against  
 kontrete - pact (contract, covenant, alliance)  
 Konakri Ginia - Guinea  
 koncung - insect  
@@ -1895,7 +1902,6 @@ Kongfuze - Confucious
 kongfuzistia - Confucianism  
 Konkani - Konkani  
 konserte - concert  
-kontra - be against  
 konus - cone  
 kopa - copy (replicate)  
 kope - copy (duplicate, replica)  
@@ -2328,14 +2334,18 @@ metrun - unit (measurement)
 Mexiko - Mexico  
 Mexiko site - Mexico City  
 meze - table  
+mezostan - plateau (tableland)  
 mezotex - tablecloth  
-mezotopia - plateau (tableland)  
 Myanma - Myanmar (Burma)  
 mien - noodle  
 migra - move (migrate, relocate)  
 migre - migration (moving)  
 migru - move (migrate, relocate oneself)  
+mikri - tiny (microscopic)  
 mikro\* - micro-  
+mikrobiu - microorganism (microbe)  
+mikrobiulojia - microbiology  
+mikroskope - microscope  
 Mikronesia - Micronesia  
 mili\* - milli-  
 miligram - milligram  
@@ -2569,8 +2579,6 @@ nol xei - nothing
 nola - cancel (nullify)  
 noma - manage (organize)  
 nomia - management (arrangement, -nomy)  
-nonga - cultivate (farm)  
-nonger - farmer  
 norde - north  
 nordi - northern  
 Nordi Aire - Northern Ireland  
@@ -2847,8 +2855,8 @@ plati - flat (planar)
 plati geukaskia - plate tectonics  
 platoforme - platform  
 platogeviste - flat-earther  
+platostan - plain (plateau, flat lands)  
 platotas - plate  
-platotopia - plain (plateau, flat lands)  
 platinem - platinum  
 Platon - Plato  
 platoniste - Platonist  
@@ -2898,6 +2906,14 @@ portoriki - Puerto Rican
 Portorikia - Puerto Rico  
 Portugal - Portugal  
 portugalfoni - lusophone (Portuguese speaking)  
+pos - consequence (back, follow-up)  
+posa - follow (come after)  
+posi - next (following, back)  
+poso - later (after)  
+posdeno - tomorrow  
+posfikse - suffix  
+pospoza - put back (postpone)  
+postri - backward (posterior)  
 pospor - phosphorus  
 posta - mail (send by mail)  
 poste - mail  
@@ -2953,7 +2969,7 @@ purxipa - soak (steep, marinate)
 putau - grape  
 putavoranje - grapefruit  
 Putong Cini - Mandarin Chinese (Putonghua)  
-putongi - common (general, universal)  
+putongi - common (general)  
 puxa - push  
 puxer - piston  
 ####R - R  
@@ -3000,13 +3016,20 @@ ratibi - orderly (organized, in sequence, tidy, regular)
 razon - reason (rational thinking)  
 razoni - rational (reasonable)  
 razonu - make sense  
+retra - return (put back)  
+retre - return (way back)  
+retro - backward (in reverse)  
+retru - return (get back)  
+retrogula - throw up (vomit, regurgitate)  
+retroguli sense - nausea (motion sickness)  
+retrotikete - return ticket  
 Rea - Rhea  
 rebel - rebellion  
 reda - prepare (make ready)  
 redi - ready (prepared)  
 rege - sand  
 regopetre - sandstone  
-regotopia - desert  
+regostan - desert  
 rei - repetition  
 reya - repeat (iterate)  
 reyo - again (repeatedly)  
@@ -3025,12 +3048,6 @@ reside - receipt (acknowledgement)
 reste - rest (remainder)  
 restu - remain (stay)  
 restorante - restaurant  
-retre - return (way back)  
-retro - backward (in reverse)  
-retru - return (go back)  
-retrogula - throw up (vomit, regurgitate)  
-retroguli sense - nausea (motion sickness)  
-retrotikete - return ticket  
 Reunion - Réunion  
 rezerva - reserve (book)  
 rezerve - reservation (booking, withholding)  
@@ -3100,9 +3117,6 @@ rupu - seem
 rusi - Russian  
 rusi krepe - blini  
 Rusia - Russia  
-ruste - village  
-rusti - rural (rustic)  
-rustia - countryside  
 rute - route (path, trail, course, itinerary)  
 rutogalta - stray (deviate)  
 rutogalti - stray (deviant)  
@@ -3305,6 +3319,12 @@ sistemi - systemic
 site - city (town)  
 sivili - civilized (civil)  
 sivilia - civilization  
+skope - scope (viewer)  
+Skotia - Scotland  
+skulta - sculpt (carve)  
+skulte - sculpture (statue)  
+skultia - sculpture (art of sculpting)  
+skulter - sculptor  
 slavi - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -3343,6 +3363,24 @@ sosiste - socialist
 sosistia - socialism  
 sosis - sausage  
 Soto - Lesotho  
+speta - watch (observe, spectate)  
+speter - spectator (observer)  
+sponje - sponge  
+sporte - sport (athletics)  
+sporter - athlete (sportsman)  
+stadia - stadium (arena)  
+stan - tin  
+stan - tract (land, ground, region)  
+stasa - hold (detain)  
+stasi - static (stationary)  
+stasia - station  
+stasu - stand still  
+stibem - antimony  
+strontem - strontium  
+studa - study (work in order to practise or demonstrate)  
+stude - study (work made in order to practise or demonstrate)  
+studia - studio  
+studer - student  
 suahili - Swahili  
 sual - question (query, inquiry)  
 suala - ask (inquire)  
@@ -3482,6 +3520,7 @@ telfona - call on the phone
 telfonia - telephony  
 telfonlin - telephone line  
 teloloku - teleport  
+teloskope - telescope  
 telvide - television  
 telugi - Telugu  
 telurem - tellurium  
@@ -3636,6 +3675,7 @@ UDA du - American (US)
 vei - tail  
 veyi - traverse (horizontal)  
 veilin - weft  
+veisirke - latitude  
 venda - sell (vend)  
 vendoxopa - trade (buy and sell)  
 vendoxope - trade (commerce)  
@@ -3651,6 +3691,8 @@ vero - truly (indeed, very)
 verita - verify (authenticate)  
 verme - worm  
 vermute - vermouth  
+versa - turn around (flip)  
+versu - face (versus)  
 version - version (variation, edition)  
 vespe - bee or wasp  
 vesponide - bee nest (beehive, wasp's nest)  
@@ -3678,6 +3720,7 @@ viman - airplane
 vimankaper - plane hijacker  
 vin - wine  
 vinkan - winery  
+vinsuan - vinegar  
 ving - wing  
 vinil - vinyl  
 vir - hero  
@@ -3689,7 +3732,10 @@ vis - alternative (substitute, replacement)
 visa - substitute (replace)  
 visi - vice (deputy)  
 visloge - pronoun  
+vismai - step-mother  
+vispai - step-father  
 visprezidente - vice-president  
+visrajer - viceroy  
 viske - whisky (whiskey)  
 vite - screw  
 vize - visa  
@@ -3719,6 +3765,7 @@ unmeni - unambiguous
 unodi - first (number one)  
 unoki lense - monocle  
 unrangi - monochrome  
+unversi - universal  
 voda - promise (pledge)  
 vode - promise (vow, oath)  
 vodun - voodoo  
@@ -3746,10 +3793,6 @@ uzabli - usable (available)
 uzer - user  
 uzernam - username  
 Uzbekia - Uzbekistan  
-veisirke - latitude  
-vinsuan - vinegar  
-vismai - step-mother  
-vispai - step-father  
 ####X - X  
 xake - branch (bough)  
 xakal - jackal  
@@ -3888,9 +3931,9 @@ zong - post (stake, peg, skewer)
 zonga - impale (stab, skewer)  
 zongominte - spearmint  
 zou - animal  
+zovagria - animal husbandry  
 zoufilia - zoophily  
 zougeugrafia - zoogeography  
-zoujenitia - animal husbandry  
 zouloji - zoological  
 zoulojia - zoology  
 zouparke - zoo (zoological garden)  

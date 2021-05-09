@@ -40,6 +40,9 @@ agile - ajili
 agresseur - agreser  
 agressif - agresivi  
 agression (attaque) - agres  
+agricole - agri  
+agrobiologie - agrobiulojia  
+agronomie - agronomia  
 ail - lasun  
 aimer - ama  
 air - air  
@@ -91,7 +94,7 @@ Antarctique - Antartike
 antenne - anten  
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
-antimoine - estibem  
+antimoine - stibem  
 antonyme - annam  
 anus - anus  
 août - ballun  
@@ -343,7 +346,7 @@ chêne pédonculé - europobalute
 chœur - cantergrupe  
 ciel - ten  
 cime (pic, sommet) - xanpike  
-cimetière - gabrotopia  
+cimetière - gabrostan  
 cinq (5) - limi  
 cirse commun - perkardon  
 citron - limon  
@@ -419,6 +422,7 @@ crêpe - krepe
 crêperie - krepokan  
 cube - kube  
 cuiller - camace  
+cultiver - agra  
 culturisme (musculation) - muskulbin  
 cycliste - sikliste  
 cytologie - celolojia  
@@ -433,7 +437,7 @@ danois - dani
 dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
 de - la  
-demain - badodeno  
+demain - posdeno  
 demander (poser un question; est-ce que) - suala  
 dessous - nice  
 destin - cenamen  
@@ -501,9 +505,10 @@ enfant - bace
 ennemi - anamike  
 ennemi - dusjan  
 enseigner - xulana  
-ensuite (après, plus tard) - bado  
+ensuite (après, plus tard) - poso  
 enterrer - gabra  
 entonnoir - riutube  
+entrer - intru  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -578,6 +583,7 @@ Félicitations ! - barke!
 féliciter - barka  
 ####G - G  
 galaxie - galaksia  
+galop - galope  
 garde-boue (aile) - fandefban  
 Gaule - Galia  
 gaz - gas  
@@ -676,6 +682,7 @@ insecte - koncung
 insomnie - ansomia  
 international - nasmedi  
 interracial - rasmedi  
+introverti - introversi  
 inutile - anyavi  
 inverse (négatif, in-) - ani  
 Irland - Aire  
@@ -737,6 +744,7 @@ libre - huri
 lichen - algofung  
 lien - linke  
 lieu - loke  
+lieu de naissance - jenostan  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amirlin  
 ligne téléphonique - telfonlin  
@@ -810,6 +818,9 @@ message - anjil
 messager - anjiler  
 mettre (placer) - loka  
 meule - molxeke  
+microbe - mikrobiu  
+microbiologie - mikrobiulojia  
+microscope - mikroskope  
 miel - mel  
 migration - migre  
 mine - kuangia  
@@ -998,7 +1009,7 @@ pièce (chambre) - kamar
 piège - kapotruke  
 placard - almar  
 place - meden  
-plaine - platotopia  
+plaine - platostan  
 plaire - suka  
 plan - plan  
 planche - mokoban  
@@ -1033,6 +1044,7 @@ posidonie (herbiers marins) - haicau
 possible - abli  
 possédant (propriétaire) - malan  
 posture (position) - asan  
+postérieur - postri  
 pot (vase) - pote  
 pot de fleur - fulpote  
 poterie - poteria  
@@ -1058,6 +1070,7 @@ projet - projete
 projeter (donner) - lancografa  
 prolongé - longoduri  
 promettre - voda  
+propice - euspeti  
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
@@ -1092,6 +1105,7 @@ rayon de miel - melvesponide
 recycler - reisikla  
 rein - nefre  
 religion - din  
+remettre - retra  
 remplir - pura  
 renard - hulei  
 repos - xante  
@@ -1152,11 +1166,11 @@ saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
 sauvage - ekojeni  
-savane - garmozoni cautopia  
+savane - garmozoni caustan  
 savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
-sculpteur - eskulter  
+sculpteur - skulter  
 scutelle - ostoxalke  
 se - se  
 se baigner - banyu  
@@ -1195,17 +1209,19 @@ son (sa) - si
 son - son  
 soumettre - karmisa  
 soumission - islam  
+spectateur - speter  
+sport - sporte  
 squelette - ostojamia  
 substance - kim  
 sucre - sukar  
 sueur - suede  
-suffixe - badofikse  
+suffixe - posfikse  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour l'adverbe - -o  
 suffixe pour les verbes avec ordre des mots OV####S - -u  
 suffixe pour les verbes avec ordre des mots SV####O - -a  
-suivre - bada  
+suivre - posa  
 sujet (thème) - tem  
 svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
@@ -1234,6 +1250,7 @@ tendu - tensi
 tentacule - senter  
 tente - hemah  
 terrain - geuforme  
+terrain de camping - kampostan  
 Terre - Gevia  
 terre cuite - bekofan  
 terreplatiste - platogeviste  
@@ -1276,6 +1293,7 @@ tu - te
 tubercule - masmul  
 Tunisie - Tunisia  
 turban - pagre  
+télescope (lunette) - teloskope  
 télécharger - netogeta  
 téléphone - telfon  
 téléphoner - telfona  
@@ -1285,6 +1303,7 @@ tête - sar
 un (1) - un (uni)  
 une fois - unmaro  
 uniquement - uniko  
+universel - unversi  
 uranium - uranem  
 Uranus - Uran  
 vagine - vagin  
@@ -1306,13 +1325,17 @@ vermouth - vermute
 verre - kance  
 verre coloré - rangi kance  
 verrue - zeyil  
+verse (face á) - versu  
+verser - versa  
 vert - lugi  
 veuve - vidou  
 viande - manse  
+vice-roi - visrajer  
 vie - jiu  
 vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
+village - cun  
 ville - site  
 vin de riz - risvin  
 violet (pourpre) - viyoleti  
@@ -1370,7 +1393,7 @@ zèbre - zebre
 éducation - xulia  
 égal (même) - sami  
 électricité - eletre  
-élevage - zoujenitia  
+élevage - zovagria  
 élever - jenita  
 éloge - euloge  
 élément (unité fondamentale) - em  
@@ -1382,19 +1405,22 @@ zèbre - zebre
 émotion - emos  
 épices - masal  
 épingle - pin  
-éponge - esponje  
+éponge - sponje  
 époux - gam  
 épreuve (test) - teste  
 épée - katan  
 équipe - tim  
 étagère - liboban  
-étain - estan  
+étain - stan  
 état - hal  
 éternuer - acua  
 étinceler - xingofota  
 étoile - xing  
+étude - stude  
 études de genre - jinsolojia  
+étudiant - studer  
 étudiant - xuler  
+étudier - studa  
 étymologie - logaslia  
 été - garmomosim  
 évaluer - vala  

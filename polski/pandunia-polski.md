@@ -28,6 +28,11 @@ Afriki - afrykański, Afrykanin
 afrikofilia - afrofilia  
 afrikofiler - afrofil  
 aga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
+agra - uprawić, uprawiać  
+agrer - rolnik, farmer  
+agronomia - agronomia  
+agrostan - wieś, tereny wiejskie  
+agrostani - wiejski, rustykalny  
 agres - atak (agresja, napaść)  
 agresivi - agresywny  
 aha - rozumieć, pojmować  
@@ -213,12 +218,6 @@ babe - rozdział, sekcja
 babuce - kapeć (papeć, bambosz)  
 babul - akacja  
 bace - dziecko (nieletni)  
-bada - podążać  
-bade - konsekwencja, skutek  
-badi - następny (następujący)  
-bado - później  
-badodeno - jutro  
-badofikse - przyrostek (sufiks)  
 badam - migdał  
 badavi - beduiński; nomadyczny  
 badla - wymieniać, wymienić, zamieniać, zamienić  
@@ -470,7 +469,7 @@ carlun - lipiec
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
-cautopia - łąka  
+caustan - łąka  
 Cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 cel - komórka (biologia)  
@@ -530,6 +529,7 @@ Cosen - Korea
 Coseni - koreański  
 Cvana - Botswana  
 cum - całus  
+cun - wieś, wioska  
 cupa - ssać  
 cuta - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 cute - wyjśćie, opuszczenie  
@@ -771,24 +771,9 @@ eskala - wspinać się (wspiąć się)
 eskaltan - pnącz  
 Eskandia - Skandynawia  
 eskandem - skand  
-Eskotia - Szkocja  
-eskulta - rzeźbić  
-eskulte - rzeźba  
-eskultia - rzeźbiarstwo  
-eskulter - rzeźbiarz  
 Espania - Hiszpania  
 esperanti - Esperanto  
-esponje - gąbka  
 Estia - Estonia  
-estadia - stadion, arena  
-estan - cynk  
-estasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
-estasi - statyczny, stacjonarny, nieruchomy  
-estasia - stacja  
-estasu - nie ruszać się  
-estibem - antymon  
-estrontem - stront  
-estudia - studio (pracownia)  
 Etiopia - Etiopia  
 evi - korzystny (dobry)  
 evanjil - ewangelia  
@@ -966,7 +951,7 @@ futau - siekera, topór
 Gabon - Gabon  
 gabra - zakopać (pochować)  
 gabre - grób (mogiła, grobowiec)  
-gabrotopia - cmentarz  
+gabrostan - cmentarz  
 gabroxeke - nagrobek  
 gade - osioł  
 gadogude - muł  
@@ -976,6 +961,7 @@ Galia - Galia
 galem - gal  
 galaksia - galaktyka  
 galeria - galeria, sala wystawowa  
+galope - cwał (galop)  
 galta - popełnić błąd  
 galte - błąd (pomyłka)  
 galti - błędny (niepoprawny)  
@@ -1008,7 +994,7 @@ garmomosim - lato
 garmomosimmedi den - przesilenie letnie (dzień srodka lata)  
 garmozon - tropiki  
 garmozoni - tropikalny  
-garmozoni cautopia - sawanna  
+garmozoni caustan - sawanna  
 gas - gaz  
 gasa - zamieniać w gaz  
 gasi - gazowy  
@@ -1590,8 +1576,6 @@ kega - odwiedzić, odwiedzać
 kege - wizyta  
 keger - wizytant (gość)  
 keke - ciasto, ciastko  
-kel - sport, lekkoatletyka  
-keler - hałas  
 kelel - atleta, sportowiec  
 kelvin - kelwin  
 Kemia - Starożytny Egipt (Kemet)  
@@ -1690,6 +1674,7 @@ konfuncabli - kompatybilny (pasujący)
 konkara - współpracować (kolaborować)  
 konsau - informacja  
 konsavana - poinformować, informować, zakomunikować, komunikować  
+kontra - być przeciw  
 kontrete - pakt (kontrakt, ugoda, umowa, konwencja)  
 Konakri Ginia - Gwinea  
 koncung - owad  
@@ -1699,7 +1684,6 @@ Kongfuze - Konfucjusz
 kongfuzistia - konfucjanizm  
 Konkani - konkani  
 konserte - koncert  
-kontra - być przeciw  
 konus - szyszka  
 kopa - kopiować, replikować  
 kope - kopia, replika  
@@ -2109,14 +2093,17 @@ metrun - jednostka miary
 Mexiko - Meksyk  
 Mexiko site - Meksyk  
 meze - stół  
+mezostan - płaskowyż (plateau)  
 mezotex - obrus  
-mezotopia - płaskowyż (plateau)  
 Myanma - Mjanma, Birma  
 mien - makaron  
 migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
 migre - migracja  
 migru - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 mikro\* - mikro-  
+mikrobiu - mikroorganizm  (mikrob)  
+mikrobiulojia - mikrobiologia  
+mikroskope - mikroskop  
 Mikronesia - Mikronezja  
 mili\* - mili-  
 miligram - miligram  
@@ -2334,8 +2321,6 @@ nol sate - nigdy
 nol xei - nic, żadna rzecz  
 noma - zarządzać (organizować, kierować)  
 nomia - zarządzanie (-nomia)  
-nonga - uprawić, uprawiać  
-nonger - rolnik, farmer  
 norde - północ  
 nordi - północny  
 Nordi Aire - Irlandia Północna  
@@ -2587,8 +2572,8 @@ plati - płaski
 plati geukaskia - tektonika płyt  
 platoforme - platforma  
 platogeviste - płaskoziemca  
+platostan - równina (plaskowyż, plateau)  
 platotas - talerz  
-platotopia - równina (plaskowyż, plateau)  
 platinem - platyna  
 Platon - Platon  
 platoniste - platończyk  
@@ -2634,6 +2619,12 @@ pornografia - pornografia
 porte - port  
 Portorikia - Portoryko (Puerto Rico)  
 Portugal - Portugalia  
+pos - konsekwencja, skutek  
+posa - podążać  
+posi - następny (następujący)  
+poso - później  
+posdeno - jutro  
+posfikse - przyrostek (sufiks)  
 pospor - fosfor  
 posta - nadać, wysłać pocztą  
 poste - poczta  
@@ -2729,12 +2720,18 @@ ratibe - porządek
 razon - rozum, rozsądek  
 razoni - racjonalny, rozsądny  
 razonu - mieć sens  
+retre - powrót  
+retro - wstecz  
+retru - wrócić, wracać, wycofać się, wycofywać się  
+retrogula - wymiotować (zwrócić)  
+retroguli sense - nudności (choroba lokomocyjna)  
+retrotikete - bilet powrotny  
 rebel - rebelia, powstanie  
 reda - przygotować, przygotowywać  
 redi - gotowy  
 rege - piasek, piach  
 regopetre - piaskowiec  
-regotopia - pustynia  
+regostan - pustynia  
 rei - powtarzanie, powtórka  
 reya - powtórzyć, powtarzać  
 reyo - znowu (ponownie)  
@@ -2752,12 +2749,6 @@ reside - paragon, pokwitowanie
 reste - pozostałość, reszta  
 restu - zostać, zostawać  
 restorante - restauracja  
-retre - powrót  
-retro - wstecz  
-retru - wrócić, wracać, wycofać się, wycofywać się  
-retrogula - wymiotować (zwrócić)  
-retroguli sense - nudności (choroba lokomocyjna)  
-retrotikete - bilet powrotny  
 Reunion - Reunion  
 rezerva - rezerwować (zarezerwować)  
 rezerve - rezerwacja  
@@ -2824,9 +2815,6 @@ rupu - wyglądać (wydawać się)
 rusi - rosyjski  
 rusi krepe - rosyjski naleśnik (blin)  
 Rusia - Rosja  
-ruste - wieś, wioska  
-rusti - wiejski, rustykalny  
-rustia - wieś, tereny wiejskie  
 rute - ścieżka (droga, szlak, kurs)  
 rutogalta - zbłąkać się (wykoleić się)  
 rutogalti - zbłąkany (dewiacyjny, wykolejony)  
@@ -3019,6 +3007,11 @@ sistemi - systemowy
 site - miast, miasteczko  
 sivili - cywilizowany (ucywilizowany)  
 sivilia - cywilizacja  
+Skotia - Szkocja  
+skulta - rzeźbić  
+skulte - rzeźba  
+skultia - rzeźbiarstwo  
+skulter - rzeźbiarz  
 slavi - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
@@ -3056,6 +3049,19 @@ sosiste - socjalista
 sosistia - socjalizm  
 sosis - kiełbasa  
 Soto - Lesotho  
+sponje - gąbka  
+sporte - sport, lekkoatletyka  
+sporter - hałas  
+stadia - stadion, arena  
+stan - cynk  
+stasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
+stasi - statyczny, stacjonarny, nieruchomy  
+stasia - stacja  
+stasu - nie ruszać się  
+stibem - antymon  
+strontem - stront  
+studia - studio (pracownia)  
+studer - student  
 suahili - suahili  
 sual - pytanie  
 suala - zapytać, spytać, pytać  
@@ -3187,6 +3193,7 @@ teli - daleki, odległy
 telia - dystans  
 telfon - telefon  
 teloloku - teleportować się  
+teloskope - teleskop  
 telvide - telewizja  
 telugi - telugu  
 telurem - tellur  
@@ -3324,6 +3331,7 @@ vaxurse - szop pracz
 Vaxington D####C - Waszyngton D.C  
 UDA du - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
 vei - ogon  
+veisirke - południk  
 venda - sprzedać (sprzedawać)  
 vendoxopa - handlować  
 vendoxope - handel  
@@ -3363,6 +3371,7 @@ viman - samolot
 vimankaper - porywacz samolotu  
 vin - wino  
 vinkan - winiarnia  
+vinsuan - ocet  
 ving - skrzydło  
 vinil - winyl  
 vir - bohater, heros  
@@ -3375,6 +3384,7 @@ visa - zastąpić (podstawić, zamienić)
 visi - wice-  
 visloge - zaimek  
 visprezidente - wiceprezydent  
+visrajer - wicekról  
 viske - viski  
 vite - śruba, wkręt  
 vize - wiza  
@@ -3426,8 +3436,6 @@ uza - użyć, używać, zatrudnić, stosować
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 Uzbekia - Uzbekistan  
-veisirke - południk  
-vinsuan - ocet  
 ####X - X  
 xake - gałąź, konar  
 xakal - szakal  
@@ -3558,7 +3566,7 @@ zong - słup (pal, kołek)
 zonga - nabić (przebić, dźgnąć)  
 zongominte - mięta zielona (mięta kłosowa)  
 zou - animal  
-zoujenitia - hodowla zwierząt  
+zovagria - hodowla zwierząt  
 zouloji - zoologiczny  
 zoulojia - zoologia  
 zouparke - zoo (ogród zoologiczny)  

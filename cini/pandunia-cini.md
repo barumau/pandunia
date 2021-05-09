@@ -11,6 +11,9 @@ adalia - 正义
 adres - 地址  
 Afgania - 阿富汗  
 aga - 如果 (要是)  
+agrobiulojia - 土壤生物学  
+agrocun - 农村  
+agronomia - 农学  
 agres - 攻击  
 agreser - 侵略者  
 air - 空气  
@@ -203,6 +206,7 @@ coklate - 巧克力
 coklatobaton - 巧克力棒  
 Congcing - 重庆  
 cope - 锄头  
+cun - 村  
 cuzable - 选择 (买卖权)  
 ####D - D  
 daidom - 殿 (宫殿, 宅第)  
@@ -264,9 +268,6 @@ eletrorade - 闪电
 emoje - 绘文字  
 emoshal - 心情  
 englomargarite - 雛菊  
-esponje - 海绵  
-estan - 锡  
-estibem - 锑  
 evanjil - 福音  
 europobalute - 夏櫟  
 ex - 外  
@@ -274,6 +275,7 @@ exyam - 野餐
 exojan - 外人 (局外人)  
 explanete - 系外行星  
 exploze - 爆炸  
+extroversi - 外向的  
 ####F - F  
 faidia - 效用 (好处)  
 fan - 坭  
@@ -318,7 +320,7 @@ futomarke - 脚印
 ####G - G  
 gabra - 埋葬  
 gabre - 坟墓  
-gabrotopia - 公墓 (墓地)  
+gabrostan - 公墓 (墓地)  
 gabroxeke - 墓石 (墓碑)  
 gadogude - 骡  
 Galia - 高卢  
@@ -328,7 +330,7 @@ gancau - 干草
 ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
-garmozoni cautopia - 稀树草原  
+garmozoni caustan - 稀树草原  
 gati - 硬  
 gatomate - 固体  
 gautehnia - 高科技 (高技术)  
@@ -438,6 +440,7 @@ inmigra - 移民 (移居)
 inmigran - 移民者  
 inploze - 内爆  
 insida - 蹲  
+introversi - 内向的  
 insan - 人类  
 insani hake - 人权  
 insanistia - 人文主义  
@@ -467,6 +470,7 @@ jekodona - 借出
 jekogeta - 借入  
 jeni - 生的  
 jeni bax - 母语  
+jenostan - 出生地  
 jentipe - 基因型  
 jinse - 性别  
 jinsolojia - 性别研究  
@@ -711,6 +715,9 @@ metrografia - 地图学
 meze - 桌子  
 mezotex - 桌布  
 migra - 搬家  
+mikrobiu - 微生物   
+mikrobiulojia - 微生物学  
+mikroskope - 显微镜  
 milkokardon - 水飞蓟  
 mima - 模拟  (模仿)  
 minte - 薄荷  
@@ -839,7 +846,7 @@ piprominte - 辣薄荷
 piram - 金字塔  
 pis - 云杉  
 plati geukaskia - 板块构造论  
-platotopia - 平原  
+platostan - 平原  
 plum - 李子  
 polmaro - 经常  
 polite - 政府  
@@ -870,16 +877,16 @@ rari - 稀有 (稀少的)
 ras - 种族  
 ratiba - 整理  
 ratibe - 常规 (次序)  
+retru - 返回 (回来)  
+retrogula - 呕吐  
+retroguli sense - 恶心  
+retrotikete - 往返票  
 reya - 重复  
 reibon - 修理  
 reibona - 修理  
 reiboner - 修理工人  
 reisikla - 循环再造  
 reste - 其余  
-retru - 返回 (回来)  
-retrogula - 呕吐  
-retroguli sense - 恶心  
-retrotikete - 往返票  
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
@@ -964,6 +971,9 @@ sor - 锁
 sosi jinse - 社會性別  
 sosia - 社会  
 sosis - 香肠  
+sponje - 海绵  
+stan - 锡  
+stibem - 锑  
 sual - 问题  
 suala - 问  
 suanpurxipe - 腌菜  
@@ -999,6 +1009,7 @@ tehnolojia - 工艺学
 telfon - 电话机  
 telfona - 打电话  
 telfonlin - 电话线  
+teloskope - 望远镜  
 telvide - 电视机  
 tem - 主题目  
 temnam - 标题  
@@ -1041,6 +1052,7 @@ vas - оазис
 vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
+veisirke - 纬度  
 venda - 卖  
 vendoxope - 贸易  
 Venjou - 温州  
@@ -1051,6 +1063,8 @@ vespe - 蜂
 vida - 看  
 vidou - 寡妇  
 vijin - 味精  
+vismai - 继母  
+vispai - 继父  
 umami - 鲜味  
 umur - 年岁  
 un (uni) - 一 (1)  
@@ -1065,9 +1079,6 @@ volu - 想要 (愿意)
 ura - 好哇  
 vulve - 外阴 (陰门)  
 vute - 物体 (物品)  
-veisirke - 纬度  
-vismai - 继母  
-vispai - 继父  
 ####X - X  
 xalke - 鳞  
 Xanghai - 上海  

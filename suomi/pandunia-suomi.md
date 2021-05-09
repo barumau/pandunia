@@ -28,6 +28,14 @@ Afriki - afrikkalainen
 afrikofilia - afrofilia  
 afrikofiler - afrofiili  
 aga - jos (olettaa)  
+agra - viljellä  
+agre - viljely  
+agrer - maanviljelijä  
+agrobiulojia - maatalousbiologia  
+agrocun - maalaiskylä  
+agronomia - agronomia (maatalous)  
+agrostan - maaseutu  
+agrostani - maalais-  
 agres - hyökkäys (päällekarkaus, aggressio)  
 agresa - hyökätä (käydä päälle)  
 agreser - hyökkääjä  
@@ -233,12 +241,6 @@ babe - luku (kirjan osa)
 babuce - tohveli  
 babul - akaasia  
 bace - lapsi  
-bada - seurata (tulla perässä, tulla jäljessä)  
-bade - seuraus  
-badi - seuraava  
-bado - myöhemmin  
-badodeno - huominen  
-badofikse - loppuliite (jälkiliite)  
 badam - manteli  
 badavi - beduiini  
 badla - vaihtaa  
@@ -481,13 +483,14 @@ capa - painaa (leimata)
 cape - painos (leima)  
 capate - chapati  
 cari - neljä (4)  
+cargalope - neli (kiitolaukka)  
 cargon - neliö  
 caryom - torstai  
 carlun - huhtikuu  
 carme - vetovoima (šarmi)  
 cate - katto (katos)  
 cau - ruoho  
-cautopia - niitty  
+caustan - ruohotasanko  
 Cehia - Tšekki  
 ceka - tarkistaa (tsekata)  
 cel - solu  
@@ -547,6 +550,7 @@ Cosen - Korea
 Coseni - korealainen  
 Cvana - Botswana  
 cum - suukko (pusu)  
+cun - kylä  
 cupa - imeä  
 cuta - poistua  
 cute - poistuminen  
@@ -652,7 +656,7 @@ deusage - jumaltaru (myytti)
 deusofia - teosofia  
 dex - maa (valtio)  
 dexojan - kansalainen (valtion asukas)  
-dika - tähdätä (kohti)  
+dika - osoittaa (tähdätä)  
 dike - maali (maalitaulu, kohde)  
 din - uskonto  
 dini - uskonnollinen  
@@ -794,25 +798,10 @@ eskala - kiivetä
 eskaltan - köynnös  
 Eskandia - Skandinavia  
 eskandem - skandium  
-Eskotia - Skotlanti  
-eskulta - veistää kuvaa  
-eskulte - veistos (patsas)  
-eskultia - kuvanveisto  
-eskulter - kuvanveistäjä  
 Espania - Espanja  
 espanfoni - espanjaa puhuva  
 esperanti - esperanto  
-esponje - sienieläin  
 Estia - Viro (Eesti)  
-estadia - stadioni (areena)  
-estan - tina  
-estasa - seisottaa  
-estasi - seisova (staattinen)  
-estasia - asema  
-estasu - seisoa (seisahtaa)  
-estibem - antimoni  
-estrontem - strontium  
-estudia - ateljee (studio)  
 Etiopia - Etiopia  
 evi - hyvä (eettisesti hyvä)  
 evanjil - evankeliumi(hyvä sana)  
@@ -820,6 +809,7 @@ eudevistia - euteismi (usko jumalan hyvyyteen)
 eujenistia - eugeniikka  
 euloga - ylistää (puhua hyvää, kehua)  
 euloge - ylistys  
+euspeti - lupaava (hyvältä vaikuttava)  
 eutopia - utopia  
 eurasia - Euraasia  
 eureka - löytää (keksiä)  
@@ -847,6 +837,10 @@ exploze - räjähdys
 explozu - räjähtää  
 expoza - ottaa esiin (paljastaa)  
 extensa - venyttää (pingottaa)  
+extri - ulkoinen  
+extro - ulkona (ulkopuolella)  
+extru - poistua (mennä ulos)  
+extroversi - ulospäinsuuntautunut (ekstrovertti)  
 extrata - vetää ulos  
 exvidi - ilmeinen (silminnähtävä)  
 ####F - F  
@@ -1015,7 +1009,7 @@ futau - kirves
 Gabon - Gabon  
 gabra - haudata  
 gabre - hauta  
-gabrotopia - hautausmaa  
+gabrostan - hautausmaa  
 gabroxeke - hautakivi  
 gade - aasi  
 gadogude - muuli  
@@ -1025,6 +1019,7 @@ Galia - Gallia
 galem - gallium  
 galaksia - galaksi  
 galeria - galleria  
+galope - laukka  
 galta - erehtyä (tehdä virhe)  
 galte - virhe (erhe)  
 galti - väärä (virheellinen)  
@@ -1061,7 +1056,7 @@ garmomosim - kesä (suvi)
 garmomosimmedi den - juhannus (keskikesä, mittumaari)  
 garmozon - tropiikki  
 garmozoni - trooppinen  
-garmozoni cautopia - savanni  
+garmozoni caustan - savanni  
 gas - kaasu  
 gasa - kaasuttaa  
 gasi - kaasumainen  
@@ -1259,6 +1254,7 @@ Hindia - Hindustan
 hindem - indium  
 hindiste - hindu  
 hindistia - hindulaisuus (hinduismi)  
+hindostani - hindustanin kieli  
 hisaba - laskea (tehdä laskutoimitus)  
 hisabe - lasku (laskelma)  
 hisabia - laskuoppi (aritmetiikka)  
@@ -1354,6 +1350,7 @@ imperistia - imperialismi
 in - sisus (sisäpuoli)  
 indi - sisä- (sisäinen)  
 inan - kontti  
+indika - osoittaa (näyttää)  
 inite - sisältö  
 injeni - sisäsyntyinen  
 inklusa - sisällyttää (sulkea sisäänsä)  
@@ -1365,6 +1362,14 @@ inmigran - maahanmuuttaja
 innam - endonyymi (omakielinen nimi)  
 inploze - luhistuminen  
 inplozu - luhistua (sortua sisään)  
+inspeta - tarkastaa (katsoa sisään)  
+intra - panna sisään  
+intre - sisäpuoli  
+intri - sisäinen  
+intro - sisällä (sisäpuolella)  
+intru - mennä sisään  
+introspete - introspektio  
+introversi - sisäänpäinsuuntautunut (introvertti)  
 Indonesia - Indonesia  
 insan - ihminen  
 insani hake - ihmisoikeudet  
@@ -1444,6 +1449,7 @@ jeni bax - äidinkieli
 jenu - syntyä  
 jenden - syntymäpäivä  
 jenklas - sääty (kasti)  
+jenostan - syntymäpaikka  
 jentipe - perimä (genotyyppi)  
 jeng - taistelu (sota)  
 jengi - sotilaallinen  
@@ -1545,6 +1551,7 @@ kamis - paita
 kamote - bataatti  
 kampe - leiri  
 kamper - retkeilijä  
+kampostan - leirintäalue  
 kamri - walesilainen  
 Kamria - Wales  
 kan - paja (tekimö)  
@@ -1609,8 +1616,6 @@ kega - käydä (vierailla)
 kege - käynti (vierailu, visiitti)  
 keger - vierailija (vieras)  
 keke - kakku (keksi)  
-kel - urheilu  
-keler - urheilija  
 kelel - meteli  
 kelvin - kelvin (K)  
 Kemia - muinainen Egypti  
@@ -1715,6 +1720,7 @@ konsau - tieto
 konsavana - tiedottaa (informoida)  
 konsela - konsultoida (antaa neuvoja)  
 konseler - konsultti  
+kontra - mennä vasten  
 kontrete - liittosopimus  
 Konakri Ginia - Guinea  
 koncung - hyönteinen (ötökkä)  
@@ -1723,7 +1729,6 @@ Kongfuze - Kungfutse
 kongfuzistia - Kungfutselaisuus  
 Konkani - konkani (eräs intialainen kieli)  
 konserte - konsertti  
-kontra - vastaan (vasten)  
 konus - kartio (keila)  
 kopa - kopioida (jäljentää)  
 kope - kopio (jäljennös)  
@@ -2086,7 +2091,11 @@ mien - nuudeli
 migra - muuttaa (siirtää)  
 migre - muutto (migraatio)  
 migru - muuttaa (siirtyä)  
+mikri - pikkuruinen (mikroskooppinen)  
 mikro\* - mikro-  
+mikrobiu - mikrobi  
+mikrobiulojia - mikrobiologia  
+mikroskope - mikroskooppi  
 Mikronesia - Mikronesia  
 mili\* - milli-  
 miligram - milligramma  
@@ -2285,8 +2294,6 @@ nol sate - ei koskaan (ei kertaakaan)
 nol xei - ei mitään  
 noma - järjestellä (hallinnoida, organisoida, manageroida)  
 nomia - hallinto (hallinnointi)  
-nonga - viljellä  
-nonger - maanviljelijä  
 norde - pohjoinen  
 nordi - pohjoinen  
 Nordi Aire - Pohjois-Irlanti  
@@ -2565,6 +2572,14 @@ portoriki - puertoricolainen
 Portorikia - Puerto Rico  
 Portugal - Portugali  
 portugalfoni - portugalia puhuva  
+pos - seuraus  
+posa - seurata (tulla perässä, tulla jäljessä)  
+posi - seuraava  
+poso - myöhemmin  
+posdeno - huominen  
+posfikse - loppuliite (jälkiliite)  
+pospoza - siirtää taakse  
+postri - myöhempi (takainen)  
 pospor - fosfor  
 posta - postittaa  
 poste - posti (postilähetys)  
@@ -2651,11 +2666,15 @@ ratiba - järjestää (järjestellä)
 ratibe - järjestys  
 razon - järki (järkeily, päättely)  
 razoni - järjellinen (järkiperäinen, rationaalinen)  
+retra - palauttaa  
+retre - paluu  
+retru - palata  
+retrotikete - menopaluulippu  
 rebel - kapina  
 reda - tehdä valmiiksi  
 redi - valmis  
 rege - hiekka  
-regotopia - aavikko (hiekkaerämaa)  
+regostan - aavikko (hiekkaerämaa)  
 rei - toisto  
 reya - toistaa  
 reyo - taas (uudestaan)  
@@ -2674,9 +2693,6 @@ reside - kuitti (kuittaus)
 reste - jäännös (loput)  
 restu - jäädä jäljelle  
 restorante - ravintola  
-retre - paluu  
-retru - palata  
-retrotikete - menopaluulippu  
 Reunion - Reunion  
 rezerve - varaus (ennakkovaraus)  
 rezin - pihka (hartsi)  
@@ -2738,9 +2754,6 @@ rupu - näyttää jltkn
 rusi - venäläinen  
 rusi krepe - blini  
 Rusia - Venäjä  
-ruste - kylä  
-rusti - maalais-  
-rustia - maaseutu  
 rute - polku (reitti, kurssi)  
 rutin - tapa (rutiini)  
 ####S - S  
@@ -2906,6 +2919,12 @@ sistem - järjestelmä (systeemi)
 site - kaupunki  
 sivili - sivistynyt  
 sivilia - sivilisaatio  
+skope - katselulaite (skooppi)  
+Skotia - Skotlanti  
+skulta - veistää kuvaa  
+skulte - veistos (patsas)  
+skultia - kuvanveisto  
+skulter - kuvanveistäjä  
 slavi - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -2936,6 +2955,24 @@ sosiste - sosialisti
 sosistia - sosialismi  
 sosis - makkara  
 Soto - Lesoto  
+speta - katsoa (tarkkailla)  
+speter - katsoja (tarkkailija)  
+sponje - sienieläin  
+sporte - urheilu  
+sporter - urheilija  
+stadia - stadioni (areena)  
+stan - tina  
+stan - alue (seutu)  
+stasa - seisottaa  
+stasi - seisova (staattinen)  
+stasia - asema  
+stasu - seisoa (seisahtaa)  
+stibem - antimoni  
+strontem - strontium  
+studa - opiskella (tutkia)  
+stude - tutkielma  
+studia - ateljee (studio)  
+studer - opiskelija  
 suahili - suahili  
 sual - kysymys  
 suala - kysyä  
@@ -3046,6 +3083,7 @@ telfon - puhelin
 telfona - soittaa puhelimella  
 telfonia - puhelintekniikka  
 telfonlin - puhelinjohto  
+teloskope - kaukoputki (teleskooppi)  
 telvide - televisio  
 telugi - telugu (eräs intialainen kieli)  
 tem - aihe (teema)  
@@ -3167,6 +3205,7 @@ UDA du - yhdysvaltalainen (ns. Amerikkalainen)
 vei - häntä  
 veyi - poikittainen (vaaka)  
 veilin - kude  
+veisirke - leveyspiiri  
 Venezuela - Venezuela  
 Venjou - Wenzhou  
 venjovoranje - satsuma  
@@ -3176,6 +3215,8 @@ veri - tosi (aito)
 vero - todella  
 verme - mato  
 vermute - vermutti  
+versa - kääntää jtkn päin  
+versu - kohti (päin)  
 version - versio  
 vespe - mehiläinen tai ampiainen  
 veste - länsi  
@@ -3196,6 +3237,7 @@ viman - lentokone
 vimankaper - lentokonekaappari  
 vin - viini  
 vinkan - viinipanimo  
+vinsuan - etikka  
 ving - siipi  
 vinil - vinyyli  
 vir - sankari (urho)  
@@ -3204,7 +3246,10 @@ virus - virus
 viruslojia - virologia  
 visa - korvata  
 visloge - pronomini  
+vismai - äitipuoli (isän puoliso)  
+vispai - isäpuoli (äidin puoliso)  
 visprezidente - varapresidentti  
+visrajer - varakuningas  
 vite - ruuvi  
 vize - viisumi  
 Ukraina - Ukraina  
@@ -3231,6 +3276,7 @@ unmeni - yksimerkityksinen
 unodi - ensimmäinen (numero yksi)  
 unoki lense - monokkeli  
 unrangi - yksivärinen  
+unversi - universaali  
 voda - luvata (vannoa)  
 vode - lupaus (vala)  
 vodun - voodoo  
@@ -3255,10 +3301,6 @@ vute - esine (tavara)
 uza - käyttää  
 uzer - käyttäjä  
 Uzbekia - Uzbekistan  
-veisirke - leveyspiiri  
-vinsuan - etikka  
-vismai - äitipuoli (isän puoliso)  
-vispai - isäpuoli (äidin puoliso)  
 ####X - X  
 xake - oksa (haara)  
 xakal - šakaali  
@@ -3375,6 +3417,7 @@ zoku - jatkua
 zombe - zombi  
 zon - vyö  
 zou - eläin  
+zovagria - karjanhoito  
 zoufilia - eläinrakkaus  
 zougeugrafia - eläinmaantiede  
 zouloji - eläintieteellinen  

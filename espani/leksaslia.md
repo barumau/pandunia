@@ -13,6 +13,7 @@
 |**Afrike**|África|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|
 |**aga**|si (suponer)|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|
 |**agres**|ataque|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
+|**agri**|agrícola|eng:fra:spa:por:tur:agro-, rus:агро- (agro-)|
 |**aha**|entender (comprender)|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
 |**ai**|ay!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**air**|aire|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
@@ -76,7 +77,6 @@
 |**babe**|capítulo (sección)|may:bab, ara:urd:fas:(bāb), swa:babu|
 |**babuce**|chinelo (pantufa)|ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
 |**bace**|niño o niña|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl:bata|
-|**bada**|seguir|ara:بعد‎ (baʿda), swa:baada, hin:बाद (bāda)|
 |**badam**|almendra|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |**badla**|intercambiar (canjear)|ara:(badala), hin:बदला (badlā), swa:badili, tur:bedel|
 |**bagaje**|equipaje|eng:baggage, fra:bagage, por:bagagem, rus:багаж (bagazh), tur:bagaj, ben:ব্যাগেজ (bjagej), may:bagasi|
@@ -214,6 +214,7 @@
 |**cor**|robo (hurto)|hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|
 |**Cosen**|Corea|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
 |**cum**|beso|hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|
+|**cun**|aldea|zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|
 |**cupa**|chupar (succionar)|spa:por:chupar, khm:ជប់ (cup)|
 |**cuta**|salir (irse)|zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|
 |**cuza**|elegir (escoger, seleccionar)|eng:choose, + hin:चुनना (cunnā), + vie:chọn|
@@ -247,7 +248,7 @@
 |**detal**|detalle|eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|
 |**deu**|dios|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|
 |**dex**|país (nación, estado, terra)|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
-|**dike**|objetivo|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike)|
+|**dike**|objetivo|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike) + eng:indicate, fra:indiquer, spa:por:indicar|
 |**din**|religión|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |**dinamite**|dinamita|eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|
 |**dinde**|pavo (guajalote)|fra:dinde, rus:индюк (indyuk), tur:hindi, ara: دِيك هِنْدِيّ‎ (dīk hindiy)|
@@ -300,12 +301,6 @@
 |**er**|hacedor (perpetrador)|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |**esei**|ensayo (redacción)|eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|
 |**eskal**|escalera|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
-|**eskulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
-|**esponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
-|**estadia**|estadio (arena)|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
-|**estan**|estaño|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
-|**estasia**|estación|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
-|**estudia**|estudio|rus:студия (studiya), spa:estudio, por:estúdio|
 |**eurasia**|Eurasia|eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|
 |**eureka**|econtrar (hallar)|ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|
 |**Europe**|Europa|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
@@ -380,6 +375,7 @@
 |**gaje**|elefante|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |**galaksia**|galaxia|eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)|
 |**galeria**|galería|eng:gallery, spa:galería, por:galeria, fra:galerie, rus:галерея (galereya), tur:galeri, hin:गैलरी (gailrī), jpn:ギャラリー (gyararī)|
+|**galope**|galope|eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|
 |**galte**|error|ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|
 |**gam**|esposo o esposa|eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (gamiya)|
 |**gamel**|camello|ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia|
@@ -605,7 +601,6 @@
 |**keci**|educado|zho:客气 (kèqì), yue:客氣 (haak3 hei3), wuu:客氣 (khaq qi4)|
 |**kege**|visitar|zho:客 (kè), wuu:客 (ka’), jpn:客 (kyaku), kor:객 (gaeg), vie:khách, tha:แขก (khæk)|
 |**keke**|pastel (galleta)|eng:cake, rus:кекс (keks), ara:(kaʿka), hin:केक (kek), jpn:ケーキ (kēki), swa:keki, tur:kek|
-|**kel**|deporte|hin:खेल (khel), ben:খেলা (khela), tha:กีฬา (kīlā), khm:កីឡា (keila)|
 |**kelel**|ruido|swa:kon:makelele|
 |**kenar**|frontera (límite, borde, periferia)|tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|
 |**kerne**|corazón (núcleo)|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
@@ -644,7 +639,6 @@
 |**Kongfuze**|confucio|zho:孔夫子 (Kǒng Fūzǐ)|
 |**kono**|juntos|zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-), eng:fra:spa:por:con-|
 |**konserte**|concierto|eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|
-|**kontra**|estar en contra|spa:por:contra, fra:contre, eng:counter-, ell:κόντρα (kontra)|
 |**konus**|cono|eng:por:cone, spa:cono, fra:conique, rus:ко́нус (kónus), tur:koni, may:kon|
 |**kope**|copia (réplica)|eng:copy, fra:copie, spa:por:copia, rus:копия (kopiya), hin:कापी (kāpī), tur:kopya, may:kopi, zho:拷貝 (kǎobèi), jpn:コピー (kopī)|
 |**kora**|correr|fra:courir, spa:por:correr|
@@ -906,7 +900,6 @@
 |**node**|nudo|eng:node, spa:nudo, por:nó, fra:nœud|
 |**nol (noli)**|cero (ninguno)|rus:ноль (nol'), may:nol, deu:null, eng:null|
 |**nomia**|gerencia (dirección)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|
-|**nonga**|cultivar|zho:農 (nóng), yue:農 (nung4), wuu:農 (non3), jpn:農 (nō), kor:농 (nong), vie:nông|
 |**norde**|norte|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
 |**normi**|norma|eng:spa:por:fra:deu:normal, rus:норма́льный (normálʹnyj), fas:نرمال‎ (normâl)|
 |**nos**|nariz|eng:nose, spa:por:nariz, deu:Nase, rus:нос (nos), hin:mar:नासिका (nāsikā), ben:নাক (nak), fas:نس‎ (nos)|
@@ -1016,6 +1009,7 @@
 |**porei**|puerro (cebolla larga)|spa:puerro, por:porro, fra:poireau, deu:Porree, fin:purjo, rus:порей (porey), may:perai|
 |**porne**|porno|eng:porn, spa:tur:may:porno, por:pornô, deu:Pornografie, rus:порно (porno), jpn:ポルノ (poruno)|
 |**porte**|porto|eng:port, fra:porte, spa:por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)|
+|**pos**|consecuencia (siguiente)|eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-)|
 |**poste**|correo|eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), swa:posta, may:pos|
 |**poze**|pose (postura)|eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|
 |**prate**|práctica|eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|
@@ -1061,7 +1055,6 @@
 |**reside**|reconocimiento (recibo)|fas:(resid), hin:रसीद (rasīd), urd:(rasīd), guj:રસીદ (rasīd), tel:రసీదు (rasīdu), + eng:receipt, swa:resiti, may:resit|
 |**reste**|resto (demás)|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |**restorante**|restaurante|eng:fra:restaurant, spa:por:restaurante, rus:ресторан (restoran), tur:may:restoran, hin:रेस्तरां (restarā̃), ben:রেস্টুরেন্ট (reśṭurenṭ), jpn:レストラン (resutoran)|
-|**retro**|al revés|eng:spa:por:deu:retro-, fra:rétro-, rus:ретро- (retro-)|
 |**rezerve**|réservation|eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|
 |**rezin**|resina|eng:resin, fra:résine, fas:(rezin), por:spa:resina, tur:reçine|
 |**rici**|rico|eng:rich, fra:riche, por:spa:rico|
@@ -1088,7 +1081,6 @@
 |**rula**|liar (enrollar)|eng:roll, fra:rouler, deu:aufrollen|
 |**rum**|ron|eng:rum, spa:ron, hin:रम (ram), rus:ром (rom)|
 |**rupe**|aspecto|hin:रूप (rūp), may: rupa, tha: รูป (rūp), khm:រូប (rūp)|
-|**ruste**|aldea|fas:روستا‎ (rustâ), + eng:rustic, por:spa:rustico, fra:rustique|
 |**rute**|ruta|eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)|
 |**rutin**|rutina (hábito)|eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتین‎ (rutin), rus:рутина (rutina)|
 |**sabe**|razón (causa)|heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|
@@ -1154,6 +1146,7 @@
 |**site**|ciudad|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**sivili**|civilizado|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**siyahi**|negro|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
+|**skulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**sofa***|sofá|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|sabiduría|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soi**|soja|eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)|
@@ -1166,6 +1159,12 @@
 |**sor**|cerradura (candado)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|sociedad|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|salchicha|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
+|**sponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
+|**sporte**|deporte|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
+|**stadia**|estadio (arena)|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
+|**stan**|estaño|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|**stasia**|estación|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
+|**studa**|estudiar (examinar)|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**sual**|pregunta|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suani**|agrio (ácido)|zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|
 |**suar**|noche (tarde)|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
@@ -1288,6 +1287,7 @@
 |**veri**|verdadero|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
 |**verme**|verme|eng:worm, por:verme, fra:ver, deu:Wurm|
 |**version**|versión (modelo)|eng:fra:version, por:versão, rus:версия (versiya), may:versi|
+|**versu**|afrontar|eng:versus, fra:verse, spa:por:versar|
 |**vespe**|abeja o avispa|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |**veste**|oeste|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
 |**vida**|ver (mirar)|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|

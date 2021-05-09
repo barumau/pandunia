@@ -27,6 +27,10 @@ Afriki - africain
 afrikofilia - afrophilie  
 afrikofiler - afrophile  
 aga - si  
+agra - cultiver  
+agri - agricole  
+agrobiulojia - agrobiologie  
+agronomia - agronomie  
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
 agreser - agresseur  
@@ -201,10 +205,6 @@ Azerbaijan - Azerbaijan
 babe - chapitre  
 babuce - pantoufle (babouche)  
 bace - enfant  
-bada - suivre  
-bado - ensuite (après, plus tard)  
-badodeno - demain  
-badofikse - suffixe  
 badam - amande  
 badavi - bédouin  
 bagaje - bagage  
@@ -349,6 +349,7 @@ cize - fromage
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
 cope - houe  
+cun - village  
 cuzable - option  
 ####D - D  
 daidom - palais (château, manoir)  
@@ -425,12 +426,9 @@ englofoni - anglophone
 englomargarite - pâquerette  
 eskaltan - vigne  
 Eskandia - Scandinavie  
-eskulter - sculpteur  
-esponje - éponge  
-estan - étain  
-estibem - antimoine  
 evanjil - évangile  
 euloge - éloge  
+euspeti - propice  
 Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
@@ -495,11 +493,12 @@ futomarke - empreinte de pied
 ####G - G  
 gabra - enterrer  
 gabre - tombe  
-gabrotopia - cimetière  
+gabrostan - cimetière  
 gabroxeke - pierre tombale  
 gadogude - mule  
 Galia - Gaule  
 galaksia - galaxie  
+galope - galop  
 galte - faute (erreur)  
 galti - erroné  
 gam - époux  
@@ -511,7 +510,7 @@ gantex - serviette
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
-garmozoni cautopia - savane  
+garmozoni caustan - savane  
 gas - gaz  
 gati - dur  
 gau - haut  
@@ -631,6 +630,8 @@ inmigran - immigrant
 inploze - implosion  
 inplozu - imploser  
 insida - s’accroupir  
+intru - entrer  
+introversi - introverti  
 insan - être humain  
 insani hake - droits de l'homme  
 insaniki - humain  
@@ -663,6 +664,7 @@ jekogeta - empruntre
 jena - donner naissance (procréer, engendrer, accoucher)  
 jeni bax - langue maternelle  
 jenita - élever  
+jenostan - lieu de naissance  
 jentipe - génotype  
 jihade - lutte  
 jino - en avant  
@@ -707,6 +709,7 @@ kamar - pièce (chambre)
 kamil - Camomille sauvage  
 kamis - chemise  
 kamisi xake - manche  
+kampostan - terrain de camping  
 kanape - canapé (sofa)  
 kance - verre  
 kangaru\* - kangourou  
@@ -924,6 +927,9 @@ meze - table
 mezotex - nappe  
 migre - migration  
 migru - s'installer (déménager)  
+mikrobiu - microbe  
+mikrobiulojia - microbiologie  
+mikroskope - microscope  
 milke - lait  
 milkokardon - chardon Marie  
 mima - imiter  
@@ -1078,7 +1084,7 @@ plasta - modeler
 plastopaste - pâte à modeler  
 plati geukaskia - tectonique des plaques  
 platogeviste - terreplatiste  
-platotopia - plaine  
+platostan - plaine  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 polite - gouvernement  
@@ -1087,6 +1093,11 @@ porei - poireau
 porte - porte  
 portoriki - Portoricain  
 Portorikia - Porto Rico  
+posa - suivre  
+poso - ensuite (après, plus tard)  
+posdeno - demain  
+posfikse - suffixe  
+postri - postérieur  
 postomarke - cachet de la poste  
 pote - pot (vase)  
 poter - potier  
@@ -1119,6 +1130,11 @@ rari - rare
 ras - race  
 rasmedi - interracial  
 ratibe - ordre  
+retra - remettre  
+retro - en arrière  
+retru - retourner (revenir)  
+retroguli sense - nausée  
+retrotikete - Aller-retour  
 regopetre - grès  
 rei - répétition  
 reya - répéter  
@@ -1128,10 +1144,6 @@ reiboner - réparateur
 reisikla - recycler  
 reizoka - reprendre  
 reste - reste  
-retro - en arrière  
-retru - retourner (revenir)  
-retroguli sense - nausée  
-retrotikete - Aller-retour  
 rici - riche  
 rim - rime  
 ring - anneau  
@@ -1208,6 +1220,7 @@ sirkoxeke - pavé
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
+skulter - sculpteur  
 sofia - sagesse  
 sofa\* - canapé (sofa)  
 soi - soja  
@@ -1226,6 +1239,14 @@ son - son
 sor - serrure  
 sosia - société  
 sosis - saucisse  
+speter - spectateur  
+sponje - éponge  
+sporte - sport  
+stan - étain  
+stibem - antimoine  
+studa - étudier  
+stude - étude  
+studer - étudiant  
 sual - question  
 suala - demander (poser un question; est-ce que)  
 suanpurxipi - décapé (mariné)  
@@ -1264,6 +1285,7 @@ tehnolojia - technologie
 telfon - téléphone  
 telfona - téléphoner  
 telfonlin - ligne téléphonique  
+teloskope - télescope (lunette)  
 telvide - téléviseur  
 tem - sujet (thème)  
 temnam - titre  
@@ -1317,12 +1339,15 @@ veri - vrai
 vero - vraiment  
 verme - ver  
 vermute - vermouth  
+versa - verser  
+versu - verse (face á)  
 vespe - abeille ou guêpe  
 vesponide - ruche (nid d'abeille)  
 vida - voir  
 vidou - veuve  
 viyoleti - violet (pourpre)  
 virus - virus  
+visrajer - vice-roi  
 umur - âge  
 un (uni) - un (1)  
 uniki - seul (unique)  
@@ -1330,6 +1355,7 @@ uniko - uniquement
 unyom - lundi  
 unmaro - une fois  
 unoki lense - monocle  
+unversi - universel  
 voda - promettre  
 vode - vœu (promesse)  
 volu - vouloir  
@@ -1396,7 +1422,7 @@ zon - zone
 zong - pieu (poteau)  
 zongominte - menthe verte  
 zou - animal (bête)  
-zoujenitia - élevage  
+zovagria - élevage  
 zouloji - zoologique  
 zoulojia - zoologie  
 zouparke - zoo  

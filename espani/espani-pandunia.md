@@ -75,6 +75,7 @@ afecto (emoción) - emos
 Afganistán - Afgania  
 afgano - afgani  
 africano - Afriki  
+afrontar - versu  
 agacharse - insida  
 agente - ater  
 agitar (sacudir) - sisma  
@@ -84,6 +85,9 @@ agradecer - danka
 agresivo - agresivi  
 agresor - agreser  
 agrio (ácido) - suani  
+agrobiología - agrobiulojia  
+agronomía - agronomia  
+agrícola - agri  
 agua - sui  
 agua mineral - kuangosui  
 aguacate - avakate  
@@ -107,7 +111,7 @@ alcachofera - karcof
 alcalino - alkali  
 alcohol - alkol  
 alcohólico - alkoli  
-aldea - ruste  
+aldea - cun  
 Alemania - Doicia  
 alemán - doici  
 alfabeto - harfia  
@@ -197,7 +201,7 @@ Anticristo - ankriste
 Antigua - Antigua  
 Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlandi Antil  
-antimonio - estibem  
+antimonio - stibem  
 antorcha - fotobaton  
 antónimo - annam  
 análisis (disección) - fenkate  
@@ -532,7 +536,7 @@ campamento - kampe
 campana (cencerro) - danger  
 campeón - campion  
 campista - kamper  
-campo - rustia  
+campo - agrostan  
 campo de visión - vidomeden  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
@@ -607,7 +611,7 @@ celebrar (festejar) - festa
 celeste (azul celeste) - tennili  
 celeste (celestial) - teni  
 celoso (envidioso) - jelosi  
-cementerio - gabrotopia  
+cementerio - gabrostan  
 cemento - semente  
 cena - suaryam  
 ceniza - hui  
@@ -790,7 +794,7 @@ confundir (desconcertar, perplejo) - ruhmixa
 congelarse (helarse) - aisu  
 cono - konus  
 conocido - savi  
-consecuencia (siguiente) - bade  
+consecuencia (siguiente) - pos  
 conseguir (obtener, recibir) - geta  
 consejero (asesor) - menter  
 consejo - sel  
@@ -907,7 +911,7 @@ cueva (caverna) - guh
 culombio - kulombe  
 culpa (defecto, crimen) - dox  
 culpable - doxi  
-cultivar - nonga  
+cultivar - agra  
 cultura - kultur  
 cumpleaños - jenden  
 cupón (vale) - kupon  
@@ -987,8 +991,9 @@ demografía - demgrafia
 demonio - demon  
 demócrata - demkratiste  
 dentista (odontólogo) - dantomediker  
-deporte - kel  
-deportista - keler  
+dentro - intro  
+deporte - sporte  
+deportista - sporter  
 depurar - angalta  
 derechista - raitiste  
 derecho - hake  
@@ -1006,7 +1011,7 @@ descargar - netogeta
 descriptivo - sifi  
 deseo - vol  
 desfigurar - dusforma  
-desierto - regotopia  
+desierto - regostan  
 deslizar - glisu  
 desnudo - nudi  
 despertar - jaga  
@@ -1187,6 +1192,7 @@ entender (comprender) - aha
 entero (todo) - holi  
 enterrar - gabra  
 entrada - jinmun  
+entrar - intru  
 entre - medu  
 entregar (enviar) - karmisa  
 entristecer (poner triste) - duka  
@@ -1220,7 +1226,7 @@ escarcha - himros
 escasez - xavia  
 escaso (disperso, ralo) - anjami  
 escenario - sen  
-Escocia - Eskotia  
+Escocia - Skotia  
 escribir - kitaba  
 escritorio (mesa de trabajo) - karmeze  
 escritura - kitabe  
@@ -1229,10 +1235,10 @@ escudo - defban
 escuela (colegio, institución) - xulkan  
 escuela primaria - bazoxulkan  
 escuela secundaria - jungoxulkan  
-esculpir - eskulta  
-escultor - eskulter  
-escultura (arte de escultura) - eskultia  
-escultura (estatua) - eskulte  
+esculpir - skulta  
+escultor - skulter  
+escultura (arte de escultura) - skultia  
+escultura (estatua) - skulte  
 escupir (bufar) - tuha  
 eslabón - sil  
 eslavo - slavi  
@@ -1248,6 +1254,7 @@ especia - masal
 especial (diferenciado, distinto) - hasi  
 especialización (distinción) - hasia  
 especie - jong  
+espectador - speter  
 espectador - vider  
 espejo (retrovisor) - mirer  
 Esperanto - esperanti  
@@ -1255,15 +1262,15 @@ esperar (desear) - inxala
 esperar - denga  
 espicificar (estipular) - xarta  
 espiral (hélice) - helis  
-esponja - esponje  
+esponja - sponje  
 esposo o esposa - gam  
 espárrago - lusun  
 esqueleto (armazón) - ostojamia  
 esquina (rincón, ángulo) - gon  
 estacionamiento (aparcamiento) - garparke  
 estación (temporada) - mosim  
-estación - estasia  
-estadio (arena) - estadia  
+estación - stasia  
+estadio (arena) - stadia  
 estado (condición) - hal  
 Estados Unidos de América - Uniti Dex Da Amerike (UDA)  
 estadounidense - UDA du  
@@ -1271,18 +1278,20 @@ estante (repisa) - liboban
 estar al lado de - lata  
 estar de pie - libu  
 estar en contra - kontra  
-estaño - estan  
+estaño - stan  
 estimar (apriximarse a) - yaga  
 estirar (extender) - tirlonga  
 Estonia - Estia  
 estornudar - acua  
 estrella - xing  
 estribor - nauraite  
+estudiante - studer  
 estudiante - xuler  
+estudiar (examinar) - studa  
 estudiar (investigar) - loja  
-estudio - estudia  
+estudio - studia  
 estupidez (tontería) - idiotia  
-estático (estacionario) - estasi  
+estático (estacionario) - stasi  
 estúpido (tonto) - idioti  
 Esuatini (Suazilandia) - Suati  
 esvástica (cruz gamada) - hukokrus  
@@ -1435,6 +1444,7 @@ Gales - Kamria
 Galia - Galia  
 galio - galem  
 galleta - biskute  
+galope - galope  
 galés - kamri  
 Gambia - Gambia  
 ganar (cobrar) - ganya  
@@ -1513,7 +1523,7 @@ Granada - Grenada
 Granadinas - Grenadin nesia  
 grande - dayi  
 granito - granite  
-granjero (agricultor) - nonger  
+granjero (agricultor) - agrer  
 grasa - fete  
 graso (adiposo) - feti  
 grava - grau  
@@ -1749,6 +1759,7 @@ interracial - rasmedi
 interrogativa - sualan  
 interés - sauvol  
 interétnica - zukomedi  
+introvertido - introversi  
 invernal - lengomosimi  
 invierno - lengomosim  
 invitado (visita) - keger  
@@ -1951,7 +1962,7 @@ livermorio - livermorem
 llama - liama\*  
 llamar (poner) - namana  
 llamarse - nama  
-llanura - platotopia  
+llanura - platostan  
 llave - cabe  
 llenar - pura  
 lleno (completo) - puri  
@@ -1974,6 +1985,7 @@ lote (grupo) - lote
 lucha - jihade  
 luchador (guerrero) - jenger  
 lugar - loke  
+lugar de nacimiento - jenostan  
 lujuria (deseo) - kamia  
 luna - lun  
 lunes - unyom  
@@ -2040,7 +2052,7 @@ maniqueísmo - manihayistia
 mano - hande  
 manso (dócil, obediente) - dosili  
 mantel - mezotex  
-mantener (detener) - estasa  
+mantener (detener) - stasa  
 mantequilla - makan  
 mantra - mantre  
 manual - handi  
@@ -2095,7 +2107,7 @@ Mayotte (Mahoré) - Mayote
 mazmorra - geunici prizon  
 maíz - mais  
 mañana (antes mediodía) - suboden  
-mañana - badodeno  
+mañana - posdeno  
 mañana - sube  
 mear - pixa  
 medallón - medal  
@@ -2134,7 +2146,7 @@ mercado (bazar) - bazar
 mercurio - hurargente  
 Mercurio - Merkur  
 mesa - meze  
-meseta - mezotopia  
+meseta - mezostan  
 mesiánico - kristi  
 meta (gol, destinación) - gol  
 metal - metal  
@@ -2148,7 +2160,10 @@ mezquino (antipático, cruel) - zalimi
 mi - mi  
 micelio - fungonete  
 micro- - mikro\*  
+microbio - mikrobiu  
+microbiología - mikrobiulojia  
 Micronesia - Mikronesia  
+microscopio - mikroskope  
 Midsommar - garmomosimmedi den  
 miedo (-fobia) - fobia  
 miel - mel  
@@ -2253,7 +2268,7 @@ Myanmar (Birmania) - Myanma
 máquina - maxin  
 máquina de escribir - kitabomaxin  
 más - max (maxo)  
-más tarde - bado  
+más tarde - poso  
 más temprano (antes) - ceno  
 máscara - maske  
 mástil - maste  
@@ -2499,7 +2514,7 @@ Paraguay - Paraguai
 paralelo - parlini  
 parar (detener) - tinga  
 parar - pauza  
-pararse (detenerse) - estasu  
+pararse (detenerse) - stasu  
 pararse (detenerse) - tingu  
 parasol - barxocate  
 parasol - solcate  
@@ -2705,10 +2720,11 @@ poseer (tener, ser dueño de) - mala
 posible - abli  
 posiblemente - ablo  
 poste (estaca, palo) - zong  
+posterior - postri  
 postura (posición) - asan  
 potasio - kalem  
 practicar (ensayar, ejercitar) - lenxa  
-pradera (pastizal) - cautopia  
+pradera (pastizal) - caustan  
 praseodimio - prasedem  
 preceder (anteceder) - cena  
 precio (coste) - koste  
@@ -2761,6 +2777,7 @@ prometio - prometem
 pronombre - visloge  
 pronto - suno  
 pronunciar (articular) - fona  
+propicio - euspeti  
 propiedad - mal  
 proponente (defensor, -ista) - iste  
 proteger (asegurar, guardar) - sekura  
@@ -2922,6 +2939,7 @@ responder (contestar) - javaba
 restaurante - restorante  
 resto (demás) - reste  
 resulta (efecto) - asar  
+retornar - retra  
 retículo - krusolin  
 reunión (junta, mitin) - mite  
 Reunión - Reunion  
@@ -2975,7 +2993,7 @@ rueda (volante) - cakre
 ruido - kelel  
 ruiseñor - bulbul  
 Rumania - Romania  
-rural (rústico) - rusti  
+rural (rústico) - agrostani  
 Rusia - Rusia  
 ruso - rusi  
 ruta - rute  
@@ -2988,7 +3006,7 @@ régimen - politomode
 réservation - rezerve  
 rígido (sólido) - gatomati  
 ####S - S  
-sabana - garmozoni cautopia  
+sabana - garmozoni caustan  
 sabbat - sabate  
 saber (conocer) - sava  
 sabiduría (conocimiento) - sau  
@@ -3003,6 +3021,7 @@ sala de chat (tertuliadero) - blablokan
 salchicha - sosis  
 salida - cutomun  
 salino - sali  
+salir (egresar) - extru  
 salir (irse) - cuta  
 salmodiar - mantra  
 salmón (trucha) - salmon  
@@ -3050,7 +3069,7 @@ secretaría - sekreteria
 secreto - siri  
 sed - suiyau  
 seda - silke  
-seguir - bada  
+seguir - posa  
 segundo - sekunde  
 seguramente (amén) - ameno  
 seguro - sekuri  
@@ -3098,7 +3117,7 @@ siete (7) - seti
 sigilo - siri mote  
 significado (acepción) - men  
 significar - mena  
-siguiente (trasero) - badi  
+siguiente (trasero) - posi  
 sij - sikiste  
 sijismo - sikistia  
 silencioso - xuxi  
@@ -3150,7 +3169,7 @@ soporte (perchero, atril) - libobaze
 sorpresa - suprize  
 sranan tongo - surinami bax  
 Sri Lanka - Lanka  
-strontium - estrontem  
+strontium - strontem  
 su (suyo) - si  
 suajili - suahili  
 suave (liso) - lisi  
@@ -3168,7 +3187,7 @@ Suecia - Suenia
 suegra - gammai  
 suegro - gampai  
 sueño - som  
-sufijo - badofikse  
+sufijo - posfikse  
 sufijo para adjetivos - -i  
 sufijo para adverbios - -o  
 sufijo para regiónes y sustantivos abstractos - -ia  
@@ -3251,6 +3270,7 @@ telar - texmaxin
 telefonear - telfona  
 telefono - telfon  
 telefonía - telfonia  
+telescopio - teloskope  
 teletransportarse - teloloku  
 televisión - telvide  
 telurio - telurem  
@@ -3410,6 +3430,7 @@ una vez - unmaro
 unidad (medida) - metrun  
 unido - uniti  
 unir - una  
+universal - unversi  
 universidad - daixulkan  
 unión - unia  
 Unión Europea - Europi Unia  
@@ -3475,6 +3496,7 @@ vergüenza (pena) - xarme
 verme - verme  
 vermú - vermute  
 verruga - zeyil  
+versar - versa  
 versión (modelo) - version  
 vertical - gautali  
 vestido (llevando ropa) - fuki  
@@ -3506,6 +3528,7 @@ vinagre - vinsuan
 vinilo - vinil  
 vino - vin  
 virología - viruslojia  
+virrey - visrajer  
 virtud (moralidad) - bondeke  
 virtuoso (moral) - bondeki  
 virus - virus  

@@ -10,6 +10,10 @@ adres - endereço
 afgani - afegão  
 Afgania - Afeganistão  
 aga - se  
+agra - cultivar  
+agri - agrícola  
+agrobiulojia - agrobiologia  
+agronomia - agronomia  
 agres - ataque  
 agreser - agressor  
 ai - ai!  
@@ -202,6 +206,7 @@ coi - verdura
 coklate - chocolate  
 coklatobaton - barra de chocolate  
 cope - enxada  
+cun - aldeia (vila)  
 cuzable - opção  
 ####D - D  
 daidom - palácio (mansão, palacete)  
@@ -263,10 +268,6 @@ emoje - emoticon (emoji)
 emos - emoçao  
 emoshal - humor  
 englomargarite - margarida-comum  
-eskulter - escultor  
-esponje - esponja  
-estan - estanho  
-estibem - antimônio  
 evanjil - evangelho  
 euloge - elogio  
 europobalute - carvalho-roble  
@@ -280,6 +281,7 @@ explanete - exoplaneta (planeta extrassolar)
 exploze - explosão  
 explozu - explodir  
 expoza - expor (revelar)  
+extru - sair  
 extrata - extrair  
 exvidi - evidente  
 ####F - F  
@@ -326,10 +328,11 @@ futomarke - pegada
 ####G - G  
 gabra - enterrar  
 gabre - sepultura (túmulo)  
-gabrotopia - cemitério  
+gabrostan - cemitério  
 gabroxeke - lápide  
 Galia - Gália  
 galaksia - galáxia  
+galope - galope  
 galte - erro (falta)  
 galti - errôneo  
 gam - esposo ou esposa  
@@ -444,6 +447,7 @@ inmigran - imigrante
 inploze - imploção  
 inplozu - implodir  
 insida - agacharse  
+intru - entrar  
 insan - ser humano  
 insani hake - direitos humanos  
 insaniki - humano  
@@ -470,6 +474,7 @@ jeka - emprestar (pedir emprestado)
 jekodona - emprestar  
 jekogeta - pedir emprestado  
 jeni bax - língua materna  
+jenostan - terra natal  
 jentipe - genótipo  
 jihade - luta  
 jinse - sexo  
@@ -510,6 +515,7 @@ kamar - sala (câmara)
 kamil - camomila-vulgar  
 kamis - camisa  
 kamisi xake - manga  
+kampostan - área de acampamento  
 kance - vidro  
 kangaru\* - canguru  
 kanyon - canhão (ravina, barranco)  
@@ -720,6 +726,9 @@ meze - mesa
 mezotex - toalha de mesa  
 migre - migração  
 migru - mudar-se  
+mikrobiu - micróbio  
+mikrobiulojia - microbiologia  
+mikroskope - microscópio  
 milke - leite  
 milkokardon - cardo-mariano  
 mima - imitar (mimetizar)  
@@ -865,6 +874,7 @@ porei - alho-porro
 porte - porto  
 portoriki - porto-riquenho  
 Portorikia - Porto Rico  
+postri - posterior  
 postomarke - carimbo  
 poter - oleiro  
 poteria - cerâmica  
@@ -888,6 +898,10 @@ rapidi - rápido
 rari - raro  
 ras - raça  
 ratibe - ordem  
+retra - retornar  
+retru - voltar (regressar)  
+retroguli sense - náusea  
+retrotikete - passagem de volta  
 rei - repetição  
 reya - repetir  
 reibon - reparo  
@@ -895,9 +909,6 @@ reibona - reparar
 reiboner - reparador  
 reisikla - reciclar  
 reste - resto  
-retru - voltar (retornar)  
-retroguli sense - náusea  
-retrotikete - passagem de volta  
 rezerve - reserva  
 rim - rima  
 ring - anel  
@@ -963,6 +974,7 @@ sirplan - complô (conspiração)
 sisi - seis (6)  
 sisyom - sábado  
 site - cidade  
+skulter - escultor  
 slavi - eslavo  
 sofia - sabedoria (sagacidade, sapiência)  
 soi - soja  
@@ -981,6 +993,13 @@ song - pinheiro
 sor - fechadura  
 sosia - sociedade  
 sosis - salsicha  
+speter - espetador  
+sponje - esponja  
+sporte - esporte  
+stan - estanho  
+stibem - antimônio  
+studa - estudar (examinar)  
+studer - estudante  
 sual - questão (pergunta)  
 suala - perguntar  
 suar - noitinha  
@@ -1006,6 +1025,7 @@ tate - margem
 tehne - técnica  
 telfona - telefonar  
 telfonia - telefonia  
+teloskope - telescópio  
 temnam - título  
 ten - céu  
 tensi - tenso  
@@ -1049,10 +1069,14 @@ Venus - Vénus
 veri - verdadeiro  
 verme - verme  
 vermute - vermute  
+versu - encarar (afrontar; vérsus)  
 vespe - abelha ou vespa  
 vida - ver  
 vidou - viúvo  
 viyoleti - purpúreo (roxo)  
+vismai - madrasta  
+vispai - padrasto  
+visrajer - vice-rei  
 umur - idade  
 un (uni) - um (1)  
 uniki - único (só)  
@@ -1061,6 +1085,7 @@ unyom - segunda-feira
 unjani - só (solitário)  
 unmaro - uma vez  
 unoki lense - monóculo  
+unversi - universal  
 vode - promessa (voto)  
 vol - vontade  
 volu - querer (desejar)  
@@ -1071,8 +1096,6 @@ Uran - Urano
 urse - urso  
 vulve - vulva  
 vute - item  
-vismai - madrasta  
-vispai - padrasto  
 ####X - X  
 xalke - escama  
 Xampan - Champagne  
