@@ -30,9 +30,9 @@ afrikofiler - afrofil
 aga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 agra - uprawić, uprawiać  
 agrer - rolnik, farmer  
+agristan - wieś, tereny wiejskie  
+agristani - wiejski, rustykalny  
 agronomia - agronomia  
-agrostan - wieś, tereny wiejskie  
-agrostani - wiejski, rustykalny  
 agres - atak (agresja, napaść)  
 agresivi - agresywny  
 aha - rozumieć, pojmować  
@@ -469,7 +469,7 @@ carlun - lipiec
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
-caustan - łąka  
+cavistan - łąka  
 Cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 cel - komórka (biologia)  
@@ -771,9 +771,27 @@ eskala - wspinać się (wspiąć się)
 eskaltan - pnącz  
 Eskandia - Skandynawia  
 eskandem - skand  
+Eskotia - Szkocja  
+eskulta - rzeźbić  
+eskulte - rzeźba  
+eskultia - rzeźbiarstwo  
+eskulter - rzeźbiarz  
 Espania - Hiszpania  
 esperanti - Esperanto  
+esponje - gąbka  
+esporte - sport, lekkoatletyka  
+esporter - hałas  
 Estia - Estonia  
+estadia - stadion, arena  
+estan - cynk  
+estasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
+estasi - statyczny, stacjonarny, nieruchomy  
+estasia - stacja  
+estasu - nie ruszać się  
+estibem - antymon  
+estrontem - stront  
+estudia - studio (pracownia)  
+estuder - student  
 Etiopia - Etiopia  
 evi - korzystny (dobry)  
 evanjil - ewangelia  
@@ -951,7 +969,7 @@ futau - siekera, topór
 Gabon - Gabon  
 gabra - zakopać (pochować)  
 gabre - grób (mogiła, grobowiec)  
-gabrostan - cmentarz  
+gabristan - cmentarz  
 gabroxeke - nagrobek  
 gade - osioł  
 gadogude - muł  
@@ -994,7 +1012,7 @@ garmomosim - lato
 garmomosimmedi den - przesilenie letnie (dzień srodka lata)  
 garmozon - tropiki  
 garmozoni - tropikalny  
-garmozoni caustan - sawanna  
+garmozoni cavistan - sawanna  
 gas - gaz  
 gasa - zamieniać w gaz  
 gasi - gazowy  
@@ -1391,6 +1409,7 @@ jenden - urodziny
 jengrupe - pokolenie (generacja)  
 jenita - rozmnażać  
 jenklas - kasta  
+jenolojia - genealogia  
 jentipe - genotyp  
 jeng - walka, wojna  
 jengi - militarny, wojskowy, wojenny  
@@ -2093,7 +2112,7 @@ metrun - jednostka miary
 Mexiko - Meksyk  
 Mexiko site - Meksyk  
 meze - stół  
-mezostan - płaskowyż (plateau)  
+mezistan - płaskowyż (plateau)  
 mezotex - obrus  
 Myanma - Mjanma, Birma  
 mien - makaron  
@@ -2103,8 +2122,8 @@ migru - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedli�
 mikro\* - mikro-  
 mikrobiu - mikroorganizm  (mikrob)  
 mikrobiulojia - mikrobiologia  
-mikroskope - mikroskop  
 Mikronesia - Mikronezja  
+mikroskope - mikroskop  
 mili\* - mili-  
 miligram - miligram  
 milimitre - milimetr  
@@ -2226,6 +2245,7 @@ na lin - offline (nie na linii, poza siecią)
 no - nie  
 nabe - proroctwo  
 naber - prorok  
+nadiro - rzadko  
 nafas - oddech  
 nagre - miasto  
 nagri - miejski  
@@ -2570,9 +2590,9 @@ plastike - plastik
 plate - płaszczyzna (płyta)  
 plati - płaski  
 plati geukaskia - tektonika płyt  
+platistan - równina (plaskowyż, plateau)  
 platoforme - platforma  
 platogeviste - płaskoziemca  
-platostan - równina (plaskowyż, plateau)  
 platotas - talerz  
 platinem - platyna  
 Platon - Platon  
@@ -2730,8 +2750,8 @@ rebel - rebelia, powstanie
 reda - przygotować, przygotowywać  
 redi - gotowy  
 rege - piasek, piach  
+registan - pustynia  
 regopetre - piaskowiec  
-regostan - pustynia  
 rei - powtarzanie, powtórka  
 reya - powtórzyć, powtarzać  
 reyo - znowu (ponownie)  
@@ -3007,11 +3027,6 @@ sistemi - systemowy
 site - miast, miasteczko  
 sivili - cywilizowany (ucywilizowany)  
 sivilia - cywilizacja  
-Skotia - Szkocja  
-skulta - rzeźbić  
-skulte - rzeźba  
-skultia - rzeźbiarstwo  
-skulter - rzeźbiarz  
 slavi - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
@@ -3049,19 +3064,6 @@ sosiste - socjalista
 sosistia - socjalizm  
 sosis - kiełbasa  
 Soto - Lesotho  
-sponje - gąbka  
-sporte - sport, lekkoatletyka  
-sporter - hałas  
-stadia - stadion, arena  
-stan - cynk  
-stasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
-stasi - statyczny, stacjonarny, nieruchomy  
-stasia - stacja  
-stasu - nie ruszać się  
-stibem - antymon  
-strontem - stront  
-studia - studio (pracownia)  
-studer - student  
 suahili - suahili  
 sual - pytanie  
 suala - zapytać, spytać, pytać  

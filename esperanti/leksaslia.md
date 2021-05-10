@@ -230,6 +230,10 @@
 |**eni**|iu ajn|angla:any|
 |**er**|isto (anto)|angla: -er, deu: -er, franca: -eur, hispana: -ero, portugala: -eiro|
 |**eskal**|ŝtuparo|franca:escalier, hispana:escalera, portugala:escada, + angla:scale, deu:Skale, rusa:шкала (škala)|
+|**eskulter**|skultisto|hispana:portugala:escultor, franca:sculpteur, angla:sculptor, rusa:скульптор (skulptor)|
+|**esporte**|sporto|angla:deu:franca:sport, hispana:deporte, portugala:esporte, rusa:спорт (sport), japana:スポーツ (supōtsu), korea:스포츠 (seupocheu), hindia:स्पोर्ट (sporṭ), svahila:spoti, turka:spor|
+|**estadia**|stadiono (areno)|franca:stade, portugala:estádio, hispana:estadio, rusa:стадион (stadion), angla:stadium, turka:stadyum, araba:(ʾistād), hindia:स्टेडियम (sṭeḍiyam)|
+|**estasia**|stacio|turka:istasyon, portugala:estação, hispana:estación, filipina:estasyon, urdua:(isṭeśan), angla:franca:station, hindia:स्टेशन (sṭeśan), rusa:станция (stantsiya)|
 |**eurasia**|Eŭrazio|angla:hispana:malaja:Eurasia, portugala:Eurásia, franca:Eurasie, rusa:Евразия (Evraziya), turka:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), araba:يُورَاسِيَا‎ (yūrāsiyā), hindia:यूरेशिया (yūreśiyā), bengala:ইউরেশিয়া (iureśiẏa), mandarena:歐亞大陸 (Ōuyà dàlù), japana:ユーラシア (yūrashiya)|
 |**eureka**|trovi|greka:ευρίσκω (evrísko), angla:hispana:eureka, portugala:eureca, franca:eurêka, rusa:эврика (evrika), turka:efreka, japana:ユーレカ (yūreka)|
 |**Europe**|Eŭropo|angla:franca:Europe, hispana:portugala:deu:polona:Europa, greka:Ευρώπη (Evrópi) rusa:Европа (Evropa), turka:Avrupa, svahila:Uropa, hindia:यूरोप (yūrop), malaja:Eropah, mandarena:歐洲 (Ōuzhōu), japana:ヨーロッパ (yōroppa)|
@@ -603,6 +607,7 @@
 |**muta**|aliigi|hispana:mudar, angla:mutate, franca:muter|
 |**mux**|muso|polona:mysz, rusa:мышь (myś), persa:(muš)|
 |**muzike**|muziko|angla:music, franca:musique, hispana:portugala:música, rusa:музика (muzika), araba:(mūsīqā), svahila:muziki, turka:müzik, malaja:musik|
+|**nadiri**|malofta|araba: نَادِر‎ (nādir), hindia:नादिर (nādir), svahila:nadra, turka:nadir, persa: نادر (nâder)|
 |**nafas**|spiro|araba:persa:(nafas), malaja:napas, turka:nefes, haŭsa:numfashi|
 |**nagre**|urbo|hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), kanara:ನಗರ (nagara), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon)|
 |**nam**|nomo|hindia:नाम (nām), persa:panĝaba:urdua:(nām), taja:นาม (naam), malaja:nama, deu:angla:name, japana:名前 (namae), franca:nom|
@@ -756,7 +761,6 @@
 |**sistem**|sistemo|angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem|
 |**site**|urbo|angla:city, franca:cité, portugala:cidade, hispana:ciudad, itala:città + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)|
 |**siyahi**|nigra|persa:سیاه‎ (siyâh), hindia:सियाह (siyāh), urdua:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turka:siyah|
-|**skulter**|skultisto|hispana:portugala:escultor, franca:sculpteur, angla:sculptor, rusa:скульптор (skulptor)|
 |**sofa***|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
 |**sofia**|saĝeco|greka:σοφία (sofía) + angla:philosophy, franca:philosophie, hispana:filosofia, rusa:философия (filosofiya), malaja:filsafat, araba:(falsafa), svahila:falsafa, turka:felsefe, hindia:फ़लसफ़ा (falasfā)|
 |**soi**|sojo|angla:soy, franca:hispana:portugala:soja, rusa:соя (soya), araba: صُويَا‎ (ṣūyā), hindia:सोया (soyā), malaja:turka:soya + japana:醤油 (shōyu)|
@@ -766,10 +770,6 @@
 |**song**|pino|mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)|
 |**sosia**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
 |**sosis**|kolbaso|franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage|
-|**speta**|spekti|angla:spectate, franca:hispana:-spect-, portugala:-spet-|
-|**sporte**|sporto|angla:deu:franca:sport, hispana:deporte, portugala:esporte, rusa:спорт (sport), japana:スポーツ (supōtsu), korea:스포츠 (seupocheu), hindia:स्पोर्ट (sporṭ), svahila:spoti, turka:spor|
-|**stadia**|stadiono (areno)|franca:stade, portugala:estádio, hispana:estadio, rusa:стадион (stadion), angla:stadium, turka:stadyum, araba:(ʾistād), hindia:स्टेडियम (sṭeḍiyam)|
-|**stasia**|stacio|turka:istasyon, portugala:estação, hispana:estación, filipina:estasyon, urdua:(isṭeśan), angla:franca:station, hindia:स्टेशन (sṭeśan), rusa:станция (stantsiya)|
 |**sual**|demando|araba: سؤال (su'āl), hindia:सवाल (savāl), malaja:soal, svahila:swali|
 |**suani**|acida|mandarena:酸 (suān), kantona:酸 (syun1), vua:酸 (soe1), japana:酸 (san), korea:산 (san), vjetnama:toan|
 |**suar**|vespero|franca:soir, angla:soiree, rusa:суаре (suare), turka:suare + malaja:sore|

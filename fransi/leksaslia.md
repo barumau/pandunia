@@ -180,6 +180,11 @@
 |**em**|élément (unité fondamentale)|eng:-eme, spa:por:-ema, fra:-ème, rus:-ема (-ema), may:-em|
 |**emoje**|émoticône (emoji)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**emos**|émotion|eng:emotion, fra:émotion, spa:emoción, por:emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|
+|**eskulter**|sculpteur|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
+|**esponje**|éponge|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
+|**esporte**|sport|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
+|**estan**|étain|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|**estuda**|étudier|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**Europe**|Europe|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
 |**ex**|extérieur|eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|
 |**exploze**|explosion|eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|
@@ -416,6 +421,7 @@
 |**mur**|mur|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**murce**|fourmi|fas:مورچه (murče), rus:мурашка (murashka), ell:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
 |**muzike**|musique|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
+|**nadiri**|rare|ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)|
 |**najis**|pollution|ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|
 |**narde**|backgammon|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
 |**nasia**|nation|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
@@ -541,7 +547,6 @@
 |**sisi**|six (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|
 |**site**|ville|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**siyahi**|noir|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
-|**skulter**|sculpteur|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**sofa***|canapé (sofa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|sagesse|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soi**|soja|eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)|
@@ -553,10 +558,6 @@
 |**sor**|serrure|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|société|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|saucisse|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sponje**|éponge|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
-|**sporte**|sport|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
-|**stan**|étain|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
-|**studa**|étudier|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**sual**|question|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suar**|soir (soirée)|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
 |**suede**|sueur|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|

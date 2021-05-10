@@ -307,6 +307,7 @@ bokserpante - caleçon
 bol - balle (boule)  
 bombe - bombe  
 boni - bon  
+bonsinyi - propice  
 botel - bouteille  
 bravi - brave  
 bravo - bravo!  
@@ -426,9 +427,16 @@ englofoni - anglophone
 englomargarite - pâquerette  
 eskaltan - vigne  
 Eskandia - Scandinavie  
+eskulter - sculpteur  
+esponje - éponge  
+esporte - sport  
+estan - étain  
+estibem - antimoine  
+estuda - étudier  
+estude - étude  
+estuder - étudiant  
 evanjil - évangile  
 euloge - éloge  
-euspeti - propice  
 Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
@@ -493,7 +501,7 @@ futomarke - empreinte de pied
 ####G - G  
 gabra - enterrer  
 gabre - tombe  
-gabrostan - cimetière  
+gabristan - cimetière  
 gabroxeke - pierre tombale  
 gadogude - mule  
 Galia - Gaule  
@@ -510,7 +518,7 @@ gantex - serviette
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
-garmozoni caustan - savane  
+garmozoni cavistan - savane  
 gas - gaz  
 gati - dur  
 gau - haut  
@@ -663,8 +671,9 @@ jekodona - prêter
 jekogeta - empruntre  
 jena - donner naissance (procréer, engendrer, accoucher)  
 jeni bax - langue maternelle  
+jenistan - lieu de naissance  
 jenita - élever  
-jenostan - lieu de naissance  
+jenolojia - généalogie  
 jentipe - génotype  
 jihade - lutte  
 jino - en avant  
@@ -709,7 +718,7 @@ kamar - pièce (chambre)
 kamil - Camomille sauvage  
 kamis - chemise  
 kamisi xake - manche  
-kampostan - terrain de camping  
+kampistan - terrain de camping  
 kanape - canapé (sofa)  
 kance - verre  
 kangaru\* - kangourou  
@@ -961,6 +970,8 @@ muskulbin - culturisme (musculation)
 muzike - musique  
 ####N - N  
 no - non (ne...pas)  
+nadiri - rare  
+nadiro - rarement  
 najis - pollution  
 namkitaba - signer  
 narde - backgammon  
@@ -996,6 +1007,7 @@ o - ou
 ode - rang  
 oke - œil  
 oki - oculaire  
+speter - spectateur  
 okosuigas - gaz lacrymogène  
 okside - oxyde  
 onde - onde  
@@ -1083,8 +1095,8 @@ plan - plan
 plasta - modeler  
 plastopaste - pâte à modeler  
 plati geukaskia - tectonique des plaques  
+platistan - plaine  
 platogeviste - terreplatiste  
-platostan - plaine  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 polite - gouvernement  
@@ -1220,7 +1232,6 @@ sirkoxeke - pavé
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
-skulter - sculpteur  
 sofia - sagesse  
 sofa\* - canapé (sofa)  
 soi - soja  
@@ -1239,14 +1250,6 @@ son - son
 sor - serrure  
 sosia - société  
 sosis - saucisse  
-speter - spectateur  
-sponje - éponge  
-sporte - sport  
-stan - étain  
-stibem - antimoine  
-studa - étudier  
-stude - étude  
-studer - étudiant  
 sual - question  
 suala - demander (poser un question; est-ce que)  
 suanpurxipi - décapé (mariné)  

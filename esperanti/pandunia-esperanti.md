@@ -468,9 +468,17 @@ Eris - Eris (planedeto)
 Eritria - Eritreo  
 eskal - ŝtuparo  
 eskandem - skandio  
+eskulta - skulti  
+eskulte - statuo (skultaĵo)  
+eskulter - skultisto  
 Espania - Hispanio  
 esperanti - Esperanto  
+esporte - sporto  
 Estia - Estonio  
+estadia - stadiono (areno)  
+estasia - stacio  
+estrontem - stroncio  
+estuder - studento  
 Etiopia - Etiopio  
 evanjil - evangelio  
 eurasia - Eŭrazio  
@@ -597,7 +605,7 @@ futobol - piedpilko
 ####G - G  
 gabra - enterigi  
 gabre - tombo  
-gabrostan - tombejo  
+gabristan - tombejo  
 gabroxeke - tomboŝtono  
 gade - azeno  
 gadolinem - gadolinio  
@@ -842,7 +850,8 @@ jena - naskigi
 jeni bax - hejmlingvo  
 jenu - naski  
 jenden - naskiĝtago  
-jenostan - naskiĝejo  
+jenistan - naskiĝejo  
+jenolojia - genealogio  
 jeng - milito (batalo)  
 jengi - milita  
 jinse - sekso  
@@ -1237,6 +1246,8 @@ muziker - muzikisto
 na - sen  
 no - ne  
 nabe - profetaĵo  
+nadiri - malofta  
+nadiro - malofte  
 nafas - spiro  
 nagre - urbo  
 nagri - urba  
@@ -1296,6 +1307,7 @@ oganeson - oganesono
 oka - okulumi  
 oke - okulo  
 oki - okula  
+speter - spektanto  
 okeyi - akceptebla (okej)  
 okse - oksigeno  
 okside - oksido  
@@ -1448,7 +1460,7 @@ retre - reiro
 retru - reiri  
 redi - preta  
 rege - sablo  
-regostan - dezerto  
+registan - dezerto  
 rei - ripetado  
 reya - ripeti (refari)  
 reyo - denove (ripete)  
@@ -1573,9 +1585,6 @@ sisyom - sabato
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
-skulta - skulti  
-skulte - statuo (skultaĵo)  
-skulter - skultisto  
 sofi - saĝa  
 sofia - saĝeco  
 sofa\* - sofo  
@@ -1592,13 +1601,6 @@ son - sono
 song - pino  
 sosia - socio  
 sosis - kolbaso  
-speta - spekti  
-speter - spektanto  
-sporte - sporto  
-stadia - stadiono (areno)  
-stasia - stacio  
-strontem - stroncio  
-studer - studento  
 suahili - sŭahili  
 sual - demando  
 suala - demandi  

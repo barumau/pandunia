@@ -303,6 +303,13 @@ emosi - эмоциональный
 emoshal - настроение  
 englomargarite - маргаритка многоле́тняя  
 eskala - подниматься  
+eskulter - скульптор  
+esponje - губка  
+esporte - спорт  
+estibem - сурьма (стибиум)  
+estuda - изучать  
+estude - этюд  
+estuder - студент  
 evanjil - евангелие  
 euloge - панегирик  
 europobalute - дуб черешчатый  
@@ -368,7 +375,7 @@ futomarke - след ноги
 ####G - G  
 gabra - хоронить  
 gabre - могила (гроб)  
-gabrostan - кладбище  
+gabristan - кладбище  
 gabroxeke - надгробие  
 gadogude - мул  
 Galia - Галлия  
@@ -521,8 +528,9 @@ jena - родить
 jeni - сырой  
 jeni bax - родной язык  
 jengrupe - поколение  
+jenistan - место рождения  
 jenita - выращивать  
-jenostan - место рождения  
+jenolojia - генеалогия  
 jentipe - генотип  
 jihade - борьба (бой)  
 jinse - пол  
@@ -565,7 +573,7 @@ kalsopetre - известняк
 kamar - комната (камера)  
 kamil - ромашка аптечная  
 kamis - рубашка  
-kampostan - полевой стан  
+kampistan - полевой стан  
 kanape - канапе  
 kance - стекло  
 kancodaka - глазуровать  
@@ -820,6 +828,8 @@ muskulbin - культуризм
 muzike - музика  
 ####N - N  
 no - нет (не)  
+nadiri - редкий  
+nadiro - редко  
 najis - грязь (скверна)  
 namkitaba - подписать  
 narde - нарды (триктрак)   
@@ -1070,7 +1080,6 @@ sirplan - заговор (сговор)
 sirkoxeke - булыжник  
 sisi - шесть (6)  
 sisyom - суббота  
-skulter - скульптор  
 slavi - славянский  
 sofia - мудрость  
 sofa\* - софа (диван, канапе)  
@@ -1090,12 +1099,6 @@ sori - запереть
 sosi jinse - гендер  
 sosia - общество (социум)  
 sosis - колбаса (сосиска)  
-sponje - губка  
-sporte - спорт  
-stibem - сурьма (стибиум)  
-studa - изучать  
-stude - этюд  
-studer - студент  
 sual - вопрос  
 suala - спрашивать  
 sualdokum - анкета  

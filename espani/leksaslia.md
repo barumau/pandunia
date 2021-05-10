@@ -301,6 +301,13 @@
 |**er**|hacedor (perpetrador)|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |**esei**|ensayo (redacción)|eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|
 |**eskal**|escalera|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
+|**eskulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
+|**esponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
+|**esporte**|deporte|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
+|**estadia**|estadio (arena)|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
+|**estan**|estaño|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|**estasia**|estación|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
+|**estuda**|estudiar (examinar)|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**eurasia**|Eurasia|eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|
 |**eureka**|econtrar (hallar)|ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|
 |**Europe**|Europa|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
@@ -867,6 +874,7 @@
 |**mux**|ratón|pol:mysz, rus:мышь (myś), fas:(muš)|
 |**muzike**|música|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
 |**naber**|profeta|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
+|**nadiri**|raro|ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)|
 |**nafas**|respiración|ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|
 |**nagre**|pueblo|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
 |**nahun**|uña|fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)|
@@ -1146,7 +1154,6 @@
 |**site**|ciudad|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**sivili**|civilizado|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**siyahi**|negro|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
-|**skulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**sofa***|sofá|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|sabiduría|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soi**|soja|eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)|
@@ -1159,12 +1166,6 @@
 |**sor**|cerradura (candado)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|sociedad|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|salchicha|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
-|**sporte**|deporte|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
-|**stadia**|estadio (arena)|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
-|**stan**|estaño|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
-|**stasia**|estación|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
-|**studa**|estudiar (examinar)|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**sual**|pregunta|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suani**|agrio (ácido)|zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|
 |**suar**|noche (tarde)|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|

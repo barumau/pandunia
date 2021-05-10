@@ -296,6 +296,12 @@
 |**er**|przyrostek dla wykonawcy|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |**esei**|esej|eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)|
 |**eskal**|schody (drabina)|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
+|**eskulter**|rzeźbiarz|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
+|**esponje**|gąbka|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
+|**esporte**|sport, lekkoatletyka|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
+|**estadia**|stadion, arena|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
+|**estan**|cynk|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|**estasia**|stacja|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
 |**eurasia**|Eurazja|eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|
 |**eureka**|znaleźć, znajdywać, odkryć, odkrywać|ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|
 |**Europe**|Europa|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
@@ -1139,7 +1145,6 @@
 |**site**|miast, miasteczko|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**sivili**|cywilizowany (ucywilizowany)|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**siyahi**|czarny|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
-|**skulter**|rzeźbiarz|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**sofa***|sofa (kanapa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofia**|mądrość|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soka**|szukać|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen + rus:искать (iskat’)|
@@ -1151,11 +1156,6 @@
 |**sor**|zamek (zapięcie)|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|społeczeństwo, system społeczny|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|kiełbasa|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sponje**|gąbka|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
-|**sporte**|sport, lekkoatletyka|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
-|**stadia**|stadion, arena|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
-|**stan**|cynk|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
-|**stasia**|stacja|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
 |**sual**|pytanie|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suani**|kwaśny|zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|
 |**suanpurxipe**|marynować|fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|

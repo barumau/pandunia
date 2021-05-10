@@ -201,7 +201,7 @@ Anticristo - ankriste
 Antigua - Antigua  
 Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlandi Antil  
-antimonio - stibem  
+antimonio - estibem  
 antorcha - fotobaton  
 antónimo - annam  
 análisis (disección) - fenkate  
@@ -297,7 +297,7 @@ atravesar - zonga
 attracción (-filia) - filia  
 aullar - ulula  
 aullido - ulul  
-auspicioso - bonsinyi  
+auspicioso (propicio) - bonsinyi  
 Australia - Australia  
 Austria - Ostria  
 autenticar - verita  
@@ -536,7 +536,7 @@ campamento - kampe
 campana (cencerro) - danger  
 campeón - campion  
 campista - kamper  
-campo - agrostan  
+campo - agristan  
 campo de visión - vidomeden  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
@@ -611,7 +611,7 @@ celebrar (festejar) - festa
 celeste (azul celeste) - tennili  
 celeste (celestial) - teni  
 celoso (envidioso) - jelosi  
-cementerio - gabrostan  
+cementerio - gabristan  
 cemento - semente  
 cena - suaryam  
 ceniza - hui  
@@ -992,8 +992,8 @@ demonio - demon
 demócrata - demkratiste  
 dentista (odontólogo) - dantomediker  
 dentro - intro  
-deporte - sporte  
-deportista - sporter  
+deporte - esporte  
+deportista - esporter  
 depurar - angalta  
 derechista - raitiste  
 derecho - hake  
@@ -1011,7 +1011,7 @@ descargar - netogeta
 descriptivo - sifi  
 deseo - vol  
 desfigurar - dusforma  
-desierto - regostan  
+desierto - registan  
 deslizar - glisu  
 desnudo - nudi  
 despertar - jaga  
@@ -1226,7 +1226,7 @@ escarcha - himros
 escasez - xavia  
 escaso (disperso, ralo) - anjami  
 escenario - sen  
-Escocia - Skotia  
+Escocia - Eskotia  
 escribir - kitaba  
 escritorio (mesa de trabajo) - karmeze  
 escritura - kitabe  
@@ -1235,10 +1235,10 @@ escudo - defban
 escuela (colegio, institución) - xulkan  
 escuela primaria - bazoxulkan  
 escuela secundaria - jungoxulkan  
-esculpir - skulta  
-escultor - skulter  
-escultura (arte de escultura) - skultia  
-escultura (estatua) - skulte  
+esculpir - eskulta  
+escultor - eskulter  
+escultura (arte de escultura) - eskultia  
+escultura (estatua) - eskulte  
 escupir (bufar) - tuha  
 eslabón - sil  
 eslavo - slavi  
@@ -1262,15 +1262,15 @@ esperar (desear) - inxala
 esperar - denga  
 espicificar (estipular) - xarta  
 espiral (hélice) - helis  
-esponja - sponje  
+esponja - esponje  
 esposo o esposa - gam  
 espárrago - lusun  
 esqueleto (armazón) - ostojamia  
 esquina (rincón, ángulo) - gon  
 estacionamiento (aparcamiento) - garparke  
 estación (temporada) - mosim  
-estación - stasia  
-estadio (arena) - stadia  
+estación - estasia  
+estadio (arena) - estadia  
 estado (condición) - hal  
 Estados Unidos de América - Uniti Dex Da Amerike (UDA)  
 estadounidense - UDA du  
@@ -1278,20 +1278,20 @@ estante (repisa) - liboban
 estar al lado de - lata  
 estar de pie - libu  
 estar en contra - kontra  
-estaño - stan  
+estaño - estan  
 estimar (apriximarse a) - yaga  
 estirar (extender) - tirlonga  
 Estonia - Estia  
 estornudar - acua  
 estrella - xing  
 estribor - nauraite  
-estudiante - studer  
+estudiante - estuder  
 estudiante - xuler  
-estudiar (examinar) - studa  
+estudiar (examinar) - estuda  
 estudiar (investigar) - loja  
-estudio - studia  
+estudio - estudia  
 estupidez (tontería) - idiotia  
-estático (estacionario) - stasi  
+estático (estacionario) - estasi  
 estúpido (tonto) - idioti  
 Esuatini (Suazilandia) - Suati  
 esvástica (cruz gamada) - hukokrus  
@@ -1468,6 +1468,7 @@ gato tigre (maracayá) - margai
 gay (homosexual) - geyi  
 gañar (triunfar, lograr, desrotar) - xenga  
 gel (jalea, gelatina) - jel  
+genealogía - jenolojia  
 generación (cohorte) - jengrupe  
 general (common) - putongi  
 generalísimo (sogún) - gunrajer  
@@ -1962,7 +1963,7 @@ livermorio - livermorem
 llama - liama\*  
 llamar (poner) - namana  
 llamarse - nama  
-llanura - platostan  
+llanura - platistan  
 llave - cabe  
 llenar - pura  
 lleno (completo) - puri  
@@ -1985,7 +1986,7 @@ lote (grupo) - lote
 lucha - jihade  
 luchador (guerrero) - jenger  
 lugar - loke  
-lugar de nacimiento - jenostan  
+lugar de nacimiento - jenistan  
 lujuria (deseo) - kamia  
 luna - lun  
 lunes - unyom  
@@ -2052,7 +2053,7 @@ maniqueísmo - manihayistia
 mano - hande  
 manso (dócil, obediente) - dosili  
 mantel - mezotex  
-mantener (detener) - stasa  
+mantener (detener) - estasa  
 mantequilla - makan  
 mantra - mantre  
 manual - handi  
@@ -2146,7 +2147,7 @@ mercado (bazar) - bazar
 mercurio - hurargente  
 Mercurio - Merkur  
 mesa - meze  
-meseta - mezostan  
+meseta - mezistan  
 mesiánico - kristi  
 meta (gol, destinación) - gol  
 metal - metal  
@@ -2514,7 +2515,7 @@ Paraguay - Paraguai
 paralelo - parlini  
 parar (detener) - tinga  
 parar - pauza  
-pararse (detenerse) - stasu  
+pararse (detenerse) - estasu  
 pararse (detenerse) - tingu  
 parasol - barxocate  
 parasol - solcate  
@@ -2724,7 +2725,7 @@ posterior - postri
 postura (posición) - asan  
 potasio - kalem  
 practicar (ensayar, ejercitar) - lenxa  
-pradera (pastizal) - caustan  
+pradera (pastizal) - cavistan  
 praseodimio - prasedem  
 preceder (anteceder) - cena  
 precio (coste) - koste  
@@ -2777,7 +2778,6 @@ prometio - prometem
 pronombre - visloge  
 pronto - suno  
 pronunciar (articular) - fona  
-propicio - euspeti  
 propiedad - mal  
 proponente (defensor, -ista) - iste  
 proteger (asegurar, guardar) - sekura  
@@ -2862,7 +2862,9 @@ Ramadán - ramazan
 rampa (cuesta) - rampe  
 rana - krokroke  
 rapidez (velocidad) - rapidia  
+raramente - nadiro  
 raro (extraño) - bizari  
+raro - nadiri  
 raro - rari  
 rasgar (romper) - cir  
 rasgar (romper) - cira  
@@ -2993,7 +2995,7 @@ rueda (volante) - cakre
 ruido - kelel  
 ruiseñor - bulbul  
 Rumania - Romania  
-rural (rústico) - agrostani  
+rural (rústico) - agristani  
 Rusia - Rusia  
 ruso - rusi  
 ruta - rute  
@@ -3006,7 +3008,7 @@ régimen - politomode
 réservation - rezerve  
 rígido (sólido) - gatomati  
 ####S - S  
-sabana - garmozoni caustan  
+sabana - garmozoni cavistan  
 sabbat - sabate  
 saber (conocer) - sava  
 sabiduría (conocimiento) - sau  
@@ -3169,7 +3171,7 @@ soporte (perchero, atril) - libobaze
 sorpresa - suprize  
 sranan tongo - surinami bax  
 Sri Lanka - Lanka  
-strontium - strontem  
+strontium - estrontem  
 su (suyo) - si  
 suajili - suahili  
 suave (liso) - lisi  

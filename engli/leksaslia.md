@@ -308,6 +308,13 @@
 |**er**|doer (agent, actor)|English: -er, deu: -er, French: -eur, Spanish: -ero, Portuguese: -eiro|
 |**esei**|essay|English:essay, Spanish:ensayo, Portuguese:ensaio, French:essai, deu:Essay, Russian:эссе (esse), Japanese:エッセイ (essei)|
 |**eskal**|stairs (ladder)|French:escalier, Spanish:escalera, Portuguese:escada, + English:scale, deu:Skale, Russian:шкала (škala)|
+|**eskulter**|sculptor|Spanish:Portuguese:escultor, French:sculpteur, English:sculptor, Russian:скульптор (skulptor)|
+|**esponje**|sponge|English:sponge, Spanish:Portuguese:esponja, Arabic:إسفنج (ʾisfanj), Persian:اسفنج‎ (esfanj), Hindi:स्पंज (spanja), Japanese:スポンジ (suponji), Malay:spon, Swahili:sponji|
+|**esporte**|sport (athletics)|English:deu:French:sport, Spanish:deporte, Portuguese:esporte, Russian:спорт (sport), Japanese:スポーツ (supōtsu), Korean:스포츠 (seupocheu), Hindi:स्पोर्ट (sporṭ), Swahili:spoti, Turkish:spor|
+|**estadia**|stadium (arena)|French:stade, Portuguese:estádio, Spanish:estadio, Russian:стадион (stadion), English:stadium, Turkish:stadyum, Arabic:(ʾistād), Hindi:स्टेडियम (sṭeḍiyam)|
+|**estan**|tin|Spanish:estaño, Portuguese:estanho, French:étain, Italian:stagno, English:tin|
+|**estasia**|station|Turkish:istasyon, Portuguese:estação, Spanish:estación, Filipino:estasyon, Urdu:(isṭeśan), English:French:station, Hindi:स्टेशन (sṭeśan), Russian:станция (stantsiya)|
+|**estuda**|study (work in order to practise or demonstrate)|English:study, French:étudier, Spanish:estudiar, Portuguese:estudar, Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)|
 |**eurasia**|Eurasia|English:Spanish:Malay:Eurasia, Portuguese:Eurásia, French:Eurasie, Russian:Евразия (Evraziya), Turkish:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), Arabic:يُورَاسِيَا‎ (yūrāsiyā), Hindi:यूरेशिया (yūreśiyā), Bengali:ইউরেশিয়া (iureśiẏa), Mandarin:歐亞大陸 (Ōuyà dàlù), Japanese:ユーラシア (yūrashiya)|
 |**eureka**|find (discover)|Greek:ευρίσκω (evrísko), English:Spanish:eureka, Portuguese:eureca, French:eurêka, Russian:эврика (evrika), Turkish:efreka, Japanese:ユーレカ (yūreka)|
 |**Europe**|Europe|English:French:Europe, Spanish:Portuguese:deu:Polish:Europa, Greek:Ευρώπη (Evrópi) Russian:Европа (Evropa), Turkish:Avrupa, Swahili:Uropa, Hindi:यूरोप (yūrop), Malay:Eropah, Mandarin:歐洲 (Ōuzhōu), Japanese:ヨーロッパ (yōroppa)|
@@ -508,6 +515,7 @@
 |**inxala**|hope (wish)|Arabic:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), Persian:ان‌شاءالله (enšâ'allâh), Turkish:inşallah, Malay:insya allah, Spanish:ojalá, Portuguese:oxalá, English:inshallah, Russian:иншаллах (inšallax), Bengali:ইনশাআল্লাহ্ (inśaallah), Mandarin:印沙安拉 (yìnshā'ānlā)|
 |**ironia**|irony|English:irony, Spanish:ironía, Portuguese:ironia, French:ironie, Russian:иро́ния (ironija), Japanese:アイロニー (aironī)|
 |**islam**|submission (surrender)|Arabic:(ʾislām), Persian:(taslim), Turkish:teslim|
+|**istan**|tract (land, ground, region)|Hindi:स्थान (sthān), Russian:стан (stan), Persian:ـستان (-estān)|
 |**iste**|proponent (supporter, activist, -ist)|English:deu:Turkish:-ist, French:-iste, Spanish:Portuguese:-ista, Russian:-ист (-ist)|
 |**ite**|object (patient, target)|English:-ed, French:-ite, deu:-it, Spanish:Portuguese:-ido, Hindi:-इत (-it)|
 |**itis**|inflammation (-itis)|English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)|
@@ -891,6 +899,7 @@
 |**mux**|mouse|Polish:mysz, Russian:мышь (myś), Persian:(muš)|
 |**muzike**|music|English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik|
 |**naber**|prophet|Arabic:(nabiy), Hindi:नबी (nabī), Malay:nabi, Swahili:nabii, Hausa:annabi, Turkish:nebi|
+|**nadiri**|rare (scarce, uncommon)|Arabic: نَادِر‎ (nādir), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir, Persian: نادر (nâder)|
 |**nafas**|breath|Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi|
 |**nagre**|town|Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)|
 |**nahun**|nail (fingernail)|Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)|
@@ -948,6 +957,7 @@
 |**orti**|straight|English:French:ortho-, Spanish:Portuguese:orto-, Russian:орто- (orto-)|
 |**oselote**|ocelot|nah:tlālocēlōtl, English:ocelot, Spanish:Portuguese:ocelote, Russian:оцелот (ocelot), Turkish:oselo, Arabic:أصلوت ('aslut), Hindi:ऑसेलॉट (ŏsēlŏṭa), Japanese:オセロット (oserotto)|
 |**osidian**|obsidian|English:Malay:obsidian, Spanish:Portuguese:obsidiana, Italian:ossidiana, Russian:обсидиан (obsidian), Swahili:obsidiyen, Hindi:ऑब्सिडियन (obsidiyan)|
+|**oskope**|scope (viewer)|English:French:-scope, Spanish:Portuguese:-scopio, Russian:-скоп (skop), Japanese:スコープ (sukōpu), Hindi:स्कोप (-skop), Malay:Turkish:-skop|
 |**oskuri**|dark (dim)|English:obscure, Spanish:oscuro, Portuguese:escuro, French:obscur|
 |**osmos**|osmosis|Greek:ώσμωση (ósmosi), English:Malay:osmosis, Spanish:ósmosis, Portuguese:French:osmose, Russian:осмос (osmos), Persian:تَراران (osmoz)|
 |**oste**|bone|English:deu:osteo-, Russian:остео- (osteo-), Italian:Portuguese:osso, French:os, Hindi:अस्थि (asthi-)|
@@ -1178,8 +1188,6 @@
 |**site**|city (town)|English:city, French:cité, Portuguese:cidade, Spanish:ciudad, Italian:città + Mandarin:市 (shì), Korean:시 (si), Japanese:都市 (toshi)|
 |**sivili**|civilized (civil)|English:civil, Portuguese:civil, Hindi:सिविल (sivil), Malay:sipil|
 |**siyahi**|black|Persian:سیاه‎ (siyâh), Hindi:सियाह (siyāh), Urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), Turkish:siyah|
-|**skope**|scope (viewer)|English:French:-scope, Spanish:Portuguese:-scopio, Russian:-скоп (skop), Japanese:スコープ (sukōpu), Hindi:स्कोप (-skop), Malay:Turkish:-skop|
-|**skulter**|sculptor|Spanish:Portuguese:escultor, French:sculpteur, English:sculptor, Russian:скульптор (skulptor)|
 |**sofa***|sofa (couch)|English:French:sofa, Spanish:Portuguese:sofá, Russian:софа (sofa), Mandarin:沙发 (shāfā), Japanese:ソファ (sofa), Korean:소파 (sopa), Hindi:सोफ़ा (sofā)|
 |**sofia**|wisdom|Greek:σοφία (sofía) + English:philosophy, French:philosophie, Spanish:filosofia, Russian:философия (filosofiya), Malay:filsafat, Arabic:(falsafa), Swahili:falsafa, Turkish:felsefe, Hindi:फ़लसफ़ा (falasfā)|
 |**soi**|soy bean|English:soy, French:Spanish:Portuguese:soja, Russian:соя (soya), Arabic: صُويَا‎ (ṣūyā), Hindi:सोया (soyā), Malay:Turkish:soya + Japanese:醤油 (shōyu)|
@@ -1192,14 +1200,6 @@
 |**sor**|lock (fastener)|Mandarin:锁 (suǒ), Cantonese:鎖 (so2), Wu-Chinese:鎖 (su2), Japanese:錠 (jō), Khmer:សោ (sao), Spanish:cierre, French:serrure, Hungarian:zár|
 |**sosia**|society (association)|Russian:социум (socium), English:society, Spanish:sociedad|
 |**sosis**|sausage|French:saucisse, Turkish:Malay:sosis, Persian:(sosis), Russian:сосиска  (sosiska), Japanese:ソーセージ (sosēji), Hindi:सॉसेज (sosej), Bengali:সসেজ (sôsej), English:sausage|
-|**speta**|watch (observe, spectate)|English:spectate, French:Spanish:-spect-, Portuguese:-spet-|
-|**sponje**|sponge|English:sponge, Spanish:Portuguese:esponja, Arabic:إسفنج (ʾisfanj), Persian:اسفنج‎ (esfanj), Hindi:स्पंज (spanja), Japanese:スポンジ (suponji), Malay:spon, Swahili:sponji|
-|**sporte**|sport (athletics)|English:deu:French:sport, Spanish:deporte, Portuguese:esporte, Russian:спорт (sport), Japanese:スポーツ (supōtsu), Korean:스포츠 (seupocheu), Hindi:स्पोर्ट (sporṭ), Swahili:spoti, Turkish:spor|
-|**stadia**|stadium (arena)|French:stade, Portuguese:estádio, Spanish:estadio, Russian:стадион (stadion), English:stadium, Turkish:stadyum, Arabic:(ʾistād), Hindi:स्टेडियम (sṭeḍiyam)|
-|**stan**|tin|Spanish:estaño, Portuguese:estanho, French:étain, Italian:stagno, English:tin|
-|**stan**|tract (land, ground, region)|Hindi:स्थान (sthān), Russian:стан (stan), Persian: ـستان‎ (-stân)|
-|**stasia**|station|Turkish:istasyon, Portuguese:estação, Spanish:estación, Filipino:estasyon, Urdu:(isṭeśan), English:French:station, Hindi:स्टेशन (sṭeśan), Russian:станция (stantsiya)|
-|**studa**|study (work in order to practise or demonstrate)|English:study, French:étudier, Spanish:estudiar, Portuguese:estudar, Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)|
 |**sual**|question (query, inquiry)|Arabic: سؤال (su'āl), Hindi:सवाल (savāl), Malay:soal, Swahili:swali|
 |**suani**|sour|Mandarin:酸 (suān), Cantonese:酸 (syun1), Wu-Chinese:酸 (soe1), Japanese:酸 (san), Korean:산 (san), Vietnamese:toan|
 |**suar**|evening|French:soir, English:soiree, Russian:суаре (suare), Turkish:suare + Malay:sore|

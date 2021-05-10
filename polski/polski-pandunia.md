@@ -75,7 +75,7 @@ Antigua i Barbuda - Antigua e Barbuda
 antonim - annam  
 antychryst - ankriste  
 Antyle Holenderskie - Nederlandi Antil  
-antymon - stibem  
+antymon - estibem  
 apsik - acu\*  
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabi  
@@ -363,7 +363,7 @@ ciężarny (w ciąży) - hamili
 ciężki (masywny) - bari  
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanci  
-cmentarz - gabrostan  
+cmentarz - gabristan  
 cnota (moralność) - bondeke  
 cnotliwy (prawy) - bondeki  
 co? - ke  
@@ -376,7 +376,7 @@ cukierek, słodycze - kande
 cukinia - lilkaboge  
 cukrowiec jadalny - yamsukarcau  
 cwał (galop) - galope  
-cynk - stan  
+cynk - estan  
 cynk - zinke  
 Cypr - Kipris  
 Cypr Północny - Nordi Kipris  
@@ -702,6 +702,7 @@ gałąź, konar - xake
 gdzie - ya ke  
 gejowski (homoseksualny) - geyi  
 genderqueer, niebinarny - bis  
+genealogia - jenolojia  
 genotyp - jentipe  
 geologia - geulojia  
 german - germanem  
@@ -786,7 +787,7 @@ góra, wzgórze - xan
 górnik (kopacz) - kuanger  
 górny - supri  
 gówno - xite  
-gąbka - sponje  
+gąbka - esponje  
 gładki - lisi  
 głaz - daixeke  
 głos - vote  
@@ -817,7 +818,7 @@ haszysz - haxix
 hasło - sekurkode  
 Hawaje (archipelag hawajski) - Havai nesia  
 Hawaje - Havai  
-hałas - sporter  
+hałas - esporter  
 hebel, strug - rande  
 heblować - randa  
 hebrajski - ibri  
@@ -1683,7 +1684,7 @@ neuropatia - neurpatia
 Nevis - Nevis  
 nic, żadna rzecz - nol xei  
 nie - no  
-nie ruszać się - stasu  
+nie ruszać się - estasu  
 nie zgadzać się - alraya  
 niebezpieczeństwo, ryzyko, szansa - zar  
 niebezpieczny - hatri  
@@ -2347,7 +2348,7 @@ puma (kuguar) - puma\*
 punkt - binde  
 pustka - kal  
 pusty - kali  
-pustynia - regostan  
+pustynia - registan  
 pułapka - kapotruke  
 pyszny - yami  
 pytajny, związany z pytaniem - sualan  
@@ -2364,7 +2365,7 @@ pęknąć (rozpaść się) - fenu
 płakać, łkać - kuga  
 płaski - plati  
 płaski chleb, ćapati - capate  
-płaskowyż (plateau) - mezostan  
+płaskowyż (plateau) - mezistan  
 płaskoziemca - platogeviste  
 płaszcz - kote  
 płaszcz nieprzemakalny - barxokote  
@@ -2506,15 +2507,16 @@ ryś rudy - lalolince
 ryż - ris  
 rzadki (nieczęsty) - rari  
 rzadki (rozrzedzony, rozproszony) - anjami  
+rzadko - nadiro  
 rzadkość - raria  
 rzecz - xei  
 rzeczownik - namloge  
 rzeka - riu  
 rzemieślnik - janger  
-rzeźba - skulte  
-rzeźbiarstwo - skultia  
-rzeźbiarz - skulter  
-rzeźbić - skulta  
+rzeźba - eskulte  
+rzeźbiarstwo - eskultia  
+rzeźbiarz - eskulter  
+rzeźbić - eskulta  
 rzodkiewka - lobake  
 rzucić, rzucać, miotać, cisnąć, ciskać - lanca  
 rzut (projekcja) - lancograf  
@@ -2527,7 +2529,7 @@ rzęsa - okokex
 róg - buge  
 róg - korne  
 równik - geuparlin  
-równina (plaskowyż, plateau) - platostan  
+równina (plaskowyż, plateau) - platistan  
 równoległy (podłużny) - parlini  
 równy - pari  
 równy - parike  
@@ -2564,7 +2566,7 @@ satanista - xataniste
 satanizm - xatanistia  
 Saturn - Saturne  
 sauna - sauna\*  
-sawanna - garmozoni caustan  
+sawanna - garmozoni cavistan  
 sałata - letis  
 sałatka - salade  
 scena - sen  
@@ -2670,7 +2672,7 @@ spodnie (pantalony, portki) - pante
 spodziewany (przewidziany) - cenvidi  
 spokojny - xanti  
 sporokarp - fungopal  
-sport, lekkoatletyka - sporte  
+sport, lekkoatletyka - esporte  
 sposób (metoda, tryb) - mode  
 spotkanie, zebranie - mite  
 spotkać - mita  
@@ -2697,8 +2699,8 @@ Sri Lanka - Lanka
 srom - vulve  
 ssak - mamal  
 ssać - cupa  
-stacja - stasia  
-stadion, arena - stadia  
+stacja - estasia  
+stadion, arena - estadia  
 stan - hal  
 Stan Nowy Jork - Novi Yorke site  
 Stany Zjednoczone Ameryki - Uniti Dex Da Amerike (UDA)  
@@ -2706,7 +2708,7 @@ Starożytny Egipt (Kemet) - Kemia
 stary (sędziwy, wiekowy) - lavi  
 stary, starożytny - ceniki  
 starzec - lau  
-statyczny, stacjonarny, nieruchomy - stasi  
+statyczny, stacjonarny, nieruchomy - estasi  
 stać - libu  
 stały (sztywny) - gatomati  
 sterburta (prawa burta) - nauraite  
@@ -2729,13 +2731,13 @@ strażnik więzienny - prizoner
 strażnik, ochroniarz - garder  
 strona (bok) - late  
 strona - varkolate  
-stront - strontem  
+stront - estrontem  
 strzała (bełt) - flece  
 strzelać (strzelić) - pava  
 strzykwa - haihiyar  
 strzępić (drzeć) - circira  
-student - studer  
-studio (pracownia) - studia  
+student - estuder  
+studio (pracownia) - estudia  
 styczeń - unlun  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parca  
@@ -2795,7 +2797,7 @@ sześć (6) - sisi
 szisz kebab - xixkababe  
 szkielet - ostojamia  
 szklić (glazurować) - kancodaka  
-Szkocja - Skotia  
+Szkocja - Eskotia  
 szkoła (instytucja) - xulkan  
 szkoła podstawowa - bazoxulkan  
 szkło - kance  
@@ -3136,7 +3138,7 @@ widok, wzrok - vide
 wieczór - suar  
 wiedza - sau  
 wiedzieć - sava  
-wiejski, rustykalny - agrostani  
+wiejski, rustykalny - agristani  
 wiek - umur  
 wielbłąd, wielbłądzica - gamel  
 wiele - multi  
@@ -3158,7 +3160,7 @@ wierzący (osoba religijna) - diniste
 Wietnam - Vietia  
 wietnamski - vieti  
 wiewiórka - ekor  
-wieś, tereny wiejskie - agrostan  
+wieś, tereny wiejskie - agristan  
 wieś, wioska - cun  
 wieża - minar  
 wieża zegarowa - horlogerminar  
@@ -3391,7 +3393,7 @@ zasób - faide
 zasłona, kurtyna - parde  
 zatkać, ztykać - tapa  
 zatoka - bai  
-zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - stasa  
+zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - estasa  
 zatrzymać - tinga  
 zatrzymać się - tingu  
 zawias, oś - xarnir  
@@ -3521,7 +3523,7 @@ zły, zrujnowany, zepsuty - harabi
 łóżko - bede  
 łączyć (złączyć) - rivunu  
 łączyć, wiązać, złączyć - linka  
-łąka - caustan  
+łąka - cavistan  
 Święta Helena - Santi Helena  
 ścieżka (droga, szlak, kurs) - rute  
 ścisnąć (sciskać, wycisnąć) - inpuxa  

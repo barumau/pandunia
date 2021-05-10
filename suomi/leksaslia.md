@@ -303,6 +303,13 @@
 |**er**|tekijä (aikaansaaja)|englanti: -er, deu: -er, ranska: -eur, espanja: -ero, portugali: -eiro|
 |**esei**|essee|englanti:essay, espanja:ensayo, portugali:ensaio, ranska:essai, deu:Essay, venäjä:эссе (esse), japani:エッセイ (essei)|
 |**eskal**|portaat (rappuset, tikkaat)|ranska:escalier, espanja:escalera, portugali:escada, + englanti:scale, deu:Skale, venäjä:шкала (škala)|
+|**eskulter**|kuvanveistäjä|espanja:portugali:escultor, ranska:sculpteur, englanti:sculptor, venäjä:скульптор (skulptor)|
+|**esponje**|sienieläin|englanti:sponge, espanja:portugali:esponja, arabia:إسفنج (ʾisfanj), persia:اسفنج‎ (esfanj), hindi:स्पंज (spanja), japani:スポンジ (suponji), malaiji:spon, suahili:sponji|
+|**esporte**|urheilu|englanti:deu:ranska:sport, espanja:deporte, portugali:esporte, venäjä:спорт (sport), japani:スポーツ (supōtsu), korea:스포츠 (seupocheu), hindi:स्पोर्ट (sporṭ), suahili:spoti, turkki:spor|
+|**estadia**|stadioni (areena)|ranska:stade, portugali:estádio, espanja:estadio, venäjä:стадион (stadion), englanti:stadium, turkki:stadyum, arabia:(ʾistād), hindi:स्टेडियम (sṭeḍiyam)|
+|**estan**|tina|espanja:estaño, portugali:estanho, ranska:étain, italia:stagno, englanti:tin|
+|**estasia**|asema|turkki:istasyon, portugali:estação, espanja:estación, filippiini:estasyon, urdu:(isṭeśan), englanti:ranska:station, hindi:स्टेशन (sṭeśan), venäjä:станция (stantsiya)|
+|**estuda**|opiskella (tutkia)|englanti:study, ranska:étudier, espanja:estudiar, portugali:estudar, venäjä:студент (student), hindi:स्टूडेंट (sṭūḍeṇṭ)|
 |**eurasia**|Euraasia|englanti:espanja:malaiji:Eurasia, portugali:Eurásia, ranska:Eurasie, venäjä:Евразия (Evraziya), turkki:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), arabia:يُورَاسِيَا‎ (yūrāsiyā), hindi:यूरेशिया (yūreśiyā), bangla:ইউরেশিয়া (iureśiẏa), yleiskiina:歐亞大陸 (Ōuyà dàlù), japani:ユーラシア (yūrashiya)|
 |**eureka**|löytää (keksiä)|kreikka:ευρίσκω (evrísko), englanti:espanja:eureka, portugali:eureca, ranska:eurêka, venäjä:эврика (evrika), turkki:efreka, japani:ユーレカ (yūreka)|
 |**Europe**|Eurooppa|englanti:ranska:Europe, espanja:portugali:deu:puola:Europa, kreikka:Ευρώπη (Evrópi) venäjä:Европа (Evropa), turkki:Avrupa, suahili:Uropa, hindi:यूरोप (yūrop), malaiji:Eropah, yleiskiina:歐洲 (Ōuzhōu), japani:ヨーロッパ (yōroppa)|
@@ -397,7 +404,7 @@
 |**gazel**|gaselli|arabia:(ḡazāl), englanti:ranska:gazelle, venäjä:газель (gazel'), japani:ガゼル (gazeru)|
 |**gazete**|lehti (sanomalehti)|englanti:ranska:gazette, venäjä:газета (gazeta), suahili:gazeri, turkki:gazete|
 |**gem**|peli|englanti:game, thai:เกม (geem), japani:ゲーム (gēmu), korea:게임 (geim)|
-|**genca**|tutkia|yleiskiina:检查 (jiǎnchá), kantoninkiina:檢查 (gimcaa), vietnami:kiểm tra, jpn,検査 (kensa)|
+|**genca**|tutkia (tarkastaa)|yleiskiina:检查 (jiǎnchá), kantoninkiina:檢查 (gimcaa), vietnami:kiểm tra, jpn,検査 (kensa)|
 |**geta**|hankkia (saada)|englanti:get|
 |**geu**|maa (maaperä)|englanti:espanja:portugali:geo-, ranska:géo-, venäjä:гео- (geo-)|
 |**geyi**|homo (homoseksuaali)|englanti:ranska:espanja:gay, portugali:guei|
@@ -498,6 +505,7 @@
 |**insan**|ihminen|arabia:(ʔinsan), hindi:इंसान (insān), turkki:insan, urdu:(insān), persia:(ensān)|
 |**inxala**|toivoa|arabia:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), persia:ان‌شاءالله (enšâ'allâh), turkki:inşallah, malaiji:insya allah, espanja:ojalá, portugali:oxalá, englanti:inshallah, venäjä:иншаллах (inšallax), bangla:ইনশাআল্লাহ্ (inśaallah), yleiskiina:印沙安拉 (yìnshā'ānlā)|
 |**islam**|alistuminen (antautuminen)|arabia:(ʾislām), persia:(taslim), turkki:teslim|
+|**istan**|alue (seutu)|hindi:स्थान (sthān), venäjä:стан (stan), persia:ـستان (-estān)|
 |**iste**|aatteen kannattaja|englanti:deu:turkki:-ist, ranska:-iste, espanja:portugali:-ista, venäjä:-ист (-ist)|
 |**itis**|tulehdus|englanti:espanja:-itis, ranska:portugali:-ite, venäjä:-ит (-it)|
 |**ivia**|taipumus|englanti:-ive, deu:-iv, ranska:-if,-ive, portugali:espanja:-ivo, venäjä:-ивный (-ivnyj)|
@@ -846,6 +854,7 @@
 |**mux**|hiiri|puola:mysz, venäjä:мышь (myś), persia:(muš)|
 |**muzike**|musiikki|englanti:music, ranska:musique, espanja:portugali:música, venäjä:музика (muzika), arabia:(mūsīqā), suahili:muziki, turkki:müzik, malaiji:musik|
 |**naber**|profeetta|arabia:(nabiy), hindi:नबी (nabī), malaiji:nabi, suahili:nabii, hausa:annabi, turkki:nebi|
+|**nadiri**|harvinainen|arabia: نَادِر‎ (nādir), hindi:नादिर (nādir), suahili:nadra, turkki:nadir, persia: نادر (nâder)|
 |**nafas**|hengitys (henkäys)|arabia:persia:(nafas), malaiji:napas, turkki:nefes, hausa:numfashi|
 |**nagre**|kaupunki|hindi:नगर (nagar), bangla:নগর (nôgôr), telugu:నగరము (nagaramu), kannada:ನಗರ (nagara), tamili:நகரம் (nakaram), khmer:អង្គរ (ʾɑngkɔɔ), thai:นคร (na-khon)|
 |**nahun**|kynsi|persia:ناخن‎ (nâxon), hindi:नाख़ुन m (nāxun), bangla:নখ (nôkh), pan:नख (nakh), venäjä:нога́ (nogá)|
@@ -895,6 +904,7 @@
 |**oranje**|appelsiini|englanti:orange, espanja:naranja, portugali:laranja, hindi:नारंगी (narangi), japani:(orenji), + ranska:orange, venäjä:оранжевый (oranževiy)|
 |**orgazme**|orgasmi|englanti:orgasm, espanja:portugali:orgasmo, ranska:malaiji:orgasme, venäjä:оргазм (orgazm), turkki:orgazm, hindi:ओगाज़्म (ogāzma), japani:オーガズム (ōgazumu), korea:오르가슴 (oreugaseum)|
 |**orti**|suora|englanti:ranska:ortho-, espanja:portugali:orto-, venäjä:орто- (orto-)|
+|**oskope**|katselulaite (skooppi)|englanti:ranska:-scope, espanja:portugali:-scopio, venäjä:-скоп (skop), japani:スコープ (sukōpu), hindi:स्कोप (-skop), malaiji:turkki:-skop|
 |**oskuri**|pimeä (hämärä)|englanti:obscure, espanja:oscuro, portugali:escuro, ranska:obscur|
 |**osmos**|osmoosi|kreikka:ώσμωση (ósmosi), englanti:malaiji:osmosis, espanja:ósmosis, portugali:ranska:osmose, venäjä:осмос (osmos), persia:تَراران (osmoz)|
 |**oste**|luu|englanti:deu:osteo-, venäjä:остео- (osteo-), italia:portugali:osso, ranska:os, hindi:अस्थि (asthi-)|
@@ -1112,8 +1122,6 @@
 |**site**|kaupunki|englanti:city, ranska:cité, portugali:cidade, espanja:ciudad, italia:città + yleiskiina:市 (shì), korea:시 (si), japani:都市 (toshi)|
 |**sivili**|sivistynyt|englanti:civil, portugali:civil, hindi:सिविल (sivil), malaiji:sipil|
 |**siyahi**|musta|persia:سیاه‎ (siyâh), hindi:सियाह (siyāh), urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turkki:siyah|
-|**skope**|katselulaite (skooppi)|englanti:ranska:-scope, espanja:portugali:-scopio, venäjä:-скоп (skop), japani:スコープ (sukōpu), hindi:स्कोप (-skop), malaiji:turkki:-skop|
-|**skulter**|kuvanveistäjä|espanja:portugali:escultor, ranska:sculpteur, englanti:sculptor, venäjä:скульптор (skulptor)|
 |**sofa***|sohva|englanti:ranska:sofa, espanja:portugali:sofá, venäjä:софа (sofa), yleiskiina:沙发 (shāfā), japani:ソファ (sofa), korea:소파 (sopa), hindi:सोफ़ा (sofā)|
 |**sofia**|viisaus|kreikka:σοφία (sofía) + englanti:philosophy, ranska:philosophie, espanja:filosofia, venäjä:философия (filosofiya), malaiji:filsafat, arabia:(falsafa), suahili:falsafa, turkki:felsefe, hindi:फ़लसफ़ा (falasfā)|
 |**soi**|soija|englanti:soy, ranska:espanja:portugali:soja, venäjä:соя (soya), arabia: صُويَا‎ (ṣūyā), hindi:सोया (soyā), malaiji:turkki:soya + japani:醤油 (shōyu)|
@@ -1123,14 +1131,6 @@
 |**song**|mänty|yleiskiina:松 (sōng), wu-kiina:(son), thai:สน (sǒn), korea:솔 (sol), vietnami:thông, + venäjä:сосна (sosna)|
 |**sosia**|seura|venäjä:социум (socium), englanti:society, espanja:sociedad|
 |**sosis**|makkara|ranska:saucisse, turkki:malaiji:sosis, persia:(sosis), venäjä:сосиска  (sosiska), japani:ソーセージ (sosēji), hindi:सॉसेज (sosej), bangla:সসেজ (sôsej), englanti:sausage|
-|**speta**|katsoa (tarkkailla)|englanti:spectate, ranska:espanja:-spect-, portugali:-spet-|
-|**sponje**|sienieläin|englanti:sponge, espanja:portugali:esponja, arabia:إسفنج (ʾisfanj), persia:اسفنج‎ (esfanj), hindi:स्पंज (spanja), japani:スポンジ (suponji), malaiji:spon, suahili:sponji|
-|**sporte**|urheilu|englanti:deu:ranska:sport, espanja:deporte, portugali:esporte, venäjä:спорт (sport), japani:スポーツ (supōtsu), korea:스포츠 (seupocheu), hindi:स्पोर्ट (sporṭ), suahili:spoti, turkki:spor|
-|**stadia**|stadioni (areena)|ranska:stade, portugali:estádio, espanja:estadio, venäjä:стадион (stadion), englanti:stadium, turkki:stadyum, arabia:(ʾistād), hindi:स्टेडियम (sṭeḍiyam)|
-|**stan**|alue (seutu)|hindi:स्थान (sthān), venäjä:стан (stan), persia: ـستان‎ (-stân)|
-|**stan**|tina|espanja:estaño, portugali:estanho, ranska:étain, italia:stagno, englanti:tin|
-|**stasia**|asema|turkki:istasyon, portugali:estação, espanja:estación, filippiini:estasyon, urdu:(isṭeśan), englanti:ranska:station, hindi:स्टेशन (sṭeśan), venäjä:станция (stantsiya)|
-|**studa**|opiskella (tutkia)|englanti:study, ranska:étudier, espanja:estudiar, portugali:estudar, venäjä:студент (student), hindi:स्टूडेंट (sṭūḍeṇṭ)|
 |**sual**|kysymys|arabia: سؤال (su'āl), hindi:सवाल (savāl), malaiji:soal, suahili:swali|
 |**suani**|hapan (kirpeä)|yleiskiina:酸 (suān), kantoninkiina:酸 (syun1), wu-kiina:酸 (soe1), japani:酸 (san), korea:산 (san), vietnami:toan|
 |**suar**|ilta|ranska:soir, englanti:soiree, venäjä:суаре (suare), turkki:suare + malaiji:sore|

@@ -268,6 +268,9 @@ eletrorade - 闪电
 emoje - 绘文字  
 emoshal - 心情  
 englomargarite - 雛菊  
+esponje - 海绵  
+estan - 锡  
+estibem - 锑  
 evanjil - 福音  
 europobalute - 夏櫟  
 ex - 外  
@@ -320,7 +323,7 @@ futomarke - 脚印
 ####G - G  
 gabra - 埋葬  
 gabre - 坟墓  
-gabrostan - 公墓 (墓地)  
+gabristan - 公墓 (墓地)  
 gabroxeke - 墓石 (墓碑)  
 gadogude - 骡  
 Galia - 高卢  
@@ -330,7 +333,7 @@ gancau - 干草
 ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
-garmozoni caustan - 稀树草原  
+garmozoni cavistan - 稀树草原  
 gati - 硬  
 gatomate - 固体  
 gautehnia - 高科技 (高技术)  
@@ -470,7 +473,8 @@ jekodona - 借出
 jekogeta - 借入  
 jeni - 生的  
 jeni bax - 母语  
-jenostan - 出生地  
+jenistan - 出生地  
+jenolojia - 系谱学  
 jentipe - 基因型  
 jinse - 性别  
 jinsolojia - 性别研究  
@@ -750,6 +754,7 @@ muzike - 音乐
 ####N - N  
 na lin - 离线  
 no - 不  
+nadiro - 很少  
 najis - 污染物  
 najisa - 污染  
 namkitaba - 签署  
@@ -846,7 +851,7 @@ piprominte - 辣薄荷
 piram - 金字塔  
 pis - 云杉  
 plati geukaskia - 板块构造论  
-platostan - 平原  
+platistan - 平原  
 plum - 李子  
 polmaro - 经常  
 polite - 政府  
@@ -971,9 +976,6 @@ sor - 锁
 sosi jinse - 社會性別  
 sosia - 社会  
 sosis - 香肠  
-sponje - 海绵  
-stan - 锡  
-stibem - 锑  
 sual - 问题  
 suala - 问  
 suanpurxipe - 腌菜  

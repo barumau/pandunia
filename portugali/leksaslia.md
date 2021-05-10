@@ -140,6 +140,11 @@
 |**em**|elemento|eng:-eme, spa:por:-ema, fra:-ème, rus:-ема (-ema), may:-em|
 |**emoje**|emoticon (emoji)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**emos**|emoçao|eng:emotion, fra:émotion, spa:emoción, por:emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|
+|**eskulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
+|**esponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
+|**esporte**|esporte|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
+|**estan**|estanho|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|**estuda**|estudar (examinar)|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**ex**|exterior|eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|
 |**exploze**|explosão|eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|
 |**fan**|lama (lodo)|fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|
@@ -369,6 +374,7 @@
 |**mul**|raíz|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
 |**mur**|muro (muralha)|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**muzike**|música|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
+|**nadiri**|raro|ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)|
 |**najis**|poluição|ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|
 |**narde**|gamão|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
 |**nasia**|nação|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
@@ -477,7 +483,6 @@
 |**sisi**|seis (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|
 |**site**|cidade|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**siyahi**|preto|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
-|**skulter**|escultor|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**sofia**|sabedoria (sagacidade, sapiência)|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soi**|soja|eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)|
 |**soka**|buscar (procurar)|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen + rus:искать (iskat’)|
@@ -489,10 +494,6 @@
 |**sor**|fechadura|zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|
 |**sosia**|sociedade|rus:социум (socium), eng:society, spa:sociedad|
 |**sosis**|salsicha|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|**sponje**|esponja|eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|
-|**sporte**|esporte|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|
-|**stan**|estanho|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
-|**studa**|estudar (examinar)|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**sual**|questão (pergunta)|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|
 |**suar**|noitinha|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
 |**suede**|suor|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|

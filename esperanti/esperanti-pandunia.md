@@ -311,7 +311,7 @@ devi - debu
 devigi - musa  
 devo - mus  
 devus - selu  
-dezerto - regostan  
+dezerto - registan  
 deziro - kamia  
 dia - devi  
 diablo (Satano) - Xatan (ruhxatan)  
@@ -534,6 +534,7 @@ gazeto - habargazete
 gazo - gaze  
 Gaŭlio - Galia  
 geedzeco - gamia  
+genealogio - jenolojia  
 generala - putongi  
 genuo - gute  
 geografio - geugrafia  
@@ -987,6 +988,8 @@ mallongigi - korta
 malmola - gati  
 malmulte - xavi  
 malnova - ceniki  
+malofta - nadiri  
+malofte - nadiro  
 malpaco - anpace  
 malplej - minim (minimo)  
 malplena - kali  
@@ -1119,7 +1122,7 @@ najtingalo - bulbul
 Namibio - Namibia  
 naski - jenu  
 naskigi - jena  
-naskiĝejo - jenostan  
+naskiĝejo - jenistan  
 naskiĝtago - jenden  
 nasko - jen  
 natrio - natrem  
@@ -1501,8 +1504,8 @@ situacio (aferstato) - xeihal
 skandio - eskandem  
 skatolo (kesto) - sanduke  
 skribo - kitabe  
-skulti - skulta  
-skultisto - skulter  
+skulti - eskulta  
+skultisto - eskulter  
 smeraldo - zumurude  
 socio - sosia  
 sofo - kanape  
@@ -1522,21 +1525,20 @@ speco (tipo, stilo) - yang
 speguli - mira  
 spegulo - mirer  
 spektanto - speter  
-spekti - speta  
 spico - masal  
 spiro - nafas  
-sporto - sporte  
+sporto - esporte  
 sputi - tuha  
-stacio - stasia  
-stadiono (areno) - stadia  
+stacio - estasia  
+stadiono (areno) - estadia  
 stango - baton  
 stato - hal  
-statuo (skultaĵo) - skulte  
+statuo (skultaĵo) - eskulte  
 stelo - xing  
 stranga - bizari  
-stroncio - strontem  
+stroncio - estrontem  
 studento (lernanto) - xuler  
-studento - studer  
+studento - estuder  
 substantivo - namloge  
 Sudkoreio - Sudi Cosen  
 sudo - sude  
@@ -1625,7 +1627,7 @@ titanio - titanem
 tiu - ve  
 Toglando - Togo  
 tomato - tomate  
-tombejo - gabrostan  
+tombejo - gabristan  
 tombo - gabre  
 tomboŝtono - gabroxeke  
 tondilo - makas  

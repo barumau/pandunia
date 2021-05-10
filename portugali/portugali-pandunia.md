@@ -57,7 +57,7 @@ analógico - zoki
 andesito - andesite  
 anel - ring  
 animal (besta, bicho) - zou  
-antimônio - stibem  
+antimônio - estibem  
 anzol - pexhuke  
 análise - fenkate  
 aperfeiçoar - purbona  
@@ -207,7 +207,7 @@ cavar (escavar) - kava
 caçar - saida  
 cebola - piaze  
 cem (100) - xoti  
-cemitério - gabrostan  
+cemitério - gabristan  
 cenoura - karote  
 centro - jung  
 centáurea - centaur  
@@ -381,7 +381,7 @@ escrevere - kitaba
 escrita - kitabe  
 escudo - defban  
 escudo - ostoxalke  
-escultor - skulter  
+escultor - eskulter  
 esfarrapado - circiri  
 eslavo - slavi  
 esmeralda - zumurude  
@@ -390,21 +390,21 @@ espaço - kali harfe
 espetador - speter  
 espirrar - acua  
 espodossolo - huidarte  
-esponja - sponje  
-esporte - sporte  
+esponja - esponje  
+esporte - esporte  
 esposo ou esposa - gam  
 esquecer - anmema  
 esqueleto - ostojamia  
 esquerdo - lefte  
 esquilo - ekor  
 estado - hal  
-estanho - stan  
+estanho - estan  
 estar deitado (jazer) - kuxu  
 estação (sazão) - mosim  
 este (leste) - dong  
 estirar - tirlonga  
-estudante - studer  
-estudar (examinar) - studa  
+estudante - estuder  
+estudar (examinar) - estuda  
 etimologia - logaslia  
 etnia - zuke  
 eu (me) - me  
@@ -473,6 +473,7 @@ gato - mau
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
 gato-maracajá - margai  
 gelar - aisu  
+genealogia - jenolojia  
 generalíssimo - gunrajer  
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
@@ -907,6 +908,8 @@ química - kimlojia
 ####R - R  
 rachadura - krake  
 raposa - hulei  
+raramente - nadiro  
+raro - nadiri  
 raro - rari  
 rasgar - cir  
 rasgar - cira  
@@ -1034,7 +1037,7 @@ teosofia - deusofia
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
-terra natal - jenostan  
+terra natal - jenistan  
 terracota - bekofan  
 terraplanista - platogeviste  
 terreno - geuforme  
@@ -1140,7 +1143,7 @@ zumbi - zombe
 ágil - ajili  
 água - sui  
 álcool - alkol  
-área de acampamento - kampostan  
+área de acampamento - kampistan  
 área de transferência - katoglutoban  
 árvore - moke  
 áspero - karsi  

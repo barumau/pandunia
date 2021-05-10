@@ -94,7 +94,7 @@ Antarctique - Antartike
 antenne - anten  
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
-antimoine - stibem  
+antimoine - estibem  
 antonyme - annam  
 anus - anus  
 août - ballun  
@@ -346,7 +346,7 @@ chêne pédonculé - europobalute
 chœur - cantergrupe  
 ciel - ten  
 cime (pic, sommet) - xanpike  
-cimetière - gabrostan  
+cimetière - gabristan  
 cinq (5) - limi  
 cirse commun - perkardon  
 citron - limon  
@@ -619,6 +619,7 @@ guider - gida
 guitare - gitar  
 gâteau de lune - lunkeke  
 génotype - jentipe  
+généalogie - jenolojia  
 généralissime - gunrajer  
 généreux - donivi  
 généreux - karimi  
@@ -744,7 +745,7 @@ libre - huri
 lichen - algofung  
 lien - linke  
 lieu - loke  
-lieu de naissance - jenostan  
+lieu de naissance - jenistan  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amirlin  
 ligne téléphonique - telfonlin  
@@ -1009,7 +1010,7 @@ pièce (chambre) - kamar
 piège - kapotruke  
 placard - almar  
 place - meden  
-plaine - platostan  
+plaine - platistan  
 plaire - suka  
 plan - plan  
 planche - mokoban  
@@ -1070,7 +1071,7 @@ projet - projete
 projeter (donner) - lancografa  
 prolongé - longoduri  
 promettre - voda  
-propice - euspeti  
+propice - bonsinyi  
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
@@ -1099,7 +1100,9 @@ qui - ki jan
 race - ras  
 racine - mul  
 rang - ode  
+rare - nadiri  
 rare - rari  
+rarement - nadiro  
 raton laveur - vaxurse  
 rayon de miel - melvesponide  
 recycler - reisikla  
@@ -1166,11 +1169,11 @@ saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
 sauvage - ekojeni  
-savane - garmozoni caustan  
+savane - garmozoni cavistan  
 savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
-sculpteur - skulter  
+sculpteur - eskulter  
 scutelle - ostoxalke  
 se - se  
 se baigner - banyu  
@@ -1210,7 +1213,7 @@ son - son
 soumettre - karmisa  
 soumission - islam  
 spectateur - speter  
-sport - sporte  
+sport - esporte  
 squelette - ostojamia  
 substance - kim  
 sucre - sukar  
@@ -1250,7 +1253,7 @@ tendu - tensi
 tentacule - senter  
 tente - hemah  
 terrain - geuforme  
-terrain de camping - kampostan  
+terrain de camping - kampistan  
 Terre - Gevia  
 terre cuite - bekofan  
 terreplatiste - platogeviste  
@@ -1405,22 +1408,22 @@ zèbre - zebre
 émotion - emos  
 épices - masal  
 épingle - pin  
-éponge - sponje  
+éponge - esponje  
 époux - gam  
 épreuve (test) - teste  
 épée - katan  
 équipe - tim  
 étagère - liboban  
-étain - stan  
+étain - estan  
 état - hal  
 éternuer - acua  
 étinceler - xingofota  
 étoile - xing  
-étude - stude  
+étude - estude  
 études de genre - jinsolojia  
-étudiant - studer  
+étudiant - estuder  
 étudiant - xuler  
-étudier - studa  
+étudier - estuda  
 étymologie - logaslia  
 été - garmomosim  
 évaluer - vala  
