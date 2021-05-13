@@ -113,7 +113,8 @@ bande - bando
 banke - banco  
 banker - banqueiro  
 banse - bambu  
-bari - pesado  
+bara - carregar  
+bare - carga (peso)  
 barde - barba  
 barya - barrar  
 baryer - barreira  
@@ -831,10 +832,14 @@ pante - calças
 papai - mamão (papaia)  
 par - nivel  
 pari - igual (par)  
+parike - par  
+parvezia - equilíbrio  
 param - parâmetro  
 parce - fragmento  
 parke - parque  
 parne - samambaia  
+pasdau - passagem  
+pasloge - palavra-passe (senha)  
 pasporte - passaporte  
 paste - pasta  
 patike - paciente  
@@ -929,6 +934,7 @@ ritim - ritmo
 riu - rio  
 riutube - funil  
 robote - robô  
+rokomuzike - rock  
 roketolancer - lançador de foguetes  
 Roma - Roma  
 romakamil - camomila-romana  
@@ -942,9 +948,12 @@ ses - um ao outro
 sahi - correto (justo)  
 saida - caçar  
 sake - saco  
-sal - sal  
-sali - salino  
+sali - saudável (saudio)  
+salia - saúde  
 salame - saudação  
+salamia - bem-estar  
+salte - sal  
+salti - salino  
 sami - igual  
 samemos - compaixão  
 sammetri - simétrico  
@@ -973,8 +982,6 @@ seti - sete (7)
 setyom - domingo  
 siborgem - seabórgio  
 sifloge - adjetivo  
-sih - saúde  
-sihi - saudável (saudio)  
 siyahi - preto  
 sikliste - ciclista  
 sil - elo  
@@ -1074,6 +1081,8 @@ verme - verme
 vermute - vermute  
 versu - encarar (afrontar; vérsus)  
 vespe - abelha ou vespa  
+vezi - pesado  
+vezu - pesar  
 vida - ver  
 vidou - viúvo  
 viyoleti - purpúreo (roxo)  

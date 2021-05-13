@@ -302,12 +302,10 @@ banke - bank (depository, cache)
 banker - banker  
 banse - bamboo  
 bar - bar  
-bar - weight (burden)  
-bari - heavy  
-baria - weight (heaviness, gravity)  
+bara - burden (load, encumber)  
+bare - burden (load, weight)  
 barem - barium  
 barmetal - heavy metal  
-barmetrer - scales (weighing device)  
 Barbados - Barbados  
 barbar - barbarian  
 Barbuda - Barbuda  
@@ -2019,7 +2017,6 @@ la - from (since, because)
 le - he or she or it  
 les - they  
 labe - lip  
-lada - load (to charge)  
 lage - lake  
 Lagos - Lagos  
 laya - come (arrive)  
@@ -2751,13 +2748,14 @@ papai - papaya
 papir - document (paper)  
 Papua Novi Ginia - Papua New Guinea  
 par - level  
-para - equalize (even out)  
+para - equalize (balance, even out)  
 pari - even (level, peer, equal)  
 pari numbe - even number  
 paru - equal  
 parike - peer  
 parlini - parallel (longitudinal)  
 parlinu - align (go along)  
+parvezia - equilibrium (balance)  
 Paraguai - Paraguay  
 parai - outcast (pariah)  
 paraya - despise (scorn)  
@@ -2775,10 +2773,12 @@ parta - participate (attend, partake, take part)
 partia - party (group)  
 parter - participant  
 pas - past times  
+pasa - pass (go across or through)  
 pasi - past (bygone)  
 paso - before (in the past)  
-pasu - pass (go by, go past)  
+pasdau - pass (passage)  
 pasivi - passive (inactive)  
+pasloge - password  
 pasporte - passport  
 paske - Easter  
 paskal - pascal (Pa)  
@@ -3098,6 +3098,8 @@ rivunia - fusion (amalgamation)
 rivunu - merge (fuse)  
 robote - robot (bot)  
 rodem - rhodium  
+roka - rock (sway, tilt)  
+rokomuzike - rock music  
 rokete - rocket  
 roketolancer - rocket launcher  
 rol - role  
@@ -3179,10 +3181,10 @@ saida pex - catch fish
 saide - hunting (fishing)  
 saider - hunter  
 sake - bag (sack)  
-sal - salt  
-sali - salty (saline)  
+sali - healthy  
+salia - health  
 salade - salad  
-salam (salami) - good (in greetings)  
+salam (salami) - good (prosperous; used in greetings)  
 salam cute - farewell  
 salam den - Good day  
 salam yam - bon appetit!  
@@ -3191,8 +3193,11 @@ salam suar - Good evening
 salam sube - Good morning  
 salama - greet  
 salame - greeting (hello)  
+salamia - well-being (prosperity)  
 salmon - salmon (trout)  
 Salon - Sierra Leone  
+salte - salt  
+salti - salty (saline)  
 Salvador - El Salvador  
 sami - same (equal, match)  
 samu - resemble (be like)  
@@ -3300,8 +3305,6 @@ sifa - qualify (describe)
 sifi - descriptive  
 sifloge - adjective  
 sigar - cigarette (cigar)  
-sih - health  
-sihi - healthy  
 siyahi - black  
 sikiste - Sikh  
 sikistia - Sikhism  
@@ -3700,6 +3703,10 @@ veste - west
 vesti - western  
 vestodongia - longitude  
 vestogoril - western gorilla  
+vezi - heavy  
+vezia - weight (heft, gravity)  
+vezu - weigh (have weight)  
+vezometrer - scales (weighing device)  
 vida - look (see)  
 vide - view (vision)  
 vidu - be seen  

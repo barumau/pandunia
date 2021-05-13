@@ -239,12 +239,9 @@ banyokamar - salle de bains
 banke - banque  
 banker - banquier  
 banse - bambou  
-bar - poids (charge)  
-bari - lourd  
-baria - poids (lourdeur, gravité)  
+bare - charge (fardeau, poids)  
 barem - baryum  
 barmetal - métaux lourds  
-barmetrer - balance (poids)  
 Barbados - Barbade  
 barbar - barbare  
 Barbuda - Barbuda  
@@ -1047,11 +1044,15 @@ papai - papaye
 par - niveau  
 pari - pair (pareil, egal)  
 pari numbe - nombre pair  
+parvezia - équilibre  
 param - paramètre  
 parce - fragment  
 Paris - Paris  
 parke - parc  
 parne - fougères  
+pasa - passer  
+pasdau - passe (passage)  
+pasloge - mot de passe  
 pasporte - passeport  
 paste - pâte  
 pastopetre - magma  
@@ -1166,6 +1167,8 @@ ritim - rhythme
 riu - rivière (fleuve)  
 riutube - entonnoir  
 robote - robot  
+roka - secouer  
+rokomuzike - rock  
 roketolancer - Lance-roquettes  
 Roma - Rome  
 romakamil - Camomille Romaine  
@@ -1187,9 +1190,12 @@ safariste - touriste
 sahi - correct (juste)  
 saida - chasser  
 sake - sac  
-sal - sel  
+sali - sain  
+salia - santé  
 salame - salut (salam)  
+salamia - bien-être  
 salmon - truite  
+salte - sel  
 sami - égal (même)  
 samemos - compassion  
 sammetri - symétrique  
@@ -1217,8 +1223,6 @@ ser - scie
 seti - sept (7)  
 setyom - dimanche  
 sifloge - adjectif  
-sih - santé  
-sihi - sain  
 siyahi - noir  
 sikle - bicyclette  
 sikliste - cycliste  
@@ -1346,6 +1350,10 @@ versa - verser
 versu - verse (face á)  
 vespe - abeille ou guêpe  
 vesponide - ruche (nid d'abeille)  
+vezi - lourd  
+vezia - poids (lourdeur, gravité)  
+vezu - peser  
+vezometrer - balance (poids)  
 vida - voir  
 vidou - veuve  
 viyoleti - violet (pourpre)  

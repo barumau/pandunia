@@ -494,6 +494,8 @@ build (construct) - bina
 building (structure) - bin  
 Bulgaria - Bolgaria  
 bulletproof - dansekuri  
+burden (load, encumber) - bara  
+burden (load, weight) - bare  
 Burkina Faso - Burkina Faso  
 burn (be burned) - hogu  
 burn (cause to burn) - hoga  
@@ -1135,9 +1137,10 @@ environmental (natural) - eki
 enzyme - enzim  
 epistemology - saulojia  
 equal - paru  
-equalize (even out) - para  
+equalize (balance, even out) - para  
 equator - geuparlin  
 Equatorial Guinea - Geuparlini Ginia  
+equilibrium (balance) - parvezia  
 erbium - erbem  
 erect (standing) - libi  
 erect - liba  
@@ -1467,7 +1470,7 @@ gold - aur
 golem - golem  
 gone (away) - kiti  
 goniometer - gonmetrer  
-good (in greetings) - salam (salami)  
+good (prosperous; used in greetings) - salam (salami)  
 good - boni  
 Good day - salam den  
 Good evening - salam suar  
@@ -1573,11 +1576,11 @@ he or she or it - le
 head - sar  
 headmaster (principal) - xulxef  
 heal (cure, remedy) - medika  
-health - sih  
-healthy - sihi  
+health - salia  
+healthy - sali  
 hear (listen) - auda  
 heart - xim  
-heavy - bari  
+heavy - vezi  
 heavy metal - barmetal  
 Hebrew - ibri  
 height (altitude) - gavia  
@@ -1979,7 +1982,6 @@ live (be alive, living) - jivi
 live in (reside in, inhabit) - doma  
 livermorium - livermorem  
 llama - liama\*  
-load (to charge) - lada  
 loanword - jekologe  
 local - loki  
 lock (fasten) - sora  
@@ -2562,11 +2564,13 @@ particle (grain, bullet) - dan
 party (celebration, festival) - feste  
 party (group) - partia  
 pascal (Pa) - paskal  
-pass (go by, go past) - pasu  
+pass (go across or through) - pasa  
+pass (passage) - pasdau  
 pass (spend time, put time into) - dura  
 passive (inactive) - pasivi  
 passport - pasporte  
 password (security code) - sekurkode  
+password - pasloge  
 past (bygone) - pasi  
 past times - pas  
 paste (dough) - paste  
@@ -2964,7 +2968,9 @@ roast - rosta
 rob (loot, plunder, pillage, ransack) - luta  
 robber (plunderer) - luter  
 robot (bot) - robote  
+rock (sway, tilt) - roka  
 rock - petre  
+rock music - rokomuzike  
 rocket - rokete  
 rocket launcher - roketolancer  
 roentgenium - rentogenem  
@@ -3030,8 +3036,8 @@ Saint Vincent - Santi Vinsente
 Saint Vincent and Grenadines - Santi Vinsente e Grenadine  
 salad - salade  
 salmon (trout) - salmon  
-salt - sal  
-salty (saline) - sali  
+salt - salte  
+salty (saline) - salti  
 samarium - samarem  
 same (equal, match) - sami  
 Samoa - Samoa  
@@ -3058,7 +3064,7 @@ saw - ser
 say (speak, talk) - loga  
 scaffolding (gangplank) - futoban  
 scale (flake) - xalke  
-scales (weighing device) - barmetrer  
+scales (weighing device) - vezometrer  
 Scandinavia - Eskandia  
 scandium - eskandem  
 scarcity - xavia  
@@ -3824,9 +3830,10 @@ Wednesday - sanyom
 week - yomsete  
 weep (cry) - kuga  
 weft - veilin  
-weight (burden) - bar  
-weight (heaviness, gravity) - baria  
+weigh (have weight) - vezu  
+weight (heft, gravity) - vezia  
 welcome! - salam lai  
+well-being (prosperity) - salamia  
 Welsh - kamri  
 Wenzhou - Venjou  
 west - veste  

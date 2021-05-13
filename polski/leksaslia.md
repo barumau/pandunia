@@ -94,7 +94,7 @@
 |**bar**|bar|eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|
 |**barbar**|barbarzyńca|deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|
 |**barde**|broda|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
-|**bari**|ciężki (masywny)|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
+|**bare**|ciężar (brzemię)|hin:भार  (bhār), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|
 |**barka**|gratulować; błogosławić|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|
 |**barkoke**|morela|ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|
 |**barti**|Indyjski|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
@@ -682,7 +682,6 @@
 |**kurve**|wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać|eng:curve, fra:courbe, spa:por:curva + rus:кривая (krivaya)|
 |**kuxloke**|kuszetka (koja)|fra:eng:couchette, ita:cuccetta, pol:kuszetka|
 |**labe**|warga|fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|
-|**lada**|naładować, załadować, obładować, ładować|eng:load, deu:laden, pol:ładować, hin:लादना (lādnā)|
 |**lage**|jezioro|eng:lake, spa:por:ita:lago, fra:lac|
 |**laje**|śmieć, odpadek|zho:垃圾 (lājī)|
 |**lake**|lakier|eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|
@@ -1092,10 +1091,11 @@
 |**sai**|cień|fas:(sāye), urd:(sāyā), pas:(sāyá), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
 |**saide**|polowanie (łowienie)|ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sake**|torba, wór, worek, torba, sakwa|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
-|**sal**|sól|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**salade**|sałatka|fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
 |**salame**|pozdrowienie|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
+|**sali**|zdrowy|fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|
 |**salmon**|łosoś (pstrąg)|eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|
+|**salte**|sól|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**sami**|taki sam|eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|
 |**san**|trzy (3)|zho:三 (sān), yue:三 (sam1), jpn:三 (san), kor:삼 (sam), vie:tam, tha:สาม (saam)|
 |**sanduice**|kanapka|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
@@ -1130,7 +1130,6 @@
 |**sida**|siedzieć|rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|
 |**sif**|cecha, właściwość, parametr|hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)|
 |**sigar**|papieros (cygar)|tur:sigara, amh:ሲጃራ (siǧara), ara:(sījāra), eng:cigar(ette), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá)|
-|**sih**|zdrowie|ara:صحة (siha), swa:siha, hin:सेहत (sehata), may:sihat, tur:sıhhat|
 |**sikle**|rower|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
 |**silke**|jedwab|zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), eng:silk, spa:por:sérico, rus:шёлк (sholk)|
 |**simpli**|prosty, nieskomplikowany|eng:spa:fra:simple, por:simples, deu:simpel|
@@ -1280,6 +1279,7 @@
 |**version**|wersja (wariacja, edycja, wydanie)|eng:fra:version, por:versão, rus:версия (versiya), may:versi|
 |**vespe**|pszczoła lub osa|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |**veste**|zachód|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
+|**vezia**|waga (ciężkość)|ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|
 |**vida**|patrzeć, widzieć|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|
 |**vidou**|wdowa|eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|
 |**vijin**|glutaminian sodu|zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|

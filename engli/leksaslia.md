@@ -103,7 +103,7 @@
 |**bar**|bar|English:French:Spanish:Portuguese:Malay:Turkish:bar, Russian:бар (bar), Mandarin:酒吧 (jiǔbā), Japanese:バー (bā), Hindi:बार (bār), Bengali:বার (bar)|
 |**barbar**|barbarian|deu:Turkish:barbar, French:barbare, Persian:(barbar), Spanish:barbaro, English:barbarian, Russian:варвар (varvar)|
 |**barde**|beard|French:barbe, Spanish:Portuguese:barba, deu:Bart, English:beard, Russian:борода (boroda), Polish:broda|
-|**bari**|heavy|Bengali:ভারী (bharī), Hindi:भारा (bhārā), Urdu:(bhārā), Telugu:బరువు (baruvu), Malay:berat, Greek: βαρύς (barýs)|
+|**bare**|burden (load, weight)|Hindi:भार  (bhār), Bengali:ভারী (bharī), Malay:berat, Telugu:బరువు (baruvu), Persian: بار‎ (bâr), Greek: βαρύς (barýs) + Korean:바리 (bari)|
 |**barka**|congratulate (bless)|Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Swahili:baraka, Yoruba:alubarika|
 |**barkoke**|apricot|Arabic:(barqūq), pa:albaricoque, French:abricot, Russian:абрикос (abrikos), Filipino:albarikoke, Swahili:aprikoti|
 |**barti**|Indian|Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)|
@@ -710,7 +710,6 @@
 |**kurve**|curve (bend)|English:curve, French:courbe, Spanish:Portuguese:curva + Russian:кривая (krivaya)|
 |**kuxloke**|berth (couchette)|French:English:couchette, Italian:cuccetta, Polish:kuszetka|
 |**labe**|lip|Persian:Urdu:(lab), Hindi:लब (lab), Filipino:labi, Spanish:labio, Portuguese:lábio|
-|**lada**|load (to charge)|English:load, deu:laden, Polish:ładować, Hindi:लादना (lādnā)|
 |**lage**|lake|English:lake, Spanish:Portuguese:Italian:lago, French:lac|
 |**laje**|garbage (rubbish, trash)|Mandarin:垃圾 (lājī)|
 |**lake**|lacquer (varnish)|English:lacquer, Spanish:Portuguese:laca, French:laque, Russian:лак (lak), Japanese:ラッカー|
@@ -1106,6 +1105,7 @@
 |**riu**|flow (current, stream)|Hindi:धारा (dhārā), Telugu:ధార (dhāra) + Persian: دریا‎ (daryâ), hin:दर्या (daryā), Bengali:দরিয়া (dôriẏa), Turkish:derya|
 |**riu**|river (stream)|Spanish:Portuguese:rio, English:river, French:rivière|
 |**robote**|robot (bot)|English:French:Spanish:Turkish:Malay:robot, Portuguese:robô, Russian:робот (robot), Arabic:رُوبُوت‎ (rōbōt), Persian:روبات‎ (rōbât), Hindi:रोबोट (rōbōṭ), Tamil:ரோபோ (rōpō), Japanese:ロボット (robotto), Korean:로봇 (robot)|
+|**roka**|rock (sway, tilt)|English:French:Spanish:Portuguese:rock, Russian:рок (rok), Hindi:रॉक (rŏk), Bengali:রক (rôk), Japanese:ロック (rokku), Korean:록 (rok), Arabic: رُوك‎ (rūk)|
 |**rokete**|rocket|English:rocket, deu:Rokete, Russian:ракета (raketa), Turkish:Malay:roket, Swahili:roketi, Persian:راکت‎ (râket), Hindi:राकेट (rākeṭ), Bengali:রকেট (rôkeṭ), Japanese:ロケット (roketto), Korean:로켓 (roket)|
 |**rol**|role|English:role, French:rôle, deu:Rolle, Russian:роль (rol’), Turkish:rol, kat:როლი (roli), Persian:رل‎ (rol)|
 |**romansia**|romance (romantic love)|French:English:Spanish:Portuguese:romance, Russian:роман (roman), Turkish:romans, Malay:roman, Japanese:ロマンス (romansu), Korean:로맨스 (romaenseu)|
@@ -1134,10 +1134,11 @@
 |**sai**|shadow|Persian:(sāye), Urdu:(sāyā), pas:(sāyá), Hindi:साया (sāyā), छाया (chāyā), Bengali:ছায়া (chaya), Thai:ฉายา (chāyā)|
 |**saide**|hunting (fishing)|Arabic:(ṣayd), Turkish:seyd, Urdu:صید‎ (said), Persian:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sake**|bag (sack)|deu:English:sack, French:sac, Spanish:Portuguese:saco, Malay:Kongo:saku|
-|**sal**|salt|English:salt, French:sel, Spanish:Portuguese:sal, Russian:соль (solʹ)|
 |**salade**|salad|French:salade, Malay:salad, deu:Salat, Russian:салат (salat), Turkish:salata, Persian:Urdu:(salād), Hindi:सलाद (salād), Cantonese:沙律 (saa1 leot62),  Mandarin:沙拉 (shālā), Portuguese:salada, Spanish:ensalado, Korean:샐러드 (saelleodeu), Japanese:サラダ (sarada), Thai:สลัด (salat), Khmer:សាលាដ (saalaat)|
 |**salame**|greeting (hello)|Arabic:(salām), Swahili:salamu, Malay:selamat, Hindi:सलाम (salām), Bengali: সালাম (salam), Mandarin:萨拉姆 (sàlāmǔ), Japanese:サラーム (sarāmu), Korean:살람 (sallam), Vietnamese:xa lam, Russian:салям (salyam)|
+|**sali**|healthy|French:Spanish:Portuguese:salubre + Arabic: سَلَامَة‎ (salāma) + Turkish:sağlık|
 |**salmon**|salmon (trout)|English:Malay:salmon, Spanish:salmón, Portuguese:salmão, French:saumon, Swahili:samoni, Japanese:サーモン (sāmon)|
+|**salte**|salt|English:salt, French:sel, Spanish:Portuguese:sal, Russian:соль (solʹ)|
 |**sami**|same (equal, match)|English:same, French:semblable, Russian:самый (samyy), Malay:sama, Hindi:सम (sam)|
 |**san**|three (3)|Mandarin:三 (sān), Cantonese:三 (sam1), Japanese:三 (san), Korean:삼 (sam), Vietnamese:tam, Thai:สาม (saam)|
 |**sanduice**|sandwich|English:French:Spanish:sandwich, Portuguese:sanduíche, Russian:сандвич (sandvič), Arabic:(sandawitš), Mandarin: (sānwénzhì), Japanese:サンドイッチ (sandoichi), Hindi:सैंडविच (saiṇḍvic), Malay:sandwic|
@@ -1172,7 +1173,6 @@
 |**sida**|sit (put down)|Russian:сидеть (sidet'), English:sit, deu:sitzen, Italian:sedere|
 |**sif**|attribute (charasteristic, quality, feature, description, property)|Hindi:गुण (guṇ), Bengali:গুণ (guṇ), Telugu:గుణము (guṇamu), Burmese:ဂုဏ် (gun), Malay:guna, Thai:คุณ (kun), Khmer:គុណ (kun)|
 |**sigar**|cigarette (cigar)|Turkish:sigara, Amharic:ሲጃራ (siǧara), Arabic:(sījāra), English:cigar(ette), Mandarin:雪茄 (xǔejiā), Wu-Chinese:雪茄 (xi'gá)|
-|**sih**|health|Arabic:صحة (siha), Swahili:siha, Hindi:सेहत (sehata), Malay:sihat, Turkish:sıhhat|
 |**sikle**|bike (cycle)|English:bicycle, French:bicyclette, Turkish:bisiklet, Spanish:bicicleta, Filipino:bisikleta, Bengali:সাইকেল (saikel), Hindi:साइकिल (sāikil)|
 |**sil**|link|Hindi:सिलसिला (silsilā), Arabic:(silsila), Turkish:silsile, Swahili:silisili + Mandarin:系列 (xìliè) + English:series, French:série, Spanish:serie, Russian:серия (seriya), tur:seri|
 |**silke**|silk|Mandarin:丝 (sī), Cantonese:絲 (si1), Wu-Chinese:絲 (sr1), English:silk, Spanish:Portuguese:sérico, Russian:шёлк (sholk)|
@@ -1329,6 +1329,7 @@
 |**vespe**|bee or wasp|Spanish:avispa, Portuguese:Italian:vespa, English:wasp, deu:Wespe|
 |**veste**|west|English:west, deu:West, French:ouest, Spanish:Portuguese:oeste, Russian:вест (vest)|
 |**veyi**|traverse (horizontal)|Mandarin:纬度 (wěi), Korean:위 (wi), Vietnamese:vĩ|
+|**vezia**|weight (heft, gravity)|Arabic: وَزْن‎ (wazn), Hindi:वज़न (vazan), Bengali:ওজন (ojôn), Kannada:ವಜ್ಜೆ (vajje), Swahili:uzani + Russian:вес (ves) + French:peser, Spanish:Portuguese:peso|
 |**vida**|look (see)|Russian:видеть (videt’), Italian:vedere, Spanish:Portuguese:ver, Polish:widzieć, English:vide|
 |**vidou**|widow|English:widow, Spanish:viudo, Portuguese:viúvo, French:veuve, deu:Witwe, Russian:вдова (vdova), Hindi:विधवा (vidhavā), Bengali:বিধবা (bidhabā), Telugu:విధవ (vidhava)|
 |**vijin**|MSG (monosodium glutamate)|Mandarin:味精 (wèijīng), Cantonese:味精 (mei6 zing1), Vietnamese:mì chính, Malay:vetsin,micin, Filipino:bitsin|

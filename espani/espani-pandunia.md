@@ -403,6 +403,7 @@ bibliotecario - kitabominister
 bicicleta - pedalsikle  
 bicicleta - sikle  
 bien (aceptable) - okeyi  
+bienestar - salamia  
 bienvenido - salam lai  
 bilingüe - dulbaxi  
 billete de ida y vuelta - retrotikete  
@@ -568,8 +569,9 @@ cardo - kardon
 cardo borriquero - pinkardon  
 cardo burral - perkardon  
 cardo mariano - milkokardon  
+carga (pesa) - bare  
 cargar (subir) - netodona  
-cargar - lada  
+cargar - bara  
 cargo - ofis  
 Caribe - Karaibia  
 carne - manse  
@@ -811,6 +813,7 @@ contener - inda
 contenido - inite  
 continuar (reanudar) - reizoka  
 continuo (analógico) - zoki  
+contraseña - pasloge  
 contraseña - sekurkode  
 contrato (tratado) - trete  
 contribuir - fendona  
@@ -1204,6 +1207,7 @@ epistemología - saulojia
 equal (similar) - sami  
 equilibrado (par) - pari  
 equilibrado (par) - parike  
+equilibrio - parvezia  
 equipaje - bagaje  
 equipo - tim  
 erbio - erbem  
@@ -2539,11 +2543,12 @@ pasa (uva pasa) - ganputau
 pasado - pas  
 pasaporte - pasporte  
 pasar (transcurrir) - dura  
-pasar - pasu  
+pasar - pasa  
 pasatiempo (hobby, afición) - hobe  
 pascal (Pa) - paskal  
 Pascua - paske  
 paso (grado, nivel, rango, calidad, categoría) - darje  
+paso (pasaje) - pasdau  
 paso elevado - supre  
 pasta - paste  
 pastel (galleta) - keke  
@@ -2616,13 +2621,13 @@ personalizar - auta
 perspectiva (punto de vista) - vidopunte  
 pertenecer (ser miembro de) - memba  
 Perú - Peru  
-pesa (báscula, balanza) - barmetrer  
-pesa - bar  
-pesado - bari  
+pesa (báscula, balanza) - vezometrer  
+pesado - vezi  
+pesar - vezu  
 pescador - pexosaider  
 pescar - kapa pex  
 pescar - saida pex  
-peso (gravedad) - baria  
+peso (gravedad) - vezia  
 pestaña - okokex  
 peto - sinplate  
 petróleo - petronefte  
@@ -2970,6 +2975,7 @@ roble daimyo - dantobalute
 robo (hurto) - cor  
 robot (bot) - robote  
 roca (piedra) - petre  
+rock - rokomuzike  
 rocío - ros  
 rodear (cirundar) - sirka  
 rodilla - gute  
@@ -3018,11 +3024,11 @@ sabroso (umami) - umami
 sacerdote (clérigo, eclesiástico) - dinguru\*  
 saco - sake  
 sagrado (santo) - santi  
-sal - sal  
+sal - salte  
 sala de chat (tertuliadero) - blablokan  
 salchicha - sosis  
 salida - cutomun  
-salino - sali  
+salino - salti  
 salir (egresar) - extru  
 salir (irse) - cuta  
 salmodiar - mantra  
@@ -3034,8 +3040,8 @@ salmón rosado - rozosalmon
 salsa - saus  
 salsa de soja - soisaus  
 saltar (brincar) - jampa  
-salud - sih  
-saludable - sihi  
+salud - salia  
+saludable - sali  
 saludar - salama  
 saludo - salame  
 salvaje - ekojeni  

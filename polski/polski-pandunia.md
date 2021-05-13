@@ -358,9 +358,9 @@ cień - sai
 ciągnąć - tira  
 ciągły (analogowy) - zoki  
 ciąć - kata  
-ciężar (brzemię) - bar  
+ciężar (brzemię) - bare  
 ciężarny (w ciąży) - hamili  
-ciężki (masywny) - bari  
+ciężki (masywny) - vezi  
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanci  
 cmentarz - gabristan  
@@ -1507,7 +1507,7 @@ minister - minister
 ministry - ministeria  
 minuta - minute  
 minąć, mijać (czas) - dura  
-minąć, mijać, przeminąć, przemijać - pasu  
+minąć, mijać, przeminąć, przemijać - pasa  
 misja - misia  
 mistrz (ekspert) - mester  
 mistrz (sensei) - xense  
@@ -1667,7 +1667,7 @@ nazizm - nazistia
 nazwa użytkownika - uzernam  
 nazwać, nazywać, wezwać, wzywać - namana  
 nazwisko, imię rodziny - familnam  
-naładować, załadować, obładować, ładować - lada  
+naładować, załadować, obładować, ładować - bara  
 negatywny (przeciwny, nie) - ani  
 negocjować - lona biznes  
 neodym - neodimem  
@@ -2431,6 +2431,7 @@ rezerwować (zarezerwować) - rezerva
 rezult, wynik - asar  
 robak - verme  
 robot - robote  
+rock - rokomuzike  
 rocznica - nenfeste  
 rod - rodem  
 rodak, ziomek, krajan - samdexi  
@@ -2531,6 +2532,7 @@ róg - korne
 równik - geuparlin  
 równina (plaskowyż, plateau) - platistan  
 równoległy (podłużny) - parlini  
+równowaga - parvezia  
 równy - pari  
 równy - parike  
 róża - roze  
@@ -2828,14 +2830,14 @@ szyszka - konus
 szyć - suta  
 São Paulo - Santi Paulo  
 sód - natrem  
-sól - sal  
+sól - salte  
 sądzić (osądzić) - juda  
 sędzia - juder  
 słaby - debili  
 słodki - sukari  
 słodki ziemniak - kamote  
 słonecznik - solful  
-słony - sali  
+słony - salti  
 Słowacja - Slovakia  
 Słowenia - Slovenia  
 słowiański - slavi  
@@ -3075,8 +3077,8 @@ viski - viske
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 w przyszłości - vilo  
-waga (ciężkość) - baria  
-waga (urządzenie ważące) - barmetrer  
+waga (ciężkość) - vezia  
+waga (urządzenie ważące) - vezometrer  
 wagina - vagin  
 Walia - Kamria  
 walijski - kamri  
@@ -3101,6 +3103,7 @@ Watykan, Państwo Watykańskie - Vatikan
 wazon - jar  
 ważka - libel  
 ważny - hami  
+ważyć - vezu  
 wciąż, nadal - zoko  
 wcześniej (uprzednio) - ceno  
 wczoraj - cendeno  
@@ -3419,8 +3422,8 @@ zdanie (fraza) - jumle
 zdeaktywowany (wyłączony, zatrzymany) - anativi  
 zdjęcie (fotografia) - fotograf  
 zdrada małżeńska, cudzołóstwo - zin  
-zdrowie - sih  
-zdrowy - sihi  
+zdrowie - salia  
+zdrowy - sali  
 zebra - zebre  
 zegar (zegarek) - horloger  
 zejść (schodzić, zstąpić, zstępować) - aneskala  

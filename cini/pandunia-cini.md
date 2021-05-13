@@ -117,7 +117,7 @@ banyu - 游泳
 banyokamar - 浴室  
 banke - 银行  
 banse - 竹子  
-bari - 重型的  
+bare - 擔子  
 barkoke - 杏子  
 barxe - 雨  
 barxi - 多雨  
@@ -814,10 +814,14 @@ papagai - 鹉鹦
 papai - 木瓜  
 par - 水平  
 pari numbe - 偶数  
+parike - 同辈  
+parvezia - 平衡  
 param - 参数  
 parcokayu - 爆裂  
 parke - 园  
 parne - 蕨  
+pasa - 過  
+pasloge - 密码  
 pasporte - 护照  
 pastopetre - 岩漿  
 patike - 患者 (病患)  
@@ -899,6 +903,7 @@ risvin - 黄酒 (米酒)
 ritim - 节奏  
 riu - 河 (江)  
 riutube - 漏斗  
+rokomuzike - 摇滚乐  
 roketolancer - 火箭筒  
 Roma - 罗马  
 romakamil - 果香菊  
@@ -917,8 +922,11 @@ sahi - 正确
 saida - 打猎  
 saide - 狩猎  
 saider - 狩人  
-sal - 盐  
+sali - 健康  
+salia - 健康  
 salame - 迎接  
+salamia - 福利 (福祉)  
+salte - 盐  
 sami - 一样  
 sammetri - 对称  
 sammetria - 对称性  
@@ -947,8 +955,6 @@ seti - 七 (7)
 setyom - 星期日 (禮拜日)  
 side - 座部 (马鞍)  
 sifloge - 形容词  
-sih - 健康  
-sihi - 健康  
 siyahi - 黑色  
 sikliste - 骑自行车的人  
 sil - 连结  
@@ -1062,6 +1068,7 @@ venjovoranje - 温州蜜柑
 ventur - 冒险  
 venturer - 冒险者  
 vespe - 蜂  
+vezi - 重型的  
 vida - 看  
 vidou - 寡妇  
 vijin - 味精  

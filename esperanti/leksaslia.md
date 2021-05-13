@@ -76,7 +76,6 @@
 |**banye**|bano|hispana:bañera, portugala:banheira, greka:μπάνιο (bánio), rusa:ванна (vanna), araba:بانيو‎ (banyu)|
 |**barbar**|barbaro|deu:turka:barbar, franca:barbare, persa:(barbar), hispana:barbaro, angla:barbarian, rusa:варвар (varvar)|
 |**barde**|barbo|franca:barbe, hispana:portugala:barba, deu:Bart, angla:beard, rusa:борода (boroda), polona:broda|
-|**bari**|peza|bengala:ভারী (bharī), hindia:भारा (bhārā), urdua:(bhārā), teluga:బరువు (baruvu), malaja:berat, greka: βαρύς (barýs)|
 |**barka**|gratuli|haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, joruba:alubarika|
 |**barkoke**|abrikoto|araba:(barqūq), pa:albaricoque, franca:abricot, rusa:абрикос (abrikos), filipina:albarikoke, svahila:aprikoti|
 |**barti**|Barata|hindia:भारतीय (bhārtīy), urdua:(bhārtīy), marataja:(bhārtīya), teluga:(bhāratīya)|
@@ -735,8 +734,9 @@
 |**sahi**|ĝusta (prava)|hindia:सही (sahī), urdua:(sahī), persa:(sahih), araba:(ṣaḥīḥ), svahila:sahihi|
 |**sai**|ombro|persa:(sāye), urdua:(sāyā), pas:(sāyá), hindia:साया (sāyā), छाया (chāyā), bengala:ছায়া (chaya), taja:ฉายา (chāyā)|
 |**saide**|ĉasado|araba:(ṣayd), turka:seyd, urdua:صید‎ (said), persa:صید‎ (seyd), heb:ציד‎ (tsayid)|
-|**sal**|salo|angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)|
 |**salame**|saluto|araba:(salām), svahila:salamu, malaja:selamat, hindia:सलाम (salām), bengala: সালাম (salam), mandarena:萨拉姆 (sàlāmǔ), japana:サラーム (sarāmu), korea:살람 (sallam), vjetnama:xa lam, rusa:салям (salyam)|
+|**sali**|sana|franca:hispana:portugala:salubre + araba: سَلَامَة‎ (salāma) + turka:sağlık|
+|**salte**|salo|angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)|
 |**sami**|sama|angla:same, franca:semblable, rusa:самый (samyy), malaja:sama, hindia:सम (sam)|
 |**san**|tri (3)|mandarena:三 (sān), kantona:三 (sam1), japana:三 (san), korea:삼 (sam), vjetnama:tam, taja:สาม (saam)|
 |**sanduke**|skatolo (kesto)|svahila:sanduku, turka:sandık, rusa:сундук (sunduk), araba:صُنْدُوق‎ (ṣundūq), persa:urdua:صندوق‎ (sanduq)|
@@ -840,6 +840,7 @@
 |**veri**|vera|angla:very, itala:vero, rusa:верный (verniy), hispana:verdadero, portugala:verdadeiro, deu:wahr, franca:vrai|
 |**version**|versio (toisinto)|angla:franca:version, portugala:versão, rusa:версия (versiya), malaja:versi|
 |**vespe**|abelo aŭ vespo|hispana:avispa, portugala:itala:vespa, angla:wasp, deu:Wespe|
+|**vezia**|pezo|araba: وَزْن‎ (wazn), hindia:वज़न (vazan), bengala:ওজন (ojôn), kanara:ವಜ್ಜೆ (vajje), svahila:uzani + rusa:вес (ves) + franca:peser, hispana:portugala:peso|
 |**vida**|vidi (rigardi)|rusa:видеть (videt’), itala:vedere, hispana:portugala:ver, polona:widzieć, angla:vide|
 |**vidou**|vidvo|angla:widow, hispana:viudo, portugala:viúvo, franca:veuve, deu:Witwe, rusa:вдова (vdova), hindia:विधवा (vidhavā), bengala:বিধবা (bidhabā), teluga:విధవ (vidhava)|
 |**vil**|estonoteco|angla:will + vua:未来 (víle), mandarena:未来 (wèilái), korea:미래 (miræ), japana:未来 (mirai)|

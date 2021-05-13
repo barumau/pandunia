@@ -361,6 +361,7 @@ ekster - extro
 ekstera - exi  
 ekstero - ex  
 Ekvadoro - Ekuador  
+ekvilibro - parvezia  
 ekzemple - misalo  
 ekzemplo - misal  
 ekzerci - lenxa  
@@ -1238,6 +1239,7 @@ parolo - loge
 partio - partia  
 parto (frakcio) - fen  
 partopreni - parta  
+pasi - pasa  
 pasinta - pasi  
 pasinteco - pas  
 pasporto - pasporte  
@@ -1258,9 +1260,9 @@ persa - farsi
 persono - jan  
 peta- - peta\*  
 peti (bonvolu) - cinga  
-peza - bari  
+peza - vezi  
 pezmetalo - barmetal  
-pezo - baria  
+pezo - vezia  
 piano - piano\*  
 picejo - pizokan  
 pico - pize  
@@ -1433,8 +1435,8 @@ ruĝa - lali
 sabato - sisyom  
 sablo - rege  
 safrano - safran  
-sala - sali  
-salo - sal  
+sala - salti  
+salo - salte  
 salti - jampa  
 saluti - salama  
 saluto - salame  
@@ -1446,7 +1448,7 @@ samopinii (interkonsenti) - samraya
 samseksema - alseksi  
 samseksema - geyi  
 samseksema - samseksi  
-sana - sihi  
+sana - sali  
 sangi - lova sang  
 sango - sang  
 sanigi (kuraci) - medika  

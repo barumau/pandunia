@@ -278,12 +278,10 @@ banke - pankki
 banker - pankkiiri  
 banse - bambu  
 bar - baari (kapakka)  
-bar - paino  
-bari - painava  
-baria - paino  
+bara - kuormata (lastata, ladata)  
+bare - kuorma (lasti, taakka, paino)  
 barem - barium  
 barmetal - raskasmetalli  
-barmetrer - vaaka (puntari)  
 Barbados - Barbados  
 barbar - barbaari (raakalainen)  
 Barbuda - Barbuda  
@@ -1828,7 +1826,6 @@ la - luota (lähtien, -sta, -lta)
 le - hän (se)  
 les - he  
 labe - huuli  
-lada - ladata  
 Lagos - Lagos  
 laya - tulla (saapua)  
 layana - tuoda  
@@ -2452,6 +2449,7 @@ pari - tasainen (tasavertainen)
 pari numbe - parillinen luku  
 paru - olla yhtä kuin  
 parike - vertainen  
+parvezia - tasapaino  
 Paraguai - Paraguai  
 parai - hylkiö (paaria)  
 paraya - halveksia (hyljeksiä)  
@@ -2463,12 +2461,14 @@ parde - verhot
 Paris - Pariisi  
 parke - tarha (puisto)  
 parta - osallistua  
-partia - osapuoli  
+partia - osapuoli (puolue)  
 parter - osallistuja  
 pas - menneisyys  
-pasi - mennyt  
+pasa - mennä ohi tai läpi  
+pasi - ohitettu (mennyt)  
 paso - ennen (aikaisemmin, aiemmin)  
-pasu - kuluttaa aikaa  
+pasdau - sola (läpikulku)  
+pasloge - tunnussana  
 pasporte - passi  
 paske - pääsiäinen  
 paskal - pascal (Pa)  
@@ -2741,6 +2741,8 @@ rivunia - fuusio (yhteensulautuminen)
 rivunu - sulaa yhteen (fuusioitua)  
 robote - robotti  
 rodem - rhodium  
+roka - keinuttaa (keikuttaa)  
+rokomuzike - rokki (rock)  
 rokete - raketti  
 roketolancer - sinko (raketinheitin)  
 rol - rooli (osa)  
@@ -2811,8 +2813,8 @@ saida - pyytää (metsästää, kalastaa)
 saide - pyynti (metsästys, kalastus)  
 saider - pyytäjä (metsästäjä, kalastaja)  
 sake - pussi (säkki, kassi, laukku)  
-sal - suola  
-sali - suolainen  
+sali - terve  
+salia - terveys  
 salade - salaatti  
 salam (salami) - hyvä (tervehdyksissä)  
 salam cute - hyvää matkaa  
@@ -2823,7 +2825,10 @@ salam suar - Hyvää iltaa
 salam sube - Huomenta!  
 salama - tervehtiä  
 salame - tervehdys (terve!)  
+salamia - hyvinvointi  
 Salon - Sierra Leone  
+salte - suola  
+salti - suolainen  
 Salvador - El Salvador  
 sami - sama (yhtäläinen)  
 samdexi - samanmaalainen (maanmies)  
@@ -2908,8 +2913,6 @@ sifa - määritellä (luonnehtia)
 sifi - kuvaileva (määrittelevä)  
 sifloge - adjektiivi (laatusana)  
 sigar - savuke tai sikari  
-sih - terveys  
-sihi - terve  
 siyahi - musta  
 sikiste - sikhi  
 sikistia - sikhiläisyys  
@@ -3221,6 +3224,10 @@ version - versio
 vespe - mehiläinen tai ampiainen  
 veste - länsi  
 vesti - läntinen  
+vezi - painava  
+vezia - paino  
+vezu - painaa (olla jkn painoinen)  
+vezometrer - vaaka (puntari)  
 vida - nähdä  
 vide - näkymä  
 vidu - näkyä  

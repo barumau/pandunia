@@ -185,7 +185,7 @@ baie (golf) - bai
 baie - ber  
 bain - banye  
 baisser - tala  
-balance (poids) - barmetrer  
+balance (poids) - vezometrer  
 balcon - berande  
 balle (boule) - bol  
 ballon - balon  
@@ -224,6 +224,7 @@ betterave - bete
 betterave à sucre (betterave sucrière) - sukarbete  
 bibliothèque - kitabokan  
 bicyclette - sikle  
+bien-être - salamia  
 bilingue - dulbaxi  
 billet - tikete  
 biologie - biulojia  
@@ -322,6 +323,7 @@ chardon - kardon
 chardon aux ânes - pinkardon  
 chardon Marie - milkokardon  
 chardon penché - pendokardon  
+charge (fardeau, poids) - bare  
 charme - carme  
 chasser - saida  
 chat - mau  
@@ -761,7 +763,7 @@ long - longi
 longtemps - longoduro  
 loquace - logivi  
 loup - volfe  
-lourd - bari  
+lourd - vezi  
 loutre - lontre  
 lumière - fote  
 lundi - unyom  
@@ -838,6 +840,7 @@ morue - kade
 morue de l'Atlantique - atlantokade  
 morue du Pacifique - pacokade  
 mot - logem  
+mot de passe - pasloge  
 moteur - moter  
 mouche - domzeze  
 moudre - mola  
@@ -967,8 +970,10 @@ Paris - Paris
 parler - loga  
 parole (mots) - loge  
 parti - kiti  
+passe (passage) - pasdau  
 passeport - pasporte  
 passer - dura  
+passer - pasa  
 pastèque - arbuze  
 pathologie - patolojia  
 patient - patike  
@@ -986,6 +991,7 @@ perfectionner (parfaire) - purbona
 perplexe (désorienté) - ruhmixi  
 perroquet - papagai  
 personne - jan  
+peser - vezu  
 pet (vesse) - pede  
 petit - lili  
 peu - xavi  
@@ -1025,8 +1031,7 @@ plus - max (maxo)
 pluvieux - barxi  
 pocion - medikosui  
 podzol - huidarte  
-poids (charge) - bar  
-poids (lourdeur, gravité) - baria  
+poids (lourdeur, gravité) - vezia  
 poireau - porei  
 poisson - pex  
 poisson-globe - balonpex  
@@ -1126,6 +1131,7 @@ riz - ris
 robot - robote  
 roche (pierre) - petre  
 rocher - daixeke  
+rock - rokomuzike  
 Rome - Roma  
 rose - roze  
 rosée - ros  
@@ -1148,7 +1154,7 @@ s'installer (déménager) - migru
 s'opposer à - xata  
 sac - sake  
 sagesse - sofia  
-sain - sihi  
+sain - sali  
 saison - mosim  
 salle de bains - banyokamar  
 salle de classe - xulkamar  
@@ -1157,7 +1163,7 @@ samedi - sisyom
 Samoa américaines - Ameriki Samoa  
 sandwich - sanduice  
 sang - sang  
-santé - sih  
+santé - salia  
 Sapin - abite  
 Satan - Xatan (ruhxatan)  
 Saturne - Saturne  
@@ -1181,8 +1187,9 @@ se mouvoir - kinu
 se plaire - suku  
 se rappeler (se remémorer) - mema  
 seau - balde  
+secouer - roka  
 sein - mam  
-sel - sal  
+sel - salte  
 semence - sem  
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aromu  
@@ -1412,6 +1419,7 @@ zèbre - zebre
 époux - gam  
 épreuve (test) - teste  
 épée - katan  
+équilibre - parvezia  
 équipe - tim  
 étagère - liboban  
 étain - estan  

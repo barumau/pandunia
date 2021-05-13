@@ -259,12 +259,10 @@ banke - bank
 banker - bankier  
 banse - bambus  
 bar - bar  
-bar - ciężar (brzemię)  
-bari - ciężki (masywny)  
-baria - waga (ciężkość)  
+bara - naładować, załadować, obładować, ładować  
+bare - ciężar (brzemię)  
 barem - bar  
 barmetal - metal ciężki  
-barmetrer - waga (urządzenie ważące)  
 Barbados - Barbados  
 barbar - barbarzyńca  
 Barbuda - Barbuda  
@@ -1797,7 +1795,6 @@ la - z (od)
 le - on, ona, ono  
 les - oni  
 labe - warga  
-lada - naładować, załadować, obładować, ładować  
 lage - jezioro  
 laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 laje - śmieć, odpadek  
@@ -2483,6 +2480,7 @@ pari - równy
 parike - równy  
 parlini - równoległy (podłużny)  
 parlinu - iść wzdłuż (pójść wzdłuż)  
+parvezia - równowaga  
 Paraguai - Paragwaj  
 parai - wyrzutek  
 paraya - gardzić (pogardzać)  
@@ -2500,9 +2498,9 @@ parta - uczestniczyć, wziąć udział, brać udział
 partia - partia  
 parter - uczestnik  
 pas - przeszłość  
+pasa - minąć, mijać, przeminąć, przemijać  
 pasi - przeszły, miniony  
 paso - poprzednio (przedtem)  
-pasu - minąć, mijać, przeminąć, przemijać  
 pasivi - pasywny (nieaktywny)  
 pasporte - paszport  
 paske - Wielkanoc  
@@ -2792,6 +2790,7 @@ rivunia - fuzja (amalgamowanie, łączenie)
 rivunu - łączyć (złączyć)  
 robote - robot  
 rodem - rod  
+rokomuzike - rock  
 rokete - rakieta  
 roketolancer - wyrzutnia rakietowa  
 rol - rola  
@@ -2870,8 +2869,8 @@ saida pex - łapać rybę
 saide - polowanie (łowienie)  
 saider - łowca (myśliwy)  
 sake - torba, wór, worek, torba, sakwa  
-sal - sól  
-sali - słony  
+sali - zdrowy  
+salia - zdrowie  
 salade - sałatka  
 salam (salami) - dobry ...  
 salam cute - żegnaj, dobre odejście  
@@ -2884,6 +2883,8 @@ salama - pozdrowić, pozdrawiać
 salame - pozdrowienie  
 salmon - łosoś (pstrąg)  
 Salon - Sierra Leone  
+salte - sól  
+salti - słony  
 Salvador - Salwador  
 sami - taki sam  
 samu - być podobnym, być jak  
@@ -2985,8 +2986,6 @@ sifa - opisać (zakwalifikować)
 sifi - opisowy  
 sifloge - przymiotnik  
 sigar - papieros (cygar)  
-sih - zdrowie  
-sihi - zdrowy  
 siyahi - czarny  
 sikiste - sikh  
 sikistia - sikhizm  
@@ -3354,6 +3353,10 @@ veste - zachód
 vesti - zachodni  
 vestodongia - długość geograficzna  
 vestogoril - goryl zachodni  
+vezi - ciężki (masywny)  
+vezia - waga (ciężkość)  
+vezu - ważyć  
+vezometrer - waga (urządzenie ważące)  
 vida - patrzeć, widzieć  
 vide - widok, wzrok  
 vidu - być widzianym  

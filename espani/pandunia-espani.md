@@ -271,12 +271,10 @@ banke - banco
 banker - banquero  
 banse - bambú  
 bar - bar  
-bar - pesa  
-bari - pesado  
-baria - peso (gravedad)  
+bara - cargar  
+bare - carga (pesa)  
 barem - bario  
 barmetal - metal pesado  
-barmetrer - pesa (báscula, balanza)  
 Barbados - Barbados  
 barbar - bárbaro  
 Barbuda - Barbuda  
@@ -1826,7 +1824,6 @@ la - de (desde)
 le - él o ella  
 les - ellos o ellas  
 labe - labio  
-lada - cargar  
 lage - lago  
 laya - venir  
 layana - traer  
@@ -2507,6 +2504,7 @@ pari numbe - número par
 parike - equilibrado (par)  
 parlini - paralelo  
 parlinu - alinear  
+parvezia - equilibrio  
 Paraguai - Paraguay  
 parai - paria  
 paraya - despreciar (desdeñar)  
@@ -2522,9 +2520,11 @@ parta - participar
 partia - partido (grupo)  
 parter - participante  
 pas - pasado  
+pasa - pasar  
 pasi - anterior (remoto)  
 paso - haber (en el pasado)  
-pasu - pasar  
+pasdau - paso (pasaje)  
+pasloge - contraseña  
 pasporte - pasaporte  
 paske - Pascua  
 paskal - pascal (Pa)  
@@ -2825,6 +2825,7 @@ rivunia - fusión
 rivunu - fusionar (fundir)  
 robote - robot (bot)  
 rodem - rodio  
+rokomuzike - rock  
 rokete - cohete (misil)  
 roketolancer - lanzamisiles  
 rol - papel  
@@ -2903,8 +2904,8 @@ saida - cazar (pescar)
 saida pex - pescar  
 saider - cazador  
 sake - saco  
-sal - sal  
-sali - salino  
+sali - saludable  
+salia - salud  
 salade - ensalada  
 salam (salami) - buen (hola)  
 salam cute - adiós  
@@ -2915,8 +2916,11 @@ salam suar - buenas noches
 salam sube - buenos días  
 salama - saludar  
 salame - saludo  
+salamia - bienestar  
 salmon - salmón (trucha)  
 Salon - Sierra Leona  
+salte - sal  
+salti - salino  
 Salvador - El Salvador  
 sami - equal (similar)  
 samu - parecerse a  
@@ -3021,8 +3025,6 @@ sifa - definir
 sifi - descriptivo  
 sifloge - adjetivo  
 sigar - cigarro  
-sih - salud  
-sihi - saludable  
 siyahi - negro  
 sikiste - sij  
 sikistia - sijismo  
@@ -3392,6 +3394,10 @@ veste - oeste
 vesti - occidental  
 vestodongia - longitud  
 vestogoril - gorila occidental  
+vezi - pesado  
+vezia - peso (gravedad)  
+vezu - pesar  
+vezometrer - pesa (báscula, balanza)  
 vida - ver (mirar)  
 vide - vista (visión)  
 vidu - ser visto  

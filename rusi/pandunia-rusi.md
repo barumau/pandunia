@@ -121,7 +121,8 @@ banyu - купаться
 banyokamar - ванная  
 banke - банк  
 banse - бамбук  
-bari - тяжёлый  
+bara - обременять  
+bare - ноша  
 barde - борода  
 barya - преграждать  
 baryer - барьер  
@@ -898,11 +899,14 @@ papai - папайя
 par - уровень  
 pari - равный  
 pari numbe - чётное число  
+parike - ровня  
 parlini - параллельный  
+parvezia - равновесие (баланс)  
 param - параметр (аргумент)  
 parce - кусок  
 parke - парк  
 parne - папоротник  
+pasloge - пароль  
 pasporte - паспорт  
 patike - пациент (больной)  
 patojener - патоген  
@@ -1004,6 +1008,8 @@ ritim - ритм (такт)
 riu - река  
 riutube - воронка  
 robote - робот  
+roka - качать  
+rokomuzike - рок  
 roketolancer - ракетная установка  
 Roma - Рим  
 romakamil - ромашка римская  
@@ -1026,8 +1032,9 @@ ses - друг друга
 safran - шафран  
 sahi - правильный  
 saida - охотиться  
-sal - соль  
 salame - приветствие  
+salamia - благосостояние  
+salte - соль  
 samemos - сострадание  
 sammetri - симметричный  
 sammetria - симметрия  
@@ -1200,6 +1207,8 @@ Venus - Венера
 veri - верный  
 vermute - вермут  
 vestogoril - западная горилла  
+vezi - тяжёлый  
+vezu - весить  
 vida - видеть  
 vider - зрительница  
 vidopunte - перспектива (точки зрения)  

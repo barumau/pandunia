@@ -157,8 +157,6 @@ banyokamar - banĉambro
 banke - banko  
 banker - bankisto  
 banse - bambuo  
-bari - peza  
-baria - pezo  
 barem - bario  
 barmetal - pezmetalo  
 barbar - barbaro  
@@ -1350,12 +1348,14 @@ papagai - papago
 papai - papajo  
 par - nivelo  
 pari numbe - para nombro  
+parvezia - ekvilibro  
 parce - ero  
 parde - kurteno  
 parke - parko (ĝardeno)  
 parta - partopreni  
 partia - partio  
 pas - pasinteco  
+pasa - pasi  
 pasi - pasinta  
 paso - antaŭe (pasinte)  
 pasporte - pasporto  
@@ -1518,8 +1518,7 @@ sai - ombro
 saida - ĉasi  
 saide - ĉasado  
 saider - ĉasisto  
-sal - salo  
-sali - sala  
+sali - sana  
 salam (salami) - bona (en salutoj)  
 salam cute - bonan vojaĝon  
 salam den - Bonan tagon  
@@ -1529,6 +1528,8 @@ salam suar - Bonan vesperon
 salam sube - Bonan matenon!  
 salama - saluti  
 salame - saluto  
+salte - salo  
+salti - sala  
 sami - sama  
 samdexi - samlandano  
 samemos - kompato  
@@ -1568,7 +1569,6 @@ setyom - dimanĉosunnuntai
 siborgem - seborgio  
 sida - sidi  
 sifloge - adjektivo  
-sihi - sana  
 siyahi - nigra  
 sikliste - biciklisto  
 sil - ĉenero  
@@ -1732,6 +1732,8 @@ veri - vera
 vermute - vermuto  
 version - versio (toisinto)  
 vespe - abelo aŭ vespo  
+vezi - peza  
+vezia - pezo  
 vida - vidi (rigardi)  
 vidou - vidvo  
 vike - vikia artikulo  

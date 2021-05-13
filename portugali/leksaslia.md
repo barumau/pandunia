@@ -60,7 +60,7 @@
 |**banke**|banco|eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|
 |**banse**|bambu|hin:बांस (bāns), ben:বাঁশ (bãśô), pnb:ਬਾਂਸ (bāns), swa:mwanzi|
 |**barde**|barba|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
-|**bari**|pesado|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
+|**bare**|carga (peso)|hin:भार  (bhār), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|
 |**barkoke**|damasco (abricó)|ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|
 |**barxe**|chuva|hin:बारिश (bāriś), ben:বৃষ্টি (briśṭi), tur:baran|
 |**baryer**|barreira|eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|
@@ -462,8 +462,9 @@
 |**roze**|rosa|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |**sahi**|correto (justo)|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |**sake**|saco|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
-|**sal**|sal|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**salame**|saudação|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
+|**sali**|saudável (saudio)|fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|
+|**salte**|sal|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**sami**|igual|eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|
 |**san**|três (3)|zho:三 (sān), yue:三 (sam1), jpn:三 (san), kor:삼 (sam), vie:tam, tha:สาม (saam)|
 |**sanduice**|sanduíche|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
@@ -477,7 +478,6 @@
 |**ser**|serra|spa:sierra, por:serra, eng:serrate|
 |**seram**|cerâmico|eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik|
 |**seti**|sete (7)|spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), tha:เจ็ด (chet), yue:七 (chat1), jpn:七 (shichi), tur:yedi|
-|**sih**|saúde|ara:صحة (siha), swa:siha, hin:सेहत (sehata), may:sihat, tur:sıhhat|
 |**sil**|elo|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri|
 |**silke**|seda|zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), eng:silk, spa:por:sérico, rus:шёлк (sholk)|
 |**sisi**|seis (6)|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta), fas:شِش‎ (šeš), hin:छह (chah), सहा (sahā)|

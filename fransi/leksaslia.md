@@ -92,7 +92,7 @@
 |**banye**|bain|spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|
 |**barbar**|barbare|deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|
 |**barde**|barbe|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
-|**bari**|lourd|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
+|**bare**|charge (fardeau, poids)|hin:भार  (bhār), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|
 |**barka**|féliciter|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|
 |**barkoke**|abricot|ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|
 |**barti**|indien|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
@@ -515,6 +515,7 @@
 |**ritim**|rhythme|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |**riu**|rivière (fleuve)|spa:por:rio, eng:river, fra:rivière|
 |**robote**|robot|eng:fra:spa:tur:may:robot, por:robô, rus:робот (robot), ara:رُوبُوت‎ (rōbōt), fas:روبات‎ (rōbât), hin:रोबोट (rōbōṭ), tam:ரோபோ (rōpō), jpn:ロボット (robotto), kor:로봇 (robot)|
+|**roka**|secouer|eng:fra:spa:por:rock, rus:рок (rok), hin:रॉक (rŏk), ben:রক (rôk), jpn:ロック (rokku), kor:록 (rok), ara: رُوك‎ (rūk)|
 |**ros**|rosée|fra:rosée, spa:rocío, rus:роса (rosa)|
 |**rosta**|rôtir|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
 |**rototope**|toupie|eng:top, fra:toupie|
@@ -523,9 +524,10 @@
 |**ruhlojia**|psychologie|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |**sahi**|correct (juste)|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |**sake**|sac|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
-|**sal**|sel|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**salame**|salut (salam)|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
+|**sali**|sain|fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|
 |**salmon**|truite|eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|
+|**salte**|sel|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**sami**|égal (même)|eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|
 |**san**|trois (3)|zho:三 (sān), yue:三 (sam1), jpn:三 (san), kor:삼 (sam), vie:tam, tha:สาม (saam)|
 |**sanduice**|sandwich|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
@@ -540,7 +542,6 @@
 |**sense**|sens|eng:sense, spa:por:sentido, fra:sens|
 |**ser**|scie|spa:sierra, por:serra, eng:serrate|
 |**seti**|sept (7)|spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), tha:เจ็ด (chet), yue:七 (chat1), jpn:七 (shichi), tur:yedi|
-|**sih**|santé|ara:صحة (siha), swa:siha, hin:सेहत (sehata), may:sihat, tur:sıhhat|
 |**sikle**|bicyclette|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
 |**sil**|maillon (chaînon)|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri|
 |**silke**|soie|zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), eng:silk, spa:por:sérico, rus:шёлк (sholk)|
@@ -607,6 +608,7 @@
 |**verme**|ver|eng:worm, por:verme, fra:ver, deu:Wurm|
 |**versu**|verse (face á)|eng:versus, fra:verse, spa:por:versar|
 |**vespe**|abeille ou guêpe|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
+|**vezia**|poids (lourdeur, gravité)|ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|
 |**vida**|voir|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|
 |**vidou**|veuve|eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|
 |**virus**|virus|eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|

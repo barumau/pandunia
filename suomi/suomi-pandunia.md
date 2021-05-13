@@ -665,6 +665,7 @@ hyrrä - rototope
 hyttynen (sääski) - moskite  
 hyve - bondeke  
 hyveellinen (hyvä) - bondeki  
+hyvinvointi - salamia  
 hyvä (eettisesti hyvä) - evi  
 hyvä (tervehdyksissä) - salam (salami)  
 hyvä - boni  
@@ -1018,6 +1019,7 @@ keidas - vas
 keino (menetelmä, metodi) - metode  
 keinotekoinen (teko-, keino-) - cani  
 keinotekoinen kieli (tekokieli, keinokieli) - canbax  
+keinuttaa (keikuttaa) - roka  
 keisari - imperer  
 keisarikunta - imperia  
 keittiö - kukokamar  
@@ -1252,7 +1254,6 @@ kulta (rakas) - amike
 kulta - aur  
 kulttuuri - kultur  
 kuluttaa (viettää aikaa) - dura  
-kuluttaa aikaa - pasu  
 kuluva (tämänhetkinen) - zayi  
 kumi - gom  
 kumina - karau  
@@ -1273,6 +1274,8 @@ kuolla - mortu
 kuollut (vainaa) - morti  
 kuoppa (kolo) - kau  
 kuori (suojakuori) - kaske  
+kuorma (lasti, taakka, paino) - bare  
+kuormata (lastata, ladata) - bara  
 kuoro - cantergrupe  
 kupari - kupre  
 kupla - lilbol  
@@ -1366,7 +1369,6 @@ laatikko - sanduke
 laatta (levy) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsifia  
 laatu (ominaisuus, ominaispiirre, määrite) - sif  
-ladata - lada  
 Lagos - Lagos  
 lahja - don  
 lahti - bai  
@@ -1669,8 +1671,8 @@ melodia (sävelmä) - melodia
 melodinen (sointuisa) - melodi  
 menneisyys - pas  
 mennyt (poissa) - kiti  
-mennyt - pasi  
 mennä - kita  
+mennä ohi tai läpi - pasa  
 mennä sisään - intru  
 mennä vasten - kontra  
 menopaluulippu - retrotikete  
@@ -1923,6 +1925,7 @@ näytös (esitys, show) - xou
 ####O - O  
 odottaa - denga  
 oganesson - oganeson  
+ohitettu (mennyt) - pasi  
 ohjaaja (pilotti, luotsi) - piloter  
 ohjelma - program  
 ohjelmoija - programer  
@@ -1988,7 +1991,7 @@ osa (pala) - fen
 osallistua (tehdä osansa) - fendona  
 osallistua - parta  
 osallistuja - parter  
-osapuoli - partia  
+osapuoli (puolue) - partia  
 Oseania - Oceania  
 osittainen (diskreetti) - feni  
 osmani (ottomaani) - osman  
@@ -2020,9 +2023,9 @@ paha (epäsuotuisa, epämiellyttävä, vastustava) - dusi
 paikallinen - loki  
 paikka (sija, sijainti) - loke  
 painaa (leimata) - capa  
-painava - bari  
-paino - bar  
-paino - baria  
+painaa (olla jkn painoinen) - vezu  
+painava - vezi  
+paino - vezia  
 painos (leima) - cape  
 painotus (aksentti) - aksente  
 paita - kamis  
@@ -2425,6 +2428,7 @@ rivinvaihto - linparce
 robotti - robote  
 rohkea (urhea, uljas) - bravi  
 roikuttaa - penda  
+rokki (rock) - rokomuzike  
 rokote - vaksin  
 Romania - Romania  
 romanttinen - romansi  
@@ -2663,6 +2667,7 @@ soittaa puhelimella - telfona
 soittokello - danger  
 sokeri - sukar  
 sokerinen (makea) - sukari  
+sola (läpikulku) - pasdau  
 solmia (tehdä solmu) - noda  
 solmu - node  
 solu - cel  
@@ -2723,8 +2728,8 @@ suodattaa - filter
 suojakilpi - defban  
 suojakypärä - defkaske  
 suojella (suojata, turvata) - sekura  
-suola - sal  
-suolainen - sali  
+suola - salte  
+suolainen - salti  
 suomalainen - suomi  
 Suomi - Suomia  
 suora - orti  
@@ -2865,6 +2870,7 @@ tarra - glutograf
 tarve (puute) - yau  
 tarvita - yavu  
 tasainen (tasavertainen) - pari  
+tasapaino - parvezia  
 tasavalta - komunkratia  
 tasku - jebe  
 taso - par  
@@ -2915,11 +2921,11 @@ teosofia - deusofia
 tera- - tera\*  
 terrorismi - teroristia  
 terroristi - teroriste  
-terve - sihi  
+terve - sali  
 tervehdys (terve!) - salame  
 tervehtiä - salama  
 tervetuloa! - salam lai  
-terveys - sih  
+terveys - salia  
 tesla (T) - tesle  
 Tethys - Tetis  
 teurastaa (lahdata) - buca  
@@ -3006,6 +3012,7 @@ Tunisia - Tunisia
 tunne (mielenliikutus) - emos  
 tunneli - tunel  
 tunnetila (tuuli) - emoshal  
+tunnussana - pasloge  
 tuntea (kokea tunteita) - emosu  
 tuntea - senta  
 tunteellinen (tunne-) - emosi  
@@ -3133,7 +3140,7 @@ Uusi-Kaledonia - Novi Kaledonia
 Uusi-Seelanti - Novi Zelandia  
 uutinen - habar  
 Uzbekistan - Uzbekia  
-vaaka (puntari) - barmetrer  
+vaaka (puntari) - vezometrer  
 vaaleanpunainen - rozorangi  
 vaara - hatre  
 vaarallinen - hatri  
