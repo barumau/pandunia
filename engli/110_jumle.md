@@ -192,18 +192,91 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me wenda te basha pandunia.**
+**me suala te baxa pandunia.**
 – I ask do you speak Pandunia.  
-**wenda te basha pandunia?**
+**suala te baxa pandunia?**
 – Do you speak Pandunia.
 
 ### Short pivot structure (VVO)
 
-**me pliza te laya dom.**
+**me cinga te laya dom.**
 – I ask you to come home.  
-**pliza laya dom!**
+**cinga laya dom!**
 – Please come home!
 (Word for word: _Request come home!_)
+
+
+## Relative clauses
+
+A relative clause is a subordinate clause that modifies a noun phrase, most commonly a noun.
+For example, the phrase "the person who lives there" containst the noun _person_,
+which is modified by the relative clause _who lives there_.
+
+There are different ways to build a relative clause in Pandunia.
+The relative pronoun in Pandunia is **de**
+and it corresponds to English _that_, _who_ and _which_.
+
+The relativized word can be emphasized by **di**,
+as in the following example,
+but it is necessary only in complex phrases.
+
+In Pandunia, relative clauses are always set off by commas.
+
+**di buke, de jan kitaba, padu.**
+– _That_ book, which the person writes, falls.
+
+Normally the same sentence includes only **de**.
+
+**buke, de jan kitaba, padu.**
+– The book that the person writes falls.
+
+It is possible to leave also **de** out.
+This structure is called _reduced relative clause_.
+
+**buke, jan kitaba, padu.**
+– The book the person writes falls.
+
+The relative pronoun is necessary
+when the relativized noun is the subject of the relative clause.
+
+**jan, de kitaba buke, padu.**
+– The person that writes the book falls.
+
+Also the object noun of a preposition can be the target of the relative clause.
+It's possible to use relative pronouns or the reduced relative clause structure.
+
+**_di_ kalam, ya _de_ jan kitaba buke, padu.**
+– _That_ pen, with _which_ the person writes the book, falls.  
+**kalam, jan kitaba buke ya, padu.**
+– The pen the person writes the book with falls.
+
+The relative pronoun can be put in its right place in the pivot structure
+or it can be left out by using the reduced relative clause structure.
+
+**_di_ jan, me vida _de_ kitaba buke, padu.**
+– The person, whom I see write the book, falls.  
+**jan, me vida kitaba buke, padu.**
+– The person that I see write the book falls.  
+
+Also _resumptive relative pronoun_ can be used if needed.
+
+**_di_ jan, me kitaba buke ya _de_ du kalam, padu.**
+– The person whose pen I write the book with falls.  
+
+Finally, a content clause can also involve **de**,
+which refers back to the previous phrase.
+
+**jan kitaba buke, de sa hami.**
+– The person writes a book, which is important.
+
+However, it is unclear whethere **de** (_which_) refers to only the book
+or the fact that the person writes the book.
+It can be clarified by an expression like
+**di fate**
+(_the fact_).
+
+**jan kitaba buke, di fate sa hami.**
+– The fact that the person writes the book is important.
 
 
 ## Combining phrases with conjunctions
@@ -263,14 +336,14 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **me no vida te.**
 – I don't see you.  
-**me vida no te a lole.**
+**me vida no te a les.**
 – I see, not you, but them.
 
-**me pliza te safa kamar.**
+**me cinga te safa kamar.**
 – I ask you to clean the room.  
-**me no pliza te safa kamar.**
+**me no cinga te safa kamar.**
 – I do NOT ask you to clean the room.  
-**me pliza te no safa kamar.**
+**me cinga te no safa kamar.**
 – I ask you NOT to clean the room.
 
 Words
@@ -279,7 +352,7 @@ Words
 **no**
 (_no_) are used for answering questions.
 
-**eska te vida me?**
+**suala te vida me?**
 – Do you see me?  
 **ye. (me yo vida te.)**
 – Yes. (I indeed see you.)  
@@ -292,7 +365,7 @@ and
 **no**
 apply to the verb, not the whole question.
 
-**eska te no vida me?**
+**suala te no vida me?**
 – Don't you see me?  
 **ye. (me vida te.)**
 – Yes. (I see you.)  
@@ -371,96 +444,12 @@ So a modifier phrase with and without **du** can mean a different thing.
 #### Modification with verb phrases
 
 Verbs and verb phrases are turned into modifiers by placing **da** or **du** immediately next to the verb.
-The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
 
-A declarative phrase:  
-**mau vidu me.**
-– A cat is seen by me.
+**arte da penta graf**
+– the art of painting pictures  
+**suke da helpa ale**
+– the joy of helping others
 
-The corresponding modifying phrase:  
-**mau da vidu me**
-– the cat that is _seen by me_
-
-Note! Although **da** seems to have a similar role here as English relative pronouns _which_, _that_, _who_ and _whom_,
-it's still nothing more than a particle connecting a modifier (in this case: a verb phrase) to the modified.
-
-The opposite word order is made with **du** and the verb ending in **-a**.
-
-A declarative phrase:  
-**me vida mau.**
-– I see a cat.
-
-The corresponding modifying phrase:  
-**me vida du mau**
-– _My seen_ cat i.e. the cat _that I see_
-
-Pay attention to the final vowels! They are crucial for the meaning!
-
-**mau da vidu man**
-– the cat that _is seen_ by the man  
-**mau da vida man**
-– the cat that _sees_ the man  
-**mau vida du man**
-– the _cat-seen_ man  
-**mau vidu du man**
-– the _cat-seeing_ man
-
-Note! In Pandunia, words can be put in many different orders.
-That's why some translations sound clumsy in English although the original phrases are perfectly natural in Pandunia.
-
-#### Modification with adposition phrases
-
-The modified noun can be part of an adposition phrase too.
-
-**me safara pa du site sa teli.**
-– My destination city is far away.
-
-With the modified noun at the beginning, we need to call into action the otherwise rarely used postpositions
-**nu**, **cu**, **su**, and **pu**.
-
-**site da pu me safara si teli.**
-– The city I’m traveling to is far away.  
-**di kalam da su me zayo kitaba sa novi.**
-– This pen, with which I’m writing now, is new.
-
-#### 9.2.5. Modification with clauses
-
-Any clause can modify a noun in the same manner: the modified noun is moved to the beginning of the modifying clause
-and separated out with **da**, or moved to the end and separated out with **du**.
-
-**me soka me paso abla laxa du eni xei.**
-– I'm looking for anything I might have left behind.
-
-In more complex cases, it can become challenging to maneuver the noun to the end of the clause. In these cases, the
-word order may be relaxed as long as it is clear where in the modifying clause the noun goes. Note, however, that it
-may be more understandable to simply rearrange the sentence entirely.
-
-**lole namana loke da me no abla eureka va karte.**
-– They named a place I couldn't find on the map.
-**me cana table da jan. me raya mome xudu eska lole tema liga momi partia.**
-– I've tabulated the people that I think we should ask about joining our party.
-
-### Modal Particles
-
-Modal particles indicate what the speaker thinks about s/he says in relation to the listener.
-Modal particles are commonly used in many languages.
-East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
-
-In Pandunia, a modal particle modifies the subsequent word, or the whole sentence,
-when the modal particle is the last word in the sentence.
-
-The particle **plus** _(also)_ is a good example because it functions much like in English.
-
-**le yama bir plus.**
-– S/he drinks beer, _also_.  
-**le yama plus bir.**
-– S/he drinks _also beer_.  
-**le plus yama bir.**
-– S/he _also drinks_ beer.  
-**plus le yama bir.**
-– _Also s/he_ drinks beer.
-
-Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
 
 ### Tense and Aspect Particles

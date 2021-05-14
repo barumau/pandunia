@@ -1,5 +1,5 @@
 # fransi-pandunia
-a (dans, en, chez) - va  
+a (dans, en, chez) - ya  
 ####A - A  
 abattoir - bucokan  
 abattre - buca  
@@ -21,8 +21,10 @@ actif - ativi
 actinium - acinem  
 action - ation  
 activer (allumer, mettre en marche, déclencher) - ativa  
+adapter (ajuster) - hapa  
 adhésif (collant) - gluti  
 adjectif - sifloge  
+administrateur - politer  
 adresse - adres  
 adulte - matur  
 adversaire (antagoniste, ennemi) - xatan  
@@ -38,6 +40,9 @@ agile - ajili
 agresseur - agreser  
 agressif - agresivi  
 agression (attaque) - agres  
+agricole - agri  
+agrobiologie - agrobiulojia  
+agronomie - agronomia  
 ail - lasun  
 aimer - ama  
 air - air  
@@ -49,7 +54,7 @@ algue - alge
 algues - hayalge  
 algues brunes - brunalge  
 Algérie - Jayeria  
-aller (quitter) - kitu  
+aller (quitter) - kita  
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alfon  
@@ -74,7 +79,8 @@ Amérique - Amerike
 anal - anusi  
 analyse - fenkate  
 analyser - fenkata  
-ancre - anker  
+anaérobique - anairbivi  
+ancre - angar  
 Andes - Andes  
 Andorre - Andora  
 andésite - andesite  
@@ -89,14 +95,16 @@ antenne - anten
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibem  
+antonyme - annam  
 anus - anus  
-août - balmes  
+août - ballun  
 appartenir à - malu  
 application - aplike  
 appliquer - aplika  
 apporter - layana  
 apprendre (étudier) - xula  
 apprivoiser (dresser, dompter, discipliner) - dosila  
+approprié (adapté, convenable, opportun) - hapi  
 arabe - arabi  
 arachnophobie - aranfobia  
 araignée - aran  
@@ -111,7 +119,7 @@ arctique - Artike
 argent - argente  
 argent - pes  
 Argentine - Argentina  
-argile - glutopote  
+argile - glutofan  
 argon - argon  
 argument - argum  
 argument - tes  
@@ -140,6 +148,8 @@ astre (corps céleste) - astre
 astrobiologie - kosmobiulojia  
 astronaute - astronaver  
 astronef - astronau  
+astronome - astronomer  
+astronomie - astronomia  
 atchoum - acu\*  
 Athènes - Atina  
 athée - andeviste  
@@ -148,19 +158,22 @@ attaquer (agresser) - agresa
 aubergine - bedinje  
 Australie - Australia  
 autel - pujomeze  
+autocollant - glutograf  
 automne - padomosim  
 autre - ali  
 autrement - alo  
 avant - ceno  
-avec (avoir) - ya  
+avec (avoir) - ha  
 aventure - ventur  
 aventurier - venturer  
 avocat - avakate  
+avoine - aven  
 avoir besoin de - yavu  
 avoir tendance à - iva  
 axe - akse  
 Azerbaijan - Azerbaijan  
 azur - lazuri  
+aérobique - airbivi  
 aéroport - airporte  
 aïe! - ai  
 ####B - B  
@@ -172,7 +185,7 @@ baie (golf) - bai
 baie - ber  
 bain - banye  
 baisser - tala  
-balance (poids) - barmetrer  
+balance (poids) - vezometrer  
 balcon - berande  
 balle (boule) - bol  
 ballon - balon  
@@ -202,13 +215,16 @@ basketball - baskobol
 bassin - basen  
 bateau - nau  
 beau - sundari  
+beau-père - gampai  
 beauté - sundaria  
+belle-mère - gammai  
 bengali - bangli  
 besoin - yau  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukarbete  
 bibliothèque - kitabokan  
 bicyclette - sikle  
+bien-être - salamia  
 bilingue - dulbaxi  
 billet - tikete  
 biologie - biulojia  
@@ -227,9 +243,11 @@ botte - bute
 boucher - bucer  
 bouclire - defban  
 Bouddha - Bude  
-boue (fange, bourbe, gadoue) - pote  
+boue (fange, bourbe, gadoue) - fan  
 boulanger - beker  
 bouleau - berje  
+bout (pointe, pic) - pike  
+bout de doigt - angulpike  
 bouteille - botel  
 bouton - buton  
 boxe - bokse  
@@ -250,8 +268,10 @@ bédouin - badavi
 bûche - mokotan  
 ####C - C  
 cacher - sira  
+cachet de la poste - postomarke  
 cactus - katus  
 cadre - frem  
+cafetière - kafepote  
 café - kafekan  
 café - kafe\*  
 cage - batonkapse  
@@ -303,6 +323,7 @@ chardon - kardon
 chardon aux ânes - pinkardon  
 chardon Marie - milkokardon  
 chardon penché - pendokardon  
+charge (fardeau, poids) - bare  
 charme - carme  
 chasser - saida  
 chat - mau  
@@ -326,8 +347,8 @@ chêne - balute
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
 ciel - ten  
-cime (pic, sommet) - pike  
-cimetière - gabrotopia  
+cime (pic, sommet) - xanpike  
+cimetière - gabristan  
 cinq (5) - limi  
 cirse commun - perkardon  
 citron - limon  
@@ -350,7 +371,7 @@ compote de pommes - aplosaus
 comprendre (réaliser) - aha  
 concert - konserte  
 concombre - hiyar  
-concombre confit (cornichon) - sirkopurxipi hiyar  
+concombre confit (cornichon) - suanpurxipi hiyar  
 concombre de mer - haihiyar  
 conseil - sel  
 conseiller - sela  
@@ -360,8 +381,9 @@ consultant (conseiller) - konseler
 conteneur - inan  
 continu (analogique) - zoki  
 continuer (poursuivre) - zoka  
-contract (traité) - trate  
-convention (alliance, pacte) - kontrate  
+contract (traité) - trete  
+convenir (être approprié) - hapu  
+convention (alliance, pacte) - kontrete  
 copie - kope  
 coquelicot - medenpapil  
 corail - koral  
@@ -381,6 +403,7 @@ coureur - korer
 courgette - lilkaboge  
 courir - kora  
 couronne - koron  
+cousin - cinbrusben  
 coutume - ade  
 couvrir - daka  
 crabe - krabe  
@@ -401,6 +424,7 @@ crêpe - krepe
 crêperie - krepokan  
 cube - kube  
 cuiller - camace  
+cultiver - agra  
 culturisme (musculation) - muskulbin  
 cycliste - sikliste  
 cytologie - celolojia  
@@ -414,9 +438,9 @@ danger - hatre
 danois - dani  
 dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
-de - ja  
-demain - badodeno  
-demander (poser un question; est-ce que) - eska  
+de - la  
+demain - posdeno  
+demander (poser un question; est-ce que) - suala  
 dessous - nice  
 destin - cenamen  
 deux (2) - duli  
@@ -456,7 +480,7 @@ dynamite - dinamite
 dé - zarkube  
 déboguer (débugger) - angalta  
 début (commencement) - xur  
-décapé (mariné) - sirkopurxipi  
+décapé (mariné) - suanpurxipi  
 déchirer - cir  
 déchirer - cira  
 défigurer - dusforma  
@@ -471,19 +495,22 @@ effet - asar
 effrayant - fobani  
 effrayer - foba  
 Einsteinium - ainstainem  
+empreinte de pied - futomarke  
+empreinte digitale - angulmarke  
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
-en ligne - va linye  
+en ligne - ya lin  
 enclume - metalbede  
 encore - zoko  
 enfant - bace  
 ennemi - anamike  
 ennemi - dusjan  
 enseigner - xulana  
-ensuite (après, plus tard) - bado  
+ensuite (après, plus tard) - poso  
 enterrer - gabra  
-entonnoir - dartube  
+entonnoir - riutube  
+entrer - intru  
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
@@ -495,7 +522,16 @@ ethnique - zuki
 Europe - Europe  
 européen - europi  
 exact (précis) - justi  
+excaver - exkava  
+exclure - exklusa  
+exclusif - exklusivi  
+exoplanète - explanete  
+exploser (détoner) - explozu  
 explosion - bum  
+explosion - exploze  
+exposer - expoza  
+extraire - extrata  
+extérieur - ex  
 exécrer - anama  
 ####F - F  
 face (facette) - fas  
@@ -517,9 +553,11 @@ fermenter - biumutu
 feu - hoge  
 feu d’artifice - hogotehne  
 fiable (de confiance, fidèle, sûr, crédible) - ameni  
+fibre - linem  
 fier - yauxina  
-fil - korde  
-fils ou fille - pute  
+fil de fer - metallin  
+fil de trame - veilin  
+fils ou fille - ben  
 fini - fini  
 fiord - fiorde  
 fleur - ful  
@@ -530,6 +568,7 @@ fondu - yongosaha
 football - futobol  
 force navale (marine) - haigun  
 forer (percer) - fora  
+former - forma  
 forêt (jungle) - jangle  
 forêt de kelp - algojangle  
 fosse - kau  
@@ -542,11 +581,12 @@ francophonie - Fransofonia
 fromage - cize  
 fromage blanc - panir  
 frêne - yasen  
-fuera (exterior) - vai  
 Félicitations ! - barke!  
 féliciter - barka  
 ####G - G  
 galaxie - galaksia  
+galop - galope  
+garde-boue (aile) - fandefban  
 Gaule - Galia  
 gaz - gas  
 gaz lacrymogène - okosuigas  
@@ -562,9 +602,12 @@ glace - ais
 glacé (glacial, gelé) - aisi  
 gland - balutopal  
 glisser - glisu  
+gombo - bamye  
 gorille - goril  
 goule - gul  
-gouvernement - governe  
+gouvernement - polite  
+grand-mère - cinmai  
+grand-père - cinpai  
 granit - granite  
 gravire - grau  
 grenouille - krokroke  
@@ -578,6 +621,7 @@ guider - gida
 guitare - gitar  
 gâteau de lune - lunkeke  
 génotype - jentipe  
+généalogie - jenolojia  
 généralissime - gunrajer  
 généreux - donivi  
 généreux - karimi  
@@ -592,6 +636,7 @@ habiller (vêtir) - fuka
 haine - hen  
 hameçon - pexhuke  
 haut - gau  
+hautes technologies - gautehnia  
 Haïti - Aiti  
 Hesse - Hesia  
 heure - hor  
@@ -619,13 +664,19 @@ hétéroromantique (hétéromantique) - alromansi
 hétérosexuel - alseksi  
 hôtel - hotel  
 ####I - I  
+imitateur (mime) - mimer  
+imiter - mima  
 immigrant - inmigran  
 immigrer - inmigra  
 imperméable - barxokote  
+imploser - inplozu  
+implosion - inploze  
 important - hami  
+inclure - inklusa  
+inclusif - inklusivi  
 Inde - Bartia  
 indien - barti  
-Indus - Hindonade  
+Indus - Hinde riu  
 infecter - patomisa  
 infection (contagion) - patomis  
 infidèle (incroyant) - andiniste  
@@ -634,6 +685,7 @@ insecte - koncung
 insomnie - ansomia  
 international - nasmedi  
 interracial - rasmedi  
+introverti - introversi  
 inutile - anyavi  
 inverse (négatif, in-) - ani  
 Irland - Aire  
@@ -642,6 +694,7 @@ Islam - islamistia
 ####J - J  
 jade - giuke  
 Japon - Nipon  
+jarre (carafe, cruche) - jar  
 jaïnisme - jeinistia  
 je (me) - me  
 jeu de société - bangem  
@@ -665,24 +718,25 @@ Kinshasa - Kinxasa
 kiwi - kivi\*  
 kumquat - kankuate  
 ####L - L  
+l'un l'autre - ses  
 lac - lage  
 laid (vilain) - dusvidi  
 laine - mehi kex  
 laisser - laxa  
 lait - milke  
+lait de soja - soimilke  
 laitue - letis  
 lama (enseignant religieux du bouddhisme tibétain) - lama\*  
 lama - liama\*  
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langue - bax  
-langue - lin  
+langue - lisan  
 langue maternelle - jeni bax  
 lapin (lièvre) - tuze  
 lapis-lazuli - lazurpetre  
 lasagne - lazanye  
 lave - yongopetre  
-le - di  
 lent - lenti  
 lentille - lense  
 Lettonie - Latvia  
@@ -693,8 +747,10 @@ libre - huri
 lichen - algofung  
 lien - linke  
 lieu - loke  
-ligne - linye  
-ligne de commande (console, terminal, invite de commande) - amirlinye  
+lieu de naissance - jenistan  
+ligne (fil) - lin  
+ligne de commande (console, terminal, invite de commande) - amirlin  
+ligne téléphonique - telfonlin  
 lime (citron vert) - kagujolimon  
 lire - duga  
 liste - liste  
@@ -707,7 +763,7 @@ long - longi
 longtemps - longoduro  
 loquace - logivi  
 loup - volfe  
-lourd - bari  
+lourd - vezi  
 loutre - lontre  
 lumière - fote  
 lundi - unyom  
@@ -742,6 +798,7 @@ marguerite - bakomargarite
 mariage - gamia  
 Maroc - Magribia  
 Mars - Marse  
+marécage (marais) - fantopia  
 masque - maske  
 masse - mas  
 match - mece  
@@ -764,11 +821,15 @@ message - anjil
 messager - anjiler  
 mettre (placer) - loka  
 meule - molxeke  
+microbe - mikrobiu  
+microbiologie - mikrobiulojia  
+microscope - mikroskope  
 miel - mel  
 migration - migre  
 mine - kuangia  
 mode (façon, manière) - mode  
-mois - mes  
+modeler - plasta  
+mois - lun  
 mole (unité) - mol  
 monde - dunia  
 monnaie (pièce) - pesdiske  
@@ -778,7 +839,8 @@ mordre - danta
 morue - kade  
 morue de l'Atlantique - atlantokade  
 morue du Pacifique - pacokade  
-mot - loge  
+mot - logem  
+mot de passe - pasloge  
 moteur - moter  
 mouche - domzeze  
 moudre - mola  
@@ -794,7 +856,7 @@ mur - mur
 musique - muzike  
 mycélium - fungonete  
 mât - maste  
-mère (maman) - mam  
+mère (maman) - mai  
 mètre - mitre  
 méduse - haijel  
 méfait (péché) - duskar  
@@ -823,9 +885,10 @@ non (ne...pas) - no
 nord - norde  
 nostalgie - nostalgia  
 note - note  
-nous - mome  
+nous - mes  
 nouveau - novi  
 nuage - mege  
+nylon - nilon  
 nécessaire - yavan  
 nécessiteux (dans le besoin) - yavi  
 néophyte - novike  
@@ -849,7 +912,6 @@ oiseau - pakse
 ombrelle (parasol) - solcate  
 oncille - bagroselote  
 onde - onde  
-opposant (antagoniste) - faner  
 option - cuzable  
 or - aur  
 orange (couleur) - oranji  
@@ -863,7 +925,9 @@ ordinateur tablette - tablokomputer
 ordre - ratibe  
 ordures - laje  
 oreille - or  
+organiser - noma  
 organisme - biu  
+orge - jau  
 origine - asle  
 originel - asli  
 orphelinat - yatimdom  
@@ -872,10 +936,10 @@ otite - oritis
 ou - o  
 oublier - anmema  
 oubliette (cul de basse-fosse) - geunici prizon  
-oui - ye  
+oui - ha  
 ours - urse  
 oxyde - okside  
-où - va ke  
+où - ya ke  
 ####P - P  
 pacifiste - paciste  
 page - varkolate  
@@ -888,7 +952,9 @@ panda - pande
 pandémie - pandemi patia  
 panier (panier de basketball) - baske  
 panneau de signalisation - dauban  
+pansement (sparadrap) - glutobende  
 pantalon - pante  
+pantomime - panmim  
 pantoufle (babouche) - babuce  
 papaye - papai  
 papier - kaguje  
@@ -902,26 +968,30 @@ parc - parke
 pardonner - mafa  
 Paris - Paris  
 parler - loga  
+parole (mots) - loge  
 parti - kiti  
+passe (passage) - pasdau  
 passeport - pasporte  
 passer - dura  
+passer - pasa  
 pastèque - arbuze  
 pathologie - patolojia  
 patient - patike  
 pause - pauze  
 pavot d'Orient - guipapil  
 pavot somnifère - sompapil  
-pavé - cirkoxeke  
+pavé - sirkoxeke  
 peindre - penta  
 peinture - pente  
 pelle - bel  
 perdant - xibayer  
 perder - xibaya tena  
-pere (papa) - pape  
+pere (papa) - pai  
 perfectionner (parfaire) - purbona  
 perplexe (désorienté) - ruhmixi  
 perroquet - papagai  
 personne - jan  
+peser - vezu  
 pet (vesse) - pede  
 petit - lili  
 peu - xavi  
@@ -938,7 +1008,7 @@ pile (batterie) - batre
 piment - cili\*  
 pioche - pincope  
 piquant - pinani  
-piquenique - vaiyam  
+piquenique - exyam  
 piraterie - piratia  
 pistolet - pau  
 pizza - pize  
@@ -946,7 +1016,8 @@ pièce (chambre) - kamar
 piège - kapotruke  
 placard - almar  
 place - meden  
-plaine - platotopia  
+plaine - platistan  
+plaire - suka  
 plan - plan  
 planche - mokoban  
 plante (végétal) - fite  
@@ -960,8 +1031,7 @@ plus - max (maxo)
 pluvieux - barxi  
 pocion - medikosui  
 podzol - huidarte  
-poids (charge) - bar  
-poids (lourdeur, gravité) - baria  
+poids (lourdeur, gravité) - vezia  
 poireau - porei  
 poisson - pex  
 poisson-globe - balonpex  
@@ -980,6 +1050,11 @@ posidonie (herbiers marins) - haicau
 possible - abli  
 possédant (propriétaire) - malan  
 posture (position) - asan  
+postérieur - postri  
+pot (vase) - pote  
+pot de fleur - fulpote  
+poterie - poteria  
+potier - poter  
 poudre à canon - barude  
 Poulpe (pieuvre) - balsenter  
 pourri - pudi  
@@ -1001,6 +1076,7 @@ projet - projete
 projeter (donner) - lancografa  
 prolongé - longoduri  
 promettre - voda  
+propice - bonsinyi  
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
@@ -1010,7 +1086,10 @@ prêter (empruntre) - jeka
 prêter - jekodona  
 psychologie - ruhlojia  
 psyché - ruh  
+pyramide - piram  
 pâquerette - englomargarite  
+pâte - paste  
+pâte à modeler - plastopaste  
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - pexosaider  
@@ -1020,17 +1099,21 @@ quatre (4) - cari
 que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
-question - eske  
+question - sual  
 qui - ki jan  
 ####R - R  
 race - ras  
 racine - mul  
 rang - ode  
+rare - nadiri  
 rare - rari  
+rarement - nadiro  
 raton laveur - vaxurse  
 rayon de miel - melvesponide  
+recycler - reisikla  
 rein - nefre  
 religion - din  
+remettre - retra  
 remplir - pura  
 renard - hulei  
 repos - xante  
@@ -1043,11 +1126,12 @@ riche - rici
 rime - rim  
 ring (manège) - ringar  
 rire - haha  
-rivière (fleuve) - nade  
+rivière (fleuve) - riu  
 riz - ris  
 robot - robote  
 roche (pierre) - petre  
 rocher - daixeke  
+rock - rokomuzike  
 Rome - Roma  
 rose - roze  
 rosée - ros  
@@ -1070,7 +1154,7 @@ s'installer (déménager) - migru
 s'opposer à - xata  
 sac - sake  
 sagesse - sofia  
-sain - sihi  
+sain - sali  
 saison - mosim  
 salle de bains - banyokamar  
 salle de classe - xulkamar  
@@ -1079,18 +1163,19 @@ samedi - sisyom
 Samoa américaines - Ameriki Samoa  
 sandwich - sanduice  
 sang - sang  
-santé - sih  
+santé - salia  
 Sapin - abite  
-Satan - Xatan  
+Satan - Xatan (ruhxatan)  
 Saturne - Saturne  
 sauce - saus  
+sauce de soja - soisaus  
 saucisse - sosis  
 saumon altentique - atlantosalmon  
 saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
 sauvage - ekojeni  
-savane - garmozoni cautopia  
+savane - garmozoni cavistan  
 savoir (connaître) - sava  
 Scandinavie - Eskandia  
 scie - ser  
@@ -1099,9 +1184,12 @@ scutelle - ostoxalke
 se - se  
 se baigner - banyu  
 se mouvoir - kinu  
+se plaire - suku  
 se rappeler (se remémorer) - mema  
 seau - balde  
-sel - sal  
+secouer - roka  
+sein - mam  
+sel - salte  
 semence - sem  
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aromu  
@@ -1111,6 +1199,7 @@ serrure - sor
 serviette - gantex  
 seul (unique) - uniki  
 sexe - jinse  
+sexologie - seksolojia  
 shopping - xope  
 si - aga  
 signer - namkitaba  
@@ -1122,6 +1211,7 @@ société - sosia
 soie - silke  
 soif - suiyau  
 soir (soirée) - suar  
+soja - soi  
 soldat - gunjan  
 soleil - sol  
 sommeil - som  
@@ -1129,17 +1219,19 @@ son (sa) - si
 son - son  
 soumettre - karmisa  
 soumission - islam  
+spectateur - speter  
+sport - esporte  
 squelette - ostojamia  
 substance - kim  
 sucre - sukar  
 sueur - suede  
-suffixe - badofikse  
+suffixe - posfikse  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour l'adverbe - -o  
 suffixe pour les verbes avec ordre des mots OV####S - -u  
 suffixe pour les verbes avec ordre des mots SV####O - -a  
-suivre - bada  
+suivre - posa  
 sujet (thème) - tem  
 svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
@@ -1164,14 +1256,17 @@ temple - pujokan
 temps (durée) - dur  
 tendance - ivia  
 tender - tirlonga  
+tendu - tensi  
 tentacule - senter  
 tente - hemah  
 terrain - geuforme  
+terrain de camping - kampistan  
 Terre - Gevia  
-terre cuite - bekopote  
+terre cuite - bekofan  
 terreplatiste - platogeviste  
 terrorisme - teroristia  
 thé - cai  
+théière - caipote  
 théosophie - deusofia  
 tige - tan  
 tigre - bagre  
@@ -1190,11 +1285,13 @@ touriste - safariste
 Tournesol - solful  
 toxicologie - toksolojia  
 toxine - biutokse  
+trace - marke  
+tracteur - trater  
 traduction - tarje  
 travail - kar  
 travailler - kara  
 travailleur (ouvrier) - karer  
-traîner - tova  
+traîner - trata  
 tremper (faire mariner) - purxipa  
 tribord - nauraite  
 trois (3) - san  
@@ -1206,6 +1303,7 @@ tu - te
 tubercule - masmul  
 Tunisie - Tunisia  
 turban - pagre  
+télescope (lunette) - teloskope  
 télécharger - netogeta  
 téléphone - telfon  
 téléphoner - telfona  
@@ -1215,6 +1313,7 @@ tête - sar
 un (1) - un (uni)  
 une fois - unmaro  
 uniquement - uniko  
+universel - unversi  
 uranium - uranem  
 Uranus - Uran  
 vagine - vagin  
@@ -1226,7 +1325,6 @@ vampire - vampir
 vampire des abysses - vampirbalsenter  
 vapeur d’eau - suigas  
 varech - varkalge  
-vase - vaze  
 vendre - venda  
 vendredi - limyom  
 Venezuela - Venezuela  
@@ -1237,13 +1335,17 @@ vermouth - vermute
 verre - kance  
 verre coloré - rangi kance  
 verrue - zeyil  
+verse (face á) - versu  
+verser - versa  
 vert - lugi  
 veuve - vidou  
 viande - manse  
+vice-roi - visrajer  
 vie - jiu  
 vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
+village - cun  
 ville - site  
 vin de riz - risvin  
 violet (pourpre) - viyoleti  
@@ -1271,6 +1373,8 @@ vêtements - fuke
 vœu (promesse) - vode  
 wolof - Volof  
 ####X - X  
+y compris - inkluso  
+Yahweh (Jéhovah) - Yahve  
 ####Z - Z  
 zombi - zombe  
 zone - zon  
@@ -1291,6 +1395,7 @@ zèbre - zebre
 école (collège) - xulkan  
 école primaire - bazoxulkan  
 école secondaire - jungoxulkan  
+économie - malnomia  
 écorce - tira pil  
 écrire - kitaba  
 écriture - kitabe  
@@ -1298,7 +1403,7 @@ zèbre - zebre
 éducation - xulia  
 égal (même) - sami  
 électricité - eletre  
-élevage - zoujenitia  
+élevage - zovagria  
 élever - jenita  
 éloge - euloge  
 élément (unité fondamentale) - em  
@@ -1311,9 +1416,10 @@ zèbre - zebre
 épices - masal  
 épingle - pin  
 éponge - esponje  
-époux - gamike  
+époux - gam  
 épreuve (test) - teste  
 épée - katan  
+équilibre - parvezia  
 équipe - tim  
 étagère - liboban  
 étain - estan  
@@ -1321,12 +1427,17 @@ zèbre - zebre
 éternuer - acua  
 étinceler - xingofota  
 étoile - xing  
+étude - estude  
+études de genre - jinsolojia  
+étudiant - estuder  
 étudiant - xuler  
+étudier - estuda  
 étymologie - logaslia  
 été - garmomosim  
 évaluer - vala  
 évangile - evanjil  
 éveillé - jagi  
+évident - exvidi  
 être - sa  
 être couché - kuxu  
 être humain - insan  

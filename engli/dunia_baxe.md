@@ -11,23 +11,23 @@ Many people are used to seeing this kind of world map. It is the
 famous _Mercator projection_ map. Unfortunately it distorts the land
 area terribly.
 
-![](http://www.pandunia.info/grafe/karte_da_merkator.jpg "Mercator projection")
+![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
 
 Why is that? The world is a 3-dimensional globe and drawing it into a
 flat, 2-dimensional map is not easy. Equal-area projections, such as
-_Peter's projection_ below, show land areas correctly. Compare the
+the _Equal Earth projection_ below, show land areas correctly. Compare the
 sizes of Greenland and Africa in these two maps. In the Mercator
-projection Greenland appears bigger, but the Peters projection shows
+projection Greenland appears bigger, but the Equal Earth projection shows
 correctly that in reality Africa is 14 times bigger than Greenland.
 
-![](http://www.pandunia.info/grafe/karte_da_peters.jpg "Peters projection")
+![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
 
 That is the natural world. We live also in a human world, which is
 divided by borders between nations. In a normal map of world
 countries, sizes of the countries are defined by their geographic
 area.
 
-![](http://www.pandunia.info/grafe/karte_da_aria.png "Map by area")
+![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Map by area")
 
 However the map projection below is based on the population of
 countries, not their geographic area.
@@ -462,7 +462,7 @@ some uses of English "to be".
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me pliza le yama kafe.
+    Pandunia:  me cinga le yama kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending
@@ -475,6 +475,6 @@ _am, is, are, was, were..._
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  lole sa aple.
+    Pandunia:  les sa aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

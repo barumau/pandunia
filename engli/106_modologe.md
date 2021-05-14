@@ -11,7 +11,7 @@ or at the end of the sentence.
 – I well sleep.  
 **me sona _bono_.**
 – I sleep _well_.  
-**te basha pandunia _bono_.**
+**te baxa pandunia _bono_.**
 – You speak Pandunia _well_.
 
 ## Modifying another modifier
@@ -19,16 +19,16 @@ or at the end of the sentence.
 A modifier can modify also another modifier.
 For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
 
-**dayi ren**
+**dayi jan**
 – a big person  
-**lili ren**
+**lili jan**
 – a little person  
-**sundari ren**
+**sundari jan**
 – a beautiful person
 
-**dayo sundari ren**
+**dayo sundari jan**
 – very beautiful person  
-**lilo sundari ren**
+**lilo sundari jan**
 – somewhat beautiful person
 
 
@@ -44,17 +44,36 @@ Modifiers can be compared with the adverbs of comparison.
   (_less_) indicates comparison of inferiority
 - **minim**
   (_least_) indicates the superlative of inferiority
-- **samo**
+- **paro**
   (_as_ or _equally_) indicates the comparison of equality
 
-Particle
+The particle
 **ka**
-relates the adverbs of comparison to the point of comparison.
+relates the adverbs of comparison to the object of comparison.
 
-**me sa max boni ka te.**
-= I am better than you.  
-**te loga samo bono ka me.**
+**aple sa max boni ka oranje.**
+= Apples are better than oranges.  
+**oranje sa min boni ka aple.**
+= Oranges are less good than apples.  
+**te loga paro bono ka me.**
 = You speak as well as me.
+
+It is also possible to compare modifiers with the following verbs,
+which are directly attached to the object of comparison.
+
+- **maxu**
+  (_to exceed_)
+- **minu**
+  (_to subceed_)
+- **paru**
+  (_to equal_)
+
+**aple sa boni maxu oranje.**
+– Apples are good, exceed oranges. _meaning:_ Apples are better than oranges.  
+**oranje sa boni minu aple.**
+– Oranges are good, subceed apples. _meaning:_ Oranges are less good than apples.  
+**te loga bono para me.**
+– You speak well, equal me. _meaning:_ You speak as well as me.
 
 
 ## Adverbs of time and space
@@ -85,9 +104,9 @@ Here are some of the most frequently used adverbs:
 
 A complement can be added with the preposition **da**.
 
-**me vida lole paso.**
+**me vida les paso.**
 – I have seen them before.  
-**me vida lole paso da unyom.**
+**me vida les paso da unyom.**
 – I have seen them before Monday.
 
 **me vola xopa tougar maxo da motogar.**

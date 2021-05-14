@@ -16,11 +16,11 @@ Compound words are made of bare word stems and a vowel ending.
 For example, this is how the word **andewisti** (atheistic) is made:
 
            an       (negation)
-       +  dew       (god)
+       +  deu       (god)
        +  ist       (proponent, -ist)
        +    i       (adjective ending)
-   _____________
-   = andewisti      (atheistic)
+    _____________
+    = andevisti     (atheistic)
 
 If joining bare stems together would result into a difficult consonant sequence,
 a padding vowel **-o-** is inserted between them.
@@ -86,12 +86,12 @@ This ending is often found in place names, especially in country
 names. However this use is not systematic and it's not required. There
 are also a lot of country names that do not end in **-ia**.
 
-**arabi** Arab, Arabic; **arabia** Arabia  
-**rusi** Russian; **rusia** Russia  
-**turki** Turk, Turkish; **turkia** Turkey  
-**asia** Asia  
-**indonesia** Indonesia  
-**italia** Italy  
+**arabi** Arab, Arabic; **Arabia** Arabia  
+**rusi** Russian; **Rusia** Russia  
+**turki** Turk, Turkish; **Turkia** Turkey  
+**Asia** Asia  
+**Indonesia** Indonesia  
+**Italia** Italy
 
 Also abstract nouns often end in **-ia**.
 
@@ -100,7 +100,7 @@ Also abstract nouns often end in **-ia**.
 
 When it is added after -er, it means a field of expertise.
 
-**injener** engineering  
+**enjener** engineering  
 **sapateria** shoemaking  
 
 #### -ik-
@@ -148,39 +148,4 @@ Passive participle and causative suffix.
 **saviti** known  
 **savita** to make known  
 
-## Function Words
-
-_Function words_ are words that help to structure other words into more or less complex sentences.
-It is a _closed class_ of words, so new words can never be added to it.
-_Content words_, on the other hand, is an open, ever-growing class of words,
-and they refer to things in the world outside the structure of the language.
-Function words have only a structural role
-and therefore they behave differently than content words.
-
-In Pandunia, function words have the following characteristics:
-
-1. The word is made up of one consonant and one vowel.
-2. The consonant indicates the general idea of the word.
-   Sometimes the same consonant is used for expressing two different ideas.
-3. The vowel has a structural meaning, as follows:
-    - **-e** indicates a pronoun
-    - **-i** indicates a determiner,
-      which indicates definiteness, possession, etc.
-    - **-o** indicates an adverb of manner
-    - **-a** indicates a preposition
-    - **-u** indicates a postposition
-
-|  | Idea          | -e (pronoun)           | -i (determiner)        | -o (adverb)            | -a (prep.)             | -u (postp.)            |
-|--|:--------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| 1| 1st person    | **me**<br>I            | **mi**<br>my           |                        |                        |                        |
-| 2| 2nd person    | **te**<br>you          | **ti**<br>your         |                        |                        |                        |
-| 3| 3rd person    | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |                        |
-| 4| Reflexive     | **se**<br>~self        | **si**<br>one's own    |                        |**sa**<br>to be; as a   |                        |
-| 5| Interrogative | **ke**<br>what?        | **ki**<br>which?       | **ko**<br>how?         | **ka**<br>than, as     |                        |
-| 6| Demonstrative | **de**<br>this/that    | **di**<br>the/this/that|**do**<br>like this/that| **da**<br>of, like     | **du**<br>'s, -like    |
-| 7| Negation      |(**ne**<br>none)        | **ni**<br>no, not any  | **no**<br>not          | **na**<br>lack; without|                        |
-| 8| Affirmation   | **ye**<br>yes          |                        | **yo**<br>yes, indeed  | **ya**<br>have; with   |                        |
-| 9| Location      |                        |                        |                        | **va**<br>at, in, on   |                        |
-|10| Destination   |                        |                        |                        | **pa**<br>to, for      |                        |
-|11| Origin        |                        |                        |                        | **ja**<br>from, since  |                        |
 

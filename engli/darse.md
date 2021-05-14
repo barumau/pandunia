@@ -26,10 +26,10 @@
 **le sa mi doste.**
 = That is my friend.  
 <big>👩🏻</big>
-**li nam sa ke?**
+**le namu ke?**
 = What's her name?  
 <big>🧑🏾</big>
-**li nam sa Maria.**
+**le namu Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -105,6 +105,8 @@ good
 friend  
 **nam**
 name  
+**namu**
+be called  
 **fem**
 woman  
 **man**
@@ -246,20 +248,20 @@ chief, boss
 **halou!**
 = Hello!  
 <big>🧓</big>
-**halou! pliza sida.**
+**halou! cinga sida.**
 = Hello! Please sit!  
 <big>🧒</big>
 **danke.**
 = Thank you.  
 <big>🧓</big>
-**pliza yama kafe o cai.**
+**cinga yama kafe o cai.**
 = Please have some coffee or tea.  
 <big>🧒</big>
 **me vola cai. danke.**
 = I will have some tea, thank you.  
 ...  
 <big>🧓</big>
-**pliza salama ti mam!**
+**cinga salama ti mam!**
 = Please tell greetings to your mother.  
 <big>🧒</big>
 **me salama le. salam reste!**
@@ -277,10 +279,10 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**me pliza te salama le.**
+**me cinga te salama le.**
 = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **pliza** = to
+This sentence has a _pivot structure_. The first verb, **cinga** = to
 request, addresses **te** as its object. At the same time **te**
 serves also as the subject of the second verb, **salama** = to greet,
 whose object is **le**. So **te** has a double role: (1) object of
@@ -296,12 +298,12 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**me pliza te salama le.**
+**me cinga te salama le.**
 = I ask you to say hello to him/her.  
-**pliza salama le.**
+**cinga salama le.**
 = Please say hello to him/her.
 
-See how the translation of **pliza** changed between the two sentences?
+See how the translation of **cinga** changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
 Pandunia can cope with changes like this without resorting to different
@@ -309,22 +311,22 @@ words. It is a principle in Pandunia that there is always exactly one
 word for one concept. Different words are not created just because the
 grammatical role of a concept changes.
 
-The phrase **pliza salama le** has a useful pattern that can be used
+The phrase **cinga salama le** has a useful pattern that can be used
 for making polite requests.
 
-**pliza sida.**
+**cinga sida.**
 = Please be seated.  
-**pliza dona kafe.**
+**cinga dona kafe.**
 = Please give me some coffee.  
-**pliza dona cai.**
+**cinga dona cai.**
 = Please give me some tea.  
-**pliza yama cai.**
+**cinga yama cai.**
 = Please have some tea.  
-**pliza safa kamar.**
+**cinga safa kamar.**
 = Please clean the room.
 
 Commands are introduced with **amira** = to command. They employ the
-same pivot structure as requests with **pliza**.
+same pivot structure as requests with **cinga**.
 
 **amira dona cai.**
 = Give (me) some tea!  
@@ -353,7 +355,7 @@ Try translating these sentences from English to Pandunia.
 
 **cai**
 tea  
-**pliza**
+**cinga**
 to ask; please  
 **dona**
 to give  
@@ -380,22 +382,21 @@ to eat or drink
 ### Answers to the Exercises
 
 1. le yama cai.
-2. xef pliza le sida.
-3. pliza yama kafe o cai.
-4. mam pliza me safa kamar.
+2. xef cinga le sida.
+3. cinga yama kafe o cai.
+4. mam cinga me safa kamar.
 5. xef sida e yama kafe.
 
 
 --------------------------------------------------------------------------------
 
 
-Yes or no questions
--------------------
+## Yes or no questions
 
 ### Dialog
 
 <big>👩‍🍳</big>
-**salam! eska te yama kafe o cai?**
+**salam! suala te yama kafe o cai?**
 = Hello! Would you like to have coffee or tea?  
 <big>🧔</big>
 **cai.**
@@ -407,19 +408,19 @@ Yes or no questions
 **me no baxa pandunia...**
 = I don't speak Pandunia...  
 <big>👩‍🍳</big>
-**maf! eska le yama cai?**
+**maf! suala le yama cai?**
 = Pardon! Will he have tea?  
 <big>🧔</big>
 **no. le no yama cai. le yama kafe.**
 = No, he won't. He would like to have coffee.  
 <big>👩‍🍳</big>
-**eska te yama supe?**
+**suala te yama supe?**
 = Would you like to have soup?  
 <big>🧔</big>
-**ye.**
+**ha.**
 = Yes.  
 <big>👩‍🍳</big>
-**eska le yama supe?**
+**suala le yama supe?**
 = Would he like to have soup?  
 <big>🧔</big>
 **no yama.**
@@ -432,14 +433,14 @@ Yes or no questions
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
-pivot structure as requests with **pliza**, which you learned in the
-previous lesson. Question sentences are introduced with **eska** = to ask.
+pivot structure as requests with **cinga**, which you learned in the
+previous lesson. Question sentences are introduced with **suala** = to ask.
 
-**me eska te yama cai.**
+**me suala te yama cai.**
 = I ask (do) you drink tea.  
-**eska te yama cai?**
+**suala te yama cai?**
 = Do you drink tea?  
-**eska yama cai?**
+**suala yama cai?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -447,50 +448,50 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**eska le yama cai?**
+**suala le yama cai?**
 = Does he or she drink tea?  
-**eska te yama supe?**
+**suala te yama supe?**
 = Do you eat soup?  
-**eska mome yama sui?**
+**suala mes yama sui?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-**eska xef yama kafe?**
+**suala xef yama kafe?**
 = Does the chief drink coffee?  
-**eska pape safa kamar?**
+**suala pape safa kamar?**
 = Does the father clean the room?  
-**eska niki baxa pandunia?**
+**suala niki baxa pandunia?**
 = Does Nicky speak Pandunia?
 
 
 ### Giving answers
 
-Yes/no questions can be answered with **ye** = yes, and **no** = no.
+Yes/no questions can be answered with **ha** = yes, and **no** = no.
 
-– **eska te yama supe?**
+– **suala te yama supe?**
 = Do you eat soup?  
-– **ye.**
+– **ha.**
 = Yes.  
-– **eska le yama supe?**
+– **suala le yama supe?**
 = Does she eat soup?  
 – **no.**
 = No.
 
 Also more complete answers can be given.
 
-– **eska te yama kafe?**
+– **suala te yama kafe?**
 = Do you drink coffee?  
-– **ye. me yama kafe.**
+– **ha. me yama kafe.**
 = Yes, I drink coffee.  
-– **eska le yama kafe?**
+– **suala le yama kafe?**
 = Does he drink coffee?  
 – **no. le no yama kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-– **eska te yama sui?**
+– **suala te yama sui?**
 = Do you drink water?  
 – **yama.**
 = (Yes, I) drink.
@@ -527,19 +528,19 @@ soup
 one (1)  
 **desi**
 ten  
-**eska**
+**suala**
 to ask a question  
-**ye**
+**ha**
 yes
 
 
 ### Answers to the Exercises
 
-1. eska te baxa pandunia?
-2. ye. me baxa pandunia.
-3. eska mam yama kafe?
+1. suala te baxa pandunia?
+2. ha. me baxa pandunia.
+3. suala mam yama kafe?
 4. no. le no yama kafe.
-5. eska le yama supe?
+5. suala le yama supe?
 6. (le) no yama.
 
 
@@ -548,9 +549,9 @@ yes
 Saying no
 ---------
 
-In the previous lesson you learned to answer **ye** and **no** to
-questions. The word **no** is used for denying something. Adding
-**no** in front of the verb turns an affirmative sentence to negative.
+In the previous lesson you learned to answer **ha** and **no** to questions.
+The word **no** is used for denying something.
+Adding **no** in front of the verb turns an affirmative sentence to negative.
 
 **me salama te.**
 = I greet you.  
@@ -565,11 +566,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**me pliza te safa kamar.**
+**me cinga te safa kamar.**
 = I ask you to clean the room.  
-**me no pliza te safa kamar.**
+**me no cinga te safa kamar.**
 = I do NOT ask you to clean the room.  
-**me pliza te no safa kamar.**
+**me cinga te no safa kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -658,13 +659,13 @@ passive verb meaning _to be caused by_.
 
 **ke saba te suku mau?**
 = Why do you like cats?  
-**sabu lole kavayi.**
+**sabu les kavayi.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**me suku mau sabu lole kavayi**
+**me suku mau sabu les kavayi**
 = I like cats because they are cute.
 
 ### Exercises

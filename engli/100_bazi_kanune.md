@@ -29,11 +29,11 @@ They are described in more detail later in this document.
     - ex. **aple yamu.** = Apples are eaten.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
-    - ex. **me pliza te dona pes.** = I ask you to give money.
+    - ex. **me cinga te dona pes.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
-    - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
+    - **me suala te baxa pandunia?** → **suala te baxa pandunia?** = Do
       you speak Pandunia?
-    - **me pliza te loga klaro.** →  **pliza loga klaro.**
+    - **me cinga te loga klaro.** →  **cinga loga klaro.**
       = Please speak clearly.
 11. Compound words are created by putting the word stems side by side.
     The linking vowel **-o-** is inserted between the stems.

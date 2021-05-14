@@ -8,9 +8,9 @@ for example good, bad, big, and fast.
 An adjective is a word that adds a particular quality for a noun.
 In Pandunia, adjectives typically end in **-i** and their place is before a noun.
 
-**novi gare**
+**novi gar**
 – new car(s)  
-**rapidi gare**
+**rapidi gar**
 – fast car(s)  
 **dayi meze**
 – big table(s)  
@@ -21,19 +21,19 @@ In Pandunia, adjectives typically end in **-i** and their place is before a noun
 
 Two or more adjectives can modify the same word.
 
-**lili novi gare**
+**lili novi gar**
 – a little, new car
 
 Adjective can be also after the noun.
 Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-**gare novi.**
+**gar novi.**
 – The car is new.  
 **bagre rapidi.**
 – The tiger is fast.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-**novi gare rapidi.**
+**novi gar rapidi.**
 – The new car is fast.
 

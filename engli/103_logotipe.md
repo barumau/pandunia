@@ -173,7 +173,7 @@ Otherwise nouns don't have a vowel ending.
 In addition, a handful of adjectives and adverbs don't have a vowel ending.
 The adjectives without the ending are **bon** (good), **mal** (bad), **lil** (small), **dai** (big),
 **nol** (none), **un** (one), **koi** (some), **mei** (every), and **pan** (all).
-The advebs withouth the ending are **max** (more), **maxim** (most), **min** (less), and **minim** (least).
+The adverbs withouth the ending are **max** (more), **maxim** (most), **min** (less), and **minim** (least).
 
 Note that it is always acceptable to use the vowel endings on every word.
 So it is acceptable to say **boni hotele** instead of **bon hotel** (a good hotel).
