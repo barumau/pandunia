@@ -113,7 +113,8 @@ bande - bando
 banke - banco  
 banker - banqueiro  
 banse - bambu  
-bari - pesado  
+bara - carregar  
+bare - carga (peso)  
 barde - barba  
 barya - barrar  
 baryer - barreira  
@@ -268,6 +269,13 @@ emoje - emoticon (emoji)
 emos - emoçao  
 emoshal - humor  
 englomargarite - margarida-comum  
+eskulter - escultor  
+esponje - esponja  
+esporte - esporte  
+estan - estanho  
+estibem - antimônio  
+estuda - estudar (examinar)  
+estuder - estudante  
 evanjil - evangelho  
 euloge - elogio  
 europobalute - carvalho-roble  
@@ -328,7 +336,7 @@ futomarke - pegada
 ####G - G  
 gabra - enterrar  
 gabre - sepultura (túmulo)  
-gabrostan - cemitério  
+gabristan - cemitério  
 gabroxeke - lápide  
 Galia - Gália  
 galaksia - galáxia  
@@ -474,7 +482,8 @@ jeka - emprestar (pedir emprestado)
 jekodona - emprestar  
 jekogeta - pedir emprestado  
 jeni bax - língua materna  
-jenostan - terra natal  
+jenistan - terra natal  
+jenolojia - genealogia  
 jentipe - genótipo  
 jihade - luta  
 jinse - sexo  
@@ -515,7 +524,7 @@ kamar - sala (câmara)
 kamil - camomila-vulgar  
 kamis - camisa  
 kamisi xake - manga  
-kampostan - área de acampamento  
+kampistan - área de acampamento  
 kance - vidro  
 kangaru\* - canguru  
 kanyon - canhão (ravina, barranco)  
@@ -757,6 +766,8 @@ muzike - música
 ####N - N  
 na - sem  
 no - não  
+nadiri - raro  
+nadiro - raramente  
 najis - poluição  
 namkitaba - assinar  
 narde - gamão  
@@ -787,6 +798,7 @@ numbe - número
 o - ou  
 oke - olho  
 oki - ocular  
+speter - espetador  
 okosuigas - gás lacrimogéneo  
 okside - óxide  
 onde - onda  
@@ -820,10 +832,14 @@ pante - calças
 papai - mamão (papaia)  
 par - nivel  
 pari - igual (par)  
+parike - par  
+parvezia - equilíbrio  
 param - parâmetro  
 parce - fragmento  
 parke - parque  
 parne - samambaia  
+pasdau - passagem  
+pasloge - palavra-passe (senha)  
 pasporte - passaporte  
 paste - pasta  
 patike - paciente  
@@ -918,6 +934,7 @@ ritim - ritmo
 riu - rio  
 riutube - funil  
 robote - robô  
+rokomuzike - rock  
 roketolancer - lançador de foguetes  
 Roma - Roma  
 romakamil - camomila-romana  
@@ -931,9 +948,12 @@ ses - um ao outro
 sahi - correto (justo)  
 saida - caçar  
 sake - saco  
-sal - sal  
-sali - salino  
+sali - saudável (saudio)  
+salia - saúde  
 salame - saudação  
+salamia - bem-estar  
+salte - sal  
+salti - salino  
 sami - igual  
 samemos - compaixão  
 sammetri - simétrico  
@@ -962,8 +982,6 @@ seti - sete (7)
 setyom - domingo  
 siborgem - seabórgio  
 sifloge - adjetivo  
-sih - saúde  
-sihi - saudável (saudio)  
 siyahi - preto  
 sikliste - ciclista  
 sil - elo  
@@ -974,7 +992,6 @@ sirplan - complô (conspiração)
 sisi - seis (6)  
 sisyom - sábado  
 site - cidade  
-skulter - escultor  
 slavi - eslavo  
 sofia - sabedoria (sagacidade, sapiência)  
 soi - soja  
@@ -993,13 +1010,6 @@ song - pinheiro
 sor - fechadura  
 sosia - sociedade  
 sosis - salsicha  
-speter - espetador  
-sponje - esponja  
-sporte - esporte  
-stan - estanho  
-stibem - antimônio  
-studa - estudar (examinar)  
-studer - estudante  
 sual - questão (pergunta)  
 suala - perguntar  
 suar - noitinha  
@@ -1071,6 +1081,8 @@ verme - verme
 vermute - vermute  
 versu - encarar (afrontar; vérsus)  
 vespe - abelha ou vespa  
+vezi - pesado  
+vezu - pesar  
 vida - ver  
 vidou - viúvo  
 viyoleti - purpúreo (roxo)  

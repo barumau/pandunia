@@ -31,11 +31,11 @@ aga - jos (olettaa)
 agra - viljellä  
 agre - viljely  
 agrer - maanviljelijä  
+agristan - maaseutu  
+agristani - maalais-  
 agrobiulojia - maatalousbiologia  
 agrocun - maalaiskylä  
 agronomia - agronomia (maatalous)  
-agrostan - maaseutu  
-agrostani - maalais-  
 agres - hyökkäys (päällekarkaus, aggressio)  
 agresa - hyökätä (käydä päälle)  
 agreser - hyökkääjä  
@@ -278,12 +278,10 @@ banke - pankki
 banker - pankkiiri  
 banse - bambu  
 bar - baari (kapakka)  
-bar - paino  
-bari - painava  
-baria - paino  
+bara - kuormata (lastata, ladata)  
+bare - kuorma (lasti, taakka, paino)  
 barem - barium  
 barmetal - raskasmetalli  
-barmetrer - vaaka (puntari)  
 Barbados - Barbados  
 barbar - barbaari (raakalainen)  
 Barbuda - Barbuda  
@@ -408,7 +406,7 @@ bondeke - hyve
 bondeki - hyveellinen (hyvä)  
 bonsifi - laadukas (hyvä)  
 bonsifia - laatu (laadukkuus, erinomaisuus, hyvyys)  
-bonsinyi - hyvää lupaava  
+bonsinyi - lupaava (hyvältä vaikuttava)  
 bonvidi - hyvännäköinen (kaunis, komea)  
 bori - pitkästynyt  
 boria - tylsyys (pitkästys)  
@@ -490,7 +488,7 @@ carlun - huhtikuu
 carme - vetovoima (šarmi)  
 cate - katto (katos)  
 cau - ruoho  
-caustan - ruohotasanko  
+cavistan - ruohotasanko  
 Cehia - Tšekki  
 ceka - tarkistaa (tsekata)  
 cel - solu  
@@ -798,10 +796,30 @@ eskala - kiivetä
 eskaltan - köynnös  
 Eskandia - Skandinavia  
 eskandem - skandium  
+Eskotia - Skotlanti  
+eskulta - veistää kuvaa  
+eskulte - veistos (patsas)  
+eskultia - kuvanveisto  
+eskulter - kuvanveistäjä  
 Espania - Espanja  
 espanfoni - espanjaa puhuva  
 esperanti - esperanto  
+esponje - sienieläin  
+esporte - urheilu  
+esporter - urheilija  
 Estia - Viro (Eesti)  
+estadia - stadioni (areena)  
+estan - tina  
+estasa - seisottaa  
+estasi - seisova (staattinen)  
+estasia - asema  
+estasu - seisoa (seisahtaa)  
+estibem - antimoni  
+estrontem - strontium  
+estuda - opiskella (tutkia)  
+estude - tutkielma  
+estudia - ateljee (studio)  
+estuder - opiskelija  
 Etiopia - Etiopia  
 evi - hyvä (eettisesti hyvä)  
 evanjil - evankeliumi(hyvä sana)  
@@ -809,7 +827,6 @@ eudevistia - euteismi (usko jumalan hyvyyteen)
 eujenistia - eugeniikka  
 euloga - ylistää (puhua hyvää, kehua)  
 euloge - ylistys  
-euspeti - lupaava (hyvältä vaikuttava)  
 eutopia - utopia  
 eurasia - Euraasia  
 eureka - löytää (keksiä)  
@@ -1009,7 +1026,7 @@ futau - kirves
 Gabon - Gabon  
 gabra - haudata  
 gabre - hauta  
-gabrostan - hautausmaa  
+gabristan - hautausmaa  
 gabroxeke - hautakivi  
 gade - aasi  
 gadogude - muuli  
@@ -1056,7 +1073,7 @@ garmomosim - kesä (suvi)
 garmomosimmedi den - juhannus (keskikesä, mittumaari)  
 garmozon - tropiikki  
 garmozoni - trooppinen  
-garmozoni caustan - savanni  
+garmozoni cavistan - savanni  
 gas - kaasu  
 gasa - kaasuttaa  
 gasi - kaasumainen  
@@ -1080,7 +1097,7 @@ geyi - homo (homoseksuaali)
 gem - peli  
 gema - pelata  
 gemer - pelaaja  
-genca - tutkia  
+genca - tutkia (tarkastaa)  
 Germania - Germania  
 germanem - germanium  
 Gernezi - Guernsey  
@@ -1254,7 +1271,7 @@ Hindia - Hindustan
 hindem - indium  
 hindiste - hindu  
 hindistia - hindulaisuus (hinduismi)  
-hindostani - hindustanin kieli  
+hindistani - hindustanin kieli  
 hisaba - laskea (tehdä laskutoimitus)  
 hisabe - lasku (laskelma)  
 hisabia - laskuoppi (aritmetiikka)  
@@ -1362,7 +1379,6 @@ inmigran - maahanmuuttaja
 innam - endonyymi (omakielinen nimi)  
 inploze - luhistuminen  
 inplozu - luhistua (sortua sisään)  
-inspeta - tarkastaa (katsoa sisään)  
 intra - panna sisään  
 intre - sisäpuoli  
 intri - sisäinen  
@@ -1404,6 +1420,7 @@ Islandia - Islanti
 Israel - Israel  
 iste - aatteen kannattaja  
 istia - aate (ismi, ideologia, uskonto, jne)  
+istan - alue (seutu)  
 Italia - Italia  
 itis - tulehdus  
 iva - olla taipuvainen  
@@ -1448,8 +1465,9 @@ jena - synnyttää
 jeni bax - äidinkieli  
 jenu - syntyä  
 jenden - syntymäpäivä  
+jenistan - syntymäpaikka  
 jenklas - sääty (kasti)  
-jenostan - syntymäpaikka  
+jenolojia - sukututkimus  
 jentipe - perimä (genotyyppi)  
 jeng - taistelu (sota)  
 jengi - sotilaallinen  
@@ -1551,7 +1569,7 @@ kamis - paita
 kamote - bataatti  
 kampe - leiri  
 kamper - retkeilijä  
-kampostan - leirintäalue  
+kampistan - leirintäalue  
 kamri - walesilainen  
 Kamria - Wales  
 kan - paja (tekimö)  
@@ -1808,7 +1826,6 @@ la - luota (lähtien, -sta, -lta)
 le - hän (se)  
 les - he  
 labe - huuli  
-lada - ladata  
 Lagos - Lagos  
 laya - tulla (saapua)  
 layana - tuoda  
@@ -2095,8 +2112,8 @@ mikri - pikkuruinen (mikroskooppinen)
 mikro\* - mikro-  
 mikrobiu - mikrobi  
 mikrobiulojia - mikrobiologia  
-mikroskope - mikroskooppi  
 Mikronesia - Mikronesia  
+mikroskope - mikroskooppi  
 mili\* - milli-  
 miligram - milligramma  
 milimitre - millimetri  
@@ -2207,6 +2224,8 @@ ne - ei mitään
 no - ei  
 nabe - profetia  
 naber - profeetta  
+nadiri - harvinainen  
+nadiro - harvoin  
 nafas - hengitys (henkäys)  
 nagre - kaupunki  
 nahun - kynsi  
@@ -2335,9 +2354,10 @@ ofisi - virallinen
 ofisia - virasto (toimisto, konttori)  
 ofiser - virkailija (virkamies)  
 oganeson - oganesson  
-oka - silmäillä (katsoa)  
+oka - silmäillä (katsoa, tarkkailla)  
 oke - silmä  
 oki - silmä-  
+speter - katsoja (tarkkailija)  
 okokex - silmäripsi  
 okosui - kyynel  
 okei - hyväksyntä  
@@ -2364,6 +2384,7 @@ orta - suoristaa (ojentaa)
 orti - suora  
 ortogon - suorakulma (oikokulma)  
 ortogoni - suorakulmainen  
+oskope - katselulaite (skooppi)  
 oskuri - pimeä (hämärä)  
 osmem - osmium  
 osman - osmani (ottomaani)  
@@ -2428,6 +2449,7 @@ pari - tasainen (tasavertainen)
 pari numbe - parillinen luku  
 paru - olla yhtä kuin  
 parike - vertainen  
+parvezia - tasapaino  
 Paraguai - Paraguai  
 parai - hylkiö (paaria)  
 paraya - halveksia (hyljeksiä)  
@@ -2439,12 +2461,14 @@ parde - verhot
 Paris - Pariisi  
 parke - tarha (puisto)  
 parta - osallistua  
-partia - osapuoli  
+partia - osapuoli (puolue)  
 parter - osallistuja  
 pas - menneisyys  
-pasi - mennyt  
+pasa - mennä ohi tai läpi  
+pasi - ohitettu (mennyt)  
 paso - ennen (aikaisemmin, aiemmin)  
-pasu - kuluttaa aikaa  
+pasdau - sola (läpikulku)  
+pasloge - tunnussana  
 pasporte - passi  
 paske - pääsiäinen  
 paskal - pascal (Pa)  
@@ -2674,7 +2698,7 @@ rebel - kapina
 reda - tehdä valmiiksi  
 redi - valmis  
 rege - hiekka  
-regostan - aavikko (hiekkaerämaa)  
+registan - aavikko (hiekkaerämaa)  
 rei - toisto  
 reya - toistaa  
 reyo - taas (uudestaan)  
@@ -2717,6 +2741,8 @@ rivunia - fuusio (yhteensulautuminen)
 rivunu - sulaa yhteen (fuusioitua)  
 robote - robotti  
 rodem - rhodium  
+roka - keinuttaa (keikuttaa)  
+rokomuzike - rokki (rock)  
 rokete - raketti  
 roketolancer - sinko (raketinheitin)  
 rol - rooli (osa)  
@@ -2787,8 +2813,8 @@ saida - pyytää (metsästää, kalastaa)
 saide - pyynti (metsästys, kalastus)  
 saider - pyytäjä (metsästäjä, kalastaja)  
 sake - pussi (säkki, kassi, laukku)  
-sal - suola  
-sali - suolainen  
+sali - terve  
+salia - terveys  
 salade - salaatti  
 salam (salami) - hyvä (tervehdyksissä)  
 salam cute - hyvää matkaa  
@@ -2799,7 +2825,10 @@ salam suar - Hyvää iltaa
 salam sube - Huomenta!  
 salama - tervehtiä  
 salame - tervehdys (terve!)  
+salamia - hyvinvointi  
 Salon - Sierra Leone  
+salte - suola  
+salti - suolainen  
 Salvador - El Salvador  
 sami - sama (yhtäläinen)  
 samdexi - samanmaalainen (maanmies)  
@@ -2884,8 +2913,6 @@ sifa - määritellä (luonnehtia)
 sifi - kuvaileva (määrittelevä)  
 sifloge - adjektiivi (laatusana)  
 sigar - savuke tai sikari  
-sih - terveys  
-sihi - terve  
 siyahi - musta  
 sikiste - sikhi  
 sikistia - sikhiläisyys  
@@ -2919,12 +2946,6 @@ sistem - järjestelmä (systeemi)
 site - kaupunki  
 sivili - sivistynyt  
 sivilia - sivilisaatio  
-skope - katselulaite (skooppi)  
-Skotia - Skotlanti  
-skulta - veistää kuvaa  
-skulte - veistos (patsas)  
-skultia - kuvanveisto  
-skulter - kuvanveistäjä  
 slavi - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -2955,24 +2976,6 @@ sosiste - sosialisti
 sosistia - sosialismi  
 sosis - makkara  
 Soto - Lesoto  
-speta - katsoa (tarkkailla)  
-speter - katsoja (tarkkailija)  
-sponje - sienieläin  
-sporte - urheilu  
-sporter - urheilija  
-stadia - stadioni (areena)  
-stan - tina  
-stan - alue (seutu)  
-stasa - seisottaa  
-stasi - seisova (staattinen)  
-stasia - asema  
-stasu - seisoa (seisahtaa)  
-stibem - antimoni  
-strontem - strontium  
-studa - opiskella (tutkia)  
-stude - tutkielma  
-studia - ateljee (studio)  
-studer - opiskelija  
 suahili - suahili  
 sual - kysymys  
 suala - kysyä  
@@ -3221,6 +3224,10 @@ version - versio
 vespe - mehiläinen tai ampiainen  
 veste - länsi  
 vesti - läntinen  
+vezi - painava  
+vezia - paino  
+vezu - painaa (olla jkn painoinen)  
+vezometrer - vaaka (puntari)  
 vida - nähdä  
 vide - näkymä  
 vidu - näkyä  

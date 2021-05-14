@@ -157,8 +157,6 @@ banyokamar - banĉambro
 banke - banko  
 banker - bankisto  
 banse - bambuo  
-bari - peza  
-baria - pezo  
 barem - bario  
 barmetal - pezmetalo  
 barbar - barbaro  
@@ -468,9 +466,17 @@ Eris - Eris (planedeto)
 Eritria - Eritreo  
 eskal - ŝtuparo  
 eskandem - skandio  
+eskulta - skulti  
+eskulte - statuo (skultaĵo)  
+eskulter - skultisto  
 Espania - Hispanio  
 esperanti - Esperanto  
+esporte - sporto  
 Estia - Estonio  
+estadia - stadiono (areno)  
+estasia - stacio  
+estrontem - stroncio  
+estuder - studento  
 Etiopia - Etiopio  
 evanjil - evangelio  
 eurasia - Eŭrazio  
@@ -597,7 +603,7 @@ futobol - piedpilko
 ####G - G  
 gabra - enterigi  
 gabre - tombo  
-gabrostan - tombejo  
+gabristan - tombejo  
 gabroxeke - tomboŝtono  
 gade - azeno  
 gadolinem - gadolinio  
@@ -842,7 +848,8 @@ jena - naskigi
 jeni bax - hejmlingvo  
 jenu - naski  
 jenden - naskiĝtago  
-jenostan - naskiĝejo  
+jenistan - naskiĝejo  
+jenolojia - genealogio  
 jeng - milito (batalo)  
 jengi - milita  
 jinse - sekso  
@@ -1237,6 +1244,8 @@ muziker - muzikisto
 na - sen  
 no - ne  
 nabe - profetaĵo  
+nadiri - malofta  
+nadiro - malofte  
 nafas - spiro  
 nagre - urbo  
 nagri - urba  
@@ -1296,6 +1305,7 @@ oganeson - oganesono
 oka - okulumi  
 oke - okulo  
 oki - okula  
+speter - spektanto  
 okeyi - akceptebla (okej)  
 okse - oksigeno  
 okside - oksido  
@@ -1338,12 +1348,14 @@ papagai - papago
 papai - papajo  
 par - nivelo  
 pari numbe - para nombro  
+parvezia - ekvilibro  
 parce - ero  
 parde - kurteno  
 parke - parko (ĝardeno)  
 parta - partopreni  
 partia - partio  
 pas - pasinteco  
+pasa - pasi  
 pasi - pasinta  
 paso - antaŭe (pasinte)  
 pasporte - pasporto  
@@ -1448,7 +1460,7 @@ retre - reiro
 retru - reiri  
 redi - preta  
 rege - sablo  
-regostan - dezerto  
+registan - dezerto  
 rei - ripetado  
 reya - ripeti (refari)  
 reyo - denove (ripete)  
@@ -1506,8 +1518,7 @@ sai - ombro
 saida - ĉasi  
 saide - ĉasado  
 saider - ĉasisto  
-sal - salo  
-sali - sala  
+sali - sana  
 salam (salami) - bona (en salutoj)  
 salam cute - bonan vojaĝon  
 salam den - Bonan tagon  
@@ -1517,6 +1528,8 @@ salam suar - Bonan vesperon
 salam sube - Bonan matenon!  
 salama - saluti  
 salame - saluto  
+salte - salo  
+salti - sala  
 sami - sama  
 samdexi - samlandano  
 samemos - kompato  
@@ -1556,7 +1569,6 @@ setyom - dimanĉosunnuntai
 siborgem - seborgio  
 sida - sidi  
 sifloge - adjektivo  
-sihi - sana  
 siyahi - nigra  
 sikliste - biciklisto  
 sil - ĉenero  
@@ -1573,9 +1585,6 @@ sisyom - sabato
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
-skulta - skulti  
-skulte - statuo (skultaĵo)  
-skulter - skultisto  
 sofi - saĝa  
 sofia - saĝeco  
 sofa\* - sofo  
@@ -1592,13 +1601,6 @@ son - sono
 song - pino  
 sosia - socio  
 sosis - kolbaso  
-speta - spekti  
-speter - spektanto  
-sporte - sporto  
-stadia - stadiono (areno)  
-stasia - stacio  
-strontem - stroncio  
-studer - studento  
 suahili - sŭahili  
 sual - demando  
 suala - demandi  
@@ -1730,6 +1732,8 @@ veri - vera
 vermute - vermuto  
 version - versio (toisinto)  
 vespe - abelo aŭ vespo  
+vezi - peza  
+vezia - pezo  
 vida - vidi (rigardi)  
 vidou - vidvo  
 vike - vikia artikulo  

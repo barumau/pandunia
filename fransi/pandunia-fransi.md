@@ -239,12 +239,9 @@ banyokamar - salle de bains
 banke - banque  
 banker - banquier  
 banse - bambou  
-bar - poids (charge)  
-bari - lourd  
-baria - poids (lourdeur, gravité)  
+bare - charge (fardeau, poids)  
 barem - baryum  
 barmetal - métaux lourds  
-barmetrer - balance (poids)  
 Barbados - Barbade  
 barbar - barbare  
 Barbuda - Barbuda  
@@ -307,6 +304,7 @@ bokserpante - caleçon
 bol - balle (boule)  
 bombe - bombe  
 boni - bon  
+bonsinyi - propice  
 botel - bouteille  
 bravi - brave  
 bravo - bravo!  
@@ -426,9 +424,16 @@ englofoni - anglophone
 englomargarite - pâquerette  
 eskaltan - vigne  
 Eskandia - Scandinavie  
+eskulter - sculpteur  
+esponje - éponge  
+esporte - sport  
+estan - étain  
+estibem - antimoine  
+estuda - étudier  
+estude - étude  
+estuder - étudiant  
 evanjil - évangile  
 euloge - éloge  
-euspeti - propice  
 Europe - Europe  
 europi - européen  
 europobalute - chêne pédonculé  
@@ -493,7 +498,7 @@ futomarke - empreinte de pied
 ####G - G  
 gabra - enterrer  
 gabre - tombe  
-gabrostan - cimetière  
+gabristan - cimetière  
 gabroxeke - pierre tombale  
 gadogude - mule  
 Galia - Gaule  
@@ -510,7 +515,7 @@ gantex - serviette
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
-garmozoni caustan - savane  
+garmozoni cavistan - savane  
 gas - gaz  
 gati - dur  
 gau - haut  
@@ -663,8 +668,9 @@ jekodona - prêter
 jekogeta - empruntre  
 jena - donner naissance (procréer, engendrer, accoucher)  
 jeni bax - langue maternelle  
+jenistan - lieu de naissance  
 jenita - élever  
-jenostan - lieu de naissance  
+jenolojia - généalogie  
 jentipe - génotype  
 jihade - lutte  
 jino - en avant  
@@ -709,7 +715,7 @@ kamar - pièce (chambre)
 kamil - Camomille sauvage  
 kamis - chemise  
 kamisi xake - manche  
-kampostan - terrain de camping  
+kampistan - terrain de camping  
 kanape - canapé (sofa)  
 kance - verre  
 kangaru\* - kangourou  
@@ -961,6 +967,8 @@ muskulbin - culturisme (musculation)
 muzike - musique  
 ####N - N  
 no - non (ne...pas)  
+nadiri - rare  
+nadiro - rarement  
 najis - pollution  
 namkitaba - signer  
 narde - backgammon  
@@ -996,6 +1004,7 @@ o - ou
 ode - rang  
 oke - œil  
 oki - oculaire  
+speter - spectateur  
 okosuigas - gaz lacrymogène  
 okside - oxyde  
 onde - onde  
@@ -1035,11 +1044,15 @@ papai - papaye
 par - niveau  
 pari - pair (pareil, egal)  
 pari numbe - nombre pair  
+parvezia - équilibre  
 param - paramètre  
 parce - fragment  
 Paris - Paris  
 parke - parc  
 parne - fougères  
+pasa - passer  
+pasdau - passe (passage)  
+pasloge - mot de passe  
 pasporte - passeport  
 paste - pâte  
 pastopetre - magma  
@@ -1083,8 +1096,8 @@ plan - plan
 plasta - modeler  
 plastopaste - pâte à modeler  
 plati geukaskia - tectonique des plaques  
+platistan - plaine  
 platogeviste - terreplatiste  
-platostan - plaine  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 polite - gouvernement  
@@ -1154,6 +1167,8 @@ ritim - rhythme
 riu - rivière (fleuve)  
 riutube - entonnoir  
 robote - robot  
+roka - secouer  
+rokomuzike - rock  
 roketolancer - Lance-roquettes  
 Roma - Rome  
 romakamil - Camomille Romaine  
@@ -1175,9 +1190,12 @@ safariste - touriste
 sahi - correct (juste)  
 saida - chasser  
 sake - sac  
-sal - sel  
+sali - sain  
+salia - santé  
 salame - salut (salam)  
+salamia - bien-être  
 salmon - truite  
+salte - sel  
 sami - égal (même)  
 samemos - compassion  
 sammetri - symétrique  
@@ -1205,8 +1223,6 @@ ser - scie
 seti - sept (7)  
 setyom - dimanche  
 sifloge - adjectif  
-sih - santé  
-sihi - sain  
 siyahi - noir  
 sikle - bicyclette  
 sikliste - cycliste  
@@ -1220,7 +1236,6 @@ sirkoxeke - pavé
 sisi - six (6)  
 sisyom - samedi  
 site - ville  
-skulter - sculpteur  
 sofia - sagesse  
 sofa\* - canapé (sofa)  
 soi - soja  
@@ -1239,14 +1254,6 @@ son - son
 sor - serrure  
 sosia - société  
 sosis - saucisse  
-speter - spectateur  
-sponje - éponge  
-sporte - sport  
-stan - étain  
-stibem - antimoine  
-studa - étudier  
-stude - étude  
-studer - étudiant  
 sual - question  
 suala - demander (poser un question; est-ce que)  
 suanpurxipi - décapé (mariné)  
@@ -1343,6 +1350,10 @@ versa - verser
 versu - verse (face á)  
 vespe - abeille ou guêpe  
 vesponide - ruche (nid d'abeille)  
+vezi - lourd  
+vezia - poids (lourdeur, gravité)  
+vezu - peser  
+vezometrer - balance (poids)  
 vida - voir  
 vidou - veuve  
 viyoleti - violet (pourpre)  

@@ -30,9 +30,9 @@ afrikofiler - afrofil
 aga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 agra - uprawić, uprawiać  
 agrer - rolnik, farmer  
+agristan - wieś, tereny wiejskie  
+agristani - wiejski, rustykalny  
 agronomia - agronomia  
-agrostan - wieś, tereny wiejskie  
-agrostani - wiejski, rustykalny  
 agres - atak (agresja, napaść)  
 agresivi - agresywny  
 aha - rozumieć, pojmować  
@@ -259,12 +259,10 @@ banke - bank
 banker - bankier  
 banse - bambus  
 bar - bar  
-bar - ciężar (brzemię)  
-bari - ciężki (masywny)  
-baria - waga (ciężkość)  
+bara - naładować, załadować, obładować, ładować  
+bare - ciężar (brzemię)  
 barem - bar  
 barmetal - metal ciężki  
-barmetrer - waga (urządzenie ważące)  
 Barbados - Barbados  
 barbar - barbarzyńca  
 Barbuda - Barbuda  
@@ -469,7 +467,7 @@ carlun - lipiec
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
-caustan - łąka  
+cavistan - łąka  
 Cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 cel - komórka (biologia)  
@@ -771,9 +769,27 @@ eskala - wspinać się (wspiąć się)
 eskaltan - pnącz  
 Eskandia - Skandynawia  
 eskandem - skand  
+Eskotia - Szkocja  
+eskulta - rzeźbić  
+eskulte - rzeźba  
+eskultia - rzeźbiarstwo  
+eskulter - rzeźbiarz  
 Espania - Hiszpania  
 esperanti - Esperanto  
+esponje - gąbka  
+esporte - sport, lekkoatletyka  
+esporter - hałas  
 Estia - Estonia  
+estadia - stadion, arena  
+estan - cynk  
+estasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
+estasi - statyczny, stacjonarny, nieruchomy  
+estasia - stacja  
+estasu - nie ruszać się  
+estibem - antymon  
+estrontem - stront  
+estudia - studio (pracownia)  
+estuder - student  
 Etiopia - Etiopia  
 evi - korzystny (dobry)  
 evanjil - ewangelia  
@@ -951,7 +967,7 @@ futau - siekera, topór
 Gabon - Gabon  
 gabra - zakopać (pochować)  
 gabre - grób (mogiła, grobowiec)  
-gabrostan - cmentarz  
+gabristan - cmentarz  
 gabroxeke - nagrobek  
 gade - osioł  
 gadogude - muł  
@@ -994,7 +1010,7 @@ garmomosim - lato
 garmomosimmedi den - przesilenie letnie (dzień srodka lata)  
 garmozon - tropiki  
 garmozoni - tropikalny  
-garmozoni caustan - sawanna  
+garmozoni cavistan - sawanna  
 gas - gaz  
 gasa - zamieniać w gaz  
 gasi - gazowy  
@@ -1391,6 +1407,7 @@ jenden - urodziny
 jengrupe - pokolenie (generacja)  
 jenita - rozmnażać  
 jenklas - kasta  
+jenolojia - genealogia  
 jentipe - genotyp  
 jeng - walka, wojna  
 jengi - militarny, wojskowy, wojenny  
@@ -1778,7 +1795,6 @@ la - z (od)
 le - on, ona, ono  
 les - oni  
 labe - warga  
-lada - naładować, załadować, obładować, ładować  
 lage - jezioro  
 laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 laje - śmieć, odpadek  
@@ -2093,7 +2109,7 @@ metrun - jednostka miary
 Mexiko - Meksyk  
 Mexiko site - Meksyk  
 meze - stół  
-mezostan - płaskowyż (plateau)  
+mezistan - płaskowyż (plateau)  
 mezotex - obrus  
 Myanma - Mjanma, Birma  
 mien - makaron  
@@ -2103,8 +2119,8 @@ migru - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedli�
 mikro\* - mikro-  
 mikrobiu - mikroorganizm  (mikrob)  
 mikrobiulojia - mikrobiologia  
-mikroskope - mikroskop  
 Mikronesia - Mikronezja  
+mikroskope - mikroskop  
 mili\* - mili-  
 miligram - miligram  
 milimitre - milimetr  
@@ -2226,6 +2242,7 @@ na lin - offline (nie na linii, poza siecią)
 no - nie  
 nabe - proroctwo  
 naber - prorok  
+nadiro - rzadko  
 nafas - oddech  
 nagre - miasto  
 nagri - miejski  
@@ -2463,6 +2480,7 @@ pari - równy
 parike - równy  
 parlini - równoległy (podłużny)  
 parlinu - iść wzdłuż (pójść wzdłuż)  
+parvezia - równowaga  
 Paraguai - Paragwaj  
 parai - wyrzutek  
 paraya - gardzić (pogardzać)  
@@ -2480,9 +2498,9 @@ parta - uczestniczyć, wziąć udział, brać udział
 partia - partia  
 parter - uczestnik  
 pas - przeszłość  
+pasa - minąć, mijać, przeminąć, przemijać  
 pasi - przeszły, miniony  
 paso - poprzednio (przedtem)  
-pasu - minąć, mijać, przeminąć, przemijać  
 pasivi - pasywny (nieaktywny)  
 pasporte - paszport  
 paske - Wielkanoc  
@@ -2570,9 +2588,9 @@ plastike - plastik
 plate - płaszczyzna (płyta)  
 plati - płaski  
 plati geukaskia - tektonika płyt  
+platistan - równina (plaskowyż, plateau)  
 platoforme - platforma  
 platogeviste - płaskoziemca  
-platostan - równina (plaskowyż, plateau)  
 platotas - talerz  
 platinem - platyna  
 Platon - Platon  
@@ -2730,8 +2748,8 @@ rebel - rebelia, powstanie
 reda - przygotować, przygotowywać  
 redi - gotowy  
 rege - piasek, piach  
+registan - pustynia  
 regopetre - piaskowiec  
-regostan - pustynia  
 rei - powtarzanie, powtórka  
 reya - powtórzyć, powtarzać  
 reyo - znowu (ponownie)  
@@ -2772,6 +2790,7 @@ rivunia - fuzja (amalgamowanie, łączenie)
 rivunu - łączyć (złączyć)  
 robote - robot  
 rodem - rod  
+rokomuzike - rock  
 rokete - rakieta  
 roketolancer - wyrzutnia rakietowa  
 rol - rola  
@@ -2850,8 +2869,8 @@ saida pex - łapać rybę
 saide - polowanie (łowienie)  
 saider - łowca (myśliwy)  
 sake - torba, wór, worek, torba, sakwa  
-sal - sól  
-sali - słony  
+sali - zdrowy  
+salia - zdrowie  
 salade - sałatka  
 salam (salami) - dobry ...  
 salam cute - żegnaj, dobre odejście  
@@ -2864,6 +2883,8 @@ salama - pozdrowić, pozdrawiać
 salame - pozdrowienie  
 salmon - łosoś (pstrąg)  
 Salon - Sierra Leone  
+salte - sól  
+salti - słony  
 Salvador - Salwador  
 sami - taki sam  
 samu - być podobnym, być jak  
@@ -2965,8 +2986,6 @@ sifa - opisać (zakwalifikować)
 sifi - opisowy  
 sifloge - przymiotnik  
 sigar - papieros (cygar)  
-sih - zdrowie  
-sihi - zdrowy  
 siyahi - czarny  
 sikiste - sikh  
 sikistia - sikhizm  
@@ -3007,11 +3026,6 @@ sistemi - systemowy
 site - miast, miasteczko  
 sivili - cywilizowany (ucywilizowany)  
 sivilia - cywilizacja  
-Skotia - Szkocja  
-skulta - rzeźbić  
-skulte - rzeźba  
-skultia - rzeźbiarstwo  
-skulter - rzeźbiarz  
 slavi - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
@@ -3049,19 +3063,6 @@ sosiste - socjalista
 sosistia - socjalizm  
 sosis - kiełbasa  
 Soto - Lesotho  
-sponje - gąbka  
-sporte - sport, lekkoatletyka  
-sporter - hałas  
-stadia - stadion, arena  
-stan - cynk  
-stasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
-stasi - statyczny, stacjonarny, nieruchomy  
-stasia - stacja  
-stasu - nie ruszać się  
-stibem - antymon  
-strontem - stront  
-studia - studio (pracownia)  
-studer - student  
 suahili - suahili  
 sual - pytanie  
 suala - zapytać, spytać, pytać  
@@ -3352,6 +3353,10 @@ veste - zachód
 vesti - zachodni  
 vestodongia - długość geograficzna  
 vestogoril - goryl zachodni  
+vezi - ciężki (masywny)  
+vezia - waga (ciężkość)  
+vezu - ważyć  
+vezometrer - waga (urządzenie ważące)  
 vida - patrzeć, widzieć  
 vide - widok, wzrok  
 vidu - być widzianym  

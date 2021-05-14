@@ -29,10 +29,10 @@ aga - si (suponer)
 agra - cultivar  
 agri - agrícola  
 agrer - granjero (agricultor)  
+agristan - campo  
+agristani - rural (rústico)  
 agrobiulojia - agrobiología  
 agronomia - agronomía  
-agrostan - campo  
-agrostani - rural (rústico)  
 agres - ataque  
 agreser - agresor  
 agresivi - agresivo  
@@ -271,12 +271,10 @@ banke - banco
 banker - banquero  
 banse - bambú  
 bar - bar  
-bar - pesa  
-bari - pesado  
-baria - peso (gravedad)  
+bara - cargar  
+bare - carga (pesa)  
 barem - bario  
 barmetal - metal pesado  
-barmetrer - pesa (báscula, balanza)  
 Barbados - Barbados  
 barbar - bárbaro  
 Barbuda - Barbuda  
@@ -400,7 +398,7 @@ bondeke - virtud (moralidad)
 bondeki - virtuoso (moral)  
 bonsifi - excelente  
 bonsifia - calidad (excelencia, mérito, virtud, ventaja)  
-bonsinyi - auspicioso  
+bonsinyi - auspicioso (propicio)  
 bonvidi - guapo (bien parecido)  
 bori - aburrido  
 boria - aburrimiento  
@@ -480,7 +478,7 @@ carlun - abril
 carme - encanto  
 cate - techo (tejado)  
 cau - césped (hierba)  
-caustan - pradera (pastizal)  
+cavistan - pradera (pastizal)  
 Cehia - República Checa  
 ceka - revisar (chequear)  
 cel - célula  
@@ -777,14 +775,32 @@ eskala - escalar
 eskaltan - enredadera  
 Eskandia - Escandinavia  
 eskandem - escandio  
+Eskotia - Escocia  
+eskulta - esculpir  
+eskulte - escultura (estatua)  
+eskultia - escultura (arte de escultura)  
+eskulter - escultor  
 Espania - España  
 esperanti - Esperanto  
+esponje - esponja  
+esporte - deporte  
+esporter - deportista  
 Estia - Estonia  
+estadia - estadio (arena)  
+estan - estaño  
+estasa - mantener (detener)  
+estasi - estático (estacionario)  
+estasia - estación  
+estasu - pararse (detenerse)  
+estibem - antimonio  
+estrontem - strontium  
+estuda - estudiar (examinar)  
+estudia - estudio  
+estuder - estudiante  
 Etiopia - Etiopía  
 evi - beneficioso (bueno)  
 evanjil - evangelio  
 euloge - elogio  
-euspeti - propicio  
 eurasia - Eurasia  
 eureka - econtrar (hallar)  
 euro\* - euro  
@@ -970,7 +986,7 @@ futau - hacha
 Gabon - Gabón  
 gabra - enterrar  
 gabre - tumba (sepultura)  
-gabrostan - cementerio  
+gabristan - cementerio  
 gabroxeke - lápida  
 gade - burro (asno)  
 gadogude - mula  
@@ -1015,7 +1031,7 @@ garmi masal - garam masala
 garmomosim - verano  
 garmomosimmedi den - Midsommar  
 garmozon - trópico  
-garmozoni caustan - sabana  
+garmozoni cavistan - sabana  
 gas - gas  
 gasa - gasificar  
 gasi - gaseoso  
@@ -1423,9 +1439,10 @@ jeni bax - lengua materna
 jenu - nacer  
 jenden - cumpleaños  
 jengrupe - generación (cohorte)  
+jenistan - lugar de nacimiento  
 jenita - criar  
 jenklas - casta  
-jenostan - lugar de nacimiento  
+jenolojia - genealogía  
 jentipe - genotipo  
 jeng - pelea (guerra, batalla)  
 jengi - macrial (militar)  
@@ -1807,7 +1824,6 @@ la - de (desde)
 le - él o ella  
 les - ellos o ellas  
 labe - labio  
-lada - cargar  
 lage - lago  
 laya - venir  
 layana - traer  
@@ -2118,7 +2134,7 @@ metrun - unidad (medida)
 Mexiko - México  
 Mexiko site - Ciudad de México  
 meze - mesa  
-mezostan - meseta  
+mezistan - meseta  
 mezotex - mantel  
 Myanma - Myanmar (Birmania)  
 mien - fideo (tallarín)  
@@ -2128,8 +2144,8 @@ migru - migrarse (mudarse, trasladarse)
 mikro\* - micro-  
 mikrobiu - microbio  
 mikrobiulojia - microbiología  
-mikroskope - microscopio  
 Mikronesia - Micronesia  
+mikroskope - microscopio  
 mili\* - mili-  
 miligram - miligrama  
 milimitre - milimetre  
@@ -2246,6 +2262,8 @@ na - sin
 no - no  
 nabe - profecía  
 naber - profeta  
+nadiri - raro  
+nadiro - raramente  
 nafas - respiración  
 nagre - pueblo  
 nagri - urbano  
@@ -2392,6 +2410,7 @@ ofiskan - oficina
 oganeson - oganesón  
 oke - ojo  
 oki - ocular  
+speter - espectador  
 okokex - pestaña  
 okosui - lágrima  
 okosuigas - gas lacrimógeno  
@@ -2485,6 +2504,7 @@ pari numbe - número par
 parike - equilibrado (par)  
 parlini - paralelo  
 parlinu - alinear  
+parvezia - equilibrio  
 Paraguai - Paraguay  
 parai - paria  
 paraya - despreciar (desdeñar)  
@@ -2500,9 +2520,11 @@ parta - participar
 partia - partido (grupo)  
 parter - participante  
 pas - pasado  
+pasa - pasar  
 pasi - anterior (remoto)  
 paso - haber (en el pasado)  
-pasu - pasar  
+pasdau - paso (pasaje)  
+pasloge - contraseña  
 pasporte - pasaporte  
 paske - Pascua  
 paskal - pascal (Pa)  
@@ -2594,8 +2616,8 @@ plastopaste - plastilina
 plate - plano (placa)  
 plati - plana (llano, liso)  
 plati geukaskia - tectónica de placas  
+platistan - llanura  
 platogeviste - terraplanista  
-platostan - llanura  
 platotas - plato  
 platinem - platino  
 Platon - Platón  
@@ -2761,7 +2783,7 @@ rebel - rebelión (sublevación)
 reda - preparar (hacer listo)  
 redi - listo (preparado)  
 rege - arena  
-regostan - desierto  
+registan - desierto  
 rei - repetición  
 reya - repetir  
 reyo - otra vez (de nuevo)  
@@ -2803,6 +2825,7 @@ rivunia - fusión
 rivunu - fusionar (fundir)  
 robote - robot (bot)  
 rodem - rodio  
+rokomuzike - rock  
 rokete - cohete (misil)  
 roketolancer - lanzamisiles  
 rol - papel  
@@ -2881,8 +2904,8 @@ saida - cazar (pescar)
 saida pex - pescar  
 saider - cazador  
 sake - saco  
-sal - sal  
-sali - salino  
+sali - saludable  
+salia - salud  
 salade - ensalada  
 salam (salami) - buen (hola)  
 salam cute - adiós  
@@ -2893,8 +2916,11 @@ salam suar - buenas noches
 salam sube - buenos días  
 salama - saludar  
 salame - saludo  
+salamia - bienestar  
 salmon - salmón (trucha)  
 Salon - Sierra Leona  
+salte - sal  
+salti - salino  
 Salvador - El Salvador  
 sami - equal (similar)  
 samu - parecerse a  
@@ -2999,8 +3025,6 @@ sifa - definir
 sifi - descriptivo  
 sifloge - adjetivo  
 sigar - cigarro  
-sih - salud  
-sihi - saludable  
 siyahi - negro  
 sikiste - sij  
 sikistia - sijismo  
@@ -3040,11 +3064,6 @@ sistemi - sistémico
 site - ciudad  
 sivili - civilizado  
 sivilia - civilización  
-Skotia - Escocia  
-skulta - esculpir  
-skulte - escultura (estatua)  
-skultia - escultura (arte de escultura)  
-skulter - escultor  
 slavi - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  
@@ -3081,21 +3100,6 @@ sosiste - socialista
 sosistia - socialismo  
 sosis - salchicha  
 Soto - Lesoto  
-speter - espectador  
-sponje - esponja  
-sporte - deporte  
-sporter - deportista  
-stadia - estadio (arena)  
-stan - estaño  
-stasa - mantener (detener)  
-stasi - estático (estacionario)  
-stasia - estación  
-stasu - pararse (detenerse)  
-stibem - antimonio  
-strontem - strontium  
-studa - estudiar (examinar)  
-studia - estudio  
-studer - estudiante  
 suahili - suajili  
 sual - pregunta  
 suala - preguntar (inquirir)  
@@ -3390,6 +3394,10 @@ veste - oeste
 vesti - occidental  
 vestodongia - longitud  
 vestogoril - gorila occidental  
+vezi - pesado  
+vezia - peso (gravedad)  
+vezu - pesar  
+vezometrer - pesa (báscula, balanza)  
 vida - ver (mirar)  
 vide - vista (visión)  
 vidu - ser visto  

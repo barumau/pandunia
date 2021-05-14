@@ -151,7 +151,7 @@ antenna (aerial) - anten
 antichrist - ankriste  
 Antigua - Antigua  
 Antigua and Barbuda - Antigua e Barbuda  
-antimony - stibem  
+antimony - estibem  
 antonym - annam  
 anus - anus  
 anvil - metalbede  
@@ -225,7 +225,7 @@ astronomer - astronomer
 astronomy - astronomia  
 atheist - andeviste  
 Athens - Atina  
-athlete (sportsman) - sporter  
+athlete (sportsman) - esporter  
 Atlantic cod - atlantokade  
 Atlantic Ocean - Atlanti Hai  
 Atlantic salmon - atlantosalmon  
@@ -238,7 +238,6 @@ attraction (-philia) - filia
 attribute (charasteristic, quality, feature, description, property) - sif  
 August - ballun  
 auspicious (promising) - bonsinyi  
-auspicious - euspeti  
 Australia - Australia  
 Australian Aboriginal - aslaustrali  
 Austria - Ostria  
@@ -396,7 +395,7 @@ bird - pakse
 biromantic - dulromansi  
 birth - jen  
 birthday - jenden  
-birthplace - jenostan  
+birthplace - jenistan  
 biscuit (cookie) - biskute  
 bisexual - dulseksi  
 bismuth - bismute  
@@ -495,6 +494,8 @@ build (construct) - bina
 building (structure) - bin  
 Bulgaria - Bolgaria  
 bulletproof - dansekuri  
+burden (load, encumber) - bara  
+burden (load, weight) - bare  
 Burkina Faso - Burkina Faso  
 burn (be burned) - hogu  
 burn (cause to burn) - hoga  
@@ -546,7 +547,7 @@ camera - fotografmaxin
 Cameroon - Kamerun  
 camp - kampe  
 camper - kamper  
-campground - kampostan  
+campground - kampistan  
 can (know, be able) - abla  
 Canada - Kanada  
 cancel (nullify) - nola  
@@ -833,7 +834,7 @@ counselor (consultant) - konseler
 count (enumerate) - numba  
 counterclockwise (anticlockwise) - rotolefto  
 country (land, state) - dex  
-countryside - agrostan  
+countryside - agristan  
 coupon - kupon  
 cousin - cinbrusben  
 cover (conceal) - daka  
@@ -954,7 +955,7 @@ Denmark - Dania
 dentist - dantomediker  
 depth - fastelia  
 descriptive - sifi  
-desert - regostan  
+desert - registan  
 desk - karmeze  
 despise (scorn) - paraya  
 destine (set) - gola  
@@ -1136,9 +1137,10 @@ environmental (natural) - eki
 enzyme - enzim  
 epistemology - saulojia  
 equal - paru  
-equalize (even out) - para  
+equalize (balance, even out) - para  
 equator - geuparlin  
 Equatorial Guinea - Geuparlini Ginia  
+equilibrium (balance) - parvezia  
 erbium - erbem  
 erect (standing) - libi  
 erect - liba  
@@ -1209,7 +1211,7 @@ expose (reveal) - expoza
 extend (stretch out) - extensa  
 extract (draw out) - extrata  
 extrovert (outgoing) - extroversi  
-eye (look, watch) - oka  
+eye (look, watch, observe, spectate) - oka  
 eye - oke  
 eyelash - okokex  
 ####F - F  
@@ -1415,6 +1417,7 @@ gem (gemstone, jewel) - bauxeke
 gender (sex) - jinse  
 gender studies - jinsolojia  
 genderqueer (non-binary) - bis  
+genealogy (study of descent) - jenolojia  
 generalissimo (shogun) - gunrajer  
 generation (cohort) - jengrupe  
 generous (open-handed) - donivi  
@@ -1467,7 +1470,7 @@ gold - aur
 golem - golem  
 gone (away) - kiti  
 goniometer - gonmetrer  
-good (in greetings) - salam (salami)  
+good (prosperous; used in greetings) - salam (salami)  
 good - boni  
 Good day - salam den  
 Good evening - salam suar  
@@ -1491,10 +1494,10 @@ grape - putau
 grapefruit - putavoranje  
 graphic (pictorial) - grafi  
 grass - cau  
-grassland (prairie) - caustan  
+grassland (prairie) - cavistan  
 grave (tomb) - gabre  
 gravel - grau  
-graveyard (cemetery, burial ground) - gabrostan  
+graveyard (cemetery, burial ground) - gabristan  
 Greece - Helenia  
 greedy - tami  
 Greek (Hellenic) - heleni  
@@ -1573,11 +1576,11 @@ he or she or it - le
 head - sar  
 headmaster (principal) - xulxef  
 heal (cure, remedy) - medika  
-health - sih  
-healthy - sihi  
+health - salia  
+healthy - sali  
 hear (listen) - auda  
 heart - xim  
-heavy - bari  
+heavy - vezi  
 heavy metal - barmetal  
 Hebrew - ibri  
 height (altitude) - gavia  
@@ -1606,7 +1609,7 @@ Hindi (Hindustani) - hindi
 Hindu - hindiste  
 Hinduism - hindistia  
 Hindustan - Hindia  
-Hindustani language - hindostani  
+Hindustani language - hindistani  
 hinge (pivot) - xarnir  
 hippopotamus - gubu\*  
 hispanophone (Spanish speaking) - espanfoni  
@@ -1619,7 +1622,7 @@ hobby - hobe
 hobbyist - hobiste  
 hockey - hoke  
 hoe - cope  
-hold (detain) - stasa  
+hold (detain) - estasa  
 hold together - jamhafiza  
 hole - kong  
 holiday - festoden  
@@ -1735,7 +1738,6 @@ inside (interior) - in
 inside (interior) - intre  
 inside - intro  
 insomnia - ansomia  
-inspect - inspeta  
 instructions (recipe) - resete  
 insult (offence) - ninde  
 insult (offend, call names) - dusnamana  
@@ -1980,7 +1982,6 @@ live (be alive, living) - jivi
 live in (reside in, inhabit) - doma  
 livermorium - livermorem  
 llama - liama\*  
-load (to charge) - lada  
 loanword - jekologe  
 local - loki  
 lock (fasten) - sora  
@@ -2563,11 +2564,13 @@ particle (grain, bullet) - dan
 party (celebration, festival) - feste  
 party (group) - partia  
 pascal (Pa) - paskal  
-pass (go by, go past) - pasu  
+pass (go across or through) - pasa  
+pass (passage) - pasdau  
 pass (spend time, put time into) - dura  
 passive (inactive) - pasivi  
 passport - pasporte  
 password (security code) - sekurkode  
+password - pasloge  
 past (bygone) - pasi  
 past times - pas  
 paste (dough) - paste  
@@ -2663,7 +2666,7 @@ pizza - pize
 pizzeria - pizokan  
 place (location) - loke  
 plain (ordinary, unadorned, simple, mere) - sadi  
-plain (plateau, flat lands) - platostan  
+plain (plateau, flat lands) - platistan  
 plan - plan  
 plane (plate) - plate  
 plane (tool for making a smooth surface) - rande  
@@ -2675,7 +2678,7 @@ plastic (moldable, malleable) - plasti
 plastic - plastike  
 plate - platotas  
 plate tectonics - plati geukaskia  
-plateau (tableland) - mezostan  
+plateau (tableland) - mezistan  
 platform - platoforme  
 platinum - platinem  
 Plato - Platon  
@@ -2865,6 +2868,7 @@ Ramadan - ramazan
 ramp (incline, slope) - rampe  
 random - zari  
 rank (position in an ordered list) - ode  
+rare (scarce, uncommon) - nadiri  
 rare (uncommon, sparse) - rari  
 rarity - raria  
 rational (reasonable) - razoni  
@@ -2964,7 +2968,9 @@ roast - rosta
 rob (loot, plunder, pillage, ransack) - luta  
 robber (plunderer) - luter  
 robot (bot) - robote  
+rock (sway, tilt) - roka  
 rock - petre  
+rock music - rokomuzike  
 rocket - rokete  
 rocket launcher - roketolancer  
 roentgenium - rentogenem  
@@ -3003,7 +3009,7 @@ ruler - sultan
 rum - rum  
 run - kora  
 runner - korer  
-rural (rustic) - agrostani  
+rural (rustic) - agristani  
 rural village - agrocun  
 Russia - Rusia  
 Russian - rusi  
@@ -3030,8 +3036,8 @@ Saint Vincent - Santi Vinsente
 Saint Vincent and Grenadines - Santi Vinsente e Grenadine  
 salad - salade  
 salmon (trout) - salmon  
-salt - sal  
-salty (saline) - sali  
+salt - salte  
+salty (saline) - salti  
 samarium - samarem  
 same (equal, match) - sami  
 Samoa - Samoa  
@@ -3051,14 +3057,14 @@ sauce - saus
 Saudi Arabia - Saudi Arabia  
 sauna - sauna\*  
 sausage - sosis  
-savannah - garmozoni caustan  
+savannah - garmozoni cavistan  
 save (deposit, bank) - banka  
 savory (umami) - umami  
 saw - ser  
 say (speak, talk) - loga  
 scaffolding (gangplank) - futoban  
 scale (flake) - xalke  
-scales (weighing device) - barmetrer  
+scales (weighing device) - vezometrer  
 Scandinavia - Eskandia  
 scandium - eskandem  
 scarcity - xavia  
@@ -3069,16 +3075,16 @@ scent (odor, fragrance, aroma) - arom
 school (institution) - xulkan  
 science (study, research) - lojia  
 scissors (shears) - makas  
-scope (viewer) - skope  
+scope (viewer) - oskope  
 score (grade) - puntonumbe  
 scoreboard - puntoban  
-Scotland - Skotia  
+Scotland - Eskotia  
 screen - ekran  
 screw - vite  
-sculpt (carve) - skulta  
-sculptor - skulter  
-sculpture (art of sculpting) - skultia  
-sculpture (statue) - skulte  
+sculpt (carve) - eskulta  
+sculptor - eskulter  
+sculpture (art of sculpting) - eskultia  
+sculpture (statue) - eskulte  
 scute - ostoxalke  
 sea - hai  
 sea anemone - haiful  
@@ -3100,6 +3106,7 @@ seed (semen) - sem
 seem - rupu  
 seismic (vibrational) - sismi  
 seismology - sismolojia  
+seldom (rarely) - nadiro  
 selenium - selenem  
 self (identity) - aute  
 self (reflexive pronoun) - se  
@@ -3296,9 +3303,9 @@ spiral (helix, corkscrew, twist) - helis
 spit - tuha  
 split (fall apart) - fenu  
 spoken (lexical) - logi  
-sponge - sponje  
+sponge - esponje  
 spoon - camace  
-sport (athletics) - sporte  
+sport (athletics) - esporte  
 spouse (husband or wife) - gam  
 spring (springtime) - fulmosim  
 spruce tree - pis  
@@ -3309,7 +3316,7 @@ squid (cuttlefish) - kalmar
 squirrel - ekor  
 Sranan Tongo - surinami bax  
 Sri Lanka (Ceylon) - Lanka  
-stadium (arena) - stadia  
+stadium (arena) - estadia  
 stage (phase) - faze  
 stage (scene) - sen  
 stain (spot) - najisbinde  
@@ -3317,13 +3324,13 @@ stained glass - rangi kance
 stairs (ladder) - eskal  
 stand (rack) - libobaze  
 stand - libu  
-stand still - stasu  
+stand still - estasu  
 star - xing  
 starboard (right side of a ship) - nauraite  
 starship - astronau  
 state (condition, status, situation) - hal  
-static (stationary) - stasi  
-station - stasia  
+static (stationary) - estasi  
+station - estasia  
 stay behind (linger) - laxu  
 steal - cora  
 stealth - siri mote  
@@ -3359,13 +3366,13 @@ stretch (extend) - tirlonga
 strike (punch) - darba  
 strip (peel) - tira pil  
 strong - forti  
-strontium - strontem  
+strontium - estrontem  
 struggle (strife) - jihade  
 student (pupil, learner) - xuler  
-student - studer  
-studio - studia  
-study (work in order to practise or demonstrate) - studa  
-study (work made in order to practise or demonstrate) - stude  
+student - estuder  
+studio - estudia  
+study (work in order to practise or demonstrate) - estuda  
+study (work made in order to practise or demonstrate) - estude  
 stupid (idiotic) - idioti  
 subceed (be less than) - minu  
 submission (surrender) - islam  
@@ -3566,7 +3573,7 @@ time (duration, quantity of time) - dur
 time (instance, occasion) - mar  
 time (period, epoch, era) - zaman  
 Timor - Timor  
-tin - stan  
+tin - estan  
 tiny (microscopic) - mikri  
 Titan - Titan  
 titanem - titanem  
@@ -3610,7 +3617,7 @@ town - nagre
 toxic (poisonous, venomous) - toksi  
 toxicology - toksolojia  
 toxin - biutokse  
-tract (land, ground, region) - stan  
+tract (land, ground, region) - istan  
 tractor - trater  
 trade (buy and sell) - vendoxopa  
 trade (commerce) - vendoxope  
@@ -3797,7 +3804,6 @@ wart - zeyil
 wash - vaxa  
 washing machine - vaxmaxin  
 Washington D####C - Vaxington DC  
-watch (observe, spectate) - speta  
 water - sui  
 water buffalo - kabau  
 water lily (nenuphar) - nenufar  
@@ -3824,9 +3830,10 @@ Wednesday - sanyom
 week - yomsete  
 weep (cry) - kuga  
 weft - veilin  
-weight (burden) - bar  
-weight (heaviness, gravity) - baria  
+weigh (have weight) - vezu  
+weight (heft, gravity) - vezia  
 welcome! - salam lai  
+well-being (prosperity) - salamia  
 Welsh - kamri  
 Wenzhou - Venjou  
 west - veste  

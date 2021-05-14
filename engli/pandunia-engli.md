@@ -33,11 +33,11 @@ agra - cultivate (farm)
 agri - agricultural  
 agre - agriculture  
 agrer - farmer  
+agristan - countryside  
+agristani - rural (rustic)  
 agrobiulojia - agrobiology  
 agrocun - rural village  
 agronomia - agronomy  
-agrostan - countryside  
-agrostani - rural (rustic)  
 agres - attack (assault, aggression, hostility)  
 agresa - attack (assault)  
 agreser - aggressor  
@@ -302,12 +302,10 @@ banke - bank (depository, cache)
 banker - banker  
 banse - bamboo  
 bar - bar  
-bar - weight (burden)  
-bari - heavy  
-baria - weight (heaviness, gravity)  
+bara - burden (load, encumber)  
+bare - burden (load, weight)  
 barem - barium  
 barmetal - heavy metal  
-barmetrer - scales (weighing device)  
 Barbados - Barbados  
 barbar - barbarian  
 Barbuda - Barbuda  
@@ -525,7 +523,7 @@ carlun - April
 carme - charm (attraction)  
 cate - roof  
 cau - grass  
-caustan - grassland (prairie)  
+cavistan - grassland (prairie)  
 Cehia - Czech Republic  
 ceka - check (to examine)  
 cel - cell (biology)  
@@ -854,10 +852,30 @@ eskala - climb (get on)
 eskaltan - vine  
 Eskandia - Scandinavia  
 eskandem - scandium  
+Eskotia - Scotland  
+eskulta - sculpt (carve)  
+eskulte - sculpture (statue)  
+eskultia - sculpture (art of sculpting)  
+eskulter - sculptor  
 Espania - Spain  
 espanfoni - hispanophone (Spanish speaking)  
 esperanti - Esperanto  
+esponje - sponge  
+esporte - sport (athletics)  
+esporter - athlete (sportsman)  
 Estia - Estonia  
+estadia - stadium (arena)  
+estan - tin  
+estasa - hold (detain)  
+estasi - static (stationary)  
+estasia - station  
+estasu - stand still  
+estibem - antimony  
+estrontem - strontium  
+estuda - study (work in order to practise or demonstrate)  
+estude - study (work made in order to practise or demonstrate)  
+estudia - studio  
+estuder - student  
 Etiopia - Ethiopia  
 evi - beneficial (good)  
 evanjil - gospel (divine message)  
@@ -865,7 +883,6 @@ eudevistia - eutheism
 eujenistia - eugenics  
 euloga - praise (eulogize)  
 euloge - praise (eulogy)  
-euspeti - auspicious  
 eutopia - utopia  
 eurasia - Eurasia  
 eureka - find (discover)  
@@ -1074,7 +1091,7 @@ futau - axe (hatchet)
 Gabon - Gabon  
 gabra - bury  
 gabre - grave (tomb)  
-gabrostan - graveyard (cemetery, burial ground)  
+gabristan - graveyard (cemetery, burial ground)  
 gabroxeke - tombstone (gravestone)  
 gade - donkey (ass)  
 gadogude - mule  
@@ -1123,7 +1140,7 @@ garmomosim - summer
 garmomosimmedi den - Midsummer Day  
 garmozon - tropics  
 garmozoni - tropical  
-garmozoni caustan - savannah  
+garmozoni cavistan - savannah  
 gas - gas  
 gasa - gasify (vaporize)  
 gasi - gaseous  
@@ -1348,7 +1365,7 @@ Hindia - Hindustan
 hindem - indium  
 hindiste - Hindu  
 hindistia - Hinduism  
-hindostani - Hindustani language  
+hindistani - Hindustani language  
 Hiperyon - Hyperion  
 hisaba - calculate  
 hisabe - calculation  
@@ -1476,7 +1493,6 @@ inploze - implosion
 inplozu - implode (collapse)  
 inpuxa - squeeze (squish)  
 insida - crouch (squat)  
-inspeta - inspect  
 intra - enter (insert, put in)  
 intre - inside (interior)  
 intri - inward (internal)  
@@ -1525,6 +1541,7 @@ Islandia - Iceland
 Israel - Israel  
 iste - proponent (supporter, activist, -ist)  
 istia - ism (doctrine, ideology, religion, etc)  
+istan - tract (land, ground, region)  
 ite - object (patient, target)  
 Italia - Italy  
 itis - inflammation (-itis)  
@@ -1578,9 +1595,10 @@ jeni bax - native language (mother tongue)
 jenu - be born  
 jenden - birthday  
 jengrupe - generation (cohort)  
+jenistan - birthplace  
 jenita - breed  
 jenklas - caste  
-jenostan - birthplace  
+jenolojia - genealogy (study of descent)  
 jentipe - genotype  
 jeng - fight (war, battle, combat)  
 jengi - military (martial, warlike)  
@@ -1695,7 +1713,7 @@ kamisi xake - sleeve
 kamote - sweet potato  
 kampe - camp  
 kamper - camper  
-kampostan - campground  
+kampistan - campground  
 kamri - Welsh  
 Kamria - Wales (Cambria)  
 kan - shop (store or workshop)  
@@ -1999,7 +2017,6 @@ la - from (since, because)
 le - he or she or it  
 les - they  
 labe - lip  
-lada - load (to charge)  
 lage - lake  
 Lagos - Lagos  
 laya - come (arrive)  
@@ -2334,7 +2351,7 @@ metrun - unit (measurement)
 Mexiko - Mexico  
 Mexiko site - Mexico City  
 meze - table  
-mezostan - plateau (tableland)  
+mezistan - plateau (tableland)  
 mezotex - tablecloth  
 Myanma - Myanmar (Burma)  
 mien - noodle  
@@ -2345,8 +2362,8 @@ mikri - tiny (microscopic)
 mikro\* - micro-  
 mikrobiu - microorganism (microbe)  
 mikrobiulojia - microbiology  
-mikroskope - microscope  
 Mikronesia - Micronesia  
+mikroskope - microscope  
 mili\* - milli-  
 miligram - milligram  
 milimitre - millimeter  
@@ -2476,6 +2493,8 @@ ne - none
 no - not (no)  
 nabe - prophecy  
 naber - prophet  
+nadiri - rare (scarce, uncommon)  
+nadiro - seldom (rarely)  
 nafas - breath  
 nagre - town  
 nagri - urban  
@@ -2628,9 +2647,10 @@ ofisia - office (bureau)
 ofiser - officer  
 ofiskan - office (room)  
 oganeson - oganesson  
-oka - eye (look, watch)  
+oka - eye (look, watch, observe, spectate)  
 oke - eye  
 oki - ocular  
+speter - spectator (observer)  
 okokex - eyelash  
 okosui - tear drop  
 okosuigas - tear gas  
@@ -2661,6 +2681,7 @@ ortogon - right angle
 ortogoni - orthogonal (perpendicular)  
 oselote - ocelot  
 osidian - obsidian  
+oskope - scope (viewer)  
 oskuri - dark (dim)  
 osmem - osmium  
 osman - Ottoman  
@@ -2727,13 +2748,14 @@ papai - papaya
 papir - document (paper)  
 Papua Novi Ginia - Papua New Guinea  
 par - level  
-para - equalize (even out)  
+para - equalize (balance, even out)  
 pari - even (level, peer, equal)  
 pari numbe - even number  
 paru - equal  
 parike - peer  
 parlini - parallel (longitudinal)  
 parlinu - align (go along)  
+parvezia - equilibrium (balance)  
 Paraguai - Paraguay  
 parai - outcast (pariah)  
 paraya - despise (scorn)  
@@ -2751,10 +2773,12 @@ parta - participate (attend, partake, take part)
 partia - party (group)  
 parter - participant  
 pas - past times  
+pasa - pass (go across or through)  
 pasi - past (bygone)  
 paso - before (in the past)  
-pasu - pass (go by, go past)  
+pasdau - pass (passage)  
 pasivi - passive (inactive)  
+pasloge - password  
 pasporte - passport  
 paske - Easter  
 paskal - pascal (Pa)  
@@ -2853,9 +2877,9 @@ plastopaste - playdough
 plate - plane (plate)  
 plati - flat (planar)  
 plati geukaskia - plate tectonics  
+platistan - plain (plateau, flat lands)  
 platoforme - platform  
 platogeviste - flat-earther  
-platostan - plain (plateau, flat lands)  
 platotas - plate  
 platinem - platinum  
 Platon - Plato  
@@ -3028,8 +3052,8 @@ rebel - rebellion
 reda - prepare (make ready)  
 redi - ready (prepared)  
 rege - sand  
+registan - desert  
 regopetre - sandstone  
-regostan - desert  
 rei - repetition  
 reya - repeat (iterate)  
 reyo - again (repeatedly)  
@@ -3074,6 +3098,8 @@ rivunia - fusion (amalgamation)
 rivunu - merge (fuse)  
 robote - robot (bot)  
 rodem - rhodium  
+roka - rock (sway, tilt)  
+rokomuzike - rock music  
 rokete - rocket  
 roketolancer - rocket launcher  
 rol - role  
@@ -3155,10 +3181,10 @@ saida pex - catch fish
 saide - hunting (fishing)  
 saider - hunter  
 sake - bag (sack)  
-sal - salt  
-sali - salty (saline)  
+sali - healthy  
+salia - health  
 salade - salad  
-salam (salami) - good (in greetings)  
+salam (salami) - good (prosperous; used in greetings)  
 salam cute - farewell  
 salam den - Good day  
 salam yam - bon appetit!  
@@ -3167,8 +3193,11 @@ salam suar - Good evening
 salam sube - Good morning  
 salama - greet  
 salame - greeting (hello)  
+salamia - well-being (prosperity)  
 salmon - salmon (trout)  
 Salon - Sierra Leone  
+salte - salt  
+salti - salty (saline)  
 Salvador - El Salvador  
 sami - same (equal, match)  
 samu - resemble (be like)  
@@ -3276,8 +3305,6 @@ sifa - qualify (describe)
 sifi - descriptive  
 sifloge - adjective  
 sigar - cigarette (cigar)  
-sih - health  
-sihi - healthy  
 siyahi - black  
 sikiste - Sikh  
 sikistia - Sikhism  
@@ -3319,12 +3346,6 @@ sistemi - systemic
 site - city (town)  
 sivili - civilized (civil)  
 sivilia - civilization  
-skope - scope (viewer)  
-Skotia - Scotland  
-skulta - sculpt (carve)  
-skulte - sculpture (statue)  
-skultia - sculpture (art of sculpting)  
-skulter - sculptor  
 slavi - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -3363,24 +3384,6 @@ sosiste - socialist
 sosistia - socialism  
 sosis - sausage  
 Soto - Lesotho  
-speta - watch (observe, spectate)  
-speter - spectator (observer)  
-sponje - sponge  
-sporte - sport (athletics)  
-sporter - athlete (sportsman)  
-stadia - stadium (arena)  
-stan - tin  
-stan - tract (land, ground, region)  
-stasa - hold (detain)  
-stasi - static (stationary)  
-stasia - station  
-stasu - stand still  
-stibem - antimony  
-strontem - strontium  
-studa - study (work in order to practise or demonstrate)  
-stude - study (work made in order to practise or demonstrate)  
-studia - studio  
-studer - student  
 suahili - Swahili  
 sual - question (query, inquiry)  
 suala - ask (inquire)  
@@ -3700,6 +3703,10 @@ veste - west
 vesti - western  
 vestodongia - longitude  
 vestogoril - western gorilla  
+vezi - heavy  
+vezia - weight (heft, gravity)  
+vezu - weigh (have weight)  
+vezometrer - scales (weighing device)  
 vida - look (see)  
 vide - view (vision)  
 vidu - be seen  

@@ -57,7 +57,7 @@ analógico - zoki
 andesito - andesite  
 anel - ring  
 animal (besta, bicho) - zou  
-antimônio - stibem  
+antimônio - estibem  
 anzol - pexhuke  
 análise - fenkate  
 aperfeiçoar - purbona  
@@ -134,6 +134,7 @@ baía - bai
 bebê - bebe  
 beleza - sundaria  
 belo (lindo) - sundari  
+bem-estar - salamia  
 beringela - bedinje  
 biblioteca - kitabokan  
 bigorna - metalbede  
@@ -189,10 +190,12 @@ cardo - kardon
 cardo-mariano - milkokardon  
 cardo-roxo - perkardon  
 careta (esgar) - grimas  
+carga (peso) - bare  
 Caribe - Karaibia  
 carimbo - postomarke  
 carne - manse  
 carrapato (ácaros) - akar  
+carregar - bara  
 carreira - peikari jiu  
 carta - karde  
 carta geográfica - metrograf  
@@ -207,7 +210,7 @@ cavar (escavar) - kava
 caçar - saida  
 cebola - piaze  
 cem (100) - xoti  
-cemitério - gabrostan  
+cemitério - gabristan  
 cenoura - karote  
 centro - jung  
 centáurea - centaur  
@@ -370,6 +373,7 @@ enteado - gamben
 enterrar - gabra  
 entrar - intru  
 enxada - cope  
+equilíbrio - parvezia  
 erro (falta) - galte  
 errôneo - galti  
 erva marinha - haicau  
@@ -381,7 +385,7 @@ escrevere - kitaba
 escrita - kitabe  
 escudo - defban  
 escudo - ostoxalke  
-escultor - skulter  
+escultor - eskulter  
 esfarrapado - circiri  
 eslavo - slavi  
 esmeralda - zumurude  
@@ -390,21 +394,21 @@ espaço - kali harfe
 espetador - speter  
 espirrar - acua  
 espodossolo - huidarte  
-esponja - sponje  
-esporte - sporte  
+esponja - esponje  
+esporte - esporte  
 esposo ou esposa - gam  
 esquecer - anmema  
 esqueleto - ostojamia  
 esquerdo - lefte  
 esquilo - ekor  
 estado - hal  
-estanho - stan  
+estanho - estan  
 estar deitado (jazer) - kuxu  
 estação (sazão) - mosim  
 este (leste) - dong  
 estirar - tirlonga  
-estudante - studer  
-estudar (examinar) - studa  
+estudante - estuder  
+estudar (examinar) - estuda  
 etimologia - logaslia  
 etnia - zuke  
 eu (me) - me  
@@ -473,6 +477,7 @@ gato - mau
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
 gato-maracajá - margai  
 gelar - aisu  
+genealogia - jenolojia  
 generalíssimo - gunrajer  
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
@@ -783,6 +788,7 @@ padrasto - vispai
 pai - pai  
 painel - ban  
 palavra (vocábulo) - logem  
+palavra-passe (senha) - pasloge  
 palácio (mansão, palacete) - daidom  
 panda - pande  
 pandemia - pandemi patia  
@@ -791,10 +797,12 @@ papel - kaguje
 papel de parede - murkaguje  
 papoila - medenpapil  
 papoila-dormideira - sompapil  
+par - parike  
 para-lama - fandefban  
 parque - parke  
 partida - mece  
 parâmetro - param  
+passagem - pasdau  
 passagem de volta - retrotikete  
 passaporte - pasporte  
 pasta - paste  
@@ -826,7 +834,8 @@ perguntar - suala
 perigo - hatre  
 perplexo (confuso) - ruhmixi  
 peru - dinde  
-pesado - bari  
+pesado - vezi  
+pesar - vezu  
 pescador - pexosaider  
 pessoa - jan  
 petróleo - petronefte  
@@ -907,6 +916,8 @@ química - kimlojia
 ####R - R  
 rachadura - krake  
 raposa - hulei  
+raramente - nadiro  
+raro - nadiri  
 raro - rari  
 rasgar - cir  
 rasgar - cira  
@@ -937,6 +948,7 @@ rir - haha
 ritmo - ritim  
 robô - robote  
 rocha (pedra) - petre  
+rock - rokomuzike  
 roda - cakre  
 Roma - Roma  
 rosa - roze  
@@ -950,9 +962,9 @@ saber (conhecer) - sava
 sacada (varanda) - berande  
 saco - sake  
 sair - extru  
-sal - sal  
+sal - salte  
 sala (câmara) - kamar  
-salino - sali  
+salino - salti  
 salmão-cão (salmão-keta) - bakosalmon  
 salmão-rosa - rozosalmon  
 salmão-vermelho - lalsalmon  
@@ -964,8 +976,8 @@ sangue - sang
 Satanás - Xatan (ruhxatan)  
 Saturno - Saturne  
 saudação - salame  
-saudável (saudio) - sihi  
-saúde - sih  
+saudável (saudio) - sali  
+saúde - salia  
 se - aga  
 se - se  
 seabórgio - siborgem  
@@ -1034,7 +1046,7 @@ teosofia - deusofia
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Gevia  
-terra natal - jenostan  
+terra natal - jenistan  
 terracota - bekofan  
 terraplanista - platogeviste  
 terreno - geuforme  
@@ -1140,7 +1152,7 @@ zumbi - zombe
 ágil - ajili  
 água - sui  
 álcool - alkol  
-área de acampamento - kampostan  
+área de acampamento - kampistan  
 área de transferência - katoglutoban  
 árvore - moke  
 áspero - karsi  

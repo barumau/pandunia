@@ -35,11 +35,11 @@ agr:a|agra||||cultivate (farm)|cultiver|cultivar|cultivar|выращивать||
 agr:i|agri|||eng:fra:spa:por:tur:agro-, rus:агро- (agro-)|agricultural|agricole|agrícola|agrícola|аграрный|||||||||||agrikultura|maataloudellinen (agraari-)|
 agr:ia|agre||||agriculture|||||||||||||||agrikulturo|viljely|
 agr.er:|agrer||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
+agr.istan:|agristan||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
+agr.istan:i|agristani||||rural (rustic)||rural (rústico)||||||||||||||maalais-|wiejski, rustykalny
 agr.o.biu.loj:ia|agrobiulojia||||agrobiology|agrobiologie|agrobiología|agrobiologia|агробиология||土壤生物学||||||||agrobiyoloji||maatalousbiologia|
 agr.o.cun:|agrocun||||rural village||||||农村|農村|농촌|nông thôn|||||||maalaiskylä|
 agr.o.nom:ia|agronomia||||agronomy|agronomie|agronomía|agronomia|агрономия|عِلْم الزِرَاعَة‎|农学|農学|농학|nông học|||||agronomi|agronomio|agronomia (maatalous)|agronomia
-agr.istan:|agristan||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
-agr.istan:i|agristani||||rural (rustic)||rural (rústico)||||||||||||||maalais-|wiejski, rustykalny
 agres:|agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
 agres:a|agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
 agres.er:|agreser||||aggressor|agresseur|agresor|agressor|агрессор||侵略者||||||||||hyökkääjä|
@@ -305,12 +305,10 @@ bank:e|banke|||eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque
 bank.er:|banker||||banker|banquier|banquero|banqueiro||||||||||||bankisto|pankkiiri|bankier
 bans:e|banse|biu|Bambusoideae|hin:बांस (bāns), ben:বাঁশ (bãśô), pnb:ਬਾਂਸ (bāns), swa:mwanzi|bamboo|bambou|bambú|bambu|бамбук|خَيْزَرَان|竹子|竹|대나무|tre|बांस|বাঁশ|buluh (bambu)|mwanzi||bambuo|bambu|bambus
 bar:|bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar||bar||||||||||||||baari (kapakka)|bar
-bar:|bar||||weight (burden)|poids (charge)|pesa||||||||||||||paino|ciężar (brzemię)
-bar:i|bari|||ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|heavy|lourd|pesado|pesado|тяжёлый||重型的||||भारी||berat||ağır|peza|painava|ciężki (masywny)
-bar:ia|baria||||weight (heaviness, gravity)|poids (lourdeur, gravité)|peso (gravedad)|||||||||||||pezo|paino|waga (ciężkość)
+bar:a|bara||||burden (load, encumber)||cargar|carregar|обременять||||||लादना (भरना)||||||kuormata (lastata, ladata)|naładować, załadować, obładować, ładować
+bar:e|bare|||hin:भार  (bhār), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|burden (load, weight)|charge (fardeau, poids)|carga (pesa)|carga (peso)|ноша||擔子||바리 (짐)||||||yük||kuorma (lasti, taakka, paino)|ciężar (brzemię)
 bar.em:|barem|mate|Ba||barium|baryum|bario|||||||||||||bario|barium|bar
 bar.metal:|barmetal||||heavy metal|métaux lourds|metal pesado|||||||||||||pezmetalo|raskasmetalli|metal ciężki
-bar.metr.er:|barmetrer||||scales (weighing device)|balance (poids)|pesa (báscula, balanza)||||||||||||||vaaka (puntari)|waga (urządzenie ważące)
 Barbados:|Barbados|dex|BB||Barbados|Barbade|Barbados||||||||||||||Barbados|Barbados
 barbar:|barbar|||deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|barbarian|barbare|bárbaro|||||||||||||barbaro|barbaari (raakalainen)|barbarzyńca
 Barbuda:|Barbuda|dex|||Barbuda|Barbuda|Barbuda||||||||||||||Barbuda|Barbuda
@@ -857,18 +855,18 @@ eskal:a|eskala||||climb (get on)||escalar||подниматься|||上る (乗�
 eskal.tan:|eskaltan||||vine|vigne|enredadera|||||蔓草|||||||||köynnös|pnącz
 Eskand:ia|Eskandia||||Scandinavia|Scandinavie|Escandinavia||||||||||||||Skandinavia|Skandynawia
 eskand.em:|eskandem|mate|Sc||scandium||escandio|||||||||||||skandio|skandium|skand
-Espan:ia|Espania|dex|ES||Spain||España|||||||||||||Hispanio|Espanja|Hiszpania
-espan.fon:i|espanfoni||||hispanophone (Spanish speaking)||||||||||||||||espanjaa puhuva|
-esperant:i|esperanti||||Esperanto||Esperanto|||||||||||||Esperanto|esperanto|Esperanto
 Eskot:ia|Eskotia|dex|||Scotland||Escocia||||||||||||||Skotlanti|Szkocja
 eskult:a|eskulta||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
 eskult:e|eskulte||||sculpture (statue)||escultura (estatua)|||||||||||||statuo (skultaĵo)|veistos (patsas)|rzeźba
 eskult:ia|eskultia||||sculpture (art of sculpting)||escultura (arte de escultura)||||||||||||||kuvanveisto|rzeźbiarstwo
 eskult.er:|eskulter|||spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|sculptor|sculpteur|escultor|escultor|скульптор|||||||||||skultisto|kuvanveistäjä|rzeźbiarz
-Est:ia|Estia|dex|EE||Estonia||Estonia|||||||||||||Estonio|Viro (Eesti)|Estonia
+Espan:ia|Espania|dex|ES||Spain||España|||||||||||||Hispanio|Espanja|Hiszpania
+espan.fon:i|espanfoni||||hispanophone (Spanish speaking)||||||||||||||||espanjaa puhuva|
+esperant:i|esperanti||||Esperanto||Esperanto|||||||||||||Esperanto|esperanto|Esperanto
 esponj:e|esponje|biu||eng:sponge, spa:por:esponja, ara:إسفنج (ʾisfanj), fas:اسفنج‎ (esfanj), hin:स्पंज (spanja), jpn:スポンジ (suponji), may:spon, swa:sponji|sponge|éponge|esponja|esponja|губка||海绵|スポンジ (海綿)|||||||||sienieläin|gąbka
 esport:e|esporte|||eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|sport (athletics)|sport|deporte|esporte|спорт||||||स्पोर्ट|||spoti|spor|sporto|urheilu|sport, lekkoatletyka
 esport.er:|esporter||||athlete (sportsman)||deportista||||||||||||||urheilija|hałas
+Est:ia|Estia|dex|EE||Estonia||Estonia|||||||||||||Estonio|Viro (Eesti)|Estonia
 estad:ia|estadia|||fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||estadio (arena)|||||||||||||stadiono (areno)|stadioni (areena)|stadion, arena
 estan:|estan|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin|étain|estaño|estanho|||锡|珍|||||||||tina|cynk
 estas:a|estasa||||hold (stop, detain)||mantener (detener)||||||||||||||seisottaa|zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
@@ -1607,6 +1605,7 @@ jen.grup:e|jengrupe||||generation (cohort)||generación (cohorte)||поколе�
 jen.istan:|jenistan||||birthplace|lieu de naissance|lugar de nacimiento|terra natal|место рождения||出生地|出生地|출생지|nơi sinh (sinh quán)|जन्मस्थान||||doğum yeri|naskiĝejo|syntymäpaikka|
 jen.it:a|jenita||||breed|élever|criar||выращивать|||湧かす||||||||||rozmnażać
 jen.klas:|jenklas||||caste||casta||||||||||||||sääty (kasti)|kasta
+jen.o.loj:ia|jenolojia||||genealogy (study of descent)|généalogie|genealogía|genealogia|генеалогия||系谱学|系譜学|계보학|gia phả học|||genealogi||soy bilimi (jeneoloji)|genealogio|sukututkimus|genealogia
 jen.tip:e|jentipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
 jeng:|jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|fight (war, battle, combat)||pelea (guerra, batalla)|||||戦闘 (格闘)||||||||milito (batalo)|taistelu (sota)|walka, wojna
 jeng:i|jengi||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
@@ -2027,7 +2026,6 @@ l:a|la|prep.|||from (since, because)|de|de (desde)|de|из (от)|مِن|从|-�
 l:e|le|pron.|||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
 l.es:|les|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
 lab:e|labe|||fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|lip||labio|||||||||||||lipo|huuli|warga
-lad:a|lada|||eng:load, deu:laden, pol:ładować, hin:लादना (lādnā)|load (to charge)||cargar||||||||लादना (भरना)||||||ladata|naładować, załadować, obładować, ładować
 lag:e|lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
 Lagos:|Lagos|xefsite|NG||Lagos||||||||||||||||Lagos|
 lai:i|layi|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (arrive)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla (saapua)|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
@@ -2375,8 +2373,8 @@ mikr:i|mikri|||eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイク�
 mikr.o:|mikro*||||micro-||micro-|||||||||||||mikro-|mikro-|mikro-
 mikr.o.biu:|mikrobiu||||microorganism (microbe)|microbe|microbio|micróbio|микроб|مِيكْرُوب‎|微生物 |微生物|미생물|vi sinh vật|सूक्ष्मजीव||mikroba||mikrop|mikrobo|mikrobi|mikroorganizm  (mikrob)
 mikr.o.biu.loj:ia|mikrobiulojia||||microbiology|microbiologie|microbiología|microbiologia|микробиология||微生物学|微生物学|미생물학|vi sinh vật học||||||mikrobiologio|mikrobiologia|mikrobiologia
+Mikr.o.nes:ia|Mikronesia|dex|FM||Micronesia||Micronesia||||||||||||||Mikronesia|Mikronezja
 mikr.oskop:e|mikroskope||||microscope|microscope|microscopio|microscópio|микроскоп|مِجْهَر‎|显微镜|顕微鏡 (マイクロスコープ)|현미경|kính hiển vi|ख़ुर्दबीन|অণুবীক্ষণযন্ত্র|mikroskop|hadubini|mikroskop|mikroskopo|mikroskooppi|mikroskop
-Mikrones:ia|Mikronesia|dex|FM||Micronesia||Micronesia||||||||||||||Mikronesia|Mikronezja
 mili:|mili*|numbe|||milli-||mili-|||||||||||||mili-|milli-|mili-
 mili.gram:|miligram|unomete|mg||milligram||miligrama||||||||||||||milligramma|miligram
 mili.mitr:e|milimitre|unomete|mm||millimeter||milimetre|||||||||||||milimetro|millimetri|milimetr
@@ -2503,6 +2501,8 @@ n:e|ne||||none||||||||||||||||ei mitään|
 n:o|no|||eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|not (no)|non (ne...pas)|no|não|нет (не)||不|いいえ|||नहीं|না|tidak|||ne|ei|nie
 nab:e|nabe||||prophecy||profecía|||||||||||||profetaĵo|profetia|proroctwo
 nab.er:|naber|||ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|prophet||profeta||||||||||||||profeetta|prorok
+nadir:i|nadiri|||ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)|rare (scarce, uncommon)|rare|raro|raro|редкий|نَادِر‎||||hiếm|दुर्लभ (नायाब, नादिर)|||chache (nadra)|seyrek (nadir)|malofta|harvinainen|
+nadir:o|nadiro||||seldom (rarely)|rarement|raramente|raramente|редко|نَادِرًا‎|很少|||||||||malofte|harvoin|rzadko
 nafas:|nafas|||ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|breath||respiración|||||||||||||spiro|hengitys (henkäys)|oddech
 nagr:e|nagre|||hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|town||pueblo|||||||||||||urbo|kaupunki|miasto
 nagr:i|nagri||||urban||urbano|||||||||||||urba|urbaani (kaupunkilais-)|miejski
@@ -2754,12 +2754,13 @@ papai:|papai|biu||eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:п�
 papir:|papir|||deu:Papier, eng:paper, spa:por:papel, fra:pol:papier|document (paper)||artículo (documento)|||||||||||||||dokument
 Papua: Nou:i Gin:ia|Papua Novi Ginia|dex|PG||Papua New Guinea||Papúa Nueva Guinea||||||||||||||Papua Uusi-Guinea|Papua Nowa Gwinea
 par:|par||||level|niveau|nivel|nivel|уровень|مستوى|水平||||||||seviye|nivelo|taso|
-par:a|para||||equalize (even out)||||||||||||||||tasoittaa (tasata)|
+par:a|para||||equalize (balance, even out)||||||||||||||||tasoittaa (tasata)|
 par:i|pari|||eng:peer, fra:pair,  spa:por:par, deu:Pere, hin:बराबर (barābar), fas:urd: برابر‎ (barâbar)|even (level, peer, equal)|pair (pareil, egal)|equilibrado (par)|igual (par)|равный||||||बराबर||||||tasainen (tasavertainen, olla yhtä kuin)|równy
 par:i numb:e|pari numbe||||even number|nombre pair|número par||чётное число||偶数|偶数|짝수||||||çift sayı|para nombro|parillinen luku|
-par.ik:e|parike||||peer||equilibrado (par)||||||||||||||vertainen|równy
+par.ik:e|parike||||peer||equilibrado (par)|par|ровня||同辈|同輩|||||||||vertainen|równy
 par.lin:i|parlini||||parallel (longitudinal)||paralelo||параллельный|||並行||||||||||równoległy (podłużny)
 par.lin:u|parlinu||||align (go along)||alinear|||||||||||||||iść wzdłuż (pójść wzdłuż)
+par.uez:ia|parvezia||||equilibrium (balance)|équilibre|equilibrio|equilíbrio|равновесие (баланс)|تَوَازُن‎|平衡|均衡 (平衡)|평형|sự thăng bằng|संतुलन||keseimbangan||denge|ekvilibro|tasapaino|równowaga
 Paraguai:|Paraguai|dex|PY||Paraguay||Paraguay||||||||||||||Paraguai|Paragwaj
 parai:|parai|||hin:पराया (parāyā), eng:pariah, rus:пария (pariya), spa:paria|outcast (pariah)||paria||||||||||||||hylkiö (paaria)|wyrzutek
 parai:a|paraya||||despise (scorn)||despreciar (desdeñar)||||||||||||||halveksia (hyljeksiä)|gardzić (pogardzać)
@@ -2774,12 +2775,14 @@ Paris:|Paris|xefsite|FR||Paris|Paris|||||||||||||||Pariisi|Paryż
 park:e|parke|||eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|park (garden)|parc|parque|parque|парк||园||||पार्क|||||parko (ĝardeno)|tarha (puisto)|park (ogród)
 parn:e|parne|||eng:fern, rus:папоротник (paporotnik), hin:फर्न (pharna), ben:ফার্ন (phārna)|fern|fougères|helecho|samambaia|папоротник||蕨|羊歯|||फर्न||paku pakis|mkangaga||||paproć
 part:a|parta||||participate (attend, partake, take part)||participar|||||||||||||partopreni|osallistua|uczestniczyć, wziąć udział, brać udział
-part:ia|partia|||eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|party (group)||partido (grupo)|||||||||||||partio|osapuoli|partia
+part:ia|partia|||eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|party (group)||partido (grupo)|||||||||||||partio|osapuoli (puolue)|partia
 part.er:|parter||||participant||participante||||||||||||||osallistuja|uczestnik
 pas:|pas|||eng:past, spa:pasado, por:passado, fra: passé|past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
-pas:i|pasi||||pass (go by, go past, bygone)||pasar|||||||||||||pasinta|kuluttaa aikaa (mennyt)|minąć, mijać, przeminąć, przemijać, przeszły, miniony
-pas:o|paso||||past (by, before, in the past)||haber (en el pasado)|||||||||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|poprzednio (przedtem)
+pas:i|pasa||||pass (go across or through, go past, bygone)|passer|pasar||||過|||||||||pasi|mennä ohi tai läpi (ohitettu, mennyt)|minąć, mijać, przeminąć, przemijać, przeszły, miniony
+pas:o|paso||||before (in the past, by, past)||haber (en el pasado)|||||||||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|poprzednio (przedtem)
+pas.dau:|pasdau||||pass (passage)|passe (passage)|paso (pasaje)|passagem||||||đèo|||||||sola (läpikulku)|
 pas.iu:i|pasivi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
+pas.log:e|pasloge||||password|mot de passe|contraseña|palavra-passe (senha)|пароль||密码|パスワード|암호 (패스워드)||पासवर्ड|পাসওয়ার্ড|kata sandi (kata laluan)||parola||tunnussana|
 pas.port:e|pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 pask:e|paske||||Easter||Pascua||||||||||||||pääsiäinen|Wielkanoc
 paskal:|paskal|unomete|Pa||pascal (Pa)||pascal (Pa)||||||||||||||pascal (Pa)|paskal (Pa)
@@ -3100,6 +3103,8 @@ riu.un:ia|rivunia||||fusion (amalgamation)||fusión||||||||||||||fuusio (yhteens
 riu.un:u|rivunu||||merge (fuse)||fusionar (fundir)||||||||||||||sulaa yhteen (fuusioitua)|łączyć (złączyć)
 robot:e|robote|||eng:fra:spa:tur:may:robot, por:robô, rus:робот (robot), ara:رُوبُوت‎ (rōbōt), fas:روبات‎ (rōbât), hin:रोबोट (rōbōṭ), tam:ரோபோ (rōpō), jpn:ロボット (robotto), kor:로봇 (robot)|robot (bot)|robot|robot (bot)|robô|робот|||||||||||roboto|robotti|robot
 rod.em:|rodem|mate|Rh||rhodium||rodio|||||||||||||rodio|rhodium|rod
+rok:a|roka|||eng:fra:spa:por:rock, rus:рок (rok), hin:रॉक (rŏk), ben:রক (rôk), jpn:ロック (rokku), kor:록 (rok), ara: رُوك‎ (rūk)|rock (sway, tilt)|secouer|||качать||||||||||||keinuttaa (keikuttaa)|
+rok.o.muz.ik:e|rokomuzike||||rock music|rock|rock|rock|рок|مُوسِيقَى اَلرُّوك‎|摇滚乐|ロック|록||रॉक संगीत|রক|||rock||rokki (rock)|rock
 roket:e|rokete|||eng:rocket, deu:Rokete, rus:ракета (raketa), tur:may:roket, swa:roketi, fas:راکت‎ (râket), hin:राकेट (rākeṭ), ben:রকেট (rôkeṭ), jpn:ロケット (roketto), kor:로켓 (roket)|rocket||cohete (misil)||||||||||||||raketti|rakieta
 roket.o.lanc.er:|roketolancer||||rocket launcher|Lance-roquettes|lanzamisiles|lançador de foguetes|ракетная установка||火箭筒|ロケット発射器|||||||||sinko (raketinheitin)|wyrzutnia rakietowa
 rol:|rol|||eng:role, fra:rôle, deu:Rolle, rus:роль (rol’), tur:rol, kat:როლი (roli), fas:رل‎ (rol)|role||papel||||||||||||||rooli (osa)|rola
@@ -3182,10 +3187,10 @@ said:a pex:|saida pex||||catch fish||pescar|||||||||||||||łapać rybę
 said:e|saide|||ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)|hunting (fishing)||||||狩猎|狩り (狩猟)||||||||ĉasado|pyynti (metsästys, kalastus)|polowanie (łowienie)
 said.er:|saider||||hunter||cazador|||صياد‎|狩人|||||||||ĉasisto|pyytäjä (metsästäjä, kalastaja)|łowca (myśliwy)
 sak:e|sake|||deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|bag (sack)|sac|saco|saco|||||||||||||pussi (säkki, kassi, laukku)|torba, wór, worek, torba, sakwa
-sal:|sal|||eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|salt|sel|sal|sal|соль||盐|塩|소금 (염)|muối (diêm)|नमक|নুন|garam||tuz|salo|suola|sól
-sal:i|sali||||salty (saline)||salino|salino||||||||||||sala|suolainen|słony
+sal:i|sali|||fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
+sal:ia|salia||||health|santé|salud|saúde|||健康|健康||||||siha|||terveys|zdrowie
 salad:e|salade|||fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|salad||ensalada||||||||||||||salaatti|sałatka
-salam: (salam:i)|salam (salami)||||good (in greetings)||buen (hola)|||||||||||||bona (en salutoj)|hyvä (tervehdyksissä)|dobry ...
+salam: (salam:i)|salam (salami)||||good (prosperous; used in greetings)||buen (hola)|||||||||||||bona (en salutoj)|hyvä (tervehdyksissä)|dobry ...
 salam: cut:e|salam cute||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
 salam: den:|salam den||||Good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
 salam: iam:|salam yam||||bon appetit!||buen provecho|||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
@@ -3194,8 +3199,11 @@ salam: suar:|salam suar||||Good evening||buenas noches|||||||||||||Bonan vespero
 salam: sub:e|salam sube||||Good morning||buenos días|||||||||||||Bonan matenon!|Huomenta!|dobry ranek
 salam:a|salama||||greet||saludar|||||||||||||saluti|tervehtiä|pozdrowić, pozdrawiać
 salam:e|salame|||ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|greeting (hello)|salut (salam)|saludo|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluto|tervehdys (terve!)|pozdrowienie
+salam:ia|salamia||||well-being (prosperity)|bien-être|bienestar|bem-estar|благосостояние||福利 (福祉)|福利 (福祉)|복리 (복지)||||||||hyvinvointi|
 salmon:|salmon|biu||eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|salmon (trout)|truite|salmón (trucha)|||||鮭鱒|||||ikan salmon (ikan trout)|samoni||||łosoś (pstrąg)
 Salon:|Salon|dex|SL||Sierra Leone||Sierra Leona||||||||||||||Sierra Leone|Sierra Leone
+salt:e|salte|||eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|salt|sel|sal|sal|соль||盐|塩|소금 (염)|muối (diêm)|नमक|নুন|garam||tuz|salo|suola|sól
+salt:i|salti||||salty (saline)||salino|salino||||||||||||sala|suolainen|słony
 Saluador:|Salvador|dex|SV||El Salvador||El Salvador||||||||||||||El Salvador|Salwador
 sam:i|sami|||eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|same (equal, match, resemble)|égal (même)|equal (similar)|igual (parecerse a)|||一样||||समान||sama|sawa|aynı|sama|sama (yhtäläinen)|taki sam, podobnym, jak
 sam.dex:i|samdexi||||compatriot||compatriota|||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
@@ -3302,8 +3310,6 @@ sif:a|sifa||||qualify (describe)||definir||||||||||||||määritellä (luonnehtia
 sif:i|sifi||||descriptive||descriptivo||||||||||||||kuvaileva (määrittelevä)|opisowy
 sif.log:e|sifloge||||adjective|adjectif|adjetivo|adjetivo|прилагательное|صفة|形容词|形容詞|형용사|tính từ (hình dung từ)|बिशेषण|বিশেষণ|kata sifat|kuvumishi (sifa)|sifat|adjektivo|adjektiivi (laatusana)|przymiotnik
 sigar:|sigar|||tur:sigara, amh:ሲጃራ (siǧara), ara:(sījāra), eng:cigar(ette), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá)|cigarette (cigar)||cigarro||||||||||||||savuke tai sikari|papieros (cygar)
-sih:|sih|||ara:صحة (siha), swa:siha, hin:सेहत (sehata), may:sihat, tur:sıhhat|health|santé|salud|saúde|||健康|健康||||||siha|||terveys|zdrowie
-sih:i|sihi||||healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
 siiah:i|siyahi|rang||fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|black|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny
 sik.ist:e|sikiste||||Sikh||sij||||||||||||||sikhi|sikh
 sik.ist:ia|sikistia||||Sikhism||sijismo||||||||||||||sikhiläisyys|sikhizm
@@ -3707,6 +3713,10 @@ uest:e|veste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)
 uest:i|vesti||||western||occidental||||||||||||||läntinen|zachodni
 uest.o.dong:ia|vestodongia||||longitude||longitud|||||||||||||||długość geograficzna
 uest.o.goril:|vestogoril||||western gorilla||gorila occidental||западная горилла|||ニシゴリラ||||||||||goryl zachodni
+uez:i|vezi||||heavy|lourd|pesado|pesado|тяжёлый||重型的||||भारी||berat||ağır|peza|painava|ciężki (masywny)
+uez:ia|vezia|||ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|weight (heft, gravity)|poids (lourdeur, gravité)|peso (gravedad)||||||||भार (वज़न)|ওজন|uzani||ağırlık|pezo|paino|waga (ciężkość)
+uez:u|vezu||||weigh (have weight)|peser|pesar|pesar|весить||||||||||||painaa (olla jkn painoinen)|ważyć
+uez.o.metr.er:|vezometrer||||scales (weighing device)|balance (poids)|pesa (báscula, balanza)||||||||||||||vaaka (puntari)|waga (urządzenie ważące)
 uid:a|vida|||rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|look (see)|voir|ver (mirar)|ver|видеть||看|||||||||vidi (rigardi)|nähdä|patrzeć, widzieć
 uid:e|vide||||view (vision)||vista (visión)||||||||||||||näkymä|widok, wzrok
 uid:u|vidu||||be seen||ser visto||||||||||||||näkyä|być widzianym
