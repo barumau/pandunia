@@ -533,7 +533,7 @@ cel.o.loj:ia|celolojia||||cytology|cytologie|citología|citologia|цитолог
 celsius: darj:e|celsius darje|unomete|°C||degree Celsius||grado Celsius||||||||||||||celsiusaste|stopień Celsjusza
 cen:a|cena||||predate (be before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (olla ennen)|poprzedzić, poprzedzać
 cen:i|ceni||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
-cen:o|ceno|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before)|avant|más temprano (antes)||раньше||以前|以前 (前に)|전에||||||||ennen (aiemmin)|wcześniej (uprzednio)
+cen:o|ceno|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before, in the past)|avant|más temprano (antes, haber, en el pasado)||раньше||以前|以前 (前に)|전에|||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|wcześniej (uprzednio, poprzednio, przedtem)
 cen.ag:a|cenaga||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
 cen.den:o|cendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 cen.fiks:e|cenfikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
@@ -542,6 +542,7 @@ cen.ik:e|cenike||||relic||reliquia|||||||||||||||relikwia
 cen.ik:i|ceniki||||old (ancient, former)|vieux (ancien)|viejo (antiguo)|velho (antigo)|старый (древний)||古老 (以前)|古い|||पुराना|পুৰণা|||eski (kadim)|malnova|vanha (muinainen)|stary, starożytny
 cen.uid:a|cenvida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 cen.uid:i|cenvidi||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
+cen.sat:e|censate||||past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
 ceng:|ceng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
 centaur:|centaur|biu|Centaurea|eng:centaury, por:centáurea||Centaurée||centáurea|василёк|||||||||||||chaber
 centi:|centi*|numbe|||centi- (per cent)||centi- (por ciento)|||||||||||||centono|sentti|centy-, procent, na sto, setna część
@@ -2022,11 +2023,8 @@ l.es:|les|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
 lab:e|labe|||fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|lip||labio|||||||||||||lipo|huuli|warga
 lag:e|lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
 Lagos:|Lagos|xefsite|NG||Lagos||||||||||||||||Lagos|
-lai:|lai||||arrival (approach)||llegada (arribo)|||||||||||||||
 lai:a|laya|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (arrive)|venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla (saapua)|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
-lai:o|layo||||will (in future)||ir a (en el futuro)|||||||||||||estonte|tuleva|w przyszłości
 lai.an:a|layana||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
-lai.sate:|laisate||||future time||futuro|||||||||||||estonoteco|tulevaisuus|przyszłość
 laj:e|laje|||zho:垃圾 (lājī)|garbage (rubbish, trash)|ordures|basura (desechos)|refugo (escória)|мусор (дрянь)||废物 (垃圾)|ゴミ (廃棄物)|||kadha, kachara||sampah|takataka|çöp|rubo|roska|śmieć, odpadek
 lak:e|lake|||eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|lacquer (varnish)||laca||||||||||||||lakka|lakier
 lal:i|lali|rang||hin:लाल (lāl), ben:লাল (lal), tur:al|red|rouge|rojo|vermelho|красный|أَحْمَر|红|赤い|빨갛다|đỏ|लाल|লাল|merah|nyekundu|kırmızı (al)|ruĝa|punainen|czerwony
@@ -2204,7 +2202,7 @@ Maiot:e|Mayote|dex|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 mais:|mais|||eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|corn (maize)||maíz||||||||||||||maissi|kukurydza
 maitner.em:|maitnerem|mate|Mt||meitnerium||meitnerio|||||||||||||mejtnerio|meitnerium|meitner
 majent:i|majenti|||eng:magenta, spa:magenta, rus:маджента (madzhenta), ara:ماجنتي (majinati), hin:मैजेंटा (maijenta), jpn:マゼンタ (mazenta), may:magenta|magenta (fuchsia)||magenta (fucsia)||маджента (фуксия)|||マゼンタ (紅紫色)||||||||||magenta
-makah:|makah||||Mecca|||||مكَة||||||||||||Mekka
+Makah:|Makah||||Mecca|||||مكَة||||||||||||Mekka
 makal:|makal|||ara:مَقَال‎ (maqāl), tur:makale, swa:makala, fas:مقاله‎ (maqâle), may:makalah|article (writing)||artículo (texto)||||||||||||||artikkeli (kirjoitus)|artykuł, tekst
 makan:|makan|||hin:मक्खन (makkhan), ben:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), mar:माखण (mākhaṇ), guj:માખણ (mākhaṇ)|butter||mantequilla||||||||||||||voi|masło
 makan.ful:|makanful|biu|Taraxacum officinale||dandelion|dandélion|dientes de león (panaderos)|dente-de-leão (taráxaco)|одуванчик||蒲公英|タンポポ||||||||||mlecz
@@ -2782,13 +2780,11 @@ parn:e|parne|||eng:fern, rus:папоротник (paporotnik), hin:फर्न
 part:a|parta||||participate (attend, partake, take part)||participar|||||||||||||partopreni|osallistua|uczestniczyć, wziąć udział, brać udział
 part:ia|partia|||eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|party (group)||partido (grupo)|||||||||||||partio|osapuoli (puolue)|partia
 part.er:|parter||||participant||participante||||||||||||||osallistuja|uczestnik
-pas:a|pasa||||pass (go by, go past)|passer|pasar||||過|||||||||pasi|mennä ohi tai läpi|minąć, mijać, przeminąć, przemijać
-pas:i|pasi|||eng:past, spa:pasado, por:passado, fra: passé|past (bygone)||anterior (remoto)|||||||||||||pasinta|ohitettu (mennyt)|przeszły, miniony
-pas:o|paso||||before (in the past)||haber (en el pasado)|||||||||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|poprzednio (przedtem)
+pas:a|pasa|||eng:past, spa:pasado, por:passado, fra: passé|pass (go across or through)|passer|pasar||||過|||||||||pasi|mennä ohi tai läpi|minąć, mijać, przeminąć, przemijać
+pas:i|pasi||||past (bygone)||anterior (remoto)|||||||||||||pasinta|ohitettu (mennyt)|przeszły, miniony
 pas.dau:|pasdau||||pass (passage)|passe (passage)|paso (pasaje)|passagem||||||đèo|||||||sola (läpikulku)|
 pas.iu:i|pasivi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
 pas.log:e|pasloge||||password|mot de passe|contraseña|palavra-passe (senha)|пароль||密码|パスワード|암호 (패스워드)||पासवर्ड|পাসওয়ার্ড|kata sandi (kata laluan)||parola||tunnussana|
-pas.o.sat:e|pasosate||||past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
 pas.port:e|pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 pask:e|paske||||Easter||Pascua||||||||||||||pääsiäinen|Wielkanoc
 paskal:|paskal|unomete|Pa||pascal (Pa)||pascal (Pa)||||||||||||||pascal (Pa)|paskal (Pa)
@@ -2944,9 +2940,10 @@ portugal.fon:i|portugalfoni||||lusophone (Portuguese speaking)||||||||||||||||po
 pos|pos|||eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-)|consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
 pos:a|posa||||follow (come after)|suivre|seguir|||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
 pos:i|posi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
-pos:o|poso||||later (after)|ensuite (après, plus tard)|más tarde||после||||||||||||myöhemmin|później
+pos:o|poso||||later (after, will, in the future)|ensuite (après, plus tard, ir a, en el futuro)|más tarde||после|||||||||||estonte|myöhemmin (tuleva)|później (w przyszłości)
 pos.den:o|posdeno||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
 pos.fiks:e|posfikse||||suffix|suffixe|sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
+pos.o.sat:e|pososate||||future time||futuro|||||||||||||estonoteco|tulevaisuus|przyszłość
 pos.poz:a|pospoza||||put back (postpone)||||||||||||||||siirtää taakse|
 pos.tr:i|postri||||backward (posterior)|postérieur|posterior|posterior|||||||||||||myöhempi (takainen)|
 pospor:|pospor|mate|P||phosphorus||fósforo|||||||||||||fosforo|fosfor|fosfor
@@ -3176,8 +3173,6 @@ sad:o|sado||||simply (merely, only)||||||||||||||||vain (pelkästään)|
 saf:a|safa||||clean (purify)||limpiar|||||||||||||purigi|puhdistaa (siivota)|wyczyścić, czyścić
 saf:i|safi|||swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|clean (pure)||limpio||||||||साफ़|||||pura|puhdas (siivo, siisti)|czysty
 saf.er:|safer||||cleaner||limpiador|||||||||||||purigisto|siivooja|sprzątacz, sprzątacz
-saf.sih:i|safsihi||||cleanly (hygienic, sanitary)||higiénico||гигиеничный|||清潔|||||||||hygieeninen|czysty (higieniczny, sanitarny)
-saf.sih:ia|safsihia||||hygiene (sanitation, cleanliness)|hygiène|higiene|higiene|гигиена|||衛生|||||||hijyen||hygienia (puhtaus)|higiena
 safar:|safar|||ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:safari|travel (voyage, trip)||viaje||||旅行||||यात्रा (सफ़र)|||||vojaĝo|matka (reissu)|podróż
 safar:a|safara||||travel||viajar|||||||||||||vojaĝi|matkustaa|podróżować
 safar.er:|safarer||||traveler||viajero|||||||||||||vojaĝanto|matkailija|podróżnik
@@ -3197,6 +3192,8 @@ said.er:|saider||||hunter||cazador|||صياد‎|狩人|||||||||ĉasisto|pyytäj
 sak:e|sake|||deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|bag (sack)|sac|saco|saco|||||||||||||pussi (säkki, kassi, laukku)|torba, wór, worek, torba, sakwa
 sal:i|sali|||fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
 sal:ia|salia||||health|santé|salud|saúde|||健康|健康||||||siha|||terveys|zdrowie
+sal.saf:i|salsafi||||cleanly (hygienic, sanitary)||||||||||||||||hygieeninen|czysty (higieniczny, sanitarny)
+sal.saf:ia|salsafia||||hygiene (cleanliness)|hygiène|higiene|higiene|гигиена||||||||||hijyen||hygienia (puhtaus)|higiena
 salad:e|salade|||fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|salad||ensalada||||||||||||||salaatti|sałatka
 salam: (salam:i)|salam (salami)||||good (prosperous; used in greetings)||buen (hola)|||||||||||||bona (en salutoj)|hyvä (tervehdyksissä)|dobry ...
 salam: cut:e|salam cute||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
@@ -3253,7 +3250,7 @@ sapat.o.kan:|sapatokan||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suu
 sar:|sar|bode||fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|head|tête|cabeza|cabeça|голова|رَأْس|头|頭|머리|đầu|सिर|মাথা|kepala|kichwa|baç (kafa)||pää|głowa
 sar.kask:e|sarkaske||||helmet||casco (yelmo)|||||||||||||kasko|kypärä|hełm
 sar.ost:e|saroste|bode|||skull||cráneo (calavera)||||||||||||||pääkallo|czaszka
-sat:e|sate|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|time (moment, while, period)||tiempo (momento, periodo)||время|سَاعَة‎||時 (時間, 時期)|||समय (वक़्त)||saat|saa|saat||hetki (kotva)|moment
+sat:e|sate|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|moment (while, short time)||momento (tiempo)|||سَاعَة‎|||||||saat|saa|saat||hetki (kotva)|moment
 sat.o.don:a|satodona||||dedicate (devote)||dedicar|||||||||||||||dedykować (poświęcać, poświęcić)
 sat.o.don:ia|satodonia||||dedication (devotion)|||||||||||||||||dedykacja (poświęcenie)
 Saturn:e|Saturne|planete 6|||Saturn|Saturne|Saturno|Saturno|Сатурн|زحل|土星|土星|||||||Satürn||Saturnus|Saturn
@@ -3906,7 +3903,7 @@ xux:a|xuxa||||silence (make silent)|||||||||||||||silentigi|hiljentää|uciszyć
 xux:i|xuxi||||silent||silencioso||тихий|||||||||||silenta|hiljainen|cichy
 xux:o|xuxo|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)||chito (chist)||||噓|しーっ|쉿|suỵt|||||||hiljaa (hys, shhh)|ćsi
 Z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
-zai:|zai||||present (here, now)||actualidad|||||||||||||||
+zai:|zai||||present (here, now, current situation)||actualidad|||||||||||||||
 zai:a|zaya||||summon (add, spawn)||generar (añadir)|||||||||||||||wzywać (wezwać, dodawać, dodać)
 zai:i|zayi|||zho:在 (zài), jpn:在 (zai), vie:tại|present (current, existing)||actual|||||||||||||ĉeestanta (nuna, ekzistanta)|kuluva (tämänhetkinen)|obecny, teraźniejszy, aktualny, bieżący, współczesny
 zai:ia|zayia||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
