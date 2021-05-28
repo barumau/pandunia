@@ -27,7 +27,7 @@ This document is a simple guide to the main features of Pandunia.
 | s | /s/ |
 | t | /tʰ/ |
 | u | /u/ |
-| w | /w\~ʋ\~v/ |
+| v | /w\~ʋ\~v/ |
 | x | /ʃ/ |
 | y | /j/ |
 | z | /z~dz/ |
