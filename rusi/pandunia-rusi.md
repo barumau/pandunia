@@ -94,6 +94,7 @@ atlantosalmon - Атлантический лосось (сёмга)
 avar - повреждение (авария)  
 aven - овёс  
 aur - золото (аурум)  
+Austronesia - Австронезия  
 autologe - монолог  
 ####B - B  
 babe - глава  
@@ -106,8 +107,6 @@ bagroselote - онцилла
 baki - белый  
 bakomargarite - нивяник обыкновенный (ромашка)  
 bakosalmon - кета  
-bali - восемь (8)  
-balsenter - спрут (осьминог)  
 balonpex - иглобрюховые  
 balute - дуб  
 bamye - окра (бамия)  
@@ -136,6 +135,8 @@ barxomosim - муссон
 basi - достаточно (довольно)  
 basen - бассейн  
 baskobol - баскетбол  
+bati - восемь (8)  
+batosenter - спрут (осьминог)  
 baton - штанга  
 batonkapse - клетка  
 batre - батарея  
@@ -217,6 +218,8 @@ cendeno - вчера
 ceniki - старый (древний)  
 centaur - василёк  
 cerize - черешня  
+ceti - семь (7)  
+cetyom - воскресенье  
 cili\* - перец (паприка)  
 cini - хань  
 cinmai - бабушка  
@@ -383,6 +386,7 @@ Galia - Галлия
 galaksia - галактика  
 galope - кентер и галоп  
 gancau - сено  
+ganse - гусь  
 ganum - пшеница  
 garmomosim - лето  
 garmozon - тропик  
@@ -670,6 +674,7 @@ kuxa - положить  (уложить)
 kuxu - лежать  
 ####L - L  
 la - из (от)  
+lesi - их  
 laya - приходить  
 layana - приносить  
 laje - мусор (дрянь)  
@@ -736,6 +741,7 @@ luter - грабитель
 ####M - M  
 me - я  
 mes - мы  
+mesi - наш  
 magesem - магний  
 Magribia - Марокко  
 mai - мать (мама)  
@@ -845,6 +851,12 @@ nautil - наутилид
 nefre - почка  
 nefte - масло  
 Neputun - Нептун  
+neu - новинка (новь)  
+nevi - новый  
+nevia - новизна  
+nevike - новичок  
+neujeni - новорождённый  
+neuloge - неологизм  
 neurcel - нейрон  
 nide - гнездо (улей)  
 nili - синий (голубой)  
@@ -858,8 +870,7 @@ nomia - организация
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
-novi - новый  
-novike - новичок  
+novi - девять (9)  
 numbe - число  
 ####O - O  
 o - или  
@@ -956,6 +967,7 @@ platogeviste - плоскоземелец
 plum - слива  
 polbaxi - многоязычный  
 polmaro - часто  
+Polnesia - Полинезия  
 polau - плов  
 politer - управляющий  
 pontopin - компас  
@@ -1040,7 +1052,7 @@ sammetri - симметричный
 sammetria - симметрия  
 samrayia - согласие  
 samsifia - симуляция  
-san - три (3)  
+sani - три (3)  
 sanyom - среда  
 sanzong - трезубец  
 sanduice - сандвич  
@@ -1062,14 +1074,13 @@ selge - мангольд
 sem - семя  
 semi - семенной  
 semente - цемент  
-sen - сцена  
+sen - возраст  
+senater - сенатор  
 sense - чувство  
 senter - щупальце  
 ser - пила  
 seram - керамика  
 sesam - сезам  
-seti - семь (7)  
-setyom - воскресенье  
 siani - циан  
 siborgem - сиборгий  
 sida - сидеть  
@@ -1098,6 +1109,7 @@ sol - солнце
 solcate - зонтик от солнца  
 solful - подсолнечный  
 somu - спать  
+somivi - сонный  
 somkamar - спальня  
 sompapil - мак снотворный  
 song - сосна  
@@ -1128,8 +1140,10 @@ sundardake - украшение
 susan - лилия  
 ####T - T  
 te - ты  
+tesi - ваш  
 table - плита  
 tablokomputer - планшетный компьютер  
+tai - сцена (подмостки, эстрада)  
 tail - черепи́ца  
 taksometrer - таксометр  
 tali moke - куст  
@@ -1169,7 +1183,6 @@ tira pil - ободрать
 tirbaton - рычаг  
 tirlonga - вытянуть  
 tiroriu - отбойное течение  
-tixi - девять (9)  
 toca - касаться  
 toksolojia - токсикология  
 tomate - помидор (томат)  
@@ -1215,13 +1228,13 @@ vidopunte - перспектива (точки зрения)
 vidou - вдова  
 viyoleti - фиолетовый (пурпурный)  
 vinkan - винном заводе  
+virje - девственник  
 virus - вирус  
 viruslojia - вирусология  
 vismai - мачеха  
 vispai - отчим  
 visrajer - вице-король  
 vize - виза  
-umur - возраст  
 un (uni) - один (1)  
 uniki - единственный (уникальный)  
 uniko - только (единственно)  

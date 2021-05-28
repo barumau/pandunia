@@ -98,6 +98,7 @@ Atenas - Atina
 ativo - ativi  
 ato - ate  
 até - hata  
+Austronésia - Austronesia  
 aveia - aven  
 aventura - ventur  
 aventureiro - venturer  
@@ -338,7 +339,7 @@ dióxido de carbono - karbodulokside
 documento - dokum  
 documentário - dokumfilme  
 dois (2) - duli  
-domingo - setyom  
+domingo - cetyom  
 doméstico - domi  
 dormir - somu  
 ducha - dux  
@@ -407,6 +408,7 @@ estar deitado (jazer) - kuxu
 estação (sazão) - mosim  
 este (leste) - dong  
 estirar - tirlonga  
+estrado - tai  
 estudante - estuder  
 estudar (examinar) - estuda  
 etimologia - logaslia  
@@ -472,6 +474,7 @@ galope - galope
 galáxia - galaksia  
 gamão - narde  
 gancho - huke  
+ganso - ganse  
 garrafa (botelha) - botel  
 gato - mau  
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
@@ -524,7 +527,8 @@ hélicoptero - helisviman
 hóquei - hoke  
 hóquei no gelo - aishoke  
 ####I - I  
-idade - umur  
+idade - sen  
+idoso (sene) - seni  
 idoso - lavi  
 igual (par) - pari  
 igual - sami  
@@ -724,6 +728,7 @@ necessidade - yau
 necessitado - yavi  
 necessitar - yavu  
 necessário - yavan  
+neologismo - neuloge  
 Netuno - Neputun  
 neurotoxina - neurtokse  
 neurônio - neurcel  
@@ -734,11 +739,14 @@ nivel - par
 noite - noce  
 noitinha - suar  
 norte - norde  
+nosso - mesi  
 nostalgia (saudade) - nostalgia  
 nota - note  
-novato (neófito) - novike  
-nove (9) - tixi  
-novo - novi  
+novato (neófito) - nevike  
+nove (9) - novi  
+novidade - neu  
+novidade - nevia  
+novo - nevi  
 nuvem - mege  
 náusea - retroguli sense  
 não - no  
@@ -755,7 +763,7 @@ oceano - daihai
 ocular - oki  
 ocultar (esconder) - sira  
 ocupado (atarefado) - mangi  
-oito (8) - bali  
+oito (8) - bati  
 oleiro - poter  
 olho - oke  
 onda - onde  
@@ -806,6 +814,7 @@ passagem - pasdau
 passagem de volta - retrotikete  
 passaporte - pasporte  
 pasta - paste  
+pato - bate  
 patologia - patolojia  
 patógeno - patojener  
 pausa - pauze  
@@ -850,8 +859,9 @@ pirâmida - piram
 plano - plan  
 planta (vegetal) - fite  
 plástico - plasti  
+Polinésia - Polnesia  
 poluição - najis  
-polvo - balsenter  
+polvo - batosenter  
 ponta (pico, bico) - pike  
 ponta do dedo - angulpike  
 ponte - pul  
@@ -924,6 +934,7 @@ rasgar - cira
 raça - ras  
 raíz - mul  
 reciclar - reisikla  
+recém-nascido - neujeni  
 refugo (escória) - laje  
 regime - politomode  
 relier (connecter) - linka  
@@ -991,12 +1002,13 @@ selva (floresta, jângal) - jangle
 sem - na  
 semente - sem  
 seminal - semi  
+senador - senater  
 sentido - sense  
 sepultura (túmulo) - gabre  
 ser (estar) - sa  
 ser humano - insan  
 serra - ser  
-sete (7) - seti  
+sete (7) - ceti  
 sexo - jinse  
 sexologia - seksolojia  
 sexta-feira - limyom  
@@ -1015,6 +1027,7 @@ soldado - gunjan
 som - son  
 sombrinha - solcate  
 sono - som  
+sonolento - somivi  
 sorvete (gelado) - aiskrem  
 substância - kim  
 suco (sumo) - jus  
@@ -1075,7 +1088,7 @@ trigo - ganum
 truque (fraude) - truke  
 truta-arco-íris - rangarkosalmon  
 truta-marrom - brunsalmon  
-três (3) - san  
+três (3) - sani  
 trópicos - garmozon  
 tu - te  
 tubarão - xarke  
@@ -1126,6 +1139,7 @@ vice-rei - visrajer
 vida - jiu  
 vidro - kance  
 vir - laya  
+virgem - virje  
 vivo - jivi  
 viúvo - vidou  
 voar - feyu  
@@ -1134,6 +1148,7 @@ vogal - jungofon
 voltar (regressar) - retru  
 vontade - vol  
 voo - fei  
+vosso - tesi  
 votar - vota  
 voto - vote  
 vulcão - hogoxan  

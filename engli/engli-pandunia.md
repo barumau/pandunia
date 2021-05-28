@@ -59,7 +59,8 @@ afrophile - afrikofiler
 Afrophilia - afrikofilia  
 afternoon - suarden  
 again (repeatedly) - reyo  
-age - umur  
+age - sen  
+aged - seni  
 agent (doer, actor) - ater  
 aggressive - agresivi  
 aggressor - agreser  
@@ -236,11 +237,12 @@ attack (assault) - agresa
 attack (assault, aggression, hostility) - agres  
 attraction (-philia) - filia  
 attribute (charasteristic, quality, feature, description, property) - sif  
-August - ballun  
+August - batolun  
 auspicious (promising) - bonsinyi  
 Australia - Australia  
 Australian Aboriginal - aslaustrali  
 Austria - Ostria  
+Austronesia - Austronesia  
 authority (power to give orders) - amirhake  
 autocracy (monarchy) - autokratia  
 autonomous - autonomi  
@@ -986,6 +988,7 @@ disagreement (disconsent) - alrayia
 disc (disk) - diske  
 discrete (digital, quantized) - feni  
 discussion (debate, discourse) - lon  
+disease - pate  
 disfigure - dusforma  
 dish - tas  
 dislike (loathe) - anama  
@@ -1041,6 +1044,7 @@ drinking vessel (cup, glass, mug, goblet, chalice) - kupe
 drive (steer) - xofa  
 drop (droplet) - yote  
 drop (let fall) - pada  
+drowsy - somivi  
 drug (intoxicating substance) - droge  
 drum - gum  
 dry - gani  
@@ -1089,7 +1093,7 @@ egg - ande
 eggplant (aubergine, brinjal) - bedinje  
 Egypt - Misria  
 Egyptian - misri  
-eight (8) - bali  
+eight (8) - bati  
 einsteinium - ainstainem  
 El Salvador - Salvador  
 elastic - lasti  
@@ -1476,6 +1480,7 @@ Good day - salam den
 Good evening - salam suar  
 good luck - boni zar  
 Good morning - salam sube  
+goose - ganse  
 gorilla - goril  
 gospel (divine message) - evanjil  
 government (administration, polity) - polite  
@@ -1693,6 +1698,7 @@ idiot - idiote
 if (suppose, assume) - aga  
 ifrit - ifrite  
 ill (sick) - pati  
+illness (sickness) - patia  
 illusion (hallucination) - falsvide  
 illustrator (graphic artist) - grafer  
 image projector - lancografer  
@@ -1814,13 +1820,13 @@ judicial - judi
 judo - judau  
 jug (jar, pitcher) - jar  
 juice - jus  
-July - setolun  
+July - cetolun  
 jump - jampa  
 June - sislun  
 Jupiter - Jupiter  
 just (exactly, precisely) - justo  
 just (fair, righteous) - adali  
-just (recently) - novo  
+just (recently) - nevo  
 justice - adalia  
 ####K - K  
 kangaroo - kangaru\*  
@@ -2211,7 +2217,7 @@ mixer (blender) - mixer
 model (design) - model  
 model (design) - modela  
 model (similarity, simulation) - samsifia  
-modern - nouyangi  
+modern - neuyangi  
 mold (shape) - plasta  
 Moldova - Moldova  
 mole (burrowing animal) - krote  
@@ -2323,7 +2329,9 @@ needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin
 needy (lacking) - yavi  
 negotiate (arrange) - lona biznes  
 neodymium - neodimem  
+neologism - neuloge  
 neon - neon  
+neophyte plant - neufite  
 Nepal - Nepal  
 nephew or niece - brusben  
 nephritis - nefritis  
@@ -2340,11 +2348,13 @@ neuropathy - neurpatia
 neurotoxin - neurtokse  
 never - nol sate  
 Nevis - Nevis  
-new (recent) - novi  
-New Caledonia - Novi Kaledonia  
-New York - Novi Yorke  
-New York City - Novi Yorke site  
-New Zealand - Novi Zelandia  
+new (recent) - nevi  
+New Caledonia - Nevi Kaledonia  
+New York - Nevi Yorke  
+New York City - Nevi Yorke site  
+New Zealand - Nevi Zelandia  
+newborn - neujeni  
+newness - nevia  
 news - habar  
 newspaper (gazette) - habargazete  
 newton (N) - nuton  
@@ -2359,7 +2369,7 @@ night - noce
 night mode - nocomode  
 nightingale - bulbul  
 nihonium - niponem  
-nine (9) - tixi  
+nine (9) - novi  
 niobium - niobem  
 nitrogen - nitre  
 Niue - Niue  
@@ -2391,9 +2401,9 @@ nothing - nol xei
 notice (notification) - notite  
 notify - notana  
 noun - namloge  
-novelty - nou  
+novelty (new product) - neu  
 November - desunlun  
-novice (newbie) - novike  
+novice (newbie) - nevike  
 nuclear energy - kerni energe  
 nuclear fission - kerni fenia  
 nuclear fusion - kerni darunia  
@@ -2417,7 +2427,7 @@ ocean - daihai
 Oceania - Oceania  
 ocelot - oselote  
 October - deslun  
-octopus - balsenter  
+octopus - batosenter  
 ocular - oki  
 odd (strange, weird) - bizari  
 Odia (Oriya) - odisi  
@@ -2489,6 +2499,7 @@ otter - lontre
 Ottoman - osman  
 Ottoman Empire - Osmani Imperia  
 ouch (ow, alas) - ai  
+our - mesi  
 oust (expel, exclude, except, save) - exa  
 outcast (pariah) - parai  
 outer (external) - exi  
@@ -2721,6 +2732,7 @@ polonium - polskem
 poly- (multi-) - pol-  
 polygon - polgon  
 polyhedron - polfas  
+Polynesia - Polnesia  
 polytheism - poldevistia  
 ponder (think, contemplate, consider, regard) - hema  
 pool (basin, bowl) - basen  
@@ -2780,6 +2792,7 @@ prime minister - xefi minister
 print (stamp) - cape  
 prison (imprisonment) - prizon  
 prison - prizonkan  
+pristine (virginal) - virji  
 privateer (buccaneer) - naukaper  
 problem (issue) - problem  
 problematic - problemi  
@@ -2904,7 +2917,7 @@ remain (stay) - restu
 remember (recall) - mema  
 remove (delete, dispose, erase) - anzaya  
 remove (take away) - kitana  
-renew (make new, renovate) - nova  
+renew (make new, renovate) - neva  
 rent (charter, lease) - kirgeta  
 rent out (let, lease) - kirdona  
 repair (fix) - reibon  
@@ -3113,6 +3126,7 @@ self (reflexive pronoun) - se
 self-moving (automotive, automobile) - automoti  
 sell (vend) - venda  
 seminal - semi  
+senator - senater  
 send (emit, transmit) - misa  
 sender (transmitter) - miser  
 Senegal - Senegal  
@@ -3120,14 +3134,14 @@ sense (method of perception) - sense
 sense (perceive, detect) - sensa  
 sensor (detector) - senser  
 sentence (phrase) - jumle  
-September - tixlun  
+September - novolun  
 Serbia - Serbia  
 series (sequence) - silia  
 servant - server  
 serve (give service) - serva  
 service - serve  
 sesame - sesam  
-seven (7) - seti  
+seven (7) - ceti  
 sew - suta  
 sex (sexual relation) - sekse  
 sexology - seksolojia  
@@ -3176,7 +3190,6 @@ shower - dux
 shrimp (prawn) - krevete  
 Siberia - Sibiria  
 sibling (brother or sister) - brus  
-sickness (illness, disease) - patia  
 side (flank) - late  
 sideways (laterally) - lato  
 Sierra Leone - Salon  
@@ -3318,7 +3331,7 @@ Sranan Tongo - surinami bax
 Sri Lanka (Ceylon) - Lanka  
 stadium (arena) - estadia  
 stage (phase) - faze  
-stage (scene) - sen  
+stage (platform, pedestal, podium) - tai  
 stain (spot) - najisbinde  
 stained glass - rangi kance  
 stairs (ladder) - eskal  
@@ -3405,7 +3418,7 @@ sum up (add together) - suma
 summer - garmomosim  
 summon (add, spawn) - zaya  
 sun - sol  
-Sunday - setyom  
+Sunday - cetyom  
 sunflower - solful  
 superb (wonderful, super) - superi  
 supply (dispense, issue, put out) - fada  
@@ -3530,6 +3543,7 @@ that - ve
 that is (in other words, i.e., alias) - alnamo  
 the Grenadines - Grenadin nesia  
 theft - cor  
+their - lesi  
 theism - devistia  
 theist - deviste  
 theocracy - deukratia  
@@ -3552,7 +3566,7 @@ thorium - torem
 thorn tree (acacia) - babul  
 thought (idea) - fikre  
 thousand (kilo-) - kilo\*  
-three (3) - san  
+three (3) - sani  
 throw (launch) - lanca  
 throw up (vomit, regurgitate) - retrogula  
 thulium - tulem  
@@ -3767,6 +3781,7 @@ village - cun
 vine - eskaltan  
 vinegar - vinsuan  
 vinyl - vinil  
+virgin - virje  
 Virgin Islands, U####S - Virjin nesia  
 virology - viruslojia  
 virtue (morals) - bondeke  
@@ -3827,7 +3842,7 @@ weather - tenhal
 weave - texa  
 website - netoloke  
 Wednesday - sanyom  
-week - yomsete  
+week - yomcete  
 weep (cry) - kuga  
 weft - veilin  
 weigh (have weight) - vezu  
@@ -3925,6 +3940,7 @@ yotta- - yota\*
 you (singular) - te  
 you all - tes  
 young (juvenile) - joveni  
+your - tesi  
 your - ti  
 youth (young age) - jovenia  
 youth (young person) - joven  
@@ -3933,7 +3949,7 @@ yttrium - yutrem
 ####Z - Z  
 Zambia - Zambia  
 zebra - zebre  
-zero (none) - nol (noli)  
+zero (none) - siri  
 zetta- - zeta\*  
 ziggurat - zikur  
 zigzag - zigzage  

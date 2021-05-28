@@ -90,6 +90,7 @@ atlantokade - bacalhau-do-atlântico
 avar - dano (avaria)  
 aven - aveia  
 aur - ouro  
+Austronesia - Austronésia  
 autologe - monólogo  
 ####B - B  
 bace - criança (menino)  
@@ -101,8 +102,6 @@ bai - baía
 baki - branco  
 bakomargarite - margarita-maior  
 bakosalmon - salmão-cão (salmão-keta)  
-bali - oito (8)  
-balsenter - polvo  
 balibali - vários  
 balute - carvalho  
 bamye - quiabo  
@@ -127,6 +126,9 @@ barxomosim - monção
 basi - bastante (suficiente)  
 basen - bacia  
 baskobol - basketball  
+bate - pato  
+bati - oito (8)  
+batosenter - polvo  
 baton - vara (bastão)  
 batonkapse - gaiola (jaula)  
 batre - pilha (bateria)  
@@ -195,6 +197,8 @@ cendeno - ontem
 ceniki - velho (antigo)  
 centaur - centáurea  
 cerize - cereja  
+ceti - sete (7)  
+cetyom - domingo  
 cili\* - cápsico  
 cinbrusben - primo  
 cinmai - avó  
@@ -349,6 +353,7 @@ gammai - sogra
 gampai - sogro  
 gancau - feno  
 gantex - toalha  
+ganse - ganso  
 ganum - trigo  
 garmomosim - verão  
 garmozon - trópicos  
@@ -678,6 +683,7 @@ luter - ladrão
 ####M - M  
 me - eu (me)  
 mes - nós  
+mesi - nosso  
 mafa - perdoar (desculpar)  
 magesem - magnésio  
 Magribia - Marrocos  
@@ -779,6 +785,12 @@ nautil - nautiloide
 nefre - rim  
 nefte - aeite (óleo)  
 Neputun - Netuno  
+neu - novidade  
+nevi - novo  
+nevia - novidade  
+nevike - novato (neófito)  
+neujeni - recém-nascido  
+neuloge - neologismo  
 neurcel - neurônio  
 neurtokse - neurotoxina  
 nide - ninho (vespiero)  
@@ -791,8 +803,7 @@ noma - organizar
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note - nota  
-novi - novo  
-novike - novato (neófito)  
+novi - nove (9)  
 numbe - número  
 ####O - O  
 o - ou  
@@ -883,6 +894,7 @@ plati geukaskia - tectónica de placas
 platogeviste - terraplanista  
 plum - ameixa  
 polbaxi - multilíngue (plurilíngue)  
+Polnesia - Polinésia  
 polite - governo  
 politer - administrador  
 politomode - regime  
@@ -960,7 +972,7 @@ sammetri - simétrico
 sammetria - simetria  
 samrayia - acordo  
 samsifia - simulação  
-san - três (3)  
+sani - três (3)  
 sanyom - quarta-feira  
 sanduice - sanduíche  
 sang - sangue  
@@ -974,12 +986,13 @@ sel - conselho
 sela - aconselhar  
 sem - semente  
 semi - seminal  
+sen - idade  
+seni - idoso (sene)  
+senater - senador  
 sense - sentido  
 senter - tentáculo  
 ser - serra  
 seram - cerâmico  
-seti - sete (7)  
-setyom - domingo  
 siborgem - seabórgio  
 sifloge - adjetivo  
 siyahi - preto  
@@ -1003,6 +1016,7 @@ solcate - sombrinha
 solful - girassol  
 som - sono  
 somu - dormir  
+somivi - sonolento  
 somkamar - quarto (dormitório)  
 sompapil - papoila-dormideira  
 son - som  
@@ -1026,7 +1040,9 @@ sundaria - beleza
 susan - lírio  
 ####T - T  
 te - tu  
+tesi - vosso  
 tablokomputer - tablet  
+tai - estrado  
 tail - ladrilho (telha, azulejo)  
 taksometrer - taxímetro  
 tali moke - arbusto (mata)  
@@ -1046,7 +1062,6 @@ tex - fazenda (tecido)
 texmaxin - tear  
 tikete - bilhete  
 tirlonga - estirar  
-tixi - nove (9)  
 toksolojia - toxicologia  
 tomate - tomate  
 topograf - topografia  
@@ -1086,10 +1101,10 @@ vezu - pesar
 vida - ver  
 vidou - viúvo  
 viyoleti - purpúreo (roxo)  
+virje - virgem  
 vismai - madrasta  
 vispai - padrasto  
 visrajer - vice-rei  
-umur - idade  
 un (uni) - um (1)  
 uniki - único (só)  
 uniko - unicamente  

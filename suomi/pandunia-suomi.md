@@ -226,6 +226,7 @@ auda - kuulla (kuunnella)
 aven - kaura  
 aur - kulta  
 Australia - Australia  
+Austronesia - Austronesia  
 aute - itseys  
 auti - henkilökohtainen (privaatti)  
 autokratia - yksinvaltius (autokratia, monarkia)  
@@ -253,9 +254,6 @@ Bahama - Bahama-saaret
 Bahrain - Bahrain  
 bai - lahti  
 baki - valkoinen (valkea)  
-bali - kahdeksan (8)  
-ballun - elokuu  
-balsenter - mustekala  
 balde - sanko (ämpäri)  
 balibali - monenlainen  
 balon - ilmapallo  
@@ -306,7 +304,10 @@ basen - allas
 baske - kori  
 baskobol - koripallo  
 bate - sorsa (ankka)  
+bati - kahdeksan (8)  
 batokrote - vesinokkaeläin  
+batolun - elokuu  
+batosenter - mustekala  
 baton - tanko (sauva, patukka)  
 batonkapse - häkki  
 batonpang - patonki (ranskanleipä)  
@@ -512,6 +513,9 @@ ceresem - cerium
 cerize - kirsikka  
 Cernagora - Montenegro  
 cesem - cesium  
+ceti - seitsemän (7)  
+cetyom - niedziela  
+cetolun - heinäkuu  
 Cile - Chile  
 cili\* - paprika  
 cilifun - paprikajauhe  
@@ -1061,6 +1065,7 @@ Ganga - Ganges
 ganya - hankkia (ansaita)  
 Ganimede - Ganymedes  
 ganje - kannabis (marihuana, hamppu)  
+ganse - hanhi  
 ganum - vehnä  
 gar - kärry (vaunu, auto, jne)  
 garparke - parkkipaikka  
@@ -1403,7 +1408,7 @@ yogiste - joogi
 yohani feste - juhannus (kristillinen juhla)  
 yoke - ies  
 yom - vuorokausi  
-yomsete - viikko  
+yomcete - viikko  
 yorubi - joruban kansa ja kieli  
 yote - pisara (tippa)  
 Irakia - Irak  
@@ -1825,6 +1830,7 @@ kuxen - tyyny
 la - luota (lähtien, -sta, -lta)  
 le - hän (se)  
 les - he  
+lesi - heidän  
 labe - huuli  
 Lagos - Lagos  
 laya - tulla (saapua)  
@@ -1959,6 +1965,7 @@ lutetem - lutetium
 me - minä  
 mi - minun  
 mes - me  
+mesi - meidän  
 maf - anteeksi  
 mafa - antaa anteeksi  
 magi - taianomainen (maaginen)  
@@ -2277,6 +2284,17 @@ nes - saari
 nesia - saaristo  
 nete - verkko  
 netoloke - nettisivu  
+neu - uutuustuote  
+neva - uudistaa  
+nevi - uusi  
+Nevi Kaledonia - Uusi-Kaledonia  
+Nevi Zelandia - Uusi-Seelanti  
+nevia - uutuus  
+nevo - äsken (vasta, juuri)  
+neufite - tulokaskasvi (neofyytti)  
+nevike - noviisi (uusikko, vasta-alkaja)  
+neujeni - vastasyntynyt  
+neuloge - uudissana  
 Nevis - Nevis  
 neur - hermo  
 neuri - hermostollinen  
@@ -2307,7 +2325,6 @@ noce - yö
 nocomode - yömoodi  
 noda - solmia (tehdä solmu)  
 node - solmu  
-nol (noli) - nolla (ei yhtään)  
 nol jan - ei kukaan  
 nol sate - ei koskaan (ei kertaakaan)  
 nol xei - ei mitään  
@@ -2333,12 +2350,8 @@ note - huomio (kommentti, merkintä)
 notana - huomauttaa  
 notite - huomautus  
 notobuke - muistikirja  
-nova - uudistaa  
-novi - uusi  
-Novi Kaledonia - Uusi-Kaledonia  
-Novi Zelandia - Uusi-Seelanti  
-novo - äsken (vasta, juuri)  
-novike - noviisi (uusikko, vasta-alkaja)  
+novi - yhdeksän  
+novolun - syyskuu  
 nudi - alaston (paljas, naku)  
 nudiste - nudisti  
 nudistia - nudismi  
@@ -2473,6 +2486,7 @@ pasporte - passi
 paske - pääsiäinen  
 paskal - pascal (Pa)  
 paste - tahna (tahdas)  
+pate - tauti  
 pati - sairas  
 patia - sairaus  
 patike - potilas  
@@ -2841,7 +2855,7 @@ samrayia - yhteisymmärrys
 samseksi - homoseksuaali  
 samsifi - samanlainen  
 Samoa - Samoa  
-san - kolme (3)  
+sani - kolme (3)  
 sangon - kolmio  
 sanyom - keskiviikko  
 sanlun - maaliskuu  
@@ -2887,7 +2901,9 @@ sem - siemen
 semi - siemen-  
 semdan - siemenjyvä  
 semente - sementti  
-sen - lava (näyttämö)  
+sen - ikä  
+seni - iäkäs  
+senater - senaattori  
 Senegal - Senegal  
 sensa - aistia  
 sense - aisti  
@@ -2901,9 +2917,6 @@ serva - palvella (tarjoilla)
 serve - palvelu (palvelus)  
 server - palvelija (tarjoilija)  
 sesam - seesami  
-seti - seitsemän (7)  
-setyom - niedziela  
-setolun - heinäkuu  
 Sexel nesia - Seychellit  
 siani - syaani  
 Sibiria - Siperia  
@@ -2930,6 +2943,7 @@ sinkapse - rintakehä
 sing - leijona  
 Singapur - Singapore  
 sinye - merkki (signaali)  
+siri - nolla (ei yhtään)  
 siri - salainen  
 sirplan - juoni (salaliitto)  
 sirka - ympäröidä (piirittää)  
@@ -2962,6 +2976,7 @@ solsistem - aurinkokunta
 Solomon nesia - Salomon-saaret  
 som - nukkuminen (uni)  
 somu - nukkua  
+somivi - unelias  
 somkamar - makuuhuone  
 Somalia - Somalia  
 Somaldex - Somalimaa  
@@ -3040,11 +3055,13 @@ suxi - sushi
 te - sinä  
 ti - sinun  
 tes - te  
+tesi - teidän  
 tabake - tupakka  
 tabla date - taulukoida  
 table - laatta (levy)  
 tablokomputer - taulutietokone (tabletti)  
 tafun - myrsky  
+tai - lava  
 tayi - thai  
 Tayia - Thaimaa  
 Taibei - Taipei  
@@ -3128,8 +3145,6 @@ tira - vetää (kiskoa)
 tira milke - lypsää maitoa  
 tirsanduke - vetolaatikko  
 titanem - titaani  
-tixi - yhdeksän  
-tixlun - syyskuu  
 toca - koskea (koskettaa)  
 Togo - Togo  
 tokse - myrkky  
@@ -3249,6 +3264,8 @@ ving - siipi
 vinil - vinyyli  
 vir - sankari (urho)  
 viri - urhea (sankarillinen)  
+virje - neitsyt  
+virji - neitseellinen (koskematon)  
 virus - virus  
 viruslojia - virologia  
 visa - korvata  
@@ -3263,7 +3280,6 @@ Ukraina - Ukraina
 ulul - ulvonta  
 ulula - ulvoa  
 umami - umami (ruokaisanmakuinen)  
-umur - ikä  
 un (uni) - yksi (1)  
 una - yhdistää  
 unia - liitto (unioni)  

@@ -215,6 +215,7 @@ auda - oír (escuchar)
 aven - avena  
 aur - oro  
 Australia - Australia  
+Austronesia - Austronesia  
 auta - personalizar  
 aute - mismo (yo)  
 auti - personal (privado, a medida)  
@@ -246,9 +247,6 @@ baki - blanco
 bakocoi - col china  
 bakomargarite - margarita  
 bakosalmon - salmón chum (keta)  
-bali - ocho (8)  
-ballun - agosto  
-balsenter - pulpo  
 balde - balde (cubo)  
 balibali - distintos (diversos)  
 balon - globo  
@@ -298,7 +296,10 @@ basen - piscina (alberca, lavadero)
 baske - cesta (canasta, barquilla, aro)  
 baskobol - baloncesto (básquetbol)  
 bate - pato  
+bati - ocho (8)  
 batokrote - ornitorrinco  
+batolun - agosto  
+batosenter - pulpo  
 baton - barra (vara, palo)  
 batonkapse - jaula (caja)  
 batonpang - baguette  
@@ -503,6 +504,9 @@ ceresem - cerio
 cerize - cereza  
 Cernagora - Montenegro  
 cesem - cesio  
+ceti - siete (7)  
+cetyom - domingo  
+cetolun - julio  
 Cile - Chile  
 cili\* - chile  
 cimpanze - chimpancé  
@@ -1020,6 +1024,7 @@ Ganda - Uganda
 Ganga - Ganges  
 ganya - ganar (cobrar)  
 ganje - cannabis (hachís, marihuana)  
+ganse - ganso (oca)  
 ganum - trigo  
 gar - coche (carruaje, auto, vagón)  
 garparke - estacionamiento (aparcamiento)  
@@ -1372,7 +1377,7 @@ yoge - yoga
 yogiste - yogui  
 yohani feste - día de San Juan  
 yoke - yugo  
-yomsete - semana  
+yomcete - semana  
 yongu - derretirse  
 yongopetre - lava  
 yote - gota  
@@ -1976,6 +1981,7 @@ lutetem - lutecio
 me - yo  
 mi - mi  
 mes - nosotros  
+mesi - nuestro  
 maf - perdón  
 mafa - perdonar (disculpar)  
 magi - magical  
@@ -2326,6 +2332,18 @@ nete - red
 netodona - cargar (subir)  
 netogeta - descargar  
 netoloke - sitio web  
+neu - novedad  
+neva - renovar  
+nevi - nuevo  
+Nevi Kaledonia - Nueva Caledonia  
+Nevi Zelandia - Nueva Zelanda  
+nevia - novedad  
+nevo - ahora mismo (justo)  
+neufite - planta neófita  
+neuyangi - moderno  
+nevike - novato  
+neujeni - neonato (recién nacido)  
+neuloge - neologismo  
 Nevis - Nieves  
 neur - nervio  
 neuri - neural  
@@ -2356,7 +2374,6 @@ noce - noche
 nocomode - modo nocturno  
 noda - hacer un nudo  
 node - nudo  
-nol (noli) - cero (ninguno)  
 nol jan - ningunos  
 nol sate - nunca  
 nol xei - nada  
@@ -2384,14 +2401,8 @@ note - nota
 notana - avisar (notificar)  
 notite - aviso (notificación)  
 notobuke - cuaderno (libreta)  
-nou - novedad  
-nova - renovar  
-novi - nuevo  
-Novi Kaledonia - Nueva Caledonia  
-Novi Zelandia - Nueva Zelanda  
-novo - ahora mismo (justo)  
-nouyangi - moderno  
-novike - novato  
+novi - nueve (9)  
+novolun - septiembre  
 nudi - desnudo  
 nudiste - nudista  
 nudistia - nudismo  
@@ -2643,6 +2654,7 @@ polmaria - frecuencia
 polmaro - frecuentemente  
 polmeni - ambiguo  
 polnasi - multinacional  
+Polnesia - Polinesia  
 polau - pilaf (pulaw)  
 polis - policía  
 poliser - policía  
@@ -2938,7 +2950,7 @@ samsifi - similar
 samsifia - modelo (similitud, simulación)  
 samarem - samario  
 Samoa - Samoa  
-san - tres (3)  
+sani - tres (3)  
 sangon - triángulo  
 sanyom - miércoles  
 sanlun - marzo  
@@ -2995,7 +3007,8 @@ sem - semilla
 semi - seminal  
 semdan - pepita  
 semente - cemento  
-sen - escenario  
+sen - edad  
+senater - senador  
 Senegal - Senegal  
 sensa - sentir (detectar)  
 sense - sentido  
@@ -3010,9 +3023,6 @@ serva - servir
 serve - servicio  
 server - criado (sirviente)  
 sesam - ajonjolí (sésamo)  
-seti - siete (7)  
-setyom - domingo  
-setolun - julio  
 Sexel nesia - Seychelles  
 siani - cian  
 Sibiria - Siberia  
@@ -3044,6 +3054,7 @@ sing - león
 Singapur - Singapur  
 sinye - señal (letrero, indicio)  
 sira - ocultar (esconder)  
+siri - cero (ninguno)  
 siri - secreto  
 siri mote - sigilo  
 siro motu - colarse  
@@ -3083,6 +3094,7 @@ solsistem - sistema solar
 Solomon nesia - Islas Salomón  
 som - sueño  
 somu - dormir  
+somivi - soñoliento (somnífero)  
 somkamar - dormitorio  
 sompapil - adormidera (amapola real)  
 Somalia - Somalia  
@@ -3180,11 +3192,13 @@ suxi - sushi
 te - tú (usted)  
 ti - tu  
 tes - ustedes  
+tesi - vuestro  
 tabake - tabaco  
 tabla date - tabular  
 table - tabla (lámina, plancha)  
 tablokomputer - tablet  
 tafun - tormenta (tempestad)  
+tai - escenario (podio, estrado, tarima)  
 tayi - tailandés  
 Tayia - Tailandia  
 Taibei - Taipei  
@@ -3287,8 +3301,6 @@ tirlonga - estirar (extender)
 tiroriu - corriente de resaca  
 tirsanduke - cajón (gaveta)  
 titanem - titanio  
-tixi - nueve (9)  
-tixlun - septiembre  
 toca - tocar (rozar)  
 Togo - Togo  
 tokse - veneno (toxina)  
@@ -3421,6 +3433,8 @@ ving - ala
 vinil - vinilo  
 vir - héroe  
 viri - valiente (heroico)  
+virje - virgen  
+virji - virginal  
 Virjin nesia - Islas Vírgenes  
 virus - virus  
 viruslojia - virología  
@@ -3438,7 +3452,6 @@ Ukraina - Ucrania
 ulul - aullido  
 ulula - aullar  
 umami - sabroso (umami)  
-umur - edad  
 un (uni) - uno (1)  
 una - unir  
 unia - unión  

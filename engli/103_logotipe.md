@@ -121,7 +121,7 @@ Here are a few examples of different types of ideas.
 1. If the stem's idea is an action, then its verb form will mean "to do the action".
    For example from **vide** (_a look_) we get **vida** (_to look_).
 2. If the idea is a description then its verb form will mean "to turn into that quality".
-   For example from **novi** (_new_) we get **nova** (_to make new_ or _to renew_).
+   For example from **nevi** (_new_) we get **neva** (_to make new_ or _to renew_).
 3. If the idea is a thing, then its verb form will mean "to apply it to".
    For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
 
@@ -134,7 +134,7 @@ If the stem's idea is an action, then its noun form will mean the result or the 
 For example from **kitaba** (_to write_) we get **kitabe** (_writing_ or _text_).
 
 If the idea is a description, then its noun form will mean a concrete instance of that quality.
-For example from **novi** (_new_) we get **nove** (_a novelty_ i.e. something new).
+For example from **nevi** (_new_) we get **neve** (_a novelty_ i.e. something new).
 
 Additional noun suffixes are presented below.
 
@@ -143,7 +143,7 @@ Additional noun suffixes are presented below.
 **-i** is the ending for adjectives and adjectival verbs.
 
 If the stem's idea is a description, then its adjectival form will mean "that which is in the state of the root".
-For example from **nov-** (_newness_), we get **novi** (_new_ i.e. _that which is new_).
+For example from **nev-** (_newness_), we get **nevi** (_new_ i.e. _that which is new_).
 
 If the idea is an action, then its adjectival form will mean the state that is produced by the action.
 For example from **loga** (_to speak_) we get **logi** (_spoken_).
