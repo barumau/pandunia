@@ -81,8 +81,6 @@ which are directly attached to the object of comparison.
 Adverbs are used for expressing time and place of events and actions.
 Here are some of the most frequently used adverbs:
 
-**paso**
-– before, earlier  
 **ceno**
 – before, earlier  
 **medo**
@@ -104,9 +102,9 @@ Here are some of the most frequently used adverbs:
 
 A complement can be added with the preposition **da**.
 
-**me vida les paso.**
+**me vida les ceno.**
 – I have seen them before.  
-**me vida les paso da unyom.**
+**me vida les ceno da unyom.**
 – I have seen them before Monday.
 
 **me vola xopa tougar maxo da motogar.**

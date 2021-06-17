@@ -872,18 +872,18 @@ He or she is currently the chief.
 He or she is currently at home.
 
 
-### paso <small>in the past</small>
+### ceno <small>in the past</small>
 
-**me paso salama te du doste.**  
+**me ceno salama te du doste.**  
 I greeted your friend.
 
-**man paso vida fem.**  
+**man ceno vida fem.**  
 The man looked at the woman.
 
-**le paso sa xef.**  
+**le ceno sa xef.**  
 He or she was the chief.
 
-**le paso ya dom.**  
+**le ceno ya dom.**  
 He or she was at home.
 
 
@@ -902,18 +902,18 @@ He or she has been the chief.
 He or she has been at home.
 
 
-### vilo <small>(future action)</small>
+### poso <small>in the future</small>
 
-**me vilo salama ti doste.**  
+**me poso salama ti doste.**  
 I will greet your friend.
 
-**man vilo vida fem.**  
+**man poso vida fem.**  
 The man will see the woman.
 
-**le vilo sa xefe.**  
+**le poso sa xefe.**  
 He or she will be the chief.
 
-**le vilo ya dom.**  
+**le poso ya dom.**  
 He or she will be at home.
 
 

@@ -455,27 +455,27 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **paso** (past), **zayo** (present) and **vilo** (future, upcoming).
+The general time words are **ceno** (past), **zayo** (present) and **poso** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**me paso tena mau.**
+**me ceno ha mau.**
 – I had cats.  
-**a me no zayo tena mau.**
+**a me no zayo ha mau.**
 – But I now don't have cats.  
-**ablo me vilo tena mau.**
+**ablo me poso ha mau.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **va pase** (in the past) etc.
+It's also possible to say it in a longer way like **ya censate** (in the past) etc.
 
-**me tena mau va pase.**
+**me ha mau ya censate.**
 – I had cats in the past.  
-**a me no tena mau va zaye.**
+**a me no ha mau ya zaisate.**
 – But I don't have cats at present.  
-**ablo me tena mau va vile.**
+**ablo me ha mau ya pososate.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
-So the verb **tena** stayed the same in all tenses in the examples above.
+So the verb **ha** stayed the same in all tenses in the examples above.
 
 Naturally time words are used only when they are necessary.
 Usually it is enough to mention the time just once at the beginning of the text
