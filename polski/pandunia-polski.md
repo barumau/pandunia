@@ -234,9 +234,6 @@ baki - biały
 bakocoi - kapusta pekińska  
 bakomargarite - jastrun właściwy  
 bakosalmon - keta  
-bali - osiem (8)  
-ballun - listopad  
-balsenter - ośmiornica  
 balde - wiadro  
 balibali - różny (różnorodny)  
 balon - balon  
@@ -286,7 +283,10 @@ basen - basen
 baske - kosz  
 baskobol - piłka do koszykówki (koszykówka)  
 bate - kaczka  
+bati - osiem (8)  
 batokrote - dziobak  
+batolun - listopad  
+batosenter - ośmiornica  
 baton - pręt, kij  
 batonkapse - klatka  
 batonpang - bagietka  
@@ -494,6 +494,9 @@ ceresem - cer
 cerize - wiśnia (czereśnia)  
 Cernagora - Czarnogóra  
 cesem - cez  
+ceti - siedem (7)  
+cetyom - niedziela  
+cetolun - październik  
 Cile - Chile  
 cili\* - papryka  
 cilifun - papryka  
@@ -998,6 +1001,7 @@ Ganda - Uganda
 Ganga - Ganges  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
 ganje - konopie  
+ganse - gęś  
 ganum - pszenica  
 gar - wóz, wózek  
 garparke - parking  
@@ -1334,7 +1338,7 @@ yoge - joga
 yogiste - jogin (joginka)  
 yohani feste - dzień świętego Jana  
 yoke - jarzmo  
-yomsete - tydzień  
+yomcete - tydzień  
 yongu - topnieć (upłynniać się)  
 yongopetre - lawa  
 yongosaha - topić (upłynnić, upłynniać)  
@@ -2300,6 +2304,17 @@ nete - sieć
 netodona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 netogeta - ściągać (ściągnąć, pobrać, pobierać)  
 netoloke - witryna internetowa (portal internetowy)  
+neu - nowość  
+neva - odnowić, odnawiać, uczynić nowym  
+nevi - nowy  
+Nevi Yorke - Nowy Jork  
+Nevi Yorke site - Stan Nowy Jork  
+Nevi Kaledonia - Nowa Kaledonia  
+Nevi Zelandia - Nowa Zelandia  
+nevo - właśnie, dopiero co, ostatnio, niedawno  
+neuyangi - nowoczesne  
+nevike - nowicjusz (nowa osoba)  
+neuloge - neologizm  
 Nevis - Nevis  
 neur - nerw  
 neuri - nerwowy (neuronowy)  
@@ -2332,7 +2347,6 @@ noce - noc
 nocomode - tryb nocny  
 noda - zawiązywać (zawiązać węzeł)  
 node - węzeł, zupeł  
-nol (noli) - zero, nic, żaden  
 nol jan - nikt, żadna osoba  
 nol sate - nigdy  
 nol xei - nic, żadna rzecz  
@@ -2359,16 +2373,8 @@ note - uwaga, obserwacja
 notana - powiadomić, powiadamiać  
 notite - wiadomość, zawiadomienie, powiadomienie  
 notobuke - notatnik  
-nou - nowość  
-nova - odnowić, odnawiać, uczynić nowym  
-novi - nowy  
-Novi Yorke - Nowy Jork  
-Novi Yorke site - Stan Nowy Jork  
-Novi Kaledonia - Nowa Kaledonia  
-Novi Zelandia - Nowa Zelandia  
-novo - właśnie, dopiero co, ostatnio, niedawno  
-nouyangi - nowoczesne  
-novike - nowicjusz (nowa osoba)  
+novi - dziewięć (9)  
+novolun - grudzień  
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
 nudistia - nudyzm  
@@ -2900,7 +2906,7 @@ samsifi - podobny (analogiczny)
 samsifia - model (podobieństwo, symulować)  
 samarem - samar  
 Samoa - Samoa  
-san - trzy (3)  
+sani - trzy (3)  
 sangon - trójkąt  
 sanyom - środa  
 sanlun - czerwiec  
@@ -2954,7 +2960,8 @@ sem - ziarno (nasienie)
 semi - nasienny  
 semdan - ziarno, nasienie  
 semente - cement  
-sen - scena  
+sen - wiek  
+senater - senator  
 Senegal - Senegal  
 sensa - czuć (poczuć, postrzegać, wykrywać)  
 sense - zmysł  
@@ -2971,9 +2978,6 @@ serva - służyć
 serve - służba  
 server - sługa  
 sesam - sezam  
-seti - siedem (7)  
-setyom - niedziela  
-setolun - październik  
 Sexel nesia - Seszele  
 siani - niebieskozielony (cyjan)  
 Sibiria - Syberia  
@@ -3004,6 +3008,7 @@ sing - lew
 Singapur - Singapur  
 sinye - znak, sygnał  
 sira - chować (kryć)  
+siri - zero, nic, żaden  
 siri - sekret  
 siri mote - skradanie się  
 siro motu - skradać się  
@@ -3247,8 +3252,6 @@ tirlonga - rozciągać (rozciągnąć)
 tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirsanduke - szuflada  
 titanem - tytan  
-tixi - dziewięć (9)  
-tixlun - grudzień  
 toca - dotyczyć  
 Togo - Togo  
 Tokyo - Tokio  
@@ -3397,7 +3400,6 @@ Ukraina - Ukraina
 ulul - wycie, skowyt  
 ulula - wyć  
 umami - mięsny (umami)  
-umur - wiek  
 un (uni) - jeden (1)  
 una - jednoczyć  
 unia - unia  

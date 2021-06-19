@@ -544,7 +544,7 @@ dziennikarz - gazeter
 dziesięć (10) - desi  
 dziesięć tysięcy - deskilo\*  
 dziewczyna - joveni fem  
-dziewięć (9) - tixi  
+dziewięć (9) - novi  
 dzień - den  
 dzień dobry - salam den  
 dzień świętego Jana - yohani feste  
@@ -757,7 +757,7 @@ grillować - kababa
 grom, huk - grom  
 grubość - grosia  
 gruby - grosi  
-grudzień - tixlun  
+grudzień - novolun  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -788,6 +788,7 @@ górnik (kopacz) - kuanger
 górny - supri  
 gówno - xite  
 gąbka - esponje  
+gęś - ganse  
 gładki - lisi  
 głaz - daixeke  
 głos - vote  
@@ -1332,7 +1333,7 @@ lipiec - carlun
 lis - hulei  
 lista słów - logoliste  
 lista, spis, wykaz - liste  
-listopad - ballun  
+listopad - batolun  
 listownicowiec - varkalge  
 lit - litem  
 litera, znak - harfe  
@@ -1671,6 +1672,7 @@ naładować, załadować, obładować, ładować - bara
 negatywny (przeciwny, nie) - ani  
 negocjować - lona biznes  
 neodym - neodimem  
+neologizm - neuloge  
 neon - neon  
 Nepal - Nepal  
 Neptun - Neputun  
@@ -1694,7 +1696,7 @@ niebieskozielony (cyjan) - siani
 niebo - ten  
 niech my, hajda - haida  
 niechętny - anici  
-niedziela - setyom  
+niedziela - cetyom  
 niedźwiedź - urse  
 nieliczność - xavia  
 Niemcy - Doicia  
@@ -1742,13 +1744,13 @@ nostalgiczny - nostalgi
 notatka, memo - memnote  
 notatnik - notobuke  
 notować, obserwować, zauważyć, zauważać - nota  
-Nowa Kaledonia - Novi Kaledonia  
-Nowa Zelandia - Novi Zelandia  
-nowicjusz (nowa osoba) - novike  
-nowoczesne - nouyangi  
-nowość - nou  
-nowy - novi  
-Nowy Jork - Novi Yorke  
+Nowa Kaledonia - Nevi Kaledonia  
+Nowa Zelandia - Nevi Zelandia  
+nowicjusz (nowa osoba) - nevike  
+nowoczesne - neuyangi  
+nowość - neu  
+nowy - nevi  
+Nowy Jork - Nevi Yorke  
 nożyce, nożyczki - makas  
 nuda (znudzenie) - boria  
 nudności (choroba lokomocyjna) - retroguli sense  
@@ -1807,7 +1809,7 @@ oddech - nafas
 odetkać, odtykać - antapa  
 odkurzacz - funcuper  
 odmówić (odrzucić) - nega  
-odnowić, odnawiać, uczynić nowym - nova  
+odnowić, odnawiać, uczynić nowym - neva  
 odpowiedzieć, odpowiadać - javaba  
 odpowiedź, odzew - javabe  
 odsłonić, odsłaniać - andaka  
@@ -1858,7 +1860,7 @@ orzech ziemny - geudou
 oset - kardon  
 oset zwisły - pendokardon  
 Osetia Południowa - Sudi Iria (Alonia)  
-osiem (8) - bali  
+osiem (8) - bati  
 osioł - gade  
 osm - osmem  
 osmoza - osmos  
@@ -1891,7 +1893,7 @@ owoc kiwi - kivi\*
 ołtarz - pujomeze  
 ołów - plumbe  
 oś - akse  
-ośmiornica - balsenter  
+ośmiornica - batosenter  
 ożeniony, zamężny, w związku małżeńskim - gami  
 ożenić się, poślubić, wyjść za mąż - gama  
 ####P - P  
@@ -1962,7 +1964,7 @@ pauza (przerwa) - pauze
 paznokieć - nahun  
 pałac - daidom  
 paść, padać, upaść, upadać - padu  
-październik - setolun  
+październik - cetolun  
 pchnąć, pchać - puxa  
 pedał - pedal  
 Pekin - Beijing  
@@ -2571,7 +2573,6 @@ sauna - sauna\*
 sawanna - garmozoni cavistan  
 sałata - letis  
 sałatka - salade  
-scena - sen  
 schody (drabina) - eskal  
 seaborg - siborgem  
 sejsmiczny (wibracyjny) - sismi  
@@ -2585,6 +2586,7 @@ seksuologia - seksolojia
 sekunda - sekunde  
 selen - selenem  
 sen - som  
+senator - senater  
 Senegal - Senegal  
 sensor (detektor, czujka) - senser  
 ser - cize  
@@ -2597,7 +2599,7 @@ sfermentowany - biumuti
 shintoizm, sintoizm - xindavistia  
 siano - gancau  
 siarka - sulfe  
-siedem (7) - seti  
+siedem (7) - ceti  
 siedzenie (siodło) - side  
 siedzieć - sida  
 siekera, topór - futau  
@@ -2704,7 +2706,7 @@ ssać - cupa
 stacja - estasia  
 stadion, arena - estadia  
 stan - hal  
-Stan Nowy Jork - Novi Yorke site  
+Stan Nowy Jork - Nevi Yorke site  
 Stany Zjednoczone Ameryki - Uniti Dex Da Amerike (UDA)  
 Starożytny Egipt (Kemet) - Kemia  
 stary (sędziwy, wiekowy) - lavi  
@@ -2959,7 +2961,7 @@ tryb nocny - nocomode
 Trynidad i Tobago - Trinidade e Tobago  
 trzcina cukrowa - sukarcau  
 trzeć (pocierać, obetrzeć, pucować) - frika  
-trzy (3) - san  
+trzy (3) - sani  
 trząść (machać) - sisma  
 trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi) - sisme  
 trzęsienie Ziemi - geusisme  
@@ -2992,7 +2994,7 @@ twój - ti
 twórca, kreator, czynnik - fater  
 ty, ciebie - te  
 Tybet - Botia  
-tydzień - yomsete  
+tydzień - yomcete  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suikaboge  
 typ (rodzaj, gatunek) - tipe  
@@ -3142,7 +3144,7 @@ wieczór - suar
 wiedza - sau  
 wiedzieć - sava  
 wiejski, rustykalny - agristani  
-wiek - umur  
+wiek - sen  
 wielbłąd, wielbłądzica - gamel  
 wiele - multi  
 wiele - poli  
@@ -3311,7 +3313,7 @@ władca - sultan
 własność (mienie) - mal  
 właściciel (posiadacz) - malan  
 właściwy, poprawny - sahi  
-właśnie, dopiero co, ostatnio, niedawno - novo  
+właśnie, dopiero co, ostatnio, niedawno - nevo  
 włos - kex  
 włókno - linem  
 ####X - X  
@@ -3428,7 +3430,7 @@ zebra - zebre
 zegar (zegarek) - horloger  
 zejść (schodzić, zstąpić, zstępować) - aneskala  
 zemleć (mleć, mielić) - mola  
-zero, nic, żaden - nol (noli)  
+zero, nic, żaden - siri  
 zespół (drużyna, grupa) - bande  
 zewnętrzny - exi  
 zgniły - pudi  

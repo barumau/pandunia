@@ -25,16 +25,16 @@ They are put before the word or phrase that they qualify.
 
 The basic number words are:
 
-- 0 **nol**
+- 0 **siri**
 - 1 **un**
 - 2 **duli**
 - 3 **sani**
 - 4 **cari**
 - 5 **limi**
 - 6 **sisi**
-- 7 **seti**
-- 8 **bali**
-- 9 **navi**
+- 7 **ceti**
+- 8 **bati**
+- 9 **novi**
 
 Greater numbers are simply made by putting one digit after another –
 exactly like they are written in the universal numerical language of mathematics.
@@ -96,11 +96,11 @@ Ordinal numbers are created with the suffix **-odi**.
   – fifth
 - **sisodi**
   – sixth
-- **setodi**
+- **cetodi**
   – seventh
-- **balodi**
+- **batodi**
   – eighth
-- **navodi**
+- **novodi**
   – ninth
 - **desodi**
   – tenth
@@ -136,7 +136,7 @@ So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'thre
    – Friday
 6. **sisyom**
    – Saturday
-7. **setyom**
+7. **cetyom**
    – Sunday
 
 #### Months
@@ -153,11 +153,11 @@ So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'thre
   – May
 6. **sislun**
   – June
-7. **setolun**
+7. **cetolun**
   – July
-8. **ballun**
+8. **batolun**
   – August
-9. **naulun**
+9. **novolun**
   – September
 10. **deslun**
   – October

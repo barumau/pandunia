@@ -244,6 +244,7 @@ auda - hear (listen)
 aven - oat  
 aur - gold  
 Australia - Australia  
+Austronesia - Austronesia  
 auta - personalize (customize)  
 aute - self (identity)  
 auti - personal (intimate, private, custom)  
@@ -276,9 +277,6 @@ baki - white
 bakocoi - bok choy  
 bakomargarite - oxeye daisy  
 bakosalmon - chum salmon  
-bali - eight (8)  
-ballun - August  
-balsenter - octopus  
 balde - bucket  
 balibali - various (diverse, miscellaneous)  
 balon - balloon  
@@ -330,7 +328,10 @@ basen - pool (basin, bowl)
 baske - basket (basketball hoop)  
 baskobol - basket ball  
 bate - duck  
+bati - eight (8)  
 batokrote - platypus  
+batolun - August  
+batosenter - octopus  
 baton - bar (pole, rod, shaft, staff, stick)  
 batonkapse - cage  
 batonpang - baguette  
@@ -549,6 +550,9 @@ ceresem - cerium
 cerize - cherry  
 Cernagora - Montenegro  
 cesem - caesium  
+ceti - seven (7)  
+cetyom - Sunday  
+cetolun - July  
 Cile - Chile  
 cili\* - pepper (capsicum)  
 cilifun - paprika  
@@ -1128,6 +1132,7 @@ Ganga - Ganges
 ganya - earn (gain)  
 Ganimede - Ganymede  
 ganje - cannabis (marijuana, ganja, pot, weed)  
+ganse - goose  
 ganum - wheat  
 gar - car (cart, carriage, wagon, automobile)  
 garparke - car park (parking lot)  
@@ -1518,7 +1523,7 @@ yogiste - yogi
 yohani feste - Saint John's Day  
 yoke - yoke  
 yom - day (24 hours)  
-yomsete - week  
+yomcete - week  
 yongu - melt (be liquified)  
 yongopetre - lava  
 yongosaha - smelt  
@@ -2016,6 +2021,7 @@ kuxloke - berth (couchette)
 la - from (since, because)  
 le - he or she or it  
 les - they  
+lesi - their  
 labe - lip  
 lage - lake  
 Lagos - Lagos  
@@ -2180,6 +2186,7 @@ lutetem - lutetium
 me - I (me)  
 mi - my  
 mes - we  
+mesi - our  
 maf - pardon (forgiveness; sorry)  
 mafa - forgive (pardon)  
 magi - magical  
@@ -2558,6 +2565,20 @@ nete - net (web, mesh)
 netodona - upload  
 netogeta - download  
 netoloke - website  
+neu - novelty (new product)  
+neva - renew (make new, renovate)  
+nevi - new (recent)  
+Nevi Yorke - New York  
+Nevi Yorke site - New York City  
+Nevi Kaledonia - New Caledonia  
+Nevi Zelandia - New Zealand  
+nevia - newness  
+nevo - just (recently)  
+neufite - neophyte plant  
+neuyangi - modern  
+nevike - novice (newbie)  
+neujeni - newborn  
+neuloge - neologism  
 Nevis - Nevis  
 neur - nerve  
 neuri - neural  
@@ -2591,7 +2612,6 @@ noce - night
 nocomode - night mode  
 noda - tie a knot  
 node - knot (node)  
-nol (noli) - zero (none)  
 nol jan - nobody (no-one)  
 nol sate - never  
 nol xei - nothing  
@@ -2619,16 +2639,8 @@ note - note (observation, remark, comment)
 notana - notify  
 notite - notice (notification)  
 notobuke - notebook  
-nou - novelty  
-nova - renew (make new, renovate)  
-novi - new (recent)  
-Novi Yorke - New York  
-Novi Yorke site - New York City  
-Novi Kaledonia - New Caledonia  
-Novi Zelandia - New Zealand  
-novo - just (recently)  
-nouyangi - modern  
-novike - novice (newbie)  
+novi - nine (9)  
+novolun - September  
 nudi - naked (bare, nude)  
 nudiste - nudist  
 nudistia - nudism  
@@ -2784,8 +2796,9 @@ paske - Easter
 paskal - pascal (Pa)  
 paste - paste (dough)  
 pastopetre - magma  
+pate - disease  
 pati - ill (sick)  
-patia - sickness (illness, disease)  
+patia - illness (sickness)  
 patike - patient (subject of medical treatment)  
 patojener - pathogen  
 patolojia - pathology  
@@ -2904,6 +2917,7 @@ polmaria - frequency
 polmaro - often (frequently)  
 polmeni - ambiguous  
 polnasi - multinational  
+Polnesia - Polynesia  
 polau - pilaf (pulao)  
 polis - police  
 poliser - police officer  
@@ -3215,7 +3229,7 @@ samsifi - similar (analogous)
 samsifia - model (similarity, simulation)  
 samarem - samarium  
 Samoa - Samoa  
-san - three (3)  
+sani - three (3)  
 sangon - triangle  
 sanyom - Wednesday  
 sanlun - March  
@@ -3273,7 +3287,9 @@ sem - seed (semen)
 semi - seminal  
 semdan - seed (fertilized grain)  
 semente - cement  
-sen - stage (scene)  
+sen - age  
+seni - aged  
+senater - senator  
 Senegal - Senegal  
 sensa - sense (perceive, detect)  
 sense - sense (method of perception)  
@@ -3290,9 +3306,6 @@ serva - serve (give service)
 serve - service  
 server - servant  
 sesam - sesame  
-seti - seven (7)  
-setyom - Sunday  
-setolun - July  
 Sexel nesia - Seychelles  
 siani - cyan  
 Sibiria - Siberia  
@@ -3324,6 +3337,7 @@ sing - lion
 Singapur - Singapore  
 sinye - sign (signal)  
 sira - hide (conceal)  
+siri - zero (none)  
 siri - secret  
 siri mote - stealth  
 siro motu - sneak  
@@ -3365,6 +3379,7 @@ solsistem - solar system
 Solomon nesia - Solomon Islands  
 som - sleep  
 somu - sleep (be asleep)  
+somivi - drowsy  
 somkamar - bedroom  
 sompapil - opium poppy  
 Somalia - Somalia  
@@ -3466,11 +3481,13 @@ suxi - sushi
 te - you (singular)  
 ti - your  
 tes - you all  
+tesi - your  
 tabake - tobacco  
 tabla date - tabulate  
 table - slab (slate, tablet, board)  
 tablokomputer - tablette computer  
 tafun - storm (tempest, typhoon, hurricane, cyclone)  
+tai - stage (platform, pedestal, podium)  
 tayi - Thai  
 Tayia - Thailand  
 Taibei - Taipei  
@@ -3582,8 +3599,6 @@ tirsanduke - drawer
 Titan - Titan  
 Titania - Titania  
 titanem - titanem  
-tixi - nine (9)  
-tixlun - September  
 toca - touch  
 Togo - Togo  
 Tokyo - Tokyo  
@@ -3732,6 +3747,8 @@ ving - wing
 vinil - vinyl  
 vir - hero  
 viri - heroic  
+virje - virgin  
+virji - pristine (virginal)  
 Virjin nesia - Virgin Islands, US  
 virus - virus  
 viruslojia - virology  
@@ -3751,7 +3768,6 @@ ulul - howling
 ulula - howl  
 umami - savory (umami)  
 Umbriel - Umbriel  
-umur - age  
 un (uni) - one (1)  
 una - unite  
 unia - union  

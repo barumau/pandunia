@@ -97,7 +97,7 @@ Antigua-et-Barbuda - Antigua e Barbuda
 antimoine - estibem  
 antonyme - annam  
 anus - anus  
-août - ballun  
+août - batolun  
 appartenir à - malu  
 application - aplike  
 appliquer - aplika  
@@ -157,6 +157,7 @@ atome - atom
 attaquer (agresser) - agresa  
 aubergine - bedinje  
 Australie - Australia  
+Austronésie - Austronesia  
 autel - pujomeze  
 autocollant - glutograf  
 automne - padomosim  
@@ -449,7 +450,7 @@ diamant - almas
 dieu - deu  
 différence - alsifia  
 différent - alsifi  
-dimanche - setyom  
+dimanche - cetyom  
 dinde (dindon) - dinde  
 diorite - diorite  
 dioxyde de carbone - karbodulokside  
@@ -507,6 +508,7 @@ enfant - bace
 ennemi - anamike  
 ennemi - dusjan  
 enseigner - xulana  
+ensommeillé (somnolent) - somivi  
 ensuite (après, plus tard) - poso  
 enterrer - gabra  
 entonnoir - riutube  
@@ -516,6 +518,7 @@ erroné - galti
 escroquer - truka  
 espace (zone, région) - aria  
 espace - kali harfe  
+estrade - tai  
 et - e  
 ethnie - zuke  
 ethnique - zuki  
@@ -653,7 +656,7 @@ horloge - horloger
 houe - cope  
 hourra - ura  
 huile (pétrole) - nefte  
-huit (8) - bali  
+huit (8) - bati  
 hum - hem  
 humain - insaniki  
 humanisme - insanistia  
@@ -740,6 +743,7 @@ lave - yongopetre
 lent - lenti  
 lentille - lense  
 Lettonie - Latvia  
+leur - lesi  
 lexical - logi  
 leçon - xul  
 libellule - libel  
@@ -871,7 +875,7 @@ nausée - retroguli sense
 nautile - nautil  
 neige - him  
 Neptune - Neputun  
-neuf (9) - tixi  
+neuf (9) - novi  
 neurone - neurcel  
 neurotoxine - neurtokse  
 niche - nix  
@@ -885,13 +889,17 @@ non (ne...pas) - no
 nord - norde  
 nostalgie - nostalgia  
 note - note  
+notre - mesi  
 nous - mes  
-nouveau - novi  
+nouveau - nevi  
+nouveau-né - neujeni  
+nouveauté - nevia  
 nuage - mege  
 nylon - nilon  
 nécessaire - yavan  
 nécessiteux (dans le besoin) - yavi  
-néophyte - novike  
+néologisme - neuloge  
+néophyte - nevike  
 ####O - O  
 objectif (cible) - dike  
 objet (article) - vute  
@@ -907,6 +915,7 @@ océan Atlantique - Atlanti Hai
 océan Indien - Barti Hai  
 odeur - arom  
 oeuf - ande  
+oie - ganse  
 oignon - piaze  
 oiseau - pakse  
 ombrelle (parasol) - solcate  
@@ -1039,6 +1048,7 @@ poivre - pipre
 poivre long - longopipre  
 poli - fotofrika  
 pollution - najis  
+Polynesie - Polnesia  
 pomme - aple  
 pont - pul  
 porte - porte  
@@ -1056,7 +1066,7 @@ pot de fleur - fulpote
 poterie - poteria  
 potier - poter  
 poudre à canon - barude  
-Poulpe (pieuvre) - balsenter  
+Poulpe (pieuvre) - batosenter  
 pourri - pudi  
 pourrir (se décomposer) - pudu  
 pousse - joveni moke  
@@ -1194,7 +1204,7 @@ semence - sem
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aromu  
 sentir qqch - aroma  
-sept (7) - seti  
+sept (7) - ceti  
 serrure - sor  
 serviette - gantex  
 seul (unique) - uniki  
@@ -1237,6 +1247,7 @@ svastika (croix gammée) - hukokrus
 symétrie - sammetria  
 symétrique - sammetri  
 séminal - semi  
+sénateur - senater  
 série - silia  
 sûr - sekuri  
 sûrement - ameno  
@@ -1294,7 +1305,7 @@ travailleur (ouvrier) - karer
 traîner - trata  
 tremper (faire mariner) - purxipa  
 tribord - nauraite  
-trois (3) - san  
+trois (3) - sani  
 tropique - garmozon  
 truite - salmon  
 truite arc-en-ciel - rangarkosalmon  
@@ -1342,6 +1353,7 @@ veuve - vidou
 viande - manse  
 vice-roi - visrajer  
 vie - jiu  
+vierge - virje  
 vieux (ancien) - ceniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskaltan  
@@ -1362,6 +1374,7 @@ voire (même) - hato
 vol - fei  
 volcan - hogoxan  
 voler - feyu  
+votre - tesi  
 vouloir - volu  
 voyelle - jungofon  
 vrai - veri  
@@ -1388,7 +1401,7 @@ zoulou - Zulu
 zèbre - zebre  
 Égypte - Misria  
 Épicéa - pis  
-âge - umur  
+âge - sen  
 éblouir (étonner, stupéfier, surprendre) - ajaba  
 échec - xibai  
 échelle - xalke  

@@ -85,6 +85,7 @@ animstato - emoshal
 ankaŭ - maxo  
 ankoraŭ - zoko  
 ankro - angar  
+ansero - ganse  
 antaŭe (pasinte) - paso  
 antaŭiri - cena  
 anteno - anten  
@@ -133,10 +134,11 @@ azia - asi
 Azio - Asia  
 aĉetanto (aĉetisto) - xoper  
 aĉeti - xopa  
-aĝo - umur  
+aĝo - sen  
 aŭ - o  
 aŭdi (aŭskulti) - auda  
 Aŭstralio - Australia  
+Aŭstronezio - Austronesia  
 aŭto (ĉaro) - gar  
 aŭtuno - padomosim  
 ####B - B  
@@ -316,7 +318,7 @@ deziro - kamia
 dia - devi  
 diablo (Satano) - Xatan (ruhxatan)  
 diamanto - almas  
-dimanĉosunnuntai - setyom  
+dimanĉosunnuntai - cetyom  
 dio - deu  
 disigi - anjama  
 disko - diske  
@@ -329,6 +331,7 @@ dokumento - dokum
 dolaro - dolar  
 donaco - don  
 doni - dona  
+dormema - somivi  
 dormi - somu  
 dormo - som  
 dormoĉambro - somkamar  
@@ -645,6 +648,7 @@ ideo - idei
 ido (infano) - ben  
 igi (farigi) - an:a  
 ili - les  
+ilia - lesi  
 ilo - tul  
 indio - hindem  
 Indonezio - Indonesia  
@@ -1131,6 +1135,7 @@ naturo - ekia
 naūatla - navati  
 ne - no  
 negoco - biznes  
+neologismo - neuloge  
 neono - neon  
 Nepalo - Nepal  
 neptunio - neputunem  
@@ -1142,6 +1147,7 @@ neĝo - him
 neŭrono - neurcel  
 ni - mes  
 ni faru... - haida  
+nia - mesi  
 nigra - siyahi  
 nihonio - niponem  
 Nikaragvo - Nikaragua  
@@ -1162,9 +1168,12 @@ norvega - norgi
 Norvegio - Norge  
 nostalgio (saudado) - nostalgia  
 noto (rimarko, komento) - note  
-nova - novi  
+nova - nevi  
+novaĵo - neu  
 novaĵoj - habar  
-novulo - novike  
+noveco - nevia  
+novnaskita - neujeni  
+novulo - nevike  
 nudelo - mien  
 nuno - zai  
 ####O - O  
@@ -1175,7 +1184,7 @@ oceano - daihai
 ofte - polmaro  
 oganesono - oganeson  
 ogro (trolo) - gui  
-ok (8) - bali  
+ok (8) - bati  
 oksido - okside  
 oksigeno - okse  
 okula - oki  
@@ -1476,13 +1485,14 @@ sekvinbero - ganputau
 sekvo - pos  
 seleno - selenem  
 sema - semi  
-semajno - yomsete  
+semajno - yomcete  
 semo - sem  
 sen - na  
+senatano - senater  
 sendormeco - ansomia  
 senti - senta  
 sentumo - sense  
-sep (7) - seti  
+sep (7) - ceti  
 Serbio - Serbia  
 serio - silia  
 serpento - serpe  
@@ -1651,7 +1661,7 @@ tranĉi - kata
 tranĉilo - cake  
 treni - trata  
 trezoro - bau  
-tri (3) - san  
+tri (3) - sani  
 tribo - tribe  
 tribordo - nauraite  
 tritiko - ganum  
@@ -1718,6 +1728,7 @@ vetero - tenhal
 vi (ci) - te  
 vi ĉiu - tes  
 via (cia) - ti  
+via - tesi  
 viando - manse  
 vic- - visi  
 vicpatrino - vismai  
@@ -1731,6 +1742,8 @@ vinbero - putau
 vino - vin  
 vintra - lengomosimi  
 vintro - lengomosim  
+virga - virji  
+virgulo - virje  
 virino - maturi fem  
 viro - man  
 viro - maturi man  
@@ -1820,7 +1833,7 @@ zuluo - Zulu
 ĵetkubo - zarkube  
 ĵudo - judau  
 ĵulo (J) - jul  
-ĵus - novo  
+ĵus - nevo  
 ŝafo - meh  
 ŝako - xatranje  
 ŝamano - xaman  

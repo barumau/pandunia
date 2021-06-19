@@ -388,13 +388,13 @@ form that sounds familiar to speakers of as many languages as possible.
 | Pandunia root | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
 | **kort**      | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **nou**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
+| **neu**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
 | **marc**      | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **post**      | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
 The suffixes of Pandunia are applied on the roots. Here are some
 resulting Pandunia words: korti (short), korte (shorty), korta 
-(shorten), novi (new), nove (news), nova (renovate).
+(shorten), nevi (new), neve (news), neva (renovate).
 
 
 ### Sinitic words

@@ -189,6 +189,7 @@ aurinko - sol
 aurinkokunta - solsistem  
 aurinkovarjo - solcate  
 Australia - Australia  
+Austronesia - Austronesia  
 auto (automobiili) - motogar  
 autonominen - autonomi  
 auttaa (avustaa) - helpa  
@@ -333,7 +334,7 @@ elektroni - eletron
 elementti (yksinkertaisin yksikkö) - em  
 eli (toisin sanoen) - alnamo  
 elohopea - hurargente  
-elokuu - ballun  
+elokuu - batolun  
 elokuva - kingraf  
 elokuvallinen - kingrafi  
 elokuvataide - kingrafia  
@@ -523,6 +524,7 @@ hammaslääkäri - dantomediker
 han-kiinalainen - cini  
 hana (venttiili, kraana) - kran  
 hangata - frika  
+hanhi - ganse  
 hanke (projekti) - projete  
 hankkia (ansaita) - ganya  
 hankkia (saada) - geta  
@@ -554,12 +556,13 @@ Havaijin saaret - Havai nesia
 he - les  
 hedelmä - pal  
 hei (haloo) - halou  
+heidän - lesi  
 heijastaa (peilata) - mira  
 heijastaa kuvia (projisoida) - lancografa  
 heikko - debili  
 heimo - tribe  
 heinä - gancau  
-heinäkuu - setolun  
+heinäkuu - cetolun  
 heittää (paiskata) - lanca  
 helikopteri - helisviman  
 helium - helem  
@@ -716,7 +719,7 @@ ihmiskunta - insania
 ihmisoikeudet - insani hake  
 ikkuna - janel  
 ikkunankehys (ikkunanpuite) - janelfrem  
-ikä - umur  
+ikä - sen  
 ilkeä (julma) - zalimi  
 illallinen - suaryam  
 ilma - air  
@@ -786,6 +789,7 @@ Itä-Timor - Dongi Timor
 itäinen - dongi  
 itämainen lohikäärme - lung  
 Itävalta - Ostria  
+iäkäs - seni  
 ####J - J  
 ja (sekä) - e  
 jade - giuke  
@@ -902,7 +906,7 @@ kaasuttaa - gasa
 kaasuuntua - gasu  
 kade (kateellinen) - jelosi  
 kadmium - kadem  
-kahdeksan (8) - bali  
+kahdeksan (8) - bati  
 kahdesti (kaksi kertaa) - dulmaro  
 kahista - xaxu  
 kahvi - kafe\*  
@@ -1154,7 +1158,7 @@ koko (kokonainen) - holi
 kolera - holir  
 kolikko - pesdiske  
 kollektiivinen - jami  
-kolme (3) - san  
+kolme (3) - sani  
 kolmio - sangon  
 kolonia (siirtomaa) - kolonia  
 kolonialismi - kolonistia  
@@ -1410,7 +1414,7 @@ laulu - cante
 lauta (paneeli) - ban  
 lautanen - platotas  
 lautapeli - bangem  
-lava (näyttämö) - sen  
+lava - tai  
 lawrensium - laurensem  
 lehmän liha - muhmanse  
 lehti (arkki, levy) - varke  
@@ -1664,6 +1668,7 @@ megawatti (MW) - megavate
 mehiläinen - melvespe  
 mehiläinen tai ampiainen - vespe  
 mehu - jus  
+meidän - mesi  
 meitnerium - maitnerem  
 mekko (tunika) - tunike  
 Meksiko - Mexiko  
@@ -1784,7 +1789,7 @@ muslimi (islaminuskoinen) - islamiste
 musta - siyahi  
 musta lista - haramliste  
 muste - moge  
-mustekala - balsenter  
+mustekala - batosenter  
 muta (kura, lieju) - fan  
 mutka (kurvi) - kurve  
 mutkikas - kurvi  
@@ -1846,6 +1851,8 @@ nauraa - haha
 Nauru - Nauru  
 nauta (lehmä) - muh  
 nauttia (syödä, juoda) - yama  
+neitseellinen (koskematon) - virji  
+neitsyt - virje  
 neli (kiitolaukka) - cargalope  
 neliö - cargon  
 neljä (4) - cari  
@@ -1864,7 +1871,7 @@ neuvoa - sela
 neuvontantaja (mentori) - menter  
 Nevis - Nevis  
 newton (N) - nuton  
-niedziela - setyom  
+niedziela - cetyom  
 niellä - gula  
 Niger - Nijer  
 Nigeria - Naijiria  
@@ -1880,7 +1887,7 @@ nisäkäs - mamal
 Niue - Niue  
 nobelium - nobelem  
 noin (arviolta, suunnilleen) - yago  
-nolla (ei yhtään) - nol (noli)  
+nolla (ei yhtään) - siri  
 nopea (pikainen, vauhdikas) - rapidi  
 nopeus (vauhti) - rapidia  
 nopeusmittari - rapidometrer  
@@ -1897,7 +1904,7 @@ nostaa pystyyn - liba
 nostaa tasoa - bondarja  
 nousta - gavu  
 noutopöytä (buffetti) - bufete  
-noviisi (uusikko, vasta-alkaja) - novike  
+noviisi (uusikko, vasta-alkaja) - nevike  
 nudismi - nudistia  
 nudisti - nudiste  
 nukke - pupe  
@@ -2556,7 +2563,7 @@ seisoa (seisahtaa) - estasu
 seisottaa - estasa  
 seisova (staattinen) - estasi  
 seistä (seisoa) - libu  
-seitsemän (7) - seti  
+seitsemän (7) - ceti  
 sekoitin - mixer  
 sekoittaa - mixa  
 seksi (sukupuolisuhde) - sekse  
@@ -2571,6 +2578,7 @@ selkeyttää (selittää) - klara
 selkä - ruke  
 selvä (selkeä) - klari  
 sementti - semente  
+senaattori - senater  
 Senegal - Senegal  
 sensori (aistin) - senser  
 sentti - centi\*  
@@ -2779,7 +2787,7 @@ syy - sabe
 syyllinen - doxi  
 syylä - zeyil  
 Syyria - Suria  
-syyskuu - tixlun  
+syyskuu - novolun  
 säde - rade  
 sädekehä (halo) - fotosirke  
 säe (riimi) - rim  
@@ -2880,6 +2888,7 @@ tauko (keskeytys, paussi) - pauze
 taulukko - datotable  
 taulukoida - tabla date  
 taulutietokone (tabletti) - tablokomputer  
+tauti - pate  
 tavallinen - adi  
 tavanomainen (perinteinen) - riti  
 tavata - mita  
@@ -2897,6 +2906,7 @@ tehdä täydelliseksi - purbona
 tehdä valmiiksi - reda  
 tehdä yhteistyötä - konkara  
 tehkäämme - haida  
+teidän - tesi  
 teippi (nauha) - tepe  
 teismi (jumalusko) - devistia  
 teisti - deviste  
@@ -3005,6 +3015,7 @@ tulinen - hogi
 tulkata (kääntää) - tarja  
 tulkki (kääntäjä) - tarjer  
 tulla (saapua) - laya  
+tulokaskasvi (neofyytti) - neufite  
 tulppa (tappi, korkki) - tape  
 tulppaani - tulpe  
 tundra - tundre  
@@ -3109,6 +3120,7 @@ ulottuvilla - aksesabli
 ulvoa - ulula  
 ulvonta - ulul  
 umami (ruokaisanmakuinen) - umami  
+unelias - somivi  
 unettomuus - ansomia  
 universaali - unversi  
 Unkari - Magyaria  
@@ -3133,12 +3145,15 @@ uskonto - din
 uskottavasti (totisesti, aamen) - ameno  
 uskovainen - diniste  
 utopia - eutopia  
-uudistaa - nova  
+uudissana - neuloge  
+uudistaa - neva  
 uuni - tanur  
-uusi - novi  
-Uusi-Kaledonia - Novi Kaledonia  
-Uusi-Seelanti - Novi Zelandia  
+uusi - nevi  
+Uusi-Kaledonia - Nevi Kaledonia  
+Uusi-Seelanti - Nevi Zelandia  
 uutinen - habar  
+uutuus - nevia  
+uutuustuote - neu  
 Uzbekistan - Uzbekia  
 vaaka (puntari) - vezometrer  
 vaaleanpunainen - rozorangi  
@@ -3211,6 +3226,7 @@ vastahakoinen (haluton) - anici
 vastakohta (antonyymi) - annam  
 vastakohtainen (negatiivinen, epä-) - ani  
 vastapäivään - rotolefto  
+vastasyntynyt - neujeni  
 vastata - javaba  
 vastaus - javabe  
 vastustaa - xata  
@@ -3273,7 +3289,7 @@ vihollinen - andoste
 vihollinen - dusjan  
 vihreä - lugi  
 viihdyttää (huvittaa) - vana  
-viikko - yomsete  
+viikko - yomcete  
 viimeinen - finodi  
 viini - vin  
 viinipanimo - vinkan  
@@ -3374,7 +3390,7 @@ ydinenergia - kerni energe
 ydinfissio - kerni fenia  
 ydinfuusio - kerni darunia  
 ydinfysiikka - kerni fizikia  
-yhdeksän - tixi  
+yhdeksän - novi  
 yhdessä - kono  
 Yhdistyneet Arabiemiirikunnat - Uniti Arabi Amiria (UAA)  
 yhdistys (sidos) - linke  
@@ -3440,7 +3456,7 @@ zulu - Zulu
 äiti (emä) - mai  
 äitipuoli (isän puoliso) - vismai  
 ällistyttää - ajaba  
-äsken (vasta, juuri) - novo  
+äsken (vasta, juuri) - nevo  
 äänestää - vota  
 ääni (äänestyksessä) - vote  
 ääni - son  

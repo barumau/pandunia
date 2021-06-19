@@ -89,6 +89,7 @@ atlantokade - 大西洋鱈
 atlantosalmon - 大西洋鮭  
 aven - 燕麦  
 aur - 金  
+Austronesia - 南岛  
 autologe - 独白  
 ####B - B  
 babe - 章  
@@ -102,8 +103,6 @@ baki - 白
 bakocoi - 白菜 (小白菜)  
 bakomargarite - 法蘭西菊  
 bakosalmon - 大麻哈鱼 (狗鮭)  
-bali - 八 (8)  
-balsenter - 章鱼  
 balibali - 各种各样  
 balute - 橡树 (xiàng)  
 bamye - 秋葵  
@@ -126,6 +125,9 @@ barxokote - 雨衣
 barxomosim - 雨季  
 basi - 够  
 baskobol - 篮球  
+bate - 鸭  
+bati - 八 (8)  
+batosenter - 章鱼  
 batonkapse - 笼  
 batre - 电池  
 bavi - 宝贵  
@@ -193,6 +195,8 @@ cenamen - 命運
 cendeno - 昨日  
 ceniki - 古老 (以前)  
 ceng - 层  
+ceti - 七 (7)  
+cetyom - 星期日 (禮拜日)  
 cili\* - 菜椒  
 cilifun - 辣椒粉  
 cini - 汉族  
@@ -330,6 +334,7 @@ Galia - 高卢
 galaksia - 恆星系  
 galte - 错误  
 gancau - 干草  
+ganse - 雁 (鹅)  
 ganum - 麦  
 garmomosim - 夏季  
 garmozon - 热带  
@@ -450,7 +455,7 @@ insanistia - 人文主义
 yoge - 瑜伽功  
 yoke - 轭  
 yom - 日  
-yomsete - 週  
+yomcete - 週  
 yongu - 融化  
 yongopetre - 熔岩  
 yongosaha - 熔炼  
@@ -598,6 +603,7 @@ kuxu - 躺
 la - 从  
 le - 他，她，它  
 les - 他们  
+lesi - 他们的  
 lage - 湖  
 laya - 来  
 layana - 带来  
@@ -669,6 +675,7 @@ luter - 强盗
 ####M - M  
 me - 我  
 mes - 我们  
+mesi - 我们的  
 magesem - 镁  
 Magribia - 摩洛哥  
 mai - 妈妈  
@@ -766,6 +773,9 @@ nautil - 鹦鹉螺
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
+nevi - 新  
+nevike - 新手  
+neuloge - 新词  
 neurtokse - 神经毒素  
 nide - 巢 (穴)  
 nili - 蓝色  
@@ -779,8 +789,7 @@ noma - 组织
 norde - 北  
 nostalgia - 怀旧  
 note - 便条  
-novi - 新  
-novike - 新手  
+novi - 九 (9)  
 numbe - 数  
 ####O - O  
 o - 或  
@@ -858,6 +867,7 @@ plati geukaskia - 板块构造论
 platistan - 平原  
 plum - 李子  
 polmaro - 经常  
+Polnesia - 波利尼西亚  
 polite - 政府  
 politomode - 政体  
 pontopin - 指南针  
@@ -932,7 +942,7 @@ sammetri - 对称
 sammetria - 对称性  
 samrayia - 一致  
 samsifia - 模型  
-san - 三 (3)  
+sani - 三 (3)  
 sanyom - 星期三 (禮拜三)  
 sanzong - 三叉戟  
 sanduice - 三明治 (三文治)  
@@ -947,12 +957,12 @@ seksolojia - 性学
 sem - 种  
 semi - 种子的  
 semdan - 种子  
+sen - 年岁  
+senater - 参议员  
 sense - 感觉  
 senter - 觸手  
 ser - 锯子  
 seram - 陶瓷  
-seti - 七 (7)  
-setyom - 星期日 (禮拜日)  
 side - 座部 (马鞍)  
 sifloge - 形容词  
 siyahi - 黑色  
@@ -1002,6 +1012,7 @@ susan - 百合花
 ####T - T  
 te - 你  
 tes - 你们  
+tesi - 你们的  
 tablokomputer - 平板电脑  
 tail - 砖 (瓦)  
 taksometrer - 计程器  
@@ -1035,7 +1046,6 @@ tira milke - 拉
 tira pil - 削 (刮去)  
 tirbaton - 杆  
 tirlonga - 拉  
-tixi - 九 (9)  
 toca - 接触  
 toksolojia - 毒物学  
 tomate - 西红柿  
@@ -1072,10 +1082,10 @@ vezi - 重型的
 vida - 看  
 vidou - 寡妇  
 vijin - 味精  
+virje - 处女  
 vismai - 继母  
 vispai - 继父  
 umami - 鲜味  
-umur - 年岁  
 un (uni) - 一 (1)  
 uniki - 唯一 (独)  
 uniko - 只有 (惟独)  

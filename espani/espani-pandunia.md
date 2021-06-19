@@ -80,7 +80,7 @@ agacharse - insida
 agente - ater  
 agitar (sacudir) - sisma  
 agorafobia - medenfobia  
-agosto - ballun  
+agosto - batolun  
 agradecer - danka  
 agresivo - agresivi  
 agresor - agreser  
@@ -93,7 +93,7 @@ agua mineral - kuangosui
 aguacate - avakate  
 agujero (hueco) - kong  
 ahora (actualmente) - zayo  
-ahora mismo (justo) - novo  
+ahora mismo (justo) - nevo  
 ahorrar (reservar, depositar) - banka  
 aire - air  
 ajedrez - xatranje  
@@ -300,6 +300,7 @@ aullido - ulul
 auspicioso (propicio) - bonsinyi  
 Australia - Australia  
 Austria - Ostria  
+Austronesia - Austronesia  
 autenticar - verita  
 autocratia (monarquía) - autokratia  
 automotor (automotriz) - automoti  
@@ -634,7 +635,7 @@ cerebro - serebre
 Ceres (planeta enano) - Ceres  
 cereza - cerize  
 cerio - ceresem  
-cero (ninguno) - nol (noli)  
+cero (ninguno) - siri  
 cerradura (candado) - sor  
 cerrar con cremallera - zipa  
 cerveza (birra) - bir  
@@ -1084,7 +1085,7 @@ domar (amansar) - dosila
 domesticado - dosiljeni  
 domesticar (cultivate) - dosiljenita  
 dominar - mesta  
-domingo - setyom  
+domingo - cetyom  
 Dominica - Dominika  
 dominio (reinado) - kratia  
 dominó - dominogem  
@@ -1118,7 +1119,7 @@ economía - malnomia
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
 ecuador - geuparlin  
-edad - umur  
+edad - sen  
 educación - xulia  
 educado - keci  
 efectuar - asara  
@@ -1229,7 +1230,7 @@ escapatoria - cute
 escarcha - himros  
 escasez - xavia  
 escaso (disperso, ralo) - anjami  
-escenario - sen  
+escenario (podio, estrado, tarima) - tai  
 Escocia - Eskotia  
 escribir - kitaba  
 escritorio (mesa de trabajo) - karmeze  
@@ -1454,6 +1455,7 @@ Gambia - Gambia
 ganar (cobrar) - ganya  
 gancho (anzuelo, alcayata) - huke  
 Ganges - Ganga  
+ganso (oca) - ganse  
 garam masala - garmi masal  
 garantía - garante  
 garbanzo - humus  
@@ -1841,7 +1843,7 @@ juez (árbitro, réferi) - juder
 jugador - gemer  
 jugar un juego - gema  
 jugo (zumo) - jus  
-julio - setolun  
+julio - cetolun  
 junio - sislun  
 juntos - kono  
 juntura (conexión, enlace) - linke  
@@ -2200,7 +2202,7 @@ moda (tendencia) - faxon
 modelar - model  
 modelo (similitud, simulación) - samsifia  
 modelo - modela  
-moderno - nouyangi  
+moderno - neuyangi  
 modo (manera, forma) - mode  
 modo nocturno - nocomode  
 mojado - xipi  
@@ -2321,6 +2323,8 @@ negocios (comercio) - biznes
 negro - siyahi  
 nenúfar (lirio de agua) - nenufar  
 neodimio - neodimem  
+neologismo - neuloge  
+neonato (recién nacido) - neujeni  
 Nepal - Nepal  
 neptunio - neputunem  
 Neptuno - Neputun  
@@ -2367,17 +2371,19 @@ nota - note
 notar (observar) - nota  
 notar el sabor - gusta  
 noticias - habar  
-novato - novike  
-novedad - nou  
+novato - nevike  
+novedad - neu  
+novedad - nevia  
 nube - mege  
 nudismo - nudistia  
 nudista - nudiste  
 nudo - node  
-Nueva Caledonia - Novi Kaledonia  
+nuestro - mesi  
+Nueva Caledonia - Nevi Kaledonia  
 nueva línea - linparce  
-Nueva Zelanda - Novi Zelandia  
-nueve (9) - tixi  
-nuevo - novi  
+Nueva Zelanda - Nevi Zelandia  
+nueve (9) - novi  
+nuevo - nevi  
 nunca - nol sate  
 nutria - lontre  
 náhuatl (nahua) - navati  
@@ -2399,7 +2405,7 @@ obsidiana - osidian
 occidental - vesti  
 Oceanía - Oceania  
 ocelote - oselote  
-ocho (8) - bali  
+ocho (8) - bati  
 ocra - bamye  
 octubre - deslun  
 ocular - oki  
@@ -2671,6 +2677,7 @@ planear (tener pensado) - plana
 planeta - planete  
 plano (placa) - plate  
 planta (vegetal, vegetación) - fite  
+planta neófita - neufite  
 plasma (gas ionizado) - plazme  
 plastilina - plastopaste  
 plata - argente  
@@ -2702,6 +2709,7 @@ poli- - pol-
 policía - polis  
 policía - poliser  
 poliedro - polfas  
+Polinesia - Polnesia  
 Polinesia Francesa - Fransi Polnesia  
 politeísmo - poldevistia  
 pollo - kokode  
@@ -2812,7 +2820,7 @@ Puerto Rico - Portorikia
 puertorriqueño - portoriki  
 pulir (lustrar) - fotofrika  
 pulmón - pulmon  
-pulpo - balsenter  
+pulpo - batosenter  
 puma - puma\*  
 punjabí - panjabi  
 punto (lunar) - binde  
@@ -2921,7 +2929,7 @@ remojar (marinar, encurtir, macerar) - purxipa
 remolacha - bete  
 remolacha azucarera - sukarbete  
 renio - renem  
-renovar - nova  
+renovar - neva  
 reparador - reiboner  
 reparar (arreglar) - reibona  
 repetición - rei  
@@ -3084,9 +3092,10 @@ seguro - sekuri
 seis (6) - sisi  
 selenio - selenem  
 sello postal - postocape  
-semana - yomsete  
+semana - yomcete  
 semilla - sem  
 seminal - semi  
+senador - senater  
 sencillo (liso) - sadi  
 Senegal - Senegal  
 seno (teta) - mam  
@@ -3095,7 +3104,7 @@ sentarse - sidu
 sentido - sense  
 sentir (detectar) - sensa  
 sentir - emosu  
-septiembre - tixlun  
+septiembre - novolun  
 ser (estar) - sa  
 ser - ser  
 ser de - malu  
@@ -3121,7 +3130,7 @@ Siberia - Sibiria
 siempre - pansato  
 sierra - ser  
 Sierra Leona - Salon  
-siete (7) - seti  
+siete (7) - ceti  
 sigilo - siri mote  
 significado (acepción) - men  
 significar - mena  
@@ -3175,6 +3184,7 @@ sopa - supe
 soplar (echar) - hava  
 soporte (perchero, atril) - libobaze  
 sorpresa - suprize  
+soñoliento (somnífero) - somivi  
 sranan tongo - surinami bax  
 Sri Lanka - Lanka  
 strontium - estrontem  
@@ -3387,7 +3397,7 @@ transporte - transeria
 trasero (nalgas) - pige  
 tratar de - tema  
 tren - tren  
-tres (3) - san  
+tres (3) - sani  
 tribu - tribe  
 tridente - sanzong  
 trigo - ganum  
@@ -3535,6 +3545,8 @@ vigilar (guardar) - garda
 vinagre - vinsuan  
 vinilo - vinil  
 vino - vin  
+virgen - virje  
+virginal - virji  
 virología - viruslojia  
 virrey - visrajer  
 virtud (moralidad) - bondeke  
@@ -3559,6 +3571,7 @@ voto - vote
 vudú - vodun  
 vuelo - fei  
 vuelta - retre  
+vuestro - tesi  
 vulva - vulve  
 válvula (llave, canilla) - kran  
 vía férrea - trendau  

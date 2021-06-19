@@ -95,7 +95,7 @@ are also a lot of country names that do not end in **-ia**.
 
 Also abstract nouns often end in **-ia**.
 
-**novi** new, **novia** newness, novelty  
+**nevi** new, **nevia** newness, novelty  
 **huri** free, **huria** freedom
 
 When it is added after -er, it means a field of expertise.
@@ -116,9 +116,9 @@ only, sole, single
 – home  
 **domiki**
 – domestic  
-**novi**
+**nevi**
 new
-→ **novike**
+→ **nevike**
 novice, newbie
 
 #### -abli

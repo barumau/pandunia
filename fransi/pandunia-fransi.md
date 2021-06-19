@@ -197,6 +197,7 @@ avar - dommage
 aven - avoine  
 aur - or  
 Australia - Australie  
+Austronesia - Austronésie  
 autologe - monologue  
 Axur - Assur  
 Axuria - Assyrie  
@@ -215,9 +216,6 @@ bai - baie (golf)
 baki - blanc  
 bakomargarite - marguerite  
 bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
-bali - huit (8)  
-ballun - août  
-balsenter - Poulpe (pieuvre)  
 balde - seau  
 balibali - divers (plusieurs)  
 balon - ballon  
@@ -264,6 +262,9 @@ basi - assez
 basen - bassin  
 baske - panier (panier de basketball)  
 baskobol - basketball  
+bati - huit (8)  
+batolun - août  
+batosenter - Poulpe (pieuvre)  
 baton - bâton (canne, tige)  
 batonkapse - cage  
 batre - pile (batterie)  
@@ -337,6 +338,8 @@ cendeno - hier
 ceniki - vieux (ancien)  
 centaur - Centaurée  
 cerize - cerise  
+ceti - sept (7)  
+cetyom - dimanche  
 cili\* - piment  
 cinbrusben - cousin  
 cinmai - grand-mère  
@@ -512,6 +515,7 @@ gammai - belle-mère
 gampai - beau-père  
 gancau - foin  
 gantex - serviette  
+ganse - oie  
 ganum - blé  
 garmomosim - été  
 garmozon - tropique  
@@ -803,6 +807,7 @@ kuxu - être couché
 kuxloke - couch (couchette)  
 ####L - L  
 la - de  
+lesi - leur  
 lage - lac  
 laya - venir  
 layana - apporter  
@@ -874,6 +879,7 @@ luter - brigand (bandit)
 ####M - M  
 me - je (me)  
 mes - nous  
+mesi - notre  
 mafa - pardonner  
 magesem - magnésium  
 Magribia - Maroc  
@@ -982,6 +988,11 @@ nefre - rein
 nefte - huile (pétrole)  
 Neputun - Neptune  
 netogeta - télécharger  
+nevi - nouveau  
+nevia - nouveauté  
+nevike - néophyte  
+neujeni - nouveau-né  
+neuloge - néologisme  
 neurcel - neurone  
 neurtokse - neurotoxine  
 nice - dessous  
@@ -996,8 +1007,7 @@ noma - organiser
 norde - nord  
 nostalgia - nostalgie  
 note - note  
-novi - nouveau  
-novike - néophyte  
+novi - neuf (9)  
 numbe - nombre (numéro)  
 ####O - O  
 o - ou  
@@ -1100,6 +1110,7 @@ platistan - plaine
 platogeviste - terreplatiste  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
+Polnesia - Polynesie  
 polite - gouvernement  
 politer - administrateur  
 porei - poireau  
@@ -1202,7 +1213,7 @@ sammetri - symétrique
 sammetria - symétrie  
 samrayia - accord  
 samsifia - simulation  
-san - trois (3)  
+sani - trois (3)  
 sanyom - mercredi  
 sanduice - sandwich  
 sang - sang  
@@ -1217,11 +1228,11 @@ sela - conseiller
 selge - blettes (bettes)  
 sem - semence  
 semi - séminal  
+sen - âge  
+senater - sénateur  
 sense - sens  
 senter - tentacule  
 ser - scie  
-seti - sept (7)  
-setyom - dimanche  
 sifloge - adjectif  
 siyahi - noir  
 sikle - bicyclette  
@@ -1248,6 +1259,7 @@ solcentaur - Centaurée du solstice
 solful - Tournesol  
 som - sommeil  
 somu - dormir  
+somivi - ensommeillé (somnolent)  
 somkamar - chambre à coucher  
 sompapil - pavot somnifère  
 son - son  
@@ -1276,7 +1288,9 @@ sundaria - beauté
 susan - lys  
 ####T - T  
 te - tu  
+tesi - votre  
 tablokomputer - ordinateur tablette  
+tai - estrade  
 tail - carreau (tuile)  
 taksometrer - taximètre  
 tal - bas  
@@ -1309,7 +1323,6 @@ tim - équipe
 tira milke - tirer  
 tira pil - écorce  
 tirlonga - tender  
-tixi - neuf (9)  
 toca - toucher  
 toksolojia - toxicologie  
 tomate - tomate  
@@ -1357,9 +1370,9 @@ vezometrer - balance (poids)
 vida - voir  
 vidou - veuve  
 viyoleti - violet (pourpre)  
+virje - vierge  
 virus - virus  
 visrajer - vice-roi  
-umur - âge  
 un (uni) - un (1)  
 uniki - seul (unique)  
 uniko - uniquement  

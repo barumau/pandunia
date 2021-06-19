@@ -130,6 +130,7 @@ auda - aŭdi (aŭskulti)
 aven - aveno  
 aur - oro  
 Australia - Aŭstralio  
+Austronesia - Aŭstronezio  
 automoti - memmova  
 ####B - B  
 babe - ĉapitro  
@@ -142,7 +143,6 @@ bagre - tigro
 bahayiste - bahaisto  
 bahayistia - bahaismo  
 baki - blanka  
-bali - ok (8)  
 balde - sitelo  
 balon - balono  
 ban - tabulo  
@@ -175,6 +175,7 @@ basi - sufiĉa
 basen - baseno  
 baske - korbo  
 bate - anaso  
+bati - ok (8)  
 baton - stango  
 batonkapse - kaĝo  
 batre - baterio (pilo)  
@@ -305,6 +306,8 @@ centi\* - centono
 Ceres - Cereso  
 ceresem - cerio  
 cesem - cezio  
+ceti - sep (7)  
+cetyom - dimanĉosunnuntai  
 Cile - Ĉilio  
 cimpanze - ĉimpanzo  
 cini - hana  
@@ -625,6 +628,7 @@ gantex - viŝilo
 Ganga - Gangoj  
 ganya - akiri (gajni)  
 ganje - kanabo  
+ganse - ansero  
 ganum - tritiko  
 gar - aŭto (ĉaro)  
 garante - garantio  
@@ -805,7 +809,7 @@ yodem - jodo
 yoge - jogo  
 yoke - jugo  
 yom - tago (periodo de 24 horoj)  
-yomsete - semajno  
+yomcete - semajno  
 Irakia - Irakio  
 Iran - Iranio  
 iridem - iridio  
@@ -1043,6 +1047,7 @@ kuxu - kuŝi
 la - de (el, pro)  
 le - li aŭ ŝi aŭ ĝi  
 les - ili  
+lesi - ilia  
 labe - lipo  
 laya - veni  
 layana - alporti (venigi)  
@@ -1113,6 +1118,7 @@ lutetem - lutecio
 me - mi  
 mi - mia  
 mes - ni  
+mesi - nia  
 maf - pardono  
 mafa - pardoni  
 magia - magio  
@@ -1269,6 +1275,13 @@ Nepal - Nepalo
 Neputun - Neptuno  
 neputunem - neptunio  
 nete - reto  
+neu - novaĵo  
+nevi - nova  
+nevia - noveco  
+nevo - ĵus  
+nevike - novulo  
+neujeni - novnaskita  
+neuloge - neologismo  
 neur - nervo  
 neuri - nerva  
 neurcel - neŭrono  
@@ -1293,9 +1306,6 @@ nostalgia - nostalgio (saudado)
 nota - rimarki  
 note - noto (rimarko, komento)  
 notobuke - kajero  
-novi - nova  
-novo - ĵus  
-novike - novulo  
 numbe - nombro  
 nuton - newtono (N)  
 ####O - O  
@@ -1539,7 +1549,7 @@ samraya - samopinii (interkonsenti)
 samrayia - interkonsento  
 samseksi - samseksema  
 samarem - samario  
-san - tri (3)  
+sani - tri (3)  
 sanyom - merredo  
 sanduke - skatolo (kesto)  
 sang - sango  
@@ -1559,13 +1569,13 @@ selu - devus
 selenem - seleno  
 sem - semo  
 semi - sema  
+sen - aĝo  
+senater - senatano  
 sense - sentumo  
 senta - senti  
 Serbia - Serbio  
 serebre - cerbo  
 serpe - serpento  
-seti - sep (7)  
-setyom - dimanĉosunnuntai  
 siborgem - seborgio  
 sida - sidi  
 sifloge - adjektivo  
@@ -1596,6 +1606,7 @@ solcate - sunombrelo
 solsistem - sunsistemo  
 som - dormo  
 somu - dormi  
+somivi - dormema  
 somkamar - dormoĉambro  
 son - sono  
 song - pino  
@@ -1636,6 +1647,7 @@ suxi - suŝio
 te - vi (ci)  
 ti - via (cia)  
 tes - vi ĉiu  
+tesi - via  
 tabake - tabako  
 tafun - ŝtormo  
 tayi - tajlanda  
@@ -1743,11 +1755,12 @@ vin - vino
 vinsuan - vinagro  
 vir - heroo  
 viri - heroa  
+virje - virgulo  
+virji - virga  
 visi - vic-  
 visloge - pronomo  
 vismai - vicpatrino  
 vispai - vicpatro  
-umur - aĝo  
 un (uni) - unu (1)  
 unia - uniono  
 unal - unu la alian (reciproke)  
