@@ -11,7 +11,7 @@ adalia - 正义
 adres - 地址  
 Afgania - 阿富汗  
 aga - 如果 (要是)  
-agrobiulojia - 土壤生物学  
+agrobiyolojia - 土壤生物学  
 agrocun - 农村  
 agronomia - 农学  
 agres - 攻击  
@@ -24,7 +24,7 @@ aisu - 结冰
 aishoke - 冰球  
 aiskrem - 冰淇淋  
 ajili - 灵活的  
-akar - 蜱 (螨)  
+akare - 蜱 (螨)  
 akse - 轴线  
 aksente - 重音符号  
 ala - 改變  
@@ -33,11 +33,11 @@ alraya - 不同意
 alge - 藻类  
 algofung - 地衣  
 algojangle - 海藻林  
-alkal - 碱性  
-alkalgusti - 苦的  
-alkalmelon - 苦瓜  
+alkale - 碱性  
+alkalogusti - 苦的  
+alkalomelon - 苦瓜  
 alkol - 酒  
-almar - 碗碟橱  
+almare - 碗碟橱  
 almas - 钻石  
 am - 愛  
 ama - 爱  
@@ -53,7 +53,7 @@ angar - 锚
 angul - 手指  
 angulmarke - 指纹 (指印)  
 angulpike - 指尖  
-anim - 活跃  
+anime - 活跃  
 anjil - 信息  
 anten - 天线  
 anus - 肛门  
@@ -61,15 +61,15 @@ aple - 苹果
 aplika - 运用  
 ar - 面积  
 arabobabul - 阿拉伯金合欢  
-aran - 蜘蛛  
+arane - 蜘蛛  
 arbuze - 西瓜  
 argente - 银  
 arke - 弓 (琴弓, 拱)  
 arme - 武器  
-arom - 气味  
+arome - 气味  
 aroma - 闻到  
 aromu - 发臭  
-arommelon - 香瓜  
+aromomelon - 香瓜  
 arte - 艺术  
 artiste - 美术家  
 asar - 影响  
@@ -88,7 +88,7 @@ Atina - 雅典
 atlantokade - 大西洋鱈  
 atlantosalmon - 大西洋鮭  
 aven - 燕麦  
-aur - 金  
+aure - 金  
 Austronesia - 南岛  
 autologe - 独白  
 ####B - B  
@@ -132,9 +132,9 @@ batonkapse - 笼
 batre - 电池  
 bavi - 宝贵  
 bauxeke - 宝石  
-bax - 语言  
+baxe - 语言  
 baxi jinse - 文法的性  
-baxlojia - 语言学  
+baxolojia - 语言学  
 baze - 底部  
 bazobol - 棒球  
 bazoxulkan - 小学  
@@ -142,7 +142,7 @@ bazar - 市场
 bebe - 宝宝  
 bekofan - 陶瓦  
 bel - 铲  
-ber - 浆果 (莓)  
+bere - 浆果 (莓)  
 berande - 阳台  
 berje - 桦树  
 bete - 甜菜頭  
@@ -151,12 +151,12 @@ bina - 建设
 binplania - 建筑学  
 binplaner - 建筑师  
 bir - 啤酒  
-biu - 生物  
-bivi jinse - 生物性別  
-biulojia - 生物学  
-biumutu - 发酵  
-biusistem - 生物群系  
-biutokse - 毒素  
+biye - 生物  
+biyi jinse - 生物性別  
+biyolojia - 生物学  
+biyomutu - 发酵  
+biyosistem - 生物群系  
+biyotokse - 毒素  
 bode - 身体  
 boyu - 漂浮  
 bokse - 拳击  
@@ -196,8 +196,8 @@ ceniki - 古老 (以前)
 ceng - 层  
 ceti - 七 (7)  
 cetyom - 星期日 (禮拜日)  
-cili\* - 菜椒  
-cilifun - 辣椒粉  
+cile - 菜椒  
+cilofun - 辣椒粉  
 cini - 汉族  
 cinga - 请  
 cir - 撕裂  
@@ -265,7 +265,7 @@ duve - 祈祷
 dux - 淋浴  
 ####E - E  
 e - 和  
-ekor - 松鼠  
+ekore - 松鼠  
 eletrolin - 电缆 (电线)  
 eletrorade - 闪电  
 emoje - 绘文字  
@@ -343,11 +343,11 @@ gatomate - 固体
 gautehnia - 高科技 (高技术)  
 genca - 检查  
 geta - 获得  
-geuforme - 地势  
-geugrafia - 地理  
-geumetria - 几何学  
-geupolitike - 地缘政治  
-geutermi - 地热的  
+geyoforme - 地势  
+geyografia - 地理  
+geyometria - 几何学  
+geyopolitike - 地缘政治  
+geyotermi - 地热的  
 gida - 导游  
 gider - 导游  
 gidobuke - 指南  
@@ -360,11 +360,11 @@ glutobende - 创可贴 (邦迪)
 glutofan - 黏土  
 glutograf - 贴纸  
 gol - 目的  
-goril - 大猩猩  
+gorile - 大猩猩  
 goton - 棉  
 grafsage - 漫画  
 granite - 花岗石  
-grau - 砾石  
+grave - 砾石  
 grimas - 鬼脸  
 Guangjou - 广州  
 guipapil - 鬼罂粟 (東方罌粟)  
@@ -497,9 +497,9 @@ ke - 什么
 ko? - 怎么  
 kaboge - 南瓜  
 kade - 鱈  
-kafe\* - 咖啡  
-kafekan - 咖啡馆  
-kafepote - 咖啡壶  
+kafe - 咖啡  
+kafokan - 咖啡馆  
+kafopote - 咖啡壶  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kali harfe - 空隙  
@@ -541,9 +541,9 @@ karsolimon - 箭叶橙
 kaske - 壳 (皮)  
 kata - 切  
 katoglutoban - 剪贴板  
-katan - 剑  
+katane - 剑  
 katus - 仙人掌  
-kau - 坑 (穴)  
+kave - 坑 (穴)  
 kava - 挖  
 keci - 客气  
 keger - 客人  
@@ -581,7 +581,7 @@ kornomelon - 刺角瓜
 kortokrokodil - 短吻鳄  
 kosmi - 宇宙的  
 kosmia - 宇宙  
-kosmobiulojia - 太空生物学  
+kosmobiyolojia - 太空生物学  
 kosmonau - 太空船  
 kosmonaver - 太空人  
 krake - 裂缝 (缝隙)  
@@ -614,7 +614,7 @@ laloranje - 柑橘 (红橘)
 lalsalmon - 紅鮭  
 lama\* - 喇嘛  
 lampe - 灯  
-lan - 诅咒  
+lane - 诅咒  
 lancite - 投掷物  
 lancograf - 投影  
 lancografa - 投射  
@@ -634,10 +634,10 @@ lense - 透镜
 lenti - 慢  
 letis - 莴苣  
 leze - 梨  
-liama\* - 大羊駝  
+liame - 大羊駝  
 liboban - 架子 (搁板)  
 libobaze - 架子  
-libel - 蜻蜓  
+libele - 蜻蜓  
 lider - 领导  
 lili - 小  
 lilkaboge - 西葫芦  
@@ -667,7 +667,7 @@ longopipre - 荜拔
 lontre - 獭  
 lova - 漏  
 lugi - 绿色  
-lunkeke - 月饼  
+lunokeke - 月饼  
 lung - 龙  
 luta - 掠夺  
 luter - 强盗  
@@ -692,7 +692,7 @@ mar - 次 (度, 遍)
 margai - 長尾虎貓  
 mas - 质量  
 masmulsolful - 菊芋  
-masal - 香料  
+masale - 香料  
 maste - 桅  
 mate - 物质  
 matur - 成年人  
@@ -726,7 +726,7 @@ meze - 桌子
 mezotex - 桌布  
 migra - 搬家  
 mikrobiu - 微生物   
-mikrobiulojia - 微生物学  
+mikrobiyolojia - 微生物学  
 mikroskope - 显微镜  
 milkokardon - 水飞蓟  
 mima - 模拟  (模仿)  
@@ -769,14 +769,14 @@ nasibe - 命運
 nau - 船 (艇)  
 naulefte - 左舷  
 nauraite - 右舷  
-nautil - 鹦鹉螺  
+nautile - 鹦鹉螺  
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
 nevi - 新  
 nevike - 新手  
 neuloge - 新词  
-neurtokse - 神经毒素  
+neurotokse - 神经毒素  
 nide - 巢 (穴)  
 nili - 蓝色  
 nilcentaur - 矢車菊  
@@ -847,8 +847,8 @@ pelpel - 蝴蝶
 pendokardon - 垂花飞廉  
 pente - 油漆 (颜料)  
 perkardon - 翼蓟  
-pes - 钱  
-pesdiske - 硬币  
+pese - 钱  
+pesodiske - 硬币  
 petronefte - 石油  
 pex - 鱼  
 pexhuke - 鱼钩  
@@ -862,8 +862,8 @@ pinkardon - 大翅蓟
 pipre - 胡椒  
 piprominte - 辣薄荷  
 piram - 金字塔  
-pis - 云杉  
-plati geukaskia - 板块构造论  
+pise - 云杉  
+plati geyokaskia - 板块构造论  
 platistan - 平原  
 plum - 李子  
 polmaro - 经常  
@@ -882,7 +882,7 @@ puding - 布丁
 pujokan - 寺庙  
 pujomeze - 圣坛  
 pul - 桥  
-puma\* - 美洲獅 (山狮)  
+pume - 美洲獅 (山狮)  
 purfina - 完成  
 purfityamiste - 纯素食主义者  
 purxipa - 浸泡  
@@ -952,18 +952,19 @@ sar - 头
 sate - 时刻 (瞬间)  
 Saturne - 土星  
 sava - 知道 (晓得)  
-sauvol - 趣  
-sauvolani - 有趣  
+savovol - 趣  
+savovolani - 好奇  
+savovoliti - 有趣  
 seksolojia - 性学  
-sem - 种  
+seme - 种  
 semi - 种子的  
 semdan - 种子  
 sen - 年岁  
 senater - 参议员  
 sense - 感觉  
 senter - 觸手  
-ser - 锯子  
-seram - 陶瓷  
+sere - 锯子  
+serame - 陶瓷  
 side - 座部 (马鞍)  
 sifloge - 形容词  
 siyahi - 黑色  
@@ -1038,7 +1039,7 @@ tenhal - 天气
 tenkenar - 地平线  
 terci - 斜的  
 teroristia - 恐怖行为  
-tes - 论据  
+tese - 论据  
 teste - 化验  
 tex - 布料  
 tikete - 票  
@@ -1062,12 +1063,12 @@ va - 到
 vade - 山谷  
 vadosusan - 鈴蘭  
 vaf - 狗  
-vagin - 阴道  
+vagine - 阴道  
 val - 价值  
 vampir - 吸血鬼  
 van - 娱乐  
 vanu - 玩耍  
-vas - оазис  
+vase - оазис  
 vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
@@ -1146,7 +1147,7 @@ zebre - 斑马
 zeyil - 疣  
 zeze - 双翅目  
 zinje - 姜  
-zir - 孜然  
+zire - 孜然  
 zoki - 指针式的  
 zoko - 还 (依然)  
 zong - 桩  

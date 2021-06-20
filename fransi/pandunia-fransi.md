@@ -29,7 +29,7 @@ afrikofiler - afrophile
 aga - si  
 agra - cultiver  
 agri - agricole  
-agrobiulojia - agrobiologie  
+agrobiyolojia - agrobiologie  
 agronomia - agronomie  
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
@@ -54,7 +54,7 @@ Aiti - Haïti
 ajaba - éblouir (étonner, stupéfier, surprendre)  
 ajabe - merveille  
 ajili - agile  
-akar - acarien  
+akare - acarien  
 akse - axe  
 aksente - accent  
 akses - accès  
@@ -74,13 +74,13 @@ Alaska - Alaska
 alge - algue  
 algofung - lichen  
 algojangle - forêt de kelp  
-alkal - base (alcali)  
+alkale - base (alcali)  
 alkali - basique  
-alkalgusti - amer  
+alkalogusti - amer  
 alkaloranje - orange amère  
 alkol - alcool  
 alkoli - alcoolique  
-almar - placard  
+almare - placard  
 almas - diamant  
 aluminem - aluminium  
 aluminmate - alun  
@@ -123,7 +123,7 @@ angar - ancre
 Angola - Angola  
 angulmarke - empreinte digitale  
 angulpike - bout de doigt  
-anim - animation  
+anime - animation  
 anima - animer  
 anjil - message  
 anjiler - messager  
@@ -142,9 +142,9 @@ Apsni - Abkhazie
 ar - aire (superficie)  
 aria - espace (zone, région)  
 arabi - arabe  
-aran - araignée  
-aranfobia - arachnophobie  
-arannete - toile d'araignée  
+arane - araignée  
+aranofobia - arachnophobie  
+aranonete - toile d'araignée  
 arbuze - pastèque  
 Arcah - Artsakh  
 argente - argent  
@@ -155,10 +155,10 @@ arke - arc
 arker - archer  
 arkeria - tire à l'arc  
 arme - arme  
-arom - odeur  
+arome - odeur  
 aroma - sentir qqch  
 aromu - sentir qqch (avoir l'odeur de qqch)  
-arsen - arsenic  
+arsene - arsenic  
 arte - art  
 artiste - artiste  
 Artike - arctique  
@@ -195,7 +195,7 @@ atom - atome
 avakate - avocat  
 avar - dommage  
 aven - avoine  
-aur - or  
+aure - or  
 Australia - Australie  
 Austronesia - Austronésie  
 autologe - monologue  
@@ -270,7 +270,7 @@ batonkapse - cage
 batre - pile (batterie)  
 bavi - précieux  
 bauxeke - pierre précieuse (joyau)  
-bax - langue  
+baxe - langue  
 baxi jinse - genre grammatical  
 baze - base  
 bazobol - baseball  
@@ -282,7 +282,7 @@ beker - boulanger
 bekofan - terre cuite  
 bel - pelle  
 ben - fils ou fille  
-ber - baie  
+bere - baie  
 berande - balcon  
 berje - bouleau  
 bete - betterave  
@@ -291,12 +291,12 @@ bina - construire
 binplania - architecture  
 binplaner - architecte  
 bir - bière  
-biu - organisme  
-biucaniver - compost  
-biulojia - biologie  
-biumutu - fermenter  
-biusistem - biome  
-biutokse - toxine  
+biye - organisme  
+biyocaniver - compost  
+biyolojia - biologie  
+biyomutu - fermenter  
+biyosistem - biome  
+biyotokse - toxine  
 bode - corps  
 boyu - nagar (flotter)  
 bokse - boxe  
@@ -335,11 +335,11 @@ celolojia - cytologie
 ceno - avant  
 cendeno - hier  
 ceniki - vieux (ancien)  
-centaur - Centaurée  
+centaure - Centaurée  
 cerize - cerise  
 ceti - sept (7)  
 cetyom - dimanche  
-cili\* - piment  
+cile - piment  
 cinbrusben - cousin  
 cinmai - grand-mère  
 cinpai - grand-père  
@@ -417,7 +417,7 @@ dux - douche
 ####E - E  
 e - et  
 ekojeni - sauvage  
-ekor - écureuil  
+ekore - écureuil  
 eletre - électricité  
 em - élément (unité fondamentale)  
 emoje - émoticône (emoji)  
@@ -425,7 +425,7 @@ emos - émotion
 emoshal - humeur  
 englofoni - anglophone  
 englomargarite - pâquerette  
-eskaltan - vigne  
+eskalotan - vigne  
 Eskandia - Scandinavie  
 eskulter - sculpteur  
 esponje - éponge  
@@ -526,15 +526,15 @@ gau - haut
 gautehnia - hautes technologies  
 gazel - gazelle  
 Germania - Germanie  
-Gevia - Terre  
-geuforme - terrain  
-geugrafia - geographie  
-geukaski plate - plaque tectonique  
-geulojia - géologie  
-geumetria - géométrie  
-geunici prizon - oubliette (cul de basse-fosse)  
-geupolitike - géopolitique  
-geutermi - géothermique  
+Geyia - Terre  
+geyoforme - terrain  
+geyografia - geographie  
+geyokaski plate - plaque tectonique  
+geyolojia - géologie  
+geyometria - géométrie  
+geyonici prizon - oubliette (cul de basse-fosse)  
+geyopolitike - géopolitique  
+geyotermi - géothermique  
 gida - guider  
 gider - guide  
 gidobuke - guide touristique  
@@ -547,11 +547,11 @@ glutobende - pansement (sparadrap)
 glutofan - argile  
 glutograf - autocollant  
 gol - but (destination)  
-goril - gorille  
+gorile - gorille  
 goton - coton  
 grafsage - bande dessinée  
 granite - granit  
-grau - gravire  
+grave - gravire  
 grimas - grimace  
 grupe - groupe  
 guipapil - pavot d'Orient  
@@ -595,7 +595,7 @@ hen - haine
 Hesia - Hesse  
 hiyar - concombre  
 hijabe - voile  
-him - neige  
+hime - neige  
 Hinde riu - Indus  
 Hindia - Hindustan  
 hisaba - calculer  
@@ -701,9 +701,9 @@ ki sate - quand
 ko? - comment  
 kaboge - citrouille  
 kade - morue  
-kafe\* - café  
-kafekan - café  
-kafepote - cafetière  
+kafe - café  
+kafokan - café  
+kafopote - cafetière  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kali harfe - espace  
@@ -745,9 +745,9 @@ karsi - rêche (rugueux, gros)
 karsolimon - combava  
 kaske - carapace (coquille, coquillage, croûte)  
 katoglutoban - presse-papier  
-katan - épée  
+katane - épée  
 katus - cactus  
-kau - fosse  
+kave - fosse  
 kava - creuser  
 kerne - coeur  
 kim - substance  
@@ -783,7 +783,7 @@ koron - couronne
 kortokrokodil - alligator  
 kosmi - cosmique  
 kosmia - cosmos  
-kosmobiulojia - astrobiologie  
+kosmobiyolojia - astrobiologie  
 kosmonau - vaisseau spatial  
 kosmonaver - cosmonaute  
 krabe - crabe  
@@ -817,7 +817,7 @@ laloranje - mandarine
 lalsalmon - saumon sockeye  
 lama\* - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
-lan - malédiccion  
+lane - malédiccion  
 lancite - projectile  
 lancograf - projection  
 lancografa - projeter (donner)  
@@ -835,9 +835,9 @@ lengomosimi - hivernal (hibernal)
 lense - lentille  
 lenti - lent  
 letis - laitue  
-liama\* - lama  
+liame - lama  
 liboban - étagère  
-libel - libellule  
+libele - libellule  
 lider - dirigeant (leader)  
 lifafa - envelopper (emballer)  
 lili - petit  
@@ -871,9 +871,9 @@ longokrokodil - crocodile
 longopipre - poivre long  
 lontre - loutre  
 lugi - vert  
-lun - lune  
 lun - mois  
-lunkeke - gâteau de lune  
+lune - lune  
+lunokeke - gâteau de lune  
 luter - brigand (bandit)  
 ####M - M  
 me - je (me)  
@@ -905,7 +905,7 @@ martinluteristia - luthéranisme
 mas - masse  
 masmul - tubercule  
 masmulsolful - topinambour  
-masal - épices  
+masale - épices  
 maske - masque  
 maste - mât  
 mate - matière  
@@ -939,7 +939,7 @@ mezotex - nappe
 migre - migration  
 migru - s'installer (déménager)  
 mikrobiu - microbe  
-mikrobiulojia - microbiologie  
+mikrobiyolojia - microbiologie  
 mikroskope - microscope  
 milke - lait  
 milkokardon - chardon Marie  
@@ -983,7 +983,7 @@ nasibe - destin
 nau - bateau  
 naulefte - babord  
 nauraite - tribord  
-nautil - nautile  
+nautile - nautile  
 nefre - rein  
 nefte - huile (pétrole)  
 Neputun - Neptune  
@@ -993,8 +993,8 @@ nevia - nouveauté
 nevike - néophyte  
 neujeni - nouveau-né  
 neuloge - néologisme  
-neurcel - neurone  
-neurtokse - neurotoxine  
+neurocel - neurone  
+neurotokse - neurotoxine  
 nice - dessous  
 nide - nid  
 nili - bleu  
@@ -1082,8 +1082,8 @@ pendokardon - chardon penché
 penta - peindre  
 pente - peinture  
 perkardon - cirse commun  
-pes - argent  
-pesdiske - monnaie (pièce)  
+pese - argent  
+pesodiske - monnaie (pièce)  
 petre - roche (pierre)  
 petronefte - pétrole (essence)  
 pex - poisson  
@@ -1100,14 +1100,14 @@ pipre - poivre
 piprominte - menthe poivrée  
 piram - pyramide  
 piratia - piraterie  
-pis - Épicéa  
+pise - Épicéa  
 pize - pizza  
 plan - plan  
 plasta - modeler  
 plastopaste - pâte à modeler  
-plati geukaskia - tectonique des plaques  
+plati geyokaskia - tectonique des plaques  
 platistan - plaine  
-platogeviste - terreplatiste  
+platogeyiste - terreplatiste  
 plum - prune  
 polbaxi - plurilingue (multilingue)  
 Polnesia - Polynesie  
@@ -1136,7 +1136,7 @@ pudu - pourrir (se décomposer)
 pujokan - temple  
 pujomeze - autel  
 pul - pont  
-puma\* - couguar (puma)  
+pume - couguar (puma)  
 pura - remplir  
 puri - plein  
 purbona - perfectionner (parfaire)  
@@ -1183,7 +1183,7 @@ rokomuzike - rock
 roketolancer - Lance-roquettes  
 Roma - Rome  
 romakamil - Camomille Romaine  
-ros - rosée  
+rose - rosée  
 rosta - rôtir  
 rotolefto - dans le sens antihoraire  
 rototope - toupie  
@@ -1199,6 +1199,7 @@ si - son (sa)
 ses - l'un l'autre  
 safariste - touriste  
 sahi - correct (juste)  
+saya - ombrager  
 saida - chasser  
 sake - sac  
 sali - sain  
@@ -1228,13 +1229,13 @@ sekuri - sûr
 sel - conseil  
 sela - conseiller  
 selge - blettes (bettes)  
-sem - semence  
+seme - semence  
 semi - séminal  
 sen - âge  
 senater - sénateur  
 sense - sens  
 senter - tentacule  
-ser - scie  
+sere - scie  
 sifloge - adjectif  
 siyahi - noir  
 sikle - bicyclette  
@@ -1317,7 +1318,7 @@ tensi - tendu
 tepe - ruban (bande)  
 terci - oblique (de travers)  
 teroristia - terrorisme  
-tes - argument  
+tese - argument  
 teste - épreuve (test)  
 tex - tissu  
 tikete - billet  
@@ -1340,7 +1341,7 @@ tuze - lapin (lièvre)
 ####U - U  
 vade - vallée (oued)  
 vaf - chien  
-vagin - vagine  
+vagine - vagine  
 vaginitis - vaginite  
 val - valeur  
 vala - évaluer  
