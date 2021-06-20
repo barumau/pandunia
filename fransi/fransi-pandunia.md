@@ -836,6 +836,7 @@ mode (façon, manière) - mode
 modeler - plasta  
 mois - lun  
 mole (unité) - mol  
+momentané - sati  
 monde - dunia  
 monnaie (pièce) - pesdiske  
 monocle - unoki lense  
@@ -1093,6 +1094,7 @@ prune - plum
 prune de Java - jamul  
 précieux - bavi  
 préférer - maxfila  
+présent - zayi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruhlojia  
@@ -1266,6 +1268,7 @@ technique - tehne
 technologie - tehnolojia  
 tectonique des plaques - plati geukaskia  
 temple - pujokan  
+temps - zam  
 tendance - ivia  
 tender - tirlonga  
 tendu - tensi  

@@ -746,6 +746,7 @@
 |**sani**|tri (3)|mandarena:三 (sān), kantona:三 (sam1), japana:三 (san), korea:삼 (sam), vjetnama:tam, taja:สาม (saam)|
 |**santi**|sankta|portugala:hispana:santo, angla:franca:saint, konga:santu, mandarena:圣 (shèng)|
 |**sapate**|ŝuo|hispana:zapato, portugala:sapato, malaja:sepatu, svahila:sapatu|
+|**sate**|momento|araba:(sāʿa), persa:(sâ'at), malaja:turka:saat, svahila:saa|
 |**sauna***|saŭno|fin:deu:angla:franca:portugala:hispana:malaja:turka:sauna, rusa:сауна (sauna), mandarena:桑拿 (sāngná), japana:サウナ (sauna), korea:사우나 (sauna), hindia:सॉना (sonā), persa:urdua:(sonā), taja:ซาวน่า (saona)|
 |**saus**|saŭco|angla:franca:sauce, rusa:соус (sous), hindia:सॉस (sos), deu:Soße, vjetnama:xốt, japana:ソース (sōsu), taja:ซอส (soot), korea:소스 (soseu), malaja:saus|
 |**sava**|scii (koni)|franca:savoir, hispana:portugala:saber, angla:savvy|
@@ -888,8 +889,9 @@
 |**yom**|tago (periodo de 24 horoj)|araba: يَوْم‎ (yawm), hindia:यौम (yaum), malaja:yaum, heb: יוֹם‎ (yom)|
 |**yumor**|humuro|rusa:юмор (yumor), hispana:angla:humor, franca:humour, japana:ユーモア (yūmoa), korea:유머 (yumeo), mandarena:幽默 (yōumò)|
 |**zaitun**|olivo|araba:(zaitūn), hispana:aceituna, malaja:zaitun, svahila:zaituni, hindia:urdua:(zaitūn)|
+|**zam**|tempo|malaja:jam + araba: زَمَن‎ (zaman), svahila:zamani, turka:zaman + hindia:समय (samay), bengala:সময় (sômyô)|
 |**zar**|hazardo|araba: زَهْر (zahr), turka:zar, persa: زار (zâr) + angla:hazard, hispana:portugala:azar|
-|**zayi**|ĉeestanta (nuna, ekzistanta)|mandarena:在 (zài), japana:在 (zai), vjetnama:tại|
+|**zayi**|ĉeestanta (ekzistanta)|mandarena:在 (zài), japana:在 (zai), vjetnama:tại|
 |**zebre**|zebro|angla:portugala:turka:zebra, hispana:cebra, rusa:зебра (zebra), hindia:ज़ेब्रा (zebrā), japana:ゼブラ (zebura)|
 |**zeyil**|veruko|persa:زگیل (zegil), turka:siğil, aze:ziyil, fin:syylä|
 |**zin**|malfideleco|araba:(zināʾ), malaja:turka:zina, svahila:zinaa, urdua:(zinā), persa:(zenā)|

@@ -403,7 +403,7 @@ esperi - inxala
 esti - sa  
 esti pri; pridiskuti - tema  
 Estonio - Estia  
-estonoteco - pososate  
+estonoteco - posozam  
 estonte - poso  
 estro (ĉefulo) - xef  
 etimologio - logaslia  
@@ -1087,6 +1087,8 @@ mizera - miskini
 mola - komali  
 molibdeno - molidenem  
 molusko - moluske  
+momenta - sati  
+momento - sate  
 monato - lun  
 mondlingvo - dunia bax  
 mondo - dunia  
@@ -1175,7 +1177,8 @@ noveco - nevia
 novnaskita - neujeni  
 novulo - nevike  
 nudelo - mien  
-nuno - zaisate  
+nuna - zaizami  
+nuno - zaizam  
 ####O - O  
 oazo - vas  
 obrelo - barxocate  
@@ -1250,7 +1253,7 @@ parto (frakcio) - fen
 partopreni - parta  
 pasi - pasa  
 pasinta - pasi  
-pasinteco - censate  
+pasinteco - cenzam  
 pasporto - pasporte  
 pastro - dinguru\*  
 pato - tau  
@@ -1607,6 +1610,7 @@ televidilo - telvide
 teluro - telurem  
 temo - tem  
 templo - pujokan  
+tempo - zam  
 tendo - hemah  
 teneso - tenesiem  
 teniso - tenis  
@@ -1797,7 +1801,7 @@ zuluo - Zulu
 ĉasado - saide  
 ĉasi - saida  
 ĉasisto - saider  
-ĉeestanta (nuna, ekzistanta) - zayi  
+ĉeestanta (ekzistanta) - zayi  
 ĉeestanteco (ekzisto) - zayia  
 ĉefgeneralo - gunrajer  
 ĉefministro - xefi minister  

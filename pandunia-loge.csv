@@ -543,7 +543,7 @@ cen.ik:e|cenike||||relic||reliquia|||||||||||||||relikwia
 cen.ik:i|ceniki||||old (ancient, former)|vieux (ancien)|viejo (antiguo)|velho (antigo)|старый (древний)||古老 (以前)|古い|||पुराना|পুৰণা|||eski (kadim)|malnova|vanha (muinainen)|stary, starożytny
 cen.uid:a|cenvida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 cen.uid:i|cenvidi||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
-cen.sat:e|censate||||past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
+cen.zam:|cenzam||||past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
 ceng:|ceng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
 centaur:|centaur|biu|Centaurea|eng:centaury, por:centáurea||Centaurée||centáurea|василёк|||||||||||||chaber
 centi:|centi*|numbe|||centi- (per cent)||centi- (por ciento)|||||||||||||centono|sentti|centy-, procent, na sto, setna część
@@ -793,7 +793,7 @@ dur:u|duru||||elapse (pass by, go by)|se passer|transcurrir|transcorrer|||||||||
 dur.abl:i|durabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dur:i|duri||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
-dur.sat:e|dursate||||period (era, epoch, term)||era (periodo, época)||период (эпоха)|||時代 (年代)|||अवधि||jaman (zaman)|zamani|zaman||aikakausi|czas (epoka, era)
+dur.zam:|durzam||||period (era, epoch, term)||era (periodo, época)||период (эпоха)|||時代 (年代)|||अवधि||jaman (zaman)|zamani|zaman||aikakausi|czas (epoka, era)
 dus:i|dusi|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)||malo (difícil, duro)||||难|難しい||khó (khốn nạn)|दुश्वार||||||paha (epäsuotuisa, epämiellyttävä, vastustava)|
 dus:i zar:|dusi zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
 dus.darj:a|dusdarja||||downgrade||degradar||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
@@ -2958,7 +2958,7 @@ pos:i|posi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seur
 pos:o|poso||||later (after, will, in the future)|ensuite (après, plus tard, ir a, en el futuro)|más tarde||после|||||||||||estonte|myöhemmin (tuleva)|później (w przyszłości)
 pos.den:o|posdeno||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
 pos.fiks:e|posfikse||||suffix|suffixe|sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
-pos.o.sat:e|pososate||||future time||futuro|||||||||||||estonoteco|tulevaisuus|przyszłość
+pos.o.zam:|posozam||||future time||futuro|||||||||||||estonoteco|tulevaisuus|przyszłość
 pos.poz:a|pospoza||||put back (postpone)||||||||||||||||siirtää taakse|
 pos.tr:i|postri||||backward (posterior)|postérieur|posterior|posterior|||||||||||||myöhempi (takainen)|
 pospor:|pospor|mate|P||phosphorus||fósforo|||||||||||||fosforo|fosfor|fosfor
@@ -3265,7 +3265,8 @@ sapat.o.kan:|sapatokan||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suu
 sar:|sar|bode||fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|head|tête|cabeza|cabeça|голова|رَأْس|头|頭|머리|đầu|सिर|মাথা|kepala|kichwa|baç (kafa)||pää|głowa
 sar.kask:e|sarkaske||||helmet||casco (yelmo)|||||||||||||kasko|kypärä|hełm
 sar.ost:e|saroste|bode|||skull||cráneo (calavera)||||||||||||||pääkallo|czaszka
-sat:e|sate|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|moment (while, short time)||momento (tiempo)|||سَاعَة‎|||||||saat|saa|saat||hetki (kotva)|moment
+sat:e|sate|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|moment (instant, while)||momento|momento (instante)|момент|سَاعَة‎|时刻 (瞬间)|瞬間|||||saat|saa|saat (an, moment)|momento|hetki (kotva, ajankohta)|moment
+sat:i|sati||||momentary|momentané|momentáneo|momentâneo|моментальный (минутный)|سَاعَة‎||||||||||momenta|hetkellinen|chwilowy
 sat.o.don:a|satodona||||dedicate (devote)||dedicar|||||||||||||||dedykować (poświęcać, poświęcić)
 sat.o.don:ia|satodonia||||dedication (devotion)|||||||||||||||||dedykacja (poświęcenie)
 Saturn:e|Saturne|planete 6|||Saturn|Saturne|Saturno|Saturno|Сатурн|زحل|土星|土星|||||||Satürn||Saturnus|Saturn
@@ -3922,17 +3923,19 @@ xux:o|xuxo|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shī
 Z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
 zai:|zai||||present (here, now, current situation)||actualidad|||||||||||||||
 zai:a|zaya||||summon (add, spawn)||generar (añadir)|||||||||||||||wzywać (wezwać, dodawać, dodać)
-zai:i|zayi|||zho:在 (zài), jpn:在 (zai), vie:tại|present (current, existing)||actual|||||||||||||ĉeestanta (nuna, ekzistanta)|kuluva (tämänhetkinen)|obecny, teraźniejszy, aktualny, bieżący, współczesny
+zai:i|zayi|||zho:在 (zài), jpn:在 (zai), vie:tại|present (existing)|présent|actual|||||||||||||ĉeestanta (ekzistanta)|läsnä oleva|obecny, teraźniejszy, aktualny, bieżący, współczesny
 zai:ia|zayia||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
 zai:o|zayo||||presenty (currently, now)||ahora (actualmente)|||||||||||||||
 zai:u|zayu||||appear||aparecer|||||||||||||||pojawić się
 zai:u|zayu||||exist (be present)||existir (estar presente)|||||ある (いる)|||||||||olla olemassa|istnieć (być obecnym)
 zai.den:o|zaideno||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, dzisiaj
-zai.sat:e|zaisate||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
+zai.zam:|zaizam||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
+zai.zam:i|zaizami||||current (contemporary, present-day)||actual|actuel (courant)|actual|corrente (atual)|нынешний||现在的|現行|현행의|||||nuna|nykyinen (tämänhetkinen)|bieżący (aktualny, obecny)
 zaitun:|zaitun|biu||ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|olive||aceituna|||||||||||||olivo|oliivi|oliwka
 zalim:i|zalimi|||ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|mean (cruel)||mezquino (antipático, cruel)||||||||||||||ilkeä (julma)|złośliwy, okrutny
 zalim:i raj.er:|zalimi rajer||||tyrant (despot)||tirano (déspota)||тиран (деспот)|||暴君|||तानाशाह||penzalim (raja lalim)||zorba (zalim)||tyranni|tyran
 zalim:ia|zalimia||||cruelty (tyranny, despotism)||crueldad (tiranía)||||||||||||||tyrannia|tyrania
+zam:|zam|||may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|time|temps|tiempo|tempo||زَمَن‎|时间|時間|시간|thời gian|समय|সময়|jam (waktu)|zamani (wakati)|zaman|tempo|aika|czas
 Zamb:ia|Zambia|dex|ZM||Zambia||Zambia||Замбия|||||||||||Zambio|Sambia|Zambia
 zar:|zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
 zar:i|zari||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy

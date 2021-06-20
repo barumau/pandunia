@@ -1114,7 +1114,7 @@
 |**santi**|sagrado (santo)|por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|
 |**sapate**|zapato|spa:zapato, por:sapato, may:sepatu, swa:sapatu|
 |**sar**|cabeza|fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|
-|**sate**|momento (tiempo)|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|
+|**sate**|momento|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|
 |**sauna***|sauna|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
 |**saus**|salsa|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|
 |**sava**|saber (conocer)|fra:savoir, spa:por:saber, eng:savvy|
@@ -1371,6 +1371,7 @@
 |**yumor**|humor (gracia)|rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
 |**zaitun**|aceituna|ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|
 |**zalimi**|mezquino (antipático, cruel)|ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|
+|**zam**|tiempo|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
 |**zar**|riesgo (posibilidad)|ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|
 |**zayi**|actual|zho:在 (zài), jpn:在 (zai), vie:tại|
 |**zebre**|cebra|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|

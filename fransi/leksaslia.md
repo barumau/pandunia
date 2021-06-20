@@ -644,6 +644,8 @@
 |**yau**|besoin|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
 |**yoke**|joug|eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách|
 |**yongu**|melt|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|
+|**zam**|temps|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
+|**zayi**|présent|zho:在 (zài), jpn:在 (zai), vie:tại|
 |**zebre**|zèbre|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|
 |**zeyil**|verrue|fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|
 |**zinje**|gingembre|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|

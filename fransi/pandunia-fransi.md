@@ -1219,6 +1219,7 @@ sanyom - mercredi
 sanduice - sandwich  
 sang - sang  
 sar - tête  
+sati - momentané  
 Saturne - Saturne  
 sava - savoir (connaître)  
 saus - sauce  
@@ -1432,6 +1433,8 @@ xulkan - école (collège)
 xulxef - directeur (principal)  
 xur - début (commencement)  
 ####Z - Z  
+zayi - présent  
+zam - temps  
 zarkube - dé  
 Zardux - Zoroastre  
 zarduxiste - zoroastrien  

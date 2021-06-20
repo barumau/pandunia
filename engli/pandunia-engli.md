@@ -541,7 +541,7 @@ cenike - relic
 ceniki - old (ancient, former)  
 cenvida - expect (anticipate, predict, forsee)  
 cenvidi - expected  
-censate - past times  
+cenzam - past times  
 ceng - layer (level, storey, floor, stratum)  
 centi\* - centi- (per cent)  
 centimitre - centimeter (cm)  
@@ -790,7 +790,7 @@ duru - elapse (pass by, go by)
 durabli - durable (endurable, sustainable)  
 duri - chronic (lasting)  
 durmetrer - stopwatch  
-dursate - period (era, epoch, term)  
+durzam - period (era, epoch, term)  
 dusi - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dusi zar - misfortune (bad luck)  
 dusdarja - downgrade  
@@ -2949,7 +2949,7 @@ posi - next (following, back)
 poso - later (after, will, in the future)  
 posdeno - tomorrow  
 posfikse - suffix  
-pososate - future time  
+posozam - future time  
 pospoza - put back (postpone)  
 postri - backward (posterior)  
 pospor - phosphorus  
@@ -3255,7 +3255,8 @@ sapatokan - shoemaker's shop
 sar - head  
 sarkaske - helmet  
 saroste - skull  
-sate - moment (while, short time)  
+sate - moment (instant, while)  
+sati - momentary  
 satodona - dedicate (devote)  
 satodonia - dedication (devotion)  
 Saturne - Saturn  
@@ -3910,17 +3911,19 @@ xuxo - hush (shh)
 ####Z - Z  
 zai - present (here, now, current situation)  
 zaya - summon (add, spawn)  
-zayi - present (current, existing)  
+zayi - present (existing)  
 zayia - presence (existence)  
 zayo - presenty (currently, now)  
 zayu - appear  
 zayu - exist (be present)  
 zaideno - today  
-zaisate - present time (now)  
+zaizam - present time (now)  
+zaizami - current (contemporary, present-day)  
 zaitun - olive  
 zalimi - mean (cruel)  
 zalimi rajer - tyrant (despot)  
 zalimia - cruelty (tyranny, despotism)  
+zam - time  
 Zambia - Zambia  
 zar - hazard (chance)  
 zari - random  

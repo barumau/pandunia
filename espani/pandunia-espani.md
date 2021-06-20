@@ -495,7 +495,7 @@ cenyangi - clásico
 cenike - reliquia  
 ceniki - viejo (antiguo)  
 cenvida - prever (esperar, pensar)  
-censate - pasado  
+cenzam - pasado  
 ceng - capa (piso, planta, estrato)  
 centi\* - centi- (por ciento)  
 centimitre - centímetro  
@@ -721,7 +721,7 @@ duru - transcurrir
 durabli - durable  
 duri - crónico  
 durmetrer - cronómetro  
-dursate - era (periodo, época)  
+durzam - era (periodo, época)  
 dusi - malo (difícil, duro)  
 dusi zar - infortunio (mala suerte)  
 dusdarja - degradar  
@@ -2686,7 +2686,7 @@ posi - siguiente (trasero)
 poso - más tarde  
 posdeno - mañana  
 posfikse - sufijo  
-pososate - futuro  
+posozam - futuro  
 postri - posterior  
 pospor - fósforo  
 posta - eviar por correo  
@@ -2975,7 +2975,8 @@ sapatokan - zapatería
 sar - cabeza  
 sarkaske - casco (yelmo)  
 saroste - cráneo (calavera)  
-sate - momento (tiempo)  
+sate - momento  
+sati - momentáneo  
 satodona - dedicar  
 Saturne - Saturno  
 sau - sabiduría (conocimiento)  
@@ -3590,11 +3591,13 @@ zayo - ahora (actualmente)
 zayu - aparecer  
 zayu - existir (estar presente)  
 zaideno - hoy  
-zaisate - presente  
+zaizam - presente  
+zaizami - actual  
 zaitun - aceituna  
 zalimi - mezquino (antipático, cruel)  
 zalimi rajer - tirano (déspota)  
 zalimia - crueldad (tiranía)  
+zam - tiempo  
 Zambia - Zambia  
 zar - riesgo (posibilidad)  
 zari - azar (aleatorio)  

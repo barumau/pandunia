@@ -979,6 +979,8 @@ sanduice - sanduíche
 sang - sangue  
 Santi Paulo - São Paulo  
 sar - cabeça  
+sate - momento (instante)  
+sati - momentâneo  
 Saturne - Saturno  
 sava - saber (conhecer)  
 seksolojia - sexologia  
@@ -1160,6 +1162,8 @@ xulkan - escola (colégio)
 xulxef - diretor  
 xur - começo (início, princípio)  
 ####Z - Z  
+zaizami - actuel (courant)  
+zam - tempo  
 zarkube - dado  
 zebre - zebra  
 zeyil - verruga  

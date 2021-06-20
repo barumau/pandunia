@@ -504,7 +504,7 @@ cenfikse - etuliite (prefiksi)
 ceniki - vanha (muinainen)  
 cenvida - ennustaa (nähdä ennalta)  
 cenvidi - ennustettu  
-censate - menneisyys  
+cenzam - menneisyys  
 ceng - kerros  
 centi\* - sentti  
 centimitre - senttimetri (cm)  
@@ -740,7 +740,7 @@ duru - kulua (vieriä)
 durabli - kestävä (luja)  
 duri - kestävä (krooninen)  
 durmetrer - sekuntikello  
-dursate - aikakausi  
+durzam - aikakausi  
 dusi - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dusi zar - epäonni  
 dusdarja - laskea tasoa  
@@ -2615,7 +2615,7 @@ posi - seuraava
 poso - myöhemmin (tuleva)  
 posdeno - huominen  
 posfikse - loppuliite (jälkiliite)  
-pososate - tulevaisuus  
+posozam - tulevaisuus  
 pospoza - siirtää taakse  
 postri - myöhempi (takainen)  
 pospor - fosfor  
@@ -2877,7 +2877,8 @@ sapatokan - suutarin paja
 sar - pää  
 sarkaske - kypärä  
 saroste - pääkallo  
-sate - hetki (kotva)  
+sate - hetki (kotva, ajankohta)  
+sati - hetkellinen  
 Saturne - Saturnus  
 sau - tieto (tietämys)  
 sava - tietää (tuntea)  
@@ -3402,15 +3403,17 @@ xuxa - hiljentää
 xuxi - hiljainen  
 xuxo - hiljaa (hys, shhh)  
 ####Z - Z  
-zayi - kuluva (tämänhetkinen)  
+zayi - läsnä oleva  
 zayia - läsnäolo  
 zayu - olla olemassa  
 zaideno - tänään  
-zaisate - tämä hetki (nyt)  
+zaizam - tämä hetki (nyt)  
+zaizami - nykyinen (tämänhetkinen)  
 zaitun - oliivi  
 zalimi - ilkeä (julma)  
 zalimi rajer - tyranni  
 zalimia - tyrannia  
+zam - aika  
 Zambia - Sambia  
 zar - sattuma (onni)  
 zari - sattumanvarainen  

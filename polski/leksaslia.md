@@ -1358,6 +1358,7 @@
 |**yumor**|humor|rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
 |**zaitun**|oliwka|ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|
 |**zalimi**|złośliwy, okrutny|ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|
+|**zam**|czas|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
 |**zar**|niebezpieczeństwo, ryzyko, szansa|ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|
 |**zayi**|obecny, teraźniejszy, aktualny, bieżący, współczesny|zho:在 (zài), jpn:在 (zai), vie:tại|
 |**zebre**|zebra|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|

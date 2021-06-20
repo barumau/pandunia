@@ -191,6 +191,7 @@ biblioteka - kitabokan
 bibliotekarz - kitabominister  
 biec (biegać, pędzić) - kora  
 biedny, mizerny - miskini  
+bieżący (aktualny, obecny) - zaizami  
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion, giga- - giga\*  
@@ -338,6 +339,7 @@ Chrystus, mesjasz - kriste
 chrześcijanin - krististe  
 chrześcijaństwo - krististia  
 chwalić (wychwalać) - halela  
+chwilowy - sati  
 chór - cantergrupe  
 chłopak - joveni man  
 ciasto, ciastko - keke  
@@ -393,7 +395,8 @@ czapetka kuminowa - jamul
 czar (urok, wdzięk) - carme  
 Czarnogóra - Cernagora  
 czarny - siyahi  
-czas (epoka, era) - dursate  
+czas (epoka, era) - durzam  
+czas - zam  
 czas; okazja - mar  
 czasownik - karloge  
 czaszka - saroste  
@@ -2289,7 +2292,7 @@ przesilenie letnie (dzień srodka lata) - garmomosimmedi den
 przestępstwo - krim  
 przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - migru  
 przeszkodzić, przeszkadzać, robić kłopot - turba  
-przeszłość - censate  
+przeszłość - cenzam  
 przeszły, miniony - pasi  
 przetwarzać - reisikla  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
@@ -2327,7 +2330,7 @@ przyrostek dla przysłówków - -o
 przyrostek dla wsperającego ideę - iste  
 przyrostek dla wykonawcy - er  
 przystojny, atrakcyjny, ładny - bonvidi  
-przyszłość - pososate  
+przyszłość - posozam  
 przysłówek - modologe  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tiroriu  
 prędkościomierz - rapidometrer  
@@ -2909,7 +2912,7 @@ teoria - teoria
 teozofia - deusofia  
 tera- - tera\*  
 terakota - bekofan  
-teraźniejszość, współczesność (teraz) - zaisate  
+teraźniejszość, współczesność (teraz) - zaizam  
 teraźniejszość, współczesność - zayia  
 terb - terbem  
 teren - geuforme  

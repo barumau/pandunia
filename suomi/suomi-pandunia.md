@@ -36,7 +36,8 @@ aihe (teema) - tem
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - saba  
 aika (kesto, kestoaika) - dur  
-aikakausi - dursate  
+aika - zam  
+aikakausi - durzam  
 aikuinen - matur  
 aina - pansato  
 aine (aines, materia) - kim  
@@ -587,7 +588,8 @@ herättää - jaga
 Hessen - Hesia  
 heteroromanttinen - alromansi  
 heteroseksuaali - alseksi  
-hetki (kotva) - sate  
+hetkellinen - sati  
+hetki (kotva, ajankohta) - sate  
 hevonen - gude  
 hidas - lenti  
 hiekka - rege  
@@ -1257,7 +1259,6 @@ kulta - aur
 kulttuuri - kultur  
 kulua (vieriä) - duru  
 kuluttaa (viettää aikaa) - durita  
-kuluva (tämänhetkinen) - zayi  
 kumi - gom  
 kumina - karau  
 kumkvatti - kankuate  
@@ -1557,6 +1558,7 @@ länsi - veste
 läntinen - vesti  
 läpikulku - transe  
 läpikäydä (passiivin muodostava verbi) - beyu  
+läsnä oleva - zayi  
 läsnäolo - zayia  
 lätty (räiskäle, pannukakku) - krepe  
 lääketiede - medikia  
@@ -1673,7 +1675,7 @@ mekko (tunika) - tunike
 Meksiko - Mexiko  
 melodia (sävelmä) - melodia  
 melodinen (sointuisa) - melodi  
-menneisyys - censate  
+menneisyys - cenzam  
 mennyt (poissa) - kiti  
 mennä - kita  
 mennä ohi tai läpi - pasa  
@@ -1915,6 +1917,7 @@ nuorukainen - joven
 nuoruus - jovenia  
 nussia (panna) - coda  
 nuudeli - mien  
+nykyinen (tämänhetkinen) - zaizami  
 nyrkkeilijä - bokser  
 nyrkkeily - bokse  
 nähdä - vida  
@@ -3007,7 +3010,7 @@ tsetta- - zeta\*
 tuhat (kilo-) - kilo\*  
 tuhka - hui  
 tulehdus - itis  
-tulevaisuus - pososate  
+tulevaisuus - posozam  
 tuli - hoge  
 tulinen - hogi  
 tulkata (kääntää) - tarja  
@@ -3086,7 +3089,7 @@ tähtitiede (astronomia) - astronomia
 tähtitieteilijä - astronomer  
 tämä - ye  
 tämä - yi  
-tämä hetki (nyt) - zaisate  
+tämä hetki (nyt) - zaizam  
 tänään - zaideno  
 täplä (läiskä) - binde  
 tärkeä - hami  

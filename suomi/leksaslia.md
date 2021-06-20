@@ -1086,7 +1086,7 @@
 |**santi**|pyhä|portugali:espanja:santo, englanti:ranska:saint, Kongo:santu, yleiskiina:圣 (shèng)|
 |**sapate**|kenkä|espanja:zapato, portugali:sapato, malaiji:sepatu, suahili:sapatu|
 |**sar**|pää|persia:(sar), hindi:सिर (sir) + arabia:(raʾs), suahili:rasi|
-|**sate**|hetki (kotva)|arabia:(sāʿa), persia:(sâ'at), malaiji:turkki:saat, suahili:saa|
+|**sate**|hetki (kotva, ajankohta)|arabia:(sāʿa), persia:(sâ'at), malaiji:turkki:saat, suahili:saa|
 |**sauna***|sauna|fin:deu:englanti:ranska:portugali:espanja:malaiji:turkki:sauna, venäjä:сауна (sauna), yleiskiina:桑拿 (sāngná), japani:サウナ (sauna), korea:사우나 (sauna), hindi:सॉना (sonā), persia:urdu:(sonā), thai:ซาวน่า (saona)|
 |**saus**|kastike (soosi)|englanti:ranska:sauce, venäjä:соус (sous), hindi:सॉस (sos), deu:Soße, vietnami:xốt, japani:ソース (sōsu), thai:ซอส (soot), korea:소스 (soseu), malaiji:saus|
 |**sava**|tietää (tuntea)|ranska:savoir, espanja:portugali:saber, englanti:savvy|
@@ -1326,8 +1326,9 @@
 |**yumor**|huumori|venäjä:юмор (yumor), espanja:englanti:humor, ranska:humour, japani:ユーモア (yūmoa), korea:유머 (yumeo), yleiskiina:幽默 (yōumò)|
 |**zaitun**|oliivi|arabia:(zaitūn), espanja:aceituna, malaiji:zaitun, suahili:zaituni, hindi:urdu:(zaitūn)|
 |**zalimi**|ilkeä (julma)|arabia:(ẓālim), turkki:zalim, urdu:hindi:(zālim), persia:(zālem), suahili:dhalimu|
+|**zam**|aika|malaiji:jam + arabia: زَمَن‎ (zaman), suahili:zamani, turkki:zaman + hindi:समय (samay), bangla:সময় (sômyô)|
 |**zar**|sattuma (onni)|arabia: زَهْر (zahr), turkki:zar, persia: زار (zâr) + englanti:hazard, espanja:portugali:azar|
-|**zayi**|kuluva (tämänhetkinen)|yleiskiina:在 (zài), japani:在 (zai), vietnami:tại|
+|**zayi**|läsnä oleva|yleiskiina:在 (zài), japani:在 (zai), vietnami:tại|
 |**zebre**|seepra|englanti:portugali:turkki:zebra, espanja:cebra, venäjä:зебра (zebra), hindi:ज़ेब्रा (zebrā), japani:ゼブラ (zebura)|
 |**zeta***|tsetta-|englanti:ranska:espanja:portugali:zetta-, malaiji:zeta-, japani:ゼタ- (zeta-), korea:제타- (jeta-), yleiskiina:泽它- (zétā-)|
 |**zeyil**|syylä|persia:زگیل (zegil), turkki:siğil, aze:ziyil, fin:syylä|

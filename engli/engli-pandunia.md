@@ -876,6 +876,7 @@ culture - kultur
 cumin (jeera) - zir  
 cupboard (closet, cabinet, wardrobe) - almar  
 curium - kurem  
+current (contemporary, present-day) - zaizami  
 curse (damn!) - lan  
 curse (swear) - lana  
 curtain - parde  
@@ -1393,7 +1394,7 @@ fungus (mushroom) - fung
 funnel - riutube  
 funny (amusing) - vani  
 fusion (amalgamation) - rivunia  
-future time - pososate  
+future time - posozam  
 ####G - G  
 Gabon - Gabon  
 gadolinium - gadolinem  
@@ -2225,7 +2226,8 @@ mole (unit) - mol
 molecule - molekul  
 mollusk - moluske  
 molybdenum - molidenem  
-moment (while, short time) - sate  
+moment (instant, while) - sate  
+momentary - sati  
 Monaco - Monako  
 Monday - unyom  
 money - pes  
@@ -2583,7 +2585,7 @@ passport - pasporte
 password (security code) - sekurkode  
 password - pasloge  
 past (bygone) - pasi  
-past times - censate  
+past times - cenzam  
 paste (dough) - paste  
 paternal grandfather - paipai  
 paternal grandmother - paimai  
@@ -2616,7 +2618,7 @@ pepper (peppercorn) - pipre
 peppermint - piprominte  
 perfect (optimize, refine, polish) - purbona  
 perfect - purboni  
-period (era, epoch, term) - dursate  
+period (era, epoch, term) - durzam  
 peripheral - kenari  
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
@@ -2781,9 +2783,9 @@ prefix - cenfikse
 pregnant - hamili  
 prepare (make ready) - reda  
 presence (existence) - zayia  
-present (current, existing) - zayi  
+present (existing) - zayi  
 present (here, now, current situation) - zai  
-present time (now) - zaisate  
+present time (now) - zaizam  
 presenty (currently, now) - zayo  
 president - prezidente  
 press (imprint) - capa  
@@ -3587,6 +3589,7 @@ tikka masala - masali tike
 tile - tail  
 tilt (skew) - terca  
 time (instance, occasion) - mar  
+time - zam  
 Timor - Timor  
 tin - estan  
 tiny (microscopic) - mikri  

@@ -474,6 +474,7 @@
 |**sang**|sangue|fra:sang, spa:sangre, por:sangue|
 |**sani**|três (3)|zho:三 (sān), yue:三 (sam1), jpn:三 (san), kor:삼 (sam), vie:tam, tha:สาม (saam)|
 |**sar**|cabeça|fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|
+|**sate**|momento (instante)|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|
 |**sava**|saber (conhecer)|fra:savoir, spa:por:saber, eng:savvy|
 |**sekuri**|seguro|eng:secure, deu:sicher, spa:por:seguro|
 |**sel**|conselho|ara: صَلَاح‎ (ṣalāḥ), hin:सलाह (salāh), tel:సలహా (salahā), tur:salık + eng:counsel, fra:conseil, spa:consejo, por:conselho + rus:консультант (konsultant)|
@@ -568,6 +569,7 @@
 |**yau**|necessidade|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
 |**yoke**|jugo|eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách|
 |**yongu**|derretre|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|
+|**zam**|tempo|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
 |**zebre**|zebra|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|
 |**zeyil**|verruga|fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|
 |**zinje**|jengibre|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|

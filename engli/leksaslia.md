@@ -1149,7 +1149,7 @@
 |**santi**|holy (sacred)|Portuguese:Spanish:santo, English:French:saint, Kongo:santu, Mandarin:圣 (shèng)|
 |**sapate**|chaussure|Spanish:zapato, Portuguese:sapato, Malay:sepatu, Swahili:sapatu|
 |**sar**|head|Persian:(sar), Hindi:सिर (sir) + Arabic:(raʾs), Swahili:rasi|
-|**sate**|moment (while, short time)|Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa|
+|**sate**|moment (instant, while)|Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa|
 |**sauna***|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
 |**saus**|sauce|English:French:sauce, Russian:соус (sous), Hindi:सॉस (sos), deu:Soße, Vietnamese:xốt, Japanese:ソース (sōsu), Thai:ซอส (soot), Korean:소스 (soseu), Malay:saus|
 |**sava**|know (be aware of)|French:savoir, Spanish:Portuguese:saber, English:savvy|
@@ -1415,8 +1415,9 @@
 |**yumor**|humor|Russian:юмор (yumor), Spanish:English:humor, French:humour, Japanese:ユーモア (yūmoa), Korean:유머 (yumeo), Mandarin:幽默 (yōumò)|
 |**zaitun**|olive|Arabic:(zaitūn), Spanish:aceituna, Malay:zaitun, Swahili:zaituni, Hindi:Urdu:(zaitūn)|
 |**zalimi**|mean (cruel)|Arabic:(ẓālim), Turkish:zalim, Urdu:Hindi:(zālim), Persian:(zālem), Swahili:dhalimu|
+|**zam**|time|Malay:jam + Arabic: زَمَن‎ (zaman), Swahili:zamani, Turkish:zaman + Hindi:समय (samay), Bengali:সময় (sômyô)|
 |**zar**|hazard (chance)|Arabic: زَهْر (zahr), Turkish:zar, Persian: زار (zâr) + English:hazard, Spanish:Portuguese:azar|
-|**zayi**|present (current, existing)|Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại|
+|**zayi**|present (existing)|Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại|
 |**zebre**|zebra|English:Portuguese:Turkish:zebra, Spanish:cebra, Russian:зебра (zebra), Hindi:ज़ेब्रा (zebrā), Japanese:ゼブラ (zebura)|
 |**zeta***|zetta-|English:French:Spanish:Portuguese:zetta-, Malay:zeta-, Japanese:ゼタ- (zeta-), Korean:제타- (jeta-), Mandarin:泽它- (zétā-)|
 |**zeyil**|wart|Persian:زگیل (zegil), Turkish:siğil, aze:ziyil, fin:syylä|

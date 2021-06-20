@@ -47,6 +47,7 @@ actinio - acinem
 activo - ativi  
 acto - ate  
 actor (actriz) - roler  
+actual - zaizami  
 actual - zayi  
 actualidad - zai  
 actuar (hacer un papel) - rola  
@@ -1213,7 +1214,7 @@ equilibrado (par) - parike
 equilibrio - parvezia  
 equipaje - bagaje  
 equipo - tim  
-era (periodo, época) - dursate  
+era (periodo, época) - durzam  
 erbio - erbem  
 erguido - libi  
 erigir (montar, armar) - liba  
@@ -1432,7 +1433,7 @@ fundar (basar) - baza
 fusionar (fundir) - rivunu  
 fusión - rivunia  
 fusión nuclear - kerni darunia  
-futuro - pososate  
+futuro - posozam  
 fábrica - fatokan  
 fácil - fasili  
 fácil acceso (accesibilidad) - fasilia da akses  
@@ -2219,7 +2220,8 @@ molinero - moler
 molino - molia  
 molusco - moluske  
 molécula - molekul  
-momento (tiempo) - sate  
+momento - sate  
+momentáneo - sati  
 momia - mumjan  
 moneda - pesdiske  
 mongol - mongoli  
@@ -2547,7 +2549,7 @@ partir (dividirse) - fenu
 partícula (grano, bala) - dan  
 parámetro - param  
 pasa (uva pasa) - ganputau  
-pasado - censate  
+pasado - cenzam  
 pasaporte - pasporte  
 pasar (transcurrir) - durita  
 pasar - pasa  
@@ -2751,7 +2753,7 @@ preguntar (inquirir) - suala
 preguntarse - sauvolu  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
-presente - zaisate  
+presente - zaizam  
 presidente - prezidente  
 presión atmosférica - airbaria  
 prestar (pedir prestado) - jeka  
@@ -3333,6 +3335,7 @@ tetera - caipote
 teísmo - devistia  
 teísta - deviste  
 tiburón - xarke  
+tiempo - zam  
 tierra (barro) - darte  
 tierra - geu  
 Tierra - Gevia  

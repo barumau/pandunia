@@ -289,7 +289,7 @@ dura - длиться
 durabli - долговечный  
 duri - хронический  
 durmetrer - секундомер  
-dursate - период (эпоха)  
+durzam - период (эпоха)  
 dusforma - уродовать  
 dusjan - враг (противник)  
 dusosinyi - зловещий  
@@ -1061,6 +1061,8 @@ sanduke - сундук
 sang - кровь  
 sapate - туфля  
 sar - голова  
+sate - момент  
+sati - моментальный (минутный)  
 Saturne - Сатурн  
 sava - знать  
 sauvol - интерес (любопытство)  
@@ -1290,6 +1292,7 @@ xulxef - директор (ректор)
 xur - начало  
 xuxi - тихий  
 ####Z - Z  
+zaizami - actual  
 zalimi rajer - тиран (деспот)  
 Zambia - Замбия  
 zarkube - кость (кубик)  

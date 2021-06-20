@@ -484,7 +484,7 @@ cenike - relikwia
 ceniki - stary, starożytny  
 cenvida - przewidzieć (spodziewać się)  
 cenvidi - spodziewany (przewidziany)  
-censate - przeszłość  
+cenzam - przeszłość  
 ceng - warstwa (poziom, piętro, kondygnacja)  
 centaur - chaber  
 centi\* - centy-, procent, na sto, setna część  
@@ -716,7 +716,7 @@ dura - trwać, zająć czas; przez
 durabli - trwały (wytrzymały, podtrzymywalny)  
 duri - chroniczny  
 durmetrer - stoper (sekundomierz)  
-dursate - czas (epoka, era)  
+durzam - czas (epoka, era)  
 dusi zar - zły los  
 dusdarja - dezaktualizować (pogorszyć)  
 dusfunce - awaria (wadliwe działanie)  
@@ -2647,7 +2647,7 @@ posi - następny (następujący)
 poso - później (w przyszłości)  
 posdeno - jutro  
 posfikse - przyrostek (sufiks)  
-pososate - przyszłość  
+posozam - przyszłość  
 pospor - fosfor  
 posta - nadać, wysłać pocztą  
 poste - poczta  
@@ -2932,6 +2932,7 @@ sar - głowa
 sarkaske - hełm  
 saroste - czaszka  
 sate - moment  
+sati - chwilowy  
 satodona - dedykować (poświęcać, poświęcić)  
 satodonia - dedykacja (poświęcenie)  
 Saturne - Saturn  
@@ -3537,11 +3538,13 @@ zayia - teraźniejszość, współczesność
 zayu - pojawić się  
 zayu - istnieć (być obecnym)  
 zaideno - dziś, dzisiaj  
-zaisate - teraźniejszość, współczesność (teraz)  
+zaizam - teraźniejszość, współczesność (teraz)  
+zaizami - bieżący (aktualny, obecny)  
 zaitun - oliwka  
 zalimi - złośliwy, okrutny  
 zalimi rajer - tyran  
 zalimia - tyrania  
+zam - czas  
 Zambia - Zambia  
 zar - niebezpieczeństwo, ryzyko, szansa  
 zari - losowy  

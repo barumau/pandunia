@@ -949,6 +949,7 @@ sanduice - 三明治 (三文治)
 sang - 血  
 sapate - 鞋  
 sar - 头  
+sate - 时刻 (瞬间)  
 Saturne - 土星  
 sava - 知道 (晓得)  
 sauvol - 趣  
@@ -1138,6 +1139,8 @@ xute - 技术
 xuti - 熟练  
 xuxo - 噓  
 ####Z - Z  
+zaizami - нынешний  
+zam - 时间  
 zarkube - 骰子 (色子)  
 zebre - 斑马  
 zeyil - 疣  

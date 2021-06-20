@@ -12,6 +12,7 @@ aconselhar - sela
 acordado - jagi  
 acordo (tratado, contrato) - trete  
 acordo - samrayia  
+actuel (courant) - zaizami  
 adesivo - glutograf  
 adjetivo - sifloge  
 administrador - politer  
@@ -697,6 +698,8 @@ molestar (perturber) - turba
 molhado - xipi  
 molhar - xipa  
 molho de soja - soisaus  
+momento (instante) - sate  
+momentâneo - sati  
 monção - barxomosim  
 monóculo - unoki lense  
 monólogo - autologe  
@@ -1050,6 +1053,7 @@ telescópio - teloskope
 temer - fobu  
 tempero - masal  
 templo - pujokan  
+tempo - zam  
 tender - iva  
 tendência - ivia  
 tenso - tensi  

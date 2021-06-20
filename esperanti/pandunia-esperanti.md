@@ -303,7 +303,7 @@ cena - antaŭiri
 ceno - antaŭe (pasinte)  
 cendeno - hieraū  
 ceniki - malnova  
-censate - pasinteco  
+cenzam - pasinteco  
 centi\* - centono  
 Ceres - Cereso  
 ceresem - cerio  
@@ -1427,7 +1427,7 @@ posa - sekvi
 posi - sekva  
 poso - estonte  
 posdeno - morgaŭ  
-pososate - estonoteco  
+posozam - estonoteco  
 pospor - fosforo  
 postokan - poŝtejo  
 postomarke - poŝtmarko  
@@ -1560,6 +1560,8 @@ sapate - ŝuo
 sapater - ŝuisto  
 sapatokan - ŝuistejo  
 sarkaske - kasko  
+sate - momento  
+sati - momenta  
 sau - scio  
 sava - scii (koni)  
 saulojia - sciteorio (epistemologio)  
@@ -1827,11 +1829,13 @@ xuru - komenciĝi
 xuxa - silentigi  
 xuxi - silenta  
 ####Z - Z  
-zayi - ĉeestanta (nuna, ekzistanta)  
+zayi - ĉeestanta (ekzistanta)  
 zayia - ĉeestanteco (ekzisto)  
 zaideno - hodiaŭ  
-zaisate - nuno  
+zaizam - nuno  
+zaizami - nuna  
 zaitun - olivo  
+zam - tempo  
 Zambia - Zambio  
 zar - hazardo  
 zari - hazarda  
