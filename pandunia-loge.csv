@@ -786,11 +786,12 @@ duman:|duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūm
 dun:i|duni||||global||global (mundial)|||||||||||||tera|maailman-|globalny
 dun:ia|dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
 dun:ia bax:|dunia bax||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
-dur:|dur||||time (duration, quantity of time)|temps (durée)|tiempo (duración)|tempo (duração)|||时间||||समय (वक़्त)||waktu|wakati|vakit|daŭro|aika (kesto, kestoaika)|trwanie
-dur:a|dura||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||||||||daŭrigi|kuluttaa (viettää aikaa)|minąć, mijać (czas)
-dur:u|duru|||eng:endure, fra:durer, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
+dur:|dur|||eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|duration (time interval)|durée|duración|duração|||时间|||||||||daŭro|aika (kesto, kestoaika)|trwanie
+dur.it:a|durita||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||||||||daŭrigi|kuluttaa (viettää aikaa)|minąć, mijać (czas)
+dur:a|dura||||last (take time; during)|durer|durar (durante, llevar tiempo)|durar|длиться|||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
+dur:u|duru||||elapse (pass by, go by)|se passer|transcurrir|transcorrer|||||||||||||kulua (vieriä)|
 dur.abl:i|durabli||||durable (endurable, sustainable)||durable||долговечный||耐用的|持続的|||||||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
-dur.ik:i|duriki||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
+dur:i|duri||||chronic (lasting)|chronique|crónico|crónico|хронический||||||||||||kestävä (krooninen)|chroniczny
 dur.metr.er:|durmetrer||||stopwatch|chronomètre|cronómetro|cronómetro|секундомер||秒表|ストップウオッチ|||||jam randik||||sekuntikello|stoper (sekundomierz)
 dur.sat:e|dursate||||period (era, epoch, term)||era (periodo, época)||период (эпоха)|||時代 (年代)|||अवधि||jaman (zaman)|zamani|zaman||aikakausi|czas (epoka, era)
 dus:i|dusi|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)||malo (difícil, duro)||||难|難しい||khó (khốn nạn)|दुश्वार||||||paha (epäsuotuisa, epämiellyttävä, vastustava)|
@@ -3455,9 +3456,9 @@ sui.sekur:i|suisekuri||||waterproof||impermeable (sumergible)||||||||||||||vesit
 Suis:ia|Suisia|dex|CH||Switzerland||Suiza||||||||||||||Sveitsi|Szwajcaria
 suj:a|suja||||suggest (propose)||sugerir (proponer)||||||||||||||ehdottaa|sugerować, proponować
 suj:e|suje|||hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão|suggestion (proposal)||surgéncia (propuesta)||||||||||||||ehdotus|sugestia, propozycja
-suk:a|suka||||please (delight, make happy)|plaire|gustar (complacer)||||||||||||||ilostuttaa|cieszyć, podobać się
-suk:i|suki|||hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk) + jpn:好く (suku), may: suka|happy (delighted)|heureux|feliz|feliz|счастливый (радостный)||高兴|幸せな|행복하다|mừng|सुखी (ख़ुश)|খুশি|senang||mutlu|feliĉa|iloinen (tyytyväinen)|wesoły, ucieszony
-suk:u|suku||||like (enjoy, be fond of)|se plaire|gustarse (disfrutar)|||||||||||||ŝati|pitää (tykätä)|lubić, cieszyć się
+suk:a|suka||||please (satisfy, delight)|plaire|gustar (complacer)||||||||||||||ilostuttaa (tyydyttää)|cieszyć, podobać się
+suk:i|suki|||hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk) + jpn:好く (suku), may: suka|pleased (delighted, happy)|heureux|feliz|feliz|счастливый (радостный)||高兴|幸せな|행복하다|mừng|सुखी (ख़ुश)|খুশি|senang||mutlu|feliĉa|tyytyväinen (iloinen)|wesoły, ucieszony
+suk:u|suku||||like (enjoy, be fond of)|se plaire|gustarse (disfrutar)|||||||||||||ŝati|pitää (tykätä, olla tyytyväinen jstkn)|lubić, cieszyć się
 sukar:|sukar|||eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)|sugar|sucre|azúcar|açúcar|сахар|سُكَّر|糖|砂糖|설탕|đường|शक्कर|চিনি (শর্করা)|gula (sakar)|sukari|şeker|sukero|sokeri|cukier
 sukar:i|sukari||||sugary (sweet)||azucarado||||||||||||||sokerinen (makea)|słodki
 sukar.bet:e|sukarbete|biu|Beta vulgaris subsp. vulgaris, Altissima||sugar beet|betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла|||テンサイ (サトウダイコン)||||||||||burak cukrowy
@@ -3558,7 +3559,7 @@ tel.oskop:e|teloskope||||telescope|télescope (lunette)|telescopio|telescópio|�
 tel.uid:e|telvide||||television|téléviseur|televisión||телевизор||电视机|||||||||televidilo|televisio|telewizja
 telug:i|telugi|nas|||Telugu||télugu||||||||||||||telugu (eräs intialainen kieli)|telugu
 telur.em:|telurem|mate|Te||tellurium||telurio|||||||||||||teluro||tellur
-tem:|tem|||fra: thème, spa: tema, rus: тема (tema), deu:Thema|topic (subject, theme)|sujet (thème)|tema||тема||主题目|||||||||temo|aihe (teema)|temat, motyw
+tem:|tem|||fra: thème, spa: tema, rus: тема (tema), deu:Thema + zho:题目 (tímù)|topic (subject, theme)|sujet (thème)|tema||тема||主题目|||||||||temo|aihe (teema)|temat, motyw
 tem:a|tema||||be about (discuss as a subject)||tratar de|||||||||||||esti pri; pridiskuti|aiheesta (-sta)|być o; dyskutować o
 tem.nam:|temnam||||title (headline)|titre|título|título|название (пьесы, заголовок)|eunwan (laqab)|标题|題名 (書名, タイトル)||||||||||tytuł (nagłówek)
 ten:|ten|||zho:天 (tiān), yue:天 (tin1), wuu:天 (thi1), jpn:天 (ten), kor:천 (cheon), vie:thiên|sky (heaven)|ciel|cielo|céu|небо|سَمَاء|天空|空|하늘|trời|आसमान (आकाश)|আকাশ|langit|mbingu|gök|ĉielo|taivas|niebo

@@ -340,7 +340,7 @@ chimie - kimlojia
 Chine - Junguo  
 chocolat - coklate  
 chose - xei  
-chronique - duriki  
+chronique - duri  
 chronomètre - durmetrer  
 chu - padi  
 chéri - amike  
@@ -443,7 +443,7 @@ de - la
 demain - posdeno  
 demander (poser un question; est-ce que) - suala  
 dessous - nice  
-destin - cenamen  
+destin - nasibe  
 deux (2) - duli  
 devoir - debu  
 diamant - almas  
@@ -476,7 +476,8 @@ droit (rectiligne) - orti
 droit - hake  
 droits de l'homme - insani hake  
 dur - gati  
-durer - duru  
+durer - dura  
+durée - dur  
 dynamite - dinamite  
 dé - zarkube  
 déboguer (débugger) - angalta  
@@ -509,7 +510,7 @@ ennemi - anamike
 ennemi - dusjan  
 enseigner - xulana  
 ensommeillé (somnolent) - somivi  
-ensuite (après, plus tard) - poso  
+ensuite (après, plus tard, ir a, en el futuro) - poso  
 enterrer - gabra  
 entonnoir - riutube  
 entrer - intru  
@@ -661,7 +662,7 @@ hum - hem
 humain - insaniki  
 humanisme - insanistia  
 humeur - emoshal  
-hygiène - hijenia  
+hygiène - salsafia  
 hélicoptère - helisviman  
 hétéroromantique (hétéromantique) - alromansi  
 hétérosexuel - alseksi  
@@ -981,7 +982,7 @@ parole (mots) - loge
 parti - kiti  
 passe (passage) - pasdau  
 passeport - pasporte  
-passer - dura  
+passer - durita  
 passer - pasa  
 pastèque - arbuze  
 pathologie - patolojia  
@@ -1194,6 +1195,7 @@ scutelle - ostoxalke
 se - se  
 se baigner - banyu  
 se mouvoir - kinu  
+se passer - duru  
 se plaire - suku  
 se rappeler (se remémorer) - mema  
 seau - balde  
@@ -1264,7 +1266,6 @@ technique - tehne
 technologie - tehnolojia  
 tectonique des plaques - plati geukaskia  
 temple - pujokan  
-temps (durée) - dur  
 tendance - ivia  
 tender - tirlonga  
 tendu - tensi  

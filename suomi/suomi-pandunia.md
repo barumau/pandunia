@@ -36,7 +36,7 @@ aihe (teema) - tem
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - saba  
 aika (kesto, kestoaika) - dur  
-aikakausi - zaman  
+aikakausi - dursate  
 aikuinen - matur  
 aina - pansato  
 aine (aines, materia) - kim  
@@ -366,8 +366,7 @@ Englanti - Englia
 englantia puhuva (anglofoni) - englofoni  
 enimmäis- - maximi  
 eniten - maxim (maximo)  
-ennen (aiemmin) - ceno  
-ennen (aikaisemmin, aiemmin) - paso  
+ennen (aikaisemmin, aiemmin) - ceno  
 ennennäkemätön - ancenvidi  
 ennustaa (nähdä ennalta) - cenvida  
 ennustettu - cenvidi  
@@ -658,8 +657,8 @@ huume - droge
 huumori - yumor  
 huutaa - krita  
 huvi (hauskuus) - van  
-hygieeninen - hijeni  
-hygienia (puhtaus) - hijenia  
+hygieeninen - salsafi  
+hygienia (puhtaus) - salsafia  
 hyi! (pyh!) - fui  
 hylkiö (paaria) - parai  
 hymiö (emoji) - emoje  
@@ -733,8 +732,7 @@ ilmastotiede (klimatologia) - klimlojia
 ilmavoimat - airgun  
 ilmeinen (silminnähtävä) - exvidi  
 ilmiasu (ulkonäkö) - rupe  
-iloinen (tyytyväinen) - suki  
-ilostuttaa - suka  
+ilostuttaa (tyydyttää) - suka  
 ilta - suar  
 iltapäivä - suarden  
 ilves - lince  
@@ -1065,9 +1063,9 @@ keskiviikko - sanyom
 keskus (keskikohta) - jung  
 keskustelu (debatti) - lona  
 keskusteluhuone - blablokan  
-kestävä (krooninen) - duriki  
+kestävä (krooninen) - duri  
 kestävä (luja) - durabli  
-kestää (viedä aikaa) - duru  
+kestää (viedä aikaa) - dura  
 kesy - dosili  
 kesyttää - dosila  
 kesä (suvi) - garmomosim  
@@ -1257,7 +1255,8 @@ kulombi (mittayksikkö C) - kulombe
 kulta (rakas) - amike  
 kulta - aur  
 kulttuuri - kultur  
-kuluttaa (viettää aikaa) - dura  
+kulua (vieriä) - duru  
+kuluttaa (viettää aikaa) - durita  
 kuluva (tämänhetkinen) - zayi  
 kumi - gom  
 kumina - karau  
@@ -1674,7 +1673,7 @@ mekko (tunika) - tunike
 Meksiko - Mexiko  
 melodia (sävelmä) - melodia  
 melodinen (sointuisa) - melodi  
-menneisyys - pas  
+menneisyys - censate  
 mennyt (poissa) - kiti  
 mennä - kita  
 mennä ohi tai läpi - pasa  
@@ -1816,7 +1815,7 @@ mylläri - moler
 myrkky - tokse  
 myrkyllinen - toksi  
 myrsky - tafun  
-myöhemmin - poso  
+myöhemmin (tuleva) - poso  
 myöhempi (takainen) - postri  
 myötätunto (sympatia) - samemos  
 mädäntyä (mädätä) - pudu  
@@ -1825,7 +1824,7 @@ märkä (kostea) - xipi
 mätä - pudi  
 määritellä (luonnehtia) - sifa  
 määritetyn määritteeseen liittävä partikkeli - da  
-määrä (päämäärä, kohtalo) - cenamen  
+määrä (päämäärä, kohtalo) - nasibe  
 määrätä - gola  
 ####N - N  
 naamio (maski) - maske  
@@ -2197,7 +2196,7 @@ pitsa (pizza) - pize
 pitseria - pizokan  
 pituus - longia  
 pitäisi - selu  
-pitää (tykätä) - suku  
+pitää (tykätä, olla tyytyväinen jstkn) - suku  
 pitää yhdessä - jamhafiza  
 planeetta - planete  
 plastinen (muovailtava) - plasti  
@@ -3008,8 +3007,7 @@ tsetta- - zeta\*
 tuhat (kilo-) - kilo\*  
 tuhka - hui  
 tulehdus - itis  
-tuleva - vilo  
-tulevaisuus - vil  
+tulevaisuus - pososate  
 tuli - hoge  
 tulinen - hogi  
 tulkata (kääntää) - tarja  
@@ -3075,6 +3073,7 @@ tyttölapsi - femi pute
 Tyyni valtameri - Paci Hai  
 tyyny - kuxen  
 tyyrpuuri - nauraite  
+tyytyväinen (iloinen) - suki  
 työ (tehtävä) - kar  
 työkalu - tul  
 työntekijä (työläinen) - karer  
@@ -3087,7 +3086,7 @@ tähtitiede (astronomia) - astronomia
 tähtitieteilijä - astronomer  
 tämä - ye  
 tämä - yi  
-tämä hetki (nyt) - zai  
+tämä hetki (nyt) - zaisate  
 tänään - zaideno  
 täplä (läiskä) - binde  
 tärkeä - hami  

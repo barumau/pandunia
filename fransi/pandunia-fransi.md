@@ -333,7 +333,6 @@ caryom - jeudi
 carme - charme  
 celolojia - cytologie  
 ceno - avant  
-cenamen - destin  
 cendeno - hier  
 ceniki - vieux (ancien)  
 centaur - Centaurée  
@@ -404,10 +403,11 @@ duli - deux (2)
 dulbaxi - bilingue  
 dulyom - mardi  
 dunia - monde  
-dur - temps (durée)  
-dura - passer  
-duru - durer  
-duriki - chronique  
+dur - durée  
+durita - passer  
+dura - durer  
+duru - se passer  
+duri - chronique  
 durmetrer - chronomètre  
 dusforma - défigurer  
 dusjan - ennemi  
@@ -595,7 +595,6 @@ hen - haine
 Hesia - Hesse  
 hiyar - concombre  
 hijabe - voile  
-hijenia - hygiène  
 him - neige  
 Hinde riu - Indus  
 Hindia - Hindustan  
@@ -980,6 +979,7 @@ namkitaba - signer
 narde - backgammon  
 nasia - nation  
 nasmedi - international  
+nasibe - destin  
 nau - bateau  
 naulefte - babord  
 nauraite - tribord  
@@ -1118,7 +1118,7 @@ porte - porte
 portoriki - Portoricain  
 Portorikia - Porto Rico  
 posa - suivre  
-poso - ensuite (après, plus tard)  
+poso - ensuite (après, plus tard, ir a, en el futuro)  
 posdeno - demain  
 posfikse - suffixe  
 postri - postérieur  
@@ -1203,6 +1203,7 @@ saida - chasser
 sake - sac  
 sali - sain  
 salia - santé  
+salsafia - hygiène  
 salame - salut (salam)  
 salamia - bien-être  
 salmon - truite  

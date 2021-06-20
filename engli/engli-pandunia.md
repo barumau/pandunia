@@ -348,7 +348,6 @@ beehive (beehouse) - melvesposanduke
 beehive (honeycomb) - melvesponide  
 beer - bir  
 beetroot - bete  
-before (in the past) - paso  
 begin (get started) - xuru  
 begin (start, commence, initiate) - xura  
 beginning (start, commencement, onset) - xur  
@@ -667,7 +666,7 @@ Christian - krististe
 Christianity - krististia  
 Christmas - kristojen  
 chromium - kromem  
-chronic (lasting) - duriki  
+chronic (lasting) - duri  
 chum salmon - bakosalmon  
 church - eglis  
 cigarette (cigar) - sigar  
@@ -688,7 +687,7 @@ clay - glutofan
 clean (pure) - safi  
 clean (purify) - safa  
 cleaner - safer  
-cleanly (hygienic, sanitary) - hijeni  
+cleanly (hygienic, sanitary) - salsafi  
 clear (obvious) - klari  
 click (snap) - klika  
 climate - klim  
@@ -935,8 +934,8 @@ decorate (embellish) - sundardaka
 decoration (ornament) - sundardake  
 decrease (lessen) - mina  
 decrement - mindarja  
-dedicate (devote) - zamandona  
-dedication (devotion) - zamandonia  
+dedicate (devote) - satodona  
+dedication (devotion) - satodonia  
 deed (fact) - fate  
 deem (think that) - raya  
 deep - fasteli  
@@ -961,7 +960,7 @@ desert - registan
 desk - karmeze  
 despise (scorn) - paraya  
 destine (set) - gola  
-destiny (fate) - cenamen  
+destiny (fate) - nasibe  
 detail - detal  
 Devanagari alphabet - deunagri harfe  
 development - darjomute  
@@ -1058,6 +1057,7 @@ dumpling (ravioli, pelmeni) - pelmen
 dungeon (underground prison) - geunici prizon  
 dungeon crawl - donjon aventur  
 durable (endurable, sustainable) - durabli  
+duration (time interval) - dur  
 duruka - yamsukarcau  
 dust (powder) - fun  
 dye - rangomate  
@@ -1070,7 +1070,7 @@ dystopia - dustopia
 each other (one another) - ses  
 each other (one another, mutually) - unal  
 ear - or  
-earlier (before) - ceno  
+earlier (before, in the past) - ceno  
 earn (gain) - ganya  
 earth (ground) - geu  
 Earth (Terra) - Gevia  
@@ -1096,6 +1096,7 @@ Egyptian - misri
 eight (8) - bati  
 einsteinium - ainstainem  
 El Salvador - Salvador  
+elapse (pass by, go by) - duru  
 elastic - lasti  
 elder - lau  
 electric - eletri  
@@ -1392,7 +1393,7 @@ fungus (mushroom) - fung
 funnel - riutube  
 funny (amusing) - vani  
 fusion (amalgamation) - rivunia  
-future time - vil  
+future time - pososate  
 ####G - G  
 Gabon - Gabon  
 gadolinium - gadolinem  
@@ -1558,7 +1559,6 @@ hammock - hamake
 Han Chinese - cini  
 hand - hande  
 hang (dangle) - penda  
-happy (delighted) - suki  
 harbor (seaport) - haiporte  
 hard (tough) - gati  
 hardship (difficulty, challenge) - dushal  
@@ -1681,7 +1681,7 @@ hurt - paxa
 hush (shh) - xuxo  
 hybrid (mongrel) - hibride  
 hydrogen - hidre  
-hygiene (cleanliness) - hijenia  
+hygiene (cleanliness) - salsafia  
 Hyperion - Hiperyon  
 I (me) - me  
 ####I - I  
@@ -1896,8 +1896,8 @@ lapis lazuli - lazurpetre
 larva (maggot, caterpillar) - larve  
 lasagna - lazanye  
 last (final) - finodi  
-last (take time; during) - duru  
-later (after) - poso  
+last (take time; during) - dura  
+later (after, will, in the future) - poso  
 Latin alphabet - latini harfia  
 latitude - veisirke  
 Latvia - Latvia  
@@ -2138,7 +2138,7 @@ meaning (signification) - men
 measure (take measurements) - metra  
 measurement - metre  
 meat (flesh) - manse  
-Mecca - makah  
+Mecca - Makah  
 medallion (medal) - medal  
 medicine (field of study) - medikia  
 meditate (ponder) - medita  
@@ -2577,13 +2577,13 @@ party (group) - partia
 pascal (Pa) - paskal  
 pass (go across or through) - pasa  
 pass (passage) - pasdau  
-pass (spend time, put time into) - dura  
+pass (spend time, put time into) - durita  
 passive (inactive) - pasivi  
 passport - pasporte  
 password (security code) - sekurkode  
 password - pasloge  
 past (bygone) - pasi  
-past times - pas  
+past times - censate  
 paste (dough) - paste  
 paternal grandfather - paipai  
 paternal grandmother - paimai  
@@ -2616,6 +2616,7 @@ pepper (peppercorn) - pipre
 peppermint - piprominte  
 perfect (optimize, refine, polish) - purbona  
 perfect - purboni  
+period (era, epoch, term) - dursate  
 peripheral - kenari  
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
@@ -2701,7 +2702,8 @@ play a game - gema
 play music - muzika  
 playdough - plastopaste  
 player (gamer) - gemer  
-please (delight, make happy) - suka  
+please (satisfy, delight) - suka  
+pleased (delighted, happy) - suki  
 pliers (pincers) - pinser  
 plug (stop with a plug) - tapa  
 plum (prune) - plum  
@@ -2780,7 +2782,8 @@ pregnant - hamili
 prepare (make ready) - reda  
 presence (existence) - zayia  
 present (current, existing) - zayi  
-present time (now) - zai  
+present (here, now, current situation) - zai  
+present time (now) - zaisate  
 presenty (currently, now) - zayo  
 president - prezidente  
 press (imprint) - capa  
@@ -3583,9 +3586,7 @@ tight (tense) - tensi
 tikka masala - masali tike  
 tile - tail  
 tilt (skew) - terca  
-time (duration, quantity of time) - dur  
 time (instance, occasion) - mar  
-time (period, epoch, era) - zaman  
 Timor - Timor  
 tin - estan  
 tiny (microscopic) - mikri  
@@ -3878,7 +3879,6 @@ wiki - vikia
 wiki article - vike  
 wild (savage) - ekojeni  
 wild (savage) - vildi  
-will (in future) - vilo  
 will (volition, desire) - ice  
 will (want) - ica  
 win (triumph, succeed, accomplish) - xenga  

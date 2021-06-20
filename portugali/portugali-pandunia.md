@@ -294,7 +294,7 @@ cromo - jamkarde
 cronómetro - durmetrer  
 cruz - krus  
 crème - krem  
-crónico - duriki  
+crónico - duri  
 cubo - kube  
 cultivar - agra  
 cume (pico, topo) - xanpike  
@@ -320,7 +320,7 @@ desenvolvimento - darjomute
 desfigurar - dusforma  
 deslizar - glisu  
 despertar - jagu  
-destino - cenamen  
+destino - nasibe  
 deus - deu  
 devanágari - deunagri harfe  
 dever - debu  
@@ -343,7 +343,8 @@ domingo - cetyom
 doméstico - domi  
 dormir - somu  
 ducha - dux  
-durar - duru  
+durar - dura  
+duração - dur  
 duro - gati  
 ####E - E  
 e - e  
@@ -510,7 +511,7 @@ gênero gramatical - baxi jinse
 ####H - H  
 haste (talo, caule) - tan  
 Hesse (Héssia) - Hesia  
-higiene - hijenia  
+higiene - salsafia  
 hmm - hem  
 honra - onor  
 honrar - onora  
@@ -1049,7 +1050,6 @@ telescópio - teloskope
 temer - fobu  
 tempero - masal  
 templo - pujokan  
-tempo (duração) - dur  
 tender - iva  
 tendência - ivia  
 tenso - tensi  
@@ -1082,6 +1082,7 @@ trabalhar - kara
 trabalho - kar  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - xanti  
+transcorrer - duru  
 trator - trater  
 trazer - layana  
 trigo - ganum  

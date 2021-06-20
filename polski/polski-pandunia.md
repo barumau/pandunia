@@ -331,7 +331,7 @@ Chorwacja - Horvatia
 chory - pati  
 chować (kryć) - sira  
 chrom - kromem  
-chroniczny - duriki  
+chroniczny - duri  
 chronić (ratować) - sekura  
 chronić, strzec,  osłaniać, bronić - garda  
 Chrystus, mesjasz - kriste  
@@ -393,7 +393,7 @@ czapetka kuminowa - jamul
 czar (urok, wdzięk) - carme  
 Czarnogóra - Cernagora  
 czarny - siyahi  
-czas (epoka, era) - zaman  
+czas (epoka, era) - dursate  
 czas; okazja - mar  
 czasownik - karloge  
 czaszka - saroste  
@@ -411,7 +411,7 @@ czuć - senta
 czuć, odczuć, odczuwać - emosu  
 czwartek - caryom  
 czyn, uczynek - fate  
-czysty (higieniczny, sanitarny) - hijeni  
+czysty (higieniczny, sanitarny) - salsafi  
 czysty - safi  
 czytać - duga  
 cząstka (ziarno, kula, pocisk) - dan  
@@ -440,8 +440,8 @@ deaktywować (wyłączyć, zatrzymać) - anativa
 debatować, prowadzić dyskurs - lona  
 decy-, dziesiąta część - deci\*  
 decybel - decibel  
-dedykacja (poświęcenie) - zamandonia  
-dedykować (poświęcać, poświęcić) - zamandona  
+dedykacja (poświęcenie) - satodonia  
+dedykować (poświęcać, poświęcić) - satodona  
 defekować, srać - kaka  
 dekoracja (ornament) - sundardake  
 dekorować - sundardaka  
@@ -832,7 +832,7 @@ herc - herze
 heteroromantyczny - alromansi  
 heteroseksualny - alseksi  
 hełm - sarkaske  
-higiena - hijenia  
+higiena - salsafia  
 Himalaje - Himalia  
 hinduistyczny - hindiste  
 hinduizm - hindistia  
@@ -1457,7 +1457,7 @@ medycyna - medikia
 medytować; dumać, rozmyślać, zastanawiać się - medita  
 megawat - megavate  
 meitner - maitnerem  
-Mekka - makah  
+Mekka - Makah  
 Meksyk - Mexiko  
 Meksyk - Mexiko site  
 melodia - melodia  
@@ -1507,7 +1507,7 @@ minimalizm - minimistia
 minister - minister  
 ministry - ministeria  
 minuta - minute  
-minąć, mijać (czas) - dura  
+minąć, mijać (czas) - durita  
 minąć, mijać, przeminąć, przemijać - pasa  
 misja - misia  
 mistrz (ekspert) - mester  
@@ -2130,7 +2130,6 @@ poprawić, poprawiać, prostować, korygować - saha
 poprawny (wykonalny) - funcabli  
 poprowadzić do (doprowadzić do, powodować) - asara  
 poprzedni - ceni  
-poprzednio (przedtem) - paso  
 poprzedzić, poprzedzać - cena  
 populacja - demmultia  
 popularny, modny - faxoni  
@@ -2290,7 +2289,7 @@ przesilenie letnie (dzień srodka lata) - garmomosimmedi den
 przestępstwo - krim  
 przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - migru  
 przeszkodzić, przeszkadzać, robić kłopot - turba  
-przeszłość - pas  
+przeszłość - censate  
 przeszły, miniony - pasi  
 przetwarzać - reisikla  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
@@ -2299,7 +2298,7 @@ przewodnik - gider
 przewodnik - gidobuke  
 przewód (kanał) - kanaler  
 przeziębienie, katar - zukam  
-przeznaczenie, los - cenamen  
+przeznaczenie, los - nasibe  
 przeznaczyć - gola  
 przeźroczysty, jasny - klari  
 przy, z, na, w, u - ya  
@@ -2328,7 +2327,7 @@ przyrostek dla przysłówków - -o
 przyrostek dla wsperającego ideę - iste  
 przyrostek dla wykonawcy - er  
 przystojny, atrakcyjny, ładny - bonvidi  
-przyszłość - vil  
+przyszłość - pososate  
 przysłówek - modologe  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tiroriu  
 prędkościomierz - rapidometrer  
@@ -2360,7 +2359,7 @@ półka (regał na książki) - liboban
 północ - norde  
 północny - nordi  
 półwysep - yagones  
-później - poso  
+później (w przyszłości) - poso  
 pękać (rozrywać się) - parcokayu  
 pęknięcie - krake  
 pęknąć (rozpaść się) - fenu  
@@ -2910,7 +2909,7 @@ teoria - teoria
 teozofia - deusofia  
 tera- - tera\*  
 terakota - bekofan  
-teraźniejszość, współczesność (teraz) - zai  
+teraźniejszość, współczesność (teraz) - zaisate  
 teraźniejszość, współczesność - zayia  
 terb - terbem  
 teren - geuforme  
@@ -2955,7 +2954,7 @@ tropiki - garmozon
 trucizna (toksyna) - tokse  
 trudność (trud) - dushal  
 trwanie - dur  
-trwać, zająć czas; przez - duru  
+trwać, zająć czas; przez - dura  
 trwały (wytrzymały, podtrzymywalny) - durabli  
 tryb nocny - nocomode  
 Trynidad i Tobago - Trinidade e Tobago  
@@ -3078,7 +3077,6 @@ Vanuatu - Vanuatu
 viski - viske  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
-w przyszłości - vilo  
 waga (ciężkość) - vezia  
 waga (urządzenie ważące) - vezometrer  
 wagina - vagin  
@@ -3107,7 +3105,7 @@ ważka - libel
 ważny - hami  
 ważyć - vezu  
 wciąż, nadal - zoko  
-wcześniej (uprzednio) - ceno  
+wcześniej (uprzednio, poprzednio, przedtem) - ceno  
 wczoraj - cendeno  
 wdowa - vidou  
 według ruchu wskazówek zegara - rotoraito  

@@ -300,8 +300,10 @@ ceka - kontroli
 cel - ĉelo  
 celolojia - citologio  
 cena - antaŭiri  
+ceno - antaŭe (pasinte)  
 cendeno - hieraū  
 ceniki - malnova  
+censate - pasinteco  
 centi\* - centono  
 Ceres - Cereso  
 ceresem - cerio  
@@ -435,8 +437,8 @@ duni - tera
 dunia - mondo  
 dunia bax - mondlingvo  
 dur - daŭro  
-dura - daŭrigi  
-duru - daŭri (dum)  
+durita - daŭrigi  
+dura - daŭri (dum)  
 dusjan - malamiko  
 dusvidi - malbonaspekta  
 dute - dubo  
@@ -1364,10 +1366,8 @@ parde - kurteno
 parke - parko (ĝardeno)  
 parta - partopreni  
 partia - partio  
-pas - pasinteco  
 pasa - pasi  
 pasi - pasinta  
-paso - antaŭe (pasinte)  
 pasporte - pasporto  
 pati - malsana  
 patike - paciento  
@@ -1425,7 +1425,9 @@ Portorikia - Portoriko
 pos - sekvo  
 posa - sekvi  
 posi - sekva  
+poso - estonte  
 posdeno - morgaŭ  
+pososate - estonoteco  
 pospor - fosforo  
 postokan - poŝtejo  
 postomarke - poŝtmarko  
@@ -1749,8 +1751,6 @@ vezia - pezo
 vida - vidi (rigardi)  
 vidou - vidvo  
 vike - vikia artikulo  
-vil - estonoteco  
-vilo - estonte  
 vin - vino  
 vinsuan - vinagro  
 vir - heroo  
@@ -1827,10 +1827,10 @@ xuru - komenciĝi
 xuxa - silentigi  
 xuxi - silenta  
 ####Z - Z  
-zai - nuno  
 zayi - ĉeestanta (nuna, ekzistanta)  
 zayia - ĉeestanteco (ekzisto)  
 zaideno - hodiaŭ  
+zaisate - nuno  
 zaitun - olivo  
 Zambia - Zambio  
 zar - hazardo  

@@ -191,7 +191,6 @@ cari - 四 (4)
 caryom - 星期四 (禮拜四)  
 celolojia - 细胞学  
 ceno - 以前  
-cenamen - 命運  
 cendeno - 昨日  
 ceniki - 古老 (以前)  
 ceng - 层  
@@ -766,6 +765,7 @@ najis - 污染物
 najisa - 污染  
 namkitaba - 签署  
 nasmedi - 国际  
+nasibe - 命運  
 nau - 船 (艇)  
 naulefte - 左舷  
 nauraite - 右舷  

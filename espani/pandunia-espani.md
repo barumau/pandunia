@@ -487,15 +487,15 @@ celolojia - citología
 celsius darje - grado Celsius  
 cena - preceder (anteceder)  
 ceni - previo (anterior)  
-ceno - más temprano (antes)  
+ceno - más temprano (antes, haber, en el pasado)  
 cenaga - presuponer  
-cenamen - destino  
 cendeno - ayer  
 cenfikse - prefijo  
 cenyangi - clásico  
 cenike - reliquia  
 ceniki - viejo (antiguo)  
 cenvida - prever (esperar, pensar)  
+censate - pasado  
 ceng - capa (piso, planta, estrato)  
 centi\* - centi- (por ciento)  
 centimitre - centímetro  
@@ -714,12 +714,14 @@ duman - humo
 duni - global (mundial)  
 dunia - mundo  
 dunia bax - lengua mundial  
-dur - tiempo (duración)  
-dura - pasar (transcurrir)  
-duru - durar (durante, llevar tiempo)  
+dur - duración  
+durita - pasar (transcurrir)  
+dura - durar (durante, llevar tiempo)  
+duru - transcurrir  
 durabli - durable  
-duriki - crónico  
+duri - crónico  
 durmetrer - cronómetro  
+dursate - era (periodo, época)  
 dusi - malo (difícil, duro)  
 dusi zar - infortunio (mala suerte)  
 dusdarja - degradar  
@@ -1234,7 +1236,6 @@ hibride - híbrido (mestizo)
 hidre - hidrógeno  
 hiyar - pepino  
 hijabe - velo  
-hijenia - higiene  
 him - nieve  
 himu - nevar  
 himros - escarcha  
@@ -2297,6 +2298,7 @@ nasia - nación
 nasiste - nacionalista  
 nasistia - nacionalismo  
 nasmedi - internacional  
+nasibe - destino  
 natre - natrón  
 natrem - sodio  
 nau - barco (bote)  
@@ -2530,10 +2532,8 @@ parne - helecho
 parta - participar  
 partia - partido (grupo)  
 parter - participante  
-pas - pasado  
 pasa - pasar  
 pasi - anterior (remoto)  
-paso - haber (en el pasado)  
 pasdau - paso (pasaje)  
 pasloge - contraseña  
 pasporte - pasaporte  
@@ -2686,6 +2686,7 @@ posi - siguiente (trasero)
 poso - más tarde  
 posdeno - mañana  
 posfikse - sufijo  
+pososate - futuro  
 postri - posterior  
 pospor - fósforo  
 posta - eviar por correo  
@@ -2918,6 +2919,7 @@ saider - cazador
 sake - saco  
 sali - saludable  
 salia - salud  
+salsafia - higiene  
 salade - ensalada  
 salam (salami) - buen (hola)  
 salam cute - adiós  
@@ -2974,6 +2976,7 @@ sar - cabeza
 sarkaske - casco (yelmo)  
 saroste - cráneo (calavera)  
 sate - momento (tiempo)  
+satodona - dedicar  
 Saturne - Saturno  
 sau - sabiduría (conocimiento)  
 sava - saber (conocer)  
@@ -3422,8 +3425,6 @@ Vietia - Vietnam
 viyoleti - morado (púrpura)  
 vijin - GMS  
 vike - página wiki  
-vil - futuro  
-vilo - ir a (en el futuro)  
 vildi - salvaje  
 viman - aeroplano  
 vin - vino  
@@ -3581,7 +3582,7 @@ xuti - hábil
 xuxi - silencioso  
 xuxo - chito (chist)  
 ####Z - Z  
-zai - presente  
+zai - actualidad  
 zaya - generar (añadir)  
 zayi - actual  
 zayia - presencia (existencia)  
@@ -3589,12 +3590,11 @@ zayo - ahora (actualmente)
 zayu - aparecer  
 zayu - existir (estar presente)  
 zaideno - hoy  
+zaisate - presente  
 zaitun - aceituna  
 zalimi - mezquino (antipático, cruel)  
 zalimi rajer - tirano (déspota)  
 zalimia - crueldad (tiranía)  
-zaman - tiempo (periodo)  
-zamandona - dedicar  
 Zambia - Zambia  
 zar - riesgo (posibilidad)  
 zari - azar (aleatorio)  

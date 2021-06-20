@@ -170,8 +170,8 @@ for the normal subject–verb–object word order.
 
 | Noun           | Stative verb   | Passive verb   | Active verb    |
 |----------------|----------------|----------------|----------------|
-| **suke**       | **suki**       | **suku**       | **suka**       |
-| joy, pleasure  | joyful, happy  | please         | enjoy, like    |
+| **suke**       | **suki**       | **suka**       | **suku**       |
+| pleasure       | pleased        | please         | be pleased     |
 | **nide**       | **nidi**       | **nidu**       | **nida**       |
 | need           | needy          | be needed      | need           |
 | **vol**        | **voli**       | **volu**       | **vola**       |

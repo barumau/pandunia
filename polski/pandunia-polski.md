@@ -475,9 +475,8 @@ celolojia - cytologia
 celsius darje - stopień Celsjusza  
 cena - poprzedzić, poprzedzać  
 ceni - poprzedni  
-ceno - wcześniej (uprzednio)  
+ceno - wcześniej (uprzednio, poprzednio, przedtem)  
 cenaga - zakładać (założyć)  
-cenamen - przeznaczenie, los  
 cendeno - wczoraj  
 cenfikse - przedrostek (prefiks)  
 cenyangi - klasyczny  
@@ -485,6 +484,7 @@ cenike - relikwia
 ceniki - stary, starożytny  
 cenvida - przewidzieć (spodziewać się)  
 cenvidi - spodziewany (przewidziany)  
+censate - przeszłość  
 ceng - warstwa (poziom, piętro, kondygnacja)  
 centaur - chaber  
 centi\* - centy-, procent, na sto, setna część  
@@ -711,11 +711,12 @@ duni - globalny
 dunia - świat  
 dunia bax - język świata, język ogólnoświatowy  
 dur - trwanie  
-dura - minąć, mijać (czas)  
-duru - trwać, zająć czas; przez  
+durita - minąć, mijać (czas)  
+dura - trwać, zająć czas; przez  
 durabli - trwały (wytrzymały, podtrzymywalny)  
-duriki - chroniczny  
+duri - chroniczny  
 durmetrer - stoper (sekundomierz)  
+dursate - czas (epoka, era)  
 dusi zar - zły los  
 dusdarja - dezaktualizować (pogorszyć)  
 dusfunce - awaria (wadliwe działanie)  
@@ -1201,8 +1202,6 @@ hibride - hybryda; kundel
 hidre - wodór  
 hiyar - ogórek  
 hijabe - welon (woalka)  
-hijeni - czysty (higieniczny, sanitarny)  
-hijenia - higiena  
 him - śnieg  
 himu - śnieżyć (padać)  
 himros - szron  
@@ -1967,7 +1966,7 @@ Mayote - Majotta
 mais - kukurydza  
 maitnerem - meitner  
 majenti - magenta  
-makah - Mekka  
+Makah - Mekka  
 makal - artykuł, tekst  
 makan - masło  
 makanful - mlecz  
@@ -2269,6 +2268,7 @@ nasia - naród, narodowość
 nasiste - nacjonalista  
 nasistia - nacjonalizm  
 nasmedi - międzynarodowy  
+nasibe - przeznaczenie, los  
 natrem - sód  
 nau - łódź, statek  
 nava - żeglować (płynąć)  
@@ -2503,10 +2503,8 @@ parne - paproć
 parta - uczestniczyć, wziąć udział, brać udział  
 partia - partia  
 parter - uczestnik  
-pas - przeszłość  
 pasa - minąć, mijać, przeminąć, przemijać  
 pasi - przeszły, miniony  
-paso - poprzednio (przedtem)  
 pasivi - pasywny (nieaktywny)  
 pasporte - paszport  
 paske - Wielkanoc  
@@ -2646,9 +2644,10 @@ Portugal - Portugalia
 pos - konsekwencja, skutek  
 posa - podążać  
 posi - następny (następujący)  
-poso - później  
+poso - później (w przyszłości)  
 posdeno - jutro  
 posfikse - przyrostek (sufiks)  
+pososate - przyszłość  
 pospor - fosfor  
 posta - nadać, wysłać pocztą  
 poste - poczta  
@@ -2877,6 +2876,8 @@ saider - łowca (myśliwy)
 sake - torba, wór, worek, torba, sakwa  
 sali - zdrowy  
 salia - zdrowie  
+salsafi - czysty (higieniczny, sanitarny)  
+salsafia - higiena  
 salade - sałatka  
 salam (salami) - dobry ...  
 salam cute - żegnaj, dobre odejście  
@@ -2931,6 +2932,8 @@ sar - głowa
 sarkaske - hełm  
 saroste - czaszka  
 sate - moment  
+satodona - dedykować (poświęcać, poświęcić)  
+satodonia - dedykacja (poświęcenie)  
 Saturne - Saturn  
 sau - wiedza  
 sava - wiedzieć  
@@ -3372,8 +3375,6 @@ Vietia - Wietnam
 viyoleti - fioletowy  
 vijin - glutaminian sodu  
 vike - artykuł wiki  
-vil - przyszłość  
-vilo - w przyszłości  
 vildi - dziki  
 viman - samolot  
 vimankaper - porywacz samolotu  
@@ -3530,20 +3531,17 @@ xuxa - uciszyć (uciszać)
 xuxi - cichy  
 xuxo - ćsi  
 ####Z - Z  
-zai - teraźniejszość, współczesność (teraz)  
 zaya - wzywać (wezwać, dodawać, dodać)  
 zayi - obecny, teraźniejszy, aktualny, bieżący, współczesny  
 zayia - teraźniejszość, współczesność  
 zayu - pojawić się  
 zayu - istnieć (być obecnym)  
 zaideno - dziś, dzisiaj  
+zaisate - teraźniejszość, współczesność (teraz)  
 zaitun - oliwka  
 zalimi - złośliwy, okrutny  
 zalimi rajer - tyran  
 zalimia - tyrania  
-zaman - czas (epoka, era)  
-zamandona - dedykować (poświęcać, poświęcić)  
-zamandonia - dedykacja (poświęcenie)  
 Zambia - Zambia  
 zar - niebezpieczeństwo, ryzyko, szansa  
 zari - losowy  

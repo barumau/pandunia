@@ -532,9 +532,8 @@ celolojia - cytology
 celsius darje - degree Celsius  
 cena - predate (be before)  
 ceni - previous (fore)  
-ceno - earlier (before)  
+ceno - earlier (before, in the past)  
 cenaga - assume (presuppose)  
-cenamen - destiny (fate)  
 cendeno - yesterday  
 cenfikse - prefix  
 cenyangi - classic (classical)  
@@ -542,6 +541,7 @@ cenike - relic
 ceniki - old (ancient, former)  
 cenvida - expect (anticipate, predict, forsee)  
 cenvidi - expected  
+censate - past times  
 ceng - layer (level, storey, floor, stratum)  
 centi\* - centi- (per cent)  
 centimitre - centimeter (cm)  
@@ -783,12 +783,14 @@ duman - smoke
 duni - global  
 dunia - world  
 dunia bax - world language  
-dur - time (duration, quantity of time)  
-dura - pass (spend time, put time into)  
-duru - last (take time; during)  
+dur - duration (time interval)  
+durita - pass (spend time, put time into)  
+dura - last (take time; during)  
+duru - elapse (pass by, go by)  
 durabli - durable (endurable, sustainable)  
-duriki - chronic (lasting)  
+duri - chronic (lasting)  
 durmetrer - stopwatch  
+dursate - period (era, epoch, term)  
 dusi - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dusi zar - misfortune (bad luck)  
 dusdarja - downgrade  
@@ -1358,8 +1360,6 @@ hibride - hybrid (mongrel)
 hidre - hydrogen  
 hiyar - cucumber  
 hijabe - veil (cover, screen)  
-hijeni - cleanly (hygienic, sanitary)  
-hijenia - hygiene (cleanliness)  
 him - snow  
 himu - snow (be snowing)  
 himros - frost  
@@ -2204,7 +2204,7 @@ Mayote - Mayotte
 mais - corn (maize)  
 maitnerem - meitnerium  
 majenti - magenta (fuchsia)  
-makah - Mecca  
+Makah - Mecca  
 makal - article (writing)  
 makan - butter  
 makanful - dandelion  
@@ -2529,6 +2529,7 @@ nasia - nation
 nasiste - nationalist  
 nasistia - nationalism  
 nasmedi - international  
+nasibe - destiny (fate)  
 natre - natron  
 natrem - sodium  
 nau - boat (ship)  
@@ -2784,10 +2785,8 @@ parne - fern
 parta - participate (attend, partake, take part)  
 partia - party (group)  
 parter - participant  
-pas - past times  
 pasa - pass (go across or through)  
 pasi - past (bygone)  
-paso - before (in the past)  
 pasdau - pass (passage)  
 pasivi - passive (inactive)  
 pasloge - password  
@@ -2947,9 +2946,10 @@ portugalfoni - lusophone (Portuguese speaking)
 pos - consequence (back, follow-up)  
 posa - follow (come after)  
 posi - next (following, back)  
-poso - later (after)  
+poso - later (after, will, in the future)  
 posdeno - tomorrow  
 posfikse - suffix  
+pososate - future time  
 pospoza - put back (postpone)  
 postri - backward (posterior)  
 pospor - phosphorus  
@@ -3197,6 +3197,8 @@ saider - hunter
 sake - bag (sack)  
 sali - healthy  
 salia - health  
+salsafi - cleanly (hygienic, sanitary)  
+salsafia - hygiene (cleanliness)  
 salade - salad  
 salam (salami) - good (prosperous; used in greetings)  
 salam cute - farewell  
@@ -3254,6 +3256,8 @@ sar - head
 sarkaske - helmet  
 saroste - skull  
 sate - moment (while, short time)  
+satodona - dedicate (devote)  
+satodonia - dedication (devotion)  
 Saturne - Saturn  
 sau - knowledge  
 sava - know (be aware of)  
@@ -3441,8 +3445,8 @@ suisekuri - waterproof
 Suisia - Switzerland  
 suja - suggest (propose)  
 suje - suggestion (proposal)  
-suka - please (delight, make happy)  
-suki - happy (delighted)  
+suka - please (satisfy, delight)  
+suki - pleased (delighted, happy)  
 suku - like (enjoy, be fond of)  
 sukar - sugar  
 sukari - sugary (sweet)  
@@ -3735,8 +3739,6 @@ viyoleti - purple (violet)
 vijin - MSG (monosodium glutamate)  
 vike - wiki article  
 vikia - wiki  
-vil - future time  
-vilo - will (in future)  
 vildi - wild (savage)  
 viman - airplane  
 vimankaper - plane hijacker  
@@ -3906,7 +3908,7 @@ xuxa - silence (make silent)
 xuxi - silent  
 xuxo - hush (shh)  
 ####Z - Z  
-zai - present time (now)  
+zai - present (here, now, current situation)  
 zaya - summon (add, spawn)  
 zayi - present (current, existing)  
 zayia - presence (existence)  
@@ -3914,13 +3916,11 @@ zayo - presenty (currently, now)
 zayu - appear  
 zayu - exist (be present)  
 zaideno - today  
+zaisate - present time (now)  
 zaitun - olive  
 zalimi - mean (cruel)  
 zalimi rajer - tyrant (despot)  
 zalimia - cruelty (tyranny, despotism)  
-zaman - time (period, epoch, era)  
-zamandona - dedicate (devote)  
-zamandonia - dedication (devotion)  
 Zambia - Zambia  
 zar - hazard (chance)  
 zari - random  

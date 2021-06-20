@@ -213,7 +213,6 @@ caryom - четверг
 carme - шарм  
 celolojia - цитология  
 ceno - раньше  
-cenamen - судьба  
 cendeno - вчера  
 ceniki - старый (древний)  
 centaur - василёк  
@@ -286,10 +285,11 @@ duli o sani - пара
 dulbaxi - двуязычный  
 dulyom - вторник  
 dunia - мир (свет)  
-duru - длиться  
+dura - длиться  
 durabli - долговечный  
-duriki - хронический  
+duri - хронический  
 durmetrer - секундомер  
+dursate - период (эпоха)  
 dusforma - уродовать  
 dusjan - враг (противник)  
 dusosinyi - зловещий  
@@ -462,7 +462,6 @@ hemah - палатка (шатёр)
 Hesia - Гессен  
 hiyar - огурец  
 hijabe - вуаль  
-hijenia - гигиена  
 Hinde riu - Инд  
 Hindia - Индостан  
 hisaba - вычислять  
@@ -842,6 +841,7 @@ namkitaba - подписать
 narde - нарды (триктрак)   
 nasia - нация  
 nasmedi - междунаро́дный  
+nasibe - судьба  
 natre - натрит (натр, натрон, кристаллическая сода)  
 natrem - натрий  
 nau - лодка (бот)  
@@ -1044,6 +1044,7 @@ ses - друг друга
 safran - шафран  
 sahi - правильный  
 saida - охотиться  
+salsafia - гигиена  
 salame - приветствие  
 salamia - благосостояние  
 salte - соль  
@@ -1290,7 +1291,6 @@ xur - начало
 xuxi - тихий  
 ####Z - Z  
 zalimi rajer - тиран (деспот)  
-zaman - период (эпоха)  
 Zambia - Замбия  
 zarkube - кость (кубик)  
 Zardux - Зороастр  

@@ -48,6 +48,7 @@ activo - ativi
 acto - ate  
 actor (actriz) - roler  
 actual - zayi  
+actualidad - zai  
 actuar (hacer un papel) - rola  
 acuarela - suirang  
 acuario (pecera) - pextanke  
@@ -895,7 +896,7 @@ cruzar - krusu
 cráneo (calavera) - saroste  
 crítico (fundamental) - krizi  
 crítico - pipinger  
-crónico - duriki  
+crónico - duri  
 cuaderno (libreta) - notobuke  
 cuadro - cargon  
 cualidad (atributo, descripción) - sif  
@@ -973,7 +974,7 @@ deciembre - desdullun
 decir (hablar) - loga  
 decoración (adorno) - sundardake  
 decorar (adornar) - sundardaka  
-dedicar - zamandona  
+dedicar - satodona  
 dedo - angul  
 defecar - kaka  
 defender - defa  
@@ -1024,7 +1025,7 @@ despierto - jagi
 despreciar (desdeñar) - paraya  
 destapar - andaka  
 destinar - gola  
-destino - cenamen  
+destino - nasibe  
 detalle - detal  
 detestar - anama  
 devanágari - deunagri harfe  
@@ -1104,7 +1105,8 @@ ducha - dux
 duda - dute  
 dueño - malan  
 durable - durabli  
-durar (durante, llevar tiempo) - duru  
+duración - dur  
+durar (durante, llevar tiempo) - dura  
 duro - gati  
 dátil - tamar  
 débil - debili  
@@ -1211,6 +1213,7 @@ equilibrado (par) - parike
 equilibrio - parvezia  
 equipaje - bagaje  
 equipo - tim  
+era (periodo, época) - dursate  
 erbio - erbem  
 erguido - libi  
 erigir (montar, armar) - liba  
@@ -1429,7 +1432,7 @@ fundar (basar) - baza
 fusionar (fundir) - rivunu  
 fusión - rivunia  
 fusión nuclear - kerni darunia  
-futuro - vil  
+futuro - pososate  
 fábrica - fatokan  
 fácil - fasili  
 fácil acceso (accesibilidad) - fasilia da akses  
@@ -1571,7 +1574,6 @@ guía de viaje - gidobuke
 género gramatical - baxi jinse  
 género social - sosi jinse  
 ####H - H  
-haber (en el pasado) - paso  
 habilidad - able  
 habitación (cuarto, sala, pieza) - kamar  
 habla (palabras) - loge  
@@ -1621,7 +1623,7 @@ hidrógeno - hidre
 hielo - ais  
 hierbabuena - zongominte  
 hierro - fer  
-higiene - hijenia  
+higiene - salsafia  
 hija - femi pute  
 hijastro o  hijastra - gamben  
 hijo - mani pute  
@@ -1775,7 +1777,6 @@ inyección - jux
 inyectar - juxa  
 ion - iyon  
 ir - kita  
-ir a (en el futuro) - vilo  
 ira (furia) - furia  
 Iraq - Irakia  
 iridio - iridem  
@@ -2276,7 +2277,7 @@ máquina - maxin
 máquina de escribir - kitabomaxin  
 más - max (maxo)  
 más tarde - poso  
-más temprano (antes) - ceno  
+más temprano (antes, haber, en el pasado) - ceno  
 máscara - maske  
 mástil - maste  
 máximo - maxime  
@@ -2546,9 +2547,9 @@ partir (dividirse) - fenu
 partícula (grano, bala) - dan  
 parámetro - param  
 pasa (uva pasa) - ganputau  
-pasado - pas  
+pasado - censate  
 pasaporte - pasporte  
-pasar (transcurrir) - dura  
+pasar (transcurrir) - durita  
 pasar - pasa  
 pasatiempo (hobby, afición) - hobe  
 pascal (Pa) - paskal  
@@ -2750,7 +2751,7 @@ preguntar (inquirir) - suala
 preguntarse - sauvolu  
 preparar (hacer listo) - reda  
 presencia (existencia) - zayia  
-presente - zai  
+presente - zaisate  
 presidente - prezidente  
 presión atmosférica - airbaria  
 prestar (pedir prestado) - jeka  
@@ -3332,8 +3333,6 @@ tetera - caipote
 teísmo - devistia  
 teísta - deviste  
 tiburón - xarke  
-tiempo (duración) - dur  
-tiempo (periodo) - zaman  
 tierra (barro) - darte  
 tierra - geu  
 Tierra - Gevia  
@@ -3391,6 +3390,7 @@ tragar - gula
 trampa - kapotruke  
 trampilla - padomun  
 tranquilo (calmado) - xanti  
+transcurrir - duru  
 transitar (atravesar) - transa  
 Transnistria (Cisdniéster) - Nistria  
 transporte - transeria  

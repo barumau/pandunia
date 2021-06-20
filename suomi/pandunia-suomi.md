@@ -497,14 +497,14 @@ celolojia - soluoppi (sytologia)
 celsius darje - celsiusaste  
 cena - edeltää (olla ennen)  
 ceni - edellinen  
-ceno - ennen (aiemmin)  
+ceno - ennen (aikaisemmin, aiemmin)  
 cenaga - edellyttää  
-cenamen - määrä (päämäärä, kohtalo)  
 cendeno - eilen  
 cenfikse - etuliite (prefiksi)  
 ceniki - vanha (muinainen)  
 cenvida - ennustaa (nähdä ennalta)  
 cenvidi - ennustettu  
+censate - menneisyys  
 ceng - kerros  
 centi\* - sentti  
 centimitre - senttimetri (cm)  
@@ -734,11 +734,13 @@ duni - maailman-
 dunia - maailma  
 dunia bax - maailmankieli  
 dur - aika (kesto, kestoaika)  
-dura - kuluttaa (viettää aikaa)  
-duru - kestää (viedä aikaa)  
+durita - kuluttaa (viettää aikaa)  
+dura - kestää (viedä aikaa)  
+duru - kulua (vieriä)  
 durabli - kestävä (luja)  
-duriki - kestävä (krooninen)  
+duri - kestävä (krooninen)  
 durmetrer - sekuntikello  
+dursate - aikakausi  
 dusi - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dusi zar - epäonni  
 dusdarja - laskea tasoa  
@@ -1265,8 +1267,6 @@ hibride - risteytys (hybridi)
 hidre - vety  
 hiyar - kurkku  
 hijabe - verho (huntu, peite)  
-hijeni - hygieeninen  
-hijenia - hygienia (puhtaus)  
 him - lumi  
 himros - kuura  
 Himalia - Himalaja  
@@ -2254,6 +2254,7 @@ nasia - kansakunta
 nasiste - nationalisti  
 nasistia - kansallisuusaate (nationalismi)  
 nasmedi - kansainvälinen  
+nasibe - määrä (päämäärä, kohtalo)  
 natrem - natrium  
 nau - vene (laiva)  
 nava - veneillä  
@@ -2476,10 +2477,8 @@ parke - tarha (puisto)
 parta - osallistua  
 partia - osapuoli (puolue)  
 parter - osallistuja  
-pas - menneisyys  
 pasa - mennä ohi tai läpi  
 pasi - ohitettu (mennyt)  
-paso - ennen (aikaisemmin, aiemmin)  
 pasdau - sola (läpikulku)  
 pasloge - tunnussana  
 pasporte - passi  
@@ -2613,9 +2612,10 @@ portugalfoni - portugalia puhuva
 pos - seuraus  
 posa - seurata (tulla perässä, tulla jäljessä)  
 posi - seuraava  
-poso - myöhemmin  
+poso - myöhemmin (tuleva)  
 posdeno - huominen  
 posfikse - loppuliite (jälkiliite)  
+pososate - tulevaisuus  
 pospoza - siirtää taakse  
 postri - myöhempi (takainen)  
 pospor - fosfor  
@@ -2829,6 +2829,8 @@ saider - pyytäjä (metsästäjä, kalastaja)
 sake - pussi (säkki, kassi, laukku)  
 sali - terve  
 salia - terveys  
+salsafi - hygieeninen  
+salsafia - hygienia (puhtaus)  
 salade - salaatti  
 salam (salami) - hyvä (tervehdyksissä)  
 salam cute - hyvää matkaa  
@@ -3025,9 +3027,9 @@ suisekuri - vesitiivis
 Suisia - Sveitsi  
 suja - ehdottaa  
 suje - ehdotus  
-suka - ilostuttaa  
-suki - iloinen (tyytyväinen)  
-suku - pitää (tykätä)  
+suka - ilostuttaa (tyydyttää)  
+suki - tyytyväinen (iloinen)  
+suku - pitää (tykätä, olla tyytyväinen jstkn)  
 sukar - sokeri  
 sukari - sokerinen (makea)  
 sulfe - rikki  
@@ -3252,8 +3254,6 @@ vieti - vietnamilainen
 Vietia - Vietnam  
 vijin - natriumglutamaatti  
 vike - wikikirjoitus  
-vil - tulevaisuus  
-vilo - tuleva  
 vildi - villi (kesytön)  
 viman - lentokone  
 vimankaper - lentokonekaappari  
@@ -3402,16 +3402,15 @@ xuxa - hiljentää
 xuxi - hiljainen  
 xuxo - hiljaa (hys, shhh)  
 ####Z - Z  
-zai - tämä hetki (nyt)  
 zayi - kuluva (tämänhetkinen)  
 zayia - läsnäolo  
 zayu - olla olemassa  
 zaideno - tänään  
+zaisate - tämä hetki (nyt)  
 zaitun - oliivi  
 zalimi - ilkeä (julma)  
 zalimi rajer - tyranni  
 zalimia - tyrannia  
-zaman - aikakausi  
 Zambia - Sambia  
 zar - sattuma (onni)  
 zari - sattumanvarainen  

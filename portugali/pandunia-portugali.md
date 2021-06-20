@@ -192,7 +192,6 @@ cari - quatro (4)
 caryom - quinta-feira  
 carme - charme  
 celolojia - citologia  
-cenamen - destino  
 cendeno - ontem  
 ceniki - velho (antigo)  
 centaur - centáurea  
@@ -255,9 +254,10 @@ duli - dois (2)
 dulbaxi - bilíngue  
 dulyom - terça-feira  
 dunia - mundo  
-dur - tempo (duração)  
-duru - durar  
-duriki - crónico  
+dur - duração  
+dura - durar  
+duru - transcorrer  
+duri - crónico  
 durmetrer - cronómetro  
 dusforma - desfigurar  
 dusjan - inimigo  
@@ -418,7 +418,6 @@ hema - considerar
 Hesia - Hesse (Héssia)  
 hiyar - pepino  
 hijabe - véu  
-hijenia - higiene  
 him - neve  
 Hinde riu - Indo  
 hisaba - calcular  
@@ -779,6 +778,7 @@ namkitaba - assinar
 narde - gamão  
 nasia - nação  
 nasmedi - internacional  
+nasibe - destino  
 nau - barco (navio)  
 naulefte - bombordo  
 nautil - nautiloide  
@@ -962,6 +962,7 @@ saida - caçar
 sake - saco  
 sali - saudável (saudio)  
 salia - saúde  
+salsafia - higiene  
 salame - saudação  
 salamia - bem-estar  
 salte - sal  

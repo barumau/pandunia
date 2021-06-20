@@ -86,7 +86,7 @@ ankaŭ - maxo
 ankoraŭ - zoko  
 ankro - angar  
 ansero - ganse  
-antaŭe (pasinte) - paso  
+antaŭe (pasinte) - ceno  
 antaŭiri - cena  
 anteno - anten  
 anusa - anusi  
@@ -283,8 +283,8 @@ danĝero - hatre
 dato - nenmesyom  
 datumbanko - datobanke  
 datumo - date  
-daŭri (dum) - duru  
-daŭrigi - dura  
+daŭri (dum) - dura  
+daŭrigi - durita  
 daŭro - dur  
 de (el, pro) - la  
 de (partiklo de posedo) - da  
@@ -403,8 +403,8 @@ esperi - inxala
 esti - sa  
 esti pri; pridiskuti - tema  
 Estonio - Estia  
-estonoteco - vil  
-estonte - vilo  
+estonoteco - pososate  
+estonte - poso  
 estro (ĉefulo) - xef  
 etimologio - logaslia  
 Etiopio - Etiopia  
@@ -1175,7 +1175,7 @@ noveco - nevia
 novnaskita - neujeni  
 novulo - nevike  
 nudelo - mien  
-nuno - zai  
+nuno - zaisate  
 ####O - O  
 oazo - vas  
 obrelo - barxocate  
@@ -1250,7 +1250,7 @@ parto (frakcio) - fen
 partopreni - parta  
 pasi - pasa  
 pasinta - pasi  
-pasinteco - pas  
+pasinteco - censate  
 pasporto - pasporte  
 pastro - dinguru\*  
 pato - tau  
