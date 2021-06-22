@@ -12,7 +12,7 @@ Afgania - Afeganistão
 aga - se  
 agra - cultivar  
 agri - agrícola  
-agrobiulojia - agrobiologia  
+agrobiyolojia - agrobiologia  
 agronomia - agronomia  
 agres - ataque  
 agreser - agressor  
@@ -26,7 +26,7 @@ aishoke - hóquei no gelo
 aiskrem - sorvete (gelado)  
 ajabe - maravilha  
 ajili - ágil  
-akar - carrapato (ácaros)  
+akare - carrapato (ácaros)  
 aksente - acento  
 akses - acesso  
 ala - alterar  
@@ -34,11 +34,11 @@ ali - outro
 alraya - discordar  
 alge - alga  
 algojangle - floresta de algas  
-alkal - base (álcali)  
+alkale - base (álcali)  
 alkali - alcalino  
-alkalgusti - amargo  
+alkalogusti - amargo  
 alkol - álcool  
-almar - armário  
+almare - armário  
 almas - diamante  
 am - amor  
 ami - querido (caro)  
@@ -58,15 +58,15 @@ anjil - mensagem
 aple - maçã  
 aplosaus - purê de maçã  
 aplika - usar  
-aran - aranha  
+arane - aranha  
 arbuze - melancia  
 argente - prata  
 argum - argumento  
 arke - arco  
 arme - arma  
-arom - cheiro  
+arome - cheiro  
 aromu - cheirar  
-arommelon - melão coreano  
+aromomelon - melão coreano  
 arte - arte  
 artiste - artista  
 asar - efeito  
@@ -89,7 +89,7 @@ Atina - Atenas
 atlantokade - bacalhau-do-atlântico  
 avar - dano (avaria)  
 aven - aveia  
-aur - ouro  
+aure - ouro  
 Austronesia - Austronésia  
 autologe - monólogo  
 ####B - B  
@@ -134,7 +134,7 @@ batonkapse - gaiola (jaula)
 batre - pilha (bateria)  
 bavi - precioso  
 bauxeke - pedra preciosa (gema)  
-bax - língua (idioma)  
+baxe - língua (idioma)  
 baxi jinse - gênero gramatical  
 baze - base  
 bazobol - basebol (beisebol)  
@@ -146,7 +146,7 @@ beker - padeiro
 bekofan - terracota  
 bel - pá  
 ben - filho ou filha  
-ber - baga  
+bere - baga  
 berande - sacada (varanda)  
 berje - bétula  
 bilor - cristal  
@@ -154,11 +154,11 @@ bina - construir
 binplania - arquitetura  
 binplaner - arquiteto  
 bir - cerveja  
-biu - organismo  
-biulojia - biología  
-biumutu - fermentar  
-biusistem - bioma  
-biutokse - toxina  
+biye - organismo  
+biyolojia - biología  
+biyomutu - fermentar  
+biyosistem - bioma  
+biyotokse - toxina  
 bode - corpo  
 boyu - nadar (flutuar)  
 bokse - boxe  
@@ -192,14 +192,13 @@ cari - quatro (4)
 caryom - quinta-feira  
 carme - charme  
 celolojia - citologia  
-cenamen - destino  
 cendeno - ontem  
 ceniki - velho (antigo)  
-centaur - centáurea  
+centaure - centáurea  
 cerize - cereja  
 ceti - sete (7)  
 cetyom - domingo  
-cili\* - cápsico  
+cile - cápsico  
 cinbrusben - primo  
 cinmai - avó  
 cinpai - avô  
@@ -255,9 +254,10 @@ duli - dois (2)
 dulbaxi - bilíngue  
 dulyom - terça-feira  
 dunia - mundo  
-dur - tempo (duração)  
-duru - durar  
-duriki - crónico  
+dur - duração  
+dura - durar  
+duru - transcorrer  
+duri - crónico  
 durmetrer - cronómetro  
 dusforma - desfigurar  
 dusjan - inimigo  
@@ -266,7 +266,7 @@ dusvidi - feio
 dux - ducha  
 ####E - E  
 e - e  
-ekor - esquilo  
+ekore - esquilo  
 eletre - eletricidade  
 em - elemento  
 emoje - emoticon (emoji)  
@@ -361,11 +361,11 @@ gas - gás
 gati - duro  
 Germania - Germânia  
 geta - ter (achar, receber)  
-Gevia - Terra  
-geuforme - terreno  
-geugrafia - geografia  
-geumetria - geometria  
-geupolitike - geopolítica  
+Geyia - Terra  
+geyoforme - terreno  
+geyografia - geografia  
+geyometria - geometria  
+geyopolitike - geopolítica  
 gida - guiar  
 gider - guia  
 gitar - guitarra  
@@ -377,11 +377,11 @@ glutobende - penso (band-aid)
 glutofan - argila  
 glutograf - adesivo  
 gol - meta (gol)  
-goril - gorila  
+gorile - gorila  
 goton - algodão  
 grafsage - quadrinhos (banda desenhada)  
 granite - granito  
-grau - cascalho  
+grave - cascalho  
 grimas - careta (esgar)  
 grupe - grupo  
 gun - exército  
@@ -418,8 +418,7 @@ hema - considerar
 Hesia - Hesse (Héssia)  
 hiyar - pepino  
 hijabe - véu  
-hijenia - higiene  
-him - neve  
+hime - neve  
 Hinde riu - Indo  
 hisaba - calcular  
 hisabolojia - matemática  
@@ -512,9 +511,9 @@ ki jan - quem
 ki sate - quando  
 ko? - como  
 kaboge - abóbora (jerimun)  
-kafe\* - café  
-kafekan - café  
-kafepote - cafeteira  
+kafe - café  
+kafokan - café  
+kafopote - cafeteira  
 kaguje - papel  
 kagujolimon - lima  
 kali harfe - espaço  
@@ -554,9 +553,9 @@ karsi - áspero
 karsolimon - combava  
 kaske - casca (concha)  
 katoglutoban - área de transferência  
-katan - espada  
+katane - espada  
 katus - cacto  
-kau - buraco  
+kave - buraco  
 kava - cavar (escavar)  
 kenarbaryer - cerca  
 kerne - núcleo (cerne)  
@@ -593,7 +592,7 @@ kornomelon - pepino-africano (kiwano)
 kortokrokodil - aligátor (jacaré)  
 kosmi - cósmico  
 kosmia - cosmo  
-kosmobiulojia - astrobiologia  
+kosmobiyolojia - astrobiologia  
 kosmonau - nave espacial  
 kosmonaver - cosmonauta  
 krake - rachadura  
@@ -623,7 +622,7 @@ laloranje - tangerina (mandarim)
 lalsalmon - salmão-vermelho  
 lama\* - lama  
 lampe - lâmpada (luminária)  
-lan - maldição  
+lane - maldição  
 lancite - projétil  
 lancograf - projeção  
 lasun - alho  
@@ -641,9 +640,9 @@ lengomosimi - invernal (hibernal)
 lense - lente  
 lenti - lento  
 letis - alface  
-liama\* - lhama  
+liame - lhama  
 liboban - prateleira (estante)  
-libel - libélula  
+libele - libélula  
 lider - líder (chefe)  
 lifafa - embalar  
 lili - pequeno  
@@ -676,9 +675,9 @@ longokrokodil - crocodilo
 lontre - lontra  
 lova - vazar  
 lugi - verde  
-lun - lua  
 lun - mês  
-lunkeke - bolo lunar  
+lune - lua  
+lunokeke - bolo lunar  
 luter - ladrão  
 ####M - M  
 me - eu (me)  
@@ -708,7 +707,7 @@ martinluteristia - luteranismo
 mas - massa  
 masmul - tubérculo  
 masmulsolful - alcachofra-girassol (tupinambo)  
-masal - tempero  
+masale - tempero  
 maske - máscara  
 maste - mastro  
 mate - matéria  
@@ -742,7 +741,7 @@ mezotex - toalha de mesa
 migre - migração  
 migru - mudar-se  
 mikrobiu - micróbio  
-mikrobiulojia - microbiologia  
+mikrobiyolojia - microbiologia  
 mikroskope - microscópio  
 milke - leite  
 milkokardon - cardo-mariano  
@@ -779,9 +778,10 @@ namkitaba - assinar
 narde - gamão  
 nasia - nação  
 nasmedi - internacional  
+nasibe - destino  
 nau - barco (navio)  
 naulefte - bombordo  
-nautil - nautiloide  
+nautile - nautiloide  
 nefre - rim  
 nefte - aeite (óleo)  
 Neputun - Netuno  
@@ -791,8 +791,8 @@ nevia - novidade
 nevike - novato (neófito)  
 neujeni - recém-nascido  
 neuloge - neologismo  
-neurcel - neurônio  
-neurtokse - neurotoxina  
+neurocel - neurônio  
+neurotokse - neurotoxina  
 nide - ninho (vespiero)  
 nili - azur  
 nilcentaur - escovinha (centáurea)  
@@ -867,8 +867,8 @@ peikari jiu - carreira
 pelpel - borboleta  
 pente - pintura  
 perkardon - cardo-roxo  
-pes - dinheiro  
-pesdiske - moeda  
+pese - dinheiro  
+pesodiske - moeda  
 petre - rocha (pedra)  
 petronefte - petróleo  
 pex - peixe  
@@ -885,13 +885,13 @@ pipre - pimenta
 piprominte - hortelã-pimenta  
 piram - pirâmida  
 piratia - pirataria  
-pis - pícea (espruce)  
+pise - pícea (espruce)  
 plan - plano  
 plasta - moldar (modelar)  
 plasti - plástico  
 plastopaste - massa de modelar (massinha)  
-plati geukaskia - tectónica de placas  
-platogeviste - terraplanista  
+plati geyokaskia - tectónica de placas  
+platogeyiste - terraplanista  
 plum - ameixa  
 polbaxi - multilíngue (plurilíngue)  
 Polnesia - Polinésia  
@@ -958,10 +958,12 @@ sa - ser (estar)
 se - se  
 ses - um ao outro  
 sahi - correto (justo)  
+saya - sombrear  
 saida - caçar  
 sake - saco  
 sali - saudável (saudio)  
 salia - saúde  
+salsafia - higiene  
 salame - saudação  
 salamia - bem-estar  
 salte - sal  
@@ -978,21 +980,24 @@ sanduice - sanduíche
 sang - sangue  
 Santi Paulo - São Paulo  
 sar - cabeça  
+sate - momento (instante)  
+sati - momentâneo  
 Saturne - Saturno  
 sava - saber (conhecer)  
+savovolani - inquisitivo  
 seksolojia - sexologia  
 sekuri - seguro  
 sel - conselho  
 sela - aconselhar  
-sem - semente  
+seme - semente  
 semi - seminal  
 sen - idade  
 seni - idoso (sene)  
 senater - senador  
 sense - sentido  
 senter - tentáculo  
-ser - serra  
-seram - cerâmico  
+sere - serra  
+serame - cerâmico  
 siborgem - seabórgio  
 sifloge - adjetivo  
 siyahi - preto  
@@ -1076,7 +1081,7 @@ tuze - coelho (lebre)
 vade - vale (uadi)  
 vadosusan - lírio-do-vale  
 vaf - cão (cachorro)  
-vagin - vagina  
+vagine - vagina  
 vaginitis - vaginite  
 val - valor (valia)  
 vala - valorar  
@@ -1084,7 +1089,7 @@ valu - valer
 vampir - vampiro  
 varkalge - kelp  
 varkolate - página  
-vas - oasis  
+vase - oasis  
 vaxurse - guaxinim (rato-lavadeiro)  
 venda - vender  
 vendoxopa - торговать  
@@ -1159,6 +1164,8 @@ xulkan - escola (colégio)
 xulxef - diretor  
 xur - começo (início, princípio)  
 ####Z - Z  
+zaizami - actuel (courant)  
+zam - tempo  
 zarkube - dado  
 zebre - zebra  
 zeyil - verruga  

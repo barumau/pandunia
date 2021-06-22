@@ -12,6 +12,7 @@ aconselhar - sela
 acordado - jagi  
 acordo (tratado, contrato) - trete  
 acordo - samrayia  
+actuel (courant) - zaizami  
 adesivo - glutograf  
 adjetivo - sifloge  
 administrador - politer  
@@ -24,7 +25,7 @@ afegão - afgani
 agacharse - insida  
 agente - ater  
 agressor - agreser  
-agrobiologia - agrobiulojia  
+agrobiologia - agrobiyolojia  
 agronomia - agronomia  
 agrícola - agri  
 ai! - ai  
@@ -48,7 +49,7 @@ alterar - ala
 alô - halou  
 amador - amater  
 amante - amer  
-amargo - alkalgusti  
+amargo - alkalogusti  
 ameixa - plum  
 amor - am  
 amêndoa - badam  
@@ -66,7 +67,7 @@ aprender - xula
 apropriado (apto) - hapi  
 ar - air  
 arame - metallin  
-aranha - aran  
+aranha - arane  
 arbusto (mata) - tali moke  
 arco - arke  
 argila - glutofan  
@@ -75,7 +76,7 @@ arma - arme
 arma de fogo - pau  
 armadilha - kapotruke  
 armadura - defkaske  
-armário - almar  
+armário - almare  
 arquiteto - binplaner  
 arquitetura - binplania  
 arrastar - trata  
@@ -88,7 +89,7 @@ assinar - namkitaba
 assustador - fobani  
 assustar - foba  
 astro (corpo celeste) - astre  
-astrobiologia - kosmobiulojia  
+astrobiologia - kosmobiyolojia  
 astronauta - astronaver  
 astronave - astronau  
 astronomia - astronomia  
@@ -112,7 +113,7 @@ açúcar - sukar
 ####B - B  
 bacalhau-do-atlântico - atlantokade  
 bacia - basen  
-baga - ber  
+baga - bere  
 bagagem - bagaje  
 baile (danza) - danse  
 bambu - banse  
@@ -126,7 +127,7 @@ barco (navio) - nau
 barra de chocolate - coklatobaton  
 barrar - barya  
 barreira - baryer  
-base (álcali) - alkal  
+base (álcali) - alkale  
 base - baze  
 basebol (beisebol) - bazobol  
 basketball - baskobol  
@@ -141,10 +142,10 @@ biblioteca - kitabokan
 bigorna - metalbede  
 bilhete - tikete  
 bilíngue - dulbaxi  
-biología - biulojia  
-bioma - biusistem  
+biología - biyolojia  
+bioma - biyosistem  
 bola - bol  
-bolo lunar - lunkeke  
+bolo lunar - lunokeke  
 bom - boni  
 bomba - bombe  
 bombordo - naulefte  
@@ -160,15 +161,15 @@ bravo! - bravo
 braço - handoxake  
 Buda - Bude  
 bule - caipote  
-buraco - kau  
+buraco - kave  
 buscar (procurar) - soka  
 bétula - berje  
 ####C - C  
 cabeça - sar  
 cacto - katus  
-cafeteira - kafepote  
-café - kafekan  
-café - kafe\*  
+cafeteira - kafopote  
+café - kafe  
+café - kafokan  
 cal - kalsomate  
 calcita - kalsite  
 calcular - hisaba  
@@ -195,7 +196,7 @@ carga (peso) - bare
 Caribe - Karaibia  
 carimbo - postomarke  
 carne - manse  
-carrapato (ácaros) - akar  
+carrapato (ácaros) - akare  
 carregar - bara  
 carreira - peikari jiu  
 carta - karde  
@@ -205,7 +206,7 @@ Cartum - Hartum
 carvalho - balute  
 carvalho-roble - europobalute  
 casca (concha) - kaske  
-cascalho - grau  
+cascalho - grave  
 castanho (marrom) - bruni  
 cavar (escavar) - kava  
 caçar - saida  
@@ -214,12 +215,12 @@ cem (100) - xoti
 cemitério - gabristan  
 cenoura - karote  
 centro - jung  
-centáurea - centaur  
+centáurea - centaure  
 cerca - kenarbaryer  
 cereja - cerize  
 cerveja - bir  
 cerâmica - poteria  
-cerâmico - seram  
+cerâmico - serame  
 cevada - jau  
 Champagne - Xampan  
 champaña - Xampan vin  
@@ -229,7 +230,7 @@ chavena (tigela de chá) - caikupe
 chefe - xef  
 cheio - puri  
 cheirar - aromu  
-cheiro - arom  
+cheiro - arome  
 China - Junguo  
 chocolate - coklate  
 chuva - barxe  
@@ -294,11 +295,11 @@ cromo - jamkarde
 cronómetro - durmetrer  
 cruz - krus  
 crème - krem  
-crónico - duriki  
+crónico - duri  
 cubo - kube  
 cultivar - agra  
 cume (pico, topo) - xanpike  
-cápsico - cili\*  
+cápsico - cile  
 cão (cachorro) - vaf  
 céu - ten  
 cópia - kope  
@@ -320,7 +321,7 @@ desenvolvimento - darjomute
 desfigurar - dusforma  
 deslizar - glisu  
 despertar - jagu  
-destino - cenamen  
+destino - nasibe  
 deus - deu  
 devanágari - deunagri harfe  
 dever - debu  
@@ -328,7 +329,7 @@ dia - den
 diamante - almas  
 digital - feni  
 dinamite - dinamite  
-dinheiro - pes  
+dinheiro - pese  
 diorito - diorite  
 direito - hake  
 direitos humanos - insani hake  
@@ -343,7 +344,8 @@ domingo - cetyom
 doméstico - domi  
 dormir - somu  
 ducha - dux  
-durar - duru  
+durar - dura  
+duração - dur  
 duro - gati  
 ####E - E  
 e - e  
@@ -390,7 +392,7 @@ escultor - eskulter
 esfarrapado - circiri  
 eslavo - slavi  
 esmeralda - zumurude  
-espada - katan  
+espada - katane  
 espaço - kali harfe  
 espetador - speter  
 espirrar - acua  
@@ -401,7 +403,7 @@ esposo ou esposa - gam
 esquecer - anmema  
 esqueleto - ostojamia  
 esquerdo - lefte  
-esquilo - ekor  
+esquilo - ekore  
 estado - hal  
 estanho - estan  
 estar deitado (jazer) - kuxu  
@@ -444,7 +446,7 @@ fechadura - sor
 feio - dusvidi  
 feliz - suki  
 feno - gancau  
-fermentar - biumutu  
+fermentar - biyomutu  
 fibra - linem  
 filho ou filha - ben  
 filosofia - filsofia  
@@ -485,14 +487,14 @@ generalíssimo - gunrajer
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
 genótipo - jentipe  
-geografia - geugrafia  
-geometria - geumetria  
-geopolítica - geupolitike  
+geografia - geyografia  
+geometria - geyometria  
+geopolítica - geyopolitike  
 Germânia - Germania  
 girafa - jiraf  
 girassol - solful  
 golfinho (delfim) - dolfin  
-gorila - goril  
+gorila - gorile  
 governo - polite  
 granito - granite  
 graças a - danko da  
@@ -510,7 +512,7 @@ gênero gramatical - baxi jinse
 ####H - H  
 haste (talo, caule) - tan  
 Hesse (Héssia) - Hesia  
-higiene - hijenia  
+higiene - salsafia  
 hmm - hem  
 honra - onor  
 honrar - onora  
@@ -549,6 +551,7 @@ infecção (contágio) - patomis
 infiel - andiniste  
 inflamaçao - itis  
 inimigo - dusjan  
+inquisitivo - savovolani  
 inseto - koncung  
 insônia - ansomia  
 internacional - nasmedi  
@@ -596,8 +599,8 @@ lente - lense
 lento - lenti  
 ler - duga  
 Letónia - Latvia  
-lhama - liama\*  
-libélula - libel  
+lhama - liame  
+libélula - libele  
 lima - kagujolimon  
 limão - limon  
 lince - lince  
@@ -611,7 +614,7 @@ lição - xul
 local - loki  
 longo - longi  
 lontra - lontre  
-lua - lun  
+lua - lune  
 lugar (local) - loke  
 lula (calamar) - kalmar  
 luta - jihade  
@@ -624,7 +627,7 @@ lápis-lazúli - lazurpetre
 lâmpada (luminária) - lampe  
 léxico - logi  
 líder (chefe) - lider  
-língua (idioma) - bax  
+língua (idioma) - baxe  
 língua - lisan  
 língua materna - jeni bax  
 lírio - susan  
@@ -634,7 +637,7 @@ macroalga - hayalge
 madrasta - vismai  
 magnésio - magesem  
 mais - max (maxo)  
-maldição - lan  
+maldição - lane  
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
 mancha (marca) - marke  
@@ -666,7 +669,7 @@ mel - mel
 melancia - arbuze  
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
-melão coreano - arommelon  
+melão coreano - aromomelon  
 memória - mem  
 meninge - mening  
 mensagem - anjil  
@@ -678,7 +681,7 @@ mesa - meze
 mestre - mester  
 meta (gol) - gol  
 metro - mitre  
-microbiologia - mikrobiulojia  
+microbiologia - mikrobiyolojia  
 microscópio - mikroskope  
 micróbio - mikrobiu  
 migração - migre  
@@ -686,7 +689,7 @@ mina - kuangia
 mirar (apontar) - dika  
 modelar - forma  
 modo (maneira, jeito) - mode  
-moeda - pesdiske  
+moeda - pesodiske  
 moenda (moinho) - molia  
 moer - mola  
 mol - mol  
@@ -696,6 +699,8 @@ molestar (perturber) - turba
 molhado - xipi  
 molhar - xipa  
 molho de soja - soisaus  
+momento (instante) - sate  
+momentâneo - sati  
 monção - barxomosim  
 monóculo - unoki lense  
 monólogo - autologe  
@@ -721,7 +726,7 @@ mó - molxeke
 música - muzike  
 ####N - N  
 nadar (flutuar) - boyu  
-nautiloide - nautil  
+nautiloide - nautile  
 nave espacial - kosmonau  
 nação - nasia  
 necessidade - yau  
@@ -730,9 +735,9 @@ necessitar - yavu
 necessário - yavan  
 neologismo - neuloge  
 Netuno - Neputun  
-neurotoxina - neurtokse  
-neurônio - neurcel  
-neve - him  
+neurotoxina - neurotokse  
+neurônio - neurocel  
+neve - hime  
 nicho - nix  
 ninho (vespiero) - nide  
 nivel - par  
@@ -755,7 +760,7 @@ núcleo (cerne) - kerne
 número - numbe  
 ####O - O  
 o que - ke  
-oasis - vas  
+oasis - vase  
 objetivo - dike  
 oblíquo (torto) - terci  
 obsidiana - osidian  
@@ -775,7 +780,7 @@ opção - cuzable
 ordem - ratibe  
 orelha - or  
 orfanato - yatimdom  
-organismo - biu  
+organismo - biye  
 organizar - noma  
 origem - asle  
 original - asli  
@@ -783,7 +788,7 @@ orquídea - orkide
 ortogonal - ortogoni  
 otite - oritis  
 ou - o  
-ouro - aur  
+ouro - aure  
 outono - padomosim  
 outro - ali  
 ####P - P  
@@ -900,7 +905,7 @@ pá - bel
 página - varkolate  
 pântano - fantopia  
 pão - pang  
-pícea (espruce) - pis  
+pícea (espruce) - pise  
 quadrinhos (banda desenhada) - grafsage  
 quando - ki sate  
 quarta-feira - sanyom  
@@ -1000,14 +1005,14 @@ seio (mama) - mam
 seis (6) - sisi  
 selva (floresta, jângal) - jangle  
 sem - na  
-semente - sem  
+semente - seme  
 seminal - semi  
 senador - senater  
 sentido - sense  
 sepultura (túmulo) - gabre  
 ser (estar) - sa  
 ser humano - insan  
-serra - ser  
+serra - sere  
 sete (7) - ceti  
 sexo - jinse  
 sexologia - seksolojia  
@@ -1025,6 +1030,7 @@ soja - soi
 sol - sol  
 soldado - gunjan  
 som - son  
+sombrear - saya  
 sombrinha - solcate  
 sono - som  
 sonolento - somivi  
@@ -1042,14 +1048,14 @@ tablet - tablokomputer
 tangerina (mandarim) - laloranje  
 taxímetro - taksometrer  
 tear - texmaxin  
-tectónica de placas - plati geukaskia  
+tectónica de placas - plati geyokaskia  
 telefonar - telfona  
 telefonia - telfonia  
 telescópio - teloskope  
 temer - fobu  
-tempero - masal  
+tempero - masale  
 templo - pujokan  
-tempo (duração) - dur  
+tempo - zam  
 tender - iva  
 tendência - ivia  
 tenso - tensi  
@@ -1058,11 +1064,11 @@ tentáculo - senter
 teosofia - deusofia  
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
-Terra - Gevia  
+Terra - Geyia  
 terra natal - jenistan  
 terracota - bekofan  
-terraplanista - platogeviste  
-terreno - geuforme  
+terraplanista - platogeyiste  
+terreno - geyoforme  
 terça-feira - dulyom  
 teste - teste  
 tigre - bagre  
@@ -1076,12 +1082,13 @@ toranja - putavoranje
 torta - pai  
 toupeira - krote  
 toxicologia - toksolojia  
-toxina - biutokse  
+toxina - biyotokse  
 trabalhador - karer  
 trabalhar - kara  
 trabalho - kar  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - xanti  
+transcorrer - duru  
 trator - trater  
 trazer - layana  
 trigo - ganum  
@@ -1107,7 +1114,7 @@ Urano - Uran
 urra - ura  
 urso - urse  
 usar - aplika  
-vagina - vagin  
+vagina - vagine  
 vaginite - vaginitis  
 vale (uadi) - vade  
 valer - valu  
