@@ -442,21 +442,21 @@ The normal sentence word order is subject-verb-object – just like in
 English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me ama te, te ama me.
+    Pandunia:  mo ai ni, ni ai mo.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **beyu** is used when the object of an action comes first in
 the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  aple beyu yama.
+    Pandunia:  aple be yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **beyu** is a loan word from Standard Chinese, but it is also close to
 some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  le no abla beyu yama.
+    Pandunia:  ta no kan be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".

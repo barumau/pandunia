@@ -7,7 +7,7 @@ They may consist of only one word, which draws the listener's attention.
 
 **mau!**
 – A cat!  
-**barxa!**
+**xava!**
 – (It) rains!
 
 ## Stative Sentences
@@ -15,57 +15,55 @@ They may consist of only one word, which draws the listener's attention.
 ### With noun or pronoun subject
 
 Normally a sentence consists of a subject and a predicate.
-In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective or a noun.
+In the simplest sentences, the subject is a pronoun and the predicate is an adjective or a noun.
 
-**me boni.**
+**me bon.**
 – I am good.  
-**le novi.**
+**le nove.**
 – It is new.  
 **le Sara.**
-– She is Sara.  
-**Sara boni.**
+– She is Sara.
+
+When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
+
+
+**Sara si bon.**
 – Sara is good.  
-**petre dayi.**
-– The stone is big.  
-**meze novi.**
-– The table is new.  
+**petre si dai.**
+– Stones are big.  
+**meza si nove.**
+– The table is new.
 
 The word **no** is added to form the negative.
+Then the verb **si** is not needed.
 
-**me no boni.**
-– I'm not good.  
-**le no novi.**
-– It's not new.  
-**le no Sara.**
-– She is not Sara.
+| Positive         | Negative           |
+|------------------|--------------------|
+| **me bon.**      | **me no bon.**     |
+| I am good.       | I am not good.     |
+| **le nove.**     | **le no nove.**    |
+| It is new.       | It is not new.     |
+| **le Sara.**     | **le no Sara.**    |
+| She is Sarah.    | She is not Sarah.  |
+| **Sara si bon.** | **Sara no bon.**   |
+| Sarah is good.   | Sarah is not good. |
 
-It is possible to add the word **sa** (to be) before the predicate in positive sentences,
-for style or for convenience.
-Then the structure is similar like in negative sentences.
-
-**Sara sa boni.**
-– Sara is good.  
-**petre sa dayi.**
-– The stone is big.  
-**meze sa novi.**
-– The table is new.  
-**meze no purani.**
-– The table is not old.
 
 Also two personal pronouns can be combined with **si** and **no**.
 
-**me sa le.**
+**me si le.**
 – I am he/she.  
-**me no sa te.**
+**me no tu.**
 – I'm not you.
+
 
 ### With adjective subject
 
 The same rule applies also for two adjectives.
 
-**jovani sa sundari.**
+**jovan si sundar.**
 – Young is beautiful.  
-**novi no sa purani.**
+**nove no puran.**
 – New is not old.  
 
 ### With verb subject
@@ -73,8 +71,8 @@ The same rule applies also for two adjectives.
 A verb can't be subject as such.
 So the verb is first, use **de** to start a comment about the verb.
 
-**canta, de sa boni.**
-– Singing, that is good. (Singing is good.)
+**cante si bon.**
+– Singing is good. (Singing is good.)
 
 
 ## Active Sentences
@@ -83,14 +81,11 @@ An active sentence is a sentence where the subject does the action denoted by th
 The focus is on the subject as the active participant.
 The correct word order is subject-verb-object (SVO).
 
-In Pandunia, active verbs are easy to identify because all of them end in **-a**.
-
-
 The following sentences are in SVO order.
 
-**me yama aple.**
-– I eat apples.  
-**me vida te.**
+**me yam di apel.**
+– I eat some apples.  
+**me vide tu.**
 – I see you.
 
 
@@ -101,30 +96,22 @@ that is a passive recipient that undergoes the action.
 So the recipient is the subject of the sentence.
 Often the agent is not mentioned at all.
 
-In Pandunia, the passive voice is expressed with the verb ending in **-u**.
-The word order is subject–verb–(optional object) or, more precisely,
-recipient–verb–(optional agent).
+In Pandunia, the passive voice is expressed with the particle **be**.
 
-**te vidu.**
+**tu be vide.**
 – You are seen.  
-**musike audu.**
+**musike be audi.**
 – Music is heard.  
-**pang beku.**
+**pan be bake.**
 – Bread is baked.  
-**kope parcu.**
-– Cup breaks. (Cup gets broken.)
+**kope be parce.**
+– The cup is broken.
 
-The agent can be mentioned after the verb with or without the preposition **da**.
+The agent can be mentioned after the verb with or without the preposition **de**.
 
-**te vidu me.** - You are seen by me.  
-**te vidu da me.** - You are seen by me.
+**tu be vide de me.** - You are seen by me.  
+**me be vide de tu.** - I am seen by you.
 
-Sometimes a passive verb can be translated with an active verb in English.
-That is sometimes the case with **suku**, which means _to be pleased by_ (a passive verb) or _to like_ (an active verb).
-That is because the direction of pleasing is from the active doer to the passive recipient.
-
-**me suku musike.**
-– I am pleased by music. / I like music.
 
 
 ## Pivot structure
@@ -137,23 +124,23 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me vola te yama vejete.**
+**me vol tu yam di vege.**
 – I want you eat vegetables.
 
-In the example above, **me vola** has **te** as its object.
-At the same time, **te** functions as the subject of the following predicate, **yama vejete**.
-So **te** is the _pivot_ of the entire sentence.
+In the example above, **me vol** has **tu** as its object.
+At the same time, **tu** functions as the subject of the following predicate, **yam di vege**.
+So **tu** is the _pivot_ of the entire sentence.
 
 The first verb in a pivot structure is a modal verb,
 which indicates a modality such as advice, desire, permission or obligation.
 
-**me vola te yama vejete.**
+**me vol tu yam di vege.**
 – I want you to eat vegetables. (desire)  
-**me sela te yama vejete.**
-– I advice you to eat vegetables. (advice)  
-**me halala te yama vejete.**
+**me rai tu yam di vege.**
+– I think you to eat vegetables. (opinion)  
+**me las tu yam di vege.**
 – I allow you to eat vegetables. (permission)  
-**me musa te yama vejete.**
+**me mus tu yam vege.**
 – I compel you to eat vegetables. (obligation)  
 
 
@@ -166,7 +153,7 @@ and all of them are about the same subject.
    – I go home.  
 2. **me abla gova dom.**
    – I can go home.  
-3. **me vola abla gova dom.**
+3. **me vol abla gova dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -174,15 +161,15 @@ The last verb in the series is the main verb.
 The verbs before it are modal verbs,
 which that indicate a modality such as likelihood, ability, advice, permission, desire, or obligation.
 
-**te abla yama vejete.**
+**tu kan yam di vege.**
 – You can eat vegetables. (ability)  
-**te selu yama vejete.**
+**tu xude yam di vege.**
 – You had better eat vegetables. (advice)  
-**te halalu yama vejete.**
+**tu las yam di vege.**
 – You may eat vegetables. (permission)  
-**te vola yama vejete.**
+**tu vol yam di vege.**
 – You want to eat vegetables. (desire)  
-**te musu yama vejete.**
+**tu mus yam di vege.**
 – You must eat vegetables. (obligation)  
 
 ## Pronoun dropping
@@ -192,16 +179,16 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me suala te baxa pandunia.**
+**me suala tu baxa pandunia.**
 – I ask do you speak Pandunia.  
-**suala te baxa pandunia?**
-– Do you speak Pandunia.
+**suala tu baxa pandunia?**
+– Do you speak Pandunia?
 
 ### Short pivot structure (VVO)
 
-**me cinga te laya dom.**
+**me cing tu lai dom.**
 – I ask you to come home.  
-**cinga laya dom!**
+**cing lai dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -253,9 +240,9 @@ It's possible to use relative pronouns or the reduced relative clause structure.
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**_di_ jan, me vida _de_ kitaba buke, padu.**
+**_di_ jan, me vide _de_ kitaba buke, padu.**
 – The person, whom I see write the book, falls.  
-**jan, me vida kitaba buke, padu.**
+**jan, me vide kitaba buke, padu.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
@@ -332,18 +319,18 @@ The word **no** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-**me vida te.**
+**me vide tu.**
 – I see you.  
-**me no vida te.**
+**me no vide tu.**
 – I don't see you.  
-**me vida no te a lole.**
+**me vide no tu a lole.**
 – I see, not you, but them.
 
-**me cinga te safa kamar.**
+**me cing tu safa kamar.**
 – I ask you to clean the room.  
-**me no cinga te safa kamar.**
+**me no cing tu safa kamar.**
 – I do NOT ask you to clean the room.  
-**me cinga te no safa kamar.**
+**me cing tu no safa kamar.**
 – I ask you NOT to clean the room.
 
 Words
@@ -352,11 +339,11 @@ Words
 **no**
 (_no_) are used for answering questions.
 
-**suala te vida me?**
+**suala tu vide me?**
 – Do you see me?  
-**ye. (me yo vida te.)**
+**ye. (me yo vide tu.)**
 – Yes. (I indeed see you.)  
-**no. (me no vida te.)**
+**no. (me no vide tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -365,11 +352,11 @@ and
 **no**
 apply to the verb, not the whole question.
 
-**suala te no vida me?**
+**suala tu no vide me?**
 – Don't you see me?  
-**ye. (me vida te.)**
+**ye. (me vide tu.)**
 – Yes. (I see you.)  
-**no. (me no vida te.)**
+**no. (me no vide tu.)**
 – No. (I don't see you.)
 
 
