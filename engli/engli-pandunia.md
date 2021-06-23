@@ -91,7 +91,7 @@ align (go along) - parlinu
 alkaline - alkali  
 all - pan (pani)  
 alligator - kortokrokodil  
-allophone - alfon  
+allophone - alofon  
 allow (permit) - halala  
 almond - badam  
 alone (lonely, isolated, solitary, single) - unjani  
@@ -165,6 +165,7 @@ application - aplike
 apply (put to use for a purpose) - aplika  
 apprentice - karxuler  
 approach (get near) - karibu  
+approve - bonraya  
 apricot - barkoke  
 April - carlun  
 aqua (teal) - hainili  
@@ -939,7 +940,7 @@ decrement - mindarja
 dedicate (devote) - satodona  
 dedication (devotion) - satodonia  
 deed (fact) - fate  
-deem (think that) - raya  
+deem (opine, think that) - raya  
 deep - fasteli  
 defecate (shit) - kaka  
 defecate (shit) - xita  
@@ -974,8 +975,8 @@ diamond - almas
 dictionary (word list) - logoliste  
 die (dice) - zarkube  
 die - mortu  
-difference - alsifia  
-different - alsifi  
+difference - alosfia  
+different - alosifi  
 dig (excavate) - kava  
 dining room - yamkamar  
 dinner - suaryam  
@@ -984,8 +985,9 @@ diorite - diorite
 direction - dix  
 directly - dixo  
 dirty (soiled, polluted, defiled, tainted, unclean, impure) - najisi  
-disagree - alraya  
-disagreement (disconsent) - alrayia  
+disagree - aloraya  
+disagreement (disconsent) - alorayia  
+disapprove (frown upon) - dusraya  
 disc (disk) - diske  
 discrete (digital, quantized) - feni  
 discussion (debate, discourse) - lon  
@@ -1604,8 +1606,8 @@ hero - vir
 heroic - viri  
 hertz (Hz) - herze  
 Hesse - Hesia  
-heteroromantic - alromansi  
-heterosexual - alseksi  
+heteroromantic - aloromansi  
+heterosexual - aloseksi  
 hexagon - sisgon  
 hexahedron (cube) - sisfas  
 hide (conceal) - sira  
@@ -2512,6 +2514,7 @@ outside - extro
 outsider - exojan  
 outward (external) - extri  
 oven (furnace) - tanur  
+overestimate - maxraya  
 overpass - supre  
 own (possess, have) - mala  
 owner (proprietor) - malan  
@@ -3547,7 +3550,7 @@ thanks (thank you) - danke
 thanks to - danko da  
 that - ve  
 that - ve  
-that is (in other words, i.e., alias) - alnamo  
+that is (in other words, i.e., alias) - alonamo  
 the Grenadines - Grenadin nesia  
 theft - cor  
 their - lesi  
@@ -3711,6 +3714,7 @@ unambiguous - unmeni
 unbeliever (infidel) - andiniste  
 uncover (reveal) - andaka  
 under - nico  
+underestimate - minraya  
 undergo (passivizing verb) - beyu  
 underground (subterrainean) - geyonici  
 underside (underneath) - nice  

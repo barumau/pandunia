@@ -62,14 +62,14 @@ aksente - akcent, nacisk
 ala - zmienić (zmieniać)  
 ali - inny  
 alo - w innym wypadku (inaczej)  
-alfon - alofon  
-alnamo - innymi słowy  
-alraya - nie zgadzać się  
-alrayia - niezgoda  
-alromansi - heteroromantyczny  
-alseksi - heteroseksualny  
-alsifi - różny (inny)  
-alsifia - różnica  
+alofon - alofon  
+alonamo - innymi słowy  
+aloraya - nie zgadzać się  
+alorayia - niezgoda  
+aloromansi - heteroromantyczny  
+aloseksi - heteroseksualny  
+alosifi - różny (inny)  
+alosfia - różnica  
 Alaska - Alaska  
 alge - alga (wodorost)  
 algofung - porost  
@@ -131,8 +131,8 @@ angar - kotwica
 Angola - Angola  
 angul - palec  
 angulring - pierścień, pierścionek; obrączka  
-anime - animacja  
 anima - animować  
+anime - animacja  
 anjil - wiadomość  
 anjiler - posłaniec (wysłannik)  
 Antartike - Antarktyka  
@@ -164,8 +164,8 @@ arke - łuk
 arker - łucznik  
 arkeria - łucznictwo  
 arme - broń  
-arome - zapach (aromat, smród, odór)  
 aroma - wąchać  
+arome - zapach (aromat, smród, odór)  
 aromu - pachnieć  
 aromomelon - melon koreański  
 arsene - arsen  
@@ -294,8 +294,8 @@ batre - bateria
 bau - skarb; skrabiec  
 bavi - cenny  
 bauxeke - klejnot  
-baxe - język; komunikacja  
 baxa - mówić; komunikować  
+baxe - język; komunikacja  
 baxi jinse - rodzaj gramatyczny  
 baxokanun - gramatyka  
 baxokanuni - gramatyczny  
@@ -498,14 +498,14 @@ ceti - siedem (7)
 cetyom - niedziela  
 cetolun - październik  
 cile - papryka  
-cilofun - papryka  
 Cilia - Chile  
+cilofun - papryka  
 cimpanze - szympans  
 cin - rodzic (matka lub ojciec)  
+cini - han chiński  
 cinbrusben - kuzyn  
 cinmai - babcia (babka)  
 cinpai - dziadek (dziad)  
-cini - han chiński  
 cincile - szynszyla  
 cinga - prosić  
 cinga laya - zaprosić, zapraszać  
@@ -711,10 +711,10 @@ duni - globalny
 dunia - świat  
 dunia bax - język świata, język ogólnoświatowy  
 dur - trwanie  
-durita - minąć, mijać (czas)  
 dura - trwać, zająć czas; przez  
-durabli - trwały (wytrzymały, podtrzymywalny)  
 duri - chroniczny  
+durabli - trwały (wytrzymały, podtrzymywalny)  
+durita - minąć, mijać (czas)  
 durmetrer - stoper (sekundomierz)  
 durzam - czas (epoka, era)  
 dusi zar - zły los  
@@ -768,8 +768,8 @@ erbem - erb
 Eris - Eris (planeta karłowata)  
 Eritria - Erytrea  
 esei - esej  
-eskale - schody (drabina)  
 eskala - wspinać się (wspiąć się)  
+eskale - schody (drabina)  
 eskalotan - pnącz  
 Eskandia - Skandynawia  
 eskandem - skand  
@@ -1180,8 +1180,8 @@ hata - aż do
 hato - nawet  
 hatre - zagrożenie, niebezpieczeństwo  
 hatri - niebezpieczny  
-have - wiatr  
 hava - dmuchać  
+have - wiatr  
 Havai - Hawaje  
 Havai nesia - Hawaje (archipelag hawajski)  
 haxix - haszysz  
@@ -1583,8 +1583,8 @@ Katalunia - Katalonia
 katane - miecz  
 Katar - Katar  
 katus - kaktus  
-kave - dół, jama, wydobycie, wykop, wykopalisko  
 kava - wykopać, kopać, wydobyć, wydobywać, wykopywać  
+kave - dół, jama, wydobycie, wykop, wykopalisko  
 kavayi - uroczy, słodki  
 Kaukasia - Kaukazja  
 kax - pudełko, skrzynia  
@@ -1620,8 +1620,8 @@ kilomitre - kilometr
 kimi - chemiczny  
 kimlojia - chemia  
 kimono\* - kimono  
-kine - ruch  
 kina - ruszać, przenościć, zmieniać miejsce, inspirować  
+kine - ruch  
 kini - ruchowy, kinetyczny  
 kinograf - kino  
 kinografi - kinowy  
@@ -1809,8 +1809,8 @@ laloranje - mandarynka
 lalsalmon - nerka (łosoś czerwony)  
 lama\* - lama  
 lampe - lampa  
-lane - przekleństwo (cholera!)  
 lana - kląć (przeklinać)  
+lane - przekleństwo (cholera!)  
 lanca - rzucić, rzucać, miotać, cisnąć, ciskać  
 lanci - ciśnięty (rzucony, miecony)  
 lancite - pocisk  
@@ -2257,9 +2257,9 @@ namana - nazwać, nazywać, wezwać, wzywać
 namkitaba - podpis (autograf)  
 namloge - rzeczownik  
 Namibia - Namibia  
-nanas - ananans  
 nani - nano-  
 nanomitre - nanometr  
+nanas - ananans  
 narake - piekło  
 nas - ludzie (lud, ludność)  
 nasi - narodowy (ludowy)  
@@ -2488,8 +2488,8 @@ parlini - równoległy (podłużny)
 parlinu - iść wzdłuż (pójść wzdłuż)  
 parvezia - równowaga  
 Paraguai - Paragwaj  
-paraye - wyrzutek  
 paraya - gardzić (pogardzać)  
+paraye - wyrzutek  
 param - parametr (argument, wartość wejściowa)  
 parca - stłuc się (rozpaść się na kawałki)  
 parce - część (fragment, strzęp, kawałek, okruch)  
@@ -2936,8 +2936,8 @@ sati - chwilowy
 satodona - dedykować (poświęcać, poświęcić)  
 satodonia - dedykacja (poświęcenie)  
 Saturne - Saturn  
-save - wiedza  
 sava - wiedzieć  
+save - wiedza  
 savi - wiadomy, znany  
 savolojia - epistemologia  
 savovol - zainteresowanie, zaciekawienie; interesujący  
@@ -3230,8 +3230,8 @@ termometrer - termometr
 teror - terror  
 teroriste - terrorysta  
 teroristia - terroryzm  
-tese - argument, teza  
 tesa - dyskutoać, twierdzić  
+tese - argument, teza  
 tesle - tesla (T)  
 testa - spróbować, próbować  
 teste - test, wyzwanie, próba  

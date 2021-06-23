@@ -31,7 +31,7 @@ aksente - acento
 akses - acesso  
 ala - alterar  
 ali - outro  
-alraya - discordar  
+aloraya - discordar  
 alge - alga  
 algojangle - floresta de algas  
 alkale - base (álcali)  
@@ -256,8 +256,8 @@ dulyom - terça-feira
 dunia - mundo  
 dur - duração  
 dura - durar  
-duru - transcorrer  
 duri - crónico  
+duru - transcorrer  
 durmetrer - cronómetro  
 dusforma - desfigurar  
 dusjan - inimigo  
@@ -555,8 +555,8 @@ kaske - casca (concha)
 katoglutoban - área de transferência  
 katane - espada  
 katus - cacto  
-kave - buraco  
 kava - cavar (escavar)  
+kave - buraco  
 kenarbaryer - cerca  
 kerne - núcleo (cerne)  
 kim - substância  
@@ -713,6 +713,7 @@ maste - mastro
 mate - matéria  
 mau - gato  
 max (maxo) - mais  
+maxraya - superestimar (sobrestimar)  
 maxfila - preferir  
 maxfili - favorito (preferido)  
 maxfilistia - favoritismo  
@@ -747,6 +748,7 @@ milke - leite
 milkokardon - cardo-mariano  
 mima - imitar (mimetizar)  
 mimer - mímico  
+minraya - menosprezar (subestimar)  
 minte - hortelã  
 mirdi - fraco  
 misalo - por exemplo  
@@ -920,6 +922,7 @@ purfityamiste - vegetalista
 purxipa - ensopar (encharcar, marinar)  
 putavoranje - toranja  
 ####R - R  
+rai - opinião  
 rang - cor  
 rangarkosalmon - truta-arco-íris  
 rapidi - rápido  

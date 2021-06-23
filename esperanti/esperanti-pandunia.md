@@ -52,7 +52,7 @@ aliigi - muta
 alkaleca - alkali  
 alkohola - alkoli  
 alkoholo - alkol  
-alofono - alfon  
+alofono - alofon  
 alporti (venigi) - layana  
 alta - gavi  
 altaro - pujomeze  
@@ -984,7 +984,7 @@ malfermiĝi - kayu
 malfideleco - zine  
 malgranda - lili  
 Malio - Mali  
-malkonsenti - alraya  
+malkonsenti - aloraya  
 malkredulo - andiniste  
 malliberejo - prizonkan  
 malliberigi - prizona  
@@ -1457,7 +1457,7 @@ sama - sami
 samario - samarem  
 samlandano - samdexi  
 samopinii (interkonsenti) - samraya  
-samseksema - alseksi  
+samseksema - aloseksi  
 samseksema - geyi  
 samseksema - samseksi  
 sana - sali  
@@ -1638,7 +1638,7 @@ timiga - fobani
 timigi - foba  
 timo (fobio) - fobia  
 tio - ve  
-tio estas (alivorte) - alnamo  
+tio estas (alivorte) - alonamo  
 tiri - tira  
 titanio - titanem  
 tiu - ve  

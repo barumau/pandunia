@@ -150,7 +150,7 @@ altura (altitud) - gavia
 alumbre - aluminmate  
 aluminio - aluminem  
 aló - halou  
-alófono - alfon  
+alófono - alofon  
 alúmina - aluminokside  
 amado (cariño) - amike  
 amante (enamorado) - amer  
@@ -1008,7 +1008,7 @@ derechos de autor (copyright) - kopohake
 derechos humanos - insani hake  
 derretirse - yongu  
 derrota (fracaso) - xibai  
-desacuerdo - alrayia  
+desacuerdo - alorayia  
 desarrollo - darjomute  
 desatascar - antapa  
 desayuno - subyam  
@@ -1039,9 +1039,9 @@ dibujo (diseño) - desen
 diente - dante  
 dientes de león (panaderos) - makanful  
 diez (10) - desi  
-diferencia - alsifia  
+diferencia - alosfia  
 diferenciar (distinguir) - hasa  
-diferente - alsifi  
+diferente - alosifi  
 dificultad (apuro, privación) - dushal  
 Dinamarca - Dania  
 dinamita - dinamite  
@@ -1057,7 +1057,7 @@ dirigir (mandar, conducir, capitanear) - lida
 disco - diske  
 discreto (digital) - feni  
 discusión (debate, discurso) - lon  
-disentir (no estar de acuerdo) - alraya  
+disentir (no estar de acuerdo) - aloraya  
 disfrutar (jugar) - vanu  
 disionario (lexicón) - logoliste  
 disparar - pava  
@@ -1223,7 +1223,7 @@ Eritrea - Eritria
 errar (cometer un error) - galta  
 error - galte  
 erróneo - galti  
-es decir (en otras palabras) - alnamo  
+es decir (en otras palabras) - alonamo  
 escalar - eskala  
 escalera - eskale  
 escama - xalke  
@@ -1616,8 +1616,8 @@ hervidor (tetera) - ketle
 hervir (cocer) - bula  
 hervirse (ser cocida) - bulu  
 Hesse (Hessia) - Hesia  
-heterorromántico - alromansi  
-heterosexual - alseksi  
+heterorromántico - aloromansi  
+heterosexual - aloseksi  
 hexaedro (cubo) - sisfas  
 hexágono - sisgon  
 hidrógeno - hidre  
@@ -1855,7 +1855,7 @@ justicia - adalia
 justo (exactamente) - justo  
 justo - adali  
 juventud - jovenia  
-juzgar (considerar) - juda  
+juzgar - juda  
 ####K - K  
 karaoke - karaoke  
 karate - karate\*  
@@ -2439,7 +2439,7 @@ Omán - Oman
 onda - onde  
 opción - cuzable  
 opinar - raya  
-opinión - rai  
+opinión (juicio, consideración) - rai  
 oponerse (resistir) - xata  
 oportunidad (chance) - canse  
 oración - jumle  
@@ -3164,6 +3164,7 @@ sitio web - netoloke
 situación - xeihal  
 sobre - supro  
 sobrepasar - supra  
+sobrestimar - maxraya  
 social - sosi  
 socialismo - sosistia  
 socialismo nacional - nasi sosistia  
@@ -3196,6 +3197,7 @@ strontium - estrontem
 su (suyo) - si  
 suajili - suahili  
 suave (liso) - lisi  
+subestimar - minraya  
 subir (alzar) - gavu  
 subterráneo - geyonici  
 sucio (corrompido) - najisi  

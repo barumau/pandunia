@@ -29,7 +29,7 @@ akse - 轴线
 aksente - 重音符号  
 ala - 改變  
 ali - 另一  
-alraya - 不同意  
+aloraya - 不同意  
 alge - 藻类  
 algofung - 地衣  
 algojangle - 海藻林  
@@ -66,8 +66,8 @@ arbuze - 西瓜
 argente - 银  
 arke - 弓 (琴弓, 拱)  
 arme - 武器  
-arome - 气味  
 aroma - 闻到  
+arome - 气味  
 aromu - 发臭  
 aromomelon - 香瓜  
 arte - 艺术  
@@ -543,8 +543,8 @@ kata - 切
 katoglutoban - 剪贴板  
 katane - 剑  
 katus - 仙人掌  
-kave - 坑 (穴)  
 kava - 挖  
+kave - 坑 (穴)  
 keci - 客气  
 keger - 客人  
 kenar - 边  
@@ -889,6 +889,7 @@ purxipa - 浸泡
 putavoranje - 葡萄柚  
 putongi - 普通  
 ####R - R  
+rai - 意见 (见解)  
 rangarkosalmon - 虹鱒  
 rangomate - 染料  
 rapidi - 快  

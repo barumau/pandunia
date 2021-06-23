@@ -73,14 +73,14 @@ aksesabli - accessible (within reach)
 ala - change (make different)  
 ali - other  
 alo - otherwise (else)  
-alfon - allophone  
-alnamo - that is (in other words, i.e., alias)  
-alraya - disagree  
-alrayia - disagreement (disconsent)  
-alromansi - heteroromantic  
-alseksi - heterosexual  
-alsifi - different  
-alsifia - difference  
+alofon - allophone  
+alonamo - that is (in other words, i.e., alias)  
+aloraya - disagree  
+alorayia - disagreement (disconsent)  
+aloromansi - heteroromantic  
+aloseksi - heterosexual  
+alosifi - different  
+alosfia - difference  
 Alaska - Alaska  
 alge - alga  
 algofung - lichen  
@@ -162,8 +162,8 @@ angul - finger (toe)
 angulmarke - fingerprint  
 angulpike - fingertip  
 angulring - finger ring  
-anime - animation (cartoon)  
 anima - animate  
+anime - animation (cartoon)  
 anjil - message  
 anjiler - messenger  
 Antartike - Antarctica  
@@ -196,8 +196,8 @@ arke - bow (arch, arc)
 arker - archer  
 arkeria - archery  
 arme - weapon (arms)  
-arome - scent (odor, fragrance, aroma)  
 aroma - smell (sniff)  
+arome - scent (odor, fragrance, aroma)  
 aromu - smell (reek)  
 aromomelon - Korean melon  
 arsene - arsenic  
@@ -339,8 +339,8 @@ batre - battery
 bau - treasure (valuables)  
 bavi - precious  
 bauxeke - gem (gemstone, jewel)  
-baxe - language (communication)  
 baxa - speak (communicate)  
+baxe - language (communication)  
 baxi jinse - grammatical gender  
 baxokanun - grammar  
 baxokanuni - grammatical  
@@ -435,6 +435,7 @@ boni zar - good luck
 bondarja - upgrade (level up)  
 bondeke - virtue (morals)  
 bondeki - virtuous  
+bonraya - approve  
 bonsifi - excellent  
 bonsifia - excellence (quality, virtue)  
 bonsinyi - auspicious (promising)  
@@ -554,17 +555,17 @@ ceti - seven (7)
 cetyom - Sunday  
 cetolun - July  
 cile - pepper (capsicum)  
-cilofun - paprika  
 Cilia - Chile  
+cilofun - paprika  
 cimpanze - chimpanzee  
 cin - parent (mother or father)  
+cini - Han Chinese  
 cinbrusben - cousin  
 cincin - grandparent  
 cingam - step-parent  
 cingamben - step-sibling  
 cinmai - grandmother  
 cinpai - grandfather  
-cini - Han Chinese  
 cincile - chinchilla  
 cing - request (petition)  
 cinga - ask (request, beg, plead; please)  
@@ -784,17 +785,18 @@ duni - global
 dunia - world  
 dunia bax - world language  
 dur - duration (time interval)  
-durita - pass (spend time, put time into)  
 dura - last (take time; during)  
+duri - chronic (lasting)  
 duru - elapse (pass by, go by)  
 durabli - durable (endurable, sustainable)  
-duri - chronic (lasting)  
+durita - pass (spend time, put time into)  
 durmetrer - stopwatch  
 durzam - period (era, epoch, term)  
 dusi - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dusi zar - misfortune (bad luck)  
 dusdarja - downgrade  
 dusdevistia - dystheism (maltheism)  
+dusraya - disapprove (frown upon)  
 dusforma - disfigure  
 dusformi - malformed (deformed, disfigured)  
 dusfunce - dysfunction (malfunction)  
@@ -853,8 +855,8 @@ erbem - erbium
 Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
 esei - essay  
-eskale - stairs (ladder)  
 eskala - climb (get on)  
+eskale - stairs (ladder)  
 eskalotan - vine  
 Eskandia - Scandinavia  
 eskandem - scandium  
@@ -1334,8 +1336,8 @@ hata - until (til, up to)
 hato - even (implying extreme example)  
 hatre - danger (peril)  
 hatri - dangerous (perilous)  
-have - wind  
 hava - blow  
+have - wind  
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
 haxix - hashish  
@@ -1789,8 +1791,8 @@ Katalunia - Catalonia
 katane - sword  
 Katar - Qatar  
 katus - cactus  
-kave - pit (excavation, cavity)  
 kava - dig (excavate)  
+kave - pit (excavation, cavity)  
 kavayi - cute (sweet)  
 Kaukasia - Caucasia  
 kax - cash box  
@@ -1828,8 +1830,8 @@ kimi - chemical
 kimem - chemical element  
 kimlojia - chemistry  
 kimono\* - kimono  
-kine - movement  
 kina - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
+kine - movement  
 kini - kinetic  
 kinu - move oneself  
 kinograf - movie (cinema)  
@@ -2036,8 +2038,8 @@ laloranje - mandarin orange (tangerine)
 lalsalmon - sockeye salmon  
 lama\* - lama  
 lampe - lamp  
-lane - curse (damn!)  
 lana - curse (swear)  
+lane - curse (damn!)  
 lanca - throw (launch)  
 lanci - projectile (thrown)  
 lancite - projectile (missile)  
@@ -2287,6 +2289,7 @@ maxo - also (too)
 maxu - exceed (be greater than)  
 maxboni - bonus  
 maxdarja - increment  
+maxraya - overestimate  
 maxfila - prefer (favor)  
 maxfili - favorite (preferred)  
 maxfilistia - favoritism  
@@ -2386,6 +2389,7 @@ mina - decrease (lessen)
 mini - less (fewer)  
 minu - subceed (be less than)  
 mindarja - decrement  
+minraya - underestimate  
 minar - tower  
 minga - brighten  
 mingi - bright (brilliant, clear)  
@@ -2517,9 +2521,9 @@ namana - call (name)
 namkitaba - sign (autograph)  
 namloge - noun  
 Namibia - Namibia  
-nanas - pineapple  
 nani - nano-  
 nanomitre - nanometer  
+nanas - pineapple  
 narake - hell  
 narde - backgammon  
 nas - people (folk)  
@@ -2770,8 +2774,8 @@ parlini - parallel (longitudinal)
 parlinu - align (go along)  
 parvezia - equilibrium (balance)  
 Paraguai - Paraguay  
-paraye - outcast (pariah)  
 paraya - despise (scorn)  
+paraye - outcast (pariah)  
 param - parameter (argument, input variable)  
 parca - shatter (break into pieces)  
 parce - piece (fragment, shred, morsel, crumb, shard)  
@@ -3020,7 +3024,7 @@ radem - radium
 radometrer - radiometer  
 radon - radon  
 rai - opinion (view)  
-raya - deem (think that)  
+raya - deem (opine, think that)  
 raite - right hand side  
 raiti - right hand  
 raitiste - rightist (right-winger)  
@@ -3261,8 +3265,8 @@ sati - momentary
 satodona - dedicate (devote)  
 satodonia - dedication (devotion)  
 Saturne - Saturn  
-save - knowledge  
 sava - know (be aware of)  
+save - knowledge  
 savi - known  
 savolojia - epistemology  
 savovol - interest (curiosity)  
@@ -3576,8 +3580,8 @@ termometrer - thermometer
 teror - terror  
 teroriste - terrorist  
 teroristia - terrorism  
-tese - argument (thesis)  
 tesa - argue (claim)  
+tese - argument (thesis)  
 tesle - tesla (T)  
 testa - try (attempt)  
 teste - test (try, attempt)  

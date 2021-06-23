@@ -6,16 +6,27 @@ Pronouns can substitute nouns and noun phrases.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **me**      | **mes**      |
+| **me**      | **mome**     |
 | I, me       | we           |
-| **te**      | **tes**      |
+| **te**      | **tote**     |
 | you         | you all      |
-| **le**      | **les**      |
+| **le**      | **lole**     |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
 The most common third person pronoun is **le**
 but also **ye** (_this_) and **ve** (_that_) can be used instead.
+
+The possessive pronouns are:
+
+| Singular    | Plural       |
+|:------------|:-------------|
+| **mi**      | **momi**     |
+| my          | our          |
+| **ti**      | **toti**     |
+| your        | your         |
+| **li**      | **loli**     |
+| his or her  | their        |
 
 
 ## Reflexive pronoun
@@ -32,17 +43,19 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 – I see myself.  
 **le vida se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mes vida se.**
+**mome vida se.**
 – We see ourselves.
 
-The word **ses** is used as the reciprocal pronoun.
+## Reciprocal pronoun
 
-**ses**
+The word **unale** is used as the reciprocal pronoun.
+
+**unale**
 – each other, one another
 
-**me e te vida ses.**
+**me e te vida unale.**
 – Me and you see each other.  
-**mes vida ses.**
+**mome vida unale.**
 – We see each other.
 
 

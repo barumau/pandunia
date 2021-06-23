@@ -71,14 +71,14 @@ aksesabli - ulottuvilla
 ala - muuttaa (tehdä eriksi)  
 ali - muu (toinen)  
 alo - muuten (toisin)  
-alfon - allofoni (vaihtoehtoinen ääntämys)  
-alnamo - eli (toisin sanoen)  
-alraya - olla eri mieltä  
-alrayia - erimielisyys  
-alromansi - heteroromanttinen  
-alseksi - heteroseksuaali  
-alsifi - erilainen  
-alsifia - erilaisuus (ero)  
+alofon - allofoni (vaihtoehtoinen ääntämys)  
+alonamo - eli (toisin sanoen)  
+aloraya - olla eri mieltä  
+alorayia - erimielisyys  
+aloromansi - heteroromanttinen  
+aloseksi - heteroseksuaali  
+alosifi - erilainen  
+alosfia - erilaisuus (ero)  
 Alaska - Alaska  
 alge - levä  
 algofung - jäkälä  
@@ -150,8 +150,8 @@ angul - sormi tai varvas
 angulmarke - sormenjälki  
 angulpike - sormenpää  
 angulring - sormus  
-anime - animaatio (piirretty)  
 anima - animoida  
+anime - animaatio (piirretty)  
 anjil - viesti  
 anjiler - viestintuoja (airut)  
 Antartike - Antarktis  
@@ -182,8 +182,8 @@ arke - kaari
 arker - jousiampuja  
 arkeria - jousiammunta  
 arme - ase  
-arome - haju  
 aroma - haistaa  
+arome - haju  
 aromu - haista  
 arsene - arseeni  
 arte - taide  
@@ -315,8 +315,8 @@ batre - akku (paristo)
 bau - aarre  
 bavi - arvokas  
 bauxeke - jalokivi  
-baxe - kieli (kommunikaatio)  
 baxa - puhua (kommunikoida)  
+baxe - kieli (kommunikaatio)  
 baxi jinse - kieliopillinen suku  
 baxokanun - kielioppi  
 baxokanuni - kieliopillinen  
@@ -405,6 +405,7 @@ boni zar - hyvä onni (tuuri, säkä, lykky)
 bondarja - nostaa tasoa  
 bondeke - hyve  
 bondeki - hyveellinen (hyvä)  
+bonraya - hyväksyä  
 bonsifi - laadukas (hyvä)  
 bonsifia - laatu (laadukkuus, erinomaisuus, hyvyys)  
 bonsinyi - lupaava (hyvältä vaikuttava)  
@@ -517,16 +518,16 @@ ceti - seitsemän (7)
 cetyom - niedziela  
 cetolun - heinäkuu  
 cile - paprika  
-cilofun - paprikajauhe  
 Cilia - Chile  
+cilofun - paprikajauhe  
 cimpanze - simpanssi  
 cin - vanhempi (isä tai äiti)  
+cini - han-kiinalainen  
 cinbrusben - serkku  
 cincin - isovanhempi  
 cingamben - sisaruspuoli  
 cinmai - isoäiti  
 cinpai - isoisä  
-cini - han-kiinalainen  
 cincile - chinchilla  
 cing - pyyntö  
 cinga - pyytää (anoa)  
@@ -734,17 +735,18 @@ duni - maailman-
 dunia - maailma  
 dunia bax - maailmankieli  
 dur - aika (kesto, kestoaika)  
-durita - kuluttaa (viettää aikaa)  
 dura - kestää (viedä aikaa)  
+duri - kestävä (krooninen)  
 duru - kulua (vieriä)  
 durabli - kestävä (luja)  
-duri - kestävä (krooninen)  
+durita - kuluttaa (viettää aikaa)  
 durmetrer - sekuntikello  
 durzam - aikakausi  
 dusi - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dusi zar - epäonni  
 dusdarja - laskea tasoa  
 dusdevistia - dysteismi (usko jumalan pahuuteen)  
+dusraya - paheksua  
 dusforma - turmella ulkomuoto  
 dusformi - epämuodostunut  
 dusfunce - toimintahäiriö  
@@ -797,8 +799,8 @@ erbem - erbium
 Eris - Eris (kääpiöplaneetta)  
 Eritria - Eritrea  
 esei - essee  
-eskale - portaat (rappuset, tikkaat)  
 eskala - kiivetä  
+eskale - portaat (rappuset, tikkaat)  
 eskalotan - köynnös  
 Eskandia - Skandinavia  
 eskandem - skandium  
@@ -1243,8 +1245,8 @@ hata - asti (saakka)
 hato - jopa  
 hatre - vaara  
 hatri - vaarallinen  
-have - tuuli (puhallus)  
 hava - tuulla (puhaltaa)  
+have - tuuli (puhallus)  
 Havai - Havaiji  
 Havai nesia - Havaijin saaret  
 haxix - hasis  
@@ -1626,8 +1628,8 @@ Katalunia - Katalonia
 katane - miekka  
 Katar - Qatar  
 katus - kaktus  
-kave - kuoppa (kolo)  
 kava - kaivaa  
+kave - kuoppa (kolo)  
 kavayi - söpö (suloinen)  
 Kaukasia - Kaukasia  
 kax - kassa  
@@ -1664,8 +1666,8 @@ kimi - kemikaali
 kimem - alkuaine  
 kimlojia - kemia  
 kimono\* - kimono  
-kine - liike  
 kina - liikuttaa (innoittaa)  
+kine - liike  
 kinu - liikkua  
 kinograf - elokuva  
 kinografi - elokuvallinen  
@@ -2054,6 +2056,7 @@ max ka bas - liikaa
 maxa - lisätä (enentää)  
 maxi - lisä-  
 maxu - ylittää (olla enemmän kuin)  
+maxraya - yliarvioida  
 maxfila - suosia (pitää parempana)  
 maxfili - suosikki (suosittu)  
 maxfilistia - suosinta (favoritismi)  
@@ -2132,6 +2135,7 @@ min ka bas - liian vähän
 mina - paitsi (miinus)  
 mina - vähentää  
 minu - alittaa (olla vähemmän kuin)  
+minraya - aliarvioida  
 minar - torni  
 minga - kirkastaa (valaista)  
 mingi - kirkas (selkeä)  
@@ -2242,9 +2246,9 @@ nama - olla nimeltään
 namana - nimittää (kutsua)  
 namloge - substantiivi (nimisana)  
 Namibia - Namibia  
-nanas - ananas  
 nani - nano-  
 nanomitre - nanometri  
+nanas - ananas  
 narake - helvetti  
 narde - backgammon  
 nas - kansa  
@@ -2465,8 +2469,8 @@ paru - olla yhtä kuin
 parike - vertainen  
 parvezia - tasapaino  
 Paraguai - Paraguai  
-paraye - hylkiö (paaria)  
 paraya - halveksia (hyljeksiä)  
+paraye - hylkiö (paaria)  
 param - parametri (argumentti)  
 parca - hajottaa (särkeä, repiä, sirpaloida)  
 parce - palanen (murunen, riekale, sirpale)  
@@ -2678,7 +2682,7 @@ radem - radium
 radometrer - säteilymittari  
 radon - radon  
 rai - mielipide (näkemys)  
-raya - ottaa kantaa (olla jtk mieltä)  
+raya - olla jtkn mieltä (pitää jnkn)  
 raite - oikea puoli  
 raitiste - oikeistolainen  
 raji - kuninkaallinen  
@@ -2881,8 +2885,8 @@ saroste - pääkallo
 sate - hetki (kotva, ajankohta)  
 sati - hetkellinen  
 Saturne - Saturnus  
-save - tieto (tietämys)  
 sava - tietää (tuntea)  
+save - tieto (tietämys)  
 savi - tietty (tunnettu)  
 savolojia - tietoteoria (epistemologia)  
 savovol - kiinnostus (mielenkiinto)  
@@ -3129,8 +3133,8 @@ termometrer - lämpömittari
 teror - kauhu (terrori)  
 teroriste - terroristi  
 teroristia - terrorismi  
-tese - väite (teesi)  
 tesa - väittää  
+tese - väite (teesi)  
 tesle - tesla (T)  
 testa - yrittää (kokeilla)  
 teste - koe (testi, yritys)  

@@ -68,8 +68,8 @@ arbuze - арбуз
 argum - аргумент (обосновани)  
 arke - лук (арка)  
 arker - лучник  
-arome - запах (аромат)  
 aroma - понюхать  
+arome - запах (аромат)  
 aromu - пахнуть  
 arte - искусство  
 artiste - художник (артист)  
@@ -220,9 +220,9 @@ cerize - черешня
 ceti - семь (7)  
 cetyom - воскресенье  
 cile - перец (паприка)  
+cini - хань  
 cinmai - бабушка  
 cinpai - дедушка  
-cini - хань  
 cinga - просить  
 cir - рвать  
 cira - рвать  
@@ -286,8 +286,8 @@ dulbaxi - двуязычный
 dulyom - вторник  
 dunia - мир (свет)  
 dura - длиться  
-durabli - долговечный  
 duri - хронический  
+durabli - долговечный  
 durmetrer - секундомер  
 durzam - период (эпоха)  
 dusforma - уродовать  
@@ -607,8 +607,8 @@ kaske - оболочка (кора, панцирь)
 katoglutoban - буфер обмена  
 katane - меч  
 katus - кактус  
-kave - яма  
 kava - копать  
+kave - яма  
 kenarbaryer - забор (ограда)  
 kim - вещество  
 kimem - химический элемент  
@@ -770,6 +770,7 @@ maste - мачта
 mate - материя  
 matur - взрослый  
 mau - кошка  
+maxraya - переоценить  
 maxfila - предпочитать  
 maxfili - любимый  
 maxfilistia - фаворитизм (кумовство)  
@@ -805,6 +806,7 @@ milke - молоко
 milkokardon - расторопша пятнистая  
 mima - имитировать  
 mimer - мим (имитатор)  
+minraya - недооценить  
 minte - мята  
 mirdi - слабый  
 misalo - например  
@@ -994,6 +996,7 @@ purfityamiste - веган
 purxipa - мариновать  
 putavoranje - грейпфрут  
 ####R - R  
+rai - мнение  
 rangarke - радуга  
 rangarkosalmon - микижа (камчатская сёмга)  
 rapidi - быстрый  
