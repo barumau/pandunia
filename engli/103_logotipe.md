@@ -1,180 +1,64 @@
-# Word class markers
+# Classifying words
 
-Pandunia uses vowel endings for quick word derivation.
-In this system the final vowel of a word indicates its word class.
-So the root (i.e. stem) of the word indicates a general idea
-and the vowel endings indicate different manifestations of that idea.
+The grammar of Pandunia is simple and concise compared to most languages.
+The main principle is that words don't ever change for the reasons of grammar.
+Therefore the same word can be used as a noun, verb or adjective
+without any change in the form of the word.
+This is one of the reasons why Pandunia is easier to learn and simpler to use than other languages.
 
-Pandunia uses the following vowel endings to mark parts of speech.
-
-No vowel or **-e** indicates a noun,
-which is the name of the thing or idea that the root is about.
-Nouns answer to the question: What?
-
-**-ia** indicates a collective noun,
-which means the totality of the things that the root is about.
-It can also indicate an abstract noun.
-For example,
-**insania**
-means "humanity" both as the collective "humankind" and as the abstract "humanhood".
-
-**-i** indicates an adjective,
-which describes the main characteristic or quality of the root.
-Adjectives answer to the following questions: What kind? How many?
-
-**-o** indicates an adverb,
-which describes a manner or a circumstance (ex. place or time).
-Adverbs answer to the following questions: How? Where? When?
-
-**-a** indicates an active verb,
-which is an action that a person can do with the corresponding noun.
-So the purpose or the potential of the noun determines the meaning of the verb.
-
-**-u** indicates a passive verb,
-which is an event that happens or an action that is done to someone.
-The meaning of a passive verb depends on the corresponding active verb.
-
-These endings and the participles (**-an-** and **-it-**) are the only true suffixes i.e. bound morphemes in Pandunia.
-All other suffixes can be used also as independent words.
-For example **paciste** (pacifist) is made up of two full words:
-**pace** (peace) and **iste** (proponent).
-
-The designated vowel endings enable easy derivation of one type of word from another.
-An ending is simply changed to another ending.
-All endings can be used on all roots in the same way.
-
-- The ending **-e** converts the idea into a thing.
-  For example, **nile** means the color blue.
-- The ending **-i** converts the idea into a description.
-  The resulting adjective describes another idea with the modifying idea.
-  For example, **nili dome** means a blue house.
-- The ending **-a** converts the idea into an action.
-  The resulting verb is about using the idea to an object.
-  For example, **nila dom** means "to make the house blue".
-- The ending **-u** creates an action just like **-a**.
-  The only difference is that the word order is reversed so that the object comes first.
-  For example, **dom nilu** means "the house becomes blue".
-
-Here are a few examples of different types of ideas.
-
-- concrete action
-    - **kitabe**
-      writing, text (noun)
-    - **kitabi**
-      written, textual (adjective)
-    - **kitabo**
-      by writing, textually (adverb)
-    - **kitaba**
-      to write (active verb)
-    - **kitabu**
-      to be written (passive verb)
-- abstract action
-    - **fikre**
-      thought (noun)
-    - **fikri**
-      thought (adjective)
-    - **fikro**
-      by thought (adverb)
-    - **fikra**
-      to think (active verb)
-    - **fikru**
-      to be thought (passive verb)
-- description
-    - **longe**
-      length (noun)
-    - **longi**
-      long, lengthy (adjective)
-    - **longo**
-      lengthily (adverb)
-    - **longa**
-      to make long, lengthen (active verb)
-    - **longu**
-      to get long, be lengthened (passive verb)
-- emotion
-    - **suke**
-      delight (noun)
-    - **suki**
-      delighted, happy (adjective)
-    - **suko**
-      happily (adverb)
-    - **suka**
-      to delight, please (active verb)
-    - **suku**
-      to be delighted, be pleased (passive verb)
-- tool
-    - **hamar**
-      a hammer (noun)
-    - **hamari**
-      hammerlike (adjective)
-    - **hamaro**
-      by/with/like a hammer
-    - **hamara**
-      to hammer, to use hammer on sth (active verb)
-    - **hamaru**
-      to be hammered (passive verb)
+Pandunia is so simple that we don't need special or complicated words to describe how it works.
+That's why all things in this grammar are explained in plain words
+and basic terms that you have probably already learned in school.
+And don't worry if you don't remember some of them,
+all terms are explained when they are met for the first time.
 
 
-### Deriving verbs
+## Content words and structure words
 
-**-a** and **-u** are the endings for verbs.
+A word class is a group of words that have similar forms and similar use in sentences.
+In Pandunia, word classes belong to two superclasses: content words and structure words.
+Content words are the words for things in the real world.
+The job of structure words is to bind content words into meaningful phrases.
+They have little meaning or only an occasional meaning in the world outside the language.
 
-1. If the stem's idea is an action, then its verb form will mean "to do the action".
-   For example from **vide** (_a look_) we get **vida** (_to look_).
-2. If the idea is a description then its verb form will mean "to turn into that quality".
-   For example from **nevi** (_new_) we get **neva** (_to make new_ or _to renew_).
-3. If the idea is a thing, then its verb form will mean "to apply it to".
-   For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
+Content words convey most of information and meaning.
+You can't say anything meaningful without them,
+but they don't make any sense without structure words,
+which are the necessary words for grammar.
+You need structure words to put content words together into more or less complex sentences.
+Content words are like bricks of information and structural words are like the mortar that holds them together.
 
+In Pandunia, it is easy to identify structure words because they always consist of only one syllable.
+Content words, on the other hand, are typically longer.
+Structure words are best explained in the grammar,
+whereas content words are translated in the dictionary.
 
-### Deriving nouns
+## Word classes
 
-**-e** is the ending for nouns.
+Content words can be categorized into word classes as follows:
 
-If the stem's idea is an action, then its noun form will mean the result or the product of the action.
-For example from **kitaba** (_to write_) we get **kitabe** (_writing_ or _text_).
+1. Pronouns : words that point to people and things.
+2. Prepositions : words that relate things and actions into circumstances
+3. Conjunctions : words that join phrases together
 
-If the idea is a description, then its noun form will mean a concrete instance of that quality.
-For example from **nevi** (_new_) we get **neve** (_a novelty_ i.e. something new).
+Content words can be classified futher into the following word classes:
 
-Additional noun suffixes are presented below.
+1. Nouns : words for things, ideas, places and people.
+2. Adjectives : words for qualities of nouns, such as good, bad, and big.
+3. Adverbs : words that describe degrees of qualities, such as less, more and very.
+4. Numerals : words for numbers and amounts.
+5. Verbs : words for actions and occurences, such as to eat and to look.
 
-### Deriving adjectives
+However, the class of a content word is seldom permanent.
+A word like
+**ai**
+("love") can function as a verb, noun or adjective
+depending on its position in the sentence.
 
-**-i** is the ending for adjectives and adjectival verbs.
-
-If the stem's idea is a description, then its adjectival form will mean "that which is in the state of the root".
-For example from **nev-** (_newness_), we get **nevi** (_new_ i.e. _that which is new_).
-
-If the idea is an action, then its adjectival form will mean the state that is produced by the action.
-For example from **loga** (_to speak_) we get **logi** (_spoken_).
-
-If the idea is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
-For example, from the noun **insan** (_human being_), we get the adjective **insani** (_human_, having the attributes of a human being).
-
-If the root is a place word, then its adjectival form will mean "that which is from that place".
-
-**Rusia** Russia, **Rusi** Russian  
-**Pakistan** Pakistan, **Pakistani** Pakistani  
-**Amerike** America, **Ameriki** American  
-**Europe** Europe, **Europi** European  
-**Asia** Asia, **Asi** Asian
-
-
-### Words without a vowel ending
-
-Normally, when a word doesn't end in a vowel, it is a noun.
-The noun ending **-e** is used only when the word would be otherwise difficult to pronounce by international speakers.
-So it is necessary to use **-e** after stop consonants (ex. **supe** instead of **sup**),
-affricates (ex. **noce** and **laje** instead of **noc** and **laj**),
-voiced fricatives (ex. **taze** instead of and **taz**)
-and consonant series (ex. **poste** and **yogurte** instead of **post** and **yogurt**).
-Otherwise nouns don't have a vowel ending.
-
-In addition, a handful of adjectives and adverbs don't have a vowel ending.
-The adjectives without the ending are **bon** (good), **mal** (bad), **lil** (small), **dai** (big),
-**nol** (none), **un** (one), **koi** (some), **mei** (every), and **pan** (all).
-The adverbs withouth the ending are **max** (more), **maxim** (most), **min** (less), and **minim** (least).
-
-Note that it is always acceptable to use the vowel endings on every word.
-So it is acceptable to say **boni hotele** instead of **bon hotel** (a good hotel).
+**mo ai ni.**
+– I _love_ you. (verb)  
+**ni gam mo de ai.**
+– You feel my _love_. (noun)  
+**mo kitabe un ai letre.**
+– I write a _love_ letter. (adjective)
 
