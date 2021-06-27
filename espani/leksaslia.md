@@ -1042,7 +1042,7 @@
 |**putongi**|general (common)|zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|
 |**puxa**|empujar (presionar)|eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|
 |**radia**|radiación|eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|
-|**rai**|opinión|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
+|**rai**|opinión (juicio, consideración)|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
 |**raite**|lado derecho|eng:right|
 |**rajia**|reino|hin:राज्य (rājya), ben:রাজ্য (rajyô)|
 |**rampe**|rampa (cuesta)|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|

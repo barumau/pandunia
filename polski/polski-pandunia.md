@@ -39,7 +39,7 @@ Algieria - Jayeria
 aligator - kortokrokodil  
 alkohol - alkol  
 alkoholowy - alkoli  
-alofon - alfon  
+alofon - alofon  
 alternatywa (substytut, zastępstwo) - vis  
 ambasada - dayanjilkan  
 ambasador - dayanjiler  
@@ -833,8 +833,8 @@ helisa - helis
 herbaciarnia - caikan  
 herbata - cai  
 herc - herze  
-heteroromantyczny - alromansi  
-heteroseksualny - alseksi  
+heteroromantyczny - aloromansi  
+heteroseksualny - aloseksi  
 hełm - sarkaske  
 higiena - salsafia  
 Himalaje - Himalia  
@@ -910,7 +910,7 @@ indyk - dinde
 infekcja (zakażenie) - patomis  
 informacja - konsave  
 inny - ali  
-innymi słowy - alnamo  
+innymi słowy - alonamo  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tezi  
 interesujący - savovoliti  
 interfejs - medofas  
@@ -1691,7 +1691,7 @@ Nevis - Nevis
 nic, żadna rzecz - nol xei  
 nie - no  
 nie ruszać się - estasu  
-nie zgadzać się - alraya  
+nie zgadzać się - aloraya  
 niebezpieczeństwo, ryzyko, szansa - zar  
 niebezpieczny - hatri  
 niebieski - nili  
@@ -1716,7 +1716,7 @@ nietoperz - feimux
 niewiele (mało) - xavi  
 niewierny (poganin, niewierzący) - kafir  
 niewierny - andiniste  
-niezgoda - alrayia  
+niezgoda - alorayia  
 nigdy - nol sate  
 Niger - Nijer  
 Nigeria - Naijiria  
@@ -2542,8 +2542,8 @@ równy - pari
 równy - parike  
 róża - roze  
 różnica (specjalność) - hasia  
-różnica - alsifia  
-różny (inny) - alsifi  
+różnica - alosfia  
+różny (inny) - alosifi  
 różny (różnorodny) - balibali  
 różowy, różany - rozorangi  
 ręcznik - gantex  

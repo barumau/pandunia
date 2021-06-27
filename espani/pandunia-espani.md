@@ -66,14 +66,14 @@ aksesabli - accesible
 ala - cambiar (demudar)  
 ali - otro  
 alo - sino  
-alfon - alófono  
-alnamo - es decir (en otras palabras)  
-alraya - disentir (no estar de acuerdo)  
-alrayia - desacuerdo  
-alromansi - heterorromántico  
-alseksi - heterosexual  
-alsifi - diferente  
-alsifia - diferencia  
+alofon - alófono  
+alonamo - es decir (en otras palabras)  
+aloraya - disentir (no estar de acuerdo)  
+alorayia - desacuerdo  
+aloromansi - heterorromántico  
+aloseksi - heterosexual  
+alosifi - diferente  
+alosfia - diferencia  
 Alaska - Alaska  
 alge - alga  
 algofung - liquen  
@@ -136,8 +136,8 @@ angul - dedo
 angulmarke - huella digital  
 angulpike - yema del dedo  
 angulring - anillo (sortija)  
-anime - animación (dibujo animado)  
 anima - animar  
+anime - animación (dibujo animado)  
 anjil - mensaje  
 anjiler - mensajero  
 Antartike - antartida  
@@ -168,8 +168,8 @@ arke - arco
 arker - arquero  
 arkeria - tiro con arco  
 arme - arma  
-arome - olor (aroma)  
 aroma - oler (olfatear)  
+arome - olor (aroma)  
 aromu - oler (apestar)  
 aromomelon - melón coreano  
 arsene - arsénico  
@@ -307,8 +307,8 @@ batre - pila (batería)
 bau - tesoro  
 bavi - precioso  
 bauxeke - piedra preciosa (joya, gema)  
-baxe - lengua (idioma)  
 baxa - hablar (comunicarse)  
+baxe - lengua (idioma)  
 baxi jinse - género gramatical  
 baxokanun - gramática  
 baxokanuni - gramatical  
@@ -511,10 +511,10 @@ cile - chile
 Cilia - Chile  
 cimpanze - chimpancé  
 cin - parente (madre o padre)  
+cini - chinés (de los Han)  
 cinbrusben - primo  
 cinmai - abuela  
 cinpai - abuelo  
-cini - chinés (de los Han)  
 cincile - chinchilla  
 cinga - pedir (invitar; por favor)  
 cinga laya - invitar  
@@ -715,11 +715,11 @@ duni - global (mundial)
 dunia - mundo  
 dunia bax - lengua mundial  
 dur - duración  
-durita - pasar (transcurrir)  
 dura - durar (durante, llevar tiempo)  
+duri - crónico  
 duru - transcurrir  
 durabli - durable  
-duri - crónico  
+durita - pasar (transcurrir)  
 durmetrer - cronómetro  
 durzam - era (periodo, época)  
 dusi - malo (difícil, duro)  
@@ -776,8 +776,8 @@ erbem - erbio
 Eris - Eris (planeta enano)  
 Eritria - Eritrea  
 esei - ensayo (redacción)  
-eskale - escalera  
 eskala - escalar  
+eskale - escalera  
 eskalotan - enredadera  
 Eskandia - Escandinavia  
 eskandem - escandio  
@@ -1211,8 +1211,8 @@ hata - hasta
 hato - hasta (también)  
 hatre - peligro  
 hatri - peligroso  
-have - viento  
 hava - soplar (echar)  
+have - viento  
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
 haxix - hachís  
@@ -1476,7 +1476,7 @@ joveni fem - niña
 joveni man - niño  
 joveni moke - pimpollo  
 jovenia - juventud  
-juda - juzgar (considerar)  
+juda - juzgar  
 jude - fallo (juicio, criterio)  
 juder - juez (árbitro, réferi)  
 judau - yudo  
@@ -1618,8 +1618,8 @@ Katalunia - Cataluña
 katane - espada  
 Katar - Catar (Qatar)  
 katus - cacto  
-kave - fosa  
 kava - cavar (excavar)  
+kave - fosa  
 kavayi - lindo (precioso)  
 Kaukasia - Cáucaso  
 kax - caja (caja registradora)  
@@ -1657,8 +1657,8 @@ kimi - químico
 kimem - elemento químico  
 kimlojia - química  
 kimono\* - quimono  
-kine - movimiento  
 kina - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
+kine - movimiento  
 kini - cinético  
 kinu - moverse  
 kinograf - película (filme)  
@@ -1842,8 +1842,8 @@ laloranje - mandarina (tangerina)
 lalsalmon - salmón rojo  
 lama\* - lama  
 lampe - lámpara  
-lane - maldición  
 lana - maldecir  
+lane - maldición  
 lanca - tirar (lanzar, echar, arrojar, aventar)  
 lancite - proyectil (misil)  
 lancograf - proyección  
@@ -2076,6 +2076,7 @@ max (maxo) - más
 max ka bas - demasiado  
 maxi - adicional (extra)  
 maxo - además  
+maxraya - sobrestimar  
 maxfila - preferir (favorecer)  
 maxfili - favorito (preferido)  
 maxfilistia - favoritismo  
@@ -2163,6 +2164,7 @@ mimer - imitador
 min (mino) - menos  
 min ka bas - demasiado poco  
 mina - excepto (menos)  
+minraya - subestimar  
 minar - torre  
 minga - iluminar  
 mingi - brillante (luminoso)  
@@ -2286,9 +2288,9 @@ namana - llamar (poner)
 namkitaba - firmar  
 namloge - sustantivo  
 Namibia - Namibia  
-nanas - piña  
 nani - nano-  
 nanomitre - nanometre  
+nanas - piña  
 narake - infierno  
 narde - backgammon  
 nas - gente  
@@ -2519,8 +2521,8 @@ parlini - paralelo
 parlinu - alinear  
 parvezia - equilibrio  
 Paraguai - Paraguay  
-paraye - paria  
 paraya - despreciar (desdeñar)  
+paraye - paria  
 param - parámetro  
 parca - romper (hacer pedazos)  
 parce - fragmento (pedazo)  
@@ -2752,7 +2754,7 @@ radia - radiación
 radem - radio  
 radometrer - radiómetro  
 radon - radón  
-rai - opinión  
+rai - opinión (juicio, consideración)  
 raya - opinar  
 raite - lado derecho  
 raiti - derecho  
@@ -2980,8 +2982,8 @@ sate - momento
 sati - momentáneo  
 satodona - dedicar  
 Saturne - Saturno  
-save - sabiduría (conocimiento)  
 sava - saber (conocer)  
+save - sabiduría (conocimiento)  
 savi - conocido  
 savolojia - epistemología  
 savovol - interés  
@@ -3281,8 +3283,8 @@ termometrer - termómetro
 teror - terror  
 teroriste - terrorista  
 teroristia - terrorismo  
-tese - tesis  
 tesa - argumentar (alegar)  
+tese - tesis  
 tesle - tesla (T)  
 testa - intentar (probar)  
 teste - prueba  

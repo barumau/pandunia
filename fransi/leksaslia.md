@@ -506,6 +506,7 @@
 |**pume**|couguar (puma)|eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)|
 |**puri**|plein|hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|
 |**putavoranje**|pamplemousse|eng:grapefruit, zho:葡萄柚|
+|**rai**|avis (opinion)|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
 |**rang**|couleur|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |**rapidi**|vite (rapide)|spa:por:rápido, eng:rapid, fra:rapide|
 |**rari**|rare|eng:fra:rare, spa:por:raro, jpn:レア (rea)|

@@ -63,13 +63,13 @@ aksesabli - accessible (atteignable, à portée)
 ala - changer  
 ali - autre  
 alo - autrement  
-alfon - allophone  
-alraya - diverger (ne pas être d'accord)  
-alrayia - désaccord (différend)  
-alromansi - hétéroromantique (hétéromantique)  
-alseksi - hétérosexuel  
-alsifi - différent  
-alsifia - différence  
+alofon - allophone  
+aloraya - diverger (ne pas être d'accord)  
+alorayia - désaccord (différend)  
+aloromansi - hétéroromantique (hétéromantique)  
+aloseksi - hétérosexuel  
+alosifi - différent  
+alosfia - différence  
 Alaska - Alaska  
 alge - algue  
 algofung - lichen  
@@ -123,8 +123,8 @@ angar - ancre
 Angola - Angola  
 angulmarke - empreinte digitale  
 angulpike - bout de doigt  
-anime - animation  
 anima - animer  
+anime - animation  
 anjil - message  
 anjiler - messager  
 Antartike - Antarctique  
@@ -155,8 +155,8 @@ arke - arc
 arker - archer  
 arkeria - tire à l'arc  
 arme - arme  
-arome - odeur  
 aroma - sentir qqch  
+arome - odeur  
 aromu - sentir qqch (avoir l'odeur de qqch)  
 arsene - arsenic  
 arte - art  
@@ -404,10 +404,10 @@ dulbaxi - bilingue
 dulyom - mardi  
 dunia - monde  
 dur - durée  
-durita - passer  
 dura - durer  
-duru - se passer  
 duri - chronique  
+duru - se passer  
+durita - passer  
 durmetrer - chronomètre  
 dusforma - défigurer  
 dusjan - ennemi  
@@ -747,8 +747,8 @@ kaske - carapace (coquille, coquillage, croûte)
 katoglutoban - presse-papier  
 katane - épée  
 katus - cactus  
-kave - fosse  
 kava - creuser  
+kave - fosse  
 kerne - coeur  
 kim - substance  
 kimem - élément chimique  
@@ -912,6 +912,7 @@ mate - matière
 matur - adulte  
 mau - chat  
 max (maxo) - plus  
+maxraya - surestimer  
 maxfila - préférer  
 maxfili - favori (préféré)  
 maxfilistia - favoritisme  
@@ -945,6 +946,7 @@ milke - lait
 milkokardon - chardon Marie  
 mima - imiter  
 mimer - imitateur (mime)  
+minraya - sous-estimer  
 minte - menthe  
 mirdi - faible  
 misalo - par exemple  
@@ -1144,6 +1146,7 @@ purfina - accomplir (terminer)
 purxipa - tremper (faire mariner)  
 putavoranje - pamplemousse  
 ####R - R  
+rai - avis (opinion)  
 rang - couleur  
 rangi kance - verre coloré  
 rangarke - arc-en-ciel  

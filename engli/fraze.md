@@ -283,33 +283,33 @@ is from Spanish: no, English no, French: non.</small>
 Plural pronouns are created like this:
 **me**
 (I) →
-**mes**
+**mome**
 (we)  
 **te**
 (you) →
-**tes**
+**tote**
 (you all)  
 **le**
 (he, she, it) →
-**les**
+**lole**
 (they)
 
-**mes salama tes.**
+**mome salama tote.**
 We greet you all.
 
-**tes salama les.**
+**tote salama lole.**
 You greet them.
 
-**les salama mes!**
+**lole salama mome!**
 They greet us.
 
-**mes sa fem.**
+**mome sa fem.**
 We are women.
 
-**tes sa man.**
+**tote sa man.**
 You are men.
 
-**les sa aple.**
+**lole sa aple.**
 They are apples.
 
 
@@ -328,10 +328,10 @@ Who is he/she?
 **le sa Sara.**
 She is Sarah.
 
-**tes sa ke?**
+**tote sa ke?**
 Who are you people?
 
-**les sa ke?**
+**lole sa ke?**
 Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
@@ -370,13 +370,13 @@ Note: The demonstrative pronoun has two forms.
 The forms **ye** and **ve** are used as stand-alone words.
 The forms **yi** and **vi** are used when they modify a noun.
 
-**les ya ke?**
+**lole ya ke?**
 Where are they?
 
-**les ya ye.**
+**lole ya ye.**
 They are here.
 
-**les ya ve.**
+**lole ya ve.**
 They are there.
 
 
@@ -458,10 +458,10 @@ I know him/her.
 **suala te sava vi jan?**
 Do you know that person?
 
-**suala tes sava ses?**
+**suala tote sava ses?**
 Do you know each other?
 
-**mes sava ses longo.**
+**mome sava ses longo.**
 We know each other for a long time.
 
 
@@ -490,7 +490,7 @@ Would you like to eat something?
 **le yama aple.**
 He/she eats an apple.
 
-**les yama aple.**
+**lole yama aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
@@ -655,7 +655,7 @@ What did you say?
 **me loga va te.**
 I talk to you.
 
-**mes loga va ses.**
+**mome loga va ses.**
 We talk to each other.
 
 **se loga "cat" ko ya pandunia?**
@@ -727,10 +727,10 @@ Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
 
-**suala tes baxa pandunia.**
+**suala tote baxa pandunia.**
 Do you speak Pandunia?
 
-**mes baxa pandunia.**
+**mome baxa pandunia.**
 We speak Pandunia.
 
 **suala te abla baxa engli?**
@@ -792,7 +792,7 @@ I will come home tomorrow.
 **suala te safara ya tren?**
 Do you travel by train?
 
-**mes safara la London va Paris.**
+**mome safara la London va Paris.**
 We travel from London to Paris.
 
 **safar polo longi.**
@@ -848,7 +848,7 @@ Please wait!
 **denga me!**
 Wait for me!
 
-**les denga mes.**
+**lole denga mome.**
 They wait for us.
 
 **me denga te ya hotel.**
@@ -932,7 +932,7 @@ Please give it to me.
 **me dona ye va te.**
 I give this to you.
 
-**me dona buke va les.**
+**me dona buke va lole.**
 I give a book to them.
 
 **le no vola dona le va me.**
@@ -956,7 +956,7 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire sa 500 dolar ya mes.**  
+**kire sa 500 dolar ya mome.**  
 The rent is 500 dollars in a month.
 
 **le no abla peya kire.**  
@@ -980,7 +980,7 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**les mai dona pan.**
+**lole mai dona pan.**
 They sell everything.
 
 **me mai kap un bir.**
@@ -1007,7 +1007,7 @@ Nothing.
 **le kosta lil / multo.**
 It is cheap / expensive.  
 
-**mes cingu laya.**
+**mome cingu laya.**
 We are being called.
 
 **me soka tualete.**

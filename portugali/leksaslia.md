@@ -450,6 +450,7 @@
 |**pul**|ponte|hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)|
 |**puri**|cheio|hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|
 |**putavoranje**|toranja|eng:grapefruit, zho:葡萄柚|
+|**rai**|opinião|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
 |**rang**|cor|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |**rapidi**|rápido|spa:por:rápido, eng:rapid, fra:rapide|
 |**rari**|raro|eng:fra:rare, spa:por:raro, jpn:レア (rea)|

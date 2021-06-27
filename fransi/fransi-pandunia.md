@@ -57,7 +57,7 @@ Algérie - Jayeria
 aller (quitter) - kita  
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
-allophone - alfon  
+allophone - alofon  
 allô - halou  
 alphabet - harfia  
 alumine (oxyde d'aluminium) - aluminokside  
@@ -167,6 +167,7 @@ avant - ceno
 avec (avoir) - ha  
 aventure - ventur  
 aventurier - venturer  
+avis (opinion) - rai  
 avocat - avakate  
 avoine - aven  
 avoir besoin de - yavu  
@@ -448,8 +449,8 @@ deux (2) - duli
 devoir - debu  
 diamant - almas  
 dieu - deu  
-différence - alsifia  
-différent - alsifi  
+différence - alosfia  
+différent - alosifi  
 dimanche - cetyom  
 dinde (dindon) - dinde  
 diorite - diorite  
@@ -458,7 +459,7 @@ directeur (principal) - xulxef
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
-diverger (ne pas être d'accord) - alraya  
+diverger (ne pas être d'accord) - aloraya  
 divers (plusieurs) - balibali  
 docile (insipide) - dosili  
 document (dossier) - dokum  
@@ -486,7 +487,7 @@ décapé (mariné) - suanpurxipi
 déchirer - cir  
 déchirer - cira  
 défigurer - dusforma  
-désaccord (différend) - alrayia  
+désaccord (différend) - alorayia  
 dévanagari - deunagri harfe  
 développement - darjomute  
 ####E - E  
@@ -664,8 +665,8 @@ humanisme - insanistia
 humeur - emoshal  
 hygiène - salsafia  
 hélicoptère - helisviman  
-hétéroromantique (hétéromantique) - alromansi  
-hétérosexuel - alseksi  
+hétéroromantique (hétéromantique) - aloromansi  
+hétérosexuel - aloseksi  
 hôtel - hotel  
 ####I - I  
 imitateur (mime) - mimer  
@@ -1234,6 +1235,7 @@ son (sa) - si
 son - son  
 soumettre - karmisa  
 soumission - islam  
+sous-estimer - minraya  
 spectateur - speter  
 sport - esporte  
 squelette - ostojamia  
@@ -1248,6 +1250,7 @@ suffixe pour les verbes avec ordre des mots OV####S - -u
 suffixe pour les verbes avec ordre des mots SV####O - -a  
 suivre - posa  
 sujet (thème) - tem  
+surestimer - maxraya  
 svastika (croix gammée) - hukokrus  
 symétrie - sammetria  
 symétrique - sammetri  

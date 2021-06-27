@@ -71,6 +71,7 @@ alaston (paljas, naku) - nudi
 Albania - Cipia  
 algebra - jebria  
 Algeria - Jayeria  
+aliarvioida - minraya  
 alistua (antautua) - islamu  
 alistuminen (antautuminen) - islam  
 alittaa (olla vähemmän kuin) - minu  
@@ -85,7 +86,7 @@ alkuperä - asle
 alkuperäinen - asli  
 alla - nico  
 allas - basen  
-allofoni (vaihtoehtoinen ääntämys) - alfon  
+allofoni (vaihtoehtoinen ääntämys) - alofon  
 aloittaa - xura  
 alttari - pujomeze  
 alue (seutu) - aria  
@@ -333,7 +334,7 @@ ele - jeste
 elegantti - xiki  
 elektroni - eletron  
 elementti (yksinkertaisin yksikkö) - em  
-eli (toisin sanoen) - alnamo  
+eli (toisin sanoen) - alonamo  
 elohopea - hurargente  
 elokuu - batolun  
 elokuva - kinograf  
@@ -385,9 +386,9 @@ erbium - erbem
 erehtyä (tehdä virhe) - galta  
 erikoinen (erityinen) - hasi  
 erikoisuus - hasia  
-erilainen - alsifi  
-erilaisuus (ero) - alsifia  
-erimielisyys - alrayia  
+erilainen - alosifi  
+erilaisuus (ero) - alosfia  
+erimielisyys - alorayia  
 Eris (kääpiöplaneetta) - Eris  
 Eritrea - Eritria  
 erottaa (nähdä ero) - hasa  
@@ -586,8 +587,8 @@ hermostollinen - neuri
 hertsi (Hz) - herze  
 herättää - jaga  
 Hessen - Hesia  
-heteroromanttinen - alromansi  
-heteroseksuaali - alseksi  
+heteroromanttinen - aloromansi  
+heteroseksuaali - aloseksi  
 hetkellinen - sati  
 hetki (kotva, ajankohta) - sate  
 hevonen - gude  
@@ -675,6 +676,7 @@ hyvä (tervehdyksissä) - salam (salami)
 hyvä - boni  
 hyvä onni (tuuri, säkä, lykky) - boni zar  
 hyväksyntä - okei  
+hyväksyä - bonraya  
 hyväksyä - okeya  
 hyvännäköinen (kaunis, komea) - bonvidi  
 Hyvää iltaa - salam suar  
@@ -1956,9 +1958,10 @@ olento (olio) - ser
 oliivi - zaitun  
 olkapää (hartia) - kante  
 olla - sa  
-olla eri mieltä - alraya  
+olla eri mieltä - aloraya  
 olla hereillä - jagi  
 olla jkn arvoinen - valu  
+olla jtkn mieltä (pitää jnkn) - raya  
 olla nimeltään - nama  
 olla olemassa - zayu  
 olla samaa mieltä - samraya  
@@ -2018,7 +2021,6 @@ ostaja - xoper
 ostokset - xope  
 otella - meca  
 ottaa esiin (paljastaa) - expoza  
-ottaa kantaa (olla jtk mieltä) - raya  
 ottaa kiinni (napata, kaapata) - kapa  
 ottelu (matsi) - mece  
 outo (kummallinen) - bizari  
@@ -2030,6 +2032,7 @@ paapuuri - naulefte
 paeta (karata) - bega  
 pah (pyh) - bah  
 paha (epäsuotuisa, epämiellyttävä, vastustava) - dusi  
+paheksua - dusraya  
 paikallinen - loki  
 paikka (sija, sijainti) - loke  
 painaa (leimata) - capa  
@@ -3419,6 +3422,7 @@ yksityiskohta (detalji) - detal
 yksivärinen - unrangi  
 yleinen (universaali) - putongi  
 yleiskiina (mandariinikiina) - Putong Cini  
+yliarvioida - maxraya  
 yliopisto - daixulkan  
 ylistys - euloge  
 ylistää (puhua hyvää, kehua) - euloga  

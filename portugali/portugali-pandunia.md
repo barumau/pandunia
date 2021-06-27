@@ -335,7 +335,7 @@ direito - hake
 direitos humanos - insani hake  
 diretor - xulxef  
 disco - diske  
-discordar - alraya  
+discordar - aloraya  
 dióxido de carbono - karbodulokside  
 documento - dokum  
 documentário - dokumfilme  
@@ -672,6 +672,7 @@ melão - melon
 melão coreano - aromomelon  
 memória - mem  
 meninge - mening  
+menosprezar (subestimar) - minraya  
 mensagem - anjil  
 meranti - merante  
 mercado (bazar) - bazar  
@@ -775,6 +776,7 @@ onda - onde
 onde - ya ke  
 online - ya lin  
 ontem - cendeno  
+opinião - rai  
 opor - xata  
 opção - cuzable  
 ordem - ratibe  
@@ -1038,6 +1040,7 @@ sorvete (gelado) - aiskrem
 substância - kim  
 suco (sumo) - jus  
 suor - suede  
+superestimar (sobrestimar) - maxraya  
 suástica (cruz gamada) - hukokrus  
 sábado - sisyom  
 São Paulo - Santi Paulo  

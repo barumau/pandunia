@@ -46,10 +46,10 @@ aksente - akcento
 ala - ŝanĝi (aliigi)  
 ali - alia  
 alo - alie  
-alfon - alofono  
-alnamo - tio estas (alivorte)  
-alraya - malkonsenti  
-alseksi - samseksema  
+alofon - alofono  
+alonamo - tio estas (alivorte)  
+aloraya - malkonsenti  
+aloseksi - samseksema  
 alge - algo  
 alkali - alkaleca  
 alkalogusti - amara  
@@ -181,8 +181,8 @@ batonkapse - kaĝo
 batre - baterio (pilo)  
 bau - trezoro  
 bauxeke - juvelo  
-baxe - lingvo  
 baxa - paroli (komuniki)  
+baxe - lingvo  
 baxokanun - gramatiko  
 baxokanuni - gramatika  
 baxolojia - lingvistiko  
@@ -312,10 +312,10 @@ ceti - sep (7)
 cetyom - dimanĉosunnuntai  
 Cilia - Ĉilio  
 cimpanze - ĉimpanzo  
+cini - hana  
 cinbrusben - kuzo  
 cinmai - avino  
 cinpai - avo  
-cini - hana  
 cincile - ĉinĉilo  
 cinga - peti (bonvolu)  
 cinga laya - inviti  
@@ -437,8 +437,8 @@ duni - tera
 dunia - mondo  
 dunia bax - mondlingvo  
 dur - daŭro  
-durita - daŭrigi  
 dura - daŭri (dum)  
+durita - daŭrigi  
 dusjan - malamiko  
 dusvidi - malbonaspekta  
 dute - dubo  
@@ -731,8 +731,8 @@ hata - ĝis
 hato - eĉ  
 hatre - danĝero  
 hatri - danĝera  
-have - vento  
 hava - venti  
+have - vento  
 helem - helio  
 heleni - greka  
 Helenia - Grekio  
@@ -945,8 +945,8 @@ kata - tranĉi
 Katalunia - Katalunio  
 katane - glavo  
 katus - kaktuso  
-kave - foso  
 kava - fosi  
+kave - foso  
 kavayi - ĉarma  
 keci - ĝentila  
 kecape - keĉupo  
@@ -1562,8 +1562,8 @@ sapatokan - ŝuistejo
 sarkaske - kasko  
 sate - momento  
 sati - momenta  
-save - scio  
 sava - scii (koni)  
+save - scio  
 savolojia - sciteorio (epistemologio)  
 savovolani - scivolema  
 savovoliti - interesa  
