@@ -1,6 +1,6 @@
 fata_liste_pandunia_X() {
     #pandunia unodo
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$1	 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unodi linye
     sed -i '1d' $2/pandunia-$2.md
     # alfobeta
@@ -13,7 +13,7 @@ fata_liste_pandunia_X() {
 
 fata_liste_X_pandunia() {
     #ali bax unodo
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$2 \"  \"}" > $2/$2-pandunia.md
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
     #morta unodi linye
     sed -i '1d' $2/$2-pandunia.md
     # alfobeta
@@ -27,7 +27,7 @@ fata_liste_X_pandunia() {
 
 fata_leksasli_liste() {
 #    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
     #morta unodi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
