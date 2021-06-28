@@ -94,21 +94,21 @@ Therefore the Roman alphabet is the obvious choice for the international languag
 
 ### Only five vowels
 
-English and Chinese have rich vowel inventories.
-English has 14-20 vowels. (The exact number depends on the dialect.)
-Standard Chinese has 9 vowels (and many more vowel qualities).
-These are comparatively high numbers considering that the global average of vowels is only 5-6 vowels.
+Pandunia has few vowels compared to both English and Chinese.
+There are 14-20 vowels in English (the exact number depends on the dialect)
+and 9 vowels in Standard Chinese.
 
-Pandunia has only 5 pure vowels: a, e, i, o, u.
-In this respect, it is close to languages like Spanish, Swahili, Japanese and Indonesian,
-which also have simple vowel inventories.
+Pandunia has only five pure vowels: a, e, i, o, u.
+The number is approximately the same as the global average, which is 5-6 vowels
+In this respect, Pandunia is close to languages like
+Spanish (5 vowels), Swahili (5 vowels), Japanese (5 vowels) and Indonesian (6 vowels).
 
 ### Common consonants
 
-Pandunia's consonant inventory is smaller than that of English and Mandarin.
-The majority of consonant letters are pronounced in the same way in all three languages.
-The table below shows how consonant sounds are mapped from Pandunia to English and Mandarin.
-Sounds that are in English or Mandarin but not in Pandunia are enclosed in parenthesis.
+Pandunia has also less consonants than English and Mandarin.
+Most consonant letters are pronounced in the same way in all three languages.
+The table below shows what consonant sounds correspond to each other in Pandunia, English and Mandarin.
+Sounds that are present in English or Mandarin but not in Pandunia are enclosed in parenthesis.
 
 |            | Pandunia    | English       | Mandarin Pinyin |
 |------------|-------------|---------------|-----------------|
@@ -116,31 +116,36 @@ Sounds that are in English or Mandarin but not in Pandunia are enclosed in paren
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquids    | l r y v     | l r y w       | l r y w (yü)    |
 | Sibilants  | s z sh      | s z sh (zh)   | s z* sh (x)     |
-| Fricatives | f h         | f h (v th dh) | f h             |
+| Fricatives | f h         | f h (v th th) | f h             |
 | Affricates | ch j        | ch j          | ch zh (q j c)   |
 
 
-### Simple syllable patterns
+### Easy to pronounce
 
-Syllable patterns are different across languages.
-For example in Japanese the heaviest syllable type is CVN,
-where C is a consonant, V is a vowel and N is a nasal consonant.
-This gives Japanese a very vocalic sound.
-English, on the other hand, can have very heavy syllables,
-for example "sprints" (CCCVNCC).
+A syllable consists of one core vowel and possible consonants.
+In some languages syllables are simpler than in others.
+For example in Japanese the heaviest syllables
+consist of an initial consonant, a vowel and a final nasal consonant.
+This is why Japanese sounds light and vocalic.
+In English, on the other hand, it is possible to cram many consonants in one syllable, as in
+"strict sprints".
 
 Pandunia is somewhere in the middle.
-Most of the words consist of simple CV syllables but also more complex syllables are allowed,
-especially for internationally known technical terms.
-For example **kristal** (crystal) is considered a complex word in Pandunia.
-More complex loan words can be dealt with in two ways.
+Most syllables are simple a-consonant-and-a-vowel pairs
+but also more complex syllables are allowed,
+especially in internationally known technical terms.
+For example **kristal** (crystal) is a complex word by Pandunia standards.
 
-1. Select a simpler variant from another language.
-   For example the word for "project" is taken from the French version: **proje**.
+There are two ways to simplify words that are too complex for the international language:
+
+1. Select a simpler variant of the same word from another language.
+   For example, the English word _project_ ends in two consonants
+   but the same word in Portuguese is _projeto_.
 2. Break the consonant clusters by adding vowels.
-   For example "sport" becomes **esporte**.
-   Many languages do something similar.
-   See Portuguese "esporte" and Japanese "supōtsu" for comparison.
+   For example, the English word _sport_ is too complex
+   but the same word in Portuguese is _esporte_,
+   which breaks the difficult consonant clusters in the beginning and end
+   by additional vowels.
 
 
 ### Regular spelling
@@ -164,22 +169,22 @@ letter. Every word is pronounced as it is written.
 
 ### Easy accent
 
-Texts in Pīnyīn are loaded with accent marks, as in "Wǒmen yě huì
-shuō zhōngguòhuá." They mark tones. In Standard Chinese each syllable
-is pronounced in one of the four tones or in the unmarked neutral
-tone.
+Texts in Pīnyīn are loaded with accent marks, as in
+"Wǒmen yě huì shuō zhōngguòhuá."
+They mark tones.
+In Standard Chinese, each syllable is pronounced in one of the four tones or in the unmarked neutral tone.
 
-English doesn't have word tones but it has word stress. Word stress
-is variable in English, so the position of stress is unpredictable.
-In a written expression like "totally fantastic personnel", nothing
-shows that each word has the stress on a different syllable. If the
-stress was marked with an accent, it might look something like this:
+English doesn't have word tones but it has word stress.
+Word stress is variable in English, so the position of stress is unpredictable.
+In a written expression like
+"totally fantastic personnel",
+nothing shows that each word has the stress on a different syllable.
+If the stress was marked on the vowels, it might look something like this:
 "tótally fantástic personnél".
 
-Tones are hard to learn for people who are not used to them. Variable
-stress is hard to learn for people who are used to fixed stress.
-Neither word tone nor variable word stress are necessary in the world
-language.
+Tones are hard to learn for people who are not used to them.
+Variable stress is hard to learn for people who are used to fixed stress.
+Neither word tone nor variable word stress are necessary in the world language.
 
 Pandunia doesn't have lexical tone,
 and it has fixed stress.
@@ -326,54 +331,117 @@ I jump over the high table.
  
 ## World words
 
-The basic personal pronouns in Pandunia are:
-**mo**
-= I,
-**ni**
-= you,
-**ta**
-= he, she.
-The first person pronoun
-**mo** is borrowed from English and French "me", where it is commonly pronounced.
-The second person pronoun
-**ni**
-is shared by several languages, including Standard Chinese "nǐ" and Tamil "nī".
-The third person pronoun
-**ta**
-is similar to Standard Chinese "tā",
-which has the notable benefit that it refers to both males and females as well as lifeless objects.
+Pandunia's words are international words.
+
+### The most frequent words
+
+The most frequent and the most basic words,
+like _me_, _you_, _one_, _two_, _be_ and _do_,
+are typically the oldest words in every language.
+They tend to be tend to be different from language to language,
+unless the languages belong to the same family.
+
+Therefore it's almost impossible to find international words,
+that are in common to unrelated languages in Africa, the Americas, Asia and Europe,
+for the most basic ideas.
+Still, we have tried.
+
+For example, the Pandunia word for one is **un**.
+It comes directly from the Romance languages,
+including French _un_, Spanish _uno_, and Portuguese _um_,
+but it can be recognized also as part of the international word _union_,
+which is known in every European language.
+
+### Personal pronouns
+
+The personal pronouns are among the most frequent words.
+They are very important words and so they should sound different from each other.
+
+The first-person pronoun often begins with M even in unrelated languages,
+for example English _me_, French _moi_, Spanish _me_, Hindi _main_, Finnish _minä_, Igbo _mụ_, Kongo _mono_, Swahili _mimi_, and Zulu _mina_.
+There is no agreement about the vowel.
+Pandunia uses O,
+as in Spanish _yo_ and Standard Chinese _wǒ_,
+resulting in **mo** (_I_, _me_).
+
+There are two international candidates for the second-person pronoun.
+The first one, _tu_, comes from the Indo-European family of languages,
+including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
+However, these words are familiar and informal
+and they can be considered offensive in many social situations.
+For example, you shouldn't address your superiors with these words.
+It wouldn't be good to import this kind of social baggage to the international language,
+so _tu_ is not chosen for Pandunia
+
+The second international second-person pronoun is **ni**
+from unrelated languages,
+including Standard Chinese _nǐ_, Cantonese _nei_, Korean _nʌ_, Tamil _nī_, and Swedish _ni_.
+These pronouns are informal in Korean and Tamil but formal in Swedish
+and neutral in Standard Chinese and Cantonese.
+So **ni** is chosen to Pandunia because it is international and mostly neutral.
+
+The Pandunia third-person pronoun is **ta**.
+It comes from Standard Chinese "tā".
+Although it's not an international word
+it has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
+So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 
 The plural and possessive pronouns follow the super simple patterns of Standard Chinese.
 
-| English | Pandunia | Chinese  |
-|---------|----------|----------|
-| my      | mo de    | wǒ de    |
-| your    | ni de    | nǐ de    |
-| his/her | ta de    | tā de    |
-| our     | momen de | wǒmen de |
-| your    | nimen de | nǐmen de |
-| their   | tamen de | tāmen de |
+Add **men** to form the plural:
 
-### World's word heritage
+| English    | Pandunia   | Chinese    |
+|------------|------------|------------|
+| I          | mo         | wǒ de      |
+| you        | ni         | nǐ de      |
+| he or she  | ta         | tā de      |
+| we         | momen      | wǒmen de   |
+| you all    | nimen      | nǐmen de   |
+| they       | tamen      | tāmen de   |
 
-English and Spanish carry the heritage of Latin and Greek, which have
-greatly influenced all languages of Europe, America and beyond,
-including French, Portuguese, Italian, German, Polish and Russian.
+Add **de** to form the possessive:
 
-Mandarin Chinese carries the Sinitic heritage of Old Chinese, which
-has greatly influenced all other East Asian languages, including
-Japanese, Korean, Vietnamese and other varieties of Chinese.
+| English    | Pandunia   | Chinese    |
+|------------|------------|------------|
+| my         | mo de      | wǒ de      |
+| your       | ni de      | nǐ de      |
+| his/her    | ta de      | tā de      |
+| our        | momen de   | wǒmen de   |
+| your       | nimen de   | nǐmen de   |
+| their      | tamen de   | tāmen de   |
 
-Hindi-Urdu carries the heritage of Sanskrit, which has influenced
-also all other languages of South and South-East Asia, including
-Bengali, Punjabi, Telugu, Tamil, Burmese, Khmer, Thai, Malay and
-Indonesian.
+The personal pronouns in Pandunia attain two important goals.
+The basic forms
+(**mo**, **ni**, **ta**)
+look and sound distinct.
+and the other forms are built in a systematic way.
+They are not only a bunch of randomly selected words.
 
-Arabic and Hindi-Urdu (Urdu more than Hindi) carry the Perso-Arabic
-heritage, which has greatly influenced languages in Central,
-South-West, South and South-East Asia and North, West and East
-Africa, including Turkish, Persian, Bengali, Punjabi, Telugu,
-Indonesian, Hausa, Wolof, Amharic, Oromo, Somali and Swahili.
+
+### Imitative words are global
+
+Words whose sound imitates the sound of the associated thing or action are remarkably similar from language to language.
+The cat says _miaow_, the goat says _bee_,
+and people say _yum_ when they eat and _atchoo_ when they sneeze
+everywhere in the world.
+The words are not always exactly the same in every language but they are close enough.
+
+This is why Pandunia has for example these basic global words:
+**mau**
+– cat  
+**be'e**
+– goat  
+**meme**
+– sheep  
+**mumu**
+– cow  
+**yam**
+– to eat
+**achi**
+– to sneeze  
+**rofi**
+– to snore
+
 
 ### Western words
  
@@ -445,12 +513,11 @@ in Korean!
 
 ## Easy sentences
 
-In this section we will compare the sentence structures of Pandunia
-with English and Chinese, the two most widely spoken languages of the
-world.
+In this section we will compare the sentence structures of Pandunia with English and Chinese,
+the two most widely spoken languages of the world.
 
-The normal sentence word order is subject-verb-object – just like in
-English and Chinese.
+The normal sentence word order is subject–verb–object
+– just like in English and Chinese.
 
     English:   I love you, and you love me.
     Pandunia:  mo ai ni, ni ai mo.
@@ -463,8 +530,8 @@ The auxiliary verb **be** is used when the object of the action comes first in t
     Pandunia:  aple be yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**beyu** is a loan word from Standard Chinese, but it is also close to
-some uses of English "to be".
+**be** is a loan word from Standard Chinese,
+but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
     Pandunia:  ta no kan be yam.
@@ -473,19 +540,20 @@ some uses of English "to be".
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me cinga le yama kafe.
+    Pandunia:  mo cing ta yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-In Pandunia and Chinese, nouns can be singular or plural depending
-on surrounding words. There's no plural ending like -s in English.
-Also verbs are not conjugated. One word, **si**, is used instead of
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
+There's no plural ending like -s in English.
+Also verbs are not conjugated.
+One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  le sa aple.
+    Pandunia:  ta si aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  les sa aple.
+    Pandunia:  tamen si aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
