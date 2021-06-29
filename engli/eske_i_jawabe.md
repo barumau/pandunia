@@ -366,7 +366,8 @@ Another example, Arabic uses a system of vowel infixes to convert consonant root
 Here are some Arabic words together with the same words in Pandunia.
 
 | Pandunia | Arabic | English meaning |
-|----------|---------|-----------------|| kitab- | k-t-b | the root related to writing | 
+|----------|---------|-----------------|
+| kitab-   | k-t-b | the root related to writing | 
 | kitaba   | kataba | to write |
 | kitabu   | kutiba | to be written |
 | kitabe   | kitāb | writing, text, book |
