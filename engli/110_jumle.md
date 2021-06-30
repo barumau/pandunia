@@ -193,6 +193,83 @@ This is done especially in commands and requests.
 (Word for word: _Request come home!_)
 
 
+## Questions
+
+### Yes-no questions
+
+_Yes-no_ questions those questions that expect 'yes' or 'no' as answer.
+The easiest way to form a yes-no question in Pandunia is to simply attach the particle
+**he**
+('eh', 'huh') to the end of a statement.
+
+**ni yam un piza.**
+– You eat a pizza. (statement)  
+**ni yam un piza, he?**
+– Do you eat a pizza? (question)
+
+It is also possible to use
+**no**
+('no', 'not') or
+**ya**
+('yes') instead of
+**he**
+to suggest the expected answer.
+
+**ni yam un piza, no?**
+– You eat a pizza, don't you?  
+**ni yam un piza, ya?**
+– You eat a pizza, right?
+
+The third way to ask a yes-no question is to contradict the verb
+with the _A-not-A_ structure.
+
+**ni yam no yam la piza?**
+– Do you or don't you eat the pizza?  
+**ni kan no kan yam la piza?**
+– Can you or can't you eat the pizza?
+
+Yes-no questions are answered with
+**ya**
+('yes') and
+**no**
+('no').
+
+**ni vide mo, he?**
+– Do you see me?  
+**ya. (mo ya vide ni.)**
+– Yes. (I _do_ see you.)  
+**no. (mo no vide ni.)**
+– No. (I don't see you.)
+
+Negative questions are answered so that
+**ya**
+and
+**no**
+apply to the verb, not the whole question.
+
+**ni no vide mo, he?**
+– Don't you see me?  
+**ya. (mo vide ni.)**
+– Yes. (I see you.)  
+**no. (mo no vide ni.)**
+– No. (I don't see you.)
+
+
+### Alternative questions
+
+Questions that offer alternatives end with the particle
+**he**
+that indicates that an answer is expected.
+The question is answered by repeating the chosen alternative.
+
+**ni yam un o du banana.**
+– You eat one or two bananas. (statement)  
+**ni yam un o du banana, he?**
+– Do you eat one or two bananas? (question)  
+**un.**
+– One.
+
+
 ## Relative clauses
 
 A relative clause is a subordinate clause that modifies a noun phrase, most commonly a noun.
@@ -332,32 +409,6 @@ Different scopes of negation may result depending on the location of the negativ
 – I do NOT ask you to clean the room.  
 **mo ching ni no safa kamar.**
 – I ask you NOT to clean the room.
-
-Words
-**ye**
-(_yes_) and
-**no**
-(_no_) are used for answering questions.
-
-**ni vide mo, no?**
-– Do you see me?  
-**ye. (mo ya vide ni.)**
-– Yes. (I indeed see you.)  
-**no. (mo no vide ni.)**
-– No. (I don't see you.)
-
-Negative questions are answered so that
-**ye**
-and
-**no**
-apply to the verb, not the whole question.
-
-**sual ni no vide mo?**
-– Don't you see me?  
-**ye. (mo vide ni.)**
-– Yes. (I see you.)  
-**no. (mo no vide ni.)**
-– No. (I don't see you.)
 
 
 ### Modifier particles

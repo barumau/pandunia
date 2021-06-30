@@ -392,12 +392,12 @@ Add **men** to form the plural:
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| I          | mo         | wǒ de      |
-| you        | ni         | nǐ de      |
-| he or she  | ta         | tā de      |
-| we         | momen      | wǒmen de   |
-| you all    | nimen      | nǐmen de   |
-| they       | tamen      | tāmen de   |
+| I          | mo         | wǒ         |
+| you        | ni         | nǐ         |
+| he or she  | ta         | tā         |
+| we         | momen      | wǒmen      |
+| you all    | nimen      | nǐmen      |
+| they       | tamen      | tāmen      |
 
 Add **de** to form the possessive:
 
