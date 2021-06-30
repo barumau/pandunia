@@ -7,7 +7,7 @@ They may consist of only one word, which draws the listener's attention.
 
 **mau!**
 – A cat!  
-**xava!**
+**shava!**
 – (It) rains!
 
 ## Stative Sentences
@@ -17,11 +17,11 @@ They may consist of only one word, which draws the listener's attention.
 Normally a sentence consists of a subject and a predicate.
 In the simplest sentences, the subject is a pronoun and the predicate is an adjective or a noun.
 
-**me bon.**
+**mo bon.**
 – I am good.  
-**le nove.**
+**ta nove.**
 – It is new.  
-**le Sara.**
+**ta Sara.**
 – She is Sara.
 
 When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
@@ -39,11 +39,11 @@ Then the verb **si** is not needed.
 
 | Positive         | Negative           |
 |------------------|--------------------|
-| **me bon.**      | **me no bon.**     |
+| **mo bon.**      | **mo no bon.**     |
 | I am good.       | I am not good.     |
-| **le nove.**     | **le no nove.**    |
+| **ta nove.**     | **ta no nove.**    |
 | It is new.       | It is not new.     |
-| **le Sara.**     | **le no Sara.**    |
+| **ta Sara.**     | **ta no Sara.**    |
 | She is Sarah.    | She is not Sarah.  |
 | **Sara si bon.** | **Sara no bon.**   |
 | Sarah is good.   | Sarah is not good. |
@@ -51,9 +51,9 @@ Then the verb **si** is not needed.
 
 Also two personal pronouns can be combined with **si** and **no**.
 
-**me si le.**
+**mo si ta.**
 – I am he/she.  
-**me no tu.**
+**mo no ni.**
 – I'm not you.
 
 
@@ -83,9 +83,9 @@ The correct word order is subject-verb-object (SVO).
 
 The following sentences are in SVO order.
 
-**me yam di apel.**
+**mo yam di apel.**
 – I eat some apples.  
-**me vide tu.**
+**mo vide ni.**
 – I see you.
 
 
@@ -98,7 +98,7 @@ Often the agent is not mentioned at all.
 
 In Pandunia, the passive voice is expressed with the particle **be**.
 
-**tu be vide.**
+**ni be vide.**
 – You are seen.  
 **musike be audi.**
 – Music is heard.  
@@ -109,8 +109,8 @@ In Pandunia, the passive voice is expressed with the particle **be**.
 
 The agent can be mentioned after the verb with or without the preposition **de**.
 
-**tu be vide de me.** - You are seen by me.  
-**me be vide de tu.** - I am seen by you.
+**ni be vide de mo.** - You are seen by me.  
+**mo be vide de ni.** - I am seen by you.
 
 
 
@@ -124,23 +124,23 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me vol tu yam di vege.**
+**mo vol ni yam di vege.**
 – I want you eat vegetables.
 
-In the example above, **me vol** has **tu** as its object.
-At the same time, **tu** functions as the subject of the following predicate, **yam di vege**.
-So **tu** is the _pivot_ of the entire sentence.
+In the example above, **mo vol** has **ni** as its object.
+At the same time, **ni** functions as the subject of the following predicate, **yam di vege**.
+So **ni** is the _pivot_ of the entire sentence.
 
 The first verb in a pivot structure is a modal verb,
 which indicates a modality such as advice, desire, permission or obligation.
 
-**me vol tu yam di vege.**
+**mo vol ni yam di vege.**
 – I want you to eat vegetables. (desire)  
-**me rai tu yam di vege.**
+**mo rai ni yam di vege.**
 – I think you to eat vegetables. (opinion)  
-**me las tu yam di vege.**
+**mo las ni yam di vege.**
 – I allow you to eat vegetables. (permission)  
-**me mus tu yam vege.**
+**mo mus ni yam vege.**
 – I compel you to eat vegetables. (obligation)  
 
 
@@ -149,11 +149,11 @@ which indicates a modality such as advice, desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **me gova dom.**
+1. **mo gou dom.**
    – I go home.  
-2. **me abla gova dom.**
+2. **mo kan gou dom.**
    – I can go home.  
-3. **me vol abla gova dom.**
+3. **mo vol kan gou dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -161,15 +161,15 @@ The last verb in the series is the main verb.
 The verbs before it are modal verbs,
 which that indicate a modality such as likelihood, ability, advice, permission, desire, or obligation.
 
-**tu kan yam di vege.**
+**ni kan yam di vege.**
 – You can eat vegetables. (ability)  
-**tu xude yam di vege.**
+**ni xude yam di vege.**
 – You had better eat vegetables. (advice)  
-**tu las yam di vege.**
+**ni las yam di vege.**
 – You may eat vegetables. (permission)  
-**tu vol yam di vege.**
+**ni vol yam di vege.**
 – You want to eat vegetables. (desire)  
-**tu mus yam di vege.**
+**ni mus yam di vege.**
 – You must eat vegetables. (obligation)  
 
 ## Pronoun dropping
@@ -179,16 +179,16 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me suala tu baxa pandunia.**
+**mo sual ni basha pandunia.**
 – I ask do you speak Pandunia.  
-**suala tu baxa pandunia?**
+**sual ni basha pandunia?**
 – Do you speak Pandunia?
 
 ### Short pivot structure (VVO)
 
-**me cing tu lai dom.**
+**mo ching ni lai dom.**
 – I ask you to come home.  
-**cing lai dom!**
+**ching lai dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -240,20 +240,20 @@ It's possible to use relative pronouns or the reduced relative clause structure.
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**_di_ jan, me vide _de_ kitaba buke, padu.**
+**_di_ jan, mo vide _de_ kitaba buke, padu.**
 – The person, whom I see write the book, falls.  
-**jan, me vide kitaba buke, padu.**
+**jan, mo vide kitaba buke, padu.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**_di_ jan, me kitaba buke ya _de_ du kalam, padu.**
+**_di_ jan, mo kitaba buke ya _de_ du kalam, padu.**
 – The person whose pen I write the book with falls.  
 
 Finally, a content clause can also involve **de**,
 which refers back to the previous phrase.
 
-**jan kitaba buke, de sa hami.**
+**jan kitaba buke, de si hami.**
 – The person writes a book, which is important.
 
 However, it is unclear whethere **de** (_which_) refers to only the book
@@ -262,7 +262,7 @@ It can be clarified by an expression like
 **di fate**
 (_the fact_).
 
-**jan kitaba buke, di fate sa hami.**
+**jan kitaba buke, di fate si hami.**
 – The fact that the person writes the book is important.
 
 
@@ -275,11 +275,11 @@ It can be clarified by an expression like
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku mau e vaf.**
+**mo suku mau e vaf.**
 – I like cats and dogs.  
-**me suku mau o vaf.**
+**mo suku mau o vaf.**
 – I like cats or dogs.  
-**me suku mau a no vaf.**
+**mo suku mau a no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -292,45 +292,45 @@ It can be clarified by an expression like
 
 Expressions are affirmative by default.
 
-**me sa xef.**
+**mo si shefe.**
 – I am the boss.  
-**le sa novi meze.**
+**ta si nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**yo**
+**ya**
 (_indeed_).
 
-**me yo sa xef.**
+**mo ya si shefe.**
 – I indeed am the boss.  
-**le yo sa novi meze.**
+**ta ya si nove meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**le no sa xef.**
+**ta no si shefe.**
 – He is not the boss.  
-**le no sa novi meze.**
+**ta no si nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-**me vide tu.**
+**mo vide ni.**
 – I see you.  
-**me no vide tu.**
+**mo no vide ni.**
 – I don't see you.  
-**me vide no tu a lole.**
+**mo vide no ni a tamen.**
 – I see, not you, but them.
 
-**me cing tu safa kamar.**
+**mo ching ni safa kamar.**
 – I ask you to clean the room.  
-**me no cing tu safa kamar.**
+**mo no ching ni safa kamar.**
 – I do NOT ask you to clean the room.  
-**me cing tu no safa kamar.**
+**mo ching ni no safa kamar.**
 – I ask you NOT to clean the room.
 
 Words
@@ -339,11 +339,11 @@ Words
 **no**
 (_no_) are used for answering questions.
 
-**suala tu vide me?**
+**ni vide mo, no?**
 – Do you see me?  
-**ye. (me yo vide tu.)**
+**ye. (mo ya vide ni.)**
 – Yes. (I indeed see you.)  
-**no. (me no vide tu.)**
+**no. (mo no vide ni.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -352,11 +352,11 @@ and
 **no**
 apply to the verb, not the whole question.
 
-**suala tu no vide me?**
+**sual ni no vide mo?**
 – Don't you see me?  
-**ye. (me vide tu.)**
+**ye. (mo vide ni.)**
 – Yes. (I see you.)  
-**no. (me no vide tu.)**
+**no. (mo no vide ni.)**
 – No. (I don't see you.)
 
 
@@ -388,7 +388,7 @@ It indicates that the next word has possession of the previous one.
 
 It's possible to use **da** and **du** with personal pronouns too,
 so one can say things like
-**dom da me** (_the house of mine_)
+**dom da mo** (_the house of mine_)
 but it's better to use the short possessive pronouns and say simply
 **mi dom** (_my house_).
 
@@ -445,20 +445,20 @@ In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **ceno** (past), **zayo** (present) and **poso** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**me ceno ha mau.**
+**mo ceno ha mau.**
 – I had cats.  
-**a me no zayo ha mau.**
+**a mo no zayo ha mau.**
 – But I now don't have cats.  
-**ablo me poso ha mau.**
+**ablo mo poso ha mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **ya censate** (in the past) etc.
 
-**me ha mau ya censate.**
+**mo ha mau ya censate.**
 – I had cats in the past.  
-**a me no ha mau ya zaisate.**
+**a mo no ha mau ya zaisate.**
 – But I don't have cats at present.  
-**ablo me ha mau ya pososate.**
+**ablo mo ha mau ya pososate.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
