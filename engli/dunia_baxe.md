@@ -190,7 +190,7 @@ Pandunia doesn't have lexical tone,
 and it has fixed stress.
 The stress falls on the syllable before the last consonant.
 Like this:
-**hálo! mó vól lóge la bón dúnia básha.**
+**hálo! mí vól lóge le bón dúnia básha.**
 (_Hello! I want to speak the good world language._)
 
 
@@ -359,31 +359,18 @@ They are very important words and so they should sound different from each other
 
 The first-person pronoun often begins with M even in unrelated languages,
 for example English _me_, French _moi_, Spanish _me_, Hindi _main_, Finnish _minä_, Igbo _mụ_, Kongo _mono_, Swahili _mimi_, and Zulu _mina_.
-There is no agreement about the vowel.
-Pandunia uses O,
-as in Spanish _yo_ and Standard Chinese _wǒ_,
-resulting in **mo** (_I_, _me_).
+In Pandunia it is **mi** (_I_, _me_).
 
-There are two international candidates for the second-person pronoun.
-The first one, _tu_, comes from the Indo-European family of languages,
+The second-person pronoun
+**tu**
+comes from the Indo-European family of languages,
 including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
-However, these words are familiar and informal
-and they can be considered offensive in many social situations.
-For example, you shouldn't address your superiors with these words.
-It wouldn't be good to import this kind of social baggage to the international language,
-so _tu_ is not chosen for Pandunia
+In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
 
-The second international second-person pronoun is **ni**
-from unrelated languages,
-including Standard Chinese _nǐ_, Cantonese _nei_, Korean _nʌ_, Tamil _nī_, and Swedish _ni_.
-These pronouns are informal in Korean and Tamil but formal in Swedish
-and neutral in Standard Chinese and Cantonese.
-So **ni** is chosen to Pandunia because it is international and mostly neutral.
-
-The Pandunia third-person pronoun is **ta**.
-It comes from Standard Chinese "tā".
-Although it's not an international word
-it has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
+The Pandunia third-person pronoun is **ya**.
+It is inspired by many languages, including
+Malay _ia_, Hindi यह (yah), Swahili _yeye_ and Nigerian Igbo _ya_.
+It has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
 So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 
 The plural and possessive pronouns follow the super simple patterns of Standard Chinese.
@@ -392,31 +379,33 @@ Add **men** to form the plural:
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| I          | mo         | wǒ         |
-| you        | ni         | nǐ         |
-| he or she  | ta         | tā         |
-| we         | momen      | wǒmen      |
-| you all    | nimen      | nǐmen      |
-| they       | tamen      | tāmen      |
+| I          | mi         | wǒ         |
+| you        | tu         | nǐ         |
+| he or she  | ya         | tā         |
+| we         | mimen      | wǒmen      |
+| you all    | tumen      | nǐmen      |
+| they       | yamen      | tāmen      |
 
-Add **de** to form the possessive:
+Add **di** to form the possessive:
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mo de      | wǒ de      |
-| your       | ni de      | nǐ de      |
-| his/her    | ta de      | tā de      |
-| our        | momen de   | wǒmen de   |
-| your       | nimen de   | nǐmen de   |
-| their      | tamen de   | tāmen de   |
+| my         | mi di      | wǒ de      |
+| your       | tu di      | nǐ de      |
+| his/her    | ya di      | tā de      |
+| our        | mimen di   | wǒmen de   |
+| your       | tumen di   | nǐmen de   |
+| their      | yamen di   | tāmen de   |
 
-The personal pronouns in Pandunia attain two important goals.
-The basic forms
-(**mo**, **ni**, **ta**)
-look and sound distinct.
-and the other forms are built in a systematic way.
-They are not only a bunch of randomly selected words.
+The personal pronouns in Pandunia attain three important goals.
 
+1. The basic pronouns
+   (**mi**, **tu**, **ya**)
+   look and sound distinct.
+2. The plural and possessive pronouns are built in a systematic way.
+   They are not only a bunch of dissimilar words.
+3. The words are international
+   and come from different language families.
 
 ### Imitative words are global
 
@@ -439,7 +428,7 @@ This is why Pandunia has for example these basic global words:
 – to eat
 **achi**
 – to sneeze  
-**rofi**
+**ronfi**
 – to snore
 
 
@@ -520,7 +509,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mo ai ni, ni ai mo.
+    Pandunia:  mi ai tu, tu ai mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb **be** is used when the object of the action comes first in the sentence.
@@ -534,26 +523,26 @@ The auxiliary verb **be** is used when the object of the action comes first in t
 but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ta no kan be yam.
+    Pandunia:  ya no kan be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mo cing ta yam kafe.
+    Pandunia:  mi cing ya yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
-One word, **si**, is used instead of
+One word, **e**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ta si aple.
+    Pandunia:  ya e aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  tamen si aple.
+    Pandunia:  yamen e aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

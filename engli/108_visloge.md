@@ -6,11 +6,11 @@ Pronouns can substitute nouns and noun phrases.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mo**      | **momen**    |
+| **mi**      | **mimen**    |
 | I, me       | we           |
-| **ni**      | **nimen**    |
+| **tu**      | **tumen**    |
 | you         | you all      |
-| **ta**      | **tamen**    |
+| **ya**      | **yamen**    |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
@@ -19,11 +19,11 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mo de**   | **momen de** |
+| **mi di**   | **mimen di** |
 | my          | our          |
-| **ni de**   | **nimen de** |
+| **tu di**   | **tumen di** |
 | your        | your         |
-| **ta de**   | **tamen de** |
+| **ya di**   | **yamen di** |
 | his or her  | their        |
 
 
@@ -37,11 +37,11 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 Note! The same reflexive pronoun is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mo vide se**
+**mi vide se**
 – I see myself.  
-**ta vide se**
+**ya vide se**
 – She sees herself. / He sees himself. / It sees itself.  
-**momen vide se.**
+**mimen vide se.**
 – We see ourselves.
 
 The word **semen** is used as the reciprocal pronoun.
@@ -49,9 +49,9 @@ The word **semen** is used as the reciprocal pronoun.
 **semen**
 – each other, one another
 
-**mo e tu vide semen.**
+**mi e tu vide semen.**
 – Me and you see each other.  
-**momen vide semen.**
+**mimen vide semen.**
 – We see each other.
 
 
@@ -70,23 +70,23 @@ and the form that ends in **-i** is used when the demonstrative modifies a noun.
 The proximal demonstrative **ya** points to things that are near the speaker.
 The distal demonstrative **va** points to things that are far from the speaker.
 
-**ya si bon.**
+**ya e bon.**
 – This is good.  
-**va si dus.**
+**va e dus.**
 – That is bad.  
-**mo vol ya buke, no va.**
+**mi vol ya buke, no va.**
 – I want this book, not that.
 
 The basic proximal and distal pronouns are used for introducing a new object.
-The topical demonstrative **ta**, on the other hand,
+The topical demonstrative **ya**, on the other hand,
 does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ya si mau. ta vola yam va mux.**
+**ya e mau. ya vola yam va mux.**
 – This is a cat. It wants to eat that mouse.
 
-**mo male un mau e un vaf. li vaf si dai. ta yam pol yam.**
+**mi male un mau e un vaf. li vaf e dai. ya yam pol yam.**
 – I own a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -94,18 +94,18 @@ and it is known by the audience or is topical within the discourse.
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**ta** refers to things previously spoken,
+**ya** refers to things previously spoken,
 **ya** refers to things currently being spoken,
 and **va** refers to things about to be spoken.
 
-**ya jumle si korti.**
+**ya jumle e korti.**
 – This sentence is short.
 
 In the above, **ya jumle** (_this sentence_) refers to the sentence being spoken.
 
-**mo mena va: mo ai ni.**
+**mi mena va: mi ai tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mo ai ni. ta mo mena.**
+**mi ai tu. ya mi mena.**
 – I love you. That is what I mean.
 
 In the above, the pronoun **va** refers to the content of the next statement
@@ -146,7 +146,7 @@ Also adjectives are questioned with **ko**.
 **ko lili?**
 – How small?
 
-**ni tena ko dai mau?**
+**tu tena ko dai mau?**
 – How big cat do you have?
 
 

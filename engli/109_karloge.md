@@ -8,25 +8,25 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**si**
+**e**
 ('to be') has the same form for all persons.
 
-**_mo_ si doste.**
+**_mi_ e doste.**
 – I am a friend.  
-**_ni_ si doste.**
+**_tu_ e doste.**
 – You are a friend.  
-**_ta_ si doste.**
+**_ya_ e doste.**
 – He or she is a friend.  
-**_momen_ si doste.**
+**_mimen_ e doste.**
 – We are friends.  
-**_nimen_ si doste.**
+**_tumen_ e doste.**
 – You are friends.  
-**_tamen_ si doste.**
+**_yamen_ e doste.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau si zou.**
+**mau e zou.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -35,14 +35,14 @@ It is particularly helpful when the subject and the verb are content words
 that could serve as both.
 The marker is typically a particle or an auxiliary verb.
 One of the many suitable markers is
-**ya**
+**ye**
 ('yes'),
 which adds no content to the sentence
 but helps to clarify its structure.
 
-**peshe si mau yam.**
+**peshe e mau yam.**
 – Fish is catfood.  
-**mau _ya_ yam la peshe.**
+**mau _ye_ yam le peshe.**
 – The cat eats fish.
 
 Other suitable markers include auxiliaries of time and mood,

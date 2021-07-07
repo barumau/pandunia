@@ -9,17 +9,17 @@ They are described in more detail later in this document.
    Only the small letters are required.
 2. The stress accent is on the syllable before the last consonant of the word.
 3. The personal pronons are:
-   **mo**
+   **mi**
    – I,
-   **ni**
+   **tu**
    – only you,
-   **ta**
+   **ya**
    – he or she,
-   **momen**
+   **mimen**
    – we,
-   **nimen**
+   **tumen**
    – you all,
-   **tamen**
+   **yamen**
    – they,
    **men**
    – one (_impersonal pronoun_)
@@ -38,26 +38,26 @@ They are described in more detail later in this document.
    All adverbs consist of a _grade adverb_ and an adjective.
     - **tre bon**
       – very good or very well
-    - **ta tre bon loge.**
-      = **le loge tre bon.**
+    - **ya tre bon loge.**
+      = **ya loge tre bon.**
       – He or she speaks very well.
 7. The normal word order is subject–verb–object.
-    - **mo ai ni.**
+    - **mi ai tu.**
       – I love you.
-    - **mo loge la pandunia.**
+    - **mi loge le pandunia.**
       – I speak Pandunia.
 8. A passive sentence is created with the help of the passive auxiliary verb **be**.
    A similar effect can be also reached with the impersonal pronoun **men**.
     - **pandunia be loge.**
       – Pandunia is spoken.
-    - **men loge la pandunia.**
+    - **men loge le pandunia.**
       – One speaks Pandunia.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the following verb.
-    - **mo cing ni loge la pandunia.**
+    - **mi cing tu loge le pandunia.**
       – I ask you to speak Pandunia.
 10. Pronouns can be left out when they are obvious and redundant.
-    - **_mo_ cing _ni_ loge la pandunia.** → **cing loge la pandunia.**
+    - **_mi_ cing _tu_ loge le pandunia.** → **cing loge le pandunia.**
       – Please speak Pandunia.
 11. Compound words are made by combining the elements that form them.
    The main word stands at the end.
