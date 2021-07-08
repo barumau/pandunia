@@ -7,7 +7,7 @@ They may consist of only one word, which draws the listener's attention.
 
 **mau!**
 – A cat!  
-**barxa!**
+**shava!**
 – (It) rains!
 
 ## Stative Sentences
@@ -15,57 +15,55 @@ They may consist of only one word, which draws the listener's attention.
 ### With noun or pronoun subject
 
 Normally a sentence consists of a subject and a predicate.
-In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective or a noun.
+In the simplest sentences, the subject is a pronoun and the predicate is an adjective or a noun.
 
-**me boni.**
+**mi bon.**
 – I am good.  
-**le novi.**
+**ya nove.**
 – It is new.  
-**le Sara.**
-– She is Sara.  
-**Sara boni.**
+**ya Sara.**
+– She is Sara.
+
+When the subject is a noun, the connecting verb **e** (_to be_) is necessary.
+
+
+**Sara e bon.**
 – Sara is good.  
-**petre dayi.**
-– The stone is big.  
-**meze novi.**
-– The table is new.  
+**petre e dai.**
+– Stones are big.  
+**meza e nove.**
+– The table is new.
 
 The word **no** is added to form the negative.
+Then the verb **e** is not needed.
 
-**me no boni.**
-– I'm not good.  
-**le no novi.**
-– It's not new.  
-**le no Sara.**
-– She is not Sara.
+| Positive         | Negative           |
+|------------------|--------------------|
+| **mi bon.**      | **mi no bon.**     |
+| I am good.       | I am not good.     |
+| **ya nove.**     | **ya no nove.**    |
+| It is new.       | It is not new.     |
+| **ya Sara.**     | **ya no Sara.**    |
+| She is Sarah.    | She is not Sarah.  |
+| **Sara e bon.** | **Sara no bon.**   |
+| Sarah is good.   | Sarah is not good. |
 
-It is possible to add the word **sa** (to be) before the predicate in positive sentences,
-for style or for convenience.
-Then the structure is similar like in negative sentences.
 
-**Sara sa boni.**
-– Sara is good.  
-**petre sa dayi.**
-– The stone is big.  
-**meze sa novi.**
-– The table is new.  
-**meze no purani.**
-– The table is not old.
+Also two personal pronouns can be combined with **e** and **no**.
 
-Also two personal pronouns can be combined with **si** and **no**.
-
-**me sa le.**
+**mi e ya.**
 – I am he/she.  
-**me no sa te.**
+**mi no tu.**
 – I'm not you.
+
 
 ### With adjective subject
 
 The same rule applies also for two adjectives.
 
-**jovani sa sundari.**
+**jovan e sundar.**
 – Young is beautiful.  
-**novi no sa purani.**
+**nove no puran.**
 – New is not old.  
 
 ### With verb subject
@@ -73,8 +71,8 @@ The same rule applies also for two adjectives.
 A verb can't be subject as such.
 So the verb is first, use **de** to start a comment about the verb.
 
-**canta, de sa boni.**
-– Singing, that is good. (Singing is good.)
+**cante e bon.**
+– Singing is good. (Singing is good.)
 
 
 ## Active Sentences
@@ -83,14 +81,11 @@ An active sentence is a sentence where the subject does the action denoted by th
 The focus is on the subject as the active participant.
 The correct word order is subject-verb-object (SVO).
 
-In Pandunia, active verbs are easy to identify because all of them end in **-a**.
-
-
 The following sentences are in SVO order.
 
-**me yama aple.**
-– I eat apples.  
-**me vida te.**
+**mi yam di apel.**
+– I eat some apples.  
+**mi vide tu.**
 – I see you.
 
 
@@ -101,30 +96,22 @@ that is a passive recipient that undergoes the action.
 So the recipient is the subject of the sentence.
 Often the agent is not mentioned at all.
 
-In Pandunia, the passive voice is expressed with the verb ending in **-u**.
-The word order is subject–verb–(optional object) or, more precisely,
-recipient–verb–(optional agent).
+In Pandunia, the passive voice is expressed with the particle **be**.
 
-**te vidu.**
+**tu be vide.**
 – You are seen.  
-**musike audu.**
+**musike be audi.**
 – Music is heard.  
-**pang beku.**
+**pan be bake.**
 – Bread is baked.  
-**kope parcu.**
-– Cup breaks. (Cup gets broken.)
+**kope be parce.**
+– The cup is broken.
 
-The agent can be mentioned after the verb with or without the preposition **da**.
+The agent can be mentioned after the verb with or without the preposition **de**.
 
-**te vidu me.** - You are seen by me.  
-**te vidu da me.** - You are seen by me.
+**tu be vide de mi.** - You are seen by me.  
+**mi be vide de tu.** - I am seen by you.
 
-Sometimes a passive verb can be translated with an active verb in English.
-That is sometimes the case with **suku**, which means _to be pleased by_ (a passive verb) or _to like_ (an active verb).
-That is because the direction of pleasing is from the active doer to the passive recipient.
-
-**me suku musike.**
-– I am pleased by music. / I like music.
 
 
 ## Pivot structure
@@ -137,23 +124,23 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me vola te yama vejete.**
+**mi vol tu yam di vege.**
 – I want you eat vegetables.
 
-In the example above, **me vola** has **te** as its object.
-At the same time, **te** functions as the subject of the following predicate, **yama vejete**.
-So **te** is the _pivot_ of the entire sentence.
+In the example above, **mi vol** has **tu** as its object.
+At the same time, **tu** functions as the subject of the following predicate, **yam di vege**.
+So **tu** is the _pivot_ of the entire sentence.
 
 The first verb in a pivot structure is a modal verb,
 which indicates a modality such as advice, desire, permission or obligation.
 
-**me vola te yama vejete.**
+**mi vol tu yam di vege.**
 – I want you to eat vegetables. (desire)  
-**me sela te yama vejete.**
-– I advice you to eat vegetables. (advice)  
-**me halala te yama vejete.**
+**mi rai tu yam di vege.**
+– I think you to eat vegetables. (opinion)  
+**mi las tu yam di vege.**
 – I allow you to eat vegetables. (permission)  
-**me musa te yama vejete.**
+**mi mus tu yam vege.**
 – I compel you to eat vegetables. (obligation)  
 
 
@@ -162,11 +149,11 @@ which indicates a modality such as advice, desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **me gova dom.**
+1. **mi gou dom.**
    – I go home.  
-2. **me abla gova dom.**
+2. **mi kan gou dom.**
    – I can go home.  
-3. **me vola abla gova dom.**
+3. **mi vol kan gou dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -174,15 +161,15 @@ The last verb in the series is the main verb.
 The verbs before it are modal verbs,
 which that indicate a modality such as likelihood, ability, advice, permission, desire, or obligation.
 
-**te abla yama vejete.**
+**tu kan yam di vege.**
 – You can eat vegetables. (ability)  
-**te selu yama vejete.**
+**tu xude yam di vege.**
 – You had better eat vegetables. (advice)  
-**te halalu yama vejete.**
+**tu las yam di vege.**
 – You may eat vegetables. (permission)  
-**te vola yama vejete.**
+**tu vol yam di vege.**
 – You want to eat vegetables. (desire)  
-**te musu yama vejete.**
+**tu mus yam di vege.**
 – You must eat vegetables. (obligation)  
 
 ## Pronoun dropping
@@ -192,18 +179,95 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me suala te baxa pandunia.**
+**mi sual tu basha pandunia.**
 – I ask do you speak Pandunia.  
-**suala te baxa pandunia?**
-– Do you speak Pandunia.
+**sual tu basha pandunia?**
+– Do you speak Pandunia?
 
 ### Short pivot structure (VVO)
 
-**me cinga te laya dom.**
+**mi ching tu lai dom.**
 – I ask you to come home.  
-**cinga laya dom!**
+**ching lai dom!**
 – Please come home!
 (Word for word: _Request come home!_)
+
+
+## Questions
+
+### Yes-no questions
+
+_Yes-no_ questions those questions that expect 'yes' or 'no' as answer.
+The easiest way to form a yes-no question in Pandunia is to simply attach the particle
+**he**
+('eh', 'huh') to the end of a statement.
+
+**tu yam un piza.**
+– You eat a pizza. (statement)  
+**tu yam un piza, he?**
+– Do you eat a pizza? (question)
+
+It is also possible to use
+**no**
+('no', 'not') or
+**ye**
+('yes') instead of
+**he**
+to suggest the expected answer.
+
+**tu yam un piza, no?**
+– You eat a pizza, don't you?  
+**tu yam un piza, ye?**
+– You eat a pizza, right?
+
+The third way to ask a yes-no question is to contradict the verb
+with the _A-not-A_ structure.
+
+**tu yam no yam le piza?**
+– Do you or don't you eat the pizza?  
+**tu kan no kan yam le piza?**
+– Can you or can't you eat the pizza?
+
+Yes-no questions are answered with
+**ye**
+('yes') and
+**no**
+('no').
+
+**tu vide mi, he?**
+– Do you see me?  
+**ye. (mi ye vide tu.)**
+– Yes. (I _do_ see you.)  
+**no. (mi no vide tu.)**
+– No. (I don't see you.)
+
+Negative questions are answered so that
+**ye**
+and
+**no**
+apply to the verb, not the whole question.
+
+**tu no vide mi, he?**
+– Don't you see me?  
+**ye. (mi vide tu.)**
+– Yes. (I see you.)  
+**no. (mi no vide tu.)**
+– No. (I don't see you.)
+
+
+### Alternative questions
+
+Questions that offer alternatives end with the particle
+**he**
+that indicates that an answer is expected.
+The question is answered by repeating the chosen alternative.
+
+**tu yam un o du banana.**
+– You eat one or two bananas. (statement)  
+**tu yam un o du banana, he?**
+– Do you eat one or two bananas? (question)  
+**un.**
+– One.
 
 
 ## Relative clauses
@@ -245,28 +309,28 @@ when the relativized noun is the subject of the relative clause.
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**_di_ kalam, ya _de_ jan kitaba buke, padu.**
+**_di_ kalam, a _de_ jan kitaba buke, padu.**
 – _That_ pen, with _which_ the person writes the book, falls.  
-**kalam, jan kitaba buke ya, padu.**
+**kalam, jan kitaba buke a, padu.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**_di_ jan, me vida _de_ kitaba buke, padu.**
+**_di_ jan, mi vide _de_ kitaba buke, padu.**
 – The person, whom I see write the book, falls.  
-**jan, me vida kitaba buke, padu.**
+**jan, mi vide kitaba buke, padu.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**_di_ jan, me kitaba buke ya _de_ du kalam, padu.**
+**_di_ jan, mi kitaba buke a _de_ du kalam, padu.**
 – The person whose pen I write the book with falls.  
 
 Finally, a content clause can also involve **de**,
 which refers back to the previous phrase.
 
-**jan kitaba buke, de sa hami.**
+**jan kitaba buke, de e hami.**
 – The person writes a book, which is important.
 
 However, it is unclear whethere **de** (_which_) refers to only the book
@@ -275,7 +339,7 @@ It can be clarified by an expression like
 **di fate**
 (_the fact_).
 
-**jan kitaba buke, di fate sa hami.**
+**jan kitaba buke, di fate e hami.**
 – The fact that the person writes the book is important.
 
 
@@ -288,11 +352,11 @@ It can be clarified by an expression like
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku mau e vaf.**
+**mi suku mau e vaf.**
 – I like cats and dogs.  
-**me suku mau o vaf.**
+**mi suku mau o vaf.**
 – I like cats or dogs.  
-**me suku mau a no vaf.**
+**mi suku mau a no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -305,72 +369,46 @@ It can be clarified by an expression like
 
 Expressions are affirmative by default.
 
-**me sa xef.**
+**mi e shefe.**
 – I am the boss.  
-**le sa novi meze.**
+**ya e nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**yo**
+**ye**
 (_indeed_).
 
-**me yo sa xef.**
+**mi ye e shefe.**
 – I indeed am the boss.  
-**le yo sa novi meze.**
+**ya ye e nove meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**le no sa xef.**
+**ya no e shefe.**
 – He is not the boss.  
-**le no sa novi meze.**
+**ya no e nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-**me vida te.**
+**mi vide tu.**
 – I see you.  
-**me no vida te.**
+**mi no vide tu.**
 – I don't see you.  
-**me vida no te a lole.**
+**mi vide no tu a yamen.**
 – I see, not you, but them.
 
-**me cinga te safa kamar.**
+**mi ching tu safa kamar.**
 – I ask you to clean the room.  
-**me no cinga te safa kamar.**
+**mi no ching tu safa kamar.**
 – I do NOT ask you to clean the room.  
-**me cinga te no safa kamar.**
+**mi ching tu no safa kamar.**
 – I ask you NOT to clean the room.
-
-Words
-**ye**
-(_yes_) and
-**no**
-(_no_) are used for answering questions.
-
-**suala te vida me?**
-– Do you see me?  
-**ye. (me yo vida te.)**
-– Yes. (I indeed see you.)  
-**no. (me no vida te.)**
-– No. (I don't see you.)
-
-Negative questions are answered so that
-**ye**
-and
-**no**
-apply to the verb, not the whole question.
-
-**suala te no vida me?**
-– Don't you see me?  
-**ye. (me vida te.)**
-– Yes. (I see you.)  
-**no. (me no vida te.)**
-– No. (I don't see you.)
 
 
 ### Modifier particles
@@ -401,7 +439,7 @@ It indicates that the next word has possession of the previous one.
 
 It's possible to use **da** and **du** with personal pronouns too,
 so one can say things like
-**dom da me** (_the house of mine_)
+**dom da mi** (_the house of mine_)
 but it's better to use the short possessive pronouns and say simply
 **mi dom** (_my house_).
 
@@ -458,20 +496,20 @@ In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **ceno** (past), **zayo** (present) and **poso** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**me ceno ha mau.**
+**mi ceno ha mau.**
 – I had cats.  
-**a me no zayo ha mau.**
+**a mi no zayo ha mau.**
 – But I now don't have cats.  
-**ablo me poso ha mau.**
+**ablo mi poso ha mau.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **ya censate** (in the past) etc.
+It's also possible to say it in a longer way like **a censate** (in the past) etc.
 
-**me ha mau ya censate.**
+**mi ha mau a censate.**
 – I had cats in the past.  
-**a me no ha mau ya zaisate.**
+**a mi no ha mau a zaisate.**
 – But I don't have cats at present.  
-**ablo me ha mau ya pososate.**
+**ablo mi ha mau a pososate.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

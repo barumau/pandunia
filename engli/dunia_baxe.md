@@ -2,53 +2,49 @@
  
 ## Introduction
 
-This article describes why and how Pandunia was created to be an
-equally global auxiliary language.
+This article describes why and how Pandunia was created
+to be an equally global auxiliary language.
 
 ## The big picture
 
-Many people are used to seeing this kind of world map. It is the
-famous _Mercator projection_ map. Unfortunately it distorts the land
-area terribly.
+Many people are used to seeing this kind of world map.
+It is the famous _Mercator projection_ map.
+Unfortunately it distorts the land area terribly.
 
 ![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
 
-Why is that? The world is a 3-dimensional globe and drawing it into a
-flat, 2-dimensional map is not easy. Equal-area projections, such as
-the _Equal Earth projection_ below, show land areas correctly. Compare the
-sizes of Greenland and Africa in these two maps. In the Mercator
-projection Greenland appears bigger, but the Equal Earth projection shows
-correctly that in reality Africa is 14 times bigger than Greenland.
+Why is that? The world is a 3-dimensional globe and drawing it into a flat, 2-dimensional map is not easy.
+Equal-area projections, such as the _Equal Earth projection_ below,
+show land areas correctly.
+Compare the sizes of Greenland and Africa in these two maps.
+In the Mercator projection Greenland appears bigger,
+but the Equal Earth projection shows correctly that in reality Africa is 14 times bigger than Greenland.
 
 ![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
 
-That is the natural world. We live also in a human world, which is
-divided by borders between nations. In a normal map of world
-countries, sizes of the countries are defined by their geographic
-area.
+That is the natural world.
+We live also in a human world, which comprises of nations that are divided by borders.
+In a normal map of countries of the world, sizes of the countries are defined by their geographic area.
 
 ![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Map by area")
 
-However the map projection below is based on the population of
-countries, not their geographic area.
+However the map projection below is based on the population of countries, not on their geographic area.
 
 ![](http://www.pandunia.info/grafe/karte_da_insania.png "Map by Population 2018")
 
 In our opinion the world language should represent the human world.
-Every part of the world, every culture, should be treated fairly and
-democratically. The grammar should be easy for all. Areal language
-characteristics such as [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European)
-are not suitable guidelines for the world language. Rather the
-grammar should be built from things that are universally known and/or
-universally considered easy.
+Every part of the world, every culture, should be treated fairly and democratically.
+The grammar should be easy for all.
+Areal linguistic characteristics, such as [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European),
+are not suitable guidelines for the world language.
+Instead, the grammar should be built from things that are universally known and/or universally considered easy.
 
 
 ## Languages of the world and world languages
 
-The 15 most widely spoken languages in the world are listed in the
-table below. The table is ordered by the number of native speakers.
-The numbers are educated estimates based on data in Ethnologue and in
-Wikipedia.
+The fifteen most widely spoken languages in the world are listed in the table below.
+The table is ordered by the number of native speakers.
+The numbers are educated estimates based on data in Ethnologue and Wikipedia.
 
 | Ranking | Language         | Native speakers | Non-native speakers |
 |:-------:|:-----------------|----------------:|--------------------:|
@@ -68,21 +64,14 @@ Wikipedia.
 | 14      | Telugu           |      80 million |   12 million        |
 | 15      | Malay-Indonesian |      77 million |  204 million        |
 
-The numbers make it clear that Mandarin Chinese is by far the largest
-language in the world counted by native speakers, while English is
-the language with the greatest number of second language speakers.
-Both of their number of speakers reaches one billion. However they
-are followed by languages, whose speakers are also counted in
-hundreds of millions.
+The numbers make it clear that Mandarin Chinese is by far the largest language by number of native speakers,
+while English is the language with the greatest number of second language speakers.
+Both of them are spoken by over one billion speakers in total.
+However they are followed by languages, whose speakers are also counted in hundreds of millions.
 
-It is estimated that over 6000 different languages are spoken in the
-world.
-
-However, native and non-native speakers of the 5 most widely spoken
-languages together add up to more than half of the total population
-of the world. Also these five languages represent different language
-typologies well and they also represent the five main divisions of
-international vocabularies.
+It is estimated that over 6000 different languages are spoken in the world.
+However, native and non-native speakers of the five most widely spoken languages together
+add up to more than half of the total population of the world.
 
 
 
@@ -90,72 +79,73 @@ international vocabularies.
 
 ### The most widely used alphabet
 
-There are many writing systems in the world and a handful of them
-have become international. Chinese "hanzi" symbols are used in
-Japanese, where they are known as "kanji". The Arabic script is used
-for writing Urdu in Pakistan and India. However only the Roman
-alphabet has become truly global. It is used by numerous European
-and American languages but also by African language of Africa
-(including Hausa and Swahili) and by several notable languages in
-Asia, namely Turkish, Malay-Indonesian and Vietnamese.
+There are many writing systems in the world today
+but only a handful of them are international.
+The most popular writing systems are the Roman alphabet,
+the Cyrillic alphabet, the Arabic script and the Chinese pictographic symbols.
 
-Standard Chinese is written in Chinese characters, which form a
-system so complex that school children are taught to read the Roman
-alphabet first. This system of romanization is known as Pīnyīn.
+Only the Roman alphabet has become truly global.
+Most languages of Europe, the Americas and Africa are written in the Roman alphabet.
+Also several notable languages in Asia,
+including Turkish, Malay and Vietnamese,
+are written in the Roman alphabet.
 
-Therefore it is clear why also Pandunia is written in the Roman
-alphabet.
+Therefore the Roman alphabet is the obvious choice for the international language.
 
 ### Only five vowels
 
-English and Chinese have rich vowel inventories. English has 14-20
-vowels, depending on the dialect. Standard Chinese has 9 vowels (and
-many more vowel qualities). These are comparatively high numbers
-considering that globally the average vowel inventory size is only
-5-6 vowels.
+Pandunia has few vowels compared to both English and Chinese.
+There are 14-20 vowels in English (the exact number depends on the dialect)
+and 9 vowels in Standard Chinese.
 
-Pandunia has only 5 pure vowels: a, e, i, o, u. In this respect, it
-is close to languages such as Spanish, Swahili, Japanese and
-Indonesian, which have simple vowel inventories.
+Pandunia has only five pure vowels: a, e, i, o, u.
+The number is approximately the same as the global average, which is 5-6 vowels
+In this respect, Pandunia is close to languages like
+Spanish (5 vowels), Swahili (5 vowels), Japanese (5 vowels) and Indonesian (6 vowels).
 
 ### Common consonants
 
-Pandunia's consonant inventory is smaller than that of English and
-Mandarin. Majority of the consonant letters are pronounced in the
-same way in all three languages. The table below shows how consonant
-sounds are mapped from Pandunia to English and Mandarin. Sounds that
-are in English or Mandarin but not in Pandunia are enclosed in
-parenthesis.
+Pandunia has also less consonants than English and Mandarin.
+Most consonant letters are pronounced in the same way in all three languages.
+The table below shows what consonant sounds correspond to each other in Pandunia, English and Mandarin.
+Sounds that are present in English or Mandarin but not in Pandunia are enclosed in parenthesis.
 
 |            | Pandunia    | English       | Mandarin Pinyin |
 |------------|-------------|---------------|-----------------|
 | Nasals     | m n ng      | m n ng        | m n ng          |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquids    | l r y v     | l r y w       | l r y w (yü)    |
-| Sibilants  | s z x       | s z sh (zh)   | s z* sh (x)     |
-| Fricatives | f h         | f h (v th dh) | f h             |
-| Affricates | c j         | ch j          | ch zh (q j c)   |
+| Sibilants  | s z sh      | s z sh (zh)   | s z* sh (x)     |
+| Fricatives | f h         | f h (v th th) | f h             |
+| Affricates | ch j        | ch j          | ch zh (q j c)   |
 
 
-### Simple syllable patterns
+### Easy to pronounce
 
-Syllable patterns vary across languages. For example in Japanese the
-heaviest syllable type is CVN, where C is a consonant, V is a vowel
-and N is a nasal consonant. This gives Japanese a very vocalic sound.
-English, on the other hand, can have very heavy syllables, for
-example "sprints" (CCCVNCC).
+A syllable consists of one core vowel and possible consonants.
+In some languages syllables are simpler than in others.
+For example in Japanese the heaviest syllables
+consist of an initial consonant, a vowel and a final nasal consonant.
+This is why Japanese sounds light and vocalic.
+In English, on the other hand, it is possible to cram many consonants in one syllable, as in
+"strict sprints".
 
-Pandunia is somewhere in the middle. Most of the words consist of
-simple CV syllables but also more complex syllables are allowed,
-especially for internationally known technical terms. For example
-**kristal** (crystal) is considered a complex word in Pandunia. More
-complex loan words can be dealt with in two ways.
+Pandunia is somewhere in the middle.
+Most syllables are simple a-consonant-and-a-vowel pairs
+but also more complex syllables are allowed,
+especially in internationally known technical terms.
+For example **kristal** (crystal) is a complex word by Pandunia standards.
 
-1. Select a simpler variant from another language. For example the
-word for "project" is taken from the French version: **proje**.
-2. Break the consonant clusters by adding vowels. For example "sport"
-would become **esporte**. Many languages do something similar. See
-Portuguese "esporte" and Japanese "supōtsu" for comparison.
+There are two ways to simplify words that are too complex for the international language:
+
+1. Select a simpler variant of the same word from another language.
+   For example, the English word _project_ ends in two consonants
+   but the same word in Portuguese is _projeto_.
+2. Break the consonant clusters by adding vowels.
+   For example, the English word _sport_ is too complex
+   but the same word in Portuguese is _esporte_,
+   which breaks the difficult consonant clusters in the beginning and end
+   by additional vowels.
 
 
 ### Regular spelling
@@ -179,28 +169,30 @@ letter. Every word is pronounced as it is written.
 
 ### Easy accent
 
-Texts in Pīnyīn are loaded with accent marks, as in "Wǒmen yě huì
-shuō zhōngguòhuá." They mark tones. In Standard Chinese each syllable
-is pronounced in one of the four tones or in the unmarked neutral
-tone.
+Texts in Pīnyīn are loaded with accent marks, as in
+"Wǒmen yě huì shuō zhōngguòhuá."
+They mark tones.
+In Standard Chinese, each syllable is pronounced in one of the four tones or in the unmarked neutral tone.
 
-English doesn't have word tones but it has word stress. Word stress
-is variable in English, so the position of stress is unpredictable.
-In a written expression like "totally fantastic personnel", nothing
-shows that each word has the stress on a different syllable. If the
-stress was marked with an accent, it might look something like this:
+English doesn't have word tones but it has word stress.
+Word stress is variable in English, so the position of stress is unpredictable.
+In a written expression like
+"totally fantastic personnel",
+nothing shows that each word has the stress on a different syllable.
+If the stress was marked on the vowels, it might look something like this:
 "tótally fantástic personnél".
 
-Tones are hard to learn for people who are not used to them. Variable
-stress is hard to learn for people who are used to fixed stress.
-Neither word tone nor variable word stress are necessary in the world
-language.
+Tones are hard to learn for people who are not used to them.
+Variable stress is hard to learn for people who are used to fixed stress.
+Neither word tone nor variable word stress are necessary in the world language.
 
-Pandunia has fixed stress. The stress falls on the last syllable that is before the vowel ending.
+Pandunia doesn't have lexical tone,
+and it has fixed stress.
+The stress falls on the syllable before the last consonant.
 Like this:
-**halóu. me vóla lóga bóni dúnia báx.**
+**hálo! mí vól lóge le bón dúnia básha.**
+(_Hello! I want to speak the good world language._)
 
-Pandunia doesn't have lexical tone.
 
 
 
@@ -226,18 +218,17 @@ to these parameters.
     - Hindi-Urdu, Bengali, Punjabi
     - Arabic, Hausa
 
-Usually languages are a mixture of different types. For example, in
-English the plural can be formed in several different ways. _Many a
-cat_ is an analytic phrase that consists of three separate words.
-_Cats_ is an agglutinative word that consists of two distincts parts
-(_cat_ and _-s_). _Leaves_ is a fused word that consists of two parts
-(_leaf_ and _-s_).
+Usually languages are a mixture of different types.
+For example, in English the plural can be formed in several different ways.
+_Many a cat_ is an analytic phrase that consists of three separate words.
+_Cats_ is an agglutinative word that consists of two distincts parts, _cat_ and _-s_.
+_Leaves_ is a fused word that consists of two parts, _leaf_ and _-s_.
 
-Pandunia belongs to the first type. It is an analytic language. Its
-words consist of few parts and they are clearly separable. This is a
-good thing because it makes the language easy to learn and use in
-comparison to languages where words in average are long and consist
-of many parts.
+Pandunia belongs to the first type.
+It is an analytic language.
+Its words consist of few parts and they are clearly separable.
+This is a good thing because it makes the language easy to learn and use
+in comparison to languages where words in average are long and consist of many parts.
 
 
 ### Parts of word
@@ -273,8 +264,8 @@ are known to most people. New words can be created easily.
 
 ### Word orders
 
-Different word orders are used in the languages of the world. Some of
-the most important areas of word order are:
+Different word orders are used in the languages of the world.
+Some of the most important areas of word order are:
 
 - Sentence structure. Order of subject (S), verb (V) and object (O)
   in a transitive clause. The most common sentence structures are 
@@ -325,11 +316,8 @@ language, which has to welcome people with many different speaking
 habits. It doesn't make the language only versatile but also more
 interesting!
 
-Pandunia allows different word orders. This is achieved mainly by
-the verb endings -a and -u, which signal reverse word orders. In
-Pandunia verbs can function also as adpositions (so called _coverbs_).
 
-**me ama te.** (SVO)  
+**mo ai ni.** (SVO)  
 **me te amu.** (SOV)  
 I love you.
 
@@ -343,26 +331,106 @@ I jump over the high table.
  
 ## World words
 
-### World's word heritage
+Pandunia's words are international words.
 
-English and Spanish carry the heritage of Latin and Greek, which have
-greatly influenced all languages of Europe, America and beyond,
-including French, Portuguese, Italian, German, Polish and Russian.
+### The most frequent words
 
-Mandarin Chinese carries the Sinitic heritage of Old Chinese, which
-has greatly influenced all other East Asian languages, including
-Japanese, Korean, Vietnamese and other varieties of Chinese.
+The most frequent and the most basic words,
+like _me_, _you_, _one_, _two_, _be_ and _do_,
+are typically the oldest words in every language.
+They tend to be tend to be different from language to language,
+unless the languages belong to the same family.
 
-Hindi-Urdu carries the heritage of Sanskrit, which has influenced
-also all other languages of South and South-East Asia, including
-Bengali, Punjabi, Telugu, Tamil, Burmese, Khmer, Thai, Malay and
-Indonesian.
+Therefore it's almost impossible to find international words,
+that are in common to unrelated languages in Africa, the Americas, Asia and Europe,
+for the most basic ideas.
+Still, we have tried.
 
-Arabic and Hindi-Urdu (Urdu more than Hindi) carry the Perso-Arabic
-heritage, which has greatly influenced languages in Central,
-South-West, South and South-East Asia and North, West and East
-Africa, including Turkish, Persian, Bengali, Punjabi, Telugu,
-Indonesian, Hausa, Wolof, Amharic, Oromo, Somali and Swahili.
+For example, the Pandunia word for one is **un**.
+It comes directly from the Romance languages,
+including French _un_, Spanish _uno_, and Portuguese _um_,
+but it can be recognized also as part of the international word _union_,
+which is known in every European language.
+
+### Personal pronouns
+
+The personal pronouns are among the most frequent words.
+They are very important words and so they should sound different from each other.
+
+The first-person pronoun often begins with M even in unrelated languages,
+for example English _me_, French _moi_, Spanish _me_, Hindi _main_, Finnish _minä_, Igbo _mụ_, Kongo _mono_, Swahili _mimi_, and Zulu _mina_.
+In Pandunia it is **mi** (_I_, _me_).
+
+The second-person pronoun
+**tu**
+comes from the Indo-European family of languages,
+including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
+In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
+
+The Pandunia third-person pronoun is **ya**.
+It is inspired by many languages, including
+Malay _ia_, Hindi यह (yah), Swahili _yeye_ and Nigerian Igbo _ya_.
+It has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
+So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
+
+The plural and possessive pronouns follow the super simple patterns of Standard Chinese.
+
+Add **men** to form the plural:
+
+| English    | Pandunia   | Chinese    |
+|------------|------------|------------|
+| I          | mi         | wǒ         |
+| you        | tu         | nǐ         |
+| he or she  | ya         | tā         |
+| we         | mimen      | wǒmen      |
+| you all    | tumen      | nǐmen      |
+| they       | yamen      | tāmen      |
+
+Add **di** to form the possessive:
+
+| English    | Pandunia   | Chinese    |
+|------------|------------|------------|
+| my         | mi di      | wǒ de      |
+| your       | tu di      | nǐ de      |
+| his/her    | ya di      | tā de      |
+| our        | mimen di   | wǒmen de   |
+| your       | tumen di   | nǐmen de   |
+| their      | yamen di   | tāmen de   |
+
+The personal pronouns in Pandunia attain three important goals.
+
+1. The basic pronouns
+   (**mi**, **tu**, **ya**)
+   look and sound distinct.
+2. The plural and possessive pronouns are built in a systematic way.
+   They are not only a bunch of dissimilar words.
+3. The words are international
+   and come from different language families.
+
+### Imitative words are global
+
+Words whose sound imitates the sound of the associated thing or action are remarkably similar from language to language.
+The cat says _miaow_, the goat says _bee_,
+and people say _yum_ when they eat and _atchoo_ when they sneeze
+everywhere in the world.
+The words are not always exactly the same in every language but they are close enough.
+
+This is why Pandunia has for example these basic global words:
+**mau**
+– cat  
+**be'e**
+– goat  
+**meme**
+– sheep  
+**mumu**
+– cow  
+**yam**
+– to eat
+**achi**
+– to sneeze  
+**ronfi**
+– to snore
+
 
 ### Western words
  
@@ -385,12 +453,12 @@ Also English uses comparable affixes.
 Pandunia borrows the roots of Western words. The goal is to select a
 form that sounds familiar to speakers of as many languages as possible.
 
-| Pandunia root | English    | Portuguese | Spanish    | French     | German     | Russian    |
+| Pandunia word | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
-| **kort**      | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **neu**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
-| **marc**      | march      | marcha     | marcha     | marche     | Marsch     | marš       |
-| **post**      | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
+| **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
+| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
+| **marche**    | march      | marcha     | marcha     | marche     | Marsch     | marš       |
+| **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
 The suffixes of Pandunia are applied on the roots. Here are some
 resulting Pandunia words: korti (short), korte (shorty), korta 
@@ -434,47 +502,47 @@ in Korean!
 
 ## Easy sentences
 
-In this section we will compare the sentence structures of Pandunia
-with English and Chinese, the two most widely spoken languages of the
-world.
+In this section we will compare the sentence structures of Pandunia with English and Chinese,
+the two most widely spoken languages of the world.
 
-The normal sentence word order is subject-verb-object – just like in
-English and Chinese.
+The normal sentence word order is subject–verb–object
+– just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me ama te, te ama me.
+    Pandunia:  mi ai tu, tu ai mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-The verb **beyu** is used when the object of an action comes first in
-the sentence. (This is the so called passive sentence.)
+The auxiliary verb **be** is used when the object of the action comes first in the sentence.
+(This is the so called passive sentence.)
 
-    English:   The apples were eaten.
-    Pandunia:  aple beyu yama.
+    English:   Apples were eaten.
+    Pandunia:  aple be yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**beyu** is a loan word from Standard Chinese, but it is also close to
-some uses of English "to be".
+**be** is a loan word from Standard Chinese,
+but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  le no abla beyu yama.
+    Pandunia:  ya no kan be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me cinga le yama kafe.
+    Pandunia:  mi cing ya yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-In Pandunia and Chinese, nouns can be singular or plural depending
-on surrounding words. There's no plural ending like -s in English.
-Also verbs are not conjugated. One word, **si**, is used instead of
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
+There's no plural ending like -s in English.
+Also verbs are not conjugated.
+One word, **e**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  le sa aple.
+    Pandunia:  ya e aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  les sa aple.
+    Pandunia:  yamen e aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
