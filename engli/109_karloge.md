@@ -48,3 +48,88 @@ but helps to clarify its structure.
 Other suitable markers include auxiliaries of time and mood,
 which are introduced next.
 
+
+## Auxiliaries of time
+
+The relationship of an action, event or state to time is indicated with auxiliary verbs.
+
+**kai**
+('begin', 'start')
+indicates beginning of an action or transition to a new situation.
+
+**mi kai fuku le kote.**
+– I start wearing the coat. = I put the coat on.  
+**kaguje ye kai hoge.**
+– Paper starts to burn.  
+**tu kai yam.**
+– You start to eat.
+
+**ces**
+('cease', 'quit', 'stop')
+conveys the idea of "to stop doing something".
+
+**yamen ces haha.**
+– They stopped laughing.  
+**kaguje ye ces hoge.**
+– Paper ceased to burn.
+
+**fin**
+('finish', 'complete')
+indicates that an action is done completely.
+
+**tu fin yam un piza.**
+– You ate a pizza completely.  
+**mi fin vide le filme.**
+– I completed watching the film. / I watched the film completely.
+
+**zai**
+'(be present')
+indicates that a situation is ongoing.
+
+**mi zai yam un piza.**
+– I am eating a pizza.
+
+**dur**
+('keep on', 'continue', 'proceed')
+indicates that a situation is continuing or in progress.
+
+**mi dur yam le pizza.**
+– I keep on eating the pizza.
+
+**ada**
+('have a habit', 'be used to')
+indicates that an action is done regularly.
+
+**mi ada gul le bir.**
+– I have a habit of drinking beer.
+
+**leu**
+('attain', 'accomplish')
+indicates that a situation has been reached and it is the current position.
+It brings attention to the consequences of a past action to the current situation.
+
+**ya _leu_ e guru.**
+– He or she is a teacher now.  
+**mi _leu_ no gul le alkohol.**
+– I don't drink alcohol anymore.  
+**mi no _leu_ gul le alkohol.**
+– I haven't drank alcohol.  
+**mi _leu_ don le buke do yamen.**
+– I have given the book to them. (They still have it and I don't.)  
+**yamen no _leu_ don ya re do mi.**
+– They haven't given it back to me.  
+**mi leu do citi.**
+– I have come to the city.
+
+**pas**
+('pass', 'go past', 'go through')
+indicates that a situation is over
+and it is relevant only as an experience.
+
+**mi pas don le buke do yamen.**
+– I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
+**mi pas visite le France.**
+– I have visited France.  
+**mi pas ada gul le bir.**
+– I used to drink beer. / I had a habit of drinking beer.
+
