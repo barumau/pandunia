@@ -5,50 +5,50 @@
 Quantity can be expressed with numerals and other quantity-words.
 They are put before the word or phrase that they qualify.
 
-**un xing**
+**un sing**
 – one star  
-**du xing**
+**du sing**
 – two stars  
-**tri xing**
+**tri sing**
 – three stars  
-**xau xing**
+**shau sing**
 – few stars  
-**poli xing**
+**ba sing**
 – many stars
 
-**un dai kurse**
+**un dai kursi**
 – one big chair  
-**du dai kurse**
+**du dai kursi**
 – two big chairs  
-**tri bon kurse**
+**tri bon kursi**
 – three good chairs
 
 The basic number words are:
 
-- 0 **sir**
+- 0 **siro**
 - 1 **un**
 - 2 **du**
 - 3 **tri**
-- 4 **si**
-- 5 **go**
-- 6 **xe**
-- 7 **ci**
-- 8 **ba**
-- 9 **nau**
+- 4 **chatre**
+- 5 **penta**
+- 6 **luku**
+- 7 **sete**
+- 8 **bato**
+- 9 **tisa**
 
 Greater numbers are simply made by putting one digit after another –
 exactly like they are written in the universal numerical language of mathematics.
 
-- 10 **un sir** or **des**
+- 10 **un siro** or **des**
 - 11 **un un**
 - 12 **un du**
 - 13 **un tri**
-- 20 **du sir**
+- 20 **du siro** or **du des**
 - 21 **du un**
 - 22 **du du**
-- 100 **un sir sir** or **cen**
-- 101 **un sir un** or **cen un**
-- 200 **du sir sir** or **du cen**
+- 100 **un siro siro** or **cen**
+- 101 **un siro uno** or **cen un**
+- 200 **du siro siro** or **du cen**
 
 Numbers that are greater than 999 may use the multiples from the International System of Units.
 So for example kilo denotes a multiple of a thousand.
@@ -66,55 +66,68 @@ Sometimes it is known from the context how many objects are spoken about.
 For example, the word **sol** (sun) normally refers to just one sun because there is only one sun in the solar system.
 
 
-## Fractions
-
-Fractions are formed with the help of
-**fen**
-(fraction, part).
-
-**un du fen**
-– a half, ½  
-**uni catre fen**
-– a quarter, ¼  
-**tri catre fen**
-– three quarters, ¾
-
-
 ## Ordinal numbers
 
-Ordinal numbers are created with the particle **di**.
+Ordinal numbers are created with the particle **me**.
 
-- **un di**
+- **un me**
   – first
-- **du di**
+- **du me**
   – second
-- **tri di**
+- **tri me**
   – third
-- **si di**
+- **chatre me**
   – fourth
-- **go di**
+- **penta me**
   – fifth
-- **xe di**
+- **luku me**
   – sixth
-- **ci di**
+- **sete me**
   – seventh
-- **ba di**
+- **bato me**
   – eighth
-- **nau di**
+- **tisa me**
   – ninth
-- **des di**
+- **des me**
   – tenth
 
 They are placed before the modified noun like normal adjectives.
 
-**un di fen**
+**un me fen**
 – the first part  
-**du di fen**
+**du me fen**
 – the second part  
-**tri di fen**
-– the third part  
-**un di du fen**
-– the first two parts
+**tri me fen**
+– the third part
+
+
+## Fractions
+
+Fractions are formed with the help of the ordinal particle
+**me**.
+
+**un du me**
+– a half, ½  
+**un chatre me**
+– a fourth, a quarter, ¼  
+**tri chatre me**
+– three fourths, three quarters, ¾  
+**un cen me**
+– a hundredth, a percent, %  
+**un kilo me**
+– a thousandth, a permille, ‰
+
+Note that it is siginificant where **me** is placed.
+
+**un du me hor**
+– a half hour  
+**un me du hor**
+– the first two hours
+
+**du tri me pai**
+– two thirds of a pie  
+**du me tri pai**
+– the second (batch of) three pies
 
 
 ## Date and time
@@ -123,56 +136,56 @@ They are placed before the modified noun like normal adjectives.
 
 In naming the days of the week, a number indicating the day (starting from Monday) is followed by
 the ordinal particle
-**di**
+**me**
 and
 **den**
 which means the period of 24 hours.
 So 'Monday' is literally 'first-day', 'Tuesday' is 'second-day', 'Wednesday' is 'third-day', etc.
 
-1. **un di den**
+1. **un me den**
    – Monday
-2. **du di den**
+2. **du me den**
    – Tuesday
-3. **tri di den**
+3. **tri me den**
    – Wednesday
-4. **si di den**
+4. **chatre me den**
    – Thursday
-5. **go di den**
+5. **penta me den**
    – Friday
-6. **xe di den**
+6. **luku me den**
    – Saturday
-7. **ci di den**
+7. **sete me den**
    – Sunday
 
 #### Months
 
 The names of months are made like the names of days
 but this time the word
-**lun**
+**mes**
 ("month") is used.
 
-1. **un di lun**
+1. **un me mes**
    – January
-2. **du di lun**
+2. **du me mes**
    – February
-3. **tri di lun**
+3. **tri me mes**
    – March
-4. **si di lun**
+4. **chatre me mes**
   – April
-5. **go di lun**
+5. **penta me mes**
   – May
-6. **xe di lun**
+6. **luku me mes**
   – June
-7. **ci di lun**
+7. **sete me mes**
   – July
-8. **ba di lun**
+8. **bato me mes**
   – August
-9. **nau di lun**
+9. **tisa me mes**
   – September
-10. **des di lun**
+10. **des me mes**
   – October
-11. **des un di lun**
+11. **des un me mes**
   – November
-12. **des du di lun**
+12. **des du me mes**
   – December
 
