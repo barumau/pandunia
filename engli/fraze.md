@@ -123,8 +123,6 @@ The apple is a fruit.
 
 ### mi <small>I, me</small>
 
-<p style="font-size:5em;">🗨️🧑</p>
-
 **mi e Sara.**
 I'm Sarah.
 
@@ -155,8 +153,6 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili:
 
 ### tu <small>you</small>
 
-<p style="font-size:4em;">🗣️👉👤</p>
-
 **tu e Tomas.**
 You are Thomas.
 
@@ -173,7 +169,7 @@ and 'me'.
 **mi ai tu.**
 I love you.
 
-<small>Etymology. **tu** is from Hungarian: tu, Russian: ты (ty), Italian: tu, French: tu.</small>
+<small>Etymology. **tu** is from Spanish: tu, Russian: ты (ty), Italian: tu, French: tu.</small>
 
 
 ### ya <small>he, she or it</small>
@@ -246,8 +242,6 @@ Yes, he is a doctor.
 
 
 ### no <small>no, not</small>
-
-<p style="font-size:5em">👎</p>
 
 **mi no e Sara.**
 I'm not Sarah.
@@ -461,7 +455,7 @@ We know each other for a long time.
 
 ### helpe <small>help</small>
 
-**mi neses helpe.**
+**mi yau helpe.**
 I need help.
 
 **suala tu abla helpe mi?**
@@ -567,18 +561,18 @@ Let's go eat!
 Let's go home.
 
 
-### neses <small>need</small>
+### yau <small>need</small>
 
-**mi neses helpe.**
+**mi yau helpe.**
 I need help.
 
-**mi neses yam.**
+**mi yau yam.**
 I'm hungry.
 
-**suala tu neses yam?**
+**suala tu yau yam?**
 Are you hungry?
 
-**suala tu neses sui?**
+**suala tu yau sui?**
 Are you thirsty?
 
 
@@ -676,7 +670,7 @@ Please speak louder.
 **mi audi musike.**
 I listen to music.
 
-**tu auda ke yang di musike?**
+**tu audi ke yang di musike?**
 What kind of music do you listen to?
 
 
@@ -941,7 +935,7 @@ I will take a coffee.
 **ching kapa un kafe do mi.**
 Please take one coffee for me.
 
-**tu ceno kapa pesa ze mi.**
+**tu pas kapa pesa ze mi.**
 You already got money from me before.
 
 **mi kapa un bir.**
@@ -953,16 +947,16 @@ I will take a beer.
 **kire e 500 dolar a mes.**  
 The rent is 500 dollars in a month.
 
-**ya no abla peya kire.**  
+**ya no abla pei le kire.**  
 He/she can't pay the rent.
 
-**mi vol kapa un gare a kire.**  
+**mi vol kapa un gar a kire.**  
 I want to take a car for rent.
 
-**mi vol kirokapa un gare.**
+**mi vol kir kapa un gare.**
 I want to rent a car.
 
-**ya kirodona kamar do safarer.**
+**ya kir don le kamar do safarer.**
 He/she rents rooms to travelers.
 
 

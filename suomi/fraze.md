@@ -477,7 +477,7 @@ Tunnemme toisemme jo vanhastaan.
 
 ### helpe <small>auttaa</small>
 
-**mi neses helpe.**
+**mi yau helpe.**
 Minä tarvitsen apua.
 
 **suala tu abla helpe mi?**
@@ -588,18 +588,18 @@ Menkäämme kotiin.
 
 
 
-### neses <small>tarvita</small>
+### yau <small>tarvita</small>
 
-**mi neses helpe.**
+**mi yau helpe.**
 Tarvitsen apua.
 
-**mi neses yam.**
+**mi yau yam.**
 Minulla on nälkä. (Tarvitsen ruokaa.)
 
-**suala tu neses yam?**
+**suala tu yau yam?**
 Onko sinulla nälkä?
 
-**suala tu neses sui?**
+**suala tu yau sui?**
 Onko sinulla jano?
 
 
