@@ -43,7 +43,7 @@ Good morning!
 **salam den!**
 Good day!
 
-**salam suar!**
+**salam sham!**
 Good evening!
 
 **salam noche!**
@@ -85,7 +85,7 @@ Thanks!
 **multo danke!**
 Thanks a lot!
 
-**ha, danke.**
+**ye, danke.**
 Yes, thank you.
 
 **no, danke.**
@@ -103,14 +103,13 @@ I thank you for helping me.
 **danke tu helpe mi.**
 Thanks for helping me.
 
-**tu keci.**
-You're welcome. (Literally: _You're polite._)
+**no yau danke.**
+You're welcome. (Literally: _No need to thank._)
 
 
 ### e <small>to be</small>
 
-The word **e** can be used also for stating something as a fact. Then it is
-used in place of "to be".
+The word **e** can be used also for stating something as a fact.
 
 **mi e Tomas.**
 I am Thomas.
@@ -118,7 +117,7 @@ I am Thomas.
 **tu e Sara.**
 You are Sarah.
 
-**aple e pal.**
+**aple e frute.**
 The apple is a fruit.
 
 
@@ -138,10 +137,10 @@ I greet mother.
 **mi salam papa.**
 I greet father.
 
-The word **salam** is a noun and **salam** is the corresponding verb. The
-basic word order in Pandunia is subject-verb-object.
+The word **salam** is both a noun and a verb.
+The basic word order in Pandunia is subject–verb–object.
 
-**Sara salam Tomas.**
+**Sara ye salam Tomas.**
 Sarah greets Thomas.
 
 **salam mama!**
@@ -215,13 +214,13 @@ In fact, the previous question is simply abbreviated from
 **mi suala tu mediker.**
 (I ask, you doctor?) by dropping out the first word.
 
-**suala tu boni?**
+**suala tu bon?**
 How are you? (Literally: _Are you good?_)  
-**mi boni.**
+**mi bon.**
 I'm good.  
 **suala tu?**
 And you?  
-**mi no boni.**
+**mi no bon.**
 I'm not good.
 
 <small>Etymology. **suala**
@@ -231,20 +230,18 @@ Malay _soal_,
 Swahili _swali_.</small>
 
 
-### ha <small>yes</small>
-
-<p style="font-size:5em">👍</p>
+### ye <small>yes</small>
 
 **suala tu e Tomas?**
 Are you Thomas.
 
-**ha, mi e Tomas.**
+**ye, mi e Tomas.**
 Yes, I am Thomas.
 
 **suala ya e mediker?**
 Is he/she a doctor?
 
-**ha, ya e mediker.**
+**ye, ya e mediker.**
 Yes, he is a doctor.
 
 
@@ -258,14 +255,14 @@ I'm not Sarah.
 **mi no e mediker.**
 I'm not a doctor.
 
-**suala tu boni?**
+**suala tu bon?**
 Are you well?  
-**ha. mi boni.**
+**ye. mi bon.**
 Yes, I'm well.
 
-**suala tu boni?**
+**suala tu bon?**
 Are you well?  
-**no, mi no boni.**
+**no, mi no bon.**
 No, I'm not well.
 
 You can use **no** to deny anything. It is placed before the word that is
@@ -432,13 +429,13 @@ Name, English: name.</small>
 
 ### tena <small>have</small>
 
-**mi tena boni dom.**
+**mi tena un bon dom.**
 I have a good house.
 
 **ya no tena pesa.**
 He/she doesn't have money.
 
-**mi vol tena nove un telfon.**
+**mi vol tena un nove telefon.**
 I want to have a new phone.
 
 **suala tu tena ben?**
@@ -450,7 +447,7 @@ I have two children.
 ### sabi <small>to know</small>
 
 **mi sabi ya.**
-I know him/her.
+I know him/her/it.
 
 **suala tu sabi vi jan?**
 Do you know that person?
@@ -458,7 +455,7 @@ Do you know that person?
 **suala tumen sabi semen?**
 Do you know each other?
 
-**mimen sabi semen longo.**
+**mimen sabi semen ze long.**
 We know each other for a long time.
 
 
@@ -496,7 +493,7 @@ Therefore a word like **aple** can refer to one or more apples.
 **suala tu yam kafe?**
 Do you drink coffee?
 
-**ha. mi yam kafe.**
+**ye. mi yam kafe.**
 Yes, I drink coffee.
 
 Tip: Meaning of **yam** covers both eating and drinking. It can feel odd at
@@ -595,7 +592,7 @@ Sorry, I don't understand.
 **maf! ye e ke?**
 Excuse me, what's this?
 
-**maf. tu nama ke?**
+**maf. tu di nam e ke?**
 Excuse me, what's your name?
 
 
@@ -655,28 +652,28 @@ I talk to you.
 **mimen loga do semen.**
 We talk to each other.
 
-**se loga "cat" ko a pandunia?**
+**men loga "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" logu ko a pandunia?**
-How is "cat" said in Pandunia?
+**"cat" e ke a pandunia?**
+What is "cat" in Pandunia?
 
 **mau loga miau.**
 Cat says meow.
 
 
-### auda <small>to listen, hear</small>
+### audi <small>to listen, hear</small>
 
-**auda mi!**
+**audi mi!**
 Listen to me!
 
-**mi no abla auda tu.**
+**mi no abla audi tu.**
 I can't hear you.
 
 **ching loga forto.**
 Please speak louder.
 
-**mi auda musike.**
+**mi audi musike.**
 I listen to music.
 
 **tu auda ke yang di musike?**
@@ -688,28 +685,28 @@ What kind of music do you listen to?
 **suku vide tu.**
 Pleased to see you!
 
-**vide tu reyo!**
+**vide tu re!**
 See you again!
 
-**vide tu badodeno!**
+**vide tu a pos den!**
 See you tomorrow!
 
-**mi vide ya cendeno.**
+**mi vide ya a chen den.**
 I saw him/her yesterday.
 
 
-### mena <small>to mean</small>
+### mana <small>to mean</small>
 
-**yi loge mena ke?**
+**yi loga mana ke?**
 What does this word mean?
 
-**"mau" mena ke?**
+**"mau" mana ke?**
 What does "mau" mean?
 
-**ya mena yang da zou.**
+**ya mana un yang da zou.**
 It means a kind of animal.
 
-**mi no aha ya mena ke.**
+**mi no aha ya mana ke.**
 I don't understand what it means.
 
 
@@ -780,7 +777,7 @@ Where do you come from?
 **mi lai ze Dubai.**
 I come from Dubai.
 
-**mi lai dom badodeno.**
+**mi lai dom a pos den.**
 I will come home tomorrow.
 
 
@@ -792,7 +789,7 @@ Do you travel by train?
 **mimen safar ze London do Paris.**
 We travel from London to Paris.
 
-**safar polo long.**
+**safar multo long.**
 The voyage is very long.
 
 
@@ -859,28 +856,28 @@ I wait for you in the hotel.
 **mi zai salam tu di doste.**  
 I am greeting your friend.
 
-**man zai vide fem.**  
-The man is looking at the woman.
+**man ye zai vide un filme.**  
+The man is watching a film.
 
-**ya zai e xef.**  
+**ya zai e shefe.**  
 He or she is currently the chief.
 
 **ya zai a dom.**  
 He or she is currently at home.
 
 
-### ceno <small>in the past</small>
+### pas <small>in the past</small>
 
-**mi ceno salam tu di doste.**  
+**mi pas salam tu di doste.**  
 I greeted your friend.
 
-**man ceno vide fem.**  
-The man looked at the woman.
+**man ye pas vide un filme fem.**  
+The man watched a film.
 
-**ya ceno e xef.**  
+**ya pas e shefe.**  
 He or she was the chief.
 
-**ya ceno a dom.**  
+**ya pas a dom.**  
 He or she was at home.
 
 
@@ -889,28 +886,28 @@ He or she was at home.
 **mi leu salam tu di doste.**  
 I have greeted your friend.
 
-**man leu vide le fem.**  
-The man has looked at the woman.
+**man leu vide un filme.**  
+The man has watched a film.
 
-**ya leu e le shefe.**  
+**ya leu e shefe.**  
 He or she has been the chief.
 
 **ya leu a le dom.**  
 He or she has been at home.
 
 
-### poso <small>in the future</small>
+### vil <small>in the future</small>
 
-**mi poso salam tu di doste.**  
+**mi vil salam tu di doste.**  
 I will greet your friend.
 
-**man poso vide fem.**  
-The man will see the woman.
+**man vil vide le filme.**  
+The man will watch the film.
 
-**ya poso e shefe.**  
+**ya vil e shefe.**  
 He or she will be the chief.
 
-**ya poso a dom.**  
+**ya vil a dom.**  
 He or she will be at home.
 
 
