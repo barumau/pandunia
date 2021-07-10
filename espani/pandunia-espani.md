@@ -1,24 +1,17 @@
 # pandunia-espani
--a - sufijo para verbos con el orden de las palabras SVO  
--e - sufijo para sustantivos  
--i - sufijo para adjetivos  
--ia - sufijo para regiónes y sustantivos abstractos  
--o - sufijo para adverbios  
--u - sufijo para verbos con el orden de las palabras OVS  
 ####A - A  
 a - pero  
-abite - abeto  
+abete - abeto  
 abla - poder  
 able - habilidad  
 abli - posible  
 ablo - posiblemente  
-acinem - actinio  
-acu\* - achís  
-acua - estornudar  
-ade - costumbre (hábito)  
-adi - ordinario (habitual)  
+achi - estornudar (achís)  
+acinium - actinio  
 adali - justo  
 adalia - justicia  
+ade - costumbre (hábito)  
+adi - ordinario (habitual)  
 adres - dirección  
 adresharfe - arroba (@)  
 afgani - afgano  
@@ -27,30 +20,30 @@ Afrike - África
 Afriki - africano  
 aga - si (suponer)  
 agra - cultivar  
-agri - agrícola  
 agrer - granjero (agricultor)  
+agres - ataque  
+agreser - agresor  
+agresivi - agresivo  
+agri - agrícola  
 agristan - campo  
 agristani - rural (rústico)  
 agrobiyolojia - agrobiología  
 agronomia - agronomía  
-agres - ataque  
-agreser - agresor  
-agresivi - agresivo  
 aha - entender (comprender)  
 ai - ay!  
-ainstainem - einsteinium  
+ainstainium - einsteinium  
 air - aire  
 airbaria - presión atmosférica  
 airbarmetrer - barómetro  
 airbivi - aeróbico  
+Aire - Irlanda  
 airgun - fuerza aérea  
 airporte - aeropuerto  
-Aire - Irlanda  
 ais - hielo  
-aisi - cubierto de hielo  
-aisu - congelarse (helarse)  
 aishoke - hockey sobre hielo  
+aisi - cubierto de hielo  
 aiskrem - helado  
+aisu - congelarse (helarse)  
 Aiti - Haití  
 ajaba - asombrar  
 ajabe - maravilla  
@@ -64,20 +57,11 @@ akses - acceso
 aksesa - acceder  
 aksesabli - accesible  
 ala - cambiar (demudar)  
-ali - otro  
-alo - sino  
-alofon - alófono  
-alonamo - es decir (en otras palabras)  
-aloraya - disentir (no estar de acuerdo)  
-alorayia - desacuerdo  
-aloromansi - heterorromántico  
-aloseksi - heterosexual  
-alosifi - diferente  
-alosfia - diferencia  
 Alaska - Alaska  
 alge - alga  
 algofung - liquen  
 algojangle - bosque de algas  
+ali - otro  
 alkale - base (álcali)  
 alkali - alcalino  
 alkalogusti - amargo  
@@ -87,49 +71,47 @@ alkol - alcohol
 alkoli - alcohólico  
 almare - armario  
 almas - diamante  
-aluminem - aluminio  
+alo - sino  
+alofon - alófono  
+alonamo - es decir (en otras palabras)  
+aloraya - disentir (no estar de acuerdo)  
+alorayia - desacuerdo  
+aloromansi - heterorromántico  
+aloseksi - heterosexual  
+alosfia - diferencia  
+alosifi - diferente  
+alumin - aluminio  
 aluminmate - alumbre  
 aluminokside - alúmina  
 am - amor  
 ama - amar  
-ami - querido  
-amater - amateur (aficionado)  
-amer - amante (enamorado)  
-amike - amado (cariño)  
 Amari - amhara  
+amater - amateur (aficionado)  
 ameno - seguramente (amén)  
+amer - amante (enamorado)  
 Amerike - América  
 ameriki - americano  
 Ameriki Samoa - Samoa Americana  
-amerikem - americio  
+amerikium - americio  
+ami - querido  
+amike - amado (cariño)  
 amir - orden (mando, comando)  
 amira - mandar (ordenar)  
-amiria - emirato  
 amirer - emir  
+amiria - emirato  
 amirlin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
 anairbivi - anaeróbico  
 anama - detestar  
 andaka - destapar  
-andeviste - ateo  
-andiniste - infiel (descreído)  
-angalta - depurar  
-anyavi - innecesario  
-anjama - dispersar (esparcir, desmontar)  
-anjami - escaso (disperso, ralo)  
-ankriste - Anticristo  
-anmema - olvidar  
-annam - antónimo  
-anromansi - arromántico  
-anseksi - asexual  
-ansomia - insomnio  
-antapa - desatascar  
-anzaya - quitar (eliminar, borrar)  
 ande - huevo  
 Andes - Andes  
 andesite - andesita  
+andeviste - ateo  
+andiniste - infiel (descreído)  
 Andora - Andorra  
+angalta - depurar  
 angar - ancla  
 Angola - Angola  
 angul - dedo  
@@ -138,8 +120,17 @@ angulpike - yema del dedo
 angulring - anillo (sortija)  
 anima - animar  
 anime - animación (dibujo animado)  
+anjama - dispersar (esparcir, desmontar)  
+anjami - escaso (disperso, ralo)  
 anjil - mensaje  
 anjiler - mensajero  
+ankriste - Anticristo  
+anmema - olvidar  
+annam - antónimo  
+anromansi - arromántico  
+anseksi - asexual  
+ansomia - insomnio  
+antapa - desatascar  
 Antartike - antartida  
 Antartiki Hai - océano Antártico  
 anten - antena  
@@ -147,72 +138,70 @@ Antigua - Antigua
 Antigua e Barbuda - Antigua y Barbuda  
 anus - ano  
 anusi - anal  
+anyavi - innecesario  
+anzaya - quitar (eliminar, borrar)  
 aple - manzana  
-aplosaus - compota de manzanas  
 aplika - emplear (aplicar)  
 aplike - aplicación  
+aplosaus - compota de manzanas  
 Apsni - abjazia  
 ar - área (superficie)  
-aria - área (zona, región)  
 arabi - árabe  
 arabobabul - goma arábiga  
 arane - araña  
 aranofobia - aracnofobia  
 arbuze - sandía (patilla)  
-Arcah - Artsaj  
+Archah - Artsaj  
 argente - plata  
 Argentina - Argentina  
 argon - argón  
 argum - argumento  
+aria - área (zona, región)  
 arke - arco  
 arker - arquero  
 arkeria - tiro con arco  
 arme - arma  
 aroma - oler (olfatear)  
 arome - olor (aroma)  
-aromu - oler (apestar)  
 aromomelon - melón coreano  
+aromu - oler (apestar)  
 arsene - arsénico  
 arte - arte  
-artiste - artista  
 Artike - Ártico  
 Artiki Hai - océano Ártico  
+artiste - artista  
 Aruba - Aruba  
-asi - asiático  
-Asia - Asia  
 asan - postura (posición)  
 asar - resulta (efecto)  
 asara - efectuar  
+Ashur - Assur (Ashur)  
+Ashuria - Asiria  
+asi - asiático  
+Asia - Asia  
 askete - asceta  
-asle - origen  
-asli - original  
 aslameriki - indígena (indio)  
 aslaustrali - aborigen  
+asle - origen  
+asli - original  
 asme - asma  
 aspirin - aspirina  
-astatem - ástato  
+astatium - ástato  
 astre - cuerpo celeste  
 astronau - astronave (nave estelar)  
 astronaver - astronauta  
-astronomia - astronomía  
 astronomer - astrónomo  
+astronomia - astronomía  
+ata* - anón (ates, saramuyo)  
 ate - acto  
 ater - agente  
+Atina - Atenas  
 ation - acción  
 ativi - activo  
-ata\* - anón (ates, saramuyo)  
-Atina - Atenas  
 Atlanti Hai - océano Atlántico  
 atlantokade - bacalao común  
 atlantosalmon - salmón del Atlántico  
 atom - átomo  
-avakate - aguacate  
-avar - daño (corrupción)  
-avara - dañar  
-avari - dañado  
-avarani - dañino (perjudicial)  
 auda - oír (escuchar)  
-aven - avena  
 aure - oro  
 Australia - Australia  
 Austronesia - Austronesia  
@@ -224,13 +213,17 @@ autologe - monólogo
 automoti - automotor (automotriz)  
 autonomi - autónomo  
 autonomia - autonomía  
-Axur - Assur (Ashur)  
-Axuria - Asiria  
+avakate - aguacate  
+avar - daño (corrupción)  
+avara - dañar  
+avarani - dañino (perjudicial)  
+avari - dañado  
+aven - avena  
 Azerbaijan - Azerbaiyán  
 ####B - B  
 babe - capítulo (sección)  
-babuce - chinelo (pantufa)  
-bace - niño o niña  
+babuche - chinelo (pantufa)  
+bache - niño o niña  
 badam - almendra  
 badavi - nómada  
 badla - intercambiar (canjear)  
@@ -238,95 +231,88 @@ bagaje - equipaje
 bagre - tigre  
 bagroselote - gato manchado (tigrillo)  
 bah - bah  
+Bahama - Bahamas  
 bahayiste - bahá'í  
 bahayistia - bahaísmo (fe bahá'i)  
-Bahama - Bahamas  
 Bahrain - baréin  
 bai - bahía  
 baki - blanco  
-bakocoi - col china  
+bakochoi - col china  
 bakomargarite - margarita  
 bakosalmon - salmón chum (keta)  
 balde - balde (cubo)  
 balibali - distintos (diversos)  
 balon - globo  
-balonpex - pez globo  
+balonpesh - pez globo  
 balute - roble  
 balutopal - bellota  
 bamye - ocra  
-bangem - juego de mesa  
 banan - plátano (banana)  
 bande - banda  
 bandir - bandera  
+bangem - juego de mesa  
 bangli - bengalí  
-Banglodex - Bangladés  
-banglodexi - bangladesí  
-banye - bañera  
-banyu - bañarse  
-banyokamar - baño  
+Banglodesh - Bangladés  
+banglodeshi - bangladesí  
 banka - ahorrar (reservar, depositar)  
 banke - banco  
 banker - banquero  
 banse - bambú  
+banye - bañera  
+banyokamar - baño  
+banyu - bañarse  
 bar - bar  
-bara - cargar  
-bare - carga (pesa)  
-barem - bario  
-barmetal - metal pesado  
+bara - carga (pesa)  
+bara metal - metal pesado  
 Barbados - Barbados  
 barbar - bárbaro  
 Barbuda - Barbuda  
 barde - barba  
-barya - barrar (bloquear, obstruir)  
-baryer - barrera (barda)  
+bare - barrar (bloquear, obstruir)  
+bare - barrera (barda)  
+barium - bario  
 barka - felicitar  
-barke! - ¡Felicitaciones!  
-barkoke - albaricoque  
-barti - indio (hindú)  
-Barti Hai - océano Índico  
+barka - ¡Felicitaciones!  
+barte - indio (hindú)  
+Barte Hai - océano Índico  
 Bartia - India  
 barude - pólvora  
-barxe - lluvia  
-barxi - lluvioso (pluvioso)  
-barxu - llover  
-barxocate - parasol  
-barxokote - impermeable  
-basi - bastante  
 basen - piscina (alberca, lavadero)  
+basha - hablar (comunicarse)  
+basha - lengua (idioma)  
+bashi jinse - género gramatical  
+bashokanun - gramática  
+bashokanuni - gramatical  
+basholojia - lingüística  
+basi - bastante  
 baske - cesta (canasta, barquilla, aro)  
-baskobol - baloncesto (básquetbol)  
-bate - pato  
-bati - ocho (8)  
-batokrote - ornitorrinco  
-batolun - agosto  
-batosenter - pulpo  
+baske bol - baloncesto (básquetbol)  
+bata - pato  
+bata krote - ornitorrinco  
+bateri - pila (batería)  
+bato - ocho (8)  
+bato me mes - agosto  
 baton - barra (vara, palo)  
-batonkapse - jaula (caja)  
-batonpang - baguette  
-batre - pila (batería)  
+baton kapse - jaula (caja)  
+baton pan - baguette  
+batosenter - pulpo  
 bau - tesoro  
+bau sheke - piedra preciosa (joya, gema)  
 bavi - precioso  
-bauxeke - piedra preciosa (joya, gema)  
-baxa - hablar (comunicarse)  
-baxe - lengua (idioma)  
-baxi jinse - género gramatical  
-baxokanun - gramática  
-baxokanuni - gramatical  
-baxolojia - lingüística  
 baza - fundar (basar)  
+bazar - mercado (bazar)  
 baze - base  
-bazi - básico  
 bazer - fundador  
+bazi - básico  
 bazobol - béisbol  
 bazokanun - constitución  
 bazopetre - lecho de roca  
-bazoxulkan - escuela primaria  
-bazar - mercado (bazar)  
+bazoshulkan - escuela primaria  
+be’e - cabra  
 bebe - bebé  
 bede - cama  
 bedinje - berenjena  
 bega - escaparse (evitar, huir)  
-beyu - sufrir (verbo pasivo)  
 Beijing - Pekín  
 beka - hornear (cocer)  
 beker - panadero  
@@ -338,27 +324,28 @@ Belarus - Belarús
 Belgia - Bélgica  
 Belize - Belice  
 ben - hijo o hija  
-bence - banco (silla)  
+benche - banco (silla)  
 benda - atar (amarrar)  
 bende - banda (cinta)  
 Benin - Benín  
 benzin - gasolina (bencina)  
-bere - baya  
 berande - balcón (terraza, veranda)  
+bere - baya  
 berete - boina  
-berilem - berilio  
+berilium - berilio  
 berje - abedul  
-berkelem - berkelio  
+berkelium - berkelio  
 Bermuda - Bermuda  
 bete - remolacha  
 beton - concreto (hormigón)  
+beyu - sufrir (verbo pasivo)  
 biblia - Biblia  
 bil - cuenta (factura)  
 bilor - cristal  
 bina - construir (edificar)  
-binplania - arquitectura  
-binplaner - arquitecto  
 binde - punto (lunar)  
+binplaner - arquitecto  
+binplania - arquitectura  
 bir - cerveza (birra)  
 birkan - bar (pub)  
 bis - no binario (género)  
@@ -368,7 +355,7 @@ bismute - bismuto
 biye - vida orgánica  
 biyi - orgánico  
 biyi jinse - sexo  
-biyocaniver - abono orgánico (compost)  
+biyochaniver - abono orgánico (compost)  
 biyolojia - biología  
 biyomutu - fermentar  
 biyosistem - bioma  
@@ -382,7 +369,6 @@ bloge - blog
 bode - cuerpo  
 bodi - corporal (corpóreo)  
 boi - flotador (boya)  
-boyu - nadar (flotar)  
 boikote - boicot  
 boke - boca  
 bokse - boxeo  
@@ -392,39 +378,41 @@ bol - bola
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
 bombe - bomba  
-boni - bueno  
-boni zar - buena suerte  
 bondarja - mejorar  
 bondeke - virtud (moralidad)  
 bondeki - virtuoso (moral)  
+boni - bueno  
+boni zar - buena suerte  
 bonsifi - excelente  
 bonsifia - calidad (excelencia, mérito, virtud, ventaja)  
 bonsinyi - auspicioso (propicio)  
 bonvidi - guapo (bien parecido)  
 bori - aburrido  
 boria - aburrimiento  
-borem - bohrio  
+borium - bohrio  
 boron - boro  
-Bosnia e Hercegovina - Bosnia y Herzegovina  
-Botia - Tíbet  
+Bosnia e Herchegovina - Bosnia y Herzegovina  
 botel - botella  
-bravo - bravo!  
+Botia - Tíbet  
+boyu - nadar (flotar)  
 brauza - explorar  
 brauzer - explorador (navegador)  
+bravo - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - República del Congo  
 Brazil - Brasil  
+briko - albaricoque  
 Britania - Reino Unido  
-bromem - bromo  
-brox - cepillo (brocha)  
-bruni - marrón  
+bromium - bromo  
+brosh - cepillo (brocha)  
 brunalge - algas pardas  
-brunsalmon - trucha marrón  
 Brunei - Brunei  
+bruni - marrón  
+brunsalmon - trucha marrón  
 brus - hermano o hermana  
-buca - carnear (matar)  
-bucer - carnicero  
-bucokan - matadero  
+bucha - carnear (matar)  
+bucher - carnicero  
+buchokan - matadero  
 buda - darse cuenta (notar)  
 Bude - Buda  
 bude - comprensión (entendimiento)  
@@ -438,8 +426,8 @@ bui - baobab
 bujete - presupuesto  
 buke - libro  
 bula - hervir (cocer)  
-bulu - hervirse (ser cocida)  
 bulbul - ruiseñor  
+bulu - hervirse (ser cocida)  
 bum - explosión (estallado)  
 bumu - explotar (estallar)  
 burge - castillo (fortaleza)  
@@ -449,140 +437,129 @@ buste - pecho (busto)
 bute - bota  
 buton - tecla (botón)  
 butonban - teclado  
-buze - cabra  
-####C - C  
-cabe - llave  
-Cadia - Chad  
-cai - té  
-caikan - salón de té  
-caikupe - taza de té  
-caipote - tetera  
-cake - cuchillo  
-cakre - rueda (volante)  
-camace - cuchara  
-campion - campeón  
-cana - producir (hacer, preparar)  
-cani - artificial (sintético)  
-cania - producción  
-canbax - idioma artificial (lengua construida, conlang)  
-canse - oportunidad (chance)  
-canta - cantar  
-cante - canción  
-cantergrupe - coro  
-capa - imprimir  
-cape - grabado (sello, estampando)  
-capate - chapati (pan sin levadura)  
-cari - cuatro (4)  
-cargon - cuadro  
-caryom - jueves  
-carlun - abril  
-carme - encanto  
-cate - techo (tejado)  
-cau - césped (hierba)  
-cavistan - pradera (pastizal)  
-Cehia - República Checa  
-ceka - revisar (chequear)  
-cel - célula  
-celolojia - citología  
-celsius darje - grado Celsius  
-cena - preceder (anteceder)  
-ceni - previo (anterior)  
-ceno - más temprano (antes, haber, en el pasado)  
-cenaga - presuponer  
-cendeno - ayer  
-cenfikse - prefijo  
-cenyangi - clásico  
-cenike - reliquia  
-ceniki - viejo (antiguo)  
-cenvida - prever (esperar, pensar)  
-cenzam - pasado  
-ceng - capa (piso, planta, estrato)  
-centi\* - centi- (por ciento)  
+centi - centi- (por ciento)  
 centimitre - centímetro  
-Ceres - Ceres (planeta enano)  
-ceresem - cerio  
-cerize - cereza  
-Cernagora - Montenegro  
-cesem - cesio  
-ceti - siete (7)  
-cetyom - domingo  
-cetolun - julio  
-cile - chile  
-Cilia - Chile  
-cimpanze - chimpancé  
-cin - parente (madre o padre)  
-cini - chinés (de los Han)  
-cinbrusben - primo  
-cinmai - abuela  
-cinpai - abuelo  
-cincile - chinchilla  
-cinga - pedir (invitar; por favor)  
-cinga laya - invitar  
-Cipia - Albania  
-cir - rasgar (romper)  
-cira - rasgar (romper)  
-circiri - andrajoso  
-cita - citar  
-citomarke - comilla  
-cize - queso  
-coda - joder (coger, copular)  
-coi - verduras  
-coklate - chocolate  
-coklatobaton - barra de chocolate  
-cope - azada  
-cor - robo (hurto)  
-cora - robar (hurtar)  
-corer - ladrón  
-Cosen - Corea  
-Coseni - coreano  
-Cvana - Botsuana  
-cum - beso  
-cun - aldea  
-cupa - chupar (succionar)  
-cuta - salir (irse)  
-cute - escapatoria  
-cutomun - salida  
-cuza - elegir (escoger, seleccionar)  
-cuze - elección  
-cuzable - opción  
+cerium - cerio  
+cesium - cesio  
+ch - C  
+chabe - llave  
+chadia - Chad  
+chai - té  
+chaikan - salón de té  
+chaikupe - taza de té  
+chaipote - tetera  
+chake - cuchillo  
+chakre - rueda (volante)  
+chamache - cuchara  
+champion - campeón  
+chana - producir (hacer, preparar)  
+chanbash - idioma artificial (lengua construida, conlang)  
+chani - artificial (sintético)  
+chania - producción  
+chanse - oportunidad (chance)  
+chanta - cantar  
+chante - canción  
+chantergrupe - coro  
+chapa - imprimir  
+chapate - chapati (pan sin levadura)  
+chape - grabado (sello, estampando)  
+chargon - cuadro  
+charme - encanto  
+chate - techo (tejado)  
+chatre - cuatro (4)  
+chatre me den - jueves  
+chatre me mes - abril  
+chau - césped (hierba)  
+chavistan - pradera (pastizal)  
+chehia - República Checa  
+cheka - revisar (chequear)  
+chel - célula  
+chelolojia - citología  
+chelsius darje - grado Celsius  
+chena - preceder (anteceder)  
+chenaga - presuponer  
+chendeno - ayer  
+chenfikse - prefijo  
+cheng - capa (piso, planta, estrato)  
+cheni - previo (anterior)  
+chenike - reliquia  
+cheniki - viejo (antiguo)  
+cheno - más temprano (antes, haber, en el pasado)  
+chenvida - prever (esperar, pensar)  
+chenyangi - clásico  
+chenzam - pasado  
+cheres - Ceres (planeta enano)  
+cherize - cereza  
+chernagora - Montenegro  
+Chile - Chile  
+chili - chile  
+chimpanze - chimpancé  
+chin - parente (madre o padre)  
+chinbrusben - primo  
+chinchile - chinchilla  
+chinga - pedir (invitar; por favor)  
+chinga laya - invitar  
+chinmai - abuela  
+chinpai - abuelo  
+chipia - Albania  
+chir - rasgar (romper)  
+chira - rasgar (romper)  
+chirchiri - andrajoso  
+chita - citar  
+chitomarke - comilla  
+chize - queso  
+choda - joder (coger, copular)  
+choi - verduras  
+choklate - chocolate  
+choklatobaton - barra de chocolate  
+chope - azada  
+chor - robo (hurto)  
+chora - robar (hurtar)  
+chorer - ladrón  
+chosen - Corea  
+choseni - coreano  
+chum - beso  
+chun - aldea  
+chupa - chupar (succionar)  
+chuta - salir (irse)  
+chute - escapatoria  
+chutomun - salida  
+chuza - elegir (escoger, seleccionar)  
+chuzable - opción  
+chuze - elección  
+chvana - Botsuana  
 ####D - D  
 da - de (posposición de posesión)  
-du - de (posposición de posesión)  
-dayi - grande  
-dayia - tamaño  
-dayu - crecer (aumentar)  
-dayanjiler - embajador  
-dayanjilkan - embajada  
 daidom - palacio (mansión)  
 daihai - océano  
 daipau - cañón  
 daipaver - cañonear  
+daisheke - peñasco (pedrusco)  
+daishulkan - universidad  
 daivaze - caldero  
-daixeke - peñasco (pedrusco)  
-daixulkan - universidad  
 daka - cubrir (tapar)  
 dake - tapa (funda, cubierta)  
 dalil - prueba  
 dalila - probar (demonstrar, comprobar)  
 damgem - damas  
 dan - partícula (grano, bala)  
+danger - campana (cencerro)  
 dani - danés  
 Dania - Dinamarca  
-dansekuri - antibalas  
-danger - campana (cencerro)  
 danka - agradecer  
 danke - gracias  
 danko da - gracias a (merced a)  
 danse - baile (danza)  
+dansekuri - antibalas  
 danta - morder  
 dante - diente  
 dantobalute - roble daimyo  
-dantobrox - cepillo de dientes  
+dantobrosh - cepillo de dientes  
 dantomediker - dentista (odontólogo)  
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
 darjomute - desarrollo  
-darmositem - darmstatio  
+darmesitadium - darmstatio  
 darte - tierra (barro)  
 darti - sucio  
 darviniste - darwinista  
@@ -595,10 +572,15 @@ dau - camino (calle)
 dauban - señal de tránsito  
 daviste - taoísta  
 davistia - taoísmo  
-debu - deber (necesitar)  
+dayanjiler - embajador  
+dayanjilkan - embajada  
+dayi - grande  
+dayia - tamaño  
+dayu - crecer (aumentar)  
 debili - débil  
-deci\* - deci-  
-decibel - decibelio  
+debu - deber (necesitar)  
+dechi* - deci-  
+dechibel - decibelio  
 def - defensa  
 defa - defender  
 defban - escudo  
@@ -619,43 +601,44 @@ demokratia - democracia
 demokratiste - demócrata  
 demon - demonio  
 den - día  
-denyam - almuerzo  
 denga - esperar  
-desi - diez (10)  
-desdullun - deciembre  
-deslun - octubre  
-desunlun - nobiembre  
+denyam - almuerzo  
+des - diez (10)  
+des du me mes - deciembre  
+des me lun - octubre  
+des un me lun - nobiembre  
 desen - dibujo (diseño)  
+desh - país (nación, estado, terra)  
+deshojan - ciudadano  
 detal - detalle  
 deu - dios  
-devi - divino  
-deviste - teísta  
-devistia - teísmo  
 deukratia - teocracia  
 deulojia - teología  
 deunagri harfe - devanágari  
 deusage - mito (cuento divino)  
 deusofia - teosofía  
-dex - país (nación, estado, terra)  
-dexojan - ciudadano  
+devi - divino  
+deviste - teísta  
+devistia - teísmo  
+di - de (posposición de posesión)  
 dika - apuntar  
 dike - objetivo  
 din - religión  
-dini - religioso  
-dinguru\* - sacerdote (clérigo, eclesiástico)  
-diniste - creyente  
 dinamite - dinamita  
 dinde - pavo (guajalote)  
 ding - clavo (pincho, punta)  
+dinguru* - sacerdote (clérigo, eclesiástico)  
+dini - religioso  
+diniste - creyente  
 diorite - diorita  
+dish - dirección  
+disho - directamente  
 diske - disco  
-disprosem - disprosio  
+disprosium - disprosio  
 Divehia - Maldivas  
-dix - dirección  
-dixo - directamente  
 dobe - ladrillo  
-doici - alemán  
-Doicia - Alemania  
+doichi - alemán  
+Doichia - Alemania  
 dokum - documento (archivo, nota)  
 dokumfilme - documental  
 dokumsanduke - carpeta  
@@ -663,20 +646,22 @@ dolar - dolar
 dolfin - delfín  
 dom - casa (hogar, residencia)  
 doma - vivir (residir)  
-domi - doméstico (domesticado)  
 domana - alojar (hospedar)  
-domzeze - mosco  
-Dominiki Komunkratia - Republica Dominicana  
+domi - doméstico (domesticado)  
 Dominika - Dominica  
+Dominiki Komunkratia - Republica Dominicana  
 dominogem - dominó  
+domzeze - mosco  
 don - regalo (obsequio)  
 dona - dar  
-donivi - generoso (dadivoso)  
 dong - éste  
 dongi - oriental  
 Dongi Timor - Timor Oriental  
 dongogoril - gorila oriental  
+donivi - generoso (dadivoso)  
 donjon aventur - juego de mazmorras  
+dosh - culpa (defecto, crimen)  
+doshi - culpable  
 dosila - domar (amansar)  
 dosili - manso (dócil, obediente)  
 dosiljeni - domesticado  
@@ -687,47 +672,46 @@ dostia - amistad (compañerismo)
 dotor - doctor  
 dotoria - doctorado  
 dou - legumbre (frijol o arveja)  
-dox - culpa (defecto, crimen)  
-doxi - culpable  
 doze - ración (dosis)  
 drame - drama  
 droge - droga (narcótico)  
 Drugia - Bután  
-dubnem - dubnio  
+du - dos (2)  
+du me den - martes  
+du me mes - febrero  
+dubnium - dubnio  
 duga - leer  
 duka - entristecer (poner triste)  
 duke - pena (tristeza)  
 duki - triste  
 duku - llorar  
-duli - dos (2)  
-dulo fena - reducir a la mitad (dividir en dos)  
-dulo multa - doblar (multiplicar por dos)  
-dulbaxi - bilingüe  
-dulyom - martes  
+dulbashi - bilingüe  
 dulistia - dualismo  
-dullun - febrero  
 dulmaro - dos veces  
 dulmeni - doble sentido  
+dulo fena - reducir a la mitad (dividir en dos)  
+dulo multa - doblar (multiplicar por dos)  
 dulromansi - birromántico  
 dulseksi - bisexual  
 duman - humo  
 duni - global (mundial)  
 dunia - mundo  
-dunia bax - lengua mundial  
+dunia bash - lengua mundial  
 dur - duración  
 dura - durar (durante, llevar tiempo)  
-duri - crónico  
-duru - transcurrir  
 durabli - durable  
+duri - crónico  
 durita - pasar (transcurrir)  
 durmetrer - cronómetro  
+duru - transcurrir  
 durzam - era (periodo, época)  
-dusi - malo (difícil, duro)  
-dusi zar - infortunio (mala suerte)  
 dusdarja - degradar  
 dusforma - desfigurar  
-dusfunce - falla (mal funcionamiento)  
+dusfunche - falla (mal funcionamiento)  
+dush - ducha  
 dushal - dificultad (apuro, privación)  
+dusi - malo (difícil, duro)  
+dusi zar - infortunio (mala suerte)  
 dusjan - enemigo  
 duskar - pecado  
 dusnam - insulto (ofensa)  
@@ -737,7 +721,6 @@ dusvidi - feo
 dute - duda  
 duva - rezar (orar)  
 duve - rezo (oración)  
-dux - ducha  
 ####E - E  
 e - y  
 eglis - iglesia  
@@ -752,88 +735,88 @@ Ekuador - Ecuador
 eletre - electricidad  
 eletri - eléctrico  
 eletrolin - cable  
+eletron - electrón  
 eletroposte (e-poste) - email (correo electrónico)  
 eletrorade - relámpago  
-eletron - electrón  
 em - elemento (unidad fundamental)  
 emoje - emoticón (emoyi)  
 emos - afecto (emoción)  
+emoshal - humor  
 emosi - emotivo  
 emosu - sentir  
-emoshal - humor  
-eni - qualquier  
 energe - energía  
 engli - inglés  
 Englia - Inglaterra  
 englofiler - anglófilo  
 englokitaba - anglicanizar  
 englomargarite - margarita común (pascueta)  
+eni - qualquier  
 enjener - ingeniero  
 enzim - enzima  
 er - hacedor (perpetrador)  
+erbium - erbio  
 eria - arte (campo)  
-erbem - erbio  
 Eris - Eris (planeta enano)  
 Eritria - Eritrea  
 esei - ensayo (redacción)  
+esh - fuera (exterior)  
+esha - expulsar (exceptuar, excepto)  
+eshdesh - país extranjero  
+eshdeshi - extranjero  
+eshi - exterior  
+eshkava - excavar  
+eshklusa - excluir  
+eshklusivi - exclusivo  
+eshmisa - exportar  
+eshnam - exónimo  
+eshojeni - exógeno  
+eshplanete - exoplaneta (planeta extrasolar)  
+eshploze - explosión  
+eshplozu - explosionar  
+eshpoza - exponer (revelar)  
+eshtrata - extraer  
+eshtru - salir (egresar)  
+eshvidi - evidente  
+eshyam - jira (pícnic)  
 eskala - escalar  
 eskale - escalera  
 eskalotan - enredadera  
 Eskandia - Escandinavia  
-eskandem - escandio  
+eskandium - escandio  
 Eskotia - Escocia  
 eskulta - esculpir  
 eskulte - escultura (estatua)  
-eskultia - escultura (arte de escultura)  
 eskulter - escultor  
+eskultia - escultura (arte de escultura)  
 Espania - España  
 esperanti - Esperanto  
 esponje - esponja  
 esporte - deporte  
 esporter - deportista  
-Estia - Estonia  
 estadia - estadio (arena)  
 estan - estaño  
 estasa - mantener (detener)  
 estasi - estático (estacionario)  
 estasia - estación  
 estasu - pararse (detenerse)  
-estibem - antimonio  
-estrontem - strontium  
+Estia - Estonia  
+estibium - antimonio  
+estrontium - strontium  
 estuda - estudiar (examinar)  
-estudia - estudio  
 estuder - estudiante  
+estudia - estudio  
 Etiopia - Etiopía  
-evi - beneficioso (bueno)  
-evanjil - evangelio  
 euloge - elogio  
 eurasia - Eurasia  
 eureka - econtrar (hallar)  
-euro\* - euro  
+euro* - euro  
 Europe - Europa  
 europi - europeo  
 Europi Unia - Unión Europea  
-europem - europio  
+europium - europio  
 europobalute - roble común  
-ex - fuera (exterior)  
-exa - expulsar (exceptuar, excepto)  
-exi - exterior  
-exdex - país extranjero  
-exdexi - extranjero  
-exyam - jira (pícnic)  
-exkava - excavar  
-exklusa - excluir  
-exklusivi - exclusivo  
-exmisa - exportar  
-exnam - exónimo  
-exojeni - exógeno  
-explanete - exoplaneta (planeta extrasolar)  
-exploze - explosión  
-explozu - explosionar  
-expoza - exponer (revelar)  
-extru - salir (egresar)  
-extrata - extraer  
-exvidi - evidente  
+evanjil - evangelio  
+evi - beneficioso (bueno)  
 ####F - F  
 fada - suministrar (dar, proveer, emitir)  
 faidi - útil (beneficioso)  
@@ -844,37 +827,36 @@ falsvide - ilusión
 famil - familia  
 familnam - apellido  
 fan - lodo (barro, fango)  
-fani - embarrado (enlodado)  
 fandefban - guarda-barros (aleta)  
-fantopia - ciénaga (pantano)  
+fani - embarrado (enlodado)  
 fantaza - imaginar (fantasear)  
 fantaze - imaginación (fantasía)  
 fantazi - imaginario (fantástico)  
 fantom - fantasma  
+fantopia - ciénaga (pantano)  
 farsi - farsi  
 fas - faz (faceta)  
-fasteli - profundo (hondo)  
-fastelia - superficial (poco profundo)  
+fashe - tira (faja, vendaje, cinta)  
+fashiste - fascista  
+fashistia - fascismo  
+fashon - moda (tendencia)  
+fashoni - moda (moderno, popular)  
 fasili - fácil  
 fasilia - facilidad  
 fasilia da akses - fácil acceso (accesibilidad)  
 fasinia - fascinación  
+fasteli - profundo (hondo)  
+fastelia - superficial (poco profundo)  
 fata - hacer  
 fate - hecho  
 fater - farbicante  
-fatokan - fábrica  
 fatigia - fatiga  
 fatigu - cansarse (fatigar)  
-faxe - tira (faja, vendaje, cinta)  
-faxiste - fascista  
-faxistia - fascismo  
-faxon - moda (tendencia)  
-faxoni - moda (moderno, popular)  
+fatokan - fábrica  
 faze - etapa (fase)  
 febre - fiebrie (calentura)  
 fei - vuelo  
-feyu - volar  
-feimux - murciélago  
+feimush - murciélago  
 fem - mujer (hembra)  
 femi pute - hija  
 femi rajer - reina  
@@ -882,18 +864,19 @@ femiste - feministe
 femistia - feminismo  
 fen - parte (fracción)  
 fena - dividir (repartir)  
-feni - discreto (digital)  
-fenu - partir (dividirse)  
 fendona - contribuir  
+feni - discreto (digital)  
 fenkata - analizar (disecar)  
 fenkate - análisis (disección)  
+fenu - partir (dividirse)  
 fere - hierro  
-fermem - fermio  
+fermium - fermio  
 festa - celebrar (festejar)  
 feste - celebración (fiesta)  
 festoden - día festivo (feriado)  
 fete - grasa  
 feti - graso (adiposo)  
+feyu - volar  
 figur - representación (figura)  
 Fiji - Fiji  
 fikra - pensar  
@@ -901,14 +884,14 @@ fikre - idea (pensamiento, reflexión)
 fiksa - fijar (pegar, asegurar)  
 fikse - accesorio (afijo)  
 fila - gustarse (querer)  
-filia - attracción (-filia)  
 filer - fan (-filo)  
-filsofia - filosofía  
-filsofer - filósofo  
+filia - attracción (-filia)  
 Filipinas - Filipinas  
 Filistin - Palestina  
 filme - película (film, membrana)  
+filsofer - filósofo  
 filsofi - filosófico  
+filsofia - filosofía  
 filter - filtro  
 fin - fin (el final)  
 fina - terminar (acabar)  
@@ -917,18 +900,18 @@ finodi - final (último)
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
 fite - planta (vegetal, vegetación)  
-fityamiste - vegetariano  
 fitolojia - botánica  
+fityamiste - vegetariano  
 fizike - física  
-fizikia - física  
 fiziker - físico (científico)  
-flece - flecha  
-flerovem - flerovio  
-flurem - flúor  
+fizikia - física  
+fleche - flecha  
+flerovium - flerovio  
+flur - flúor  
 foba - asustar (atemorizar)  
+fobani - asustador  
 fobia - miedo (-fobia)  
 fobu - temer  
-fobani - asustador  
 fokus - concentrar (enfocarse)  
 fokusa - concentración  
 foli - demente (loco, insensato)  
@@ -950,19 +933,20 @@ foti - claro (luminoso)
 fotobaton - antorcha  
 fotofrika - pulir (lustrar)  
 fotograf - foto (fotografía)  
-fotografia - fotografía  
 fotografer - fotógrafo  
-fotografmaxin - cámara  
+fotografia - fotografía  
+fotografmashin - cámara  
 fotominar - faro (baliza, almenara)  
 fotorade - rayo luminoso  
 fotosirke - halo (aureola)  
-Fransi Guyana - Guyana Francesa  
-fransi krepe - crepa (crep, tortilla de trigo)  
-Fransi Polnesia - Polinesia Francesa  
-Fransia - Francia  
-fransem - francio  
+France - Francia  
+France Guyana - Guyana Francesa  
+France krepe - crepa (crep, tortilla de trigo)  
+France Polinesia - Polinesia Francesa  
+francium - francio  
 frem - marco  
 frika - raspar (arañar)  
+frute - fruta  
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
 fui - puaj  
 fuka - vestir  
@@ -971,37 +955,37 @@ fuki - vestido (llevando ropa)
 fuku - llevar (verstirse)  
 ful - flor  
 fuljar - florero  
-fulu - florecer  
 fulmosim - primavera  
 fulpote - maceta (plantera)  
+fulu - florecer  
 fun - polvo  
-funcuper - aspiradora  
-funcu - funcionar  
-fung - hongo (moho)  
-fungonete - micelio  
-fungopal - champiñón (seta)  
+funchu - funcionar  
+funchuper - aspiradora  
+funge - hongo (moho)  
+funge frute - champiñón (seta)  
+funge nete - micelio  
+furete - hurón  
 furi - enojado (furioso)  
 furia - ira (furia)  
-furete - hurón  
-fute - pie (pata)  
-futoban - andamiaje  
-futobol - fútbol  
-futomarke - pisada (huella)  
 futau - hacha  
+fute - pie (pata)  
+fute bol - fútbol  
+fute marke - pisada (huella)  
+futoban - andamiaje  
 ####G - G  
 Gabon - Gabón  
 gabra - enterrar  
 gabre - tumba (sepultura)  
 gabristan - cementerio  
-gabroxeke - lápida  
+gabrosheke - lápida  
 gade - burro (asno)  
 gadogude - mula  
-gadolinem - gadolinio  
+gadolinium - gadolinio  
 gaje - elefante  
-Galia - Galia  
-galem - galio  
 galaksia - galaxia  
 galeria - galería  
+Galia - Galia  
+galium - galio  
 galope - galope  
 galta - errar (cometer un error)  
 galte - error  
@@ -1009,27 +993,26 @@ galti - erróneo
 galto buda - malinterpretar  
 gam - esposo o esposa  
 gama - casar  
-gami - casado  
-gamia - casamiento  
 gamben - hijastro o  hijastra  
-gammai - suegra  
-gampai - suegro  
 Gambia - Gambia  
 gamel - camello  
-gana - secar  
-gani - seco (árido)  
-gancau - heno  
-ganputau - pasa (uva pasa)  
-gantex - toalla  
+gami - casado  
+gamia - casamiento  
+gammai - suegra  
+gampai - suegro  
 Gana - Ghana  
+gana - secar  
+ganchau - heno  
 Ganda - Uganda  
 Ganga - Ganges  
-ganya - ganar (cobrar)  
+gani - seco (árido)  
 ganje - cannabis (hachís, marihuana)  
+ganputau - pasa (uva pasa)  
 ganse - ganso (oca)  
+gantesh - toalla  
 ganum - trigo  
+ganya - ganar (cobrar)  
 gar - coche (carruaje, auto, vagón)  
-garparke - estacionamiento (aparcamiento)  
 garante - garantía  
 garda - vigilar (guardar)  
 garder - vigilante (guardia)  
@@ -1038,7 +1021,8 @@ garmi masal - garam masala
 garmomosim - verano  
 garmomosimmedi den - Midsommar  
 garmozon - trópico  
-garmozoni cavistan - sabana  
+garmozoni chavistan - sabana  
+garparke - estacionamiento (aparcamiento)  
 gas - gas  
 gasa - gasificar  
 gasi - gaseoso  
@@ -1047,27 +1031,27 @@ gati - duro
 gatomate - sólido  
 gatomati - rígido (sólido)  
 gau - alto (parte de arriba)  
+gautali - vertical  
+gautalu - inclinar  
 gava - levantar (elevar)  
 gavi - alto  
 gavia - altura (altitud)  
 gavu - subir (alzar)  
-gautali - vertical  
-gautalu - inclinar  
 gaze - gasa  
 gazel - gacela  
 gazete - revista (periódico, gaceta)  
 gazeter - periodista  
-geyi - gay (homosexual)  
 gem - juego  
 gema - jugar un juego  
 gemer - jugador  
-genca - examinar (inspeccionar)  
+gencha - examinar (inspeccionar)  
 Germania - Germania  
-germanem - germanio  
+germanium - germanio  
 Gernezi - Guernesey  
 geta - conseguir (obtener, recibir)  
 geter - engendrador  
 geye - tierra  
+geyi - gay (homosexual)  
 Geyia - Tierra  
 geyodou - maní  
 geyoforme - terreno  
@@ -1077,8 +1061,8 @@ geyokaski plate - placa tectónica
 geyolojia - geología  
 Geyomedi Hai - Mediterráneo  
 geyometria - geometría  
-geyonici - subterráneo  
-geyonici prizon - mazmorra  
+geyonichi - subterráneo  
+geyonichi prizon - mazmorra  
 geyoparlin - ecuador  
 Geyoparlini Ginia - Guinea Ecuatorial  
 geyopolitike - geopolítica  
@@ -1088,14 +1072,14 @@ geyotike - terreno (solar)
 gida - guiar  
 gider - guía  
 gidobuke - guía de viaje  
-giga\* - giga-  
+giga* - giga-  
 gitar - guitarra  
 giuke - jade  
 glisu - deslizar  
 gluta - pegar  
 glute - pegamento (pega, goma)  
-gluti - pegajoso (adhesivo)  
 gluten - gluten  
+gluti - pegajoso (adhesivo)  
 glutobende - curita (apósito)  
 glutofan - arcilla (barro)  
 glutograf - adhesivo  
@@ -1105,12 +1089,14 @@ gom - goma (caucho, hule)
 gon - esquina (rincón, ángulo)  
 gonmetrer - goniómetro (medidor de ángulos)  
 gorile - gorila  
+goro - cerdo (puerco)  
+goro manse - carne de cerdo  
 goton - algodón  
 graf - imagen (gráfico, dibujo)  
 grafa - dibujar (trazar)  
-grafi - gráfico (pictórico, ilustrado)  
 grafbuke - libro de cuentos ilustrado  
 grafer - ilustrador  
+grafi - gráfico (pictórico, ilustrado)  
 grafsage - historieta (caricaturas)  
 gram - gramo (g)  
 granite - granito  
@@ -1126,52 +1112,44 @@ grosia - grosor
 grupe - grupo  
 Guadelupe - Guadalupe  
 Guam - Guam  
-guanxe - relación (asociación, conexión)  
+guanshe - relación (asociación, conexión)  
 Guatemala - Guatemala  
-gubu\* - hipopótamo  
-gude - caballo  
+gubu* - hipopótamo  
 guhe - cueva (caverna)  
 gui - ogro (gnomo, trol, duende, trasgo)  
-Guyana - Guyana  
 gujarati - gujaratí  
 guke - crisantemo  
 gul - gul  
 gula - tragar  
-gum - tambor  
+guma - tambor  
 gun - ejército  
 gunjan - soldado  
-gunrajia - shogunato  
 gunrajer - generalísimo (sogún)  
-guru\* - maestro (gurú, profesor)  
-gurube - cerdo (puerco)  
-gurubomanse - carne de cerdo  
+gunrajia - shogunato  
+guru - maestro (gurú, profesor)  
 gusta - notar el sabor  
 guste - gusto (sabor)  
 gustu ko - tener gusto a  
 gute - rodilla  
+Guyana - Guyana  
 ####H - H  
 ha - con (tener)  
-ha - sí  
 habar - noticias  
 habargazete - periódico (diario)  
-habaxi - abisinio  
-Habaxia - Abisinia  
+habashi - abisinio  
+Habashia - Abisinia  
 hafiza - conservar (preservar, mantener)  
 hafizer - guarda (preservador, conservador)  
-hafnem - hafnio  
+hafnium - hafnio  
 haha - reír  
 hai - mar  
-hayi - marítimo  
-hayalge - macroalga  
-hayamirer - almirante  
+haida - vamos a  
 haiful - actinia (anémonas de mar)  
 haigun - marina (armada)  
 haihiyar - holoturia (pepino de mar)  
 haijel - medusa  
 haiporte - puerto marítimo  
 haitate - costa  
-Hayakia - Armenia  
-haida - vamos a  
 hake - derecho  
 hal - estado (condición)  
 halala - permitir (dejar)  
@@ -1181,15 +1159,16 @@ halela - elogiar (alabar, exaltar)
 halif - califa  
 halifia - califato  
 halou - aló  
-hami - importante  
-hamu - importar  
 hamake - hamaca  
 hamar - martillo (mazo)  
+hami - importante  
 hamili - embarazado (preñado)  
 hamir - levadura  
+hamu - importar  
+Han - chinés (de los Han)  
 hande - mano  
 handi - manual  
-handoxake - brazo  
+handoshake - brazo  
 haos - caos (desorden)  
 hapi - apropriado (apto, oportuno)  
 haraba - arruinar (destruir, devastar, asolar)  
@@ -1205,6 +1184,7 @@ harmonia - armonía
 harnes - arnés (arreos, jaeces)  
 Hartum - Jartum  
 hasa - diferenciar (distinguir)  
+hashish - hachís  
 hasi - especial (diferenciado, distinto)  
 hasia - especialización (distinción)  
 hata - hasta  
@@ -1212,16 +1192,19 @@ hato - hasta (también)
 hatre - peligro  
 hatri - peligroso  
 hava - soplar (echar)  
-have - viento  
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
-haxix - hachís  
-helem - helio  
+have - viento  
+Hayakia - Armenia  
+hayalge - macroalga  
+hayamirer - almirante  
+hayi - marítimo  
 heleni - griego (helénico)  
 Helenia - Grecia  
 helis - espiral (hélice)  
 helisbabul - acacia de copa plana  
 helisviman - helicóptero  
+helium - helio  
 helpa - ayudar (asistar)  
 helpe - ayuda (asistencia)  
 hem - hm  
@@ -1231,43 +1214,44 @@ hen - odio
 hena - odiar  
 herze - hercio (Hz)  
 Hesia - Hesse (Hessia)  
-hesem - hasio  
+hesium - hasio  
 hibride - híbrido (mestizo)  
+hidrargente - mercurio  
 hidre - hidrógeno  
-hiyar - pepino  
 hijabe - velo  
-hime - nieve  
-himu - nevar  
-himros - escarcha  
 Himalia - Himalaya  
+hime - nieve  
+himros - escarcha  
+himu - nevar  
 Hinde riu - Indo  
 Hindia - Indostán  
-hindem - indium  
 hindiste - hindú  
 hindistia - hinduismo  
+hindium - indium  
 hisaba - calcular  
 hisabia - aritmética (cálculos)  
-hisabolojia - matemática  
 hisabolojer - matemático  
+hisabolojia - matemática  
 histor - historia (pasado)  
-historia - historia (estudio de sucesos del pasado)  
 historer - historiador  
+historia - historia (estudio de sucesos del pasado)  
+hiyar - pepino  
 hobe - pasatiempo (hobby, afición)  
 hoga - quemar  
 hoge - fuego  
 hogi - ardiente (encendido)  
-hogu - quemarse  
 hogosanduke - farol (linterna)  
+hogoshan - volcán  
+hogoshani kanche - vidrio volcánico  
+hogosheke - pedernal (sílex)  
 hogotehne - dispositivo pirotécnico  
-hogoxan - volcán  
-hogoxani kance - vidrio volcánico  
-hogoxeke - pedernal (sílex)  
+hogu - quemarse  
 hoke - hockey  
+holgraf - holograma  
 holi - entero (todo)  
 holia - totalidad (integridad)  
-holgraf - holograma  
 holire - cólera  
-holmem - holmio  
+holmium - holmio  
 Hong Gong - Hong Kong  
 hor - hora  
 horloger - reloj  
@@ -1286,71 +1270,35 @@ humusosaus - humus
 hura - liberar (soltar)  
 huri - libre (horro)  
 huria - libertad  
-hurargente - mercurio  
 huriste - liberalista  
 huristi - liberal  
 huristia - liberalismo  
-huxi - cómodo (lujoso)  
+hushi - cómodo (lujoso)  
 ####I - I  
-ya - en (a)  
-ya ke - dónde  
-ya lin - en línea  
-ya ve - allí (allá)  
-yaga - estimar (apriximarse a)  
-yago - aproximadamente  
-yagones - península  
-Yahve - Yahvé (Jehová)  
-yake - yac  
-yala - meter prisa  
-yam - comida  
-yama - comer (bebir)  
-yami - delicioso  
-yamfite - verdura (legumbre)  
-yamyau - hambre  
-yamkamar - comedor  
-yang - variedad (tipo, estilo)  
-yasen - fresno  
-yatim - huérfano  
-yatimdom - orfanato  
-yau - necesidad  
-yavi - necesitado  
-yavu - necesitar  
-yavan - necesario  
-yauxina - confiar (contar con)  
-yauxinabli - leal (fiel)  
-yauxinablia - lealtad (fidelidad)  
 ibri - hebreo  
-ica - querer (disponer)  
-ice - voluntad  
+icha - querer (disponer)  
+iche - voluntad  
 idei - idea (noción, concepto)  
-ideyi - conceptual  
 ideigraf - ideograma  
+ideyi - conceptual  
 idiote - idiota (imbécil)  
 idioti - estúpido (tonto)  
 idiotia - estupidez (tontería)  
-yehudi - judío  
-yehudistia - judaísmo  
-yei - yupi  
-Yemen - Yemen  
-Yesus - Jesús  
-yeze - coco  
-iyon - ion  
-iyoni radi - radiactivo  
-iyoni radia - radiación ionizante  
 impera - reinar (reinar como emperador)  
-imperia - imperio  
 imperer - emperador  
+imperia - imperio  
 imperiste - imperialista  
 imperistia - imperialismo  
 in - interior  
+inan - contenedor  
 inda - contener  
 indi - interior (interno)  
-inan - contenedor  
+Indonesia - Indonesia  
 inite - contenido  
 injeni - innato (endógeno)  
 inklusa - incluir  
-inkluso - incluido  
 inklusivi - inclusivo  
+inkluso - incluido  
 inliste - índice de contenidos  
 inmigra - inmigrar  
 inmigran - inmigrante  
@@ -1358,11 +1306,6 @@ inmisa - importar
 innam - endónimo  
 inploze - implosión  
 inplozu - implosionar  
-insida - agacharse  
-intro - dentro  
-intru - entrar  
-introversi - introvertido  
-Indonesia - Indonesia  
 insan - ser humano  
 insani hake - derechos humanos  
 insania - humanidad (género humano)  
@@ -1370,30 +1313,24 @@ insaniki - humano
 insaniste - humanista  
 insanisti - humanístico  
 insanistia - humanismo  
+inshala - esperar (desear)  
+insida - agacharse  
 internete - Internet  
-inxala - esperar (desear)  
-yodem - yodo (iodo)  
-yoga - hacer yoga  
-yoge - yoga  
-yogiste - yogui  
-yohani feste - día de San Juan  
-yoke - yugo  
-yomcete - semana  
-yongu - derretirse  
-yongopetre - lava  
-yote - gota  
+intro - dentro  
+introversi - introvertido  
+intru - entrar  
 Irakia - Iraq  
 Iran - Irán  
-iridem - iridio  
+iridium - iridio  
 ironi - irónico  
 ironia - ironía  
 islam - sumisión (rendición)  
-islamu - someterse (rendirse, ceder)  
 islamfobia - islamofobia  
 islamiste - musulmán  
 islamisti - islámico  
-islamisti xaria - sharía  
+islamisti sharia - sharía  
 islamistia - islamismo (islam)  
+islamu - someterse (rendirse, ceder)  
 Islandia - Islandia  
 Israel - Israel  
 iste - proponente (defensor, -ista)  
@@ -1402,22 +1339,19 @@ Italia - Italia
 itis - inflamación  
 iva - tender  
 ivia - tendencia  
-yumor - humor (gracia)  
-yumori - humorístico (gracioso, cómico)  
-yumoriste - humorista  
-yuterbem - iterbio  
-yutrem - itrio  
+iyon - ion  
+iyoni radi - radiactivo  
+iyoni radia - radiación ionizante  
 ####J - J  
 jaga - despertar  
 jagi - despierto  
 jagu - despertarse  
-Jayeria - Argelia  
 jake - chaqueta  
 jama - recoger (juntar, reunir, acumular, recolectar, montar)  
+Jamaika - Jamaica  
 jami - colectivo  
 jamia - colección (grupo, conjunto, montón)  
 jamkarde - cromo  
-Jamaika - Jamaica  
 jampa - saltar (brincar)  
 jan - persona  
 janel - ventana  
@@ -1428,6 +1362,7 @@ jar - jarra
 jau - cebada  
 javaba - responder (contestar)  
 javabe - repuesta (contestación)  
+Jayeria - Argelia  
 jaze - jazz  
 jebe - bolsillo  
 jebria - álgebra  
@@ -1440,30 +1375,30 @@ jel - gel (jalea, gelatina)
 jelosi - celoso (envidioso)  
 jen - nacimiento (origen)  
 jena - dar a luz (enngendrar, parir, procrear)  
-jeni - crudo  
-jeni bax - lengua materna  
-jenu - nacer  
 jenden - cumpleaños  
+jeng - pelea (guerra, batalla)  
+jenger - luchador (guerrero)  
+jengi - macrial (militar)  
+jengoshute - arte marcial  
 jengrupe - generación (cohorte)  
+jeni - crudo  
+jeni bash - lengua materna  
 jenistan - lugar de nacimiento  
 jenita - criar  
 jenklas - casta  
 jenolojia - genealogía  
+jenshen - ginseng  
 jentipe - genotipo  
-jeng - pelea (guerra, batalla)  
-jengi - macrial (militar)  
-jenger - luchador (guerrero)  
-jengoxute - arte marcial  
-jenxen - ginseng  
+jenu - nacer  
 Jerze - Jersey  
 jeste - gesto  
 Jibraltar - Gibraltar  
 Jibuti - Yibuti  
 jihade - lucha  
-jino - adelante  
-jinu - avanzar (entrar, adelantar, progresar)  
 jinmun - entrada  
+jino - adelante  
 jinse - sexo (género)  
+jinu - avanzar (entrar, adelantar, progresar)  
 jiraf - jirafa  
 jiu - vida  
 jivi - vivo (lleno de vida)  
@@ -1477,81 +1412,70 @@ joveni man - niño
 joveni moke - pimpollo  
 jovenia - juventud  
 juda - juzgar  
+judau - yudo  
 jude - fallo (juicio, criterio)  
 juder - juez (árbitro, réferi)  
-judau - yudo  
 jul - joule (J)  
 jumle - oración  
 jung - centro  
 junga - centrar (concentrar)  
-jungi - central  
-jungu - centrarse (en el centro de)  
 Jungafrike - República Centroafricana  
+jungi - central  
 jungofon - vocal  
-jungoxulkan - escuela secundaria  
+jungoshulkan - escuela secundaria  
+jungu - centrarse (en el centro de)  
 Junguo - China  
 jupe - falda  
 Jupiter - Jupiter  
 jus - jugo (zumo)  
+jush - inyección  
+jusha - inyectar  
 justi - exacto (preciso)  
 justo - justo (exactamente)  
 justopaver - francotirador  
-jux - inyección  
-juxa - inyectar  
 ####K - K  
 ka - que (como)  
-ke - qué  
-ki - cuál  
-ki yangi - qué tipo de  
-ki jan - quién  
-ki sate - cuándo  
-ki xei - cuál cosa  
-ko multo - cuántos  
-ko? - cómo  
 kababa - asar  
 kabau - búbalo (arni)  
 kabin - cabaña  
 kaboge - calabaza  
 Kabu Verdi - Cabo Verde  
 kade - bacalao  
-kadem - cadmio  
+kadmium - cadmio  
 kafe - café  
+kafir - pagano (infiel)  
 kafokan - café (cafetería)  
 kafokupe - taza de café  
 kafopote - cafetera  
-kafir - pagano (infiel)  
 kaguje - papel  
 kagujolimon - limero  
-kaya - abrir  
-kayi - abierto  
-kayu - abirse  
 Kaiman nesia - islas Caimán  
 kaka - defecar  
-kake - caca  
 kakau - cacao  
+kake - caca  
 kal - espacio (separación)  
-kali - vacío (desocupado)  
-kali harfe - espacio (texto)  
-kalem - potasio  
 Kalalia - Groenlandia  
 kalam - bolígrafo  
 kalende - calendario  
-kalifornem - californio  
+kali - vacío (desocupado)  
+kali harfe - espacio (texto)  
+kalifornium - californio  
+kalium - potasio  
 kalkulia - cálculo  
 kalmar - calamar  
-kalsem - calcio  
 kalsite - calcita  
+kalsium - calcio  
 kalsokristal - marmól  
 kalsomate - cal  
 kalsopetre - caliza  
-kamia - lujuria (deseo)  
 kamar - habitación (cuarto, sala, pieza)  
 kamartal - piso (suelo)  
 Kambojia - Camboya  
 Kamerun - Camerún  
+kamia - lujuria (deseo)  
 kamil - manzanilla de Castilla  
 kamis - camisa  
-kamisi xake - manga  
+kamisi shake - manga  
 kamote - camote (batata)  
 kampe - campamento  
 kamper - campista  
@@ -1560,40 +1484,37 @@ Kamria - Gales
 Kanada - Canadá  
 kanal - canal (cauce, acequia)  
 kanape - sofá  
-kance - vidrio (cristal)  
-kancodaka - vidriar (glasear)  
-kancodake - vidriado (esmalte)  
+kanche - vidrio (cristal)  
+kanchodaka - vidriar (glasear)  
+kanchodake - vidriado (esmalte)  
 kande - caramelo  
 kandel - candela (unidad de intensidad luminosa)  
 kang - peine  
-kangaru\* - canguro  
-kanyon - cañón (barranco, quebrada)  
+kangaru* - canguro  
 kanjar - puñal (daga)  
 kankuate - kumquat (quinoto)  
-kano\* - canoa  
-kante - hombro  
+kano* - canoa  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kantalupomelon - melón cantalupo  
+kante - hombro  
 kanun - regla (ley)  
+kanyon - cañón (barranco, quebrada)  
 kapa - capturar (apresar)  
-kapa pex - pescar  
+kapa pesh - pescar  
 kapotruke - trampa  
 kar - trabajo  
 kara - trabajar  
-karer - trabajador (obrero)  
-karloge - verbo  
-karmeze - escritorio (mesa de trabajo)  
-karmisa - entregar (enviar)  
 Karaibia - Caribe  
 karaoke - karaoke  
-karate\* - karate  
+karate* - karate  
 karau - carvis (alcaravea)  
 karbe - carbón  
 karbodulokside - dióxido de carbono  
 karbosui - carbohidrato  
-karcof - alcachofera  
+karchof - alcachofera  
 karde - tarjeta (carta)  
 kardon - cardo  
+karer - trabajador (obrero)  
 karibe - proximidad  
 karibi - cerca  
 karibo - casi (aproximadamente)  
@@ -1601,6 +1522,9 @@ karibu - axproximarse
 karimi - generoso (dadivoso, caritativo)  
 karimia - generosidad (caridad)  
 karite - karité  
+karloge - verbo  
+karmeze - escritorio (mesa de trabajo)  
+karmisa - entregar (enviar)  
 karnadi - cararés  
 karnadia - Karnataka  
 karote - zanahoria  
@@ -1609,24 +1533,28 @@ karsolimon - combava (lima kafir)
 Kartvel - Georgia (República de Georgia)  
 karvan - caravana  
 kas - acontecimiento (caso, suceso, evento)  
+kash - caja (caja registradora)  
+kasher - cajero  
 kaske - carapacho (cáscara, concha, corteza, capa)  
 kastan - castaña  
 kastor - castor  
 kata - cortar  
-katoglutoban - portapapeles  
 Katalunia - Cataluña  
 katane - espada  
 Katar - Catar (Qatar)  
+katoglutoban - portapapeles  
 katus - cacto  
-kava - cavar (excavar)  
-kave - fosa  
-kavayi - lindo (precioso)  
 Kaukasia - Cáucaso  
-kax - caja (caja registradora)  
-kaxer - cajero  
+kava - cavar (excavar)  
+kavayi - lindo (precioso)  
+kave - fosa  
+kaya - abrir  
+kayi - abierto  
+kayu - abirse  
 Kazakia - Kazajistán (Kazakistan)  
-keci - educado  
-kecape - kétchup  
+ke - qué  
+kechape - kétchup  
+kechi - educado  
 kega - visitar  
 kege - visitar  
 keger - invitado (visita)  
@@ -1634,11 +1562,11 @@ keke - pastel (galleta)
 kelele - ruido  
 kelvin - kelvin  
 Kemia - Egipcia Antigua  
-Kenia - Kenia  
 kenar - frontera (límite, borde, periferia)  
-kenari - periférico  
 kenarbaryer - valla (cerca)  
 kenarfon - consonante  
+kenari - periférico  
+Kenia - Kenia  
 kerne - corazón (núcleo)  
 kerni arme - arma nuclear  
 kerni darunia - fusión nuclear  
@@ -1646,42 +1574,47 @@ kerni energe - energía nuclear
 kerni fenia - fisión nuclear  
 kerni fizikia - física nuclear  
 kerube - querubín  
+kesh - pelo  
+keshbende - cinta (cinta para el pelo)  
+keshosabun - champú  
 ketle - hervidor (tetera)  
-kex - pelo  
-kexbende - cinta (cinta para el pelo)  
-kexosabun - champú  
+ki - cuál  
+ki jan - quién  
+ki sate - cuándo  
+ki shei - cuál cosa  
+ki yangi - qué tipo de  
 kilogram - kilograma  
 kilomitre - kilometre  
 kim - sustancia  
-kimi - químico  
 kimem - elemento químico  
+kimi - químico  
 kimlojia - química  
-kimono\* - quimono  
+kimono* - quimono  
 kina - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
 kine - movimiento  
 kini - cinético  
-kinu - moverse  
 kinograf - película (filme)  
-Kinxasa Kongo - República Democrática del Congo  
+Kinshasa Kongo - República Democrática del Congo  
+kinu - moverse  
 kioske - quiosco (kiosco)  
 Kipris - Chipre  
-kire - alquiler (arriendo)  
-kirodona - alquilar (arrendar, dar en arriendo)  
-kirogeta - alquilar (arrendar, tomar en arriendo)  
 kirate - quilate  
+kire - alquiler (arriendo)  
 Kirgizia - Kirguizistán  
 Kiribati - Kiribati  
 kirili harfia - alfabeto cirílico  
+kirodona - alquilar (arrendar, dar en arriendo)  
+kirogeta - alquilar (arrendar, tomar en arriendo)  
 kita - ir  
-kitana - quitar (remover)  
 kitaba - escribir  
 kitabe - escritura  
 kitabia - literatura  
 kitaboforme - formateo  
 kitabokan - biblioteca  
-kitabomaxin - máquina de escribir  
+kitabomashin - máquina de escribir  
 kitabominister - bibliotecario  
-kivi\* - kiwi fruta  
+kitana - quitar (remover)  
+kivi* - kiwi fruta  
 klara - aclarar (clarificar)  
 klari - claro  
 klas - clase (categoría)  
@@ -1692,63 +1625,65 @@ klimlojia - climatología
 klimmute - cambio climático  
 klon - clonar  
 klona - clon  
-klorem - cloro  
+klore - cloro  
 klube - club  
+ko multo - cuántos  
+ko? - cómo  
 kobalte - cobalto  
 koda - codificar (cifrar)  
 kode - código (cifra)  
 koi (koyi) - algún  
 koi jan - algién  
 koi sate - algún día (algún vez)  
-koi xei - algo  
+koi shei - algo  
 koke - coca  
 kokode - pollo  
 Kokos nesia - Islas Cocos (Islas Keeling)  
 kole - cola (refresco de cola)  
 Kolombia - Colombia  
 kolona - colonizar  
-kolonia - colonia  
 koloner - colono  
+kolonia - colonia  
 koloniste - colonialista  
 kolonistia - colonialismo  
 kolum - columna  
-kome - coma  
 komali - blando (mullido)  
+kome - coma  
 Komoro nesia - Comoros  
 kompania - compañía (empresa, corporación)  
 komputa - calcular (computar)  
 komputer - computadora (ordenador)  
 komuna - compartir (tener en común)  
 komuni - comunitario  
-kono - juntos  
-konboni - emparejar (quedar)  
-koncaniste - comunista  
-koncanistia - comunismo  
-konformu - amoldarse  
-konfuncabli - compatible  
-konkara - colaborar  
-konpaxia - compasión  
-konsave - información  
-konsavana - comunicar (informar)  
-konseler - consultor  
-kontra - estar en contra  
-kontrete - convenion (pacto)  
 Konakri Ginia - Guinea  
-koncung - insecto  
+konboni - emparejar (quedar)  
+konchaniste - comunista  
+konchanistia - comunismo  
+konchung - insecto  
+konformu - amoldarse  
+konfunchabli - compatible  
 kong - agujero (hueco)  
 konga - perforar (agujerar)  
 Kongfuze - confucio  
 kongfuzistia - confucianismo  
 Konkani - konkani  
+konkara - colaborar  
+kono - juntos  
+konpashia - compasión  
+konsavana - comunicar (informar)  
+konsave - información  
+konseler - consultor  
 konserte - concierto  
+kontra - estar en contra  
+kontrete - convenion (pacto)  
 konus - cono  
 kopa - copiar  
 kope - copia (réplica)  
+kopernikium - copérnico  
 kopohake - derechos de autor (copyright)  
-kopernikem - copérnico  
 kora - correr  
-korer - corredor  
 koral - coral  
+korer - corredor  
 korne - cuerno  
 kornonos - rinoceronte  
 koron - corona  
@@ -1763,8 +1698,8 @@ kosmonau - nave espacial
 kosmonaver - cosmonauta  
 Kosovo - Kosovo  
 kosta - costar  
-koste - precio (coste)  
 Kosta Rika - Costa Rica  
+koste - precio (coste)  
 kote - abrigo (chaqueta)  
 Kote Da Ivar - Costa de Marfil  
 krake - raja (grieta)  
@@ -1787,23 +1722,23 @@ krize - crisis
 krizi - crítico (fundamental)  
 krokodil - crocodilio  
 krokroke - rana  
-kromem - cromo  
+kromium - cromo  
 krote - topo  
 kruasante - cruasán  
 krus - cruz  
-krusu - cruzar  
 krusarke - ballesta  
 krusfiksa - crucificar  
 krusolin - retículo  
+krusu - cruzar  
+kuang - mineral (mena)  
+kuanger - minero  
+kuangia - mina  
+kuangosui - agua mineral  
 kuani - ancho  
 kuania - anchura  
-kuang - mineral (mena)  
-kuangia - mina  
-kuanger - minero  
-kuangosui - agua mineral  
 kuarze - cuarzo  
-kube - cubo  
 Kuba - Cuba  
+kube - cubo  
 kuga - llorar  
 kuka - cocinar (preparar)  
 Kuke nesia - Islas Cook  
@@ -1813,63 +1748,60 @@ kuli - genial
 kulombe - culombio  
 kultur - cultura  
 kupe - vaso (taza, copa)  
-kupocate - cúpula  
+kupochate - cúpula  
 kupon - cupón (vale)  
 kupre - cobre  
-kurem - curio  
 kuran - Corán  
+kurium - curio  
 kurse - silla  
 kurve - curva  
 kurvi - curvo  
+kusha - acostar (poner)  
+kushen - almohada  
+kushu - acostarse (echarse, tenderse, tumbarse)  
 Kuvaitia - Kuwait  
-kuxa - acostar (poner)  
-kuxu - acostarse (echarse, tenderse, tumbarse)  
-kuxen - almohada  
 ####L - L  
 la - de (desde)  
-le - él o ella  
-les - ellos o ellas  
 labe - labio  
 lage - lago  
-laya - venir  
-layana - traer  
 laje - basura (desechos)  
 lake - laca  
+lalbausheke - rubí  
 lali - rojo  
-lalbauxeke - rubí  
-lalolince - lince rojo (gato montés)  
+lalolinche - lince rojo (gato montés)  
 laloranje - mandarina (tangerina)  
 lalsalmon - salmón rojo  
-lama\* - lama  
+lama* - lama  
 lampe - lámpara  
 lana - maldecir  
+lancha - tirar (lanzar, echar, arrojar, aventar)  
+lanchite - proyectil (misil)  
+lanchograf - proyección  
+lanchografa - proyectar  
+lanchografer - proyector  
 lane - maldición  
-lanca - tirar (lanzar, echar, arrojar, aventar)  
-lancite - proyectil (misil)  
-lancograf - proyección  
-lancografa - proyectar  
-lancografer - proyector  
 langan - barandilla (pasamanos)  
 Lanka - Sri Lanka  
-lantanem - lantano  
+lantanium - lantano  
 larve - larva  
+lash - vestigio (sobrante, residuo)  
+lasha - dejar  
 lasti - elástico (flexible)  
 lasun - ajo  
 lata - estar al lado de  
 late - lado (flanco)  
 lati - lateral (horizontal)  
-lato - de lado  
-latojan - compañero (compinche)  
 latini harfia - alfabeto latino  
 latinkitaba - romanizar  
+lato - de lado  
+latojan - compañero (compinche)  
 Latvia - Letonia  
-lau - viejo (anciano)  
 Lau - Laos  
+lau - viejo (anciano)  
 lavi - viejo (anciano)  
 lavi - laosiano  
-laurensem - laurencio  
-lax - vestigio (sobrante, residuo)  
-laxa - dejar  
+laya - venir  
+layana - traer  
 lazanye - lasaña  
 lazuri - azur (blao)  
 lazurpetre - lapislázuli  
@@ -1877,76 +1809,73 @@ lefte - lado izquerdo
 lefti - izquierdo  
 leftiste - izquerdista  
 legi - ligero  
+leng mosim - invierno  
 lengi - frío  
-lengomosim - invierno  
 lengomosimi - invernal  
 lense - lente  
+lensha - practicar (ensayar, ejercitar)  
+lenshe - ensayo (ejercitio)  
 lenti - lento (despacio)  
-lenxa - practicar (ensayar, ejercitar)  
-lenxe - ensayo (ejercitio)  
 letis - lechuga  
 leze - pera  
 liame - llama  
 liba - erigir (montar, armar)  
-libi - erguido  
-Libia - Libia  
-libu - estar de pie  
-liboban - estante (repisa)  
-libobaze - soporte (perchero, atril)  
 Libanen - Líbano  
 libele - libélula  
 Liberia - Liberia  
-lice - lichi  
+libi - erguido  
+Libia - Libia  
+liboban - estante (repisa)  
+libobaze - soporte (perchero, atril)  
+libu - estar de pie  
+liche - lichi  
 lida - dirigir (mandar, conducir, capitanear)  
 lider - dirigente (líder)  
 lidolin - correa (rein)  
 Lietuva - Lituania  
-lietuva bax - lituano  
+lietuva bash - lituano  
 lifaf - envoltura  
 lifafa - envolver  
 liga - asociar  
 lige - liga (asociación, federación)  
 Lihtenstain - Liechtenstein  
-lili - pequeño  
-lilbol - burbuja (pompa)  
-lilyam - tentempié  
-lilkaboge - calabacín  
 lilake - lila  
 lilaki - lila (de color lila)  
-limi - cinco (5)  
+lilbol - burbuja (pompa)  
+lili - pequeño  
+lilkaboge - calabacín  
+lilyam - tentempié  
 limfas - pentaedro  
 limgon - pentágono  
-limyom - viernes  
-limlun - mayo  
 limite - límite (frontera, linde)  
 limon - limón  
 limonike - cítrico  
 limonlugi - verde limón  
 limonrangi - amarillo  
 lin - linea (hilo, cordel, raya)  
+linche - lince  
 linem - hebra (fibra)  
-linparce - nueva línea  
-lince - lince  
 linfe - linfa  
 linka - conectar (empalmar, enlazar, vincular)  
 linke - juntura (conexión, enlace)  
-lisi - suave (liso)  
+linparche - nueva línea  
 lisan - lengua  
+lisi - suave (liso)  
 liste - lista  
-litem - litio  
+litium - litio  
 litre - litro  
-livermorem - livermorio  
+livermorium - livermorio  
 lobake - rábano  
 loga - decir (hablar)  
+logaslia - etimología  
 loge - habla (palabras)  
+logem - palabra (vocablo)  
 logi - léxico  
 logia - vocabulario (léxico)  
-logaslia - etimología  
-logem - palabra (vocablo)  
-logivi - hablador (locuaz)  
-logoliste - disionario (lexicón)  
 logike - lógica  
 logiki - logical  
+logivi - hablador (locuaz)  
+logoliste - disionario (lexicón)  
 loja - estudiar (investigar)  
 lojia - ciencia (estudia, investigación)  
 loka - colocar (poner, ubicar)  
@@ -1963,39 +1892,38 @@ longo - lejos
 longoduri - perdurable (longevo, prolongado)  
 longokrokodil - cocodrilo  
 lontre - nutria  
+lorencium - laurencio  
 lote - lote (grupo)  
 lova - chorrear  
 lova sang - sangrar  
 lugi - verde  
 lugomelon - melón verde  
 Luksemburge - Luxemburgo  
+luku - seis (6)  
+luku me den - sábado  
+luku me mes - junio  
 lul - perla  
 lun - mez  
 lune - luna  
-lunokeke - pastel de luna  
 lung - dragón  
+lunokeke - pastel de luna  
 lusun - espárrago  
 luta - saquear (desvalijar, robar)  
 luter - ladrón  
-lutetem - lutecio  
+lutetium - lutecio  
 ####M - M  
-me - yo  
-mi - mi  
-mes - nosotros  
-mesi - nuestro  
+ma - madre (mamá)  
 maf - perdón  
 mafa - perdonar (disculpar)  
+mager - mago  
+magesium - magnesio  
 magi - magical  
 magia - magia  
-mager - mago  
-magesem - magnesio  
-Magyaria - Hungría  
 Magribia - Marruecos  
-mai - madre (mamá)  
-mayan - maya  
-Mayote - Mayotte (Mahoré)  
+Magyaria - Hungría  
 mais - maíz  
-maitnerem - meitnerio  
+maitnerium - meitnerio  
+majang - mahjong  
 majenti - magenta (fucsia)  
 makal - artículo (texto)  
 makan - mantequilla  
@@ -2004,35 +1932,35 @@ makas - tijera
 Makau - Macao  
 mal - propiedad  
 mala - poseer (tener, ser dueño de)  
-malu - ser de  
-malan - dueño  
-malnomia - economía  
 malagasi - malgache  
 Malagasia - Madagascar  
-malayi - malayo  
-malayali - malayali (malabar, malayalam)  
 Malaisia - Malasia  
+malan - dueño  
 malaria - malaria (paludismo)  
 Malavi - Malaui  
+malayali - malayali (malabar, malayalam)  
+malayi - malayo  
 Mali - Mali  
 malike - jazmín  
+malnomia - economía  
 Malta - Malta  
+malu - ser de  
 Malvinas nesia - Islas Malvinas  
 mam - seno (teta)  
 mamal - mamífero  
 man - masculino (macho)  
-mani pute - hijo  
-mani rajer - rey  
+mana - significado (acepción)  
 manete - imán  
 maneti - magnético  
-mangi - ocupado (atareado)  
 mangan - manganeso  
+mangi - ocupado (atareado)  
 mangou - mango  
 mangus - mangostán (jobo de la India)  
+mani pute - hijo  
+mani rajer - rey  
 Manihai - profeta Mani  
 manihayistia - maniqueísmo  
 Manin nes - Isla de Man  
-manyoke - yuca (mandioca)  
 manir - comportamiento (conducta)  
 manira - comportarse (portarse)  
 manse - carne  
@@ -2040,11 +1968,12 @@ mante - panecillos al vapor (mantou)
 mantol - capa (manto)  
 mantra - salmodiar  
 mantre - mantra  
+manyoke - yuca (mandioca)  
 mar - vez  
 marati - maratí  
 maraton - maratón  
-marca - caminar (marchar, andar)  
-marce - marcha  
+marcha - caminar (marchar, andar)  
+marche - marcha  
 margai - gato tigre (maracayá)  
 margarin - margarina  
 margarite - margarita  
@@ -2052,17 +1981,32 @@ Marian nesia - Islas Marianas
 marka - marcar  
 marke - marca (huella, mancha)  
 Marse - Marte  
+Marshal nesia - Islas Marshall  
 martinluteristi - luterano  
 martinluteristia - luteranismo  
-Marxal nesia - Islas Marshall  
 mas - masa (trozo, pedazo)  
-masmul - tubérculo  
-masmulsolful - tupinambo (pataca, alcachofa de Jerusalén)  
 masaja - amasar (masajear)  
 masaje - masaje  
 masale - especia  
 masali tike - tikka masala  
+mash (masho) - más  
+mash ka bas - demasiado  
+mashfila - preferir (favorecer)  
+mashfili - favorito (preferido)  
+mashfilistia - favoritismo  
+mashforte - refuerzos  
+mashi - adicional (extra)  
+mashim (mashimo) - lo más  
+mashime - máximo  
+mashimi - máximo  
+mashin - máquina  
+masho - además  
+mashori - mayor  
+mashoria - mayoría  
+mashraya - sobrestimar  
 maske - máscara  
+masmul - tubérculo  
+masmulsolful - tupinambo (pataca, alcachofa de Jerusalén)  
 maste - mástil  
 mate - sustancia (materia)  
 mati - material  
@@ -2072,61 +2016,48 @@ maturi - maduro (adulto, curado)
 maturi fem - mujer (señora)  
 maturi man - hombre (señor)  
 mau - gato  
-max (maxo) - más  
-max ka bas - demasiado  
-maxi - adicional (extra)  
-maxo - además  
-maxraya - sobrestimar  
-maxfila - preferir (favorecer)  
-maxfili - favorito (preferido)  
-maxfilistia - favoritismo  
-maxforte - refuerzos  
-maxim (maximo) - lo más  
-maxime - máximo  
-maximi - máximo  
-maxin - máquina  
-maxori - mayor  
-maxoria - mayoría  
+mayan - maya  
+Mayote - Mayotte (Mahoré)  
 maze - calcetín  
-meca - competir  
-mece - partido  
+mecha - competir  
+meche - partido  
+medal - medallón  
 mede - medio  
+meden - plaza  
+medenfobia - agorafobia  
+medeni - abierto (extenso)  
+medenpapil - amapola silvestre  
 medi - medio (mediano)  
 media - medio  
-medu - entre  
-medal - medallón  
-meden - plaza  
-medeni - abierto (extenso)  
-medenfobia - agorafobia  
-medenpapil - amapola silvestre  
 medika - curar (sanar)  
-medikia - medicina  
 mediker - doctor (médico)  
+medikia - medicina  
 medikosui - poción  
 medita - meditar (reflexionar)  
-mege - nube  
+medu - entre  
+medu - miel  
+medu vespe - abeja  
+medu vespe nide - colmena (panal)  
 megagram - tonelada  
 megavate - megavatio  
-meh - oveja  
+mege - nube  
 mei - cada  
-mel - miel  
-melvespe - abeja  
-melvesponide - colmena (panal)  
 melodi - melodioso  
 melodia - melodía  
 melon - melón  
 mem - memoria  
 mema - acordarse  
-membin - monumento  
-memnote - memorándum (nota)  
 memba - pertenecer (ser miembro de)  
 member - miembro (componente)  
-men - significado (acepción)  
-mena - significar  
+membin - monumento  
+meme - oveja  
+memnote - memorándum (nota)  
 mening - meninge  
 meningitis - meningitis  
 menter - consejero (asesor)  
 Merkur - Mercurio  
+Meshiko - México  
+Meshiko site - Ciudad de México  
 mesta - dominar  
 mester - maestro (experto)  
 metal - metal  
@@ -2139,32 +2070,32 @@ metre - medida
 metrograf - mapa  
 metrografia - cartografía  
 metrun - unidad (medida)  
-Mexiko - México  
-Mexiko site - Ciudad de México  
 meze - mesa  
 mezistan - meseta  
-mezotex - mantel  
-Myanma - Myanmar (Birmania)  
+mezotesh - mantel  
+mi - yo  
+mi di - mi  
 mien - fideo (tallarín)  
 migra - migrar (emigrar, tralsadar)  
 migre - migración  
 migru - migrarse (mudarse, trasladarse)  
-mikro\* - micro-  
+mikro* - micro-  
 mikrobiu - microbio  
 mikrobiyolojia - microbiología  
 Mikronesia - Micronesia  
 mikroskope - microscopio  
-mili\* - mili-  
+mili* - mili-  
 miligram - miligrama  
 milimitre - milimetre  
 milke - leche  
 milkokardon - cardo mariano  
 mima - imitar  
+mimen - nosotros  
+mimen di - nuestro  
 mimer - imitador  
 min (mino) - menos  
 min ka bas - demasiado poco  
 mina - excepto (menos)  
-minraya - subestimar  
 minar - torre  
 minga - iluminar  
 mingi - brillante (luminoso)  
@@ -2175,30 +2106,31 @@ minister - ministro
 ministeria - ministerio  
 minori - menor (leve)  
 minoria - minoría  
+minraya - subestimar  
 minte - menta  
 minute - minuto  
 mira - reflejar  
+mirdi - ligero (leve, vago, débil, borroso)  
 mirer - espejo (retrovisor)  
 mirsonde - eco  
-mirdi - ligero (leve, vago, débil, borroso)  
 misa - enviar (transmitar)  
-misia - emisión  
-miser - remitente  
 misal - ejemplo  
 misalo - por ejemplo  
+miser - remitente  
+misha - mezclar  
+misher - batidora (licuadora, mezcladora)  
+mishi alkol - cóctel  
+misia - emisión  
 miskini - pobre (miserable)  
 misri - egipcio  
 Misria - Egipto  
 mita - encontrar  
 mite - reunión (junta, mitin)  
 mitre - metro  
-mixa - mezclar  
-mixi alkol - cóctel  
-mixer - batidora (licuadora, mezcladora)  
 mode - modo (manera, forma)  
-modologe - adverbo  
 model - modelar  
 modela - modelo  
+modologe - adverbo  
 moge - tinta  
 moke - árbol  
 mokoban - tablón  
@@ -2208,12 +2140,12 @@ mokomate - madera
 mokotan - leño (tronca)  
 mol - mol  
 mola - moler (pulverizar)  
-molia - molino  
-moler - molinero  
-molxeke - muela  
 Moldova - Moldova  
 molekul - molécula  
-molidenem - molibdeno  
+moler - molinero  
+molia - molino  
+molidenium - molibdeno  
+molsheke - muela  
 moluske - molusco  
 Monako - Mónaco  
 mongoli - mongol  
@@ -2222,26 +2154,24 @@ monoster - monstro
 morfe - morfo  
 morfem - morfema  
 Moris - Mauricio  
-morta - matar (morir, asesinar)  
 morte - muerte (fallecimiento)  
+morte fa - matar (morir, asesinar)  
+morter - asesino  
 morti - muerto  
 mortu - morirse  
-morter - asesino  
 mos - musgo  
 mosi - musgoso  
 mosim - estación (temporada)  
 moskite - mosquito  
-moskovem - moscovio  
+moskovium - moscovio  
 mote - movimiento  
 moter - motor  
 motogar - automóvil (coche)  
 motosikle - motocicleta  
 Mozambike - Mozambique  
 mudan - peonía  
-muh - vaca (toro)  
-muhmanse - carne de vaca  
-muke - cara (rosto)  
-mukofun - polvo de cara  
+muka - cara (rosto)  
+muka fun - polvo de cara  
 mul - raíz  
 multi - muchos  
 multia - número (muchedumbre)  
@@ -2249,26 +2179,28 @@ mum - cera (lacre)
 mumfote - vela (candela, cirio)  
 mumjan - momia  
 mummelon - calabaza china (calabaza de la cera)  
+mumu - vaca (toro)  
+mumu manse - carne de vaca  
 mun - puerta  
 mungus - mangosta  
 mur - muro (muralha)  
-murkaguje - papel tapiz  
-murce - hormigo  
+murche - hormigo  
 Muritania - mauritania  
+murkaguje - papel tapiz  
 mus - coacción  
 musa - coaccionar (forzar, obligar)  
+mush - ratón  
 muskete - mosquete  
 musketer - mosquetero  
 muskul - músculo  
 muskulbin - fisicoculturismo (culturismo, musculación)  
 muta - cambiar  
-mux - ratón  
 muzika - tocar música  
 muzike - música  
 muziker - músico  
+Myanma - Myanmar (Birmania)  
 ####N - N  
 na - sin  
-no - no  
 nabe - profecía  
 naber - profeta  
 nadiri - raro  
@@ -2280,39 +2212,39 @@ nahun - uña
 Naijiria - Nigeria  
 najis - contaminación (corrupción, porquería, suciedad)  
 najisa - corromper (contaminar)  
-najisi - sucio (corrompido)  
 najisbinde - mancha  
-nam - nombre  
+najisi - sucio (corrompido)  
 nama - llamarse  
 namana - llamar (poner)  
+name - nombre  
+Namibia - Namibia  
 namkitaba - firmar  
 namloge - sustantivo  
-Namibia - Namibia  
-nani - nano-  
-nanomitre - nanometre  
 nanas - piña  
+nano - nano-  
+nanomitre - nanometre  
 narake - infierno  
 narde - backgammon  
 nas - gente  
 nasi - nacional  
 nasi sosistia - socialismo nacional  
 nasia - nación  
+nasibe - destino  
 nasiste - nacionalista  
 nasistia - nacionalismo  
 nasmedi - internacional  
-nasibe - destino  
+natre - sodio  
 natre - natrón  
-natrem - sodio  
 nau - barco (bote)  
-nava - navegar (ir en bote)  
-naver - velero  
 naukaper - corsario  
 naulefte - babor  
 nauraite - estribor  
-nauxef - capitán  
-navati - náhuatl (nahua)  
 Nauru - Naúru  
+naushef - capitán  
 nautile - nautilo  
+nava - navegar (ir en bote)  
+navati - náhuatl (nahua)  
+naver - velero  
 naziste - Nazi  
 nazistia - nazismo  
 Nederlandi Antil - Antillas Neerlandesas  
@@ -2325,62 +2257,63 @@ nen - año
 nenfeste - aniversario  
 nenmesyom - fecha  
 nenufar - nenúfar (lirio de agua)  
-neodimem - neodimio  
+neodimium - neodimio  
 neon - neón  
 Nepal - Nepal  
 Neputun - Neptuno  
-neputunem - neptunio  
 nes - isla  
 nesia - archipiélago  
 nete - red  
 netodona - cargar (subir)  
 netogeta - descargar  
 netoloke - sitio web  
+netunium - neptunio  
 neu - novedad  
+neufite - planta neófita  
+neujeni - neonato (recién nacido)  
+neuloge - neologismo  
+neure - nervio  
+neuri - neural  
+neurochel - neurona  
+neuropatia - neuropatía  
+neuyangi - moderno  
 neva - renovar  
 nevi - nuevo  
 Nevi Kaledonia - Nueva Caledonia  
 Nevi Zelandia - Nueva Zelanda  
 nevia - novedad  
-nevo - ahora mismo (justo)  
-neufite - planta neófita  
-neuyangi - moderno  
 nevike - novato  
-neujeni - neonato (recién nacido)  
-neuloge - neologismo  
 Nevis - Nieves  
-neure - nervio  
-neuri - neural  
-neurocel - neurona  
-neuropatia - neuropatía  
-nice - parte inferior  
-nici - inferior  
-nico - debajo  
+nevo - ahora mismo (justo)  
+niche - parte inferior  
+nichi - inferior  
+nicho - debajo  
 nide - nido (avispero, hormiguero, ratonera)  
 Nijer - Níger  
 Nikaragua - Nicaragua  
 nikel - níquel  
+nilchentaur - aciano (azulejo)  
 nili - azul  
-nilcentaur - aciano (azulejo)  
 nilon - nailon (nilón)  
 ninde - insulto (ofensa, afrenta)  
 nindi - grosero (maleducado)  
-niobem - niobio  
+niobium - niobio  
 Nipon - Japón  
 niponi - japonés  
-niponem - nihonio  
+niponium - nihonio  
+nish - hornacina  
 Nistria - Transnistria (Cisdniéster)  
 nitre - nitrógeno  
 Niue - Niue  
-nix - hornacina  
-nobelem - nobelio  
-noce - noche  
-nocomode - modo nocturno  
+no - no  
+nobelium - nobelio  
+noche - noche  
+nochomode - modo nocturno  
 noda - hacer un nudo  
 node - nudo  
 nol jan - ningunos  
 nol sate - nunca  
-nol xei - nada  
+nol shei - nada  
 nola - cancelar  
 noma - organizar (gestionar)  
 nomia - gerencia (dirección)  
@@ -2388,7 +2321,7 @@ norde - norte
 nordi - norteño  
 Nordi Aire - Irlanda del Norte  
 Nordi Amerike - Norteamérica  
-Nordi Cosen - Corea del Norte  
+Nordi chosen - Corea del Norte  
 Nordi Kipris - Chipre del Norte  
 Nordi Makedonia - Macedonia del Norte  
 Norfolke nes - Isla Norfolk  
@@ -2401,36 +2334,33 @@ nosi - nasal
 nostalgi - nostálgico  
 nostalgia - nostalgia  
 nota - notar (observar)  
-note - nota  
 notana - avisar (notificar)  
+note - nota  
+note buke - cuaderno (libreta)  
 notite - aviso (notificación)  
-notobuke - cuaderno (libreta)  
-novi - nueve (9)  
-novolun - septiembre  
 nudi - desnudo  
 nudiste - nudista  
 nudistia - nudismo  
 numba - contar  
 numbe - número  
 nuton - newton (N)  
-####O - O  
 o - o  
-Oceania - Oceanía  
+####O - O  
+Ocheania - Oceanía  
 odisi - oriya  
 ofis - cargo  
+ofiser - funcionario  
 ofisi - oficial  
 ofisia - ministerio (departamento)  
-ofiser - funcionario  
 ofiskan - oficina  
 oganeson - oganesón  
 oke - ojo  
-oki - ocular  
-speter - espectador  
-okokex - pestaña  
-okosui - lágrima  
-okosuigas - gas lacrimógeno  
 okeya - aceptar  
 okeyi - bien (aceptable)  
+oki - ocular  
+okokesh - pestaña  
+okosui - lágrima  
+okosuigas - gas lacrimógeno  
 okse - oxígeno  
 okside - óxide  
 Olandi nesia - islas Aland  
@@ -2442,10 +2372,10 @@ onora - honrar
 onori - respetable (honorable)  
 or - oreja  
 ora - escuchar (oír)  
-oritis - otitis  
 oranje - naranja  
 oranji - anaranjado  
 orgazme - orgasmo  
+oritis - otitis  
 orkide - orquídea  
 oromi - oromo  
 Oromia - Oromía  
@@ -2456,39 +2386,40 @@ ortogoni - ortogonal
 oselote - ocelote  
 osidian - obsidiana  
 oskuri - oscuro  
-osmem - osmio  
 osman - otomana  
 Osmani Imperia - Imperio otomano  
+osmium - osmio  
 osmos - ósmosis  
 oste - hueso  
 ostojamia - esqueleto (armazón)  
 Ostria - Austria  
 ####P - P  
-pace - paz  
-Paci Hai - océano Pacífico  
-paciste - pacifista  
-pacistia - pacifismo  
+pa - padre (papá)  
+pache - paz  
+Pachi Hai - océano Pacífico  
+pachiste - pacifista  
+pachistia - pacifismo  
 pada - dejar caer  
-padu - caer  
 padomosim - otoño  
 padomun - trampilla  
+padu - caer  
 pagre - turbante  
 pai - pastel (pay)  
-pai - padre (papá)  
 paka - embalar (llevar)  
 pake - paquete  
 Pakistan - Pakistán  
 pakse - pájaro (ave)  
-pal - fruta  
-paladem - paladio  
+paladium - paladio  
 Palau - Palaos  
 palme - palmera  
 pan (pani) - todo  
 pan jan - todas las personas  
-pan xei - todas las cosas  
+pan shei - todas las cosas  
 panafriki - panafricano  
+Panama - Panamá  
 panameriki - panamericano  
 panasi - panasiano  
+pande - panda  
 pandemi - pandémico  
 pandemi patia - pandemia  
 pandemonia - pandemonio  
@@ -2498,51 +2429,55 @@ panduni - global (de todo el mundo)
 pandunia - Pandunia  
 panduniste - hablante de Pandunia  
 paneuropi - paneuropeo  
-panromansi - panrromántico  
-pansato - siempre  
-panseksi - pansexual  
-Panama - Panamá  
-pande - panda  
 pang - pan  
 panike - pánico  
 panir - queso fresco  
 panjabi - punjabí  
 panke - ventilador  
+panromansi - panrromántico  
+pansato - siempre  
+panseksi - pansexual  
 pante - pantalones  
 papagai - loro (papagayo)  
 papai - papaya  
 papir - artículo (documento)  
 Papua Novi Ginia - Papúa Nueva Guinea  
 par - nivel  
+Paraguai - Paraguay  
+param - parámetro  
+paraya - despreciar (desdeñar)  
+paraye - paria  
+parcha - romper (hacer pedazos)  
+parche - fragmento (pedazo)  
+parchi - roto  
+parchokayu - reventar  
+parde - cortina  
 pari - equilibrado (par)  
 pari numbe - número par  
 parike - equilibrado (par)  
+parke - parque  
 parlini - paralelo  
 parlinu - alinear  
-parvezia - equilibrio  
-Paraguai - Paraguay  
-paraya - despreciar (desdeñar)  
-paraye - paria  
-param - parámetro  
-parca - romper (hacer pedazos)  
-parce - fragmento (pedazo)  
-parci - roto  
-parcokayu - reventar  
-parde - cortina  
-parke - parque  
 parne - helecho  
 parta - participar  
-partia - partido (grupo)  
 parter - participante  
-pasa - pasar  
-pasi - anterior (remoto)  
+partia - partido (grupo)  
+parvezia - equilibrio  
+pas - pasar  
 pasdau - paso (pasaje)  
+pash - dolor  
+pasha - doler (hacer daño)  
+pashi - doloroso  
+pashia - sufrimiento (dolor)  
+pashu - sufrir  
+pasi - anterior (remoto)  
+paskal - pascal (Pa)  
+paske - Pascua  
 pasloge - contraseña  
 pasporte - pasaporte  
-paske - Pascua  
-paskal - pascal (Pa)  
 paste - pasta  
 pastopetre - magma  
+patate - papa  
 pati - enfermo  
 patia - enfermedad  
 patike - paciente  
@@ -2550,23 +2485,16 @@ patojener - patógeno
 patolojia - patología  
 patomis - infección (contagio)  
 patomisa - infectar (contagiar)  
-patate - papa  
 pau - pistola (rifle)  
-pava - disparar  
 paunde - libra (£)  
 pauza - parar  
 pauze - pausa  
-pax - dolor  
-paxa - doler (hacer daño)  
-paxi - doloroso  
-paxia - sufrimiento (dolor)  
-paxu - sufrir  
+pava - disparar  
 peda - peer  
-pede - pedo  
 pedal - pedal  
 pedalsikle - bicicleta  
+pede - pedo  
 pei - pago  
-peya - pegar  
 peikar - profesión (ocupación)  
 peikari - profesional (de carrera)  
 peikari jiu - carrera  
@@ -2574,22 +2502,26 @@ pelmen - empanada (pelmeni)
 pelpel - mariposa (palomilla)  
 penda - colgar  
 penis - pene  
+penta - cinco (5)  
 penta - pintar  
+penta me den - viernes  
+penta me mes - mayo  
 pente - pintura  
 penter - pintor  
 per - pluma  
 perkardon - cardo burral  
 Peru - Perú  
 pese - dinero (plata)  
+pesh - pez (pescado)  
+peshhuke - hamo (anzuelo)  
+peshosaider - pescador  
+peshtanke - acuario (pecera)  
 pesodiske - moneda  
 pete - barriga (vientre, panza)  
 petre - roca (piedra)  
 petronefte - petróleo  
-pex - pez (pescado)  
-pexhuke - hamo (anzuelo)  
-pexosaider - pescador  
-pextanke - acuario (pecera)  
-piano\* - piano  
+peya - pegar  
+piano* - piano  
 piaze - cebolla  
 pige - trasero (nalgas)  
 pijin - pidgin  
@@ -2597,8 +2529,8 @@ pike - pico (punta)
 pil - piel  
 piloter - piloto  
 pin - alfiler (espina, aguja)  
-pinkardon - cardo borriquero  
 pinguin - pingüino  
+pinkardon - cardo borriquero  
 pinser - alicate  
 pinsoban - tabla con pinza (carpeta con sujetapapeles)  
 pipe - tubo (caño)  
@@ -2608,15 +2540,15 @@ pipinger - crítico
 pipre - pimienta  
 piprominte - piperita  
 piram - pirámide  
-piratia - piratería  
 pirater - pirata  
+piratia - piratería  
 piratiste - partidario de infracción de copyright  
 piratisti partia - Partido Pirata  
 pise - pícea  
+pish - pis (meados)  
+pisha - mear  
 pistol - pistola  
 Pitkerne nesia - Islas Pitcairn  
-pix - pis (meados)  
-pixa - mear  
 pize - pizza  
 pizokan - pizzería  
 plan - plan  
@@ -2629,27 +2561,38 @@ plastopaste - plastilina
 plate - plano (placa)  
 plati - plana (llano, liso)  
 plati geyokaskia - tectónica de placas  
+platin - platino  
 platistan - llanura  
 platogeyiste - terraplanista  
-platotas - plato  
-platinem - platino  
 Platon - Platón  
 platoniste - platonista  
 platonisti - platónico  
 platonistia - platonismo  
+platotas - plato  
 plazme - plasma (gas ionizado)  
 plum - ciruela  
 plumbe - plomo  
 Pluton - Plutón  
-plutonem - plutonio  
+plutonium - plutonio  
 poke - póquer  
-poli - mucho (muchos)  
-polia - cantidad  
 pol- - poli-  
-polbaxi - multilingüe (plurilingüe)  
+polau - pilaf (pulaw)  
+polbashi - multilingüe (plurilingüe)  
 poldevistia - politeísmo  
 polfas - poliedro  
 polgon - polígono  
+poli - mucho (muchos)  
+polia - cantidad  
+polis - policía  
+poliser - policía  
+polita - gobernar  
+polite - gobierno  
+politer - administrador  
+politia - política  
+politike - político  
+politiki - político  
+politolojia - ciencia política  
+politomode - régimen  
 polkulturi - multicultural  
 polkulturistia - multiculturalismo  
 polmaria - frecuencia  
@@ -2657,20 +2600,9 @@ polmaro - frecuentemente
 polmeni - ambiguo  
 polnasi - multinacional  
 Polnesia - Polinesia  
-polau - pilaf (pulaw)  
-polis - policía  
-poliser - policía  
-polita - gobernar  
-polite - gobierno  
-politia - política  
-politer - administrador  
-politike - político  
-politiki - político  
-politolojia - ciencia política  
-politomode - régimen  
 Polske - Polonia  
 polski - polaco  
-polskem - polonio  
+polskium - polonio  
 pompa - bombear  
 ponta - apuntar (indicar)  
 ponter - indicador (cursor)  
@@ -2684,23 +2616,23 @@ Portorikia - Puerto Rico
 Portugal - Portugal  
 pos - consecuencia (siguiente)  
 posa - seguir  
-posi - siguiente (trasero)  
-poso - más tarde  
 posdeno - mañana  
 posfikse - sufijo  
+posi - siguiente (trasero)  
+poso - más tarde  
 posozam - futuro  
-postri - posterior  
 pospor - fósforo  
 posta - eviar por correo  
 poste - correo  
-postocape - sello postal  
+postochape - sello postal  
 postokan - oficina de correos  
 postomarke - matasellos  
+postri - posterior  
 poter - alfarero  
 poteria - alfarería  
 poza - hacer posar (plantar)  
 poze - pose (postura)  
-prasedem - praseodimio  
+prasedium - praseodimio  
 prate - práctica  
 prati - práctico  
 prezidente - presidente  
@@ -2714,12 +2646,12 @@ profeser - profesor
 program - programa  
 programer - programador  
 projete - proyecto  
-prometem - prometio  
+prometium - prometio  
 proses - proceso (procedimiento)  
-protacinem - proactinio  
+protacinium - proactinio  
 pudi - podrido (cariado)  
-pudu - pudrirse (cariarse, descomponerse)  
 puding - pudín  
+pudu - pudrirse (cariarse, descomponerse)  
 puja - adorar (venerar)  
 puje - adoración (veneración, culto)  
 pujokan - templo  
@@ -2733,43 +2665,42 @@ puntoban - marcador
 puntonumbe - puntuación (resultado)  
 pupe - marioneta (títere)  
 pura - llenar  
-puri - lleno (completo)  
 purbona - perfeccionar  
 purboni - perfecto  
 purfina - completar (terminar)  
 purfityamiste - vegano  
 purfityamistia - veganismo  
-purxipa - remojar (marinar, encurtir, macerar)  
+puri - lleno (completo)  
+purshipa - remojar (marinar, encurtir, macerar)  
+pusha - empujar (presionar)  
 putau - uva  
 putavoranje - pomelo (toronja)  
-Putong Cini - chino mandarín  
+Putong Han - chino mandarín  
 putongi - general (common)  
-puxa - empujar (presionar)  
 ####R - R  
 rada - radiar (emitir)  
 rade - rayo  
 radi geter - receptor de radio  
 radi miser - radiotransmisor  
 radia - radiación  
-radem - radio  
+radium - radio  
 radometrer - radiómetro  
 radon - radón  
 rai - opinión (juicio, consideración)  
-raya - opinar  
 raite - lado derecho  
 raiti - derecho  
 raitiste - derechista  
+rajer - rey o reina  
 raji - real (de realtad)  
 rajia - reino  
-rajer - rey o reina  
 ramazan - Ramadán  
 rampe - rampa (cuesta)  
 randa - cepillar con garlopa  
 rande - garlopa  
 rang - color  
-rangi - colorido  
 rangarke - arco iris  
 rangarkosalmon - trucha arcoíris  
+rangi - colorido  
 rangomate - tinte  
 rapidi - rápido  
 rapidia - rapidez (velocidad)  
@@ -2784,44 +2715,42 @@ rastu - crecer
 ratiba - ordenar (arreglar)  
 ratibe - orden  
 ratibi - ordenado (regular)  
+raya - opinar  
 razon - razón  
 razoni - razonable  
 razonu - tener sentido  
-retra - retornar  
-retre - vuelta  
-retro - al revés  
-retru - volver  
-retrogula - devolver (vomitar)  
-retroguli sense - náusea  
-retrotikete - billete de ida y vuelta  
 rebel - rebelión (sublevación)  
 reda - preparar (hacer listo)  
 redi - listo (preparado)  
 rege - arena  
 registan - desierto  
-rei - repetición  
-reya - repetir  
-reyo - otra vez (de nuevo)  
-reibon - arreglo  
-reibona - reparar (arreglar)  
-reiboner - reparador  
-reisikla - reciclar  
 reizoka - continuar (reanudar)  
-renem - renio  
-rentogenem - roentgenio  
+rengenium - roentgenio  
+renium - renio  
 reporta - reportar  
 reporte - informe (reporte, noticia)  
 resete - instrucciones (receta)  
 resida - reconocer (admitir)  
 reside - reconocimiento (recibo)  
+resikle - reciclar  
 reste - resto (demás)  
-restu - quedarse  
 restorante - restaurante  
+restu - quedarse  
+retra - retornar  
+retre - vuelta  
+retro - al revés  
+retrogula - devolver (vomitar)  
+retroguli sense - náusea  
+retrotikete - billete de ida y vuelta  
+retru - volver  
 Reunion - Reunión  
+reya - repetir  
+reyo - otra vez (de nuevo)  
 rezerva - reservar  
 rezerve - réservation  
 rezin - resina  
-rici - rico  
+ri - repetición  
+richi - rico  
 rim - rima  
 ring - anillo  
 ringar - ring  
@@ -2832,17 +2761,17 @@ rite - costumbre (tradición, convención)
 riti - traditional (convencional)  
 ritim - ritmo  
 riu - rio  
-rivu - fluir  
 riumate - líquido  
 riumati - líquido (fluido)  
 riutube - embudo  
+rivu - fluir  
 rivunia - fusión  
 rivunu - fusionar (fundir)  
 robote - robot (bot)  
-rodem - rodio  
-rokomuzike - rock  
+rodium - rodio  
 rokete - cohete (misil)  
-roketolancer - lanzamisiles  
+roketolancher - lanzamisiles  
+rokomuzike - rock  
 rol - papel  
 rola - actuar (hacer un papel)  
 roler - actor (actriz)  
@@ -2857,22 +2786,21 @@ rose - rocío
 rosta - asar (tostar)  
 rosti pang - pan tostado  
 rota - hace girar (dar vueltas)  
-rotu - girar (rotar)  
 roter - rotor  
 rotolefto - en el sentido contrario al las agujas del reloj  
 rotoraito - en el sentido del las agujas del reloj  
 rototafun - huracán (tifón)  
 rototope - trompo  
+rotu - girar (rotar)  
 roze - rosa  
 rozorangi - rosa  
 rozosalmon - salmón rosado  
-Rvanda - Ruanda  
-rubidem - rubidio  
+rubidium - rubidio  
 ruh - psique  
 ruhi - mental (psíquico)  
 ruhlojia - psicología  
-ruhmixa - confundir (desconcertar, perplejo)  
-ruhmixi - confundido  
+ruhmisha - confundir (desconcertar, perplejo)  
+ruhmishi - confundido  
 ruke - espalda (lomo)  
 rukosake - mochila  
 rul - rollo  
@@ -2884,68 +2812,64 @@ rupu - parecer
 rusi - ruso  
 Rusia - Rusia  
 rute - ruta  
-rutogalta - apartarse (desviarse)  
-rutenem - rutenio  
-ruterfordem - rutherfordio  
+rutenium - rutenio  
+ruterfordium - rutherfordio  
 rutin - rutina (hábito)  
+rutogalta - apartarse (desviarse)  
+Rvanda - Ruanda  
 ####S - S  
 sa - ser (estar)  
-se - se  
-si - su (suyo)  
-ser - ser  
-ses - el uno al otro (mutuamente)  
 saba - causar  
+sabate - sabbat  
 sabe - razón (causa)  
 sabo da - porque  
-sabate - sabbat  
 sabun - jabón  
 sadi - sencillo (liso)  
 safa - limpiar  
-safi - limpio  
-safer - limpiador  
 safar - viaje  
 safara - viajar  
 safarer - viajero  
 safariste - turista  
 safaristia - turismo  
+safer - limpiador  
+safi - limpio  
 safran - azafrán  
 saga - relatar (narrar)  
 sage - historia (cuento, relato, leyenda)  
 saha - corregir  
 sahi - correcto (justo)  
 Sahravia - República Árabe Saharaui Democrática  
-saya - sombrear  
-saye - sombra  
 saida - cazar (pescar)  
-saida pex - pescar  
+saida pesh - pescar  
 saider - cazador  
 sake - saco  
-sali - saludable  
-salia - salud  
-salsafia - higiene  
 salade - ensalada  
 salam (salami) - buen (hola)  
-salam cute - adiós  
+salam chute - adiós  
 salam den - buenas tardes  
-salam yam - buen provecho  
 salam lai - bienvenido  
 salam suar - buenas noches  
 salam sube - buenos días  
+salam yam - buen provecho  
 salama - saludar  
 salame - saludo  
 salamia - bienestar  
+sali - saludable  
+salia - salud  
 salmon - salmón (trucha)  
 Salon - Sierra Leona  
+salsafia - higiene  
 salte - sal  
 salti - salino  
 Salvador - El Salvador  
-sami - equal (similar)  
-samu - parecerse a  
-samdexi - compatriota  
+samarium - samario  
+samdeshi - compatriota  
 samemos - compasión  
+sami - equal (similar)  
 sammetri - simétrico  
 sammetria - simetría  
 samnam - homónimo  
+Samoa - Samoa  
 samraya - acordar  
 samrayia - acuerdo  
 samromansi - homorromántico  
@@ -2953,16 +2877,11 @@ samseksi - homosexual
 samsifa - simular  
 samsifi - similar  
 samsifia - modelo (similitud, simulación)  
-samarem - samario  
-Samoa - Samoa  
-sani - tres (3)  
-sangon - triángulo  
-sanyom - miércoles  
-sanlun - marzo  
-sanzong - tridente  
-sanduice - sándwich (sánduche)  
+samu - parecerse a  
+sanduiche - sándwich (sánduche)  
 sanduke - caja (baúl, cofre, estuche)  
 sang - sangre  
+sangon - triángulo  
 santi - sagrado (santo)  
 Santi Helena - Isla Santa Elena  
 Santi Kitse - San Cristóbal  
@@ -2972,6 +2891,7 @@ Santi Marino - San Marino
 Santi Tome e Prinsipe - Santo Tomé y Príncipe  
 Santi Vinsente - Isla de San Vicente  
 Santi Vinsente e Grenadine - San Vicente y las Granadinas  
+sanzong - tridente  
 sapate - zapato  
 sapater - zapatero  
 sapatokan - zapatería  
@@ -2982,18 +2902,21 @@ sate - momento
 sati - momentáneo  
 satodona - dedicar  
 Saturne - Saturno  
+Saudi Arabia - Arabia Saudita  
+saune - sauna  
+saus - salsa  
 sava - saber (conocer)  
 save - sabiduría (conocimiento)  
 savi - conocido  
 savolojia - epistemología  
 savovol - interés  
-savovoli - interesado (curioso)  
-savovolu - preguntarse  
 savovolani - inquisitivo (curioso)  
+savovoli - interesado (curioso)  
 savovoliti - interesante (curioso)  
-Saudi Arabia - Arabia Saudita  
-saune - sauna  
-saus - salsa  
+savovolu - preguntarse  
+saya - sombrear  
+saye - sombra  
+se - se  
 sekreter - secretario  
 sekreteria - secretaría  
 seksa - tener sexo  
@@ -3008,13 +2931,13 @@ sekurkode - contraseña
 sekurnumbe - número de identificación personal  
 sel - consejo  
 sela - aconsejar  
-selu - deber (se recomienda)  
-selenem - selenio  
+selenium - selenio  
 selge - acelga  
-seme - semilla  
-semi - seminal  
+selu - deber (se recomienda)  
 semdan - pepita  
+seme - semilla  
 semente - cemento  
+semi - seminal  
 sen - edad  
 senater - senador  
 Senegal - Senegal  
@@ -3022,19 +2945,107 @@ sensa - sentir (detectar)
 sense - sentido  
 senta - palpar (tocar)  
 senter - tentáculo  
-sere - sierra  
+ser - ser  
 serame - cerámica  
 Serbia - Serbia  
+sere - sierra  
 serebre - cerebro  
 serpe - serpiente (culebra)  
 serva - servir  
 serve - servicio  
 server - criado (sirviente)  
+ses - el uno al otro (mutuamente)  
 sesam - ajonjolí (sésamo)  
-Sexel nesia - Seychelles  
+Seshel nesia - Seychelles  
+sete - siete (7)  
+sete me den - domingo  
+sete me mes - julio  
+shakal - chacal  
+shake - rama  
+shal - bufanda (chal)  
+shalke - escama  
+shaman - chamán (brujo, hechicero)  
+shampan - Champaña  
+shampan vin - champagne  
+shan - montaña (colina)  
+shanpike - cima (pico, cumbre, vértice)  
+shante - descanso (alivio)  
+shanti - tranquilo (calmado)  
+sharke - tiburón  
+sharme - vergüenza (pena)  
+sharnir - bisagra (gozne)  
+sharta - espicificar (estipular)  
+sharte - condición (requisito, estipulación)  
+shashu - susurrar (curjir)  
+shata - oponerse (resistir)  
+shatan - Satanás  
+shatani - satánico  
+shataniste - satanista  
+shatanistia - satanismo  
+shatranje - ajedrez  
+shau - poco (pocos)  
+shauta - escasez  
+shava - lluvia  
+shava chate - parasol  
+shava kote - impermeable  
+shefe - jefe  
+shefe minister - primer ministro  
+shefi - principal  
+shei - cosa  
+sheihal - situación  
+sheke - piedra  
+shekojanger - albañil (mampostero, cantero)  
+sheng - victoria  
+shibai - derrota (fracaso)  
+shibaya - perder (fallar)  
+shibaya tena - perder  
+shibayer - perdedor  
+shifu - maestro (profesor)  
+shiki - elegante (chic)  
+shim - corazón  
+shin - creencia (fe)  
+shina - creer  
+shindavistia - sintoísmo  
+shingofota - centellear (titilar)  
+shipa - mojar  
+shipi - mojado  
+shir - poema  
+shirer - poeta  
+shirope - jarabe (sirope)  
+shish - brocheta  
+shita - cagar  
+shite - mierda  
+shofa - conducir  
+shofer - conductor (chofer)  
+shoke - choque (sacudida)  
+shopa - comprar  
+shope - compras (shopping)  
+shoper - comprador  
+shoti - cien (100)  
+shou - exposición (espectáculo)  
+shula - aprender (estudiar)  
+shulana - enseñar  
+shule - lección  
+shule guru - maestro (profesor, docente)  
+shuler - estudiante  
+shuli - arreglo  
+shuli - reparar (arreglar)  
+shulia - educación  
+shulija - reparador  
+shulkan - escuela (colegio, institución)  
+shulshef - director de colegio  
+shur - comienzo (inicio, principio)  
+shura - comenzar (iniciar, empezar)  
+shuri - primer (inicial, inaugural)  
+shuru - comenzar (iniciarse, empezar)  
+shushi - silencioso  
+shusho - chito (chist)  
+shute - dotes (arte, habilidad)  
+shuti - hábil  
+si - su (suyo)  
 siani - cian  
 Sibiria - Siberia  
-siborgem - seaborgio  
+siborgium - seaborgio  
 sida - sentar  
 side - silla (montura)  
 sidu - sentarse  
@@ -3043,39 +3054,36 @@ sifa - definir
 sifi - descriptivo  
 sifloge - adjetivo  
 sigar - cigarro  
-siyahi - negro  
 sikiste - sij  
 sikistia - sijismo  
 sikle - bicicleta  
 sikliste - ciclista  
 sil - eslabón  
 silia - serie  
-silnete - cota de malla  
-silsil - cadena  
 silike - silicio  
 silke - seda  
+silnete - cota de malla  
+silsil - cadena  
 simpli - simple  
 sine - pecho (seno, tórax)  
-sinokapse - caja torácica  
-sinoplate - peto  
+sing - estrella  
 sing - león  
 Singapur - Singapur  
+sinokapse - caja torácica  
+sinoplate - peto  
 sinye - señal (letrero, indicio)  
 sira - ocultar (esconder)  
 siri - cero (ninguno)  
 siri - secreto  
 siri mote - sigilo  
-siro motu - colarse  
-sirplan - complot (conspiración)  
 sirka - rodear (cirundar)  
 sirke - círculo  
 sirki - redondo (circular)  
-sirkoxeke - adoquín  
-sisi - seis (6)  
+sirkosheke - adoquín  
+siro motu - colarse  
+sirplan - complot (conspiración)  
 sisfas - hexaedro (cubo)  
 sisgon - hexágono  
-sisyom - sábado  
-sislun - junio  
 sisma - agitar (sacudir)  
 sismolojia - sismología  
 sistem - sistema  
@@ -3083,30 +3091,31 @@ sistemi - sistémico
 site - ciudad  
 sivili - civilizado  
 sivilia - civilización  
+siyahi - negro  
 slavi - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  
+sofa* - sofá  
 sofi - sabio  
 sofia - sabiduría  
-sofa\* - sofá  
 soi - soja  
 soimilke - leche de soja  
 soisaus - salsa de soja  
 soka - buscar  
 sol - sol  
-solcate - parasol  
-solcentaur - abrepuño  
+solchate - parasol  
+solchentaur - abrepuño  
 solestas - solsticio  
 solful - girasol  
-solsistem - sistema solar  
 Solomon nesia - Islas Salomón  
+solsistem - sistema solar  
 som - sueño  
-somu - dormir  
+Somaldesh - Solamilandia  
+Somalia - Somalia  
 somivi - soñoliento (somnífero)  
 somkamar - dormitorio  
 sompapil - adormidera (amapola real)  
-Somalia - Somalia  
-Somaldex - Solamilandia  
+somu - dormir  
 son - sonido (audio)  
 sona - sonar  
 song - pino  
@@ -3116,70 +3125,70 @@ sosi - social
 sosi jinse - género social  
 sosi media - redes sociales  
 sosia - sociedad  
+sosis - salchicha  
 sosiste - socialista  
 sosistia - socialismo  
-sosis - salchicha  
 Soto - Lesoto  
+speter - espectador  
 suahili - suajili  
 sual - pregunta  
 suala - preguntar (inquirir)  
 sualan - interrogativa  
+Sualbarde - Svalbard  
 sualdokum - formulario  
 sualtem - asunto (caso)  
-Sualbarde - Svalbard  
 suani - agrio (ácido)  
-suanpurxipa - encurtir  
-suanpurxipi - encurtido  
-suanpurxipi hiyar - pepinillo  
+suanpurshipa - encurtir  
+suanpurshipi - encurtido  
+suanpurshipi hiyar - pepinillo  
 suar - noche (tarde)  
 suarden - tarde (después de mediodía)  
 suaryam - cena  
 Suati - Esuatini (Suazilandia)  
 sube - mañana  
-subyam - desayuno  
 suboden - mañana (antes mediodía)  
+subyam - desayuno  
+Sudafrike - Sudáfrica  
+Sudan - Sudán  
 sude - sur  
 sudi - sureño  
 Sudi Amerike - Sudamérica  
-Sudi Cosen - Corea del Sur  
+Sudi chosen - Corea del Sur  
 Sudi Iria (Alonia) - Osetia del Sur  
-Sudi Jorjia e Sudi Sanduice nesia - Georgias del Sur y Sándwich del Sur  
+Sudi Jorjia e Sudi Sanduiche nesia - Georgias del Sur y Sándwich del Sur  
 Sudi Sudan - Sudán del Sur  
-Sudafrike - Sudáfrica  
-Sudan - Sudán  
 suede - sudor  
 suedi - sudoroso (sudado)  
 Suenia - Suecia  
 sui - agua  
-suyi - acuoso  
+Suice - Suiza  
 suigas - vapor  
-suiyau - sed  
 suikaboge - calabaza de peregrino  
 suiminte - menta acuática  
 suirang - acuarela  
 suisekuri - impermeable (sumergible)  
-Suisia - Suiza  
+suiyau - sed  
 suja - sugerir (proponer)  
 suje - surgéncia (propuesta)  
 suka - gustar (complacer)  
+sukar - azúcar  
+sukarbete - remolacha azucarera  
+sukarchau - caña de azúcar  
+sukari - azucarado  
 suki - feliz  
 suku - gustarse (disfrutar)  
-sukar - azúcar  
-sukari - azucarado  
-sukarbete - remolacha azucarera  
-sukarcau - caña de azúcar  
 sulfe - azufre  
 sulta - reinar (gobernar)  
-sultia - poder (autoridad, competencia)  
 sultan - gobernante (soberano)  
 sultania - sultanato  
+sultia - poder (autoridad, competencia)  
 sum - suma (total)  
 suma - sumar  
-suno - pronto  
-sundari - hermoso (bello, lindo)  
-sundaria - belleza (hermosura)  
 sundardaka - decorar (adornar)  
 sundardake - decoración (adorno)  
+sundari - hermoso (bello, lindo)  
+sundaria - belleza (hermosura)  
+suno - pronto  
 suomi - finés  
 Suomia - Finlandia  
 supe - sopa  
@@ -3187,28 +3196,23 @@ superi - maravilloso (magnífico)
 supra - sobrepasar  
 supre - paso elevado  
 supri - superior (más alto)  
-supro - sobre  
 suprize - sorpresa  
+supro - sobre  
 Suria - Siria  
 Surinam - Surinam  
-surinami bax - sranan tongo  
+surinami bash - sranan tongo  
 susan - lirio  
+sushi - sushi  
 suta - coser  
 sutur - costura (sutura)  
-suxi - sushi  
+suyi - acuoso  
 ####T - T  
-te - tú (usted)  
-ti - tu  
-tes - ustedes  
-tesi - vuestro  
 tabake - tabaco  
 tabla date - tabular  
 table - tabla (lámina, plancha)  
 tablokomputer - tablet  
 tafun - tormenta (tempestad)  
 tai - escenario (podio, estrado, tarima)  
-tayi - tailandés  
-Tayia - Tailandia  
 Taibei - Taipei  
 taige - taiga  
 tail - baldosa (teja, azulejo)  
@@ -3221,15 +3225,15 @@ tal - fondo
 tala - bajar  
 tali - bajo  
 tali moke - arbusto (mata)  
-talem - talio  
-taltex - alfombra (tapete)  
-tami - codicioso (avaro)  
+talium - talio  
+taltesh - alfombra (tapete)  
 tamar - dátil  
+tami - codicioso (avaro)  
 Tamil - tamil  
 tan - tallo  
 tanah - Tanaj (Biblia hebrea)  
 tanke - tanque (cisterna)  
-tantalem - tántalo  
+tantalium - tántalo  
 tanur - horno  
 Tanzania - Tanzania  
 tapa - taponar  
@@ -3241,43 +3245,45 @@ tarjer - traductor
 tas - plato  
 tate - orilla (ribera)  
 tatike - táctica (estrategia)  
-tatu\* - tatuaje  
+tatu* - tatuaje  
 tave - sartén  
+tayi - tailandés  
+Tayia - Tailandia  
 tazi - fresco  
 tehne - técnica  
-tehnem - tecnetio  
 tehnokratia - tecnocracia  
 tehnolojia - tecnología  
+teknium - tecnetio  
 tel - lo lejos  
-teli - lejano (lejos)  
-telia - distancia  
 telfon - telefono  
 telfona - telefonear  
 telfonia - telefonía  
+teli - lejano (lejos)  
+telia - distancia  
 teloloku - teletransportarse  
 teloskope - telescopio  
-telvide - televisión  
 telugi - télugu  
-telurem - telurio  
+telurium - telurio  
+telvide - televisión  
 tem - tema  
 tema - tratar de  
 temnam - título  
 ten - cielo  
-teni - celeste (celestial)  
+Tenesi - Tennessee  
+tenesium - teneso  
 tenhal - clima (tiempo)  
+teni - celeste (celestial)  
+tenis - tennis  
 tenkenar - horizonte  
 tennili - celeste (azul celeste)  
-Tenesi - Tennessee  
-tenesiem - teneso  
-tenis - tennis  
 tensi - tenso  
 tenta - tentar (seducir)  
 teoria - teoría  
 tepe - cinta adhesiva  
-tera\* - tera-  
-terbem - terbio  
-terca - inclinar  
-terci - oblicuo (torcido)  
+tera* - tera-  
+terbium - terbio  
+tercha - inclinar  
+terchi - oblicuo (torcido)  
 terme - temperatura  
 termometrer - termómetro  
 teror - terror  
@@ -3285,14 +3291,14 @@ teroriste - terrorista
 teroristia - terrorismo  
 tesa - argumentar (alegar)  
 tese - tesis  
+tesh - tela (paño, tejido)  
+tesha - tejer  
+teshmashin - telar  
 tesle - tesla (T)  
 testa - intentar (probar)  
 teste - prueba  
-tex - tela (paño, tejido)  
-texa - tejer  
-texmaxin - telar  
 tezi - intenso (brusco, ácido, fuerte, afilado, rápido)  
-ticin - instrumento de arco  
+tichin - instrumento de arco  
 tike - pedazo  
 tikete - boleto  
 tim - equipo  
@@ -3308,8 +3314,10 @@ tirbaton - palanca
 tirlonga - estirar (extender)  
 tiroriu - corriente de resaca  
 tirsanduke - cajón (gaveta)  
-titanem - titanio  
-toca - tocar (rozar)  
+tisa - nueve (9)  
+tisa me mes - septiembre  
+titanium - titanio  
+tocha - tocar (rozar)  
 Togo - Togo  
 tokse - veneno (toxina)  
 toksi - tóxico  
@@ -3321,7 +3329,7 @@ tong - barril (tonel)
 Tonga - Tonga  
 tope - región (zona)  
 topograf - topografía  
-torem - torio  
+torium - torio  
 torse - torso  
 tortuge - tortuga  
 transa - transitar (atravesar)  
@@ -3333,16 +3341,23 @@ trater - tractor
 tren - tren  
 trendau - vía férrea  
 trete - contrato (tratado)  
+tri - tres (3)  
+tri me den - miércoles  
+tri me mes - marzo  
 tribe - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
 truka - engañar  
 truke - truco  
+tu - tú (usted)  
+tu di - tu  
 tualete - inodoro (wáter, retrete)  
 tube - tubo  
 tuha - escupir (bufar)  
 tul - herramienta  
-tulem - tulio  
+tulium - tulio  
 tulpe - tulipán  
+tumen - ustedes  
+tumen di - vuestro  
 tundre - tundra  
 tunel - túnel  
 tuneltren - metro  
@@ -3358,7 +3373,47 @@ Turkomenia - Turkmenistán
 Tuvalu - Tuvalu  
 tuze - conejo (liebre)  
 ####U - U  
+UDA du - estadounidense  
+Ukraina - Ucrania  
+ulul - aullido  
+ulula - aullar  
+uma - caballo  
+umami - sabroso (umami)  
+un - uno (1)  
+un me den - lunes  
+un me mes - enero  
+una - unir  
+unal - el uno al otro (se)  
+unali - utuo (recíproco)  
+undevistia - monoteismo  
+unemistia - monismo  
+unia - unión  
+uniki - único  
+uniko - únicamente (solo)  
+uniti - unido  
+Uniti Arabi Amiria (UAA) - Emiratos Árabes Unidos  
+Uniti Desh Da Amerike (UDA) - Estados Unidos de América  
+unjani - solo (aislado, solitary, soltero)  
+unmaro - una vez  
+unmeni - inequívoco  
+unodi - primero (numbre uno)  
+unoki lense - monóculo  
+unrangi - monocromático  
+unversi - universal  
+ura - hurra  
+Uran - Urano  
+uranium - uranio  
+urdi - urdu  
+Urdun - Jordania  
+urse - oso  
+Uruguai - Uruguay  
+usable - utilizable (disponible)  
+use - usar (aplicar)  
+user - usuario  
+user name - nombre de usuario  
+Uzbekia - Uzbekistán  
 va - a (hacia)  
+va - guau (vaya)  
 vade - valle  
 vadosusan - convalaria (lirio de los valles)  
 vaf - perro  
@@ -3368,34 +3423,32 @@ vakila - representar
 vaksin - vacuna  
 val - valor  
 vala - valorar  
-valu - valer  
 Valis e Futuna nesia - Wallis y Futuna  
+valu - valer  
 vampir - vampiro  
 vampirbalsenter - calamar vampiro  
 van - diversión  
 vana - divertir (entretener)  
+vanadium - vanadio  
 vani - divertido  
-vanu - disfrutar (jugar)  
-vanadem - vanadio  
 vanil - vainilla  
+vanu - disfrutar (jugar)  
 Vanuatu - Vanuatu  
 varis - patrimonio (herencia, legado)  
-varke - hoja  
 varkalge - kelp  
+varke - hoja  
 varkolate - página  
 vase - oasis  
+vasha - lavar  
+vashmashin - lavadora  
+vashurse - mapache  
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
-vau - guau (vaya)  
-vaxa - lavar  
-vaxmaxin - lavadora  
-vaxurse - mapache  
-UDA du - estadounidense  
 vei - cola (rabo)  
 veisirke - latitud  
 venda - vender  
-vendoxopa - comerciar  
-vendoxope - comercio  
+vendoshopa - comerciar  
+vendoshope - comercio  
 Venezuela - Venezuela  
 venjovoranje - unshu mikan  
 ventur - aventura  
@@ -3406,8 +3459,8 @@ verita - autenticar
 verme - verme  
 vermute - vermú  
 versa - versar  
-versu - afrontar  
 version - versión (modelo)  
+versu - afrontar  
 vespe - abeja o avispa  
 vesponide - avispero (colmena)  
 veste - oeste  
@@ -3416,27 +3469,26 @@ vestodongia - longitud
 vestogoril - gorila occidental  
 vezi - pesado  
 vezia - peso (gravedad)  
-vezu - pesar  
 vezometrer - pesa (báscula, balanza)  
+vezu - pesar  
 vida - ver (mirar)  
 vide - vista (visión)  
-vidu - ser visto  
 vider - espectador  
 vidomeden - campo de visión  
 vidopunte - perspectiva (punto de vista)  
 vidou - viudo  
+vidu - ser visto  
 vieti - vietnamita  
 Vietia - Vietnam  
-viyoleti - morado (púrpura)  
 vijin - GMS  
 vike - página wiki  
 vildi - salvaje  
 viman - aeroplano  
 vin - vino  
-vinkan - bodega  
-vinsuan - vinagre  
 ving - ala  
 vinil - vinilo  
+vinkan - bodega  
+vinsuan - vinagre  
 vir - héroe  
 viri - valiente (heroico)  
 virje - virgen  
@@ -3453,164 +3505,101 @@ vispai - padrastro
 visprezidente - vicepresidente  
 visrajer - virrey  
 vite - tornillo  
+viyoleti - morado (púrpura)  
 vize - visado  
-Ukraina - Ucrania  
-ulul - aullido  
-ulula - aullar  
-umami - sabroso (umami)  
-un (uni) - uno (1)  
-una - unir  
-unia - unión  
-unal - el uno al otro (se)  
-unali - utuo (recíproco)  
-undevistia - monoteismo  
-unemistia - monismo  
-uniki - único  
-uniko - únicamente (solo)  
-unyom - lunes  
-uniti - unido  
-Uniti Arabi Amiria (UAA) - Emiratos Árabes Unidos  
-Uniti Dex Da Amerike (UDA) - Estados Unidos de América  
-unjani - solo (aislado, solitary, soltero)  
-unlun - enero  
-unmaro - una vez  
-unmeni - inequívoco  
-unodi - primero (numbre uno)  
-unoki lense - monóculo  
-unrangi - monocromático  
-unversi - universal  
 voda - prometer (comprometerse)  
 vode - promesa (voto)  
 vodun - vudú  
 vol - deseo  
-volu - querer (desear)  
 volfe - lobo  
 volfram - tungsteno (wolframio)  
 volte - voltio (V)  
+volu - querer (desear)  
 vota - votar  
 vote - voto  
 votohake - sufragio (derecho al voto)  
-ura - hurra  
-Uran - Urano  
-uranem - uranio  
-urdi - urdu  
-Urdun - Jordania  
-urse - oso  
-Uruguai - Uruguay  
 vulve - vulva  
 vute - objeto (artículo)  
-uza - usar (aplicar)  
-uzabli - utilizable (disponible)  
-uzer - usuario  
-uzernam - nombre de usuario  
-Uzbekia - Uzbekistán  
 ####X - X  
-xake - rama  
-xakal - chacal  
-xal - bufanda (chal)  
-xalke - escama  
-xaman - chamán (brujo, hechicero)  
-Xampan - Champaña  
-Xampan vin - champagne  
-xan - montaña (colina)  
-xanpike - cima (pico, cumbre, vértice)  
-xante - descanso (alivio)  
-xanti - tranquilo (calmado)  
-xarke - tiburón  
-xarme - vergüenza (pena)  
-xarnir - bisagra (gozne)  
-xarta - espicificar (estipular)  
-xarte - condición (requisito, estipulación)  
-xata - oponerse (resistir)  
-xatan - adversario (oponente)  
-Xatan (ruhxatan) - Satanás  
-Xatani - satánico  
-xataniste - satanista  
-xatanistia - satanismo  
-xatranje - ajedrez  
-xavi - poco (pocos)  
-xavia - escasez  
-xaxu - susurrar (curjir)  
-xef - jefe  
-xefi - principal  
-xefi minister - primer ministro  
-xei - cosa  
-xeihal - situación  
-xeke - piedra  
-xekojanger - albañil (mampostero, cantero)  
-xeng - victoria  
-xenga - gañar (triunfar, lograr, desrotar)  
 xenon - xenón  
-xense - maestro (profesor)  
-xibai - derrota (fracaso)  
-xibaya - perder (fallar)  
-xibaya tena - perder  
-xibayer - perdedor  
-xiki - elegante (chic)  
-xim - corazón  
-xin - creencia (fe)  
-xina - creer  
-xindavistia - sintoísmo  
-xing - estrella  
-xingofota - centellear (titilar)  
-xipa - mojar  
-xipi - mojado  
-xir - poema  
-xirer - poeta  
-xirope - jarabe (sirope)  
-xita - cagar  
-xite - mierda  
-xix - brocheta  
-xofa - conducir  
-xofer - conductor (chofer)  
-xoke - choque (sacudida)  
-xopa - comprar  
-xope - compras (shopping)  
-xoper - comprador  
-xoti - cien (100)  
-xou - exposición (espectáculo)  
-xova - mostrar  
-xul - lección  
-xula - aprender (estudiar)  
-xulia - educación  
-xulana - enseñar  
-xulaner - maestro (profesor, docente)  
-xuler - estudiante  
-xulkan - escuela (colegio, institución)  
-xulxef - director de colegio  
-xur - comienzo (inicio, principio)  
-xura - comenzar (iniciar, empezar)  
-xuri - primer (inicial, inaugural)  
-xuru - comenzar (iniciarse, empezar)  
-xute - dotes (arte, habilidad)  
-xuti - hábil  
-xuxi - silencioso  
-xuxo - chito (chist)  
+ya - él o ella  
+ya - en (a)  
+ya - sufijo para regiónes y sustantivos abstractos  
+ya ke - dónde  
+ya lin - en línea  
+ya ve - allí (allá)  
+yaga - estimar (apriximarse a)  
+yago - aproximadamente  
+yagones - península  
+Yahve - Yahvé (Jehová)  
+yake - yac  
+yala - meter prisa  
+yam - comida  
+yama - comer (bebir)  
+yamen - ellos o ellas  
+yamfite - verdura (legumbre)  
+yami - delicioso  
+yamkamar - comedor  
+yamyau - hambre  
+yang - variedad (tipo, estilo)  
+yasen - fresno  
+yatim - huérfano  
+yatimdom - orfanato  
+yau - necesidad  
+yaushina - confiar (contar con)  
+yaushinabli - leal (fiel)  
+yaushinablia - lealtad (fidelidad)  
+yavan - necesario  
+yavi - necesitado  
+yavu - necesitar  
+ye - sí  
+yehudi - judío  
+yehudistia - judaísmo  
+yei - yupi  
+Yemen - Yemen  
+Yesus - Jesús  
+yeze - coco  
+yodem - yodo (iodo)  
+yoga - hacer yoga  
+yoge - yoga  
+yogiste - yogui  
+yohani feste - día de San Juan  
+yoke - yugo  
+yomchete - semana  
+yongopetre - lava  
+yongu - derretirse  
+yote - gota  
+yumor - humor (gracia)  
+yumori - humorístico (gracioso, cómico)  
+yumoriste - humorista  
+yuterbium - iterbio  
+yutrium - itrio  
 ####Z - Z  
 zai - actualidad  
-zaya - generar (añadir)  
-zayi - actual  
-zayia - presencia (existencia)  
-zayo - ahora (actualmente)  
-zayu - aparecer  
-zayu - existir (estar presente)  
 zaideno - hoy  
+zaitun - aceituna  
 zaizam - presente  
 zaizami - actual  
-zaitun - aceituna  
 zalimi - mezquino (antipático, cruel)  
 zalimi rajer - tirano (déspota)  
 zalimia - crueldad (tiranía)  
 zam - tiempo  
 Zambia - Zambia  
 zar - riesgo (posibilidad)  
+Zardush - Zoroastro  
+zardushiste - zoroastriano  
+zardushistia - zoroastrismo  
 zari - azar (aleatorio)  
 zarkube - dado  
-Zardux - Zoroastro  
-zarduxiste - zoroastriano  
-zarduxistia - zoroastrismo  
+zaya - generar (añadir)  
+zayi - actual  
+zayia - presencia (existencia)  
+zayo - ahora (actualmente)  
+zayu - aparecer  
+zayu - existir (estar presente)  
 zebre - cebra  
 zeyil - verruga  
+zi - carácter  
 zigzage - zigzag  
 zikure - zigurat  
 Zimbabve - Zimbabue  
@@ -3621,22 +3610,25 @@ zipa - cerrar con cremallera
 zipe - cremallera  
 zire - comino  
 zirkon - circón  
-zirkonem - circonio  
+zirkonium - circonio  
 ziza - chisporrotear  
 zoki - continuo (analógico)  
 zoko - todavía (aún)  
-zombe - zombi  
+zombi - zombi  
 zon - cinturón (zona)  
 zong - poste (estaca, palo)  
-zonga - atravesar  
 zongominte - hierbabuena  
 zou - animal (bestia)  
-zouloji - zoológico  
-zoulojia - zoología  
-zouparke - zoo  
+zou loje - zoología  
+zou loje de - zoológico  
+zou parke - zoo  
+zukam - resfriado (catarro)  
 zuke - etnia  
 zuki - étnico  
 zukomedi - interétnica  
-zukam - resfriado (catarro)  
 Zulu - zulú  
 zumurude - esmeralda  
+ - cargar  
+ - lluvioso (pluvioso)  
+ - llover  
+ - adversario (oponente)  

@@ -1,8 +1,8 @@
 # portugali-pandunia
 ####A - A  
-abater - buca  
+abater - bucha  
 abelha ou vespa - vespe  
-abeto - abite  
+abeto - abete  
 abobrinha - lilkaboge  
 abóbora (jerimun) - kaboge  
 acanto-bastardo - pinkardon  
@@ -16,7 +16,7 @@ actuel (courant) - zaizami
 adesivo - glutograf  
 adjetivo - sifloge  
 administrador - politer  
-adversário - xatan  
+adversário -   
 aeite (óleo) - nefte  
 aeroporto - airporte  
 aeróbico - airbivi  
@@ -31,11 +31,11 @@ agrícola - agri
 ai! - ai  
 ainda - zoko  
 alaranjado - oranji  
-alcachofra - karcof  
+alcachofra - karchof  
 alcachofra-girassol (tupinambo) - masmulsolful  
 alcalino - alkali  
 alcaravia (cariz) - karau  
-aldeia (vila) - cun  
+aldeia (vila) - chun  
 alface - letis  
 alfinete - pin  
 alga - alge  
@@ -58,12 +58,12 @@ analógico - zoki
 andesito - andesite  
 anel - ring  
 animal (besta, bicho) - zou  
-antimônio - estibem  
-anzol - pexhuke  
+antimônio - estibium  
+anzol - peshhuke  
 análise - fenkate  
 aperfeiçoar - purbona  
 apodrecer-se - pudu  
-aprender - xula  
+aprender - shula  
 apropriado (apto) - hapi  
 ar - air  
 arame - metallin  
@@ -103,11 +103,11 @@ Austronésia - Austronesia
 aveia - aven  
 aventura - ventur  
 aventureiro - venturer  
-avó - cinmai  
-avô - cinpai  
+avó - chinmai  
+avô - chinpai  
 azur (blau) - lazuri  
 azur - nili  
-açougueiro (talhante) - bucer  
+açougueiro (talhante) - bucher  
 ação - ation  
 açúcar - sukar  
 ####B - B  
@@ -124,13 +124,13 @@ bando - bande
 banqueiro - banker  
 barba - barde  
 barco (navio) - nau  
-barra de chocolate - coklatobaton  
-barrar - barya  
-barreira - baryer  
+barra de chocolate - choklatobaton  
+barrar - bare  
+barreira - bare  
 base (álcali) - alkale  
 base - baze  
 basebol (beisebol) - bazobol  
-basketball - baskobol  
+basketball - baske bol  
 bastante (suficiente) - basi  
 baía - bai  
 bebê - bebe  
@@ -141,7 +141,7 @@ beringela - bedinje
 biblioteca - kitabokan  
 bigorna - metalbede  
 bilhete - tikete  
-bilíngue - dulbaxi  
+bilíngue - dulbashi  
 biología - biyolojia  
 bioma - biyosistem  
 bola - bol  
@@ -158,13 +158,13 @@ boxeador (pugilista) - bokser
 branco - baki  
 bravo (valente, corajoso) - bravi  
 bravo! - bravo  
-braço - handoxake  
+braço - handoshake  
 Buda - Bude  
-bule - caipote  
+bule - chaipote  
 buraco - kave  
 buscar (procurar) - soka  
 bétula - berje  
-####C - C  
+####C - ch  
 cabeça - sar  
 cacto - katus  
 cafeteira - kafopote  
@@ -180,24 +180,25 @@ camarão - krevete
 camisa - kamis  
 camomila-romana - romakamil  
 camomila-vulgar - kamil  
-cana-de-açúcar - sukarcau  
-canguru - kangaru\*  
+cana-de-açúcar - sukarchau  
+canguru - kangaru*  
 canhão (ravina, barranco) - kanyon  
 canhǎo - daipau  
-canoa - kano\*  
+canoa - kano*  
 Cantalupo in Sabina - Kantalupo va Sabina  
 capa - mantol  
-capa de chuva - barxokote  
+capa de chuva - shava kote  
+caractere - zi  
 cardo - kardon  
 cardo-mariano - milkokardon  
 cardo-roxo - perkardon  
 careta (esgar) - grimas  
-carga (peso) - bare  
+carga (peso) - bara  
 Caribe - Karaibia  
 carimbo - postomarke  
 carne - manse  
 carrapato (ácaros) - akare  
-carregar - bara  
+carregar -   
 carreira - peikari jiu  
 carta - karde  
 carta geográfica - metrograf  
@@ -211,60 +212,60 @@ castanho (marrom) - bruni
 cavar (escavar) - kava  
 caçar - saida  
 cebola - piaze  
-cem (100) - xoti  
+cem (100) - shoti  
 cemitério - gabristan  
 cenoura - karote  
 centro - jung  
 centáurea - centaure  
 cerca - kenarbaryer  
-cereja - cerize  
+cereja - cherize  
 cerveja - bir  
 cerâmica - poteria  
 cerâmico - serame  
 cevada - jau  
-Champagne - Xampan  
-champaña - Xampan vin  
-chance - canse  
-charme - carme  
-chavena (tigela de chá) - caikupe  
-chefe - xef  
+Champagne - shampan  
+champaña - shampan vin  
+chance - chanse  
+charme - charme  
+chavena (tigela de chá) - chaikupe  
+chefe - shefe  
 cheio - puri  
 cheirar - aromu  
 cheiro - arome  
 China - Junguo  
-chocolate - coklate  
-chuva - barxe  
-chuvoso (pluvioso) - barxi  
-chá - cai  
+chocolate - choklate  
+chuva - shava  
+chuvoso (pluvioso) -   
+chá - chai  
 ciclista - sikliste  
 cidade - site  
-cinco (5) - limi  
-cintilar - xingofota  
-citologia - celolojia  
+cinco (5) - penta  
+cintilar - shingofota  
+citologia - chelolojia  
 claro - klari  
 cliente - klien  
 coelho (lebre) - tuze  
-cogumelo - fungopal  
-coisa - xei  
+cogumelo - funge frute  
+coisa - shei  
 colaborar - konkara  
 colar (aderir) - gluta  
-colher - camace  
+colher - chamache  
 colocar (pôr) - loka  
 combava - karsolimon  
 combinar com - konboni  
-começo (início, princípio) - xur  
+começo (início, princípio) - shur  
 como - ko?  
 compaixão - samemos  
 complô (conspiração) - sirplan  
 comportamento (conduta) - manir  
-comprar - xopa  
-compras - xope  
+comprar - shopa  
+compras - shope  
 computador - komputer  
 concerto - konserte  
-condutor (chofer, motorista) - xofer  
-conduzir - xofa  
+condutor (chofer, motorista) - shofer  
+conduzir - shofa  
 conexão (vínculo, laço) - linke  
-confiar (contar com) - yauxina  
+confiar (contar com) - yaushina  
 conselho - sel  
 considerar - hema  
 construir - bina  
@@ -274,7 +275,7 @@ copo (taça) - kupe
 cor - rang  
 coral - koral  
 corno - korne  
-coro - cantergrupe  
+coro - chantergrupe  
 corpo - bode  
 corredor - korer  
 correr - kora  
@@ -285,8 +286,8 @@ costa - haitate
 costume (hábito) - ade  
 crente - diniste  
 crepe (panqueca) - krepe  
-crepe - fransi krepe  
-criança (menino) - bace  
+crepe - France krepe  
+criança (menino) - bache  
 cristal - bilor  
 croassã - kruasante  
 crocodiliano - krokodil  
@@ -298,8 +299,8 @@ crème - krem
 crónico - duri  
 cubo - kube  
 cultivar - agra  
-cume (pico, topo) - xanpike  
-cápsico - cile  
+cume (pico, topo) - shanpike  
+cápsico - chili  
 cão (cachorro) - vaf  
 céu - ten  
 cópia - kope  
@@ -307,16 +308,16 @@ cósmico - kosmi
 ####D - D  
 dado - zarkube  
 dados - date  
-damasco (abricó) - barkoke  
+damasco (abricó) - briko  
 dano (avaria) - avar  
 danês - dani  
 de - la  
 dedo - angul  
-deitar - kuxa  
-deixar - laxa  
+deitar - kusha  
+deixar - lasha  
 dente-de-leão (taráxaco) - makanful  
 derretre - yongu  
-descanso (repouso) - xante  
+descanso (repouso) - shante  
 desenvolvimento - darjomute  
 desfigurar - dusforma  
 deslizar - glisu  
@@ -333,24 +334,24 @@ dinheiro - pese
 diorito - diorite  
 direito - hake  
 direitos humanos - insani hake  
-diretor - xulxef  
+diretor - shulshef  
 disco - diske  
 discordar - aloraya  
 dióxido de carbono - karbodulokside  
 documento - dokum  
 documentário - dokumfilme  
-dois (2) - duli  
-domingo - cetyom  
+dois (2) - du  
+domingo - sete me den  
 doméstico - domi  
 dormir - somu  
-ducha - dux  
+ducha - dush  
 durar - dura  
 duração - dur  
 duro - gati  
 ####E - E  
 e - e  
 economia - malnomia  
-educação - xulia  
+educação - shulia  
 efeito - asar  
 efetuar - asara  
 Egipto (Egito) - Misria  
@@ -368,34 +369,34 @@ encarar (afrontar; vérsus) - versu
 encontrar - mita  
 endereço - adres  
 enganar - truka  
-ensinar (lecionar) - xulana  
-ensino primário - bazoxulkan  
-ensino secundário - jungoxulkan  
-ensopar (encharcar, marinar) - purxipa  
+ensinar (lecionar) - shulana  
+ensino primário - bazoshulkan  
+ensino secundário - jungoshulkan  
+ensopar (encharcar, marinar) - purshipa  
 enteado - gamben  
 enterrar - gabra  
 entrar - intru  
-enxada - cope  
+enxada - chope  
 equilíbrio - parvezia  
 erro (falta) - galte  
 errôneo - galti  
-erva marinha - haicau  
-escama - xalke  
-escavar - exkava  
-escola (colégio) - xulkan  
-escovinha (centáurea) - nilcentaur  
+erva marinha - haichau  
+escama - shalke  
+escavar - eshkava  
+escola (colégio) - shulkan  
+escovinha (centáurea) - nilchentaur  
 escrevere - kitaba  
 escrita - kitabe  
 escudo - defban  
-escudo - ostoxalke  
+escudo - ostoshalke  
 escultor - eskulter  
-esfarrapado - circiri  
+esfarrapado - chirchiri  
 eslavo - slavi  
 esmeralda - zumurude  
 espada - katane  
 espaço - kali harfe  
 espetador - speter  
-espirrar - acua  
+espirrar - achi  
 espodossolo - huidarte  
 esponja - esponje  
 esporte - esporte  
@@ -406,30 +407,31 @@ esquerdo - lefte
 esquilo - ekore  
 estado - hal  
 estanho - estan  
-estar deitado (jazer) - kuxu  
+estar deitado (jazer) - kushu  
 estação (sazão) - mosim  
 este (leste) - dong  
 estirar - tirlonga  
 estrado - tai  
+estrela - sing  
 estudante - estuder  
 estudar (examinar) - estuda  
 etimologia - logaslia  
 etnia - zuke  
-eu (me) - me  
+eu (me) - mi  
 evangelho - evanjil  
-evidente - exvidi  
+evidente - eshvidi  
 exato (preciso) - justi  
-excluir - exklusa  
-exclusivo - exklusivi  
-exoplaneta (planeta extrassolar) - explanete  
-explodir - explozu  
+excluir - eshklusa  
+exclusivo - eshklusivi  
+exoplaneta (planeta extrassolar) - eshplanete  
+explodir - eshplozu  
 explosão - bum  
-explosão - exploze  
-expor (revelar) - expoza  
-exterior - ex  
-extrair - extrata  
+explosão - eshploze  
+expor (revelar) - eshpoza  
+exterior - esh  
+extrair - eshtrata  
 exército - gun  
-exógeno - exojeni  
+exógeno - eshojeni  
 ####F - F  
 face (faceta) - fas  
 fadiga - fatigia  
@@ -438,21 +440,21 @@ falar - loga
 farol (baliza) - fotominar  
 fato (facto) - fate  
 fator - fater  
-favoritismo - maxfilistia  
-favorito (preferido) - maxfili  
-fazenda (tecido) - tex  
+favoritismo - mashfilistia  
+favorito (preferido) - mashfili  
+fazenda (tecido) - tesh  
 fazer - fata  
 fechadura - sor  
 feio - dusvidi  
 feliz - suki  
-feno - gancau  
+feno - ganchau  
 fermentar - biyomutu  
 fibra - linem  
 filho ou filha - ben  
 filosofia - filsofia  
 fiorde - fiorde  
 fisiculturismo - muskulbin  
-flecha (seta) - flece  
+flecha (seta) - fleche  
 flor - ful  
 floresta de algas - algojangle  
 fogo - hoge  
@@ -463,15 +465,16 @@ foto (fotografia) - fotograf
 fotografia - fotografia  
 fraco (débil) - debili  
 fraco - mirdi  
-fragmento - parce  
+fragmento - parche  
 freixo - yasen  
-fungo - fung  
+fruta - frute  
+fungo - funge  
 funil - riutube  
 furar (perfurar) - fora  
-futebol - futobol  
+futebol - fute bol  
 fácil - fasili  
 ####G - G  
-gaiola (jaula) - batonkapse  
+gaiola (jaula) - baton kapse  
 galope - galope  
 galáxia - galaksia  
 gamão - narde  
@@ -500,15 +503,15 @@ granito - granite
 graças a - danko da  
 grupo - grupe  
 grávida (prenhe) - hamili  
-guarda-chuva - barxocate  
-guaxinim (rato-lavadeiro) - vaxurse  
+guarda-chuva - shava chate  
+guaxinim (rato-lavadeiro) - vashurse  
 guia - gider  
 guiar - gida  
 guitarra - gitar  
 Gália - Galia  
 gás - gas  
 gás lacrimogéneo - okosuigas  
-gênero gramatical - baxi jinse  
+gênero gramatical - bashi jinse  
 ####H - H  
 haste (talo, caule) - tan  
 Hesse (Héssia) - Hesia  
@@ -552,11 +555,11 @@ infiel - andiniste
 inflamaçao - itis  
 inimigo - dusjan  
 inquisitivo - savovolani  
-inseto - koncung  
+inseto - konchung  
 insônia - ansomia  
 internacional - nasmedi  
 invernal (hibernal) - lengomosimi  
-inverno - lengomosim  
+inverno - leng mosim  
 ir - kita  
 ironia - ironia  
 islã - islamistia  
@@ -587,8 +590,8 @@ ladrilho (telha, azulejo) - tail
 ladrão - luter  
 lago - lage  
 lama (lodo) - fan  
-lama - lama\*  
-lançador de foguetes - roketolancer  
+lama - lama*  
+lançador de foguetes - roketolancher  
 laranja - oranje  
 lasanha - lazanye  
 latéral - lati  
@@ -603,14 +606,14 @@ lhama - liame
 libélula - libele  
 lima - kagujolimon  
 limão - limon  
-lince - lince  
+lince - linche  
 linha (fio) - lin  
 lista - liste  
 literatura - kitabia  
 litro - litre  
 livre (forro) - huri  
 livro - buke  
-lição - xul  
+lição - shule  
 local - loki  
 longo - longi  
 lontra - lontre  
@@ -621,32 +624,33 @@ luta - jihade
 luteranismo - martinluteristia  
 luterano - martinluteristi  
 luz - fote  
-lápide - gabroxeke  
+lápide - gabrosheke  
 lápis - kalam  
 lápis-lazúli - lazurpetre  
 lâmpada (luminária) - lampe  
 léxico - logi  
 líder (chefe) - lider  
-língua (idioma) - baxe  
+língua (idioma) - basha  
 língua - lisan  
-língua materna - jeni bax  
+língua materna - jeni bash  
 lírio - susan  
 lírio-do-vale - vadosusan  
 ####M - M  
 macroalga - hayalge  
 madrasta - vismai  
-magnésio - magesem  
-mais - max (maxo)  
+magnésio - magesium  
+mahjong - majang  
+mais - mash (masho)  
 maldição - lane  
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
 mancha (marca) - marke  
-manga - kamisi xake  
+manga - kamisi shake  
 maniqueísmo - manihayistia  
 mantra - mantre  
 mar - hai  
 maravilha - ajabe  
-marcha - marce  
+marcha - marche  
 margarida - margarite  
 margarida-comum - englomargarite  
 margarita-maior - bakomargarite  
@@ -658,14 +662,14 @@ marítimo - hayi
 massa - mas  
 massa de modelar (massinha) - plastopaste  
 mastro - maste  
-matadouro - bucokan  
+matadouro - buchokan  
 matemática - hisabolojia  
 matéria - mate  
 maçã - aple  
 medusa - haijel  
 meia - maze  
 meio (metade) - mede  
-mel - mel  
+mel - medu  
 melancia - arbuze  
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
@@ -677,7 +681,7 @@ mensagem - anjil
 meranti - merante  
 mercado (bazar) - bazar  
 Mercúrio - Merkur  
-merda - xite  
+merda - shite  
 mesa - meze  
 mestre - mester  
 meta (gol) - gol  
@@ -697,12 +701,12 @@ mol - mol
 moldar (modelar) - plasta  
 moldura - frem  
 molestar (perturber) - turba  
-molhado - xipi  
-molhar - xipa  
+molhado - shipi  
+molhar - shipa  
 molho de soja - soisaus  
 momento (instante) - sate  
 momentâneo - sati  
-monção - barxomosim  
+monção - shava mosim  
 monóculo - unoki lense  
 monólogo - autologe  
 morder - danta  
@@ -712,18 +716,18 @@ Mover-se - kinu
 moyen - medi  
 mudança climática - klimmute  
 mudar-se - migru  
-multilíngue (plurilíngue) - polbaxi  
+multilíngue (plurilíngue) - polbashi  
 mundo - dunia  
 muro (muralha) - mur  
-máquina de escrever - kitabomaxin  
+máquina de escrever - kitabomashin  
 mármore - kalsokristal  
 máscara - maske  
-máximo - maxime  
-mãe - mai  
+máximo - mashime  
+mãe - ma  
 mão - hande  
 mês - lun  
 mímico - mimer  
-mó - molxeke  
+mó - molsheke  
 música - muzike  
 ####N - N  
 nadar (flutuar) - boyu  
@@ -737,48 +741,47 @@ necessário - yavan
 neologismo - neuloge  
 Netuno - Neputun  
 neurotoxina - neurotokse  
-neurônio - neurocel  
+neurônio - neurochel  
 neve - hime  
-nicho - nix  
+nicho - nish  
 ninho (vespiero) - nide  
 nivel - par  
-noite - noce  
+noite - noche  
 noitinha - suar  
 norte - norde  
-nosso - mesi  
+nosso - mimen di  
 nostalgia (saudade) - nostalgia  
 nota - note  
 novato (neófito) - nevike  
-nove (9) - novi  
+nove (9) - tisa  
 novidade - neu  
 novidade - nevia  
 novo - nevi  
 nuvem - mege  
 náusea - retroguli sense  
 não - no  
-nós - mes  
+nós - mimen  
 núcleo (cerne) - kerne  
 número - numbe  
 ####O - O  
 o que - ke  
-oasis - vase  
 objetivo - dike  
-oblíquo (torto) - terci  
+oblíquo (torto) - terchi  
 obsidiana - osidian  
 oceano - daihai  
 ocular - oki  
 ocultar (esconder) - sira  
 ocupado (atarefado) - mangi  
-oito (8) - bati  
+oito (8) - bato  
 oleiro - poter  
 olho - oke  
 onda - onde  
 onde - ya ke  
 online - ya lin  
-ontem - cendeno  
+ontem - chendeno  
 opinião - rai  
-opor - xata  
-opção - cuzable  
+opor - shata  
+opção - chuzable  
 ordem - ratibe  
 orelha - or  
 orfanato - yatimdom  
@@ -793,14 +796,15 @@ ou - o
 ouro - aure  
 outono - padomosim  
 outro - ali  
+oásis - vase  
 ####P - P  
 paciente - patike  
-pacifista - paciste  
+pacifista - pachiste  
 pacote - pake  
 pacto - kontrete  
 padeiro - beker  
 padrasto - vispai  
-pai - pai  
+pai - pa  
 painel - ban  
 palavra (vocábulo) - logem  
 palavra-passe (senha) - pasloge  
@@ -815,52 +819,52 @@ papoila-dormideira - sompapil
 par - parike  
 para-lama - fandefban  
 parque - parke  
-partida - mece  
+partida - meche  
 parâmetro - param  
 passagem - pasdau  
 passagem de volta - retrotikete  
 passaporte - pasporte  
 pasta - paste  
-pato - bate  
+pato - bata  
 patologia - patolojia  
 patógeno - patojener  
 pausa - pauze  
-paz - pace  
-pederneira - hogoxeke  
+paz - pache  
+pederneira - hogosheke  
 pedir emprestado - jekogeta  
-pedra - xeke  
-pedra preciosa (gema) - bauxeke  
-pedregulho - daixeke  
-pedrinha - lilxeke  
-pegada - futomarke  
+pedra - sheke  
+pedra preciosa (gema) - bau sheke  
+pedregulho - daisheke  
+pedrinha - lilsheke  
+pegada - fute marke  
 pegajoso (adesivo) - gluti  
 peidar - peda  
 peido - pede  
-peixe - pex  
+peixe - pesh  
 pele - pil  
 penso (band-aid) - glutobende  
 pepino - hiyar  
 pepino-africano (kiwano) - kornomelon  
 pepino-do-mar (holotúrias) - haihiyar  
 pequeno - lili  
-perdedor - xibayer  
-perder - xibaya tena  
+perdedor - shibayer  
+perder - shibaya tena  
 perdoar (desculpar) - mafa  
 perguntar - suala  
 perigo - hatre  
-perplexo (confuso) - ruhmixi  
+perplexo (confuso) - ruhmishi  
 peru - dinde  
 pesado - vezi  
 pesar - vezu  
-pescador - pexosaider  
+pescador - peshosaider  
 pessoa - jan  
 petróleo - petronefte  
-picareta - pincope  
-pilha (bateria) - batre  
+picareta - pinchope  
+pilha (bateria) - bateri  
 pimenta - pipre  
 pinheiro - song  
 pintura - pente  
-piquenique - exyam  
+piquenique - eshyam  
 pirataria - piratia  
 pirâmida - piram  
 plano - plan  
@@ -881,23 +885,23 @@ porto-riquenho - portoriki
 possível - abli  
 poste (estaca) - zong  
 posterior - postri  
-poucos - xavi  
+poucos - shau  
 prancheta - pinsoban  
 prata - argente  
 prateleira (estante) - liboban  
 praça - meden  
 precioso - bavi  
-preferir - maxfila  
+preferir - mashfila  
 preto - siyahi  
-primo - cinbrusben  
+primo - chinbrusben  
 problema - problem  
-professor (docente) - xulaner  
+professor (docente) - shule guru  
 profissão - peikar  
 profundo - fasteli  
 programa - program  
 projeto - projete  
-projeção - lancograf  
-projétil - lancite  
+projeção - lanchograf  
+projétil - lanchite  
 prolongado - longoduri  
 promessa (voto) - vode  
 prova - dalil  
@@ -910,12 +914,12 @@ pão - pang
 pícea (espruce) - pise  
 quadrinhos (banda desenhada) - grafsage  
 quando - ki sate  
-quarta-feira - sanyom  
+quarta-feira - tri me den  
 quarto (dormitório) - somkamar  
 quartzo - kuarze  
-quatro (4) - cari  
+quatro (4) - chatre  
 que (como) - ka  
-queijo - cize  
+queijo - chize  
 queijo fresco - panir  
 queimar - hoga  
 queimarse - hogu  
@@ -925,10 +929,10 @@ querido (caro) - ami
 querido - amike  
 questão (pergunta) - sual  
 quiabo - bamye  
-quimono - kimono\*  
+quimono - kimono*  
 quincã (cunquate) - kankuate  
-quinta-feira - caryom  
-quivi - kivi\*  
+quinta-feira - chatre me den  
+quivi - kivi*  
 química - kimlojia  
 ####R - R  
 rachadura - krake  
@@ -936,11 +940,11 @@ raposa - hulei
 raramente - nadiro  
 raro - nadiri  
 raro - rari  
-rasgar - cir  
-rasgar - cira  
+rasgar - chir  
+rasgar - chira  
 raça - ras  
 raíz - mul  
-reciclar - reisikla  
+reciclar - resikle  
 recém-nascido - neujeni  
 refugo (escória) - laje  
 regime - politomode  
@@ -948,11 +952,11 @@ relier (connecter) - linka
 religião - din  
 relógio - horloger  
 remover - kitana  
-reparador - reiboner  
-reparar - reibona  
-reparo - reibon  
+reparador - shulija  
+reparar - shuli  
+reparo - shuli  
 repetir - reya  
-repetição - rei  
+repetição - ri  
 reserva - rezerve  
 resposta - javabe  
 resto - reste  
@@ -967,11 +971,11 @@ ritmo - ritim
 robô - robote  
 rocha (pedra) - petre  
 rock - rokomuzike  
-roda - cakre  
+roda - chakre  
 Roma - Roma  
 rosa - roze  
 roupa (vestidura) - fuke  
-rubi - lalbauxeke  
+rubi - lalbausheke  
 rápido - rapidi  
 rã - krokroke  
 ####S - S  
@@ -979,7 +983,7 @@ sabedoria (sagacidade, sapiência) - sofia
 saber (conhecer) - sava  
 sacada (varanda) - berande  
 saco - sake  
-sair - extru  
+sair - eshtru  
 sal - salte  
 sala (câmara) - kamar  
 salino - salti  
@@ -989,22 +993,22 @@ salmão-vermelho - lalsalmon
 salsicha - sosis  
 samambaia - parne  
 samba-canção - bokserpante  
-sanduíche - sanduice  
+sanduíche - sanduiche  
 sangue - sang  
-Satanás - Xatan (ruhxatan)  
+Satanás - shatan  
 Saturno - Saturne  
 saudação - salame  
 saudável (saudio) - sali  
 saúde - salia  
 se - aga  
 se - se  
-seabórgio - siborgem  
+seabórgio - siborgium  
 seda - silke  
 sede - suiyau  
-segunda-feira - unyom  
+segunda-feira - un me den  
 seguro - sekuri  
 seio (mama) - mam  
-seis (6) - sisi  
+seis (6) - luku  
 selva (floresta, jângal) - jangle  
 sem - na  
 semente - seme  
@@ -1015,16 +1019,16 @@ sepultura (túmulo) - gabre
 ser (estar) - sa  
 ser humano - insan  
 serra - sere  
-sete (7) - ceti  
+sete (7) - sete  
 sexo - jinse  
 sexologia - seksolojia  
-sexta-feira - limyom  
-sim - ha  
+sexta-feira - penta me den  
+sim - ye  
 simetria - sammetria  
 simulação - samsifia  
 simétrico - sammetri  
 sino (campainha) - danger  
-situaçao - xeihal  
+situaçao - sheihal  
 sociedade - sosia  
 sogra - gammai  
 sogro - gampai  
@@ -1033,16 +1037,17 @@ sol - sol
 soldado - gunjan  
 som - son  
 sombrear - saya  
-sombrinha - solcate  
+sombrinha - solchate  
 sono - som  
 sonolento - somivi  
 sorvete (gelado) - aiskrem  
 substância - kim  
 suco (sumo) - jus  
 suor - suede  
-superestimar (sobrestimar) - maxraya  
+superestimar (sobrestimar) - mashraya  
 suástica (cruz gamada) - hukokrus  
-sábado - sisyom  
+Suíça - Suice  
+sábado - luku me den  
 São Paulo - Santi Paulo  
 série (sequência) - silia  
 só (solitário) - unjani  
@@ -1050,7 +1055,7 @@ só (solitário) - unjani
 tablet - tablokomputer  
 tangerina (mandarim) - laloranje  
 taxímetro - taksometrer  
-tear - texmaxin  
+tear - teshmashin  
 tectónica de placas - plati geyokaskia  
 telefonar - telfona  
 telefonia - telfonia  
@@ -1072,12 +1077,12 @@ terra natal - jenistan
 terracota - bekofan  
 terraplanista - platogeyiste  
 terreno - geyoforme  
-terça-feira - dulyom  
+terça-feira - du me den  
 teste - teste  
 tigre - bagre  
 tijolo - dobe  
-toalha - gantex  
-toalha de mesa - mezotex  
+toalha - gantesh  
+toalha de mesa - mezotesh  
 tomate - tomate  
 topografia - topograf  
 tora - mokotan  
@@ -1090,7 +1095,7 @@ trabalhador - karer
 trabalhar - kara  
 trabalho - kar  
 trajar (vestir-se) - fuku  
-tranquilo (calmo) - xanti  
+tranquilo (calmo) - shanti  
 transcorrer - duru  
 trator - trater  
 trazer - layana  
@@ -1098,17 +1103,18 @@ trigo - ganum
 truque (fraude) - truke  
 truta-arco-íris - rangarkosalmon  
 truta-marrom - brunsalmon  
-três (3) - sani  
+três (3) - tri  
 trópicos - garmozon  
-tu - te  
-tubarão - xarke  
+tu - tu  
+tubarão - sharke  
 tubérculo - masmul  
 turbante - pagre  
 tábua (prancha) - mokoban  
 técnica - tehne  
 título - temnam  
 ####U - U  
-um (1) - un (uni)  
+uau - va  
+um (1) - un  
 um ao outro - ses  
 uma vez - unmaro  
 unicamente - uniko  
@@ -1130,14 +1136,14 @@ vaso de flores - fulpote
 vazar - lova  
 vegetalista - purfityamiste  
 vegetariano - fityamiste  
-velho (antigo) - ceniki  
+velho (antigo) - cheniki  
 vender - venda  
 ver - vida  
 verbo - karloge  
 verdadeiro - veri  
 verde - lugi  
 verdura (hortaliça, legume) - yamfite  
-verdura - coi  
+verdura - choi  
 verme - verme  
 vermelho - lali  
 vermute - vermute  
@@ -1147,7 +1153,7 @@ vestir - fuka
 vez - mar  
 vice-rei - visrajer  
 vida - jiu  
-vidro - kance  
+vidro - kanche  
 vir - laya  
 virgem - virje  
 vivo - jivi  
@@ -1158,10 +1164,10 @@ vogal - jungofon
 voltar (regressar) - retru  
 vontade - vol  
 voo - fei  
-vosso - tesi  
+vosso - tumen di  
 votar - vota  
 voto - vote  
-vulcão - hogoxan  
+vulcão - hogoshan  
 vulva - vulve  
 vários - balibali  
 Vénus - Venus  
@@ -1170,10 +1176,10 @@ véu - hijabe
 ####Z - Z  
 zebra - zebre  
 zona - zon  
-zoologia - zoulojia  
-zoológico - zouloji  
-zoológico - zouparke  
-zumbi - zombe  
+zoologia - zou loje  
+zoológico - zou loje de  
+zoológico - zou parke  
+zumbi - zombi  
 ágil - ajili  
 água - sui  
 álcool - alkol  
@@ -1185,4 +1191,4 @@ zumbi - zombe
 étnico - zuki  
 óxide - okside  
 único (só) - uniki  
-торговать - vendoxopa  
+торговать - vendoshopa  

@@ -27,7 +27,7 @@ fata_liste_X_pandunia() {
 
 fata_leksasli_liste() {
 #    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
     #morta unodi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
@@ -230,8 +230,7 @@ tarja_logaslia_pa_esperanti() {
 sed 's/\t/|/g' -i pandunia-loge.csv
 
 # engli e pandunia
-fata_liste 6 engli
-fata_leksasli_liste 6 engli
+fata_liste 5 engli
 tarja_logaslia_pa_engli
 
 #Tiddly dictionary
@@ -240,15 +239,15 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
 # esperanti e pandunia
-fata_liste 21 esperanti
+fata_liste 20 esperanti
 tarja_logaslia_pa_esperanti
 
 # suomi e pandunia
-fata_liste 22 suomi
+fata_liste 21 suomi
 tarja_logaslia_pa_suomi
 
 # polski e pandunia
-fata_liste 23 polski
+fata_liste 22 polski
 
 # Tiddly polski e pandunia
 cp polski/pandunia-polski.md temp/temp.txt
@@ -256,13 +255,13 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > polski/tiddly.html
 
 # cini e pandunia
-fata_liste 12 cini
+fata_liste 11 cini
 
 # rusi e pandunia
-fata_liste 10 rusi
+fata_liste 9 rusi
 
 # fransi e pandunia
-fata_liste 7 fransi
+fata_liste 6 fransi
 
 #Tiddly fransi e pandunia
 cp fransi/pandunia-fransi.md temp/temp.txt
@@ -270,8 +269,8 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > fransi/tiddly.html
 
 # espani e pandunia
-fata_liste 8 espani
+fata_liste 7 espani
 
 # portugali e pandunia
-fata_liste 9 portugali
+fata_liste 8 portugali
 
