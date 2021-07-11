@@ -7,7 +7,7 @@
 
 ### 辅音
 
-辅音18个: b c d f g h j k l m n p r s t v x z
+辅音19个: b c d f g h j k l m n p r s t v x z
 
 |字母|汉语拼音|国际音标|
 |----|-------|--------|
@@ -21,8 +21,9 @@
 | d  | d     | /d/    |
 | s  | s     | /s/    |
 | z  | -     | /z/    |
-| x  | x, sh | /ʃ/    |
-| c  | ch, q | /tʃ/   |
+| sh | sh, x | /ʃ/    |
+| c  | c     | /ts/   |
+| ch | ch, q | /tʃ/   |
 | j  | j     | /dʒ/   |
 | m  | m     | /m/    |
 | n  | n     | /n/    |

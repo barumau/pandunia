@@ -3,50 +3,47 @@
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński.
 Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
-| Pandunia | IPA     |
-|:--------:|:-------:|
-| a        | /a/     |
-| b        | /b/     |
-| c        | /tʃ≈tʂ≈tɕ/ |
-| d        | /d/     |
-| e        | /e/     |
-| f        | /f/     |
-| g        | /g/     |
-| h        | /h≈x/   |
-| i        | /i/     |
-| j        | /dʒ≈dʐ≈dʑ/ |
-| k        | /kʰ/    |
-| l        | /l/     |
-| m        | /m/     |
-| n        | /n/     |
-| o        | /o/     |
-| p        | /pʰ/    |
-| r        | /r≈ɹ/   |
-| s        | /s/     |
-| t        | /tʰ/    |
-| u        | /u/     |
-| v        | /w≈ʋ≈v/ |
-| x        | /ʃ≈ʂ≈ɕ/ |
-| y        | /j/     |
-| z        | /z≈dz/  |
+| Pandunia | IPA    |
+|:--------:|:------:|
+| A        | a      |
+| B        | b      |
+| C        | ts (s) |
+| Ch       | tʃ     |
+| D        | d      |
+| E        | e      |
+| F        | f      |
+| G        | g      |
+| H        | h (x)  |
+| I        | i      |
+| J        | dʒ     |
+| K        | kʰ     |
+| L        | l      |
+| M        | m      |
+| N        | n (ŋ)  |
+| P        | pʰ     |
+| O        | o      |
+| R        | r (ɹ)  |
+| S        | s      |
+| Sh       | ʃ      |
+| T        | tʰ     |
+| U        | u      |
+| V        | w (ʋ v) |
+| X        | ks (s) |
+| Y        | j      |
+| Z        | z (dz) |
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
 
 ## Spółgłoski
 
-    p  b  f     m  v
-    t  d  s  z  n  l  r
-    c  j  x        y
-    k  g  h
-
-Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, d, f, h, k, l, m, n, p, r, s, t, v, z** jest podobna i prosta.
+Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, c, d, f, h, k, l, m, n, p, r, s, t, v, z** jest podobna i prosta.
 
 Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polskim.
 
 - **r**, najlepiej, by była drżąca jak w hiszpańskim _carro_. Inne wymowy są akceptowane.
-- **x** jest zawsze wymawiane jak SZ w _szpital_.
-- **c** jest zawsze wymawiane jak CZ w _czoło_.
+- **sh** jest zawsze wymawiane jak SZ w _szpital_.
+- **ch** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
 - **n** jest wymawiane końcem języka z wyjątkiem w kombinacjach **nk** i **ng**, gdzie jest to miękkopodniebne /ŋ/ jak w _bank_ wymawianym szybko. Na końcu słowa, **g** w **ng** może być nieme. Więc słowo **pang** może być wymawiane /paŋ/ jak i /paŋg/.
 
@@ -71,11 +68,11 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. hotél.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nóvi, dúnia, musíke.
 
-     dunia sa momi sundari planete.  
-    /dúnia sá mómi sundári planéte./
+     dunia e mimen di bel planete.  
+    /dúnia é mímen di bél planéte./
 
-     me vola loga komuni bax, le sa pandunia.  
-    /mé wóla lóga komúni báx, lé sá pandúnia./
+     mi vol loga komun basha, ya e pandunia.  
+    /mí vól lóga komún básha, yá é pandúnia./
 
 
 ## Wielkość liter
@@ -114,8 +111,10 @@ Wielkie litery są używane w standardowych międzynarodowych akronimach. Na prz
 
 W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
-> **me vida te :)** = Ja widzę cię.  
-> **me no vida te :(** = Ja nie widzę cię.
+**mi vide tu :)**
+– Ja widzę cię.  
+**mi no vide tu :(**
+– Ja nie widzę cię.
 
 
 ## Struktura słów

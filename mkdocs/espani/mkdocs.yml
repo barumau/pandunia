@@ -9,7 +9,7 @@ nav:
     - 'Info':
         - 'Principios': filsofe.md
     - 'Lecciones':
-        - 'Ortografía': abc.md
+        - 'Ortografía': 102_ABC.md
         - 'Frases básicas': fraze.md
         - 'Curso': darse.md
     - 'Diccionarios':
