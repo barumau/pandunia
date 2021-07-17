@@ -235,7 +235,7 @@ Bermuda - Bermuda
 berylli - berilium  
 betoni - beton  
 Bhutan - Drugia  
-biologia - biyolojia  
+biologia - biologi  
 biologinen sukupuoli - biyi jinse  
 biseksuaali - dulseksi  
 blini - rusi krepe  
@@ -264,7 +264,7 @@ Burundi - Rundi
 ####C - ch  
 Cabo Verde - Kabu Verdi  
 Cayman-saaret - Kaiman nesia  
-celsiusaste - chelsius darje  
+celsiusaste - celsius darje  
 Ceres - cheres  
 cerium - cerium  
 cesium - cesium  
@@ -284,8 +284,8 @@ data (numeerinen tieto) - date
 Deimos - Deimos  
 delfiini - dolfin  
 demokraatti - demokratiste  
-demokraattinen - demokrati  
-demokratia - demokratia  
+demokraattinen - demo krati li  
+demokratia - demo krati  
 demoni (piru) - demon  
 desi - dechi*  
 desibeli - dechibel  
@@ -415,8 +415,8 @@ Etiopia - Etiopia
 etninen - zuki  
 etuliite (prefiksi) - chenfikse  
 etymologia - logaslia  
-etäisyys (kaukaisuus) - tel  
-etäisyys (kaukaisuus) - telia  
+etäisyys (kaukaisuus) - tele  
+etäisyys (kaukaisuus) - teleta  
 eugeniikka - eujenistia  
 Euraasia - eurasia  
 euro (€) - euro*  
@@ -572,7 +572,7 @@ helppo - fasili
 Helsinki - Helsinki  
 helvetti - narake  
 hengitys (henkäys) - nafas  
-henki (sielu, mieli, psyyke) - ruh  
+henki (sielu, mieli, psyyke) - ruhu  
 henkilö - jan  
 henkilökohtainen (privaatti) - auti  
 henkinen (psyykkinen) - ruhi  
@@ -725,7 +725,7 @@ ikkuna - janel
 ikkunankehys (ikkunanpuite) - janelfrem  
 ikä - sen  
 ilkeä (julma) - zalimi  
-illallinen - suaryam  
+illallinen - sham yam  
 ilma - air  
 ilman - na  
 ilmanpaine - airbaria  
@@ -738,8 +738,8 @@ ilmavoimat - airgun
 ilmeinen (silminnähtävä) - eshvidi  
 ilmiasu (ulkonäkö) - rupe  
 ilostuttaa (tyydyttää) - suka  
-ilta - suar  
-iltapäivä - suarden  
+ilta - sham  
+iltapäivä - sham den  
 ilves - linche  
 imeä - chupa  
 imperialismi - imperistia  
@@ -858,7 +858,7 @@ juhannus (kristillinen juhla) - yohani feste
 juhlapäivä - festoden  
 juhlat - feste  
 juhlia - festa  
-julkinen (kansan-) - demi  
+julkinen (kansan-) - demo li  
 jumala - deu  
 jumalallinen - devi  
 jumaltaru (myytti) - deusage  
@@ -944,7 +944,7 @@ kalsiitti (kalkkisälpä) - kalsite
 kalsium - kalsium  
 Kambodja - Kambojia  
 kameli - gamel  
-kamera - fotografmashin  
+kamera - foto grafe gi  
 Kamerun - Kamerun  
 kammo (fobia) - fobia  
 kamomilla - kamil  
@@ -989,7 +989,7 @@ kassanhoitaja - kasher
 kassava (maniokki) - manyoke  
 kastanja - kastan  
 kaste - rose  
-kastike (soosi) - saus  
+kastike (soosi) - sos  
 kasvaa (suurentua) - dayu  
 kasvaa - rastu  
 kasvi - fite  
@@ -1007,13 +1007,13 @@ kattila - ketle
 katto (katos) - chate  
 kauan (pitkän aikaa) - longoduro  
 kauhu (terrori) - teror  
-kaukainen - teli  
+kaukainen - tele  
 Kaukasia - Kaukasia  
-kaukoputki (teleskooppi) - teloskope  
+kaukoputki (teleskooppi) - teleskope  
 kauneus - sundaria  
 kaunis (komea, sievä) - sundari  
+kaupunki - citi  
 kaupunki - nagre  
-kaupunki - site  
 kaura - aven  
 Kazakstan - Kazakia  
 kebab (grilliliha) - kababi manse  
@@ -1081,23 +1081,23 @@ ketsuppi - kechape
 ketterä - ajili  
 kettu - hulei  
 keuhko - pulmon  
-kevät - fulmosim  
+kevät - hua mosim  
 Khartoum - Hartum  
 kiehua - bulu  
 kiekko (levy) - diske  
 kieli (elin) - lisan  
 kieli (kommunikaatio) - basha  
-kieliopillinen - bashokanuni  
+kieliopillinen - basha kanun li  
 kieliopillinen suku - bashi jinse  
-kielioppi - bashokanun  
-kielitiede (lingvistiikka) - basholojia  
+kielioppi - basha kanun  
+kielitiede (lingvistiikka) - bashalogi  
 kielletty - harami  
 kieltää - harama  
 kieltää - nega  
 kierre (spiraali) - helis  
 kierrättää - resikle  
 kiihkeä (väkevä, voimakas, vahva, kova) - tezi  
-kiillottaa - fotofrika  
+kiillottaa - foto frika  
 Kiina - Junguo  
 kiinalainen tai japanilainen kirjoitusmerkki - Han zi  
 kiinnittää - fiksa  
@@ -1251,10 +1251,9 @@ kuitti (kuittaus) - reside
 kuiva - gani  
 kuivata (kuivattaa) - gana  
 kuka? - ki jan  
-kukka - ful  
-kukkamaljakko - fuljar  
-kukkaruukku - fulpote  
-kukkia - fulu  
+kukka - hua  
+kukkamaljakko - hua jara  
+kukkaruukku - hua pote  
 kuljetus - transeria  
 kulkea poikki, läpi tai yli - transa  
 kulma (nurkka) - gon  
@@ -1510,7 +1509,7 @@ loppuliite (jälkiliite) - posfikse
 loppunut - fini  
 loukkaus (herja) - dusnam  
 loukkaus (törkeys) - ninde  
-lounas - denyam  
+lounas - den yam  
 luhistua (sortua sisään) - inplozu  
 luhistuminen - inploze  
 luiska (ramppi) - rampe  
@@ -1595,7 +1594,7 @@ maapähkinä - geyodou
 maaseutu - agristan  
 maata (makoilla) - kushu  
 maataloudellinen (agraari-) - agri  
-maatalousbiologia - agrobiyolojia  
+maatalousbiologia - agrobiologi  
 maavoimat - geyogunia  
 Macao - Makau  
 Madagaskar - Malagasia  
@@ -1610,7 +1609,7 @@ maissi - mais
 maistaa - gusta  
 maistua - gustu ko  
 maito - milke  
-majakka - fotominar  
+majakka - foto minar  
 majava - kastor  
 Makedonia - Nordi Makedonia  
 makeinen (karkki, karamelli) - kande  
@@ -1717,7 +1716,7 @@ mies - maturi man
 miettiä (pohtia, pitää jonakin) - hema  
 mikro- - mikro*  
 mikrobi - mikrobiu  
-mikrobiologia - mikrobiyolojia  
+mikrobiologia - mikrobiologi  
 Mikronesia - Mikronesia  
 mikroskooppi - mikroskope  
 mikä tahansa - eni  
@@ -1821,7 +1820,7 @@ myky (pelmeni, ravioli) - pelmen
 mylly - molia  
 myllynkivi - molsheke  
 mylläri - moler  
-myrkky - tokse  
+myrkky - toksi  
 myrkyllinen - toksi  
 myrsky - tafun  
 myöhemmin (tuleva) - poso  
@@ -1939,7 +1938,7 @@ näyttelijä - roler
 näyttää jltkn - rupu  
 näytös (esitys, show) - shou  
 ####O - O  
-odottaa - denga  
+odottaa - deng  
 oganesson - oganeson  
 ohitettu (mennyt) - pasi  
 ohjaaja (pilotti, luotsi) - piloter  
@@ -1961,7 +1960,7 @@ oksidi - okside
 olento (olio) - ser  
 oliivi - zaitun  
 olkapää (hartia) - kante  
-olla - sa  
+olla - e  
 olla eri mieltä - aloraya  
 olla hereillä - jagi  
 olla jkn arvoinen - valu  
@@ -2028,7 +2027,7 @@ otella - mecha
 ottaa esiin (paljastaa) - eshpoza  
 ottaa kiinni (napata, kaapata) - kapa  
 ottelu (matsi) - meche  
-outo (kummallinen) - bizari  
+outo (kummallinen) - bizar  
 ovi (portti, veräjä) - mun  
 ####P - P  
 paahtaa (paistaa) - rosta  
@@ -2123,7 +2122,7 @@ passi - pasporte
 pata - pote  
 patja - matras  
 patogeeni - patojener  
-patologia (tautioppi) - patolojia  
+patologia (tautioppi) - patilogi  
 patonki (ranskanleipä) - baton pan  
 pehmeä - komali  
 peikko - gui  
@@ -2281,7 +2280,7 @@ projektori (videotykki, piirtoheitin) - lanchografer
 pronomini - visloge  
 prosessi (proseduuri) - proses  
 protaktinium - protacinium  
-psykologia - ruhlojia  
+psykologia - ruhulogi  
 pudonnut (tippunut) - padi  
 pudota (tipahtaa) - padu  
 pudottaa - pada  
@@ -2291,7 +2290,7 @@ puhdas (siivo, siisti) - safi
 puhdistaa (siivota) - safa  
 puhe (sanat) - loge  
 puhelias - logivi  
-puhelin - telfon  
+puhelin - telefon  
 puhelinjohto - telfonlin  
 puhelintekniikka - telfonia  
 puhua (kommunikoida) - basha  
@@ -2358,7 +2357,7 @@ pääsiäinen - paske
 päästä (ulottua) - aksesa  
 pääsy - akses  
 pöly (tomu) - fun  
-pölynimuri - funchuper  
+pölynimuri - fun chupa gi  
 pöytä - meze  
 pöytäliina - mezotesh  
 Qatar - Katar  
@@ -2503,7 +2502,7 @@ Saint Kitts ja Nevis - Santi Kitse e Nevis
 Saint Lucia - Santi Lusia  
 saippua - sabun  
 sairas - pati  
-sairaus - patia  
+sairaus - pati  
 Saksa - Doichia  
 saksalainen - doichi  
 sakset - makas  
@@ -2554,7 +2553,7 @@ Saturnus - Saturne
 satuttaa - pasha  
 Saudi Arabia - Saudi Arabia  
 sauma (ommel) - sutur  
-sauna - saune  
+sauna - sauna  
 savanni - garmozoni chavistan  
 savenvalaja - poter  
 savi - glutofan  
@@ -2566,7 +2565,7 @@ seesami - sesam
 seikkailija - venturer  
 seikkailu - ventur  
 seinä (muuri) - mur  
-seismologia - sismolojia  
+seismologia - sismologi  
 seisoa (seisahtaa) - estasu  
 seisottaa - estasa  
 seisova (staattinen) - estasi  
@@ -2575,8 +2574,8 @@ seitsemän (7) - sete
 sekoitin - misher  
 sekoittaa - misha  
 seksi (sukupuolisuhde) - sekse  
-seksikäs - seksi  
-seksologia - seksolojia  
+seksikäs - sekse li  
+seksologia - sekselogi  
 sekunti - sekunde  
 sekuntikello - durmetrer  
 selain - brauzer  
@@ -2668,13 +2667,13 @@ sivu- - lati
 Skandinavia - Eskandia  
 skandium - eskandium  
 Skotlanti - Eskotia  
-slaavilainen - slavi  
+slaavilainen - Slave  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 smaragdi - zumurude  
 sohva - kanape  
 sohva - sofa*  
-soihtu - fotobaton  
+soihtu - foto baton  
 soija - soi  
 soijakastike - soisaus  
 soijamaito - soimilke  
@@ -2686,8 +2685,8 @@ sokerinen (makea) - sukari
 sola (läpikulku) - pasdau  
 solmia (tehdä solmu) - noda  
 solmu - node  
-solu - chel  
-soluoppi (sytologia) - chelolojia  
+solu - cel  
+soluoppi (sytologia) - cellogi  
 solvata (loukata) - dusnamana  
 Somalia - Somalia  
 Somalimaa - Somaldesh  
@@ -2797,7 +2796,7 @@ syylä - zeyil
 Syyria - Suria  
 syyskuu - tisa me mes  
 säde - rade  
-sädekehä (halo) - fotosirke  
+sädekehä (halo) - foto sirke  
 säe (riimi) - rim  
 sähkö - eletre  
 sähköinen - eletri  
@@ -2884,7 +2883,6 @@ tarpeellinen - yavan
 tarpeeton - anyavi  
 tarra - glutograf  
 tarve (puute) - yau  
-tarvita - yavu  
 tasainen (tasavertainen) - pari  
 tasapaino - parvezia  
 tasavalta - komunkratia  
@@ -2923,8 +2921,8 @@ tekijä (aikaansaaja) - er
 tekijä (toimija) - ater  
 tekijä (valmistaja) - fater  
 tekniikka (keino, menetelmä) - tehne  
-tekniikka (teknologia) - tehnolojia  
-teknokratia - tehnokratia  
+tekniikka (teknologia) - tehnelogi  
+teknokratia - tehnekrati  
 teko (toimenpide, akti) - ate  
 teko - fate  
 tekstin muotoilu - kitaboforme  
@@ -2953,16 +2951,16 @@ teurastamo - buchokan
 thai - tayi  
 Thaimaa - Tayia  
 tie - dau  
-tiede (tutkimus) - lojia  
+tiede (tutkimus) - logi  
 tiedottaa (informoida) - konsavana  
-tieto (tietämys) - save  
+tieto (tietämys) -   
 tieto - konsave  
 tietokanta - datobanke  
 tietokone - komputer  
-tietoteoria (epistemologia) - savolojia  
-tietty (tunnettu) - savi  
+tietoteoria (epistemologia) - sabilogi  
+tietty (tunnettu) -   
 tietysti (selvästi) - klaro  
-tietää (tuntea) - sava  
+tietää (tuntea) - sabi  
 Tiibet - Botia  
 tiikeri - bagre  
 tiili - dobe  
@@ -2983,18 +2981,18 @@ tohtori - dotor
 tohtorin tutkinto - dotoria  
 tohveli - babuche  
 toimelias (aktiivinen) - ativi  
-toiminta (funktio) - funchu  
+toiminta (funktio) - funci  
 toiminta - ation  
 toimintahäiriö - dusfunche  
 toimittaja (journalisti, lehtimies) - gazeter  
-toimiva - funchabli  
+toimiva -   
 toisiaan (keskenään) - unal  
 toisiaan (toinen toistaan) - ses  
 toistaa - reya  
 toisto - ri  
 toivoa - inshala  
-toksiini - biyotokse  
-toksikologia (myrkkyoppi) - toksolojia  
+toksiini - bio tokse  
+toksikologia (myrkkyoppi) - toksilogi  
 tomaatti - tomate  
 Tonga - Tonga  
 tonni (1000 kg) - megagram  
@@ -3193,13 +3191,13 @@ valkoinen (valkea) - baki
 valkosipuli - lasun  
 Valkovenäjä - Belarus  
 valmis - redi  
-valo - fote  
+valo - foto  
 valoisa - foti  
-valokuitu (valokaapeli) - fotolin  
-valokuva (foto) - fotograf  
-valokuvaaja - fotografer  
-valokuvaus - fotografia  
-valonsäde - fotorade  
+valokuitu (valokaapeli) - foto lin  
+valokuva (foto) - foto grafe  
+valokuvaaja - foto grafer  
+valokuvaus - foto grafia  
+valonsäde - foto rade  
 valta - kratia  
 valtameri - daihai  
 vanadiini - vanadium  
@@ -3221,8 +3219,7 @@ varapresidentti - visprezidente
 varas - chorer  
 varastaa - chora  
 varaus (ennakkovaraus) - rezerve  
-varjo - saye  
-varjostaa - saya  
+varjo - saya  
 varkaus - chor  
 varma - ameni  
 varras - shish  
@@ -3306,7 +3303,7 @@ viini - vin
 viinipanimo - vinkan  
 viinirypäle - putau  
 viisas - sofi  
-viisaus - sofia  
+viisaus - sofita  
 viisi (5) - penta  
 viisikulmio - limgon  
 viisitahokas (prisma) - limfas  
@@ -3325,7 +3322,7 @@ virhe (erhe) - galte
 virka (virka-asema) - ofis  
 virkailija (virkamies) - ofiser  
 Viro (Eesti) - Estia  
-virologia - viruslojia  
+virologia - viruslogi  
 virrata - rivu  
 virta (virtaus) - riu  
 virtahepo - gubu*  
@@ -3362,8 +3359,8 @@ vuotaa - lova
 vuotaa verta - lova sang  
 vyö - zon  
 väenpaljous - demomultia  
-väestö (kansa) - deme  
-väestötiede (demografia) - demografia  
+väestö (kansa) - demo  
+väestötiede (demografia) - demo grafi  
 vähemmistö - minoria  
 vähemmän - min (mino)  
 vähentää - mina  

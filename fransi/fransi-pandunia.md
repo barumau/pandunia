@@ -41,7 +41,7 @@ agresseur - agreser
 agressif - agresivi  
 agression (attaque) - agres  
 agricole - agri  
-agrobiologie - agrobiyolojia  
+agrobiologie - agrobiologi  
 agronomie - agronomia  
 ail - lasun  
 aimer - ama  
@@ -169,7 +169,6 @@ aventurier - venturer
 avis (opinion) - rai  
 avocat - avakate  
 avoine - aven  
-avoir besoin de - yavu  
 avoir tendance à - iva  
 axe - akse  
 Azerbaijan - Azerbaijan  
@@ -228,7 +227,7 @@ bicyclette - sikle
 bien-être - salamia  
 bilingue - dulbashi  
 billet - tikete  
-biologie - biyolojia  
+biologie - biologi  
 biome - biyosistem  
 bière - bir  
 blanc - baki  
@@ -429,7 +428,7 @@ cuiller - chamache
 cultiver - agra  
 culturisme (musculation) - muskulbin  
 cycliste - sikliste  
-cytologie - chelolojia  
+cytologie - cellogi  
 célérité - siri mote  
 côte - haitate  
 côté - late  
@@ -547,7 +546,7 @@ faim - yamyau
 faire - fata  
 faire confiance (espérer, croire qqn./qqch., avoir la foi) - amena  
 fait - fate  
-fanal (balise) - fotominar  
+fanal (balise) - foto minar  
 fatigue - fatigia  
 faute (erreur) - galte  
 favori (préféré) - mashfili  
@@ -565,7 +564,7 @@ fil de trame - veilin
 fils ou fille - ben  
 fini - fini  
 fiord - fiorde  
-fleur - ful  
+fleur - hua  
 flèche - fleche  
 foin - ganchau  
 fois - mar  
@@ -772,7 +771,7 @@ loquace - logivi
 loup - volfe  
 lourd - vezi  
 loutre - lontre  
-lumière - fote  
+lumière - foto  
 lundi - un me den  
 lune - lune  
 luthéranisme - martinluteristia  
@@ -830,7 +829,7 @@ messager - anjiler
 mettre (placer) - loka  
 meule - molsheke  
 microbe - mikrobiu  
-microbiologie - mikrobiyolojia  
+microbiologie - mikrobiologi  
 microscope - mikroskope  
 miel - medu  
 migration - migre  
@@ -924,7 +923,6 @@ oeuf - ande
 oie - ganse  
 oignon - piaze  
 oiseau - pakse  
-ombrager - saya  
 ombrelle (parasol) - solchate  
 on - men  
 oncille - bagroselote  
@@ -993,7 +991,7 @@ passeport - pasporte
 passer - durita  
 passer - pas  
 pastèque - arbuze  
-pathologie - patolojia  
+pathologie - patilogi  
 patient - patike  
 pause - pauze  
 pavot d'Orient - guipapil  
@@ -1016,8 +1014,8 @@ peu - shau
 peut-être - ablo  
 phase - faze  
 philosophie - filsofia  
-photographie - fotograf  
-photographie - fotografia  
+photographie - foto grafe  
+photographie - foto grafia  
 pierre - sheke  
 pierre précieuse (joyau) - bau sheke  
 pierre tombale - gabrosheke  
@@ -1055,7 +1053,7 @@ poisson - pesh
 poisson-globe - balonpesh  
 poivre - pipre  
 poivre long - longopipre  
-poli - fotofrika  
+poli - foto frika  
 pollution - najis  
 Polynesie - Polnesia  
 pomme - aple  
@@ -1071,7 +1069,7 @@ possédant (propriétaire) - malan
 posture (position) - asan  
 postérieur - postri  
 pot (vase) - pote  
-pot de fleur - fulpote  
+pot de fleur - hua pote  
 poterie - poteria  
 potier - poter  
 poudre à canon - barude  
@@ -1104,8 +1102,8 @@ préférer - mashfila
 présent - zayi  
 prêter (empruntre) - jeka  
 prêter - jekodona  
-psychologie - ruhlojia  
-psyché - ruh  
+psychologie - ruhulogi  
+psyché - ruhu  
 pyramide - piram  
 pâquerette - englomargarite  
 pâte - paste  
@@ -1174,7 +1172,7 @@ rôtir - rosta
 s'installer (déménager) - migru  
 s'opposer à - shata  
 sac - sake  
-sagesse - sofia  
+sagesse - sofita  
 sain - sali  
 saison - mosim  
 salle de bains - banyokamar  
@@ -1188,7 +1186,7 @@ santé - salia
 sapin - abete  
 Satan - shatan  
 Saturne - Saturne  
-sauce - saus  
+sauce - sos  
 sauce de soja - soisaus  
 saucisse - sosis  
 saumon altentique - atlantosalmon  
@@ -1197,7 +1195,7 @@ saumon rose - rozosalmon
 saumon sockeye - lalsalmon  
 sauvage - ekojeni  
 savane - garmozoni chavistan  
-savoir (connaître) - sava  
+savoir (connaître) - sabi  
 Scandinavie - Eskandia  
 scie - sere  
 sculpteur - eskulter  
@@ -1221,7 +1219,7 @@ serrure - sor
 serviette - gantesh  
 seul (unique) - uniki  
 sexe - jinse  
-sexologie - seksolojia  
+sexologie - sekselogi  
 shopping - shope  
 si - aga  
 signer - namkitaba  
@@ -1232,7 +1230,7 @@ six (6) - luku
 société - sosia  
 soie - silke  
 soif - suiyau  
-soir (soirée) - suar  
+soir (soirée) - sham  
 soja - soi  
 soldat - gunjan  
 soleil - sol  
@@ -1271,7 +1269,7 @@ tasse à thé - chaikupe
 taupe - krote  
 taximètre - taksometrer  
 technique - tehne  
-technologie - tehnolojia  
+technologie - tehnelogi  
 tectonique des plaques - plati geyokaskia  
 temple - pujokan  
 temps - zam  
@@ -1304,8 +1302,8 @@ toucher - tocha
 toupie - rototope  
 touriste - safariste  
 Tournesol - solful  
-toxicologie - toksolojia  
-toxine - biyotokse  
+toxicologie - toksilogi  
+toxine - bio tokse  
 trace - marke  
 tracteur - trater  
 traduction - tarje  
@@ -1324,9 +1322,9 @@ tu - tu
 tubercule - masmul  
 Tunisie - Tunisia  
 turban - pagre  
-télescope (lunette) - teloskope  
+télescope (lunette) - teleskope  
 télécharger - netogeta  
-téléphone - telfon  
+téléphone - telefon  
 téléphoner - telfona  
 téléviseur - telvide  
 tête - sar  
@@ -1368,7 +1366,7 @@ vieux (ancien) - cheniki
 vieux (âgé, ancien) - lavi  
 vigne - eskalotan  
 village - chun  
-ville - site  
+ville - citi  
 vin de riz - risvin  
 violet (pourpre) - viyoleti  
 virus - virus  
@@ -1461,7 +1459,7 @@ zèbre - zebre
 évangile - evanjil  
 éveillé - jagi  
 évident - eshvidi  
-être - sa  
+être - e  
 être couché - kushu  
 être humain - insan  
 œil - oke  

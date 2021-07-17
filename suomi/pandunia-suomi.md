@@ -31,7 +31,7 @@ agreser - hyökkääjä
 agresivi - hyökkäävä (aggressiivinen)  
 agristan - maaseutu  
 agristani - maalais-  
-agrobiyolojia - maatalousbiologia  
+agrobiologi - maatalousbiologia  
 agrochun - maalaiskylä  
 agronomia - agronomia (maatalous)  
 aha - oivaltaa (tajuta)  
@@ -288,10 +288,10 @@ barude - ruuti
 basen - allas  
 basha - puhua (kommunikoida)  
 basha - kieli (kommunikaatio)  
+basha kanun - kielioppi  
+basha kanun li - kieliopillinen  
+bashalogi - kielitiede (lingvistiikka)  
 bashi jinse - kieliopillinen suku  
-bashokanun - kielioppi  
-bashokanuni - kieliopillinen  
-basholojia - kielitiede (lingvistiikka)  
 basi - tarpeeksi (riittävästi)  
 baske - kori  
 baske bol - koripallo  
@@ -357,6 +357,8 @@ bina - rakentaa
 binde - täplä (läiskä)  
 binplaner - arkkitehti  
 binplania - arkkitehtuuri  
+biologi - biologia  
+bio tokse - toksiini  
 bir - olut (kalja)  
 birkan - baari (kapakka)  
 bis - muunsukupuolinen  
@@ -366,9 +368,7 @@ bismute - vismutti
 biye - orgaaninen elämä  
 biyi - elävä (orgaaninen)  
 biyi jinse - biologinen sukupuoli  
-biyolojia - biologia  
-biyotokse - toksiini  
-bizari - outo (kummallinen)  
+bizar - outo (kummallinen)  
 biznes - liiketoiminta (bisnes)  
 bizneser - liikemies  
 blabla - jutella (höpistä)  
@@ -447,6 +447,9 @@ buste - povi
 bute - saapas (buutsi)  
 buton - nappi (näppäin, kytkin, nappula)  
 butonban - näppäimistö  
+cel - solu  
+cellogi - soluoppi (sytologia)  
+celsius darje - celsiusaste  
 centi - sentti  
 centimitre - senttimetri (cm)  
 cerium - cerium  
@@ -484,9 +487,6 @@ chau - ruoho
 chavistan - ruohotasanko  
 chehia - Tšekki  
 cheka - tarkistaa (tsekata)  
-chel - solu  
-chelolojia - soluoppi (sytologia)  
-chelsius darje - celsiusaste  
 chena - edeltää (olla ennen)  
 chenaga - edellyttää  
 chendeno - eilen  
@@ -544,6 +544,7 @@ chuza - valita
 chuzable - vaihtoehto  
 chuze - valinta (vaali)  
 chvana - Botswana  
+citi - kaupunki  
 ####D - D  
 da - määritetyn määritteeseen liittävä partikkeli  
 daidarja - korottaa  
@@ -613,16 +614,16 @@ Deimos - Deimos
 deke - moraali  
 deki - moraalinen  
 dekolojia - etiikka (moraalioppi)  
-deme - väestö (kansa)  
-demografia - väestötiede (demografia)  
-demokrati - demokraattinen  
-demokratia - demokratia  
+demo - väestö (kansa)  
+demo grafi - väestötiede (demografia)  
+demo krati - demokratia  
+demo krati li - demokraattinen  
 demokratiste - demokraatti  
 demomultia - väenpaljous  
 demon - demoni (piru)  
 den - päivä  
-denga - odottaa  
-denyam - lounas  
+den yam - lounas  
+deng - odottaa  
 des - kymmenen (10)  
 des du me mes - joulukuu  
 des me lun - lokakuu  
@@ -748,6 +749,7 @@ duva - rukoilla (anoa)
 duve - rukous  
 ####E - E  
 e - ja (sekä)  
+e - olla  
 eglis - kirkko  
 eh - häh?  
 ekia - luonto  
@@ -969,18 +971,18 @@ forta - vahvistaa (voimistaa)
 forti - voimakas (vahva)  
 fortia - voima  
 forum - foorumi  
-fote - valo  
 foti - valoisa  
-fotobaton - soihtu  
-fotofrika - kiillottaa  
-fotograf - valokuva (foto)  
-fotografer - valokuvaaja  
-fotografia - valokuvaus  
-fotografmashin - kamera  
-fotolin - valokuitu (valokaapeli)  
-fotominar - majakka  
-fotorade - valonsäde  
-fotosirke - sädekehä (halo)  
+foto - valo  
+foto baton - soihtu  
+foto frika - kiillottaa  
+foto grafe - valokuva (foto)  
+foto grafe gi - kamera  
+foto grafer - valokuvaaja  
+foto grafia - valokuvaus  
+foto lin - valokuitu (valokaapeli)  
+foto minar - majakka  
+foto rade - valonsäde  
+foto sirke - sädekehä (halo)  
 France - Ranska  
 France Guyana - Ranskan Guiana  
 France krepe - kreppi  
@@ -996,15 +998,9 @@ fui - hyi! (pyh!)
 fuka - pukea (vaatettaa)  
 fuke - vaate (puku)  
 fuku - pukeutua (pitää vaatetta yllään)  
-ful - kukka  
-fuljar - kukkamaljakko  
-fulmosim - kevät  
-fulpote - kukkaruukku  
-fulu - kukkia  
 fun - pöly (tomu)  
-funchabli - toimiva  
-funchu - toiminta (funktio)  
-funchuper - pölynimuri  
+fun chupa gi - pölynimuri  
+funci - toiminta (funktio)  
 funge - sieni  
 funge frute - sienen hattu  
 furete - kärppä (fretti)  
@@ -1294,6 +1290,10 @@ horlogerminar - kellotorni
 hormon - hormoni  
 Horvatia - Kroatia  
 hotel - hotelli  
+hua - kukka  
+hua jara - kukkamaljakko  
+hua mosim - kevät  
+hua pote - kukkaruukku  
 hui - tuhka  
 huidarte - podsoli  
 huirangi - harmaa  
@@ -1871,7 +1871,7 @@ logofiler - logofiili
 logofilia - logofilia  
 logoliste - sanaluettelo  
 loja - tutkia (opiskella)  
-lojia - tiede (tutkimus)  
+logi - tiede (tutkimus)  
 loka - panna (asettaa, sijoittaa)  
 loke - paikka (sija, sijainti)  
 loki - paikallinen  
@@ -2059,7 +2059,7 @@ migru - muuttaa (siirtyä)
 mikri - pikkuruinen (mikroskooppinen)  
 mikro* - mikro-  
 mikrobiu - mikrobi  
-mikrobiyolojia - mikrobiologia  
+mikrobiologi - mikrobiologia  
 Mikronesia - Mikronesia  
 mikroskope - mikroskooppi  
 mili* - milli-  
@@ -2435,10 +2435,10 @@ paste - tahna (tahdas)
 patate - peruna (potaatti)  
 pate - tauti  
 pati - sairas  
-patia - sairaus  
+pati - sairaus  
 patike - potilas  
 patojener - patogeeni  
-patolojia - patologia (tautioppi)  
+patilogi - patologia (tautioppi)  
 patomis - infektio (tartunta)  
 pau - pyssy  
 paunde - punta  
@@ -2721,9 +2721,9 @@ rototope - hyrrä
 rotu - pyöriä  
 roze - ruusu  
 rozorangi - vaaleanpunainen  
-ruh - henki (sielu, mieli, psyyke)  
+ruhu - henki (sielu, mieli, psyyke)  
 ruhi - henkinen (psyykkinen)  
-ruhlojia - psykologia  
+ruhulogi - psykologia  
 ruke - selkä  
 rukosake - reppu (rinkka)  
 rul - käärö  
@@ -2739,10 +2739,11 @@ rute - polku (reitti, kurssi)
 rutin - tapa (rutiini)  
 Rvanda - Ruanda  
 ####S - S  
-sa - olla  
 saba - aiheuttaa (olla syynä)  
 sabate - sapatti  
 sabe - syy  
+sabi - tietää (tuntea)  
+sabilogi - tietoteoria (epistemologia)  
 sabo da - koska (johdosta, takia)  
 sabun - saippua  
 sadi - koruton (tavanomainen, pelkkä)  
@@ -2815,23 +2816,17 @@ sate - hetki (kotva, ajankohta)
 sati - hetkellinen  
 Saturne - Saturnus  
 Saudi Arabia - Saudi Arabia  
-saune - sauna  
-saus - kastike (soosi)  
-sava - tietää (tuntea)  
-save - tieto (tietämys)  
-savi - tietty (tunnettu)  
-savolojia - tietoteoria (epistemologia)  
+sauna - sauna  
 savovol - kiinnostus (mielenkiinto)  
 savovolani - utelias (tiedonhaluinen)  
 savovoliti - kiinnostava  
-saya - varjostaa  
-saye - varjo  
+saya - varjo  
 se - itse  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
 sekse - seksi (sukupuolisuhde)  
-seksi - seksikäs  
-seksolojia - seksologia  
+sekse li - seksikäs  
+sekselogi - seksologia  
 sekunde - sekunti  
 sekura - suojella (suojata, turvata)  
 sekuri - turvallinen (varma)  
@@ -2868,6 +2863,9 @@ sete me mes - heinäkuu
 shakal - šakaali  
 shake - oksa (haara)  
 shal - huivi (šaali)  
+sham - ilta  
+sham den - iltapäivä  
+sham yam - illallinen  
 shaman - šamaani  
 shampan vin - ĉampano  
 shan - vuori (mäki)  
@@ -2978,18 +2976,17 @@ sirkosheke - mukulakivi
 sirplan - juoni (salaliitto)  
 sisfas - kuutio (kuusitahokas)  
 sisgon - kuusikulmio  
-sismolojia - seismologia  
+sismologi - seismologia  
 sistem - järjestelmä (systeemi)  
-site - kaupunki  
 sivili - sivistynyt  
 sivilia - sivilisaatio  
 siyahi - musta  
-slavi - slaavilainen  
+Slave - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 sofa* - sohva  
 sofi - viisas  
-sofia - viisaus  
+sofita - viisaus  
 soi - soija  
 soimilke - soijamaito  
 soisaus - soijakastike  
@@ -3007,6 +3004,7 @@ somu - nukkua
 son - ääni  
 sona - ääntää  
 song - mänty  
+sos - kastike (soosi)  
 sosa - seurustella (toimia yhdessä)  
 sosi - yhteiskunnallinen (sosiaalinen)  
 sosi media - sosiaalinen media  
@@ -3025,9 +3023,6 @@ sualdokum - kyselylomake
 sualtem - asia (juttu)  
 suan - happo  
 suani - hapan (kirpeä)  
-suar - ilta  
-suarden - iltapäivä  
-suaryam - illallinen  
 Suati - Swazimaa  
 sube - aamu  
 subyam - aamiainen  
@@ -3116,16 +3111,16 @@ tayi - thai
 Tayia - Thaimaa  
 tazi - tuore (raikas)  
 tehne - tekniikka (keino, menetelmä)  
-tehnokratia - teknokratia  
-tehnolojia - tekniikka (teknologia)  
-tel - etäisyys (kaukaisuus)  
-telfon - puhelin  
+tehnekrati - teknokratia  
+tehnelogi - tekniikka (teknologia)  
+tele - etäisyys (kaukaisuus)  
+telefon - puhelin  
 telfona - soittaa puhelimella  
 telfonia - puhelintekniikka  
 telfonlin - puhelinjohto  
-teli - kaukainen  
-telia - etäisyys (kaukaisuus)  
-teloskope - kaukoputki (teleskooppi)  
+tele - kaukainen  
+teleta - etäisyys (kaukaisuus)  
+teleskope - kaukoputki (teleskooppi)  
 telugi - telugu (eräs intialainen kieli)  
 telvide - televisio  
 tem - aihe (teema)  
@@ -3171,9 +3166,9 @@ tisa me mes - syyskuu
 titanium - titaani  
 tocha - koskea (koskettaa)  
 Togo - Togo  
-tokse - myrkky  
+toksi - myrkky  
 toksi - myrkyllinen  
-toksolojia - toksikologia (myrkkyoppi)  
+toksilogi - toksikologia (myrkkyoppi)  
 tolera - sallia  
 tomate - tomaatti  
 ton - sävel (sävy)  
@@ -3331,7 +3326,7 @@ viri - urhea (sankarillinen)
 virje - neitsyt  
 virji - neitseellinen (koskematon)  
 virus - virus  
-viruslojia - virologia  
+viruslogi - virologia  
 visa - korvata  
 visloge - pronomini  
 vismai - äitipuoli (isän puoliso)  
@@ -3381,7 +3376,6 @@ yatimdom - orpokoti
 yau - tarve (puute)  
 yavan - tarpeellinen  
 yavi - puutteenalainen  
-yavu - tarvita  
 ye - kyllä  
 ye - tämä  
 yehudi - juutalainen  
@@ -3460,6 +3454,9 @@ zuki - etninen
 zukomedi - kansanryhmien välinen  
 Zulu - zulu  
 zumurude - smaragdi  
+ - toimiva  
+ - tieto (tietämys)  
+ - tietty (tunnettu)  
  - kuormata (lastata, ladata)  
  - sateinen  
  - sataa  

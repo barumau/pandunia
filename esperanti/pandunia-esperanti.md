@@ -166,9 +166,9 @@ barude - pulvo
 basen - baseno  
 basha - paroli (komuniki)  
 basha - lingvo  
-bashokanun - gramatiko  
-bashokanuni - gramatika  
-basholojia - lingvistiko  
+basha kanun - gramatiko  
+basha kanun li - gramatika  
+bashalogi - lingvistiko  
 basi - sufiĉa  
 baske - korbo  
 bata - anaso  
@@ -211,14 +211,14 @@ bina - konstrui
 binde - punkto  
 binplaner - arĥitekto  
 binplania - arĥitekturo  
+biologi - biologio  
 bir - biero  
 birkan - drinkejo  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
 biye - organismo  
 biyi - orgaaninen (biologinen)  
-biyolojia - biologio  
-bizari - stranga  
+bizar - stranga  
 biznes - negoco  
 bizneser - komercisto  
 blabla - babili  
@@ -269,6 +269,8 @@ bulu - boli
 bus - buso  
 buton - klavo (butono)  
 butonban - klavaro  
+cel - ĉelo  
+cellogi - citologio  
 centi - centono  
 cerium - cerio  
 cesium - cezio  
@@ -293,8 +295,6 @@ chatre - kvar (4)
 chatre me den - ĵaŭdo  
 chau - herbo  
 cheka - kontroli  
-chel - ĉelo  
-chelolojia - citologio  
 chena - antaŭiri  
 chendeno - hieraū  
 cheniki - malnova  
@@ -325,6 +325,7 @@ chute - eliro
 chutomun - elirejo  
 chuza - elekti  
 chuze - elekto  
+citi - urbo  
 ####D - D  
 da - de (partiklo de posedo)  
 daidom - palaco  
@@ -362,14 +363,14 @@ defer - defendanto (defendisto)
 defta - registri  
 defte - registraĵo  
 deftia - registro (konto)  
-deme - popolo  
-demografia - demografio  
-demokrati - demokratia  
-demokratia - demokratio  
+demo - popolo  
+demo grafi - demografio  
+demo krati - demokratio  
+demo krati li - demokratia  
 demon - demono  
 den - tago  
-denga - atendi  
-denyam - tagmanĝo  
+den yam - tagmanĝo  
+deng - atendi  
 des - dek (10)  
 desen - desegno  
 desh - lando  
@@ -437,6 +438,7 @@ duva - preĝi
 duve - preĝo  
 ####E - E  
 e - kaj  
+e - esti  
 eglis - preĝejo  
 eh - ĉu?  
 ekia - naturo  
@@ -569,14 +571,14 @@ forme - formo
 forti - forta  
 fortia - forto  
 forum - forumo  
-fote - lumo  
 foti - luma  
-fotobaton - torĉo  
-fotograf - foto  
-fotografer - fotisto  
-fotografia - fotografio  
-fotografmashin - fotilo  
-fotosirke - halo  
+foto - lumo  
+foto baton - torĉo  
+foto grafe - foto  
+foto grafe gi - fotilo  
+foto grafer - fotisto  
+foto grafia - fotografio  
+foto sirke - halo  
 France - Francio  
 France krepe - franca krepo  
 francium - franciumo  
@@ -586,12 +588,8 @@ fui - bah!
 fuka - vestigi  
 fuke - vesto  
 fuku - vesti (surporti)  
-ful - floro  
-fuljar - vazo  
-fulmosim - printempo  
-fulpote - florpoto  
 fun - polvo  
-funchu - funkcii  
+funci - funkcii  
 funge - fungo  
 furete - furo  
 furia - kolero (furiozo)  
@@ -763,6 +761,10 @@ horloger - horloĝo
 hormon - hormono  
 Horvatia - Kroatio  
 hotel - hotelo  
+hua - floro  
+hua jara - vazo  
+hua mosim - printempo  
+hua pote - florpoto  
 huke - hoko  
 hukokrus - svastiko  
 hulei - vulpo  
@@ -1062,7 +1064,7 @@ logike - logiko
 logiki - logika  
 logivi - parolema  
 logoliste - vortaro  
-lojia - scienco  
+logi - scienco  
 loka - lokigi  
 loke - loko  
 loki - loka  
@@ -1152,7 +1154,7 @@ mien - nudelo
 migre - migrado  
 mikro* - mikro-  
 mikrobiu - mikrobo  
-mikrobiyolojia - mikrobiologio  
+mikrobiologi - mikrobiologio  
 mikroskope - mikroskopo  
 mili* - mili-  
 milimitre - milimetro  
@@ -1337,7 +1339,7 @@ pasporte - pasporto
 patate - terpomo  
 pati - malsana  
 patike - paciento  
-patolojia - patologio  
+patilogi - patologio  
 patomis - infekto  
 pau - fusilo  
 pedal - pedalo  
@@ -1464,8 +1466,8 @@ rotolefto - maldekstrume
 rototafun - uragano (tajfuno)  
 roze - rozo  
 rubidium - rubidio  
-ruh - animo (psiko)  
-ruhlojia - psikologio  
+ruhu - animo (psiko)  
+ruhulogi - psikologio  
 ruke - dorso  
 rupe - aspekto  
 rusi krepe - rusa krepo  
@@ -1473,8 +1475,9 @@ rutenium - rutenio
 ruterfordium - ruterfordio  
 rutin - rutino (kutimo)  
 ####S - S  
-sa - esti  
 sabe - kialo  
+sabi - scii (koni)  
+sabilogi - sciteorio (epistemologio)  
 sabo da - ĉar  
 sabun - sapo  
 safa - purigi  
@@ -1521,14 +1524,10 @@ sapatokan - ŝuistejo
 sarkaske - kasko  
 sate - momento  
 sati - momenta  
-saune - saŭno  
-saus - saŭco  
-sava - scii (koni)  
-save - scio  
-savolojia - sciteorio (epistemologio)  
+sauna - saŭno  
 savovolani - scivolema  
 savovoliti - interesa  
-saye - ombro  
+saya - ombro  
 se - si  
 sekse - sekso  
 selenium - seleno  
@@ -1547,6 +1546,9 @@ sete - sep (7)
 sete me den - dimanĉosunnuntai  
 shake - branĉo  
 shal - koltuko  
+sham - vespero  
+sham den - posttagmeze  
+sham yam - vespermanĝo  
 shaman - ŝamano  
 shan - monto  
 shanpike - pinto  
@@ -1608,13 +1610,12 @@ sing - leono
 Singapur - Singapuro  
 sinokapse - torako  
 sirka - ĉirkaŭi  
-sismolojia - sismologio  
+sismologi - sismologio  
 sistem - sistemo  
-site - urbo  
 siyahi - nigra  
 sofa* - sofo  
 sofi - saĝa  
-sofia - saĝeco  
+sofita - saĝeco  
 soi - sojo  
 soimilke - sojlakto  
 soisaus - sojsaŭco  
@@ -1627,6 +1628,7 @@ somkamar - dormoĉambro
 somu - dormi  
 son - sono  
 song - pino  
+sos - saŭco  
 sosia - socio  
 sosis - kolbaso  
 speter - spektanto  
@@ -1636,9 +1638,6 @@ suala - demandi
 sualan - demandanta  
 suan - acido  
 suani - acida  
-suar - vespero  
-suarden - posttagmeze  
-suaryam - vespermanĝo  
 sube - mateno  
 sude - sudo  
 Sudi chosen - Sudkoreio  
@@ -1682,14 +1681,14 @@ tayi - tajlanda
 Tayia - Tajlando  
 tazi - freŝa  
 tehne - tekniko  
-tehnolojia - teknologio  
+tehnelogi - teknologio  
 teknium - teknecio  
-tel - malproksimeco  
-telfon - telefono  
+tele - malproksimeco  
+telefon - telefono  
 telfona - telefoni  
-teli - malproksima  
-telia - malproksimeco  
-teloskope - teleskopo  
+tele - malproksima  
+teleta - malproksimeco  
+teleskope - teleskopo  
 telurium - teluro  
 telvide - televidilo  
 tem - temo  
@@ -1816,7 +1815,7 @@ yamfite - legomo
 yamkamar - manĝoĉambro  
 yamyau - malsato  
 yang - speco (tipo, stilo)  
-yavu - bezoni  
+yau - bezono  
 ye - jes  
 ye - ĉi tio  
 Yemen - Jemeno  
@@ -1866,4 +1865,5 @@ zuki - etna
 zukomedi - interetna  
 Zulu - zuluo  
 zumurude - smeraldo  
+ - scio  
  - pluva  

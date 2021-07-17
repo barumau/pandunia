@@ -32,7 +32,7 @@ agresivi - aggressive
 agri - agricultural  
 agristan - countryside  
 agristani - rural (rustic)  
-agrobiyolojia - agrobiology  
+agrobiologi - agrobiology  
 agrochun - rural village  
 agronomia - agronomy  
 aha - understand (realize)  
@@ -311,10 +311,10 @@ barude - gunpowder
 basen - pool (basin, bowl)  
 basha - speak (communicate)  
 basha - language (communication)  
+basha kanun - grammar  
+basha kanun li - grammatical  
+bashalogi - linguistics  
 bashi jinse - grammatical gender  
-bashokanun - grammar  
-bashokanuni - grammatical  
-basholojia - linguistics  
 basi - enough (sufficient)  
 baske - basket (basketball hoop)  
 baske bol - basket ball  
@@ -382,6 +382,8 @@ bina - build (construct)
 binde - dot (spot)  
 binplaner - architect  
 binplania - architecture  
+biologi - biology (study of organic life)  
+bio tokse - toxin  
 bir - beer  
 birkan - bar (pub, beer house)  
 bis - genderqueer (non-binary)  
@@ -392,12 +394,10 @@ biye - organism (organic life)
 biyi - organic  
 biyi jinse - biological sex  
 biyochaniver - compost  
-biyolojia - biology (study of organic life)  
 biyomuti - fermented  
 biyomutu - ferment (leaven)  
 biyosistem - biome  
-biyotokse - toxin  
-bizari - odd (strange, weird)  
+bizar - odd (strange, weird)  
 biznes - business (commercial activity)  
 bizneser - businessperson (businessman)  
 blabla - chat (babble)  
@@ -478,6 +478,9 @@ buste - bust (bosom)
 bute - boot  
 buton - key (push-button, switch)  
 butonban - keyboard  
+cel - cell (biology)  
+cellogi - cytology  
+celsius darje - degree Celsius  
 centi - centi- (per cent)  
 centimitre - centimeter (cm)  
 cerium - cerium  
@@ -518,9 +521,6 @@ chau - grass
 chavistan - grassland (prairie)  
 chehia - Czech Republic  
 cheka - check (to examine)  
-chel - cell (biology)  
-chelolojia - cytology  
-chelsius darje - degree Celsius  
 chena - predate (be before)  
 chenaga - assume (presuppose)  
 chendeno - yesterday  
@@ -581,6 +581,7 @@ chuza - choose (elect, select, pick)
 chuzable - option (choice)  
 chuze - choice (election, selection)  
 chvana - Botswana  
+citi - city (town)  
 ####D - D  
 da - of (attributive preposition)  
 daidarja - amplify (scale)  
@@ -655,17 +656,17 @@ Deimos - Deimos
 deke - morality (ethics)  
 deki - moral  
 dekolojia - ethics  
-deme - people (population)  
-demi - public  
-demografia - demography  
-demokrati - democratic  
-demokratia - democracy  
+demo - people (population)  
+demo grafi - demography  
+demo krati - democracy  
+demo krati li - democratic  
+demo li - public  
 demokratiste - democrati  
 demomultia - population  
 demon - demon  
 den - day (daytime)  
-denga - wait  
-denyam - lunch  
+den yam - lunch  
+deng - wait  
 des - ten (10)  
 des du me mes - December  
 des me lun - October  
@@ -798,6 +799,7 @@ duva - pray (beg, entreat, implore)
 duve - prayer  
 ####E - E  
 e - and  
+e - be  
 eglis - church  
 eh - huh? (pardon?)  
 eki - environmental (natural)  
@@ -1030,18 +1032,18 @@ forta - strengthen (reinforce)
 forti - strong  
 fortia - force (strength, power)  
 forum - forum (public space)  
-fote - light (illumination)  
 foti - light (bright)  
-fotobaton - torch  
-fotofrika - polish  
-fotograf - photograph  
-fotografer - photographer  
-fotografia - photography  
-fotografmashin - camera  
-fotolin - optical fibre (optical cable)  
-fotominar - beacon (lighthouse)  
-fotorade - ray of light  
-fotosirke - halo (aureola)  
+foto - light (illumination)  
+foto baton - torch  
+foto frika - polish  
+foto grafe - photograph  
+foto grafe gi - camera  
+foto grafer - photographer  
+foto grafia - photography  
+foto lin - optical fibre (optical cable)  
+foto minar - beacon (lighthouse)  
+foto rade - ray of light  
+foto sirke - halo (aureola)  
 France - France  
 France Guyana - French Guiana  
 France krepe - crepe  
@@ -1058,15 +1060,9 @@ fuka - dress (clothe sb.)
 fuke - clothing (clothes)  
 fuki - clothed (dressed)  
 fuku - wear (dress, put on)  
-ful - flower  
-fuljar - flower vase  
-fulmosim - spring (springtime)  
-fulpote - flowerpot  
-fulu - blossom (bloom)  
 fun - dust (powder)  
-funchabli - valid (workable)  
-funchu - function (work)  
-funchuper - vacuum cleaner  
+fun chupa gi - vacuum cleaner  
+funci - function (work)  
 funge - fungus (mushroom)  
 funge frute - mushroom (sporocarp)  
 funge nete - mycelium  
@@ -1394,6 +1390,10 @@ horlogerminar - clocktower
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
+hua - flower  
+hua jara - flower vase  
+hua mosim - spring (springtime)  
+hua pote - flowerpot  
 hui - ash (ashes)  
 huidarte - podzol  
 huirangi - grey (gray, ashy)  
@@ -2074,7 +2074,7 @@ logofiler - logophile (word buff)
 logofilia - logophilia  
 logoliste - dictionary (word list)  
 loja - research (to study)  
-lojia - science (study, research)  
+logi - science (study, research)  
 loka - put (place, set)  
 loke - place (location)  
 loki - local  
@@ -2296,7 +2296,7 @@ migru - move (migrate, relocate oneself)
 mikri - tiny (microscopic)  
 mikro* - micro-  
 mikrobiu - microorganism (microbe)  
-mikrobiyolojia - microbiology  
+mikrobiologi - microbiology  
 Mikronesia - Micronesia  
 mikroskope - microscope  
 mili* - milli-  
@@ -2732,10 +2732,10 @@ pastopetre - magma
 patate - potato  
 pate - disease  
 pati - ill (sick)  
-patia - illness (sickness)  
+pati - illness (sickness)  
 patike - patient (subject of medical treatment)  
 patojener - pathogen  
-patolojia - pathology  
+patilogi - pathology  
 patomis - infection (infestation, contagion)  
 patomisa - infect  
 pau - gun (firearm)  
@@ -3069,9 +3069,9 @@ roze - rose
 rozorangi - pink (rosy)  
 rozosalmon - pink salmon  
 rubidium - rubidium  
-ruh - soul (mind, psyche)  
+ruhu - soul (mind, psyche)  
 ruhi - mental (psychic)  
-ruhlojia - psychology  
+ruhulogi - psychology  
 ruhmisha - confuse (perplex, bewilder, baffle)  
 ruhmishi - confused (perplexed, disoriented, bewildered)  
 ruke - back  
@@ -3093,10 +3093,11 @@ rutogalta - stray (deviate)
 rutogalti - stray (deviant)  
 Rvanda - Rwanda  
 ####S - S  
-sa - be  
 saba - cause (be the cause for)  
 sabate - Sabbath  
 sabe - reason (cause)  
+sabi - know (be aware of)  
+sabilogi - epistemology  
 sabo da - because  
 sabun - soap  
 sadi - plain (ordinary, unadorned, simple, mere)  
@@ -3183,26 +3184,18 @@ satodona - dedicate (devote)
 satodonia - dedication (devotion)  
 Saturne - Saturn  
 Saudi Arabia - Saudi Arabia  
-saune - sauna  
-saus - sauce  
-sava - know (be aware of)  
-save - knowledge  
-savi - known  
-savolojia - epistemology  
+sauna - sauna  
 savovol - interest (curiosity)  
 savovolani - interested (curious)  
-savovoli - interested (curious)  
 savovoliti - interesting (curious)  
 savovolu - wonder (be interested in, would like to know)  
-saya - beshadow  
-saye - shadow  
+saya - shadow  
 se - self (reflexive pronoun)  
 sekreter - secretary  
 sekreteria - secretariat  
-seksa - have sex  
 sekse - sex (sexual relation)  
-seksi - sexy (sexually arousing)  
-seksolojia - sexology  
+sekse li - sexy (sexually arousing)  
+sekselogi - sexology  
 sekunde - second(s)  
 sekura - protect (secure, save)  
 sekuri - safe (secure, protected)  
@@ -3247,6 +3240,9 @@ shakal - jackal
 shake - branch (bough)  
 shal - scarf (shawl)  
 shalke - scale (flake)  
+sham - evening  
+sham den - afternoon  
+sham yam - dinner  
 shaman - shaman  
 shampan - Champagne  
 shampan vin - champagne  
@@ -3374,22 +3370,19 @@ siro motu - sneak
 sirplan - conspiracy (plot)  
 sisfas - hexahedron (cube)  
 sisgon - hexagon  
-sisma - shake (swing)  
-sisme - shake (jolt, earthquake)  
-sismi - seismic (vibrational)  
-sismolojia - seismology  
+sismo - shake (jolt, earthquake)  
+sismologi - seismology  
 sistem - system  
-sistemi - systemic  
-site - city (town)  
+sistem li - systemic  
 sivili - civilized (civil)  
 sivilia - civilization  
 siyahi - black  
-slavi - Slavic  
+Slave - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 sofa* - sofa (couch)  
 sofi - wise  
-sofia - wisdom  
+sofita - wisdom  
 soi - soy bean  
 soimilke - soy milk  
 soisaus - soy sauce  
@@ -3414,6 +3407,7 @@ song - pine tree
 sor - lock (fastener)  
 sora - lock (fasten)  
 sori - locked (secure)  
+sos - sauce  
 sosa - socialize (interact)  
 sosi - social  
 sosi jinse - social gender  
@@ -3436,9 +3430,6 @@ suani - sour
 suanpurshipa - pickle (preserve in vinegar or brine)  
 suanpurshipi - pickled  
 suanpurshipi hiyar - gherkin (pickle)  
-suar - evening  
-suarden - afternoon  
-suaryam - dinner  
 Suati - Eswatini (Swaziland)  
 sube - morning (dawn)  
 suboden - forenoon  
@@ -3551,18 +3542,18 @@ tayi - Thai
 Tayia - Thailand  
 tazi - fresh  
 tehne - technique (technology)  
-tehnokratia - technocracy  
-tehnolojia - technology (study of techniques)  
+tehnekrati - technocracy  
+tehnelogi - technology (study of techniques)  
 teknium - technetium  
-tel - distance (far away)  
-telfon - telephone  
+tele - distance (far away)  
+telefon - telephone  
 telfona - call on the phone  
 telfonia - telephony  
 telfonlin - telephone line  
-teli - far (distant)  
-telia - distance (length)  
-teloloku - teleport  
-teloskope - telescope  
+tele - far (distant)  
+teleta - distance (length)  
+teleloku - teleport  
+teleskope - telescope  
 telugi - Telugu  
 telurium - tellurium  
 telvide - television  
@@ -3625,9 +3616,9 @@ Titania - Titania
 titanium - titanem  
 tocha - touch  
 Togo - Togo  
-tokse - poison (venom)  
+toksi - poison (venom)  
 toksi - toxic (poisonous, venomous)  
-toksolojia - toxicology  
+toksilogi - toxicology  
 Tokyo - Tokyo  
 tolera - tolerate  
 tomate - tomato  
@@ -3819,7 +3810,7 @@ virje - virgin
 virji - pristine (virginal)  
 Virjin nesia - Virgin Islands, US  
 virus - virus  
-viruslojia - virology  
+viruslogi - virology  
 vis - alternative (substitute, replacement)  
 visa - substitute (replace)  
 visi - vice (deputy)  
@@ -3881,7 +3872,6 @@ yaushinabli - loyal (faithful, trustworthy)
 yaushinablia - loyalty (faithfulness)  
 yavan - necessary (needed)  
 yavi - needy (lacking)  
-yavu - need (lack)  
 ye - yes  
 ye - this  
 yehudi - Jewish  
@@ -3972,6 +3962,9 @@ zuki - ethnic
 zukomedi - interethnic  
 Zulu - Zulu  
 zumurude - emerald  
+ - valid (workable)  
+ - knowledge  
+ - known  
  - burden (load, encumber)  
  - rainy  
  - rain (pour down)  

@@ -76,7 +76,7 @@ anaso - bata
 Andoj - Andes  
 angla - engli  
 angulo - gon  
-animo (psiko) - ruh  
+animo (psiko) - ruhu  
 animstato - emoshal  
 ankaŭ - masho  
 ankoraŭ - zoko  
@@ -115,7 +115,7 @@ astronaŭto - astronaver
 astronomo - astronomer  
 atako (agreso) - agres  
 ateisto - andeviste  
-atendi - denga  
+atendi - deng  
 Ateno - Atina  
 atomo - atom  
 aveno - aven  
@@ -190,14 +190,14 @@ berkelio - berkelium
 Berlino - Berlin  
 besto - zou  
 betono - beton  
-bezoni - yavu  
+bezono - yau  
 biblia - bibli  
 Biblio - biblia  
 biciklisto - sikliste  
 biero - bir  
 bildo (desegnaĵo) - graf  
 bildrakonto - grafsage  
-biologio - biyolojia  
+biologio - biologi  
 birdo - pakse  
 Birmo - Myanma  
 biskvito (kuketo) - biskute  
@@ -263,7 +263,7 @@ Cereso - cheres
 cerio - cerium  
 cezio - cesium  
 citi - chita  
-citologio - chelolojia  
+citologio - cellogi  
 citrono - limon  
 ####D - D  
 damaĝa - avarani  
@@ -294,9 +294,9 @@ delfeno - dolfin
 demandanta - sualan  
 demandi - suala  
 demando - sual  
-demografio - demografia  
-demokratia - demokrati  
-demokratio - demokratia  
+demografio - demo grafi  
+demokratia - demo krati li  
+demokratio - demo krati  
 demono - demon  
 denove (ripete) - reyo  
 dentbroso - dantobrosh  
@@ -397,7 +397,7 @@ ero - parche
 escepte - mina  
 Esperanto - esperanti  
 esperi - inshala  
-esti - sa  
+esti - e  
 esti pri; pridiskuti - tema  
 Estonio - Estia  
 estonoteco - posozam  
@@ -477,8 +477,8 @@ flago - bandir
 flanka (latera) - lati  
 flanko (latero) - late  
 flava - limonrangi  
-floro - ful  
-florpoto - fulpote  
+floro - hua  
+florpoto - hua pote  
 flughaveno - airporte  
 flugi - feyu  
 flugo - fei  
@@ -496,10 +496,10 @@ forumo - forum
 fosforo - pospor  
 fosi - kava  
 foso - kave  
-fotilo - fotografmashin  
-fotisto - fotografer  
-foto - fotograf  
-fotografio - fotografia  
+fotilo - foto grafe gi  
+fotisto - foto grafer  
+foto - foto grafe  
+fotografio - foto grafia  
 franca krepo - France krepe  
 Francio - France  
 franciumo - francium  
@@ -514,7 +514,7 @@ frosto - himros
 frukto - frute  
 fumo - duman  
 fungo - funge  
-funkcii - funchu  
+funkcii - funci  
 furo - furete  
 furzo - pede  
 fusilo - pau  
@@ -555,8 +555,8 @@ gluteno - gluten
 gluti - gula  
 golo - gol  
 grafika (bilda) - grafi  
-gramatika - bashokanuni  
-gramatiko - bashokanun  
+gramatika - basha kanun li  
+gramatiko - basha kanun  
 gramo - gram  
 granda - dayi  
 grasa - feti  
@@ -579,7 +579,7 @@ gvidi - gida
 ####H - H  
 hafnio - hafnium  
 Haitio - Aiti  
-halo - fotosirke  
+halo - foto sirke  
 halti - tingu  
 haltigi - tinga  
 halto - ting  
@@ -935,7 +935,7 @@ ligi - benda
 ligno - mokomate  
 liki - lova  
 lineo (ŝnuro) - lin  
-lingvistiko - basholojia  
+lingvistiko - bashalogi  
 lingvo - basha  
 linko - linche  
 lipo - labe  
@@ -959,7 +959,7 @@ ludi - gema
 ludi rolon - rola  
 ludo - gem  
 luma - foti  
-lumo - fote  
+lumo - foto  
 luno - lune  
 luno - un me den  
 lupo - volfe  
@@ -998,9 +998,9 @@ malpaco - anpache
 malplej - minim (minimo)  
 malplena - kali  
 malpli - min (mino)  
-malproksima - teli  
-malproksimeco - tel  
-malproksimeco - telia  
+malproksima - tele  
+malproksimeco - tele  
+malproksimeco - teleta  
 malrapida - lenti  
 malsana - pati  
 malsato - yamyau  
@@ -1067,7 +1067,7 @@ mia - mi di
 mielo - medu  
 migrado - migre  
 mikro- - mikro*  
-mikrobiologio - mikrobiyolojia  
+mikrobiologio - mikrobiologi  
 mikrobo - mikrobiu  
 mikroskopo - mikroskope  
 miksi - misha  
@@ -1198,7 +1198,7 @@ okulumi - oka
 okupata - mangi  
 ol (kiel) - ka  
 olivo - zaitun  
-ombro - saye  
+ombro - saya  
 ondo - onde  
 oni - men  
 opinii - raya  
@@ -1260,7 +1260,7 @@ pasinteco - chenzam
 pasporto - pasporte  
 pastro - dinguru*  
 pato - tave  
-patologio - patolojia  
+patologio - patilogi  
 patrino - ma  
 patro - pa  
 paĝo - varkolate  
@@ -1323,14 +1323,14 @@ polvo - fun
 pomo - aple  
 ponardo - kanjar  
 ponto - pul  
-popolo - deme  
+popolo - demo  
 porcio (dozo) - doze  
 pordo - mun  
 porkaĵo - goro manse  
 porko - goro  
 Portoriko - Portorikia  
 posteno - asan  
-posttagmeze - suarden  
+posttagmeze - sham den  
 povanta - ablani  
 povi - abla  
 povo - able  
@@ -1347,7 +1347,7 @@ prezidento - prezidente
 preĝejo - eglis  
 preĝi - duva  
 preĝo - duve  
-printempo - fulmosim  
+printempo - hua mosim  
 pripensi (rigardi ia) - hema  
 problemo - problem  
 produkti (fabriki) - chana  
@@ -1363,7 +1363,7 @@ pronomo - visloge
 propra (partiklo de posedo) - di  
 protaktinio - protacinium  
 pruno - plum  
-psikologio - ruhlojia  
+psikologio - ruhulogi  
 pulmo - pulmon  
 pulvo - barude  
 punkto - binde  
@@ -1470,13 +1470,13 @@ sanigi (kuraci) - medika
 sankta - santi  
 sapo - sabun  
 saĝa - sofi  
-saĝeco - sofia  
-saŭco - saus  
-saŭno - saune  
-scienco - lojia  
-scii (koni) - sava  
-scio - save  
-sciteorio (epistemologio) - savolojia  
+saĝeco - sofita  
+saŭco - sos  
+saŭno - sauna  
+scienco - logi  
+scii (koni) - sabi  
+scio -   
+sciteorio (epistemologio) - sabilogi  
 sciuro - ekore  
 scivolema - savovolani  
 se - aga  
@@ -1516,7 +1516,7 @@ simetrio - sammetria
 simpla - simpli  
 Singapuro - Singapur  
 siropo - shirope  
-sismologio - sismolojia  
+sismologio - sismologi  
 sistemo - sistem  
 sitelo - balde  
 situacio (aferstato) - sheihal  
@@ -1554,7 +1554,7 @@ stango - baton
 stato - hal  
 statuo (skultaĵo) - eskulte  
 stelo - sing  
-stranga - bizari  
+stranga - bizar  
 stroncio - estrontium  
 studento (lernanto) - shuler  
 studento - estuder  
@@ -1586,7 +1586,7 @@ tablo - meze
 tablotuko - mezotesh  
 tabulludo - bangem  
 tabulo - ban  
-tagmanĝo - denyam  
+tagmanĝo - den yam  
 tago (periodo de 24 horoj) - yom  
 tago - den  
 tajgo - taige  
@@ -1606,11 +1606,11 @@ taŭgi - hapu
 taŭgigi - hapa  
 teknecio - teknium  
 tekniko - tehne  
-teknologio - tehnolojia  
+teknologio - tehnelogi  
 tekto - chate  
 telefoni - telfona  
-telefono - telfon  
-teleskopo - teloskope  
+telefono - telefon  
+teleskopo - teleskope  
 televidilo - telvide  
 teluro - telurium  
 temo - tem  
@@ -1659,7 +1659,7 @@ torfo - turfe
 torio - torium  
 torso - torse  
 torto - pai  
-torĉo - fotobaton  
+torĉo - foto baton  
 traduki - tarja  
 tradukisto - tarjer  
 traduko - tarje  
@@ -1697,8 +1697,8 @@ uranio - uranium
 urba - nagri  
 urbego - daisite  
 urbeto - lilsite  
+urbo - citi  
 urbo - nagre  
-urbo - site  
 urso - urse  
 utila - faidi  
 utileco - faidia  
@@ -1712,7 +1712,7 @@ vando - mur
 vaporo - suigas  
 varma - garmi  
 vato - vate  
-vazo - fuljar  
+vazo - hua jara  
 vendredo - penta me den  
 veni - laya  
 venko - sheng  
@@ -1727,8 +1727,8 @@ verda - lugi
 vermuto - vermute  
 versio (toisinto) - version  
 veruko - zeyil  
-vespermanĝo - suaryam  
-vespero - suar  
+vespermanĝo - sham yam  
+vespero - sham  
 vesti (surporti) - fuku  
 vestigi - fuka  
 vesto - fuke  
@@ -1809,7 +1809,7 @@ zuluo - Zulu
 ĉeestanteco (ekzisto) - zayia  
 ĉefgeneralo - gunrajer  
 ĉefministro - shefe minister  
-ĉelo - chel  
+ĉelo - cel  
 ĉemizo - kamis  
 ĉenero - sil  
 ĉeno - silsil  

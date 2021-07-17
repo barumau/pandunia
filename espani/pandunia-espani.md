@@ -27,7 +27,7 @@ agresivi - agresivo
 agri - agrícola  
 agristan - campo  
 agristani - rural (rústico)  
-agrobiyolojia - agrobiología  
+agrobiologi - agrobiología  
 agronomia - agronomía  
 aha - entender (comprender)  
 ai - ay!  
@@ -280,10 +280,10 @@ barude - pólvora
 basen - piscina (alberca, lavadero)  
 basha - hablar (comunicarse)  
 basha - lengua (idioma)  
+basha kanun - gramática  
+basha kanun li - gramatical  
+bashalogi - lingüística  
 bashi jinse - género gramatical  
-bashokanun - gramática  
-bashokanuni - gramatical  
-basholojia - lingüística  
 basi - bastante  
 baske - cesta (canasta, barquilla, aro)  
 baske bol - baloncesto (básquetbol)  
@@ -346,6 +346,8 @@ bina - construir (edificar)
 binde - punto (lunar)  
 binplaner - arquitecto  
 binplania - arquitectura  
+biologi - biología  
+bio tokse - toxina  
 bir - cerveza (birra)  
 birkan - bar (pub)  
 bis - no binario (género)  
@@ -356,11 +358,9 @@ biye - vida orgánica
 biyi - orgánico  
 biyi jinse - sexo  
 biyochaniver - abono orgánico (compost)  
-biyolojia - biología  
 biyomutu - fermentar  
 biyosistem - bioma  
-biyotokse - toxina  
-bizari - raro (extraño)  
+bizar - raro (extraño)  
 biznes - negocios (comercio)  
 bizneser - empresario  
 blabla - charlar (parlotear, chatear)  
@@ -437,6 +437,9 @@ buste - pecho (busto)
 bute - bota  
 buton - tecla (botón)  
 butonban - teclado  
+cel - célula  
+cellogi - citología  
+celsius darje - grado Celsius  
 centi - centi- (por ciento)  
 centimitre - centímetro  
 cerium - cerio  
@@ -473,9 +476,6 @@ chau - césped (hierba)
 chavistan - pradera (pastizal)  
 chehia - República Checa  
 cheka - revisar (chequear)  
-chel - célula  
-chelolojia - citología  
-chelsius darje - grado Celsius  
 chena - preceder (anteceder)  
 chenaga - presuponer  
 chendeno - ayer  
@@ -528,6 +528,7 @@ chuza - elegir (escoger, seleccionar)
 chuzable - opción  
 chuze - elección  
 chvana - Botsuana  
+citi - ciudad  
 ####D - D  
 da - de (posposición de posesión)  
 daidom - palacio (mansión)  
@@ -593,16 +594,16 @@ deftobuke - diario
 deke - moralidad (ética)  
 deki - moral (ético)  
 dekolojia - ética (filosofía moral)  
-deme - pueblo (población)  
-demi - público  
-demografia - demografía  
-demokrati - democrático  
-demokratia - democracia  
+demo - pueblo (población)  
+demo grafi - demografía  
+demo krati - democracia  
+demo krati li - democrático  
+demo li - público  
 demokratiste - demócrata  
 demon - demonio  
 den - día  
-denga - esperar  
-denyam - almuerzo  
+den yam - almuerzo  
+deng - esperar  
 des - diez (10)  
 des du me mes - deciembre  
 des me lun - octubre  
@@ -723,6 +724,7 @@ duva - rezar (orar)
 duve - rezo (oración)  
 ####E - E  
 e - y  
+e - ser (estar)  
 eglis - iglesia  
 eh - cómo? (eh?)  
 eki - ambiental (ecológico, natural)  
@@ -928,17 +930,17 @@ forme - forma (figura)
 forti - fuerte  
 fortia - fuerza  
 forum - foro (espacio público)  
-fote - luz (iluminación)  
 foti - claro (luminoso)  
-fotobaton - antorcha  
-fotofrika - pulir (lustrar)  
-fotograf - foto (fotografía)  
-fotografer - fotógrafo  
-fotografia - fotografía  
-fotografmashin - cámara  
-fotominar - faro (baliza, almenara)  
-fotorade - rayo luminoso  
-fotosirke - halo (aureola)  
+foto - luz (iluminación)  
+foto baton - antorcha  
+foto frika - pulir (lustrar)  
+foto grafe - foto (fotografía)  
+foto grafe gi - cámara  
+foto grafer - fotógrafo  
+foto grafia - fotografía  
+foto minar - faro (baliza, almenara)  
+foto rade - rayo luminoso  
+foto sirke - halo (aureola)  
 France - Francia  
 France Guyana - Guyana Francesa  
 France krepe - crepa (crep, tortilla de trigo)  
@@ -953,14 +955,9 @@ fuka - vestir
 fuke - ropa (vestimenta)  
 fuki - vestido (llevando ropa)  
 fuku - llevar (verstirse)  
-ful - flor  
-fuljar - florero  
-fulmosim - primavera  
-fulpote - maceta (plantera)  
-fulu - florecer  
 fun - polvo  
-funchu - funcionar  
-funchuper - aspiradora  
+fun chupa gi - aspiradora  
+funci - funcionar  
 funge - hongo (moho)  
 funge frute - champiñón (seta)  
 funge nete - micelio  
@@ -1259,6 +1256,10 @@ horlogerminar - torre del reloj
 hormon - hormona  
 Horvatia - Croacia  
 hotel - hotel (albergue)  
+hua - flor  
+hua jara - florero  
+hua mosim - primavera  
+hua pote - maceta (plantera)  
 hui - ceniza  
 huidarte - podsol  
 huirangi - gris  
@@ -1877,7 +1878,7 @@ logiki - logical
 logivi - hablador (locuaz)  
 logoliste - disionario (lexicón)  
 loja - estudiar (investigar)  
-lojia - ciencia (estudia, investigación)  
+logi - ciencia (estudia, investigación)  
 loka - colocar (poner, ubicar)  
 loke - lugar  
 loki - local  
@@ -2081,7 +2082,7 @@ migre - migración
 migru - migrarse (mudarse, trasladarse)  
 mikro* - micro-  
 mikrobiu - microbio  
-mikrobiyolojia - microbiología  
+mikrobiologi - microbiología  
 Mikronesia - Micronesia  
 mikroskope - microscopio  
 mili* - mili-  
@@ -2479,10 +2480,10 @@ paste - pasta
 pastopetre - magma  
 patate - papa  
 pati - enfermo  
-patia - enfermedad  
+pati - enfermedad  
 patike - paciente  
 patojener - patógeno  
-patolojia - patología  
+patilogi - patología  
 patomis - infección (contagio)  
 patomisa - infectar (contagiar)  
 pau - pistola (rifle)  
@@ -2796,9 +2797,9 @@ roze - rosa
 rozorangi - rosa  
 rozosalmon - salmón rosado  
 rubidium - rubidio  
-ruh - psique  
+ruhu - psique  
 ruhi - mental (psíquico)  
-ruhlojia - psicología  
+ruhulogi - psicología  
 ruhmisha - confundir (desconcertar, perplejo)  
 ruhmishi - confundido  
 ruke - espalda (lomo)  
@@ -2818,10 +2819,11 @@ rutin - rutina (hábito)
 rutogalta - apartarse (desviarse)  
 Rvanda - Ruanda  
 ####S - S  
-sa - ser (estar)  
 saba - causar  
 sabate - sabbat  
 sabe - razón (causa)  
+sabi - saber (conocer)  
+sabilogi - epistemología  
 sabo da - porque  
 sabun - jabón  
 sadi - sencillo (liso)  
@@ -2903,26 +2905,18 @@ sati - momentáneo
 satodona - dedicar  
 Saturne - Saturno  
 Saudi Arabia - Arabia Saudita  
-saune - sauna  
-saus - salsa  
-sava - saber (conocer)  
-save - sabiduría (conocimiento)  
-savi - conocido  
-savolojia - epistemología  
+sauna - sauna  
 savovol - interés  
 savovolani - inquisitivo (curioso)  
-savovoli - interesado (curioso)  
 savovoliti - interesante (curioso)  
 savovolu - preguntarse  
-saya - sombrear  
-saye - sombra  
+saya - sombra  
 se - se  
 sekreter - secretario  
 sekreteria - secretaría  
-seksa - tener sexo  
 sekse - sexo  
-seksi - sexy (sexual)  
-seksolojia - sexología  
+sekse li - sexy (sexual)  
+sekselogi - sexología  
 sekunde - segundo  
 sekura - proteger (asegurar, guardar)  
 sekuri - seguro  
@@ -2964,6 +2958,9 @@ shakal - chacal
 shake - rama  
 shal - bufanda (chal)  
 shalke - escama  
+sham - noche (tarde)  
+sham den - tarde (después de mediodía)  
+sham yam - cena  
 shaman - chamán (brujo, hechicero)  
 shampan - Champaña  
 shampan vin - champagne  
@@ -3084,20 +3081,18 @@ siro motu - colarse
 sirplan - complot (conspiración)  
 sisfas - hexaedro (cubo)  
 sisgon - hexágono  
-sisma - agitar (sacudir)  
-sismolojia - sismología  
+sismologi - sismología  
 sistem - sistema  
-sistemi - sistémico  
-site - ciudad  
+sistem li - sistémico  
 sivili - civilizado  
 sivilia - civilización  
 siyahi - negro  
-slavi - eslavo  
+Slave - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  
 sofa* - sofá  
 sofi - sabio  
-sofia - sabiduría  
+sofita - sabiduría  
 soi - soja  
 soimilke - leche de soja  
 soisaus - salsa de soja  
@@ -3120,6 +3115,7 @@ son - sonido (audio)
 sona - sonar  
 song - pino  
 sor - cerradura (candado)  
+sos - salsa  
 sosa - alternar (interactuar)  
 sosi - social  
 sosi jinse - género social  
@@ -3141,9 +3137,6 @@ suani - agrio (ácido)
 suanpurshipa - encurtir  
 suanpurshipi - encurtido  
 suanpurshipi hiyar - pepinillo  
-suar - noche (tarde)  
-suarden - tarde (después de mediodía)  
-suaryam - cena  
 Suati - Esuatini (Suazilandia)  
 sube - mañana  
 suboden - mañana (antes mediodía)  
@@ -3251,17 +3244,17 @@ tayi - tailandés
 Tayia - Tailandia  
 tazi - fresco  
 tehne - técnica  
-tehnokratia - tecnocracia  
-tehnolojia - tecnología  
+tehnekrati - tecnocracia  
+tehnelogi - tecnología  
 teknium - tecnetio  
-tel - lo lejos  
-telfon - telefono  
+tele - lo lejos  
+telefon - telefono  
 telfona - telefonear  
 telfonia - telefonía  
-teli - lejano (lejos)  
-telia - distancia  
-teloloku - teletransportarse  
-teloskope - telescopio  
+tele - lejano (lejos)  
+teleta - distancia  
+teleloku - teletransportarse  
+teleskope - telescopio  
 telugi - télugu  
 telurium - telurio  
 telvide - televisión  
@@ -3319,9 +3312,9 @@ tisa me mes - septiembre
 titanium - titanio  
 tocha - tocar (rozar)  
 Togo - Togo  
-tokse - veneno (toxina)  
+toksi - veneno (toxina)  
 toksi - tóxico  
-toksolojia - toxicología  
+toksilogi - toxicología  
 tolera - tolerar  
 tomate - tomate  
 ton - tono  
@@ -3495,7 +3488,7 @@ virje - virgen
 virji - virginal  
 Virjin nesia - Islas Vírgenes  
 virus - virus  
-viruslojia - virología  
+viruslogi - virología  
 vis - alternativa (sustituto)  
 visa - sustituir (reemplezar)  
 visi - vice-  
@@ -3551,7 +3544,6 @@ yaushinabli - leal (fiel)
 yaushinablia - lealtad (fidelidad)  
 yavan - necesario  
 yavi - necesitado  
-yavu - necesitar  
 ye - sí  
 yehudi - judío  
 yehudistia - judaísmo  
@@ -3628,6 +3620,8 @@ zuki - étnico
 zukomedi - interétnica  
 Zulu - zulú  
 zumurude - esmeralda  
+ - sabiduría (conocimiento)  
+ - conocido  
  - cargar  
  - lluvioso (pluvioso)  
  - llover  

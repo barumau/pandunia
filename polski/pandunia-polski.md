@@ -267,10 +267,10 @@ barude - proch strzelniczy
 basen - basen  
 basha - mówić; komunikować  
 basha - język; komunikacja  
+basha kanun - gramatyka  
+basha kanun li - gramatyczny  
+bashalogi - językoznastwo  
 bashi jinse - rodzaj gramatyczny  
-bashokanun - gramatyka  
-bashokanuni - gramatyczny  
-basholojia - językoznastwo  
 basi - wystarczający  
 baske - kosz  
 baske bol - piłka do koszykówki (koszykówka)  
@@ -335,6 +335,8 @@ bina - zbudować, budować, konstruować
 binde - punkt  
 binplaner - architekt  
 binplania - architektura  
+biologi - biologia (nauka o życiu)  
+bio tokse - toksyna  
 bir - piwo  
 birkan - bar, knajpa  
 bis - genderqueer, niebinarny  
@@ -345,12 +347,10 @@ biye - życie organiczne
 biyi - organiczny  
 biyi jinse - płeć biologiczna  
 biyochaniver - kompost  
-biyolojia - biologia (nauka o życiu)  
 biyomuti - sfermentowany  
 biyomutu - fermentować  
 biyosistem - biom  
-biyotokse - toksyna  
-bizari - dziwny  
+bizar - dziwny  
 biznes - biznes, interes (aktywność komercyjna)  
 bizneser - osoba biznesu, biznesman  
 blabla - luźna rozmowa, gadanina  
@@ -422,6 +422,9 @@ buste - biust
 bute - but  
 buton - klawisz, przycisk, przełącznik, guzik  
 butonban - klawiatura  
+cel - komórka (biologia)  
+cellogi - cytologia  
+celsius darje - stopień Celsjusza  
 centaure - chaber  
 centi - centy-, procent, na sto, setna część  
 centimitre - centymetr  
@@ -462,9 +465,6 @@ chau - trawa
 chavistan - łąka  
 chehia - Republika Czeska, Czechy  
 cheka - sprawdzić, sprawdzać, skontrolować  
-chel - komórka (biologia)  
-chelolojia - cytologia  
-chelsius darje - stopień Celsjusza  
 chena - poprzedzić, poprzedzać  
 chenaga - zakładać (założyć)  
 chendeno - wczoraj  
@@ -521,6 +521,7 @@ chuza - wybrać, wybierać, selekcjonować
 chuzable - opcja (wybór)  
 chuze - wybór, elekcja, selekcja  
 chvana - Botswana  
+citi - miast, miasteczko  
 ####D - D  
 da - z (partykuła posiadania)  
 daidarja - wzmacniać (wzmocnić)  
@@ -587,17 +588,17 @@ deftobuke - dziennik pokładowy (notatnik)
 deke - moralność, etyka  
 deki - moralny  
 dekolojia - etyka  
-deme - lud, społeczeństwo  
-demi - publiczny  
-demografia - demografia  
-demokrati - demokratyczny  
-demokratia - demokracja  
+demo - lud, społeczeństwo  
+demo grafi - demografia  
+demo krati - demokracja  
+demo krati li - demokratyczny  
+demo li - publiczny  
 demokratiste - demokrata  
 demomultia - populacja  
 demon - demon  
 den - dzień  
-denga - czekać  
-denyam - obiad, lunch  
+den yam - obiad, lunch  
+deng - czekać  
 des - dziesięć (10)  
 des du me mes - kwiecień  
 des me lun - luty  
@@ -716,6 +717,7 @@ duva - pomodlić się, modlić się
 duve - modlitwa  
 ####E - E  
 e - i, oraz  
+e - być  
 eglis - kościół  
 eh - hę?, co?, pardon?  
 eki - środowiskowy, naturalny  
@@ -910,17 +912,17 @@ forta - wzmocnić (wzmocnić, wzmóc)
 forti - silny  
 fortia - siła  
 forum - forum  
-fote - światło, oświetlenie  
 foti - jasny, świetlny  
-fotobaton - pochochodnia (latarka)  
-fotofrika - polerować (szlifować)  
-fotograf - zdjęcie (fotografia)  
-fotografer - fotograf  
-fotografia - fotografia  
-fotografmashin - kamera, aparat fotograficzny  
-fotominar - latarnia morska  
-fotorade - promień światła  
-fotosirke - efekt halo  
+foto - światło, oświetlenie  
+foto baton - pochochodnia (latarka)  
+foto frika - polerować (szlifować)  
+foto grafe - zdjęcie (fotografia)  
+foto grafe gi - kamera, aparat fotograficzny  
+foto grafer - fotograf  
+foto grafia - fotografia  
+foto minar - latarnia morska  
+foto rade - promień światła  
+foto sirke - efekt halo  
 France - Francja  
 France Guyana - Gujana Francuska  
 France krepe - francuski naleśnik (crêpe)  
@@ -933,13 +935,9 @@ fuga - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odno
 fui - fu, fuj  
 fuke - ubranie, ubiór, strój  
 fuku - nosić ubrania  
-ful - kwiat  
-fulmosim - wiosna  
-fulu - kwitnąć, rozkwitnąć, rozkwitać  
 fun - pył  
-funchabli - poprawny (wykonalny)  
-funchu - funkcja, stanowisko  
-funchuper - odkurzacz  
+fun chupa gi - odkurzacz  
+funci - funkcja, stanowisko  
 funge - grzyb  
 funge frute - sporokarp  
 funge nete - grzybnia  
@@ -1225,6 +1223,8 @@ horlogerminar - wieża zegarowa
 hormon - hormon  
 Horvatia - Chorwacja  
 hotel - hotel  
+hua - kwiat  
+hua mosim - wiosna  
 hui - popiół  
 huidarte - gleba bielicoziemna  
 huirangi - szary  
@@ -1846,7 +1846,7 @@ logivi - rozmowny
 logofiler - logofil (miłośnik słów)  
 logoliste - lista słów  
 loja - badać, studiować  
-lojia - nauka, badanie, studiowanie  
+logi - nauka, badanie, studiowanie  
 loka - umieścić (postawić)  
 loke - miejsce, lokacja  
 loki - miejscowy, lokalny  
@@ -2050,7 +2050,7 @@ migre - migracja
 migru - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 mikro* - mikro-  
 mikrobiu - mikroorganizm  (mikrob)  
-mikrobiyolojia - mikrobiologia  
+mikrobiologi - mikrobiologia  
 Mikronesia - Mikronezja  
 mikroskope - mikroskop  
 mili* - mili-  
@@ -2446,10 +2446,10 @@ paste - pasta
 pastopetre - magma  
 patate - ziemniak  
 pati - chory  
-patia - choroba  
+pati - choroba  
 patike - pacjent  
 patojener - patogen  
-patolojia - patologia  
+patilogi - patologia  
 patomis - infekcja (zakażenie)  
 pau - pistolet, strzelba, ręczna broń palna  
 paunde - funt (£)  
@@ -2750,9 +2750,9 @@ roze - róża
 rozorangi - różowy, różany  
 rozosalmon - gorbusza  
 rubidium - rubid  
-ruh - dusza, duch, umysł  
+ruhu - dusza, duch, umysł  
 ruhi - umysłowy (psychiczny)  
-ruhlojia - psychologia  
+ruhulogi - psychologia  
 ruhmisha - mylić (gmatwać, zmieszać, konsternować)  
 ruhmishi - smieszany (skonfudowany)  
 ruke - placy  
@@ -2774,10 +2774,11 @@ rutogalta - zbłąkać się (wykoleić się)
 rutogalti - zbłąkany (dewiacyjny, wykolejony)  
 Rvanda - Rwanda  
 ####S - S  
-sa - być  
 saba - spowodować, powodować  
 sabate - szabat, szabas  
 sabe - powód, przyczyna  
+sabi - wiedzieć  
+sabilogi - epistemologia  
 sabo da - ponieważ, bo  
 sabun - mydło  
 sadi - zwykły, zwyczajny, prosty  
@@ -2860,23 +2861,17 @@ satodona - dedykować (poświęcać, poświęcić)
 satodonia - dedykacja (poświęcenie)  
 Saturne - Saturn  
 Saudi Arabia - Arabia Saudyjska  
-saune - sauna  
-saus - sos  
-sava - wiedzieć  
-save - wiedza  
-savi - wiadomy, znany  
-savolojia - epistemologia  
+sauna - sauna  
 savovol - zainteresowanie, zaciekawienie; interesujący  
 savovolani - ciekawy  
 savovoliti - interesujący  
-saye - cień  
+saya - cień  
 se - sam, siebie  
 sekreter - sekretarz  
 sekreteria - sekretariat  
-seksa - kochać się, uprawiać seks  
 sekse - seks, stosunek płciowy  
-seksi - seksowny, ponętny  
-seksolojia - seksuologia  
+sekse li - seksowny, ponętny  
+sekselogi - seksuologia  
 sekunde - sekunda  
 sekura - chronić (ratować)  
 sekuri - bezpieczny  
@@ -2916,6 +2911,9 @@ shakal - szakal
 shake - gałąź, konar  
 shal - szal, szalik  
 shalke - szala   
+sham - wieczór  
+sham den - popołudnie  
+sham yam - kolacja  
 shaman - szaman  
 shampan - Champagne  
 shampan vin - samppanja  
@@ -3038,22 +3036,19 @@ siro motu - skradać się
 sirplan - spisek (konspiracja)  
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
-sisma - trząść (machać)  
-sisme - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
-sismi - sejsmiczny (wibracyjny)  
-sismolojia - sejsmologia  
+sismo - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
+sismologi - sejsmologia  
 sistem - system  
-sistemi - systemowy  
-site - miast, miasteczko  
+sistem li - systemowy  
 sivili - cywilizowany (ucywilizowany)  
 sivilia - cywilizacja  
 siyahi - czarny  
-slavi - słowiański  
+Slave - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
 sofa* - sofa (kanapa)  
 sofi - mądry  
-sofia - mądrość  
+sofita - mądrość  
 soimilke - mleko sojowe  
 soisaus - sos sojowy  
 soka - szukać  
@@ -3076,6 +3071,7 @@ song - sosna
 sor - zamek (zapięcie)  
 sora - zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)  
 sori - zamknięty (zakluczony, zapięty, bezpieczny)  
+sos - sos  
 sosa - socjalizować się  
 sosi - społeczny  
 sosi jinse - płeć społeczna  
@@ -3097,9 +3093,6 @@ suanpurshipa - kisić (marynować)
 suanpurshipe - marynować  
 suanpurshipi - kiszony (marynowany)  
 suanpurshipi hiyar - korniszon  
-suar - wieczór  
-suarden - popołudnie  
-suaryam - kolacja  
 Suati - Suazi  
 sube - ranek, rano, poranek  
 suboden - przedpołudnie  
@@ -3205,15 +3198,15 @@ tayi - tajski
 Tayia - Tajlandia  
 tazi - świeży  
 tehne - technika, technologia  
-tehnokratia - technokracja  
-tehnolojia - technologia, nauka o technikach  
+tehnekrati - technokracja  
+tehnelogi - technologia, nauka o technikach  
 teknium - technet  
-tel - dystans  
-telfon - telefon  
-teli - daleki, odległy  
-telia - dystans  
-teloloku - teleportować się  
-teloskope - teleskop  
+tele - dystans  
+telefon - telefon  
+tele - daleki, odległy  
+teleta - dystans  
+teleloku - teleportować się  
+teleskope - teleskop  
 telugi - telugu  
 telurium - tellur  
 telvide - telewizja  
@@ -3270,7 +3263,7 @@ tisa me mes - grudzień
 titanium - tytan  
 tocha - dotyczyć  
 Togo - Togo  
-tokse - trucizna (toksyna)  
+toksi - trucizna (toksyna)  
 toksi - toksyczny (trujący)  
 Tokyo - Tokio  
 tolera - tolerować  
@@ -3440,7 +3433,7 @@ vir - bohater, heros
 viri - bohaterski, heroiczny, odważny, brawurowy  
 Virjin nesia - Wyspy Dziewicze USA  
 virus - wirus  
-viruslojia - wirusologia  
+viruslogi - wirusologia  
 vis - alternatywa (substytut, zastępstwo)  
 visa - zastąpić (podstawić, zamienić)  
 visi - wice-  
@@ -3494,7 +3487,6 @@ yaushina - ufać (wierzyć, liczyć, polegać)
 yaushinabli - lojalny (wierny)  
 yaushinablia - lojalność (wierność)  
 yavan - potrzebny  
-yavu - potrzebować  
 ye - tak  
 yehudi - żydowski  
 yehudistia - judaizm  
@@ -3572,6 +3564,9 @@ zuki - etniczny
 zukomedi - międzyetniczny  
 Zulu - zulu  
 zumurude - szmaragd  
+ - poprawny (wykonalny)  
+ - wiedza  
+ - wiadomy, znany  
  - naładować, załadować, obładować, ładować  
  - deszczowy  
  - padać (lać)  

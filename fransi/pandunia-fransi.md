@@ -27,7 +27,7 @@ agresa - attaquer (agresser)
 agreser - agresseur  
 agresivi - agressif  
 agri - agricole  
-agrobiyolojia - agrobiologie  
+agrobiologi - agrobiologie  
 agronomia - agronomie  
 aha - comprendre (réaliser)  
 ai - aïe!  
@@ -278,13 +278,13 @@ bilor - cristal
 bina - construire  
 binplaner - architecte  
 binplania - architecture  
+biologi - biologie  
+bio tokse - toxine  
 bir - bière  
 biye - organisme  
 biyochaniver - compost  
-biyolojia - biologie  
 biyomutu - fermenter  
 biyosistem - biome  
-biyotokse - toxine  
 bode - corps  
 bokse - boxe  
 bokser - boxeur  
@@ -309,6 +309,7 @@ buke - livre
 bum - explosion  
 bute - botte  
 buton - bouton  
+cellogi - cytologie  
 centaure - Centaurée  
 ch - C  
 chai - thé  
@@ -321,7 +322,6 @@ chantergrupe - chœur
 charme - charme  
 chatre - quatre (4)  
 chatre me den - jeudi  
-chelolojia - cytologie  
 chendeno - hier  
 cheniki - vieux (ancien)  
 cheno - avant  
@@ -338,6 +338,7 @@ choklatobaton - tablette de chocolat
 chope - houe  
 chun - village  
 chuzable - option  
+citi - ville  
 ####D - D  
 daidom - palais (château, manoir)  
 daihai - océan  
@@ -403,6 +404,7 @@ duskar - méfait (péché)
 dusvidi - laid (vilain)  
 ####E - E  
 e - et  
+e - être  
 ekojeni - sauvage  
 ekore - écureuil  
 eletre - électricité  
@@ -467,11 +469,11 @@ fobani - effrayant
 fobu - craindre (avoir peur)  
 fora - forer (percer)  
 forma - former  
-fote - lumière  
-fotofrika - poli  
-fotograf - photographie  
-fotografia - photographie  
-fotominar - fanal (balise)  
+foto - lumière  
+foto frika - poli  
+foto grafe - photographie  
+foto grafia - photographie  
+foto minar - fanal (balise)  
 France krepe - crêpe  
 francefone - francophone  
 Francefonia - francophonie  
@@ -480,8 +482,6 @@ frute - fruit
 fuka - habiller (vêtir)  
 fuke - vêtements  
 fuku - porter (s’habiller)  
-ful - fleur  
-fulpote - pot de fleur  
 funge frute - champignon  
 funge nete - mycélium  
 fute bol - football  
@@ -596,6 +596,8 @@ hoke - hockey
 hor - heure  
 horloger - horloge  
 hotel - hôtel  
+hua - fleur  
+hua pote - pot de fleur  
 huidarte - podzol  
 huke - crochet  
 hukokrus - svastika (croix gammée)  
@@ -908,7 +910,7 @@ mi - je (me)
 migre - migration  
 migru - s'installer (déménager)  
 mikrobiu - microbe  
-mikrobiyolojia - microbiologie  
+mikrobiologi - microbiologie  
 mikroskope - microscope  
 milke - lait  
 milkokardon - chardon Marie  
@@ -1038,7 +1040,7 @@ paste - pâte
 pastopetre - magma  
 patike - patient  
 patojener - agent pathogène  
-patolojia - pathologie  
+patilogi - pathologie  
 patomis - infection (contagion)  
 patomisa - infecter  
 pau - pistolet  
@@ -1159,11 +1161,11 @@ rotolefto - dans le sens antihoraire
 rototope - toupie  
 roze - rose  
 rozosalmon - saumon rose  
-ruh - psyché  
-ruhlojia - psychologie  
+ruhu - psyché  
+ruhulogi - psychologie  
 ruhmishi - perplexe (désorienté)  
 ####S - S  
-sa - être  
+sabi - savoir (connaître)  
 safariste - touriste  
 sahi - correct (juste)  
 saida - chasser  
@@ -1186,11 +1188,8 @@ sang - sang
 sar - tête  
 sati - momentané  
 Saturne - Saturne  
-saus - sauce  
-sava - savoir (connaître)  
-saya - ombrager  
 se - se  
-seksolojia - sexologie  
+sekselogi - sexologie  
 sekuri - sûr  
 sel - conseil  
 sela - conseiller  
@@ -1206,6 +1205,7 @@ ses - l'un l'autre
 sete - sept (7)  
 sete me den - dimanche  
 shalke - échelle  
+sham - soir (soirée)  
 shampan - Champagne  
 shampan vin - Champagner  
 shanpike - cime (pic, sommet)  
@@ -1260,10 +1260,9 @@ sira - cacher
 siri mote - célérité  
 sirkosheke - pavé  
 sirplan - complot (conspiration)  
-site - ville  
 siyahi - noir  
 sofa* - canapé (sofa)  
-sofia - sagesse  
+sofita - sagesse  
 soi - soja  
 soimilke - lait de soja  
 soisaus - sauce de soja  
@@ -1279,6 +1278,7 @@ sompapil - pavot somnifère
 somu - dormir  
 son - son  
 sor - serrure  
+sos - sauce  
 sosia - société  
 sosis - saucisse  
 speter - spectateur  
@@ -1286,7 +1286,6 @@ sual - question
 suala - demander (poser un question; est-ce que)  
 suanpurshipi - décapé (mariné)  
 suanpurshipi hiyar - concombre confit (cornichon)  
-suar - soir (soirée)  
 suede - sueur  
 sui - eau  
 Suice - Suisse  
@@ -1318,11 +1317,11 @@ tarje - traduction
 tate - bord (rive)  
 tazi - frais  
 tehne - technique  
-tehnolojia - technologie  
-telfon - téléphone  
+tehnelogi - technologie  
+telefon - téléphone  
 telfona - téléphoner  
 telfonlin - ligne téléphonique  
-teloskope - télescope (lunette)  
+teleskope - télescope (lunette)  
 telvide - téléviseur  
 tem - sujet (thème)  
 temnam - titre  
@@ -1341,7 +1340,7 @@ tira pil - écorce
 tirlonga - tender  
 tisa - neuf (9)  
 tocha - toucher  
-toksolojia - toxicologie  
+toksilogi - toxicologie  
 tomate - tomate  
 topograf - topographie  
 trata - traîner  
@@ -1428,7 +1427,6 @@ yau - besoin
 yaushina - fier  
 yavan - nécessaire  
 yavi - nécessiteux (dans le besoin)  
-yavu - avoir besoin de  
 ye - oui  
 Yesus - Jésus  
 yoke - joug  

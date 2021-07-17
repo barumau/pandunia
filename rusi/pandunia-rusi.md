@@ -14,7 +14,7 @@ agra - выращивать
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
 agri - аграрный  
-agrobiyolojia - агробиология  
+agrobiologi - агробиология  
 agronomia - агрономия  
 air - воздух  
 airbivi - аэробный  
@@ -155,15 +155,15 @@ bilor - кристалл
 bina - строить  
 binplaner - архитектор  
 binplania - архитектура  
+biologi - биология  
+bio tokse - токсин  
 bir - пиво  
 biye - организм  
 biyi - органический  
 biyi jinse - биологический пол  
 biyochaniver - компост  
-biyolojia - биология  
 biyomutu - заквасить  
 biyosistem - биом  
-biyotokse - токсин  
 biznes - предприятие (бизнес)  
 bode - тело  
 boi - поплавок (буй)  
@@ -192,6 +192,7 @@ bum - взрыв
 bumu - взрываться  
 bute - ботинок  
 buton - пуговица  
+cellogi - цитология  
 centaure - василёк  
 ch - C  
 chai - чай  
@@ -205,7 +206,6 @@ chantergrupe - хор
 charme - шарм  
 chatre - четыре (4)  
 chatre me den - четверг  
-chelolojia - цитология  
 chendeno - вчера  
 cheniki - старый (древний)  
 cheno - раньше  
@@ -286,6 +286,7 @@ dusjan - враг (противник)
 dusosinyi - зловещий  
 dusvidi - безобразный (некрасивый)  
 ####E - E  
+e - быть  
 ekojeni - дикий  
 ekore - белка  
 eletrolin - провод (кабель)  
@@ -350,10 +351,10 @@ foba - страшить
 fobu - бояться (страшиться)  
 fora - сверлить (бурить)  
 forma - формировать  
-fote - свет  
-fotofrika - полировать  
-fotografia - фотография  
-fotominar - маяк  
+foto - свет  
+foto frika - полировать  
+foto grafia - фотография  
+foto minar - маяк  
 frem - рама  
 frika - царапать  
 frute - плод (фрукт)  
@@ -361,9 +362,6 @@ fuka - одевать
 fuke - одежда  
 fuki - оде́тый  
 fuku - носить (одеваться)  
-ful - цветок  
-fulmosim - весна  
-fulpote - цвето́чный горшок  
 funge frute - гриб  
 fute bol - футбол  
 fute marke - след ноги  
@@ -466,6 +464,9 @@ hoke - хоккей
 hor - час  
 horloger - часы  
 hotel - гостиница (отель)  
+hua - цветок  
+hua mosim - весна  
+hua pote - цвето́чный горшок  
 huidarte - подзол  
 huke - крюк (гак)  
 hukokrus - свастика  
@@ -769,7 +770,7 @@ mi - я
 migre - миграция  
 migru - переезжать  
 mikrobiu - микроб  
-mikrobiyolojia - микробиология  
+mikrobiologi - микробиология  
 mikroskope - микроскоп  
 milke - молоко  
 milkokardon - расторопша пятнистая  
@@ -897,7 +898,7 @@ pasloge - пароль
 pasporte - паспорт  
 patike - пациент (больной)  
 patojener - патоген  
-patolojia - патология  
+patilogi - патология  
 patomis - инфекция (заразная болезнь)  
 pau - пистолет  
 pauze - пауза  
@@ -1006,13 +1007,13 @@ rotolefto - против часовой стрелки
 rototope - волчок  
 roze - роза  
 rozosalmon - горбуша  
-ruh - душа (дух)  
+ruhu - душа (дух)  
 ruhmisha - озадачить  
 ruhmishi - растерянный (озадаченный)  
 rukosake - рюкзак  
 rutogalta - отходить (скитаться)  
 ####S - S  
-sa - быть  
+sabi - знать  
 safran - шафран  
 sahi - правильный  
 saida - охотиться  
@@ -1034,16 +1035,12 @@ sar - голова
 sate - момент  
 sati - моментальный (минутный)  
 Saturne - Сатурн  
-saus - соус  
-sava - знать  
 savovol - интерес (любопытство)  
 savovolani - любознательный  
-savovoli - любопытный  
 savovoliti - интересный  
 savovolu - задуматься (думать, гадать)  
-saya - затенять  
 se - себя (-ся)  
-seksolojia - сексология  
+sekselogi - сексология  
 sel - совет  
 sela - советовать  
 selge - мангольд  
@@ -1061,6 +1058,7 @@ sesam - сезам
 sete - семь (7)  
 sete me den - воскресенье  
 shalke - чешуя  
+sham - вечер  
 shaman - шаман  
 shampan - Шампань  
 shampan vin - champanhe  
@@ -1118,9 +1116,9 @@ sira - скрывать
 sirkosheke - булыжник  
 sirplan - заговор (сговор)  
 siyahi - чёрный  
-slavi - славянский  
+Slave - славянский  
 sofa* - софа (диван, канапе)  
-sofia - мудрость  
+sofita - мудрость  
 soi - соя  
 soimilke - соевое молоко  
 soisaus - соевый соус  
@@ -1135,6 +1133,7 @@ somu - спать
 song - сосна  
 sor - замок  
 sori - запереть  
+sos - соус  
 sosi jinse - гендер  
 sosia - общество (социум)  
 sosis - колбаса (сосиска)  
@@ -1142,7 +1141,6 @@ sual - вопрос
 suala - спрашивать  
 sualdokum - анкета  
 suanpurshipi - марино́ванный  
-suar - вечер  
 sui - вода  
 Suice - Швейцария  
 suigas - пар  
@@ -1173,13 +1171,13 @@ tas - блюдо (таз)
 tatu* - татуировка (тату)  
 tazi - свежий  
 tehne - техника  
-tehnolojia - технология  
-telfon - телефон  
+tehnelogi - технология  
+telefon - телефон  
 telfona - звонить  
 telfonia - телефония  
 telfonlin - телефонная линия  
-teloloku - телепортировать  
-teloskope - телескоп  
+teleloku - телепортировать  
+teleskope - телескоп  
 telvide - телевизор  
 tem - тема  
 temnam - название (пьесы, заголовок)  
@@ -1204,7 +1202,7 @@ tirlonga - вытянуть
 tiroriu - отбойное течение  
 tisa - девять (9)  
 tocha - касаться  
-toksolojia - токсикология  
+toksilogi - токсикология  
 tomate - помидор (томат)  
 topograf - топография  
 trata - волочить  
@@ -1262,7 +1260,7 @@ vidou - вдова
 vinkan - винном заводе  
 virje - девственник  
 virus - вирус  
-viruslojia - вирусология  
+viruslogi - вирусология  
 vismai - мачеха  
 vispai - отчим  
 visrajer - вице-король  
@@ -1287,7 +1285,6 @@ yaushina - доверять (понадеяться)
 yaushinabli - верный  
 yaushinablia - верность  
 yavan - нужный  
-yavu - нуждаться  
 ye - да  
 Yemen - Йемен  
 Yesus - Иисус  

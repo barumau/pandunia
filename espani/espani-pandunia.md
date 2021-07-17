@@ -79,14 +79,13 @@ africano - Afriki
 afrontar - versu  
 agacharse - insida  
 agente - ater  
-agitar (sacudir) - sisma  
 agorafobia - medenfobia  
 agosto - bato me mes  
 agradecer - danka  
 agresivo - agresivi  
 agresor - agreser  
 agrio (ácido) - suani  
-agrobiología - agrobiyolojia  
+agrobiología - agrobiologi  
 agronomía - agronomia  
 agrícola - agri  
 agua - sui  
@@ -135,7 +134,7 @@ allí (allá) - ya ve
 almendra - badam  
 almirante - hayamirer  
 almohada - kushen  
-almuerzo - denyam  
+almuerzo - den yam  
 alojar (hospedar) - domana  
 alquilar (arrendar, dar en arriendo) - kirodona  
 alquilar (arrendar, tomar en arriendo) - kirogeta  
@@ -203,7 +202,7 @@ Antigua - Antigua
 Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlandi Antil  
 antimonio - estibium  
-antorcha - fotobaton  
+antorcha - foto baton  
 antónimo - annam  
 análisis (disección) - fenkate  
 análisis de datos - datofenkate  
@@ -279,7 +278,7 @@ asociar - liga
 asombrar - ajaba  
 asombro - ajabia  
 aspecto - rupe  
-aspiradora - funchuper  
+aspiradora - fun chupa gi  
 aspirina - aspirin  
 Assur (Ashur) - Ashur  
 astrobiologia - kosmobiyolojia  
@@ -408,7 +407,7 @@ bienestar - salamia
 bienvenido - salam lai  
 bilingüe - dulbashi  
 billete de ida y vuelta - retrotikete  
-biología - biyolojia  
+biología - biologi  
 bioma - biyosistem  
 birromántico - dulromansi  
 bisagra (gozne) - sharnir  
@@ -617,7 +616,7 @@ celeste (celestial) - teni
 celoso (envidioso) - jelosi  
 cementerio - gabristan  
 cemento - semente  
-cena - suaryam  
+cena - sham yam  
 ceniza - hui  
 centellear (titilar) - shingofota  
 centi- (por ciento) - centi  
@@ -673,7 +672,7 @@ cian - siani
 ciclista - sikliste  
 cielo - ten  
 cien (100) - shoti  
-ciencia (estudia, investigación) - lojia  
+ciencia (estudia, investigación) - logi  
 ciencia política - politolojia  
 cigarro - sigar  
 cima (pico, cumbre, vértice) - shanpike  
@@ -687,8 +686,8 @@ circonio - zirkonium
 circón - zirkon  
 ciruela - plum  
 citar - chita  
-citología - chelolojia  
-ciudad - site  
+citología - cellogi  
+ciudad - citi  
 Ciudad de México - Meshiko site  
 ciudadano - deshojan  
 civilización - sivilia  
@@ -797,7 +796,7 @@ confundido - ruhmishi
 confundir (desconcertar, perplejo) - ruhmisha  
 congelarse (helarse) - aisu  
 cono - konus  
-conocido - savi  
+conocido -   
 consecuencia (siguiente) - pos  
 conseguir (obtener, recibir) - geta  
 consejero (asesor) - menter  
@@ -930,10 +929,10 @@ cuál cosa - ki shei
 cuándo - ki sate  
 cuántos - ko multo  
 cálculo - kalkulia  
-cámara - fotografmashin  
+cámara - foto grafe gi  
 cárcel - prizonkan  
 Cáucaso - Kaukasia  
-célula - chel  
+célula - cel  
 césped (hierba) - chau  
 círculo - sirke  
 cítrico - limonike  
@@ -990,9 +989,9 @@ demasiado - mash ka bas
 demasiado poco - min ka bas  
 demencia (locura) - folia  
 demente (loco, insensato) - foli  
-democracia - demokratia  
-democrático - demokrati  
-demografía - demografia  
+democracia - demo krati  
+democrático - demo krati li  
+demografía - demo grafi  
 demonio - demon  
 demócrata - demokratiste  
 dentista (odontólogo) - dantomediker  
@@ -1063,7 +1062,7 @@ disparar - pava
 dispersar (esparcir, desmontar) - anjama  
 dispositivo pirotécnico - hogotehne  
 disprosio - disprosium  
-distancia - telia  
+distancia - teleta  
 distintos (diversos) - balibali  
 diversión - van  
 divertido - vani  
@@ -1184,7 +1183,7 @@ enemigo - dusjan
 energía - energe  
 energía nuclear - kerni energe  
 enero - un me mes  
-enfermedad - patia  
+enfermedad - pati  
 enfermo - pati  
 engañar - truka  
 engendrador - geter  
@@ -1206,7 +1205,7 @@ enviar (transmitar) - misa
 envoltura - lifaf  
 envolver - lifafa  
 enzima - enzim  
-epistemología - savolojia  
+epistemología - sabilogi  
 equal (similar) - sami  
 equilibrado (par) - pari  
 equilibrado (par) - parike  
@@ -1249,7 +1248,7 @@ escultura (arte de escultura) - eskultia
 escultura (estatua) - eskulte  
 escupir (bufar) - tuha  
 eslabón - sil  
-eslavo - slavi  
+eslavo - Slave  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - zumurude  
@@ -1267,7 +1266,7 @@ espectador - vider
 espejo (retrovisor) - mirer  
 Esperanto - esperanti  
 esperar (desear) - inshala  
-esperar - denga  
+esperar - deng  
 espicificar (estipular) - sharta  
 espiral (hélice) - helis  
 esponja - esponje  
@@ -1350,7 +1349,7 @@ familia - famil
 fan (-filo) - filer  
 fantasma - fantom  
 farbicante - fater  
-faro (baliza, almenara) - fotominar  
+faro (baliza, almenara) - foto minar  
 farol (linterna) - hogosanduke  
 farsi - farsi  
 fascinación - fasinia  
@@ -1389,9 +1388,8 @@ fisicoculturismo (culturismo, musculación) - muskulbin
 fisión nuclear - kerni fenia  
 flecha - fleche  
 flerovio - flerovium  
-flor - ful  
-florecer - fulu  
-florero - fuljar  
+flor - hua  
+florero - hua jara  
 flotador (boya) - boi  
 fluir - rivu  
 flúor - flur  
@@ -1405,9 +1403,9 @@ formateo - kitaboforme
 formulario - sualdokum  
 foro (espacio público) - forum  
 fosa - kave  
-foto (fotografía) - fotograf  
-fotografía - fotografia  
-fotógrafo - fotografer  
+foto (fotografía) - foto grafe  
+fotografía - foto grafia  
+fotógrafo - foto grafer  
 fragmento (pedazo) - parche  
 Francia - France  
 francio - francium  
@@ -1425,7 +1423,7 @@ fuera (exterior) - esh
 fuerte - forti  
 fuerza - fortia  
 fuerza aérea - airgun  
-funcionar - funchu  
+funcionar - funci  
 funcionario - ofiser  
 fundador - bazer  
 fundar (basar) - baza  
@@ -1524,10 +1522,10 @@ gota - yote
 grabado (sello, estampando) - chape  
 gracias - danke  
 gracias a (merced a) - danko da  
-grado Celsius - chelsius darje  
-gramatical - bashokanuni  
+grado Celsius - celsius darje  
+gramatical - basha kanun li  
 gramo (g) - gram  
-gramática - bashokanun  
+gramática - basha kanun  
 Granada - Grenada  
 Granadinas - Grenadin nesia  
 grande - dayi  
@@ -1589,7 +1587,7 @@ hacha - futau
 hachís - hashish  
 hafnio - hafnium  
 Haití - Aiti  
-halo (aureola) - fotosirke  
+halo (aureola) - foto sirke  
 hamaca - hamake  
 hambre - yamyau  
 hamo (anzuelo) - peshhuke  
@@ -1757,7 +1755,6 @@ insulto (ofensa, afrenta) - ninde
 intenso (brusco, ácido, fuerte, afilado, rápido) - tezi  
 intentar (probar) - testa  
 intercambiar (canjear) - badla  
-interesado (curioso) - savovoli  
 interesante (curioso) - savovoliti  
 interfaz de línea de comandos - amirlin  
 interior (interno) - indi  
@@ -1908,7 +1905,7 @@ lecho de roca - bazopetre
 lechuga - letis  
 leer - duga  
 legumbre (frijol o arveja) - dou  
-lejano (lejos) - teli  
+lejano (lejos) - tele  
 lejos - longo  
 lengua (idioma) - basha  
 lengua - lisan  
@@ -1954,7 +1951,7 @@ lince rojo (gato montés) - lalolinche
 lindo (precioso) - kavayi  
 linea (hilo, cordel, raya) - lin  
 linfa - linfe  
-lingüística - basholojia  
+lingüística - bashalogi  
 liquen - algofung  
 lirio - susan  
 lista - liste  
@@ -1980,7 +1977,7 @@ llorar - kuga
 llover -   
 lluvia - shava  
 lluvioso (pluvioso) -   
-lo lejos - tel  
+lo lejos - tele  
 lo menos - minim (minimo)  
 lo más - mashim (mashimo)  
 lobo - volfe  
@@ -2001,7 +1998,7 @@ lutecio - lutetium
 luteranismo - martinluteristia  
 luterano - martinluteristi  
 Luxemburgo - Luksemburge  
-luz (iluminación) - fote  
+luz (iluminación) - foto  
 lágrima - okosui  
 lámpara - lampe  
 lápida - gabrosheke  
@@ -2014,7 +2011,7 @@ lógica - logike
 ####M - M  
 Macao - Makau  
 Macedonia del Norte - Nordi Makedonia  
-maceta (plantera) - fulpote  
+maceta (plantera) - hua pote  
 macrial (militar) - jengi  
 macroalga - hayalge  
 Madagascar - Malagasia  
@@ -2170,7 +2167,7 @@ mi - mi di
 micelio - funge nete  
 micro- - mikro*  
 microbio - mikrobiu  
-microbiología - mikrobiyolojia  
+microbiología - mikrobiologi  
 Micronesia - Mikronesia  
 microscopio - mikroskope  
 Midsommar - garmomosimmedi den  
@@ -2318,7 +2315,6 @@ Naúru - Nauru
 necesario - yavan  
 necesidad - yau  
 necesitado - yavi  
-necesitar - yavu  
 nefritis - nefritis  
 negociar - lona biznes  
 negocios (comercio) - biznes  
@@ -2355,7 +2351,7 @@ no - no
 no binario (género) - bis  
 nobelio - nobelium  
 nobiembre - des un me lun  
-noche (tarde) - suar  
+noche (tarde) - sham  
 noche - noche  
 nombre - name  
 nombre de usuario - user name  
@@ -2563,7 +2559,7 @@ pastel (galleta) - keke
 pastel (pay) - pai  
 pastel de luna - lunokeke  
 pato - bata  
-patología - patolojia  
+patología - patilogi  
 patrimonio (herencia, legado) - varis  
 patógeno - patojener  
 pausa - pauze  
@@ -2761,7 +2757,7 @@ presuponer - chenaga
 presupuesto - bujete  
 prever (esperar, pensar) - chenvida  
 previo (anterior) - cheni  
-primavera - fulmosim  
+primavera - hua mosim  
 primer (inicial, inaugural) - shuri  
 primer ministro - shefe minister  
 primero (numbre uno) - unodi  
@@ -2807,12 +2803,12 @@ prueba - teste
 práctica - prate  
 práctico - prati  
 préstamo lingüístico - jekologe  
-psicología - ruhlojia  
-psique - ruh  
+psicología - ruhulogi  
+psique - ruhu  
 puaj - fui  
 pudrirse (cariarse, descomponerse) - pudu  
 pudín - puding  
-pueblo (población) - deme  
+pueblo (población) - demo  
 pueblo - nagre  
 puente - pul  
 puerro (cebolla larga) - porei  
@@ -2820,7 +2816,7 @@ puerta - mun
 puerto marítimo - haiporte  
 Puerto Rico - Portorikia  
 puertorriqueño - portoriki  
-pulir (lustrar) - fotofrika  
+pulir (lustrar) - foto frika  
 pulmón - pulmon  
 pulpo - batosenter  
 puma - pume  
@@ -2836,7 +2832,7 @@ pánico - panike
 pícea - pise  
 pólvora - barude  
 póquer - poke  
-público - demi  
+público - demo li  
 qualquier - eni  
 que (como) - ka  
 quedarse - restu  
@@ -2878,7 +2874,7 @@ rampa (cuesta) - rampe
 rana - krokroke  
 rapidez (velocidad) - rapidia  
 raramente - nadiro  
-raro (extraño) - bizari  
+raro (extraño) - bizar  
 raro - nadiri  
 raro - rari  
 rasgar (romper) - chir  
@@ -2886,7 +2882,7 @@ rasgar (romper) - chira
 raspar (arañar) - frika  
 ratón - mush  
 rayo - rade  
-rayo luminoso - fotorade  
+rayo luminoso - foto rade  
 raza - ras  
 razonable - razoni  
 razón (causa) - sabe  
@@ -3026,9 +3022,9 @@ rígido (sólido) - gatomati
 ####S - S  
 sabana - garmozoni chavistan  
 sabbat - sabate  
-saber (conocer) - sava  
-sabiduría (conocimiento) - save  
-sabiduría - sofia  
+saber (conocer) - sabi  
+sabiduría (conocimiento) -   
+sabiduría - sofita  
 sabio - sofi  
 sabroso (umami) - umami  
 sacerdote (clérigo, eclesiástico) - dinguru*  
@@ -3047,7 +3043,7 @@ salmón chum (keta) - bakosalmon
 salmón del Atlántico - atlantosalmon  
 salmón rojo - lalsalmon  
 salmón rosado - rozosalmon  
-salsa - saus  
+salsa - sos  
 salsa de soja - soisaus  
 saltar (brincar) - jampa  
 salud - salia  
@@ -3077,7 +3073,7 @@ satanista - shataniste
 Satanás - shatan  
 Saturno - Saturne  
 satánico - shatani  
-sauna - saune  
+sauna - sauna  
 se - se  
 seaborgio - siborgium  
 secar - gana  
@@ -3107,7 +3103,7 @@ sentido - sense
 sentir (detectar) - sensa  
 sentir - emosu  
 septiembre - tisa me mes  
-ser (estar) - sa  
+ser (estar) - e  
 ser - ser  
 ser de - malu  
 ser humano - insan  
@@ -3120,8 +3116,8 @@ servir - serva
 sexo (género) - jinse  
 sexo - biyi jinse  
 sexo - sekse  
-sexología - seksolojia  
-sexy (sexual) - seksi  
+sexología - sekselogi  
+sexy (sexual) - sekse li  
 Seychelles - Seshel nesia  
 señal (letrero, indicio) - sinye  
 señal de tránsito - dauban  
@@ -3153,10 +3149,10 @@ Singapur - Singapur
 sino - alo  
 sintoísmo - shindavistia  
 Siria - Suria  
-sismología - sismolojia  
+sismología - sismologi  
 sistema - sistem  
 sistema solar - solsistem  
-sistémico - sistemi  
+sistémico - sistem li  
 sitio web - netoloke  
 situación - sheihal  
 sobre - supro  
@@ -3177,8 +3173,7 @@ soldado - gunjan
 solo (aislado, solitary, soltero) - unjani  
 solsticio - solestas  
 Somalia - Somalia  
-sombra - saye  
-sombrear - saya  
+sombra - saya  
 sombrero - tupe  
 someterse (rendirse, ceder) - islamu  
 sonar - sona  
@@ -3266,7 +3261,7 @@ taoísta - daviste
 tapa (funda, cubierta) - dake  
 taponar - tapa  
 tapón (tapa) - tape  
-tarde (después de mediodía) - suarden  
+tarde (después de mediodía) - sham den  
 tarjeta (carta) - karde  
 tasa (precio, cuota, tarifa) - takse  
 tatuaje - tatu*  
@@ -3278,17 +3273,17 @@ techo (tejado) - chate
 tecla (botón) - buton  
 teclado - butonban  
 tecnetio - teknium  
-tecnocracia - tehnokratia  
-tecnología - tehnolojia  
+tecnocracia - tehnekrati  
+tecnología - tehnelogi  
 tectónica de placas - plati geyokaskia  
 tejer - tesha  
 tela (paño, tejido) - tesh  
 telar - teshmashin  
 telefonear - telfona  
-telefono - telfon  
+telefono - telefon  
 telefonía - telfonia  
-telescopio - teloskope  
-teletransportarse - teloloku  
+telescopio - teleskope  
+teletransportarse - teleloku  
 televisión - telvide  
 telurio - telurium  
 tema - tem  
@@ -3300,7 +3295,6 @@ tender - iva
 tenedor - forke  
 tener gusto a - gustu ko  
 tener sentido - razonu  
-tener sexo - seksa  
 teneso - tenesium  
 Tennessee - Tenesi  
 tennis - tenis  
@@ -3374,8 +3368,8 @@ torso - torse
 tortuga - tortuge  
 tos - kose  
 totalidad (integridad) - holia  
-toxicología - toksolojia  
-toxina - biyotokse  
+toxicología - toksilogi  
+toxina - bio tokse  
 trabajador (obrero) - karer  
 trabajar - kara  
 trabajo - kar  
@@ -3495,7 +3489,7 @@ velero - naver
 velo - hijabe  
 velocímetro - rapidometrer  
 vender - venda  
-veneno (toxina) - tokse  
+veneno (toxina) - toksi  
 Venezuela - Venezuela  
 venir - laya  
 ventana - janel  
@@ -3546,7 +3540,7 @@ vinilo - vinil
 vino - vin  
 virgen - virje  
 virginal - virji  
-virología - viruslojia  
+virología - viruslogi  
 virrey - visrajer  
 virtud (moralidad) - bondeke  
 virtuoso (moral) - bondeki  

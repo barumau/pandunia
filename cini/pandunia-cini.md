@@ -12,7 +12,7 @@ Afgania - 阿富汗
 aga - 如果 (要是)  
 agres - 攻击  
 agreser - 侵略者  
-agrobiyolojia - 土壤生物学  
+agrobiologi - 土壤生物学  
 agrochun - 农村  
 agronomia - 农学  
 air - 空气  
@@ -117,8 +117,8 @@ banyokamar - 浴室
 banyu - 游泳  
 bara - 擔子  
 basha - 语言  
+bashalogi - 语言学  
 bashi jinse - 文法的性  
-basholojia - 语言学  
 basi - 够  
 baske bol - 篮球  
 bata - 鸭  
@@ -144,13 +144,13 @@ bil - 帐单
 bina - 建设  
 binplaner - 建筑师  
 binplania - 建筑学  
+biologi - 生物学  
+bio tokse - 毒素  
 bir - 啤酒  
 biye - 生物  
 biyi jinse - 生物性別  
-biyolojia - 生物学  
 biyomutu - 发酵  
 biyosistem - 生物群系  
-biyotokse - 毒素  
 bode - 身体  
 bokse - 拳击  
 bokser - 拳击手  
@@ -173,6 +173,7 @@ bufete - 自助餐
 buke - 书  
 bum - 爆炸  
 buton - 扣子  
+cellogi - 细胞学  
 ch - C  
 chai - 茶  
 chaikan - 茶馆  
@@ -183,7 +184,6 @@ chamache - 匙子
 chantergrupe - 合唱团  
 chatre - 四 (4)  
 chatre me den - 星期四 (禮拜四)  
-chelolojia - 细胞学  
 chendeno - 昨日  
 cheng - 层  
 cheniki - 古老 (以前)  
@@ -256,6 +256,7 @@ dusvidi - 难看
 duve - 祈祷  
 ####E - E  
 e - 和  
+e - 对  
 ekore - 松鼠  
 eletrolin - 电缆 (电线)  
 eletrorade - 闪电  
@@ -300,19 +301,16 @@ fleche - 箭
 foba - 吓唬  
 fobu - 害怕  
 fora - 钻孔  
-fote - 光  
-fotofrika - 擦亮  
-fotograf -  照片 (相片)  
-fotolin - 光线  
-fotominar - 信号  
+foto - 光  
+foto frika - 擦亮  
+foto grafe -  照片 (相片)  
+foto lin - 光线  
+foto minar - 信号  
 frem - 框  
 frika - 擦伤  
 frute - 果  
 fuke - 衣服  
 fuku - 穿  
-ful - 花  
-fuljar - 花瓶  
-fulpote - 花盆  
 funge frute - 蘑菇  
 fute marke - 脚印  
 ####G - G  
@@ -415,6 +413,9 @@ hoke - 曲棍球
 hor - 小时  
 horloger - 钟  
 hotel - 旅馆  
+hua - 花  
+hua jara - 花瓶  
+hua pote - 花盆  
 huidarte - 灰化土  
 huke - 钩  
 hukokrus - 卍 (卐)  
@@ -698,7 +699,7 @@ mezotesh - 桌布
 mi - 我  
 migra - 搬家  
 mikrobiu - 微生物   
-mikrobiyolojia - 微生物学  
+mikrobiologi - 微生物学  
 mikroskope - 显微镜  
 milkokardon - 水飞蓟  
 mima - 模拟  (模仿)  
@@ -809,7 +810,7 @@ pasporte - 护照
 pastopetre - 岩漿  
 patike - 患者 (病患)  
 patojener - 病原体  
-patolojia - 病理学  
+patilogi - 病理学  
 patomis - 传染  
 pau - 手枪  
 peda - 放屁  
@@ -897,7 +898,7 @@ roze - 玫瑰
 rozosalmon - 粉紅鮭  
 ruhmishi - 困惑 (混乱)  
 ####S - S  
-sa - 对  
+sabi - 知道 (晓得)  
 sabun - 肥皂  
 safar - 旅行  
 sahi - 正确  
@@ -921,11 +922,10 @@ sapate - 鞋
 sar - 头  
 sate - 时刻 (瞬间)  
 Saturne - 土星  
-sava - 知道 (晓得)  
 savovol - 趣  
 savovolani - 好奇  
 savovoliti - 有趣  
-seksolojia - 性学  
+sekselogi - 性学  
 semdan - 种子  
 seme - 种  
 semi - 种子的  
@@ -939,6 +939,7 @@ ses - 彼此
 sete - 七 (7)  
 sete me den - 星期日 (禮拜日)  
 shalke - 鳞  
+sham - 晚上  
 shanghai - 上海  
 sharke - 鲨鱼 (shayu)  
 shatan - 撒但  
@@ -995,7 +996,7 @@ sirkosheke - 鹅卵石
 sirplan - 阴谋 (密谋)  
 siyahi - 黑色  
 sofa* - 沙发  
-sofia - 智慧  
+sofita - 智慧  
 soi - 大豆 (黄豆)  
 soimilke - 豆浆  
 soisaus - 酱油  
@@ -1014,7 +1015,6 @@ sosis - 香肠
 sual - 问题  
 suala - 问  
 suanpurshipe - 腌菜  
-suar - 晚上  
 sui - 水  
 Suice - 瑞士  
 suigas - 蒸汽  
@@ -1041,11 +1041,11 @@ tas - 盘 (碟)
 tate - 岸  
 tazi - 新鲜的  
 tehne - 技术  
-tehnolojia - 工艺学  
-telfon - 电话机  
+tehnelogi - 工艺学  
+telefon - 电话机  
 telfona - 打电话  
 telfonlin - 电话线  
-teloskope - 望远镜  
+teleskope - 望远镜  
 telvide - 电视机  
 tem - 主题目  
 temnam - 标题  
@@ -1065,7 +1065,7 @@ tirbaton - 杆
 tirlonga - 拉  
 tisa - 九 (9)  
 tocha - 接触  
-toksolojia - 毒物学  
+toksilogi - 毒物学  
 tomate - 西红柿  
 topograf - 地形  
 trata - 拖  
@@ -1136,7 +1136,6 @@ yatimdom - 孤儿院
 yaushina - 信赖  
 yaushinabli - 忠实  
 yavan - 必要的  
-yavu - 需要  
 ye - 对 (是)  
 yoge - 瑜伽功  
 yoke - 轭  

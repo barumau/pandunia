@@ -25,7 +25,7 @@ afegão - afgani
 agacharse - insida  
 agente - ater  
 agressor - agreser  
-agrobiologia - agrobiyolojia  
+agrobiologia - agrobiologi  
 agronomia - agronomia  
 agrícola - agri  
 ai! - ai  
@@ -142,7 +142,7 @@ biblioteca - kitabokan
 bigorna - metalbede  
 bilhete - tikete  
 bilíngue - dulbashi  
-biología - biyolojia  
+biología - biologi  
 bioma - biyosistem  
 bola - bol  
 bolo lunar - lunokeke  
@@ -238,10 +238,10 @@ chuva - shava
 chuvoso (pluvioso) -   
 chá - chai  
 ciclista - sikliste  
-cidade - site  
+cidade - citi  
 cinco (5) - penta  
 cintilar - shingofota  
-citologia - chelolojia  
+citologia - cellogi  
 claro - klari  
 cliente - klien  
 coelho (lebre) - tuze  
@@ -391,7 +391,7 @@ escudo - defban
 escudo - ostoshalke  
 escultor - eskulter  
 esfarrapado - chirchiri  
-eslavo - slavi  
+eslavo - Slave  
 esmeralda - zumurude  
 espada - katane  
 espaço - kali harfe  
@@ -437,7 +437,7 @@ face (faceta) - fas
 fadiga - fatigia  
 fala (palavras) - loge  
 falar - loga  
-farol (baliza) - fotominar  
+farol (baliza) - foto minar  
 fato (facto) - fate  
 fator - fater  
 favoritismo - mashfilistia  
@@ -455,14 +455,14 @@ filosofia - filsofia
 fiorde - fiorde  
 fisiculturismo - muskulbin  
 flecha (seta) - fleche  
-flor - ful  
+flor - hua  
 floresta de algas - algojangle  
 fogo - hoge  
 fogos de artifício - hogotehne  
 fome - yamyau  
 força aérea - airgun  
-foto (fotografia) - fotograf  
-fotografia - fotografia  
+foto (fotografia) - foto grafe  
+fotografia - foto grafia  
 fraco (débil) - debili  
 fraco - mirdi  
 fragmento - parche  
@@ -623,7 +623,7 @@ lula (calamar) - kalmar
 luta - jihade  
 luteranismo - martinluteristia  
 luterano - martinluteristi  
-luz - fote  
+luz - foto  
 lápide - gabrosheke  
 lápis - kalam  
 lápis-lazúli - lazurpetre  
@@ -686,7 +686,7 @@ mesa - meze
 mestre - mester  
 meta (gol) - gol  
 metro - mitre  
-microbiologia - mikrobiyolojia  
+microbiologia - mikrobiologi  
 microscópio - mikroskope  
 micróbio - mikrobiu  
 migração - migre  
@@ -736,7 +736,6 @@ nave espacial - kosmonau
 nação - nasia  
 necessidade - yau  
 necessitado - yavi  
-necessitar - yavu  
 necessário - yavan  
 neologismo - neuloge  
 Netuno - Neputun  
@@ -747,7 +746,7 @@ nicho - nish
 ninho (vespiero) - nide  
 nivel - par  
 noite - noche  
-noitinha - suar  
+noitinha - sham  
 norte - norde  
 nosso - mimen di  
 nostalgia (saudade) - nostalgia  
@@ -826,7 +825,7 @@ passagem de volta - retrotikete
 passaporte - pasporte  
 pasta - paste  
 pato - bata  
-patologia - patolojia  
+patologia - patilogi  
 patógeno - patojener  
 pausa - pauze  
 paz - pache  
@@ -979,8 +978,8 @@ rubi - lalbausheke
 rápido - rapidi  
 rã - krokroke  
 ####S - S  
-sabedoria (sagacidade, sapiência) - sofia  
-saber (conhecer) - sava  
+sabedoria (sagacidade, sapiência) - sofita  
+saber (conhecer) - sabi  
 sacada (varanda) - berande  
 saco - sake  
 sair - eshtru  
@@ -1016,12 +1015,12 @@ seminal - semi
 senador - senater  
 sentido - sense  
 sepultura (túmulo) - gabre  
-ser (estar) - sa  
+ser (estar) - e  
 ser humano - insan  
 serra - sere  
 sete (7) - sete  
 sexo - jinse  
-sexologia - seksolojia  
+sexologia - sekselogi  
 sexta-feira - penta me den  
 sim - ye  
 simetria - sammetria  
@@ -1036,7 +1035,6 @@ soja - soi
 sol - sol  
 soldado - gunjan  
 som - son  
-sombrear - saya  
 sombrinha - solchate  
 sono - som  
 sonolento - somivi  
@@ -1059,7 +1057,7 @@ tear - teshmashin
 tectónica de placas - plati geyokaskia  
 telefonar - telfona  
 telefonia - telfonia  
-telescópio - teloskope  
+telescópio - teleskope  
 temer - fobu  
 tempero - masale  
 templo - pujokan  
@@ -1089,8 +1087,8 @@ tora - mokotan
 toranja - putavoranje  
 torta - pai  
 toupeira - krote  
-toxicologia - toksolojia  
-toxina - biyotokse  
+toxicologia - toksilogi  
+toxina - bio tokse  
 trabalhador - karer  
 trabalhar - kara  
 trabalho - kar  
@@ -1132,7 +1130,7 @@ valorar - vala
 vampiro - vampir  
 vapor - suigas  
 vara (bastão) - baton  
-vaso de flores - fulpote  
+vaso de flores - hua pote  
 vazar - lova  
 vegetalista - purfityamiste  
 vegetariano - fityamiste  

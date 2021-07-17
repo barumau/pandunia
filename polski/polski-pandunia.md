@@ -194,7 +194,7 @@ bieżący (aktualny, obecny) - zaizami
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion, giga- - giga*  
-biologia (nauka o życiu) - biyolojia  
+biologia (nauka o życiu) - biologi  
 biom - biyosistem  
 biromantyczny - dulromansi  
 biseksualny - dulseksi  
@@ -262,7 +262,7 @@ but - sapate
 butelka - botel  
 Bułgaria - Bolgaria  
 bułka gotowana na parze - mante  
-być - sa  
+być - e  
 być mistrzem (być ekspertem) - mesta  
 być o; dyskutować o - tema  
 być obok - lata  
@@ -326,7 +326,7 @@ chmura - mege
 cholera - holire  
 Chongqing - chongching  
 chordofon, instrument strunowy - tichin  
-choroba - patia  
+choroba - pati  
 Chorwacja - Horvatia  
 chory - pati  
 chować (kryć) - sira  
@@ -356,7 +356,7 @@ cierpienie, ból - pashia
 cierpieć - pashu  
 cieszyć się (zażywać, bawić się) - vanu  
 cieszyć, podobać się - suka  
-cień - saye  
+cień - saya  
 ciągnąć - tira  
 ciągły (analogowy) - zoki  
 ciąć - kata  
@@ -384,7 +384,7 @@ Cypr - Kipris
 Cypr Północny - Nordi Kipris  
 cyrkon - zirkonium  
 cyrylica - kirili harfia  
-cytologia - chelolojia  
+cytologia - cellogi  
 cytować - chita  
 cytryna - limon  
 cywilizacja - sivilia  
@@ -401,7 +401,7 @@ czas; okazja - mar
 czasownik - karloge  
 czaszka - saroste  
 czcić, szanować - puja  
-czekać - denga  
+czekać - deng  
 czekolada - choklate  
 czempion - champion  
 czerwiec - tri me mes  
@@ -428,7 +428,7 @@ córka - femi pute
 ####D - D  
 dach - chate  
 daktyl - tamar  
-daleki, odległy - teli  
+daleki, odległy - tele  
 damarzyk (meranti) - merante  
 dane - date  
 Dania - Dania  
@@ -450,11 +450,11 @@ dekoracja (ornament) - sundardake
 dekorować - sundardaka  
 delfin - dolfin  
 delikatny, cienki, lekki - faini  
-demografia - demografia  
-demokracja - demokratia  
+demografia - demo grafi  
+demokracja - demo krati  
 demokrata - demokratiste  
 Demokratyczna Republika Konga - Kinshasa Kongo  
-demokratyczny - demokrati  
+demokratyczny - demo krati li  
 demon - demon  
 dentysta - dantomediker  
 deska - mokoban  
@@ -515,7 +515,7 @@ dualizm - dulistia
 dubn - dubnium  
 duch, fantom - fantom  
 dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę - hema  
-dusza, duch, umysł - ruh  
+dusza, duch, umysł - ruhu  
 duński - dani  
 duży - dayi  
 dwa (2) - du  
@@ -531,8 +531,8 @@ dyskretny (cyfrowy, kwantowy) - feni
 dyskusja, debata, dyskurs - lon  
 dyskutoać, twierdzić - tesa  
 dysproz - disprosium  
-dystans - tel  
-dystans - telia  
+dystans - tele  
+dystans - teleta  
 dywan - taltesh  
 dzban, dzbanek; słój, słoik - jar  
 dziadek (dziad) - chinpai  
@@ -557,7 +557,7 @@ dziobak - bata krote
 dziura - kong  
 dziw (cudo) - ajabe  
 dziwny (nieznany) - ansavi  
-dziwny - bizari  
+dziwny - bizar  
 dzięki, dzięki ci - danke  
 dziękować - danka  
 dziś, dzisiaj - zaideno  
@@ -579,7 +579,7 @@ Dżibuti - Jibuti
 dżul (J) - jul  
 ####E - E  
 echo - mirsonde  
-efekt halo - fotosirke  
+efekt halo - foto sirke  
 egipski - misri  
 Egipt - Misria  
 egzonim - eshnam  
@@ -608,7 +608,7 @@ endonim - innam
 energia - energe  
 energia nuklearna - kerni energe  
 enzym - enzim  
-epistemologia - savolojia  
+epistemologia - sabilogi  
 erb - erbium  
 Eris (planeta karłowata) - Eris  
 Erytrea - Eritria  
@@ -672,13 +672,13 @@ formatowanie - kitaboforme
 formularz (kwestionariusz) - sualdokum  
 forum - forum  
 fosfor - pospor  
-fotograf - fotografer  
-fotografia - fotografia  
+fotograf - foto grafer  
+fotografia - foto grafia  
 Francja - France  
 francuski naleśnik (crêpe) - France krepe  
 frans - francium  
 fu, fuj - fui  
-funkcja, stanowisko - funchu  
+funkcja, stanowisko - funci  
 funkcjonariusz, urzędnik - ofiser  
 funt (£) - paunde  
 fuzja (amalgamowanie, łączenie) - rivunia  
@@ -742,8 +742,8 @@ gracki, helleński; Grek - heleni
 gracz - gemer  
 gradient (gradacja, stopniowanie) - darjomeden  
 gram - gram  
-gramatyczny - bashokanuni  
-gramatyka - bashokanun  
+gramatyczny - basha kanun li  
+gramatyka - basha kanun  
 granica, skraj, brzeg - kenar  
 granit - granite  
 gratulacje! - barka  
@@ -1000,7 +1000,7 @@ język surinamski - surinami bash
 język sztuczny - chanbash  
 język świata, język ogólnoświatowy - dunia bash  
 język; komunikacja - basha  
-językoznastwo - basholojia  
+językoznastwo - bashalogi  
 ####K - K  
 kabaczek (dynia, tykwa) - kaboge  
 kabel (linia) - eletrolin  
@@ -1017,7 +1017,7 @@ kalifat - halifia
 kaliforn - kalifornium  
 kalkulować - hisaba  
 Kambodża - Kambojia  
-kamera, aparat fotograficzny - fotografmashin  
+kamera, aparat fotograficzny - foto grafe gi  
 Kamerun - Kamerun  
 kamieniarz - shekojanger  
 kamień (kawał skały) - sheke  
@@ -1112,7 +1112,6 @@ kobieta; kobiecy - fem
 kochany (drogi) - ami  
 kochać - ama  
 kochać romantycznie - romansa  
-kochać się, uprawiać seks - seksa  
 kocioł - daivaze  
 kod, szyfr - kode  
 kodować - koda  
@@ -1121,7 +1120,7 @@ kokos - yeze
 koktajl - mishi alkol  
 kola (coca-cola) - kokokol  
 kola, napój gazowany - kole  
-kolacja - suaryam  
+kolacja - sham yam  
 kolano - gute  
 kolczuga - silnete  
 kolec - ding  
@@ -1147,7 +1146,7 @@ kompost - biyochaniver
 komputer - komputer  
 komunista - konchaniste  
 komunizm - konchanistia  
-komórka (biologia) - chel  
+komórka (biologia) - cel  
 koncert - konserte  
 konfucjanizm - kongfuzistia  
 Konfucjusz - Kongfuze  
@@ -1270,9 +1269,8 @@ kwadrat (czworokąt, czworobok, tetragon) - chargon
 kwarc - kuarze  
 kwaśny - suani  
 kwestia, problem - sualtem  
-kwiat - ful  
+kwiat - hua  
 kwiecień - des du me mes  
-kwitnąć, rozkwitnąć, rozkwitać - fulu  
 kąpać się - banyu  
 kąpiel - banye  
 kąt - gon  
@@ -1293,7 +1291,7 @@ larwa, czerw, gąsienica - lasun
 las wodorostów - algojangle  
 las, dżungla, zagajnik - jangle  
 latarnia - hogosanduke  
-latarnia morska - fotominar  
+latarnia morska - foto minar  
 latać (fruwać) - rivu  
 latać, lecieć - feyu  
 lato - garmomosim  
@@ -1360,7 +1358,7 @@ lotnisko (port lotniczy) - airporte
 lub, albo - o  
 lubić - fila  
 lubić, cieszyć się - suku  
-lud, społeczeństwo - deme  
+lud, społeczeństwo - demo  
 ludzie (lud, ludność) - nas  
 ludzki - insaniki  
 ludzkość, rodzaj ludzki - insania  
@@ -1476,7 +1474,7 @@ metoda, sposób - metode
 metr - mitre  
 metro - tuneltren  
 miara - metre  
-miast, miasteczko - site  
+miast, miasteczko - citi  
 miasto - nagre  
 miecz - katane  
 miedź - kupre  
@@ -1493,7 +1491,7 @@ mieć sens - razonu
 migdał - badam  
 migracja - migre  
 mikro- - mikro*  
-mikrobiologia - mikrobiyolojia  
+mikrobiologia - mikrobiologi  
 Mikronezja - Mikronesia  
 mikroorganizm  (mikrob) - mikrobiu  
 mikroskop - mikroskope  
@@ -1603,7 +1601,7 @@ mój - mi di
 mówić, rozmawiać - loga  
 mówić; komunikować - basha  
 mózg - serebre  
-mądrość - sofia  
+mądrość - sofita  
 mądry - sofi  
 męczyć się (nużyć się) - fatigu  
 męski - man  
@@ -1659,7 +1657,7 @@ następny (następujący) - posi
 natura, środowisko - ekia  
 nauczyciel - shule guru  
 nauczyć się, uczyć się, studiować - shula  
-nauka, badanie, studiowanie - lojia  
+nauka, badanie, studiowanie - logi  
 Nauru - Nauru  
 nautilus - nautile  
 nawet - hato  
@@ -1766,7 +1764,7 @@ nóż - chake
 oaza - vase  
 obcęgi, kleszcze, szczypce - pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zayi  
-obiad, lunch - denyam  
+obiad, lunch - den yam  
 obiecać, angażować się - voda  
 obiecujący (dobrze wróżący) - bonsinyi  
 obniżać (obniżyć) - tala  
@@ -1810,7 +1808,7 @@ odbyt - anus
 odcisk, ślad; stempel, pieczęć - chape  
 oddech - nafas  
 odetkać, odtykać - antapa  
-odkurzacz - funchuper  
+odkurzacz - fun chupa gi  
 odmówić (odrzucić) - nega  
 odnowić, odnawiać, uczynić nowym - neva  
 odpowiedzieć, odpowiadać - javaba  
@@ -1960,7 +1958,7 @@ pasywny (nieaktywny) - pasivi
 paszport - pasporte  
 patelnia - tave  
 patogen - patojener  
-patologia - patolojia  
+patologia - patilogi  
 patrzeć (oglądać) - oka  
 patrzeć, widzieć - vida  
 pauza (przerwa) - pauze  
@@ -2059,7 +2057,7 @@ Pluton (planeta karłowata) - Pluton
 pluton - plutonium  
 pluć - tuha  
 pnącz - eskalotan  
-pochochodnia (latarka) - fotobaton  
+pochochodnia (latarka) - foto baton  
 pocisk - lanchite  
 pociąg - tren  
 poczta - poste  
@@ -2099,7 +2097,7 @@ pokój rozmów, chat - blablokan
 pokój, sala - kamar  
 pole widzenia - vidomeden  
 pole, powierzchnia - ar  
-polerować (szlifować) - fotofrika  
+polerować (szlifować) - foto frika  
 policja - polis  
 policzyć, liczyć, przetwarzać dane - komputa  
 Polinezja Francuska - France Polinesia  
@@ -2127,9 +2125,9 @@ ponieważ, bo - sabo da
 poniższy - nichi  
 popełnić błąd - galta  
 popiół - hui  
-popołudnie - suarden  
+popołudnie - sham den  
 poprawić, poprawiać, prostować, korygować - saha  
-poprawny (wykonalny) - funchabli  
+poprawny (wykonalny) -   
 poprowadzić do (doprowadzić do, powodować) - asara  
 poprzedni - cheni  
 poprzedzić, poprzedzać - chena  
@@ -2167,7 +2165,6 @@ pot - suede
 potas - kalium  
 potrzeba - yau  
 potrzebny - yavan  
-potrzebować - yavu  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
 potwór, monstrum - monoster  
 powiadomić, powiadamiać - notana  
@@ -2245,7 +2242,7 @@ promet - prometium
 promieniowanie - radia  
 promieniować - rada  
 promień - rade  
-promień światła - fotorade  
+promień światła - foto rade  
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - Manihai  
@@ -2332,12 +2329,12 @@ prędkość (szybkość) - rapidia
 pręt, kij - baton  
 pstrąg potokowy - brunsalmon  
 pstrąg tęczowy - rangarkosalmon  
-psychologia - ruhlojia  
+psychologia - ruhulogi  
 pszczoła lub osa - vespe  
 pszczoła miodna - medu vespe  
 pszenica - ganum  
 ptak - pakse  
-publiczny - demi  
+publiczny - demo li  
 puder - muka fun  
 pudełko, skrzynia - kash  
 puding - puding  
@@ -2565,20 +2562,19 @@ sarkazm - logironia
 satanista - shataniste  
 satanizm - shatanistia  
 Saturn - Saturne  
-sauna - saune  
+sauna - sauna  
 sawanna - garmozoni chavistan  
 sałata - letis  
 sałatka - salade  
 schody (drabina) - eskale  
 seaborg - siborgium  
-sejsmiczny (wibracyjny) - sismi  
-sejsmologia - sismolojia  
+sejsmologia - sismologi  
 sekret - siri  
 sekretariat - sekreteria  
 sekretarz - sekreter  
 seks, stosunek płciowy - sekse  
-seksowny, ponętny - seksi  
-seksuologia - seksolojia  
+seksowny, ponętny - sekse li  
+seksuologia - sekselogi  
 sekunda - sekunde  
 selen - selenium  
 sen - som  
@@ -2656,7 +2652,7 @@ sok - jus
 Somalia - Somalia  
 Somaliland - Somaldesh  
 sometime - koi sate  
-sos - saus  
+sos - sos  
 sos jabłkowy - aplosaus  
 sos sojowy - soisaus  
 sosna - song  
@@ -2720,7 +2716,7 @@ stolarz - mokojanger
 stop; przerwa, zatrzymanie - ting  
 stopa - fute  
 stoper (sekundomierz) - durmetrer  
-stopień Celsjusza - chelsius darje  
+stopień Celsjusza - celsius darje  
 stopień, poziom, ranga, klasa - darje  
 stopniowy - darji  
 storczyk (orchidea) - orkide  
@@ -2763,7 +2759,7 @@ sypialnia - somkamar
 Syria - Suria  
 syrop - shirope  
 system - sistem  
-systemowy - sistemi  
+systemowy - sistem li  
 sytuacja (stan) - sheihal  
 szabat, szabas - sabate  
 szachy - shatranje  
@@ -2838,7 +2834,7 @@ słonecznik - solful
 słony - salti  
 Słowacja - Slovakia  
 Słowenia - Slovenia  
-słowiański - slavi  
+słowiański - Slave  
 słowik - bulbul  
 słownictwo - logia  
 słowny (leksykalny) - logi  
@@ -2884,14 +2880,14 @@ taśma; bandaż - bende
 tchórz, fretka - furete  
 technet - teknium  
 technika, technologia - tehne  
-technokracja - tehnokratia  
-technologia, nauka o technikach - tehnolojia  
+technokracja - tehnekrati  
+technologia, nauka o technikach - tehnelogi  
 teistyczny - deviste  
 teizm - devistia  
 tektonika płyt - plati geyokaskia  
-telefon - telfon  
-teleportować się - teloloku  
-teleskop - teloskope  
+telefon - telefon  
+teleportować się - teleloku  
+teleskop - teleskope  
 telewizja - telvide  
 tellur - telurium  
 telugu - telugi  
@@ -2929,7 +2925,7 @@ toczyć, turlać - rula
 Togo - Togo  
 Tokio - Tokyo  
 toksyczny (trujący) - toksi  
-toksyna - biyotokse  
+toksyna - bio tokse  
 tolerować - tolera  
 ton, dźwięk, nuta, tonacja - ton  
 tona - megagram  
@@ -2948,7 +2944,7 @@ trawa mor - haichau
 treść (zawartość) - inite  
 tropikalny - garmozoni  
 tropiki - garmozon  
-trucizna (toksyna) - tokse  
+trucizna (toksyna) - toksi  
 trudność (trud) - dushal  
 trwanie - dur  
 trwać, zająć czas; przez - dura  
@@ -2958,8 +2954,7 @@ Trynidad i Tobago - Trinidade e Tobago
 trzcina cukrowa - sukarchau  
 trzeć (pocierać, obetrzeć, pucować) - frika  
 trzy (3) - tri  
-trząść (machać) - sisma  
-trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi) - sisme  
+trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi) - sismo  
 trzęsienie Ziemi - geyosisme  
 trójkąt - sangon  
 trójząb - sanzong  
@@ -3124,7 +3119,7 @@ wełna (runo owcze) - meme kesh
 wiadomość - anjil  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - notite  
-wiadomy, znany - savi  
+wiadomy, znany -   
 wiadro - balde  
 wiadukt, przejście powyżej - supre  
 wiara, wierzenie, kredo - shin  
@@ -3135,9 +3130,9 @@ wicekról - visrajer
 wiceprezydent - visprezidente  
 widelec - forke  
 widok, wzrok - vide  
-wieczór - suar  
-wiedza - save  
-wiedzieć - sava  
+wieczór - sham  
+wiedza -   
+wiedzieć - sabi  
 wiejski, rustykalny - agristani  
 wiek - sen  
 wielbłąd, wielbłądzica - gamel  
@@ -3171,9 +3166,9 @@ winny - doshi
 wino - vin  
 winogrono - putau  
 winyl - vinil  
-wiosna - fulmosim  
+wiosna - hua mosim  
 wirus - virus  
-wirusologia - viruslojia  
+wirusologia - viruslogi  
 witaj, dobre przybycie - salam lai  
 witraż - rangi kanche  
 witryna internetowa (portal internetowy) - netoloke  
@@ -3417,7 +3412,7 @@ zbłąkany (dewiacyjny, wykolejony) - rutogalti
 zbłąkać się (wykoleić się) - rutogalta  
 zdanie (fraza) - jumle  
 zdeaktywowany (wyłączony, zatrzymany) - anativi  
-zdjęcie (fotografia) - fotograf  
+zdjęcie (fotografia) - foto grafe  
 zdrada małżeńska, cudzołóstwo - zine  
 zdrowie - salia  
 zdrowy - sali  
@@ -3543,7 +3538,7 @@ zły, zrujnowany, zepsuty - harabi
 śruba, wkręt - vite  
 świadomy; oświecony - budi  
 świat - dunia  
-światło, oświetlenie - fote  
+światło, oświetlenie - foto  
 świeca - mumfote  
 świerk - pise  
 świetny - kuli  

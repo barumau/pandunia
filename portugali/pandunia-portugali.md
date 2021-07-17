@@ -14,7 +14,7 @@ agra - cultivar
 agres - ataque  
 agreser - agressor  
 agri - agrícola  
-agrobiyolojia - agrobiologia  
+agrobiologi - agrobiologia  
 agronomia - agronomia  
 ai - ai!  
 air - ar  
@@ -146,12 +146,12 @@ bilor - cristal
 bina - construir  
 binplaner - arquiteto  
 binplania - arquitetura  
+biologi - biología  
+bio tokse - toxina  
 bir - cerveja  
 biye - organismo  
-biyolojia - biología  
 biyomutu - fermentar  
 biyosistem - bioma  
-biyotokse - toxina  
 bode - corpo  
 bokse - boxe  
 bokser - boxeador (pugilista)  
@@ -174,6 +174,7 @@ buke - livro
 bum - explosão  
 bute - bota  
 buton - botão  
+cellogi - citologia  
 centaure - centáurea  
 ch - C  
 chai - chá  
@@ -186,7 +187,6 @@ chantergrupe - coro
 charme - charme  
 chatre - quatro (4)  
 chatre me den - quinta-feira  
-chelolojia - citologia  
 chendeno - ontem  
 cheniki - velho (antigo)  
 cherize - cereja  
@@ -204,6 +204,7 @@ choklatobaton - barra de chocolate
 chope - enxada  
 chun - aldeia (vila)  
 chuzable - opção  
+citi - cidade  
 ####D - D  
 daidom - palácio (mansão, palacete)  
 daihai - oceano  
@@ -258,6 +259,7 @@ duskar - malfeitoria (pecado)
 dusvidi - feio  
 ####E - E  
 e - e  
+e - ser (estar)  
 ekore - esquilo  
 eletre - eletricidade  
 em - elemento  
@@ -314,18 +316,16 @@ fobani - assustador
 fobu - temer  
 fora - furar (perfurar)  
 forma - modelar  
-fote - luz  
-fotograf - foto (fotografia)  
-fotografia - fotografia  
-fotominar - farol (baliza)  
+foto - luz  
+foto grafe - foto (fotografia)  
+foto grafia - fotografia  
+foto minar - farol (baliza)  
 France krepe - crepe  
 frem - moldura  
 frute - fruta  
 fuka - vestir  
 fuke - roupa (vestidura)  
 fuku - trajar (vestir-se)  
-ful - flor  
-fulpote - vaso de flores  
 funge - fungo  
 funge frute - cogumelo  
 fute bol - futebol  
@@ -424,6 +424,8 @@ hoke - hóquei
 hor - hora  
 horloger - relógio  
 hotel - hotel  
+hua - flor  
+hua pote - vaso de flores  
 huidarte - espodossolo  
 huke - gancho  
 hukokrus - suástica (cruz gamada)  
@@ -719,7 +721,7 @@ mi - eu (me)
 migre - migração  
 migru - mudar-se  
 mikrobiu - micróbio  
-mikrobiyolojia - microbiologia  
+mikrobiologi - microbiologia  
 mikroskope - microscópio  
 milke - leite  
 milkokardon - cardo-mariano  
@@ -834,7 +836,7 @@ pasporte - passaporte
 paste - pasta  
 patike - paciente  
 patojener - patógeno  
-patolojia - patologia  
+patilogi - patologia  
 patomis - infecção (contágio)  
 patomisa - infectar (contagiar)  
 pau - arma de fogo  
@@ -933,7 +935,7 @@ roze - rosa
 rozosalmon - salmão-rosa  
 ruhmishi - perplexo (confuso)  
 ####S - S  
-sa - ser (estar)  
+sabi - saber (conhecer)  
 sahi - correto (justo)  
 saida - caçar  
 sake - saco  
@@ -957,11 +959,9 @@ sar - cabeça
 sate - momento (instante)  
 sati - momentâneo  
 Saturne - Saturno  
-sava - saber (conhecer)  
 savovolani - inquisitivo  
-saya - sombrear  
 se - se  
-seksolojia - sexologia  
+sekselogi - sexologia  
 sekuri - seguro  
 sel - conselho  
 sela - aconselhar  
@@ -978,6 +978,7 @@ ses - um ao outro
 sete - sete (7)  
 sete me den - domingo  
 shalke - escama  
+sham - noitinha  
 shampan - Champagne  
 shampan vin - champaña  
 shanpike - cume (pico, topo)  
@@ -1026,10 +1027,9 @@ silke - seda
 sing - estrela  
 sira - ocultar (esconder)  
 sirplan - complô (conspiração)  
-site - cidade  
 siyahi - preto  
-slavi - eslavo  
-sofia - sabedoria (sagacidade, sapiência)  
+Slave - eslavo  
+sofita - sabedoria (sagacidade, sapiência)  
 soi - soja  
 soimilke - leite de soja  
 soisaus - molho de soja  
@@ -1050,7 +1050,6 @@ sosis - salsicha
 speter - espetador  
 sual - questão (pergunta)  
 suala - perguntar  
-suar - noitinha  
 suede - suor  
 sui - água  
 Suice - Suíça  
@@ -1074,7 +1073,7 @@ tate - margem
 tehne - técnica  
 telfona - telefonar  
 telfonia - telefonia  
-teloskope - telescópio  
+teleskope - telescópio  
 temnam - título  
 ten - céu  
 tensi - tenso  
@@ -1086,7 +1085,7 @@ teste - teste
 tikete - bilhete  
 tirlonga - estirar  
 tisa - nove (9)  
-toksolojia - toxicologia  
+toksilogi - toxicologia  
 tomate - tomate  
 topograf - topografia  
 trata - arrastar  
@@ -1164,7 +1163,6 @@ yau - necessidade
 yaushina - confiar (contar com)  
 yavan - necessário  
 yavi - necessitado  
-yavu - necessitar  
 ye - sim  
 yoke - jugo  
 yongu - derretre  
