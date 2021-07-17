@@ -166,7 +166,7 @@ Pronouns don't ever change their form in Pandunia. That's why **mi** is the
 same in subject and object positions while English has two different forms, 'I'
 and 'me'.
 
-**mi ai tu.**
+**mi love tu.**
 I love you.
 
 <small>Etymology. **tu** is from Spanish: tu, Russian: ты (ty), Italian: tu, French: tu.</small>
@@ -194,32 +194,30 @@ I greet him/her.
 <small>Etymology. **ya** is from Malay: ia, Hindi यह (yah).</small>
 
 
-### suala <small>to ask a question</small>
+### sual <small>to ask a question</small>
 
-<p style="font-size:5em">🤔❓</p>
-
-**suala tu e Tomas?**
+**sual tu e Tomas?**
 Are you Thomas?
 
-**suala tu e mediker?**
+**sual tu e mediker?**
 Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **suala**.
+Tip: Yes/no questions frequently begin with **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi suala tu mediker.**
+**mi sual tu mediker.**
 (I ask, you doctor?) by dropping out the first word.
 
-**suala tu bon?**
+**sual tu bon?**
 How are you? (Literally: _Are you good?_)  
 **mi bon.**
 I'm good.  
-**suala tu?**
+**sual tu?**
 And you?  
 **mi no bon.**
 I'm not good.
 
-<small>Etymology. **suala**
+<small>Etymology. **sual**
 is from Arabic سؤال (su'āl),
 Hindi सवाल (savāl),
 Malay _soal_,
@@ -228,13 +226,13 @@ Swahili _swali_.</small>
 
 ### ye <small>yes</small>
 
-**suala tu e Tomas?**
+**sual tu e Tomas?**
 Are you Thomas.
 
 **ye, mi e Tomas.**
 Yes, I am Thomas.
 
-**suala ya e mediker?**
+**sual ya e mediker?**
 Is he/she a doctor?
 
 **ye, ya e mediker.**
@@ -249,12 +247,12 @@ I'm not Sarah.
 **mi no e mediker.**
 I'm not a doctor.
 
-**suala tu bon?**
+**sual tu bon?**
 Are you well?  
 **ye. mi bon.**
 Yes, I'm well.
 
-**suala tu bon?**
+**sual tu bon?**
 Are you well?  
 **no, mi no bon.**
 No, I'm not well.
@@ -329,58 +327,49 @@ Who are they?
 Bengali: কী "ke".</small>
 
 
-### ye & ve <small>this and that</small>
+### yi & vo <small>this and that</small>
 
-**ye e ke?**
+**yi e ke?**
 What's this?
 
-**ye e aple.**
+**yi e aple.**
 This is an apple.
 
-**ve e ke?**
+**vo e ke?**
 What is that?
 
-**ve e oranje.**
+**vo e oranje.**
 That is an orange.
 
-**ye e kirmi aple.**
+**yi e kirmi aple.**
 This is a red apple.
 
 **yi aple e kirmi.**
 This apple is red.
 
-Note: When an adjective like
-**kirmi**
-is placed before a noun, it works as a modifier.
-When it follows the noun, it works as an adjectival verb.
-
-**ye e kirmi.**
+**yi e kirmi.**
 This is red.
-
-Note: The demonstrative pronoun has two forms.
-The forms **ye** and **ve** are used as stand-alone words.
-The forms **yi** and **vi** are used when they modify a noun.
 
 **yamen a ke?**
 Where are they?
 
-**yamen a ye.**
+**yamen a yi.**
 They are here.
 
-**yamen a ve.**
+**yamen a vo.**
 They are there.
 
 
 
 ### di <small>'s (possessive particle)</small>
 
-**ye e ke?**
+**yi e ke?**
 What's this?
 
-**ya e mi di telfon.**
+**yi e mi di telefon.**
 It's my telephone.
 
-**ye e ke di?**
+**yi e ke di?**
 Whose is this?
 
 **ya e mi di.**
@@ -432,7 +421,7 @@ He/she doesn't have money.
 **mi vol tena un nove telefon.**
 I want to have a new phone.
 
-**suala tu tena ben?**
+**sual tu tena ben?**
 Do you have children?  
 **mi tena du ben.**
 I have two children.
@@ -443,10 +432,10 @@ I have two children.
 **mi sabi ya.**
 I know him/her/it.
 
-**suala tu sabi vi jan?**
+**sual tu sabi vo jan?**
 Do you know that person?
 
-**suala tumen sabi semen?**
+**sual tumen sabi semen?**
 Do you know each other?
 
 **mimen sabi semen ze long.**
@@ -458,10 +447,10 @@ We know each other for a long time.
 **mi yau helpe.**
 I need help.
 
-**suala tu abla helpe mi?**
+**sual tu abla helpe mi?**
 Can you help me?
 
-**suala mi abla helpe tu?**
+**sual mi abla helpe tu?**
 Can I help you?
 
 **mi vol helpe tu.**
@@ -472,7 +461,7 @@ I want to help you.
 
 ### yam <small>consume, eat, drink</small>
 
-**suala tu vol yam yo?**
+**sual tu vol yam yo?**
 Would you like to eat something?
 
 **ya yam un aple.**
@@ -484,7 +473,7 @@ They eat apples.
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
-**suala tu yam kafe?**
+**sual tu yam kafe?**
 Do you drink coffee?
 
 **ye. mi yam kafe.**
@@ -500,7 +489,7 @@ I'm having coffee and bread.
 
 ### vol <small>want</small>
 
-**suala tu vol yam?**
+**sual tu vol yam?**
 Would you like to eat?
 
 **tu vol yam ke?**
@@ -512,7 +501,7 @@ the word order is not affected by the **ke**.
 **mi vol yam kafe.**
 I want to drink coffee.
 
-**suala tu vol yam chai?**
+**sual tu vol yam chai?**
 Would you like to drink tea?  
 **no. mi no vol chai. mi vol kafe.**
 No, I don't want tea. I want coffee.
@@ -569,10 +558,10 @@ I need help.
 **mi yau yam.**
 I'm hungry.
 
-**suala tu yau yam?**
+**sual tu yau yam?**
 Are you hungry?
 
-**suala tu yau sui?**
+**sual tu yau sui?**
 Are you thirsty?
 
 
@@ -583,7 +572,7 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! ye e ke?**
+**maf! yi e ke?**
 Excuse me, what's this?
 
 **maf. tu di nam e ke?**
@@ -592,7 +581,7 @@ Excuse me, what's your name?
 
 ### aha <small>understand</small>
 
-**suala tu aha mi?**
+**sual tu aha mi?**
 Do you understand me?
 
 **mi aha.**
@@ -601,7 +590,7 @@ I understand.
 **maf. mi no aha tu.**
 Sorry. I don't understand you.
 
-**mi no baso aha tu.**
+**mi no bas aha tu.**
 I didn't quite understand you.
 
 **mi aha nol.**
@@ -616,10 +605,10 @@ I can drive a car.
 **ya no abla shofe gar.**
 He/she doesn't know how to drive a car.
 
-**suala tu abla reibona ya?**
+**sual tu abla reibona ya?**
 Do you know how to fix it?
 
-**suala tu abla pandunia?**
+**sual tu abla pandunia?**
 Can you speak Pandunia?
 
 **mi abla pandunia.**
@@ -631,7 +620,7 @@ I can speak a little Pandunia.
 **mi no abla english.**
 I can't speak English.
 
-**pardon. mi no abla tu di bax.**
+**maf. mi no abla tu di bax.**
 Sorry, I can't speak your language.
 
 
@@ -709,19 +698,19 @@ I don't understand what it means.
 **ching kitaba tu di adres.**
 Please, write your address.
 
-**ching kitaba ya a ye.**
+**ching kitaba ya a yi.**
 Please, write it here!
 
 
 ### basha <small>speak a language, communicate</small>
 
-**suala tumen basha pandunia.**
+**sual tumen basha pandunia.**
 Do you speak Pandunia?
 
 **mimen basha pandunia.**
 We speak Pandunia.
 
-**suala tu abla basha english?**
+**sual tu abla basha english?**
 Can you speak English?
 
 **france, espan, portugal, rus**
@@ -777,7 +766,7 @@ I will come home tomorrow.
 
 ### safar <small>to travel</small>
 
-**suala tu safar a tren?**
+**sual tu safar a tren?**
 Do you travel by train?
 
 **mimen safar ze London do Paris.**
@@ -792,7 +781,7 @@ The voyage is very long.
 **hotel a ke?**
 Where is the hotel?
 
-**hotel a vi dau.**
+**hotel a vo dau.**
 The hotel is on that road.
 
 **tu a ke?**
@@ -813,19 +802,19 @@ Tip! You can use **a** as a preposition or alone as the verb.
 I work at ...
 
 
-### doma <small>to live, reside</small>
+### dom <small>to live, reside</small>
 
 **tu doma ke?**
 Where do you live?
 
-**mi doma Singapur.**
+**mi dom Singapur.**
 I live in Singapore.
 
-**suala tu doma yi hotel?**
+**sual tu dom yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **tu doma a ke?** instead of **tu doma ke**.
-However **doma** already covers the meaning of being at somewhere, so **a** is not necessary.
+Tip: It is also okay to say **tu dom a ke?** instead of **tu dom ke**.
+However **dom** already covers the meaning of being at somewhere, so **a** is not necessary.
 
 
 ### deng <small>to wait</small>
@@ -909,21 +898,21 @@ He or she will be at home.
 
 ## Part 6. Doing business
 
-### dona <small>give</small>
+### don <small>give</small>
 
-**ching dona pesa.**
+**ching don yo pesa.**
 Please give some money.
 
-**ching dona ya do mi.**
+**ching don ya do mi.**
 Please give it to me.
 
-**mi dona ye do tu.**
+**mi don yi do tu.**
 I give this to you.
 
-**mi dona buke do yamen.**
+**mi don buke do yamen.**
 I give a book to them.
 
-**ya no vol dona ya do mi.**
+**ya no vol don ya do mi.**
 He/she doesn't want to give it to me.
 
 
@@ -971,7 +960,7 @@ means _to buy_.
 **yamen mai dona pan.**
 They sell everything.
 
-**mi mai kap un bir.**
+**mi mai kapa un bir.**
 I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
@@ -979,13 +968,13 @@ I will buy a beer.
 **ya e ke yang?**
 What is it like?
 
-**suala ya e nove?**
+**sual ya e nove?**
 Is it new?
 
 **ke e max boni?**
 Which is better?
 
-**ye e maxim boni (da pan).**
+**yi e maxim boni (da pan).**
 This is the best (of all).
 
 **ya kosta ke?**
@@ -995,7 +984,7 @@ Nothing.
 **ya kosta lil / multo.**
 It is cheap / expensive.  
 
-**mimen cingu lai.**
+**men cing mimen lai.**
 We are being called.
 
 **mi soka tualete.**
@@ -1007,10 +996,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi darsa pandunia.**
+**mi shul le pandunia.**
 I study Pandunia.
 
-**xova ya do mi a logobuke!**
+**shou ya do mi a loga buke!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.
@@ -1033,13 +1022,13 @@ Cheers!
 ****
 Of course!
 
-**suala tu suku ...?**
+**sual tu suku ...?**
 Do you like ...?
 
 ****
 I feel alright.
 
-**ching side a ye!**
+**ching side a yi!**
 Please, sit here!
 
 **mi suku stasa.**
@@ -1048,7 +1037,7 @@ I rather stand.
 ****
 With pleasure!
 
-**feste kaixu a ke zaman?**
+**festa kaishi a ke zaman?**
 When does the party begin?
 
 **tu sahi.**
