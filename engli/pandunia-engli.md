@@ -2,11 +2,8 @@
 ####A - A  
 a - but (whereas)  
 abete - fir tree  
-abla - can (know, be able)  
-ablani - able (capable)  
-able - ability (skill)  
-abli - possible  
-ablo - maybe (perhaps, possibly)  
+acente - accent (stress)  
+aces - access (admission, accessibility)  
 achi - sneeze (achoo)  
 acinium - actinium  
 adali - just (fair, righteous)  
@@ -59,9 +56,6 @@ ajabu - wonder (be amazed)
 ajili - agile  
 akare - tick (mite)  
 akse - axis (axle)  
-aksente - accent (stress)  
-akses - access (admission, accessibility)  
-aksesa - access (reach, enter)  
 aksesabli - accessible (within reach)  
 ala - change (make different)  
 Alaska - Alaska  
@@ -194,7 +188,6 @@ arome - scent (odor, fragrance, aroma)
 aromomelon - Korean melon  
 aromu - smell (reek)  
 arsene - arsenic  
-arte - art (skilful creative activity)  
 Artike - Arctic  
 Artiki Hai - Arctic Ocean  
 artiste - artist  
@@ -221,7 +214,7 @@ astronomer - astronomer
 astronomia - astronomy  
 ata* - sugar-apple (sweetsop)  
 ate - act (deed)  
-ater - agent (doer, actor)  
+ateja - doer (agent, actor, activist)  
 Atina - Athens  
 ation - action  
 ativa - activate (enable, turn on, trigger)  
@@ -282,9 +275,8 @@ banan - banana
 bande - band (squad, group)  
 bandir - flag (banner)  
 bangem - board game  
-bangli - Bengali (Bangla)  
-Banglodesh - Bangladesh  
-banglodeshi - Bangladeshi  
+bangla basha - Bengali language (Bangla)  
+Bangladesh - Bangladesh  
 banka - save (deposit, bank)  
 banke - bank (depository, cache)  
 banker - banker  
@@ -309,8 +301,7 @@ Barte Hai - Indian Ocean
 Bartia - India  
 barude - gunpowder  
 basen - pool (basin, bowl)  
-basha - speak (communicate)  
-basha - language (communication)  
+basha - speak (talk, language, communication)  
 basha kanun - grammar  
 basha kanun li - grammatical  
 bashalogi - linguistics  
@@ -375,23 +366,26 @@ beton - concrete (material with cement)
 beyu - undergo (passivizing verb)  
 bibli - Biblical  
 biblia - Bible  
+bil - possible (able, can, maybe)  
 bil - bill (invoice)  
+bilja - capable (talent, skillful)  
 bilor - crystal  
+bilta - ability  
 bin - building (structure)  
 bina - build (construct)  
 binde - dot (spot)  
 binplaner - architect  
 binplania - architecture  
-biologi - biology (study of organic life)  
+bio - life (organic)  
 bio tokse - toxin  
+bio vute - organism (living thing)  
+biologi - biology (study of organic life)  
 bir - beer  
 birkan - bar (pub, beer house)  
 bis - genderqueer (non-binary)  
 Bisau Ginia - Guinea-Bissau  
 biskute - biscuit (cookie)  
 bismute - bismuth  
-biye - organism (organic life)  
-biyi - organic  
 biyi jinse - biological sex  
 biyochaniver - compost  
 biyomuti - fermented  
@@ -454,12 +448,12 @@ bucha - butcher
 bucher - butcher  
 buchokan - abattoir (slaughterhouse)  
 buda - realize  
+Buda - Buddha  
+Buda din - Buddhism  
+Buda din ja - Buddhist  
 Budapeshte - Budapest  
-Bude - Buddha  
-bude - realization (awareness, enlightenment, bodhi)  
+budi - realization (awareness, enlightenment, bodhi)  
 budi - aware (enlightened)  
-budiste - Buddhist  
-budistia - Buddhism  
 bufete - buffet (smorgasbord)  
 bufon - fool (buffoon)  
 buge - bugle (horn instrument)  
@@ -658,9 +652,9 @@ deki - moral
 dekolojia - ethics  
 demo - people (population)  
 demo grafi - demography  
-demo krati - democracy  
 demo krati li - democratic  
 demo li - public  
+demokrati - democracy  
 demokratiste - democrati  
 demomultia - population  
 demon - demon  
@@ -672,29 +666,29 @@ des du me mes - December
 des me lun - October  
 des un me lun - November  
 desen - drawing (design)  
-desh - country (land, state)  
-deshojan - citizen  
+desha - country (land, state)  
+deshajan - citizen  
 deskile - ten thousand  
 detal - detail  
 deu - god (deity)  
-deukratia - theocracy  
-deulojia - theology  
+deu din - theism  
+deu din ja - theist  
+deu krati - theocracy  
+deu li - divine (godly)  
+deu logi - theology  
+deu saga - myth (divine story)  
+deu sofi - theosophy  
 deunagri harfe - Devanagari alphabet  
-deusage - myth (divine story)  
-deusofia - theosophy  
-devi - divine (godly)  
-deviste - theist  
-devistia - theism  
 di - 's (attributive postposition)  
 dika - aim (point)  
 dike - target (aim, objective)  
 din - religion (worship)  
+din guru - priest (cleric)  
+din ja - believer (religious person)  
+din li - religious  
 dinamite - dynamite  
 dinde - turkey  
 ding - nail (spike)  
-dinguru* - priest (cleric)  
-dini - religious  
-diniste - believer (religious person)  
 Dione - Dione  
 diorite - diorite  
 dish - direction  
@@ -833,9 +827,7 @@ englomargarite - English daisy
 eni - any (no matter which)  
 enjener - engineer  
 enzim - enzyme  
-er - doer (agent, actor)  
 erbium - erbium  
-eria - field (art, workforce)  
 Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
 esei - essay  
@@ -953,6 +945,7 @@ favor - favor (goodwill)
 faze - stage (phase)  
 febre - fiever  
 fei - flight  
+fei gi - airplane  
 feimush - bat (flying mammal)  
 fem - female  
 femi pute - daughter  
@@ -991,7 +984,7 @@ filsofi - philosophic
 filsofia - philosophy  
 filter - filter  
 fin - end (ending)  
-fina - finish (put an end to)  
+fin - finish (complete, end)  
 fini - ended (finished)  
 finiti - finished  
 fino - already (completed action)  
@@ -1077,14 +1070,11 @@ fute shake - leg
 futoban - scaffolding (gangplank)  
 ####G - G  
 Gabon - Gabon  
-gabra - bury  
-gabre - grave (tomb)  
-gabristan - graveyard (cemetery, burial ground)  
-gabrosheke - tombstone (gravestone)  
-gade - donkey (ass)  
-gadogude - mule  
+gabur - grave (tomb, bury)  
+gabur istan - graveyard (cemetery, burial ground)  
+gabur sheke - tombstone (gravestone)  
 gadolinium - gadolinium  
-gaje - elephant  
+gaja - elephant  
 galaksia - galaxy  
 galeria - gallery (exhibition hall)  
 Galia - Gaul  
@@ -1181,6 +1171,9 @@ geyopolitike - geopolitics
 geyosisme - earthquake  
 geyotermi - geothermal  
 geyotike - lot (plot of land)  
+gi - machine (device, aparatus)  
+giau - teach (educate, instruct, doctrine, -ism)  
+giauja - teacher (instructor)  
 gida - guide (lead, show the way)  
 gider - guide  
 gidobuke - guide book  
@@ -1242,7 +1235,7 @@ gun - army
 gunjan - soldier  
 gunrajer - generalissimo (shogun)  
 gunrajia - shogunate  
-guru - guru (teacher)  
+guru - guru (teacher, sage)  
 gusta - taste (sense flavor)  
 guste - taste (flavor)  
 gustu ko - taste like  
@@ -1330,6 +1323,7 @@ helisviman - helicopter
 helium - helium  
 helpa - help (assist)  
 helpe - help (aid, assistance)  
+helpeja - helper (supporter, proponent, backer)  
 Helsinki - Helsinki  
 hem - hmm  
 hema - ponder (think, contemplate, consider, regard)  
@@ -1342,31 +1336,29 @@ hesium - hassium
 hibride - hybrid (mongrel)  
 hidrargente - mercury (quicksilver)  
 hidre - hydrogen  
-hijabe - veil (cover, screen)  
+hijabu - veil (cover, screen)  
+hima - snow  
+hima rose - frost  
 Himalia - Himalayas  
-hime - snow  
-himros - frost  
-himu - snow (be snowing)  
-Hinde riu - Indus river  
-hindi - Hindi (Hindustani)  
-Hindia - Hindustan  
-hindistani - Hindustani language  
-hindiste - Hindu  
-hindistia - Hinduism  
 hindium - indium  
-Hiperyon - Hyperion  
+Hindu - Hindu  
+Hindu basha - Hindi (Hindustani)  
+Hindu desh - Hindustan  
+Hindu din - Hinduism  
+Hindu riu - Indus river  
+Hiperion - Hyperion  
 hisaba - calculate  
-hisabe - calculation  
 hisabia - arithmetics  
 hisabolojer - mathematician  
 hisabolojia - mathematics (math)  
-histor - history (annals)  
-historer - historian  
+hisabu - calculation  
+histori - history (annals)  
+histori ja - historian  
 historia - history (study of history)  
 hiyar - cucumber  
 Ho chi Min site - Ho Chi Minh City (Saigon)  
-hobe - hobby  
-hobiste - hobbyist  
+hobi - hobby  
+hobi ja - hobbyist  
 hoga - burn (cause to burn)  
 hoge - fire (burning)  
 hogi - fiery  
@@ -1396,7 +1388,7 @@ hua mosim - spring (springtime)
 hua pote - flowerpot  
 hui - ash (ashes)  
 huidarte - podzol  
-huirangi - grey (gray, ashy)  
+huirang - grey (gray, ashy)  
 huke - hook  
 hukokrus - swastika (hooked cross)  
 hulei - fox  
@@ -1420,6 +1412,8 @@ idiote - idiot
 idioti - stupid (idiotic)  
 idiotia - idiocy (stupidity)  
 ifrite - ifrit  
+iha - donkey (ass)  
+iha uma - mule  
 iki - -ic (a person or thing with specific character)  
 impera - reign (rule as an emperor)  
 imperer - emperor  
@@ -1469,26 +1463,22 @@ iridium - iridium
 ironi - ironic  
 ironia - irony  
 islam - submission (surrender)  
+islam din - Islam  
+islam din jan - muslim (moslem)  
+islam din sharia - shari'a  
 islamfobia - islamophobia  
-islamiste - muslim (moslem)  
-islamisti - Islamic  
-islamisti sharia - shari'a  
-islamistia - Islam  
 islamu - surrender (submit, yield)  
 Islandia - Iceland  
 Israel - Israel  
 istan - tract (land, ground, region)  
-iste - proponent (supporter, activist, -ist)  
-istia - ism (doctrine, ideology, religion, etc)  
 Italia - Italy  
 ite - object (patient, target)  
 itis - inflammation (-itis)  
-iva - tend to  
-ivia - tendency (inclination)  
 iyon - ion  
 iyoni radi - radioactive  
 iyoni radia - radioactivity (ionizing radiation)  
 ####J - J  
+ja - doer (agent, actor)  
 jaga - wake (make awake)  
 jagi - awake  
 jagu - wake (become awake)  
@@ -1502,7 +1492,7 @@ jamia - collection (congregation, assembly)
 jamkarde - trading card  
 jampa - jump  
 jamul - jamul (jambul, rose apple)  
-jan - person (individual)  
+jan - person (individual, -ist, -er)  
 janel - window  
 janelfrem - window frame  
 janger - artisan (craftsman)  
@@ -1641,7 +1631,7 @@ kamper - camper
 kampistan - campground  
 kamri - Welsh  
 Kamria - Wales (Cambria)  
-kan - shop (store or workshop)  
+kan - shop (building, house, place)  
 Kanada - Canada  
 kanal - channel  
 kanala - channel (conduct)  
@@ -1720,6 +1710,10 @@ kayi - open (not closed)
 kayu - become open  
 Kazakia - Kazakhstan  
 ke - what?  
+ke jan - who?  
+ke sate - when?  
+ke shei - what thing?  
+ke yang - what kind of?  
 kechape - ketchup  
 kechi - polite  
 kega - visit  
@@ -1745,11 +1739,6 @@ kesh - hair
 keshbende - hairband (headband)  
 keshosabun - shampoo  
 ketle - kettle  
-ki - which?  
-ki jan - who?  
-ki sate - when?  
-ki shei - what thing?  
-ki yangi - what kind of?  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
 kim - substance (physical material from which something is made)  
@@ -1777,13 +1766,12 @@ kirili harfia - Cyrillic alphabet
 kirodona - rent out (let, lease)  
 kirogeta - rent (charter, lease)  
 kita - go (move away)  
-kitaba - write  
-kitabe - writing (text)  
-kitabia - literature (body of written works)  
 kitaboforme - formatting  
-kitabokan - library  
-kitabomashin - typewriter  
-kitabominister - librarian  
+kitabu - write (text)  
+kitabu gi - typewriter  
+kitabu kan - library  
+kitabu minister - librarian  
+kitabu shutu - literature  
 kitana - remove (take away)  
 kiti - gone (away)  
 kivi* - kiwi fruit  
@@ -1797,6 +1785,7 @@ klika - click (snap)
 klim - climate  
 klimlojia - climatology  
 klimmute - climate change  
+klin - slope (tilt, slant, bias, inclination, tendency)  
 klon - clone (replica)  
 klona - clone (replicate)  
 klore - chlorine  
@@ -1888,7 +1877,7 @@ Kote Da Ivar - Côte d’Ivoire (Ivory Coast)
 krabe - crab  
 krake - crack (rift)  
 kran - valve (tap, faucet)  
-kratia - rule (reign)  
+krati - rule (reign, government, -ocracy, -archy)  
 krem - cream  
 kremi - creamy (cream colored)  
 krepe - pancake  
@@ -1896,11 +1885,6 @@ krepokan - pancake house (crêperie)
 krevete - shrimp (prawn)  
 krim - crime  
 krimi - criminal  
-kriste - Christ (messiah)  
-kristi - messianic  
-krististe - Christian  
-krististia - Christianity  
-kristojen - Christmas  
 krita - cry (shout)  
 kriton - krypton  
 krize - crisis  
@@ -2065,6 +2049,7 @@ logaslia - etymology
 loge - speech (talk, words)  
 logem - word (lexeme)  
 logi - spoken (lexical)  
+logi - study (research, science, -ology)  
 logia - vocabulary (lexicon)  
 logike - logic (deduction)  
 logiki - logical  
@@ -2073,8 +2058,6 @@ logivi - talkative
 logofiler - logophile (word buff)  
 logofilia - logophilia  
 logoliste - dictionary (word list)  
-loja - research (to study)  
-logi - science (study, research)  
 loka - put (place, set)  
 loke - place (location)  
 loki - local  
@@ -2207,7 +2190,6 @@ mashim (mashimo) - most (maximally)
 mashima - maximize  
 mashime - maximum  
 mashimi - maximal  
-mashin - machine  
 masho - also (too)  
 mashori - major (not minor)  
 mashoria - majority  
@@ -2272,6 +2254,11 @@ merante - lauan tree (meranti, balau)
 Merkur - Mercury  
 Meshiko - Mexico  
 Meshiko site - Mexico City  
+mesi - Christ (messiah)  
+mesi din - Christianity  
+mesi din ja - Christian  
+mesi jen - Christmas  
+mesi li - messianic  
 mesta - master (be an expert at sth)  
 mester - master (expert)  
 metal - metal  
@@ -2279,10 +2266,10 @@ metalbede - anvil
 metaljanger - blacksmith (iron forger)  
 metallin - wire  
 metode - method (means)  
-metra - measure (take measurements)  
-metre - measurement  
-metrograf - map (chart)  
-metrografia - cartography  
+metre - measure (measurement)  
+metre gi - meter (measuring device)  
+metregraf - map (chart)  
+metregrafia - cartography  
 metrun - unit (measurement)  
 meze - table  
 mezistan - plateau (tableland)  
@@ -2295,8 +2282,8 @@ migre - migration (moving)
 migru - move (migrate, relocate oneself)  
 mikri - tiny (microscopic)  
 mikro* - micro-  
-mikrobiu - microorganism (microbe)  
 mikrobiologi - microbiology  
+mikrobiu - microorganism (microbe)  
 Mikronesia - Micronesia  
 mikroskope - microscope  
 mili* - milli-  
@@ -2414,8 +2401,7 @@ murche - ant
 Muritania - Mauritania  
 murkaguje - wallpaper  
 mus - coercion  
-musa - coerce (force, compel)  
-mush - mouse  
+mushu - mouse or rat  
 muskete - musket  
 musketer - musketeer  
 muskul - muscle  
@@ -2722,11 +2708,11 @@ pashi - painful
 pashia - suffering  
 pashu - suffer (get hurt)  
 pasi - past (bygone)  
-pasivi - passive (inactive)  
 paskal - pascal (Pa)  
 paske - Easter  
 pasloge - password  
 pasporte - passport  
+pastabi - passive (inactive)  
 paste - paste (dough)  
 pastopetre - magma  
 patate - potato  
@@ -2734,8 +2720,8 @@ pate - disease
 pati - ill (sick)  
 pati - illness (sickness)  
 patike - patient (subject of medical treatment)  
-patojener - pathogen  
 patilogi - pathology  
+patojener - pathogen  
 patomis - infection (infestation, contagion)  
 patomisa - infect  
 pau - gun (firearm)  
@@ -2962,12 +2948,11 @@ ramazan - Ramadan
 rampe - ramp (incline, slope)  
 randa - smoothen with a plane  
 rande - plane (tool for making a smooth surface)  
-rang - color  
+rang - color (colored)  
+rang kanche - stained glass  
+rang mate - dye  
 rangarke - rainbow  
-rangarkosalmon - rainbow trout  
-rangi - colored  
-rangi kanche - stained glass  
-rangomate - dye  
+rangarke salmon - rainbow trout  
 rapidi - fast (quick, rapid, speedy)  
 rapidia - speed (velocity)  
 rapidometrer - speedometer  
@@ -3069,11 +3054,11 @@ roze - rose
 rozorangi - pink (rosy)  
 rozosalmon - pink salmon  
 rubidium - rubidium  
-ruhu - soul (mind, psyche)  
 ruhi - mental (psychic)  
-ruhulogi - psychology  
 ruhmisha - confuse (perplex, bewilder, baffle)  
 ruhmishi - confused (perplexed, disoriented, bewildered)  
+ruhu - soul (mind, psyche)  
+ruhulogi - psychology  
 ruke - back  
 rukosake - backpack (rucksack)  
 rul - roll (scroll, coil)  
@@ -3082,9 +3067,9 @@ rum - rum
 Rundi - Burundi  
 rupe - appearance (looks)  
 rupu - seem  
-rusi - Russian  
-rusi krepe - blini  
 Rusia - Russia  
+rusia basha - Russian language  
+rusia krepe - blini  
 rute - route (path, trail, course, itinerary)  
 rutenium - ruthenium  
 ruterfordium - rutherfordium  
@@ -3141,12 +3126,11 @@ salsafia - hygiene (cleanliness)
 salte - salt  
 salti - salty (saline)  
 Salvador - El Salvador  
+sam - same (equal, alike, match)  
 samarium - samarium  
 samdeshi - compatriot  
 samemos - compassion (sympathy)  
-sami - same (equal, match)  
-sammetri - symmetrical  
-sammetria - symmetry  
+sammetre - symmetry (symmetrical)  
 samnam - homonym  
 Samoa - Samoa  
 samraya - agree (concur)  
@@ -3263,8 +3247,7 @@ shatani - devilish (satanic)
 shataniste - Satanist  
 shatanistia - Satanism (devil worship)  
 shatranje - chess  
-shau - little (few, not many)  
-shauta - scarcity  
+shau - little (few, not many, scarcity)  
 shava - rain (precipitation)  
 shava chate - umbrella  
 shava kote - raincoat  
@@ -3309,9 +3292,8 @@ shoper - buyer
 shoti - hundred (100)  
 shou - show (display, exhibition)  
 shula - learn (study)  
-shulana - teach (educate, instruct)  
 shule - lesson (teaching)  
-shule guru - teacher  
+shule guru - schoolteacher  
 shuler - student (pupil, learner)  
 shuli - repair (fix)  
 shuli - repair (fix, mend)  
@@ -3327,8 +3309,8 @@ shuru - begin (get started)
 shusha - silence (make silent)  
 shushi - silent  
 shusho - hush (shh)  
-shute - skill (art, craft)  
-shuti - skillful (crafty)  
+shutu - skill (art, craft)  
+shututabi - skillful (crafty)  
 siani - cyan  
 Sibiria - Siberia  
 siborgium - seaborgium  
@@ -3471,9 +3453,10 @@ sultania - sultanate
 sultia - power (authority, rule)  
 sum - sum (total)  
 suma - sum up (add together)  
+sundar - beautiful (handsome, pretty)  
+sundar shutu - fine arts  
 sundardaka - decorate (embellish)  
 sundardake - decoration (ornament)  
-sundari - beautiful (handsome, pretty)  
 sundaria - beauty  
 suno - soon  
 suomi - Finnish  
@@ -3494,8 +3477,8 @@ suta - sew
 sutur - suture (seam)  
 suyi - watery  
 ####T - T  
-ta - quality (-ness)  
 tabake - tobacco  
+tabi - nature (disposition, essence, character, -ive, -ness, -ity)  
 tabla date - tabulate  
 table - slab (slate, tablet, board)  
 tablokomputer - tablette computer  
@@ -3546,14 +3529,13 @@ tehnekrati - technocracy
 tehnelogi - technology (study of techniques)  
 teknium - technetium  
 tele - distance (far away)  
+tele - far (distance, length)  
 telefon - telephone  
+teleloku - teleport  
+teleskope - telescope  
 telfona - call on the phone  
 telfonia - telephony  
 telfonlin - telephone line  
-tele - far (distant)  
-teleta - distance (length)  
-teleloku - teleport  
-teleskope - telescope  
 telugi - Telugu  
 telurium - tellurium  
 telvide - television  
@@ -3577,8 +3559,8 @@ tera* - tera-
 terbium - terbium  
 tercha - tilt (skew)  
 terchi - oblique (askew, tilted)  
-terme - temperature  
-termometrer - thermometer  
+termo - temperature  
+termometre gi - thermometer  
 teror - terror  
 teroriste - terrorist  
 teroristia - terrorism  
@@ -3718,6 +3700,7 @@ user name - username
 Uzbekia - Uzbekistan  
 va - to (toward, till, until, for)  
 va - wow! (gee!)  
+vacin - vaccine  
 vade - valley  
 vadosusan - lily of the valley  
 vaf - dog  
@@ -3725,7 +3708,6 @@ vagine - vagina
 vaginitis - vaginitis  
 vakil - representative (proxy, agent)  
 vakila - represent  
-vaksin - vaccine  
 val - value (worth)  
 vala - value (evaluate)  
 Valis e Futuna nesia - Wallis and Futuna Islands  
@@ -3797,7 +3779,6 @@ vijin - MSG (monosodium glutamate)
 vike - wiki article  
 vikia - wiki  
 vildi - wild (savage)  
-viman - airplane  
 vimankaper - plane hijacker  
 vin - wine  
 ving - wing  
@@ -3836,7 +3817,7 @@ vota - vote (cast a vote)
 vote - vote (ballot)  
 votohake - franchise (right to vote)  
 vulve - vulva  
-vute - object (item)  
+vute - object (item, thing)  
 ####X - X  
 xenon - xenon  
 ya - he or she or it  
@@ -3875,25 +3856,25 @@ yavi - needy (lacking)
 ye - yes  
 ye - this  
 yehudi - Jewish  
-yehudistia - Judaism  
+yehudi din - Judaism  
 yei - yay! (yeah!)  
 Yemen - Yemen  
-Yesus - Jesus  
+Yesu - Jesus  
+Yesu mesi - Jesus Christ  
 yeze - coconut tree  
 yi - this  
 yodem - iodine  
-yoga - do yoga  
-yoge - yoga  
-yogiste - yogi  
-yohani feste - Saint John's Day  
+yoga - yoga  
+yoga ja - yogi  
+Yohan festa - Saint John's Day  
 yoke - yoke  
 yom - day (24 hours)  
 yomchete - week  
 yongopetre - lava  
 yongosaha - smelt  
 yongu - melt (be liquified)  
-yorubi - Yoruba (language and people)  
-yota* - yotta-  
+Yoruba - Yoruba (language and people)  
+yota - yotta-  
 yote - drop (droplet)  
 yumor - humor  
 yumori - humorous (comical, funny)  
@@ -3902,19 +3883,19 @@ yuterbium - ytterbium
 yutrium - yttrium  
 ####Z - Z  
 zai - present (here, now, current situation)  
-zaideno - today  
+zai den - today  
+zai zam - present time (now)  
+zai zam di - current (contemporary, present-day)  
 zaitun - olive  
-zaizam - present time (now)  
-zaizami - current (contemporary, present-day)  
-zalimi - mean (cruel)  
-zalimi rajer - tyrant (despot)  
-zalimia - cruelty (tyranny, despotism)  
+zalim - mean (cruel)  
+zalim raja - tyrant (despot)  
+zalimta - cruelty (tyranny, despotism)  
 zam - time  
 Zambia - Zambia  
 zar - hazard (chance)  
 Zardush - Zoroaster  
-zardushiste - Zoroastrian  
-zardushistia - Zoroastrianism  
+Zardush din - Zoroastrianism  
+Zardush din ja - Zoroastrian  
 zari - random  
 zarkube - die (dice)  
 zaya - summon (add, spawn)  
@@ -3951,9 +3932,9 @@ zongominte - spearmint
 zou - animal  
 zou agria - animal husbandry  
 zou filia - zoophily  
-zou geo grafia - zoogeography  
-zou loje - zoology  
-zou loje de - zoological  
+zou geo grafi - zoogeography  
+zou logi - zoology  
+zou logi di - zoological  
 zou parke - zoo (zoological garden)  
 zou toxe - zootoxin  
 zukam - cold (illness)  
@@ -3962,6 +3943,7 @@ zuki - ethnic
 zukomedi - interethnic  
 Zulu - Zulu  
 zumurude - emerald  
+ - snow (be snowing)  
  - valid (workable)  
  - knowledge  
  - known  

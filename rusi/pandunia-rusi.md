@@ -1,7 +1,8 @@
 # pandunia-rusi
 ####A - A  
 abete - пихта  
-abli - возможный  
+acente - ударение  
+aces - доступ  
 achi - чихать  
 adali - справедливый  
 adalia - справедливость  
@@ -25,8 +26,6 @@ aiskrem - мороженое
 ajili - подвижный  
 akare - клещ (лепта)  
 akse - ось  
-aksente - ударение  
-akses - доступ  
 aksesabli - доступный  
 ala - изменять  
 alge - водоросли  
@@ -71,7 +70,6 @@ arker - лучник
 aroma - понюхать  
 arome - запах (аромат)  
 aromu - пахнуть  
-arte - искусство  
 artiste - художник (артист)  
 asan - поза  
 asar - эффект  
@@ -85,7 +83,7 @@ astronaver - астронавт
 astronomer - астроном  
 astronomia - астрономия  
 ate - действие (акт)  
-ater - деятель  
+ateja - agente  
 Atina - Афины  
 ation - действие (акция)  
 ativi - активный (деятельный)  
@@ -150,16 +148,17 @@ berande - балкон
 bere - ягода  
 berje - берёза  
 bete - свёкла  
+bil - возможный  
 bil - счёт  
 bilor - кристалл  
 bina - строить  
 binplaner - архитектор  
 binplania - архитектура  
-biologi - биология  
+bio - органический  
 bio tokse - токсин  
+bio vute - организм  
+biologi - биология  
 bir - пиво  
-biye - организм  
-biyi - органический  
 biyi jinse - биологический пол  
 biyochaniver - компост  
 biyomutu - заквасить  
@@ -185,7 +184,7 @@ bruni - коричневый
 brunsalmon - кумжа  
 bucher - мясник  
 buchokan - бойня  
-Bude - Будда  
+Buda - Будда  
 bufete - буфет  
 buke - книга  
 bum - взрыв  
@@ -245,14 +244,14 @@ defban - щит
 defkaske - доспехи  
 den - день  
 deu - бог  
+deu sofi - теософия  
 deunagri harfe - деванагари  
-deusofia - теософия  
 dika - целиться  
 dike - цель  
 din - религия (вера)  
+din ja - верующий  
 dinamite - динамит  
 dinde - индюк  
-diniste - верующий  
 diorite - диорит  
 diske - диск  
 dobe - кирпич  
@@ -366,11 +365,9 @@ funge frute - гриб
 fute bol - футбол  
 fute marke - след ноги  
 ####G - G  
-gabra - хоронить  
-gabre - могила (гроб)  
-gabristan - кладбище  
-gabrosheke - надгробие  
-gadogude - мул  
+gabur - могила (гроб, хоронить)  
+gabur istan - кладбище  
+gabur sheke - надгробие  
 galaksia - галактика  
 Galia - Галлия  
 galope - кентер и галоп  
@@ -392,6 +389,7 @@ geyometria - геометрия
 geyonichi prizon - ублиет (подземная тюрьма)  
 geyopolitike - геополитика  
 geyotermi - геотерма́льный  
+giau - учить (преподавать)  
 gider - гид  
 gidobuke - путеводитель  
 gitar - гитара  
@@ -449,9 +447,9 @@ hem - хм
 hema - думать  
 hemah - палатка (шатёр)  
 Hesia - Гессен  
-hijabe - вуаль  
-Hinde riu - Инд  
-Hindia - Индостан  
+hijabu - вуаль  
+Hindu desh - Индостан  
+Hindu riu - Инд  
 hisaba - вычислять  
 hisabolojia - математика  
 hiyar - огурец  
@@ -473,6 +471,7 @@ hukokrus - свастика
 hulei - лиса  
 huri - свободный (вольный)  
 ####I - I  
+iha uma - мул  
 inan - контейнер  
 inklusa - включить  
 inmigra - иммигрировать  
@@ -487,9 +486,8 @@ inshala - надеяться (чаять)
 insida - сесть на корточки  
 introversi - интроверт  
 ironia - ирония  
-islamistia - ислам (мусульманство)  
+islam din - ислам (мусульманство)  
 itis - воспаление  
-ivia - тенденция  
 ####J - J  
 jagi - acordado  
 jagu - проснуться  
@@ -590,16 +588,16 @@ kinu - двигаться
 kire - аренда  
 kirogeta - арендовать  
 kita - идти  
-kitaba - писать  
-kitabe - письмо  
-kitabia - литература (словесность)  
-kitabokan - библиотека  
-kitabomashin - пишущая машинка  
-kitabominister - библиотекарь  
+kitabu - письмо  
+kitabu gi - пишущая машинка  
+kitabu kan - библиотека  
+kitabu minister - библиотекарь  
+kitabu shutu - литература (словесность)  
 kivi* - киви  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimmute - изменение климата  
+klin - тенденция (склонить)  
 ko? - как  
 komputer - компьютер  
 konboni - соответствовать (сочетаться)  
@@ -762,15 +760,15 @@ memnote - меморандум
 Merkur - Меркурий  
 mester - мастер  
 metalbede - наковальня  
-metrograf - карта  
-metrografia - картография  
+metregraf - карта  
+metregrafia - картография  
 meze - стол  
 mezotesh - скатерть  
 mi - я  
 migre - миграция  
 migru - переезжать  
-mikrobiu - микроб  
 mikrobiologi - микробиология  
+mikrobiu - микроб  
 mikroskope - микроскоп  
 milke - молоко  
 milkokardon - расторопша пятнистая  
@@ -804,6 +802,7 @@ mummelon - восковая тыква (зимняя дыня)
 mur - стена (вал)  
 murche - муравей  
 murkaguje - обои  
+mushu - мышь  
 muskulbin - культуризм  
 muzike - музика  
 ####N - N  
@@ -897,8 +896,8 @@ pashi - болезненный
 pasloge - пароль  
 pasporte - паспорт  
 patike - пациент (больной)  
-patojener - патоген  
 patilogi - патология  
+patojener - патоген  
 patomis - инфекция (заразная болезнь)  
 pau - пистолет  
 pauze - пауза  
@@ -973,7 +972,7 @@ putavoranje - грейпфрут
 ####R - R  
 rai - мнение  
 rangarke - радуга  
-rangarkosalmon - микижа (камчатская сёмга)  
+rangarke salmon - микижа (камчатская сёмга)  
 rapidi - быстрый  
 rari - редкий (разбро́санный)  
 ras - раса  
@@ -1007,9 +1006,9 @@ rotolefto - против часовой стрелки
 rototope - волчок  
 roze - роза  
 rozosalmon - горбуша  
-ruhu - душа (дух)  
 ruhmisha - озадачить  
 ruhmishi - растерянный (озадаченный)  
+ruhu - душа (дух)  
 rukosake - рюкзак  
 rutogalta - отходить (скитаться)  
 ####S - S  
@@ -1022,8 +1021,7 @@ salamia - благосостояние
 salsafia - гигиена  
 salte - соль  
 samemos - сострадание  
-sammetri - симметричный  
-sammetria - симметрия  
+sammetre - симметрия  
 samrayia - согласие  
 samsifia - симуляция  
 sanduiche - сандвич  
@@ -1089,7 +1087,6 @@ shopa - покупать (купить)
 shope - покупка (шоппинг)  
 shoti - сто  
 shula - учиться  
-shulana - учить (преподавать)  
 shule - урок (учение)  
 shule guru - учитель  
 shuli - починка (ремонт)  
@@ -1100,6 +1097,7 @@ shulkan - школа
 shulshef - директор (ректор)  
 shur - начало  
 shushi - тихий  
+shutu - искусство  
 siani - циан  
 siborgium - сиборгий  
 sida - сидеть  
@@ -1152,12 +1150,13 @@ sukarbete - сахарная свёкла
 sukarchau - сахарный тростник  
 sukaroranje - апельсин  
 suki - счастливый (радостный)  
+sundar - красивый  
 sundardaka - украсить  
 sundardake - украшение  
-sundari - красивый  
 sundaria - красота  
 susan - лилия  
 ####T - T  
+tabi - природа (естество, характер)  
 table - плита  
 tablokomputer - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
@@ -1173,11 +1172,11 @@ tazi - свежий
 tehne - техника  
 tehnelogi - технология  
 telefon - телефон  
+teleloku - телепортировать  
+teleskope - телескоп  
 telfona - звонить  
 telfonia - телефония  
 telfonlin - телефонная линия  
-teleloku - телепортировать  
-teleskope - телескоп  
 telvide - телевизор  
 tem - тема  
 temnam - название (пьесы, заголовок)  
@@ -1287,19 +1286,20 @@ yaushinablia - верность
 yavan - нужный  
 ye - да  
 Yemen - Йемен  
-Yesus - Иисус  
+Yesu - Иисус  
+Yesu mesi - Иисус Христос  
 yodem - йод  
-yoge - йога  
-yohani feste - Иванов день  
+yoga - йога  
+Yohan festa - Иванов день  
 yoke - ярмо (иго)  
 yom - сутки  
 yumor - юмор  
 ####Z - Z  
-zaizami - actual  
-zalimi rajer - тиран (деспот)  
+zai zam di - actual  
+zalim raja - тиран (деспот)  
 Zambia - Замбия  
 Zardush - Зороастр  
-zardushiste - зороастризм  
+Zardush din ja - зороастризм  
 zarkube - кость (кубик)  
 zebre - зебра  
 zeyil - бородавка  
@@ -1315,8 +1315,8 @@ zon - пояс (зона)
 zong - кол  
 zongominte - мята колоси́стая  
 zou - животное  
-zou loje - зоология  
-zou loje de - зоологический  
+zou logi - зоология  
+zou logi di - зоологический  
 zou parke - зоопарк  
 zuke - этнос  
 zuki - этнический  

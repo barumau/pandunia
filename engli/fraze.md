@@ -447,10 +447,10 @@ We know each other for a long time.
 **mi yau helpe.**
 I need help.
 
-**sual tu abla helpe mi?**
+**sual tu bil helpe mi?**
 Can you help me?
 
-**sual mi abla helpe tu?**
+**sual mi bil helpe tu?**
 Can I help you?
 
 **mi vol helpe tu.**
@@ -597,30 +597,30 @@ I didn't quite understand you.
 I don't understand at all.
 
 
-### abla <small>can</small>
+### bil <small>can</small>
 
-**mi abla shofe gar.**
+**mi bil shofe gar.**
 I can drive a car.
 
-**ya no abla shofe gar.**
+**ya no bil shofe gar.**
 He/she doesn't know how to drive a car.
 
-**sual tu abla reibona ya?**
+**sual tu bil reibona ya?**
 Do you know how to fix it?
 
-**sual tu abla pandunia?**
+**sual tu bil pandunia?**
 Can you speak Pandunia?
 
-**mi abla pandunia.**
+**mi bil pandunia.**
 I can speak Pandunia.
 
-**mi abla lilo pandunia.**
+**mi bil lilo pandunia.**
 I can speak a little Pandunia.
 
-**mi no abla english.**
+**mi no bil english.**
 I can't speak English.
 
-**maf. mi no abla tu di bax.**
+**maf. mi no bil tu di bax.**
 Sorry, I can't speak your language.
 
 
@@ -650,7 +650,7 @@ Cat says meow.
 **audi mi!**
 Listen to me!
 
-**mi no abla audi tu.**
+**mi no bil audi tu.**
 I can't hear you.
 
 **ching loga forto.**
@@ -710,7 +710,7 @@ Do you speak Pandunia?
 **mimen basha pandunia.**
 We speak Pandunia.
 
-**sual tu abla basha english?**
+**sual tu bil basha english?**
 Can you speak English?
 
 **france, espan, portugal, rus**
@@ -936,7 +936,7 @@ I will take a beer.
 **kire e 500 dolar a mes.**  
 The rent is 500 dollars in a month.
 
-**ya no abla pei le kire.**  
+**ya no bil pei le kire.**  
 He/she can't pay the rent.
 
 **mi vol kapa un gar a kire.**  

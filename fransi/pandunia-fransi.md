@@ -2,10 +2,8 @@
 ####A - A  
 a - mais (bien que)  
 abete - sapin  
-abla - pouvoir (être capable)  
-able - capacité (compétence)  
-abli - possible  
-ablo - peut-être  
+acente - accent  
+aces - accès  
 achi - éternuer (atchoum)  
 acinium - actinium  
 adali - juste  
@@ -50,9 +48,6 @@ ajabe - merveille
 ajili - agile  
 akare - acarien  
 akse - axe  
-aksente - accent  
-akses - accès  
-aksesa - accéder (accéder à qqch., entrer, entrer dans qqch, pénétrer, atteindre)  
 aksesabli - accessible (atteignable, à portée)  
 ala - changer  
 Alaska - Alaska  
@@ -153,7 +148,6 @@ aroma - sentir qqch
 arome - odeur  
 aromu - sentir qqch (avoir l'odeur de qqch)  
 arsene - arsenic  
-arte - art  
 Artike - arctique  
 Artiki Hai - océan Arctique  
 artiste - artiste  
@@ -179,7 +173,6 @@ astronaver - astronaute
 astronomer - astronome  
 astronomia - astronomie  
 ate - acte  
-ater - agent (faiseur)  
 Atina - Athènes  
 ation - action  
 ativa - activer (allumer, mettre en marche, déclencher)  
@@ -222,9 +215,8 @@ banan - banane
 bande - bande  
 bandir - drapeau  
 bangem - jeu de société  
-bangli - bengali  
-Banglodesh - Bangladesh  
-banglodeshi - bangladais  
+bangla basha - bengali  
+Bangladesh - Bangladesh  
 banke - banque  
 banker - banquier  
 banse - bambou  
@@ -274,14 +266,16 @@ berande - balcon
 bere - baie  
 berje - bouleau  
 bete - betterave  
+bil - pouvoir (possible, capacité, peut-être)  
 bilor - cristal  
+bilta - capacité (pouvoir, habileté)  
 bina - construire  
 binplaner - architecte  
 binplania - architecture  
-biologi - biologie  
 bio tokse - toxine  
+bio vute - organisme  
+biologi - biologie  
 bir - bière  
-biye - organisme  
 biyochaniver - compost  
 biyomutu - fermenter  
 biyosistem - biome  
@@ -304,7 +298,7 @@ brunsalmon - truite brune (truite de mer)
 bucha - abattre  
 bucher - boucher  
 buchokan - abattoir  
-Bude - Bouddha  
+Buda - Bouddha  
 buke - livre  
 bum - explosion  
 bute - botte  
@@ -362,14 +356,14 @@ defban - bouclire
 defkaske - armure  
 den - jour  
 deu - dieu  
+deu sofi - théosophie  
 deunagri harfe - dévanagari  
-deusofia - théosophie  
 dika - viser  
 dike - objectif (cible)  
 din - religion  
+din ja - croyant  
 dinamite - dynamite  
 dinde - dinde (dindon)  
-diniste - croyant  
 diorite - diorite  
 diske - disque  
 dobe - brique  
@@ -458,6 +452,7 @@ fenkata - analyser
 fenkate - analyse  
 feyu - voler  
 filsofia - philosophie  
+fin - finir  
 fini - fini  
 fiorde - fiord  
 fite - plante (végétal)  
@@ -487,11 +482,9 @@ funge nete - mycélium
 fute bol - football  
 fute marke - empreinte de pied  
 ####G - G  
-gabra - enterrer  
-gabre - tombe  
-gabristan - cimetière  
-gabrosheke - pierre tombale  
-gadogude - mule  
+gabur - tombe (enterrer)  
+gabur istan - cimetière  
+gabur sheke - pierre tombale  
 galaksia - galaxie  
 Galia - Gaule  
 galope - galop  
@@ -523,6 +516,7 @@ geyometria - géométrie
 geyonichi prizon - oubliette (cul de basse-fosse)  
 geyopolitike - géopolitique  
 geyotermi - géothermique  
+giau - enseigner  
 gida - guider  
 gider - guide  
 gidobuke - guide touristique  
@@ -580,10 +574,10 @@ hema - considérer
 hemah - tente  
 hen - haine  
 Hesia - Hesse  
-hijabe - voile  
-hime - neige  
-Hinde riu - Indus  
-Hindia - Hindustan  
+hijabu - voile  
+hima - neige  
+Hindu desh - Hindustan  
+Hindu riu - Indus  
 hisaba - calculer  
 hisabolojia - mathématiques  
 hiyar - concombre  
@@ -604,6 +598,7 @@ hukokrus - svastika (croix gammée)
 hulei - renard  
 huri - libre  
 ####I - I  
+iha uma - mule  
 inan - conteneur  
 inklusa - inclure  
 inklusivi - inclusif  
@@ -621,10 +616,8 @@ introversi - introverti
 intru - entrer  
 ironia - ironie  
 islam - soumission  
-islamistia - Islam  
+islam din - Islam  
 itis - inflammation  
-iva - avoir tendance à  
-ivia - tendance  
 ####J - J  
 jagi - éveillé  
 jamkarde - carte à collectionner  
@@ -717,9 +710,9 @@ katus - cactus
 kava - creuser  
 kave - fosse  
 ke - que (quoi)  
+ke jan - qui  
+ke sate - quand  
 kerne - coeur  
-ki jan - qui  
-ki sate - quand  
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
@@ -728,16 +721,16 @@ kina - mouvoir (bouger)
 Kinshasa - Kinshasa  
 kinu - se mouvoir  
 kita - aller (quitter)  
-kitaba - écrire  
-kitabe - écriture  
-kitabia - littérature  
-kitabokan - bibliothèque  
-kitabomashin - machine à écrire  
+kitabu - écrire  
+kitabu gi - machine à écrire  
+kitabu kan - bibliothèque  
+kitabu shutu - littérature  
 kiti - parti  
 kivi* - kiwi  
 klari - clair  
 klien - client  
 klimmute - changement climatique  
+klin - tendance  
 ko? - comment  
 komputer - ordinateur  
 konchung - insecte  
@@ -899,18 +892,19 @@ meme kesh - laine
 men - on  
 mening - méninge  
 Merkur - Mercure  
+mesi - Christ (messie)  
 mester - maître  
 metalbede - enclume  
 metallin - fil de fer  
-metrograf - carte  
-metrografia - cartographie  
+metregraf - carte  
+metregrafia - cartographie  
 meze - table  
 mezotesh - nappe  
 mi - je (me)  
 migre - migration  
 migru - s'installer (déménager)  
-mikrobiu - microbe  
 mikrobiologi - microbiologie  
+mikrobiu - microbe  
 mikroskope - microscope  
 milke - lait  
 milkokardon - chardon Marie  
@@ -942,6 +936,7 @@ mul - racine
 mur - mur  
 murche - fourmi  
 murkaguje - papier peint  
+mushu - souris  
 muskulbin - culturisme (musculation)  
 muzike - musique  
 ####N - N  
@@ -1039,8 +1034,8 @@ pasporte - passeport
 paste - pâte  
 pastopetre - magma  
 patike - patient  
-patojener - agent pathogène  
 patilogi - pathologie  
+patojener - agent pathogène  
 patomis - infection (contagion)  
 patomisa - infecter  
 pau - pistolet  
@@ -1120,10 +1115,10 @@ putavoranje - pamplemousse
 ####R - R  
 rai - avis (opinion)  
 rang - couleur  
+rang kanche - verre coloré  
+rang mate - colorant  
 rangarke - arc-en-ciel  
-rangarkosalmon - truite arc-en-ciel  
-rangi kanche - verre coloré  
-rangomate - colorant  
+rangarke salmon - truite arc-en-ciel  
 rapidi - vite (rapide)  
 rari - rare  
 ras - race  
@@ -1161,9 +1156,9 @@ rotolefto - dans le sens antihoraire
 rototope - toupie  
 roze - rose  
 rozosalmon - saumon rose  
+ruhmishi - perplexe (désorienté)  
 ruhu - psyché  
 ruhulogi - psychologie  
-ruhmishi - perplexe (désorienté)  
 ####S - S  
 sabi - savoir (connaître)  
 safariste - touriste  
@@ -1177,10 +1172,9 @@ salia - santé
 salmon - truite  
 salsafia - hygiène  
 salte - sel  
+sam - égal (même)  
 samemos - compassion  
-sami - égal (même)  
-sammetri - symétrique  
-sammetria - symétrie  
+sammetre - symétrie  
 samrayia - accord  
 samsifia - simulation  
 sanduiche - sandwich  
@@ -1236,7 +1230,6 @@ shopa - acheter
 shope - shopping  
 shoti - cent (100)  
 shula - apprendre (étudier)  
-shulana - enseigner  
 shule - leçon  
 shule guru - professeur (enseignant)  
 shuler - étudiant  
@@ -1248,6 +1241,7 @@ shulkamar - salle de classe
 shulkan - école (collège)  
 shulshef - directeur (principal)  
 shur - début (commencement)  
+shutu - art  
 si - son (sa)  
 sifloge - adjectif  
 sikle - bicyclette  
@@ -1299,11 +1293,10 @@ sukarchau - Canne à sucre
 sukaroranje - orange douce  
 suki - heureux  
 suku - se plaire  
-sundari - beau  
+sundar - beau  
 sundaria - beauté  
 susan - lys  
 ####T - T  
-ta - qualité (-ité)  
 tablokomputer - ordinateur tablette  
 tai - estrade  
 tail - carreau (tuile)  
@@ -1319,9 +1312,9 @@ tazi - frais
 tehne - technique  
 tehnelogi - technologie  
 telefon - téléphone  
+teleskope - télescope (lunette)  
 telfona - téléphoner  
 telfonlin - ligne téléphonique  
-teleskope - télescope (lunette)  
 telvide - téléviseur  
 tem - sujet (thème)  
 temnam - titre  
@@ -1428,7 +1421,8 @@ yaushina - fier
 yavan - nécessaire  
 yavi - nécessiteux (dans le besoin)  
 ye - oui  
-Yesus - Jésus  
+Yesu - Jésus  
+Yesu mesi - Jésus-Christ  
 yoke - joug  
 yongopetre - lave  
 yongosaha - fondu  
@@ -1436,8 +1430,8 @@ yongu - melt
 ####Z - Z  
 zam - temps  
 Zardush - Zoroastre  
-zardushiste - zoroastrien  
-zardushistia - zoroastrisme  
+Zardush din - zoroastrisme  
+Zardush din ja - zoroastrien  
 zarkube - dé  
 zayi - présent  
 zebre - zèbre  
@@ -1453,8 +1447,8 @@ zong - pieu (poteau)
 zongominte - menthe verte  
 zou - animal (bête)  
 zou agria - élevage  
-zou loje - zoologie  
-zou loje de - zoologique  
+zou logi - zoologie  
+zou logi di - zoologique  
 zou parke - zoo  
 zuke - ethnie  
 zuki - ethnique  

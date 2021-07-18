@@ -6,13 +6,13 @@ abeto - abete
 abobrinha - lilkaboge  
 abóbora (jerimun) - kaboge  
 acanto-bastardo - pinkardon  
-acento - aksente  
-acesso - akses  
+acento - acente  
+acesso - aces  
 aconselhar - sela  
 acordado - jagi  
 acordo (tratado, contrato) - trete  
 acordo - samrayia  
-actuel (courant) - zaizami  
+actuel (courant) - zai zam di  
 adesivo - glutograf  
 adjetivo - sifloge  
 administrador - politer  
@@ -23,7 +23,7 @@ aeróbico - airbivi
 Afeganistão - Afgania  
 afegão - afgani  
 agacharse - insida  
-agente - ater  
+agent (faiseur) - ateja  
 agressor - agreser  
 agrobiologia - agrobiologi  
 agronomia - agronomia  
@@ -81,7 +81,7 @@ arquiteto - binplaner
 arquitetura - binplania  
 arrastar - trata  
 arroz - ris  
-arte - arte  
+arte - shutu  
 artista - artiste  
 asma - asme  
 aspirina - aspirin  
@@ -135,10 +135,10 @@ bastante (suficiente) - basi
 baía - bai  
 bebê - bebe  
 beleza - sundaria  
-belo (lindo) - sundari  
+belo (lindo) - sundar  
 bem-estar - salamia  
 beringela - bedinje  
-biblioteca - kitabokan  
+biblioteca - kitabu kan  
 bigorna - metalbede  
 bilhete - tikete  
 bilíngue - dulbashi  
@@ -159,7 +159,7 @@ branco - baki
 bravo (valente, corajoso) - bravi  
 bravo! - bravo  
 braço - handoshake  
-Buda - Bude  
+Buda - Buda  
 bule - chaipote  
 buraco - kave  
 buscar (procurar) - soka  
@@ -201,8 +201,8 @@ carrapato (ácaros) - akare
 carregar -   
 carreira - peikari jiu  
 carta - karde  
-carta geográfica - metrograf  
-cartografia - metrografia  
+carta geográfica - metregraf  
+cartografia - metregrafia  
 Cartum - Hartum  
 carvalho - balute  
 carvalho-roble - europobalute  
@@ -213,7 +213,7 @@ cavar (escavar) - kava
 caçar - saida  
 cebola - piaze  
 cem (100) - shoti  
-cemitério - gabristan  
+cemitério - gabur istan  
 cenoura - karote  
 centro - jung  
 centáurea - centaure  
@@ -284,7 +284,7 @@ cosmo - kosmia
 cosmonauta - kosmonaver  
 costa - haitate  
 costume (hábito) - ade  
-crente - diniste  
+crente - din ja  
 crepe (panqueca) - krepe  
 crepe - France krepe  
 criança (menino) - bache  
@@ -369,12 +369,11 @@ encarar (afrontar; vérsus) - versu
 encontrar - mita  
 endereço - adres  
 enganar - truka  
-ensinar (lecionar) - shulana  
+ensinar (lecionar) - giau  
 ensino primário - bazoshulkan  
 ensino secundário - jungoshulkan  
 ensopar (encharcar, marinar) - purshipa  
 enteado - gamben  
-enterrar - gabra  
 entrar - intru  
 enxada - chope  
 equilíbrio - parvezia  
@@ -385,8 +384,7 @@ escama - shalke
 escavar - eshkava  
 escola (colégio) - shulkan  
 escovinha (centáurea) - nilchentaur  
-escrevere - kitaba  
-escrita - kitabe  
+escrevere - kitabu  
 escudo - defban  
 escudo - ostoshalke  
 escultor - eskulter  
@@ -513,6 +511,7 @@ gás - gas
 gás lacrimogéneo - okosuigas  
 gênero gramatical - bashi jinse  
 ####H - H  
+habilidade (capacidade) - bilta  
 haste (talo, caule) - tan  
 Hesse (Héssia) - Hesia  
 higiene - salsafia  
@@ -536,7 +535,7 @@ idade - sen
 idoso (sene) - seni  
 idoso - lavi  
 igual (par) - pari  
-igual - sami  
+igual - sam  
 imigrante - inmigran  
 imigrar - inmigra  
 imitar (mimetizar) - mima  
@@ -547,7 +546,7 @@ impressão digital - angulmarke
 incluindo - inkluso  
 incluir - inklusa  
 inclusivo - inklusivi  
-Indo - Hinde riu  
+Indo - Hindu riu  
 indígena (índio) - aslameriki  
 infectar (contagiar) - patomisa  
 infecção (contágio) - patomis  
@@ -562,7 +561,7 @@ invernal (hibernal) - lengomosimi
 inverno - leng mosim  
 ir - kita  
 ironia - ironia  
-islã - islamistia  
+islã - islam din  
 item - vute  
 ####J - J  
 jade - giuke  
@@ -573,6 +572,7 @@ Japão - Nipon
 jarra (jarro) - jar  
 Javé (Jeová) - Yahve  
 jengibre - zinje  
+Jesus Cristo - Yesu mesi  
 joelho - gute  
 jogo de tabuleiro - bangem  
 joule (J) - jul  
@@ -609,7 +609,7 @@ limão - limon
 lince - linche  
 linha (fio) - lin  
 lista - liste  
-literatura - kitabia  
+literatura - kitabu shutu  
 litro - litre  
 livre (forro) - huri  
 livro - buke  
@@ -624,7 +624,7 @@ luta - jihade
 luteranismo - martinluteristia  
 luterano - martinluteristi  
 luz - foto  
-lápide - gabrosheke  
+lápide - gabur sheke  
 lápis - kalam  
 lápis-lazúli - lazurpetre  
 lâmpada (luminária) - lampe  
@@ -719,7 +719,7 @@ mudar-se - migru
 multilíngue (plurilíngue) - polbashi  
 mundo - dunia  
 muro (muralha) - mur  
-máquina de escrever - kitabomashin  
+máquina de escrever - kitabu gi  
 mármore - kalsokristal  
 máscara - maske  
 máximo - mashime  
@@ -741,7 +741,7 @@ neologismo - neuloge
 Netuno - Neputun  
 neurotoxina - neurotokse  
 neurônio - neurochel  
-neve - hime  
+neve - hima  
 nicho - nish  
 ninho (vespiero) - nide  
 nivel - par  
@@ -784,7 +784,7 @@ opção - chuzable
 ordem - ratibe  
 orelha - or  
 orfanato - yatimdom  
-organismo - biye  
+organismo - bio vute  
 organizar - noma  
 origem - asle  
 original - asli  
@@ -881,7 +881,7 @@ porto - porte
 porto marítimo - haiporte  
 Porto Rico - Portorikia  
 porto-riquenho - portoriki  
-possível - abli  
+possível - bil  
 poste (estaca) - zong  
 posterior - postri  
 poucos - shau  
@@ -912,7 +912,7 @@ pântano - fantopia
 pão - pang  
 pícea (espruce) - pise  
 quadrinhos (banda desenhada) - grafsage  
-quando - ki sate  
+quando - ke sate  
 quarta-feira - tri me den  
 quarto (dormitório) - somkamar  
 quartzo - kuarze  
@@ -922,7 +922,7 @@ queijo - chize
 queijo fresco - panir  
 queimar - hoga  
 queimarse - hogu  
-quem - ki jan  
+quem - ke jan  
 querer (desejar) - volu  
 querido (caro) - ami  
 querido - amike  
@@ -941,6 +941,7 @@ raro - nadiri
 raro - rari  
 rasgar - chir  
 rasgar - chira  
+rato - mushu  
 raça - ras  
 raíz - mul  
 reciclar - resikle  
@@ -1014,7 +1015,7 @@ semente - seme
 seminal - semi  
 senador - senater  
 sentido - sense  
-sepultura (túmulo) - gabre  
+sepultura (túmulo, enterrar) - gabur  
 ser (estar) - e  
 ser humano - insan  
 serra - sere  
@@ -1023,9 +1024,8 @@ sexo - jinse
 sexologia - sekselogi  
 sexta-feira - penta me den  
 sim - ye  
-simetria - sammetria  
+simetria - sammetre  
 simulação - samsifia  
-simétrico - sammetri  
 sino (campainha) - danger  
 situaçao - sheihal  
 sociedade - sosia  
@@ -1062,12 +1062,11 @@ temer - fobu
 tempero - masale  
 templo - pujokan  
 tempo - zam  
-tender - iva  
-tendência - ivia  
+tendência - klin  
 tenso - tensi  
 tentar (provar) - testa  
 tentáculo - senter  
-teosofia - deusofia  
+teosofia - deu sofi  
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Geyia  
@@ -1099,7 +1098,7 @@ trator - trater
 trazer - layana  
 trigo - ganum  
 truque (fraude) - truke  
-truta-arco-íris - rangarkosalmon  
+truta-arco-íris - rangarke salmon  
 truta-marrom - brunsalmon  
 três (3) - tri  
 trópicos - garmozon  
@@ -1169,13 +1168,13 @@ vulcão - hogoshan
 vulva - vulve  
 vários - balibali  
 Vénus - Venus  
-véu - hijabe  
+véu - hijabu  
 ####X - X  
 ####Z - Z  
 zebra - zebre  
 zona - zon  
-zoologia - zou loje  
-zoológico - zou loje de  
+zoologia - zou logi  
+zoológico - zou logi di  
 zoológico - zou parke  
 zumbi - zombi  
 ágil - ajili  

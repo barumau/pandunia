@@ -18,7 +18,6 @@ afrikamanteco - afrikofilia
 afrikamanto - afrikofiler  
 Afriko - Afrike  
 agado - ation  
-aganto - ater  
 agema - ativi  
 ago - ate  
 agrabla - hushi  
@@ -28,7 +27,7 @@ agrikulturo - agre
 agronomio - agronomia  
 aj (alas) - ai  
 ajlo - lasun  
-akcento - aksente  
+akcento - acente  
 akceptebla (okej) - okeyi  
 akiri (gajni) - ganya  
 akiri (ricevi, preni) - geta  
@@ -102,7 +101,7 @@ armilo - arme
 arseno - arsene  
 artefarita lingvo - chanbash  
 artisto - artiste  
-arto - arte  
+arto - sundar shutu  
 arĝento - argente  
 arĥitekto - binplaner  
 arĥitekturo - binplania  
@@ -125,7 +124,7 @@ avida - tami
 avino - chinmai  
 avo - chinpai  
 avokado - avakate  
-azeno - gade  
+azeno - iha  
 azia - asi  
 Azio - Asia  
 aĉetanto (aĉetisto) - shoper  
@@ -152,8 +151,7 @@ bambuo - banse
 bana - banyu  
 banano - banan  
 bandaĝo (vindo) - bende  
-bangladeŝa - banglodeshi  
-Bangladeŝo - Banglodesh  
+Bangladeŝo - Bangladesh  
 bankisto - banker  
 banko - banke  
 bano - banye  
@@ -176,7 +174,7 @@ bazlernejo - bazoshulkan
 bazo - baze  
 bebo - bebe  
 beduino (nomado) - badavi  
-bela - sundari  
+bela - sundar  
 beleco - sundaria  
 Belgio - Belgia  
 Beliceo - Belize  
@@ -241,9 +239,9 @@ bromo - bromium
 broso - brosh  
 bruna - bruni  
 brusto - sine  
-budhismo - budistia  
-budhisto - budiste  
-Budho - Bude  
+budhismo - Buda din  
+budhisto - Buda din ja  
+Budho - Buda  
 Bulgario - Bolgaria  
 buso - bus  
 buĉejo - buchokan  
@@ -296,7 +294,7 @@ demandi - suala
 demando - sual  
 demografio - demo grafi  
 demokratia - demo krati li  
-demokratio - demo krati  
+demokratio - demokrati  
 demono - demon  
 denove (ripete) - reyo  
 dentbroso - dantobrosh  
@@ -306,12 +304,11 @@ desegni - grafa
 desegno - desen  
 detalo - detal  
 devi - debu  
-devigi - musa  
 devo - mus  
 devus - selu  
 dezerto - registan  
 deziro - kamia  
-dia - devi  
+dia - deu li  
 diablo (Satano) - shatan  
 diamanto - almas  
 dimanĉosunnuntai - sete me den  
@@ -341,10 +338,8 @@ dubo - dute
 dulingva - dulbashi  
 duŝo - dush  
 ####E - E  
-ebla - abli  
-eble - ablo  
+ebla (povi) - bil  
 eco - bonsifia  
-eco - ta  
 edzigi - gama  
 egipta - misri  
 Egipto - Misria  
@@ -367,7 +362,7 @@ ekzemplo - misal
 ekzerci - lensha  
 ekzerco - lenshe  
 ekzoplanedo - eshplanete  
-elefanto - gaje  
+elefanto - gaja  
 elekti - chuza  
 elekto - chuze  
 elektra - eletri  
@@ -377,15 +372,13 @@ elemento (ero) - em
 elirejo - chutomun  
 eliri - chuta  
 eliro - chute  
-emi - iva  
-emo (inklino, tendenco) - ivia  
+emo (inklino, tendenco) - klin  
 emocia - emosi  
 emocii - emosu  
 emocio - emos  
 ena - indi  
 energio - energe  
 eno - in  
-enterigi - gabra  
 enui - bori  
 enuo - boria  
 erara - galti  
@@ -460,7 +453,7 @@ filozofio - filsofia
 filozofo - filsofer  
 filtri - filter  
 fingro - angul  
-fini - fina  
+fini - fin  
 finita - finiti  
 finiĝi - finu  
 finna - suomi  
@@ -510,7 +503,7 @@ freneza - foli
 frenezeco - folia  
 freŝa - tazi  
 fromaĝo - chize  
-frosto - himros  
+frosto - hima rose  
 frukto - frute  
 fumo - duman  
 fungo - funge  
@@ -609,16 +602,16 @@ heroo - vir
 hidrogeno - hidre  
 hieraū - chendeno  
 Himalajo - Himalia  
-hinduismo - hindistia  
-hinduo - hindiste  
+hinduismo - Hindu din  
+hinduo - Hindu  
 hipopotamo - gubu*  
 Hispanio - Espania  
-historiisto - historer  
+historiisto - histori ja  
 historio (studo de historio) - historia  
-historio - histor  
+historio - histori  
 hm - hem  
-hobio - hobe  
-hodiaŭ - zaideno  
+hobio - hobi  
+hodiaŭ - zai den  
 hokeo - hoke  
 hoko - huke  
 holmio - holmium  
@@ -650,13 +643,13 @@ ilia - yamen di
 ilo - tul  
 indio - hindium  
 Indonezio - Indonesia  
-Induso - Hinde riu  
+Induso - Hindu riu  
 infano - bache  
 infekto - patomis  
 informacio - konsave  
 inko - moge  
 ino - fem  
-instrui - shulana  
+instrui (lernigi, ismo) - giau  
 instruisto - shule guru  
 insulto - ninde  
 inter - medu  
@@ -673,13 +666,10 @@ Irakio - Irakia
 Iranio - Iran  
 iri - kita  
 iridio - iridium  
-islama - islamisti  
-islamo - islamistia  
+islamo - islam din  
 Islando - Islandia  
-ismo - istia  
 Israelo - Israel  
-isto (anto) - er  
-isto de ismo - iste  
+isto (anto) - ja  
 Italio - Italia  
 iterbio - yuterbium  
 itrio - yutrium  
@@ -698,9 +688,10 @@ jasmeno - malike
 Javeo (Jehovo) - Yahve  
 Jemeno - Yemen  
 jes - ye  
-Jesuo - Yesus  
+Jesuo - Yesu  
+Jesuo Kristo - Yesu mesi  
 jodo - yodem  
-jogo - yoge  
+jogo - yoga  
 jugo - yoke  
 juna - joveni  
 juneco - jovenia  
@@ -731,7 +722,7 @@ kalio - kalium
 kalko - kalsomate  
 kalkoŝtono - kalsopetre  
 kalkuli - hisaba  
-kalkulo - hisabe  
+kalkulo - hisabu  
 Kamboĝo - Kambojia  
 kamelo - gamel  
 kanabo - ganje  
@@ -744,6 +735,7 @@ kanti - chanta
 kanto - chante  
 kanuo (kanoto) - kano*  
 kaoso (malordo) - haos  
+kapabla - bilja  
 kapro - be’e  
 kapti - kapa  
 kara - ami  
@@ -771,18 +763,18 @@ kernenergio - kerni energe
 kernfiziko - kerni fizikia  
 kerno (koro) - kerne  
 keĉupo - kechape  
-kia? - ki yangi  
+kia? - ke yang  
 kialo - sabe  
-kiam? - ki sate  
+kiam? - ke sate  
 kie - ya ke  
 kiel? - ko?  
 kilometro - kilomitre  
 kimono - kimono*  
 kio? - ke  
-kio? - ki shei  
+kio? - ke shei  
 kiom? - ko multo  
 kiso - chum  
-kiu? - ki jan  
+kiu? - ke jan  
 kivo - kivi*  
 klara - klari  
 klarigi - klara  
@@ -805,7 +797,6 @@ kolekta - jami
 kolekti (kunigi) - jama  
 kolero (furiozo) - furia  
 kolono - kolum  
-kolora - rangi  
 koloro - rang  
 koltuko - shal  
 komenci - shura  
@@ -818,7 +809,7 @@ kompleti - purfina
 kompreneble - klaro  
 kompreni - aha  
 kompreni - buda  
-kompreno - bude  
+kompreno - budi  
 komputero - komputer  
 komuna - komuni  
 komuna lingvo - konbash  
@@ -855,7 +846,7 @@ krabo - krabe
 krano (valvo) - kran  
 kreda - shina  
 kredo - shin  
-kredulo - diniste  
+kredulo - din ja  
 kremo - krem  
 krepejo - krepokan  
 krepo (patkuko) - krepe  
@@ -863,8 +854,8 @@ kreski - rastu
 krima - krimi  
 krimo - krim  
 kriptono - kriton  
-kristnasko - kristojen  
-kristo - kriste  
+kristnasko - mesi jen  
+kristo - mesi  
 krizo - krize  
 Kroatio - Horvatia  
 krom (escepti) - esha  
@@ -906,7 +897,7 @@ lakto - milke
 laktuko - letis  
 lamenti - duku  
 lampo - lampe  
-lando - desh  
+lando - desha  
 lango - lisan  
 lanterno - hogosanduke  
 lasta - finodi  
@@ -929,18 +920,18 @@ libelo - libele
 libera - huri  
 libereco - huria  
 liberigi - hura  
-librejo - kitabokan  
+librejo - kitabu kan  
 libro - buke  
 ligi - benda  
 ligno - mokomate  
 liki - lova  
 lineo (ŝnuro) - lin  
 lingvistiko - bashalogi  
-lingvo - basha  
+lingvo (paroli, komuniki) - basha  
 linko - linche  
 lipo - labe  
 listo - liste  
-literaturo - kitabia  
+literaturo - kitabu shutu  
 litero - harfe  
 litio - litium  
 lito - bede  
@@ -1000,7 +991,6 @@ malplena - kali
 malpli - min (mino)  
 malproksima - tele  
 malproksimeco - tele  
-malproksimeco - teleta  
 malrapida - lenti  
 malsana - pati  
 malsato - yamyau  
@@ -1037,7 +1027,7 @@ mateno - sube
 materio - mate  
 matura (plenkreska) - maturi  
 maĝango - majang  
-maŝino - mashin  
+maŝino - gi  
 mejtnerio - maitnerium  
 Meksikio - Meshiko  
 meleagro - dinde  
@@ -1060,8 +1050,7 @@ metodo - metode
 metro - mitre  
 metroo - tuneltren  
 mezo - medi  
-mezuri - metra  
-mezuro - metre  
+mezuri - metre  
 mi - mi  
 mia - mi di  
 mielo - medu  
@@ -1082,7 +1071,7 @@ milita - jengi
 milito (batalo) - jeng  
 ministro - minister  
 minuto - minute  
-mito - deusage  
+mito - deu saga  
 mizera - miskini  
 mola - komali  
 molibdeno - molidenium  
@@ -1118,7 +1107,7 @@ multlingva - polbashi
 mumio - mumjan  
 muskedo - muskete  
 muskolo - muskul  
-muso - mush  
+muso aŭ rato - mushu  
 muzikisto - muziker  
 muziko - muzike  
 muŝo - domzeze  
@@ -1134,6 +1123,7 @@ naskiĝtago - jenden
 nasko - jen  
 natrio - natre  
 naturo - ekia  
+naturo - tabi  
 naūatla - navati  
 ne - no  
 negoco - biznes  
@@ -1145,7 +1135,7 @@ Neptuno - Neputun
 nerva - neuri  
 nervo - neure  
 newtono (N) - nuton  
-neĝo - hime  
+neĝo - hima  
 neŭrono - neurochel  
 ni - mimen  
 ni faru... - haida  
@@ -1179,8 +1169,8 @@ novulo - nevike
 nu - na  
 nubo - mege  
 nudelo - mien  
-nuna - zaizami  
-nuno - zaizam  
+nuna - zai zam di  
+nuno - zai zam  
 ####O - O  
 oazo - vase  
 obrelo - shava chate  
@@ -1208,8 +1198,8 @@ oranĝo - oranje
 ordoni - amira  
 ordono - amir  
 orelo - or  
-orgaaninen (biologinen) - biyi  
-organismo - biye  
+orgaaninen (biologinen) - bio  
+organismo - bio vute  
 oriento - dong  
 origina - asli  
 origino - asle  
@@ -1248,7 +1238,6 @@ pardoni - mafa
 pardono - maf  
 parko (ĝardeno) - parke  
 parolema - logivi  
-paroli (komuniki) - basha  
 paroli - loga  
 parolo - loge  
 partio - partia  
@@ -1258,7 +1247,7 @@ pasi - pas
 pasinta - pasi  
 pasinteco - chenzam  
 pasporto - pasporte  
-pastro - dinguru*  
+pastro - din guru  
 pato - tave  
 patologio - patilogi  
 patrino - ma  
@@ -1331,9 +1320,6 @@ porko - goro
 Portoriko - Portorikia  
 posteno - asan  
 posttagmeze - sham den  
-povanta - ablani  
-povi - abla  
-povo - able  
 poŝo - jebe  
 poŝtejo - postokan  
 poŝtmarko - postomarke  
@@ -1393,7 +1379,7 @@ rapideco - rapidia
 rapidigi - yala  
 recikligi - resikle  
 reciproka - unali  
-regi - kratia  
+regi - krati  
 regiono - tope  
 registraĵo - defte  
 registri - defta  
@@ -1401,7 +1387,7 @@ registro (konto) - deftia
 reiri - retru  
 reiro - retre  
 rekta - orti  
-religia - dini  
+religia - din li  
 religio - din  
 renio - renium  
 reno - nefre  
@@ -1441,7 +1427,7 @@ rubeno - lalbausheke
 rubidio - rubidium  
 rubo - laje  
 ruinigita - harabi  
-rusa krepo - rusi krepe  
+rusa krepo - rusia krepe  
 rutenio - rutenium  
 ruterfordio - ruterfordium  
 rutino (kutimo) - rutin  
@@ -1456,7 +1442,7 @@ salti - jampa
 saluti - salama  
 saluto - salame  
 saluton! - halou  
-sama - sami  
+sama - sam  
 samario - samarium  
 samlandano - samdeshi  
 samopinii (interkonsenti) - samraya  
@@ -1511,8 +1497,7 @@ signifo - mana
 silenta - shushi  
 silentigi - shusha  
 silicio - silike  
-simetria - sammetri  
-simetrio - sammetria  
+simetrio - sammetre  
 simpla - simpli  
 Singapuro - Singapur  
 siropo - shirope  
@@ -1522,7 +1507,7 @@ sitelo - balde
 situacio (aferstato) - sheihal  
 skandio - eskandium  
 skatolo (kesto) - sanduke  
-skribo - kitabe  
+skribo - kitabu  
 skulti - eskulta  
 skultisto - eskulter  
 smeraldo - zumurude  
@@ -1592,7 +1577,7 @@ tago - den
 tajgo - taige  
 tajlanda - tayi  
 Tajlando - Tayia  
-tajpilo - kitabomashin  
+tajpilo - kitabu gi  
 taladri - fora  
 talio - talium  
 tamburo - guma  
@@ -1620,12 +1605,12 @@ tendo - hemah
 teneso - tenesium  
 teniso - tenis  
 teo - chai  
-teokratio - deukratia  
-teologio - deulojia  
+teokratio - deu krati  
+teologio - deu logi  
 teorio - teoria  
 tera - duni  
 terbio - terbium  
-termometro - termometrer  
+termometro - termometre gi  
 terni - achi  
 terorismo - teroristia  
 teroristo - teroriste  
@@ -1648,9 +1633,9 @@ titanio - titanium
 tiu - ve  
 Toglando - Togo  
 tomato - tomate  
-tombejo - gabristan  
-tombo - gabre  
-tomboŝtono - gabrosheke  
+tombejo - gabur istan  
+tombo (enterigi) - gabur  
+tomboŝtono - gabur sheke  
 tondilo - makas  
 tondro - grom  
 tono - ton  
@@ -1787,10 +1772,10 @@ zinko - zinke
 zirkonio - zirkonium  
 zono - zon  
 zoo (bestoĝardeno) - zou parke  
-zoologia - zou loje de  
-zoologio - zou loje  
-zoroastrismo - zardushistia  
-zoroastristo - zardushiste  
+zoologia - zou logi di  
+zoologio - zou logi  
+zoroastrismo - Zardush din  
+zoroastristo - Zardush din ja  
 Zoroastro - Zardush  
 zuluo - Zulu  
 Ĉilio - Chile  
@@ -1849,7 +1834,7 @@ zuluo - Zulu
 ŝampuo - keshosabun  
 ŝanco - chanse  
 ŝanĝi (aliigi) - ala  
-ŝario - islamisti sharia  
+ŝario - islam din sharia  
 ŝati - suku  
 ŝaŝliko - shishmanse  
 ŝlosilo - chabe  

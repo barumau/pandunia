@@ -1,7 +1,8 @@
 # pandunia-portugali
 ####A - A  
 abete - abeto  
-abli - possível  
+acente - acento  
+aces - acesso  
 achi - espirrar  
 adali - justo  
 adalia - justiça  
@@ -27,8 +28,6 @@ aisu - gelar
 ajabe - maravilha  
 ajili - ágil  
 akare - carrapato (ácaros)  
-aksente - acento  
-akses - acesso  
 ala - alterar  
 alge - alga  
 algojangle - floresta de algas  
@@ -67,7 +66,6 @@ arme - arma
 arome - cheiro  
 aromomelon - melão coreano  
 aromu - cheirar  
-arte - arte  
 artiste - artista  
 asar - efeito  
 asara - efetuar  
@@ -82,7 +80,7 @@ astronaver - astronauta
 astronomer - astrónomo  
 astronomia - astronomia  
 ate - ato  
-ater - agente  
+ateja - agent (faiseur)  
 Atina - Atenas  
 ation - ação  
 ativi - ativo  
@@ -142,14 +140,16 @@ ben - filho ou filha
 berande - sacada (varanda)  
 bere - baga  
 berje - bétula  
+bil - possível  
 bilor - cristal  
+bilta - habilidade (capacidade)  
 bina - construir  
 binplaner - arquiteto  
 binplania - arquitetura  
-biologi - biología  
 bio tokse - toxina  
+bio vute - organismo  
+biologi - biología  
 bir - cerveja  
-biye - organismo  
 biyomutu - fermentar  
 biyosistem - bioma  
 bode - corpo  
@@ -169,7 +169,7 @@ brunsalmon - truta-marrom
 bucha - abater  
 bucher - açougueiro (talhante)  
 buchokan - matadouro  
-Bude - Buda  
+Buda - Buda  
 buke - livro  
 bum - explosão  
 bute - bota  
@@ -225,14 +225,14 @@ defban - escudo
 defkaske - armadura  
 den - dia  
 deu - deus  
+deu sofi - teosofia  
 deunagri harfe - devanágari  
-deusofia - teosofia  
 dika - mirar (apontar)  
 dike - objetivo  
 din - religião  
+din ja - crente  
 dinamite - dinamite  
 dinde - peru  
-diniste - crente  
 diorite - diorito  
 diske - disco  
 dobe - tijolo  
@@ -331,10 +331,9 @@ funge frute - cogumelo
 fute bol - futebol  
 fute marke - pegada  
 ####G - G  
-gabra - enterrar  
-gabre - sepultura (túmulo)  
-gabristan - cemitério  
-gabrosheke - lápide  
+gabur - sepultura (túmulo, enterrar)  
+gabur istan - cemitério  
+gabur sheke - lápide  
 galaksia - galáxia  
 Galia - Gália  
 galope - galope  
@@ -359,6 +358,7 @@ geyoforme - terreno
 geyografia - geografia  
 geyometria - geometria  
 geyopolitike - geopolítica  
+giau - ensinar (lecionar)  
 gida - guiar  
 gider - guia  
 gitar - guitarra  
@@ -408,9 +408,9 @@ helisviman - hélicoptero
 hem - hmm  
 hema - considerar  
 Hesia - Hesse (Héssia)  
-hijabe - véu  
-hime - neve  
-Hinde riu - Indo  
+hijabu - véu  
+hima - neve  
+Hindu riu - Indo  
 hisaba - calcular  
 hisabolojia - matemática  
 hiyar - pepino  
@@ -447,10 +447,8 @@ insanistia - humanismo
 insida - agacharse  
 intru - entrar  
 ironia - ironia  
-islamistia - islã  
+islam din - islã  
 itis - inflamaçao  
-iva - tender  
-ivia - tendência  
 ####J - J  
 jagi - acordado  
 jagu - despertar  
@@ -534,10 +532,10 @@ katus - cacto
 kava - cavar (escavar)  
 kave - buraco  
 ke - o que  
+ke jan - quem  
+ke sate - quando  
 kenarbaryer - cerca  
 kerne - núcleo (cerne)  
-ki jan - quem  
-ki sate - quando  
 kim - substância  
 kimem - elemento químico  
 kimlojia - química  
@@ -545,16 +543,16 @@ kimono* - quimono
 kina - mover  
 kinu - Mover-se  
 kita - ir  
-kitaba - escrevere  
-kitabe - escrita  
-kitabia - literatura  
-kitabokan - biblioteca  
-kitabomashin - máquina de escrever  
+kitabu - escrevere  
+kitabu gi - máquina de escrever  
+kitabu kan - biblioteca  
+kitabu shutu - literatura  
 kitana - remover  
 kivi* - quivi  
 klari - claro  
 klien - cliente  
 klimmute - mudança climática  
+klin - tendência  
 ko? - como  
 komputer - computador  
 konboni - combinar com  
@@ -713,15 +711,15 @@ Merkur - Mercúrio
 mester - mestre  
 metalbede - bigorna  
 metallin - arame  
-metrograf - carta geográfica  
-metrografia - cartografia  
+metregraf - carta geográfica  
+metregrafia - cartografia  
 meze - mesa  
 mezotesh - toalha de mesa  
 mi - eu (me)  
 migre - migração  
 migru - mudar-se  
-mikrobiu - micróbio  
 mikrobiologi - microbiologia  
+mikrobiu - micróbio  
 mikroskope - microscópio  
 milke - leite  
 milkokardon - cardo-mariano  
@@ -749,6 +747,7 @@ moter - motor
 mul - raíz  
 mur - muro (muralha)  
 murkaguje - papel de parede  
+mushu - rato  
 muskulbin - fisiculturismo  
 muzike - música  
 ####N - N  
@@ -835,8 +834,8 @@ pasloge - palavra-passe (senha)
 pasporte - passaporte  
 paste - pasta  
 patike - paciente  
-patojener - patógeno  
 patilogi - patologia  
+patojener - patógeno  
 patomis - infecção (contágio)  
 patomisa - infectar (contagiar)  
 pau - arma de fogo  
@@ -905,7 +904,7 @@ putavoranje - toranja
 ####R - R  
 rai - opinião  
 rang - cor  
-rangarkosalmon - truta-arco-íris  
+rangarke salmon - truta-arco-íris  
 rapidi - rápido  
 rari - raro  
 ras - raça  
@@ -946,10 +945,9 @@ salia - saúde
 salsafia - higiene  
 salte - sal  
 salti - salino  
+sam - igual  
 samemos - compaixão  
-sami - igual  
-sammetri - simétrico  
-sammetria - simetria  
+sammetre - simetria  
 samrayia - acordo  
 samsifia - simulação  
 sanduiche - sanduíche  
@@ -1008,7 +1006,6 @@ shopa - comprar
 shope - compras  
 shoti - cem (100)  
 shula - aprender  
-shulana - ensinar (lecionar)  
 shule - lição  
 shule guru - professor (docente)  
 shuli - reparo  
@@ -1018,6 +1015,7 @@ shulija - reparador
 shulkan - escola (colégio)  
 shulshef - diretor  
 shur - começo (início, princípio)  
+shutu - arte  
 siborgium - seabórgio  
 sifloge - adjetivo  
 sikliste - ciclista  
@@ -1059,7 +1057,7 @@ suiyau - sede
 sukar - açúcar  
 sukarchau - cana-de-açúcar  
 suki - feliz  
-sundari - belo (lindo)  
+sundar - belo (lindo)  
 sundaria - beleza  
 susan - lírio  
 ####T - T  
@@ -1071,9 +1069,9 @@ tali moke - arbusto (mata)
 tan - haste (talo, caule)  
 tate - margem  
 tehne - técnica  
+teleskope - telescópio  
 telfona - telefonar  
 telfonia - telefonia  
-teleskope - telescópio  
 temnam - título  
 ten - céu  
 tensi - tenso  
@@ -1164,10 +1162,11 @@ yaushina - confiar (contar com)
 yavan - necessário  
 yavi - necessitado  
 ye - sim  
+Yesu mesi - Jesus Cristo  
 yoke - jugo  
 yongu - derretre  
 ####Z - Z  
-zaizami - actuel (courant)  
+zai zam di - actuel (courant)  
 zam - tempo  
 zarkube - dado  
 zebre - zebra  
@@ -1181,8 +1180,8 @@ zon - zona
 zong - poste (estaca)  
 zongominte - hortelã-verde  
 zou - animal (besta, bicho)  
-zou loje - zoologia  
-zou loje de - zoológico  
+zou logi - zoologia  
+zou logi di - zoológico  
 zou parke - zoológico  
 zuke - etnia  
 zuki - étnico  

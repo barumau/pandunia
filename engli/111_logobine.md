@@ -7,76 +7,112 @@ Many of them come from ancient Greek, Latin, Arabic and Persian.
 
 ## How to combine words
 
-Two or more roots can be put together to make a _compound word_.
-The last root is the most meaningful part in the compound
-and the roots that come before it only modify its meaning.
+Two or more words can be put together to make a _compound word_.
+The last word is the most meaningful part in the compound
+and the words that come before it only modify its meaning.
 
-Compound words are made of bare word stems and a vowel ending.
+**demo**
+(the people) +
+**krati**
+(rule) =
+**demokrati**
+(democracy).
 
-For example, this is how the word **andewisti** (atheistic) is made:
+**andemokratili**
+(undemocratic)
 
-           an       (negation)
-       +  deu       (god)
-       +  ist       (proponent, -ist)
-       +    i       (adjective ending)
-    _____________
-    = andevisti     (atheistic)
-
-If joining bare stems together would result into a difficult consonant sequence,
-a padding vowel **-o-** is inserted between them.
-
-For example, this is how **termometer** (_thermometer_) is made:
-
-         term       (temperature)
-       +    o       (padding vowel)
-       +  met       (measuring)
-       +   er       (device)
-    ____________
-    = termometer    (thermometer)
+**termo**
+(warmth) +
+**metre**
+(measurement) +
+**gi**
+(tool) =
+**termometregi**
+(thermometer).
 
 
-### Common Suffixes
+### Common affixes
 
 #### an-
 
 Creates verbs that reverse the meaning of the base verb.
 
-**noda** to tie; **annoda** to untie  
-**tapa** to plug, to close with a plug; **antapa** to unplug, to open the plug.  
+**node**
+(to tie) →
+**annode**
+(to untie)    
+**tapa**
+(to plug, to close with a plug) →
+**antapa**
+(to unplug, to open the plug).
 
-#### -an-
+#### ja
 
-Active participle and causative suffix
+Creates agent nouns.
+It denotes a person who does or causes the action.
 
-**yama** to eat  
-**yamani** eating  
-**yamana** to make eat, to feed  
-**xula** to learn  
-**xulana** to teach  
-**sava** to know  
-**savana** to let know, to inform  
+**yam**
+(to eat) →
+**yamja**
+(one who eats, eater)  
+**shul**
+(to learn) →
+**shulja**
+(one who learns, learner)  
+**karate**
+(karate) →
+**karateja**
+(one who does karate, karateka)
 
-#### -er
-
-Creates agent nouns. It denotes a person or a tool which does the action.
-
-**loga** to speak; **loger** speaker, the one who speaks  
-**beka** to bake; **beker** baker, the one who bakes  
-**lida** to lead; **lider** leader, the one who leads  
-**filsofa** to think deeply; **filsofer** philosopher  
-**komputa** to compute, to process data; **komputer** computer  
-**morta** to kill; **morter** killer  
+**loga**
+(to speak) →
+**logaja**
+(speaker, the one who speaks)  
+**filsofi**
+(to think deeply) →
+**filsofija**
+(philosopher)  
+**mata**
+(death) →
+**mataja**
+(killer)
 
 The derivative can be also more loosely associated with the root.
 
-**sapate** shoe; **sapater** shoemaker  
-**muskete** musket; **musketer** musketeer  
-**kase** cash desk; **kaser** cashier  
+**sapate**
+(shoe) →
+**sapateja**
+(shoemaker)  
+**muskete**
+(musket) →
+**musketeja**
+(musketeer)  
+**kasa**
+(cash box) →
+**kasaja**
+(cashier)
 
-#### -ia
+#### ta
 
-Creates aggregate nouns. It denotes a group of elements named by the
-root as a whole.
+Creates abstract nouns.
+
+**nove**
+(new) →
+**noveta**
+(newness, novelty)  
+**huru**
+(free) →
+**huruta**
+(freedom)  
+**un**
+(one)
+**unta**
+(oneness, unity)
+
+#### ya
+
+Creates aggregate nouns.
+It denotes a group of elements named by the root as a whole.
 
 **insan** human being; **insania** humanity, mankind, all the human beings as a group.  
 **kristi** Christian, **kristia** Christianity, all Christians as a group.  
@@ -93,15 +129,12 @@ are also a lot of country names that do not end in **-ia**.
 **Indonesia** Indonesia  
 **Italia** Italy
 
-Also abstract nouns often end in **-ia**.
-
-**nevi** new, **nevia** newness, novelty  
-**huri** free, **huria** freedom
 
 When it is added after -er, it means a field of expertise.
 
 **enjener** engineering  
 **sapateria** shoemaking  
+
 
 #### -ik-
 
@@ -121,14 +154,19 @@ new
 → **nevike**
 novice, newbie
 
-#### -abli
+#### bil
 
-Indicates possibility. It is often used with the active participle **-an-**.
+Indicates possibility. It is often used with the agent suffix **ja**.
 
-**abli** possible  
-**ablani** able, capable  
-**vidabli** which can be seen, visible  
-**vidablani** who/which can see
+**bil** possible  
+**bilja** able, capable
+
+**vide**
+(to see) →
+**videbil**
+(which can be seen, visible)  
+**videbilja**
+(who/which can see)
 
 #### -ist-
 

@@ -1,8 +1,7 @@
 # pandunia-cini
 ####A - A  
 abete - 冷杉  
-abla - 会  
-abli - 可能  
+acente - 重音符号  
 achi - 打喷嚏 (阿嚏)  
 adali - 公正地  
 adalia - 正义  
@@ -25,7 +24,6 @@ aisu - 结冰
 ajili - 灵活的  
 akare - 蜱 (螨)  
 akse - 轴线  
-aksente - 重音符号  
 ala - 改變  
 alge - 藻类  
 algofung - 地衣  
@@ -69,7 +67,6 @@ aroma - 闻到
 arome - 气味  
 aromomelon - 香瓜  
 aromu - 发臭  
-arte - 艺术  
 artiste - 美术家  
 asar - 影响  
 asle - 起源  
@@ -81,6 +78,7 @@ astronaver - 宇航员
 astronomer - 天文学家  
 astronomia - 天文学  
 ate - 作为 (行为)  
+ateja - деятель  
 Atina - 雅典  
 ation - 行动  
 ativi - 活性  
@@ -140,14 +138,16 @@ berande - 阳台
 bere - 浆果 (莓)  
 berje - 桦树  
 bete - 甜菜頭  
+bil - 会 (可能)  
 bil - 帐单  
+bilja - 熟练  
 bina - 建设  
 binplaner - 建筑师  
 binplania - 建筑学  
-biologi - 生物学  
 bio tokse - 毒素  
+bio vute - 生物  
+biologi - 生物学  
 bir - 啤酒  
-biye - 生物  
 biyi jinse - 生物性別  
 biyomutu - 发酵  
 biyosistem - 生物群系  
@@ -168,7 +168,7 @@ bruni - 棕色 (色)
 brunsalmon - 褐鳟  
 bucher - 屠夫  
 buchokan - 屠宰场  
-Bude - 佛陀  
+Buda - 佛陀  
 bufete - 自助餐  
 buke - 书  
 bum - 爆炸  
@@ -220,16 +220,16 @@ debili - 虚弱 (易坏)
 defban - 盾牌  
 defkaske - 盔甲  
 den - 白天  
-deshojan - 公民  
+deshajan - 公民  
 deu - 神  
 deunagri harfe - 天城文  
 dika - 瞄准  
 dike - 目的 (目标)  
 din - 宗教  
+din ja - 信徒  
 dinamite - 甘油炸药  
 dinde - 火鸡  
 ding - 钉子  
-diniste - 信徒  
 diorite - 闪长岩  
 diske - 圆盘  
 dobe - 砖  
@@ -314,11 +314,9 @@ fuku - 穿
 funge frute - 蘑菇  
 fute marke - 脚印  
 ####G - G  
-gabra - 埋葬  
-gabre - 坟墓  
-gabristan - 公墓 (墓地)  
-gabrosheke - 墓石 (墓碑)  
-gadogude - 骡  
+gabur - 坟墓 (埋葬)  
+gabur istan - 公墓 (墓地)  
+gabur sheke - 墓石 (墓碑)  
 galaksia - 恆星系  
 Galia - 高卢  
 galte - 错误  
@@ -338,6 +336,7 @@ geyografia - 地理
 geyometria - 几何学  
 geyopolitike - 地缘政治  
 geyotermi - 地热的  
+giau - 教学  
 gida - 导游  
 gider - 导游  
 gidobuke - 指南  
@@ -397,9 +396,9 @@ helpa - 帮助
 hema - 深思 (考虑)  
 hemah - 帐篷  
 Hesia - 黑森  
-hijabe - 面纱  
-Hinde riu - 印度河  
-Hindia - 印度斯坦  
+hijabu - 面纱  
+Hindu desh - 印度斯坦  
+Hindu riu - 印度河  
 hisaba - 计算  
 hisabolojia - 数学  
 hiyar - 黄瓜  
@@ -423,6 +422,7 @@ hulei - 狐狸
 huri - 自由的  
 huria - 自由  
 ####I - I  
+iha uma - 骡  
 iki - 的  
 inklusa - 包括  
 inmigra - 移民 (移居)  
@@ -433,9 +433,8 @@ insani hake - 人权
 insanistia - 人文主义  
 insida - 蹲  
 introversi - 内向的  
-islamistia - 回教 (伊斯蘭教)  
+islam din - 回教 (伊斯蘭教)  
 itis - 炎症  
-ivia - 趋势  
 ####J - J  
 jagu - 睡醒  
 jamul - 閻浮樹  
@@ -531,14 +530,15 @@ kimono* - 和服
 kina - 动  
 kinu - 动  
 kita - 去  
-kitaba - 写  
-kitabia - 文学  
-kitabokan - 图书馆  
-kitabomashin - 打字机  
+kitabu - 写  
+kitabu gi - 打字机  
+kitabu kan - 图书馆  
+kitabu shutu - 文学  
 kitana - 除去  
 kivi* - 奇异果  
 klien - 顾客  
 klimmute - 气候变化  
+klin - 趋势  
 ko? - 怎么  
 komputer - 计算机  
 konboni - 相配  
@@ -692,14 +692,14 @@ mening - 脑脊膜
 metalbede - 铁砧  
 metaljanger - 铁匠  
 metallin - 线 (铁丝)  
-metrograf - 地图  
-metrografia - 地图学  
+metregraf - 地图  
+metregrafia - 地图学  
 meze - 桌子  
 mezotesh - 桌布  
 mi - 我  
 migra - 搬家  
-mikrobiu - 微生物   
 mikrobiologi - 微生物学  
+mikrobiu - 微生物   
 mikroskope - 显微镜  
 milkokardon - 水飞蓟  
 mima - 模拟  (模仿)  
@@ -730,6 +730,7 @@ mummelon - 冬瓜 (白瓜)
 mur - 墙壁  
 murche - 蚂蚁  
 murkaguje - 壁纸 (墙纸)  
+mushu - 鼠  
 muskulbin - 健美运动  
 muzike - 音乐  
 ####N - N  
@@ -809,8 +810,8 @@ pasloge - 密码
 pasporte - 护照  
 pastopetre - 岩漿  
 patike - 患者 (病患)  
-patojener - 病原体  
 patilogi - 病理学  
+patojener - 病原体  
 patomis - 传染  
 pau - 手枪  
 peda - 放屁  
@@ -866,8 +867,8 @@ putavoranje - 葡萄柚
 putongi - 普通  
 ####R - R  
 rai - 意见 (见解)  
-rangarkosalmon - 虹鱒  
-rangomate - 染料  
+rang mate - 染料  
+rangarke salmon - 虹鱒  
 rapidi - 快  
 rari - 稀有 (稀少的)  
 ras - 种族  
@@ -910,9 +911,8 @@ salamia - 福利 (福祉)
 sali - 健康  
 salia - 健康  
 salte - 盐  
-sami - 一样  
-sammetri - 对称  
-sammetria - 对称性  
+sam - 一样  
+sammetre - 对称  
 samrayia - 一致  
 samsifia - 模型  
 sanduiche - 三明治 (三文治)  
@@ -969,7 +969,6 @@ shopa - 买
 shope - 购物 (血拼)  
 shoti - सौ  
 shula - 学习  
-shulana - 教学  
 shule - 课  
 shule guru - 教师 (老师)  
 shuler - 学生  
@@ -982,8 +981,7 @@ shulshef - 校长
 shur - 开始  
 shura - 开始  
 shusho - 噓  
-shute - 技术  
-shuti - 熟练  
+shutu - 技术  
 side - 座部 (马鞍)  
 sifloge - 形容词  
 sikliste - 骑自行车的人  
@@ -1024,12 +1022,14 @@ suiyau - 口渴
 sukar - 糖  
 sukarchau - 甘蔗  
 suki - 高兴  
+sundar - 漂亮 (美)  
+sundar shutu - 艺术 (美术)  
 sundardake - 装饰  
-sundari - 漂亮 (美)  
 sundaria - 美丽  
 suprize - 惊奇  
 susan - 百合花  
 ####T - T  
+tabi - 特性 (生性)  
 tablokomputer - 平板电脑  
 tail - 砖 (瓦)  
 taksometrer - 计程器  
@@ -1043,9 +1043,9 @@ tazi - 新鲜的
 tehne - 技术  
 tehnelogi - 工艺学  
 telefon - 电话机  
+teleskope - 望远镜  
 telfona - 打电话  
 telfonlin - 电话线  
-teleskope - 望远镜  
 telvide - 电视机  
 tem - 主题目  
 temnam - 标题  
@@ -1137,7 +1137,9 @@ yaushina - 信赖
 yaushinabli - 忠实  
 yavan - 必要的  
 ye - 对 (是)  
-yoge - 瑜伽功  
+Yesu - 耶稣  
+Yesu mesi - 耶稣基督  
+yoga - 瑜伽功  
 yoke - 轭  
 yom - 日  
 yomchete - 週  
@@ -1145,7 +1147,7 @@ yongopetre - 熔岩
 yongosaha - 熔炼  
 yongu - 融化  
 ####Z - Z  
-zaizami - нынешний  
+zai zam di - нынешний  
 zam - 时间  
 zarkube - 骰子 (色子)  
 zebre - 斑马  
@@ -1159,7 +1161,7 @@ zoko - 还 (依然)
 zong - 桩  
 zongominte - 留兰香  
 zou - 动物  
-zou loje - 动物学  
+zou logi - 动物学  
 zou parke - 动物园  
 zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  

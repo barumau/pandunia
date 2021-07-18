@@ -9,12 +9,11 @@ aborigènes australiens - aslaustrali
 abricot - briko  
 acacia faux-gommier - helisbabul  
 acarien - akare  
-accent - aksente  
+accent - acente  
 accessible (atteignable, à portée) - aksesabli  
 accomplir (terminer) - purfina  
 accord - samrayia  
-accès - akses  
-accéder (accéder à qqch., entrer, entrer dans qqch, pénétrer, atteindre) - aksesa  
+accès - aces  
 acheter - shopa  
 acte - ate  
 actif - ativi  
@@ -34,7 +33,6 @@ africain - Afriki
 Afrique - Afrike  
 afrophile - afrikofiler  
 afrophilie - afrikofilia  
-agent (faiseur) - ater  
 agent pathogène - patojener  
 agile - ajili  
 agresseur - agreser  
@@ -129,7 +127,7 @@ armée - gun
 armée de l'ai - airgun  
 arobase (@) - adresharfe  
 arsenic - arsene  
-art - arte  
+art - shutu  
 artichaut - karchof  
 artiste - artiste  
 Artsakh - Archah  
@@ -169,7 +167,6 @@ aventurier - venturer
 avis (opinion) - rai  
 avocat - avakate  
 avoine - aven  
-avoir tendance à - iva  
 axe - akse  
 Azerbaijan - Azerbaijan  
 azur - lazuri  
@@ -193,8 +190,7 @@ bambou - banse
 banane - banan  
 bande - bande  
 bande dessinée - grafsage  
-bangladais - banglodeshi  
-Bangladesh - Banglodesh  
+Bangladesh - Bangladesh  
 banque - banke  
 banquier - banker  
 Barbade - Barbados  
@@ -214,15 +210,15 @@ basique - alkali
 basketball - baske bol  
 bassin - basen  
 bateau - nau  
-beau - sundari  
+beau - sundar  
 beau-père - gampai  
 beauté - sundaria  
 belle-mère - gammai  
-bengali - bangli  
+bengali - bangla basha  
 besoin - yau  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukarbete  
-bibliothèque - kitabokan  
+bibliothèque - kitabu kan  
 bicyclette - sikle  
 bien-être - salamia  
 bilingue - dulbashi  
@@ -242,7 +238,7 @@ botanique - fitolojia
 botte - bute  
 boucher - bucher  
 bouclire - defban  
-Bouddha - Bude  
+Bouddha - Buda  
 boue (fange, bourbe, gadoue) - fan  
 boulanger - beker  
 bouleau - berje  
@@ -292,7 +288,7 @@ canon - daipau
 canoë - kano*  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanyon  
-capacité (compétence) - able  
+capacité (pouvoir, habileté) - bilta  
 cape - mantol  
 caractère - zi  
 carapace (coquille, coquillage, croûte) - kaske  
@@ -302,9 +298,9 @@ carotte - karote
 carreau (tuile) - tail  
 carrière - peikari jiu  
 carte - karde  
-carte - metrograf  
+carte - metregraf  
 carte à collectionner - jamkarde  
-cartographie - metrografia  
+cartographie - metregrafia  
 cent (100) - shoti  
 Centaurée - centaure  
 Centaurée bleuet - nilchentaur  
@@ -340,6 +336,7 @@ chimie - kimlojia
 Chine - Junguo  
 chocolat - choklate  
 chose - shei  
+Christ (messie) - mesi  
 chronique - duri  
 chronomètre - durmetrer  
 chu - padi  
@@ -349,7 +346,7 @@ chêne pédonculé - europobalute
 chœur - chantergrupe  
 ciel - ten  
 cime (pic, sommet) - shanpike  
-cimetière - gabristan  
+cimetière - gabur istan  
 cinq (5) - penta  
 cirse commun - perkardon  
 citron - limon  
@@ -360,7 +357,7 @@ cloche - danger
 coeur - kerne  
 collaborer - konkara  
 coller - gluta  
-colorant - rangomate  
+colorant - rang mate  
 combava - karsolimon  
 comment - ko?  
 commercer - vendoshopa  
@@ -417,7 +414,7 @@ crocodile - longokrokodil
 crocodilien - krokodil  
 croissant - kruasante  
 croix - krus  
-croyant - diniste  
+croyant - din ja  
 crème - krem  
 crème glacée - aiskrem  
 crêpe - France krepe  
@@ -508,10 +505,9 @@ encore - zoko
 enfant - bache  
 ennemi - anamike  
 ennemi - dusjan  
-enseigner - shulana  
+enseigner - giau  
 ensommeillé (somnolent) - somivi  
 ensuite (après, plus tard, ir a, en el futuro) - poso  
-enterrer - gabra  
 entonnoir - riutube  
 entrer - intru  
 envelopper (emballer) - lifafa  
@@ -563,6 +559,7 @@ fil de fer - metallin
 fil de trame - veilin  
 fils ou fille - ben  
 fini - fini  
+finir - fin  
 fiord - fiorde  
 fleur - hua  
 flèche - fleche  
@@ -647,7 +644,7 @@ Hesse - Hesia
 heure - hor  
 heureux - suki  
 hier - chendeno  
-Hindustan - Hindia  
+Hindustan - Hindu desh  
 hiver - leng mosim  
 hivernal (hibernal) - lengomosimi  
 hockey - hoke  
@@ -681,7 +678,7 @@ inclure - inklusa
 inclusif - inklusivi  
 Inde - Bartia  
 indien - barte  
-Indus - Hinde riu  
+Indus - Hindu riu  
 infecter - patomisa  
 infection (contagion) - patomis  
 infidèle (incroyant) - andiniste  
@@ -695,7 +692,7 @@ inutile - anyavi
 inverse (négatif, in-) - ani  
 Irland - Aire  
 ironie - ironia  
-Islam - islamistia  
+Islam - islam din  
 ####J - J  
 jade - giuke  
 Japon - Nipon  
@@ -714,7 +711,8 @@ jus - jus
 jusque (jusqu’à) - hata  
 juste - adali  
 justice - adalia  
-Jésus - Yesus  
+Jésus - Yesu  
+Jésus-Christ - Yesu mesi  
 ####K - K  
 kangourou - kangaru*  
 Khartoum - Hartum  
@@ -761,7 +759,7 @@ lime (citron vert) - kagujolimon
 lire - duga  
 liste - liste  
 litre - litre  
-littérature - kitabia  
+littérature - kitabu shutu  
 livre - buke  
 local - loki  
 loin - longo  
@@ -782,7 +780,7 @@ lys - susan
 léger - legi  
 légume - yamfite  
 ####M - M  
-machine à écrire - kitabomashin  
+machine à écrire - kitabu gi  
 magma - pastopetre  
 magnésium - magesium  
 mah-jong - majang  
@@ -859,7 +857,7 @@ mousse - mos
 mousson - shava mosim  
 moussu - mosi  
 mouvoir (bouger) - kina  
-mule - gadogude  
+mule - iha uma  
 mur - mur  
 musique - muzike  
 mycélium - funge nete  
@@ -877,7 +875,7 @@ nappe - mezotesh
 nation - nasia  
 nausée - retroguli sense  
 nautile - nautile  
-neige - hime  
+neige - hima  
 Neptune - Neputun  
 neuf (9) - tisa  
 neurone - neurochel  
@@ -941,7 +939,7 @@ ordre - ratibe
 ordures - laje  
 oreille - or  
 organiser - noma  
-organisme - biye  
+organisme - bio vute  
 orge - jau  
 origine - asle  
 originel - asli  
@@ -1011,14 +1009,13 @@ peser - vezu
 pet (vesse) - pede  
 petit - lili  
 peu - shau  
-peut-être - ablo  
 phase - faze  
 philosophie - filsofia  
 photographie - foto grafe  
 photographie - foto grafia  
 pierre - sheke  
 pierre précieuse (joyau) - bau sheke  
-pierre tombale - gabrosheke  
+pierre tombale - gabur sheke  
 pieu (poteau) - zong  
 pile (batterie) - bateri  
 piment - chili  
@@ -1064,7 +1061,6 @@ porter (s’habiller) - fuku
 Porto Rico - Portorikia  
 Portoricain - portoriki  
 posidonie (herbiers marins) - haichau  
-possible - abli  
 possédant (propriétaire) - malan  
 posture (position) - asan  
 postérieur - postri  
@@ -1077,7 +1073,7 @@ Poulpe (pieuvre) - batosenter
 pourri - pudi  
 pourrir (se décomposer) - pudu  
 pousse - joveni moke  
-pouvoir (être capable) - abla  
+pouvoir (possible, capacité, peut-être) - bil  
 presse-papier - katoglutoban  
 pression atmosphérique - airbaria  
 preuve - dalil  
@@ -1111,15 +1107,14 @@ pâte à modeler - plastopaste
 péter - peda  
 pétrole (essence) - petronefte  
 pêcheur - peshosaider  
-qualité (-ité) - ta  
-quand - ki sate  
+quand - ke sate  
 quartz - kuarze  
 quatre (4) - chatre  
 que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
 question - sual  
-qui - ki jan  
+qui - ke jan  
 ####R - R  
 race - ras  
 racine - mul  
@@ -1239,6 +1234,7 @@ son (sa) - si
 son - son  
 soumettre - karmisa  
 soumission - islam  
+souris - mushu  
 sous-estimer - minraya  
 spectateur - speter  
 sport - esporte  
@@ -1252,8 +1248,7 @@ suivre - posa
 sujet (thème) - tem  
 surestimer - mashraya  
 svastika (croix gammée) - hukokrus  
-symétrie - sammetria  
-symétrique - sammetri  
+symétrie - sammetre  
 séminal - semi  
 sénateur - senater  
 série - silia  
@@ -1273,7 +1268,7 @@ technologie - tehnelogi
 tectonique des plaques - plati geyokaskia  
 temple - pujokan  
 temps - zam  
-tendance - ivia  
+tendance - klin  
 tender - tirlonga  
 tendu - tensi  
 tentacule - senter  
@@ -1286,7 +1281,7 @@ terreplatiste - platogeyiste
 terrorisme - teroristia  
 thé - chai  
 théière - chaipote  
-théosophie - deusofia  
+théosophie - deu sofi  
 tige - tan  
 tigre - bagre  
 tire à l'arc - arkeria  
@@ -1295,7 +1290,7 @@ tissu - tesh
 titre - temnam  
 toile d'araignée - aranonete  
 tomate - tomate  
-tombe - gabre  
+tombe (enterrer) - gabur  
 topinambour - masmulsolful  
 topographie - topograf  
 toucher - tocha  
@@ -1316,7 +1311,7 @@ tribord - nauraite
 trois (3) - tri  
 tropique - garmozon  
 truite - salmon  
-truite arc-en-ciel - rangarkosalmon  
+truite arc-en-ciel - rangarke salmon  
 truite brune (truite de mer) - brunsalmon  
 tu - tu  
 tubercule - masmul  
@@ -1352,7 +1347,7 @@ ver - verme
 verbe - karloge  
 vermouth - vermute  
 verre - kanche  
-verre coloré - rangi kanche  
+verre coloré - rang kanche  
 verrue - zeyil  
 verse (face á) - versu  
 verser - versa  
@@ -1376,7 +1371,7 @@ vite (rapide) - rapidi
 vivant - jivi  
 vivre (habiter) - doma  
 vocabulaire (lexique) - logia  
-voile - hijabe  
+voile - hijabu  
 voir - vida  
 voire (même) - hato  
 vol - fei  
@@ -1400,11 +1395,11 @@ Yahweh (Jéhovah) - Yahve
 zombi - zombi  
 zone - zon  
 zoo - zou parke  
-zoologie - zou loje  
-zoologique - zou loje de  
+zoologie - zou logi  
+zoologique - zou logi di  
 Zoroastre - Zardush  
-zoroastrien - zardushiste  
-zoroastrisme - zardushistia  
+zoroastrien - Zardush din ja  
+zoroastrisme - Zardush din  
 zoulou - Zulu  
 zèbre - zebre  
 Égypte - Misria  
@@ -1418,11 +1413,10 @@ zèbre - zebre
 école secondaire - jungoshulkan  
 économie - malnomia  
 écorce - tira pil  
-écrire - kitaba  
-écriture - kitabe  
+écrire - kitabu  
 écureuil - ekore  
 éducation - shulia  
-égal (même) - sami  
+égal (même) - sam  
 électricité - eletre  
 élevage - zou agria  
 élever - jenita  

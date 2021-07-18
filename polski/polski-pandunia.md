@@ -20,7 +20,7 @@ agronomia - agronomia
 aj!, ał! - ai  
 akacja - babul  
 akacja arabska - arabobabul  
-akcent, nacisk - aksente  
+akcent, nacisk - acente  
 akt, scena - roler  
 aktualizować (zaktualizować, ulepszać, ulepszyć) - bondarja  
 aktyn - acinium  
@@ -126,7 +126,6 @@ azot - nitre
 aż do - hata  
 ####B - B  
 babcia (babka) - chinmai  
-badać, studiować - loja  
 bagaż - bagaje  
 bagietka - baton pan  
 bagno (moczary) - fantopia  
@@ -140,9 +139,8 @@ balon - balon
 bambus - banse  
 banan - banan  
 bandaż, taśma, wstążka - fashe  
-bangladeski - banglodeshi  
-Bangladesz - Banglodesh  
-banglijski - bangli  
+Bangladesz - Bangladesh  
+banglijski - bangla basha  
 bank - banke  
 bankier - banker  
 baobab - bui  
@@ -156,7 +154,7 @@ bardzie - mash (masho)
 bariera - bare  
 bark (ramię) - kante  
 barometr - airbarmetrer  
-barwnik - rangomate  
+barwnik - rang mate  
 basen - basen  
 bateria - bateri  
 baton czekoladowy - choklatobaton  
@@ -186,11 +184,11 @@ Bhutan - Drugia
 Białoruś - Belarus  
 biały - baki  
 Biblia - biblia  
-biblioteka - kitabokan  
-bibliotekarz - kitabominister  
+biblioteka - kitabu kan  
+bibliotekarz - kitabu minister  
 biec (biegać, pędzić) - kora  
 biedny, mizerny - miskini  
-bieżący (aktualny, obecny) - zaizami  
+bieżący (aktualny, obecny) - zai zam di  
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion, giga- - giga*  
@@ -223,12 +221,12 @@ Boliwia - Bolivia
 bomba - bombe  
 Bombaj (Mumbaj) - Mumbai  
 bor - boron  
-boski - devi  
+boski - deu li  
 botanika - fitolojia  
 Botswana - chvana  
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosnia e Herchegovina  
-Boże Narodzenie - kristojen  
+Boże Narodzenie - mesi jen  
 brawo (gratulacje) - bravo  
 Brazyla - Brazil  
 broda - barde  
@@ -244,9 +242,9 @@ brzoza - berje
 brzuch - pete  
 brzydki - dusvidi  
 brązowy, koloru kawy - bruni  
-Budda - Bude  
-buddysta - budiste  
-Buddyzm - budistia  
+Budda - Buda  
+buddysta - Buda din ja  
+Buddyzm - Buda din  
 budynek (struktura) - bin  
 budżet - bujete  
 bufet (szwedzki stół) - bufete  
@@ -269,7 +267,6 @@ być obok - lata
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - beyu  
 być podobnym, być jak - samu  
 być przeciw - kontra  
-być skłonnym (mieć skłonność) - iva  
 być umiejscowionym (być ulokowanym, stać) - loku  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym - nama  
 być widzianym - vidu  
@@ -334,9 +331,9 @@ chrom - kromium
 chroniczny - duri  
 chronić (ratować) - sekura  
 chronić, strzec,  osłaniać, bronić - garda  
-Chrystus, mesjasz - kriste  
-chrześcijanin - krististe  
-chrześcijaństwo - krististia  
+Chrystus, mesjasz - mesi  
+chrześcijanin - mesi din ja  
+chrześcijaństwo - mesi din  
 chwalić (wychwalać) - halela  
 chwilowy - sati  
 chór - chantergrupe  
@@ -365,11 +362,11 @@ ciężarny (w ciąży) - hamili
 ciężki (masywny) - vezi  
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanchi  
-cmentarz - gabristan  
+cmentarz - gabur istan  
 cnota (moralność) - bondeke  
 cnotliwy (prawy) - bondeki  
 co? - ke  
-co? - ki jan  
+co? - ke jan  
 coś - koi shei  
 croissant - kruasante  
 cudzysłów - chitomarke  
@@ -428,7 +425,7 @@ córka - femi pute
 ####D - D  
 dach - chate  
 daktyl - tamar  
-daleki, odległy - tele  
+daleki, odległy, dystans - tele  
 damarzyk (meranti) - merante  
 dane - date  
 Dania - Dania  
@@ -451,7 +448,7 @@ dekorować - sundardaka
 delfin - dolfin  
 delikatny, cienki, lekki - faini  
 demografia - demo grafi  
-demokracja - demo krati  
+demokracja - demokrati  
 demokrata - demokratiste  
 Demokratyczna Republika Konga - Kinshasa Kongo  
 demokratyczny - demo krati li  
@@ -532,7 +529,6 @@ dyskusja, debata, dyskurs - lon
 dyskutoać, twierdzić - tesa  
 dysproz - disprosium  
 dystans - tele  
-dystans - teleta  
 dywan - taltesh  
 dzban, dzbanek; słój, słoik - jar  
 dziadek (dziad) - chinpai  
@@ -550,7 +546,7 @@ dziewczyna - joveni fem
 dziewięć (9) - tisa  
 dzień - den  
 dzień dobry - salam den  
-dzień świętego Jana - yohani feste  
+dzień świętego Jana - Yohan festa  
 dziki - ekojeni  
 dziki - vildi  
 dziobak - bata krote  
@@ -560,7 +556,7 @@ dziwny (nieznany) - ansavi
 dziwny - bizar  
 dzięki, dzięki ci - danke  
 dziękować - danka  
-dziś, dzisiaj - zaideno  
+dziś, dzisiaj - zai den  
 dzwon (dzwonek) - danger  
 dzwonić (dźwięczeć, szczękać) - danga  
 dół, jama, wydobycie, wykop, wykopalisko - kave  
@@ -770,7 +766,7 @@ grymas - grimas
 grzebień - kang  
 grzyb - funge  
 grzybnia - funge nete  
-grób (mogiła, grobowiec) - gabre  
+grób (mogiła, grobowiec, zakopać, pochować) - gabur  
 Guam - Guam  
 Gudżarat - gujarati  
 Guernsey - Gernezi  
@@ -837,16 +833,16 @@ heteroseksualny - aloseksi
 hełm - sarkaske  
 higiena - salsafia  
 Himalaje - Himalia  
-hinduistyczny - hindiste  
-hinduizm - hindistia  
+hinduistyczny - Hindu  
+hinduizm - Hindu din  
 hipopotam - gubu*  
 historia, badanie historii - historia  
-historia; annały, roczniki - histor  
-historyk - historer  
+historia; annały, roczniki - histori  
+historyk - histori ja  
 Hiszpania - Espania  
 hmm - hem  
 Ho Chi Minh (Sajgon) - Ho chi Min site  
-hobby - hobe  
+hobby - hobi  
 hodowla zwierząt - zou agria  
 hojność (szczodrość) - karimia  
 hojny (szczodry) - karimi  
@@ -924,9 +920,8 @@ ironia dramatyczna - dramironia
 ironia sytuacyjna - sheihalironia  
 ironiczny - ironi  
 iryd - iridium  
-Islam - islamistia  
+Islam - islam din  
 islamofobia - islamfobia  
-islamski - islamisti  
 Islandia - Islandia  
 istnieć (być obecnym) - zayu  
 Italia, Włochy - Italia  
@@ -946,8 +941,8 @@ jagoda - bere
 jajko (jajo) - ande  
 jak (zwierzę) - yake  
 jak, niż, od - ka  
-jak? - ki shei  
-jaki? - ki yangi  
+jak? - ke shei  
+jaki? - ke yang  
 jakikolwiek, którykolwiek - eni  
 jakiś - koi (koyi)  
 Jamajka - Jamaika  
@@ -979,17 +974,18 @@ Jersey - Jerze
 jesień - padomosim  
 jesion - yasen  
 jezioro - lage  
-Jezus - Yesus  
+Jezus - Yesu  
+Jezus Chrystus - Yesu mesi  
 jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - aga  
 jod; jodyna - yodem  
 jodła - abete  
-joga - yoge  
-jogin (joginka) - yogiste  
+joga - yoga  
+jogin (joginka) - yoga ja  
 jon - iyon  
 Jordan - Urdun  
-Joruba - yorubi  
+Joruba - Yoruba  
 Jowisz - Jupiter  
-judaizm - yehudistia  
+judaizm - yehudi din  
 judo - judau  
 jutro - posdeno  
 już (skończona czynność) - fino  
@@ -999,7 +995,7 @@ język ojczysty (język rodzimy) - jeni bash
 język surinamski - surinami bash  
 język sztuczny - chanbash  
 język świata, język ogólnoświatowy - dunia bash  
-język; komunikacja - basha  
+język; komunikacja; mówić - basha  
 językoznastwo - bashalogi  
 ####K - K  
 kabaczek (dynia, tykwa) - kaboge  
@@ -1048,7 +1044,7 @@ karczoch zwyczajny - karchof
 Karnataka - karnadia  
 karta - karde  
 kartka (dokument) - varke  
-kartografia - metrografia  
+kartografia - metregrafia  
 kasjer - kasher  
 kasta - jenklas  
 kaszel; kaszlnięcie - kose  
@@ -1133,7 +1129,6 @@ kolonializm - kolonistia
 kolonizator - koloner  
 kolonizować - kolona  
 kolor - rang  
-kolorowy - rangi  
 Kolumbia - Kolombia  
 kolumna, filar - kolum  
 komar, moskit - moskite  
@@ -1200,7 +1195,7 @@ kość - oste
 kość do gry - zarkube  
 krab - krabe  
 kradzież - chor  
-kraj, ziemia - desh  
+kraj, ziemia - desha  
 kran (zawór) - kran  
 kredens (szafa, szafka) - almare  
 krem - krem  
@@ -1235,13 +1230,12 @@ królik, zając - tuze
 królowa - femi rajer  
 krótki - korti  
 ksenon - xenon  
-ksiądz, kleryk, kaznodzieja - dinguru*  
+ksiądz, kleryk, kaznodzieja - din guru  
 książka - buke  
 książka z obrazkami - grafbuke  
 księżyc - lune  
 kszesło, fotel - kurse  
 ktoś - koi jan  
-który? - ki  
 Kuba - Kuba  
 kubek - kupe  
 kubek do herbaty - chaikupe  
@@ -1411,7 +1405,7 @@ mangostan - mangus
 mangusta - mungus  
 manicheizm - manihayistia  
 maniok - manyoke  
-mapa - metrograf  
+mapa - metregraf  
 marathi - marati  
 maraton - maraton  
 marchew - karote  
@@ -1431,8 +1425,8 @@ masa - mas
 masaż - masaje  
 maska, kamuflaż - maske  
 maszt - maste  
-maszyna - mashin  
-maszyna do pisania - kitabomashin  
+maszyna - gi  
+maszyna do pisania - kitabu gi  
 masło - makan  
 masłosz Parka - karite  
 matematyk - hisabolojer  
@@ -1467,13 +1461,12 @@ melodyczny - melodi
 melon koreański - aromomelon  
 melon miodowy - lugomelon  
 Merkury - Merkur  
-mesjański - kristi  
+mesjański - mesi li  
 metal - metal  
 metal ciężki - bara metal  
 metoda, sposób - metode  
 metr - mitre  
 metro - tuneltren  
-miara - metre  
 miast, miasteczko - citi  
 miasto - nagre  
 miecz - katane  
@@ -1501,7 +1494,7 @@ mili- - mili*
 miligram - miligram  
 milimetr - milimitre  
 milion - mega  
-milion - yota*  
+milion - yota  
 militarny, wojskowy, wojenny - jengi  
 minerał, ruda - kuang  
 minimal - minimi  
@@ -1514,7 +1507,7 @@ minąć, mijać, przeminąć, przemijać - pas
 misja - misia  
 mistrz (ekspert) - mester  
 mistrz (sensei) - shifu  
-mit, boska opowieść - deusage  
+mit, boska opowieść - deu saga  
 miód - medu  
 mięczak (morski bezkręgowiec) - moluske  
 między (wśród, pośród) - medu  
@@ -1575,8 +1568,6 @@ motyl - pelpel
 Mozambik - Mozambike  
 Mołdawia - Moldova  
 może - hai  
-możliwość, umiejętność - able  
-możliwy - abli  
 mruganie (błysk) - shingofota  
 mrówka - murche  
 mucha - domzeze  
@@ -1586,20 +1577,19 @@ musieć - debu
 muskuł, mięsień - muskul  
 muszkiet - muskete  
 muszkieter - musketer  
-muzułman, muzułmanin - islamiste  
+muzułman, muzułmanin - islam din jan  
 muzyk - muziker  
 muzyka - muzike  
-muł - gadogude  
+muł - iha uma  
 my - mimen  
 mydło - sabun  
 mylić (gmatwać, zmieszać, konsternować) - ruhmisha  
-mysz - mush  
+mysz - mushu  
 myśl, pomysł - fikre  
 myśleć, dumać, rozmyślać, zastanawiać się, rozważać - fikra  
-móc, umieć - abla  
+móc, umieć, możliwy, prawdopodobnie - bil  
 mój - mi di  
 mówić, rozmawiać - loga  
-mówić; komunikować - basha  
 mózg - serebre  
 mądrość - sofita  
 mądry - sofi  
@@ -1626,7 +1616,7 @@ nadać, wysłać pocztą - posta
 Naddniestrze - Nistria  
 nadzieja, życzenie - inshala  
 nagi, goły, obnażony - nudi  
-nagrobek - gabrosheke  
+nagrobek - gabur sheke  
 nahuatl - navati  
 najmniej, minimalnie - minim (minimo)  
 naleśnik - krepe  
@@ -1641,7 +1631,6 @@ namoczyć (marynować) - purshipa
 nano- - nano  
 nanometr - nanomitre  
 napierśnik - sinoplate  
-napisać, pisać - kitaba  
 naprawa - shuli  
 naprawiacz - shulija  
 naprawić, naprawiać - shuli  
@@ -1655,6 +1644,7 @@ naród, narodowość - nasia
 nasienny - semi  
 następny (następujący) - posi  
 natura, środowisko - ekia  
+natura, środowisko - tabi  
 nauczyciel - shule guru  
 nauczyć się, uczyć się, studiować - shula  
 nauka, badanie, studiowanie - logi  
@@ -1699,7 +1689,6 @@ niech my, hajda - haida
 niechętny - anichi  
 niedziela - sete me den  
 niedźwiedź - urse  
-nieliczność - shauta  
 Niemcy - Doichia  
 niemiecki - doichi  
 niemowlę - bebe  
@@ -1710,7 +1699,7 @@ niepotrzebny - anyavi
 nieskończoność - anlimitia  
 niespodziewany - anchenvidi  
 nietoperz - feimush  
-niewiele (mało) - shau  
+niewiele (mało, nieliczność) - shau  
 niewierny (poganin, niewierzący) - kafir  
 niewierny - andiniste  
 niezgoda - alorayia  
@@ -1787,7 +1776,7 @@ obserwator (widz) - vider
 obsydian - osidian  
 obudzić, budzić - jaga  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - rite  
-obywatel - deshojan  
+obywatel - deshajan  
 obóz - kamper  
 ocean - daihai  
 Ocean Antarktyczny (Ocean Południowy) - Antartiki Hai  
@@ -1852,7 +1841,7 @@ opowiadanie, opowieść, legenda, saga - sage
 opowiedzieć, opowiadać - saga  
 oprócz, minus - mina  
 opłata, taryfa - tarif  
-organiczny - biyi  
+organiczny - bio  
 orgazm - orgazme  
 orija - odisi  
 Oromia - Oromia  
@@ -1862,7 +1851,7 @@ oset - kardon
 oset zwisły - pendokardon  
 Osetia Południowa - Sudi Iria (Alonia)  
 osiem (8) - bato  
-osioł - gade  
+osioł - iha  
 osm - osmium  
 osmoza - osmos  
 osoba - jan  
@@ -1954,7 +1943,7 @@ pas, strefa - zon
 paskal (Pa) - paskal  
 pasować - konboni  
 pasta - paste  
-pasywny (nieaktywny) - pasivi  
+pasywny (nieaktywny) - pastabi  
 paszport - pasporte  
 patelnia - tave  
 patogen - patojener  
@@ -2017,7 +2006,7 @@ piramida - piram
 pirat (osoba naruszająca prawa własności intelektualnej) - piratiste  
 pirat - pirater  
 pirotechnika - hogotehne  
-pismo, tekst - kitabe  
+pismo, tekst - kitabu  
 pistolet - pistol  
 pistolet, strzelba, ręczna broń palna - pau  
 Pitcairn - Pitkerne nesia  
@@ -2031,7 +2020,7 @@ piątek - penta me den
 pięciokąt (pentagon) - limgon  
 pięciościan (pryzmat) - limfas  
 piękno - sundaria  
-piękny, przystojny - sundari  
+piękny, przystojny - sundar  
 pięć (5) - penta  
 piła - sere  
 piłka - bol  
@@ -2212,7 +2201,6 @@ pralka - vashmashin
 prawa autorskie - kopohake  
 prawa człowieka - insani hake  
 prawa strona - raite  
-prawdopodobnie (możliwie) - ablo  
 prawdziwy (rzeczywisty, szczery) - veri  
 prawicowiec (prawak) - raitiste  
 prawo - kanun  
@@ -2316,10 +2304,11 @@ przymiotnik - sifloge
 przymus - mus  
 przyprawa - masale  
 przyrostek (sufiks) - posfikse  
-przyrostek dla ideologii - istia  
+przyrostek dla ideologii - giau  
 przyrostek dla miejsca - ya  
-przyrostek dla wsperającego ideę - iste  
-przyrostek dla wykonawcy - er  
+przyrostek dla wsperającego ideę - helpeja  
+przyrostek dla wykonawcy - ateja  
+przyrostek dla wykonawcy - ja  
 przystojny, atrakcyjny, ładny - bonvidi  
 przyszłość - posozam  
 przysłówek - modologe  
@@ -2328,7 +2317,7 @@ prędkościomierz - rapidometrer
 prędkość (szybkość) - rapidia  
 pręt, kij - baton  
 pstrąg potokowy - brunsalmon  
-pstrąg tęczowy - rangarkosalmon  
+pstrąg tęczowy - rangarke salmon  
 psychologia - ruhulogi  
 pszczoła lub osa - vespe  
 pszczoła miodna - medu vespe  
@@ -2407,7 +2396,7 @@ register - deftia
 rejestr - defte  
 rekin - sharke  
 religia, wyznanie - din  
-religijny - dini  
+religijny - din li  
 relikwia - chenike  
 ren - renium  
 reprezentant (przedstawiciel) - vakil  
@@ -2444,8 +2433,8 @@ romantyczny - romansi
 ropa naftowa - petronefte  
 rosa - rose  
 Rosja - Rusia  
-rosyjski - rusi  
-rosyjski naleśnik (blin) - rusi krepe  
+rosyjski - rusia basha  
+rosyjski naleśnik (blin) - rusia krepe  
 rotor, wirnik - roter  
 rower - sikle  
 rower z pedałami - pedalsikle  
@@ -2519,7 +2508,7 @@ rzut (projekcja) - lanchograf
 Rzym - Roma  
 rząd - polite  
 rządzić - polita  
-rządzić, władać - kratia  
+rządzić, władać - krati  
 rządzić, władać - sulta  
 rzęsa - okokesh  
 róg - buge  
@@ -2555,7 +2544,7 @@ Samoa - Samoa
 samobieżny - automoti  
 samochód (automobil) - motogar  
 samogłoska - jungofon  
-samolot - viman  
+samolot - fei gi  
 samppanja - shampan vin  
 San Marino - Santi Marino  
 sarkazm - logironia  
@@ -2621,7 +2610,7 @@ skoczyć, skakać - jampa
 skonsumować, konsumować, zjeść, jeść, wypić, pić) - yama  
 skorupa (pancerz, muszla) - kaske  
 skończony (ograniczony) - limiti  
-skończyć, kończyć - fina  
+skończyć, kończyć - fin  
 skośny (ukośny, pochyły) - terchi  
 skradanie się - siri mote  
 skradać się - siro motu  
@@ -2773,10 +2762,10 @@ szaman - shaman
 szampon - keshosabun  
 Szanghaj - shanghai  
 szansa - chanse  
-szariat - islamisti sharia  
-szary - huirangi  
+szariat - islam din sharia  
+szary - huirang  
 szaszłyk - shishmanse  
-szczepionka - vaksin  
+szczepionka - vacin  
 szczoteczka do zębów - dantobrosh  
 szczotka - brosh  
 szczyt (wierzchołek) - shanpike  
@@ -2806,10 +2795,10 @@ szokwstrząs; kolizja - shoke
 szop pracz - vashurse  
 szorstki - karsi  
 szparag; szparagia - lusun  
-szron - himros  
+szron - hima rose  
 sztuczka (podstęp, oszustwo) - truke  
 sztuczny - chani  
-sztuka - arte  
+sztuka - sundar shutu  
 sztuka walki - jengoshute  
 sztylet (puginał) - kanjar  
 szuflada - tirsanduke  
@@ -2840,7 +2829,7 @@ słownictwo - logia
 słowny (leksykalny) - logi  
 słowo (mowa) - loge  
 słowo - logem  
-słoń - gaje  
+słoń - gaja  
 słońce - sol  
 słuchać - ora  
 sługa - server  
@@ -2858,7 +2847,7 @@ Tajpej - Taibei
 tajski - tayi  
 Tajwan, Republika Chińska - Taivan  
 tak - ye  
-taki sam - sami  
+taki sam - sam  
 taksometr - taksometrer  
 taktyka, strategia - tatike  
 tal - talium  
@@ -2882,8 +2871,8 @@ technet - teknium
 technika, technologia - tehne  
 technokracja - tehnekrati  
 technologia, nauka o technikach - tehnelogi  
-teistyczny - deviste  
-teizm - devistia  
+teistyczny - deu din ja  
+teizm - deu din  
 tektonika płyt - plati geyokaskia  
 telefon - telefon  
 teleportować się - teleloku  
@@ -2892,21 +2881,21 @@ telewizja - telvide
 tellur - telurium  
 telugu - telugi  
 temat, motyw - tem  
-temperatura - terme  
-tendencja - ivia  
+temperatura - termo  
+tendencja (być skłonnym) - klin  
 tenesyn, tennessine - tenesium  
 tenis - tenis  
-teokracja - deukratia  
-teologia - deulojia  
+teokracja - deu krati  
+teologia - deu logi  
 teoria - teoria  
-teozofia - deusofia  
+teozofia - deu sofi  
 tera- - tera*  
 terakota - bekofan  
-teraźniejszość, współczesność (teraz) - zaizam  
+teraźniejszość, współczesność (teraz) - zai zam  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
 teren - geyoforme  
-termometr - termometrer  
+termometr - termometre gi  
 terror - teror  
 terrorysta - teroriste  
 terroryzm - teroristia  
@@ -2989,8 +2978,8 @@ tydzień - yomchete
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suikaboge  
 typ (rodzaj, gatunek) - tipe  
-tyran - zalimi rajer  
-tyrania - zalimia  
+tyran - zalim raja  
+tyrania - zalimta  
 tysiąc (kilo-) - kili  
 tytan - titanium  
 tytoń - tabake  
@@ -3024,9 +3013,8 @@ ul (gniazdo pszczół lub os) - vesponide
 ul - medu vespe sanduke  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
 ulubiony - mashfili  
-umiejętność (kompetencja) - shute  
+umiejętność (kompetencja) - shutu  
 umiejętny (sprawny, zręczny) - jangi  
-umiejętny (wprawny) - shuti  
 umieścić (postawić) - loka  
 umrzeć, umierać - mortu  
 umysłowy (psychiczny) - ruhi  
@@ -3034,7 +3022,6 @@ unia - unia
 Unia Europejska (EU) - Europi Unia  
 uniwersytet - daishulkan  
 upadły - padi  
-uprawiać jogę - yoga  
 uprawić, uprawiać - agra  
 uprzejmy - kechi  
 upuścić, upuszczać - pada  
@@ -3060,7 +3047,7 @@ uwolnić, uwalniać - hura
 Uzbekistan - Uzbekia  
 uznać (przynać, przyjąć do wiadomości) - resida  
 ułożyć w trabelę - tabla date  
-uświadomienie, świadomość; oświecenie, bodhi - bude  
+uświadomienie, świadomość; oświecenie, bodhi - budi  
 uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - buda  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidi  
 użytkownik - user  
@@ -3104,7 +3091,7 @@ według ruchu wskazówek zegara - rotoraito
 weganin (weganka) - purfityamiste  
 wegetarianin - fityamiste  
 wejście - jinmun  
-welon (woalka) - hijabe  
+welon (woalka) - hijabu  
 Wenezuela - Venezuela  
 Wenus - Venus  
 Wenzhou - Venjou  
@@ -3151,7 +3138,7 @@ wielościan - polfas
 wieprzowina - goro manse  
 wiercić, borować - fora  
 wierzyć - shina  
-wierzący (osoba religijna) - diniste  
+wierzący (osoba religijna) - din ja  
 Wietnam - Vietia  
 wietnamski - vieti  
 wiewiórka - ekore  
@@ -3170,7 +3157,7 @@ wiosna - hua mosim
 wirus - virus  
 wirusologia - viruslogi  
 witaj, dobre przybycie - salam lai  
-witraż - rangi kanche  
+witraż - rang kanche  
 witryna internetowa (portal internetowy) - netoloke  
 wiwatować; hura - ura  
 wiza - vize  
@@ -3336,7 +3323,6 @@ zaimek - visloge
 zainteresowanie, zaciekawienie; interesujący - savovol  
 zajęty - mangi  
 zaklecie - magasar  
-zakopać (pochować) - gabra  
 zakrzywiony - kurvi  
 zakupy (sprawunki, shopping) - shope  
 zakładać (założyć) - chenaga  
@@ -3368,13 +3354,13 @@ zapomnieć, zapominać - bula
 zapożyczenie (wyraz obcy) - jekologe  
 zaprosić, zapraszać - chinga laya  
 zaprzęc, zaprzęgać - harnes  
-zapytać, pytać - ki sate  
+zapytać, pytać - ke sate  
 zapytać, spytać, pytać - suala  
 zapłacić, opłacić, płacić - peya  
 zapłata, opłata - pei  
-zaratrustianin - zardushiste  
+zaratrustianin - Zardush din ja  
 Zaratusztra - Zardush  
-zaratusztrianizm - zardushistia  
+zaratusztrianizm - Zardush din  
 zarządzanie (-nomia) - nomia  
 zarządzać (organizować, kierować) - noma  
 zaskoczenie - suprize  
@@ -3444,10 +3430,9 @@ zmaksymalizować - mashima
 zmiana klimatu - klimmute  
 zmienić (zmieniać) - ala  
 zmienić, zmieniać - muta  
-zmierzyć - metra  
+zmierzyć (miara) - metre  
 zminimalizować - minima  
 zmniejszyć o jeden - mindarja  
-zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - musa  
 zmysł - sense  
 zmęczenie (wyczerpanie) - fatigia  
 znaczek pocztowy - postochape  
@@ -3460,8 +3445,8 @@ znowu (ponownie) - reyo
 znudzony - bori  
 zombie, zombi - zombi  
 zoo (ogród zoologiczny) - zou parke  
-zoologia - zou loje  
-zoologiczny - zou loje de  
+zoologia - zou logi  
+zoologiczny - zou logi di  
 zostawić (zostawiać) - shante  
 zostać, zostawać - restu  
 zrobić (stworzyć, wykreować) - fata  
@@ -3487,7 +3472,7 @@ złocień indyjski - neftoguke
 złodziej - chorer  
 złoto - aure  
 złowieszczy - dusosinyi  
-złośliwy, okrutny - zalimi  
+złośliwy, okrutny - zalim  
 zły (wsciekły, gniewny) - furi  
 zły los - dusi zar  
 zły, zrujnowany, zepsuty - harabi  
@@ -3527,8 +3512,8 @@ zły, zrujnowany, zepsuty - harabi
 śmierć - morte  
 śmieć, odpadek - laje  
 śniadanie - subyam  
-śnieg - hime  
-śnieżyć (padać) - himu  
+śnieg - hima  
+śnieżyć (padać) -   
 śpiewać - chanta  
 średni - medi  
 środa - tri me den  
@@ -3566,7 +3551,7 @@ zły, zrujnowany, zepsuty - harabi
 żołądź - balutopal  
 żwir - grave  
 życie - jiu  
-życie organiczne - biye  
+życie organiczne - bio vute  
 żydowski - yehudi  
 żyrafa - jiraf  
 żywica - rezin  
