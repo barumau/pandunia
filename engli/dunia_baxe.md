@@ -196,15 +196,14 @@ Like this:
 
 
 
-## Relatively simple structure
+## The simplest structure
 
 Languages can be categorized by two parameters:
 
 - Is a single word made of few or many parts?
 - Are those parts easy to separate or fused together?
 
-The widely spoken languages can be divided into four types according
-to these parameters.
+The widely spoken languages can be categorized into four types according to these parameters.
 
 1. Analytic languages – Words are made of few, distinct parts.
     - Mandarin Chinese
@@ -224,42 +223,42 @@ _Many a cat_ is an analytic phrase that consists of three separate words.
 _Cats_ is an agglutinative word that consists of two distincts parts, _cat_ and _-s_.
 _Leaves_ is a fused word that consists of two parts, _leaf_ and _-s_.
 
-Pandunia belongs to the first type.
-It is an analytic language.
+Pandunia is an analytic language.
 Its words consist of few parts and they are clearly separable.
 This is a good thing because it makes the language easy to learn and use
-in comparison to languages where words in average are long and consist of many parts.
+in comparison to languages where words are longer or fused of many parts.
 
 
 ### Parts of word
 
-The word is made of a root and optional affixes, which are attached
-to the root. Prefixing languages put affixes before the root and
-suffixing languages put affixes after the root. Some languages put
-affixes on both sides or even inside the root. Usually languages use
-several different ways. For example English uses both prefixes (ex.
-un-kind) and suffixes (kind-ly)
+The word is made of a root and optional affixes, which are attached to the root word.
+Prefixing languages put affixes before the root and
+suffixing languages put affixes after the root.
+Some languages put affixes on both sides or even inside the root.
+Usually languages use several different ways.
+For example English uses both prefixes (ex. un-kind) and suffixes (ex. kind-ly).
 
-Suffixing languages are the most common type. Indo-European
-languages, Telugu, Chinese and Japanese are mostly suffixing.
+Suffixing languages are the most common type.
+Indo-European languages, Telugu, Chinese and Japanese are mostly suffixing.
 
-Chinese has no inflection. Words are only combined into larger words.
-Some words have a special meaning when they appear as a part of a
-larger word. These so called bound morphemes are much like suffixes.
+Chinese has no inflection.
+Words are only combined into larger words.
+Some words have a special meaning when they appear as a part of a larger word.
+These so called bound morphemes are much like suffixes.
 
-English, Spanish and Hindustani use mainly _root and affix system_.
-The meaning is changed by adding dependent parts before and after the
-root. For example "booklets" consists of root _book_ and affixes
-_-let_ (which adds meaning of smallness) and _-s_ (which adds plural
-meaning). Most affixes can't appear alone, but they need a root.
+English, Spanish and Hindi-Urdu use mainly _root and affix system_.
+The meaning is changed by adding dependent parts before and after the root.
+For example "booklets" consists of root _book_ and affixes _-let_ (which adds meaning of smallness) and _-s_ (which adds plural meaning).
+Most affixes can't stand alone, they always need to be fixed to a root.
 
-Arabic uses transfixes (also known as the [root and pattern system](https://www.britannica.com/topic/root-and-pattern-system)).
-The root consists of (usually three) consonants and the root is
-changed by inserting a pattern of vowels between them. Arabic also
-has many prefixes and suffixes for creating additional words.
+Arabic uses transfixes.
+The root consists of (usually three) consonants and it is changed by inserting a pattern of vowels between them.
+Arabic also has many prefixes and suffixes for creating additional words.
 
-Pandunia uses _root and affix system_. The principles of this system
-are known to most people. New words can be created easily.
+Pandunia uses the simplest system.
+The words can consist of many parts,
+all of which can also stand alone as independent words.
+New words can be created easily.
 
 
 ### Word orders
@@ -267,22 +266,21 @@ are known to most people. New words can be created easily.
 Different word orders are used in the languages of the world.
 Some of the most important areas of word order are:
 
-- Sentence structure. Order of subject (S), verb (V) and object (O)
-  in a transitive clause. The most common sentence structures are 
-  subject-verb-object (SVO) and object-verb-subject (SOV).
-- Order of numeral and noun. Cardinal numeral can either precede
-  (NumN) or follow (NNum) the noun.
+- Sentence structure.
+  Order of subject (S), verb (V) and object (O) in a transitive clause.
+  The most common sentence structures are subject–verb–object (SVO) and subject–object–verb (SOV).
+- Order of numeral and noun.
+  Cardinal numeral can be either before (NumN) or after (NNum) the noun.
 - Order of adjective and noun. There are two possible orders
-    1. Adjective precedes the noun (AdjN)
-    2. Adjective follows the noun (NAdj)
+    1. Adjective is before the noun (AdjN)
+    2. Adjective is after the noun (NAdj)
 - Order of adposition and noun.
-    1. Prepositions precede the noun.
-    2. Postpositions follow the noun.
-- Order of relative clause and noun. The relative clause can either
-  precede (RelN) or follow (NRel) the noun.
+    1. Prepositions are before the noun.
+    2. Postpositions are after the noun.
+- Order of relative clause and noun.
+  The relative clause can be either before (RelN) or after (NRel) the noun.
 
-The table below shows what are the typical, unmarked word orders in
-several important world languages.
+The table below shows what are the typical, unmarked word orders in important world languages.
 
 | Language   | Sentence | Numeral | Adjective | Relative | Adposition |
 |------------|:--------:|:-------:|:---------:|:--------:|:----------:|
@@ -297,35 +295,18 @@ several important world languages.
 | Japanese   | SOV      | NumN    | AdjN      | RelN     | post       |
 | Swahili    | SVO      | NNum    | NAdj      | NRel     | pre        |
 
-Also other word orders can be possible. For example in English, which
-normally uses the SVO order in declarative sentences, the object can
-be fronted in interrogative and relative clauses, like in "What did
-you say?"
+Also other word orders are possible.
+For example in English, which normally uses the SVO order in declarative sentences,
+the object can be fronted in interrogative and relative clauses,
+as in "What did you say?"
 
-We can see from the previous table that languages do not agree about
-word orders. There are three main types of languages:
-
-1. Languages where the main word comes first have typically SVO,
-   NNum, NAdj, NRel and prepositions.
-2. Languages where the main word comes last have typically SOV, NumN,
-   AdjN, RelN and postpositions.
-3. Languages with mixed or free word order.
-
-The third type is the most attractive for the world auxiliary
-language, which has to welcome people with many different speaking
-habits. It doesn't make the language only versatile but also more
-interesting!
-
-
-**mo ai ni.** (SVO)  
-**me te amu.** (SOV)  
-I love you.
-
-**me jampa supra gavi meze.**
-(I jump, surpass the high table.)  
-**me jampa gavi meze supru.**
-(I jump, the high table is-surpassed.)  
-I jump over the high table.
+The previous table shows that the major languages don't agree about word orders.
+Pandunia uses the most common word orders:
+subject–verb–object (SVO),
+numeral before the noun,
+adjective before the noun,
+relative clause after the noun
+and prepositions.
 
 
  
@@ -489,10 +470,10 @@ a normal PoS suffix.
 |----|---------------|------------|------------|------------|------------|------------|
 | 水 | **sui**       | sui        | shuǐ       | sui        | su         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
-| 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
+| 心 | **shim**      | sam        | xīn        | shin       | shim       | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
 | 讀 | **dug**       | duk        | dú         | doku       | dog        | đọc        |
-| 出 | **cut**       | cœt        | chū        | shutsu     | chul       | xuất       |
+| 出 | **chute**     | cœt        | chū        | shutsu     | chul       | xuất       |
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual
 at first, but it is nothing new – Sinitic words are already inflected
@@ -509,7 +490,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi ai tu, tu ai mi.
+    Pandunia:  mi love tu, tu love mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb **be** is used when the object of the action comes first in the sentence.
@@ -523,13 +504,13 @@ The auxiliary verb **be** is used when the object of the action comes first in t
 but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ya no kan be yam.
+    Pandunia:  ya no bil be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi cing ya yam kafe.
+    Pandunia:  mi ching ya yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
