@@ -38,10 +38,7 @@ Lorsque vous commencez à traduire pour une nouvelle langue, commencez à partir
     * Cette page devrait inclure une courte introduction au Pandunia.
     * N'inclure dans cette page que les liens dont les pages existent et/ou sont prêtes.
     * Si votre version est incomplète, redirigez le lecteur vers une autre version (comme l'anglais).
-* navigation.md
-    * C'est le menu principal du site
-    * N'inclure dans cette page que les liens dont les pages existent et/ou sont prêtes.
-* abc.md
+* 102_ABC.md
     * Cette page explique comment prononcer le Pandunia
 * fraze.md
     * Cette page présente les mots de base, les phrases et les structures grammaticales.
