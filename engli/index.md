@@ -23,8 +23,8 @@ Its words have been borrowed from many languages on all continents and all cultu
 
 ## Coming soon...
 
-New and improved version of Pandunia will be published in March 2021.
-Version 2.0 includes improved grammatical structures, more logical structure words, and new and changed words.
+New and improved version of Pandunia will be finalized in August 2021.
+Version 2.0 includes simpler grammar, more international word forms, and many new words.
 
 
 ## How to learn it?
