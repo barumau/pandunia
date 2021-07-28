@@ -24,7 +24,7 @@ Creators of Pandunia began to create a language together first in 2005.
 Since the beginning the basic idea was to create an evenly global
 auxiliary language. Many different structures and ideas were tried
 over the years. The name _Pandunia_ was invented already in 2007 but
-the language got its "final" form in 2017 – but of course languages
+the language got its "final" form in 2021 – but of course languages
 evolve all the time!
 
 #### What does the flag of Pandunia represent?
@@ -37,7 +37,7 @@ equality sign is laid over the Earth.
 
 #### Why the mascot of Pandunia is a duck-billed platypus?
 
-Platypus (**batokrote** in Pandunia) is an egg-laying, duck-billed,
+Platypus (**batakrote** in Pandunia) is an egg-laying, duck-billed,
 beaver-tailed, otter-footed mammal that lives in eastern Australia.
 It is an unusual creature. That's why the platypus is a fitting
 mascot for Pandunia, which is also an unusual mix, a mix of words and
@@ -76,11 +76,10 @@ languages.
     - Esperanto, Ido, Novial etc. were closely examined.
     - Latino sine Flexione, Lingua Sistemfrater and Interglossa all
       have well thought-out isolating grammars.
-- Natural contact languages gave many ideas. It is an interesting
-  observation that when speakers of different languages come into
-  contact, they tend to create extremely simplified grammar to
-  overcome the language barrier — no matter how complex languages
-  they speak natively.
+- Natural contact languages (so called _pidgins_ and _creoles_) gave many ideas.
+  It is an interesting observation that when speakers of different languages come into contact,
+  they tend to create extremely simplified grammar to overcome the language barrier
+  — no matter how complex languages they speak natively.
 
 
 #### Who made Pandunia?
@@ -121,10 +120,9 @@ of the world. There are many worldlangs. Some of them are listed
 
 #### Did Esperanto contribute to the birth of Pandunia?
 
-At first Esperanto was an important source of inspiration. However
-the influence of Esperanto to the final language is insignificant.
-Pandunia has very different structure and vocabulary compared to
-Esperanto.
+At first Esperanto was an important source of inspiration.
+However the influence of Esperanto to the final language is insignificant.
+Pandunia has very different structure and vocabulary compared to Esperanto.
 
 #### Are the makers of Pandunia aware of the history of the IAL movement?
 
@@ -196,18 +194,19 @@ Chinese, for example **xim, xin** and **xuxe**.
 ![](http://www.pandunia.info/grafe/X.png "C = ʃ")
 
 
-#### Why is the letter C pronounced like CH?
+#### Why is the letter C pronounced like TS in cats?
 
-Actually there are several languages where C is pronounced like English CH,
-including Indonesian, Hausa, Oromo and Rwanda.
-In Italian, when C is followed by E or I, it is pronounced /tʃ/.
-This pronunciation is present in English loan words from Italian such as _cello_ and _cappuccino_.
+Actually there are several languages where C is pronounced like TS in _cats_,
+including Polish, Czech, Hungarian and sometimes German.
+This pronunciation comes from Medieval Latin.
+The pronunciation of C is similar also in the standard Romanization of Mandarin Chinese.
 
-![](http://www.pandunia.info/grafe/C.png "C = ts o tʃ")
+![](http://www.pandunia.info/grafe/C.png "C = ts")
 
-On the other hand, the letter C doesn't stand for any dedicated sound in English.
-The _hard C_ can be replaced by K and the _soft C_ by S.
-So it makes sense to use C instead of CH.
+In addition, the change of sound from
+S (**s** in the International Phonetic Alphabet, IPA)
+to SH (**ʃ** in IPA) is similar as
+the change from C (**ts** in IPA) to CH (**tʃ** in IPA).
 
 #### Is Pandunia's alphabet unique?
 
@@ -233,21 +232,21 @@ used in other languages in the table below.
 - Letters that correspond usually to different sounds in Pandunia
   and in the compared language are listed under DIFFERENT.
 
-| ALPHABET         | SIMILAR                                           | MISSING |DIFFERENT    |
-|:-----------------|---------------------------------------------------|---------|-------------|
-| Pandunia         | a b c d e f g h i j k l m n o p r s t u v   x y z |         |             |
-| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v     y z | x       |             |
-| Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
-| Hausa            | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
-| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   w x y   | v       | e z         |
-| Swahili          | a b   d e f g h i j k l m n o p r s t u v w   y z | c x     |             |
-| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u   w   y z | v c x   | f r         |
-| Portuguese       | a b   d e f g   i   k l m n o p r s t u v   x   z | y       | c h j       |
-| English          |   b   d   f g h i j k l m n o p r s t   v w   y z |         | a c e u x   |
-| French           | a b   d e f g   i   k l m n o p   s t u v w   y z |         | c h j r x   |
-| Spanish          | a b   d e f g   i   k l m n o p r s t u v     y   |         | c h j x z   |
-| German           | a b   d e f g h i   k l m n o p r s t u v         |         | c j x y z   |
-| Vietnamese       | a b     e   g h i   k l m n o p r   t u v     y   | f j z   | c d s x     |
+| ALPHABET         | SIMILAR                                                 | MISSING |DIFFERENT    |
+|:-----------------|---------------------------------------------------------|---------|-------------|
+| Pandunia         | a b c ch d e f g h i j k l m n o p r s sh t u v   x y z |         |             |
+| Indian Romaniz.  | a b   ch d e f g h i j k l m n o p r s sh t u v     y z | x       |             |
+| Malay/Indonesian | a b      d e f g h i j k l m n o p r s    t u   w   y z | v x     |             |
+| Hausa            | a b      d e f g h i j k l m n o p r s    t u   w   y z | v x     |             |
+| Chinese Pinyin   | a b c ch d   f g h i j k l m n o p r s sh t u   w   y   | v       | e x z       |
+| Swahili          | a b   ch d e f g h i j k l m n o p r s sh t u v w   y z | c x     |             |
+| Japanese Romaji  | a b   ch d e   g h i j k l m n o p   s sh t u   w   y z | v c x   | f r         |
+| Portuguese       | a b c    d e f g   i   k l m n o p r s    t u v   x   z | y       | h j         |
+| English          |   b c ch d   f g h i j k l m n o p r s sh t   v w x y z |         | a e u x     |
+| French           | a b c    d e f g   i   k l m n o p   s    t u v w x y z |         | h j r x     |
+| Spanish          | a b c    d e f g   i   k l m n o p r s    t u v   x y   |         | h j x z     |
+| German           | a b c    d e f g h i   k l m n o p r s    t u v   x     |         | j x y z     |
+| Vietnamese       | a b   ch   e   g h i   k l m n o p r      t u v     y   | f j z   | c d s x     |
 
 
 ## Grammar
@@ -290,98 +289,11 @@ In general, word forms can change in four ways.
 3. Change of an affix: electric ⇒ electron
 4. Addition of an affix: man ⇒ manhood
 
-In Pandunia, only 3. and 4. are used.
-We can change the ending of a word,
-so for example **loge** (_speech_) can be changed to **loga** (_to speak_).
-We can also add suffixes,
-so for example **insania** (_humanity_) can be created from **insan** (_human being_).
-
-#### Why word forms change in Pandunia?
-
-Pandunia uses different word forms to indicate different word classes.
-There are many good sides:
-
-- Learning the grammar is very easy because
-  the essentials of the grammar are encoded visibly and audibly in words.
-- You can understand the structure of a sentence without knowing the meaning of all words.
-- You don't have to memorize the word class with each word separately
-  – words include that information in the last vowel!
-- Word derivation is symmetric because word stems are neutral in Pandunia.
-   - A word stem becomes a verb, a noun or a modifier only when the corresponding vowel ending is added.
-   - Even transitive and intransitive verbs are symmetric in Pandunia,
-     so we always know is the subject the agent or the recipient of the action.
-
-Word class marking is a very efficient method to realize a functional grammar.
-It is done in Pandunia with a minimal set of only four endings.
-(In comparison, Esperanto employs 10 basic and 7 combined endings.)
-
-#### Why agglutinating structure was chosen for Pandunia?
-
-Different structures were considered and tested during the
-development of Pandunia. The main choice was between an agglutinating
-and an isolating structure.
-
-1. In an agglutinating language every word can be clearly divided
-   into component parts. For example Esperanto word "niaj" (our) is
-   made out of three parts: ni- (we), -a- (adjective marker) and -j
-   (plural marker).
-2. In an isolating language every word consists of just one part. For
-   example in Mandarin Chinese the word for "our" consists of three
-   separate words: wǒ (first person pronoun), men (plural marker) and
-   de (possessive marker). Then they are simply put together:
-   wǒmende, 我们的.
-
-Pandunia is a lightly agglutinating language. It uses separate words
-to express things like person, number, mood, tense and aspect, which
-are typically expressed with inflection in agglutinating and
-inflecting languages.
-
-To demonstrate the difference, let's compare the same sentence in
-Esperanto (a heavily agglutinating language) and Pandunia. Parts of
-word are separated with the vertical bar sign.
-
-    Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me vol|a   vid|a  t|i       dul|i sundar|i kan|e       zay|o.
-               I  want to see    your      two beautiful  eyes        now.
-
-#### Are the word class markers unnatural?
-
-Pandunia uses final vowels as word class markers.
-It is not an unnatural thing to do
-because there are comparable morphemes in natural languages
-that are used for marking various word classes and their subclasses.
-
-For example, the Bantu languages use a system of prefixes for marking nouns, verbs, adjectives and adverbs.
-Here are some Swahili words together with the same words in Pandunia.
-
-| Pandunia | Swahili | English meaning |
-|----------|---------|-----------------|
-| kitab-   | -and- | the root related to writing |
-| kitaba   | ku-and-ik-a | to write |
-| kitabu   | ku-and-ik-w-a | to be written |
-| kitabe   | ma-and-ish-i | writing, text |
-| kitabi   | -a ma-and-ish-i | written, textual |
-
-Another example, Arabic uses a system of vowel infixes to convert consonant roots into different word classes and their subclasses.
-Here are some Arabic words together with the same words in Pandunia.
-
-| Pandunia | Arabic | English meaning |
-|----------|---------|-----------------|
-| kitab-   | k-t-b | the root related to writing | 
-| kitaba   | kataba | to write |
-| kitabu   | kutiba | to be written |
-| kitabe   | kitāb | writing, text, book |
-| kitabi   | kitābi | written, textual |
-
-Pandunia's system is a very simple one – it includes only the bare minimum! – but otherwise it's nothing new.
-Various natural languages have comparable morphemes for marking words in different word classes.
-The morpheme type doesn't matter: prefixes, infixes, circumfixes and suffixes can do the same task.
-Single-vowel suffixes are the most minimal and therefore the simplest type!
-
-Looking at the examples above, it's obvious that the system of Pandunia is simpler than those of Swahili and Arabic.
-English is the least systematic as it uses sometimes independent words (to, to be) and sometimes suffixes (-en, -ing, -al) as markers.
-
-In conclusion, using the vowel suffixes for word class markers is unnatural only for its simplicity, nothing else.
+In Pandunia, only (4) is used,
+which means that words don't ever change
+but they can be only combined to create longer words.
+For example,
+**noveta** ('newness') can be created from **nove** ('new').
 
 
 ## Vocabulary
@@ -425,12 +337,7 @@ region.
 
 #### Why the last vowel of words is sometimes different in Pandunia than in language X?
 
-In Pandunia, words consist of a stem and one or more suffixes.
-A suffix is a part of word that belongs to the end.
-The final vowel of a word has a grammatical meaning in Pandunia.
-That's the basic reason why the final vowels are sometimes different in Pandunia than in other languages.
-
-The second reason is that Pandunia borrows words from many languages,
+The main reason is that Pandunia borrows words from many languages,
 and often those languages don't agree about the final vowel.
 For example the word **supe** (_soup_) ends in -a in Spanish _sopa_,
 in -u in Japanese スープ or _sūpu_,
@@ -438,12 +345,6 @@ in -e in German _Suppe_,
 and not in any vowel in English _soup_.
 So it's not one and the same word but rather an international family of similar words,
 and Pandunia's **supe** fits perfectly into that family.
-
-The third reason is that endings of words change already in many source languages.
-For example, Pandunia word **novi** is borrowed, among others, from Portuguese.
-In Portuguese, this word has many forms and only the stem nov- remains the same:
-_nov|o, nov|a, nov|os, nov|as, nov|idade, re|nov|ar_...
-So it makes sense to take only the stem and attach our regular Pandunia suffixes to it.
 
 #### Shouldn't "salam" mean "peace"?
 
