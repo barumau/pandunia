@@ -2,6 +2,59 @@
 
 ## Cardinal numbers
 
+| Ones    | Ten and over | 20 and over      | 30 and over      |
+|:--------|:-------------|:-----------------|:-----------------|
+| 0 siro  | 10 (un) des  | 20 du des        | 30 tri des       |
+| 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
+| 2 du    | 12 des du    | 22 du des du     | 32 tri des du    |
+| 3 tri   | 13 des tri   | 23 du des tri    | 33 tri des tri   |
+| 4 chatre| 14 des chatre| 24 du des chatre | 34 tri des chatre|
+| 5 penta | 15 des penta | 25 du des penta  | 35 tri des penta |
+| 6 luku  | 16 des luku  | 26 du des luku   | 36 tri des luku  |
+| 7 sete  | 17 des sete  | 27 du des sete   | 37 tri des sete  |
+| 8 bato  | 18 des bato  | 28 du des bato   | 38 tri des bato  |
+| 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
+
+| Ones    |  Tens         | Hundreds        | Thousands        |
+|:--------|:-------------|:----------------|:------------------|
+| 0 siro  |              |                 |                   |
+| 1 un    | 10 (un) des  | 100 un cen      | 1000 un kilo      |
+| 2 du    | 20 du des    | 200 du cen      | 2000 du kilo      |
+| 3 tri   | 30 tri des   | 300 tri cen     | 3000 tri kilo     |
+| 4 chatre| 40 chatre des| 400 chatre cen  | 4000 chatre kilo  |
+| 5 penta | 50 penta des | 500 penta cen   | 5000 penta kilo   |
+| 6 luku  | 60 luku des  | 600 luku cen    | 6000 luku kilo    |
+| 7 sete  | 70 sete des  | 700 sete cen    | 7000 sete kilo    |
+| 8 bato  | 80 bato des  | 800 bato cen    | 8000 bato kilo    |
+| 9 tisa  | 90 tisa des  | 900 tisa cen    | 9000 tisa kilo    |
+
+Greater numbers follow the same logic as above.
+
+10'000 un des kilo  
+100'000 un cen kilo  
+1'000'000 un mega  
+10'000'000 un des mega  
+100'000'000 un cen mega  
+1'000'000'000 un giga
+
+The numerals that are greater than one hundred are borrowed from the
+[International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI).
+They are used in scientific words in the whole world.
+
+| Prefix | Symbol | Base 10 | Decimal                        |
+|:-------|:------:|:-----|----------------------------------:|
+| yota   | Y      | 10²⁴ | 1 000 000 000 000 000 000 000 000 |
+| zeta   | Z      | 10²¹ |     1 000 000 000 000 000 000 000 | 
+| eksa   | E      | 10¹⁸ |         1 000 000 000 000 000 000 |
+| peta   | P      | 10¹⁵ |             1 000 000 000 000 000 |
+| tera   | T      | 10¹² |                 1 000 000 000 000 |
+| giga   | G      | 10⁹  |                     1 000 000 000 |
+| mega   | M      | 10⁶  |                         1 000 000 |
+| kilo   | k      | 10³  |                             1 000 |
+
+
+### Cardinal number before noun
+
 Quantity can be expressed with numerals and other quantity-words.
 They are put before the word or phrase that they qualify.
 
@@ -22,48 +75,6 @@ They are put before the word or phrase that they qualify.
 – two big chairs  
 **tri bon kursi**
 – three good chairs
-
-The basic number words are:
-
-- 0 **siro**
-- 1 **un**
-- 2 **du**
-- 3 **tri**
-- 4 **chatre**
-- 5 **penta**
-- 6 **luku**
-- 7 **sete**
-- 8 **bato**
-- 9 **tisa**
-
-Greater numbers are simply made by putting one digit after another –
-exactly like they are written in the universal numerical language of mathematics.
-
-- 10 **un siro** or **des**
-- 11 **un un**
-- 12 **un du**
-- 13 **un tri**
-- 20 **du siro** or **du des**
-- 21 **du un**
-- 22 **du du**
-- 100 **un siro siro** or **cen**
-- 101 **un siro uno** or **cen un**
-- 200 **du siro siro** or **du cen**
-
-Numbers that are greater than 999 may use the multiples from the International System of Units.
-So for example kilo denotes a multiple of a thousand.
-
-- 1 000 **kilo**
-- 1 000 000 **mega**
-- 1 000 000 000 **giga**
-- 1 000 000 000 000 **tera**
-- 10<sup>15</sup> **peta**
-- 10<sup>18</sup> **eksa**
-- 10<sup>21</sup> **zeta**
-- 10<sup>24</sup> **yota**
-    
-Sometimes it is known from the context how many objects are spoken about.
-For example, the word **sol** (sun) normally refers to just one sun because there is only one sun in the solar system.
 
 
 ## Ordinal numbers
