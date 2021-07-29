@@ -6,14 +6,13 @@
 |**aces**|accès|eng:access, spa:acceso, por:acesso, fra:accès, may:akses, jpn:アクセス (akusesu)|
 |**achi**|éternuer (atchoum)|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |**ada**|coutume|ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada|
-|**adali**|juste|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|
+|**adil**|juste|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|
 |**adres**|adresse|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
 |**Afrika**|Afrique|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|
 |**agres**|agression (attaque)|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
 |**agri**|agricole|eng:fra:spa:por:tur:agro-, rus:агро- (agro-)|
 |**aha**|comprendre (réaliser)|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
 |**ai**|amour (affection)|zho:爱 (ài), yue:愛 (oi3), jpn:愛 (ai), vie:ái, kor:애 (ae)|
-|**ai**|aïe!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**air**|air|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
 |**ais**|glace|eng:ice, deu:Eis, may:és|
 |**aiskrem**|crème glacée|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|
@@ -59,6 +58,7 @@
 |**ate**|acte|por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|
 |**Atlanti Hai**|océan Atlantique|eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|
 |**atom**|atome|eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|
+|**au**|aïe!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**aure**|or|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |**avakate**|avocat|nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|
 |**avar**|dommage|ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|
@@ -136,8 +136,9 @@
 |**charme**|charme|fra:por:charme, eng:charm, rus:шарм (šarm)|
 |**chatre**|quatre (4)|rus:четыре (chetyre), hin:चार (cār), ben:চার (car), may:catur + fra:quatre, spa:cuatro, por:quatro|
 |**cheno**|avant|zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|
-|**cherize**|cerise|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
+|**cheri**|cerise|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
 |**chili**|piment|eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|
+|**chini**|porcelaine|zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya)|
 |**chira**|déchirer|hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|
 |**chize**|fromage|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |**choklate**|chocolat|spa:por:eng:chocolate, fra:chocolat, rus:шоколад (šokolad), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), may:cokelat, swa:chokoleti, tur:çikolata|
@@ -230,7 +231,7 @@
 |**hai**|mer|zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|
 |**haki**|droit|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |**hal**|état|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
-|**halou**|allô|eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|
+|**halo**|allô|eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|
 |**hami**|important|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), swa:muhimu, tur:mühim, fas:(mohemm)|
 |**hande**|main|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |**hapi**|approprié (adapté, convenable, opportun)|zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto|
@@ -303,6 +304,7 @@
 |**kaske**|carapace (coquille, coquillage, croûte)|spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|
 |**katane**|épée|jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|
 |**katus**|cactus|eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus|
+|**kauri**|cauri|eng:cowrie, fra:spa:cauri, rus:каури (kauri), hin:कौड़ी (kauṛī), swa:kauri|
 |**kava**|creuser|spa:por:cavar, eng:excavar, fra:excaver|
 |**ke**|que (quoi)|fra:que, spa:qué, por:o que + ben:কে  (ke)|
 |**kerne**|coeur|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
@@ -505,9 +507,9 @@
 |**projete**|projet|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |**pudi**|pourri|eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)|
 |**pul**|pont|hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)|
-|**pume**|couguar (puma)|eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)|
+|**puma**|couguar (puma)|eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)|
 |**puri**|plein|hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|
-|**putavoranje**|pamplemousse|eng:grapefruit, zho:葡萄柚|
+|**putau oranje**|pamplemousse|eng:grapefruit, zho:葡萄柚|
 |**rai**|avis (opinion)|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
 |**rang**|couleur|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |**rapidi**|vite (rapide)|spa:por:rápido, eng:rapid, fra:rapide|

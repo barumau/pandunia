@@ -13,7 +13,7 @@ Afryka - Afrika
 agorafobia - medenfobia  
 agresywny - agresivi  
 agronomia - agronomia  
-aj!, ał! - ai  
+aj!, ał! - au  
 akacja - babul  
 akacja arabska - arabobabul  
 akcent, nacisk - acente  
@@ -121,7 +121,7 @@ azjatycki - asi
 azot - nitre  
 aż do - hata  
 ####B - B  
-babcia (babka) - chinmai  
+babcia (babka) - chin ma  
 bagaż - bagaje  
 bagietka - baton pan  
 bagno (moczary) - fantopia  
@@ -301,7 +301,7 @@ centy-, procent, na sto, setna część - centi
 centymetr - centimitre  
 cer - cerium  
 ceramika - serame  
-Ceres (planeta karłowata) - cheres  
+Ceres (planeta karłowata) - Ceres  
 cez - cesium  
 chaber - centaure  
 chaber wełnisty - solchentaur  
@@ -334,7 +334,7 @@ chrześcijanin - mesi din ja
 chrześcijaństwo - mesi din  
 chwalić (wychwalać) - halela  
 chwilowy - sati  
-chór - chantergrupe  
+chór - chante grupe  
 chłopak - joveni man  
 ciasto, ciastko - keke  
 ciało - bode  
@@ -388,20 +388,19 @@ Czad - chadia
 czajnik - ketle  
 czapetka kuminowa - jamul  
 czar (urok, wdzięk) - charme  
-Czarnogóra - chernagora  
+Czarnogóra - Chernagora  
 czarny - siyahi  
 czas (epoka, era) - durzam  
 czas - zam  
 czas; okazja - mar  
 czasownik - karloge  
 czaszka - saroste  
-czcić, szanować - puja  
 czekać - deng  
 czekolada - choklate  
 czempion - champion  
 czerwiec - tri me mes  
 czerwony - lali  
-cześć, szacunek - puje  
+cześć, szacunek - puja  
 czosnek olbrzymi - dailasun  
 cztery (4) - chatre  
 czuć (poczuć, postrzegać, wykrywać) - sensa  
@@ -529,7 +528,7 @@ dysproz - disprosium
 dystans - tele  
 dywan - taltesh  
 dzban, dzbanek; słój, słoik - jar  
-dziadek (dziad) - chinpai  
+dziadek (dziad) - chin pa  
 działka (teren) - geo tika  
 działo - daipau  
 dziecko (nieletni) - bache  
@@ -587,7 +586,7 @@ eksplodować (wybuchnąć, wybuchać) - bumu
 eksportować (wyeksportować) - eshmisa  
 Ekwador - Ekuador  
 elastyczny - lasti  
-elegancki, szykowny - shiki  
+elegancki, szykowny - shike  
 elektron - eletron  
 elektryczność - eletre  
 elektryczny - eletri  
@@ -746,7 +745,7 @@ grać muzykę - muzika
 grać w grę - gema  
 grać, odgrywać rolę - rola  
 Grecja - Helenia  
-grejpfrut - putavoranje  
+grejpfrut - putau oranje  
 Grenada - Grenada  
 Grenadyny - Grenadin nesia  
 Grenlandia - Kalalia  
@@ -803,7 +802,7 @@ haczyk - peshhuke
 hafn - hafnium  
 Haiti - Aiti  
 hak - huke  
-halo, cześć - halou  
+halo, cześć - halo  
 hamak - hamake  
 han chiński - Han  
 handel - vendoshope  
@@ -1050,6 +1049,7 @@ kasztan - kastan
 Katalonia - Katalunia  
 Katar - Katar  
 Kaukazja - Kaukasia  
+kauri - kauri  
 kawa - kafe  
 kawiarnia - kafokan  
 Kazachstan - Kazakia  
@@ -1256,7 +1256,7 @@ kusić, nakłonić, nakłaniać - tenta
 kusza (balista) - krusarke  
 kuszetka (koja) - kushloke  
 Kuwejt - Kuvaitia  
-kuzyn - chinbrusben  
+kuzyn - chin brus ben  
 kwadrat (czworokąt, czworobok, tetragon) - chargon  
 kwarc - kuarze  
 kwaśny - suani  
@@ -1878,7 +1878,7 @@ owca - meme
 owinięcie (koperta, okładka) - lifaf  
 owoc - frute  
 owoc kiwi - kivi*  
-ołtarz - pujomeze  
+ołtarz - puja meza  
 ołów - plumbe  
 oś - akse  
 ośmiornica - batosenter  
@@ -2125,6 +2125,7 @@ popłoch pospolity - pinkardon
 por - porei  
 pora roku - mosim  
 porażka (niepowodzenie, klapa, przegrana, strata, porażka) - shibai  
+porcelana - chini  
 porcja, dawka - doze  
 porno, film erotyczny - porne  
 pornografia - pornografia  
@@ -2232,7 +2233,7 @@ promień światła - foto rade
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - Manihai  
-prosić - chinga  
+prosić - ching  
 prostopadły - ortogoni  
 prosty - orti  
 prosty, nieskomplikowany - simpli  
@@ -2274,7 +2275,7 @@ przesilenie letnie (dzień srodka lata) - garmomosimmedi den
 przestępstwo - krim  
 przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - migru  
 przeszkodzić, przeszkadzać, robić kłopot - turba  
-przeszłość - chenzam  
+przeszłość - chen zaman  
 przeszły, miniony - pasi  
 przetwarzać - resikle  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
@@ -2326,7 +2327,7 @@ puder - muka fun
 pudełko, skrzynia - kash  
 puding - puding  
 pudło, skrzynia - sanduke  
-puma (kuguar) - pume  
+puma (kuguar) - puma  
 punkt - binde  
 pustka - kal  
 pusty - kali  
@@ -2346,7 +2347,7 @@ pęknięcie - krake
 pęknąć (rozpaść się) - fenu  
 płakać, łkać - kuga  
 płaski - plati  
-płaski chleb, ćapati - chapate  
+płaski chleb, ćapati - chapati  
 płaskowyż (plateau) - mezistan  
 płaskoziemca - platogeyiste  
 płaszcz - kote  
@@ -2480,7 +2481,7 @@ rym (wers) - rim
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
-rytuał, ceremonia, ryt - pujorite  
+rytuał, ceremonia, ryt - puja rite  
 ryzyko - riske  
 ryzykowny - riski  
 ryś - linche  
@@ -2663,8 +2664,8 @@ społeczeństwo, system społeczny - sosia
 społeczny - sosi  
 sprawdzić, sprawdzać, skontrolować - cheka  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - gencha  
-sprawiedliwość - adalia  
-sprawiedliwy - adali  
+sprawiedliwość - adilta  
+sprawiedliwy - adil  
 sprawić ból, sprawiać ból - pasha  
 sprzeciwiać się (opierać się) - shata  
 sprzedać (sprzedawać) - venda  
@@ -2804,8 +2805,8 @@ Szwajcaria - Suice
 Szwecja - Suenia  
 szyb górniczy - kuangotunel  
 szybki, prędki - rapidi  
-szympans - chimpanze  
-szynszyla - chinchile  
+szympans - chimpanzi  
+szynszyla - chinchila  
 szyszka - konus  
 szyć - suta  
 São Paulo - Santi Paulo  
@@ -3164,7 +3165,7 @@ większościowy, wiodący, główny - mashori
 większość - mashoria  
 więzienie, kara więzienia, kara pozbawienia wolności - prizon  
 więzienie, zakład karny - prizonkan  
-wiśnia (czereśnia) - cherize  
+wiśnia (czereśnia) - cheri  
 wkrótce - suno  
 wnieć wkład (przyczynić się) - fendona  
 wnętrze (środek) - in  
@@ -3349,7 +3350,7 @@ zapaść się (zapadać się, runąć) - parchotalu
 zapominać (zapomnieć) - anmema  
 zapomnieć, zapominać - bula  
 zapożyczenie (wyraz obcy) - jekologe  
-zaprosić, zapraszać - chinga laya  
+zaprosić, zapraszać - ching lai  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ke sate  
 zapytać, spytać, pytać - suala  
@@ -3511,7 +3512,7 @@ zły, zrujnowany, zepsuty - harabi
 śniadanie - subyam  
 śnieg - hima  
 śnieżyć (padać) -   
-śpiewać - chanta  
+śpiewać - chante  
 średni - medi  
 środa - tri me den  
 środek - mede  
@@ -3526,7 +3527,7 @@ zły, zrujnowany, zepsuty - harabi
 świetny - kuli  
 świeży - tazi  
 świnia - goro  
-świątynia - pujokan  
+świątynia - puja kan  
 święto - festoden  
 świętować, imprezować - festa  
 święty - santi  

@@ -5,10 +5,10 @@ abies - jodła
 acente - akcent, nacisk  
 achi - kichać (apsik!)  
 acinium - aktyn  
-adali - sprawiedliwy  
-adalia - sprawiedliwość  
 ada - nawyk (przyzwyczajenie)  
 adi - zwyczajny (rutynowy, normalny)  
+adil - sprawiedliwy  
+adilta - sprawiedliwość  
 adres - adres  
 adres harfi - małpa (znak na  
 Afgan - Afganistan  
@@ -21,7 +21,7 @@ agristan - wieś, tereny wiejskie
 agristani - wiejski, rustykalny  
 agronomia - agronomia  
 aha - rozumieć, pojmować  
-ai - aj!, ał!  
+ai - miłość (afekt)  
 ainstainium - einstein  
 air - powietrze  
 airbaria - ciśnienie atmosferyczne  
@@ -66,7 +66,6 @@ aloseksi - heteroseksualny
 alosfia - różnica  
 alosifi - różny (inny)  
 alumin - glin (aluminium)  
-ai - miłość (afekt)  
 Amara - Amhara, amharski  
 Amerike - Ameryka (kontynent)  
 ameriki - amerykański  
@@ -181,6 +180,7 @@ Atlanti Hai - Ocean Atlantycki
 atlantokade - dorsz atlantycki  
 atlantosalmon - łosoś atlantycki  
 atom - atom  
+au - aj!, ał!  
 auda - usłyszeć, słyszeć; słuchać  
 aure - złoto  
 Australia - Australia  
@@ -419,6 +419,7 @@ celsius darje - stopień Celsjusza
 centaure - chaber  
 centi - centy-, procent, na sto, setna część  
 centimitre - centymetr  
+Ceres - Ceres (planeta karłowata)  
 cerium - cer  
 cesium - cez  
 ch - C  
@@ -440,11 +441,11 @@ chaniva - nawozić (nawieźć)
 chaniver - nawóz  
 chanivi - produktywny (żyzny)  
 chanse - szansa  
-chanta - śpiewać  
+chante - śpiewać  
 chante - piosenka, pieśń  
-chantergrupe - chór  
+chante grupe - chór  
 chapa - naciskać, zostawiać ślad  
-chapate - płaski chleb, ćapati  
+chapati - płaski chleb, ćapati  
 chape - odcisk, ślad; stempel, pieczęć  
 chargon - kwadrat (czworokąt, czworobok, tetragon)  
 charme - czar (urok, wdzięk)  
@@ -456,6 +457,7 @@ chau - trawa
 chavistan - łąka  
 chehia - Republika Czeska, Czechy  
 cheka - sprawdzić, sprawdzać, skontrolować  
+chen zaman - przeszłość  
 chena - poprzedzić, poprzedzać  
 chenaga - zakładać (założyć)  
 chendeno - wczoraj  
@@ -468,21 +470,20 @@ cheno - wcześniej (uprzednio, poprzednio, przedtem)
 chenvida - przewidzieć (spodziewać się)  
 chenvidi - spodziewany (przewidziany)  
 chenyangi - klasyczny  
-chenzam - przeszłość  
-cheres - Ceres (planeta karłowata)  
-cherize - wiśnia (czereśnia)  
-chernagora - Czarnogóra  
+cheri - wiśnia (czereśnia)  
+Chernagora - Czarnogóra  
 Chile - Chile  
 chili - papryka  
 chili fun - papryka  
-chimpanze - szympans  
+chimpanzi - szympans  
 chin - rodzic (matka lub ojciec)  
-chinbrusben - kuzyn  
-chinchile - szynszyla  
-chinga - prosić  
-chinga laya - zaprosić, zapraszać  
-chinmai - babcia (babka)  
-chinpai - dziadek (dziad)  
+chin brus ben - kuzyn  
+chin ma - babcia (babka)  
+chin pa - dziadek (dziad)  
+chinchila - szynszyla  
+ching - prosić  
+ching lai - zaprosić, zapraszać  
+chini - porcelana  
 chipia - Albania  
 chir - rwać (drzeć)  
 chira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
@@ -1116,7 +1117,7 @@ halali - dozwolony (dopuszczalny, zezwolony, halal)
 halela - chwalić (wychwalać)  
 halif - kalif  
 halifia - kalifat  
-halou - halo, cześć  
+halo - halo, cześć  
 hamake - hamak  
 hamar - młot, młotek  
 hami - ważny  
@@ -1498,6 +1499,7 @@ katane - miecz
 Katar - Katar  
 katus - kaktus  
 Kaukasia - Kaukazja  
+kauri - kauri  
 kava - wykopać, kopać, wydobyć, wydobywać, wykopywać  
 kavayi - uroczy, słodki  
 kave - dół, jama, wydobycie, wykop, wykopalisko  
@@ -2593,14 +2595,13 @@ protacinium - protaktyn
 pudi - zgniły  
 puding - puding  
 pudu - rozłożyć się (rozkładać się, gnić, psuć się)  
-puja - czcić, szanować  
-puje - cześć, szacunek  
-pujokan - świątynia  
-pujomeze - ołtarz  
-pujorite - rytuał, ceremonia, ryt  
+puja - cześć, szacunek  
+puja kan - świątynia  
+puja meza - ołtarz  
+puja rite - rytuał, ceremonia, ryt  
 pul - most  
 pulmon - płuco  
-pume - puma (kuguar)  
+puma - puma (kuguar)  
 punte - kropka (znak interpunkcyjny)  
 puntoban - tablica wyników  
 puntonumbe - wynik (punktacja)  
@@ -2615,7 +2616,7 @@ purshipa - namoczyć (marynować)
 pusha - pchnąć, pchać  
 pusher - tłok  
 putau - winogrono  
-putavoranje - grejpfrut  
+putau oranje - grejpfrut  
 Putong Han - mandaryński chiński, Putonghua  
 putongi - powszechny, uniwersalny  
 ####R - R  
@@ -2937,7 +2938,7 @@ shibaya - przegrać, przegrywać
 shibaya tena - stracić (utracić, tracić, zgubuć, gubić)  
 shibayer - przegrany, pokonany  
 shifu - mistrz (sensei)  
-shiki - elegancki, szykowny  
+shike - elegancki, szykowny  
 shim - serce  
 shin - wiara, wierzenie, kredo  
 shina - wierzyć  

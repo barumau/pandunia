@@ -1,4 +1,4 @@
-# halou, dunia!
+# halo, dunia!
 
 Hello, world!
 Welcome to learn about Pandunia, the evenly global helping language!

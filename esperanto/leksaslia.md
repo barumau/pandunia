@@ -5,13 +5,12 @@
 |**acente**|akcento|angla:franca:accent, hispana:portugala:acento, polona:akcent, japana:アクセント (akusento)|
 |**achi**|terni|hispana:achís, mandarena: 阿嚏 (ātì), korea:에취 (echwi), rusa:апчхи, vjetnama:hắt xì, angla:achoo, franca:atchoum|
 |**ada**|kutimo|araba: عادة (ʿāda), hindia:आदत (ādat), malaja:adat, turka:adet, svahila:ada|
-|**adali**|justa|araba: عدل (’adl), malaja:turka:adil, svahila:adili + hindia:अदालत (adālat)|
+|**adil**|justa|araba: عدل (’adl), malaja:turka:adil, svahila:adili + hindia:अदालत (adālat)|
 |**adres**|adreso|angla:address, franca:deu:adresse, rusa:адрес (adres), portugala:endereço|
 |**Afrika**|Afriko|araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika, angla:hispana:portugala:Africa, franca:Afrique, rusa:Африка (Afrika), hindia:अफ़्रीका (afrīkā), bengala:আফ্রিকা (aphrika), japana:アフリカ (Afurika), korea:프리카 (Apeurika)|
 |**agres**|atako (agreso)|angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif|
 |**agri**|agrikultura|angla:franca:hispana:portugala:turka:agro-, rusa:агро- (agro-)|
 |**aha**|kompreni|rusa:ага (aha), korea: 아하 (aha), angla: uh-huh, polona:aha|
-|**ai**|aj (alas)|hispana:ay, portugala:ai, franca:aïe, mandarena:哎 (ai), korea:아야 (aya), persa:(ây), rusa:ай (ay)|
 |**ai**|amo|mandarena:爱 (ài), kantona:愛 (oi3), japana:愛 (ai), vjetnama:ái, korea:애 (ae)|
 |**air**|aero|angla:franca:hispana:air, portugala:ar, rusa:аэро- (aero-)|
 |**ais**|glacio|angla:ice, deu:Eis, malaja:és|
@@ -48,6 +47,7 @@
 |**aspirin**|aspirino|angla:aspirin, hispana:portugala:aspirina, franca:aspirine, rusa:аспирин (aspirin), araba:أسبرين‎ (ʾasbirīn), hindia:एस्पिरिन (espirin), mandarena:阿司匹林 (āsīpǐlín),  japana:アスピリン (asupirin), svahila:aspirini|
 |**ate**|ago|portugala:ato, angla:act, franca:acte, hispana:acto, rusa:акт (akt), malaja:aksi|
 |**atom**|atomo|angla:turka:malaja:atom, hispana:portugala:átomo, rusa:атом (atom), svahila:atomi, japana:アトム (atomu)|
+|**au**|aj (alas)|hispana:ay, portugala:ai, franca:aïe, mandarena:哎 (ai), korea:아야 (aya), persa:(ây), rusa:ай (ay)|
 |**auda**|aŭdi (aŭskulti)|angla:hispana:franca:audio, portugala:áudio|
 |**aure**|oro|latina:aurum, portugala:ouro, hispana:oro, franca:or, rusa:аурум (aurum), malaja:aurum|
 |**avakate**|avokado|nah:ahuakatl, hispana:aguacate, portugala:abacate, filipina:abokado, japana:アボカド (abokado), korea:아보카도 (abokado), franca:avocat, polona:awokado, konga:zavoká|
@@ -150,9 +150,10 @@
 |**chau**|herbo|mandarena:草 (cǎo), kantona:草 (cou2), vua:草 (tshau2), japana:草 (sō), vjetnama:tháu|
 |**cheka**|kontroli|angla:check, hispana:chequear, portugala:checar, deu:chekcen, japana:チェックする (chekkusuru)|
 |**cheno**|antaŭe (pasinte)|mandarena:前 (qián), kantona:前 (cin4), japana:前 (zen), korea:전 (jeon), vjetnama:tiền|
-|**chimpanze**|ĉimpanzo|angla:chimpanzee, hispana:chimpancé, portugala:franca:chimpanzé, rusa:шимпанзе (shimpanze), turka:şempanze, araba:شمبانزي‎ (šimbanzī), hindia:चिंपांजी (cimpāñjī), japana:チンパンジー (chinpanjī), malaja:cimpanzi|
-|**chinchile**|ĉinĉilo|angla:hispana:franca:chinchilla, portugala:chinchila, rusa:шиншилла (šinšilla), turka:çinçilya, malaja:cincila, japana:チンチラ (chinchira)|
-|**chinga**|peti (bonvolu)|mandarena:请 (qǐng), kantona:請 (cing2), korea:청 (cheong), vjetnama:thỉnh|
+|**chimpanzi**|ĉimpanzo|angla:chimpanzee, hispana:chimpancé, portugala:franca:chimpanzé, rusa:шимпанзе (shimpanze), turka:şempanze, araba:شمبانزي‎ (šimbanzī), hindia:चिंपांजी (cimpāñjī), japana:チンパンジー (chinpanjī), malaja:cimpanzi|
+|**chinchila**|ĉinĉilo|angla:hispana:franca:chinchilla, portugala:chinchila, rusa:шиншилла (šinšilla), turka:çinçilya, malaja:cincila, japana:チンチラ (chinchira)|
+|**ching**|peti (bonvolu)|mandarena:请 (qǐng), kantona:請 (cing2), korea:청 (cheong), vjetnama:thỉnh|
+|**chini**|porcelano|mandarena:瓷 (cí) + angla:chinaware, hindia:चीनी (cīnī), bengala:চীনামাটি (cinamaṭi), araba: صِينِيَّة‎ (ṣīniyya)|
 |**chita**|citi|angla:cite, hispana:portugala:citar, franca:citer, deu:zitieren, rusa:цитировать (citirovat’)|
 |**chize**|fromaĝo|angla: cheese, mandarena: 起司 (qǐsī), svahila: chizi, japana:チーズ (chīzu), korea:치즈 (chijeu)|
 |**choda**|fiki|bengala:চোদা (coda), hindia:चोदना (codnā)|
@@ -341,7 +342,7 @@
 |**haida**|ni faru...|rum:háide, greka:άιντε (áinte), bul:ха́йде (hájde), rusa:айда (ayda), turka:hadi, araba:هَيَّا‎ (hayyā), vjetnama:hãy|
 |**haki**|rajto|araba:(ḥaq), hindia:हक़ (haq), turka:malaja:hak, svahila:haki, haŭsa:hakki|
 |**hal**|stato|araba:(ḥāla), hindia:हालत (hālat), svahila:hali, turka:hâl|
-|**halou**|saluton!|angla:hello,  mandarena:哈喽 (hālóu), hindia:हेलो (helo), bengala:হ্যালো  (hyalo), malaja:halo + franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), araba: آلُو‎ (ʾālū), turka:alo|
+|**halo**|saluton!|angla:hello,  mandarena:哈喽 (hālóu), hindia:हेलो (helo), bengala:হ্যালো  (hyalo), malaja:halo + franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), araba: آلُو‎ (ʾālū), turka:alo|
 |**hamake**|hamako|angla:hammock, hispana:hamaca, franca:hamac, rusa:гамак (gamak), turka:hamak, japana:ハンモック (hanmokku)|
 |**hamar**|martelo|angla:hammer, deu:Hammer, japana:ハンマー (hanmā), haŭsa:hamā̀|
 |**hami**|grava|araba: هَامّ (hāmm), hindia:अहम (aham), urdua: اہم (aham), svahila:muhimu, turka:mühim, persa:(mohemm)|

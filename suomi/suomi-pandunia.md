@@ -26,7 +26,7 @@ agronomia (maatalous) - agronomia
 ahne - tami  
 ahnehtia - tamu  
 Ahvenanmaa (Oolanti) - Olandi nesia  
-ai! (au!) - ai  
+ai! (au!) - au  
 aihe (teema) - tem  
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - saba  
@@ -83,7 +83,7 @@ alla - nicho
 allas - basen  
 allofoni (vaihtoehtoinen ääntämys) - alofon  
 aloittaa - shura  
-alttari - pujomeze  
+alttari - puja meza  
 alue (seutu) - aria  
 alue (seutu) - istan  
 alumiini - alumin  
@@ -259,12 +259,12 @@ Burundi - Rundi
 Cabo Verde - Kabu Verdi  
 Cayman-saaret - Kaiman nesia  
 celsiusaste - celsius darje  
-Ceres - cheres  
+Ceres - Ceres  
 cerium - cerium  
 cesium - cesium  
-chapati - chapate  
+chapati - chapati  
 Chile - Chile  
-chinchilla - chinchile  
+chinchilla - chinchila  
 Chongqing - chongching  
 cola - kole  
 Cookin saaret - Kuke nesia  
@@ -323,7 +323,7 @@ eksonyymi - eshnam
 eksoplaneetta - eshplanete  
 El Salvador - Salvador  
 ele - jeste  
-elegantti - shiki  
+elegantti - shike  
 elektroni - eletron  
 elementti (yksinkertaisin yksikkö) - em  
 eli (toisin sanoen) - alonamo  
@@ -548,7 +548,7 @@ Havaiji - Havai
 Havaijin saaret - Havai nesia  
 he - yamen  
 hedelmä - frute  
-hei (haloo) - halou  
+hei (haloo) - halo  
 heidän - yamen di  
 heijastaa (peilata) - mira  
 heijastaa kuvia (projisoida) - lanchografa  
@@ -763,9 +763,9 @@ islamofobia (islamin pelko) - islamfobia
 Islanti - Islandia  
 iso (suuri) - dayi  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britania  
-isoisä - chinpai  
-isovanhempi - chinchin  
-isoäiti - chinmai  
+isoisä - chin pa  
+isovanhempi - chin chin  
+isoäiti - chin ma  
 Israel - Israel  
 istua - sida  
 isä - pa  
@@ -1130,7 +1130,7 @@ kirjoitusmerkki - zi
 kirkas (selkeä) - mingi  
 kirkastaa (valaista) - minga  
 kirkko - eglis  
-kirsikka - cherize  
+kirsikka - cheri  
 kirves - futau  
 kissa - mau  
 kitara - gitar  
@@ -1275,7 +1275,7 @@ kuoppa (kolo) - kave
 kuori (suojakuori) - kaske  
 kuorma (lasti, taakka, paino) - bara  
 kuormata (lastata, ladata) -   
-kuoro - chantergrupe  
+kuoro - chante grupe  
 kupari - kupre  
 kupla - lilbol  
 kupoli (holvikatto) - kupochate  
@@ -1403,7 +1403,7 @@ lattia - kamartal
 Latvia - Latvia  
 lauantai - luku me den  
 laukka - galope  
-laulaa - chanta  
+laulaa - chante  
 laulu - chante  
 lauta (paneeli) - ban  
 lautanen - platotas  
@@ -1673,7 +1673,7 @@ mekko (tunika) - tunike
 Meksiko - Meshiko  
 melodia (sävelmä) - melodia  
 melodinen (sointuisa) - melodi  
-menneisyys - chenzam  
+menneisyys - chen zaman  
 mennyt (poissa) - kiti  
 mennä - kita  
 mennä ohi tai läpi - pas  
@@ -1751,7 +1751,7 @@ monitahokas - polfas
 monokkeli - unoki lense  
 monoteismi (yksijumalisuus) - undevistia  
 montako? (paljonko?) - ko multo  
-Montenegro - chernagora  
+Montenegro - Chernagora  
 moottori - moter  
 moottoripyörä - motosikle  
 moraali - deke  
@@ -1849,7 +1849,7 @@ nauta (lehmä) - mumu
 nauttia (syödä, juoda) - yama  
 neitseellinen (koskematon) - virji  
 neitsyt - virje  
-neli (kiitolaukka) - chargalope  
+neli (kiitolaukka) - chatre di galope  
 neliö - chargon  
 neljä (4) - chatre  
 nenä - nos  
@@ -1939,9 +1939,9 @@ oikea (paikkansapitävä) - sahi
 oikea puoli - raite  
 oikeistolainen - raitiste  
 oikeudellinen - judi  
-oikeudenmukainen - adali  
+oikeudenmukainen - adil  
 oikeus (oikeutus) - haki  
-oikeus - adalia  
+oikeus - adilta  
 oivaltaa (tajuta) - aha  
 okra - bamye  
 oksa (haara) - shake  
@@ -2061,8 +2061,7 @@ paluu - retre
 palvelija (tarjoilija) - server  
 palvella (tarjoilla) - serva  
 palvelu (palvelus) - serve  
-palvoa - puja  
-palvonta - puje  
+palvonta - puja  
 panaasialainen - panasi  
 panafrikkalainen - panafriki  
 Panama - Panama  
@@ -2248,6 +2247,8 @@ porras (aste, taso) - darje
 portaat (rappuset, tikkaat) - eskale  
 Portugali - Portugal  
 portugalia puhuva - portugalfoni  
+posliini - chini  
+posliinikotilo - kauri  
 posti (postilähetys) - poste  
 postileima - postochape  
 postileima - postomarke  
@@ -2318,9 +2319,9 @@ pyyheliina - gantesh
 pyynti (metsästys, kalastus) - saide  
 pyyntö - ching  
 pyytäjä (metsästäjä, kalastaja) - saider  
-pyytää (anoa) - chinga  
+pyytää (anoa) - ching  
 pyytää (metsästää, kalastaa) - saida  
-pyytää tulemaan - chinga laya  
+pyytää tulemaan - ching lai  
 pyöreä - sirki  
 pyörittää - rota  
 pyöriä - rotu  
@@ -2420,7 +2421,7 @@ risteytys (hybridi) - hibride
 risti - krus  
 ristiinnaulita - krusfiksa  
 ristikko - krusolin  
-rituaali (seremonia, riitti) - pujorite  
+rituaali (seremonia, riitti) - puja rite  
 rivinvaihto - linparche  
 robotti - robote  
 rohkea (urhea, uljas) - bravi  
@@ -2578,7 +2579,7 @@ sentti - centi
 senttimetri (cm) - centimitre  
 seppä - metaljanger  
 Serbia - Serbia  
-serkku - chinbrusben  
+serkku - chin brus ben  
 seura - sosia  
 seuraava - posi  
 seurata (tulla perässä, tulla jäljessä) - posa  
@@ -2618,7 +2619,7 @@ silmä- - oki
 silmäillä (katsoa, tarkkailla) - oka  
 silmäripsi - okokesh  
 silta - pul  
-simpanssi - chimpanze  
+simpanssi - chimpanzi  
 sinetti - mumchape  
 Singapore - Singapur  
 sininen - blu  
@@ -2631,7 +2632,7 @@ Siperia - Sibiria
 sipuli - piaze  
 sisaruksen lapsi - brusben  
 sisarus (veli tai sisko) - brus  
-sisaruspuoli - chingamben  
+sisaruspuoli - chin gam ben  
 sisus (sisäpuoli) - in  
 sisä- (sisäinen) - indi  
 sisäinen - intri  
@@ -2912,7 +2913,7 @@ tekstin muotoilu - kitaboforme
 televisio - telvide  
 teltta - hemah  
 telugu (eräs intialainen kieli) - telugi  
-temppeli - pujokan  
+temppeli - puja kan  
 tennis - tenis  
 teokratia - deu krati  
 teologia - deu logi  

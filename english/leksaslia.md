@@ -6,14 +6,13 @@
 |**aces**|access (admission, accessibility)|English:access, Spanish:acceso, Portuguese:acesso, French:accès, Malay:akses, Japanese:アクセス (akusesu)|
 |**achi**|sneeze (achoo)|Spanish:achís, Mandarin: 阿嚏 (ātì), Korean:에취 (echwi), Russian:апчхи, Vietnamese:hắt xì, English:achoo, French:atchoum|
 |**ada**|habit (custom)|Arabic: عادة (ʿāda), Hindi:आदत (ādat), Malay:adat, Turkish:adet, Swahili:ada|
-|**adali**|just (fair, righteous)|Arabic: عدل (’adl), Malay:Turkish:adil, Swahili:adili + Hindi:अदालत (adālat)|
+|**adil**|just (fair, righteous)|Arabic: عدل (’adl), Malay:Turkish:adil, Swahili:adili + Hindi:अदालत (adālat)|
 |**adres**|address|English:address, French:deu:adresse, Russian:адрес (adres), Portuguese:endereço|
 |**Afrika**|Africa|Arabic:(ʾafrīqiyā), Wolof:Afrig, Fulani:Afirik, Amharic:(ʾäfriḳa), Hausa:Afirka, Yoruba:Afirika, Oromo:Afrikaa, Swahili:Afrika, English:Spanish:Portuguese:Africa, French:Afrique, Russian:Африка (Afrika), Hindi:अफ़्रीका (afrīkā), Bengali:আফ্রিকা (aphrika), Japanese:アフリカ (Afurika), Korean:프리카 (Apeurika)|
 |**agres**|attack (assault, aggression, hostility)|English:deu:French:agression, Polish:agresja, Russian:агрессия (agressiya), Spanish:agresión, Portuguese:agressão, Malay:agresif|
 |**agri**|agricultural|English:French:Spanish:Portuguese:Turkish:agro-, Russian:агро- (agro-)|
 |**aha**|understand (realize)|Russian:ага (aha), Korean: 아하 (aha), English: uh-huh, Polish:aha|
 |**ai**|love (liking, affection)|Mandarin:爱 (ài), Cantonese:愛 (oi3), Japanese:愛 (ai), Vietnamese:ái, Korean:애 (ae)|
-|**ai**|ouch (ow, alas)|Spanish:ay, Portuguese:ai, French:aïe, Mandarin:哎 (ai), Korean:아야 (aya), Persian:(ây), Russian:ай (ay)|
 |**air**|air|English:French:Spanish:air, Portuguese:ar, Russian:аэро- (aero-)|
 |**ais**|ice|English:ice, deu:Eis, Malay:és|
 |**aiskrem**|ice cream|English:ice cream, Japanese:アイスクリーム (aisukurīmu), Korean:아이스크림 (aiseukeurim), Hindi:आइसक्रीम (āisakrīm), Bengali:আইসক্রীম (aisôkrīm), Malay:es krim, Swahili:aiskrimu|
@@ -64,6 +63,7 @@
 |**ate**|act (deed)|Portuguese:ato, English:act, French:acte, Spanish:acto, Russian:акт (akt), Malay:aksi|
 |**Atlanti Hai**|Atlantic Ocean|English:Atlantic, Spanish:Atlántico, Portuguese:Atlântico, Russian:Атлантический океан (Atlanticheskyy okean), Swahili:Atlantiki|
 |**atom**|atom|English:Turkish:Malay:atom, Spanish:Portuguese:átomo, Russian:атом (atom), Swahili:atomi, Japanese:アトム (atomu)|
+|**au**|ouch (ow, alas)|Spanish:ay, Portuguese:ai, French:aïe, Mandarin:哎 (ai), Korean:아야 (aya), Persian:(ây), Russian:ай (ay)|
 |**auda**|hear (listen)|English:Spanish:French:audio, Portuguese:áudio|
 |**aure**|gold|Latin:aurum, Portuguese:ouro, Spanish:oro, French:or, Russian:аурум (aurum), Malay:aurum|
 |**aute**|self (identity)|Greek:αὐτός (aftós), English:French:Spanish:Portuguese:auto-, Russian:авто- (avto-)|
@@ -188,7 +188,7 @@
 |**chana**|produce (create, make)|Mandarin:產 (chǎn), Cantonese:產 (caan2), Vietnamese:sản, Japanese:產 (san), Korean:산 (-san-) + Arabic:(ṣanaʿa), Swahili:sanaa, Turkish:sanat|
 |**chanse**|opportunity (chance)|French:English:Spanish:Portuguese:chance, Japanese:チャンス (chansu), Korean:찬스 (chanseu), Russian:шанс (šans), Turkish:şans, Hindi:चांस (cāns)|
 |**chante**|song|French:chanter, English:chant, Portuguese:Spanish:cantar, + Mandarin:唱 (chàng), Korean:창 (chang)|
-|**chapate**|flatbread (chapati, roti)|Hindi:चपाती (ćapātī), Urdu:(ćapātī), English:Swahili:chapati, Russian:чапати (čapati), Burmese:ချပါတီ (kyapati)|
+|**chapati**|flatbread (chapati, roti)|Hindi:चपाती (ćapātī), Urdu:(ćapātī), English:Swahili:chapati, Russian:чапати (čapati), Burmese:ချပါတီ (kyapati)|
 |**chape**|print (stamp)|Hindi:छाप (chāp), Bengali:ছাপ (chap), Malay:cap, English:chop|
 |**charme**|charm (attraction)|French:Portuguese:charme, English:charm, Russian:шарм (šarm)|
 |**chate**|roof|Hindi: छत (chat), Bengali: ছাদ (chad), Turkish:çatı, kyr:чатыр (čatyr)|
@@ -197,12 +197,13 @@
 |**cheka**|check (to examine)|English:check, Spanish:chequear, Portuguese:checar, deu:chekcen, Japanese:チェックする (chekkusuru)|
 |**cheng**|layer (level, storey, floor, stratum)|Mandarin:层 (céng), Cantonese:層 (cang4), Wu-Chinese:層 (zen3), Korean:층 (chŭng), Vietnamese:tầng|
 |**cheno**|earlier (before, in the past)|Mandarin:前 (qián), Cantonese:前 (cin4), Japanese:前 (zen), Korean:전 (jeon), Vietnamese:tiền|
-|**cherize**|cherry|English:cherry, French:cerise, Spanish:cereza, Portuguese:cereja, Russian:черешня (čerešnya), Arabic:(karaz), Turkish:kiraz, Hindi:गिलास (gilās), Bengali:চেরি  (ceri), Malay:ceri, Japanese:チェリー (cherī), Korean:체리 (cheri)|
+|**cheri**|cherry|English:cherry, French:cerise, Spanish:cereza, Portuguese:cereja, Russian:черешня (čerešnya), Arabic:(karaz), Turkish:kiraz, Hindi:गिलास (gilās), Bengali:চেরি  (ceri), Malay:ceri, Japanese:チェリー (cherī), Korean:체리 (cheri)|
 |**chili**|pepper (capsicum)|English:chili, Portuguese:Spanish:chile, Japanese:チリ (chiri), Korean:칠리 (chilli), Malay:cili|
-|**chimpanze**|chimpanzee|English:chimpanzee, Spanish:chimpancé, Portuguese:French:chimpanzé, Russian:шимпанзе (shimpanze), Turkish:şempanze, Arabic:شمبانزي‎ (šimbanzī), Hindi:चिंपांजी (cimpāñjī), Japanese:チンパンジー (chinpanjī), Malay:cimpanzi|
+|**chimpanzi**|chimpanzee|English:chimpanzee, Spanish:chimpancé, Portuguese:French:chimpanzé, Russian:шимпанзе (shimpanze), Turkish:şempanze, Arabic:شمبانزي‎ (šimbanzī), Hindi:चिंपांजी (cimpāñjī), Japanese:チンパンジー (chinpanjī), Malay:cimpanzi|
 |**chin**|parent (mother or father)|Mandarin:親 (qīn), Cantonese:親 (can), Wu-Chinese:親 (qin), Japanese:親 (sin), Korean:친 (chin)|
-|**chinchile**|chinchilla|English:Spanish:French:chinchilla, Portuguese:chinchila, Russian:шиншилла (šinšilla), Turkish:çinçilya, Malay:cincila, Japanese:チンチラ (chinchira)|
-|**chinga**|ask (request, beg, plead; please)|Mandarin:请 (qǐng), Cantonese:請 (cing2), Korean:청 (cheong), Vietnamese:thỉnh|
+|**chinchila**|chinchilla|English:Spanish:French:chinchilla, Portuguese:chinchila, Russian:шиншилла (šinšilla), Turkish:çinçilya, Malay:cincila, Japanese:チンチラ (chinchira)|
+|**ching**|ask (request, beg, plead; please)|Mandarin:请 (qǐng), Cantonese:請 (cing2), Korean:청 (cheong), Vietnamese:thỉnh|
+|**chini**|porcelain (chinaware)|Mandarin:瓷 (cí) + English:chinaware, Hindi:चीनी (cīnī), Bengali:চীনামাটি (cinamaṭi), Arabic: صِينِيَّة‎ (ṣīniyya)|
 |**chira**|tear (rip, split)|Hindi:Marathi:चीर (chīra), Bengali:চেরা (chērā), pan:ਚੀਰ (chīra) + English:tear|
 |**chita**|quote (cite)|English:cite, Spanish:Portuguese:citar, French:citer, deu:zitieren, Russian:цитировать (citirovat’)|
 |**chize**|cheese|English: cheese, Mandarin: 起司 (qǐsī), Swahili: chizi, Japanese:チーズ (chīzu), Korean:치즈 (chijeu)|
@@ -454,7 +455,7 @@
 |**hal**|state (condition, status, situation)|Arabic:(ḥāla), Hindi:हालत (hālat), Swahili:hali, Turkish:hâl|
 |**halali**|permissible (allowed, halal)|Arabic:(ḥalāl), Persian:Urdu:(halāl), English:Spanish:French:Portuguese:Malay:halal, Turkish:helal, Russian:халяльный (xaljalʹniy), Hindi:हलाल (halāl), Swahili:halali, Korean:할랄 (hallal)|
 |**halela**|praise (commend, exalt)|heb:(hal'lu yah), English:hallelujah, Mandarin:哈利路亚 (hālìlùyà), Arabic:(hallilūyā), Portuguese:French:alléluia, Russian:аллилуйя (alliluyya), Spanish:aleluya, Swahili:Malay:haleluya, Filipino:aleluya, Japanese:ハレルヤ (hareruya), Korean:할렐루야 (hallelluya)|
-|**halou**|hello (hi)|English:hello,  Mandarin:哈喽 (hālóu), Hindi:हेलो (helo), Bengali:হ্যালো  (hyalo), Malay:halo + French:allô, Spanish:aló, Portuguese:alô, Russian:алло (allo), Arabic: آلُو‎ (ʾālū), Turkish:alo|
+|**halo**|hello (hi)|English:hello,  Mandarin:哈喽 (hālóu), Hindi:हेलो (helo), Bengali:হ্যালো  (hyalo), Malay:halo + French:allô, Spanish:aló, Portuguese:alô, Russian:алло (allo), Arabic: آلُو‎ (ʾālū), Turkish:alo|
 |**hamake**|hammock|English:hammock, Spanish:hamaca, French:hamac, Russian:гамак (gamak), Turkish:hamak, Japanese:ハンモック (hanmokku)|
 |**hamar**|hammer|English:hammer, deu:Hammer, Japanese:ハンマー (hanmā), Hausa:hamā̀|
 |**hami**|important|Arabic: هَامّ (hāmm), Hindi:अहम (aham), Urdu: اہم (aham), Swahili:muhimu, Turkish:mühim, Persian:(mohemm)|
@@ -618,6 +619,7 @@
 |**katane**|sword|Japanese:刀 (katana), English:Spanish:Turkish:Malay:katana, Russian:катана (katana), Bengali:কাতানা (kātānā)|
 |**katus**|cactus|English:Spanish:Portuguese:French:cactus, Russian:кактус (kaktus), Turkish:kaktüs, Malay:kaktus|
 |**Kaukasia**|Caucasia|English:Caucasia, Spanish:Cáucaso, Russian:Кавказ (Kavkaz), Turkish:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, Arabic:اَلْقَوْقَاز‎ (al-qawqāz), Hindi:कॉकस (kŏkas), Malay:Kaukasus, Mandarin:高加索 (gāojiāsuǒ)|
+|**kauri**|cowrie|English:cowrie, French:Spanish:cauri, Russian:каури (kauri), Hindi:कौड़ी (kauṛī), Swahili:kauri|
 |**kava**|dig (excavate)|Spanish:Portuguese:cavar, English:excavar, French:excaver|
 |**kavayi**|cute (sweet)|Japanese:可愛い (kawaii), Korean:카와이 (kawai), English:kawaii|
 |**kayi**|open (not closed)|Mandarin:开 (kāi), Wu-Chinese:開 (khe1), Japanese:開 (kai), Korean:개 (gae), Vietnamese:khai, Thai:ไข (kǎi), lao:ໄຂ (khai)|
@@ -1062,16 +1064,16 @@
 |**proses**|process (procedure)|English:process, Spanish:proceso, Portuguese:processo, Russian:процесс (process), Persian:پروسه‎ (prose), Malay:proses, Japanese:プロセス (purosesu), Korean:프로세스 (peuroseseu)|
 |**pudi**|rotten|English:putrid, Spanish:Portuguese:podre, French:putride + Mandarin:腐 (fǔ), Japanese:腐 (fu) + Thai:ผุ (phu)|
 |**puding**|pudding|English:pudding, Spanish:pudín, Russian:пудинг (puding), Turkish:Malay:puding, Swahili:pudini, Arabic:بودنغ (budingh), Mandarin:布丁 (bùdīng), Japanese:プディング (pudingu)|
-|**puje**|worship (reveration)|Hindi:पूजा (pūjā), Urdu:(pūjā), Thai:บูชา (bucha), Malay:puja|
+|**puja**|worship (reveration)|Hindi:पूजा (pūjā), Urdu:(pūjā), Thai:บูชา (bucha), Malay:puja|
 |**pul**|bridge|Hindi:पुल (pul), Bengali:পুল (pul), Urdu:(pul), Persian:(pol)|
 |**pulmon**|lung|Spanish:pulmón, French:poumon, Portuguese:pulmão, English:pulmonic|
-|**pume**|cougar (puma, mountain lion)|English:Spanish:French:Portuguese:Swahili:Malay:Turkish:puma, Russian:пума (puma), Japanese:ピューマ (pyūma), Hindi:पूमा (pooma), pan:ਪੂਮਾ (pūmā), Marathi:प्युमा (pyumā)|
+|**puma**|cougar (puma, mountain lion)|English:Spanish:French:Portuguese:Swahili:Malay:Turkish:puma, Russian:пума (puma), Japanese:ピューマ (pyūma), Hindi:पूमा (pooma), pan:ਪੂਮਾ (pūmā), Marathi:प्युमा (pyumā)|
 |**punte**|point (period, full stop)|Spanish:punto, Russian:пункт (punkt), English:point|
 |**pupe**|doll (puppet)|French:poupée, deu:Puppe, English:puppet, Vietnamese:búp bê, ktu:popi, heb:(bubá)|
 |**puri**|full (complete, saturated)|Hindi:पूर्ण (pūrn), Bengali:পূর্ণ (pūrṇa), Punjabi:ਪੂਰਾ (pūrā), Persian:(por)|
 |**pusha**|push|English:push, Spanish:empujar, Portuguese:empurrar, French:pousser, Russian:пихать (pihat’)|
+|**putau oranje**|grapefruit|English:grapefruit, Mandarin:葡萄柚|
 |**putau**|grape|Mandarin:葡萄 (pútáo), Cantonese:葡萄 (pou4 tou4), Wu-Chinese:葡萄 (bu dau3), Japanese:葡萄 (budō), Korean:포도 (podo), Vietnamese:bồ đào|
-|**putavoranje**|grapefruit|English:grapefruit, Mandarin:葡萄柚|
 |**putongi**|common (general)|Mandarin:普通 (pǔtōng), Cantonese:普通 (pou2tung1), Vietnamese:phổ thông, Korean:보통 (botong)|
 |**radia**|radiation|English:French:radiation, Spanish:radiación, Portuguese:radiação, Malay:radiasi, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)|
 |**rai**|opinion (view)|Arabic:(raʾy), Swahili:rai, Hindi:राय (rāy), Persian:(ra'y), Turkish:rey|
@@ -1192,7 +1194,7 @@
 |**sheng**|victory (win, triumph)|Mandarin:胜 (shèng), Cantonese:勝 (sing3), Wu-Chinese:勝 (sen2), Japanese:勝 (shō), Korean:승 (seung), Vietnamese:thắng|
 |**shibai**|failure (loss, flop, miss, defeat)|Mandarin:失败 (shībài), Japanese:失敗 (shippai), Korean:실패 (šilpæ), Vietnamese:thất bại|
 |**shifu**|master (sensei, sifu)|English:French:sifu, Mandarin:师傅 (shīfu), Cantonese:師傅 (si1 fu6)|
-|**shiki**|elegant (chic)|English:French:Spanish:chic, Portuguese:chique, Russian:шикарный (shikarnyy), Turkish:şık, Persian:شیک‎  (šik), Japanese:シック (shikku)|
+|**shike**|elegant (chic)|English:French:Spanish:chic, Portuguese:chique, Russian:шикарный (shikarnyy), Turkish:şık, Persian:شیک‎  (šik), Japanese:シック (shikku)|
 |**shim**|heart|Korean: 심 (shim), Mandarin:心 (xīn), Japanese:心 (shin), Cantonese:心 (sam1), Hakka-Chinese:心 (sîm), Vietnamese:tim|
 |**shin**|belief (faith, creed)|Mandarin:信 (xìn), Cantonese:信 (seon3), Japanese:信 (shin), Vietnamese:tin|
 |**shindavistia**|Shintoism|Japanese:神道 (shintō), Korean:신도 (sindo), Mandarin:神道 (shéndào)|

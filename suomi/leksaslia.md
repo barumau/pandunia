@@ -6,13 +6,12 @@
 |**aces**|pääsy|englanti:access, espanja:acceso, portugali:acesso, ranska:accès, malaiji:akses, japani:アクセス (akusesu)|
 |**achi**|aivastaa (atsii!)|espanja:achís, yleiskiina: 阿嚏 (ātì), korea:에취 (echwi), venäjä:апчхи, vietnami:hắt xì, englanti:achoo, ranska:atchoum|
 |**ada**|tapa|arabia: عادة (ʿāda), hindi:आदत (ādat), malaiji:adat, turkki:adet, suahili:ada|
-|**adali**|oikeudenmukainen|arabia: عدل (’adl), malaiji:turkki:adil, suahili:adili + hindi:अदालत (adālat)|
+|**adil**|oikeudenmukainen|arabia: عدل (’adl), malaiji:turkki:adil, suahili:adili + hindi:अदालत (adālat)|
 |**adres**|osoite|englanti:address, ranska:deu:adresse, venäjä:адрес (adres), portugali:endereço|
 |**Afrika**|Afrikka|arabia:(ʾafrīqiyā), wolof:Afrig, fulani:Afirik, amhara:(ʾäfriḳa), hausa:Afirka, yoruba:Afirika, oromo:Afrikaa, suahili:Afrika, englanti:espanja:portugali:Africa, ranska:Afrique, venäjä:Африка (Afrika), hindi:अफ़्रीका (afrīkā), bangla:আফ্রিকা (aphrika), japani:アフリカ (Afurika), korea:프리카 (Apeurika)|
 |**agres**|hyökkäys (päällekarkaus, aggressio)|englanti:deu:ranska:agression, puola:agresja, venäjä:агрессия (agressiya), espanja:agresión, portugali:agressão, malaiji:agresif|
 |**agri**|maataloudellinen (agraari-)|englanti:ranska:espanja:portugali:turkki:agro-, venäjä:агро- (agro-)|
 |**aha**|oivaltaa (tajuta)|venäjä:ага (aha), korea: 아하 (aha), englanti: uh-huh, puola:aha|
-|**ai**|ai! (au!)|espanja:ay, portugali:ai, ranska:aïe, yleiskiina:哎 (ai), korea:아야 (aya), persia:(ây), venäjä:ай (ay)|
 |**ai**|rakkaus (tykkääminen)|yleiskiina:爱 (ài), kantoninkiina:愛 (oi3), japani:愛 (ai), vietnami:ái, korea:애 (ae)|
 |**air**|ilma|englanti:ranska:espanja:air, portugali:ar, venäjä:аэро- (aero-)|
 |**ais**|jää|englanti:ice, deu:Eis, malaiji:és|
@@ -62,6 +61,7 @@
 |**ate**|teko (toimenpide, akti)|portugali:ato, englanti:act, ranska:acte, espanja:acto, venäjä:акт (akt), malaiji:aksi|
 |**Atlanti Hai**|Atlantin valtameri|englanti:Atlantic, espanja:Atlántico, portugali:Atlântico, venäjä:Атлантический океан (Atlanticheskyy okean), suahili:Atlantiki|
 |**atom**|atomi|englanti:turkki:malaiji:atom, espanja:portugali:átomo, venäjä:атом (atom), suahili:atomi, japani:アトム (atomu)|
+|**au**|ai! (au!)|espanja:ay, portugali:ai, ranska:aïe, yleiskiina:哎 (ai), korea:아야 (aya), persia:(ây), venäjä:ай (ay)|
 |**auda**|kuulla (kuunnella)|englanti:espanja:ranska:audio, portugali:áudio|
 |**aure**|kulta|latina:aurum, portugali:ouro, espanja:oro, ranska:or, venäjä:аурум (aurum), malaiji:aurum|
 |**aute**|itseys|kreikka:αὐτός (aftós), englanti:ranska:espanja:portugali:auto-, venäjä:авто- (avto-)|
@@ -185,7 +185,7 @@
 |**chana**|tehdä (valmistaa)|yleiskiina:產 (chǎn), kantoninkiina:產 (caan2), vietnami:sản, japani:產 (san), korea:산 (-san-) + arabia:(ṣanaʿa), suahili:sanaa, turkki:sanat|
 |**chanse**|mahdollisuus (tilaisuus)|ranska:englanti:espanja:portugali:chance, japani:チャンス (chansu), korea:찬스 (chanseu), venäjä:шанс (šans), turkki:şans, hindi:चांस (cāns)|
 |**chante**|laulu|ranska:chanter, englanti:chant, portugali:espanja:cantar, + yleiskiina:唱 (chàng), korea:창 (chang)|
-|**chapate**|chapati|hindi:चपाती (ćapātī), urdu:(ćapātī), englanti:suahili:chapati, venäjä:чапати (čapati), burma:ချပါတီ (kyapati)|
+|**chapati**|chapati|hindi:चपाती (ćapātī), urdu:(ćapātī), englanti:suahili:chapati, venäjä:чапати (čapati), burma:ချပါတီ (kyapati)|
 |**chape**|painos (leima)|hindi:छाप (chāp), bangla:ছাপ (chap), malaiji:cap, englanti:chop|
 |**charme**|vetovoima (šarmi)|ranska:portugali:charme, englanti:charm, venäjä:шарм (šarm)|
 |**chate**|katto (katos)|hindi: छत (chat), bangla: ছাদ (chad), turkki:çatı, kyr:чатыр (čatyr)|
@@ -194,12 +194,13 @@
 |**cheka**|tarkistaa (tsekata)|englanti:check, espanja:chequear, portugali:checar, deu:chekcen, japani:チェックする (chekkusuru)|
 |**cheng**|kerros|yleiskiina:层 (céng), kantoninkiina:層 (cang4), wu-kiina:層 (zen3), korea:층 (chŭng), vietnami:tầng|
 |**cheno**|ennen (aikaisemmin, aiemmin)|yleiskiina:前 (qián), kantoninkiina:前 (cin4), japani:前 (zen), korea:전 (jeon), vietnami:tiền|
-|**cherize**|kirsikka|englanti:cherry, ranska:cerise, espanja:cereza, portugali:cereja, venäjä:черешня (čerešnya), arabia:(karaz), turkki:kiraz, hindi:गिलास (gilās), bangla:চেরি  (ceri), malaiji:ceri, japani:チェリー (cherī), korea:체리 (cheri)|
+|**cheri**|kirsikka|englanti:cherry, ranska:cerise, espanja:cereza, portugali:cereja, venäjä:черешня (čerešnya), arabia:(karaz), turkki:kiraz, hindi:गिलास (gilās), bangla:চেরি  (ceri), malaiji:ceri, japani:チェリー (cherī), korea:체리 (cheri)|
 |**chili**|paprika|englanti:chili, portugali:espanja:chile, japani:チリ (chiri), korea:칠리 (chilli), malaiji:cili|
-|**chimpanze**|simpanssi|englanti:chimpanzee, espanja:chimpancé, portugali:ranska:chimpanzé, venäjä:шимпанзе (shimpanze), turkki:şempanze, arabia:شمبانزي‎ (šimbanzī), hindi:चिंपांजी (cimpāñjī), japani:チンパンジー (chinpanjī), malaiji:cimpanzi|
+|**chimpanzi**|simpanssi|englanti:chimpanzee, espanja:chimpancé, portugali:ranska:chimpanzé, venäjä:шимпанзе (shimpanze), turkki:şempanze, arabia:شمبانزي‎ (šimbanzī), hindi:चिंपांजी (cimpāñjī), japani:チンパンジー (chinpanjī), malaiji:cimpanzi|
 |**chin**|vanhempi (isä tai äiti)|yleiskiina:親 (qīn), kantoninkiina:親 (can), wu-kiina:親 (qin), japani:親 (sin), korea:친 (chin)|
-|**chinchile**|chinchilla|englanti:espanja:ranska:chinchilla, portugali:chinchila, venäjä:шиншилла (šinšilla), turkki:çinçilya, malaiji:cincila, japani:チンチラ (chinchira)|
-|**chinga**|pyytää (anoa)|yleiskiina:请 (qǐng), kantoninkiina:請 (cing2), korea:청 (cheong), vietnami:thỉnh|
+|**chinchila**|chinchilla|englanti:espanja:ranska:chinchilla, portugali:chinchila, venäjä:шиншилла (šinšilla), turkki:çinçilya, malaiji:cincila, japani:チンチラ (chinchira)|
+|**ching**|pyytää (anoa)|yleiskiina:请 (qǐng), kantoninkiina:請 (cing2), korea:청 (cheong), vietnami:thỉnh|
+|**chini**|posliini|yleiskiina:瓷 (cí) + englanti:chinaware, hindi:चीनी (cīnī), bangla:চীনামাটি (cinamaṭi), arabia: صِينِيَّة‎ (ṣīniyya)|
 |**chira**|repiä|hindi:marathi:चीर (chīra), bangla:চেরা (chērā), pan:ਚੀਰ (chīra) + englanti:tear|
 |**chita**|lainata (siteerata)|englanti:cite, espanja:portugali:citar, ranska:citer, deu:zitieren, venäjä:цитировать (citirovat’)|
 |**chize**|juusto|englanti: cheese, yleiskiina: 起司 (qǐsī), suahili: chizi, japani:チーズ (chīzu), korea:치즈 (chijeu)|
@@ -447,7 +448,7 @@
 |**hal**|tila (tilanne, seikka)|arabia:(ḥāla), hindi:हालत (hālat), suahili:hali, turkki:hâl|
 |**halali**|sallittu (hyväksytty)|arabia:(ḥalāl), persia:urdu:(halāl), englanti:espanja:ranska:portugali:malaiji:halal, turkki:helal, venäjä:халяльный (xaljalʹniy), hindi:हलाल (halāl), suahili:halali, korea:할랄 (hallal)|
 |**halela**|ylistää|heb:(hal'lu yah), englanti:hallelujah, yleiskiina:哈利路亚 (hālìlùyà), arabia:(hallilūyā), portugali:ranska:alléluia, venäjä:аллилуйя (alliluyya), espanja:aleluya, suahili:malaiji:haleluya, filippiini:aleluya, japani:ハレルヤ (hareruya), korea:할렐루야 (hallelluya)|
-|**halou**|hei (haloo)|englanti:hello,  yleiskiina:哈喽 (hālóu), hindi:हेलो (helo), bangla:হ্যালো  (hyalo), malaiji:halo + ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), arabia: آلُو‎ (ʾālū), turkki:alo|
+|**halo**|hei (haloo)|englanti:hello,  yleiskiina:哈喽 (hālóu), hindi:हेलो (helo), bangla:হ্যালো  (hyalo), malaiji:halo + ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), arabia: آلُو‎ (ʾālū), turkki:alo|
 |**hamake**|riippumatto|englanti:hammock, espanja:hamaca, ranska:hamac, venäjä:гамак (gamak), turkki:hamak, japani:ハンモック (hanmokku)|
 |**hamar**|vasara|englanti:hammer, deu:Hammer, japani:ハンマー (hanmā), hausa:hamā̀|
 |**hami**|tärkeä|arabia: هَامّ (hāmm), hindi:अहम (aham), urdu: اہم (aham), suahili:muhimu, turkki:mühim, persia:(mohemm)|
@@ -597,6 +598,7 @@
 |**katane**|miekka|japani:刀 (katana), englanti:espanja:turkki:malaiji:katana, venäjä:катана (katana), bangla:কাতানা (kātānā)|
 |**katus**|kaktus|englanti:espanja:portugali:ranska:cactus, venäjä:кактус (kaktus), turkki:kaktüs, malaiji:kaktus|
 |**Kaukasia**|Kaukasia|englanti:Caucasia, espanja:Cáucaso, venäjä:Кавказ (Kavkaz), turkki:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, arabia:اَلْقَوْقَاز‎ (al-qawqāz), hindi:कॉकस (kŏkas), malaiji:Kaukasus, yleiskiina:高加索 (gāojiāsuǒ)|
+|**kauri**|posliinikotilo|englanti:cowrie, ranska:espanja:cauri, venäjä:каури (kauri), hindi:कौड़ी (kauṛī), suahili:kauri|
 |**kava**|kaivaa|espanja:portugali:cavar, englanti:excavar, ranska:excaver|
 |**kavayi**|söpö (suloinen)|japani:可愛い (kawaii), korea:카와이 (kawai), englanti:kawaii|
 |**kayi**|auki (avoin)|yleiskiina:开 (kāi), wu-kiina:開 (khe1), japani:開 (kai), korea:개 (gae), vietnami:khai, thai:ไข (kǎi), lao:ໄຂ (khai)|
@@ -1003,7 +1005,7 @@
 |**proses**|prosessi (proseduuri)|englanti:process, espanja:proceso, portugali:processo, venäjä:процесс (process), persia:پروسه‎ (prose), malaiji:proses, japani:プロセス (purosesu), korea:프로세스 (peuroseseu)|
 |**pudi**|mätä|englanti:putrid, espanja:portugali:podre, ranska:putride + yleiskiina:腐 (fǔ), japani:腐 (fu) + thai:ผุ (phu)|
 |**puding**|vanukas|englanti:pudding, espanja:pudín, venäjä:пудинг (puding), turkki:malaiji:puding, suahili:pudini, arabia:بودنغ (budingh), yleiskiina:布丁 (bùdīng), japani:プディング (pudingu)|
-|**puje**|palvonta|hindi:पूजा (pūjā), urdu:(pūjā), thai:บูชา (bucha), malaiji:puja|
+|**puja**|palvonta|hindi:पूजा (pūjā), urdu:(pūjā), thai:บูชา (bucha), malaiji:puja|
 |**pul**|silta|hindi:पुल (pul), bangla:পুল (pul), urdu:(pul), persia:(pol)|
 |**pulmon**|keuhko|espanja:pulmón, ranska:poumon, portugali:pulmão, englanti:pulmonic|
 |**punte**|piste (täplä)|espanja:punto, venäjä:пункт (punkt), englanti:point|
@@ -1124,7 +1126,7 @@
 |**sheke**|kivi (hippu)|yleiskiina: 石 (shí), kantoninkiina:石 (sek3), japani:石 (seki), korea:석 (seok)|
 |**sheng**|voitto|yleiskiina:胜 (shèng), kantoninkiina:勝 (sing3), wu-kiina:勝 (sen2), japani:勝 (shō), korea:승 (seung), vietnami:thắng|
 |**shibai**|epäonnistuminen|yleiskiina:失败 (shībài), japani:失敗 (shippai), korea:실패 (šilpæ), vietnami:thất bại|
-|**shiki**|elegantti|englanti:ranska:espanja:chic, portugali:chique, venäjä:шикарный (shikarnyy), turkki:şık, persia:شیک‎  (šik), japani:シック (shikku)|
+|**shike**|elegantti|englanti:ranska:espanja:chic, portugali:chique, venäjä:шикарный (shikarnyy), turkki:şık, persia:شیک‎  (šik), japani:シック (shikku)|
 |**shim**|sydän|korea: 심 (shim), yleiskiina:心 (xīn), japani:心 (shin), kantoninkiina:心 (sam1), hakkakiina:心 (sîm), vietnami:tim|
 |**shin**|usko (luottamus)|yleiskiina:信 (xìn), kantoninkiina:信 (seon3), japani:信 (shin), vietnami:tin|
 |**shindavistia**|sintolaisuus|japani:神道 (shintō), korea:신도 (sindo), yleiskiina:神道 (shéndào)|

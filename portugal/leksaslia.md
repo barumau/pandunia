@@ -6,11 +6,10 @@
 |**aces**|acesso|eng:access, spa:acceso, por:acesso, fra:accès, may:akses, jpn:アクセス (akusesu)|
 |**achi**|espirrar|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |**ada**|costume (hábito)|ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada|
-|**adali**|justo|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|
+|**adil**|justo|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|
 |**adres**|endereço|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
 |**agres**|ataque|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
 |**agri**|agrícola|eng:fra:spa:por:tur:agro-, rus:агро- (agro-)|
-|**ai**|ai!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**ai**|amor|zho:爱 (ài), yue:愛 (oi3), jpn:愛 (ai), vie:ái, kor:애 (ae)|
 |**air**|ar|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
 |**aiskrem**|sorvete (gelado)|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|
@@ -40,6 +39,7 @@
 |**asme**|asma|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |**aspirin**|aspirina|eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin), swa:aspirini|
 |**ate**|ato|por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt), may:aksi|
+|**au**|ai!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**aure**|ouro|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |**avar**|dano (avaria)|ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|
 |**aven**|aveia|fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|
@@ -103,8 +103,9 @@
 |**chanse**|chance|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
 |**charme**|charme|fra:por:charme, eng:charm, rus:шарм (šarm)|
 |**chatre**|quatro (4)|rus:четыре (chetyre), hin:चार (cār), ben:চার (car), may:catur + fra:quatre, spa:cuatro, por:quatro|
-|**cherize**|cereja|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
+|**cheri**|cereja|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
 |**chili**|cápsico|eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|
+|**chini**|porcelana|zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya)|
 |**chira**|rasgar|hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|
 |**chize**|queijo|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |**choi**|verdura|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
@@ -194,7 +195,7 @@
 |**hai**|mar|zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|
 |**haki**|direito|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |**hal**|estado|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
-|**halou**|alô|eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|
+|**halo**|alô|eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|
 |**hami**|importante|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), swa:muhimu, tur:mühim, fas:(mohemm)|
 |**hamili**|grávida (prenhe)|ara:(ḥāmil), may:hamil, swa:himila, tur:hamile, urd:(hāmila), fas:(hâmele)|
 |**hande**|mão|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
@@ -263,6 +264,7 @@
 |**kaske**|casca (concha)|spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|
 |**katane**|espada|jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|
 |**katus**|cacto|eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus|
+|**kauri**|búzio|eng:cowrie, fra:spa:cauri, rus:каури (kauri), hin:कौड़ी (kauṛī), swa:kauri|
 |**kava**|cavar (escavar)|spa:por:cavar, eng:excavar, fra:excaver|
 |**ke**|o que|fra:que, spa:qué, por:o que + ben:কে  (ke)|
 |**kerne**|núcleo (cerne)|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
@@ -453,7 +455,7 @@
 |**projete**|projeto|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |**pul**|ponte|hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)|
 |**puri**|cheio|hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|
-|**putavoranje**|toranja|eng:grapefruit, zho:葡萄柚|
+|**putau oranje**|toranja|eng:grapefruit, zho:葡萄柚|
 |**rai**|opinião|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
 |**rang**|cor|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |**rapidi**|rápido|spa:por:rápido, eng:rapid, fra:rapide|

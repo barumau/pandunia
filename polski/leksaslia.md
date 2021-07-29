@@ -5,12 +5,11 @@
 |**acente**|akcent, nacisk|eng:fra:accent, spa:por:acento, pol:akcent, jpn:アクセント (akusento)|
 |**achi**|kichać (apsik!)|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |**ada**|nawyk (przyzwyczajenie)|ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada|
-|**adali**|sprawiedliwy|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|
+|**adil**|sprawiedliwy|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|
 |**adres**|adres|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
 |**Afrika**|Afryka|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|
 |**agres**|atak (agresja, napaść)|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
 |**aha**|rozumieć, pojmować|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
-|**ai**|aj!, ał!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**ai**|miłość (afekt)|zho:爱 (ài), yue:愛 (oi3), jpn:愛 (ai), vie:ái, kor:애 (ae)|
 |**air**|powietrze|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
 |**ais**|lód|eng:ice, deu:Eis, may:és|
@@ -57,6 +56,7 @@
 |**ata***|jabłko cukrowe|fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|
 |**Atlanti Hai**|Ocean Atlantycki|eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|
 |**atom**|atom|eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|
+|**au**|aj!, ał!|spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|
 |**auda**|usłyszeć, słyszeć; słuchać|eng:spa:fra:audio, por:áudio|
 |**aure**|złoto|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |**aute**|jaźń (tożsamość)|ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|
@@ -178,7 +178,7 @@
 |**chana**|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-) + ara:(ṣanaʿa), swa:sanaa, tur:sanat|
 |**chanse**|szansa|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
 |**chante**|piosenka, pieśń|fra:chanter, eng:chant, por:spa:cantar, + zho:唱 (chàng), kor:창 (chang)|
-|**chapate**|płaski chleb, ćapati|hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus:чапати (čapati), mya:ချပါတီ (kyapati)|
+|**chapati**|płaski chleb, ćapati|hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus:чапати (čapati), mya:ချပါတီ (kyapati)|
 |**chape**|odcisk, ślad; stempel, pieczęć|hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|
 |**charme**|czar (urok, wdzięk)|fra:por:charme, eng:charm, rus:шарм (šarm)|
 |**chate**|dach|hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|
@@ -187,12 +187,13 @@
 |**cheka**|sprawdzić, sprawdzać, skontrolować|eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|
 |**cheng**|warstwa (poziom, piętro, kondygnacja)|zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|
 |**cheno**|wcześniej (uprzednio, poprzednio, przedtem)|zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|
-|**cherize**|wiśnia (czereśnia)|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
+|**cheri**|wiśnia (czereśnia)|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
 |**chili**|papryka|eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|
-|**chimpanze**|szympans|eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|
+|**chimpanzi**|szympans|eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|
 |**chin**|rodzic (matka lub ojciec)|zho:親 (qīn), yue:親 (can), wuu:親 (qin), jpn:親 (sin), kor:친 (chin)|
-|**chinchile**|szynszyla|eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)|
-|**chinga**|prosić|zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|
+|**chinchila**|szynszyla|eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)|
+|**ching**|prosić|zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|
+|**chini**|porcelana|zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya)|
 |**chira**|drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)|hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|
 |**chita**|cytować|eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|
 |**chize**|ser|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
@@ -437,7 +438,7 @@
 |**hal**|stan|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
 |**halali**|dozwolony (dopuszczalny, zezwolony, halal)|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
 |**halela**|chwalić (wychwalać)|heb:(hal'lu yah), eng:hallelujah, zho:哈利路亚 (hālìlùyà), ara:(hallilūyā), por:fra:alléluia, rus:аллилуйя (alliluyya), spa:aleluya, swa:may:haleluya, tgl:aleluya, jpn:ハレルヤ (hareruya), kor:할렐루야 (hallelluya)|
-|**halou**|halo, cześć|eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|
+|**halo**|halo, cześć|eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|
 |**hamake**|hamak|eng:hammock, spa:hamaca, fra:hamac, rus:гамак (gamak), tur:hamak, jpn:ハンモック (hanmokku)|
 |**hamar**|młot, młotek|eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀|
 |**hami**|ważny|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), swa:muhimu, tur:mühim, fas:(mohemm)|
@@ -592,6 +593,7 @@
 |**katane**|miecz|jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|
 |**katus**|kaktus|eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus|
 |**Kaukasia**|Kaukazja|eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|
+|**kauri**|kauri|eng:cowrie, fra:spa:cauri, rus:каури (kauri), hin:कौड़ी (kauṛī), swa:kauri|
 |**kava**|wykopać, kopać, wydobyć, wydobywać, wykopywać|spa:por:cavar, eng:excavar, fra:excaver|
 |**kavayi**|uroczy, słodki|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
 |**kayi**|otwarty, niezamknięty|zho:开 (kāi), wuu:開 (khe1), jpn:開 (kai), kor:개 (gae), vie:khai, tha:ไข (kǎi), lao:ໄຂ (khai)|
@@ -1015,16 +1017,16 @@
 |**proses**|proces, procedura|eng:process, spa:proceso, por:processo, rus:процесс (process), fas:پروسه‎ (prose), may:proses, jpn:プロセス (purosesu), kor:프로세스 (peuroseseu)|
 |**pudi**|zgniły|eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)|
 |**puding**|puding|eng:pudding, spa:pudín, rus:пудинг (puding), tur:may:puding, swa:pudini, ara:بودنغ (budingh), zho:布丁 (bùdīng), jpn:プディング (pudingu)|
-|**puje**|cześć, szacunek|hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|
+|**puja**|cześć, szacunek|hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|
 |**pul**|most|hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)|
 |**pulmon**|płuco|spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|
-|**pume**|puma (kuguar)|eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)|
+|**puma**|puma (kuguar)|eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)|
 |**punte**|kropka (znak interpunkcyjny)|spa:punto, rus:пункт (punkt), eng:point|
 |**pupe**|lalka, kukiełka, pacynka, marionetka|fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)|
 |**puri**|pełny|hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|
 |**pusha**|pchnąć, pchać|eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|
+|**putau oranje**|grejpfrut|eng:grapefruit, zho:葡萄柚|
 |**putau**|winogrono|zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào|
-|**putavoranje**|grejpfrut|eng:grapefruit, zho:葡萄柚|
 |**putongi**|powszechny, uniwersalny|zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|
 |**radia**|promieniowanie|eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|
 |**rai**|opinia, pogląd|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
@@ -1143,7 +1145,7 @@
 |**sheng**|zwycięstwo, wygrana|zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|
 |**shibai**|porażka (niepowodzenie, klapa, przegrana, strata, porażka)|zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|
 |**shifu**|mistrz (sensei)|eng:fra:sifu, zho:师傅 (shīfu), yue:師傅 (si1 fu6)|
-|**shiki**|elegancki, szykowny|eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|
+|**shike**|elegancki, szykowny|eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|
 |**shim**|serce|kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim|
 |**shin**|wiara, wierzenie, kredo|zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|
 |**shindavistia**|shintoizm, sintoizm|jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)|

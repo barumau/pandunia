@@ -6,10 +6,10 @@ acente - painotus (aksentti)
 aces - pääsy  
 achi - aivastaa (atsii!)  
 acinium - aktinium  
-adali - oikeudenmukainen  
-adalia - oikeus  
 ada - tapa  
 adi - tavallinen  
+adil - oikeudenmukainen  
+adilta - oikeus  
 adres - osoite  
 adres harfi - @-merkki  
 Afgan - Afganistan  
@@ -27,7 +27,9 @@ agrobiologi - maatalousbiologia
 agrochun - maalaiskylä  
 agronomia - agronomia (maatalous)  
 aha - oivaltaa (tajuta)  
-ai - ai! (au!)  
+ai - rakkaus (tykkääminen)  
+ai ja - rakastaja  
+ai jen - kulta (rakas)  
 ainstainium - einsteinium  
 air - ilma  
 airbaria - ilmanpaine  
@@ -73,22 +75,19 @@ aloseksi - heteroseksuaali
 alosfia - erilaisuus (ero)  
 alosifi - erilainen  
 alumin - alumiini  
-ai - rakkaus (tykkääminen)  
 Amara - amhara (etiopialainen kansa ja kieli)  
 amater - amatööri  
 amen - rehellinen (totisesti, aamen)  
 amena - luottaa (uskoa)  
 ameni - varma  
 ameno - uskottavasti (totisesti, aamen)  
-ai ja - rakastaja  
 Amerike - Amerikka  
 ameriki - amerikkalainen  
 amerikium - amerikium  
 ami - rakas (armas)  
-ai jen - kulta (rakas)  
 amir - käsky (komento)  
-amir ja - emiiri  
 amir haki - käskyvalta  
+amir ja - emiiri  
 amiria - emiirikunta  
 amper - ampeeri  
 ampul - ampulli  
@@ -200,6 +199,7 @@ ativa - panna toimintaan
 ativi - toimelias (aktiivinen)  
 Atlanti Hai - Atlantin valtameri  
 atom - atomi  
+au - ai! (au!)  
 auda - kuulla (kuunnella)  
 aure - kulta  
 Australia - Australia  
@@ -442,6 +442,7 @@ cellogi - soluoppi (sytologia)
 celsius darje - celsiusaste  
 centi - sentti  
 centimitre - senttimetri (cm)  
+Ceres - Ceres  
 cerium - cerium  
 cesium - cesium  
 ch - C  
@@ -460,23 +461,24 @@ chanbash - keinotekoinen kieli (tekokieli, keinokieli)
 chania - tuotanto  
 chanivi - tuottava (tuottelias)  
 chanse - mahdollisuus (tilaisuus)  
-chanta - laulaa  
+chante - laulaa  
 chante - laulu  
-chantergrupe - kuoro  
+chante grupe - kuoro  
 chapa - painaa (leimata)  
-chapate - chapati  
+chapati - chapati  
 chape - painos (leima)  
-chargalope - neli (kiitolaukka)  
 chargon - neliö  
 charme - vetovoima (šarmi)  
 chate - katto (katos)  
 chatre - neljä (4)  
+chatre di galope - neli (kiitolaukka)  
 chatre me den - torstai  
 chatre me mes - huhtikuu  
 chau - ruoho  
 chavistan - ruohotasanko  
 chehia - Tšekki  
 cheka - tarkistaa (tsekata)  
+chen zaman - menneisyys  
 chena - edeltää (olla ennen)  
 chenaga - edellyttää  
 chendeno - eilen  
@@ -487,24 +489,23 @@ cheniki - vanha (muinainen)
 cheno - ennen (aikaisemmin, aiemmin)  
 chenvida - ennustaa (nähdä ennalta)  
 chenvidi - ennustettu  
-chenzam - menneisyys  
-cheres - Ceres  
-cherize - kirsikka  
-chernagora - Montenegro  
+cheri - kirsikka  
+Chernagora - Montenegro  
 Chile - Chile  
 chili - paprika  
 chili fun - paprikajauhe  
-chimpanze - simpanssi  
+chimpanzi - simpanssi  
 chin - vanhempi (isä tai äiti)  
-chinbrusben - serkku  
-chinchile - chinchilla  
-chinchin - isovanhempi  
+chin brus ben - serkku  
+chin chin - isovanhempi  
+chin gam ben - sisaruspuoli  
+chin ma - isoäiti  
+chin pa - isoisä  
+chinchila - chinchilla  
 ching - pyyntö  
-chinga - pyytää (anoa)  
-chinga laya - pyytää tulemaan  
-chingamben - sisaruspuoli  
-chinmai - isoäiti  
-chinpai - isoisä  
+ching - pyytää (anoa)  
+ching lai - pyytää tulemaan  
+chini - posliini  
 chipia - Albania  
 chir - repeämä  
 chira - repiä  
@@ -1175,7 +1176,7 @@ halali - sallittu (hyväksytty)
 halela - ylistää  
 halif - kalifi  
 halifia - kalifaatti  
-halou - hei (haloo)  
+halo - hei (haloo)  
 hamake - riippumatto  
 hamar - vasara  
 hami - tärkeä  
@@ -1554,6 +1555,7 @@ katane - miekka
 Katar - Qatar  
 katus - kaktus  
 Kaukasia - Kaukasia  
+kauri - posliinikotilo  
 kava - kaivaa  
 kavayi - söpö (suloinen)  
 kave - kuoppa (kolo)  
@@ -2583,11 +2585,10 @@ protacinium - protaktinium
 pudi - mätä  
 puding - vanukas  
 pudu - mädäntyä (mädätä)  
-puja - palvoa  
-puje - palvonta  
-pujokan - temppeli  
-pujomeze - alttari  
-pujorite - rituaali (seremonia, riitti)  
+puja - palvonta  
+puja kan - temppeli  
+puja meza - alttari  
+puja rite - rituaali (seremonia, riitti)  
 pul - silta  
 pulmon - keuhko  
 punte - piste (täplä)  
@@ -2884,7 +2885,7 @@ sheng - voitto
 shibai - epäonnistuminen  
 shibaya - hävitä (kärsiä tappio)  
 shibayer - häviäjä  
-shiki - elegantti  
+shike - elegantti  
 shim - sydän  
 shin - usko (luottamus)  
 shina - uskoa (luottaa)  
