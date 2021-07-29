@@ -490,7 +490,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi love tu, tu love mi.
+    Pandunia:  mi ai tu, tu ai mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb **be** is used when the object of the action comes first in the sentence.
