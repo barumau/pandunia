@@ -63,8 +63,8 @@ fata_lekse_asle() {
     cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/loge_asle.md
 }
 
-tarja_logaslia_pa_engli() {
-    cd engli
+tarja_logaslia_pa_english() {
+    cd english
     sed 's/amh:/Amharic:/' -i leksaslia.md
     sed 's/ara:/Arabic:/' -i leksaslia.md
     sed 's/ben:/Bengali:/' -i leksaslia.md
@@ -171,8 +171,8 @@ tarja_logaslia_pa_suomi() {
     cd ..
 }
 
-tarja_logaslia_pa_esperanti() {
-    cd esperanti
+tarja_logaslia_pa_esperanto() {
+    cd esperanto
     sed 's/amh:/amhara:/' -i leksaslia.md
     sed 's/ara:/araba:/' -i leksaslia.md
     sed 's/ben:/bengala:/' -i leksaslia.md
@@ -229,48 +229,48 @@ tarja_logaslia_pa_esperanti() {
 #dos2unix pandunia-loge.csv
 sed 's/\t/|/g' -i pandunia-loge.csv
 
-# engli e pandunia
-fata_liste 5 engli
-tarja_logaslia_pa_engli
+# english i pandunia
+fata_liste 5 english
+tarja_logaslia_pa_english
 
 #Tiddly dictionary
-cp engli/pandunia-engli.md temp/temp.txt
+cp english/pandunia-english.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
-cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
+cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > english/tiddly.html
 
-# esperanti e pandunia
-fata_liste 20 esperanti
-tarja_logaslia_pa_esperanti
+# esperanto i pandunia
+fata_liste 20 esperanto
+tarja_logaslia_pa_esperanto
 
-# suomi e pandunia
+# suomi i pandunia
 fata_liste 21 suomi
 tarja_logaslia_pa_suomi
 
-# polski e pandunia
+# polski i pandunia
 fata_liste 22 polski
 
-# Tiddly polski e pandunia
+# Tiddly polski i pandunia
 cp polski/pandunia-polski.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > polski/tiddly.html
 
-# cini e pandunia
-fata_liste 11 cini
+# putonghan i pandunia
+fata_liste 11 putonghan
 
-# rusi e pandunia
-fata_liste 9 rusi
+# rusi i pandunia
+fata_liste 9 rus
 
-# fransi e pandunia
-fata_liste 6 fransi
+# france i pandunia
+fata_liste 6 france
 
-#Tiddly fransi e pandunia
-cp fransi/pandunia-fransi.md temp/temp.txt
+#Tiddly france i pandunia
+cp france/pandunia-france.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
-cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > fransi/tiddly.html
+cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > france/tiddly.html
 
-# espani e pandunia
-fata_liste 7 espani
+# espanya i pandunia
+fata_liste 7 espanya
 
-# portugali e pandunia
-fata_liste 8 portugali
+# portugali i pandunia
+fata_liste 8 portugal
 

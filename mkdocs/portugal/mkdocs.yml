@@ -1,8 +1,8 @@
 site_name: Pandunia
-site_url: http://www.pandunia.info/espani
+site_url: http://www.pandunia.info/portugal
 repo_url: https://github.com/barumau/pandunia/
-docs_dir: ../../portugali
-site_dir: ../../html/portugali
+docs_dir: ../../portugal
+site_dir: ../../html/portugal
 theme: readthedocs
 nav:
     - Inicio: 'index.md'

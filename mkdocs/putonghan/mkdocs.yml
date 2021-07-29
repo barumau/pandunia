@@ -1,8 +1,8 @@
 site_name: 泛世界语
-site_url: http://www.pandunia.info/cini
+site_url: http://www.pandunia.info/putonghan
 repo_url: https://github.com/barumau/pandunia/
-docs_dir: ../../cini
-site_dir: ../../html/cini
+docs_dir: ../../putonghan
+site_dir: ../../html/putonghan
 theme: cerulean
 nav:
     - Home: 'index.md'

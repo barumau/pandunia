@@ -1,8 +1,8 @@
 site_name: Pandunia
-site_url: http://www.pandunia.info/fransi
+site_url: http://www.pandunia.info/france
 repo_url: https://github.com/barumau/pandunia/
-docs_dir: ../../fransi
-site_dir: ../../html/fransi
+docs_dir: ../../france
+site_dir: ../../html/france
 theme: readthedocs
 plugins:
     - search:

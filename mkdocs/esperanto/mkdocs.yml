@@ -1,8 +1,8 @@
 site_name: Pandunia
-site_url: http://www.pandunia.info/esperanti
+site_url: http://www.pandunia.info/esperanto
 repo_url: https://github.com/barumau/pandunia/
-docs_dir: ../../esperanti
-site_dir: ../../html/esperanti
+docs_dir: ../../esperanto
+site_dir: ../../html/esperanto
 theme: readthedocs
 nav:
     - 'Ĉefpaĝo': 'index.md'

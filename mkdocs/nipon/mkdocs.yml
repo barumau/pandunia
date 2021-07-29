@@ -1,8 +1,8 @@
 site_name: パンドゥニア
-site_url: http://www.pandunia.info/niponi
+site_url: http://www.pandunia.info/nipon
 repo_url: https://github.com/barumau/pandunia/
-docs_dir: ../../niponi
-site_dir: ../../html/niponi
+docs_dir: ../../nipon
+site_dir: ../../html/nipon
 theme:
   name: cerulean
   language: ja

@@ -38,23 +38,23 @@ rm temp/logonumbe.csv
 pan=$(cat temp/logaslia.txt | grep -c ":" )
 echo "pan $pan 100%" >> temp/stats.txt
 
-konta_bax eng engli $pan
-konta_bax fra fransi $pan
-konta_bax spa espani $pan
-konta_bax por portugali $pan
-konta_bax rus rusi $pan
+konta_bax eng english $pan
+konta_bax fra france $pan
+konta_bax spa espanya $pan
+konta_bax por portugal $pan
+konta_bax rus rus $pan
 
-konta_bax hin hindustani $pan
-konta_bax ben bangli $pan
+konta_bax hin hindi $pan
+konta_bax ben bangla $pan
 #konta_bax fas farsi $pan
 #konta_bax tur turki $pan
 
-konta_bax zho cini $pan
-konta_bax jpn niponi $pan
-konta_bax kor coseni $pan
-konta_bax vie vieti $pan
+konta_bax zho putonghan $pan
+konta_bax jpn nipon $pan
+konta_bax kor chosen $pan
+konta_bax vie viet $pan
 
-konta_bax may malayi $pan
+konta_bax may malayu $pan
 
 konta_bax ara arabi $pan
 konta_bax swa suahili $pan

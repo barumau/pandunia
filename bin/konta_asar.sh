@@ -1,9 +1,9 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "#asar la mulbax va pandunia" > pandunia/asar_da_mulbax.md
+   echo "#asar da mul basha da pandunia" > pandunia/asar_da_mulbax.md
    echo "" >> pandunia/asar_da_mulbax.md
-   echo "| bax | asar |" >> pandunia/asar_da_mulbax.md
-   echo "|-----|--------|" >> pandunia/asar_da_mulbax.md
+   echo "| basha | asar |" >> pandunia/asar_da_mulbax.md
+   echo "|-------|--------|" >> pandunia/asar_da_mulbax.md
    cat temp/stats.txt >> pandunia/asar_da_mulbax.md
 }
 
@@ -71,23 +71,23 @@ rm temp/asarnumbe.csv
 pan=$(cat temp/logaslia.txt | grep -c ":" )
 #echo "pan $pan 100%" >> temp/stats.txt
 
-konta_asar eng engli $pan
-konta_asar fra fransi $pan
-konta_asar spa espani $pan
-konta_asar por portugali $pan
-konta_asar rus rusi $pan
+konta_asar eng english $pan
+konta_asar fra france $pan
+konta_asar spa espanya $pan
+konta_asar por portugal $pan
+konta_asar rus rus $pan
 
-konta_asar hin hindustani $pan
-konta_asar ben bangli $pan
+konta_asar hin hindi $pan
+konta_asar ben bangla $pan
 #konta_asar fas farsi $pan
 #konta_asar tur turki $pan
 
-konta_asar zho cini $pan
-konta_asar jpn niponi $pan
-konta_asar kor coseni $pan
-konta_asar vie vieti $pan
+konta_asar zho putonghan $pan
+konta_asar jpn nipon $pan
+konta_asar kor chosen $pan
+konta_asar vie viet $pan
 
-konta_asar may malayi $pan
+konta_asar may malayu $pan
 
 konta_asar ara arabi $pan
 konta_asar swa suahili $pan

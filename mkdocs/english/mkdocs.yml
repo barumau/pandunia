@@ -1,9 +1,9 @@
 site_name: Pandunia
-site_url: http://www.pandunia.info/engli
+site_url: http://www.pandunia.info/english
 repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
-docs_dir: ../../engli
-site_dir: ../../html/engli
+docs_dir: ../../english
+site_dir: ../../html/english
 theme: readthedocs
 nav:
     - Home: 'index.md'

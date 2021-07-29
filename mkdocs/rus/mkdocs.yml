@@ -1,8 +1,8 @@
 site_name: пандуния
-site_url: http://www.pandunia.info/rusi
+site_url: http://www.pandunia.info/rus
 repo_url: https://github.com/barumau/pandunia/
-docs_dir: ../../rusi
-site_dir: ../../html/rusi
+docs_dir: ../../rus
+site_dir: ../../html/rus
 theme: 
   name: cerulean
   language: ru

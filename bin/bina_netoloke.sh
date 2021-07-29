@@ -14,19 +14,19 @@ bina_netoloke() {
     muta_GitHub_dokumsanduke $1
 }
 
-bina_pane() {
+bina_pan() {
     bina_netoloke cini
-    bina_netoloke engli
-    bina_netoloke espani
-    bina_netoloke esperanti
-    bina_netoloke fransi
-    bina_netoloke niponi
+    bina_netoloke english
+    bina_netoloke espanya
+    bina_netoloke esperanto
+    bina_netoloke france
+    bina_netoloke nipon
     bina_netoloke pandunia
     bina_netoloke polski
-    bina_netoloke portugali
-    bina_netoloke rusi
+    bina_netoloke portugal
+    bina_netoloke rus
     bina_netoloke suomi
 }
 
-bina_pane
+bina_pan
 
