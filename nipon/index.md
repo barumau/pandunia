@@ -27,27 +27,19 @@
 - [つづり](abc.md) と [文法](kanun.md)
 
 <!-- - [検索可能な辞書](tiddly.html) -->
-<!-- - [英語→パンドゥニア](engli-pandunia.md) 辞書 -->
-- [パンドゥニア→日本語](pandunia-niponi.md) 辞書
+<!-- - [日本語→パンドゥニア](nipon-pandunia.md) 辞書 -->
+- [パンドゥニア→日本語](pandunia-nipon.md) 辞書
 <!-- - [単語の語源一覧](leksaslia.md) ([ISO 639-2コード一覧](https://ja.wikipedia.org/wiki/ISO_639-2コード一覧)) -->
 
 <!-- - [あなたの名前をパンドゥニアで](ren_da_nam.md) This list is not at all suitable for Japanese. It is necessary to make a list exclusively for Japanese. -->
 
-## 物語
-
-- [お金持ちの男と貧乏な男](rici_man_i_miskin_man.md)
 
 ## 資料
 
 <!-- - [パンドゥニア - 新しい国際語](dunia_bax.md) -->
 <!-- - [他の出版物でのパンドゥニアに関する言及](makal_tema_pandunia.md) -->
-- [何故パンドゥニアが好きなのですか?(英語)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - 学習者からの意見
 - [エスペラント VS パンドゥニア](esperanti_i_pandunia.md)
 <!-- - [雑記](note.md) -->
-
-## プレゼンテーション
-
-- [一般的なプレゼンテーション(PDF/英語)](Pandunia-presentation.pdf)
 
 ## 他の参加方法
 
@@ -64,8 +56,6 @@
 - QQ channel: 717549404
 - [Twitter](https://twitter.com/pandunia_) の公式アカウントもフォロー出来ます。
   言葉を広める! <!-- The official Twitter account is not functioning. -->
-- [Auxlang](https://listserv.brown.edu/archives/auxlang.html) メーリングリストでもパンドゥニアについて話すことができます。
-  _Subscribe_ をクリックし、リストに参加するためのメールアドレスを入力します。
 - このサイトの翻訳を[手伝ってください。](tarja_netoloke.md)
 
 パンドゥニアの制作者である Risto Kupsala にはEメール

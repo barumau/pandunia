@@ -1,24 +1,19 @@
-# pandunia-fransi
+# pandunia-france
 ####A - A  
 a - mais (bien que)  
-abete - sapin  
+abies - sapin  
 acente - accent  
 aces - accès  
 achi - éternuer (atchoum)  
 acinium - actinium  
-adali - juste  
-adalia - justice  
-ade - coutume  
+ada - coutume  
 adi - ordinaire (habituel, normal)  
+adil - juste  
+adilta - justice  
 adres - adresse  
-adresharfe - arobase (@)  
-afgani - afghan  
-Afgania - Afghanistan  
-Afrike - Afrique  
-Afriki - africain  
-afrikofiler - afrophile  
-afrikofilia - afrophilie  
-aga - si  
+adres harfi - arobase (@)  
+Afgan - Afghanistan  
+Afrika - Afrique  
 agra - cultiver  
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
@@ -28,7 +23,9 @@ agri - agricole
 agrobiologi - agrobiologie  
 agronomia - agronomie  
 aha - comprendre (réaliser)  
-ai - aïe!  
+ai - amour (affection)  
+ai ja - amoureux  
+ai jen - chéri  
 ainstainium - Einsteinium  
 air - air  
 airbaria - pression atmosphérique  
@@ -61,7 +58,7 @@ alkalogusti - amer
 alkaloranje - orange amère  
 alkol - alcool  
 alkoli - alcoolique  
-almare - placard  
+almari - placard  
 almas - diamant  
 alo - autrement  
 alofon - allophone  
@@ -74,21 +71,18 @@ alosifi - différent
 alumin - aluminium  
 aluminmate - alun  
 aluminokside - alumine (oxyde d'aluminium)  
-am - amour (affection)  
-ama - aimer  
-Amari - Amhara (groupe ethnique et langue éthiopienne)  
+Amara - Amhara (groupe ethnique et langue éthiopienne)  
 amater - amateur  
+amen - honnête (sûr, crédible)  
 amena - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
 ameni - fiable (de confiance, fidèle, sûr, crédible)  
 ameno - sûrement  
-amer - amoureux  
 Amerike - Amérique  
 ameriki - américain  
 Ameriki Samoa - Samoa américaines  
 amerikium - américium  
 ami - cher  
-amike - chéri  
-amirer - émir  
+amir ja - émir  
 amiria - émirat  
 amirlin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
@@ -181,6 +175,7 @@ Atlanti Hai - océan Atlantique
 atlantokade - morue de l'Atlantique  
 atlantosalmon - saumon altentique  
 atom - atome  
+au - aïe!  
 aure - or  
 Australia - Australie  
 Austronesia - Austronésie  
@@ -279,6 +274,8 @@ bir - bière
 biyochaniver - compost  
 biyomutu - fermenter  
 biyosistem - biome  
+blu - bleu  
+blu elfe - schtroumpf  
 bode - corps  
 bokse - boxe  
 bokser - boxeur  
@@ -312,18 +309,19 @@ chaipote - théière
 chakre - roue  
 chamache - cuiller  
 chanse - chance  
-chantergrupe - chœur  
+chante grupe - chœur  
 charme - charme  
 chatre - quatre (4)  
 chatre me den - jeudi  
 chendeno - hier  
 cheniki - vieux (ancien)  
 cheno - avant  
-cherize - cerise  
+cheri - cerise  
 chili - piment  
-chinbrusben - cousin  
-chinmai - grand-mère  
-chinpai - grand-père  
+chin brus ben - cousin  
+chin ma - grand-mère  
+chin pa - grand-père  
+chini - porcelaine  
 chir - déchirer  
 chira - déchirer  
 chize - fromage  
@@ -349,15 +347,16 @@ danta - mordre
 darjomute - développement  
 date - données  
 datobanke - base de données  
-dauban - panneau de signalisation  
+dau ban - panneau de signalisation  
 debili - faible  
 debu - devoir  
 defban - bouclire  
 defkaske - armure  
 den - jour  
 deu - dieu  
+deu kata - mythe  
+deu nagra harfi - dévanagari  
 deu sofi - théosophie  
-deunagri harfe - dévanagari  
 dika - viser  
 dike - objectif (cible)  
 din - religion  
@@ -402,6 +401,7 @@ e - être
 ekojeni - sauvage  
 ekore - écureuil  
 eletre - électricité  
+elfe - elfe  
 em - élément (unité fondamentale)  
 emoje - émoticône (emoji)  
 emos - émotion  
@@ -482,6 +482,7 @@ funge nete - mycélium
 fute bol - football  
 fute marke - empreinte de pied  
 ####G - G  
+ga - si  
 gabur - tombe (enterrer)  
 gabur istan - cimetière  
 gabur sheke - pierre tombale  
@@ -506,16 +507,17 @@ gati - dur
 gau - haut  
 gautehnia - hautes technologies  
 gazel - gazelle  
+Geo - Terre  
+geo elfe - gnome  
+geo forme - terrain  
+geo grafi - geographie  
+geo kaske plate - plaque tectonique  
+geo logi - géologie  
+geo metri - géométrie  
+geo niche prizon - oubliette (cul de basse-fosse)  
+geo politika - géopolitique  
+geo termo - géothermique  
 Germania - Germanie  
-Geyia - Terre  
-geyoforme - terrain  
-geyografia - geographie  
-geyokaski plate - plaque tectonique  
-geyolojia - géologie  
-geyometria - géométrie  
-geyonichi prizon - oubliette (cul de basse-fosse)  
-geyopolitike - géopolitique  
-geyotermi - géothermique  
 giau - enseigner  
 gida - guider  
 gider - guide  
@@ -531,7 +533,7 @@ glutograf - autocollant
 gol - but (destination)  
 gorile - gorille  
 goton - coton  
-grafsage - bande dessinée  
+grafi kata - bande dessinée  
 granite - granit  
 grave - gravire  
 grimas - grimace  
@@ -551,16 +553,16 @@ haigun - force navale (marine)
 haihiyar - concombre de mer  
 haijel - méduse  
 haitate - côte  
-hake - droit  
+haki - droit  
 hal - état  
-halou - allô  
+halo - allô  
 hami - important  
 hande - main  
 handoshake - bras  
 hapa - adapter (ajuster)  
 hapi - approprié (adapté, convenable, opportun)  
 hapu - convenir (être approprié)  
-harfia - alphabet  
+harfi harfi - alphabet  
 Hartum - Khartoum  
 hata - jusque (jusqu’à)  
 hato - voire (même)  
@@ -573,6 +575,7 @@ hem - hum
 hema - considérer  
 hemah - tente  
 hen - haine  
+hero - héros  
 Hesia - Hesse  
 hijabu - voile  
 hima - neige  
@@ -580,6 +583,7 @@ Hindu desh - Hindustan
 Hindu riu - Indus  
 hisaba - calculer  
 hisabolojia - mathématiques  
+hisabu loge - compte  
 hiyar - concombre  
 hoga - brûler  
 hoge - feu  
@@ -594,8 +598,8 @@ hua - fleur
 hua pote - pot de fleur  
 huidarte - podzol  
 huke - crochet  
-hukokrus - svastika (croix gammée)  
-hulei - renard  
+huke krus - svastika (croix gammée)  
+huli - renard  
 huri - libre  
 ####I - I  
 iha uma - mule  
@@ -668,7 +672,7 @@ kaguje - papier
 kagujolimon - lime (citron vert)  
 kalam - plume  
 kalende - calendrier  
-kali harfe - espace  
+kali harfi - espace  
 kalmar - calmar (encornet, calamar)  
 kalsite - calcite  
 kalsokristal - marbre  
@@ -707,6 +711,7 @@ kaske - carapace (coquille, coquillage, croûte)
 katane - épée  
 katoglutoban - presse-papier  
 katus - cactus  
+kauri - cauri  
 kava - creuser  
 kave - fosse  
 ke - que (quoi)  
@@ -816,7 +821,9 @@ liste - liste
 litre - litre  
 loga - parler  
 logaslia - étymologie  
+loge - enregistrement  
 loge - parole (mots)  
+loge buke - livre de bord  
 logem - mot  
 logi - lexical  
 logia - vocabulaire (lexique)  
@@ -966,7 +973,6 @@ nevike - néophyte
 niche - dessous  
 nide - nid  
 nilchentaur - Centaurée bleuet  
-nili - bleu  
 nilon - nylon  
 Nipon - Japon  
 nish - niche  
@@ -1050,6 +1056,8 @@ penta - cinq (5)
 penta - peindre  
 penta me den - vendredi  
 pente - peinture  
+peri - fée  
+peri kata - conte de fées  
 perkardon - cirse commun  
 pese - argent  
 pesh - poisson  
@@ -1102,16 +1110,16 @@ program - programme
 projete - projet  
 pudi - pourri  
 pudu - pourrir (se décomposer)  
-pujokan - temple  
-pujomeze - autel  
+puja kan - temple  
+puja meza - autel  
 pul - pont  
-pume - couguar (puma)  
+puma - couguar (puma)  
 pura - remplir  
 purbona - perfectionner (parfaire)  
 purfina - accomplir (terminer)  
 puri - plein  
 purshipa - tremper (faire mariner)  
-putavoranje - pamplemousse  
+putau oranje - pamplemousse  
 ####R - R  
 rai - avis (opinion)  
 rang - couleur  
@@ -1258,8 +1266,8 @@ siyahi - noir
 sofa* - canapé (sofa)  
 sofita - sagesse  
 soi - soja  
-soimilke - lait de soja  
-soisaus - sauce de soja  
+soi milke - lait de soja  
+soi sos - sauce de soja  
 soka - chercher  
 sol - soleil  
 solchate - ombrelle (parasol)  
@@ -1447,6 +1455,7 @@ zong - pieu (poteau)
 zongominte - menthe verte  
 zou - animal (bête)  
 zou agria - élevage  
+zou kata - fable  
 zou logi - zoologie  
 zou logi di - zoologique  
 zou parke - zoo  

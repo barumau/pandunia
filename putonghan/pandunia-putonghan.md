@@ -1,19 +1,20 @@
-# pandunia-cini
+# pandunia-putonghan
 ####A - A  
-abete - 冷杉  
+abies - 冷杉  
 acente - 重音符号  
 achi - 打喷嚏 (阿嚏)  
-adali - 公正地  
-adalia - 正义  
-ade - 习惯 (风俗)  
+ada - 习惯 (风俗)  
+adil - 公正地  
+adilta - 正义  
 adres - 地址  
-Afgania - 阿富汗  
-aga - 如果 (要是)  
+Afgan - 阿富汗  
 agres - 攻击  
 agreser - 侵略者  
 agrobiologi - 土壤生物学  
 agrochun - 农村  
 agronomia - 农学  
+ai - 爱  
+ai ja - 恋人 (情人, 爱人)  
 air - 空气  
 airgun - 空军  
 airporte - 飞机场  
@@ -33,13 +34,11 @@ alkale - 碱性
 alkalogusti - 苦的  
 alkalomelon - 苦瓜  
 alkol - 酒  
-almare - 碗碟橱  
+almari - 碗碟橱  
 almas - 钻石  
 aloraya - 不同意  
-am - 愛  
-ama - 爱  
 amater - 爱好者  
-amer - 恋人 (情人, 爱人)  
+amen - 诚实  
 ami - 亲爱的  
 anairbivi - 厌氧的  
 andesite - 安山岩  
@@ -151,6 +150,9 @@ bir - 啤酒
 biyi jinse - 生物性別  
 biyomutu - 发酵  
 biyosistem - 生物群系  
+blu - 蓝色  
+blu ceram sing - 茜草花  
+blu elfe - 蓝精灵  
 bode - 身体  
 bokse - 拳击  
 bokser - 拳击手  
@@ -181,7 +183,7 @@ chaikupe - 茶碗
 chaipote - 茶壶  
 chakre - 轮子  
 chamache - 匙子  
-chantergrupe - 合唱团  
+chante grupe - 合唱团  
 chatre - 四 (4)  
 chatre me den - 星期四 (禮拜四)  
 chendeno - 昨日  
@@ -190,7 +192,8 @@ cheniki - 古老 (以前)
 cheno - 以前  
 chili - 菜椒  
 chili fun - 辣椒粉  
-chinga - 请  
+ching - 请  
+chini - 瓷器  
 chir - 撕裂  
 chira - 撕裂  
 chirchira - 撕毁  
@@ -220,9 +223,10 @@ debili - 虚弱 (易坏)
 defban - 盾牌  
 defkaske - 盔甲  
 den - 白天  
-deshajan - 公民  
+desha jan - 公民  
 deu - 神  
-deunagri harfe - 天城文  
+deu kata - 神话  
+deu nagra harfi - 天城文  
 dika - 瞄准  
 dike - 目的 (目标)  
 din - 宗教  
@@ -260,6 +264,7 @@ e - 对
 ekore - 松鼠  
 eletrolin - 电缆 (电线)  
 eletrorade - 闪电  
+elfe - 精灵  
 emoje - 绘文字  
 emoshal - 心情  
 englomargarite - 雛菊  
@@ -314,6 +319,7 @@ fuku - 穿
 funge frute - 蘑菇  
 fute marke - 脚印  
 ####G - G  
+ga - 如果 (要是)  
 gabur - 坟墓 (埋葬)  
 gabur istan - 公墓 (墓地)  
 gabur sheke - 墓石 (墓碑)  
@@ -330,12 +336,12 @@ gati - 硬
 gatomate - 固体  
 gautehnia - 高科技 (高技术)  
 gencha - 检查  
+geo forme - 地势  
+geo grafi - 地理  
+geo metri - 几何学  
+geo politika - 地缘政治  
+geo termo - 地热的  
 geta - 获得  
-geyoforme - 地势  
-geyografia - 地理  
-geyometria - 几何学  
-geyopolitike - 地缘政治  
-geyotermi - 地热的  
 giau - 教学  
 gida - 导游  
 gider - 导游  
@@ -351,7 +357,7 @@ glutograf - 贴纸
 gol - 目的  
 gorile - 大猩猩  
 goton - 棉  
-grafsage - 漫画  
+grafi kata - 漫画  
 granite - 花岗石  
 grave - 砾石  
 grimas - 鬼脸  
@@ -374,16 +380,16 @@ haihiyar - 海參
 haijel - 海蜇  
 haiporte - 海港  
 haitate - 海岸  
-hake - 权利  
+haki - 权利  
 hal - 状态  
-halou - 哈啰 (哈喽)  
+halo - 哈啰 (哈喽)  
 hami - 重要  
 hamili - 怀孕  
 Han - 汉族  
 hande - 手  
 handoshake - 胳膊  
 hapi - 合适  
-harfia - 字母表  
+harfi harfi - 字母表  
 Hartum - 喀土穆  
 hata - 直到  
 hato - 连  
@@ -395,12 +401,14 @@ helisviman - 直升机
 helpa - 帮助  
 hema - 深思 (考虑)  
 hemah - 帐篷  
+hero - 英雄 (勇士)  
 Hesia - 黑森  
 hijabu - 面纱  
 Hindu desh - 印度斯坦  
 Hindu riu - 印度河  
 hisaba - 计算  
 hisabolojia - 数学  
+hisabu loge - 账户  
 hiyar - 黄瓜  
 hoga - 燃烧  
 hoge - 火  
@@ -417,8 +425,8 @@ hua jara - 花瓶
 hua pote - 花盆  
 huidarte - 灰化土  
 huke - 钩  
-hukokrus - 卍 (卐)  
-hulei - 狐狸  
+huke krus - 卍 (卐)  
+huli - 狐狸  
 huri - 自由的  
 huria - 自由  
 ####I - I  
@@ -476,7 +484,7 @@ kaguje - 纸
 kagujolimon - 墨西哥萊檬  
 kalam - 笔  
 kalende - 日历  
-kali harfe - 空隙  
+kali harfi - 空隙  
 kalmar - 鱿鱼  
 kalsite - 方解石  
 kalsokristal - 大理石  
@@ -515,6 +523,7 @@ kata - 切
 katane - 剑  
 katoglutoban - 剪贴板  
 katus - 仙人掌  
+kauri - 宝贝  
 kava - 挖  
 kave - 坑 (穴)  
 ke - 什么  
@@ -626,7 +635,9 @@ lisan - 舌头
 liste - 单子  
 litre - 升  
 loga - 说话 (讲)  
+loge - 纪录  
 loge - 语言  
+loge buke - 航海日志  
 logem - 词  
 logia - 词汇  
 loka - 放置  
@@ -754,9 +765,7 @@ nevi - 新
 nevike - 新手  
 nide - 巢 (穴)  
 nilchentaur - 矢車菊  
-nili - 蓝色  
 nilon - 尼龙  
-nilseramshing - 茜草花  
 Nipon - 日本  
 nish - 壁龛  
 no - 不  
@@ -823,6 +832,7 @@ pendokardon - 垂花飞廉
 penta - 五 (5)  
 penta me den - 星期五 (禮拜五)  
 pente - 油漆 (颜料)  
+peri kata - 童话  
 perkardon - 翼蓟  
 pese - 钱  
 pesh - 鱼  
@@ -856,14 +866,15 @@ problem - 问题 (难题)
 program - 计划  
 puding - 布丁  
 pudu - 腐烂  
-pujokan - 寺庙  
-pujomeze - 圣坛  
+puja kan - 寺庙  
+puja meza - 圣坛  
 pul - 桥  
-pume - 美洲獅 (山狮)  
+puma - 美洲獅 (山狮)  
 purfina - 完成  
 purfityamiste - 纯素食主义者  
 purshipa - 浸泡  
-putavoranje - 葡萄柚  
+putau oranje - 葡萄柚  
+Putong Han - 普通话  
 putongi - 普通  
 ####R - R  
 rai - 意见 (见解)  
@@ -996,8 +1007,8 @@ siyahi - 黑色
 sofa* - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
-soimilke - 豆浆  
-soisaus - 酱油  
+soi milke - 豆浆  
+soi sos - 酱油  
 soka - 寻找  
 sol - 太阳  
 solful - 向日葵  

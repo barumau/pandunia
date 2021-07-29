@@ -37,8 +37,6 @@ Version 2.0 includes simpler grammar, more international word forms, and many ne
 - [Grammar of Pandunia](pan.pdf) in PDF format
 
 - [Searchable dictionary](tiddly.html)
-- [English-Pandunia](engli-pandunia.md) dictionary
-- [Pandunia-English](pandunia-engli.md) dictionary
 - [Origins of words](leksaslia.md)
 
 
@@ -53,10 +51,6 @@ Version 2.0 includes simpler grammar, more international word forms, and many ne
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
 - [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
 - [Esperanto vs. Pandunia](esperanti_i_pandunia.md)
-
-## Presentations (in PDF format)
-
-- [General Presentation](Pandunia-presentation.pdf)
 
 ## Join Others
 

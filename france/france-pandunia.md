@@ -1,4 +1,4 @@
-# fransi-pandunia
+# france-pandunia
 a (dans, en, chez) - ya  
 ####A - A  
 abattoir - buchokan  
@@ -27,12 +27,8 @@ administrateur - politer
 adresse - adres  
 adulte - matur  
 adversaire (antagoniste, ennemi) -   
-afghan - afgani  
-Afghanistan - Afgania  
-africain - Afriki  
-Afrique - Afrike  
-afrophile - afrikofiler  
-afrophilie - afrikofilia  
+Afghanistan - Afgan  
+Afrique - Afrika  
 agent pathogène - patojener  
 agile - ajili  
 agresseur - agreser  
@@ -42,7 +38,6 @@ agricole - agri
 agrobiologie - agrobiologi  
 agronomie - agronomia  
 ail - lasun  
-aimer - ama  
 air - air  
 aire (superficie) - ar  
 Alaska - Alaska  
@@ -56,18 +51,18 @@ aller (quitter) - kita
 Aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alofon  
-allô - halou  
-alphabet - harfia  
+allô - halo  
+alphabet - harfi harfi  
 alumine (oxyde d'aluminium) - aluminokside  
 aluminium - alumin  
 alun - aluminmate  
 amande - badam  
 amateur - amater  
 amer - alkalogusti  
-Amhara (groupe ethnique et langue éthiopienne) - Amari  
+Amhara (groupe ethnique et langue éthiopienne) - Amara  
 amiral - hayamirer  
-amour (affection) - am  
-amoureux - amer  
+amour (affection) - ai  
+amoureux - ai ja  
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - ameriki  
@@ -125,7 +120,7 @@ arme - arme
 armure - defkaske  
 armée - gun  
 armée de l'ai - airgun  
-arobase (@) - adresharfe  
+arobase (@) - adres harfi  
 arsenic - arsene  
 art - shutu  
 artichaut - karchof  
@@ -155,7 +150,7 @@ attaquer (agresser) - agresa
 aubergine - bedinje  
 Australie - Australia  
 Austronésie - Austronesia  
-autel - pujomeze  
+autel - puja meza  
 autocollant - glutograf  
 automne - padomosim  
 autre - ali  
@@ -172,7 +167,7 @@ Azerbaijan - Azerbaijan
 azur - lazuri  
 aérobique - airbivi  
 aéroport - airporte  
-aïe! - ai  
+aïe! - au  
 ####B - B  
 babord - naulefte  
 backgammon - narde  
@@ -189,7 +184,7 @@ ballon - balon
 bambou - banse  
 banane - banan  
 bande - bande  
-bande dessinée - grafsage  
+bande dessinée - grafi kata  
 Bangladesh - Bangladesh  
 banque - banke  
 banquier - banker  
@@ -228,7 +223,7 @@ biome - biyosistem
 bière - bir  
 blanc - baki  
 blettes (bettes) - selge  
-bleu - nili  
+bleu - blu  
 bloquer - bare  
 blé - ganum  
 bombe - bombe  
@@ -301,12 +296,13 @@ carte - karde
 carte - metregraf  
 carte à collectionner - jamkarde  
 cartographie - metregrafia  
+cauri - kauri  
 cent (100) - shoti  
 Centaurée - centaure  
 Centaurée bleuet - nilchentaur  
 Centaurée du solstice - solchentaur  
 centre - jung  
-cerise - cherize  
+cerise - cheri  
 chachlik - shishmanse  
 chambre à coucher - somkamar  
 Champagne - shampan  
@@ -340,10 +336,10 @@ Christ (messie) - mesi
 chronique - duri  
 chronomètre - durmetrer  
 chu - padi  
-chéri - amike  
+chéri - ai jen  
 chêne - balute  
 chêne pédonculé - europobalute  
-chœur - chantergrupe  
+chœur - chante grupe  
 ciel - ten  
 cime (pic, sommet) - shanpike  
 cimetière - gabur istan  
@@ -367,6 +363,7 @@ comportement (manière) - manir
 compost - biyochaniver  
 compote de pommes - aplosaus  
 comprendre (réaliser) - aha  
+compte - hisabu loge  
 concert - konserte  
 concombre - hiyar  
 concombre confit (cornichon) - suanpurshipi hiyar  
@@ -376,6 +373,7 @@ conseiller - sela
 considérer - hema  
 construire - bina  
 consultant (conseiller) - konseler  
+conte de fées - peri kata  
 conteneur - inan  
 continu (analogique) - zoki  
 continuer (poursuivre) - zoka  
@@ -394,15 +392,15 @@ cosmos - kosmia
 coton - goton  
 couch (couchette) - kushloke  
 coucher - kusha  
-couguar (puma) - pume  
+couguar (puma) - puma  
 couleur - rang  
 coupe (tasse, verre) - kupe  
 coureur - korer  
 courgette - lilkaboge  
 courir - kora  
 couronne - koron  
-cousin - chinbrusben  
-coutume - ade  
+cousin - chin brus ben  
+coutume - ada  
 couvrir - daka  
 crabe - krabe  
 craindre (avoir peur) - fobu  
@@ -470,7 +468,7 @@ dormir - somu
 douche - dush  
 drapeau - bandir  
 droit (rectiligne) - orti  
-droit - hake  
+droit - haki  
 droits de l'homme - insani hake  
 dur - gati  
 durer - dura  
@@ -484,7 +482,7 @@ déchirer - chir
 déchirer - chira  
 défigurer - dusforma  
 désaccord (différend) - alorayia  
-dévanagari - deunagri harfe  
+dévanagari - deu nagra harfi  
 développement - darjomute  
 ####E - E  
 east (orient) - dong  
@@ -494,6 +492,7 @@ effet - asar
 effrayant - fobani  
 effrayer - foba  
 Einsteinium - ainstainium  
+elfe - elfe  
 empreinte de pied - fute marke  
 empreinte digitale - angulmarke  
 empruntre - jekogeta  
@@ -505,6 +504,7 @@ encore - zoko
 enfant - bache  
 ennemi - anamike  
 ennemi - dusjan  
+enregistrement - loge  
 enseigner - giau  
 ensommeillé (somnolent) - somivi  
 ensuite (après, plus tard, ir a, en el futuro) - poso  
@@ -514,7 +514,7 @@ envelopper (emballer) - lifafa
 erroné - galti  
 escroquer - truka  
 espace (zone, région) - aria  
-espace - kali harfe  
+espace - kali harfi  
 estrade - tai  
 et - e  
 ethnie - zuke  
@@ -534,6 +534,7 @@ extraire - eshtrata
 extérieur - esh  
 exécrer - anama  
 ####F - F  
+fable - zou kata  
 face (facette) - fas  
 facile - fasili  
 faible - debili  
@@ -583,6 +584,7 @@ fromage - chize
 fromage blanc - panir  
 fruit - frute  
 frêne - yasen  
+fée - peri  
 Félicitations ! - barka  
 féliciter - barka  
 ####G - G  
@@ -596,7 +598,7 @@ gazelle - gazel
 geler (glacer) - aisu  
 genou - gute  
 genre grammatical - bashi jinse  
-geographie - geyografia  
+geographie - geo grafi  
 Germanie - Germania  
 gingembre - zinje  
 giraffe - jiraf  
@@ -604,12 +606,13 @@ glace - ais
 glacé (glacial, gelé) - aisi  
 gland - balutopal  
 glisser - glisu  
+gnome - geo elfe  
 gombo - bamye  
 gorille - gorile  
 goule - gul  
 gouvernement - polite  
-grand-mère - chinmai  
-grand-père - chinpai  
+grand-mère - chin ma  
+grand-père - chin pa  
 granit - granite  
 gravire - grave  
 grenouille - krokroke  
@@ -628,10 +631,10 @@ généralissime - gunrajer
 généreux - donivi  
 généreux - karimi  
 générosité (charité) - karimia  
-géologie - geyolojia  
-géométrie - geyometria  
-géopolitique - geyopolitike  
-géothermique - geyotermi  
+géologie - geo logi  
+géométrie - geo metri  
+géopolitique - geo politika  
+géothermique - geo termo  
 gêner (déranger, perturber) - turba  
 ####H - H  
 habiller (vêtir) - fuka  
@@ -650,6 +653,7 @@ hivernal (hibernal) - lengomosimi
 hockey - hoke  
 hockey sur glace - aishoke  
 honneur - onor  
+honnête (sûr, crédible) - amen  
 honorer - onora  
 horloge - horloger  
 houe - chope  
@@ -662,6 +666,7 @@ humanisme - insanistia
 humeur - emoshal  
 hygiène - salsafia  
 hélicoptère - helisviman  
+héros - hero  
 hétéroromantique (hétéromantique) - aloromansi  
 hétérosexuel - aloseksi  
 hôtel - hotel  
@@ -709,8 +714,8 @@ juje - juder
 Jupiter - Jupiter  
 jus - jus  
 jusque (jusqu’à) - hata  
-juste - adali  
-justice - adalia  
+juste - adil  
+justice - adilta  
 Jésus - Yesu  
 Jésus-Christ - Yesu mesi  
 ####K - K  
@@ -727,7 +732,7 @@ laid (vilain) - dusvidi
 laine - meme kesh  
 laisser - lasha  
 lait - milke  
-lait de soja - soimilke  
+lait de soja - soi milke  
 laitue - letis  
 lama (enseignant religieux du bouddhisme tibétain) - lama*  
 lama - liame  
@@ -761,6 +766,7 @@ liste - liste
 litre - litre  
 littérature - kitabu shutu  
 livre - buke  
+livre de bord - loge buke  
 local - loki  
 loin - longo  
 long - longi  
@@ -861,6 +867,7 @@ mule - iha uma
 mur - mur  
 musique - muzike  
 mycélium - funge nete  
+mythe - deu kata  
 mât - maste  
 mère (maman) - ma  
 mètre - mitre  
@@ -949,7 +956,7 @@ otite - oritis
 ou - o  
 ouah - va  
 oublier - anmema  
-oubliette (cul de basse-fosse) - geyonichi prizon  
+oubliette (cul de basse-fosse) - geo niche prizon  
 oui - ye  
 ours - urse  
 oxyde - okside  
@@ -961,11 +968,11 @@ pain - pang
 pair (pareil, egal) - pari  
 paix - pache  
 palais (château, manoir) - daidom  
-pamplemousse - putavoranje  
+pamplemousse - putau oranje  
 panda - pande  
 pandémie - pandemi patia  
 panier (panier de basketball) - baske  
-panneau de signalisation - dauban  
+panneau de signalisation - dau ban  
 pansement (sparadrap) - glutobende  
 pantalon - pante  
 pantomime - panmim  
@@ -1027,7 +1034,7 @@ pistolet - pau
 pizza - pize  
 pièce (chambre) - kamar  
 piège - kapotruke  
-placard - almare  
+placard - almari  
 place - meden  
 plaine - platistan  
 plaire - suka  
@@ -1035,7 +1042,7 @@ plan - plan
 planche - mokoban  
 plante (végétal) - fite  
 planter - poza  
-plaque tectonique - geyokaski plate  
+plaque tectonique - geo kaske plate  
 plein - puri  
 pluie - shava  
 plume - kalam  
@@ -1055,6 +1062,7 @@ pollution - najis
 Polynesie - Polnesia  
 pomme - aple  
 pont - pul  
+porcelaine - chini  
 porte - porte  
 porte-bloc (planchette à pince) - pinsoban  
 porter (s’habiller) - fuku  
@@ -1129,7 +1137,7 @@ rein - nefre
 religion - din  
 remettre - retra  
 remplir - pura  
-renard - hulei  
+renard - huli  
 repos - shante  
 reprendre - reizoka  
 requin - sharke  
@@ -1178,11 +1186,11 @@ Samoa américaines - Ameriki Samoa
 sandwich - sanduiche  
 sang - sang  
 santé - salia  
-sapin - abete  
+sapin - abies  
 Satan - shatan  
 Saturne - Saturne  
 sauce - sos  
-sauce de soja - soisaus  
+sauce de soja - soi sos  
 saucisse - sosis  
 saumon altentique - atlantosalmon  
 saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
@@ -1192,6 +1200,7 @@ sauvage - ekojeni
 savane - garmozoni chavistan  
 savoir (connaître) - sabi  
 Scandinavie - Eskandia  
+schtroumpf - blu elfe  
 scie - sere  
 sculpteur - eskulter  
 scutelle - ostoshalke  
@@ -1216,7 +1225,7 @@ seul (unique) - uniki
 sexe - jinse  
 sexologie - sekselogi  
 shopping - shope  
-si - aga  
+si - ga  
 signer - namkitaba  
 silex - hogosheke  
 simulation - samsifia  
@@ -1247,7 +1256,7 @@ Suisse - Suice
 suivre - posa  
 sujet (thème) - tem  
 surestimer - mashraya  
-svastika (croix gammée) - hukokrus  
+svastika (croix gammée) - huke krus  
 symétrie - sammetre  
 séminal - semi  
 sénateur - senater  
@@ -1266,16 +1275,16 @@ taximètre - taksometrer
 technique - tehne  
 technologie - tehnelogi  
 tectonique des plaques - plati geyokaskia  
-temple - pujokan  
+temple - puja kan  
 temps - zam  
 tendance - klin  
 tender - tirlonga  
 tendu - tensi  
 tentacule - senter  
 tente - hemah  
-terrain - geyoforme  
+terrain - geo forme  
 terrain de camping - kampistan  
-Terre - Geyia  
+Terre - Geo  
 terre cuite - bekofan  
 terreplatiste - platogeyiste  
 terrorisme - teroristia  
@@ -1424,7 +1433,7 @@ zèbre - zebre
 élément (unité fondamentale) - em  
 élément chimique - kimem  
 émeraude - zumurude  
-émir - amirer  
+émir - amir ja  
 émirat - amiria  
 émoticône (emoji) - emoje  
 émotion - emos  

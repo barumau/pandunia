@@ -257,6 +257,9 @@ cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > polski/tiddly.html
 # putonghan i pandunia
 fata_liste 11 putonghan
 
+# nipon i pandunia
+fata_liste 12 nipon
+
 # rusi i pandunia
 fata_liste 9 rus
 

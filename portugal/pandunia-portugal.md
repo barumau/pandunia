@@ -1,23 +1,23 @@
-# pandunia-portugali
+# pandunia-portugal
 ####A - A  
-abete - abeto  
+abies - abeto  
 acente - acento  
 aces - acesso  
 achi - espirrar  
-adali - justo  
-adalia - justiça  
-ade - costume (hábito)  
+ada - costume (hábito)  
+adil - justo  
+adilta - justiça  
 adres - endereço  
-afgani - afegão  
-Afgania - Afeganistão  
-aga - se  
+Afgan - Afeganistão  
 agra - cultivar  
 agres - ataque  
 agreser - agressor  
 agri - agrícola  
 agrobiologi - agrobiologia  
 agronomia - agronomia  
-ai - ai!  
+ai - amor  
+ai ja - amante  
+ai jen - querido  
 air - ar  
 airbivi - aeróbico  
 airgun - força aérea  
@@ -36,14 +36,12 @@ alkale - base (álcali)
 alkali - alcalino  
 alkalogusti - amargo  
 alkol - álcool  
-almare - armário  
+almari - armário  
 almas - diamante  
 aloraya - discordar  
-am - amor  
 amater - amador  
-amer - amante  
+amen - honesto (sincero)  
 ami - querido (caro)  
-amike - querido  
 anairbivi - anaeróbico  
 andesite - andesito  
 andiniste - infiel  
@@ -85,6 +83,7 @@ Atina - Atenas
 ation - ação  
 ativi - ativo  
 atlantokade - bacalhau-do-atlântico  
+au - ai!  
 aure - ouro  
 Austronesia - Austronésia  
 autologe - monólogo  
@@ -152,6 +151,8 @@ biologi - biología
 bir - cerveja  
 biyomutu - fermentar  
 biyosistem - bioma  
+blu - azur  
+blu elfe - estrumpfe (smurf)  
 bode - corpo  
 bokse - boxe  
 bokser - boxeador (pugilista)  
@@ -183,17 +184,18 @@ chaipote - bule
 chakre - roda  
 chamache - colher  
 chanse - chance  
-chantergrupe - coro  
+chante grupe - coro  
 charme - charme  
 chatre - quatro (4)  
 chatre me den - quinta-feira  
 chendeno - ontem  
 cheniki - velho (antigo)  
-cherize - cereja  
+cheri - cereja  
 chili - cápsico  
-chinbrusben - primo  
-chinmai - avó  
-chinpai - avô  
+chin brus ben - primo  
+chin ma - avó  
+chin pa - avô  
+chini - porcelana  
 chir - rasgar  
 chira - rasgar  
 chirchiri - esfarrapado  
@@ -225,8 +227,9 @@ defban - escudo
 defkaske - armadura  
 den - dia  
 deu - deus  
+deu kata - mito  
+deu nagra harfi - devanágari  
 deu sofi - teosofia  
-deunagri harfe - devanágari  
 dika - mirar (apontar)  
 dike - objetivo  
 din - religião  
@@ -262,6 +265,7 @@ e - e
 e - ser (estar)  
 ekore - esquilo  
 eletre - eletricidade  
+elfe - elfo  
 em - elemento  
 emoje - emoticon (emoji)  
 emos - emoçao  
@@ -331,6 +335,7 @@ funge frute - cogumelo
 fute bol - futebol  
 fute marke - pegada  
 ####G - G  
+ga - se  
 gabur - sepultura (túmulo, enterrar)  
 gabur istan - cemitério  
 gabur sheke - lápide  
@@ -351,13 +356,13 @@ garmomosim - verão
 garmozon - trópicos  
 gas - gás  
 gati - duro  
+Geo - Terra  
+geo forme - terreno  
+geo grafi - geografia  
+geo metri - geometria  
+geo politika - geopolítica  
 Germania - Germânia  
 geta - ter (achar, receber)  
-Geyia - Terra  
-geyoforme - terreno  
-geyografia - geografia  
-geyometria - geometria  
-geyopolitike - geopolítica  
 giau - ensinar (lecionar)  
 gida - guiar  
 gider - guia  
@@ -372,7 +377,7 @@ glutograf - adesivo
 gol - meta (gol)  
 gorile - gorila  
 goton - algodão  
-grafsage - quadrinhos (banda desenhada)  
+grafi kata - quadrinhos (banda desenhada)  
 granite - granito  
 grave - cascalho  
 grimas - careta (esgar)  
@@ -390,9 +395,9 @@ haihiyar - pepino-do-mar (holotúrias)
 haijel - medusa  
 haiporte - porto marítimo  
 haitate - costa  
-hake - direito  
+haki - direito  
 hal - estado  
-halou - alô  
+halo - alô  
 hami - importante  
 hamili - grávida (prenhe)  
 hande - mão  
@@ -407,12 +412,14 @@ hayi - marítimo
 helisviman - hélicoptero  
 hem - hmm  
 hema - considerar  
+hero - héroi  
 Hesia - Hesse (Héssia)  
 hijabu - véu  
 hima - neve  
 Hindu riu - Indo  
 hisaba - calcular  
 hisabolojia - matemática  
+hisabu loge - conta  
 hiyar - pepino  
 hoga - queimar  
 hoge - fogo  
@@ -428,8 +435,8 @@ hua - flor
 hua pote - vaso de flores  
 huidarte - espodossolo  
 huke - gancho  
-hukokrus - suástica (cruz gamada)  
-hulei - raposa  
+huke krus - suástica (cruz gamada)  
+huli - raposa  
 huri - livre (forro)  
 ####I - I  
 inan - contêiner  
@@ -492,7 +499,7 @@ kaguje - papel
 kagujolimon - lima  
 kalam - lápis  
 kalende - calendário  
-kali harfe - espaço  
+kali harfi - espaço  
 kalmar - lula (calamar)  
 kalsite - calcita  
 kalsokristal - mármore  
@@ -529,6 +536,7 @@ kaske - casca (concha)
 katane - espada  
 katoglutoban - área de transferência  
 katus - cacto  
+kauri - búzio  
 kava - cavar (escavar)  
 kave - buraco  
 ke - o que  
@@ -637,7 +645,9 @@ liste - lista
 litre - litro  
 loga - falar  
 logaslia - etimologia  
+loge - registro  
 loge - fala (palavras)  
+loge buke - diário de bordo  
 logem - palavra (vocábulo)  
 logi - léxico  
 logia - vocabulário  
@@ -776,7 +786,6 @@ nevia - novidade
 nevike - novato (neófito)  
 nide - ninho (vespiero)  
 nilchentaur - escovinha (centáurea)  
-nili - azur  
 Nipon - Japão  
 nish - nicho  
 no - não  
@@ -848,6 +857,8 @@ pelpel - borboleta
 penta - cinco (5)  
 penta me den - sexta-feira  
 pente - pintura  
+peri - fada  
+peri kata - conto de fadas  
 perkardon - cardo-roxo  
 pese - dinheiro  
 pesh - peixe  
@@ -892,15 +903,15 @@ problem - problema
 program - programa  
 projete - projeto  
 pudu - apodrecer-se  
-pujokan - templo  
-pujomeze - altar  
+puja kan - templo  
+puja meza - altar  
 pul - ponte  
 purbona - aperfeiçoar  
 purfina - terminar (acabar, concluir)  
 purfityamiste - vegetalista  
 puri - cheio  
 purshipa - ensopar (encharcar, marinar)  
-putavoranje - toranja  
+putau oranje - toranja  
 ####R - R  
 rai - opinião  
 rang - cor  
@@ -1029,8 +1040,8 @@ siyahi - preto
 Slave - eslavo  
 sofita - sabedoria (sagacidade, sapiência)  
 soi - soja  
-soimilke - leite de soja  
-soisaus - molho de soja  
+soi milke - leite de soja  
+soi sos - molho de soja  
 soka - buscar (procurar)  
 sol - sol  
 solchate - sombrinha  
@@ -1180,6 +1191,7 @@ zon - zona
 zong - poste (estaca)  
 zongominte - hortelã-verde  
 zou - animal (besta, bicho)  
+zou kata - fábula  
 zou logi - zoologia  
 zou logi di - zoológico  
 zou parke - zoológico  

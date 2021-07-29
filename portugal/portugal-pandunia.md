@@ -1,8 +1,8 @@
-# portugali-pandunia
+# portugal-pandunia
 ####A - A  
 abater - bucha  
 abelha ou vespa - vespe  
-abeto - abete  
+abeto - abies  
 abobrinha - lilkaboge  
 abóbora (jerimun) - kaboge  
 acanto-bastardo - pinkardon  
@@ -20,15 +20,14 @@ adversário -
 aeite (óleo) - nefte  
 aeroporto - airporte  
 aeróbico - airbivi  
-Afeganistão - Afgania  
-afegão - afgani  
+Afeganistão - Afgan  
 agacharse - insida  
 agent (faiseur) - ateja  
 agressor - agreser  
 agrobiologia - agrobiologi  
 agronomia - agronomia  
 agrícola - agri  
-ai! - ai  
+ai! - au  
 ainda - zoko  
 alaranjado - oranji  
 alcachofra - karchof  
@@ -44,14 +43,14 @@ alho - lasun
 alho-porro - porei  
 aligátor (jacaré) - kortokrokodil  
 almirante - hayamirer  
-altar - pujomeze  
+altar - puja meza  
 alterar - ala  
-alô - halou  
+alô - halo  
 amador - amater  
-amante - amer  
+amante - ai ja  
 amargo - alkalogusti  
 ameixa - plum  
-amor - am  
+amor - ai  
 amêndoa - badam  
 anaeróbico - anairbivi  
 analógico - zoki  
@@ -76,7 +75,7 @@ arma - arme
 arma de fogo - pau  
 armadilha - kapotruke  
 armadura - defkaske  
-armário - almare  
+armário - almari  
 arquiteto - binplaner  
 arquitetura - binplania  
 arrastar - trata  
@@ -103,10 +102,10 @@ Austronésia - Austronesia
 aveia - aven  
 aventura - ventur  
 aventureiro - venturer  
-avó - chinmai  
-avô - chinpai  
+avó - chin ma  
+avô - chin pa  
 azur (blau) - lazuri  
-azur - nili  
+azur - blu  
 açougueiro (talhante) - bucher  
 ação - ation  
 açúcar - sukar  
@@ -164,6 +163,7 @@ bule - chaipote
 buraco - kave  
 buscar (procurar) - soka  
 bétula - berje  
+búzio - kauri  
 ####C - ch  
 cabeça - sar  
 cacto - katus  
@@ -218,7 +218,7 @@ cenoura - karote
 centro - jung  
 centáurea - centaure  
 cerca - kenarbaryer  
-cereja - cherize  
+cereja - cheri  
 cerveja - bir  
 cerâmica - poteria  
 cerâmico - serame  
@@ -270,12 +270,14 @@ conselho - sel
 considerar - hema  
 construir - bina  
 consultor - konseler  
+conta - hisabu loge  
+conto de fadas - peri kata  
 contêiner - inan  
 copo (taça) - kupe  
 cor - rang  
 coral - koral  
 corno - korne  
-coro - chantergrupe  
+coro - chante grupe  
 corpo - bode  
 corredor - korer  
 correr - kora  
@@ -283,7 +285,7 @@ correto (justo) - sahi
 cosmo - kosmia  
 cosmonauta - kosmonaver  
 costa - haitate  
-costume (hábito) - ade  
+costume (hábito) - ada  
 crente - din ja  
 crepe (panqueca) - krepe  
 crepe - France krepe  
@@ -324,7 +326,7 @@ deslizar - glisu
 despertar - jagu  
 destino - nasibe  
 deus - deu  
-devanágari - deunagri harfe  
+devanágari - deu nagra harfi  
 dever - debu  
 dia - den  
 diamante - almas  
@@ -332,11 +334,12 @@ digital - feni
 dinamite - dinamite  
 dinheiro - pese  
 diorito - diorite  
-direito - hake  
+direito - haki  
 direitos humanos - insani hake  
 diretor - shulshef  
 disco - diske  
 discordar - aloraya  
+diário de bordo - loge buke  
 dióxido de carbono - karbodulokside  
 documento - dokum  
 documentário - dokumfilme  
@@ -358,6 +361,7 @@ Egipto (Egito) - Misria
 elemento - em  
 elemento químico - kimem  
 eletricidade - eletre  
+elfo - elfe  
 elo - sil  
 elogio - euloge  
 embalar - lifafa  
@@ -392,7 +396,7 @@ esfarrapado - chirchiri
 eslavo - Slave  
 esmeralda - zumurude  
 espada - katane  
-espaço - kali harfe  
+espaço - kali harfi  
 espetador - speter  
 espirrar - achi  
 espodossolo - huidarte  
@@ -411,6 +415,7 @@ este (leste) - dong
 estirar - tirlonga  
 estrado - tai  
 estrela - sing  
+estrumpfe (smurf) - blu elfe  
 estudante - estuder  
 estudar (examinar) - estuda  
 etimologia - logaslia  
@@ -432,6 +437,7 @@ exército - gun
 exógeno - eshojeni  
 ####F - F  
 face (faceta) - fas  
+fada - peri  
 fadiga - fatigia  
 fala (palavras) - loge  
 falar - loga  
@@ -470,6 +476,7 @@ fungo - funge
 funil - riutube  
 furar (perfurar) - fora  
 futebol - fute bol  
+fábula - zou kata  
 fácil - fasili  
 ####G - G  
 gaiola (jaula) - baton kapse  
@@ -488,9 +495,9 @@ generalíssimo - gunrajer
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
 genótipo - jentipe  
-geografia - geyografia  
-geometria - geyometria  
-geopolítica - geyopolitike  
+geografia - geo grafi  
+geometria - geo metri  
+geopolítica - geo politika  
 Germânia - Germania  
 girafa - jiraf  
 girassol - solful  
@@ -516,6 +523,7 @@ haste (talo, caule) - tan
 Hesse (Héssia) - Hesia  
 higiene - salsafia  
 hmm - hem  
+honesto (sincero) - amen  
 honra - onor  
 honrar - onora  
 hora - hor  
@@ -528,6 +536,7 @@ humanismo - insanistia
 humano - insaniki  
 humor - emoshal  
 hélicoptero - helisviman  
+héroi - hero  
 hóquei - hoke  
 hóquei no gelo - aishoke  
 ####I - I  
@@ -579,8 +588,8 @@ joule (J) - jul
 jovem - joveni  
 jugo - yoke  
 juiz - juder  
-justiça - adalia  
-justo - adali  
+justiça - adilta  
+justo - adil  
 Júpiter - Jupiter  
 ####K - K  
 kelp - varkalge  
@@ -596,7 +605,7 @@ laranja - oranje
 lasanha - lazanye  
 latéral - lati  
 leite - milke  
-leite de soja - soimilke  
+leite de soja - soi milke  
 lembrar-se (recordar-se) - mema  
 lente - lense  
 lento - lenti  
@@ -692,6 +701,7 @@ micróbio - mikrobiu
 migração - migre  
 mina - kuangia  
 mirar (apontar) - dika  
+mito - deu kata  
 modelar - forma  
 modo (maneira, jeito) - mode  
 moeda - pesodiske  
@@ -703,7 +713,7 @@ moldura - frem
 molestar (perturber) - turba  
 molhado - shipi  
 molhar - shipa  
-molho de soja - soisaus  
+molho de soja - soi sos  
 momento (instante) - sate  
 momentâneo - sati  
 monção - shava mosim  
@@ -877,6 +887,7 @@ ponta do dedo - angulpike
 ponte - pul  
 por exemplo - misalo  
 por muito tempo - longoduro  
+porcelana - chini  
 porto - porte  
 porto marítimo - haiporte  
 Porto Rico - Portorikia  
@@ -892,7 +903,7 @@ praça - meden
 precioso - bavi  
 preferir - mashfila  
 preto - siyahi  
-primo - chinbrusben  
+primo - chin brus ben  
 problema - problem  
 professor (docente) - shule guru  
 profissão - peikar  
@@ -911,7 +922,7 @@ página - varkolate
 pântano - fantopia  
 pão - pang  
 pícea (espruce) - pise  
-quadrinhos (banda desenhada) - grafsage  
+quadrinhos (banda desenhada) - grafi kata  
 quando - ke sate  
 quarta-feira - tri me den  
 quarto (dormitório) - somkamar  
@@ -925,7 +936,7 @@ queimarse - hogu
 quem - ke jan  
 querer (desejar) - volu  
 querido (caro) - ami  
-querido - amike  
+querido - ai jen  
 questão (pergunta) - sual  
 quiabo - bamye  
 quimono - kimono*  
@@ -935,7 +946,7 @@ quivi - kivi*
 química - kimlojia  
 ####R - R  
 rachadura - krake  
-raposa - hulei  
+raposa - huli  
 raramente - nadiro  
 raro - nadiri  
 raro - rari  
@@ -948,6 +959,7 @@ reciclar - resikle
 recém-nascido - neujeni  
 refugo (escória) - laje  
 regime - politomode  
+registro - loge  
 relier (connecter) - linka  
 religião - din  
 relógio - horloger  
@@ -1000,7 +1012,7 @@ Saturno - Saturne
 saudação - salame  
 saudável (saudio) - sali  
 saúde - salia  
-se - aga  
+se - ga  
 se - se  
 seabórgio - siborgium  
 seda - silke  
@@ -1043,7 +1055,7 @@ substância - kim
 suco (sumo) - jus  
 suor - suede  
 superestimar (sobrestimar) - mashraya  
-suástica (cruz gamada) - hukokrus  
+suástica (cruz gamada) - huke krus  
 Suíça - Suice  
 sábado - luku me den  
 São Paulo - Santi Paulo  
@@ -1060,7 +1072,7 @@ telefonia - telfonia
 telescópio - teleskope  
 temer - fobu  
 tempero - masale  
-templo - pujokan  
+templo - puja kan  
 tempo - zam  
 tendência - klin  
 tenso - tensi  
@@ -1069,11 +1081,11 @@ tentáculo - senter
 teosofia - deu sofi  
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
-Terra - Geyia  
+Terra - Geo  
 terra natal - jenistan  
 terracota - bekofan  
 terraplanista - platogeyiste  
-terreno - geyoforme  
+terreno - geo forme  
 terça-feira - du me den  
 teste - teste  
 tigre - bagre  
@@ -1083,7 +1095,7 @@ toalha de mesa - mezotesh
 tomate - tomate  
 topografia - topograf  
 tora - mokotan  
-toranja - putavoranje  
+toranja - putau oranje  
 torta - pai  
 toupeira - krote  
 toxicologia - toksilogi  

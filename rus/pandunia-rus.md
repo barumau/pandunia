@@ -1,22 +1,21 @@
-# pandunia-rusi
 ####A - A  
-abete - пихта  
+abies - пихта  
 acente - ударение  
 aces - доступ  
 achi - чихать  
-adali - справедливый  
-adalia - справедливость  
-ade - обычай (привычка)  
+ada - обычай (привычка)  
+adil - справедливый  
+adilta - справедливость  
 adres - адрес  
-afgani - афганский  
-Afgania - Афганистан  
-aga - если  
+Afgan - Афганистан  
 agra - выращивать  
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
 agri - аграрный  
 agrobiologi - агробиология  
 agronomia - агрономия  
+ai - любовь  
+ai ja - любовник  
 air - воздух  
 airbivi - аэробный  
 airgun - военно-воздушные силы  
@@ -37,12 +36,10 @@ alkalogusti - горький
 alkalomelon - горький огурец (китайская горькая тыква)  
 alkaloranje - померанец  
 alkol - алкоголь  
-almare - шкаф  
+almari - шкаф  
 almas - алмаз (бриллиант)  
-am - любовь  
-ama - любить  
 amater - любитель  
-amer - любовник  
+amen - честный (правдивый)  
 amirlin - командная строка  
 andesite - андезит  
 andiniste - неверующий  
@@ -164,6 +161,8 @@ biyochaniver - компост
 biyomutu - заквасить  
 biyosistem - биом  
 biznes - предприятие (бизнес)  
+blu - синий (голубой)  
+blu elfe - смурф (штрумпф)  
 bode - тело  
 boi - поплавок (буй)  
 bokse - бокс  
@@ -201,18 +200,19 @@ chaipote - чайник
 chakre - колесо  
 chamache - ложка  
 chanse - возможность (шанс)  
-chantergrupe - хор  
+chante grupe - хор  
 charme - шарм  
 chatre - четыре (4)  
 chatre me den - четверг  
 chendeno - вчера  
 cheniki - старый (древний)  
 cheno - раньше  
-cherize - черешня  
+cheri - черешня  
 chili - перец (паприка)  
-chinga - просить  
-chinmai - бабушка  
-chinpai - дедушка  
+chin ma - бабушка  
+chin pa - дедушка  
+ching - просить  
+chini - фарфор  
 chir - рвать  
 chira - рвать  
 chirchira - изорвать  
@@ -239,13 +239,14 @@ dantobalute - дуб зубчатый
 darjomute - развитие  
 date - данные  
 datobanke - база данных  
-dauban - табличка с названием улицы  
+dau ban - табличка с названием улицы  
 defban - щит  
 defkaske - доспехи  
 den - день  
 deu - бог  
+deu kata - миф  
+deu nagra harfi - деванагари  
 deu sofi - теософия  
-deunagri harfe - деванагари  
 dika - целиться  
 dike - цель  
 din - религия (вера)  
@@ -290,6 +291,7 @@ ekojeni - дикий
 ekore - белка  
 eletrolin - провод (кабель)  
 eletrorade - молния  
+elfe - эльф  
 em - элемент  
 emoje - смайлик (эмодзи)  
 emos - эмоция (чувство)  
@@ -365,6 +367,7 @@ funge frute - гриб
 fute bol - футбол  
 fute marke - след ноги  
 ####G - G  
+ga - если  
 gabur - могила (гроб, хоронить)  
 gabur istan - кладбище  
 gabur sheke - надгробие  
@@ -382,13 +385,13 @@ gautehnia - высокие технологии
 gazel - газель  
 gazete - газета  
 gemer - игрок (геймер)  
+Geo - Земля  
+geo grafi - география  
+geo metri - геометрия  
+geo niche prizon - ублиет (подземная тюрьма)  
+geo politika - геополитика  
+geo termo - геотерма́льный  
 geta - получить  
-Geyia - Земля  
-geyografia - география  
-geyometria - геометрия  
-geyonichi prizon - ублиет (подземная тюрьма)  
-geyopolitike - геополитика  
-geyotermi - геотерма́льный  
 giau - учить (преподавать)  
 gider - гид  
 gidobuke - путеводитель  
@@ -403,7 +406,7 @@ glutograf - наклейка
 gol - цель  
 gorile - горилла  
 goton - хлопок  
-grafsage - комикс  
+grafi kata - комикс  
 granite - гранит  
 grave - гравий  
 grimas - гримаса  
@@ -427,14 +430,14 @@ haiful - морские анемоны
 haigun - военно-морской флот  
 haihiyar - голотурия (морские огурц)  
 hal - состояние (статус)  
-halou - алло  
+halo - алло  
 hami - важный (значимый)  
 hamili - беременный  
 Han - хань  
 hande - рука  
 handoshake - рукав  
 hapi - подходящий (годный)  
-harfia - алфавит  
+harfi harfi - алфавит  
 Hartum - Хартум  
 hata - до  
 hatre - опасность  
@@ -446,12 +449,14 @@ helisviman - вертолёт
 hem - хм  
 hema - думать  
 hemah - палатка (шатёр)  
+hero - герой  
 Hesia - Гессен  
 hijabu - вуаль  
 Hindu desh - Индостан  
 Hindu riu - Инд  
 hisaba - вычислять  
 hisabolojia - математика  
+hisabu loge - счёт  
 hiyar - огурец  
 hoga - жечь (палить)  
 hoge - огонь  
@@ -467,8 +472,8 @@ hua mosim - весна
 hua pote - цвето́чный горшок  
 huidarte - подзол  
 huke - крюк (гак)  
-hukokrus - свастика  
-hulei - лиса  
+huke krus - свастика  
+huli - лиса  
 huri - свободный (вольный)  
 ####I - I  
 iha uma - мул  
@@ -574,6 +579,7 @@ kaske - оболочка (кора, панцирь)
 katane - меч  
 katoglutoban - буфер обмена  
 katus - кактус  
+kauri - каури  
 kava - копать  
 kave - яма  
 ke - что  
@@ -686,7 +692,9 @@ liste - список
 litre - литр  
 loga - говорить  
 logaslia - этимология  
+loge - запись  
 loge - речь  
+loge buke - судовой журнал  
 logem - слово (речь)  
 logi - лексический  
 logia - словарь  
@@ -834,7 +842,6 @@ nevia - новизна
 nevike - новичок  
 nide - гнездо (улей)  
 nilchentaur - василёк синий  
-nili - синий (голубой)  
 nilon - нейлон  
 Nipon - Япония  
 nish - ниша  
@@ -915,6 +922,8 @@ penta me den - пятница
 pente - картина  
 penter - художник  
 per - перо  
+peri - фея  
+peri kata - сказка  
 perkardon - бодяк обыкновенный  
 pese - деньги  
 pesh - рыба  
@@ -960,15 +969,15 @@ problemi - проблематичный
 program - программа  
 projete - проект  
 pudu - гнить (портиться)  
-pujokan - храм (место богослужения)  
-pujomeze - алтарь  
-pume - пума (кугуар)  
+puja kan - храм (место богослужения)  
+puja meza - алтарь  
+puma - пума (кугуар)  
 puntonumbe - оценка  
 pura - заполнять  
 purfityamiste - веган  
 puri - полный  
 purshipa - мариновать  
-putavoranje - грейпфрут  
+putau oranje - грейпфрут  
 ####R - R  
 rai - мнение  
 rangarke - радуга  
@@ -1118,8 +1127,8 @@ Slave - славянский
 sofa* - софа (диван, канапе)  
 sofita - мудрость  
 soi - соя  
-soimilke - соевое молоко  
-soisaus - соевый соус  
+soi milke - соевое молоко  
+soi sos - соевый соус  
 soka - искать  
 sol - солнце  
 solchate - зонтик от солнца  
@@ -1315,6 +1324,7 @@ zon - пояс (зона)
 zong - кол  
 zongominte - мята колоси́стая  
 zou - животное  
+zou kata - басня  
 zou logi - зоология  
 zou logi di - зоологический  
 zou parke - зоопарк  

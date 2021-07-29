@@ -1,22 +1,19 @@
-# pandunia-espani
+# pandunia-espanya
 ####A - A  
 a - pero  
-abete - abeto  
+abies - abeto  
 acente - acento  
 aces - acceso  
 achi - estornudar (achís)  
 acinium - actinio  
-adali - justo  
-adalia - justicia  
-ade - costumbre (hábito)  
+ada - costumbre (hábito)  
 adi - ordinario (habitual)  
+adil - justo  
+adilta - justicia  
 adres - dirección  
-adresharfe - arroba (@)  
-afgani - afgano  
-Afgania - Afganistán  
-Afrike - África  
-Afriki - africano  
-aga - si (suponer)  
+adres harfi - arroba (@)  
+Afgan - Afganistán  
+Afrika - África  
 agra - cultivar  
 agrer - granjero (agricultor)  
 agres - ataque  
@@ -28,7 +25,9 @@ agristani - rural (rústico)
 agrobiologi - agrobiología  
 agronomia - agronomía  
 aha - entender (comprender)  
-ai - ay!  
+ai - amor  
+ai ja - amante (enamorado)  
+ai jen - amado (cariño)  
 ainstainium - einsteinium  
 air - aire  
 airbaria - presión atmosférica  
@@ -64,7 +63,7 @@ alkalomelon - melón amargo
 alkaloranje - naranjo amargo  
 alkol - alcohol  
 alkoli - alcohólico  
-almare - armario  
+almari - armario  
 almas - diamante  
 alo - sino  
 alofon - alófono  
@@ -78,21 +77,17 @@ alosifi - diferente
 alumin - aluminio  
 aluminmate - alumbre  
 aluminokside - alúmina  
-am - amor  
-ama - amar  
-Amari - amhara  
+Amara - amhara  
 amater - amateur (aficionado)  
+amen - honesto (seguramente, amén)  
 ameno - seguramente (amén)  
-amer - amante (enamorado)  
 Amerike - América  
 ameriki - americano  
 Ameriki Samoa - Samoa Americana  
 amerikium - americio  
 ami - querido  
-amike - amado (cariño)  
 amir - orden (mando, comando)  
-amira - mandar (ordenar)  
-amirer - emir  
+amir ja - emir  
 amiria - emirato  
 amirlin - interfaz de línea de comandos  
 amper - amperio  
@@ -195,6 +190,7 @@ Atlanti Hai - océano Atlántico
 atlantokade - bacalao común  
 atlantosalmon - salmón del Atlántico  
 atom - átomo  
+au - ay!  
 auda - oír (escuchar)  
 aure - oro  
 Australia - Australia  
@@ -361,6 +357,8 @@ bizneser - empresario
 blabla - charlar (parlotear, chatear)  
 blablokan - sala de chat (tertuliadero)  
 bloge - blog  
+blu - azul  
+blu elfe - pitufo  
 bode - cuerpo  
 bodi - corporal (corpóreo)  
 boi - flotador (boya)  
@@ -437,6 +435,7 @@ cellogi - citología
 celsius darje - grado Celsius  
 centi - centi- (por ciento)  
 centimitre - centímetro  
+Ceres - Ceres (planeta enano)  
 cerium - cerio  
 cesium - cesio  
 ch - C  
@@ -455,11 +454,11 @@ chanbash - idioma artificial (lengua construida, conlang)
 chani - artificial (sintético)  
 chania - producción  
 chanse - oportunidad (chance)  
-chanta - cantar  
+chante - cantar  
 chante - canción  
-chantergrupe - coro  
+chante grupe - coro  
 chapa - imprimir  
-chapate - chapati (pan sin levadura)  
+chapati - chapati (pan sin levadura)  
 chape - grabado (sello, estampando)  
 chargon - cuadro  
 charme - encanto  
@@ -471,6 +470,7 @@ chau - césped (hierba)
 chavistan - pradera (pastizal)  
 chehia - República Checa  
 cheka - revisar (chequear)  
+chen zaman - pasado  
 chena - preceder (anteceder)  
 chenaga - presuponer  
 chendeno - ayer  
@@ -482,20 +482,19 @@ cheniki - viejo (antiguo)
 cheno - más temprano (antes, haber, en el pasado)  
 chenvida - prever (esperar, pensar)  
 chenyangi - clásico  
-chenzam - pasado  
-cheres - Ceres (planeta enano)  
-cherize - cereza  
-chernagora - Montenegro  
+cheri - cereza  
+Chernagora - Montenegro  
 Chile - Chile  
 chili - chile  
-chimpanze - chimpancé  
+chimpanzi - chimpancé  
 chin - parente (madre o padre)  
-chinbrusben - primo  
-chinchile - chinchilla  
-chinga - pedir (invitar; por favor)  
-chinga laya - invitar  
-chinmai - abuela  
-chinpai - abuelo  
+chin brus ben - primo  
+chin ma - abuela  
+chin pa - abuelo  
+chinchila - chinchilla  
+ching - pedir (invitar; por favor)  
+ching lai - invitar  
+chini - porcelana  
 chipia - Albania  
 chir - rasgar (romper)  
 chira - rasgar (romper)  
@@ -565,9 +564,9 @@ datobanke - banco de datos (base de datos)
 datofenkate - análisis de datos  
 datotable - tabla  
 dau - camino (calle)  
-dauban - señal de tránsito  
-daviste - taoísta  
-davistia - taoísmo  
+dau ban - señal de tránsito  
+dau din - taoísmo  
+dau din ja - taoísta  
 dayanjiler - embajador  
 dayanjilkan - embajada  
 dayi - grande  
@@ -582,10 +581,6 @@ defa - defender
 defban - escudo  
 defer - defensor  
 defkaske - armadura  
-defta - registrar (recordar, anotar)  
-defte - registro (archivo, anotación)  
-deftia - registro (cuenta)  
-deftobuke - diario  
 deke - moralidad (ética)  
 deki - moral (ético)  
 dekolojia - ética (filosofía moral)  
@@ -605,17 +600,17 @@ des me lun - octubre
 des un me lun - nobiembre  
 desen - dibujo (diseño)  
 desha - país (nación, estado, terra)  
-deshajan - ciudadano  
+desha jan - ciudadano  
 detal - detalle  
 deu - dios  
 deu din - teísmo  
 deu din ja - teísta  
+deu kata - mito (cuento divino)  
 deu krati - teocracia  
 deu li - divino  
 deu logi - teología  
-deu saga - mito (cuento divino)  
+deu nagra harfi - devanágari  
 deu sofi - teosofía  
-deunagri harfe - devanágari  
 di - de (posposición de posesión)  
 dika - apuntar  
 dike - objetivo  
@@ -735,6 +730,7 @@ eletrolin - cable
 eletron - electrón  
 eletroposte (e-poste) - email (correo electrónico)  
 eletrorade - relámpago  
+elfe - elfo  
 em - elemento (unidad fundamental)  
 emoje - emoticón (emoyi)  
 emos - afecto (emoción)  
@@ -964,6 +960,7 @@ fute bol - fútbol
 fute marke - pisada (huella)  
 futoban - andamiaje  
 ####G - G  
+ga - si (suponer)  
 Gabon - Gabón  
 gabur - tumba (sepultura, enterrar)  
 gabur istan - cementerio  
@@ -1029,34 +1026,34 @@ gaze - gasa
 gazel - gacela  
 gazete - revista (periódico, gaceta)  
 gazeter - periodista  
+gei - gay (homosexual)  
 gem - juego  
 gema - jugar un juego  
 gemer - jugador  
 gencha - examinar (inspeccionar)  
+geo - tierra  
+Geo - Tierra  
+geo dou - maní  
+geo forme - terreno  
+geo grafi - geografía  
+geo gun - ejército  
+geo kaske plate - placa tectónica  
+geo logi - geología  
+geo metri - geometría  
+geo niche di - subterráneo  
+geo niche prizon - mazmorra  
+geo politika - geopolítica  
+geo sismo - terremoto  
+geo termo - geotérmico  
+geo tika - terreno (solar)  
 Germania - Germania  
 germanium - germanio  
 Gernezi - Guernesey  
 geta - conseguir (obtener, recibir)  
 geter - engendrador  
-geye - tierra  
-geyi - gay (homosexual)  
-Geyia - Tierra  
-geyodou - maní  
-geyoforme - terreno  
-geyografia - geografía  
-geyogunia - ejército  
-geyokaski plate - placa tectónica  
-geyolojia - geología  
 Geyomedi Hai - Mediterráneo  
-geyometria - geometría  
-geyonichi - subterráneo  
-geyonichi prizon - mazmorra  
 geyoparlin - ecuador  
 Geyoparlini Ginia - Guinea Ecuatorial  
-geyopolitike - geopolítica  
-geyosisme - terremoto  
-geyotermi - geotérmico  
-geyotike - terreno (solar)  
 gi - máquina (dispositivo, aparato)  
 giau - enseñar (instruir, doctrina, -ismo)  
 giauja - docente (enseñante, profesor, maestro)  
@@ -1083,12 +1080,12 @@ gorile - gorila
 goro - cerdo (puerco)  
 goro manse - carne de cerdo  
 goton - algodón  
-graf - imagen (gráfico, dibujo)  
-grafa - dibujar (trazar)  
-grafbuke - libro de cuentos ilustrado  
-grafer - ilustrador  
-grafi - gráfico (pictórico, ilustrado)  
-grafsage - historieta (caricaturas)  
+grafi - imagen (gráfico, dibujo)  
+grafi - dibujar (trazar)  
+grafi buke - libro de cuentos ilustrado  
+grafi ja - ilustrador  
+grafi kata - historieta (caricaturas)  
+grafi li - gráfico (pictórico, ilustrado)  
 gram - gramo (g)  
 granite - granito  
 grave - grava  
@@ -1097,9 +1094,9 @@ Grenadin nesia - Granadinas
 grimas - mueca  
 grom - truenos (estruendo)  
 gromtafun - tormenta  
-grosi - grueso  
-grosi harfe - letra negrita  
-grosia - grosor  
+gros - grueso  
+gros harfi - letra negrita  
+grosta - grosor  
 grupe - grupo  
 Guadelupe - Guadalupe  
 Guam - Guam  
@@ -1141,7 +1138,7 @@ haihiyar - holoturia (pepino de mar)
 haijel - medusa  
 haiporte - puerto marítimo  
 haitate - costa  
-hake - derecho  
+haki - derecho  
 hal - estado (condición)  
 halala - permitir (dejar)  
 halali - permitido (admisible)  
@@ -1149,7 +1146,7 @@ halaloliste - lista blanca
 halela - elogiar (alabar, exaltar)  
 halif - califa  
 halifia - califato  
-halou - aló  
+halo - aló  
 hamake - hamaca  
 hamar - martillo (mazo)  
 hami - importante  
@@ -1168,8 +1165,8 @@ harabu - bloquearse (colgarse, fallar)
 harama - prohibir  
 harami - prohibido (tabú)  
 haramliste - lista negra  
-harfe - letra (carácter)  
-harfia - alfabeto  
+harfi - letra (carácter)  
+harfi harfi - alfabeto  
 harmoni - armonioso  
 harmonia - armonía  
 harnes - arnés (arreos, jaeces)  
@@ -1204,6 +1201,8 @@ hema - considerar (reflexionar, pensar en)
 hemah - carpa (toldo)  
 hen - odio  
 hena - odiar  
+hero - héroe  
+hero li - valiente (heroico)  
 herze - hercio (Hz)  
 Hesia - Hesse (Hessia)  
 hesium - hasio  
@@ -1223,6 +1222,7 @@ hisaba - calcular
 hisabia - aritmética (cálculos)  
 hisabolojer - matemático  
 hisabolojia - matemática  
+hisabu loge - cuenta  
 histori - historia (pasado)  
 histori ja - historiador  
 historia - historia (estudio de sucesos del pasado)  
@@ -1258,10 +1258,10 @@ hui - ceniza
 huidarte - podsol  
 huirang - gris  
 huke - gancho (anzuelo, alcayata)  
-hukokrus - esvástica (cruz gamada)  
-hulei - zorro  
+huke krus - esvástica (cruz gamada)  
+huli - zorro  
 humus - garbanzo  
-humusosaus - humus  
+humus sos - humus  
 hura - liberar (soltar)  
 huri - libre (horro)  
 huria - libertad  
@@ -1451,7 +1451,7 @@ Kalalia - Groenlandia
 kalam - bolígrafo  
 kalende - calendario  
 kali - vacío (desocupado)  
-kali harfe - espacio (texto)  
+kali harfi - espacio (texto)  
 kalifornium - californio  
 kalium - potasio  
 kalkulia - cálculo  
@@ -1532,12 +1532,15 @@ kaske - carapacho (cáscara, concha, corteza, capa)
 kastan - castaña  
 kastor - castor  
 kata - cortar  
+kata - relatar (narrar)  
+kata - historia (cuento, relato, leyenda)  
 Katalunia - Cataluña  
 katane - espada  
 Katar - Catar (Qatar)  
 katoglutoban - portapapeles  
 katus - cacto  
 Kaukasia - Cáucaso  
+kauri - cauri  
 kava - cavar (excavar)  
 kavayi - lindo (precioso)  
 kave - fosa  
@@ -1855,7 +1858,9 @@ livermorium - livermorio
 lobake - rábano  
 loga - decir (hablar)  
 logaslia - etimología  
+loge - registro (archivo, anotación)  
 loge - habla (palabras)  
+loge buke - libro de registro  
 logem - palabra (vocablo)  
 logi - léxico  
 logi - ciencia (estudiar, investigar, -ología)  
@@ -1971,7 +1976,7 @@ Marshal nesia - Islas Marshall
 martinluteristi - luterano  
 martinluteristia - luteranismo  
 mas - masa (trozo, pedazo)  
-masaja - amasar (masajear)  
+masaje - amasar (masajear)  
 masaje - masaje  
 masale - especia  
 masali tike - tikka masala  
@@ -2282,7 +2287,6 @@ Nijer - Níger
 Nikaragua - Nicaragua  
 nikel - níquel  
 nilchentaur - aciano (azulejo)  
-nili - azul  
 nilon - nailon (nilón)  
 ninde - insulto (ofensa, afrenta)  
 nindi - grosero (maleducado)  
@@ -2498,6 +2502,8 @@ penta me mes - mayo
 pente - pintura  
 penter - pintor  
 per - pluma  
+peri - hada  
+peri kata - cuento de hadas  
 perkardon - cardo burral  
 Peru - Perú  
 pese - dinero (plata)  
@@ -2641,14 +2647,13 @@ protacinium - proactinio
 pudi - podrido (cariado)  
 puding - pudín  
 pudu - pudrirse (cariarse, descomponerse)  
-puja - adorar (venerar)  
-puje - adoración (veneración, culto)  
-pujokan - templo  
-pujomeze - altar  
-pujorite - rito (ceremonia)  
+puja - adoración (veneración, culto)  
+puja kan - templo  
+puja meza - altar  
+puja rite - rito (ceremonia)  
 pul - puente  
 pulmon - pulmón  
-pume - puma  
+puma - puma  
 punte - punto  
 puntoban - marcador  
 puntonumbe - puntuación (resultado)  
@@ -2663,7 +2668,7 @@ puri - lleno (completo)
 purshipa - remojar (marinar, encurtir, macerar)  
 pusha - empujar (presionar)  
 putau - uva  
-putavoranje - pomelo (toronja)  
+putau oranje - pomelo (toronja)  
 Putong Han - chino mandarín  
 putongi - general (common)  
 ####R - R  
@@ -2823,8 +2828,6 @@ safaristia - turismo
 safer - limpiador  
 safi - limpio  
 safran - azafrán  
-saga - relatar (narrar)  
-sage - historia (cuento, relato, leyenda)  
 saha - corregir  
 sahi - correcto (justo)  
 Sahravia - República Árabe Saharaui Democrática  
@@ -2983,7 +2986,7 @@ shibaya - perder (fallar)
 shibaya tena - perder  
 shibayer - perdedor  
 shifu - maestro (profesor)  
-shiki - elegante (chic)  
+shike - elegante (chic)  
 shim - corazón  
 shin - creencia (fe)  
 shina - creer  
@@ -3077,8 +3080,8 @@ sofa* - sofá
 sofi - sabio  
 sofita - sabiduría  
 soi - soja  
-soimilke - leche de soja  
-soisaus - salsa de soja  
+soi milke - leche de soja  
+soi sos - salsa de soja  
 soka - buscar  
 sol - sol  
 solchate - parasol  
@@ -3465,8 +3468,6 @@ ving - ala
 vinil - vinilo  
 vinkan - bodega  
 vinsuan - vinagre  
-vir - héroe  
-viri - valiente (heroico)  
 virje - virgen  
 virji - virginal  
 Virjin nesia - Islas Vírgenes  
@@ -3594,6 +3595,7 @@ zon - cinturón (zona)
 zong - poste (estaca, palo)  
 zongominte - hierbabuena  
 zou - animal (bestia)  
+zou kata - fábula  
 zou logi - zoología  
 zou logi di - zoológico  
 zou parke - zoo  

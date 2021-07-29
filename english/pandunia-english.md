@@ -1,24 +1,19 @@
-# pandunia-engli
+# pandunia-english
 ####A - A  
 a - but (whereas)  
-abete - fir tree  
+abies - fir tree  
 acente - accent (stress)  
 aces - access (admission, accessibility)  
 achi - sneeze (achoo)  
 acinium - actinium  
-adali - just (fair, righteous)  
-adalia - justice  
-ade - habit (custom)  
+ada - habit (custom)  
 adi - ordinary (customary, habitual, normal)  
+adil - just (fair, righteous)  
+adilta - justice  
 adres - address  
-adresharfe - @ symbol  
-afgani - Afghan  
-Afgania - Afghanistan  
-Afrike - Africa  
-Afriki - African  
-afrikofiler - afrophile  
-afrikofilia - Afrophilia  
-aga - if (suppose, assume)  
+adres harfi - @ symbol  
+Afgan - Afghanistan  
+Afrika - Africa  
 agra - cultivate (farm)  
 agre - agriculture  
 agrer - farmer  
@@ -33,7 +28,9 @@ agrobiologi - agrobiology
 agrochun - rural village  
 agronomia - agronomy  
 aha - understand (realize)  
-ai - ouch (ow, alas)  
+ai - love (liking, affection)  
+ai ja - lover  
+ai jen - darling (honey)  
 ainstainium - einsteinium  
 air - air  
 airbaria - atmospheric pressure  
@@ -70,7 +67,7 @@ alkalomelon - bitter melon
 alkaloranje - bitter orange  
 alkol - alcohol  
 alkoli - alcoholic  
-almare - cupboard (closet, cabinet, wardrobe)  
+almari - cupboard (closet, cabinet, wardrobe)  
 almas - diamond  
 alo - otherwise (else)  
 alofon - allophone  
@@ -84,24 +81,20 @@ alosifi - different
 alumin - aluminium  
 aluminmate - alum  
 aluminokside - alumina (aluminum oxide)  
-am - love (liking, affection)  
-ama - love (hold dear)  
-Amari - Amhara (an Ethiopian ethnic group and language)  
+Amara - Amhara (an Ethiopian ethnic group and language)  
 amater - amateur  
+amen - honest (trustworthy, true; amen)  
 amena - trust (have faith)  
 ameni - trusted  
 ameno - surely (verily, amen)  
-amer - lover  
 Amerike - America (continent)  
 ameriki - American  
 Ameriki Samoa - American Samoa  
 amerikium - americium  
 ami - dear (beloved)  
-amike - darling (honey)  
 amir - order (command)  
-amira - order (issue a command)  
-amirer - emir  
-amirhake - authority (power to give orders)  
+amir haki - authority (power to give orders)  
+amir ja - emir  
 amiria - emirate  
 amirlin - command line (console, terminal)  
 amper - ampere (amp)  
@@ -223,6 +216,7 @@ Atlanti Hai - Atlantic Ocean
 atlantokade - Atlantic cod  
 atlantosalmon - Atlantic salmon  
 atom - atom  
+au - ouch (ow, alas)  
 auda - hear (listen)  
 aure - gold  
 Australia - Australia  
@@ -397,6 +391,9 @@ bizneser - businessperson (businessman)
 blabla - chat (babble)  
 blablokan - chat room  
 bloge - blog (web log)  
+blu - blue  
+blu ceram sing - azure bluet  
+blu elfe - smurf  
 bode - body  
 bodi - bodily (corporal)  
 boi - float (buoy, bobber)  
@@ -477,6 +474,7 @@ cellogi - cytology
 celsius darje - degree Celsius  
 centi - centi- (per cent)  
 centimitre - centimeter (cm)  
+Ceres - Ceres (dwarf planet)  
 cerium - cerium  
 cesium - caesium  
 ch - C  
@@ -498,23 +496,24 @@ chaniva - fertilize
 chaniver - fertilizer  
 chanivi - productive (fertile)  
 chanse - opportunity (chance)  
-chanta - sing  
+chante - sing  
 chante - song  
-chantergrupe - choir (chorus)  
+chante grupe - choir (chorus)  
 chapa - press (imprint)  
-chapate - flatbread (chapati, roti)  
+chapati - flatbread (chapati, roti)  
 chape - print (stamp)  
-chargalope - gallop  
 chargon - square (tetragon)  
 charme - charm (attraction)  
 chate - roof  
 chatre - four (4)  
+chatre di galope - gallop  
 chatre me den - Thursday  
 chatre me mes - April  
 chau - grass  
 chavistan - grassland (prairie)  
 chehia - Czech Republic  
 cheka - check (to examine)  
+chen zaman - past times  
 chena - predate (be before)  
 chenaga - assume (presuppose)  
 chendeno - yesterday  
@@ -527,25 +526,24 @@ cheno - earlier (before, in the past)
 chenvida - expect (anticipate, predict, forsee)  
 chenvidi - expected  
 chenyangi - classic (classical)  
-chenzam - past times  
-cheres - Ceres (dwarf planet)  
-cherize - cherry  
-chernagora - Montenegro  
+cheri - cherry  
+Chernagora - Montenegro  
 Chile - Chile  
 chili - pepper (capsicum)  
 chili fun - paprika  
-chimpanze - chimpanzee  
+chimpanzi - chimpanzee  
 chin - parent (mother or father)  
-chinbrusben - cousin  
-chinchile - chinchilla  
-chinchin - grandparent  
+chin brus ben - cousin  
+chin chin - grandparent  
+chin gam - step-parent  
+chin gam ben - step-sibling  
+chin ma - grandmother  
+chin pa - grandfather  
+chinchila - chinchilla  
 ching - request (petition)  
-chinga - ask (request, beg, plead; please)  
-chinga laya - invite  
-chingam - step-parent  
-chingamben - step-sibling  
-chinmai - grandmother  
-chinpai - grandfather  
+ching - ask (request, beg, plead; please)  
+ching lai - invite  
+chini - porcelain (chinaware)  
 chipia - Albania  
 chir - tear (rip, edge)  
 chira - tear (rip, split)  
@@ -624,9 +622,9 @@ datobanke - database (databank)
 datofenkate - data analysis  
 datotable - data table (matrix)  
 dau - way (road)  
-dauban - road sign  
-daviste - Taoist  
-davistia - Taoism (Daoism)  
+dau ban - road sign  
+dau din - Taoism (Daoism)  
+dau din ja - Taoist  
 dayanjiler - ambassador  
 dayanjilkan - embassy  
 dayi - big (great)  
@@ -642,10 +640,6 @@ defa - defend
 defban - shield  
 defer - defender  
 defkaske - armor (shielding)  
-defta - register (record, log)  
-defte - register (record, log)  
-deftia - registry (account)  
-deftobuke - logbook  
 Deimos - Deimos  
 deke - morality (ethics)  
 deki - moral  
@@ -663,22 +657,22 @@ den yam - lunch
 deng - wait  
 des - ten (10)  
 des du me mes - December  
+des kilo - ten thousand  
 des me lun - October  
 des un me lun - November  
 desen - drawing (design)  
 desha - country (land, state)  
-deshajan - citizen  
-deskile - ten thousand  
+desha jan - citizen  
 detal - detail  
 deu - god (deity)  
 deu din - theism  
 deu din ja - theist  
+deu kata - myth (divine story)  
 deu krati - theocracy  
 deu li - divine (godly)  
 deu logi - theology  
-deu saga - myth (divine story)  
+deu nagra harfi - Devanagari alphabet  
 deu sofi - theosophy  
-deunagri harfe - Devanagari alphabet  
 di - 's (attributive postposition)  
 dika - aim (point)  
 dike - target (aim, objective)  
@@ -810,6 +804,7 @@ eletrolin - cable (wire, line)
 eletron - electron  
 eletroposte (e-poste) - e-mail  
 eletrorade - lightning bolt  
+elfe - elf  
 em - element (the simplest unit)  
 emoje - emoji (smiley, emoticon)  
 emos - emotion (feeling)  
@@ -1069,6 +1064,7 @@ fute marke - footprint
 fute shake - leg  
 futoban - scaffolding (gangplank)  
 ####G - G  
+ga - if (suppose, assume)  
 Gabon - Gabon  
 gabur - grave (tomb, bury)  
 gabur istan - graveyard (cemetery, burial ground)  
@@ -1142,35 +1138,36 @@ gaze - gauze
 gazel - gazelle  
 gazete - magazine (journal, gazette)  
 gazeter - journalist  
+gei - gay (homosexual)  
 gem - game  
 gema - play a game  
 gemer - player (gamer)  
 gencha - examine (inspect, check)  
+geo - earth (ground)  
+Geo - Earth (Terra)  
+geo dou - peanut (groundnut)  
+geo elfe - gnome  
+geo forme - terrain  
+geo grafi - geography  
+geo gun - ground force (army)  
+geo kaske krake - fault line  
+geo kaske plate - tectonic plate  
+geo logi - geology  
+geo metri - geometry  
+geo niche di - underground (subterrainean)  
+geo niche prizon - dungeon (underground prison)  
+geo politika - geopolitics  
+geo sismo - earthquake  
+geo termo - geothermal  
+geo tika - lot (plot of land)  
 Germania - Germania  
 germanium - germanium  
 Gernezi - Guernsey  
 geta - get (receive, obtain, take)  
 geter - getter (receiver, recipient)  
-geye - earth (ground)  
-geyi - gay (homosexual)  
-Geyia - Earth (Terra)  
-geyodou - peanut (groundnut)  
-geyoforme - terrain  
-geyografia - geography  
-geyogunia - ground force (army)  
-geyokaski krake - fault line  
-geyokaski plate - tectonic plate  
-geyolojia - geology  
 Geyomedi Hai - Mediterranean  
-geyometria - geometry  
-geyonichi - underground (subterrainean)  
-geyonichi prizon - dungeon (underground prison)  
 geyoparlin - equator  
 Geyoparlini Ginia - Equatorial Guinea  
-geyopolitike - geopolitics  
-geyosisme - earthquake  
-geyotermi - geothermal  
-geyotike - lot (plot of land)  
 gi - machine (device, aparatus)  
 giau - teach (educate, instruct, doctrine, -ism)  
 giauja - teacher (instructor)  
@@ -1199,12 +1196,12 @@ gorile - gorilla
 goro - pig  
 goro manse - pork  
 goton - cotton  
-graf - drawing (graph, image)  
-grafa - draw  
-grafbuke - picture book  
-grafer - illustrator (graphic artist)  
-grafi - graphic (pictorial)  
-grafsage - comic (cartoon)  
+grafi - drawing (graph, image)  
+grafi - draw  
+grafi buke - picture book  
+grafi ja - illustrator (graphic artist)  
+grafi kata - comic (cartoon)  
+grafi li - graphic (pictorial)  
 gram - gram (g)  
 granite - granite  
 grave - gravel  
@@ -1213,9 +1210,9 @@ Grenadin nesia - the Grenadines
 grimas - grimace  
 grom - thunder (roaring)  
 gromtafun - thunderstorm  
-grosi - thick  
-grosi harfe - bold letter  
-grosia - thickness  
+gros - thick  
+gros harfi - bold letter  
+grosta - thickness  
 grupe - group  
 Guadelupe - Guadeloupe  
 Guam - Guam  
@@ -1261,7 +1258,7 @@ haijel - jellyfish (seajelly)
 hainili - aqua (teal)  
 haiporte - harbor (seaport)  
 haitate - coast (beach)  
-hake - right (entitlement)  
+haki - right (entitlement)  
 hal - state (condition, status, situation)  
 halala - allow (permit)  
 halali - permissible (allowed, halal)  
@@ -1269,7 +1266,7 @@ halaloliste - whitelist
 halela - praise (commend, exalt)  
 halif - caliph  
 halifia - caliphate  
-halou - hello (hi)  
+halo - hello (hi)  
 hamake - hammock  
 hamar - hammer  
 hami - important  
@@ -1291,8 +1288,8 @@ harabu - crash (shut down, terminate)
 harama - forbid (ban, disallow)  
 harami - forbidden (illicit, haram, taboo)  
 haramliste - blacklist  
-harfe - letter (character, written symbol)  
-harfia - alphabet  
+harfi - letter (character, written symbol)  
+harfi harfi - alphabet  
 harmoni - harmonious  
 harmonia - harmony  
 harnes - harness  
@@ -1330,6 +1327,9 @@ hema - ponder (think, contemplate, consider, regard)
 hemah - tent  
 hen - hatred (hate, resentment, odium)  
 hena - hate (despise)  
+hero - hero  
+hero kata - saga (heroic tale)  
+hero li - heroic  
 herze - hertz (Hz)  
 Hesia - Hesse  
 hesium - hassium  
@@ -1352,6 +1352,7 @@ hisabia - arithmetics
 hisabolojer - mathematician  
 hisabolojia - mathematics (math)  
 hisabu - calculation  
+hisabu loge - account  
 histori - history (annals)  
 histori ja - historian  
 historia - history (study of history)  
@@ -1390,10 +1391,10 @@ hui - ash (ashes)
 huidarte - podzol  
 huirang - grey (gray, ashy)  
 huke - hook  
-hukokrus - swastika (hooked cross)  
-hulei - fox  
+huke krus - swastika (hooked cross)  
+huli - fox  
 humus - chickpea  
-humusosaus - hummus  
+humus sos - hummus  
 hura - free (liberate)  
 huri - free (unchained)  
 huria - freedom (liberty)  
@@ -1605,7 +1606,7 @@ Kalalia - Greenland
 kalam - pen (writing tool)  
 kalende - calendar  
 kali - empty (void)  
-kali harfe - space (character)  
+kali harfi - space (character)  
 kalifornium - californium  
 Kalisto - Callisto  
 kalium - potassium  
@@ -1696,12 +1697,15 @@ kaske - shell (crust, carapace)
 kastan - chestnut  
 kastor - beaver  
 kata - cut  
+kata - tell (narrate)  
+kata - tale (story, legend, saga)  
 Katalunia - Catalonia  
 katane - sword  
 Katar - Qatar  
 katoglutoban - clipboard (paste buffer)  
 katus - cactus  
 Kaukasia - Caucasia  
+kauri - cowrie  
 kava - dig (excavate)  
 kavayi - cute (sweet)  
 kave - pit (excavation, cavity)  
@@ -2046,7 +2050,9 @@ livermorium - livermorium
 lobake - radish  
 loga - say (speak, talk)  
 logaslia - etymology  
+loge - register (record, log)  
 loge - speech (talk, words)  
+loge buke - logbook  
 logem - word (lexeme)  
 logi - spoken (lexical)  
 logi - study (research, science, -ology)  
@@ -2171,7 +2177,7 @@ Marshal nesia - Marshall Islands
 martinluteristi - Lutheran  
 martinluteristia - Lutheranism  
 mas - mass (quantity of matter)  
-masaja - knead (massage)  
+masaje - knead (massage)  
 masaje - massage  
 masale - spice (seasoning)  
 masali tike - tikka masala  
@@ -2513,9 +2519,7 @@ Nijer - Niger
 Nikaragua - Nicaragua  
 nikel - nickel  
 nilchentaur - cornflower  
-nili - blue  
 nilon - nylon  
-nilseramshing - azure bluet  
 ninde - insult (offence)  
 nindi - rude (offensive)  
 niobium - niobium  
@@ -2750,6 +2754,8 @@ penta me mes - May
 pente - paint  
 penter - painter  
 per - feather  
+peri - fairy (faery)  
+peri kata - fairy tale  
 perkardon - spear thistle  
 Peru - Peru  
 pese - money  
@@ -2901,14 +2907,13 @@ protacinium - protactinium
 pudi - rotten  
 puding - pudding  
 pudu - decay (rot, deteriorate)  
-puja - worship (revere)  
-puje - worship (reveration)  
-pujokan - temple (place of worship)  
-pujomeze - altar  
-pujorite - ritual (ceremony, religious custom)  
+puja - worship (reveration)  
+puja kan - temple (place of worship)  
+puja meza - altar  
+puja rite - ritual (ceremony, religious custom)  
 pul - bridge  
 pulmon - lung  
-pume - cougar (puma, mountain lion)  
+puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 puntoban - scoreboard  
 puntonumbe - score (grade)  
@@ -2925,7 +2930,7 @@ purshipa - soak (steep, marinate)
 pusha - push  
 pusher - piston  
 putau - grape  
-putavoranje - grapefruit  
+putau oranje - grapefruit  
 Putong Han - Mandarin Chinese (Putonghua)  
 putongi - common (general)  
 ####R - R  
@@ -3096,8 +3101,6 @@ safaristia - tourism
 safer - cleaner  
 safi - clean (pure)  
 safran - saffron  
-saga - tell (narrate)  
-sage - tale (story, legend, saga)  
 saha - correct (make right)  
 sahi - right (correct, accurate)  
 Sahravia - Sahrawi Arab Democratic Republic  
@@ -3267,7 +3270,7 @@ shibaya - lose (fail, miss, be defeated)
 shibaya tena - lose (shed, miss, misplace)  
 shibayer - loser  
 shifu - master (sensei, sifu)  
-shiki - elegant (chic)  
+shike - elegant (chic)  
 shim - heart  
 shin - belief (faith, creed)  
 shina - believe  
@@ -3366,8 +3369,8 @@ sofa* - sofa (couch)
 sofi - wise  
 sofita - wisdom  
 soi - soy bean  
-soimilke - soy milk  
-soisaus - soy sauce  
+soi milke - soy milk  
+soi sos - soy sauce  
 soka - search (seek, look for)  
 sol - sun  
 solchate - parasol  
@@ -3785,8 +3788,6 @@ ving - wing
 vinil - vinyl  
 vinkan - winery  
 vinsuan - vinegar  
-vir - hero  
-viri - heroic  
 virje - virgin  
 virji - pristine (virginal)  
 Virjin nesia - Virgin Islands, US  
@@ -3933,6 +3934,7 @@ zou - animal
 zou agria - animal husbandry  
 zou filia - zoophily  
 zou geo grafi - zoogeography  
+zou kata - fable  
 zou logi - zoology  
 zou logi di - zoological  
 zou parke - zoo (zoological garden)  
