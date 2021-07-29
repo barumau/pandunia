@@ -7,12 +7,11 @@ abobrinha - lilkaboge
 abóbora (jerimun) - kaboge  
 acanto-bastardo - pinkardon  
 acento - acente  
-acesso - aces  
+acesso - acesa  
 aconselhar - sela  
 acordado - jagi  
 acordo (tratado, contrato) - trete  
 acordo - samrayia  
-actuel (courant) - zai zam di  
 adesivo - glutograf  
 adjetivo - sifloge  
 administrador - politer  
@@ -22,7 +21,7 @@ aeroporto - airporte
 aeróbico - airbivi  
 Afeganistão - Afgan  
 agacharse - insida  
-agent (faiseur) - ateja  
+agente - ateja  
 agressor - agreser  
 agrobiologia - agrobiologi  
 agronomia - agronomia  
@@ -224,7 +223,7 @@ cerâmica - poteria
 cerâmico - serame  
 cevada - jau  
 Champagne - shampan  
-champaña - shampan vin  
+champanhe - shampan vin  
 chance - chanse  
 charme - charme  
 chavena (tigela de chá) - chaikupe  
@@ -280,6 +279,7 @@ corno - korne
 coro - chante grupe  
 corpo - bode  
 corredor - korer  
+corrente (atual) - zai zam di  
 correr - kora  
 correto (justo) - sahi  
 cosmo - kosmia  
@@ -603,7 +603,7 @@ lama - lama*
 lançador de foguetes - roketolancher  
 laranja - oranje  
 lasanha - lazanye  
-latéral - lati  
+lateral - lati  
 leite - milke  
 leite de soja - soi milke  
 lembrar-se (recordar-se) - mema  
@@ -1189,7 +1189,7 @@ zoologia - zou logi
 zoológico - zou logi di  
 zoológico - zou parke  
 zumbi - zombi  
-ágil - ajili  
+ágil - agile  
 água - sui  
 álcool - alkol  
 área de acampamento - kampistan  

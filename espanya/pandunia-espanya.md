@@ -3,7 +3,7 @@
 a - pero  
 abies - abeto  
 acente - acento  
-aces - acceso  
+acesa - acceso  
 achi - estornudar (achís)  
 acinium - actinio  
 ada - costumbre (hábito)  
@@ -14,6 +14,7 @@ adres - dirección
 adres harfi - arroba (@)  
 Afgan - Afganistán  
 Afrika - África  
+agile - ágil  
 agra - cultivar  
 agrer - granjero (agricultor)  
 agres - ataque  
@@ -46,7 +47,6 @@ ajaba - asombrar
 ajabe - maravilla  
 ajabi - maravilloso (asombroso)  
 ajabia - asombro  
-ajili - ágil  
 akare - garrapata (ácaro)  
 akse - eje  
 aksesabli - accesible  
@@ -2952,7 +2952,7 @@ sham den - tarde (después de mediodía)
 sham yam - cena  
 shaman - chamán (brujo, hechicero)  
 shampan - Champaña  
-shampan vin - champagne  
+shampan vin - champaña  
 shan - montaña (colina)  
 shanpike - cima (pico, cumbre, vértice)  
 shante - descanso (alivio)  

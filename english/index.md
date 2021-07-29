@@ -50,7 +50,6 @@ Version 2.0 includes simpler grammar, more international word forms, and many ne
 - [Pandunia - a new world language](dunia_baxe.md)
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
 - [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
-- [Esperanto vs. Pandunia](esperanti_i_pandunia.md)
 
 ## Join Others
 

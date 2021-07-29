@@ -13,7 +13,7 @@ Abyssinia - Habashia
 Abyssinian - habashi  
 accent (stress) - acente  
 accept (say okay) - okeya  
-access (admission, accessibility) - aces  
+access (admission, accessibility) - acesa  
 accessibility (ease of access) - fasilia da akses  
 accessible (within reach) - aksesabli  
 accommodate - domana  
@@ -57,7 +57,7 @@ age - sen
 aged - seni  
 aggressive - agresivi  
 aggressor - agreser  
-agile - ajili  
+agile - agile  
 agoraphobia - medenfobia  
 agree (concur) - samraya  
 agree (make an agreement) - treta  
@@ -1895,6 +1895,7 @@ lasagna - lazanye
 last (final) - finodi  
 last (take time; during) - dura  
 later (after, will, in the future) - poso  
+lateral (horizontal) - lati  
 Latin alphabet - latini harfia  
 latitude - veisirke  
 Latvia - Latvia  

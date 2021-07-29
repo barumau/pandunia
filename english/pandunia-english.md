@@ -3,7 +3,7 @@
 a - but (whereas)  
 abies - fir tree  
 acente - accent (stress)  
-aces - access (admission, accessibility)  
+acesa - access (admission, accessibility)  
 achi - sneeze (achoo)  
 acinium - actinium  
 ada - habit (custom)  
@@ -14,6 +14,7 @@ adres - address
 adres harfi - @ symbol  
 Afgan - Afghanistan  
 Afrika - Africa  
+agile - agile  
 agra - cultivate (farm)  
 agre - agriculture  
 agrer - farmer  
@@ -50,7 +51,6 @@ ajabe - marvel (wonder)
 ajabi - amazing (astonishing)  
 ajabia - awe (wonder)  
 ajabu - wonder (be amazed)  
-ajili - agile  
 akare - tick (mite)  
 akse - axis (axle)  
 aksesabli - accessible (within reach)  
@@ -1969,6 +1969,7 @@ lasti - elastic
 lasun - garlic  
 lata - be beside (accompany)  
 late - side (flank)  
+lati - lateral (horizontal)  
 latini harfia - Latin alphabet  
 latinkitaba - romanize  
 lato - sideways (laterally)  

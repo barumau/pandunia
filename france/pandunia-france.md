@@ -3,7 +3,7 @@
 a - mais (bien que)  
 abies - sapin  
 acente - accent  
-aces - accès  
+acesa - accès  
 achi - éternuer (atchoum)  
 acinium - actinium  
 ada - coutume  
@@ -14,6 +14,7 @@ adres - adresse
 adres harfi - arobase (@)  
 Afgan - Afghanistan  
 Afrika - Afrique  
+agile - agile  
 agra - cultiver  
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
@@ -42,7 +43,6 @@ aisu - geler (glacer)
 Aiti - Haïti  
 ajaba - éblouir (étonner, stupéfier, surprendre)  
 ajabe - merveille  
-ajili - agile  
 akare - acarien  
 akse - axe  
 aksesabli - accessible (atteignable, à portée)  
@@ -167,6 +167,7 @@ astronaver - astronaute
 astronomer - astronome  
 astronomia - astronomie  
 ate - acte  
+ateja - agent (faiseur)  
 Atina - Athènes  
 ation - action  
 ativa - activer (allumer, mettre en marche, déclencher)  
@@ -790,6 +791,7 @@ lane - malédiccion
 lasha - laisser  
 lasun - ail  
 late - côté  
+lati - latéral  
 Latvia - Lettonie  
 lavi - vieux (âgé, ancien)  
 laya - venir  
@@ -1209,7 +1211,7 @@ sete me den - dimanche
 shalke - échelle  
 sham - soir (soirée)  
 shampan - Champagne  
-shampan vin - Champagner  
+shampan vin - champagne  
 shanpike - cime (pic, sommet)  
 shante - repos  
 shanti - calme (tranquille)  
@@ -1436,6 +1438,7 @@ yongopetre - lave
 yongosaha - fondu  
 yongu - melt  
 ####Z - Z  
+zai zam di - actuel (courant)  
 zam - temps  
 Zardush - Zoroastre  
 Zardush din - zoroastrisme  

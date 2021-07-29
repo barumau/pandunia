@@ -13,6 +13,7 @@ adres - adres
 adres harfi - małpa (znak na  
 Afgan - Afganistan  
 Afrika - Afryka  
+agile - zwinny, sprawny  
 agra - uprawić, uprawiać  
 agrer - rolnik, farmer  
 agres - atak (agresja, napaść)  
@@ -40,7 +41,6 @@ ajabe - dziw (cudo)
 ajabi - zachwycający (zdumiewający, zadziwiający)  
 ajabia - zachwyt (zdumienie)  
 ajabu - zachwycić się (być zachwyconym)  
-ajili - zwinny, sprawny  
 akare - klescz (roztocze)  
 akse - oś  
 ala - zmienić (zmieniać)  

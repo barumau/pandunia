@@ -3,7 +3,7 @@
 a - mutta  
 abies - pihta (jalokuusi)  
 acente - painotus (aksentti)  
-aces - pääsy  
+acesa - pääsy  
 achi - aivastaa (atsii!)  
 acinium - aktinium  
 ada - tapa  
@@ -14,6 +14,7 @@ adres - osoite
 adres harfi - @-merkki  
 Afgan - Afganistan  
 Afrika - Afrikka  
+agile - ketterä  
 agra - viljellä  
 agre - viljely  
 agrer - maanviljelijä  
@@ -49,7 +50,6 @@ ajabe - ihme
 ajabi - ihmeellinen (ällistyttävä, merkillinen)  
 ajabia - hämmästys (ihmetys)  
 ajabu - ihmetellä (olla ihmeissään)  
-ajili - ketterä  
 akare - punkki  
 akse - akseli  
 aksesabli - ulottuvilla  

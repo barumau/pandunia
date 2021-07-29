@@ -1070,7 +1070,7 @@ kesäkuu - luku me mes
 ketju - silsil  
 ketjun lenkki - sil  
 ketsuppi - kechape  
-ketterä - ajili  
+ketterä - agile  
 kettu - huli  
 keuhko - pulmon  
 kevät - hua mosim  
@@ -2341,7 +2341,7 @@ päällikkö (pomo) - shefe
 pääministeri (suurvisiiri) - shefe minister  
 päärynä - leze  
 pääsiäinen - paske  
-pääsy - aces  
+pääsy - acesa  
 pöly (tomu) - fun  
 pölynimuri - fun chupa gi  
 pöytä - meze  

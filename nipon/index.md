@@ -34,13 +34,6 @@
 <!-- - [あなたの名前をパンドゥニアで](ren_da_nam.md) This list is not at all suitable for Japanese. It is necessary to make a list exclusively for Japanese. -->
 
 
-## 資料
-
-<!-- - [パンドゥニア - 新しい国際語](dunia_bax.md) -->
-<!-- - [他の出版物でのパンドゥニアに関する言及](makal_tema_pandunia.md) -->
-- [エスペラント VS パンドゥニア](esperanti_i_pandunia.md)
-<!-- - [雑記](note.md) -->
-
 ## 他の参加方法
 
 多くの人々がすでにパンドゥニアに興味を持って話しています。 パンドゥニアフォーラムはいくつかの場所で見つけることができます:

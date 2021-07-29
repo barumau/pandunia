@@ -1,7 +1,7 @@
 # pandunia-nipon
 ####A - A  
 abies - モミ  
-aces - アクセス  
+acesa - アクセス  
 ada - 習慣 (風俗)  
 Afgan - アフガニスタン  
 agrochun - 農村  
@@ -1164,6 +1164,7 @@ yongu - 溶ける
 ####Z - Z  
 zai den - 今日  
 zai zam - 今 (現在)  
+zai zam di - 現行  
 zalim raja - 暴君  
 zam - 時間  
 zarkube - 賽子  

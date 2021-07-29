@@ -1,28 +1,26 @@
-# pandunia-esperanti
+# pandunia-esperanto
 ####A - A  
 a - sed  
-abete - abio  
+abies - abio  
 acente - akcento  
 achi - terni  
 acinium - aktinio  
-adali - justa  
-adalia - justeco  
-ade - kutimo  
+ada - kutimo  
+adil - justa  
+adilta - justeco  
 adres - adreso  
-afgani - afgana  
-Afgania - Afganujo, Afganio  
-Afrike - Afriko  
-Afriki - afrika  
-afrikofiler - afrikamanto  
-afrikofilia - afrikamanteco  
-aga - se  
+Afgan - Afganujo, Afganio  
+Afrika - Afriko  
+agile - lerta  
 agre - agrikulturo  
 agres - atako (agreso)  
 agresivi - agresema  
 agri - agrikultura  
 agronomia - agronomio  
 aha - kompreni  
-ai - aj (alas)  
+ai - amo  
+ai ja - amanto  
+ai jen - karulo  
 ainstainium - ejnŝtejnio  
 air - aero  
 airgun - aerarmeo  
@@ -32,7 +30,6 @@ aisi - glacia
 aiskrem - glaciaĵo  
 aisu - glaciiĝi (frostiĝi)  
 Aiti - Haitio  
-ajili - lerta  
 akse - akso  
 ala - ŝanĝi (aliigi)  
 alge - algo  
@@ -41,7 +38,7 @@ alkali - alkaleca
 alkalogusti - amara  
 alkol - alkoholo  
 alkoli - alkohola  
-almare - ŝranko  
+almari - ŝranko  
 almas - diamanto  
 alo - alie  
 alofon - alofono  
@@ -49,16 +46,11 @@ alonamo - tio estas (alivorte)
 aloraya - malkonsenti  
 aloseksi - samseksema  
 alumin - aluminio  
-am - amo  
-ama - ami (ŝati)  
-amer - amanto  
 Amerike - Ameriko  
 ameriki - amerika  
 amerikium - americio  
 ami - kara  
-amike - karulo  
 amir - ordono  
-amira - ordoni  
 amper - ampero  
 an:a - igi (farigi)  
 anama - malami  
@@ -112,6 +104,7 @@ Atina - Ateno
 ation - agado  
 ativi - agema  
 atom - atomo  
+au - aj (alas)  
 auda - aŭdi (aŭskulti)  
 aure - oro  
 Australia - Aŭstralio  
@@ -216,6 +209,8 @@ biznes - negoco
 bizneser - komercisto  
 blabla - babili  
 blablokan - babilejo  
+blu - blua  
+blu elfe - smurfo  
 bode - korpo  
 bodi - korpa  
 boikote - bojkoto  
@@ -265,6 +260,7 @@ butonban - klavaro
 cel - ĉelo  
 cellogi - citologio  
 centi - centono  
+Ceres - Cereso  
 cerium - cerio  
 cesium - cezio  
 ch - C  
@@ -278,9 +274,9 @@ champion - ĉampiono
 chana - produkti (fabriki)  
 chanbash - artefarita lingvo  
 chanse - ŝanco  
-chanta - kanti  
+chante - kanti  
 chante - kanto  
-chantergrupe - ĥoro  
+chante grupe - ĥoro  
 chapa - presi  
 chape - presaĵo  
 chate - tekto  
@@ -288,20 +284,20 @@ chatre - kvar (4)
 chatre me den - ĵaŭdo  
 chau - herbo  
 cheka - kontroli  
+chen zaman - pasinteco  
 chena - antaŭiri  
 chendeno - hieraū  
 cheniki - malnova  
 cheno - antaŭe (pasinte)  
-chenzam - pasinteco  
-cheres - Cereso  
 Chile - Ĉilio  
-chimpanze - ĉimpanzo  
-chinbrusben - kuzo  
-chinchile - ĉinĉilo  
-chinga - peti (bonvolu)  
-chinga laya - inviti  
-chinmai - avino  
-chinpai - avo  
+chimpanzi - ĉimpanzo  
+chin brus ben - kuzo  
+chin ma - avino  
+chin pa - avo  
+chinchila - ĉinĉilo  
+ching - peti (bonvolu)  
+ching lai - inviti  
+chini - porcelano  
 chita - citi  
 chize - fromaĝo  
 choda - fiki  
@@ -353,9 +349,6 @@ dechi* - dekono
 def - defendo  
 defa - defendi  
 defer - defendanto (defendisto)  
-defta - registri  
-defte - registraĵo  
-deftia - registro (konto)  
 demo - popolo  
 demo grafi - demografio  
 demo krati li - demokratia  
@@ -365,15 +358,15 @@ den - tago
 den yam - tagmanĝo  
 deng - atendi  
 des - dek (10)  
+des kilo - dek miloj  
 desen - desegno  
 desha - lando  
-deskile - dek miloj  
 detal - detalo  
 deu - dio  
+deu kata - mito  
 deu krati - teokratio  
 deu li - dia  
 deu logi - teologio  
-deu saga - mito  
 di - propra (partiklo de posedo)  
 dika - celi  
 dike - celo  
@@ -588,6 +581,7 @@ furia - kolero (furiozo)
 fute - piedo  
 fute bol - piedpilko  
 ####G - G  
+ga - se  
 gabur - tombo (enterigi)  
 gabur istan - tombejo  
 gabur sheke - tomboŝtono  
@@ -625,15 +619,15 @@ gavi - alta
 gaze - gazo  
 gazel - gazelo  
 gazete - gazeto (revuo)  
+gei - samseksema  
 gem - ludo  
 gema - ludi  
 gemer - ludanto  
+geo grafi - geografio  
+geo metri - geometrio  
+geo sismo - tertremo  
 germanium - germaniumo  
 geta - akiri (ricevi, preni)  
-geyi - samseksema  
-geyografia - geografio  
-geyometria - geometrio  
-geyosisme - tertremo  
 gi - maŝino  
 giau - instrui (lernigi, ismo)  
 gida - gvidi  
@@ -648,10 +642,10 @@ gon - angulo
 goro - porko  
 goro manse - porkaĵo  
 goton - kotono  
-graf - bildo (desegnaĵo)  
-grafa - desegni  
-grafi - grafika (bilda)  
-grafsage - bildrakonto  
+grafi - bildo (desegnaĵo)  
+grafi - desegni  
+grafi kata - bildrakonto  
+grafi li - grafika (bilda)  
 gram - gramo  
 grimas - grimaco  
 grom - tondro  
@@ -682,10 +676,10 @@ hai - maro
 haida - ni faru...  
 haigun - mararmeo  
 haiporte - haveno  
-hake - rajto  
+haki - rajto  
 hal - stato  
 halif - kalifo  
-halou - saluton!  
+halo - saluton!  
 hamake - hamako  
 hamar - martelo  
 hami - grava  
@@ -700,8 +694,8 @@ hapa - taŭgigi
 hapi - taŭga  
 hapu - taŭgi  
 harabi - ruinigita  
-harfe - litero  
-harfia - alfabeto  
+harfi - litero  
+harfi harfi - alfabeto  
 harmoni - harmonia  
 harmonia - harmonio  
 Hartum - Ĥartumo  
@@ -724,6 +718,8 @@ hem - hm
 hema - pripensi (rigardi ia)  
 hemah - tendo  
 hen - malamo  
+hero - heroo  
+hero li - heroa  
 hesium - hasio  
 hibride - miksulo  
 hidre - hidrogeno  
@@ -738,6 +734,7 @@ hisaba - kalkuli
 hisabolojer - matematikisto  
 hisabolojia - matematiko  
 hisabu - kalkulo  
+hisabu loge - konto  
 histori - historio  
 histori ja - historiisto  
 historia - historio (studo de historio)  
@@ -758,8 +755,8 @@ hua jara - vazo
 hua mosim - printempo  
 hua pote - florpoto  
 huke - hoko  
-hukokrus - svastiko  
-hulei - vulpo  
+huke krus - svastiko  
+huli - vulpo  
 hura - liberigi  
 huri - libera  
 huria - libereco  
@@ -890,6 +887,8 @@ karvan - karavano
 kastan - kaŝtano  
 kastor - kastoro  
 kata - tranĉi  
+kata - rakonti  
+kata - rakonto  
 Katalunia - Katalunio  
 katane - glavo  
 katus - kaktuso  
@@ -1044,6 +1043,7 @@ litre - litro
 lobake - rafaneto  
 loga - paroli  
 logaslia - etimologio  
+loge - registraĵo  
 loge - parolo  
 logem - vorto  
 logi - vorta  
@@ -1245,7 +1245,6 @@ nevo - ĵus
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
 nikel - nikelo  
-nili - blua  
 nilon - nilono  
 ninde - insulto  
 niobium - niobo  
@@ -1339,6 +1338,8 @@ penta - pentri
 penta me den - vendredo  
 pente - pentri  
 per - plumo  
+peri - feo  
+peri kata - fabelo  
 pese - mono  
 pesh - fiŝo  
 peshhuke - fiŝhoko  
@@ -1395,8 +1396,8 @@ profeser - profesoro
 program - programo  
 prometium - prometio  
 protacinium - protaktinio  
-pujokan - templo  
-pujomeze - altaro  
+puja kan - templo  
+puja meza - altaro  
 pul - ponto  
 pulmon - pulmo  
 punte - punkto  
@@ -1473,8 +1474,6 @@ safarer - vojaĝanto
 safer - purigisto  
 safi - pura  
 safran - safrano  
-saga - rakonti  
-sage - rakonto  
 saha - pravigi  
 sahi - ĝusta (prava)  
 saida - ĉasi  
@@ -1601,8 +1600,8 @@ sofa* - sofo
 sofi - saĝa  
 sofita - saĝeco  
 soi - sojo  
-soimilke - sojlakto  
-soisaus - sojsaŭco  
+soi milke - sojlakto  
+soi sos - sojsaŭco  
 sol - suno  
 solchate - sunombrelo  
 solsistem - sunsistemo  
@@ -1770,8 +1769,6 @@ vidou - vidvo
 vike - vikia artikulo  
 vin - vino  
 vinsuan - vinagro  
-vir - heroo  
-viri - heroa  
 virje - virgulo  
 virji - virga  
 visi - vic-  
@@ -1842,6 +1839,7 @@ zirkonium - zirkonio
 zoko - ankoraŭ  
 zon - zono  
 zou - besto  
+zou kata - bestofabelo  
 zou logi - zoologio  
 zou logi di - zoologia  
 zou parke - zoo (bestoĝardeno)  

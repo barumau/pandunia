@@ -13,13 +13,14 @@ accent - acente
 accessible (atteignable, à portée) - aksesabli  
 accomplir (terminer) - purfina  
 accord - samrayia  
-accès - aces  
+accès - acesa  
 acheter - shopa  
 acte - ate  
 actif - ativi  
 actinium - acinium  
 action - ation  
 activer (allumer, mettre en marche, déclencher) - ativa  
+actuel (courant) - zai zam di  
 adapter (ajuster) - hapa  
 adhésif (collant) - gluti  
 adjectif - sifloge  
@@ -29,8 +30,9 @@ adulte - matur
 adversaire (antagoniste, ennemi) -   
 Afghanistan - Afgan  
 Afrique - Afrika  
+agent (faiseur) - ateja  
 agent pathogène - patojener  
-agile - ajili  
+agile - agile  
 agresseur - agreser  
 agressif - agresivi  
 agression (attaque) - agres  
@@ -306,7 +308,7 @@ cerise - cheri
 chachlik - shishmanse  
 chambre à coucher - somkamar  
 Champagne - shampan  
-Champagner - shampan vin  
+champagne - shampan vin  
 champignon - funge frute  
 chance - chanse  
 changement climatique - klimmute  
@@ -744,6 +746,7 @@ langue maternelle - jeni bash
 lapin (lièvre) - tuze  
 lapis-lazuli - lazurpetre  
 lasagne - lazanye  
+latéral - lati  
 lave - yongopetre  
 lent - lenti  
 lentille - lense  

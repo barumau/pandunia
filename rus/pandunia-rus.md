@@ -1,13 +1,14 @@
 ####A - A  
 abies - пихта  
 acente - ударение  
-aces - доступ  
+acesa - доступ  
 achi - чихать  
 ada - обычай (привычка)  
 adil - справедливый  
 adilta - справедливость  
 adres - адрес  
 Afgan - Афганистан  
+agile - подвижный  
 agra - выращивать  
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
@@ -22,7 +23,6 @@ airgun - военно-воздушные силы
 airporte - аэропорт  
 aishoke - хокке́й с ша́йбой  
 aiskrem - мороженое  
-ajili - подвижный  
 akare - клещ (лепта)  
 akse - ось  
 aksesabli - доступный  
@@ -80,7 +80,7 @@ astronaver - астронавт
 astronomer - астроном  
 astronomia - астрономия  
 ate - действие (акт)  
-ateja - agente  
+ateja - деятель  
 Atina - Афины  
 ation - действие (акция)  
 ativi - активный (деятельный)  
@@ -494,7 +494,6 @@ ironia - ирония
 islam din - ислам (мусульманство)  
 itis - воспаление  
 ####J - J  
-jagi - acordado  
 jagu - проснуться  
 jamul - джамболан  
 janel - окно  
@@ -660,7 +659,7 @@ lanchite - снаряд
 lane - проклятие  
 lasun - чеснок  
 late - сторона (бок)  
-lati - lateral (horizontal)  
+lati - боковой (латеральный)  
 Latvia - Латвия  
 lavi - пожилой  
 laya - приходить  
@@ -1068,7 +1067,7 @@ shalke - чешуя
 sham - вечер  
 shaman - шаман  
 shampan - Шампань  
-shampan vin - champanhe  
+shampan vin - шампанское  
 shanpike - вершина  
 shante - отдых  
 shanti - спокойный  
@@ -1304,7 +1303,7 @@ yoke - ярмо (иго)
 yom - сутки  
 yumor - юмор  
 ####Z - Z  
-zai zam di - actual  
+zai zam di - нынешний  
 zalim raja - тиран (деспот)  
 Zambia - Замбия  
 Zardush - Зороастр  

@@ -8,6 +8,7 @@ adil - 公正地
 adilta - 正义  
 adres - 地址  
 Afgan - 阿富汗  
+agile - 灵活的  
 agres - 攻击  
 agreser - 侵略者  
 agrobiologi - 土壤生物学  
@@ -22,7 +23,6 @@ ais - 冰
 aishoke - 冰球  
 aiskrem - 冰淇淋  
 aisu - 结冰  
-ajili - 灵活的  
 akare - 蜱 (螨)  
 akse - 轴线  
 ala - 改變  
@@ -77,7 +77,6 @@ astronaver - 宇航员
 astronomer - 天文学家  
 astronomia - 天文学  
 ate - 作为 (行为)  
-ateja - деятель  
 Atina - 雅典  
 ation - 行动  
 ativi - 活性  
@@ -601,7 +600,6 @@ lantanium - 鑭
 lasha - 落 (留下)  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
-lati - боковой (латеральный)  
 Latvia - 拉脱维亚  
 lavi - 老 (老年, 年歲大)  
 laya - 来  
@@ -1158,7 +1156,7 @@ yongopetre - 熔岩
 yongosaha - 熔炼  
 yongu - 融化  
 ####Z - Z  
-zai zam di - нынешний  
+zai zam di - 现在的  
 zam - 时间  
 zarkube - 骰子 (色子)  
 zebre - 斑马  

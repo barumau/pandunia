@@ -3453,7 +3453,7 @@ zromanizować - latinkitaba
 zsumować, sumować, dodać, dodawać - suma  
 zulu - Zulu  
 zupa - supe  
-zwinny, sprawny - ajili  
+zwinny, sprawny - agile  
 związać, wiązać; zapiąć, zapinać - benda  
 związek, powiązanie, połączenie - guanshe  
 zwiększyć o jeden - mashdarja  

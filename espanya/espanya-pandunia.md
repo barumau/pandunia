@@ -23,7 +23,7 @@ aburrido - bori
 aburrimiento - boria  
 acacia de copa plana - helisbabul  
 accesible - aksesabli  
-acceso - aces  
+acceso - acesa  
 accesorio (afijo) - fikse  
 acción - ation  
 aceite (óleo) - nefte  
@@ -638,8 +638,8 @@ cesio - cesium
 cesta (canasta, barquilla, aro) - baske  
 chacal - shakal  
 Chad - chadia  
-champagne - shampan vin  
 Champaña - shampan  
+champaña - shampan vin  
 champiñón (seta) - funge frute  
 champú - keshosabun  
 chamán (brujo, hechicero) - shaman  
@@ -3594,7 +3594,7 @@ zulú - Zulu
 ¡Felicitaciones! - barka  
 África - Afrika  
 Ártico - Artike  
-ágil - ajili  
+ágil - agile  
 álgebra - jebria  
 ángulo recto - ortogon  
 árabe - arabi  

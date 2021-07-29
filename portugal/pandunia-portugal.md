@@ -2,13 +2,14 @@
 ####A - A  
 abies - abeto  
 acente - acento  
-aces - acesso  
+acesa - acesso  
 achi - espirrar  
 ada - costume (hábito)  
 adil - justo  
 adilta - justiça  
 adres - endereço  
 Afgan - Afeganistão  
+agile - ágil  
 agra - cultivar  
 agres - ataque  
 agreser - agressor  
@@ -26,7 +27,6 @@ aishoke - hóquei no gelo
 aiskrem - sorvete (gelado)  
 aisu - gelar  
 ajabe - maravilha  
-ajili - ágil  
 akare - carrapato (ácaros)  
 ala - alterar  
 alge - alga  
@@ -78,7 +78,7 @@ astronaver - astronauta
 astronomer - astrónomo  
 astronomia - astronomia  
 ate - ato  
-ateja - agent (faiseur)  
+ateja - agente  
 Atina - Atenas  
 ation - ação  
 ativi - ativo  
@@ -612,7 +612,7 @@ lane - maldição
 lasha - deixar  
 lasun - alho  
 late - lado  
-lati - latéral  
+lati - lateral  
 Latvia - Letónia  
 lavi - idoso  
 laya - vir  
@@ -989,7 +989,7 @@ sete me den - domingo
 shalke - escama  
 sham - noitinha  
 shampan - Champagne  
-shampan vin - champaña  
+shampan vin - champanhe  
 shanpike - cume (pico, topo)  
 shante - descanso (repouso)  
 shanti - tranquilo (calmo)  
@@ -1177,7 +1177,7 @@ Yesu mesi - Jesus Cristo
 yoke - jugo  
 yongu - derretre  
 ####Z - Z  
-zai zam di - actuel (courant)  
+zai zam di - corrente (atual)  
 zam - tempo  
 zarkube - dado  
 zebre - zebra  
