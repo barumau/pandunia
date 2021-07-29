@@ -1,24 +1,19 @@
 # pandunia-suomi
 ####A - A  
 a - mutta  
-abete - pihta (jalokuusi)  
+abies - pihta (jalokuusi)  
 acente - painotus (aksentti)  
 aces - pääsy  
 achi - aivastaa (atsii!)  
 acinium - aktinium  
 adali - oikeudenmukainen  
 adalia - oikeus  
-ade - tapa  
+ada - tapa  
 adi - tavallinen  
 adres - osoite  
-adresharfe - @-merkki  
-afgani - afgaani  
-Afgania - Afganistan  
-Afrike - Afrikka  
-Afriki - afrikkalainen  
-afrikofiler - afrofiili  
-afrikofilia - afrofilia  
-aga - jos (olettaa)  
+adres harfi - @-merkki  
+Afgan - Afganistan  
+Afrika - Afrikka  
 agra - viljellä  
 agre - viljely  
 agrer - maanviljelijä  
@@ -66,7 +61,7 @@ alkali - emäksinen (alkalinen)
 alkalogusti - kitkerä (karvas)  
 alkol - alkoholi  
 alkoli - alkoholinen  
-almare - kaappi  
+almari - kaappi  
 almas - timantti  
 alo - muuten (toisin)  
 alofon - allofoni (vaihtoehtoinen ääntämys)  
@@ -78,23 +73,22 @@ aloseksi - heteroseksuaali
 alosfia - erilaisuus (ero)  
 alosifi - erilainen  
 alumin - alumiini  
-am - rakkaus (tykkääminen)  
-ama - rakastaa (pitää, tykätä)  
-Amari - amhara (etiopialainen kansa ja kieli)  
+ai - rakkaus (tykkääminen)  
+Amara - amhara (etiopialainen kansa ja kieli)  
 amater - amatööri  
+amen - rehellinen (totisesti, aamen)  
 amena - luottaa (uskoa)  
 ameni - varma  
 ameno - uskottavasti (totisesti, aamen)  
-amer - rakastaja  
+ai ja - rakastaja  
 Amerike - Amerikka  
 ameriki - amerikkalainen  
 amerikium - amerikium  
 ami - rakas (armas)  
-amike - kulta (rakas)  
+ai jen - kulta (rakas)  
 amir - käsky (komento)  
-amira - käskeä (komentaa)  
-amirer - emiiri  
-amirhake - käskyvalta  
+amir ja - emiiri  
+amir haki - käskyvalta  
 amiria - emiirikunta  
 amper - ampeeri  
 ampul - ampulli  
@@ -368,6 +362,8 @@ bizneser - liikemies
 blabla - jutella (höpistä)  
 blablokan - keskusteluhuone  
 bloge - blogi (nettikolumni)  
+blu - sininen  
+blu elfe - smurffi  
 bode - keho (ruumis)  
 bodi - ruumiillinen  
 boi - kelluke (poiju)  
@@ -582,9 +578,9 @@ date - data (numeerinen tieto)
 datobanke - tietokanta  
 datotable - taulukko  
 dau - tie  
-dauban - liikennemerkki  
-daviste - taolainen  
-davistia - taolaisuus  
+dau ban - liikennemerkki  
+dau din - taolaisuus  
+dau din ja - taolainen  
 dayanjiler - lähettiläs  
 dayanjilkan - lähetystö  
 dayi - iso (suuri)  
@@ -600,10 +596,6 @@ defa - puolustaa
 defban - suojakilpi  
 defer - puolustaja  
 defkaske - suojakypärä  
-defta - tallentaa (rekisteröidä, kirjata)  
-defte - tallenne (rekisteri)  
-deftia - rekisteri (tili)  
-deftobuke - lokikirja  
 Deimos - Deimos  
 deke - moraali  
 deki - moraalinen  
@@ -620,22 +612,22 @@ den yam - lounas
 deng - odottaa  
 des - kymmenen (10)  
 des du me mes - joulukuu  
+des kilo - sata tuhatta  
 des me lun - lokakuu  
 des un me lun - marraskuu  
 desen - piirustus  
 desha - maa (valtio)  
-deshajan - kansalainen (valtion asukas)  
-deskile - sata tuhatta  
+desha jan - kansalainen (valtion asukas)  
 detal - yksityiskohta (detalji)  
 deu - jumala  
 deu din - teismi (jumalusko)  
 deu din ja - teisti  
+deu kata - jumaltaru (myytti)  
 deu krati - teokratia  
 deu li - jumalallinen  
 deu logi - teologia  
-deu saga - jumaltaru (myytti)  
+deu nagra harfi - devanagari  
 deu sofi - teosofia  
-deunagri harfe - devanagari  
 di - -n (oma)  
 dika - osoittaa (tähdätä)  
 dike - maali (maalitaulu, kohde)  
@@ -759,6 +751,7 @@ eletrolin - sähköjohto
 eletron - elektroni  
 eletroposte (e-poste) - sähköposti  
 eletrorade - salama  
+elfe - haltia (tonttu)  
 em - elementti (yksinkertaisin yksikkö)  
 emoje - hymiö (emoji)  
 emos - tunne (mielenliikutus)  
@@ -1006,6 +999,7 @@ fute bol - jalkapallo
 fute marke - jalanjälki  
 fute shake - jalka (alaraaja)  
 ####G - G  
+ga - jos (olettaa)  
 Gabon - Gabon  
 gabur - hauta  
 gabur istan - hautausmaa  
@@ -1074,27 +1068,28 @@ gaze - harso
 gazel - gaselli  
 gazete - lehti (sanomalehti)  
 gazeter - toimittaja (journalisti, lehtimies)  
+gei - homo (homoseksuaali)  
 gem - peli  
 gema - pelata  
 gemer - pelaaja  
 gencha - tutkia (tarkastaa)  
+geo - maa (maaperä)  
+geo dou - maapähkinä  
+geo elfe - maahinen  
+geo grafi - maantiede  
+geo gun - maavoimat  
+geo metri - geometria  
+geo politika - geopolitiikka  
+geo sismo - maanjäristys  
+geo tika - tontti (maakaistale)  
 Germania - Germania  
 germanium - germanium  
 Gernezi - Guernsey  
 geta - hankkia (saada)  
 geter - saaja (vastaanottaja)  
-geye - maa (maaperä)  
-geyi - homo (homoseksuaali)  
-geyodou - maapähkinä  
-geyografia - maantiede  
-geyogunia - maavoimat  
 Geyomedi Hai - Välimeri  
-geyometria - geometria  
 geyoparlin - päiväntasaaja  
 Geyoparlini Ginia - Päiväntasaajan Guinea  
-geyopolitike - geopolitiikka  
-geyosisme - maanjäristys  
-geyotike - tontti (maakaistale)  
 gi - kone  
 giau - opetta (aate, ismi, ideologia, uskonto, jne)  
 gida - opastaa (ohjata)  
@@ -1122,12 +1117,12 @@ gorile - gorilla
 goro - sika (possu)  
 goro manse - sianliha  
 goton - puuvilla  
-graf - piirros (graafi)  
-grafa - piirtää  
-grafbuke - kuvakirja  
-grafer - graafikko  
-grafi - graafinen  
-grafsage - sarjakuva  
+grafi - piirros (graafi)  
+grafi - piirtää  
+grafi buke - kuvakirja  
+grafi ja - graafikko  
+grafi kata - sarjakuva  
+grafi li - graafinen  
 gram - gramma  
 granite - graniitti  
 Grenada - Grenada  
@@ -1135,9 +1130,9 @@ Grenadin nesia - Grenadiinit
 grimas - irvistys  
 grom - jyrinä (ukkonen)  
 gromtafun - ukkosmyrsky  
-grosi - paksu  
-grosi harfe - lihavoitu kirjain  
-grosia - paksuus  
+gros - paksu  
+gros harfi - lihavoitu kirjain  
+grosta - paksuus  
 grupe - ryhmä  
 Guadelupe - Guadeloupe  
 Guam - Guam  
@@ -1173,7 +1168,7 @@ hai - meri
 haida - tehkäämme  
 haigun - merivoimat (sotalaivasto)  
 haiporte - satama  
-hake - oikeus (oikeutus)  
+haki - oikeus (oikeutus)  
 hal - tila (tilanne, seikka)  
 halala - sallia (antaa lupa)  
 halali - sallittu (hyväksytty)  
@@ -1202,8 +1197,8 @@ harabu - pilaantua (raunioitua)
 harama - kieltää  
 harami - kielletty  
 haramliste - musta lista  
-harfe - kirjain  
-harfia - aakkoset (ABC)  
+harfi - kirjain  
+harfi harfi - aakkoset (ABC)  
 harmoni - harmoninen  
 harmonia - harmonia  
 harnes - valjaat  
@@ -1238,6 +1233,9 @@ hem - hmm
 hema - miettiä (pohtia, pitää jonakin)  
 hemah - teltta  
 hen - viha  
+hero - sankari (urho)  
+hero kata - sankaritaru (legenda)  
+hero li - urhea (sankarillinen)  
 herze - hertsi (Hz)  
 Hesia - Hessen  
 hesium - hasium  
@@ -1259,6 +1257,7 @@ hisabia - laskuoppi (aritmetiikka)
 hisabolojer - matemaatikko  
 hisabolojia - matematiikka (matikka)  
 hisabu - lasku (laskelma)  
+hisabu loge - tili  
 histori - historia (aikakirjat)  
 histori ja - historioitsija  
 historia - historia (oppiaine)  
@@ -1291,10 +1290,10 @@ hui - tuhka
 huidarte - podsoli  
 huirang - harmaa  
 huke - koukku (haka)  
-hukokrus - hakaristi (svastika)  
-hulei - kettu  
+huke krus - hakaristi (svastika)  
+huli - kettu  
 humus - kikherne  
-humusosaus - hummus  
+humus sos - hummus  
 hura - vapauttaa  
 huri - vapaa  
 huria - vapaus  
@@ -1548,6 +1547,8 @@ kaske - kuori (suojakuori)
 kastan - kastanja  
 kastor - majava  
 kata - katkaista (leikata)  
+kata - kertoa  
+kata - kertomus (tarina, saaga)  
 Katalunia - Katalonia  
 katane - miekka  
 Katar - Qatar  
@@ -1845,7 +1846,9 @@ livermorium - livermorium
 lobake - retikka (retiisi)  
 loga - sanoa (puhua)  
 logaslia - etymologia  
+loge - tallenne (rekisteri, loki)  
 loge - puhe (sanat)  
+loge buke - lokikirja  
 logem - sana  
 logi - sanallinen (puhuttu)  
 logi - tiede (tutkimus, opiskella)  
@@ -1957,7 +1960,7 @@ Marshal nesia - Marshall-saaret
 martinluteristi - luterilainen  
 martinluteristia - luterilaisuus  
 mas - massa  
-masaja - vaivata (hieroa)  
+masaje - vaivata (hieroa)  
 masaje - hieronta  
 masale - mauste  
 masali tike - tikka masala  
@@ -2240,7 +2243,6 @@ nicho - alla
 Nijer - Niger  
 Nikaragua - Nikaragua  
 nikel - nikkeli  
-nili - sininen  
 nilon - nailon  
 ninde - loukkaus (törkeys)  
 nindi - törkeä  
@@ -2448,6 +2450,8 @@ penta me mes - toukokuu
 pente - maalata  
 penter - maalari  
 per - sulka  
+peri - keiju  
+peri kata - satu  
 Peru - Peru  
 pese - raha  
 pesh - kala  
@@ -2742,8 +2746,6 @@ safaristia - turismi
 safer - siivooja  
 safi - puhdas (siivo, siisti)  
 safran - sahrami  
-saga - kertoa  
-sage - kertomus (tarina, saaga)  
 saha - korjata (tehdä oikeaksi)  
 sahi - oikea (paikkansapitävä)  
 saida - pyytää (metsästää, kalastaa)  
@@ -2970,8 +2972,8 @@ sofa* - sohva
 sofi - viisas  
 sofita - viisaus  
 soi - soija  
-soimilke - soijamaito  
-soisaus - soijakastike  
+soi milke - soijamaito  
+soi sos - soijakastike  
 sol - aurinko  
 solchate - aurinkovarjo  
 solestas - päivänseisaus  
@@ -3302,8 +3304,6 @@ ving - siipi
 vinil - vinyyli  
 vinkan - viinipanimo  
 vinsuan - etikka  
-vir - sankari (urho)  
-viri - urhea (sankarillinen)  
 virje - neitsyt  
 virji - neitseellinen (koskematon)  
 virus - virus  
@@ -3425,6 +3425,7 @@ zou - eläin
 zou agria - karjanhoito  
 zou filia - eläinrakkaus  
 zou geo grafi - eläinmaantiede  
+zou kata - eläinsatu  
 zou logi - eläintiede (zoologia)  
 zou logi di - eläintieteellinen  
 zou parke - eläintarha  

@@ -8,7 +8,7 @@ nav:
     - Inicio: 'index.md'
     - 'Ortografía': abc.md
     - 'Dicionarios':
-        - 'Pandunia-Português': pandunia-portugali.md
-        - 'Português-Pandunia': portugali-pandunia.md
+        - 'Pandunia-Português': pandunia-portugal.md
+        - 'Português-Pandunia': portugal-pandunia.md
         - 'Dicionario etimologico': leksaslia.md
 

@@ -1,23 +1,18 @@
 # pandunia-polski
 ####A - A  
 a - ale, lecz  
-abete - jodła  
+abies - jodła  
 acente - akcent, nacisk  
 achi - kichać (apsik!)  
 acinium - aktyn  
 adali - sprawiedliwy  
 adalia - sprawiedliwość  
-ade - nawyk (przyzwyczajenie)  
+ada - nawyk (przyzwyczajenie)  
 adi - zwyczajny (rutynowy, normalny)  
 adres - adres  
-adresharfe - małpa (znak na  
-afgani - afgański  
-Afgania - Afganistan  
-Afrike - Afryka  
-Afriki - afrykański, Afrykanin  
-afrikofiler - afrofil  
-afrikofilia - afrofilia  
-aga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
+adres harfi - małpa (znak na  
+Afgan - Afganistan  
+Afrika - Afryka  
 agra - uprawić, uprawiać  
 agrer - rolnik, farmer  
 agres - atak (agresja, napaść)  
@@ -59,7 +54,7 @@ alkalomelon - przepękla ogórkowata (balsamka ogórkowata)
 alkaloranje - gorzka pomarańcza  
 alkol - alkohol  
 alkoli - alkoholowy  
-almare - kredens (szafa, szafka)  
+almari - kredens (szafa, szafka)  
 almas - diament  
 alo - w innym wypadku (inaczej)  
 alofon - alofon  
@@ -71,17 +66,15 @@ aloseksi - heteroseksualny
 alosfia - różnica  
 alosifi - różny (inny)  
 alumin - glin (aluminium)  
-am - miłość (afekt)  
-ama - kochać  
-Amari - Amhara, amharski  
+ai - miłość (afekt)  
+Amara - Amhara, amharski  
 Amerike - Ameryka (kontynent)  
 ameriki - amerykański  
 Ameriki Samoa - Amerykańska Samoa  
 amerikium - ameryk  
 ami - kochany (drogi)  
 amir - rozkaz, komenda  
-amira - rozkazać, rozkazywać, zakomendować  
-amirer - emir  
+amir ja - emir  
 amiria - emirat  
 amper - amper  
 ampul - ampułka  
@@ -351,6 +344,9 @@ bizneser - osoba biznesu, biznesman
 blabla - luźna rozmowa, gadanina  
 blablokan - pokój rozmów, chat  
 bloge - blog  
+blu - niebieski  
+blu ceram sing - houstoia azurowa  
+blu elfe - smerf  
 bode - ciało  
 bodi - cielesny  
 boi - spławik (boja)  
@@ -560,8 +556,8 @@ date - dane
 datobanke - baza danych (bank danych)  
 datotable - tablioca, macierz  
 dau - droga, szosa, ulica  
-daviste - taoista  
-davistia - taoizm  
+dau din - taoizm  
+dau din ja - taoista  
 dayanjiler - ambasador  
 dayanjilkan - ambasada  
 dayi - duży  
@@ -576,10 +572,6 @@ defa - obronić (chronić)
 defban - tarcza  
 defer - obrońca  
 defkaske - zbroja  
-defta - zapisać (zarejestrować)  
-defte - rejestr  
-deftia - register  
-deftobuke - dziennik pokładowy (notatnik)  
 deke - moralność, etyka  
 deki - moralny  
 dekolojia - etyka  
@@ -596,22 +588,22 @@ den yam - obiad, lunch
 deng - czekać  
 des - dziesięć (10)  
 des du me mes - kwiecień  
+des kilo - dziesięć tysięcy  
 des me lun - luty  
 des un me lun - marzec  
 desen - rysunek, obraz  
 desha - kraj, ziemia  
-deshajan - obywatel  
-deskile - dziesięć tysięcy  
+desha jan - obywatel  
 detal - detal, szczegół  
 deu - bóg, bóstwo  
 deu din - teizm  
 deu din ja - teistyczny  
+deu kata - mit (boska opowieść)  
 deu krati - teokracja  
 deu li - boski  
 deu logi - teologia  
-deu saga - mit, boska opowieść  
+deu nagra harfi - dewanagari  
 deu sofi - teozofia  
-deunagri harfe - dewanagari  
 di - mieć (partykuła posiadania)  
 dika - celować  
 dike - cel  
@@ -945,6 +937,7 @@ fute bol - piłka nożna
 fute shake - noga  
 futoban - rusztowanie (trap)  
 ####G - G  
+ga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 Gabon - Gabon  
 gabur - grób (mogiła, grobowiec, zakopać, pochować)  
 gabur istan - cmentarz  
@@ -1008,29 +1001,29 @@ gaze - gaza
 gazel - gazela  
 gazete - magazyn, dziennik, gazeta  
 gazeter - dziennikarz  
+gei - gejowski (homoseksualny)  
 gem - gra  
 gema - grać w grę  
 gemer - gracz  
 gencha - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
+geo - ziemia, grunt, gleba  
+geo dou - orzech ziemny  
+geo forme - teren  
+geo gun - wosko lądowe (armia)  
+geo kaske krake - uskok  
+geo kaske plate - płyta tektoniczna  
+geo logi - geologia  
+geo niche di - podziemny  
+geo niche prizon - loch  
+geo sismo - trzęsienie Ziemi  
+geo tika - działka (teren)  
 germanium - german  
 Gernezi - Guernsey  
 geta - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 geter - odbiorca  
-geye - ziemia, grunt, gleba  
-geyi - gejowski (homoseksualny)  
-geyodou - orzech ziemny  
-geyoforme - teren  
-geyogunia - wosko lądowe (armia)  
-geyokaski krake - uskok  
-geyokaski plate - płyta tektoniczna  
-geyolojia - geologia  
 Geyomedi Hai - Morze Śródziemne  
-geyonichi - podziemny  
-geyonichi prizon - loch  
 geyoparlin - równik  
 Geyoparlini Ginia - Gwinea Równikowa  
-geyosisme - trzęsienie Ziemi  
-geyotike - działka (teren)  
 gi - maszyna  
 giau - przyrostek dla ideologii  
 gida - prowadzić (wskazać drogę)  
@@ -1055,12 +1048,12 @@ gorile - goryl
 goro - świnia  
 goro manse - wieprzowina  
 goton - bawełna  
-graf - opis, przedstawienie; wykres  
-grafa - opisywać, ilustorawć; przedstawiać  
-grafbuke - książka z obrazkami  
-grafer - ilustrator, grafik  
-grafi - obrazowy, graficzny; opisowy  
-grafsage - komiks; kreskówka  
+grafi - opis, przedstawienie; wykres  
+grafi - opisywać, ilustorawć; przedstawiać  
+grafi buke - książka z obrazkami  
+grafi ja - ilustrator, grafik  
+grafi kata - komiks; kreskówka  
+grafi li - obrazowy, graficzny; opisowy  
 gram - gram  
 granite - granit  
 grave - żwir  
@@ -1069,9 +1062,9 @@ Grenadin nesia - Grenadyny
 grimas - grymas  
 grom - grom, huk  
 gromtafun - burza z piorunami  
-grosi - gruby  
-grosi harfe - pogrubiona litera  
-grosia - grubość  
+gros - gruby  
+gros harfi - pogrubiona litera  
+grosta - grubość  
 grupe - grupa  
 Guadelupe - Gwadelupa  
 Guam - Guam  
@@ -1116,7 +1109,7 @@ haijel - meduza
 hainili - morskoniebieski  
 haiporte - port morski (przystań)  
 haitate - wybrzeże (plaża)  
-hake - prawo, przywilej  
+haki - prawo, przywilej  
 hal - stan  
 halala - pozwolić, pozwalać, zezwolić, zezwalać  
 halali - dozwolony (dopuszczalny, zezwolony, halal)  
@@ -1139,8 +1132,8 @@ haraba - rujnować, dewastwować, burzyć
 harabi - zły, zrujnowany, zepsuty  
 harama - zabronić (wzbronić, zakazać)  
 harami - zabroniony (wzbroniony, nielegalny, haram, tabu)  
-harfe - litera, znak  
-harfia - alfabet, abecadło  
+harfi - litera, znak  
+harfi harfi - alfabet, abecadło  
 harmoni - harmoniczny  
 harmonia - harmonia  
 harnes - zaprzęc, zaprzęgać  
@@ -1172,6 +1165,8 @@ hem - hmm
 hema - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę  
 hemah - namiot  
 hen - nienawidzić  
+hero - bohater, heros  
+hero li - bohaterski, heroiczny, odważny, brawurowy  
 herze - herc  
 hesium - has  
 hibride - hybryda; kundel  
@@ -1188,6 +1183,7 @@ hisaba - kalkulować
 hisabia - arytmetyka  
 hisabolojer - matematyk  
 hisabolojia - matematyka  
+hisabu loge - konto  
 histori - historia; annały, roczniki  
 histori ja - historyk  
 historia - historia, badanie historii  
@@ -1223,10 +1219,10 @@ hui - popiół
 huidarte - gleba bielicoziemna  
 huirang - szary  
 huke - hak  
-hukokrus - swastyka  
-hulei - lis  
+huke krus - swastyka  
+huli - lis  
 humus - ciecierzyca  
-humusosaus - hummus  
+humus sos - hummus  
 hura - uwolnić, uwalniać  
 huri - wolny, niepodległy, niezależny  
 huria - wolność, niepodległość, niezależność  
@@ -1410,7 +1406,7 @@ Kalalia - Grenlandia
 kalam - pióro, długopis  
 kalende - kalendarz  
 kali - pusty  
-kali harfe - spacja  
+kali harfi - spacja  
 kalifornium - kaliforn  
 kalium - potas  
 kalkulia - rachunek (formalny system obliczeń)  
@@ -1495,6 +1491,8 @@ kaske - skorupa (pancerz, muszla)
 kastan - kasztan  
 kastor - bóbr  
 kata - ciąć  
+kata - opowiedzieć, opowiadać  
+kata - opowiadanie, opowieść, legenda, saga  
 Katalunia - Katalonia  
 katane - miecz  
 Katar - Katar  
@@ -1821,7 +1819,9 @@ livermorium - liwermor
 lobake - rzodkiewka  
 loga - mówić, rozmawiać  
 logaslia - etymologia  
+loge - rejestr  
 loge - słowo (mowa)  
+loge buke - dziennik pokładowy (notatnik)  
 logem - słowo  
 logi - słowny (leksykalny)  
 logi - nauka, badanie, studiowanie  
@@ -2246,9 +2246,7 @@ Nijer - Niger
 Nikaragua - Nikaragua  
 nikel - nikiel  
 nilchentaur - bławatek  
-nili - niebieski  
 nilon - nylon  
-nilseramshing - houstoia azurowa  
 ninde - obraza, obelga  
 nindi - obraźliwy, niemiły, obelżywy  
 niobium - niob  
@@ -2461,6 +2459,8 @@ penta me mes - sierpień
 pente - namalować, malować  
 penter - malarz  
 per - pióro  
+peri - wróżka  
+peri kata - baśń  
 perkardon - ostrożeń lancetowaty  
 Peru - Peru  
 pese - pieniądze  
@@ -2777,8 +2777,6 @@ safaristia - turystyka
 safer - sprzątacz, sprzątacz  
 safi - czysty  
 safran - szafran  
-saga - opowiedzieć, opowiadać  
-sage - opowiadanie, opowieść, legenda, saga  
 saha - poprawić, poprawiać, prostować, korygować  
 sahi - właściwy, poprawny  
 Sahravia - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
@@ -3033,8 +3031,8 @@ Slovenia - Słowenia
 sofa* - sofa (kanapa)  
 sofi - mądry  
 sofita - mądrość  
-soimilke - mleko sojowe  
-soisaus - sos sojowy  
+soi milke - mleko sojowe  
+soi sos - sos sojowy  
 soka - szukać  
 sol - słońce  
 solchate - parasol  
@@ -3413,8 +3411,6 @@ ving - skrzydło
 vinil - winyl  
 vinkan - winiarnia  
 vinsuan - ocet  
-vir - bohater, heros  
-viri - bohaterski, heroiczny, odważny, brawurowy  
 Virjin nesia - Wyspy Dziewicze USA  
 virus - wirus  
 viruslogi - wirusologia  
@@ -3539,6 +3535,7 @@ zong - słup (pal, kołek)
 zongominte - mięta zielona (mięta kłosowa)  
 zou - animal  
 zou agria - hodowla zwierząt  
+zou kata - bajka  
 zou logi - zoologia  
 zou logi di - zoologiczny  
 zou parke - zoo (ogród zoologiczny)  

@@ -30,8 +30,8 @@ nav:
         - 'Phrases courantes': fraze.md
         - 'Leçons': darse.md
     - 'Vocabulaire':
-        - 'Pandunia → français': pandunia-fransi.md
-        - 'Français → pandunia': fransi-pandunia.md
+        - 'Pandunia → français': pandunia-france.md
+        - 'Français → pandunia': france-pandunia.md
         - 'Etymologie': leksaslia.md
         - 'Recherche': tiddly.html
     - 'Grammaire': kanun.md

@@ -14,8 +14,8 @@ nav:
     - 'Звучание': abc.md
     - 'Уроки': darse.md
     - 'Словарь':
-        - 'пандуния-русский': pandunia-rusi.md
-        - 'русский-пандуния': rusi-pandunia.md
+        - 'пандуния-русский': pandunia-rus.md
+        - 'русский-пандуния': rus-pandunia.md
         - 'этимология': leksaslia.md
     - 'Грамматика': kanun.md
 

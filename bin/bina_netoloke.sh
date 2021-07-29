@@ -15,7 +15,7 @@ bina_netoloke() {
 }
 
 bina_pan() {
-    bina_netoloke cini
+    bina_netoloke putonghan
     bina_netoloke english
     bina_netoloke espanya
     bina_netoloke esperanto
