@@ -83,7 +83,7 @@ Algeria - Jayeria
 align (go along) - parlinu  
 alkaline - alkali  
 all - pan (pani)  
-alligator - kortokrokodil  
+alligator - korte krokodil  
 allophone - alofon  
 allow (permit) - halala  
 almond - badam  
@@ -160,7 +160,7 @@ apprentice - karshuler
 approach (get near) - karibu  
 approve - bonraya  
 apricot - briko  
-April - chatre me mes  
+April - mes chatre  
 aqua (teal) - hainili  
 Arabic - arabi  
 arachnophobia - aranofobia  
@@ -231,7 +231,7 @@ attack (assault, aggression, hostility) - agres
 attain (accomplish, indicates the current position) - leu  
 attraction (-philia) - filia  
 attribute (charasteristic, quality, feature, description, property) - sif  
-August - bato me mes  
+August - mes bato  
 auspicious (promising) - bonsinyi  
 Australia - Australia  
 Australian Aboriginal - aslaustrali  
@@ -359,7 +359,7 @@ bell - danger
 belly (stomach, abdomen) - pete  
 belong (be a member) - memba  
 belong - malu  
-belt (zone) - zon  
+belt (zone) - zona  
 bench - benche  
 beneficial (good) - evi  
 Bengali language (Bangla) - bangla basha  
@@ -542,9 +542,9 @@ camper - kamper
 campground - kampistan  
 Canada - Kanada  
 cancel (nullify) - nola  
-candela - kandel  
+candela - kandela  
 candle - mumfote  
-candy (sweets) - kande  
+candy (sweets) - kandi  
 cannabis (marijuana, ganja, pot, weed) - ganje  
 cannoneer - daipaver  
 canoe - kano*  
@@ -820,7 +820,7 @@ Costa Rica - Kosta Rika
 cotton - goton  
 cotton thistle - pinkardon  
 cougar (puma, mountain lion) - puma  
-cough - kose  
+cough - koso  
 coulomb (unit) - kulombe  
 counselor (consultant) - konseler  
 count (enumerate) - numba  
@@ -912,6 +912,7 @@ date fruit - tamar
 daughter - femi pute  
 day (24 hours) - yom  
 day (daytime) - den  
+day of the week - var  
 deactivate (disable, turn off) - anativa  
 dead (deceased) - morti  
 dear (beloved) - ami  
@@ -919,7 +920,7 @@ death - morte
 debate (discuss) - lona  
 debug - angalta  
 decay (rot, deteriorate) - pudu  
-December - des du me mes  
+December - mes des du  
 deci- - dechi*  
 decibel - dechibel  
 decode (decrypt) - ankoda  
@@ -1062,7 +1063,7 @@ dystopia - dustopia
 ####E - E  
 each other (one another) - ses  
 each other (one another, mutually) - unal  
-ear - or  
+ear - ore  
 earlier (before, in the past) - cheno  
 earn (gain) - ganya  
 earth (ground) - geo  
@@ -1100,7 +1101,7 @@ element (the simplest unit) - em
 elephant - gaja  
 elf - elfe  
 embassy - dayanjilkan  
-emerald - zumurude  
+emerald - zumarda  
 emir - amir ja  
 emirate - amiria  
 emoji (smiley, emoticon) - emoje  
@@ -1256,7 +1257,7 @@ favoritism - mashfilistia
 fear (be afraid) - fobu  
 fear (phobia) - fobia  
 feather - per  
-February - du me mes  
+February - mes du  
 feces (poop, shit) - shite  
 fee (fare) - takse  
 feel (sense by touch) - senta  
@@ -1372,7 +1373,7 @@ French Guiana - France Guyana
 French Polynesia - France Polinesia  
 frequency - polmaria  
 fresh - tazi  
-Friday - penta me den  
+Friday - var penta  
 friend - doste  
 friendly (kind, nice, gentle) - dosti  
 friendship - dostia  
@@ -1730,7 +1731,7 @@ infect - patomisa
 infection (infestation, contagion) - patomis  
 infidel (pagan, heathen, unbeliever) - kafir  
 infinity - anlimitia  
-inflammation (-itis) - itis  
+inflammation (-itis) - flame  
 information (communicable knowledge) - konsave  
 initial (first) - shuri  
 inject - jusha  
@@ -1790,7 +1791,7 @@ Jainism - jeinistia
 Jakarta - Jakarta  
 Jamaica - Jamaika  
 jamul (jambul, rose apple) - jamul  
-January - un me mes  
+January - mes un  
 Japan - Nipon  
 Japanese - niponi  
 jar (jug, pitcher, carafe, amphora, vase) - jar  
@@ -1818,9 +1819,9 @@ judicial - judi
 judo - judau  
 jug (jar, pitcher) - jar  
 juice - jus  
-July - sete me mes  
+July - mes sete  
 jump - jampa  
-June - luku me mes  
+June - mes luku  
 Jupiter - Jupiter  
 just (exactly, precisely) - justo  
 just (fair, righteous) - adil  
@@ -1962,7 +1963,7 @@ like - fila
 lilac - lilake  
 lilac color - lilaki  
 lily - susan  
-lily of the valley - vadosusan  
+lily of the valley - vali susan  
 lime - kalsomate  
 lime green - limonlugi  
 limestone - kalsopetre  
@@ -2086,7 +2087,7 @@ map (chart) - metregraf
 Marathi - marati  
 marathon - maraton  
 marble - kalsokristal  
-March - tri me mes  
+March - mes tri  
 margarine - margarin  
 margay - margai  
 maritime - hayi  
@@ -2127,7 +2128,7 @@ Mauritius - Moris
 maximal - mashimi  
 maximize - mashima  
 maximum - mashime  
-May - penta me mes  
+May - mes penta  
 Maya - mayan  
 Mayotte - Mayote  
 mean (cruel) - zalim  
@@ -2151,8 +2152,8 @@ melt (be liquified) - yongu
 member (component) - member  
 memorandum (memo) - memnote  
 memory (recollection) - mem  
-meningitis - meningitis  
-meninx (meninges) - mening  
+meningitis - meninge flame  
+meninx (meninges) - meninge  
 mental (psychic) - ruhi  
 mercury (quicksilver) - hidrargente  
 Mercury - Merkur  
@@ -2225,7 +2226,7 @@ molybdenum - molidenium
 moment (instant, while) - sate  
 momentary - sati  
 Monaco - Monako  
-Monday - un me den  
+Monday - var un  
 money - pese  
 Mongol - mongoli  
 Mongolia - Mongolia  
@@ -2332,7 +2333,7 @@ neon - neon
 neophyte plant - neufite  
 Nepal - Nepal  
 nephew or niece - brusben  
-nephritis - nefritis  
+nephritis - nefre flame  
 Neptune - Neputun  
 neptunium - netunium  
 nerve - neure  
@@ -2399,8 +2400,9 @@ nothing - nol shei
 notice (notification) - notite  
 notify - notana  
 noun - namloge  
+novel - long kata  
 novelty (new product) - neu  
-November - des un me lun  
+November - mes des un  
 novice (newbie) - nevike  
 nuclear energy - kerni energe  
 nuclear fission - kerni fenia  
@@ -2424,7 +2426,7 @@ obsidian - osidian
 ocean - daihai  
 Oceania - Ocheania  
 ocelot - oselote  
-October - des me lun  
+October - mes des  
 octopus - batosenter  
 ocular - oki  
 odd (strange, weird) - bizar  
@@ -2491,7 +2493,7 @@ osmium - osmium
 osmosis - osmos  
 other - ali  
 otherwise (else) - alo  
-otitis - oritis  
+otitis - ore flame  
 otter - lontre  
 Ottoman - osman  
 Ottoman Empire - Osmani Imperia  
@@ -2707,6 +2709,7 @@ plug (stop with a plug) - tapa
 plum (prune) - plum  
 Pluto (dwarf planet) - Pluton  
 plutonium - plutonium  
+pneumonia - pulmon flame  
 pocket - jebe  
 podzol - huidarte  
 poem - shir  
@@ -3063,7 +3066,7 @@ sapling - joveni moke
 Satanism (devil worship) - shatanistia  
 Satanist - shataniste  
 satsuma mandarin - venjovoranje  
-Saturday - luku me den  
+Saturday - var luku  
 Saturn - Saturne  
 sauce - sos  
 Saudi Arabia - Saudi Arabia  
@@ -3131,7 +3134,7 @@ sense (method of perception) - sense
 sense (perceive, detect) - sensa  
 sensor (detector) - senser  
 sentence (phrase) - jumle  
-September - tisa me mes  
+September - mes tisa  
 Serbia - Serbia  
 series (sequence) - silia  
 servant - server  
@@ -3175,8 +3178,9 @@ shoot (fire) - pava
 shop (building, house, place) - kan  
 shopping - shope  
 shore (bank, edge) - tate  
-short (brief) - korti  
-shorten - korta  
+short (brief) - korte  
+short story - korte kata  
+shorten - korte fa  
 should (ought) - selu  
 shoulder - kante  
 shovel (spade, scoop) - bel  
@@ -3411,7 +3415,7 @@ sum up (add together) - suma
 summer - garmomosim  
 summon (add, spawn) - zaya  
 sun - sol  
-Sunday - sete me den  
+Sunday - var sete  
 sunflower - solful  
 superb (wonderful, super) - superi  
 supply (dispense, issue, put out) - fada  
@@ -3562,7 +3566,7 @@ throw up (vomit, regurgitate) - retrogula
 thulium - tulium  
 thunder (roaring) - grom  
 thunderstorm - gromtafun  
-Thursday - chatre me den  
+Thursday - var chatre  
 Tibet - Botia  
 tick (mite) - akare  
 ticket - tikete  
@@ -3661,7 +3665,7 @@ trusted - ameni
 try (attempt) - testa  
 tube (pipe) - tube  
 tuber (bulb) - masmul  
-Tuesday - du me den  
+Tuesday - var du  
 tulip - tulpe  
 tundra - tundre  
 tungsten (wolfram) - volfram  
@@ -3734,10 +3738,10 @@ utopia - eutopia
 Uzbekistan - Uzbekia  
 vaccine - vacin  
 vacuum cleaner - fun chupa gi  
-vagina - vagine  
-vaginitis - vaginitis  
+vagina - vagina  
+vaginitis - vagina flame  
 valid (workable) -   
-valley - vade  
+valley - vali  
 value (evaluate) - vala  
 value (worth) - val  
 valve (tap, faucet) - kran  
@@ -3832,8 +3836,8 @@ wear (dress, put on) - fuku
 weather - tenhal  
 weave - tesha  
 website - netoloke  
-Wednesday - tri me den  
-week - yomchete  
+Wednesday - var tri  
+week - var var  
 weep (cry) - kuga  
 weft - veilin  
 weigh (have weight) - vezu  

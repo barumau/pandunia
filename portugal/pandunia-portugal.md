@@ -187,7 +187,6 @@ chanse - chance
 chante grupe - coro  
 charme - charme  
 chatre - quatro (4)  
-chatre me den - quinta-feira  
 chendeno - ontem  
 cheniki - velho (antigo)  
 cheri - cereja  
@@ -246,7 +245,6 @@ domi - doméstico
 dong - este (leste)  
 donivi - generoso (dadivoso, mão-aberta)  
 du - dois (2)  
-du me den - terça-feira  
 duga - ler  
 dulbashi - bilíngue  
 dunia - mundo  
@@ -314,6 +312,7 @@ fiorde - fiorde
 fite - planta (vegetal)  
 fitolojia - botânica  
 fityamiste - vegetariano  
+flame - inflamaçao  
 fleche - flecha (seta)  
 foba - assustar  
 fobani - assustador  
@@ -455,7 +454,6 @@ insida - agacharse
 intru - entrar  
 ironia - ironia  
 islam din - islã  
-itis - inflamaçao  
 ####J - J  
 jagi - acordado  
 jagu - despertar  
@@ -511,6 +509,7 @@ kamis - camisa
 kamisi shake - manga  
 kampistan - área de acampamento  
 kanche - vidro  
+kandi - bombom (doce)  
 kangaru* - canguru  
 kankuate - quincã (cunquate)  
 kano* - canoa  
@@ -575,7 +574,8 @@ koral - coral
 korer - corredor  
 korne - corno  
 kornomelon - pepino-africano (kiwano)  
-kortokrokodil - aligátor (jacaré)  
+korte kata - conto  
+korte krokodil - aligátor (jacaré)  
 kosmi - cósmico  
 kosmia - cosmo  
 kosmobiyolojia - astrobiologia  
@@ -654,6 +654,7 @@ logia - vocabulário
 loka - colocar (pôr)  
 loke - lugar (local)  
 loki - local  
+long kata - romance  
 longi - longo  
 longoduri - prolongado  
 longoduro - por muito tempo  
@@ -662,7 +663,6 @@ lontre - lontra
 lova - vazar  
 lugi - verde  
 luku - seis (6)  
-luku me den - sábado  
 lun - mês  
 lune - lua  
 lunokeke - bolo lunar  
@@ -715,7 +715,7 @@ mege - nuvem
 melon - melão  
 mem - memória  
 mema - lembrar-se (recordar-se)  
-mening - meninge  
+meninge - meninge  
 merante - meranti  
 Merkur - Mercúrio  
 mester - mestre  
@@ -804,10 +804,10 @@ okside - óxide
 onde - onda  
 onor - honra  
 onora - honrar  
-or - orelha  
 oranje - laranja  
 oranji - alaranjado  
-oritis - otite  
+ore - orelha  
+ore flame - otite  
 orkide - orquídea  
 orti - reto  
 ortogoni - ortogonal  
@@ -855,7 +855,6 @@ peikar - profissão
 peikari jiu - carreira  
 pelpel - borboleta  
 penta - cinco (5)  
-penta me den - sexta-feira  
 pente - pintura  
 peri - fada  
 peri kata - conto de fadas  
@@ -906,6 +905,7 @@ pudu - apodrecer-se
 puja kan - templo  
 puja meza - altar  
 pul - ponte  
+pulmon flame - pneumonia   
 purbona - aperfeiçoar  
 purfina - terminar (acabar, concluir)  
 purfityamiste - vegetalista  
@@ -985,7 +985,6 @@ serame - cerâmico
 sere - serra  
 ses - um ao outro  
 sete - sete (7)  
-sete me den - domingo  
 shalke - escama  
 sham - noitinha  
 shampan - Champagne  
@@ -1101,7 +1100,6 @@ trata - arrastar
 trater - trator  
 trete - acordo (tratado, contrato)  
 tri - três (3)  
-tri me den - quarta-feira  
 truka - enganar  
 truke - truque (fraude)  
 tu - tu  
@@ -1110,7 +1108,6 @@ turba - molestar (perturber)
 tuze - coelho (lebre)  
 ####U - U  
 un - um (1)  
-un me den - segunda-feira  
 uniki - único (só)  
 uniko - unicamente  
 unjani - só (solitário)  
@@ -1121,15 +1118,22 @@ ura - urra
 Uran - Urano  
 urse - urso  
 va - uau  
-vade - vale (uadi)  
-vadosusan - lírio-do-vale  
 vaf - cão (cachorro)  
-vagine - vagina  
-vaginitis - vaginite  
+vagina - vagina  
+vagina flame - vaginite  
 val - valor (valia)  
 vala - valorar  
+vali - vale (uadi)  
+vali susan - lírio-do-vale  
 valu - valer  
 vampir - vampiro  
+var chatre - quinta-feira  
+var du - terça-feira  
+var luku - sábado  
+var penta - sexta-feira  
+var sete - domingo  
+var tri - quarta-feira  
+var un - segunda-feira  
 varkalge - kelp  
 varkolate - página  
 vase - oásis  
@@ -1187,7 +1191,7 @@ zinje - jengibre
 zoki - analógico  
 zoko - ainda  
 zombi - zumbi  
-zon - zona  
+zona - zona  
 zong - poste (estaca)  
 zongominte - hortelã-verde  
 zou - animal (besta, bicho)  
@@ -1197,7 +1201,7 @@ zou logi di - zoológico
 zou parke - zoológico  
 zuke - etnia  
 zuki - étnico  
-zumurude - esmeralda  
+zumarda - esmeralda  
  - carregar  
  - chuvoso (pluvioso)  
  - adversário  

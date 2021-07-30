@@ -43,8 +43,8 @@ ainoastaan (vain) - uniko
 aisti - sense  
 aistia - sensa  
 aivastaa (atsii!) - achi  
-aivokalvo - mening  
-aivokalvontulehdus - meningitis  
+aivokalvo - meninge  
+aivokalvontulehdus - meninge flame  
 aivot - serebre  
 ajaa (kuskata) - shofa  
 ajatella (miettiä) - fikra  
@@ -328,7 +328,7 @@ elektroni - eletron
 elementti (yksinkertaisin yksikkö) - em  
 eli (toisin sanoen) - alonamo  
 elohopea - hidrargente  
-elokuu - bato me mes  
+elokuu - mes bato  
 elokuva - kinograf  
 elokuvallinen - kinografi  
 elokuvataide - kinografia  
@@ -348,8 +348,8 @@ emiiri - amir ja
 emiirikunta - amiria  
 emäksinen (alkalinen) - alkali  
 emäs - alkale  
-emätin (vagina) - vagine  
-emätintulehdus - vaginitis  
+emätin (vagina) - vagina  
+emätintulehdus - vagina flame  
 endonyymi (omakielinen nimi) - innam  
 enemmistö - mashoria  
 enemmistö- - mashori  
@@ -555,12 +555,12 @@ heijastaa kuvia (projisoida) - lanchografa
 heikko - debili  
 heimo - tribe  
 heinä - ganchau  
-heinäkuu - sete me mes  
+heinäkuu - mes sete  
 heittää (paiskata) - lancha  
 helikopteri - helisviman  
 helium - helium  
 helmi - lul  
-helmikuu - du me mes  
+helmikuu - mes du  
 helppo - fasili  
 Helsinki - Helsinki  
 helvetti - narake  
@@ -625,7 +625,7 @@ hormoni - hormon
 hotelli - hotel  
 houkutella - tenta  
 housut - pante  
-huhtikuu - chatre me mes  
+huhtikuu - mes chatre  
 huippu - gau  
 huippu - shanpike  
 huivi (šaali) - shal  
@@ -838,7 +838,7 @@ joskus - koi sate
 joukkue (tiimi) - tim  
 joule (J) - jul  
 joulu - mesi jen  
-joulukuu - des du me mes  
+joulukuu - mes des du  
 jousiammunta - arkeria  
 jousiampuja - arker  
 jousisoitin - tichin  
@@ -945,7 +945,7 @@ kamppailulaji - jengoshute
 kana - kokode  
 Kanada - Kanada  
 kanava (kanaali) - kanal  
-kandela - kandel  
+kandela - kandela  
 kangas - tesh  
 kannabis (marihuana, hamppu) - ganje  
 kannada (eräs intialainen kieli) - karnadi  
@@ -1056,7 +1056,7 @@ keskittyä (olla keskellä) - jungu
 keskittää - fokusa  
 keskittää - junga  
 keskiverto (keski-) - medi  
-keskiviikko - tri me den  
+keskiviikko - var tri  
 keskus (keskikohta) - jung  
 keskustelu (debatti) - lona  
 keskusteluhuone - blablokan  
@@ -1066,13 +1066,14 @@ kestää (viedä aikaa) - dura
 kesy - dosili  
 kesyttää - dosila  
 kesä (suvi) - garmomosim  
-kesäkuu - luku me mes  
+kesäkuu - mes luku  
 ketju - silsil  
 ketjun lenkki - sil  
 ketsuppi - kechape  
 ketterä - agile  
 kettu - huli  
 keuhko - pulmon  
+keuhkokuume - pulmon flame  
 kevät - hua mosim  
 Khartoum - Hartum  
 kiehua - bulu  
@@ -1205,9 +1206,9 @@ koronavirus - koronvirus
 korottaa - daidarja  
 kortti - karde  
 koruton (tavanomainen, pelkkä) - sadi  
-korva - or  
+korva - ore  
 korvata - visa  
-korvatulehdus - oritis  
+korvatulehdus - ore flame  
 koska (johdosta, takia) - sabo da  
 koskea (koskettaa) - tocha  
 kosminen - kosmi  
@@ -1360,7 +1361,7 @@ käärö - rul
 köynnös - eskalotan  
 ####L - L  
 laadukas (hyvä) - bonsifi  
-laakso - vade  
+laakso - vali  
 laastari - glutobende  
 laatikko - kapse  
 laatikko - sanduke  
@@ -1401,7 +1402,7 @@ latinalaiset aakkoset - latini harfia
 latinoida - latinkitaba  
 lattia - kamartal  
 Latvia - Latvia  
-lauantai - luku me den  
+lauantai - var luku  
 laukka - galope  
 laulaa - chante  
 laulu - chante  
@@ -1486,7 +1487,7 @@ logofiili - logofiler
 logofilia - logofilia  
 lohkare (järkäle) - daisheke  
 loimi - ginglin  
-lokakuu - des me lun  
+lokakuu - mes des  
 lokasuoja - fandefban  
 lokikirja - loge buke  
 looginen - logiki  
@@ -1530,9 +1531,9 @@ luu - oste
 luumu - plum  
 luvata (vannoa) - voda  
 Luxemburg - Luksemburge  
-lyhentää - korta  
+lyhentää - korte fa  
 lyhty - hogosanduke  
-lyhyt - korti  
+lyhyt - korte  
 lyijy - plumbe  
 lymfa - linfe  
 lypsää maitoa - tira milke  
@@ -1576,8 +1577,8 @@ maalata - penta
 maalata - pente  
 maali (maalitaulu, kohde) - dike  
 maali (pelissä) - gol  
-maaliskuu - tri me mes  
-maanantai - un me den  
+maaliskuu - mes tri  
+maanantai - var un  
 maanjäristys - geo sismo  
 maantiede - geo grafi  
 maanviljelijä - agrer  
@@ -1603,7 +1604,7 @@ maito - milke
 majakka - foto minar  
 majava - kastor  
 Makedonia - Nordi Makedonia  
-makeinen (karkki, karamelli) - kande  
+makeinen (karkki, namu) - kandi  
 makkara - sosis  
 maksaa (olla hintana) - kosta  
 maksaa - peya  
@@ -1639,7 +1640,7 @@ marja - bere
 markkinaliberalismi - bazarhuristia  
 marmori - kalsokristal  
 Marokko - Magribia  
-marraskuu - des un me lun  
+marraskuu - mes des un  
 Mars - Marse  
 Marshall-saaret - Marshal nesia  
 massa - mas  
@@ -1772,7 +1773,7 @@ mukulakivi - sirkosheke
 muna - ande  
 munakoiso - bedinje  
 munuainen - nefre  
-munuaistulehdus (nefriitti) - nefritis  
+munuaistulehdus (nefriitti) - nefre flame  
 muoto - forme  
 muotoilla (muovata) - forma  
 muovailuvaha - plastopaste  
@@ -1867,7 +1868,7 @@ neuvoa - sela
 neuvontantaja (mentori) - menter  
 Nevis - Nevis  
 newton (N) - nuton  
-niedziela - sete me den  
+niedziela - var sete  
 niellä - gula  
 Niger - Nijer  
 Nigeria - Naijiria  
@@ -1901,6 +1902,7 @@ nostaa pystyyn - liba
 nostaa tasoa - bondarja  
 nousta - gavu  
 noutopöytä (buffetti) - bufete  
+novelli - korte kata  
 noviisi (uusikko, vasta-alkaja) - nevike  
 nudismi - nudistia  
 nudisti - nudiste  
@@ -2127,7 +2129,7 @@ perhe - famil
 perhonen - pelpel  
 perimä (genotyyppi) - jentipe  
 perintö - varis  
-perjantai - penta me den  
+perjantai - var penta  
 persia (farsi) - farsi  
 Peru - Peru  
 peruna (potaatti) - patate  
@@ -2428,6 +2430,7 @@ rohkea (urhea, uljas) - bravi
 roikuttaa - penda  
 rokki (rock) - rokomuzike  
 rokote - vacin  
+romaani - long kata  
 Romania - Romania  
 romanttinen - romansi  
 rommi - rum  
@@ -2657,7 +2660,7 @@ Skotlanti - Eskotia
 slaavilainen - Slave  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-smaragdi - zumurude  
+smaragdi - zumarda  
 smurffi - blu elfe  
 sohva - kanape  
 sohva - sofa*  
@@ -2781,7 +2784,7 @@ syy - sabe
 syyllinen - doshi  
 syylä - zeyil  
 Syyria - Suria  
-syyskuu - tisa me mes  
+syyskuu - mes tisa  
 säde - rade  
 sädekehä (halo) - foto sirke  
 säe (riimi) - rim  
@@ -2839,7 +2842,7 @@ talvinen - lengomosimi
 tamil (eräs intialainen kieli) - Tamil  
 tammenterho - balutopal  
 tammi - balute  
-tammikuu - un me mes  
+tammikuu - mes un  
 tammipeli - damgem  
 tanakh - tanah  
 tankki (säiliö) - tanke  
@@ -2948,7 +2951,7 @@ tietää (tuntea) - sabi
 Tiibet - Botia  
 tiikeri - bagre  
 tiili - dobe  
-tiistai - du me den  
+tiistai - var du  
 tikari - kanjar  
 tikka masala - masali tike  
 tila (tilanne, seikka) - hal  
@@ -2985,11 +2988,11 @@ tontti (maakaistale) - geo tika
 topografia - topograf  
 tori (basaari) - bazar  
 torni - minar  
-torstai - chatre me den  
+torstai - var chatre  
 torvi (torvisoitin) - buge  
 tosi (aito) - veri  
 toukka - larve  
-toukokuu - penta me mes  
+toukokuu - mes penta  
 traktori - trater  
 Transdnistria - Nistria  
 trendi - fashon  
@@ -2999,7 +3002,7 @@ tropiikki - garmozon
 tsetta- - zeta*  
 tuhat (kilo-) - kili  
 tuhka - hui  
-tulehdus - itis  
+tulehdus - flame  
 tulevaisuus - posozam  
 tuli - hoge  
 tulinen - hogi  
@@ -3281,7 +3284,8 @@ vihollinen - andoste
 vihollinen - dusjan  
 vihreä - lugi  
 viihdyttää (huvittaa) - vana  
-viikko - yomchete  
+viikko - var var  
+viikonpäivä - var  
 viimeinen - finodi  
 viini - vin  
 viinipanimo - vinkan  
@@ -3341,7 +3345,7 @@ vuosi - nen
 vuosijuhla - nenfeste  
 vuotaa - lova  
 vuotaa verta - lova sang  
-vyö - zon  
+vyö - zona  
 väenpaljous - demomultia  
 väestö (kansa) - demo  
 väestötiede (demografia) - demo grafi  
@@ -3424,7 +3428,7 @@ ympäröidä (piirittää) - sirka
 ynnätä (summata) - suma  
 yrittää (kokeilla) - testa  
 yritys (yhtiö) - kompania  
-yskä - kose  
+yskä - koso  
 ystävyys - dostia  
 ystävä (kaveri) - doste  
 ystävällinen (kiltti) - dosti  

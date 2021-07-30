@@ -428,7 +428,7 @@
 |**kanal**|kanalo|angla:hispana:portugala:franca:canal, rusa:канал (kanal), bengala:খাল (khal), malaja:kanal|
 |**kanape**|sofo|franca:portugala:hispana:canapé, deu:Kanapee, rusa:канапе (kanape), turka:kanepe, persa:(kânâpe), araba:(kanaba)|
 |**kanche**|vitro|hindia:काँच (kānc), bengala:কাঁচ (kãcô), marataja:काच (kāc), malaja:kaca, teluga:గాజు (gāju)|
-|**kande**|bombono|angla:candy, hindia:कैंडी (kaiṇḍī), japana:キャンデー (ja) (kyandē), filipina:kendi|
+|**kandi**|bombono|angla:candy, hindia:कैंडी (kaiṇḍī), bengala:ক্যান্ডি (kyanḍi), japana:キャンデー (kyandē), filipina:kendi|
 |**kangaru***|kangaro|angla:kangaroo, hispana:canguro, portugala:canguru, rusa:кенгуру (kenguru), turka:kanguru, svahila:kangaruu, araba:كَنْغَر‎ (kanḡar), hindia:कंगारू (kaṅgārū), malaja:kanggaru, japana:カンガルー (kangarū)|
 |**kanjar**|ponardo|persa:(xanjar), turka:haner, rusa:кинжал (kinžal)|
 |**kano***|kanuo (kanoto)|angla:canoe, franca:canoë, hispana:portugala:canoa, rusa:каноэ (kanoe), japana:カヌー (kanū), korea:카누 (kanu), turka:kano|
@@ -484,8 +484,8 @@
 |**kora**|kuri|franca:courir, hispana:portugala:correr|
 |**korne**|korno|franca:corne, hispana:cuerno, portugala:corno, angla:horn, araba:(qarn)|
 |**koron**|krono|franca:couronne, angla:crown, hispana:corona, japana:クラウン (kuraun), rusa:корона (korona), portugala:coroa|
-|**korti**|mallonga|hispana:corto, rusa:короткий (korotkiy), portugala:curto, franca:court, deu:kurz, angla:short|
-|**kose**|tuso|rusa:кашель (kašel'), polona:kaszel, bengala:কাশা (kaśa), mandarena:咳嗽 (késou)|
+|**korte**|mallonga|hispana:corto, rusa:короткий (korotkiy), portugala:curto, franca:court, deu:kurz, angla:short|
+|**koso**|tuso|rusa:кашель (kašel'), polona:kaszel, bengala:কাশা (kaśa), mandarena:咳嗽 (késou)|
 |**kote**|palto|angla:coat, svahila:koti, oroma:koota, japana:コート (kōto), persa:(kot), hindia:कोट (kot)|
 |**krabe**|krabo|angla:crab, deu:Krebs, franca:crabe, rusa:краб (krab)|
 |**kran**|krano (valvo)|ned:kraan, rusa:кран (kran), polona:kran, malaja:keran|
@@ -638,8 +638,8 @@
 |**okeyi**|akceptebla (okej)|angla:okay, hispana:turka:malaja:okey, portugala:OK, rusa:окей (okej), araba:أُوكِي‎‎‎ (ʾokey), hindia:ओके (oke), mandarena:OK (ōukèi), japana:オーケー (ōkē)|
 |**onde**|ondo|hispana:portugala:itala:onda, franca:onde, malaja:ombak|
 |**onor**|honoro (respekto)|angla:polona:hispana:honor, franca:honneur, portugala:honra, turka:onur|
-|**or**|orelo|mandarena:耳 (ěr), angla:ear, deu:Ohr, franca:oreille, portugala:orelha, hispana:oreja|
 |**oranje**|oranĝo|angla:orange, hispana:naranja, portugala:laranja, hindia:नारंगी (narangi), japana:(orenji), + franca:orange, rusa:оранжевый (oranževiy)|
+|**ore**|orelo|mandarena:耳 (ěr), angla:ear, deu:Ohr, franca:oreille, portugala:orelha, hispana:oreja|
 |**orti**|rekta|angla:franca:ortho-, hispana:portugala:orto-, rusa:орто- (orto-)|
 |**osmos**|osmozo|greka:ώσμωση (ósmosi), angla:malaja:osmosis, hispana:ósmosis, portugala:franca:osmose, rusa:осмос (osmos), persa:تَراران (osmoz)|
 |**oste**|osto|angla:deu:osteo-, rusa:остео- (osteo-), itala:portugala:osso, franca:os, hindia:अस्थि (asthi-)|
@@ -862,11 +862,12 @@
 |**urse**|urso|franca:ours, portugala:urso, hispana:oso, persa:(xers)|
 |**use**|uzi|angla:use, franca:user, hispana:portugala:usar, polona:używać|
 |**va**|ŭaŭ!|angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah|
-|**vade**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|
 |**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
-|**vagine**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
+|**vagina**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
 |**val**|valoro|angla:value, hispana:portugala:valor, franca:valeur|
+|**vali**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|
 |**van**|amuzo|mandarena:玩 (wán), kantona:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|
+|**var**|semajntago|hindia:वार (vār), bengala:বার (bar) + portugala:feira|
 |**vase**|oazo|araba:(wāḥa), turka:vaha, persa:(vāhe), angla:franca:hispana:portugala:oasis, rusa:оазис (oazis), deu:Oase, japana:オアシス (oashisu), korea:오아시스 (oasiseu)|
 |**vasha**|lavi|angla:wash, deu:waschen, mandarena:洗 (xǐ)|
 |**ve**|tio|hindia:वह (veh), bengala:ওই (oi)|
@@ -905,7 +906,7 @@
 |**zine**|malfideleco|araba:(zināʾ), malaja:turka:zina, svahila:zinaa, urdua:(zinā), persa:(zenā)|
 |**zinje**|zingibro|tamila:இஞ்சி (inji), angla:ginger, araba:(zanjabīl), turka:zencefil, franca:gingembre|
 |**zire**|kumino|bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán)|
-|**zon**|zono|greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)|
+|**zona**|zono|greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)|
 |**zou**|besto|angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-)|
 |**zuke**|etno|mandarena:族 (zú), kantona:族 (zuk6), japana:族 (zoku), korea:족 (jok), vjetnama:tộc|
-|**zumurude**|smeraldo|persa:(zomorrod), turka:zümrüt, araba:(zumurrud), malaja:zamrud, rusa:изумруд (izumrud), svahila:zumaridi, mandarena:祖母绿 (zǔmǔlǜ)|
+|**zumarda**|smeraldo|angla:emerald, franca:émeraude, hispana:portugala:esmeralda, japana:エメラルド (emerarudo) + araba: زُمُرُّد‎ (zumurrud), svahila:zumaridi, malaja:zamrud, rusa:изумруд (izumrud), mandarena:祖母绿 (zǔmǔlǜ)|

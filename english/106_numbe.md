@@ -110,92 +110,125 @@ They are placed before the modified noun like normal adjectives.
 **tri me fen**
 – the third part
 
+### Ordinal number after noun
+
+Another way to form ordinal numbers is to place the number after the noun.
+
+**fen un**
+– the first part (part one)
+**fen du**
+– the second part (part two)
+**fen tri**
+– the third part (part three)
+
 
 ## Fractions
 
-Fractions are formed with the help of the ordinal particle
-**me**.
+There are two ways to create fractions.
+Both of them use the word
+**fen**
+('part').
 
-**un du me**
-– a half, ½  
-**un chatre me**
-– a fourth, a quarter, ¼  
-**tri chatre me**
-– three fourths, three quarters, ¾  
-**un cen me**
-– a hundredth, a percent, %  
-**un kilo me**
-– a thousandth, a permille, ‰
+The short way is to use ordinal numbers.
 
-Note that it is siginificant where **me** is placed.
+**un fen du**
+– a half (½)  
+**un fen chatre**
+– one fourth, one quarter (¼)  
+**tri fen chatre**
+– three fourths, three quarters (¾)  
+**un fen cen**
+– one hundredth, one percent (1%)  
+**un da kilo fen**
+– one thousandth, one permille (1‰)
 
-**un du me hor**
-– a half hour  
-**un me du hor**
-– the first two hours
+The longer way uses the pattern
+**X da Y fen**
+('X of Y parts').
 
-**du tri me pai**
-– two thirds of a pie  
-**du me tri pai**
-– the second (batch of) three pies
+**un da du fen**
+– one of two parts, a half (½)  
+**un da chatre fen**
+– one of four parts, a quarter (¼)  
+**tri da chatre fen**
+– three of four parts, three quarters (¾)  
+**un da cen fen**
+– one of hundred parts, a percent, (1%)  
+**un da kilo fen**
+– one of thousand parts, a permille, (1‰)
+
+Fractions are connected to with
+**da**
+('of').
+
+**un fen du da hor**
+– a half (of an) hour  
+**penta des fen cen da jen**
+– fifty percent of people  
+**du fen tri da keke**
+– two thirds of a cake  
 
 
 ## Date and time
 
 #### Days of the week
 
-In naming the days of the week, a number indicating the day (starting from Monday) is followed by
-the ordinal particle
-**me**
-and
-**den**
-which means the period of 24 hours.
-So 'Monday' is literally 'first-day', 'Tuesday' is 'second-day', 'Wednesday' is 'third-day', etc.
+Days of the week include the word
+**var**
+('day of the week').
+They are numbered starting from Monday.
+Monday is
+**var un**
+('weekday one'),
+Tuesday is
+**var du**
+('weekday two')
+and so on.
 
-1. **un me den**
+1. **var un**
    – Monday
-2. **du me den**
+2. **var du**
    – Tuesday
-3. **tri me den**
+3. **var tri**
    – Wednesday
-4. **chatre me den**
+4. **var chatre**
    – Thursday
-5. **penta me den**
+5. **var penta**
    – Friday
-6. **luku me den**
+6. **var luku**
    – Saturday
-7. **sete me den**
+7. **var sete**
    – Sunday
 
 #### Months
 
-The names of months are made like the names of days
+The names of months are composed like the names of days
 but this time the word
 **mes**
-("month") is used.
+('month') is used.
 
-1. **un me mes**
+1. **mes un**
    – January
-2. **du me mes**
+2. **mes du**
    – February
-3. **tri me mes**
+3. **mes tri**
    – March
-4. **chatre me mes**
+4. **mes chatre**
   – April
-5. **penta me mes**
+5. **mes penta**
   – May
-6. **luku me mes**
+6. **mes luku**
   – June
-7. **sete me mes**
+7. **mes sete**
   – July
-8. **bato me mes**
+8. **mes bato**
   – August
-9. **tisa me mes**
+9. **mes tisa**
   – September
-10. **des me mes**
+10. **mes des**
   – October
-11. **des un me mes**
+11. **mes des un**
   – November
-12. **des du me mes**
+12. **mes des du**
   – December
 

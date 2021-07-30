@@ -32,7 +32,7 @@ alfabet, abecadło - harfi harfi
 alga (wodorost) - alge  
 algebra - jebria  
 Algieria - Jayeria  
-aligator - kortokrokodil  
+aligator - korte krokodil  
 alkohol - alkol  
 alkoholowy - alkoli  
 alofon - alofon  
@@ -369,7 +369,7 @@ coś - koi shei
 croissant - kruasante  
 cudzysłów - chitomarke  
 cukier - sukar  
-cukierek, słodycze - kande  
+cukierek, słodycze - kandi  
 cukinia - lilkaboge  
 cukrowiec jadalny - yamsukarchau  
 cwał (galop) - galope  
@@ -398,7 +398,7 @@ czaszka - saroste
 czekać - deng  
 czekolada - choklate  
 czempion - champion  
-czerwiec - tri me mes  
+czerwiec - mes tri  
 czerwony - lali  
 cześć, szacunek - puja  
 czosnek olbrzymi - dailasun  
@@ -406,7 +406,7 @@ cztery (4) - chatre
 czuć (poczuć, postrzegać, wykrywać) - sensa  
 czuć - senta  
 czuć, odczuć, odczuwać - emosu  
-czwartek - chatre me den  
+czwartek - var chatre  
 czyn, uczynek - fate  
 czysty (higieniczny, sanitarny) - salsafi  
 czysty - safi  
@@ -477,7 +477,7 @@ dokument - dokum
 dokument - papir  
 dokładnie (precyzyjnie, tylko) - justo  
 dolar - dolar  
-dolina - vade  
+dolina - vali  
 dom, mieszkanie - dom  
 Dominika (Wspólnota Dominiki) - Dominika  
 domino - dominogem  
@@ -753,7 +753,7 @@ grillować - kababa
 grom, huk - grom  
 grubość - grosta  
 gruby - gros  
-grudzień - tisa me mes  
+grudzień - mes tisa  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -1018,7 +1018,7 @@ kamyk - lilsheke
 Kanada - Kanada  
 kanapka - sanduiche  
 kanał - kanal  
-kandela - kandel  
+kandela - kandela  
 kangur - kangaru*  
 kanion - kanyon  
 kannada - karnadi  
@@ -1044,7 +1044,7 @@ kartka (dokument) - varke
 kartografia - metregrafia  
 kasjer - kasher  
 kasta - jenklas  
-kaszel; kaszlnięcie - kose  
+kaszel; kaszlnięcie - koso  
 kasztan - kastan  
 Katalonia - Katalunia  
 Katar - Katar  
@@ -1150,7 +1150,7 @@ konsekwencja, skutek - pos
 konstytucja - bazokanun  
 konto - hisabu loge  
 kontynuować; wznawiać, ponawiać - zoku  
-konwalia majowa - vadosusan  
+konwalia majowa - vali susan  
 konwencjonalny, zwyczajowy, tradycyjny - riti  
 kopalnia - kuangia  
 kopać (wydobywać) - kuanga  
@@ -1226,7 +1226,7 @@ królestwo - rajia
 królewski - raji  
 królik, zając - tuze  
 królowa - femi rajer  
-krótki - korti  
+krótki - korte  
 ksenon - xenon  
 ksiądz, kleryk, kaznodzieja - din guru  
 książka - buke  
@@ -1262,7 +1262,7 @@ kwarc - kuarze
 kwaśny - suani  
 kwestia, problem - sualtem  
 kwiat - hua  
-kwiecień - des du me mes  
+kwiecień - mes des du  
 kąpać się - banyu  
 kąpiel - banye  
 kąt - gon  
@@ -1322,11 +1322,11 @@ limfa - linfe
 limit, granica - limite  
 limonkowy (limonkowo zielony) - limonlugi  
 linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
-lipiec - chatre me mes  
+lipiec - mes chatre  
 lis - huli  
 lista słów - logoliste  
 lista, spis, wykaz - liste  
-listopad - bato me mes  
+listopad - mes bato  
 listownicowiec - varkalge  
 lit - litium  
 litera, znak - harfi  
@@ -1359,7 +1359,7 @@ lustro - mirer
 luteranizm - martinluteristia  
 luterański - martinluteristi  
 lutet - lutetium  
-luty - des me lun  
+luty - mes des  
 luźna rozmowa, gadanina - blabla  
 lód - ais  
 ####M - M  
@@ -1376,7 +1376,7 @@ magma - pastopetre
 magnes - manete  
 magnetyczny - maneti  
 magnez - magesium  
-maj - du me mes  
+maj - mes du  
 Majotta - Mayote  
 mak lekarski - sompapil  
 mak polny - medenpapil  
@@ -1417,7 +1417,7 @@ martwić - duku
 martwy, nieżywy, zabity - morti  
 marynarka (flota) - haigun  
 marynować - suanpurshipe  
-marzec - des un me lun  
+marzec - mes des un  
 marznąć (zamarznąć) - aisu  
 masa - mas  
 masaż - masaje  
@@ -1685,7 +1685,7 @@ niebieskozielony (cyjan) - siani
 niebo - ten  
 niech my, hajda - haida  
 niechętny - anichi  
-niedziela - sete me den  
+niedziela - var sete  
 niedźwiedź - urse  
 Niemcy - Doichia  
 niemiecki - doichi  
@@ -1834,7 +1834,7 @@ opis, przedstawienie; wykres - grafi
 opisać (zakwalifikować) - sifa  
 opisowy - sifi  
 opisywać, ilustorawć; przedstawiać - grafi  
-opona mózgowa - mening  
+opona mózgowa - meninge  
 opowiadanie, opowieść, legenda, saga - kata  
 opowiedzieć, opowiadać - kata  
 oprócz, minus - mina  
@@ -1937,7 +1937,7 @@ partia - partia
 Partia Piratów - piratisti partia  
 Paryż - Paris  
 parę - duli o sani  
-pas, strefa - zon  
+pas, strefa - zona  
 paskal (Pa) - paskal  
 pasować - konboni  
 pasta - paste  
@@ -1952,7 +1952,7 @@ pauza (przerwa) - pauze
 paznokieć - nahun  
 pałac - daidom  
 paść, padać, upaść, upadać - padu  
-październik - sete me mes  
+październik - mes sete  
 pchnąć, pchać - pusha  
 pedał - pedal  
 Pekin - Beijing  
@@ -2014,7 +2014,7 @@ pizza - pize
 pizzeria - pizokan  
 pióro - per  
 pióro, długopis - kalam  
-piątek - penta me den  
+piątek - var penta  
 pięciokąt (pentagon) - limgon  
 pięciościan (pryzmat) - limfas  
 piękno - sundaria  
@@ -2107,7 +2107,7 @@ pomoc, wsparcie - helpe
 pomodlić się, modlić się - duva  
 pompować - pompa  
 pomóc, pomagać, asystować - helpa  
-poniedziałek - un me den  
+poniedziałek - var un  
 ponieważ, bo - sabo da  
 poniższy - nichi  
 popełnić błąd - galta  
@@ -2583,7 +2583,7 @@ siedzieć - sida
 siekera, topór - futau  
 sierociniec, dom dziecka - yatimdom  
 sierota - yatim  
-sierpień - penta me mes  
+sierpień - mes penta  
 Sierra Leone - Salon  
 sieć - nete  
 sikać, szczać, oddawać mocz - pisha  
@@ -2612,7 +2612,7 @@ skośny (ukośny, pochyły) - terchi
 skradanie się - siri mote  
 skradać się - siro motu  
 skrzydło - ving  
-skrócić, skracać - korta  
+skrócić, skracać - korte fa  
 skupienie, koncentracja - fokus  
 skupić, się, skoncentrować się - fokusa  
 skwer, plac - meden  
@@ -2628,7 +2628,7 @@ smok - lung
 smutny - duki  
 smycz (cugiel, lejc, wodza) - lidolin  
 snajper (strzelec wyborowy) - justopaver  
-sobota - luku me den  
+sobota - var luku  
 socjalista - sosiste  
 socjalizm - sosistia  
 socjalizować się - sosa  
@@ -2721,7 +2721,7 @@ strzykwa - haihiyar
 strzępić (drzeć) - chirchira  
 student - estuder  
 studio (pracownia) - estudia  
-styczeń - un me mes  
+styczeń - mes un  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parcha  
 stłuczony (pęknięty) - parchi  
@@ -2785,7 +2785,7 @@ szkoła (instytucja) - shulkan
 szkoła podstawowa - bazoshulkan  
 szkło - kanche  
 szkło wulkaniczne - hogoshani kanche  
-szmaragd - zumurude  
+szmaragd - zumarda  
 szofer (kierowca) - shofer  
 szogun - gunrajer  
 szogunat - gunrajia  
@@ -2972,7 +2972,7 @@ twój - tu di
 twórca, kreator, czynnik - fater  
 ty, ciebie - tu  
 Tybet - Botia  
-tydzień - yomchete  
+tydzień - var var  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suikaboge  
 typ (rodzaj, gatunek) - tipe  
@@ -2990,7 +2990,7 @@ tłusty - feti
 tłuszcz - fete  
 ####U - U  
 ubranie, ubiór, strój - fuke  
-ucho - or  
+ucho - ore  
 uciec, uciekać - bega  
 uciszyć (uciszać) - shusha  
 uczestniczyć, wziąć udział, brać udział - parta  
@@ -3056,7 +3056,7 @@ voodoo - vodun
 w innym wypadku (inaczej) - alo  
 waga (ciężkość) - vezia  
 waga (urządzenie ważące) - vezometrer  
-wagina - vagine  
+wagina - vagina  
 Walia - Kamria  
 walijski - kamri  
 walka, wojna - jeng  
@@ -3189,7 +3189,7 @@ wow!, łoł!, jej! - va
 wołowina - mumu manse  
 wprost (bezpośrednio) - disho  
 wprostowywać (wyprostować) - orta  
-wrzesień - luku me mes  
+wrzesień - mes luku  
 wrócić, wracać, wycofać się, wycofywać się - retru  
 wróg (nieprzyjaciel) - andoste  
 wróżka - peri  
@@ -3212,7 +3212,7 @@ wstrzyknąć, wstrzykiwać - jusha
 wstyd (hańba, kompromitacja) - sharme  
 wszyscy, wszystkie, wszystko; każdy - pan (pani)  
 wszystko - pan shei  
-wtorek - du me den  
+wtorek - var du  
 wulkan - hogoshan  
 wy, was - tumen  
 wybrać, wybierać, selekcjonować - chuza  
@@ -3341,11 +3341,11 @@ zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - sora
 zamknąć zamkiem błyskawicznym - zipa  
 zapach (aromat, smród, odór) - arome  
 zapakować, pakować - paka  
-zapalenie - itis  
-zapalenie nerek - nefritis  
-zapalenie opon mózgowych - meningitis  
-zapalenie pochwy - vaginitis  
-zapalenie ucha - oritis  
+zapalenie - flame  
+zapalenie nerek - nefre flame  
+zapalenie opon mózgowych - meninge flame  
+zapalenie pochwy - vagina flame  
+zapalenie ucha - ore flame  
 zapaść się (zapadać się, runąć) - parchotalu  
 zapominać (zapomnieć) - anmema  
 zapomnieć, zapominać - bula  
@@ -3514,7 +3514,7 @@ zły, zrujnowany, zepsuty - harabi
 śnieżyć (padać) -   
 śpiewać - chante  
 średni - medi  
-środa - tri me den  
+środa - var tri  
 środek - mede  
 środkowy, centralny - jung  
 środowiskowy, naturalny - eki  

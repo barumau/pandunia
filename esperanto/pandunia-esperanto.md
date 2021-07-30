@@ -281,7 +281,6 @@ chapa - presi
 chape - presaĵo  
 chate - tekto  
 chatre - kvar (4)  
-chatre me den - ĵaŭdo  
 chau - herbo  
 cheka - kontroli  
 chen zaman - pasinteco  
@@ -401,7 +400,6 @@ dou - fabo aŭ pizo
 doze - porcio (dozo)  
 drame - dramo  
 du - du (2)  
-du me den - mardo  
 dubnium - dubnio  
 duga - legi  
 duka - malĝojigi  
@@ -864,7 +862,7 @@ kan - farejo
 kanal - kanalo  
 kanape - sofo  
 kanche - vitro  
-kande - bombono  
+kandi - bombono  
 kangaru* - kangaro  
 kanjar - ponardo  
 kano* - kanuo (kanoto)  
@@ -973,10 +971,11 @@ korne - korno
 kornonos - rinocero  
 koron - krono  
 koronvirus - krunviruso  
-korta - mallongigi  
-korti - mallonga  
-kose - tuso  
+korte - mallonga  
+korte fa - mallongigi  
+korte kata - novelo  
 kosmonaver - kosmonaŭto  
+koso - tuso  
 kote - palto  
 krabe - krabo  
 kran - krano (valvo)  
@@ -1056,13 +1055,13 @@ logoliste - vortaro
 loka - lokigi  
 loke - loko  
 loki - loka  
+long kata - romano  
 longa - longigi  
 longi - longa  
 lorencium - laŭrencio  
 lova - liki  
 lova sang - sangi  
 lugi - verda  
-luku me den - sabato  
 lul - perlo  
 lun - monato  
 lune - luno  
@@ -1279,10 +1278,10 @@ onde - ondo
 Onduras - Honduro  
 onor - honoro (respekto)  
 onori - respektinda  
-or - orelo  
 oranje - oranĝo  
 oranji - oranĝa  
-oritis - otito  
+ore - orelo  
+ore flame - otito  
 orti - rekta  
 osmium - osmio  
 osmos - osmozo  
@@ -1335,7 +1334,6 @@ pelpel - papilio
 penis - peniso  
 penta - kvin (5)  
 penta - pentri  
-penta me den - vendredo  
 pente - pentri  
 per - plumo  
 peri - feo  
@@ -1527,7 +1525,6 @@ serebre - cerbo
 serpe - serpento  
 ses - unu la alian  
 sete - sep (7)  
-sete me den - dimanĉosunnuntai  
 shake - branĉo  
 shal - koltuko  
 sham - vespero  
@@ -1706,7 +1703,6 @@ trater - traktoro
 tren - trajno (vagonaro)  
 trendau - fervojo  
 tri - tri (3)  
-tri me den - merredo  
 tribe - tribo  
 tu - vi (ci)  
 tu di - via (cia)  
@@ -1726,7 +1722,6 @@ Turkia - Turkio
 ####U - U  
 uma - ĉevalo  
 un - unu (1)  
-un me den - luno  
 unal - unu la alian (reciproke)  
 unali - reciproka  
 unemistia - monismo  
@@ -1740,14 +1735,23 @@ urse - urso
 use - uzi  
 va - al (ĝis, por)  
 va - ŭaŭ!  
-vade - valo  
 vaf - hundo  
-vagine - vagino  
-vaginitis - vaginito  
+vagina - vagino  
+vagina flame - vaginito  
 val - valoro  
+vali - valo  
 van - amuzo  
 vana - amuzi  
 vani - amuza  
+var - semajntago  
+var chatre - ĵaŭdo  
+var du - mardo  
+var luku - sabato  
+var penta - vendredo  
+var sete - dimanĉosunnuntai  
+var tri - merredo  
+var un - luno  
+var var - semajno  
 varkolate - paĝo  
 vase - oazo  
 vasha - lavi  
@@ -1808,7 +1812,6 @@ yodem - jodo
 yoga - jogo  
 yoke - jugo  
 yom - tago (periodo de 24 horoj)  
-yomchete - semajno  
 yumor - humuro  
 yumori - humura  
 yumoriste - humuristo  
@@ -1837,7 +1840,7 @@ zinke - zinko
 zire - kumino  
 zirkonium - zirkonio  
 zoko - ankoraŭ  
-zon - zono  
+zona - zono  
 zou - besto  
 zou kata - bestofabelo  
 zou logi - zoologio  
@@ -1847,6 +1850,6 @@ zuke - etno
 zuki - etna  
 zukomedi - interetna  
 Zulu - zuluo  
-zumurude - smeraldo  
+zumarda - smeraldo  
  - scio  
  - pluva  

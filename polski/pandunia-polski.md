@@ -265,7 +265,6 @@ bata - kaczka
 bata krote - dziobak  
 bateri - bateria  
 bato - osiem (8)  
-bato me mes - listopad  
 baton - pręt, kij  
 baton kapse - klatka  
 baton pan - bagietka  
@@ -451,8 +450,6 @@ chargon - kwadrat (czworokąt, czworobok, tetragon)
 charme - czar (urok, wdzięk)  
 chate - dach  
 chatre - cztery (4)  
-chatre me den - czwartek  
-chatre me mes - lipiec  
 chau - trawa  
 chavistan - łąka  
 chehia - Republika Czeska, Czechy  
@@ -588,10 +585,7 @@ den - dzień
 den yam - obiad, lunch  
 deng - czekać  
 des - dziesięć (10)  
-des du me mes - kwiecień  
 des kilo - dziesięć tysięcy  
-des me lun - luty  
-des un me lun - marzec  
 desen - rysunek, obraz  
 desha - kraj, ziemia  
 desha jan - obywatel  
@@ -661,8 +655,6 @@ dramironia - ironia dramatyczna
 droge - narkotyk  
 Drugia - Bhutan  
 du - dwa (2)  
-du me den - wtorek  
-du me mes - maj  
 dubnium - dubn  
 duga - czytać  
 duka - zasmucić (zasmucać)  
@@ -878,6 +870,7 @@ fityamiste - wegetarianin
 fizike - fizyka  
 fiziker - fizyka  
 fizikia - fizyk  
+flame - zapalenie  
 fleche - strzała (bełt)  
 flecher - wytwórca łuków i strzał  
 flerovium - flerow  
@@ -1286,7 +1279,6 @@ islamu - poddać się, poddawać się, podporządkować się, podporządkowywać
 Islandia - Islandia  
 Israel - Izrael  
 Italia - Italia, Włochy  
-itis - zapalenie  
 iyon - jon  
 iyoni radi - radioaktywny  
 iyoni radia - radioaktywność  
@@ -1439,8 +1431,8 @@ kanape - sofa, kanapa
 kanche - szkło  
 kanchodaka - szklić (glazurować)  
 kanchodake - glazura (emalia)  
-kande - cukierek, słodycze  
-kandel - kandela  
+kandela - kandela  
+kandi - cukierek, słodycze  
 kang - grzebień  
 kangaru* - kangur  
 kanjar - sztylet (puginał)  
@@ -1640,13 +1632,13 @@ kornomelon - ogórek kiwano
 kornonos - nosorożec  
 koron - korona  
 koronvirus - koronawirus  
-korta - skrócić, skracać  
-korti - krótki  
-kortokrokodil - aligator  
-kose - kaszel; kaszlnięcie  
+korte - krótki  
+korte fa - skrócić, skracać  
+korte krokodil - aligator  
 kosmi - kosmiczny  
 kosmia - kosmos, wszechświat  
 kosmonaver - kosmonauta  
+koso - kaszel; kaszlnięcie  
 Kosovo - Kosowo  
 kosta - kosztować  
 Kosta Rika - Kostaryka  
@@ -1856,8 +1848,6 @@ lugi - zielony
 lugomelon - melon miodowy  
 Luksemburge - Luksemburg  
 luku - sześć (6)  
-luku me den - sobota  
-luku me mes - wrzesień  
 lul - perła  
 lun - miesiąc  
 lune - księżyc  
@@ -2007,11 +1997,23 @@ membin - pomnik (memoriał)
 meme - owca  
 meme kesh - wełna (runo owcze)  
 memnote - notatka, memo  
-mening - opona mózgowa  
-meningitis - zapalenie opon mózgowych  
+meninge - opona mózgowa  
+meninge flame - zapalenie opon mózgowych  
 menter - doradca (mentor)  
 merante - damarzyk (meranti)  
 Merkur - Merkury  
+mes bato - listopad  
+mes chatre - lipiec  
+mes des - luty  
+mes des du - kwiecień  
+mes des un - marzec  
+mes du - maj  
+mes luku - wrzesień  
+mes penta - sierpień  
+mes sete - październik  
+mes tisa - grudzień  
+mes tri - czerwiec  
+mes un - styczeń  
 Meshiko - Meksyk  
 Meshiko site - Meksyk  
 mesi - Chrystus, mesjasz  
@@ -2204,7 +2206,7 @@ nazistia - nazizm
 Nederlandi Antil - Antyle Holenderskie  
 Nederlandia - Holandia (Królestwo Niderlandów)  
 nefre - nerka  
-nefritis - zapalenie nerek  
+nefre flame - zapalenie nerek  
 nefte - olej  
 neftoguke - złocień indyjski  
 nega - odmówić (odrzucić)  
@@ -2322,12 +2324,12 @@ onde - fala
 Onduras - Honduras  
 onor - respekt, honor, szacunek, poważanie  
 onori - honorowy  
-or - ucho  
 ora - słuchać  
 oranje - pomarańcza  
 oranji - pomarańczowy  
+ore - ucho  
+ore flame - zapalenie ucha  
 orgazme - orgazm  
-oritis - zapalenie ucha  
 orkide - storczyk (orchidea)  
 oromi - oromo  
 Oromia - Oromia  
@@ -2456,8 +2458,6 @@ pendokardon - oset zwisły
 penis - penis  
 penta - pięć (5)  
 penta - namalować, malować  
-penta me den - piątek  
-penta me mes - sierpień  
 pente - namalować, malować  
 penter - malarz  
 per - pióro  
@@ -2890,8 +2890,6 @@ server - sługa
 sesam - sezam  
 Seshel nesia - Seszele  
 sete - siedem (7)  
-sete me den - niedziela  
-sete me mes - październik  
 shakal - szakal  
 shake - gałąź, konar  
 shal - szal, szalik  
@@ -3243,7 +3241,6 @@ tirlonga - rozciągać (rozciągnąć)
 tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirsanduke - szuflada  
 tisa - dziewięć (9)  
-tisa me mes - grudzień  
 titanium - tytan  
 tocha - dotyczyć  
 Togo - Togo  
@@ -3270,8 +3267,6 @@ trenkaper - porywacz pociągu
 treta - zgodzić się (umówić się)  
 trete - porozumienie  
 tri - trzy (3)  
-tri me den - środa  
-tri me mes - czerwiec  
 tribe - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
 truka - oszukać (oszukiwać  
@@ -3307,8 +3302,6 @@ ulula - wyć
 uma - koń  
 umami - mięsny (umami)  
 un - jeden (1)  
-un me den - poniedziałek  
-un me mes - styczeń  
 una - jednoczyć  
 unal - się (nawzajem, wzajemnie)  
 unali - wzajemny  
@@ -3339,14 +3332,14 @@ Uzbekia - Uzbekistan
 va - do, dopóki, dla  
 va - wow!, łoł!, jej!  
 vacin - szczepionka  
-vade - dolina  
-vadosusan - konwalia majowa  
 vaf - pies  
-vagine - wagina  
-vaginitis - zapalenie pochwy  
+vagina - wagina  
+vagina flame - zapalenie pochwy  
 vakil - reprezentant (przedstawiciel)  
 vakila - reprezentować  
 val - wartość  
+vali - dolina  
+vali susan - konwalia majowa  
 Valis e Futuna nesia - Saint Vincent i Grenadyny  
 vampir - wampir  
 vampirbalsenter - wampirzyca piekielna (wampirnica)  
@@ -3357,6 +3350,14 @@ vani - zabawny
 vanil - wanilia  
 vanu - cieszyć się (zażywać, bawić się)  
 Vanuatu - Vanuatu  
+var chatre - czwartek  
+var du - wtorek  
+var luku - sobota  
+var penta - piątek  
+var sete - niedziela  
+var tri - środa  
+var un - poniedziałek  
+var var - tydzień  
 varis - spadek, dziedzictwo, spuścizna, zapis  
 varkalge - listownicowiec  
 varke - kartka (dokument)  
@@ -3481,7 +3482,6 @@ yoga - joga
 yoga ja - jogin (joginka)  
 Yohan festa - dzień świętego Jana  
 yoke - jarzmo  
-yomchete - tydzień  
 yongopetre - lawa  
 yongosaha - topić (upłynnić, upłynniać)  
 yongu - topnieć (upłynniać się)  
@@ -3531,7 +3531,7 @@ zoki - ciągły (analogowy)
 zoko - wciąż, nadal  
 zoku - kontynuować; wznawiać, ponawiać  
 zombi - zombie, zombi  
-zon - pas, strefa  
+zona - pas, strefa  
 zong - słup (pal, kołek)  
 zongominte - mięta zielona (mięta kłosowa)  
 zou - animal  
@@ -3545,7 +3545,7 @@ zuke - grupa etniczna
 zuki - etniczny  
 zukomedi - międzyetniczny  
 Zulu - zulu  
-zumurude - szmaragd  
+zumarda - szmaragd  
  - śnieżyć (padać)  
  - poprawny (wykonalny)  
  - wiedza  

@@ -40,7 +40,7 @@ alga - alge
 algodão - goton  
 alho - lasun  
 alho-porro - porei  
-aligátor (jacaré) - kortokrokodil  
+aligátor (jacaré) - korte krokodil  
 almirante - hayamirer  
 altar - puja meza  
 alterar - ala  
@@ -146,6 +146,7 @@ bola - bol
 bolo lunar - lunokeke  
 bom - boni  
 bomba - bombe  
+bombom (doce) - kandi  
 bombordo - naulefte  
 borboleta - pelpel  
 bota - bute  
@@ -270,6 +271,7 @@ considerar - hema
 construir - bina  
 consultor - konseler  
 conta - hisabu loge  
+conto - korte kata  
 conto de fadas - peri kata  
 contêiner - inan  
 copo (taça) - kupe  
@@ -344,7 +346,7 @@ dióxido de carbono - karbodulokside
 documento - dokum  
 documentário - dokumfilme  
 dois (2) - du  
-domingo - sete me den  
+domingo - var sete  
 doméstico - domi  
 dormir - somu  
 ducha - dush  
@@ -394,7 +396,7 @@ escudo - ostoshalke
 escultor - eskulter  
 esfarrapado - chirchiri  
 eslavo - Slave  
-esmeralda - zumurude  
+esmeralda - zumarda  
 espada - katane  
 espaço - kali harfi  
 espetador - speter  
@@ -560,7 +562,7 @@ indígena (índio) - aslameriki
 infectar (contagiar) - patomisa  
 infecção (contágio) - patomis  
 infiel - andiniste  
-inflamaçao - itis  
+inflamaçao - flame  
 inimigo - dusjan  
 inquisitivo - savovolani  
 inseto - konchung  
@@ -643,7 +645,7 @@ língua (idioma) - basha
 língua - lisan  
 língua materna - jeni bash  
 lírio - susan  
-lírio-do-vale - vadosusan  
+lírio-do-vale - vali susan  
 ####M - M  
 macroalga - hayalge  
 madrasta - vismai  
@@ -684,7 +686,7 @@ meloa (cantalupo) - kantalupomelon
 melão - melon  
 melão coreano - aromomelon  
 memória - mem  
-meninge - mening  
+meninge - meninge  
 menosprezar (subestimar) - minraya  
 mensagem - anjil  
 meranti - merante  
@@ -792,7 +794,7 @@ opinião - rai
 opor - shata  
 opção - chuzable  
 ordem - ratibe  
-orelha - or  
+orelha - ore  
 orfanato - yatimdom  
 organismo - bio vute  
 organizar - noma  
@@ -800,7 +802,7 @@ origem - asle
 original - asli  
 orquídea - orkide  
 ortogonal - ortogoni  
-otite - oritis  
+otite - ore flame  
 ou - o  
 ouro - aure  
 outono - padomosim  
@@ -879,6 +881,7 @@ pirâmida - piram
 plano - plan  
 planta (vegetal) - fite  
 plástico - plasti  
+pneumonia  - pulmon flame  
 Polinésia - Polnesia  
 poluição - najis  
 polvo - batosenter  
@@ -924,7 +927,7 @@ pão - pang
 pícea (espruce) - pise  
 quadrinhos (banda desenhada) - grafi kata  
 quando - ke sate  
-quarta-feira - tri me den  
+quarta-feira - var tri  
 quarto (dormitório) - somkamar  
 quartzo - kuarze  
 quatro (4) - chatre  
@@ -941,7 +944,7 @@ questão (pergunta) - sual
 quiabo - bamye  
 quimono - kimono*  
 quincã (cunquate) - kankuate  
-quinta-feira - chatre me den  
+quinta-feira - var chatre  
 quivi - kivi*  
 química - kimlojia  
 ####R - R  
@@ -985,6 +988,7 @@ rocha (pedra) - petre
 rock - rokomuzike  
 roda - chakre  
 Roma - Roma  
+romance - long kata  
 rosa - roze  
 roupa (vestidura) - fuke  
 rubi - lalbausheke  
@@ -1017,7 +1021,7 @@ se - se
 seabórgio - siborgium  
 seda - silke  
 sede - suiyau  
-segunda-feira - un me den  
+segunda-feira - var un  
 seguro - sekuri  
 seio (mama) - mam  
 seis (6) - luku  
@@ -1034,7 +1038,7 @@ serra - sere
 sete (7) - sete  
 sexo - jinse  
 sexologia - sekselogi  
-sexta-feira - penta me den  
+sexta-feira - var penta  
 sim - ye  
 simetria - sammetre  
 simulação - samsifia  
@@ -1057,7 +1061,7 @@ suor - suede
 superestimar (sobrestimar) - mashraya  
 suástica (cruz gamada) - huke krus  
 Suíça - Suice  
-sábado - luku me den  
+sábado - var luku  
 São Paulo - Santi Paulo  
 série (sequência) - silia  
 só (solitário) - unjani  
@@ -1086,7 +1090,7 @@ terra natal - jenistan
 terracota - bekofan  
 terraplanista - platogeyiste  
 terreno - geo forme  
-terça-feira - du me den  
+terça-feira - var du  
 teste - teste  
 tigre - bagre  
 tijolo - dobe  
@@ -1132,9 +1136,9 @@ Urano - Uran
 urra - ura  
 urso - urse  
 usar - aplika  
-vagina - vagine  
-vaginite - vaginitis  
-vale (uadi) - vade  
+vagina - vagina  
+vaginite - vagina flame  
+vale (uadi) - vali  
 valer - valu  
 valor (valia) - val  
 valorar - vala  
@@ -1184,7 +1188,7 @@ véu - hijabu
 ####X - X  
 ####Z - Z  
 zebra - zebre  
-zona - zon  
+zona - zona  
 zoologia - zou logi  
 zoológico - zou logi di  
 zoológico - zou parke  

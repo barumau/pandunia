@@ -51,7 +51,7 @@ algues brunes - brunalge
 Algérie - Jayeria  
 aller (quitter) - kita  
 Aller-retour - retrotikete  
-alligator - kortokrokodil  
+alligator - korte krokodil  
 allophone - alofon  
 allô - halo  
 alphabet - harfi harfi  
@@ -92,7 +92,7 @@ Antigua-et-Barbuda - Antigua e Barbuda
 antimoine - estibium  
 antonyme - annam  
 anus - anus  
-août - bato me mes  
+août - mes bato  
 appartenir à - malu  
 application - aplike  
 appliquer - aplika  
@@ -230,6 +230,7 @@ bloquer - bare
 blé - ganum  
 bombe - bombe  
 bon - boni  
+bonbon - kandi  
 bord (rive) - tate  
 botanique - fitolojia  
 botte - bute  
@@ -447,7 +448,7 @@ diamant - almas
 dieu - deu  
 différence - alosfia  
 différent - alosifi  
-dimanche - sete me den  
+dimanche - var sete  
 dinde (dindon) - dinde  
 diorite - diorite  
 dioxyde de carbone - karbodulokside  
@@ -689,7 +690,7 @@ Indus - Hindu riu
 infecter - patomisa  
 infection (contagion) - patomis  
 infidèle (incroyant) - andiniste  
-inflammation - itis  
+inflammation - flame  
 insecte - konchung  
 insomnie - ansomia  
 international - nasmedi  
@@ -707,7 +708,7 @@ jarre (carafe, cruche) - jar
 jaïnisme - jeinistia  
 je (me) - mi  
 jeu de société - bangem  
-jeudi - chatre me den  
+jeudi - var chatre  
 jeune (juvénile) - joveni  
 joug - yoke  
 joule (J) - jul  
@@ -779,7 +780,7 @@ loup - volfe
 lourd - vezi  
 loutre - lontre  
 lumière - foto  
-lundi - un me den  
+lundi - var un  
 lune - lune  
 luthéranisme - martinluteristia  
 luthérien - martinluteristi  
@@ -806,7 +807,7 @@ mantra - mantre
 marbre - kalsokristal  
 marche - marche  
 marché (bazar) - bazar  
-mardi - du me den  
+mardi - var du  
 margay (chat-tigre) - margai  
 marguerite - bakomargarite  
 mariage - gamia  
@@ -827,7 +828,7 @@ Menthe aquatique - suiminte
 menthe poivrée - piprominte  
 menthe verte - zongominte  
 mer - hai  
-mercredi - tri me den  
+mercredi - var tri  
 Mercure - Merkur  
 merde - shite  
 merveille - ajabe  
@@ -877,7 +878,7 @@ mètre - mitre
 méduse - haijel  
 méfait (péché) - duskar  
 mémoire - mem  
-méninge - mening  
+méninge - meninge  
 métaux lourds - bara metal  
 ####N - N  
 nagar (flotter) - boyu  
@@ -906,6 +907,7 @@ nous - mimen
 nouveau - nevi  
 nouveau-né - neujeni  
 nouveauté - nevia  
+nouvelle (récit court) - korte kata  
 nuage - mege  
 nylon - nilon  
 nécessaire - yavan  
@@ -947,7 +949,7 @@ ordinateur - komputer
 ordinateur tablette - tablokomputer  
 ordre - ratibe  
 ordures - laje  
-oreille - or  
+oreille - ore  
 organiser - noma  
 organisme - bio vute  
 orge - jau  
@@ -955,7 +957,7 @@ origine - asle
 originel - asli  
 orphelinat - yatimdom  
 orthogonal - ortogoni  
-otite - oritis  
+otite - ore flame  
 ou - o  
 ouah - va  
 oublier - anmema  
@@ -1052,6 +1054,7 @@ plume - kalam
 plurilingue (multilingue) - polbashi  
 plus - mash (masho)  
 pluvieux -   
+pneumonie - pulmon flame  
 pocion - medikosui  
 podzol - huidarte  
 poids (lourdeur, gravité) - vezia  
@@ -1157,6 +1160,7 @@ robot - robote
 roche (pierre) - petre  
 rocher - daisheke  
 rock - rokomuzike  
+roman - long kata  
 Rome - Roma  
 rose - roze  
 rosée - rose  
@@ -1184,7 +1188,7 @@ saison - mosim
 salle de bains - banyokamar  
 salle de classe - shulkamar  
 salut (salam) - salame  
-samedi - luku me den  
+samedi - var luku  
 Samoa américaines - Ameriki Samoa  
 sandwich - sanduiche  
 sang - sang  
@@ -1342,17 +1346,17 @@ uniquement - uniko
 universel - unversi  
 uranium - uranium  
 Uranus - Uran  
-vagine - vagine  
-vaginite - vaginitis  
+vagine - vagina  
+vaginite - vagina flame  
 vaisseau spatial - kosmonau  
 valeur - val  
-vallée (oued) - vade  
+vallée (oued) - vali  
 vampire - vampir  
 vampire des abysses - vampirbalsenter  
 vapeur d’eau - suigas  
 varech - varkalge  
 vendre - venda  
-vendredi - penta me den  
+vendredi - var penta  
 Venezuela - Venezuela  
 venir - laya  
 ver - verme  
@@ -1405,7 +1409,7 @@ y compris - inkluso
 Yahweh (Jéhovah) - Yahve  
 ####Z - Z  
 zombi - zombi  
-zone - zon  
+zone - zona  
 zoo - zou parke  
 zoologie - zou logi  
 zoologique - zou logi di  
@@ -1435,7 +1439,7 @@ zèbre - zebre
 éloge - euloge  
 élément (unité fondamentale) - em  
 élément chimique - kimem  
-émeraude - zumurude  
+émeraude - zumarda  
 émir - amir ja  
 émirat - amiria  
 émoticône (emoji) - emoje  

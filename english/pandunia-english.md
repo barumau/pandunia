@@ -307,7 +307,6 @@ bata - duck
 bata krote - platypus  
 bateri - battery  
 bato - eight (8)  
-bato me mes - August  
 baton - bar (pole, rod, shaft, staff, stick)  
 baton kapse - cage  
 baton pan - baguette  
@@ -507,8 +506,6 @@ charme - charm (attraction)
 chate - roof  
 chatre - four (4)  
 chatre di galope - gallop  
-chatre me den - Thursday  
-chatre me mes - April  
 chau - grass  
 chavistan - grassland (prairie)  
 chehia - Czech Republic  
@@ -656,10 +653,7 @@ den - day (daytime)
 den yam - lunch  
 deng - wait  
 des - ten (10)  
-des du me mes - December  
 des kilo - ten thousand  
-des me lun - October  
-des un me lun - November  
 desen - drawing (design)  
 desha - country (land, state)  
 desha jan - citizen  
@@ -732,8 +726,6 @@ dramironia - dramatic irony
 droge - drug (intoxicating substance)  
 Drugia - Bhutan  
 du - two (2)  
-du me den - Tuesday  
-du me mes - February  
 dubnium - dubnium  
 duga - read  
 duka - sadden (make sad)  
@@ -993,6 +985,7 @@ fityamiste - vegetarian
 fizike - physics  
 fiziker - physicist  
 fizikia - physics (science)  
+flame - inflammation (-itis)  
 fleche - arrow (bolt)  
 flecher - fletcher  
 flerovium - flerovium  
@@ -1474,7 +1467,6 @@ Israel - Israel
 istan - tract (land, ground, region)  
 Italia - Italy  
 ite - object (patient, target)  
-itis - inflammation (-itis)  
 iyon - ion  
 iyoni radi - radioactive  
 iyoni radia - radioactivity (ionizing radiation)  
@@ -1641,8 +1633,8 @@ kanape - sofa (couch)
 kanche - glass  
 kanchodaka - glaze (vitrify)  
 kanchodake - glazing (enamel)  
-kande - candy (sweets)  
-kandel - candela  
+kandela - candela  
+kandi - candy (sweets)  
 kang - comb  
 kangaru* - kangaroo  
 kanjar - dagger  
@@ -1862,15 +1854,16 @@ kornomelon - horned melon (kiwano)
 kornonos - rhinoceros  
 koron - crown  
 koronvirus - corona virus  
-korta - shorten  
-korti - short (brief)  
-kortokrokodil - alligator  
-kose - cough  
+korte - short (brief)  
+korte fa - shorten  
+korte kata - short story  
+korte krokodil - alligator  
 kosmi - cosmic  
 kosmia - space (cosmos, universe)  
 kosmobiyolojia - astrobiology  
 kosmonau - spaceship  
 kosmonaver - cosmonaut  
+koso - cough  
 Kosovo - Kosovo  
 kosta - cost  
 Kosta Rika - Costa Rica  
@@ -2073,6 +2066,7 @@ lon - discussion (debate, discourse)
 lona - debate (discuss)  
 lona biznes - negotiate (arrange)  
 London - London  
+long kata - novel  
 longa - lengthen (prolong)  
 longi - long (lengthy)  
 longia - length  
@@ -2090,8 +2084,6 @@ lugi - green
 lugomelon - honeydew (green melon)  
 Luksemburge - Luxembourg  
 luku - six (6)  
-luku me den - Saturday  
-luku me mes - June  
 lul - pearl  
 lun - month  
 lune - moon  
@@ -2254,11 +2246,23 @@ meme - sheep
 meme kesh - wool (fleece)  
 memnote - memorandum (memo)  
 men - one (you, they, impersonal pronoun)  
-mening - meninx (meninges)  
-meningitis - meningitis  
+meninge - meninx (meninges)  
+meninge flame - meningitis  
 menter - advisor (counselor, mentor)  
 merante - lauan tree (meranti, balau)  
 Merkur - Mercury  
+mes bato - August  
+mes chatre - April  
+mes des - October  
+mes des du - December  
+mes des un - November  
+mes du - February  
+mes luku - June  
+mes penta - May  
+mes sete - July  
+mes tisa - September  
+mes tri - March  
+mes un - January  
 Meshiko - Mexico  
 Meshiko site - Mexico City  
 mesi - Christ (messiah)  
@@ -2472,7 +2476,7 @@ ne - none
 Nederlandi Antil - Netherlands Antilles  
 Nederlandia - Netherlands  
 nefre - kidney  
-nefritis - nephritis  
+nefre flame - nephritis  
 nefte - oil  
 neftoguke - Indian chrysanthemum  
 nega - refuse (deny, decline)  
@@ -2600,12 +2604,12 @@ Onduras - Honduras
 onor - respect (honor, esteem)  
 onora - respect (honor, think highly of)  
 onori - honorable (respectable)  
-or - ear  
 ora - listen  
 oranje - orange (fruit)  
 oranji - orange (orange-colored)  
+ore - ear  
+ore flame - otitis  
 orgazme - orgasm  
-oritis - otitis  
 orkide - orchid  
 oromi - Oromo (an Ethiopian ethnic group and language)  
 Oromia - Oromia  
@@ -2750,8 +2754,6 @@ pendokardon - musk thistle
 penis - penis (phallus)  
 penta - five (5)  
 penta - paint (cover in paint)  
-penta me den - Friday  
-penta me mes - May  
 pente - paint  
 penter - painter  
 per - feather  
@@ -2914,6 +2916,7 @@ puja meza - altar
 puja rite - ritual (ceremony, religious custom)  
 pul - bridge  
 pulmon - lung  
+pulmon flame - pneumonia  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 puntoban - scoreboard  
@@ -3222,8 +3225,6 @@ ses - each other (one another)
 sesam - sesame  
 Seshel nesia - Seychelles  
 sete - seven (7)  
-sete me den - Sunday  
-sete me mes - July  
 shakal - jackal  
 shake - branch (bough)  
 shal - scarf (shawl)  
@@ -3596,7 +3597,6 @@ tirlonga - stretch (extend)
 tiroriu - rip current  
 tirsanduke - drawer  
 tisa - nine (9)  
-tisa me mes - September  
 Titan - Titan  
 Titania - Titania  
 titanium - titanem  
@@ -3628,8 +3628,6 @@ trenkaper - train hijacker
 treta - agree (make an agreement)  
 trete - agreement (treaty)  
 tri - three (3)  
-tri me den - Wednesday  
-tri me mes - March  
 tribe - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
@@ -3669,8 +3667,6 @@ uma - horse
 umami - savory (umami)  
 Umbriel - Umbriel  
 un - one (1)  
-un me den - Monday  
-un me mes - January  
 una - unite  
 unal - each other (one another, mutually)  
 unali - mutual  
@@ -3705,15 +3701,15 @@ Uzbekia - Uzbekistan
 va - to (toward, till, until, for)  
 va - wow! (gee!)  
 vacin - vaccine  
-vade - valley  
-vadosusan - lily of the valley  
 vaf - dog  
-vagine - vagina  
-vaginitis - vaginitis  
+vagina - vagina  
+vagina flame - vaginitis  
 vakil - representative (proxy, agent)  
 vakila - represent  
 val - value (worth)  
 vala - value (evaluate)  
+vali - valley  
+vali susan - lily of the valley  
 Valis e Futuna nesia - Wallis and Futuna Islands  
 valu - be worth  
 vampir - vampire  
@@ -3725,6 +3721,15 @@ vani - funny (amusing)
 vanil - vanilla  
 vanu - enjoy (play)  
 Vanuatu - Vanuatu  
+var - day of the week  
+var chatre - Thursday  
+var du - Tuesday  
+var luku - Saturday  
+var penta - Friday  
+var sete - Sunday  
+var tri - Wednesday  
+var un - Monday  
+var var - week  
 varis - heritage (legacy, bequest)  
 varkalge - kelp  
 varke - leaf (sheet)  
@@ -3871,7 +3876,6 @@ yoga ja - yogi
 Yohan festa - Saint John's Day  
 yoke - yoke  
 yom - day (24 hours)  
-yomchete - week  
 yongopetre - lava  
 yongosaha - smelt  
 yongu - melt (be liquified)  
@@ -3928,7 +3932,7 @@ zoki - continuous (analog)
 zoko - still (yet, continuously)  
 zoku - continue (go on, keep on)  
 zombi - zombie  
-zon - belt (zone)  
+zona - belt (zone)  
 zong - post (stake, peg, skewer)  
 zongominte - spearmint  
 zou - animal  
@@ -3945,7 +3949,7 @@ zuke - ethnic group
 zuki - ethnic  
 zukomedi - interethnic  
 Zulu - Zulu  
-zumurude - emerald  
+zumarda - emerald  
  - snow (be snowing)  
  - valid (workable)  
  - knowledge  

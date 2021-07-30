@@ -94,7 +94,6 @@ basi - 十分
 bata - 鴨  
 bateri - バッテリー  
 bato - 八 (8)  
-bato me mes - ８月  
 baton kapse - 檻 (篭, ケージ)  
 batosenter - タコ  
 bau sheke - 宝石  
@@ -159,8 +158,6 @@ chakre - 車輪
 chamache - スプーン  
 chante grupe - 合唱団  
 chatre - 四 (4)  
-chatre me den - 木曜日  
-chatre me mes - ４月  
 chau - 草  
 chavistan - 草地  
 chendeno - 昨日  
@@ -206,10 +203,7 @@ demon - 悪魔
 den - 昼  
 den yam - 昼食  
 des - 十 (１０)  
-des du me mes - １２月  
 des kilo - 万  
-des me lun - １０月  
-des un me lun - １１月  
 desha jan - 市民  
 deu - 神  
 deu kata - 神話  
@@ -238,8 +232,6 @@ dosili - 温順 (素直)
 dosiljeni - 家畜  
 dosti - 優しい (好ましい, 親切)  
 du - 二 (2)  
-du me den - 火曜日  
-du me mes - ２月  
 duga - 読む  
 dunia - 世界  
 durabli - 持続的  
@@ -497,6 +489,7 @@ kamisi shake - 袖
 kan - 店 (館)  
 kanche - ガラス  
 kanchodake - 釉薬  
+kandi - キャンデー  
 kangaru* - カンガルー  
 kankuate - キンカン (キンキツ)  
 kano* - カヌー  
@@ -565,7 +558,8 @@ kope - コピー
 kora - 走る (疾走する)  
 koral - サンゴ  
 kornomelon - ツノニガウリ  
-kortokrokodil - アリゲーター  
+korte kata - 短編小説  
+korte krokodil - アリゲーター  
 kosmonau - 宇宙船  
 krake - 隙間 (ひび)  
 krem - クリーム  
@@ -643,6 +637,7 @@ logi - 研究 (科学, 学)
 logia - 語彙  
 loke - 場所  
 lona biznes - 話し合う (話を付ける)  
+long kata - 小説  
 longi - 長い  
 longokrokodil - クロコダイル  
 longopipre - 畢撥  
@@ -651,8 +646,6 @@ lova - 漏る
 lugi - 緑 (緑色)  
 lugomelon - ハネデューメロン  
 luku - 六 (6)  
-luku me den - 土曜日  
-luku me mes - ６月  
 lun - 月間  
 lung - 竜  
 lunokeke - 月餅  
@@ -700,6 +693,18 @@ melon - マスクメロン
 mem - 記憶  
 mema - 思い出す  
 membin - 追悼塔 (碑)  
+mes bato - ８月  
+mes chatre - ４月  
+mes des - １０月  
+mes des du - １２月  
+mes des un - １１月  
+mes du - ２月  
+mes luku - ６月  
+mes penta - ５月  
+mes sete - ７月  
+mes tisa - ９月  
+mes tri - ３月  
+mes un - １月  
 metal - 金属  
 metalbede - 金敷き (鉄床)  
 metallin - 線 (針金)  
@@ -828,8 +833,6 @@ peikari - プロフェッショナル
 peikari jiu - キャリア  
 pelpel - チョウ  
 penta - 五 (5)  
-penta me den - 金曜日  
-penta me mes - ５月  
 pente - 絵の具 (ペンキ)  
 penter - 画家 (絵かき)  
 perkardon - アメリカオニアザミ  
@@ -868,6 +871,7 @@ program - 次第 (計画, プログラム)
 projete - プロジェクト  
 pudu - 腐敗  
 puja kan - 神殿  
+pulmon flame - 肺炎  
 puma - ピューマ (クーガー)  
 puntoban - スコアボード  
 puntonumbe - 得点 (点数)  
@@ -953,8 +957,6 @@ sense - 感覚
 senter - 触手  
 serame - 陶器  
 sere - のこぎり  
-sete me den - 日曜日  
-sete me mes - ７月  
 shalke - うろこ  
 sham - 夕べ  
 sham yam - 夕食  
@@ -1077,7 +1079,6 @@ tirbaton - レバー (てこ)
 tirlonga - 伸びる (張る)  
 tiroriu - 離岸流  
 tisa - 九 (9)  
-tisa me mes - ９月  
 toksi - 毒  
 Tokyo - 東京  
 topograf - 地勢  
@@ -1085,8 +1086,6 @@ trater - トラクター
 tren - 電車 (列車)  
 trete - 合意  
 tri - 三 (3)  
-tri me den - 水曜日  
-tri me mes - ３月  
 truka - 騙す  
 truke - 悪戯 (詐欺)  
 tu - あなた  
@@ -1097,23 +1096,28 @@ tuze - うさぎ
 ####U - U  
 umami - 旨味  
 un - 一 (1)  
-un me den - 月曜日  
-un me mes - １月  
 uniki - 唯一の  
 uniko - だけ  
 unjani - 一人の (寂しい, ポツリ)  
 usable - 使用可能  
 va - わあ  
-vade - 谷  
-vadosusan - キミカゲソウ (スズラン)  
 vaf - 犬 (狗)  
-vagine - 膣 (ワギナ)  
+vagina - 膣 (ワギナ)  
 val - 価値  
+vali - 谷  
+vali susan - キミカゲソウ (スズラン)  
 vampir - 吸血鬼  
 vampirbalsenter - コウモリダコ  
 van - 楽しみ (娯楽)  
 vani - 楽しい  
 vanu - 遊ぶ  
+var chatre - 木曜日  
+var du - 火曜日  
+var luku - 土曜日  
+var penta - 金曜日  
+var sete - 日曜日  
+var tri - 水曜日  
+var un - 月曜日  
 varkalge - コンブ  
 varkolate - ページ (面)  
 vase - オアシス  

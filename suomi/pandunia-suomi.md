@@ -284,7 +284,6 @@ bata - sorsa (ankka)
 bata krote - vesinokkaeläin  
 bateri - akku (paristo)  
 bato - kahdeksan (8)  
-bato me mes - elokuu  
 baton - tanko (sauva, patukka)  
 baton kapse - häkki  
 baton pan - patonki (ranskanleipä)  
@@ -472,8 +471,6 @@ charme - vetovoima (šarmi)
 chate - katto (katos)  
 chatre - neljä (4)  
 chatre di galope - neli (kiitolaukka)  
-chatre me den - torstai  
-chatre me mes - huhtikuu  
 chau - ruoho  
 chavistan - ruohotasanko  
 chehia - Tšekki  
@@ -612,10 +609,7 @@ den - päivä
 den yam - lounas  
 deng - odottaa  
 des - kymmenen (10)  
-des du me mes - joulukuu  
 des kilo - sata tuhatta  
-des me lun - lokakuu  
-des un me lun - marraskuu  
 desen - piirustus  
 desha - maa (valtio)  
 desha jan - kansalainen (valtion asukas)  
@@ -683,8 +677,6 @@ drame - draama
 droge - huume  
 Drugia - Bhutan  
 du - kaksi (2)  
-du me den - tiistai  
-du me mes - helmikuu  
 dubnium - dubnium  
 duga - lukea  
 duka - surettaa  
@@ -933,6 +925,7 @@ fityamiste - kasvissyöjä
 fizike - fysiikka  
 fiziker - fyysikko  
 fizikia - fysiikka  
+flame - tulehdus  
 fleche - nuoli  
 flerovium - flerovium  
 flur - fluori  
@@ -1365,7 +1358,6 @@ Islandia - Islanti
 Israel - Israel  
 istan - alue (seutu)  
 Italia - Italia  
-itis - tulehdus  
 iyon - ioni  
 iyoni radi - radioaktiivinen  
 iyoni radia - radioaktiivisuus  
@@ -1506,8 +1498,8 @@ Kanada - Kanada
 kanal - kanava (kanaali)  
 kanape - sohva  
 kanche - lasi  
-kande - makeinen (karkki, karamelli)  
-kandel - kandela  
+kandela - kandela  
+kandi - makeinen (karkki, namu)  
 kang - kampa  
 kangaru* - kenguru  
 kanjar - tikari  
@@ -1700,14 +1692,15 @@ korne - sarvi
 kornonos - sarvikuono  
 koron - kruunu  
 koronvirus - koronavirus  
-korta - lyhentää  
-korti - lyhyt  
-kose - yskä  
+korte - lyhyt  
+korte fa - lyhentää  
+korte kata - novelli  
 kosmi - kosminen  
 kosmia - avaruus (kosmos)  
 kosmobiyolojia - astrobiologia  
 kosmonau - avaruusalus  
 kosmonaver - avaruusmatkaaja (kosmonautti)  
+koso - yskä  
 Kosovo - Kosovo  
 kosta - maksaa (olla hintana)  
 Kosta Rika - Costa Rica  
@@ -1867,6 +1860,7 @@ loki - paikallinen
 loku - sijaita  
 lon - väittely (debatti)  
 lona - keskustelu (debatti)  
+long kata - romaani  
 longa - pidentää  
 longi - pitkä  
 longia - pituus  
@@ -1881,8 +1875,6 @@ lova sang - vuotaa verta
 lugi - vihreä  
 Luksemburge - Luxemburg  
 luku - kuusi (6)  
-luku me den - lauantai  
-luku me mes - kesäkuu  
 lul - helmi  
 lun - kuukausi  
 lune - kuu  
@@ -2021,10 +2013,22 @@ memba - kuulua (olla jäsenenä)
 member - jäsen (osatekijä, komponentti)  
 meme - lammas  
 memnote - muistio (muistiinmerkintä)  
-mening - aivokalvo  
-meningitis - aivokalvontulehdus  
+meninge - aivokalvo  
+meninge flame - aivokalvontulehdus  
 menter - neuvontantaja (mentori)  
 Merkur - Merkurius  
+mes bato - elokuu  
+mes chatre - huhtikuu  
+mes des - lokakuu  
+mes des du - joulukuu  
+mes des un - marraskuu  
+mes du - helmikuu  
+mes luku - kesäkuu  
+mes penta - toukokuu  
+mes sete - heinäkuu  
+mes tisa - syyskuu  
+mes tri - maaliskuu  
+mes un - tammikuu  
 Meshiko - Meksiko  
 mesi - kristus (messias)  
 mesi din - kristinusko  
@@ -2206,7 +2210,7 @@ ne - ei mitään
 Nederlandi Antil - Alankomaiden Antillit  
 Nederlandia - Alankomaat (Hollanti)  
 nefre - munuainen  
-nefritis - munuaistulehdus (nefriitti)  
+nefre flame - munuaistulehdus (nefriitti)  
 nega - kieltää  
 nen - vuosi  
 nenfeste - vuosijuhla  
@@ -2319,12 +2323,12 @@ Onduras - Honduras
 onor - kunnioitus (arvostus)  
 onora - kunnioittaa  
 onori - kunnianarvoisa  
-or - korva  
 ora - kuunnella  
 oranje - appelsiini  
 oranji - oranssi  
+ore - korva  
+ore flame - korvatulehdus  
 orgazme - orgasmi  
-oritis - korvatulehdus  
 oromi - oromo (etiopialainen kansa ja kieli)  
 Oromia - Oromia  
 orta - suoristaa (ojentaa)  
@@ -2447,8 +2451,6 @@ penda - roikuttaa
 penis - siitin (penis)  
 penta - viisi (5)  
 penta - maalata  
-penta me den - perjantai  
-penta me mes - toukokuu  
 pente - maalata  
 penter - maalari  
 per - sulka  
@@ -2591,6 +2593,7 @@ puja meza - alttari
 puja rite - rituaali (seremonia, riitti)  
 pul - silta  
 pulmon - keuhko  
+pulmon flame - keuhkokuume  
 punte - piste (täplä)  
 pupe - nukke  
 pura - täyttää  
@@ -2845,8 +2848,6 @@ ses - toisiaan (toinen toistaan)
 sesam - seesami  
 Seshel nesia - Seychellit  
 sete - seitsemän (7)  
-sete me den - niedziela  
-sete me mes - heinäkuu  
 shakal - šakaali  
 shake - oksa (haara)  
 shal - huivi (šaali)  
@@ -3147,7 +3148,6 @@ tira - vetää (kiskoa)
 tira milke - lypsää maitoa  
 tirsanduke - vetolaatikko  
 tisa - yhdeksän  
-tisa me mes - syyskuu  
 titanium - titaani  
 tocha - koskea (koskettaa)  
 Togo - Togo  
@@ -3174,8 +3174,6 @@ trenkaper - junakaappari
 treta - sopia (tehdä sopimus)  
 trete - sopimus  
 tri - kolme (3)  
-tri me den - keskiviikko  
-tri me mes - maaliskuu  
 tribe - heimo  
 Trinidade e Tobago - Trinidad ja Tobago  
 tu - sinä  
@@ -3209,8 +3207,6 @@ ulula - ulvoa
 uma - hevonen  
 umami - umami (ruokaisanmakuinen)  
 un - yksi (1)  
-un me den - maanantai  
-un me mes - tammikuu  
 una - yhdistää  
 unal - toisiaan (keskenään)  
 unali - molemminpuolinen (keskinäinen)  
@@ -3241,13 +3237,13 @@ Uzbekia - Uzbekistan
 va - luokse (tykö, kohti, asti)  
 va - oho (vau)  
 vacin - rokote  
-vade - laakso  
 vaf - koira  
-vagine - emätin (vagina)  
-vaginitis - emätintulehdus  
+vagina - emätin (vagina)  
+vagina flame - emätintulehdus  
 vakila - edustaa  
 val - arvo  
 vala - arvottaa  
+vali - laakso  
 valu - olla jkn arvoinen  
 van - huvi (hauskuus)  
 vana - viihdyttää (huvittaa)  
@@ -3255,6 +3251,15 @@ vanadium - vanadiini
 vani - hauska (huvittava)  
 vanil - vanilja  
 Vanuatu - Vanuatu  
+var - viikonpäivä  
+var chatre - torstai  
+var du - tiistai  
+var luku - lauantai  
+var penta - perjantai  
+var sete - niedziela  
+var tri - keskiviikko  
+var un - maanantai  
+var var - viikko  
 varis - perintö  
 varke - lehti (arkki, levy)  
 varkolate - sivu (kirjassa)  
@@ -3374,7 +3379,6 @@ yoga ja - joogi
 Yohan festa - juhannus (kristillinen juhla)  
 yoke - ies  
 yom - vuorokausi  
-yomchete - viikko  
 Yoruba - joruban kansa ja kieli  
 yote - pisara (tippa)  
 yumor - huumori  
@@ -3421,7 +3425,7 @@ zoka - jatkaa
 zoko - vielä (yhä, jatkuvasti)  
 zoku - jatkua  
 zombi - zombi  
-zon - vyö  
+zona - vyö  
 zou - eläin  
 zou agria - karjanhoito  
 zou filia - eläinrakkaus  
@@ -3436,7 +3440,7 @@ zuke - kansanryhmä (etninen ryhmä)
 zuki - etninen  
 zukomedi - kansanryhmien välinen  
 Zulu - zulu  
-zumurude - smaragdi  
+zumarda - smaragdi  
  - toimiva  
  - tieto (tietämys)  
  - tietty (tunnettu)  

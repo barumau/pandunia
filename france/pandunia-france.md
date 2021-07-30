@@ -242,7 +242,6 @@ baske - panier (panier de basketball)
 baske bol - basketball  
 bateri - pile (batterie)  
 bato - huit (8)  
-bato me mes - août  
 baton - bâton (canne, tige)  
 baton kapse - cage  
 batosenter - Poulpe (pieuvre)  
@@ -313,7 +312,6 @@ chanse - chance
 chante grupe - chœur  
 charme - charme  
 chatre - quatre (4)  
-chatre me den - jeudi  
 chendeno - hier  
 cheniki - vieux (ancien)  
 cheno - avant  
@@ -381,7 +379,6 @@ dosili - docile (insipide)
 dosiljeni - domestiqué (apprivoisé)  
 dosiljenita - domestiquer (apprivoiser)  
 du - deux (2)  
-du me den - mardi  
 duga - lire  
 dulbashi - bilingue  
 dunia - monde  
@@ -459,6 +456,7 @@ fiorde - fiord
 fite - plante (végétal)  
 fitolojia - botanique  
 fityamiste - végétarien  
+flame - inflammation  
 fleche - flèche  
 foba - effrayer  
 fobani - effrayant  
@@ -622,7 +620,6 @@ intru - entrer
 ironia - ironie  
 islam - soumission  
 islam din - Islam  
-itis - inflammation  
 ####J - J  
 jagi - éveillé  
 jamkarde - carte à collectionner  
@@ -686,6 +683,7 @@ kamisi shake - manche
 kampistan - terrain de camping  
 kanape - canapé (sofa)  
 kanche - verre  
+kandi - bonbon  
 kangaru* - kangourou  
 kankuate - kumquat  
 kano* - canoë  
@@ -750,7 +748,8 @@ koral - corail
 korer - coureur  
 korne - corne  
 koron - couronne  
-kortokrokodil - alligator  
+korte kata - nouvelle (récit court)  
+korte krokodil - alligator  
 kosmi - cosmique  
 kosmia - cosmos  
 kosmobiyolojia - astrobiologie  
@@ -833,6 +832,7 @@ logivi - loquace
 loka - mettre (placer)  
 loke - lieu  
 loki - local  
+long kata - roman  
 longi - long  
 longo - loin  
 longoduri - prolongé  
@@ -842,7 +842,6 @@ longopipre - poivre long
 lontre - loutre  
 lugi - vert  
 luku - six (6)  
-luku me den - samedi  
 lun - mois  
 lune - lune  
 lunokeke - gâteau de lune  
@@ -899,8 +898,9 @@ mem - mémoire
 mema - se rappeler (se remémorer)  
 meme kesh - laine  
 men - on  
-mening - méninge  
+meninge - méninge  
 Merkur - Mercure  
+mes bato - août  
 mesi - Christ (messie)  
 mester - maître  
 metalbede - enclume  
@@ -995,10 +995,10 @@ okside - oxyde
 onde - onde  
 onor - honneur  
 onora - honorer  
-or - oreille  
 oranje - orange (fruit)  
 oranji - orange (couleur)  
-oritis - otite  
+ore - oreille  
+ore flame - otite  
 orkide - orchidée  
 orti - droit (rectiligne)  
 ortogoni - orthogonal  
@@ -1056,7 +1056,6 @@ pelpel - papillon
 pendokardon - chardon penché  
 penta - cinq (5)  
 penta - peindre  
-penta me den - vendredi  
 pente - peinture  
 peri - fée  
 peri kata - conte de fées  
@@ -1115,6 +1114,7 @@ pudu - pourrir (se décomposer)
 puja kan - temple  
 puja meza - autel  
 pul - pont  
+pulmon flame - pneumonie  
 puma - couguar (puma)  
 pura - remplir  
 purbona - perfectionner (parfaire)  
@@ -1207,7 +1207,6 @@ senter - tentacule
 sere - scie  
 ses - l'un l'autre  
 sete - sept (7)  
-sete me den - dimanche  
 shalke - échelle  
 sham - soir (soirée)  
 shampan - Champagne  
@@ -1350,7 +1349,6 @@ trata - traîner
 trater - tracteur  
 trete - contract (traité)  
 tri - trois (3)  
-tri me den - mercredi  
 truka - escroquer  
 truke - ruse  
 tu - tu  
@@ -1360,7 +1358,6 @@ turba - gêner (déranger, perturber)
 tuze - lapin (lièvre)  
 ####U - U  
 un - un (1)  
-un me den - lundi  
 uniki - seul (unique)  
 uniko - uniquement  
 unmaro - une fois  
@@ -1371,14 +1368,21 @@ Uran - Uranus
 uranium - uranium  
 urse - ours  
 va - ouah  
-vade - vallée (oued)  
 vaf - chien  
-vagine - vagine  
-vaginitis - vaginite  
+vagina - vagine  
+vagina flame - vaginite  
 val - valeur  
 vala - évaluer  
+vali - vallée (oued)  
 vampir - vampire  
 vampirbalsenter - vampire des abysses  
+var chatre - jeudi  
+var du - mardi  
+var luku - samedi  
+var penta - vendredi  
+var sete - dimanche  
+var tri - mercredi  
+var un - lundi  
 varkalge - varech  
 varkolate - page  
 vase - oasis  
@@ -1453,7 +1457,7 @@ zoka - continuer (poursuivre)
 zoki - continu (analogique)  
 zoko - encore  
 zombi - zombi  
-zon - zone  
+zona - zone  
 zong - pieu (poteau)  
 zongominte - menthe verte  
 zou - animal (bête)  
@@ -1465,6 +1469,6 @@ zou parke - zoo
 zuke - ethnie  
 zuki - ethnique  
 Zulu - zoulou  
-zumurude - émeraude  
+zumarda - émeraude  
  - pluvieux  
  - adversaire (antagoniste, ennemi)  

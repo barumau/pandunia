@@ -15,7 +15,7 @@ abono orgánico (compost) - biyochaniver
 aborigen - aslaustrali  
 abrepuño - solchentaur  
 abrigo (chaqueta) - kote  
-abril - chatre me mes  
+abril - mes chatre  
 abrir - kaya  
 abuela - chin ma  
 abuelo - chin pa  
@@ -37,7 +37,7 @@ aconsejar - sela
 acontecimiento (caso, suceso, evento) - kas  
 acordar - samraya  
 acordarse - mema  
-acortar (abreviar) - korta  
+acortar (abreviar) - korte fa  
 acostar (poner) - kusha  
 acostarse (echarse, tenderse, tumbarse) - kushu  
 actinia (anémonas de mar) - haiful  
@@ -76,7 +76,7 @@ Afganistán - Afgan
 afrontar - versu  
 agacharse - insida  
 agorafobia - medenfobia  
-agosto - bato me mes  
+agosto - mes bato  
 agradecer - danka  
 agresivo - agresivi  
 agresor - agreser  
@@ -487,7 +487,7 @@ cafetera - kafopote
 café (cafetería) - kafokan  
 café - kafe  
 cagar - shita  
-caimán (aligátor, yacaré) - kortokrokodil  
+caimán (aligátor, yacaré) - korte krokodil  
 caja (baúl, cofre, estuche) - sanduke  
 caja (caja registradora) - kash  
 caja torácica - sinokapse  
@@ -535,7 +535,7 @@ Canadá - Kanada
 canal (cauce, acequia) - kanal  
 cancelar - nola  
 canción - chante  
-candela (unidad de intensidad luminosa) - kandel  
+candela (unidad de intensidad luminosa) - kandela  
 canguro - kangaru*  
 cannabis (hachís, marihuana) - ganje  
 canoa - kano*  
@@ -551,7 +551,7 @@ capitán - naushef
 capturar (apresar) - kapa  
 capítulo (sección) - babe  
 cara (rosto) - muka  
-caramelo - kande  
+caramelo - kandi  
 carapacho (cáscara, concha, corteza, capa) - kaske  
 cararés - karnadi  
 caravana - karvan  
@@ -674,7 +674,7 @@ cinc - zinke
 cinco (5) - penta  
 cinta (cinta para el pelo) - keshbende  
 cinta adhesiva - tepe  
-cinturón (zona) - zon  
+cinturón (zona) - zona  
 cinético - kini  
 circonio - zirkonium  
 circón - zirkon  
@@ -810,7 +810,7 @@ contraseña - pasloge
 contraseña - sekurkode  
 contrato (tratado) - trete  
 contribuir - fendona  
-convalaria (lirio de los valles) - vadosusan  
+convalaria (lirio de los valles) - vali susan  
 convenion (pacto) - kontrete  
 copia (réplica) - kope  
 copia de seguridad - sekuri kope  
@@ -837,7 +837,7 @@ corromper (contaminar) - najisa
 corsario - naukaper  
 cortar - kata  
 cortina - parde  
-corto (breve) - korti  
+corto (breve) - korte  
 Corán - kuran  
 cosa - shei  
 coser - suta  
@@ -901,6 +901,7 @@ cuchara - chamache
 cuchillo - chake  
 cuenta (factura) - bil  
 cuenta - hisabu loge  
+cuento (relato corto) - korte kata  
 cuento de hadas - peri kata  
 cuerno - korne  
 cuerpo - bode  
@@ -963,7 +964,7 @@ deber (necesitar) - debu
 deber (se recomienda) - selu  
 deci- - dechi*  
 decibelio - dechibel  
-deciembre - des du me mes  
+deciembre - mes des du  
 decir (hablar) - loga  
 decoración (adorno) - sundardake  
 decorar (adornar) - sundardaka  
@@ -1079,7 +1080,7 @@ domar (amansar) - dosila
 domesticado - dosiljeni  
 domesticar (cultivate) - dosiljenita  
 dominar - mesta  
-domingo - sete me den  
+domingo - var sete  
 Dominica - Dominika  
 dominio (reinado) - krati  
 dominó - dominogem  
@@ -1105,6 +1106,7 @@ dátil - tamar
 débil - debili  
 día - den  
 día de San Juan - Yohan festa  
+día de semana - var  
 día festivo (feriado) - festoden  
 dónde - ya ke  
 ####E - E  
@@ -1177,7 +1179,7 @@ endónimo - innam
 enemigo - dusjan  
 energía - energe  
 energía nuclear - kerni energe  
-enero - un me mes  
+enero - mes un  
 enfermedad - pati  
 enfermo - pati  
 engañar - truka  
@@ -1243,7 +1245,7 @@ eslabón - sil
 eslavo - Slave  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
-esmeralda - zumurude  
+esmeralda - zumarda  
 espacio (separación) - kal  
 espacio (texto) - kali harfi  
 espada - katane  
@@ -1350,7 +1352,7 @@ fatiga - fatigia
 favoritismo - mashfilistia  
 favorito (preferido) - mashfili  
 faz (faceta) - fas  
-febrero - du me mes  
+febrero - mes du  
 fecha - nenmesyom  
 felicitar - barka  
 feliz - suki  
@@ -1724,7 +1726,7 @@ infectar (contagiar) - patomisa
 inferior - nichi  
 infiel (descreído) - andiniste  
 infierno - narake  
-inflamación - itis  
+inflamación - flame  
 información - konsave  
 informe (reporte, noticia) - reporte  
 infortunio (mala suerte) - dusi zar  
@@ -1828,13 +1830,13 @@ judío - yehudi
 juego - gem  
 juego de mazmorras - donjon aventur  
 juego de mesa - bangem  
-jueves - chatre me den  
+jueves - var chatre  
 juez (árbitro, réferi) - juder  
 jugador - gemer  
 jugar un juego - gema  
 jugo (zumo) - jus  
-julio - sete me mes  
-junio - luku me mes  
+julio - mes sete  
+junio - mes luku  
 juntos - kono  
 juntura (conexión, enlace) - linke  
 Jupiter - Jupiter  
@@ -1986,7 +1988,7 @@ lugar - loke
 lugar de nacimiento - jenistan  
 lujuria (deseo) - kamia  
 luna - lune  
-lunes - un me den  
+lunes - var un  
 lutecio - lutetium  
 luteranismo - martinluteristia  
 luterano - martinluteristi  
@@ -2082,9 +2084,9 @@ marmól - kalsokristal
 Marruecos - Magribia  
 marrón - bruni  
 Marte - Marse  
-martes - du me den  
+martes - var du  
 martillo (mazo) - hamar  
-marzo - tri me mes  
+marzo - mes tri  
 marítimo - hayi  
 masa (trozo, pedazo) - mas  
 masaje - masaje  
@@ -2098,7 +2100,7 @@ material - mati
 Mauricio - Moris  
 mauritania - Muritania  
 maya - mayan  
-mayo - penta me mes  
+mayo - mes penta  
 mayor - mashori  
 mayoría - mashoria  
 Mayotte (Mahoré) - Mayote  
@@ -2131,8 +2133,8 @@ melón coreano - aromomelon
 melón verde - lugomelon  
 memoria - mem  
 memorándum (nota) - memnote  
-meninge - mening  
-meningitis - meningitis  
+meninge - meninge  
+meningitis - meninge flame  
 menor (leve) - minori  
 menos - min (mino)  
 mensaje - anjil  
@@ -2186,7 +2188,7 @@ minoría - minoria
 minuto - minute  
 mismo (yo) - aute  
 mito (cuento divino) - deu kata  
-miércoles - tri me den  
+miércoles - var tri  
 mochila - rukosake  
 moda (moderno, popular) - fashoni  
 moda (tendencia) - fashon  
@@ -2307,7 +2309,7 @@ Naúru - Nauru
 necesario - yavan  
 necesidad - yau  
 necesitado - yavi  
-nefritis - nefritis  
+nefritis - nefre flame  
 negociar - lona biznes  
 negocios (comercio) - biznes  
 negro - siyahi  
@@ -2342,7 +2344,7 @@ niño o niña - bache
 no - no  
 no binario (género) - bis  
 nobelio - nobelium  
-nobiembre - des un me lun  
+nobiembre - mes des un  
 noche (tarde) - sham  
 noche - noche  
 nombre - name  
@@ -2364,6 +2366,7 @@ noticias - habar
 novato - nevike  
 novedad - neu  
 novedad - nevia  
+novela (romance) - long kata  
 nube - mege  
 nudismo - nudistia  
 nudista - nudiste  
@@ -2397,7 +2400,7 @@ Oceanía - Ocheania
 ocelote - oselote  
 ocho (8) - bato  
 ocra - bamye  
-octubre - des me lun  
+octubre - mes des  
 ocular - oki  
 ocultar (esconder) - sira  
 ocupado (atareado) - mangi  
@@ -2435,7 +2438,7 @@ ordenado (regular) - ratibi
 ordenar (arreglar) - ratiba  
 ordeñar - tira milke  
 ordinario (habitual) - adi  
-oreja - or  
+oreja - ore  
 orfanato - yatimdom  
 organismo (ser vivo) - bio vute  
 organizar (gestionar) - noma  
@@ -2455,7 +2458,7 @@ oscuro - oskuri
 Osetia del Sur - Sudi Iria (Alonia)  
 osmio - osmium  
 oso - urse  
-otitis - oritis  
+otitis - ore flame  
 otomana - osman  
 otoño - padomosim  
 otra vez (de nuevo) - reyo  
@@ -2809,6 +2812,7 @@ puerto marítimo - haiporte
 Puerto Rico - Portorikia  
 puertorriqueño - portoriki  
 pulir (lustrar) - foto frika  
+pulmonía (neumonía) - pulmon flame  
 pulmón - pulmon  
 pulpo - batosenter  
 puma - puma  
@@ -3079,7 +3083,7 @@ seguro - sekuri
 seis (6) - luku  
 selenio - selenium  
 sello postal - postochape  
-semana - yomchete  
+semana - var var  
 semilla - seme  
 seminal - semi  
 senador - senater  
@@ -3091,7 +3095,7 @@ sentarse - sidu
 sentido - sense  
 sentir (detectar) - sensa  
 sentir - emosu  
-septiembre - tisa me mes  
+septiembre - mes tisa  
 ser (estar) - e  
 ser - ser  
 ser de - malu  
@@ -3218,7 +3222,7 @@ sustantivo - namloge
 sustituir (reemplezar) - visa  
 susurrar (curjir) - shashu  
 Svalbard - Sualbarde  
-sábado - luku me den  
+sábado - var luku  
 sándwich (sánduche) - sanduiche  
 sí - ye  
 sólido - gatomate  
@@ -3352,7 +3356,7 @@ torre - minar
 torre del reloj - horlogerminar  
 torso - torse  
 tortuga - tortuge  
-tos - kose  
+tos - koso  
 totalidad (integridad) - holia  
 toxicología - toksilogi  
 toxina - bio tokse  
@@ -3450,13 +3454,13 @@ uña - nahun
 vaca (toro) - mumu  
 vacuna - vacin  
 vacío (desocupado) - kali  
-vagina - vagine  
-vaginitis - vaginitis  
+vagina - vagina  
+vaginitis - vagina flame  
 vainilla - vanil  
 valer - valu  
 valiente (heroico) - hero li  
 valla (cerca) - kenarbaryer  
-valle - vade  
+valle - vali  
 valor - val  
 valorar - vala  
 vamos a - haida  
@@ -3516,7 +3520,7 @@ viejo (anciano) - lau
 viejo (anciano) - lavi  
 viejo (antiguo) - cheniki  
 viento - have  
-viernes - penta me den  
+viernes - var penta  
 Vietnam - Vietia  
 vietnamita - vieti  
 vigilante (guardia) - garder  

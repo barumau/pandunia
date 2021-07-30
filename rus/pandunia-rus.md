@@ -203,7 +203,6 @@ chanse - возможность (шанс)
 chante grupe - хор  
 charme - шарм  
 chatre - четыре (4)  
-chatre me den - четверг  
 chendeno - вчера  
 cheniki - старый (древний)  
 cheno - раньше  
@@ -270,7 +269,6 @@ dosili - кроткий
 dosiljenita - одомашнивать  
 dosti - приятный (добрый)  
 du - два (2)  
-du me den - вторник  
 duga - читать  
 dulbashi - двуязычный  
 duli o sani - пара  
@@ -347,6 +345,7 @@ firuze - бирюза
 fite - растение  
 fitolojia - ботаника  
 fityamiste - вегетарианец  
+flame - воспаление  
 fleche - стрела (стрелка)  
 foba - страшить  
 fobu - бояться (страшиться)  
@@ -492,7 +491,6 @@ insida - сесть на корточки
 introversi - интроверт  
 ironia - ирония  
 islam din - ислам (мусульманство)  
-itis - воспаление  
 ####J - J  
 jagu - проснуться  
 jamul - джамболан  
@@ -553,6 +551,7 @@ kanape - канапе
 kanche - стекло  
 kanchodaka - глазуровать  
 kanchodake - глазурь  
+kandi - конфета  
 kangaru* - кенгуру  
 kanjar - кинжал  
 kankuate - кумкват (кинкан)  
@@ -621,7 +620,8 @@ korer - бегун
 kornomelon - кивано (рогатая дыня)  
 kornonos - носорог  
 koron - корона  
-kortokrokodil - аллигатор  
+korte kata - новелла  
+korte krokodil - аллигатор  
 kosmi - космический  
 kosmia - космос  
 kosmobiyolojia - астробиология  
@@ -699,6 +699,7 @@ logi - лексический
 logia - словарь  
 loka - ставить  
 loke - место  
+long kata - роман  
 longo - далеко  
 longoduri - долгий (длительный)  
 longoduro - долго  
@@ -707,7 +708,6 @@ lontre - выдра
 lova - протекать (просочиться)  
 lugi - зелёный  
 luku - шесть (6)  
-luku me den - суббота  
 lun - месяц  
 lune - луна  
 lunokeke - лунный пирог  
@@ -863,7 +863,7 @@ onor - честь
 onora - чтить  
 oranje - апельсин  
 oranji - оранжевый  
-oritis - отит  
+ore flame - отит  
 orkide - орхидея  
 orti - прямой  
 ortogoni - ортогона́льный  
@@ -917,7 +917,6 @@ peikari jiu - карьера
 pelpel - бабочка (мотылёк)  
 pendokardon - чертополох поникший  
 penta - пять (5)  
-penta me den - пятница  
 pente - картина  
 penter - художник  
 per - перо  
@@ -970,6 +969,7 @@ projete - проект
 pudu - гнить (портиться)  
 puja kan - храм (место богослужения)  
 puja meza - алтарь  
+pulmon flame - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
 puntonumbe - оценка  
 pura - заполнять  
@@ -1062,7 +1062,6 @@ sere - пила
 ses - друг друга  
 sesam - сезам  
 sete - семь (7)  
-sete me den - воскресенье  
 shalke - чешуя  
 sham - вечер  
 shaman - шаман  
@@ -1216,7 +1215,6 @@ trata - волочить
 trater - трактор  
 trete - договор  
 tri - три (3)  
-tri me den - среда  
 truka - обмануть  
 truke - обман  
 tu - ты  
@@ -1226,7 +1224,6 @@ turbu - утруждай
 tuze - кролик (заяц)  
 ####U - U  
 un - один (1)  
-un me den - понедельник  
 uniki - единственный (уникальный)  
 uniko - только (единственно)  
 unjani - одинокий (единичный)  
@@ -1235,14 +1232,21 @@ unoki lense - монокль
 ura - ура  
 Uran - Уран  
 va - вау!  
-vadosusan - ландыш  
 vaf - собака  
-vagine - влагалище (вагина)  
-vaginitis - вагинит  
+vagina - влагалище (вагина)  
+vagina flame - вагинит  
 val - ценность  
 vala - оценивать  
+vali susan - ландыш  
 vampir - вампир (упырь)  
 vampirbalsenter - адский вампир  
+var chatre - четверг  
+var du - вторник  
+var luku - суббота  
+var penta - пятница  
+var sete - воскресенье  
+var tri - среда  
+var un - понедельник  
 vase - оазис  
 vasha - мыть  
 vashmashin - стиральная машина  
@@ -1319,7 +1323,7 @@ zinke - цинк
 zire - тмин  
 zirkon - циркон  
 zoko - ещё  
-zon - пояс (зона)  
+zona - пояс (зона)  
 zong - кол  
 zongominte - мята колоси́стая  
 zou - животное  
@@ -1331,7 +1335,7 @@ zuke - этнос
 zuki - этнический  
 zukomedi - межэтнический  
 Zulu - зулус  
-zumurude - изумруд  
+zumarda - изумруд  
  - обременять  
  - дождливый  
  - дожди́ть  

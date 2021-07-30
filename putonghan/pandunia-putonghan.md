@@ -184,7 +184,6 @@ chakre - 轮子
 chamache - 匙子  
 chante grupe - 合唱团  
 chatre - 四 (4)  
-chatre me den - 星期四 (禮拜四)  
 chendeno - 昨日  
 cheng - 层  
 cheniki - 古老 (以前)  
@@ -244,7 +243,6 @@ dong - 东
 dosila - 驯养  
 dosili - 驯服的  
 du - 二 (2)  
-du me den - 星期二 (禮拜二)  
 duga - 读 (看)  
 dunia - 世界  
 dur - 时间  
@@ -301,6 +299,7 @@ firuze - 绿松石
 fite - 植物  
 fitolojia - 植物学  
 fityamiste - 素食主义者  
+flame - 炎症  
 fleche - 箭  
 foba - 吓唬  
 fobu - 害怕  
@@ -441,7 +440,6 @@ insanistia - 人文主义
 insida - 蹲  
 introversi - 内向的  
 islam din - 回教 (伊斯蘭教)  
-itis - 炎症  
 ####J - J  
 jagu - 睡醒  
 jamul - 閻浮樹  
@@ -497,7 +495,7 @@ kan - 店 (馆)
 kanape - 沙发  
 kanche - 玻璃  
 kanchodake - 釉  
-kande - 糖果  
+kandi - 糖果  
 kangaru* - 袋鼠  
 kankuate - 金柑  
 kantalupomelon - 鈔皮瓜  
@@ -561,7 +559,8 @@ kora - 跑步
 koral - 珊瑚  
 korer - 跑步者  
 kornomelon - 刺角瓜  
-kortokrokodil - 短吻鳄  
+korte kata - 短篇小说  
+korte krokodil - 短吻鳄  
 kosmi - 宇宙的  
 kosmia - 宇宙  
 kosmobiyolojia - 太空生物学  
@@ -641,6 +640,7 @@ logia - 词汇
 loka - 放置  
 loke - 地方  
 lon - 论  
+long kata - 小说  
 longi - 长  
 longoduro - 久  
 longopipre - 荜拔  
@@ -648,7 +648,6 @@ lontre - 獭
 lova - 漏  
 lugi - 绿色  
 luku - 六 (6)  
-luku me den - 星期六 (礼拜六)  
 lung - 龙  
 lunokeke - 月饼  
 luta - 掠夺  
@@ -697,7 +696,7 @@ mei - 每
 melon - 厚皮甜瓜 (蜜瓜)  
 mem - 记忆 (记性)  
 mema - 记得 (回忆)  
-mening - 脑脊膜  
+meninge - 脑脊膜  
 metalbede - 铁砧  
 metaljanger - 铁匠  
 metallin - 线 (铁丝)  
@@ -779,10 +778,10 @@ oke - 眼睛
 okosuigas - 催泪瓦斯  
 okside - 氧化物  
 onde - 波浪  
-or - 耳  
 oranje - 橙子  
 oranji - 橙色  
-oritis - 耳炎  
+ore - 耳  
+ore flame - 耳炎  
 orkide - 兰花  
 orti - 直  
 oselote - 虎貓  
@@ -828,7 +827,6 @@ pelmen - 饺子
 pelpel - 蝴蝶  
 pendokardon - 垂花飞廉  
 penta - 五 (5)  
-penta me den - 星期五 (禮拜五)  
 pente - 油漆 (颜料)  
 peri kata - 童话  
 perkardon - 翼蓟  
@@ -867,6 +865,7 @@ pudu - 腐烂
 puja kan - 寺庙  
 puja meza - 圣坛  
 pul - 桥  
+pulmon flame - 肺炎  
 puma - 美洲獅 (山狮)  
 purfina - 完成  
 purfityamiste - 纯素食主义者  
@@ -946,7 +945,6 @@ serame - 陶瓷
 sere - 锯子  
 ses - 彼此  
 sete - 七 (7)  
-sete me den - 星期日 (禮拜日)  
 shalke - 鳞  
 sham - 晚上  
 shanghai - 上海  
@@ -1081,7 +1079,6 @@ trata - 拖
 trater - 拖拉机 (铁牛)  
 trete - 合同 (合约)  
 tri - 三 (3)  
-tri me den - 星期三 (禮拜三)  
 truka - 耍花招  
 truke - 伎俩  
 tu - 你  
@@ -1091,7 +1088,6 @@ tuze - 兔子
 ####U - U  
 umami - 鲜味  
 un - 一 (1)  
-un me den - 星期一 (禮拜一)  
 uniki - 唯一 (独)  
 uniko - 只有 (惟独)  
 unjani - 独自的 (孤单)  
@@ -1099,14 +1095,22 @@ unmaro - 一次 (一遍)
 ura - 好哇  
 va - 到  
 va - 哇  
-vade - 山谷  
-vadosusan - 鈴蘭  
 vaf - 狗  
-vagine - 阴道  
+vagina - 阴道  
 val - 价值  
+vali - 山谷  
+vali susan - 鈴蘭  
 vampir - 吸血鬼  
 van - 娱乐  
 vanu - 玩耍  
+var chatre - 星期四 (禮拜四)  
+var du - 星期二 (禮拜二)  
+var luku - 星期六 (礼拜六)  
+var penta - 星期五 (禮拜五)  
+var sete - 星期日 (禮拜日)  
+var tri - 星期三 (禮拜三)  
+var un - 星期一 (禮拜一)  
+var var - 週  
 vashurse - 浣熊  
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
@@ -1151,7 +1155,6 @@ Yesu mesi - 耶稣基督
 yoga - 瑜伽功  
 yoke - 轭  
 yom - 日  
-yomchete - 週  
 yongopetre - 熔岩  
 yongosaha - 熔炼  
 yongu - 融化  
@@ -1173,6 +1176,6 @@ zou - 动物
 zou logi - 动物学  
 zou parke - 动物园  
 zuke - 民族  
-zumurude - 绿宝石 (祖母绿)  
+zumarda - 绿宝石 (祖母绿)  
  - 多雨  
  - 敌手  
