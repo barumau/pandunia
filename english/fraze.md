@@ -107,26 +107,26 @@ Thanks for helping me.
 You're welcome. (Literally: _No need to thank._)
 
 
-### e <small>to be</small>
+### si <small>to be</small>
 
-The word **e** can be used also for stating something as a fact.
+The word **si** can be used also for stating something as a fact.
 
-**mi e Tomas.**
+**mi si Tomas.**
 I am Thomas.
 
-**tu e Sara.**
+**tu si Sara.**
 You are Sarah.
 
-**aple e frute.**
+**aple si frute.**
 The apple is a fruit.
 
 
 ### mi <small>I, me</small>
 
-**mi e Sara.**
+**mi si Sara.**
 I'm Sarah.
 
-**mi e Tomas.**
+**mi si Tomas.**
 I'm Thomas.
 
 **mi salam mama.**
@@ -153,7 +153,7 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili:
 
 ### tu <small>you</small>
 
-**tu e Tomas.**
+**tu si Tomas.**
 You are Thomas.
 
 **mi salam tu.**
@@ -176,13 +176,13 @@ I love you.
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**ya e man.**
+**ya si man.**
 He is a man.
 
-**ya e fem.**
+**ya si fem.**
 She is a woman.
 
-**ya e aple.**
+**ya si aple.**
 It is an apple.
 
 **ya** is the general third person pronoun. It is used for people (irrespective
@@ -196,10 +196,10 @@ I greet him/her.
 
 ### sual <small>to ask a question</small>
 
-**sual tu e Tomas?**
+**sual tu si Tomas?**
 Are you Thomas?
 
-**sual tu e mediker?**
+**sual tu si mediker?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **sual**.
@@ -226,25 +226,25 @@ Swahili _swali_.</small>
 
 ### ye <small>yes</small>
 
-**sual tu e Tomas?**
+**sual tu si Tomas?**
 Are you Thomas.
 
-**ye, mi e Tomas.**
+**ye, mi si Tomas.**
 Yes, I am Thomas.
 
-**sual ya e mediker?**
+**sual ya si mediker?**
 Is he/she a doctor?
 
-**ye, ya e mediker.**
+**ye, ya si mediker.**
 Yes, he is a doctor.
 
 
 ### no <small>no, not</small>
 
-**mi no e Sara.**
+**mi no si Sara.**
 I'm not Sarah.
 
-**mi no e mediker.**
+**mi no si mediker.**
 I'm not a doctor.
 
 **sual tu bon?**
@@ -292,13 +292,13 @@ You greet them.
 **yamen salam mimen!**
 They greet us.
 
-**mimen e fem.**
+**mimen si fem.**
 We are women.
 
-**tumen e man.**
+**tumen si man.**
 You are men.
 
-**yamen e aple.**
+**yamen si aple.**
 They are apples.
 
 
@@ -307,84 +307,84 @@ They are apples.
 **ke?**
 What?
 
-**tu e ke?**
+**tu si ke?**
 Who are you?  
-**mi e Tomas.**
+**mi si Tomas.**
 I'm Thomas.
 
-**ya e ke?**
+**ya si ke?**
 Who is he/she?  
-**ya e Sara.**
+**ya si Sara.**
 She is Sarah.
 
-**tumen e ke?**
+**tumen si ke?**
 Who are you people?
 
-**yamen e ke?**
+**yamen si ke?**
 Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
 Bengali: কী "ke".</small>
 
 
-### yi & vo <small>this and that</small>
+### ni & na <small>this and that</small>
 
-**yi e ke?**
+**ni si ke?**
 What's this?
 
-**yi e aple.**
+**ni si aple.**
 This is an apple.
 
-**vo e ke?**
+**na si ke?**
 What is that?
 
-**vo e oranje.**
+**na si oranje.**
 That is an orange.
 
-**yi e kirmi aple.**
+**ni si kirmi aple.**
 This is a red apple.
 
-**yi aple e kirmi.**
+**ni aple si kirmi.**
 This apple is red.
 
-**yi e kirmi.**
+**ni si kirmi.**
 This is red.
 
 **yamen a ke?**
 Where are they?
 
-**yamen a yi.**
+**yamen a ni.**
 They are here.
 
-**yamen a vo.**
+**yamen a na.**
 They are there.
 
 
 
 ### di <small>'s (possessive particle)</small>
 
-**yi e ke?**
+**ni si ke?**
 What's this?
 
-**yi e mi di telefon.**
+**ya si mi di telefon.**
 It's my telephone.
 
-**yi e ke di?**
+**ni si ke di?**
 Whose is this?
 
-**ya e mi di.**
+**ya si mi di.**
 It's mine.
 
 Note: Possessive particle **di** is put between the owner and the owned thing.
 So **mi di** means "my", **tu di** means "your" and so on.
 
-**ya e ke?**
+**ya si ke?**
 Who's he/she?
 
-**ya e mi di doste.**
+**ya si mi di doste.**
 He/she is my friend.
 
-**mi e Sara di doste.**
+**mi si Sara di doste.**
 I am Sarah's friend.
 
 <small>Etymology. **di**
@@ -393,16 +393,16 @@ Mandarin: 的 (de).</small>
 
 ### nam <small>name</small>
 
-**tu di nam e ke?**
+**tu di nam si ke?**
 What's your name?
 
-**mi di nam e Tomas.**
+**mi di nam si Tomas.**
 My name is Thomas.
 
-**ya di nam e ke?**
+**ya di nam si ke?**
 What is his/her name?
 
-**ya di nam e Sara.**
+**ya di nam si Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎
@@ -483,7 +483,7 @@ Tip: Meaning of **yam** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**mi yam kafe e pang.**
+**mi yam kafe si pang.**
 I'm having coffee and bread.
 
 
@@ -508,7 +508,7 @@ No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
 Which apple do you want?  
-**yi kirmi.**
+**ni kirmi.**
 This red one.
 
 
@@ -572,10 +572,10 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! yi e ke?**
+**maf! ni si ke?**
 Excuse me, what's this?
 
-**maf. tu di nam e ke?**
+**maf. tu di nam si ke?**
 Excuse me, what's your name?
 
 
@@ -638,7 +638,7 @@ We talk to each other.
 **men loga "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" e ke a pandunia?**
+**"cat" si ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loga miau.**
@@ -842,7 +842,7 @@ I am greeting your friend.
 **man ye zai vide un filme.**  
 The man is watching a film.
 
-**ya zai e shefe.**  
+**ya zai si shefe.**  
 He or she is currently the chief.
 
 **ya zai a dom.**  
@@ -857,7 +857,7 @@ I greeted your friend.
 **man ye pas vide un filme fem.**  
 The man watched a film.
 
-**ya pas e shefe.**  
+**ya pas si shefe.**  
 He or she was the chief.
 
 **ya pas a dom.**  
@@ -872,7 +872,7 @@ I have greeted your friend.
 **man leu vide un filme.**  
 The man has watched a film.
 
-**ya leu e shefe.**  
+**ya leu si shefe.**  
 He or she has been the chief.
 
 **ya leu a le dom.**  
@@ -887,7 +887,7 @@ I will greet your friend.
 **man vil vide le filme.**  
 The man will watch the film.
 
-**ya vil e shefe.**  
+**ya vil si shefe.**  
 He or she will be the chief.
 
 **ya vil a dom.**  
@@ -933,7 +933,7 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire e 500 dolar a mes.**  
+**kire si 500 dolar a mes.**  
 The rent is 500 dollars in a month.
 
 **ya no bil pei le kire.**  
@@ -965,16 +965,16 @@ I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**ya e ke yang?**
+**ya si ke yang?**
 What is it like?
 
-**sual ya e nove?**
+**sual ya si nove?**
 Is it new?
 
-**ke e max boni?**
+**ke si max boni?**
 Which is better?
 
-**yi e maxim boni (da pan).**
+**yi si maxim boni (da pan).**
 This is the best (of all).
 
 **ya kosta ke?**
@@ -1013,7 +1013,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan e okey.**
+**pan si okey.**
 Everything is alright.
 
 ****

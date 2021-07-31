@@ -15,7 +15,7 @@ Pronouns can substitute nouns and noun phrases.
 
 All pronouns can be used for all genders.
 
-The possessive pronouns consists of the personal pronoun and the possessive particle **de**.
+The possessive pronouns consists of the personal pronoun and the possessive particle **di**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
@@ -49,7 +49,7 @@ The word **semen** is used as the reciprocal pronoun.
 **semen**
 – each other, one another
 
-**mi e tu vide semen.**
+**mi si tu vide semen.**
 – Me and you see each other.  
 **mimen vide semen.**
 – We see each other.
@@ -59,34 +59,31 @@ The word **semen** is used as the reciprocal pronoun.
 
 The demonstrative pronouns are:
 
-**ya**
+**ni**
 – this  
-**va**
+**na**
 – that  
 
-The form that ends in **-e** is used when the demonstrative stands alone,
-and the form that ends in **-i** is used when the demonstrative modifies a noun.
+The proximal demonstrative **ni** points to things that are near the speaker.
+The distal demonstrative **na** points to things that are far from the speaker.
 
-The proximal demonstrative **ya** points to things that are near the speaker.
-The distal demonstrative **va** points to things that are far from the speaker.
-
-**ya e bon.**
+**ni si bon.**
 – This is good.  
-**va e dus.**
+**na si dus.**
 – That is bad.  
-**mi vol ya buke, no va.**
+**mi vol ni buke, no na.**
 – I want this book, not that.
 
 The basic proximal and distal pronouns are used for introducing a new object.
-The topical demonstrative **ya**, on the other hand,
+The topical demonstrative **le**, on the other hand,
 does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ya e mau. ya vola yam va mux.**
+**ni si mau. ya vola yam na mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi male un mau e un vaf. li vaf e dai. ya yam pol yam.**
+**mi mala un mau si un vaf. le vaf si dai. ya yam pol yam.**
 – I own a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -94,22 +91,22 @@ and it is known by the audience or is topical within the discourse.
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**ya** refers to things previously spoken,
-**ya** refers to things currently being spoken,
-and **va** refers to things about to be spoken.
+**le** refers to things previously spoken,
+**ni** refers to things currently being spoken,
+and **na** refers to things about to be spoken.
 
-**ya jumle e korti.**
+**ni jumle si korti.**
 – This sentence is short.
 
-In the above, **ya jumle** (_this sentence_) refers to the sentence being spoken.
+In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken.
 
-**mi mena va: mi ai tu.**
+**mi mana ni: mi ai tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi ai tu. ya mi mena.**
+**mi ai tu. mi mana na.**
 – I love you. That is what I mean.
 
-In the above, the pronoun **va** refers to the content of the next statement
-and **de** refers to the content of the previous statement.
+In the above, the pronoun **ni** refers to the content of the next statement
+and **na** refers to the content of the previous statement.
 
 
 ## Interrogative pronouns

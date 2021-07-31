@@ -890,7 +890,7 @@ crítico - pipinger
 crónico - duri  
 cuaderno (libreta) - note buke  
 cuadro - chargon  
-cualidad (atributo, descripción) - sif  
+cualidad (atributo, descripción) - sifa  
 cuarzo - kuarze  
 cuatro (4) - chatre  
 Cuba - Kuba  
@@ -935,7 +935,7 @@ cóctel - mishi alkol
 código (cifra) - kode  
 cólera - holire  
 cómo - ko?  
-cómo? (eh?) - eh  
+cómo? (eh?) - he  
 cómodo (lujoso) - hushi  
 cósmico - kosmi  
 cúpula - kupochate  
@@ -2153,7 +2153,7 @@ metal - metal
 metal pesado - bara metal  
 meter prisa - yala  
 metro - mitre  
-metro - tuneltren  
+metro - tunel tren  
 mez - lun  
 mezclar - misha  
 mezquino (antipático, cruel) - zalim  
@@ -3096,7 +3096,7 @@ sentido - sense
 sentir (detectar) - sensa  
 sentir - emosu  
 septiembre - mes tisa  
-ser (estar) - e  
+ser (estar) - si  
 ser - ser  
 ser de - malu  
 ser humano - insan  
@@ -3178,7 +3178,7 @@ soñoliento (somnífero) - somivi
 sranan tongo - surinami bash  
 Sri Lanka - Lanka  
 strontium - estrontium  
-su (suyo) - si  
+su (suyo) - se di  
 suajili - suahili  
 suave (liso) - lisi  
 subestimar - minraya  
@@ -3401,7 +3401,7 @@ tubérculo - masmul
 tulio - tulium  
 tulipán - tulpe  
 tumba (sepultura, enterrar) - gabur  
-tundra - tundre  
+tundra - tundra  
 tungsteno (wolframio) - volfram  
 tupinambo (pataca, alcachofa de Jerusalén) - masmulsolful  
 turbante - pagre  
@@ -3422,7 +3422,7 @@ título - temnam
 tóxico - toksi  
 tú (usted) - tu  
 túnel - tunel  
-Túnez - Tunisia  
+Túnez - Tunis  
 túnica - tunike  
 ####U - U  
 Ucrania - Ukraina  

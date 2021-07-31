@@ -779,9 +779,7 @@ duva - pray (beg, entreat, implore)
 duve - prayer  
 ####E - E  
 e - and  
-e - be  
 eglis - church  
-eh - huh? (pardon?)  
 eki - environmental (natural)  
 ekia - environment (nature)  
 ekojeni - wild (savage)  
@@ -1303,6 +1301,7 @@ Hayakia - Armenia
 hayalge - seaweed (macroalgae)  
 hayamirer - admiral  
 hayi - maritime  
+he - huh? (pardon?)  
 he - one (someone)  
 he - huh? (eh?, pardon?)  
 heleni - Greek (Hellenic)  
@@ -3266,6 +3265,7 @@ sheihalironia - situational irony
 sheke - stone (piece of rock)  
 shekojanger - mason (stonemason, stonecutter)  
 sheng - victory (win, triumph)  
+shi - Mx. (Mr. or Ms.)  
 shibai - failure (loss, flop, miss, defeat)  
 shibai - loss (failure, miss)  
 shibaya - lose (fail, miss, be defeated)  
@@ -3316,13 +3316,14 @@ shushi - silent
 shusho - hush (shh)  
 shutu - skill (art, craft)  
 shututabi - skillful (crafty)  
+si - be  
 siani - cyan  
 Sibiria - Siberia  
 siborgium - seaborgium  
 sida - sit (put down)  
 side - seat (saddle)  
 sidu - sit down  
-sif - attribute (charasteristic, quality, feature, description, property)  
+sifa - attribute (charasteristic, quality, feature, description, property)  
 sifa - qualify (describe)  
 sifi - descriptive  
 sifloge - adjective  

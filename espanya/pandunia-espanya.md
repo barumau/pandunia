@@ -706,9 +706,7 @@ duva - rezar (orar)
 duve - rezo (oración)  
 ####E - E  
 e - y  
-e - ser (estar)  
 eglis - iglesia  
-eh - cómo? (eh?)  
 eki - ambiental (ecológico, natural)  
 ekia - medioambiente (naturaleza)  
 ekojeni - salvaje  
@@ -1180,6 +1178,7 @@ Hayakia - Armenia
 hayalge - macroalga  
 hayamirer - almirante  
 hayi - marítimo  
+he - cómo? (eh?)  
 heleni - griego (helénico)  
 Helenia - Grecia  
 helis - espiral (hélice)  
@@ -2904,6 +2903,7 @@ savovoliti - interesante (curioso)
 savovolu - preguntarse  
 saya - sombra  
 se - se  
+se di - su (suyo)  
 sekreter - secretario  
 sekreteria - secretaría  
 sekse - sexo  
@@ -3026,14 +3026,14 @@ shuru - comenzar (iniciarse, empezar)
 shushi - silencioso  
 shusho - chito (chist)  
 shutu - dotes (arte, habilidad)  
-si - su (suyo)  
+si - ser (estar)  
 siani - cian  
 Sibiria - Siberia  
 siborgium - seaborgio  
 sida - sentar  
 side - silla (montura)  
 sidu - sentarse  
-sif - cualidad (atributo, descripción)  
+sifa - cualidad (atributo, descripción)  
 sifa - definir  
 sifi - descriptivo  
 sifloge - adjetivo  
@@ -3336,11 +3336,11 @@ tulium - tulio
 tulpe - tulipán  
 tumen - ustedes  
 tumen di - vuestro  
-tundre - tundra  
+tundra - tundra  
 tunel - túnel  
-tuneltren - metro  
+tunel tren - metro  
 tunike - túnica  
-Tunisia - Túnez  
+Tunis - Túnez  
 tupe - sombrero  
 turba - molestar (perturber)  
 turbe - problema (disturio)  

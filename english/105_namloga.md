@@ -67,7 +67,7 @@ An easy way to say that there are many is to repeat the noun two times.
 Proper names are nouns for individual people, places and other things.
 
 Names of people can be tagged with the universal title of respect
-**si**.
+**shi**.
 Using it shows respect and politeness.
 
 It can be used in formal and informal situations and for all age groups, social groups and genders.
@@ -75,15 +75,15 @@ The closest translation for it in English is _Mr or Ms_ or _Mx_.
 
 There are different customs concerning honorific titles in different cultures.
 In some cultures it is not polite to use someone's name without a title of respect.
-Therefore it is advisable to use **si** always when you meet new people from different cultures.
+Therefore it is advisable to use **shi** always when you meet new people from different cultures.
 
 A title of respect can be used with a given name, a family name, or both.
 
-**si Bili King**
+**shi Bili King**
 – Mx Billy King  
-**si Bili**
+**shi Bili**
 – Mx Billy  
-**si King**
+**shi King**
 – Mx King
 
 

@@ -728,9 +728,7 @@ duva - rukoilla (anoa)
 duve - rukous  
 ####E - E  
 e - ja (sekä)  
-e - olla  
 eglis - kirkko  
-eh - häh?  
 ekia - luonto  
 ekojeni - villi (villinä syntynyt)  
 ekolojia - ekologia (ympäristötiede)  
@@ -1212,6 +1210,7 @@ have - tuuli (puhallus)
 Hayakia - Armenia  
 hayamirer - amiraali  
 hayi - meri- (merellinen)  
+he - häh?  
 he - joku (jokin)  
 he - häh (-ko, -kö)  
 heleni - kreikkalainen  
@@ -2812,6 +2811,7 @@ savovolani - utelias (tiedonhaluinen)
 savovoliti - kiinnostava  
 saya - varjo  
 se - itse  
+se di - oma (-nsa)  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
 sekse - seksi (sukupuolisuhde)  
@@ -2883,6 +2883,7 @@ shei - asia
 sheihal - tilanne (asiaintila)  
 sheke - kivi (hippu)  
 sheng - voitto  
+shi - herra tai rouva  
 shibai - epäonnistuminen  
 shibaya - hävitä (kärsiä tappio)  
 shibayer - häviäjä  
@@ -2927,11 +2928,11 @@ shusha - hiljentää
 shushi - hiljainen  
 shusho - hiljaa (hys, shhh)  
 shutu - taito  
-si - oma (-nsa)  
+si - olla  
 siani - syaani  
 Sibiria - Siperia  
 sida - istua  
-sif - laatu (ominaisuus, ominaispiirre, määrite)  
+sifa - laatu (ominaisuus, ominaispiirre, määrite)  
 sifa - määritellä (luonnehtia)  
 sifi - kuvaileva (määrittelevä)  
 sifloge - adjektiivi (laatusana)  

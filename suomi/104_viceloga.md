@@ -1,56 +1,72 @@
 # Pronominit
 ## Persoonapronominit
 
-**me**
-– minä  
-**te**
-– sinä  
-**le**
-– hän, se  
-**mome**
-– me  
-**tote**
-– te  
-**lole**
-– he  
+| Yksikkö     | Monikko      |
+|:------------|:-------------|
+| **mi**      | **mimen**    |
+| minä        | me           |
+| **tu**      | **tumen**    |
+| sinä        | te           |
+| **ya**      | **yamen**    |
+| hän         | he           |
+Persoonapronominien omistusmuodot muodostetaan partikkelilla  **di**.
+
+| Yksikkö     | Monikko      |
+|:------------|:-------------|
+| **mi di**   | **mimen di** |
+| minun       | meidän       |
+| **tu di**   | **tumen di** |
+| sinun       | teidän       |
+| **ya di**   | **yamen di** |
+| hänen       | heidän       |
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-**un jovani boy sa dome. _le_ duga buke.**
-– _Yksi nuori poika on kotona. Hän lukee kirjaa._
+**un jovan man a dom. _le_ duge un buke.**
+– _Yksi nuori mies on kotona. Hän lukee kirjaa._
 
 ## Refleksiivipronomini
 
-**ze**
+**se**
 = itse
 
 Refleksiivipronominia **ze** käytetään sellaisenaan kaikissa persoonissa.
 
-**me vida ze**
-= Minä näen itseni.
-**le vida ze**
-= Hän näkee itsensä.
-**mome vida ze.**
-= Me näemme itsemme.
+**mi vide se**
+– Minä näen itseni.
+**ya vide se**
+– Hän näkee itsensä.
+**mimen vide se.**
+– Me näemme itsemme.
 
-Sen omistusmuoto on **zi**.
+Sen omistusmuoto on **se di**.
 
-**le vida zi muke sa mirer.**
+**ya vide se di muka a mira.**
 = Hän näkee kasvonsa peilissä.
+
+Sana **semen** viittaa tekijöihin toisiinsa.
+
+**semen**
+– toisiaan
+
+**mi e tu vide semen.**
+– Sinä ja minä näemme toisemme.  
+**mimen vide semen.**
+– Me näemme toisemme.
 
 
 ## Osoittava pronomini
 
 Osoittava pronomini on:
 
-**ye**
+**ya**
 – tämä, nämä  
-**we**
+**vo**
 – tuo, nuo
 
-**me wana ye.**
+**mi vol ye.**
 – Minä haluan tämän.  
-**le wana we.**
+**ya vol vo.**
 – Hän haluaa tuon.
 
 I-päätteistä muotoa käytetään substantiivin edellä eli kun osoittava pronomini on adjektiivin kaltainen.

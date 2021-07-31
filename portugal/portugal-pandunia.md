@@ -1032,7 +1032,7 @@ seminal - semi
 senador - senater  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabur  
-ser (estar) - e  
+ser (estar) - si  
 ser humano - insan  
 serra - sere  
 sete (7) - sete  

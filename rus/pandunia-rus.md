@@ -284,7 +284,6 @@ dusjan - враг (противник)
 dusosinyi - зловещий  
 dusvidi - безобразный (некрасивый)  
 ####E - E  
-e - быть  
 ekojeni - дикий  
 ekore - белка  
 eletrolin - провод (кабель)  
@@ -1105,6 +1104,7 @@ shulshef - директор (ректор)
 shur - начало  
 shushi - тихий  
 shutu - искусство  
+si - быть  
 siani - циан  
 siborgium - сиборгий  
 sida - сидеть  
@@ -1219,6 +1219,7 @@ truka - обмануть
 truke - обман  
 tu - ты  
 tumen di - ваш  
+tundra shan - фьельды  
 turba - утруждать  
 turbu - утруждай  
 tuze - кролик (заяц)  

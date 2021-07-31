@@ -24,18 +24,18 @@ In the simplest sentences, the subject is a pronoun and the predicate is an adje
 **ya Sara.**
 – She is Sara.
 
-When the subject is a noun, the connecting verb **e** (_to be_) is necessary.
+When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
 
 
-**Sara e bon.**
+**Sara si bon.**
 – Sara is good.  
-**petre e dai.**
+**petre si dai.**
 – Stones are big.  
-**meza e nove.**
+**meza si nove.**
 – The table is new.
 
 The word **no** is added to form the negative.
-Then the verb **e** is not needed.
+Then the verb **si** is not needed.
 
 | Positive         | Negative           |
 |------------------|--------------------|
@@ -45,13 +45,13 @@ Then the verb **e** is not needed.
 | It is new.       | It is not new.     |
 | **ya Sara.**     | **ya no Sara.**    |
 | She is Sarah.    | She is not Sarah.  |
-| **Sara e bon.** | **Sara no bon.**   |
+| **Sara si bon.** | **Sara no bon.**   |
 | Sarah is good.   | Sarah is not good. |
 
 
-Also two personal pronouns can be combined with **e** and **no**.
+Also two personal pronouns can be combined with **si** and **no**.
 
-**mi e ya.**
+**mi si ya.**
 – I am he/she.  
 **mi no tu.**
 – I'm not you.
@@ -61,7 +61,7 @@ Also two personal pronouns can be combined with **e** and **no**.
 
 The same rule applies also for two adjectives.
 
-**jovan e sundar.**
+**jovan si sundar.**
 – Young is beautiful.  
 **nove no puran.**
 – New is not old.  
@@ -71,7 +71,7 @@ The same rule applies also for two adjectives.
 A verb can't be subject as such.
 So the verb is first, use **de** to start a comment about the verb.
 
-**cante e bon.**
+**cante si bon.**
 – Singing is good. (Singing is good.)
 
 
@@ -324,13 +324,13 @@ or it can be left out by using the reduced relative clause structure.
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**_di_ jan, mi kitaba buke a _de_ du kalam, padu.**
+**_di_ jan, mi kitaba buke a _de_ di kalam, padu.**
 – The person whose pen I write the book with falls.  
 
 Finally, a content clause can also involve **de**,
 which refers back to the previous phrase.
 
-**jan kitaba buke, de e hami.**
+**jan kitaba buke, de si hami.**
 – The person writes a book, which is important.
 
 However, it is unclear whethere **de** (_which_) refers to only the book
@@ -339,7 +339,7 @@ It can be clarified by an expression like
 **di fate**
 (_the fact_).
 
-**jan kitaba buke, di fate e hami.**
+**jan kitaba buke, di fate si hami.**
 – The fact that the person writes the book is important.
 
 
@@ -369,27 +369,27 @@ It can be clarified by an expression like
 
 Expressions are affirmative by default.
 
-**mi e shefe.**
+**mi si shefe.**
 – I am the boss.  
-**ya e nove meza.**
+**ya si nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
 **ye**
 (_indeed_).
 
-**mi ye e shefe.**
+**mi ye si shefe.**
 – I indeed am the boss.  
-**ya ye e nove meza.**
+**ya ye si nove meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**ya no e shefe.**
+**ya no si shefe.**
 – He is not the boss.  
-**ya no e nove meza.**
+**ya no si nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -413,20 +413,20 @@ Different scopes of negation may result depending on the location of the negativ
 
 ### Modifier particles
 
-Particles **du** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**du** connects the modifying word or phrase to the main noun word.
+Particles **di** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+**di** connects the modifying word or phrase to the main noun word.
 **da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **du** works like the apostrophe-s ('s) in English.
+With regards to possession, **di** works like the apostrophe-s ('s) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria du mam**
+**Maria di mam**
 – Maria's mother  
-**Maria du mam du dom**
+**Maria di mam di dom**
 – Maria's mother's house
 
 **da** works like "of" in English.
@@ -437,7 +437,7 @@ It indicates that the next word has possession of the previous one.
 **dom da mam da Maria**
 – the house of the mother of Maria
 
-It's possible to use **da** and **du** with personal pronouns too,
+It's possible to use **da** and **di** with personal pronouns too,
 so one can say things like
 **dom da mi** (_the house of mine_)
 but it's better to use the short possessive pronouns and say simply
@@ -450,9 +450,9 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**rozi rang du labe**
+**rozi rang di labe**
 – rose-colored lips  
-**samani rang du oke**
+**samani rang di oke**
 – sky-colored eyes
 
 Or in the opposite order:
@@ -464,24 +464,24 @@ Or in the opposite order:
 
 The particles help in creating measure words too.
  
-**un sake du patate**
+**un sake di patate**
 – one sack of potatoes  
-**dul sake du patate**
+**dul sake di patate**
 – two sacks of potatoes  
-**max sake du patate**
+**max sake di patate**
 – more sacks of potatoes
 
-Note that **du** and **da** connect phrases together.
-So a modifier phrase with and without **du** can mean a different thing.
+Note that **di** and **da** connect phrases together.
+So a modifier phrase with and without **di** can mean a different thing.
 
 **max sundari fule**
 – more beautiful flowers  
-**max du sundari fule**
+**max di sundari fule**
 – more of beautiful flowers
 
 #### Modification with verb phrases
 
-Verbs and verb phrases are turned into modifiers by placing **da** or **du** immediately next to the verb.
+Verbs and verb phrases are turned into modifiers by placing **da** or **di** immediately next to the verb.
 
 **arte da penta graf**
 – the art of painting pictures  

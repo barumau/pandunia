@@ -112,9 +112,9 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple e max bon ka oranje.**
+**aple si max bon ka oranje.**
 = Apples are better than oranges.  
-**oranje e min bon ka aple.**
+**oranje si min bon ka aple.**
 = Oranges are less good than apples.  
 **tu loga par bon ka mi.**
 = You speak as well as me.

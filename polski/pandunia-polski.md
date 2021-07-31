@@ -697,9 +697,7 @@ duva - pomodlić się, modlić się
 duve - modlitwa  
 ####E - E  
 e - i, oraz  
-e - być  
 eglis - kościół  
-eh - hę?, co?, pardon?  
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
 ekojeni - dziki  
@@ -1147,6 +1145,7 @@ Hayakia - Armenia
 hayalge - wodorosty  
 hayamirer - admirał  
 hayi - morski  
+he - hę?, co?, pardon?  
 heleni - gracki, helleński; Grek  
 Helenia - Grecja  
 helis - helisa  
@@ -2977,13 +2976,14 @@ shusha - uciszyć (uciszać)
 shushi - cichy  
 shusho - ćsi  
 shutu - umiejętność (kompetencja)  
+si - być  
 siani - niebieskozielony (cyjan)  
 Sibiria - Syberia  
 siborgium - seaborg  
 sida - siedzieć  
 side - siedzenie (siodło)  
 sidu - usiąść  
-sif - cecha, właściwość, parametr  
+sifa - cecha, właściwość, parametr  
 sifa - opisać (zakwalifikować)  
 sifi - opisowy  
 sifloge - przymiotnik  
@@ -3280,11 +3280,11 @@ tul - narzędzie
 tulium - tul  
 tulpe - tulipan  
 tumen - wy, was  
-tundre - tundra  
+tundra - tundra  
 tunel - tunel  
-tuneltren - metro  
+tunel tren - metro  
 tunike - tunika, toga  
-Tunisia - Tunezja  
+Tunis - Tunezja  
 tupe - kapelusz, czapka  
 turba - przeszkodzić, przeszkadzać, robić kłopot  
 turbe - problem, kłopot, zakłócenie  

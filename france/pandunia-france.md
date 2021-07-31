@@ -395,7 +395,6 @@ duskar - méfait (péché)
 dusvidi - laid (vilain)  
 ####E - E  
 e - et  
-e - être  
 ekojeni - sauvage  
 ekore - écureuil  
 eletre - électricité  
@@ -1193,6 +1192,7 @@ sar - tête
 sati - momentané  
 Saturne - Saturne  
 se - se  
+se di - son (sa)  
 sekselogi - sexologie  
 sekuri - sûr  
 sel - conseil  
@@ -1251,7 +1251,7 @@ shulkan - école (collège)
 shulshef - directeur (principal)  
 shur - début (commencement)  
 shutu - art  
-si - son (sa)  
+si - être  
 sifloge - adjectif  
 sikle - bicyclette  
 sikliste - cycliste  
@@ -1353,7 +1353,7 @@ truka - escroquer
 truke - ruse  
 tu - tu  
 tumen di - votre  
-Tunisia - Tunisie  
+Tunis - Tunisie  
 turba - gêner (déranger, perturber)  
 tuze - lapin (lièvre)  
 ####U - U  

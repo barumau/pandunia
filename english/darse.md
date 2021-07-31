@@ -14,55 +14,55 @@
 **salam!**
 = Hello!  
 <big>👩🏻</big>
-**tu e ke?**
+**tu si ke?**
 = Who are you?  
 <big>🧑🏾</big>
-**mi e Yusef. tu e ke?**
+**mi si Yusef. tu si ke?**
 = I am Yusef. Who are you?  
 <big>👩🏻</big>
-**mi e Sara. ya e ke?**
+**mi si Sara. ya si ke?**
 = I am Sara. Who is that?  
 <big>🧑🏾</big>
-**ya e mi di doste.**
+**ya si mi di doste.**
 = That is my friend.  
 <big>👩🏻</big>
-**ya di nam e ke?**
+**ya di nam si ke?**
 = What's her name?  
 <big>🧑🏾</big>
-**ya di nam e Maria.**
+**ya di nam si Maria.**
 = Her name is Maria.
 
 ### Grammar
 
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
-tells something about the topic. For instance in **ya e mi di doste**
+tells something about the topic. For instance in **ya si mi di doste**
 the topic is the pronoun **ya** (he, she, it), which is followed by
-the comment **e mi di doste** (is my friend).
+the comment **si mi di doste** (is my friend).
 
-In Pandunia, the word **e** functions like _to be_ in English.
+In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
 simply replace it with **no** (which is the word for _no_).
 
-**ya e Sara.**
+**ya si Sara.**
 = She is Sarah.  
-**ya no e Sara.**
+**ya no si Sara.**
 = She is not Sarah.
 
-**mau e zou.**
+**mau si zou.**
 = The cat is an animal.  
-**dom no e zou.**
+**dom no si zou.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi e**
+**mi si**
 and a word that describes you.
 
-**mi e bon.**
+**mi si bon.**
 = I'm good.  
-**mi e man.**
+**mi si man.**
 = I'm a man.  
-**mi e fem.**
+**mi si fem.**
 = I'm a woman.  
 
 
@@ -95,7 +95,7 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**e**
+**si**
 to be  
 **no**
 no; not  
@@ -118,12 +118,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu e ke?
-2. mi e tomas.
-3. tu di doste e ke?
-4. ya e Sara.
-5. tu di nam e ke?
-6. mi di nam e ........... 
+1. tu si ke?
+2. mi si tomas.
+3. tu di doste si ke?
+4. ya si Sara.
+5. tu di nam si ke?
+6. mi di nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -361,7 +361,7 @@ to ask; please
 to give  
 **danke**
 thanks  
-**i**
+**e**
 and  
 **kafe**
 coffee  
@@ -385,7 +385,7 @@ to eat or drink
 2. shefe ching ya side.
 3. ching yam kafe o chai.
 4. mama ching mi safa kamar.
-5. shefe side i yam kafe.
+5. shefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -402,7 +402,7 @@ to eat or drink
 **chai.**
 = Tea.  
 <big>👩‍🍳</big>
-**i tu?**
+**e tu?**
 = And you?  
 <big>🧓</big>
 **mi no basha pandunia...**
@@ -426,7 +426,7 @@ to eat or drink
 **no yam.**
 = No.  
 <big>👩‍🍳</big>
-**danke. mi dona un chai i un kafe i un supe a pos da desi minute.**
+**danke. mi dona un chai e un kafe e un supe a pos da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -623,7 +623,7 @@ but.
 1. ya no safa kamar.
 2. un kupe no kali.
 3. du vaf no yam supe.
-4. ya no tena vaf i mau. / ya tena no vaf i no mau.
+4. ya no tena vaf e mau. / ya tena no vaf e no mau.
 5. shefe yam chai a no kafe.
 6. mama tena no vaf a du mau.
 
@@ -637,7 +637,7 @@ _when_, the interrogative pronoun **ki** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**ya e ke?**
+**ya si ke?**
 = What is that? / Who is (s)he?  
 **ki jen lai?**
 = Who is coming? (**jen** = person)  
@@ -733,11 +733,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara e mi di pas shefe.**
+**Sara si mi di pas shefe.**
 = Sarah is my former boss.  
-**Yusef e mi di zai shefe.**
+**Yusef si mi di zai shefe.**
 = Yusef is my current boss.  
-**Maria e mi di vil shefe.**
+**Maria si mi di vil shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -768,7 +768,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi pas tena un mau.**
 = I had a cat in the past.  
-**ya e bon mau.**
+**ya si bon mau.**
 = It was a good cat.  
 **mi tena un vaf a zai.**
 = I have a dog now.

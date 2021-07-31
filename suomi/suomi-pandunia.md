@@ -576,6 +576,7 @@ hermomyrkky - neurotokse
 hermosairaus (neuropatia) - neuropatia  
 hermosolu (neuroni) - neurochel  
 hermostollinen - neuri  
+herra tai rouva - shi  
 hertsi (Hz) - herze  
 herättää - jaga  
 Hessen - Hesia  
@@ -685,7 +686,7 @@ hyönteinen (ötökkä) - konchung
 hyöty (etu) - faide  
 hyötyaines - faidomate  
 häh (-ko, -kö) - he  
-häh? - eh  
+häh? - he  
 häiritä (vaivata) - turba  
 häiriö (vaiva) - turbe  
 häkki - baton kapse  
@@ -1367,7 +1368,7 @@ laatikko - kapse
 laatikko - sanduke  
 laatta (levy) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsifia  
-laatu (ominaisuus, ominaispiirre, määrite) - sif  
+laatu (ominaisuus, ominaispiirre, määrite) - sifa  
 Lagos - Lagos  
 lahja - don  
 lahti - bai  
@@ -1951,7 +1952,7 @@ oksidi - okside
 olento (olio) - ser  
 oliivi - zaitun  
 olkapää (hartia) - kante  
-olla - e  
+olla - si  
 olla eri mieltä - aloraya  
 olla hereillä - jagi  
 olla jkn arvoinen - valu  
@@ -1962,7 +1963,7 @@ olla samaa mieltä - samraya
 olla väliä (olla tärkeä) - hamu  
 olla yhtä kuin - paru  
 olut (kalja) - bir  
-oma (-nsa) - si  
+oma (-nsa) - se di  
 omaisuus - mal  
 Oman - Oman  
 omena - aple  

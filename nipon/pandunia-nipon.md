@@ -971,6 +971,7 @@ shava mosim - 雨季
 shei - 事 (物)  
 sheihal - 事態  
 shekojanger - 石匠  
+shi - さん (氏)  
 shibai - 失敗 (負け)  
 shibaya - 負ける  
 shibaya tena - 失う (無くす, 落とす)  

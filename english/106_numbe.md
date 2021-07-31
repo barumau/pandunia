@@ -157,7 +157,7 @@ The longer way uses the pattern
 **un da kilo fen**
 – one of thousand parts, a permille, (1‰)
 
-Fractions are connected to with
+Fractions are connected to the noun with
 **da**
 ('of').
 
@@ -202,7 +202,7 @@ and so on.
 
 #### Months
 
-The names of months are composed like the names of days
+Names of the months are composed like the names of days
 but this time the word
 **mes**
 ('month') is used.

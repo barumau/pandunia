@@ -257,7 +257,6 @@ dusvidi - 难看
 duve - 祈祷  
 ####E - E  
 e - 和  
-e - 对  
 ekore - 松鼠  
 eletrolin - 电缆 (电线)  
 eletrorade - 闪电  
@@ -989,6 +988,7 @@ shur - 开始
 shura - 开始  
 shusho - 噓  
 shutu - 技术  
+si - 对  
 side - 座部 (马鞍)  
 sifloge - 形容词  
 sikliste - 骑自行车的人  

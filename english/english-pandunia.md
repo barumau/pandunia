@@ -230,7 +230,7 @@ attack (assault) - agresa
 attack (assault, aggression, hostility) - agres  
 attain (accomplish, indicates the current position) - leu  
 attraction (-philia) - filia  
-attribute (charasteristic, quality, feature, description, property) - sif  
+attribute (charasteristic, quality, feature, description, property) - sifa  
 August - mes bato  
 auspicious (promising) - bonsinyi  
 Australia - Australia  
@@ -311,7 +311,7 @@ bathe - banyu
 bathroom - banyokamar  
 battery - bateri  
 bay (gulf) - bai  
-be - e  
+be - si  
 be about (discuss as a subject) - tema  
 be beside (accompany) - lata  
 be born - jenu  
@@ -1661,7 +1661,7 @@ how? - ko?
 howl - ulula  
 howling - ulul  
 huh? (eh?, pardon?) - he  
-huh? (pardon?) - eh  
+huh? (pardon?) - he  
 human being - insan  
 human rights - insani hake  
 humane - insaniki  
@@ -2294,6 +2294,7 @@ muskmelon - melon
 muslim (moslem) - islam din jan  
 must - debu  
 mutual - unali  
+Mx. (Mr. or Ms.) - shi  
 my - mi di  
 Myanmar (Burma) - Myanma  
 mycelium - funge nete  

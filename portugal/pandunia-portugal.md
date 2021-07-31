@@ -260,7 +260,6 @@ duskar - malfeitoria (pecado)
 dusvidi - feio  
 ####E - E  
 e - e  
-e - ser (estar)  
 ekore - esquilo  
 eletre - eletricidade  
 elfe - elfo  
@@ -1026,6 +1025,7 @@ shulkan - escola (colégio)
 shulshef - diretor  
 shur - começo (início, princípio)  
 shutu - arte  
+si - ser (estar)  
 siborgium - seabórgio  
 sifloge - adjetivo  
 sikliste - ciclista  

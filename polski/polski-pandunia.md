@@ -258,7 +258,7 @@ but - sapate
 butelka - botel  
 Bułgaria - Bolgaria  
 bułka gotowana na parze - mante  
-być - e  
+być - si  
 być mistrzem (być ekspertem) - mesta  
 być o; dyskutować o - tema  
 być obok - lata  
@@ -287,7 +287,7 @@ całus - chum
 cały - holi  
 cebula - piaze  
 cecha, atrybut, własność; -ość - bonsifia  
-cecha, właściwość, parametr - sif  
+cecha, właściwość, parametr - sifa  
 cegła - dobe  
 cel - dike  
 cel - gol  
@@ -867,7 +867,7 @@ humor (nastrój) - emoshal
 humor - yumor  
 humorystyczny, śmieszny, zabawny, komiczny - yumori  
 hybryda; kundel - hibride  
-hę?, co?, pardon? - eh  
+hę?, co?, pardon? - he  
 ####I - I  
 i, oraz - e  
 idea, pomysł - idei  
@@ -1464,7 +1464,7 @@ metal - metal
 metal ciężki - bara metal  
 metoda, sposób - metode  
 metr - mitre  
-metro - tuneltren  
+metro - tunel tren  
 miast, miasteczko - citi  
 miasto - nagre  
 miecz - katane  
@@ -2950,9 +2950,9 @@ tu (tutaj, tam) - ya ve
 tuba, rura - tube  
 tul - tulium  
 tulipan - tulpe  
-tundra - tundre  
+tundra - tundra  
 tunel - tunel  
-Tunezja - Tunisia  
+Tunezja - Tunis  
 tunika, toga - tunike  
 turban - pagre  
 Turcja - Turkia  

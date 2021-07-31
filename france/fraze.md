@@ -109,17 +109,17 @@ Merci de m'avoir aidé.
 Je t'en prie. / Il n'y a pas de quoi.
 
 
-### e <small>être</small>
+### si <small>être</small>
 
 **mi se Tomas.**
 Je suis Thomas.
 
 ### mi <small>je, me, moi</small>
 
-**mi e Sara.**
+**mi si Sara.**
 Je suis Sara.
 
-**mi e Tomas.**
+**mi si Tomas.**
 Je suis Thomas.
 
 Vous pouvez vous présenter simplement en utilisant **me** et votre prénom ; le verbe "être" est optionel.
@@ -149,7 +149,7 @@ Salutations, père ! | Salut papa !
 
 ### tu <small>tu, te, toi</small>
 
-**tu e Tomas.**
+**tu si Tomas.**
 Tu es Thomas.
 
 **mi salam tu.**
@@ -168,13 +168,13 @@ Je t'aime.
 
 ### ya <small>Il, elle, ou il neutre</small>
 
-**ya e man.**
+**ya si man.**
 C'est un homme.
 
-**ya e fem.**
+**ya si fem.**
 C'est une femme.
 
-**ya e aple.**
+**ya si aple.**
 C'est une pomme.
 
 **ya** est le pronom général de la troisième personne.
@@ -189,10 +189,10 @@ Je le/la salue.
 
 ### sual <small>Pour poser une question (est-ce que)</small>
 
-**sual tu e Tomas?**
+**sual tu si Tomas?**
 Es-tu Thomas ?
 
-**sual tu e mediker?**
+**sual tu si mediker?**
 Êtes-vous docteur ?
 
 **Astuce :** Les questions auxquelles on peut répondre par oui ou par non commencent souvent par **sual**.
@@ -221,26 +221,26 @@ en anglais: "ask" demander.</small>
 
 ### ye <small>oui</small>
 
-**sual tu e Tomas?**
+**sual tu si Tomas?**
 Es-tu Thomas.
 
-**ye, mi e Tomas.**
+**ye, mi si Tomas.**
 Oui, je suis Thomas.
 
-**sual ya e mediker?**
+**sual ya si mediker?**
 Est-il/elle doctor ?
 
-**ye, ya e mediker.**
+**ye, ya si mediker.**
 Oui, il/elle est doctor.
 
 
 
 ### no <small>Ne pas</small>
 
-**mi no e Sara.**
+**mi no si Sara.**
 Je ne suis pas Sara.
 
-**mi no e mediker.**
+**mi no si mediker.**
 Je ne suis pas doctor.
 
 **sual tu bon?**
@@ -286,13 +286,13 @@ Vous les saluez.
 **yamen salam mimen!**
 Ils nous saluent.
 
-**mimen e fem.**
+**mimen si fem.**
 Nous sommes des femmes.
 
-**tumen e man.**
+**tumen si man.**
 Vous êtes des hommes.
 
-**yamen e aple.**
+**yamen si aple.**
 Ce sont des pommes.
 
 
@@ -301,20 +301,20 @@ Ce sont des pommes.
 
 **ke?** Quoi ?
 
-**tu e ke?**
+**tu si ke?**
 Qui es-tu ?  
-**mi e Tomas.**
+**mi si Tomas.**
 Je suis Thomas.
 
-**ya e ke?**
+**ya si ke?**
 Qui est-il/elle ?  
-**ya e Sara.**
+**ya si Sara.**
 C'est Sara.
 
-**tumen e ke?**
+**tumen si ke?**
 Qui êtes-vous ?
 
-**yamen e ke?**
+**yamen si ke?**
 Qui sont-ils ?
 
 <small>Étymologie : **ke** vient de l'espagnol "qué", en portugais il se dit "que", en italien "che" et en bengali: কী "ki".</small>
@@ -323,19 +323,19 @@ Qui sont-ils ?
 
 ### yi & vo <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
 
-**yi e ke?**
+**yi si ke?**
 Qu’est-ce que c’est que ça / ceci ?
 
-**yi e aple.**
+**yi si aple.**
 Ceci est une pomme.
 
-**yi e kirmi aple.**
+**yi si kirmi aple.**
 Ceci est une pomme rouge.
 
-**yi aple e kirmi.**
+**yi aple si kirmi.**
 Cette pomme est rouge.
 
-**yi e kirmi.**
+**yi si kirmi.**
 C'est rouge. / Ceci est rouge.
 
 
@@ -343,28 +343,28 @@ C'est rouge. / Ceci est rouge.
 
 ### di <small>particule possessive</small>
 
-**yi e ke?**
+**yi si ke?**
 Qu'est-ce que c'est ?
 
-**yi e mi di telefon.**
+**yi si mi di telefon.**
 C'est mon téléphone.
 
-**yi e ke di?**
+**yi si ke di?**
 À qui est-ce ?
 
-**ya e mi di.**
+**ya si mi di.**
 C'est à moi.
 
 **Note :** La particule possessive **di** se place entre le possesseur et la chose possédée.
 Ainsi **mi di** signifie "mon, ma, mes", **tu di** signifie "ton, ta, tes" et ainsi de suite.
 
-**ya e ke?**
+**ya si ke?**
 Qui est-ce ?
 
-**ya e mi di doste.**
+**ya si mi di doste.**
 C'est mon ami.e.
 
-**mi e Sara di doste.**
+**mi si Sara di doste.**
 Je suis l'ami.e de Sara.
 
 <small>Étymologie : **di** vient du mandarin 的 "de".</small>
@@ -372,16 +372,16 @@ Je suis l'ami.e de Sara.
 
 ### nam <small>nom</small>
 
-**tu di nam e ke?**
+**tu di nam si ke?**
 Quel est ton nom?
 
-**mi di nam e Tomas.**
+**mi di nam si Tomas.**
 Mon nom est Thomas.
 
-**ya di nam e ke?**
+**ya di nam si ke?**
 Quel est son nom ?
 
-**ya di nam e Sara.**
+**ya di nam si Sara.**
 Son nom est Sara.
 
  <small>Étymologie : **nam** vient du hindi  नाम "nām", il se dit en farsi نام‏‎ "nām", en thaï นาม "naam", en indonésien "nama", en japonais 名前 "namae", en allemand "Name", en anglais "name".</small>
@@ -567,10 +567,10 @@ Est-ce que tu as soif ?
 **maf! mi no aha.**
 Désolé, je ne comprends pas.
 
-**maf! yi e ke?**
+**maf! yi si ke?**
 Excusez-moi, qu’est-ce que c’est ?
 
-**maf. tu di nam e ke?**
+**maf. tu di nam si ke?**
 Pardon, quel est ton nom ?
 
 
@@ -636,7 +636,7 @@ Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 **men loga "chat" a ke yang a pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" e ke a pandunia?**
+**"chat" si ke a pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
 **mau loga miau.**
@@ -843,7 +843,7 @@ Je suis en train de saluer ton ami.e.
 **man ye zai vide un filme.**  
 L'homme est en train de regarder la femme.
 
-**ya zai e shefe.**  
+**ya zai si shefe.**  
 C'est lui le chef / elle la cheffe actuellement.
 
 **ya zai a dom.**  
@@ -858,7 +858,7 @@ J'ai salué ton ami.e.
 **man ye pas vide un filme fem.**  
 L'homme a regardé / regardait la femme.
 
-**ya pas e shefe.**  
+**ya pas si shefe.**  
 C'était lui le chef. / C'était elle la cheffe.
 
 **ya pas a dom.**  
@@ -873,7 +873,7 @@ J'ai (déjà) salué ton ami.e.
 **man leu vide un filme.**  
 L'homme a (déjà) regardé la femme.
 
-**ya leu e shefe.**  
+**ya leu si shefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
 **ya leu a le dom.**  
@@ -888,7 +888,7 @@ Je saluerai ton ami.e.
 **man vil vide le filme.**  
 L'homme regardera la femme.
 
-**ya vil e shefe.**  
+**ya vil si shefe.**  
 Il sera chef. / Elle sera cheffe.
 
 **ya vil a dom.**  
@@ -934,7 +934,7 @@ Je prendrai une bière.
 
 ### kire <small>location, emprunt</small>
 
-**kire e 500 dolar a mes.**  
+**kire si 500 dolar a mes.**  
 La location est de 500 dollars par mois / pour un mois.
 
 **ya no abla pei le kire.**  
@@ -964,16 +964,16 @@ Je vais acheter une bière.
 
 ### yang <small>type, genre, sorte</small>
 
-**ya e ke yang?**
+**ya si ke yang?**
 Ça ressemble à quoi ?
 
-**sual ya e nove?**
+**sual ya si nove?**
 C’est nouveau ?
 
-**ke e max boni?**
+**ke si max boni?**
 Lequel est mieux ?
 
-**yi e maxim boni (da pan).**
+**yi si maxim boni (da pan).**
 C’est le meilleur (de tous).
 
 **ya kosta ke?**

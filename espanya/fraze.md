@@ -97,10 +97,10 @@ De nada. No hay de qué.
 
 ### mi <small>yo</small>
 
-**mi e Sara.**
+**mi si Sara.**
 Yo soy Sara.
 
-**mi e Tomas.**
+**mi si Tomas.**
 Yo soy Tomás.
 
 **mi salam mama.**
@@ -125,7 +125,7 @@ Sara saluda a Tomás.
 
 ### tu <small>tú</small>
 
-**tu e Tomas.**
+**tu si Tomas.**
 Tú eres Tomás.
 
 **mi salam tu.**
@@ -146,13 +146,13 @@ Te amo. (Yo ama ti)
 
 ### ya <small>él, ella o eso</small>
 
-**ya e man.**
+**ya si man.**
 Él es un hombre.
 
-**ya e fem.**
+**ya si fem.**
 Ella es una mujer.
 
-**ya e aple.**
+**ya si aple.**
 Eso es una manzana.
 
 **le** es un pronombre personal de tercera persona general. Es usado en
@@ -166,10 +166,10 @@ Yo lo/la saludo.
 
 ### suala <small>se utiliza para preguntar</small>
 
-**suala tu e Tomas?**
+**suala tu si Tomas?**
 ¿Eres Tomás?
 
-**suala tu e mediker?**
+**suala tu si mediker?**
 ¿Eres doctor?
 
 Ayuda: Las preguntas que tienen como respuesta un sí o un no, frecuentemente
@@ -190,25 +190,25 @@ No estoy bien.
 
 ### ye <small>sí</small>
 
-**suala tu e Tomas?**
+**suala tu si Tomas?**
 ¿Eres Tomás?.
 
-**ye, mi e Tomas.**
+**ye, mi si Tomas.**
 Sí, soy Tomás.
 
-**suala ya e mediker?**
+**suala ya si mediker?**
 ¿Él/ella es doctor/a?
 
-**ye, ya e mediker.**
+**ye, ya si mediker.**
 Sí, él/ella es doctor/a.
 
 
 ### no <small>no</small>
 
-**mi no e Sara.**
+**mi no si Sara.**
 No soy Sara.
 
-**mi no e mediker.**
+**mi no si mediker.**
 No soy doctor/a.
 
 **suala tu bon?**
@@ -255,13 +255,13 @@ Ustedes los saludan a ellos.
 **yamen salam mimen!**
 ¡Ellos nos saludan!
 
-**mimen e fem.**
+**mimen si fem.**
 Nosotras somos mujeres.
 
-**tumen e man.**
+**tumen si man.**
 Ustedes son hombres.
 
-**yamen e aple.**
+**yamen si aple.**
 Esas son manzanas.
 
 
@@ -270,20 +270,20 @@ Esas son manzanas.
 **ke?**
 ¿Qué?
 
-**tu e ke?**
+**tu si ke?**
 ¿Quién eres?
-**mi e Tomas.**
+**mi si Tomas.**
 Soy Tomás.
 
-**ya e ke?**
+**ya si ke?**
 ¿Quién es él/ella?  
-**ya e Sara.**
+**ya si Sara.**
 Ella es Sara.
 
-**tumen e ke?**
+**tumen si ke?**
 ¿Quiénes son ustedes?
 
-**yamen e ke?**
+**yamen si ke?**
 ¿Quiénes son ellos/as?
 
 <small>Etimología. **ke** viene del español: qué, portugués: que, italiano:
@@ -291,51 +291,51 @@ che, bengalí: কী "ki".</small>
 
 ### ye & ve <small>esto, eso, aquello</small>
 
-**ye e ke?**
+**ye si ke?**
 ¿Qué es esto?
 
-**ye e aple.**
+**ye si aple.**
 Esta es una manzana.
 
-**ve e ke?**
+**ve si ke?**
 Esa es una manzana roja.
 
-**ve e oranje.**
+**ve si oranje.**
 Esta manzana es roja.
 
-**ye e kirmi aple.**
-**yi aple e kirmi.**
+**ye si kirmi aple.**
+**yi aple si kirmi.**
 como modificador. Cuando se pone después de un sustantivo, trabaja como un
 verbo adjetival.
 
-**ye e kirmi.**
+**ye si kirmi.**
 Es rojo.
 
 
 ### di <small>(partícula posesiva)</small>
 
-**ye e ke?**
+**ye si ke?**
 ¿Qué es esto?
 
-**ya e mi di telfon.**
+**ya si mi di telfon.**
 Es mi teléfono.
 
-**ye e ke di?**
+**ye si ke di?**
 ¿De quién es esto?
 
-**ya e mi di.**
+**ya si mi di.**
 Es mío.
 
 Nota: La partícula posesiva **di** se pone entre el poseedor y la cosa poseída.
 Así **mi di** significa "mi", **tu di** significa "tuyo/tuya" y así.
 
-**ya e ke?**
+**ya si ke?**
 ¿Quién es él/ella?
 
-**ya e mi di doste.**
+**ya si mi di doste.**
 Él/ella es mi amigo/a.
 
-**mi e Sara di doste.**
+**mi si Sara di doste.**
 Yo soy la amiga de Sara.
 
 <small>Etimología. **di** viene del
@@ -344,16 +344,16 @@ mandarín: 的 (de).</small>
 
 ### nam <small>nombre</small>
 
-**tu di nam e ke?**
+**tu di nam si ke?**
 ¿Cuál es tu nombre?
 
-**mi di nam e Tomas.**
+**mi di nam si Tomas.**
 Mi nombre es Tomás.
 
-**ya di nam e ke?**
+**ya di nam si ke?**
 ¿Cómo se llama (el/ella/eso)?
 
-**ya di nam e Sara.**
+**ya di nam si Sara.**
 Ella se llama Sara.
 
 <small>Etimología. **nam** viene del hindi: नाम  "nām", farsi: نام‏‎
@@ -520,10 +520,10 @@ Estoy hambriento. (Literalmente: _Necesito comer._)
 **maf! mi no aha.**
 Lo siento, no entiendo.
 
-**maf! ye e ke?**
+**maf! ye si ke?**
 Perdóname, ¿qué es esto/eso?
 
-**maf. tu di nam e ke?**
+**maf. tu di nam si ke?**
 Perdóname, ¿cómo te llamas?
 
 
@@ -587,7 +587,7 @@ Hablamos entre nosotros.
 **men loga "cat" a ke yang a pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
-**"gato" e ke aa pandunia?**
+**"gato" si ke aa pandunia?**
 ¿Qué es "gato" en pandunia?
 
 **mau loga miau.**

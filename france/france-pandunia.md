@@ -1246,7 +1246,7 @@ soja - soi
 soldat - gunjan  
 soleil - sol  
 sommeil - som  
-son (sa) - si  
+son (sa) - se di  
 son - son  
 soumettre - karmisa  
 soumission - islam  
@@ -1331,7 +1331,7 @@ truite arc-en-ciel - rangarke salmon
 truite brune (truite de mer) - brunsalmon  
 tu - tu  
 tubercule - masmul  
-Tunisie - Tunisia  
+Tunisie - Tunis  
 turban - pagre  
 télescope (lunette) - teleskope  
 télécharger - netogeta  
@@ -1469,7 +1469,7 @@ zèbre - zebre
 évangile - evanjil  
 éveillé - jagi  
 évident - eshvidi  
-être - e  
+être - si  
 être couché - kushu  
 être humain - insan  
 œil - oke  

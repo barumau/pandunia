@@ -422,9 +422,7 @@ duva - preĝi
 duve - preĝo  
 ####E - E  
 e - kaj  
-e - esti  
 eglis - preĝejo  
-eh - ĉu?  
 ekia - naturo  
 ekore - sciuro  
 ekran - ekrano  
@@ -706,6 +704,7 @@ hava - venti
 have - vento  
 hayamirer - admiralo (ŝiparestro)  
 hayi - mara  
+he - ĉu?  
 he - ĉu  
 heleni - greka  
 Helenia - Grekio  
@@ -1575,6 +1574,7 @@ shura - komenci
 shuru - komenciĝi  
 shusha - silentigi  
 shushi - silenta  
+si - esti  
 siborgium - seborgio  
 sida - sidi  
 sifloge - adjektivo  
@@ -1712,9 +1712,9 @@ tul - ilo
 tulium - tulio  
 tumen - vi ĉiu  
 tumen di - via  
-tundre - tundro  
+tundra - tundro  
 tunel - tunelo  
-tuneltren - metroo  
+tunel tren - metroo  
 tunike - robo  
 tupe - ĉapelo  
 turfe - torfo  
