@@ -3643,11 +3643,12 @@ tulium - thulium
 tulpe - tulip  
 tumen - you all  
 tumen di - your  
-tundre - tundra  
+tundra - tundra  
+tundra shan - fell  
 tunel - tunnel  
-tuneltren - subway (metro)  
+tunel tren - subway (metro)  
 tunike - tunic (gown)  
-Tunisia - Tunisia  
+Tunis - Tunisia  
 tupe - hat (cap)  
 turba - bother (annoy, disturb, irritate)  
 turbe - trouble (disturbance, bother, annoyance)  

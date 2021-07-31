@@ -11,18 +11,17 @@ nav:
         - 'Introduction': dunia_baxe.md
         - 'Principles': filsof.md
     - 'Grammar and Rules':
-        - 'The basic rules': 100_bazi_kanune.md
-        - 'World words': 101_duni_lekse.md
+        - 'The basic rules': 100_baze_kanun.md
+        - 'World words': 101_dunia_loga.md
         - 'Spelling and pronunciation': 102_ABC.md
         - 'Word classes': 103_logotipe.md
         - 'Pronouns': 104_viceloga.md
         - 'Nouns': 105_namloga.md
         - 'Numerals': 106_numbe.md
-        - 'Adjectives': 107_sifaloga.md
-        - 'Adverbs': 108_modeloga.md
-        - 'Verbs': 109_karloge.md
-        - 'Sentences': 110_jumle.md
-        - 'Word building': 111_logobine.md
+        - 'Modifiers': 107_modeloga.md
+        - 'Verbs': 108_ateloga.md
+        - 'Sentences': 109_jumle.md
+        - 'Word building': 110_logabina.md
     - 'Lessons':
         - 'Basic Phrases': fraze.md
         - 'Course': darse.md

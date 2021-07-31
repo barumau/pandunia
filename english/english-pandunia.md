@@ -1262,6 +1262,7 @@ feces (poop, shit) - shite
 fee (fare) - takse  
 feel (sense by touch) - senta  
 feel - emosu  
+fell - tundra shan  
 female - fem  
 feminism - femistia  
 feminist - femiste  
@@ -3394,7 +3395,7 @@ submission (surrender) - islam
 submit (present) - karmisa  
 substance (physical material from which something is made) - kim  
 substitute (replace) - visa  
-subway (metro) - tuneltren  
+subway (metro) - tunel tren  
 suck (absorb) - chupa  
 Sudan - Sudan  
 suffer (get hurt) - pashu  
@@ -3667,10 +3668,10 @@ tube (pipe) - tube
 tuber (bulb) - masmul  
 Tuesday - var du  
 tulip - tulpe  
-tundra - tundre  
+tundra - tundra  
 tungsten (wolfram) - volfram  
 tunic (gown) - tunike  
-Tunisia - Tunisia  
+Tunisia - Tunis  
 tunnel - tunel  
 turban - pagre  
 turkey - dinde  

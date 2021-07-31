@@ -40,46 +40,40 @@ They are described in more detail later in this document.
        - Hundreds: 100 **un cen**, 200 **du cen**, 300 **tri cen**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
        - The cardinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
-7. **Adjectives:**
-   The adjective is always placed before the noun with the exception of the ordinal numbers.
-    - The comparative of equality is **as...as** (as...as).
-    - The comparative of superiority is **mor...dan** (more...than).
-    - The comparative of inferiority is **les...dan** (less...than).
-8. **Adverbs:**
-   Adverbs modify verbs, adjectives, other adverbs and complete sentences.
-   They come before the word that they modify or very last in the sentence.
-   All adverbs consist of a _grade adverb_ and an adjective.
-    - **tre bon**
-      – very good or very well
-    - **ya tre bon loge.**
-      = **ya loge tre bon.**
-      – He or she speaks very well.
-9. **Verbs:**
+7. **Modifiers:**
+   The adjective and the adverb have the same form.
+   The adjective modifier is before the noun that it modifies,
+   and the adverb modifier is before the verb that it modifies.
+    - **un rapide loga**
+      – A fast seech.
+    - **tu rapide loga.**
+      – You speak fast.
+8. **Verbs:**
    The verb does not change in person, number and tense.
    Auxiliary verbs indicate time.
     - **zai** indicates an ongoing event.
     - **leu** indicates a completed event whose results have an effect on the present situation.
     - **pas** indicates a completed event that has no connection to the present situation.
     - **vil** indicates a future event.
-10. **Word order:**
+9. **Word order:**
     - The word order is subject–verb–object.
       The same order is used in declarations and questions.
     - A passive sentence is created with the help of the passive auxiliary verb **be**.
       A similar effect can be also reached with the impersonal pronoun **men**.
-        - **pandunia be loge.**
+        - **pandunia be loga.**
           – Pandunia is spoken.
-        - **men loge le pandunia.**
+        - **men loga le pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi ching tu loge le pandunia.**
+        - **mi ching tu loga le pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ ching _tu_ loge le pandunia.**
-          → **ching loge le pandunia.**
+        - **_mi_ ching _tu_ loga le pandunia.**
+          → **ching loga le pandunia.**
           – Please speak Pandunia.
-11. **Word building:**
-   In Panglobish, words change only when their actual meaning changes.
+10. **Word building:**
+   In Pandunia, words change only when their actual meaning changes.
    Words don't ever change only to serve in a different grammatical role.
    Compound words are made by combining the elements that form them.
    The main word stands at the end.
