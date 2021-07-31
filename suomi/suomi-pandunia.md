@@ -1698,7 +1698,7 @@ mestari (voittaja) - champion
 metalli - metal  
 meteli - kelele  
 metri - mitre  
-metrojuna (maanalainen) - tuneltren  
+metrojuna (maanalainen) - tunel tren  
 metsä (viidakko) - jangle  
 miekka - katane  
 mielikuvituksekas (fantastinen) - fantazi  
@@ -3012,8 +3012,8 @@ tulla (saapua) - laya
 tulokaskasvi (neofyytti) - neufite  
 tulppa (tappi, korkki) - tape  
 tulppaani - tulpe  
-tundra - tundre  
-Tunisia - Tunisia  
+tundra - tundra  
+Tunisia - Tunis  
 tunne (mielenliikutus) - emos  
 tunneli - tunel  
 tunnetila (tuuli) - emoshal  
@@ -3022,6 +3022,7 @@ tuntea (kokea tunteita) - emosu
 tuntea - senta  
 tunteellinen (tunne-) - emosi  
 tunti - hor  
+tunturi - tundra shan  
 tuo - ve  
 tuo - ve  
 tuoda - layana  

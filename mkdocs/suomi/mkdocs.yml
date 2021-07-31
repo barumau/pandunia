@@ -14,16 +14,15 @@ nav:
         - 'Maailman yhteyskieli': dunia_baxe.md
         - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
     - 'Pandunian perusteet ja rakenne':
-        - 'Perussäännöt': 100_bazi_kanune.md
-        - 'Yleismaailmallinen sanasto': 101_dunia_loge.md
+        - 'Perussäännöt': 100_baze_kanun.md
+        - 'Yleismaailmallinen sanasto': 101_dunia_loga.md
         - 'Ääntäminen': 102_ABC.md
-        - 'Substantiivit': 104_namloge.md
-        - 'Adjektiivit': 105_sifloge.md
-        - 'Adverbit': 106_modologe.md
-        - 'Numeraalit': 107_numloge.md
-        - 'Pronominit': 108_visloge.md
-        - 'Verbit': 109_karloge.md
-        - 'Lauserakenteita': 110_jumle.md
+        - 'Pronominit': 104_viceloga.md
+        - 'Substantiivit': 105_namloga.md
+        - 'Numeraalit': 106_numbe.md
+        - 'Määritteet': 107_modeloga.md
+        - 'Verbit': 108_ateloga.md
+        - 'Lauserakenteet': 109_jumle.md
     - 'Oppitunteja':
         - 'Lauseita': fraze.md
         - 'Kurssi': darse.md

@@ -3185,11 +3185,12 @@ tul - työkalu
 tulpe - tulppaani  
 tumen - te  
 tumen di - teidän  
-tundre - tundra  
+tundra - tundra  
+tundra shan - tunturi  
 tunel - tunneli  
-tuneltren - metrojuna (maanalainen)  
+tunel tren - metrojuna (maanalainen)  
 tunike - mekko (tunika)  
-Tunisia - Tunisia  
+Tunis - Tunisia  
 tupe - lakki (hattu)  
 turba - häiritä (vaivata)  
 turbe - häiriö (vaiva)  
