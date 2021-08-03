@@ -84,24 +84,24 @@ The basic word order is subject–verb–object (SVO).
 
 Tense, aspect and mood are indicated with helping verbs.
 
-**mi zai ai tu.**
+**mi zai ama tu.**
 – I am loving you.
 (**zai** indicates ongoing time i.e. progressive aspect)  
-**me pas ai tu.**
+**me pas ama tu.**
 – I loved you.
 (**pas** indicates the past time)  
-**mi leu ai tu.**
+**mi leu ama tu.**
 – I have loved you.
 (**leu** indicates completed action i.e. the perfective aspect)  
-**mi vil ai tu.**
+**mi vil ama tu.**
 – I will love you.
 (**vil** indicates future time)
 
 Passive voice is formed with the help of the helping verb **be**.
 
-**tu be ai.**
+**tu be ama.**
 – You are loved.  
-**mi be ai da tu.**
+**mi be ama da tu.**
 – I am loved by you.
 
 
@@ -124,9 +124,9 @@ The point of comparison is introduced with **ka**.
 
 Adverbs are usually before the word that they modify.
 
-**mi muche ai tu.**
+**mi muche ama tu.**
 – I much love you.  
-**mi ai tu, muche.**
+**mi ama tu, muche.**
 – I love you much.
 
 
@@ -150,10 +150,10 @@ The question words is
 **ke** (_what, who_).
 The normal word order is used in questions.
 
-**tu ai ke?**
+**tu ama ke?**
 – Who do you love?  
 **ke man ye ai tu?**
 – Which man loves you?  
-**tu ai mi ke muche?**
+**tu ama mi ke muche?**
 – How much do you love me?
 

@@ -159,10 +159,17 @@ The verb form of **salam** is **salam**, which means "to greet".
 **tu salam mi.**
 = You greet me.
 
-These are active sentences. In active sentences the subject does the
-action to the object. In **mi salam tu** the first word, **mi**, is
-the subject, **salam** is the verb (action word), and **tu** is the
-object. The order of subject, verb and object is the normal word order
+These are active sentences.
+In active sentences the subject does the action to the object. In
+**mi salam tu**
+the first word,
+**mi**,
+is the subject,
+**salam**
+is the verb (action word), and
+**tu**
+is the object.
+The order of subject, verb and object is the normal word order
 in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
@@ -181,8 +188,6 @@ that are obvious in the present situation.
 = Greetings to you! (It is obvious that the speaker is the one who greets.)  
 **salam!**
 = Greeting! (It is obvious that the listeners are greeted.)  
-**salam!**
-= Hello!
 
 Another Pandunia word for greeting is **halo**. It is also a very
 international greeting. You can choose freely, which word to use when
@@ -195,13 +200,13 @@ You may use both **salam** and **halo**
 to address people by name, kinship term or profession.
 
 **halo, toni!**
-= Hello, Tony!  
+– Hello, Tony!  
 **salam, mama!**
-= Hello, mother!  
+– Hello, mother!  
 **halo, papa!**
-= Hello, father!  
+– Hello, father!  
 **salam, shefe!**
-= Hello, chief!
+– Hello, chief!
 
 
 
@@ -282,12 +287,23 @@ following example sentence.
 **mi ching tu salam ya.**
 = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **ching** = to
-request, addresses **tu** as its object. At the same time **tu**
-serves also as the subject of the second verb, **salam** = to greet,
-whose object is **ya**. So **tu** has a double role: (1) object of
-the first verb and (2) subject of the second verb. Hence, it is the
-_pivot_ or hinge between the two verbs.
+This sentence has a _pivot structure_.
+The first verb,
+**ching**
+('to request), addresses
+**tu**
+as its object. At the same time
+**tu**
+serves also as the subject of the second verb,
+**salam**
+('to greet'), whose object is
+**ya**.
+So
+**tu**
+has a double role:
+(1) object of the first verb and
+(2) subject of the second verb.
+Hence, it is the _pivot_ or hinge between the two verbs.
 
 > Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
 
@@ -303,16 +319,18 @@ to keep on repeating them. In this manner phrases can be made shorter.
 **ching salam ya.**
 = Please say hello to him/her.
 
-See how the translation of **ching** changed between the two sentences?
+See how the translation of
+**ching**
+changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
-Pandunia can cope with changes like this without resorting to different
-words. It is a principle in Pandunia that there is always exactly one
-word for one concept. Different words are not created just because the
-grammatical role of a concept changes.
+Pandunia can cope with changes like this without resorting to different words.
+It is a principle in Pandunia that there is always exactly one word for one concept.
+Different words are not created just because the grammatical role of a concept changes.
 
-The phrase **ching salam ya** has a useful pattern that can be used
-for making polite requests.
+The phrase
+**ching salam ya**
+has a useful pattern that can be used for making polite requests.
 
 **ching side.**
 = Please be seated.  
@@ -325,18 +343,19 @@ for making polite requests.
 **ching safa kamar.**
 = Please clean the room.
 
-Commands are introduced with **amira** = to command. They employ the
-same pivot structure as requests with **ching**.
+Commands are introduced with
+**amir**
+('to command'). They employ the same pivot structure as requests with
+**ching**.
 
-**amira dona chai.**
+**amir dona chai.**
 = Give (me) some tea!  
-**amira safa kamar.**
+**amir safi le kamar.**
 = Clean the room!
 
-In practice, direct commands can be also made with just one verb and
-a commanding voice.
+In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safa ya!**
+**safi ya!**
 = Clean it!
 
 
@@ -367,11 +386,11 @@ and
 coffee  
 **kamar**
 room  
-**amira**
+**amir**
 to order, to command  
 **o**
 or  
-**safa**
+**safi**
 to clean  
 **side**
 to sit  
@@ -426,7 +445,7 @@ to eat or drink
 **no yam.**
 = No.  
 <big>👩‍🍳</big>
-**danke. mi dona un chai e un kafe e un supe a pos da desi minute.**
+**danke. mi dona un chai e un kafe e un supe a pos da des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -514,7 +533,7 @@ Try translating these sentences from English to Pandunia.
 
 **pos**
 after  
-**pardon**
+**maf**
 pardon, sorry  
 **minute**
 minute  
@@ -526,7 +545,7 @@ water
 soup  
 **un**
 one (1)  
-**desi**
+**des**
 ten  
 **sual**
 to ask a question  
@@ -557,9 +576,10 @@ Adding **no** in front of the verb turns an affirmative sentence to negative.
 **mi no salam tu.**
 = I do not greet you.
 
-Conceptually negation means the absence or non-existence of the
-negated word. In the phrase **mi no salam tu** the negative word
-**no** denies the existence of greeting.
+Conceptually negation means the absence or non-existence of the negated word.
+In the phrase
+**mi no salam tu**
+the negative word **no** denies the existence of greeting.
 
 In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
@@ -633,7 +653,7 @@ but.
 ## More Questions
 
 To ask questions beginning with _what_, _which_, _how_, _who_ and
-_when_, the interrogative pronoun **ki** is normally used. The
+_when_, the interrogative pronoun **ke** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
@@ -679,12 +699,18 @@ something, even when not answering to a question.
 
 ### Word List
 
-**dance** to dance.
-**lai** to come.
-**jen** person.
-**suka** to like.
-**yang** manner, style.
-**zaman** period of time.
+**dance**
+to dance  
+**lai**
+to come  
+**jen**
+person  
+**suka**
+to like  
+**yang**
+manner, style  
+**zaman**
+period of time
 
 
 ### Answers to the Exercises
@@ -795,12 +821,18 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**pas** past, former.
-**zai** present, current.
-**vil** future.
-**darba** to hit, to beat.
-**pang** bread.
-**suba yam** morning meal, breakfast.
+**pas**
+past, former  
+**zai**
+present, current  
+**vil**
+future  
+**darba**
+to hit, to beat  
+**pang**
+bread  
+**suba yam**
+morning meal, breakfast
 
 ### Answers to the Exercises
 
