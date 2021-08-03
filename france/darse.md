@@ -1,8 +1,6 @@
-﻿Leçons
-=======
+﻿# Leçons
 
-Se présenter
---------------------
+## Se présenter
 
 Note : Au travers des leçons proposées sur cette page, vous
 remarquerez que le pronom à la deuxième personne du singulier -
@@ -13,28 +11,28 @@ sur le plan de la politesse et de l'intimité.
 
 ### Dialogue
 
-<big>��</big>
+<big>👩🏻</big>
 **halo!**
 = Salut!  
-<big>��</big>
+<big>🧑🏾</big>
 **salam!**
 = Salut!  
-<big>��</big>
+<big>👩🏻</big>
 **tu si ke?**
 = Qui es-tu ?  
-<big>��</big>
+<big>🧑🏾</big>
 **mi si Yusef. tu si ke?**
 = Je suis Yusef. Qui est-tu ?  
-<big>��</big>
+<big>👩🏻</big>
 **mi si Sara. ya si ke?**
 = Je suis Sara. Qui est-ce ?  
-<big>��</big>
+<big>🧑🏾</big>
 **ya si mi di doste.**
 = C'est mon amie.  
-<big>��</big>
+<big>👩🏻</big>
 **ya di nam si ke?**
 = Quel est son nom ?  
-<big>��</big>
+<big>🧑🏾</big>
 **ya di nam si Maria.**
 = Son nom est Maria.
 
@@ -244,29 +242,29 @@ chef, patron
 
 ### Dialogue
 
-<big>�</big>
+<big>🧒</big>
 **halo!**
 = Bonjour !  
-<big>�</big>
+<big>🧓</big>
 **halo! ching side.**
 = Bonjour ! Asseyez-vous je vous prie !  
-<big>�</big>
+<big>🧒</big>
 **danke.**
 = Merci.  
-<big>�</big>
+<big>🧓</big>
 **ching yam kafe o chai.**
 = Prenez du thé ou du café, je vous prie
-<big>�</big>
+<big>🧒</big>
 **mi vol chai. danke.**
 = Je prends du thé, merci.  
-...
-<big>�</big>
+...  
+<big>🧓</big>
 **ching salam tu di mama!**
 = S'il te plaît, salut ta mère.  
-<big>�</big>
+<big>🧒</big>
 **mi salam ya. salam reste!**
 = Je la saluerai. Au revoir !  
-<big>�</big>
+<big>🧓</big>
 **salam gou!**
 = Au revoir !
 
@@ -413,37 +411,37 @@ manger ou boire, consommer
 
 ### Dialogue
 
-<big>�‍�</big>
+<big>👩‍🍳</big>
 **salam! sual tu yam kafe o chai?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
-<big>�</big>
+<big>🧔</big>
 **chai.**
 = Du thé.  
-<big>�‍�</big>
+<big>👩‍🍳</big>
 **e tu?**
 = Et vous ?  
-<big>�</big>
+<big>🧓</big>
 **mi no basha pandunia...**
 = Je ne parle pas le Pandunia...  
-<big>�‍�</big>
+<big>👩‍🍳</big>
 **maf! sual ya yam chai?**
 = Pardon ! prend-il du thé ?  
-<big>�</big>
+<big>🧔</big>
 **no. ya no yam chai. ya yam kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
-<big>�‍�</big>
+<big>👩‍🍳</big>
 **sual tu yam supe?**
 = Prenez-vous de la soupe ?  
-<big>�</big>
+<big>🧔</big>
 **ye.**
 = Oui.  
-<big>�‍�</big>
+<big>👩‍🍳</big>
 **sual ya yam supe?**
 = Prend-il de la soupe ?  
-<big>�</big>
+<big>🧔</big>
 **no yam.**
 = Non.  
-<big>�‍�</big>
+<big>👩‍🍳</big>
 **danke. mi dona un chai e un kafe e un supe a pos da des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 

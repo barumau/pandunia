@@ -51,14 +51,14 @@ Structure words can be classified futher into the following word classes:
 
 However, the class of a content word is seldom permanent.
 A word like
-**ai**
-("love") can function as a verb, noun or adjective
+**ama**
+('love') can function as a verb, noun or adjective
 depending on its position in the sentence.
 
-**mo ai ni.**
+**mi _ama_ tu.**
 – I _love_ you. (verb)  
-**ni gam mo de ai.**
+**tu gam mi di _ama_.**
 – You feel my _love_. (noun)  
-**mo kitabe un ai letre.**
+**mi kitaba un _ama_ letra.**
 – I write a _love_ letter. (adjective)
 

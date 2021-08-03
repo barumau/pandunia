@@ -79,7 +79,7 @@ Number, definiteness and gender are indicated by additional words.
 
 The basic word order is subject–verb–object (SVO).
 
-**mi ai tu.**
+**mi ama tu.**
 – I love you.
 
 Tense, aspect and mood are indicated with helping verbs.
@@ -152,7 +152,7 @@ The normal word order is used in questions.
 
 **tu ama ke?**
 – Who do you love?  
-**ke man ye ai tu?**
+**ke man ye ama tu?**
 – Which man loves you?  
 **tu ama mi ke muche?**
 – How much do you love me?

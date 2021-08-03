@@ -100,9 +100,9 @@ and **na** refers to things about to be spoken.
 
 In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken.
 
-**mi mana ni: mi ai tu.**
+**mi mana ni: mi ama tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi ai tu. mi mana na.**
+**mi ama tu. mi mana na.**
 – I love you. That is what I mean.
 
 In the above, the pronoun **ni** refers to the content of the next statement
