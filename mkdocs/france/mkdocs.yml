@@ -15,17 +15,16 @@ nav:
         - 'Questions et réponses': eske_i_jawabe.md
         - 'Traduire ce site': tarja_netoloke.md
     - 'Grammaire':
-        - 100_bazi_kanune.md
-        - 101_dunia_loge.md
+        - 100_baze_kanun.md
+        - 101_dunia_loga.md
         - 102_ABC.md
-        - 104_namloge.md
-        - 105_sifloge.md
-        - 106_modologe.md
-        - 107_numloge.md
-        - 108_visloge.md
-        - 109_karloge.md
-        - 110_jumle.md
-        - 111_logobine.md
+        - 104_viceloga.md
+        - 105_namloga.md
+        - 106_numbe.md
+        - 107_modeloga.md
+        - 108_ateloga.md
+        - 109_jumla.md
+        - 110_logabina.md
     - 'Leçons':
         - 'Phrases courantes': fraze.md
         - 'Leçons': darse.md

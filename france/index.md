@@ -20,8 +20,8 @@ Quelques traits remarquables du pandunia :
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
 - [Petits cours en images](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Recueil d’expressions](fraze.md)
-- Dictionnaire [français → pandunia](fransi-pandunia.md)
-- Dictionnaire [pandunia → français](pandunia-fransi.md)
+- Dictionnaire [français → pandunia](france-pandunia.md)
+- Dictionnaire [pandunia → français](pandunia-france.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 - Dictionnaire [dynamique](http://www.pandunia.info/fransi/tiddly.html)
 
