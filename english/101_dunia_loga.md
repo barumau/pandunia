@@ -172,7 +172,7 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **bax**.
+So the Pandunia word for language becomes **basha**.
 
 
 ### Examples of global words
@@ -196,7 +196,7 @@ So the Pandunia word for language becomes **bax**.
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### cai (tea)
+#### chai (tea)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -213,7 +213,7 @@ So the Pandunia word for language becomes **bax**.
 | Portuguese | ʃa           | chá             |
 
 
-#### moter (motor)
+#### moto (motor)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -231,7 +231,7 @@ So the Pandunia word for language becomes **bax**.
 
 ### Examples of semiglobal words
 
-#### bandir (flag)
+#### bandera (flag)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -245,7 +245,7 @@ So the Pandunia word for language becomes **bax**.
 | Kongo      | bande:la     | bandêla         |
 
 
-#### kamis (shirt)
+#### kamisa (shirt)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -276,7 +276,7 @@ So the Pandunia word for language becomes **bax**.
 
 ### Examples of East Asian words
 
-#### laya (come)
+#### lai (come)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -292,7 +292,7 @@ So the Pandunia word for language becomes **bax**.
 
 ### Examples of words from Arabic
 
-#### duve (prayer)
+#### dua (prayer)
 
 | Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
@@ -304,7 +304,7 @@ So the Pandunia word for language becomes **bax**.
 | Hausa      | adduʕa       | addu'a          |
 | Yoruba     | adura        | àdúrà           |
 
-#### kitabe (writing)
+#### kitabu (writing)
 
 This word means _book_ in many languages.
 The original Arabic word means all kinds of writing.
