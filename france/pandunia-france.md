@@ -1,6 +1,7 @@
 # pandunia-france
 ####A - A  
 a - mais (bien que)  
+a - le (la)  
 abies - sapin  
 acente - accent  
 acesa - accès  
@@ -87,6 +88,9 @@ amiria - émirat
 amirlin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
+an - a (dans, en, chez)  
+an ke - où  
+an lin - en ligne  
 anairbivi - anaérobique  
 anama - exécrer  
 anamike - ennemi  
@@ -122,13 +126,13 @@ aplika - appliquer
 aplike - application  
 aplosaus - compote de pommes  
 Apsni - Abkhazie  
-ar - aire (superficie)  
 arabi - arabe  
 arane - araignée  
 aranofobia - arachnophobie  
 aranonete - toile d'araignée  
 arbuze - pastèque  
 Archah - Artsakh  
+area - aire (superficie)  
 argente - argent  
 Argentina - Argentine  
 argon - argon  
@@ -205,28 +209,28 @@ balon - ballon
 balonpesh - poisson-globe  
 balute - chêne  
 balutopal - gland  
-bamye - gombo  
+bambu - bambou  
+bamia - gombo  
 ban - tableau (panneau)  
-banan - banane  
-bande - bande  
-bandir - drapeau  
-bangem - jeu de société  
+ban gem - jeu de société  
+banana - banane  
+banda - bande  
+bandera - drapeau  
 bangla basha - bengali  
 Bangladesh - Bangladesh  
 banke - banque  
 banker - banquier  
-banse - bambou  
-banye - bain  
-banyokamar - salle de bains  
-banyu - se baigner  
-bara - charge (fardeau, poids)  
-bara metal - métaux lourds  
+banya - bain  
+banya - se baigner  
+banya kamar - salle de bains  
+bara - bloquer  
+bara - barrière  
 Barbados - Barbade  
 barbar - barbare  
 Barbuda - Barbuda  
 barde - barbe  
-bare - bloquer  
-bare - barrière  
+bari - charge (fardeau, poids)  
+bari metal - métaux lourds  
 barium - baryum  
 barka - féliciter  
 barka - Félicitations !  
@@ -281,17 +285,17 @@ bokse - boxe
 bokser - boxeur  
 bokserpante - caleçon  
 bol - balle (boule)  
-bombe - bombe  
-boni - bon  
+bomba - bombe  
+bon - bon  
 bonsinyi - propice  
 botel - bouteille  
 boyu - nagar (flotter)  
-bravi - brave  
+bravo - brave  
 bravo - bravo!  
 briko - abricot  
-brunalge - algues brunes  
-bruni - brun (marron)  
-brunsalmon - truite brune (truite de mer)  
+brun - brun (marron)  
+brun alga - algues brunes  
+brun salmon - truite brune (truite de mer)  
 bucha - abattre  
 bucher - boucher  
 buchokan - abattoir  
@@ -546,6 +550,8 @@ gute - genou
 ha - avec (avoir)  
 haha - rire  
 hai - mer  
+hai alga - algues  
+hai amir ja - amiral  
 haichau - posidonie (herbiers marins)  
 haigun - force navale (marine)  
 haihiyar - concombre de mer  
@@ -560,13 +566,13 @@ handoshake - bras
 hapa - adapter (ajuster)  
 hapi - approprié (adapté, convenable, opportun)  
 hapu - convenir (être approprié)  
+harabu mahala - bidonville  
 harfi harfi - alphabet  
 Hartum - Khartoum  
 hata - jusque (jusqu’à)  
-hato - voire (même)  
-hatre - danger  
-hayalge - algues  
-hayamirer - amiral  
+hata - voire (même)  
+hatar - danger  
+he - hein?  
 helisbabul - acacia faux-gommier  
 helisviman - hélicoptère  
 hem - hum  
@@ -675,10 +681,12 @@ kalsite - calcite
 kalsokristal - marbre  
 kalsomate - chaux  
 kalsopetre - calcaire  
+kama - luxure (libido)  
+kama kanon - Kâmasûtra  
 kamar - pièce (chambre)  
 kamil - Camomille sauvage  
-kamis - chemise  
-kamisi shake - manche  
+kamisa - chemise  
+kamisa shake - manche  
 kampistan - terrain de camping  
 kanape - canapé (sofa)  
 kanche - verre  
@@ -686,6 +694,7 @@ kandi - bonbon
 kangaru* - kangourou  
 kankuate - kumquat  
 kano* - canoë  
+kanon - classique (canon)  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanyon - canyon (ravin)  
 kapotruke - piège  
@@ -721,6 +730,7 @@ kimem - élément chimique
 kimlojia - chimie  
 kimono* - kimono  
 kina - mouvoir (bouger)  
+kinar - bord  
 Kinshasa - Kinshasa  
 kinu - se mouvoir  
 kita - aller (quitter)  
@@ -773,8 +783,8 @@ kusha - coucher
 kushloke - couch (couchette)  
 kushu - être couché  
 ####L - L  
-la - de  
 lage - lac  
+lai - venir  
 laje - ordures  
 lalbausheke - rubis  
 lali - rouge  
@@ -792,9 +802,8 @@ late - côté
 lati - latéral  
 Latvia - Lettonie  
 lavi - vieux (âgé, ancien)  
-laya - venir  
 layana - apporter  
-lazanye - lasagne  
+lazanya - lasagne  
 lazuri - azur  
 lazurpetre - lapis-lazuli  
 legi - léger  
@@ -850,6 +859,7 @@ ma - mère (maman)
 mafa - pardonner  
 magesium - magnésium  
 Magribia - Maroc  
+mahala - quartier  
 majang - mah-jong  
 makanful - dandélion  
 mal - propriété (possession, bien)  
@@ -938,7 +948,7 @@ molsheke - meule
 mos - mousse  
 mosi - moussu  
 mosim - saison  
-moter - moteur  
+moto - moteur  
 muka - visage  
 mul - racine  
 mur - mur  
@@ -1017,9 +1027,9 @@ pai - tarte
 pake - paquet  
 pakse - oiseau  
 palabe - querelle (dispute, palabre)  
+pan - pain  
 pande - panda  
 pandemi patia - pandémie  
-pang - pain  
 panir - fromage blanc  
 panmim - pantomime  
 pante - pantalon  
@@ -1222,8 +1232,8 @@ shava - pluie
 shava chate - parapluie  
 shava kote - imperméable  
 shava mosim - mousson  
+she - chose  
 shefe - chef  
-shei - chose  
 sheihal - situation (état de choses)  
 sheke - pierre  
 shibai - échec  
@@ -1421,9 +1431,6 @@ volu - vouloir
 vulve - vulve  
 vute - objet (article)  
 ####X - X  
-ya - a (dans, en, chez)  
-ya ke - où  
-ya lin - en ligne  
 Yahve - Yahweh (Jéhovah)  
 yamen di - leur  
 yamfite - légume  
@@ -1435,6 +1442,7 @@ yaushina - fier
 yavan - nécessaire  
 yavi - nécessiteux (dans le besoin)  
 ye - oui  
+yeki kanon - Yi King  
 Yesu - Jésus  
 Yesu mesi - Jésus-Christ  
 yoke - joug  
@@ -1449,6 +1457,7 @@ Zardush din - zoroastrisme
 Zardush din ja - zoroastrien  
 zarkube - dé  
 zayi - présent  
+ze - de  
 zebre - zèbre  
 zeyil - verrue  
 zi - caractère  

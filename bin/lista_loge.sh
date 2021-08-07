@@ -44,7 +44,7 @@ fata_leksasli_liste() {
 }
 
 fata_liste() {
-    echo chan le loga liste do $2
+    echo chan a loga liste do $2
     fata_liste_pandunia_X $1 $2
     fata_liste_X_pandunia $1 $2
     fata_leksasli_liste $1 $2

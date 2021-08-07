@@ -30,6 +30,7 @@ amater - アマチュア
 amen - 正直  
 ami - 愛しい  
 amirlin - コマンド行  
+an lin - オンライン  
 anairbivi - 嫌気性  
 andesite - 安山岩  
 andiniste - 不信者  
@@ -83,10 +84,10 @@ balibali - 色々 (種々, 様々, 区々, とりどり, それぞれ)
 balonpesh - フグ  
 balute - ナラ  
 balutopal - ドングリ  
-bamye - オクラ  
+bambu - 竹  
+bamia - オクラ  
 ban - 板  
-bangem - ボードゲーム  
-banse - 竹  
+ban gem - ボードゲーム  
 basha - 言語  
 bashalogi - 言語学  
 bashi jinse - 文法的性 (名詞クラス)  
@@ -133,14 +134,14 @@ boi - フロート (ブイ)
 bokse - ボクシング (拳闘)  
 bokser - ボクサー (拳闘家)  
 bol - 玉 (球)  
-boni - 良い  
+bon - 良い  
 botel - 瓶  
 boyu - 泳ぐ (浮く)  
-brauza - 探る, 探検する  
+brauze - 探る, 探検する  
 brauzer - 探検家 (ブラウザ)  
-brunalge - 褐藻  
-bruni - 茶色  
-brunsalmon - ブラウントラウト  
+brun - 茶色  
+brun alga - 褐藻  
+brun salmon - ブラウントラウト  
 bucher - 肉屋  
 buchokan - 屠畜場  
 Buda - 仏陀  
@@ -232,6 +233,7 @@ dosili - 温順 (素直)
 dosiljeni - 家畜  
 dosti - 優しい (好ましい, 親切)  
 du - 二 (2)  
+dua - 祈祷  
 duga - 読む  
 dunia - 世界  
 durabli - 持続的  
@@ -244,7 +246,6 @@ dusjan - 敵
 duskar - 悪事  
 dusosinyi - 不吉 (縁起の悪い)  
 dusvidi - 見苦しい  
-duve - 祈祷  
 ####E - E  
 ekojeni - 野生  
 ekore - 栗鼠  
@@ -370,6 +371,8 @@ gute - 膝
 ####H - H  
 haha - 笑う  
 hai - 海  
+hai alga - 海藻  
+hai amir ja - 提督 (海軍大将)   
 haichau - 海草  
 haiful - イソギンチャク  
 haigun - 海軍  
@@ -385,12 +388,11 @@ hande - 手
 handoshake - 腕  
 hapa - 適応する  
 hapi - 適切  
+har - 全ての  
 haramliste - ブラックリスト  
 Hartum - ハルツーム  
-hatre - 危険  
-have - 風  
-hayalge - 海藻  
-hayamirer - 提督 (海軍大将)   
+hatar - 危険  
+hava - 風  
 helisviman - ヘリコプター  
 helpa - 手伝う (助ける)  
 hema - 考える  
@@ -482,10 +484,12 @@ kali harfi - 間隔
 kalmar - イカ  
 kalsokristal - 大理石  
 kalsomate - 石灰  
+kama - 色欲  
+kama deu - カーマ  
 kamar - 部屋  
 kamil - カモミール (カミツレ)  
-kamis - シャツ  
-kamisi shake - 袖  
+kamisa - シャツ  
+kamisa shake - 袖  
 kan - 店 (館)  
 kanche - ガラス  
 kanchodake - 釉薬  
@@ -518,10 +522,9 @@ kava - 掘る
 ke - 何  
 ke jan - 誰  
 ke sate - 何時  
-ke shei - 何事  
+ke she - 何事  
 ke yang - どんな  
 keger - 客人  
-kenarbaryer - 柵 (垣)  
 kerne - 核  
 kesh - 毛  
 kili - 千 (１０００)  
@@ -530,6 +533,8 @@ kimem - 元素
 kimlojia - 化学  
 kimono* - 着物  
 kina - 動かす  
+kinar - 際 (端)  
+kinar baryer - 柵 (垣)  
 kinograf - 映画  
 kinu - 動く  
 kire - 賃貸  
@@ -544,7 +549,6 @@ klien - 顧客 (依頼人, クライアント)
 klimmute - 気候変動  
 klin - 斜め (傾向)  
 ko? - どのように  
-koi (koyi) - 何分の  
 konboni - 合わせる (適する)  
 konchung - 昆虫  
 konformu - 即する  
@@ -581,8 +585,8 @@ kupe - コップ
 kusha - 横たえる  
 kushu - 寝転ぶ  
 ####L - L  
-la - -から  
 lage - 湖  
+lai - 来る  
 laje - ゴミ (廃棄物)  
 lalbausheke - ルビー  
 lali - 赤い  
@@ -602,9 +606,8 @@ lasun - 大蒜
 late - 側 (脇)  
 Latvia - ラトビア  
 lavi - 年配  
-laya - 来る  
 layana - 持って来る  
-lazanye - ラザニア  
+lazanya - ラザニア  
 lazurpetre - ラピスラズリ (瑠璃)  
 lefte - 左  
 lense - レンズ  
@@ -738,8 +741,8 @@ molekul - 分子
 mos - 苔  
 mosi - 苔状  
 mosim - 季節  
-moter - モーター (エンジン, 機関)  
-motosikle - オートバイ (モーターサイクル)  
+moto - モーター (エンジン, 機関)  
+moto sikle - オートバイ (モーターサイクル)  
 mul - 根  
 multi - 多い  
 mummelon - トウガン  
@@ -781,8 +784,8 @@ noche - 夜
 nola - キャンセルする  
 noma - 組織する  
 norde - 北  
-norme - 標準  
-normi - 普段 (ノーマル)  
+norma - 標準  
+norma - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
 numba - 数える  
 ####O - O  
@@ -801,10 +804,9 @@ ostoshalke - ぜんご
 pa - お父さん (父, パパ)  
 pachokade - マダラ  
 padomun - 落とし戸  
-pan (pani) - 全ての  
+pan - パン  
 pandemi patia - パンデミック  
 pandunia - パンドゥニア  
-pang - パン  
 panir - クワルク  
 panmim - パントマイム   
 pante - ズボン  
@@ -968,7 +970,7 @@ shatan - 悪魔
 shau - 少ない  
 shava - 雨  
 shava mosim - 雨季  
-shei - 事 (物)  
+she - 事 (物)  
 sheihal - 事態  
 shekojanger - 石匠  
 shi - さん (氏)  
@@ -1148,7 +1150,6 @@ vulve - 陰門
 vute - 物 (品)  
 ####X - X  
 xenon - キセノン  
-ya lin - オンライン  
 Yahve - ヤハウェ (エホバ)  
 yam - 食べ物 (食事)  
 yama - 食べる  
@@ -1161,7 +1162,9 @@ yaushina - 信頼する
 yaushinabli - 忠実  
 yavan - 必要  
 ye - はい  
+yeki kanon - 易経  
 Yesu mesi - イエス・キリスト  
+yo - 何分の  
 yoke - 軛  
 yom - 日  
 yongopetre - 溶岩  
@@ -1174,6 +1177,7 @@ zalim raja - 暴君
 zam - 時間  
 zarkube - 賽子  
 zayu - ある (いる)  
+ze - -から  
 zeyil - 疣  
 zeze - ハエ目 (双翅目)  
 zi - 字  

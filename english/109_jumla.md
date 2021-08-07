@@ -223,9 +223,9 @@ to suggest the expected answer.
 The third way to ask a yes-no question is to contradict the verb
 with the _A-not-A_ structure.
 
-**tu yam no yam le piza?**
+**tu yam no yam a piza?**
 – Do you or don't you eat the pizza?  
-**tu kan no kan yam le piza?**
+**tu kan no kan yam a piza?**
 – Can you or can't you eat the pizza?
 
 Yes-no questions are answered with
@@ -309,9 +309,9 @@ when the relativized noun is the subject of the relative clause.
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**_di_ kalam, a _de_ jan kitaba buke, padu.**
+**_di_ kalam, an _de_ jan kitaba buke, padu.**
 – _That_ pen, with _which_ the person writes the book, falls.  
-**kalam, jan kitaba buke a, padu.**
+**kalam, jan kitaba buke an, padu.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
@@ -324,7 +324,7 @@ or it can be left out by using the reduced relative clause structure.
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**_di_ jan, mi kitaba buke a _de_ di kalam, padu.**
+**_di_ jan, mi kitaba buke an _de_ di kalam, padu.**
 – The person whose pen I write the book with falls.  
 
 Finally, a content clause can also involve **de**,
@@ -349,14 +349,14 @@ It can be clarified by an expression like
 
 1. **e** and (connects two similar words or phrases)
 2. **o** or (connects two alternative words or phrases)
-3. **a** - but (introduces a word or phrase that contrasts with or
+3. **ama** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
 **mi suku mau e vaf.**
 – I like cats and dogs.  
 **mi suku mau o vaf.**
 – I like cats or dogs.  
-**mi suku mau a no vaf.**
+**mi suku mau ama no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -400,7 +400,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **mi no vide tu.**
 – I don't see you.  
-**mi vide no tu a yamen.**
+**mi vide no tu ama yamen.**
 – I see, not you, but them.
 
 **mi ching tu safa kamar.**
@@ -498,18 +498,18 @@ They function like adverbs, so typically their place is before the verb.
 
 **mi ceno ha mau.**
 – I had cats.  
-**a mi no zayo ha mau.**
+**ama mi no zai tena mau.**
 – But I now don't have cats.  
 **ablo mi poso ha mau.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **a censate** (in the past) etc.
+It's also possible to say it in a longer way like **an chen zaman** (in the past) etc.
 
-**mi ha mau a censate.**
+**mi ha mau an chen zaman.**
 – I had cats in the past.  
-**a mi no ha mau a zaisate.**
+**ama mi no ha mau an zai zaman.**
 – But I don't have cats at present.  
-**ablo mi ha mau a pososate.**
+**ablo mi ha mau an vil zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

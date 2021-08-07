@@ -34,7 +34,6 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 
 - [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_darse.html) - Kokeile oppia panduniaa pelkkien kuvien avulla!
 - [Tulkkisanakirja](fraze.md) - Käytännöllisiä lauseita panduniaksi ja suomeksi
-- [Helppo kurssi](gide.md)
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
     - [Suomi-pandunia](suomi-pandunia.md)

@@ -1,5 +1,5 @@
 # france-pandunia
-a (dans, en, chez) - ya  
+a (dans, en, chez) - an  
 ####A - A  
 abattoir - buchokan  
 abattre - bucha  
@@ -41,13 +41,13 @@ agrobiologie - agrobiologi
 agronomie - agronomia  
 ail - lasun  
 air - air  
-aire (superficie) - ar  
+aire (superficie) - area  
 Alaska - Alaska  
 alcool - alkol  
 alcoolique - alkoli  
 algue - alge  
-algues - hayalge  
-algues brunes - brunalge  
+algues - hai alga  
+algues brunes - brun alga  
 Algérie - Jayeria  
 aller (quitter) - kita  
 Aller-retour - retrotikete  
@@ -62,7 +62,7 @@ amande - badam
 amateur - amater  
 amer - alkalogusti  
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
-amiral - hayamirer  
+amiral - hai amir ja  
 amour (affection) - ai  
 amoureux - ai ja  
 ampoule (fiole) - ampul  
@@ -177,15 +177,15 @@ bagage - bagaje
 bah - bah  
 baie (golf) - bai  
 baie - bere  
-bain - banye  
+bain - banya  
 baisser - tala  
 balance (poids) - vezometrer  
 balcon - berande  
 balle (boule) - bol  
 ballon - balon  
-bambou - banse  
-banane - banan  
-bande - bande  
+bambou - bambu  
+banane - banana  
+bande - banda  
 bande dessinée - grafi kata  
 Bangladesh - Bangladesh  
 banque - banke  
@@ -195,7 +195,7 @@ barbare - barbar
 barbe - barde  
 Barbuda - Barbuda  
 baromètre - airbarmetrer  
-barrière - bare  
+barrière - bara  
 baryum - barium  
 bas - tal  
 bas - tali  
@@ -217,6 +217,7 @@ betterave - bete
 betterave à sucre (betterave sucrière) - sukarbete  
 bibliothèque - kitabu kan  
 bicyclette - sikle  
+bidonville - harabu mahala  
 bien-être - salamia  
 bilingue - dulbashi  
 billet - tikete  
@@ -226,12 +227,13 @@ bière - bir
 blanc - baki  
 blettes (bettes) - selge  
 bleu - blu  
-bloquer - bare  
+bloquer - bara  
 blé - ganum  
-bombe - bombe  
-bon - boni  
+bombe - bomba  
+bon - bon  
 bonbon - kandi  
 bord (rive) - tate  
+bord - kinar  
 botanique - fitolojia  
 botte - bute  
 boucher - bucher  
@@ -247,12 +249,12 @@ bouton - buton
 boxe - bokse  
 boxeur - bokser  
 bras - handoshake  
-brave - bravi  
+brave - bravo  
 bravo! - bravo  
 brigand (bandit) - luter  
 brique - dobe  
 brochette - shish  
-brun (marron) - bruni  
+brun (marron) - brun  
 brûler - hoga  
 buisson - tali moke  
 but (destination) - gol  
@@ -319,7 +321,7 @@ chardon - kardon
 chardon aux ânes - pinkardon  
 chardon Marie - milkokardon  
 chardon penché - pendokardon  
-charge (fardeau, poids) - bara  
+charge (fardeau, poids) - bari  
 charme - charme  
 chasser - saida  
 chat - mau  
@@ -327,14 +329,14 @@ chaudron - daivaze
 chauve-souris - feimush  
 chaux - kalsomate  
 chef - shefe  
-chemise - kamis  
+chemise - kamisa  
 cher - ami  
 chercher - soka  
 chien - vaf  
 chimie - kimlojia  
 Chine - Junguo  
 chocolat - choklate  
-chose - shei  
+chose - she  
 Christ (messie) - mesi  
 chronique - duri  
 chronomètre - durmetrer  
@@ -351,6 +353,7 @@ cirse commun - perkardon
 citron - limon  
 citrouille - kaboge  
 clair - klari  
+classique (canon) - kanon  
 client - klien  
 cloche - danger  
 coeur - kerne  
@@ -433,11 +436,11 @@ côté - late
 ####D - D  
 dance - danse  
 dandélion - makanful  
-danger - hatre  
+danger - hatar  
 danois - dani  
 dans le sens antihoraire - rotolefto  
 dauphin - dolfin  
-de - la  
+de - ze  
 demain - posdeno  
 demander (poser un question; est-ce que) - suala  
 dessous - niche  
@@ -469,7 +472,7 @@ donner naissance (procréer, engendrer, accoucher) - jena
 données - date  
 dormir - somu  
 douche - dush  
-drapeau - bandir  
+drapeau - bandera  
 droit (rectiligne) - orti  
 droit - haki  
 droits de l'homme - insani hake  
@@ -501,7 +504,7 @@ empreinte digitale - angulmarke
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
-en ligne - ya lin  
+en ligne - an lin  
 enclume - metalbede  
 encore - zoko  
 enfant - bache  
@@ -610,7 +613,7 @@ glacé (glacial, gelé) - aisi
 gland - balutopal  
 glisser - glisu  
 gnome - geo elfe  
-gombo - bamye  
+gombo - bamia  
 gorille - gorile  
 goule - gul  
 gouvernement - polite  
@@ -646,6 +649,7 @@ hameçon - peshhuke
 haut - gau  
 hautes technologies - gautehnia  
 Haïti - Aiti  
+hein? - he  
 Hesse - Hesia  
 heure - hor  
 heureux - suki  
@@ -707,7 +711,7 @@ Japon - Nipon
 jarre (carafe, cruche) - jar  
 jaïnisme - jeinistia  
 je (me) - mi  
-jeu de société - bangem  
+jeu de société - ban gem  
 jeudi - var chatre  
 jeune (juvénile) - joveni  
 joug - yoke  
@@ -728,6 +732,7 @@ kimono - kimono*
 Kinshasa - Kinshasa  
 kiwi - kivi*  
 kumquat - kankuate  
+Kâmasûtra - kama kanon  
 ####L - L  
 l'un l'autre - ses  
 lac - lage  
@@ -746,9 +751,10 @@ langue - lisan
 langue maternelle - jeni bash  
 lapin (lièvre) - tuze  
 lapis-lazuli - lazurpetre  
-lasagne - lazanye  
+lasagne - lazanya  
 latéral - lati  
 lave - yongopetre  
+le (la) - a  
 lent - lenti  
 lentille - lense  
 Lettonie - Latvia  
@@ -785,6 +791,7 @@ lune - lune
 luthéranisme - martinluteristia  
 luthérien - martinluteristi  
 lutte - jihade  
+luxure (libido) - kama  
 lynx - linche  
 lys - susan  
 léger - legi  
@@ -799,7 +806,7 @@ main - hande
 mais (bien que) - a  
 maison - dom  
 malédiccion - lane  
-manche - kamisi shake  
+manche - kamisa shake  
 mandarine - laloranje  
 mandarine satsuma - venjovoranje  
 manichéisme - manihayistia  
@@ -857,7 +864,7 @@ morue de l'Atlantique - atlantokade
 morue du Pacifique - pachokade  
 mot - logem  
 mot de passe - pasloge  
-moteur - moter  
+moteur - moto  
 mouche - domzeze  
 moudre - mola  
 mouiller - shipa  
@@ -879,7 +886,7 @@ méduse - haijel
 méfait (péché) - duskar  
 mémoire - mem  
 méninge - meninge  
-métaux lourds - bara metal  
+métaux lourds - bari metal  
 ####N - N  
 nagar (flotter) - boyu  
 nappe - mezotesh  
@@ -965,11 +972,11 @@ oubliette (cul de basse-fosse) - geo niche prizon
 oui - ye  
 ours - urse  
 oxyde - okside  
-où - ya ke  
+où - an ke  
 ####P - P  
 pacifiste - pachiste  
 page - varkolate  
-pain - pang  
+pain - pan  
 pair (pareil, egal) - pari  
 paix - pache  
 palais (château, manoir) - daidom  
@@ -1122,6 +1129,7 @@ péter - peda
 pétrole (essence) - petronefte  
 pêcheur - peshosaider  
 quand - ke sate  
+quartier - mahala  
 quartz - kuarze  
 quatre (4) - chatre  
 que (comme) - ka  
@@ -1185,7 +1193,7 @@ sac - sake
 sagesse - sofita  
 sain - sali  
 saison - mosim  
-salle de bains - banyokamar  
+salle de bains - banya kamar  
 salle de classe - shulkamar  
 salut (salam) - salame  
 samedi - var luku  
@@ -1212,7 +1220,7 @@ scie - sere
 sculpteur - eskulter  
 scutelle - ostoshalke  
 se - se  
-se baigner - banyu  
+se baigner - banya  
 se mouvoir - kinu  
 se passer - duru  
 se plaire - suku  
@@ -1328,7 +1336,7 @@ trois (3) - tri
 tropique - garmozon  
 truite - salmon  
 truite arc-en-ciel - rangarke salmon  
-truite brune (truite de mer) - brunsalmon  
+truite brune (truite de mer) - brun salmon  
 tu - tu  
 tubercule - masmul  
 Tunisie - Tunis  
@@ -1358,7 +1366,7 @@ varech - varkalge
 vendre - venda  
 vendredi - var penta  
 Venezuela - Venezuela  
-venir - laya  
+venir - lai  
 ver - verme  
 verbe - karloge  
 vermouth - vermute  
@@ -1389,7 +1397,7 @@ vivre (habiter) - doma
 vocabulaire (lexique) - logia  
 voile - hijabu  
 voir - vida  
-voire (même) - hato  
+voire (même) - hata  
 vol - fei  
 volcan - hogoshan  
 voler - feyu  
@@ -1407,6 +1415,7 @@ wolof - Volof
 ####X - X  
 y compris - inkluso  
 Yahweh (Jéhovah) - Yahve  
+Yi King - yeki kanon  
 ####Z - Z  
 zombi - zombi  
 zone - zona  

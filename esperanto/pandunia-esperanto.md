@@ -1,6 +1,7 @@
 # pandunia-esperanto
 ####A - A  
 a - sed  
+a - la  
 abies - abio  
 acente - akcento  
 achi - terni  
@@ -52,6 +53,9 @@ amerikium - americio
 ami - kara  
 amir - ordono  
 amper - ampero  
+an - ĉe (en, sur)  
+an ke - kie  
+an u loka - tie  
 an:a - igi (farigi)  
 anama - malami  
 anamike - malamulo  
@@ -75,11 +79,11 @@ anten - anteno
 anus - anuso  
 anusi - anusa  
 aple - pomo  
-ar - areo  
 arabi - araba  
 arane - araneo  
 aranofobia - araneofobio  
 arbuze - akvomelono  
+area - areo  
 argente - arĝento  
 Argentina - Argentino  
 argon - argono  
@@ -88,6 +92,7 @@ arme - armilo
 arsene - arseno  
 artiste - artisto  
 asan - posteno  
+asha - esperi  
 asi - azia  
 Asia - Azio  
 askete - ascetiko  
@@ -127,22 +132,22 @@ bahayistia - bahaismo
 baki - blanka  
 balde - sitelo  
 balon - balono  
+bambu - bambuo  
 ban - tabulo  
-banan - banano  
-bandir - flago  
-bangem - tabulludo  
+ban gem - tabulludo  
+banana - banano  
+bandera - flago  
 Bangladesh - Bangladeŝo  
 banke - banko  
 banker - bankisto  
-banse - bambuo  
-banye - bano  
-banyokamar - banĉambro  
-banyu - bana  
-bara metal - pezmetalo  
+banya - bano  
+banya - bana  
+banya kamar - banĉambro  
+bara - bari  
+bara - barilo  
 barbar - barbaro  
 barde - barbo  
-bare - bari  
-bare - barilo  
+bari metal - pezmetalo  
 barium - bario  
 barka - gratuli  
 barte - Barata  
@@ -208,7 +213,7 @@ bizar - stranga
 biznes - negoco  
 bizneser - komercisto  
 blabla - babili  
-blablokan - babilejo  
+blabla kan - babilejo  
 blu - blua  
 blu elfe - smurfo  
 bode - korpo  
@@ -220,8 +225,8 @@ bokser - boksisto
 bol - pilko  
 Bolgaria - Bulgario  
 Bolivia - Bolivio  
-bombe - bombo  
-boni - bona  
+bomba - bombo  
+bon - bona  
 bonsifia - eco  
 bonvidi - bonaspekta  
 bori - enui  
@@ -230,13 +235,13 @@ borium - borio
 boron - boro  
 botel - botelo  
 Botia - Tibeto  
-bravi - brava  
+bravo - brava  
 bravo - brave!  
 Brazil - Brazilo  
 briko - abrikoto  
 bromium - bromo  
 brosh - broso  
-bruni - bruna  
+brun - bruna  
 brus - frato aŭ fratino  
 bucha - buĉi  
 bucher - buĉisto  
@@ -377,6 +382,7 @@ dinde - meleagro
 ding - najlo  
 diske - disko  
 disprosium - disprozio  
+do - al (ĝis, por)  
 dokum - dokumento  
 dokumfilme - dokumentfilmo  
 dolar - dolaro  
@@ -400,6 +406,8 @@ dou - fabo aŭ pizo
 doze - porcio (dozo)  
 drame - dramo  
 du - du (2)  
+dua - preĝi  
+dua - preĝo  
 dubnium - dubnio  
 duga - legi  
 duka - malĝojigi  
@@ -418,8 +426,6 @@ dush - duŝo
 dusjan - malamiko  
 dusvidi - malbonaspekta  
 dute - dubo  
-duva - preĝi  
-duve - preĝo  
 ####E - E  
 e - kaj  
 eglis - preĝejo  
@@ -646,10 +652,10 @@ gram - gramo
 grimas - grimaco  
 grom - tondro  
 grupe - grupo  
+gua - kaverno  
 guanshe - rilato  
 Guatemala - Gvatemalo  
 gubu* - hipopotamo  
-guhe - kaverno  
 gui - ogro (trolo)  
 gula - gluti  
 guma - tamburo  
@@ -669,6 +675,7 @@ habargazete - gazeto
 hafnium - hafnio  
 haha - ridi  
 hai - maro  
+hai amir ja - admiralo (ŝiparestro)  
 haida - ni faru...  
 haigun - mararmeo  
 haiporte - haveno  
@@ -689,7 +696,9 @@ haos - kaoso (malordo)
 hapa - taŭgigi  
 hapi - taŭga  
 hapu - taŭgi  
-harabi - ruinigita  
+har - ĉiu  
+harabu - ruinigita  
+harabu mahala - kvartalaĉo  
 harfi - litero  
 harfi harfi - alfabeto  
 harmoni - harmonia  
@@ -697,17 +706,15 @@ harmonia - harmonio
 Hartum - Ĥartumo  
 hasi - speciala  
 hata - ĝis  
-hato - eĉ  
-hatre - danĝero  
-hatri - danĝera  
+hata - eĉ  
+hatar - danĝero  
+hatar li - danĝera  
 hava - venti  
-have - vento  
-hayamirer - admiralo (ŝiparestro)  
+hava - vento  
 hayi - mara  
 he - ĉu?  
-he - ĉu  
-heleni - greka  
-Helenia - Grekio  
+Helen - greka  
+Helen - Grekio  
 helisviman - helikoptero  
 helium - helio  
 helpe - helpo  
@@ -759,6 +766,7 @@ huri - libera
 huria - libereco  
 hushi - agrabla  
 ####I - I  
+i - ĉi tiu  
 ibri - Hebrea  
 iche - volo  
 idei - ideo  
@@ -771,7 +779,7 @@ insani hake - homaj rajtoj
 insania - homaro  
 insaniki - humana  
 insanistia - homismo  
-inshala - esperi  
+iode - jodo  
 Irakia - Irakio  
 Iran - Iranio  
 iridium - iridio  
@@ -852,10 +860,10 @@ kalsium - kalcio
 kalsokristal - marmoro  
 kalsomate - kalko  
 kalsopetre - kalkoŝtono  
+kama kanon - deziro  
 kamar - ĉambro  
 Kambojia - Kamboĝo  
-kamia - deziro  
-kamis - ĉemizo  
+kamisa - ĉemizo  
 kamote - batato  
 kan - farejo  
 kanal - kanalo  
@@ -898,7 +906,7 @@ kayu - malfermiĝi
 ke - kio?  
 ke jan - kiu?  
 ke sate - kiam?  
-ke shei - kio?  
+ke she - kio?  
 ke yang - kia?  
 kechape - keĉupo  
 kechi - ĝentila  
@@ -906,7 +914,6 @@ kega - vizito
 kege - viziti  
 keger - vizitanto  
 keke - kuko  
-kenar - rando (orlo)  
 kerne - kerno (koro)  
 kerni arme - kernarmilo  
 kerni energe - kernenergio  
@@ -918,6 +925,7 @@ kimem - kemia elemento
 kimlojia - ĥemio (kemio)  
 kimono* - kimono  
 kina - movi  
+kinar - rando (orlo)  
 kinu - moviĝi  
 kita - iri  
 kitabu - skribo  
@@ -939,10 +947,6 @@ ko multo - kiom?
 ko? - kiel?  
 kobalte - kobalto  
 kode - kodo  
-koi (koyi) - iu  
-koi jan - iu persono  
-koi sate - iam  
-koi shei - io  
 kokode - koko  
 kolum - kolono  
 komali - mola  
@@ -1000,8 +1004,8 @@ kurse - seĝo
 kurve - kurbo  
 kushu - kuŝi  
 ####L - L  
-la - de (el, pro)  
 labe - lipo  
+lai - veni  
 laje - rubo  
 lalbausheke - rubeno  
 lali - ruĝa  
@@ -1012,7 +1016,6 @@ lasun - ajlo
 late - flanko (latero)  
 lati - flanka (latera)  
 Latvia - Latvio  
-laya - veni  
 layana - alporti (venigi)  
 leng mosim - vintro  
 lengi - malvarma  
@@ -1073,6 +1076,7 @@ maf - pardono
 mafa - pardoni  
 magesium - magnezio  
 magia - magio  
+mahala - kvartalo  
 maitnerium - mejtnerio  
 majang - maĝango  
 makas - tondilo  
@@ -1180,8 +1184,8 @@ morter - mortigisto
 morti - morta  
 mosim - sezono  
 moskovium - moskovio  
-mote - movo  
-moter - motoro  
+moto - motoro  
+move - movo  
 muka - vizaĝo  
 mul - radiko  
 mumfote - kandelo  
@@ -1296,15 +1300,14 @@ pake - pako
 pakse - birdo  
 paladium - paladio  
 palme - palmo  
-pan (pani) - ĉiu  
+pan - pano  
 Panama - Panamo  
 pande - pando  
 pandemi patia - pandemio  
 panduni - tuttera  
 pandunia - pandunia  
-pang - pano  
 panike - paniko  
-panke - ventumilo  
+panka - ventumilo  
 pansato - ĉiam  
 pante - pantalonoj  
 papagai - papago  
@@ -1720,6 +1723,7 @@ tupe - ĉapelo
 turfe - torfo  
 Turkia - Turkio  
 ####U - U  
+u - tio  
 uma - ĉevalo  
 un - unu (1)  
 unal - unu la alian (reciproke)  
@@ -1733,7 +1737,6 @@ unoki lense - monoklo
 uranium - uranio  
 urse - urso  
 use - uzi  
-va - al (ĝis, por)  
 va - ŭaŭ!  
 vaf - hundo  
 vagina - vagino  
@@ -1757,8 +1760,6 @@ vase - oazo
 vasha - lavi  
 vashmashin - lavmaŝino  
 vate - vato  
-ve - tio  
-ve - tiu  
 vei - vosto  
 ventur - aventuro  
 venturer - aventuristo  
@@ -1789,8 +1790,6 @@ xenon - ksenono
 ya - li aŭ ŝi aŭ ĝi  
 ya - ejo (ujo, io)  
 ya di - lia aŭ ŝia aŭ ĝia  
-ya ke - kie  
-ya ve - tie  
 Yahve - Javeo (Jehovo)  
 yala - rapidigi  
 yama - manĝi (trinki)  
@@ -1802,13 +1801,15 @@ yamyau - malsato
 yang - speco (tipo, stilo)  
 yau - bezono  
 ye - jes  
-ye - ĉi tio  
+yeki kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
 Yesu - Jesuo  
 Yesu mesi - Jesuo Kristo  
 yeze - kokoso  
-yi - ĉi tiu  
-yodem - jodo  
+yo - iu  
+yo jan - iu persono  
+yo sate - iam  
+yo she - io  
 yoga - jogo  
 yoke - jugo  
 yom - tago (periodo de 24 horoj)  
@@ -1832,6 +1833,7 @@ zari - hazarda
 zarkube - ĵetkubo  
 zayi - ĉeestanta (ekzistanta)  
 zayia - ĉeestanteco (ekzisto)  
+ze - de (el, pro)  
 zebre - zebro  
 zeyil - veruko  
 zine - malfideleco  

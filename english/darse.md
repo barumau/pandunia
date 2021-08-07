@@ -348,9 +348,9 @@ Commands are introduced with
 ('to command'). They employ the same pivot structure as requests with
 **ching**.
 
-**amir dona chai.**
+**amir dona a chai.**
 = Give (me) some tea!  
-**amir safi le kamar.**
+**amir safi a kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
@@ -445,7 +445,7 @@ to eat or drink
 **no yam.**
 = No.  
 <big>👩‍🍳</big>
-**danke. mi dona un chai e un kafe e un supe a pos da des minute.**
+**danke. mi dona un chai e un kafe e un supe an pos da des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -597,11 +597,11 @@ and even numeral.
 
 **ya no tena mau.**
 = She doesn't have a cat.  
-**ya tena no mau, a vaf.**
+**ya tena no mau, ama vaf.**
 = She has no cats but dogs.  
-**no ya, a mi tena mau.**
+**no ya, ama mi tena mau.**
 = Not she but I have cats.  
-**mi tena no un, a du mau.**
+**mi tena no un, ama du mau.**
 = I have not one but two cats.
 
 
@@ -737,14 +737,14 @@ such as "to hit", which is the same in all tenses.
 **mi darba ya.**
 = I hit it.
 
-In Pandunia all verbs are like that! For example, **mi yam pang**
-can mean both "I eat bread" and "I ate bread", but usually only one
-or the other meaning makes sense in the context of the discussion.
-For example when people talk about that morning's breakfast, the
-sentence tells about the past time.
+In Pandunia all verbs are like that! For example,
+**mi yam pan**
+can mean both "I eat bread" and "I ate bread",
+but usually only one or the other meaning makes sense in the context of the discussion.
+For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam pang a suba yam.**
-= I ate bread for morning meal.
+**mi yam pan an i suba yam.**
+= I ate bread for this breakfast.
 
 There are also specific time words.
 
@@ -778,11 +778,11 @@ Simply put the word before the verb.
 
 It's also possible to use preposition phrases of time.
 
-**mi darba ya a pas.**
+**mi darba ya an pas.**
 = I hit it in the past.  
-**mi darba ya a zai.**
+**mi darba ya an zai.**
 = I hit it at present.  
-**mi darba ya a vil.**
+**mi darba ya an vil.**
 = I hit it in the future.
 
 
@@ -796,15 +796,15 @@ or until it becomes useful to stress that you are still talking in the same tens
 = I had a cat in the past.  
 **ya si bon mau.**
 = It was a good cat.  
-**mi tena un vaf a zai.**
+**mi tena un vaf an zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**mi jen a nen 2003.**
+**mi jen an nen 2003.**
 = I was born in 2003.  
-**ya safi le kamar a pos den.**
+**ya safi a kamar an pos den.**
 = He will clean the room tomorrow.
 
 
@@ -829,17 +829,17 @@ present, current
 future  
 **darba**
 to hit, to beat  
-**pang**
+**pan**
 bread  
 **suba yam**
 morning meal, breakfast
 
 ### Answers to the Exercises
 
-1. mi di shefe festa a vile.
-2. mi tena du vaf a pase.
-3. tu yam supe a zai.
-4. ya safa kamar a chen den.
-5. mau yam kafe a pos den.
-6. tu di mama festa a chen noche.
+1. mi di shefe festa an vile.
+2. mi tena du vaf an pase.
+3. tu yam supe an zai.
+4. ya safa kamar an chen den.
+5. mau yam kafe an pos den.
+6. tu di mama festa an chen noche.
 

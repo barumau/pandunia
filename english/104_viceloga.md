@@ -57,33 +57,45 @@ The word **semen** is used as the reciprocal pronoun.
 
 ## Demonstrative pronouns
 
-The demonstrative pronouns are:
+Demonstrative pronouns are used with nouns to make them more specific.
+The demonstrative pronouns in Pandunia are:
 
-**ni**
-– this  
-**na**
-– that  
+**i**
+– this (near the speaker)  
+**u**
+– that (far from speaker)  
+**a**
+– the (known by both the speaker and the listener)
 
-The proximal demonstrative **ni** points to things that are near the speaker.
-The distal demonstrative **na** points to things that are far from the speaker.
 
-**ni si bon.**
-– This is good.  
-**na si dus.**
-– That is bad.  
-**mi vol ni buke, no na.**
+
+
+In Pandunia, **i**, **a** and **u** can only work as modifiers
+so they always require a noun after them.
+To use them as pronouns, a generic noun like
+**she**
+('thing') needs to be added after these words.
+
+The proximal demonstrative **i** points to things that are near the speaker.
+The distal demonstrative **u** points to things that are far from the speaker.
+
+**i she si bon.**
+– This (thing) is good.  
+**u she si dus.**
+– That (thing) is bad.  
+**mi vol i buke, no u.**
 – I want this book, not that.
 
 The basic proximal and distal pronouns are used for introducing a new object.
-The topical demonstrative **le**, on the other hand,
+The topical demonstrative **a**, on the other hand,
 does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ni si mau. ya vola yam na mushu.**
+**i she si mau. ya vol yam u mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi mala un mau si un vaf. le vaf si dai. ya yam pol yam.**
+**mi mala un mau e un vaf. a vaf si dai. ya yam pol yam.**
 – I own a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -91,22 +103,22 @@ and it is known by the audience or is topical within the discourse.
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**le** refers to things previously spoken,
-**ni** refers to things currently being spoken,
-and **na** refers to things about to be spoken.
+**a** refers to things previously spoken,
+**i** refers to things currently being spoken,
+and **u** refers to things about to be spoken.
 
-**ni jumle si korti.**
+**i jumle si korte.**
 – This sentence is short.
 
-In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken.
+In the above, **i jumle** (_this sentence_) refers to the sentence being spoken.
 
-**mi mana ni: mi ama tu.**
+**mi mana i: mi ama tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi ama tu. mi mana na.**
+**mi ama tu. mi mana a.**
 – I love you. That is what I mean.
 
-In the above, the pronoun **ni** refers to the content of the next statement
-and **na** refers to the content of the previous statement.
+In the above, the pronoun **i** refers to the content of the next statement
+and **a** refers to the content of the previous statement.
 
 
 ## Interrogative pronouns
@@ -117,33 +129,30 @@ It does the job of English words _who_ and _what_.
 **ke?**
 – Who or what?  
 
-The adjectival interrogative pronoun is **ki**
+The adjectival interrogative pronoun is **ke**
 and it means the same as English _which_.
 
-**ki xei?**
+**ke she?**
 – What? (Which thing?)  
-**ki jan?**
+**ke jan?**
 – Who? (Which person?)  
-**ki zaman?**
+**ke zaman?**
 – When? (What time?)  
 
-The adverbial interrogative pronoun is **ko**
-and it means the same as English _how_.
+Also adjectives are questioned with **ke**.
 
-Also adjectives are questioned with **ko**.
-
-**ko novi?**
+**ke nove?**
 – How new?  
-**ko kosti?**
+**ke koste?**
 – How costy?  
-**ko poli?**
+**ke poli?**
 – How many?  
-**ko dai?**
+**ke dai?**
 – How big?  
-**ko lili?**
+**ke lili?**
 – How small?
 
-**tu tena ko dai mau?**
+**tu tena ke dai mau?**
 – How big cat do you have?
 
 

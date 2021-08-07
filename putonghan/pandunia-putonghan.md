@@ -40,6 +40,9 @@ aloraya - 不同意
 amater - 爱好者  
 amen - 诚实  
 ami - 亲爱的  
+an - 在  
+an lin - 在线  
+an no lin - 离线  
 anairbivi - 厌氧的  
 andesite - 安山岩  
 andiniste - 不信神的  
@@ -55,10 +58,10 @@ anten - 天线
 anus - 肛门  
 aple - 苹果  
 aplika - 运用  
-ar - 面积  
 arabobabul - 阿拉伯金合欢  
 arane - 蜘蛛  
 arbuze - 西瓜  
+area - 面积  
 argente - 银  
 arke - 弓 (琴弓, 拱)  
 arme - 武器  
@@ -100,18 +103,18 @@ bakomargarite - 法蘭西菊
 bakosalmon - 大麻哈鱼 (狗鮭)  
 balibali - 各种各样  
 balute - 橡树 (xiàng)  
-bamye - 秋葵  
+bambu - 竹子  
+bamia - 秋葵  
 ban - 板子  
-banan - 香蕉  
-bande - 班  (一帮)  
-bandir - 旗  
-bangem - 版图游戏  
+ban gem - 版图游戏  
+banana - 香蕉  
+banda - 班  (一帮)  
+bandera - 旗  
 banke - 银行  
-banse - 竹子  
-banye - 洗澡  
-banyokamar - 浴室  
-banyu - 游泳  
-bara - 擔子  
+banya - 洗澡  
+banya - 游泳  
+banya kamar - 浴室  
+bari - 擔子  
 basha - 语言  
 bashalogi - 语言学  
 bashi jinse - 文法的性  
@@ -157,16 +160,16 @@ bokse - 拳击
 bokser - 拳击手  
 bokserpante - 平角褲  
 bol - 球  
-bombe - 炸弹  
+bomba - 炸弹  
+bon - 好  
 bondeke - 道德  
-boni - 好  
 bonsinyi - 吉利的  
 bonvidi - 好看  
 botel - 瓶  
 boyu - 漂浮  
 briko - 杏子  
-bruni - 棕色 (色)  
-brunsalmon - 褐鳟  
+brun - 棕色 (色)  
+brun salmon - 褐鳟  
 bucher - 屠夫  
 buchokan - 屠宰场  
 Buda - 佛陀  
@@ -234,6 +237,7 @@ dinde - 火鸡
 ding - 钉子  
 diorite - 闪长岩  
 diske - 圆盘  
+do - 到  
 dobe - 砖  
 dokum - 文件  
 dokumfilme - 纪录片  
@@ -243,6 +247,7 @@ dong - 东
 dosila - 驯养  
 dosili - 驯服的  
 du - 二 (2)  
+dua - 祈祷  
 duga - 读 (看)  
 dunia - 世界  
 dur - 时间  
@@ -254,7 +259,6 @@ dusi - 难
 dusjan - 敌人  
 dusosinyi - 不祥的  
 dusvidi - 难看  
-duve - 祈祷  
 ####E - E  
 e - 和  
 ekore - 松鼠  
@@ -370,6 +374,8 @@ ha - 有
 habar - 消息  
 haha - 笑  
 hai - 海  
+hai alga - 海藻  
+hai amir ja - 海军上将  
 haichau - 海草  
 haiful - 海葵  
 haigun - 海军  
@@ -389,10 +395,8 @@ hapi - 合适
 harfi harfi - 字母表  
 Hartum - 喀土穆  
 hata - 直到  
-hato - 连  
-hatre - 危险  
-hayalge - 海藻  
-hayamirer - 海军上将  
+hata - 连  
+hatar - 危险  
 helis - 螺旋  
 helisviman - 直升机  
 helpa - 帮助  
@@ -486,10 +490,12 @@ kalsite - 方解石
 kalsokristal - 大理石  
 kalsomate - 石灰  
 kalsopetre - 石灰岩  
+kama - 情欲  
+kama kanon - 欲经  
 kamar - 房间  
 kamil - 母菊  
-kamis - 衬衫  
-kamisi shake - 袖子  
+kamisa - 衬衫  
+kamisa shake - 袖子  
 kan - 店 (馆)  
 kanape - 沙发  
 kanche - 玻璃  
@@ -497,6 +503,7 @@ kanchodake - 釉
 kandi - 糖果  
 kangaru* - 袋鼠  
 kankuate - 金柑  
+kanon - 经典  
 kantalupomelon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
 kapotruke - 陷阱  
@@ -525,14 +532,14 @@ kave - 坑 (穴)
 ke - 什么  
 kechi - 客气  
 keger - 客人  
-kenar - 边  
-kenarbaryer - 篱笆  
 kerne - 核心  
 kim - 物质  
 kimem - 元素  
 kimlojia - 化学  
 kimono* - 和服  
 kina - 动  
+kinar - 边  
+kinar baryer - 篱笆  
 kinu - 动  
 kita - 去  
 kitabu - 写  
@@ -580,8 +587,8 @@ kube - 立方体
 kupe - 杯子  
 kushu - 躺  
 ####L - L  
-la - 从  
 lage - 湖  
+lai - 来  
 laje - 废物 (垃圾)  
 lalbausheke - 红宝石  
 lali - 红  
@@ -600,9 +607,8 @@ lasun - 大蒜 (蒜头)
 late - 侧面 (旁边)  
 Latvia - 拉脱维亚  
 lavi - 老 (老年, 年歲大)  
-laya - 来  
 layana - 带来  
-lazanye - 千层面  
+lazanya - 千层面  
 lazurpetre - 青金岩  
 lefte - 左  
 leng mosim - 冬天  
@@ -730,7 +736,7 @@ molia - 磨坊
 molsheke - 磨石  
 mos - 苔藓  
 mosim - 季  
-moter - 马达 (发动机)  
+moto - 马达 (发动机)  
 mul - 根  
 mumchape - 封印  
 mummelon - 冬瓜 (白瓜)  
@@ -741,7 +747,6 @@ mushu - 鼠
 muskulbin - 健美运动  
 muzike - 音乐  
 ####N - N  
-na lin - 离线  
 nadiro - 很少  
 najis - 污染物  
 najisa - 污染  
@@ -795,8 +800,8 @@ pachiste - 和平主义者
 pachistia - 和平主义  
 pagre - 包头  
 pai - 馅饼  
+pan - 面包  
 pandemi patia - 大流行病  
-pang - 面包  
 panmim - 哑剧  
 pante - 裤子  
 papagai - 鹉鹦  
@@ -954,7 +959,7 @@ shava - 雨
 shava chate - 伞  
 shava kote - 雨衣  
 shava mosim - 雨季  
-shei - 事物 (东西)  
+she - 事物 (东西)  
 sheihal - 事态  
 sheke - 石 (岩)  
 shibai - 失败 (击败)  
@@ -1093,7 +1098,6 @@ uniko - 只有 (惟独)
 unjani - 独自的 (孤单)  
 unmaro - 一次 (一遍)  
 ura - 好哇  
-va - 到  
 va - 哇  
 vaf - 狗  
 vagina - 阴道  
@@ -1136,9 +1140,7 @@ vulve - 外阴 (陰门)
 vute - 物体 (物品)  
 ####X - X  
 ya - 他，她，它  
-ya - 在  
 ya di - 他的  
-ya lin - 在线  
 Yahve - 耶和华 (雅威)  
 yamen - 他们  
 yamen di - 他们的  
@@ -1150,6 +1152,7 @@ yaushina - 信赖
 yaushinabli - 忠实  
 yavan - 必要的  
 ye - 对 (是)  
+yeki kanon - 易经 (周易)  
 Yesu - 耶稣  
 Yesu mesi - 耶稣基督  
 yoga - 瑜伽功  
@@ -1162,6 +1165,7 @@ yongu - 融化
 zai zam di - 现在的  
 zam - 时间  
 zarkube - 骰子 (色子)  
+ze - 从  
 zebre - 斑马  
 zeyil - 疣  
 zeze - 双翅目  

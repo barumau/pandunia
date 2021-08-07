@@ -41,7 +41,7 @@ algodão - goton
 alho - lasun  
 alho-porro - porei  
 aligátor (jacaré) - korte krokodil  
-almirante - hayamirer  
+almirante - hai amir ja  
 altar - puja meza  
 alterar - ala  
 alô - halo  
@@ -114,17 +114,17 @@ bacia - basen
 baga - bere  
 bagagem - bagaje  
 baile (danza) - danse  
-bambu - banse  
-banana - banan  
+bambu - bambu  
+banana - banana  
 banco - banke  
 banco de dados - datobanke  
-bando - bande  
+bando - banda  
 banqueiro - banker  
 barba - barde  
 barco (navio) - nau  
 barra de chocolate - choklatobaton  
-barrar - bare  
-barreira - bare  
+barrar - bara  
+barreira - bara  
 base (álcali) - alkale  
 base - baze  
 basebol (beisebol) - bazobol  
@@ -144,8 +144,8 @@ biología - biologi
 bioma - biyosistem  
 bola - bol  
 bolo lunar - lunokeke  
-bom - boni  
-bomba - bombe  
+bom - bon  
+bomba - bomba  
 bombom (doce) - kandi  
 bombordo - naulefte  
 borboleta - pelpel  
@@ -155,7 +155,7 @@ botão - buton
 boxe - bokse  
 boxeador (pugilista) - bokser  
 branco - baki  
-bravo (valente, corajoso) - bravi  
+bravo (valente, corajoso) - bravo  
 bravo! - bravo  
 braço - handoshake  
 Buda - Buda  
@@ -177,7 +177,7 @@ calcário - kalsopetre
 calendário - kalende  
 calças - pante  
 camarão - krevete  
-camisa - kamis  
+camisa - kamisa  
 camomila-romana - romakamil  
 camomila-vulgar - kamil  
 cana-de-açúcar - sukarchau  
@@ -193,7 +193,7 @@ cardo - kardon
 cardo-mariano - milkokardon  
 cardo-roxo - perkardon  
 careta (esgar) - grimas  
-carga (peso) - bara  
+carga (peso) - bari  
 Caribe - Karaibia  
 carimbo - postomarke  
 carne - manse  
@@ -208,7 +208,7 @@ carvalho - balute
 carvalho-roble - europobalute  
 casca (concha) - kaske  
 cascalho - grave  
-castanho (marrom) - bruni  
+castanho (marrom) - brun  
 cavar (escavar) - kava  
 caçar - saida  
 cebola - piaze  
@@ -217,7 +217,7 @@ cemitério - gabur istan
 cenoura - karote  
 centro - jung  
 centáurea - centaure  
-cerca - kenarbaryer  
+cerca - kinar baryer  
 cereja - cheri  
 cerveja - bir  
 cerâmica - poteria  
@@ -246,7 +246,7 @@ claro - klari
 cliente - klien  
 coelho (lebre) - tuze  
 cogumelo - funge frute  
-coisa - shei  
+coisa - she  
 colaborar - konkara  
 colar (aderir) - gluta  
 colher - chamache  
@@ -315,7 +315,7 @@ dados - date
 damasco (abricó) - briko  
 dano (avaria) - avar  
 danês - dani  
-de - la  
+de - ze  
 dedo - angul  
 deitar - kusha  
 deixar - lasha  
@@ -446,6 +446,7 @@ falar - loga
 farol (baliza) - foto minar  
 fato (facto) - fate  
 fator - fater  
+favela - harabu mahala  
 favoritismo - mashfilistia  
 favorito (preferido) - mashfili  
 fazenda (tecido) - tesh  
@@ -585,7 +586,7 @@ Javé (Jeová) - Yahve
 jengibre - zinje  
 Jesus Cristo - Yesu mesi  
 joelho - gute  
-jogo de tabuleiro - bangem  
+jogo de tabuleiro - ban gem  
 joule (J) - jul  
 jovem - joveni  
 jugo - yoke  
@@ -594,6 +595,7 @@ justiça - adilta
 justo - adil  
 Júpiter - Jupiter  
 ####K - K  
+Kama Sutra - kama kanon  
 kelp - varkalge  
 ####L - L  
 lado - late  
@@ -604,7 +606,7 @@ lama (lodo) - fan
 lama - lama*  
 lançador de foguetes - roketolancher  
 laranja - oranje  
-lasanha - lazanye  
+lasanha - lazanya  
 lateral - lati  
 leite - milke  
 leite de soja - soi milke  
@@ -634,6 +636,7 @@ lula (calamar) - kalmar
 luta - jihade  
 luteranismo - martinluteristia  
 luterano - martinluteristi  
+luxúria - kama  
 luz - foto  
 lápide - gabur sheke  
 lápis - kalam  
@@ -647,7 +650,7 @@ língua materna - jeni bash
 lírio - susan  
 lírio-do-vale - vali susan  
 ####M - M  
-macroalga - hayalge  
+macroalga - hai alga  
 madrasta - vismai  
 magnésio - magesium  
 mahjong - majang  
@@ -656,7 +659,7 @@ maldição - lane
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
 mancha (marca) - marke  
-manga - kamisi shake  
+manga - kamisa shake  
 maniqueísmo - manihayistia  
 mantra - mantre  
 mar - hai  
@@ -665,6 +668,7 @@ marcha - marche
 margarida - margarite  
 margarida-comum - englomargarite  
 margarita-maior - bakomargarite  
+margem (borda) - kinar  
 margem - tate  
 marinha - haigun  
 Marrocos - Magribia  
@@ -722,7 +726,7 @@ monção - shava mosim
 monóculo - unoki lense  
 monólogo - autologe  
 morder - danta  
-motor - moter  
+motor - moto  
 mover - kina  
 Mover-se - kinu  
 moyen - medi  
@@ -774,6 +778,7 @@ não - no
 nós - mimen  
 núcleo (cerne) - kerne  
 número - numbe  
+o (a) - a  
 ####O - O  
 o que - ke  
 objetivo - dike  
@@ -787,8 +792,8 @@ oito (8) - bato
 oleiro - poter  
 olho - oke  
 onda - onde  
-onde - ya ke  
-online - ya lin  
+onde - an ke  
+online - an lin  
 ontem - chendeno  
 opinião - rai  
 opor - shata  
@@ -862,7 +867,7 @@ perdedor - shibayer
 perder - shibaya tena  
 perdoar (desculpar) - mafa  
 perguntar - suala  
-perigo - hatre  
+perigo - hatar  
 perplexo (confuso) - ruhmishi  
 peru - dinde  
 pesado - vezi  
@@ -923,11 +928,12 @@ purê de maçã - aplosaus
 pá - bel  
 página - varkolate  
 pântano - fantopia  
-pão - pang  
+pão - pan  
 pícea (espruce) - pise  
 quadrinhos (banda desenhada) - grafi kata  
 quando - ke sate  
 quarta-feira - var tri  
+quarteirão - mahala  
 quarto (dormitório) - somkamar  
 quartzo - kuarze  
 quatro (4) - chatre  
@@ -941,7 +947,7 @@ querer (desejar) - volu
 querido (caro) - ami  
 querido - ai jen  
 questão (pergunta) - sual  
-quiabo - bamye  
+quiabo - bamia  
 quimono - kimono*  
 quincã (cunquate) - kankuate  
 quinta-feira - var chatre  
@@ -1115,7 +1121,7 @@ trazer - layana
 trigo - ganum  
 truque (fraude) - truke  
 truta-arco-íris - rangarke salmon  
-truta-marrom - brunsalmon  
+truta-marrom - brun salmon  
 três (3) - tri  
 trópicos - garmozon  
 tu - tu  
@@ -1167,7 +1173,7 @@ vez - mar
 vice-rei - visrajer  
 vida - jiu  
 vidro - kanche  
-vir - laya  
+vir - lai  
 virgem - virje  
 vivo - jivi  
 viúvo - vidou  

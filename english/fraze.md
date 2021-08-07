@@ -64,11 +64,12 @@ Have a safe journey!
 **salam son!**
 Sleep well!
 
-As you can see from the range of expressions, **salam** is a general word for
-well-wishing. Use it any time!
+As you can see from the range of expressions,
+**salam**
+is a general word for well-wishing. Use it any time!
 
-**Salam** is a popular greeting that is used by both religious and
-non-religious people in many different countries around the world.
+**Salam**
+is a popular greeting that is used by both religious and non-religious people in many different countries around the world.
 
 <small>Etymology. **salam** is from Arabic: سَلَام‏ "salām", Hebrew:
 שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam,
@@ -135,7 +136,9 @@ I greet mother.
 **mi salam papa.**
 I greet father.
 
-The word **salam** is both a noun and a verb.
+The word
+**salam**
+is both a noun and a verb.
 The basic word order in Pandunia is subject–verb–object.
 
 **Sara ye salam Tomas.**
@@ -162,11 +165,13 @@ I greet you.
 **tu salam mi.**
 You greet me.
 
-Pronouns don't ever change their form in Pandunia. That's why **mi** is the
-same in subject and object positions while English has two different forms, 'I'
-and 'me'.
+Pronouns don't ever change their form in Pandunia.
+That's why
+**mi**
+is the same in subject and object positions
+while English has two different forms, 'I' and 'me'.
 
-**mi love tu.**
+**mi ama tu.**
 I love you.
 
 <small>Etymology. **tu** is from Spanish: tu, Russian: ты (ty), Italian: tu, French: tu.</small>
@@ -257,8 +262,8 @@ Are you well?
 **no, mi no bon.**
 No, I'm not well.
 
-You can use **no** to deny anything. It is placed before the word that is
-denied.
+You can use **no** to deny anything.
+It is placed before the word that is denied.
 
 **ya no salam mi.**
 He/she doesn't greet me.
@@ -327,49 +332,49 @@ Who are they?
 Bengali: কী "ke".</small>
 
 
-### ni & na <small>this and that</small>
+### i & u <small>this and that</small>
 
-**ni si ke?**
+**i si ke?**
 What's this?
 
-**ni si aple.**
+**i si aple.**
 This is an apple.
 
-**na si ke?**
+**u si ke?**
 What is that?
 
-**na si oranje.**
+**u si oranje.**
 That is an orange.
 
-**ni si kirmi aple.**
+**i si kirmi aple.**
 This is a red apple.
 
-**ni aple si kirmi.**
+**i aple si kirmi.**
 This apple is red.
 
-**ni si kirmi.**
+**i si kirmi.**
 This is red.
 
-**yamen a ke?**
+**yamen an ke?**
 Where are they?
 
-**yamen a ni.**
+**yamen an i.**
 They are here.
 
-**yamen a na.**
+**yamen an u.**
 They are there.
 
 
 
 ### di <small>'s (possessive particle)</small>
 
-**ni si ke?**
+**i si ke?**
 What's this?
 
 **ya si mi di telefon.**
 It's my telephone.
 
-**ni si ke di?**
+**i si ke di?**
 Whose is this?
 
 **ya si mi di.**
@@ -508,7 +513,7 @@ No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
 Which apple do you want?  
-**ni kirmi.**
+**i kirmi.**
 This red one.
 
 
@@ -572,7 +577,7 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! ni si ke?**
+**maf! i si ke?**
 Excuse me, what's this?
 
 **maf. tu di nam si ke?**
@@ -635,10 +640,10 @@ I talk to you.
 **mimen loga do semen.**
 We talk to each other.
 
-**men loga "cat" a ke yang a pandunia?**
+**men loga "cat" an ke yang an pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" si ke a pandunia?**
+**"cat" si ke an pandunia?**
 What is "cat" in Pandunia?
 
 **mau loga miau.**
@@ -671,10 +676,10 @@ Pleased to see you!
 **vide tu re!**
 See you again!
 
-**vide tu a pos den!**
+**vide tu an pos den!**
 See you tomorrow!
 
-**mi vide ya a chen den.**
+**mi vide ya an chen den.**
 I saw him/her yesterday.
 
 
@@ -698,7 +703,7 @@ I don't understand what it means.
 **ching kitaba tu di adres.**
 Please, write your address.
 
-**ching kitaba ya a yi.**
+**ching kitaba ya an i.**
 Please, write it here!
 
 
@@ -733,7 +738,7 @@ Swahili, Hausa, Yoruba, Amharic
 **tu gou ke?**
 Where are you going?
 
-**mi gou le dom.**
+**mi gou a dom.**
 I'm going home.
 
 **mi mus gou ke?**
@@ -745,7 +750,7 @@ To whom should I go?
 **haida gou!**
 Let's go!
 
-**haida gou a fute**
+**haida gou an fute**
 Let's go by foot!
 
 
@@ -760,13 +765,13 @@ Where do you come from?
 **mi lai ze Dubai.**
 I come from Dubai.
 
-**mi lai dom a pos den.**
+**mi lai dom an pos den.**
 I will come home tomorrow.
 
 
 ### safar <small>to travel</small>
 
-**sual tu safar a tren?**
+**sual tu safar an tren?**
 Do you travel by train?
 
 **mimen safar ze London do Paris.**
@@ -776,29 +781,29 @@ We travel from London to Paris.
 The voyage is very long.
 
 
-### a <small>in, on, at</small>
+### an <small>in, on, at</small>
 
-**hotel a ke?**
+**hotel an ke?**
 Where is the hotel?
 
-**hotel a vo dau.**
+**hotel an u dau.**
 The hotel is on that road.
 
-**tu a ke?**
+**tu an ke?**
 Where are you?
 
-**mi a dom.**
+**mi an dom.**
 I'm at home.
 
-**ya a ke?**
+**ya an ke?**
 Where is he/she?
 
-**ya side a kamar.**
+**ya side an kamar.**
 He/she sits in the room.
 
-Tip! You can use **a** as a preposition or alone as the verb.
+Tip! You can use **an** as a preposition or alone as the verb.
 
-**mi kara a...**
+**mi kara an...**
 I work at ...
 
 
@@ -813,8 +818,8 @@ I live in Singapore.
 **sual tu dom yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **tu dom a ke?** instead of **tu dom ke**.
-However **dom** already covers the meaning of being at somewhere, so **a** is not necessary.
+Tip: It is also okay to say **tu dom an ke?** instead of **tu dom ke**.
+However **dom** already covers the meaning of being at somewhere, so **an** is not necessary.
 
 
 ### deng <small>to wait</small>
@@ -828,7 +833,7 @@ Wait for me!
 **yamen deng mimen.**
 They wait for us.
 
-**mi deng tu a hotel.**
+**mi deng tu an hotel.**
 I wait for you in the hotel.
 
 
@@ -845,7 +850,7 @@ The man is watching a film.
 **ya zai si shefe.**  
 He or she is currently the chief.
 
-**ya zai a dom.**  
+**ya zai an dom.**  
 He or she is currently at home.
 
 
@@ -860,7 +865,7 @@ The man watched a film.
 **ya pas si shefe.**  
 He or she was the chief.
 
-**ya pas a dom.**  
+**ya pas an dom.**  
 He or she was at home.
 
 
@@ -875,7 +880,7 @@ The man has watched a film.
 **ya leu si shefe.**  
 He or she has been the chief.
 
-**ya leu a le dom.**  
+**ya leu an a dom.**  
 He or she has been at home.
 
 
@@ -884,13 +889,13 @@ He or she has been at home.
 **mi vil salam tu di doste.**  
 I will greet your friend.
 
-**man vil vide le filme.**  
+**man vil vide a filme.**  
 The man will watch the film.
 
 **ya vil si shefe.**  
 He or she will be the chief.
 
-**ya vil a dom.**  
+**ya vil an dom.**  
 He or she will be at home.
 
 
@@ -933,19 +938,19 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire si 500 dolar a mes.**  
+**kire si 500 dolar an mes.**  
 The rent is 500 dollars in a month.
 
-**ya no bil pei le kire.**  
+**ya no bil pei a kire.**  
 He/she can't pay the rent.
 
-**mi vol kapa un gar a kire.**  
+**mi vol kapa un gar an kire.**  
 I want to take a car for rent.
 
 **mi vol kir kapa un gare.**
 I want to rent a car.
 
-**ya kir don le kamar do safarer.**
+**ya kir don a kamar do safarer.**
 He/she rents rooms to travelers.
 
 
@@ -996,10 +1001,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi shul le pandunia.**
+**mi shul a pandunia.**
 I study Pandunia.
 
-**shou ya do mi a loga buke!**
+**shou ya do mi an loga buke!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.
@@ -1028,7 +1033,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**ching side a yi!**
+**ching side an i!**
 Please, sit here!
 
 **mi suku stasa.**
@@ -1037,7 +1042,7 @@ I rather stand.
 ****
 With pleasure!
 
-**festa kaishi a ke zaman?**
+**festa kaishi an ke zaman?**
 When does the party begin?
 
 **tu sahi.**

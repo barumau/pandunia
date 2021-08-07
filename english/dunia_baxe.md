@@ -190,7 +190,7 @@ Pandunia doesn't have lexical tone,
 and it has fixed stress.
 The stress falls on the syllable before the last consonant.
 Like this:
-**hálo! mí vól lóge le bón dúnia básha.**
+**hálo! mí vól lóga a bón dúnia básha.**
 (_Hello! I want to speak the good world language._)
 
 

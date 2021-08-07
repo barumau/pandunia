@@ -1,6 +1,7 @@
 # pandunia-espanya
 ####A - A  
 a - pero  
+a - el (la)  
 abies - abeto  
 acente - acento  
 acesa - acceso  
@@ -92,6 +93,10 @@ amiria - emirato
 amirlin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
+an - en (a)  
+an ke - dónde  
+an lin - en línea  
+an u loka - allí (allá)  
 anairbivi - anaeróbico  
 anama - detestar  
 andaka - destapar  
@@ -135,13 +140,13 @@ aplika - emplear (aplicar)
 aplike - aplicación  
 aplosaus - compota de manzanas  
 Apsni - abjazia  
-ar - área (superficie)  
 arabi - árabe  
 arabobabul - goma arábiga  
 arane - araña  
 aranofobia - aracnofobia  
 arbuze - sandía (patilla)  
 Archah - Artsaj  
+area - área (superficie)  
 argente - plata  
 Argentina - Argentina  
 argon - argón  
@@ -163,6 +168,7 @@ Aruba - Aruba
 asan - postura (posición)  
 asar - resulta (efecto)  
 asara - efectuar  
+asha - esperar (desear)  
 Ashur - Assur (Ashur)  
 Ashuria - Asiria  
 asi - asiático  
@@ -236,29 +242,29 @@ balon - globo
 balonpesh - pez globo  
 balute - roble  
 balutopal - bellota  
-bamye - ocra  
-banan - plátano (banana)  
-bande - banda  
-bandir - bandera  
-bangem - juego de mesa  
+bambu - bambú  
+bamia - ocra  
+ban gem - juego de mesa  
+banana - plátano (banana)  
+banda - banda  
+bandera - bandera  
 bangla basha - idioma bengalí  
 Bangladesh - Bangladés  
 banka - ahorrar (reservar, depositar)  
 banke - banco  
 banker - banquero  
-banse - bambú  
-banye - bañera  
-banyokamar - baño  
-banyu - bañarse  
+banya - bañera  
+banya - bañarse  
+banya kamar - baño  
 bar - bar  
-bara - carga (pesa)  
-bara metal - metal pesado  
+bara - barrar (bloquear, obstruir)  
+bara - barrera (barda)  
 Barbados - Barbados  
 barbar - bárbaro  
 Barbuda - Barbuda  
 barde - barba  
-bare - barrar (bloquear, obstruir)  
-bare - barrera (barda)  
+bari - carga (pesa)  
+bari metal - metal pesado  
 barium - bario  
 barka - felicitar  
 barka - ¡Felicitaciones!  
@@ -354,7 +360,7 @@ bizar - raro (extraño)
 biznes - negocios (comercio)  
 bizneser - empresario  
 blabla - charlar (parlotear, chatear)  
-blablokan - sala de chat (tertuliadero)  
+blabla kan - sala de chat (tertuliadero)  
 bloge - blog  
 blu - azul  
 blu elfe - pitufo  
@@ -369,11 +375,11 @@ bokserpante - bóxer
 bol - bola  
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
-bombe - bomba  
+bomba - bomba  
+bon - bueno  
 bondarja - mejorar  
 bondeke - virtud (moralidad)  
 bondeki - virtuoso (moral)  
-boni - bueno  
 boni zar - buena suerte  
 bonsifi - excelente  
 bonsifia - calidad (excelencia, mérito, virtud, ventaja)  
@@ -387,7 +393,7 @@ Bosnia e Herchegovina - Bosnia y Herzegovina
 botel - botella  
 Botia - Tíbet  
 boyu - nadar (flotar)  
-brauza - explorar  
+brauze - explorar  
 brauzer - explorador (navegador)  
 bravo - bravo!  
 Brazavil - Brazzaville  
@@ -397,10 +403,10 @@ briko - albaricoque
 Britania - Reino Unido  
 bromium - bromo  
 brosh - cepillo (brocha)  
-brunalge - algas pardas  
+brun - marrón  
+brun alga - algas pardas  
+brun salmon - trucha marrón  
 Brunei - Brunei  
-bruni - marrón  
-brunsalmon - trucha marrón  
 brus - hermano o hermana  
 bucha - carnear (matar)  
 bucher - carnicero  
@@ -621,6 +627,7 @@ disho - directamente
 diske - disco  
 disprosium - disprosio  
 Divehia - Maldivas  
+do - a (hacia)  
 dobe - ladrillo  
 doichi - alemán  
 Doichia - Alemania  
@@ -662,6 +669,8 @@ drame - drama
 droge - droga (narcótico)  
 Drugia - Bután  
 du - dos (2)  
+dua - rezar (orar)  
+dua - rezo (oración)  
 dubnium - dubnio  
 duga - leer  
 duka - entristecer (poner triste)  
@@ -702,8 +711,6 @@ dusnamana - insultar (ofender)
 dusosinyi - ominoso (amenazador)  
 dusvidi - feo  
 dute - duda  
-duva - rezar (orar)  
-duve - rezo (oración)  
 ####E - E  
 e - y  
 eglis - iglesia  
@@ -1089,12 +1096,12 @@ gros - grueso
 gros harfi - letra negrita  
 grosta - grosor  
 grupe - grupo  
+gua - cueva (caverna)  
 Guadelupe - Guadalupe  
 Guam - Guam  
 guanshe - relación (asociación, conexión)  
 Guatemala - Guatemala  
 gubu* - hipopótamo  
-guhe - cueva (caverna)  
 gui - ogro (gnomo, trol, duende, trasgo)  
 gujarati - gujaratí  
 guke - crisantemo  
@@ -1122,6 +1129,8 @@ hafizer - guarda (preservador, conservador)
 hafnium - hafnio  
 haha - reír  
 hai - mar  
+hai alga - macroalga  
+hai amir ja - almirante  
 haida - vamos a  
 haiful - actinia (anémonas de mar)  
 haigun - marina (armada)  
@@ -1150,9 +1159,13 @@ handi - manual
 handoshake - brazo  
 haos - caos (desorden)  
 hapi - apropriado (apto, oportuno)  
-haraba - arruinar (destruir, devastar, asolar)  
-harabi - arruinado (devastado, asolado)  
+har - todo  
+har jan - todas las personas  
+har she - todas las cosas  
+harabu - arruinar (destruir, devastar, asolar)  
+harabu - arruinado (devastado, asolado)  
 harabu - bloquearse (colgarse, fallar)  
+harabu mahala - barrio pobre  
 harama - prohibir  
 harami - prohibido (tabú)  
 haramliste - lista negra  
@@ -1167,20 +1180,18 @@ hashish - hachís
 hasi - especial (diferenciado, distinto)  
 hasia - especialización (distinción)  
 hata - hasta  
-hato - hasta (también)  
-hatre - peligro  
-hatri - peligroso  
+hata - hasta (también)  
+hatar - peligro  
+hatar li - peligroso  
 hava - soplar (echar)  
+hava - viento  
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
-have - viento  
 Hayakia - Armenia  
-hayalge - macroalga  
-hayamirer - almirante  
 hayi - marítimo  
 he - cómo? (eh?)  
-heleni - griego (helénico)  
-Helenia - Grecia  
+Helen - griego (helénico)  
+Helen - Grecia  
 helis - espiral (hélice)  
 helisbabul - acacia de copa plana  
 helisviman - helicóptero  
@@ -1302,12 +1313,12 @@ insaniki - humano
 insaniste - humanista  
 insanisti - humanístico  
 insanistia - humanismo  
-inshala - esperar (desear)  
 insida - agacharse  
 internete - Internet  
 intro - dentro  
 introversi - introvertido  
 intru - entrar  
+iode - yodo (iodo)  
 Irakia - Iraq  
 Iran - Irán  
 iridium - iridio  
@@ -1452,14 +1463,14 @@ kalsium - calcio
 kalsokristal - marmól  
 kalsomate - cal  
 kalsopetre - caliza  
+kama - lujuria (deseo)  
 kamar - habitación (cuarto, sala, pieza)  
 kamartal - piso (suelo)  
 Kambojia - Camboya  
 Kamerun - Camerún  
-kamia - lujuria (deseo)  
 kamil - manzanilla de Castilla  
-kamis - camisa  
-kamisi shake - manga  
+kamisa - camisa  
+kamisa shake - manga  
 kamote - camote (batata)  
 kampe - campamento  
 kamper - campista  
@@ -1542,7 +1553,7 @@ Kazakia - Kazajistán (Kazakistan)
 ke - qué  
 ke jan - quién  
 ke sate - cuándo  
-ke shei - cuál cosa  
+ke she - cuál cosa  
 ke yang - qué tipo de  
 kechape - kétchup  
 kechi - educado  
@@ -1553,10 +1564,6 @@ keke - pastel (galleta)
 kelele - ruido  
 kelvin - kelvin  
 Kemia - Egipcia Antigua  
-kenar - frontera (límite, borde, periferia)  
-kenarbaryer - valla (cerca)  
-kenarfon - consonante  
-kenari - periférico  
 Kenia - Kenia  
 kerne - corazón (núcleo)  
 kerni arme - arma nuclear  
@@ -1577,6 +1584,10 @@ kimi - químico
 kimlojia - química  
 kimono* - quimono  
 kina - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
+kinar - frontera (límite, borde, periferia)  
+kinar baryer - valla (cerca)  
+kinar fon - consonante  
+kinar li - periférico  
 kine - movimiento  
 kini - cinético  
 kinograf - película (filme)  
@@ -1618,10 +1629,6 @@ ko? - cómo
 kobalte - cobalto  
 koda - codificar (cifrar)  
 kode - código (cifra)  
-koi (koyi) - algún  
-koi jan - algién  
-koi sate - algún día (algún vez)  
-koi shei - algo  
 koke - coca  
 kokode - pollo  
 Kokos nesia - Islas Cocos (Islas Keeling)  
@@ -1743,9 +1750,9 @@ kushen - almohada
 kushu - acostarse (echarse, tenderse, tumbarse)  
 Kuvaitia - Kuwait  
 ####L - L  
-la - de (desde)  
 labe - labio  
 lage - lago  
+lai - venir  
 laje - basura (desechos)  
 lake - laca  
 lalbausheke - rubí  
@@ -1782,9 +1789,8 @@ Lau - Laos
 lau - viejo (anciano)  
 lavi - viejo (anciano)  
 lavi - laosiano  
-laya - venir  
 layana - traer  
-lazanye - lasaña  
+lazanya - lasaña  
 lazuri - azur (blao)  
 lazurpetre - lapislázuli  
 lefte - lado izquerdo  
@@ -1903,6 +1909,7 @@ magi - magical
 magia - magia  
 Magribia - Marruecos  
 Magyaria - Hungría  
+mahala - barrio (cuartel)  
 mais - maíz  
 maitnerium - meitnerio  
 majang - mahjong  
@@ -2162,10 +2169,10 @@ mosi - musgoso
 mosim - estación (temporada)  
 moskite - mosquito  
 moskovium - moscovio  
-mote - movimiento  
-moter - motor  
-motogar - automóvil (coche)  
-motosikle - motocicleta  
+moto - motor  
+moto gar - automóvil (coche)  
+moto sikle - motocicleta  
+move - movimiento  
 Mozambike - Mozambique  
 mudan - peonía  
 muka - cara (rosto)  
@@ -2309,7 +2316,7 @@ noda - hacer un nudo
 node - nudo  
 nol jan - ningunos  
 nol sate - nunca  
-nol shei - nada  
+nol she - nada  
 nola - cancelar  
 noma - organizar (gestionar)  
 nomia - gerencia (dirección)  
@@ -2323,8 +2330,8 @@ Nordi Makedonia - Macedonia del Norte
 Norfolke nes - Isla Norfolk  
 Norge - Noruega  
 norgi - noruego  
-norme - norma  
-normi - norma  
+norma - norma  
+norma - norma  
 nos - nariz  
 nosi - nasal  
 nostalgi - nostálgico  
@@ -2408,9 +2415,7 @@ pakse - pájaro (ave)
 paladium - paladio  
 Palau - Palaos  
 palme - palmera  
-pan (pani) - todo  
-pan jan - todas las personas  
-pan shei - todas las cosas  
+pan - pan  
 panafriki - panafricano  
 Panama - Panamá  
 panameriki - panamericano  
@@ -2425,11 +2430,10 @@ panduni - global (de todo el mundo)
 pandunia - Pandunia  
 panduniste - hablante de Pandunia  
 paneuropi - paneuropeo  
-pang - pan  
 panike - pánico  
 panir - queso fresco  
 panjabi - punjabí  
-panke - ventilador  
+panka - ventilador  
 panromansi - panrromántico  
 pansato - siempre  
 panseksi - pansexual  
@@ -2974,10 +2978,10 @@ shau - poco (pocos, escasez)
 shava - lluvia  
 shava chate - parasol  
 shava kote - impermeable  
+she - cosa  
 shefe - jefe  
 shefe minister - primer ministro  
 shefi - principal  
-shei - cosa  
 sheihal - situación  
 sheke - piedra  
 shekojanger - albañil (mampostero, cantero)  
@@ -3388,7 +3392,6 @@ use - usar (aplicar)
 user - usuario  
 user name - nombre de usuario  
 Uzbekia - Uzbekistán  
-va - a (hacia)  
 va - guau (vaya)  
 vacin - vacuna  
 vaf - perro  
@@ -3505,11 +3508,7 @@ vute - objeto (artículo)
 ####X - X  
 xenon - xenón  
 ya - él o ella  
-ya - en (a)  
 ya - sufijo para regiónes y sustantivos abstractos  
-ya ke - dónde  
-ya lin - en línea  
-ya ve - allí (allá)  
 yaga - estimar (apriximarse a)  
 yago - aproximadamente  
 yagones - península  
@@ -3541,7 +3540,10 @@ Yemen - Yemen
 Yesu - Jesús  
 Yesu mesi - Jesucristo  
 yeze - coco  
-yodem - yodo (iodo)  
+yo - algún  
+yo jan - algién  
+yo sate - algún día (algún vez)  
+yo she - algo  
 yoga - yoga  
 yoga ja - yogui  
 Yohan festa - día de San Juan  
@@ -3577,6 +3579,7 @@ zayia - presencia (existencia)
 zayo - ahora (actualmente)  
 zayu - aparecer  
 zayu - existir (estar presente)  
+ze - de (desde)  
 zebre - cebra  
 zeyil - verruga  
 zi - carácter  

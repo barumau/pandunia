@@ -1,5 +1,6 @@
 # pandunia-portugal
 ####A - A  
+a - o (a)  
 abies - abeto  
 acente - acento  
 acesa - acesso  
@@ -42,6 +43,8 @@ aloraya - discordar
 amater - amador  
 amen - honesto (sincero)  
 ami - querido (caro)  
+an ke - onde  
+an lin - online  
 anairbivi - anaeróbico  
 andesite - andesito  
 andiniste - infiel  
@@ -101,18 +104,18 @@ bakomargarite - margarita-maior
 bakosalmon - salmão-cão (salmão-keta)  
 balibali - vários  
 balute - carvalho  
-bamye - quiabo  
+bambu - bambu  
+bamia - quiabo  
 ban - painel  
-banan - banana  
-bande - bando  
-bangem - jogo de tabuleiro  
+ban gem - jogo de tabuleiro  
+banana - banana  
+banda - bando  
 banke - banco  
 banker - banqueiro  
-banse - bambu  
-bara - carga (peso)  
+bara - barrar  
+bara - barreira  
 barde - barba  
-bare - barrar  
-bare - barreira  
+bari - carga (peso)  
 basen - bacia  
 basha - língua (idioma)  
 bashi jinse - gênero gramatical  
@@ -158,15 +161,15 @@ bokse - boxe
 bokser - boxeador (pugilista)  
 bokserpante - samba-canção  
 bol - bola  
-bombe - bomba  
-boni - bom  
+bomba - bomba  
+bon - bom  
 botel - garrafa (botelha)  
 boyu - nadar (flutuar)  
-bravi - bravo (valente, corajoso)  
+bravo - bravo (valente, corajoso)  
 bravo - bravo!  
 briko - damasco (abricó)  
-bruni - castanho (marrom)  
-brunsalmon - truta-marrom  
+brun - castanho (marrom)  
+brun salmon - truta-marrom  
 bucha - abater  
 bucher - açougueiro (talhante)  
 buchokan - matadouro  
@@ -387,6 +390,8 @@ gute - joelho
 ####H - H  
 haha - rir  
 hai - mar  
+hai alga - macroalga  
+hai amir ja - almirante  
 haichau - erva marinha  
 haigun - marinha  
 haihiyar - pepino-do-mar (holotúrias)  
@@ -401,11 +406,10 @@ hamili - grávida (prenhe)
 hande - mão  
 handoshake - braço  
 hapi - apropriado (apto)  
+harabu mahala - favela  
 Hartum - Cartum  
 hata - até  
-hatre - perigo  
-hayalge - macroalga  
-hayamirer - almirante  
+hatar - perigo  
 hayi - marítimo  
 helisviman - hélicoptero  
 hem - hmm  
@@ -502,10 +506,12 @@ kalsite - calcita
 kalsokristal - mármore  
 kalsomate - cal  
 kalsopetre - calcário  
+kama - luxúria  
+kama kanon - Kama Sutra  
 kamar - sala (câmara)  
 kamil - camomila-vulgar  
-kamis - camisa  
-kamisi shake - manga  
+kamisa - camisa  
+kamisa shake - manga  
 kampistan - área de acampamento  
 kanche - vidro  
 kandi - bombom (doce)  
@@ -540,13 +546,14 @@ kave - buraco
 ke - o que  
 ke jan - quem  
 ke sate - quando  
-kenarbaryer - cerca  
 kerne - núcleo (cerne)  
 kim - substância  
 kimem - elemento químico  
 kimlojia - química  
 kimono* - quimono  
 kina - mover  
+kinar - margem (borda)  
+kinar baryer - cerca  
 kinu - Mover-se  
 kita - ir  
 kitabu - escrevere  
@@ -596,8 +603,8 @@ kupe - copo (taça)
 kusha - deitar  
 kushu - estar deitado (jazer)  
 ####L - L  
-la - de  
 lage - lago  
+lai - vir  
 laje - refugo (escória)  
 lalbausheke - rubi  
 lali - vermelho  
@@ -614,9 +621,8 @@ late - lado
 lati - lateral  
 Latvia - Letónia  
 lavi - idoso  
-laya - vir  
 layana - trazer  
-lazanye - lasanha  
+lazanya - lasanha  
 lazuri - azur (blau)  
 lazurpetre - lápis-lazúli  
 lefte - esquerdo  
@@ -671,6 +677,7 @@ ma - mãe
 mafa - perdoar (desculpar)  
 magesium - magnésio  
 Magribia - Marrocos  
+mahala - quarteirão  
 majang - mahjong  
 makanful - dente-de-leão (taráxaco)  
 malnomia - economia  
@@ -752,7 +759,7 @@ mola - moer
 molia - moenda (moinho)  
 molsheke - mó  
 mosim - estação (sazão)  
-moter - motor  
+moto - motor  
 mul - raíz  
 mur - muro (muralha)  
 murkaguje - papel de parede  
@@ -822,9 +829,9 @@ padomosim - outono
 pagre - turbante  
 pai - torta  
 pake - pacote  
+pan - pão  
 pande - panda  
 pandemi patia - pandemia  
-pang - pão  
 panir - queijo fresco  
 panmim - pantomima (mímica)  
 pante - calças  
@@ -999,8 +1006,8 @@ shava - chuva
 shava chate - guarda-chuva  
 shava kote - capa de chuva  
 shava mosim - monção  
+she - coisa  
 shefe - chefe  
-shei - coisa  
 sheihal - situaçao  
 sheke - pedra  
 shibaya tena - perder  
@@ -1165,8 +1172,6 @@ vote - voto
 vulve - vulva  
 vute - item  
 ####X - X  
-ya ke - onde  
-ya lin - online  
 Yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
@@ -1184,6 +1189,7 @@ yongu - derretre
 zai zam di - corrente (atual)  
 zam - tempo  
 zarkube - dado  
+ze - de  
 zebre - zebra  
 zeyil - verruga  
 zi - caractere  

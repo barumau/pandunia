@@ -62,15 +62,15 @@ They are described in more detail later in this document.
       A similar effect can be also reached with the impersonal pronoun **men**.
         - **pandunia be loga.**
           – Pandunia is spoken.
-        - **men loga le pandunia.**
+        - **men loga a pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi ching tu loga le pandunia.**
+        - **mi ching tu loga a pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ ching _tu_ loga le pandunia.**
-          → **ching loga le pandunia.**
+        - **_mi_ ching _tu_ loga a pandunia.**
+          → **ching loga a pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Pandunia, words change only when their actual meaning changes.

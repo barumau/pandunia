@@ -41,6 +41,8 @@ almas - алмаз (бриллиант)
 amater - любитель  
 amen - честный (правдивый)  
 amirlin - командная строка  
+an - в  
+an lin - онлайн  
 andesite - андезит  
 andiniste - неверующий  
 angar - якорь  
@@ -57,10 +59,10 @@ anus - анус
 aple - яблоко  
 aplosaus - яблочное пюре  
 Apsni - Абхазия  
-ar - площадь  
 arabobabul - акация нильская  
 arane - паук  
 arbuze - арбуз  
+area - площадь  
 argum - аргумент (обосновани)  
 arke - лук (арка)  
 arker - лучник  
@@ -70,6 +72,7 @@ aromu - пахнуть
 artiste - художник (артист)  
 asan - поза  
 asar - эффект  
+asha - надеяться (чаять)  
 aslameriki - инде́йский  
 asle - начало (причина)  
 asme - астма  
@@ -104,21 +107,21 @@ bakomargarite - нивяник обыкновенный (ромашка)
 bakosalmon - кета  
 balonpesh - иглобрюховые  
 balute - дуб  
-bamye - окра (бамия)  
+bambu - бамбук  
+bamia - окра (бамия)  
 ban - доска (панель)  
-banan - банан  
-bande - банда  
-bandir - флаг  
-bangem - настольная игра  
+ban gem - настольная игра  
+banana - банан  
+banda - банда  
+bandera - флаг  
 banke - банк  
-banse - бамбук  
-banye - купание  
-banyokamar - ванная  
-banyu - купаться  
-bara - ноша  
+banya - купание  
+banya - купаться  
+banya kamar - ванная  
+bara - преграждать  
+bara - барьер  
 barde - борода  
-bare - преграждать  
-bare - барьер  
+bari - ноша  
 basen - бассейн  
 basha - язык  
 bashi jinse - род в грамматике  
@@ -169,18 +172,18 @@ bokse - бокс
 bokser - боксёр  
 bokserpante - семейные  
 bol - шар  
-bombe - бомба  
-boni - хороший  
+bomba - бомба  
+bon - хороший  
 bonsinyi - благоприятный  
 botel - бутылка  
 boyu - плавать  
-brauza - исследовать  
+brauze - исследовать  
 brauzer - исследователь (браузер)  
 bravo - браво  
 briko - абрикос  
-brunalge - бурые водоросли  
-bruni - коричневый  
-brunsalmon - кумжа  
+brun - коричневый  
+brun alga - бурые водоросли  
+brun salmon - кумжа  
 bucher - мясник  
 buchokan - бойня  
 Buda - Будда  
@@ -423,6 +426,8 @@ ha - с (иметь)
 habar - новости  
 haha - смеяться  
 hai - море  
+hai alga - морские водоросли  
+hai amir ja - адмирал  
 haichau - морские травы  
 haiful - морские анемоны  
 haigun - военно-морской флот  
@@ -435,12 +440,11 @@ Han - хань
 hande - рука  
 handoshake - рукав  
 hapi - подходящий (годный)  
+harabu mahala - трущоба  
 harfi harfi - алфавит  
 Hartum - Хартум  
 hata - до  
-hatre - опасность  
-hayalge - морские водоросли  
-hayamirer - адмирал  
+hatar - опасность  
 hayi - морской  
 helisbabul - акация кручёная  
 helisviman - вертолёт  
@@ -485,9 +489,9 @@ insan - человек
 insani hake - права человека  
 insaniki - человечный  
 insanistia - гуманизм  
-inshala - надеяться (чаять)  
 insida - сесть на корточки  
 introversi - интроверт  
+iode - йод  
 ironia - ирония  
 islam din - ислам (мусульманство)  
 ####J - J  
@@ -542,9 +546,10 @@ kalsite - кальцит
 kalsokristal - мрамор  
 kalsomate - известь  
 kalsopetre - известняк  
+kama kanon - Камасутра  
 kamar - комната (камера)  
 kamil - ромашка аптечная  
-kamis - рубашка  
+kamisa - рубашка  
 kampistan - полевой стан  
 kanape - канапе  
 kanche - стекло  
@@ -580,12 +585,13 @@ kauri - каури
 kava - копать  
 kave - яма  
 ke - что  
-kenarbaryer - забор (ограда)  
 kim - вещество  
 kimem - химический элемент  
 kimlojia - химия  
 kimono* - кимоно  
 kina - двигать  
+kinar - край (грань)  
+kinar baryer - забор (ограда)  
 kinograf - фильм (кино)  
 kinu - двигаться  
 kire - аренда  
@@ -645,7 +651,7 @@ kupe - чаша (чашка, стакан)
 kusha - положить  (уложить)  
 kushu - лежать  
 ####L - L  
-la - из (от)  
+lai - приходить  
 laje - мусор (дрянь)  
 lalbausheke - рубин  
 lali - красный  
@@ -661,9 +667,8 @@ late - сторона (бок)
 lati - боковой (латеральный)  
 Latvia - Латвия  
 lavi - пожилой  
-laya - приходить  
 layana - приносить  
-lazanye - лазанья  
+lazanya - лазанья  
 lazuri - лазурь  
 lazurpetre - лазурит  
 lefte - левый  
@@ -715,6 +720,7 @@ luter - грабитель
 ma - мать (мама)  
 magesium - магний  
 Magribia - Марокко  
+mahala - квартал  
 majang - маджонг  
 majenti - маджента (фуксия)  
 makanful - одуванчик  
@@ -801,8 +807,8 @@ mos - мох
 mosi - мшистый  
 mosim - время года (сезон)  
 Moskou - Москва  
-moter - мотор  
-motosikle - мотоцикл  
+moto - мотор  
+moto sikle - мотоцикл  
 mul - корень  
 mummelon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  
@@ -878,9 +884,9 @@ padomun - лаз
 pagre - чалма  
 pai - пирог  
 pake - пакет  
+pan - хлеб  
 pande - панда  
 pandemi patia - пандемия  
-pang - хлеб  
 panir - творог  
 panmim - пантомима  
 pante - брюки  
@@ -1078,8 +1084,8 @@ shava - дождь
 shava chate - зонтик  
 shava kote - плащ (дождевик)  
 shava mosim - муссон  
+she - вещь  
 shefe - шеф  
-shei - вещь  
 sheihal - положение (ситуация)  
 sheke - камень (камешек)  
 shibaya - проиграть (провалиться)  
@@ -1284,8 +1290,6 @@ vulve - вульва
 vute - статья (предмет)  
 ####X - X  
 xenon - ксенон  
-ya - в  
-ya lin - онлайн  
 Yahve - Яхве (Иегова)  
 yamen di - их  
 yamfite - овощ  
@@ -1298,10 +1302,10 @@ yaushinabli - верный
 yaushinablia - верность  
 yavan - нужный  
 ye - да  
+yeki kanon - Книга Перемен  
 Yemen - Йемен  
 Yesu - Иисус  
 Yesu mesi - Иисус Христос  
-yodem - йод  
 yoga - йога  
 Yohan festa - Иванов день  
 yoke - ярмо (иго)  
@@ -1314,6 +1318,7 @@ Zambia - Замбия
 Zardush - Зороастр  
 Zardush din ja - зороастризм  
 zarkube - кость (кубик)  
+ze - из (от)  
 zebre - зебра  
 zeyil - бородавка  
 zeze - двукрылое  

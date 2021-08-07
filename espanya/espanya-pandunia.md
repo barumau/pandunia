@@ -1,5 +1,5 @@
 # espanya-pandunia
-a (hacia) - va  
+a (hacia) - do  
 ####A - A  
 abedul - berje  
 abeja - medu vespe  
@@ -118,17 +118,17 @@ alfarería - poteria
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - taltesh  
 alga - alge  
-algas pardas - brunalge  
-algién - koi jan  
-algo - koi shei  
+algas pardas - brun alga  
+algién - yo jan  
+algo - yo she  
 algodón - goton  
-algún - koi (koyi)  
-algún día (algún vez) - koi sate  
+algún - yo  
+algún día (algún vez) - yo sate  
 alicate - pinser  
 alinear - parlinu  
-allí (allá) - ya ve  
+allí (allá) - an u loka  
 almendra - badam  
-almirante - hayamirer  
+almirante - hai amir ja  
 almohada - kushen  
 almuerzo - den yam  
 alojar (hospedar) - domana  
@@ -247,8 +247,8 @@ arriesgado - riski
 arroba (@) - adres harfi  
 arromántico - anromansi  
 arroz - ris  
-arruinado (devastado, asolado) - harabi  
-arruinar (destruir, devastar, asolar) - haraba  
+arruinado (devastado, asolado) - harabu  
+arruinar (destruir, devastar, asolar) - harabu  
 arsénico - arsene  
 arte marcial - jengoshute  
 artesano - janger  
@@ -296,7 +296,7 @@ Austronesia - Austronesia
 autenticar - verita  
 autocratia (monarquía) - autokratia  
 automotor (automotriz) - automoti  
-automóvil (coche) - motogar  
+automóvil (coche) - moto gar  
 autonomía - autonomia  
 autónomo - autonomi  
 avanzar (entrar, adelantar, progresar) - jinu  
@@ -340,13 +340,13 @@ balde (cubo) - balde
 baldosa (teja, azulejo) - tail  
 ballesta - krusarke  
 baloncesto (básquetbol) - baske bol  
-bambú - banse  
+bambú - bambu  
 banco (silla) - benche  
 banco - banke  
 banco de datos (base de datos) - datobanke  
 banda (cinta) - bende  
-banda - bande  
-bandera - bandir  
+banda - banda  
+bandera - bandera  
 Bangladés - Bangladesh  
 banquero - banker  
 baobab - bui  
@@ -360,10 +360,12 @@ barco (bote) - nau
 bario - barium  
 barra (vara, palo) - baton  
 barra de chocolate - choklatobaton  
-barrar (bloquear, obstruir) - bare  
-barrera (barda) - bare  
+barrar (bloquear, obstruir) - bara  
+barrera (barda) - bara  
 barriga (vientre, panza) - pete  
 barril (tonel) - tong  
+barrio (cuartel) - mahala  
+barrio pobre - harabu mahala  
 baréin - Bahrain  
 barómetro - airbarmetrer  
 base (álcali) - alkale  
@@ -372,9 +374,9 @@ bastante - basi
 basura (desechos) - laje  
 batidora (licuadora, mezcladora) - misher  
 baya - bere  
-bañarse - banyu  
-bañera - banye  
-baño - banyokamar  
+bañarse - banya  
+bañera - banya  
+baño - banya kamar  
 bebé - bebe  
 Belarús - Belarus  
 Belice - Belize  
@@ -419,7 +421,7 @@ boleto - tikete
 Bolivia - Bolivia  
 bolsillo - jebe  
 bolígrafo - kalam  
-bomba - bombe  
+bomba - bomba  
 bombear - pompa  
 boro - boron  
 Bosnia y Herzegovina - Bosnia e Herchegovina  
@@ -450,7 +452,7 @@ buen provecho - salam yam
 buena suerte - boni zar  
 buenas noches - salam suar  
 buenas tardes - salam den  
-bueno - boni  
+bueno - bon  
 buenos días - salam sube  
 bufanda (chal) - shal  
 bufé - bufete  
@@ -523,7 +525,7 @@ camello - gamel
 Camerún - Kamerun  
 caminar (marchar, andar) - marcha  
 camino (calle) - dau  
-camisa - kamis  
+camisa - kamisa  
 camote (batata) - kamote  
 campamento - kampe  
 campana (cencerro) - danger  
@@ -562,7 +564,7 @@ cardo - kardon
 cardo borriquero - pinkardon  
 cardo burral - perkardon  
 cardo mariano - milkokardon  
-carga (pesa) - bara  
+carga (pesa) - bari  
 cargar (subir) - netodona  
 cargar -   
 cargo - ofis  
@@ -795,7 +797,7 @@ consejero (asesor) - menter
 consejo - sel  
 conservar (preservar, mantener) - hafiza  
 considerar (reflexionar, pensar en) - hema  
-consonante - kenarfon  
+consonante - kinar fon  
 constitución - bazokanun  
 construir (edificar) - bina  
 consultor - konseler  
@@ -839,7 +841,7 @@ cortar - kata
 cortina - parde  
 corto (breve) - korte  
 Corán - kuran  
-cosa - shei  
+cosa - she  
 coser - suta  
 cosmonauta - kosmonaver  
 cosmos - kosmia  
@@ -907,7 +909,7 @@ cuerno - korne
 cuerpo - bode  
 cuerpo celeste - astre  
 cuesta (inclinación, pendiente, predisposición, tender) - klin  
-cueva (caverna) - guhe  
+cueva (caverna) - gua  
 culombio - kulombe  
 culpa (defecto, crimen) - dosh  
 culpable - doshi  
@@ -920,7 +922,7 @@ curio - kurium
 curita (apósito) - glutobende  
 curva - kurve  
 curvo - kurvi  
-cuál cosa - ke shei  
+cuál cosa - ke she  
 cuándo - ke sate  
 cuántos - ko multo  
 cálculo - kalkulia  
@@ -954,7 +956,7 @@ dañado - avari
 dañar - avara  
 dañino (perjudicial) - avarani  
 daño (corrupción) - avar  
-de (desde) - la  
+de (desde) - ze  
 de (posposición de posesión) - da  
 de (posposición de posesión) - di  
 de lado - lato  
@@ -1108,7 +1110,7 @@ día - den
 día de San Juan - Yohan festa  
 día de semana - var  
 día festivo (feriado) - festoden  
-dónde - ya ke  
+dónde - an ke  
 ####E - E  
 eco - mirsonde  
 ecología - ekolojia  
@@ -1128,6 +1130,7 @@ eje - akse
 ejemplo - misal  
 ejército - geo gun  
 ejército - gun  
+el (la) - a  
 El Salvador - Salvador  
 el uno al otro (mutuamente) - ses  
 el uno al otro (se) - unal  
@@ -1164,10 +1167,10 @@ emperador - imperer
 emplear (aplicar) - aplika  
 empresario - bizneser  
 empujar (presionar) - pusha  
-en (a) - ya  
+en (a) - an  
 en el sentido contrario al las agujas del reloj - rotolefto  
 en el sentido del las agujas del reloj - rotoraito  
-en línea - ya lin  
+en línea - an lin  
 encanto - charme  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
@@ -1259,7 +1262,7 @@ espectador - speter
 espectador - vider  
 espejo (retrovisor) - mirer  
 Esperanto - esperanti  
-esperar (desear) - inshala  
+esperar (desear) - asha  
 esperar - deng  
 espicificar (estipular) - sharta  
 espiral (hélice) - helis  
@@ -1318,7 +1321,7 @@ exclusivo - eshklusivi
 existir (estar presente) - zayu  
 exoplaneta (planeta extrasolar) - eshplanete  
 explorador (navegador) - brauzer  
-explorar - brauza  
+explorar - brauze  
 explosionar - eshplozu  
 explosión (estallado) - bum  
 explosión - eshploze  
@@ -1407,7 +1410,7 @@ frecuencia - polmaria
 frecuentemente - polmaro  
 fresco - tazi  
 fresno - yasen  
-frontera (límite, borde, periferia) - kenar  
+frontera (límite, borde, periferia) - kinar  
 fruta - frute  
 frío - lengi  
 fuego - hoge  
@@ -1529,8 +1532,8 @@ grasa - fete
 graso (adiposo) - feti  
 grava - grave  
 gravar (cobrar tasas) - taksa  
-Grecia - Helenia  
-griego (helénico) - heleni  
+Grecia - Helen  
+griego (helénico) - Helen  
 gris - huirang  
 gritar - krita  
 Groenlandia - Kalalia  
@@ -1585,7 +1588,7 @@ hamaca - hamake
 hambre - yamyau  
 hamo (anzuelo) - peshhuke  
 hasio - hesium  
-hasta (también) - hato  
+hasta (también) - hata  
 hasta - hata  
 Hawái - Havai  
 hebra (fibra) - linem  
@@ -1829,7 +1832,7 @@ judaísmo - yehudi din
 judío - yehudi  
 juego - gem  
 juego de mazmorras - donjon aventur  
-juego de mesa - bangem  
+juego de mesa - ban gem  
 jueves - var chatre  
 juez (árbitro, réferi) - juder  
 jugador - gemer  
@@ -1883,7 +1886,7 @@ lapislázuli - lazurpetre
 largo (longitud) - longia  
 largo - longi  
 larva - larve  
-lasaña - lazanye  
+lasaña - lazanya  
 lateral (horizontal) - lati  
 latitud - veisirke  
 laurencio - lorencium  
@@ -1986,7 +1989,7 @@ lucha - jihade
 luchador (guerrero) - jenger  
 lugar - loke  
 lugar de nacimiento - jenistan  
-lujuria (deseo) - kamia  
+lujuria (deseo) - kama  
 luna - lune  
 lunes - var un  
 lutecio - lutetium  
@@ -2008,7 +2011,7 @@ Macao - Makau
 Macedonia del Norte - Nordi Makedonia  
 maceta (plantera) - hua pote  
 macrial (militar) - jengi  
-macroalga - hayalge  
+macroalga - hai alga  
 Madagascar - Malagasia  
 madera - mokomate  
 madrastra - vismai  
@@ -2043,7 +2046,7 @@ Malta - Malta
 mamífero - mamal  
 mancha - najisbinde  
 mandarina (tangerina) - laloranje  
-manga - kamisi shake  
+manga - kamisa shake  
 manganeso - mangan  
 mango - mangou  
 mangosta - mungus  
@@ -2082,7 +2085,7 @@ marioneta (títere) - pupe
 mariposa (palomilla) - pelpel  
 marmól - kalsokristal  
 Marruecos - Magribia  
-marrón - bruni  
+marrón - brun  
 Marte - Marse  
 martes - var du  
 martillo (mazo) - hamar  
@@ -2150,7 +2153,7 @@ meseta - mezistan
 mesiánico - mesi li  
 meta (gol, destinación) - gol  
 metal - metal  
-metal pesado - bara metal  
+metal pesado - bari metal  
 meter prisa - yala  
 metro - mitre  
 metro - tunel tren  
@@ -2238,11 +2241,11 @@ moscovio - moskovium
 mosquete - muskete  
 mosquetero - musketer  
 mosquito - moskite  
-motocicleta - motosikle  
-motor - moter  
+motocicleta - moto sikle  
+motor - moto  
 moverse - kinu  
 movimiento - kine  
-movimiento - mote  
+movimiento - move  
 Mozambique - Mozambike  
 mucho (muchos) - poli  
 muchos - multi  
@@ -2288,7 +2291,7 @@ nacional - nasi
 nacionalismo - nasistia  
 nacionalista - nasiste  
 nación - nasia  
-nada - nol shei  
+nada - nol she  
 nadar (flotar) - boyu  
 nailon (nilón) - nilon  
 Namibia - Namibia  
@@ -2349,8 +2352,8 @@ noche (tarde) - sham
 noche - noche  
 nombre - name  
 nombre de usuario - user name  
-norma - norme  
-norma - normi  
+norma - norma  
+norma - norma  
 norte - norde  
 Norteamérica - Nordi Amerike  
 norteño - nordi  
@@ -2399,7 +2402,7 @@ occidental - vesti
 Oceanía - Ocheania  
 ocelote - oselote  
 ocho (8) - bato  
-ocra - bamye  
+ocra - bamia  
 octubre - mes des  
 ocular - oki  
 ocultar (esconder) - sira  
@@ -2484,7 +2487,7 @@ Palaos - Palau
 Palestina - Filistin  
 palmera - palme  
 palpar (tocar) - senta  
-pan - pang  
+pan - pan  
 pan tostado - rosti pang  
 panadero - beker  
 panadería - bekokan  
@@ -2580,8 +2583,8 @@ pegar - peya
 peine - kang  
 Pekín - Beijing  
 pelea (guerra, batalla) - jeng  
-peligro - hatre  
-peligroso - hatri  
+peligro - hatar  
+peligroso - hatar li  
 pelo - kesh  
 película (film, membrana) - filme  
 película (filme) - kinograf  
@@ -2606,7 +2609,7 @@ perdón - maf
 perfeccionar - purbona  
 perfecto - purboni  
 perforar (agujerar) - konga  
-periférico - kenari  
+periférico - kinar li  
 periodista - gazeter  
 periódico (diario) - habargazete  
 perla - lul  
@@ -2688,7 +2691,7 @@ pluma - per
 plutonio - plutonium  
 Plutón - Pluton  
 plástico - plastike  
-plátano (banana) - banan  
+plátano (banana) - banana  
 pobre (miserable) - miskini  
 poción - medikosui  
 poco (pocos, escasez) - shau  
@@ -2955,8 +2958,8 @@ revisar (chequear) - cheka
 revista (periódico, gaceta) - gazete  
 rey - mani rajer  
 rey o reina - rajer  
-rezar (orar) - duva  
-rezo (oración) - duve  
+rezar (orar) - dua  
+rezo (oración) - dua  
 reír - haha  
 rico - richi  
 riesgo (posibilidad) - zar  
@@ -3024,7 +3027,7 @@ sacerdote (clérigo, eclesiástico) - din guru
 saco - sake  
 sagrado (santo) - santi  
 sal - salte  
-sala de chat (tertuliadero) - blablokan  
+sala de chat (tertuliadero) - blabla kan  
 salchicha - sosis  
 salida - chutomun  
 salino - salti  
@@ -3336,10 +3339,10 @@ titanio - titanium
 toalla - gantesh  
 tocar (rozar) - tocha  
 tocar música - muzika  
-todas las cosas - pan shei  
-todas las personas - pan jan  
+todas las cosas - har she  
+todas las personas - har jan  
 todavía (aún) - zoko  
-todo - pan (pani)  
+todo - har  
 Togo - Togo  
 tolerar - tolera  
 tomate - tomate  
@@ -3389,7 +3392,7 @@ triste - duki
 triángulo - sangon  
 trompo - rototope  
 trucha arcoíris - rangarke salmon  
-trucha marrón - brunsalmon  
+trucha marrón - brun salmon  
 truco - truke  
 truenos (estruendo) - grom  
 tránsito - transe  
@@ -3459,7 +3462,7 @@ vaginitis - vagina flame
 vainilla - vanil  
 valer - valu  
 valiente (heroico) - hero li  
-valla (cerca) - kenarbaryer  
+valla (cerca) - kinar baryer  
 valle - vali  
 valor - val  
 valorar - vala  
@@ -3481,9 +3484,9 @@ velocímetro - rapidometrer
 vender - venda  
 veneno (toxina) - toksi  
 Venezuela - Venezuela  
-venir - laya  
+venir - lai  
 ventana - janel  
-ventilador - panke  
+ventilador - panka  
 Venus - Venus  
 ver (mirar) - vida  
 verano - garmomosim  
@@ -3519,7 +3522,7 @@ vidrio volcánico - hogoshani kanche
 viejo (anciano) - lau  
 viejo (anciano) - lavi  
 viejo (antiguo) - cheniki  
-viento - have  
+viento - hava  
 viernes - var penta  
 Vietnam - Vietia  
 vietnamita - vieti  
@@ -3569,7 +3572,7 @@ yema del dedo - angulpike
 Yemen - Yemen  
 Yibuti - Jibuti  
 yo - mi  
-yodo (iodo) - yodem  
+yodo (iodo) - iode  
 yoga - yoga  
 yogui - yoga ja  
 yuca (mandioca) - manyoke  
@@ -3603,7 +3606,7 @@ zulú - Zulu
 ángulo recto - ortogon  
 árabe - arabi  
 árbol - moke  
-área (superficie) - ar  
+área (superficie) - area  
 área (zona, región) - aria  
 áspero (basto) - karsi  
 ástato - astatium  

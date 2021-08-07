@@ -1,6 +1,7 @@
 # pandunia-english
 ####A - A  
 a - but (whereas)  
+a - the (that)  
 abies - fir tree  
 acente - accent (stress)  
 acesa - access (admission, accessibility)  
@@ -99,6 +100,11 @@ amiria - emirate
 amirlin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
+an - by (at, in, on)  
+an ke - where  
+an lin - online  
+an no lin - offline  
+an u loka - there  
 an:a - cause (make sb. do sth.)  
 anairbivi - anaerobic  
 anama - dislike (loathe)  
@@ -158,7 +164,6 @@ aplika - apply (put to use for a purpose)
 aplike - application  
 aplosaus - applesauce  
 Apsni - Abkhazia  
-ar - area (extent of surface)  
 arabi - Arabic  
 arabobabul - babul tree (thorny acacia)  
 arane - spider  
@@ -166,6 +171,7 @@ aranofobia - arachnophobia
 aranonete - spiderweb (cobweb)  
 arbuze - watermelon  
 Archah - Artsakh  
+area - area (extent of surface)  
 argente - silver  
 Argentina - Argentina  
 argon - argon  
@@ -188,6 +194,7 @@ Aruba - Aruba
 asan - posture (asana)  
 asar - effect (impact, impression, result, outcome)  
 asara - effect (bring about)  
+asha - hope (wish)  
 Ashur - Assur  
 Ashuria - Assyria  
 asi - Asian  
@@ -263,30 +270,30 @@ balon - balloon
 balonpesh - pufferfish  
 balute - oak tree  
 balutopal - acorn  
-bamye - okra (okro)  
+bambu - bamboo  
+bamia - okra (okro)  
 ban - board (pane, panel)  
-banan - banana  
-bande - band (squad, group)  
-bandir - flag (banner)  
-bangem - board game  
+ban gem - board game  
+banana - banana  
+banda - band (squad, group)  
+bandera - flag (banner)  
 bangla basha - Bengali language (Bangla)  
 Bangladesh - Bangladesh  
 banka - save (deposit, bank)  
 banke - bank (depository, cache)  
 banker - banker  
-banse - bamboo  
-banye - bath  
-banyokamar - bathroom  
-banyu - bathe  
+banya - bath  
+banya - bathe  
+banya kamar - bathroom  
 bar - bar  
-bara - burden (load, weight)  
-bara metal - heavy metal  
+bara - bar (obstruct, block)  
+bara - barrier (fence)  
 Barbados - Barbados  
 barbar - barbarian  
 Barbuda - Barbuda  
 barde - beard  
-bare - bar (obstruct, block)  
-bare - barrier (fence)  
+bari - burden (load, weight)  
+bari metal - heavy metal  
 barium - barium  
 barka - congratulate (bless)  
 barka - congratulations! (blessing, benediction)  
@@ -388,7 +395,7 @@ bizar - odd (strange, weird)
 biznes - business (commercial activity)  
 bizneser - businessperson (businessman)  
 blabla - chat (babble)  
-blablokan - chat room  
+blabla kan - chat room  
 bloge - blog (web log)  
 blu - blue  
 blu ceram sing - azure bluet  
@@ -404,11 +411,11 @@ bokserpante - boxer shorts (boxers)
 bol - ball  
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
-bombe - bomb  
+bomba - bomb  
+bon - good  
 bondarja - upgrade (level up)  
 bondeke - virtue (morals)  
 bondeki - virtuous  
-boni - good  
 boni zar - good luck  
 bonraya - approve  
 bonsifi - excellent  
@@ -423,9 +430,9 @@ Bosnia e Herchegovina - Bosnia and Herzegovina
 botel - bottle  
 Botia - Tibet  
 boyu - float (swim)  
-brauza - explore (browse)  
+brauze - explore (browse)  
 brauzer - explorer (browser)  
-bravi - brave (gallant, valiant)  
+bravo - brave (gallant, valiant)  
 bravo - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - Congo (Brazzaville)  
@@ -434,10 +441,10 @@ briko - apricot
 Britania - United Kingdom  
 bromium - bromine  
 brosh - brush  
-brunalge - brown algae  
+brun - brown  
+brun alga - brown algae  
+brun salmon - brown trout  
 Brunei - Brunei Darussalam  
-bruni - brown  
-brunsalmon - brown trout  
 brus - sibling (brother or sister)  
 brusben - nephew or niece  
 bucha - butcher  
@@ -684,6 +691,7 @@ disho - directly
 diske - disc (disk)  
 disprosium - dysprosium  
 Divehia - Maldives  
+do - to (toward, till, until, for)  
 dobe - brick  
 doichi - German  
 Doichia - Germany  
@@ -726,6 +734,8 @@ dramironia - dramatic irony
 droge - drug (intoxicating substance)  
 Drugia - Bhutan  
 du - two (2)  
+dua - pray (beg, entreat, implore)  
+dua - prayer  
 dubnium - dubnium  
 duga - read  
 duka - sadden (make sad)  
@@ -775,8 +785,6 @@ dusvidi - ugly (unsightly)
 dutabli - dubious (suspicious, unbelievable)  
 dutani - doubtful (suspicious, disbelieving)  
 dute - doubt (disbelief)  
-duva - pray (beg, entreat, implore)  
-duve - prayer  
 ####E - E  
 e - and  
 eglis - church  
@@ -1205,13 +1213,13 @@ gros - thick
 gros harfi - bold letter  
 grosta - thickness  
 grupe - group  
+gua - cave  
 Guadelupe - Guadeloupe  
 Guam - Guam  
 Guangjou - Guangzhou (Canton)  
 guanshe - relationship (association, connection)  
 Guatemala - Guatemala  
 gubu* - hippopotamus  
-guhe - cave  
 gui - ogre (troll, goblin)  
 guipapil - oriental poppy  
 gujarati - Gujarati  
@@ -1240,6 +1248,8 @@ hafizer - keeper (preserver)
 hafnium - hafnium  
 haha - laugh  
 hai - sea  
+hai alga - seaweed (macroalgae)  
+hai amir ja - admiral  
 haichau - seagrass  
 haida - let's  
 haiful - sea anemone  
@@ -1273,9 +1283,13 @@ haos - chaos (disorder, turmoil)
 hapa - fit (adapt, adjust, make suitable)  
 hapi - suitable (appropriate, apt, fit)  
 hapu - fit (suit, be suitable)  
-haraba - ruin (destroy, devastate, demolish)  
-harabi - bad (ruined, destroyed)  
+har - every (all)  
+har jan - everybody (everyone)  
+har she - everything  
+harabu - ruin (destroy, devastate, demolish)  
+harabu - bad (ruined, destroyed)  
 harabu - crash (shut down, terminate)  
+harabu mahala - slum  
 harama - forbid (ban, disallow)  
 harami - forbidden (illicit, haram, taboo)  
 haramliste - blacklist  
@@ -1290,22 +1304,18 @@ hashish - hashish
 hasi - special (distinct)  
 hasia - distinction (specialty)  
 hata - until (til, up to)  
-hato - even (implying extreme example)  
-hatre - danger (peril)  
-hatri - dangerous (perilous)  
+hata - even (implying extreme example)  
+hatar - danger (peril)  
+hatar li - dangerous (perilous)  
 hava - blow  
+hava - wind  
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
-have - wind  
 Hayakia - Armenia  
-hayalge - seaweed (macroalgae)  
-hayamirer - admiral  
 hayi - maritime  
-he - huh? (pardon?)  
-he - one (someone)  
 he - huh? (eh?, pardon?)  
-heleni - Greek (Hellenic)  
-Helenia - Greece  
+Helen - Greek (Hellenic)  
+Helen - Greece  
 helis - spiral (helix, corkscrew, twist)  
 helisbabul - umbrella thorn acacia tree  
 helisviman - helicopter  
@@ -1395,6 +1405,7 @@ huristi - liberal
 huristia - liberalism  
 hushi - nice (pleasant, comfortable, cushy)  
 ####I - I  
+i - this  
 ibri - Hebrew  
 icha - will (want)  
 iche - will (volition, desire)  
@@ -1439,7 +1450,6 @@ insaniki - humane
 insaniste - humanist  
 insanisti - humanistic  
 insanistia - humanism  
-inshala - hope (wish)  
 insida - crouch (squat)  
 internete - internet  
 intra - enter (insert, put in)  
@@ -1450,6 +1460,7 @@ introspete - introspection
 introversi - introvert  
 intru - enter (get in)  
 Io - Io  
+iode - iodine  
 Irakia - Iraq  
 Iran - Iran  
 iridium - iridium  
@@ -1608,15 +1619,17 @@ kalsium - calcium (Ca)
 kalsokristal - marble  
 kalsomate - lime  
 kalsopetre - limestone  
+kama - lust (desire, libido, sexual passion)  
+kama deu - god of love (Eros, Kamadeva)  
+kama kanon - Kama Sutra  
 kamar - room (chamber)  
 kamargau - ceiling  
 kamartal - floor  
 Kambojia - Cambodia  
 Kamerun - Cameroon  
-kamia - sexual desire (lust)  
 kamil - German camomile  
-kamis - shirt  
-kamisi shake - sleeve  
+kamisa - shirt  
+kamisa shake - sleeve  
 kamote - sweet potato  
 kampe - camp  
 kamper - camper  
@@ -1639,6 +1652,8 @@ kangaru* - kangaroo
 kanjar - dagger  
 kankuate - kumquat  
 kano* - canoe  
+kanon - classic (canon)  
+kanon di - classic (authoritative, definitive)  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kantalupomelon - cantaloupe  
 kante - shoulder  
@@ -1707,7 +1722,7 @@ Kazakia - Kazakhstan
 ke - what?  
 ke jan - who?  
 ke sate - when?  
-ke shei - what thing?  
+ke she - what thing?  
 ke yang - what kind of?  
 kechape - ketchup  
 kechi - polite  
@@ -1718,10 +1733,6 @@ keke - cake (cookie)
 kelele - noise  
 kelvin - kelvin  
 Kemia - Ancient Egypt (Kemet)  
-kenar - border (edge, fringe, margin, rim, side, shore, periphery)  
-kenarbaryer - fence  
-kenarfon - consonant  
-kenari - peripheral  
 Kenia - Kenya  
 kerne - core (nucleus, kernel)  
 kerni arme - nuclear weapon (nuke)  
@@ -1742,6 +1753,10 @@ kimi - chemical
 kimlojia - chemistry  
 kimono* - kimono  
 kina - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
+kinar - border (edge, fringe, margin, rim, side, shore, periphery)  
+kinar baryer - fence  
+kinar fon - consonant  
+kinar li - peripheral  
 kine - movement  
 kini - kinetic  
 kinograf - movie (cinema)  
@@ -1791,10 +1806,6 @@ ko? - how?
 kobalte - cobalt  
 koda - encode (encrypt)  
 kode - code (cipher)  
-koi (koyi) - some  
-koi jan - someone (somebody)  
-koi sate - sometime  
-koi shei - something  
 koke - coca  
 kokode - chicken  
 kokokol - Coca-Cola  
@@ -1929,10 +1940,10 @@ kushloke - berth (couchette)
 kushu - lie (lie down)  
 Kuvaitia - Kuwait  
 ####L - L  
-la - from (since, because)  
 labe - lip  
 lage - lake  
 Lagos - Lagos  
+lai - come (arrive)  
 laje - garbage (rubbish, trash)  
 lake - lacquer (varnish)  
 lalbausheke - ruby  
@@ -1971,9 +1982,8 @@ Lau - Laos
 lau - elder  
 lavi - old (aged, elderly)  
 lavi - Lao (Laotian)  
-laya - come (arrive)  
 layana - bring  
-lazanye - lasagna  
+lazanya - lasagna  
 lazuri - azure  
 lazurpetre - lapis lazuli  
 lefte - left  
@@ -2105,6 +2115,7 @@ magi - magical
 magia - magic  
 Magribia - Morocco  
 Magyaria - Hungary  
+mahala - quarter (neighbourhood, district, locality, section of town)  
 mais - corn (maize)  
 maitnerium - meitnerium  
 majang - mahjong  
@@ -2385,10 +2396,10 @@ mosim - season
 moskite - mosquito  
 Moskou - Moscow  
 moskovium - moscovium  
-mote - motion (movement)  
-moter - engine (motor)  
-motogar - motorcar (automobile)  
-motosikle - motorcycle  
+moto - engine (motor)  
+moto gar - motorcar (automobile)  
+moto sikle - motorcycle  
+move - motion (movement)  
 Mozambike - Mozambique  
 mudan - peony  
 muka - face  
@@ -2424,7 +2435,6 @@ Myanma - Myanmar (Burma)
 ####N - N  
 na - without  
 na - well (now; used to introduce a statement)  
-na lin - offline  
 nabe - prophecy  
 naber - prophet  
 nadiri - rare (scarce, uncommon)  
@@ -2542,7 +2552,7 @@ noda - tie a knot
 node - knot (node)  
 nol jan - nobody (no-one)  
 nol sate - never  
-nol shei - nothing  
+nol she - nothing  
 nola - cancel (nullify)  
 noma - manage (organize)  
 nomia - management (arrangement, -nomy)  
@@ -2556,8 +2566,8 @@ Nordi Makedonia - Republic of North Macedonia
 Norfolke nes - Norfolk Island  
 Norge - Norway  
 norgi - Norwegian  
-norme - norm (standard)  
-normi - normal  
+norma - norm (standard)  
+norma - normal  
 nos - nose  
 nosi - nasal  
 nostalgi - nostalgic  
@@ -2652,9 +2662,7 @@ palabe - conflict (argument, dispute, quarrel)
 paladium - palladium  
 Palau - Palau  
 palme - palm tree  
-pan (pani) - all  
-pan jan - everybody (everyone)  
-pan shei - everything  
+pan - bread  
 panafriki - pan-African  
 Panama - Panama  
 panameriki - pan-American  
@@ -2669,11 +2677,10 @@ panduni - global (concerning the whole world)
 pandunia - Pandunia  
 panduniste - Pandunia speaker  
 paneuropi - pan-European  
-pang - bread  
 panike - panic  
 panir - quark (paneer)  
 panjabi - Punjabi  
-panke - fan (ventilator)  
+panka - fan (ventilator)  
 panmim - pantomime  
 panromansi - panromantic  
 pansato - always  
@@ -3256,10 +3263,10 @@ shava - rain (precipitation)
 shava chate - umbrella  
 shava kote - raincoat  
 shava mosim - rainy season (monsoon)  
+she - thing  
 shefe - chief (boss)  
 shefe minister - prime minister  
 shefi - main (principal)  
-shei - thing  
 sheihal - situation (circumstances, state of affairs)  
 sheihalironia - situational irony  
 sheke - stone (piece of rock)  
@@ -3661,6 +3668,7 @@ Turkomenia - Turkmenistan
 Tuvalu - Tuvalu  
 tuze - rabbit (hare)  
 ####U - U  
+u - that over there  
 UDA du - American (US)  
 Ukraina - Ukraine  
 ulul - howling  
@@ -3700,7 +3708,6 @@ use - use (employ, apply)
 user - user  
 user name - username  
 Uzbekia - Uzbekistan  
-va - to (toward, till, until, for)  
 va - wow! (gee!)  
 vacin - vaccine  
 vaf - dog  
@@ -3743,8 +3750,6 @@ vashmashin - washing machine
 vashurse - raccoon  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
-ve - that  
-ve - that  
 vei - tail  
 veilin - weft  
 veisirke - latitude  
@@ -3830,12 +3835,8 @@ vute - object (item, thing)
 ####X - X  
 xenon - xenon  
 ya - he or she or it  
-ya - by (at, in, on)  
 ya - area of thinking or being  
 ya di - his or her  
-ya ke - where  
-ya lin - online  
-ya ve - there  
 yaga - estimate (approximate)  
 yago - about (approximately, nearly, almost)  
 yagones - peninsula  
@@ -3863,16 +3864,20 @@ yaushinablia - loyalty (faithfulness)
 yavan - necessary (needed)  
 yavi - needy (lacking)  
 ye - yes  
-ye - this  
 yehudi - Jewish  
 yehudi din - Judaism  
 yei - yay! (yeah!)  
+yeki - exchange (replace, trade, swap)  
+yeki kanon - I Ching (the Book of Changes)  
 Yemen - Yemen  
 Yesu - Jesus  
 Yesu mesi - Jesus Christ  
 yeze - coconut tree  
-yi - this  
-yodem - iodine  
+yo - some  
+yo - one (someone)  
+yo jan - someone (somebody)  
+yo sate - sometime  
+yo she - something  
 yoga - yoga  
 yoga ja - yogi  
 Yohan festa - Saint John's Day  
@@ -3912,6 +3917,7 @@ zayia - presence (existence)
 zayo - presenty (currently, now)  
 zayu - appear  
 zayu - exist (be present)  
+ze - from (since, because)  
 zebre - zebra  
 zeta* - zetta-  
 zeyil - wart  
