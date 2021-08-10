@@ -331,8 +331,8 @@ frute - fruta
 fuka - vestir  
 fuke - roupa (vestidura)  
 fuku - trajar (vestir-se)  
-funge - fungo  
-funge frute - cogumelo  
+fungu - fungo  
+fungu frute - cogumelo  
 fute bol - futebol  
 fute marke - pegada  
 ####G - G  
@@ -418,6 +418,7 @@ hero - héroi
 Hesia - Hesse (Héssia)  
 hijabu - véu  
 hima - neve  
+hindu raja - rajá  
 Hindu riu - Indo  
 hisaba - calcular  
 hisabolojia - matemática  
@@ -682,6 +683,7 @@ majang - mahjong
 makanful - dente-de-leão (taráxaco)  
 malnomia - economia  
 mam - seio (mama)  
+man raja - rei  
 mangi - ocupado (atarefado)  
 manihayistia - maniqueísmo  
 manir - comportamento (conduta)  
@@ -801,8 +803,8 @@ norde - norte
 nostalgia - nostalgia (saudade)  
 note - nota  
 numbe - número  
-o - ou  
 ####O - O  
+o - ou  
 oke - olho  
 oki - ocular  
 okosuigas - gás lacrimogéneo  
@@ -919,6 +921,7 @@ puri - cheio
 purshipa - ensopar (encharcar, marinar)  
 putau oranje - toranja  
 ####R - R  
+radio - radio  
 rai - opinião  
 rang - cor  
 rangarke salmon - truta-arco-íris  

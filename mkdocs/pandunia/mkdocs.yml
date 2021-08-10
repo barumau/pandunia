@@ -16,9 +16,9 @@ nav:
         - 'dini kitabe': dini_kitabe.md
     - logoliste:
         - 'logia': logia.html
-        - 'dexnam': dexonam.md
+        - 'desha nam': desha_nam.md
         - 'logaslia': leksaslia.md
-        - 'loge du numbe': loge_du_numbe.md
+        - 'loga di numbe': loga_di_numbe.md
     - filme: filme.md
     - linke: linke.md
 

@@ -258,7 +258,7 @@
 |**fete**|graso|angla:fat, deu:Fett, svahila:mafuta, rwa:mavuta, konga:mafuta|
 |**feyu**|flugi|mandarena:飞 (fēi), kantona:飛 (fei1), vua:飛 (fi1), japana:飛 (hi), korea:비 (bi), vjetnama:bay|
 |**figur**|figuro|angla:franca:figure, hispana:portugala:figura|
-|**fikre**|penso|araba:(fikr), malaja:pikir, svahila:fikiri, turka:fikir, hindia:(fikr),  persa:(fekr)|
+|**fikir**|penso|araba:(fikr), malaja:pikir, svahila:fikiri, turka:fikir, hindia:(fikr),  persa:(fekr)|
 |**fiksa**|fiksi|angla:fix, franca:fixer, hispana:fijar, portugala:fixar|
 |**filme**|filmo|angla:hispana:franca:film, portugala:filme, deu:Film, rusa:фильм (fil’m), turka:film, araba:فيلم (film), japana:フィルム (firumu), malaja:pilem, svahila:filamu|
 |**filter**|filtri|angla:filter, hispana:portugala:filtro, franca:turka:filtre, rusa:фильтр (filʹtr), hindia:फ़िल्टर (filṭar), bengala:ফিল্টার (philṭar), japana:フィルター (firutā)|
@@ -283,7 +283,7 @@
 |**fuke**|vesto|mandarena:服 (fú), kantona:服 (fuk6), japana:服 (fuku), korea:의복 (uibok), vjetnama:y phục|
 |**fun**|polvo|mandarena:粉 (fěn), hakaa:粉 (fun), taja:ฝุ่น (fùn)|
 |**funci**|funkcii|angla:function, hispana:portugala:funcionar, franca:fonctionner, rusa:функциони́ровать (funkcionirovat’), malaja:berfungsi|
-|**funge**|fungo|angla:fungus, franca:fongus, portugala:fungo, hispana:hongo|
+|**fungu**|fungo|angla:fungus, franca:fongus, portugala:fungo, hispana:hongo + mandarena:菇 (gū), kantona:菇 (gu1)|
 |**furete**|furo|franca:furet, angla:ferret, portugala:furrão, itala:furetto, hispana:hurón, japana:(feretto), svahila:fereti|
 |**furia**|kolero (furiozo)|angla:fury, hispana:polona:furia, portugala:fúria|
 |**fute bol**|piedpilko|angla:franca:football, hispana:fútbol, portugala:futebol, deu:Fußball, hindia:फ़ुटबॉल (fuṭbŏl), urdua:(fuṭ bāl), bengala:ফুটবল (phuṭbôl), rusa:футбол (futbol), taja:ฟุตบอล (th) (fút-bɔn), japana:フットボール (futtobōru), zulua:ibhola|
@@ -708,8 +708,9 @@
 |**punte**|punkto|hispana:punto, rusa:пункт (punkt), angla:point|
 |**puri**|plena|hindia:पूर्ण (pūrn), bengala:পূর্ণ (pūrṇa), panĝaba:ਪੂਰਾ (pūrā), persa:(por)|
 |**putau**|vinbero|mandarena:葡萄 (pútáo), kantona:葡萄 (pou4 tou4), vua:葡萄 (bu dau3), japana:葡萄 (budō), korea:포도 (podo), vjetnama:bồ đào|
-|**putongi**|generala|mandarena:普通 (pǔtōng), kantona:普通 (pou2tung1), vjetnama:phổ thông, korea:보통 (botong)|
+|**putong**|generala|mandarena:普通 (pǔtōng), kantona:普通 (pou2tung1), vjetnama:phổ thông, korea:보통 (botong)|
 |**rai**|opinio|araba:(raʾy), svahila:rai, hindia:राय (rāy), persa:(ra'y), turka:rey|
+|**raja**|reĝo aŭ reĝino|hindia:राजा (rājā), রাজা (raja), malaja:raja, teluga:రాజు (rāju) + angla:rajah, hispana:portugala:rajá, rusa:раджа|
 |**rampe**|ramplo|franca:rampe, angla:ramp, portugala:hispana:rampa, japana:ランプ (ranpu)|
 |**rang**|koloro|bengala:রং (rông), hindia:रंग (raṅg), urdua:(raṅg), persa:(rang), teluga:రంగు (raṅgu), svahila:rangi, lingala:lángi, turka:renk|
 |**rapidi**|rapida|hispana:portugala:rápido, angla:rapid, franca:rapide|

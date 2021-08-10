@@ -1,10 +1,10 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "#numbe da panduni loge la ali bax" > pandunia/loge_du_numbe.md
-   echo "" >> pandunia/loge_du_numbe.md
-   echo "| bax | numbe | fen |" >> pandunia/loge_du_numbe.md
-   echo "|-----|-------|-----|" >> pandunia/loge_du_numbe.md
-   cat temp/stats.txt >> pandunia/loge_du_numbe.md
+   echo "#numbe da pandunia loga ze ali basha" > pandunia/loga_di_numbe.md
+   echo "" >> pandunia/loga_di_numbe.md
+   echo "| basha | numbe | fen |" >> pandunia/loga_di_numbe.md
+   echo "|-------|-------|-----|" >> pandunia/loga_di_numbe.md
+   cat temp/stats.txt >> pandunia/loga_di_numbe.md
 }
 
 fata_leksasli_liste() {

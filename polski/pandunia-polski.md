@@ -1,6 +1,5 @@
 # pandunia-polski
 ####A - A  
-a - ale, lecz  
 abies - jodła  
 acente - akcent, nacisk  
 achi - kichać (apsik!)  
@@ -66,10 +65,11 @@ aloseksi - heteroseksualny
 alosfia - różnica  
 alosifi - różny (inny)  
 alumin - glin (aluminium)  
+ama - ale, lecz  
 Amara - Amhara, amharski  
+Amerika Samoa - Amerykańska Samoa  
 Amerike - Ameryka (kontynent)  
 ameriki - amerykański  
-Ameriki Samoa - Amerykańska Samoa  
 amerikium - ameryk  
 ami - kochany (drogi)  
 amir - rozkaz, komenda  
@@ -235,7 +235,7 @@ banana - banan
 banda - zespół (drużyna, grupa)  
 bandera - flaga, sztandar  
 bangla basha - banglijski  
-Bangladesh - Bangladesz  
+Bangladesha - Bangladesz  
 banka - oszczędzać (deponować)  
 banke - bank  
 banker - bankier  
@@ -375,7 +375,7 @@ bori - znudzony
 boria - nuda (znudzenie)  
 borium - bohr  
 boron - bor  
-Bosnia e Herchegovina - Bośnia i Harcegowina  
+Bosna e Hercegovina - Bośnia i Harcegowina  
 botel - butelka  
 Botia - Tybet  
 boyu - dryfować (pływać, płynąć)  
@@ -415,6 +415,7 @@ burge - zamek, forteca, twierdza
 Burkina Faso - Burkina Faso  
 bus - autobus, autokar  
 buste - biust  
+Butan - Bhutan  
 bute - but  
 buton - klawisz, przycisk, przełącznik, guzik  
 butonban - klawiatura  
@@ -429,7 +430,7 @@ cerium - cer
 cesium - cez  
 ch - C  
 chabe - klucz  
-chadia - Czad  
+Chade - Czad  
 chai - herbata  
 chaikan - herbaciarnia  
 chaikupe - kubek do herbaty  
@@ -458,7 +459,6 @@ chate - dach
 chatre - cztery (4)  
 chau - trawa  
 chavistan - łąka  
-chehia - Republika Czeska, Czechy  
 cheka - sprawdzić, sprawdzać, skontrolować  
 chen zaman - przeszłość  
 chena - poprzedzić, poprzedzać  
@@ -475,6 +475,7 @@ chenvidi - spodziewany (przewidziany)
 chenyangi - klasyczny  
 cheri - wiśnia (czereśnia)  
 Chernagora - Czarnogóra  
+Cheska - Republika Czeska, Czechy  
 Chile - Chile  
 chili - papryka  
 chili fun - papryka  
@@ -487,7 +488,7 @@ chinchila - szynszyla
 ching - prosić  
 ching lai - zaprosić, zapraszać  
 chini - porcelana  
-chipia - Albania  
+Chipe - Albania  
 chir - rwać (drzeć)  
 chira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
 chirchira - strzępić (drzeć)  
@@ -504,7 +505,7 @@ chope - motyka
 chor - kradzież  
 chora - ukraść, kraść  
 chorer - złodziej  
-chosen - Korea  
+Chosen - Korea  
 choseni - koreański  
 chum - całus  
 chun - wieś, wioska  
@@ -515,8 +516,8 @@ chutomun - drzwi wyjściowe
 chuza - wybrać, wybierać, selekcjonować  
 chuzable - opcja (wybór)  
 chuze - wybór, elekcja, selekcja  
-chvana - Botswana  
 citi - miast, miasteczko  
+Cuana - Botswana  
 ####D - D  
 da - z (partykuła posiadania)  
 daidarja - wzmacniać (wzmocnić)  
@@ -533,11 +534,11 @@ dake - pokrycie; pokrywa, wieko, dekiel; pokład
 dalil - dowód; zeznanie  
 dalila - dowieść, dowodzić; zeznać, zeznawać  
 damgem - warcaby  
+Dan - Dania  
 dan - cząstka (ziarno, kula, pocisk)  
 danga - dzwonić (dźwięczeć, szczękać)  
 danger - dzwon (dzwonek)  
 dani - duński  
-Dania - Dania  
 danka - dziękować  
 danke - dzięki, dzięki ci  
 danse - taniec  
@@ -623,8 +624,8 @@ disprosium - dysproz
 Divehia - Malediwy (Republika Malediwów)  
 do - do, dopóki, dla  
 dobe - cegła  
+Doiche - Niemcy  
 doichi - niemiecki  
-Doichia - Niemcy  
 dokum - dokument  
 dokumsanduke - folder (teczka)  
 dolar - dolar  
@@ -634,14 +635,14 @@ doma - mieszkać
 domana - dać mieszkanie (zakwaterować)  
 domi - domowy  
 Dominika - Dominika (Wspólnota Dominiki)  
-Dominiki Komunkratia - Republika Dominikańska (Dominikana)  
+Dominika Komunkrati - Republika Dominikańska (Dominikana)  
 dominogem - domino  
 domzeze - mucha  
 don - podarunek, dar, prezent  
 dona - dać, dawać  
 dong - wschód  
+Dong Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
 dongi - wschodni  
-Dongi Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
 dongogoril - goryl wschodni  
 donjon aventur - przygoda w lochu  
 dosh - wina, grzech; defekt, wada  
@@ -660,7 +661,6 @@ doze - porcja, dawka
 drame - dramat  
 dramironia - ironia dramatyczna  
 droge - narkotyk  
-Drugia - Bhutan  
 du - dwa (2)  
 dua - pomodlić się, modlić się  
 dua - modlitwa  
@@ -726,7 +726,7 @@ emosi - emocjonalny (uczuciowy)
 emosu - czuć, odczuć, odczuwać  
 energe - energia  
 engli - Anglik; angielski  
-Englia - Anglia  
+English - Anglia  
 englofiler - anglofil  
 englokitaba - anglizować (zanglizować)  
 englomargarite - stokrotka pospolita  
@@ -735,7 +735,7 @@ enjener - inżynier
 enzim - enzym  
 erbium - erb  
 Eris - Eris (planeta karłowata)  
-Eritria - Erytrea  
+Eritra - Erytrea  
 esei - esej  
 esh - zęwnętrzny  
 esha - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
@@ -752,12 +752,12 @@ eskale - schody (drabina)
 eskalotan - pnącz  
 Eskandia - Skandynawia  
 eskandium - skand  
-Eskotia - Szkocja  
+Eskote - Szkocja  
 eskulta - rzeźbić  
 eskulte - rzeźba  
 eskulter - rzeźbiarz  
 eskultia - rzeźbiarstwo  
-Espania - Hiszpania  
+Espanya - Hiszpania  
 esperanti - Esperanto  
 esponje - gąbka  
 esporte - sport, lekkoatletyka  
@@ -768,7 +768,7 @@ estasa - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)
 estasi - statyczny, stacjonarny, nieruchomy  
 estasia - stacja  
 estasu - nie ruszać się  
-Estia - Estonia  
+Esti - Estonia  
 estibium - antymon  
 estrontium - stront  
 estuder - student  
@@ -849,8 +849,8 @@ feti - tłusty
 feyu - latać, lecieć  
 figur - figura, reprezentacja  
 Fiji - Fidżi  
-fikra - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
-fikre - myśl, pomysł  
+fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
+fikir - myśl, pomysł  
 fiksa - przyczepić, przymocować  
 fikse - załącznik (przyrostek, afiks)  
 fila - lubić  
@@ -924,9 +924,9 @@ fuku - nosić ubrania
 fun - pył  
 fun chupa gi - odkurzacz  
 funci - funkcja, stanowisko  
-funge - grzyb  
-funge frute - sporokarp  
-funge nete - grzybnia  
+fungu - grzyb  
+fungu frute - sporokarp  
+fungu nete - grzybnia  
 furete - tchórz, fretka  
 furi - zły (wsciekły, gniewny)  
 furia - gniew, furia  
@@ -1154,11 +1154,11 @@ hava - dmuchać
 hava - wiatr  
 Havai - Hawaje  
 Havai nesia - Hawaje (archipelag hawajski)  
-Hayakia - Armenia  
+Hayaki - Armenia  
 hayi - morski  
 he - hę?, co?, pardon?  
-Helen - gracki, helleński; Grek  
 Helen - Grecja  
+Helen - gracki, helleński; Grek  
 helis - helisa  
 helisviman - helikopter  
 helium - hel  
@@ -1215,7 +1215,7 @@ hor - godzina
 horloger - zegar (zegarek)  
 horlogerminar - wieża zegarowa  
 hormon - hormon  
-Horvatia - Chorwacja  
+Horvati - Chorwacja  
 hotel - hotel  
 hua - kwiat  
 hua mosim - wiosna  
@@ -1275,7 +1275,7 @@ insanistia - humanizm
 insida - kucać (kucnąć)  
 internete - internet  
 iode - jod; jodyna  
-Irakia - Irak  
+Iraki - Irak  
 Iran - Iran  
 iridium - iryd  
 ironi - ironiczny  
@@ -1286,7 +1286,7 @@ islam din jan - muzułman, muzułmanin
 islam din sharia - szariat  
 islamfobia - islamofobia  
 islamu - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
-Islandia - Islandia  
+Islande - Islandia  
 Israel - Izrael  
 Italia - Italia, Włochy  
 iyon - jon  
@@ -1314,7 +1314,7 @@ jar - wazon
 jau - jęczmień  
 javaba - odpowiedzieć, odpowiadać  
 javabe - odpowiedź, odzew  
-Jayeria - Algieria  
+Jayer - Algieria  
 jaze - jazz, dżez  
 jebe - kieszeń  
 jebria - algebra  
@@ -1370,7 +1370,7 @@ jul - dżul (J)
 jumle - zdanie (fraza)  
 jung - środkowy, centralny  
 junga - centrować, skupić, skupiać  
-Jungafrike - Republika Środkowoafrykańska  
+Jungafrika - Republika Środkowoafrykańska  
 jungi - centralny (środkowy)  
 jungofon - samogłoska  
 jungu - być wycentrowanym, być w środku  
@@ -1390,7 +1390,7 @@ kababi manse - kebab
 kabau - bawół domowy  
 kabin - kabina, budka  
 kaboge - kabaczek (dynia, tykwa)  
-Kabu Verdi - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
+Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
 kade - dorsz  
 kadmium - kadm  
 kafe - kawa  
@@ -1405,7 +1405,7 @@ kaka - defekować, srać
 kakau - kakao  
 kake - ekskrement, gówno  
 kal - pustka  
-Kalalia - Grenlandia  
+Kalal - Grenlandia  
 kalam - pióro, długopis  
 kalende - kalendarz  
 kali - pusty  
@@ -1431,8 +1431,8 @@ kamisa shake - rękaw
 kamote - słodki ziemniak  
 kampe - obozowicz  
 kamper - obóz  
+Kamri - Walia  
 kamri - walijski  
-Kamria - Walia  
 Kanada - Kanada  
 kanal - kanał  
 kanala - kierować (doprowadzać, prowadzić, służyć jako kanał)  
@@ -1900,6 +1900,7 @@ malu - należeć
 Malvinas nesia - Falklandy, Malwiny  
 mamal - ssak  
 man - męski  
+man raja - król  
 mana - znaczenie  
 manete - magnes  
 maneti - magnetyczny  
@@ -1908,7 +1909,6 @@ mangi - zajęty
 mangou - mango  
 mangus - mangostan  
 mani pute - syn  
-mani rajer - król  
 Manihai - prorok Mani  
 manihayistia - manicheizm  
 Manin nes - Wyspa Man  
@@ -1991,6 +1991,7 @@ mega - milion
 megagram - tona  
 megavate - megawat  
 mege - chmura  
+Mehiko - Meksyk  
 mei - każdy, wszyscy  
 melodi - melodyczny  
 melodia - melodia  
@@ -2020,7 +2021,6 @@ mes sete - październik
 mes tisa - grudzień  
 mes tri - czerwiec  
 mes un - styczeń  
-Meshiko - Meksyk  
 Meshiko site - Meksyk  
 mesi - Chrystus, mesjasz  
 mesi din - chrześcijaństwo  
@@ -2304,8 +2304,8 @@ nudistia - nudyzm
 numba - liczyć  
 numbe - numer  
 nuton - niuton (N)  
-o - lub, albo  
 ####O - O  
+o - lub, albo  
 Ocheania - Oceania  
 odisi - orija  
 ofis - urząd, pozycja, stanowisko, funkcja  
@@ -2323,7 +2323,7 @@ okosui - łza
 okosuigas - gaz łzawiący  
 okse - tlen  
 okside - tlenek  
-Olandi nesia - Wyspy Alandzkie  
+Olande nesia - Wyspy Alandzkie  
 Oman - Oman  
 onde - fala  
 Onduras - Honduras  
@@ -2400,7 +2400,7 @@ pante - spodnie (pantalony, portki)
 papagai - papuga  
 papai - papaja  
 papir - dokument  
-Papua Novi Ginia - Papua Nowa Gwinea  
+Papua Nove Ginia - Papua Nowa Gwinea  
 Paraguai - Paragwaj  
 param - parametr (argument, wartość wejściowa)  
 paraya - gardzić (pogardzać)  
@@ -2619,22 +2619,23 @@ pusha - pchnąć, pchać
 pusher - tłok  
 putau - winogrono  
 putau oranje - grejpfrut  
+putong - powszechny, uniwersalny  
 Putong Han - mandaryński chiński, Putonghua  
-putongi - powszechny, uniwersalny  
 ####R - R  
-rada - promieniować  
-rade - promień  
+radi - promieniować  
+radi - promień  
+radi - promieniowanie  
 radi geter - radio  
+radi metre gi - radoiometr  
 radi miser - nadajnik radiowy  
-radia - promieniowanie  
+radio - radio  
 radium - rad  
-radometrer - radoiometr  
 radon - radon  
 rai - opinia, pogląd  
 raite - prawa strona  
 raiti - prawy (prawostronny, z prawej strony)  
 raitiste - prawicowiec (prawak)  
-rajer - król lub królowa  
+raja - król lub królowa  
 raji - królewski  
 rajia - królestwo  
 ramazan - Ramadan  
@@ -2738,6 +2739,7 @@ rotu - obrócić się (kręcić się)
 roze - róża  
 rozorangi - różowy, różany  
 rozosalmon - gorbusza  
+Ruanda - Rwanda  
 rubidium - rubid  
 ruhi - umysłowy (psychiczny)  
 ruhmisha - mylić (gmatwać, zmieszać, konsternować)  
@@ -2761,7 +2763,6 @@ ruterfordium - rutherford
 rutin - rutyna, nawyk, zwyczaj  
 rutogalta - zbłąkać się (wykoleić się)  
 rutogalti - zbłąkany (dewiacyjny, wykolejony)  
-Rvanda - Rwanda  
 ####S - S  
 saba - spowodować, powodować  
 sabate - szabat, szabas  
@@ -2781,8 +2782,8 @@ safer - sprzątacz, sprzątacz
 safi - czysty  
 safran - szafran  
 saha - poprawić, poprawiać, prostować, korygować  
+Sahara Desha - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
 sahi - właściwy, poprawny  
-Sahravia - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
 saida - polować (łowić)  
 saida pesh - łapać rybę  
 saide - polowanie (łowienie)  
@@ -3002,8 +3003,8 @@ silnete - kolczuga
 silsil - łańcuch  
 simpli - prosty, nieskomplikowany  
 sine - pierś  
-sing - gwiazda  
 sing - lew  
+sing - gwiazda  
 Singapur - Singapur  
 sinokapse - klatka piersiowa  
 sinoplate - napierśnik  
@@ -3044,8 +3045,8 @@ solful - słonecznik
 Solomon nesia - Wyspy Salomona  
 solsistem - układ słoneczny  
 som - sen  
-Somaldesh - Somaliland  
-Somalia - Somalia  
+Somal - Somalia  
+Somal Desha - Somaliland  
 somkamar - sypialnia  
 sompapil - mak lekarski  
 somu - spać  
@@ -3123,8 +3124,8 @@ sundardaka - dekorować
 sundardake - dekoracja (ornament)  
 sundaria - piękno  
 suno - wkrótce  
+Suomi - Finlandia  
 suomi - fiński  
-Suomia - Finlandia  
 supe - zupa  
 superi - wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super  
 supra - przekroczyć, przekraczać, przejść nad, iść nad  
@@ -3145,11 +3146,12 @@ tabake - tytoń
 tabi - natura, środowisko  
 tabla date - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
+Tai Desha - Tajlandia  
 Taibei - Tajpej  
 taige - tajga  
 tail - płyta  
 Taivan - Tajwan, Republika Chińska  
-Tajikia - Tadżykistan  
+Tajiki - Tadżykistan  
 taksa - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
 takse - podatek, opłata  
 taksogar - taxi, taksówka  
@@ -3181,7 +3183,6 @@ tatike - taktyka, strategia
 tatu* - tatuaż  
 tave - patelnia  
 tayi - tajski  
-Tayia - Tajlandia  
 tazi - świeży  
 tehne - technika, technologia  
 tehnekrati - technokracja  
@@ -3292,8 +3293,8 @@ tupe - kapelusz, czapka
 turba - przeszkodzić, przeszkadzać, robić kłopot  
 turbe - problem, kłopot, zakłócenie  
 turbu - przejmować się (zawracać sobie głowę)  
+Turki - Turcja  
 turki - turecki  
-Turkia - Turcja  
 Turkomenia - Turkmenistan  
 Tuvalu - Tuwalu  
 tuze - królik, zając  
@@ -3315,7 +3316,7 @@ uniki - jedyny (wyłączny)
 uniko - jedynie (tylko)  
 uniti - zjednoczony  
 Uniti Arabi Amiria (UAA) - Zjednoczone Emiraty Arabskie  
-Uniti Desh Da Amerike (UDA) - Stany Zjednoczone Ameryki  
+Uniti Desha Da Amerika (UDA) - Stany Zjednoczone Ameryki  
 unmaro - raz (jeden raz)  
 unmeni - jednoznaczny  
 unodi - pierwszy, numer jeden  

@@ -317,7 +317,7 @@ frika - 擦伤
 frute - 果  
 fuke - 衣服  
 fuku - 穿  
-funge frute - 蘑菇  
+fungu frute - 蘑菇  
 fute marke - 脚印  
 ####G - G  
 ga - 如果 (要是)  
@@ -406,6 +406,7 @@ hero - 英雄 (勇士)
 Hesia - 黑森  
 hijabu - 面纱  
 Hindu desh - 印度斯坦  
+hindu raja - 拉贾  
 Hindu riu - 印度河  
 hisaba - 计算  
 hisabolojia - 数学  
@@ -667,6 +668,7 @@ majang - 麻将
 makanful - 蒲公英  
 malnomia - 经济学  
 malu - 属于  
+man raja - 王  
 mana - 意义  
 mangi - 忙  
 manihayistia - 摩尼教  
@@ -776,8 +778,8 @@ norde - 北
 nostalgia - 怀旧  
 note - 便条  
 numbe - 数  
-o - 或  
 ####O - O  
+o - 或  
 oke - 眼睛  
 okosuigas - 催泪瓦斯  
 okside - 氧化物  
@@ -875,8 +877,8 @@ purfina - 完成
 purfityamiste - 纯素食主义者  
 purshipa - 浸泡  
 putau oranje - 葡萄柚  
+putong - 普通  
 Putong Han - 普通话  
-putongi - 普通  
 ####R - R  
 rai - 意见 (见解)  
 rang mate - 染料  

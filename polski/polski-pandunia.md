@@ -25,13 +25,13 @@ aktywować (włączyć, uruchomić) - ativa
 akwarela (farba wodna) - suirang  
 akwarium - peshtanke  
 Alaska - Alaska  
-Albania - chipia  
-ale, lecz - a  
+Albania - Chipe  
+ale, lecz - ama  
 alfabet łaciński, łacinka, alfabet rzymski - latini harfia  
 alfabet, abecadło - harfi harfi  
 alga (wodorost) - alge  
 algebra - jebria  
-Algieria - Jayeria  
+Algieria - Jayer  
 aligator - korte krokodil  
 alkohol - alkol  
 alkoholowy - alkoli  
@@ -44,7 +44,7 @@ ameryk - amerikium
 Ameryka (kontynent) - Amerike  
 Ameryka Południowa - Sudi Amerike  
 Ameryka Północna - Nordi Amerike  
-Amerykańska Samoa - Ameriki Samoa  
+Amerykańska Samoa - Amerika Samoa  
 amerykański - ameriki  
 Amhara, amharski - Amara  
 amper - amper  
@@ -56,7 +56,7 @@ ananans - nanas
 andezyt - andesite  
 Andora - Andora  
 Andy - Andes  
-Anglia - Englia  
+Anglia - English  
 Anglik; angielski - engli  
 anglizować (zanglizować) - englokitaba  
 anglofil - englofiler  
@@ -85,7 +85,7 @@ argon - argon
 argument - argum  
 argument, teza - tese  
 Arktyka - Artike  
-Armenia - Hayakia  
+Armenia - Hayaki  
 armia - gun  
 aromantyczny - anromansi  
 arsen - arsene  
@@ -136,7 +136,7 @@ balon - balon
 bambus - bambu  
 banan - banana  
 bandaż, taśma, wstążka - fashe  
-Bangladesz - Bangladesh  
+Bangladesz - Bangladesha  
 banglijski - bangla basha  
 bank - banke  
 bankier - banker  
@@ -178,7 +178,7 @@ beryl - berilium
 beton - beton  
 bez - na  
 bezpieczny - sekuri  
-Bhutan - Drugia  
+Bhutan - Butan  
 Białoruś - Belarus  
 biały - baki  
 Biblia - biblia  
@@ -221,9 +221,9 @@ Bombaj (Mumbaj) - Mumbai
 bor - boron  
 boski - deu li  
 botanika - fitolojia  
-Botswana - chvana  
+Botswana - Cuana  
 boćwina (botwina) - selge  
-Bośnia i Harcegowina - Bosnia e Herchegovina  
+Bośnia i Harcegowina - Bosna e Hercegovina  
 Boże Narodzenie - mesi jen  
 brawo (gratulacje) - bravo  
 Brazyla - Brazil  
@@ -322,7 +322,7 @@ cholera - holire
 Chongqing - chongching  
 chordofon, instrument strunowy - tichin  
 choroba - pati  
-Chorwacja - Horvatia  
+Chorwacja - Horvati  
 chory - pati  
 chować (kryć) - sira  
 chrom - kromium  
@@ -384,7 +384,7 @@ cytować - chita
 cytryna - limon  
 cywilizacja - sivilia  
 cywilizowany (ucywilizowany) - sivili  
-Czad - chadia  
+Czad - Chade  
 czajnik - ketle  
 czapetka kuminowa - jamul  
 czar (urok, wdzięk) - charme  
@@ -425,7 +425,7 @@ daktyl - tamar
 daleki, odległy, dystans - tele  
 damarzyk (meranti) - merante  
 dane - date  
-Dania - Dania  
+Dania - Dan  
 danie - tas  
 darmsztadt - darmesitadium  
 darwinista - darviniste  
@@ -605,10 +605,10 @@ enzym - enzim
 epistemologia - sabilogi  
 erb - erbium  
 Eris (planeta karłowata) - Eris  
-Erytrea - Eritria  
+Erytrea - Eritra  
 esej - esei  
 Esperanto - esperanti  
-Estonia - Estia  
+Estonia - Esti  
 etap, faza - faze  
 Etiopia - Etiopia  
 etniczny - zuki  
@@ -645,7 +645,7 @@ filozof - filsofer
 filozofia - filsofia  
 filozoficzny - filsofi  
 filtr - filter  
-Finlandia - Suomia  
+Finlandia - Suomi  
 fioletowy - viyoleti  
 fiord - fiorde  
 firma, kompania, korporacja - kompania  
@@ -749,7 +749,7 @@ Grecja - Helen
 grejpfrut - putau oranje  
 Grenada - Grenada  
 Grenadyny - Grenadin nesia  
-Grenlandia - Kalalia  
+Grenlandia - Kalal  
 grillować - kababa  
 grom, huk - grom  
 grubość - grosta  
@@ -762,8 +762,8 @@ gruszka - leze
 Gruzja (Republika Gruzji) - Kartvel  
 grymas - grimas  
 grzebień - kang  
-grzyb - funge  
-grzybnia - funge nete  
+grzyb - fungu  
+grzybnia - fungu nete  
 grób (mogiła, grobowiec, zakopać, pochować) - gabur  
 Guam - Guam  
 Gudżarat - gujarati  
@@ -837,7 +837,7 @@ hipopotam - gubu*
 historia, badanie historii - historia  
 historia; annały, roczniki - histori  
 historyk - histori ja  
-Hiszpania - Espania  
+Hiszpania - Espanya  
 hmm - hem  
 Ho Chi Minh (Sajgon) - Ho chi Min site  
 hobby - hobi  
@@ -909,7 +909,7 @@ interesujący - savovoliti
 interfejs - medofas  
 internet - internete  
 inżynier - enjener  
-Irak - Irakia  
+Irak - Iraki  
 Iran - Iran  
 Irlandia - Aire  
 Irlandia Północna - Nordi Aire  
@@ -920,7 +920,7 @@ ironiczny - ironi
 iryd - iridium  
 Islam - islam din  
 islamofobia - islamfobia  
-Islandia - Islandia  
+Islandia - Islande  
 istnieć (być obecnym) - zayu  
 Italia, Włochy - Italia  
 iterb - yuterbium  
@@ -1161,7 +1161,7 @@ kopiować, replikować - kopa
 kopuła - kupochate  
 koral - koral  
 Koran - kuran  
-Korea - chosen  
+Korea - Chosen  
 Korea Południowa - Sudi chosen  
 Korea Północna (Koreańska Republika Ludowo-Demokratyczna) - Nordi chosen  
 koreański - choseni  
@@ -1221,8 +1221,8 @@ krzemień - hogosheke
 krzyknąć, krzyczeć - krita  
 krzywdzący (szkodliwy) - avarani  
 krzyż - krus  
-król - mani rajer  
-król lub królowa - rajer  
+król - man raja  
+król lub królowa - raja  
 królestwo - rajia  
 królewski - raji  
 królik, zając - tuze  
@@ -1453,7 +1453,7 @@ medytować; dumać, rozmyślać, zastanawiać się - medita
 megawat - megavate  
 meitner - maitnerium  
 Mekka - Makah  
-Meksyk - Meshiko  
+Meksyk - Mehiko  
 Meksyk - Meshiko site  
 melodia - melodia  
 melodyczny - melodi  
@@ -1584,8 +1584,8 @@ my - mimen
 mydło - sabun  
 mylić (gmatwać, zmieszać, konsternować) - ruhmisha  
 mysz - mushu  
-myśl, pomysł - fikre  
-myśleć, dumać, rozmyślać, zastanawiać się, rozważać - fikra  
+myśl, pomysł - fikir  
+myśleć, dumać, rozmyślać, zastanawiać się, rozważać - fikir  
 móc, umieć, możliwy, prawdopodobnie - bil  
 mój - mi di  
 mówić, rozmawiać - loga  
@@ -1688,7 +1688,7 @@ niech my, hajda - haida
 niechętny - anichi  
 niedziela - var sete  
 niedźwiedź - urse  
-Niemcy - Doichia  
+Niemcy - Doiche  
 niemiecki - doichi  
 niemowlę - bebe  
 nienawidzić - hen  
@@ -1924,7 +1924,7 @@ papieros (cygar) - sigar
 paproć - parne  
 papryka - chili  
 papryka - chili fun  
-Papua Nowa Gwinea - Papua Novi Ginia  
+Papua Nowa Gwinea - Papua Nove Ginia  
 papuga - papagai  
 para wodna - suigas  
 paragon, pokwitowanie - reside  
@@ -2164,7 +2164,7 @@ powietrze - air
 powinien - selu  
 powolny (wolny, letargiczny) - lenti  
 powrót - retre  
-powszechny, uniwersalny - putongi  
+powszechny, uniwersalny - putong  
 powtarzanie, powtórka - ri  
 powtórzyć, powtarzać - reya  
 powód, przyczyna - sabe  
@@ -2227,9 +2227,9 @@ programista, koder - programer
 projekt, planowane przedsięwzięcie - projete  
 projektor (rzutnik) - lanchografer  
 promet - prometium  
-promieniowanie - radia  
-promieniować - rada  
-promień - rade  
+promieniowanie - radi  
+promieniować - radi  
+promień - radi  
 promień światła - foto rade  
 proroctwo - nabe  
 prorok - naber  
@@ -2371,9 +2371,10 @@ racjonalny, rozsądny - razoni
 rad - radium  
 rada, porada - sel  
 radio - radi geter  
+radio - radio  
 radioaktywność - iyoni radia  
 radioaktywny - iyoni radi  
-radoiometr - radometrer  
+radoiometr - radi metre gi  
 radon - radon  
 rakieta - rokete  
 rama - frem  
@@ -2401,11 +2402,11 @@ ren - renium
 reprezentant (przedstawiciel) - vakil  
 reprezentować - vakila  
 republika - komunkratia  
-Republika Czeska, Czechy - chehia  
-Republika Dominikańska (Dominikana) - Dominiki Komunkratia  
+Republika Czeska, Czechy - Cheska  
+Republika Dominikańska (Dominikana) - Dominika Komunkrati  
 Republika Konga - Brazavil Kongo  
 Republika Macedonii, Macedonia - Nordi Makedonia  
-Republika Środkowoafrykańska - Jungafrike  
+Republika Środkowoafrykańska - Jungafrika  
 respekt, honor, szacunek, poważanie - onor  
 restauracja - restorante  
 Reunion - Reunion  
@@ -2473,7 +2474,7 @@ rusztowanie (trap) - futoban
 rut - rutenium  
 rutherford - ruterfordium  
 rutyna, nawyk, zwyczaj - rutin  
-Rwanda - Rvanda  
+Rwanda - Ruanda  
 rwać (drzeć) - chir  
 ryba - pesh  
 ryba rozdymkowata - balonpesh  
@@ -2528,7 +2529,7 @@ ręczny - handi
 ręka, dłoń - hande  
 rękaw - kamisa shake  
 ####S - S  
-Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahravia  
+Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahara Desha  
 Saint Kitts - Santi Kitse  
 Saint Kitts i Nevis - Santi Kitse e Nevis  
 Saint Lucia - Santi Lusia  
@@ -2638,8 +2639,8 @@ soczewka - lense
 sofa (kanapa) - sofa*  
 sofa, kanapa - kanape  
 sok - jus  
-Somalia - Somalia  
-Somaliland - Somaldesh  
+Somalia - Somal  
+Somaliland - Somal Desha  
 sometime - yo sate  
 sos - sos  
 sos jabłkowy - aplosaus  
@@ -2656,7 +2657,7 @@ spocony - suedi
 spodnie (pantalony, portki) - pante  
 spodziewany (przewidziany) - chenvidi  
 spokojny - shanti  
-sporokarp - funge frute  
+sporokarp - fungu frute  
 sport, lekkoatletyka - esporte  
 sposób (metoda, tryb) - mode  
 spotkanie, zebranie - mite  
@@ -2688,7 +2689,7 @@ stacja - estasia
 stadion, arena - estadia  
 stan - hal  
 Stan Nowy Jork - Nevi Yorke site  
-Stany Zjednoczone Ameryki - Uniti Desh Da Amerike (UDA)  
+Stany Zjednoczone Ameryki - Uniti Desha Da Amerika (UDA)  
 Starożytny Egipt (Kemet) - Kemia  
 stary (sędziwy, wiekowy) - lavi  
 stary, starożytny - cheniki  
@@ -2782,7 +2783,7 @@ sześć (6) - luku
 szisz kebab - shishkababe  
 szkielet - ostojamia  
 szklić (glazurować) - kanchodaka  
-Szkocja - Eskotia  
+Szkocja - Eskote  
 szkoła (instytucja) - shulkan  
 szkoła podstawowa - bazoshulkan  
 szkło - kanche  
@@ -2840,9 +2841,9 @@ służyć - serva
 tablica (deska) - ban  
 tablica wyników - puntoban  
 tablioca, macierz - datotable  
-Tadżykistan - Tajikia  
+Tadżykistan - Tajiki  
 tajga - taige  
-Tajlandia - Tayia  
+Tajlandia - Tai Desha  
 Tajpej - Taibei  
 tajski - tayi  
 Tajwan, Republika Chińska - Taivan  
@@ -2905,7 +2906,7 @@ test, wyzwanie, próba - teste
 tikka - tike  
 tikka masala - masali tike  
 Timor - Timor  
-Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dongi Timor  
+Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dong Timor  
 tkanina (materiał, sukno) - tesh  
 tkać (pleść) - tesha  
 tlen - okse  
@@ -2957,7 +2958,7 @@ tunel - tunel
 Tunezja - Tunis  
 tunika, toga - tunike  
 turban - pagre  
-Turcja - Turkia  
+Turcja - Turki  
 turecki - turki  
 Turek osmański - osman  
 Turkmenistan - Turkomenia  
@@ -3059,7 +3060,7 @@ w innym wypadku (inaczej) - alo
 waga (ciężkość) - vezia  
 waga (urządzenie ważące) - vezometrer  
 wagina - vagina  
-Walia - Kamria  
+Walia - Kamri  
 walijski - kamri  
 walka, wojna - jeng  
 wampir - vampir  
@@ -3254,14 +3255,14 @@ wysoki - gavi
 wysokość - gavia  
 wyspa - nes  
 Wyspa Man - Manin nes  
-Wyspy Alandzkie - Olandi nesia  
+Wyspy Alandzkie - Olande nesia  
 Wyspy Cooka - Kuke nesia  
 Wyspy Dziewicze US####A - Virjin nesia  
 Wyspy Georgia Południowa i Sandwich Południowy - Sudi Jorjia e Sudi Sanduiche nesia  
 Wyspy Kokosowe - Kokos nesia  
 Wyspy Marshalla - Marshal nesia  
 Wyspy Salomona - Solomon nesia  
-Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verdi  
+Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
 Wyspy Świętego Tomasza i Książęca - Santi Tome e Prinsipe  
 wystarczający - basi  
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - netodona  

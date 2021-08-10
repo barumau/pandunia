@@ -25,7 +25,7 @@ agorafobia (avaran paikan kammo) - medenfobia
 agronomia (maatalous) - agronomia  
 ahne - tami  
 ahnehtia - tamu  
-Ahvenanmaa (Oolanti) - Olandi nesia  
+Ahvenanmaa (Oolanti) - Olande nesia  
 ai! (au!) - au  
 aihe (teema) - tem  
 aiheesta (-sta) - tema  
@@ -47,9 +47,9 @@ aivokalvo - meninge
 aivokalvontulehdus - meninge flame  
 aivot - serebre  
 ajaa (kuskata) - shofa  
-ajatella (miettiä) - fikra  
+ajatella (miettiä) - fikir  
 ajattelun, olemisen tai ihmisten ala tai alue - ya  
-ajatus - fikre  
+ajatus - fikir  
 akaasia - babul  
 akku (paristo) - bateri  
 akseli - akse  
@@ -63,9 +63,9 @@ Alankomaiden Antillit - Nederlandi Antil
 alapuoli - niche  
 Alaska - Alaska  
 alaston (paljas, naku) - nudi  
-Albania - chipia  
+Albania - Chipe  
 algebra - jebria  
-Algeria - Jayeria  
+Algeria - Jayer  
 aliarvioida - minraya  
 alistua (antautua) - islamu  
 alistuminen (antautuminen) - islam  
@@ -139,7 +139,7 @@ arkkitehti - binplaner
 arkkitehtuuri - binplania  
 Arktis - Artike  
 armeija (sotajoukko) - gun  
-Armenia - Hayakia  
+Armenia - Hayaki  
 arseeni - arsene  
 artesaani (käsityöläinen) - janger  
 artikkeli (kirjoitus) - makal  
@@ -208,7 +208,7 @@ Bahama-saaret - Bahama
 Bahrain - Bahrain  
 bambu - bambu  
 banaani - banana  
-Bangladesh - Bangladesh  
+Bangladesh - Bangladesha  
 barbaari (raakalainen) - barbar  
 Barbados - Barbados  
 Barbuda - Barbuda  
@@ -228,7 +228,7 @@ Berlin - Berlin
 Bermuda - Bermuda  
 berylli - berilium  
 betoni - beton  
-Bhutan - Drugia  
+Bhutan - Butan  
 biologia - biologi  
 biologinen sukupuoli - biyi jinse  
 biseksuaali - dulseksi  
@@ -239,8 +239,8 @@ boikotti - boikote
 bokserit - bokserpante  
 Bolivia - Bolivia  
 boori - boron  
-Bosnia ja Hertsegovina - Bosnia e Herchegovina  
-Botswana - chvana  
+Bosnia ja Hertsegovina - Bosna e Hercegovina  
+Botswana - Cuana  
 Brasilia - Brazil  
 bravo! - bravo  
 Brazzaville - Brazavil  
@@ -256,7 +256,7 @@ Bulgaria - Bolgaria
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 ####C - ch  
-Cabo Verde - Kabu Verdi  
+Cabo Verde - Kabu Verde  
 Cayman-saaret - Kaiman nesia  
 celsiusaste - celsius darje  
 Ceres - Ceres  
@@ -289,7 +289,7 @@ Djiboutia - Jibuti
 dokumenttielokuva - dokumfilme  
 dollari - dolar  
 Dominika - Dominika  
-Dominikaaninen Tasavalta - Dominiki Komunkratia  
+Dominikaaninen Tasavalta - Dominika Komunkrati  
 dominopeli - dominogem  
 draama - drame  
 dualismi - dulistia  
@@ -357,7 +357,7 @@ enemmän (myös, lisäksi, plus) - mash (masho)
 energia - energe  
 englannistaa - englokitaba  
 englanti - engli  
-Englanti - Englia  
+Englanti - English  
 englantia puhuva (anglofoni) - englofoni  
 enimmäis- - mashimi  
 eniten - mashim (mashimo)  
@@ -383,13 +383,13 @@ erilainen - alosifi
 erilaisuus (ero) - alosfia  
 erimielisyys - alorayia  
 Eris (kääpiöplaneetta) - Eris  
-Eritrea - Eritria  
+Eritrea - Eritra  
 erottaa (nähdä ero) - hasa  
 erä (satsi) - lote  
 esimerkiksi - misalo  
 esimerkki - misal  
 esine (tavara) - vute  
-Espanja - Espania  
+Espanja - Espanya  
 espanjaa puhuva - espanfoni  
 esperanto - esperanti  
 essee - esei  
@@ -478,7 +478,7 @@ graniitti - granite
 Grenada - Grenada  
 Grenadiinit - Grenadin nesia  
 grillata (kärventää) - kababa  
-Grönlanti - Kalalia  
+Grönlanti - Kalal  
 Guadeloupe - Guadelupe  
 Guam - Guam  
 Guangzhou (Kanton) - Guangjou  
@@ -752,7 +752,7 @@ intialainen - barte
 Intian valtameri - Barte Hai  
 introspektio - introspete  
 ioni - iyon  
-Irak - Irakia  
+Irak - Iraki  
 Iran - Iran  
 iridium - iridium  
 Irlanti - Aire  
@@ -760,7 +760,7 @@ irvistys - grimas
 isku (šokki) - shoke  
 islam - islam din  
 islamofobia (islamin pelko) - islamfobia  
-Islanti - Islandia  
+Islanti - Islande  
 iso (suuri) - dayi  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britania  
 isoisä - chin pa  
@@ -779,7 +779,7 @@ itsehallinto (autonomia) - autonomia
 itseliikkuva - automoti  
 itseys - aute  
 itä - dong  
-Itä-Timor - Dongi Timor  
+Itä-Timor - Dong Timor  
 itäinen - dongi  
 itämainen lohikäärme - lung  
 Itävalta - Ostria  
@@ -1051,7 +1051,7 @@ kertomus (tarina, saaga) - kata
 kerubi - kerube  
 keräilykortti - jamkarde  
 keskeyttää (tauottaa) - pauza  
-Keski-Afrikan Tasavalta - Jungafrike  
+Keski-Afrikan Tasavalta - Jungafrika  
 keskittyminen (keskittymä) - fokus  
 keskittyä (olla keskellä) - jungu  
 keskittää - fokusa  
@@ -1191,7 +1191,7 @@ kopioida (jäljentää) - kopa
 kopiointioikeus (tekijänoikeus) - kopohake  
 koppi (maja) - kabin  
 koraani - kuran  
-Korea - chosen  
+Korea - Chosen  
 korealainen - choseni  
 kori - baske  
 koripallo - baske bol  
@@ -1232,7 +1232,7 @@ kristalli - bilor
 kristinusko - mesi din  
 kristitty - mesi din ja  
 kristus (messias) - mesi  
-Kroatia - Horvatia  
+Kroatia - Horvati  
 kromi - kromium  
 kruunu - koron  
 kryptoni - kriton  
@@ -1264,7 +1264,7 @@ kumkvatti - kankuate
 kummitus (aave) - fantom  
 Kungfutse - Kongfuze  
 Kungfutselaisuus - kongfuzistia  
-kuningas - mani rajer  
+kuningas - man raja  
 kuningaskunta - rajia  
 kuningatar - femi rajer  
 kuninkaallinen - raji  
@@ -1674,7 +1674,7 @@ mehu - jus
 meidän - mimen di  
 meitnerium - maitnerium  
 mekko (tunika) - tunike  
-Meksiko - Meshiko  
+Meksiko - Mehiko  
 melodia (sävelmä) - melodia  
 melodinen (sointuisa) - melodi  
 menneisyys - chen zaman  
@@ -1739,7 +1739,7 @@ Moldova - Moldova
 molemminpuolinen (keskinäinen) - unali  
 molybdeeni - molidenium  
 Monaco - Monako  
-monarkki (kuningas, kuningatar) - rajer  
+monarkki (kuningas, kuningatar) - raja  
 monenlainen - balibali  
 mongoli - mongoli  
 Mongolia - Mongolia  
@@ -1793,7 +1793,7 @@ mustekala - batosenter
 muta (kura, lieju) - fan  
 mutka (kurvi) - kurve  
 mutkikas - kurvi  
-mutta - a  
+mutta - ama  
 muu (toinen) - ali  
 muuli - iha uma  
 muumio - mumjan  
@@ -2096,7 +2096,7 @@ pappi - din guru
 paprika - chili  
 paprikajauhe - chili fun  
 papu tai herne - dou  
-Papua Uusi-Guinea - Papua Novi Ginia  
+Papua Uusi-Guinea - Papua Nove Ginia  
 papukaija - papagai  
 Paraguai - Paraguai  
 parametri (argumentti) - param  
@@ -2364,6 +2364,7 @@ radiolähetin - radi miser
 radiovastaanotin - radi geter  
 radium - radium  
 radon - radon  
+radža - hindu raja  
 raha - pese  
 rahka - panir  
 raja - limite  
@@ -2446,7 +2447,7 @@ roottori (propelli) - roter
 roska - laje  
 rotu - ras  
 rotujen välinen - rasmedi  
-Ruanda - Rvanda  
+Ruanda - Ruanda  
 rubiini - lalbausheke  
 ruiske (injektio) - jush  
 ruiskuttaa - jusha  
@@ -2496,7 +2497,7 @@ Saint Lucia - Santi Lusia
 saippua - sabun  
 sairas - pati  
 sairaus - pati  
-Saksa - Doichia  
+Saksa - Doiche  
 saksalainen - doichi  
 sakset - makas  
 salaatti - salade  
@@ -2602,8 +2603,8 @@ siellä (tuolla) - an u loka
 siemen - seme  
 siemen- - semi  
 siemenjyvä - semdan  
-sienen hattu - funge frute  
-sieni - funge  
+sienen hattu - fungu frute  
+sieni - fungu  
 sienieläin - esponje  
 Sierra Leone - Salon  
 sihistä - ziza  
@@ -2662,7 +2663,7 @@ sivu (kylki, puoli) - late
 sivu- - lati  
 Skandinavia - Eskandia  
 skandium - eskandium  
-Skotlanti - Eskotia  
+Skotlanti - Eskote  
 slaavilainen - Slave  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -2686,8 +2687,8 @@ solmu - node
 solu - cel  
 soluoppi (sytologia) - cellogi  
 solvata (loukata) - dusnamana  
-Somalia - Somalia  
-Somalimaa - Somaldesh  
+Somalia - Somal  
+Somalimaa - Somal Desha  
 sopia (passata) - hapu  
 sopia (tehdä sopimus) - treta  
 sopia - konboni  
@@ -2744,7 +2745,7 @@ suojella (suojata, turvata) - sekura
 suola - salte  
 suolainen - salti  
 suomalainen - suomi  
-Suomi - Suomia  
+Suomi - Suomi  
 suora - orti  
 suoraan - disho  
 suorakulma (oikokulma) - ortogon  
@@ -2792,7 +2793,7 @@ syyllinen - doshi
 syylä - zeyil  
 Syyria - Suria  
 syyskuu - mes tisa  
-säde - rade  
+säde - radi  
 sädekehä (halo) - foto sirke  
 säe (riimi) - rim  
 sähkö - eletre  
@@ -2802,9 +2803,9 @@ sähköposti - eletroposte (e-poste)
 säie (kuitu) - linem  
 säilyttäjä - hafizer  
 säilyttää (varjella, säästää) - hafiza  
-säteillä - rada  
-säteily - radia  
-säteilymittari - radometrer  
+säteillä - radi  
+säteily - radi  
+säteilymittari - radi metre gi  
 sävel (sävy) - ton  
 sää - tenhal  
 sääty (kasti) - jenklas  
@@ -2813,7 +2814,7 @@ söpö (suloinen) - kavayi
 taajuus (tiheys) - polmaria  
 taas (uudestaan) - reyo  
 taateli - tamar  
-Tadžikistan - Tajikia  
+Tadžikistan - Tajiki  
 tahmainen (liimamainen) - gluti  
 tahna (tahdas) - paste  
 tahto - iche  
@@ -2855,7 +2856,7 @@ tanakh - tanah
 tankki (säiliö) - tanke  
 tanko (sauva, patukka) - baton  
 Tansania - Tanzania  
-Tanska - Dania  
+Tanska - Dan  
 tanskalainen - dani  
 tanssi - danse  
 taolainen - dau din ja  
@@ -2943,7 +2944,7 @@ teurastaa (lahdata) - bucha
 teurastaja - bucher  
 teurastamo - buchokan  
 thai - tayi  
-Thaimaa - Tayia  
+Thaimaa - Tai Desha  
 tie - dau  
 tiede (tutkimus, opiskella) - logi  
 tiedottaa (informoida) - konsavana  
@@ -3044,7 +3045,7 @@ tuplata (kertoa kahdella) - dulo multa
 turbaani - pagre  
 turismi - safaristia  
 turisti - safariste  
-Turkki - Turkia  
+Turkki - Turki  
 turkkilainen - turki  
 Turkmenistan - Turkomenia  
 turkoosi - firuze  
@@ -3098,8 +3099,8 @@ täytetty pulla - mante
 täyttää - pura  
 täytyä (olla pakko) - debu  
 törkeä - nindi  
-Tšad - chadia  
-Tšekki - chehia  
+Tšad - Chade  
+Tšekki - Cheska  
 ####U - U  
 Uganda - Ganda  
 ukkosmyrsky - gromtafun  
@@ -3315,7 +3316,7 @@ virasto (toimisto, konttori) - ofisia
 virhe (erhe) - galte  
 virka (virka-asema) - ofis  
 virkailija (virkamies) - ofiser  
-Viro (Eesti) - Estia  
+Viro (Eesti) - Esti  
 virologia - viruslogi  
 virrata - rivu  
 virta (virtaus) - riu  
@@ -3375,7 +3376,7 @@ väsymys - fatigia
 väsyä - fatigu  
 väärä (epätosi, vale-) - falsi  
 väärä (virheellinen) - galti  
-Wales - Kamria  
+Wales - Kamri  
 walesilainen - kamri  
 Washington D####C - Vashington Dch  
 watti - vate  
@@ -3396,7 +3397,7 @@ Yhdistyneet Arabiemiirikunnat - Uniti Arabi Amiria (UAA)
 yhdistys (sidos) - linke  
 yhdistää - linka  
 yhdistää - una  
-Yhdysvallat (ns. Amerikka) - Uniti Desh Da Amerike (UDA)  
+Yhdysvallat (ns. Amerikka) - Uniti Desha Da Amerika (UDA)  
 yhdysvaltalainen (ns. Amerikkalainen) - UDA du  
 yhteinen - komuni  
 yhteinen - koni  
@@ -3412,7 +3413,7 @@ yksinpuhelu (monologi) - autologe
 yksinvaltius (autokratia, monarkia) - autokratia  
 yksityiskohta (detalji) - detal  
 yksivärinen - unrangi  
-yleinen (universaali) - putongi  
+yleinen (universaali) - putong  
 yleiskiina (mandariinikiina) - Putong Han  
 yliarvioida - mashraya  
 yliopisto - daishulkan  

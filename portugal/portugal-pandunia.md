@@ -245,7 +245,7 @@ citologia - cellogi
 claro - klari  
 cliente - klien  
 coelho (lebre) - tuze  
-cogumelo - funge frute  
+cogumelo - fungu frute  
 coisa - she  
 colaborar - konkara  
 colar (aderir) - gluta  
@@ -475,7 +475,7 @@ fraco - mirdi
 fragmento - parche  
 freixo - yasen  
 fruta - frute  
-fungo - funge  
+fungo - fungu  
 funil - riutube  
 furar (perfurar) - fora  
 futebol - fute bol  
@@ -955,6 +955,8 @@ quivi - kivi*
 química - kimlojia  
 ####R - R  
 rachadura - krake  
+radio - radio  
+rajá - hindu raja  
 raposa - huli  
 raramente - nadiro  
 raro - nadiri  
@@ -969,6 +971,7 @@ recém-nascido - neujeni
 refugo (escória) - laje  
 regime - politomode  
 registro - loge  
+rei - man raja  
 relier (connecter) - linka  
 religião - din  
 relógio - horloger  

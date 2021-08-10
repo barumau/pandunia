@@ -1,6 +1,5 @@
 # pandunia-english
 ####A - A  
-a - but (whereas)  
 a - the (that)  
 abies - fir tree  
 acente - accent (stress)  
@@ -82,15 +81,16 @@ alosifi - different
 alumin - aluminium  
 aluminmate - alum  
 aluminokside - alumina (aluminum oxide)  
+ama - but (whereas)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amater - amateur  
 amen - honest (trustworthy, true; amen)  
 amena - trust (have faith)  
 ameni - trusted  
 ameno - surely (verily, amen)  
+Amerika Samoa - American Samoa  
 Amerike - America (continent)  
 ameriki - American  
-Ameriki Samoa - American Samoa  
 amerikium - americium  
 ami - dear (beloved)  
 amir - order (command)  
@@ -278,7 +278,7 @@ banana - banana
 banda - band (squad, group)  
 bandera - flag (banner)  
 bangla basha - Bengali language (Bangla)  
-Bangladesh - Bangladesh  
+Bangladesha - Bangladesh  
 banka - save (deposit, bank)  
 banke - bank (depository, cache)  
 banker - banker  
@@ -426,7 +426,7 @@ bori - bored
 boria - boredom  
 borium - bohrium  
 boron - boron  
-Bosnia e Herchegovina - Bosnia and Herzegovina  
+Bosna e Hercegovina - Bosnia and Herzegovina  
 botel - bottle  
 Botia - Tibet  
 boyu - float (swim)  
@@ -472,6 +472,7 @@ burge - castle (fortress, stronghold)
 Burkina Faso - Burkina Faso  
 bus - bus  
 buste - bust (bosom)  
+Butan - Bhutan  
 bute - boot  
 buton - key (push-button, switch)  
 butonban - keyboard  
@@ -485,7 +486,7 @@ cerium - cerium
 cesium - caesium  
 ch - C  
 chabe - key  
-chadia - Chad  
+Chade - Chad  
 chai - tea  
 chaikan - tea house  
 chaikupe - tea cup  
@@ -515,7 +516,6 @@ chatre - four (4)
 chatre di galope - gallop  
 chau - grass  
 chavistan - grassland (prairie)  
-chehia - Czech Republic  
 cheka - check (to examine)  
 chen zaman - past times  
 chena - predate (be before)  
@@ -532,6 +532,7 @@ chenvidi - expected
 chenyangi - classic (classical)  
 cheri - cherry  
 Chernagora - Montenegro  
+Cheska - Czech Republic  
 Chile - Chile  
 chili - pepper (capsicum)  
 chili fun - paprika  
@@ -548,7 +549,7 @@ ching - request (petition)
 ching - ask (request, beg, plead; please)  
 ching lai - invite  
 chini - porcelain (chinaware)  
-chipia - Albania  
+Chipe - Albania  
 chir - tear (rip, edge)  
 chira - tear (rip, split)  
 chirchira - tear up (tatter, shred)  
@@ -565,7 +566,7 @@ chope - hoe
 chor - theft  
 chora - steal  
 chorer - thief  
-chosen - Korea  
+Chosen - Korea  
 choseni - Korean  
 chum - kiss  
 chun - village  
@@ -576,8 +577,8 @@ chutomun - exit door
 chuza - choose (elect, select, pick)  
 chuzable - option (choice)  
 chuze - choice (election, selection)  
-chvana - Botswana  
 citi - city (town)  
+Cuana - Botswana  
 ####D - D  
 da - of (attributive preposition)  
 daidarja - amplify (scale)  
@@ -596,11 +597,11 @@ dake - cover (lid, cap, deck)
 dalil - proof (evidence, proof, demonstration, testimony)  
 dalila - prove (demonstrate, testify)  
 damgem - checkers (draughts)  
+Dan - Denmark  
 dan - particle (grain, bullet)  
 danga - ring (toll, clang)  
 danger - bell  
 dani - Danish  
-Dania - Denmark  
 danka - thank  
 danke - thanks (thank you)  
 danko da - thanks to  
@@ -693,8 +694,8 @@ disprosium - dysprosium
 Divehia - Maldives  
 do - to (toward, till, until, for)  
 dobe - brick  
+Doiche - Germany  
 doichi - German  
-Doichia - Germany  
 dokum - document (record, file)  
 dokumfilme - documentary film  
 dokumsanduke - folder (directory)  
@@ -705,14 +706,14 @@ doma - live in (reside in, inhabit)
 domana - accommodate  
 domi - domestic (tame)  
 Dominika - Dominica  
-Dominiki Komunkratia - Dominican Republic  
+Dominika Komunkrati - Dominican Republic  
 dominogem - dominoes  
 domzeze - housefly  
 don - gift  
 dona - give  
 dong - east (orient)  
+Dong Timor - East Timor (Timor-Leste)  
 dongi - eastern  
-Dongi Timor - East Timor (Timor-Leste)  
 dongogoril - eastern gorilla  
 donivi - generous (open-handed)  
 donjon aventur - dungeon crawl  
@@ -732,7 +733,6 @@ doze - portion (dose)
 drame - drama  
 dramironia - dramatic irony  
 droge - drug (intoxicating substance)  
-Drugia - Bhutan  
 du - two (2)  
 dua - pray (beg, entreat, implore)  
 dua - prayer  
@@ -812,7 +812,7 @@ emosu - feel
 Encheladus - Enceladus  
 energe - energy  
 engli - English  
-Englia - England  
+English - England  
 englofiler - anglophile  
 englofoni - anglophone (English speking)  
 englokitaba - anglicize  
@@ -822,7 +822,7 @@ enjener - engineer
 enzim - enzyme  
 erbium - erbium  
 Eris - Eris (dwarf planet)  
-Eritria - Eritrea  
+Eritra - Eritrea  
 esei - essay  
 esh - outside (exterior)  
 esha - oust (expel, exclude, except, save)  
@@ -853,13 +853,13 @@ eskale - stairs (ladder)
 eskalotan - vine  
 Eskandia - Scandinavia  
 eskandium - scandium  
-Eskotia - Scotland  
+Eskote - Scotland  
 eskulta - sculpt (carve)  
 eskulte - sculpture (statue)  
 eskulter - sculptor  
 eskultia - sculpture (art of sculpting)  
 espanfoni - hispanophone (Spanish speaking)  
-Espania - Spain  
+Espanya - Spain  
 esperanti - Esperanto  
 esponje - sponge  
 esporte - sport (athletics)  
@@ -870,7 +870,7 @@ estasa - hold (detain)
 estasi - static (stationary)  
 estasia - station  
 estasu - stand still  
-Estia - Estonia  
+Esti - Estonia  
 estibium - antimony  
 estrontium - strontium  
 estuda - study (work in order to practise or demonstrate)  
@@ -962,8 +962,8 @@ feti - fatty (greasy)
 feyu - fly (go through air)  
 figur - figure (representation)  
 Fiji - Fiji  
-fikra - think (ponder, reflect)  
-fikre - thought (idea)  
+fikir - think (ponder, reflect)  
+fikir - thought (idea)  
 fiksa - fix (attach)  
 fikse - attachment (affix)  
 fila - like  
@@ -1050,9 +1050,9 @@ fuku - wear (dress, put on)
 fun - dust (powder)  
 fun chupa gi - vacuum cleaner  
 funci - function (work)  
-funge - fungus (mushroom)  
-funge frute - mushroom (sporocarp)  
-funge nete - mycelium  
+fungu - fungus (mushroom)  
+fungu frute - mushroom (sporocarp)  
+fungu nete - mycelium  
 furete - polecat (ferret)  
 furi - angry (furious)  
 furia - anger (fury, rage, wrath)  
@@ -1142,8 +1142,8 @@ gem - game
 gema - play a game  
 gemer - player (gamer)  
 gencha - examine (inspect, check)  
-geo - earth (ground)  
 Geo - Earth (Terra)  
+geo - earth (ground)  
 geo dou - peanut (groundnut)  
 geo elfe - gnome  
 geo forme - terrain  
@@ -1311,11 +1311,11 @@ hava - blow
 hava - wind  
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
-Hayakia - Armenia  
+Hayaki - Armenia  
 hayi - maritime  
 he - huh? (eh?, pardon?)  
-Helen - Greek (Hellenic)  
 Helen - Greece  
+Helen - Greek (Hellenic)  
 helis - spiral (helix, corkscrew, twist)  
 helisbabul - umbrella thorn acacia tree  
 helisviman - helicopter  
@@ -1347,6 +1347,7 @@ Hindu - Hindu
 Hindu basha - Hindi (Hindustani)  
 Hindu desh - Hindustan  
 Hindu din - Hinduism  
+hindu raja - rajah  
 Hindu riu - Indus river  
 Hiperion - Hyperion  
 hisaba - calculate  
@@ -1383,7 +1384,7 @@ hor - hour
 horloger - clock (watch)  
 horlogerminar - clocktower  
 hormon - hormone  
-Horvatia - Croatia  
+Horvati - Croatia  
 hotel - hotel  
 hua - flower  
 hua jara - flower vase  
@@ -1404,8 +1405,8 @@ huriste - liberalist
 huristi - liberal  
 huristia - liberalism  
 hushi - nice (pleasant, comfortable, cushy)  
-####I - I  
 i - this  
+####I - I  
 ibri - Hebrew  
 icha - will (want)  
 iche - will (volition, desire)  
@@ -1461,7 +1462,7 @@ introversi - introvert
 intru - enter (get in)  
 Io - Io  
 iode - iodine  
-Irakia - Iraq  
+Iraki - Iraq  
 Iran - Iran  
 iridium - iridium  
 ironi - ironic  
@@ -1472,7 +1473,7 @@ islam din jan - muslim (moslem)
 islam din sharia - shari'a  
 islamfobia - islamophobia  
 islamu - surrender (submit, yield)  
-Islandia - Iceland  
+Islande - Iceland  
 Israel - Israel  
 istan - tract (land, ground, region)  
 Italia - Italy  
@@ -1506,7 +1507,7 @@ jar - jar (jug, pitcher, carafe, amphora, vase)
 jau - barley  
 javaba - respond (give an answer)  
 javabe - answer (reply, response)  
-Jayeria - Algeria  
+Jayer - Algeria  
 jaze - jazz  
 jebe - pocket  
 jebria - algebra  
@@ -1568,7 +1569,7 @@ jul - joule (J)
 jumle - sentence (phrase)  
 jung - middle (center)  
 junga - center (concentrate)  
-Jungafrike - Central African Republic  
+Jungafrika - Central African Republic  
 jungi - central (middle)  
 jungofon - vowel  
 jungoshulkan - secondary school  
@@ -1589,7 +1590,7 @@ kababi manse - grilled meat (kebab)
 kabau - water buffalo  
 kabin - cabin (booth)  
 kaboge - squash (pumpkin, gourd)  
-Kabu Verdi - Cabo Verde (Cape Verde)  
+Kabu Verde - Cabo Verde (Cape Verde)  
 kade - cod  
 kadmium - cadmium  
 kafe - coffee  
@@ -1604,7 +1605,7 @@ kaka - defecate (shit)
 kakau - cocoa  
 kake - excrement (shit)  
 kal - void (empty space)  
-Kalalia - Greenland  
+Kalal - Greenland  
 kalam - pen (writing tool)  
 kalende - calendar  
 kali - empty (void)  
@@ -1634,8 +1635,8 @@ kamote - sweet potato
 kampe - camp  
 kamper - camper  
 kampistan - campground  
+Kamri - Wales (Cambria)  
 kamri - Welsh  
-Kamria - Wales (Cambria)  
 kan - shop (building, house, place)  
 Kanada - Canada  
 kanal - channel  
@@ -2145,6 +2146,7 @@ Malvinas nesia - Falkland Islands (Malvinas)
 mam - breast (boob, tit)  
 mamal - mammal  
 man - male  
+man raja - king  
 mana - meaning (signification)  
 manete - magnet  
 maneti - magnetic  
@@ -2153,7 +2155,6 @@ mangi - busy (occupied)
 mangou - mango  
 mangus - mangosteen  
 mani pute - son  
-mani rajer - king  
 Manihai - prophet Mani  
 manihayistia - Manichaeism  
 Manin nes - Isle of Man  
@@ -2243,6 +2244,7 @@ medu vespe sanduke - beehive (beehouse)
 megagram - tonne (metric ton)  
 megavate - megawat (MW)  
 mege - cloud  
+Mehiko - Mexico  
 mei - every (each)  
 melodi - melodious (melodic)  
 melodia - melody  
@@ -2273,7 +2275,6 @@ mes sete - July
 mes tisa - September  
 mes tri - March  
 mes un - January  
-Meshiko - Mexico  
 Meshiko site - Mexico City  
 mesi - Christ (messiah)  
 mesi din - Christianity  
@@ -2583,8 +2584,8 @@ nudistia - nudism
 numba - count (enumerate)  
 numbe - number  
 nuton - newton (N)  
-o - or  
 ####O - O  
+o - or  
 Oberon - Oberon  
 Ocheania - Oceania  
 ode - rank (position in an ordered list)  
@@ -2606,7 +2607,7 @@ okosui - tear drop
 okosuigas - tear gas  
 okse - oxygen  
 okside - oxide  
-Olandi nesia - Aland Islands  
+Olande nesia - Aland Islands  
 Oman - Oman  
 onde - wave  
 Onduras - Honduras  
@@ -2689,7 +2690,7 @@ pante - pants (trousers)
 papagai - parrot (parakeet)  
 papai - papaya  
 papir - document (paper)  
-Papua Novi Ginia - Papua New Guinea  
+Papua Nove Ginia - Papua New Guinea  
 par - level  
 para - equalize (balance, even out)  
 Paraguai - Paraguay  
@@ -2941,22 +2942,23 @@ pusha - push
 pusher - piston  
 putau - grape  
 putau oranje - grapefruit  
+putong - common (general)  
 Putong Han - Mandarin Chinese (Putonghua)  
-putongi - common (general)  
 ####R - R  
-rada - radiate  
-rade - ray  
+radi - radiate  
+radi - ray  
+radi - radiation  
 radi geter - radio receiver  
+radi metre gi - radiometer  
 radi miser - radiotransmitter  
-radia - radiation  
+radio - radio  
 radium - radium  
-radometrer - radiometer  
 radon - radon  
 rai - opinion (view)  
 raite - right hand side  
 raiti - right hand  
 raitiste - rightist (right-winger)  
-rajer - king or queen  
+raja - king or queen  
 raji - royal  
 rajia - kingdom  
 ramazan - Ramadan  
@@ -3068,6 +3070,7 @@ rotu - rotate (spin, turn on an axis)
 roze - rose  
 rozorangi - pink (rosy)  
 rozosalmon - pink salmon  
+Ruanda - Rwanda  
 rubidium - rubidium  
 ruhi - mental (psychic)  
 ruhmisha - confuse (perplex, bewilder, baffle)  
@@ -3091,7 +3094,6 @@ ruterfordium - rutherfordium
 rutin - routine (habit)  
 rutogalta - stray (deviate)  
 rutogalti - stray (deviant)  
-Rvanda - Rwanda  
 ####S - S  
 saba - cause (be the cause for)  
 sabate - Sabbath  
@@ -3112,8 +3114,8 @@ safer - cleaner
 safi - clean (pure)  
 safran - saffron  
 saha - correct (make right)  
+Sahara Desha - Sahrawi Arab Democratic Republic  
 sahi - right (correct, accurate)  
-Sahravia - Sahrawi Arab Democratic Republic  
 saida - hunt (fish)  
 saida pesh - catch fish  
 saide - hunting (fishing)  
@@ -3347,8 +3349,8 @@ silnete - chain mail
 silsil - chain  
 simpli - simple (not complicated)  
 sine - chest (breast)  
-sing - star  
 sing - lion  
+sing - star  
 Singapur - Singapore  
 sinokapse - rib cage  
 sinoplate - breastplate  
@@ -3390,8 +3392,8 @@ solful - sunflower
 Solomon nesia - Solomon Islands  
 solsistem - solar system  
 som - sleep  
-Somaldesh - Somaliland  
-Somalia - Somalia  
+Somal - Somalia  
+Somal Desha - Somaliland  
 somivi - drowsy  
 somkamar - bedroom  
 sompapil - opium poppy  
@@ -3472,8 +3474,8 @@ sundardaka - decorate (embellish)
 sundardake - decoration (ornament)  
 sundaria - beauty  
 suno - soon  
+Suomi - Finland  
 suomi - Finnish  
-Suomia - Finland  
 supe - soup (stew)  
 superi - superb (wonderful, super)  
 supra - surpass (go over)  
@@ -3497,11 +3499,12 @@ table - slab (slate, tablet, board)
 tablokomputer - tablette computer  
 tafun - storm (tempest, typhoon, hurricane, cyclone)  
 tai - stage (platform, pedestal, podium)  
+Tai Desha - Thailand  
 Taibei - Taipei  
 taige - taiga  
 tail - tile  
 Taivan - Taiwan (Republic of China)  
-Tajikia - Tajikistan  
+Tajiki - Tajikistan  
 taksa - collect fees or taxes  
 takse - fee (fare)  
 taksogar - taxi (cab)  
@@ -3535,7 +3538,6 @@ tatike - tactics (strategy)
 tatu* - tattoo  
 tave - frying pan  
 tayi - Thai  
-Tayia - Thailand  
 tazi - fresh  
 tehne - technique (technology)  
 tehnekrati - technocracy  
@@ -3662,13 +3664,13 @@ turba - bother (annoy, disturb, irritate)
 turbe - trouble (disturbance, bother, annoyance)  
 turbu - be bothered by (bother to, take the trouble to)  
 turfe - peat  
+Turki - Turkey  
 turki - Turkish  
-Turkia - Turkey  
 Turkomenia - Turkmenistan  
 Tuvalu - Tuvalu  
 tuze - rabbit (hare)  
-####U - U  
 u - that over there  
+####U - U  
 UDA du - American (US)  
 Ukraina - Ukraine  
 ulul - howling  
@@ -3687,7 +3689,7 @@ uniki - only (single, sole, lone)
 uniko - only (solely, just)  
 uniti - united  
 Uniti Arabi Amiria (UAA) - United Arab Emirates  
-Uniti Desh Da Amerike (UDA) - United States of America (USA)  
+Uniti Desha Da Amerika (UDA) - United States of America (USA)  
 unjani - alone (lonely, isolated, solitary, single)  
 unmaro - once  
 unmeni - unambiguous  

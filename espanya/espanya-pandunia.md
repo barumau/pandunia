@@ -100,7 +100,7 @@ ala - ving
 alambre (hilo) - metallin  
 alargar - longa  
 Alaska - Alaska  
-Albania - chipia  
+Albania - Chipe  
 albaricoque - briko  
 albañil (mampostero, cantero) - shekojanger  
 alcachofera - karchof  
@@ -108,7 +108,7 @@ alcalino - alkali
 alcohol - alkol  
 alcohólico - alkoli  
 aldea - chun  
-Alemania - Doichia  
+Alemania - Doiche  
 alemán - doichi  
 alfabeto - harfi harfi  
 alfabeto cirílico - kirili harfia  
@@ -224,7 +224,7 @@ arco iris - rangarke
 ardiente (encendido) - hogi  
 ardilla - ekore  
 arena - rege  
-Argelia - Jayeria  
+Argelia - Jayer  
 Argentina - Argentina  
 argumentar (alegar) - tesa  
 argumento - argum  
@@ -234,7 +234,7 @@ arma - arme
 arma nuclear - kerni arme  
 armadura - defkaske  
 armario - almari  
-Armenia - Hayakia  
+Armenia - Hayaki  
 armonioso - harmoni  
 armonía - harmonia  
 arnés (arreos, jaeces) - harnes  
@@ -347,7 +347,7 @@ banco de datos (base de datos) - datobanke
 banda (cinta) - bende  
 banda - banda  
 bandera - bandera  
-Bangladés - Bangladesh  
+Bangladés - Bangladesha  
 banquero - banker  
 baobab - bui  
 bar (pub) - birkan  
@@ -424,12 +424,12 @@ bolígrafo - kalam
 bomba - bomba  
 bombear - pompa  
 boro - boron  
-Bosnia y Herzegovina - Bosnia e Herchegovina  
+Bosnia y Herzegovina - Bosna e Hercegovina  
 bosque (jungla, selva) - jangle  
 bosque de algas - algojangle  
 bota - bute  
 botella - botel  
-Botsuana - chvana  
+Botsuana - Cuana  
 botánica - fitolojia  
 boxeador - bokser  
 boxeo - bokse  
@@ -464,7 +464,7 @@ burro (asno) - iha
 Burundi - Rundi  
 bus (autobús) - bus  
 buscar - soka  
-Bután - Drugia  
+Bután - Butan  
 bárbaro - barbar  
 básico - bazi  
 béisbol - bazobol  
@@ -476,7 +476,7 @@ caballo - uma
 cabaña - kabin  
 cabeza - sar  
 cable - eletrolin  
-Cabo Verde - Kabu Verdi  
+Cabo Verde - Kabu Verde  
 cabra - be’e  
 caca - kake  
 cacao - kakau  
@@ -639,10 +639,10 @@ cerámica - serame
 cesio - cesium  
 cesta (canasta, barquilla, aro) - baske  
 chacal - shakal  
-Chad - chadia  
+Chad - Chade  
 Champaña - shampan  
 champaña - shampan vin  
-champiñón (seta) - funge frute  
+champiñón (seta) - fungu frute  
 champú - keshosabun  
 chamán (brujo, hechicero) - shaman  
 chapati (pan sin levadura) - chapati  
@@ -821,7 +821,7 @@ copérnico - kopernikium
 coral - koral  
 corazón (núcleo) - kerne  
 corazón - shim  
-Corea - chosen  
+Corea - Chosen  
 Corea del Norte - Nordi chosen  
 Corea del Sur - Sudi chosen  
 coreano - choseni  
@@ -875,7 +875,7 @@ cristianismo - mesi din
 cristiano - mesi din ja  
 Cristo (mesías) - mesi  
 criticar (evaluar) - pipinga  
-Croacia - Horvatia  
+Croacia - Horvati  
 crocodilio - krokodil  
 cromo - jamkarde  
 cromo - kromium  
@@ -1037,7 +1037,7 @@ diferencia - alosfia
 diferenciar (distinguir) - hasa  
 diferente - alosifi  
 dificultad (apuro, privación) - dushal  
-Dinamarca - Dania  
+Dinamarca - Dan  
 dinamita - dinamite  
 dinero (plata) - pese  
 diorita - diorite  
@@ -1216,7 +1216,7 @@ erbio - erbium
 erguido - libi  
 erigir (montar, armar) - liba  
 Eris (planeta enano) - Eris  
-Eritrea - Eritria  
+Eritrea - Eritra  
 errar (cometer un error) - galta  
 error - galte  
 erróneo - galti  
@@ -1231,7 +1231,7 @@ escapatoria - chute
 escarcha - hima rose  
 escaso (disperso, ralo) - anjami  
 escenario (podio, estrado, tarima) - tai  
-Escocia - Eskotia  
+Escocia - Eskote  
 escribir - kitabu  
 escritorio (mesa de trabajo) - karmeze  
 escuchar (oír) - ora  
@@ -1253,7 +1253,7 @@ espacio (separación) - kal
 espacio (texto) - kali harfi  
 espada - katane  
 espalda (lomo) - ruke  
-España - Espania  
+España - Espanya  
 especia - masale  
 especial (diferenciado, distinto) - hasi  
 especialización (distinción) - hasia  
@@ -1276,7 +1276,7 @@ estación (temporada) - mosim
 estación - estasia  
 estadio (arena) - estadia  
 estado (condición) - hal  
-Estados Unidos de América - Uniti Desh Da Amerike (UDA)  
+Estados Unidos de América - Uniti Desha Da Amerika (UDA)  
 estadounidense - UDA du  
 estante (repisa) - liboban  
 estar al lado de - lata  
@@ -1285,7 +1285,7 @@ estar en contra - kontra
 estaño - estan  
 estimar (apriximarse a) - yaga  
 estirar (extender) - tirlonga  
-Estonia - Estia  
+Estonia - Esti  
 estornudar (achís) - achi  
 estrella - sing  
 estribor - nauraite  
@@ -1375,7 +1375,7 @@ filtro - filter
 filósofo - filsofer  
 fin (el final) - fin  
 final (último) - finodi  
-Finlandia - Suomia  
+Finlandia - Suomi  
 fino (delgado, delicado) - faini  
 finés - suomi  
 fiordo - fiorde  
@@ -1443,7 +1443,7 @@ gacela - gazel
 gadolinio - gadolinium  
 galaxia - galaksia  
 galería - galeria  
-Gales - Kamria  
+Gales - Kamri  
 Galia - Galia  
 galio - galium  
 galleta - biskute  
@@ -1473,7 +1473,7 @@ gay (homosexual) - gei
 gel (jalea, gelatina) - jel  
 genealogía - jenolojia  
 generación (cohorte) - jengrupe  
-general (common) - putongi  
+general (common) - putong  
 generalísimo (sogún) - gunrajer  
 generar (añadir) - zaya  
 generosidad (caridad) - karimia  
@@ -1536,7 +1536,7 @@ Grecia - Helen
 griego (helénico) - Helen  
 gris - huirang  
 gritar - krita  
-Groenlandia - Kalalia  
+Groenlandia - Kalal  
 grosero (maleducado) - nindi  
 grosor - grosta  
 grueso - gros  
@@ -1645,7 +1645,7 @@ homónimo - samnam
 Honduras - Onduras  
 honesto (seguramente, amén) - amen  
 Hong Kong - Hong Gong  
-hongo (moho) - funge  
+hongo (moho) - fungu  
 honrar - onora  
 hora - hor  
 horizonte - tenkenar  
@@ -1679,7 +1679,7 @@ héroe - hero
 híbrido (mestizo) - hibride  
 ####I - I  
 idea (noción, concepto) - idei  
-idea (pensamiento, reflexión) - fikre  
+idea (pensamiento, reflexión) - fikir  
 ideograma - ideigraf  
 idioma artificial (lengua construida, conlang) - chanbash  
 idioma bengalí - bangla basha  
@@ -1734,7 +1734,7 @@ información - konsave
 informe (reporte, noticia) - reporte  
 infortunio (mala suerte) - dusi zar  
 ingeniero - enjener  
-Inglaterra - Englia  
+Inglaterra - English  
 inglés - engli  
 inmigrante - inmigran  
 inmigrar - inmigra  
@@ -1772,7 +1772,7 @@ inyectar - jusha
 ion - iyon  
 ir - kita  
 ira (furia) - furia  
-Iraq - Irakia  
+Iraq - Iraki  
 iridio - iridium  
 Irlanda - Aire  
 Irlanda del Norte - Nordi Aire  
@@ -1786,8 +1786,8 @@ Isla Norfolk - Norfolke nes
 Isla Santa Elena - Santi Helena  
 islamismo (islam) - islam din  
 islamofobia - islamfobia  
-Islandia - Islandia  
-islas Aland - Olandi nesia  
+Islandia - Islande  
+islas Aland - Olande nesia  
 islas Caimán - Kaiman nesia  
 Islas Cocos (Islas Keeling) - Kokos nesia  
 Islas Cook - Kuke nesia  
@@ -2161,7 +2161,7 @@ mez - lun
 mezclar - misha  
 mezquino (antipático, cruel) - zalim  
 mi - mi di  
-micelio - funge nete  
+micelio - fungu nete  
 micro- - mikro*  
 microbio - mikrobiu  
 microbiología - mikrobiologi  
@@ -2278,7 +2278,7 @@ mástil - maste
 máximo - mashime  
 máximo - mashimi  
 método - metode  
-México - Meshiko  
+México - Mehiko  
 mínimo - minimi  
 Mónaco - Monako  
 músculo - muskul  
@@ -2514,7 +2514,7 @@ papaya - papai
 papel - kaguje  
 papel - rol  
 papel tapiz - murkaguje  
-Papúa Nueva Guinea - Papua Novi Ginia  
+Papúa Nueva Guinea - Papua Nove Ginia  
 paquete - pake  
 parada (alto) - ting  
 Paraguay - Paraguai  
@@ -2590,7 +2590,7 @@ película (film, membrana) - filme
 película (filme) - kinograf  
 pena (tristeza) - duke  
 pene - penis  
-pensar - fikra  
+pensar - fikir  
 pentaedro - limfas  
 pentágono - limgon  
 península - yagones  
@@ -2615,7 +2615,7 @@ periódico (diario) - habargazete
 perla - lul  
 permitido (admisible) - halali  
 permitir (dejar) - halala  
-pero - a  
+pero - ama  
 perro - vaf  
 persona (ista, -ador) - jan  
 personal (privado, a medida) - auti  
@@ -2858,15 +2858,17 @@ químico - kimi
 racismo - rasistia  
 racista - rasiste  
 ración (dosis) - doze  
-radiación - radia  
+radiación - radi  
 radiación ionizante - iyoni radia  
 radiactivo - iyoni radi  
-radiar (emitir) - rada  
+radiar (emitir) - radi  
+radio - radio  
 radio - radium  
 radiotransmisor - radi miser  
-radiómetro - radometrer  
+radiómetro - radi metre gi  
 radón - radon  
 raja (grieta) - krake  
+rajá - hindu raja  
 rama - shake  
 Ramadán - ramazan  
 rampa (cuesta) - rampe  
@@ -2880,7 +2882,7 @@ rasgar (romper) - chir
 rasgar (romper) - chira  
 raspar (arañar) - frika  
 ratón - mushu  
-rayo - rade  
+rayo - radi  
 rayo luminoso - foto rade  
 raza - ras  
 razonable - razoni  
@@ -2932,13 +2934,13 @@ repetir - reya
 reportar - reporta  
 representación (figura) - figur  
 representar - vakila  
-Republica Dominicana - Dominiki Komunkratia  
+Republica Dominicana - Dominika Komunkrati  
 repuesta (contestación) - javabe  
-República Centroafricana - Jungafrike  
-República Checa - chehia  
+República Centroafricana - Jungafrika  
+República Checa - Cheska  
 República del Congo - Brazavil Kongo  
 República Democrática del Congo - Kinshasa Kongo  
-República Árabe Saharaui Democrática - Sahravia  
+República Árabe Saharaui Democrática - Sahara Desha  
 reservar - rezerva  
 resfriado (catarro) - zukam  
 resina - rezin  
@@ -2956,8 +2958,8 @@ Reunión - Reunion
 reventar - parchokayu  
 revisar (chequear) - cheka  
 revista (periódico, gaceta) - gazete  
-rey - mani rajer  
-rey o reina - rajer  
+rey - man raja  
+rey o reina - raja  
 rezar (orar) - dua  
 rezo (oración) - dua  
 reír - haha  
@@ -2997,7 +2999,7 @@ rosa - roze
 rosa - rozorangi  
 roto - parchi  
 rotor - roter  
-Ruanda - Rvanda  
+Ruanda - Ruanda  
 rubidio - rubidium  
 rubí - lalbausheke  
 rueda (volante) - chakre  
@@ -3051,7 +3053,7 @@ salvaje - vildi
 salón de té - chaikan  
 samario - samarium  
 Samoa - Samoa  
-Samoa Americana - Ameriki Samoa  
+Samoa Americana - Amerika Samoa  
 San Cristóbal - Santi Kitse  
 San Cristóbal y Nieves - Santi Kitse e Nevis  
 San Marino - Santi Marino  
@@ -3163,11 +3165,11 @@ sofá - kanape
 sofá - sofa*  
 soja - soi  
 sol - sol  
-Solamilandia - Somaldesh  
+Solamilandia - Somal Desha  
 soldado - gunjan  
 solo (aislado, solitary, soltero) - unjani  
 solsticio - solestas  
-Somalia - Somalia  
+Somalia - Somal  
 sombra - saya  
 sombrero - tupe  
 someterse (rendirse, ceder) - islamu  
@@ -3238,7 +3240,7 @@ tablet - tablokomputer
 tablón - mokoban  
 tabular - tabla date  
 taiga - taige  
-Tailandia - Tayia  
+Tailandia - Tai Desha  
 tailandés - tayi  
 Taipei - Taibei  
 Taiwán - Taivan  
@@ -3261,7 +3263,7 @@ tarjeta (carta) - karde
 tasa (precio, cuota, tarifa) - takse  
 tatuaje - tatu*  
 taxi (cab) - taksogar  
-Tayikistán - Tajikia  
+Tayikistán - Tajiki  
 taza de café - kafokupe  
 taza de té - chaikupe  
 techo (tejado) - chate  
@@ -3326,7 +3328,7 @@ tigre - bagre
 tijera - makas  
 tikka masala - masali tike  
 Timor - Timor  
-Timor Oriental - Dongi Timor  
+Timor Oriental - Dong Timor  
 tinta - moge  
 tinte - rang mate  
 tipo (género) - tipe  
@@ -3413,7 +3415,7 @@ turismo - safaristia
 turista - safariste  
 Turkmenistán - Turkomenia  
 turquesa (piedra preciosa) - firuze  
-Turquía - Turkia  
+Turquía - Turki  
 Tuvalu - Tuvalu  
 táctica (estrategia) - tatike  
 tántalo - tantalium  

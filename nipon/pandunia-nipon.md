@@ -223,7 +223,7 @@ dokumfilme - ドキュメンタリー
 dolfin - イルカ (ドルフィン)  
 dom - 家  
 doma - 住む (居住する)  
-Dominiki Komunkratia - ドミニカ共和国  
+Dominika Komunkrati - ドミニカ共和国  
 dona - あげる (くれる)  
 dong - 東  
 dongogoril - ヒガシゴリラ  
@@ -308,8 +308,8 @@ frika - 擦る (擦り傷する)
 frute - 果実 (フルーツ)  
 fuke - 服  
 fuku - 着る  
-funge frute - 茸  
-funge nete - 菌糸体  
+fungu frute - 茸  
+fungu nete - 菌糸体  
 fute bol - フットボール  
 fute marke - 足跡  
 futoban - 足場  
@@ -398,6 +398,7 @@ helpa - 手伝う (助ける)
 hema - 考える  
 hero - 英雄 (勇者, ヒーロー)  
 Hesia - ヘッセン  
+hindu raja - ラージャー  
 Hindu riu - インダス川  
 hisaba - 計算する  
 hisabolojia - 数学  
@@ -662,8 +663,8 @@ majenti - マゼンタ (紅紫色)
 makanful - タンポポ  
 malnomia - 経済学  
 man - 男  
+man raja - 王様  
 mangi - 忙しい  
-mani rajer - 王様  
 manse - 肉  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
@@ -885,7 +886,7 @@ Putong Han - 普通話 (北京語)
 ####R - R  
 rai - 意見 (見解)  
 raite - 右  
-rajer - 国王  
+raja - 国王  
 rang mate - 染め粉  
 rangarke - 虹  
 rangarke salmon - ニジマス  

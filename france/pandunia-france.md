@@ -1,6 +1,5 @@
 # pandunia-france
 ####A - A  
-a - mais (bien que)  
 a - le (la)  
 abies - sapin  
 acente - accent  
@@ -72,15 +71,16 @@ alosifi - différent
 alumin - aluminium  
 aluminmate - alun  
 aluminokside - alumine (oxyde d'aluminium)  
+ama - mais (bien que)  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
 amater - amateur  
 amen - honnête (sûr, crédible)  
 amena - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
 ameni - fiable (de confiance, fidèle, sûr, crédible)  
 ameno - sûrement  
+Amerika Samoa - Samoa américaines  
 Amerike - Amérique  
 ameriki - américain  
-Ameriki Samoa - Samoa américaines  
 amerikium - américium  
 ami - cher  
 amir ja - émir  
@@ -217,7 +217,7 @@ banana - banane
 banda - bande  
 bandera - drapeau  
 bangla basha - bengali  
-Bangladesh - Bangladesh  
+Bangladesha - Bangladesh  
 banke - banque  
 banker - banquier  
 banya - bain  
@@ -479,8 +479,8 @@ frute - fruit
 fuka - habiller (vêtir)  
 fuke - vêtements  
 fuku - porter (s’habiller)  
-funge frute - champignon  
-funge nete - mycélium  
+fungu frute - champignon  
+fungu nete - mycélium  
 fute bol - football  
 fute marke - empreinte de pied  
 ####G - G  
@@ -635,7 +635,7 @@ jangle - forêt (jungle)
 jar - jarre (carafe, cruche)  
 jau - orge  
 javabe - réponse  
-Jayeria - Algérie  
+Jayer - Algérie  
 jeinistia - jaïnisme  
 jeka - prêter (empruntre)  
 jekodona - prêter  
@@ -867,6 +867,7 @@ malan - possédant (propriétaire)
 malnomia - économie  
 malu - appartenir à  
 mam - sein  
+man raja - roi  
 mangi - occupé  
 manihayistia - manichéisme  
 manir - comportement (manière)  
@@ -994,8 +995,8 @@ norde - nord
 nostalgia - nostalgie  
 note - note  
 numbe - nombre (numéro)  
-o - ou  
 ####O - O  
+o - ou  
 ode - rang  
 oke - œil  
 oki - oculaire  
@@ -1132,6 +1133,7 @@ puri - plein
 purshipa - tremper (faire mariner)  
 putau oranje - pamplemousse  
 ####R - R  
+radio - radio  
 rai - avis (opinion)  
 rang - couleur  
 rang kanche - verre coloré  

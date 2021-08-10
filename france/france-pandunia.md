@@ -48,7 +48,7 @@ alcoolique - alkoli
 algue - alge  
 algues - hai alga  
 algues brunes - brun alga  
-Algérie - Jayeria  
+Algérie - Jayer  
 aller (quitter) - kita  
 Aller-retour - retrotikete  
 alligator - korte krokodil  
@@ -187,7 +187,7 @@ bambou - bambu
 banane - banana  
 bande - banda  
 bande dessinée - grafi kata  
-Bangladesh - Bangladesh  
+Bangladesh - Bangladesha  
 banque - banke  
 banquier - banker  
 Barbade - Barbados  
@@ -312,7 +312,7 @@ chachlik - shishmanse
 chambre à coucher - somkamar  
 Champagne - shampan  
 champagne - shampan vin  
-champignon - funge frute  
+champignon - fungu frute  
 chance - chanse  
 changement climatique - klimmute  
 changer - ala  
@@ -803,7 +803,7 @@ magnésium - magesium
 mah-jong - majang  
 maillon (chaînon) - sil  
 main - hande  
-mais (bien que) - a  
+mais (bien que) - ama  
 maison - dom  
 malédiccion - lane  
 manche - kamisa shake  
@@ -877,7 +877,7 @@ mouvoir (bouger) - kina
 mule - iha uma  
 mur - mur  
 musique - muzike  
-mycélium - funge nete  
+mycélium - fungu nete  
 mythe - deu kata  
 mât - maste  
 mère (maman) - ma  
@@ -1140,6 +1140,7 @@ qui - ke jan
 ####R - R  
 race - ras  
 racine - mul  
+radio - radio  
 rang - ode  
 rare - nadiri  
 rare - rari  
@@ -1168,6 +1169,7 @@ robot - robote
 roche (pierre) - petre  
 rocher - daisheke  
 rock - rokomuzike  
+roi - man raja  
 roman - long kata  
 Rome - Roma  
 rose - roze  
@@ -1197,7 +1199,7 @@ salle de bains - banya kamar
 salle de classe - shulkamar  
 salut (salam) - salame  
 samedi - var luku  
-Samoa américaines - Ameriki Samoa  
+Samoa américaines - Amerika Samoa  
 sandwich - sanduiche  
 sang - sang  
 santé - salia  

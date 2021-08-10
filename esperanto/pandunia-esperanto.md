@@ -1,6 +1,5 @@
 # pandunia-esperanto
 ####A - A  
-a - sed  
 a - la  
 abies - abio  
 acente - akcento  
@@ -47,6 +46,7 @@ alonamo - tio estas (alivorte)
 aloraya - malkonsenti  
 aloseksi - samseksema  
 alumin - aluminio  
+ama - sed  
 Amerike - Ameriko  
 ameriki - amerika  
 amerikium - americio  
@@ -137,7 +137,7 @@ ban - tabulo
 ban gem - tabulludo  
 banana - banano  
 bandera - flago  
-Bangladesh - Bangladeŝo  
+Bangladesha - Bangladeŝo  
 banke - banko  
 banker - bankisto  
 banya - bano  
@@ -329,8 +329,8 @@ daisheke - ŝtonego
 daisite - urbego  
 daka - kovri  
 dake - kovrilo  
+Dan - Danio  
 dani - dana  
-Dania - Danio  
 danka - danki  
 danke - danko  
 danko da - dank’al  
@@ -447,7 +447,7 @@ engli - angla
 eni - iu ajn  
 erbium - erbio  
 Eris - Eris (planedeto)  
-Eritria - Eritreo  
+Eritra - Eritreo  
 esh - ekstero  
 esha - krom (escepti)  
 eshdesh - fremda lando  
@@ -463,12 +463,12 @@ eskandium - skandio
 eskulta - skulti  
 eskulte - statuo (skultaĵo)  
 eskulter - skultisto  
-Espania - Hispanio  
+Espanya - Hispanio  
 esperanti - Esperanto  
 esporte - sporto  
 estadia - stadiono (areno)  
 estasia - stacio  
-Estia - Estonio  
+Esti - Estonio  
 estrontium - stroncio  
 estuder - studento  
 Etiopia - Etiopio  
@@ -520,8 +520,8 @@ fete - graso
 feti - grasa  
 feyu - flugi  
 figur - figuro  
-fikra - pensi  
-fikre - penso  
+fikir - pensi  
+fikir - penso  
 fiksa - fiksi  
 Filipinas - Filipinoj  
 filme - filmo  
@@ -577,7 +577,7 @@ fuke - vesto
 fuku - vesti (surporti)  
 fun - polvo  
 funci - funkcii  
-funge - fungo  
+fungu - fungo  
 furete - furo  
 furia - kolero (furiozo)  
 fute - piedo  
@@ -713,8 +713,8 @@ hava - venti
 hava - vento  
 hayi - mara  
 he - ĉu?  
-Helen - greka  
 Helen - Grekio  
+Helen - greka  
 helisviman - helikoptero  
 helium - helio  
 helpe - helpo  
@@ -752,7 +752,7 @@ holmium - holmio
 hor - horo  
 horloger - horloĝo  
 hormon - hormono  
-Horvatia - Kroatio  
+Horvati - Kroatio  
 hotel - hotelo  
 hua - floro  
 hua jara - vazo  
@@ -765,8 +765,8 @@ hura - liberigi
 huri - libera  
 huria - libereco  
 hushi - agrabla  
-####I - I  
 i - ĉi tiu  
+####I - I  
 ibri - Hebrea  
 iche - volo  
 idei - ideo  
@@ -780,12 +780,12 @@ insania - homaro
 insaniki - humana  
 insanistia - homismo  
 iode - jodo  
-Irakia - Irakio  
+Iraki - Irakio  
 Iran - Iranio  
 iridium - iridio  
 islam din - islamo  
 islam din sharia - ŝario  
-Islandia - Islando  
+Islande - Islando  
 Israel - Israelo  
 Italia - Italio  
 iyon - iono  
@@ -1087,6 +1087,7 @@ malnomia - ekonomiko
 malu - aparteni  
 mam - mamo  
 man - viro  
+man raja - reĝo  
 mana - signifo  
 mangan - mangano  
 mangi - okupata  
@@ -1121,6 +1122,7 @@ medu - inter
 medu - mielo  
 mega - miliono  
 mege - nubo  
+Mehiko - Meksikio  
 mei - ĉiu(j)  
 melodia - melodio  
 mem - memoro  
@@ -1129,7 +1131,6 @@ member - membro
 meme - ŝafo  
 men - oni  
 Merkur - Merkuro  
-Meshiko - Meksikio  
 mesi - kristo  
 mesi jen - kristnasko  
 metal - metalo  
@@ -1267,8 +1268,8 @@ note - noto (rimarko, komento)
 note buke - kajero  
 numbe - nombro  
 nuton - newtono (N)  
-o - aŭ  
 ####O - O  
+o - aŭ  
 Ocheania - Oceanio  
 oganeson - oganesono  
 oka - okulumi  
@@ -1406,14 +1407,14 @@ purfina - kompleti
 puri - plena  
 puro - plene  
 putau - vinbero  
+putong - generala  
 Putong Han - mandarinĉina  
-putongi - generala  
 ####R - R  
 radi geter - radio  
 radium - radiumo  
 radon - radono  
 rai - opinio  
-rajer - reĝo aŭ reĝino  
+raja - reĝo aŭ reĝino  
 rampe - ramplo  
 rang - koloro  
 rapidi - rapida  
@@ -1588,8 +1589,8 @@ silike - silicio
 silsil - ĉeno  
 simpli - simpla  
 sine - brusto  
-sing - stelo  
 sing - leono  
+sing - stelo  
 Singapur - Singapuro  
 sinokapse - torako  
 sirka - ĉirkaŭi  
@@ -1636,8 +1637,8 @@ sum - sumo
 sundar - bela  
 sundar shutu - arto  
 sundaria - beleco  
+Suomi - Finnlando  
 suomi - finna  
-Suomia - Finnlando  
 supe - supo  
 superi - bonega  
 supra - superiri  
@@ -1649,6 +1650,7 @@ suyi - akva
 tabake - tabako  
 tabi - naturo  
 tafun - ŝtormo  
+Tai Desha - Tajlando  
 taige - tajgo  
 talium - talio  
 tami - avida  
@@ -1662,7 +1664,6 @@ tas - plado
 tatu* - tatuo  
 tave - pato  
 tayi - tajlanda  
-Tayia - Tajlando  
 tazi - freŝa  
 tehne - tekniko  
 tehnelogi - teknologio  
@@ -1721,9 +1722,9 @@ tunel tren - metroo
 tunike - robo  
 tupe - ĉapelo  
 turfe - torfo  
-Turkia - Turkio  
-####U - U  
+Turki - Turkio  
 u - tio  
+####U - U  
 uma - ĉevalo  
 un - unu (1)  
 unal - unu la alian (reciproke)  

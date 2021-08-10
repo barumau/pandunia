@@ -180,6 +180,7 @@
 |**burge**|castle (fortress, stronghold)|deu:Burg, Egyptian-Arabic:(burg), Arabic:Urdu:(burj), Hindi:बुर्ज (burj), Malay:puri, + hin:दुर्ग (durg), Bengali:দুর্গ (durg)|
 |**bus**|bus|deu:French:English:Spanish:bus, Russian:автобус (avtobus), Hindi:बस (bas), Urdu:(bas), Japanese:バス (basu), Korean:버스 (beoseu), Persian:(otobus), Turkish:otobüs, Swahili:basi, Mandarin:巴士 (bāshì)|
 |**buste**|bust (bosom)|French:buste, English:bust, Spanish:Portuguese:busto, Russian:бюст (byust), deu:Büste|
+|**Butan**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**bute**|boot|English:boot, French:botte, Spanish:Portuguese:bota, Greek:μπότα (bóta), Russian:ботинок (botinok), Polish:Malay:but, Persian: بوت‎ (but), Japanese:ブーツ (būtsu), Swahili:buti|
 |**buton**|key (push-button, switch)|English:button, Spanish:botón, Portuguese:botão, French:bouton, Hindi:बटन (baṭan), Bengali:বোতাম (botam), Japanese:ボタン (botan), Korean:버튼 (beoteun)|
 |**cel**|cell (biology)|Malay:sel, Persian:sellul, Thai:เซลล์ (seel), Swahili:seli, Filipino:selula, English:cell, French:cellule, Spanish:célula|
@@ -216,7 +217,7 @@
 |**choklate**|chocolate|Spanish:Portuguese:English:chocolate, French:chocolat, Russian:шоколад (šokolad), Mandarin:巧克力 (qiǎokèlì), Japanese:チョコレート (chokorēto), Korean:초콜렛 (chokollet), Hindi:चाकलेट (cāklet), Bengali:চকলেট (côkleṭ), Malay:cokelat, Swahili:chokoleti, Turkish:çikolata|
 |**chope**|hoe|Mandarin:锄 (chú), Cantonese:鋤 (co4), Thai:จอบ (chop), Turkish:çapa|
 |**chor**|theft|Hindi:Marathi:चोरी (corī), Urdu:(corī), Thai:โจร (chon), Malay:curi, Bengali:চুরি (curi)|
-|**chosen**|Korea|Korean:조선 (Joseon), Japanese:朝鮮 (chōsen), Mandarin:朝鲜 (zh) (Cháoxiǎn)|
+|**Chosen**|Korea|Korean:조선 (Joseon), Japanese:朝鮮 (chōsen), Mandarin:朝鲜 (zh) (Cháoxiǎn)|
 |**chum**|kiss|Hindi:चूमना (cūmnā), Urdu:(cūmnā), Malayalam:ചുംബനം (cumbanaṃ), Malay:cium, Japanese:チュー (chū), Thai:จูบ (cup)|
 |**chun**|village|Mandarin:村 (cūn), Cantonese:村 (cyun1), Japanese:村 (son), Korean:촌 (chon), Vietnamese:thôn|
 |**chupa**|suck (absorb)|Spanish:Portuguese:chupar, Khmer:ជប់ (cup)|
@@ -278,7 +279,6 @@
 |**doze**|portion (dose)|English:Portuguese:French:dose, Russian:доза (doza), deu:Spanish:dosis, Turkish:doz, Malay:dos|
 |**drame**|drama|English:Spanish:Portuguese:Malay:Swahili:drama, French:drame, Russian:дра́ма, Arabic:دْرَامَا‎ (drāmā), Hindi:ड्रामा (ḍrāmā), Japanese:ドラマ (dorama)|
 |**droge**|drug (intoxicating substance)|English:drug, Spanish:droga, French:drogue, deu:Droge|
-|**Drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**du**|two (2)|French:deux, Spanish:dos, Russian:два (dva), Hindi:दो (do), Bengali:দুই (dui), Malay:dua, Korean:둘 (dul)|
 |**dua**|prayer|Arabic: دُعَاء‏  (duʿāʾ), Hindi:दुआ (duā), Swahili:Turkish:dua, Malay:doa + Mandarin:祈祷 (dǎo), Japanese:禱 (tō), Korean:도 (do)|
 |**duga**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Vietnamese:đọc, zha:dog, Japanese:(doku-)|
@@ -346,7 +346,7 @@
 |**fete**|fat (grease)|English:fat, deu:Fett, Swahili:mafuta, rwa:mavuta, Kongo:mafuta|
 |**feyu**|fly (go through air)|Mandarin:飞 (fēi), Cantonese:飛 (fei1), Wu-Chinese:飛 (fi1), Japanese:飛 (hi), Korean:비 (bi), Vietnamese:bay|
 |**figur**|figure (representation)|English:French:figure, Spanish:Portuguese:figura|
-|**fikre**|thought (idea)|Arabic:(fikr), Malay:pikir, Swahili:fikiri, Turkish:fikir, Hindi:(fikr),  Persian:(fekr)|
+|**fikir**|thought (idea)|Arabic:(fikr), Malay:pikir, Swahili:fikiri, Turkish:fikir, Hindi:(fikr),  Persian:(fekr)|
 |**fiksa**|fix (attach)|English:fix, French:fixer, Spanish:fijar, Portuguese:fixar|
 |**filer**|fan (-phile)|English:French:-phile, Portuguese:Spanish:-filo|
 |**filme**|film (membrane, video)|English:Spanish:French:film, Portuguese:filme, deu:Film, Russian:фильм (fil’m), Turkish:film, Arabic:فيلم (film), Japanese:フィルム (firumu), Malay:pilem, Swahili:filamu|
@@ -379,7 +379,7 @@
 |**fun chupa gi**|vacuum cleaner|Mandarin:吸尘器 (xīchénqì), deu:Staubsauger|
 |**fun**|dust (powder)|Mandarin:粉 (fěn), Hakka-Chinese:粉 (fun), Thai:ฝุ่น (fùn)|
 |**funci**|function (work)|English:function, Spanish:Portuguese:funcionar, French:fonctionner, Russian:функциони́ровать (funkcionirovat’), Malay:berfungsi|
-|**funge**|fungus (mushroom)|English:fungus, French:fongus, Portuguese:fungo, Spanish:hongo|
+|**fungu**|fungus (mushroom)|English:fungus, French:fongus, Portuguese:fungo, Spanish:hongo + Mandarin:菇 (gū), Cantonese:菇 (gu1)|
 |**furete**|polecat (ferret)|French:furet, English:ferret, Portuguese:furrão, Italian:furetto, Spanish:hurón, Japanese:(feretto), Swahili:fereti|
 |**furia**|anger (fury, rage, wrath)|English:fury, Spanish:Polish:furia, Portuguese:fúria|
 |**futau**|axe (hatchet)|Filipino:puthaw, Mandarin:斧头 (fǔtóu), Cantonese:斧頭 (futau), nan:斧頭 (pú-thâu)|
@@ -1079,11 +1079,12 @@
 |**pusha**|push|English:push, Spanish:empujar, Portuguese:empurrar, French:pousser, Russian:пихать (pihat’)|
 |**putau oranje**|grapefruit|English:grapefruit, Mandarin:葡萄柚|
 |**putau**|grape|Mandarin:葡萄 (pútáo), Cantonese:葡萄 (pou4 tou4), Wu-Chinese:葡萄 (bu dau3), Japanese:葡萄 (budō), Korean:포도 (podo), Vietnamese:bồ đào|
-|**putongi**|common (general)|Mandarin:普通 (pǔtōng), Cantonese:普通 (pou2tung1), Vietnamese:phổ thông, Korean:보통 (botong)|
-|**radia**|radiation|English:French:radiation, Spanish:radiación, Portuguese:radiação, Malay:radiasi, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)|
+|**putong**|common (general)|Mandarin:普通 (pǔtōng), Cantonese:普通 (pou2tung1), Vietnamese:phổ thông, Korean:보통 (botong)|
+|**radi**|radiation|English:French:radiation, Spanish:radiación, Portuguese:radiação, Malay:radiasi, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)|
+|**radio**|radio|English:French:Spanish:Portuguese:radio, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)|
 |**rai**|opinion (view)|Arabic:(raʾy), Swahili:rai, Hindi:राय (rāy), Persian:(ra'y), Turkish:rey|
 |**raite**|right hand side|English:right|
-|**rajia**|kingdom|Hindi:राज्य (rājya), Bengali:রাজ্য (rajyô)|
+|**raja**|king or queen|Hindi:राजा (rājā), রাজা (raja), Malay:raja, Telugu:రాజు (rāju) + English:rajah, Spanish:Portuguese:rajá, Russian:раджа|
 |**rampe**|ramp (incline, slope)|French:rampe, English:ramp, Portuguese:Spanish:rampa, Japanese:ランプ (ranpu)|
 |**rande**|plane (tool for making a smooth surface)|Turkish:rende, bul:ренде (rende), ron:rindea, Hindi:रंदा, (randâ), Persian:(rande), Swahili:(randa)|
 |**rang**|color (colored)|Bengali:রং (rông), Hindi:रंग (raṅg), Urdu:(raṅg), Persian:(rang), Telugu:రంగు (raṅgu), Swahili:rangi, Lingala:lángi, Turkish:renk|

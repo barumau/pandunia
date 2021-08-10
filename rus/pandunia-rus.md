@@ -262,7 +262,7 @@ dokum - документ
 dokumfilme - документальный фильм  
 dolfin - дельфин  
 domi - домашний  
-Dominiki Komunkratia - Доминиканская Республика  
+Dominika Komunkrati - Доминиканская Республика  
 domzeze - муха  
 dong - восток (ост)  
 dongogoril - восточная горилла  
@@ -364,7 +364,7 @@ fuka - одевать
 fuke - одежда  
 fuki - оде́тый  
 fuku - носить (одеваться)  
-funge frute - гриб  
+fungu frute - гриб  
 fute bol - футбол  
 fute marke - след ноги  
 ####G - G  
@@ -455,6 +455,7 @@ hero - герой
 Hesia - Гессен  
 hijabu - вуаль  
 Hindu desh - Индостан  
+hindu raja - раджа  
 Hindu riu - Инд  
 hisaba - вычислять  
 hisabolojia - математика  
@@ -726,6 +727,7 @@ majenti - маджента (фуксия)
 makanful - одуванчик  
 malnomia - экономика  
 malu - принадлежать  
+man raja - король  
 mangi - занятый  
 manihayistia - манихейство  
 manir - поведение (манера)  
@@ -857,8 +859,8 @@ norde - север (норд)
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
 numbe - число  
-o - или  
 ####O - O  
+o - или  
 ode - ранг  
 oke - глаз (око)  
 oki - глазной  
@@ -983,6 +985,7 @@ puri - полный
 purshipa - мариновать  
 putau oranje - грейпфрут  
 ####R - R  
+radio - радио  
 rai - мнение  
 rangarke - радуга  
 rangarke salmon - микижа (камчатская сёмга)  

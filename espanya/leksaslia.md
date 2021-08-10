@@ -175,6 +175,7 @@
 |**burge**|castillo (fortaleza)|deu:Burg, egy:(burg), ara:urd:(burj), hin:बुर्ज (burj), may:puri, + hin:दुर्ग (durg), ben:দুর্গ (durg)|
 |**bus**|bus (autobús)|deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì)|
 |**buste**|pecho (busto)|fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|
+|**Butan**|Bután|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**bute**|bota|eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|
 |**buton**|tecla (botón)|eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|
 |**cel**|célula|may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|
@@ -211,7 +212,7 @@
 |**choklate**|chocolate|spa:por:eng:chocolate, fra:chocolat, rus:шоколад (šokolad), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), may:cokelat, swa:chokoleti, tur:çikolata|
 |**chope**|azada|zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|
 |**chor**|robo (hurto)|hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|
-|**chosen**|Corea|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
+|**Chosen**|Corea|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
 |**chum**|beso|hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|
 |**chun**|aldea|zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|
 |**chupa**|chupar (succionar)|spa:por:chupar, khm:ជប់ (cup)|
@@ -272,7 +273,6 @@
 |**doze**|ración (dosis)|eng:por:fra:dose, rus:доза (doza), deu:spa:dosis, tur:doz, may:dos|
 |**drame**|drama|eng:spa:por:may:swa:drama, fra:drame, rus:дра́ма, ara:دْرَامَا‎ (drāmā), hin:ड्रामा (ḍrāmā), jpn:ドラマ (dorama)|
 |**droge**|droga (narcótico)|eng:drug, spa:droga, fra:drogue, deu:Droge|
-|**Drugia**|Bután|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**du**|dos (2)|fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui), may:dua, kor:둘 (dul)|
 |**dua**|rezo (oración)|ara: دُعَاء‏  (duʿāʾ), hin:दुआ (duā), swa:tur:dua, may:doa + zho:祈祷 (dǎo), jpn:禱 (tō), kor:도 (do)|
 |**duga**|leer|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
@@ -337,7 +337,7 @@
 |**fete**|grasa|eng:fat, deu:Fett, swa:mafuta, rwa:mavuta, kon:mafuta|
 |**feyu**|volar|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
 |**figur**|representación (figura)|eng:fra:figure, spa:por:figura|
-|**fikre**|idea (pensamiento, reflexión)|ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr),  fas:(fekr)|
+|**fikir**|idea (pensamiento, reflexión)|ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr),  fas:(fekr)|
 |**fiksa**|fijar (pegar, asegurar)|eng:fix, fra:fixer, spa:fijar, por:fixar|
 |**filer**|fan (-filo)|eng:fra:-phile, por:spa:-filo|
 |**filme**|película (film, membrana)|eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem, swa:filamu|
@@ -370,7 +370,7 @@
 |**fun chupa gi**|aspiradora|zho:吸尘器 (xīchénqì), deu:Staubsauger|
 |**fun**|polvo|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
 |**funci**|funcionar|eng:function, spa:por:funcionar, fra:fonctionner, rus:функциони́ровать (funkcionirovat’), may:berfungsi|
-|**funge**|hongo (moho)|eng:fungus, fra:fongus, por:fungo, spa:hongo|
+|**fungu**|hongo (moho)|eng:fungus, fra:fongus, por:fungo, spa:hongo + zho:菇 (gū), yue:菇 (gu1)|
 |**furete**|hurón|fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|
 |**furia**|ira (furia)|eng:fury, spa:pol:furia, por:fúria|
 |**futau**|hacha|tgl:puthaw, zho:斧头 (fǔtóu), yue:斧頭 (futau), nan:斧頭 (pú-thâu)|
@@ -1041,11 +1041,12 @@
 |**pusha**|empujar (presionar)|eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|
 |**putau oranje**|pomelo (toronja)|eng:grapefruit, zho:葡萄柚|
 |**putau**|uva|zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào|
-|**putongi**|general (common)|zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|
-|**radia**|radiación|eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|
+|**putong**|general (common)|zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|
+|**radi**|radiación|eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|
+|**radio**|radio|eng:fra:spa:por:radio, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|
 |**rai**|opinión (juicio, consideración)|ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|
 |**raite**|lado derecho|eng:right|
-|**rajia**|reino|hin:राज्य (rājya), ben:রাজ্য (rajyô)|
+|**raja**|rey o reina|hin:राजा (rājā), রাজা (raja), may:raja, tel:రాజు (rāju) + eng:rajah, spa:por:rajá, rus:раджа|
 |**rampe**|rampa (cuesta)|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
 |**rande**|garlopa|tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)|
 |**rang**|color (colorido)|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|

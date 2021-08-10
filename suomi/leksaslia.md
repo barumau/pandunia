@@ -177,6 +177,7 @@
 |**burge**|linna (linnake, linnoitus)|deu:Burg, egyptinarabia:(burg), arabia:urdu:(burj), hindi:बुर्ज (burj), malaiji:puri, + hin:दुर्ग (durg), bangla:দুর্গ (durg)|
 |**bus**|linja-auto (bussi)|deu:ranska:englanti:espanja:bus, venäjä:автобус (avtobus), hindi:बस (bas), urdu:(bas), japani:バス (basu), korea:버스 (beoseu), persia:(otobus), turkki:otobüs, suahili:basi, yleiskiina:巴士 (bāshì)|
 |**buste**|povi|ranska:buste, englanti:bust, espanja:portugali:busto, venäjä:бюст (byust), deu:Büste|
+|**Butan**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**bute**|saapas (buutsi)|englanti:boot, ranska:botte, espanja:portugali:bota, kreikka:μπότα (bóta), venäjä:ботинок (botinok), puola:malaiji:but, persia: بوت‎ (but), japani:ブーツ (būtsu), suahili:buti|
 |**buton**|nappi (näppäin, kytkin, nappula)|englanti:button, espanja:botón, portugali:botão, ranska:bouton, hindi:बटन (baṭan), bangla:বোতাম (botam), japani:ボタン (botan), korea:버튼 (beoteun)|
 |**cel**|solu|malaiji:sel, persia:sellul, thai:เซลล์ (seel), suahili:seli, filippiini:selula, englanti:cell, ranska:cellule, espanja:célula|
@@ -213,7 +214,7 @@
 |**choklate**|suklaa|espanja:portugali:englanti:chocolate, ranska:chocolat, venäjä:шоколад (šokolad), yleiskiina:巧克力 (qiǎokèlì), japani:チョコレート (chokorēto), korea:초콜렛 (chokollet), hindi:चाकलेट (cāklet), bangla:চকলেট (côkleṭ), malaiji:cokelat, suahili:chokoleti, turkki:çikolata|
 |**chope**|kuokka|yleiskiina:锄 (chú), kantoninkiina:鋤 (co4), thai:จอบ (chop), turkki:çapa|
 |**chor**|varkaus|hindi:marathi:चोरी (corī), urdu:(corī), thai:โจร (chon), malaiji:curi, bangla:চুরি (curi)|
-|**chosen**|Korea|korea:조선 (Joseon), japani:朝鮮 (chōsen), yleiskiina:朝鲜 (zh) (Cháoxiǎn)|
+|**Chosen**|Korea|korea:조선 (Joseon), japani:朝鮮 (chōsen), yleiskiina:朝鲜 (zh) (Cháoxiǎn)|
 |**chum**|suukko (pusu)|hindi:चूमना (cūmnā), urdu:(cūmnā), malayalam:ചുംബനം (cumbanaṃ), malaiji:cium, japani:チュー (chū), thai:จูบ (cup)|
 |**chun**|kylä|yleiskiina:村 (cūn), kantoninkiina:村 (cyun1), japani:村 (son), korea:촌 (chon), vietnami:thôn|
 |**chupa**|imeä|espanja:portugali:chupar, khmer:ជប់ (cup)|
@@ -274,7 +275,6 @@
 |**doze**|annos|englanti:portugali:ranska:dose, venäjä:доза (doza), deu:espanja:dosis, turkki:doz, malaiji:dos|
 |**drame**|draama|englanti:espanja:portugali:malaiji:suahili:drama, ranska:drame, venäjä:дра́ма, arabia:دْرَامَا‎ (drāmā), hindi:ड्रामा (ḍrāmā), japani:ドラマ (dorama)|
 |**droge**|huume|englanti:drug, espanja:droga, ranska:drogue, deu:Droge|
-|**Drugia**|Bhutan|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**du**|kaksi (2)|ranska:deux, espanja:dos, venäjä:два (dva), hindi:दो (do), bangla:দুই (dui), malaiji:dua, korea:둘 (dul)|
 |**dua**|rukous|arabia: دُعَاء‏  (duʿāʾ), hindi:दुआ (duā), suahili:turkki:dua, malaiji:doa + yleiskiina:祈祷 (dǎo), japani:禱 (tō), korea:도 (do)|
 |**duga**|lukea|yleiskiina:读 (dú), kantoninkiina:讀 (duk6), vietnami:đọc, zha:dog, japani:(doku-)|
@@ -341,7 +341,7 @@
 |**fete**|rasva (öljy)|englanti:fat, deu:Fett, suahili:mafuta, rwa:mavuta, Kongo:mafuta|
 |**feyu**|lentää|yleiskiina:飞 (fēi), kantoninkiina:飛 (fei1), wu-kiina:飛 (fi1), japani:飛 (hi), korea:비 (bi), vietnami:bay|
 |**figur**|hahmo (figuuri)|englanti:ranska:figure, espanja:portugali:figura|
-|**fikre**|ajatus|arabia:(fikr), malaiji:pikir, suahili:fikiri, turkki:fikir, hindi:(fikr),  persia:(fekr)|
+|**fikir**|ajatus|arabia:(fikr), malaiji:pikir, suahili:fikiri, turkki:fikir, hindi:(fikr),  persia:(fekr)|
 |**fiksa**|kiinnittää|englanti:fix, ranska:fixer, espanja:fijar, portugali:fixar|
 |**filer**|fani (-fiili)|englanti:ranska:-phile, portugali:espanja:-filo|
 |**filme**|filmi|englanti:espanja:ranska:film, portugali:filme, deu:Film, venäjä:фильм (fil’m), turkki:film, arabia:فيلم (film), japani:フィルム (firumu), malaiji:pilem, suahili:filamu|
@@ -374,7 +374,7 @@
 |**fun chupa gi**|pölynimuri|yleiskiina:吸尘器 (xīchénqì), deu:Staubsauger|
 |**fun**|pöly (tomu)|yleiskiina:粉 (fěn), hakkakiina:粉 (fun), thai:ฝุ่น (fùn)|
 |**funci**|toiminta (funktio)|englanti:function, espanja:portugali:funcionar, ranska:fonctionner, venäjä:функциони́ровать (funkcionirovat’), malaiji:berfungsi|
-|**funge**|sieni|englanti:fungus, ranska:fongus, portugali:fungo, espanja:hongo|
+|**fungu**|sieni|englanti:fungus, ranska:fongus, portugali:fungo, espanja:hongo + yleiskiina:菇 (gū), kantoninkiina:菇 (gu1)|
 |**furete**|kärppä (fretti)|ranska:furet, englanti:ferret, portugali:furrão, italia:furetto, espanja:hurón, japani:(feretto), suahili:fereti|
 |**furia**|viha (suuttumus, raivo)|englanti:fury, espanja:puola:furia, portugali:fúria|
 |**futau**|kirves|filippiini:puthaw, yleiskiina:斧头 (fǔtóu), kantoninkiina:斧頭 (futau), nan:斧頭 (pú-thâu)|
@@ -1018,11 +1018,11 @@
 |**puri**|täysi|hindi:पूर्ण (pūrn), bangla:পূর্ণ (pūrṇa), pandzabi:ਪੂਰਾ (pūrā), persia:(por)|
 |**pusha**|työntää (puskea)|englanti:push, espanja:empujar, portugali:empurrar, ranska:pousser, venäjä:пихать (pihat’)|
 |**putau**|viinirypäle|yleiskiina:葡萄 (pútáo), kantoninkiina:葡萄 (pou4 tou4), wu-kiina:葡萄 (bu dau3), japani:葡萄 (budō), korea:포도 (podo), vietnami:bồ đào|
-|**putongi**|yleinen (universaali)|yleiskiina:普通 (pǔtōng), kantoninkiina:普通 (pou2tung1), vietnami:phổ thông, korea:보통 (botong)|
-|**radia**|säteily|englanti:ranska:radiation, espanja:radiación, portugali:radiação, malaiji:radiasi, venäjä:радио (radio), turkki:radyo, suahili:redio, hindi:रेडियो (reḍiyo), bangla:রেডিও (reḍio), japani:ラジオ (rajio), korea:라디오 (radio)|
+|**putong**|yleinen (universaali)|yleiskiina:普通 (pǔtōng), kantoninkiina:普通 (pou2tung1), vietnami:phổ thông, korea:보통 (botong)|
+|**radi**|säteily|englanti:ranska:radiation, espanja:radiación, portugali:radiação, malaiji:radiasi, venäjä:радио (radio), turkki:radyo, suahili:redio, hindi:रेडियो (reḍiyo), bangla:রেডিও (reḍio), japani:ラジオ (rajio), korea:라디오 (radio)|
 |**rai**|mielipide (näkemys)|arabia:(raʾy), suahili:rai, hindi:राय (rāy), persia:(ra'y), turkki:rey|
 |**raite**|oikea puoli|englanti:right|
-|**rajia**|kuningaskunta|hindi:राज्य (rājya), bangla:রাজ্য (rajyô)|
+|**raja**|monarkki (kuningas, kuningatar)|hindi:राजा (rājā), রাজা (raja), malaiji:raja, telugu:రాజు (rāju) + englanti:rajah, espanja:portugali:rajá, venäjä:раджа|
 |**rampe**|luiska (ramppi)|ranska:rampe, englanti:ramp, portugali:espanja:rampa, japani:ランプ (ranpu)|
 |**rande**|höylä|turkki:rende, bul:ренде (rende), ron:rindea, hindi:रंदा, (randâ), persia:(rande), suahili:(randa)|
 |**rang**|väri|bangla:রং (rông), hindi:रंग (raṅg), urdu:(raṅg), persia:(rang), telugu:రంగు (raṅgu), suahili:rangi, lingala:lángi, turkki:renk|

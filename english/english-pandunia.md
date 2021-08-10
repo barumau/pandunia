@@ -72,14 +72,14 @@ air - air
 airforce - airgun  
 airplane - fei gi  
 airport (aeroport) - airporte  
-Aland Islands - Olandi nesia  
+Aland Islands - Olande nesia  
 Alaska - Alaska  
-Albania - chipia  
+Albania - Chipe  
 alcohol - alkol  
 alcoholic - alkoli  
 alga - alge  
 algebra - jebria  
-Algeria - Jayeria  
+Algeria - Jayer  
 align (go along) - parlinu  
 alkaline - alkali  
 alligator - korte krokodil  
@@ -104,7 +104,7 @@ ambiguous - polmeni
 America (continent) - Amerike  
 American (US) - UDA du  
 American - ameriki  
-American Samoa - Ameriki Samoa  
+American Samoa - Amerika Samoa  
 americium - amerikium  
 Amerindian (Native American) - aslameriki  
 Amhara (an Ethiopian ethnic group and language) - Amara  
@@ -182,7 +182,7 @@ argument (thesis) - tese
 Ariel - Ariel  
 arithmetics - hisabia  
 arm - handoshake  
-Armenia - Hayakia  
+Armenia - Hayaki  
 armor (shielding) - defkaske  
 army - gun  
 aromantic - anromansi  
@@ -279,7 +279,7 @@ banana - banana
 band (squad, group) - banda  
 band (tape, bandage) - bende  
 bandage (strip, ribbon) - fashe  
-Bangladesh - Bangladesh  
+Bangladesh - Bangladesha  
 banister (handrail) - langan  
 bank (depository, cache) - banke  
 banker - banker  
@@ -370,7 +370,7 @@ Bermuda - Bermuda
 berry - bere  
 berth (couchette) - kushloke  
 beryllium - berilium  
-Bhutan - Drugia  
+Bhutan - Butan  
 Bible - biblia  
 Biblical - bibli  
 bicycle (pedal bike) - pedalsikle  
@@ -433,10 +433,10 @@ boredom - boria
 boron - boron  
 borrow (lend) - jeka  
 borrow - jekogeta  
-Bosnia and Herzegovina - Bosnia e Herchegovina  
+Bosnia and Herzegovina - Bosna e Hercegovina  
 botany (phytology) - fitolojia  
 bother (annoy, disturb, irritate) - turba  
-Botswana - chvana  
+Botswana - Cuana  
 bottle - botel  
 bottom - tal  
 boulder - daisheke  
@@ -499,7 +499,7 @@ business (commercial activity) - biznes
 businessperson (businessman) - bizneser  
 bust (bosom) - buste  
 busy (occupied) - mangi  
-but (whereas) - a  
+but (whereas) - ama  
 butcher - bucha  
 butcher - bucher  
 butter - makan  
@@ -511,7 +511,7 @@ by (at, in, on) - an
 ####C - ch  
 cabin (booth) - kabin  
 cable (wire, line) - eletrolin  
-Cabo Verde (Cape Verde) - Kabu Verdi  
+Cabo Verde (Cape Verde) - Kabu Verde  
 cactus - katus  
 cadmium - kadmium  
 caesium - cesium  
@@ -596,11 +596,11 @@ center (concentrate) - junga
 centi- (per cent) - centi  
 centimeter (cm) - centimitre  
 central (middle) - jungi  
-Central African Republic - Jungafrike  
+Central African Republic - Jungafrika  
 ceramic - serame  
 Ceres (dwarf planet) - Ceres  
 cerium - cerium  
-Chad - chadia  
+Chad - Chade  
 chain - silsil  
 chain mail - silnete  
 chair - kurse  
@@ -742,7 +742,7 @@ come (arrive) - lai
 comic (cartoon) - grafi kata  
 comma - kome  
 command line (console, terminal) - amirlin  
-common (general) - putongi  
+common (general) - putong  
 common (mutual) - koni  
 common (shared) - komuni  
 common language - konbash  
@@ -847,7 +847,7 @@ criminal - krimi
 crisis - krize  
 critic - pipinger  
 critical (pertaining to crisis) - krizi  
-Croatia - Horvatia  
+Croatia - Horvati  
 crocodile - longokrokodil  
 crocodillian - krokodil  
 croissant - kruasante  
@@ -886,7 +886,7 @@ cyclone (hurrican, tornado, typhoon) - rototafun
 Cyprus - Kipris  
 Cyrillic alphabet - kirili harfia  
 cytology - cellogi  
-Czech Republic - chehia  
+Czech Republic - Cheska  
 Côte d’Ivoire (Ivory Coast) - Kote Da Ivar  
 ####D - D  
 dagger - kanjar  
@@ -947,7 +947,7 @@ democrati - demokratiste
 democratic - demo krati li  
 demography - demo grafi  
 demon - demon  
-Denmark - Dania  
+Denmark - Dan  
 dentist - dantomediker  
 depth - fastelia  
 descriptive - sifi  
@@ -1012,7 +1012,7 @@ domestic (tame) - domi
 domesticate (cultivate) - dosiljenita  
 domesticated - dosiljeni  
 Dominica - Dominika  
-Dominican Republic - Dominiki Komunkratia  
+Dominican Republic - Dominika Komunkrati  
 dominoes - dominogem  
 donkey (ass) - iha  
 door (gate, portal) - mun  
@@ -1072,7 +1072,7 @@ Earth (Terra) - Geo
 earthquake - geo sismo  
 ease (facility) - fasilia  
 east (orient) - dong  
-East Timor (Timor-Leste) - Dongi Timor  
+East Timor (Timor-Leste) - Dong Timor  
 Easter - paske  
 eastern - dongi  
 eastern gorilla - dongogoril  
@@ -1124,7 +1124,7 @@ enemy - anamike
 energy - energe  
 engine (motor) - moto  
 engineer - enjener  
-England - Englia  
+England - English  
 English - engli  
 English daisy - englomargarite  
 English oak - europobalute  
@@ -1146,12 +1146,12 @@ erbium - erbium
 erect (standing) - libi  
 erect - liba  
 Eris (dwarf planet) - Eris  
-Eritrea - Eritria  
+Eritrea - Eritra  
 escape (flee, run away) - bega  
 Esperanto - esperanti  
 essay - esei  
 estimate (approximate) - yaga  
-Estonia - Estia  
+Estonia - Esti  
 Eswatini (Swaziland) - Suati  
 ethics - dekolojia  
 Ethiopia - Etiopia  
@@ -1297,7 +1297,7 @@ fingertip - angulpike
 finish (complete, end) - fin  
 finished - finiti  
 finite (limited) - limiti  
-Finland - Suomia  
+Finland - Suomi  
 Finnish - suomi  
 fir tree - abies  
 fire (burning) - hoge  
@@ -1391,7 +1391,7 @@ full (complete, saturated) - puri
 fully (completely) - puro  
 fun (amusement) - van  
 function (work) - funci  
-fungus (mushroom) - funge  
+fungus (mushroom) - fungu  
 funnel - riutube  
 funny (amusing) - vani  
 fusion (amalgamation) - rivunia  
@@ -1439,7 +1439,7 @@ German - doichi
 German camomile - kamil  
 Germania - Germania  
 germanium - germanium  
-Germany - Doichia  
+Germany - Doiche  
 gesture - jeste  
 get (receive, obtain, take) - geta  
 get off (descend) - aneskala  
@@ -1512,7 +1512,7 @@ Greece - Helen
 greedy - tami  
 Greek (Hellenic) - Helen  
 green - lugi  
-Greenland - Kalalia  
+Greenland - Kalal  
 greens - choi  
 greet - salama  
 greeting (hello) - salame  
@@ -1695,7 +1695,7 @@ Iapetus - Yapetus
 ice - ais  
 ice cream - aiskrem  
 ice hockey - aishoke  
-Iceland - Islandia  
+Iceland - Islande  
 icy - aisi  
 idea (concept, notion) - idei  
 ideogram - ideigraf  
@@ -1774,7 +1774,7 @@ Io - Io
 iodine - iode  
 ion - iyon  
 Iran - Iran  
-Iraq - Irakia  
+Iraq - Iraki  
 Ireland - Aire  
 iridium - iridium  
 iron - fere  
@@ -1861,8 +1861,8 @@ kilometer (km) - kilomitre
 kimono - kimono*  
 kind (style, sort, type) - yang  
 kinetic - kini  
-king - mani rajer  
-king or queen - rajer  
+king - man raja  
+king or queen - raja  
 kingdom - rajia  
 Kinshasa - Kinshasa  
 kiosk - kioske  
@@ -1878,7 +1878,7 @@ know (be aware of) - sabi
 knowledge -   
 known -   
 Konkani - Konkani  
-Korea - chosen  
+Korea - Chosen  
 Korean - choseni  
 Korean melon - aromomelon  
 Kosovo - Kosovo  
@@ -2172,7 +2172,7 @@ metal - metal
 meter (100 cm) - mitre  
 meter (measuring device) - metre gi  
 method (means) - metode  
-Mexico - Meshiko  
+Mexico - Mehiko  
 Mexico City - Meshiko site  
 micro- - mikro*  
 microbiology - mikrobiologi  
@@ -2290,7 +2290,7 @@ multinational - polnasi
 Mumbai (Bombay) - Mumbai  
 mummy - mumjan  
 muscle - muskul  
-mushroom (sporocarp) - funge frute  
+mushroom (sporocarp) - fungu frute  
 music - muzike  
 musician - muziker  
 musk thistle - pendokardon  
@@ -2303,7 +2303,7 @@ mutual - unali
 Mx. (Mr. or Ms.) - shi  
 my - mi di  
 Myanmar (Burma) - Myanma  
-mycelium - funge nete  
+mycelium - fungu nete  
 myth (divine story) - deu kata  
 ####N - N  
 Nahuatl (Nahua) - navati  
@@ -2565,7 +2565,7 @@ pants (trousers) - pante
 papaya - papai  
 paper (material) - kaguje  
 paprika - chili fun  
-Papua New Guinea - Papua Novi Ginia  
+Papua New Guinea - Papua Nove Ginia  
 Paraguay - Paraguai  
 parallel (longitudinal) - parlini  
 parameter (argument, input variable) - param  
@@ -2870,12 +2870,13 @@ raccoon - vashurse
 race (breed) - ras  
 racism - rasistia  
 racist - rasiste  
-radiate - rada  
-radiation - radia  
+radiate - radi  
+radiation - radi  
+radio - radio  
 radio receiver - radi geter  
 radioactive - iyoni radi  
 radioactivity (ionizing radiation) - iyoni radia  
-radiometer - radometrer  
+radiometer - radi metre gi  
 radiotransmitter - radi miser  
 radish - lobake  
 radium - radium  
@@ -2890,6 +2891,7 @@ rainy -
 rainy season (monsoon) - shava mosim  
 raise (lift) - gava  
 raisin - ganputau  
+rajah - hindu raja  
 Ramadan - ramazan  
 ramp (incline, slope) - rampe  
 random - zari  
@@ -2899,7 +2901,7 @@ rare (uncommon, sparse) - rari
 rarity - raria  
 rational (reasonable) - razoni  
 raw (crude) - jeni  
-ray - rade  
+ray - radi  
 ray of light - foto rade  
 read - duga  
 ready (prepared) - redi  
@@ -3039,7 +3041,7 @@ Russian language - rusia basha
 rustle - shashu  
 ruthenium - rutenium  
 rutherfordium - ruterfordium  
-Rwanda - Rvanda  
+Rwanda - Ruanda  
 Réunion - Reunion  
 ####S - S  
 Sabbath - sabate  
@@ -3048,7 +3050,7 @@ sadden (make sad) - duka
 safe (secure, protected) - sekuri  
 saffron - safran  
 saga (heroic tale) - hero kata  
-Sahrawi Arab Democratic Republic - Sahravia  
+Sahrawi Arab Democratic Republic - Sahara Desha  
 sail - nava  
 sailer - naver  
 Saint Helena - Santi Helena  
@@ -3101,7 +3103,7 @@ scissors (shears) - makas
 scope (viewer) - oskope  
 score (grade) - puntonumbe  
 scoreboard - puntoban  
-Scotland - Eskotia  
+Scotland - Eskote  
 screen - ekran  
 screw - vite  
 sculpt (carve) - eskulta  
@@ -3278,8 +3280,8 @@ soldier - gunjan
 solid - gatomate  
 Solomon Islands - Solomon nesia  
 solstice - solestas  
-Somalia - Somalia  
-Somaliland - Somaldesh  
+Somalia - Somal  
+Somaliland - Somal Desha  
 some - yo  
 someone (somebody) - yo jan  
 something - yo she  
@@ -3306,7 +3308,7 @@ soy sauce - soi sos
 space (character) - kali harfi  
 space (cosmos, universe) - kosmia  
 spaceship - kosmonau  
-Spain - Espania  
+Spain - Espanya  
 sparse (scattered) - anjami  
 speak (talk, language, communication) - basha  
 spear thistle - perkardon  
@@ -3465,7 +3467,7 @@ taiga - taige
 tail - vei  
 Taipei - Taibei  
 Taiwan (Republic of China) - Taivan  
-Tajikistan - Tajikia  
+Tajikistan - Tajiki  
 tale (story, legend, saga) - kata  
 talkative - logivi  
 tame (docile, obedient) - dosili  
@@ -3535,7 +3537,7 @@ tesla (T) - tesle
 test (try, attempt) - teste  
 Tethys - Tetis  
 Thai - tayi  
-Thailand - Tayia  
+Thailand - Tai Desha  
 thallium - talium  
 than (as, compared to) - ka  
 thank - danka  
@@ -3560,13 +3562,13 @@ thick - gros
 thickness - grosta  
 thief - chorer  
 thing - she  
-think (ponder, reflect) - fikra  
+think (ponder, reflect) - fikir  
 thirst - suiyau  
 this - i  
 thistle - kardon  
 thorium - torium  
 thorn tree (acacia) - babul  
-thought (idea) - fikre  
+thought (idea) - fikir  
 thousand (kilo-) - kili  
 three (3) - tri  
 throw (launch) - lancha  
@@ -3682,7 +3684,7 @@ Tunisia - Tunis
 tunnel - tunel  
 turban - pagre  
 turkey - dinde  
-Turkey - Turkia  
+Turkey - Turki  
 Turkish - turki  
 Turkmenistan - Turkomenia  
 turn around (flip) - versa  
@@ -3719,7 +3721,7 @@ unite - una
 united - uniti  
 United Arab Emirates - Uniti Arabi Amiria (UAA)  
 United Kingdom - Britania  
-United States of America (USA) - Uniti Desh Da Amerike (UDA)  
+United States of America (USA) - Uniti Desha Da Amerika (UDA)  
 universal - unversi  
 university - daishulkan  
 unlock - ansora  
@@ -3808,7 +3810,7 @@ vulva - vulve
 wait - deng  
 wake (become awake) - jagu  
 wake (make awake) - jaga  
-Wales (Cambria) - Kamria  
+Wales (Cambria) - Kamri  
 walk (march) - marcha  
 wall (structure for delimitation) - mur  
 Wallis and Futuna Islands - Valis e Futuna nesia  
