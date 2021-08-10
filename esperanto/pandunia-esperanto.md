@@ -34,8 +34,6 @@ akse - akso
 ala - ŝanĝi (aliigi)  
 alge - algo  
 ali - alia  
-alkali - alkaleca  
-alkalogusti - amara  
 alkol - alkoholo  
 alkoli - alkohola  
 almari - ŝranko  
@@ -642,7 +640,7 @@ gol - golo
 gom - kaŭĉuko  
 gon - angulo  
 goro - porko  
-goro manse - porkaĵo  
+goro nama - porkaĵo  
 goton - kotono  
 grafi - bildo (desegnaĵo)  
 grafi - desegni  
@@ -681,6 +679,7 @@ haigun - mararmeo
 haiporte - haveno  
 haki - rajto  
 hal - stato  
+hali - malplena  
 halif - kalifo  
 halo - saluton!  
 hamake - hamako  
@@ -848,11 +847,12 @@ kafokan - kafejo
 kafokupe - kaftaso  
 kafopote - kafeujo  
 kaguje - papero  
+kaka - feko  
 kakau - kakao  
-kake - feko  
 kalam - plumo  
-kalende - kalendaro  
-kali - malplena  
+kalenda - kalendaro  
+kali - alkaleca  
+kali guste - amara  
 kalifornium - kaliforniumo  
 kalium - kalio  
 kalsite - kalcito  
@@ -1092,7 +1092,6 @@ mana - signifo
 mangan - mangano  
 mangi - okupata  
 manir - maniero (konduto)  
-manse - viando  
 mar - fojo  
 maraton - maratono  
 marcha - promeni (marŝi)  
@@ -1192,7 +1191,7 @@ mul - radiko
 mumfote - kandelo  
 mumjan - mumio  
 mumu - bovo  
-mumu manse - bovaĵo  
+mumu nama - bovaĵo  
 mun - pordo  
 mur - vando  
 murche - formiko  
@@ -1216,6 +1215,7 @@ nafas - spiro
 nagre - urbo  
 nagri - urba  
 Naijiria - Niĝerio  
+nama - viando  
 name - nomo  
 Namibia - Namibio  
 namloge - substantivo  
@@ -1556,7 +1556,7 @@ shin - kredo
 shina - kreda  
 shir - poemo  
 shirope - siropo  
-shishmanse - ŝaŝliko  
+shish nama - ŝaŝliko  
 shite - merdo  
 shofa - konduki  
 shofer - ŝoforo (kondukisto)  
@@ -1565,16 +1565,16 @@ shoper - aĉetanto (aĉetisto)
 shoti - cent  
 shou - montri (ekspozicii)  
 shula - lerni (studi)  
-shule - leciono  
-shule guru - instruisto  
+shula - leciono  
+shula guru - instruisto  
+shula kan - lernejo  
+shula shefe - lernejestro  
 shuler - studento (lernanto)  
 shuli - riparo  
 shuli - ripari  
 shulija - riparisto  
-shulkan - lernejo  
-shulshef - lernejestro  
-shur - komenco  
-shura - komenci  
+shuru - komenco  
+shuru - komenci  
 shuru - komenciĝi  
 shusha - silentigi  
 shushi - silenta  

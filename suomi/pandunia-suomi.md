@@ -58,9 +58,6 @@ Alaska - Alaska
 alge - levä  
 algofung - jäkälä  
 ali - muu (toinen)  
-alkale - emäs  
-alkali - emäksinen (alkalinen)  
-alkalogusti - kitkerä (karvas)  
 alkol - alkoholi  
 alkoli - alkoholinen  
 almari - kaappi  
@@ -1113,7 +1110,7 @@ gon - kulma (nurkka)
 gonmetrer - kulmamitta (goniometri)  
 gorile - gorilla  
 goro - sika (possu)  
-goro manse - sianliha  
+goro nama - sianliha  
 goton - puuvilla  
 grafi - piirros (graafi)  
 grafi - piirtää  
@@ -1172,6 +1169,8 @@ hal - tila (tilanne, seikka)
 halala - sallia (antaa lupa)  
 halali - sallittu (hyväksytty)  
 halela - ylistää  
+hali - tyhjö  
+hali - tyhjä  
 halif - kalifi  
 halifia - kalifaatti  
 halo - hei (haloo)  
@@ -1460,9 +1459,8 @@ justi - tarkka (täsmällinen)
 justo - juuri (just, täsmälleen)  
 ####K - K  
 ka - kuin (verrattuna)  
-kababa - grillata (kärventää)  
-kababi manse - kebab (grilliliha)  
-kabau - vesipuhveli  
+kababu - grillata (kärventää)  
+kababu nama - kebab (grilliliha)  
 kabin - koppi (maja)  
 Kabu Verde - Cabo Verde  
 kadmium - kadmium  
@@ -1474,13 +1472,14 @@ kafopote - kahvipannu
 kaguje - paperi  
 Kaiman nesia - Cayman-saaret  
 kaka - ulostaa (kakata)  
+kaka - uloste (kakka)  
 kakau - kaakao  
-kake - uloste (kakka)  
-kal - tyhjö  
 Kalal - Grönlanti  
 kalam - kynä  
-kalende - kalenteri  
-kali - tyhjä  
+kalenda - kalenteri  
+kali - emäs  
+kali - emäksinen (alkalinen)  
+kali guste - kitkerä (karvas)  
 kalifornium - kalifornium  
 kalium - kalium  
 kalkulia - kalkyyli  
@@ -1527,6 +1526,7 @@ Karaibia - Karibia
 karaoke - karaoke  
 karate* - karate  
 karau - kumina  
+karbau - vesipuhveli  
 karbe - hiili  
 karbodulokside - hiilidioksidi  
 karde - kortti  
@@ -1944,10 +1944,9 @@ manihayistia - manikealaisuus
 Manin nes - Manin saari  
 manir - käytös (käyttäytyminen, tapa, tavat)  
 manira - käyttäytyä  
-manse - liha  
-mante - täytetty pulla  
 mantra - messuta  
 mantre - mantra  
+mantu - täytetty pulla  
 manyoke - kassava (maniokki)  
 mar - kerta (vuoro)  
 marati - marathi (eräs intialainen kieli)  
@@ -2155,7 +2154,7 @@ mumchape - sinetti
 mumfote - kynttilä  
 mumjan - muumio  
 mumu - nauta (lehmä)  
-mumu manse - lehmän liha  
+mumu nama - lehmän liha  
 mun - ovi (portti, veräjä)  
 mungus - mangusti  
 mur - seinä (muuri)  
@@ -2184,6 +2183,7 @@ nafas - hengitys (henkäys)
 nagre - kaupunki  
 nahun - kynsi  
 Naijiria - Nigeria  
+nama - liha  
 nama - olla nimeltään  
 namana - nimittää (kutsua)  
 name - nimi  
@@ -2904,8 +2904,8 @@ shir - runo
 shirer - runoilija  
 shirope - siirappi  
 shish - varras  
-shishkababe - varraskebab  
-shishmanse - saslik  
+shish kababu - varraskebab  
+shish nama - saslik  
 shita - paskantaa (ulostaa)  
 shite - paska (sonta)  
 shofa - ajaa (kuskata)  
@@ -2917,18 +2917,18 @@ shoper - ostaja
 shoti - sata (100)  
 shou - näytös (esitys, show)  
 shula - oppia (opiskella)  
-shule - oppi (opetus)  
-shule guru - opettaja  
+shula - oppi (opetus)  
+shula guru - opettaja  
+shula kamar - luokkahuone  
+shula kan - koulu (opisto)  
+shula shefe - rehtori  
 shuler - oppilas  
 shuli - korjaus  
 shuli - korjata  
 shulia - koulutus  
 shulija - korjaaja  
-shulkamar - luokkahuone  
-shulkan - koulu (opisto)  
-shulshef - rehtori  
-shur - alku  
-shura - aloittaa  
+shuru - alku  
+shuru - aloittaa  
 shuru - alkaa  
 shusha - hiljentää  
 shushi - hiljainen  

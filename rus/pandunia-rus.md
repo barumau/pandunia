@@ -31,10 +31,6 @@ alge - водоросли
 algofung - лишай  
 algojangle - лес водорослей  
 ali - другой (второй)  
-alkale - щёлочь  
-alkalogusti - горький  
-alkalomelon - горький огурец (китайская горькая тыква)  
-alkaloranje - померанец  
 alkol - алкоголь  
 almari - шкаф  
 almas - алмаз (бриллиант)  
@@ -433,6 +429,7 @@ haiful - морские анемоны
 haigun - военно-морской флот  
 haihiyar - голотурия (морские огурц)  
 hal - состояние (статус)  
+hali - пустой  
 halo - алло  
 hami - важный (значимый)  
 hamili - беременный  
@@ -532,16 +529,19 @@ justi - точный
 justopaver - снайпер  
 ####K - K  
 ka - чем  
-kababi manse - кебаб  
-kaboge - тыква  
+kababu nama - кебаб  
+kaboga - тыква  
 kafe - кофе  
 kafokan - кафе (кофейня)  
 kafopote - кофейник  
 kaguje - бумага  
 kagujolimon - лайм  
 kalam - ручка  
-kalende - календарь  
-kali - пустой  
+kalenda - календарь  
+kali - щёлочь  
+kali guste - горький  
+kali melon - горький огурец (китайская горькая тыква)  
+kali oranje - померанец  
 kalmar - кальмар  
 kalsite - кальцит  
 kalsokristal - мрамор  
@@ -731,7 +731,6 @@ man raja - король
 mangi - занятый  
 manihayistia - манихейство  
 manir - поведение (манера)  
-manse - мясо  
 mantol - плащ (накидка)  
 mantre - мантра  
 mar - раз  
@@ -824,6 +823,7 @@ na - ну
 nadiri - редкий  
 nadiro - редко  
 najis - грязь (скверна)  
+nama - мясо  
 namkitaba - подписать  
 nanas - ананас  
 narde - нарды (триктрак)   
@@ -1094,23 +1094,23 @@ sheke - камень (камешек)
 shibaya - проиграть (провалиться)  
 shibaya tena - потерять (утратить)  
 shingofota - сверкать (мерцать)  
-shishkababe - шиш-кебаб  
-shishmanse - шашлык  
+shish kababu - шиш-кебаб  
+shish nama - шашлык  
 shite - говно (дерьмо)  
 shofer - шофёр  
 shopa - покупать (купить)  
 shope - покупка (шоппинг)  
 shoti - сто  
 shula - учиться  
-shule - урок (учение)  
-shule guru - учитель  
+shula - урок (учение)  
+shula guru - учитель  
+shula kan - школа   
+shula shefe - директор (ректор)  
 shuli - починка (ремонт)  
 shuli - чинить (ремонтировать)  
 shulia - образование  
 shulija - ремонтник  
-shulkan - школа   
-shulshef - директор (ректор)  
-shur - начало  
+shuru - начало  
 shushi - тихий  
 shutu - искусство  
 si - быть  

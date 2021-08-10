@@ -157,7 +157,7 @@ bateria - bateri
 baton czekoladowy - choklatobaton  
 bawełna - goton  
 bawić, zabawiać - vana  
-bawół domowy - kabau  
+bawół domowy - karbau  
 baza danych (bank danych) - datobanke  
 bazowy, podstawowy - bazi  
 bańka - lilbol  
@@ -257,7 +257,7 @@ but - bute
 but - sapate  
 butelka - botel  
 Bułgaria - Bolgaria  
-bułka gotowana na parze - mante  
+bułka gotowana na parze - mantu  
 być - si  
 być mistrzem (być ekspertem) - mesta  
 być o; dyskutować o - tema  
@@ -519,7 +519,7 @@ dwutlenek węgla - karbodulokside
 dwuznacznik - dulmeni  
 dym - duman  
 dynamit - dinamite  
-dyrektor szkoły - shulshef  
+dyrektor szkoły - shula shefe  
 dysk - diske  
 dyskretny (cyfrowy, kwantowy) - feni  
 dyskusja, debata, dyskurs - lon  
@@ -582,7 +582,7 @@ einstein - ainstainium
 ekologia (nauka o środowisku) - ekolojia  
 ekonomia - malnomia  
 ekran - ekran  
-ekskrement, gówno - kake  
+ekskrement, gówno - kaka  
 eksplodować (wybuchnąć, wybuchać) - bumu  
 eksportować (wyeksportować) - eshmisa  
 Ekwador - Ekuador  
@@ -725,8 +725,8 @@ gorbusza - rozosalmon
 goryl - gorile  
 goryl wschodni - dongogoril  
 goryl zachodni - vestogoril  
-gorzka pomarańcza - alkaloranje  
-gorzki - alkalogusti  
+gorzka pomarańcza - kali oranje  
+gorzki - kali guste  
 gorączka - febre  
 gotować, szykować jedzenie - kuka  
 gotowy - redi  
@@ -750,7 +750,7 @@ grejpfrut - putau oranje
 Grenada - Grenada  
 Grenadyny - Grenadin nesia  
 Grenlandia - Kalal  
-grillować - kababa  
+grillować - kababu  
 grom, huk - grom  
 grubość - grosta  
 gruby - gros  
@@ -996,7 +996,7 @@ język świata, język ogólnoświatowy - dunia bash
 język; komunikacja; mówić - basha  
 językoznastwo - bashalogi  
 ####K - K  
-kabaczek (dynia, tykwa) - kaboge  
+kabaczek (dynia, tykwa) - kaboga  
 kabel (linia) - eletrolin  
 kabina, budka - kabin  
 kaczka - bata  
@@ -1005,7 +1005,7 @@ Kajmany - Kaiman nesia
 kakao - kakau  
 kaktus - katus  
 kalcyt - kalsite  
-kalendarz - kalende  
+kalendarz - kalenda  
 kalif - halif  
 kalifat - halifia  
 kaliforn - kalifornium  
@@ -1057,7 +1057,7 @@ Kazachstan - Kazakia
 kałamarnica (mątwa) - kalmar  
 każdy człowiek, wszyscy - har jan  
 każdy, wszyscy - mei  
-kebab - kababi manse  
+kebab - kababu nama  
 keczup - kechape  
 kelwin - kelvin  
 Kenia - Kenia  
@@ -1292,7 +1292,7 @@ laudacja - euloge
 lawa - yongopetre  
 lazania - lazanya  
 lejek - riutube  
-lekcja - shule  
+lekcja - shula  
 lekki - legi  
 lepić (kleić) - gluta  
 lepki (kleisty) - gluti  
@@ -1515,7 +1515,7 @@ międzynarodowy - nasmedi
 międzyrasowy - rasmedi  
 miękki - komali  
 mięsny (umami) - umami  
-mięso - manse  
+mięso - nama  
 mięta - minte  
 mięta pieprzowa - piprominte  
 mięta wodna - suiminte  
@@ -1644,7 +1644,7 @@ nasienny - semi
 następny (następujący) - posi  
 natura, środowisko - ekia  
 natura, środowisko - tabi  
-nauczyciel - shule guru  
+nauczyciel - shula guru  
 nauczyć się, uczyć się, studiować - shula  
 nauka, badanie, studiowanie - logi  
 Nauru - Nauru  
@@ -1987,7 +1987,7 @@ pierdnięcie - pede
 pierdzieć - peda  
 pierwiastek (jednostki podstawowej) - em  
 pierwszy, numer jeden - unodi  
-pierwszy, początkowy - shuri  
+pierwszy, początkowy - shuru di  
 pierś - sine  
 pierścień - ring  
 pierścień, pierścionek; obrączka - angulring  
@@ -2051,7 +2051,7 @@ pociąg - tren
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
 poczta, budynek poczty - postokan  
-początek - shur  
+początek - shuru  
 pod (poniżej) - nicho  
 podarunek, dar, prezent - don  
 podatek, opłata - takse  
@@ -2269,7 +2269,7 @@ przekąska - lilyam
 przekątny - transogoni  
 przepołowić (podzielić przez dwa) - dulo fena  
 przepraszam! - maf  
-przepękla ogórkowata (balsamka ogórkowata) - alkalomelon  
+przepękla ogórkowata (balsamka ogórkowata) - kali melon  
 przerwać, przerywać - pauza  
 przesilenie - solestas  
 przesilenie letnie (dzień srodka lata) - garmomosimmedi den  
@@ -2330,8 +2330,8 @@ puding - puding
 pudło, skrzynia - sanduke  
 puma (kuguar) - puma  
 punkt - binde  
-pustka - kal  
-pusty - kali  
+pustka - hali  
+pusty - hali  
 pustynia - registan  
 pułapka - kapotruke  
 pyszny - yami  
@@ -2646,7 +2646,7 @@ sos - sos
 sos jabłkowy - aplosaus  
 sos sojowy - soi sos  
 sosna - song  
-spacja - kali harfi  
+spacja - hali harfi  
 spadek, dziedzictwo, spuścizna, zapis - varis  
 spalić, palić - hoga  
 spać - somu  
@@ -2765,7 +2765,7 @@ Szanghaj - shanghai
 szansa - chanse  
 szariat - islam din sharia  
 szary - huirang  
-szaszłyk - shishmanse  
+szaszłyk - shish nama  
 szczepionka - vacin  
 szczoteczka do zębów - dantobrosh  
 szczotka - brosh  
@@ -2780,11 +2780,11 @@ sześcian (kostka) - sisfas
 sześcian - kube  
 sześciokąt (sześciobok) - sisgon  
 sześć (6) - luku  
-szisz kebab - shishkababe  
+szisz kebab - shish kababu  
 szkielet - ostojamia  
 szklić (glazurować) - kanchodaka  
 Szkocja - Eskote  
-szkoła (instytucja) - shulkan  
+szkoła (instytucja) - shula kan  
 szkoła podstawowa - bazoshulkan  
 szkło - kanche  
 szkło wulkaniczne - hogoshani kanche  
@@ -3136,7 +3136,7 @@ wielokąt (wielościan) - polgon
 wielonarodowy - polnasi  
 wieloznaczny - polmeni  
 wielościan - polfas  
-wieprzowina - goro manse  
+wieprzowina - goro nama  
 wiercić, borować - fora  
 wierzyć - shina  
 wierzący (osoba religijna) - din ja  
@@ -3189,7 +3189,7 @@ wolt (V) - volte
 wosk - mum  
 wosko lądowe (armia) - geo gun  
 wow!, łoł!, jej! - va  
-wołowina - mumu manse  
+wołowina - mumu nama  
 wprost (bezpośrednio) - disho  
 wprostowywać (wyprostować) - orta  
 wrzesień - mes luku  
@@ -3317,7 +3317,7 @@ zachwycić się (być zachwyconym) - ajabu
 zachwyt (zdumienie) - ajabia  
 zachód - veste  
 zaczyna (zacząć, rozpoczynać, rozpocząć) - shuru  
-zacząć, zaczynać - shura  
+zacząć, zaczynać - shuru  
 zagranica - eshdesh  
 zagraniczny - eshdeshi  
 zagrożenie, niebezpieczeństwo - hatar  

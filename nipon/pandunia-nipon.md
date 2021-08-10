@@ -22,10 +22,6 @@ ala - 変える
 algofung - 地衣類 (苔癬)  
 algojangle - 藻場  
 ali - 他の  
-alkale - 塩基  
-alkalogusti - 苦い  
-alkalomelon - ツルレイシ (ニガウリ)  
-alkaloranje - ダイダイ  
 amater - アマチュア  
 amen - 正直  
 ami - 愛しい  
@@ -384,6 +380,8 @@ haitate - 海岸
 haki - 権利  
 hal - 状態  
 halaloliste - ホワイトリスト  
+hali - 空  
+hali harfi - 間隔  
 hande - 手  
 handoshake - 腕  
 hapa - 適応する  
@@ -471,7 +469,7 @@ jus - ジュース
 justopaver - 狙撃兵  
 ####K - K  
 ka - より  
-kaboge - カボチャ  
+kaboga - カボチャ  
 kade - 鱈  
 kafe - コーヒー  
 kafokan - カフェ (コーヒー店)  
@@ -479,9 +477,11 @@ kafopote - コーヒーポット
 kaguje - 紙  
 kagujolimon - メキシカンライム (マナオ)  
 kalam - ペン  
-kalende - 暦 (カレンダー)  
-kali - 空  
-kali harfi - 間隔  
+kalenda - 暦 (カレンダー)  
+kali - 塩基  
+kali guste - 苦い  
+kali melon - ツルレイシ (ニガウリ)  
+kali oranje - ダイダイ  
 kalmar - イカ  
 kalsokristal - 大理石  
 kalsomate - 石灰  
@@ -665,7 +665,6 @@ malnomia - 経済学
 man - 男  
 man raja - 王様  
 mangi - 忙しい  
-manse - 肉  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
@@ -757,6 +756,7 @@ najis - 汚れ (汚染)
 najisa - 汚す  
 najisbinde - 染み (汚点)  
 najisi - 汚い  
+nama - 肉  
 name - 名前  
 namkitaba - 署名する (サイン)  
 nasibe - 運命 (宿命)  
@@ -988,14 +988,14 @@ shite - 糞 (屎)
 shopa - 買う  
 shoti - 百 (１００)  
 shula - 学ぶ  
-shule guru - 先生 (教師)  
+shula guru - 先生 (教師)  
+shula kan - 学校  
+shula shefe - 校長  
 shuler - 学生  
 shuli - 修理  
 shuli - 修理する  
 shulija - 修理工  
-shulkan - 学校  
-shulshef - 校長  
-shur - 開始  
+shuru - 開始  
 shusho - しーっ  
 shutu - 術  
 siani - シアン  

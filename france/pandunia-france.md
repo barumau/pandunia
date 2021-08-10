@@ -52,10 +52,6 @@ alge - algue
 algofung - lichen  
 algojangle - forêt de kelp  
 ali - autre  
-alkale - base (alcali)  
-alkali - basique  
-alkalogusti - amer  
-alkaloranje - orange amère  
 alkol - alcool  
 alkoli - alcoolique  
 almari - placard  
@@ -559,6 +555,8 @@ haijel - méduse
 haitate - côte  
 haki - droit  
 hal - état  
+hali - vide  
+hali harfi - espace  
 halo - allô  
 hami - important  
 hande - main  
@@ -666,7 +664,7 @@ jus - jus
 justi - exact (précis)  
 ####K - K  
 ka - que (comme)  
-kaboge - citrouille  
+kaboga - citrouille  
 kade - morue  
 kafe - café  
 kafokan - café  
@@ -674,8 +672,11 @@ kafopote - cafetière
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kalam - plume  
-kalende - calendrier  
-kali harfi - espace  
+kalenda - calendrier  
+kali - base (alcali)  
+kali - basique  
+kali guste - amer  
+kali oranje - orange amère  
 kalmar - calmar (encornet, calamar)  
 kalsite - calcite  
 kalsokristal - marbre  
@@ -871,7 +872,6 @@ man raja - roi
 mangi - occupé  
 manihayistia - manichéisme  
 manir - comportement (manière)  
-manse - viande  
 mantol - cape  
 mantre - mantra  
 mar - fois  
@@ -962,6 +962,7 @@ muzike - musique
 nadiri - rare  
 nadiro - rarement  
 najis - pollution  
+nama - viande  
 namkitaba - signer  
 narde - backgammon  
 nasia - nation  
@@ -1245,23 +1246,23 @@ shingofota - étinceler
 shipa - mouiller  
 shipi - mouillé  
 shish - brochette  
-shishmanse - chachlik  
+shish nama - chachlik  
 shite - merde  
 shopa - acheter  
 shope - shopping  
 shoti - cent (100)  
 shula - apprendre (étudier)  
-shule - leçon  
-shule guru - professeur (enseignant)  
+shula - leçon  
+shula guru - professeur (enseignant)  
+shula kamar - salle de classe  
+shula kan - école (collège)  
+shula shefe - directeur (principal)  
 shuler - étudiant  
 shuli - réparation  
 shuli - réparer  
 shulia - éducation  
 shulija - réparateur  
-shulkamar - salle de classe  
-shulkan - école (collège)  
-shulshef - directeur (principal)  
-shur - début (commencement)  
+shuru - début (commencement)  
 shutu - art  
 si - être  
 sifloge - adjectif  

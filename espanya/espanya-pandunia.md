@@ -104,7 +104,7 @@ Albania - Chipe
 albaricoque - briko  
 albañil (mampostero, cantero) - shekojanger  
 alcachofera - karchof  
-alcalino - alkali  
+alcalino - kali  
 alcohol - alkol  
 alcohólico - alkoli  
 aldea - chun  
@@ -150,7 +150,7 @@ amado (cariño) - ai jen
 amante (enamorado) - ai ja  
 amapola silvestre - medenpapil  
 amar románticamente - romansa  
-amargo - alkalogusti  
+amargo - kali guste  
 amarillo - limonrangi  
 amasar (masajear) - masaje  
 amateur (aficionado) - amater  
@@ -259,7 +259,7 @@ artículo (documento) - papir
 artículo (texto) - makal  
 Aruba - Aruba  
 asar (tostar) - rosta  
-asar - kababa  
+asar - kababu  
 asceta - askete  
 asesino - morter  
 asexual - anseksi  
@@ -368,7 +368,7 @@ barrio (cuartel) - mahala
 barrio pobre - harabu mahala  
 baréin - Bahrain  
 barómetro - airbarmetrer  
-base (álcali) - alkale  
+base (álcali) - kali  
 base - baze  
 bastante - basi  
 basura (desechos) - laje  
@@ -470,7 +470,7 @@ básico - bazi
 béisbol - bazobol  
 Bélgica - Belgia  
 bóxer - bokserpante  
-búbalo (arni) - kabau  
+búbalo (arni) - karbau  
 ####C - ch  
 caballo - uma  
 cabaña - kabin  
@@ -478,7 +478,7 @@ cabeza - sar
 cable - eletrolin  
 Cabo Verde - Kabu Verde  
 cabra - be’e  
-caca - kake  
+caca - kaka  
 cacao - kakau  
 cacto - katus  
 cada - mei  
@@ -497,7 +497,7 @@ cajero - kasher
 cajón (gaveta) - tirsanduke  
 cal - kalsomate  
 calabacín - lilkaboge  
-calabaza - kaboge  
+calabaza - kaboga  
 calabaza china (calabaza de la cera) - mummelon  
 calabaza de peregrino - suikaboge  
 calamar - kalmar  
@@ -508,7 +508,7 @@ calcita - kalsite
 calcular (computar) - komputa  
 calcular - hisaba  
 caldero - daivaze  
-calendario - kalende  
+calendario - kalenda  
 calidad (excelencia, mérito, virtud, ventaja) - bonsifia  
 caliente (cálido) - garmi  
 califa - halif  
@@ -569,9 +569,9 @@ cargar (subir) - netodona
 cargar -   
 cargo - ofis  
 Caribe - Karaibia  
-carne - manse  
-carne de cerdo - goro manse  
-carne de vaca - mumu manse  
+carne - nama  
+carne de cerdo - goro nama  
+carne de vaca - mumu nama  
 carnear (matar) - bucha  
 carnicero - bucher  
 carpa (toldo) - hemah  
@@ -739,13 +739,13 @@ columna - kolum
 coma - kome  
 combava (lima kafir) - karsolimon  
 comedor - yamkamar  
-comenzar (iniciar, empezar) - shura  
+comenzar (iniciar, empezar) - shuru  
 comenzar (iniciarse, empezar) - shuru  
 comer (bebir) - yama  
 comerciar - vendoshopa  
 comercio - vendoshope  
 comida - yam  
-comienzo (inicio, principio) - shur  
+comienzo (inicio, principio) - shuru  
 comilla - chitomarke  
 comino - zire  
 Comoros - Komoro nesia  
@@ -1045,7 +1045,7 @@ dios - deu
 dirección - adres  
 dirección - dish  
 directamente - disho  
-director de colegio - shulshef  
+director de colegio - shula shefe  
 dirigente (líder) - lider  
 dirigir (mandar, conducir, capitanear) - lida  
 disco - diske  
@@ -1236,7 +1236,7 @@ escribir - kitabu
 escritorio (mesa de trabajo) - karmeze  
 escuchar (oír) - ora  
 escudo - defban  
-escuela (colegio, institución) - shulkan  
+escuela (colegio, institución) - shula kan  
 escuela primaria - bazoshulkan  
 escuela secundaria - jungoshulkan  
 esculpir - eskulta  
@@ -1249,8 +1249,8 @@ eslavo - Slave
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - zumarda  
-espacio (separación) - kal  
-espacio (texto) - kali harfi  
+espacio (separación) - hali  
+espacio (texto) - hali harfi  
 espada - katane  
 espalda (lomo) - ruke  
 España - Espanya  
@@ -1895,7 +1895,7 @@ lavadora - vashmashin
 lavar - vasha  
 leal (fiel) - yaushinabli  
 lealtad (fidelidad) - yaushinablia  
-lección - shule  
+lección - shula  
 leche - milke  
 leche de soja - soi milke  
 lecho de roca - bazopetre  
@@ -2020,7 +2020,7 @@ maduro (adulto, curado) - maturi
 maestro (experto) - mester  
 maestro (gurú, sabio, profesor) - guru  
 maestro (profesor) - shifu  
-maestro (profesor, docente) - shule guru  
+maestro (profesor, docente) - shula guru  
 magenta (fucsia) - majenti  
 magia - magia  
 magical - magi  
@@ -2130,7 +2130,7 @@ mejorar - bondarja
 melodioso - melodi  
 melodía - melodia  
 melón - melon  
-melón amargo - alkalomelon  
+melón amargo - kali melon  
 melón cantalupo - kantalupomelon  
 melón coreano - aromomelon  
 melón verde - lugomelon  
@@ -2298,7 +2298,7 @@ Namibia - Namibia
 nano- - nano  
 nanometre - nanomitre  
 naranja - oranje  
-naranjo amargo - alkaloranje  
+naranjo amargo - kali oranje  
 nariz - nos  
 nasal - nosi  
 natrón - natre  
@@ -2500,7 +2500,7 @@ pandemia - pandemi patia
 pandemonio - pandemonia  
 Pandunia - pandunia  
 pandémico - pandemi  
-panecillos al vapor (mantou) - mante  
+panecillos al vapor (mantou) - mantu  
 paneuropeo - paneuropi  
 panqueque (crepa) - krepe  
 panrromántico - panromansi  
@@ -2756,7 +2756,7 @@ presupuesto - bujete
 prever (esperar, pensar) - chenvida  
 previo (anterior) - cheni  
 primavera - hua mosim  
-primer (inicial, inaugural) - shuri  
+primer (inicial, inaugural) - shuru di  
 primer ministro - shefe minister  
 primero (numbre uno) - unodi  
 primo - chin brus ben  
@@ -3458,7 +3458,7 @@ Uzbekistán - Uzbekia
 uña - nahun  
 vaca (toro) - mumu  
 vacuna - vacin  
-vacío (desocupado) - kali  
+vacío (desocupado) - hali  
 vagina - vagina  
 vaginitis - vagina flame  
 vainilla - vanil  

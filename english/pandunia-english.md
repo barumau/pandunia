@@ -60,11 +60,6 @@ alge - alga
 algofung - lichen  
 algojangle - kelp forest  
 ali - other  
-alkale - base (alkali)  
-alkali - alkaline  
-alkalogusti - bitter  
-alkalomelon - bitter melon  
-alkaloranje - bitter orange  
 alkol - alcohol  
 alkoli - alcoholic  
 almari - cupboard (closet, cabinet, wardrobe)  
@@ -1193,7 +1188,7 @@ gon - corner (angle)
 gonmetrer - goniometer  
 gorile - gorilla  
 goro - pig  
-goro manse - pork  
+goro nama - pork  
 goton - cotton  
 grafi - drawing (graph, image)  
 grafi - draw  
@@ -1265,6 +1260,9 @@ halala - allow (permit)
 halali - permissible (allowed, halal)  
 halaloliste - whitelist  
 halela - praise (commend, exalt)  
+hali - void (empty space)  
+hali - empty (void)  
+hali harfi - space (character)  
 halif - caliph  
 halifia - caliphate  
 halo - hello (hi)  
@@ -1585,11 +1583,10 @@ justo - just (exactly, precisely)
 justopaver - sniper (sharpshooter)  
 ####K - K  
 ka - than (as, compared to)  
-kababa - barbecue (grill)  
-kababi manse - grilled meat (kebab)  
-kabau - water buffalo  
+kababu - barbecue (grill)  
+kababu nama - grilled meat (kebab)  
 kabin - cabin (booth)  
-kaboge - squash (pumpkin, gourd)  
+kaboga - squash (pumpkin, gourd)  
 Kabu Verde - Cabo Verde (Cape Verde)  
 kade - cod  
 kadmium - cadmium  
@@ -1602,14 +1599,16 @@ kaguje - paper (material)
 kagujolimon - key lime  
 Kaiman nesia - Cayman Islands  
 kaka - defecate (shit)  
+kaka - excrement (shit)  
 kakau - cocoa  
-kake - excrement (shit)  
-kal - void (empty space)  
 Kalal - Greenland  
 kalam - pen (writing tool)  
-kalende - calendar  
-kali - empty (void)  
-kali harfi - space (character)  
+kalenda - calendar  
+kali - base (alkali)  
+kali - alkaline  
+kali guste - bitter  
+kali melon - bitter melon  
+kali oranje - bitter orange  
 kalifornium - californium  
 Kalisto - Callisto  
 kalium - potassium  
@@ -1670,6 +1669,7 @@ Karaibia - Caribbean
 karaoke - karaoke  
 karate* - karate  
 karau - caraway  
+karbau - water buffalo  
 karbe - carbon (coal)  
 karbodulokside - carbon dioxide  
 karbosui - carbohydrate (saccharide)  
@@ -2160,11 +2160,10 @@ manihayistia - Manichaeism
 Manin nes - Isle of Man  
 manir - behavior (manners)  
 manira - behave (act)  
-manse - meat (flesh)  
-mante - steamed bun (mantou, manti)  
 mantol - cape (cloak, mantle)  
 mantra - chant  
 mantre - mantra  
+mantu - steamed bun (mantou, manti)  
 manyoke - cassava (manioc)  
 mar - time (instance, occasion)  
 marati - Marathi  
@@ -2415,7 +2414,7 @@ mumfote - candle
 mumjan - mummy  
 mummelon - winter melon (wax gourd, ash gourd)  
 mumu - cow  
-mumu manse - beef  
+mumu nama - beef  
 mun - door (gate, portal)  
 mungus - mongoose  
 mur - wall (structure for delimitation)  
@@ -2449,6 +2448,7 @@ najis - corruption (filth, pollution, contamination, najis)
 najisa - corrupt (pollute, soil, defile, stain, taint)  
 najisbinde - stain (spot)  
 najisi - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
+nama - meat (flesh)  
 nama - be called (be named)  
 namana - call (name)  
 name - name  
@@ -3293,8 +3293,8 @@ shir - poem
 shirer - poet  
 shirope - syrup  
 shish - skewer  
-shishkababe - shish kebab  
-shishmanse - shashlik  
+shish kababu - shish kebab  
+shish nama - shashlik  
 shita - defecate (shit)  
 shite - feces (poop, shit)  
 shofa - drive (steer)  
@@ -3306,20 +3306,20 @@ shoper - buyer
 shoti - hundred (100)  
 shou - show (display, exhibition)  
 shula - learn (study)  
-shule - lesson (teaching)  
-shule guru - schoolteacher  
+shula - lesson (teaching)  
+shula guru - schoolteacher  
+shula kamar - classroom  
+shula kan - school (institution)  
+shula shefe - headmaster (principal)  
 shuler - student (pupil, learner)  
 shuli - repair (fix)  
 shuli - repair (fix, mend)  
 shulia - education (schooling)  
 shulija - repairer  
-shulkamar - classroom  
-shulkan - school (institution)  
-shulshef - headmaster (principal)  
-shur - beginning (start, commencement, onset)  
-shura - begin (start, commence, initiate)  
-shuri - initial (first)  
+shuru - beginning (start, commencement, onset)  
+shuru - begin (start, commence, initiate)  
 shuru - begin (get started)  
+shuru di - initial (first)  
 shusha - silence (make silent)  
 shushi - silent  
 shusho - hush (shh)  

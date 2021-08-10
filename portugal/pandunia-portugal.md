@@ -33,9 +33,6 @@ ala - alterar
 alge - alga  
 algojangle - floresta de algas  
 ali - outro  
-alkale - base (álcali)  
-alkali - alcalino  
-alkalogusti - amargo  
 alkol - álcool  
 almari - armário  
 almas - diamante  
@@ -400,6 +397,8 @@ haiporte - porto marítimo
 haitate - costa  
 haki - direito  
 hal - estado  
+hali - vazio  
+hali harfi - espaço  
 halo - alô  
 hami - importante  
 hamili - grávida (prenhe)  
@@ -493,15 +492,17 @@ jus - suco (sumo)
 justi - exato (preciso)  
 ####K - K  
 ka - que (como)  
-kaboge - abóbora (jerimun)  
+kaboga - abóbora (jerimun)  
 kafe - café  
 kafokan - café  
 kafopote - cafeteira  
 kaguje - papel  
 kagujolimon - lima  
 kalam - lápis  
-kalende - calendário  
-kali harfi - espaço  
+kalenda - calendário  
+kali - base (álcali)  
+kali - alcalino  
+kali guste - amargo  
 kalmar - lula (calamar)  
 kalsite - calcita  
 kalsokristal - mármore  
@@ -687,7 +688,6 @@ man raja - rei
 mangi - ocupado (atarefado)  
 manihayistia - maniqueísmo  
 manir - comportamento (conduta)  
-manse - carne  
 mantol - capa  
 mantre - mantra  
 mar - vez  
@@ -773,6 +773,7 @@ na - sem
 nadiri - raro  
 nadiro - raramente  
 najis - poluição  
+nama - carne  
 namkitaba - assinar  
 narde - gamão  
 nasia - nação  
@@ -1025,15 +1026,15 @@ shopa - comprar
 shope - compras  
 shoti - cem (100)  
 shula - aprender  
-shule - lição  
-shule guru - professor (docente)  
+shula - lição  
+shula guru - professor (docente)  
+shula kan - escola (colégio)  
+shula shefe - diretor  
 shuli - reparo  
 shuli - reparar  
 shulia - educação  
 shulija - reparador  
-shulkan - escola (colégio)  
-shulshef - diretor  
-shur - começo (início, princípio)  
+shuru - começo (início, princípio)  
 shutu - arte  
 si - ser (estar)  
 siborgium - seabórgio  

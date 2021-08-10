@@ -81,7 +81,7 @@ alga - alge
 algebra - jebria  
 Algeria - Jayer  
 align (go along) - parlinu  
-alkaline - alkali  
+alkaline - kali  
 alligator - korte krokodil  
 allophone - alofon  
 allow (permit) - halala  
@@ -290,14 +290,14 @@ bar (pub, beer house) - birkan
 bar - bar  
 Barbados - Barbados  
 barbarian - barbar  
-barbecue (grill) - kababa  
+barbecue (grill) - kababu  
 Barbuda - Barbuda  
 barium - barium  
 barley - jau  
 barometer - airbarmetrer  
 barrel (can, cask) - tong  
 barrier (fence) - bara  
-base (alkali) - alkale  
+base (alkali) - kali  
 base (foundation) - baze  
 baseball - bazobol  
 basic - bazi  
@@ -335,14 +335,14 @@ bedrock - bazopetre
 bedroom - somkamar  
 bee nest (beehive, wasp's nest) - vesponide  
 bee or wasp - vespe  
-beef - mumu manse  
+beef - mumu nama  
 beehive (beehouse) - medu vespe sanduke  
 beehive (honeycomb) - medu vespe nide  
 beer - bir  
 beetroot - bete  
 begin (get started) - shuru  
-begin (start, commence, initiate) - shura  
-beginning (start, commencement, onset) - shur  
+begin (start, commence, initiate) - shuru  
+beginning (start, commencement, onset) - shuru  
 behave (act) - manira  
 behavior (manners) - manir  
 Beijing (Peking) - Beijing  
@@ -393,9 +393,9 @@ biscuit (cookie) - biskute
 bisexual - dulseksi  
 bismuth - bismute  
 bite - danta  
-bitter - alkalogusti  
-bitter melon - alkalomelon  
-bitter orange - alkaloranje  
+bitter - kali guste  
+bitter melon - kali melon  
+bitter orange - kali oranje  
 black - siyahi  
 blacklist - haramliste  
 blacksmith (iron forger) - metaljanger  
@@ -524,7 +524,7 @@ calcium (Ca) - kalsium
 calculate - hisaba  
 calculation - hisabu  
 calculus (manipulation of symbolic expressions) - kalkulia  
-calendar - kalende  
+calendar - kalenda  
 californium - kalifornium  
 caliph - halif  
 caliphate - halifia  
@@ -676,7 +676,7 @@ classic (authoritative, definitive) - kanon di
 classic (canon) - kanon  
 classic (classical) - chenyangi  
 classify (categorize) - klasa  
-classroom - shulkamar  
+classroom - shula kamar  
 clay - glutofan  
 clean (pure) - safi  
 clean (purify) - safa  
@@ -1110,7 +1110,7 @@ emotion (feeling) - emos
 emotional (emotive) - emosi  
 emperor - imperer  
 empire - imperia  
-empty (void) - kali  
+empty (void) - hali  
 emulate (simulate, mimic, model) - samsifa  
 Enceladus - Encheladus  
 encode (encrypt) - koda  
@@ -1191,7 +1191,7 @@ exchange (replace, trade, swap) - yeki
 exchange (swap, replace, trade) - badla  
 exclude (keep out) - eshklusa  
 exclusive - eshklusivi  
-excrement (shit) - kake  
+excrement (shit) - kaka  
 exercise - lenshe  
 exist (be present) - zayu  
 exit (get out) - eshtru  
@@ -1520,7 +1520,7 @@ Grenada - Grenada
 grey (gray, ashy) - huirang  
 grief (sorrow) - duke  
 grieve - duku  
-grilled meat (kebab) - kababi manse  
+grilled meat (kebab) - kababu nama  
 grimace - grimas  
 grind (grind in mill) - mola  
 grindstone (millstone) - molsheke  
@@ -1582,7 +1582,7 @@ hay - ganchau
 hazard (chance) - zar  
 he or she or it - ya  
 head - sar  
-headmaster (principal) - shulshef  
+headmaster (principal) - shula shefe  
 heal (cure, remedy) - medika  
 health - salia  
 healthy - sali  
@@ -1738,7 +1738,7 @@ infidel (pagan, heathen, unbeliever) - kafir
 infinity - anlimitia  
 inflammation (-itis) - flame  
 information (communicable knowledge) - konsave  
-initial (first) - shuri  
+initial (first) - shuru di  
 inject - jusha  
 injection - jush  
 ink - moge  
@@ -1939,7 +1939,7 @@ lens - lense
 Lesotho - Soto  
 less (fewer) - mini  
 less - min (mino)  
-lesson (teaching) - shule  
+lesson (teaching) - shula  
 let's - haida  
 letter (character, written symbol) - harfi  
 lettuce - letis  
@@ -2141,7 +2141,7 @@ Mayotte - Mayote
 mean (cruel) - zalim  
 meaning (signification) - mana  
 measure (measurement) - metre  
-meat (flesh) - manse  
+meat (flesh) - nama  
 Mecca - Makah  
 medallion (medal) - medal  
 medicine (field of study) - medikia  
@@ -2751,7 +2751,7 @@ poor (miserable) - miskini
 popular (trendy) - fashoni  
 population - demomultia  
 porcelain (chinaware) - chini  
-pork - goro manse  
+pork - goro nama  
 porn - porne  
 pornography - pornografia  
 port (left side of a ship) - naulefte  
@@ -3097,8 +3097,8 @@ scare (frighten) - foba
 scarf (shawl) - shal  
 scary (frightening) - fobani  
 scent (odor, fragrance, aroma) - arome  
-school (institution) - shulkan  
-schoolteacher - shule guru  
+school (institution) - shula kan  
+schoolteacher - shula guru  
 scissors (shears) - makas  
 scope (viewer) - oskope  
 score (grade) - puntonumbe  
@@ -3170,7 +3170,7 @@ shape (sculpt) - forma
 share - komuna  
 shari'a - islam din sharia  
 shark - sharke  
-shashlik - shishmanse  
+shashlik - shish nama  
 shatter (break into pieces) - parcha  
 shea (vitellaria) - karite  
 sheep - meme  
@@ -3179,7 +3179,7 @@ shell (crust, carapace) - kaske
 shield - defban  
 Shintoism - shindavistia  
 shirt - kamisa  
-shish kebab - shishkababe  
+shish kebab - shish kababu  
 shock (collision) - shoke  
 shoemaker - sapater  
 shoemaker's shop - sapatokan  
@@ -3305,7 +3305,7 @@ southern - sudi
 soy bean - soi  
 soy milk - soi milke  
 soy sauce - soi sos  
-space (character) - kali harfi  
+space (character) - hali harfi  
 space (cosmos, universe) - kosmia  
 spaceship - kosmonau  
 Spain - Espanya  
@@ -3335,7 +3335,7 @@ spouse (husband or wife) - gam
 spring (springtime) - hua mosim  
 spruce tree - pise  
 square (tetragon) - chargon  
-squash (pumpkin, gourd) - kaboge  
+squash (pumpkin, gourd) - kaboga  
 squeeze (squish) - inpusha  
 squid (cuttlefish) - kalmar  
 squirrel - ekore  
@@ -3360,7 +3360,7 @@ stay behind (linger) - lashu
 steal - chora  
 stealth - siri mote  
 steam (vapor) - suigas  
-steamed bun (mantou, manti) - mante  
+steamed bun (mantou, manti) - mantu  
 stem (torso, trunk, stalk) - tan  
 step (degree, rank, grade, level, class) - darje  
 step-child - gamben  
@@ -3798,7 +3798,7 @@ visitation (visit) - kege
 visitor (guest) - keger  
 visual field (field of vision) - vidomeden  
 vocabulary (lexicon) - logia  
-void (empty space) - kal  
+void (empty space) - hali  
 volcanic glass - hogoshani kanche  
 volcano - hogoshan  
 volt (V) - volte  
@@ -3825,7 +3825,7 @@ wash - vasha
 washing machine - vashmashin  
 Washington D####C - Vashington Dch  
 water - sui  
-water buffalo - kabau  
+water buffalo - karbau  
 water lily (nenuphar) - nenufar  
 watercolor - suirang  
 watermelon - arbuze  

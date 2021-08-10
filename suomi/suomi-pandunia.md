@@ -75,14 +75,14 @@ alkaa - shuru
 alkoholi - alkol  
 alkoholinen - alkoli  
 alkovi - nish  
-alku - shur  
+alku - shuru  
 alkuaine - kimem  
 alkuperä - asle  
 alkuperäinen - asli  
 alla - nicho  
 allas - basen  
 allofoni (vaihtoehtoinen ääntämys) - alofon  
-aloittaa - shura  
+aloittaa - shuru  
 alttari - puja meza  
 alue (seutu) - aria  
 alue (seutu) - istan  
@@ -346,8 +346,8 @@ elävä (elää) - jivi
 elävä (orgaaninen) - bio  
 emiiri - amir ja  
 emiirikunta - amiria  
-emäksinen (alkalinen) - alkali  
-emäs - alkale  
+emäksinen (alkalinen) - kali  
+emäs - kali  
 emätin (vagina) - vagina  
 emätintulehdus - vagina flame  
 endonyymi (omakielinen nimi) - innam  
@@ -365,7 +365,7 @@ ennen (aikaisemmin, aiemmin) - cheno
 ennennäkemätön - anchenvidi  
 ennustaa (nähdä ennalta) - chenvida  
 ennustettu - chenvidi  
-ensimmäinen (alku-) - shuri  
+ensimmäinen (alku-) - shuru di  
 ensimmäinen (numero yksi) - unodi  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anativi  
@@ -477,7 +477,7 @@ gramma - gram
 graniitti - granite  
 Grenada - Grenada  
 Grenadiinit - Grenadin nesia  
-grillata (kärventää) - kababa  
+grillata (kärventää) - kababu  
 Grönlanti - Kalal  
 Guadeloupe - Guadelupe  
 Guam - Guam  
@@ -921,7 +921,7 @@ kaksisiipinen - zeze
 kaktus - katus  
 kala - pesh  
 kalastaja - peshosaider  
-kalenteri - kalende  
+kalenteri - kalenda  
 kalifaatti - halifia  
 kalifi - halif  
 kalifornium - kalifornium  
@@ -1008,7 +1008,7 @@ kaupunki - citi
 kaupunki - nagre  
 kaura - aven  
 Kazakstan - Kazakia  
-kebab (grilliliha) - kababi manse  
+kebab (grilliliha) - kababu nama  
 kehitys - darjomute  
 keho (ruumis) - bode  
 kehonrakennus (bodaus) - muskulbin  
@@ -1136,7 +1136,7 @@ kirsikka - cheri
 kirves - futau  
 kissa - mau  
 kitara - gitar  
-kitkerä (karvas) - alkalogusti  
+kitkerä (karvas) - kali guste  
 kivennäinen (mineraali) - kuang  
 kivennäisvesi - kuangosui  
 kivi (hippu) - sheke  
@@ -1219,7 +1219,7 @@ Kosovo - Kosovo
 kosteuttaa - shipa  
 koti- - domi  
 koukku (haka) - huke  
-koulu (opisto) - shulkan  
+koulu (opisto) - shula kan  
 koulutus - shulia  
 kova - gati  
 Kreikka - Helen  
@@ -1414,7 +1414,7 @@ lautanen - platotas
 lautapeli - ban gem  
 lava - tai  
 lawrensium - lorencium  
-lehmän liha - mumu manse  
+lehmän liha - mumu nama  
 lehti (arkki, levy) - varke  
 lehti (sanomalehti) - gazete  
 lehtisalaatti - letis  
@@ -1448,7 +1448,7 @@ Libya - Libia
 Liechtenstein - Lihtenstain  
 Liettua - Lietuva  
 liettualainen - lietuva bash  
-liha - manse  
+liha - nama  
 lihas - muskul  
 lihavoitu kirjain - gros harfi  
 liian vähän - min ka bas  
@@ -1515,7 +1515,7 @@ lumme - nenufar
 luodinkestävä - dansekuri  
 luokitella (kategorisoida) - klasa  
 luokka (kategoria) - klas  
-luokkahuone - shulkamar  
+luokkahuone - shula kamar  
 luokse (tykö, kohti, asti) - do  
 luola - gua  
 luolaseikkailu - donjon aventur  
@@ -1982,10 +1982,10 @@ onnitella (siunata) - barka
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gida  
 opetta (aate, ismi, ideologia, uskonto, jne) - giau  
-opettaja - shule guru  
+opettaja - shula guru  
 opiskelija - estuder  
 opiskella (tutkia) - estuda  
-oppi (opetus) - shule  
+oppi (opetus) - shula  
 oppia (opiskella) - shula  
 oppilas - shuler  
 oranssi - oranji  
@@ -2398,7 +2398,7 @@ rauhanaate (pasifismi) - pachistia
 rauta - fere  
 ravintola - restorante  
 rehellinen (totisesti, aamen) - amen  
-rehtori - shulshef  
+rehtori - shula shefe  
 reikä - kong  
 rengas (kehä) - ring  
 repeämä - chir  
@@ -2530,7 +2530,7 @@ sarja - silia
 sarjakuva - grafi kata  
 sarvi - korne  
 sarvikuono - kornonos  
-saslik - shishmanse  
+saslik - shish nama  
 sata (100) - shoti  
 sata tuhatta - des kilo  
 sataa -   
@@ -2597,7 +2597,7 @@ seuraus - pos
 seurustella (toimia yhdessä) - sosa  
 seutu (maa) - tope  
 Seychellit - Seshel nesia  
-sianliha - goro manse  
+sianliha - goro nama  
 side (remmi) - fashe  
 siellä (tuolla) - an u loka  
 siemen - seme  
@@ -3057,8 +3057,8 @@ tutkielma - estude
 tuuli (puhallus) - hava  
 tuulla (puhaltaa) - hava  
 Tuvalu - Tuvalu  
-tyhjä - kali  
-tyhjö - kal  
+tyhjä - hali  
+tyhjö - hali  
 tyhmyys (typeryys) - idiotia  
 tyhmä (hölmö) - idioti  
 tykki - daipau  
@@ -3095,7 +3095,7 @@ tärkeä - hami
 täydellinen (täysin hyvä) - purboni  
 täysi - puri  
 täysin - puro  
-täytetty pulla - mante  
+täytetty pulla - mantu  
 täyttää - pura  
 täytyä (olla pakko) - debu  
 törkeä - nindi  
@@ -3116,7 +3116,7 @@ ulkosyntyinen - eshojeni
 uloskäynti - chutomun  
 ulospäinsuuntautunut (ekstrovertti) - eshtroversi  
 ulostaa (kakata) - kaka  
-uloste (kakka) - kake  
+uloste (kakka) - kaka  
 ulottuvilla - aksesabli  
 ulvoa - ulula  
 ulvonta - ulul  
@@ -3217,7 +3217,7 @@ varjo - saya
 varkaus - chor  
 varma - ameni  
 varras - shish  
-varraskebab - shishkababe  
+varraskebab - shish kababu  
 vartalo (varsi, torso) - torse  
 vartija (vahti) - garder  
 vartioida (vahtia) - garda  
@@ -3261,7 +3261,7 @@ vertainen - parike
 vesi - sui  
 vesimeloni - arbuze  
 vesinokkaeläin - bata krote  
-vesipuhveli - kabau  
+vesipuhveli - karbau  
 vesitiivis - suisekuri  
 vesiväri (akvarelliväri) - suirang  
 vessa - tualete  

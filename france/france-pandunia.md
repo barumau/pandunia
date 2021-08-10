@@ -60,7 +60,7 @@ aluminium - alumin
 alun - aluminmate  
 amande - badam  
 amateur - amater  
-amer - alkalogusti  
+amer - kali guste  
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
 amiral - hai amir ja  
 amour (affection) - ai  
@@ -199,11 +199,11 @@ barrière - bara
 baryum - barium  
 bas - tal  
 bas - tali  
-base (alcali) - alkale  
+base (alcali) - kali  
 base - baze  
 base de données - datobanke  
 baseball - bazobol  
-basique - alkali  
+basique - kali  
 basketball - baske bol  
 bassin - basen  
 bateau - nau  
@@ -275,7 +275,7 @@ caillou - lilsheke
 calcaire - kalsopetre  
 calcite - kalsite  
 calculer - hisaba  
-calendrier - kalende  
+calendrier - kalenda  
 caleçon - bokserpante  
 calmar (encornet, calamar) - kalmar  
 calme (tranquille) - shanti  
@@ -308,7 +308,7 @@ Centaurée bleuet - nilchentaur
 Centaurée du solstice - solchentaur  
 centre - jung  
 cerise - cheri  
-chachlik - shishmanse  
+chachlik - shish nama  
 chambre à coucher - somkamar  
 Champagne - shampan  
 champagne - shampan vin  
@@ -351,7 +351,7 @@ cimetière - gabur istan
 cinq (5) - penta  
 cirse commun - perkardon  
 citron - limon  
-citrouille - kaboge  
+citrouille - kaboga  
 clair - klari  
 classique (canon) - kanon  
 client - klien  
@@ -455,7 +455,7 @@ dimanche - var sete
 dinde (dindon) - dinde  
 diorite - diorite  
 dioxyde de carbone - karbodulokside  
-directeur (principal) - shulshef  
+directeur (principal) - shula shefe  
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
@@ -482,7 +482,7 @@ durée - dur
 dynamite - dinamite  
 dé - zarkube  
 déboguer (débugger) - angalta  
-début (commencement) - shur  
+début (commencement) - shuru  
 décapé (mariné) - suanpurshipi  
 déchirer - chir  
 déchirer - chira  
@@ -520,7 +520,7 @@ envelopper (emballer) - lifafa
 erroné - galti  
 escroquer - truka  
 espace (zone, région) - aria  
-espace - kali harfi  
+espace - hali harfi  
 estrade - tai  
 et - e  
 ethnie - zuke  
@@ -760,7 +760,7 @@ lentille - lense
 Lettonie - Latvia  
 leur - yamen di  
 lexical - logi  
-leçon - shule  
+leçon - shula  
 libellule - libele  
 libre - huri  
 lichen - algofung  
@@ -948,7 +948,7 @@ option - chuzable
 or - aure  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
-orange amère - alkaloranje  
+orange amère - kali oranje  
 orange douce - sukaroranje  
 orchidée - orkide  
 ordinaire (habituel, normal) - adi  
@@ -1100,7 +1100,7 @@ pression atmosphérique - airbaria
 preuve - dalil  
 problème - problem  
 problématique - problemi  
-professeur (enseignant) - shule guru  
+professeur (enseignant) - shula guru  
 profession (métier) - peikar  
 profond - fasteli  
 programme - program  
@@ -1196,7 +1196,7 @@ sagesse - sofita
 sain - sali  
 saison - mosim  
 salle de bains - banya kamar  
-salle de classe - shulkamar  
+salle de classe - shula kamar  
 salut (salam) - salame  
 samedi - var luku  
 Samoa américaines - Amerika Samoa  
@@ -1379,8 +1379,9 @@ verse (face á) - versu
 verser - versa  
 vert - lugi  
 veuve - vidou  
-viande - manse  
+viande - nama  
 vice-roi - visrajer  
+vide - hali  
 vie - jiu  
 vierge - virje  
 vieux (ancien) - cheniki  
@@ -1435,7 +1436,7 @@ zèbre - zebre
 éblouir (étonner, stupéfier, surprendre) - ajaba  
 échec - shibai  
 échelle - shalke  
-école (collège) - shulkan  
+école (collège) - shula kan  
 école primaire - bazoshulkan  
 école secondaire - jungoshulkan  
 économie - malnomia  

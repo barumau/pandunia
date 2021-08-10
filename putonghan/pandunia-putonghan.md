@@ -30,9 +30,6 @@ alge - 藻类
 algofung - 地衣  
 algojangle - 海藻林  
 ali - 另一  
-alkale - 碱性  
-alkalogusti - 苦的  
-alkalomelon - 苦瓜  
 alkol - 酒  
 almari - 碗碟橱  
 almas - 钻石  
@@ -385,6 +382,8 @@ haiporte - 海港
 haitate - 海岸  
 haki - 权利  
 hal - 状态  
+hali - 空的  
+hali harfi - 空隙  
 halo - 哈啰 (哈喽)  
 hami - 重要  
 hamili - 怀孕  
@@ -476,7 +475,7 @@ Jupiter - 木星
 jus - 汁  
 ####K - K  
 ka - 比  
-kaboge - 南瓜  
+kaboga - 南瓜  
 kade - 鱈  
 kafe - 咖啡  
 kafokan - 咖啡馆  
@@ -484,8 +483,10 @@ kafopote - 咖啡壶
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kalam - 笔  
-kalende - 日历  
-kali harfi - 空隙  
+kalenda - 日历  
+kali - 碱性  
+kali guste - 苦的  
+kali melon - 苦瓜  
 kalmar - 鱿鱼  
 kalsite - 方解石  
 kalsokristal - 大理石  
@@ -673,7 +674,6 @@ mana - 意义
 mangi - 忙  
 manihayistia - 摩尼教  
 manir - 方式  
-manse - 肉  
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
@@ -752,6 +752,7 @@ muzike - 音乐
 nadiro - 很少  
 najis - 污染物  
 najisa - 污染  
+nama - 肉  
 namkitaba - 签署  
 nasibe - 命運  
 nasmedi - 国际  
@@ -974,7 +975,7 @@ shipa - 弄湿
 shipi - 湿  
 shir - 诗  
 shish - 扦子  
-shishmanse - 串烧  
+shish nama - 串烧  
 shite - 粪 (屎)  
 shofa - 开车  
 shofer - 司机  
@@ -982,17 +983,17 @@ shopa - 买
 shope - 购物 (血拼)  
 shoti - सौ  
 shula - 学习  
-shule - 课  
-shule guru - 教师 (老师)  
+shula - 课  
+shula guru - 教师 (老师)  
+shula kan - 学校  
+shula shefe - 校长  
 shuler - 学生  
 shuli - 修理  
 shuli - 修理  
 shulia - 教育  
 shulija - 修理工人  
-shulkan - 学校  
-shulshef - 校长  
-shur - 开始  
-shura - 开始  
+shuru - 开始  
+shuru - 开始  
 shusho - 噓  
 shutu - 技术  
 si - 对  

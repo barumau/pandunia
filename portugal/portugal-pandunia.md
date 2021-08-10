@@ -4,7 +4,7 @@ abater - bucha
 abelha ou vespa - vespe  
 abeto - abies  
 abobrinha - lilkaboge  
-abóbora (jerimun) - kaboge  
+abóbora (jerimun) - kaboga  
 acanto-bastardo - pinkardon  
 acento - acente  
 acesso - acesa  
@@ -31,7 +31,7 @@ ainda - zoko
 alaranjado - oranji  
 alcachofra - karchof  
 alcachofra-girassol (tupinambo) - masmulsolful  
-alcalino - alkali  
+alcalino - kali  
 alcaravia (cariz) - karau  
 aldeia (vila) - chun  
 alface - letis  
@@ -47,7 +47,7 @@ alterar - ala
 alô - halo  
 amador - amater  
 amante - ai ja  
-amargo - alkalogusti  
+amargo - kali guste  
 ameixa - plum  
 amor - ai  
 amêndoa - badam  
@@ -125,7 +125,7 @@ barco (navio) - nau
 barra de chocolate - choklatobaton  
 barrar - bara  
 barreira - bara  
-base (álcali) - alkale  
+base (álcali) - kali  
 base - baze  
 basebol (beisebol) - bazobol  
 basketball - baske bol  
@@ -174,7 +174,7 @@ cal - kalsomate
 calcita - kalsite  
 calcular - hisaba  
 calcário - kalsopetre  
-calendário - kalende  
+calendário - kalenda  
 calças - pante  
 camarão - krevete  
 camisa - kamisa  
@@ -196,7 +196,7 @@ careta (esgar) - grimas
 carga (peso) - bari  
 Caribe - Karaibia  
 carimbo - postomarke  
-carne - manse  
+carne - nama  
 carrapato (ácaros) - akare  
 carregar -   
 carreira - peikari jiu  
@@ -253,7 +253,7 @@ colher - chamache
 colocar (pôr) - loka  
 combava - karsolimon  
 combinar com - konboni  
-começo (início, princípio) - shur  
+começo (início, princípio) - shuru  
 como - ko?  
 compaixão - samemos  
 complô (conspiração) - sirplan  
@@ -338,7 +338,7 @@ dinheiro - pese
 diorito - diorite  
 direito - haki  
 direitos humanos - insani hake  
-diretor - shulshef  
+diretor - shula shefe  
 disco - diske  
 discordar - aloraya  
 diário de bordo - loge buke  
@@ -388,7 +388,7 @@ errôneo - galti
 erva marinha - haichau  
 escama - shalke  
 escavar - eshkava  
-escola (colégio) - shulkan  
+escola (colégio) - shula kan  
 escovinha (centáurea) - nilchentaur  
 escrevere - kitabu  
 escudo - defban  
@@ -398,7 +398,7 @@ esfarrapado - chirchiri
 eslavo - Slave  
 esmeralda - zumarda  
 espada - katane  
-espaço - kali harfi  
+espaço - hali harfi  
 espetador - speter  
 espirrar - achi  
 espodossolo - huidarte  
@@ -626,7 +626,7 @@ literatura - kitabu shutu
 litro - litre  
 livre (forro) - huri  
 livro - buke  
-lição - shule  
+lição - shula  
 local - loki  
 longo - longi  
 lontra - lontre  
@@ -913,7 +913,7 @@ preferir - mashfila
 preto - siyahi  
 primo - chin brus ben  
 problema - problem  
-professor (docente) - shule guru  
+professor (docente) - shula guru  
 profissão - peikar  
 profundo - fasteli  
 programa - program  
@@ -1156,6 +1156,7 @@ vapor - suigas
 vara (bastão) - baton  
 vaso de flores - hua pote  
 vazar - lova  
+vazio - hali  
 vegetalista - purfityamiste  
 vegetariano - fityamiste  
 velho (antigo) - cheniki  

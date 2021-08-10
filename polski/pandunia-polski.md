@@ -48,9 +48,6 @@ alge - alga (wodorost)
 algofung - porost  
 algojangle - las wodorostów  
 ali - inny  
-alkalogusti - gorzki  
-alkalomelon - przepękla ogórkowata (balsamka ogórkowata)  
-alkaloranje - gorzka pomarańcza  
 alkol - alkohol  
 alkoli - alkoholowy  
 almari - kredens (szafa, szafka)  
@@ -1045,7 +1042,7 @@ gon - kąt
 gonmetrer - goniometr (kątomierz)  
 gorile - goryl  
 goro - świnia  
-goro manse - wieprzowina  
+goro nama - wieprzowina  
 goton - bawełna  
 grafi - opis, przedstawienie; wykres  
 grafi - opisywać, ilustorawć; przedstawiać  
@@ -1115,6 +1112,9 @@ hal - stan
 halala - pozwolić, pozwalać, zezwolić, zezwalać  
 halali - dozwolony (dopuszczalny, zezwolony, halal)  
 halela - chwalić (wychwalać)  
+hali - pustka  
+hali - pusty  
+hali harfi - spacja  
 halif - kalif  
 halifia - kalifat  
 halo - halo, cześć  
@@ -1385,11 +1385,10 @@ justo - dokładnie (precyzyjnie, tylko)
 justopaver - snajper (strzelec wyborowy)  
 ####K - K  
 ka - jak, niż, od  
-kababa - grillować  
-kababi manse - kebab  
-kabau - bawół domowy  
+kababu - grillować  
+kababu nama - kebab  
 kabin - kabina, budka  
-kaboge - kabaczek (dynia, tykwa)  
+kaboga - kabaczek (dynia, tykwa)  
 Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
 kade - dorsz  
 kadmium - kadm  
@@ -1402,14 +1401,14 @@ kaguje - papier
 kagujolimon - lima (limonka)  
 Kaiman nesia - Kajmany  
 kaka - defekować, srać  
+kaka - ekskrement, gówno  
 kakau - kakao  
-kake - ekskrement, gówno  
-kal - pustka  
 Kalal - Grenlandia  
 kalam - pióro, długopis  
-kalende - kalendarz  
-kali - pusty  
-kali harfi - spacja  
+kalenda - kalendarz  
+kali guste - gorzki  
+kali melon - przepękla ogórkowata (balsamka ogórkowata)  
+kali oranje - gorzka pomarańcza  
 kalifornium - kaliforn  
 kalium - potas  
 kalkulia - rachunek (formalny system obliczeń)  
@@ -1462,6 +1461,7 @@ Karaibia - Karaiby
 karaoke - karaoke  
 karate* - karate  
 karau - kminek  
+karbau - bawół domowy  
 karbe - węgiel  
 karbodulokside - dwutlenek węgla  
 karchof - karczoch zwyczajny  
@@ -1914,9 +1914,8 @@ manihayistia - manicheizm
 Manin nes - Wyspa Man  
 manir - zachowanie (maniery, kultura)  
 manira - zachowywać się (działać)  
-manse - mięso  
-mante - bułka gotowana na parze  
 mantol - peleryna (płaszcz, opończa)  
+mantu - bułka gotowana na parze  
 manyoke - maniok  
 mar - czas; okazja  
 marati - marathi  
@@ -2149,7 +2148,7 @@ mumfote - świeca
 mumjan - mumia  
 mummelon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 mumu - krowa  
-mumu manse - wołowina  
+mumu nama - wołowina  
 mun - drzwi, brama, portal  
 mungus - mangusta  
 mur - mur, ściana  
@@ -2177,6 +2176,7 @@ nagre - miasto
 nagri - miejski  
 nahun - paznokieć  
 Naijiria - Nigeria  
+nama - mięso  
 nama - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 namana - nazwać, nazywać, wezwać, wzywać  
 name - imię, nazwa  
@@ -2951,8 +2951,8 @@ shir - poemat
 shirer - poeta  
 shirope - syrop  
 shish - rożen (szpikulec)  
-shishkababe - szisz kebab  
-shishmanse - szaszłyk  
+shish kababu - szisz kebab  
+shish nama - szaszłyk  
 shita - srać (robić gówno)  
 shite - gówno  
 shofa - prowadzić pojazd  
@@ -2964,18 +2964,18 @@ shoper - nabywca (kupiec)
 shoti - sto (100)  
 shou - pokaz, ekspozycja, wystawa  
 shula - nauczyć się, uczyć się, studiować  
-shule - lekcja  
-shule guru - nauczyciel  
+shula - lekcja  
+shula guru - nauczyciel  
+shula kan - szkoła (instytucja)  
+shula shefe - dyrektor szkoły  
 shuler - uczeń, student  
 shuli - naprawa  
 shuli - naprawić, naprawiać  
 shulija - naprawiacz  
-shulkan - szkoła (instytucja)  
-shulshef - dyrektor szkoły  
-shur - początek  
-shura - zacząć, zaczynać  
-shuri - pierwszy, początkowy  
+shuru - początek  
+shuru - zacząć, zaczynać  
 shuru - zaczyna (zacząć, rozpoczynać, rozpocząć)  
+shuru di - pierwszy, początkowy  
 shusha - uciszyć (uciszać)  
 shushi - cichy  
 shusho - ćsi  

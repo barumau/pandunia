@@ -56,11 +56,6 @@ alge - alga
 algofung - liquen  
 algojangle - bosque de algas  
 ali - otro  
-alkale - base (álcali)  
-alkali - alcalino  
-alkalogusti - amargo  
-alkalomelon - melón amargo  
-alkaloranje - naranjo amargo  
 alkol - alcohol  
 alkoli - alcohólico  
 almari - armario  
@@ -1076,7 +1071,7 @@ gon - esquina (rincón, ángulo)
 gonmetrer - goniómetro (medidor de ángulos)  
 gorile - gorila  
 goro - cerdo (puerco)  
-goro manse - carne de cerdo  
+goro nama - carne de cerdo  
 goton - algodón  
 grafi - imagen (gráfico, dibujo)  
 grafi - dibujar (trazar)  
@@ -1144,6 +1139,9 @@ halala - permitir (dejar)
 halali - permitido (admisible)  
 halaloliste - lista blanca  
 halela - elogiar (alabar, exaltar)  
+hali - espacio (separación)  
+hali - vacío (desocupado)  
+hali harfi - espacio (texto)  
 halif - califa  
 halifia - califato  
 halo - aló  
@@ -1431,10 +1429,9 @@ justo - justo (exactamente)
 justopaver - francotirador  
 ####K - K  
 ka - que (como)  
-kababa - asar  
-kabau - búbalo (arni)  
+kababu - asar  
 kabin - cabaña  
-kaboge - calabaza  
+kaboga - calabaza  
 Kabu Verde - Cabo Verde  
 kade - bacalao  
 kadmium - cadmio  
@@ -1447,14 +1444,16 @@ kaguje - papel
 kagujolimon - limero  
 Kaiman nesia - islas Caimán  
 kaka - defecar  
+kaka - caca  
 kakau - cacao  
-kake - caca  
-kal - espacio (separación)  
 Kalal - Groenlandia  
 kalam - bolígrafo  
-kalende - calendario  
-kali - vacío (desocupado)  
-kali harfi - espacio (texto)  
+kalenda - calendario  
+kali - base (álcali)  
+kali - alcalino  
+kali guste - amargo  
+kali melon - melón amargo  
+kali oranje - naranjo amargo  
 kalifornium - californio  
 kalium - potasio  
 kalkulia - cálculo  
@@ -1504,6 +1503,7 @@ Karaibia - Caribe
 karaoke - karaoke  
 karate* - karate  
 karau - carvis (alcaravea)  
+karbau - búbalo (arni)  
 karbe - carbón  
 karbodulokside - dióxido de carbono  
 karbosui - carbohidrato  
@@ -1953,11 +1953,10 @@ manihayistia - maniqueísmo
 Manin nes - Isla de Man  
 manir - comportamiento (conducta)  
 manira - comportarse (portarse)  
-manse - carne  
-mante - panecillos al vapor (mantou)  
 mantol - capa (manto)  
 mantra - salmodiar  
 mantre - mantra  
+mantu - panecillos al vapor (mantou)  
 manyoke - yuca (mandioca)  
 mar - vez  
 marati - maratí  
@@ -2186,7 +2185,7 @@ mumfote - vela (candela, cirio)
 mumjan - momia  
 mummelon - calabaza china (calabaza de la cera)  
 mumu - vaca (toro)  
-mumu manse - carne de vaca  
+mumu nama - carne de vaca  
 mun - puerta  
 mungus - mangosta  
 mur - muro (muralha)  
@@ -2219,6 +2218,7 @@ najis - contaminación (corrupción, porquería, suciedad)
 najisa - corromper (contaminar)  
 najisbinde - mancha  
 najisi - sucio (corrompido)  
+nama - carne  
 nama - llamarse  
 namana - llamar (poner)  
 name - nombre  
@@ -3016,19 +3016,19 @@ shoper - comprador
 shoti - cien (100)  
 shou - exposición (espectáculo)  
 shula - aprender (estudiar)  
-shule - lección  
-shule guru - maestro (profesor, docente)  
+shula - lección  
+shula guru - maestro (profesor, docente)  
+shula kan - escuela (colegio, institución)  
+shula shefe - director de colegio  
 shuler - estudiante  
 shuli - arreglo  
 shuli - reparar (arreglar)  
 shulia - educación  
 shulija - reparador  
-shulkan - escuela (colegio, institución)  
-shulshef - director de colegio  
-shur - comienzo (inicio, principio)  
-shura - comenzar (iniciar, empezar)  
-shuri - primer (inicial, inaugural)  
+shuru - comienzo (inicio, principio)  
+shuru - comenzar (iniciar, empezar)  
 shuru - comenzar (iniciarse, empezar)  
+shuru di - primer (inicial, inaugural)  
 shushi - silencioso  
 shusho - chito (chist)  
 shutu - dotes (arte, habilidad)  
