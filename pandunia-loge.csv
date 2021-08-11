@@ -16,8 +16,8 @@ adres harfi||||@ symbol|arobase (@)|arroba (@)||||||||||||||@-merkki|małpa (zna
 Afgan|desha|AF||Afghanistan|Afghanistan|Afganistán|Afeganistão|Афганистан||阿富汗|アフガニスタン|아프가니스탄||अफ़्ग़ानिस्तान||Afghanistan||Afganistan|Afganujo, Afganio|Afganistan|Afganistan
 Afrika|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|Africa|Afrique|África|||||||||||||Afriko|Afrikka|Afryka
 agile|||eng:fra:agile, spa:por:ágil, deu:agil|agile|agile|ágil|ágil|подвижный||灵活的||||फुर्तीला||lincah||çevik|lerta|ketterä|zwinny, sprawny
-agra||||cultivate (farm)|cultiver|cultivar|cultivar|выращивать||||||||||||viljellä|uprawić, uprawiać
-agre||||agriculture|||||||||||||||agrikulturo|viljely|
+agro||||cultivate (farm)|cultiver|cultivar|cultivar|выращивать||||||||||||viljellä|uprawić, uprawiać
+agro shutu||||agriculture|||||||||||||||agrikulturo|viljely|
 agrer||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
 agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
 agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
@@ -2228,7 +2228,7 @@ maze|||hin:मोज़ा (mozā), ben:মোজা (moja), urd: موزا‎ (m
 mecha||||compete (have a match)||competir||||||||||||||otella|konkurować, rywalizować; odbyć mecz, odbywać mecz
 meche|||eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|match (contest)|match|partido|partida|матч||比赛|試合 (競技)|경기||मैच|ম্যাচ|perlawanan|mechi|||ottelu (matsi)|mecz, rywalizacja
 medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|medallion (medal)||medallón||||||||||||||mitali|medalion, medal
-mede||||middle (the part in between)||medio|meio (metade)|||||||||||||väli|środek
+medi||||middle (the part in between)||medio|meio (metade)|||||||||||||väli|środek
 meden|||ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)|مَيْدَان‎|广场|広場|광장|quảng trường|मैदान|ময়দান||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
 medenfobia||||agoraphobia||agorafobia||||||||||||||agorafobia (avaran paikan kammo)|agorafobia
 medeni||||open (wide, spacious)||abierto (extenso)||||||||||||||avara (aava, aukea)|otwarty (przestrzenny)
@@ -3908,67 +3908,63 @@ yumoriste||||humorist||humorista|||||||||||||humuristo|humoristi|komik
 yuterbium|mate|Yb||ytterbium||iterbio|||||||||||||iterbio|ytterbium|iterb
 yutrium|mate|Y||yttrium||itrio|||||||||||||itrio|yttrium|itr
 Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
-zai||||present (here, now, current situation)||actualidad|||||||||||||||
+zai|||zho:在 (zài), jpn:在 (zai), vie:tại|exist (presently, currently)||existir (actualmente)|||||ある (いる)|||||||||olla olemassa|istnieć
 zai den||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, dzisiaj
-zai zam||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
-zai zam di||||current (contemporary, present-day)|actuel (courant)|actual|corrente (atual)|нынешний||现在的|現行|현행의|||||||nuna|nykyinen (tämänhetkinen)|bieżący (aktualny, obecny)
+zai zaman||||present time (now)||presente (actualidad)|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
+zai zaman di||||current (contemporary, present-day)|actuel (courant)|actual|corrente (atual)|нынешний||现在的|現行|현행의|||||||nuna|nykyinen (tämänhetkinen)|bieżący (aktualny, obecny)
 zaitun|bio||ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|olive||aceituna|||||||||||||olivo|oliivi|oliwka
 zalim|||ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|mean (cruel)||mezquino (antipático, cruel)||||||||||||||ilkeä (julma)|złośliwy, okrutny
 zalim raja||||tyrant (despot)||tirano (déspota)||тиран (деспот)|||暴君|||तानाशाह||penzalim (raja lalim)||zorba (zalim)||tyranni|tyran
 zalimta||||cruelty (tyranny, despotism)||crueldad (tiranía)||||||||||||||tyrannia|tyrania
-zam|||may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|time|temps|tiempo|tempo||زَمَن‎|时间|時間|시간|thời gian|समय|সময়|jam (waktu)|zamani (wakati)|zaman|tempo|aika|czas
+zaman|||may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|time|temps|tiempo|tempo||زَمَن‎|时间|時間|시간|thời gian|समय|সময়|jam (waktu)|zamani (wakati)|zaman|tempo|aika|czas
 Zambia|desha|ZM||Zambia||Zambia||Замбия|||||||||||Zambio|Sambia|Zambia
 zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|hazard (chance)||riesgo (posibilidad)|||||||||||||hazardo|sattuma (onni)|niebezpieczeństwo, ryzyko, szansa
 Zardush||||Zoroaster|Zoroastre|Zoroastro||Зороастр|||||||||||Zoroastro|Zarathustra|Zaratusztra
 Zardush din||||Zoroastrianism|zoroastrisme|zoroastrismo|||||||||||||zoroastrismo|zarathustralaisuus|zaratusztrianizm
 Zardush din ja||||Zoroastrian|zoroastrien|zoroastriano||зороастризм|||||||||||zoroastristo|zarathustralainen|zaratrustianin
-zari||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
-zarkube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
-zaya||||summon (add, spawn)||generar (añadir)|||||||||||||||wzywać (wezwać, dodawać, dodać)
-zayi|||zho:在 (zài), jpn:在 (zai), vie:tại|present (existing)|présent|actual|||||||||||||ĉeestanta (ekzistanta)|läsnä oleva|obecny, teraźniejszy, aktualny, bieżący, współczesny
-zayia||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
-zayo||||presenty (currently, now)||ahora (actualmente)|||||||||||||||
-zayu||||appear||aparecer|||||||||||||||pojawić się
-zayu||||exist (be present)||existir (estar presente)|||||ある (いる)|||||||||olla olemassa|istnieć (być obecnym)
+zar di||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
+zar kube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
+zai fa||||summon (add, spawn, actualize)||generar (añadir, realizar)|||||||||||||||wzywać (wezwać, dodawać, dodać)
+zai di||||present (existing)|présent|actual (presente)|||||||||||||ĉeestanta (ekzistanta)|läsnä oleva|obecny, teraźniejszy, aktualny, bieżący, współczesny
+zaita||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
+be zai||||appear||aparecer|||||||||||||||pojawić się
 ze|prep.|||from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
-zebre|bio|Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra|zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra
-zeta*|numbe||eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|zetta-||||||||||||||||tsetta-|
+zebra|bio|Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra|zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra
+zeta|numbe||eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|zetta-||||||||||||||||tsetta-|
 zeyil|||fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|wart|verrue|verruga|verruga|бородавка||疣|疣||||||||veruko|syylä|brodawka
 zeze||Diptera|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣinṣin + eng:tsetse, fra:por:tsé-tsé, rus:цеце (tsetse), tur:çeçe, zho:采采蝇 (cǎicǎiyíng)|fly||||двукрылое||双翅目|ハエ目 (双翅目)|||||||||kaksisiipinen|
 zi|||zho:字 (zì), jpn:字 (ji), kor:자 (ja)|character (written symbol)|caractère|carácter|caractere|буква (символ, иероглиф)||字|字|자|chữ|||||||kirjoitusmerkki|
 zigzage|||eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|zigzag||zigzag||||||||||||||siksakki|zygzag
-zikure|||ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|ziggurat||zigurat||||||||||||||zikkurat|ziggurat
+zikura|||ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|ziggurat||zigurat||||||||||||||zikkurat|ziggurat
 Zimbabve|desha|ZW||Zimbabwe||Zimbabue||Зимбабве||||||||||||Zimbabwe|Zimbabwe
-zine|||ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|adultery (infidelity)||adulterio|||||||||||||malfideleco|haureus (uskottomuus)|zdrada małżeńska, cudzołóstwo
-zinje|||tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|ginger|gingembre|gengibre|jengibre|имбирь||姜||||अदरक||jahe||zencefil|zingibro|inkivääri|imbir
+zina|||ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|adultery (infidelity)||adulterio|||||||||||||malfideleco|haureus (uskottomuus)|zdrada małżeńska, cudzołóstwo
+zinji|||tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|ginger|gingembre|gengibre|jengibre|имбирь||姜||||अदरक||jahe||zencefil|zingibro|inkivääri|imbir
 zinke|mate|Zn||zinc||cinc||цинк|||||||||||zinko|sinkki|cynk
-zipa||||zip up||cerrar con cremallera||||||||||||||sulkea vetoketjulla|zamknąć zamkiem błyskawicznym
-zipe|||eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|zipper||cremallera||||||||||||||vetoketju|zamek błyskawiczny
-zire|||ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|cumin (jeera)||comino||тмин||孜然||||ज़ीरा|জিরা||mjira||kumino|juustokumina (jeera)|kumin, kmin
+zipa|||eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|zipper (zip)||cremallera||||||||||||||vetoketju|zamek błyskawiczny
+zira|||ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|cumin (jeera)||comino||тмин||孜然||||ज़ीरा|জিরা||mjira||kumino|juustokumina (jeera)|kumin, kmin
 zirkon||||zircon||circón||циркон|||||||||||||
 zirkonium|mate|Zr||zirconium||circonio|||||||||||||zirkonio|zirkonium|cyrkon
-ziza|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
-zoka||||continue (carry on, proceed)|continuer (poursuivre)|||||||||||||devam etmek||jatkaa|
-zoki||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ||||||||||ciągły (analogowy)
-zoko||||still (yet, continuously)|encore|todavía (aún)|ainda|ещё||还 (依然)|まだ||||||||ankoraŭ|vielä (yhä, jatkuvasti)|wciąż, nadal
-zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|continue (go on, keep on)||||||||||||||||jatkua|kontynuować; wznawiać, ponawiać
+zizi|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
+zoku fa||||continue (carry on, proceed)|continuer ()|||||||||||||devam etmek||jatkaa|
+zoku di||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ||||||||||ciągły (analogowy)
+zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|continue (go on, keep on, carry on, proceed, still, yet)|continuer (poursuivre, encore)|todavía (aún)|ainda|ещё||还 (依然)|まだ||||||||ankoraŭ|vielä (yhä, jatkua)|wciąż, nadal; kontynuować, wznawiać, ponawiać
 zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
-zona|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
+zona|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
 zong|||zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|post (stake, peg, skewer)|pieu (poteau)|poste (estaca, palo)|poste (estaca)|кол||桩|杭||||||||||słup (pal, kołek)
-zongominte|bio|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
+zong minte|bio|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
 zou|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
-zou agria||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|hodowla zwierząt
+zou agro shutu||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|hodowla zwierząt
 zou filia||||zoophily||||||||||||||||eläinrakkaus|
 zou geo grafi||||zoogeography||||||||||||||||eläinmaantiede|
 zou kata||||fable|fable|fábula|fábula|басня||||||||||fabl|bestofabelo|eläinsatu|bajka
-zou logi||||zoology|zoologie|zoología|zoologia|зоология|عِلْم اَلْحَيَوَان|动物学|動物学|동물학|động vật học|प्राणि विज्ञान|প্রাণিবিজ্ঞান|zoologi (kaji haiwan)||zooloji|zoologio|eläintiede (zoologia)|zoologia
-zou logi di||||zoological|zoologique|zoológico|zoológico|зоологический|||動物学の|||||||zoolojik|zoologia|eläintieteellinen|zoologiczny
+zoulogi||||zoology|zoologie|zoología|zoologia|зоология|عِلْم اَلْحَيَوَان|动物学|動物学|동물학|động vật học|प्राणि विज्ञान|প্রাণিবিজ্ঞান|zoologi (kaji haiwan)||zooloji|zoologio|eläintiede (zoologia)|zoologia
+zoulogi di||||zoological|zoologique|zoológico|zoológico|зоологический|||動物学の|||||||zoolojik|zoologia|eläintieteellinen|zoologiczny
 zou parke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园|動物園|동물원|thảo cầm viên|चिड़ियाघर|চিড়িয়াখানা|kebun binatang|bustani ya wanyama|hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
 zou toxe||||zootoxin||||||||||||||||eläinmyrkky (zootoksiini)|
 zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
-zuke|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group|ethnie|etnia|etnia|этнос||民族|民族|민족|dân tộc||||||etno|kansanryhmä (etninen ryhmä)|grupa etniczna
-zuki||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민족의||||||etnik|etna|etninen|etniczny
-zukomedi||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
+zuku|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group|ethnie|etnia|etnia|этнос||民族|民族|민족|dân tộc||||||etno|kansanryhmä (etninen ryhmä)|grupa etniczna
+zuku di||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민족의||||||etnik|etna|etninen|etniczny
+zuku medi di||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumarda|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
 ||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
