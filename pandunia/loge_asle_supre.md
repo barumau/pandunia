@@ -1,34 +1,34 @@
-# asle da lekse da pandunia
+# pandunia di loga di asli
   
-pandunia du loge laya ya pol bax da dunia.
+pandunia di loga ye lai ze poli basha da dunia.
   
-- afriki bax
+- afrika basha
     - (ara) arabi 
-    - (swa) swahili 
-    - (hau) hausi 
-    - (amh) amari 
-- europi i ameriki bax
-    - (eng) engli 
-    - (spa) espani 
-    - (fra) fransi 
-    - (rus) rusi 
-    - (por) portugali 
-    - (deu) doici 
-- dongasi bax
-    - (zho) putong cini 
+    - (swa) siahili 
+    - (hau) hausa
+    - (amh) amara
+- europa e amerika basha
+    - (eng) english
+    - (spa) espanya
+    - (fra) france
+    - (rus) rus
+    - (por) portugal
+    - (deu) doiche
+- dong asia basha
+    - (zho) putong han
     - (jpn) nipon 
-    - (wuu) xanghai cini 
-    - (kor) hanguk 
-    - (vie) wieti 
-    - (yue) hongong cini 
-- sudasi bax
+    - (wuu) shanghai han
+    - (kor) chosen
+    - (vie) viete
+    - (yue) hong gong han
+- sude asia basha
     - (hin) hindi 
-    - (ben) bangli 
-    - (ind) indonesi 
-    - (urd) urdi 
-    - (fil) filipini 
-    - (tur) turki 
-    - (fas) farsi 
+    - (ben) bangla
+    - (ind) indonesia
+    - (urd) urdu
+    - (fil) filipin
+    - (tur) turki
+    - (fas) farsi
 
-## -
-
+| pandunia | loga di asli |
+|----------|--------------|

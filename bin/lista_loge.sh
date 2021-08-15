@@ -51,16 +51,13 @@ fata_liste() {
 }
 
 fata_lekse_asle() {
-    cat pandunia-loge.tsv | cut -f 2,5 > temp/lekse.txt
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$4 \"|\"}" > temp/lekse.txt
+    #morta unodi linye
     sed -i '1d' temp/lekse.txt
-    sed -i 's/\t/ ← /g' temp/lekse.txt
-    awk ' { FS=" ← "; OFS=" ← "; t = $1; $1 = $2; $2 = t; print; } ' temp/lekse.txt > temp/temp.txt
-    #Delete empty etymologies
-    sed -i '/\ ← $/d' temp/temp.txt
-    cat temp/abace.txt temp/temp.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> temp/lekse.txt
-    #Add two spaces to line-ends
-    sed 's/$/  /' -i temp/lekse.txt
-    cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/loge_asle.md
+    sed -i '1d' temp/lekse.txt
+    cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/leksaslia.md
+    #Delete empty translations
+    sed -i '/||/d' pandunia/leksaslia.md
 }
 
 tarja_logaslia_pa_english() {
@@ -276,4 +273,7 @@ fata_liste 7 espanya
 
 # portugali i pandunia
 fata_liste 8 portugal
+
+# loga asli an pandunia basha
+fata_lekse_asle
 
