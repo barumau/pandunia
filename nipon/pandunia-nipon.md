@@ -16,6 +16,7 @@ ais - 氷 (アイス)
 aishoke - アイスホッケー  
 aiskrem - アイスクリーム  
 aisu - 凍る (凍結する)  
+ajila - 急ぐ  
 akare - 壁蝨  
 aksesabli - とっつきやすい (アクセス可能)  
 ala - 変える  
@@ -24,6 +25,8 @@ algojangle - 藻場
 ali - 他の  
 amater - アマチュア  
 amen - 正直  
+amen bil - 忠実  
+amen shin - 信頼する  
 ami - 愛しい  
 amirlin - コマンド行  
 an lin - オンライン  
@@ -92,12 +95,12 @@ bata - 鴨
 bateri - バッテリー  
 bato - 八 (8)  
 baton kapse - 檻 (篭, ケージ)  
-batosenter - タコ  
 bau sheke - 宝石  
 bazar - 市場 (マーケット, バザー)  
 bazobol - 野球  
 bazopetre - 基盤岩  
 bazoshulkan - 小学校  
+be van - 遊ぶ  
 bebe - 赤ちゃん  
 bekofan - テラコッタ  
 bekokan - パン屋 (ベーカリー)  
@@ -131,6 +134,7 @@ bokse - ボクシング (拳闘)
 bokser - ボクサー (拳闘家)  
 bol - 玉 (球)  
 bon - 良い  
+bon guste di - 美味しい  
 botel - 瓶  
 boyu - 泳ぐ (浮く)  
 brauze - 探る, 探検する  
@@ -146,17 +150,18 @@ buke - 本 (書物)
 bum - 爆発  
 bumu - 爆発する  
 bute - ブーツ  
-ch - C  
+####C - C  
+cau - 草  
+cau istan - 草地  
+chabe - 鍵  
 chai - 茶  
-chaikan - 茶店 (茶館)  
-chaikupe - 茶碗  
-chaipote - 急須  
-chakre - 車輪  
+chai kan - 茶店 (茶館)  
+chai kupe - 茶碗  
+chai pote - 急須  
+chakra - 車輪  
 chamache - スプーン  
 chante grupe - 合唱団  
 chatre - 四 (4)  
-chau - 草  
-chavistan - 草地  
 chendeno - 昨日  
 cheniki - 古い  
 cheno - 以前 (前に)  
@@ -266,6 +271,8 @@ estibium - アンチモン
 euloge - 賛辞  
 europobalute - ヨーロッパナラ  
 ####F - F  
+fa - する  
+fa ver - ただす  
 faidia - 使用 (為, 利)  
 falsvide - 幻覚  
 fan - 泥  
@@ -276,7 +283,6 @@ fasili - 易しい
 fasilia da akses - アクセシビリティ  
 fasteli - 深い  
 fastelia - 浅い  
-fata - する  
 fate - 事実  
 fatigia - 疲労  
 fatigu - 疲れる (疲労する)  
@@ -291,10 +297,12 @@ feyu - 飛ぶ
 filme - フィルム (膜)  
 filsofia - 哲学  
 fiorde - フィヨルド  
-fite - 植物  
-fityamiste - 菜食主義者 (ベジタリアン)  
+fito - 植物  
+fito yam jui ja - 菜食主義者 (ベジタリアン)  
 fleche - 矢 (矢印)  
 fobu - 恐れる  
+fong - 蜂  
+fong nide - 蜂の巣  
 foto - 光  
 foto frika - 光沢  
 foto grafe - 写真  
@@ -304,6 +312,7 @@ frika - 擦る (擦り傷する)
 frute - 果実 (フルーツ)  
 fuke - 服  
 fuku - 着る  
+fuku vashi gi - 洗濯機  
 fungu frute - 茸  
 fungu nete - 菌糸体  
 fute bol - フットボール  
@@ -353,7 +362,7 @@ glutobende - 絆創膏
 glutofan - 粘土  
 glutograf - ステッカー  
 gol - 目的 (行き先, ゴール)  
-gorile - ゴリラ  
+gorila - ゴリラ  
 grafi kata - 漫画  
 granite - 花崗岩  
 grave - 砂利  
@@ -461,6 +470,7 @@ joven - 青少年
 joveni fem - 女の子  
 joveni man - 男の子  
 joveni moke - 若木  
+jui - 主义  
 jul - ジュール (J)  
 jung - 中心  
 Junguo - 中国  
@@ -500,7 +510,7 @@ kankuate - キンカン (キンキツ)
 kano* - カヌー  
 kantalupomelon - カンタロープ  
 kanyon - 峡谷  
-kapotruke - 罠  
+kape truke - 罠  
 kar - 労働  
 kara - 働く  
 karbosui - 炭水化物  
@@ -550,6 +560,7 @@ klien - 顧客 (依頼人, クライアント)
 klimmute - 気候変動  
 klin - 斜め (傾向)  
 ko? - どのように  
+koda - 尾 (尾翼)  
 konboni - 合わせる (適する)  
 konchung - 昆虫  
 konformu - 即する  
@@ -743,7 +754,7 @@ mosi - 苔状
 mosim - 季節  
 moto - モーター (エンジン, 機関)  
 moto sikle - オートバイ (モーターサイクル)  
-mul - 根  
+mula - 根  
 multi - 多い  
 mummelon - トウガン  
 mun - 門  
@@ -790,6 +801,7 @@ norma - 普段 (ノーマル)
 nostalgia - 懐古 (懐旧)  
 numba - 数える  
 ####O - O  
+ohtopus - タコ  
 oke - 目  
 okeyi - 大丈夫 (ＯＫ)  
 okosuigas - 催涙ガス  
@@ -1107,14 +1119,13 @@ usable - 使用可能
 va - わあ  
 vaf - 犬 (狗)  
 vagina - 膣 (ワギナ)  
-val - 価値  
 vali - 谷  
 vali susan - キミカゲソウ (スズラン)  
+valu - 価値  
 vampir - 吸血鬼  
-vampirbalsenter - コウモリダコ  
+vampir ohtopus - コウモリダコ  
 van - 楽しみ (娯楽)  
-vani - 楽しい  
-vanu - 遊ぶ  
+van di - 楽しい  
 var chatre - 木曜日  
 var du - 火曜日  
 var luku - 土曜日  
@@ -1122,77 +1133,72 @@ var penta - 金曜日
 var sete - 日曜日  
 var tri - 水曜日  
 var un - 月曜日  
-varkalge - コンブ  
-varkolate - ページ (面)  
+varka alga - コンブ  
+varka late - ページ (面)  
 vase - オアシス  
-vashurse - 狸 (ラクーン, 洗い熊)  
-vei - 尾 (尾翼)  
-veilin - 横糸  
-veisirke - 緯度  
-venda - 売る  
-vendoshopa - 売買する  
-vendoshope - 交易 (売買)  
-venjovoranje - ウンシュウミカン  
-verita - ただす  
-vespe - 蜂  
-vesponide - 蜂の巣  
-vestogoril - ニシゴリラ  
-vider - 見物人  
-vidopunte - 遠近法 (見通し, 観点)  
+vashi urse - 狸 (ラクーン, 洗い熊)  
+vei darje - 緯度  
+vei lin - 横糸  
+vende - 売る  
+vende shope - 交易 (売買)  
+venjou oranje - ウンシュウミカン  
+veste gorila - ニシゴリラ  
+vice - 代替  
+vice ma - 継母  
+vice pa - 継父  
+vide ja - 見物人  
+vide punte - 遠近法 (見通し, 観点)  
 vidou - 寡婦  
-vinkan - ワイナリー (酒造場)  
-vis - 代替  
-vismai - 継母  
-vispai - 継父  
-viyoleti - 紫色 (パープル)  
+vin kan - ワイナリー (酒造場)  
+viyolete - スミレ  
+viyolete blu - 紫色 (パープル)  
 vode - 約束  
-volu - 欲しい  
-vulve - 陰門  
-vute - 物 (品)  
+vol - 欲しい  
+vulva - 陰門  
+vutu - 物 (品)  
 ####X - X  
 xenon - キセノン  
+####Y - Y  
 Yahve - ヤハウェ (エホバ)  
-yam - 食べ物 (食事)  
-yama - 食べる  
-yami - 美味しい  
-yamyau - 飢え  
+yam - 食べる  
+yam she - 食べ物 (食事)  
+yam yau - 飢え  
 yang - タイプ  
 yasen - 秦皮  
-yau - 必要  
-yaushina - 信頼する  
-yaushinabli - 忠実  
-yavan - 必要  
+yau - 要る  
+yau di - 必要  
+yauta - 必要  
 ye - はい  
 yeki kanon - 易経  
 Yesu mesi - イエス・キリスト  
 yo - 何分の  
-yoke - 軛  
+yogo - 軛  
 yom - 日  
-yongopetre - 溶岩  
-yongu - 溶ける  
+yong - 溶ける  
+yong petra - 溶岩  
 ####Z - Z  
+zai - ある (いる)  
 zai den - 今日  
-zai zam - 今 (現在)  
-zai zam di - 現行  
+zai zaman - 今 (現在)  
+zai zaman di - 現行  
 zalim raja - 暴君  
-zam - 時間  
-zarkube - 賽子  
-zayu - ある (いる)  
+zaman - 時間  
+zar kube - 賽子  
 ze - -から  
 zeyil - 疣  
 zeze - ハエ目 (双翅目)  
 zi - 字  
-zoki - アナログ  
-zoko - まだ  
+zoku - まだ  
+zoku di - アナログ  
 zong - 杭  
-zongominte - スペアミント  
+zong minte - スペアミント  
 zou - 動物  
-zou agria - 畜産  
+zou agro shutu - 畜産  
 zou logi - 動物学  
 zou logi di - 動物学の  
 zou parke - 動物園  
-zuke - 民族  
-zuki - 民族の  
+zuku - 民族  
+zuku di - 民族の  
  - 雪が降る  
  - 雨が降る  
  - 敵 (相手)  

@@ -24,7 +24,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 - sude asia basha
     - (hin) hindi 
     - (ben) bangla
-    - (ind) indonesia
+    - (may) malayu
     - (urd) urdu
     - (fil) filipin
     - (tur) turki

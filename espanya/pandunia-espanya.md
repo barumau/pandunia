@@ -15,7 +15,6 @@ adres harfi - arroba (@)
 Afgan - Afganistán  
 Afrika - África  
 agile - ágil  
-agra - cultivar  
 agrer - granjero (agricultor)  
 agres - ataque  
 agreser - agresor  
@@ -23,6 +22,7 @@ agresivi - agresivo
 agri - agrícola  
 agristan - campo  
 agristani - rural (rústico)  
+agro - cultivar  
 agrobiologi - agrobiología  
 agronomia - agronomía  
 aha - entender (comprender)  
@@ -47,6 +47,7 @@ ajaba - asombrar
 ajabe - maravilla  
 ajabi - maravilloso (asombroso)  
 ajabia - asombro  
+ajila - meter prisa  
 akare - garrapata (ácaro)  
 akse - eje  
 aksesabli - accesible  
@@ -76,7 +77,9 @@ ama - pero
 Amara - amhara  
 amater - amateur (aficionado)  
 amen - honesto (seguramente, amén)  
-ameno - seguramente (amén)  
+amen bil - leal (fiel)  
+amen bilta - lealtad (fidelidad)  
+amen shin - confiar (contar con)  
 Amerika Samoa - Samoa Americana  
 Amerike - América  
 ameriki - americano  
@@ -283,7 +286,6 @@ bato - ocho (8)
 baton - barra (vara, palo)  
 baton kapse - jaula (caja)  
 baton pan - baguette  
-batosenter - pulpo  
 bau - tesoro  
 bau sheke - piedra preciosa (joya, gema)  
 bavi - precioso  
@@ -296,6 +298,9 @@ bazobol - béisbol
 bazokanun - constitución  
 bazopetre - lecho de roca  
 bazoshulkan - escuela primaria  
+be van - disfrutar (jugar)  
+be vide - ser visto  
+be zai - aparecer  
 be’e - cabra  
 bebe - bebé  
 bede - cama  
@@ -372,6 +377,7 @@ Bolgaria - Bulgaria
 Bolivia - Bolivia  
 bomba - bomba  
 bon - bueno  
+bon guste di - delicioso  
 bondarja - mejorar  
 bondeke - virtud (moralidad)  
 bondeki - virtuoso (moral)  
@@ -431,29 +437,32 @@ Butan - Bután
 bute - bota  
 buton - tecla (botón)  
 butonban - teclado  
-cel - célula  
-cellogi - citología  
+####C - C  
+cana - producir (hacer, preparar)  
+cana basha - idioma artificial (lengua construida, conlang)  
+cana di - artificial (sintético)  
+cana ja - farbicante  
+cana ya - producción  
+cau - césped (hierba)  
+cau istan - pradera (pastizal)  
+celu - célula  
+celu logi - citología  
 celsius darje - grado Celsius  
 centi - centi- (por ciento)  
 centimitre - centímetro  
 Ceres - Ceres (planeta enano)  
 cerium - cerio  
 cesium - cesio  
-ch - C  
 chabe - llave  
 Chade - Chad  
 chai - té  
-chaikan - salón de té  
-chaikupe - taza de té  
-chaipote - tetera  
-chake - cuchillo  
-chakre - rueda (volante)  
+chai kan - salón de té  
+chai kupe - taza de té  
+chai pote - tetera  
+chakra - rueda (volante)  
+chaku - cuchillo  
 chamache - cuchara  
 champion - campeón  
-chana - producir (hacer, preparar)  
-chanbash - idioma artificial (lengua construida, conlang)  
-chani - artificial (sintético)  
-chania - producción  
 chanse - oportunidad (chance)  
 chante - cantar  
 chante - canción  
@@ -465,8 +474,6 @@ chargon - cuadro
 charme - encanto  
 chate - techo (tejado)  
 chatre - cuatro (4)  
-chau - césped (hierba)  
-chavistan - pradera (pastizal)  
 cheka - revisar (chequear)  
 chen zaman - pasado  
 chena - preceder (anteceder)  
@@ -801,6 +808,16 @@ europobalute - roble común
 evanjil - evangelio  
 evi - beneficioso (bueno)  
 ####F - F  
+fa - hacer  
+fa safa - limpiar  
+fa valu - valorar  
+fa van - divertir (entretener)  
+fa ver - autenticar  
+fa verse - versar  
+fa vice - sustituir (reemplezar)  
+fa vode - prometer (comprometerse)  
+fa vote - votar  
+fa yagu - estimar (apriximarse a)  
 fada - suministrar (dar, proveer, emitir)  
 faidi - útil (beneficioso)  
 faidia - uso (utilidad, beneficio)  
@@ -830,9 +847,7 @@ fasilia da akses - fácil acceso (accesibilidad)
 fasinia - fascinación  
 fasteli - profundo (hondo)  
 fastelia - superficial (poco profundo)  
-fata - hacer  
 fate - hecho  
-fater - farbicante  
 fatigia - fatiga  
 fatigu - cansarse (fatigar)  
 fatokan - fábrica  
@@ -883,9 +898,9 @@ fino - ya (acción completado)
 finodi - final (último)  
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
-fite - planta (vegetal, vegetación)  
-fitolojia - botánica  
-fityamiste - vegetariano  
+fito - planta (vegetal, vegetación)  
+fito logi - botánica  
+fito yam jui ja - vegetariano  
 fizike - física  
 fiziker - físico (científico)  
 fizikia - física  
@@ -904,6 +919,8 @@ folia - demencia (locura)
 fon - fono (segmento acústico)  
 fona - pronunciar (articular)  
 fonem - fonema  
+fong - abeja o avispa  
+fong nide - avispero (colmena)  
 fonlojia - fonología  
 fonte - fuente (manantial)  
 fora - taladrar (perforar)  
@@ -938,6 +955,7 @@ fuka - vestir
 fuke - ropa (vestimenta)  
 fuki - vestido (llevando ropa)  
 fuku - llevar (verstirse)  
+fuku vashi gi - lavadora  
 fun - polvo  
 fun chupa gi - aspiradora  
 funci - funcionar  
@@ -1054,6 +1072,9 @@ gida - guiar
 gider - guía  
 gidobuke - guía de viaje  
 giga* - giga-  
+ging cirke - meridiano (línea de longitud)  
+ging darje - longitud  
+giota - gota  
 gitar - guitarra  
 giuke - jade  
 glisu - deslizar  
@@ -1069,7 +1090,7 @@ gola - destinar
 gom - goma (caucho, hule)  
 gon - esquina (rincón, ángulo)  
 gonmetrer - goniómetro (medidor de ángulos)  
-gorile - gorila  
+gorila - gorila  
 goro - cerdo (puerco)  
 goro nama - carne de cerdo  
 goton - algodón  
@@ -1409,6 +1430,7 @@ juda - juzgar
 judau - yudo  
 jude - fallo (juicio, criterio)  
 juder - juez (árbitro, réferi)  
+jui - ideología (doctrina, -ismo)  
 jul - joule (J)  
 jumle - oración  
 jung - centro  
@@ -1494,9 +1516,9 @@ kantalupomelon - melón cantalupo
 kante - hombro  
 kanun - regla (ley)  
 kanyon - cañón (barranco, quebrada)  
-kapa - capturar (apresar)  
-kapa pesh - pescar  
-kapotruke - trampa  
+kape - capturar (apresar)  
+kape truke - trampa  
+kape yo pesh - pescar  
 kar - trabajo  
 kara - trabajar  
 Karaibia - Caribe  
@@ -1628,12 +1650,13 @@ klube - club
 ko multo - cuántos  
 ko? - cómo  
 kobalte - cobalto  
-koda - codificar (cifrar)  
+koda - cola (rabo, coda)  
+kode - codificar (cifrar)  
 kode - código (cifra)  
-koke - coca  
-kokode - pollo  
+koka - coca  
+koko - pollo  
 Kokos nesia - Islas Cocos (Islas Keeling)  
-kole - cola (refresco de cola)  
+kola - cola (refresco de cola)  
 Kolombia - Colombia  
 kolona - colonizar  
 koloner - colono  
@@ -1641,8 +1664,8 @@ kolonia - colonia
 koloniste - colonialista  
 kolonistia - colonialismo  
 kolum - columna  
+koma - coma  
 komali - blando (mullido)  
-kome - coma  
 Komoro nesia - Comoros  
 kompania - compañía (empresa, corporación)  
 komputa - calcular (computar)  
@@ -1915,7 +1938,7 @@ mais - maíz
 maitnerium - meitnerio  
 majang - mahjong  
 majenti - magenta (fucsia)  
-makal - artículo (texto)  
+makala - artículo (texto)  
 makan - mantequilla  
 makanful - dientes de león (panaderos)  
 makas - tijera  
@@ -2010,11 +2033,11 @@ maze - calcetín
 mecha - competir  
 meche - partido  
 medal - medallón  
-mede - medio  
 meden - plaza  
 medenfobia - agorafobia  
 medeni - abierto (extenso)  
 medenpapil - amapola silvestre  
+medi - medio  
 medi - medio (mediano)  
 media - medio  
 medika - curar (sanar)  
@@ -2177,7 +2200,7 @@ Mozambike - Mozambique
 mudan - peonía  
 muka - cara (rosto)  
 muka fun - polvo de cara  
-mul - raíz  
+mula - raíz  
 multi - muchos  
 multia - número (muchedumbre)  
 mum - cera (lacre)  
@@ -2266,8 +2289,8 @@ neodimium - neodimio
 neon - neón  
 Nepal - Nepal  
 Neputun - Neptuno  
-nes - isla  
-nesia - archipiélago  
+nesia - isla  
+nesia grupe - archipiélago  
 nete - red  
 netodona - cargar (subir)  
 netogeta - descargar  
@@ -2358,6 +2381,7 @@ ofisi - oficial
 ofisia - ministerio (departamento)  
 ofiskan - oficina  
 oganeson - oganesón  
+ohtopus - pulpo  
 oke - ojo  
 okeya - aceptar  
 okeyi - bien (aceptable)  
@@ -2519,7 +2543,7 @@ peshosaider - pescador
 peshtanke - acuario (pecera)  
 pesodiske - moneda  
 pete - barriga (vientre, panza)  
-petre - roca (piedra)  
+petra - roca (piedra)  
 petronefte - petróleo  
 peya - pegar  
 piano* - piano  
@@ -2827,14 +2851,13 @@ sabilogi - epistemología
 sabo da - porque  
 sabun - jabón  
 sadi - sencillo (liso)  
-safa - limpiar  
+safa - limpio  
 safar - viaje  
 safara - viajar  
 safarer - viajero  
 safariste - turista  
 safaristia - turismo  
 safer - limpiador  
-safi - limpio  
 safran - azafrán  
 saha - corregir  
 Sahara Desha - República Árabe Saharaui Democrática  
@@ -3399,21 +3422,17 @@ vacin - vacuna
 vaf - perro  
 vagina - vagina  
 vagina flame - vaginitis  
-vakila - representar  
-val - valor  
-vala - valorar  
+vakil - representar  
 vali - valle  
 vali susan - convalaria (lirio de los valles)  
 Valis e Futuna nesia - Wallis y Futuna  
-valu - valer  
+valu - valor  
 vampir - vampiro  
-vampirbalsenter - calamar vampiro  
+vampir ohtopus - calamar vampiro  
 van - diversión  
-vana - divertir (entretener)  
+van di - divertido  
 vanadium - vanadio  
-vani - divertido  
 vanil - vainilla  
-vanu - disfrutar (jugar)  
 Vanuatu - Vanuatu  
 var - día de semana  
 var chatre - jueves  
@@ -3425,115 +3444,98 @@ var tri - miércoles
 var un - lunes  
 var var - semana  
 varis - patrimonio (herencia, legado)  
-varkalge - kelp  
-varke - hoja  
-varkolate - página  
+varka - hoja  
+varka alga - kelp  
+varka late - página  
 vase - oasis  
-vasha - lavar  
-vashmashin - lavadora  
-vashurse - mapache  
+vashi - lavar  
+vashi urse - mapache  
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
-vei - cola (rabo)  
-veisirke - latitud  
-venda - vender  
-vendoshopa - comerciar  
-vendoshope - comercio  
+vei cirke - paralelo (línea de latitud)  
+vei darje - latitud  
+vende - vender  
+vende shope - comercio  
 Venezuela - Venezuela  
-venjovoranje - unshu mikan  
+venjou oranje - unshu mikan  
 ventur - aventura  
-venturer - aventurero  
+ventur ja - aventurero  
 Venus - Venus  
-veri - verdadero  
-verita - autenticar  
+ver - verdadero  
 verme - verme  
 vermute - vermú  
-versa - versar  
+verse - afrontar  
 version - versión (modelo)  
-versu - afrontar  
-vespe - abeja o avispa  
-vesponide - avispero (colmena)  
 veste - oeste  
-vesti - occidental  
-vestodongia - longitud  
-vestogoril - gorila occidental  
-vezi - pesado  
-vezia - peso (gravedad)  
-vezometrer - pesa (báscula, balanza)  
-vezu - pesar  
-vida - ver (mirar)  
-vide - vista (visión)  
-vider - espectador  
-vidomeden - campo de visión  
-vidopunte - perspectiva (punto de vista)  
+veste di - occidental  
+veste gorila - gorila occidental  
+veze - peso (gravedad)  
+veze di - pesado  
+veze metre gi - pesa (báscula, balanza)  
+vice - vice- (alternativa, sustituto)  
+vice loga - pronombre  
+vice ma - madrastra  
+vice pa - padrastro  
+vice prezidente - vicepresidente  
+vice raja - virrey  
+vide - ver (mirar)  
+vide ja - espectador  
+vide meden - campo de visión  
+vide punte - perspectiva (punto de vista)  
+vide she - vista (visión)  
 vidou - viudo  
-vidu - ser visto  
-vieti - vietnamita  
-Vietia - Vietnam  
+Viete - Vietnam  
+viete basha - idioma vietnamita  
 vijin - GMS  
-vike - página wiki  
-vildi - salvaje  
+viki makala - página wiki  
+vilde - salvaje  
 vin - vino  
+vin kan - bodega  
+vin suan - vinagre  
 ving - ala  
 vinil - vinilo  
-vinkan - bodega  
-vinsuan - vinagre  
 virje - virgen  
-virji - virginal  
+virje di - virginal  
 Virjin nesia - Islas Vírgenes  
 virus - virus  
-viruslogi - virología  
-vis - alternativa (sustituto)  
-visa - sustituir (reemplezar)  
-visi - vice-  
-visloge - pronombre  
-vismai - madrastra  
-vispai - padrastro  
-visprezidente - vicepresidente  
-visrajer - virrey  
-vite - tornillo  
-viyoleti - morado (púrpura)  
-vize - visado  
-voda - prometer (comprometerse)  
+virus logi - virología  
+vita - tornillo  
+viyolete - violeta  
+viyolete blu - morado (púrpura)  
+viza - visado  
 vode - promesa (voto)  
 vodun - vudú  
-vol - deseo  
+vol - querer (desear)  
+vol she - deseo  
 volfe - lobo  
 volfram - tungsteno (wolframio)  
 volte - voltio (V)  
-volu - querer (desear)  
-vota - votar  
 vote - voto  
-votohake - sufragio (derecho al voto)  
-vulve - vulva  
-vute - objeto (artículo)  
+vote haki - sufragio (derecho al voto)  
+vulva - vulva  
+vutu - objeto (artículo)  
 ####X - X  
 xenon - xenón  
+####Y - Y  
 ya - él o ella  
 ya - sufijo para regiónes y sustantivos abstractos  
-yaga - estimar (apriximarse a)  
-yago - aproximadamente  
-yagones - península  
+yagu - aproximadamente  
+yagu nes - península  
 Yahve - Yahvé (Jehová)  
 yake - yac  
-yala - meter prisa  
-yam - comida  
-yama - comer (bebir)  
+yam - comer (bebir)  
+yam fito - verdura (legumbre)  
+yam kamar - comedor  
+yam she - comida  
+yam yau - hambre  
 yamen - ellos o ellas  
-yamfite - verdura (legumbre)  
-yami - delicioso  
-yamkamar - comedor  
-yamyau - hambre  
 yang - variedad (tipo, estilo)  
 yasen - fresno  
 yatim - huérfano  
-yatimdom - orfanato  
-yau - necesidad  
-yaushina - confiar (contar con)  
-yaushinabli - leal (fiel)  
-yaushinablia - lealtad (fidelidad)  
-yavan - necesario  
-yavi - necesitado  
+yatim dom - orfanato  
+yau - necesitar  
+yau di - necesario  
+yauta - necesidad  
 ye - sí  
 yehudi - judío  
 yehudi din - judaísmo  
@@ -3541,77 +3543,72 @@ yei - yupi
 Yemen - Yemen  
 Yesu - Jesús  
 Yesu mesi - Jesucristo  
-yeze - coco  
+yezi - coco  
 yo - algún  
 yo jan - algién  
 yo sate - algún día (algún vez)  
 yo she - algo  
 yoga - yoga  
 yoga ja - yogui  
+yogo - yugo  
 Yohan festa - día de San Juan  
-yoke - yugo  
-yongopetre - lava  
-yongu - derretirse  
-yote - gota  
+yong - derretirse  
+yong petra - lava  
 yumor - humor (gracia)  
-yumori - humorístico (gracioso, cómico)  
-yumoriste - humorista  
+yumor di - humorístico (gracioso, cómico)  
+yumor ja - humorista  
 yuterbium - iterbio  
 yutrium - itrio  
 ####Z - Z  
-zai - actualidad  
+zai - existir (actualmente)  
 zai den - hoy  
-zai zam - presente  
-zai zam di - actual  
+zai di - actual (presente)  
+zai fa - generar (añadir, realizar)  
+zai zaman - presente (actualidad)  
+zai zaman di - actual  
+zaita - presencia (existencia)  
 zaitun - aceituna  
 zalim - mezquino (antipático, cruel)  
 zalim raja - tirano (déspota)  
 zalimta - crueldad (tiranía)  
-zam - tiempo  
+zaman - tiempo  
 Zambia - Zambia  
 zar - riesgo (posibilidad)  
+zar di - azar (aleatorio)  
+zar kube - dado  
 Zardush - Zoroastro  
 Zardush din - zoroastrismo  
 Zardush din ja - zoroastriano  
-zari - azar (aleatorio)  
-zarkube - dado  
-zaya - generar (añadir)  
-zayi - actual  
-zayia - presencia (existencia)  
-zayo - ahora (actualmente)  
-zayu - aparecer  
-zayu - existir (estar presente)  
 ze - de (desde)  
-zebre - cebra  
+zebra - cebra  
 zeyil - verruga  
 zi - carácter  
 zigzage - zigzag  
-zikure - zigurat  
+zikura - zigurat  
 Zimbabve - Zimbabue  
-zine - adulterio  
-zinje - gengibre  
+zina - adulterio  
+zinji - gengibre  
 zinke - cinc  
-zipa - cerrar con cremallera  
-zipe - cremallera  
-zire - comino  
+zipa - cremallera  
+zira - comino  
 zirkon - circón  
 zirkonium - circonio  
-ziza - chisporrotear  
-zoki - continuo (analógico)  
-zoko - todavía (aún)  
+zizi - chisporrotear  
+zoku - todavía (aún)  
+zoku di - continuo (analógico)  
 zombi - zombi  
 zona - cinturón (zona)  
 zong - poste (estaca, palo)  
-zongominte - hierbabuena  
+zong minte - hierbabuena  
 zou - animal (bestia)  
 zou kata - fábula  
 zou logi - zoología  
 zou logi di - zoológico  
 zou parke - zoo  
 zukam - resfriado (catarro)  
-zuke - etnia  
-zuki - étnico  
-zukomedi - interétnica  
+zuku - etnia  
+zuku di - étnico  
+zuku medi di - interétnica  
 Zulu - zulú  
 zumarda - esmeralda  
  - nevar  

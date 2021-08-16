@@ -1,7 +1,7 @@
 # portugal-pandunia
 ####A - A  
 abater - bucha  
-abelha ou vespa - vespe  
+abelha ou vespa - fong  
 abeto - abies  
 abobrinha - lilkaboge  
 abóbora (jerimun) - kaboga  
@@ -27,7 +27,7 @@ agrobiologia - agrobiologi
 agronomia - agronomia  
 agrícola - agri  
 ai! - au  
-ainda - zoko  
+ainda - zoku  
 alaranjado - oranji  
 alcachofra - karchof  
 alcachofra-girassol (tupinambo) - masmulsolful  
@@ -52,7 +52,7 @@ ameixa - plum
 amor - ai  
 amêndoa - badam  
 anaeróbico - anairbivi  
-analógico - zoki  
+analógico - zoku di  
 andesito - andesite  
 anel - ring  
 animal (besta, bicho) - zou  
@@ -72,7 +72,7 @@ argila - glutofan
 argumento - argum  
 arma - arme  
 arma de fogo - pau  
-armadilha - kapotruke  
+armadilha - kape truke  
 armadura - defkaske  
 armário - almari  
 arquiteto - binplaner  
@@ -100,7 +100,7 @@ até - hata
 Austronésia - Austronesia  
 aveia - aven  
 aventura - ventur  
-aventureiro - venturer  
+aventureiro - ventur ja  
 avó - chin ma  
 avô - chin pa  
 azur (blau) - lazuri  
@@ -150,7 +150,7 @@ bombom (doce) - kandi
 bombordo - naulefte  
 borboleta - pelpel  
 bota - bute  
-botânica - fitolojia  
+botânica - fito logi  
 botão - buton  
 boxe - bokse  
 boxeador (pugilista) - bokser  
@@ -159,12 +159,12 @@ bravo (valente, corajoso) - bravo
 bravo! - bravo  
 braço - handoshake  
 Buda - Buda  
-bule - chaipote  
+bule - chai pote  
 buraco - kave  
 buscar (procurar) - soka  
 bétula - berje  
 búzio - kauri  
-####C - ch  
+####C - C  
 cabeça - sar  
 cacto - katus  
 cafeteira - kafopote  
@@ -227,7 +227,8 @@ Champagne - shampan
 champanhe - shampan vin  
 chance - chanse  
 charme - charme  
-chavena (tigela de chá) - chaikupe  
+chave - chabe  
+chavena (tigela de chá) - chai kupe  
 chefe - shefe  
 cheio - puri  
 cheirar - aromu  
@@ -241,7 +242,7 @@ ciclista - sikliste
 cidade - citi  
 cinco (5) - penta  
 cintilar - shingofota  
-citologia - cellogi  
+citologia - celu logi  
 claro - klari  
 cliente - klien  
 coelho (lebre) - tuze  
@@ -265,7 +266,7 @@ concerto - konserte
 condutor (chofer, motorista) - shofer  
 conduzir - shofa  
 conexão (vínculo, laço) - linke  
-confiar (contar com) - yaushina  
+confiar (contar com) - amen shin  
 conselho - sel  
 considerar - hema  
 construir - bina  
@@ -281,7 +282,7 @@ corno - korne
 coro - chante grupe  
 corpo - bode  
 corredor - korer  
-corrente (atual) - zai zam di  
+corrente (atual) - zai zaman di  
 correr - kora  
 correto (justo) - sahi  
 cosmo - kosmia  
@@ -302,7 +303,7 @@ cruz - krus
 crème - krem  
 crónico - duri  
 cubo - kube  
-cultivar - agra  
+cultivar - agro  
 cume (pico, topo) - shanpike  
 cápsico - chili  
 cão (cachorro) - vaf  
@@ -310,7 +311,7 @@ céu - ten
 cópia - kope  
 cósmico - kosmi  
 ####D - D  
-dado - zarkube  
+dado - zar kube  
 dados - date  
 damasco (abricó) - briko  
 dano (avaria) - avar  
@@ -320,7 +321,7 @@ dedo - angul
 deitar - kusha  
 deixar - lasha  
 dente-de-leão (taráxaco) - makanful  
-derretre - yongu  
+derretre - yong  
 descanso (repouso) - shante  
 desenvolvimento - darjomute  
 desfigurar - dusforma  
@@ -371,7 +372,7 @@ emoticon (emoji) - emoje
 emoçao - emos  
 emprestar (pedir emprestado) - jeka  
 emprestar - jekodona  
-encarar (afrontar; vérsus) - versu  
+encarar (afrontar; vérsus) - verse  
 encontrar - mita  
 endereço - adres  
 enganar - truka  
@@ -421,7 +422,7 @@ estrumpfe (smurf) - blu elfe
 estudante - estuder  
 estudar (examinar) - estuda  
 etimologia - logaslia  
-etnia - zuke  
+etnia - zuku  
 eu (me) - mi  
 evangelho - evanjil  
 evidente - eshvidi  
@@ -445,12 +446,12 @@ fala (palavras) - loge
 falar - loga  
 farol (baliza) - foto minar  
 fato (facto) - fate  
-fator - fater  
+fator - cana ja  
 favela - harabu mahala  
 favoritismo - mashfilistia  
 favorito (preferido) - mashfili  
 fazenda (tecido) - tesh  
-fazer - fata  
+fazer - fa  
 fechadura - sor  
 feio - dusvidi  
 feliz - suki  
@@ -466,7 +467,7 @@ flor - hua
 floresta de algas - algojangle  
 fogo - hoge  
 fogos de artifício - hogotehne  
-fome - yamyau  
+fome - yam yau  
 força aérea - airgun  
 foto (fotografia) - foto grafe  
 fotografia - foto grafia  
@@ -505,14 +506,14 @@ Germânia - Germania
 girafa - jiraf  
 girassol - solful  
 golfinho (delfim) - dolfin  
-gorila - gorile  
+gorila - gorila  
 governo - polite  
 granito - granite  
 graças a - danko da  
 grupo - grupe  
 grávida (prenhe) - hamili  
 guarda-chuva - shava chate  
-guaxinim (rato-lavadeiro) - vashurse  
+guaxinim (rato-lavadeiro) - vashi urse  
 guia - gider  
 guiar - gida  
 guitarra - gitar  
@@ -533,7 +534,7 @@ hora - hor
 hortelã - minte  
 hortelã-da-água - suiminte  
 hortelã-pimenta - piprominte  
-hortelã-verde - zongominte  
+hortelã-verde - zong minte  
 hotel - hotel  
 humanismo - insanistia  
 humano - insaniki  
@@ -574,7 +575,7 @@ inverno - leng mosim
 ir - kita  
 ironia - ironia  
 islã - islam din  
-item - vute  
+item - vutu  
 ####J - J  
 jade - giuke  
 jaguatirica (ocelote) - oselote  
@@ -583,20 +584,20 @@ janela - janel
 Japão - Nipon  
 jarra (jarro) - jar  
 Javé (Jeová) - Yahve  
-jengibre - zinje  
+jengibre - zinji  
 Jesus Cristo - Yesu mesi  
 joelho - gute  
 jogo de tabuleiro - ban gem  
 joule (J) - jul  
 jovem - joveni  
-jugo - yoke  
+jugo - yogo  
 juiz - juder  
 justiça - adilta  
 justo - adil  
 Júpiter - Jupiter  
 ####K - K  
 Kama Sutra - kama kanon  
-kelp - varkalge  
+kelp - varka alga  
 ####L - L  
 lado - late  
 ladrilho (telha, azulejo) - tail  
@@ -651,7 +652,7 @@ lírio - susan
 lírio-do-vale - vali susan  
 ####M - M  
 macroalga - hai alga  
-madrasta - vismai  
+madrasta - vice ma  
 magnésio - magesium  
 mahjong - majang  
 mais - mash (masho)  
@@ -683,7 +684,7 @@ matéria - mate
 maçã - aple  
 medusa - haijel  
 meia - maze  
-meio (metade) - mede  
+meio (metade) - medi  
 mel - medu  
 melancia - arbuze  
 meloa (cantalupo) - kantalupomelon  
@@ -750,9 +751,8 @@ nadar (flutuar) - boyu
 nautiloide - nautile  
 nave espacial - kosmonau  
 nação - nasia  
-necessidade - yau  
-necessitado - yavi  
-necessário - yavan  
+necessidade - yauta  
+necessário - yau di  
 neologismo - neuloge  
 Netuno - Neputun  
 neurotoxina - neurotokse  
@@ -800,7 +800,7 @@ opor - shata
 opção - chuzable  
 ordem - ratibe  
 orelha - ore  
-orfanato - yatimdom  
+orfanato - yatim dom  
 organismo - bio vute  
 organizar - noma  
 origem - asle  
@@ -819,7 +819,7 @@ pacifista - pachiste
 pacote - pake  
 pacto - kontrete  
 padeiro - beker  
-padrasto - vispai  
+padrasto - vice pa  
 pai - pa  
 painel - ban  
 palavra (vocábulo) - logem  
@@ -870,8 +870,7 @@ perguntar - suala
 perigo - hatar  
 perplexo (confuso) - ruhmishi  
 peru - dinde  
-pesado - vezi  
-pesar - vezu  
+pesado - veze di  
 pescador - peshosaider  
 pessoa - jan  
 petróleo - petronefte  
@@ -884,12 +883,12 @@ piquenique - eshyam
 pirataria - piratia  
 pirâmida - piram  
 plano - plan  
-planta (vegetal) - fite  
+planta (vegetal) - fito  
 plástico - plasti  
 pneumonia  - pulmon flame  
 Polinésia - Polnesia  
 poluição - najis  
-polvo - batosenter  
+polvo - ohtopus  
 ponta (pico, bico) - pike  
 ponta do dedo - angulpike  
 ponte - pul  
@@ -923,10 +922,10 @@ projétil - lanchite
 prolongado - longoduri  
 promessa (voto) - vode  
 prova - dalil  
-purpúreo (roxo) - viyoleti  
+purpúreo (roxo) - viyolete blu  
 purê de maçã - aplosaus  
 pá - bel  
-página - varkolate  
+página - varka late  
 pântano - fantopia  
 pão - pan  
 pícea (espruce) - pise  
@@ -943,7 +942,7 @@ queijo fresco - panir
 queimar - hoga  
 queimarse - hogu  
 quem - ke jan  
-querer (desejar) - volu  
+querer (desejar) - vol  
 querido (caro) - ami  
 querido - ai jen  
 questão (pergunta) - sual  
@@ -965,7 +964,7 @@ rasgar - chir
 rasgar - chira  
 rato - mushu  
 raça - ras  
-raíz - mul  
+raíz - mula  
 reciclar - resikle  
 recém-nascido - neujeni  
 refugo (escória) - laje  
@@ -993,9 +992,9 @@ rio - riu
 rir - haha  
 ritmo - ritim  
 robô - robote  
-rocha (pedra) - petre  
+rocha (pedra) - petra  
 rock - rokomuzike  
-roda - chakre  
+roda - chakra  
 Roma - Roma  
 romance - long kata  
 rosa - roze  
@@ -1086,7 +1085,7 @@ telescópio - teleskope
 temer - fobu  
 tempero - masale  
 templo - puja kan  
-tempo - zam  
+tempo - zaman  
 tendência - klin  
 tenso - tensi  
 tentar (provar) - testa  
@@ -1148,9 +1147,8 @@ usar - aplika
 vagina - vagina  
 vaginite - vagina flame  
 vale (uadi) - vali  
-valer - valu  
-valor (valia) - val  
-valorar - vala  
+valor (valia) - valu  
+valorar - fa valu  
 vampiro - vampir  
 vapor - suigas  
 vara (bastão) - baton  
@@ -1158,14 +1156,14 @@ vaso de flores - hua pote
 vazar - lova  
 vazio - hali  
 vegetalista - purfityamiste  
-vegetariano - fityamiste  
+vegetariano - fito yam jui ja  
 velho (antigo) - cheniki  
-vender - venda  
-ver - vida  
+vender - vende  
+ver - vide  
 verbo - karloge  
-verdadeiro - veri  
+verdadeiro - ver  
 verde - lugi  
-verdura (hortaliça, legume) - yamfite  
+verdura (hortaliça, legume) - yam fito  
 verdura - choi  
 verme - verme  
 vermelho - lali  
@@ -1174,7 +1172,7 @@ verruga - zeyil
 verão - garmomosim  
 vestir - fuka  
 vez - mar  
-vice-rei - visrajer  
+vice-rei - vice raja  
 vida - jiu  
 vidro - kanche  
 vir - lai  
@@ -1185,19 +1183,20 @@ voar - feyu
 vocabulário - logia  
 vogal - jungofon  
 voltar (regressar) - retru  
-vontade - vol  
+vontade - vol she  
 voo - fei  
 vosso - tumen di  
-votar - vota  
+votar - fa vote  
 voto - vote  
 vulcão - hogoshan  
-vulva - vulve  
+vulva - vulva  
 vários - balibali  
 Vénus - Venus  
 véu - hijabu  
 ####X - X  
+####Y - Y  
 ####Z - Z  
-zebra - zebre  
+zebra - zebra  
 zona - zona  
 zoologia - zou logi  
 zoológico - zou logi di  
@@ -1211,7 +1210,6 @@ zumbi - zombi
 árvore - moke  
 áspero - karsi  
 âncora - angar  
-étnico - zuki  
+étnico - zuku di  
 óxide - okside  
 único (só) - uniki  
-торговать - vendoshopa  

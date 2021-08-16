@@ -36,6 +36,8 @@ almas - 钻石
 aloraya - 不同意  
 amater - 爱好者  
 amen - 诚实  
+amen bil - 忠实  
+amen shin - 信赖  
 ami - 亲爱的  
 an - 在  
 an lin - 在线  
@@ -121,13 +123,13 @@ bata - 鸭
 bateri - 电池  
 bato - 八 (8)  
 baton kapse - 笼  
-batosenter - 章鱼  
 bau sheke - 宝石  
 bavi - 宝贵  
 bazar - 市场  
 baze - 底部  
 bazobol - 棒球  
 bazoshulkan - 小学  
+be van - 玩耍  
 be’e - 山羊  
 bebe - 宝宝  
 bekofan - 陶瓦  
@@ -174,13 +176,14 @@ bufete - 自助餐
 buke - 书  
 bum - 爆炸  
 buton - 扣子  
-cellogi - 细胞学  
-ch - C  
+####C - C  
+celu logi - 细胞学  
+chabe - 钥匙  
 chai - 茶  
-chaikan - 茶馆  
-chaikupe - 茶碗  
-chaipote - 茶壶  
-chakre - 轮子  
+chai kan - 茶馆  
+chai kupe - 茶碗  
+chai pote - 茶壶  
+chakra - 轮子  
 chamache - 匙子  
 chante grupe - 合唱团  
 chatre - 四 (4)  
@@ -277,6 +280,8 @@ estibium - 锑
 europobalute - 夏櫟  
 evanjil - 福音  
 ####F - F  
+fa - 作  
+fa vode - 许诺  
 faidia - 效用 (好处)  
 fan - 坭  
 fandefban - 挡泥板  
@@ -296,13 +301,14 @@ filsofia - 哲学
 fino - 了  
 fiorde - 峡湾  
 firuze - 绿松石  
-fite - 植物  
-fitolojia - 植物学  
-fityamiste - 素食主义者  
+fito - 植物  
+fito logi - 植物学  
+fito yam jui ja - 素食主义者  
 flame - 炎症  
 fleche - 箭  
 foba - 吓唬  
 fobu - 害怕  
+fong - 蜂  
 fora - 钻孔  
 foto - 光  
 foto frika - 擦亮  
@@ -314,6 +320,7 @@ frika - 擦伤
 frute - 果  
 fuke - 衣服  
 fuku - 穿  
+fuku vashi gi - 洗衣机  
 fungu frute - 蘑菇  
 fute marke - 脚印  
 ####G - G  
@@ -353,7 +360,7 @@ glutobende - 创可贴 (邦迪)
 glutofan - 黏土  
 glutograf - 贴纸  
 gol - 目的  
-gorile - 大猩猩  
+gorila - 大猩猩  
 goton - 棉  
 grafi kata - 漫画  
 granite - 花岗石  
@@ -508,7 +515,7 @@ kankuate - 金柑
 kanon - 经典  
 kantalupomelon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
-kapotruke - 陷阱  
+kape truke - 陷阱  
 kar - 工作  
 kara - 工作  
 karbodulokside - 二氧化碳  
@@ -554,6 +561,7 @@ klien - 顾客
 klimmute - 气候变化  
 klin - 趋势  
 ko? - 怎么  
+koda - 尾巴 (尾部)  
 komputer - 计算机  
 konboni - 相配  
 konchung - 昆虫  
@@ -739,7 +747,7 @@ molsheke - 磨石
 mos - 苔藓  
 mosim - 季  
 moto - 马达 (发动机)  
-mul - 根  
+mula - 根  
 mumchape - 封印  
 mummelon - 冬瓜 (白瓜)  
 mur - 墙壁  
@@ -781,6 +789,7 @@ note - 便条
 numbe - 数  
 ####O - O  
 o - 或  
+ohtopus - 章鱼  
 oke - 眼睛  
 okosuigas - 催泪瓦斯  
 okside - 氧化物  
@@ -1104,12 +1113,11 @@ ura - 好哇
 va - 哇  
 vaf - 狗  
 vagina - 阴道  
-val - 价值  
 vali - 山谷  
 vali susan - 鈴蘭  
+valu - 价值  
 vampir - 吸血鬼  
 van - 娱乐  
-vanu - 玩耍  
 var chatre - 星期四 (禮拜四)  
 var du - 星期二 (禮拜二)  
 var luku - 星期六 (礼拜六)  
@@ -1118,71 +1126,67 @@ var sete - 星期日 (禮拜日)
 var tri - 星期三 (禮拜三)  
 var un - 星期一 (禮拜一)  
 var var - 週  
-vashurse - 浣熊  
-vei - 尾巴 (尾部)  
-veilin - 緯紗  
-veisirke - 纬度  
-venda - 卖  
-vendoshope - 贸易  
+vashi urse - 浣熊  
+vei darje - 纬度  
+vei lin - 緯紗  
+vende - 卖  
+vende shope - 贸易  
 Venjou - 温州  
-venjovoranje - 温州蜜柑  
+venjou oranje - 温州蜜柑  
 ventur - 冒险  
-venturer - 冒险者  
-vespe - 蜂  
-vezi - 重型的  
-vida - 看  
+ventur ja - 冒险者  
+veze di - 重型的  
+vice ma - 继母  
+vice pa - 继父  
+vide - 看  
 vidou - 寡妇  
 vijin - 味精  
 virje - 处女  
-vismai - 继母  
-vispai - 继父  
-voda - 许诺  
 vode - 诺言  
-volu - 想要 (愿意)  
-vulve - 外阴 (陰门)  
-vute - 物体 (物品)  
+vol - 想要 (愿意)  
+vulva - 外阴 (陰门)  
+vutu - 物体 (物品)  
 ####X - X  
+####Y - Y  
 ya - 他，她，它  
 ya di - 他的  
 Yahve - 耶和华 (雅威)  
+yam fito - 蔬菜  
+yam yau - 饥饿  
 yamen - 他们  
 yamen di - 他们的  
-yamfite - 蔬菜  
-yamyau - 饥饿  
 yasen - 白蜡树  
-yatimdom - 孤儿院  
-yaushina - 信赖  
-yaushinabli - 忠实  
-yavan - 必要的  
+yatim dom - 孤儿院  
+yau di - 必要的  
 ye - 对 (是)  
 yeki kanon - 易经 (周易)  
 Yesu - 耶稣  
 Yesu mesi - 耶稣基督  
 yoga - 瑜伽功  
-yoke - 轭  
+yogo - 轭  
 yom - 日  
-yongopetre - 熔岩  
-yongosaha - 熔炼  
-yongu - 融化  
+yong - 融化  
+yong petra - 熔岩  
+yong safa - 熔炼  
 ####Z - Z  
-zai zam di - 现在的  
-zam - 时间  
-zarkube - 骰子 (色子)  
+zai zaman di - 现在的  
+zaman - 时间  
+zar kube - 骰子 (色子)  
 ze - 从  
-zebre - 斑马  
+zebra - 斑马  
 zeyil - 疣  
 zeze - 双翅目  
 zi - 字  
-zinje - 姜  
-zire - 孜然  
-zoki - 指针式的  
-zoko - 还 (依然)  
+zinji - 姜  
+zira - 孜然  
+zoku - 还 (依然)  
+zoku di - 指针式的  
 zong - 桩  
-zongominte - 留兰香  
+zong minte - 留兰香  
 zou - 动物  
 zou logi - 动物学  
 zou parke - 动物园  
-zuke - 民族  
+zuku - 民族  
 zumarda - 绿宝石 (祖母绿)  
  - 多雨  
  - 敌手  

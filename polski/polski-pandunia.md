@@ -36,7 +36,6 @@ aligator - korte krokodil
 alkohol - alkol  
 alkoholowy - alkoli  
 alofon - alofon  
-alternatywa (substytut, zastępstwo) - vis  
 ambasada - dayanjilkan  
 ambasador - dayanjiler  
 amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki) - UDA du  
@@ -77,7 +76,7 @@ arabski - arabi
 arachnofobia - aranofobia  
 arboretum - mokojongoparke  
 arbuz - arbuze  
-archipelag - nesia  
+archipelag - nesia grupe  
 architekt - binplaner  
 architektura - binplania  
 Argentyna - Argentina  
@@ -89,8 +88,8 @@ Armenia - Hayaki
 armia - gun  
 aromantyczny - anromansi  
 arsen - arsene  
-artykuł wiki - vike  
-artykuł, tekst - makal  
+artykuł wiki - viki makala  
+artykuł, tekst - makala  
 artysta - artiste  
 Aruba - Aruba  
 arytmetyka - hisabia  
@@ -156,7 +155,7 @@ basen - basen
 bateria - bateri  
 baton czekoladowy - choklatobaton  
 bawełna - goton  
-bawić, zabawiać - vana  
+bawić, zabawiać - fa van  
 bawół domowy - karbau  
 baza danych (bank danych) - datobanke  
 bazowy, podstawowy - bazi  
@@ -186,7 +185,7 @@ biblioteka - kitabu kan
 bibliotekarz - kitabu minister  
 biec (biegać, pędzić) - kora  
 biedny, mizerny - miskini  
-bieżący (aktualny, obecny) - zai zam di  
+bieżący (aktualny, obecny) - zai zaman di  
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion, giga- - giga*  
@@ -220,7 +219,7 @@ bomba - bomba
 Bombaj (Mumbaj) - Mumbai  
 bor - boron  
 boski - deu li  
-botanika - fitolojia  
+botanika - fito logi  
 Botswana - Cuana  
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosna e Hercegovina  
@@ -267,7 +266,7 @@ być podobnym, być jak - samu
 być przeciw - kontra  
 być umiejscowionym (być ulokowanym, stać) - loku  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym - nama  
-być widzianym - vidu  
+być widzianym - be vide  
 być wycentrowanym, być w środku - jungu  
 bóbr - kastor  
 bóg, bóstwo - deu  
@@ -280,7 +279,7 @@ błotnisty - fani
 błoto - fan  
 błąd (pomyłka) - galte  
 błędny (niepoprawny) - galti  
-####C - ch  
+####C - C  
 Cantalupo in Sabina - Kantalupo va Sabina  
 całość (integralność) - holia  
 całus - chum  
@@ -308,7 +307,7 @@ chaber wełnisty - solchentaur
 Champagne - shampan  
 chaos, nieporządek; wrzawa, zgiełk - haos  
 chcieć (pragnąć) - icha  
-chcieć, pragnąć - volu  
+chcieć, pragnąć - vol  
 chciwy (żądny) - tami  
 chemia - kimlojia  
 chemiczny - kimi  
@@ -349,15 +348,15 @@ ciemny, słabo oświetlony - oskuri
 ciepły - garmi  
 cierpienie, ból - pashia  
 cierpieć - pashu  
-cieszyć się (zażywać, bawić się) - vanu  
+cieszyć się (zażywać, bawić się) - be van  
 cieszyć, podobać się - suka  
 cień - saya  
 ciągnąć - tira  
-ciągły (analogowy) - zoki  
+ciągły (analogowy) - zoku di  
 ciąć - kata  
 ciężar (brzemię) - bari  
 ciężarny (w ciąży) - hamili  
-ciężki (masywny) - vezi  
+ciężki (masywny) - veze di  
 ciśnienie atmosferyczne - airbaria  
 ciśnięty (rzucony, miecony) - lanchi  
 cmentarz - gabur istan  
@@ -371,7 +370,7 @@ cudzysłów - chitomarke
 cukier - sukar  
 cukierek, słodycze - kandi  
 cukinia - lilkaboge  
-cukrowiec jadalny - yamsukarchau  
+cukrowiec jadalny - yam sukar cau  
 cwał (galop) - galope  
 cynk - estan  
 cynk - zinke  
@@ -379,7 +378,7 @@ Cypr - Kipris
 Cypr Północny - Nordi Kipris  
 cyrkon - zirkonium  
 cyrylica - kirili harfia  
-cytologia - cellogi  
+cytologia - celu logi  
 cytować - chita  
 cytryna - limon  
 cywilizacja - sivilia  
@@ -391,7 +390,7 @@ czar (urok, wdzięk) - charme
 Czarnogóra - Chernagora  
 czarny - siyahi  
 czas (epoka, era) - durzam  
-czas - zam  
+czas - zaman  
 czas; okazja - mar  
 czasownik - karloge  
 czaszka - saroste  
@@ -409,7 +408,7 @@ czuć, odczuć, odczuwać - emosu
 czwartek - var chatre  
 czyn, uczynek - fate  
 czysty (higieniczny, sanitarny) - salsafi  
-czysty - safi  
+czysty - safa  
 czytać - duga  
 cząstka (ziarno, kula, pocisk) - dan  
 często - polmaro  
@@ -546,7 +545,7 @@ dzień - den
 dzień dobry - salam den  
 dzień świętego Jana - Yohan festa  
 dziki - ekojeni  
-dziki - vildi  
+dziki - vilde  
 dziobak - bata krote  
 dziura - kong  
 dziw (cudo) - ajabe  
@@ -564,7 +563,8 @@ dąb szypułkowy - europobalute
 dąb zębaty - dantobalute  
 długi - longi  
 długość - longia  
-długość geograficzna - vestodongia  
+długość geograficzna - ging cirke  
+długość geograficzna - ging darje  
 dźinizm, dżinizm - jeinistia  
 dźwignia - tirbaton  
 dźwięk, brzmienie - son  
@@ -611,7 +611,7 @@ Esperanto - esperanti
 Estonia - Esti  
 etap, faza - faze  
 Etiopia - Etiopia  
-etniczny - zuki  
+etniczny - zuku di  
 etyka - dekolojia  
 etymologia - logaslia  
 Eurazja - eurasia  
@@ -646,7 +646,7 @@ filozofia - filsofia
 filozoficzny - filsofi  
 filtr - filter  
 Finlandia - Suomi  
-fioletowy - viyoleti  
+fioletowy - viyolete blu  
 fiord - fiorde  
 firma, kompania, korporacja - kompania  
 fizyk - fizikia  
@@ -722,9 +722,9 @@ godzina - hor
 golem - golem  
 goniometr (kątomierz) - gonmetrer  
 gorbusza - rozosalmon  
-goryl - gorile  
+goryl - gorila  
 goryl wschodni - dongogoril  
-goryl zachodni - vestogoril  
+goryl zachodni - veste gorila  
 gorzka pomarańcza - kali oranje  
 gorzki - kali guste  
 gorączka - febre  
@@ -757,7 +757,7 @@ gruby - gros
 grudzień - mes tisa  
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
-grupa etniczna - zuke  
+grupa etniczna - zuku  
 gruszka - leze  
 Gruzja (Republika Gruzji) - Kartvel  
 grymas - grimas  
@@ -790,11 +790,11 @@ gładki - lisi
 głaz - daisheke  
 głos - vote  
 głoska - fon  
-głosować (złożyć głos) - vota  
+głosować (złożyć głos) - fa vote  
 głowa - sar  
 głupi (idiotyczny) - idioti  
 głupiec, bufon - bufon  
-głód - yamyau  
+głód - yam yau  
 główny - shefi  
 głęboki - fasteli  
 głębokość - fastelia  
@@ -806,9 +806,8 @@ hak - huke
 halo, cześć - halo  
 hamak - hamake  
 han chiński - Han  
-handel - vendoshope  
-handlarz (kupiec) - vendoshoper  
-handlować - vendoshopa  
+handel - vende shope  
+handlarz (kupiec) - vende shope ja  
 harmonia - harmonia  
 harmoniczny - harmoni  
 has - hesium  
@@ -823,7 +822,7 @@ hebrajski - ibri
 hel - helium  
 helikopter - helisviman  
 helisa - helis  
-herbaciarnia - chaikan  
+herbaciarnia - chai kan  
 herbata - chai  
 herc - herze  
 heteroromantyczny - aloromansi  
@@ -841,7 +840,7 @@ Hiszpania - Espanya
 hmm - hem  
 Ho Chi Minh (Sajgon) - Ho chi Min site  
 hobby - hobi  
-hodowla zwierząt - zou agria  
+hodowla zwierząt - zou agro shutu  
 hojność (szczodrość) - karimia  
 hojny (szczodry) - karimi  
 hokej - hoke  
@@ -866,13 +865,14 @@ humanizm - insanistia
 hummus - humus sos  
 humor (nastrój) - emoshal  
 humor - yumor  
-humorystyczny, śmieszny, zabawny, komiczny - yumori  
+humorystyczny, śmieszny, zabawny, komiczny - yumor di  
 hybryda; kundel - hibride  
 hę?, co?, pardon? - he  
 ####I - I  
 i, oraz - e  
 idea, pomysł - idei  
 ideogram - ideigraf  
+ideologii - jui  
 idiota - idiote  
 idiotyzm (głupota) - idiotia  
 ifrit - ifrite  
@@ -881,8 +881,8 @@ ile? - ko multo
 ilość - polia  
 ilustrator, grafik - grafi ja  
 iluzja (halucynacja) - falsvide  
-imbir - zinje  
-imbryk (czajnik) - chaipote  
+imbir - zinji  
+imbryk (czajnik) - chai pote  
 imbryk do kawy - kafopote  
 imię, nazwa - name  
 imperator - imperer  
@@ -921,7 +921,7 @@ iryd - iridium
 Islam - islam din  
 islamofobia - islamfobia  
 Islandia - Islande  
-istnieć (być obecnym) - zayu  
+istnieć - zai  
 Italia, Włochy - Italia  
 iterb - yuterbium  
 itr - yutrium  
@@ -934,7 +934,7 @@ iść, maszerować - marcha
 ja, mnie - mi  
 jabłko - aple  
 jabłko cukrowe - ata*  
-jadalnia - yamkamar  
+jadalnia - yam kamar  
 jagoda - bere  
 jajko (jajo) - ande  
 jak (zwierzę) - yake  
@@ -946,7 +946,7 @@ jakiś - yo
 Jamajka - Jamaika  
 Japonia - Nipon  
 japoński - niponi  
-jarzmo - yoke  
+jarzmo - yogo  
 jaskinia - gua  
 jasnoniebieski (lazurowy) - tennili  
 jasny, czysty - mingi  
@@ -964,7 +964,7 @@ jednoznaczny - unmeni
 jedwab - silke  
 jedynie (tylko) - uniko  
 jedyny (wyłączny) - uniki  
-jedzenie, posiłek - yam  
+jedzenie, posiłek - yam she  
 jej - yei  
 Jemen - Yemen  
 Jerozolima - Urushalem  
@@ -991,7 +991,7 @@ jęczmień - jau
 język - lisan  
 język ojczysty (język rodzimy) - jeni bash  
 język surinamski - surinami bash  
-język sztuczny - chanbash  
+język sztuczny - cana basha  
 język świata, język ogólnoświatowy - dunia bash  
 język; komunikacja; mówić - basha  
 językoznastwo - bashalogi  
@@ -1041,7 +1041,7 @@ karczoch hiszpański - kardonkarchof
 karczoch zwyczajny - karchof  
 Karnataka - karnadia  
 karta - karde  
-kartka (dokument) - varke  
+kartka (dokument) - varka  
 kartografia - metregrafia  
 kasjer - kasher  
 kasta - jenklas  
@@ -1108,12 +1108,12 @@ kochany (drogi) - ami
 kochać romantycznie - romansa  
 kocioł - daivaze  
 kod, szyfr - kode  
-kodować - koda  
-koka - koke  
-kokos - yeze  
+kodować - kode  
+koka - koka  
+kokos - yezi  
 koktajl - mishi alkol  
-kola (coca-cola) - kokokol  
-kola, napój gazowany - kole  
+kola (coca-cola) - Koka Kola  
+kola, napój gazowany - kola  
 kolacja - sham yam  
 kolano - gute  
 kolczuga - silnete  
@@ -1130,7 +1130,7 @@ kolor - rang
 Kolumbia - Kolombia  
 kolumna, filar - kolum  
 komar, moskit - moskite  
-komik - yumoriste  
+komik - yumor ja  
 komiks; kreskówka - grafi kata  
 Komory - Komoro nesia  
 kompas (namagnesowana igła) - pontopin  
@@ -1139,7 +1139,7 @@ kompost - biyochaniver
 komputer - komputer  
 komunista - konchaniste  
 komunizm - konchanistia  
-komórka (biologia) - cel  
+komórka (biologia) - celu  
 koncert - konserte  
 konfucjanizm - kongfuzistia  
 Konfucjusz - Kongfuze  
@@ -1150,7 +1150,6 @@ konopie - ganje
 konsekwencja, skutek - pos  
 konstytucja - bazokanun  
 konto - hisabu loge  
-kontynuować; wznawiać, ponawiać - zoku  
 konwalia majowa - vali susan  
 konwencjonalny, zwyczajowy, tradycyjny - riti  
 kopalnia - kuangia  
@@ -1169,7 +1168,7 @@ korek, zatyczka, szpunt - tape
 korniszon - suanpurshipi hiyar  
 korona - koron  
 koronawirus - koronvirus  
-korzeń - mul  
+korzeń - mula  
 korzystny (dobry) - evi  
 kosmiczny - kosmi  
 kosmonauta - kosmonaver  
@@ -1186,12 +1185,12 @@ kotwica - angar
 kowadło - metalbede  
 kowal - metaljanger  
 koza - be’e  
-koło - chakre  
+koło - chakra  
 koło, okrąg - sirke  
 koń - uma  
 kościół - eglis  
 kość - oste  
-kość do gry - zarkube  
+kość do gry - zar kube  
 krab - krabe  
 kradzież - chor  
 kraj, ziemia - desha  
@@ -1205,7 +1204,7 @@ krewetka - krevete
 krokodyl - krokodil  
 krokodyl - longokrokodil  
 kropka (znak interpunkcyjny) - punte  
-kropla - yote  
+kropla - giota  
 krosno - teshmashin  
 krowa - mumu  
 krwawić - lova sang  
@@ -1237,7 +1236,7 @@ kszesło, fotel - kurse
 ktoś - yo jan  
 Kuba - Kuba  
 kubek - kupe  
-kubek do herbaty - chaikupe  
+kubek do herbaty - chai kupe  
 kucać (kucnąć) - insida  
 kucharz - kuker  
 kuchnia - kukokamar  
@@ -1247,11 +1246,11 @@ kuloodporny - dansekuri
 kult ognia - hogopujia  
 kultura - kultur  
 kulturystyka - muskulbin  
-kumin, kmin - zire  
+kumin, kmin - zira  
 kumkwat - kankuate  
 kupić - shopa  
 kupon - kupon  
-kura, kogut, kurczak - kokode  
+kura, kogut, kurczak - koko  
 kurtka - jake  
 kusić, nakłonić, nakłaniać - tenta  
 kusza (balista) - krusarke  
@@ -1289,7 +1288,7 @@ latać (fruwać) - rivu
 latać, lecieć - feyu  
 lato - garmomosim  
 laudacja - euloge  
-lawa - yongopetre  
+lawa - yong petra  
 lazania - lazanya  
 lejek - riutube  
 lekcja - shula  
@@ -1328,7 +1327,7 @@ lis - huli
 lista słów - logoliste  
 lista, spis, wykaz - liste  
 listopad - mes bato  
-listownicowiec - varkalge  
+listownicowiec - varka alga  
 lit - litium  
 litera, znak - harfi  
 litewski - lietuva bash  
@@ -1341,11 +1340,11 @@ lody - aiskrem
 logiczny - logiki  
 logika, dedukcja - logike  
 logofil (miłośnik słów) - logofiler  
-lojalność (wierność) - yaushinablia  
-lojalny (wierny) - yaushinabli  
+lojalność (wierność) - amen bilta  
+lojalny (wierny) - amen bil  
 Londyn - London  
 lorens - lorencium  
-losowy - zari  
+losowy - zar di  
 lot - fei  
 lotnisko (port lotniczy) - airporte  
 lub, albo - o  
@@ -1396,7 +1395,7 @@ Malezja - Malaisia
 Mali - Mali  
 Malta - Malta  
 mandarynka - laloranje  
-mandarynka Satsuma (pomarańcza Satsuma) - venjovoranje  
+mandarynka Satsuma (pomarańcza Satsuma) - venjou oranje  
 mandaryński chiński, Putonghua - Putong Han  
 mangan - mangan  
 mango - mangou  
@@ -1510,7 +1509,7 @@ mit (boska opowieść) - deu kata
 miód - medu  
 mięczak (morski bezkręgowiec) - moluske  
 między (wśród, pośród) - medu  
-międzyetniczny - zukomedi  
+międzyetniczny - zuku medi di  
 międzynarodowy - nasmedi  
 międzyrasowy - rasmedi  
 miękki - komali  
@@ -1519,7 +1518,7 @@ mięso - nama
 mięta - minte  
 mięta pieprzowa - piprominte  
 mięta wodna - suiminte  
-mięta zielona (mięta kłosowa) - zongominte  
+mięta zielona (mięta kłosowa) - zong minte  
 miłośnik (fan, -fil) - filer  
 miłość (afekt) - ai  
 miłość romantyczna - romansia  
@@ -1650,9 +1649,9 @@ nauka, badanie, studiowanie - logi
 Nauru - Nauru  
 nautilus - nautile  
 nawet - hata  
-nawozić (nawieźć) - chaniva  
+nawozić (nawieźć) - frute cana  
 nawyk (przyzwyczajenie) - ada  
-nawóz - chaniver  
+nawóz - frute cana ja  
 nazista - naziste  
 nazizm - nazistia  
 nazwa użytkownika - user name  
@@ -1747,13 +1746,13 @@ nudysta - nudiste
 nudyzm - nudistia  
 numer - numbe  
 nylon - nilon  
-nóż - chake  
+nóż - chaku  
 ####O - O  
 oaza - vase  
 obcęgi, kleszcze, szczypce - pinser  
-obecny, teraźniejszy, aktualny, bieżący, współczesny - zayi  
+obecny, teraźniejszy, aktualny, bieżący, współczesny - zai di  
 obiad, lunch - den yam  
-obiecać, angażować się - voda  
+obiecać, angażować się - fa vode  
 obiecujący (dobrze wróżący) - bonsinyi  
 obniżać (obniżyć) - tala  
 obozowicz - kampe  
@@ -1771,7 +1770,7 @@ obrońca - defer
 obrus - mezotesh  
 obrócić (kręcić) - rota  
 obrócić się (kręcić się) - rotu  
-obserwator (widz) - vider  
+obserwator (widz) - vide ja  
 obsydian - osidian  
 obudzić, budzić - jaga  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - rite  
@@ -1788,7 +1787,7 @@ ocelot - oselote
 ocelot tygrysi - bagroselote  
 ocena, krytyka - piping  
 ocenić, oceniać, recenzować, komentować, krytykować - pipinga  
-ocet - vinsuan  
+ocet - vin suan  
 oczywiście - klaro  
 odbiorca - geter  
 odbić, odbijać - mira  
@@ -1810,7 +1809,7 @@ oficjalny - ofisi
 oganesson - oganeson  
 ogień - hoge  
 ognisty - hogi  
-ogon - vei  
+ogon - koda  
 ogr (trol, goblin) - gui  
 ogórek - hiyar  
 ogórek kiwano - kornomelon  
@@ -1819,7 +1818,7 @@ ojciec - pa
 okej, spoko, akceptowalny - okeyi  
 okno - janel  
 oko - oke  
-około; przybliżony - yago  
+około; przybliżony - yagu  
 okrągły - sirki  
 olej - nefte  
 oliwka - zaitun  
@@ -1865,7 +1864,7 @@ ostrożeń lancetowaty - perkardon
 ostrzarka (kamień młyński) - molsheke  
 oswoić (oswajać, tresować, trenować) - dosila  
 oswojony (potulny, posłuszny) - dosili  
-oszacować, szacować, przybliżyć, przybliżać - yaga  
+oszacować, szacować, przybliżyć, przybliżać - fa yagu  
 oszczędzać (deponować) - banka  
 oszukać (oszukiwać - truka  
 otoczyć, otaczać - sirka  
@@ -1882,7 +1881,7 @@ owoc kiwi - kivi*
 ołtarz - puja meza  
 ołów - plumbe  
 oś - akse  
-ośmiornica - batosenter  
+ośmiornica - ohtopus  
 ożeniony, zamężny, w związku małżeńskim - gami  
 ożenić się, poślubić, wyjść za mąż - gama  
 ####P - P  
@@ -1948,7 +1947,7 @@ patelnia - tave
 patogen - patojener  
 patologia - patilogi  
 patrzeć (oglądać) - oka  
-patrzeć, widzieć - vida  
+patrzeć, widzieć - vide  
 pauza (przerwa) - pauze  
 paznokieć - nahun  
 pałac - daidom  
@@ -1962,7 +1961,7 @@ pendżabski - panjabi
 penis - penis  
 perfekcyjny - purboni  
 Pers; perski, farsi - farsi  
-perspektywa (punkt widzenia) - vidopunte  
+perspektywa (punkt widzenia) - vide punte  
 Peru - Peru  
 peryferyjny - kinar li  
 perła - lul  
@@ -2074,7 +2073,7 @@ poeta - shirer
 pogoda - tenhal  
 pogrubiona litera - gros harfi  
 poinformować, informować, zakomunikować, komunikować - konsavana  
-pojawić się - zayu  
+pojawić się - be zai  
 pojęciowy - ideyi  
 pokaz, ekspozycja, wystawa - shou  
 poker - poke  
@@ -2083,7 +2082,7 @@ pokrycie; pokrywa, wieko, dekiel; pokład - dake
 pokój - pache  
 pokój rozmów, chat - blabla kan  
 pokój, sala - kamar  
-pole widzenia - vidomeden  
+pole widzenia - vide meden  
 pole, powierzchnia - area  
 polerować (szlifować) - foto frika  
 policja - polis  
@@ -2121,7 +2120,7 @@ poprzedni - cheni
 poprzedzić, poprzedzać - chena  
 populacja - demomultia  
 popularny, modny - fashoni  
-popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać - yala  
+popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać - ajila  
 popłoch pospolity - pinkardon  
 por - porei  
 pora roku - mosim  
@@ -2138,7 +2137,7 @@ port morski (przystań) - haiporte
 Portoryko (Puerto Rico) - Portorikia  
 Portugalia - Portugal  
 porywacz pociągu - trenkaper  
-porywacz samolotu - vimankaper  
+porywacz samolotu - fei gi di kape ja  
 porządek - ratibe  
 porządkować, organizować - ratiba  
 poręcz (balustrada) - langan  
@@ -2147,13 +2146,13 @@ postawiony (stojący) - libi
 postawić (stawiać) - liba  
 posuwać się do przodu (dokonywać postępu, wejść) - jinu  
 poszukiwacz (badacz, eksplorator) - brauzer  
-poszukiwacz przygód (awanturnik) - venturer  
+poszukiwacz przygód (awanturnik) - ventur ja  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauze  
 posłaniec (wysłannik) - anjiler  
 pot - suede  
 potas - kalium  
-potrzeba - yau  
-potrzebny - yavan  
+potrzeba - yauta  
+potrzebny - yau di  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
 potwór, monstrum - monoster  
 powiadomić, powiadamiać - notana  
@@ -2181,7 +2180,8 @@ pozwolić, pozwalać, zezwolić, zezwalać - halala
 połknąć (połykać) - gula  
 położyć - kusha  
 południe - sude  
-południk - veisirke  
+południk - vei cirke  
+południk - vei darje  
 Południowa Afryka - Sudafrike  
 południowy - sudi  
 połączenie, złącze, styk - linke  
@@ -2197,18 +2197,18 @@ practyczny, pragmatyczny - prati
 pragnienie - suiyau  
 praktyka, aktualność - prate  
 praktykant - karshuler  
-pralka - vashmashin  
+pralka - fuku vashi gi  
 prawa autorskie - kopohake  
 prawa człowieka - insani hake  
 prawa strona - raite  
-prawdziwy (rzeczywisty, szczery) - veri  
+prawdziwy (rzeczywisty, szczery) - ver  
 prawicowiec (prawak) - raitiste  
 prawo - kanun  
-prawo wyborcze - votohake  
+prawo wyborcze - vote haki  
 prawo, przywilej - haki  
 prawy (prawostronny, z prawej strony) - raiti  
 prazeodym - prasedium  
-prać, umyć, myć - vasha  
+prać, umyć, myć - vashi  
 precyzyjny, dokładny - justi  
 preferować (woleć) - mashfila  
 premier - shefe minister  
@@ -2218,8 +2218,8 @@ problem, kłopot, zakłócenie - turbe
 problematyczny - problemi  
 proces, procedura - proses  
 proch strzelniczy - barude  
-produkcja - chania  
-produktywny (żyzny) - chanivi  
+produkcja - cana ya  
+produktywny (żyzny) - cana li  
 profesja, zajęcie, zawód - peikar  
 profesor - profeser  
 program - program  
@@ -2248,10 +2248,10 @@ przebudzony, przytomny - jagi
 przechowawca, kustosz, opiekun - hafizer  
 przechylać (przechylić, wychylać, wychylić) - tercha  
 przeciekać, ciec - lova  
-przecinek - kome  
+przecinek - koma  
 przeciwnie do ruchu wskazówek zegara - rotolefto  
 przeciwnik (antagonista) -   
-przedmiot (obiekt) - vute  
+przedmiot (obiekt) - vutu  
 przedpołudnie - suboden  
 przedrostek (prefiks) - chenfikse  
 przedstawić (przedłożyć, przedstawić, złożyć, składać) - karmisa  
@@ -2319,7 +2319,7 @@ pręt, kij - baton
 pstrąg potokowy - brun salmon  
 pstrąg tęczowy - rangarke salmon  
 psychologia - ruhulogi  
-pszczoła lub osa - vespe  
+pszczoła lub osa - fong  
 pszczoła miodna - medu vespe  
 pszenica - ganum  
 ptak - pakse  
@@ -2333,15 +2333,15 @@ punkt - binde
 pustka - hali  
 pusty - hali  
 pustynia - registan  
-pułapka - kapotruke  
-pyszny - yami  
+pułapka - kape truke  
+pyszny - bon guste di  
 pytajny, związany z pytaniem - sualan  
 pytanie - sual  
 pył - fun  
 półka (regał na książki) - liboban  
 północ - norde  
 północny - nordi  
-półwysep - yagones  
+półwysep - yagu nes  
 później (w przyszłości) - poso  
 pękać (rozrywać się) - parchokayu  
 pęknięcie - krake  
@@ -2399,8 +2399,8 @@ religia, wyznanie - din
 religijny - din li  
 relikwia - chenike  
 ren - renium  
-reprezentant (przedstawiciel) - vakil  
-reprezentować - vakila  
+reprezentant (przedstawiciel) - vakil ja  
+reprezentować - vakil  
 republika - komunkratia  
 Republika Czeska, Czechy - Cheska  
 Republika Dominikańska (Dominikana) - Dominika Komunkrati  
@@ -2454,7 +2454,7 @@ rozum, rozsądek - razon
 rozumieć, pojmować - aha  
 rozwój - darjomute  
 rozłożyć się (rozkładać się, gnić, psuć się) - pudu  
-roślina, sadzonka - fite  
+roślina, sadzonka - fito  
 rożen (szpikulec) - shish  
 rtęć - hidrargente  
 rubid - rubidium  
@@ -2583,7 +2583,7 @@ siedem (7) - sete
 siedzenie (siodło) - side  
 siedzieć - sida  
 siekera, topór - futau  
-sierociniec, dom dziecka - yatimdom  
+sierociniec, dom dziecka - yatim dom  
 sierota - yatim  
 sierpień - mes penta  
 Sierra Leone - Salon  
@@ -2603,10 +2603,10 @@ skand - eskandium
 Skandynawia - Eskandia  
 skarb; skrabiec - bau  
 skarpeta, skarpetka, pończocha - maze  
-skała - petre  
+skała - petra  
 skała macierzysta - bazopetre  
 skoczyć, skakać - jampa  
-skonsumować, konsumować, zjeść, jeść, wypić, pić) - yama  
+skonsumować, konsumować, zjeść, jeść, wypić, pić) - yam  
 skorupa (pancerz, muszla) - kaske  
 skończony (ograniczony) - limiti  
 skończyć, kończyć - fin  
@@ -2618,7 +2618,7 @@ skrócić, skracać - korte fa
 skupienie, koncentracja - fokus  
 skupić, się, skoncentrować się - fokusa  
 skwer, plac - meden  
-skwierczeć - ziza  
+skwierczeć - zizi  
 skóra - pil  
 slums - harabu mahala  
 smacznego - salam yam  
@@ -2671,7 +2671,7 @@ sprawiedliwość - adilta
 sprawiedliwy - adil  
 sprawić ból, sprawiać ból - pasha  
 sprzeciwiać się (opierać się) - shata  
-sprzedać (sprzedawać) - venda  
+sprzedać (sprzedawać) - vende  
 sprzątacz, sprzątacz - safer  
 spróbować, próbować - testa  
 spód - niche  
@@ -2682,7 +2682,7 @@ spłonąć, płonąć - hogu
 srać (robić gówno) - shita  
 srebro - argente  
 Sri Lanka - Lanka  
-srom - vulve  
+srom - vulva  
 ssak - mamal  
 ssać - chupa  
 stacja - estasia  
@@ -2716,7 +2716,7 @@ stracić (utracić, tracić, zgubuć, gubić) - shibaya tena
 strażnik więzienny - prizoner  
 strażnik, ochroniarz - garder  
 strona (bok) - late  
-strona - varkolate  
+strona - varka late  
 stront - estrontium  
 strzała (bełt) - fleche  
 strzelać (strzelić) - pava  
@@ -2793,12 +2793,12 @@ szofer (kierowca) - shofer
 szogun - gunrajer  
 szogunat - gunrajia  
 szokwstrząs; kolizja - shoke  
-szop pracz - vashurse  
+szop pracz - vashi urse  
 szorstki - karsi  
 szparag; szparagia - lusun  
 szron - hima rose  
 sztuczka (podstęp, oszustwo) - truke  
-sztuczny - chani  
+sztuczny - cana di  
 sztuka - sundar shutu  
 sztuka walki - jengoshute  
 sztylet (puginał) - kanjar  
@@ -2892,8 +2892,8 @@ teoria - teoria
 teozofia - deu sofi  
 tera- - tera*  
 terakota - bekofan  
-teraźniejszość, współczesność (teraz) - zai zam  
-teraźniejszość, współczesność - zayia  
+teraźniejszość, współczesność (teraz) - zai zaman  
+teraźniejszość, współczesność - zaita  
 terb - terbium  
 teren - geo forme  
 termometr - termometre gi  
@@ -2921,15 +2921,15 @@ ton, dźwięk, nuta, tonacja - ton
 tona - megagram  
 Tonga - Tonga  
 topinambur - masmulsolful  
-topić (upłynnić, upłynniać) - yongosaha  
-topnieć (upłynniać się) - yongu  
+topić (upłynnić, upłynniać) - yong safa  
+topnieć (upłynniać się) - yong  
 tor - torium  
 torba, wór, worek, torba, sakwa - sake  
 tost - rosti pang  
 towarzysz (partner, kumpel) - latojan  
 traktor (ciągnik) - trater  
 transport - transeria  
-trawa - chau  
+trawa - cau  
 trawa mor - haichau  
 treść (zawartość) - inite  
 tropikalny - garmozoni  
@@ -2972,7 +2972,7 @@ twardy - gati
 twarz - muka  
 twaróg - panir  
 twój - tu di  
-twórca, kreator, czynnik - fater  
+twórca, kreator, czynnik - cana ja  
 ty, ciebie - tu  
 Tybet - Botia  
 tydzień - var var  
@@ -3001,7 +3001,7 @@ uczestnik - parter
 uczeń, student - shuler  
 udomowiony (domowy) - dosiljeni  
 udomowić (kultywować) - dosiljenita  
-ufać (wierzyć, liczyć, polegać) - yaushina  
+ufać (wierzyć, liczyć, polegać) - amen shin  
 Uganda - Ganda  
 ugotować się, gotować się - bulu  
 Ukraina - Ukraina  
@@ -3010,7 +3010,7 @@ ukrzyżować - krusfiksa
 ukształtować, kształtować, urzeźbić, rzeźbić - forma  
 ukwiał - haiful  
 układ słoneczny - solsistem  
-ul (gniazdo pszczół lub os) - vesponide  
+ul (gniazdo pszczół lub os) - fong nide  
 ul - medu vespe sanduke  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
 ulubiony - mashfili  
@@ -3023,7 +3023,7 @@ unia - unia
 Unia Europejska (EU) - Europi Unia  
 uniwersytet - daishulkan  
 upadły - padi  
-uprawić, uprawiać - agra  
+uprawić, uprawiać - agro  
 uprzejmy - kechi  
 upuścić, upuszczać - pada  
 Uran - Uran  
@@ -3054,17 +3054,17 @@ użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidi
 użytkownik - user  
 użyć, używać, zatrudnić, stosować - use  
 Vanuatu - Vanuatu  
-viski - viske  
+viski - viski  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
-waga (ciężkość) - vezia  
-waga (urządzenie ważące) - vezometrer  
+waga (ciężkość) - veze  
+waga (urządzenie ważące) - veze metre gi  
 wagina - vagina  
 Walia - Kamri  
 walijski - kamri  
 walka, wojna - jeng  
 wampir - vampir  
-wampirzyca piekielna (wampirnica) - vampirbalsenter  
+wampirzyca piekielna (wampirnica) - vampir ohtopus  
 wanad - vanadium  
 wanilia - vanil  
 wapień - kalsopetre  
@@ -3074,23 +3074,22 @@ warcaby - damgem
 warga - labe  
 warstwa (poziom, piętro, kondygnacja) - cheng  
 warsztat szewski - sapatokan  
-wartość - val  
+wartość - valu  
 warunek - sharte  
-warzywo - yamfite  
-Waszyngton D.####C - Vashington Dch  
+warzywo - yam fito  
+Waszyngton D.####C - Vashington DC  
 wat - vate  
 Watykan, Państwo Watykańskie - Vatikan  
 wazon - jar  
 ważka - libele  
 ważny - hami  
-ważyć - vezu  
-wciąż, nadal - zoko  
+wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku  
 wcześniej (uprzednio, poprzednio, przedtem) - cheno  
 wczoraj - chendeno  
 wdowa - vidou  
 według ruchu wskazówek zegara - rotoraito  
 weganin (weganka) - purfityamiste  
-wegetarianin - fityamiste  
+wegetarianin - fito yam jui ja  
 wejście - jinmun  
 welon (woalka) - hijabu  
 Wenezuela - Venezuela  
@@ -3113,11 +3112,11 @@ wiadukt, przejście powyżej - supre
 wiara, wierzenie, kredo - shin  
 wiatr - hava  
 wiatrak (wentylator) - panka  
-wice- - visi  
-wicekról - visrajer  
-wiceprezydent - visprezidente  
+wice- (alternatywa, substytut, zastępstwo) - vice  
+wicekról - vice raja  
+wiceprezydent - vice prezidente  
 widelec - forke  
-widok, wzrok - vide  
+widok, wzrok - vide she  
 wieczór - sham  
 wiedza -   
 wiedzieć - sabi  
@@ -3140,8 +3139,8 @@ wieprzowina - goro nama
 wiercić, borować - fora  
 wierzyć - shina  
 wierzący (osoba religijna) - din ja  
-Wietnam - Vietia  
-wietnamski - vieti  
+Wietnam - Viete  
+wietnamski - viete basha  
 wiewiórka - ekore  
 wieś, tereny wiejskie - agristan  
 wieś, wioska - chun  
@@ -3149,19 +3148,19 @@ wieża - minar
 wieża zegarowa - horlogerminar  
 wilk - volfe  
 wina, grzech; defekt, wada - dosh  
-winiarnia - vinkan  
+winiarnia - vin kan  
 winny - doshi  
 wino - vin  
 winogrono - putau  
 winyl - vinil  
 wiosna - hua mosim  
 wirus - virus  
-wirusologia - viruslogi  
+wirusologia - virus logi  
 witaj, dobre przybycie - salam lai  
 witraż - rang kanche  
 witryna internetowa (portal internetowy) - netoloke  
 wiwatować; hura - ura  
-wiza - vize  
+wiza - viza  
 wizyta - kege  
 wizytant (gość) - keger  
 większościowy, wiodący, główny - mashori  
@@ -3179,7 +3178,7 @@ wodoodporny - suisekuri
 wodorosty - hai alga  
 wodór - hidre  
 wojownik, bojownik - jenger  
-wola (chęć, pragnienie) - vol  
+wola (chęć, pragnienie) - vol she  
 wola, chęć - iche  
 wolfram - volfram  
 wolność, niepodległość, niezależność - huria  
@@ -3226,7 +3225,7 @@ wybuch (eksplozja) - eshploze
 wybuch - bum  
 wybór, elekcja, selekcja - chuze  
 wycie, skowyt - ulul  
-wyczyścić, czyścić - safa  
+wyczyścić, czyścić - fa safa  
 wydarzenie, przypadek, sytuacja - kas  
 wydoić, doić - tira milke  
 wydra - lontre  
@@ -3253,7 +3252,7 @@ wyrzutek - paraye
 wyrzutnia rakietowa - roketolancher  
 wysoki - gavi  
 wysokość - gavia  
-wyspa - nes  
+wyspa - nesia  
 Wyspa Man - Manin nes  
 Wyspy Alandzkie - Olande nesia  
 Wyspy Cooka - Kuke nesia  
@@ -3278,7 +3277,7 @@ wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieś�
 wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać - fuga  
 wzrastać - rastu  
 wzrost - raste  
-wzywać (wezwać, dodawać, dodać) - zaya  
+wzywać (wezwać, dodawać, dodać) - zai fa  
 wóz, wózek - gar  
 wąchać - aroma  
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - dute  
@@ -3296,18 +3295,19 @@ właśnie, dopiero co, ostatnio, niedawno - nevo
 włos - kesh  
 włókno - linem  
 ####X - X  
+####Y - Y  
 z (od) - ze  
 z (partykuła posiadania) - da  
 ####Z - Z  
 z boku (na bok) - lato  
 zaakceptować, akceptować, powiedzieć okej, mówić okej - okeya  
 zabawa, rozrywka - van  
-zabawny - vani  
+zabawny - van di  
 zabić, zabijać - morte fa  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - harami  
 zabronić (wzbronić, zakazać) - harama  
 zabójca - morter  
-zachodni - vesti  
+zachodni - veste di  
 zachowanie (maniery, kultura) - manir  
 zachować, zakonserwować, zachować, utrzymać - hafiza  
 zachowywać się (działać) - manira  
@@ -3321,7 +3321,7 @@ zacząć, zaczynać - shuru
 zagranica - eshdesh  
 zagraniczny - eshdeshi  
 zagrożenie, niebezpieczeństwo - hatar  
-zaimek - visloge  
+zaimek - vice loga  
 zainteresowanie, zaciekawienie; interesujący - savovol  
 zajęty - mangi  
 zaklecie - magasar  
@@ -3331,7 +3331,7 @@ zakładać (założyć) - chenaga
 zakładać (założyć, ustanowić) - baza  
 Zambia - Zambia  
 zamek (zapięcie) - sor  
-zamek błyskawiczny - zipe  
+zamek błyskawiczny - zipa  
 zamek, forteca, twierdza - burge  
 zamieniać się w gaz (parować) - gasu  
 zamieniać w gaz - gasa  
@@ -3341,7 +3341,6 @@ zamknięty - ankayi
 zamknięty na klucz (zakluczony) - ansori  
 zamknąć (zamykać) - ankaya  
 zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - sora  
-zamknąć zamkiem błyskawicznym - zipa  
 zapach (aromat, smród, odór) - arome  
 zapakować, pakować - paka  
 zapalenie - flame  
@@ -3370,7 +3369,7 @@ zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) 
 zastosowanie, aplikacja - aplike  
 zastosować, stosować - aplika  
 zastrzyk - jush  
-zastąpić (podstawić, zamienić) - visa  
+zastąpić (podstawić, zamienić) - fa vice  
 zasób - faide  
 zasłona, kurtyna - parde  
 zatkać, ztykać - tapa  
@@ -3400,10 +3399,10 @@ zbłąkać się (wykoleić się) - rutogalta
 zdanie (fraza) - jumle  
 zdeaktywowany (wyłączony, zatrzymany) - anativi  
 zdjęcie (fotografia) - foto grafe  
-zdrada małżeńska, cudzołóstwo - zine  
+zdrada małżeńska, cudzołóstwo - zina  
 zdrowie - salia  
 zdrowy - sali  
-zebra - zebre  
+zebra - zebra  
 zegar (zegarek) - horloger  
 zejść (schodzić, zstąpić, zstępować) - aneskala  
 zemleć (mleć, mielić) - mola  
@@ -3419,7 +3418,7 @@ zielony - lugi
 ziemia, grunt, gleba - geo  
 ziemniak - patate  
 ziemny (glebowy, gruntowy) - darti  
-ziggurat - zikure  
+ziggurat - zikura  
 zima - leng mosim  
 Zimbabwe - Zimbabve  
 zimny, chłodny - lengi  
@@ -3450,8 +3449,8 @@ zoologia - zou logi
 zoologiczny - zou logi di  
 zostawić (zostawiać) - shante  
 zostać, zostawać - restu  
-zrobić (stworzyć, wykreować) - fata  
-zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - chana  
+zrobić (stworzyć, wykreować) - fa  
+zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - cana  
 zromanizować - latinkitaba  
 zsumować, sumować, dodać, dodawać - suma  
 zulu - Zulu  
@@ -3468,7 +3467,7 @@ zyskać, zyskiwać, zarobić, zarabiać - ganya
 ząb - dante  
 zęwnętrzny - esh  
 złamanie lini - linparche  
-złapać, łapać, schwytać, chwytać - kapa  
+złapać, łapać, schwytać, chwytać - kape  
 złocień indyjski - neftoguke  
 złodziej - chorer  
 złoto - aure  
@@ -3481,7 +3480,7 @@ zły, zrujnowany, zepsuty - harabu
 ćwiczenie - lenshe  
 ćwiczyć - lensha  
 Łotwa - Latvia  
-łapać rybę - kapa pesh  
+łapać rybę - kape yo pesh  
 łapać rybę - saida pesh  
 łatwy, prosty - fasili  
 ławka - benche  
@@ -3502,7 +3501,7 @@ zły, zrujnowany, zepsuty - harabu
 łóżko - bede  
 łączyć (złączyć) - rivunu  
 łączyć, wiązać, złączyć - linka  
-łąka - chavistan  
+łąka - cau istan  
 Święta Helena - Santi Helena  
 ścieżka (droga, szlak, kurs) - rute  
 ścisnąć (sciskać, wycisnąć) - inpusha  
@@ -3518,10 +3517,10 @@ zły, zrujnowany, zepsuty - harabu
 śpiewać - chante  
 średni - medi  
 środa - var tri  
-środek - mede  
+środek - medi  
 środkowy, centralny - jung  
 środowiskowy, naturalny - eki  
-śruba, wkręt - vite  
+śruba, wkręt - vita  
 świadomy; oświecony - budi  
 świat - dunia  
 światło, oświetlenie - foto  

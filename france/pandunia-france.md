@@ -15,12 +15,12 @@ adres harfi - arobase (@)
 Afgan - Afghanistan  
 Afrika - Afrique  
 agile - agile  
-agra - cultiver  
 agres - agression (attaque)  
 agresa - attaquer (agresser)  
 agreser - agresseur  
 agresivi - agressif  
 agri - agricole  
+agro - cultiver  
 agrobiologi - agrobiologie  
 agronomia - agronomie  
 aha - comprendre (réaliser)  
@@ -70,10 +70,9 @@ aluminokside - alumine (oxyde d'aluminium)
 ama - mais (bien que)  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
 amater - amateur  
-amen - honnête (sûr, crédible)  
-amena - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
-ameni - fiable (de confiance, fidèle, sûr, crédible)  
-ameno - sûrement  
+amen - honnête (sûr, crédible, sûrement)  
+amen shin - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
+amen shin di - fiable (de confiance, fidèle, sûr, crédible)  
 Amerika Samoa - Samoa américaines  
 Amerike - Amérique  
 ameriki - américain  
@@ -244,7 +243,6 @@ bateri - pile (batterie)
 bato - huit (8)  
 baton - bâton (canne, tige)  
 baton kapse - cage  
-batosenter - Poulpe (pieuvre)  
 bau sheke - pierre précieuse (joyau)  
 bavi - précieux  
 bazar - marché (bazar)  
@@ -300,13 +298,14 @@ buke - livre
 bum - explosion  
 bute - botte  
 buton - bouton  
-cellogi - cytologie  
+####C - C  
+celu logi - cytologie  
 centaure - Centaurée  
-ch - C  
+chabe - clef  
 chai - thé  
-chaikupe - tasse à thé  
-chaipote - théière  
-chakre - roue  
+chai kupe - tasse à thé  
+chai pote - théière  
+chakra - roue  
 chamache - cuiller  
 chanse - chance  
 chante grupe - chœur  
@@ -432,13 +431,16 @@ europi - européen
 europobalute - chêne pédonculé  
 evanjil - évangile  
 ####F - F  
+fa - faire  
+fa valu - évaluer  
+fa verse - verser  
+fa vode - promettre  
 fan - boue (fange, bourbe, gadoue)  
 fandefban - garde-boue (aile)  
 fantopia - marécage (marais)  
 fas - face (facette)  
 fasili - facile  
 fasteli - profond  
-fata - faire  
 fate - fait  
 fatigia - fatigue  
 faze - phase  
@@ -452,14 +454,16 @@ filsofia - philosophie
 fin - finir  
 fini - fini  
 fiorde - fiord  
-fite - plante (végétal)  
-fitolojia - botanique  
-fityamiste - végétarien  
+fito - plante (végétal)  
+fito logi - botanique  
+fito yam jui ja - végétarien  
 flame - inflammation  
 fleche - flèche  
 foba - effrayer  
 fobani - effrayant  
 fobu - craindre (avoir peur)  
+fong - abeille ou guêpe  
+fong nide - ruche (nid d'abeille)  
 fora - forer (percer)  
 forma - former  
 foto - lumière  
@@ -529,7 +533,7 @@ glutobende - pansement (sparadrap)
 glutofan - argile  
 glutograf - autocollant  
 gol - but (destination)  
-gorile - gorille  
+gorila - gorille  
 goton - coton  
 grafi kata - bande dessinée  
 granite - granit  
@@ -698,7 +702,7 @@ kano* - canoë
 kanon - classique (canon)  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanyon - canyon (ravin)  
-kapotruke - piège  
+kape truke - piège  
 kar - travail  
 kara - travailler  
 Karaibia - Caraïbes  
@@ -746,6 +750,7 @@ klien - client
 klimmute - changement climatique  
 klin - tendance  
 ko? - comment  
+koda - queue (côté )  
 komputer - ordinateur  
 konchung - insecte  
 konkara - collaborer  
@@ -951,7 +956,7 @@ mosi - moussu
 mosim - saison  
 moto - moteur  
 muka - visage  
-mul - racine  
+mula - racine  
 mur - mur  
 murche - fourmi  
 murkaguje - papier peint  
@@ -999,6 +1004,7 @@ numbe - nombre (numéro)
 ####O - O  
 o - ou  
 ode - rang  
+ohtopus - Poulpe (pieuvre)  
 oke - œil  
 oki - oculaire  
 okosuigas - gaz lacrymogène  
@@ -1076,7 +1082,7 @@ pesh - poisson
 peshhuke - hameçon  
 peshosaider - pêcheur  
 pesodiske - monnaie (pièce)  
-petre - roche (pierre)  
+petra - roche (pierre)  
 petronefte - pétrole (essence)  
 piaze - oignon  
 pike - bout (pointe, pic)  
@@ -1384,11 +1390,10 @@ va - ouah
 vaf - chien  
 vagina - vagine  
 vagina flame - vaginite  
-val - valeur  
-vala - évaluer  
 vali - vallée (oued)  
+valu - valeur  
 vampir - vampire  
-vampirbalsenter - vampire des abysses  
+vampir ohtopus - vampire des abysses  
 var chatre - jeudi  
 var du - mardi  
 var luku - samedi  
@@ -1396,90 +1401,82 @@ var penta - vendredi
 var sete - dimanche  
 var tri - mercredi  
 var un - lundi  
-varkalge - varech  
-varkolate - page  
+varka alga - varech  
+varka late - page  
 vase - oasis  
-vashurse - raton laveur  
-veilin - fil de trame  
-venda - vendre  
-vendoshopa - commercer  
+vashi urse - raton laveur  
+vei lin - fil de trame  
+vende - vendre  
+vende shope - commerce  
 Venezuela - Venezuela  
-venjovoranje - mandarine satsuma  
+venjou oranje - mandarine satsuma  
 ventur - aventure  
-venturer - aventurier  
+ventur ja - aventurier  
 Venus - Vénus  
-veri - vrai  
+ver - vrai  
 verme - ver  
 vermute - vermouth  
-vero - vraiment  
-versa - verser  
-versu - verse (face á)  
-vespe - abeille ou guêpe  
-vesponide - ruche (nid d'abeille)  
-vezi - lourd  
-vezia - poids (lourdeur, gravité)  
-vezometrer - balance (poids)  
-vezu - peser  
-vida - voir  
+verse - verse (face á)  
+veze - poids (lourdeur, gravité)  
+veze di - lourd  
+veze metre gi - balance (poids)  
+vice raja - vice-roi  
+vide - voir  
 vidou - veuve  
 virje - vierge  
 virus - virus  
-visrajer - vice-roi  
-viyoleti - violet (pourpre)  
-voda - promettre  
+viyolete blu - violet (pourpre)  
 vode - vœu (promesse)  
+vol - vouloir  
 volfe - loup  
 Volof - wolof  
-volu - vouloir  
-vulve - vulve  
-vute - objet (article)  
+vulva - vulve  
+vutu - objet (article)  
 ####X - X  
+####Y - Y  
 Yahve - Yahweh (Jéhovah)  
+yam fito - légume  
+yam yau - faim  
 yamen di - leur  
-yamfite - légume  
-yamyau - faim  
 yasen - frêne  
-yatimdom - orphelinat  
-yau - besoin  
-yaushina - fier  
-yavan - nécessaire  
-yavi - nécessiteux (dans le besoin)  
+yatim dom - orphelinat  
+yau di - nécessaire  
+yauta - besoin  
 ye - oui  
 yeki kanon - Yi King  
 Yesu - Jésus  
 Yesu mesi - Jésus-Christ  
-yoke - joug  
-yongopetre - lave  
-yongosaha - fondu  
-yongu - melt  
+yogo - joug  
+yong - melt  
+yong petra - lave  
+yong safa - fondu  
 ####Z - Z  
-zai zam di - actuel (courant)  
-zam - temps  
+zai di - présent  
+zai zaman di - actuel (courant)  
+zaman - temps  
+zar kube - dé  
 Zardush - Zoroastre  
 Zardush din - zoroastrisme  
 Zardush din ja - zoroastrien  
-zarkube - dé  
-zayi - présent  
 ze - de  
-zebre - zèbre  
+zebra - zèbre  
 zeyil - verrue  
 zi - caractère  
-zinje - gingembre  
-zoka - continuer (poursuivre)  
-zoki - continu (analogique)  
-zoko - encore  
+zinji - gingembre  
+zoku - continuer (poursuivre, encore)  
+zoku di - continu (analogique)  
 zombi - zombi  
 zona - zone  
 zong - pieu (poteau)  
-zongominte - menthe verte  
+zong minte - menthe verte  
 zou - animal (bête)  
-zou agria - élevage  
+zou agro shutu - élevage  
 zou kata - fable  
 zou logi - zoologie  
 zou logi di - zoologique  
 zou parke - zoo  
-zuke - ethnie  
-zuki - ethnique  
+zuku - ethnie  
+zuku di - ethnique  
 Zulu - zoulou  
 zumarda - émeraude  
  - pluvieux  

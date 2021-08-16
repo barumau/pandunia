@@ -12,10 +12,10 @@ adres - adreso
 Afgan - Afganujo, Afganio  
 Afrika - Afriko  
 agile - lerta  
-agre - agrikulturo  
 agres - atako (agreso)  
 agresivi - agresema  
 agri - agrikultura  
+agro shutu - agrikulturo  
 agronomia - agronomio  
 aha - kompreni  
 ai - amo  
@@ -30,6 +30,7 @@ aisi - glacia
 aiskrem - glaciaĵo  
 aisu - glaciiĝi (frostiĝi)  
 Aiti - Haitio  
+ajila - rapidigi  
 akse - akso  
 ala - ŝanĝi (aliigi)  
 alge - algo  
@@ -260,22 +261,24 @@ bulu - boli
 bus - buso  
 buton - klavo (butono)  
 butonban - klavaro  
-cel - ĉelo  
-cellogi - citologio  
+####C - C  
+cana - produkti (fabriki)  
+cana basha - artefarita lingvo  
+cana ja - fabrikisto  
+cau - herbo  
+celu - ĉelo  
+celu logi - citologio  
 centi - centono  
 Ceres - Cereso  
 cerium - cerio  
 cesium - cezio  
-ch - C  
 chabe - ŝlosilo  
 chai - teo  
-chaipote - teujo  
-chake - tranĉilo  
-chakre - rado  
+chai pote - teujo  
+chakra - rado  
+chaku - tranĉilo  
 chamache - kulero  
 champion - ĉampiono  
-chana - produkti (fabriki)  
-chanbash - artefarita lingvo  
 chanse - ŝanco  
 chante - kanti  
 chante - kanto  
@@ -284,7 +287,6 @@ chapa - presi
 chape - presaĵo  
 chate - tekto  
 chatre - kvar (4)  
-chau - herbo  
 cheka - kontroli  
 chen zaman - pasinteco  
 chena - antaŭiri  
@@ -479,7 +481,11 @@ Europi Unia - Eŭropa Unio (EU)
 europium - eŭropio  
 evanjil - evangelio  
 ####F - F  
-fa - igi  
+fa - fari  
+fa ja - aganto  
+fa safa - purigi  
+fa van - amuzi  
+fa vode - promesi  
 faidi - utila  
 faidia - utileco  
 faini - fajna  
@@ -498,9 +504,7 @@ fashiste - faŝisto
 fashistia - faŝismo  
 fasili - facila  
 fasinia - fascinado  
-fata - fari  
 fate - faro (fakto)  
-fater - fabrikisto  
 fatokan - fabriko  
 febre - febro  
 fei - flugo  
@@ -535,8 +539,8 @@ finodi - lasta
 finu - finiĝi  
 fiorde - fjordo  
 firuze - turkiso  
-fite - planto  
-fitolojia - plantscienco (botaniko)  
+fito - planto  
+fito logi - plantscienco (botaniko)  
 fizike - fiziko  
 fiziker - fizikisto  
 fizikia - fiziko  
@@ -549,6 +553,7 @@ fokus - koncentriĝo
 fokusa - koncentri  
 foli - freneza  
 folia - frenezeco  
+fong - abelo aŭ vespo  
 fora - taladri  
 forke - forko  
 forma - formigi  
@@ -573,6 +578,7 @@ fui - bah!
 fuka - vestigi  
 fuke - vesto  
 fuku - vesti (surporti)  
+fuku vashi gi - lavmaŝino  
 fun - polvo  
 funci - funkcii  
 fungu - fungo  
@@ -830,6 +836,7 @@ jovenia - juneco
 judau - ĵudo  
 jude - juĝo  
 juder - juĝisto  
+jui - ismo  
 jul - ĵulo (J)  
 jung - centro  
 jungofon - vokalo  
@@ -875,7 +882,7 @@ kanjar - ponardo
 kano* - kanuo (kanoto)  
 kante - ŝultro  
 kanun - lego  
-kapa - kapti  
+kape - kapti  
 kar - laboro  
 Karaibia - Karibio  
 karate* - karateo  
@@ -946,8 +953,9 @@ klube - klubo
 ko multo - kiom?  
 ko? - kiel?  
 kobalte - kobalto  
+koda - vosto  
 kode - kodo  
-kokode - koko  
+koko - koko  
 kolum - kolono  
 komali - mola  
 kompania - kompanio (firmao)  
@@ -1187,7 +1195,7 @@ moskovium - moskovio
 moto - motoro  
 move - movo  
 muka - vizaĝo  
-mul - radiko  
+mula - radiko  
 mumfote - kandelo  
 mumjan - mumio  
 mumu - bovo  
@@ -1348,7 +1356,7 @@ peshosaider - fiŝkaptisto
 pesodiske - monero  
 peta* - peta-  
 pete - ventro  
-petre - roko  
+petra - roko  
 piano* - piano  
 piaze - cepo  
 pige - kulo  
@@ -1468,12 +1476,11 @@ sabi - scii (koni)
 sabilogi - sciteorio (epistemologio)  
 sabo da - ĉar  
 sabun - sapo  
-safa - purigi  
+safa - pura  
 safar - vojaĝo  
 safara - vojaĝi  
 safarer - vojaĝanto  
 safer - purigisto  
-safi - pura  
 safran - safrano  
 saha - pravigi  
 sahi - ĝusta (prava)  
@@ -1742,11 +1749,10 @@ va - ŭaŭ!
 vaf - hundo  
 vagina - vagino  
 vagina flame - vaginito  
-val - valoro  
 vali - valo  
+valu - valoro  
 van - amuzo  
-vana - amuzi  
-vani - amuza  
+van di - amuza  
 var - semajntago  
 var chatre - ĵaŭdo  
 var du - mardo  
@@ -1756,102 +1762,99 @@ var sete - dimanĉosunnuntai
 var tri - merredo  
 var un - luno  
 var var - semajno  
-varkolate - paĝo  
+varka late - paĝo  
 vase - oazo  
-vasha - lavi  
-vashmashin - lavmaŝino  
+vashi - lavi  
 vate - vato  
-vei - vosto  
 ventur - aventuro  
-venturer - aventuristo  
-veri - vera  
+ventur ja - aventuristo  
+ver - vera  
 vermute - vermuto  
 version - versio (toisinto)  
-vespe - abelo aŭ vespo  
-vezi - peza  
-vezia - pezo  
-vida - vidi (rigardi)  
+veze - pezo  
+veze di - peza  
+vice - vic-  
+vice loga - pronomo  
+vice ma - vicpatrino  
+vice pa - vicpatro  
+vide - vidi (rigardi)  
 vidou - vidvo  
-vike - vikia artikulo  
+viki makala - vikia artikulo  
 vin - vino  
-vinsuan - vinagro  
+vin suan - vinagro  
 virje - virgulo  
-virji - virga  
-visi - vic-  
-visloge - pronomo  
-vismai - vicpatrino  
-vispai - vicpatro  
-voda - promesi  
-vol - volo  
+virje di - virga  
+vol - voli  
+vol she - volo  
 volfe - lupo  
-volu - voli  
-vulve - vulvo  
+vulva - vulvo  
 ####X - X  
 xenon - ksenono  
+####Y - Y  
 ya - li aŭ ŝi aŭ ĝi  
 ya - ejo (ujo, io)  
 ya di - lia aŭ ŝia aŭ ĝia  
 Yahve - Javeo (Jehovo)  
-yala - rapidigi  
-yama - manĝi (trinki)  
+yam - manĝi (trinki)  
+yam fito - legomo  
+yam kamar - manĝoĉambro  
+yam yau - malsato  
 yamen - ili  
 yamen di - ilia  
-yamfite - legomo  
-yamkamar - manĝoĉambro  
-yamyau - malsato  
 yang - speco (tipo, stilo)  
-yau - bezono  
+yau - bezoni  
+yauta - bezono  
 ye - jes  
 yeki kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
 Yesu - Jesuo  
 Yesu mesi - Jesuo Kristo  
-yeze - kokoso  
+yezi - kokoso  
 yo - iu  
 yo jan - iu persono  
 yo sate - iam  
 yo she - io  
 yoga - jogo  
-yoke - jugo  
+yogo - jugo  
 yom - tago (periodo de 24 horoj)  
 yumor - humuro  
-yumori - humura  
-yumoriste - humuristo  
+yumor di - humura  
+yumor ja - humuristo  
 yuterbium - iterbio  
 yutrium - itrio  
 ####Z - Z  
 zai den - hodiaŭ  
-zai zam - nuno  
-zai zam di - nuna  
+zai di - ĉeestanta (ekzistanta)  
+zai zaman - nuno  
+zai zaman di - nuna  
+zaita - ĉeestanteco (ekzisto)  
 zaitun - olivo  
-zam - tempo  
+zaman - tempo  
 Zambia - Zambio  
 zar - hazardo  
+zar di - hazarda  
+zar kube - ĵetkubo  
 Zardush - Zoroastro  
 Zardush din - zoroastrismo  
 Zardush din ja - zoroastristo  
-zari - hazarda  
-zarkube - ĵetkubo  
-zayi - ĉeestanta (ekzistanta)  
-zayia - ĉeestanteco (ekzisto)  
 ze - de (el, pro)  
-zebre - zebro  
+zebra - zebro  
 zeyil - veruko  
-zine - malfideleco  
-zinje - zingibro  
+zina - malfideleco  
+zinji - zingibro  
 zinke - zinko  
-zire - kumino  
+zira - kumino  
 zirkonium - zirkonio  
-zoko - ankoraŭ  
+zoku - ankoraŭ  
 zona - zono  
 zou - besto  
 zou kata - bestofabelo  
 zou logi - zoologio  
 zou logi di - zoologia  
 zou parke - zoo (bestoĝardeno)  
-zuke - etno  
-zuki - etna  
-zukomedi - interetna  
+zuku - etno  
+zuku di - etna  
+zuku medi di - interetna  
 Zulu - zuluo  
 zumarda - smeraldo  
  - scio  

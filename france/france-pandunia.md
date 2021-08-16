@@ -3,7 +3,7 @@ a (dans, en, chez) - an
 ####A - A  
 abattoir - buchokan  
 abattre - bucha  
-abeille ou guêpe - vespe  
+abeille ou guêpe - fong  
 Abkhazie - Apsni  
 aborigènes australiens - aslaustrali  
 abricot - briko  
@@ -20,7 +20,7 @@ actif - ativi
 actinium - acinium  
 action - ation  
 activer (allumer, mettre en marche, déclencher) - ativa  
-actuel (courant) - zai zam di  
+actuel (courant) - zai zaman di  
 adapter (ajuster) - hapa  
 adhésif (collant) - gluti  
 adjectif - sifloge  
@@ -160,7 +160,7 @@ autrement - alo
 avant - cheno  
 avec (avoir) - ha  
 aventure - ventur  
-aventurier - venturer  
+aventurier - ventur ja  
 avis (opinion) - rai  
 avocat - avakate  
 avoine - aven  
@@ -179,7 +179,7 @@ baie (golf) - bai
 baie - bere  
 bain - banya  
 baisser - tala  
-balance (poids) - vezometrer  
+balance (poids) - veze metre gi  
 balcon - berande  
 balle (boule) - bol  
 ballon - balon  
@@ -212,7 +212,7 @@ beau-père - gampai
 beauté - sundaria  
 belle-mère - gammai  
 bengali - bangla basha  
-besoin - yau  
+besoin - yauta  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukarbete  
 bibliothèque - kitabu kan  
@@ -234,7 +234,7 @@ bon - bon
 bonbon - kandi  
 bord (rive) - tate  
 bord - kinar  
-botanique - fitolojia  
+botanique - fito logi  
 botte - bute  
 boucher - bucher  
 bouclire - defban  
@@ -262,7 +262,7 @@ bâton (canne, tige) - baton
 bébé - bebe  
 bédouin - badavi  
 bûche - mokotan  
-####C - ch  
+####C - C  
 cacher - sira  
 cachet de la poste - postomarke  
 cactus - katus  
@@ -354,6 +354,7 @@ citron - limon
 citrouille - kaboga  
 clair - klari  
 classique (canon) - kanon  
+clef - chabe  
 client - klien  
 cloche - danger  
 coeur - kerne  
@@ -362,7 +363,7 @@ coller - gluta
 colorant - rang mate  
 combava - karsolimon  
 comment - ko?  
-commercer - vendoshopa  
+commerce - vende shope  
 compassion - samemos  
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
@@ -381,8 +382,8 @@ construire - bina
 consultant (conseiller) - konseler  
 conte de fées - peri kata  
 conteneur - inan  
-continu (analogique) - zoki  
-continuer (poursuivre) - zoka  
+continu (analogique) - zoku di  
+continuer (poursuivre, encore) - zoku  
 contract (traité) - trete  
 convenir (être approprié) - hapu  
 convention (alliance, pacte) - kontrete  
@@ -426,10 +427,10 @@ crêpe - krepe
 crêperie - krepokan  
 cube - kube  
 cuiller - chamache  
-cultiver - agra  
+cultiver - agro  
 culturisme (musculation) - muskulbin  
 cycliste - sikliste  
-cytologie - cellogi  
+cytologie - celu logi  
 célérité - siri mote  
 côte - haitate  
 côté - late  
@@ -480,7 +481,7 @@ dur - gati
 durer - dura  
 durée - dur  
 dynamite - dinamite  
-dé - zarkube  
+dé - zar kube  
 déboguer (débugger) - angalta  
 début (commencement) - shuru  
 décapé (mariné) - suanpurshipi  
@@ -506,7 +507,6 @@ en arrière - retro
 en avant - jino  
 en ligne - an lin  
 enclume - metalbede  
-encore - zoko  
 enfant - bache  
 ennemi - anamike  
 ennemi - dusjan  
@@ -523,8 +523,8 @@ espace (zone, région) - aria
 espace - hali harfi  
 estrade - tai  
 et - e  
-ethnie - zuke  
-ethnique - zuki  
+ethnie - zuku  
+ethnique - zuku di  
 Europe - Europe  
 européen - europi  
 exact (précis) - justi  
@@ -545,9 +545,9 @@ face (facette) - fas
 facile - fasili  
 faible - debili  
 faible - mirdi  
-faim - yamyau  
-faire - fata  
-faire confiance (espérer, croire qqn./qqch., avoir la foi) - amena  
+faim - yam yau  
+faire - fa  
+faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen shin  
 fait - fate  
 fanal (balise) - foto minar  
 fatigue - fatigia  
@@ -559,11 +559,10 @@ fenêtre - janel
 fermenter - biyomutu  
 feu - hoge  
 feu d’artifice - hogotehne  
-fiable (de confiance, fidèle, sûr, crédible) - ameni  
+fiable (de confiance, fidèle, sûr, crédible) - amen shin di  
 fibre - linem  
-fier - yaushina  
 fil de fer - metallin  
-fil de trame - veilin  
+fil de trame - vei lin  
 fils ou fille - ben  
 fini - fini  
 finir - fin  
@@ -572,7 +571,7 @@ fleur - hua
 flèche - fleche  
 foin - ganchau  
 fois - mar  
-fondu - yongosaha  
+fondu - yong safa  
 football - fute bol  
 force navale (marine) - haigun  
 forer (percer) - fora  
@@ -606,7 +605,7 @@ genou - gute
 genre grammatical - bashi jinse  
 geographie - geo grafi  
 Germanie - Germania  
-gingembre - zinje  
+gingembre - zinji  
 giraffe - jiraf  
 glace - ais  
 glacé (glacial, gelé) - aisi  
@@ -614,7 +613,7 @@ gland - balutopal
 glisser - glisu  
 gnome - geo elfe  
 gombo - bamia  
-gorille - gorile  
+gorille - gorila  
 goule - gul  
 gouvernement - polite  
 grand-mère - chin ma  
@@ -660,7 +659,7 @@ hivernal (hibernal) - lengomosimi
 hockey - hoke  
 hockey sur glace - aishoke  
 honneur - onor  
-honnête (sûr, crédible) - amen  
+honnête (sûr, crédible, sûrement) - amen  
 honorer - onora  
 horloge - horloger  
 houe - chope  
@@ -714,7 +713,7 @@ je (me) - mi
 jeu de société - ban gem  
 jeudi - var chatre  
 jeune (juvénile) - joveni  
-joug - yoke  
+joug - yogo  
 joule (J) - jul  
 jour - den  
 juje - juder  
@@ -753,7 +752,7 @@ lapin (lièvre) - tuze
 lapis-lazuli - lazurpetre  
 lasagne - lazanya  
 latéral - lati  
-lave - yongopetre  
+lave - yong petra  
 le (la) - a  
 lent - lenti  
 lentille - lense  
@@ -783,7 +782,7 @@ long - longi
 longtemps - longoduro  
 loquace - logivi  
 loup - volfe  
-lourd - vezi  
+lourd - veze di  
 loutre - lontre  
 lumière - foto  
 lundi - var un  
@@ -795,7 +794,7 @@ luxure (libido) - kama
 lynx - linche  
 lys - susan  
 léger - legi  
-légume - yamfite  
+légume - yam fito  
 ####M - M  
 machine à écrire - kitabu gi  
 magma - pastopetre  
@@ -808,7 +807,7 @@ maison - dom
 malédiccion - lane  
 manche - kamisa shake  
 mandarine - laloranje  
-mandarine satsuma - venjovoranje  
+mandarine satsuma - venjou oranje  
 manichéisme - manihayistia  
 mantra - mantre  
 marbre - kalsokristal  
@@ -829,11 +828,11 @@ matière - mate
 maximum - mashime  
 maître - mester  
 medio - medi  
-melt - yongu  
+melt - yong  
 menthe - minte  
 Menthe aquatique - suiminte  
 menthe poivrée - piprominte  
-menthe verte - zongominte  
+menthe verte - zong minte  
 mer - hai  
 mercredi - var tri  
 Mercure - Merkur  
@@ -917,14 +916,13 @@ nouveauté - nevia
 nouvelle (récit court) - korte kata  
 nuage - mege  
 nylon - nilon  
-nécessaire - yavan  
-nécessiteux (dans le besoin) - yavi  
+nécessaire - yau di  
 néologisme - neuloge  
 néophyte - nevike  
 ####O - O  
 oasis - vase  
 objectif (cible) - dike  
-objet (article) - vute  
+objet (article) - vutu  
 oblique (de travers) - terchi  
 obsidienne - osidian  
 occupé - mangi  
@@ -962,7 +960,7 @@ organisme - bio vute
 orge - jau  
 origine - asle  
 originel - asli  
-orphelinat - yatimdom  
+orphelinat - yatim dom  
 orthogonal - ortogoni  
 otite - ore flame  
 ou - o  
@@ -975,7 +973,7 @@ oxyde - okside
 où - an ke  
 ####P - P  
 pacifiste - pachiste  
-page - varkolate  
+page - varka late  
 pain - pan  
 pair (pareil, egal) - pari  
 paix - pache  
@@ -1024,7 +1022,6 @@ perfectionner (parfaire) - purbona
 perplexe (désorienté) - ruhmishi  
 perroquet - papagai  
 personne - jan  
-peser - vezu  
 pet (vesse) - pede  
 petit - lili  
 peu - shau  
@@ -1045,14 +1042,14 @@ piraterie - piratia
 pistolet - pau  
 pizza - pize  
 pièce (chambre) - kamar  
-piège - kapotruke  
+piège - kape truke  
 placard - almari  
 place - meden  
 plaine - platistan  
 plaire - suka  
 plan - plan  
 planche - mokoban  
-plante (végétal) - fite  
+plante (végétal) - fito  
 planter - poza  
 plaque tectonique - geo kaske plate  
 plein - puri  
@@ -1064,7 +1061,7 @@ pluvieux -
 pneumonie - pulmon flame  
 pocion - medikosui  
 podzol - huidarte  
-poids (lourdeur, gravité) - vezia  
+poids (lourdeur, gravité) - veze  
 poireau - porei  
 poisson - pesh  
 poisson-globe - balonpesh  
@@ -1090,7 +1087,7 @@ pot de fleur - hua pote
 poterie - poteria  
 potier - poter  
 poudre à canon - barude  
-Poulpe (pieuvre) - batosenter  
+Poulpe (pieuvre) - ohtopus  
 pourri - pudi  
 pourrir (se décomposer) - pudu  
 pousse - joveni moke  
@@ -1109,14 +1106,14 @@ projection - lanchograf
 projet - projete  
 projeter (donner) - lanchografa  
 prolongé - longoduri  
-promettre - voda  
+promettre - fa vode  
 propice - bonsinyi  
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
 précieux - bavi  
 préférer - mashfila  
-présent - zayi  
+présent - zai di  
 prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruhulogi  
@@ -1136,16 +1133,17 @@ que (comme) - ka
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
 question - sual  
+queue (côté ) - koda  
 qui - ke jan  
 ####R - R  
 race - ras  
-racine - mul  
+racine - mula  
 radio - radio  
 rang - ode  
 rare - nadiri  
 rare - rari  
 rarement - nadiro  
-raton laveur - vashurse  
+raton laveur - vashi urse  
 rayon de miel - medu vespe nide  
 recycler - resikle  
 rein - nefre  
@@ -1166,7 +1164,7 @@ rire - haha
 rivière (fleuve) - riu  
 riz - ris  
 robot - robote  
-roche (pierre) - petre  
+roche (pierre) - petra  
 rocher - daisheke  
 rock - rokomuzike  
 roi - man raja  
@@ -1174,11 +1172,11 @@ roman - long kata
 Rome - Roma  
 rose - roze  
 rosée - rose  
-roue - chakre  
+roue - chakra  
 rouge - lali  
 ruban (bande) - tepe  
 rubis - lalbausheke  
-ruche (nid d'abeille) - vesponide  
+ruche (nid d'abeille) - fong nide  
 ruse - truke  
 réparateur - shulija  
 réparation - shuli  
@@ -1279,21 +1277,20 @@ séminal - semi
 sénateur - senater  
 série - silia  
 sûr - sekuri  
-sûrement - ameno  
 s’accroupir - insida  
 ####T - T  
 table - meze  
 tableau (panneau) - ban  
 tablette de chocolat - choklatobaton  
 tarte - pai  
-tasse à thé - chaikupe  
+tasse à thé - chai kupe  
 taupe - krote  
 taximètre - taksometrer  
 technique - tehne  
 technologie - tehnelogi  
 tectonique des plaques - plati geyokaskia  
 temple - puja kan  
-temps - zam  
+temps - zaman  
 tendance - klin  
 tender - tirlonga  
 tendu - tensi  
@@ -1306,7 +1303,7 @@ terre cuite - bekofan
 terreplatiste - platogeyiste  
 terrorisme - teroristia  
 thé - chai  
-théière - chaipote  
+théière - chai pote  
 théosophie - deu sofi  
 tige - tan  
 tigre - bagre  
@@ -1359,13 +1356,13 @@ Uranus - Uran
 vagine - vagina  
 vaginite - vagina flame  
 vaisseau spatial - kosmonau  
-valeur - val  
+valeur - valu  
 vallée (oued) - vali  
 vampire - vampir  
-vampire des abysses - vampirbalsenter  
+vampire des abysses - vampir ohtopus  
 vapeur d’eau - suigas  
-varech - varkalge  
-vendre - venda  
+varech - varka alga  
+vendre - vende  
 vendredi - var penta  
 Venezuela - Venezuela  
 venir - lai  
@@ -1375,12 +1372,12 @@ vermouth - vermute
 verre - kanche  
 verre coloré - rang kanche  
 verrue - zeyil  
-verse (face á) - versu  
-verser - versa  
+verse (face á) - verse  
+verser - fa verse  
 vert - lugi  
 veuve - vidou  
 viande - nama  
-vice-roi - visrajer  
+vice-roi - vice raja  
 vide - hali  
 vie - jiu  
 vierge - virje  
@@ -1390,7 +1387,7 @@ vigne - eskalotan
 village - chun  
 ville - citi  
 vin de riz - risvin  
-violet (pourpre) - viyoleti  
+violet (pourpre) - viyolete blu  
 virus - virus  
 visage - muka  
 viser - dika  
@@ -1399,23 +1396,23 @@ vivant - jivi
 vivre (habiter) - doma  
 vocabulaire (lexique) - logia  
 voile - hijabu  
-voir - vida  
+voir - vide  
 voire (même) - hata  
 vol - fei  
 volcan - hogoshan  
 voler - feyu  
 votre - tumen di  
-vouloir - volu  
+vouloir - vol  
 voyelle - jungofon  
-vrai - veri  
-vraiment - vero  
-vulve - vulve  
-végétarien - fityamiste  
+vrai - ver  
+vulve - vulva  
+végétarien - fito yam jui ja  
 Vénus - Venus  
 vêtements - fuke  
 vœu (promesse) - vode  
 wolof - Volof  
 ####X - X  
+####Y - Y  
 y compris - inkluso  
 Yahweh (Jéhovah) - Yahve  
 Yi King - yeki kanon  
@@ -1429,7 +1426,7 @@ Zoroastre - Zardush
 zoroastrien - Zardush din ja  
 zoroastrisme - Zardush din  
 zoulou - Zulu  
-zèbre - zebre  
+zèbre - zebra  
 Égypte - Misria  
 Épicéa - pise  
 âge - sen  
@@ -1446,7 +1443,7 @@ zèbre - zebre
 éducation - shulia  
 égal (même) - sam  
 électricité - eletre  
-élevage - zou agria  
+élevage - zou agro shutu  
 élever - jenita  
 éloge - euloge  
 élément (unité fondamentale) - em  
@@ -1477,7 +1474,7 @@ zèbre - zebre
 étudier - estuda  
 étymologie - logaslia  
 été - garmomosim  
-évaluer - vala  
+évaluer - fa valu  
 évangile - evanjil  
 éveillé - jagi  
 évident - eshvidi  

@@ -11,10 +11,10 @@ adilta - justiça
 adres - endereço  
 Afgan - Afeganistão  
 agile - ágil  
-agra - cultivar  
 agres - ataque  
 agreser - agressor  
 agri - agrícola  
+agro - cultivar  
 agrobiologi - agrobiologia  
 agronomia - agronomia  
 ai - amor  
@@ -39,6 +39,7 @@ almas - diamante
 aloraya - discordar  
 amater - amador  
 amen - honesto (sincero)  
+amen shin - confiar (contar com)  
 ami - querido (caro)  
 an ke - onde  
 an lin - online  
@@ -123,7 +124,6 @@ bateri - pilha (bateria)
 bato - oito (8)  
 baton - vara (bastão)  
 baton kapse - gaiola (jaula)  
-batosenter - polvo  
 bau sheke - pedra preciosa (gema)  
 bavi - precioso  
 bazar - mercado (bazar)  
@@ -175,13 +175,15 @@ buke - livro
 bum - explosão  
 bute - bota  
 buton - botão  
-cellogi - citologia  
+####C - C  
+cana ja - fator  
+celu logi - citologia  
 centaure - centáurea  
-ch - C  
+chabe - chave  
 chai - chá  
-chaikupe - chavena (tigela de chá)  
-chaipote - bule  
-chakre - roda  
+chai kupe - chavena (tigela de chá)  
+chai pote - bule  
+chakra - roda  
 chamache - colher  
 chanse - chance  
 chante grupe - coro  
@@ -292,15 +294,16 @@ euloge - elogio
 europobalute - carvalho-roble  
 evanjil - evangelho  
 ####F - F  
+fa - fazer  
+fa valu - valorar  
+fa vote - votar  
 fan - lama (lodo)  
 fandefban - para-lama  
 fantopia - pântano  
 fas - face (faceta)  
 fasili - fácil  
 fasteli - profundo  
-fata - fazer  
 fate - fato (facto)  
-fater - fator  
 fatigia - fadiga  
 fei - voo  
 feni - digital  
@@ -308,14 +311,15 @@ fenkate - análise
 feyu - voar  
 filsofia - filosofia  
 fiorde - fiorde  
-fite - planta (vegetal)  
-fitolojia - botânica  
-fityamiste - vegetariano  
+fito - planta (vegetal)  
+fito logi - botânica  
+fito yam jui ja - vegetariano  
 flame - inflamaçao  
 fleche - flecha (seta)  
 foba - assustar  
 fobani - assustador  
 fobu - temer  
+fong - abelha ou vespa  
 fora - furar (perfurar)  
 forma - modelar  
 foto - luz  
@@ -373,7 +377,7 @@ glutobende - penso (band-aid)
 glutofan - argila  
 glutograf - adesivo  
 gol - meta (gol)  
-gorile - gorila  
+gorila - gorila  
 goton - algodão  
 grafi kata - quadrinhos (banda desenhada)  
 granite - granito  
@@ -523,7 +527,7 @@ kano* - canoa
 Kantalupo va Sabina - Cantalupo in Sabina  
 kantalupomelon - meloa (cantalupo)  
 kanyon - canhão (ravina, barranco)  
-kapotruke - armadilha  
+kape truke - armadilha  
 kar - trabalho  
 kara - trabalhar  
 Karaibia - Caribe  
@@ -714,9 +718,9 @@ mate - matéria
 mau - gato  
 maze - meia  
 meche - partida  
-mede - meio (metade)  
 meden - praça  
 medenpapil - papoila  
+medi - meio (metade)  
 medi - moyen  
 medu - mel  
 mege - nuvem  
@@ -762,7 +766,7 @@ molia - moenda (moinho)
 molsheke - mó  
 mosim - estação (sazão)  
 moto - motor  
-mul - raíz  
+mula - raíz  
 mur - muro (muralha)  
 murkaguje - papel de parede  
 mushu - rato  
@@ -806,6 +810,7 @@ note - nota
 numbe - número  
 ####O - O  
 o - ou  
+ohtopus - polvo  
 oke - olho  
 oki - ocular  
 okosuigas - gás lacrimogéneo  
@@ -873,7 +878,7 @@ pesh - peixe
 peshhuke - anzol  
 peshosaider - pescador  
 pesodiske - moeda  
-petre - rocha (pedra)  
+petra - rocha (pedra)  
 petronefte - petróleo  
 piaze - cebola  
 pike - ponta (pico, bico)  
@@ -1132,11 +1137,9 @@ va - uau
 vaf - cão (cachorro)  
 vagina - vagina  
 vagina flame - vaginite  
-val - valor (valia)  
-vala - valorar  
 vali - vale (uadi)  
 vali susan - lírio-do-vale  
-valu - valer  
+valu - valor (valia)  
 vampir - vampiro  
 var chatre - quinta-feira  
 var du - terça-feira  
@@ -1145,72 +1148,67 @@ var penta - sexta-feira
 var sete - domingo  
 var tri - quarta-feira  
 var un - segunda-feira  
-varkalge - kelp  
-varkolate - página  
+varka alga - kelp  
+varka late - página  
 vase - oásis  
-vashurse - guaxinim (rato-lavadeiro)  
-venda - vender  
-vendoshopa - торговать  
+vashi urse - guaxinim (rato-lavadeiro)  
+vende - vender  
 ventur - aventura  
-venturer - aventureiro  
+ventur ja - aventureiro  
 Venus - Vénus  
-veri - verdadeiro  
+ver - verdadeiro  
 verme - verme  
 vermute - vermute  
-versu - encarar (afrontar; vérsus)  
-vespe - abelha ou vespa  
-vezi - pesado  
-vezu - pesar  
-vida - ver  
+verse - encarar (afrontar; vérsus)  
+veze di - pesado  
+vice ma - madrasta  
+vice pa - padrasto  
+vice raja - vice-rei  
+vide - ver  
 vidou - viúvo  
 virje - virgem  
-vismai - madrasta  
-vispai - padrasto  
-visrajer - vice-rei  
-viyoleti - purpúreo (roxo)  
+viyolete blu - purpúreo (roxo)  
 vode - promessa (voto)  
-vol - vontade  
-volu - querer (desejar)  
-vota - votar  
+vol - querer (desejar)  
+vol she - vontade  
 vote - voto  
-vulve - vulva  
-vute - item  
+vulva - vulva  
+vutu - item  
 ####X - X  
+####Y - Y  
 Yahve - Javé (Jeová)  
-yamfite - verdura (hortaliça, legume)  
-yamyau - fome  
+yam fito - verdura (hortaliça, legume)  
+yam yau - fome  
 yasen - freixo  
-yatimdom - orfanato  
-yau - necessidade  
-yaushina - confiar (contar com)  
-yavan - necessário  
-yavi - necessitado  
+yatim dom - orfanato  
+yau di - necessário  
+yauta - necessidade  
 ye - sim  
 Yesu mesi - Jesus Cristo  
-yoke - jugo  
-yongu - derretre  
+yogo - jugo  
+yong - derretre  
 ####Z - Z  
-zai zam di - corrente (atual)  
-zam - tempo  
-zarkube - dado  
+zai zaman di - corrente (atual)  
+zaman - tempo  
+zar kube - dado  
 ze - de  
-zebre - zebra  
+zebra - zebra  
 zeyil - verruga  
 zi - caractere  
-zinje - jengibre  
-zoki - analógico  
-zoko - ainda  
+zinji - jengibre  
+zoku - ainda  
+zoku di - analógico  
 zombi - zumbi  
 zona - zona  
 zong - poste (estaca)  
-zongominte - hortelã-verde  
+zong minte - hortelã-verde  
 zou - animal (besta, bicho)  
 zou kata - fábula  
 zou logi - zoologia  
 zou logi di - zoológico  
 zou parke - zoológico  
-zuke - etnia  
-zuki - étnico  
+zuku - etnia  
+zuku di - étnico  
 zumarda - esmeralda  
  - carregar  
  - chuvoso (pluvioso)  

@@ -15,8 +15,6 @@ adres harfi - @ symbol
 Afgan - Afghanistan  
 Afrika - Africa  
 agile - agile  
-agra - cultivate (farm)  
-agre - agriculture  
 agrer - farmer  
 agres - attack (assault, aggression, hostility)  
 agresa - attack (assault)  
@@ -25,6 +23,8 @@ agresivi - aggressive
 agri - agricultural  
 agristan - countryside  
 agristani - rural (rustic)  
+agro - cultivate (farm)  
+agro shutu - agriculture  
 agrobiologi - agrobiology  
 agrochun - rural village  
 agronomia - agronomy  
@@ -51,6 +51,7 @@ ajabe - marvel (wonder)
 ajabi - amazing (astonishing)  
 ajabia - awe (wonder)  
 ajabu - wonder (be amazed)  
+ajila - hurry (hasten)  
 akare - tick (mite)  
 akse - axis (axle)  
 aksesabli - accessible (within reach)  
@@ -79,10 +80,11 @@ aluminokside - alumina (aluminum oxide)
 ama - but (whereas)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amater - amateur  
-amen - honest (trustworthy, true; amen)  
-amena - trust (have faith)  
-ameni - trusted  
-ameno - surely (verily, amen)  
+amen - honest (trustworthy, true; surely, verily, amen)  
+amen bil - loyal (faithful, trustworthy)  
+amen bilta - loyalty (faithfulness)  
+amen shin - trust (have faith, rely)  
+amen shin di - trusted  
 Amerika Samoa - American Samoa  
 Amerike - America (continent)  
 ameriki - American  
@@ -312,7 +314,6 @@ bato - eight (8)
 baton - bar (pole, rod, shaft, staff, stick)  
 baton kapse - cage  
 baton pan - baguette  
-batosenter - octopus  
 bau - treasure (valuables)  
 bau sheke - gem (gemstone, jewel)  
 bavi - precious  
@@ -326,6 +327,9 @@ bazobol - baseball
 bazokanun - consitution  
 bazopetre - bedrock  
 bazoshulkan - primary school (elementary school, gradeschool)  
+be van - enjoy (play)  
+be vide - be seen  
+be zai - appear  
 be’e - goat  
 bebe - baby (infant)  
 bede - bed  
@@ -408,6 +412,7 @@ Bolgaria - Bulgaria
 Bolivia - Bolivia  
 bomba - bomb  
 bon - good  
+bon guste di - delicious (yummy)  
 bondarja - upgrade (level up)  
 bondeke - virtue (morals)  
 bondeki - virtuous  
@@ -471,32 +476,33 @@ Butan - Bhutan
 bute - boot  
 buton - key (push-button, switch)  
 butonban - keyboard  
-cel - cell (biology)  
-cellogi - cytology  
+####C - C  
+cana - produce (create, make)  
+cana basha - artificial language (conlang)  
+cana di - artificial  
+cana ja - maker (manufacturer)  
+cana li - productive (fertile)  
+cana ya - production  
+cau - grass  
+cau istan - grassland (prairie)  
+celu - cell (biology)  
+celu logi - cytology  
 celsius darje - degree Celsius  
 centi - centi- (per cent)  
 centimitre - centimeter (cm)  
 Ceres - Ceres (dwarf planet)  
 cerium - cerium  
 cesium - caesium  
-ch - C  
 chabe - key  
 Chade - Chad  
 chai - tea  
-chaikan - tea house  
-chaikupe - tea cup  
-chaipote - teapot  
-chake - knife  
-chakre - wheel  
+chai kan - tea house  
+chai kupe - tea cup  
+chai pote - teapot  
+chakra - wheel  
+chaku - knife  
 chamache - spoon  
 champion - champion  
-chana - produce (create, make)  
-chanbash - artificial language (conlang)  
-chani - artificial  
-chania - production  
-chaniva - fertilize  
-chaniver - fertilizer  
-chanivi - productive (fertile)  
 chanse - opportunity (chance)  
 chante - sing  
 chante - song  
@@ -509,8 +515,6 @@ charme - charm (attraction)
 chate - roof  
 chatre - four (4)  
 chatre di galope - gallop  
-chau - grass  
-chavistan - grassland (prairie)  
 cheka - check (to examine)  
 chen zaman - past times  
 chena - predate (be before)  
@@ -890,7 +894,17 @@ eutopia - utopia
 evanjil - gospel (divine message)  
 evi - beneficial (good)  
 ####F - F  
-fa - turn into (transform into)  
+fa - do  
+fa ja - doer (agent)  
+fa safa - clean (purify)  
+fa valu - value (evaluate)  
+fa van - amuse (entertain)  
+fa ver - verify (authenticate)  
+fa verse - turn around (flip)  
+fa vice - substitute (replace)  
+fa vode - promise (pledge)  
+fa vote - vote (cast a vote)  
+fa yagu - estimate (approximate)  
 fada - supply (dispense, issue, put out)  
 faide - resource (utility, asset)  
 faidi - useful (beneficial, advantageous)  
@@ -923,9 +937,7 @@ fasinia - fascination
 faskaribi - shallow  
 fasteli - deep  
 fastelia - depth  
-fata - do (make, manufacture)  
 fate - deed (fact)  
-fater - maker (manufacturer, factor, agent)  
 fatigia - fatigue (weariness)  
 fatigu - get tired (become weary)  
 fatokan - factory  
@@ -934,6 +946,7 @@ faze - stage (phase)
 febre - fiever  
 fei - flight  
 fei gi - airplane  
+fei gi di kape ja - plane hijacker  
 feimush - bat (flying mammal)  
 fem - female  
 femi pute - daughter  
@@ -980,9 +993,9 @@ finodi - last (final)
 finu - end  
 fiorde - fjord  
 firuze - turquoise gem  
-fite - plant (vegetable, vegetation)  
-fitolojia - botany (phytology)  
-fityamiste - vegetarian  
+fito - plant (vegetable, vegetation)  
+fito logi - botany (phytology)  
+fito yam jui ja - vegetarian  
 fizike - physics  
 fiziker - physicist  
 fizikia - physics (science)  
@@ -1004,6 +1017,8 @@ folia - madness (insanity)
 fon - phone (speech sound)  
 fona - pronounce (articulate)  
 fonem - phoneme  
+fong - bee or wasp  
+fong nide - bee nest (beehive, wasp's nest)  
 fonlojia - phonology  
 fonte - fountain (spring, well)  
 fora - drill (bore, perforate)  
@@ -1036,12 +1051,15 @@ francium - francium
 frem - frame  
 frika - rub (scrape, scrub)  
 frute - fruit  
+frute cana - fertilize  
+frute cana ja - fertilizer  
 fuga - return (restore, recover, resume)  
 fui - bah! (yuck!)  
 fuka - dress (clothe sb.)  
 fuke - clothing (clothes)  
 fuki - clothed (dressed)  
 fuku - wear (dress, put on)  
+fuku vashi gi - washing machine  
 fun - dust (powder)  
 fun chupa gi - vacuum cleaner  
 funci - function (work)  
@@ -1168,8 +1186,11 @@ giauja - teacher (instructor)
 gida - guide (lead, show the way)  
 gider - guide  
 gidobuke - guide book  
+ging cirke - meridian (line of longitude)  
+ging darje - longitude  
 gingi - longitudinal (vertical)  
 ginglin - warp  
+giota - drop (droplet)  
 gitar - guitar  
 giuke - jade  
 glisu - slide (slip, glide, skate)  
@@ -1186,7 +1207,7 @@ golem - golem
 gom - rubber  
 gon - corner (angle)  
 gonmetrer - goniometer  
-gorile - gorilla  
+gorila - gorilla  
 goro - pig  
 goro nama - pork  
 goton - cotton  
@@ -1563,6 +1584,7 @@ judau - judo
 jude - judgment (sentence)  
 juder - judge (referee)  
 judi - judicial  
+jui - ideology (principle, doctrine, -ism)  
 jul - joule (J)  
 jumle - sentence (phrase)  
 jung - middle (center)  
@@ -1659,9 +1681,9 @@ kantalupomelon - cantaloupe
 kante - shoulder  
 kanun - law  
 kanyon - canyon (ravine, gorge, gully)  
-kapa - catch (capture, seize, snatch, intercept)  
-kapa pesh - catch fish  
-kapotruke - trap (snare)  
+kape - catch (capture, seize, snatch, intercept)  
+kape truke - trap (snare)  
+kape yo pesh - catch fish  
 kapse - box (container)  
 kar - work (job, task)  
 kara - work  
@@ -1805,13 +1827,14 @@ klusa - close (shut)
 ko multo - how many?  
 ko? - how?  
 kobalte - cobalt  
-koda - encode (encrypt)  
+koda - tail (coda)  
+kode - encode (encrypt)  
 kode - code (cipher)  
-koke - coca  
-kokode - chicken  
-kokokol - Coca-Cola  
+koka - coca  
+Koka Kola - Coca-Cola  
+koko - chicken  
 Kokos nesia - Cocos (Keeling) Islands  
-kole - cola  
+kola - cola  
 Kolombia - Colombia  
 kolona - colonize  
 koloner - colonist  
@@ -1819,8 +1842,8 @@ kolonia - colony (settlement)
 koloniste - colonialist  
 kolonistia - colonialism  
 kolum - column (pillar, pole, post)  
+koma - comma  
 komali - soft  
-kome - comma  
 Komoro nesia - Comoros  
 kompania - company (corporation)  
 komputa - compute (to process data)  
@@ -2122,7 +2145,7 @@ maitnerium - meitnerium
 majang - mahjong  
 majenti - magenta (fuchsia)  
 Makah - Mecca  
-makal - article (writing)  
+makala - article (writing)  
 makan - butter  
 makanful - dandelion  
 makas - scissors (shears)  
@@ -2222,11 +2245,11 @@ maze - sock (stocking)
 mecha - compete (have a match)  
 meche - match (contest)  
 medal - medallion (medal)  
-mede - middle (the part in between)  
 meden - field (square, plaza, maidan)  
 medenfobia - agoraphobia  
 medeni - open (wide, spacious)  
 medenpapil - corn poppy  
+medi - middle (the part in between)  
 medi - medium (intermediate, mean)  
 media - medium (media)  
 medika - heal (cure, remedy)  
@@ -2404,7 +2427,7 @@ Mozambike - Mozambique
 mudan - peony  
 muka - face  
 muka fun - face powder  
-mul - root  
+mula - root  
 multi - many (much)  
 multia - number (abundance)  
 mum - wax  
@@ -2498,8 +2521,8 @@ neodimium - neodymium
 neon - neon  
 Nepal - Nepal  
 Neputun - Neptune  
-nes - island  
-nesia - archipelago  
+nesia - island  
+nesia grupe - archipelago  
 nete - net (web, mesh)  
 netodona - upload  
 netogeta - download  
@@ -2596,6 +2619,7 @@ ofisi - official
 ofisia - office (bureau)  
 ofiskan - office (room)  
 oganeson - oganesson  
+ohtopus - octopus  
 oka - eye (look, watch, observe, spectate)  
 oke - eye  
 okei - okay (acceptance)  
@@ -2776,7 +2800,7 @@ peshtanke - fish tank
 pesodiske - coin  
 peta* - peta-  
 pete - belly (stomach, abdomen)  
-petre - rock  
+petra - rock  
 petronefte - petroleum  
 peya - pay  
 piano* - piano  
@@ -3104,14 +3128,13 @@ sabo da - because
 sabun - soap  
 sadi - plain (ordinary, unadorned, simple, mere)  
 sado - simply (merely, only)  
-safa - clean (purify)  
+safa - clean (pure)  
 safar - travel (voyage, trip)  
 safara - travel  
 safarer - traveler  
 safariste - tourist  
 safaristia - tourism  
 safer - cleaner  
-safi - clean (pure)  
 safran - saffron  
 saha - correct (make right)  
 Sahara Desha - Sahrawi Arab Democratic Republic  
@@ -3715,22 +3738,18 @@ vacin - vaccine
 vaf - dog  
 vagina - vagina  
 vagina flame - vaginitis  
-vakil - representative (proxy, agent)  
-vakila - represent  
-val - value (worth)  
-vala - value (evaluate)  
+vakil - represent  
+vakil ja - representative (proxy, agent)  
 vali - valley  
 vali susan - lily of the valley  
 Valis e Futuna nesia - Wallis and Futuna Islands  
-valu - be worth  
+valu - value (worth)  
 vampir - vampire  
-vampirbalsenter - vampire squid  
+vampir ohtopus - vampire squid  
 van - fun (amusement)  
-vana - amuse (entertain)  
+van di - funny (amusing)  
 vanadium - vanadium  
-vani - funny (amusing)  
 vanil - vanilla  
-vanu - enjoy (play)  
 Vanuatu - Vanuatu  
 var - day of the week  
 var chatre - Thursday  
@@ -3742,129 +3761,111 @@ var tri - Wednesday
 var un - Monday  
 var var - week  
 varis - heritage (legacy, bequest)  
-varkalge - kelp  
-varke - leaf (sheet)  
-varkolate - page (side of a leaf of a book)  
+varka - leaf (sheet)  
+varka alga - kelp  
+varka late - page (side of a leaf of a book)  
 vase - oasis  
-vasha - wash  
-Vashington Dch - Washington DC  
-vashmashin - washing machine  
-vashurse - raccoon  
+vashi - wash  
+vashi urse - raccoon  
+Vashington D####C - Washington DC  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
-vei - tail  
-veilin - weft  
-veisirke - latitude  
-venda - sell (vend)  
-vendoshopa - trade (buy and sell)  
-vendoshope - trade (commerce)  
-vendoshoper - trader (merchant)  
+vei - latitudinal (horizontal)  
+vei cirke - parallel (line of latitude)  
+vei darje - latitude  
+vei di - traverse (horizontal)  
+vei lin - weft  
+vende - sell (vend)  
+vende shope - trade (commerce, buying and selling)  
+vende shope ja - trader (merchant)  
 Venezuela - Venezuela  
 Venjou - Wenzhou  
-venjovoranje - satsuma mandarin  
+venjou oranje - satsuma mandarin  
 ventur - adventure (venture)  
-venturer - adventurer  
+ventur ja - adventurer  
 Venus - Venus  
-veri - true (real, genuine)  
-verita - verify (authenticate)  
+ver - true (real, genuine, indeed, very)  
 verme - worm  
 vermute - vermouth  
-vero - truly (indeed, very)  
-versa - turn around (flip)  
+verse - face (versus)  
 version - version (variation, edition)  
-versu - face (versus)  
-vespe - bee or wasp  
-vesponide - bee nest (beehive, wasp's nest)  
 veste - west  
-vesti - western  
-vestodongia - longitude  
-vestogoril - western gorilla  
-veyi - traverse (horizontal)  
-vezi - heavy  
-vezia - weight (heft, gravity)  
-vezometrer - scales (weighing device)  
-vezu - weigh (have weight)  
-vida - look (see)  
-vide - view (vision)  
-vider - spectator (sightseer)  
-vidomeden - visual field (field of vision)  
-vidopunte - perspective (point of view)  
+veste di - western  
+veste gorila - western gorilla  
+veze - weight (heft, gravity)  
+veze di - heavy  
+veze metre gi - scales (weighing device)  
+vice - vice (deputy, alternative, substitute, replacement)  
+vice loga - pronoun  
+vice ma - step-mother  
+vice pa - step-father  
+vice prezidente - vice-president  
+vice raja - viceroy  
+vide - look (see)  
+vide ja - spectator (sightseer)  
+vide meden - visual field (field of vision)  
+vide punte - perspective (point of view)  
+vide she - view (vision)  
 vidou - widow  
-vidu - be seen  
-vieti - Vietnamese (Viet)  
-Vietia - Viet Nam  
+Viete - Viet Nam  
+viete basha - Vietnamese language (Viet)  
 vijin - MSG (monosodium glutamate)  
-vike - wiki article  
-vikia - wiki  
-vildi - wild (savage)  
-vimankaper - plane hijacker  
+viki - wiki  
+viki makala - wiki article  
+vilde - wild (savage)  
 vin - wine  
+vin kan - winery  
+vin suan - vinegar  
 ving - wing  
 vinil - vinyl  
-vinkan - winery  
-vinsuan - vinegar  
 virje - virgin  
-virji - pristine (virginal)  
+virje di - pristine (virginal)  
 Virjin nesia - Virgin Islands, US  
 virus - virus  
-viruslogi - virology  
-vis - alternative (substitute, replacement)  
-visa - substitute (replace)  
-visi - vice (deputy)  
-viske - whisky (whiskey)  
-visloge - pronoun  
-vismai - step-mother  
-vispai - step-father  
-visprezidente - vice-president  
-visrajer - viceroy  
-vite - screw  
-viyoleti - purple (violet)  
-vize - visa  
-voda - promise (pledge)  
+virus logi - virology  
+viski - whisky (whiskey)  
+vita - screw  
+viyolete - pansy (violet, viola)  
+viyolete blu - purple (violet)  
+viza - visa  
 vode - promise (vow, oath)  
 vodun - voodoo  
-vol - want (desire, longing)  
+vol - want (desire, wish)  
+vol she - want (desire, wish)  
 volfe - wolf  
 volfram - tungsten (wolfram)  
 Volof - Wolof (language and people)  
 volte - volt (V)  
-volu - want (desire, wish)  
-vota - vote (cast a vote)  
 vote - vote (ballot)  
-votohake - franchise (right to vote)  
-vulve - vulva  
-vute - object (item, thing)  
+vote haki - franchise (right to vote)  
+vulva - vulva  
+vutu - object (item, thing)  
 ####X - X  
 xenon - xenon  
+####Y - Y  
 ya - he or she or it  
 ya - area of thinking or being  
 ya di - his or her  
-yaga - estimate (approximate)  
-yago - about (approximately, nearly, almost)  
-yagones - peninsula  
+yagu - about (approximately, nearly, almost)  
+yagu nes - peninsula  
 Yahve - Yahweh (Jehovah)  
 yake - yak  
-yala - hurry (hasten)  
-yam - food (meal)  
-yama - consume (eat or drink)  
+yam - consume (eat or drink)  
+yam fito - vegetable  
+yam kamar - dining room  
+yam she - food (meal)  
+yam sukar cau - duruka  
+yam yau - hunger  
 yamen - they  
 yamen di - their  
-yamfite - vegetable  
-yami - delicious (yummy)  
-yamkamar - dining room  
-yamsukarchau - duruka  
-yamyau - hunger  
 yang - kind (style, sort, type)  
 Yapetus - Iapetus  
 yasen - ash tree  
 yatim - orphan  
-yatimdom - orphanage  
-yau - need (shortage, lack)  
-yaushina - trust (rely)  
-yaushinabli - loyal (faithful, trustworthy)  
-yaushinablia - loyalty (faithfulness)  
-yavan - necessary (needed)  
-yavi - needy (lacking)  
+yatim dom - orphanage  
+yau - need (lack, require)  
+yau di - necessary (needed)  
+yauta - need (shortage, lack, requirement)  
 ye - yes  
 yehudi - Jewish  
 yehudi din - Judaism  
@@ -3874,79 +3875,71 @@ yeki kanon - I Ching (the Book of Changes)
 Yemen - Yemen  
 Yesu - Jesus  
 Yesu mesi - Jesus Christ  
-yeze - coconut tree  
-yo - some  
-yo - one (someone)  
+yezi - coconut tree  
+yo - some (one)  
 yo jan - someone (somebody)  
 yo sate - sometime  
 yo she - something  
 yoga - yoga  
 yoga ja - yogi  
+yogo - yoke  
 Yohan festa - Saint John's Day  
-yoke - yoke  
 yom - day (24 hours)  
-yongopetre - lava  
-yongosaha - smelt  
-yongu - melt (be liquified)  
+yong - melt  
+yong petra - lava  
+yong safa - smelt  
 Yoruba - Yoruba (language and people)  
 yota - yotta-  
-yote - drop (droplet)  
 yumor - humor  
-yumori - humorous (comical, funny)  
-yumoriste - humorist  
+yumor di - humorous (comical, funny)  
+yumor ja - humorist  
 yuterbium - ytterbium  
 yutrium - yttrium  
 ####Z - Z  
-zai - present (here, now, current situation)  
+zai - exist (presently, currently)  
 zai den - today  
-zai zam - present time (now)  
-zai zam di - current (contemporary, present-day)  
+zai di - present (existing)  
+zai fa - summon (add, spawn, actualize)  
+zai zaman - present time (now)  
+zai zaman di - current (contemporary, present-day)  
+zaita - presence (existence)  
 zaitun - olive  
 zalim - mean (cruel)  
 zalim raja - tyrant (despot)  
 zalimta - cruelty (tyranny, despotism)  
-zam - time  
+zaman - time  
 Zambia - Zambia  
 zar - hazard (chance)  
+zar di - random  
+zar kube - die (dice)  
 Zardush - Zoroaster  
 Zardush din - Zoroastrianism  
 Zardush din ja - Zoroastrian  
-zari - random  
-zarkube - die (dice)  
-zaya - summon (add, spawn)  
-zayi - present (existing)  
-zayia - presence (existence)  
-zayo - presenty (currently, now)  
-zayu - appear  
-zayu - exist (be present)  
 ze - from (since, because)  
-zebre - zebra  
-zeta* - zetta-  
+zebra - zebra  
+zeta - zetta-  
 zeyil - wart  
 zeze - fly  
 zi - character (written symbol)  
 zigzage - zigzag  
-zikure - ziggurat  
+zikura - ziggurat  
 Zimbabve - Zimbabwe  
-zine - adultery (infidelity)  
-zinje - ginger  
+zina - adultery (infidelity)  
+zinji - ginger  
 zinke - zinc  
-zipa - zip up  
-zipe - zipper  
-zire - cumin (jeera)  
+zipa - zipper (zip)  
+zira - cumin (jeera)  
 zirkon - zircon  
 zirkonium - zirconium  
-ziza - sizzle  
-zoka - continue (carry on, proceed)  
-zoki - continuous (analog)  
-zoko - still (yet, continuously)  
-zoku - continue (go on, keep on)  
+zizi - sizzle  
+zoku - continue (go on, keep on, carry on, proceed, still, yet)  
+zoku di - continuous (analog)  
 zombi - zombie  
 zona - belt (zone)  
 zong - post (stake, peg, skewer)  
-zongominte - spearmint  
+zong minte - spearmint  
 zou - animal  
-zou agria - animal husbandry  
+zou agro shutu - animal husbandry  
 zou filia - zoophily  
 zou geo grafi - zoogeography  
 zou kata - fable  
@@ -3955,9 +3948,9 @@ zou logi di - zoological
 zou parke - zoo (zoological garden)  
 zou toxe - zootoxin  
 zukam - cold (illness)  
-zuke - ethnic group  
-zuki - ethnic  
-zukomedi - interethnic  
+zuku - ethnic group  
+zuku di - ethnic  
+zuku medi di - interethnic  
 Zulu - Zulu  
 zumarda - emerald  
  - snow (be snowing)  

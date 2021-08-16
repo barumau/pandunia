@@ -9,10 +9,10 @@ adilta - справедливость
 adres - адрес  
 Afgan - Афганистан  
 agile - подвижный  
-agra - выращивать  
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
 agri - аграрный  
+agro - выращивать  
 agrobiologi - агробиология  
 agronomia - агрономия  
 ai - любовь  
@@ -23,6 +23,7 @@ airgun - военно-воздушные силы
 airporte - аэропорт  
 aishoke - хокке́й с ша́йбой  
 aiskrem - мороженое  
+ajila - спешить  
 akare - клещ (лепта)  
 akse - ось  
 aksesabli - доступный  
@@ -36,6 +37,9 @@ almari - шкаф
 almas - алмаз (бриллиант)  
 amater - любитель  
 amen - честный (правдивый)  
+amen bil - верный  
+amen bilta - верность  
+amen shin - доверять (понадеяться)  
 amirlin - командная строка  
 an - в  
 an lin - онлайн  
@@ -127,7 +131,6 @@ bateri - батарея
 bato - восемь (8)  
 baton - штанга  
 baton kapse - клетка  
-batosenter - спрут (осьминог)  
 bau - сокровище (казна)  
 bau sheke - драгоценный камень  
 bavi - драгоценный  
@@ -189,14 +192,15 @@ bum - взрыв
 bumu - взрываться  
 bute - ботинок  
 buton - пуговица  
-cellogi - цитология  
+####C - C  
+celu logi - цитология  
 centaure - василёк  
-ch - C  
+chabe - ключ  
 chai - чай  
-chaikan - чайная (чайхана)  
-chaikupe - чайная чашка  
-chaipote - чайник  
-chakre - колесо  
+chai kan - чайная (чайхана)  
+chai kupe - чайная чашка  
+chai pote - чайник  
+chakra - колесо  
 chamache - ложка  
 chanse - возможность (шанс)  
 chante grupe - хор  
@@ -319,6 +323,8 @@ euloge - панегирик
 europobalute - дуб черешчатый  
 evanjil - евангелие  
 ####F - F  
+fa - делать  
+fa valu - оценивать  
 faidia - применение (утилитарность)  
 fan - болото  
 fantopia - болото (топь)  
@@ -340,9 +346,9 @@ filme - плева (фильм)
 filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
-fite - растение  
-fitolojia - ботаника  
-fityamiste - вегетарианец  
+fito - растение  
+fito logi - ботаника  
+fito yam jui ja - вегетарианец  
 flame - воспаление  
 fleche - стрела (стрелка)  
 foba - страшить  
@@ -360,6 +366,7 @@ fuka - одевать
 fuke - одежда  
 fuki - оде́тый  
 fuku - носить (одеваться)  
+fuku vashi gi - стиральная машина  
 fungu frute - гриб  
 fute bol - футбол  
 fute marke - след ноги  
@@ -401,7 +408,7 @@ glutobende - пластырь
 glutofan - глина  
 glutograf - наклейка  
 gol - цель  
-gorile - горилла  
+gorila - горилла  
 goton - хлопок  
 grafi kata - комикс  
 granite - гранит  
@@ -517,6 +524,7 @@ jivi - живой
 joveni - юный  
 joveni moke - саженец  
 juder - судья  
+jui - идеология  
 jul - джоуль (J)  
 jumle - фраза  
 jung - центр  
@@ -564,7 +572,7 @@ kano* - каноэ
 Kantalupo va Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
 kanyon - овраг (ущелье, каньон)  
-kapotruke - ловушка  
+kape truke - ловушка  
 kar - работа  
 kara - работать  
 karbodulokside - двуокись углерода  
@@ -609,6 +617,7 @@ klim - климат
 klimmute - изменение климата  
 klin - тенденция (склонить)  
 ko? - как  
+koda - хвост  
 komputer - компьютер  
 konboni - соответствовать (сочетаться)  
 konchung - насекомое  
@@ -810,7 +819,7 @@ mosim - время года (сезон)
 Moskou - Москва  
 moto - мотор  
 moto sikle - мотоцикл  
-mul - корень  
+mula - корень  
 mummelon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  
 murche - муравей  
@@ -862,6 +871,7 @@ numbe - число
 ####O - O  
 o - или  
 ode - ранг  
+ohtopus - спрут (осьминог)  
 oke - глаз (око)  
 oki - глазной  
 okosuigas - слезоточи́вый газ  
@@ -935,7 +945,7 @@ pesh - рыба
 peshhuke - крючок  
 peshosaider - рыбак (рыболов)  
 pesodiske - монета  
-petre - горная порода  
+petra - горная порода  
 petronefte - нефть  
 piaze - лук  
 pike - кончик (остриё, пик)  
@@ -1245,11 +1255,10 @@ va - вау!
 vaf - собака  
 vagina - влагалище (вагина)  
 vagina flame - вагинит  
-val - ценность  
-vala - оценивать  
 vali susan - ландыш  
+valu - ценность  
 vampir - вампир (упырь)  
-vampirbalsenter - адский вампир  
+vampir ohtopus - адский вампир  
 var chatre - четверг  
 var du - вторник  
 var luku - суббота  
@@ -1258,91 +1267,86 @@ var sete - воскресенье
 var tri - среда  
 var un - понедельник  
 vase - оазис  
-vasha - мыть  
-vashmashin - стиральная машина  
-vashurse - енот  
-vei - хвост  
-veilin - уток  
-venda - продать  
-vendoshopa - обмениваться  
-venjovoranje - мандарин уншиу  
+vashi - мыть  
+vashi urse - енот  
+vei lin - уток  
+vende - продать  
+vende shope - торговля  
+venjou oranje - мандарин уншиу  
 ventur - авантюра  
-venturer - авантюрист  
+ventur ja - авантюрист  
 Venus - Венера  
-veri - верный  
+ver - верный  
 vermute - вермут  
-vestogoril - западная горилла  
-vezi - тяжёлый  
-vezu - весить  
-vida - видеть  
-vider - зрительница  
-vidopunte - перспектива (точки зрения)  
+veste gorila - западная горилла  
+veze di - тяжёлый  
+vice ma - мачеха  
+vice pa - отчим  
+vice raja - вице-король  
+vide - видеть  
+vide ja - зрительница  
+vide punte - перспектива (точки зрения)  
 vidou - вдова  
-vinkan - винном заводе  
+vin kan - винном заводе  
 virje - девственник  
 virus - вирус  
-viruslogi - вирусология  
-vismai - мачеха  
-vispai - отчим  
-visrajer - вице-король  
-viyoleti - фиолетовый (пурпурный)  
-vize - виза  
+virus logi - вирусология  
+viyolete blu - фиолетовый (пурпурный)  
+viza - виза  
 vode - клятва (присяга, обет)  
-volu - хотеть  
-vulve - вульва  
-vute - статья (предмет)  
+vol - хотеть  
+vulva - вульва  
+vutu - статья (предмет)  
 ####X - X  
 xenon - ксенон  
+####Y - Y  
 Yahve - Яхве (Иегова)  
+yam fito - овощ  
+yam yau - голод  
 yamen di - их  
-yamfite - овощ  
-yamyau - голод  
 yasen - ясень  
-yatimdom - детский дом  
-yau - нужда  
-yaushina - доверять (понадеяться)  
-yaushinabli - верный  
-yaushinablia - верность  
-yavan - нужный  
+yatim dom - детский дом  
+yau di - нужный  
+yauta - нужда  
 ye - да  
 yeki kanon - Книга Перемен  
 Yemen - Йемен  
 Yesu - Иисус  
 Yesu mesi - Иисус Христос  
 yoga - йога  
+yogo - ярмо (иго)  
 Yohan festa - Иванов день  
-yoke - ярмо (иго)  
 yom - сутки  
 yumor - юмор  
 ####Z - Z  
-zai zam di - нынешний  
+zai zaman di - нынешний  
 zalim raja - тиран (деспот)  
 Zambia - Замбия  
+zar kube - кость (кубик)  
 Zardush - Зороастр  
 Zardush din ja - зороастризм  
-zarkube - кость (кубик)  
 ze - из (от)  
-zebre - зебра  
+zebra - зебра  
 zeyil - бородавка  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
 Zimbabve - Зимбабве  
-zinje - имбирь  
+zinji - имбирь  
 zinke - цинк  
-zire - тмин  
+zira - тмин  
 zirkon - циркон  
-zoko - ещё  
+zoku - ещё  
 zona - пояс (зона)  
 zong - кол  
-zongominte - мята колоси́стая  
+zong minte - мята колоси́стая  
 zou - животное  
 zou kata - басня  
 zou logi - зоология  
 zou logi di - зоологический  
 zou parke - зоопарк  
-zuke - этнос  
-zuki - этнический  
-zukomedi - межэтнический  
+zuku - этнос  
+zuku di - этнический  
+zuku medi di - межэтнический  
 Zulu - зулус  
 zumarda - изумруд  
  - обременять  

@@ -20,6 +20,7 @@
 |**ais**|hielo|eng:ice, deu:Eis, may:és|
 |**aiskrem**|helado|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|
 |**ajabi**|maravilloso (asombroso)|ara:(ʿajīb), swa:ajabu, + fas:('ajib), urd:(ajīb), hin:अजीब (ajīb), tur:acayip|
+|**ajila**|meter prisa|ara:عجل (ʿajila), tur:acele, swa:ajila, fas:عجله  (ajaleh), hin:जल्द (jald)|
 |**akare**|garrapata (ácaro)|spa:por:ácaro, fra:acarien, tur:acari|
 |**akse**|eje|eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|
 |**alge**|alga|eng:spa:por:pol:may:alga, fra:algue, deu:Alge, tur:alg, fas:(âlg)|
@@ -28,7 +29,6 @@
 |**almari**|armario|spa:armario, por:armário, hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, swa:almari|
 |**almas**|diamante|swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |**amen**|honesto (seguramente, amén)|heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|
-|**ameno**|seguramente (amén)|heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|
 |**Amerike**|América|eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika)|
 |**amir**|orden (mando, comando)|ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|
 |**ampul**|ampolla (vial)|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
@@ -177,14 +177,15 @@
 |**Butan**|Bután|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |**bute**|bota|eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|
 |**buton**|tecla (botón)|eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|
-|**cel**|célula|may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|
-|**chabe**|llave|por:chave, hin:(cābi), kon:nsapi|
+|**cana**|producir (hacer, preparar)|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-) + ara:(ṣanaʿa), swa:sanaa, tur:sanat|
+|**cau**|césped (hierba)|zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|
+|**celu**|célula|may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|
+|**chabe**|llave|por:chave, spa:llave, hin:चाबी (cābī), ben:চাবি (cabi), kon:nsapi|
 |**chai**|té|zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|
-|**chake**|cuchillo|hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|
-|**chakre**|rueda (volante)|hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram|
+|**chakra**|rueda (volante)|hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram|
+|**chaku**|cuchillo|hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|
 |**chamache**|cuchara|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |**champion**|campeón|eng:fra:champion, spa:campeón, por:campeão, rus:чемпион (chempion), tur:şampiyon, jpn:チャンピオン (chanpeon), kor:챔피언 (chaempieon)|
-|**chana**|producir (hacer, preparar)|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-) + ara:(ṣanaʿa), swa:sanaa, tur:sanat|
 |**chanse**|oportunidad (chance)|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
 |**chante**|canción|fra:chanter, eng:chant, por:spa:cantar, + zho:唱 (chàng), kor:창 (chang)|
 |**chapati**|chapati (pan sin levadura)|hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus:чапати (čapati), mya:ချပါတီ (kyapati)|
@@ -192,7 +193,6 @@
 |**charme**|encanto|fra:por:charme, eng:charm, rus:шарм (šarm)|
 |**chate**|techo (tejado)|hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|
 |**chatre**|cuatro (4)|rus:четыре (chetyre), hin:चार (cār), ben:চার (car), may:catur + fra:quatre, spa:cuatro, por:quatro|
-|**chau**|césped (hierba)|zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|
 |**cheka**|revisar (chequear)|eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|
 |**cheng**|capa (piso, planta, estrato)|zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|
 |**cheno**|más temprano (antes, haber, en el pasado)|zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|
@@ -311,6 +311,7 @@
 |**eureka**|econtrar (hallar)|ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|
 |**Europe**|Europa|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
 |**evi**|beneficioso (bueno)|eng:fra:spa:por:eu-|
+|**fa**|hacer|fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya|
 |**fada**|suministrar (dar, proveer, emitir)|zho:发 (fā), yue:發 (faat3), wuu:發 (faq4), jpn:発 (hatsu), vie:phát|
 |**faidia**|uso (utilidad, beneficio)|ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah|
 |**faini**|fino (delgado, delicado)|eng:fine, spa:por:fino, fra:fin|
@@ -325,7 +326,6 @@
 |**fasili**|fácil|eng:facility, spa:por:fácil, fra:facile|
 |**fasinia**|fascinación|eng:fascination, spa:fascinación, deu:Faszination|
 |**fate**|hecho|fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)|
-|**fater**|farbicante|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|
 |**fatigia**|fatiga|eng:fra:fatigue, spa:fatiga, por:fadiga, ita:fatica|
 |**faze**|etapa (fase)|spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)|
 |**febre**|fiebrie (calentura)|por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|
@@ -344,7 +344,7 @@
 |**fin**|fin (el final)|eng:finish, fra:spa:fin, por:fim|
 |**fiorde**|fiordo|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |**firuze**|turquesa (piedra preciosa)|per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|
-|**fite**|planta (vegetal, vegetación)|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
+|**fito**|planta (vegetal, vegetación)|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
 |**fizikia**|física|eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|
 |**flame**|inflamación|eng:fra:inflammation + zho:炎 (yán), yue:炎 (jim4), kor:염 (yeom), vie:viêm|
 |**fleche**|flecha|spa:por:flecha, fra:flèche, eng:fletch|
@@ -352,6 +352,7 @@
 |**fokus**|concentrar (enfocarse)|eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)|
 |**folia**|demencia (locura)|eng:folly, fra:folie, ita:follia|
 |**fon**|fono (segmento acústico)|eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon|
+|**fong**|abeja o avispa|zho:蜂 (fēng), yue:蜂 (fung1), wuu:蜂 (fon1), kor:봉 (bong), vie:ong, tha:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)|
 |**fonte**|fuente (manantial)|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|
 |**fora**|taladrar (perforar)|fra:forer, por:furar, eng:perforate, spa:perforar|
 |**forke**|tenedor|eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|
@@ -408,6 +409,7 @@
 |**gi**|máquina (dispositivo, aparato)|zho:機 (jī), wuu:機 (ji1), yue:機 (gei1), jpn:機 (ki), kor:기 (gi), tha:กี่ (gìi) + jpn:器 (ki)|
 |**gida**|guiar|eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu), swa:gaidi + ara:قَادَ‎ (qāda)|
 |**giga***|giga-|eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|
+|**giota**|gota|tha:หยด (yòt), vie:giọt, + eng:iota, rus:йота (yota) + spa:por:gota|
 |**gitar**|guitarra|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
 |**giuke**|jade|zho:玉 (yù), yue:玉 (yuk6), nan:玉 (gio̍k), jpn:玉 (gyoku), vie:ngọc (玉), may:giok|
 |**glisu**|deslizar|fra:glisser, ita:glissare + eng:glacier,glissando, spa:por:glaciar,glisando, rus:глиссандо (glissando), ara:غليساندو (ghlysandw), jpn:グリッサンド (gurissando) + may:gelangsar|
@@ -416,7 +418,7 @@
 |**gol**|meta (gol, destinación)|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |**gom**|goma (caucho, hule)|spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|
 |**gon**|esquina (rincón, ángulo)|hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana, fra:-gone, spa:por:-gono|
-|**gorile**|gorila|eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)|
+|**gorila**|gorila|eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)|
 |**goro**|cerdo (puerco)|swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt|
 |**goton**|algodón|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |**grafi**|imagen (gráfico, dibujo)|eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)|
@@ -539,6 +541,7 @@
 |**jong**|especie|zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|
 |**joveni**|joven|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
 |**juder**|juez (árbitro, réferi)|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|
+|**jui**|ideología (doctrina, -ismo)|zho:主义 (zhǔyì), yue:主義 (zyu2 ji6), jpn:主義 (shugi), kor:주의 (juui), vie:chủ nghĩa|
 |**jumle**|oración|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
 |**jung**|centro|zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|
 |**jupe**|falda|fra:jupe, ara:(jūb), rus:юбка (yubka)|
@@ -578,7 +581,7 @@
 |**kante**|hombro|hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|
 |**kanun**|regla (ley)|ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|
 |**kanyon**|cañón (barranco, quebrada)|eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon|
-|**kapa**|capturar (apresar)|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
+|**kape**|capturar (apresar)|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
 |**kar**|trabajo|may:karya, hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma) |
 |**karau**|carvis (alcaravea)|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|
 |**karbau**|búbalo (arni)|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|
@@ -633,14 +636,15 @@
 |**klin**|cuesta (inclinación, pendiente, predisposición, tender)|eng:-cline, fra:-cliner, por:spa:-clinar, rus:склонить (sklonit’)|
 |**klon**|clonar|en:por:fra:clone, spa:clon rus:клон (klon), may:klon, jpn:クローン (kurōn)|
 |**klube**|club|eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|
+|**koda**|cola (rabo, coda)|eng:coda, spa:coda,cola, por:cauda, fra:côté, jpn:コーダ (kōda)|
 |**kode**|código (cifra)|eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|
-|**koke**|coca|spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|
-|**kokode**|pollo|fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + swa:kuku, zul:inkukhu, + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|
-|**kole**|cola (refresco de cola)|eng:spa:cola, rus:кола (kola), hin:कोला (kolā), jpn:コラ (kora)|
+|**koka**|coca|spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|
+|**koko**|pollo|fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + swa:kuku, zul:inkukhu,ibo:Ọkụkọ + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|
+|**kola**|cola (refresco de cola)|eng:spa:cola, rus:кола (kola), hin:कोला (kolā), jpn:コラ (kora)|
 |**kolonia**|colonia|eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー|
 |**kolum**|columna|eng:column, spa:columna, por:coluna, fra:colonne, rus:колонна (kolonna), pol:kolumna|
+|**koma**|coma|eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|
 |**komali**|blando (mullido)|hin:कोमल (komal), tel:కోమలము (kōmalamu), khm:កោមល (kaomɑl)|
-|**kome**|coma|eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|
 |**kompania**|compañía (empresa, corporación)|eng:company, hin:कंपनी (kampanī), rus:компания (kompaniya), tgl:kompanya, pol:kompania|
 |**komputer**|computadora (ordenador)|eng:computer, spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)|
 |**komuni**|comunitario|eng:common, spa:común, por:comum, fra:commun, rus:коммунальный (kommunal’nyy)|
@@ -756,7 +760,7 @@
 |**mahala**|barrio (cuartel)|ara: مَحَلَّة‎ (maḥalla), hin:मुहल्ला (muhallā), tur:mahalle|
 |**mais**|maíz|eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|
 |**majenti**|magenta (fucsia)|eng:magenta, spa:magenta, rus:маджента (madzhenta), ara:ماجنتي (majinati), hin:मैजेंटा (maijenta), jpn:マゼンタ (mazenta), may:magenta|
-|**makal**|artículo (texto)|ara:مَقَال‎ (maqāl), tur:makale, swa:makala, fas:مقاله‎ (maqâle), may:makalah|
+|**makala**|artículo (texto)|ara:مَقَال‎ (maqāl), tur:makale, swa:makala, fas:مقاله‎ (maqâle), may:makalah|
 |**makan**|mantequilla|hin:मक्खन (makkhan), ben:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), mar:माखण (mākhaṇ), guj:માખણ (mākhaṇ)|
 |**makas**|tijera|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí|
 |**mal**|propiedad|ara:fas:urd: مَال‎ (māl), hin:माल (māl), tur:mal, swa:mali, may:milik|
@@ -862,7 +866,7 @@
 |**moto**|motor|eng:spa:por:tur:may:motor, fra;moteur, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr), swa:mota|
 |**mudan**|peonía|zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:mẫu đơn|
 |**muka**|cara (rosto)|ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|
-|**mul**|raíz|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
+|**mula**|raíz|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
 |**multi**|muchos|por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|
 |**mum**|cera (lacre)|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
 |**mumu**|vaca (toro)|(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|
@@ -898,7 +902,7 @@
 |**nen**|año|jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|
 |**nenmesyom**|fecha|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |**nenufar**|nenúfar (lirio de agua)|eng:nenuphar, spa:por:nenúfar, fra:nénufar, rus:ненюфа́р (nenjufár), fas:نیلوفر آبی‎ (nilufar-e âbi)|
-|**nes**|isla|ell:νήσος (nēsos), may:nusa, mlg:nosy|
+|**nesia**|isla|ell:νήσος (nēsos), eng:spa:may:-nesia, por:-nésia, fra:-nésie, rus:-незия (-nezija), tur:-nezya, zho:-尼西亚 (níxīyà), jpn:ネシア (neshia) + may:nusa, mlg:nosy|
 |**nete**|red|eng:net, deu:Netz, jpn:ネット (netto)|
 |**neure**|nervio|eng:spa:por:fra:deu:neuro-, rus:невро- (nevro-)|
 |**nevi**|nuevo|eng:new,neo-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav)|
@@ -920,6 +924,7 @@
 |**numbe**|número|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**o**|o|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
 |**ofisia**|ministerio (departamento)|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|
+|**ohtopus**|pulpo|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|
 |**oke**|ojo|spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|
 |**okeyi**|bien (aceptable)|eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|
 |**okosui**|lágrima|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
@@ -981,7 +986,7 @@
 |**pese**|dinero (plata)|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|
 |**pesh**|pez (pescado)|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
 |**pete**|barriga (vientre, panza)|ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|
-|**petre**|roca (piedra)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
+|**petra**|roca (piedra)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
 |**piano***|piano|eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:piyano, ara:بيانو‎ (biyānō), hin:पियानो (piyāno), ben:পিয়ানো (piẏano), jpn:ピアノ (piano)|
 |**piaze**|cebolla|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
 |**pige**|trasero (nalgas)|tgl:pigi, zho:屁股 (pìgu), yue:屁股 (pei3 gu2)|
@@ -1097,8 +1102,8 @@
 |**sabi**|saber (conocer)|spa:por:saber, fra:savoir, eng:savvy, pcm:sabi|
 |**sabun**|jabón|ara:(ṣābūn), tur:sabun, swa:sabuni, hin:साबुन (sābun), por:sabão, spa:jabón, fra:savon|
 |**sadi**|sencillo (liso)|tur:sade, fas:(sāde), hin:सादा (sādā)|
-|**safar**|viaje|ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:safari|
-|**safi**|limpio|swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|
+|**safa**|limpio|ara:صفا (ṣafā), tur:saf, swa:safi, may:safa, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|
+|**safar**|viaje|ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:may:safari|
 |**safran**|azafrán|ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|
 |**sahi**|correcto (justo)|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |**sake**|saco|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
@@ -1318,85 +1323,83 @@
 |**vacin**|vacuna|eng:vaccine, spa:vacuna, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|
 |**vaf**|perro|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagina**|vagina|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
-|**val**|valor|eng:value, spa:por:valor, fra:valeur|
 |**vali**|valle|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
+|**valu**|valor|eng:value, spa:por:valor, fra:valeur|
 |**vampir**|vampiro|deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|
 |**van**|diversión|zho:玩 (wán), yue:玩 (waan4), cjy:玩 (van1), kor:완 (wan)|
 |**vanil**|vainilla|eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|
 |**var**|día de semana|hin:वार (vār), ben:বার (bar) + por:feira|
 |**varis**|patrimonio (herencia, legado)|may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|
-|**varke**|hoja|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
+|**varka**|hoja|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
 |**vase**|oasis|ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|
-|**vasha**|lavar|eng:wash, deu:waschen, zho:洗 (xǐ)|
-|**vashurse**|mapache|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
-|**vei**|cola (rabo)|zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|
-|**venda**|vender|eng:vend, spa:por:vender, fra:vendre|
+|**vashi urse**|mapache|zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|
+|**vashi**|lavar|eng:wash, deu:waschen, zho:洗 (xǐ)|
+|**vende**|vender|eng:vend, spa:por:vender, fra:vendre|
 |**ventur**|aventura|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
-|**veri**|verdadero|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
+|**ver**|verdadero|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
 |**verme**|verme|eng:worm, por:verme, fra:ver, deu:Wurm|
+|**verse**|afrontar|eng:versus, fra:verse, spa:por:versar|
 |**version**|versión (modelo)|eng:fra:version, por:versão, rus:версия (versiya), may:versi|
-|**versu**|afrontar|eng:versus, fra:verse, spa:por:versar|
-|**vespe**|abeja o avispa|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |**veste**|oeste|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
-|**vezia**|peso (gravedad)|ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|
-|**vida**|ver (mirar)|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|
+|**veze**|peso (gravedad)|ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|
+|**vice**|vice- (alternativa, sustituto)|eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|
+|**vide**|ver (mirar)|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|
 |**vidou**|viudo|eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|
 |**vijin**|GMS|zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|
-|**vildi**|salvaje|deu:eng:ned:wild, sve:vild|
+|**vilde**|salvaje|deu:eng:ned:wild, sve:vild|
 |**vin**|vino|fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain), swa:mvinyo|
 |**ving**|ala|eng:wing, deu:Schwinge|
 |**vinil**|vinilo|eng:vinyl, spa:vinilo, por:vinil, fra:vinyle, rus:винил (vinil), jpn:ビニル (viniru)|
 |**virje**|virgen|eng:virgin, fra:vierge, spa:virgen, por:virgem|
+|**virus logi**|virología|pol:wirusologia, rus:вирусология (virusologiya)|
 |**virus**|virus|eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|
-|**viruslogi**|virología|pol:wirusologia, rus:вирусология (virusologiya)|
-|**visi**|vice-|eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|
-|**vite**|tornillo|fra:vis, ita:vite, rus:винт (vint), tur:vida|
-|**viyoleti**|morado (púrpura)|eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)|
-|**vize**|visado|tur:vize, eng:visa, rus:виза (viza), hin:वीज़ा (vīzā)|
+|**vita**|tornillo|fra:vis, ita:vite, rus:винт (vint), tur:vida|
+|**viyolete**|violeta|eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)|
+|**viza**|visado|eng:spa:fra:may:visa, rus:виза (viza), tur:vize, swa:viza, ara:فِيزَا‎ (fīzā), fas:ویزا‎ (vizâ), hin:वीज़ा (vīzā), ben:ভিসা (bhiśa), jpn:ビザ (biza), kor:비자 (bija)|
 |**vode**|promesa (voto)|fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|
 |**vodun**|vudú|ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|
+|**vol**|querer (desear)|fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|
 |**volfe**|lobo|deu:ned:eng:wolf, rus:волк (volk)|
-|**volu**|querer (desear)|fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|
 |**vote**|voto|eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|
-|**vulve**|vulva|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
-|**vute**|objeto (artículo)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|
+|**vulva**|vulva|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
+|**vutu**|objeto (artículo)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|
 |**ya**|sufijo para regiónes y sustantivos abstractos|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
 |**ya**|él o ella|may:ia + hin:यह (yah) + swa:yeye, zul:yena, lin:ye, ktu:ya, ibo:ya + rus:е- (ye-) + zho:伊 (yī), vie:y|
-|**yago**|aproximadamente|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
+|**yagu**|aproximadamente|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |**yake**|yac|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
-|**yama**|comer (bebir)|khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
+|**yam**|comer (bebir)|khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
 |**yang**|variedad (tipo, estilo)|zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|
 |**yasen**|fresno|rus:ясень (yasen’), pol:jesion|
 |**yatim**|huérfano|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
-|**yau**|necesidad|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
+|**yau**|necesitar|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
 |**ye**|sí|eng:yeah, kor:예 (ye), may:ya|
 |**yei**|yupi|eng:yay, pol:jej, jpn:イエイ (iei)|
-|**yeze**|coco|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
-|**yo**|algún|hin:कोई (koī), urd:(koī), rus:кое- (koye-)|
+|**yezi**|coco|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
+|**yo**|algún|zho:有 (yǒu), yue:有 (jau5)|
 |**yoga**|yoga|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|
-|**yoke**|yugo|eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách|
-|**yongu**|derretirse|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|
-|**yote**|gota|tha:หยด (yòt), vie:giọt, + eng:iota, rus:йота (yota)|
+|**yogo**|yugo|eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách|
+|**yong**|derretirse|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|
 |**yumor**|humor (gracia)|rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
+|**zai**|existir (actualmente)|zho:在 (zài), jpn:在 (zai), vie:tại|
 |**zaitun**|aceituna|ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|
 |**zalim**|mezquino (antipático, cruel)|ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|
-|**zam**|tiempo|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
+|**zaman**|tiempo|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
 |**zar**|riesgo (posibilidad)|ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|
-|**zayi**|actual|zho:在 (zài), jpn:在 (zai), vie:tại|
-|**zebre**|cebra|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|
+|**zebra**|cebra|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|
 |**zeyil**|verruga|fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|
 |**zi**|carácter|zho:字 (zì), jpn:字 (ji), kor:자 (ja)|
 |**zigzage**|zigzag|eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|
-|**zikure**|zigurat|ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|
-|**zine**|adulterio|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
-|**zinje**|gengibre|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|
-|**zipe**|cremallera|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
-|**zire**|comino|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|
-|**ziza**|chisporrotear|zho:zizi eng:sizzle|
+|**zikura**|zigurat|ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|
+|**zina**|adulterio|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
+|**zinji**|gengibre|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|
+|**zipa**|cremallera|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
+|**zira**|comino|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|
+|**zizi**|chisporrotear|zho:zizi eng:sizzle|
+|**zoku**|todavía (aún)|wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|
 |**zombi**|zombi|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
-|**zona**|cinturón (zona)|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
+|**zona**|cinturón (zona)|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |**zong**|poste (estaca, palo)|zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|
 |**zou**|animal (bestia)|eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|
 |**zukam**|resfriado (catarro)|ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|
-|**zuke**|etnia|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
+|**zuku**|etnia|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |**zumarda**|esmeralda|eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|
