@@ -463,7 +463,7 @@ bufon|||spa:bufón, eng:buffoon, fra:bouffon|fool (buffoon)||bufón|||||||||||||
 buge|||eng:bugle, ara:(būq), fas:(buq), kat:ბუკი (buḳi)|bugle (horn instrument)||clarín (corneta)||||||||||||||torvi (torvisoitin)|róg
 bui|bio||swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu|baobab||baobab|||||||||||||baobabo|apinanleipäpuu (baobab)|baobab
 bujete|||eng:fra:budget, deu:Budget, rus:бюджет (b’udzhet), tur:bütçe, hin:बजट (bajaṭ), ben:বাজেট (bajeṭ), may:bajet, jpn:バジェット (bajetto)|budget||presupuesto|||||||||||||buĝeto|budjetti|budżet
-buke|||eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|book|livre|libro|livro|книга||书|本 (書物)|||पुस्तक (किताब)||buku (pustaka, kitab)|kitabu|kitap|libro|kirja|książka
+buku|||eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|book|livre|libro|livro|книга||书|本 (書物)|||पुस्तक (किताब)||buku (pustaka, kitab)|kitabu|kitap|libro|kirja|książka
 bula||||boil (cook)||hervir (cocer)|||||||||||||boligi|keittää (kiehuttaa)|zapomnieć, zapominać
 bulbul|bio|Luscinia megarhynchos|may:bulbul, tur:bülbül, hin:बुलबुल (bulbul), urd:(bulbul), fas:(bolbol)|nightingale||ruiseñor|||||||||||||najtingalo|satakieli|słowik
 bulu|||eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|boil (be boiled)||hervirse (ser cocida)|||||||||||||boli|kiehua|ugotować się, gotować się
@@ -698,8 +698,8 @@ dobe|||ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:a
 Doiche|desha|DE||Germany||Alemania||||||||||||||Saksa|Niemcy
 doichi||||German||alemán||||||||||||||saksalainen|niemiecki
 dokum|||eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|document (record, file)|document (dossier)|documento (archivo, nota)|documento|документ||文件|書類 (文書, ドキュメント)|서류 (문서)|tài liệu (văn kiện)|दस्तावेज़||surat (dokumen)|waraka|belge (doküman)|dokumento|asiakirja (dokumentti, tiedosto)|dokument
+dokum sanduku||||folder (directory)||carpeta||||||||||||||kansio (hakemisto)|folder (teczka)
 dokumfilme||||documentary film|documentaire|documental|documentário|документальный фильм||纪录片|ドキュメンタリー|다큐멘터리|phim tài liệu|||film dokumenter||belgesel|dokumentfilmo|dokumenttielokuva|
-dokumsanduke||||folder (directory)||carpeta||||||||||||||kansio (hakemisto)|folder (teczka)
 dolar||||dollar||dolar|||||||||||||dolaro|dollari|dolar
 dolfin|bio||ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|dolphin|dauphin|delfín|golfinho (delfim)|дельфин||海豚|イルカ (ドルフィン)||||||pomboo|yunus (delfin)|delfeno|delfiini|delfin
 dom|||rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|home (residence)|maison|casa (hogar, residencia)||||房子|家||||||||hejmo (loĝejo)|asunto (koti)|dom, mieszkanie
@@ -1181,11 +1181,11 @@ geyoparlin||||equator||ecuador||||||||||||||päiväntasaaja|równik
 Geyoparlini Ginia|desha|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
 gi|||zho:機 (jī), wuu:機 (ji1), yue:機 (gei1), jpn:機 (ki), kor:기 (gi), tha:กี่ (gìi) + jpn:器 (ki)|machine (device, aparatus)||máquina (dispositivo, aparato)|||||装置 (機, 器)||||||||maŝino|kone|maszyna
 giau||||teach (educate, instruct, doctrine, -ism)|enseigner|enseñar (instruir, doctrina, -ismo)|ensinar (lecionar)|учить (преподавать)|دَرَّسَ|教学|教える (教義, 主義, -教)|||सिखाना (पढ़ाना)|শেখান|mengajar|kufundisha|öğretmek (ders vermek)|instrui (lernigi, ismo)|opetta (aate, ismi, ideologia, uskonto, jne)|przyrostek dla ideologii
-giauja||||teacher (instructor)||docente (enseñante, profesor, maestro)|||||教員||||||||||
+giau ja||||teacher (instructor)||docente (enseñante, profesor, maestro)|||||教員||||||||||
 gida|||eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu), swa:gaidi + ara:قَادَ‎ (qāda)|guide (lead, show the way)|guider|guiar|guiar|||导游|||||||kiongozi (gaidi)||gvidi|opastaa (ohjata)|prowadzić (wskazać drogę)
-gider||||guide|guide|guía|guia|гид||导游|案内人 (ガイド)|안내인 (가이드)||||pemandu|kiongozi|rehber||opas (tiennäyttäjä)|przewodnik
-gidobuke||||guide book|guide touristique|guía de viaje||путеводитель||指南|ガイドブック|가이드북||||buku panduan||||matkaopas (opaskirja)|przewodnik
-giga*|numbe||eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|billion (giga-)||giga-|||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
+gida buku||||guide book|guide touristique|guía de viaje||путеводитель||指南|ガイドブック|가이드북||||buku panduan||||matkaopas (opaskirja)|przewodnik
+gida ja||||guide|guide|guía|guia|гид||导游|案内人 (ガイド)|안내인 (가이드)||||pemandu|kiongozi|rehber||opas (tiennäyttäjä)|przewodnik
+giga|numbe||eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|billion (giga-)||giga-|||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
 ging cirke||||meridian (line of longitude)||meridiano (línea de longitud)||||||||||||||pituuspiiri|długość geograficzna
 ging darje||||longitude||longitud||||||||||||||pituusaste|długość geograficzna
 gingi|||zho:經 (jīng), yue:經 (ging1), jpn:經 (kei), kor:경 (gyeong), vie:kinh|longitudinal (vertical)||||||||||||||||pitkittäinen|
@@ -1213,7 +1213,7 @@ goro nama||||pork||carne de cerdo|||||||||||||porkaĵo|sianliha|wieprzowina
 goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton|coton|algodón|algodão|хлопок||棉||||कपास|||||kotono|puuvilla|bawełna
 grafi|||eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)|drawing (graph, image)||imagen (gráfico, dibujo)|||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
 grafi||||draw||dibujar (trazar)|||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
-grafi buke||||picture book||libro de cuentos ilustrado||||||||||||||kuvakirja|książka z obrazkami
+grafi buku||||picture book||libro de cuentos ilustrado||||||||||||||kuvakirja|książka z obrazkami
 grafi ja||||illustrator (graphic artist)||ilustrador||||||||||||||graafikko|ilustrator, grafik
 grafi kata||||comic (cartoon)|bande dessinée|historieta (caricaturas)|quadrinhos (banda desenhada)|комикс||漫画|漫画||||||||bildrakonto|sarjakuva|komiks; kreskówka
 grafi li||||graphic (pictorial)||gráfico (pictórico, ilustrado)|||||||||||||grafika (bilda)|graafinen|obrazowy, graficzny; opisowy
@@ -1307,6 +1307,7 @@ hapu||||fit (suit, be suitable)|convenir (être approprié)||||||||||||||taŭgi|
 har|||hin:हर (har), tur:her, fas: هر (har)|every (all)||todo|||||全ての||||||||ĉiu|kaikki|wszyscy, wszystkie, wszystko; każdy
 har jan||||everybody (everyone)||todas las personas||||||||||||||jokainen ihminen|każdy człowiek, wszyscy
 har she||||everything||todas las cosas||||||||||||||jokainen asia|wszystko
+har un||||every (each)||cada||||每|毎||||||||ĉiuj|joka (jokainen)|każdy, wszyscy
 harabu||||ruin (destroy, devastate, demolish)||arruinar (destruir, devastar, asolar)|||||||||||kuharibu|||pilata (raunioittaa)|rujnować, dewastwować, burzyć
 harabu|||ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu|bad (ruined, destroyed)||arruinado (devastado, asolado)|||||||||||||ruinigita|pilalla (raunioina)|zły, zrujnowany, zepsuty
 harabu||||crash (shut down, terminate)||bloquearse (colgarse, fallar)||||||||||||||pilaantua (raunioitua)|
@@ -1386,9 +1387,9 @@ hobi|||eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|hobby||pasatiempo (hobb
 hobi ja||||hobbyist||||||||||||||||harrastaja|
 hoga||||burn (cause to burn)|brûler|quemar|queimar|жечь (палить)|أَحْرَقَ|燃烧|燃やす|태우다||जलाना|||kuchoma|yakmak||polttaa|spalić, palić
 hoge|||spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|fire (burning)|feu|fuego|fogo|огонь|نَار|火|火|불|lửa|आग (अग्नि)|আগুন (অগ্নি)|api|moto|ateş|fajro|tuli|ogień
+hoge sanduku||||lantern||farol (linterna)|||||||||||||lanterno|lyhty|latarnia
 hogi||||fiery||ardiente (encendido)|||||||||||||fajra|tulinen|ognisty
 hogopujia||||pyrolatry|||||||||||||||||kult ognia
-hogosanduke||||lantern||farol (linterna)|||||||||||||lanterno|lyhty|latarnia
 hogoshan||||volcano|volcan|volcán|vulcão|вулкан||火山|火山||||||||||wulkan
 hogoshani kanche||||volcanic glass||vidrio volcánico|||||||||||||||szkło wulkaniczne
 hogosheke||||flint|silex|pedernal (sílex)|pederneira|кремень||燧石|火打ち石 (フリント)|||चक़मक़||||||piikivi|krzemień
@@ -1675,12 +1676,12 @@ kang|||hin:कंघी (kaṅghī), urd:(kaṅghī), mar:कंगवा (kaṅ
 kangaru*|bio||eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|kangaroo|kangourou|canguro|canguru|кенгуру||袋鼠|カンガルー|캥거루|canguru (chuột túi)|कंगारू|ক্যাংগারু|kanggaru|kangaruu|kanguru|kangaro|kenguru|kangur
 kanjar|||fas:(xanjar), tur:haner, rus:кинжал (kinžal)|dagger||puñal (daga)||кинжал|||||||||||ponardo|tikari|sztylet (puginał)
 kankuate|bio|Citrus japonica|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|kumquat|kumquat|kumquat (quinoto)|quincã (cunquate)|кумкват (кинкан)||金柑|キンカン (キンキツ)|||||kumkuat||kumkat||kumkvatti|kumkwat
-kano*|||eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
 kanon|||eng:fra:spa:canon, por:canone|classic (canon)|classique (canon)|||||经典|||kinh|||||||klassikko|
 kanon di||||classic (authoritative, definitive)|||||||||kinh điển|||||||klassinen (kanooninen)|
 Kantalupo va Sabina||||Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Канталупо-ин-Сабина|||||||||||||Cantalupo in Sabina
 kantalupomelon|bio|Cucumis melo var. cantalupo|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|cantaloupe||melón cantalupo|meloa (cantalupo)|канталупа||鈔皮瓜|カンタロープ||||||||||kantalupa
 kante|||hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|shoulder||hombro|||||||||||||ŝultro|olkapää (hartia)|bark (ramię)
+kanu|||eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
 kanun|||ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|law||regla (ley)|||||||||||||lego|laki|prawo
 kanyon|||eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon|canyon (ravine, gorge, gully)|canyon (ravin)|cañón (barranco, quebrada)|canhão (ravina, barranco)|овраг (ущелье, каньон)||峡谷 (深谷)|峡谷||||||||||kanion
 kape|||tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|catch (capture, seize, snatch, intercept)||capturar (apresar)|||||||||||||kapti|ottaa kiinni (napata, kaapata)|złapać, łapać, schwytać, chwytać
@@ -2046,13 +2047,14 @@ lider|||eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:�
 lidolin||||leash (rein)||correa (rein)|||||リード (手綱)||||||||||smycz (cugiel, lejc, wodza)
 Lietuva|desha|LT||Lithuania||Lituania||||||||||||||Liettua|Litwa
 lietuva bash||||Lithuanian||lituano||||||||||||||liettualainen|litewski
-lifaf|||ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|wrapping (envelope, covering)||envoltura||||||||||||||kääre (kuori)|owinięcie (koperta, okładka)
+lifafa|||ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|wrapping (envelope, covering)||envoltura||||||||||||||kääre (kuori)|owinięcie (koperta, okładka)
 lifafa||||wrap|envelopper (emballer)|envolver|embalar|||||||||||||kääriä (panna kääröön)|zawijać (zawinąć)
 liga||||associate||asociar|||||||||||||aligi|liittää|stowarzyszać się (zrzeszać się)
-lige|||fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|league (association)||liga (asociación, federación)||||||||||||||liitto (liittouma, liiga)|liga (stowarzyszenie)
+liga|||fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|league (alliance)|ligue (alliance)|liga (alianza, federación)|liga (aliança)|лига (союз)||||||||||||liitto (liittouma, liiga)|liga (stowarzyszenie)
+liga di sanduku||||Ark of the Covenant|Arche d'Alliance|arca de la Alianza|Arca da Aliança|ковчег завета|تَابُوت اَلْعَهْد‎|约柜|契約の箱|법궤||||Tabut Perjanjian|||Kesto de Interligo|liitonarkki|
 Lihtenstain|desha|LI||Liechtenstein||Liechtenstein||||||||||||||Liechtenstein|Liechtenstein
-lilake|bio|Syringa vulgaris|tur:leylak, ara:(laylak), eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku)|lilac||lila||||||||||||||syreeni|lilak
-lilaki|rang|||lilac color||lila (de color lila)||||||||||||||violetti (liila)|liliowy
+lila|bio|Syringa vulgaris|eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku), tur:leylak, ara:(laylak)|lilac|lilas|lila||||||||||||||syreeni|lilak
+lila rang|rang|||lilac color||lila (de color lila)||||||||||||||violetti (liila)|liliowy
 lilbol||||bubble||burbuja (pompa)|||||||||||||bobelo|kupla|bańka
 lili|||eng:little|little (small; a little, somewhat)|petit|pequeño|pequeno|маленький (малый)||小|小さい|작은|nhỏ|छोटा||||küçük|malgranda|pieni (pienesti, vähän)|mały; mało, trochę, nieco
 lilkaboge|bio|Cucurbita pepo||zucchini|courgette|calabacín|abobrinha|цукини||西葫芦|ズッキーニ||||||||||cukinia
@@ -2085,7 +2087,7 @@ loga||||say (speak, talk)|parler|decir (hablar)|falar|говорить|تَكَ�
 logaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
 loge|||eng:log + zho:录 (lù), yue:錄 (luk6), jpn:録 (roku), kor:록 (rok), vie:lục|register (record, log)|enregistrement|registro (archivo, anotación)|registro|запись||纪录|記録|기록|||||||registraĵo|tallenne (rekisteri, loki)|rejestr
 loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|speech (talk, words)|parole (mots)|habla (palabras)|fala (palavras)|речь||语言|演説|말|ngôn từ|बात (बोल)|জবান|||söz|parolo|puhe (sanat)|słowo (mowa)
-loge buke||||logbook|livre de bord|libro de registro|diário de bordo|судовой журнал||航海日志|日誌|||||||||lokikirja|dziennik pokładowy (notatnik)
+loge buku||||logbook|livre de bord|libro de registro|diário de bordo|судовой журнал||航海日志|日誌|||||||||lokikirja|dziennik pokładowy (notatnik)
 logem||||word (lexeme)|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
 logi||||spoken (lexical)|lexical|léxico|léxico|лексический|||||||||||vorta|sanallinen (puhuttu)|słowny (leksykalny)
 logi|||eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji|study (research, science, -ology)||ciencia (estudiar, investigar, -ología)|||||研究 (科学, 学)||||||||scienco|tiede (tutkimus, opiskella)|nauka, badanie, studiowanie
@@ -2267,17 +2269,16 @@ medita|||eng:meditate, spa:meditar, fra:méditer, rus:медитировать (
 medofas||||interface|||||||||||||||||interfejs
 medu||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
 medu|||rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:madu + por:mel, fra:spa:miel + yue:蜜 (mat6)|honey|miel|miel|mel|мёд||蜜|蜂蜜|꿀 (밀)|mật ong|मधु (शहद)|মধু|madu (air lebah)|uki|bal|mielo|hunaja|miód
-medu vespe|bio|Apis||honeybee||abeja||||||||||||||mehiläinen|pszczoła miodna
-medu vespe nide||||beehive (honeycomb)|rayon de miel|colmena (panal)||улей (соты)|||蜂の巣 (ハニカム)|||||sarang lebah|sega|||mehiläispesä|plaster
-medu vespe sanduke||||beehive (beehouse)||||||蜂箱|養蜂箱||||||||||ul
+medu fong|bio|Apis||honeybee||abeja||||蜜蜂|蜜蜂|벌 (밀봉)|ong|मधुमक्खी|মৌমাছি|lebah (tawon)|nyuki|arı|abelo|mehiläinen|pszczoła miodna
+medu fong nide||||beehive (honeycomb)|rayon de miel|colmena (panal)||улей (соты)|||蜂の巣 (ハニカム)|||||sarang lebah|sega|||mehiläispesä|plaster
+medu fong sanduku||||beehive (beehouse)||||||蜂箱|養蜂箱||||||||||ul
 mega|numbe||eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)|million (mega-)||millón (mega-)||||百万 (兆)|１００万 (メガ)||||||||miliono|miljoona (mega-)|milion
-megagram|unomete|t, Mg||tonne (metric ton)||tonelada||||||||||||||tonni (1000 kg)|tona
-megavate|unomete|MW||megawat (MW)||megavatio||||||||||||||megawatti (MW)|megawat
-mege|||hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek)|cloud|nuage|nube|nuvem|облако|سَحَابَة|云|雲|구름|mây|मेघ (बादल)|মেঘ|awan (mega)|wingu|bulut|nubo|pilvi|chmura
+mega gram|unomete|t, Mg||tonne (metric ton)||tonelada||||||||||||||tonni (1000 kg)|tona
+mega vate|unomete|MW||megawat (MW)||megavatio||||||||||||||megawatti (MW)|megawat
+megi|||hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek) + ara: غَيْمَة‎ (ḡayma) + vie:mây|cloud|nuage|nube|nuvem|облако|سَحَابَة|云|雲|구름|mây|मेघ (बादल)|মেঘ|awan (mega)|wingu|bulut|nubo|pilvi|chmura
 Mehiko|desha|MX||Mexico||México|||||||||||||Meksikio|Meksiko|Meksyk
-mei|||zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|every (each)||cada||||每|毎||||||||ĉiu(j)|joka (jokainen)|każdy, wszyscy
 melodi||||melodious (melodic)||melodioso||||||||||||||melodinen (sointuisa)|melodyczny
-melodia|||eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|melody||melodía|||||||||||||melodio|melodia (sävelmä)|melodia
+melodi|||eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|melody||melodía|||||||||||||melodio|melodia (sävelmä)|melodia
 melon|bio|Cucumis melo|eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)|muskmelon||melón|melão|дыня||厚皮甜瓜 (蜜瓜)|マスクメロン||||||||||ogórek melon
 mem|||eng:memory, fra:mémoire, spa:memoria, por:memória|memory (recollection)|mémoire|memoria|memória|память|ذَاكِرَة|记忆 (记性)|記憶|기억|trí nhớ (ký ức)|याद|স্মৃতি|ingatan|kumbukumbu|hafıza|memoro|muisti|pamięć
 mema||||remember (recall)|se rappeler (se remémorer)|acordarse|lembrar-se (recordar-se)|помнить|تَذَكَّرَ|记得 (回忆)|思い出す|기억하다|nhớ|याद करना|মনে রাখা|ingat||hatırlamak|memori|muistaa|pamiętać
@@ -2609,7 +2610,7 @@ nostalgia||27 emotions|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:
 nota||||note (observe, notice)||notar (observar)|||||||||||||rimarki|huomata (hoksata)|notować, obserwować, zauważyć, zauważać
 notana||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiadamiać
 note|||deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|note (observation, remark, comment)|note|nota|nota|запись (заметка)||便条||||||||not|noto (rimarko, komento)|huomio (kommentti, merkintä)|uwaga, obserwacja
-note buke||||notebook||cuaderno (libreta)|||||||||||||kajero|muistikirja|notatnik
+note buku||||notebook||cuaderno (libreta)|||||||||||||kajero|muistikirja|notatnik
 notite||||notice (notification)||aviso (notificación)||||||||||||||huomautus|wiadomość, zawiadomienie, powiadomienie
 nudi|||eng:nude, spa:desnudo, por:fra:nu|naked (bare, nude)||desnudo||||||||||||||alaston (paljas, naku)|nagi, goły, obnażony
 nudiste||||nudist||nudista||||||||||||||nudisti|nudysta
@@ -3191,19 +3192,20 @@ samsifi||||similar (analogous)||similar|||||同じよう (近い)|||||||||samanl
 samsifia||||model (similarity, simulation)|simulation|modelo (similitud, simulación)|simulação|симуляция||模型|模型 (類似, シミュレーション)||||||||||model (podobieństwo, symulować)
 samu||||resemble (be like)||parecerse a|||||||||||||||być podobnym, być jak
 sanduiche|||eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|sandwich|sandwich|sándwich (sánduche)|sanduíche|сандвич|سَانْدَوِيتْش|三明治 (三文治)|サンドイッチ|||सैंडविच||roti lapis (sandwic).||||voileipä|kanapka
-sanduke|||swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|box (chest)||caja (baúl, cofre, estuche)||сундук|||||||||sanduku|sandık|skatolo (kesto)|laatikko|pudło, skrzynia
+sanduku|||swa:lin:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq), hau:sàndūƙī̀, orm:saanduqa|box (chest)||caja (baúl, cofre, estuche)||сундук|||||||||sanduku|sandık|skatolo (kesto)|laatikko|pudło, skrzynia
 sang|||fra:sang, spa:sangre, por:sangue|blood|sang|sangre|sangue|кровь||血|血|피|máu|ख़ून (रक्त)|রক্ত|darah|damu|kan|sango|veri|krew
 sangon||||triangle||triángulo||||||||||||||kolmio|trójkąt
-santi|||por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|holy (sacred)||sagrado (santo)|||||||||||||sankta|pyhä|święty
-Santi Helena|desha|SH||Saint Helena||Isla Santa Elena||||||||||||||Saint Helena|Święta Helena
-Santi Kitse|desha|||Saint Kitts||San Cristóbal||||||||||||||Saint Kitts|Saint Kitts
-Santi Kitse e Nevis|desha|KN||Saint Kitts and Nevis||San Cristóbal y Nieves||||||||||||||Saint Kitts ja Nevis|Saint Kitts i Nevis
-Santi Lusia|desha|LC||Saint Lucia||Santa Lucía||||||||||||||Saint Lucia|Saint Lucia
-Santi Marino|desha|SM||San Marino||San Marino||||||||||||||San Marino|San Marino
-Santi Paulo||||Sao Paulo|||São Paulo||||||||||||||São Paulo
-Santi Tome e Prinsipe|desha|ST||Sao Tome and Principe||Santo Tomé y Príncipe||||||||||||||Sao Tome ja Principe|Wyspy Świętego Tomasza i Książęca
-Santi Vinsente||||Saint Vincent||Isla de San Vicente|||||||||||||||Saint Vincent
-Santi Vinsente e Grenadine|desha|VC||Saint Vincent and Grenadines||San Vicente y las Granadinas|||||||||||||||Saint Vincent and Grenadines
+sante|||por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|holy (sacred)||sagrado (santo)|||||||||||||sankta|pyhä|święty
+Sante Helena|desha|SH||Saint Helena||Isla Santa Elena||||||||||||||Saint Helena|Święta Helena
+sante kanon||||holy writ (sacred writings)|saintes écritures |sagrada escritura|sagrada escritura|священное писание||圣经|聖書|성경 (성서)||||||||pyhä kirja (pyhät kirjoitukset)|
+Sante Kitse|desha|||Saint Kitts||San Cristóbal||||||||||||||Saint Kitts|Saint Kitts
+Sante Kitse e Nevis|desha|KN||Saint Kitts and Nevis||San Cristóbal y Nieves||||||||||||||Saint Kitts ja Nevis|Saint Kitts i Nevis
+Sante Lusia|desha|LC||Saint Lucia||Santa Lucía||||||||||||||Saint Lucia|Saint Lucia
+Sante Marino|desha|SM||San Marino||San Marino||||||||||||||San Marino|San Marino
+Sante Paulo||||Sao Paulo|||São Paulo||||||||||||||São Paulo
+Sante Tome e Prinsipe|desha|ST||Sao Tome and Principe||Santo Tomé y Príncipe||||||||||||||Sao Tome ja Principe|Wyspy Świętego Tomasza i Książęca
+Sante Vinsente||||Saint Vincent||Isla de San Vicente|||||||||||||||Saint Vincent
+Sante Vinsente e Grenadine|desha|VC||Saint Vincent and Grenadines||San Vicente y las Granadinas|||||||||||||||Saint Vincent and Grenadines
 sanzong||||trident||tridente||трезубец||三叉戟|三つまた (トライデント)||||||||||trójząb
 sapate|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|chaussure||zapato||туфля|حِذَاء|鞋|鞋|||जूता||sepatu|kiatu (sapatu)||ŝuo|kenkä|but
 sapater||||shoemaker||zapatero|||||||||||||ŝuisto|suutari|szewc
@@ -3638,10 +3640,10 @@ tipe|||eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taip
 tira|||spa:por:tirar, fra:tirer, eng:tear, tur:tire|pull (draw, drag)||tirar|||||||||||||tiri|vetää (kiskoa)|ciągnąć
 tira milke||||milk (draw milk)|tirer|ordeñar||тянуть||拉|||||||||melki|lypsää maitoa|wydoić, doić
 tira pil||||strip (peel)|écorce|quitar (pelar)||ободрать||削 (刮去)|はがす (剥ぐ)||||||||||obrać (obierać)
+tira sanduku||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuflada
 tirbaton||||lever||palanca||рычаг||杆|レバー (てこ)||||||||||dźwignia
 tirlonga||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
 tiroriu||||rip current||corriente de resaca||отбойное течение|||離岸流||||||||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
-tirsanduke||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuflada
 tisa|numbe|9|ara: تِسْعَة‎ (tisʿa), swa:tisa|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||नौ|নয়|||||yhdeksän|dziewięć (9)
 Titan|planete 6 lun 6|||Titan|||||||||||||||||
 Titania|planete 7 lun 4|||Titania|||||||||||||||||
