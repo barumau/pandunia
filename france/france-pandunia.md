@@ -7,6 +7,7 @@ abeille ou guêpe - fong
 Abkhazie - Apsni  
 aborigènes australiens - aslaustrali  
 abricot - briko  
+Abyssinie - Habasha  
 acacia faux-gommier - helisbabul  
 acarien - akare  
 accent - acente  
@@ -15,10 +16,9 @@ accomplir (terminer) - purfina
 accord - samrayia  
 accès - acesa  
 acheter - shopa  
-acte - ate  
+acte (action) - karma  
 actif - ativi  
 actinium - acinium  
-action - ation  
 activer (allumer, mettre en marche, déclencher) - ativa  
 actuel (courant) - zai zaman di  
 adapter (ajuster) - hapa  
@@ -30,7 +30,7 @@ adulte - matur
 adversaire (antagoniste, ennemi) -   
 Afghanistan - Afgan  
 Afrique - Afrika  
-agent (faiseur) - ateja  
+agent (faiseur) - karma ja  
 agent pathogène - patojener  
 agile - agile  
 agresseur - agreser  
@@ -105,9 +105,11 @@ arachnophobie - aranofobia
 araignée - arane  
 arboretum, pépinière - mokojongoparke  
 arbre - moke  
-arc - arke  
+arc - arka  
 arc-en-ciel - rangarke  
-archer - arker  
+Arche d'Alliance - liga di sanduku  
+arche de Noé - Noe di nave  
+archer - arka ja  
 architecte - binplaner  
 architecture - binplania  
 arctique - Artike  
@@ -141,10 +143,10 @@ astate - astatium
 asthme - asme  
 astre (corps céleste) - astre  
 astrobiologie - kosmobiyolojia  
-astronaute - astronaver  
-astronef - astronau  
-astronome - astronomer  
-astronomie - astronomia  
+astronaute - astro nave ja  
+astronef - atro nave  
+astronome - astro nomi ja  
+astronomie - astro nomi  
 Athènes - Atina  
 athée - andeviste  
 atome - atom  
@@ -171,7 +173,7 @@ aérobique - airbivi
 aéroport - airporte  
 aïe! - au  
 ####B - B  
-babord - naulefte  
+babord - nave lefte  
 backgammon - narde  
 bagage - bagaje  
 bah - bah  
@@ -206,7 +208,7 @@ baseball - bazobol
 basique - kali  
 basketball - baske bol  
 bassin - basen  
-bateau - nau  
+bateau - nave  
 beau - sundar  
 beau-père - gampai  
 beauté - sundaria  
@@ -285,7 +287,7 @@ canapé (sofa) - kanape
 canapé (sofa) - sofa*  
 Canne à sucre - sukarchau  
 canon - daipau  
-canoë - kano*  
+canoë - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanyon  
 capacité (pouvoir, habileté) - bilta  
@@ -296,7 +298,7 @@ Caraïbes - Karaibia
 cardon - kardonkarchof  
 carotte - karote  
 carreau (tuile) - tail  
-carrière - peikari jiu  
+carrière - pei gung jiu  
 carte - karde  
 carte - metregraf  
 carte à collectionner - jamkarde  
@@ -393,15 +395,15 @@ corail - koral
 corne - korne  
 corps - bode  
 correct (juste) - sahi  
-cosmique - kosmi  
-cosmonaute - kosmonaver  
-cosmos - kosmia  
+cosmique - kosmo di  
+cosmonaute - kosmo nave ja  
+cosmos - kosmo  
 coton - goton  
 couch (couchette) - kushloke  
 coucher - kusha  
 couguar (puma) - puma  
 couleur - rang  
-coupe (tasse, verre) - kupe  
+coupe (tasse, verre) - kupa  
 coureur - korer  
 courgette - lilkaboge  
 courir - kora  
@@ -569,7 +571,7 @@ finir - fin
 fiord - fiorde  
 fleur - hua  
 flèche - fleche  
-foin - ganchau  
+foin - gan cau  
 fois - mar  
 fondu - yong safa  
 football - fute bol  
@@ -625,8 +627,8 @@ grimace - grimas
 groupe - grupe  
 grâce à - danko da  
 grès - regopetre  
-guide - gider  
-guide touristique - gidobuke  
+guide - gida ja  
+guide touristique - gida buku  
 guider - gida  
 guitare - gitar  
 gâteau de lune - lunokeke  
@@ -654,6 +656,7 @@ heure - hor
 heureux - suki  
 hier - chendeno  
 Hindustan - Hindu desh  
+hippopotame  - gubu  
 hiver - leng mosim  
 hivernal (hibernal) - lengomosimi  
 hockey - hoke  
@@ -741,9 +744,9 @@ laisser - lasha
 lait - milke  
 lait de soja - soi milke  
 laitue - letis  
-lama (enseignant religieux du bouddhisme tibétain) - lama*  
+lama (enseignant religieux du bouddhisme tibétain) - lama  
 lama - liame  
-lampe - lampe  
+lampe - lampa  
 Lance-roquettes - roketolancher  
 langue - basha  
 langue - lisan  
@@ -769,13 +772,15 @@ lieu de naissance - jenistan
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amirlin  
 ligne téléphonique - telfonlin  
+ligue (alliance) - liga  
+lilas - lila  
 lime (citron vert) - kagujolimon  
 lire - duga  
 liste - liste  
 litre - litre  
 littérature - kitabu shutu  
-livre - buke  
-livre de bord - loge buke  
+livre - buku  
+livre de bord - loge buku  
 local - loki  
 loin - longo  
 long - longi  
@@ -804,9 +809,9 @@ maillon (chaînon) - sil
 main - hande  
 mais (bien que) - ama  
 maison - dom  
-malédiccion - lane  
+malédiccion - lana  
 manche - kamisa shake  
-mandarine - laloranje  
+mandarine - lal oranje  
 mandarine satsuma - venjou oranje  
 manichéisme - manihayistia  
 mantra - mantre  
@@ -914,7 +919,8 @@ nouveau - nevi
 nouveau-né - neujeni  
 nouveauté - nevia  
 nouvelle (récit court) - korte kata  
-nuage - mege  
+Noé - Noe  
+nuage - megi  
 nylon - nilon  
 nécessaire - yau di  
 néologisme - neuloge  
@@ -933,12 +939,12 @@ Océan Antarctique - Antartiki Hai
 océan Arctique - Artiki Hai  
 océan Atlantique - Atlanti Hai  
 océan Indien - Barte Hai  
-odeur - arome  
+odeur - aroma  
 oeuf - ande  
-oie - ganse  
+oie - gansa  
 oignon - piaze  
 oiseau - pakse  
-ombrelle (parasol) - solchate  
+ombrelle (parasol) - sol chati  
 on - men  
 oncille - bagroselote  
 onde - onde  
@@ -953,7 +959,7 @@ ordinaire (habituel, normal) - adi
 ordinateur - komputer  
 ordinateur tablette - tablokomputer  
 ordre - ratibe  
-ordures - laje  
+ordures - laji  
 oreille - ore  
 organiser - noma  
 organisme - bio vute  
@@ -994,7 +1000,7 @@ papillon - pelpel
 paquet - pake  
 par exemple - misalo  
 paramètre - param  
-parapluie - shava chate  
+parapluie - shava chati  
 parc - parke  
 pardonner - mafa  
 Paris - Paris  
@@ -1098,13 +1104,13 @@ preuve - dalil
 problème - problem  
 problématique - problemi  
 professeur (enseignant) - shula guru  
-profession (métier) - peikar  
+profession (métier) - pei gung  
 profond - fasteli  
 programme - program  
-projectile - lanchite  
-projection - lanchograf  
+projectile - lance she  
+projection - lance grafi  
 projet - projete  
-projeter (donner) - lanchografa  
+projeter (donner) - lance grafi  
 prolongé - longoduri  
 promettre - fa vode  
 propice - bonsinyi  
@@ -1144,7 +1150,7 @@ rare - nadiri
 rare - rari  
 rarement - nadiro  
 raton laveur - vashi urse  
-rayon de miel - medu vespe nide  
+rayon de miel - medu fong nide  
 recycler - resikle  
 rein - nefre  
 religion - din  
@@ -1173,9 +1179,9 @@ Rome - Roma
 rose - roze  
 rosée - rose  
 roue - chakra  
-rouge - lali  
+rouge - lal  
 ruban (bande) - tepe  
-rubis - lalbausheke  
+rubis - lal bau sheke  
 ruche (nid d'abeille) - fong nide  
 ruse - truke  
 réparateur - shulija  
@@ -1192,6 +1198,7 @@ s'opposer à - shata
 sac - sake  
 sagesse - sofita  
 sain - sali  
+saintes écritures  - sante kanon  
 saison - mosim  
 salle de bains - banya kamar  
 salle de classe - shula kamar  
@@ -1210,9 +1217,9 @@ saucisse - sosis
 saumon altentique - atlantosalmon  
 saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
 saumon rose - rozosalmon  
-saumon sockeye - lalsalmon  
+saumon sockeye - lal salmon  
 sauvage - ekojeni  
-savane - garmozoni chavistan  
+savane - garma zona cau istan  
 savoir (connaître) - sabi  
 Scandinavie - Eskandia  
 schtroumpf - blu elfe  
@@ -1231,14 +1238,15 @@ sein - mam
 sel - salte  
 semence - seme  
 sens - sense  
-sentir qqch (avoir l'odeur de qqch) - aromu  
+sentir qqch (avoir l'odeur de qqch) - aroma  
 sentir qqch - aroma  
 sept (7) - sete  
 serrure - sor  
-serviette - gantesh  
+serviette - gan texe  
 seul (unique) - uniki  
 sexe - jinse  
 sexologie - sekselogi  
+Shiva - Shiva  
 shopping - shope  
 si - ga  
 signer - namkitaba  
@@ -1269,7 +1277,7 @@ sueur - suede
 suffixe - posfikse  
 Suisse - Suice  
 suivre - posa  
-sujet (thème) - tem  
+sujet (thème) - tema  
 surestimer - mashraya  
 svastika (croix gammée) - huke krus  
 symétrie - sammetre  
@@ -1307,11 +1315,12 @@ théière - chai pote
 théosophie - deu sofi  
 tige - tan  
 tigre - bagre  
-tire à l'arc - arkeria  
+tire à l'arc - arka shutu  
 tirer - tira milke  
-tissu - tesh  
-titre - temnam  
+tissu - texe  
+titre - tema nam  
 toile d'araignée - aranonete  
+toit - chati  
 tomate - tomate  
 tombe (enterrer) - gabur  
 topinambour - masmulsolful  
@@ -1325,14 +1334,14 @@ toxine - bio tokse
 trace - marke  
 tracteur - trater  
 traduction - tarje  
-travail - kar  
+travail - gung  
 travailler - kara  
 travailleur (ouvrier) - karer  
 traîner - trata  
 tremper (faire mariner) - purshipa  
-tribord - nauraite  
+tribord - nave raite  
 trois (3) - tri  
-tropique - garmozon  
+tropique - garma zona  
 truite - salmon  
 truite arc-en-ciel - rangarke salmon  
 truite brune (truite de mer) - brun salmon  
@@ -1344,7 +1353,7 @@ télescope (lunette) - teleskope
 télécharger - netogeta  
 téléphone - telefon  
 téléphoner - telfona  
-téléviseur - telvide  
+téléviseur - tele vide gi  
 tête - sar  
 ####U - U  
 un (1) - un  
@@ -1355,7 +1364,7 @@ uranium - uranium
 Uranus - Uran  
 vagine - vagina  
 vaginite - vagina flame  
-vaisseau spatial - kosmonau  
+vaisseau spatial - kosmo nave  
 valeur - valu  
 vallée (oued) - vali  
 vampire - vampir  
@@ -1367,7 +1376,7 @@ vendredi - var penta
 Venezuela - Venezuela  
 venir - lai  
 ver - verme  
-verbe - karloge  
+verbe - karma loga  
 vermouth - vermute  
 verre - kanche  
 verre coloré - rang kanche  
@@ -1391,6 +1400,7 @@ violet (pourpre) - viyolete blu
 virus - virus  
 visage - muka  
 viser - dika  
+Vishnou - Vishnu  
 vite (rapide) - rapidi  
 vivant - jivi  
 vivre (habiter) - doma  
@@ -1404,6 +1414,7 @@ voler - feyu
 votre - tumen di  
 vouloir - vol  
 voyelle - jungofon  
+voûte - arka chati  
 vrai - ver  
 vulve - vulva  
 végétarien - fito yam jui ja  
@@ -1473,7 +1484,7 @@ zèbre - zebra
 étudiant - shuler  
 étudier - estuda  
 étymologie - logaslia  
-été - garmomosim  
+été - garma mosim  
 évaluer - fa valu  
 évangile - evanjil  
 éveillé - jagi  

@@ -87,6 +87,7 @@ argente - arĝento
 Argentina - Argentino  
 argon - argono  
 aria - ejo  
+arka chati - volbo  
 arme - armilo  
 arsene - arseno  
 artiste - artisto  
@@ -101,11 +102,9 @@ asli - origina
 asme - astmo  
 aspirin - aspirino  
 astre - astro  
-astronaver - astronaŭto  
-astronomer - astronomo  
-ate - ago  
+astro nave ja - astronaŭto  
+astro nomi ja - astronomo  
 Atina - Ateno  
-ation - agado  
 ativi - agema  
 atom - atomo  
 au - aj (alas)  
@@ -234,6 +233,7 @@ borium - borio
 boron - boro  
 botel - botelo  
 Botia - Tibeto  
+Brahma - Bramo  
 bravo - brava  
 bravo - brave!  
 Brazil - Brazilo  
@@ -254,7 +254,7 @@ budi - konscia
 bufon - pajaco  
 bui - baobabo  
 bujete - buĝeto  
-buke - libro  
+buku - libro  
 bula - boligi  
 bulbul - najtingalo  
 bulu - boli  
@@ -285,7 +285,7 @@ chante - kanto
 chante grupe - ĥoro  
 chapa - presi  
 chape - presaĵo  
-chate - tekto  
+chati - tekto  
 chatre - kvar (4)  
 cheka - kontroli  
 chen zaman - pasinteco  
@@ -505,7 +505,6 @@ fashistia - faŝismo
 fasili - facila  
 fasinia - fascinado  
 fate - faro (fakto)  
-fatokan - fabriko  
 febre - febro  
 fei - flugo  
 fem - ino  
@@ -604,27 +603,26 @@ gamel - kamelo
 gamia - geedzeco  
 gammai - bopatrino  
 gampai - bopatro  
+gan texe - viŝilo  
 Ganga - Gangoj  
 gani - seka  
-ganje - kanabo  
+ganja - kanabo  
 ganputau - sekvinbero  
-ganse - ansero  
-gantesh - viŝilo  
+gansa - ansero  
 ganum - tritiko  
 ganya - akiri (gajni)  
-gar - aŭto (ĉaro)  
 garante - garantio  
 garda - gardi  
 garder - gardisto  
-garmi - varma  
-garmomosim - somero  
+garma - varma  
+garma mosim - somero  
 gas - gaso  
 gati - malmola  
 gatomate - solido  
 gavi - alta  
 gaze - gazo  
 gazel - gazelo  
-gazete - gazeto (revuo)  
+gazeta - gazeto (revuo)  
 gei - samseksema  
 gem - ludo  
 gema - ludi  
@@ -659,11 +657,13 @@ grupe - grupo
 gua - kaverno  
 guanshe - rilato  
 Guatemala - Gvatemalo  
-gubu* - hipopotamo  
+gubu - hipopotamo  
 gui - ogro (trolo)  
 gula - gluti  
 guma - tamburo  
 gun - armeo  
+gung - laboro  
+gung kan - fabriko (laborejo)  
 gunjan - soldato  
 gunrajer - ĉefgeneralo  
 guru - guruo (instruisto)  
@@ -675,7 +675,7 @@ Guyana - Gujano
 ####H - H  
 ha - havi (teni)  
 habar - novaĵoj  
-habargazete - gazeto  
+habar gazeta - gazeto  
 hafnium - hafnio  
 haha - ridi  
 hai - maro  
@@ -702,6 +702,7 @@ hapa - taŭgigi
 hapi - taŭga  
 hapu - taŭgi  
 har - ĉiu  
+har un - ĉiuj  
 harabu - ruinigita  
 harabu mahala - kvartalaĉo  
 harfi - litero  
@@ -750,8 +751,8 @@ historia - historio (studo de historio)
 hiyar - kukumo  
 hobi - hobio  
 hoge - fajro  
+hoge sanduku - lanterno  
 hogi - fajra  
-hogosanduke - lanterno  
 hoke - hokeo  
 holmium - holmio  
 hor - horo  
@@ -879,11 +880,11 @@ kanche - vitro
 kandi - bombono  
 kangaru* - kangaro  
 kanjar - ponardo  
-kano* - kanuo (kanoto)  
 kante - ŝultro  
+kanu - kanuo (kanoto)  
 kanun - lego  
 kape - kapti  
-kar - laboro  
+kar - aŭto (ĉaro)  
 Karaibia - Karibio  
 karate* - karateo  
 karau - karvio  
@@ -892,8 +893,8 @@ karbodulokside - karbona dioksido
 karde - karto  
 karer - laboristo  
 karibi - proksima  
-karkan - laborejo  
-karloge - verbo  
+karma - ago  
+karma loga - verbo  
 karote - karoto  
 karvan - karavano  
 kastan - kaŝtano  
@@ -985,7 +986,7 @@ koronvirus - krunviruso
 korte - mallonga  
 korte fa - mallongigi  
 korte kata - novelo  
-kosmonaver - kosmonaŭto  
+kosmo nave ja - kosmonaŭto  
 koso - tuso  
 kote - palto  
 krabe - krabo  
@@ -1005,7 +1006,7 @@ kube - kubo
 kuga - plori  
 kuli - bonega (mojosa)  
 kultur - kulturo  
-kupe - taso  
+kupa - taso  
 kupre - kupro  
 kurium - kuriumo  
 kurse - seĝo  
@@ -1014,12 +1015,12 @@ kushu - kuŝi
 ####L - L  
 labe - lipo  
 lai - veni  
-laje - rubo  
-lalbausheke - rubeno  
-lali - ruĝa  
-laloranje - mandarino  
-lampe - lampo  
-lancha - ĵeti (lanĉi)  
+laji - rubo  
+lal - ruĝa  
+lal bau sheke - rubeno  
+lal oranje - mandarino  
+lampa - lampo  
+lance - ĵeti (lanĉi)  
 lasun - ajlo  
 late - flanko (latero)  
 lati - flanka (latera)  
@@ -1035,6 +1036,7 @@ letis - laktuko
 leze - piro  
 libele - libelo  
 liga - aligi  
+liga di sanduku - Kesto de Interligo  
 lilbol - bobelo  
 lili - malgranda  
 lilsheke - ŝtoneto  
@@ -1127,11 +1129,11 @@ medika - sanigi (kuraci)
 mediker - kuracisto  
 medu - inter  
 medu - mielo  
+medu fong - abelo  
 mega - miliono  
-mege - nubo  
+megi - nubo  
 Mehiko - Meksikio  
-mei - ĉiu(j)  
-melodia - melodio  
+melodi - melodio  
 mem - memoro  
 mema - memori  
 member - membro  
@@ -1230,11 +1232,11 @@ namloge - substantivo
 nanas - ananaso  
 nasmedi - internacia  
 natre - natrio  
-nau - boato (ŝipo)  
-naulefte - babordo  
-nauraite - tribordo  
 nava - boatumi  
 navati - naūatla  
+nave - boato (ŝipo)  
+nave lefte - babordo  
+nave raite - tribordo  
 nefre - reno  
 nen - jaro  
 nenmesyom - dato  
@@ -1267,13 +1269,15 @@ no - ne
 nobelium - nobelio  
 noche - nokto  
 node - nodo  
+Noe - Noa  
+Noe di nave - Arkeo de Noa  
 norde - nordo  
 Norge - Norvegio  
 norgi - norvega  
 nostalgia - nostalgio (saudado)  
 nota - rimarki  
 note - noto (rimarko, komento)  
-note buke - kajero  
+note buku - kajero  
 numbe - nombro  
 nuton - newtono (N)  
 ####O - O  
@@ -1340,7 +1344,7 @@ patomis - infekto
 pau - fusilo  
 pedal - pedalo  
 pede - furzo  
-peikar - metiero  
+pei gung - metiero  
 pelpel - papilio  
 penis - peniso  
 penta - kvin (5)  
@@ -1473,6 +1477,7 @@ rutin - rutino (kutimo)
 ####S - S  
 sabe - kialo  
 sabi - scii (koni)  
+sabi she - scio  
 sabilogi - sciteorio (epistemologio)  
 sabo da - ĉar  
 sabun - sapo  
@@ -1507,9 +1512,9 @@ sammetre - simetrio
 samraya - samopinii (interkonsenti)  
 samrayia - interkonsento  
 samseksi - samseksema  
-sanduke - skatolo (kesto)  
+sanduku - skatolo (kesto)  
 sang - sango  
-santi - sankta  
+sante - sankta  
 sapate - ŝuo  
 sapater - ŝuisto  
 sapatokan - ŝuistejo  
@@ -1551,7 +1556,7 @@ shatan - diablo (Satano)
 shatranje - ŝako  
 shau - malmulte  
 shava - pluvo  
-shava chate - obrelo  
+shava chati - obrelo  
 shefe - estro (ĉefulo)  
 shefe minister - ĉefministro  
 sheihal - situacio (aferstato)  
@@ -1565,6 +1570,7 @@ shir - poemo
 shirope - siropo  
 shish nama - ŝaŝliko  
 shite - merdo  
+Shiva - Ŝivo  
 shofa - konduki  
 shofer - ŝoforo (kondukisto)  
 shopa - aĉeti  
@@ -1611,7 +1617,7 @@ soi - sojo
 soi milke - sojlakto  
 soi sos - sojsaŭco  
 sol - suno  
-solchate - sunombrelo  
+sol chati - sunombrelo  
 solsistem - sunsistemo  
 som - dormo  
 somivi - dormema  
@@ -1677,12 +1683,12 @@ tehnelogi - teknologio
 teknium - teknecio  
 tele - malproksimeco  
 tele - malproksima  
+tele vide gi - televidilo  
 telefon - telefono  
 teleskope - teleskopo  
 telfona - telefoni  
 telurium - teluro  
-telvide - televidilo  
-tem - temo  
+tema - temo  
 tema - esti pri; pridiskuti  
 ten - ĉielo  
 tenesium - teneso  
@@ -1784,6 +1790,7 @@ vin - vino
 vin suan - vinagro  
 virje - virgulo  
 virje di - virga  
+Vishnu - Viŝnuo  
 vol - voli  
 vol she - volo  
 volfe - lupo  
@@ -1857,5 +1864,4 @@ zuku di - etna
 zuku medi di - interetna  
 Zulu - zuluo  
 zumarda - smeraldo  
- - scio  
  - pluva  

@@ -3,7 +3,9 @@
 abater - bucha  
 abelha ou vespa - fong  
 abeto - abies  
+Abissínia - Habasha  
 abobrinha - lilkaboge  
+abóbada - arka chati  
 abóbora (jerimun) - kaboga  
 acanto-bastardo - pinkardon  
 acento - acente  
@@ -21,7 +23,7 @@ aeroporto - airporte
 aeróbico - airbivi  
 Afeganistão - Afgan  
 agacharse - insida  
-agente - ateja  
+agente - karma ja  
 agressor - agreser  
 agrobiologia - agrobiologi  
 agronomia - agronomia  
@@ -67,7 +69,9 @@ ar - air
 arame - metallin  
 aranha - arane  
 arbusto (mata) - tali moke  
-arco - arke  
+Arca da Aliança - liga di sanduku  
+arca de Noé - Noe di nave  
+arco - arka  
 argila - glutofan  
 argumento - argum  
 arma - arme  
@@ -88,14 +92,14 @@ assustador - fobani
 assustar - foba  
 astro (corpo celeste) - astre  
 astrobiologia - kosmobiyolojia  
-astronauta - astronaver  
-astronave - astronau  
-astronomia - astronomia  
-astrónomo - astronomer  
+astronauta - astro nave ja  
+astronave - atro nave  
+astronomia - astro nomi  
+astrónomo - astro nomi ja  
 ataque - agres  
 Atenas - Atina  
 ativo - ativi  
-ato - ate  
+ato (ação) - karma  
 até - hata  
 Austronésia - Austronesia  
 aveia - aven  
@@ -106,7 +110,6 @@ avô - chin pa
 azur (blau) - lazuri  
 azur - blu  
 açougueiro (talhante) - bucher  
-ação - ation  
 açúcar - sukar  
 ####B - B  
 bacalhau-do-atlântico - atlantokade  
@@ -121,7 +124,7 @@ banco de dados - datobanke
 bando - banda  
 banqueiro - banker  
 barba - barde  
-barco (navio) - nau  
+barco (navio) - nave  
 barra de chocolate - choklatobaton  
 barrar - bara  
 barreira - bara  
@@ -147,7 +150,7 @@ bolo lunar - lunokeke
 bom - bon  
 bomba - bomba  
 bombom (doce) - kandi  
-bombordo - naulefte  
+bombordo - nave lefte  
 borboleta - pelpel  
 bota - bute  
 botânica - fito logi  
@@ -184,7 +187,7 @@ cana-de-açúcar - sukarchau
 canguru - kangaru*  
 canhão (ravina, barranco) - kanyon  
 canhǎo - daipau  
-canoa - kano*  
+canoa - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 capa - mantol  
 capa de chuva - shava kote  
@@ -199,7 +202,7 @@ carimbo - postomarke
 carne - nama  
 carrapato (ácaros) - akare  
 carregar -   
-carreira - peikari jiu  
+carreira - pei gung jiu  
 carta - karde  
 carta geográfica - metregraf  
 cartografia - metregrafia  
@@ -231,8 +234,8 @@ chave - chabe
 chavena (tigela de chá) - chai kupe  
 chefe - shefe  
 cheio - puri  
-cheirar - aromu  
-cheiro - arome  
+cheirar - aroma  
+cheiro - aroma  
 China - Junguo  
 chocolate - choklate  
 chuva - shava  
@@ -275,7 +278,7 @@ conta - hisabu loge
 conto - korte kata  
 conto de fadas - peri kata  
 contêiner - inan  
-copo (taça) - kupe  
+copo (taça) - kupa  
 cor - rang  
 coral - koral  
 corno - korne  
@@ -285,8 +288,8 @@ corredor - korer
 corrente (atual) - zai zaman di  
 correr - kora  
 correto (justo) - sahi  
-cosmo - kosmia  
-cosmonauta - kosmonaver  
+cosmo - kosmo  
+cosmonauta - kosmo nave ja  
 costa - haitate  
 costume (hábito) - ada  
 crente - din ja  
@@ -309,7 +312,7 @@ cápsico - chili
 cão (cachorro) - vaf  
 céu - ten  
 cópia - kope  
-cósmico - kosmi  
+cósmico - kosmo di  
 ####D - D  
 dado - zar kube  
 dados - date  
@@ -342,7 +345,7 @@ direitos humanos - insani hake
 diretor - shula shefe  
 disco - diske  
 discordar - aloraya  
-diário de bordo - loge buke  
+diário de bordo - loge buku  
 dióxido de carbono - karbodulokside  
 documento - dokum  
 documentário - dokumfilme  
@@ -450,12 +453,12 @@ fator - cana ja
 favela - harabu mahala  
 favoritismo - mashfilistia  
 favorito (preferido) - mashfili  
-fazenda (tecido) - tesh  
+fazenda (tecido) - texe  
 fazer - fa  
 fechadura - sor  
 feio - dusvidi  
 feliz - suki  
-feno - ganchau  
+feno - gan cau  
 fermentar - biyomutu  
 fibra - linem  
 filho ou filha - ben  
@@ -488,7 +491,7 @@ galope - galope
 galáxia - galaksia  
 gamão - narde  
 gancho - huke  
-ganso - ganse  
+ganso - gansa  
 garrafa (botelha) - botel  
 gato - mau  
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
@@ -512,9 +515,9 @@ granito - granite
 graças a - danko da  
 grupo - grupe  
 grávida (prenhe) - hamili  
-guarda-chuva - shava chate  
+guarda-chuva - shava chati  
 guaxinim (rato-lavadeiro) - vashi urse  
-guia - gider  
+guia - gida ja  
 guiar - gida  
 guitarra - gitar  
 Gália - Galia  
@@ -526,6 +529,7 @@ habilidade (capacidade) - bilta
 haste (talo, caule) - tan  
 Hesse (Héssia) - Hesia  
 higiene - salsafia  
+hipopótamo - gubu  
 hmm - hem  
 honesto (sincero) - amen  
 honra - onor  
@@ -604,7 +608,7 @@ ladrilho (telha, azulejo) - tail
 ladrão - luter  
 lago - lage  
 lama (lodo) - fan  
-lama - lama*  
+lama - lama  
 lançador de foguetes - roketolancher  
 laranja - oranje  
 lasanha - lazanya  
@@ -618,6 +622,7 @@ ler - duga
 Letónia - Latvia  
 lhama - liame  
 libélula - libele  
+liga (aliança) - liga  
 lima - kagujolimon  
 limão - limon  
 lince - linche  
@@ -626,7 +631,7 @@ lista - liste
 literatura - kitabu shutu  
 litro - litre  
 livre (forro) - huri  
-livro - buke  
+livro - buku  
 lição - shula  
 local - loki  
 longo - longi  
@@ -642,7 +647,7 @@ luz - foto
 lápide - gabur sheke  
 lápis - kalam  
 lápis-lazúli - lazurpetre  
-lâmpada (luminária) - lampe  
+lâmpada (luminária) - lampa  
 léxico - logi  
 líder (chefe) - lider  
 língua (idioma) - basha  
@@ -656,7 +661,7 @@ madrasta - vice ma
 magnésio - magesium  
 mahjong - majang  
 mais - mash (masho)  
-maldição - lane  
+maldição - lana  
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
 mancha (marca) - marke  
@@ -689,7 +694,7 @@ mel - medu
 melancia - arbuze  
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
-melão coreano - aromomelon  
+melão coreano - aroma melon  
 memória - mem  
 meninge - meninge  
 menosprezar (subestimar) - minraya  
@@ -749,7 +754,7 @@ música - muzike
 ####N - N  
 nadar (flutuar) - boyu  
 nautiloide - nautile  
-nave espacial - kosmonau  
+nave espacial - kosmo nave  
 nação - nasia  
 necessidade - yauta  
 necessário - yau di  
@@ -772,7 +777,8 @@ nove (9) - tisa
 novidade - neu  
 novidade - nevia  
 novo - nevi  
-nuvem - mege  
+Noé - Noe  
+nuvem - megi  
 náusea - retroguli sense  
 não - no  
 nós - mimen  
@@ -913,12 +919,12 @@ preto - siyahi
 primo - chin brus ben  
 problema - problem  
 professor (docente) - shula guru  
-profissão - peikar  
+profissão - pei gung  
 profundo - fasteli  
 programa - program  
 projeto - projete  
-projeção - lanchograf  
-projétil - lanchite  
+projeção - lance grafi  
+projétil - lance she  
 prolongado - longoduri  
 promessa (voto) - vode  
 prova - dalil  
@@ -967,7 +973,7 @@ raça - ras
 raíz - mula  
 reciclar - resikle  
 recém-nascido - neujeni  
-refugo (escória) - laje  
+refugo (escória) - laji  
 regime - politomode  
 registro - loge  
 rei - man raja  
@@ -999,7 +1005,7 @@ Roma - Roma
 romance - long kata  
 rosa - roze  
 roupa (vestidura) - fuke  
-rubi - lalbausheke  
+rubi - lal bau sheke  
 rápido - rapidi  
 rã - krokroke  
 ####S - S  
@@ -1007,13 +1013,14 @@ sabedoria (sagacidade, sapiência) - sofita
 saber (conhecer) - sabi  
 sacada (varanda) - berande  
 saco - sake  
+sagrada escritura - sante kanon  
 sair - eshtru  
 sal - salte  
 sala (câmara) - kamar  
 salino - salti  
 salmão-cão (salmão-keta) - bakosalmon  
 salmão-rosa - rozosalmon  
-salmão-vermelho - lalsalmon  
+salmão-vermelho - lal salmon  
 salsicha - sosis  
 samambaia - parne  
 samba-canção - bokserpante  
@@ -1059,7 +1066,7 @@ soja - soi
 sol - sol  
 soldado - gunjan  
 som - son  
-sombrinha - solchate  
+sombrinha - sol chati  
 sono - som  
 sonolento - somivi  
 sorvete (gelado) - aiskrem  
@@ -1070,25 +1077,26 @@ superestimar (sobrestimar) - mashraya
 suástica (cruz gamada) - huke krus  
 Suíça - Suice  
 sábado - var luku  
-São Paulo - Santi Paulo  
+São Paulo - Sante Paulo  
 série (sequência) - silia  
 só (solitário) - unjani  
 ####T - T  
 tablet - tablokomputer  
-tangerina (mandarim) - laloranje  
+tangerina (mandarim) - lal oranje  
 taxímetro - taksometrer  
-tear - teshmashin  
+tear - texe mashin  
 tectónica de placas - plati geyokaskia  
 telefonar - telfona  
 telefonia - telfonia  
 telescópio - teleskope  
+telhado - chati  
 temer - fobu  
 tempero - masale  
 templo - puja kan  
 tempo - zaman  
 tendência - klin  
 tenso - tensi  
-tentar (provar) - testa  
+tentar (provar) - teste  
 tentáculo - senter  
 teosofia - deu sofi  
 ter (achar, receber) - geta  
@@ -1102,7 +1110,7 @@ terça-feira - var du
 teste - teste  
 tigre - bagre  
 tijolo - dobe  
-toalha - gantesh  
+toalha - gan texe  
 toalha de mesa - mezotesh  
 tomate - tomate  
 topografia - topograf  
@@ -1114,7 +1122,7 @@ toxicologia - toksilogi
 toxina - bio tokse  
 trabalhador - karer  
 trabalhar - kara  
-trabalho - kar  
+trabalho - gung  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - shanti  
 transcorrer - duru  
@@ -1125,14 +1133,14 @@ truque (fraude) - truke
 truta-arco-íris - rangarke salmon  
 truta-marrom - brun salmon  
 três (3) - tri  
-trópicos - garmozon  
+trópicos - garma zona  
 tu - tu  
 tubarão - sharke  
 tubérculo - masmul  
 turbante - pagre  
 tábua (prancha) - mokoban  
 técnica - tehne  
-título - temnam  
+título - tema nam  
 ####U - U  
 uau - va  
 um (1) - un  
@@ -1160,16 +1168,16 @@ vegetariano - fito yam jui ja
 velho (antigo) - cheniki  
 vender - vende  
 ver - vide  
-verbo - karloge  
+verbo - karma loga  
 verdadeiro - ver  
 verde - lugi  
 verdura (hortaliça, legume) - yam fito  
 verdura - choi  
 verme - verme  
-vermelho - lali  
+vermelho - lal  
 vermute - vermute  
 verruga - zeyil  
-verão - garmomosim  
+verão - garma mosim  
 vestir - fuka  
 vez - mar  
 vice-rei - vice raja  
@@ -1178,6 +1186,7 @@ vidro - kanche
 vir - lai  
 virgem - virje  
 vivo - jivi  
+Vixnu - Vishnu  
 viúvo - vidou  
 voar - feyu  
 vocabulário - logia  
@@ -1194,6 +1203,7 @@ vários - balibali
 Vénus - Venus  
 véu - hijabu  
 ####X - X  
+Xiva - Shiva  
 ####Y - Y  
 ####Z - Z  
 zebra - zebra  

@@ -60,11 +60,12 @@ arane - aranha
 arbuze - melancia  
 argente - prata  
 argum - argumento  
-arke - arco  
+arka - arco  
+arka chati - abóbada  
 arme - arma  
-arome - cheiro  
-aromomelon - melão coreano  
-aromu - cheirar  
+aroma - cheiro  
+aroma - cheirar  
+aroma melon - melão coreano  
 artiste - artista  
 asar - efeito  
 asara - efetuar  
@@ -74,16 +75,13 @@ asli - original
 asme - asma  
 aspirin - aspirina  
 astre - astro (corpo celeste)  
-astronau - astronave  
-astronaver - astronauta  
-astronomer - astrónomo  
-astronomia - astronomia  
-ate - ato  
-ateja - agente  
+astro nave ja - astronauta  
+astro nomi - astronomia  
+astro nomi ja - astrónomo  
 Atina - Atenas  
-ation - ação  
 ativi - ativo  
 atlantokade - bacalhau-do-atlântico  
+atro nave - astronave  
 au - ai!  
 aure - ouro  
 Austronesia - Austronésia  
@@ -171,7 +169,7 @@ bucha - abater
 bucher - açougueiro (talhante)  
 buchokan - matadouro  
 Buda - Buda  
-buke - livro  
+buku - livro  
 bum - explosão  
 bute - bota  
 buton - botão  
@@ -188,6 +186,7 @@ chamache - colher
 chanse - chance  
 chante grupe - coro  
 charme - charme  
+chati - telhado  
 chatre - quatro (4)  
 chendeno - ontem  
 cheniki - velho (antigo)  
@@ -350,12 +349,12 @@ gam - esposo ou esposa
 gamben - enteado  
 gammai - sogra  
 gampai - sogro  
-ganchau - feno  
-ganse - ganso  
-gantesh - toalha  
+gan cau - feno  
+gan texe - toalha  
+gansa - ganso  
 ganum - trigo  
-garmomosim - verão  
-garmozon - trópicos  
+garma mosim - verão  
+garma zona - trópicos  
 gas - gás  
 gati - duro  
 Geo - Terra  
@@ -367,7 +366,7 @@ Germania - Germânia
 geta - ter (achar, receber)  
 giau - ensinar (lecionar)  
 gida - guiar  
-gider - guia  
+gida ja - guia  
 gitar - guitarra  
 giuke - jade  
 glisu - deslizar  
@@ -384,11 +383,14 @@ granite - granito
 grave - cascalho  
 grimas - careta (esgar)  
 grupe - grupo  
+gubu - hipopótamo  
 gun - exército  
+gung - trabalho  
 gunjan - soldado  
 gunrajer - generalíssimo  
 gute - joelho  
 ####H - H  
+Habasha - Abissínia  
 haha - rir  
 hai - mar  
 hai alga - macroalga  
@@ -523,12 +525,11 @@ kanche - vidro
 kandi - bombom (doce)  
 kangaru* - canguru  
 kankuate - quincã (cunquate)  
-kano* - canoa  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kantalupomelon - meloa (cantalupo)  
+kanu - canoa  
 kanyon - canhão (ravina, barranco)  
 kape truke - armadilha  
-kar - trabalho  
 kara - trabalhar  
 Karaibia - Caribe  
 karau - alcaravia (cariz)  
@@ -538,7 +539,9 @@ karde - carta
 kardon - cardo  
 karer - trabalhador  
 karimia - generosidade  
-karloge - verbo  
+karma - ato (ação)  
+karma ja - agente  
+karma loga - verbo  
 karote - cenoura  
 karsi - áspero  
 karsolimon - combava  
@@ -588,11 +591,11 @@ korne - corno
 kornomelon - pepino-africano (kiwano)  
 korte kata - conto  
 korte krokodil - aligátor (jacaré)  
-kosmi - cósmico  
-kosmia - cosmo  
+kosmo - cosmo  
+kosmo di - cósmico  
+kosmo nave - nave espacial  
+kosmo nave ja - cosmonauta  
 kosmobiyolojia - astrobiologia  
-kosmonau - nave espacial  
-kosmonaver - cosmonauta  
 krake - rachadura  
 krem - crème  
 krepe - crepe (panqueca)  
@@ -605,22 +608,22 @@ krus - cruz
 kuangia - mina  
 kuarze - quartzo  
 kube - cubo  
-kupe - copo (taça)  
+kupa - copo (taça)  
 kusha - deitar  
 kushu - estar deitado (jazer)  
 ####L - L  
 lage - lago  
 lai - vir  
-laje - refugo (escória)  
-lalbausheke - rubi  
-lali - vermelho  
-laloranje - tangerina (mandarim)  
-lalsalmon - salmão-vermelho  
-lama* - lama  
-lampe - lâmpada (luminária)  
-lanchite - projétil  
-lanchograf - projeção  
-lane - maldição  
+laji - refugo (escória)  
+lal - vermelho  
+lal bau sheke - rubi  
+lal oranje - tangerina (mandarim)  
+lal salmon - salmão-vermelho  
+lama - lama  
+lampa - lâmpada (luminária)  
+lana - maldição  
+lance grafi - projeção  
+lance she - projétil  
 lasha - deixar  
 lasun - alho  
 late - lado  
@@ -642,6 +645,8 @@ libele - libélula
 liboban - prateleira (estante)  
 lider - líder (chefe)  
 lifafa - embalar  
+liga - liga (aliança)  
+liga di sanduku - Arca da Aliança  
 lili - pequeno  
 lilkaboge - abobrinha  
 lilsheke - pedrinha  
@@ -658,7 +663,7 @@ loga - falar
 logaslia - etimologia  
 loge - registro  
 loge - fala (palavras)  
-loge buke - diário de bordo  
+loge buku - diário de bordo  
 logem - palavra (vocábulo)  
 logi - léxico  
 logia - vocabulário  
@@ -723,7 +728,7 @@ medenpapil - papoila
 medi - meio (metade)  
 medi - moyen  
 medu - mel  
-mege - nuvem  
+megi - nuvem  
 melon - melão  
 mem - memória  
 mema - lembrar-se (recordar-se)  
@@ -783,9 +788,9 @@ narde - gamão
 nasia - nação  
 nasibe - destino  
 nasmedi - internacional  
-nau - barco (navio)  
-naulefte - bombordo  
 nautile - nautiloide  
+nave - barco (navio)  
+nave lefte - bombordo  
 nefre - rim  
 nefte - aeite (óleo)  
 Neputun - Netuno  
@@ -803,6 +808,8 @@ Nipon - Japão
 nish - nicho  
 no - não  
 noche - noite  
+Noe - Noé  
+Noe di nave - arca de Noé  
 noma - organizar  
 norde - norte  
 nostalgia - nostalgia (saudade)  
@@ -865,8 +872,8 @@ pau - arma de fogo
 pauze - pausa  
 peda - peidar  
 pede - peido  
-peikar - profissão  
-peikari jiu - carreira  
+pei gung - profissão  
+pei gung jiu - carreira  
 pelpel - borboleta  
 penta - cinco (5)  
 pente - pintura  
@@ -978,7 +985,8 @@ samrayia - acordo
 samsifia - simulação  
 sanduiche - sanduíche  
 sang - sangue  
-Santi Paulo - São Paulo  
+sante kanon - sagrada escritura  
+Sante Paulo - São Paulo  
 sar - cabeça  
 sate - momento (instante)  
 sati - momentâneo  
@@ -1012,7 +1020,7 @@ shata - opor
 shatan - Satanás  
 shau - poucos  
 shava - chuva  
-shava chate - guarda-chuva  
+shava chati - guarda-chuva  
 shava kote - capa de chuva  
 shava mosim - monção  
 she - coisa  
@@ -1025,6 +1033,7 @@ shingofota - cintilar
 shipa - molhar  
 shipi - molhado  
 shite - merda  
+Shiva - Xiva  
 shofa - conduzir  
 shofer - condutor (chofer, motorista)  
 shopa - comprar  
@@ -1059,7 +1068,7 @@ soi milke - leite de soja
 soi sos - molho de soja  
 soka - buscar (procurar)  
 sol - sol  
-solchate - sombrinha  
+sol chati - sombrinha  
 solful - girassol  
 som - sono  
 somivi - sonolento  
@@ -1098,14 +1107,14 @@ tehne - técnica
 teleskope - telescópio  
 telfona - telefonar  
 telfonia - telefonia  
-temnam - título  
+tema nam - título  
 ten - céu  
 tensi - tenso  
 terchi - oblíquo (torto)  
-tesh - fazenda (tecido)  
-teshmashin - tear  
-testa - tentar (provar)  
+teste - tentar (provar)  
 teste - teste  
+texe - fazenda (tecido)  
+texe mashin - tear  
 tikete - bilhete  
 tirlonga - estirar  
 tisa - nove (9)  
@@ -1167,6 +1176,7 @@ vice raja - vice-rei
 vide - ver  
 vidou - viúvo  
 virje - virgem  
+Vishnu - Vixnu  
 viyolete blu - purpúreo (roxo)  
 vode - promessa (voto)  
 vol - querer (desejar)  

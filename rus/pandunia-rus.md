@@ -64,11 +64,12 @@ arane - паук
 arbuze - арбуз  
 area - площадь  
 argum - аргумент (обосновани)  
-arke - лук (арка)  
-arker - лучник  
+arka - лук (арка)  
+arka chati - свод  
+arka ja - лучник  
 aroma - понюхать  
-arome - запах (аромат)  
-aromu - пахнуть  
+aroma - запах (аромат)  
+aroma - пахнуть  
 artiste - художник (артист)  
 asan - поза  
 asar - эффект  
@@ -78,17 +79,14 @@ asle - начало (причина)
 asme - астма  
 aspirin - аспирин  
 astre - небесное тело  
-astronau - звездолёт  
-astronaver - астронавт  
-astronomer - астроном  
-astronomia - астрономия  
-ate - действие (акт)  
-ateja - деятель  
+astro nave ja - астронавт  
+astro nomi - астрономия  
+astro nomi ja - астроном  
 Atina - Афины  
-ation - действие (акция)  
 ativi - активный (деятельный)  
 atlantokade - Атлантическая треска  
 atlantosalmon - Атлантический лосось (сёмга)  
+atro nave - звездолёт  
 aure - золото (аурум)  
 Austronesia - Австронезия  
 autologe - монолог  
@@ -176,6 +174,7 @@ bon - хороший
 bonsinyi - благоприятный  
 botel - бутылка  
 boyu - плавать  
+Brahma - Брахма  
 brauze - исследовать  
 brauzer - исследователь (браузер)  
 bravo - браво  
@@ -187,7 +186,7 @@ bucher - мясник
 buchokan - бойня  
 Buda - Будда  
 bufete - буфет  
-buke - книга  
+buku - книга  
 bum - взрыв  
 bumu - взрываться  
 bute - ботинок  
@@ -205,6 +204,7 @@ chamache - ложка
 chanse - возможность (шанс)  
 chante grupe - хор  
 charme - шарм  
+chati - крыша (кров)  
 chatre - четыре (4)  
 chendeno - вчера  
 cheniki - старый (древний)  
@@ -335,7 +335,6 @@ fasteli - глубокий
 fastelia - мелкий  
 fatigia - усталость  
 fatigu - устать  
-fatokan - завод (фабрика)  
 faze - фаза  
 fei - полёт  
 feimush - летучая мышь  
@@ -378,16 +377,16 @@ gabur sheke - надгробие
 galaksia - галактика  
 Galia - Галлия  
 galope - кентер и галоп  
-ganchau - сено  
-ganse - гусь  
+gan cau - сено  
+gansa - гусь  
 ganum - пшеница  
-garmomosim - лето  
-garmozon - тропик  
+garma mosim - лето  
+garma zona - тропик  
 gas - газ  
 gati - твёрдый  
 gautehnia - высокие технологии  
 gazel - газель  
-gazete - газета  
+gazeta - газета  
 gemer - игрок (геймер)  
 Geo - Земля  
 geo grafi - география  
@@ -397,8 +396,8 @@ geo politika - геополитика
 geo termo - геотерма́льный  
 geta - получить  
 giau - учить (преподавать)  
-gider - гид  
-gidobuke - путеводитель  
+gida buku - путеводитель  
+gida ja - гид  
 gitar - гитара  
 giuke - нефрит (жад)  
 glisu - задвигаться (скользи́ть)  
@@ -416,17 +415,21 @@ grave - гравий
 grimas - гримаса  
 grom - гром  
 grupe - группа  
+gubu - гиппопотам  
 guipapil - мак восточный  
 guke - хризантема садовая  
 gul - гуль (вурдалак)  
 gula - глотать  
 gun - армия  
+gung - работа  
+gung kan - завод (фабрика)  
 gunjan - солдат  
 gunrajer - генералиссимус  
 gute - колено  
 ####H - H  
 ha - с (иметь)  
 habar - новости  
+Habasha - Абиссиния  
 haha - смеяться  
 hai - море  
 hai alga - морские водоросли  
@@ -568,12 +571,11 @@ kandi - конфета
 kangaru* - кенгуру  
 kanjar - кинжал  
 kankuate - кумкват (кинкан)  
-kano* - каноэ  
 Kantalupo va Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
+kanu - каноэ  
 kanyon - овраг (ущелье, каньон)  
 kape truke - ловушка  
-kar - работа  
 kara - работать  
 karbodulokside - двуокись углерода  
 karbosui - углевод  
@@ -582,7 +584,9 @@ karde - карта
 kardon - расторопша  
 kardonkarchof - артишок испанский (кардон)  
 karer - работник  
-karloge - глагол  
+karma - действие (акт, акция)  
+karma ja - деятель  
+karma loga - глагол  
 karote - морковь  
 karsi - грубой  
 karsolimon - лима (каффир-лайм)  
@@ -637,11 +641,11 @@ kornonos - носорог
 koron - корона  
 korte kata - новелла  
 korte krokodil - аллигатор  
-kosmi - космический  
-kosmia - космос  
+kosmo - космос  
+kosmo di - космический  
+kosmo nave - космический корабль  
+kosmo nave ja - космонавт  
 kosmobiyolojia - астробиология  
-kosmonau - космический корабль  
-kosmonaver - космонавт  
 krabe - краб  
 krake - щель (трещина)  
 kran - кран  
@@ -657,21 +661,21 @@ kuangia - мина
 kuarze - кварц  
 kube - куб  
 kukokamar - кухня  
-kupe - чаша (чашка, стакан)  
+kupa - чаша (чашка, стакан)  
 kusha - положить  (уложить)  
 kushu - лежать  
 ####L - L  
 lai - приходить  
-laje - мусор (дрянь)  
-lalbausheke - рубин  
-lali - красный  
-lalolinche - рыжая рысь  
-laloranje - мандарин  
-lalsalmon - нерка (красница)  
-lama* - лама (религиозный учитель в тибетском буддизме)  
-lampe - лампа  
-lanchite - снаряд  
-lane - проклятие  
+laji - мусор (дрянь)  
+lal - красный  
+lal bau sheke - рубин  
+lal linche - рыжая рысь  
+lal oranje - мандарин  
+lal salmon - нерка (красница)  
+lama - лама (религиозный учитель в тибетском буддизме)  
+lampa - лампа  
+lana - проклятие  
+lance she - снаряд  
 lasun - чеснок  
 late - сторона (бок)  
 lati - боковой (латеральный)  
@@ -690,6 +694,8 @@ liame - лама
 libele - стрекоза  
 liboban - полка  
 lider - руководитель (лидер)  
+liga - лига (союз)  
+liga di sanduku - ковчег завета  
 lili - маленький (малый)  
 lilkaboge - цукини  
 lilsheke - галька  
@@ -707,7 +713,7 @@ loga - говорить
 logaslia - этимология  
 loge - запись  
 loge - речь  
-loge buke - судовой журнал  
+loge buku - судовой журнал  
 logem - слово (речь)  
 logi - лексический  
 logia - словарь  
@@ -773,8 +779,8 @@ medika - лечить
 mediker - врач (медик, лекарь, доктор)  
 medikosui - зелье  
 medu - мёд  
-medu vespe nide - улей (соты)  
-mege - облако  
+medu fong nide - улей (соты)  
+megi - облако  
 melon - дыня  
 mem - память  
 mema - помнить  
@@ -841,10 +847,10 @@ nasibe - судьба
 nasmedi - междунаро́дный  
 natre - натрий  
 natre - натрит (натр, натрон, кристаллическая сода)  
-nau - лодка (бот)  
-naulefte - левый борт  
-nauraite - правый борт  
 nautile - наутилид  
+nave - лодка (бот)  
+nave lefte - левый борт  
+nave raite - правый борт  
 nefre - почка  
 nefte - масло  
 Neputun - Нептун  
@@ -862,6 +868,7 @@ Nipon - Япония
 nish - ниша  
 no - нет (не)  
 noche - ночь  
+Noe di nave - Ноев ковчег  
 noma - организовать  
 nomia - организация  
 norde - север (норд)  
@@ -927,10 +934,10 @@ pauze - пауза
 pava - стрелять  
 peda - пердеть  
 pede - пердение  
-peikar - профессия  
-peikarer - профессионал (профи)  
-peikari - профессиона́льный  
-peikari jiu - карьера  
+pei gung - профессия  
+pei gung di - профессиона́льный  
+pei gung ja - профессионал (профи)  
+pei gung jiu - карьера  
 pelpel - бабочка (мотылёк)  
 pendokardon - чертополох поникший  
 penta - пять (5)  
@@ -1051,8 +1058,9 @@ sammetre - симметрия
 samrayia - согласие  
 samsifia - симуляция  
 sanduiche - сандвич  
-sanduke - сундук  
+sanduku - сундук  
 sang - кровь  
+sante kanon - священное писание  
 sanzong - трезубец  
 sapate - туфля  
 sar - голова  
@@ -1094,7 +1102,7 @@ shata - противостоять
 shatan - Сатана  
 shau - мало  
 shava - дождь  
-shava chate - зонтик  
+shava chati - зонтик  
 shava kote - плащ (дождевик)  
 shava mosim - муссон  
 she - вещь  
@@ -1107,6 +1115,7 @@ shingofota - сверкать (мерцать)
 shish kababu - шиш-кебаб  
 shish nama - шашлык  
 shite - говно (дерьмо)  
+Shiva - Шива  
 shofer - шофёр  
 shopa - покупать (купить)  
 shope - покупка (шоппинг)  
@@ -1148,7 +1157,7 @@ soi milke - соевое молоко
 soi sos - соевый соус  
 soka - искать  
 sol - солнце  
-solchate - зонтик от солнца  
+sol chati - зонтик от солнца  
 solful - подсолнечный  
 somivi - сонный  
 somkamar - спальня  
@@ -1197,15 +1206,15 @@ tatu* - татуировка (тату)
 tazi - свежий  
 tehne - техника  
 tehnelogi - технология  
+tele vide gi - телевизор  
 telefon - телефон  
 teleloku - телепортировать  
 teleskope - телескоп  
 telfona - звонить  
 telfonia - телефония  
 telfonlin - телефонная линия  
-telvide - телевизор  
-tem - тема  
-temnam - название (пьесы, заголовок)  
+tema - тема  
+tema nam - название (пьесы, заголовок)  
 ten - небо  
 tenhal - погода  
 tenkenar - горизонт  
@@ -1215,9 +1224,9 @@ tepe - лента
 terchi - косой  
 teroristia - терроризм  
 tese - довод  
-tesh - ткань  
-teshmashin - ткацкий станок  
 teste - проба (тест)  
+texe - ткань  
+texe mashin - ткацкий станок  
 tikete - билет  
 tim - команда  
 tira milke - тянуть  
@@ -1291,6 +1300,7 @@ vin kan - винном заводе
 virje - девственник  
 virus - вирус  
 virus logi - вирусология  
+Vishnu - Вишну  
 viyolete blu - фиолетовый (пурпурный)  
 viza - виза  
 vode - клятва (присяга, обет)  

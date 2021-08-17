@@ -62,12 +62,13 @@ arane - 蜘蛛
 arbuze - 西瓜  
 area - 面积  
 argente - 银  
-arke - 弓 (琴弓, 拱)  
+arka - 弓 (琴弓, 拱)  
+arka chati - 拱顶  
 arme - 武器  
 aroma - 闻到  
-arome - 气味  
-aromomelon - 香瓜  
-aromu - 发臭  
+aroma - 气味  
+aroma - 发臭  
+aroma melon - 香瓜  
 artiste - 美术家  
 asar - 影响  
 asle - 起源  
@@ -75,12 +76,10 @@ asli - 原始的
 asme - 气喘  
 aspirin - 阿司匹林  
 astre - 天体  
-astronaver - 宇航员  
-astronomer - 天文学家  
-astronomia - 天文学  
-ate - 作为 (行为)  
+astro nave ja - 宇航员  
+astro nomi - 天文学  
+astro nomi ja - 天文学家  
 Atina - 雅典  
-ation - 行动  
 ativi - 活性  
 atlantokade - 大西洋鱈  
 atlantosalmon - 大西洋鮭  
@@ -166,6 +165,7 @@ bonsinyi - 吉利的
 bonvidi - 好看  
 botel - 瓶  
 boyu - 漂浮  
+Brahma - 梵天  
 briko - 杏子  
 brun - 棕色 (色)  
 brun salmon - 褐鳟  
@@ -173,7 +173,7 @@ bucher - 屠夫
 buchokan - 屠宰场  
 Buda - 佛陀  
 bufete - 自助餐  
-buke - 书  
+buku - 书  
 bum - 爆炸  
 buton - 扣子  
 ####C - C  
@@ -186,6 +186,7 @@ chai pote - 茶壶
 chakra - 轮子  
 chamache - 匙子  
 chante grupe - 合唱团  
+chati - 屋顶 (房顶)  
 chatre - 四 (4)  
 chendeno - 昨日  
 cheng - 层  
@@ -331,12 +332,12 @@ gabur sheke - 墓石 (墓碑)
 galaksia - 恆星系  
 Galia - 高卢  
 galte - 错误  
-ganchau - 干草  
-ganse - 雁 (鹅)  
+gan cau - 干草  
+gansa - 雁 (鹅)  
 ganum - 麦  
-garmomosim - 夏季  
-garmozon - 热带  
-garmozoni chavistan - 稀树草原  
+garma mosim - 夏季  
+garma zona - 热带  
+garma zona cau istan - 稀树草原  
 gati - 硬  
 gatomate - 固体  
 gautehnia - 高科技 (高技术)  
@@ -349,8 +350,8 @@ geo termo - 地热的
 geta - 获得  
 giau - 教学  
 gida - 导游  
-gider - 导游  
-gidobuke - 指南  
+gida buku - 指南  
+gida ja - 导游  
 ginglin - 經紗  
 gitar - 吉他  
 giuke - 玉  
@@ -367,15 +368,19 @@ granite - 花岗石
 grave - 砾石  
 grimas - 鬼脸  
 Guangjou - 广州  
+gubu - 河马  
 guipapil - 鬼罂粟 (東方罌粟)  
 guke - 菊花  
 gun - 军队  
+gung - 工作  
+gung kan - 工厂  
 gunjan - 军人  
 gunrajer - 大元帅  
 gute - 膝  
 ####H - H  
 ha - 有  
 habar - 消息  
+Habasha - 阿比西尼亚  
 haha - 笑  
 hai - 海  
 hai alga - 海藻  
@@ -398,6 +403,7 @@ Han - 汉族
 hande - 手  
 handoshake - 胳膊  
 hapi - 合适  
+har un - 每  
 harfi harfi - 字母表  
 Hartum - 喀土穆  
 hata - 直到  
@@ -516,7 +522,6 @@ kanon - 经典
 kantalupomelon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
 kape truke - 陷阱  
-kar - 工作  
 kara - 工作  
 karbodulokside - 二氧化碳  
 karchof - 菜蓟  
@@ -524,8 +529,8 @@ karde - 牌
 kardon - 蓟  
 kardonkarchof - 刺苞菜蓟  
 karer - 工人 (工作者)  
-karkan - 工厂  
-karloge - 动词  
+karma - 作为 (行为)  
+karma loga - 动词  
 karmisa - 提交  
 karote - 红萝卜  
 karsi - 粗糙  
@@ -577,11 +582,11 @@ korer - 跑步者
 kornomelon - 刺角瓜  
 korte kata - 短篇小说  
 korte krokodil - 短吻鳄  
-kosmi - 宇宙的  
-kosmia - 宇宙  
+kosmo - 宇宙  
+kosmo di - 宇宙的  
+kosmo nave - 太空船  
+kosmo nave ja - 太空人  
 kosmobiyolojia - 太空生物学  
-kosmonau - 太空船  
-kosmonaver - 太空人  
 krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
 krevete - 虾 (xiā)  
@@ -594,23 +599,23 @@ krusolin - 十字线
 kuangia - 矿场  
 kuarze - 石英  
 kube - 立方体  
-kupe - 杯子  
+kupa - 杯子  
 kushu - 躺  
 ####L - L  
 lage - 湖  
 lai - 来  
-laje - 废物 (垃圾)  
-lalbausheke - 红宝石  
-lali - 红  
-lalolinche - 短尾貓  
-laloranje - 柑橘 (红橘)  
-lalsalmon - 紅鮭  
-lama* - 喇嘛  
-lampe - 灯  
-lanchite - 投掷物  
-lanchograf - 投影  
-lanchografa - 投射  
-lane - 诅咒  
+laji - 废物 (垃圾)  
+lal - 红  
+lal bau sheke - 红宝石  
+lal linche - 短尾貓  
+lal oranje - 柑橘 (红橘)  
+lal salmon - 紅鮭  
+lama - 喇嘛  
+lampa - 灯  
+lana - 诅咒  
+lance grafi - 投影  
+lance grafi - 投射  
+lance she - 投掷物  
 lantanium - 鑭  
 lasha - 落 (留下)  
 lasun - 大蒜 (蒜头)  
@@ -633,6 +638,7 @@ libele - 蜻蜓
 liboban - 架子 (搁板)  
 libobaze - 架子  
 lider - 领导  
+liga di sanduku - 约柜  
 lili - 小  
 lilkaboge - 西葫芦  
 lilsheke - 砾石  
@@ -649,7 +655,7 @@ litre - 升
 loga - 说话 (讲)  
 loge - 纪录  
 loge - 语言  
-loge buke - 航海日志  
+loge buku - 航海日志  
 logem - 词  
 logia - 词汇  
 loka - 放置  
@@ -704,10 +710,10 @@ medenpapil - 虞美人 (雛罌粟)
 medi - 中型  
 medikosui - 药水  
 medu - 蜜  
-medu vespe sanduke - 蜂箱  
+medu fong - 蜜蜂  
+medu fong sanduku - 蜂箱  
 mega - 百万 (兆)  
-mege - 云  
-mei - 每  
+megi - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
 mem - 记忆 (记性)  
 mema - 记得 (回忆)  
@@ -764,10 +770,10 @@ nama - 肉
 namkitaba - 签署  
 nasibe - 命運  
 nasmedi - 国际  
-nau - 船 (艇)  
-naulefte - 左舷  
-nauraite - 右舷  
 nautile - 鹦鹉螺  
+nave - 船 (艇)  
+nave lefte - 左舷  
+nave raite - 右舷  
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
@@ -782,6 +788,8 @@ Nipon - 日本
 nish - 壁龛  
 no - 不  
 noche - 夜  
+Noe - 诺亚  
+Noe di nave - 诺亚方舟  
 noma - 组织  
 norde - 北  
 nostalgia - 怀旧  
@@ -838,7 +846,7 @@ patomis - 传染
 pau - 手枪  
 peda - 放屁  
 pede - 屁  
-peikar - 职业  
+pei gung - 职业  
 pelmen - 饺子  
 pelpel - 蝴蝶  
 pendokardon - 垂花飞廉  
@@ -941,6 +949,7 @@ samrayia - 一致
 samsifia - 模型  
 sanduiche - 三明治 (三文治)  
 sang - 血  
+sante kanon - 圣经  
 sanzong - 三叉戟  
 sapate - 鞋  
 sar - 头  
@@ -968,7 +977,7 @@ sharke - 鲨鱼 (shayu)
 shatan - 撒但  
 shau - 少  
 shava - 雨  
-shava chate - 伞  
+shava chati - 伞  
 shava kote - 雨衣  
 shava mosim - 雨季  
 she - 事物 (东西)  
@@ -986,6 +995,7 @@ shir - 诗
 shish - 扦子  
 shish nama - 串烧  
 shite - 粪 (屎)  
+Shiva - 湿婆  
 shofa - 开车  
 shofer - 司机  
 shopa - 买  
@@ -1066,21 +1076,21 @@ tate - 岸
 tazi - 新鲜的  
 tehne - 技术  
 tehnelogi - 工艺学  
+tele vide gi - 电视机  
 telefon - 电话机  
 teleskope - 望远镜  
 telfona - 打电话  
 telfonlin - 电话线  
-telvide - 电视机  
-tem - 主题目  
-temnam - 标题  
+tema - 主题目  
+tema nam - 标题  
 ten - 天空  
 tenhal - 天气  
 tenkenar - 地平线  
 terchi - 斜的  
 teroristia - 恐怖行为  
 tese - 论据  
-tesh - 布料  
 teste - 化验  
+texe - 布料  
 tikete - 票  
 tim - 队  
 tira milke - 拉  
@@ -1142,6 +1152,7 @@ vide - 看
 vidou - 寡妇  
 vijin - 味精  
 virje - 处女  
+Vishnu - 毗湿奴  
 vode - 诺言  
 vol - 想要 (愿意)  
 vulva - 外阴 (陰门)  

@@ -48,20 +48,18 @@ aple - 林檎
 arane - オレンジ  
 argente - 銀  
 aria - 辺  
-arke - 弓 (弓なり)  
-arker - 弓兵  
+arka - 弓 (弓なり)  
+arka ja - 弓兵  
 aroma - 嗅ぐ  
-arome - 香り (匂い, 臭い)  
-aromomelon - マクワウリ  
-aromu - 香る (匂う, 臭う)  
+aroma - 香り (匂い, 臭い)  
+aroma - 香る (匂う, 臭う)  
+aroma melon - マクワウリ  
 asar - 効果  
 asle - 起源  
 astre - 天体   
-astronomer - 天文学者  
-astronomia - 天文学  
-ate - 行為  
+astro nomi - 天文学  
+astro nomi ja - 天文学者  
 Atina - アテネ  
-ation - 行動  
 ativi - 活動的  
 atlantokade - タイセイヨウダラ  
 atlantosalmon - タイセイヨウサケ  
@@ -137,6 +135,7 @@ bon - 良い
 bon guste di - 美味しい  
 botel - 瓶  
 boyu - 泳ぐ (浮く)  
+Brahma - ブラフマー (梵天)  
 brauze - 探る, 探検する  
 brauzer - 探検家 (ブラウザ)  
 brun - 茶色  
@@ -146,7 +145,7 @@ bucher - 肉屋
 buchokan - 屠畜場  
 Buda - 仏陀  
 bufete - ビュッフェ (バイキング)  
-buke - 本 (書物)  
+buku - 本 (書物)  
 bum - 爆発  
 bumu - 爆発する  
 bute - ブーツ  
@@ -161,6 +160,7 @@ chai pote - 急須
 chakra - 車輪  
 chamache - スプーン  
 chante grupe - 合唱団  
+chati - 屋根  
 chatre - 四 (4)  
 chendeno - 昨日  
 cheniki - 古い  
@@ -286,7 +286,6 @@ fastelia - 浅い
 fate - 事実  
 fatigia - 疲労  
 fatigu - 疲れる (疲労する)  
-fatokan - 工場 (製造所)  
 feimush - こうもり (飛鼠)  
 fem - 女  
 femi rajer - 女王  
@@ -327,14 +326,13 @@ galaksia - 銀河
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
 gamben - 連れ子  
-ganchau - 干し草  
-ganse - 雁 (鵝鳥)  
+gan cau - 干し草  
+gansa - 雁 (鵝鳥)  
 ganum - 小麦  
-gar - 車  
-garmi - 暖かい (熱い)  
-garmomosim - 夏  
-garmozon - 熱帯  
-garmozoni chavistan - サバンナ  
+garma - 暖かい (熱い)  
+garma mosim - 夏  
+garma zona - 熱帯  
+garma zona cau istan - サバンナ  
 gati - 硬い  
 gatomate - 固体  
 gautalu - 浮き沈みする  
@@ -350,9 +348,9 @@ geo niche prizon - 地下牢 (ダンジョン)
 geta - 受ける (もらう)  
 gi - 装置 (機, 器)  
 giau - 教える (教義, 主義, -教)  
-giauja - 教員  
-gider - 案内人 (ガイド)  
-gidobuke - ガイドブック  
+giau ja - 教員  
+gida buku - ガイドブック  
+gida ja - 案内人 (ガイド)  
 ginglin - 縦糸  
 gitar - ギター  
 glisu - 滑る  
@@ -366,14 +364,18 @@ gorila - ゴリラ
 grafi kata - 漫画  
 granite - 花崗岩  
 grave - 砂利  
+gubu - 河馬  
 gui - 鬼  
 guipapil - オニゲシ  
 guke - キク  
+gung - 労働  
+gung kan - 工場 (製造所)  
 gunjan - 軍人  
 gunrajer - 総統 (将軍 )  
 guru - 尊師 (グル, 先生)  
 gute - 膝  
 ####H - H  
+Habasha - アビシニア  
 haha - 笑う  
 hai - 海  
 hai alga - 海藻  
@@ -396,6 +398,7 @@ handoshake - 腕
 hapa - 適応する  
 hapi - 適切  
 har - 全ての  
+har un - 毎  
 haramliste - ブラックリスト  
 Hartum - ハルツーム  
 hatar - 危険  
@@ -507,11 +510,11 @@ kanchodake - 釉薬
 kandi - キャンデー  
 kangaru* - カンガルー  
 kankuate - キンカン (キンキツ)  
-kano* - カヌー  
 kantalupomelon - カンタロープ  
+kanu - カヌー  
 kanyon - 峡谷  
 kape truke - 罠  
-kar - 労働  
+kar - 車  
 kara - 働く  
 karbosui - 炭水化物  
 karchof - アーティチョーク  
@@ -519,7 +522,8 @@ karde - カルタ
 kardon - アザミ  
 kardonkarchof - カルドン  
 karer - 労働者  
-karloge - 動詞  
+karma - 行為  
+karma loga - 動詞  
 karmisa - 提出  
 karote - ニンジン  
 karsi - 荒い  
@@ -576,7 +580,7 @@ koral - サンゴ
 kornomelon - ツノニガウリ  
 korte kata - 短編小説  
 korte krokodil - アリゲーター  
-kosmonau - 宇宙船  
+kosmo nave - 宇宙船  
 krake - 隙間 (ひび)  
 krem - クリーム  
 krepe - パンケーキ  
@@ -593,25 +597,24 @@ kuarze - 石英
 kube - 立方体  
 kukokamar - 台所  
 kuli - カッコいい  
-kupe - コップ  
+kupa - コップ  
 kusha - 横たえる  
 kushu - 寝転ぶ  
 ####L - L  
 lage - 湖  
 lai - 来る  
-laje - ゴミ (廃棄物)  
-lalbausheke - ルビー  
-lali - 赤い  
-lalolinche - ボブキャット  
-laloranje - ポンカン (マンダリン)  
-lalsalmon - ベニザケ  
-lama* - ラマ (チベット仏教の上師)  
-lampe - ランプ  
-lana - 呪う  
-lanchite - 飛翔体 (矢玉)  
-lanchograf - 投影  
-lanchografa - 映す (投影する)  
-lane - 呪い (たたり)  
+laji - ゴミ (廃棄物)  
+lal - 赤い  
+lal bau sheke - ルビー  
+lal linche - ボブキャット  
+lal oranje - ポンカン (マンダリン)  
+lal salmon - ベニザケ  
+lama - ラマ (チベット仏教の上師)  
+lampa - ランプ  
+lana - 呪い (たたり)  
+lance grafi - 投影  
+lance grafi - 映す (投影する)  
+lance she - 飛翔体 (矢玉)  
 lantanium - ランタン  
 lasha - 残す  
 lasun - 大蒜  
@@ -631,6 +634,7 @@ liboban - 棚
 libobaze - 台  
 libu - 立つ  
 lidolin - リード (手綱)  
+liga di sanduku - 契約の箱  
 lili - 小さい  
 lilkaboge - ズッキーニ  
 lilsheke - 小石  
@@ -646,7 +650,7 @@ litre - リットル
 loga - 話す  
 loge - 記録  
 loge - 演説  
-loge buke - 日誌  
+loge buku - 日誌  
 logem - 言葉  
 logi - 研究 (科学, 学)  
 logia - 語彙  
@@ -698,11 +702,11 @@ medenpapil - ヒナゲシ
 mediker - 医者  
 medikosui - ポーション (水薬)  
 medu - 蜂蜜  
-medu vespe nide - 蜂の巣 (ハニカム)  
-medu vespe sanduke - 養蜂箱  
+medu fong - 蜜蜂  
+medu fong nide - 蜂の巣 (ハニカム)  
+medu fong sanduku - 養蜂箱  
 mega - １００万 (メガ)  
-mege - 雲  
-mei - 毎  
+megi - 雲  
 melon - マスクメロン  
 mem - 記憶  
 mema - 思い出す  
@@ -772,8 +776,8 @@ name - 名前
 namkitaba - 署名する (サイン)  
 nasibe - 運命 (宿命)  
 nasmedi - 国際的  
-nau - 舟 (ボート)  
 nautile - オウムガイ  
+nave - 舟 (ボート)  
 nefre - 腎臓  
 nefte - 油 (オイル)  
 neftoguke - シマカンギク (アブラギク)  
@@ -793,6 +797,7 @@ niponi - 日本の (日本語, 日本人)
 nish - 壁龕  
 no - いいえ  
 noche - 夜  
+Noe di nave - ノアの箱舟  
 nola - キャンセルする  
 noma - 組織する  
 norde - 北  
@@ -842,10 +847,10 @@ pau - 銃
 pava - 撃つ  
 peda - おならをする  
 pede - 屁  
-peikar - 職業  
-peikarer - プロフェッショナル  
-peikari - プロフェッショナル  
-peikari jiu - キャリア  
+pei gung - 職業  
+pei gung di - プロフェッショナル  
+pei gung ja - プロフェッショナル  
+pei gung jiu - キャリア  
 pelpel - チョウ  
 penta - 五 (5)  
 pente - 絵の具 (ペンキ)  
@@ -952,6 +957,7 @@ samsifi - 同じよう (近い)
 samsifia - 模型 (類似, シミュレーション)  
 sanduiche - サンドイッチ  
 sang - 血  
+sante kanon - 聖書  
 sanzong - 三つまた (トライデント)  
 sapate - 鞋  
 sar - 頭  
@@ -997,6 +1003,7 @@ shipa - 濡らす
 shipi - 湿っぽい  
 shir - 詩  
 shite - 糞 (屎)  
+Shiva - シヴァ  
 shopa - 買う  
 shoti - 百 (１００)  
 shula - 学ぶ  
@@ -1080,14 +1087,14 @@ telefon - 電話
 teleloku - 瞬間移動  
 teleskope - 望遠鏡 (テレスコープ)  
 telfona - 電話する  
-temnam - 題名 (書名, タイトル)  
+tema nam - 題名 (書名, タイトル)  
 ten - 空  
 tenhal - 天気  
 tenkenar - 地平線 (水平線, 天際)  
 tennili - 空色  
 terchi - 斜め  
-tesh - 布  
-teshmashin - 織機  
+texe - 布  
+texe mashin - 織機  
 tingu - 止まる  
 tipe - 種類  
 tira pil - はがす (剥ぐ)  
@@ -1150,6 +1157,7 @@ vide ja - 見物人
 vide punte - 遠近法 (見通し, 観点)  
 vidou - 寡婦  
 vin kan - ワイナリー (酒造場)  
+Vishnu - ヴィシュヌ  
 viyolete - スミレ  
 viyolete blu - 紫色 (パープル)  
 vode - 約束  
