@@ -214,7 +214,7 @@ Barbados - Barbados
 Barbuda - Barbuda  
 barium - barium  
 baseball (amerikkalainen pesäpallo) - bazobol  
-baskeri (baretti) - berete  
+baskeri (baretti) - bere  
 bataatti - kamote  
 beduiini - badavi  
 Belgia - Belgia  
@@ -284,7 +284,7 @@ demokratia - demokrati
 demoni (piru) - demon  
 desi - dechi*  
 desibeli - dechibel  
-devanagari - deu nagra harfi  
+devanagari - deu nagar harfi  
 Dione - Dione  
 Djiboutia - Jibuti  
 dokumenttielokuva - dokumfilme  
@@ -514,8 +514,9 @@ haluta - vol
 halveksia (hyljeksiä) - paraya  
 hame - jupe  
 hammas - dante  
-hammasharja - dantobrosh  
+hammasharja - dante brosh  
 hammaslääkäri - dantomediker  
+hampaaton - dante na di  
 han-kiinalainen - Han  
 hana (venttiili, kraana) - kran  
 hangata - frika  
@@ -536,8 +537,8 @@ harmoninen - harmoni
 harrastaja - hobi ja  
 harrastus - hobi  
 harso - gaze  
-harvinainen - nadiri  
-harvoin - nadiro  
+harvinainen - nadir  
+harvoin - nadir mar  
 hasis - hashish  
 hasium - hesium  
 haureus (uskottomuus) - zina  
@@ -610,8 +611,9 @@ hirviö - monoster
 historia (aikakirjat) - histori  
 historia (oppiaine) - historia  
 historioitsija - histori ja  
-hius (karva, tukka, hiukset) - kesh  
-hiuspanta - keshbende  
+hius (hiukset) - sar kesha  
+hius (karva, tukka, hiukset) - kesha  
+hiuspanta - kesha bande  
 hmm - hem  
 hockey (jääkiekko) - hoke  
 hoitaa (lääkitä) - medika  
@@ -721,7 +723,8 @@ ikä - sen
 ilkeä (julma) - zalim  
 illallinen - sham yam  
 ilma - air  
-ilman - na  
+ilman (puuttua) - na  
+ilman oleva (-ton) - na di  
 ilmanpaine - air bari  
 ilmapallo - balon  
 ilmapuntari (ilmanpainemittari, barometri) - air bari metre gi  
@@ -924,6 +927,7 @@ kalifaatti - halifia
 kalifi - halif  
 kalifornium - kalifornium  
 kalium - kalium  
+kaljupäinen - sar kesha na di  
 kalkki - kalsomate  
 kalkkikivi - kalsopetre  
 kalkkuna - dinde  
@@ -973,6 +977,7 @@ Karnataka (Intian osavaltio) - karnadia
 kartio (keila) - konus  
 kartogratia - metregrafia  
 kartta - metregraf  
+karvaton - kesha na di  
 kassa - kash  
 kassanhoitaja - kasher  
 kassava (maniokki) - manyoke  
@@ -1003,7 +1008,7 @@ kauneus - sundaria
 kaunis (komea, sievä) - sundar  
 kaupunginosa (kortteli, naapurusto) - mahala  
 kaupunki - citi  
-kaupunki - nagre  
+kaupunki - nagar  
 kaura - ave  
 Kazakstan - Kazakia  
 kebab (grilliliha) - kababu nama  
@@ -1046,7 +1051,7 @@ kerros - cheng
 kerta (vuoro) - mar  
 kertoa - kata  
 kertomus (tarina, saaga) - kata  
-kerubi - kerube  
+kerubi - kerubi  
 keräilykortti - jamkarde  
 keskeyttää (tauottaa) - pauza  
 Keski-Afrikan Tasavalta - Jungafrika  
@@ -1237,7 +1242,7 @@ kryptoni - kriton
 ksenon - xenon  
 kude - vei lin  
 kuin (verrattuna) - ka  
-kuisti (terassi, veranta, parveke) - berande  
+kuisti (terassi, veranta, parveke) - veranda  
 kuitata - resida  
 kuitti (kuittaus) - reside  
 kuiva - gani  
@@ -1322,7 +1327,7 @@ kynttilä - mumfote
 kynä - kalam  
 Kypros - Kipris  
 kypsä (aikuinen) - maturi  
-kypärä - sarkaske  
+kypärä - sar kaske  
 kyrilliset aakkoset - kirili harfia  
 kyselylomake - sualdokum  
 kysymys - sual  
@@ -1363,7 +1368,7 @@ köynnös - eskalotan
 ####L - L  
 laadukas (hyvä) - bonsifi  
 laakso - vali  
-laastari - glutobende  
+laastari - glute bande  
 laatikko - kasa  
 laatikko - sanduku  
 laatta (levy) - table  
@@ -1639,7 +1644,7 @@ mantra - mantre
 marathi (eräs intialainen kieli) - marati  
 maratoni - maraton  
 margariini - margarin  
-marja - bere  
+marja - beri  
 markkinaliberalismi - bazarhuristia  
 marmori - kalsokristal  
 Marokko - Magribia  
@@ -1846,7 +1851,7 @@ natrium - natre
 natriumglutamaatti - vijin  
 natsi - naziste  
 natsismi - nazistia  
-nauha (side) - bende  
+nauha (side) - bande  
 naula (piikki) - ding  
 nauraa - haha  
 Nauru - Nauru  
@@ -1886,7 +1891,7 @@ niobium - niobium
 nisä (tissi) - mam  
 nisäkäs - mamal  
 Niue - Niue  
-no - na  
+no - nu  
 nobelium - nobelium  
 noin (arviolta, suunnilleen) - yagu  
 nolla (ei yhtään) - siri  
@@ -2128,7 +2133,7 @@ pelokas - fobi
 pelottaa - foba  
 pelottava - fobani  
 pelätä - fobu  
-penkki - benche  
+penkki - benchi  
 perhe - famil  
 perhonen - pelpel  
 perimä (genotyyppi) - jentipe  
@@ -2266,10 +2271,10 @@ potilas - patike
 povi - buste  
 praseodyymi - prasedium  
 presidentti - prezidente  
-profeetta - naber  
+profeetta - nabi ja  
 profeetta Mani - Manihai  
 professori - profeser  
-profetia - nabe  
+profetia - nabi  
 projektio (diakuva) - lance grafi  
 projektori (videotykki, piirtoheitin) - grafi lance gi  
 pronomini - vice loga  
@@ -2304,7 +2309,7 @@ puolustaa - defa
 puolustaja - defer  
 puolustus - def  
 purkaa koodi (dekoodata) - an kode  
-purra - danta  
+purra - fa dante  
 pussi (säkki, kassi, laukku) - sake  
 putki (tuubi) - tube  
 puu - moke  
@@ -2344,12 +2349,13 @@ Päiväntasaajan Guinea - Geyoparlini Ginia
 päivää! - salam den  
 pää - sar  
 pää- - shefi  
-pääkallo - saroste  
+pääkallo - sar oste  
 päällikkö (pomo) - shefe  
 pääministeri (suurvisiiri) - shefe minister  
 päärynä - leze  
 pääsiäinen - paske  
 pääsy - acesa  
+päätön - sar na di  
 pöly (tomu) - fun  
 pölynimuri - fun chupa gi  
 pöytä - meze  
@@ -2394,7 +2400,7 @@ raskasmetalli - bari metal
 rasva (öljy) - fete  
 rasvainen - feti  
 ratas - chakra  
-rauha - pache  
+rauha - pace  
 rauhallinen (levollinen, tyyni) - shanti  
 rauhanaate (pasifismi) - pachistia  
 rauta - fere  
@@ -2554,7 +2560,7 @@ sauma (ommel) - sutur
 sauna - sauna  
 savanni - garma zona cau istan  
 savenvalaja - poter  
-savi - glutofan  
+savi - glute fan  
 savityö (keramiikka) - serame  
 savu - duman  
 savuke tai sikari - sigar  
@@ -2656,7 +2662,7 @@ sisäpuoli - intre
 sisäsyntyinen - injeni  
 sisäänkäynti - jinmun  
 sisäänpäinsuuntautunut (introvertti) - introversi  
-sitoa - benda  
+sitoa - bande  
 sitruuna - limon  
 sivilisaatio - sivilia  
 sivistynyt - sivili  
@@ -2817,7 +2823,7 @@ taajuus (tiheys) - polmaria
 taas (uudestaan) - reyo  
 taateli - tamar  
 Tadžikistan - Tajiki  
-tahmainen (liimamainen) - gluti  
+tahmainen (liimamainen) - glute li  
 tahna (tahdas) - paste  
 tahto - iche  
 tahtoa - icha  
@@ -2878,7 +2884,7 @@ tarkka (täsmällinen) - justi
 tarpeeksi (riittävästi) - basi  
 tarpeellinen - yau di  
 tarpeeton - no yau di  
-tarra - glutograf  
+tarra - glute grafi  
 tarve (puute) - yauta  
 tasainen (tasavertainen) - pari  
 tasapaino - parvezia  
@@ -2986,6 +2992,7 @@ toisiaan (toinen toistaan) - ses
 toistaa - reya  
 toisto - ri  
 toivoa - asha  
+toivoton - asha na di  
 toksiini - bio tokse  
 toksikologia (myrkkyoppi) - toksilogi  
 tomaatti - tomate  
@@ -3129,7 +3136,7 @@ upea (hieno) - kuli
 upea (mahtava) - superi  
 uraani - uranium  
 Uranus - Uran  
-urbaani (kaupunkilais-) - nagri  
+urbaani (kaupunkilais-) - nagar di  
 urdu - urdi  
 urhea (sankarillinen) - hero li  
 urheilija - esporter  
@@ -3473,5 +3480,5 @@ zulu - Zulu
 šakaali - shakal  
 šakki - shatranje  
 šamaani - shaman  
-šampoo - keshosabun  
+šampoo - kesha sabun  
 šaria - islam din sharia  

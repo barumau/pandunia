@@ -245,6 +245,8 @@ ban|||zho:板 (bǎn)yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:b�
 ban gem||||board game|jeu de société|juego de mesa|jogo de tabuleiro|настольная игра||版图游戏|ボードゲーム|보드 게임|||||||tabulludo|lautapeli|gra planszowa
 banana|bio||wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|banana|banane|plátano (banana)|banana|банан||香蕉||||केला||pisang||muz|banano|banaani|banan
 banda|||zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|band (squad, group)|bande|banda|bando|банда||班  (一帮)||||जमात||||çete||ryhmä (työryhmä, yhtye, bändi)|zespół (drużyna, grupa)
+bande||||tie (fasten, bind)||atar (amarrar)|||||||||||||ligi|sitoa|związać, wiązać; zapiąć, zapinać
+bande|||ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|band (tape, bandage)||banda (cinta)|||||||||||||bandaĝo (vindo)|nauha (side)|taśma; bandaż
 bandera|||eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|flag (banner)|drapeau|bandera||флаг||旗|||||||||flago|lippu|flaga, sztandar
 bangla basha|basha|ben||Bengali language (Bangla)|bengali|idioma bengalí||||||||||||||bengali|banglijski
 Bangladesha|desha|BD||Bangladesh|Bangladesh|Bangladés|||||||||||||Bangladeŝo|Bangladesh|Bangladesz
@@ -322,14 +324,11 @@ Belgia|desha|BE||Belgium||Bélgica|||||||||||||Belgio|Belgia|Belgia
 Belize|desha|BZ||Belize||Belice|||||||||||||Beliceo|Belize|Belize
 ben|||ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
 benben||||grandchild||||||||||||||||lapsenlapsi|
-benche|||eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|bench||banco (silla)|||||||||||||benko|penkki|ławka
-benda||||tie (fasten, bind)||atar (amarrar)|||||||||||||ligi|sitoa|związać, wiązać; zapiąć, zapinać
-bende|||ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|band (tape, bandage)||banda (cinta)|||||||||||||bandaĝo (vindo)|nauha (side)|taśma; bandaż
+benchi|||eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|bench||banco (silla)|||||||||||||benko|penkki|ławka
 Benin|desha|BJ||Benin||Benín||||||||||||||Benin|Benin
 benzin|||deu:Benzin, spa:bencina, rus:бензин (benzin), tur:benzin, ara:بنزين (banzīn), hin:बेंज़ीन (benzīn), may:bensin, jpn:ベンジン (benjin), swa:benzini|gasoline (petrol)||gasolina (bencina)|||||||||||benzini|benzin|benzino|bensiini (bensa)|benzyna
-berande|||hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda|veranda (balcony, terrace, porch)|balcon|balcón (terraza, veranda)|sacada (varanda)|балкон||阳台|ベランダ (バルコニー, 縁側)|||छज्जा||langkan (beranda)|baraza (varanda)|balkon|verando (balkono)|kuisti (terassi, veranta, parveke)|weranda, balkon, taras, ganek
-bere|||deu:Beere, eng:berry, may:beri, hin:बेरी (berī), ben:বেরি (beri), jpn: ベリー (berī)|berry|baie|baya|baga|ягода|توت|浆果 (莓)|漿果 (ベリー )|||बेरी||beri||||marja|jagoda
-berete|||fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (zh) (bèiléimào), rus:берет (beret)|beret||boina|||||||||||||bereto|baskeri (baretti)|beret
+bere|||fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (zh) (bèiléimào), rus:берет (beret)|beret||boina|||||||||||||bereto|baskeri (baretti)|beret
+beri|||deu:Beere, eng:berry, may:beri, hin:बेरी (berī), ben:বেরি (beri), jpn: ベリー (berī)|berry|baie|baya|baga|ягода|توت|浆果 (莓)|漿果 (ベリー )|||बेरी||beri||||marja|jagoda
 berilium|mate|Be||beryllium||berilio|||||||||||||berilio|berylli|beryl
 berje|bio|Betula|eng:birch, rus:берёза (ber’oza), hin:भूर्ज (bhūrj)|birch tree|bouleau|abedul|bétula|берёза||桦树|樺|||||||||koivu|brzoza
 berkelium|mate|Bk||berkelium||berkelio|||||||||||||berkelio|berkelium|berkel
@@ -1179,11 +1178,11 @@ giuke|||zho:玉 (yù), yue:玉 (yuk6), nan:玉 (gio̍k), jpn:玉 (gyoku), vie:ng
 glisu|||fra:glisser, ita:glissare + eng:glacier,glissando, spa:por:glaciar,glisando, rus:глиссандо (glissando), ara:غليساندو (ghlysandw), jpn:グリッサンド (gurissando) + may:gelangsar|slide (slip, glide, skate)|glisser|deslizar|deslizar|задвигаться (скользи́ть)||滑下|滑る|||||||||liukua (luistaa)|ślizgać się (poślizgnąć się, jeździć na łyżwach)
 gluta||||stick (adhere, paste, glue)|coller|pegar|colar (aderir)|клеиться|||張る (付く)|||||||||liimata|lepić (kleić)
 glute|||eng:glue, swa:gluu, + fra:glutineux|glue (adhesive)||pegamento (pega, goma)|||||||||||||gluo|liima|klej
+glute bande||||adhesive bandage (band-aid, sticking plaster)|pansement (sparadrap)|curita (apósito)|penso (band-aid)|пластырь||创可贴 (邦迪)|絆創膏|반창고||||||||laastari|
+glute fan||||clay|argile|arcilla (barro)|argila|глина||黏土|粘土|||||||||savi|glina
+glute grafi||||sticker|autocollant|adhesivo|adesivo|наклейка||贴纸|ステッカー||||||||glumarko|tarra|
+glute li||||sticky (ahesive)|adhésif (collant)|pegajoso (adhesivo)|pegajoso (adesivo)|клейкий (липкий)||黏的|粘い|||||||||tahmainen (liimamainen)|lepki (kleisty)
 gluten|||eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)|gluten||gluten|||||||||||||gluteno|gluteeni|gluten
-gluti||||sticky (ahesive)|adhésif (collant)|pegajoso (adhesivo)|pegajoso (adesivo)|клейкий (липкий)||黏的|粘い|||||||||tahmainen (liimamainen)|lepki (kleisty)
-glutobende||||adhesive bandage (band-aid, sticking plaster)|pansement (sparadrap)|curita (apósito)|penso (band-aid)|пластырь||创可贴 (邦迪)|絆創膏|반창고||||||||laastari|
-glutofan||||clay|argile|arcilla (barro)|argila|глина||黏土|粘土|||||||||savi|glina
-glutograf||||sticker|autocollant|adhesivo|adesivo|наклейка||贴纸|ステッカー||||||||glumarko|tarra|
 gol|||por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|goal (destination)|but (destination)|meta (gol, destinación)|meta (gol)|цель||目的|目的 (行き先, ゴール)|||लक्ष्य (गोल)||||amaç (hedef, gol)|golo|maali (pelissä)|cel
 gola||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 golem|||heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)|golem||||||||||||||||golem|golem
@@ -1756,10 +1755,11 @@ kerni darunia||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja j
 kerni energe||||nuclear energy||energía nuclear|||||||||||||kernenergio|ydinenergia|energia nuklearna
 kerni fenia||||nuclear fission||fisión nuclear||||||||||||||ydinfissio|rozszczepienie jądra atomowego
 kerni fizikia||||nuclear physics||física nuclear|||||||||||||kernfiziko|ydinfysiikka|fizyka nuklearna
-kerube|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
-kesh|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
-keshbende||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
-keshosabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
+kerubi|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
+kesha|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
+kesha bande||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
+kesha na di||||hairless|glabre|pelado (desvellado)|despelado|безволосый||无毛|無毛|||केशहीन|||||senhara|karvaton|
+kesha sabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
 ketle|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
 kili|numbe|1000|eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|thousand (kilo-)||mil (kilo-)|||||千 (１０００)||||||||mil (kilo-)|tuhat (kilo-)|tysiąc (kilo-)
 kilogram|unomete|kg||kilogram (kg)||kilograma||||||||||||||kilogramma|kilogram (kg)
@@ -3213,6 +3213,8 @@ sapater||||shoemaker||zapatero|||||||||||||ŝuisto|suutari|szewc
 sapatokan||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suutarin paja|warsztat szewski
 sar|bode||fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|head|tête|cabeza|cabeça|голова|رَأْس|头|頭|머리|đầu|सिर|মাথা|kepala|kichwa|baç (kafa)||pää|głowa
 sar kaske||||helmet||casco (yelmo)|||||||||||||kasko|kypärä|hełm
+sar kesha||||hair of the head|cheveux|cabello|cabelo|волосы|شَعْر‎|头发|髪の毛 (頭髪)|머리칼|tóc|बाल|চুল|rambut|unywele|saç|kaphararo|hius (hiukset)|włosy
+sar kesha na di||||bald-headed|chauve|calvo|calvo|лысый||秃头的||||||||kel||kaljupäinen|
 sar na di||||headless|acéphale (sans tête)||acéfalo|безголовый||无头的|||||||||senkapa|päätön|bezgłowy
 sar oste|bode|||skull||cráneo (calavera)||||||||||||||pääkallo|czaszka
 sate|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|moment (instant, while)||momento|momento (instante)|момент|سَاعَة‎|时刻 (瞬间)|瞬間|||||saat|saa|saat (an, moment)|momento|hetki (kotva, ajankohta)|moment
@@ -3803,6 +3805,7 @@ ventur|||deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avanty
 ventur ja||||adventurer|aventurier|aventurero|aventureiro|авантюрист||冒险者||||||||maceracı|aventuristo|seikkailija|poszukiwacz przygód (awanturnik)
 Venus|planete 2|||Venus|Vénus|Venus|Vénus|Венера|الزهرة||||||||Zuhura|Venüs|||Wenus
 ver|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine, indeed, very)|vrai|verdadero|verdadeiro|верный|||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
+veranda|||hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda|veranda (balcony, terrace, porch)|balcon|balcón (terraza, veranda)|sacada (varanda)|балкон||阳台|ベランダ (バルコニー, 縁側)|||छज्जा||langkan (beranda)|baraza (varanda)|balkon|verando (balkono)|kuisti (terassi, veranta, parveke)|weranda, balkon, taras, ganek
 verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm|ver|verme|verme|||||||||||||mato|robak
 vermute|alkohol|||vermouth|vermouth|vermú|vermute|вермут|||||||||||vermuto|vermutti|wermut
 verse|||eng:versus, fra:verse, spa:por:versar|face (versus)|verse (face á)|afrontar|encarar (afrontar; vérsus)|||||||||||||kohti (päin)|
@@ -3972,8 +3975,6 @@ zuku di||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민�
 zuku medi di||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumarda|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-|||||||||||||||||||||
-|||||||||||||||||||||
 ||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
 ||||valid (workable)||||||||||||||||toimiva|poprawny (wykonalny)
 ||||known||conocido||||||||||||||tietty (tunnettu)|wiadomy, znany

@@ -85,6 +85,7 @@ asal Australia jan - aborigeno
 asal di - origina  
 asan - posteno  
 asha - esperi  
+asha na di - senespera  
 asia - azia  
 Asia - Azio  
 askete - ascetiko  
@@ -123,6 +124,8 @@ bambu - bambuo
 ban - tabulo  
 ban gem - tabulludo  
 banana - banano  
+bande - ligi  
+bande - bandaĝo (vindo)  
 bandera - flago  
 Bangladesha - Bangladeŝo  
 banke - banko  
@@ -172,12 +175,9 @@ Belarus - Belorusio
 Belgia - Belgio  
 Belize - Beliceo  
 ben - ido (infano)  
-benche - benko  
-benda - ligi  
-bende - bandaĝo (vindo)  
+benchi - benko  
 benzin - benzino  
-berande - verando (balkono)  
-berete - bereto  
+bere - bereto  
 berilium - berilio  
 berkelium - berkelio  
 Berlin - Berlino  
@@ -325,9 +325,9 @@ danka - danki
 danke - danko  
 danko da - dank’al  
 danse - danco  
-danta - mordi  
 dante - dento  
-dantobrosh - dentbroso  
+dante brosh - dentbroso  
+dante na di - sendenta  
 dantomediker - dentisto  
 darba - bati  
 darjomute - disvolvi  
@@ -472,6 +472,7 @@ europium - eŭropio
 evanjil - evangelio  
 ####F - F  
 fa - fari  
+fa dante - mordi  
 fa ja - aganto  
 fa safa - purigi  
 fa van - amuzi  
@@ -628,8 +629,8 @@ gida - gvidi
 gitar - gitaro  
 giuke - jado  
 glute - gluo  
+glute grafi - glumarko  
 gluten - gluteno  
-glutograf - glumarko  
 gol - golo  
 gom - kaŭĉuko  
 gon - angulo  
@@ -918,8 +919,9 @@ kerne - kerno (koro)
 kerni arme - kernarmilo  
 kerni energe - kernenergio  
 kerni fizikia - kernfiziko  
-kesh - haro  
-keshosabun - ŝampuo  
+kesha - haro  
+kesha na di - senhara  
+kesha sabun - ŝampuo  
 kilomitre - kilometro  
 kimem - kemia elemento  
 kimlojia - ĥemio (kemio)  
@@ -1208,14 +1210,14 @@ muzike - muziko
 muziker - muzikisto  
 Myanma - Birmo  
 ####N - N  
-na - sen  
-na - nu  
-nabe - profetaĵo  
-nadiri - malofta  
-nadiro - malofte  
+na - sen (manki)  
+na di - ne havanta (sen~a)  
+nabi - profetaĵo  
+nadir - malofta  
+nadir mar - malofte  
 nafas - spiro  
-nagre - urbo  
-nagri - urba  
+nagar - urbo  
+nagar di - urba  
 Naijiria - Niĝerio  
 nama - viando  
 name - nomo  
@@ -1273,6 +1275,7 @@ nostalgia - nostalgio (saudado)
 nota - rimarki  
 note - noto (rimarko, komento)  
 note buku - kajero  
+nu - nu  
 numbe - nombro  
 nuton - newtono (N)  
 ####O - O  
@@ -1302,7 +1305,7 @@ pa - ĉe (en, sur)
 pa - patro  
 pa ke - kie  
 pa u loka - tie  
-pache - paco  
+pace - paco  
 pachiste - pacifisto  
 pachistia - pacifismo  
 padomosim - aŭtuno  
@@ -1516,7 +1519,9 @@ sante - sankta
 sapate - ŝuo  
 sapater - ŝuisto  
 sapatokan - ŝuistejo  
-sarkaske - kasko  
+sar kaske - kasko  
+sar kesha - kaphararo  
+sar na di - senkapa  
 sate - momento  
 sati - momenta  
 sauna - saŭno  
@@ -1773,6 +1778,7 @@ vate - vato
 ventur - aventuro  
 ventur ja - aventuristo  
 ver - vera  
+veranda - verando (balkono)  
 vermute - vermuto  
 version - versio (toisinto)  
 veze - pezo  

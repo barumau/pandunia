@@ -63,6 +63,7 @@ asal - origem
 asal Amerka jan - indígena (índio)  
 asal di - original  
 asar - efeito  
+asha na di - desesperado  
 asma - asma  
 aspirin - aspirina  
 astro - astro (corpo celeste)  
@@ -125,8 +126,7 @@ beker - padeiro
 bekofan - terracota  
 bel - pá  
 ben - filho ou filha  
-berande - sacada (varanda)  
-bere - baga  
+beri - baga  
 berje - bétula  
 bil - possível  
 bilor - cristal  
@@ -208,7 +208,7 @@ danger - sino (campainha)
 dani - danês  
 danko da - graças a  
 danse - baile (danza)  
-danta - morder  
+dante na di - desdentado  
 darjomute - desenvolvimento  
 date - dados  
 datobanke - banco de dados  
@@ -219,7 +219,7 @@ defkaske - armadura
 den - dia  
 deu - deus  
 deu kata - mito  
-deu nagra harfi - devanágari  
+deu nagar harfi - devanágari  
 deu sofi - teosofia  
 dika - mirar (apontar)  
 dike - objetivo  
@@ -286,6 +286,7 @@ evanjil - evangelho
 ####F - F  
 fa - fazer  
 fa asar - efetuar  
+fa dante - morder  
 fa valu - valorar  
 fa vote - votar  
 fan - lama (lodo)  
@@ -363,10 +364,10 @@ gitar - guitarra
 giuke - jade  
 glisu - deslizar  
 gluta - colar (aderir)  
-gluti - pegajoso (adesivo)  
-glutobende - penso (band-aid)  
-glutofan - argila  
-glutograf - adesivo  
+glute bande - penso (band-aid)  
+glute fan - argila  
+glute grafi - adesivo  
+glute li - pegajoso (adesivo)  
 gol - meta (gol)  
 gorila - gorila  
 goton - algodão  
@@ -550,6 +551,7 @@ ke - o que
 ke jan - quem  
 ke sate - quando  
 kerne - núcleo (cerne)  
+kesha na di - despelado  
 kim - substância  
 kimem - elemento químico  
 kimlojia - química  
@@ -773,8 +775,8 @@ muskulbin - fisiculturismo
 muzike - música  
 ####N - N  
 na - sem  
-nadiri - raro  
-nadiro - raramente  
+nadir - raro  
+nadir mar - raramente  
 najis - poluição  
 nama - carne  
 namkitaba - assinar  
@@ -838,7 +840,7 @@ ostoshalke - escudo
 pa - pai  
 pa ke - onde  
 pa lin - online  
-pache - paz  
+pace - paz  
 pachiste - pacifista  
 padomosim - outono  
 pagre - turbante  
@@ -988,6 +990,9 @@ sang - sangue
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
 sar - cabeça  
+sar kesha - cabelo  
+sar kesha na di - calvo  
+sar na di - acéfalo  
 sate - momento (instante)  
 sati - momentâneo  
 Saturne - Saturno  
@@ -1166,6 +1171,7 @@ ventur - aventura
 ventur ja - aventureiro  
 Venus - Vénus  
 ver - verdadeiro  
+veranda - sacada (varanda)  
 verme - verme  
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  

@@ -171,13 +171,16 @@ Belize - Belize
 Benin - Benin  
 beninkaza szorstka (beninkaza woskodajna, woszcza szorstka) - mummelon  
 benzyna - benzin  
-beret - berete  
+beret - bere  
 berkel - berkelium  
 Bermudy - Bermuda  
 beryl - berilium  
 beton - beton  
 bez - na  
+bezgłowy - sar na di  
+beznadziejny - asha na di  
 bezpieczny - sekuri  
+bezzębny - dante na di  
 Bhutan - Butan  
 Białoruś - Belarus  
 biały - baki  
@@ -312,7 +315,7 @@ chcieć, pragnąć - vol
 chciwy (żądny) - tami  
 chemia - kimlojia  
 chemiczny - kimi  
-cherubin - kerube  
+cherubin - kerubi  
 Chile - Chile  
 Chiny - Junguo  
 chleb - pan  
@@ -393,7 +396,7 @@ czas (epoka, era) - durzam
 czas - zaman  
 czas; okazja - mar  
 czasownik - karma loga  
-czaszka - saroste  
+czaszka - sar oste  
 czekać - deng  
 czekolada - choklate  
 czempion - champion  
@@ -454,7 +457,7 @@ deska - mokoban
 deszcz - shava  
 deszczowy -   
 detal, szczegół - detal  
-dewanagari - deu nagra harfi  
+dewanagari - deu nagar harfi  
 dezaktualizować (pogorszyć) - dusdarja  
 diabelski, szatański - shatani  
 diabeł, szatan - shatan  
@@ -560,7 +563,7 @@ dół, jama, wydobycie, wykop, wykopalisko - kave
 dół, spód - tal  
 dąb - balute  
 dąb szypułkowy - europobalute  
-dąb zębaty - dantobalute  
+dąb zębaty - dante balute  
 długi - longi  
 długość - longia  
 długość geograficzna - ging cirke  
@@ -711,7 +714,7 @@ gitara - gitar
 glazura (emalia) - kanchodake  
 gleba bielicoziemna - huidarte  
 glin (aluminium) - alumin  
-glina - glutofan  
+glina - glute fan  
 globalny (światowy) - panduni  
 globalny - duni  
 glutaminian sodu - vijin  
@@ -827,7 +830,7 @@ herbata - chai
 herc - herze  
 heteroromantyczny - alo romanse  
 heteroseksualny - alo sexe li  
-hełm - sarkaske  
+hełm - sar kaske  
 higiena - salsafia  
 Himalaje - Himalia  
 hinduistyczny - Hindu  
@@ -935,7 +938,7 @@ ja, mnie - mi
 jabłko - aple  
 jabłko cukrowe - ata  
 jadalnia - yam kamar  
-jagoda - bere  
+jagoda - beri  
 jajko (jajo) - anda  
 jak (zwierzę) - yake  
 jak, niż, od - ka  
@@ -1293,7 +1296,7 @@ lejek - riutube
 lekcja - shula  
 lekki - legi  
 lepić (kleić) - gluta  
-lepki (kleisty) - gluti  
+lepki (kleisty) - glute li  
 Lesotho - Soto  
 lew - sing  
 lewa strona - lefte  
@@ -1465,12 +1468,12 @@ metoda, sposób - metode
 metr - mitre  
 metro - tunel tren  
 miast, miasteczko - citi  
-miasto - nagre  
+miasto - nagar  
 miecz - katane  
 miedź - kupre  
 miejsce, lokacja - loke  
 miejscowy, lokalny - loki  
-miejski - nagri  
+miejski - nagar di  
 mielić - molia  
 miesiąc - lun  
 mieszkać - doma  
@@ -1826,7 +1829,7 @@ omszały (mszysty) - mosi
 on, ona, ono - ya  
 oni - yamen  
 online (na linii, w sieci) - pa lin  
-opaska do włosów - keshbende  
+opaska do włosów - kesha bande  
 opcja (wybór) - chuzable  
 opinia, pogląd - rai  
 opis, przedstawienie; wykres - grafi  
@@ -2078,7 +2081,7 @@ pokaz, ekspozycja, wystawa - shou
 poker - poke  
 pokolenie (generacja) - jengrupe  
 pokrycie; pokrywa, wieko, dekiel; pokład - dake  
-pokój - pache  
+pokój - pace  
 pokój rozmów, chat - blabla kan  
 pokój, sala - kamar  
 pole widzenia - vide meden  
@@ -2230,8 +2233,8 @@ promieniowanie - radi
 promieniować - radi  
 promień - radi  
 promień światła - foto rade  
-proroctwo - nabe  
-prorok - naber  
+proroctwo - nabi  
+prorok - nabi ja  
 prorok Mani - Manihai  
 prosić - ching  
 prostopadły - ortogoni  
@@ -2490,7 +2493,7 @@ ryś rudy - lal linche
 ryż - ris  
 rzadki (nieczęsty) - rari  
 rzadki (rozrzedzony, rozproszony) - an jami li  
-rzadko - nadiro  
+rzadko - nadir mar  
 rzadkość - raria  
 rzecz - she  
 rzeczownik - namloge  
@@ -2759,14 +2762,14 @@ szala  - shalke
 szaleństwo - folia  
 szalony - foli  
 szaman - shaman  
-szampon - keshosabun  
+szampon - kesha sabun  
 Szanghaj - shanghai  
 szansa - chanse  
 szariat - islam din sharia  
 szary - huirang  
 szaszłyk - shish nama  
 szczepionka - vacin  
-szczoteczka do zębów - dantobrosh  
+szczoteczka do zębów - dante brosh  
 szczotka - brosh  
 szczyt (wierzchołek) - shanpike  
 szef, kierownik - shefe  
@@ -2865,7 +2868,7 @@ tarcza - defban
 tatuaż - tatu*  
 taxi, taksówka - taksogar  
 taśma - tepe  
-taśma; bandaż - bende  
+taśma; bandaż - bande  
 tchórz, fretka - furete  
 technet - teknium  
 technika, technologia - tehne  
@@ -3094,7 +3097,7 @@ welon (woalka) - hijabu
 Wenezuela - Venezuela  
 Wenus - Venus  
 Wenzhou - Venjou  
-weranda, balkon, taras, ganek - berande  
+weranda, balkon, taras, ganek - veranda  
 wermut - vermute  
 wersja (wariacja, edycja, wydanie) - version  
 wesoły, ucieszony - suki  
@@ -3292,7 +3295,8 @@ własność (mienie) - mal
 właściciel (posiadacz) - malan  
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - nevo  
-włos - kesh  
+włos - kesha  
+włosy - sar kesha  
 włókno - linem  
 ####X - X  
 ####Y - Y  
@@ -3456,7 +3460,7 @@ zsumować, sumować, dodać, dodawać - suma
 zulu - Zulu  
 zupa - supe  
 zwinny, sprawny - agile  
-związać, wiązać; zapiąć, zapinać - benda  
+związać, wiązać; zapiąć, zapinać - bande  
 związek, powiązanie, połączenie - guanshe  
 zwiększyć o jeden - mashdarja  
 zwycięstwo, wygrana - sheng  
@@ -3483,7 +3487,7 @@ zły, zrujnowany, zepsuty - harabu
 łapać rybę - kape yo pesh  
 łapać rybę - saida pesh  
 łatwy, prosty - fasili  
-ławka - benche  
+ławka - benchi  
 łazienka - banya kamar  
 łańcuch - silsil  
 łodyga (tors, pień, trzon) - tan  

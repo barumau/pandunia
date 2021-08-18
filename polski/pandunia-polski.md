@@ -149,6 +149,7 @@ asal di - źródłowy, początkowy, oryginalny
 asan - postawa ciała; asana  
 asar - rezult, wynik  
 asha - nadzieja, życzenie  
+asha na di - beznadziejny  
 Ashur - Aszur  
 Ashur desha - Asyria  
 asia - azjatycki  
@@ -213,6 +214,8 @@ ban - tablica (deska)
 ban gem - gra planszowa  
 banana - banan  
 banda - zespół (drużyna, grupa)  
+bande - związać, wiązać; zapiąć, zapinać  
+bande - taśma; bandaż  
 bandera - flaga, sztandar  
 bangla basha - banglijski  
 Bangladesha - Bangladesz  
@@ -289,14 +292,11 @@ Belarus - Białoruś
 Belgia - Belgia  
 Belize - Belize  
 ben - dziecko, potomek  
-benche - ławka  
-benda - związać, wiązać; zapiąć, zapinać  
-bende - taśma; bandaż  
+benchi - ławka  
 Benin - Benin  
 benzin - benzyna  
-berande - weranda, balkon, taras, ganek  
-bere - jagoda  
-berete - beret  
+bere - beret  
+beri - jagoda  
 berilium - beryl  
 berje - brzoza  
 berkelium - berkel  
@@ -529,8 +529,9 @@ danke - dzięki, dzięki ci
 danse - taniec  
 dansekuri - kuloodporny  
 dante - ząb  
-dantobalute - dąb zębaty  
-dantobrosh - szczoteczka do zębów  
+dante balute - dąb zębaty  
+dante brosh - szczoteczka do zębów  
+dante na di - bezzębny  
 dantomediker - dentysta  
 darba - bić, uderzyć, uderzać  
 darje - stopień, poziom, ranga, klasa  
@@ -589,7 +590,7 @@ deu kata - mit (boska opowieść)
 deu krati - teokracja  
 deu li - boski  
 deu logi - teologia  
-deu nagra harfi - dewanagari  
+deu nagar harfi - dewanagari  
 deu sofi - teozofia  
 di - mieć (partykuła posiadania)  
 dika - celować  
@@ -1035,9 +1036,9 @@ giuke - żad
 glisu - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
 gluta - lepić (kleić)  
 glute - klej  
+glute fan - glina  
+glute li - lepki (kleisty)  
 gluten - gluten  
-gluti - lepki (kleisty)  
-glutofan - glina  
 gol - cel  
 gola - przeznaczyć  
 golem - golem  
@@ -1543,10 +1544,10 @@ kerni darunia - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
 kerni energe - energia nuklearna  
 kerni fenia - rozszczepienie jądra atomowego  
 kerni fizikia - fizyka nuklearna  
-kerube - cherubin  
-kesh - włos  
-keshbende - opaska do włosów  
-keshosabun - szampon  
+kerubi - cherubin  
+kesha - włos  
+kesha bande - opaska do włosów  
+kesha sabun - szampon  
 ketle - czajnik  
 kilogram - kilogram (kg)  
 kilomitre - kilometr  
@@ -2178,12 +2179,12 @@ muziker - muzyk
 Myanma - Mjanma, Birma  
 ####N - N  
 na - bez  
-nabe - proroctwo  
-naber - prorok  
-nadiro - rzadko  
+nabi - proroctwo  
+nabi ja - prorok  
+nadir mar - rzadko  
 nafas - oddech  
-nagre - miasto  
-nagri - miejski  
+nagar - miasto  
+nagar di - miejski  
 nahun - paznokieć  
 Naijiria - Nigeria  
 nama - mięso  
@@ -2378,7 +2379,7 @@ pa ke - gdzie
 pa lin - online (na linii, w sieci)  
 pa no lin - offline (nie na linii, poza siecią)  
 pa u loka - tu (tutaj, tam)  
-pache - pokój  
+pace - pokój  
 Pachi Hai - Ocean Spokojny (Pacyfik)  
 pachiste - pacyfista  
 pachistia - pacyfizm  
@@ -2864,8 +2865,10 @@ sapate - but
 sapater - szewc  
 sapatokan - warsztat szewski  
 sar - głowa  
-sarkaske - hełm  
-saroste - czaszka  
+sar kaske - hełm  
+sar kesha - włosy  
+sar na di - bezgłowy  
+sar oste - czaszka  
 sate - moment  
 sati - chwilowy  
 satodona - dedykować (poświęcać, poświęcić)  
@@ -3404,6 +3407,7 @@ ventur - przygoda
 ventur ja - poszukiwacz przygód (awanturnik)  
 Venus - Wenus  
 ver - prawdziwy (rzeczywisty, szczery)  
+veranda - weranda, balkon, taras, ganek  
 verme - robak  
 vermute - wermut  
 version - wersja (wariacja, edycja, wydanie)  

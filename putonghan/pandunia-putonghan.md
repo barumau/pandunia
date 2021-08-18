@@ -64,6 +64,7 @@ arte ja - 美术家
 asal - 起源  
 asal di - 原始的  
 asar - 影响  
+asha na di - 没有希望的  
 asma - 气喘  
 aspirin - 阿司匹林  
 astro - 天体  
@@ -125,8 +126,7 @@ be’e - 山羊
 bebe - 宝宝  
 bekofan - 陶瓦  
 bel - 铲  
-berande - 阳台  
-bere - 浆果 (莓)  
+beri - 浆果 (莓)  
 berje - 桦树  
 bete - 甜菜頭  
 bil - 会 (可能)  
@@ -207,8 +207,7 @@ daisheke - 磐石
 daivaze - 炼药锅  
 danger - 钟 (摇铃)  
 dani - 丹麦的  
-danta - 咬  
-dantobalute - 槲树  
+dante balute - 槲树  
 darjomute - 发展 (开发)  
 date - 数据  
 datobanke - 数据库  
@@ -220,7 +219,7 @@ den - 白天
 desha jan - 公民  
 deu - 神  
 deu kata - 神话  
-deu nagra harfi - 天城文  
+deu nagar harfi - 天城文  
 dika - 瞄准  
 dike - 目的 (目标)  
 din - 宗教  
@@ -274,6 +273,7 @@ europobalute - 夏櫟
 evanjil - 福音  
 ####F - F  
 fa - 作  
+fa dante - 咬  
 fa vode - 许诺  
 faidia - 效用 (好处)  
 fan - 坭  
@@ -348,10 +348,10 @@ ginglin - 經紗
 gitar - 吉他  
 giuke - 玉  
 glisu - 滑下  
-gluti - 黏的  
-glutobende - 创可贴 (邦迪)  
-glutofan - 黏土  
-glutograf - 贴纸  
+glute bande - 创可贴 (邦迪)  
+glute fan - 黏土  
+glute grafi - 贴纸  
+glute li - 黏的  
 gol - 目的  
 gorila - 大猩猩  
 goton - 棉  
@@ -541,6 +541,7 @@ ke - 什么
 kechi - 客气  
 keger - 客人  
 kerne - 核心  
+kesha na di - 无毛  
 kim - 物质  
 kimem - 元素  
 kimlojia - 化学  
@@ -757,7 +758,7 @@ mushu - 鼠
 muskulbin - 健美运动  
 muzike - 音乐  
 ####N - N  
-nadiro - 很少  
+nadir mar - 很少  
 najis - 污染物  
 najisa - 污染  
 nama - 肉  
@@ -815,7 +816,7 @@ pa de ma - 奶奶 (祖母)
 pa de pa - 爷爷 (祖父)  
 pa lin - 在线  
 pa no lin - 离线  
-pache - 和平  
+pace - 和平  
 pachiste - 和平主义者  
 pachistia - 和平主义  
 pagre - 包头  
@@ -953,6 +954,9 @@ sante kanon - 圣经
 sanzong - 三叉戟  
 sapate - 鞋  
 sar - 头  
+sar kesha - 头发  
+sar kesha na di - 秃头的  
+sar na di - 无头的  
 sate - 时刻 (瞬间)  
 Saturne - 土星  
 savovol - 趣  
@@ -1145,6 +1149,7 @@ Venjou - 温州
 venjou oranje - 温州蜜柑  
 ventur - 冒险  
 ventur ja - 冒险者  
+veranda - 阳台  
 veze di - 重型的  
 vice ma - 继母  
 vice pa - 继父  

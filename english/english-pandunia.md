@@ -29,7 +29,7 @@ active (on, enabled) - karma ja
 actor (actress) - roler  
 additional - mashi  
 address - adres  
-adhesive bandage (band-aid, sticking plaster) - glutobende  
+adhesive bandage (band-aid, sticking plaster) - glute bande  
 adjective - sifloge  
 administer (govern) - polita  
 administrator - politer  
@@ -271,12 +271,13 @@ Bahrain - Bahrain
 bake - beka  
 baker - beker  
 bakery (bakehouse) - bekokan  
+bald-headed - sar kesha na di  
 ball - bol  
 balloon - balon  
 bamboo - bambu  
 banana - banana  
 band (squad, group) - banda  
-band (tape, bandage) - bende  
+band (tape, bandage) - bande  
 bandage (strip, ribbon) - fashe  
 Bangladesh - Bangladesha  
 banister (handrail) - langan  
@@ -357,15 +358,15 @@ belly (stomach, abdomen) - pete
 belong (be a member) - memba  
 belong - malu  
 belt (zone) - zona  
-bench - benche  
+bench - benchi  
 beneficial (good) - evi  
 Bengali language (Bangla) - bangla basha  
 Benin - Benin  
-beret - berete  
+beret - bere  
 berkelium - berkelium  
 Berlin - Berlin  
 Bermuda - Bermuda  
-berry - bere  
+berry - beri  
 berth (couchette) - kushloke  
 beryllium - berilium  
 Bhutan - Butan  
@@ -390,7 +391,7 @@ birthplace - jenistan
 biscuit (cookie) - biskute  
 bisexual - dulseksi  
 bismuth - bismute  
-bite - danta  
+bite - fa dante  
 bitter - kali guste  
 bitter melon - kali melon  
 bitter orange - kali oranje  
@@ -630,7 +631,7 @@ chemical - kimi
 chemical element - kimem  
 chemistry - kimlojia  
 cherry - cheri  
-cherub - kerube  
+cherub - kerubi  
 chess - shatranje  
 chest (breast) - sine  
 chestnut - kastan  
@@ -676,7 +677,7 @@ classic (canon) - kanon
 classic (classical) - chenyangi  
 classify (categorize) - klasa  
 classroom - shula kamar  
-clay - glutofan  
+clay - glute fan  
 clean (pure) - safa  
 clean (purify) - fa safa  
 cleaner - safer  
@@ -887,7 +888,7 @@ Czech Republic - Cheska
 Côte d’Ivoire (Ivory Coast) - Kote Da Ivar  
 ####D - D  
 dagger - kanjar  
-daimyo oak - dantobalute  
+daimyo oak - dante balute  
 daisy - margarite  
 damage (injury, harm) - avar  
 damaged (corrupt) - avar di  
@@ -954,7 +955,7 @@ despise (scorn) - paraya
 destine (set) - gola  
 destiny (fate) - nasibe  
 detail - detal  
-Devanagari alphabet - deu nagra harfi  
+Devanagari alphabet - deu nagar harfi  
 development - darjomute  
 devil (Satan) - shatan  
 devilish (satanic) - shatani  
@@ -1549,8 +1550,10 @@ Guyana - Guyana
 ####H - H  
 habit (custom) - ada  
 hafnium - hafnium  
-hair - kesh  
-hairband (headband) - keshbende  
+hair - kesha  
+hair of the head - sar kesha  
+hairband (headband) - kesha bande  
+hairless - kesha na di  
 Haiti - Haiti  
 halo (aureola) - foto sirke  
 halve (divide by two) - dulo fena  
@@ -1578,6 +1581,7 @@ hay - gan cau
 hazard (chance) - zar  
 he or she or it - ya  
 head - sar  
+headless - sar na di  
 headmaster (principal) - shula shefe  
 heal (cure, remedy) - medika  
 health - salia  
@@ -1592,7 +1596,7 @@ helicopter - helisviman
 helium - helium  
 hell - narake  
 hello (hi) - halo  
-helmet - sarkaske  
+helmet - sar kaske  
 help (aid, assistance) - helpe  
 help (assist) - helpa  
 helper (supporter, proponent, backer) - helpeja  
@@ -1649,6 +1653,7 @@ Hong Kong, SAR China - Hong Gong
 honorable (respectable) - onori  
 hook - huke  
 hope (wish) - asha  
+hopeless - asha na di  
 horizon - tenkenar  
 hormone - hormon  
 horn - korne  
@@ -1885,6 +1890,7 @@ kumquat - kankuate
 Kuwait - Kuvaitia  
 Kyrgyzstan - Kirgizia  
 ####L - L  
+lacking (-less) - na di  
 lacquer (varnish) - laka  
 Lagos - Lagos  
 lake - lage  
@@ -2605,7 +2611,7 @@ pause (break, interruption) - pauze
 pause (interrupt) - pauza  
 pay - peya  
 payment - pei  
-peace - pache  
+peace - pace  
 peanut (groundnut) - geo dou  
 pear - leze  
 pearl - lul  
@@ -2831,8 +2837,8 @@ pronoun - vice loga
 pronounce (articulate) - fona  
 proof (evidence, proof, demonstration, testimony) - dalil  
 property (belongings, possessions) - mal  
-prophecy - nabe  
-prophet - naber  
+prophecy - nabi  
+prophet - nabi ja  
 prophet Mani - Manihai  
 protactinium - protacinium  
 protect (secure, save) - sekura  
@@ -2896,7 +2902,7 @@ Ramadan - ramazan
 ramp (incline, slope) - rampe  
 random - zar di  
 rank (position in an ordered list) - ode  
-rare (scarce, uncommon) - nadiri  
+rare (scarce, uncommon) - nadir  
 rare (uncommon, sparse) - rari  
 rarity - raria  
 rational (reasonable) - razoni  
@@ -3130,7 +3136,7 @@ seed (fertilized grain) - semdan
 seed (semen) - seme  
 seem - rupu  
 seismology - sismologi  
-seldom (rarely) - nadiro  
+seldom (rarely) - nadir mar  
 selenium - selenium  
 self (identity) - auto  
 self (reflexive pronoun) - se  
@@ -3164,7 +3170,7 @@ shake (jolt, earthquake) - sismo
 shallow - faskaribi  
 shaman - shaman  
 shame (disgrace) - sharme  
-shampoo - keshosabun  
+shampoo - kesha sabun  
 Shanghai - shanghai  
 shape (sculpt) - forma  
 share - komuna  
@@ -3230,7 +3236,7 @@ skill (art, craft) - shutu
 skillful (crafty) - shututabi  
 skin (peel, bark, leather) - pil  
 skirt - jupe  
-skull - saroste  
+skull - sar oste  
 sky (heaven) - ten  
 slab (slate, tablet, board) - table  
 Slavic - Slave  
@@ -3371,8 +3377,8 @@ step-parent - chin gam
 step-sibling - chin gam ben  
 stereophonic - dulsondi  
 stick (adhere, paste, glue) - gluta  
-sticker - glutograf  
-sticky (ahesive) - gluti  
+sticker - glute grafi  
+sticky (ahesive) - glute li  
 stipulate - sharta  
 stone (piece of rock) - sheke  
 stop (halt) - tinga  
@@ -3579,7 +3585,7 @@ Thursday - var chatre
 Tibet - Botia  
 tick (mite) - akare  
 ticket - tikete  
-tie (fasten, bind) - benda  
+tie (fasten, bind) - bande  
 tie a knot - noda  
 tiger - bagre  
 tight (tense) - tensi  
@@ -3616,7 +3622,8 @@ too little - min ka bas
 too much - mash ka bas  
 tool - tul  
 tooth - dante  
-tooth brush - dantobrosh  
+tooth brush - dante brosh  
+toothless - dante na di  
 top (peak, pinnacle, summit, apex, vertex) - shanpike  
 top (spinning top) - rototope  
 top - gau  
@@ -3629,7 +3636,7 @@ tourism - safaristia
 tourist - safariste  
 towel - gan texe  
 tower - minar  
-town - nagre  
+town - nagar  
 toxic (poisonous, venomous) - toksi  
 toxicology - toksilogi  
 toxin - bio tokse  
@@ -3730,7 +3737,7 @@ upload - netodona
 upper - supri  
 uranium - uranium  
 Uranus - Uran  
-urban - nagri  
+urban - nagar di  
 Urdu - urdi  
 Uruguay - Uruguai  
 usable (available) - usable  
@@ -3764,7 +3771,7 @@ vegetarian - fito yam jui ja
 veil (cover, screen) - hijabu  
 Venezuela - Venezuela  
 Venus - Venus  
-veranda (balcony, terrace, porch) - berande  
+veranda (balcony, terrace, porch) - veranda  
 verb - karma loga  
 verbal irony (sarcasm) - logironia  
 verify (authenticate) - fa ver  
@@ -3849,7 +3856,7 @@ weep (cry) - kuga
 weft - vei lin  
 weight (heft, gravity) - veze  
 welcome! - salam lai  
-well (now; used to introduce a statement) - na  
+well (now; used to introduce a statement) - nu  
 well-being (prosperity) - salamia  
 Welsh - kamri  
 Wenzhou - Venjou  

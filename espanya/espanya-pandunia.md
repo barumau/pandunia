@@ -54,7 +54,7 @@ acuerdo - samrayia
 acuoso - suyi  
 adelante - jino  
 además - masho  
-adhesivo - glutograf  
+adhesivo - glute grafi  
 adicional (extra) - mashi  
 adiós - salam chute  
 adjetivo - sifloge  
@@ -216,7 +216,7 @@ arca de la Alianza - liga di sanduku
 arca de Noé - Noe di nave  
 archipiélago - nesia grupe  
 archipiélago de Hawái - Havai nesia  
-arcilla (barro) - glutofan  
+arcilla (barro) - glute fan  
 arco - arka  
 arco iris - rangarke  
 ardiente (encendido) - hogi  
@@ -281,7 +281,7 @@ asunto (caso) - sualtem
 asustador - fobani  
 asustar (atemorizar) - foba  
 ataque - agres  
-atar (amarrar) - benda  
+atar (amarrar) - bande  
 Atenas - Athina  
 ateo - an deu jui ja  
 attracción (-filia) - filia  
@@ -333,16 +333,16 @@ bahía - bai
 baile (danza) - danse  
 bajar - tala  
 bajo - tali  
-balcón (terraza, veranda) - berande  
+balcón (terraza, veranda) - veranda  
 balde (cubo) - balde  
 baldosa (teja, azulejo) - tail  
 ballesta - krusarke  
 baloncesto (básquetbol) - baske bol  
 bambú - bambu  
-banco (silla) - benche  
+banco (silla) - benchi  
 banco - banke  
 banco de datos (base de datos) - datobanke  
-banda (cinta) - bende  
+banda (cinta) - bande  
 banda - banda  
 bandera - bandera  
 Bangladés - Bangladesha  
@@ -371,7 +371,7 @@ base - baze
 bastante - basi  
 basura (desechos) - laji  
 batidora (licuadora, mezcladora) - misher  
-baya - bere  
+baya - beri  
 bañarse - banya  
 bañera - banya  
 baño - banya kamar  
@@ -413,7 +413,7 @@ boca - boke
 bodega - vin kan  
 bohrio - borium  
 boicot - boikote  
-boina - berete  
+boina - bere  
 bola - bol  
 boleto - tikete  
 Bolivia - Bolivia  
@@ -473,6 +473,7 @@ búbalo (arni) - karbau
 ####C - C  
 caballo - uma  
 cabaña - kabin  
+cabello - sar kesha  
 cabeza - sar  
 cable - eletrolin  
 Cabo Verde - Kabu Verde  
@@ -514,6 +515,7 @@ califa - halif
 califato - halifia  
 californio - kalifornium  
 caliza - kalsopetre  
+calvo - sar kesha na di  
 cama - bede  
 camarón - krevete  
 cambiar (demudar) - ala  
@@ -584,7 +586,7 @@ casa (hogar, residencia) - dom
 casado - gami  
 casamiento - gamia  
 casar - gama  
-casco (yelmo) - sarkaske  
+casco (yelmo) - sar kaske  
 casi (aproximadamente) - karibo  
 casta - jenklas  
 castaña - kastan  
@@ -622,7 +624,7 @@ centro - jung
 centímetro - centimitre  
 cepillar con garlopa - randa  
 cepillo (brocha) - brosh  
-cepillo de dientes - dantobrosh  
+cepillo de dientes - dante brosh  
 cera (lacre) - mum  
 cerca - karibi  
 cerdo (puerco) - goro  
@@ -641,7 +643,7 @@ Chad - Chade
 Champaña - shampan  
 champaña - shampan vin  
 champiñón (seta) - fungu frute  
-champú - keshosabun  
+champú - kesha sabun  
 chamán (brujo, hechicero) - shaman  
 chapati (pan sin levadura) - chapati  
 chaqueta - jake  
@@ -672,7 +674,7 @@ cigarro - sigar
 cima (pico, cumbre, vértice) - shanpike  
 cinc - zinke  
 cinco (5) - penta  
-cinta (cinta para el pelo) - keshbende  
+cinta (cinta para el pelo) - kesha bande  
 cinta adhesiva - tepe  
 cinturón (zona) - zona  
 cinético - kini  
@@ -883,7 +885,7 @@ crudo - jeni
 crueldad (tiranía) - zalimta  
 cruz - krus  
 cruzar - krusu  
-cráneo (calavera) - saroste  
+cráneo (calavera) - sar oste  
 crítico (fundamental) - krizi  
 crítico - pipinger  
 crónico - duri  
@@ -916,7 +918,7 @@ cumpleaños - jenden
 cupón (vale) - kupon  
 curar (sanar) - medika  
 curio - kurium  
-curita (apósito) - glutobende  
+curita (apósito) - glute bande  
 curva - kurve  
 curvo - kurvi  
 cuál cosa - ke she  
@@ -1007,7 +1009,9 @@ desayuno - subyam
 descanso (alivio) - shante  
 descargar - netogeta  
 descriptivo - sifi  
+desdentado - dante na di  
 deseo - vol she  
+desesperado - asha na di  
 desfigurar - dusforma  
 desierto - registan  
 deslizar - glisu  
@@ -1021,7 +1025,7 @@ destinar - gola
 destino - nasibe  
 detalle - detal  
 detestar - an ai  
-devanágari - deu nagra harfi  
+devanágari - deu nagar harfi  
 devolver (vomitar) - retrogula  
 diagonal - transogoni  
 diamante - almas  
@@ -2231,7 +2235,7 @@ monólogo - auto loga
 morado (púrpura) - viyolete blu  
 moral (ético) - deki  
 moralidad (ética) - deke  
-morder - danta  
+morder - fa dante  
 morfema - morfem  
 morfo - morfe  
 morirse - mortu  
@@ -2563,7 +2567,7 @@ patrimonio (herencia, legado) - varis
 patógeno - patojener  
 pausa - pauze  
 pavo (guajalote) - dinde  
-paz - pache  
+paz - pace  
 país (nación, estado, terra) - desha  
 país extranjero - eshdesh  
 Países Bajos - Nederlandia  
@@ -2577,16 +2581,17 @@ pedir (invitar; por favor) - ching
 pedir prestado - jekogeta  
 pedo - pede  
 peer - peda  
-pegajoso (adhesivo) - gluti  
+pegajoso (adhesivo) - glute li  
 pegamento (pega, goma) - glute  
 pegar - gluta  
 pegar - peya  
 peine - kang  
 Pekín - Beijing  
+pelado (desvellado) - kesha na di  
 pelea (guerra, batalla) - jeng  
 peligro - hatar  
 peligroso - hatar li  
-pelo - kesh  
+pelo - kesha  
 película (film, membrana) - filme  
 película (filme) - kinograf  
 pena (tristeza) - duke  
@@ -2770,11 +2775,11 @@ problemático - problemi
 proceso (procedimiento) - proses  
 producción - cana ya  
 producir (hacer, preparar) - cana  
-profecía - nabe  
+profecía - nabi  
 profesional (de carrera) - pei gung di  
 profesión (ocupación) - pei gung  
 profesor - profeser  
-profeta - naber  
+profeta - nabi ja  
 profeta Mani - Manihai  
 profundo (hondo) - fasteli  
 programa - program  
@@ -2807,7 +2812,7 @@ puaj - fui
 pudrirse (cariarse, descomponerse) - pudu  
 pudín - puding  
 pueblo (población) - demo  
-pueblo - nagre  
+pueblo - nagar  
 puente - pul  
 puerro (cebolla larga) - porei  
 puerta - mun  
@@ -2840,7 +2845,7 @@ quemarse - hogu
 querer (desear) - vol  
 querer (disponer) - icha  
 querido - ami  
-querubín - kerube  
+querubín - kerubi  
 queso - chize  
 queso fresco - panir  
 quilate - kirate  
@@ -2874,9 +2879,9 @@ Ramadán - ramazan
 rampa (cuesta) - rampe  
 rana - krokroke  
 rapidez (velocidad) - rapidia  
-raramente - nadiro  
+raramente - nadir mar  
 raro (extraño) - bizar  
-raro - nadiri  
+raro - nadir  
 raro - rari  
 rasgar (romper) - chir  
 rasgar (romper) - chira  
@@ -2976,7 +2981,7 @@ riñon - nefre
 robar (hurtar) - chora  
 roble - balute  
 roble común - europobalute  
-roble daimyo - dantobalute  
+roble daimyo - dante balute  
 robo (hurto) - chor  
 robot (bot) - robote  
 roca (piedra) - petra  
@@ -3445,7 +3450,7 @@ uno (1) - un
 unshu mikan - venjou oranje  
 uranio - uranium  
 Urano - Uran  
-urbano - nagri  
+urbano - nagar di  
 urdu - urdi  
 Uruguay - Uruguai  
 usar (aplicar) - use  

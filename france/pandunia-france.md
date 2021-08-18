@@ -137,6 +137,7 @@ asal Australia jan - aborigènes australiens
 asal di - originel  
 asan - posture (position)  
 asar - effet  
+asha na di - désespéré  
 Ashur - Assur  
 Ashur desha - Assyrie  
 asia - asiatique  
@@ -237,8 +238,7 @@ beker - boulanger
 bekofan - terre cuite  
 bel - pelle  
 ben - fils ou fille  
-berande - balcon  
-bere - baie  
+beri - baie  
 berje - bouleau  
 bete - betterave  
 bil - pouvoir (possible, capacité, peut-être)  
@@ -324,7 +324,7 @@ danger - cloche
 dani - danois  
 danko da - grâce à  
 danse - dance  
-danta - mordre  
+dante na di - édenté  
 darjomute - développement  
 date - données  
 datobanke - base de données  
@@ -336,7 +336,7 @@ defkaske - armure
 den - jour  
 deu - dieu  
 deu kata - mythe  
-deu nagra harfi - dévanagari  
+deu nagar harfi - dévanagari  
 deu sofi - théosophie  
 dika - viser  
 dike - objectif (cible)  
@@ -418,6 +418,7 @@ fa - faire
 fa ajibu - éblouir (étonner, stupéfier, surprendre)  
 fa an galta - déboguer (débugger)  
 fa asar - effectuer  
+fa dante - mordre  
 fa karma - activer (allumer, mettre en marche, déclencher)  
 fa valu - évaluer  
 fa verse - verser  
@@ -515,10 +516,10 @@ gitar - guitare
 giuke - jade  
 glisu - glisser  
 gluta - coller  
-gluti - adhésif (collant)  
-glutobende - pansement (sparadrap)  
-glutofan - argile  
-glutograf - autocollant  
+glute bande - pansement (sparadrap)  
+glute fan - argile  
+glute grafi - autocollant  
+glute li - adhésif (collant)  
 gol - but (destination)  
 gorila - gorille  
 goton - coton  
@@ -724,6 +725,7 @@ ke - que (quoi)
 ke jan - qui  
 ke sate - quand  
 kerne - coeur  
+kesha na di - glabre  
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
@@ -961,8 +963,8 @@ mushu - souris
 muskulbin - culturisme (musculation)  
 muzike - musique  
 ####N - N  
-nadiri - rare  
-nadiro - rarement  
+nadir - rare  
+nadir mar - rarement  
 najis - pollution  
 nama - viande  
 namkitaba - signer  
@@ -1032,7 +1034,7 @@ pa - a (dans, en, chez)
 pa - pere (papa)  
 pa ke - où  
 pa lin - en ligne  
-pache - paix  
+pace - paix  
 pachiste - pacifiste  
 pachokade - morue du Pacifique  
 padi - chu  
@@ -1216,6 +1218,9 @@ sanduiche - sandwich
 sang - sang  
 sante kanon - saintes écritures   
 sar - tête  
+sar kesha - cheveux  
+sar kesha na di - chauve  
+sar na di - acéphale (sans tête)  
 sati - momentané  
 Saturne - Saturne  
 se - se  
@@ -1423,6 +1428,7 @@ ventur - aventure
 ventur ja - aventurier  
 Venus - Vénus  
 ver - vrai  
+veranda - balcon  
 verme - ver  
 vermute - vermouth  
 verse - verse (face á)  

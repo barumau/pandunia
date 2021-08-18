@@ -21,8 +21,9 @@ actif - karma ja
 actinium - acinium  
 activer (allumer, mettre en marche, déclencher) - fa karma  
 actuel (courant) - zai zaman di  
+acéphale (sans tête) - sar na di  
 adapter (ajuster) - hapa  
-adhésif (collant) - gluti  
+adhésif (collant) - glute li  
 adjectif - sifloge  
 administrateur - politer  
 adresse - adres  
@@ -116,7 +117,7 @@ arctique - Artika
 argent - argente  
 argent - pese  
 Argentine - Argentina  
-argile - glutofan  
+argile - glute fan  
 argon - argon  
 argument - argum  
 argument - tese  
@@ -155,7 +156,7 @@ aubergine - bedinje
 Australie - Australia  
 Austronésie - Austronesia  
 autel - puja meza  
-autocollant - glutograf  
+autocollant - glute grafi  
 automne - padomosim  
 autre - alo  
 autrement - alo  
@@ -178,11 +179,11 @@ backgammon - narde
 bagage - bagaje  
 bah - bah  
 baie (golf) - bai  
-baie - bere  
+baie - beri  
 bain - banya  
 baisser - tala  
 balance (poids) - veze metre gi  
-balcon - berande  
+balcon - veranda  
 balle (boule) - bol  
 ballon - balon  
 bambou - bambu  
@@ -328,12 +329,14 @@ charme - charme
 chasser - saida  
 chat - mau  
 chaudron - daivaze  
+chauve - sar kesha na di  
 chauve-souris - feimush  
 chaux - kalsomate  
 chef - shefe  
 chemise - kamisa  
 cher - ami  
 chercher - soka  
+cheveux - sar kesha  
 chien - vaf  
 chimie - kimlojia  
 Chine - Junguo  
@@ -491,7 +494,8 @@ déchirer - chir
 déchirer - chira  
 défigurer - dusforma  
 désaccord (différend) - alo rai  
-dévanagari - deu nagra harfi  
+désespéré - asha na di  
+dévanagari - deu nagar harfi  
 développement - darjomute  
 ####E - E  
 east (orient) - dong  
@@ -608,6 +612,7 @@ geographie - geo grafi
 Germanie - Germania  
 gingembre - zinji  
 giraffe - jiraf  
+glabre - kesha na di  
 glace - ais  
 glacé (glacial, gelé) - ais li  
 gland - balutopal  
@@ -861,7 +866,7 @@ monde - dunia
 monnaie (pièce) - pesodiske  
 monocle - unoki lense  
 monologue - auto loga  
-mordre - danta  
+mordre - fa dante  
 morue - kade  
 morue de l'Atlantique - atlanti kade  
 morue du Pacifique - pachokade  
@@ -981,14 +986,14 @@ pacifiste - pachiste
 page - varka late  
 pain - pan  
 pair (pareil, egal) - pari  
-paix - pache  
+paix - pace  
 palais (château, manoir) - daidom  
 pamplemousse - putau oranje  
 panda - pande  
 pandémie - pandemi patia  
 panier (panier de basketball) - baske  
 panneau de signalisation - dau ban  
-pansement (sparadrap) - glutobende  
+pansement (sparadrap) - glute bande  
 pantalon - pante  
 pantomime - panmim  
 pantoufle (babouche) - babuche  
@@ -1145,9 +1150,9 @@ race - ras
 racine - mula  
 radio - radio  
 rang - ode  
-rare - nadiri  
+rare - nadir  
 rare - rari  
-rarement - nadiro  
+rarement - nadir mar  
 raton laveur - vashi urse  
 rayon de miel - medu fong nide  
 recycler - resikle  
@@ -1450,6 +1455,7 @@ zèbre - zebra
 écorce - tira pil  
 écrire - kitabu  
 écureuil - ekore  
+édenté - dante na di  
 éducation - shulia  
 égal (même) - sam  
 électricité - eletre  

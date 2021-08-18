@@ -157,6 +157,7 @@ asal di - alkuperäinen
 asan - asento  
 asar - vaikutus (tulos)  
 asha - toivoa  
+asha na di - toivoton  
 Ashur - Assur  
 Ashur desha - Assyria  
 asia - aasialainen  
@@ -220,6 +221,8 @@ ban - lauta (paneeli)
 ban gem - lautapeli  
 banana - banaani  
 banda - ryhmä (työryhmä, yhtye, bändi)  
+bande - sitoa  
+bande - nauha (side)  
 bandera - lippu  
 bangla basha - bengali  
 Bangladesha - Bangladesh  
@@ -293,14 +296,11 @@ Belgia - Belgia
 Belize - Belize  
 ben - lapsi (jälkeläinen)  
 benben - lapsenlapsi  
-benche - penkki  
-benda - sitoa  
-bende - nauha (side)  
+benchi - penkki  
 Benin - Benin  
 benzin - bensiini (bensa)  
-berande - kuisti (terassi, veranta, parveke)  
-bere - marja  
-berete - baskeri (baretti)  
+bere - baskeri (baretti)  
+beri - marja  
 berilium - berylli  
 berje - koivu  
 berkelium - berkelium  
@@ -539,9 +539,9 @@ danke - kiitos
 danko da - ansiosta  
 danse - tanssi  
 dansekuri - luodinkestävä  
-danta - purra  
 dante - hammas  
-dantobrosh - hammasharja  
+dante brosh - hammasharja  
+dante na di - hampaaton  
 dantomediker - hammaslääkäri  
 darba - lyödä (iskeä)  
 darje - porras (aste, taso)  
@@ -601,7 +601,7 @@ deu kata - jumaltaru (myytti)
 deu krati - teokratia  
 deu li - jumalallinen  
 deu logi - teologia  
-deu nagra harfi - devanagari  
+deu nagar harfi - devanagari  
 deu sofi - teosofia  
 di - -n (oma)  
 dika - osoittaa (tähdätä)  
@@ -817,6 +817,7 @@ fa an galta - poistaa virheitä (debugata)
 fa an karma - poistaa toiminnasta  
 fa asar - vaikuttaa  
 fa avar - vahingoittaa (vaurioittaa)  
+fa dante - purra  
 fa ja - tekijä (toimija)  
 fa karma - panna toimintaan  
 fa no zai - poistaa (hävittää)  
@@ -1091,11 +1092,11 @@ giuke - jade
 glisu - liukua (luistaa)  
 gluta - liimata  
 glute - liima  
+glute bande - laastari  
+glute fan - savi  
+glute grafi - tarra  
+glute li - tahmainen (liimamainen)  
 gluten - gluteeni  
-gluti - tahmainen (liimamainen)  
-glutobende - laastari  
-glutofan - savi  
-glutograf - tarra  
 gol - maali (pelissä)  
 gola - määrätä  
 golem - golem  
@@ -1593,10 +1594,11 @@ kerni darunia - ydinfuusio
 kerni energe - ydinenergia  
 kerni fenia - ydinfissio  
 kerni fizikia - ydinfysiikka  
-kerube - kerubi  
-kesh - hius (karva, tukka, hiukset)  
-keshbende - hiuspanta  
-keshosabun - šampoo  
+kerubi - kerubi  
+kesha - hius (karva, tukka, hiukset)  
+kesha bande - hiuspanta  
+kesha na di - karvaton  
+kesha sabun - šampoo  
 ketle - kattila  
 kilogram - kilogramma  
 kilomitre - kilometri  
@@ -2178,14 +2180,14 @@ muzike - musiikki
 muziker - muusikko  
 Myanma - Myanmar (Burma)  
 ####N - N  
-na - ilman  
-na - no  
-nabe - profetia  
-naber - profeetta  
-nadiri - harvinainen  
-nadiro - harvoin  
+na - ilman (puuttua)  
+na di - ilman oleva (-ton)  
+nabi - profetia  
+nabi ja - profeetta  
+nadir - harvinainen  
+nadir mar - harvoin  
 nafas - hengitys (henkäys)  
-nagre - kaupunki  
+nagar - kaupunki  
 nahun - kynsi  
 Naijiria - Nigeria  
 nama - liha  
@@ -2315,6 +2317,7 @@ notana - huomauttaa
 note - huomio (kommentti, merkintä)  
 note buku - muistikirja  
 notite - huomautus  
+nu - no  
 nudi - alaston (paljas, naku)  
 nudiste - nudisti  
 nudistia - nudismi  
@@ -2375,7 +2378,7 @@ pa de ma - isänäiti
 pa de pa - isänisä  
 pa ke - missä?  
 pa u loka - siellä (tuolla)  
-pache - rauha  
+pace - rauha  
 Pachi Hai - Tyyni valtameri  
 pachiste - pasifisti  
 pachistia - rauhanaate (pasifismi)  
@@ -2826,8 +2829,11 @@ sapate - kenkä
 sapater - suutari  
 sapatokan - suutarin paja  
 sar - pää  
-sarkaske - kypärä  
-saroste - pääkallo  
+sar kaske - kypärä  
+sar kesha - hius (hiukset)  
+sar kesha na di - kaljupäinen  
+sar na di - päätön  
+sar oste - pääkallo  
 sate - hetki (kotva, ajankohta)  
 sati - hetkellinen  
 Saturne - Saturnus  
@@ -3305,6 +3311,7 @@ venjou oranje - satsuma
 ventur - seikkailu  
 ventur ja - seikkailija  
 ver - tosi (aito)  
+veranda - kuisti (terassi, veranta, parveke)  
 verme - mato  
 vermute - vermutti  
 verse - kohti (päin)  

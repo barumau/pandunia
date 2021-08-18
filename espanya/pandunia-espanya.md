@@ -152,6 +152,7 @@ asal di - original
 asan - postura (posición)  
 asar - resulta (efecto)  
 asha - esperar (desear)  
+asha na di - desesperado  
 Ashur - Assur (Ashur)  
 Ashur desha - Asiria  
 asia - asiático  
@@ -222,6 +223,8 @@ bamia - ocra
 ban gem - juego de mesa  
 banana - plátano (banana)  
 banda - banda  
+bande - atar (amarrar)  
+bande - banda (cinta)  
 bandera - bandera  
 bangla basha - idioma bengalí  
 Bangladesha - Bangladés  
@@ -295,14 +298,11 @@ Belarus - Belarús
 Belgia - Bélgica  
 Belize - Belice  
 ben - hijo o hija  
-benche - banco (silla)  
-benda - atar (amarrar)  
-bende - banda (cinta)  
+benchi - banco (silla)  
 Benin - Benín  
 benzin - gasolina (bencina)  
-berande - balcón (terraza, veranda)  
-bere - baya  
-berete - boina  
+bere - boina  
+beri - baya  
 berilium - berilio  
 berje - abedul  
 berkelium - berkelio  
@@ -530,10 +530,10 @@ danke - gracias
 danko da - gracias a (merced a)  
 danse - baile (danza)  
 dansekuri - antibalas  
-danta - morder  
 dante - diente  
-dantobalute - roble daimyo  
-dantobrosh - cepillo de dientes  
+dante balute - roble daimyo  
+dante brosh - cepillo de dientes  
+dante na di - desdentado  
 dantomediker - dentista (odontólogo)  
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
@@ -590,7 +590,7 @@ deu kata - mito (cuento divino)
 deu krati - teocracia  
 deu li - divino  
 deu logi - teología  
-deu nagra harfi - devanágari  
+deu nagar harfi - devanágari  
 deu sofi - teosofía  
 di - de (posposición de posesión)  
 dika - apuntar  
@@ -791,6 +791,7 @@ fa ajibu - asombrar
 fa an galta - depurar  
 fa asar - efectuar  
 fa avar - dañar  
+fa dante - morder  
 fa no zai - quitar (eliminar, borrar)  
 fa safa - limpiar  
 fa valu - valorar  
@@ -1060,11 +1061,11 @@ giuke - jade
 glisu - deslizar  
 gluta - pegar  
 glute - pegamento (pega, goma)  
+glute bande - curita (apósito)  
+glute fan - arcilla (barro)  
+glute grafi - adhesivo  
+glute li - pegajoso (adhesivo)  
 gluten - gluten  
-gluti - pegajoso (adhesivo)  
-glutobende - curita (apósito)  
-glutofan - arcilla (barro)  
-glutograf - adhesivo  
 gol - meta (gol, destinación)  
 gola - destinar  
 gom - goma (caucho, hule)  
@@ -1584,10 +1585,11 @@ kerni darunia - fusión nuclear
 kerni energe - energía nuclear  
 kerni fenia - fisión nuclear  
 kerni fizikia - física nuclear  
-kerube - querubín  
-kesh - pelo  
-keshbende - cinta (cinta para el pelo)  
-keshosabun - champú  
+kerubi - querubín  
+kesha - pelo  
+kesha bande - cinta (cinta para el pelo)  
+kesha na di - pelado (desvellado)  
+kesha sabun - champú  
 ketle - hervidor (tetera)  
 kilogram - kilograma  
 kilomitre - kilometre  
@@ -2216,13 +2218,13 @@ muziker - músico
 Myanma - Myanmar (Birmania)  
 ####N - N  
 na - sin  
-nabe - profecía  
-naber - profeta  
-nadiri - raro  
-nadiro - raramente  
+nabi - profecía  
+nabi ja - profeta  
+nadir - raro  
+nadir mar - raramente  
 nafas - respiración  
-nagre - pueblo  
-nagri - urbano  
+nagar - pueblo  
+nagar di - urbano  
 nahun - uña  
 Naijiria - Nigeria  
 najis - contaminación (corrupción, porquería, suciedad)  
@@ -2425,7 +2427,7 @@ pa - padre (papá)
 pa ke - dónde  
 pa lin - en línea  
 pa u loka - allí (allá)  
-pache - paz  
+pace - paz  
 Pachi Hai - océano Pacífico  
 pachiste - pacifista  
 pachistia - pacifismo  
@@ -2922,8 +2924,10 @@ sapate - zapato
 sapater - zapatero  
 sapatokan - zapatería  
 sar - cabeza  
-sarkaske - casco (yelmo)  
-saroste - cráneo (calavera)  
+sar kaske - casco (yelmo)  
+sar kesha - cabello  
+sar kesha na di - calvo  
+sar oste - cráneo (calavera)  
 sate - momento  
 sati - momentáneo  
 satodona - dedicar  
@@ -3467,6 +3471,7 @@ ventur - aventura
 ventur ja - aventurero  
 Venus - Venus  
 ver - verdadero  
+veranda - balcón (terraza, veranda)  
 verme - verme  
 vermute - vermú  
 verse - afrontar  

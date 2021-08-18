@@ -14,7 +14,8 @@ aconselhar - sela
 acordado - jagi  
 acordo (tratado, contrato) - trete  
 acordo - samrayia  
-adesivo - glutograf  
+acéfalo - sar na di  
+adesivo - glute grafi  
 adjetivo - sifloge  
 administrador - politer  
 adversário -   
@@ -72,7 +73,7 @@ arbusto (mata) - tali moke
 Arca da Aliança - liga di sanduku  
 arca de Noé - Noe di nave  
 arco - arka  
-argila - glutofan  
+argila - glute fan  
 argumento - argum  
 arma - arme  
 arma de fogo - pau  
@@ -114,7 +115,7 @@ açúcar - sukar
 ####B - B  
 bacalhau-do-atlântico - atlanti kade  
 bacia - basen  
-baga - bere  
+baga - beri  
 bagagem - bagaje  
 baile (danza) - danse  
 bambu - bambu  
@@ -168,6 +169,7 @@ buscar (procurar) - soka
 bétula - berje  
 búzio - kauri  
 ####C - C  
+cabelo - sar kesha  
 cabeça - sar  
 cacto - katus  
 cafeteira - kafopote  
@@ -178,6 +180,7 @@ calcita - kalsite
 calcular - hisaba  
 calcário - kalsopetre  
 calendário - kalenda  
+calvo - sar kesha na di  
 calças - pante  
 camarão - krevete  
 camisa - kamisa  
@@ -326,13 +329,16 @@ deixar - lasha
 dente-de-leão (taráxaco) - makanful  
 derretre - yong  
 descanso (repouso) - shante  
+desdentado - dante na di  
 desenvolvimento - darjomute  
+desesperado - asha na di  
 desfigurar - dusforma  
 deslizar - glisu  
+despelado - kesha na di  
 despertar - jagu  
 destino - nasibe  
 deus - deu  
-devanágari - deu nagra harfi  
+devanágari - deu nagar harfi  
 dever - debu  
 dia - den  
 diamante - almas  
@@ -731,7 +737,7 @@ momentâneo - sati
 monção - shava mosim  
 monóculo - unoki lense  
 monólogo - auto loga  
-morder - danta  
+morder - fa dante  
 motor - moto  
 mover - kina  
 Mover-se - kinu  
@@ -851,7 +857,7 @@ pato - bata
 patologia - patilogi  
 patógeno - patojener  
 pausa - pauze  
-paz - pache  
+paz - pace  
 pederneira - hogosheke  
 pedir emprestado - jekogeta  
 pedra - sheke  
@@ -859,12 +865,12 @@ pedra preciosa (gema) - bau sheke
 pedregulho - daisheke  
 pedrinha - lilsheke  
 pegada - fute marke  
-pegajoso (adesivo) - gluti  
+pegajoso (adesivo) - glute li  
 peidar - peda  
 peido - pede  
 peixe - pesh  
 pele - pil  
-penso (band-aid) - glutobende  
+penso (band-aid) - glute bande  
 pepino - hiyar  
 pepino-africano (kiwano) - kornomelon  
 pepino-do-mar (holotúrias) - haihiyar  
@@ -963,8 +969,8 @@ rachadura - krake
 radio - radio  
 rajá - hindu raja  
 raposa - huli  
-raramente - nadiro  
-raro - nadiri  
+raramente - nadir mar  
+raro - nadir  
 raro - rari  
 rasgar - chir  
 rasgar - chira  
@@ -1011,7 +1017,7 @@ rã - krokroke
 ####S - S  
 sabedoria (sagacidade, sapiência) - sofita  
 saber (conhecer) - sabi  
-sacada (varanda) - berande  
+sacada (varanda) - veranda  
 saco - sake  
 sagrada escritura - sante kanon  
 sair - eshtru  

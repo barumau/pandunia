@@ -68,6 +68,7 @@ asal Amerka jan - инде́йский
 asan - поза  
 asar - эффект  
 asha - надеяться (чаять)  
+asha na di - безнадёжный  
 asma - астма  
 aspirin - аспирин  
 astro - небесное тело  
@@ -133,8 +134,7 @@ beker - хлебопёк (пекарь)
 bekofan - терракота  
 bekokan - пекарня (булочная)  
 bel - лопата  
-berande - балкон  
-bere - ягода  
+beri - ягода  
 berje - берёза  
 bete - свёкла  
 bil - возможный  
@@ -228,8 +228,8 @@ danga - звенеть
 danger - звонок  
 dani - датский  
 danse - танец  
-danta - откусить  
-dantobalute - дуб зубчатый  
+dante balute - дуб зубчатый  
+dante na di - беззубый  
 darjomute - развитие  
 date - данные  
 datobanke - база данных  
@@ -239,7 +239,7 @@ defkaske - доспехи
 den - день  
 deu - бог  
 deu kata - миф  
-deu nagra harfi - деванагари  
+deu nagar harfi - деванагари  
 deu sofi - теософия  
 dika - целиться  
 dike - цель  
@@ -316,6 +316,7 @@ europobalute - дуб черешчатый
 evanjil - евангелие  
 ####F - F  
 fa - делать  
+fa dante - откусить  
 fa valu - оценивать  
 faidia - применение (утилитарность)  
 fan - болото  
@@ -394,10 +395,10 @@ gitar - гитара
 giuke - нефрит (жад)  
 glisu - задвигаться (скользи́ть)  
 gluta - клеиться  
-gluti - клейкий (липкий)  
-glutobende - пластырь  
-glutofan - глина  
-glutograf - наклейка  
+glute bande - пластырь  
+glute fan - глина  
+glute grafi - наклейка  
+glute li - клейкий (липкий)  
 gol - цель  
 gorila - горилла  
 goton - хлопок  
@@ -592,6 +593,7 @@ kauri - каури
 kava - копать  
 kave - яма  
 ke - что  
+kesha na di - безволосый  
 kim - вещество  
 kimem - химический элемент  
 kimlojia - химия  
@@ -828,9 +830,8 @@ mushu - мышь
 muskulbin - культуризм  
 muzike - музика  
 ####N - N  
-na - ну  
-nadiri - редкий  
-nadiro - редко  
+nadir - редкий  
+nadir mar - редко  
 najis - грязь (скверна)  
 nama - мясо  
 namkitaba - подписать  
@@ -872,6 +873,7 @@ nong nomi - агрономия
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
+nu - ну  
 numbe - число  
 ####O - O  
 o - или  
@@ -1064,6 +1066,9 @@ sante kanon - священное писание
 sanzong - трезубец  
 sapate - туфля  
 sar - голова  
+sar kesha - волосы  
+sar kesha na di - лысый  
+sar na di - безголовый  
 sate - момент  
 sati - моментальный (минутный)  
 Saturne - Сатурн  
@@ -1286,6 +1291,7 @@ ventur - авантюра
 ventur ja - авантюрист  
 Venus - Венера  
 ver - верный  
+veranda - балкон  
 vermute - вермут  
 veste gorila - западная горилла  
 veze di - тяжёлый  

@@ -49,6 +49,7 @@ aroma - 香る (匂う, 臭う)
 aroma melon - マクワウリ  
 asal - 起源  
 asar - 効果  
+asha na di - 絶望した  
 astro - 天体   
 astro nomi - 天文学  
 astro nomi ja - 天文学者  
@@ -97,8 +98,7 @@ bekofan - テラコッタ
 bekokan - パン屋 (ベーカリー)  
 bel - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
-berande - ベランダ (バルコニー, 縁側)  
-bere - 漿果 (ベリー )  
+beri - 漿果 (ベリー )  
 berje - 樺  
 bete - テーブルビート  
 bil - できる (ありうる)  
@@ -183,8 +183,7 @@ daisheke - 大石
 daivaze - 大釜 (大鍋)  
 danger - 鐘 (鈴)  
 dani - デンマークの  
-danta - 咬む  
-dantobalute - カシワ  
+dante balute - カシワ  
 darjomute - 発展 (開発)  
 darte - 土  
 datofenkate - データ解析  
@@ -202,7 +201,7 @@ des kilo - 万
 desha jan - 市民  
 deu - 神  
 deu kata - 神話  
-deu nagra harfi - デーヴァナーガリー  
+deu nagar harfi - デーヴァナーガリー  
 dika - 狙う  
 dike - 標的 (ターゲット)  
 din - 宗教  
@@ -266,6 +265,7 @@ europobalute - ヨーロッパナラ
 ####F - F  
 fa - する  
 fa an galta - デバッグする  
+fa dante - 咬む  
 fa ver - ただす  
 faidia - 使用 (為, 利)  
 falsvide - 幻覚  
@@ -349,10 +349,10 @@ ginglin - 縦糸
 gitar - ギター  
 glisu - 滑る  
 gluta - 張る (付く)  
-gluti - 粘い  
-glutobende - 絆創膏  
-glutofan - 粘土  
-glutograf - ステッカー  
+glute bande - 絆創膏  
+glute fan - 粘土  
+glute grafi - ステッカー  
+glute li - 粘い  
 gol - 目的 (行き先, ゴール)  
 gorila - ゴリラ  
 grafi kata - 漫画  
@@ -537,7 +537,8 @@ ke she - 何事
 ke yang - どんな  
 keger - 客人  
 kerne - 核  
-kesh - 毛  
+kesha - 毛  
+kesha na di - 無毛  
 kili - 千 (１０００)  
 kim - 物質  
 kimem - 元素  
@@ -961,6 +962,7 @@ sante kanon - 聖書
 sanzong - 三つまた (トライデント)  
 sapate - 鞋  
 sar - 頭  
+sar kesha - 髪の毛 (頭髪)  
 sate - 瞬間  
 Saturne - 土星  
 savovol - 興味 (好奇心)  
@@ -1149,6 +1151,7 @@ vei lin - 横糸
 vende - 売る  
 vende shope - 交易 (売買)  
 venjou oranje - ウンシュウミカン  
+veranda - ベランダ (バルコニー, 縁側)  
 veste gorila - ニシゴリラ  
 vice - 代替  
 vice ma - 継母  

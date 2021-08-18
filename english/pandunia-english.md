@@ -170,6 +170,7 @@ asal di - original (authentic)
 asan - posture (asana)  
 asar - effect (impact, impression, result, outcome)  
 asha - hope (wish)  
+asha na di - hopeless  
 Ashur - Assur  
 Ashur desha - Assyria  
 asia - Asian  
@@ -242,6 +243,8 @@ ban - board (pane, panel)
 ban gem - board game  
 banana - banana  
 banda - band (squad, group)  
+bande - tie (fasten, bind)  
+bande - band (tape, bandage)  
 bandera - flag (banner)  
 bangla basha - Bengali language (Bangla)  
 Bangladesha - Bangladesh  
@@ -319,14 +322,11 @@ Belgia - Belgium
 Belize - Belize  
 ben - child (offspring)  
 benben - grandchild  
-benche - bench  
-benda - tie (fasten, bind)  
-bende - band (tape, bandage)  
+benchi - bench  
 Benin - Benin  
 benzin - gasoline (petrol)  
-berande - veranda (balcony, terrace, porch)  
-bere - berry  
-berete - beret  
+bere - beret  
+beri - berry  
 berilium - beryllium  
 berje - birch tree  
 berkelium - berkelium  
@@ -579,10 +579,10 @@ danke - thanks (thank you)
 danko da - thanks to  
 danse - dance  
 dansekuri - bulletproof  
-danta - bite  
 dante - tooth  
-dantobalute - daimyo oak  
-dantobrosh - tooth brush  
+dante balute - daimyo oak  
+dante brosh - tooth brush  
+dante na di - toothless  
 dantomediker - dentist  
 darba - strike (punch)  
 darje - step (degree, rank, grade, level, class)  
@@ -645,7 +645,7 @@ deu kata - myth (divine story)
 deu krati - theocracy  
 deu li - divine (godly)  
 deu logi - theology  
-deu nagra harfi - Devanagari alphabet  
+deu nagar harfi - Devanagari alphabet  
 deu sofi - theosophy  
 di - 's (attributive postposition)  
 dika - aim (point)  
@@ -873,6 +873,7 @@ fa an galta - debug
 fa an karma - deactivate (disable, turn off)  
 fa asar - effect (bring about)  
 fa avar - harm (damage)  
+fa dante - bite  
 fa ja - doer (agent)  
 fa karma - activate (enable, turn on, trigger)  
 fa no zai - remove (delete, dispose, erase)  
@@ -1173,11 +1174,11 @@ giuke - jade
 glisu - slide (slip, glide, skate)  
 gluta - stick (adhere, paste, glue)  
 glute - glue (adhesive)  
+glute bande - adhesive bandage (band-aid, sticking plaster)  
+glute fan - clay  
+glute grafi - sticker  
+glute li - sticky (ahesive)  
 gluten - gluten  
-gluti - sticky (ahesive)  
-glutobende - adhesive bandage (band-aid, sticking plaster)  
-glutofan - clay  
-glutograf - sticker  
 gol - goal (destination)  
 gola - destine (set)  
 golem - golem  
@@ -1750,10 +1751,11 @@ kerni darunia - nuclear fusion
 kerni energe - nuclear energy  
 kerni fenia - nuclear fission  
 kerni fizikia - nuclear physics  
-kerube - cherub  
-kesh - hair  
-keshbende - hairband (headband)  
-keshosabun - shampoo  
+kerubi - cherub  
+kesha - hair  
+kesha bande - hairband (headband)  
+kesha na di - hairless  
+kesha sabun - shampoo  
 ketle - kettle  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
@@ -2441,14 +2443,14 @@ muziker - musician
 Myanma - Myanmar (Burma)  
 ####N - N  
 na - without  
-na - well (now; used to introduce a statement)  
-nabe - prophecy  
-naber - prophet  
-nadiri - rare (scarce, uncommon)  
-nadiro - seldom (rarely)  
+na di - lacking (-less)  
+nabi - prophecy  
+nabi ja - prophet  
+nadir - rare (scarce, uncommon)  
+nadir mar - seldom (rarely)  
 nafas - breath  
-nagre - town  
-nagri - urban  
+nagar - town  
+nagar di - urban  
 nahun - nail (fingernail)  
 Naijiria - Nigeria  
 najis - corruption (filth, pollution, contamination, najis)  
@@ -2597,6 +2599,7 @@ notana - notify
 note - note (observation, remark, comment)  
 note buku - notebook  
 notite - notice (notification)  
+nu - well (now; used to introduce a statement)  
 nudi - naked (bare, nude)  
 nudiste - nudist  
 nudistia - nudism  
@@ -2668,7 +2671,7 @@ pa ke - where
 pa lin - online  
 pa no lin - offline  
 pa u loka - there  
-pache - peace  
+pace - peace  
 Pachi Hai - Pacific Ocean  
 pachiste - pacifist  
 pachistia - pacifism  
@@ -3201,8 +3204,11 @@ sapate - chaussure
 sapater - shoemaker  
 sapatokan - shoemaker's shop  
 sar - head  
-sarkaske - helmet  
-saroste - skull  
+sar kaske - helmet  
+sar kesha - hair of the head  
+sar kesha na di - bald-headed  
+sar na di - headless  
+sar oste - skull  
 sate - moment (instant, while)  
 sati - momentary  
 satodona - dedicate (devote)  
@@ -3788,6 +3794,7 @@ ventur - adventure (venture)
 ventur ja - adventurer  
 Venus - Venus  
 ver - true (real, genuine, indeed, very)  
+veranda - veranda (balcony, terrace, porch)  
 verme - worm  
 vermute - vermouth  
 verse - face (versus)  
