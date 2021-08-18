@@ -2,6 +2,7 @@
 abies - пихта  
 acente - ударение  
 acesa - доступ  
+acesa bil - доступный  
 achi - чихать  
 ada - обычай (привычка)  
 adil - справедливый  
@@ -11,57 +12,48 @@ Afgan - Афганистан
 agile - подвижный  
 agres - нападение (атака, агрессия)  
 agreser - агрессор  
-agri - аграрный  
-agro - выращивать  
-agrobiologi - агробиология  
-agronomia - агрономия  
 ai - любовь  
 ai ja - любовник  
 air - воздух  
-airbivi - аэробный  
-airgun - военно-воздушные силы  
-airporte - аэропорт  
-aishoke - хокке́й с ша́йбой  
-aiskrem - мороженое  
+air bio li - аэробный  
+air gun - военно-воздушные силы  
+air porte - аэропорт  
+ais hoki - хокке́й с ша́йбой  
+ais krem - мороженое  
 ajila - спешить  
 akare - клещ (лепта)  
-akse - ось  
-aksesabli - доступный  
 ala - изменять  
-alge - водоросли  
-algofung - лишай  
-algojangle - лес водорослей  
-ali - другой (второй)  
+alga - водоросли  
+alga fungu - лишай  
+alga jangal - лес водорослей  
 alkol - алкоголь  
 almari - шкаф  
 almas - алмаз (бриллиант)  
-amater - любитель  
+alo - другой (второй)  
 amen - честный (правдивый)  
 amen bil - верный  
 amen bilta - верность  
 amen shin - доверять (понадеяться)  
-amirlin - командная строка  
-an - в  
-an lin - онлайн  
+amir lin - командная строка  
+an din ja - неверующий  
+an memo - забывать  
+an nam - антоним  
+an sona - бессонница (инсомния)  
 andesite - андезит  
-andiniste - неверующий  
 angar - якорь  
 angul - палец  
-angulmarke - отпечаток пальца  
-angulpike - кончик пальца  
+angul marke - отпечаток пальца  
+angul pike - кончик пальца  
 anime - оживление  
 anjil - месседж  
-anmema - забывать  
-annam - антоним  
-ansomia - бессонница (инсомния)  
 anten - антенна  
 anus - анус  
 aple - яблоко  
-aplosaus - яблочное пюре  
+aple sos - яблочное пюре  
 Apsni - Абхазия  
-arabobabul - акация нильская  
+arabi babul - акация нильская  
 arane - паук  
-arbuze - арбуз  
+arbuza - арбуз  
 area - площадь  
 argum - аргумент (обосновани)  
 arka - лук (арка)  
@@ -70,28 +62,28 @@ arka ja - лучник
 aroma - понюхать  
 aroma - запах (аромат)  
 aroma - пахнуть  
-artiste - художник (артист)  
+arte ja - художник (артист)  
+asal - начало (причина)  
+asal Amerka jan - инде́йский  
 asan - поза  
 asar - эффект  
 asha - надеяться (чаять)  
-aslameriki - инде́йский  
-asle - начало (причина)  
-asme - астма  
+asma - астма  
 aspirin - аспирин  
-astre - небесное тело  
+astro - небесное тело  
+astro nave - звездолёт  
 astro nave ja - астронавт  
 astro nomi - астрономия  
 astro nomi ja - астроном  
-Atina - Афины  
-ativi - активный (деятельный)  
-atlantokade - Атлантическая треска  
-atlantosalmon - Атлантический лосось (сёмга)  
-atro nave - звездолёт  
-aure - золото (аурум)  
+Athina - Афины  
+atlanti kade - Атлантическая треска  
+atlanti salmon - Атлантический лосось (сёмга)  
+auro - золото (аурум)  
 Austronesia - Австронезия  
-autologe - монолог  
+auto loga - монолог  
 avar - повреждение (авария)  
-aven - овёс  
+ave - овёс  
+axe - ось  
 ####B - B  
 babe - глава  
 babul - акация  
@@ -468,6 +460,7 @@ hisaba - вычислять
 hisabolojia - математика  
 hisabu loge - счёт  
 hiyar - огурец  
+hobi ja - любитель  
 hoga - жечь (палить)  
 hoge - огонь  
 hogoshan - вулкан  
@@ -506,7 +499,7 @@ islam din - ислам (мусульманство)
 jagu - проснуться  
 jamul - джамболан  
 janel - окно  
-jangle - лес (джунгли)  
+jangal - лес (джунгли)  
 jar - кувшин (графин)  
 jau - ячмень  
 javabe - ответ  
@@ -585,6 +578,7 @@ kardon - расторопша
 kardonkarchof - артишок испанский (кардон)  
 karer - работник  
 karma - действие (акт, акция)  
+karma ja - активный (деятельный)  
 karma ja - деятель  
 karma loga - глагол  
 karote - морковь  
@@ -871,6 +865,10 @@ noche - ночь
 Noe di nave - Ноев ковчег  
 noma - организовать  
 nomia - организация  
+nong - выращивать  
+nong bio logi - агробиология  
+nong li - аграрный  
+nong nomi - агрономия  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
@@ -896,7 +894,9 @@ osidian - обсидиан
 osmos - осмос  
 ostojamia - скелет (остов)  
 ####P - P  
+pa - в  
 pa - отец (папа)  
+pa lin - онлайн  
 pachokade - тихоокеанская треска  
 padi - упавший  (падший)  
 padomun - лаз  

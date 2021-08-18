@@ -4,10 +4,11 @@ a - le (la)
 abies - sapin  
 acente - accent  
 acesa - accès  
+acesa bil - accessible (atteignable, à portée)  
 achi - éternuer (atchoum)  
 acinium - actinium  
 ada - coutume  
-adi - ordinaire (habituel, normal)  
+ada li - ordinaire (habituel, normal)  
 adil - juste  
 adilta - justice  
 adres - adresse  
@@ -19,120 +20,104 @@ agres - agression (attaque)
 agresa - attaquer (agresser)  
 agreser - agresseur  
 agresivi - agressif  
-agri - agricole  
-agro - cultiver  
-agrobiologi - agrobiologie  
-agronomia - agronomie  
 aha - comprendre (réaliser)  
 ai - amour (affection)  
 ai ja - amoureux  
 ai jen - chéri  
 ainstainium - Einsteinium  
 air - air  
-airbaria - pression atmosphérique  
-airbarmetrer - baromètre  
-airbivi - aérobique  
+air bari - pression atmosphérique  
+air bari metre gi - baromètre  
+air bio li - aérobique  
+air gun - armée de l'ai  
+air porte - aéroport  
 Aire - Irland  
-airgun - armée de l'ai  
-airporte - aéroport  
 ais - glace  
-aishoke - hockey sur glace  
-aisi - glacé (glacial, gelé)  
-aiskrem - crème glacée  
-aisu - geler (glacer)  
-Aiti - Haïti  
-ajaba - éblouir (étonner, stupéfier, surprendre)  
-ajabe - merveille  
+ais hoki - hockey sur glace  
+ais krem - crème glacée  
+ais li - glacé (glacial, gelé)  
+ajibu - merveille  
 akare - acarien  
-akse - axe  
-aksesabli - accessible (atteignable, à portée)  
 ala - changer  
 Alaska - Alaska  
-alge - algue  
-algofung - lichen  
-algojangle - forêt de kelp  
-ali - autre  
+alga - algue  
+alga fungu - lichen  
+alga jangal - forêt de kelp  
 alkol - alcool  
-alkoli - alcoolique  
+alkol li - alcoolique  
 almari - placard  
 almas - diamant  
+alo - autre  
 alo - autrement  
-alofon - allophone  
-aloraya - diverger (ne pas être d'accord)  
-alorayia - désaccord (différend)  
-aloromansi - hétéroromantique (hétéromantique)  
-aloseksi - hétérosexuel  
-alosfia - différence  
-alosifi - différent  
+alo fon - allophone  
+alo rai - diverger (ne pas être d'accord)  
+alo rai - désaccord (différend)  
+alo romanse - hétéroromantique (hétéromantique)  
+alo sexe li - hétérosexuel  
+alo sifa - différence  
+alo sifa li - différent  
 alumin - aluminium  
-aluminmate - alun  
-aluminokside - alumine (oxyde d'aluminium)  
+alumin mate - alun  
+alumin oxide - alumine (oxyde d'aluminium)  
 ama - mais (bien que)  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
-amater - amateur  
 amen - honnête (sûr, crédible, sûrement)  
 amen shin - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
 amen shin di - fiable (de confiance, fidèle, sûr, crédible)  
+Amerika - Amérique  
+Amerika di - américain  
 Amerika Samoa - Samoa américaines  
-Amerike - Amérique  
-ameriki - américain  
 amerikium - américium  
 ami - cher  
 amir ja - émir  
-amiria - émirat  
-amirlin - ligne de commande (console, terminal, invite de commande)  
+amir lin - ligne de commande (console, terminal, invite de commande)  
+amir ya - émirat  
 amper - ampère  
 ampul - ampoule (fiole)  
-an - a (dans, en, chez)  
-an ke - où  
-an lin - en ligne  
-anairbivi - anaérobique  
-anama - exécrer  
-anamike - ennemi  
-ande - oeuf  
+an ai - exécrer  
+an air bio li - anaérobique  
+an deu jui ja - athée  
+an din ja - infidèle (incroyant)  
+an memo - oublier  
+an nam - antonyme  
+an sexe li - asexué  
+an sona - insomnie  
+anda - oeuf  
 Andes - Andes  
 andesite - andésite  
-andeviste - athée  
-andiniste - infidèle (incroyant)  
 Andora - Andorre  
-angalta - déboguer (débugger)  
 angar - ancre  
 Angola - Angola  
-angulmarke - empreinte digitale  
-angulpike - bout de doigt  
-anima - animer  
+angul marke - empreinte digitale  
+angul pike - bout de doigt  
+anime - animer  
 anime - animation  
 anjil - message  
-anjiler - messager  
-anmema - oublier  
-annam - antonyme  
-anseksi - asexué  
-ansomia - insomnie  
-Antartike - Antarctique  
-Antartiki Hai - Océan Antarctique  
+anjil ja - messager  
+Antartika - Antarctique  
+Antartika Hai - Océan Antarctique  
 anten - antenne  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua-et-Barbuda  
 anus - anus  
-anusi - anal  
-anyavi - inutile  
+anus di - anal  
 aple - pomme  
+aple sos - compote de pommes  
 aplika - appliquer  
-aplike - application  
-aplosaus - compote de pommes  
+aplika - application  
 Apsni - Abkhazie  
 arabi - arabe  
 arane - araignée  
-aranofobia - arachnophobie  
-aranonete - toile d'araignée  
-arbuze - pastèque  
-Archah - Artsakh  
+arane fobi - arachnophobie  
+arane nete - toile d'araignée  
+arbuza - pastèque  
+Arcah - Artsakh  
 area - aire (superficie)  
+area - espace (zone, région)  
 argente - argent  
 Argentina - Argentine  
 argon - argon  
 argum - argument  
-aria - espace (zone, région)  
 arka - arc  
 arka chati - voûte  
 arka ja - archer  
@@ -142,45 +127,43 @@ aroma - sentir qqch
 aroma - odeur  
 aroma - sentir qqch (avoir l'odeur de qqch)  
 arsene - arsenic  
-Artike - arctique  
-Artiki Hai - océan Arctique  
-artiste - artiste  
+arte ja - artiste  
+Artika - arctique  
+Artika Hai - océan Arctique  
 Aruba - Aruba  
+asal - origine  
+asal Amerka jan - amérindien (indien)  
+asal Australia jan - aborigènes australiens  
+asal di - originel  
 asan - posture (position)  
 asar - effet  
-asara - effectuer  
 Ashur - Assur  
-Ashuria - Assyrie  
-asi - asiatique  
+Ashur desha - Assyrie  
+asia - asiatique  
 Asia - Asie  
 askete - ascète  
-aslameriki - amérindien (indien)  
-aslaustrali - aborigènes australiens  
-asle - origine  
-asli - originel  
-asme - asthme  
+asma - asthme  
 aspirin - aspirine  
 astatium - astate  
-astre - astre (corps céleste)  
+astro - astre (corps céleste)  
+astro nave - astronef  
 astro nave ja - astronaute  
 astro nomi - astronomie  
 astro nomi ja - astronome  
-Atina - Athènes  
-ativa - activer (allumer, mettre en marche, déclencher)  
-ativi - actif  
+Athina - Athènes  
 Atlanti Hai - océan Atlantique  
-atlantokade - morue de l'Atlantique  
-atlantosalmon - saumon altentique  
+atlanti kade - morue de l'Atlantique  
+atlanti salmon - saumon altentique  
 atom - atome  
-atro nave - astronef  
 au - aïe!  
-aure - or  
+auro - or  
 Australia - Australie  
 Austronesia - Austronésie  
-autologe - monologue  
+auto loga - monologue  
 avakate - avocat  
 avar - dommage  
-aven - avoine  
+ave - avoine  
+axe - axe  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babe - chapitre  
@@ -247,6 +230,7 @@ bazar - marché (bazar)
 baze - base  
 bazobol - baseball  
 bazoshulkan - école primaire  
+be ais - geler (glacer)  
 bebe - bébé  
 bedinje - aubergine  
 beker - boulanger  
@@ -431,6 +415,10 @@ europobalute - chêne pédonculé
 evanjil - évangile  
 ####F - F  
 fa - faire  
+fa ajibu - éblouir (étonner, stupéfier, surprendre)  
+fa an galta - déboguer (débugger)  
+fa asar - effectuer  
+fa karma - activer (allumer, mettre en marche, déclencher)  
 fa valu - évaluer  
 fa verse - verser  
 fa vode - promettre  
@@ -559,6 +547,7 @@ haigun - force navale (marine)
 haihiyar - concombre de mer  
 haijel - méduse  
 haitate - côte  
+Haiti - Haïti  
 haki - droit  
 hal - état  
 hali - vide  
@@ -593,6 +582,7 @@ hisaba - calculer
 hisabolojia - mathématiques  
 hisabu loge - compte  
 hiyar - concombre  
+hobi ja - amateur  
 hoga - brûler  
 hoge - feu  
 hogoshan - volcan  
@@ -635,7 +625,7 @@ jamkarde - carte à collectionner
 jamul - prune de Java  
 jan - personne  
 janel - fenêtre  
-jangle - forêt (jungle)  
+jangal - forêt (jungle)  
 jar - jarre (carafe, cruche)  
 jau - orge  
 javabe - réponse  
@@ -716,6 +706,7 @@ karer - travailleur (ouvrier)
 karimi - généreux  
 karimia - générosité (charité)  
 karma - acte (action)  
+karma ja - actif  
 karma ja - agent (faiseur)  
 karma loga - verbe  
 karmisa - soumettre  
@@ -1001,10 +992,15 @@ nilon - nylon
 Nipon - Japon  
 nish - niche  
 no - non (ne...pas)  
+no yau di - inutile  
 noche - noit  
 Noe - Noé  
 Noe di nave - arche de Noé  
 noma - organiser  
+nong - cultiver  
+nong bio logi - agrobiologie  
+nong li - agricole  
+nong nomi - agronomie  
 norde - nord  
 nostalgia - nostalgie  
 note - note  
@@ -1032,7 +1028,10 @@ osidian - obsidienne
 ostojamia - squelette  
 ostoshalke - scutelle  
 ####P - P  
+pa - a (dans, en, chez)  
 pa - pere (papa)  
+pa ke - où  
+pa lin - en ligne  
 pache - paix  
 pachiste - pacifiste  
 pachokade - morue du Pacifique  

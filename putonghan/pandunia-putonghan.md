@@ -11,55 +11,46 @@ Afgan - 阿富汗
 agile - 灵活的  
 agres - 攻击  
 agreser - 侵略者  
-agrobiologi - 土壤生物学  
-agrochun - 农村  
-agronomia - 农学  
 ai - 爱  
 ai ja - 恋人 (情人, 爱人)  
 air - 空气  
-airgun - 空军  
-airporte - 飞机场  
+air gun - 空军  
+air porte - 飞机场  
 ais - 冰  
-aishoke - 冰球  
-aiskrem - 冰淇淋  
-aisu - 结冰  
+ais hoki - 冰球  
+ais krem - 冰淇淋  
 akare - 蜱 (螨)  
-akse - 轴线  
 ala - 改變  
-alge - 藻类  
-algofung - 地衣  
-algojangle - 海藻林  
-ali - 另一  
+alga - 藻类  
+alga fungu - 地衣  
+alga jangal - 海藻林  
 alkol - 酒  
 almari - 碗碟橱  
 almas - 钻石  
-aloraya - 不同意  
-amater - 爱好者  
+alo - 另一  
+alo rai - 不同意  
 amen - 诚实  
 amen bil - 忠实  
 amen shin - 信赖  
 ami - 亲爱的  
-an - 在  
-an lin - 在线  
-an no lin - 离线  
-anairbivi - 厌氧的  
+an air bio li - 厌氧的  
+an din ja - 不信神的  
+an memo - 忘记  
+an sona - 失眠  
 andesite - 安山岩  
-andiniste - 不信神的  
 angar - 锚  
 angul - 手指  
-angulmarke - 指纹 (指印)  
-angulpike - 指尖  
+angul marke - 指纹 (指印)  
+angul pike - 指尖  
 anime - 活跃  
 anjil - 信息  
-anmema - 忘记  
-ansomia - 失眠  
 anten - 天线  
 anus - 肛门  
 aple - 苹果  
 aplika - 运用  
-arabobabul - 阿拉伯金合欢  
+arabi babul - 阿拉伯金合欢  
 arane - 蜘蛛  
-arbuze - 西瓜  
+arbuza - 西瓜  
 area - 面积  
 argente - 银  
 arka - 弓 (琴弓, 拱)  
@@ -69,24 +60,24 @@ aroma - 闻到
 aroma - 气味  
 aroma - 发臭  
 aroma melon - 香瓜  
-artiste - 美术家  
+arte ja - 美术家  
+asal - 起源  
+asal di - 原始的  
 asar - 影响  
-asle - 起源  
-asli - 原始的  
-asme - 气喘  
+asma - 气喘  
 aspirin - 阿司匹林  
-astre - 天体  
+astro - 天体  
 astro nave ja - 宇航员  
 astro nomi - 天文学  
 astro nomi ja - 天文学家  
-Atina - 雅典  
-ativi - 活性  
-atlantokade - 大西洋鱈  
-atlantosalmon - 大西洋鮭  
-aure - 金  
+Athina - 雅典  
+atlanti kade - 大西洋鱈  
+atlanti salmon - 大西洋鮭  
+auro - 金  
 Austronesia - 南岛  
-autologe - 独白  
-aven - 燕麦  
+auto loga - 独白  
+ave - 燕麦  
+axe - 轴线  
 ####B - B  
 babe - 章  
 bache - 小孩  
@@ -128,6 +119,7 @@ bazar - 市场
 baze - 底部  
 bazobol - 棒球  
 bazoshulkan - 小学  
+be ais - 结冰  
 be van - 玩耍  
 be’e - 山羊  
 bebe - 宝宝  
@@ -424,6 +416,7 @@ hisaba - 计算
 hisabolojia - 数学  
 hisabu loge - 账户  
 hiyar - 黄瓜  
+hobi ja - 爱好者  
 hoga - 燃烧  
 hoge - 火  
 hogoshan - 火山  
@@ -462,8 +455,8 @@ jamul - 閻浮樹
 jan - 人  
 janel - 窗戶  
 janelfrem - 窗框  
+jangal - 森林  
 janger - 工匠 (匠人)  
-jangle - 森林  
 jar - 罐 (瓶)  
 jau - 大麦  
 javabe - 回答  
@@ -530,6 +523,7 @@ kardon - 蓟
 kardonkarchof - 刺苞菜蓟  
 karer - 工人 (工作者)  
 karma - 作为 (行为)  
+karma ja - 活性  
 karma loga - 动词  
 karmisa - 提交  
 karote - 红萝卜  
@@ -791,6 +785,9 @@ noche - 夜
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
 noma - 组织  
+nong bio logi - 土壤生物学  
+nong chun - 农村  
+nong nomi - 农学  
 norde - 北  
 nostalgia - 怀旧  
 note - 便条  
@@ -812,9 +809,12 @@ oselote - 虎貓
 osidian - 黑曜岩  
 ostojamia - 骨骼  
 ####P - P  
+pa - 在  
 pa - 爸爸  
 pa de ma - 奶奶 (祖母)  
 pa de pa - 爷爷 (祖父)  
+pa lin - 在线  
+pa no lin - 离线  
 pache - 和平  
 pachiste - 和平主义者  
 pachistia - 和平主义  

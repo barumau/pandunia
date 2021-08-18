@@ -1,25 +1,25 @@
 # france-pandunia
-a (dans, en, chez) - an  
+a (dans, en, chez) - pa  
 ####A - A  
 abattoir - buchokan  
 abattre - bucha  
 abeille ou guêpe - fong  
 Abkhazie - Apsni  
-aborigènes australiens - aslaustrali  
+aborigènes australiens - asal Australia jan  
 abricot - briko  
 Abyssinie - Habasha  
 acacia faux-gommier - helisbabul  
 acarien - akare  
 accent - acente  
-accessible (atteignable, à portée) - aksesabli  
+accessible (atteignable, à portée) - acesa bil  
 accomplir (terminer) - purfina  
 accord - samrayia  
 accès - acesa  
 acheter - shopa  
 acte (action) - karma  
-actif - ativi  
+actif - karma ja  
 actinium - acinium  
-activer (allumer, mettre en marche, déclencher) - ativa  
+activer (allumer, mettre en marche, déclencher) - fa karma  
 actuel (courant) - zai zaman di  
 adapter (ajuster) - hapa  
 adhésif (collant) - gluti  
@@ -36,30 +36,30 @@ agile - agile
 agresseur - agreser  
 agressif - agresivi  
 agression (attaque) - agres  
-agricole - agri  
-agrobiologie - agrobiologi  
-agronomie - agronomia  
+agricole - nong li  
+agrobiologie - nong bio logi  
+agronomie - nong nomi  
 ail - lasun  
 air - air  
 aire (superficie) - area  
 Alaska - Alaska  
 alcool - alkol  
-alcoolique - alkoli  
-algue - alge  
+alcoolique - alkol li  
+algue - alga  
 algues - hai alga  
 algues brunes - brun alga  
 Algérie - Jayer  
 aller (quitter) - kita  
 Aller-retour - retrotikete  
 alligator - korte krokodil  
-allophone - alofon  
+allophone - alo fon  
 allô - halo  
 alphabet - harfi harfi  
-alumine (oxyde d'aluminium) - aluminokside  
+alumine (oxyde d'aluminium) - alumin oxide  
 aluminium - alumin  
-alun - aluminmate  
+alun - alumin mate  
 amande - badam  
-amateur - amater  
+amateur - hobi ja  
 amer - kali guste  
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
 amiral - hai amir ja  
@@ -67,14 +67,14 @@ amour (affection) - ai
 amoureux - ai ja  
 ampoule (fiole) - ampul  
 ampère - amper  
-américain - ameriki  
+américain - Amerika di  
 américium - amerikium  
-amérindien (indien) - aslameriki  
-Amérique - Amerike  
-anal - anusi  
+amérindien (indien) - asal Amerka jan  
+Amérique - Amerika  
+anal - anus di  
 analyse - fenkate  
 analyser - fenkata  
-anaérobique - anairbivi  
+anaérobique - an air bio li  
 ancre - angar  
 Andes - Andes  
 Andorre - Andora  
@@ -83,25 +83,25 @@ anglophone - englofoni
 Angola - Angola  
 animal (bête) - zou  
 animation - anime  
-animer - anima  
+animer - anime  
 anneau - ring  
-Antarctique - Antartike  
+Antarctique - Antartika  
 antenne - anten  
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibium  
-antonyme - annam  
+antonyme - an nam  
 anus - anus  
 août - mes bato  
 appartenir à - malu  
-application - aplike  
+application - aplika  
 appliquer - aplika  
 apporter - layana  
 apprendre (étudier) - shula  
 apprivoiser (dresser, dompter, discipliner) - dosila  
 approprié (adapté, convenable, opportun) - hapi  
 arabe - arabi  
-arachnophobie - aranofobia  
+arachnophobie - arane fobi  
 araignée - arane  
 arboretum, pépinière - mokojongoparke  
 arbre - moke  
@@ -112,7 +112,7 @@ arche de Noé - Noe di nave
 archer - arka ja  
 architecte - binplaner  
 architecture - binplania  
-arctique - Artike  
+arctique - Artika  
 argent - argente  
 argent - pese  
 Argentine - Argentina  
@@ -123,32 +123,32 @@ argument - tese
 arme - arme  
 armure - defkaske  
 armée - gun  
-armée de l'ai - airgun  
+armée de l'ai - air gun  
 arobase (@) - adres harfi  
 arsenic - arsene  
 art - shutu  
 artichaut - karchof  
-artiste - artiste  
-Artsakh - Archah  
+artiste - arte ja  
+Artsakh - Arcah  
 Aruba - Aruba  
 ascète - askete  
-asexué - anseksi  
-asiatique - asi  
+asexué - an sexe li  
+asiatique - asia  
 Asie - Asia  
 aspirine - aspirin  
 assez - basi  
 Assur - Ashur  
-Assyrie - Ashuria  
+Assyrie - Ashur desha  
 astate - astatium  
-asthme - asme  
-astre (corps céleste) - astre  
+asthme - asma  
+astre (corps céleste) - astro  
 astrobiologie - kosmobiyolojia  
 astronaute - astro nave ja  
-astronef - atro nave  
+astronef - astro nave  
 astronome - astro nomi ja  
 astronomie - astro nomi  
-Athènes - Atina  
-athée - andeviste  
+Athènes - Athina  
+athée - an deu jui ja  
 atome - atom  
 attaquer (agresser) - agresa  
 aubergine - bedinje  
@@ -157,7 +157,7 @@ Austronésie - Austronesia
 autel - puja meza  
 autocollant - glutograf  
 automne - padomosim  
-autre - ali  
+autre - alo  
 autrement - alo  
 avant - cheno  
 avec (avoir) - ha  
@@ -165,12 +165,12 @@ aventure - ventur
 aventurier - ventur ja  
 avis (opinion) - rai  
 avocat - avakate  
-avoine - aven  
-axe - akse  
+avoine - ave  
+axe - axe  
 Azerbaijan - Azerbaijan  
 azur - lazuri  
-aérobique - airbivi  
-aéroport - airporte  
+aérobique - air bio li  
+aéroport - air porte  
 aïe! - au  
 ####B - B  
 babord - nave lefte  
@@ -196,7 +196,7 @@ Barbade - Barbados
 barbare - barbar  
 barbe - barde  
 Barbuda - Barbuda  
-baromètre - airbarmetrer  
+baromètre - air bari metre gi  
 barrière - bara  
 baryum - barium  
 bas - tal  
@@ -245,7 +245,7 @@ boue (fange, bourbe, gadoue) - fan
 boulanger - beker  
 bouleau - berje  
 bout (pointe, pic) - pike  
-bout de doigt - angulpike  
+bout de doigt - angul pike  
 bouteille - botel  
 bouton - buton  
 boxe - bokse  
@@ -370,7 +370,7 @@ compassion - samemos
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
 compost - biyochaniver  
-compote de pommes - aplosaus  
+compote de pommes - aple sos  
 comprendre (réaliser) - aha  
 compte - hisabu loge  
 concert - konserte  
@@ -423,13 +423,13 @@ croissant - kruasante
 croix - krus  
 croyant - din ja  
 crème - krem  
-crème glacée - aiskrem  
+crème glacée - ais krem  
 crêpe - France krepe  
 crêpe - krepe  
 crêperie - krepokan  
 cube - kube  
 cuiller - chamache  
-cultiver - agro  
+cultiver - nong  
 culturisme (musculation) - muskulbin  
 cycliste - sikliste  
 cytologie - celu logi  
@@ -452,8 +452,8 @@ deux (2) - du
 devoir - debu  
 diamant - almas  
 dieu - deu  
-différence - alosfia  
-différent - alosifi  
+différence - alo sifa  
+différent - alo sifa li  
 dimanche - var sete  
 dinde (dindon) - dinde  
 diorite - diorite  
@@ -462,7 +462,7 @@ directeur (principal) - shula shefe
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
-diverger (ne pas être d'accord) - aloraya  
+diverger (ne pas être d'accord) - alo rai  
 divers (plusieurs) - balibali  
 docile (insipide) - dosili  
 document (dossier) - dokum  
@@ -484,33 +484,32 @@ durer - dura
 durée - dur  
 dynamite - dinamite  
 dé - zar kube  
-déboguer (débugger) - angalta  
+déboguer (débugger) - fa an galta  
 début (commencement) - shuru  
 décapé (mariné) - suanpurshipi  
 déchirer - chir  
 déchirer - chira  
 défigurer - dusforma  
-désaccord (différend) - alorayia  
+désaccord (différend) - alo rai  
 dévanagari - deu nagra harfi  
 développement - darjomute  
 ####E - E  
 east (orient) - dong  
 eau - sui  
-effectuer - asara  
+effectuer - fa asar  
 effet - asar  
 effrayant - fobani  
 effrayer - foba  
 Einsteinium - ainstainium  
 elfe - elfe  
 empreinte de pied - fute marke  
-empreinte digitale - angulmarke  
+empreinte digitale - angul marke  
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
-en ligne - an lin  
+en ligne - pa lin  
 enclume - metalbede  
 enfant - bache  
-ennemi - anamike  
 ennemi - dusjan  
 enregistrement - loge  
 enseigner - giau  
@@ -521,7 +520,7 @@ entrer - intru
 envelopper (emballer) - lifafa  
 erroné - galti  
 escroquer - truka  
-espace (zone, région) - aria  
+espace (zone, région) - area  
 espace - hali harfi  
 estrade - tai  
 et - e  
@@ -540,7 +539,7 @@ explosion - eshploze
 exposer - eshpoza  
 extraire - eshtrata  
 extérieur - esh  
-exécrer - anama  
+exécrer - an ai  
 ####F - F  
 fable - zou kata  
 face (facette) - fas  
@@ -578,8 +577,8 @@ football - fute bol
 force navale (marine) - haigun  
 forer (percer) - fora  
 former - forma  
-forêt (jungle) - jangle  
-forêt de kelp - algojangle  
+forêt (jungle) - jangal  
+forêt de kelp - alga jangal  
 fosse - kave  
 fougères - parne  
 fourmi - murche  
@@ -602,7 +601,7 @@ Gaule - Galia
 gaz - gas  
 gaz lacrymogène - okosuigas  
 gazelle - gazel  
-geler (glacer) - aisu  
+geler (glacer) - be ais  
 genou - gute  
 genre grammatical - bashi jinse  
 geographie - geo grafi  
@@ -610,7 +609,7 @@ Germanie - Germania
 gingembre - zinji  
 giraffe - jiraf  
 glace - ais  
-glacé (glacial, gelé) - aisi  
+glacé (glacial, gelé) - ais li  
 gland - balutopal  
 glisser - glisu  
 gnome - geo elfe  
@@ -649,7 +648,7 @@ haine - hen
 hameçon - peshhuke  
 haut - gau  
 hautes technologies - gautehnia  
-Haïti - Aiti  
+Haïti - Haiti  
 hein? - he  
 Hesse - Hesia  
 heure - hor  
@@ -660,7 +659,7 @@ hippopotame  - gubu
 hiver - leng mosim  
 hivernal (hibernal) - lengomosimi  
 hockey - hoke  
-hockey sur glace - aishoke  
+hockey sur glace - ais hoki  
 honneur - onor  
 honnête (sûr, crédible, sûrement) - amen  
 honorer - onora  
@@ -676,8 +675,8 @@ humeur - emoshal
 hygiène - salsafia  
 hélicoptère - helisviman  
 héros - hero  
-hétéroromantique (hétéromantique) - aloromansi  
-hétérosexuel - aloseksi  
+hétéroromantique (hétéromantique) - alo romanse  
+hétérosexuel - alo sexe li  
 hôtel - hotel  
 ####I - I  
 imitateur (mime) - mimer  
@@ -695,15 +694,15 @@ indien - barte
 Indus - Hindu riu  
 infecter - patomisa  
 infection (contagion) - patomis  
-infidèle (incroyant) - andiniste  
+infidèle (incroyant) - an din ja  
 inflammation - flame  
 insecte - konchung  
-insomnie - ansomia  
+insomnie - an sona  
 international - nasmedi  
 interracial - rasmedi  
 introverti - introversi  
-inutile - anyavi  
-inverse (négatif, in-) - ani  
+inutile - no yau di  
+inverse (négatif, in-) - an  
 Irland - Aire  
 ironie - ironia  
 Islam - islam din  
@@ -765,12 +764,12 @@ lexical - logi
 leçon - shula  
 libellule - libele  
 libre - huri  
-lichen - algofung  
+lichen - alga fungu  
 lien - linke  
 lieu - loke  
 lieu de naissance - jenistan  
 ligne (fil) - lin  
-ligne de commande (console, terminal, invite de commande) - amirlin  
+ligne de commande (console, terminal, invite de commande) - amir lin  
 ligne téléphonique - telfonlin  
 ligue (alliance) - liga  
 lilas - lila  
@@ -842,9 +841,9 @@ mer - hai
 mercredi - var tri  
 Mercure - Merkur  
 merde - shite  
-merveille - ajabe  
+merveille - ajibu  
 message - anjil  
-messager - anjiler  
+messager - anjil ja  
 mettre (placer) - loka  
 meule - molsheke  
 microbe - mikrobiu  
@@ -861,10 +860,10 @@ momentané - sati
 monde - dunia  
 monnaie (pièce) - pesodiske  
 monocle - unoki lense  
-monologue - autologe  
+monologue - auto loga  
 mordre - danta  
 morue - kade  
-morue de l'Atlantique - atlantokade  
+morue de l'Atlantique - atlanti kade  
 morue du Pacifique - pachokade  
 mot - logem  
 mot de passe - pasloge  
@@ -935,12 +934,12 @@ occupé - mangi
 ocelot - oselote  
 oculaire - oki  
 océan - daihai  
-Océan Antarctique - Antartiki Hai  
-océan Arctique - Artiki Hai  
+Océan Antarctique - Antartika Hai  
+océan Arctique - Artika Hai  
 océan Atlantique - Atlanti Hai  
 océan Indien - Barte Hai  
 odeur - aroma  
-oeuf - ande  
+oeuf - anda  
 oie - gansa  
 oignon - piaze  
 oiseau - pakse  
@@ -949,13 +948,13 @@ on - men
 oncille - bagroselote  
 onde - onde  
 option - chuzable  
-or - aure  
+or - auro  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
 orange amère - kali oranje  
 orange douce - sukaroranje  
 orchidée - orkide  
-ordinaire (habituel, normal) - adi  
+ordinaire (habituel, normal) - ada li  
 ordinateur - komputer  
 ordinateur tablette - tablokomputer  
 ordre - ratibe  
@@ -964,19 +963,19 @@ oreille - ore
 organiser - noma  
 organisme - bio vute  
 orge - jau  
-origine - asle  
-originel - asli  
+origine - asal  
+originel - asal di  
 orphelinat - yatim dom  
 orthogonal - ortogoni  
 otite - ore flame  
 ou - o  
 ouah - va  
-oublier - anmema  
+oublier - an memo  
 oubliette (cul de basse-fosse) - geo niche prizon  
 oui - ye  
 ours - urse  
 oxyde - okside  
-où - an ke  
+où - pa ke  
 ####P - P  
 pacifiste - pachiste  
 page - varka late  
@@ -1011,7 +1010,7 @@ passe (passage) - pasdau
 passeport - pasporte  
 passer - durita  
 passer - pas  
-pastèque - arbuze  
+pastèque - arbuza  
 pathologie - patilogi  
 patient - patike  
 pause - pauze  
@@ -1099,7 +1098,7 @@ pourrir (se décomposer) - pudu
 pousse - joveni moke  
 pouvoir (possible, capacité, peut-être) - bil  
 presse-papier - katoglutoban  
-pression atmosphérique - airbaria  
+pression atmosphérique - air bari  
 preuve - dalil  
 problème - problem  
 problématique - problemi  
@@ -1214,7 +1213,7 @@ Saturne - Saturne
 sauce - sos  
 sauce de soja - soi sos  
 saucisse - sosis  
-saumon altentique - atlantosalmon  
+saumon altentique - atlanti salmon  
 saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
 saumon rose - rozosalmon  
 saumon sockeye - lal salmon  
@@ -1319,7 +1318,7 @@ tire à l'arc - arka shutu
 tirer - tira milke  
 tissu - texe  
 titre - tema nam  
-toile d'araignée - aranonete  
+toile d'araignée - arane nete  
 toit - chati  
 tomate - tomate  
 tombe (enterrer) - gabur  
@@ -1441,7 +1440,7 @@ zèbre - zebra
 Égypte - Misria  
 Épicéa - pise  
 âge - sen  
-éblouir (étonner, stupéfier, surprendre) - ajaba  
+éblouir (étonner, stupéfier, surprendre) - fa ajibu  
 échec - shibai  
 échelle - shalke  
 école (collège) - shula kan  
@@ -1461,7 +1460,7 @@ zèbre - zebra
 élément chimique - kimem  
 émeraude - zumarda  
 émir - amir ja  
-émirat - amiria  
+émirat - amir ya  
 émoticône (emoji) - emoje  
 émotion - emos  
 épices - masale  

@@ -15,7 +15,7 @@ accent (stress) - acente
 accept (say okay) - okeya  
 access (admission, accessibility) - acesa  
 accessibility (ease of access) - fasilia da akses  
-accessible (within reach) - aksesabli  
+accessible (within reach) - acesa bil  
 accommodate - domana  
 account - hisabu loge  
 acid - suan  
@@ -24,8 +24,8 @@ acorn - balutopal
 act (play a role) - rola  
 actinium - acinium  
 action (act, deed) - karma  
-activate (enable, turn on, trigger) - ativa  
-active (on, enabled) - ativi  
+activate (enable, turn on, trigger) - fa karma  
+active (on, enabled) - karma ja  
 actor (actress) - roler  
 additional - mashi  
 address - adres  
@@ -46,7 +46,7 @@ adversary (antagonist, opponent) -
 advice (counsel) - sel  
 advice (recommend) - sela  
 advisor (counselor, mentor) - menter  
-aerobic - airbivi  
+aerobic - air bio li  
 Afghanistan - Afgan  
 afraid (scared) - fobi  
 Africa - Afrika  
@@ -62,27 +62,27 @@ agree (concur) - samraya
 agree (make an agreement) - treta  
 agreement (consent) - samrayia  
 agreement (treaty) - trete  
-agricultural - agri  
-agriculture - agro shutu  
-agrobiology - agrobiologi  
-agronomy - agronomia  
+agricultural - nong li  
+agriculture - nong shutu  
+agrobiology - nong bio logi  
+agronomy - nong nomi  
 aim (point) - dika  
 air - air  
-airforce - airgun  
+airforce - air gun  
 airplane - fei gi  
-airport (aeroport) - airporte  
+airport (aeroport) - air porte  
 Aland Islands - Olande nesia  
 Alaska - Alaska  
 Albania - Chipe  
 alcohol - alkol  
-alcoholic - alkoli  
-alga - alge  
+alcoholic - alkol li  
+alga - alga  
 algebra - jebria  
 Algeria - Jayer  
 align (go along) - parlinu  
 alkaline - kali  
 alligator - korte krokodil  
-allophone - alofon  
+allophone - alo fon  
 allow (permit) - halala  
 almond - badam  
 alone (lonely, isolated, solitary, single) - unjani  
@@ -90,21 +90,21 @@ alphabet - harfi harfi
 already (completed action) - fino  
 also (too) - masho  
 altar - puja meza  
-alum - aluminmate  
-alumina (aluminum oxide) - aluminokside  
+alum - alumin mate  
+alumina (aluminum oxide) - alumin oxide  
 aluminium - alumin  
 always - pansato  
-amateur - amater  
-amaze - ajaba  
-amazing (astonishing) - ajabi  
+amateur - hobi ja  
+amaze - fa ajibu  
+amazing (astonishing) - ajibu li  
 ambassador - dayanjiler  
 ambiguous - polmeni  
-America (continent) - Amerike  
+America (continent) - Amerika  
 American (US) - UDA du  
-American - ameriki  
+American - Amerika di  
 American Samoa - Amerika Samoa  
 americium - amerikium  
-Amerindian (Native American) - aslameriki  
+Amerindian (Native American) - asal Amerka jan  
 Amhara (an Ethiopian ethnic group and language) - Amara  
 among (amid, between) - medu  
 amount (quantity) - polia  
@@ -112,9 +112,9 @@ ampere (amp) - amper
 amplify (scale) - daidarja  
 ampoule (vial) - ampul  
 amuse (entertain) - fa van  
-anaerobic - anairbivi  
+anaerobic - an air bio li  
 anaglyphic (stereoscopic) - dulgrafi  
-anal - anusi  
+anal - anus di  
 analyse (dissect, parse) - fenkata  
 analysis (dissection) - fenkate  
 anchor - angar  
@@ -131,27 +131,27 @@ Angola - Angola
 angry (furious) - furi  
 animal - zou  
 animal husbandry - zou agro shutu  
-animate - anima  
+animate - anime  
 animation (cartoon) - anime  
 anniversary - nenfeste  
 answer (reply, response) - javabe  
 ant - murche  
-Antarctic Ocean - Antartiki Hai  
-Antarctica - Antartike  
+Antarctic Ocean - Antartika Hai  
+Antarctica - Antartika  
 antenna (aerial) - anten  
-antichrist - ankriste  
+antichrist - an mesi  
 Antigua - Antigua  
 Antigua and Barbuda - Antigua e Barbuda  
 antimony - estibium  
-antonym - annam  
+antonym - an nam  
 anus - anus  
 anvil - metalbede  
 any (no matter which) - eni  
 appear - be zai  
 appearance (looks) - rupe  
 apple - aple  
-applesauce - aplosaus  
-application - aplike  
+applesauce - aple sos  
+application - aplika  
 apply (put to use for a purpose) - aplika  
 apprentice - karshuler  
 approach (get near) - karibu  
@@ -160,17 +160,17 @@ apricot - briko
 April - mes chatre  
 aqua (teal) - hainili  
 Arabic - arabi  
-arachnophobia - aranofobia  
+arachnophobia - arane fobi  
 arboretum - mokojongoparke  
 archer - arka ja  
 archery - arka shutu  
 archipelago - nesia grupe  
 architect - binplaner  
 architecture - binplania  
-Arctic - Artike  
-Arctic Ocean - Artiki Hai  
+Arctic - Artika  
+Arctic Ocean - Artika Hai  
 area (extent of surface) - area  
-area (region) - aria  
+area (region) - area  
 area of thinking or being - ya  
 Argentina - Argentina  
 argon - argon  
@@ -184,7 +184,7 @@ arm - handoshake
 Armenia - Hayaki  
 armor (shielding) - defkaske  
 army - gun  
-aromantic - anromansi  
+aromantic - an romanse  
 arrow (bolt) - fleche  
 arsenic - arsene  
 artichoke thistle (cardoon) - kardonkarchof  
@@ -192,15 +192,15 @@ article (writing) - makala
 artificial - cana di  
 artificial language (conlang) - cana basha  
 artisan (craftsman) - janger  
-artist - artiste  
-Artsakh - Archah  
+artist - arte ja  
+Artsakh - Arcah  
 Aruba - Aruba  
 ascetic - askete  
-asexual - anseksi  
+asexual - an sexe li  
 ash (ashes) - hui  
 ash tree - yasen  
 Asia - Asia  
-Asian - asi  
+Asian - asia  
 ask (inquire) - suala  
 ask (request, beg, plead; please) - ching  
 asparagus - lusun  
@@ -208,20 +208,20 @@ aspirin - aspirin
 associate - liga  
 assume (presuppose) - chenaga  
 Assur - Ashur  
-Assyria - Ashuria  
+Assyria - Ashur desha  
 astatine - astatium  
-asthma - asme  
+asthma - asma  
 astrobiology - kosmobiyolojia  
 astronaut - astro nave ja  
 astronomer - astro nomi ja  
 astronomy - astro nomi  
-atheist - andeviste  
-Athens - Atina  
+atheist - an deu jui ja  
+Athens - Athina  
 athlete (sportsman) - esporter  
-Atlantic cod - atlantokade  
+Atlantic cod - atlanti kade  
 Atlantic Ocean - Atlanti Hai  
-Atlantic salmon - atlantosalmon  
-atmospheric pressure - airbaria  
+Atlantic salmon - atlanti salmon  
+atmospheric pressure - air bari  
 atom - atom  
 attachment (affix) - fikse  
 attack (assault) - agresa  
@@ -232,25 +232,25 @@ attribute (charasteristic, quality, feature, description, property) - sifa
 August - mes bato  
 auspicious (promising) - bonsinyi  
 Australia - Australia  
-Australian Aboriginal - aslaustrali  
+Australian Aboriginal - asal Australia jan  
 Austria - Ostria  
 Austronesia - Austronesia  
 authority (power to give orders) - amir haki  
-autocracy (monarchy) - autokratia  
-autonomous - autonomi  
-autonomy - autonomia  
+autocracy (monarchy) - auto krati  
+autonomous - auto nomi li  
+autonomy - auto nomi  
 autumn (fall) - padomosim  
 avocado - avakate  
 awake - jagi  
 aware (enlightened) - budi  
-awe (wonder) - ajabia  
+awe (wonder) - ajibu  
 axe (hatchet) - futau  
-axis (axle) - akse  
+axis (axle) - axe  
 Azerbaijan - Azerbaijan  
 azure - lazuri  
 azure bluet - blu ceram sing  
 ####B - B  
-babul tree (thorny acacia) - arabobabul  
+babul tree (thorny acacia) - arabi babul  
 baby (infant) - bebe  
 back - ruke  
 backgammon - narde  
@@ -293,7 +293,7 @@ barbecue (grill) - kababu
 Barbuda - Barbuda  
 barium - barium  
 barley - jau  
-barometer - airbarmetrer  
+barometer - air bari metre gi  
 barrel (can, cask) - tong  
 barrier (fence) - bara  
 base (alkali) - kali  
@@ -506,7 +506,7 @@ butterfly (moth) - pelpel
 buttocks (bum, butt, ass) - pige  
 buy (purchase) - shopa  
 buyer - shoper  
-by (at, in, on) - an  
+by (at, in, on) - pa  
 ####C - C  
 cabin (booth) - kabin  
 cable (wire, line) - eletrolin  
@@ -582,14 +582,13 @@ catch fish - saida pesh
 Caucasia - Kaukasia  
 cauldron - daivaze  
 cause (be the cause for) - saba  
-cause (make sb. do sth.) - an:a  
 cause and effect - karma e asar  
 cave - gua  
 Cayman Islands - Kaiman nesia  
 ceiling - kamargau  
 celebrate (party) - festa  
 celestial (heavenly) - teni  
-celestial body - astre  
+celestial body - astro  
 cell (biology) - celu  
 cement - semente  
 center (concentrate) - junga  
@@ -695,9 +694,9 @@ clocktower - horlogerminar
 clockwise - rotoraito  
 clone (replica) - klon  
 clone (replicate) - klona  
-close (shut) - ankaya  
+close (shut) - an kai  
 close (shut) - klusa  
-closed - ankayi  
+closed - an kai di  
 cloth (fabric, textile) - texe  
 clothed (dressed) - fuki  
 clothing (clothes) - fuke  
@@ -741,7 +740,7 @@ comb - kang
 come (arrive) - lai  
 comic (cartoon) - grafi kata  
 comma - koma  
-command line (console, terminal) - amirlin  
+command line (console, terminal) - amir lin  
 common (general) - putong  
 common (mutual) - koni  
 common (shared) - komuni  
@@ -826,7 +825,7 @@ counselor (consultant) - konseler
 count (enumerate) - numba  
 counterclockwise (anticlockwise) - rotolefto  
 country (land, state) - desha  
-countryside - agristan  
+countryside - nong istan  
 coupon - kupon  
 cousin - chin brus ben  
 cover (conceal) - daka  
@@ -863,7 +862,7 @@ crystal - bilor
 Cuba - Kuba  
 cube - kube  
 cucumber - hiyar  
-cultivate (farm) - agro  
+cultivate (farm) - nong  
 culture - kultur  
 cumin (jeera) - zira  
 cupboard (closet, cabinet, wardrobe) - almari  
@@ -891,7 +890,7 @@ dagger - kanjar
 daimyo oak - dantobalute  
 daisy - margarite  
 damage (injury, harm) - avar  
-damaged (corrupt) - avari  
+damaged (corrupt) - avar di  
 dance - danse  
 dandelion - makanful  
 danger (peril) - hatar  
@@ -912,17 +911,17 @@ daughter - femi pute
 day (24 hours) - yom  
 day (daytime) - den  
 day of the week - var  
-deactivate (disable, turn off) - anativa  
+deactivate (disable, turn off) - fa an karma  
 dead (deceased) - morti  
 dear (beloved) - ami  
 death - morte  
 debate (discuss) - lona  
-debug - angalta  
+debug - fa an galta  
 decay (rot, deteriorate) - pudu  
 December - mes des du  
 deci- - dechi*  
 decibel - dechibel  
-decode (decrypt) - ankoda  
+decode (decrypt) - an kode  
 decorate (embellish) - sundardaka  
 decoration (ornament) - sundardake  
 decrease (lessen) - mina  
@@ -965,8 +964,8 @@ diamond - almas
 dictionary (word list) - logoliste  
 die (dice) - zar kube  
 die - mortu  
-difference - alosfia  
-different - alosifi  
+difference - alo sifa  
+different - alo sifa li  
 dig (excavate) - kava  
 dining room - yam kamar  
 dinner - sham yam  
@@ -975,8 +974,8 @@ diorite - diorite
 direction - dish  
 directly - disho  
 dirty (soiled, polluted, defiled, tainted, unclean, impure) - najisi  
-disagree - aloraya  
-disagreement (disconsent) - alorayia  
+disagree - alo rai  
+disagreement (disconsent) - alo rai  
 disapprove (frown upon) - dusraya  
 disc (disk) - diske  
 discrete (digital, quantized) - feni  
@@ -984,8 +983,8 @@ discussion (debate, discourse) - lon
 disease - pate  
 disfigure - dusforma  
 dish - tas  
-dislike (loathe) - anama  
-disperse (spread out, scatter) - anjama  
+dislike (loathe) - an ai  
+disperse (spread out, scatter) - an jami  
 distance (far away) - tele  
 distinction (specialty) - hasia  
 distinguish - hasa  
@@ -1081,9 +1080,9 @@ ecology (study of environment) - ekolojia
 economics - malnomia  
 Ecuador - Ekuador  
 education (schooling) - shulia  
-effect (bring about) - asara  
+effect (bring about) - fa asar  
 effect (impact, impression, result, outcome) - asar  
-egg - ande  
+egg - anda  
 eggplant (aubergine, brinjal) - bedinje  
 Egypt - Misria  
 Egyptian - misri  
@@ -1103,7 +1102,7 @@ elf - elfe
 embassy - dayanjilkan  
 emerald - zumarda  
 emir - amir ja  
-emirate - amiria  
+emirate - amir ya  
 emoji (smiley, emoticon) - emoje  
 emotion (feeling) - emos  
 emotional (emotive) - emosi  
@@ -1118,8 +1117,7 @@ end - finu
 ended (finished) - fini  
 endonym - innam  
 enemy (foe, villain) - dusjan  
-enemy (unfriend) - andoste  
-enemy - anamike  
+enemy (unfriend) - an doste  
 energy - energe  
 engine (motor) - moto  
 engineer - enjener  
@@ -1237,7 +1235,7 @@ fantastic (imaginary) - fantazi
 fantasy (imagination) - fantaze  
 far (distance, length) - tele  
 farewell - salam chute  
-farmer - agrer  
+farmer - nong ja  
 fart (flatulate) - peda  
 fart (flatulence) - pede  
 fascination - fasinia  
@@ -1289,9 +1287,9 @@ find (discover) - eureka
 fine (delicate) - faini  
 fine arts - sundar shutu  
 finger (toe) - angul  
-finger ring - angulring  
-fingerprint - angulmarke  
-fingertip - angulpike  
+finger ring - angul ring  
+fingerprint - angul marke  
+fingertip - angul pike  
 finish (complete, end) - fin  
 finished - finiti  
 finite (limited) - limiti  
@@ -1347,8 +1345,8 @@ force (strength, power) - fortia
 foreign - eshdeshi  
 foreign country - eshdesh  
 forenoon - suboden  
-forest (woods, jungle) - jangle  
-forget - anmema  
+forest (woods, jungle) - jangal  
+forget - an memo  
 forgive (pardon) - mafa  
 fork - forke  
 form (questionaire) - sualdokum  
@@ -1370,7 +1368,7 @@ Francophonie - Francefonia
 free (liberate) - hura  
 free (unchained) - huri  
 freedom (liberty) - huria  
-freeze (get frozen) - aisu  
+freeze (get frozen) - be ais  
 French Guiana - France Guyana  
 French Polynesia - France Polinesia  
 frequency - polmaria  
@@ -1440,7 +1438,7 @@ germanium - germanium
 Germany - Doiche  
 gesture - jeste  
 get (receive, obtain, take) - geta  
-get off (descend) - aneskala  
+get off (descend) - an eskala  
 get tired (become weary) - fatigu  
 getter (receiver, recipient) - geter  
 Ghana - Gana  
@@ -1473,7 +1471,7 @@ goal (destination) - gol
 goat - be’e  
 god (deity) - deu  
 god of love (Eros, Kamadeva) - kama deu  
-gold - aure  
+gold - auro  
 golem - golem  
 gone (away) - kiti  
 goniometer - gonmetrer  
@@ -1553,7 +1551,7 @@ habit (custom) - ada
 hafnium - hafnium  
 hair - kesh  
 hairband (headband) - keshbende  
-Haiti - Aiti  
+Haiti - Haiti  
 halo (aureola) - foto sirke  
 halve (divide by two) - dulo fena  
 hammer - hamar  
@@ -1564,8 +1562,8 @@ hang (dangle) - penda
 harbor (seaport) - haiporte  
 hard (tough) - gati  
 hardship (difficulty, challenge) - dushal  
-harm (damage) - avara  
-harmful (damaging) - avarani  
+harm (damage) - fa avar  
+harmful (damaging) - avar ja  
 harmonious - harmoni  
 harmony - harmonia  
 harness - harnes  
@@ -1584,7 +1582,7 @@ headmaster (principal) - shula shefe
 heal (cure, remedy) - medika  
 health - salia  
 healthy - sali  
-hear (listen) - auda  
+hear (listen) - audi  
 heart - shim  
 heavy - veze di  
 heavy metal - bari metal  
@@ -1604,8 +1602,8 @@ hero - hero
 heroic - hero li  
 hertz (Hz) - herze  
 Hesse - Hesia  
-heteroromantic - aloromansi  
-heterosexual - aloseksi  
+heteroromantic - alo romanse  
+heterosexual - alo sexe li  
 hexagon - sisgon  
 hexahedron (cube) - sisfas  
 hide (conceal) - sira  
@@ -1692,10 +1690,10 @@ I (me) - mi
 I Ching (the Book of Changes) - yeki kanon  
 Iapetus - Yapetus  
 ice - ais  
-ice cream - aiskrem  
-ice hockey - aishoke  
+ice cream - ais krem  
+ice hockey - ais hoki  
 Iceland - Islande  
-icy - aisi  
+icy - ais li  
 idea (concept, notion) - idei  
 ideogram - ideigraf  
 ideology (principle, doctrine, -ism) - jui  
@@ -1735,7 +1733,7 @@ Indus river - Hindu riu
 infect - patomisa  
 infection (infestation, contagion) - patomis  
 infidel (pagan, heathen, unbeliever) - kafir  
-infinity - anlimitia  
+infinity - an limite  
 inflammation (-itis) - flame  
 information (communicable knowledge) - konsave  
 initial (first) - shuru di  
@@ -1748,7 +1746,7 @@ insect - konchung
 inside (interior) - in  
 inside (interior) - intre  
 inside - intro  
-insomnia - ansomia  
+insomnia - an sona  
 instructions (recipe) - resete  
 insult (offence) - ninde  
 insult (offend, call names) - dusnamana  
@@ -1843,7 +1841,7 @@ Kazakhstan - Kazakia
 keep (preserve, conserve, retain, spare) - hafiza  
 keeper (preserver) - hafiza ja  
 kelp - varka alga  
-kelp forest - algojangle  
+kelp forest - alga jangal  
 kelvin - kelvin  
 Kenya - Kenia  
 ketchup - kechape  
@@ -1955,7 +1953,7 @@ Liberia - Liberia
 librarian - kitabu minister  
 library - kitabu kan  
 Libya - Libia  
-lichen - algofung  
+lichen - alga fungu  
 lie (lie down) - kushu  
 Liechtenstein - Lihtenstain  
 life (existence) - jiu  
@@ -2110,7 +2108,7 @@ Mars - Marse
 marsh (bog, swamp, morass) - fantopia  
 Marshall Islands - Marshal nesia  
 martial art - jengoshute  
-marvel (wonder) - ajabe  
+marvel (wonder) - ajibu  
 mask (camouflage) - maske  
 mason (stonemason, stonecutter) - shekojanger  
 mass (quantity of matter) - mas  
@@ -2168,7 +2166,7 @@ Mercury - Merkur
 merge (fuse) - rivunu  
 meridian (line of longitude) - ging cirke  
 message - anjil  
-messenger - anjiler  
+messenger - anjil ja  
 messianic - mesi li  
 metal - metal  
 meter (100 cm) - mitre  
@@ -2243,7 +2241,7 @@ mongoose - mungus
 monism - unemistia  
 monochrome - unrangi  
 monocle - unoki lense  
-monolog - autologe  
+monolog - auto loga  
 monotheism - undevistia  
 monster - monoster  
 Montenegro - Chernagora  
@@ -2429,7 +2427,7 @@ nylon - nilon
 ####O - O  
 oak tree - balute  
 oasis - vase  
-oat - aven  
+oat - ave  
 Oberon - Oberon  
 object (item, thing) - vutu  
 object (patient, target) - ite  
@@ -2445,13 +2443,13 @@ odd (strange, weird) - bizar
 Odia (Oriya) - odisi  
 of (attributive preposition) - da  
 of course (obviously) - klaro  
-off (deactivated, disabled) - anativi  
+off (deactivated, disabled) - an karma ja  
 office (bureau) - ofisia  
 office (position) - ofis  
 office (room) - ofiskan  
 officer - ofiser  
 official - ofisi  
-offline - an no lin  
+offline - pa no lin  
 often (frequently) - polmaro  
 oganesson - oganeson  
 ogre (troll, goblin) - gui  
@@ -2469,7 +2467,7 @@ oncilla - bagroselote
 one (1) - un  
 one (you, they, impersonal pronoun) - men  
 onion - piaze  
-online - an lin  
+online - pa lin  
 only (single, sole, lone) - uniki  
 only (solely, just) - uniko  
 open (not closed) - kayi  
@@ -2489,12 +2487,12 @@ order (arrange) - ratiba
 order (arrangement, sequence) - ratibe  
 order (command) - amir  
 orderly (organized, in sequence, tidy, regular) - ratibi  
-ordinary (customary, habitual, normal) - adi  
+ordinary (customary, habitual, normal) - ada li  
 organism (living thing) - bio vute  
 orgasm - orgazme  
 oriental poppy - guipapil  
-origin (source) - asle  
-original (authentic) - asli  
+origin (source) - asal  
+original (authentic) - asal di  
 Oromia - Oromia  
 Oromo (an Ethiopian ethnic group and language) - oromi  
 orphan - yatim  
@@ -2502,7 +2500,7 @@ orphanage - yatim dom
 orthogonal (perpendicular) - ortogoni  
 osmium - osmium  
 osmosis - osmos  
-other - ali  
+other - alo  
 otherwise (else) - alo  
 otitis - ore flame  
 otter - lontre  
@@ -2634,7 +2632,7 @@ peripheral - kinar li
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
 person (individual, -ist, -er) - jan  
-personal (intimate, private, custom) - auti  
+personal (intimate, private, custom) - auto li  
 personal identification number (PIN) - sekurnumbe  
 personalize (customize) - auta  
 perspective (point of view) - vide punte  
@@ -2927,10 +2925,10 @@ relationship (association, connection) - guanshe
 relic - chenike  
 religion (worship) - din  
 religious - din li  
-reluctant - anichi  
+reluctant - an icha ja  
 remain (stay) - restu  
 remember (recall) - mema  
-remove (delete, dispose, erase) - anzaya  
+remove (delete, dispose, erase) - fa no zai  
 remove (take away) - kitana  
 renew (make new, renovate) - neva  
 rent (charter, lease) - kirogeta  
@@ -2963,7 +2961,7 @@ return (put back) - retra
 return (restore, recover, resume) - fuga  
 return (way back) - retre  
 return ticket - retrotikete  
-reverse (negative, un-) - ani  
+reverse (negative, un-) - an  
 Rhea - Rea  
 rhenium - renium  
 rhinoceros - kornonos  
@@ -3036,8 +3034,8 @@ ruler - sultan
 rum - rum  
 run - kora  
 runner - korer  
-rural (rustic) - agristani  
-rural village - agrochun  
+rural (rustic) - nong istan li  
+rural village - nong chun  
 Russia - Rusia  
 Russian language - rusia basha  
 rustle - shashu  
@@ -3134,9 +3132,9 @@ seem - rupu
 seismology - sismologi  
 seldom (rarely) - nadiro  
 selenium - selenium  
-self (identity) - aute  
+self (identity) - auto  
 self (reflexive pronoun) - se  
-self-moving (automotive, automobile) - automoti  
+self-moving (automotive, automobile) - auto move  
 sell (vend) - vende  
 seminal - semi  
 senator - senater  
@@ -3312,7 +3310,7 @@ space (character) - hali harfi
 space (cosmos, universe) - kosmo  
 spaceship - kosmo nave  
 Spain - Espanya  
-sparse (scattered) - anjami  
+sparse (scattered) - an jami li  
 speak (talk, language, communication) - basha  
 spear thistle - perkardon  
 spearmint - zong minte  
@@ -3326,7 +3324,7 @@ speedometer - rapidometrer
 spell (enchantment) - magasar  
 spice (seasoning) - masale  
 spider - arane  
-spiderweb (cobweb) - aranonete  
+spiderweb (cobweb) - arane nete  
 spiral (helix, corkscrew, twist) - helis  
 spit - tuha  
 split (fall apart) - fenu  
@@ -3355,7 +3353,7 @@ stand - libu
 stand still - estasu  
 star - sing  
 starboard (right side of a ship) - nave raite  
-starship - atro nave  
+starship - astro nave  
 state (condition, status, situation) - hal  
 static (stationary) - estasi  
 station - estasia  
@@ -3385,7 +3383,7 @@ stopwatch - durmetrer
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
 straight - orti  
 straighten - orta  
-strange (unknown) - ansavi  
+strange (unknown) - an sabi li  
 stray (deviant) - rutogalti  
 stray (deviate) - rutogalta  
 strengthen (reinforce) - forta  
@@ -3544,7 +3542,7 @@ than (as, compared to) - ka
 thank - danka  
 thanks (thank you) - danke  
 thanks to - danko da  
-that is (in other words, i.e., alias) - alonamo  
+that is (in other words, i.e., alias) - alo nam  
 that over there - u  
 the (that) - a  
 the Grenadines - Grenadin nesia  
@@ -3556,7 +3554,7 @@ theocracy - deu krati
 theology - deu logi  
 theory - teoria  
 theosophy - deu sofi  
-there - an u loka  
+there - pa u loka  
 thermometer - termometre gi  
 they - yamen  
 thick - gros  
@@ -3703,15 +3701,15 @@ umbrella - shava chati
 umbrella thorn acacia tree - helisbabul  
 Umbriel - Umbriel  
 unambiguous - unmeni  
-unbeliever (infidel) - andiniste  
-uncover (reveal) - andaka  
+unbeliever (infidel) - an din ja  
+uncover (reveal) - an daka  
 under - nicho  
 underestimate - minraya  
 undergo (passivizing verb) - beyu  
 underground (subterrainean) - geo niche di  
 underside (underneath) - niche  
 understand (realize) - aha  
-unexpected - anchenvidi  
+unexpected - an chen vide di  
 union - unia  
 unit (measurement) - metrun  
 unite - una  
@@ -3721,11 +3719,11 @@ United Kingdom - Britania
 United States of America (USA) - Uniti Desha Da Amerika (UDA)  
 universal - unversi  
 university - daishulkan  
-unlock - ansora  
-unlocked - ansori  
-unnecessary (extraneous, unneeded) - anyavi  
-unplug (uncork) - antapa  
-unrest - anpache  
+unlock - an sora  
+unlocked - an sora li  
+unnecessary (extraneous, unneeded) - no yau di  
+unplug (uncork) - an tapa  
+unrest - an pace  
 until (til, up to) - hata  
 upgrade (level up) - bondarja  
 upload - netodona  
@@ -3827,7 +3825,7 @@ water - sui
 water buffalo - karbau  
 water lily (nenuphar) - nenufar  
 watercolor - suirang  
-watermelon - arbuze  
+watermelon - arbuza  
 watermint - suiminte  
 waterproof - suisekuri  
 watery - suyi  
@@ -3866,7 +3864,7 @@ what? - ke
 wheat - ganum  
 wheel - chakra  
 when? - ke sate  
-where - an ke  
+where - pa ke  
 which (who, that) - de  
 whisky (whiskey) - viski  
 white - baki  
@@ -3900,7 +3898,7 @@ without - na
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - maturi fem  
-wonder (be amazed) - ajabu  
+wonder (be amazed) - be ajibu  
 wonder (be interested in, would like to know) - savovolu  
 wood (timber) - mokomate  
 wood board (plank) - mokoban  

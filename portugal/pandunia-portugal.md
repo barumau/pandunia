@@ -13,51 +13,43 @@ Afgan - Afeganistão
 agile - ágil  
 agres - ataque  
 agreser - agressor  
-agri - agrícola  
-agro - cultivar  
-agrobiologi - agrobiologia  
-agronomia - agronomia  
 ai - amor  
 ai ja - amante  
 ai jen - querido  
 air - ar  
-airbivi - aeróbico  
-airgun - força aérea  
-airporte - aeroporto  
-aishoke - hóquei no gelo  
-aiskrem - sorvete (gelado)  
-aisu - gelar  
-ajabe - maravilha  
+air bio li - aeróbico  
+air gun - força aérea  
+air porte - aeroporto  
+ais hoki - hóquei no gelo  
+ais krem - sorvete (gelado)  
+ajibu - maravilha  
 akare - carrapato (ácaros)  
 ala - alterar  
-alge - alga  
-algojangle - floresta de algas  
-ali - outro  
+alga - alga  
+alga jangal - floresta de algas  
 alkol - álcool  
 almari - armário  
 almas - diamante  
-aloraya - discordar  
-amater - amador  
+alo - outro  
+alo rai - discordar  
 amen - honesto (sincero)  
 amen shin - confiar (contar com)  
 ami - querido (caro)  
-an ke - onde  
-an lin - online  
-anairbivi - anaeróbico  
+an air bio li - anaeróbico  
+an din ja - infiel  
+an memo - esquecer  
+an sona - insônia  
 andesite - andesito  
-andiniste - infiel  
 angar - âncora  
 angul - dedo  
-angulmarke - impressão digital  
-angulpike - ponta do dedo  
+angul marke - impressão digital  
+angul pike - ponta do dedo  
 anjil - mensagem  
-anmema - esquecer  
-ansomia - insônia  
 aple - maçã  
+aple sos - purê de maçã  
 aplika - usar  
-aplosaus - purê de maçã  
 arane - aranha  
-arbuze - melancia  
+arbuza - melancia  
 argente - prata  
 argum - argumento  
 arka - arco  
@@ -66,28 +58,26 @@ arme - arma
 aroma - cheiro  
 aroma - cheirar  
 aroma melon - melão coreano  
-artiste - artista  
+arte ja - artista  
+asal - origem  
+asal Amerka jan - indígena (índio)  
+asal di - original  
 asar - efeito  
-asara - efetuar  
-aslameriki - indígena (índio)  
-asle - origem  
-asli - original  
-asme - asma  
+asma - asma  
 aspirin - aspirina  
-astre - astro (corpo celeste)  
+astro - astro (corpo celeste)  
+astro nave - astronave  
 astro nave ja - astronauta  
 astro nomi - astronomia  
 astro nomi ja - astrónomo  
-Atina - Atenas  
-ativi - ativo  
-atlantokade - bacalhau-do-atlântico  
-atro nave - astronave  
+Athina - Atenas  
+atlanti kade - bacalhau-do-atlântico  
 au - ai!  
-aure - ouro  
+auro - ouro  
 Austronesia - Austronésia  
-autologe - monólogo  
+auto loga - monólogo  
 avar - dano (avaria)  
-aven - aveia  
+ave - aveia  
 ####B - B  
 bache - criança (menino)  
 badam - amêndoa  
@@ -128,6 +118,7 @@ bazar - mercado (bazar)
 baze - base  
 bazobol - basebol (beisebol)  
 bazoshulkan - ensino primário  
+be ais - gelar  
 bebe - bebê  
 bedinje - beringela  
 beker - padeiro  
@@ -294,6 +285,7 @@ europobalute - carvalho-roble
 evanjil - evangelho  
 ####F - F  
 fa - fazer  
+fa asar - efetuar  
 fa valu - valorar  
 fa vote - votar  
 fan - lama (lodo)  
@@ -429,6 +421,7 @@ hisaba - calcular
 hisabolojia - matemática  
 hisabu loge - conta  
 hiyar - pepino  
+hobi ja - amador  
 hoga - queimar  
 hoge - fogo  
 hogoshan - vulcão  
@@ -470,7 +463,7 @@ jamkarde - cromo
 jamul - jambolão (jambo)  
 jan - pessoa  
 janel - janela  
-jangle - selva (floresta, jângal)  
+jangal - selva (floresta, jângal)  
 jar - jarra (jarro)  
 jau - cevada  
 javabe - resposta  
@@ -540,6 +533,7 @@ kardon - cardo
 karer - trabalhador  
 karimia - generosidade  
 karma - ato (ação)  
+karma ja - ativo  
 karma ja - agente  
 karma loga - verbo  
 karote - cenoura  
@@ -811,6 +805,10 @@ noche - noite
 Noe - Noé  
 Noe di nave - arca de Noé  
 noma - organizar  
+nong - cultivar  
+nong bio logi - agrobiologia  
+nong li - agrícola  
+nong nomi - agronomia  
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note - nota  
@@ -838,6 +836,8 @@ ostojamia - esqueleto
 ostoshalke - escudo  
 ####P - P  
 pa - pai  
+pa ke - onde  
+pa lin - online  
 pache - paz  
 pachiste - pacifista  
 padomosim - outono  

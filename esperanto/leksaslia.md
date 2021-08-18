@@ -11,52 +11,49 @@
 |**Afrika**|Afriko|araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika, angla:hispana:portugala:Africa, franca:Afrique, rusa:Африка (Afrika), hindia:अफ़्रीका (afrīkā), bengala:আফ্রিকা (aphrika), japana:アフリカ (Afurika), korea:프리카 (Apeurika)|
 |**agile**|lerta|angla:franca:agile, hispana:portugala:ágil, deu:agil|
 |**agres**|atako (agreso)|angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif|
-|**agri**|agrikultura|angla:franca:hispana:portugala:turka:agro-, rusa:агро- (agro-)|
 |**aha**|kompreni|rusa:ага (aha), korea: 아하 (aha), angla: uh-huh, polona:aha|
 |**ai ja**|amanto|araba: حُبّ (ḥubb), svahila:huba, hindia:मुहब्बत (muhabbat), bengala:মহব্বত (môhôbbôt)|
 |**ai**|amo|mandarena:爱 (ài), kantona:愛 (oi3), japana:愛 (ai), vjetnama:ái, korea:애 (ae)|
 |**air**|aero|angla:franca:hispana:air, portugala:ar, rusa:аэро- (aero-)|
+|**ais krem**|glaciaĵo|angla:ice cream, japana:アイスクリーム (aisukurīmu), korea:아이스크림 (aiseukeurim), hindia:आइसक्रीम (āisakrīm), bengala:আইসক্রীম (aisôkrīm), malaja:es krim, svahila:aiskrimu|
 |**ais**|glacio|angla:ice, deu:Eis, malaja:és|
-|**aiskrem**|glaciaĵo|angla:ice cream, japana:アイスクリーム (aisukurīmu), korea:아이스크림 (aiseukeurim), hindia:आइसक्रीम (āisakrīm), bengala:আইসক্রীম (aisôkrīm), malaja:es krim, svahila:aiskrimu|
 |**ajila**|rapidigi|araba:عجل (ʿajila), turka:acele, svahila:ajila, persa:عجله  (ajaleh), hindia:जल्द (jald)|
-|**akse**|akso|angla:axis, franca:axe, hindia:अक्ष (akṣ), turka:eksen|
-|**alge**|algo|angla:hispana:portugala:polona:malaja:alga, franca:algue, deu:Alge, turka:alg, persa:(âlg)|
-|**ali**|alia|greka:άλλος (állos), latina:alius, angla:franca:allo-, portugala:hispana:alo-, rusa: алло- (allo-)|
+|**alga**|algo|angla:hispana:portugala:polona:malaja:alga, franca:algue, deu:Alge, turka:alg, persa:(âlg)|
 |**alkol**|alkoholo|franca:alcool portugala:álcool hispana:alcohol angla:alcohol hindia: araba:(kuhul), rusa:алкоголь (alkohol), polona:alkohol|
 |**almari**|ŝranko|hispana:armario, portugala:armário, hindia:अलमारी (almārī), bengala:আলমারি (almari), malaja:lemari, svahila:almari|
 |**almas**|diamanto|svahila:almasi, rusa:алмаз (almaz), araba:(ʾalmāsa), persa:(almâs), turka:elmas|
-|**Amerike**|Ameriko|angla:America, hispana:portugala:América, rusa:Америка (Amerika), turka:svahila:malaja:Amerika, araba:أمريكا‎ (ʾamrīkā), hindia:अमेरिका (amerikā), bengala:আমেরিকা (amerika), japana:アメリカ (amerika)|
+|**alo**|alia|greka:άλλος (állos), latina:alius, angla:franca:allo-, portugala:hispana:alo-, rusa: алло- (allo-)|
+|**Amerika**|Ameriko|angla:America, hispana:portugala:América, rusa:Америка (Amerika), turka:svahila:malaja:Amerika, araba:أمريكا‎ (ʾamrīkā), hindia:अमेरिका (amerikā), bengala:আমেরিকা (amerika), japana:アメリカ (amerika)|
 |**amir**|ordono|araba: أَمْر‎ (ʾamr), persa: امر‎ (amr), turka:emir, svahila:amiri, haŭsa:umarni + angla:admiral, franca:amiral, hispana:portugala:emir rusa:эмир (emir)|
-|**an**|ĉe (en, sur)|deu:an, franca:en, hispana:en+ igba:lingala:konga:na|
-|**an:a**|igi (farigi)|angla:franca:-ant, hispana:portugala:-ando, turka:-(y)an;-(y)en, malaja:-an + [ana] persa:(-ân-), hindia:(-(v)ānā), bengala:-নো  (-ānô)|
-|**ande**|ovo|hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)|
+|**an**|mala|greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-|
+|**anda**|ovo|hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)|
 |**angar**|ankro|angla:anchor, franca:ancre, portugala:âncora, malaja:jangkar, rusa:якорь, araba:(ʾanjar), hindia:लंगर (laṅgar), urdua:(laṅgar), teluga:లంగరు (laṅgaru), svahila:nanga|
 |**angul**|fingro|hindia:अंगुलि (aṅgulī), bengala:আঙুল (aṅgul)|
-|**ani**|mala|greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-|
 |**anime**|kartuno|angla:franca:animation, hispana:animación, portugala:animação, rusa:анимация, japana:アニメ (anime), turka:malaja:anime, araba:أنمي m (ʾanimī), hindia:ऐनिमे (ainime), korea:아니메 (anime)|
 |**anjil**|mesaĝo|greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl), rusa:евангелие (evangeliye), franca:évangile, portugala:evangelho|
 |**anten**|anteno|angla:antenna, hispana:portugala:malaja:antena, franca:antenne, rusa:антенна (antenna), turka:anten, japana:アンテナ (antena)|
 |**anus**|anuso|angla:franca:anus, portugala:ânus, hispana:ano, deu:Anus, rusa:анус (anus), turka:anüs|
 |**aple**|pomo|angla:apple, deu:Apfel, malaja:apel, bengala:আেপল (apôl), zulua:ihhabhula|
 |**arane**|araneo|franca:araignee, portugala:aranha, hispana:araña, angla:arachnid|
-|**arbuze**|akvomelono|rusa:арбуз (arbuz), polona:arbuz, turka:karpuz, greka:καρπούζι (karpuzi), hindia:तरबूज़ (tarbūz), bengala:তরমুজ (tôrmuj)|
+|**arbuza**|akvomelono|rusa:арбуз (arbuz), polona:arbuz, turka:karpuz, greka:καρπούζι (karpuzi), hindia:तरबूज़ (tarbūz), bengala:তরমুজ (tôrmuj)|
 |**area**|areo|angla:area, portugala:hispana:área, polona:areał, franca:aire|
 |**argente**|arĝento|portugala:itala:argento, franca:argent, malaja:argentum|
 |**arme**|armilo|franca:arme, angla:arms, hispana:portugala:arma|
+|**asal**|origino|araba:(ʾaṣl), turka:asl, malaja:asal, hindia:असल (asl), svahila:asili|
 |**asan**|posteno|hindia:आसन (āsan), angla:asana, rusa:асана (asana)|
 |**asha**|esperi|hindia:आशा (āśā), malaja:filipina:asa, teluga:ఆశ (āśa), tamila:ஆசை (āsai)|
 |**Asia**|Azio|angla:hispana:Asia, rusa:Азия (Aziya), turka:Asya, araba:آسيا (ʾāsiyā), persa:آسیا‎ (âsiyâ), hindia:एशिया (eśiyā), bengala:এশিয়া (eśiẏa), marataja:आशिया (āśiyā), malaja:Asia, mandarena:亞洲 (yàzhōu), kantona:亚洲 (aa3 zau1), vua:亚洲 (ia tseu), japana:アジア (ajia), korea:아시아 (asia)|
 |**askete**|ascetiko|angla:ascetic, hispana:portugala:asceta, franca:ascéte, rusa:аскет (asket)|
-|**asle**|origino|araba:(ʾaṣl), turka:asl, malaja:asal, hindia:असल (asl), svahila:asili|
-|**asme**|astmo|franca:asthme, angla:asthma, hispana:portugala:malaja:asma, polona:astma|
+|**asma**|astmo|franca:asthme, angla:asthma, hispana:portugala:malaja:asma, polona:astma|
 |**aspirin**|aspirino|angla:aspirin, hispana:portugala:aspirina, franca:aspirine, rusa:аспирин (aspirin), araba:أسبرين‎ (ʾasbirīn), hindia:एस्पिरिन (espirin), mandarena:阿司匹林 (āsīpǐlín),  japana:アスピリン (asupirin), svahila:aspirini|
 |**atom**|atomo|angla:turka:malaja:atom, hispana:portugala:átomo, rusa:атом (atom), svahila:atomi, japana:アトム (atomu)|
 |**au**|aj (alas)|hispana:ay, portugala:ai, franca:aïe, mandarena:哎 (ai), korea:아야 (aya), persa:(ây), rusa:ай (ay)|
-|**auda**|aŭdi (aŭskulti)|angla:hispana:franca:audio, portugala:áudio|
-|**aure**|oro|latina:aurum, portugala:ouro, hispana:oro, franca:or, rusa:аурум (aurum), malaja:aurum|
+|**audi**|aŭdi (aŭskulti)|angla:hispana:franca:audio, portugala:áudio|
+|**auro**|oro|latina:aurum, portugala:ouro, hispana:oro, franca:or, rusa:аурум (aurum), malaja:aurum|
 |**avakate**|avokado|nah:ahuakatl, hispana:aguacate, portugala:abacate, filipina:abokado, japana:アボカド (abokado), korea:아보카도 (abokado), franca:avocat, polona:awokado, konga:zavoká|
 |**avar**|damaĝo|araba: عَوَارِيَّة‎ (ʿawāriyya), angla:(nautical) average, franca:avarie, hispana:avéria, portugala:avaria, rusa:авария (avariya), turka:avarya|
-|**aven**|aveno|franca:avoine, hispana:avena, portugala:aveia, rusa:овёс (ovyos), malaja:haver|
+|**ave**|aveno|franca:avoine, hispana:avena, portugala:aveia, rusa:овёс (ovyos), malaja:haver|
+|**axe**|akso|angla:axis, franca:axe, hindia:अक्ष (akṣ), turka:eksen|
 |**babe**|ĉapitro|malaja:bab, araba:urdua:persa:(bāb), svahila:babu|
 |**babuche**|pantoflo|araba: بَابُوج‎ (bābūj), hispana:babucha, franca:babouche, angla:babouche|
 |**bache**|infano|persa:(bačče), urdua:(baccā), hindia:बच्चा (baccā), guĝarata: બચ્ચું (baccũ), filipina:bata|
@@ -401,8 +398,8 @@
 |**jampa**|salti|angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jan**|persono|mandarena:人 (rén), wuu人 (zén), japana:人 (jin) + hindia:जन (jan), bengala:-জন (-jôn), malaja:-jana, taja:ชน (chon), kmera:ជន (jon) + franca:gens, portugala:gente|
 |**janel**|fenestro|portugala:janela, bengala:জানালা (janala), malaja:jendela + tamila:சன்னல் (sannal), nya:zenera, konga:nêla|
+|**jangal**|arbaro|angla:franca:jungle, hispana:jungla, portugala:jângal, rusa:джунгли (džungli), hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), malaja:jenggela, japana:ジャングル (janguru), korea:정글 (jeonggeul), turka:cengel|
 |**janger**|metiisto|mandarena:匠 (jiàng), taja:ช่าง (jang), kmera:ជាង (ciəng)|
-|**jangle**|arbaro|angla:franca:jungle, hispana:jungla, portugala:jângal, rusa:джунгли (džungli), hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), malaja:jenggela, japana:ジャングル (janguru), korea:정글 (jeonggeul), turka:cengel|
 |**jar**|kruĉo|araba: جَرَة‎ (jara), angla:jar, franca:jarre, hispana:portugala:jarra|
 |**jau**|hordeo|hindia:जौ (jau), bengala:যব (jôb), marataja:जव (jav), guĝarata:જવ (jav), persa: جو‎ (jow)|
 |**javabe**|respondo|araba: جَوَاب‎ (jawāb), hindia:जवाब (javāb), malaja:jawab, svahila:jibu,jawabu, turka:cevap|

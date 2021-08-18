@@ -5,10 +5,11 @@ a|dem.prn.||por:a, ara:a(l), tel:ఆ (ā), tam:அது (atu)|the (that)|le (la
 abies|bio|Abies|spa:por:abeto|fir tree|sapin|abeto|abeto|пихта|شُوح‎|冷杉|モミ|전나무|linh sam|सनोबर||||göknar|abio|pihta (jalokuusi)|jodła
 acente|||eng:fra:accent, spa:por:acento, pol:akcent, jpn:アクセント (akusento)|accent (stress)|accent|acento|acento|ударение||重音符号||||स्वर का चढ़ाव उतार||aksen|||akcento|painotus (aksentti)|akcent, nacisk
 acesa|||eng:access, spa:acceso, por:acesso, fra:accès, may:akses, jpn:アクセス (akusesu)|access (admission, accessibility)|accès|acceso|acesso|доступ|||アクセス|||प्रवेश||capaian (akses, laluan)||erişim||pääsy|
+acesa bil||||accessible (within reach)|accessible (atteignable, à portée)|accesible||доступный|||とっつきやすい (アクセス可能)|||सुगम्य (सुगम, सुलभ)||dapat dicapai (dapat diakses)||||ulottuvilla|
 achi|||spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|sneeze (achoo)|éternuer (atchoum)|estornudar (achís)|espirrar|чихать||打喷嚏 (阿嚏)|||hắt xì||||||terni|aivastaa (atsii!)|kichać (apsik!)
 acinium|mate|Ac||actinium|actinium|actinio|||||||||||||aktinio|aktinium|aktyn
 ada|||ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada|habit (custom)|coutume|costumbre (hábito)|costume (hábito)|обычай (привычка)|عادة|习惯 (风俗)|習慣 (風俗)|습관 (풍속)|tập quán (phong tục)|आदत||adat|ada|adet|kutimo|tapa|nawyk (przyzwyczajenie)
-adi||||ordinary (customary, habitual, normal)|ordinaire (habituel, normal)|ordinario (habitual)||||||||||beradat||||tavallinen|zwyczajny (rutynowy, normalny)
+ada li||||ordinary (customary, habitual, normal)|ordinaire (habituel, normal)|ordinario (habitual)||||||||||beradat||||tavallinen|zwyczajny (rutynowy, normalny)
 adil|||ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|just (fair, righteous)|juste|justo|justo|справедливый|عدل|公正地||||उचित||adil|adili|adil|justa|oikeudenmukainen|sprawiedliwy
 adilta||||justice|justice|justicia|justiça|справедливость||正义||||न्याय|আদালত|keadilan||adalet|justeco|oikeus|sprawiedliwość
 adres|||eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|address|adresse|dirección|endereço|адрес||地址||||पता||cerah (alamat)||adres|adreso|osoite|adres
@@ -16,166 +17,139 @@ adres harfi||||@ symbol|arobase (@)|arroba (@)||||||||||||||@-merkki|małpa (zna
 Afgan|desha|AF||Afghanistan|Afghanistan|Afganistán|Afeganistão|Афганистан||阿富汗|アフガニスタン|아프가니스탄||अफ़्ग़ानिस्तान||Afghanistan||Afganistan|Afganujo, Afganio|Afganistan|Afganistan
 Afrika|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|Africa|Afrique|África|||||||||||||Afriko|Afrikka|Afryka
 agile|||eng:fra:agile, spa:por:ágil, deu:agil|agile|agile|ágil|ágil|подвижный||灵活的||||फुर्तीला||lincah||çevik|lerta|ketterä|zwinny, sprawny
-agrer||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
 agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
 agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
 agreser||||aggressor|agresseur|agresor|agressor|агрессор||侵略者||||||||||hyökkääjä|
 agresivi||||aggressive|agressif|agresivo|||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
-agri|||eng:fra:spa:por:tur:agro-, rus:агро- (agro-)|agricultural|agricole|agrícola|agrícola|аграрный|||||||||||agrikultura|maataloudellinen (agraari-)|
-agristan||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
-agristani||||rural (rustic)||rural (rústico)||||||||||||||maalais-|wiejski, rustykalny
-agro||||cultivate (farm)|cultiver|cultivar|cultivar|выращивать||||||||||||viljellä|uprawić, uprawiać
-agro shutu||||agriculture|||||||||||||||agrikulturo|viljely|
-agrobiologi||||agrobiology|agrobiologie|agrobiología|agrobiologia|агробиология||土壤生物学||||||||agrobiyoloji||maatalousbiologia|
-agrochun||||rural village||||||农村|農村|농촌|nông thôn|||||||maalaiskylä|
-agronomia||||agronomy|agronomie|agronomía|agronomia|агрономия|عِلْم الزِرَاعَة‎|农学|農学|농학|nông học|||||agronomi|agronomio|agronomia (maatalous)|agronomia
 aha|||rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|understand (realize)|comprendre (réaliser)|entender (comprender)|||||||||||||kompreni|oivaltaa (tajuta)|rozumieć, pojmować
 ai|||zho:爱 (ài), yue:愛 (oi3), jpn:愛 (ai), vie:ái, kor:애 (ae)|love (liking, affection)|amour (affection)|amor|amor|любовь||爱|愛|||मुहब्बत (अनुराग, पसंद)||cinta (kasih, asmara)|penzi (ashiki, upendo)|sevda (aşk)|amo|rakkaus (tykkääminen)|miłość (afekt)
 ai ja|||ara: حُبّ (ḥubb), swa:huba, hin:मुहब्बत (muhabbat), ben:মহব্বত (môhôbbôt)|lover|amoureux|amante (enamorado)|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja|
 ai jen||||darling (honey)|chéri|amado (cariño)|querido||حَبِيب‎|||||हबीब (प्रिय)|||||karulo|kulta (rakas)|
 ainstainium|mate|Es||einsteinium|Einsteinium|einsteinium|||||||||||||ejnŝtejnio|einsteinium|einstein
 air|||eng:fra:spa:air, por:ar, rus:аэро- (aero-)|air|air|aire|ar|воздух|هوا‎|空气|空気|공기|không khí|हवा (वायु)|বায়ু|udara (hawa)|hewa|hava|aero|ilma|powietrze
-airbaria||||atmospheric pressure|pression atmosphérique|presión atmosférica||||||||||||||ilmanpaine|ciśnienie atmosferyczne
-airbarmetrer||||barometer|baromètre|barómetro||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
-airbivi||||aerobic|aérobique|aeróbico|aeróbico|аэробный|||好気性|||||||||aerobinen|
+air bari||||atmospheric pressure|pression atmosphérique|presión atmosférica||||||||||||||ilmanpaine|ciśnienie atmosferyczne
+air bari metre gi||||barometer|baromètre|barómetro||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
+air bio li||||aerobic|aérobique|aeróbico|aeróbico|аэробный|||好気性|||||||||aerobinen|
+air gun||||airforce|armée de l'ai|fuerza aérea|força aérea|военно-воздушные силы||空军|空軍|공군|không quân|वायु सेना||angkatan udara||hava kuvetleri|aerarmeo|ilmavoimat|siły powietrzne
+air porte||||airport (aeroport)|aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|lotnisko (port lotniczy)
 Aire|desha|IE||Ireland|Irland|Irlanda||||||||||||||Irlanti|Irlandia
-airgun||||airforce|armée de l'ai|fuerza aérea|força aérea|военно-воздушные силы||空军|空軍|공군|không quân|वायु सेना||angkatan udara||hava kuvetleri|aerarmeo|ilmavoimat|siły powietrzne
-airporte||||airport (aeroport)|aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|lotnisko (port lotniczy)
 ais|||eng:ice, deu:Eis, may:és|ice|glace|hielo||||冰|氷 (アイス)||||||||glacio|jää|lód
-aishoke||||ice hockey|hockey sur glace|hockey sobre hielo|hóquei no gelo|хокке́й с ша́йбой||冰球|アイスホッケー|아이스하키||||||buz hokeyi||jääkiekko|hokej na lodzie
-aisi||||icy|glacé (glacial, gelé)|cubierto de hielo|||||||||||||glacia|jäinen|lodowy
-aiskrem|||eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|ice cream|crème glacée|helado|sorvete (gelado)|мороженое||冰淇淋|アイスクリーム|아이스크림||आइसक्रीम|আইসক্রীম|es krim|||glaciaĵo|jäätelö|lody
-aisu||||freeze (get frozen)|geler (glacer)|congelarse (helarse)|gelar|||结冰|凍る (凍結する)||||||||glaciiĝi (frostiĝi)|jäätyä|marznąć (zamarznąć)
-Aiti|desha|HT||Haiti|Haïti|Haití|||||||||||||Haitio|Haiti|Haiti
-ajaba||||amaze|éblouir (étonner, stupéfier, surprendre)|asombrar||||||||||||||ällistyttää|zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)
-ajabe||||marvel (wonder)|merveille|maravilla|maravilha|||||||||||||ihme|dziw (cudo)
-ajabi|||ara:(ʿajīb), swa:ajabu, + fas:('ajib), urd:(ajīb), hin:अजीब (ajīb), tur:acayip|amazing (astonishing)||maravilloso (asombroso)||||||||||||||ihmeellinen (ällistyttävä, merkillinen)|zachwycający (zdumiewający, zadziwiający)
-ajabia||27 emotions||awe (wonder)||asombro||||||||||||||hämmästys (ihmetys)|zachwyt (zdumienie)
-ajabu||||wonder (be amazed)||||||||||||||||ihmetellä (olla ihmeissään)|zachwycić się (być zachwyconym)
+ais hoki||||ice hockey|hockey sur glace|hockey sobre hielo|hóquei no gelo|хокке́й с ша́йбой||冰球|アイスホッケー|아이스하키||||||buz hokeyi||jääkiekko|hokej na lodzie
+ais krem|||eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|ice cream|crème glacée|helado|sorvete (gelado)|мороженое||冰淇淋|アイスクリーム|아이스크림||आइसक्रीम|আইসক্রীম|es krim|||glaciaĵo|jäätelö|lody
+ais li||||icy|glacé (glacial, gelé)|cubierto de hielo|||||||||||||glacia|jäinen|lodowy
+ajibu||||marvel (wonder)|merveille|maravilla|maravilha|||||||||||||ihme|dziw (cudo)
+ajibu||27 emotions||awe (wonder)||asombro||||||||||||||hämmästys (ihmetys)|zachwyt (zdumienie)
+ajibu li|||ara:(ʿajīb), swa:ajabu, + fas:('ajib), urd:(ajīb), hin:अजीब (ajīb), tur:acayip|amazing (astonishing)||maravilloso (asombroso)||||||||||||||ihmeellinen (ällistyttävä, merkillinen)|zachwycający (zdumiewający, zadziwiający)
 ajila|||ara:عجل (ʿajila), tur:acele, swa:ajila, fas:عجله  (ajaleh), hin:जल्द (jald)|hurry (hasten)||meter prisa||спешить|||急ぐ||||||||rapidigi|kiirehtiä|popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 akare|bio|Acari|spa:por:ácaro, fra:acarien, tur:acari|tick (mite)|acarien|garrapata (ácaro)|carrapato (ácaros)|клещ (лепта)||蜱 (螨)|壁蝨|||||||||punkki|klescz (roztocze)
-akse|||eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|axis (axle)|axe|eje||ось||轴线||||धुरी||as (poros, paksi)||eksen|akso|akseli|oś
-aksesabli||||accessible (within reach)|accessible (atteignable, à portée)|accesible||доступный|||とっつきやすい (アクセス可能)|||सुगम्य (सुगम, सुलभ)||dapat dicapai (dapat diakses)||||ulottuvilla|
 ala||||change (make different)|changer|cambiar (demudar)|alterar|изменять||改變|変える|바꾸다|||||kubadili||ŝanĝi (aliigi)|muuttaa (tehdä eriksi)|zmienić (zmieniać)
 Alaska|desha|||Alaska|Alaska|Alaska||||||||||||||Alaska|Alaska
-alge|||eng:spa:por:pol:may:alga, fra:algue, deu:Alge, tur:alg, fas:(âlg)|alga|algue|alga|alga|водоросли||藻类||||शैवाल||lumut (alga)||yosun|algo|levä|alga (wodorost)
-algofung|bio|||lichen|lichen|liquen||лишай||地衣|地衣類 (苔癬)|||||kulampair (liken)||||jäkälä|porost
-algojangle||||kelp forest|forêt de kelp|bosque de algas|floresta de algas|лес водорослей||海藻林|藻場||||||||||las wodorostów
-ali|||ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)|other|autre|otro|outro|другой (второй)||另一|他の|||अन्य||lainnya||diğer|alia|muu (toinen)|inny
+alga|||eng:spa:por:pol:may:alga, fra:algue, deu:Alge, tur:alg, fas:(âlg)|alga|algue|alga|alga|водоросли||藻类||||शैवाल||lumut (alga)||yosun|algo|levä|alga (wodorost)
+alga fungu|bio|||lichen|lichen|liquen||лишай||地衣|地衣類 (苔癬)|||||kulampair (liken)||||jäkälä|porost
+alga jangal||||kelp forest|forêt de kelp|bosque de algas|floresta de algas|лес водорослей||海藻林|藻場||||||||||las wodorostów
 alkol|||fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol|alcohol|alcool|alcohol|álcool|алкоголь||酒||||मद्यसार||alkohol (arak)||alkol|alkoholo|alkoholi|alkohol
-alkoli||||alcoholic|alcoolique|alcohólico|||||||||||||alkohola|alkoholinen|alkoholowy
+alkol li||||alcoholic|alcoolique|alcohólico|||||||||||||alkohola|alkoholinen|alkoholowy
 almari|||spa:armario, por:armário, hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, swa:almari|cupboard (closet, cabinet, wardrobe)|placard|armario|armário|шкаф||碗碟橱||||अलमारी|আলমারি|lemari (almari)||dolap|ŝranko|kaappi|kredens (szafa, szafka)
 almas|||swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs), tur:elmas|diamond|diamant|diamante|diamante|алмаз (бриллиант)||钻石||||हीरा||intan (permata)||elmas|diamanto|timantti|diament
+alo|||ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)|other|autre|otro|outro|другой (второй)||另一|他の|||अन्य||lainnya||diğer|alia|muu (toinen)|inny
 alo||||otherwise (else)|autrement|sino|||||||||||||alie|muuten (toisin)|w innym wypadku (inaczej)
-alofon||||allophone|allophone|alófono|||||||||||||alofono|allofoni (vaihtoehtoinen ääntämys)|alofon
-alonamo||||that is (in other words, i.e., alias)||es decir (en otras palabras)|||||||||||||tio estas (alivorte)|eli (toisin sanoen)|innymi słowy
-aloraya||||disagree|diverger (ne pas être d'accord)|disentir (no estar de acuerdo)|discordar|||不同意|||||||||malkonsenti|olla eri mieltä|nie zgadzać się
-alorayia||||disagreement (disconsent)|désaccord (différend)|desacuerdo||||||||||||||erimielisyys|niezgoda
-aloromansi||||heteroromantic|hétéroromantique (hétéromantique)|heterorromántico||||||||||||||heteroromanttinen|heteroromantyczny
-aloseksi||||heterosexual|hétérosexuel|heterosexual|||||||||||||samseksema|heteroseksuaali|heteroseksualny
-alosfia||||difference|différence|diferencia||||||||||||||erilaisuus (ero)|różnica
-alosifi||||different|différent|diferente||||||||||||||erilainen|różny (inny)
+alo fon||||allophone|allophone|alófono|||||||||||||alofono|allofoni (vaihtoehtoinen ääntämys)|alofon
+alo nam||||that is (in other words, i.e., alias)||es decir (en otras palabras)|||||||||||||tio estas (alivorte)|eli (toisin sanoen)|innymi słowy
+alo rai||||disagree|diverger (ne pas être d'accord)|disentir (no estar de acuerdo)|discordar|||不同意|||||||||malkonsenti|olla eri mieltä|nie zgadzać się
+alo rai||||disagreement (disconsent)|désaccord (différend)|desacuerdo||||||||||||||erimielisyys|niezgoda
+alo romanse||||heteroromantic|hétéroromantique (hétéromantique)|heterorromántico||||||||||||||heteroromanttinen|heteroromantyczny
+alo sexe li||||heterosexual|hétérosexuel|heterosexual|||||||||||||samseksema|heteroseksuaali|heteroseksualny
+alo sifa||||difference|différence|diferencia||||||||||||||erilaisuus (ero)|różnica
+alo sifa li||||different|différent|diferente||||||||||||||erilainen|różny (inny)
 alumin|mate|Al||aluminium|aluminium|aluminio|||||||||||||aluminio|alumiini|glin (aluminium)
-aluminmate||||alum|alun|alumbre|||||||||||||||
-aluminokside||||alumina (aluminum oxide)|alumine (oxyde d'aluminium)|alúmina|||||||||||||||
+alumin mate||||alum|alun|alumbre|||||||||||||||
+alumin oxide||||alumina (aluminum oxide)|alumine (oxyde d'aluminium)|alúmina|||||||||||||||
 ama|funci|||but (whereas)|mais (bien que)|pero|||||||||||||sed|mutta|ale, lecz
 Amara|nas|||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique et langue éthiopienne)|amhara||||||||||||||amhara (etiopialainen kansa ja kieli)|Amhara, amharski
-amater||||amateur|amateur|amateur (aficionado)|amador|любитель||爱好者|アマチュア|아마추어||||||amatör||amatööri|
 amen|||heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|honest (trustworthy, true; surely, verily, amen)|honnête (sûr, crédible, sûrement)|honesto (seguramente, amén)|honesto (sincero)|честный (правдивый)||诚实|正直|정직하다||ईमानदार (सच्चा)||||||rehellinen (totisesti, uskottavasti, aamen)|
 amen bil||||loyal (faithful, trustworthy)||leal (fiel)||верный||忠实|忠実||||||||||lojalny (wierny)
 amen bilta||||loyalty (faithfulness)||lealtad (fidelidad)||верность|||||||||||||lojalność (wierność)
 amen shin||||trust (have faith, rely)|faire confiance (espérer, croire qqn./qqch., avoir la foi)|confiar (contar con)|confiar (contar com)|доверять (понадеяться)||信赖|信頼する|||||||||luottaa (uskoa)|ufać (wierzyć, liczyć, polegać)
 amen shin di||||trusted|fiable (de confiance, fidèle, sûr, crédible)|||||||||||||||varma|
+Amerika|||eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika)|America (continent)|Amérique|América|||||||||||||Ameriko|Amerikka|Ameryka (kontynent)
+Amerika di||||American|américain|americano|||||||||||||amerika|amerikkalainen|amerykański
 Amerika Samoa|desha|AS||American Samoa|Samoa américaines|Samoa Americana|||||||||||||||Amerykańska Samoa
-Amerike|||eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika)|America (continent)|Amérique|América|||||||||||||Ameriko|Amerikka|Ameryka (kontynent)
-ameriki||||American|américain|americano|||||||||||||amerika|amerikkalainen|amerykański
 amerikium|mate|Am||americium|américium|americio|||||||||||||americio|amerikium|ameryk
 ami||||dear (beloved)|cher|querido|querido (caro)|||亲爱的|愛しい|||प्यारा|||||kara|rakas (armas)|kochany (drogi)
 amir|||ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|order (command)||orden (mando, comando)|||||||||||amri|emir|ordono|käsky (komento)|rozkaz, komenda
 amir haki||||authority (power to give orders)||||||||||||||||käskyvalta|
 amir ja||||emir|émir|emir||||||||||||||emiiri|emir
-amiria||||emirate|émirat|emirato||||||||||||||emiirikunta|emirat
-amirlin||||command line (console, terminal)|ligne de commande (console, terminal, invite de commande)|interfaz de línea de comandos||командная строка|||コマンド行||||||dirisha la amri||||
+amir lin||||command line (console, terminal)|ligne de commande (console, terminal, invite de commande)|interfaz de línea de comandos||командная строка|||コマンド行||||||dirisha la amri||||
+amir ya||||emirate|émirat|emirato||||||||||||||emiirikunta|emirat
 amper|unomete|A||ampere (amp)|ampère|amperio|||||||||||||ampero|ampeeri|amper
 ampul|||fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|ampoule (vial)|ampoule (fiole)|ampolla (vial)||||||||||||||ampulli|ampułka
-an|prep.||deu:an, fra:en, spa:en+ ibo:lin:kon:na|by (at, in, on)|a (dans, en, chez)|en (a)||в||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
-an ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
-an lin||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
-an no lin||||offline||||||离线|||||||||||offline (nie na linii, poza siecią)
-an u loka||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
-an:a|||eng:fra:-ant, spa:por:-ando, tur:-(y)an;-(y)en, may:-an + [ana] fas:(-ân-), hin:(-(v)ānā), ben:-নো  (-ānô)|cause (make sb. do sth.)|||||||||||||||igi (farigi)|teettää|
-anairbivi||||anaerobic|anaérobique|anaeróbico|anaeróbico|||厌氧的|嫌気性|||||||||anaerobinen|
-anama||||dislike (loathe)|exécrer|detestar|||||||||||||malami|inhota|
-anamike||||enemy|ennemi||||||||||||||malamulo|inhokki (inhotus)|
-anativa||||deactivate (disable, turn off)||||||||||||||||poistaa toiminnasta|deaktywować (wyłączyć, zatrzymać)
-anativi||||off (deactivated, disabled)||||||||||||||||epäaktiivinen (pois toiminnasta)|zdeaktywowany (wyłączony, zatrzymany)
-anchenvidi||||unexpected||||||||||||||||ennennäkemätön|niespodziewany
-andaka||||uncover (reveal)||destapar||||||||||||||paljastaa|odsłonić, odsłaniać
-ande|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg|oeuf|huevo|||||||||||||ovo|muna|jajko (jajo)
+an|||ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|reverse (negative, un-)|inverse (négatif, in-)||||||||||||||mala|vastakohtainen (negatiivinen, epä-)|negatywny (przeciwny, nie)
+an ai||||dislike (loathe)|exécrer|detestar|||||||||||||malami|inhota|
+an air bio li||||anaerobic|anaérobique|anaeróbico|anaeróbico|||厌氧的|嫌気性|||||||||anaerobinen|
+an chen vide di||||unexpected||||||||||||||||ennennäkemätön|niespodziewany
+an daka||||uncover (reveal)||destapar||||||||||||||paljastaa|odsłonić, odsłaniać
+an deu jui ja||||atheist|athée|ateo|||||||||||||ateisto|ateisti (jumalankieltäjä)|ateista
+an din ja||||unbeliever (infidel)|infidèle (incroyant)|infiel (descreído)|infiel|неверующий|كافر|不信神的|不信者|불신자||नास्तिक (काफ़िर)||||kafir|malkredulo|uskonnoton|niewierny
+an doste||||enemy (unfriend)|||||||||||||||malamiko|vihollinen|wróg (nieprzyjaciel)
+an eskala||||get off (descend)|||||||下る (降りる)|||||||||laskeutua|zejść (schodzić, zstąpić, zstępować)
+an icha ja||||reluctant||||||||||अनिच्छा||||||vastahakoinen (haluton)|niechętny
+an jami||||disperse (spread out, scatter)||dispersar (esparcir, desmontar)|||||散らす||||||||disigi|hajauttaa|rozproszyć, rozpraszać
+an jami li||||sparse (scattered)||escaso (disperso, ralo)|||||疎ら|||||||||hajanainen|rzadki (rozrzedzony, rozproszony)
+an kai||||close (shut)||||||||||||||||sulkea (panna kiinni)|zamknąć (zamykać)
+an kai di||||closed||||||||||||||||suljettu|zamknięty
+an karma ja||||off (deactivated, disabled)||||||||||||||||epäaktiivinen (pois toiminnasta)|zdeaktywowany (wyłączony, zatrzymany)
+an kode||||decode (decrypt)||||||||||||||||purkaa koodi (dekoodata)|
+an limite||||infinity||||||||||||||||äärettömyys (rajattomuus)|nieskończoność
+an memo||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ|忘记|忘れる|잊다|quên|भूलना|ভুলে যাওয়া|lupa|kusahau|unutmak|forgesi|unohtaa|zapominać (zapomnieć)
+an mesi||||antichrist||Anticristo||||||||||||||antikristus|antychryst
+an nam||||antonym|antonyme|antónimo||антоним||||||||antonim||antonim||vastakohta (antonyymi)|antonim
+an pace||||unrest|||||||||||||||malpaco|levottomuus (konflikti)|niepokój
+an romanse||||aromantic||arromántico|||||||||||||||aromantyczny
+an sabi li||||strange (unknown)||||||||||अनजाना|||||fremda (nekonata)|vieras (tuntematon)|dziwny (nieznany)
+an sexe li||||asexual|asexué|asexual|||||||||||||||aseksualny
+an sona||||insomnia|insomnie|insomnio|insônia|бессонница (инсомния)||失眠|不眠症|불면증|mất ngủ|अनिद्रा||||uykusuzluk|sendormeco|unettomuus|
+an sora||||unlock||||||||||||||||avata lukko|otworzyć (otwierać, odkluczyć, odkluczać)
+an sora li||||unlocked||||||||||||||||lukitsematon|zamknięty na klucz (zakluczony)
+an tapa||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
+anda|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg|oeuf|huevo|||||||||||||ovo|muna|jajko (jajo)
 Andes||||Andes|Andes|Andes|||||||||||||Andoj|Andit|Andy
 andesite|||spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|andesite|andésite|andesita|andesito|андезит||安山岩|安山岩||||||||||andezyt
-andeviste||||atheist|athée|ateo|||||||||||||ateisto|ateisti (jumalankieltäjä)|ateista
-andiniste||||unbeliever (infidel)|infidèle (incroyant)|infiel (descreído)|infiel|неверующий|كافر|不信神的|不信者|불신자||नास्तिक (काफ़िर)||||kafir|malkredulo|uskonnoton|niewierny
 Andora|desha|AD||Andorra|Andorre|Andorra||||||||||||||Andorra|Andora
-andoste||||enemy (unfriend)|||||||||||||||malamiko|vihollinen|wróg (nieprzyjaciel)
-aneskala||||get off (descend)|||||||下る (降りる)|||||||||laskeutua|zejść (schodzić, zstąpić, zstępować)
-angalta||||debug|déboguer (débugger)|depurar|||||デバッグする|||||||||poistaa virheitä (debugata)|
 angar|||eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga|anchor|ancre|ancla|âncora|якорь||锚||||लंगर||jangkar||çıpa|ankro|ankkuri|kotwica
 Angola|desha|AO||Angola|Angola|Angola||||||||||||||Angola|Angola
 angul|||hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|finger (toe)||dedo|dedo|палец||手指|指|||उंगली (अंगुलि)|আঙুল|jari|kidole|parmak|fingro|sormi tai varvas|palec
-angulmarke||||fingerprint|empreinte digitale|huella digital|impressão digital|отпечаток пальца||指纹 (指印)|指紋|지문||||||parmak izi||sormenjälki|
-angulpike||||fingertip|bout de doigt|yema del dedo|ponta do dedo|кончик пальца|بَنَان‎|指尖|指先|||अंगुलाग्र||||||sormenpää|
-angulring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
-ani|||ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|reverse (negative, un-)|inverse (négatif, in-)||||||||||||||mala|vastakohtainen (negatiivinen, epä-)|negatywny (przeciwny, nie)
-anichi||||reluctant||||||||||अनिच्छा||||||vastahakoinen (haluton)|niechętny
-anima||||animate|animer|animar||||||||||||||animoida|animować
+angul marke||||fingerprint|empreinte digitale|huella digital|impressão digital|отпечаток пальца||指纹 (指印)|指紋|지문||||||parmak izi||sormenjälki|
+angul pike||||fingertip|bout de doigt|yema del dedo|ponta do dedo|кончик пальца|بَنَان‎|指尖|指先|||अंगुलाग्र||||||sormenpää|
+angul ring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
+anime||||animate|animer|animar||||||||||||||animoida|animować
 anime|||eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|animation (cartoon)|animation|animación (dibujo animado)||оживление||活跃|||||||||kartuno|animaatio (piirretty)|animacja
-anjama||||disperse (spread out, scatter)||dispersar (esparcir, desmontar)|||||散らす||||||||disigi|hajauttaa|rozproszyć, rozpraszać
-anjami||||sparse (scattered)||escaso (disperso, ralo)|||||疎ら|||||||||hajanainen|rzadki (rozrzedzony, rozproszony)
 anjil|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|message|message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość
-anjiler||||messenger|messager|mensajero||||||||||||||viestintuoja (airut)|posłaniec (wysłannik)
-ankaya||||close (shut)||||||||||||||||sulkea (panna kiinni)|zamknąć (zamykać)
-ankayi||||closed||||||||||||||||suljettu|zamknięty
-ankoda||||decode (decrypt)||||||||||||||||purkaa koodi (dekoodata)|
-ankriste||||antichrist||Anticristo||||||||||||||antikristus|antychryst
-anlimitia||||infinity||||||||||||||||äärettömyys (rajattomuus)|nieskończoność
-anmema||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ|忘记|忘れる|잊다|quên|भूलना|ভুলে যাওয়া|lupa|kusahau|unutmak|forgesi|unohtaa|zapominać (zapomnieć)
-annam||||antonym|antonyme|antónimo||антоним||||||||antonim||antonim||vastakohta (antonyymi)|antonim
-anpache||||unrest|||||||||||||||malpaco|levottomuus (konflikti)|niepokój
-anromansi||||aromantic||arromántico|||||||||||||||aromantyczny
-ansavi||||strange (unknown)||||||||||अनजाना|||||fremda (nekonata)|vieras (tuntematon)|dziwny (nieznany)
-anseksi||||asexual|asexué|asexual|||||||||||||||aseksualny
-ansomia||||insomnia|insomnie|insomnio|insônia|бессонница (инсомния)||失眠|不眠症|불면증|mất ngủ|अनिद्रा||||uykusuzluk|sendormeco|unettomuus|
-ansora||||unlock||||||||||||||||avata lukko|otworzyć (otwierać, odkluczyć, odkluczać)
-ansori||||unlocked||||||||||||||||lukitsematon|zamknięty na klucz (zakluczony)
-antapa||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
-Antartike|desha|AQ||Antarctica|Antarctique|antartida||||||||||||||Antarktis|Antarktyka
-Antartiki Hai||||Antarctic Ocean|Océan Antarctique|océano Antártico||||||||||||||Eteläinen Jäämeri|Ocean Antarktyczny (Ocean Południowy)
+anjil ja||||messenger|messager|mensajero||||||||||||||viestintuoja (airut)|posłaniec (wysłannik)
+Antartika|desha|AQ||Antarctica|Antarctique|antartida||||||||||||||Antarktis|Antarktyka
+Antartika Hai||||Antarctic Ocean|Océan Antarctique|océano Antártico||||||||||||||Eteläinen Jäämeri|Ocean Antarktyczny (Ocean Południowy)
 anten|||eng:antenna, spa:por:may:antena, fra:antenne, rus:антенна (antenna), tur:anten, jpn:アンテナ (antena)|antenna (aerial)|antenne|antena||антенна||天线|||||||||anteno|antenni|antena
 Antigua|desha|||Antigua|Antigua|Antigua||||||||||||||Antigua|Antigua
 Antigua e Barbuda|desha|AG||Antigua and Barbuda|Antigua-et-Barbuda|Antigua y Barbuda||||||||||||||Antigua ja Barbuda|Antigua i Barbuda
 anus|||eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|anus|anus|ano||анус||肛门|||||||||anuso|peräaukko (anus)|odbyt
-anusi||||anal|anal|anal|||||||||||||anusa|anaalinen|analny, odbytni
-anyavi||||unnecessary (extraneous, unneeded)|inutile|innecesario|||||不要|||||||||tarpeeton|niepotrzebny
-anzaya||||remove (delete, dispose, erase)||quitar (eliminar, borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
+anus di||||anal|anal|anal|||||||||||||anusa|anaalinen|analny, odbytni
 aple|bio||eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|||सेब||apel (epal)|tofaa|elma|pomo|omena|jabłko
+aple sos||||applesauce|compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||omenasose|sos jabłkowy
 aplika||||apply (put to use for a purpose)|appliquer|emplear (aplicar)|usar|||运用||||प्रयोग में लाना||||kullanmak||soveltaa|zastosować, stosować
-aplike|||eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|application|application|aplicación||||||||||||||sovellus|zastosowanie, aplikacja
-aplosaus||||applesauce|compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||omenasose|sos jabłkowy
+aplika|||eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|application|application|aplicación||||||||||||||sovellus|zastosowanie, aplikacja
 Apsni|desha|||Abkhazia|Abkhazie|abjazia||Абхазия||||||||||||Abhaasia|Abchazja
 arabi||||Arabic|arabe|árabe|||||||||||||araba|arabialainen|arabski
-arabobabul|bio|Vachellia nilotica||babul tree (thorny acacia)||goma arábiga||акация нильская||阿拉伯金合欢|||||||||||akacja arabska
+arabi babul|bio|Vachellia nilotica||babul tree (thorny acacia)||goma arábiga||акация нильская||阿拉伯金合欢|||||||||||akacja arabska
 arane|bio|Araneae|fra:araignee, por:aranha, spa:araña, eng:arachnid|spider|araignée|araña|aranha|паук||蜘蛛|オレンジ|||मकड़ी||labah-labah||örümcek|araneo|hämähäkki|pająk
-aranofobia||||arachnophobia|arachnophobie|aracnofobia|||||||||||||araneofobio|araknofobia (hämähäkkikammo)|arachnofobia
-aranonete||||spiderweb (cobweb)|toile d'araignée|||||||||||||||hämähäkinverkko|pajęczyna
-arbuze|bio|Citrullus lanatus|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|watermelon|pastèque|sandía (patilla)|melancia|арбуз||西瓜||||तरबूज||semangka||karpuz|akvomelono|vesimeloni|arbuz
-Archah|desha|||Artsakh|Artsakh|Artsaj|||||||||||||||Abchazja
+arane fobi||||arachnophobia|arachnophobie|aracnofobia|||||||||||||araneofobio|araknofobia (hämähäkkikammo)|arachnofobia
+arane nete||||spiderweb (cobweb)|toile d'araignée|||||||||||||||hämähäkinverkko|pajęczyna
+arbuza|bio|Citrullus lanatus|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|watermelon|pastèque|sandía (patilla)|melancia|арбуз||西瓜||||तरबूज||semangka||karpuz|akvomelono|vesimeloni|arbuz
+Arcah|desha|||Artsakh|Artsakh|Artsaj|||||||||||||||Abchazja
 area|||eng:area, por:spa:área, pol:areał, fra:aire|area (extent of surface)|aire (superficie)|área (superficie)||площадь||面积|||||||||areo|ala (pinta-ala)|pole, powierzchnia
+area||||area (region)|espace (zone, région)|área (zona, región)|||||辺||||||||ejo|alue (seutu)|powierzchnia, region, teren
 argente|mate|Ag|por:ita:argento, fra:argent, may:argentum|silver|argent|plata|prata|||银|銀|||||perak (argentum)|||arĝento|hopea|srebro
 Argentina|desha|AR||Argentina|Argentine|Argentina|||||||||||||Argentino|Argentiina|Argentyna
 argon|mate|Ar||argon|argon|argón|||||||||||||argono|argon|argon
 argum|||eng:fra:argument, spa:por:argumento, rus:аргумент (argument)|argument (rationale, grounds)|argument|argumento|argumento|аргумент (обосновани)|||||lí lẽ|||||||perustelu (argumentti)|argument
-aria||||area (region)|espace (zone, région)|área (zona, región)|||||辺||||||||ejo|alue (seutu)|powierzchnia, region, teren
 Ariel|planete 7 lun 2|||Ariel||||||||||||||||Ariel|
 arka|||eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka|bow (arch, arc)|arc|arco|arco|лук (арка)||弓 (琴弓, 拱)|弓 (弓なり)|||||||||kaari|łuk
 arka chati||||vault (arched ceiling or roof)|voûte|bóveda|abóbada|свод||拱顶||||||||tonoz|volbo|holvikatto|
@@ -187,58 +161,55 @@ aroma|||eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat),
 aroma||||smell (reek)|sentir qqch (avoir l'odeur de qqch)|oler (apestar)|cheirar|пахнуть||发臭|香る (匂う, 臭う)|||||||||haista|pachnieć
 aroma melon|bio|Cucumis melo, Makuwa||Korean melon||melón coreano|melão coreano|||香瓜|マクワウリ||||||||||melon koreański
 arsene|mate|As||arsenic|arsenic|arsénico|||||||||||||arseno|arseeni|arsen
-Artike|desha|||Arctic|arctique|Ártico||||||||||||||Arktis|Arktyka
-Artiki Hai||||Arctic Ocean|océan Arctique|océano Ártico||||||||||||||Jäämeri|Ocean Arktyczny
-artiste||||artist|artiste|artista|artista|художник (артист)||美术家||||कलाकार||seniman|mwanasanaa|sanatçı|artisto|taiteilija|artysta
+arte ja||||artist|artiste|artista|artista|художник (артист)||美术家||||कलाकार||seniman|mwanasanaa|sanatçı|artisto|taiteilija|artysta
+Artika|desha|||Arctic|arctique|Ártico||||||||||||||Arktis|Arktyka
+Artika Hai||||Arctic Ocean|océan Arctique|océano Ártico||||||||||||||Jäämeri|Ocean Arktyczny
 Aruba|desha|AW||Aruba|Aruba|Aruba||||||||||||||Aruba|Aruba
+asal|||ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|origin (source)|origine|origen|origem|начало (причина)||起源|起源|기원 (원인)||मूल||asal|asili|kaynak (asl)|origino|alkuperä|źródło, początek, pochodzenie
+asal Amerka jan||||Amerindian (Native American)|amérindien (indien)|indígena (indio)|indígena (índio)|инде́йский||||||मूल अमेरिकी||||||intiaani (Amerikan alkuperäisasukas)|indiański
+asal Australia jan||||Australian Aboriginal|aborigènes australiens|aborigen|||||||||||||aborigeno|aboriginaali (Australian alkuperäisasukas)|aborygeński
+asal di||||original (authentic)|originel|original|original|||原始的||||||asli|||origina|alkuperäinen|źródłowy, początkowy, oryginalny
 asan|||hin:आसन (āsan), eng:asana, rus:асана (asana)|posture (asana)|posture (position)|postura (posición)||поза||||||||sikap (posisi)|||posteno|asento|postawa ciała; asana
 asar|||ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir, swa:athari|effect (impact, impression, result, outcome)|effet|resulta (efecto)|efeito|эффект||影响|効果||||||athari|eser||vaikutus (tulos)|rezult, wynik
-asara||||effect (bring about)|effectuer|efectuar|efetuar|||||||||||||vaikuttaa|poprowadzić do (doprowadzić do, powodować)
 asha|||hin:आशा (āśā), may:tgl:asa, tel:ఆశ (āśa), tam:ஆசை (āsai)|hope (wish)||esperar (desear)||надеяться (чаять)|||||||||||esperi|toivoa|nadzieja, życzenie
 Ashur|xefsite|||Assur|Assur|Assur (Ashur)||||||||||||||Assur|Aszur
-Ashuria|||akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr), eng:Assyria, fra:Assyrie, spa:Asiria, por:Assíria, rus:Ассирия (Assiriya), zho:亚述 (Yàshù)|Assyria|Assyrie|Asiria||||||||||||||Assyria|Asyria
-asi||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
+Ashur desha|||akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr), eng:Assyria, fra:Assyrie, spa:Asiria, por:Assíria, rus:Ассирия (Assiriya), zho:亚述 (Yàshù)|Assyria|Assyrie|Asiria||||||||||||||Assyria|Asyria
+asia||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
 Asia|||eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|Asia|Asie|Asia|||||||||||||Azio|Aasia|Azja
 askete|||eng:ascetic, spa:por:asceta, fra:ascéte, rus:аскет (asket)|ascetic|ascète|asceta|||||||||||||ascetiko|askeett|asceta
-aslameriki||||Amerindian (Native American)|amérindien (indien)|indígena (indio)|indígena (índio)|инде́йский||||||मूल अमेरिकी||||||intiaani (Amerikan alkuperäisasukas)|indiański
-aslaustrali||||Australian Aboriginal|aborigènes australiens|aborigen|||||||||||||aborigeno|aboriginaali (Australian alkuperäisasukas)|aborygeński
-asle|||ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|origin (source)|origine|origen|origem|начало (причина)||起源|起源|기원 (원인)||मूल||asal|asili|kaynak (asl)|origino|alkuperä|źródło, początek, pochodzenie
-asli||||original (authentic)|originel|original|original|||原始的||||||asli|||origina|alkuperäinen|źródłowy, początkowy, oryginalny
-asme|||fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|asthma|asthme|asma|asma|астма||气喘||||श्वासरोग||bengek||astım|astmo|astma|astma
+asma|||fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|asthma|asthme|asma|asma|астма||气喘||||श्वासरोग||bengek||astım|astmo|astma|astma
 aspirin|||eng:aspirin, spa:por:aspirina, fra:aspirine, rus:аспирин (aspirin), ara:أسبرين‎ (ʾasbirīn), hin:एस्पिरिन (espirin), zho:阿司匹林 (āsīpǐlín),  jpn:アスピリン (asupirin), swa:aspirini|aspirin|aspirine|aspirina|aspirina|аспирин||阿司匹林||||||aspirin|aspirini|aspirin|aspirino|aspiriini|aspiryna
 astatium|mate|As||astatine|astate|ástato||||||||||||||astatiini|astat
-astre||fra:astre, por:astro, eng:astro-||celestial body|astre (corps céleste)|cuerpo celeste|astro (corpo celeste)|небесное тело||天体|天体 ||||||||astro|taivaankappale|
+astro||fra:astre, por:astro, eng:astro-||celestial body|astre (corps céleste)|cuerpo celeste|astro (corpo celeste)|небесное тело||天体|天体 ||||||||astro|taivaankappale|
+astro nave||||starship|astronef|astronave (nave estelar)|astronave|звездолёт||||||||||||tähtialus|
 astro nave ja||||astronaut|astronaute|astronauta|astronauta|астронавт||宇航员||||||||astronot|astronaŭto|astronautti (tähtimatkaaja)|astronauta
 astro nomi||||astronomy|astronomie|astronomía|astronomia|астрономия|عِلْم اَلْفَلَك‎|天文学|天文学|천문학|thiên văn học|खगोल शास्त्र|জ্যোতির্বিজ্ঞান|astronomi (ilmu falak)|falaki|gök bilimi||tähtitiede (astronomia)|astronomia
 astro nomi ja||||astronomer|astronome|astrónomo|astrónomo|астроном||天文学家|天文学者|천문학자|nhà thiên văn học|खगोल विज्ञानी||astronom||gök bilimci|astronomo|tähtitieteilijä|astronom
 ata|||fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|sugar-apple (sweetsop)||anón (ates, saramuyo)|||||||||||||||jabłko cukrowe
-Atina|xefsite|||Athens|Athènes|Atenas|Atenas|Афины|اتينا‎|雅典|アテネ|||एथेंस|||Athene|Atina|Ateno|Ateena|
-ativa||||activate (enable, turn on, trigger)|activer (allumer, mettre en marche, déclencher)|||||||||||||||panna toimintaan|aktywować (włączyć, uruchomić)
-ativi||||active (on, enabled)|actif|activo|ativo|активный (деятельный)||活性|活動的|||||||aktif|agema|toimelias (aktiivinen)|aktywny (włączony, uruchomiony)
+Athina|xefsite|||Athens|Athènes|Atenas|Atenas|Афины|اتينا‎|雅典|アテネ|||एथेंस|||Athene|Atina|Ateno|Ateena|
 Atlanti Hai|||eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|Atlantic Ocean|océan Atlantique|océano Atlántico||||||||||||||Atlantin valtameri|Ocean Atlantycki
-atlantokade|bio|Gadus morhua||Atlantic cod|morue de l'Atlantique|bacalao común|bacalhau-do-atlântico|Атлантическая треска||大西洋鱈|タイセイヨウダラ||||||||||dorsz atlantycki
-atlantosalmon|bio|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
+atlanti kade|bio|Gadus morhua||Atlantic cod|morue de l'Atlantique|bacalao común|bacalhau-do-atlântico|Атлантическая треска||大西洋鱈|タイセイヨウダラ||||||||||dorsz atlantycki
+atlanti salmon|bio|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
 atom|||eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|atom|atome|átomo|||||||||||||atomo|atomi|atom
-atro nave||||starship|astronef|astronave (nave estelar)|astronave|звездолёт||||||||||||tähtialus|
 au|||spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|ouch (ow, alas)|aïe!|ay!|ai!||||||||||||aj (alas)|ai! (au!)|aj!, ał!
-auda|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
-aure|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold|or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto
+audi|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
+auro|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold|or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto
 Australia|desha|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Australia|Australia
 Austronesia||||Austronesia|Austronésie|Austronesia|Austronésia|Австронезия||南岛|オーストロネシア|오스트로네시아|||||||Aŭstronezio|Austronesia|
 auta||||personalize (customize)||personalizar|||||カスタマイズする||||||||||
-aute|||ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|self (identity)||mismo (yo)|||||自己|||||||||itseys|jaźń (tożsamość)
-auti||||personal (intimate, private, custom)||personal (privado, a medida)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
-autokratia||||autocracy (monarchy)||autocratia (monarquía)|||||君主制|||||||||yksinvaltius (autokratia, monarkia)|monarchia
-autologe||||monolog|monologue|monólogo|monólogo|монолог||独白|独白 (独話)|||||||monolog||yksinpuhelu (monologi)|monolog
-automoti||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
-autonomi||||autonomous||autónomo||||||||||||||autonominen|autonomiczny
-autonomia||||autonomy||autonomía||||||||||||||itsehallinto (autonomia)|autonomia
+auto|||ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|self (identity)||mismo (yo)|||||自己|||||||||itseys|jaźń (tożsamość)
+auto krati||||autocracy (monarchy)||autocratia (monarquía)|||||君主制|||||||||yksinvaltius (autokratia, monarkia)|monarchia
+auto li||||personal (intimate, private, custom)||personal (privado, a medida)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
+auto loga||||monolog|monologue|monólogo|monólogo|монолог||独白|独白 (独話)|||||||monolog||yksinpuhelu (monologi)|monolog
+auto move||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
+auto nomi||||autonomy||autonomía||||||||||||||itsehallinto (autonomia)|autonomia
+auto nomi li||||autonomous||autónomo||||||||||||||autonominen|autonomiczny
 avakate|bio||nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|avocado|avocat|aguacate|||||||||||||avokado|avokado|awokado
 avar|||ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|damage (injury, harm)|dommage|daño (corrupción)|dano (avaria)|повреждение (авария)|||||||||||damaĝo|vaurio (vahinko, haveri)|obrażenia (rana, krzywda)
-avara||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
-avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen (vaurioittava)|krzywdzący (szkodliwy)
-avari||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
-aven|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
+avar di||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
+avar ja||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen (vaurioittava)|krzywdzący (szkodliwy)
+ave|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
+axe|||eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|axis (axle)|axe|eje||ось||轴线||||धुरी||as (poros, paksi)||eksen|akso|akseli|oś
 Azerbaijan|desha|AZ||Azerbaijan|Azerbaijan|Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan
 B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B
 babe|||may:bab, ara:urd:fas:(bāb), swa:babu|chapter (section)|chapitre|capítulo (sección)||глава||章|||||||babu (sura)||ĉapitro|luku (kirjan osa)|rozdział, sekcja
@@ -327,6 +298,8 @@ bazobol||||baseball|baseball|béisbol|basebol (beisebol)|бейсбол||棒球|
 bazokanun||||consitution||constitución||||||||||||||perustuslaki|konstytucja
 bazopetre||||bedrock||lecho de roca|||||基盤岩|||||||||peruskallio|skała macierzysta
 bazoshulkan||||primary school (elementary school, gradeschool)|école primaire|escuela primaria|ensino primário|семилетка||小学|小学校|초등학교 (소학교)||प्राथमिक विद्यालय (प्राइमरी स्कूल)||sekolah rendah|||bazlernejo|ala-aste|szkoła podstawowa
+be ais||||freeze (get frozen)|geler (glacer)|congelarse (helarse)|gelar|||结冰|凍る (凍結する)||||||||glaciiĝi (frostiĝi)|jäätyä|marznąć (zamarznąć)
+be ajibu||||wonder (be amazed)||||||||||||||||ihmetellä (olla ihmeissään)|zachwycić się (być zachwyconym)
 be teza||||intensify|||||||||||||||||wzmacniać się (wzmagać, pogłębiać się)
 be van||||enjoy (play)||disfrutar (jugar)||||玩耍|遊ぶ||||||||||cieszyć się (zażywać, bawić się)
 be vide||||be seen||ser visto||||||||||||||näkyä|być widzianym
@@ -898,7 +871,14 @@ evanjil||||gospel (divine message)|évangile|evangelio|evangelho|евангел�
 evi|||eng:fra:spa:por:eu-|beneficial (good)||beneficioso (bueno)||||||||||||||hyvä (eettisesti hyvä)|korzystny (dobry)
 F||||F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F
 fa|||fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya|do|faire|hacer|fazer|делать|فَعَلَ|作|する|하다|làm|करना|করা|buat|kufanya|yapmak|fari|tehdä (toimia)|zrobić (stworzyć, wykreować)
+fa ajibu||||amaze|éblouir (étonner, stupéfier, surprendre)|asombrar||||||||||||||ällistyttää|zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)
+fa an galta||||debug|déboguer (débugger)|depurar|||||デバッグする|||||||||poistaa virheitä (debugata)|
+fa an karma||||deactivate (disable, turn off)||||||||||||||||poistaa toiminnasta|deaktywować (wyłączyć, zatrzymać)
+fa asar||||effect (bring about)|effectuer|efectuar|efetuar|||||||||||||vaikuttaa|poprowadzić do (doprowadzić do, powodować)
+fa avar||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
 fa ja||||doer (agent)|||||||||||||||aganto|tekijä (toimija)|
+fa karma||||activate (enable, turn on, trigger)|activer (allumer, mettre en marche, déclencher)|||||||||||||||panna toimintaan|aktywować (włączyć, uruchomić)
+fa no zai||||remove (delete, dispose, erase)||quitar (eliminar, borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
 fa safa||||clean (purify)||limpiar|||||||||||||purigi|puhdistaa (siivota)|wyczyścić, czyścić
 fa valu||||value (evaluate)|évaluer|valorar|valorar|оценивать||||||||||||arvottaa|
 fa van||||amuse (entertain)||divertir (entretener)|||||||||||||amuzi|viihdyttää (huvittaa)|bawić, zabawiać
@@ -1279,6 +1259,7 @@ haijel|bio|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月
 hainili||||aqua (teal)|||||||水色||||||||||morskoniebieski
 haiporte||||harbor (seaport)||puerto marítimo|porto marítimo|||海港|海港||||||||haveno|satama|port morski (przystań)
 haitate||||coast (beach)|côte|costa|costa|||海岸|海岸||||||||||wybrzeże (plaża)
+Haiti|desha|HT||Haiti|Haïti|Haití|||||||||||||Haitio|Haiti|Haiti
 haki|||ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|right (entitlement)|droit|derecho|direito|||权利|権利|권리||अधिकार (हक़)|অধিকার||||rajto|oikeus (oikeutus)|prawo, przywilej
 hal|||ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|state (condition, status, situation)|état|estado (condición)|estado|состояние (статус)||状态|状態|상태||हालत (दशा)||keadaan (kondisi)|hali|durum (hâl)|stato|tila (tilanne, seikka)|stan
 halala||||allow (permit)||permitir (dejar)||||||||||||||sallia (antaa lupa)|pozwolić, pozwalać, zezwolić, zezwalać
@@ -1386,6 +1367,7 @@ historia|||eng:history, spa:swa:historia, por:história, fra:histoire, rus:ис�
 hiyar|bio|Cucumis sativus|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|cucumber|concombre|pepino|pepino|огурец||黄瓜|キュウリ||||||||kukumo|kurkku|ogórek
 Ho chi Min site|site|||Ho Chi Minh City (Saigon)|||||||||Thành phố Hồ Chí Minh||||||||Ho Chi Minh (Sajgon)
 hobi|||eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|hobby||pasatiempo (hobby, afición)|||||||||||||hobio|harrastus|hobby
+hobi ja||||amateur|amateur|amateur (aficionado)|amador|любитель||爱好者|アマチュア|아마추어||||||amatör||amatööri|
 hobi ja||||hobbyist||||||||||||||||harrastaja|
 hoga||||burn (cause to burn)|brûler|quemar|queimar|жечь (палить)|أَحْرَقَ|燃烧|燃やす|태우다||जलाना|||kuchoma|yakmak||polttaa|spalić, palić
 hoge|||spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|fire (burning)|feu|fuego|fogo|огонь|نَار|火|火|불|lửa|आग (अग्नि)|আগুন (অগ্নি)|api|moto|ateş|fajro|tuli|ogień
@@ -1523,9 +1505,9 @@ jamul|bio|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:
 jan|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|person (individual, -ist, -er)|personne|persona (ista, -ador)|pessoa|||人|人 (者, 員, 徒)||||||||persono|henkilö|osoba
 janel|||por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|window|fenêtre|ventana|janela|окно|شباك‎|窗戶|窓|창|cửa sổ|खिड़की|জানালা|jendela|dirisha|pencere|fenestro|ikkuna|okno
 janelfrem||||window frame||||||窗框|||||||||fenestrokadro|ikkunankehys (ikkunanpuite)|
+jangal|||eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|forest (woods, jungle)|forêt (jungle)|bosque (jungla, selva)|selva (floresta, jângal)|лес (джунгли)||森林|森 (森林, ジャングル)|숲 (삼림 , 정글)|rừng|जंगल (वन)|বন (জঙ্গল)|hutan (jenggela)|msitu|orman (cengel)|arbaro|metsä (viidakko)|las, dżungla, zagajnik
 janger|||zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||artesano||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
 jangi||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, zręczny)
-jangle|||eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|forest (woods, jungle)|forêt (jungle)|bosque (jungla, selva)|selva (floresta, jângal)|лес (джунгли)||森林|森 (森林, ジャングル)|숲 (삼림 , 정글)|rừng|जंगल (वन)|বন (জঙ্গল)|hutan (jenggela)|msitu|orman (cengel)|arbaro|metsä (viidakko)|las, dżungla, zagajnik
 jar|||eng:jar, ara:(jara), por:spa:jarra|jug (jar, pitcher)||jarra||||||||||||||kannu (karahvi)|dzban, dzbanek; słój, słoik
 jar|||ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|jar (jug, pitcher, carafe, amphora, vase)|jarre (carafe, cruche)|jarra|jarra (jarro)|кувшин (графин)|جَرَّة‎ (زِير‎)|罐 (瓶)|||lọ (bình)||||||kruĉo|ruukku (kannu, maljakko, karahvi)|wazon
 jau|bio|Hordeum vulgare|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|barley|orge|cebada|cevada|ячмень||大麦|大麦|보리|lúa mạch|जौ|যব|barli|shayiri|arpa|hordeo|ohra|jęczmień
@@ -1714,6 +1696,7 @@ karimia||||charity|générosité (charité)|generosidad (caridad)|generosidade||
 karite|||wol:kaarite, fra:spa:karité, por:carité, ful:kaare, kareje, hau:kaɗanya|shea (vitellaria)||karité||||||||||||||voipuu|masłosz Parka
 karma|||hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), may:karya, eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|action (act, deed)|acte (action)|acto (acción)|ato (ação)|действие (акт, акция)|عمل|作为 (行为)|行為|||कर्म|কর্মী|tindakan (perbuatan, aksi)|kitendo|amel|ago|teko (toiminta, akti)|
 karma e asar||||cause and effect||||||||||||||||syy ja seuraus|
+karma ja||||active (on, enabled)|actif|activo|ativo|активный (деятельный)||活性|活動的|||||||aktif|agema|toimelias (aktiivinen)|aktywny (włączony, uruchomiony)
 karma ja||||doer (agent, actor, activist)|agent (faiseur)|actor (hacedor, perpetrador, agente)|agente|деятель||||||||||||tekijä (aikaansaaja)|przyrostek dla wykonawcy
 karma loga|||hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|verb|verbe|verbo|verbo|глагол||动词|動詞|동사|động từ|क्रिया|ক্রিয়া|kata kerja|kitenzi|fiil|verbo|verbi (teonsana)|czasownik
 karmeze||||desk||escritorio (mesa de trabajo)||||||||||||||työpöytä (kirjoituspöytä)|biurko
@@ -2577,6 +2560,7 @@ Nistria|desha|||Transnistria||Transnistria (Cisdniéster)||||||||||||||Transdnis
 nitre|mate|N||nitrogen||nitrógeno|||||||||||||nitrogeno|typpi|azot
 Niue|desha|NU||Niue||Niue||||||||||||||Niue|Niue
 no|||eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|not (no)|non (ne...pas)|no|não|нет (не)||不|いいえ|||नहीं|না|tidak|||ne|ei|nie
+no yau di||||unnecessary (extraneous, unneeded)|inutile|innecesario|||||不要|||||||||tarpeeton|niepotrzebny
 nobelium|mate|No||nobelium||nobelio|||||||||||||nobelio|nobelium|nobel
 noche|||spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|night|noit|noche|noite|ночь||夜|夜|||रात||malam||gece|nokto|yö|noc
 nochomode||||night mode||modo nocturno||||||||||||||yömoodi|tryb nocny
@@ -2590,6 +2574,15 @@ nol she||||nothing||nada||||||||||||||ei mitään|nic, żadna rzecz
 nola||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
 noma||||manage (organize)|organiser|organizar (gestionar)|organizar|организовать||组织|組織する|||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
 nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|management (arrangement, -nomy)||gerencia (dirección)||организация||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
+nong|||zho:农民 (nóng), yue:農民 (nung4), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)|cultiver|cultivar|cultivar|выращивать||||||||||||viljellä|uprawić, uprawiać
+nong bio logi||||agrobiology|agrobiologie|agrobiología|agrobiologia|агробиология||土壤生物学||||||||agrobiyoloji||maatalousbiologia|
+nong chun||||rural village||||||农村|農村|농촌|nông thôn|||||||maalaiskylä|
+nong istan||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
+nong istan li||||rural (rustic)||rural (rústico)||||||||||||||maalais-|wiejski, rustykalny
+nong ja||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
+nong li||||agricultural|agricole|agrícola|agrícola|аграрный|||||||||||agrikultura|maataloudellinen (agraari-)|
+nong nomi||||agronomy|agronomie|agronomía|agronomia|агрономия|عِلْم الزِرَاعَة‎|农学|農学|농학|nông học|||||agronomi|agronomio|agronomia (maatalous)|agronomia
+nong shutu||||agriculture|||||||||||||||agrikulturo|viljely|
 norde|||eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|north|nord|norte|norte|север (норд)||北|北|북|||||||nordo|pohjoinen|północ
 nordi||||northern||norteño||||||||||||||pohjoinen|północny
 Nordi Aire|desha|||Northern Ireland||Irlanda del Norte||||||||||||||Pohjois-Irlanti|Irlandia Północna
@@ -2674,9 +2667,14 @@ ostojamia||||skeleton (frame)|squelette|esqueleto (armazón)|esqueleto|скел�
 ostoshalke||||scute|scutelle||escudo||||ぜんご||||||||||łuska (blaszka, tarczka)
 Ostria|desha|AT||Austria||Austria||||||||||||||Itävalta|Austria
 P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
+pa|prep.|||by (at, in, on)|a (dans, en, chez)|en (a)||в||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
 pa|||por:pai + zho:爸 (bà)  + eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
 pa de ma||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
 pa de pa||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
+pa ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
+pa lin||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
+pa no lin||||offline||||||离线|||||||||||offline (nie na linii, poza siecią)
+pa u loka||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
 pache|||ita:pace, eng:peace, spa:por:paz, fra:paix|peace|paix|paz|paz|||和平|||||||||paco|rauha|pokój
 Pachi Hai||||Pacific Ocean||océano Pacífico||||||||||||||Tyyni valtameri|Ocean Spokojny (Pacyfik)
 pachiste||||pacifist|pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|pacyfista
@@ -3970,6 +3968,8 @@ zuku di||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민�
 zuku medi di||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumarda|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+|||||||||||||||||||||
+|||||||||||||||||||||
 ||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
 ||||valid (workable)||||||||||||||||toimiva|poprawny (wykonalny)
 ||||known||conocido||||||||||||||tietty (tunnettu)|wiadomy, znany

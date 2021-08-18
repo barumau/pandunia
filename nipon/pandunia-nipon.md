@@ -2,74 +2,66 @@
 ####A - A  
 abies - モミ  
 acesa - アクセス  
+acesa bil - とっつきやすい (アクセス可能)  
 ada - 習慣 (風俗)  
 Afgan - アフガニスタン  
-agrochun - 農村  
-agronomia - 農学  
 ai - 愛  
 ai ja - 恋人 (恋人)  
 air - 空気  
-airbivi - 好気性  
-airgun - 空軍  
-airporte - 空港  
+air bio li - 好気性  
+air gun - 空軍  
+air porte - 空港  
 ais - 氷 (アイス)  
-aishoke - アイスホッケー  
-aiskrem - アイスクリーム  
-aisu - 凍る (凍結する)  
+ais hoki - アイスホッケー  
+ais krem - アイスクリーム  
 ajila - 急ぐ  
 akare - 壁蝨  
-aksesabli - とっつきやすい (アクセス可能)  
 ala - 変える  
-algofung - 地衣類 (苔癬)  
-algojangle - 藻場  
-ali - 他の  
-amater - アマチュア  
+alga fungu - 地衣類 (苔癬)  
+alga jangal - 藻場  
+alo - 他の  
 amen - 正直  
 amen bil - 忠実  
 amen shin - 信頼する  
 ami - 愛しい  
-amirlin - コマンド行  
-an lin - オンライン  
-anairbivi - 嫌気性  
+amir lin - コマンド行  
+an air bio li - 嫌気性  
+an din ja - 不信者  
+an eskala - 下る (降りる)  
+an jami - 散らす  
+an jami li - 疎ら  
+an memo - 忘れる  
+an sona - 不眠症  
 andesite - 安山岩  
-andiniste - 不信者  
-aneskala - 下る (降りる)  
-angalta - デバッグする  
 angul - 指  
-angulmarke - 指紋  
-angulpike - 指先  
-anjama - 散らす  
-anjami - 疎ら  
+angul marke - 指紋  
+angul pike - 指先  
 anjil - 伝言 (メッセージ)  
-anmema - 忘れる  
-ansomia - 不眠症  
-anyavi - 不要  
 aple - 林檎  
 arane - オレンジ  
+area - 辺  
 argente - 銀  
-aria - 辺  
 arka - 弓 (弓なり)  
 arka ja - 弓兵  
 aroma - 嗅ぐ  
 aroma - 香り (匂い, 臭い)  
 aroma - 香る (匂う, 臭う)  
 aroma melon - マクワウリ  
+asal - 起源  
 asar - 効果  
-asle - 起源  
-astre - 天体   
+astro - 天体   
 astro nomi - 天文学  
 astro nomi ja - 天文学者  
-Atina - アテネ  
-ativi - 活動的  
-atlantokade - タイセイヨウダラ  
-atlantosalmon - タイセイヨウサケ  
-aure - 金  
+Athina - アテネ  
+atlanti kade - タイセイヨウダラ  
+atlanti salmon - タイセイヨウサケ  
+auro - 金  
 Austronesia - オーストロネシア  
 auta - カスタマイズする  
-aute - 自己  
-autokratia - 君主制  
-autologe - 独白 (独話)  
-aven - 烏麦  
+auto - 自己  
+auto krati - 君主制  
+auto loga - 独白 (独話)  
+ave - 烏麦  
 ####B - B  
 bache - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
@@ -98,6 +90,7 @@ bazar - 市場 (マーケット, バザー)
 bazobol - 野球  
 bazopetre - 基盤岩  
 bazoshulkan - 小学校  
+be ais - 凍る (凍結する)  
 be van - 遊ぶ  
 bebe - 赤ちゃん  
 bekofan - テラコッタ  
@@ -272,6 +265,7 @@ euloge - 賛辞
 europobalute - ヨーロッパナラ  
 ####F - F  
 fa - する  
+fa an galta - デバッグする  
 fa ver - ただす  
 faidia - 使用 (為, 利)  
 falsvide - 幻覚  
@@ -414,6 +408,7 @@ hisaba - 計算する
 hisabolojia - 数学  
 hisabu loge - 口座  
 hiyar - キュウリ  
+hobi ja - アマチュア  
 hoga - 燃やす  
 hoge - 火  
 hogoshan - 火山  
@@ -452,7 +447,7 @@ jagu - 起きる
 jamul - フトモモ  
 jan - 人 (者, 員, 徒)  
 janel - 窓  
-jangle - 森 (森林, ジャングル)  
+jangal - 森 (森林, ジャングル)  
 jau - 大麦  
 javabe - 答え (回答)  
 jeka - 借用  
@@ -523,6 +518,7 @@ kardon - アザミ
 kardonkarchof - カルドン  
 karer - 労働者  
 karma - 行為  
+karma ja - 活動的  
 karma loga - 動詞  
 karmisa - 提出  
 karote - ニンジン  
@@ -796,10 +792,13 @@ Nipon - 日本
 niponi - 日本の (日本語, 日本人)  
 nish - 壁龕  
 no - いいえ  
+no yau di - 不要  
 noche - 夜  
 Noe di nave - ノアの箱舟  
 nola - キャンセルする  
 noma - 組織する  
+nong chun - 農村  
+nong nomi - 農学  
 norde - 北  
 norma - 標準  
 norma - 普段 (ノーマル)  
@@ -820,6 +819,7 @@ ostojamia - 骨格
 ostoshalke - ぜんご  
 ####P - P  
 pa - お父さん (父, パパ)  
+pa lin - オンライン  
 pachokade - マダラ  
 padomun - 落とし戸  
 pan - パン  

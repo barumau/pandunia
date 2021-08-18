@@ -12,7 +12,7 @@ Abisinia - Habasha
 abisinio - habasha  
 abjazia - Apsni  
 abono orgánico (compost) - biyochaniver  
-aborigen - aslaustrali  
+aborigen - asal Australia jan  
 abrepuño - solchentaur  
 abrigo (chaqueta) - kote  
 abril - mes chatre  
@@ -22,7 +22,7 @@ abuelo - chin pa
 aburrido - bori  
 aburrimiento - boria  
 acacia de copa plana - helisbabul  
-accesible - aksesabli  
+accesible - acesa bil  
 acceso - acesa  
 accesorio (afijo) - fikse  
 aceite (óleo) - nefte  
@@ -41,7 +41,7 @@ acostar (poner) - kusha
 acostarse (echarse, tenderse, tumbarse) - kushu  
 actinia (anémonas de mar) - haiful  
 actinio - acinium  
-activo - ativi  
+activo - karma ja  
 acto (acción) - karma  
 actor (actriz) - roler  
 actor (hacedor, perpetrador, agente) - karma ja  
@@ -67,8 +67,8 @@ adulto - matur
 adverbo - modologe  
 adversario (oponente) -   
 aeroplano - fei gi  
-aeropuerto - airporte  
-aeróbico - airbivi  
+aeropuerto - air porte  
+aeróbico - air bio li  
 afecto (emoción) - emos  
 Afganistán - Afgan  
 afrontar - verse  
@@ -79,9 +79,9 @@ agradecer - danka
 agresivo - agresivi  
 agresor - agreser  
 agrio (ácido) - suani  
-agrobiología - agrobiologi  
-agronomía - agronomia  
-agrícola - agri  
+agrobiología - nong bio logi  
+agronomía - nong nomi  
+agrícola - nong li  
 agua - sui  
 agua mineral - kuangosui  
 aguacate - avakate  
@@ -103,7 +103,7 @@ albañil (mampostero, cantero) - shekojanger
 alcachofera - karchof  
 alcalino - kali  
 alcohol - alkol  
-alcohólico - alkoli  
+alcohólico - alkol li  
 aldea - chun  
 Alemania - Doiche  
 alemán - doichi  
@@ -114,7 +114,7 @@ alfarero - poter
 alfarería - poteria  
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - taltesh  
-alga - alge  
+alga - alga  
 algas pardas - brun alga  
 algién - yo jan  
 algo - yo she  
@@ -123,7 +123,7 @@ algún - yo
 algún día (algún vez) - yo sate  
 alicate - pinser  
 alinear - parlinu  
-allí (allá) - an u loka  
+allí (allá) - pa u loka  
 almendra - badam  
 almirante - hai amir ja  
 almohada - kushen  
@@ -137,11 +137,11 @@ alternar (interactuar) - sosa
 alto (parte de arriba) - gau  
 alto - gavi  
 altura (altitud) - gavia  
-alumbre - aluminmate  
+alumbre - alumin mate  
 aluminio - alumin  
 aló - halo  
-alófono - alofon  
-alúmina - aluminokside  
+alófono - alo fon  
+alúmina - alumin oxide  
 amado (cariño) - ai jen  
 amante (enamorado) - ai ja  
 amapola silvestre - medenpapil  
@@ -149,10 +149,10 @@ amar románticamente - romansa
 amargo - kali guste  
 amarillo - limonrangi  
 amasar (masajear) - masaje  
-amateur (aficionado) - amater  
+amateur (aficionado) - hobi ja  
 ambiental (ecológico, natural) - eki  
 ambiguo - polmeni  
-americano - ameriki  
+americano - Amerika di  
 americio - amerikium  
 amhara - Amara  
 amigo - doste  
@@ -161,9 +161,9 @@ amoldarse - konformu
 amor - ai  
 amperio - amper  
 ampolla (vial) - ampul  
-América - Amerike  
-anaeróbico - anairbivi  
-anal - anusi  
+América - Amerika  
+anaeróbico - an air bio li  
+anal - anus di  
 analizar (disecar) - fenkata  
 anaranjado - oranji  
 ancho - kuani  
@@ -177,38 +177,38 @@ andrajoso - chirchiri
 anglicanizar - englokitaba  
 anglófilo - englofiler  
 Angola - Angola  
-anillo (sortija) - angulring  
+anillo (sortija) - angul ring  
 anillo - ring  
 animación (dibujo animado) - anime  
 animal (bestia) - zou  
-animar - anima  
+animar - anime  
 aniversario - nenfeste  
 ano - anus  
-antartida - Antartike  
+antartida - Antartika  
 antena - anten  
 anterior (remoto) - pasi  
 antibalas - dansekuri  
-Anticristo - ankriste  
+Anticristo - an mesi  
 Antigua - Antigua  
 Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlandi Antil  
 antimonio - estibium  
 antorcha - foto baton  
-antónimo - annam  
+antónimo - an nam  
 análisis (disección) - fenkate  
 análisis de datos - datofenkate  
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
 apartarse (desviarse) - rutogalta  
 apellido - familnam  
-aplicación - aplike  
+aplicación - aplika  
 aprender (estudiar) - shula  
 apropriado (apto, oportuno) - hapi  
 aproximadamente - yagu  
 apuntar (indicar) - ponta  
 apuntar - dika  
 Arabia Saudita - Saudi Arabia  
-aracnofobia - aranofobia  
+aracnofobia - arane fobi  
 araña - arane  
 arboreto - mokojongoparke  
 arbusto (mata) - tali moke  
@@ -243,7 +243,7 @@ arrastrar - trata
 arreglo - shuli  
 arriesgado - riski  
 arroba (@) - adres harfi  
-arromántico - anromansi  
+arromántico - an romanse  
 arroz - ris  
 arruinado (devastado, asolado) - harabu  
 arruinar (destruir, devastar, asolar) - harabu  
@@ -251,8 +251,8 @@ arsénico - arsene
 arte marcial - jengoshute  
 artesano - janger  
 artificial (sintético) - cana di  
-artista - artiste  
-Artsaj - Archah  
+artista - arte ja  
+Artsaj - Arcah  
 artículo (documento) - papir  
 artículo (texto) - makala  
 Aruba - Aruba  
@@ -260,21 +260,21 @@ asar (tostar) - rosta
 asar - kababu  
 asceta - askete  
 asesino - morter  
-asexual - anseksi  
+asexual - an sexe li  
 Asia - Asia  
-Asiria - Ashuria  
-asiático - asi  
-asma - asme  
+Asiria - Ashur desha  
+asiático - asia  
+asma - asma  
 asociar - liga  
-asombrar - ajaba  
-asombro - ajabia  
+asombrar - fa ajibu  
+asombro - ajibu  
 aspecto - rupe  
 aspiradora - fun chupa gi  
 aspirina - aspirin  
 Assur (Ashur) - Ashur  
 astrobiologia - kosmobiyolojia  
 astronauta - astro nave ja  
-astronave (nave estelar) - atro nave  
+astronave (nave estelar) - astro nave  
 astronomía - astro nomi  
 astrónomo - astro nomi ja  
 asunto (caso) - sualtem  
@@ -282,8 +282,8 @@ asustador - fobani
 asustar (atemorizar) - foba  
 ataque - agres  
 atar (amarrar) - benda  
-Atenas - Atina  
-ateo - andeviste  
+Atenas - Athina  
+ateo - an deu jui ja  
 attracción (-filia) - filia  
 aullar - ulula  
 aullido - ulul  
@@ -292,13 +292,13 @@ Australia - Australia
 Austria - Ostria  
 Austronesia - Austronesia  
 autenticar - fa ver  
-autocratia (monarquía) - autokratia  
-automotor (automotriz) - automoti  
+autocratia (monarquía) - auto krati  
+automotor (automotriz) - auto move  
 automóvil (coche) - moto gar  
-autonomía - autonomia  
-autónomo - autonomi  
+autonomía - auto nomi  
+autónomo - auto nomi li  
 avanzar (entrar, adelantar, progresar) - jinu  
-avena - aven  
+avena - ave  
 aventura - ventur  
 aventurero - ventur ja  
 avisar (notificar) - notana  
@@ -322,7 +322,7 @@ año - nen
 ####B - B  
 babor - nave lefte  
 bacalao - kade  
-bacalao común - atlantokade  
+bacalao común - atlanti kade  
 backgammon - narde  
 baguette - baton pan  
 bah - bah  
@@ -365,7 +365,7 @@ barril (tonel) - tong
 barrio (cuartel) - mahala  
 barrio pobre - harabu mahala  
 baréin - Bahrain  
-barómetro - airbarmetrer  
+barómetro - air bari metre gi  
 base (álcali) - kali  
 base - baze  
 bastante - basi  
@@ -423,8 +423,8 @@ bomba - bomba
 bombear - pompa  
 boro - boron  
 Bosnia y Herzegovina - Bosna e Hercegovina  
-bosque (jungla, selva) - jangle  
-bosque de algas - algojangle  
+bosque (jungla, selva) - jangal  
+bosque de algas - alga jangal  
 bota - bute  
 botella - botel  
 Botsuana - Cuana  
@@ -530,7 +530,7 @@ campamento - kampe
 campana (cencerro) - danger  
 campeón - champion  
 campista - kamper  
-campo - agristan  
+campo - nong istan  
 campo de visión - vide meden  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
@@ -758,7 +758,7 @@ completar (terminar) - purfina
 complot (conspiración) - sirplan  
 comportamiento (conducta) - manir  
 comportarse (portarse) - manira  
-compota de manzanas - aplosaus  
+compota de manzanas - aple sos  
 comprador - shoper  
 comprar - shopa  
 compras (shopping) - shope  
@@ -785,7 +785,7 @@ confucianismo - kongfuzistia
 confucio - Kongfuze  
 confundido - ruhmishi  
 confundir (desconcertar, perplejo) - ruhmisha  
-congelarse (helarse) - aisu  
+congelarse (helarse) - be ais  
 cono - konus  
 conocido -   
 consecuencia (siguiente) - pos  
@@ -893,7 +893,7 @@ cualidad (atributo, descripción) - sifa
 cuarzo - kuarze  
 cuatro (4) - chatre  
 Cuba - Kuba  
-cubierto de hielo - aisi  
+cubierto de hielo - ais li  
 cubo - kube  
 cubrir (tapar) - daka  
 cuchara - chamache  
@@ -904,13 +904,13 @@ cuento (relato corto) - korte kata
 cuento de hadas - peri kata  
 cuerno - korne  
 cuerpo - bode  
-cuerpo celeste - astre  
+cuerpo celeste - astro  
 cuesta (inclinación, pendiente, predisposición, tender) - klin  
 cueva (caverna) - gua  
 culombio - kulombe  
 culpa (defecto, crimen) - dosh  
 culpable - doshi  
-cultivar - agro  
+cultivar - nong  
 cultura - kultur  
 cumpleaños - jenden  
 cupón (vale) - kupon  
@@ -949,9 +949,9 @@ darse cuenta (notar) - buda
 darwinismo - darvinistia  
 darwinista - darviniste  
 datos - date  
-dañado - avari  
-dañar - avara  
-dañino (perjudicial) - avarani  
+dañado - avar di  
+dañar - fa avar  
+dañino (perjudicial) - avar ja  
 daño (corrupción) - avar  
 de (desde) - ze  
 de (posposición de posesión) - da  
@@ -992,7 +992,7 @@ dentista (odontólogo) - dantomediker
 dentro - intro  
 deporte - esporte  
 deportista - esporter  
-depurar - angalta  
+depurar - fa an galta  
 derechista - raitiste  
 derecho - haki  
 derecho - raiti  
@@ -1000,9 +1000,9 @@ derechos de autor (copyright) - kopohake
 derechos humanos - insani hake  
 derretirse - yong  
 derrota (fracaso) - shibai  
-desacuerdo - alorayia  
+desacuerdo - alo rai  
 desarrollo - darjomute  
-desatascar - antapa  
+desatascar - an tapa  
 desayuno - subyam  
 descanso (alivio) - shante  
 descargar - netogeta  
@@ -1016,11 +1016,11 @@ despertar - jaga
 despertarse - jagu  
 despierto - jagi  
 despreciar (desdeñar) - paraya  
-destapar - andaka  
+destapar - an daka  
 destinar - gola  
 destino - nasibe  
 detalle - detal  
-detestar - anama  
+detestar - an ai  
 devanágari - deu nagra harfi  
 devolver (vomitar) - retrogula  
 diagonal - transogoni  
@@ -1030,9 +1030,9 @@ dibujo (diseño) - desen
 diente - dante  
 dientes de león (panaderos) - makanful  
 diez (10) - des  
-diferencia - alosfia  
+diferencia - alo sifa  
 diferenciar (distinguir) - hasa  
-diferente - alosifi  
+diferente - alo sifa li  
 dificultad (apuro, privación) - dushal  
 Dinamarca - Dan  
 dinamita - dinamite  
@@ -1048,11 +1048,11 @@ dirigir (mandar, conducir, capitanear) - lida
 disco - diske  
 discreto (digital) - feni  
 discusión (debate, discurso) - lon  
-disentir (no estar de acuerdo) - aloraya  
+disentir (no estar de acuerdo) - alo rai  
 disfrutar (jugar) - be van  
 disionario (lexicón) - logoliste  
 disparar - pava  
-dispersar (esparcir, desmontar) - anjama  
+dispersar (esparcir, desmontar) - an jami  
 disposición (naturaleza, carácter, -ivo, -idad) - tabi  
 dispositivo pirotécnico - hogotehne  
 disprosio - disprosium  
@@ -1107,7 +1107,7 @@ día - den
 día de San Juan - Yohan festa  
 día de semana - var  
 día festivo (feriado) - festoden  
-dónde - an ke  
+dónde - pa ke  
 ####E - E  
 eco - mirsonde  
 ecología - ekolojia  
@@ -1118,12 +1118,12 @@ ecuador - geyoparlin
 edad - sen  
 educación - shulia  
 educado - kechi  
-efectuar - asara  
+efectuar - fa asar  
 Egipcia Antigua - Kemia  
 egipcio - misri  
 Egipto - Misria  
 einsteinium - ainstainium  
-eje - akse  
+eje - axe  
 ejemplo - misal  
 ejército - geo gun  
 ejército - gun  
@@ -1153,7 +1153,7 @@ embarazado (preñado) - hamili
 embarrado (enlodado) - fani  
 embudo - riutube  
 emir - amir ja  
-emirato - amiria  
+emirato - amir ya  
 Emiratos Árabes Unidos - Uniti Arabi Amiria (UAA)  
 emisión - misia  
 emoticón (emoyi) - emoje  
@@ -1164,10 +1164,10 @@ emperador - imperer
 emplear (aplicar) - aplika  
 empresario - bizneser  
 empujar (presionar) - pusha  
-en (a) - an  
+en (a) - pa  
 en el sentido contrario al las agujas del reloj - rotolefto  
 en el sentido del las agujas del reloj - rotoraito  
-en línea - an lin  
+en línea - pa lin  
 encanto - charme  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
@@ -1217,7 +1217,7 @@ Eritrea - Eritra
 errar (cometer un error) - galta  
 error - galte  
 erróneo - galti  
-es decir (en otras palabras) - alonamo  
+es decir (en otras palabras) - alo nam  
 escalar - eskala  
 escalera - eskale  
 escama - shalke  
@@ -1226,7 +1226,7 @@ escandio - eskandium
 escaparse (evitar, huir) - bega  
 escapatoria - chute  
 escarcha - hima rose  
-escaso (disperso, ralo) - anjami  
+escaso (disperso, ralo) - an jami li  
 escenario (podio, estrado, tarima) - tai  
 Escocia - Eskote  
 escribir - kitabu  
@@ -1415,7 +1415,7 @@ fuente (manantial) - fonte
 fuera (exterior) - esh  
 fuerte - forti  
 fuerza - fortia  
-fuerza aérea - airgun  
+fuerza aérea - air gun  
 funcionar - funci  
 funcionario - ofiser  
 fundador - bazer  
@@ -1507,7 +1507,7 @@ gobernar - polita
 gobierno - polite  
 golpear (pegar) - darba  
 goma (caucho, hule) - gom  
-goma arábiga - arabobabul  
+goma arábiga - arabi babul  
 goniómetro (medidor de ángulos) - gonmetrer  
 gorila - gorila  
 gorila occidental - veste gorila  
@@ -1524,7 +1524,7 @@ Granada - Grenada
 Granadinas - Grenadin nesia  
 grande - dayi  
 granito - granite  
-granjero (agricultor) - agrer  
+granjero (agricultor) - nong ja  
 grasa - fete  
 graso (adiposo) - feti  
 grava - grave  
@@ -1579,7 +1579,7 @@ hacha - futau
 hachís - hashish  
 hada - peri  
 hafnio - hafnium  
-Haití - Aiti  
+Haití - Haiti  
 halo (aureola) - foto sirke  
 hamaca - hamake  
 hambre - yam yau  
@@ -1591,7 +1591,7 @@ Hawái - Havai
 hebra (fibra) - linem  
 hebreo - ibri  
 hecho - fate  
-helado - aiskrem  
+helado - ais krem  
 helecho - parne  
 helicóptero - helisviman  
 helio - helium  
@@ -1605,8 +1605,8 @@ hervidor (tetera) - ketle
 hervir (cocer) - bula  
 hervirse (ser cocida) - bulu  
 Hesse (Hessia) - Hesia  
-heterorromántico - aloromansi  
-heterosexual - aloseksi  
+heterorromántico - alo romanse  
+heterosexual - alo sexe li  
 hexaedro (cubo) - sisfas  
 hexágono - sisgon  
 hidrógeno - hidre  
@@ -1629,7 +1629,7 @@ historiador - histori ja
 historieta (caricaturas) - grafi kata  
 hm - hem  
 hockey - hoke  
-hockey sobre hielo - aishoke  
+hockey sobre hielo - ais hoki  
 hoja - varka  
 holmio - holmium  
 holograma - holgraf  
@@ -1653,9 +1653,9 @@ hornear (cocer) - beka
 horno - tanur  
 hotel (albergue) - hotel  
 hoy - zai den  
-huella digital - angulmarke  
+huella digital - angul marke  
 hueso - oste  
-huevo - ande  
+huevo - anda  
 humanidad (género humano) - insania  
 humanismo - insanistia  
 humanista - insaniste  
@@ -1721,12 +1721,12 @@ indium - hindium
 Indo - Hindu riu  
 Indonesia - Indonesia  
 Indostán - Hindu desh  
-indígena (indio) - aslameriki  
+indígena (indio) - asal Amerka jan  
 inequívoco - unmeni  
 infección (contagio) - patomis  
 infectar (contagiar) - patomisa  
 inferior - nichi  
-infiel (descreído) - andiniste  
+infiel (descreído) - an din ja  
 infierno - narake  
 inflamación - flame  
 información - konsave  
@@ -1738,11 +1738,11 @@ inglés - engli
 inmigrante - inmigran  
 inmigrar - inmigra  
 innato (endógeno) - injeni  
-innecesario - anyavi  
+innecesario - no yau di  
 inodoro (wáter, retrete) - tualete  
 inquisitivo (curioso) - savovolani  
 insecto - konchung  
-insomnio - ansomia  
+insomnio - an sona  
 instrucciones (receta) - resete  
 instrumento de arco - tichin  
 insultar (ofender) - dusnamana  
@@ -1752,7 +1752,7 @@ intenso (brusco, ácido, fuerte, afilado, rápido) - teza
 intentar (probar) - teste  
 intercambiar (canjear) - badla  
 interesante (curioso) - savovoliti  
-interfaz de línea de comandos - amirlin  
+interfaz de línea de comandos - amir lin  
 interior (interno) - indi  
 interior - in  
 internacional - nasmedi  
@@ -1949,7 +1949,7 @@ lindo (precioso) - kavayi
 linea (hilo, cordel, raya) - lin  
 linfa - linfe  
 lingüística - bashalogi  
-liquen - algofung  
+liquen - alga fungu  
 lirio - susan  
 lista - liste  
 lista blanca - halaloliste  
@@ -2066,8 +2066,8 @@ mapache - vashi urse
 mar - hai  
 maratí - marati  
 maratón - maraton  
-maravilla - ajabe  
-maravilloso (asombroso) - ajabi  
+maravilla - ajibu  
+maravilloso (asombroso) - ajibu li  
 maravilloso (magnífico) - superi  
 marca (huella, mancha) - marke  
 marcador - puntoban  
@@ -2139,7 +2139,7 @@ meningitis - meninge flame
 menor (leve) - minori  
 menos - min (mino)  
 mensaje - anjil  
-mensajero - anjiler  
+mensajero - anjil ja  
 menta - minte  
 menta acuática - suiminte  
 mental (psíquico) - ruhi  
@@ -2188,7 +2188,7 @@ ministerio - ministeria
 ministro - minister  
 minoría - minoria  
 minuto - minute  
-mismo (yo) - aute  
+mismo (yo) - auto  
 mito (cuento divino) - deu kata  
 miércoles - var tri  
 mochila - rukosake  
@@ -2227,7 +2227,7 @@ montaña (colina) - shan
 Montenegro - Chernagora  
 monumento - membin  
 monóculo - unoki lense  
-monólogo - autologe  
+monólogo - auto loga  
 morado (púrpura) - viyolete blu  
 moral (ético) - deki  
 moralidad (ética) - deke  
@@ -2408,10 +2408,10 @@ ocular - oki
 ocultar (esconder) - sira  
 ocupado (atareado) - mangi  
 océano - daihai  
-océano Antártico - Antartiki Hai  
+océano Antártico - Antartika Hai  
 océano Atlántico - Atlanti Hai  
 océano Pacífico - Pachi Hai  
-océano Ártico - Artiki Hai  
+océano Ártico - Artika Hai  
 océano Índico - Barte Hai  
 odiar - hena  
 odio - hen  
@@ -2425,7 +2425,7 @@ ojo - oke
 oler (apestar) - aroma  
 oler (olfatear) - aroma  
 olor (aroma) - aroma  
-olvidar - anmema  
+olvidar - an memo  
 ominoso (amenazador) - dusosinyi  
 Omán - Oman  
 onda - onde  
@@ -2440,19 +2440,19 @@ orden - ratibe
 ordenado (regular) - ratibi  
 ordenar (arreglar) - ratiba  
 ordeñar - tira milke  
-ordinario (habitual) - adi  
+ordinario (habitual) - ada li  
 oreja - ore  
 orfanato - yatim dom  
 organismo (ser vivo) - bio vute  
 organizar (gestionar) - noma  
 orgasmo - orgazme  
 oriental - dongi  
-origen - asle  
-original - asli  
+origen - asal  
+original - asal di  
 orilla (ribera) - tate  
 oriya - odisi  
 ornitorrinco - bata krote  
-oro - aure  
+oro - auro  
 oromo - oromi  
 Oromía - Oromia  
 orquídea - orkide  
@@ -2465,10 +2465,10 @@ otitis - ore flame
 otomana - osman  
 otoño - padomosim  
 otra vez (de nuevo) - reyo  
-otro - ali  
+otro - alo  
 oveja - meme  
 oxígeno - okse  
-oír (escuchar) - auda  
+oír (escuchar) - audi  
 ####P - P  
 paciente - patike  
 pacifismo - pachistia  
@@ -2619,7 +2619,7 @@ permitir (dejar) - halala
 pero - ama  
 perro - vaf  
 persona (ista, -ador) - jan  
-personal (privado, a medida) - auti  
+personal (privado, a medida) - auto li  
 personalizar - auta  
 perspectiva (punto de vista) - vide punte  
 pertenecer (ser miembro de) - memba  
@@ -2748,7 +2748,7 @@ preparar (hacer listo) - reda
 presencia (existencia) - zaita  
 presente (actualidad) - zai zaman  
 presidente - prezidente  
-presión atmosférica - airbaria  
+presión atmosférica - air bari  
 prestar (pedir prestado) - jeka  
 prestar - jekodona  
 presuponer - chenaga  
@@ -2846,7 +2846,7 @@ queso fresco - panir
 quilate - kirate  
 quimono - kimono*  
 quiosco (kiosco) - kioske  
-quitar (eliminar, borrar) - anzaya  
+quitar (eliminar, borrar) - fa no zai  
 quitar (pelar) - tira pil  
 quitar (remover) - kitana  
 quién - ke jan  
@@ -3006,7 +3006,7 @@ rueda (volante) - chakra
 ruido - kelele  
 ruiseñor - bulbul  
 Rumania - Romania  
-rural (rústico) - agristani  
+rural (rústico) - nong istan li  
 Rusia - Rusia  
 ruta - rute  
 rutenio - rutenium  
@@ -3039,7 +3039,7 @@ salir (irse) - chuta
 salmodiar - mantra  
 salmón (trucha) - salmon  
 salmón chum (keta) - bakosalmon  
-salmón del Atlántico - atlantosalmon  
+salmón del Atlántico - atlanti salmon  
 salmón rojo - lal salmon  
 salmón rosado - rozosalmon  
 salsa - sos  
@@ -3059,7 +3059,7 @@ San Cristóbal - Sante Kitse
 San Cristóbal y Nieves - Sante Kitse e Nevis  
 San Marino - Sante Marino  
 San Vicente y las Granadinas - Sante Vinsente e Grenadine  
-sandía (patilla) - arbuze  
+sandía (patilla) - arbuza  
 sangrar - lova sang  
 sangre - sang  
 Santa Lucía - Sante Lusia  
@@ -3572,7 +3572,7 @@ y - e
 ya (acción completado) - fino  
 yac - yake  
 Yahvé (Jehová) - Yahve  
-yema del dedo - angulpike  
+yema del dedo - angul pike  
 Yemen - Yemen  
 Yibuti - Jibuti  
 yo - mi  
@@ -3604,14 +3604,14 @@ zorro - huli
 zulú - Zulu  
 ¡Felicitaciones! - barka  
 África - Afrika  
-Ártico - Artike  
+Ártico - Artika  
 ágil - agile  
 álgebra - jebria  
 ángulo recto - ortogon  
 árabe - arabi  
 árbol - moke  
 área (superficie) - area  
-área (zona, región) - aria  
+área (zona, región) - area  
 áspero (basto) - karsi  
 ástato - astatium  
 átomo - atom  

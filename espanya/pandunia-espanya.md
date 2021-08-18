@@ -4,10 +4,11 @@ a - el (la)
 abies - abeto  
 acente - acento  
 acesa - acceso  
+acesa bil - accesible  
 achi - estornudar (achís)  
 acinium - actinio  
 ada - costumbre (hábito)  
-adi - ordinario (habitual)  
+ada li - ordinario (habitual)  
 adil - justo  
 adilta - justicia  
 adres - dirección  
@@ -15,141 +16,121 @@ adres harfi - arroba (@)
 Afgan - Afganistán  
 Afrika - África  
 agile - ágil  
-agrer - granjero (agricultor)  
 agres - ataque  
 agreser - agresor  
 agresivi - agresivo  
-agri - agrícola  
-agristan - campo  
-agristani - rural (rústico)  
-agro - cultivar  
-agrobiologi - agrobiología  
-agronomia - agronomía  
 aha - entender (comprender)  
 ai - amor  
 ai ja - amante (enamorado)  
 ai jen - amado (cariño)  
 ainstainium - einsteinium  
 air - aire  
-airbaria - presión atmosférica  
-airbarmetrer - barómetro  
-airbivi - aeróbico  
+air bari - presión atmosférica  
+air bari metre gi - barómetro  
+air bio li - aeróbico  
+air gun - fuerza aérea  
+air porte - aeropuerto  
 Aire - Irlanda  
-airgun - fuerza aérea  
-airporte - aeropuerto  
 ais - hielo  
-aishoke - hockey sobre hielo  
-aisi - cubierto de hielo  
-aiskrem - helado  
-aisu - congelarse (helarse)  
-Aiti - Haití  
-ajaba - asombrar  
-ajabe - maravilla  
-ajabi - maravilloso (asombroso)  
-ajabia - asombro  
+ais hoki - hockey sobre hielo  
+ais krem - helado  
+ais li - cubierto de hielo  
+ajibu - maravilla  
+ajibu - asombro  
+ajibu li - maravilloso (asombroso)  
 ajila - meter prisa  
 akare - garrapata (ácaro)  
-akse - eje  
-aksesabli - accesible  
 ala - cambiar (demudar)  
 Alaska - Alaska  
-alge - alga  
-algofung - liquen  
-algojangle - bosque de algas  
-ali - otro  
+alga - alga  
+alga fungu - liquen  
+alga jangal - bosque de algas  
 alkol - alcohol  
-alkoli - alcohólico  
+alkol li - alcohólico  
 almari - armario  
 almas - diamante  
+alo - otro  
 alo - sino  
-alofon - alófono  
-alonamo - es decir (en otras palabras)  
-aloraya - disentir (no estar de acuerdo)  
-alorayia - desacuerdo  
-aloromansi - heterorromántico  
-aloseksi - heterosexual  
-alosfia - diferencia  
-alosifi - diferente  
+alo fon - alófono  
+alo nam - es decir (en otras palabras)  
+alo rai - disentir (no estar de acuerdo)  
+alo rai - desacuerdo  
+alo romanse - heterorromántico  
+alo sexe li - heterosexual  
+alo sifa - diferencia  
+alo sifa li - diferente  
 alumin - aluminio  
-aluminmate - alumbre  
-aluminokside - alúmina  
+alumin mate - alumbre  
+alumin oxide - alúmina  
 ama - pero  
 Amara - amhara  
-amater - amateur (aficionado)  
 amen - honesto (seguramente, amén)  
 amen bil - leal (fiel)  
 amen bilta - lealtad (fidelidad)  
 amen shin - confiar (contar con)  
+Amerika - América  
+Amerika di - americano  
 Amerika Samoa - Samoa Americana  
-Amerike - América  
-ameriki - americano  
 amerikium - americio  
 ami - querido  
 amir - orden (mando, comando)  
 amir ja - emir  
-amiria - emirato  
-amirlin - interfaz de línea de comandos  
+amir lin - interfaz de línea de comandos  
+amir ya - emirato  
 amper - amperio  
 ampul - ampolla (vial)  
-an - en (a)  
-an ke - dónde  
-an lin - en línea  
-an u loka - allí (allá)  
-anairbivi - anaeróbico  
-anama - detestar  
-andaka - destapar  
-ande - huevo  
+an ai - detestar  
+an air bio li - anaeróbico  
+an daka - destapar  
+an deu jui ja - ateo  
+an din ja - infiel (descreído)  
+an jami - dispersar (esparcir, desmontar)  
+an jami li - escaso (disperso, ralo)  
+an memo - olvidar  
+an mesi - Anticristo  
+an nam - antónimo  
+an romanse - arromántico  
+an sexe li - asexual  
+an sona - insomnio  
+an tapa - desatascar  
+anda - huevo  
 Andes - Andes  
 andesite - andesita  
-andeviste - ateo  
-andiniste - infiel (descreído)  
 Andora - Andorra  
-angalta - depurar  
 angar - ancla  
 Angola - Angola  
 angul - dedo  
-angulmarke - huella digital  
-angulpike - yema del dedo  
-angulring - anillo (sortija)  
-anima - animar  
+angul marke - huella digital  
+angul pike - yema del dedo  
+angul ring - anillo (sortija)  
+anime - animar  
 anime - animación (dibujo animado)  
-anjama - dispersar (esparcir, desmontar)  
-anjami - escaso (disperso, ralo)  
 anjil - mensaje  
-anjiler - mensajero  
-ankriste - Anticristo  
-anmema - olvidar  
-annam - antónimo  
-anromansi - arromántico  
-anseksi - asexual  
-ansomia - insomnio  
-antapa - desatascar  
-Antartike - antartida  
-Antartiki Hai - océano Antártico  
+anjil ja - mensajero  
+Antartika - antartida  
+Antartika Hai - océano Antártico  
 anten - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua y Barbuda  
 anus - ano  
-anusi - anal  
-anyavi - innecesario  
-anzaya - quitar (eliminar, borrar)  
+anus di - anal  
 aple - manzana  
+aple sos - compota de manzanas  
 aplika - emplear (aplicar)  
-aplike - aplicación  
-aplosaus - compota de manzanas  
+aplika - aplicación  
 Apsni - abjazia  
 arabi - árabe  
-arabobabul - goma arábiga  
+arabi babul - goma arábiga  
 arane - araña  
-aranofobia - aracnofobia  
-arbuze - sandía (patilla)  
-Archah - Artsaj  
+arane fobi - aracnofobia  
+arbuza - sandía (patilla)  
+Arcah - Artsaj  
 area - área (superficie)  
+area - área (zona, región)  
 argente - plata  
 Argentina - Argentina  
 argon - argón  
 argum - argumento  
-aria - área (zona, región)  
 arka - arco  
 arka chati - bóveda  
 arka ja - arquero  
@@ -160,57 +141,55 @@ aroma - olor (aroma)
 aroma - oler (apestar)  
 aroma melon - melón coreano  
 arsene - arsénico  
-Artike - Ártico  
-Artiki Hai - océano Ártico  
-artiste - artista  
+arte ja - artista  
+Artika - Ártico  
+Artika Hai - océano Ártico  
 Aruba - Aruba  
+asal - origen  
+asal Amerka jan - indígena (indio)  
+asal Australia jan - aborigen  
+asal di - original  
 asan - postura (posición)  
 asar - resulta (efecto)  
-asara - efectuar  
 asha - esperar (desear)  
 Ashur - Assur (Ashur)  
-Ashuria - Asiria  
-asi - asiático  
+Ashur desha - Asiria  
+asia - asiático  
 Asia - Asia  
 askete - asceta  
-aslameriki - indígena (indio)  
-aslaustrali - aborigen  
-asle - origen  
-asli - original  
-asme - asma  
+asma - asma  
 aspirin - aspirina  
 astatium - ástato  
-astre - cuerpo celeste  
+astro - cuerpo celeste  
+astro nave - astronave (nave estelar)  
 astro nave ja - astronauta  
 astro nomi - astronomía  
 astro nomi ja - astrónomo  
 ata - anón (ates, saramuyo)  
-Atina - Atenas  
-ativi - activo  
+Athina - Atenas  
 Atlanti Hai - océano Atlántico  
-atlantokade - bacalao común  
-atlantosalmon - salmón del Atlántico  
+atlanti kade - bacalao común  
+atlanti salmon - salmón del Atlántico  
 atom - átomo  
-atro nave - astronave (nave estelar)  
 au - ay!  
-auda - oír (escuchar)  
-aure - oro  
+audi - oír (escuchar)  
+auro - oro  
 Australia - Australia  
 Austronesia - Austronesia  
 auta - personalizar  
-aute - mismo (yo)  
-auti - personal (privado, a medida)  
-autokratia - autocratia (monarquía)  
-autologe - monólogo  
-automoti - automotor (automotriz)  
-autonomi - autónomo  
-autonomia - autonomía  
+auto - mismo (yo)  
+auto krati - autocratia (monarquía)  
+auto li - personal (privado, a medida)  
+auto loga - monólogo  
+auto move - automotor (automotriz)  
+auto nomi - autonomía  
+auto nomi li - autónomo  
 avakate - aguacate  
 avar - daño (corrupción)  
-avara - dañar  
-avarani - dañino (perjudicial)  
-avari - dañado  
-aven - avena  
+avar di - dañado  
+avar ja - dañino (perjudicial)  
+ave - avena  
+axe - eje  
 Azerbaijan - Azerbaiyán  
 ####B - B  
 babe - capítulo (sección)  
@@ -296,6 +275,7 @@ bazobol - béisbol
 bazokanun - constitución  
 bazopetre - lecho de roca  
 bazoshulkan - escuela primaria  
+be ais - congelarse (helarse)  
 be van - disfrutar (jugar)  
 be vide - ser visto  
 be zai - aparecer  
@@ -807,6 +787,11 @@ evanjil - evangelio
 evi - beneficioso (bueno)  
 ####F - F  
 fa - hacer  
+fa ajibu - asombrar  
+fa an galta - depurar  
+fa asar - efectuar  
+fa avar - dañar  
+fa no zai - quitar (eliminar, borrar)  
 fa safa - limpiar  
 fa valu - valorar  
 fa van - divertir (entretener)  
@@ -1152,6 +1137,7 @@ haihiyar - holoturia (pepino de mar)
 haijel - medusa  
 haiporte - puerto marítimo  
 haitate - costa  
+Haiti - Haití  
 haki - derecho  
 hal - estado (condición)  
 halala - permitir (dejar)  
@@ -1250,6 +1236,7 @@ histori ja - historiador
 historia - historia (estudio de sucesos del pasado)  
 hiyar - pepino  
 hobi - pasatiempo (hobby, afición)  
+hobi ja - amateur (aficionado)  
 hoga - quemar  
 hoge - fuego  
 hoge sanduku - farol (linterna)  
@@ -1369,8 +1356,8 @@ jamkarde - cromo
 jampa - saltar (brincar)  
 jan - persona (ista, -ador)  
 janel - ventana  
+jangal - bosque (jungla, selva)  
 janger - artesano  
-jangle - bosque (jungla, selva)  
 jar - jarra  
 jar - jarra  
 jau - cebada  
@@ -1541,6 +1528,7 @@ karimi - generoso (dadivoso, caritativo)
 karimia - generosidad (caridad)  
 karite - karité  
 karma - acto (acción)  
+karma ja - activo  
 karma ja - actor (hacedor, perpetrador, agente)  
 karma loga - verbo  
 karmeze - escritorio (mesa de trabajo)  
@@ -2333,6 +2321,7 @@ Nistria - Transnistria (Cisdniéster)
 nitre - nitrógeno  
 Niue - Niue  
 no - no  
+no yau di - innecesario  
 nobelium - nobelio  
 noche - noche  
 nochomode - modo nocturno  
@@ -2346,6 +2335,13 @@ nol she - nada
 nola - cancelar  
 noma - organizar (gestionar)  
 nomia - gerencia (dirección)  
+nong - cultivar  
+nong bio logi - agrobiología  
+nong istan - campo  
+nong istan li - rural (rústico)  
+nong ja - granjero (agricultor)  
+nong li - agrícola  
+nong nomi - agronomía  
 norde - norte  
 nordi - norteño  
 Nordi Aire - Irlanda del Norte  
@@ -2424,7 +2420,11 @@ oste - hueso
 ostojamia - esqueleto (armazón)  
 Ostria - Austria  
 ####P - P  
+pa - en (a)  
 pa - padre (papá)  
+pa ke - dónde  
+pa lin - en línea  
+pa u loka - allí (allá)  
 pache - paz  
 Pachi Hai - océano Pacífico  
 pachiste - pacifista  

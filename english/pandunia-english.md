@@ -4,10 +4,11 @@ a - the (that)
 abies - fir tree  
 acente - accent (stress)  
 acesa - access (admission, accessibility)  
+acesa bil - accessible (within reach)  
 achi - sneeze (achoo)  
 acinium - actinium  
 ada - habit (custom)  
-adi - ordinary (customary, habitual, normal)  
+ada li - ordinary (customary, habitual, normal)  
 adil - just (fair, righteous)  
 adilta - justice  
 adres - address  
@@ -15,165 +16,138 @@ adres harfi - @ symbol
 Afgan - Afghanistan  
 Afrika - Africa  
 agile - agile  
-agrer - farmer  
 agres - attack (assault, aggression, hostility)  
 agresa - attack (assault)  
 agreser - aggressor  
 agresivi - aggressive  
-agri - agricultural  
-agristan - countryside  
-agristani - rural (rustic)  
-agro - cultivate (farm)  
-agro shutu - agriculture  
-agrobiologi - agrobiology  
-agrochun - rural village  
-agronomia - agronomy  
 aha - understand (realize)  
 ai - love (liking, affection)  
 ai ja - lover  
 ai jen - darling (honey)  
 ainstainium - einsteinium  
 air - air  
-airbaria - atmospheric pressure  
-airbarmetrer - barometer  
-airbivi - aerobic  
+air bari - atmospheric pressure  
+air bari metre gi - barometer  
+air bio li - aerobic  
+air gun - airforce  
+air porte - airport (aeroport)  
 Aire - Ireland  
-airgun - airforce  
-airporte - airport (aeroport)  
 ais - ice  
-aishoke - ice hockey  
-aisi - icy  
-aiskrem - ice cream  
-aisu - freeze (get frozen)  
-Aiti - Haiti  
-ajaba - amaze  
-ajabe - marvel (wonder)  
-ajabi - amazing (astonishing)  
-ajabia - awe (wonder)  
-ajabu - wonder (be amazed)  
+ais hoki - ice hockey  
+ais krem - ice cream  
+ais li - icy  
+ajibu - marvel (wonder)  
+ajibu - awe (wonder)  
+ajibu li - amazing (astonishing)  
 ajila - hurry (hasten)  
 akare - tick (mite)  
-akse - axis (axle)  
-aksesabli - accessible (within reach)  
 ala - change (make different)  
 Alaska - Alaska  
-alge - alga  
-algofung - lichen  
-algojangle - kelp forest  
-ali - other  
+alga - alga  
+alga fungu - lichen  
+alga jangal - kelp forest  
 alkol - alcohol  
-alkoli - alcoholic  
+alkol li - alcoholic  
 almari - cupboard (closet, cabinet, wardrobe)  
 almas - diamond  
+alo - other  
 alo - otherwise (else)  
-alofon - allophone  
-alonamo - that is (in other words, i.e., alias)  
-aloraya - disagree  
-alorayia - disagreement (disconsent)  
-aloromansi - heteroromantic  
-aloseksi - heterosexual  
-alosfia - difference  
-alosifi - different  
+alo fon - allophone  
+alo nam - that is (in other words, i.e., alias)  
+alo rai - disagree  
+alo rai - disagreement (disconsent)  
+alo romanse - heteroromantic  
+alo sexe li - heterosexual  
+alo sifa - difference  
+alo sifa li - different  
 alumin - aluminium  
-aluminmate - alum  
-aluminokside - alumina (aluminum oxide)  
+alumin mate - alum  
+alumin oxide - alumina (aluminum oxide)  
 ama - but (whereas)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
-amater - amateur  
 amen - honest (trustworthy, true; surely, verily, amen)  
 amen bil - loyal (faithful, trustworthy)  
 amen bilta - loyalty (faithfulness)  
 amen shin - trust (have faith, rely)  
 amen shin di - trusted  
+Amerika - America (continent)  
+Amerika di - American  
 Amerika Samoa - American Samoa  
-Amerike - America (continent)  
-ameriki - American  
 amerikium - americium  
 ami - dear (beloved)  
 amir - order (command)  
 amir haki - authority (power to give orders)  
 amir ja - emir  
-amiria - emirate  
-amirlin - command line (console, terminal)  
+amir lin - command line (console, terminal)  
+amir ya - emirate  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
-an - by (at, in, on)  
-an ke - where  
-an lin - online  
-an no lin - offline  
-an u loka - there  
-an:a - cause (make sb. do sth.)  
-anairbivi - anaerobic  
-anama - dislike (loathe)  
-anamike - enemy  
-anativa - deactivate (disable, turn off)  
-anativi - off (deactivated, disabled)  
-anchenvidi - unexpected  
-andaka - uncover (reveal)  
-ande - egg  
+an ai - dislike (loathe)  
+an air bio li - anaerobic  
+an chen vide di - unexpected  
+an daka - uncover (reveal)  
+an deu jui ja - atheist  
+an din ja - unbeliever (infidel)  
+an doste - enemy (unfriend)  
+an eskala - get off (descend)  
+an icha ja - reluctant  
+an jami - disperse (spread out, scatter)  
+an jami li - sparse (scattered)  
+an kai - close (shut)  
+an kai di - closed  
+an karma ja - off (deactivated, disabled)  
+an kode - decode (decrypt)  
+an limite - infinity  
+an memo - forget  
+an mesi - antichrist  
+an nam - antonym  
+an pace - unrest  
+an romanse - aromantic  
+an sabi li - strange (unknown)  
+an sexe li - asexual  
+an sona - insomnia  
+an sora - unlock  
+an sora li - unlocked  
+an tapa - unplug (uncork)  
+anda - egg  
 Andes - Andes  
 andesite - andesite  
-andeviste - atheist  
-andiniste - unbeliever (infidel)  
 Andora - Andorra  
-andoste - enemy (unfriend)  
-aneskala - get off (descend)  
-angalta - debug  
 angar - anchor  
 Angola - Angola  
 angul - finger (toe)  
-angulmarke - fingerprint  
-angulpike - fingertip  
-angulring - finger ring  
-anichi - reluctant  
-anima - animate  
+angul marke - fingerprint  
+angul pike - fingertip  
+angul ring - finger ring  
+anime - animate  
 anime - animation (cartoon)  
-anjama - disperse (spread out, scatter)  
-anjami - sparse (scattered)  
 anjil - message  
-anjiler - messenger  
-ankaya - close (shut)  
-ankayi - closed  
-ankoda - decode (decrypt)  
-ankriste - antichrist  
-anlimitia - infinity  
-anmema - forget  
-annam - antonym  
-anpache - unrest  
-anromansi - aromantic  
-ansavi - strange (unknown)  
-anseksi - asexual  
-ansomia - insomnia  
-ansora - unlock  
-ansori - unlocked  
-antapa - unplug (uncork)  
-Antartike - Antarctica  
-Antartiki Hai - Antarctic Ocean  
+anjil ja - messenger  
+Antartika - Antarctica  
+Antartika Hai - Antarctic Ocean  
 anten - antenna (aerial)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
 anus - anus  
-anusi - anal  
-anyavi - unnecessary (extraneous, unneeded)  
-anzaya - remove (delete, dispose, erase)  
+anus di - anal  
 aple - apple  
+aple sos - applesauce  
 aplika - apply (put to use for a purpose)  
-aplike - application  
-aplosaus - applesauce  
+aplika - application  
 Apsni - Abkhazia  
 arabi - Arabic  
-arabobabul - babul tree (thorny acacia)  
+arabi babul - babul tree (thorny acacia)  
 arane - spider  
-aranofobia - arachnophobia  
-aranonete - spiderweb (cobweb)  
-arbuze - watermelon  
-Archah - Artsakh  
+arane fobi - arachnophobia  
+arane nete - spiderweb (cobweb)  
+arbuza - watermelon  
+Arcah - Artsakh  
 area - area (extent of surface)  
+area - area (region)  
 argente - silver  
 Argentina - Argentina  
 argon - argon  
 argum - argument (rationale, grounds)  
-aria - area (region)  
 Ariel - Ariel  
 arka - bow (arch, arc)  
 arka chati - vault (arched ceiling or roof)  
@@ -185,58 +159,55 @@ aroma - scent (odor, fragrance, aroma)
 aroma - smell (reek)  
 aroma melon - Korean melon  
 arsene - arsenic  
-Artike - Arctic  
-Artiki Hai - Arctic Ocean  
-artiste - artist  
+arte ja - artist  
+Artika - Arctic  
+Artika Hai - Arctic Ocean  
 Aruba - Aruba  
+asal - origin (source)  
+asal Amerka jan - Amerindian (Native American)  
+asal Australia jan - Australian Aboriginal  
+asal di - original (authentic)  
 asan - posture (asana)  
 asar - effect (impact, impression, result, outcome)  
-asara - effect (bring about)  
 asha - hope (wish)  
 Ashur - Assur  
-Ashuria - Assyria  
-asi - Asian  
+Ashur desha - Assyria  
+asia - Asian  
 Asia - Asia  
 askete - ascetic  
-aslameriki - Amerindian (Native American)  
-aslaustrali - Australian Aboriginal  
-asle - origin (source)  
-asli - original (authentic)  
-asme - asthma  
+asma - asthma  
 aspirin - aspirin  
 astatium - astatine  
-astre - celestial body  
+astro - celestial body  
+astro nave - starship  
 astro nave ja - astronaut  
 astro nomi - astronomy  
 astro nomi ja - astronomer  
 ata - sugar-apple (sweetsop)  
-Atina - Athens  
-ativa - activate (enable, turn on, trigger)  
-ativi - active (on, enabled)  
+Athina - Athens  
 Atlanti Hai - Atlantic Ocean  
-atlantokade - Atlantic cod  
-atlantosalmon - Atlantic salmon  
+atlanti kade - Atlantic cod  
+atlanti salmon - Atlantic salmon  
 atom - atom  
-atro nave - starship  
 au - ouch (ow, alas)  
-auda - hear (listen)  
-aure - gold  
+audi - hear (listen)  
+auro - gold  
 Australia - Australia  
 Austronesia - Austronesia  
 auta - personalize (customize)  
-aute - self (identity)  
-auti - personal (intimate, private, custom)  
-autokratia - autocracy (monarchy)  
-autologe - monolog  
-automoti - self-moving (automotive, automobile)  
-autonomi - autonomous  
-autonomia - autonomy  
+auto - self (identity)  
+auto krati - autocracy (monarchy)  
+auto li - personal (intimate, private, custom)  
+auto loga - monolog  
+auto move - self-moving (automotive, automobile)  
+auto nomi - autonomy  
+auto nomi li - autonomous  
 avakate - avocado  
 avar - damage (injury, harm)  
-avara - harm (damage)  
-avarani - harmful (damaging)  
-avari - damaged (corrupt)  
-aven - oat  
+avar di - damaged (corrupt)  
+avar ja - harmful (damaging)  
+ave - oat  
+axe - axis (axle)  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babe - chapter (section)  
@@ -325,6 +296,8 @@ bazobol - baseball
 bazokanun - consitution  
 bazopetre - bedrock  
 bazoshulkan - primary school (elementary school, gradeschool)  
+be ais - freeze (get frozen)  
+be ajibu - wonder (be amazed)  
 be teza - intensify  
 be van - enjoy (play)  
 be vide - be seen  
@@ -895,7 +868,14 @@ evanjil - gospel (divine message)
 evi - beneficial (good)  
 ####F - F  
 fa - do  
+fa ajibu - amaze  
+fa an galta - debug  
+fa an karma - deactivate (disable, turn off)  
+fa asar - effect (bring about)  
+fa avar - harm (damage)  
 fa ja - doer (agent)  
+fa karma - activate (enable, turn on, trigger)  
+fa no zai - remove (delete, dispose, erase)  
 fa safa - clean (purify)  
 fa valu - value (evaluate)  
 fa van - amuse (entertain)  
@@ -1275,6 +1255,7 @@ haijel - jellyfish (seajelly)
 hainili - aqua (teal)  
 haiporte - harbor (seaport)  
 haitate - coast (beach)  
+Haiti - Haiti  
 haki - right (entitlement)  
 hal - state (condition, status, situation)  
 halala - allow (permit)  
@@ -1382,6 +1363,7 @@ historia - history (study of history)
 hiyar - cucumber  
 Ho chi Min site - Ho Chi Minh City (Saigon)  
 hobi - hobby  
+hobi ja - amateur  
 hobi ja - hobbyist  
 hoga - burn (cause to burn)  
 hoge - fire (burning)  
@@ -1519,9 +1501,9 @@ jamul - jamul (jambul, rose apple)
 jan - person (individual, -ist, -er)  
 janel - window  
 janelfrem - window frame  
+jangal - forest (woods, jungle)  
 janger - artisan (craftsman)  
 jangi - crafty (dexterous)  
-jangle - forest (woods, jungle)  
 jar - jug (jar, pitcher)  
 jar - jar (jug, pitcher, carafe, amphora, vase)  
 jau - barley  
@@ -1710,6 +1692,7 @@ karimia - charity
 karite - shea (vitellaria)  
 karma - action (act, deed)  
 karma e asar - cause and effect  
+karma ja - active (on, enabled)  
 karma ja - doer (agent, actor, activist)  
 karma loga - verb  
 karmeze - desk  
@@ -2570,6 +2553,7 @@ Nistria - Transnistria
 nitre - nitrogen  
 Niue - Niue  
 no - not (no)  
+no yau di - unnecessary (extraneous, unneeded)  
 nobelium - nobelium  
 noche - night  
 nochomode - night mode  
@@ -2583,6 +2567,15 @@ nol she - nothing
 nola - cancel (nullify)  
 noma - manage (organize)  
 nomia - management (arrangement, -nomy)  
+nong - cultivate (farm)  
+nong bio logi - agrobiology  
+nong chun - rural village  
+nong istan - countryside  
+nong istan li - rural (rustic)  
+nong ja - farmer  
+nong li - agricultural  
+nong nomi - agronomy  
+nong shutu - agriculture  
 norde - north  
 nordi - northern  
 Nordi Aire - Northern Ireland  
@@ -2667,9 +2660,14 @@ ostojamia - skeleton (frame)
 ostoshalke - scute  
 Ostria - Austria  
 ####P - P  
+pa - by (at, in, on)  
 pa - father (dad, papa)  
 pa de ma - paternal grandmother  
 pa de pa - paternal grandfather  
+pa ke - where  
+pa lin - online  
+pa no lin - offline  
+pa u loka - there  
 pache - peace  
 Pachi Hai - Pacific Ocean  
 pachiste - pacifist  

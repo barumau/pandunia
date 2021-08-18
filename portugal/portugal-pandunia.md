@@ -19,15 +19,15 @@ adjetivo - sifloge
 administrador - politer  
 adversário -   
 aeite (óleo) - nefte  
-aeroporto - airporte  
-aeróbico - airbivi  
+aeroporto - air porte  
+aeróbico - air bio li  
 Afeganistão - Afgan  
 agacharse - insida  
 agente - karma ja  
 agressor - agreser  
-agrobiologia - agrobiologi  
-agronomia - agronomia  
-agrícola - agri  
+agrobiologia - nong bio logi  
+agronomia - nong nomi  
+agrícola - nong li  
 ai! - au  
 ainda - zoku  
 alaranjado - oranji  
@@ -38,7 +38,7 @@ alcaravia (cariz) - karau
 aldeia (vila) - chun  
 alface - letis  
 alfinete - pin  
-alga - alge  
+alga - alga  
 algodão - goton  
 alho - lasun  
 alho-porro - porei  
@@ -47,13 +47,13 @@ almirante - hai amir ja
 altar - puja meza  
 alterar - ala  
 alô - halo  
-amador - amater  
+amador - hobi ja  
 amante - ai ja  
 amargo - kali guste  
 ameixa - plum  
 amor - ai  
 amêndoa - badam  
-anaeróbico - anairbivi  
+anaeróbico - an air bio li  
 analógico - zoku di  
 andesito - andesite  
 anel - ring  
@@ -84,25 +84,25 @@ arquitetura - binplania
 arrastar - trata  
 arroz - ris  
 arte - shutu  
-artista - artiste  
-asma - asme  
+artista - arte ja  
+asma - asma  
 aspirina - aspirin  
 assinar - namkitaba  
 assustador - fobani  
 assustar - foba  
-astro (corpo celeste) - astre  
+astro (corpo celeste) - astro  
 astrobiologia - kosmobiyolojia  
 astronauta - astro nave ja  
-astronave - atro nave  
+astronave - astro nave  
 astronomia - astro nomi  
 astrónomo - astro nomi ja  
 ataque - agres  
-Atenas - Atina  
-ativo - ativi  
+Atenas - Athina  
+ativo - karma ja  
 ato (ação) - karma  
 até - hata  
 Austronésia - Austronesia  
-aveia - aven  
+aveia - ave  
 aventura - ventur  
 aventureiro - ventur ja  
 avó - chin ma  
@@ -112,7 +112,7 @@ azur - blu
 açougueiro (talhante) - bucher  
 açúcar - sukar  
 ####B - B  
-bacalhau-do-atlântico - atlantokade  
+bacalhau-do-atlântico - atlanti kade  
 bacia - basen  
 baga - bere  
 bagagem - bagaje  
@@ -306,7 +306,7 @@ cruz - krus
 crème - krem  
 crónico - duri  
 cubo - kube  
-cultivar - agro  
+cultivar - nong  
 cume (pico, topo) - shanpike  
 cápsico - chili  
 cão (cachorro) - vaf  
@@ -344,7 +344,7 @@ direito - haki
 direitos humanos - insani hake  
 diretor - shula shefe  
 disco - diske  
-discordar - aloraya  
+discordar - alo rai  
 diário de bordo - loge buku  
 dióxido de carbono - karbodulokside  
 documento - dokum  
@@ -362,7 +362,7 @@ e - e
 economia - malnomia  
 educação - shulia  
 efeito - asar  
-efetuar - asara  
+efetuar - fa asar  
 Egipto (Egito) - Misria  
 elemento - em  
 elemento químico - kimem  
@@ -409,7 +409,7 @@ espodossolo - huidarte
 esponja - esponje  
 esporte - esporte  
 esposo ou esposa - gam  
-esquecer - anmema  
+esquecer - an memo  
 esqueleto - ostojamia  
 esquerdo - lefte  
 esquilo - ekore  
@@ -467,11 +467,11 @@ fiorde - fiorde
 fisiculturismo - muskulbin  
 flecha (seta) - fleche  
 flor - hua  
-floresta de algas - algojangle  
+floresta de algas - alga jangal  
 fogo - hoge  
 fogos de artifício - hogotehne  
 fome - yam yau  
-força aérea - airgun  
+força aérea - air gun  
 foto (fotografia) - foto grafe  
 fotografia - foto grafia  
 fraco (débil) - debili  
@@ -496,7 +496,7 @@ garrafa (botelha) - botel
 gato - mau  
 gato-do-mato (gato-maracajá-mirim) - bagroselote  
 gato-maracajá - margai  
-gelar - aisu  
+gelar - be ais  
 genealogia - jenolojia  
 generalíssimo - gunrajer  
 generosidade - karimia  
@@ -546,7 +546,7 @@ humor - emoshal
 hélicoptero - helisviman  
 héroi - hero  
 hóquei - hoke  
-hóquei no gelo - aishoke  
+hóquei no gelo - ais hoki  
 ####I - I  
 idade - sen  
 idoso (sene) - seni  
@@ -559,20 +559,20 @@ imitar (mimetizar) - mima
 implodir - inplozu  
 imploção - inploze  
 importante - hami  
-impressão digital - angulmarke  
+impressão digital - angul marke  
 incluindo - inkluso  
 incluir - inklusa  
 inclusivo - inklusivi  
 Indo - Hindu riu  
-indígena (índio) - aslameriki  
+indígena (índio) - asal Amerka jan  
 infectar (contagiar) - patomisa  
 infecção (contágio) - patomis  
-infiel - andiniste  
+infiel - an din ja  
 inflamaçao - flame  
 inimigo - dusjan  
 inquisitivo - savovolani  
 inseto - konchung  
-insônia - ansomia  
+insônia - an sona  
 internacional - nasmedi  
 invernal (hibernal) - lengomosimi  
 inverno - leng mosim  
@@ -669,7 +669,7 @@ manga - kamisa shake
 maniqueísmo - manihayistia  
 mantra - mantre  
 mar - hai  
-maravilha - ajabe  
+maravilha - ajibu  
 marcha - marche  
 margarida - margarite  
 margarida-comum - englomargarite  
@@ -691,7 +691,7 @@ medusa - haijel
 meia - maze  
 meio (metade) - medi  
 mel - medu  
-melancia - arbuze  
+melancia - arbuza  
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
 melão coreano - aroma melon  
@@ -730,7 +730,7 @@ momento (instante) - sate
 momentâneo - sati  
 monção - shava mosim  
 monóculo - unoki lense  
-monólogo - autologe  
+monólogo - auto loga  
 morder - danta  
 motor - moto  
 mover - kina  
@@ -798,8 +798,8 @@ oito (8) - bato
 oleiro - poter  
 olho - oke  
 onda - onde  
-onde - an ke  
-online - an lin  
+onde - pa ke  
+online - pa lin  
 ontem - chendeno  
 opinião - rai  
 opor - shata  
@@ -809,15 +809,15 @@ orelha - ore
 orfanato - yatim dom  
 organismo - bio vute  
 organizar - noma  
-origem - asle  
-original - asli  
+origem - asal  
+original - asal di  
 orquídea - orkide  
 ortogonal - ortogoni  
 otite - ore flame  
 ou - o  
-ouro - aure  
+ouro - auro  
 outono - padomosim  
-outro - ali  
+outro - alo  
 oásis - vase  
 ####P - P  
 paciente - patike  
@@ -896,7 +896,7 @@ Polinésia - Polnesia
 poluição - najis  
 polvo - ohtopus  
 ponta (pico, bico) - pike  
-ponta do dedo - angulpike  
+ponta do dedo - angul pike  
 ponte - pul  
 por exemplo - misalo  
 por muito tempo - longoduro  
@@ -929,7 +929,7 @@ prolongado - longoduri
 promessa (voto) - vode  
 prova - dalil  
 purpúreo (roxo) - viyolete blu  
-purê de maçã - aplosaus  
+purê de maçã - aple sos  
 pá - bel  
 página - varka late  
 pântano - fantopia  
@@ -1040,7 +1040,7 @@ segunda-feira - var un
 seguro - sekuri  
 seio (mama) - mam  
 seis (6) - luku  
-selva (floresta, jângal) - jangle  
+selva (floresta, jângal) - jangal  
 sem - na  
 semente - seme  
 seminal - semi  
@@ -1069,7 +1069,7 @@ som - son
 sombrinha - sol chati  
 sono - som  
 sonolento - somivi  
-sorvete (gelado) - aiskrem  
+sorvete (gelado) - ais krem  
 substância - kim  
 suco (sumo) - jus  
 suor - suede  

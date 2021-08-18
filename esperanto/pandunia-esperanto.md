@@ -14,109 +14,98 @@ Afrika - Afriko
 agile - lerta  
 agres - atako (agreso)  
 agresivi - agresema  
-agri - agrikultura  
-agro shutu - agrikulturo  
-agronomia - agronomio  
 aha - kompreni  
 ai - amo  
 ai ja - amanto  
 ai jen - karulo  
 ainstainium - ejnŝtejnio  
 air - aero  
-airgun - aerarmeo  
-airporte - flughaveno  
+air gun - aerarmeo  
+air porte - flughaveno  
 ais - glacio  
-aisi - glacia  
-aiskrem - glaciaĵo  
-aisu - glaciiĝi (frostiĝi)  
-Aiti - Haitio  
+ais krem - glaciaĵo  
+ais li - glacia  
 ajila - rapidigi  
-akse - akso  
 ala - ŝanĝi (aliigi)  
-alge - algo  
-ali - alia  
+alga - algo  
 alkol - alkoholo  
-alkoli - alkohola  
+alkol li - alkohola  
 almari - ŝranko  
 almas - diamanto  
+alo - alia  
 alo - alie  
-alofon - alofono  
-alonamo - tio estas (alivorte)  
-aloraya - malkonsenti  
-aloseksi - samseksema  
+alo fon - alofono  
+alo nam - tio estas (alivorte)  
+alo rai - malkonsenti  
+alo sexe li - samseksema  
 alumin - aluminio  
 ama - sed  
-Amerike - Ameriko  
-ameriki - amerika  
+Amerika - Ameriko  
+Amerika di - amerika  
 amerikium - americio  
 ami - kara  
 amir - ordono  
 amper - ampero  
-an - ĉe (en, sur)  
-an ke - kie  
-an u loka - tie  
-an:a - igi (farigi)  
-anama - malami  
-anamike - malamulo  
-ande - ovo  
+an - mala  
+an ai - malami  
+an deu jui ja - ateisto  
+an din ja - malkredulo  
+an doste - malamiko  
+an jami - disigi  
+an memo - forgesi  
+an pace - malpaco  
+an sabi li - fremda (nekonata)  
+an sona - sendormeco  
+anda - ovo  
 Andes - Andoj  
-andeviste - ateisto  
-andiniste - malkredulo  
-andoste - malamiko  
 angar - ankro  
 angul - fingro  
-angulring - ringo  
-ani - mala  
+angul ring - ringo  
 anime - kartuno  
-anjama - disigi  
 anjil - mesaĝo  
-anmema - forgesi  
-anpache - malpaco  
-ansavi - fremda (nekonata)  
-ansomia - sendormeco  
 anten - anteno  
 anus - anuso  
-anusi - anusa  
+anus di - anusa  
 aple - pomo  
 arabi - araba  
 arane - araneo  
-aranofobia - araneofobio  
-arbuze - akvomelono  
+arane fobi - araneofobio  
+arbuza - akvomelono  
 area - areo  
+area - ejo  
 argente - arĝento  
 Argentina - Argentino  
 argon - argono  
-aria - ejo  
 arka chati - volbo  
 arme - armilo  
 arsene - arseno  
-artiste - artisto  
+arte ja - artisto  
+asal - origino  
+asal Australia jan - aborigeno  
+asal di - origina  
 asan - posteno  
 asha - esperi  
-asi - azia  
+asia - azia  
 Asia - Azio  
 askete - ascetiko  
-aslaustrali - aborigeno  
-asle - origino  
-asli - origina  
-asme - astmo  
+asma - astmo  
 aspirin - aspirino  
-astre - astro  
+astro - astro  
 astro nave ja - astronaŭto  
 astro nomi ja - astronomo  
-Atina - Ateno  
-ativi - agema  
+Athina - Ateno  
 atom - atomo  
 au - aj (alas)  
-auda - aŭdi (aŭskulti)  
-aure - oro  
+audi - aŭdi (aŭskulti)  
+auro - oro  
 Australia - Aŭstralio  
 Austronesia - Aŭstronezio  
-automoti - memmova  
+auto move - memmova  
 avakate - avokado  
 avar - damaĝo  
-avarani - damaĝa  
-aven - aveno  
+avar ja - damaĝa  
+ave - aveno  
+axe - akso  
 ####B - B  
 babe - ĉapitro  
 babuche - pantoflo  
@@ -170,6 +159,7 @@ baze - bazo
 bazi - baza  
 bazobol - basbalo  
 bazoshulkan - bazlernejo  
+be ais - glaciiĝi (frostiĝi)  
 be’e - kapro  
 bebe - bebo  
 bede - lito  
@@ -683,6 +673,7 @@ hai amir ja - admiralo (ŝiparestro)
 haida - ni faru...  
 haigun - mararmeo  
 haiporte - haveno  
+Haiti - Haitio  
 haki - rajto  
 hal - stato  
 hali - malplena  
@@ -806,8 +797,8 @@ jampa - salti
 jan - persono  
 janel - fenestro  
 janelfrem - fenestrokadro  
+jangal - arbaro  
 janger - metiisto  
-jangle - arbaro  
 jar - kruĉo  
 jau - hordeo  
 javaba - respondi  
@@ -894,6 +885,7 @@ karde - karto
 karer - laboristo  
 karibi - proksima  
 karma - ago  
+karma ja - agema  
 karma loga - verbo  
 karote - karoto  
 karvan - karavano  
@@ -1271,6 +1263,9 @@ noche - nokto
 node - nodo  
 Noe - Noa  
 Noe di nave - Arkeo de Noa  
+nong li - agrikultura  
+nong nomi - agronomio  
+nong shutu - agrikulturo  
 norde - nordo  
 Norge - Norvegio  
 norgi - norvega  
@@ -1303,7 +1298,10 @@ osmium - osmio
 osmos - osmozo  
 oste - osto  
 ####P - P  
+pa - ĉe (en, sur)  
 pa - patro  
+pa ke - kie  
+pa u loka - tie  
 pache - paco  
 pachiste - pacifisto  
 pachistia - pacifismo  

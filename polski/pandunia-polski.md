@@ -5,7 +5,7 @@ acente - akcent, nacisk
 achi - kichać (apsik!)  
 acinium - aktyn  
 ada - nawyk (przyzwyczajenie)  
-adi - zwyczajny (rutynowy, normalny)  
+ada li - zwyczajny (rutynowy, normalny)  
 adil - sprawiedliwy  
 adilta - sprawiedliwość  
 adres - adres  
@@ -13,140 +13,122 @@ adres harfi - małpa (znak na
 Afgan - Afganistan  
 Afrika - Afryka  
 agile - zwinny, sprawny  
-agrer - rolnik, farmer  
 agres - atak (agresja, napaść)  
 agresivi - agresywny  
-agristan - wieś, tereny wiejskie  
-agristani - wiejski, rustykalny  
-agro - uprawić, uprawiać  
-agronomia - agronomia  
 aha - rozumieć, pojmować  
 ai - miłość (afekt)  
 ainstainium - einstein  
 air - powietrze  
-airbaria - ciśnienie atmosferyczne  
-airbarmetrer - barometr  
+air bari - ciśnienie atmosferyczne  
+air bari metre gi - barometr  
+air gun - siły powietrzne  
+air porte - lotnisko (port lotniczy)  
 Aire - Irlandia  
-airgun - siły powietrzne  
-airporte - lotnisko (port lotniczy)  
 ais - lód  
-aishoke - hokej na lodzie  
-aisi - lodowy  
-aiskrem - lody  
-aisu - marznąć (zamarznąć)  
-Aiti - Haiti  
-ajaba - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
-ajabe - dziw (cudo)  
-ajabi - zachwycający (zdumiewający, zadziwiający)  
-ajabia - zachwyt (zdumienie)  
-ajabu - zachwycić się (być zachwyconym)  
+ais hoki - hokej na lodzie  
+ais krem - lody  
+ais li - lodowy  
+ajibu - dziw (cudo)  
+ajibu - zachwyt (zdumienie)  
+ajibu li - zachwycający (zdumiewający, zadziwiający)  
 ajila - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
 akare - klescz (roztocze)  
-akse - oś  
 ala - zmienić (zmieniać)  
 Alaska - Alaska  
-alge - alga (wodorost)  
-algofung - porost  
-algojangle - las wodorostów  
-ali - inny  
+alga - alga (wodorost)  
+alga fungu - porost  
+alga jangal - las wodorostów  
 alkol - alkohol  
-alkoli - alkoholowy  
+alkol li - alkoholowy  
 almari - kredens (szafa, szafka)  
 almas - diament  
+alo - inny  
 alo - w innym wypadku (inaczej)  
-alofon - alofon  
-alonamo - innymi słowy  
-aloraya - nie zgadzać się  
-alorayia - niezgoda  
-aloromansi - heteroromantyczny  
-aloseksi - heteroseksualny  
-alosfia - różnica  
-alosifi - różny (inny)  
+alo fon - alofon  
+alo nam - innymi słowy  
+alo rai - nie zgadzać się  
+alo rai - niezgoda  
+alo romanse - heteroromantyczny  
+alo sexe li - heteroseksualny  
+alo sifa - różnica  
+alo sifa li - różny (inny)  
 alumin - glin (aluminium)  
 ama - ale, lecz  
 Amara - Amhara, amharski  
 amen bil - lojalny (wierny)  
 amen bilta - lojalność (wierność)  
 amen shin - ufać (wierzyć, liczyć, polegać)  
+Amerika - Ameryka (kontynent)  
+Amerika di - amerykański  
 Amerika Samoa - Amerykańska Samoa  
-Amerike - Ameryka (kontynent)  
-ameriki - amerykański  
 amerikium - ameryk  
 ami - kochany (drogi)  
 amir - rozkaz, komenda  
 amir ja - emir  
-amiria - emirat  
+amir ya - emirat  
 amper - amper  
 ampul - ampułka  
-an - przy, z, na, w, u  
-an ke - gdzie  
-an lin - online (na linii, w sieci)  
-an no lin - offline (nie na linii, poza siecią)  
-an u loka - tu (tutaj, tam)  
-anativa - deaktywować (wyłączyć, zatrzymać)  
-anativi - zdeaktywowany (wyłączony, zatrzymany)  
-anchenvidi - niespodziewany  
-andaka - odsłonić, odsłaniać  
-ande - jajko (jajo)  
+an - negatywny (przeciwny, nie)  
+an chen vide di - niespodziewany  
+an daka - odsłonić, odsłaniać  
+an deu jui ja - ateista  
+an din ja - niewierny  
+an doste - wróg (nieprzyjaciel)  
+an eskala - zejść (schodzić, zstąpić, zstępować)  
+an icha ja - niechętny  
+an jami - rozproszyć, rozpraszać  
+an jami li - rzadki (rozrzedzony, rozproszony)  
+an kai - zamknąć (zamykać)  
+an kai di - zamknięty  
+an karma ja - zdeaktywowany (wyłączony, zatrzymany)  
+an limite - nieskończoność  
+an memo - zapominać (zapomnieć)  
+an mesi - antychryst  
+an nam - antonim  
+an pace - niepokój  
+an romanse - aromantyczny  
+an sabi li - dziwny (nieznany)  
+an sexe li - aseksualny  
+an sora - otworzyć (otwierać, odkluczyć, odkluczać)  
+an sora li - zamknięty na klucz (zakluczony)  
+an tapa - odetkać, odtykać  
+anda - jajko (jajo)  
 Andes - Andy  
 andesite - andezyt  
-andeviste - ateista  
-andiniste - niewierny  
 Andora - Andora  
-andoste - wróg (nieprzyjaciel)  
-aneskala - zejść (schodzić, zstąpić, zstępować)  
 angar - kotwica  
 Angola - Angola  
 angul - palec  
-angulring - pierścień, pierścionek; obrączka  
-ani - negatywny (przeciwny, nie)  
-anichi - niechętny  
-anima - animować  
+angul ring - pierścień, pierścionek; obrączka  
+anime - animować  
 anime - animacja  
-anjama - rozproszyć, rozpraszać  
-anjami - rzadki (rozrzedzony, rozproszony)  
 anjil - wiadomość  
-anjiler - posłaniec (wysłannik)  
-ankaya - zamknąć (zamykać)  
-ankayi - zamknięty  
-ankriste - antychryst  
-anlimitia - nieskończoność  
-anmema - zapominać (zapomnieć)  
-annam - antonim  
-anpache - niepokój  
-anromansi - aromantyczny  
-ansavi - dziwny (nieznany)  
-anseksi - aseksualny  
-ansora - otworzyć (otwierać, odkluczyć, odkluczać)  
-ansori - zamknięty na klucz (zakluczony)  
-antapa - odetkać, odtykać  
-Antartike - Antarktyka  
-Antartiki Hai - Ocean Antarktyczny (Ocean Południowy)  
+anjil ja - posłaniec (wysłannik)  
+Antartika - Antarktyka  
+Antartika Hai - Ocean Antarktyczny (Ocean Południowy)  
 anten - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua i Barbuda  
 anus - odbyt  
-anusi - analny, odbytni  
-anyavi - niepotrzebny  
-anzaya - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
+anus di - analny, odbytni  
 aple - jabłko  
+aple sos - sos jabłkowy  
 aplika - zastosować, stosować  
-aplike - zastosowanie, aplikacja  
-aplosaus - sos jabłkowy  
+aplika - zastosowanie, aplikacja  
 Apsni - Abchazja  
 arabi - arabski  
-arabobabul - akacja arabska  
+arabi babul - akacja arabska  
 arane - pająk  
-aranofobia - arachnofobia  
-aranonete - pajęczyna  
-arbuze - arbuz  
-Archah - Abchazja  
+arane fobi - arachnofobia  
+arane nete - pajęczyna  
+arbuza - arbuz  
+Arcah - Abchazja  
 area - pole, powierzchnia  
+area - powierzchnia, region, teren  
 argente - srebro  
 Argentina - Argentyna  
 argon - argon  
 argum - argument  
-aria - powierzchnia, region, teren  
 arka - łuk  
 arka ja - łucznik  
 arka shutu - łucznictwo  
@@ -156,50 +138,48 @@ aroma - zapach (aromat, smród, odór)
 aroma - pachnieć  
 aroma melon - melon koreański  
 arsene - arsen  
-Artike - Arktyka  
-Artiki Hai - Ocean Arktyczny  
-artiste - artysta  
+arte ja - artysta  
+Artika - Arktyka  
+Artika Hai - Ocean Arktyczny  
 Aruba - Aruba  
+asal - źródło, początek, pochodzenie  
+asal Amerka jan - indiański  
+asal Australia jan - aborygeński  
+asal di - źródłowy, początkowy, oryginalny  
 asan - postawa ciała; asana  
 asar - rezult, wynik  
-asara - poprowadzić do (doprowadzić do, powodować)  
 asha - nadzieja, życzenie  
 Ashur - Aszur  
-Ashuria - Asyria  
-asi - azjatycki  
+Ashur desha - Asyria  
+asia - azjatycki  
 Asia - Azja  
 askete - asceta  
-aslameriki - indiański  
-aslaustrali - aborygeński  
-asle - źródło, początek, pochodzenie  
-asli - źródłowy, początkowy, oryginalny  
-asme - astma  
+asma - astma  
 aspirin - aspiryna  
 astatium - astat  
 astro nave ja - astronauta  
 astro nomi - astronomia  
 astro nomi ja - astronom  
 ata - jabłko cukrowe  
-ativa - aktywować (włączyć, uruchomić)  
-ativi - aktywny (włączony, uruchomiony)  
 Atlanti Hai - Ocean Atlantycki  
-atlantokade - dorsz atlantycki  
-atlantosalmon - łosoś atlantycki  
+atlanti kade - dorsz atlantycki  
+atlanti salmon - łosoś atlantycki  
 atom - atom  
 au - aj!, ał!  
-auda - usłyszeć, słyszeć; słuchać  
-aure - złoto  
+audi - usłyszeć, słyszeć; słuchać  
+auro - złoto  
 Australia - Australia  
-aute - jaźń (tożsamość)  
-auti - osobisty, intymny, prywatny  
-autokratia - monarchia  
-autologe - monolog  
-automoti - samobieżny  
-autonomi - autonomiczny  
-autonomia - autonomia  
+auto - jaźń (tożsamość)  
+auto krati - monarchia  
+auto li - osobisty, intymny, prywatny  
+auto loga - monolog  
+auto move - samobieżny  
+auto nomi - autonomia  
+auto nomi li - autonomiczny  
 avakate - awokado  
 avar - obrażenia (rana, krzywda)  
-avarani - krzywdzący (szkodliwy)  
+avar ja - krzywdzący (szkodliwy)  
+axe - oś  
 Azerbaijan - Azerbejdżan  
 ####B - B  
 babe - rozdział, sekcja  
@@ -287,6 +267,8 @@ bazobol - bejsbol (baseball)
 bazokanun - konstytucja  
 bazopetre - skała macierzysta  
 bazoshulkan - szkoła podstawowa  
+be ais - marznąć (zamarznąć)  
+be ajibu - zachwycić się (być zachwyconym)  
 be teza - wzmacniać się (wzmagać, pogłębiać się)  
 be van - cieszyć się (zażywać, bawić się)  
 be vide - być widzianym  
@@ -790,6 +772,11 @@ evanjil - ewangelia
 evi - korzystny (dobry)  
 ####F - F  
 fa - zrobić (stworzyć, wykreować)  
+fa ajibu - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
+fa an karma - deaktywować (wyłączyć, zatrzymać)  
+fa asar - poprowadzić do (doprowadzić do, powodować)  
+fa karma - aktywować (włączyć, uruchomić)  
+fa no zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa safa - wyczyścić, czyścić  
 fa van - bawić, zabawiać  
 fa vice - zastąpić (podstawić, zamienić)  
@@ -1127,6 +1114,7 @@ haijel - meduza
 hainili - morskoniebieski  
 haiporte - port morski (przystań)  
 haitate - wybrzeże (plaża)  
+Haiti - Haiti  
 haki - prawo, przywilej  
 hal - stan  
 halala - pozwolić, pozwalać, zezwolić, zezwalać  
@@ -1327,9 +1315,9 @@ jampa - skoczyć, skakać
 jamul - czapetka kuminowa  
 jan - osoba  
 janel - okno  
+jangal - las, dżungla, zagajnik  
 janger - rzemieślnik  
 jangi - umiejętny (sprawny, zręczny)  
-jangle - las, dżungla, zagajnik  
 jar - dzban, dzbanek; słój, słoik  
 jar - wazon  
 jau - jęczmień  
@@ -1499,6 +1487,7 @@ karibu - zbliżać się (zbliżyć się)
 karimi - hojny (szczodry)  
 karimia - hojność (szczodrość)  
 karite - masłosz Parka  
+karma ja - aktywny (włączony, uruchomiony)  
 karma ja - przyrostek dla wykonawcy  
 karma loga - czasownik  
 karmeze - biurko  
@@ -2288,6 +2277,7 @@ Nistria - Naddniestrze
 nitre - azot  
 Niue - Niue  
 no - nie  
+no yau di - niepotrzebny  
 nobelium - nobel  
 noche - noc  
 nochomode - tryb nocny  
@@ -2299,6 +2289,11 @@ nol sate - nigdy
 nol she - nic, żadna rzecz  
 noma - zarządzać (organizować, kierować)  
 nomia - zarządzanie (-nomia)  
+nong - uprawić, uprawiać  
+nong istan - wieś, tereny wiejskie  
+nong istan li - wiejski, rustykalny  
+nong ja - rolnik, farmer  
+nong nomi - agronomia  
 norde - północ  
 nordi - północny  
 Nordi Aire - Irlandia Północna  
@@ -2377,7 +2372,12 @@ ostojamia - szkielet
 ostoshalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
 ####P - P  
+pa - przy, z, na, w, u  
 pa - ojciec  
+pa ke - gdzie  
+pa lin - online (na linii, w sieci)  
+pa no lin - offline (nie na linii, poza siecią)  
+pa u loka - tu (tutaj, tam)  
 pache - pokój  
 Pachi Hai - Ocean Spokojny (Pacyfik)  
 pachiste - pacyfista  

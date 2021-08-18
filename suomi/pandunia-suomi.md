@@ -4,10 +4,11 @@ a - se
 abies - pihta (jalokuusi)  
 acente - painotus (aksentti)  
 acesa - pääsy  
+acesa bil - ulottuvilla  
 achi - aivastaa (atsii!)  
 acinium - aktinium  
 ada - tapa  
-adi - tavallinen  
+ada li - tavallinen  
 adil - oikeudenmukainen  
 adilta - oikeus  
 adres - osoite  
@@ -15,150 +16,126 @@ adres harfi - @-merkki
 Afgan - Afganistan  
 Afrika - Afrikka  
 agile - ketterä  
-agrer - maanviljelijä  
 agres - hyökkäys (päällekarkaus, aggressio)  
 agresa - hyökätä (käydä päälle)  
 agreser - hyökkääjä  
 agresivi - hyökkäävä (aggressiivinen)  
-agristan - maaseutu  
-agristani - maalais-  
-agro - viljellä  
-agro shutu - viljely  
-agrobiologi - maatalousbiologia  
-agrochun - maalaiskylä  
-agronomia - agronomia (maatalous)  
 aha - oivaltaa (tajuta)  
 ai - rakkaus (tykkääminen)  
 ai ja - rakastaja  
 ai jen - kulta (rakas)  
 ainstainium - einsteinium  
 air - ilma  
-airbaria - ilmanpaine  
-airbarmetrer - ilmapuntari (ilmanpainemittari, barometri)  
-airbivi - aerobinen  
+air bari - ilmanpaine  
+air bari metre gi - ilmapuntari (ilmanpainemittari, barometri)  
+air bio li - aerobinen  
+air gun - ilmavoimat  
+air porte - lentoasema (lentokenttä)  
 Aire - Irlanti  
-airgun - ilmavoimat  
-airporte - lentoasema (lentokenttä)  
 ais - jää  
-aishoke - jääkiekko  
-aisi - jäinen  
-aiskrem - jäätelö  
-aisu - jäätyä  
-Aiti - Haiti  
-ajaba - ällistyttää  
-ajabe - ihme  
-ajabi - ihmeellinen (ällistyttävä, merkillinen)  
-ajabia - hämmästys (ihmetys)  
-ajabu - ihmetellä (olla ihmeissään)  
+ais hoki - jääkiekko  
+ais krem - jäätelö  
+ais li - jäinen  
+ajibu - ihme  
+ajibu - hämmästys (ihmetys)  
+ajibu li - ihmeellinen (ällistyttävä, merkillinen)  
 ajila - kiirehtiä  
 akare - punkki  
-akse - akseli  
-aksesabli - ulottuvilla  
 ala - muuttaa (tehdä eriksi)  
 Alaska - Alaska  
-alge - levä  
-algofung - jäkälä  
-ali - muu (toinen)  
+alga - levä  
+alga fungu - jäkälä  
 alkol - alkoholi  
-alkoli - alkoholinen  
+alkol li - alkoholinen  
 almari - kaappi  
 almas - timantti  
+alo - muu (toinen)  
 alo - muuten (toisin)  
-alofon - allofoni (vaihtoehtoinen ääntämys)  
-alonamo - eli (toisin sanoen)  
-aloraya - olla eri mieltä  
-alorayia - erimielisyys  
-aloromansi - heteroromanttinen  
-aloseksi - heteroseksuaali  
-alosfia - erilaisuus (ero)  
-alosifi - erilainen  
+alo fon - allofoni (vaihtoehtoinen ääntämys)  
+alo nam - eli (toisin sanoen)  
+alo rai - olla eri mieltä  
+alo rai - erimielisyys  
+alo romanse - heteroromanttinen  
+alo sexe li - heteroseksuaali  
+alo sifa - erilaisuus (ero)  
+alo sifa li - erilainen  
 alumin - alumiini  
 ama - mutta  
 Amara - amhara (etiopialainen kansa ja kieli)  
-amater - amatööri  
 amen - rehellinen (totisesti, uskottavasti, aamen)  
 amen shin - luottaa (uskoa)  
 amen shin di - varma  
-Amerike - Amerikka  
-ameriki - amerikkalainen  
+Amerika - Amerikka  
+Amerika di - amerikkalainen  
 amerikium - amerikium  
 ami - rakas (armas)  
 amir - käsky (komento)  
 amir haki - käskyvalta  
 amir ja - emiiri  
-amiria - emiirikunta  
+amir ya - emiirikunta  
 amper - ampeeri  
 ampul - ampulli  
-an - luona (-lla, -ssa)  
-an ke - missä?  
-an u loka - siellä (tuolla)  
-an:a - teettää  
-anairbivi - anaerobinen  
-anama - inhota  
-anamike - inhokki (inhotus)  
-anativa - poistaa toiminnasta  
-anativi - epäaktiivinen (pois toiminnasta)  
-anchenvidi - ennennäkemätön  
-andaka - paljastaa  
-ande - muna  
+an ai - inhota  
+an air bio li - anaerobinen  
+an chen vide di - ennennäkemätön  
+an daka - paljastaa  
+an deu jui ja - ateisti (jumalankieltäjä)  
+an din ja - uskonnoton  
+an doste - vihollinen  
+an eskala - laskeutua  
+an icha ja - vastahakoinen (haluton)  
+an jami - hajauttaa  
+an jami li - hajanainen  
+an kai - sulkea (panna kiinni)  
+an kai di - suljettu  
+an karma ja - epäaktiivinen (pois toiminnasta)  
+an kode - purkaa koodi (dekoodata)  
+an limite - äärettömyys (rajattomuus)  
+an memo - unohtaa  
+an mesi - antikristus  
+an nam - vastakohta (antonyymi)  
+an pace - levottomuus (konflikti)  
+an sabi li - vieras (tuntematon)  
+an sona - unettomuus  
+an sora - avata lukko  
+an sora li - lukitsematon  
+an tapa - korkata  
+anda - muna  
 Andes - Andit  
-andeviste - ateisti (jumalankieltäjä)  
-andiniste - uskonnoton  
 Andora - Andorra  
-andoste - vihollinen  
-aneskala - laskeutua  
-angalta - poistaa virheitä (debugata)  
 angar - ankkuri  
 Angola - Angola  
 angul - sormi tai varvas  
-angulmarke - sormenjälki  
-angulpike - sormenpää  
-angulring - sormus  
-anichi - vastahakoinen (haluton)  
-anima - animoida  
+angul marke - sormenjälki  
+angul pike - sormenpää  
+angul ring - sormus  
+anime - animoida  
 anime - animaatio (piirretty)  
-anjama - hajauttaa  
-anjami - hajanainen  
 anjil - viesti  
-anjiler - viestintuoja (airut)  
-ankaya - sulkea (panna kiinni)  
-ankayi - suljettu  
-ankoda - purkaa koodi (dekoodata)  
-ankriste - antikristus  
-anlimitia - äärettömyys (rajattomuus)  
-anmema - unohtaa  
-annam - vastakohta (antonyymi)  
-anpache - levottomuus (konflikti)  
-ansavi - vieras (tuntematon)  
-ansomia - unettomuus  
-ansora - avata lukko  
-ansori - lukitsematon  
-antapa - korkata  
-Antartike - Antarktis  
-Antartiki Hai - Eteläinen Jäämeri  
+anjil ja - viestintuoja (airut)  
+Antartika - Antarktis  
+Antartika Hai - Eteläinen Jäämeri  
 anten - antenni  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua ja Barbuda  
 anus - peräaukko (anus)  
-anusi - anaalinen  
-anyavi - tarpeeton  
-anzaya - poistaa (hävittää)  
+anus di - anaalinen  
 aple - omena  
+aple sos - omenasose  
 aplika - soveltaa  
-aplike - sovellus  
-aplosaus - omenasose  
+aplika - sovellus  
 Apsni - Abhaasia  
 arabi - arabialainen  
 arane - hämähäkki  
-aranofobia - araknofobia (hämähäkkikammo)  
-aranonete - hämähäkinverkko  
-arbuze - vesimeloni  
+arane fobi - araknofobia (hämähäkkikammo)  
+arane nete - hämähäkinverkko  
+arbuza - vesimeloni  
 area - ala (pinta-ala)  
+area - alue (seutu)  
 argente - hopea  
 Argentina - Argentiina  
 argon - argon  
 argum - perustelu (argumentti)  
-aria - alue (seutu)  
 Ariel - Ariel  
 arka - kaari  
 arka chati - holvikatto  
@@ -169,54 +146,51 @@ aroma - haistaa
 aroma - haju  
 aroma - haista  
 arsene - arseeni  
-Artike - Arktis  
-Artiki Hai - Jäämeri  
-artiste - taiteilija  
+arte ja - taiteilija  
+Artika - Arktis  
+Artika Hai - Jäämeri  
 Aruba - Aruba  
+asal - alkuperä  
+asal Amerka jan - intiaani (Amerikan alkuperäisasukas)  
+asal Australia jan - aboriginaali (Australian alkuperäisasukas)  
+asal di - alkuperäinen  
 asan - asento  
 asar - vaikutus (tulos)  
-asara - vaikuttaa  
 asha - toivoa  
 Ashur - Assur  
-Ashuria - Assyria  
-asi - aasialainen  
+Ashur desha - Assyria  
+asia - aasialainen  
 Asia - Aasia  
 askete - askeett  
-aslameriki - intiaani (Amerikan alkuperäisasukas)  
-aslaustrali - aboriginaali (Australian alkuperäisasukas)  
-asle - alkuperä  
-asli - alkuperäinen  
-asme - astma  
+asma - astma  
 aspirin - aspiriini  
 astatium - astatiini  
-astre - taivaankappale  
+astro - taivaankappale  
+astro nave - tähtialus  
 astro nave ja - astronautti (tähtimatkaaja)  
 astro nomi - tähtitiede (astronomia)  
 astro nomi ja - tähtitieteilijä  
-Atina - Ateena  
-ativa - panna toimintaan  
-ativi - toimelias (aktiivinen)  
+Athina - Ateena  
 Atlanti Hai - Atlantin valtameri  
 atom - atomi  
-atro nave - tähtialus  
 au - ai! (au!)  
-auda - kuulla (kuunnella)  
-aure - kulta  
+audi - kuulla (kuunnella)  
+auro - kulta  
 Australia - Australia  
 Austronesia - Austronesia  
-aute - itseys  
-auti - henkilökohtainen (privaatti)  
-autokratia - yksinvaltius (autokratia, monarkia)  
-autologe - yksinpuhelu (monologi)  
-automoti - itseliikkuva  
-autonomi - autonominen  
-autonomia - itsehallinto (autonomia)  
+auto - itseys  
+auto krati - yksinvaltius (autokratia, monarkia)  
+auto li - henkilökohtainen (privaatti)  
+auto loga - yksinpuhelu (monologi)  
+auto move - itseliikkuva  
+auto nomi - itsehallinto (autonomia)  
+auto nomi li - autonominen  
 avakate - avokado  
 avar - vaurio (vahinko, haveri)  
-avara - vahingoittaa (vaurioittaa)  
-avarani - vahingollinen (vaurioittava)  
-avari - vaurioitunut  
-aven - kaura  
+avar di - vaurioitunut  
+avar ja - vahingollinen (vaurioittava)  
+ave - kaura  
+axe - akseli  
 Azerbaijan - Azerbaidžan  
 ####B - B  
 babe - luku (kirjan osa)  
@@ -300,6 +274,8 @@ bazobol - baseball (amerikkalainen pesäpallo)
 bazokanun - perustuslaki  
 bazopetre - peruskallio  
 bazoshulkan - ala-aste  
+be ais - jäätyä  
+be ajibu - ihmetellä (olla ihmeissään)  
 be vide - näkyä  
 be’e - vuohi  
 bebe - vauva  
@@ -836,7 +812,14 @@ evanjil - evankeliumi(hyvä sana)
 evi - hyvä (eettisesti hyvä)  
 ####F - F  
 fa - tehdä (toimia)  
+fa ajibu - ällistyttää  
+fa an galta - poistaa virheitä (debugata)  
+fa an karma - poistaa toiminnasta  
+fa asar - vaikuttaa  
+fa avar - vahingoittaa (vaurioittaa)  
 fa ja - tekijä (toimija)  
+fa karma - panna toimintaan  
+fa no zai - poistaa (hävittää)  
 fa safa - puhdistaa (siivota)  
 fa valu - arvottaa  
 fa van - viihdyttää (huvittaa)  
@@ -1178,6 +1161,7 @@ hai amir ja - amiraali
 haida - tehkäämme  
 haigun - merivoimat (sotalaivasto)  
 haiporte - satama  
+Haiti - Haiti  
 haki - oikeus (oikeutus)  
 hal - tila (tilanne, seikka)  
 halala - sallia (antaa lupa)  
@@ -1279,6 +1263,7 @@ histori ja - historioitsija
 historia - historia (oppiaine)  
 hiyar - kurkku  
 hobi - harrastus  
+hobi ja - amatööri  
 hobi ja - harrastaja  
 hoga - polttaa  
 hoge - tuli  
@@ -1400,9 +1385,9 @@ jamul - jambolaani
 jan - henkilö  
 janel - ikkuna  
 janelfrem - ikkunankehys (ikkunanpuite)  
+jangal - metsä (viidakko)  
 janger - artesaani (käsityöläinen)  
 jangi - kätevä  
-jangle - metsä (viidakko)  
 jar - kannu (karahvi)  
 jar - ruukku (kannu, maljakko, karahvi)  
 jau - ohra  
@@ -1555,6 +1540,7 @@ karimia - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)
 karite - voipuu  
 karma - teko (toiminta, akti)  
 karma e asar - syy ja seuraus  
+karma ja - toimelias (aktiivinen)  
 karma ja - tekijä (aikaansaaja)  
 karma loga - verbi (teonsana)  
 karmeze - työpöytä (kirjoituspöytä)  
@@ -2288,6 +2274,7 @@ Nistria - Transdnistria
 nitre - typpi  
 Niue - Niue  
 no - ei  
+no yau di - tarpeeton  
 nobelium - nobelium  
 noche - yö  
 nochomode - yömoodi  
@@ -2300,6 +2287,14 @@ nol sate - ei koskaan (ei kertaakaan)
 nol she - ei mitään  
 noma - järjestellä (hallinnoida, organisoida, manageroida)  
 nomia - hallinto (hallinnointi)  
+nong - viljellä  
+nong bio logi - maatalousbiologia  
+nong chun - maalaiskylä  
+nong istan - maaseutu  
+nong istan li - maalais-  
+nong ja - maanviljelijä  
+nong nomi - agronomia (maatalous)  
+nong shutu - viljely  
 norde - pohjoinen  
 nordi - pohjoinen  
 Nordi Aire - Pohjois-Irlanti  
@@ -2374,9 +2369,12 @@ osmos - osmoosi
 oste - luu  
 Ostria - Itävalta  
 ####P - P  
+pa - luona (-lla, -ssa)  
 pa - isä  
 pa de ma - isänäiti  
 pa de pa - isänisä  
+pa ke - missä?  
+pa u loka - siellä (tuolla)  
 pache - rauha  
 Pachi Hai - Tyyni valtameri  
 pachiste - pasifisti  
