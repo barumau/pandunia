@@ -1,7 +1,7 @@
 # espanya-pandunia
 a (hacia) - do  
 ####A - A  
-abedul - berje  
+abedul - betula  
 abeja - medu fong  
 abeja o avispa - fong  
 abeto - abies  
@@ -237,11 +237,11 @@ armonioso - harmoni
 armonía - harmonia  
 arnés (arreos, jaeces) - harnes  
 arquero - arka ja  
-arquitecto - binplaner  
-arquitectura - binplania  
+arquitecto - bina plan ja  
+arquitectura - bina plan  
 arrastrar - trata  
 arreglo - shuli  
-arriesgado - riski  
+arriesgado - risko di  
 arroba (@) - adres harfi  
 arromántico - an romanse  
 arroz - ris  
@@ -327,28 +327,28 @@ backgammon - narde
 baguette - baton pan  
 bah - bah  
 Bahamas - Bahama  
-bahaísmo (fe bahá'i) - bahayistia  
-bahá'í - bahayiste  
+bahaísmo (fe bahá'i) - baha din  
+bahá'í - baha din ja  
 bahía - bai  
 baile (danza) - danse  
 bajar - tala  
 bajo - tali  
 balcón (terraza, veranda) - veranda  
-balde (cubo) - balde  
+balde (cubo) - baldi  
 baldosa (teja, azulejo) - tail  
 ballesta - krusarke  
 baloncesto (básquetbol) - baske bol  
 bambú - bambu  
 banco (silla) - benchi  
-banco - banke  
+banco - banka kan  
 banco de datos (base de datos) - datobanke  
 banda (cinta) - bande  
 banda - banda  
 bandera - bandera  
-Bangladés - Bangladesha  
-banquero - banker  
+Bangladés - Bangla desha  
+banquero - banka shefe  
 baobab - bui  
-bar (pub) - birkan  
+bar (pub) - bir kan  
 bar - bar  
 barandilla (pasamanos) - langan  
 barba - barde  
@@ -368,8 +368,10 @@ baréin - Bahrain
 barómetro - air bari metre gi  
 base (álcali) - kali  
 base - baze  
-bastante - basi  
+bastante - basa  
 basura (desechos) - laji  
+basural - laji bagi  
+basurero - laji tong  
 batidora (licuadora, mezcladora) - misher  
 baya - beri  
 bañarse - banya  
@@ -381,15 +383,15 @@ Belice - Belize
 belio - bel  
 bellas artes - sundar shutu  
 belleza (hermosura) - sundaria  
-bellota - balutopal  
+bellota - baluta frute  
 beneficioso (bueno) - evi  
 Benín - Benin  
-berenjena - bedinje  
+berenjena - bedinjan  
 berilio - berilium  
 berkelio - berkelium  
 Bermuda - Bermuda  
 beso - chum  
-Biblia - biblia  
+Biblia - Biblia  
 biblioteca - kitabu kan  
 bibliotecario - kitabu minister  
 bicicleta - pedalsikle  
@@ -399,7 +401,7 @@ bienestar - salamia
 bienvenido - salam lai  
 bilingüe - dulbashi  
 billete de ida y vuelta - retrotikete  
-biología - biologi  
+biología - bio logi  
 bioma - biyosistem  
 birromántico - dulromansi  
 bisagra (gozne) - sharnir  
@@ -442,6 +444,7 @@ bromista (chistoso) - joker
 bromo - bromium  
 Brunei - Brunei  
 brújula - pontopin  
+bu! - bu!  
 Buda - Buda  
 budismo - Buda din  
 budista - Buda din ja  
@@ -464,9 +467,9 @@ bus (autobús) - bus
 buscar - soka  
 Bután - Butan  
 bárbaro - barbar  
-básico - bazi  
-béisbol - bazobol  
-Bélgica - Belgia  
+básico - baze di  
+béisbol - baze bol  
+Bélgica - Belgi  
 bóveda - arka chati  
 bóxer - bokserpante  
 búbalo (arni) - karbau  
@@ -549,10 +552,10 @@ cantidad - polia
 caos (desorden) - haos  
 capa (manto) - mantol  
 capa (piso, planta, estrato) - cheng  
-capaz - bilja  
+capaz - bil ja  
 capitán - naushef  
 capturar (apresar) - kape  
-capítulo (sección) - babe  
+capítulo (sección) - babu  
 cara (rosto) - muka  
 caramelo - kandi  
 carapacho (cáscara, concha, corteza, capa) - kaske  
@@ -611,7 +614,7 @@ celebrar (festejar) - festa
 celeste (azul celeste) - tennili  
 celeste (celestial) - teni  
 celoso (envidioso) - jelosi  
-cementerio - gabur istan  
+cementerio - gabur bagi  
 cemento - semente  
 cena - sham yam  
 ceniza - hui  
@@ -712,12 +715,13 @@ coche (carruaje, auto, vagón) - kar
 cocina - kukokamar  
 cocinar (preparar) - kuka  
 cocinero - kuker  
+coco - bubu  
 coco - yezi  
 cocodrilo - longokrokodil  
 codicioso (avaro) - tami  
 codificar (cifrar) - kode  
 cohete (misil) - rokete  
-col china - bakochoi  
+col china - baki choi  
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola  
 colaborar - konkara  
@@ -797,8 +801,8 @@ consejo - sel
 conservar (preservar, mantener) - hafiza  
 considerar (reflexionar, pensar en) - hema  
 consonante - kinar fon  
-constitución - bazokanun  
-construir (edificar) - bina  
+constitución - baze kanun  
+construir (edificar) - fa bina  
 consultor - konseler  
 contaminación (corrupción, porquería, suciedad) - najis  
 contar - numba  
@@ -826,7 +830,7 @@ Corea del Sur - Sudi chosen
 coreano - choseni  
 coro - chante grupe  
 corona - koron  
-corporal (corpóreo) - bodi  
+corporal (corpóreo) - badan di  
 correa (rein) - lidolin  
 correcto (justo) - sahi  
 corredor - korer  
@@ -900,12 +904,12 @@ cubo - kube
 cubrir (tapar) - daka  
 cuchara - chamache  
 cuchillo - chaku  
-cuenta (factura) - bil  
+cuenta (factura) - fatura  
 cuenta - hisabu loge  
 cuento (relato corto) - korte kata  
 cuento de hadas - peri kata  
 cuerno - korne  
-cuerpo - bode  
+cuerpo - badan  
 cuerpo celeste - astro  
 cuesta (inclinación, pendiente, predisposición, tender) - klin  
 cueva (caverna) - gua  
@@ -1060,7 +1064,7 @@ dispersar (esparcir, desmontar) - an jami
 disposición (naturaleza, carácter, -ivo, -idad) - tabi  
 dispositivo pirotécnico - hogotehne  
 disprosio - disprosium  
-distintos (diversos) - balibali  
+distintos (diversos) - vari  
 diversión - van  
 divertido - van di  
 divertir (entretener) - fa van  
@@ -1238,7 +1242,7 @@ escritorio (mesa de trabajo) - karmeze
 escuchar (oír) - ora  
 escudo - defban  
 escuela (colegio, institución) - shula kan  
-escuela primaria - bazoshulkan  
+escuela primaria - baze shula kan  
 escuela secundaria - jungoshulkan  
 esculpir - eskulta  
 escultor - eskulter  
@@ -1422,8 +1426,8 @@ fuerza - fortia
 fuerza aérea - air gun  
 funcionar - funci  
 funcionario - ofiser  
-fundador - bazer  
-fundar (basar) - baza  
+fundador - baze ja  
+fundar (basar) - fa baze  
 fusionar (fundir) - rivunu  
 fusión - rivunia  
 fusión nuclear - kerni darunia  
@@ -1468,7 +1472,7 @@ gasificar - gasa
 gasificarse - gasu  
 gasolina (bencina) - benzin  
 gato - mau  
-gato manchado (tigrillo) - bagroselote  
+gato manchado (tigrillo) - bagre oselote  
 gato tigre (maracayá) - margai  
 gay (homosexual) - gei  
 gel (jalea, gelatina) - jel  
@@ -1569,7 +1573,7 @@ guía de viaje - gida buku
 género gramatical - bashi jinse  
 género social - sosi jinse  
 ####H - H  
-habilidad (capacidad) - bilta  
+habilidad (capacidad) - bil ta  
 habitación (cuarto, sala, pieza) - kamar  
 habla (palabras) - loge  
 hablador (locuaz) - logivi  
@@ -1653,11 +1657,12 @@ horizonte - tenkenar
 hormigo - murche  
 hormona - hormon  
 hornacina - nish  
-hornear (cocer) - beka  
+hornear (cocer) - baka  
 horno - tanur  
 hotel (albergue) - hotel  
 hoy - zai den  
 huella digital - angul marke  
+huerta - frute bagi  
 hueso - oste  
 huevo - anda  
 humanidad (género humano) - insania  
@@ -1718,9 +1723,9 @@ inclinar - tercha
 incluido - inkluso  
 incluir - inklusa  
 inclusivo - inklusivi  
-India - Bartia  
+India - Barti  
 indicador (cursor) - ponter  
-indio (hindú) - barte  
+indio (hindú) - barti  
 indium - hindium  
 Indo - Hindu riu  
 Indonesia - Indonesia  
@@ -1745,7 +1750,7 @@ innato (endógeno) - injeni
 innecesario - no yau di  
 inodoro (wáter, retrete) - tualete  
 inquisitivo (curioso) - savovolani  
-insecto - konchung  
+insecto - dudu  
 insomnio - an sona  
 instrucciones (receta) - resete  
 instrumento de arco - tichin  
@@ -1754,7 +1759,7 @@ insulto (ofensa) - dusnam
 insulto (ofensa, afrenta) - ninde  
 intenso (brusco, ácido, fuerte, afilado, rápido) - teza  
 intentar (probar) - teste  
-intercambiar (canjear) - badla  
+intercambiar (canjear) - badal  
 interesante (curioso) - savovoliti  
 interfaz de línea de comandos - amir lin  
 interior (interno) - indi  
@@ -1817,7 +1822,7 @@ jarabe (sirope) - shirope
 jarra - jar  
 jarra - jar  
 Jartum - Hartum  
-jaula (caja) - baton kapse  
+jaula (caja) - baton kasa  
 jazmín - malike  
 jazz - jaze  
 jefe - shefe  
@@ -1871,7 +1876,7 @@ kumquat (quinoto) - kankuate
 Kuwait - Kuvaitia  
 kétchup - kechape  
 ####L - L  
-labio - labe  
+labio - labi  
 laca - laka  
 lado (flanco) - late  
 lado derecho - raite  
@@ -1901,7 +1906,7 @@ lealtad (fidelidad) - amen bilta
 lección - shula  
 leche - milke  
 leche de soja - soi milke  
-lecho de roca - bazopetre  
+lecho de roca - baze petra  
 lechuga - letis  
 leer - duga  
 legumbre (frijol o arveja) - dou  
@@ -1952,7 +1957,7 @@ lince rojo (gato montés) - lal linche
 lindo (precioso) - kavayi  
 linea (hilo, cordel, raya) - lin  
 linfa - linfe  
-lingüística - bashalogi  
+lingüística - basha logi  
 liquen - alga fungu  
 lirio - susan  
 lista - liste  
@@ -1991,7 +1996,7 @@ lote (grupo) - lote
 lucha - jihade  
 luchador (guerrero) - jenger  
 lugar - loke  
-lugar de nacimiento - jenistan  
+lugar de nacimiento - jen loka  
 lujuria (deseo) - kama  
 luna - lune  
 lunes - var un  
@@ -2056,7 +2061,7 @@ mangostán (jobo de la India) - mangus
 maniqueísmo - manihayistia  
 mano - hande  
 manso (dócil, obediente) - dosili  
-mantel - mezotesh  
+mantel - meza texe  
 mantener (detener) - estasa  
 mantequilla - makan  
 mantra - mantre  
@@ -2079,7 +2084,7 @@ marcar - marka
 marcha - marche  
 marco - frem  
 margarina - margarin  
-margarita - bakomargarite  
+margarita - baki margarite  
 margarita - margarite  
 margarita común (pascueta) - englomargarite  
 marina (armada) - haigun  
@@ -2346,9 +2351,9 @@ Niue - Niue
 nivel - par  
 niña - joveni fem  
 niño - joveni man  
-niño o niña - bache  
+niño o niña - bacha  
 no - no  
-no binario (género) - bis  
+no binario (género) - nobi  
 nobelio - nobelium  
 nobiembre - mes des un  
 noche (tarde) - sham  
@@ -2416,7 +2421,7 @@ océano Antártico - Antartika Hai
 océano Atlántico - Atlanti Hai  
 océano Pacífico - Pachi Hai  
 océano Ártico - Artika Hai  
-océano Índico - Barte Hai  
+océano Índico - Barti Hai  
 odiar - hena  
 odio - hen  
 oeste - veste  
@@ -2482,7 +2487,7 @@ padre (papá) - pa
 pagano (infiel) - kafir  
 pago - pei  
 Pakistán - Pakistan  
-pala - bel  
+pala - bele  
 palabra (vocablo) - logem  
 palacio (mansión) - daidom  
 paladio - paladium  
@@ -2493,8 +2498,8 @@ palmera - palme
 palpar (tocar) - senta  
 pan - pan  
 pan tostado - rosti pang  
-panadero - beker  
-panadería - bekokan  
+panadero - baka ja  
+panadería - baka kan  
 panafricano - panafriki  
 panamericano - panameriki  
 Panamá - Panama  
@@ -2639,7 +2644,7 @@ pestaña - okokesh
 peto - sinoplate  
 petróleo - petronefte  
 pez (pescado) - pesh  
-pez globo - balonpesh  
+pez globo - balon pesh  
 peñasco (pedrusco) - daisheke  
 piano - piano*  
 pico (punta) - pike  
@@ -2743,7 +2748,7 @@ pradera (pastizal) - cau istan
 praseodimio - prasedium  
 preceder (anteceder) - chena  
 precio (coste) - koste  
-precioso - bavi  
+precioso - bau li  
 preferir (favorecer) - mashfila  
 prefijo - chenfikse  
 pregunta - sual  
@@ -2970,7 +2975,7 @@ rezo (oración) - dua
 reír - haha  
 rico - richi  
 riesgo (posibilidad) - zar  
-riesgo - riske  
+riesgo - risko  
 rima - rim  
 ring - ringar  
 rinoceronte - kornonos  
@@ -2979,7 +2984,7 @@ ritmo - ritim
 rito (ceremonia) - puja rite  
 riñon - nefre  
 robar (hurtar) - chora  
-roble - balute  
+roble - baluta  
 roble común - europobalute  
 roble daimyo - dante balute  
 robo (hurto) - chor  
@@ -3034,16 +3039,16 @@ sacerdote (clérigo, eclesiástico) - din guru
 saco - sake  
 sagrada escritura - sante kanon  
 sagrado (santo) - sante  
-sal - salte  
+sal - sale  
 sala de chat (tertuliadero) - blabla kan  
 salchicha - sosis  
 salida - chutomun  
-salino - salti  
+salino - sale di  
 salir (egresar) - eshtru  
 salir (irse) - chuta  
 salmodiar - mantra  
 salmón (trucha) - salmon  
-salmón chum (keta) - bakosalmon  
+salmón chum (keta) - baki salmon  
 salmón del Atlántico - atlanti salmon  
 salmón rojo - lal salmon  
 salmón rosado - rozosalmon  
@@ -3117,7 +3122,7 @@ serpiente (culebra) - serpe
 servicio - serve  
 servir - serva  
 sexo (género) - jinse  
-sexo - biyi jinse  
+sexo - bio jinse  
 sexo - sekse  
 sexología - sekselogi  
 sexy (sexual) - sekse li  
@@ -3211,7 +3216,7 @@ sufijo - posfikse
 sufijo para regiónes y sustantivos abstractos - ya  
 sufragio (derecho al voto) - vote haki  
 sufrimiento (dolor) - pashia  
-sufrir (verbo pasivo) - beyu  
+sufrir (verbo pasivo) - be  
 sufrir - pashu  
 sugerir (proponer) - suja  
 Suiza - Suice  
@@ -3311,7 +3316,7 @@ tera- - tera*
 terbio - terbium  
 terminar (acabar) - fin  
 termómetro - termometre gi  
-terracota - bekofan  
+terracota - baka fan  
 terraplanista - platogeyiste  
 terremoto - geo sismo  
 terreno (solar) - geo tika  
@@ -3370,7 +3375,7 @@ tortuga - tortuge
 tos - koso  
 totalidad (integridad) - holia  
 toxicología - toksilogi  
-toxina - bio tokse  
+toxina - bio toxe  
 trabajador (obrero) - karer  
 trabajar - kara  
 trabajo - gung  
@@ -3553,6 +3558,7 @@ vista (visión) - vide she
 viudo - vidou  
 vivir (residir) - doma  
 vivo (lleno de vida) - jivi  
+viñedo - putau bagi  
 vocabulario (léxico) - logia  
 vocal - jungofon  
 volar - feyu  
@@ -3599,7 +3605,7 @@ zigurat - zikura
 zigzag - zigzage  
 Zimbabue - Zimbabve  
 zombi - zombi  
-zoo - zou parke  
+zoo - zou bagi  
 zoología - zou logi  
 zoológico - zou logi di  
 zoroastriano - Zardush din ja  

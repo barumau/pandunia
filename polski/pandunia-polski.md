@@ -32,6 +32,7 @@ ajibu - dziw (cudo)
 ajibu - zachwyt (zdumienie)  
 ajibu li - zachwycający (zdumiewający, zadziwiający)  
 ajila - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
+akacia - akacja  
 akare - klescz (roztocze)  
 ala - zmienić (zmieniać)  
 Alaska - Alaska  
@@ -183,32 +184,36 @@ avar ja - krzywdzący (szkodliwy)
 axe - oś  
 Azerbaijan - Azerbejdżan  
 ####B - B  
-babe - rozdział, sekcja  
+babu - rozdział, sekcja  
 babuche - kapeć (papeć, bambosz)  
-babul - akacja  
-bache - dziecko (nieletni)  
+bacha - dziecko (nieletni)  
+badal - wymieniać, wymienić, zamieniać, zamienić  
 badam - migdał  
+badan - ciało  
+badan di - cielesny  
 badavi - beduiński; nomadyczny  
-badla - wymieniać, wymienić, zamieniać, zamienić  
 bagaje - bagaż  
 bagre - tygrys  
-bagroselote - ocelot tygrysi  
+bagre oselote - ocelot tygrysi  
 bah - pfuj (fuj)  
+baha din - bahaizm  
+baha din ja - bahaista  
 Bahama - Bahamy  
-bahayiste - bahaista  
-bahayistia - bahaizm  
 Bahrain - Bahrajn  
 bai - zatoka  
+baka - piec  
+baka fan - terakota  
+baka ja - piekarz  
+baka kan - piekarnia  
 baki - biały  
-bakochoi - kapusta pekińska  
-bakomargarite - jastrun właściwy  
-bakosalmon - keta  
-balde - wiadro  
-balibali - różny (różnorodny)  
+baki choi - kapusta pekińska  
+baki margarite - jastrun właściwy  
+baki salmon - keta  
+baldi - wiadro  
 balon - balon  
-balonpesh - ryba rozdymkowata  
-balute - dąb  
-balutopal - żołądź  
+balon pesh - ryba rozdymkowata  
+baluta - dąb  
+baluta frute - żołądź  
 bambu - bambus  
 ban - tablica (deska)  
 ban gem - gra planszowa  
@@ -218,10 +223,10 @@ bande - związać, wiązać; zapiąć, zapinać
 bande - taśma; bandaż  
 bandera - flaga, sztandar  
 bangla basha - banglijski  
-Bangladesha - Bangladesz  
+Bangla desha - Bangladesz  
 banka - oszczędzać (deponować)  
-banke - bank  
-banker - bankier  
+banka kan - bank  
+banka shefe - bankier  
 banya - kąpiel  
 banya - kąpać się  
 banya kamar - łazienka  
@@ -237,17 +242,17 @@ bari metal - metal ciężki
 barium - bar  
 barka - gratulować; błogosławić  
 barka - gratulacje!  
-barte - Indyjski  
-Barte Hai - Ocean Indyjski  
-Bartia - Indie  
+barti - Indyjski  
+Barti - Indie  
+Barti Hai - Ocean Indyjski  
 barude - proch strzelniczy  
+basa - wystarczający  
 basen - basen  
 basha - język; komunikacja; mówić  
 basha kanun - gramatyka  
 basha kanun li - gramatyczny  
-bashalogi - językoznastwo  
+basha logi - językoznastwo  
 bashi jinse - rodzaj gramatyczny  
-basi - wystarczający  
 baske - kosz  
 baske bol - piłka do koszykówki (koszykówka)  
 bata - kaczka  
@@ -255,21 +260,21 @@ bata krote - dziobak
 bateri - bateria  
 bato - osiem (8)  
 baton - pręt, kij  
-baton kapse - klatka  
+baton kasa - klatka  
 baton pan - bagietka  
 bau - skarb; skrabiec  
+bau li - cenny  
 bau sheke - klejnot  
-bavi - cenny  
-baza - zakładać (założyć, ustanowić)  
 bazar - rynek, bazar  
 bazarhuristia - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
-bazer - założyciel  
-bazi - bazowy, podstawowy  
-bazobol - bejsbol (baseball)  
-bazokanun - konstytucja  
-bazopetre - skała macierzysta  
-bazoshulkan - szkoła podstawowa  
+baze bol - bejsbol (baseball)  
+baze di - bazowy, podstawowy  
+baze ja - założyciel  
+baze kanun - konstytucja  
+baze petra - skała macierzysta  
+baze shula kan - szkoła podstawowa  
+be - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 be ais - marznąć (zamarznąć)  
 be ajibu - zachwycić się (być zachwyconym)  
 be teza - wzmacniać się (wzmagać, pogłębiać się)  
@@ -279,17 +284,13 @@ be zai - pojawić się
 be’e - koza  
 bebe - niemowlę  
 bede - łóżko  
-bedinje - bakłażan, oberżyna  
+bedinjan - bakłażan, oberżyna  
 bega - uciec, uciekać  
 Beijing - Pekin  
-beka - piec  
-beker - piekarz  
-bekofan - terakota  
-bekokan - piekarnia  
 bel - bel  
-bel - łopata (szpadel)  
 Belarus - Białoruś  
-Belgia - Belgia  
+bele - łopata (szpadel)  
+Belgi - Belgia  
 Belize - Belize  
 ben - dziecko, potomek  
 benchi - ławka  
@@ -298,32 +299,28 @@ benzin - benzyna
 bere - beret  
 beri - jagoda  
 berilium - beryl  
-berje - brzoza  
 berkelium - berkel  
 Bermuda - Bermudy  
 bete - burak  
 beton - beton  
-beyu - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
-biblia - Biblia  
+betula - brzoza  
+Biblia - Biblia  
 bil - móc, umieć, możliwy, prawdopodobnie  
-bil - rachunek (faktura)  
 bilor - kryształ  
-bin - budynek (struktura)  
-bina - zbudować, budować, konstruować  
+bina - budynek (struktura)  
+bina plan - architektura  
+bina plan ja - architekt  
 binde - punkt  
-binplaner - architekt  
-binplania - architektura  
 bio - organiczny  
-bio tokse - toksyna  
+bio jinse - płeć biologiczna  
+bio logi - biologia (nauka o życiu)  
+bio toxe - toksyna  
 bio vute - życie organiczne  
-biologi - biologia (nauka o życiu)  
 bir - piwo  
-birkan - bar, knajpa  
-bis - genderqueer, niebinarny  
+bir kan - bar, knajpa  
 Bisau Ginia - Guinea Bissau  
 biskute - biszkopt, ciastko  
 bismute - bizmut  
-biyi jinse - płeć biologiczna  
 biyochaniver - kompost  
 biyomuti - sfermentowany  
 biyomutu - fermentować  
@@ -337,8 +334,6 @@ bloge - blog
 blu - niebieski  
 blu ceram sing - houstoia azurowa  
 blu elfe - smerf  
-bode - ciało  
-bodi - cielesny  
 boi - spławik (boja)  
 boikote - bojkot  
 boke - usta  
@@ -380,6 +375,7 @@ brun alga - brunatnica
 brun salmon - pstrąg potokowy  
 Brunei - Brunei Darussalam  
 brus - rodzeństwo, brat lub siostra  
+bu! - bu!  
 buda - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 Buda - Budda  
 Buda din - Buddyzm  
@@ -651,6 +647,7 @@ du - dwa (2)
 dua - pomodlić się, modlić się  
 dua - modlitwa  
 dubnium - dubn  
+dudu - owad  
 duga - czytać  
 duka - zasmucić (zasmucać)  
 duke - żal, smutek  
@@ -776,6 +773,8 @@ fa - zrobić (stworzyć, wykreować)
 fa ajibu - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
 fa an karma - deaktywować (wyłączyć, zatrzymać)  
 fa asar - poprowadzić do (doprowadzić do, powodować)  
+fa baze - zakładać (założyć, ustanowić)  
+fa bina - zbudować, budować, konstruować  
 fa karma - aktywować (włączyć, uruchomić)  
 fa no zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa safa - wyczyścić, czyścić  
@@ -817,6 +816,7 @@ fastelia - głębokość
 fate - czyn, uczynek  
 fatigia - zmęczenie (wyczerpanie)  
 fatigu - męczyć się (nużyć się)  
+fatura - rachunek (faktura)  
 faze - etap, faza  
 febre - gorączka  
 fei - lot  
@@ -940,7 +940,7 @@ futoban - rusztowanie (trap)
 ga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 Gabon - Gabon  
 gabur - grób (mogiła, grobowiec, zakopać, pochować)  
-gabur istan - cmentarz  
+gabur bagi - cmentarz  
 gabur sheke - nagrobek  
 gadolinium - gadolin  
 gaja - słoń  
@@ -1626,7 +1626,6 @@ konbash - wspólny język
 konboni - pasować  
 konchaniste - komunista  
 konchanistia - komunizm  
-konchung - owad  
 konfunchabli - kompatybilny (pasujący)  
 kong - dziura  
 konga - przebić (perforować, dziurawić)  
@@ -1726,10 +1725,11 @@ kushloke - kuszetka (koja)
 kushu - leżeć  
 Kuvaitia - Kuwejt  
 ####L - L  
-labe - warga  
+labi - warga  
 lage - jezioro  
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 laji - śmieć, odpadek  
+laji tong - śmietnik  
 laka - lakier  
 lal - czerwony  
 lal bau sheke - rubin  
@@ -2047,9 +2047,9 @@ metre - zmierzyć (miara)
 metregraf - mapa  
 metregrafia - kartografia  
 metrun - jednostka miary  
+meza texe - obrus  
 meze - stół  
 mezistan - płaskowyż (plateau)  
-mezotesh - obrus  
 mi - ja, mnie  
 mi di - mój  
 mien - makaron  
@@ -2280,6 +2280,7 @@ Niue - Niue
 no - nie  
 no yau di - niepotrzebny  
 nobelium - nobel  
+nobi - genderqueer, niebinarny  
 noche - noc  
 nochomode - tryb nocny  
 noda - zawiązywać (zawiązać węzeł)  
@@ -2642,6 +2643,7 @@ purshipa - namoczyć (marynować)
 pusha - pchnąć, pchać  
 pusher - tłok  
 putau - winogrono  
+putau bagi - winnica  
 putau oranje - grejpfrut  
 putong - powszechny, uniwersalny  
 Putong Han - mandaryński chiński, Putonghua  
@@ -2723,8 +2725,8 @@ richia - bogactwo (fortuna, majątek)
 rim - rym (wers)  
 ring - pierścień  
 ris - ryż  
-riske - ryzyko  
-riski - ryzykowny  
+risko - ryzyko  
+risko di - ryzykowny  
 rite - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 riti - konwencjonalny, zwyczajowy, tradycyjny  
 ritim - rytm, bit  
@@ -2823,14 +2825,14 @@ salam sube - dobry ranek
 salam yam - smacznego  
 salama - pozdrowić, pozdrawiać  
 salame - pozdrowienie  
+sale - sól  
+sale di - słony  
 sali - zdrowy  
 salia - zdrowie  
 salmon - łosoś (pstrąg)  
 Salon - Sierra Leone  
 salsafi - czysty (higieniczny, sanitarny)  
 salsafia - higiena  
-salte - sól  
-salti - słony  
 Salvador - Salwador  
 sam - taki sam  
 samarium - samar  
@@ -3385,6 +3387,7 @@ var sete - niedziela
 var tri - środa  
 var un - poniedziałek  
 var var - tydzień  
+vari - różny (różnorodny)  
 varis - spadek, dziedzictwo, spuścizna, zapis  
 varka - kartka (dokument)  
 varka alga - listownicowiec  
@@ -3544,10 +3547,10 @@ zong - słup (pal, kołek)
 zong minte - mięta zielona (mięta kłosowa)  
 zou - animal  
 zou agro shutu - hodowla zwierząt  
+zou bagi - zoo (ogród zoologiczny)  
 zou kata - bajka  
 zou logi - zoologia  
 zou logi di - zoologiczny  
-zou parke - zoo (ogród zoologiczny)  
 zukam - przeziębienie, katar  
 zuku - grupa etniczna  
 zuku di - etniczny  

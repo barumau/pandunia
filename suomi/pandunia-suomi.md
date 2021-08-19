@@ -40,6 +40,7 @@ ajibu - ihme
 ajibu - hämmästys (ihmetys)  
 ajibu li - ihmeellinen (ällistyttävä, merkillinen)  
 ajila - kiirehtiä  
+akacia - akaasia  
 akare - punkki  
 ala - muuttaa (tehdä eriksi)  
 Alaska - Alaska  
@@ -194,27 +195,31 @@ ave - kaura
 axe - akseli  
 Azerbaijan - Azerbaidžan  
 ####B - B  
-babe - luku (kirjan osa)  
+babu - luku (kirjan osa)  
 babuche - tohveli  
-babul - akaasia  
-bache - lapsi  
+bacha - lapsi  
+badal - vaihtaa  
 badam - manteli  
+badan - keho (ruumis)  
+badan di - ruumiillinen  
 badavi - beduiini  
-badla - vaihtaa  
 bagaje - matkatavarat  
+bagi - tarha (piha)  
 bagre - tiikeri  
 bah - pah (pyh)  
+baha din - bahailaisuus  
+baha din ja - bahailainen  
 Bahama - Bahama-saaret  
-bahayiste - bahailainen  
-bahayistia - bahailaisuus  
 Bahrain - Bahrain  
 bai - lahti  
+baka - leipoa  
+baka ja - leipuri  
+baka kan - leipomo  
 baki - valkoinen (valkea)  
-balde - sanko (ämpäri)  
-balibali - monenlainen  
+baldi - sanko (ämpäri)  
 balon - ilmapallo  
-balute - tammi  
-balutopal - tammenterho  
+baluta - tammi  
+baluta frute - tammenterho  
 bambu - bambu  
 bamia - okra  
 ban - lauta (paneeli)  
@@ -225,10 +230,10 @@ bande - sitoa
 bande - nauha (side)  
 bandera - lippu  
 bangla basha - bengali  
-Bangladesha - Bangladesh  
+Bangla desha - Bangladesh  
 banka - tallettaa (tallentaa)  
-banke - pankki  
-banker - pankkiiri  
+banka kan - pankki  
+banka shefe - pankkiiri  
 banya - kylpy  
 banya - kylpeä  
 banya kamar - kylpyhuone  
@@ -244,17 +249,17 @@ bari metal - raskasmetalli
 barium - barium  
 barka - onnitella (siunata)  
 barka - onneksi olkoon!  
-barte - intialainen  
-Barte Hai - Intian valtameri  
-Bartia - Intia  
+barti - intialainen  
+Barti - Intia  
+Barti Hai - Intian valtameri  
 barude - ruuti  
+basa - tarpeeksi (riittävästi)  
 basen - allas  
 basha - puhua (kieli, kommunikaatio)  
 basha kanun - kielioppi  
 basha kanun li - kieliopillinen  
-bashalogi - kielitiede (lingvistiikka)  
+basha logi - kielitiede (lingvistiikka)  
 bashi jinse - kieliopillinen suku  
-basi - tarpeeksi (riittävästi)  
 baske - kori  
 baske bol - koripallo  
 bata - sorsa (ankka)  
@@ -262,37 +267,34 @@ bata krote - vesinokkaeläin
 bateri - akku (paristo)  
 bato - kahdeksan (8)  
 baton - tanko (sauva, patukka)  
-baton kapse - häkki  
+baton kasa - häkki  
 baton pan - patonki (ranskanleipä)  
 bau - aarre  
+bau li - arvokas  
 bau sheke - jalokivi  
-bavi - arvokas  
-baza - perustaa  
 bazar - tori (basaari)  
 bazarhuristia - markkinaliberalismi  
 baze - perusta (perustus)  
-bazer - perustaja  
-bazi - perus-  
-bazobol - baseball (amerikkalainen pesäpallo)  
-bazokanun - perustuslaki  
-bazopetre - peruskallio  
-bazoshulkan - ala-aste  
+baze bol - baseball (amerikkalainen pesäpallo)  
+baze di - perus-  
+baze ja - perustaja  
+baze kanun - perustuslaki  
+baze petra - peruskallio  
+baze shula kan - ala-aste  
+be - läpikäydä (passiivin muodostava verbi)  
 be ais - jäätyä  
 be ajibu - ihmetellä (olla ihmeissään)  
 be vide - näkyä  
 be’e - vuohi  
 bebe - vauva  
 bede - vuode (sänky, peti)  
-bedinje - munakoiso  
+bedinjan - munakoiso  
 bega - paeta (karata)  
 Beijing - Peking (Beijing)  
-beka - leipoa  
-beker - leipuri  
-bekokan - leipomo  
 bel - beli (B)  
-bel - lapio  
 Belarus - Valkovenäjä  
-Belgia - Belgia  
+bele - lapio  
+Belgi - Belgia  
 Belize - Belize  
 ben - lapsi (jälkeläinen)  
 benben - lapsenlapsi  
@@ -302,35 +304,31 @@ benzin - bensiini (bensa)
 bere - baskeri (baretti)  
 beri - marja  
 berilium - berylli  
-berje - koivu  
 berkelium - berkelium  
 Berlin - Berlin  
 Bermuda - Bermuda  
 beton - betoni  
-beyu - läpikäydä (passiivin muodostava verbi)  
-bibli - raamatullinen  
-biblia - Raamattu  
+betula - koivu  
+Biblia - Raamattu  
+Biblia di - raamatullinen  
 bil - voida (osata, pystyä, mahdollinen, ehkä)  
-bil - lasku (faktuura)  
-bilja - kykenevä (voiva)  
+bil ja - kykenevä (voiva)  
+bil ta - mahdollisuus (taito, kyky)  
 bilor - kristalli  
-bilta - mahdollisuus (taito, kyky)  
-bin - rakennus (rakenne)  
-bina - rakentaa  
+bina - rakennus (rakenne)  
+bina plan - arkkitehtuuri  
+bina plan ja - arkkitehti  
 binde - täplä (läiskä)  
-binplaner - arkkitehti  
-binplania - arkkitehtuuri  
 bio - elävä (orgaaninen)  
-bio tokse - toksiini  
+bio jinse - biologinen sukupuoli  
+bio logi - biologia  
+bio toxe - toksiini  
 bio vute - orgaaninen elämä  
-biologi - biologia  
 bir - olut (kalja)  
-birkan - baari (kapakka)  
-bis - muunsukupuolinen  
+bir kan - baari (kapakka)  
 Bisau Ginia - Guinea-Bissau  
 biskute - keksi (pikkuleipä)  
 bismute - vismutti  
-biyi jinse - biologinen sukupuoli  
 bizar - outo (kummallinen)  
 biznes - liiketoiminta (bisnes)  
 bizneser - liikemies  
@@ -339,8 +337,6 @@ blabla kan - keskusteluhuone
 bloge - blogi (nettikolumni)  
 blu - sininen  
 blu elfe - smurffi  
-bode - keho (ruumis)  
-bodi - ruumiillinen  
 boi - kelluke (poiju)  
 boikote - boikotti  
 boke - suu  
@@ -386,6 +382,8 @@ brun - ruskea
 Brunei - Brunei  
 brus - sisarus (veli tai sisko)  
 brusben - sisaruksen lapsi  
+bu! - pöö!  
+bubu - mörkö  
 bucha - teurastaa (lahdata)  
 bucher - teurastaja  
 buchokan - teurastamo  
@@ -660,6 +658,7 @@ du - kaksi (2)
 dua - rukoilla (anoa)  
 dua - rukous  
 dubnium - dubnium  
+dudu - hyönteinen (ötökkä)  
 duga - lukea  
 duka - surettaa  
 duke - suru (murhe)  
@@ -817,6 +816,8 @@ fa an galta - poistaa virheitä (debugata)
 fa an karma - poistaa toiminnasta  
 fa asar - vaikuttaa  
 fa avar - vahingoittaa (vaurioittaa)  
+fa baze - perustaa  
+fa bina - rakentaa  
 fa dante - purra  
 fa ja - tekijä (toimija)  
 fa karma - panna toimintaan  
@@ -861,6 +862,7 @@ fastelia - syvyys
 fate - teko  
 fatigia - väsymys  
 fatigu - väsyä  
+fatura - lasku (faktuura)  
 faze - vaihe (etappi)  
 febre - kuume  
 fei - lento  
@@ -968,6 +970,7 @@ francium - fransium
 frem - kehys (raamit)  
 frika - hangata  
 frute - hedelmä  
+frute bagi - hedelmätarha  
 fuga - palauttaa  
 fui - hyi! (pyh!)  
 fuka - pukea (vaatettaa)  
@@ -991,7 +994,7 @@ fute shake - jalka (alaraaja)
 ga - jos (olettaa)  
 Gabon - Gabon  
 gabur - hauta  
-gabur istan - hautausmaa  
+gabur bagi - hautausmaa  
 gabur sheke - hautakivi  
 gadolinium - gadolinium  
 gaja - norsu (elefantti)  
@@ -1402,6 +1405,7 @@ jeinistia - jainalaisuus
 jel - hyytelö  
 jelosi - kade (kateellinen)  
 jen - synty (syntymä)  
+jen loka - syntymäpaikka  
 jena - synnyttää  
 jenden - syntymäpäivä  
 jeng - taistelu (sota)  
@@ -1409,7 +1413,6 @@ jenger - soturi (taistelija)
 jengi - sotilaallinen  
 jengoshute - kamppailulaji  
 jeni bash - äidinkieli  
-jenistan - syntymäpaikka  
 jenklas - sääty (kasti)  
 jenolojia - sukututkimus  
 jenshen - ginseng  
@@ -1682,7 +1685,6 @@ konbash - yhteiskieli
 konboni - sopia  
 konchaniste - kommunisti  
 konchanistia - kommunismi  
-konchung - hyönteinen (ötökkä)  
 kong - reikä  
 Kongfuze - Kungfutse  
 kongfuzistia - Kungfutselaisuus  
@@ -1768,10 +1770,12 @@ kushen - tyyny
 kushu - maata (makoilla)  
 Kuvaitia - Kuwait  
 ####L - L  
-labe - huuli  
+labi - huuli  
 Lagos - Lagos  
 lai - tulla (saapua)  
 laji - roska  
+laji bagi - kaatopaikka  
+laji tong - jäteastia (roskakori, roskis)  
 laka - lakka  
 lal - punainen  
 lal bau sheke - rubiini  
@@ -2058,8 +2062,8 @@ metode - keino (menetelmä, metodi)
 metre - mitta (koko, määrä)  
 metregraf - kartta  
 metregrafia - kartogratia  
+meza texe - pöytäliina  
 meze - pöytä  
-mezotesh - pöytäliina  
 mi - minä  
 mi di - minun  
 mien - nuudeli  
@@ -2278,6 +2282,7 @@ Niue - Niue
 no - ei  
 no yau di - tarpeeton  
 nobelium - nobelium  
+nobi - muunsukupuolinen  
 noche - yö  
 nochomode - yömoodi  
 noda - solmia (tehdä solmu)  
@@ -2436,6 +2441,7 @@ pari numbe - parillinen luku
 parike - vertainen  
 Paris - Pariisi  
 parke - tarha (puisto)  
+parke bele - puutarhalapio  
 parta - osallistua  
 parter - osallistuja  
 partia - osapuoli (puolue)  
@@ -2633,6 +2639,7 @@ puri - täysi
 puro - täysin  
 pusha - työntää (puskea)  
 putau - viinirypäle  
+putau bagi - viinitarha  
 putong - yleinen (universaali)  
 Putong Han - yleiskiina (mandariinikiina)  
 ####R - R  
@@ -2702,9 +2709,10 @@ rim - säe (riimi)
 ring - rengas (kehä)  
 ringar - kehä (ottelualue)  
 ris - riisi  
-riske - riski  
-riski - riskialtis  
-risvin - riisiviina  
+ris biskute - riisikakku  
+ris vin - riisiviina  
+risko - riski  
+risko di - riskialtis  
 rite - tapa (perinne)  
 riti - tavanomainen (perinteinen)  
 ritim - rytmi  
@@ -2795,13 +2803,14 @@ salam yam - hyvää ruokahalua!
 salama - tervehtiä  
 salame - tervehdys (terve!)  
 salamia - hyvinvointi  
+sale - suola  
+sale biskute - voileipäkeksi  
+sale di - suolainen  
 sali - terve  
 salia - terveys  
 Salon - Sierra Leone  
 salsafi - hygieeninen  
 salsafia - hygienia (puhtaus)  
-salte - suola  
-salti - suolainen  
 Salvador - El Salvador  
 sam - sama (yhtäläinen)  
 samdeshi - samanmaalainen (maanmies)  
@@ -3293,6 +3302,7 @@ var sete - niedziela
 var tri - keskiviikko  
 var un - maanantai  
 var var - viikko  
+vari - monenlainen  
 varis - perintö  
 varka - lehti (arkki, levy)  
 varka late - sivu (kirjassa)  
@@ -3444,12 +3454,12 @@ zombi - zombi
 zona - vyö  
 zou - eläin  
 zou agro shutu - karjanhoito  
+zou bagi - eläintarha  
 zou filia - eläinrakkaus  
 zou geo grafi - eläinmaantiede  
 zou kata - eläinsatu  
 zou logi - eläintiede (zoologia)  
 zou logi di - eläintieteellinen  
-zou parke - eläintarha  
 zou toxe - eläinmyrkky (zootoksiini)  
 zukam - vilustuminen  
 zuku - kansanryhmä (etninen ryhmä)  

@@ -80,8 +80,8 @@ arma de fogo - pau
 armadilha - kape truke  
 armadura - defkaske  
 armário - almari  
-arquiteto - binplaner  
-arquitetura - binplania  
+arquiteto - bina plan ja  
+arquitetura - bina plan  
 arrastar - trata  
 arroz - ris  
 arte - shutu  
@@ -99,6 +99,7 @@ astronomia - astro nomi
 astrónomo - astro nomi ja  
 ataque - agres  
 Atenas - Athina  
+aterro (lixão) - laji bagi  
 ativo - karma ja  
 ato (ação) - karma  
 até - hata  
@@ -120,10 +121,10 @@ bagagem - bagaje
 baile (danza) - danse  
 bambu - bambu  
 banana - banana  
-banco - banke  
+banco - banka kan  
 banco de dados - datobanke  
 bando - banda  
-banqueiro - banker  
+banqueiro - banka shefe  
 barba - barde  
 barco (navio) - nave  
 barra de chocolate - choklatobaton  
@@ -131,21 +132,23 @@ barrar - bara
 barreira - bara  
 base (álcali) - kali  
 base - baze  
-basebol (beisebol) - bazobol  
+basebol (beisebol) - baze bol  
 basketball - baske bol  
-bastante (suficiente) - basi  
+bastante (suficiente) - basa  
 baía - bai  
 bebê - bebe  
 beleza - sundaria  
 belo (lindo) - sundar  
 bem-estar - salamia  
-beringela - bedinje  
+beringela - bedinjan  
 biblioteca - kitabu kan  
+bicho-papão - bubu  
 bigorna - metalbede  
 bilhete - tikete  
 bilíngue - dulbashi  
-biología - biologi  
+biología - bio logi  
 bioma - biyosistem  
+biscoito - biskute  
 bola - bol  
 bolo lunar - lunokeke  
 bom - bon  
@@ -162,11 +165,12 @@ branco - baki
 bravo (valente, corajoso) - bravo  
 bravo! - bravo  
 braço - handoshake  
+bu! - bu!  
 Buda - Buda  
 bule - chai pote  
 buraco - kave  
 buscar (procurar) - soka  
-bétula - berje  
+bétula - betula  
 búzio - kauri  
 ####C - C  
 cabelo - sar kesha  
@@ -210,7 +214,7 @@ carta - karde
 carta geográfica - metregraf  
 cartografia - metregrafia  
 Cartum - Hartum  
-carvalho - balute  
+carvalho - baluta  
 carvalho-roble - europobalute  
 casca (concha) - kaske  
 cascalho - grave  
@@ -219,7 +223,7 @@ cavar (escavar) - kava
 caçar - saida  
 cebola - piaze  
 cem (100) - shoti  
-cemitério - gabur istan  
+cemitério - gabur bagi  
 cenoura - karote  
 centro - jung  
 centáurea - centaure  
@@ -275,8 +279,9 @@ conexão (vínculo, laço) - linke
 confiar (contar com) - amen shin  
 conselho - sel  
 considerar - hema  
-construir - bina  
+construir - fa bina  
 consultor - konseler  
+conta (fatura) - fatura  
 conta - hisabu loge  
 conto - korte kata  
 conto de fadas - peri kata  
@@ -286,7 +291,7 @@ cor - rang
 coral - koral  
 corno - korne  
 coro - chante grupe  
-corpo - bode  
+corpo - badan  
 corredor - korer  
 corrente (atual) - zai zaman di  
 correr - kora  
@@ -298,7 +303,7 @@ costume (hábito) - ada
 crente - din ja  
 crepe (panqueca) - krepe  
 crepe - France krepe  
-criança (menino) - bache  
+criança (menino) - bacha  
 cristal - bilor  
 croassã - kruasante  
 crocodiliano - krokodil  
@@ -386,7 +391,7 @@ encontrar - mita
 endereço - adres  
 enganar - truka  
 ensinar (lecionar) - giau  
-ensino primário - bazoshulkan  
+ensino primário - baze shula kan  
 ensino secundário - jungoshulkan  
 ensopar (encharcar, marinar) - purshipa  
 enteado - gamben  
@@ -492,7 +497,7 @@ futebol - fute bol
 fábula - zou kata  
 fácil - fasili  
 ####G - G  
-gaiola (jaula) - baton kapse  
+gaiola (jaula) - baton kasa  
 galope - galope  
 galáxia - galaksia  
 gamão - narde  
@@ -500,7 +505,7 @@ gancho - huke
 ganso - gansa  
 garrafa (botelha) - botel  
 gato - mau  
-gato-do-mato (gato-maracajá-mirim) - bagroselote  
+gato-do-mato (gato-maracajá-mirim) - bagre oselote  
 gato-maracajá - margai  
 gelar - be ais  
 genealogia - jenolojia  
@@ -531,7 +536,7 @@ gás - gas
 gás lacrimogéneo - okosuigas  
 gênero gramatical - bashi jinse  
 ####H - H  
-habilidade (capacidade) - bilta  
+habilidade (capacidade) - bil ta  
 haste (talo, caule) - tan  
 Hesse (Héssia) - Hesia  
 higiene - salsafia  
@@ -577,7 +582,7 @@ infiel - an din ja
 inflamaçao - flame  
 inimigo - dusjan  
 inquisitivo - savovolani  
-inseto - konchung  
+inseto - dudu  
 insônia - an sona  
 internacional - nasmedi  
 invernal (hibernal) - lengomosimi  
@@ -638,6 +643,8 @@ literatura - kitabu shutu
 litro - litre  
 livre (forro) - huri  
 livro - buku  
+lixeira - laji tong  
+lixo (refugo , escória) - laji  
 lição - shula  
 local - loki  
 longo - longi  
@@ -650,6 +657,7 @@ luteranismo - martinluteristia
 luterano - martinluteristi  
 luxúria - kama  
 luz - foto  
+lábio - labi  
 lápide - gabur sheke  
 lápis - kalam  
 lápis-lazúli - lazurpetre  
@@ -679,7 +687,7 @@ maravilha - ajibu
 marcha - marche  
 margarida - margarite  
 margarida-comum - englomargarite  
-margarita-maior - bakomargarite  
+margarita-maior - baki margarite  
 margem (borda) - kinar  
 margem - tate  
 marinha - haigun  
@@ -787,6 +795,7 @@ Noé - Noe
 nuvem - megi  
 náusea - retroguli sense  
 não - no  
+não-binário - nobi  
 nós - mimen  
 núcleo (cerne) - kerne  
 número - numbe  
@@ -830,7 +839,7 @@ paciente - patike
 pacifista - pachiste  
 pacote - pake  
 pacto - kontrete  
-padeiro - beker  
+padeiro - baka ja  
 padrasto - vice pa  
 pai - pa  
 painel - ban  
@@ -901,6 +910,7 @@ pneumonia  - pulmon flame
 Polinésia - Polnesia  
 poluição - najis  
 polvo - ohtopus  
+pomar - frute bagi  
 ponta (pico, bico) - pike  
 ponta do dedo - angul pike  
 ponte - pul  
@@ -919,7 +929,7 @@ prancheta - pinsoban
 prata - argente  
 prateleira (estante) - liboban  
 praça - meden  
-precioso - bavi  
+precioso - bau li  
 preferir - mashfila  
 preto - siyahi  
 primo - chin brus ben  
@@ -936,7 +946,7 @@ promessa (voto) - vode
 prova - dalil  
 purpúreo (roxo) - viyolete blu  
 purê de maçã - aple sos  
-pá - bel  
+pá - bele  
 página - varka late  
 pântano - fantopia  
 pão - pan  
@@ -979,7 +989,6 @@ raça - ras
 raíz - mula  
 reciclar - resikle  
 recém-nascido - neujeni  
-refugo (escória) - laji  
 regime - politomode  
 registro - loge  
 rei - man raja  
@@ -1021,10 +1030,10 @@ sacada (varanda) - veranda
 saco - sake  
 sagrada escritura - sante kanon  
 sair - eshtru  
-sal - salte  
+sal - sale  
 sala (câmara) - kamar  
-salino - salti  
-salmão-cão (salmão-keta) - bakosalmon  
+salino - sale di  
+salmão-cão (salmão-keta) - baki salmon  
 salmão-rosa - rozosalmon  
 salmão-vermelho - lal salmon  
 salsicha - sosis  
@@ -1108,8 +1117,8 @@ teosofia - deu sofi
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Geo  
-terra natal - jenistan  
-terracota - bekofan  
+terra natal - jen loka  
+terracota - baka fan  
 terraplanista - platogeyiste  
 terreno - geo forme  
 terça-feira - var du  
@@ -1117,7 +1126,7 @@ teste - teste
 tigre - bagre  
 tijolo - dobe  
 toalha - gan texe  
-toalha de mesa - mezotesh  
+toalha de mesa - meza texe  
 tomate - tomate  
 topografia - topograf  
 tora - mokotan  
@@ -1125,7 +1134,7 @@ toranja - putau oranje
 torta - pai  
 toupeira - krote  
 toxicologia - toksilogi  
-toxina - bio tokse  
+toxina - bio toxe  
 trabalhador - karer  
 trabalhar - kara  
 trabalho - gung  
@@ -1189,6 +1198,7 @@ vez - mar
 vice-rei - vice raja  
 vida - jiu  
 vidro - kanche  
+vinhedo - putau bagi  
 vir - lai  
 virgem - virje  
 vivo - jivi  
@@ -1205,7 +1215,7 @@ votar - fa vote
 voto - vote  
 vulcão - hogoshan  
 vulva - vulva  
-vários - balibali  
+vários - vari  
 Vénus - Venus  
 véu - hijabu  
 ####X - X  
@@ -1215,8 +1225,8 @@ Xiva - Shiva
 zebra - zebra  
 zona - zona  
 zoologia - zou logi  
+zoológico - zou bagi  
 zoológico - zou logi di  
-zoológico - zou parke  
 zumbi - zombi  
 ágil - agile  
 água - sui  

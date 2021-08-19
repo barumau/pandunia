@@ -167,25 +167,28 @@ ave - avoine
 axe - axe  
 Azerbaijan - Azerbaijan  
 ####B - B  
-babe - chapitre  
+babu - chapitre  
 babuche - pantoufle (babouche)  
-bache - enfant  
+babul - vachellia  
+bacha - enfant  
 badam - amande  
+badan - corps  
 badavi - bédouin  
 bagaje - bagage  
 bagre - tigre  
-bagroselote - oncille  
+bagre oselote - oncille  
 bah - bah  
 bai - baie (golf)  
+baka fan - terre cuite  
+baka ja - boulanger  
 baki - blanc  
-bakomargarite - marguerite  
-bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
-balde - seau  
-balibali - divers (plusieurs)  
+baki margarite - marguerite  
+baki salmon - saumon du Pacifique (saumon kéta, saumon chien)  
+baldi - seau  
 balon - ballon  
-balonpesh - poisson-globe  
-balute - chêne  
-balutopal - gland  
+balon pesh - poisson-globe  
+baluta - chêne  
+baluta frute - gland  
 bambu - bambou  
 bamia - gombo  
 ban - tableau (panneau)  
@@ -194,9 +197,9 @@ banana - banane
 banda - bande  
 bandera - drapeau  
 bangla basha - bengali  
-Bangladesha - Bangladesh  
-banke - banque  
-banker - banquier  
+Bangla desha - Bangladesh  
+banka kan - banque  
+banka shefe - banquier  
 banya - bain  
 banya - se baigner  
 banya kamar - salle de bains  
@@ -211,52 +214,49 @@ bari metal - métaux lourds
 barium - baryum  
 barka - féliciter  
 barka - Félicitations !  
-barte - indien  
-Barte Hai - océan Indien  
-Bartia - Inde  
+barti - indien  
+Barti - Inde  
+Barti Hai - océan Indien  
 barude - poudre à canon  
+basa - assez  
 basen - bassin  
 basha - langue  
 bashi jinse - genre grammatical  
-basi - assez  
 baske - panier (panier de basketball)  
 baske bol - basketball  
 bateri - pile (batterie)  
 bato - huit (8)  
 baton - bâton (canne, tige)  
-baton kapse - cage  
+baton kasa - cage  
+bau li - précieux  
 bau sheke - pierre précieuse (joyau)  
-bavi - précieux  
 bazar - marché (bazar)  
 baze - base  
-bazobol - baseball  
-bazoshulkan - école primaire  
+baze bol - baseball  
+baze shula kan - école primaire  
 be ais - geler (glacer)  
 bebe - bébé  
-bedinje - aubergine  
-beker - boulanger  
-bekofan - terre cuite  
-bel - pelle  
+bedinjan - aubergine  
+bele - pelle  
 ben - fils ou fille  
 beri - baie  
-berje - bouleau  
 bete - betterave  
+betula - bouleau  
 bil - pouvoir (possible, capacité, peut-être)  
+bil ta - capacité (pouvoir, habileté)  
 bilor - cristal  
-bilta - capacité (pouvoir, habileté)  
-bina - construire  
-binplaner - architecte  
-binplania - architecture  
-bio tokse - toxine  
+bina plan - architecture  
+bina plan ja - architecte  
+bio logi - biologie  
+bio toxe - toxine  
 bio vute - organisme  
-biologi - biologie  
 bir - bière  
+biskute - biscuit  
 biyochaniver - compost  
 biyomutu - fermenter  
 biyosistem - biome  
 blu - bleu  
 blu elfe - schtroumpf  
-bode - corps  
 bokse - boxe  
 bokser - boxeur  
 bokserpante - caleçon  
@@ -272,6 +272,8 @@ briko - abricot
 brun - brun (marron)  
 brun alga - algues brunes  
 brun salmon - truite brune (truite de mer)  
+bu! - bouh!  
+bubu - croque-mitaine  
 bucha - abattre  
 bucher - boucher  
 buchokan - abattoir  
@@ -361,6 +363,7 @@ dosili - docile (insipide)
 dosiljeni - domestiqué (apprivoisé)  
 dosiljenita - domestiquer (apprivoiser)  
 du - deux (2)  
+dudu - insecte  
 duga - lire  
 dulbashi - bilingue  
 dunia - monde  
@@ -418,6 +421,7 @@ fa - faire
 fa ajibu - éblouir (étonner, stupéfier, surprendre)  
 fa an galta - déboguer (débugger)  
 fa asar - effectuer  
+fa bina - construire  
 fa dante - mordre  
 fa karma - activer (allumer, mettre en marche, déclencher)  
 fa valu - évaluer  
@@ -431,6 +435,7 @@ fasili - facile
 fasteli - profond  
 fate - fait  
 fatigia - fatigue  
+fatura - addition (facture)  
 faze - phase  
 fei - vol  
 feimush - chauve-souris  
@@ -464,6 +469,7 @@ francefone - francophone
 Francefonia - francophonie  
 frem - cadre  
 frute - fruit  
+frute bagi - verger  
 fuka - habiller (vêtir)  
 fuke - vêtements  
 fuku - porter (s’habiller)  
@@ -474,7 +480,7 @@ fute marke - empreinte de pied
 ####G - G  
 ga - si  
 gabur - tombe (enterrer)  
-gabur istan - cimetière  
+gabur bagi - cimetière  
 gabur sheke - pierre tombale  
 galaksia - galaxie  
 Galia - Gaule  
@@ -635,9 +641,9 @@ jeinistia - jaïnisme
 jeka - prêter (empruntre)  
 jekodona - prêter  
 jekogeta - empruntre  
+jen loka - lieu de naissance  
 jena - donner naissance (procréer, engendrer, accoucher)  
 jeni bash - langue maternelle  
-jenistan - lieu de naissance  
 jenita - élever  
 jenolojia - généalogie  
 jentipe - génotype  
@@ -748,7 +754,6 @@ klin - tendance
 ko? - comment  
 koda - queue (côté )  
 komputer - ordinateur  
-konchung - insecte  
 konkara - collaborer  
 konseler - consultant (conseiller)  
 konserte - concert  
@@ -788,6 +793,8 @@ kushu - être couché
 lage - lac  
 lai - venir  
 laji - ordures  
+laji bagi - décharge  
+laji tong - poubelle  
 lal - rouge  
 lal bau sheke - rubis  
 lal oranje - mandarine  
@@ -921,8 +928,8 @@ metalbede - enclume
 metallin - fil de fer  
 metregraf - carte  
 metregrafia - cartographie  
+meza texe - nappe  
 meze - table  
-mezotesh - nappe  
 mi - je (me)  
 migre - migration  
 migru - s'installer (déménager)  
@@ -995,6 +1002,7 @@ Nipon - Japon
 nish - niche  
 no - non (ne...pas)  
 no yau di - inutile  
+nobi - non-binaire  
 noche - noit  
 Noe - Noé  
 Noe di nave - arche de Noé  
@@ -1059,6 +1067,7 @@ pari - pair (pareil, egal)
 pari numbe - nombre pair  
 Paris - Paris  
 parke - parc  
+parke bele - bêche (pelle)  
 parne - fougères  
 parvezia - équilibre  
 pas - passer  
@@ -1147,6 +1156,7 @@ purbona - perfectionner (parfaire)
 purfina - accomplir (terminer)  
 puri - plein  
 purshipa - tremper (faire mariner)  
+putau bagi - vignoble  
 putau oranje - pamplemousse  
 ####R - R  
 radio - radio  
@@ -1177,7 +1187,7 @@ rim - rime
 ring - anneau  
 ringar - ring (manège)  
 ris - riz  
-risvin - vin de riz  
+ris vin - vin de riz  
 ritim - rhythme  
 riu - rivière (fleuve)  
 riutube - entonnoir  
@@ -1204,11 +1214,11 @@ saida - chasser
 sake - sac  
 salame - salut (salam)  
 salamia - bien-être  
+sale - sel  
 sali - sain  
 salia - santé  
 salmon - truite  
 salsafia - hygiène  
-salte - sel  
 sam - égal (même)  
 samemos - compassion  
 sammetre - symétrie  
@@ -1415,6 +1425,7 @@ var penta - vendredi
 var sete - dimanche  
 var tri - mercredi  
 var un - lundi  
+vari - divers (plusieurs)  
 varka alga - varech  
 varka late - page  
 vase - oasis  
@@ -1487,10 +1498,10 @@ zong - pieu (poteau)
 zong minte - menthe verte  
 zou - animal (bête)  
 zou agro shutu - élevage  
+zou bagi - zoo  
 zou kata - fable  
 zou logi - zoologie  
 zou logi di - zoologique  
-zou parke - zoo  
 zuku - ethnie  
 zuku di - ethnique  
 Zulu - zoulou  

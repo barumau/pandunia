@@ -5,12 +5,13 @@
 ####A - A  
 a couple of - duli o sani  
 abattoir (slaughterhouse) - buchokan  
-ability - bilta  
+ability - bil ta  
 Abkhazia - Apsni  
 about (approximately, nearly, almost) - yagu  
 above (over) - supro  
 Abyssinia - Habasha  
 Abyssinian - habasha  
+acacia - akacia  
 accent (stress) - acente  
 accept (say okay) - okeya  
 access (admission, accessibility) - acesa  
@@ -20,7 +21,7 @@ accommodate - domana
 account - hisabu loge  
 acid - suan  
 acknowledge - resida  
-acorn - balutopal  
+acorn - baluta frute  
 act (play a role) - rola  
 actinium - acinium  
 action (act, deed) - karma  
@@ -165,8 +166,8 @@ arboretum - mokojongoparke
 archer - arka ja  
 archery - arka shutu  
 archipelago - nesia grupe  
-architect - binplaner  
-architecture - binplania  
+architect - bina plan ja  
+architecture - bina plan  
 Arctic - Artika  
 Arctic Ocean - Artika Hai  
 area (extent of surface) - area  
@@ -264,13 +265,13 @@ bag (sack) - sake
 baguette - baton pan  
 bah - bah  
 bah! (yuck!) - fui  
-Baha'ism - bahayistia  
-Baha'ist - bahayiste  
+Baha'ism - baha din  
+Baha'ist - baha din ja  
 Bahamas - Bahama  
 Bahrain - Bahrain  
-bake - beka  
-baker - beker  
-bakery (bakehouse) - bekokan  
+bake - baka  
+baker - baka ja  
+bakery (bakehouse) - baka kan  
 bald-headed - sar kesha na di  
 ball - bol  
 balloon - balon  
@@ -279,14 +280,14 @@ banana - banana
 band (squad, group) - banda  
 band (tape, bandage) - bande  
 bandage (strip, ribbon) - fashe  
-Bangladesh - Bangladesha  
+Bangladesh - Bangla desha  
 banister (handrail) - langan  
-bank (depository, cache) - banke  
-banker - banker  
+bank (depository, cache) - banka kan  
+banker - banka shefe  
 baobab - bui  
 bar (obstruct, block) - bara  
 bar (pole, rod, shaft, staff, stick) - baton  
-bar (pub, beer house) - birkan  
+bar (pub, beer house) - bir kan  
 bar - bar  
 Barbados - Barbados  
 barbarian - barbar  
@@ -299,8 +300,8 @@ barrel (can, cask) - tong
 barrier (fence) - bara  
 base (alkali) - kali  
 base (foundation) - baze  
-baseball - bazobol  
-basic - bazi  
+baseball - baze bol  
+basic - baze di  
 basket (basketball hoop) - baske  
 basket ball - baske bol  
 bat (flying mammal) - feimush  
@@ -330,7 +331,7 @@ because - sabo da
 become open - kayu  
 bed - bede  
 bedouin (nomadic) - badavi  
-bedrock - bazopetre  
+bedrock - baze petra  
 bedroom - somkamar  
 bee nest (beehive, wasp's nest) - fong nide  
 bee or wasp - fong  
@@ -348,7 +349,7 @@ Beijing (Peking) - Beijing
 being (entity) - ser  
 bel (unit) - bel  
 Belarus - Belarus  
-Belgium - Belgia  
+Belgium - Belgi  
 belief (faith, creed) - shin  
 believe - shina  
 believer (religious person) - din ja  
@@ -370,24 +371,24 @@ berry - beri
 berth (couchette) - kushloke  
 beryllium - berilium  
 Bhutan - Butan  
-Bible - biblia  
-Biblical - bibli  
+Bible - Biblia  
+Biblical - Biblia di  
 bicycle (pedal bike) - pedalsikle  
 big (great) - dayi  
 big city - daisite  
 bike (cycle) - sikle  
 bilingual - dulbashi  
-bill (invoice) - bil  
+bill (check, invoice) - fatura  
 billion (giga-) - giga  
-biological sex - biyi jinse  
-biology (study of organic life) - biologi  
+biological sex - bio jinse  
+biology (study of organic life) - bio logi  
 biome - biyosistem  
-birch tree - berje  
+birch tree - betula  
 bird - pakse  
 biromantic - dulromansi  
 birth - jen  
 birthday - jenden  
-birthplace - jenistan  
+birthplace - jen loka  
 biscuit (cookie) - biskute  
 bisexual - dulseksi  
 bismuth - bismute  
@@ -411,19 +412,21 @@ board game - ban gem
 boat (ship) - nave  
 bob up and down - gautalu  
 bobcat - lal linche  
-bodily (corporal) - bodi  
-body - bode  
+bodily (corporal) - badan di  
+body - badan  
 bodybuilding - muskulbin  
+bogeyman - bubu  
 bohrium - borium  
 boil (be boiled) - bulu  
 boil (cook) - bula  
-bok choy - bakochoi  
+bok choy - baki choi  
 bold letter - gros harfi  
 Bolivia - Bolivia  
 bomb - bomba  
 bon appetit! - salam yam  
 bone - oste  
 bonus - mashboni  
+boo! - bu!  
 book - buku  
 boot - bute  
 border (edge, fringe, margin, rim, side, shore, periphery) - kinar  
@@ -474,7 +477,7 @@ brown trout - brun salmon
 Brunei Darussalam - Brunei  
 brush - brosh  
 bubble - lilbol  
-bucket - balde  
+bucket - baldi  
 Budapest - Budapeshte  
 Buddha - Buda  
 Buddhism - Buda din  
@@ -482,8 +485,8 @@ Buddhist - Buda din ja
 budget - bujete  
 buffet (smorgasbord) - bufete  
 bugle (horn instrument) - buge  
-build (construct) - bina  
-building (structure) - bin  
+build (construct) - fa bina  
+building (structure) - bina  
 Bulgaria - Bolgaria  
 bulletproof - dansekuri  
 burden (load, encumber) -   
@@ -516,7 +519,7 @@ cactus - katus
 cadmium - kadmium  
 caesium - cesium  
 cafe (coffee shop) - kafokan  
-cage - baton kapse  
+cage - baton kasa  
 cake (cookie) - keke  
 calabash - suikaboge  
 calcite - kalsite  
@@ -551,7 +554,7 @@ cantaloupe - kantalupomelon
 Cantalupo in Sabina - Kantalupo va Sabina  
 canter and gallop - galope  
 canyon (ravine, gorge, gully) - kanyon  
-capable (talent, skillful) - bilja  
+capable (talent, skillful) - bil ja  
 cape (cloak, mantle) - mantol  
 captain - naushef  
 car (cart, carriage, wagon, automobile) - kar  
@@ -613,7 +616,7 @@ channel (conduct) - kanala
 channel - kanal  
 chant - mantra  
 chaos (disorder, turmoil) - haos  
-chapter (section) - babe  
+chapter (section) - babu  
 character (written symbol) - zi  
 chard - selge  
 charitable (gentle, kind) - karimi  
@@ -638,7 +641,7 @@ chestnut - kastan
 chicken - koko  
 chickpea - humus  
 chief (boss) - shefe  
-child (minor) - bache  
+child (minor) - bacha  
 child (offspring) - ben  
 Chile - Chile  
 chimpanzee - chimpanzi  
@@ -659,7 +662,7 @@ Christianity - mesi din
 Christmas - mesi jen  
 chromium - kromium  
 chronic (lasting) - duri  
-chum salmon - bakosalmon  
+chum salmon - baki salmon  
 church - eglis  
 cigarette (cigar) - sigar  
 cinematic - kinografi  
@@ -781,7 +784,7 @@ congratulate (bless) - barka
 congratulations! (blessing, benediction) - barka  
 connect (join, link) - linka  
 consequence (back, follow-up) - pos  
-consitution - bazokanun  
+consitution - baze kanun  
 consonant - kinar fon  
 conspiracy (plot) - sirplan  
 consume (eat or drink) - yam  
@@ -836,6 +839,7 @@ cow - mumu
 cowrie - kauri  
 crab - krabe  
 crack (rift) - krake  
+cracker (soda cracker) - sale biskute  
 crafty (dexterous) - jangi  
 crash (shut down, terminate) - harabu  
 cream - krem  
@@ -1047,6 +1051,7 @@ dualism - dulistia
 dubious (suspicious, unbelievable) - dutabli  
 dubnium - dubnium  
 duck - bata  
+dump (junk yard) - laji bagi  
 dumpling (ravioli, pelmeni) - pelmen  
 dungeon (underground prison) - geo niche prizon  
 dungeon crawl - donjon aventur  
@@ -1084,7 +1089,7 @@ education (schooling) - shulia
 effect (bring about) - fa asar  
 effect (impact, impression, result, outcome) - asar  
 egg - anda  
-eggplant (aubergine, brinjal) - bedinje  
+eggplant (aubergine, brinjal) - bedinjan  
 Egypt - Misria  
 Egyptian - misri  
 eight (8) - bato  
@@ -1127,7 +1132,7 @@ English - engli
 English daisy - englomargarite  
 English oak - europobalute  
 enjoy (play) - be van  
-enough (sufficient) - basi  
+enough (sufficient) - basa  
 enter (get in) - intru  
 enter (insert, put in) - intra  
 entrance - jinmun  
@@ -1186,7 +1191,7 @@ excellence (quality, virtue) - bonsifia
 excellent - bonsifi  
 except (minus) - mina  
 exchange (replace, trade, swap) - yeki  
-exchange (swap, replace, trade) - badla  
+exchange (swap, replace, trade) - badal  
 exclude (keep out) - eshklusa  
 exclusive - eshklusivi  
 excrement (shit) - kaka  
@@ -1355,8 +1360,8 @@ form (shape) - forme
 formatting - kitaboforme  
 forum (public space) - forum  
 forward - jino  
-found - baza  
-founder - bazer  
+found - fa baze  
+founder - baze ja  
 fountain (spring, well) - fonte  
 four (4) - chatre  
 fox - huli  
@@ -1405,7 +1410,8 @@ game - gem
 Ganges - Ganga  
 Ganymede - Ganimede  
 garam masala - garma masala  
-garbage (rubbish, trash) - laji  
+garbage (rubbish, trash, waste) - laji  
+garbage can (trash bin) - laji tong  
 garlic - lasun  
 gas - gas  
 gaseous - gasi  
@@ -1420,7 +1426,7 @@ gel (jelly) - jel
 gem (gemstone, jewel) - bau sheke  
 gender (sex) - jinse  
 gender studies - jinsolojia  
-genderqueer (non-binary) - bis  
+genderqueer (non-binary) - nobi  
 genealogy (study of descent) - jenolojia  
 generalissimo (shogun) - gunrajer  
 generation (cohort) - jengrupe  
@@ -1504,7 +1510,7 @@ grass - cau
 grassland (prairie) - cau istan  
 grave (tomb, bury) - gabur  
 gravel - grave  
-graveyard (cemetery, burial ground) - gabur istan  
+graveyard (cemetery, burial ground) - gabur bagi  
 Greece - Helen  
 greedy - tami  
 Greek (Hellenic) - Helen  
@@ -1727,10 +1733,10 @@ including - inkluso
 inclusive - inklusivi  
 increase - masha  
 increment - mashdarja  
-India - Bartia  
-Indian - barte  
+India - Barti  
+Indian - barti  
 Indian chrysanthemum - neftoguke  
-Indian Ocean - Barte Hai  
+Indian Ocean - Barti Hai  
 indicate (point into) - indika  
 indium - hindium  
 Indonesia - Indonesia  
@@ -1747,7 +1753,7 @@ injection - jush
 ink - moge  
 innate (endogenous, indigenous, inborn) - injeni  
 inner (internal) - indi  
-insect - konchung  
+insect - dudu  
 inside (interior) - in  
 inside (interior) - intre  
 inside - intro  
@@ -1981,10 +1987,10 @@ limestone - kalsopetre
 limit (boundary) - limite  
 line (thread, string) - lin  
 line break (newline) - linparche  
-linguistics - bashalogi  
+linguistics - basha logi  
 link - sil  
 lion - sing  
-lip - labe  
+lip - labi  
 liquid - riumate  
 list (listing, catalogue) - liste  
 listen - ora  
@@ -2431,7 +2437,7 @@ number (abundance) - multia
 number - numbe  
 nylon - nilon  
 ####O - O  
-oak tree - balute  
+oak tree - baluta  
 oasis - vase  
 oat - ave  
 Oberon - Oberon  
@@ -2469,7 +2475,7 @@ olive - zaitun
 Oman - Oman  
 ominous (foreboding) - dusosinyi  
 once - unmaro  
-oncilla - bagroselote  
+oncilla - bagre oselote  
 one (1) - un  
 one (you, they, impersonal pronoun) - men  
 onion - piaze  
@@ -2488,6 +2494,7 @@ option (choice) - chuzable
 or - o  
 orange (fruit) - oranje  
 orange (orange-colored) - oranji  
+orchard - frute bagi  
 orchid - orkide  
 order (arrange) - ratiba  
 order (arrangement, sequence) - ratibe  
@@ -2526,7 +2533,7 @@ overestimate - mashraya
 overpass - supre  
 own (possess, have) - mala  
 owner (proprietor) - malan  
-oxeye daisy - bakomargarite  
+oxeye daisy - baki margarite  
 oxide - okside  
 oxygen - okse  
 ####P - P  
@@ -2792,7 +2799,7 @@ praise (eulogy) - euloge
 praseodymium - prasedium  
 pray (beg, entreat, implore) - dua  
 prayer - dua  
-precious - bavi  
+precious - bau li  
 precise (exact, accurate) - justi  
 predate (be before) - chena  
 prefer (favor) - mashfila  
@@ -2807,7 +2814,7 @@ press (imprint) - chapa
 previous (fore) - cheni  
 prick (sting) - pina  
 priest (cleric) - din guru  
-primary school (elementary school, gradeschool) - bazoshulkan  
+primary school (elementary school, gradeschool) - baze shula kan  
 prime minister - shefe minister  
 print (stamp) - chape  
 prison (imprisonment) - prizon  
@@ -2849,7 +2856,7 @@ public - demo li
 pudding - puding  
 Puerto Rican - portoriki  
 Puerto Rico - Portorikia  
-pufferfish - balonpesh  
+pufferfish - balon pesh  
 pull (draw, drag) - tira  
 pump - pompa  
 Punjabi - panjabi  
@@ -2976,7 +2983,8 @@ rhyme (verse) - rim
 rhythm (beat) - ritim  
 rib cage - sinokapse  
 rice - ris  
-rice wine - risvin  
+rice cake (puffed rice cake) - ris biskute  
+rice wine - ris vin  
 rich - richi  
 right (correct, accurate) - sahi  
 right (entitlement) - haki  
@@ -2990,8 +2998,8 @@ ring (toll, clang) - danga
 ring - ring  
 rip current - tiroriu  
 rise (go up) - gavu  
-risk - riske  
-risky - riski  
+risk - risko  
+risky - risko di  
 ritual (ceremony, religious custom) - puja rite  
 river (stream) - riu  
 road sign - dau ban  
@@ -3068,8 +3076,8 @@ Saint Vincent - Sante Vinsente
 Saint Vincent and Grenadines - Sante Vinsente e Grenadine  
 salad - salade  
 salmon (trout) - salmon  
-salt - salte  
-salty (saline) - salti  
+salt - sale  
+salty (saline) - sale di  
 samarium - samarium  
 same (equal, alike, match) - sam  
 Samoa - Samoa  
@@ -3200,7 +3208,7 @@ short story - korte kata
 shorten - korte fa  
 should (ought) - selu  
 shoulder - kante  
-shovel (spade, scoop) - bel  
+shovel (spade, scoop) - bele  
 show (display, exhibition) - shou  
 shower - dush  
 shrimp (prawn) - krevete  
@@ -3315,6 +3323,7 @@ soy sauce - soi sos
 space (character) - hali harfi  
 space (cosmos, universe) - kosmo  
 spaceship - kosmo nave  
+spade - parke bele  
 Spain - Espanya  
 sparse (scattered) - an jami li  
 speak (talk, language, communication) - basha  
@@ -3464,7 +3473,7 @@ systemic - sistem li
 ####T - T  
 table - meze  
 table of contents (inventory) - inliste  
-tablecloth - mezotesh  
+tablecloth - meza texe  
 tablette computer - tablokomputer  
 tabulate - tabla date  
 tactics (strategy) - tatike  
@@ -3533,7 +3542,7 @@ tent - hemah
 tentacle (feeler) - senter  
 tera- - tera*  
 terbium - terbium  
-terracotta - bekofan  
+terracotta - baka fan  
 terrain - geo forme  
 terror - teror  
 terrorism - teroristia  
@@ -3572,7 +3581,7 @@ thirst - suiyau
 this - i  
 thistle - kardon  
 thorium - torium  
-thorn tree (acacia) - babul  
+thorn tree (acacia, wattle) - babul  
 thought (idea) - fikir  
 thousand (kilo-) - kili  
 three (3) - tri  
@@ -3639,7 +3648,7 @@ tower - minar
 town - nagar  
 toxic (poisonous, venomous) - toksi  
 toxicology - toksilogi  
-toxin - bio tokse  
+toxin - bio toxe  
 tract (land, ground, region) - istan  
 tractor - trater  
 trade (commerce, buying and selling) - vende shope  
@@ -3712,7 +3721,7 @@ unbeliever (infidel) - an din ja
 uncover (reveal) - an daka  
 under - nicho  
 underestimate - minraya  
-undergo (passivizing verb) - beyu  
+undergo (passivizing verb) - be  
 underground (subterrainean) - geo niche di  
 underside (underneath) - niche  
 understand (realize) - aha  
@@ -3762,7 +3771,7 @@ vampire squid - vampir ohtopus
 vanadium - vanadium  
 vanilla - vanil  
 Vanuatu - Vanuatu  
-various (diverse, miscellaneous) - balibali  
+various (diverse, miscellaneous) - vari  
 vault (arched ceiling or roof) - arka chati  
 vegan - purfityamiste  
 veganism - purfityamistia  
@@ -3788,6 +3797,7 @@ view (vision) - vide she
 village - chun  
 vine - eskalotan  
 vinegar - vin suan  
+vineyard - putau bagi  
 vinyl - vinil  
 virgin - virje  
 Virgin Islands, U####S - Virjin nesia  
@@ -3929,6 +3939,7 @@ xenon - xenon
 ####Y - Y  
 Yahweh (Jehovah) - Yahve  
 yak - yake  
+yard (garden) - bagi  
 yay! (yeah!) - yei  
 year - nen  
 yeast - hamir  
@@ -3964,7 +3975,7 @@ zipper (zip) - zipa
 zircon - zirkon  
 zirconium - zirkonium  
 zombie - zombi  
-zoo (zoological garden) - zou parke  
+zoo (zoological garden) - zou bagi  
 zoogeography - zou geo grafi  
 zoological - zou logi di  
 zoology - zou logi  

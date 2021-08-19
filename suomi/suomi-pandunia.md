@@ -50,14 +50,14 @@ ajaa (kuskata) - shofa
 ajatella (miettiä) - fikir  
 ajattelun, olemisen tai ihmisten ala tai alue - ya  
 ajatus - fikir  
-akaasia - babul  
+akaasia - akacia  
 akku (paristo) - bateri  
 akseli - axe  
 aktinium - acinium  
 akvaario - peshtanke  
 ala (pinta-ala) - area  
 ala- - nichi  
-ala-aste - bazoshulkan  
+ala-aste - baze shula kan  
 Alankomaat (Hollanti) - Nederlandia  
 Alankomaiden Antillit - Nederlandi Antil  
 alapuoli - niche  
@@ -135,8 +135,8 @@ arboretum (puulajipuisto) - mokojongoparke
 Argentiina - Argentina  
 argon - argon  
 Ariel - Ariel  
-arkkitehti - binplaner  
-arkkitehtuuri - binplania  
+arkkitehti - bina plan ja  
+arkkitehtuuri - bina plan  
 Arktis - Artika  
 armeija (sotajoukko) - gun  
 Armenia - Hayaki  
@@ -148,7 +148,7 @@ arvio (arvostelu, kritiikki) - piping
 arvioida (arvostella, kritisoida) - pipinga  
 arvioida - fa yagu  
 arvo - valu  
-arvokas - bavi  
+arvokas - bau li  
 arvostelija (kriitikko) - pipinger  
 arvottaa - fa valu  
 ase - arme  
@@ -200,24 +200,24 @@ avokado - avakate
 Azerbaidžan - Azerbaijan  
 ####B - B  
 baari (kapakka) - bar  
-baari (kapakka) - birkan  
+baari (kapakka) - bir kan  
 backgammon - narde  
-bahailainen - bahayiste  
-bahailaisuus - bahayistia  
+bahailainen - baha din ja  
+bahailaisuus - baha din  
 Bahama-saaret - Bahama  
 Bahrain - Bahrain  
 bambu - bambu  
 banaani - banana  
-Bangladesh - Bangladesha  
+Bangladesh - Bangla desha  
 barbaari (raakalainen) - barbar  
 Barbados - Barbados  
 Barbuda - Barbuda  
 barium - barium  
-baseball (amerikkalainen pesäpallo) - bazobol  
+baseball (amerikkalainen pesäpallo) - baze bol  
 baskeri (baretti) - bere  
 bataatti - kamote  
 beduiini - badavi  
-Belgia - Belgia  
+Belgia - Belgi  
 beli (B) - bel  
 Belize - Belize  
 bengali - bangla basha  
@@ -229,8 +229,8 @@ Bermuda - Bermuda
 berylli - berilium  
 betoni - beton  
 Bhutan - Butan  
-biologia - biologi  
-biologinen sukupuoli - biyi jinse  
+biologia - bio logi  
+biologinen sukupuoli - bio jinse  
 biseksuaali - dulseksi  
 blini - rusia krepe  
 blogi (nettikolumni) - bloge  
@@ -339,7 +339,7 @@ eläinmaantiede - zou geo grafi
 eläinmyrkky (zootoksiini) - zou toxe  
 eläinrakkaus - zou filia  
 eläinsatu - zou kata  
-eläintarha - zou parke  
+eläintarha - zou bagi  
 eläintiede (zoologia) - zou logi  
 eläintieteellinen - zou logi di  
 elämä (olemassaolo) - jiu  
@@ -545,11 +545,12 @@ haureus (uskottomuus) - zina
 hauska (huvittava) - van di  
 hauta - gabur  
 hautakivi - gabur sheke  
-hautausmaa - gabur istan  
+hautausmaa - gabur bagi  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
 he - yamen  
 hedelmä - frute  
+hedelmätarha - frute bagi  
 hei (haloo) - halo  
 heidän - yamen di  
 heijastaa (peilata) - mira  
@@ -651,7 +652,7 @@ huomio (kommentti, merkintä) - note
 huone - kamar  
 hurma (lumo, tenho) - fasinia  
 hurraa (hurrata) - ura  
-huuli - labe  
+huuli - labi  
 huume - droge  
 huumori - yumor  
 huutaa - krita  
@@ -686,13 +687,13 @@ hyökkääjä - agreser
 hyökkäävä (aggressiivinen) - agresivi  
 hyöky (vyöry) - dairiu  
 hyökätä (käydä päälle) - agresa  
-hyönteinen (ötökkä) - konchung  
+hyönteinen (ötökkä) - dudu  
 hyöty (etu) - faide  
 hyötyaines - faidomate  
 häh (-ko, -kö) - he  
 häiritä (vaivata) - turba  
 häiriö (vaiva) - turbe  
-häkki - baton kapse  
+häkki - baton kasa  
 hämmästys (ihmetys) - ajibu  
 hämähäkinverkko - arane nete  
 hämähäkki - arane  
@@ -750,10 +751,10 @@ inhota - an ai
 inkivääri - zinji  
 insinööri - enjener  
 internet - internete  
-Intia - Bartia  
+Intia - Barti  
 intiaani (Amerikan alkuperäisasukas) - asal Amerka jan  
-intialainen - barte  
-Intian valtameri - Barte Hai  
+intialainen - barti  
+Intian valtameri - Barti Hai  
 introspektio - introspete  
 ioni - iyon  
 Irak - Iraki  
@@ -882,6 +883,7 @@ järjestää (järjestellä) - ratiba
 järki (järkeily, päättely) - razon  
 jäsen (osatekijä, komponentti) - member  
 jäte (hylkytavara) - lash  
+jäteastia (roskakori, roskis) - laji tong  
 jättää (hylätä) - lasha  
 jää - ais  
 jäädä jäljelle - restu  
@@ -899,6 +901,7 @@ kaasu - gas
 kaasumainen - gasi  
 kaasuttaa - gasa  
 kaasuuntua - gasu  
+kaatopaikka - laji bagi  
 kade (kateellinen) - jelosi  
 kadmium - kadmium  
 kahdeksan (8) - bato  
@@ -1013,7 +1016,7 @@ kaura - ave
 Kazakstan - Kazakia  
 kebab (grilliliha) - kababu nama  
 kehitys - darjomute  
-keho (ruumis) - bode  
+keho (ruumis) - badan  
 kehonrakennus (bodaus) - muskulbin  
 kehys (raamit) - frem  
 kehä (ottelualue) - ringar  
@@ -1086,7 +1089,7 @@ kieli (elin) - lisan
 kieliopillinen - basha kanun li  
 kieliopillinen suku - bashi jinse  
 kielioppi - basha kanun  
-kielitiede (lingvistiikka) - bashalogi  
+kielitiede (lingvistiikka) - basha logi  
 kielletty - harami  
 kieltää - harama  
 kieltää - nega  
@@ -1154,7 +1157,7 @@ koe (testi, yritys) - teste
 kohtelias (kiltti) - kechi  
 kohti (päin) - verse  
 koira - vaf  
-koivu - berje  
+koivu - betula  
 kokata (laittaa ruokaa) - kuka  
 kokki - kuker  
 koko (kokonainen) - holi  
@@ -1314,7 +1317,7 @@ kuvanveistäjä - eskulter
 kuvaruutu - ekran  
 kuvitella - fantaza  
 Kuwait - Kuvaitia  
-kykenevä (voiva) - bilja  
+kykenevä (voiva) - bil ja  
 kyllä - ye  
 kylmä - lengi  
 kylpeä - banya  
@@ -1390,18 +1393,18 @@ lamppu - lampa
 lantaani - lantanium  
 Laos - Lau  
 laoslainen - lavi  
-lapio - bel  
+lapio - bele  
 lapislatsuli - lazurpetre  
 lappo - riutube  
 lapsenlapsi - benben  
 lapsi (jälkeläinen) - ben  
-lapsi - bache  
+lapsi - bacha  
 lasagne - lazanya  
 lasi - kanche  
 laskea (tehdä laskutoimitus) - hisaba  
 laskea tasoa - dusdarja  
 laskeutua - an eskala  
-lasku (faktuura) - bil  
+lasku (faktuura) - fatura  
 lasku (laskelma) - hisabu  
 laskuoppi (aritmetiikka) - hisabia  
 latinalaiset aakkoset - latini harfia  
@@ -1422,9 +1425,9 @@ lehti (arkki, levy) - varka
 lehti (sanomalehti) - gazeta  
 lehtisalaatti - letis  
 leijona - sing  
-leipoa - beka  
-leipomo - bekokan  
-leipuri - beker  
+leipoa - baka  
+leipomo - baka kan  
+leipuri - baka ja  
 leipä - pan  
 leiri - kampe  
 leirintäalue - kampistan  
@@ -1513,7 +1516,7 @@ luhistuminen - inploze
 luiska (ramppi) - rampe  
 lukea - duga  
 lukitsematon - an sora li  
-luku (kirjan osa) - babe  
+luku (kirjan osa) - babu  
 lukumäärä (luku, numero) - numbe  
 lumi - hima  
 lumme - nenufar  
@@ -1561,7 +1564,7 @@ lämpötila - termo
 länsi - veste  
 läntinen - veste di  
 läpikulku - transe  
-läpikäydä (passiivin muodostava verbi) - beyu  
+läpikäydä (passiivin muodostava verbi) - be  
 läsnä oleva - zai di  
 läsnäolo - zaita  
 lätty (räiskäle, pannukakku) - krepe  
@@ -1602,7 +1605,7 @@ magneetti - manete
 magneettinen - maneti  
 magnesium - magesium  
 maha (vatsa) - pete  
-mahdollisuus (taito, kyky) - bilta  
+mahdollisuus (taito, kyky) - bil ta  
 mahdollisuus (tilaisuus) - chanse  
 mahjong - majang  
 maissi - mais  
@@ -1745,7 +1748,7 @@ molemminpuolinen (keskinäinen) - unali
 molybdeeni - molidenium  
 Monaco - Monako  
 monarkki (kuningas, kuningatar) - raja  
-monenlainen - balibali  
+monenlainen - vari  
 mongoli - mongoli  
 Mongolia - Mongolia  
 moni (usea) - multi  
@@ -1779,7 +1782,7 @@ mukaan lukien - inkluso
 mukava (kiva, miellyttävä) - hushi  
 mukulakivi - sirkosheke  
 muna - anda  
-munakoiso - bedinje  
+munakoiso - bedinjan  
 munuainen - nefre  
 munuaistulehdus (nefriitti) - nefre flame  
 muoto - forme  
@@ -1802,7 +1805,7 @@ mutta - ama
 muu (toinen) - alo  
 muuli - iha uma  
 muumio - mumjan  
-muunsukupuolinen - bis  
+muunsukupuolinen - nobi  
 muurahainen - murche  
 muusikko - muziker  
 muutama (pari-kolme) - duli o sani  
@@ -1833,6 +1836,7 @@ määritellä (luonnehtia) - sifa
 määritetyn määritteeseen liittävä partikkeli - da  
 määrä (päämäärä, kohtalo) - nasibe  
 määrätä - gola  
+mörkö - bubu  
 ####N - N  
 naamio (maski) - maske  
 naaras - fem  
@@ -2085,8 +2089,8 @@ pandunia - pandunia
 pandunian puhuja - panduniste  
 pandžabi (eräs intialainen kieli) - panjabi  
 paneurooppalainen - paneuropi  
-pankki - banke  
-pankkiiri - banker  
+pankki - banka kan  
+pankkiiri - banka shefe  
 panna (asettaa) - poza  
 panna (asettaa, sijoittaa) - loka  
 panna jkn maate - kusha  
@@ -2142,13 +2146,13 @@ perjantai - var penta
 persia (farsi) - farsi  
 Peru - Peru  
 peruna (potaatti) - patate  
-perus- - bazi  
-peruskallio - bazopetre  
+perus- - baze di  
+peruskallio - baze petra  
 perusta (perustus) - baze  
-perustaa - baza  
-perustaja - bazer  
+perustaa - fa baze  
+perustaja - baze ja  
 perustelu (argumentti) - argum  
-perustuslaki - bazokanun  
+perustuslaki - baze kanun  
 peräaukko (anus) - anus  
 pestä - vashi  
 pesukone - fuku vashi gi  
@@ -2315,6 +2319,7 @@ putki (tuubi) - tube
 puu - moke  
 puuaines - mokomate  
 puuseppä - mokojanger  
+puutarhalapio - parke bele  
 puuteri - muka fun  
 puuvilla - goton  
 pyhä - sante  
@@ -2359,11 +2364,12 @@ päätön - sar na di
 pöly (tomu) - fun  
 pölynimuri - fun chupa gi  
 pöytä - meze  
-pöytäliina - mezotesh  
+pöytäliina - meza texe  
+pöö! - bu!  
 Qatar - Katar  
 ####R - R  
-Raamattu - biblia  
-raamatullinen - bibli  
+Raamattu - Biblia  
+raamatullinen - Biblia di  
 raastaa - chirchira  
 raastettu - chirchiri  
 radioaktiivinen - iyoni radi  
@@ -2379,8 +2385,8 @@ raja - limite
 rakas (armas) - ami  
 rakastaa romanttisesti - romansa  
 rakastaja - ai ja  
-rakennus (rakenne) - bin  
-rakentaa - bina  
+rakennus (rakenne) - bina  
+rakentaa - fa bina  
 raketti - rokete  
 rakkaudenjumala - kama deu  
 rakkaus (tykkääminen) - ai  
@@ -2422,7 +2428,8 @@ rhenium - renium
 rhodium - rodium  
 riippumatto - hamake  
 riisi - ris  
-riisiviina - risvin  
+riisikakku - ris biskute  
+riisiviina - ris vin  
 riita (kiista) - palabe  
 rikas - richi  
 rikki (palasina) - parchi  
@@ -2431,8 +2438,8 @@ rikos - krim
 rikos- (rikollinen) - krimi  
 rinta - sine  
 rintakehä - sinokapse  
-riski - riske  
-riskialtis - riski  
+riski - risko  
+riskialtis - risko di  
 risteytys (hybridi) - hibride  
 risti - krus  
 ristiinnaulita - krusfiksa  
@@ -2473,7 +2480,7 @@ Ruotsi - Suenia
 rusina - ganputau  
 ruskea - brun  
 ruukku (kannu, maljakko, karahvi) - jar  
-ruumiillinen - bodi  
+ruumiillinen - badan di  
 ruusu - roze  
 ruuti - barude  
 ruuvi - vita  
@@ -2528,7 +2535,7 @@ sanaluettelo - logoliste
 sanasto - logia  
 sankari (urho) - hero  
 sankaritaru (legenda) - hero kata  
-sanko (ämpäri) - balde  
+sanko (ämpäri) - baldi  
 sanoa (puhua) - loga  
 sanomalehti - habar gazeta  
 Sao Tome ja Principe - Sante Tome e Prinsipe  
@@ -2749,8 +2756,8 @@ suodattaa - filter
 suojakilpi - defban  
 suojakypärä - defkaske  
 suojella (suojata, turvata) - sekura  
-suola - salte  
-suolainen - salti  
+suola - sale  
+suolainen - sale di  
 suomalainen - suomi  
 Suomi - Suomi  
 suora - orti  
@@ -2789,7 +2796,7 @@ symmetria - sammetre
 synnyttää - jena  
 synti (paha teko) - duskar  
 synty (syntymä) - jen  
-syntymäpaikka - jenistan  
+syntymäpaikka - jen loka  
 syntymäpäivä - jenden  
 syntyä - jenu  
 syreeni - lila  
@@ -2856,8 +2863,8 @@ taloustiede (ekonomia) - malnomia
 talvi - leng mosim  
 talvinen - lengomosimi  
 tamil (eräs intialainen kieli) - Tamil  
-tammenterho - balutopal  
-tammi - balute  
+tammenterho - baluta frute  
+tammi - baluta  
 tammikuu - mes un  
 tammipeli - damgem  
 tanakh - tanah  
@@ -2878,10 +2885,11 @@ tapaus (seikka) - kas
 tapetti - murkaguje  
 tappaa - morte fa  
 tappaja - morter  
+tarha (piha) - bagi  
 tarha (puisto) - parke  
 tarkistaa (tsekata) - cheka  
 tarkka (täsmällinen) - justi  
-tarpeeksi (riittävästi) - basi  
+tarpeeksi (riittävästi) - basa  
 tarpeellinen - yau di  
 tarpeeton - no yau di  
 tarra - glute grafi  
@@ -2993,7 +3001,7 @@ toistaa - reya
 toisto - ri  
 toivoa - asha  
 toivoton - asha na di  
-toksiini - bio tokse  
+toksiini - bio toxe  
 toksikologia (myrkkyoppi) - toksilogi  
 tomaatti - tomate  
 Tonga - Tonga  
@@ -3174,7 +3182,7 @@ vahingoittaa (vaurioittaa) - fa avar
 vahingollinen (vaurioittava) - avar ja  
 vahvistaa (voimistaa) - forta  
 vaihe (etappi) - faze  
-vaihtaa - badla  
+vaihtaa - badal  
 vaihtoehto - chuzable  
 vaijeri (metallilanka) - metallin  
 vaikeus (hankaluus) - dushal  
@@ -3302,6 +3310,7 @@ viimeinen - finodi
 viini - vin  
 viinipanimo - vin kan  
 viinirypäle - putau  
+viinitarha - putau bagi  
 viisas - sofi  
 viisaus - sofita  
 viisi (5) - penta  
@@ -3337,6 +3346,7 @@ Višnu - Vishnu
 voi - makan  
 voida (osata, pystyä, mahdollinen, ehkä) - bil  
 voileipä - sanduiche  
+voileipäkeksi - sale biskute  
 voima - fortia  
 voimakas (vahva) - forti  
 voipuu - karite  

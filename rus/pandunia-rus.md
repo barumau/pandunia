@@ -21,6 +21,7 @@ air porte - аэропорт
 ais hoki - хокке́й с ша́йбой  
 ais krem - мороженое  
 ajila - спешить  
+akacia - акация  
 akare - клещ (лепта)  
 ala - изменять  
 alga - водоросли  
@@ -86,18 +87,22 @@ avar - повреждение (авария)
 ave - овёс  
 axe - ось  
 ####B - B  
-babe - глава  
-babul - акация  
-bache - ребёнок  
+babu - глава  
+babul - вахелия  
+bacha - ребёнок  
 badam - миндаль  
+badan - тело  
 bagaje - багаж  
 bagre - тигр  
-bagroselote - онцилла  
+bagre oselote - онцилла  
+baka fan - терракота  
+baka ja - хлебопёк (пекарь)  
+baka kan - пекарня (булочная)  
 baki - белый  
-bakomargarite - нивяник обыкновенный (ромашка)  
-bakosalmon - кета  
-balonpesh - иглобрюховые  
-balute - дуб  
+baki margarite - нивяник обыкновенный (ромашка)  
+baki salmon - кета  
+balon pesh - иглобрюховые  
+baluta - дуб  
 bambu - бамбук  
 bamia - окра (бамия)  
 ban - доска (панель)  
@@ -105,7 +110,7 @@ ban gem - настольная игра
 banana - банан  
 banda - банда  
 bandera - флаг  
-banke - банк  
+banka kan - банк  
 banya - купание  
 banya - купаться  
 banya kamar - ванная  
@@ -113,49 +118,44 @@ bara - преграждать
 bara - барьер  
 barde - борода  
 bari - ноша  
+basa - достаточно (довольно)  
 basen - бассейн  
 basha - язык  
 bashi jinse - род в грамматике  
-basi - достаточно (довольно)  
 baske bol - баскетбол  
 bateri - батарея  
 bato - восемь (8)  
 baton - штанга  
-baton kapse - клетка  
+baton kasa - клетка  
 bau - сокровище (казна)  
+bau li - драгоценный  
 bau sheke - драгоценный камень  
-bavi - драгоценный  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
-bazobol - бейсбол  
-bazoshulkan - семилетка  
+baze bol - бейсбол  
+baze shula kan - семилетка  
 bebe - младенец  
-beker - хлебопёк (пекарь)  
-bekofan - терракота  
-bekokan - пекарня (булочная)  
-bel - лопата  
+bele - лопата  
 beri - ягода  
-berje - берёза  
 bete - свёкла  
+betula - берёза  
 bil - возможный  
-bil - счёт  
 bilor - кристалл  
-bina - строить  
-binplaner - архитектор  
-binplania - архитектура  
+bina plan - архитектура  
+bina plan ja - архитектор  
 bio - органический  
-bio tokse - токсин  
+bio jinse - биологический пол  
+bio logi - биология  
+bio toxe - токсин  
 bio vute - организм  
-biologi - биология  
 bir - пиво  
-biyi jinse - биологический пол  
+biskute - печенье (бисквит)  
 biyochaniver - компост  
 biyomutu - заквасить  
 biyosistem - биом  
 biznes - предприятие (бизнес)  
 blu - синий (голубой)  
 blu elfe - смурф (штрумпф)  
-bode - тело  
 boi - поплавок (буй)  
 bokse - бокс  
 bokser - боксёр  
@@ -174,6 +174,8 @@ briko - абрикос
 brun - коричневый  
 brun alga - бурые водоросли  
 brun salmon - кумжа  
+bu! - бу  
+bubu - бука  
 bucher - мясник  
 buchokan - бойня  
 Buda - Будда  
@@ -264,6 +266,7 @@ dosili - кроткий
 dosiljenita - одомашнивать  
 dosti - приятный (добрый)  
 du - два (2)  
+dudu - насекомое  
 duga - читать  
 dulbashi - двуязычный  
 duli o sani - пара  
@@ -316,6 +319,7 @@ europobalute - дуб черешчатый
 evanjil - евангелие  
 ####F - F  
 fa - делать  
+fa bina - строить  
 fa dante - откусить  
 fa valu - оценивать  
 faidia - применение (утилитарность)  
@@ -328,6 +332,7 @@ fasteli - глубокий
 fastelia - мелкий  
 fatigia - усталость  
 fatigu - устать  
+fatura - счёт (фактура)  
 faze - фаза  
 fei - полёт  
 feimush - летучая мышь  
@@ -354,6 +359,7 @@ foto minar - маяк
 frem - рама  
 frika - царапать  
 frute - плод (фрукт)  
+frute bagi - фруктовый сад  
 fuka - одевать  
 fuke - одежда  
 fuki - оде́тый  
@@ -365,7 +371,7 @@ fute marke - след ноги
 ####G - G  
 ga - если  
 gabur - могила (гроб, хоронить)  
-gabur istan - кладбище  
+gabur bagi - кладбище  
 gabur sheke - надгробие  
 galaksia - галактика  
 Galia - Галлия  
@@ -504,11 +510,11 @@ jangal - лес (джунгли)
 jar - кувшин (графин)  
 jau - ячмень  
 javabe - ответ  
+jen loka - место рождения  
 jena - родить  
 jengrupe - поколение  
 jeni - сырой  
 jeni bash - родной язык  
-jenistan - место рождения  
 jenita - выращивать  
 jenolojia - генеалогия  
 jentipe - генотип  
@@ -620,7 +626,6 @@ ko? - как
 koda - хвост  
 komputer - компьютер  
 konboni - соответствовать (сочетаться)  
-konchung - насекомое  
 konformu - применяться (согласоваться)  
 konga - пробиться  
 konkara - сотрудничать (кооперировать)  
@@ -663,6 +668,8 @@ kushu - лежать
 ####L - L  
 lai - приходить  
 laji - мусор (дрянь)  
+laji bagi - свалка  
+laji tong - мусорный бак  
 lal - красный  
 lal bau sheke - рубин  
 lal linche - рыжая рысь  
@@ -786,8 +793,8 @@ mester - мастер
 metalbede - наковальня  
 metregraf - карта  
 metregrafia - картография  
+meza texe - скатерть  
 meze - стол  
-mezotesh - скатерть  
 mi - я  
 migre - миграция  
 migru - переезжать  
@@ -1002,6 +1009,7 @@ pura - заполнять
 purfityamiste - веган  
 puri - полный  
 purshipa - мариновать  
+putau bagi - виноградник  
 putau oranje - грейпфрут  
 ####R - R  
 radio - радио  
@@ -1024,7 +1032,7 @@ ri - повторение
 rim - рифма  
 ringar - ринг (манеж)  
 ris - рис  
-risvin - рисовое вино  
+ris vin - рисовое вино  
 ritim - ритм (такт)  
 riu - река  
 riutube - воронка  
@@ -1053,8 +1061,8 @@ sahi - правильный
 saida - охотиться  
 salame - приветствие  
 salamia - благосостояние  
+sale - соль  
 salsafia - гигиена  
-salte - соль  
 samemos - сострадание  
 sammetre - симметрия  
 samrayia - согласие  
@@ -1356,10 +1364,10 @@ zona - пояс (зона)
 zong - кол  
 zong minte - мята колоси́стая  
 zou - животное  
+zou bagi - зоопарк  
 zou kata - басня  
 zou logi - зоология  
 zou logi di - зоологический  
-zou parke - зоопарк  
 zuku - этнос  
 zuku di - этнический  
 zuku medi di - межэтнический  

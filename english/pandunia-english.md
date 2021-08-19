@@ -40,6 +40,7 @@ ajibu - marvel (wonder)
 ajibu - awe (wonder)  
 ajibu li - amazing (astonishing)  
 ajila - hurry (hasten)  
+akacia - acacia  
 akare - tick (mite)  
 ala - change (make different)  
 Alaska - Alaska  
@@ -211,32 +212,38 @@ ave - oat
 axe - axis (axle)  
 Azerbaijan - Azerbaijan  
 ####B - B  
-babe - chapter (section)  
+babu - chapter (section)  
 babuche - slipper  
-babul - thorn tree (acacia)  
-bache - child (minor)  
+babul - thorn tree (acacia, wattle)  
+bacha - child (minor)  
+badal - exchange (swap, replace, trade)  
 badam - almond  
+badan - body  
+badan di - bodily (corporal)  
 badavi - bedouin (nomadic)  
-badla - exchange (swap, replace, trade)  
 bagaje - luggage (baggage)  
+bagi - yard (garden)  
 bagre - tiger  
-bagroselote - oncilla  
+bagre oselote - oncilla  
 bah - bah  
+baha din - Baha'ism  
+baha din ja - Baha'ist  
 Bahama - Bahamas  
-bahayiste - Baha'ist  
-bahayistia - Baha'ism  
 Bahrain - Bahrain  
 bai - bay (gulf)  
+baka - bake  
+baka fan - terracotta  
+baka ja - baker  
+baka kan - bakery (bakehouse)  
 baki - white  
-bakochoi - bok choy  
-bakomargarite - oxeye daisy  
-bakosalmon - chum salmon  
-balde - bucket  
-balibali - various (diverse, miscellaneous)  
+baki choi - bok choy  
+baki margarite - oxeye daisy  
+baki salmon - chum salmon  
+baldi - bucket  
 balon - balloon  
-balonpesh - pufferfish  
-balute - oak tree  
-balutopal - acorn  
+balon pesh - pufferfish  
+baluta - oak tree  
+baluta frute - acorn  
 bambu - bamboo  
 bamia - okra (okro)  
 ban - board (pane, panel)  
@@ -247,10 +254,10 @@ bande - tie (fasten, bind)
 bande - band (tape, bandage)  
 bandera - flag (banner)  
 bangla basha - Bengali language (Bangla)  
-Bangladesha - Bangladesh  
+Bangla desha - Bangladesh  
 banka - save (deposit, bank)  
-banke - bank (depository, cache)  
-banker - banker  
+banka kan - bank (depository, cache)  
+banka shefe - banker  
 banya - bath  
 banya - bathe  
 banya kamar - bathroom  
@@ -266,17 +273,17 @@ bari metal - heavy metal
 barium - barium  
 barka - congratulate (bless)  
 barka - congratulations! (blessing, benediction)  
-barte - Indian  
-Barte Hai - Indian Ocean  
-Bartia - India  
+barti - Indian  
+Barti - India  
+Barti Hai - Indian Ocean  
 barude - gunpowder  
+basa - enough (sufficient)  
 basen - pool (basin, bowl)  
 basha - speak (talk, language, communication)  
 basha kanun - grammar  
 basha kanun li - grammatical  
-bashalogi - linguistics  
+basha logi - linguistics  
 bashi jinse - grammatical gender  
-basi - enough (sufficient)  
 baske - basket (basketball hoop)  
 baske bol - basket ball  
 bata - duck  
@@ -284,21 +291,21 @@ bata krote - platypus
 bateri - battery  
 bato - eight (8)  
 baton - bar (pole, rod, shaft, staff, stick)  
-baton kapse - cage  
+baton kasa - cage  
 baton pan - baguette  
 bau - treasure (valuables)  
+bau li - precious  
 bau sheke - gem (gemstone, jewel)  
-bavi - precious  
-baza - found  
 bazar - market (bazaar)  
 bazarhuristia - market liberalism  
 baze - base (foundation)  
-bazer - founder  
-bazi - basic  
-bazobol - baseball  
-bazokanun - consitution  
-bazopetre - bedrock  
-bazoshulkan - primary school (elementary school, gradeschool)  
+baze bol - baseball  
+baze di - basic  
+baze ja - founder  
+baze kanun - consitution  
+baze petra - bedrock  
+baze shula kan - primary school (elementary school, gradeschool)  
+be - undergo (passivizing verb)  
 be ais - freeze (get frozen)  
 be ajibu - wonder (be amazed)  
 be teza - intensify  
@@ -308,17 +315,13 @@ be zai - appear
 be’e - goat  
 bebe - baby (infant)  
 bede - bed  
-bedinje - eggplant (aubergine, brinjal)  
+bedinjan - eggplant (aubergine, brinjal)  
 bega - escape (flee, run away)  
 Beijing - Beijing (Peking)  
-beka - bake  
-beker - baker  
-bekofan - terracotta  
-bekokan - bakery (bakehouse)  
 bel - bel (unit)  
-bel - shovel (spade, scoop)  
 Belarus - Belarus  
-Belgia - Belgium  
+bele - shovel (spade, scoop)  
+Belgi - Belgium  
 Belize - Belize  
 ben - child (offspring)  
 benben - grandchild  
@@ -328,36 +331,32 @@ benzin - gasoline (petrol)
 bere - beret  
 beri - berry  
 berilium - beryllium  
-berje - birch tree  
 berkelium - berkelium  
 Berlin - Berlin  
 Bermuda - Bermuda  
 bete - beetroot  
 beton - concrete (material with cement)  
-beyu - undergo (passivizing verb)  
-bibli - Biblical  
-biblia - Bible  
+betula - birch tree  
+Biblia - Bible  
+Biblia di - Biblical  
 bil - possible (able, can, maybe)  
-bil - bill (invoice)  
-bilja - capable (talent, skillful)  
+bil ja - capable (talent, skillful)  
+bil ta - ability  
 bilor - crystal  
-bilta - ability  
-bin - building (structure)  
-bina - build (construct)  
+bina - building (structure)  
+bina plan - architecture  
+bina plan ja - architect  
 binde - dot (spot)  
-binplaner - architect  
-binplania - architecture  
 bio - life (organic)  
-bio tokse - toxin  
+bio jinse - biological sex  
+bio logi - biology (study of organic life)  
+bio toxe - toxin  
 bio vute - organism (living thing)  
-biologi - biology (study of organic life)  
 bir - beer  
-birkan - bar (pub, beer house)  
-bis - genderqueer (non-binary)  
+bir kan - bar (pub, beer house)  
 Bisau Ginia - Guinea-Bissau  
 biskute - biscuit (cookie)  
 bismute - bismuth  
-biyi jinse - biological sex  
 biyochaniver - compost  
 biyomuti - fermented  
 biyomutu - ferment (leaven)  
@@ -371,8 +370,6 @@ bloge - blog (web log)
 blu - blue  
 blu ceram sing - azure bluet  
 blu elfe - smurf  
-bode - body  
-bodi - bodily (corporal)  
 boi - float (buoy, bobber)  
 boikote - boycott  
 boke - mouth  
@@ -420,6 +417,8 @@ brun salmon - brown trout
 Brunei - Brunei Darussalam  
 brus - sibling (brother or sister)  
 brusben - nephew or niece  
+bu! - boo!  
+bubu - bogeyman  
 bucha - butcher  
 bucher - butcher  
 buchokan - abattoir (slaughterhouse)  
@@ -709,6 +708,7 @@ du - two (2)
 dua - pray (beg, entreat, implore)  
 dua - prayer  
 dubnium - dubnium  
+dudu - insect  
 duga - read  
 duka - sadden (make sad)  
 duke - grief (sorrow)  
@@ -873,6 +873,8 @@ fa an galta - debug
 fa an karma - deactivate (disable, turn off)  
 fa asar - effect (bring about)  
 fa avar - harm (damage)  
+fa baze - found  
+fa bina - build (construct)  
 fa dante - bite  
 fa ja - doer (agent)  
 fa karma - activate (enable, turn on, trigger)  
@@ -921,6 +923,7 @@ fastelia - depth
 fate - deed (fact)  
 fatigia - fatigue (weariness)  
 fatigu - get tired (become weary)  
+fatura - bill (check, invoice)  
 favor - favor (goodwill)  
 faze - stage (phase)  
 febre - fiever  
@@ -1031,6 +1034,7 @@ francium - francium
 frem - frame  
 frika - rub (scrape, scrub)  
 frute - fruit  
+frute bagi - orchard  
 frute cana - fertilize  
 frute cana ja - fertilizer  
 fuga - return (restore, recover, resume)  
@@ -1059,7 +1063,7 @@ futoban - scaffolding (gangplank)
 ga - if (suppose, assume)  
 Gabon - Gabon  
 gabur - grave (tomb, bury)  
-gabur istan - graveyard (cemetery, burial ground)  
+gabur bagi - graveyard (cemetery, burial ground)  
 gabur sheke - tombstone (gravestone)  
 gadolinium - gadolinium  
 gaja - elephant  
@@ -1522,6 +1526,7 @@ jekologe - loanword
 jel - gel (jelly)  
 jelosi - jealous  
 jen - birth  
+jen loka - birthplace  
 jena - give birth (beget, generate, breed)  
 jenden - birthday  
 jeng - fight (war, battle, combat)  
@@ -1531,7 +1536,6 @@ jengoshute - martial art
 jengrupe - generation (cohort)  
 jeni - raw (crude)  
 jeni bash - native language (mother tongue)  
-jenistan - birthplace  
 jenita - breed  
 jenklas - caste  
 jenolojia - genealogy (study of descent)  
@@ -1845,7 +1849,6 @@ konbash - common language
 konboni - match (fit, suit, go well together)  
 konchaniste - communist  
 konchanistia - communism  
-konchung - insect  
 konformu - conform (fit, mold)  
 konfunchabli - compatible (supported)  
 kong - hole  
@@ -1953,11 +1956,13 @@ kushloke - berth (couchette)
 kushu - lie (lie down)  
 Kuvaitia - Kuwait  
 ####L - L  
-labe - lip  
+labi - lip  
 lage - lake  
 Lagos - Lagos  
 lai - come (arrive)  
-laji - garbage (rubbish, trash)  
+laji - garbage (rubbish, trash, waste)  
+laji bagi - dump (junk yard)  
+laji tong - garbage can (trash bin)  
 laka - lacquer (varnish)  
 lal - red  
 lal bau sheke - ruby  
@@ -2301,9 +2306,9 @@ metre gi - meter (measuring device)
 metregraf - map (chart)  
 metregrafia - cartography  
 metrun - unit (measurement)  
+meza texe - tablecloth  
 meze - table  
 mezistan - plateau (tableland)  
-mezotesh - tablecloth  
 mi - I (me)  
 mi di - my  
 mien - noodle  
@@ -2557,6 +2562,7 @@ Niue - Niue
 no - not (no)  
 no yau di - unnecessary (extraneous, unneeded)  
 nobelium - nobelium  
+nobi - genderqueer (non-binary)  
 noche - night  
 nochomode - night mode  
 noda - tie a knot  
@@ -2736,6 +2742,7 @@ pari numbe - even number
 parike - peer  
 Paris - Paris  
 parke - park (garden)  
+parke bele - spade  
 parlini - parallel (longitudinal)  
 parlinu - align (go along)  
 parne - fern  
@@ -2969,6 +2976,7 @@ purshipa - soak (steep, marinate)
 pusha - push  
 pusher - piston  
 putau - grape  
+putau bagi - vineyard  
 putau oranje - grapefruit  
 putong - common (general)  
 Putong Han - Mandarin Chinese (Putonghua)  
@@ -3055,9 +3063,10 @@ rim - rhyme (verse)
 ring - ring  
 ringar - ring (sports or exhibition arena)  
 ris - rice  
-riske - risk  
-riski - risky  
-risvin - rice wine  
+ris biskute - rice cake (puffed rice cake)  
+ris vin - rice wine  
+risko - risk  
+risko di - risky  
 rite - custom (tradition, practice, convention)  
 riti - conventional (customary, traditional)  
 ritim - rhythm (beat)  
@@ -3160,14 +3169,15 @@ salam yam - bon appetit!
 salama - greet  
 salame - greeting (hello)  
 salamia - well-being (prosperity)  
+sale - salt  
+sale biskute - cracker (soda cracker)  
+sale di - salty (saline)  
 sali - healthy  
 salia - health  
 salmon - salmon (trout)  
 Salon - Sierra Leone  
 salsafi - cleanly (hygienic, sanitary)  
 salsafia - hygiene (cleanliness)  
-salte - salt  
-salti - salty (saline)  
 Salvador - El Salvador  
 sam - same (equal, alike, match)  
 samarium - samarium  
@@ -3769,6 +3779,7 @@ var sete - Sunday
 var tri - Wednesday  
 var un - Monday  
 var var - week  
+vari - various (diverse, miscellaneous)  
 varis - heritage (legacy, bequest)  
 varka - leaf (sheet)  
 varka alga - kelp  
@@ -3951,12 +3962,12 @@ zong - post (stake, peg, skewer)
 zong minte - spearmint  
 zou - animal  
 zou agro shutu - animal husbandry  
+zou bagi - zoo (zoological garden)  
 zou filia - zoophily  
 zou geo grafi - zoogeography  
 zou kata - fable  
 zou logi - zoology  
 zou logi di - zoological  
-zou parke - zoo (zoological garden)  
 zou toxe - zootoxin  
 zukam - cold (illness)  
 zuku - ethnic group  

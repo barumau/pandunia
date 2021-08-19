@@ -80,19 +80,20 @@ auto loga - 独白
 ave - 燕麦  
 axe - 轴线  
 ####B - B  
-babe - 章  
-bache - 小孩  
+babu - 章  
+bacha - 小孩  
 badam - 杏仁 (巴旦木)  
+badan - 身体  
 bagaje - 行李  
 bagre - 虎  
-bagroselote - 小斑虎貓  
+bagre oselote - 小斑虎貓  
 bah - 呸  
+baka fan - 陶瓦  
 baki - 白  
-bakochoi - 白菜 (小白菜)  
-bakomargarite - 法蘭西菊  
-bakosalmon - 大麻哈鱼 (狗鮭)  
-balibali - 各种各样  
-balute - 橡树 (xiàng)  
+baki choi - 白菜 (小白菜)  
+baki margarite - 法蘭西菊  
+baki salmon - 大麻哈鱼 (狗鮭)  
+baluta - 橡树  
 bambu - 竹子  
 bamia - 秋葵  
 ban - 板子  
@@ -100,52 +101,49 @@ ban gem - 版图游戏
 banana - 香蕉  
 banda - 班  (一帮)  
 bandera - 旗  
-banke - 银行  
+banka kan - 银行  
 banya - 洗澡  
 banya - 游泳  
 banya kamar - 浴室  
 bari - 擔子  
+basa - 够  
 basha - 语言  
-bashalogi - 语言学  
+basha logi - 语言学  
 bashi jinse - 文法的性  
-basi - 够  
 baske bol - 篮球  
 bata - 鸭  
 bateri - 电池  
 bato - 八 (8)  
-baton kapse - 笼  
+baton kasa - 笼  
+bau li - 宝贵  
 bau sheke - 宝石  
-bavi - 宝贵  
 bazar - 市场  
 baze - 底部  
-bazobol - 棒球  
-bazoshulkan - 小学  
+baze bol - 棒球  
+baze shula kan - 小学  
 be ais - 结冰  
 be van - 玩耍  
 be’e - 山羊  
 bebe - 宝宝  
-bekofan - 陶瓦  
-bel - 铲  
+bele - 铲  
 beri - 浆果 (莓)  
-berje - 桦树  
 bete - 甜菜頭  
+betula - 桦树  
 bil - 会 (可能)  
-bil - 帐单  
-bilja - 熟练  
-bina - 建设  
-binplaner - 建筑师  
-binplania - 建筑学  
-bio tokse - 毒素  
+bil ja - 熟练  
+bina plan - 建筑学  
+bina plan ja - 建筑师  
+bio jinse - 生物性別  
+bio logi - 生物学  
+bio toxe - 毒素  
 bio vute - 生物  
-biologi - 生物学  
 bir - 啤酒  
-biyi jinse - 生物性別  
+biskute - 饼干 (曲奇饼)  
 biyomutu - 发酵  
 biyosistem - 生物群系  
 blu - 蓝色  
 blu ceram sing - 茜草花  
 blu elfe - 蓝精灵  
-bode - 身体  
 bokse - 拳击  
 bokser - 拳击手  
 bokserpante - 平角褲  
@@ -161,6 +159,7 @@ Brahma - 梵天
 briko - 杏子  
 brun - 棕色 (色)  
 brun salmon - 褐鳟  
+bubu - 魔鬼  
 bucher - 屠夫  
 buchokan - 屠宰场  
 Buda - 佛陀  
@@ -240,6 +239,7 @@ dosila - 驯养
 dosili - 驯服的  
 du - 二 (2)  
 dua - 祈祷  
+dudu - 昆虫  
 duga - 读 (看)  
 dunia - 世界  
 dur - 时间  
@@ -273,6 +273,7 @@ europobalute - 夏櫟
 evanjil - 福音  
 ####F - F  
 fa - 作  
+fa bina - 建设  
 fa dante - 咬  
 fa vode - 许诺  
 faidia - 效用 (好处)  
@@ -284,6 +285,7 @@ fasilia da akses - 無障礙環境
 fasteli - 深  
 fate - 事实  
 fatigu - 疲劳  
+fatura - 帐单  
 fem - 女  
 feni - 数字的  
 fenkata - 分析  
@@ -311,6 +313,7 @@ foto minar - 信号
 frem - 框  
 frika - 擦伤  
 frute - 果  
+frute bagi - 果园  
 fuke - 衣服  
 fuku - 穿  
 fuku vashi gi - 洗衣机  
@@ -319,7 +322,7 @@ fute marke - 脚印
 ####G - G  
 ga - 如果 (要是)  
 gabur - 坟墓 (埋葬)  
-gabur istan - 公墓 (墓地)  
+gabur bagi - 公墓 (墓地)  
 gabur sheke - 墓石 (墓碑)  
 galaksia - 恆星系  
 Galia - 高卢  
@@ -463,9 +466,9 @@ javabe - 回答
 jeka - 借  
 jekodona - 借出  
 jekogeta - 借入  
+jen loka - 出生地  
 jeni - 生的  
 jeni bash - 母语  
-jenistan - 出生地  
 jenolojia - 系谱学  
 jentipe - 基因型  
 jinse - 性别  
@@ -564,7 +567,6 @@ ko? - 怎么
 koda - 尾巴 (尾部)  
 komputer - 计算机  
 konboni - 相配  
-konchung - 昆虫  
 konkara - 合作  
 kono - 共同 (一起)  
 konseler - 顾问  
@@ -600,6 +602,8 @@ kushu - 躺
 lage - 湖  
 lai - 来  
 laji - 废物 (垃圾)  
+laji bagi - 垃圾场  
+laji tong - 垃圾桶  
 lal - 红  
 lal bau sheke - 红宝石  
 lal linche - 短尾貓  
@@ -718,8 +722,8 @@ metaljanger - 铁匠
 metallin - 线 (铁丝)  
 metregraf - 地图  
 metregrafia - 地图学  
+meza texe - 桌布  
 meze - 桌子  
-mezotesh - 桌布  
 mi - 我  
 migra - 搬家  
 mikrobiologi - 微生物学  
@@ -895,6 +899,7 @@ puma - 美洲獅 (山狮)
 purfina - 完成  
 purfityamiste - 纯素食主义者  
 purshipa - 浸泡  
+putau bagi - 葡萄园  
 putau oranje - 葡萄柚  
 putong - 普通  
 Putong Han - 普通话  
@@ -917,7 +922,7 @@ reya - 重复
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
-risvin - 黄酒 (米酒)  
+ris vin - 黄酒 (米酒)  
 ritim - 节奏  
 riu - 河 (江)  
 riutube - 漏斗  
@@ -941,9 +946,10 @@ saide - 狩猎
 saider - 狩人  
 salame - 迎接  
 salamia - 福利 (福祉)  
+sale - 盐  
+sale biskute - 梳打饼  
 sali - 健康  
 salia - 健康  
-salte - 盐  
 sam - 一样  
 sammetre - 对称  
 samrayia - 一致  
@@ -1140,6 +1146,7 @@ var sete - 星期日 (禮拜日)
 var tri - 星期三 (禮拜三)  
 var un - 星期一 (禮拜一)  
 var var - 週  
+vari - 各种各样  
 vashi urse - 浣熊  
 vei darje - 纬度  
 vei lin - 緯紗  
@@ -1200,8 +1207,8 @@ zoku di - 指针式的
 zong - 桩  
 zong minte - 留兰香  
 zou - 动物  
+zou bagi - 动物园  
 zou logi - 动物学  
-zou parke - 动物园  
 zuku - 民族  
 zumarda - 绿宝石 (祖母绿)  
  - 多雨  

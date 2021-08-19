@@ -26,6 +26,7 @@ ais - glacio
 ais krem - glaciaĵo  
 ais li - glacia  
 ajila - rapidigi  
+akacia - akacio  
 ala - ŝanĝi (aliigi)  
 alga - algo  
 alkol - alkoholo  
@@ -108,18 +109,24 @@ avar ja - damaĝa
 ave - aveno  
 axe - akso  
 ####B - B  
-babe - ĉapitro  
+babu - ĉapitro  
 babuche - pantoflo  
-bache - infano  
+bacha - infano  
+badal - interŝanĝi  
+badan - korpo  
+badan di - korpa  
 badavi - beduino (nomado)  
-badla - interŝanĝi  
 bagaje - pakaĵo  
 bagre - tigro  
-bahayiste - bahaisto  
-bahayistia - bahaismo  
+baha din - bahaismo  
+baha din ja - bahaisto  
+baka - baki  
+baka ja - bakisto  
+baka kan - bakejo  
 baki - blanka  
-balde - sitelo  
+baldi - sitelo  
 balon - balono  
+baluta - kverko  
 bambu - bambuo  
 ban - tabulo  
 ban gem - tabulludo  
@@ -127,9 +134,9 @@ banana - banano
 bande - ligi  
 bande - bandaĝo (vindo)  
 bandera - flago  
-Bangladesha - Bangladeŝo  
-banke - banko  
-banker - bankisto  
+Bangla desha - Bangladeŝo  
+banka kan - banko  
+banka shefe - bankisto  
 banya - bano  
 banya - bana  
 banya kamar - banĉambro  
@@ -140,39 +147,37 @@ barde - barbo
 bari metal - pezmetalo  
 barium - bario  
 barka - gratuli  
-barte - Barata  
-Bartia - Baratio  
+barti - Barata  
+Barti - Baratio  
 barude - pulvo  
+basa - sufiĉa  
 basen - baseno  
 basha - lingvo (paroli, komuniki)  
 basha kanun - gramatiko  
 basha kanun li - gramatika  
-bashalogi - lingvistiko  
-basi - sufiĉa  
+basha logi - lingvistiko  
 baske - korbo  
 bata - anaso  
 bateri - baterio (pilo)  
 bato - ok (8)  
 baton - stango  
-baton kapse - kaĝo  
+baton kasa - kaĝo  
 bau - trezoro  
 bau sheke - juvelo  
 bazar - merkato (bazaro)  
 baze - bazo  
-bazi - baza  
-bazobol - basbalo  
-bazoshulkan - bazlernejo  
+baze bol - basbalo  
+baze di - baza  
+baze shula kan - bazlernejo  
 be ais - glaciiĝi (frostiĝi)  
 be’e - kapro  
 bebe - bebo  
 bede - lito  
-bedinje - melongeno  
+bedinjan - melongeno  
 bega - fuĝi  
-beka - baki  
-beker - bakisto  
-bekokan - bakejo  
 Belarus - Belorusio  
-Belgia - Belgio  
+bele - fosilo (ŝovelilo)  
+Belgi - Belgio  
 Belize - Beliceo  
 ben - ido (infano)  
 benchi - benko  
@@ -182,19 +187,19 @@ berilium - berilio
 berkelium - berkelio  
 Berlin - Berlino  
 beton - betono  
-bibli - biblia  
-biblia - Biblio  
+betula - betulo  
+Biblia - Biblio  
+Biblia di - biblia  
 bil - ebla (povi)  
-bilja - kapabla  
-bina - konstrui  
+bil ja - kapabla  
+bina plan - arĥitekturo  
+bina plan ja - arĥitekto  
 binde - punkto  
-binplaner - arĥitekto  
-binplania - arĥitekturo  
 bio - orgaaninen (biologinen)  
+bio logi - biologio  
 bio vute - organismo  
-biologi - biologio  
 bir - biero  
-birkan - drinkejo  
+bir kan - drinkejo  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
 bizar - stranga  
@@ -204,8 +209,6 @@ blabla - babili
 blabla kan - babilejo  
 blu - blua  
 blu elfe - smurfo  
-bode - korpo  
-bodi - korpa  
 boikote - bojkoto  
 boke - buŝo  
 bokse - bokso  
@@ -399,6 +402,7 @@ du - du (2)
 dua - preĝi  
 dua - preĝo  
 dubnium - dubnio  
+dudu - insekto  
 duga - legi  
 duka - malĝojigi  
 duke - malĝojo  
@@ -472,6 +476,7 @@ europium - eŭropio
 evanjil - evangelio  
 ####F - F  
 fa - fari  
+fa bina - konstrui  
 fa dante - mordi  
 fa ja - aganto  
 fa safa - purigi  
@@ -496,6 +501,7 @@ fashistia - faŝismo
 fasili - facila  
 fasinia - fascinado  
 fate - faro (fakto)  
+fatura - kalkulo (fakturo)  
 febre - febro  
 fei - flugo  
 fem - ino  
@@ -564,6 +570,7 @@ France krepe - franca krepo
 francium - franciumo  
 frem - kadro  
 frute - frukto  
+frute bagi - fruktarbejo  
 fui - bah!  
 fuka - vestigi  
 fuke - vesto  
@@ -579,7 +586,7 @@ fute bol - piedpilko
 ####G - G  
 ga - se  
 gabur - tombo (enterigi)  
-gabur istan - tombejo  
+gabur bagi - tombejo  
 gabur sheke - tomboŝtono  
 gadolinium - gadolinio  
 gaja - elefanto  
@@ -808,12 +815,12 @@ jebe - poŝo
 jeinistia - Ĝajnismo  
 jel - ĝelo  
 jen - nasko  
+jen loka - naskiĝejo  
 jena - naskigi  
 jenden - naskiĝtago  
 jeng - milito (batalo)  
 jengi - milita  
 jeni bash - hejmlingvo  
-jenistan - naskiĝejo  
 jenolojia - genealogio  
 jenu - naski  
 jinse - sekso  
@@ -1007,9 +1014,11 @@ kurse - seĝo
 kurve - kurbo  
 kushu - kuŝi  
 ####L - L  
-labe - lipo  
+labi - lipo  
 lai - veni  
 laji - rubo  
+laji bagi - rubejo  
+laji tong - rubujo  
 lal - ruĝa  
 lal bau sheke - rubeno  
 lal oranje - mandarino  
@@ -1140,8 +1149,8 @@ metal - metalo
 metallin - drato  
 metode - metodo  
 metre - mezuri  
+meza texe - tablotuko  
 meze - tablo  
-mezotesh - tablotuko  
 mi - mi  
 mi di - mia  
 mien - nudelo  
@@ -1261,6 +1270,7 @@ niponium - nihonio
 nitre - nitrogeno  
 no - ne  
 nobelium - nobelio  
+nobi - neduuma  
 noche - nokto  
 node - nodo  
 Noe - Noa  
@@ -1420,6 +1430,7 @@ purfina - kompleti
 puri - plena  
 puro - plene  
 putau - vinbero  
+putau bagi - vitejo  
 putong - generala  
 Putong Han - mandarinĉina  
 ####R - R  
@@ -1453,8 +1464,8 @@ rezerve - rezervo
 rezin - rezino  
 ri - ripetado  
 ris - rizo  
-riske - risko  
-riski - riska  
+risko - risko  
+risko di - riska  
 ritim - ritmo  
 riu - rivero  
 robote - roboto  
@@ -1502,9 +1513,9 @@ salam sube - Bonan matenon!
 salam yam - bonan apetiton!  
 salama - saluti  
 salame - saluto  
+sale - salo  
+sale di - sala  
 sali - sana  
-salte - salo  
-salti - sala  
 sam - sama  
 samarium - samario  
 samdeshi - samlandano  
@@ -1859,10 +1870,10 @@ zirkonium - zirkonio
 zoku - ankoraŭ  
 zona - zono  
 zou - besto  
+zou bagi - zoo (bestoĝardeno)  
 zou kata - bestofabelo  
 zou logi - zoologio  
 zou logi di - zoologia  
-zou parke - zoo (bestoĝardeno)  
 zuku - etno  
 zuku di - etna  
 zuku medi di - interetna  

@@ -14,7 +14,7 @@ agorafobia - medenfobia
 agresywny - agresivi  
 agronomia - nong nomi  
 aj!, ał! - au  
-akacja - babul  
+akacja - akacia  
 akacja arabska - arabi babul  
 akcent, nacisk - acente  
 akt, scena - roler  
@@ -77,8 +77,8 @@ arachnofobia - arane fobi
 arboretum - mokojongoparke  
 arbuz - arbuza  
 archipelag - nesia grupe  
-architekt - binplaner  
-architektura - binplania  
+architekt - bina plan ja  
+architektura - bina plan  
 Argentyna - Argentina  
 argon - argon  
 argument - argum  
@@ -125,25 +125,25 @@ babcia (babka) - chin ma
 bagaż - bagaje  
 bagietka - baton pan  
 bagno (moczary) - fantopia  
-bahaista - bahayiste  
-bahaizm - bahayistia  
+bahaista - baha din ja  
+bahaizm - baha din  
 Bahamy - Bahama  
 Bahrajn - Bahrain  
 bajka - zou kata  
 bakburta (lewa burta) - nave lefte  
-bakłażan, oberżyna - bedinje  
+bakłażan, oberżyna - bedinjan  
 balon - balon  
 bambus - bambu  
 banan - banana  
 bandaż, taśma, wstążka - fashe  
-Bangladesz - Bangladesha  
+Bangladesz - Bangla desha  
 banglijski - bangla basha  
-bank - banke  
-bankier - banker  
+bank - banka kan  
+bankier - banka shefe  
 baobab - bui  
 bar - bar  
 bar - barium  
-bar, knajpa - birkan  
+bar, knajpa - bir kan  
 Barbados - Barbados  
 barbarzyńca - barbar  
 Barbuda - Barbuda  
@@ -159,14 +159,14 @@ bawełna - goton
 bawić, zabawiać - fa van  
 bawół domowy - karbau  
 baza danych (bank danych) - datobanke  
-bazowy, podstawowy - bazi  
+bazowy, podstawowy - baze di  
 bańka - lilbol  
 baśń - peri kata  
 beczka - tong  
 beduiński; nomadyczny - badavi  
-bejsbol (baseball) - bazobol  
+bejsbol (baseball) - baze bol  
 bel - bel  
-Belgia - Belgia  
+Belgia - Belgi  
 Belize - Belize  
 Benin - Benin  
 beninkaza szorstka (beninkaza woskodajna, woszcza szorstka) - mummelon  
@@ -184,7 +184,7 @@ bezzębny - dante na di
 Bhutan - Butan  
 Białoruś - Belarus  
 biały - baki  
-Biblia - biblia  
+Biblia - Biblia  
 biblioteka - kitabu kan  
 bibliotekarz - kitabu minister  
 biec (biegać, pędzić) - kora  
@@ -193,7 +193,7 @@ bieżący (aktualny, obecny) - zai zaman di
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion, giga- - giga  
-biologia (nauka o życiu) - biologi  
+biologia (nauka o życiu) - bio logi  
 biom - biyosistem  
 biromantyczny - dulromansi  
 biseksualny - dulseksi  
@@ -239,14 +239,15 @@ bruk - sirkosheke
 brunatnica - brun alga  
 Brunei Darussalam - Brunei  
 brzmieć, wydać dźwięk, wydawać dźwięk - sona  
-brzoza - berje  
+brzoza - betula  
 brzuch - pete  
 brzydki - dusvidi  
 brązowy, koloru kawy - brun  
+bu! - bu!  
 Budda - Buda  
 buddysta - Buda din ja  
 Buddyzm - Buda din  
-budynek (struktura) - bin  
+budynek (struktura) - bina  
 budżet - bujete  
 bufet (szwedzki stół) - bufete  
 bulwa - masmul  
@@ -265,7 +266,7 @@ być - si
 być mistrzem (być ekspertem) - mesta  
 być o; dyskutować o - tema  
 być obok - lata  
-być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - beyu  
+być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
 być podobnym, być jak - samu  
 być przeciw - kontra  
 być umiejscowionym (być ulokowanym, stać) - loku  
@@ -297,7 +298,7 @@ cel - gol
 celować - dika  
 celownik optyczny (siatka lunety) - krusolin  
 cement - semente  
-cenny - bavi  
+cenny - bau li  
 centralny (środkowy) - jungi  
 centrować, skupić, skupiać - junga  
 centy-, procent, na sto, setna część - centi  
@@ -340,14 +341,14 @@ chwilowy - sati
 chór - chante grupe  
 chłopak - joveni man  
 ciasto, ciastko - keke  
-ciało - bode  
+ciało - badan  
 ciało stałe - gatomate  
 cichy - shushi  
 ciecierzyca - humus  
 ciecz (płyn) - riumate  
 ciekawy - savovolani  
 ciekły (płynny) - riumati  
-cielesny - bodi  
+cielesny - badan di  
 ciemny, słabo oświetlony - oskuri  
 ciepły - garma  
 cierpienie, ból - pashia  
@@ -362,7 +363,7 @@ ciężar (brzemię) - bari
 ciężarny (w ciąży) - hamili  
 ciężki (masywny) - veze di  
 ciśnienie atmosferyczne - air bari  
-cmentarz - gabur istan  
+cmentarz - gabur bagi  
 cnota (moralność) - bondeke  
 cnotliwy (prawy) - bondeki  
 co? - ke  
@@ -533,7 +534,7 @@ dzban, dzbanek; słój, słoik - jar
 dziadek (dziad) - chin pa  
 działka (teren) - geo tika  
 działo - daipau  
-dziecko (nieletni) - bache  
+dziecko (nieletni) - bacha  
 dziecko, potomek - ben  
 dzielić (współdzielić) - komuna  
 dzielić - fena  
@@ -561,7 +562,7 @@ dzwon (dzwonek) - danger
 dzwonić (dźwięczeć, szczękać) - danga  
 dół, jama, wydobycie, wykop, wykopalisko - kave  
 dół, spód - tal  
-dąb - balute  
+dąb - baluta  
 dąb szypułkowy - europobalute  
 dąb zębaty - dante balute  
 długi - longi  
@@ -701,7 +702,7 @@ gazowy - gasi
 gałąź, konar - shake  
 gdzie - pa ke  
 gejowski (homoseksualny) - gei  
-genderqueer, niebinarny - bis  
+genderqueer, niebinarny - nobi  
 genealogia - jenolojia  
 genotyp - jentipe  
 geologia - geo logi  
@@ -899,9 +900,9 @@ implozja - inploze
 importować (zaimportować) - inmisa  
 ind - hindium  
 indiański - asal Amerka jan  
-Indie - Bartia  
+Indie - Barti  
 Indonezja - Indonesia  
-Indyjski - barte  
+Indyjski - barti  
 indyk - dinde  
 infekcja (zakażenie) - patomis  
 informacja - konsave  
@@ -954,7 +955,7 @@ jaskinia - gua
 jasnoniebieski (lazurowy) - tennili  
 jasny, czysty - mingi  
 jasny, świetlny - foti  
-jastrun właściwy - bakomargarite  
+jastrun właściwy - baki margarite  
 jazz, dżez - jaze  
 jaśmin - malike  
 jaźń (tożsamość) - auto  
@@ -997,7 +998,7 @@ język surinamski - surinami bash
 język sztuczny - cana basha  
 język świata, język ogólnoświatowy - dunia bash  
 język; komunikacja; mówić - basha  
-językoznastwo - bashalogi  
+językoznastwo - basha logi  
 ####K - K  
 kabaczek (dynia, tykwa) - kaboga  
 kabel (linia) - eletrolin  
@@ -1034,7 +1035,7 @@ kapelusz, czapka - tupe
 kaper (korsarz) - nave kape ja  
 kapeć (papeć, bambosz) - babuche  
 kapitan - naushef  
-kapusta pekińska - bakochoi  
+kapusta pekińska - baki choi  
 Karaiby - Karaibia  
 karaoke - karaoke  
 karat - kirate  
@@ -1064,7 +1065,7 @@ kebab - kababu nama
 keczup - kechape  
 kelwin - kelvin  
 Kenia - Kenia  
-keta - bakosalmon  
+keta - baki salmon  
 kichać (apsik!) - achi  
 kiedy? - ko?  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - kanala  
@@ -1088,7 +1089,7 @@ klapa - padomun
 klasa, kategoria - klas  
 klasyczny - chenyangi  
 klasyfikować, kategoryzować - klasa  
-klatka - baton kapse  
+klatka - baton kasa  
 klatka piersiowa - sinokapse  
 klawiatura - butonban  
 klawisz, przycisk, przełącznik, guzik - buton  
@@ -1150,7 +1151,7 @@ konkani - Konkani
 konkurować, rywalizować; odbyć mecz, odbywać mecz - mecha  
 konopie - ganja  
 konsekwencja, skutek - pos  
-konstytucja - bazokanun  
+konstytucja - baze kanun  
 konto - hisabu loge  
 konwalia majowa - vali susan  
 konwencjonalny, zwyczajowy, tradycyjny - riti  
@@ -1769,7 +1770,7 @@ obrażenia (rana, krzywda) - avar
 obrona - def  
 obronić (chronić) - defa  
 obrońca - defer  
-obrus - mezotesh  
+obrus - meza texe  
 obrócić (kręcić) - rota  
 obrócić się (kręcić się) - rotu  
 obserwator (widz) - vide ja  
@@ -1782,11 +1783,11 @@ ocean - daihai
 Ocean Antarktyczny (Ocean Południowy) - Antartika Hai  
 Ocean Arktyczny - Artika Hai  
 Ocean Atlantycki - Atlanti Hai  
-Ocean Indyjski - Barte Hai  
+Ocean Indyjski - Barti Hai  
 Ocean Spokojny (Pacyfik) - Pachi Hai  
 Oceania - Ocheania  
 ocelot - oselote  
-ocelot tygrysi - bagroselote  
+ocelot tygrysi - bagre oselote  
 ocena, krytyka - piping  
 ocenić, oceniać, recenzować, komentować, krytykować - pipinga  
 ocet - vin suan  
@@ -1875,7 +1876,7 @@ otwarty, niezamknięty - kayi
 otworzyć (otwierać, odkluczyć, odkluczać) - an sora  
 otworzyć się, otwierać się - kayu  
 otworzyć, otwierać - kaya  
-owad - konchung  
+owad - dudu  
 owca - meme  
 owinięcie (koperta, okładka) - lifafa  
 owoc - frute  
@@ -1975,11 +1976,11 @@ piasek, piach - rege
 piaskowiec - regopetre  
 pidżin, język pomocniczy - pijin  
 piec (piekarnik) - tanur  
-piec - beka  
+piec - baka  
 piec - rosta  
 pieczęć woskowa - mumchape  
-piekarnia - bekokan  
-piekarz - beker  
+piekarnia - baka kan  
+piekarz - baka ja  
 piekło - narake  
 pieniądze - pese  
 pieprz - pipre  
@@ -2358,7 +2359,7 @@ płaszcz nieprzemakalny - shava kote
 płaszczyzna (płyta) - plate  
 płciowy - jinsi  
 płeć - jinse  
-płeć biologiczna - biyi jinse  
+płeć biologiczna - bio jinse  
 płeć społeczna - sosi jinse  
 płot - kinar baryer  
 płuco - pulmon  
@@ -2367,7 +2368,7 @@ płyta tektoniczna - geo kaske plate
 płytki - faskaribi  
 ####R - R  
 rabuś (grabieżca) - luter  
-rachunek (faktura) - bil  
+rachunek (faktura) - fatura  
 rachunek (formalny system obliczeń) - kalkulia  
 racjonalny, rozsądny - razoni  
 rad - radium  
@@ -2442,7 +2443,7 @@ rower - sikle
 rower z pedałami - pedalsikle  
 rowerzysta - sikliste  
 rozciągać (rozciągnąć) - tirlonga  
-rozdział, sekcja - babe  
+rozdział, sekcja - babu  
 rozjaśnić - minga  
 rozkaz, komenda - amir  
 rozmiar - dayia  
@@ -2479,15 +2480,15 @@ rutyna, nawyk, zwyczaj - rutin
 Rwanda - Ruanda  
 rwać (drzeć) - chir  
 ryba - pesh  
-ryba rozdymkowata - balonpesh  
+ryba rozdymkowata - balon pesh  
 rybak - peshosaider  
 rym (wers) - rim  
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
 rytuał, ceremonia, ryt - puja rite  
-ryzyko - riske  
-ryzykowny - riski  
+ryzyko - risko  
+ryzykowny - risko di  
 ryś - linche  
 ryś rudy - lal linche  
 ryż - ris  
@@ -2524,7 +2525,7 @@ róża - roze
 różnica (specjalność) - hasia  
 różnica - alo sifa  
 różny (inny) - alo sifa li  
-różny (różnorodny) - balibali  
+różny (różnorodny) - vari  
 różowy, różany - rozorangi  
 ręcznik - gan texe  
 ręczny - handi  
@@ -2606,7 +2607,7 @@ Skandynawia - Eskandia
 skarb; skrabiec - bau  
 skarpeta, skarpetka, pończocha - maze  
 skała - petra  
-skała macierzysta - bazopetre  
+skała macierzysta - baze petra  
 skoczyć, skakać - jampa  
 skonsumować, konsumować, zjeść, jeść, wypić, pić) - yam  
 skorupa (pancerz, muszla) - kaske  
@@ -2787,7 +2788,7 @@ szkielet - ostojamia
 szklić (glazurować) - kanchodaka  
 Szkocja - Eskote  
 szkoła (instytucja) - shula kan  
-szkoła podstawowa - bazoshulkan  
+szkoła podstawowa - baze shula kan  
 szkło - kanche  
 szkło wulkaniczne - hogoshani kanche  
 szmaragd - zumarda  
@@ -2816,14 +2817,14 @@ szyszka - konus
 szyć - suta  
 São Paulo - Sante Paulo  
 sód - natre  
-sól - salte  
+sól - sale  
 sądzić (osądzić) - juda  
 sędzia - juder  
 słaby - debili  
 słodki - sukari  
 słodki ziemniak - kamote  
 słonecznik - solful  
-słony - salti  
+słony - sale di  
 Słowacja - Slovakia  
 Słowenia - Slovenia  
 słowiański - Slave  
@@ -2893,7 +2894,7 @@ teologia - deu logi
 teoria - teoria  
 teozofia - deu sofi  
 tera- - tera*  
-terakota - bekofan  
+terakota - baka fan  
 teraźniejszość, współczesność (teraz) - zai zaman  
 teraźniejszość, współczesność - zaita  
 terb - terbium  
@@ -2917,7 +2918,7 @@ toczyć, turlać - rula
 Togo - Togo  
 Tokio - Tokyo  
 toksyczny (trujący) - toksi  
-toksyna - bio tokse  
+toksyna - bio toxe  
 tolerować - tolera  
 ton, dźwięk, nuta, tonacja - ton  
 tona - mega gram  
@@ -3073,7 +3074,7 @@ wapień - kalsopetre
 wapno - kalsomate  
 wapń - kalsium  
 warcaby - damgem  
-warga - labe  
+warga - labi  
 warstwa (poziom, piętro, kondygnacja) - cheng  
 warsztat szewski - sapatokan  
 wartość - valu  
@@ -3109,7 +3110,7 @@ wiadomość - anjil
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - notite  
 wiadomy, znany -   
-wiadro - balde  
+wiadro - baldi  
 wiadukt, przejście powyżej - supre  
 wiara, wierzenie, kredo - shin  
 wiatr - hava  
@@ -3151,6 +3152,7 @@ wieża zegarowa - horlogerminar
 wilk - volfe  
 wina, grzech; defekt, wada - dosh  
 winiarnia - vin kan  
+winnica - putau bagi  
 winny - doshi  
 wino - vin  
 winogrono - putau  
@@ -3241,7 +3243,7 @@ wyklarować (rozjaśnić) - klara
 wykopać, kopać, wydobyć, wydobywać, wykopywać - kava  
 wymagać, przewidywać - sharta  
 wymawiać (wymówić) - fona  
-wymieniać, wymienić, zamieniać, zamienić - badla  
+wymieniać, wymienić, zamieniać, zamienić - badal  
 wymiotować (zwrócić) - retrogula  
 wynająć, oddać w najem - kirodona  
 wynająć, oddać w najem - kirogeta  
@@ -3266,7 +3268,7 @@ Wyspy Marshalla - Marshal nesia
 Wyspy Salomona - Solomon nesia  
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
 Wyspy Świętego Tomasza i Książęca - Sante Tome e Prinsipe  
-wystarczający - basi  
+wystarczający - basa  
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - netodona  
 wysłać (wyemitować) - misa  
 wytwórca łuków i strzał - flecher  
@@ -3332,7 +3334,7 @@ zaklecie - magasar
 zakrzywiony - kurvi  
 zakupy (sprawunki, shopping) - shope  
 zakładać (założyć) - chenaga  
-zakładać (założyć, ustanowić) - baza  
+zakładać (założyć, ustanowić) - fa baze  
 Zambia - Zambia  
 zamek (zapięcie) - sor  
 zamek błyskawiczny - zipa  
@@ -3388,14 +3390,14 @@ zawiązywać (zawiązać węzeł) - noda
 zawsze - pansato  
 zazdrosny - jelosi  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - marka  
-założyciel - bazer  
+założyciel - baze ja  
 załącznik (przyrostek, afiks) - fikse  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - taksa  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanke  
 zbiorowy, zbiorczy - jami  
 zbliżać się (zbliżyć się) - karibu  
 zbroja - defkaske  
-zbudować, budować, konstruować - bina  
+zbudować, budować, konstruować - fa bina  
 zbyt - mash ka bas  
 zbyt mało - min ka bas  
 zbłąkany (dewiacyjny, wykolejony) - rutogalti  
@@ -3448,7 +3450,7 @@ znaleźć, znajdywać, odkryć, odkrywać - eureka
 znowu (ponownie) - reyo  
 znudzony - bori  
 zombie, zombi - zombi  
-zoo (ogród zoologiczny) - zou parke  
+zoo (ogród zoologiczny) - zou bagi  
 zoologia - zou logi  
 zoologiczny - zou logi di  
 zostawić (zostawiać) - shante  
@@ -3491,7 +3493,7 @@ zły, zrujnowany, zepsuty - harabu
 łazienka - banya kamar  
 łańcuch - silsil  
 łodyga (tors, pień, trzon) - tan  
-łopata (szpadel) - bel  
+łopata (szpadel) - bele  
 łosoś (pstrąg) - salmon  
 łosoś atlantycki - atlanti salmon  
 łowca (myśliwy) - saider  
@@ -3515,6 +3517,7 @@ zły, zrujnowany, zepsuty - harabu
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glisu  
 śmiać się - haha  
 śmierć - morte  
+śmietnik - laji tong  
 śmieć, odpadek - laji  
 śniadanie - subyam  
 śnieg - hima  
@@ -3553,7 +3556,7 @@ zły, zrujnowany, zepsuty - harabu
 żelazo - fere  
 żeń-szeń - jenshen  
 żołnierz - gunjan  
-żołądź - balutopal  
+żołądź - baluta frute  
 żwir - grave  
 życie - jiu  
 życie organiczne - bio vute  

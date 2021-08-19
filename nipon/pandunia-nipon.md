@@ -64,54 +64,54 @@ auto krati - 君主制
 auto loga - 独白 (独話)  
 ave - 烏麦  
 ####B - B  
-bache - 子供 (赤ちゃん)  
+bacha - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
-bagroselote - ジャガーネコ  
+badan - 体  
+bagre oselote - ジャガーネコ  
+baka fan - テラコッタ  
+baka kan - パン屋 (ベーカリー)  
 baki - 白い  
-bakomargarite - フランスギク  
-bakosalmon - シロザケ  
-balibali - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
-balonpesh - フグ  
-balute - ナラ  
-balutopal - ドングリ  
+baki margarite - フランスギク  
+baki salmon - シロザケ  
+balon pesh - フグ  
+baluta - ナラ  
+baluta frute - ドングリ  
 bambu - 竹  
 bamia - オクラ  
 ban - 板  
 ban gem - ボードゲーム  
+basa - 十分  
 basha - 言語  
-bashalogi - 言語学  
+basha logi - 言語学  
 bashi jinse - 文法的性 (名詞クラス)  
-basi - 十分  
 bata - 鴨  
 bateri - バッテリー  
 bato - 八 (8)  
-baton kapse - 檻 (篭, ケージ)  
+baton kasa - 檻 (篭, ケージ)  
 bau sheke - 宝石  
 bazar - 市場 (マーケット, バザー)  
-bazobol - 野球  
-bazopetre - 基盤岩  
-bazoshulkan - 小学校  
+baze bol - 野球  
+baze petra - 基盤岩  
+baze shula kan - 小学校  
 be ais - 凍る (凍結する)  
 be van - 遊ぶ  
 bebe - 赤ちゃん  
-bekofan - テラコッタ  
-bekokan - パン屋 (ベーカリー)  
-bel - シャベル (スコップ)  
+bele - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
 beri - 漿果 (ベリー )  
-berje - 樺  
 bete - テーブルビート  
+betula - 樺  
 bil - できる (ありうる)  
-bilja - 有能  
+bil ja - 有能  
 bilor - 結晶  
-bina - 建てる  
-binplaner - 建築家  
-binplania - 建築学  
-bio tokse - 毒素  
+bina plan - 建築学  
+bina plan ja - 建築家  
+bio jinse - 生物学の性  
+bio logi - 生物学  
+bio toxe - 毒素  
 bio vute - 生物  
-biologi - 生物学  
 bir - ビール  
-biyi jinse - 生物学の性  
+biskute - ビスケット (クッキー)  
 biyochaniver - 堆肥  
 biyomutu - 熟成する (発酵する)  
 biyosistem - 生物群系  
@@ -119,7 +119,6 @@ biznes - 業務 (営業, ビジネス)
 blu - 青い  
 blu ceram sing - ヒナソウ  
 blu elfe - スマーフ (シュトロンフ)  
-bode - 体  
 boi - フロート (ブイ)  
 bokse - ボクシング (拳闘)  
 bokser - ボクサー (拳闘家)  
@@ -134,6 +133,7 @@ brauzer - 探検家 (ブラウザ)
 brun - 茶色  
 brun alga - 褐藻  
 brun salmon - ブラウントラウト  
+bu! - ばあ  
 bucher - 肉屋  
 buchokan - 屠畜場  
 Buda - 仏陀  
@@ -227,6 +227,7 @@ dosiljeni - 家畜
 dosti - 優しい (好ましい, 親切)  
 du - 二 (2)  
 dua - 祈祷  
+dudu - 昆虫  
 duga - 読む  
 dunia - 世界  
 durabli - 持続的  
@@ -265,6 +266,7 @@ europobalute - ヨーロッパナラ
 ####F - F  
 fa - する  
 fa an galta - デバッグする  
+fa bina - 建てる  
 fa dante - 咬む  
 fa ver - ただす  
 faidia - 使用 (為, 利)  
@@ -280,6 +282,7 @@ fastelia - 浅い
 fate - 事実  
 fatigia - 疲労  
 fatigu - 疲れる (疲労する)  
+fatura - 料金  
 feimush - こうもり (飛鼠)  
 fem - 女  
 femi rajer - 女王  
@@ -303,6 +306,7 @@ foto minar - 狼煙 (ビーコン)
 frem - 額  
 frika - 擦る (擦り傷する)  
 frute - 果実 (フルーツ)  
+frute bagi - 果樹園  
 fuke - 服  
 fuku - 着る  
 fuku vashi gi - 洗濯機  
@@ -314,7 +318,7 @@ futoban - 足場
 ####G - G  
 ga - もし  
 gabur - 墓 (埋葬, 葬る)  
-gabur istan - 墓 (墓地)  
+gabur bagi - 墓 (墓地)  
 gabur sheke - 墓石 (墓碑)  
 galaksia - 銀河  
 Galia - ガリア  
@@ -453,10 +457,10 @@ javabe - 答え (回答)
 jeka - 借用  
 jekodona - 貸す  
 jekogeta - 借りる  
+jen loka - 出生地  
 jena - 生む  
 jeng - 戦闘 (格闘)  
 jeni - 生 (未熟)  
-jenistan - 出生地  
 jenita - 湧かす  
 jenolojia - 系譜学  
 jentipe - 遺伝子型  
@@ -563,7 +567,6 @@ klin - 斜め (傾向)
 ko? - どのように  
 koda - 尾 (尾翼)  
 konboni - 合わせる (適する)  
-konchung - 昆虫  
 konformu - 即する  
 konga - 染みる (貫通する)  
 konkara - 共同して働  
@@ -601,6 +604,8 @@ kushu - 寝転ぶ
 lage - 湖  
 lai - 来る  
 laji - ゴミ (廃棄物)  
+laji bagi - ゴミ捨て場  
+laji tong - ごみ箱  
 lal - 赤い  
 lal bau sheke - ルビー  
 lal linche - ボブキャット  
@@ -725,9 +730,9 @@ metalbede - 金敷き (鉄床)
 metallin - 線 (針金)  
 metre - 測定  
 metre gi - 測定装置 (計)  
+meza texe - テーブル掛け  
 meze - 机 (テーブル)  
 mezistan - 台地 (高地)  
-mezotesh - テーブル掛け  
 mi - 私  
 mi di - 私の  
 mien - ヌードル  
@@ -899,6 +904,7 @@ puntonumbe - 得点 (点数)
 purfityamiste - 絶対菜食主義者 (ヴィーガン)  
 purfityamistia - ヴィーガニズム  
 purshipa - 漬ける (締める)  
+putau bagi - 葡萄園  
 putau oranje - グレープフルーツ  
 Putong Han - 普通話 (北京語)  
 ####R - R  
@@ -948,10 +954,10 @@ saida - 狩る
 saide - 狩り (狩猟)  
 salame - 挨拶  
 salamia - 福利 (福祉)  
+sale - 塩  
 sali - 元気 (丈夫)  
 salia - 健康  
 salmon - 鮭鱒  
-salte - 塩  
 sammetre - 対称  
 samsifa - シミュレートする  
 samsifi - 同じよう (近い)  
@@ -1142,6 +1148,7 @@ var penta - 金曜日
 var sete - 日曜日  
 var tri - 水曜日  
 var un - 月曜日  
+vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varka alga - コンブ  
 varka late - ページ (面)  
 vase - オアシス  
@@ -1205,9 +1212,9 @@ zong - 杭
 zong minte - スペアミント  
 zou - 動物  
 zou agro shutu - 畜産  
+zou bagi - 動物園  
 zou logi - 動物学  
 zou logi di - 動物学の  
-zou parke - 動物園  
 zuku - 民族  
 zuku di - 民族の  
  - 雪が降る  

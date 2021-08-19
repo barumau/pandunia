@@ -23,6 +23,7 @@ activer (allumer, mettre en marche, déclencher) - fa karma
 actuel (courant) - zai zaman di  
 acéphale (sans tête) - sar na di  
 adapter (ajuster) - hapa  
+addition (facture) - fatura  
 adhésif (collant) - glute li  
 adjectif - sifloge  
 administrateur - politer  
@@ -111,8 +112,8 @@ arc-en-ciel - rangarke
 Arche d'Alliance - liga di sanduku  
 arche de Noé - Noe di nave  
 archer - arka ja  
-architecte - binplaner  
-architecture - binplania  
+architecte - bina plan ja  
+architecture - bina plan  
 arctique - Artika  
 argent - argente  
 argent - pese  
@@ -137,7 +138,7 @@ asexué - an sexe li
 asiatique - asia  
 Asie - Asia  
 aspirine - aspirin  
-assez - basi  
+assez - basa  
 Assur - Ashur  
 Assyrie - Ashur desha  
 astate - astatium  
@@ -152,7 +153,7 @@ Athènes - Athina
 athée - an deu jui ja  
 atome - atom  
 attaquer (agresser) - agresa  
-aubergine - bedinje  
+aubergine - bedinjan  
 Australie - Australia  
 Austronésie - Austronesia  
 autel - puja meza  
@@ -190,9 +191,9 @@ bambou - bambu
 banane - banana  
 bande - banda  
 bande dessinée - grafi kata  
-Bangladesh - Bangladesha  
-banque - banke  
-banquier - banker  
+Bangladesh - Bangla desha  
+banque - banka kan  
+banquier - banka shefe  
 Barbade - Barbados  
 barbare - barbar  
 barbe - barde  
@@ -205,7 +206,7 @@ bas - tali
 base (alcali) - kali  
 base - baze  
 base de données - datobanke  
-baseball - bazobol  
+baseball - baze bol  
 basique - kali  
 basketball - baske bol  
 bassin - basen  
@@ -224,8 +225,9 @@ bidonville - harabu mahala
 bien-être - salamia  
 bilingue - dulbashi  
 billet - tikete  
-biologie - biologi  
+biologie - bio logi  
 biome - biyosistem  
+biscuit - biskute  
 bière - bir  
 blanc - baki  
 blettes (bettes) - selge  
@@ -243,8 +245,9 @@ boucher - bucher
 bouclire - defban  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - fan  
-boulanger - beker  
-bouleau - berje  
+bouh! - bu!  
+boulanger - baka ja  
+bouleau - betula  
 bout (pointe, pic) - pike  
 bout de doigt - angul pike  
 bouteille - botel  
@@ -264,6 +267,7 @@ but (destination) - gol
 bâton (canne, tige) - baton  
 bébé - bebe  
 bédouin - badavi  
+bêche (pelle) - parke bele  
 bûche - mokotan  
 ####C - C  
 cacher - sira  
@@ -273,7 +277,7 @@ cadre - frem
 cafetière - kafopote  
 café - kafe  
 café - kafokan  
-cage - baton kapse  
+cage - baton kasa  
 caillou - lilsheke  
 calcaire - kalsopetre  
 calcite - kalsite  
@@ -291,7 +295,7 @@ canon - daipau
 canoë - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanyon  
-capacité (pouvoir, habileté) - bilta  
+capacité (pouvoir, habileté) - bil ta  
 cape - mantol  
 caractère - zi  
 carapace (coquille, coquillage, croûte) - kaske  
@@ -319,7 +323,7 @@ champignon - fungu frute
 chance - chanse  
 changement climatique - klimmute  
 changer - ala  
-chapitre - babe  
+chapitre - babu  
 chardon - kardon  
 chardon aux ânes - pinkardon  
 chardon Marie - milkokardon  
@@ -347,12 +351,12 @@ chronique - duri
 chronomètre - durmetrer  
 chu - padi  
 chéri - ai jen  
-chêne - balute  
+chêne - baluta  
 chêne pédonculé - europobalute  
 chœur - chante grupe  
 ciel - ten  
 cime (pic, sommet) - shanpike  
-cimetière - gabur istan  
+cimetière - gabur bagi  
 cinq (5) - penta  
 cirse commun - perkardon  
 citron - limon  
@@ -383,7 +387,7 @@ concombre de mer - haihiyar
 conseil - sel  
 conseiller - sela  
 considérer - hema  
-construire - bina  
+construire - fa bina  
 consultant (conseiller) - konseler  
 conte de fées - peri kata  
 conteneur - inan  
@@ -396,7 +400,7 @@ copie - kope
 coquelicot - medenpapil  
 corail - koral  
 corne - korne  
-corps - bode  
+corps - badan  
 correct (juste) - sahi  
 cosmique - kosmo di  
 cosmonaute - kosmo nave ja  
@@ -424,6 +428,7 @@ crocodile - longokrokodil
 crocodilien - krokodil  
 croissant - kruasante  
 croix - krus  
+croque-mitaine - bubu  
 croyant - din ja  
 crème - krem  
 crème glacée - ais krem  
@@ -466,7 +471,7 @@ dirigeant (leader) - lider
 disque - diske  
 distinct (numérique) - feni  
 diverger (ne pas être d'accord) - alo rai  
-divers (plusieurs) - balibali  
+divers (plusieurs) - vari  
 docile (insipide) - dosili  
 document (dossier) - dokum  
 documentaire - dokumfilme  
@@ -490,6 +495,7 @@ dé - zar kube
 déboguer (débugger) - fa an galta  
 début (commencement) - shuru  
 décapé (mariné) - suanpurshipi  
+décharge - laji bagi  
 déchirer - chir  
 déchirer - chira  
 défigurer - dusforma  
@@ -513,7 +519,7 @@ en arrière - retro
 en avant - jino  
 en ligne - pa lin  
 enclume - metalbede  
-enfant - bache  
+enfant - bacha  
 ennemi - dusjan  
 enregistrement - loge  
 enseigner - giau  
@@ -615,7 +621,7 @@ giraffe - jiraf
 glabre - kesha na di  
 glace - ais  
 glacé (glacial, gelé) - ais li  
-gland - balutopal  
+gland - baluta frute  
 glisser - glisu  
 gnome - geo elfe  
 gombo - bamia  
@@ -694,14 +700,14 @@ implosion - inploze
 important - hami  
 inclure - inklusa  
 inclusif - inklusivi  
-Inde - Bartia  
-indien - barte  
+Inde - Barti  
+indien - barti  
 Indus - Hindu riu  
 infecter - patomisa  
 infection (contagion) - patomis  
 infidèle (incroyant) - an din ja  
 inflammation - flame  
-insecte - konchung  
+insecte - dudu  
 insomnie - an sona  
 international - nasmedi  
 interracial - rasmedi  
@@ -772,7 +778,7 @@ libre - huri
 lichen - alga fungu  
 lien - linke  
 lieu - loke  
-lieu de naissance - jenistan  
+lieu de naissance - jen loka  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
 ligne téléphonique - telfonlin  
@@ -824,7 +830,7 @@ marche - marche
 marché (bazar) - bazar  
 mardi - var du  
 margay (chat-tigre) - margai  
-marguerite - bakomargarite  
+marguerite - baki margarite  
 mariage - gamia  
 Maroc - Magribia  
 Mars - Marse  
@@ -897,7 +903,7 @@ méninge - meninge
 métaux lourds - bari metal  
 ####N - N  
 nagar (flotter) - boyu  
-nappe - mezotesh  
+nappe - meza texe  
 nation - nasia  
 nausée - retroguli sense  
 nautile - nautile  
@@ -914,6 +920,7 @@ noit - noche
 nombre (numéro) - numbe  
 nombre pair - pari numbe  
 non (ne...pas) - no  
+non-binaire - nobi  
 nord - norde  
 nostalgie - nostalgia  
 note - note  
@@ -942,7 +949,7 @@ océan - daihai
 Océan Antarctique - Antartika Hai  
 océan Arctique - Artika Hai  
 océan Atlantique - Atlanti Hai  
-océan Indien - Barte Hai  
+océan Indien - Barti Hai  
 odeur - aroma  
 oeuf - anda  
 oie - gansa  
@@ -950,7 +957,7 @@ oignon - piaze
 oiseau - pakse  
 ombrelle (parasol) - sol chati  
 on - men  
-oncille - bagroselote  
+oncille - bagre oselote  
 onde - onde  
 option - chuzable  
 or - auro  
@@ -1024,7 +1031,7 @@ pavot somnifère - sompapil
 pavé - sirkosheke  
 peindre - penta  
 peinture - pente  
-pelle - bel  
+pelle - bele  
 perdant - shibayer  
 perder - shibaya tena  
 pere (papa) - pa  
@@ -1074,7 +1081,7 @@ podzol - huidarte
 poids (lourdeur, gravité) - veze  
 poireau - porei  
 poisson - pesh  
-poisson-globe - balonpesh  
+poisson-globe - balon pesh  
 poivre - pipre  
 poivre long - longopipre  
 poli - foto frika  
@@ -1096,6 +1103,7 @@ pot (vase) - pote
 pot de fleur - hua pote  
 poterie - poteria  
 potier - poter  
+poubelle - laji tong  
 poudre à canon - barude  
 Poulpe (pieuvre) - ohtopus  
 pourri - pudi  
@@ -1121,7 +1129,7 @@ propice - bonsinyi
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
-précieux - bavi  
+précieux - bau li  
 préférer - mashfila  
 présent - zai di  
 prêter (empruntre) - jeka  
@@ -1219,7 +1227,7 @@ sauce - sos
 sauce de soja - soi sos  
 saucisse - sosis  
 saumon altentique - atlanti salmon  
-saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
+saumon du Pacifique (saumon kéta, saumon chien) - baki salmon  
 saumon rose - rozosalmon  
 saumon sockeye - lal salmon  
 sauvage - ekojeni  
@@ -1236,10 +1244,10 @@ se mouvoir - kinu
 se passer - duru  
 se plaire - suku  
 se rappeler (se remémorer) - mema  
-seau - balde  
+seau - baldi  
 secouer - roka  
 sein - mam  
-sel - salte  
+sel - sale  
 semence - seme  
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aroma  
@@ -1311,7 +1319,7 @@ tente - hemah
 terrain - geo forme  
 terrain de camping - kampistan  
 Terre - Geo  
-terre cuite - bekofan  
+terre cuite - baka fan  
 terreplatiste - platogeyiste  
 terrorisme - teroristia  
 thé - chai  
@@ -1334,7 +1342,7 @@ toupie - rototope
 touriste - safariste  
 Tournesol - solful  
 toxicologie - toksilogi  
-toxine - bio tokse  
+toxine - bio toxe  
 trace - marke  
 tracteur - trater  
 traduction - tarje  
@@ -1366,6 +1374,7 @@ uniquement - uniko
 universel - unversi  
 uranium - uranium  
 Uranus - Uran  
+vachellia - babul  
 vagine - vagina  
 vaginite - vagina flame  
 vaisseau spatial - kosmo nave  
@@ -1381,6 +1390,7 @@ Venezuela - Venezuela
 venir - lai  
 ver - verme  
 verbe - karma loga  
+verger - frute bagi  
 vermouth - vermute  
 verre - kanche  
 verre coloré - rang kanche  
@@ -1397,9 +1407,10 @@ vierge - virje
 vieux (ancien) - cheniki  
 vieux (âgé, ancien) - lavi  
 vigne - eskalotan  
+vignoble - putau bagi  
 village - chun  
 ville - citi  
-vin de riz - risvin  
+vin de riz - ris vin  
 violet (pourpre) - viyolete blu  
 virus - virus  
 visage - muka  
@@ -1434,7 +1445,7 @@ Yi King - yeki kanon
 ####Z - Z  
 zombi - zombi  
 zone - zona  
-zoo - zou parke  
+zoo - zou bagi  
 zoologie - zou logi  
 zoologique - zou logi di  
 Zoroastre - Zardush  
@@ -1449,7 +1460,7 @@ zèbre - zebra
 échec - shibai  
 échelle - shalke  
 école (collège) - shula kan  
-école primaire - bazoshulkan  
+école primaire - baze shula kan  
 école secondaire - jungoshulkan  
 économie - malnomia  
 écorce - tira pil  

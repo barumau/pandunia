@@ -80,69 +80,68 @@ auto loga - monólogo
 avar - dano (avaria)  
 ave - aveia  
 ####B - B  
-bache - criança (menino)  
+bacha - criança (menino)  
 badam - amêndoa  
+badan - corpo  
 bagaje - bagagem  
 bagre - tigre  
-bagroselote - gato-do-mato (gato-maracajá-mirim)  
+bagre oselote - gato-do-mato (gato-maracajá-mirim)  
 bai - baía  
+baka fan - terracota  
+baka ja - padeiro  
 baki - branco  
-bakomargarite - margarita-maior  
-bakosalmon - salmão-cão (salmão-keta)  
-balibali - vários  
-balute - carvalho  
+baki margarite - margarita-maior  
+baki salmon - salmão-cão (salmão-keta)  
+baluta - carvalho  
 bambu - bambu  
 bamia - quiabo  
 ban - painel  
 ban gem - jogo de tabuleiro  
 banana - banana  
 banda - bando  
-banke - banco  
-banker - banqueiro  
+banka kan - banco  
+banka shefe - banqueiro  
 bara - barrar  
 bara - barreira  
 barde - barba  
 bari - carga (peso)  
+basa - bastante (suficiente)  
 basen - bacia  
 basha - língua (idioma)  
 bashi jinse - gênero gramatical  
-basi - bastante (suficiente)  
 baske bol - basketball  
 bata - pato  
 bateri - pilha (bateria)  
 bato - oito (8)  
 baton - vara (bastão)  
-baton kapse - gaiola (jaula)  
+baton kasa - gaiola (jaula)  
+bau li - precioso  
 bau sheke - pedra preciosa (gema)  
-bavi - precioso  
 bazar - mercado (bazar)  
 baze - base  
-bazobol - basebol (beisebol)  
-bazoshulkan - ensino primário  
+baze bol - basebol (beisebol)  
+baze shula kan - ensino primário  
 be ais - gelar  
 bebe - bebê  
-bedinje - beringela  
-beker - padeiro  
-bekofan - terracota  
-bel - pá  
+bedinjan - beringela  
+bele - pá  
 ben - filho ou filha  
 beri - baga  
-berje - bétula  
+betula - bétula  
 bil - possível  
+bil ta - habilidade (capacidade)  
 bilor - cristal  
-bilta - habilidade (capacidade)  
-bina - construir  
-binplaner - arquiteto  
-binplania - arquitetura  
-bio tokse - toxina  
+bina plan - arquitetura  
+bina plan ja - arquiteto  
+bio logi - biología  
+bio toxe - toxina  
 bio vute - organismo  
-biologi - biología  
 bir - cerveja  
+biskute - biscoito  
 biyomutu - fermentar  
 biyosistem - bioma  
 blu - azur  
 blu elfe - estrumpfe (smurf)  
-bode - corpo  
 bokse - boxe  
 bokser - boxeador (pugilista)  
 bokserpante - samba-canção  
@@ -156,6 +155,8 @@ bravo - bravo!
 briko - damasco (abricó)  
 brun - castanho (marrom)  
 brun salmon - truta-marrom  
+bu! - bu!  
+bubu - bicho-papão  
 bucha - abater  
 bucher - açougueiro (talhante)  
 buchokan - matadouro  
@@ -237,6 +238,7 @@ domi - doméstico
 dong - este (leste)  
 donivi - generoso (dadivoso, mão-aberta)  
 du - dois (2)  
+dudu - inseto  
 duga - ler  
 dulbashi - bilíngue  
 dunia - mundo  
@@ -286,6 +288,7 @@ evanjil - evangelho
 ####F - F  
 fa - fazer  
 fa asar - efetuar  
+fa bina - construir  
 fa dante - morder  
 fa valu - valorar  
 fa vote - votar  
@@ -297,6 +300,7 @@ fasili - fácil
 fasteli - profundo  
 fate - fato (facto)  
 fatigia - fadiga  
+fatura - conta (fatura)  
 fei - voo  
 feni - digital  
 fenkate - análise  
@@ -321,6 +325,7 @@ foto minar - farol (baliza)
 France krepe - crepe  
 frem - moldura  
 frute - fruta  
+frute bagi - pomar  
 fuka - vestir  
 fuke - roupa (vestidura)  
 fuku - trajar (vestir-se)  
@@ -331,7 +336,7 @@ fute marke - pegada
 ####G - G  
 ga - se  
 gabur - sepultura (túmulo, enterrar)  
-gabur istan - cemitério  
+gabur bagi - cemitério  
 gabur sheke - lápide  
 galaksia - galáxia  
 Galia - Gália  
@@ -471,8 +476,8 @@ javabe - resposta
 jeka - emprestar (pedir emprestado)  
 jekodona - emprestar  
 jekogeta - pedir emprestado  
+jen loka - terra natal  
 jeni bash - língua materna  
-jenistan - terra natal  
 jenolojia - genealogia  
 jentipe - genótipo  
 jihade - luta  
@@ -574,7 +579,6 @@ klin - tendência
 ko? - como  
 komputer - computador  
 konboni - combinar com  
-konchung - inseto  
 konkara - colaborar  
 konseler - consultor  
 konserte - concerto  
@@ -608,9 +612,12 @@ kupa - copo (taça)
 kusha - deitar  
 kushu - estar deitado (jazer)  
 ####L - L  
+labi - lábio  
 lage - lago  
 lai - vir  
-laji - refugo (escória)  
+laji - lixo (refugo , escória)  
+laji bagi - aterro (lixão)  
+laji tong - lixeira  
 lal - vermelho  
 lal bau sheke - rubi  
 lal oranje - tangerina (mandarim)  
@@ -736,8 +743,8 @@ metalbede - bigorna
 metallin - arame  
 metregraf - carta geográfica  
 metregrafia - cartografia  
+meza texe - toalha de mesa  
 meze - mesa  
-mezotesh - toalha de mesa  
 mi - eu (me)  
 migre - migração  
 migru - mudar-se  
@@ -803,6 +810,7 @@ nilchentaur - escovinha (centáurea)
 Nipon - Japão  
 nish - nicho  
 no - não  
+nobi - não-binário  
 noche - noite  
 Noe - Noé  
 Noe di nave - arca de Noé  
@@ -934,6 +942,7 @@ purfina - terminar (acabar, concluir)
 purfityamiste - vegetalista  
 puri - cheio  
 purshipa - ensopar (encharcar, marinar)  
+putau bagi - vinhedo  
 putau oranje - toranja  
 ####R - R  
 radio - radio  
@@ -975,11 +984,11 @@ saida - caçar
 sake - saco  
 salame - saudação  
 salamia - bem-estar  
+sale - sal  
+sale di - salino  
 sali - saudável (saudio)  
 salia - saúde  
 salsafia - higiene  
-salte - sal  
-salti - salino  
 sam - igual  
 samemos - compaixão  
 sammetre - simetria  
@@ -1162,6 +1171,7 @@ var penta - sexta-feira
 var sete - domingo  
 var tri - quarta-feira  
 var un - segunda-feira  
+vari - vários  
 varka alga - kelp  
 varka late - página  
 vase - oásis  
@@ -1219,10 +1229,10 @@ zona - zona
 zong - poste (estaca)  
 zong minte - hortelã-verde  
 zou - animal (besta, bicho)  
+zou bagi - zoológico  
 zou kata - fábula  
 zou logi - zoologia  
 zou logi di - zoológico  
-zou parke - zoológico  
 zuku - etnia  
 zuku di - étnico  
 zumarda - esmeralda  
