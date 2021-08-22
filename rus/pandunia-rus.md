@@ -23,6 +23,7 @@ ais krem - мороженое
 ajila - спешить  
 akacia - акация  
 akare - клещ (лепта)  
+akse - ось  
 ala - изменять  
 alga - водоросли  
 alga fungu - лишай  
@@ -54,6 +55,7 @@ aple sos - яблочное пюре
 Apsni - Абхазия  
 arabi babul - акация нильская  
 arane - паук  
+arane nete - паутина  
 arbuza - арбуз  
 area - площадь  
 argum - аргумент (обосновани)  
@@ -85,7 +87,6 @@ Austronesia - Австронезия
 auto loga - монолог  
 avar - повреждение (авария)  
 ave - овёс  
-akse - ось  
 ####B - B  
 babu - глава  
 babul - вахелия  
@@ -134,6 +135,10 @@ bazar - рынок (базар)
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
 baze shula kan - семилетка  
+be bio mute - заквасить  
+be bum - взрываться  
+be tele loka - телепортировать  
+be turbe - утруждай  
 bebe - младенец  
 bele - лопата  
 beri - ягода  
@@ -144,26 +149,25 @@ bilor - кристалл
 bina plan - архитектура  
 bina plan ja - архитектор  
 bio - органический  
+bio cana she - компост  
 bio jinse - биологический пол  
 bio logi - биология  
-bio tokse - токсин  
+bio sistem - биом  
+bio toksi - токсин  
 bio vute - организм  
 bir - пиво  
 biskute - печенье (бисквит)  
-biyochaniver - компост  
-biyomutu - заквасить  
-biyosistem - биом  
 biznes - предприятие (бизнес)  
 blu - синий (голубой)  
 blu elfe - смурф (штрумпф)  
 boi - поплавок (буй)  
 bokse - бокс  
-bokser - боксёр  
-bokserpante - семейные  
+bokse ja - боксёр  
+bokse pante - семейные  
 bol - шар  
 bomba - бомба  
 bon - хороший  
-bonsinyi - благоприятный  
+bon sin di - благоприятный  
 botel - бутылка  
 boyu - плавать  
 Brahma - Брахма  
@@ -176,14 +180,14 @@ brun alga - бурые водоросли
 brun salmon - кумжа  
 bu! - бу  
 bubu - бука  
-bucher - мясник  
-buchokan - бойня  
+bucha ja - мясник  
+bucha kan - бойня  
 Buda - Будда  
 bufete - буфет  
 buku - книга  
+bulbul - соловей  
 bum - взрыв  
-bumu - взрываться  
-bute - ботинок  
+buta - ботинок  
 buton - пуговица  
 ####C - C  
 celu logi - цитология  
@@ -233,7 +237,7 @@ danse - танец
 dante balute - дуб зубчатый  
 dante na di - беззубый  
 darjomute - развитие  
-date - данные  
+data - данные  
 datobanke - база данных  
 dau ban - табличка с названием улицы  
 defban - щит  
@@ -251,6 +255,7 @@ dinamite - динамит
 dinde - индюк  
 diorite - диорит  
 diske - диск  
+do long - далеко  
 dobe - кирпич  
 dokum - документ  
 dokumfilme - документальный фильм  
@@ -321,6 +326,11 @@ evanjil - евангелие
 fa - делать  
 fa bina - строить  
 fa dante - откусить  
+fa kancha dake - глазуровать  
+fa loka - ставить  
+fa tele fon - звонить  
+fa truke - обмануть  
+fa turbe - утруждать  
 fa valu - оценивать  
 faidia - применение (утилитарность)  
 fan - болото  
@@ -566,7 +576,6 @@ kamisa - рубашка
 kampistan - полевой стан  
 kanape - канапе  
 kancha - стекло  
-fa kancha dake - глазуровать  
 kancha dake - глазурь  
 kandi - конфета  
 kangaru* - кенгуру  
@@ -625,7 +634,8 @@ klimmute - изменение климата
 klin - тенденция (склонить)  
 ko? - как  
 koda - хвост  
-komputer - компьютер  
+komputa - компьютер  
+kon trati - контракт  
 konboni - соответствовать (сочетаться)  
 konformu - применяться (согласоваться)  
 konga - пробиться  
@@ -633,7 +643,6 @@ konkara - сотрудничать (кооперировать)
 konpashia - жалость (сердобольность)  
 konseler - консультант (советник)  
 konserte - концерт  
-kon trati - контракт  
 kope - копия  
 kora - бегать (бежать)  
 koral - коралл  
@@ -714,20 +723,19 @@ lisan - язык
 liste - список  
 litre - литр  
 loga - говорить  
-loga asal - этимология  
-loge - запись  
 loga - речь  
-loge buku - судовой журнал  
-logem - слово (речь)  
+loga asal - этимология  
 loga di - лексический  
 loga jami - словарь  
-fa loka - ставить  
+loge - запись  
+loge buku - судовой журнал  
+logem - слово (речь)  
 loka - место  
-long kata - роман  
-do long - далеко  
-long dura di - долгий (длительный)  
 long dura - долго  
+long dura di - долгий (длительный)  
+long kata - роман  
 long pipre - перец длинный  
+long tire - вытянуть  
 lotra - выдра  
 lou - протекать (просочиться)  
 lugi - зелёный  
@@ -736,6 +744,8 @@ lun - месяц
 luna - луна  
 luna keke - лунный пирог  
 luta ja - грабитель  
+Luter din - лютера́нство  
+Luter din ja - лютеранский  
 ####M - M  
 ma - мать (мама)  
 magesium - магний  
@@ -757,16 +767,13 @@ marche - марш
 margai - маргай  
 margarite - маргаритка  
 Marse - Марс  
-Luter din ja - лютеранский  
-Luter din - лютера́нство  
-masa - масса  
-masale - пряность  
 mas fili - предпочитать  
 mas fili di - любимый  
 mas fili jui - фаворитизм (кумовство)  
 mas forte - пополнение  
+masa - масса  
+masale - пряность  
 masim - максимум  
- - переоценить  
 maska - маска  
 masmul - клубень  
 masmulsolful - топинамбу́р  
@@ -794,7 +801,7 @@ mester - мастер
 metalbede - наковальня  
 metregraf - карта  
 metregrafia - картография  
-meza tekse - скатерть  
+meza tela - скатерть  
 meze - стол  
 mi - я  
 migre - миграция  
@@ -816,9 +823,9 @@ misha - мешать
 mishi alkol - коктейль  
 Misria - Египет  
 mitre - метр  
-moke - дерево  
 mokoban - доска (планка)  
 mokotan - бревно  
+moku - дерево  
 mola - молоть  
 molia - мельница  
 molsheke - жёрнов  
@@ -857,13 +864,8 @@ nave raite - правый борт
 nefre - почка  
 nefte - масло  
 Neputun - Нептун  
-neu - новинка (новь)  
+nerve celu - нейрон  
 neujeni - новорождённый  
-neuloge - неологизм  
-neurochel - нейрон  
-nevi - новый  
-nevia - новизна  
-nevike - новичок  
 nide - гнездо (улей)  
 nilchentaur - василёк синий  
 nilon - нейлон  
@@ -881,6 +883,11 @@ nong nomi - агрономия
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
+nove - новинка (новь)  
+nove - новый  
+nove jen - новичок  
+nove loga - неологизм  
+nove ta - новизна  
 nu - ну  
 numbe - число  
 ####O - O  
@@ -925,6 +932,8 @@ par - уровень
 param - параметр (аргумент)  
 parche - кусок  
 pari - равный  
+pari - фея  
+pari kata - сказка  
 pari numbe - чётное число  
 parike - ровня  
 parke - парк  
@@ -951,12 +960,11 @@ pei gung jiu - карьера
 pelpel - бабочка (мотылёк)  
 pendokardon - чертополох поникший  
 penta - пять (5)  
-pente - картина  
-penter - художник  
-per - перо  
-peri - фея  
-peri kata - сказка  
+penta - картина  
+penta ja - художник  
+penta tela - полотно  
 perkardon - бодяк обыкновенный  
+pero - перо  
 pese - деньги  
 pesh - рыба  
 peshhuke - крючок  
@@ -1035,8 +1043,8 @@ ringar - ринг (манеж)
 ris - рис  
 ris vin - рисовое вино  
 ritim - ритм (такт)  
-riu - река  
 riutube - воронка  
+rivo - река  
 robote - робот  
 roka - качать  
 roketolancher - ракетная установка  
@@ -1064,6 +1072,10 @@ salame - приветствие
 salamia - благосостояние  
 sale - соль  
 salsafia - гигиена  
+sama - небо  
+sama blu - голубой  
+sama hal - погода  
+sama kinar - горизонт  
 samemos - сострадание  
 sammetre - симметрия  
 samrayia - согласие  
@@ -1207,72 +1219,62 @@ susan - лилия
 ####T - T  
 tabi - природа (естество, характер)  
 table - плита  
-tablokomputer - планшетный компьютер  
+table komputa - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
 tail - черепи́ца  
-taksometrer - таксометр  
-tali moke - куст  
-taltesh - ковёр  
+taksi metre gi - таксометр  
+tal moku - куст  
+tal tela - ковёр  
 tan - стебель  
-tarje - перевод  
+tarjum she - перевод  
 tas - блюдо (таз)  
-tatu* - татуировка (тату)  
-tazi - свежий  
+tatu - татуировка (тату)  
+taza - свежий  
 tehne - техника  
-tehnelogi - технология  
+tehne logi - технология  
+tela - ткань  
+tela gi - ткацкий станок  
+tele fon gi - телефон  
+tele fon lin - телефонная линия  
+tele fon shutu - телефония  
 tele vide gi - телевизор  
-telefon - телефон  
-teleloku - телепортировать  
 teleskope - телескоп  
-telfona - звонить  
-telfonia - телефония  
-telfonlin - телефонная линия  
 tema - тема  
-tema nam - название (пьесы, заголовок)  
-ten - небо  
-tenhal - погода  
-tenkenar - горизонт  
-tennili - голубой  
-tensi - тугой  
+tema name - название (пьесы, заголовок)  
+tense - тугой  
 tepe - лента  
-terchi - косой  
-teroristia - терроризм  
+terca - косой  
+teror jui - терроризм  
 tese - довод  
 teste - проба (тест)  
-tekse - ткань  
-tekse mashin - ткацкий станок  
 tikete - билет  
 tim - команда  
-tira milke - тянуть  
-tira pil - ободрать  
-tirbaton - рычаг  
-tirlonga - вытянуть  
-tiroriu - отбойное течение  
+tire baton - рычаг  
+tire dara - отбойное течение  
+tire yo milke - тянуть  
+tire yo pil - ободрать  
 tisa - девять (9)  
-tocha - касаться  
-toksilogi - токсикология  
+tochu - касаться  
+toksi logi - токсикология  
 tomate - помидор (томат)  
-topograf - топография  
+topo grafi - топография  
+trati - договор  
 trator - волочить  
 trator gi - трактор  
-trati - договор  
 tri - три (3)  
-fa truke - обмануть  
 truke - обман  
 tu - ты  
 tumen di - ваш  
 tundra shan - фьельды  
-fa turbe - утруждать  
-be turbe - утруждай  
 tuzi - кролик (заяц)  
 ####U - U  
 un - один (1)  
-unta - единица  
-unta liga - союз  
-unike - только (единственно, единственный, уникальный)  
-unike jan di - одинокий (единичный)  
 un mar - один раз  
 un oko di lense - монокль  
+unike - только (единственно, единственный, уникальный)  
+unike jan di - одинокий (единичный)  
+unta - единица  
+unta liga - союз  
 ura - ура  
 Uran - Уран  
 ####V - V  
@@ -1314,11 +1316,11 @@ vide ja - зрительница
 vide punte - перспектива (точки зрения)  
 vidou - вдова  
 vin kan - винном заводе  
+violeta blu - фиолетовый (пурпурный)  
 virje - девственник  
 virus - вирус  
 virus logi - вирусология  
 Vishnu - Вишну  
-violeta blu - фиолетовый (пурпурный)  
 viza - виза  
 vode - клятва (присяга, обет)  
 vol - хотеть  
@@ -1376,6 +1378,7 @@ zuku di - этнический
 zuku medi di - межэтнический  
 Zulu - зулус  
 zumarda - изумруд  
+ - переоценить  
  - обременять  
  - дождливый  
  - дожди́ть  

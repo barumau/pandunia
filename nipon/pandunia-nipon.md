@@ -39,6 +39,7 @@ angul pike - 指先
 anjil - 伝言 (メッセージ)  
 aple - 林檎  
 arane - オレンジ  
+arane nete - クモの巣  
 area - 辺  
 argente - 銀  
 arka - 弓 (弓なり)  
@@ -94,6 +95,11 @@ baze bol - 野球
 baze petra - 基盤岩  
 baze shula kan - 小学校  
 be ais - 凍る (凍結する)  
+be bio mute - 熟成する (発酵する)  
+be bum - 爆発する  
+be tele loka - 瞬間移動  
+be ting - 止まる  
+be turbe - 悩む (わざわざする)  
 be van - 遊ぶ  
 bebe - 赤ちゃん  
 bele - シャベル (スコップ)  
@@ -106,22 +112,21 @@ bil ja - 有能
 bilor - 結晶  
 bina plan - 建築学  
 bina plan ja - 建築家  
+bio cana she - 堆肥  
 bio jinse - 生物学の性  
 bio logi - 生物学  
-bio tokse - 毒素  
+bio sistem - 生物群系  
+bio toksi - 毒素  
 bio vute - 生物  
 bir - ビール  
 biskute - ビスケット (クッキー)  
-biyochaniver - 堆肥  
-biyomutu - 熟成する (発酵する)  
-biyosistem - 生物群系  
 biznes - 業務 (営業, ビジネス)  
 blu - 青い  
 blu ceram sing - ヒナソウ  
 blu elfe - スマーフ (シュトロンフ)  
 boi - フロート (ブイ)  
 bokse - ボクシング (拳闘)  
-bokser - ボクサー (拳闘家)  
+bokse ja - ボクサー (拳闘家)  
 bol - 玉 (球)  
 bon - 良い  
 bon guste di - 美味しい  
@@ -134,14 +139,13 @@ brun - 茶色
 brun alga - 褐藻  
 brun salmon - ブラウントラウト  
 bu! - ばあ  
-bucher - 肉屋  
-buchokan - 屠畜場  
+bucha ja - 肉屋  
+bucha kan - 屠畜場  
 Buda - 仏陀  
 bufete - ビュッフェ (バイキング)  
 buku - 本 (書物)  
 bum - 爆発  
-bumu - 爆発する  
-bute - ブーツ  
+buta - ブーツ  
 ####C - C  
 cau - 草  
 cau istan - 草地  
@@ -268,6 +272,8 @@ fa - する
 fa an galta - デバッグする  
 fa bina - 建てる  
 fa dante - 咬む  
+fa tele fon - 電話する  
+fa truke - 騙す  
 fa ver - ただす  
 faidia - 使用 (為, 利)  
 falsvide - 幻覚  
@@ -378,6 +384,7 @@ haha - 笑う
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 提督 (海軍大将)   
+hai kinar - 岸  
 haichau - 海草  
 haiful - イソギンチャク  
 haigun - 海軍  
@@ -651,26 +658,27 @@ linke - 繋がり (リンク)
 lisan - 舌  
 litre - リットル  
 loga - 話す  
-loge - 記録  
 loga - 演説  
+loga jami - 語彙  
+loge - 記録  
 loge buku - 日誌  
 logem - 言葉  
 logi - 研究 (科学, 学)  
-loga jami - 語彙  
 loka - 場所  
 lona biznes - 話し合う (話を付ける)  
-long kata - 小説  
 long - 長い  
+long kata - 小説  
 long krokodil - クロコダイル  
 long pipre - 畢撥  
+long tire - 伸びる (張る)  
 lotra - 獺  
 lou - 漏る  
 lugi - 緑 (緑色)  
 lugi melon - ハネデューメロン  
 luku - 六 (6)  
 lun - 月間  
-lung - 竜  
 luna keke - 月餅  
+lung - 竜  
 ####M - M  
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
@@ -686,10 +694,10 @@ mangi - 忙しい
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
-masa - 質量  
-masale - 香辛料  
 mas fili di - 好き (お気に入りの)  
 mas forte - 増派 (援兵)  
+masa - 質量  
+masale - 香辛料  
 maska - 仮面 (マスク)  
 masmul - 芋 (塊茎)  
 masmulsolful - キクイモ  
@@ -731,7 +739,7 @@ metalbede - 金敷き (鉄床)
 metallin - 線 (針金)  
 metre - 測定  
 metre gi - 測定装置 (計)  
-meza tekse - テーブル掛け  
+meza tela - テーブル掛け  
 meze - 机 (テーブル)  
 mezistan - 台地 (高地)  
 mi - 私  
@@ -752,8 +760,8 @@ Misria - エジプト
 mita - 会う  
 mite - 会合 (会議, ミーティング)  
 mitre - メートル  
-moke - 木  
 mokotan - 丸木  
+moku - 木  
 mol - モル  
 molekul - 分子  
 mos - 苔  
@@ -785,12 +793,9 @@ nefre - 腎臓
 nefte - 油 (オイル)  
 neftoguke - シマカンギク (アブラギク)  
 nen - 年  
+nerve toksi - 神経毒  
 nete - 網  
-neuloge - 新語 (新造語)  
-neurotokse - 神経毒  
 neuyangi - 近代的  
-nevi - 新しい  
-nevike - 初心者  
 niche - 下  
 nide - 巣  
 nilchentaur - ヤグルマギク  
@@ -810,11 +815,14 @@ norde - 北
 norma - 標準  
 norma - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
+nove - 新しい  
+nove jen - 初心者  
+nove loga - 新語 (新造語)  
 numba - 数える  
 ####O - O  
 ohtopus - タコ  
-oko - 目  
 okeyi - 大丈夫 (ＯＫ)  
+oko - 目  
 okosuigas - 催涙ガス  
 onde - 波  
 oranji - オレンジ色の  
@@ -838,6 +846,7 @@ pante - ズボン
 papai - パパイヤ  
 param - 引数 (パラメーター)  
 parchokayu - 弾ける  
+pari desha - 仙境  
 pari numbe - 偶数  
 parike - 同輩  
 parlini - 並行  
@@ -860,8 +869,8 @@ pei gung ja - プロフェッショナル
 pei gung jiu - キャリア  
 pelpel - チョウ  
 penta - 五 (5)  
-pente - 絵の具 (ペンキ)  
-penter - 画家 (絵かき)  
+penta - 絵の具 (ペンキ)  
+penta ja - 画家 (絵かき)  
 perkardon - アメリカオニアザミ  
 pese - 金  
 pesh - 魚  
@@ -912,9 +921,9 @@ Putong Han - 普通話 (北京語)
 rai - 意見 (見解)  
 raite - 右  
 raja - 国王  
-rang mate - 染め粉  
 rang arka - 虹  
 rang arka salmon - ニジマス  
+rang mate - 染め粉  
 rapide - 速い  
 rare - 稀 (疎ら)  
 rasa  - 人種  
@@ -932,8 +941,8 @@ ring - 輪
 ringar - リング  
 ris - 米 (ご飯)  
 ritim - リズム  
-riu - 川  
 riutube - 漏斗  
+rivo - 川  
 roketolancher - ロケット発射器  
 rokomuzike - ロック  
 Roma - ローマ  
@@ -959,6 +968,10 @@ sale - 塩
 sali - 元気 (丈夫)  
 salia - 健康  
 salmon - 鮭鱒  
+sama - 空  
+sama blu - 空色  
+sama hal - 天気  
+sama kinar - 地平線 (水平線, 天際)  
 sammetre - 対称  
 samsifa - シミュレートする  
 samsifi - 同じよう (近い)  
@@ -1084,54 +1097,43 @@ sundaria - 美しさ
 supre - 上  
 ####T - T  
 tabi - 性質 (性)  
-tablokomputer - タブレットコンピュータ  
+table komputa - タブレットコンピュータ  
 tail - タイル (瓦)  
-tali moke - 灌木 (藪)  
-taltesh - 絨毯 (カーペット)  
+tal moku - 灌木 (藪)  
+tal tela - 絨毯 (カーペット)  
 tan - 茎 (胴)  
 tas - 皿  
-tate - 岸  
 tehne - 技術  
-telefon - 電話  
-teleloku - 瞬間移動  
+tela - 布  
+tela gi - 織機  
+tele fon gi - 電話  
 teleskope - 望遠鏡 (テレスコープ)  
-telfona - 電話する  
-tema nam - 題名 (書名, タイトル)  
-ten - 空  
-tenhal - 天気  
-tenkenar - 地平線 (水平線, 天際)  
-tennili - 空色  
-terchi - 斜め  
-tekse - 布  
-tekse mashin - 織機  
-tingu - 止まる  
+tema name - 題名 (書名, タイトル)  
+terca - 斜め  
 tipe - 種類  
-tira pil - はがす (剥ぐ)  
-tirbaton - レバー (てこ)  
-tirlonga - 伸びる (張る)  
-tiroriu - 離岸流  
+tire baton - レバー (てこ)  
+tire dara - 離岸流  
+tire yo pil - はがす (剥ぐ)  
 tisa - 九 (9)  
 toksi - 毒  
 Tokyo - 東京  
-topograf - 地勢  
+topo grafi - 地勢  
+trati - 合意  
 trator gi - トラクター  
 tren - 電車 (列車)  
-trati - 合意  
 tri - 三 (3)  
-fa truke - 騙す  
 truke - 悪戯 (詐欺)  
 tu - あなた  
 tu di - あなたの  
 tumen - あなたたち  
-be turbe - 悩む (わざわざする)  
 tuzi - うさぎ  
 ####U - U  
 umami - 旨味  
 un - 一 (1)  
-unta - 団結 (統一)  
-unta liga - 連合 (接合)  
 unike - だけ (唯一の)  
 unike jan di - 一人の (寂しい, ポツリ)  
+unta - 団結 (統一)  
+unta liga - 連合 (接合)  
 use bil di - 使用可能  
 ####V - V  
 va - わあ  
@@ -1170,9 +1172,9 @@ vide ja - 見物人
 vide punte - 遠近法 (見通し, 観点)  
 vidou - 寡婦  
 vin kan - ワイナリー (酒造場)  
-Vishnu - ヴィシュヌ  
 violeta - スミレ  
 violeta blu - 紫色 (パープル)  
+Vishnu - ヴィシュヌ  
 vode - 約束  
 vol - 欲しい  
 vulva - 陰門  

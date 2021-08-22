@@ -18,7 +18,7 @@ akacja - akacia
 akacja arabska - arabi babul  
 akcent, nacisk - acente  
 akt, scena - roler  
-aktualizować (zaktualizować, ulepszać, ulepszyć) - bondarja  
+aktualizować (zaktualizować, ulepszać, ulepszyć) - bon darja  
 aktyn - acinium  
 aktywny (włączony, uruchomiony) - karma ja  
 aktywować (włączyć, uruchomić) - fa karma  
@@ -140,7 +140,7 @@ Bangladesz - Bangla desha
 banglijski - bangla basha  
 bank - banka kan  
 bankier - banka shefe  
-baobab - bui  
+baobab - buyu  
 bar - bar  
 bar - barium  
 bar, knajpa - bir kan  
@@ -161,7 +161,7 @@ bawół domowy - karbau
 baza danych (bank danych) - datobanke  
 bazowy, podstawowy - baze di  
 bańka - lilbol  
-baśń - peri kata  
+baśń - pari kata  
 beczka - tong  
 beduiński; nomadyczny - badavi  
 bejsbol (baseball) - baze bol  
@@ -194,7 +194,7 @@ bilet - tikete
 bilet powrotny - retrotikete  
 bilion, giga- - giga  
 biologia (nauka o życiu) - bio logi  
-biom - biyosistem  
+biom - bio sistem  
 biromantyczny - dulromansi  
 biseksualny - dulseksi  
 biszkopt, ciastko - biskute  
@@ -257,7 +257,7 @@ Burkina Faso - Burkina Faso
 Burundi - Rundi  
 burza z piorunami - gromtafun  
 burza, sztorm, tajfun - tafun  
-but - bute  
+but - buta  
 but - sapate  
 butelka - botel  
 Bułgaria - Bolgaria  
@@ -290,7 +290,7 @@ całość (integralność) - holia
 całus - chum  
 cały - holi  
 cebula - piaze  
-cecha, atrybut, własność; -ość - bonsifia  
+cecha, atrybut, własność; -ość - bon sifa ta  
 cecha, właściwość, parametr - sifa  
 cegła - dobe  
 cel - dike  
@@ -313,7 +313,7 @@ Champagne - shampan
 chaos, nieporządek; wrzawa, zgiełk - haos  
 chcieć (pragnąć) - icha  
 chcieć, pragnąć - vol  
-chciwy (żądny) - tami  
+chciwy (żądny) - tam  
 chemia - kimlojia  
 chemiczny - kimi  
 cherubin - kerubi  
@@ -356,7 +356,7 @@ cierpieć - pashu
 cieszyć się (zażywać, bawić się) - be van  
 cieszyć, podobać się - suka  
 cień - saya  
-ciągnąć - tira  
+ciągnąć - tire  
 ciągły (analogowy) - zoku di  
 ciąć - kata  
 ciężar (brzemię) - bari  
@@ -364,8 +364,8 @@ ciężarny (w ciąży) - hamili
 ciężki (masywny) - veze di  
 ciśnienie atmosferyczne - air bari  
 cmentarz - gabur bagi  
-cnota (moralność) - bondeke  
-cnotliwy (prawy) - bondeki  
+cnota (moralność) - bon deke  
+cnotliwy (prawy) - bon deke di  
 co? - ke  
 co? - ke jan  
 coś - yo she  
@@ -425,9 +425,9 @@ córka - femi pute
 ####D - D  
 dach - chati  
 daktyl - tamar  
-daleki, odległy, dystans - tele  
+daleki, odległy - tele di  
 damarzyk (meranti) - merante  
-dane - date  
+dane - data  
 Dania - Dan  
 danie - tas  
 darmsztadt - darmesitadium  
@@ -468,7 +468,7 @@ dmuchać - hava
 do, dopóki, dla - do  
 dobry - bon  
 dobry ... - salam (salami)  
-dobry los, szczęście - boni zar  
+dobry los, szczęście - bon zar  
 dobry ranek - salam sube  
 dobry wieczór - salam suar  
 dodatkowy - mas di  
@@ -493,7 +493,7 @@ dorsz pacyficzny - pachokade
 doskonalić (optymalizować, ulepszać) - purbona  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fada  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - geta  
-dotyczyć - tocha  
+dotyczyć - tochu  
 dowieść, dowodzić; zeznać, zeznawać - dalila  
 dowód; zeznanie - dalil  
 dowódca, kierownik - lider  
@@ -504,7 +504,7 @@ droga, szosa, ulica - dau
 drożdże - hamir  
 drużyna - tim  
 dryfować (pływać, płynąć) - boyu  
-drzewo - moke  
+drzewo - moku  
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - chira  
 drzwi wyjściowe - chutomun  
 drzwi, brama, portal - mun  
@@ -526,10 +526,11 @@ dyrektor szkoły - shula shefe
 dysk - diske  
 dyskretny (cyfrowy, kwantowy) - feni  
 dyskusja, debata, dyskurs - lon  
-dyskutoać, twierdzić - tesa  
+dyskutoać, twierdzić - fa tese  
 dysproz - disprosium  
 dystans - tele  
-dywan - taltesh  
+dystans - tele ta  
+dywan - tal tela  
 dzban, dzbanek; słój, słoik - jar  
 dziadek (dziad) - chin pa  
 działka (teren) - geo tika  
@@ -570,7 +571,7 @@ długość - long ta
 długość geograficzna - ging cirke  
 długość geograficzna - ging darje  
 dźinizm, dżinizm - jeinistia  
-dźwignia - tirbaton  
+dźwignia - tire baton  
 dźwięk, brzmienie - son  
 Dżakarta - Jakarta  
 Dżibuti - Jibuti  
@@ -587,7 +588,7 @@ ekologia (nauka o środowisku) - ekolojia
 ekonomia - malnomia  
 ekran - ekran  
 ekskrement, gówno - kaka  
-eksplodować (wybuchnąć, wybuchać) - bumu  
+eksplodować (wybuchnąć, wybuchać) - be bum  
 eksportować (wyeksportować) - eshmisa  
 Ekwador - Ekuador  
 elastyczny - lasti  
@@ -639,7 +640,7 @@ fałszywy, nieprawdziwy - falsi
 feminista (feministka) - femiste  
 feminizm - femistia  
 ferm - fermium  
-fermentować - biyomutu  
+fermentować - be bio mute  
 Fidżi - Fiji  
 figura, reprezentacja - figur  
 Filipiny - Filipinas  
@@ -742,7 +743,7 @@ gradient (gradacja, stopniowanie) - darjomeden
 gram - gram  
 gramatyczny - basha kanun li  
 gramatyka - basha kanun  
-granica, skraj, brzeg - kinar  
+granica, skraj, brzeg, krawędź - kinar  
 granit - granite  
 gratulacje! - barka  
 gratulować; błogosławić - barka  
@@ -859,7 +860,7 @@ Honduras - Onduras
 Hong Kong - Hong Gong  
 honorowy - onori  
 hormon - hormon  
-horyzont - tenkenar  
+horyzont - sama kinar  
 hotel - hotel  
 houstoia azurowa - blu ceram sing  
 houstonia - seramoshing  
@@ -952,7 +953,7 @@ Japonia - Nipon
 japoński - niponi  
 jarzmo - yogo  
 jaskinia - gua  
-jasnoniebieski (lazurowy) - tennili  
+jasnoniebieski (lazurowy) - sama blu  
 jasny, czysty - mingi  
 jasny, świetlny - foti  
 jastrun właściwy - baki margarite  
@@ -1089,7 +1090,7 @@ klasyczny - chenyangi
 klasyfikować, kategoryzować - klasa  
 klatka - baton kasa  
 klatka piersiowa - sinokapse  
-klawiatura - butonban  
+klawiatura - buton ban  
 klawisz, przycisk, przełącznik, guzik - buton  
 klej - glute  
 klejnot - bau sheke  
@@ -1121,7 +1122,7 @@ kolczuga - silnete
 kolec - ding  
 kolej - tren dau  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
-kolekcjonować, zebrać, zbierać - jama  
+kolekcjonować, zebrać, zbierać - fa jami  
 kolonia, osada - kolonia  
 kolonialista - koloniste  
 kolonializm - kolonistia  
@@ -1136,8 +1137,8 @@ komiks; kreskówka - grafi kata
 Komory - Komoro nesia  
 kompas (namagnesowana igła) - pontopin  
 kompatybilny (pasujący) - konfunchabli  
-kompost - biyochaniver  
-komputer - komputer  
+kompost - bio cana she  
+komputer - komputa  
 komunista - konchaniste  
 komunizm - konchanistia  
 komórka (biologia) - celu  
@@ -1165,7 +1166,7 @@ Korea - Chosen
 Korea Południowa - Sudi chosen  
 Korea Północna (Koreańska Republika Ludowo-Demokratyczna) - Nordi chosen  
 koreański - choseni  
-korek, zatyczka, szpunt - tape  
+korek, zatyczka, szpunt - tapa  
 korniszon - suanpurshipi hiyar  
 korona - koron  
 koronawirus - koronvirus  
@@ -1206,7 +1207,7 @@ krokodyl - krokodil
 krokodyl - long krokodil  
 kropka (znak interpunkcyjny) - punte  
 kropla - giota  
-krosno - tekse mashin  
+krosno - tela gi  
 krowa - mumu  
 krwawić - lou sang  
 kryminalny, przestępczy - krimi  
@@ -1215,7 +1216,7 @@ kryształ - bilor
 krytyk - pipinger  
 kryzys - krize  
 kryzysowy - krizi  
-krzak (krzew) - tali moke  
+krzak (krzew) - tal moku  
 krzem - silike  
 krzemień - hogosheke  
 krzyknąć, krzyczeć - krita  
@@ -1389,7 +1390,7 @@ maksymalny - masim di
 malajski - malayali  
 malajski - malayi  
 malaria - malaria  
-malarz - penter  
+malarz - penta ja  
 Malawi - Malavi  
 Malediwy (Republika Malediwów) - Divehia  
 Malezja - Malaisia  
@@ -1623,7 +1624,7 @@ naleśnikarnia - krepokan
 należeć (być członkiem) - memba  
 należeć - malu  
 namalować, malować - penta  
-namalować, malować - pente  
+namalować, malować - penta  
 Namibia - Namibia  
 namiot - hemah  
 namoczyć (marynować) - purshipa  
@@ -1662,17 +1663,17 @@ naładować, załadować, obładować, ładować -
 negatywny (przeciwny, nie) - an  
 negocjować - lona biznes  
 neodym - neodimium  
-neologizm - neuloge  
+neologizm - nove loga  
 neon - neon  
 Nepal - Nepal  
 Neptun - Neputun  
 neptun - netunium  
 nerka (łosoś czerwony) - lal salmon  
 nerka - nefre  
-nerw - neure  
-nerwowy (neuronowy) - neuri  
-neuron - neurochel  
-neuropatia - neuropatia  
+nerw - nerve  
+nerwowy (neuronowy) - nerve di  
+neuron - nerve celu  
+neuropatia - nerve pati  
 Nevis - Nevis  
 nic, żadna rzecz - nol she  
 nie - no  
@@ -1681,9 +1682,9 @@ nie zgadzać się - alo rai
 niebezpieczeństwo, ryzyko, szansa - zar  
 niebezpieczny - hatar li  
 niebieski - blu  
-niebieski, niebiański, podniebny - teni  
+niebieski, niebiański, podniebny - sama di  
 niebieskozielony (cyjan) - siani  
-niebo - ten  
+niebo - sama  
 niech my, hajda - haida  
 niechętny - an icha ja  
 niedziela - var sete  
@@ -1712,7 +1713,7 @@ niknąć (blaknąć, gasnąć, słabnąć) - mirdu
 nikt, żadna osoba - nol jan  
 nikły - mirdi  
 niob - niobium  
-niski - tali  
+niski - tal di  
 nisza, alkowa - nish  
 Niue - Niue  
 niuton (N) - nuton  
@@ -1733,15 +1734,15 @@ nostalgiczny - nostalgi
 notatka, memo - memnote  
 notatnik - note buku  
 notować, obserwować, zauważyć, zauważać - nota  
-Nowa Kaledonia - Nevi Kaledonia  
-Nowa Zelandia - Nevi Zelandia  
-nowicjusz (nowa osoba) - nevike  
+Nowa Kaledonia - Nove Kaledonia  
+Nowa Zelandia - Nove Zelande  
+nowicjusz (nowa osoba) - nove jen  
 nowoczesne - neuyangi  
-nowość - neu  
-nowy - nevi  
-Nowy Jork - Nevi Yorke  
+nowość - nove  
+nowy - nove  
+Nowy Jork - Nove Yorke  
 nożyce, nożyczki - makas  
-nuda (znudzenie) - boria  
+nuda (znudzenie) - bori  
 nudności (choroba lokomocyjna) - retroguli sense  
 nudysta - nudiste  
 nudyzm - nudistia  
@@ -1754,21 +1755,21 @@ obcęgi, kleszcze, szczypce - pinser
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zai di  
 obiad, lunch - den yam  
 obiecać, angażować się - fa vode  
-obiecujący (dobrze wróżący) - bonsinyi  
-obniżać (obniżyć) - tala  
+obiecujący (dobrze wróżący) - bon sin di  
+obniżać (obniżyć) - fa tal  
 obozowicz - kampe  
 obrabować, splądrować - luta  
 obraza (obelga) - dusnam  
 obraza, obelga - ninde  
 obrazić - dusnamana  
 obrazowy, graficzny; opisowy - grafi li  
-obrać (obierać) - tira pil  
+obrać (obierać) - tire yo pil  
 obraźliwy, niemiły, obelżywy - nindi  
 obrażenia (rana, krzywda) - avar  
 obrona - def  
 obronić (chronić) - defa  
 obrońca - defer  
-obrus - meza tekse  
+obrus - meza tela  
 obrócić (kręcić) - rota  
 obrócić się (kręcić się) - rotu  
 obserwator (widz) - vide ja  
@@ -1798,7 +1799,7 @@ oddech - nafas
 odetkać, odtykać - an tapa  
 odkurzacz - fun chupa gi  
 odmówić (odrzucić) - nega  
-odnowić, odnawiać, uczynić nowym - neva  
+odnowić, odnawiać, uczynić nowym - fa nove  
 odpowiedzieć, odpowiadać - javaba  
 odpowiedź, odzew - javabe  
 odsłonić, odsłaniać - an daka  
@@ -1944,7 +1945,7 @@ pasować - konboni
 pasta - paste  
 pasywny (nieaktywny) - pastabi  
 paszport - pasporte  
-patelnia - tave  
+patelnia - tava  
 patogen - patojener  
 patologia - patilogi  
 patrzeć (oglądać) - fa oko  
@@ -2013,7 +2014,7 @@ piwo - bir
 piwonia - mudan  
 pizza - pize  
 pizzeria - pizokan  
-pióro - per  
+pióro - pero  
 pióro, długopis - kalam  
 piątek - var penta  
 pięciokąt (pentagon) - limgon  
@@ -2054,7 +2055,7 @@ poczta, budynek poczty - postokan
 początek - shuru  
 pod (poniżej) - nicho  
 podarunek, dar, prezent - don  
-podatek, opłata - takse  
+podatek, opłata - taksi  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
 poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym - islamu  
 podnosić (podnieść) - gava  
@@ -2071,7 +2072,7 @@ podążać - posa
 podłoga - kamartal  
 poemat - shir  
 poeta - shirer  
-pogoda - tenhal  
+pogoda - sama hal  
 pogrubiona litera - gros harfi  
 poinformować, informować, zakomunikować, komunikować - konsavana  
 pojawić się - be zai  
@@ -2087,7 +2088,7 @@ pole widzenia - vide meden
 pole, powierzchnia - area  
 polerować (szlifować) - foto frika  
 policja - polis  
-policzyć, liczyć, przetwarzać dane - komputa  
+policzyć, liczyć, przetwarzać dane - fa komputa  
 Polinezja Francuska - France Polinesia  
 politeizm - poldevistia  
 politologia - politolojia  
@@ -2247,7 +2248,7 @@ prysznic - dush
 przebić (perforować, dziurawić) - konga  
 przebudzony, przytomny - jagi  
 przechowawca, kustosz, opiekun - hafiza ja  
-przechylać (przechylić, wychylać, wychylić) - tercha  
+przechylać (przechylić, wychylać, wychylić) - fa terca  
 przeciekać, ciec - lou  
 przecinek - koma  
 przeciwnie do ruchu wskazówek zegara - rotolefto  
@@ -2280,7 +2281,7 @@ przeszkodzić, przeszkadzać, robić kłopot - fa turbe
 przeszłość - chen zaman  
 przeszły, miniony - pasi  
 przetwarzać - resikle  
-przetłumaczyć, tłumaczyć, interpretować - tarja  
+przetłumaczyć, tłumaczyć, interpretować - tarjum  
 przewidzieć (spodziewać się) - chenvida  
 przewodnik - gida buku  
 przewodnik - gida ja  
@@ -2310,10 +2311,10 @@ przyrostek dla miejsca - ya
 przyrostek dla wsperającego ideę - helpeja  
 przyrostek dla wykonawcy - ja  
 przyrostek dla wykonawcy - karma ja  
-przystojny, atrakcyjny, ładny - bonvidi  
+przystojny, atrakcyjny, ładny - bon vide di  
 przyszłość - posozam  
 przysłówek - modologe  
-prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tiroriu  
+prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tire dara  
 prędkościomierz - rapide metre gi  
 prędkość (szybkość) - rapide ta  
 pręt, kij - baton  
@@ -2393,7 +2394,7 @@ razem (wspólnie) - kono
 rdzeń (jądro, pestka) - kerne  
 rebelia, powstanie - rebel  
 recepta, receptura, przepis - resete  
-region - tope  
+region - topo  
 rejestr - loge  
 rekin - sharke  
 religia, wyznanie - din  
@@ -2440,7 +2441,7 @@ rotor, wirnik - roter
 rower - sikle  
 rower z pedałami - pedalsikle  
 rowerzysta - sikliste  
-rozciągać (rozciągnąć) - tirlonga  
+rozciągać (rozciągnąć) - long tire  
 rozdział, sekcja - babu  
 rozjaśnić - minga  
 rozkaz, komenda - amir  
@@ -2496,7 +2497,7 @@ rzadko - nadir mar
 rzadkość - rare ta  
 rzecz - she  
 rzeczownik - namloge  
-rzeka - riu  
+rzeka - rivo  
 rzemieślnik - janger  
 rzeźba - eskulte  
 rzeźbiarstwo - eskultia  
@@ -2511,8 +2512,8 @@ rządzić - polita
 rządzić, władać - krati  
 rządzić, władać - sulta  
 rzęsa - okokesh  
-róg - buge  
 róg - korne  
+róg - laba  
 równik - geyoparlin  
 równina (plaskowyż, plateau) - platistan  
 równoległy (podłużny) - parlini  
@@ -2525,7 +2526,7 @@ różnica - alo sifa
 różny (inny) - alo sifa li  
 różny (różnorodny) - vari  
 różowy, różany - rozorangi  
-ręcznik - gan tekse  
+ręcznik - gan tela  
 ręczny - handi  
 ręka, dłoń - hande  
 rękaw - kamisa shake  
@@ -2576,7 +2577,7 @@ serce - shim
 seria, szereg - silia  
 Seszele - Seshel nesia  
 sezam - sesam  
-sfermentowany - biyomuti  
+sfermentowany - bio mute di  
 shintoizm, sintoizm - shindavistia  
 siano - gan cau  
 siarka - sulfe  
@@ -2611,7 +2612,7 @@ skonsumować, konsumować, zjeść, jeść, wypić, pić) - yam
 skorupa (pancerz, muszla) - kaske  
 skończony (ograniczony) - limiti  
 skończyć, kończyć - fin  
-skośny (ukośny, pochyły) - terchi  
+skośny (ukośny, pochyły) - terca  
 skradanie się - siri mote  
 skradać się - siro motu  
 skrzydło - ving  
@@ -2674,7 +2675,7 @@ sprawić ból, sprawiać ból - pasha
 sprzeciwiać się (opierać się) - shata  
 sprzedać (sprzedawać) - vende  
 sprzątacz, sprzątacz - safer  
-spróbować, próbować - teste  
+spróbować, próbować - fa teste  
 spód - niche  
 spódnica - jupe  
 spółgłoska - kinar fon  
@@ -2689,7 +2690,7 @@ ssać - chupa
 stacja - estasia  
 stadion, arena - estadia  
 stan - hal  
-Stan Nowy Jork - Nevi Yorke site  
+Stan Nowy Jork - Nove Yorke citi  
 Stany Zjednoczone Ameryki - Unta Desh Da Amerika (UDA)  
 Starożytny Egipt (Kemet) - Kemia  
 stary (sędziwy, wiekowy) - lavi  
@@ -2708,7 +2709,7 @@ stop; przerwa, zatrzymanie - ting
 stopa - fute  
 stoper (sekundomierz) - durmetrer  
 stopień Celsjusza - celsius darje  
-stopień, poziom, ranga, klasa - darje  
+stopień, poziom, ranga, klasa - darja  
 stopniowy - darji  
 storczyk (orchidea) - orkide  
 stowarzyszać się (zrzeszać się) - liga  
@@ -2803,7 +2804,7 @@ sztuczny - cana di
 sztuka - sundar shutu  
 sztuka walki - jengoshute  
 sztylet (puginał) - kanjar  
-szuflada - tira sanduku  
+szuflada - tire sanduku  
 szukać - soka  
 Szwajcaria - Suice  
 Szwecja - Suenia  
@@ -2843,14 +2844,14 @@ tablica (deska) - ban
 tablica wyników - puntoban  
 tablioca, macierz - datotable  
 Tadżykistan - Tajiki  
-tajga - taige  
+tajga - taiga  
 Tajlandia - Tai Desha  
 Tajpej - Taibei  
-tajski - tayi  
+tajski - Tai basha  
 Tajwan, Republika Chińska - Taivan  
 tak - ye  
 taki sam - sam  
-taksometr - taksometrer  
+taksometr - taksi metre gi  
 taktyka, strategia - tatike  
 tal - talium  
 talerz - platotas  
@@ -2858,30 +2859,30 @@ taleta, W####C - tualete
 tamilski - Tamil  
 Tanach, Biblia hebrajska - tanah  
 taniec - danse  
-tantal - tantalium  
+tantal - tantalum  
 Tanzania - Tanzania  
 taoista - dau din ja  
 taoizm - dau din  
 tapeta - murkaguje  
 tarcza - defban  
-tatuaż - tatu*  
-taxi, taksówka - taksogar  
+tatuaż - tatu  
+taxi, taksówka - taksi kar  
 taśma - tepe  
 taśma; bandaż - bande  
 tchórz, fretka - furete  
-technet - teknium  
+technet - tehnetium  
 technika, technologia - tehne  
-technokracja - tehnekrati  
-technologia, nauka o technikach - tehnelogi  
+technokracja - tehne krati  
+technologia, nauka o technikach - tehne logi  
 teistyczny - deu din ja  
 teizm - deu din  
 tektonika płyt - plati geyokaskia  
-telefon - telefon  
-teleportować się - teleloku  
+telefon - tele fon gi  
+teleportować się - be tele loka  
 teleskop - teleskope  
 telewizja - tele vide gi  
 tellur - telurium  
-telugu - telugi  
+telugu - Telugu  
 temat, motyw - tema  
 temperatura - termo  
 tendencja (być skłonnym) - klin  
@@ -2889,18 +2890,18 @@ tenesyn, tennessine - tenesium
 tenis - tenis  
 teokracja - deu krati  
 teologia - deu logi  
-teoria - teoria  
+teoria - teori  
 teozofia - deu sofi  
-tera- - tera*  
+tera- - tera  
 terakota - baka fan  
 teraźniejszość, współczesność (teraz) - zai zaman  
 teraźniejszość, współczesność - zaita  
 terb - terbium  
 teren - geo forme  
-termometr - termometre gi  
+termometr - termo metre gi  
 terror - teror  
-terrorysta - teroriste  
-terroryzm - teroristia  
+terrorysta - teror jui ja  
+terroryzm - teror jui  
 Terytorium Palestyńskie - Filistin  
 tesla (T) - tesla  
 test, wyzwanie, próba - teste  
@@ -2908,15 +2909,15 @@ tikka - tika
 tikka masala - masala tika  
 Timor - Timor  
 Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dong Timor  
-tkanina (materiał, sukno) - tekse  
-tkać (pleść) - tekse  
+tkanina (materiał, sukno) - tela  
+tkać (pleść) - fa tela  
 tlen - okse  
 tlenek - okside  
 toczyć, turlać - rula  
 Togo - Togo  
 Tokio - Tokyo  
-toksyczny (trujący) - toksi  
-toksyna - bio tokse  
+toksyczny (trujący) - toksi di  
+toksyna - bio toksi  
 tolerować - tolera  
 ton, dźwięk, nuta, tonacja - ton  
 tona - mega gram  
@@ -2984,12 +2985,12 @@ tyran - zalim raja
 tyrania - zalimta  
 tysiąc (kilo-) - kili  
 tytan - titanium  
-tytoń - tabake  
-tytuł (nagłówek) - tema nam  
+tytoń - tabaku  
+tytuł (nagłówek) - tema name  
 tęcza - rang arka  
 tłok - pusher  
-tłumacz - tarjer  
-tłumaczenie, interpretacja - tarje  
+tłumacz - tarjum ja  
+tłumaczenie, interpretacja - tarjum she  
 tłusty - feti  
 tłuszcz - fete  
 ####U - U  
@@ -3004,7 +3005,7 @@ udomowiony (domowy) - dosiljeni
 udomowić (kultywować) - dosiljenita  
 ufać (wierzyć, liczyć, polegać) - amen shin  
 Uganda - Ganda  
-ugotować się, gotować się - bulu  
+ugotować się, gotować się - be boli  
 Ukraina - Ukraina  
 ukraść, kraść - chora  
 ukrzyżować - krusfiksa  
@@ -3048,9 +3049,9 @@ uwięzić, więzić, pozbawić wolności - prizona
 uwolnić, uwalniać - hura  
 Uzbekistan - Uzbeki  
 uznać (przynać, przyjąć do wiadomości) - resida  
-ułożyć w trabelę - tabla date  
+ułożyć w trabelę - table yo data  
 uświadomienie, świadomość; oświecenie, bodhi - budi  
-uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - buda  
+uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - fa budi  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidi  
 użytkownik - use ja  
 użyć, używać, zatrudnić, stosować - use  
@@ -3197,13 +3198,13 @@ wprostowywać (wyprostować) - orta
 wrzesień - mes luku  
 wrócić, wracać, wycofać się, wycofywać się - retru  
 wróg (nieprzyjaciel) - an doste  
-wróżka - peri  
+wróżka - pari  
 wsad, partia, porcja, seria - lote  
 wschodni - dongi  
 wschód - dong  
 wskazać, wskazywać - ponta  
 wskaźnik - ponter  
-wspaniały - bonsifi  
+wspaniały - bon sifa di  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - superi  
 wsparcie (wzmocnienie, zasilenie) - mas forte  
 wspinać się (wspiąć się) - eskala  
@@ -3221,8 +3222,8 @@ wtorek - var du
 wulkan - hogoshan  
 wy, was - tumen  
 wybrać, wybierać, selekcjonować - chuza  
-wybrzeże (brzeg, krawędź) - tate  
 wybrzeże (plaża) - haitate  
+wybrzeże - hai kinar  
 Wybrzeże Kości Słowniowej - Kote Da Ivar  
 wybuch (eksplozja) - eshploze  
 wybuch - bum  
@@ -3230,7 +3231,7 @@ wybór, elekcja, selekcja - chuze
 wycie, skowyt - ulul  
 wyczyścić, czyścić - fa safa  
 wydarzenie, przypadek, sytuacja - kas  
-wydoić, doić - tira milke  
+wydoić, doić - tire yo milke  
 wydra - lotra  
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurve  
 wygląd - rupe  
@@ -3294,7 +3295,7 @@ władca - sultan
 własność (mienie) - mal  
 właściciel (posiadacz) - malan  
 właściwy, poprawny - sahi  
-właśnie, dopiero co, ostatnio, niedawno - nevo  
+właśnie, dopiero co, ostatnio, niedawno - pa nove  
 włos - kesha  
 włosy - sar kesha  
 włókno - linem  
@@ -3354,7 +3355,7 @@ zapalenie pochwy - vagina flame
 zapalenie ucha - ore flame  
 zapaść się (zapadać się, runąć) - parchotalu  
 zapominać (zapomnieć) - an memo  
-zapomnieć, zapominać - bula  
+zapomnieć, zapominać - boli  
 zapożyczenie (wyraz obcy) - jekologe  
 zaprosić, zapraszać - ching lai  
 zaprzęc, zaprzęgać - harnes  
@@ -3376,11 +3377,11 @@ zastrzyk - jush
 zastąpić (podstawić, zamienić) - fa vice  
 zasób - faide  
 zasłona, kurtyna - parde  
-zatkać, ztykać - tapa  
+zatkać, ztykać - fa tapa  
 zatoka - bai  
 zatrzymać (zatrzymywać, wstrzymać, wstrzymywać) - estasa  
-zatrzymać - tinga  
-zatrzymać się - tingu  
+zatrzymać - fa ting  
+zatrzymać się - be ting  
 zawias, oś - sharnir  
 zawierać - inda  
 zawijać (zawinąć) - lifafa  
@@ -3390,7 +3391,7 @@ zazdrosny - jelosi
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - marka  
 założyciel - baze ja  
 załącznik (przyrostek, afiks) - fikse  
-zbierać opłaty lub podatki (zebrać opłaty lub podatki) - taksa  
+zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taksi  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanke  
 zbiorowy, zbiorczy - jami  
 zbliżać się (zbliżyć się) - karibu  
@@ -3428,7 +3429,7 @@ Zimbabwe - Zimbabue
 zimny, chłodny - lengi  
 zimowy - lengomosimi  
 Zjednoczone Emiraty Arabskie - Unta Arabi Amir Desha (UAA)  
-Zjednoczone Królestwo - Britania  
+Zjednoczone Królestwo - Britan  
 zjednoczony - unta di  
 zmaksymalizować - fa masim  
 zmiana klimatu - klimmute  
@@ -3446,7 +3447,7 @@ znak, sygnał - sinye
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
 znowu (ponownie) - reyo  
-znudzony - bori  
+znudzony - bori di  
 zombie, zombi - zombi  
 zoo (ogród zoologiczny) - zou bagi  
 zoologia - zou logi  
@@ -3527,13 +3528,13 @@ zły, zrujnowany, zepsuty - harabu
 środkowy, centralny - jung  
 środowiskowy, naturalny - eki  
 śruba, wkręt - vita  
-świadomy; oświecony - budi  
+świadomy; oświecony - budi di  
 świat - dunia  
 światło, oświetlenie - foto  
 świeca - mumfote  
 świerk - pise  
 świetny - kuli  
-świeży - tazi  
+świeży - taza  
 świnia - goro  
 świątynia - puja kan  
 święto - festoden  

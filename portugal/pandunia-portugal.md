@@ -49,6 +49,7 @@ aple - maçã
 aple sos - purê de maçã  
 aplika - usar  
 arane - aranha  
+arane nete - teia de aranha  
 arbuza - melancia  
 argente - prata  
 argum - argumento  
@@ -122,6 +123,7 @@ baze - base
 baze bol - basebol (beisebol)  
 baze shula kan - ensino primário  
 be ais - gelar  
+be bio mute - fermentar  
 bebe - bebê  
 bedinjan - beringela  
 bele - pá  
@@ -133,18 +135,18 @@ bil ta - habilidade (capacidade)
 bilor - cristal  
 bina plan - arquitetura  
 bina plan ja - arquiteto  
+bio cana she - composto  
 bio logi - biología  
-bio tokse - toxina  
+bio sistem - bioma  
+bio toksi - toxina  
 bio vute - organismo  
 bir - cerveja  
 biskute - biscoito  
-biyomutu - fermentar  
-biyosistem - bioma  
 blu - azur  
 blu elfe - estrumpfe (smurf)  
 bokse - boxe  
-bokser - boxeador (pugilista)  
-bokserpante - samba-canção  
+bokse ja - boxeador (pugilista)  
+bokse pante - samba-canção  
 bol - bola  
 bomba - bomba  
 bon - bom  
@@ -158,12 +160,13 @@ brun salmon - truta-marrom
 bu! - bu!  
 bubu - bicho-papão  
 bucha - abater  
-bucher - açougueiro (talhante)  
-buchokan - matadouro  
+bucha ja - açougueiro (talhante)  
+bucha kan - matadouro  
 Buda - Buda  
 buku - livro  
+bulbul - rouxinol  
 bum - explosão  
-bute - bota  
+buta - bota  
 buton - botão  
 ####C - C  
 cana ja - fator  
@@ -211,7 +214,7 @@ danko da - graças a
 danse - baile (danza)  
 dante na di - desdentado  
 darjomute - desenvolvimento  
-date - dados  
+data - dados  
 datobanke - banco de dados  
 debili - fraco (débil)  
 debu - dever  
@@ -290,6 +293,11 @@ fa - fazer
 fa asar - efetuar  
 fa bina - construir  
 fa dante - morder  
+fa loka - colocar (pôr)  
+fa tele fon - telefonar  
+fa teste - tentar (provar)  
+fa truke - enganar  
+fa turbe - molestar (perturber)  
 fa valu - valorar  
 fa vote - votar  
 fan - lama (lodo)  
@@ -348,7 +356,7 @@ gamben - enteado
 gammai - sogra  
 gampai - sogro  
 gan cau - feno  
-gan tekse - toalha  
+gan tela - toalha  
 gansa - ganso  
 ganum - trigo  
 garma mosim - verão  
@@ -578,12 +586,12 @@ klien - cliente
 klimmute - mudança climática  
 klin - tendência  
 ko? - como  
-komputer - computador  
+komputa - computador  
+kon trati - pacto  
 konboni - combinar com  
 konkara - colaborar  
 konseler - consultor  
 konserte - concerto  
-kon trati - pacto  
 kope - cópia  
 kora - correr  
 koral - coral  
@@ -664,21 +672,21 @@ lisan - língua
 liste - lista  
 litre - litro  
 loga - falar  
-loga asal - etimologia  
-loge - registro  
 loga - fala (palavras)  
-loge buku - diário de bordo  
-logem - palavra (vocábulo)  
+loga asal - etimologia  
 loga di - léxico  
 loga jami - vocabulário  
-fa loka - colocar (pôr)  
+loge - registro  
+loge buku - diário de bordo  
+logem - palavra (vocábulo)  
 loka - lugar (local)  
 loka di - local  
-long kata - romance  
 long - longo  
-long dura di - prolongado  
 long dura - por muito tempo  
+long dura di - prolongado  
+long kata - romance  
 long krokodil - crocodilo  
+long tire - estirar  
 lotra - lontra  
 lou - vazar  
 lugi - verde  
@@ -687,6 +695,8 @@ lun - mês
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  
+Luter din - luteranismo  
+Luter din ja - luterano  
 ####M - M  
 ma - mãe  
 mafa - perdoar (desculpar)  
@@ -709,16 +719,13 @@ margai - gato-maracajá
 margarite - margarida  
 marke - mancha (marca)  
 Marse - Marte  
-Luter din ja - luterano  
-Luter din - luteranismo  
-masa - massa  
-masale - tempero  
 mas - mais  
 mas fili - preferir  
 mas fili di - favorito (preferido)  
 mas fili jui - favoritismo  
+masa - massa  
+masale - tempero  
 masim - máximo  
- - superestimar (sobrestimar)  
 maska - máscara  
 masmul - tubérculo  
 masmulsolful - alcachofra-girassol (tupinambo)  
@@ -744,7 +751,7 @@ metalbede - bigorna
 metallin - arame  
 metregraf - carta geográfica  
 metregrafia - cartografia  
-meza tekse - toalha de mesa  
+meza tela - toalha de mesa  
 meze - mesa  
 mi - eu (me)  
 migre - migração  
@@ -766,9 +773,9 @@ Misria - Egipto (Egito)
 mita - encontrar  
 mitre - metro  
 mode - modo (maneira, jeito)  
-moke - árvore  
 mokoban - tábua (prancha)  
 mokotan - tora  
+moku - árvore  
 mol - mol  
 mola - moer  
 molia - moenda (moinho)  
@@ -798,14 +805,9 @@ nave lefte - bombordo
 nefre - rim  
 nefte - aeite (óleo)  
 Neputun - Netuno  
-neu - novidade  
+nerve celu - neurônio  
+nerve toksi - neurotoxina  
 neujeni - recém-nascido  
-neuloge - neologismo  
-neurochel - neurônio  
-neurotokse - neurotoxina  
-nevi - novo  
-nevia - novidade  
-nevike - novato (neófito)  
 nide - ninho (vespiero)  
 nilchentaur - escovinha (centáurea)  
 Nipon - Japão  
@@ -823,6 +825,11 @@ nong nomi - agronomia
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note - nota  
+nove - novidade  
+nove - novo  
+nove jen - novato (neófito)  
+nove loga - neologismo  
+nove ta - novidade  
 numbe - número  
 ####O - O  
 o - ou  
@@ -866,6 +873,9 @@ par - nivel
 param - parâmetro  
 parche - fragmento  
 pari - igual (par)  
+pari - fada  
+pari desha - mundo das fadas (paraíso)  
+pari kata - conto de fadas  
 parike - par  
 parke - parque  
 parne - samambaia  
@@ -887,9 +897,8 @@ pei gung - profissão
 pei gung jiu - carreira  
 pelpel - borboleta  
 penta - cinco (5)  
-pente - pintura  
-peri - fada  
-peri kata - conto de fadas  
+penta - pintura  
+penta tela - tela  
 perkardon - cardo-roxo  
 pese - dinheiro  
 pesh - peixe  
@@ -968,8 +977,8 @@ ring - anel
 ringar - ringue  
 ris - arroz  
 ritim - ritmo  
-riu - rio  
 riutube - funil  
+rivo - rio  
 robote - robô  
 roketolancher - lançador de foguetes  
 rokomuzike - rock  
@@ -991,6 +1000,7 @@ sali - saudável (saudio)
 salia - saúde  
 salsafia - higiene  
 sam - igual  
+sama - céu  
 samemos - compaixão  
 sammetre - simetria  
 samrayia - acordo  
@@ -1111,49 +1121,42 @@ sundar - belo (lindo)
 sundaria - beleza  
 susan - lírio  
 ####T - T  
-tablokomputer - tablet  
+table komputa - tablet  
 tai - estrado  
 tail - ladrilho (telha, azulejo)  
-taksometrer - taxímetro  
-tali moke - arbusto (mata)  
+taksi metre gi - taxímetro  
+tal moku - arbusto (mata)  
 tan - haste (talo, caule)  
-tate - margem  
 tehne - técnica  
+tela - fazenda (tecido)  
+tela gi - tear  
+tele fon shutu - telefonia  
 teleskope - telescópio  
-telfona - telefonar  
-telfonia - telefonia  
-tema nam - título  
-ten - céu  
-tensi - tenso  
-terchi - oblíquo (torto)  
-teste - tentar (provar)  
+tema name - título  
+tense - tenso  
+terca - oblíquo (torto)  
 teste - teste  
-tekse - fazenda (tecido)  
-tekse mashin - tear  
 tikete - bilhete  
-tirlonga - estirar  
 tisa - nove (9)  
-toksilogi - toxicologia  
+toksi logi - toxicologia  
 tomate - tomate  
-topograf - topografia  
+topo grafi - topografia  
+trati - acordo (tratado, contrato)  
 trator - arrastar  
 trator gi - trator  
-trati - acordo (tratado, contrato)  
 tri - três (3)  
-fa truke - enganar  
 truke - truque (fraude)  
 tu - tu  
 tumen di - vosso  
-fa turbe - molestar (perturber)  
 tuzi - coelho (lebre)  
 ####U - U  
 un - um (1)  
-unta liga - união  
-unike - único (só)  
-unike jan di - só (solitário)  
 un mar - uma vez  
 un oko di lense - monóculo  
 un verse di - universal  
+unike - único (só)  
+unike jan di - só (solitário)  
+unta liga - união  
 ura - urra  
 Uran - Urano  
 urso - urso  
@@ -1193,9 +1196,9 @@ vice pa - padrasto
 vice raja - vice-rei  
 vide - ver  
 vidou - viúvo  
+violeta blu - purpúreo (roxo)  
 virje - virgem  
 Vishnu - Vixnu  
-violeta blu - purpúreo (roxo)  
 vode - promessa (voto)  
 vol - querer (desejar)  
 vol she - vontade  
@@ -1238,6 +1241,7 @@ zou logi di - zoológico
 zuku - etnia  
 zuku di - étnico  
 zumarda - esmeralda  
+ - superestimar (sobrestimar)  
  - carregar  
  - chuvoso (pluvioso)  
  - adversário  

@@ -27,6 +27,7 @@ ais krem - glaciaĵo
 ais li - glacia  
 ajila - rapidigi  
 akacia - akacio  
+akse - akso  
 ala - ŝanĝi (aliigi)  
 alga - algo  
 alkol - alkoholo  
@@ -71,6 +72,7 @@ aple - pomo
 arabi - araba  
 arane - araneo  
 arane fobi - araneofobio  
+arane nete - araneaĵo  
 arbuza - akvomelono  
 area - areo  
 area - ejo  
@@ -107,7 +109,6 @@ avakate - avokado
 avar - damaĝo  
 avar ja - damaĝa  
 ave - aveno  
-akse - akso  
 ####B - B  
 babu - ĉapitro  
 babuche - pantoflo  
@@ -170,6 +171,8 @@ baze bol - basbalo
 baze di - baza  
 baze shula kan - bazlernejo  
 be ais - glaciiĝi (frostiĝi)  
+be boli - boli  
+be ting - halti  
 be’e - kapro  
 bebe - bebo  
 bede - lito  
@@ -212,16 +215,17 @@ blu elfe - smurfo
 boikote - bojkoto  
 boke - buŝo  
 bokse - bokso  
-bokser - boksisto  
+bokse ja - boksisto  
 bol - pilko  
 Bolgaria - Bulgario  
+boli - boligi  
 Bolivia - Bolivio  
 bomba - bombo  
 bon - bona  
-bonsifia - eco  
-bonvidi - bonaspekta  
-bori - enui  
-boria - enuo  
+bon sifa ta - eco  
+bon vide di - bonaspekta  
+bori - enuo  
+bori di - enui  
 borium - borio  
 boron - boro  
 botel - botelo  
@@ -236,24 +240,21 @@ brosh - broso
 brun - bruna  
 brus - frato aŭ fratino  
 bucha - buĉi  
-bucher - buĉisto  
-buchokan - buĉejo  
-buda - kompreni  
+bucha ja - buĉisto  
+bucha kan - buĉejo  
 Buda - Budho  
 Buda din - budhismo  
 Buda din ja - budhisto  
 budi - kompreno  
-budi - konscia  
+budi di - konscia  
 bufon - pajaco  
-bui - baobabo  
 bujete - buĝeto  
 buku - libro  
-bula - boligi  
 bulbul - najtingalo  
-bulu - boli  
 bus - buso  
 buton - klavo (butono)  
-butonban - klavaro  
+buton ban - klavaro  
+buyu - baobabo  
 ####C - C  
 cana - produkti (fabriki)  
 cana basha - artefarita lingvo  
@@ -334,7 +335,7 @@ dante na di - sendenta
 dantomediker - dentisto  
 darba - bati  
 darjomute - disvolvi  
-date - datumo  
+data - datumo  
 datobanke - datumbanko  
 datotable - tabelo  
 dau - vojo  
@@ -477,9 +478,17 @@ evanjil - evangelio
 ####F - F  
 fa - fari  
 fa bina - konstrui  
+fa budi - kompreni  
 fa dante - mordi  
 fa ja - aganto  
+fa jami - kolekti (kunigi)  
+fa loka - lokigi  
+fa long - longigi  
+fa oko - okulumi  
+fa rai - opinii  
 fa safa - purigi  
+fa tele fon - telefoni  
+fa ting - haltigi  
 fa van - amuzi  
 fa vode - promesi  
 faidi - utila  
@@ -601,7 +610,7 @@ gamel - kamelo
 gamia - geedzeco  
 gammai - bopatrino  
 gampai - bopatro  
-gan tekse - viŝilo  
+gan tela - viŝilo  
 Ganga - Gangoj  
 gani - seka  
 ganja - kanabo  
@@ -798,7 +807,6 @@ iyon - iono
 ja - isto (anto)  
 jagi - uyanık  
 jake - jako  
-jama - kolekti (kunigi)  
 Jamaika - Jamajko  
 jami - kolekta  
 jampa - salti  
@@ -961,7 +969,7 @@ koko - koko
 kolum - kolono  
 komali - mola  
 kompania - kompanio (firmao)  
-komputer - komputero  
+komputa - komputero  
 komuni - komuna  
 komunkratia - republiko  
 konbash - komuna lingvo  
@@ -1028,6 +1036,7 @@ lasun - ajlo
 late - flanko (latero)  
 lati - flanka (latera)  
 Latvia - Latvio  
+laurencium - laŭrencio  
 layana - alporti (venigi)  
 leng mosim - vintro  
 lengi - malvarma  
@@ -1056,24 +1065,21 @@ litium - litio
 litre - litro  
 loba - rafaneto  
 loga - paroli  
-loga asal - etimologio  
-loge - registraĵo  
 loga - parolo  
-logem - vorto  
+loga asal - etimologio  
 loga di - vorta  
-logi - scienco  
 loga jami - vortaro  
+loge - registraĵo  
+logem - vorto  
+logi - scienco  
 logika - logiko  
 logika di - logika  
 logivi - parolema  
 logoliste - vortaro  
-fa loka - lokigi  
 loka - loko  
 loka di - loka  
-long kata - romano  
-fa long - longigi  
 long - longa  
-laurencium - laŭrencio  
+long kata - romano  
 lou - liki  
 lou sang - sangi  
 lugi - verda  
@@ -1110,13 +1116,13 @@ maraton - maratono
 marcha - promeni (marŝi)  
 marche - promeno (marŝo)  
 margarin - margarino  
+mas - pli  
+mas - ankaŭ  
+mas fili - preferi (pliŝati)  
+mas ka bas - tro  
 masa - maso  
 masale - spico  
-mas - pli  
-mas ka bas - tro  
-mas fili - preferi (pliŝati)  
 masim - plej  
-mas - ankaŭ  
 maska - masko  
 masta - masto  
 mate - materio  
@@ -1149,7 +1155,7 @@ metal - metalo
 metallin - drato  
 metode - metodo  
 metre - mezuri  
-meza tekse - tablotuko  
+meza tela - tablotuko  
 meze - tablo  
 mi - mi  
 mi di - mia  
@@ -1183,9 +1189,9 @@ misri - egipta
 Misria - Egipto  
 mitre - metro  
 moge - inko  
-moke - arbo  
 mokojongoparke - arboĝardeno  
 mokomate - ligno  
+moku - arbo  
 molidenium - molibdeno  
 moluske - molusko  
 mongoli - mongola  
@@ -1246,18 +1252,12 @@ nenmesyom - dato
 neon - neono  
 Nepal - Nepalo  
 Neputun - Neptuno  
+nerve - nervo  
+nerve celu - neŭrono  
+nerve di - nerva  
 nete - reto  
 netunium - neptunio  
-neu - novaĵo  
 neujeni - novnaskita  
-neuloge - neologismo  
-neure - nervo  
-neuri - nerva  
-neurochel - neŭrono  
-nevi - nova  
-nevia - noveco  
-nevike - novulo  
-nevo - ĵus  
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
 nikel - nikelo  
@@ -1285,6 +1285,11 @@ nostalgia - nostalgio (saudado)
 nota - rimarki  
 note - noto (rimarko, komento)  
 note buku - kajero  
+nove - novaĵo  
+nove - nova  
+nove jen - novulo  
+nove loga - neologismo  
+nove ta - noveco  
 nu - nu  
 numbe - nombro  
 nuton - newtono (N)  
@@ -1292,9 +1297,8 @@ nuton - newtono (N)
 o - aŭ  
 Ocheania - Oceanio  
 oganeson - oganesono  
-fa oko - okulumi  
-oko - okulo  
 okeyi - akceptebla (okej)  
+oko - okulo  
 oko di - okula  
 okse - oksigeno  
 okside - oksido  
@@ -1314,6 +1318,7 @@ oste - osto
 pa - ĉe (en, sur)  
 pa - patro  
 pa ke - kie  
+pa nove - ĵus  
 pa u loka - tie  
 pace - paco  
 pachiste - pacifisto  
@@ -1339,6 +1344,8 @@ papai - papajo
 par - nivelo  
 parche - ero  
 parde - kurteno  
+pari - feo  
+pari kata - fabelo  
 pari numbe - para nombro  
 parke - parko (ĝardeno)  
 parta - partopreni  
@@ -1360,10 +1367,9 @@ pelpel - papilio
 penis - peniso  
 penta - kvin (5)  
 penta - pentri  
-pente - pentri  
-per - plumo  
-peri - feo  
-peri kata - fabelo  
+penta - pentri  
+penta tela - kanvaso  
+pero - plumo  
 pese - mono  
 pesh - fiŝo  
 peshhuke - fiŝhoko  
@@ -1444,11 +1450,10 @@ rang - koloro
 rapide - rapida  
 rapide ta - rapideco  
 rasa  - raco  
-rasa jui ja - racisto  
 rasa jui - racismo  
+rasa jui ja - racisto  
 rasa medi - interrasa  
 rastu - kreski  
-fa rai - opinii  
 redi - preta  
 rege - sablo  
 registan - dezerto  
@@ -1467,7 +1472,7 @@ ris - rizo
 risko - risko  
 risko di - riska  
 ritim - ritmo  
-riu - rivero  
+rivo - rivero  
 robote - roboto  
 rodium - rodio  
 rola - ludi rolon  
@@ -1517,6 +1522,8 @@ sale - salo
 sale di - sala  
 sali - sana  
 sam - sama  
+sama - ĉielo  
+sama hal - vetero  
 samarium - samario  
 samdeshi - samlandano  
 samemos - kompato  
@@ -1544,6 +1551,8 @@ sekse - sekso
 selenium - seleno  
 selu - devus  
 seme - semo  
+semen - unu la alian (reciproke)  
+semen di - reciproka  
 semi - sema  
 sen - aĝo  
 senater - senatano  
@@ -1674,59 +1683,54 @@ supro - super
 sushi - suŝio  
 suyi - akva  
 ####T - T  
-tabake - tabako  
+tabaku - tabako  
 tabi - naturo  
 tafun - ŝtormo  
+Tai basha - tajlanda  
 Tai Desha - Tajlando  
-taige - tajgo  
+taiga - tajgo  
 talium - talio  
-tami - avida  
-tantalium - tantalo  
+tam - avida  
+tantalum - tantalo  
 tanur - forno  
 Tanzania - Tanzanio  
-tarja - traduki  
-tarje - traduko  
-tarjer - tradukisto  
+tarjum - traduki  
+tarjum ja - tradukisto  
+tarjum she - traduko  
 tas - plado  
-tatu* - tatuo  
-tave - pato  
-tayi - tajlanda  
-tazi - freŝa  
+tatu - tatuo  
+tava - pato  
+taza - freŝa  
 tehne - tekniko  
-tehnelogi - teknologio  
-teknium - teknecio  
+tehne logi - teknologio  
+tehnetium - teknecio  
 tele - malproksimeco  
-tele - malproksima  
+tele di - malproksima  
+tele fon gi - telefono  
 tele vide gi - televidilo  
-telefon - telefono  
 teleskope - teleskopo  
-telfona - telefoni  
 telurium - teluro  
 tema - temo  
 tema - esti pri; pridiskuti  
-ten - ĉielo  
 tenesium - teneso  
-tenhal - vetero  
 tenis - teniso  
-teoria - teorio  
+teori - teorio  
 tepe - bendo  
 terbium - terbio  
-termometre gi - termometro  
+termo metre gi - termometro  
 teror - teroro  
-teroriste - teroristo  
-teroristia - terorismo  
+teror jui - terorismo  
+teror jui ja - teroristo  
 teste - testo  
 ting - halto  
-tinga - haltigi  
-tingu - halti  
-tira - tiri  
-tira milke - melki  
+tire - tiri  
+tire yo milke - melki  
 titanium - titanio  
-tocha - tuŝi  
+tochu - tuŝi  
 Togo - Toglando  
 tomate - tomato  
 ton - tono  
-tope - regiono  
+topo - regiono  
 torium - torio  
 torso - torso  
 trator - treni  
@@ -1754,13 +1758,11 @@ u - tio
 ####U - U  
 uma - ĉevalo  
 un - unu (1)  
-semen - unu la alian (reciproke)  
-semen di - reciproka  
 un deu jui - monismo  
-unta liga - uniono  
-unike - sola (nur)  
 un mar - unufoje  
 un oko di lense - monoklo  
+unike - sola (nur)  
+unta liga - uniono  
 uranium - uranio  
 urso - urso  
 use - uzi  

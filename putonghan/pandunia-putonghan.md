@@ -20,6 +20,7 @@ ais - 冰
 ais hoki - 冰球  
 ais krem - 冰淇淋  
 akare - 蜱 (螨)  
+akse - 轴线  
 ala - 改變  
 alga - 藻类  
 alga fungu - 地衣  
@@ -50,6 +51,7 @@ aple - 苹果
 aplika - 运用  
 arabi babul - 阿拉伯金合欢  
 arane - 蜘蛛  
+arane nete - 蜘蛛网  
 arbuza - 西瓜  
 area - 面积  
 argente - 银  
@@ -78,7 +80,6 @@ auro - 金
 Austronesia - 南岛  
 auto loga - 独白  
 ave - 燕麦  
-akse - 轴线  
 ####B - B  
 babu - 章  
 bacha - 小孩  
@@ -122,6 +123,7 @@ baze - 底部
 baze bol - 棒球  
 baze shula kan - 小学  
 be ais - 结冰  
+be bio mute - 发酵  
 be van - 玩耍  
 be’e - 山羊  
 bebe - 宝宝  
@@ -135,24 +137,23 @@ bina plan - 建筑学
 bina plan ja - 建筑师  
 bio jinse - 生物性別  
 bio logi - 生物学  
-bio tokse - 毒素  
+bio sistem - 生物群系  
+bio toksi - 毒素  
 bio vute - 生物  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
-biyomutu - 发酵  
-biyosistem - 生物群系  
 blu - 蓝色  
 blu ceram sing - 茜草花  
 blu elfe - 蓝精灵  
 bokse - 拳击  
-bokser - 拳击手  
-bokserpante - 平角褲  
+bokse ja - 拳击手  
+bokse pante - 平角褲  
 bol - 球  
 bomba - 炸弹  
 bon - 好  
-bondeke - 道德  
-bonsinyi - 吉利的  
-bonvidi - 好看  
+bon deke - 道德  
+bon sin di - 吉利的  
+bon vide di - 好看  
 botel - 瓶  
 boyu - 漂浮  
 Brahma - 梵天  
@@ -160,11 +161,12 @@ briko - 杏子
 brun - 棕色 (色)  
 brun salmon - 褐鳟  
 bubu - 魔鬼  
-bucher - 屠夫  
-buchokan - 屠宰场  
+bucha ja - 屠夫  
+bucha kan - 屠宰场  
 Buda - 佛陀  
 bufete - 自助餐  
 buku - 书  
+bulbul - 夜莺  
 bum - 爆炸  
 buton - 扣子  
 ####C - C  
@@ -208,7 +210,7 @@ danger - 钟 (摇铃)
 dani - 丹麦的  
 dante balute - 槲树  
 darjomute - 发展 (开发)  
-date - 数据  
+data - 数据  
 datobanke - 数据库  
 datotable - 表格  
 debili - 虚弱 (易坏)  
@@ -275,6 +277,9 @@ evanjil - 福音
 fa - 作  
 fa bina - 建设  
 fa dante - 咬  
+fa loka - 放置  
+fa tele fon - 打电话  
+fa truke - 耍花招  
 fa vode - 许诺  
 faidia - 效用 (好处)  
 fan - 坭  
@@ -380,6 +385,7 @@ haha - 笑
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 海军上将  
+hai kinar - 岸  
 haichau - 海草  
 haiful - 海葵  
 haigun - 海军  
@@ -566,13 +572,13 @@ klimmute - 气候变化
 klin - 趋势  
 ko? - 怎么  
 koda - 尾巴 (尾部)  
-komputer - 计算机  
+komputa - 计算机  
+kon trati - 公約  
 konboni - 相配  
 konkara - 合作  
 kono - 共同 (一起)  
 konseler - 顾问  
 konserte - 音乐会  
-kon trati - 公約  
 kope - 摹本 (拷貝)  
 kora - 跑步  
 koral - 珊瑚  
@@ -653,24 +659,24 @@ lisan - 舌头
 liste - 单子  
 litre - 升  
 loga - 说话 (讲)  
-loge - 纪录  
 loga - 语言  
+loga jami - 词汇  
+loge - 纪录  
 loge buku - 航海日志  
 logem - 词  
-loga jami - 词汇  
-fa loka - 放置  
 loka - 地方  
 lon - 论  
-long kata - 小说  
 long - 长  
 long dura - 久  
+long kata - 小说  
 long pipre - 荜拔  
+long tire - 拉  
 lotra - 獭  
 lou - 漏  
 lugi - 绿色  
 luku - 六 (6)  
-lung - 龙  
 luna keke - 月饼  
+lung - 龙  
 luta - 掠夺  
 luta ja - 强盗  
 ####M - M  
@@ -691,10 +697,10 @@ manir - 方式
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
-masa - 质量  
-masale - 香料  
 mas fili - 比较喜欢  
 mas forte - 加固  
+masa - 质量  
+masale - 香料  
 masim - 最  
 masmulsolful - 菊芋  
 masta - 桅  
@@ -723,7 +729,7 @@ metaljanger - 铁匠
 metallin - 线 (铁丝)  
 metregraf - 地图  
 metregrafia - 地图学  
-meza tekse - 桌布  
+meza tela - 桌布  
 meze - 桌子  
 mi - 我  
 migra - 搬家  
@@ -741,11 +747,11 @@ Misria - 埃及
 mita - 聚会  
 mite - 会议  
 mitre - 米 (公尺)  
-moke - 树木  
 mokoban - 木板  
 mokojanger - 木匠  
 mokomate - 木材  
 mokotan - 原木  
+moku - 树木  
 mol - 摩尔 (单位)  
 molekul - 分子  
 molia - 磨坊  
@@ -777,10 +783,7 @@ nave raite - 右舷
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
-neuloge - 新词  
-neurotokse - 神经毒素  
-nevi - 新  
-nevike - 新手  
+nerve toksi - 神经毒素  
 nide - 巢 (穴)  
 nilchentaur - 矢車菊  
 nilon - 尼龙  
@@ -797,6 +800,9 @@ nong nomi - 农学
 norde - 北  
 nostalgia - 怀旧  
 note - 便条  
+nove - 新  
+nove jen - 新手  
+nove loga - 新词  
 numbe - 数  
 ####O - O  
 o - 或  
@@ -835,6 +841,8 @@ papai - 木瓜
 par - 水平  
 param - 参数  
 parchokayu - 爆裂  
+pari desha - 仙境  
+pari kata - 童话  
 pari numbe - 偶数  
 parike - 同辈  
 parke - 园  
@@ -857,8 +865,8 @@ pelmen - 饺子
 pelpel - 蝴蝶  
 pendokardon - 垂花飞廉  
 penta - 五 (5)  
-pente - 油漆 (颜料)  
-peri kata - 童话  
+penta - 油漆 (颜料)  
+penta tela - 画布  
 perkardon - 翼蓟  
 pese - 钱  
 pesh - 鱼  
@@ -906,8 +914,8 @@ putong - 普通
 Putong Han - 普通话  
 ####R - R  
 rai - 意见 (见解)  
-rang mate - 染料  
 rang arka salmon - 虹鱒  
+rang mate - 染料  
 rapide - 快  
 rare - 稀有 (稀少的)  
 rasa  - 种族  
@@ -925,8 +933,8 @@ ringar - 擂台
 ris - 米  
 ris vin - 黄酒 (米酒)  
 ritim - 节奏  
-riu - 河 (江)  
 riutube - 漏斗  
+rivo - 河 (江)  
 roketolancher - 火箭筒  
 rokomuzike - 摇滚乐  
 Roma - 罗马  
@@ -952,6 +960,9 @@ sale biskute - 梳打饼
 sali - 健康  
 salia - 健康  
 sam - 一样  
+sama - 天空  
+sama hal - 天气  
+sama kinar - 地平线  
 sammetre - 对称  
 samrayia - 一致  
 samsifia - 模型  
@@ -1075,49 +1086,43 @@ suprize - 惊奇
 susan - 百合花  
 ####T - T  
 tabi - 特性 (生性)  
-tablokomputer - 平板电脑  
+table komputa - 平板电脑  
 tail - 砖 (瓦)  
-taksometrer - 计程器  
-tali moke - 灌木  
-tami - 贪婪的  
+taksi metre gi - 计程器  
+tal moku - 灌木  
+tam - 贪婪的  
 tan - 茎 (梗)  
-tarje - 翻译  
+tarjum she - 翻译  
 tas - 盘 (碟)  
-tate - 岸  
-tazi - 新鲜的  
+taza - 新鲜的  
 tehne - 技术  
-tehnelogi - 工艺学  
+tehne logi - 工艺学  
+tela - 布料  
+tela gi - 织机  
+tele fon gi - 电话机  
+tele fon lin - 电话线  
 tele vide gi - 电视机  
-telefon - 电话机  
 teleskope - 望远镜  
-telfona - 打电话  
-telfonlin - 电话线  
 tema - 主题目  
-tema nam - 标题  
-ten - 天空  
-tenhal - 天气  
-tenkenar - 地平线  
-terchi - 斜的  
-teroristia - 恐怖行为  
+tema name - 标题  
+terca - 斜的  
+teror jui - 恐怖行为  
 tese - 论据  
 teste - 化验  
-tekse - 布料  
 tikete - 票  
 tim - 队  
-tira milke - 拉  
-tira pil - 削 (刮去)  
-tirbaton - 杆  
-tirlonga - 拉  
+tire baton - 杆  
+tire yo milke - 拉  
+tire yo pil - 削 (刮去)  
 tisa - 九 (9)  
-tocha - 接触  
-toksilogi - 毒物学  
+tochu - 接触  
+toksi logi - 毒物学  
 tomate - 西红柿  
-topograf - 地形  
+topo grafi - 地形  
+trati - 合同 (合约)  
 trator - 拖  
 trator gi - 拖拉机 (铁牛)  
-trati - 合同 (合约)  
 tri - 三 (3)  
-fa truke - 耍花招  
 truke - 伎俩  
 tu - 你  
 tumen - 你们  
@@ -1126,11 +1131,11 @@ tuzi - 兔子
 ####U - U  
 umami - 鲜味  
 un - 一 (1)  
-unta - 团结 (统一)  
-unta liga - 合并  
+un mar - 一次 (一遍)  
 unike - 只有 (惟独, 唯一, 独)  
 unike jan di - 独自的 (孤单)  
-un mar - 一次 (一遍)  
+unta - 团结 (统一)  
+unta liga - 合并  
 ura - 好哇  
 ####V - V  
 va - 哇  

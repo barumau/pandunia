@@ -69,7 +69,7 @@ apropriado (apto) - hapi
 ar - air  
 arame - metallin  
 aranha - arane  
-arbusto (mata) - tali moke  
+arbusto (mata) - tal moku  
 Arca da Aliança - liga di sanduku  
 arca de Noé - Noe di nave  
 arco - arka  
@@ -111,7 +111,7 @@ avó - chin ma
 avô - chin pa  
 azur (blau) - lazuri  
 azur - blu  
-açougueiro (talhante) - bucher  
+açougueiro (talhante) - bucha ja  
 açúcar - sukar  
 ####B - B  
 bacalhau-do-atlântico - atlanti kade  
@@ -147,7 +147,7 @@ bigorna - metalbede
 bilhete - tikete  
 bilíngue - dulbashi  
 biología - bio logi  
-bioma - biyosistem  
+bioma - bio sistem  
 biscoito - biskute  
 bola - bol  
 bolo lunar - luna keke  
@@ -156,11 +156,11 @@ bomba - bomba
 bombom (doce) - kandi  
 bombordo - nave lefte  
 borboleta - pelpel  
-bota - bute  
+bota - buta  
 botânica - fito logi  
 botão - buton  
 boxe - bokse  
-boxeador (pugilista) - bokser  
+boxeador (pugilista) - bokse ja  
 branco - baki  
 bravo (valente, corajoso) - bravo  
 bravo! - bravo  
@@ -270,9 +270,10 @@ como - ko?
 compaixão - samemos  
 complô (conspiração) - sirplan  
 comportamento (conduta) - manir  
+composto - bio cana she  
 comprar - shopa  
 compras - shope  
-computador - komputer  
+computador - komputa  
 concerto - konserte  
 condutor (chofer, motorista) - shofer  
 conduzir - shofa  
@@ -285,7 +286,7 @@ consultor - konseler
 conta (fatura) - fatura  
 conta - hisabu loge  
 conto - korte kata  
-conto de fadas - peri kata  
+conto de fadas - pari kata  
 contêiner - inan  
 copo (taça) - kupa  
 cor - rang  
@@ -319,12 +320,12 @@ cultivar - nong
 cume (pico, topo) - shanpike  
 cápsico - chili  
 cão (cachorro) - vaf  
-céu - ten  
+céu - sama  
 cópia - kope  
 cósmico - kosmo di  
 ####D - D  
 dado - zar kube  
-dados - date  
+dados - data  
 damasco (abricó) - briko  
 dano (avaria) - avar  
 danês - dani  
@@ -430,7 +431,7 @@ estanho - estan
 estar deitado (jazer) - kushu  
 estação (sazão) - mosim  
 este (leste) - dong  
-estirar - tirlonga  
+estirar - long tire  
 estrado - tai  
 estrela - sing  
 estrumpfe (smurf) - blu elfe  
@@ -455,7 +456,7 @@ exército - gun
 exógeno - eshojeni  
 ####F - F  
 face (faceta) - fas  
-fada - peri  
+fada - pari  
 fadiga - fatigia  
 fala (palavras) - loga  
 falar - loga  
@@ -465,13 +466,13 @@ fator - cana ja
 favela - harabu mahala  
 favoritismo - mas fili jui  
 favorito (preferido) - mas fili di  
-fazenda (tecido) - tekse  
+fazenda (tecido) - tela  
 fazer - fa  
 fechadura - sor  
 feio - dusvidi  
 feliz - suki  
 feno - gan cau  
-fermentar - biyomutu  
+fermentar - be bio mute  
 fibra - linem  
 filho ou filha - ben  
 filosofia - filsofia  
@@ -690,7 +691,6 @@ margarida - margarite
 margarida-comum - englomargarite  
 margarita-maior - baki margarite  
 margem (borda) - kinar  
-margem - tate  
 marinha - haigun  
 Marrocos - Magribia  
 Marte - Marse  
@@ -698,7 +698,7 @@ marítimo - hayi
 massa - masa  
 massa de modelar (massinha) - plastopaste  
 mastro - masta  
-matadouro - buchokan  
+matadouro - bucha kan  
 matemática - hisabolojia  
 matéria - mate  
 maçã - aple  
@@ -755,6 +755,7 @@ mudança climática - klimmute
 mudar-se - migru  
 multilíngue (plurilíngue) - polbashi  
 mundo - dunia  
+mundo das fadas (paraíso) - pari desha  
 muro (muralha) - mur  
 máquina de escrever - kitabu gi  
 mármore - kalsokristal  
@@ -773,10 +774,10 @@ nave espacial - kosmo nave
 nação - nasia  
 necessidade - yauta  
 necessário - yau di  
-neologismo - neuloge  
+neologismo - nove loga  
 Netuno - Neputun  
-neurotoxina - neurotokse  
-neurônio - neurochel  
+neurotoxina - nerve toksi  
+neurônio - nerve celu  
 neve - hima  
 nicho - nish  
 ninho (vespiero) - nide  
@@ -787,11 +788,11 @@ norte - norde
 nosso - mimen di  
 nostalgia (saudade) - nostalgia  
 nota - note  
-novato (neófito) - nevike  
+novato (neófito) - nove jen  
 nove (9) - tisa  
-novidade - neu  
-novidade - nevia  
-novo - nevi  
+novidade - nove  
+novidade - nove ta  
+novo - nove  
 Noé - Noe  
 nuvem - megi  
 náusea - retroguli sense  
@@ -804,7 +805,7 @@ o (a) - a
 ####O - O  
 o que - ke  
 objetivo - dike  
-oblíquo (torto) - terchi  
+oblíquo (torto) - terca  
 obsidiana - osidian  
 oceano - daihai  
 ocular - oko di  
@@ -900,7 +901,7 @@ picareta - pinchope
 pilha (bateria) - bateri  
 pimenta - pipre  
 pinheiro - song  
-pintura - pente  
+pintura - penta  
 piquenique - eshyam  
 pirataria - piratia  
 pirâmida - piram  
@@ -1010,7 +1011,7 @@ retornar - retra
 rim - nefre  
 rima - rim  
 ringue - ringar  
-rio - riu  
+rio - rivo  
 rir - haha  
 ritmo - ritim  
 robô - robote  
@@ -1021,6 +1022,7 @@ Roma - Roma
 romance - long kata  
 rosa - roze  
 roupa (vestidura) - fuke  
+rouxinol - bulbul  
 rubi - lal bau sheke  
 rápido - rapide  
 rã - krokroke  
@@ -1039,7 +1041,7 @@ salmão-rosa - rozosalmon
 salmão-vermelho - lal salmon  
 salsicha - sosis  
 samambaia - parne  
-samba-canção - bokserpante  
+samba-canção - bokse pante  
 sanduíche - sanduiche  
 sangue - sang  
 Satanás - shatan  
@@ -1097,13 +1099,15 @@ São Paulo - Sante Paulo
 série (sequência) - silia  
 só (solitário) - unike jan di  
 ####T - T  
-tablet - tablokomputer  
+tablet - table komputa  
 tangerina (mandarim) - lal oranje  
-taxímetro - taksometrer  
-tear - tekse mashin  
+taxímetro - taksi metre gi  
+tear - tela gi  
 tectónica de placas - plati geyokaskia  
-telefonar - telfona  
-telefonia - telfonia  
+teia de aranha - arane nete  
+tela - penta tela  
+telefonar - fa tele fon  
+telefonia - tele fon shutu  
 telescópio - teleskope  
 telhado - chati  
 temer - fobu  
@@ -1111,8 +1115,8 @@ tempero - masale
 templo - puja kan  
 tempo - zaman  
 tendência - klin  
-tenso - tensi  
-tentar (provar) - teste  
+tenso - tense  
+tentar (provar) - fa teste  
 tentáculo - senter  
 teosofia - deu sofi  
 ter (achar, receber) - geta  
@@ -1126,16 +1130,16 @@ terça-feira - var du
 teste - teste  
 tigre - bagre  
 tijolo - dobe  
-toalha - gan tekse  
-toalha de mesa - meza tekse  
+toalha - gan tela  
+toalha de mesa - meza tela  
 tomate - tomate  
-topografia - topograf  
+topografia - topo grafi  
 tora - mokotan  
 toranja - putau oranje  
 torta - pai  
 toupeira - krote  
-toxicologia - toksilogi  
-toxina - bio tokse  
+toxicologia - toksi logi  
+toxina - bio toksi  
 trabalhador - karer  
 trabalhar - kara  
 trabalho - gung  
@@ -1156,7 +1160,7 @@ tubérculo - masmul
 turbante - pagre  
 tábua (prancha) - mokoban  
 técnica - tehne  
-título - tema nam  
+título - tema name  
 ####U - U  
 uau - va  
 um (1) - un  
@@ -1235,7 +1239,7 @@ zumbi - zombi
 álcool - alkol  
 área de acampamento - kampistan  
 área de transferência - katoglutoban  
-árvore - moke  
+árvore - moku  
 áspero - karsi  
 âncora - angar  
 étnico - zuku di  

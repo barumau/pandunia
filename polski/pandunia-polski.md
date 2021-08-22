@@ -34,6 +34,7 @@ ajibu li - zachwycający (zdumiewający, zadziwiający)
 ajila - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
 akacia - akacja  
 akare - klescz (roztocze)  
+akse - oś  
 ala - zmienić (zmieniać)  
 Alaska - Alaska  
 alga - alga (wodorost)  
@@ -65,8 +66,8 @@ Amerika Samoa - Amerykańska Samoa
 amerikium - ameryk  
 ami - kochany (drogi)  
 amir - rozkaz, komenda  
-amir ja - emir  
 amir desha - emirat  
+amir ja - emir  
 amper - amper  
 ampul - ampułka  
 an - negatywny (przeciwny, nie)  
@@ -181,7 +182,6 @@ auto nomi li - autonomiczny
 avakate - awokado  
 avar - obrażenia (rana, krzywda)  
 avar ja - krzywdzący (szkodliwy)  
-akse - oś  
 Azerbaijan - Azerbejdżan  
 ####B - B  
 babu - rozdział, sekcja  
@@ -277,7 +277,14 @@ baze shula kan - szkoła podstawowa
 be - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 be ais - marznąć (zamarznąć)  
 be ajibu - zachwycić się (być zachwyconym)  
+be bio mute - fermentować  
+be boli - ugotować się, gotować się  
+be bum - eksplodować (wybuchnąć, wybuchać)  
+be loka - być umiejscowionym (być ulokowanym, stać)  
+be tele loka - teleportować się  
 be teza - wzmacniać się (wzmagać, pogłębiać się)  
+be ting - zatrzymać się  
+be turbe - przejmować się (zawracać sobie głowę)  
 be van - cieszyć się (zażywać, bawić się)  
 be vide - być widzianym  
 be zai - pojawić się  
@@ -312,19 +319,18 @@ bina plan - architektura
 bina plan ja - architekt  
 binde - punkt  
 bio - organiczny  
+bio cana she - kompost  
 bio jinse - płeć biologiczna  
 bio logi - biologia (nauka o życiu)  
-bio tokse - toksyna  
+bio mute di - sfermentowany  
+bio sistem - biom  
+bio toksi - toksyna  
 bio vute - życie organiczne  
 bir - piwo  
 bir kan - bar, knajpa  
 Bisau Ginia - Guinea Bissau  
 biskute - biszkopt, ciastko  
 bismute - bizmut  
-biyochaniver - kompost  
-biyomuti - sfermentowany  
-biyomutu - fermentować  
-biyosistem - biom  
 bizar - dziwny  
 biznes - biznes, interes (aktywność komercyjna)  
 bizneser - osoba biznesu, biznesman  
@@ -340,20 +346,21 @@ boke - usta
 bokse - boks  
 bol - piłka  
 Bolgaria - Bułgaria  
+boli - zapomnieć, zapominać  
 Bolivia - Boliwia  
 bomba - bomba  
 bon - dobry  
+bon darja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
+bon deke - cnota (moralność)  
+bon deke di - cnotliwy (prawy)  
 bon guste di - pyszny  
-bondarja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
-bondeke - cnota (moralność)  
-bondeki - cnotliwy (prawy)  
-boni zar - dobry los, szczęście  
-bonsifi - wspaniały  
-bonsifia - cecha, atrybut, własność; -ość  
-bonsinyi - obiecujący (dobrze wróżący)  
-bonvidi - przystojny, atrakcyjny, ładny  
-bori - znudzony  
-boria - nuda (znudzenie)  
+bon sifa di - wspaniały  
+bon sifa ta - cecha, atrybut, własność; -ość  
+bon sin di - obiecujący (dobrze wróżący)  
+bon vide di - przystojny, atrakcyjny, ładny  
+bon zar - dobry los, szczęście  
+bori - nuda (znudzenie)  
+bori di - znudzony  
 borium - bohr  
 boron - bor  
 Bosna e Hercegovina - Bośnia i Harcegowina  
@@ -367,7 +374,7 @@ bravo - brawo (gratulacje)
 Brazavil Kongo - Republika Konga  
 Brazil - Brazyla  
 briko - morela  
-Britania - Zjednoczone Królestwo  
+Britan - Zjednoczone Królestwo  
 bromium - brom  
 brosh - szczotka  
 brun - brązowy, koloru kawy  
@@ -376,31 +383,26 @@ brun salmon - pstrąg potokowy
 Brunei - Brunei Darussalam  
 brus - rodzeństwo, brat lub siostra  
 bu! - bu!  
-buda - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 Buda - Budda  
 Buda din - Buddyzm  
 Buda din ja - buddysta  
 budi - uświadomienie, świadomość; oświecenie, bodhi  
-budi - świadomy; oświecony  
+budi di - świadomy; oświecony  
 bufete - bufet (szwedzki stół)  
 bufon - głupiec, bufon  
-buge - róg  
-bui - baobab  
 bujete - budżet  
 buku - książka  
-bula - zapomnieć, zapominać  
 bulbul - słowik  
-bulu - ugotować się, gotować się  
 bum - wybuch  
-bumu - eksplodować (wybuchnąć, wybuchać)  
 burge - zamek, forteca, twierdza  
 Burkina Faso - Burkina Faso  
 bus - autobus, autokar  
 buste - biust  
+buta - but  
 Butan - Bhutan  
-bute - but  
 buton - klawisz, przycisk, przełącznik, guzik  
-butonban - klawiatura  
+buton ban - klawiatura  
+buyu - baobab  
 ####C - C  
 cana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 cana basha - język sztuczny  
@@ -530,7 +532,7 @@ dante brosh - szczoteczka do zębów
 dante na di - bezzębny  
 dantomediker - dentysta  
 darba - bić, uderzyć, uderzać  
-darje - stopień, poziom, ranga, klasa  
+darja - stopień, poziom, ranga, klasa  
 darji - stopniowy  
 darjomeden - gradient (gradacja, stopniowanie)  
 darjomute - rozwój  
@@ -539,7 +541,7 @@ darte - grunt (ziemia, próchnica)
 darti - ziemny (glebowy, gruntowy)  
 darviniste - darwinista  
 darvinistia - darwinizm  
-date - dane  
+data - dane  
 datobanke - baza danych (bank danych)  
 datotable - tablioca, macierz  
 dau - droga, szosa, ulica  
@@ -775,9 +777,32 @@ fa an karma - deaktywować (wyłączyć, zatrzymać)
 fa asar - poprowadzić do (doprowadzić do, powodować)  
 fa baze - zakładać (założyć, ustanowić)  
 fa bina - zbudować, budować, konstruować  
+fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
+fa jami - kolekcjonować, zebrać, zbierać  
+fa kancha dake - szklić (glazurować)  
 fa karma - aktywować (włączyć, uruchomić)  
+fa komputa - policzyć, liczyć, przetwarzać dane  
+fa loka - umieścić (postawić)  
+fa long - przedłużyć, przedłużać  
+fa mas forte - wesprzeć (wzmocnić, zasilić)  
+fa masim - zmaksymalizować  
 fa no zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
+fa nove - odnowić, odnawiać, uczynić nowym  
+fa oko - patrzeć (oglądać)  
+fa rai - uważać (sądzić)  
 fa safa - wyczyścić, czyścić  
+fa tal - obniżać (obniżyć)  
+fa tapa - zatkać, ztykać  
+fa tela - tkać (pleść)  
+fa terca - przechylać (przechylić, wychylać, wychylić)  
+fa tese - dyskutoać, twierdzić  
+fa teste - spróbować, próbować  
+fa ting - zatrzymać  
+fa transe - przejść, przechodzić, przejechać, przejeżdżać  
+fa trati - zgodzić się (umówić się)  
+fa truke - oszukać (oszukiwać  
+fa turbe - przeszkodzić, przeszkadzać, robić kłopot  
+fa un she - jednoczyć  
 fa van - bawić, zabawiać  
 fa vice - zastąpić (podstawić, zamienić)  
 fa vode - obiecać, angażować się  
@@ -960,7 +985,7 @@ gamel - wielbłąd, wielbłądzica
 gami - ożeniony, zamężny, w związku małżeńskim  
 gamia - małżeństwo, związek małżeński  
 gan cau - siano  
-gan tekse - ręcznik  
+gan tela - ręcznik  
 Gana - Ghana  
 gana - suszyć (wysuszyć)  
 Ganda - Uganda  
@@ -1082,11 +1107,11 @@ gul - ghul
 gula - połknąć (połykać)  
 guma - bęben  
 gun - armia  
+gun raja desha - szogunat  
 gung - praca, zjęcie, zadanie  
 gung kan - fabryka, manufaktura  
 gunjan - żołnierz  
 gunrajer - szogun  
-gun raja desha - szogunat  
 guru - guru, mistrz  
 gusta - smakować, próbować smaku  
 guste - smak  
@@ -1106,6 +1131,7 @@ haha - śmiać się
 hai - może  
 hai alga - wodorosty  
 hai amir ja - admirał  
+hai kinar - wybrzeże  
 haichau - trawa mor  
 haida - niech my, hajda  
 haiful - ukwiał  
@@ -1308,7 +1334,6 @@ jaga - obudzić, budzić
 jagi - przebudzony, przytomny  
 Jakarta - Dżakarta  
 jake - kurtka  
-jama - kolekcjonować, zebrać, zbierać  
 Jamaika - Jamajka  
 jami - zbiorowy, zbiorczy  
 jamia - kolekcja, zbiór; zgromadzenie, zebranie  
@@ -1449,7 +1474,6 @@ kanala - kierować (doprowadzać, prowadzić, służyć jako kanał)
 kanaler - przewód (kanał)  
 kanape - sofa, kanapa  
 kancha - szkło  
-fa kancha dake - szklić (glazurować)  
 kancha dake - glazura (emalia)  
 kandela - kandela  
 kandi - cukierek, słodycze  
@@ -1466,6 +1490,7 @@ kanyon - kanion
 kape - złapać, łapać, schwytać, chwytać  
 kape truke - pułapka  
 kape yo pesh - łapać rybę  
+kape yo taksi - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
 kar - wóz, wózek  
 kar parke - parking  
 kara - pracować  
@@ -1555,7 +1580,7 @@ kimi - chemiczny
 kimlojia - chemia  
 kimono* - kimono  
 kina - ruszać, przenościć, zmieniać miejsce, inspirować  
-kinar - granica, skraj, brzeg  
+kinar - granica, skraj, brzeg, krawędź  
 kinar baryer - płot  
 kinar fon - spółgłoska  
 kinar li - peryferyjny  
@@ -1616,11 +1641,11 @@ koma - przecinek
 komali - miękki  
 Komoro nesia - Komory  
 kompania - firma, kompania, korporacja  
-komputa - policzyć, liczyć, przetwarzać dane  
-komputer - komputer  
+komputa - komputer  
 komuna - dzielić (współdzielić)  
 komuni - wspólny  
 komunkratia - republika  
+kon trati - pakt (kontrakt, ugoda, umowa, konwencja)  
 Konakri Ginia - Gwinea  
 konbash - wspólny język  
 konboni - pasować  
@@ -1639,7 +1664,6 @@ konsavana - poinformować, informować, zakomunikować, komunikować
 konsave - informacja  
 konserte - koncert  
 kontra - być przeciw  
-kon trati - pakt (kontrakt, ugoda, umowa, konwencja)  
 konus - szyszka  
 kopa - kopiować, replikować  
 kope - kopia, replika  
@@ -1725,6 +1749,7 @@ kushloke - kuszetka (koja)
 kushu - leżeć  
 Kuvaitia - Kuwejt  
 ####L - L  
+laba - róg  
 labi - warga  
 lage - jezioro  
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
@@ -1762,6 +1787,7 @@ latojan - towarzysz (partner, kumpel)
 Latvia - Łotwa  
 Lau - Laos  
 lau - starzec  
+laurencium - lorens  
 lavi - stary (sędziwy, wiekowy)  
 lavi - laotański  
 lazanya - lazania  
@@ -1829,36 +1855,33 @@ litre - litr
 livermorium - liwermor  
 loba - rzodkiewka  
 loga - mówić, rozmawiać  
-loga asal - etymologia  
-loge - rejestr  
 loga - słowo (mowa)  
+loga asal - etymologia  
+loga di - słowny (leksykalny)  
+loga fili ja - logofil (miłośnik słów)  
+loga ironi - sarkazm  
+loga jami - słownictwo  
+loge - rejestr  
 loge buku - dziennik pokładowy (notatnik)  
 logem - słowo  
-loga di - słowny (leksykalny)  
 logi - nauka, badanie, studiowanie  
-loga jami - słownictwo  
 logika - logika, dedukcja  
 logika di - logiczny  
-loga ironi - sarkazm  
 logivi - rozmowny  
-loga fili ja - logofil (miłośnik słów)  
 logoliste - lista słów  
-fa loka - umieścić (postawić)  
 loka - miejsce, lokacja  
 loka di - miejscowy, lokalny  
-be loka - być umiejscowionym (być ulokowanym, stać)  
 lon - dyskusja, debata, dyskurs  
 lona - debatować, prowadzić dyskurs  
 lona biznes - negocjować  
 London - Londyn  
-fa long - przedłużyć, przedłużać  
 long - długi  
-long ta - długość  
 long krokodil - krokodyl  
 long pipre - pieprz długi  
-lotra - wydra  
-laurencium - lorens  
+long ta - długość  
+long tire - rozciągać (rozciągnąć)  
 lote - wsad, partia, porcja, seria  
+lotra - wydra  
 lou - przeciekać, ciec  
 lou sang - krwawić  
 lugi - zielony  
@@ -1872,6 +1895,8 @@ lung - smok
 lusun - szparag; szparagia  
 luta - obrabować, splądrować  
 luta ja - rabuś (grabieżca)  
+Luter din - luteranizm  
+Luter din ja - luterański  
 lutetium - lutet  
 ####M - M  
 ma - matka, mama  
@@ -1941,26 +1966,22 @@ marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ś
 marke - znak, trop  
 Marse - Mars  
 Marshal nesia - Wyspy Marshalla  
-Luter din ja - luterański  
-Luter din - luteranizm  
+mas - bardzie  
+mas di - dodatkowy  
+mas di fen - większość  
+mas fili - preferować (woleć)  
+mas fili di - ulubiony  
+mas forte - wsparcie (wzmocnienie, zasilenie)  
+mas ka bas - zbyt  
 masa - masa  
 masaje - masaż  
 masala tika - tikka masala  
 masale - przyprawa  
-mas - bardzie  
-mas ka bas - zbyt  
-mashboni - dodatkowy  
 masdarja - zwiększyć o jeden  
-mas fili - preferować (woleć)  
-mas fili di - ulubiony  
-fa mas forte - wesprzeć (wzmocnić, zasilić)  
-mas forte - wsparcie (wzmocnienie, zasilenie)  
-mas di - dodatkowy  
+mashboni - dodatkowy  
 masim - nabardziej, maksymalnie  
-fa masim - zmaksymalizować  
 masim - maksimum  
 masim di - maksymalny  
-mas di fen - większość  
 maska - maska, kamuflaż  
 masmul - bulwa  
 masmulsolful - topinambur  
@@ -2046,7 +2067,7 @@ metre - zmierzyć (miara)
 metregraf - mapa  
 metregrafia - kartografia  
 metrun - jednostka miary  
-meza tekse - obrus  
+meza tela - obrus  
 meze - stół  
 mezistan - płaskowyż (plateau)  
 mi - ja, mnie  
@@ -2107,12 +2128,12 @@ model - model, wzór, wzorzec, projekt
 modela - modelować (projektować, zaprojektować)  
 modologe - przysłówek  
 moge - tusz  
-moke - drzewo  
 mokoban - deska  
 mokojanger - stolarz  
 mokojongoparke - arboretum  
 mokomate - drewno  
 mokotan - pień  
+moku - drzewo  
 mol - mol  
 mola - zemleć (mleć, mielić)  
 Moldova - Mołdawia  
@@ -2233,6 +2254,10 @@ neodimium - neodym
 neon - neon  
 Nepal - Nepal  
 Neputun - Neptun  
+nerve - nerw  
+nerve celu - neuron  
+nerve di - nerwowy (neuronowy)  
+nerve pati - neuropatia  
 nesia - wyspa  
 nesia grupe - archipelag  
 nete - sieć  
@@ -2240,22 +2265,8 @@ netodona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)
 netogeta - ściągać (ściągnąć, pobrać, pobierać)  
 netoloke - witryna internetowa (portal internetowy)  
 netunium - neptun  
-neu - nowość  
-neuloge - neologizm  
-neure - nerw  
-neuri - nerwowy (neuronowy)  
-neurochel - neuron  
-neuropatia - neuropatia  
 neuyangi - nowoczesne  
-neva - odnowić, odnawiać, uczynić nowym  
-nevi - nowy  
-Nevi Kaledonia - Nowa Kaledonia  
-Nevi Yorke - Nowy Jork  
-Nevi Yorke site - Stan Nowy Jork  
-Nevi Zelandia - Nowa Zelandia  
-nevike - nowicjusz (nowa osoba)  
 Nevis - Nevis  
-nevo - właśnie, dopiero co, ostatnio, niedawno  
 nicha - iść w dół (iść pod spód, iść na dno)  
 niche - spód  
 nichi - poniższy  
@@ -2316,6 +2327,14 @@ notana - powiadomić, powiadamiać
 note - uwaga, obserwacja  
 note buku - notatnik  
 notite - wiadomość, zawiadomienie, powiadomienie  
+nove - nowość  
+nove - nowy  
+nove jen - nowicjusz (nowa osoba)  
+Nove Kaledonia - Nowa Kaledonia  
+nove loga - neologizm  
+Nove Yorke - Nowy Jork  
+Nove Yorke citi - Stan Nowy Jork  
+Nove Zelande - Nowa Zelandia  
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
 nudistia - nudyzm  
@@ -2333,10 +2352,9 @@ ofisia - biuro, urząd
 ofiskan - biuro (pokój)  
 oganeson - oganesson  
 ohtopus - ośmiornica  
-fa oko - patrzeć (oglądać)  
-oko - oko  
 okeya - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 okeyi - okej, spoko, akceptowalny  
+oko - oko  
 okokesh - rzęsa  
 okosui - łza  
 okosuigas - gaz łzawiący  
@@ -2378,6 +2396,7 @@ pa - ojciec
 pa ke - gdzie  
 pa lin - online (na linii, w sieci)  
 pa no lin - offline (nie na linii, poza siecią)  
+pa nove - właśnie, dopiero co, ostatnio, niedawno  
 pa u loka - tu (tutaj, tam)  
 pace - pokój  
 Pachi Hai - Ocean Spokojny (Pacyfik)  
@@ -2436,6 +2455,8 @@ parchokayu - pękać (rozrywać się)
 parchotalu - zapaść się (zapadać się, runąć)  
 parde - zasłona, kurtyna  
 pari - równy  
+pari - wróżka  
+pari kata - baśń  
 parike - równy  
 Paris - Paryż  
 parke - park (ogród)  
@@ -2484,12 +2505,10 @@ pendokardon - oset zwisły
 penis - penis  
 penta - pięć (5)  
 penta - namalować, malować  
-pente - namalować, malować  
-penter - malarz  
-per - pióro  
-peri - wróżka  
-peri kata - baśń  
+penta - namalować, malować  
+penta ja - malarz  
 perkardon - ostrożeń lancetowaty  
+pero - pióro  
 Peru - Peru  
 pese - pieniądze  
 pesh - ryba  
@@ -2661,31 +2680,30 @@ raite - prawa strona
 raiti - prawy (prawostronny, z prawej strony)  
 raitiste - prawicowiec (prawak)  
 raja - król lub królowa  
-raja di - królewski  
 raja desha - królestwo  
+raja di - królewski  
 ramazan - Ramadan  
 rampe - rampa  
 randa - heblować  
 rande - hebel, strug  
 rang - kolor  
-rang kancha - witraż  
-rang mate - barwnik  
 rang arka - tęcza  
 rang arka salmon - pstrąg tęczowy  
+rang kancha - witraż  
+rang mate - barwnik  
 rapide - szybki, prędki  
-rapide ta - prędkość (szybkość)  
 rapide metre gi - prędkościomierz  
+rapide ta - prędkość (szybkość)  
 rare - rzadki (nieczęsty)  
 rare ta - rzadkość  
 rasa  - rasa  
-rasa jui ja - rasista  
 rasa jui - rasizm  
+rasa jui ja - rasista  
 rasa medi - międzyrasowy  
 raste - wzrost  
 rastu - wzrastać  
 ratibu - porządkować, organizować  
 ratibu - porządek  
-fa rai - uważać (sądzić)  
 razon - rozum, rozsądek  
 razoni - racjonalny, rozsądny  
 razonu - mieć sens  
@@ -2729,10 +2747,10 @@ risko di - ryzykowny
 rite - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 riti - konwencjonalny, zwyczajowy, tradycyjny  
 ritim - rytm, bit  
-riu - rzeka  
 riumate - ciecz (płyn)  
 riumati - ciekły (płynny)  
 riutube - lejek  
+rivo - rzeka  
 rivu - latać (fruwać)  
 rivunia - fuzja (amalgamowanie, łączenie)  
 rivunu - łączyć (złączyć)  
@@ -2834,6 +2852,11 @@ salsafi - czysty (higieniczny, sanitarny)
 salsafia - higiena  
 Salvador - Salwador  
 sam - taki sam  
+sama - niebo  
+sama blu - jasnoniebieski (lazurowy)  
+sama di - niebieski, niebiański, podniebny  
+sama hal - pogoda  
+sama kinar - horyzont  
 samarium - samar  
 samdeshi - rodak, ziomek, krajan  
 samemos - współczucie  
@@ -2898,6 +2921,8 @@ selge - boćwina (botwina)
 selu - powinien  
 semdan - ziarno, nasienie  
 seme - ziarno (nasienie)  
+semen - się (nawzajem, wzajemnie)  
+semen di - wzajemny  
 semente - cement  
 semi - nasienny  
 sen - wiek  
@@ -3170,90 +3195,77 @@ suta - szyć
 sutur - szew  
 suyi - wodny  
 ####T - T  
-tabake - tytoń  
+tabaku - tytoń  
 tabi - natura, środowisko  
-tabla date - ułożyć w trabelę  
+table yo data - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
+Tai basha - tajski  
 Tai Desha - Tajlandia  
 Taibei - Tajpej  
-taige - tajga  
+taiga - tajga  
 tail - płyta  
 Taivan - Tajwan, Republika Chińska  
 Tajiki - Tadżykistan  
-taksa - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
-takse - podatek, opłata  
-taksogar - taxi, taksówka  
-taksometrer - taksometr  
+taksi - podatek, opłata  
+taksi kar - taxi, taksówka  
+taksi metre gi - taksometr  
 tal - dół, spód  
-tala - obniżać (obniżyć)  
-tali - niski  
-tali moke - krzak (krzew)  
+tal di - niski  
+tal moku - krzak (krzew)  
+tal tela - dywan  
 talium - tal  
-taltesh - dywan  
+tam - chciwy (żądny)  
 tamar - daktyl  
-tami - chciwy (żądny)  
 Tamil - tamilski  
 tan - łodyga (tors, pień, trzon)  
 tanah - Tanach, Biblia hebrajska  
 tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
-tantalium - tantal  
+tantalum - tantal  
 tanur - piec (piekarnik)  
 Tanzania - Tanzania  
-tapa - zatkać, ztykać  
-tape - korek, zatyczka, szpunt  
+tapa - korek, zatyczka, szpunt  
 tarif - opłata, taryfa  
-tarja - przetłumaczyć, tłumaczyć, interpretować  
-tarje - tłumaczenie, interpretacja  
-tarjer - tłumacz  
+tarjum - przetłumaczyć, tłumaczyć, interpretować  
+tarjum ja - tłumacz  
+tarjum she - tłumaczenie, interpretacja  
 tas - danie  
-tate - wybrzeże (brzeg, krawędź)  
 tatike - taktyka, strategia  
-tatu* - tatuaż  
-tave - patelnia  
-tayi - tajski  
-tazi - świeży  
+tatu - tatuaż  
+tava - patelnia  
+taza - świeży  
 tehne - technika, technologia  
-tehnekrati - technokracja  
-tehnelogi - technologia, nauka o technikach  
-teknium - technet  
+tehne krati - technokracja  
+tehne logi - technologia, nauka o technikach  
+tehnetium - technet  
+tela - tkanina (materiał, sukno)  
+tela gi - krosno  
 tele - dystans  
-tele - daleki, odległy, dystans  
+tele di - daleki, odległy  
+tele fon gi - telefon  
+tele ta - dystans  
 tele vide gi - telewizja  
-telefon - telefon  
-teleloku - teleportować się  
 teleskope - teleskop  
-telugi - telugu  
+Telugu - telugu  
 telurium - tellur  
 tema - temat, motyw  
 tema - być o; dyskutować o  
-tema nam - tytuł (nagłówek)  
-ten - niebo  
+tema name - tytuł (nagłówek)  
 tenesium - tenesyn, tennessine  
-tenhal - pogoda  
-teni - niebieski, niebiański, podniebny  
 tenis - tenis  
-tenkenar - horyzont  
-tennili - jasnoniebieski (lazurowy)  
 tenta - kusić, nakłonić, nakłaniać  
-teoria - teoria  
+teori - teoria  
 tepe - taśma  
-tera* - tera-  
+tera - tera-  
 terbium - terb  
-tercha - przechylać (przechylić, wychylać, wychylić)  
-terchi - skośny (ukośny, pochyły)  
+terca - skośny (ukośny, pochyły)  
 termo - temperatura  
-termometre gi - termometr  
+termo metre gi - termometr  
 teror - terror  
-teroriste - terrorysta  
-teroristia - terroryzm  
-tesa - dyskutoać, twierdzić  
+teror jui - terroryzm  
+teror jui ja - terrorysta  
 tese - argument, teza  
 tesla - tesla (T)  
-teste - spróbować, próbować  
 teste - test, wyzwanie, próba  
-tekse - tkanina (materiał, sukno)  
-tekse - tkać (pleść)  
-tekse mashin - krosno  
 teza - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 tichin - chordofon, instrument strunowy  
 tika - tikka  
@@ -3261,45 +3273,39 @@ tikete - bilet
 tim - drużyna  
 Timor - Timor  
 ting - stop; przerwa, zatrzymanie  
-tinga - zatrzymać  
-tingu - zatrzymać się  
 tipe - typ (rodzaj, gatunek)  
-tira - ciągnąć  
-tira milke - wydoić, doić  
-tira pil - obrać (obierać)  
-tira sanduku - szuflada  
-tirbaton - dźwignia  
-tirlonga - rozciągać (rozciągnąć)  
-tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
+tire - ciągnąć  
+tire baton - dźwignia  
+tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
+tire sanduku - szuflada  
+tire yo milke - wydoić, doić  
+tire yo pil - obrać (obierać)  
 tisa - dziewięć (9)  
 titanium - tytan  
-tocha - dotyczyć  
+tochu - dotyczyć  
 Togo - Togo  
 toksi - trucizna (toksyna)  
-toksi - toksyczny (trujący)  
+toksi di - toksyczny (trujący)  
 Tokyo - Tokio  
 tolera - tolerować  
 tomate - pomidor  
 ton - ton, dźwięk, nuta, tonacja  
 tong - beczka  
 Tonga - Tonga  
-tope - region  
+topo - region  
 torium - tor  
 torso - tułów  
 tortuga - żółw  
-fa transe - przejść, przechodzić, przejechać, przejeżdżać  
 transe - przejazd, przewóz, tranzyt, transport  
 transe gon di - przekątny  
+trati - porozumienie  
 trator gi - traktor (ciągnik)  
 tren - pociąg  
 tren dau - kolej  
 tren kape ja - porywacz pociągu  
-fa trati - zgodzić się (umówić się)  
-trati - porozumienie  
 tri - trzy (3)  
 tribu - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
-fa truke - oszukać (oszukiwać  
 truke - sztuczka (podstęp, oszustwo)  
 tu - ty, ciebie  
 tu di - twój  
@@ -3316,9 +3322,7 @@ tunel tren - metro
 tunika - tunika, toga  
 Tunis - Tunezja  
 tupi - kapelusz, czapka  
-fa turbe - przeszkodzić, przeszkadzać, robić kłopot  
 turbe - problem, kłopot, zakłócenie  
-be turbe - przejmować się (zawracać sobie głowę)  
 Turki - Turcja  
 turki basha - turecki  
 Turkomen - Turkmenistan  
@@ -3332,20 +3336,17 @@ ulul - wyć
 uma - koń  
 umami - mięsny (umami)  
 un - jeden (1)  
-fa un she - jednoczyć  
-semen - się (nawzajem, wzajemnie)  
-semen di - wzajemny  
-un deu jui ja - monoteizm  
 un deu jui - monizm  
-unta liga - unia  
-unike - tylko (jedyny, wyłączny)  
-unta di - zjednoczony  
-Unta Arabi Amir Desha (UAA) - Zjednoczone Emiraty Arabskie  
-Unta Desh Da Amerika (UDA) - Stany Zjednoczone Ameryki  
-un mar - raz (jeden raz)  
+un deu jui ja - monoteizm  
 un mana di - jednoznaczny  
+un mar - raz (jeden raz)  
 un me - pierwszy, numer jeden  
 un rang di - jednokolorowy (monochromatyczny)  
+unike - tylko (jedyny, wyłączny)  
+Unta Arabi Amir Desha (UAA) - Zjednoczone Emiraty Arabskie  
+Unta Desh Da Amerika (UDA) - Stany Zjednoczone Ameryki  
+unta di - zjednoczony  
+unta liga - unia  
 ura - wiwatować; hura  
 Uran - Uran  
 uranium - uran  
@@ -3438,13 +3439,13 @@ vin kan - winiarnia
 vin suan - ocet  
 ving - skrzydło  
 vinil - winyl  
+violeta blu - fioletowy  
 Virjin nesia - Wyspy Dziewicze USA  
 virus - wirus  
 virus logi - wirusologia  
 Vishnu - Wisznu  
 viski - viski  
 vita - śruba, wkręt  
-violeta blu - fioletowy  
 viza - wiza  
 vodun - voodoo  
 vol - chcieć, pragnąć  

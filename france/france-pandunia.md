@@ -1,7 +1,7 @@
 # france-pandunia
 a (dans, en, chez) - pa  
 ####A - A  
-abattoir - buchokan  
+abattoir - bucha kan  
 abattre - bucha  
 abeille ou guêpe - fong  
 Abkhazie - Apsni  
@@ -106,7 +106,7 @@ arabe - arabi
 arachnophobie - arane fobi  
 araignée - arane  
 arboretum, pépinière - mokojongoparke  
-arbre - moke  
+arbre - moku  
 arc - arka  
 arc-en-ciel - rang arka  
 Arche d'Alliance - liga di sanduku  
@@ -182,7 +182,7 @@ bah - bah
 baie (golf) - bai  
 baie - beri  
 bain - banya  
-baisser - tala  
+baisser - fa tal  
 balance (poids) - veze metre gi  
 balcon - veranda  
 balle (boule) - bol  
@@ -202,7 +202,7 @@ baromètre - air bari metre gi
 barrière - bara  
 baryum - barium  
 bas - tal  
-bas - tali  
+bas - tal di  
 base (alcali) - kali  
 base - baze  
 base de données - datobanke  
@@ -226,7 +226,7 @@ bien-être - salamia
 bilingue - dulbashi  
 billet - tikete  
 biologie - bio logi  
-biome - biyosistem  
+biome - bio sistem  
 biscuit - biskute  
 bière - bir  
 blanc - baki  
@@ -237,11 +237,10 @@ blé - ganum
 bombe - bomba  
 bon - bon  
 bonbon - kandi  
-bord (rive) - tate  
 bord - kinar  
 botanique - fito logi  
-botte - bute  
-boucher - bucher  
+botte - buta  
+boucher - bucha ja  
 bouclire - defban  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - fan  
@@ -253,7 +252,7 @@ bout de doigt - angul pike
 bouteille - botel  
 bouton - buton  
 boxe - bokse  
-boxeur - bokser  
+boxeur - bokse ja  
 bras - handoshake  
 brave - bravo  
 bravo! - bravo  
@@ -262,7 +261,7 @@ brique - dobe
 brochette - shish  
 brun (marron) - brun  
 brûler - hoga  
-buisson - tali moke  
+buisson - tal moku  
 but (destination) - gol  
 bâton (canne, tige) - baton  
 bébé - bebe  
@@ -283,7 +282,7 @@ calcaire - kalsopetre
 calcite - kalsite  
 calculer - hisaba  
 calendrier - kalenda  
-caleçon - bokserpante  
+caleçon - bokse pante  
 calife - halifa  
 calmar (encornet, calamar) - kalmar  
 calme (tranquille) - shanti  
@@ -291,6 +290,7 @@ Camomille Romaine - romakamil
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa*  
+canevas (toile) - penta tela  
 Canne à sucre - sukarchau  
 canon - daipau  
 canoë - kanu  
@@ -355,7 +355,7 @@ chéri - ai jen
 chêne - baluta  
 chêne pédonculé - europobalute  
 chœur - chante grupe  
-ciel - ten  
+ciel - sama  
 cime (pic, sommet) - shanpike  
 cimetière - gabur bagi  
 cinq (5) - penta  
@@ -377,7 +377,7 @@ commerce - vende shope
 compassion - samemos  
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
-compost - biyochaniver  
+compost - bio cana she  
 compote de pommes - aple sos  
 comprendre (réaliser) - aha  
 compte - hisabu loge  
@@ -390,7 +390,7 @@ conseiller - sela
 considérer - hema  
 construire - fa bina  
 consultant (conseiller) - konseler  
-conte de fées - peri kata  
+conte de fées - pari kata  
 conteneur - inan  
 continu (analogique) - zoku di  
 continuer (poursuivre, encore) - zoku  
@@ -481,7 +481,7 @@ domestiquer (apprivoiser) - dosiljenita
 domestiqué (apprivoisé) - dosiljeni  
 dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - jena  
-données - date  
+données - data  
 dormir - somu  
 douche - dush  
 drapeau - bandera  
@@ -568,7 +568,7 @@ favori (préféré) - mas fili di
 favoritisme - mas fili jui  
 fente (fissure, fêlure) - krake  
 fenêtre - janel  
-fermenter - biyomutu  
+fermenter - be bio mute  
 feu - hoge  
 feu d’artifice - hogotehne  
 fiable (de confiance, fidèle, sûr, crédible) - amen shin di  
@@ -594,14 +594,14 @@ fosse - kave
 fougères - parne  
 fourmi - murche  
 fragment - parche  
-frais - tazi  
+frais - taza  
 francophone - francefone  
 francophonie - Francefonia  
 fromage - chize  
 fromage blanc - panir  
 fruit - frute  
 frêne - yasen  
-fée - peri  
+fée - pari  
 Félicitations ! - barka  
 féliciter - barka  
 ####G - G  
@@ -782,7 +782,7 @@ lieu - loka
 lieu de naissance - jen loka  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
-ligne téléphonique - telfonlin  
+ligne téléphonique - tele fon lin  
 ligue (alliance) - liga  
 lilas - lila  
 lime (citron vert) - kagujolimon  
@@ -902,17 +902,18 @@ méfait (péché) - duskar
 mémoire - mem  
 méninge - meninge  
 métaux lourds - bari metal  
+métier à tisser - tela gi  
 ####N - N  
 nagar (flotter) - boyu  
-nappe - meza tekse  
+nappe - meza tela  
 nation - nasia  
 nausée - retroguli sense  
 nautile - nautile  
 neige - hima  
 Neptune - Neputun  
 neuf (9) - tisa  
-neurone - neurochel  
-neurotoxine - neurotokse  
+neurone - nerve celu  
+neurotoxine - nerve toksi  
 niche - nish  
 nid - nide  
 niveau - par  
@@ -927,21 +928,21 @@ nostalgie - nostalgia
 note - note  
 notre - mimen di  
 nous - mimen  
-nouveau - nevi  
+nouveau - nove  
 nouveau-né - neujeni  
-nouveauté - nevia  
+nouveauté - nove ta  
 nouvelle (récit court) - korte kata  
 Noé - Noe  
 nuage - megi  
 nylon - nilon  
 nécessaire - yau di  
-néologisme - neuloge  
-néophyte - nevike  
+néologisme - nove loga  
+néophyte - nove jen  
 ####O - O  
 oasis - vase  
 objectif (cible) - dike  
 objet (article) - vutu  
-oblique (de travers) - terchi  
+oblique (de travers) - terca  
 obsidienne - osidian  
 occupé - mangi  
 ocelot - oselote  
@@ -968,8 +969,8 @@ orange amère - kali oranje
 orange douce - sukaroranje  
 orchidée - orkide  
 ordinaire (habituel, normal) - ada li  
-ordinateur - komputer  
-ordinateur tablette - tablokomputer  
+ordinateur - komputa  
+ordinateur tablette - table komputa  
 ordre - ratibu  
 ordures - laji  
 oreille - ore  
@@ -1030,8 +1031,9 @@ pause - pauze
 pavot d'Orient - guipapil  
 pavot somnifère - sompapil  
 pavé - sirkosheke  
+pays des fées (paradis) - pari desha  
 peindre - penta  
-peinture - pente  
+peinture - penta  
 pelle - bele  
 perdant - shibayer  
 perder - shibaya tena  
@@ -1126,7 +1128,7 @@ projet - projete
 projeter (donner) - lance grafi  
 prolongé - long dura di  
 promettre - fa vode  
-propice - bonsinyi  
+propice - bon sin di  
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
@@ -1180,7 +1182,8 @@ riche - richi
 rime - rim  
 ring (manège) - ringar  
 rire - haha  
-rivière (fleuve) - riu  
+rive - rivo kinar  
+rivière (fleuve) - rivo  
 riz - ris  
 robot - robote  
 roche (pierre) - petra  
@@ -1190,6 +1193,7 @@ roi - man raja
 roman - long kata  
 Rome - Roma  
 rose - roze  
+rossignol - bulbul  
 rosée - rose  
 roue - chakra  
 rouge - lal  
@@ -1255,7 +1259,7 @@ sentir qqch (avoir l'odeur de qqch) - aroma
 sentir qqch - aroma  
 sept (7) - sete  
 serrure - sor  
-serviette - gan tekse  
+serviette - gan tela  
 seul (unique) - unike  
 sexe - jinse  
 sexologie - sekselogi  
@@ -1306,15 +1310,15 @@ tablette de chocolat - choklatobaton
 tarte - pai  
 tasse à thé - chai kupe  
 taupe - krote  
-taximètre - taksometrer  
+taximètre - taksi metre gi  
 technique - tehne  
-technologie - tehnelogi  
+technologie - tehne logi  
 tectonique des plaques - plati geyokaskia  
 temple - puja kan  
 temps - zaman  
 tendance - klin  
-tender - tirlonga  
-tendu - tensi  
+tender - long tire  
+tendu - tense  
 tentacule - senter  
 tente - hemah  
 terrain - geo forme  
@@ -1322,31 +1326,31 @@ terrain de camping - kampistan
 Terre - Geo  
 terre cuite - baka fan  
 terreplatiste - platogeyiste  
-terrorisme - teroristia  
+terrorisme - teror jui  
 thé - chai  
 théière - chai pote  
 théosophie - deu sofi  
 tige - tan  
 tigre - bagre  
 tire à l'arc - arka shutu  
-tirer - tira milke  
-tissu - tekse  
-titre - tema nam  
-toile d'araignée - arane nete  
+tirer - tire yo milke  
+tissu - tela  
+titre - tema name  
+toile d'araignée (arantèle) - arane nete  
 toit - chati  
 tomate - tomate  
 tombe (enterrer) - gabur  
 topinambour - masmulsolful  
-topographie - topograf  
-toucher - tocha  
+topographie - topo grafi  
+toucher - tochu  
 toupie - rototope  
 touriste - safariste  
 Tournesol - solful  
-toxicologie - toksilogi  
-toxine - bio tokse  
+toxicologie - toksi logi  
+toxine - bio toksi  
 trace - marke  
 tracteur - trator gi  
-traduction - tarje  
+traduction - tarjum she  
 travail - gung  
 travailler - kara  
 travailleur (ouvrier) - karer  
@@ -1364,8 +1368,8 @@ Tunisie - Tunis
 turban - pagre  
 télescope (lunette) - teleskope  
 télécharger - netogeta  
-téléphone - telefon  
-téléphoner - telfona  
+téléphone - tele fon gi  
+téléphoner - fa tele fon  
 téléviseur - tele vide gi  
 tête - sar  
 ####U - U  
@@ -1465,7 +1469,7 @@ zèbre - zebra
 école primaire - baze shula kan  
 école secondaire - jungoshulkan  
 économie - malnomia  
-écorce - tira pil  
+écorce - tire yo pil  
 écrire - kitabu  
 écureuil - ekore  
 édenté - dante na di  

@@ -38,6 +38,7 @@ ais krem - crème glacée
 ais li - glacé (glacial, gelé)  
 ajibu - merveille  
 akare - acarien  
+akse - axe  
 ala - changer  
 Alaska - Alaska  
 alga - algue  
@@ -69,9 +70,9 @@ Amerika di - américain
 Amerika Samoa - Samoa américaines  
 amerikium - américium  
 ami - cher  
+amir desha - émirat  
 amir ja - émir  
 amir lin - ligne de commande (console, terminal, invite de commande)  
-amir desha - émirat  
 amper - ampère  
 ampul - ampoule (fiole)  
 an ai - exécrer  
@@ -109,7 +110,7 @@ Apsni - Abkhazie
 arabi - arabe  
 arane - araignée  
 arane fobi - arachnophobie  
-arane nete - toile d'araignée  
+arane nete - toile d'araignée (arantèle)  
 arbuza - pastèque  
 Arcah - Artsakh  
 area - aire (superficie)  
@@ -164,7 +165,6 @@ auto loga - monologue
 avakate - avocat  
 avar - dommage  
 ave - avoine  
-akse - axe  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babu - chapitre  
@@ -235,6 +235,7 @@ baze - base
 baze bol - baseball  
 baze shula kan - école primaire  
 be ais - geler (glacer)  
+be bio mute - fermenter  
 bebe - bébé  
 bedinjan - aubergine  
 bele - pelle  
@@ -247,23 +248,22 @@ bil ta - capacité (pouvoir, habileté)
 bilor - cristal  
 bina plan - architecture  
 bina plan ja - architecte  
+bio cana she - compost  
 bio logi - biologie  
-bio tokse - toxine  
+bio sistem - biome  
+bio toksi - toxine  
 bio vute - organisme  
 bir - bière  
 biskute - biscuit  
-biyochaniver - compost  
-biyomutu - fermenter  
-biyosistem - biome  
 blu - bleu  
 blu elfe - schtroumpf  
 bokse - boxe  
-bokser - boxeur  
-bokserpante - caleçon  
+bokse ja - boxeur  
+bokse pante - caleçon  
 bol - balle (boule)  
 bomba - bombe  
 bon - bon  
-bonsinyi - propice  
+bon sin di - propice  
 botel - bouteille  
 boyu - nagar (flotter)  
 bravo - brave  
@@ -275,12 +275,13 @@ brun salmon - truite brune (truite de mer)
 bu! - bouh!  
 bubu - croque-mitaine  
 bucha - abattre  
-bucher - boucher  
-buchokan - abattoir  
+bucha ja - boucher  
+bucha kan - abattoir  
 Buda - Bouddha  
 buku - livre  
+bulbul - rossignol  
 bum - explosion  
-bute - botte  
+buta - botte  
 buton - bouton  
 ####C - C  
 celu logi - cytologie  
@@ -328,7 +329,7 @@ danko da - grâce à
 danse - dance  
 dante na di - édenté  
 darjomute - développement  
-date - données  
+data - données  
 datobanke - base de données  
 dau ban - panneau de signalisation  
 debili - faible  
@@ -348,6 +349,7 @@ dinamite - dynamite
 dinde - dinde (dindon)  
 diorite - diorite  
 diske - disque  
+do long - loin  
 dobe - brique  
 dokum - document (dossier)  
 dokumfilme - documentaire  
@@ -424,6 +426,11 @@ fa asar - effectuer
 fa bina - construire  
 fa dante - mordre  
 fa karma - activer (allumer, mettre en marche, déclencher)  
+fa loka - mettre (placer)  
+fa tal - baisser  
+fa tele fon - téléphoner  
+fa truke - escroquer  
+fa turbe - gêner (déranger, perturber)  
 fa valu - évaluer  
 fa verse - verser  
 fa vode - promettre  
@@ -492,7 +499,7 @@ gamia - mariage
 gammai - belle-mère  
 gampai - beau-père  
 gan cau - foin  
-gan tekse - serviette  
+gan tela - serviette  
 gansa - oie  
 ganum - blé  
 garma mosim - été  
@@ -754,11 +761,11 @@ klimmute - changement climatique
 klin - tendance  
 ko? - comment  
 koda - queue (côté )  
-komputer - ordinateur  
+komputa - ordinateur  
+kon trati - convention (alliance, pacte)  
 konkara - collaborer  
 konseler - consultant (conseiller)  
 konserte - concert  
-kon trati - convention (alliance, pacte)  
 kope - copie  
 kora - courir  
 koral - corail  
@@ -842,24 +849,23 @@ lisan - langue
 liste - liste  
 litre - litre  
 loga - parler  
-loga asal - étymologie  
-loge - enregistrement  
 loga - parole (mots)  
-loge buku - livre de bord  
-logem - mot  
+loga asal - étymologie  
 loga di - lexical  
 loga jami - vocabulaire (lexique)  
+loge - enregistrement  
+loge buku - livre de bord  
+logem - mot  
 logivi - loquace  
-fa loka - mettre (placer)  
 loka - lieu  
 loka di - local  
-long kata - roman  
 long - long  
-do long - loin  
-long dura di - prolongé  
 long dura - longtemps  
+long dura di - prolongé  
+long kata - roman  
 long krokodil - crocodile  
 long pipre - poivre long  
+long tire - tender  
 lotra - loutre  
 lugi - vert  
 luku - six (6)  
@@ -867,6 +873,8 @@ lun - mois
 luna - lune  
 luna keke - gâteau de lune  
 luta ja - brigand (bandit)  
+Luter din - luthéranisme  
+Luter din ja - luthérien  
 ####M - M  
 ma - mère (maman)  
 mafa - pardonner  
@@ -891,16 +899,13 @@ marche - marche
 margai - margay (chat-tigre)  
 marke - trace  
 Marse - Mars  
-Luter din ja - luthérien  
-Luter din - luthéranisme  
-masa - masse  
-masale - épices  
 mas - plus  
 mas fili - préférer  
 mas fili di - favori (préféré)  
 mas fili jui - favoritisme  
+masa - masse  
+masale - épices  
 masim - maximum  
- - surestimer  
 maska - masque  
 masmul - tubercule  
 masmulsolful - topinambour  
@@ -929,7 +934,7 @@ metalbede - enclume
 metallin - fil de fer  
 metregraf - carte  
 metregrafia - cartographie  
-meza tekse - nappe  
+meza tela - nappe  
 meze - table  
 mi - je (me)  
 migre - migration  
@@ -950,10 +955,10 @@ misalo - par exemple
 Misria - Égypte  
 mitre - mètre  
 mode - mode (façon, manière)  
-moke - arbre  
 mokoban - planche  
 mokojongoparke - arboretum, pépinière  
 mokotan - bûche  
+moku - arbre  
 mol - mole (unité)  
 mola - moudre  
 molia - moulin  
@@ -987,14 +992,10 @@ nave raite - tribord
 nefre - rein  
 nefte - huile (pétrole)  
 Neputun - Neptune  
+nerve celu - neurone  
+nerve toksi - neurotoxine  
 netogeta - télécharger  
 neujeni - nouveau-né  
-neuloge - néologisme  
-neurochel - neurone  
-neurotokse - neurotoxine  
-nevi - nouveau  
-nevia - nouveauté  
-nevike - néophyte  
 niche - dessous  
 nide - nid  
 nilchentaur - Centaurée bleuet  
@@ -1015,6 +1016,10 @@ nong nomi - agronomie
 norde - nord  
 nostalgia - nostalgie  
 note - note  
+nove - nouveau  
+nove jen - néophyte  
+nove loga - néologisme  
+nove ta - nouveauté  
 numbe - nombre (numéro)  
 ####O - O  
 o - ou  
@@ -1065,6 +1070,9 @@ par - niveau
 param - paramètre  
 parche - fragment  
 pari - pair (pareil, egal)  
+pari - fée  
+pari desha - pays des fées (paradis)  
+pari kata - conte de fées  
 pari numbe - nombre pair  
 Paris - Paris  
 parke - parc  
@@ -1092,9 +1100,8 @@ pelpel - papillon
 pendokardon - chardon penché  
 penta - cinq (5)  
 penta - peindre  
-pente - peinture  
-peri - fée  
-peri kata - conte de fées  
+penta - peinture  
+penta tela - canevas (toile)  
 perkardon - cirse commun  
 pese - argent  
 pesh - poisson  
@@ -1163,10 +1170,10 @@ putau oranje - pamplemousse
 radio - radio  
 rai - avis (opinion)  
 rang - couleur  
-rang kancha - verre coloré  
-rang mate - colorant  
 rang arka - arc-en-ciel  
 rang arka salmon - truite arc-en-ciel  
+rang kancha - verre coloré  
+rang mate - colorant  
 rapide - vite (rapide)  
 rare - rare  
 rasa  - race  
@@ -1190,8 +1197,9 @@ ringar - ring (manège)
 ris - riz  
 ris vin - vin de riz  
 ritim - rhythme  
-riu - rivière (fleuve)  
 riutube - entonnoir  
+rivo - rivière (fleuve)  
+rivo kinar - rive  
 robote - robot  
 roka - secouer  
 roketolancher - Lance-roquettes  
@@ -1221,6 +1229,7 @@ salia - santé
 salmon - truite  
 salsafia - hygiène  
 sam - égal (même)  
+sama - ciel  
 samemos - compassion  
 sammetre - symétrie  
 samrayia - accord  
@@ -1350,63 +1359,57 @@ sundar - beau
 sundaria - beauté  
 susan - lys  
 ####T - T  
-tablokomputer - ordinateur tablette  
+table komputa - ordinateur tablette  
 tai - estrade  
 tail - carreau (tuile)  
-taksometrer - taximètre  
+taksi metre gi - taximètre  
 tal - bas  
-tala - baisser  
-tali - bas  
-tali moke - buisson  
+tal di - bas  
+tal moku - buisson  
 tan - tige  
-tarje - traduction  
-tate - bord (rive)  
-tazi - frais  
+tarjum she - traduction  
+taza - frais  
 tehne - technique  
-tehnelogi - technologie  
+tehne logi - technologie  
+tela - tissu  
+tela gi - métier à tisser  
+tele fon gi - téléphone  
+tele fon lin - ligne téléphonique  
 tele vide gi - téléviseur  
-telefon - téléphone  
 teleskope - télescope (lunette)  
-telfona - téléphoner  
-telfonlin - ligne téléphonique  
 tema - sujet (thème)  
-tema nam - titre  
-ten - ciel  
-tensi - tendu  
+tema name - titre  
+tense - tendu  
 tepe - ruban (bande)  
-terchi - oblique (de travers)  
-teroristia - terrorisme  
+terca - oblique (de travers)  
+teror jui - terrorisme  
 tese - argument  
 teste - épreuve (test)  
-tekse - tissu  
 tikete - billet  
 tim - équipe  
-tira milke - tirer  
-tira pil - écorce  
-tirlonga - tender  
+tire yo milke - tirer  
+tire yo pil - écorce  
 tisa - neuf (9)  
-tocha - toucher  
-toksilogi - toxicologie  
+tochu - toucher  
+toksi logi - toxicologie  
 tomate - tomate  
-topograf - topographie  
+topo grafi - topographie  
+trati - contract (traité)  
 trator - traîner  
 trator gi - tracteur  
-trati - contract (traité)  
 tri - trois (3)  
-fa truke - escroquer  
 truke - ruse  
 tu - tu  
 tumen di - votre  
 Tunis - Tunisie  
-fa turbe - gêner (déranger, perturber)  
 tuzi - lapin (lièvre)  
 ####U - U  
 un - un (1)  
-unta liga - union  
-unike - seul (unique)  
 un mar - une fois  
 un oko di lense - monocle  
 un verse di - universel  
+unike - seul (unique)  
+unta liga - union  
 ura - hourra  
 Uran - Uranus  
 uranium - uranium  
@@ -1451,10 +1454,10 @@ veze metre gi - balance (poids)
 vice raja - vice-roi  
 vide - voir  
 vidou - veuve  
+violeta blu - violet (pourpre)  
 virje - vierge  
 virus - virus  
 Vishnu - Vishnou  
-violeta blu - violet (pourpre)  
 vode - vœu (promesse)  
 vol - vouloir  
 volfe - loup  
@@ -1508,5 +1511,6 @@ zuku - ethnie
 zuku di - ethnique  
 Zulu - zoulou  
 zumarda - émeraude  
+ - surestimer  
  - pluvieux  
  - adversaire (antagoniste, ennemi)  
