@@ -12,7 +12,7 @@ acento - acente
 acesso - acesa  
 aconselhar - sela  
 acordado - jagi  
-acordo (tratado, contrato) - trete  
+acordo (tratado, contrato) - trati  
 acordo - samrayia  
 acéfalo - sar na di  
 adesivo - glute grafi  
@@ -82,7 +82,7 @@ armadura - defkaske
 armário - almari  
 arquiteto - bina plan ja  
 arquitetura - bina plan  
-arrastar - trata  
+arrastar - trator  
 arroz - ris  
 arte - shutu  
 artista - arte ja  
@@ -150,7 +150,7 @@ biología - bio logi
 bioma - biyosistem  
 biscoito - biskute  
 bola - bol  
-bolo lunar - lunokeke  
+bolo lunar - luna keke  
 bom - bon  
 bomba - bomba  
 bombom (doce) - kandi  
@@ -184,6 +184,7 @@ calcita - kalsite
 calcular - hisaba  
 calcário - kalsopetre  
 calendário - kalenda  
+califa - halifa  
 calvo - sar kesha na di  
 calças - pante  
 camarão - krevete  
@@ -255,13 +256,13 @@ cintilar - shingofota
 citologia - celu logi  
 claro - klari  
 cliente - klien  
-coelho (lebre) - tuze  
+coelho (lebre) - tuzi  
 cogumelo - fungu frute  
 coisa - she  
 colaborar - konkara  
 colar (aderir) - gluta  
 colher - chamache  
-colocar (pôr) - loka  
+colocar (pôr) - fa loka  
 combava - karsolimon  
 combinar com - konboni  
 começo (início, princípio) - shuru  
@@ -307,7 +308,7 @@ criança (menino) - bacha
 cristal - bilor  
 croassã - kruasante  
 crocodiliano - krokodil  
-crocodilo - longokrokodil  
+crocodilo - long krokodil  
 cromo - jamkarde  
 cronómetro - durmetrer  
 cruz - krus  
@@ -389,7 +390,7 @@ emprestar - jekodona
 encarar (afrontar; vérsus) - verse  
 encontrar - mita  
 endereço - adres  
-enganar - truka  
+enganar - fa truke  
 ensinar (lecionar) - giau  
 ensino primário - baze shula kan  
 ensino secundário - jungoshulkan  
@@ -435,7 +436,7 @@ estrela - sing
 estrumpfe (smurf) - blu elfe  
 estudante - estuder  
 estudar (examinar) - estuda  
-etimologia - logaslia  
+etimologia - loga asal  
 etnia - zuku  
 eu (me) - mi  
 evangelho - evanjil  
@@ -456,15 +457,15 @@ exógeno - eshojeni
 face (faceta) - fas  
 fada - peri  
 fadiga - fatigia  
-fala (palavras) - loge  
+fala (palavras) - loga  
 falar - loga  
 farol (baliza) - foto minar  
 fato (facto) - fate  
 fator - cana ja  
 favela - harabu mahala  
-favoritismo - mashfilistia  
-favorito (preferido) - mashfili  
-fazenda (tecido) - texe  
+favoritismo - mas fili jui  
+favorito (preferido) - mas fili di  
+fazenda (tecido) - tekse  
 fazer - fa  
 fechadura - sor  
 feio - dusvidi  
@@ -527,7 +528,7 @@ graças a - danko da
 grupo - grupe  
 grávida (prenhe) - hamili  
 guarda-chuva - shava chati  
-guaxinim (rato-lavadeiro) - vashi urse  
+guaxinim (rato-lavadeiro) - vashi urso  
 guia - gida ja  
 guiar - gida  
 guitarra - gitar  
@@ -616,7 +617,7 @@ kelp - varka alga
 ####L - L  
 lado - late  
 ladrilho (telha, azulejo) - tail  
-ladrão - luter  
+ladrão - luta ja  
 lago - lage  
 lama (lodo) - fan  
 lama - lama  
@@ -646,15 +647,15 @@ livro - buku
 lixeira - laji tong  
 lixo (refugo , escória) - laji  
 lição - shula  
-local - loki  
-longo - longi  
-lontra - lontre  
-lua - lune  
-lugar (local) - loke  
+local - loka di  
+longo - long  
+lontra - lotra  
+lua - luna  
+lugar (local) - loka  
 lula (calamar) - kalmar  
 luta - jihade  
-luteranismo - martinluteristia  
-luterano - martinluteristi  
+luteranismo - Luter din  
+luterano - Luter din ja  
 luxúria - kama  
 luz - foto  
 lábio - labi  
@@ -662,7 +663,7 @@ lápide - gabur sheke
 lápis - kalam  
 lápis-lazúli - lazurpetre  
 lâmpada (luminária) - lampa  
-léxico - logi  
+léxico - loga di  
 líder (chefe) - lider  
 língua (idioma) - basha  
 língua - lisan  
@@ -674,7 +675,7 @@ macroalga - hai alga
 madrasta - vice ma  
 magnésio - magesium  
 mahjong - majang  
-mais - mash (masho)  
+mais - mas  
 maldição - lana  
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
@@ -694,9 +695,9 @@ marinha - haigun
 Marrocos - Magribia  
 Marte - Marse  
 marítimo - hayi  
-massa - mas  
+massa - masa  
 massa de modelar (massinha) - plastopaste  
-mastro - maste  
+mastro - masta  
 matadouro - buchokan  
 matemática - hisabolojia  
 matéria - mate  
@@ -736,14 +737,14 @@ moer - mola
 mol - mol  
 moldar (modelar) - plasta  
 moldura - frem  
-molestar (perturber) - turba  
+molestar (perturber) - fa turbe  
 molhado - shipi  
 molhar - shipa  
 molho de soja - soi sos  
 momento (instante) - sate  
 momentâneo - sati  
 monção - shava mosim  
-monóculo - unoki lense  
+monóculo - un oko di lense  
 monólogo - auto loga  
 morder - fa dante  
 motor - moto  
@@ -757,8 +758,8 @@ mundo - dunia
 muro (muralha) - mur  
 máquina de escrever - kitabu gi  
 mármore - kalsokristal  
-máscara - maske  
-máximo - mashime  
+máscara - maska  
+máximo - masim  
 mãe - ma  
 mão - hande  
 mês - lun  
@@ -806,12 +807,12 @@ objetivo - dike
 oblíquo (torto) - terchi  
 obsidiana - osidian  
 oceano - daihai  
-ocular - oki  
+ocular - oko di  
 ocultar (esconder) - sira  
 ocupado (atarefado) - mangi  
 oito (8) - bato  
 oleiro - poter  
-olho - oke  
+olho - oko  
 onda - onde  
 onde - pa ke  
 online - pa lin  
@@ -819,7 +820,7 @@ ontem - chendeno
 opinião - rai  
 opor - shata  
 opção - chuzable  
-ordem - ratibe  
+ordem - ratibu  
 orelha - ore  
 orfanato - yatim dom  
 organismo - bio vute  
@@ -838,7 +839,7 @@ oásis - vase
 paciente - patike  
 pacifista - pachiste  
 pacote - pake  
-pacto - kontrete  
+pacto - kon trati  
 padeiro - baka ja  
 padrasto - vice pa  
 pai - pa  
@@ -915,7 +916,7 @@ ponta (pico, bico) - pike
 ponta do dedo - angul pike  
 ponte - pul  
 por exemplo - misalo  
-por muito tempo - longoduro  
+por muito tempo - long dura  
 porcelana - chini  
 porto - porte  
 porto marítimo - haiporte  
@@ -930,7 +931,7 @@ prata - argente
 prateleira (estante) - liboban  
 praça - meden  
 precioso - bau li  
-preferir - mashfila  
+preferir - mas fili  
 preto - siyahi  
 primo - chin brus ben  
 problema - problem  
@@ -941,10 +942,10 @@ programa - program
 projeto - projete  
 projeção - lance grafi  
 projétil - lance she  
-prolongado - longoduri  
+prolongado - long dura di  
 promessa (voto) - vode  
 prova - dalil  
-purpúreo (roxo) - viyolete blu  
+purpúreo (roxo) - violeta blu  
 purê de maçã - aple sos  
 pá - bele  
 página - varka late  
@@ -981,11 +982,11 @@ rajá - hindu raja
 raposa - huli  
 raramente - nadir mar  
 raro - nadir  
-raro - rari  
+raro - rare  
 rasgar - chir  
 rasgar - chira  
 rato - mushu  
-raça - ras  
+raça - rasa   
 raíz - mula  
 reciclar - resikle  
 recém-nascido - neujeni  
@@ -1021,7 +1022,7 @@ romance - long kata
 rosa - roze  
 roupa (vestidura) - fuke  
 rubi - lal bau sheke  
-rápido - rapidi  
+rápido - rapide  
 rã - krokroke  
 ####S - S  
 sabedoria (sagacidade, sapiência) - sofita  
@@ -1088,18 +1089,18 @@ sorvete (gelado) - ais krem
 substância - kim  
 suco (sumo) - jus  
 suor - suede  
-superestimar (sobrestimar) - mashraya  
+superestimar (sobrestimar) -   
 suástica (cruz gamada) - huke krus  
 Suíça - Suice  
 sábado - var luku  
 São Paulo - Sante Paulo  
 série (sequência) - silia  
-só (solitário) - unjani  
+só (solitário) - unike jan di  
 ####T - T  
 tablet - tablokomputer  
 tangerina (mandarim) - lal oranje  
 taxímetro - taksometrer  
-tear - texe mashin  
+tear - tekse mashin  
 tectónica de placas - plati geyokaskia  
 telefonar - telfona  
 telefonia - telfonia  
@@ -1125,8 +1126,8 @@ terça-feira - var du
 teste - teste  
 tigre - bagre  
 tijolo - dobe  
-toalha - gan texe  
-toalha de mesa - meza texe  
+toalha - gan tekse  
+toalha de mesa - meza tekse  
 tomate - tomate  
 topografia - topograf  
 tora - mokotan  
@@ -1134,18 +1135,18 @@ toranja - putau oranje
 torta - pai  
 toupeira - krote  
 toxicologia - toksilogi  
-toxina - bio toxe  
+toxina - bio tokse  
 trabalhador - karer  
 trabalhar - kara  
 trabalho - gung  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - shanti  
 transcorrer - duru  
-trator - trater  
+trator - trator gi  
 trazer - layana  
 trigo - ganum  
 truque (fraude) - truke  
-truta-arco-íris - rangarke salmon  
+truta-arco-íris - rang arka salmon  
 truta-marrom - brun salmon  
 três (3) - tri  
 trópicos - garma zona  
@@ -1160,13 +1161,14 @@ título - tema nam
 uau - va  
 um (1) - un  
 um ao outro - ses  
-uma vez - unmaro  
-unicamente - uniko  
-universal - unversi  
+uma vez - un mar  
+universal - un verse di  
+união - unta liga  
 Urano - Uran  
 urra - ura  
-urso - urse  
+urso - urso  
 usar - aplika  
+####V - V  
 vagina - vagina  
 vaginite - vagina flame  
 vale (uadi) - vali  
@@ -1176,7 +1178,7 @@ vampiro - vampir
 vapor - suigas  
 vara (bastão) - baton  
 vaso de flores - hua pote  
-vazar - lova  
+vazar - lou  
 vazio - hali  
 vegetalista - purfityamiste  
 vegetariano - fito yam jui ja  
@@ -1197,7 +1199,7 @@ vestir - fuka
 vez - mar  
 vice-rei - vice raja  
 vida - jiu  
-vidro - kanche  
+vidro - kancha  
 vinhedo - putau bagi  
 vir - lai  
 virgem - virje  
@@ -1205,7 +1207,7 @@ vivo - jivi
 Vixnu - Vishnu  
 viúvo - vidou  
 voar - feyu  
-vocabulário - logia  
+vocabulário - loga jami  
 vogal - jungofon  
 voltar (regressar) - retru  
 vontade - vol she  
@@ -1238,4 +1240,4 @@ zumbi - zombi
 âncora - angar  
 étnico - zuku di  
 óxide - okside  
-único (só) - uniki  
+único (só) - unike  

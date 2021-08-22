@@ -38,7 +38,7 @@ alo - alie
 alo fon - alofono  
 alo nam - tio estas (alivorte)  
 alo rai - malkonsenti  
-alo sexe li - samseksema  
+alo sekse li - samseksema  
 alumin - aluminio  
 ama - sed  
 Amerika - Ameriko  
@@ -107,7 +107,7 @@ avakate - avokado
 avar - damaĝo  
 avar ja - damaĝa  
 ave - aveno  
-axe - akso  
+akse - akso  
 ####B - B  
 babu - ĉapitro  
 babuche - pantoflo  
@@ -601,7 +601,7 @@ gamel - kamelo
 gamia - geedzeco  
 gammai - bopatrino  
 gampai - bopatro  
-gan texe - viŝilo  
+gan tekse - viŝilo  
 Ganga - Gangoj  
 gani - seka  
 ganja - kanabo  
@@ -685,7 +685,7 @@ Haiti - Haitio
 haki - rajto  
 hal - stato  
 hali - malplena  
-halif - kalifo  
+halifa - kalifo  
 halo - saluton!  
 hamake - hamako  
 hamar - martelo  
@@ -875,7 +875,7 @@ kamote - batato
 kan - farejo  
 kanal - kanalo  
 kanape - sofo  
-kanche - vitro  
+kancha - vitro  
 kandi - bombono  
 kangaru* - kangaro  
 kanjar - ponardo  
@@ -1054,34 +1054,34 @@ lisi - glata
 liste - listo  
 litium - litio  
 litre - litro  
-lobake - rafaneto  
+loba - rafaneto  
 loga - paroli  
-logaslia - etimologio  
+loga asal - etimologio  
 loge - registraĵo  
-loge - parolo  
+loga - parolo  
 logem - vorto  
-logi - vorta  
+loga di - vorta  
 logi - scienco  
-logia - vortaro  
-logike - logiko  
-logiki - logika  
+loga jami - vortaro  
+logika - logiko  
+logika di - logika  
 logivi - parolema  
 logoliste - vortaro  
-loka - lokigi  
-loke - loko  
-loki - loka  
+fa loka - lokigi  
+loka - loko  
+loka di - loka  
 long kata - romano  
-longa - longigi  
-longi - longa  
-lorencium - laŭrencio  
-lova - liki  
-lova sang - sangi  
+fa long - longigi  
+long - longa  
+laurencium - laŭrencio  
+lou - liki  
+lou sang - sangi  
 lugi - verda  
-lul - perlo  
+lulu - perlo  
 lun - monato  
-lune - luno  
+luna - luno  
 luta - rabi  
-luter - rabisto  
+luta ja - rabisto  
 lutetium - lutecio  
 ####M - M  
 ma - patrino  
@@ -1110,15 +1110,15 @@ maraton - maratono
 marcha - promeni (marŝi)  
 marche - promeno (marŝo)  
 margarin - margarino  
-mas - maso  
+masa - maso  
 masale - spico  
-mash (masho) - pli  
-mash ka bas - tro  
-mashfila - preferi (pliŝati)  
-mashim (mashimo) - plej  
-masho - ankaŭ  
-maske - masko  
-maste - masto  
+mas - pli  
+mas ka bas - tro  
+mas fili - preferi (pliŝati)  
+masim - plej  
+mas - ankaŭ  
+maska - masko  
+masta - masto  
 mate - materio  
 matur - plenaĝa  
 maturi - matura (plenkreska)  
@@ -1149,7 +1149,7 @@ metal - metalo
 metallin - drato  
 metode - metodo  
 metre - mezuri  
-meza texe - tablotuko  
+meza tekse - tablotuko  
 meze - tablo  
 mi - mi  
 mi di - mia  
@@ -1292,10 +1292,10 @@ nuton - newtono (N)
 o - aŭ  
 Ocheania - Oceanio  
 oganeson - oganesono  
-oka - okulumi  
-oke - okulo  
+fa oko - okulumi  
+oko - okulo  
 okeyi - akceptebla (okej)  
-oki - okula  
+oko di - okula  
 okse - oksigeno  
 okside - oksido  
 onde - ondo  
@@ -1441,14 +1441,14 @@ rai - opinio
 raja - reĝo aŭ reĝino  
 rampe - ramplo  
 rang - koloro  
-rapidi - rapida  
-rapidia - rapideco  
-ras - raco  
-rasiste - racisto  
-rasistia - racismo  
-rasmedi - interrasa  
+rapide - rapida  
+rapide ta - rapideco  
+rasa  - raco  
+rasa jui ja - racisto  
+rasa jui - racismo  
+rasa medi - interrasa  
 rastu - kreski  
-raya - opinii  
+fa rai - opinii  
 redi - preta  
 rege - sablo  
 registan - dezerto  
@@ -1728,17 +1728,17 @@ tomate - tomato
 ton - tono  
 tope - regiono  
 torium - torio  
-torse - torso  
-trata - treni  
-trater - traktoro  
+torso - torso  
+trator - treni  
+trator gi - traktoro  
 tren - trajno (vagonaro)  
-trendau - fervojo  
+tren dau - fervojo  
 tri - tri (3)  
-tribe - tribo  
+tribu - tribo  
 tu - vi (ci)  
 tu di - via (cia)  
-tube - tubo  
-tuha - sputi  
+tubo - tubo  
+tuh - sputi  
 tul - ilo  
 tulium - tulio  
 tumen - vi ĉiu  
@@ -1746,25 +1746,25 @@ tumen di - via
 tundra - tundro  
 tunel - tunelo  
 tunel tren - metroo  
-tunike - robo  
-tupe - ĉapelo  
-turfe - torfo  
+tunika - robo  
+tupi - ĉapelo  
+turfa - torfo  
 Turki - Turkio  
 u - tio  
 ####U - U  
 uma - ĉevalo  
 un - unu (1)  
-unal - unu la alian (reciproke)  
-unali - reciproka  
-unemistia - monismo  
-unia - uniono  
-uniki - sola (ununura)  
-uniko - sole (nur)  
-unmaro - unufoje  
-unoki lense - monoklo  
+semen - unu la alian (reciproke)  
+semen di - reciproka  
+un deu jui - monismo  
+unta liga - uniono  
+unike - sola (nur)  
+un mar - unufoje  
+un oko di lense - monoklo  
 uranium - uranio  
-urse - urso  
+urso - urso  
 use - uzi  
+####V - V  
 va - ŭaŭ!  
 vaf - hundo  
 vagina - vagino  

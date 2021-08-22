@@ -58,12 +58,12 @@ alo nam - that is (in other words, i.e., alias)
 alo rai - disagree  
 alo rai - disagreement (disconsent)  
 alo romanse - heteroromantic  
-alo sexe li - heterosexual  
+alo sekse li - heterosexual  
 alo sifa - difference  
 alo sifa li - different  
 alumin - aluminium  
 alumin mate - alum  
-alumin oxide - alumina (aluminum oxide)  
+alumin okside - alumina (aluminum oxide)  
 ama - but (whereas)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amen - honest (trustworthy, true; surely, verily, amen)  
@@ -80,7 +80,7 @@ amir - order (command)
 amir haki - authority (power to give orders)  
 amir ja - emir  
 amir lin - command line (console, terminal)  
-amir ya - emirate  
+amir desha - emirate  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
 an ai - dislike (loathe)  
@@ -105,7 +105,7 @@ an nam - antonym
 an pace - unrest  
 an romanse - aromantic  
 an sabi li - strange (unknown)  
-an sexe li - asexual  
+an sekse li - asexual  
 an sona - insomnia  
 an sora - unlock  
 an sora li - unlocked  
@@ -209,7 +209,7 @@ avar - damage (injury, harm)
 avar di - damaged (corrupt)  
 avar ja - harmful (damaging)  
 ave - oat  
-axe - axis (axle)  
+akse - axis (axle)  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babu - chapter (section)  
@@ -350,7 +350,7 @@ binde - dot (spot)
 bio - life (organic)  
 bio jinse - biological sex  
 bio logi - biology (study of organic life)  
-bio toxe - toxin  
+bio tokse - toxin  
 bio vute - organism (living thing)  
 bir - beer  
 bir kan - bar (pub, beer house)  
@@ -1088,7 +1088,7 @@ gammai - mother-in-law
 gampai - father-in-law  
 gan cau - hay  
 gan mosim - dry season  
-gan texe - towel  
+gan tekse - towel  
 Gana - Ghana  
 gana - dry out  
 Ganda - Uganda  
@@ -1231,7 +1231,7 @@ gung - work (labour, job)
 gung kan - workshop (factory)  
 gunjan - soldier  
 gunrajer - generalissimo (shogun)  
-gunrajia - shogunate  
+gun raja desha - shogunate  
 guru - guru (teacher, sage)  
 gusta - taste (sense flavor)  
 guste - taste (flavor)  
@@ -1270,8 +1270,8 @@ halela - praise (commend, exalt)
 hali - void (empty space)  
 hali - empty (void)  
 hali harfi - space (character)  
-halif - caliph  
-halifia - caliphate  
+halifa - caliph  
+halifa desha - caliphate  
 halo - hello (hi)  
 hamake - hammock  
 hamar - hammer  
@@ -1376,7 +1376,7 @@ hoge sanduku - lantern
 hogi - fiery  
 hogopujia - pyrolatry  
 hogoshan - volcano  
-hogoshani kanche - volcanic glass  
+hogoshani kancha - volcanic glass  
 hogosheke - flint  
 hogotehne - fireworks (pyrotechnics)  
 hogu - burn (be burned)  
@@ -1652,9 +1652,9 @@ kanal - channel
 kanala - channel (conduct)  
 kanaler - conduit (channel)  
 kanape - sofa (couch)  
-kanche - glass  
-kanchodaka - glaze (vitrify)  
-kanchodake - glazing (enamel)  
+kancha - glass  
+fa kancha dake - glaze (vitrify)  
+kancha dake - glazing (enamel)  
 kandela - candela  
 kandi - candy (sweets)  
 kang - comb  
@@ -1866,7 +1866,7 @@ konsela - give consultation
 konseler - counselor (consultant)  
 konserte - concert  
 kontra - go against  
-kontrete - pact (contract, covenant, alliance)  
+kon trati - pact (contract, covenant, alliance)  
 konus - cone  
 kopa - copy (replicate)  
 kope - copy (duplicate, replica)  
@@ -2066,57 +2066,57 @@ liste - list (listing, catalogue)
 litium - lithium  
 litre - litre (liter)  
 livermorium - livermorium  
-lobake - radish  
+loba - radish  
 loga - say (speak, talk)  
-logaslia - etymology  
+loga asal - etymology  
 loge - register (record, log)  
-loge - speech (talk, words)  
+loga - speech (talk, words)  
 loge buku - logbook  
 logem - word (lexeme)  
-logi - spoken (lexical)  
+loga di - spoken (lexical)  
 logi - study (research, science, -ology)  
-logia - vocabulary (lexicon)  
-logike - logic (deduction)  
-logiki - logical  
-logironia - verbal irony (sarcasm)  
+loga jami - vocabulary (lexicon)  
+logika - logic (deduction)  
+logika di - logical  
+loga ironi - verbal irony (sarcasm)  
 logivi - talkative  
-logofiler - logophile (word buff)  
-logofilia - logophilia  
+loga fili ja - logophile (word buff)  
+loga fili - logophilia  
 logoliste - dictionary (word list)  
-loka - put (place, set)  
-loke - place (location)  
-loki - local  
-loku - be located (lie, be situated)  
+fa loka - put (place, set)  
+loka - place (location)  
+loka di - local  
+be loka - be located (lie, be situated)  
 lon - discussion (debate, discourse)  
 lona - debate (discuss)  
 lona biznes - negotiate (arrange)  
 London - London  
 long kata - novel  
-longa - lengthen (prolong)  
-longi - long (lengthy)  
-longia - length  
-longo - long (over a gread distance)  
-longoduri - long (long-lasting, prolonged)  
-longoduro - for a long time  
-longokrokodil - crocodile  
-longopipre - long pepper (pipli)  
-lontre - otter  
-lorencium - lawrencium  
+fa long - lengthen (prolong)  
+long - long (lengthy)  
+long ta - length  
+do long - long (over a gread distance)  
+long dura di - long (long-lasting, prolonged)  
+long dura - for a long time  
+long krokodil - crocodile  
+long pipre - long pepper (pipli)  
+lotra - otter  
+laurencium - lawrencium  
 lote - batch (lot)  
-lova - leak  
-lova sang - bleed  
+lou - leak  
+lou sang - bleed  
 lugi - green  
-lugomelon - honeydew (green melon)  
+lugi melon - honeydew (green melon)  
 Luksemburge - Luxembourg  
 luku - six (6)  
-lul - pearl  
+lulu - pearl  
 lun - month  
-lune - moon  
+luna - moon  
 lung - dragon  
-lunokeke - mooncake  
+luna keke - mooncake  
 lusun - asparagus  
 luta - rob (loot, plunder, pillage, ransack)  
-luter - robber (plunderer)  
+luta ja - robber (plunderer)  
 lutetium - lutetium  
 ####M - M  
 ma - mother (mom, mama)  
@@ -2192,39 +2192,38 @@ marka - mark (leave a mark)
 marke - mark (trace)  
 Marse - Mars  
 Marshal nesia - Marshall Islands  
-martinluteristi - Lutheran  
-martinluteristia - Lutheranism  
-mas - mass (quantity of matter)  
+Luter din ja - Lutheran  
+Luter din - Lutheranism  
+masa - mass (quantity of matter)  
 masaje - knead (massage)  
 masaje - massage  
 masala tika - tikka masala  
 masale - spice (seasoning)  
-mash (masho) - more  
-mash ka bas - too much  
-masha - increase  
+mas - more  
+mas ka bas - too much  
+fa mas - increase  
 mashboni - bonus  
-mashdarja - increment  
-mashfila - prefer (favor)  
-mashfili - favorite (preferred)  
-mashfilistia - favoritism  
-mashforta - reinforce (replenish)  
-mashforte - reinforcements  
-mashi - additional  
-mashim (mashimo) - most (maximally)  
-mashima - maximize  
-mashime - maximum  
-mashimi - maximal  
-masho - also (too)  
-mashori - major (not minor)  
-mashoria - majority  
-mashraya - overestimate  
-mashu - exceed (be greater than)  
-maske - mask (camouflage)  
+masdarja - increment  
+mas fili - prefer (favor)  
+mas fili di - favorite (preferred)  
+mas fili jui - favoritism  
+fa mas forte - reinforce (replenish)  
+mas forte - reinforcements  
+mas di - additional  
+masim - most (maximally)  
+fa masim - maximize  
+masim - maximum  
+masim di - maximal  
+mas - also (too)  
+mas di fen - majority  
+ - overestimate  
+be mas - exceed (be greater than)  
+maska - mask (camouflage)  
 masmul - tuber (bulb)  
 masmulsolful - Jerusalem artichoke (sunroot)  
-maste - mast  
+masta - mast  
 mate - matter (substance)  
-mati - material  
+mate di - material  
 matras - mattress  
 matur - adult  
 maturi - mature (ripe, adult)  
@@ -2306,7 +2305,7 @@ metre gi - meter (measuring device)
 metregraf - map (chart)  
 metregrafia - cartography  
 metrun - unit (measurement)  
-meza texe - tablecloth  
+meza tekse - tablecloth  
 meze - table  
 mezistan - plateau (tableland)  
 mi - I (me)  
@@ -2625,12 +2624,12 @@ ofisia - office (bureau)
 ofiskan - office (room)  
 oganeson - oganesson  
 ohtopus - octopus  
-oka - eye (look, watch, observe, spectate)  
-oke - eye  
+fa oko - eye (look, watch, observe, spectate)  
+oko - eye  
 okei - okay (acceptance)  
 okeya - accept (say okay)  
 okeyi - okay (acceptable)  
-oki - ocular  
+oko di - ocular  
 okokesh - eyelash  
 okosui - tear drop  
 okosuigas - tear gas  
@@ -2995,32 +2994,32 @@ raite - right hand side
 raiti - right hand  
 raitiste - rightist (right-winger)  
 raja - king or queen  
-raji - royal  
-rajia - kingdom  
+raja di - royal  
+raja desha - kingdom  
 ramazan - Ramadan  
 rampe - ramp (incline, slope)  
 randa - smoothen with a plane  
 rande - plane (tool for making a smooth surface)  
 rang - color (colored)  
-rang kanche - stained glass  
+rang kancha - stained glass  
 rang mate - dye  
-rangarke - rainbow  
-rangarke salmon - rainbow trout  
-rapidi - fast (quick, rapid, speedy)  
-rapidia - speed (velocity)  
-rapidometrer - speedometer  
-rari - rare (uncommon, sparse)  
-raria - rarity  
-ras - race (breed)  
-rasiste - racist  
-rasistia - racism  
-rasmedi - interracial  
+rang arka - rainbow  
+rang arka salmon - rainbow trout  
+rapide - fast (quick, rapid, speedy)  
+rapide ta - speed (velocity)  
+rapide metre gi - speedometer  
+rare - rare (uncommon, sparse)  
+rare ta - rarity  
+rasa  - race (breed)  
+rasa jui ja - racist  
+rasa jui - racism  
+rasa medi - interracial  
 raste - growth  
 rastu - grow (grow up, expand)  
-ratiba - order (arrange)  
-ratibe - order (arrangement, sequence)  
-ratibi - orderly (organized, in sequence, tidy, regular)  
-raya - deem (opine, think that)  
+ratibu - order (arrange)  
+ratibu - order (arrangement, sequence)  
+ratibu di - orderly (organized, in sequence, tidy, regular)  
+fa rai - deem (opine, think that)  
 razon - reason (rational thinking)  
 razoni - rational (reasonable)  
 razonu - make sense  
@@ -3628,9 +3627,9 @@ tesla - tesla (T)
 teste - try (attempt)  
 teste - test (try, attempt)  
 Tetis - Tethys  
-texe - cloth (fabric, textile)  
-texe - weave  
-texe mashin - loom  
+tekse - cloth (fabric, textile)  
+tekse - weave  
+tekse mashin - loom  
 teza - intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)  
 tichin - bow instrument (violin, etc.)  
 tika - piece (nugget, tikka)  
@@ -3666,92 +3665,92 @@ Tonga - Tonga
 tope - region  
 topograf - topography  
 torium - thorium  
-torse - trunk (torso)  
-tortuge - turtle (tortoise)  
-transa - transit (pass through or across)  
-transe - transit (passage)  
-transeria - transportation  
-transogoni - diagonal  
-trata - drag (haul, tow, trail)  
-trater - tractor  
+torso - trunk (torso)  
+tortuga - turtle (tortoise)  
+fa transe - transit (pass through or across)  
+transe - transit (transport, passage)  
+transe gon di - diagonal  
+trator - drag (haul, tow, trail)  
+trator gi - tractor  
 tren - train  
-trendau - rail (railway, railroad)  
-trenkaper - train hijacker  
-treta - agree (make an agreement)  
-trete - agreement (treaty)  
+tren dau - rail (railway, railroad)  
+tren kape ja - train hijacker  
+fa trati - agree (make an agreement)  
+trati - agreement (treaty)  
 tri - three (3)  
-tribe - tribe  
+tribu - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
-truka - trick (cheat, deceive)  
+fa truke - trick (cheat, deceive)  
 truke - trick (ruse, fraud)  
 tu - you (singular)  
 tu di - your  
 tualete - toilet (WC)  
-tube - tube (pipe)  
-tuha - spit  
+tubo - tube (pipe)  
+tuh - spit  
 tul - tool  
 tulium - thulium  
-tulpe - tulip  
+tulpan - tulip  
 tumen - you all  
 tumen di - your  
 tundra - tundra  
 tundra shan - fell  
 tunel - tunnel  
 tunel tren - subway (metro)  
-tunike - tunic (gown)  
+tunika - tunic (gown)  
 Tunis - Tunisia  
-tupe - hat (cap)  
-turba - bother (annoy, disturb, irritate)  
+tupi - hat (cap)  
+fa turbe - bother (annoy, disturb, irritate)  
 turbe - trouble (disturbance, bother, annoyance)  
-turbu - be bothered by (bother to, take the trouble to)  
-turfe - peat  
+be turbe - be bothered by (bother to, take the trouble to)  
+turfa - peat  
 Turki - Turkey  
-turki - Turkish  
-Turkomenia - Turkmenistan  
+turki basha - Turkish langage  
+Turkomen - Turkmenistan  
 Tuvalu - Tuvalu  
-tuze - rabbit (hare)  
+tuzi - rabbit (hare)  
 u - that over there  
 ####U - U  
-UDA du - American (US)  
+UDA di - American (US)  
 Ukraina - Ukraine  
 ulul - howling  
-ulula - howl  
+ulul - howl  
 uma - horse  
 umami - savory (umami)  
 Umbriel - Umbriel  
 un - one (1)  
-una - unite  
-unal - each other (one another, mutually)  
-unali - mutual  
-undevistia - monotheism  
-unemistia - monism  
-unia - union  
-uniki - only (single, sole, lone)  
-uniko - only (solely, just)  
-uniti - united  
-Uniti Arabi Amiria (UAA) - United Arab Emirates  
-Uniti Desha Da Amerika (UDA) - United States of America (USA)  
-unjani - alone (lonely, isolated, solitary, single)  
-unmaro - once  
-unmeni - unambiguous  
-unodi - first (number one)  
-unoki lense - monocle  
-unrangi - monochrome  
-unversi - universal  
+fa un she - unite (merge, integrate)  
+semen - each other (one another, mutually)  
+semen di - mutual (each other’s)  
+un deu jui ja - monotheism  
+un deu jui - monism  
+unta - unity  
+unta liga - union  
+unike - only (single, sole, lone, just)  
+unta di - united  
+Unta Arabi Amir Desha (UAA) - United Arab Emirates  
+Unta Desh Da Amerika (UDA) - United States of America (USA)  
+unike jan di - alone (lonely, isolated, solitary, single)  
+un mar - once (one time)  
+un mana di - unambiguous  
+un me - first (number one)  
+un oko di lense - monocle  
+un rang di - monochrome  
+un verse di - universal  
 ura - cheer (hurrah, hooray)  
 Uran - Uranus  
 uranium - uranium  
-urdi - Urdu  
+urdu - Urdu  
 Urdun - Jordan  
-urse - bear  
-Uruguai - Uruguay  
+urso - bear  
+Uruguay - Uruguay  
 Urushalem - Jerusalem  
-usable - usable (available)  
+use bil di - usable (available)  
 use - use (employ, apply)  
-user - user  
-user name - username  
-Uzbekia - Uzbekistan  
+use ja - user  
+use ja name - username  
+Uzbeki - Uzbekistan  
+####V - V  
 va - wow! (gee!)  
 vacin - vaccine  
 vaf - dog  
@@ -3786,7 +3785,7 @@ varka alga - kelp
 varka late - page (side of a leaf of a book)  
 vase - oasis  
 vashi - wash  
-vashi urse - raccoon  
+vashi urso - raccoon  
 Vashington D####C - Washington DC  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
@@ -3847,8 +3846,8 @@ virus logi - virology
 Vishnu - Vishnu  
 viski - whisky (whiskey)  
 vita - screw  
-viyolete - pansy (violet, viola)  
-viyolete blu - purple (violet)  
+violeta - pansy (violet, viola)  
+violeta blu - purple (violet)  
 viza - visa  
 vode - promise (vow, oath)  
 vodun - voodoo  
@@ -3945,7 +3944,7 @@ zeze - fly
 zi - character (written symbol)  
 zigzage - zigzag  
 zikura - ziggurat  
-Zimbabve - Zimbabwe  
+Zimbabue - Zimbabwe  
 zina - adultery (infidelity)  
 zinji - ginger  
 zinke - zinc  
@@ -3968,7 +3967,7 @@ zou geo grafi - zoogeography
 zou kata - fable  
 zou logi - zoology  
 zou logi di - zoological  
-zou toxe - zootoxin  
+zou tokse - zootoxin  
 zukam - cold (illness)  
 zuku - ethnic group  
 zuku di - ethnic  

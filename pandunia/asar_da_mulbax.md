@@ -1,18 +1,18 @@
-#asar la mulbax va pandunia
+#asar da mul basha da pandunia
 
-| bax | asar |
-|-----|--------|
-| engli | 14% |
-| fransi | 10% |
-| espani | 11% |
-| portugali | 10% |
-| rusi | 9% |
-| hindustani | 10% |
-| bangli | 4% |
-| cini | 6% |
-| niponi | 6% |
-| coseni | 4% |
-| vieti | 2% |
-| malayi | 6% |
+| basha | asar |
+|-------|--------|
+| english | 14% |
+| france | 10% |
+| espanya | 11% |
+| portugal | 10% |
+| rus | 9% |
+| hindi | 9% |
+| bangla | 4% |
+| putonghan | 6% |
+| nipon | 6% |
+| chosen | 4% |
+| viet | 3% |
+| malayu | 5% |
 | arabi | 5% |
 | suahili | 4% |

@@ -53,12 +53,12 @@ alo fon - allophone
 alo rai - diverger (ne pas être d'accord)  
 alo rai - désaccord (différend)  
 alo romanse - hétéroromantique (hétéromantique)  
-alo sexe li - hétérosexuel  
+alo sekse li - hétérosexuel  
 alo sifa - différence  
 alo sifa li - différent  
 alumin - aluminium  
 alumin mate - alun  
-alumin oxide - alumine (oxyde d'aluminium)  
+alumin okside - alumine (oxyde d'aluminium)  
 ama - mais (bien que)  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
 amen - honnête (sûr, crédible, sûrement)  
@@ -71,7 +71,7 @@ amerikium - américium
 ami - cher  
 amir ja - émir  
 amir lin - ligne de commande (console, terminal, invite de commande)  
-amir ya - émirat  
+amir desha - émirat  
 amper - ampère  
 ampul - ampoule (fiole)  
 an ai - exécrer  
@@ -80,7 +80,7 @@ an deu jui ja - athée
 an din ja - infidèle (incroyant)  
 an memo - oublier  
 an nam - antonyme  
-an sexe li - asexué  
+an sekse li - asexué  
 an sona - insomnie  
 anda - oeuf  
 Andes - Andes  
@@ -164,7 +164,7 @@ auto loga - monologue
 avakate - avocat  
 avar - dommage  
 ave - avoine  
-axe - axe  
+akse - axe  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babu - chapitre  
@@ -248,7 +248,7 @@ bilor - cristal
 bina plan - architecture  
 bina plan ja - architecte  
 bio logi - biologie  
-bio toxe - toxine  
+bio tokse - toxine  
 bio vute - organisme  
 bir - bière  
 biskute - biscuit  
@@ -492,7 +492,7 @@ gamia - mariage
 gammai - belle-mère  
 gampai - beau-père  
 gan cau - foin  
-gan texe - serviette  
+gan tekse - serviette  
 gansa - oie  
 ganum - blé  
 garma mosim - été  
@@ -559,6 +559,7 @@ haki - droit
 hal - état  
 hali - vide  
 hali harfi - espace  
+halifa - calife  
 halo - allô  
 hami - important  
 hande - main  
@@ -693,7 +694,7 @@ kamisa - chemise
 kamisa shake - manche  
 kampistan - terrain de camping  
 kanape - canapé (sofa)  
-kanche - verre  
+kancha - verre  
 kandi - bonbon  
 kangaru* - kangourou  
 kankuate - kumquat  
@@ -757,7 +758,7 @@ komputer - ordinateur
 konkara - collaborer  
 konseler - consultant (conseiller)  
 konserte - concert  
-kontrete - convention (alliance, pacte)  
+kon trati - convention (alliance, pacte)  
 kope - copie  
 kora - courir  
 koral - corail  
@@ -841,31 +842,31 @@ lisan - langue
 liste - liste  
 litre - litre  
 loga - parler  
-logaslia - étymologie  
+loga asal - étymologie  
 loge - enregistrement  
-loge - parole (mots)  
+loga - parole (mots)  
 loge buku - livre de bord  
 logem - mot  
-logi - lexical  
-logia - vocabulaire (lexique)  
+loga di - lexical  
+loga jami - vocabulaire (lexique)  
 logivi - loquace  
-loka - mettre (placer)  
-loke - lieu  
-loki - local  
+fa loka - mettre (placer)  
+loka - lieu  
+loka di - local  
 long kata - roman  
-longi - long  
-longo - loin  
-longoduri - prolongé  
-longoduro - longtemps  
-longokrokodil - crocodile  
-longopipre - poivre long  
-lontre - loutre  
+long - long  
+do long - loin  
+long dura di - prolongé  
+long dura - longtemps  
+long krokodil - crocodile  
+long pipre - poivre long  
+lotra - loutre  
 lugi - vert  
 luku - six (6)  
 lun - mois  
-lune - lune  
-lunokeke - gâteau de lune  
-luter - brigand (bandit)  
+luna - lune  
+luna keke - gâteau de lune  
+luta ja - brigand (bandit)  
 ####M - M  
 ma - mère (maman)  
 mafa - pardonner  
@@ -890,20 +891,20 @@ marche - marche
 margai - margay (chat-tigre)  
 marke - trace  
 Marse - Mars  
-martinluteristi - luthérien  
-martinluteristia - luthéranisme  
-mas - masse  
+Luter din ja - luthérien  
+Luter din - luthéranisme  
+masa - masse  
 masale - épices  
-mash (masho) - plus  
-mashfila - préférer  
-mashfili - favori (préféré)  
-mashfilistia - favoritisme  
-mashime - maximum  
-mashraya - surestimer  
-maske - masque  
+mas - plus  
+mas fili - préférer  
+mas fili di - favori (préféré)  
+mas fili jui - favoritisme  
+masim - maximum  
+ - surestimer  
+maska - masque  
 masmul - tubercule  
 masmulsolful - topinambour  
-maste - mât  
+masta - mât  
 mate - matière  
 matur - adulte  
 mau - chat  
@@ -928,7 +929,7 @@ metalbede - enclume
 metallin - fil de fer  
 metregraf - carte  
 metregrafia - cartographie  
-meza texe - nappe  
+meza tekse - nappe  
 meze - table  
 mi - je (me)  
 migre - migration  
@@ -1019,8 +1020,8 @@ numbe - nombre (numéro)
 o - ou  
 ode - rang  
 ohtopus - Poulpe (pieuvre)  
-oke - œil  
-oki - oculaire  
+oko - œil  
+oko di - oculaire  
 okosuigas - gaz lacrymogène  
 okside - oxyde  
 onde - onde  
@@ -1162,15 +1163,15 @@ putau oranje - pamplemousse
 radio - radio  
 rai - avis (opinion)  
 rang - couleur  
-rang kanche - verre coloré  
+rang kancha - verre coloré  
 rang mate - colorant  
-rangarke - arc-en-ciel  
-rangarke salmon - truite arc-en-ciel  
-rapidi - vite (rapide)  
-rari - rare  
-ras - race  
-rasmedi - interracial  
-ratibe - ordre  
+rang arka - arc-en-ciel  
+rang arka salmon - truite arc-en-ciel  
+rapide - vite (rapide)  
+rare - rare  
+rasa  - race  
+rasa medi - interracial  
+ratibu - ordre  
 regopetre - grès  
 reizoka - reprendre  
 resikle - recycler  
@@ -1377,7 +1378,7 @@ terchi - oblique (de travers)
 teroristia - terrorisme  
 tese - argument  
 teste - épreuve (test)  
-texe - tissu  
+tekse - tissu  
 tikete - billet  
 tim - équipe  
 tira milke - tirer  
@@ -1388,28 +1389,29 @@ tocha - toucher
 toksilogi - toxicologie  
 tomate - tomate  
 topograf - topographie  
-trata - traîner  
-trater - tracteur  
-trete - contract (traité)  
+trator - traîner  
+trator gi - tracteur  
+trati - contract (traité)  
 tri - trois (3)  
-truka - escroquer  
+fa truke - escroquer  
 truke - ruse  
 tu - tu  
 tumen di - votre  
 Tunis - Tunisie  
-turba - gêner (déranger, perturber)  
-tuze - lapin (lièvre)  
+fa turbe - gêner (déranger, perturber)  
+tuzi - lapin (lièvre)  
 ####U - U  
 un - un (1)  
-uniki - seul (unique)  
-uniko - uniquement  
-unmaro - une fois  
-unoki lense - monocle  
-unversi - universel  
+unta liga - union  
+unike - seul (unique)  
+un mar - une fois  
+un oko di lense - monocle  
+un verse di - universel  
 ura - hourra  
 Uran - Uranus  
 uranium - uranium  
-urse - ours  
+urso - ours  
+####V - V  
 va - ouah  
 vaf - chien  
 vagina - vagine  
@@ -1429,7 +1431,7 @@ vari - divers (plusieurs)
 varka alga - varech  
 varka late - page  
 vase - oasis  
-vashi urse - raton laveur  
+vashi urso - raton laveur  
 vei lin - fil de trame  
 vende - vendre  
 vende shope - commerce  
@@ -1452,7 +1454,7 @@ vidou - veuve
 virje - vierge  
 virus - virus  
 Vishnu - Vishnou  
-viyolete blu - violet (pourpre)  
+violeta blu - violet (pourpre)  
 vode - vœu (promesse)  
 vol - vouloir  
 volfe - loup  

@@ -57,7 +57,7 @@ alo nam - eli (toisin sanoen)
 alo rai - olla eri mieltä  
 alo rai - erimielisyys  
 alo romanse - heteroromanttinen  
-alo sexe li - heteroseksuaali  
+alo sekse li - heteroseksuaali  
 alo sifa - erilaisuus (ero)  
 alo sifa li - erilainen  
 alumin - alumiini  
@@ -73,7 +73,7 @@ ami - rakas (armas)
 amir - käsky (komento)  
 amir haki - käskyvalta  
 amir ja - emiiri  
-amir ya - emiirikunta  
+amir desha - emiirikunta  
 amper - ampeeri  
 ampul - ampulli  
 an ai - inhota  
@@ -192,7 +192,7 @@ avar - vaurio (vahinko, haveri)
 avar di - vaurioitunut  
 avar ja - vahingollinen (vaurioittava)  
 ave - kaura  
-axe - akseli  
+akse - akseli  
 Azerbaijan - Azerbaidžan  
 ####B - B  
 babu - luku (kirjan osa)  
@@ -322,7 +322,7 @@ binde - täplä (läiskä)
 bio - elävä (orgaaninen)  
 bio jinse - biologinen sukupuoli  
 bio logi - biologia  
-bio toxe - toksiini  
+bio tokse - toksiini  
 bio vute - orgaaninen elämä  
 bir - olut (kalja)  
 bir kan - baari (kapakka)  
@@ -1017,7 +1017,7 @@ gamia - avioliitto
 gammai - anoppi  
 gampai - appi  
 gan cau - heinä  
-gan texe - pyyheliina  
+gan tekse - pyyheliina  
 Gana - Ghana  
 gana - kuivata (kuivattaa)  
 Ganda - Uganda  
@@ -1173,8 +1173,8 @@ halali - sallittu (hyväksytty)
 halela - ylistää  
 hali - tyhjö  
 hali - tyhjä  
-halif - kalifi  
-halifia - kalifaatti  
+halifa - kalifi  
+halifa desha - kalifaatti  
 halo - hei (haloo)  
 hamake - riippumatto  
 hamar - vasara  
@@ -1511,7 +1511,7 @@ kan - paja (tekimö)
 Kanada - Kanada  
 kanal - kanava (kanaali)  
 kanape - sohva  
-kanche - lasi  
+kancha - lasi  
 kandela - kandela  
 kandi - makeinen (karkki, namu)  
 kang - kampa  
@@ -1698,7 +1698,7 @@ konsela - konsultoida (antaa neuvoja)
 konseler - konsultti  
 konserte - konsertti  
 kontra - mennä vasten  
-kontrete - liittosopimus  
+kon trati - liittosopimus  
 konus - kartio (keila)  
 kopa - kopioida (jäljentää)  
 kope - kopio (jäljennös)  
@@ -1857,51 +1857,51 @@ liste - lista (luettelo)
 litium - litium  
 litre - litra  
 livermorium - livermorium  
-lobake - retikka (retiisi)  
+loba - retikka (retiisi)  
 loga - sanoa (puhua)  
-logaslia - etymologia  
+loga asal - etymologia  
 loge - tallenne (rekisteri, loki)  
-loge - puhe (sanat)  
+loga - puhe (sanat)  
 loge buku - lokikirja  
 logem - sana  
-logi - sanallinen (puhuttu)  
+loga di - sanallinen (puhuttu)  
 logi - tiede (tutkimus, opiskella)  
-logia - sanasto  
-logike - logiikka  
-logiki - looginen  
+loga jami - sanasto  
+logika - logiikka  
+logika di - looginen  
 logivi - puhelias  
-logofiler - logofiili  
-logofilia - logofilia  
+loga fili ja - logofiili  
+loga fili - logofilia  
 logoliste - sanaluettelo  
-loka - panna (asettaa, sijoittaa)  
-loke - paikka (sija, sijainti)  
-loki - paikallinen  
-loku - sijaita  
+fa loka - panna (asettaa, sijoittaa)  
+loka - paikka (sija, sijainti)  
+loka di - paikallinen  
+be loka - sijaita  
 lon - väittely (debatti)  
 lona - keskustelu (debatti)  
 long kata - romaani  
-longa - pidentää  
-longi - pitkä  
-longia - pituus  
-longo - pitkästi (kauas)  
-longoduri - pitkäaikainen (pitkäkestoinen)  
-longoduro - kauan (pitkän aikaa)  
-longopipre - pitkäpippuri  
-lorencium - lawrensium  
+fa long - pidentää  
+long - pitkä  
+long ta - pituus  
+do long - pitkästi (kauas)  
+long dura di - pitkäaikainen (pitkäkestoinen)  
+long dura - kauan (pitkän aikaa)  
+long pipre - pitkäpippuri  
+laurencium - lawrensium  
 lote - erä (satsi)  
-lova - vuotaa  
-lova sang - vuotaa verta  
+lou - vuotaa  
+lou sang - vuotaa verta  
 lugi - vihreä  
 Luksemburge - Luxemburg  
 luku - kuusi (6)  
-lul - helmi  
+lulu - helmi  
 lun - kuukausi  
-lune - kuu  
+luna - kuu  
 lung - itämainen lohikäärme  
-lunokeke - kuukakku  
+luna keke - kuukakku  
 lusun - parsa  
 luta - ryöstää (ryövätä)  
-luter - ryöväri (rosvo)  
+luta ja - ryöväri (rosvo)  
 lutetium - lutetium  
 ####M - M  
 ma - äiti (emä)  
@@ -1970,31 +1970,30 @@ marka - merkitä (jättää jälki)
 marke - merkki (jälki)  
 Marse - Mars  
 Marshal nesia - Marshall-saaret  
-martinluteristi - luterilainen  
-martinluteristia - luterilaisuus  
-mas - massa  
+Luter din ja - luterilainen  
+Luter din - luterilaisuus  
+masa - massa  
 masaje - vaivata (hieroa)  
 masaje - hieronta  
 masala tika - tikka masala  
 masale - mauste  
-mash (masho) - enemmän (myös, lisäksi, plus)  
-mash ka bas - liikaa  
-masha - lisätä (enentää)  
-mashfila - suosia (pitää parempana)  
-mashfili - suosikki (suosittu)  
-mashfilistia - suosinta (favoritismi)  
-mashi - lisä-  
-mashim (mashimo) - eniten  
-mashime - maksimi (enimmäismäärä)  
-mashimi - enimmäis-  
-mashori - enemmistö-  
-mashoria - enemmistö  
-mashraya - yliarvioida  
-mashu - ylittää (olla enemmän kuin)  
-maske - naamio (maski)  
-maste - masto (salko)  
+mas - enemmän (myös, lisäksi, plus)  
+mas ka bas - liikaa  
+fa mas - lisätä (enentää)  
+mas fili - suosia (pitää parempana)  
+mas fili di - suosikki (suosittu)  
+mas fili jui - suosinta (favoritismi)  
+mas di - lisä-  
+masim - eniten  
+masim - maksimi (enimmäismäärä)  
+masim di - enimmäis-  
+mas di fen - enemmistö  
+ - yliarvioida  
+be mas - ylittää (olla enemmän kuin)  
+maska - naamio (maski)  
+masta - masto (salko)  
 mate - aine (materia)  
-mati - aineellinen (materiaalinen)  
+mate di - aineellinen (materiaalinen)  
 matras - patja  
 matur - aikuinen  
 maturi - kypsä (aikuinen)  
@@ -2062,7 +2061,7 @@ metode - keino (menetelmä, metodi)
 metre - mitta (koko, määrä)  
 metregraf - kartta  
 metregrafia - kartogratia  
-meza texe - pöytäliina  
+meza tekse - pöytäliina  
 meze - pöytä  
 mi - minä  
 mi di - minun  
@@ -2339,12 +2338,12 @@ ofisi - virallinen
 ofisia - virasto (toimisto, konttori)  
 oganeson - oganesson  
 ohtopus - mustekala  
-oka - silmäillä (katsoa, tarkkailla)  
-oke - silmä  
+fa oko - silmäillä (katsoa, tarkkailla)  
+oko - silmä  
 okei - hyväksyntä  
 okeya - hyväksyä  
 okeyi - kelpo (okei)  
-oki - silmä-  
+oko di - silmä-  
 okokesh - silmäripsi  
 okosui - kyynel  
 okse - happi  
@@ -2655,26 +2654,26 @@ rai - mielipide (näkemys)
 raite - oikea puoli  
 raitiste - oikeistolainen  
 raja - monarkki (kuningas, kuningatar)  
-raji - kuninkaallinen  
-rajia - kuningaskunta  
+raja di - kuninkaallinen  
+raja desha - kuningaskunta  
 ramazan - ramadan  
 rampe - luiska (ramppi)  
 randa - höylätä  
 rande - höylä  
 rang - väri  
 rang mate - väriaine  
-rapidi - nopea (pikainen, vauhdikas)  
-rapidia - nopeus (vauhti)  
-rapidometrer - nopeusmittari  
-ras - rotu  
-rasiste - rasisti  
-rasistia - rasismi (rotuoppi)  
-rasmedi - rotujen välinen  
+rapide - nopea (pikainen, vauhdikas)  
+rapide ta - nopeus (vauhti)  
+rapide metre gi - nopeusmittari  
+rasa  - rotu  
+rasa jui ja - rasisti  
+rasa jui - rasismi (rotuoppi)  
+rasa medi - rotujen välinen  
 raste - kasvu  
 rastu - kasvaa  
-ratiba - järjestää (järjestellä)  
-ratibe - järjestys  
-raya - olla jtkn mieltä (pitää jnkn)  
+ratibu - järjestää (järjestellä)  
+ratibu - järjestys  
+fa rai - olla jtkn mieltä (pitää jnkn)  
 razon - järki (järkeily, päättely)  
 razoni - järjellinen (järkiperäinen, rationaalinen)  
 rebel - kapina  
@@ -3176,9 +3175,9 @@ tesla - tesla (T)
 teste - yrittää (kokeilla)  
 teste - koe (testi, yritys)  
 Tetis - Tethys  
-texe - kangas  
-texe - kutoa kangasta  
-texe mashin - kutomakone  
+tekse - kangas  
+tekse - kutoa kangasta  
+tekse mashin - kutomakone  
 teza - kiihkeä (väkevä, voimakas, vahva, kova)  
 tichin - jousisoitin  
 tika - pala  
@@ -3205,81 +3204,80 @@ tong - tynnyri (tölkki)
 Tonga - Tonga  
 tope - seutu (maa)  
 topograf - topografia  
-torse - vartalo (varsi, torso)  
-tortuge - kilpikonna  
-transa - kulkea poikki, läpi tai yli  
-transe - läpikulku  
-transeria - kuljetus  
-trata - vetää (kiskoa, raahata)  
-trater - traktori  
+torso - vartalo (varsi, torso)  
+tortuga - kilpikonna  
+fa transe - kulkea poikki, läpi tai yli  
+transe - läpikulku (kuljetus)  
+trator - vetää (kiskoa, raahata)  
+trator gi - traktori  
 tren - juna  
-trendau - junarata (rautatie)  
-trenkaper - junakaappari  
-treta - sopia (tehdä sopimus)  
-trete - sopimus  
+tren dau - junarata (rautatie)  
+tren kape ja - junakaappari  
+fa trati - sopia (tehdä sopimus)  
+trati - sopimus  
 tri - kolme (3)  
-tribe - heimo  
+tribu - heimo  
 Trinidade e Tobago - Trinidad ja Tobago  
 tu - sinä  
 tu di - sinun  
 tualete - vessa  
-tube - putki (tuubi)  
-tuha - sylkeä  
+tubo - putki (tuubi)  
+tuh - sylkeä  
 tul - työkalu  
-tulpe - tulppaani  
+tulpan - tulppaani  
 tumen - te  
 tumen di - teidän  
 tundra - tundra  
 tundra shan - tunturi  
 tunel - tunneli  
 tunel tren - metrojuna (maanalainen)  
-tunike - mekko (tunika)  
+tunika - mekko (tunika)  
 Tunis - Tunisia  
-tupe - lakki (hattu)  
-turba - häiritä (vaivata)  
+tupi - lakki (hattu)  
+fa turbe - häiritä (vaivata)  
 turbe - häiriö (vaiva)  
-turfe - turve  
+turfa - turve  
 Turki - Turkki  
-turki - turkkilainen  
-Turkomenia - Turkmenistan  
+turki basha - turkkilainen  
+Turkomen - Turkmenistan  
 Tuvalu - Tuvalu  
-tuze - jänis  
+tuzi - jänis  
 u - tuo  
 ####U - U  
-UDA du - yhdysvaltalainen (ns. Amerikkalainen)  
+UDA di - yhdysvaltalainen (ns. Amerikkalainen)  
 Ukraina - Ukraina  
 ulul - ulvonta  
-ulula - ulvoa  
+ulul - ulvoa  
 uma - hevonen  
 umami - umami (ruokaisanmakuinen)  
 un - yksi (1)  
-una - yhdistää  
-unal - toisiaan (keskenään)  
-unali - molemminpuolinen (keskinäinen)  
-undevistia - monoteismi (yksijumalisuus)  
-unemistia - monismi  
-unia - liitto (unioni)  
-uniki - ainoa (ainut)  
-uniko - ainoastaan (vain)  
-uniti - yhtenäinen  
-Uniti Arabi Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
-Uniti Desha Da Amerika (UDA) - Yhdysvallat (ns. Amerikka)  
-unmaro - kerran  
-unmeni - yksimerkityksinen  
-unodi - ensimmäinen (numero yksi)  
-unoki lense - monokkeli  
-unrangi - yksivärinen  
-unversi - universaali  
+fa un she - yhdistää  
+semen - toisiaan (keskenään)  
+semen di - molemminpuolinen (keskinäinen)  
+un deu jui ja - monoteismi (yksijumalisuus)  
+un deu jui - monismi  
+unta liga - liitto (unioni)  
+unike - vain (ainoa, ainut)  
+unta di - yhtenäinen  
+Unta Arabi Amir Desha (UAA) - Yhdistyneet Arabiemiirikunnat  
+Unta Desh Da Amerika (UDA) - Yhdysvallat (ns. Amerikka)  
+un mar - kerran  
+un mana di - yksimerkityksinen  
+un me - ensimmäinen (numero yksi)  
+un oko di lense - monokkeli  
+un rang di - yksivärinen  
+un verse di - universaali  
 ura - hurraa (hurrata)  
 Uran - Uranus  
 uranium - uraani  
-urdi - urdu  
+urdu - urdu  
 Urdun - Jordania  
-urse - karhu  
-Uruguai - Uruguai  
+urso - karhu  
+Uruguay - Uruguai  
 use - käyttää  
-user - käyttäjä  
-Uzbekia - Uzbekistan  
+use ja - käyttäjä  
+Uzbeki - Uzbekistan  
+####V - V  
 va - oho (vau)  
 vacin - rokote  
 vaf - koira  
@@ -3441,7 +3439,7 @@ zeze - kaksisiipinen
 zi - kirjoitusmerkki  
 zigzage - siksakki  
 zikura - zikkurat  
-Zimbabve - Zimbabwe  
+Zimbabue - Zimbabwe  
 zina - haureus (uskottomuus)  
 zinji - inkivääri  
 zinke - sinkki  
@@ -3460,7 +3458,7 @@ zou geo grafi - eläinmaantiede
 zou kata - eläinsatu  
 zou logi - eläintiede (zoologia)  
 zou logi di - eläintieteellinen  
-zou toxe - eläinmyrkky (zootoksiini)  
+zou tokse - eläinmyrkky (zootoksiini)  
 zukam - vilustuminen  
 zuku - kansanryhmä (etninen ryhmä)  
 zuku di - etninen  

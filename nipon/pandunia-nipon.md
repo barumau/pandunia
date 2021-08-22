@@ -108,7 +108,7 @@ bina plan - 建築学
 bina plan ja - 建築家  
 bio jinse - 生物学の性  
 bio logi - 生物学  
-bio toxe - 毒素  
+bio tokse - 毒素  
 bio vute - 生物  
 bir - ビール  
 biskute - ビスケット (クッキー)  
@@ -391,6 +391,7 @@ hal - 状態
 halaloliste - ホワイトリスト  
 hali - 空  
 hali harfi - 間隔  
+halifa - ハリーファ  
 hande - 手  
 handoshake - 腕  
 hapa - 適応する  
@@ -504,8 +505,8 @@ kamil - カモミール (カミツレ)
 kamisa - シャツ  
 kamisa shake - 袖  
 kan - 店 (館)  
-kanche - ガラス  
-kanchodake - 釉薬  
+kancha - ガラス  
+kancha dake - 釉薬  
 kandi - キャンデー  
 kangaru* - カンガルー  
 kankuate - キンカン (キンキツ)  
@@ -651,25 +652,25 @@ lisan - 舌
 litre - リットル  
 loga - 話す  
 loge - 記録  
-loge - 演説  
+loga - 演説  
 loge buku - 日誌  
 logem - 言葉  
 logi - 研究 (科学, 学)  
-logia - 語彙  
-loke - 場所  
+loga jami - 語彙  
+loka - 場所  
 lona biznes - 話し合う (話を付ける)  
 long kata - 小説  
-longi - 長い  
-longokrokodil - クロコダイル  
-longopipre - 畢撥  
-lontre - 獺  
-lova - 漏る  
+long - 長い  
+long krokodil - クロコダイル  
+long pipre - 畢撥  
+lotra - 獺  
+lou - 漏る  
 lugi - 緑 (緑色)  
-lugomelon - ハネデューメロン  
+lugi melon - ハネデューメロン  
 luku - 六 (6)  
 lun - 月間  
 lung - 竜  
-lunokeke - 月餅  
+luna keke - 月餅  
 ####M - M  
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
@@ -685,11 +686,11 @@ mangi - 忙しい
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
-mas - 質量  
+masa - 質量  
 masale - 香辛料  
-mashfili - 好き (お気に入りの)  
-mashforte - 増派 (援兵)  
-maske - 仮面 (マスク)  
+mas fili di - 好き (お気に入りの)  
+mas forte - 増派 (援兵)  
+maska - 仮面 (マスク)  
 masmul - 芋 (塊茎)  
 masmulsolful - キクイモ  
 mate - 物質  
@@ -730,7 +731,7 @@ metalbede - 金敷き (鉄床)
 metallin - 線 (針金)  
 metre - 測定  
 metre gi - 測定装置 (計)  
-meza texe - テーブル掛け  
+meza tekse - テーブル掛け  
 meze - 机 (テーブル)  
 mezistan - 台地 (高地)  
 mi - 私  
@@ -812,7 +813,7 @@ nostalgia - 懐古 (懐旧)
 numba - 数える  
 ####O - O  
 ohtopus - タコ  
-oke - 目  
+oko - 目  
 okeyi - 大丈夫 (ＯＫ)  
 okosuigas - 催涙ガス  
 onde - 波  
@@ -912,14 +913,14 @@ rai - 意見 (見解)
 raite - 右  
 raja - 国王  
 rang mate - 染め粉  
-rangarke - 虹  
-rangarke salmon - ニジマス  
-rapidi - 速い  
-rari - 稀 (疎ら)  
-ras - 人種  
-ratiba - 揃える  
-ratibe - 順  
-ratibi - 整然  
+rang arka - 虹  
+rang arka salmon - ニジマス  
+rapide - 速い  
+rare - 稀 (疎ら)  
+rasa  - 人種  
+ratibu - 揃える  
+ratibu - 順  
+ratibu di - 整然  
 regopetre - 砂岩  
 reizoka - 再開する  
 resikle - 再生する (リサイクルする)  
@@ -1101,8 +1102,8 @@ tenhal - 天気
 tenkenar - 地平線 (水平線, 天際)  
 tennili - 空色  
 terchi - 斜め  
-texe - 布  
-texe mashin - 織機  
+tekse - 布  
+tekse mashin - 織機  
 tingu - 止まる  
 tipe - 種類  
 tira pil - はがす (剥ぐ)  
@@ -1113,24 +1114,26 @@ tisa - 九 (9)
 toksi - 毒  
 Tokyo - 東京  
 topograf - 地勢  
-trater - トラクター  
+trator gi - トラクター  
 tren - 電車 (列車)  
-trete - 合意  
+trati - 合意  
 tri - 三 (3)  
-truka - 騙す  
+fa truke - 騙す  
 truke - 悪戯 (詐欺)  
 tu - あなた  
 tu di - あなたの  
 tumen - あなたたち  
-turbu - 悩む (わざわざする)  
-tuze - うさぎ  
+be turbe - 悩む (わざわざする)  
+tuzi - うさぎ  
 ####U - U  
 umami - 旨味  
 un - 一 (1)  
-uniki - 唯一の  
-uniko - だけ  
-unjani - 一人の (寂しい, ポツリ)  
-usable - 使用可能  
+unta - 団結 (統一)  
+unta liga - 連合 (接合)  
+unike - だけ (唯一の)  
+unike jan di - 一人の (寂しい, ポツリ)  
+use bil di - 使用可能  
+####V - V  
 va - わあ  
 vaf - 犬 (狗)  
 vagina - 膣 (ワギナ)  
@@ -1152,7 +1155,7 @@ vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)
 varka alga - コンブ  
 varka late - ページ (面)  
 vase - オアシス  
-vashi urse - 狸 (ラクーン, 洗い熊)  
+vashi urso - 狸 (ラクーン, 洗い熊)  
 vei darje - 緯度  
 vei lin - 横糸  
 vende - 売る  
@@ -1168,8 +1171,8 @@ vide punte - 遠近法 (見通し, 観点)
 vidou - 寡婦  
 vin kan - ワイナリー (酒造場)  
 Vishnu - ヴィシュヌ  
-viyolete - スミレ  
-viyolete blu - 紫色 (パープル)  
+violeta - スミレ  
+violeta blu - 紫色 (パープル)  
 vode - 約束  
 vol - 欲しい  
 vulva - 陰門  

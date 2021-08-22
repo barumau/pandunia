@@ -134,7 +134,7 @@ bilor - cristal
 bina plan - arquitetura  
 bina plan ja - arquiteto  
 bio logi - biología  
-bio toxe - toxina  
+bio tokse - toxina  
 bio vute - organismo  
 bir - cerveja  
 biskute - biscoito  
@@ -348,7 +348,7 @@ gamben - enteado
 gammai - sogra  
 gampai - sogro  
 gan cau - feno  
-gan texe - toalha  
+gan tekse - toalha  
 gansa - ganso  
 ganum - trigo  
 garma mosim - verão  
@@ -403,6 +403,7 @@ haki - direito
 hal - estado  
 hali - vazio  
 hali harfi - espaço  
+halifa - califa  
 halo - alô  
 hami - importante  
 hamili - grávida (prenhe)  
@@ -520,7 +521,7 @@ kamil - camomila-vulgar
 kamisa - camisa  
 kamisa shake - manga  
 kampistan - área de acampamento  
-kanche - vidro  
+kancha - vidro  
 kandi - bombom (doce)  
 kangaru* - canguru  
 kankuate - quincã (cunquate)  
@@ -582,7 +583,7 @@ konboni - combinar com
 konkara - colaborar  
 konseler - consultor  
 konserte - concerto  
-kontrete - pacto  
+kon trati - pacto  
 kope - cópia  
 kora - correr  
 koral - coral  
@@ -663,29 +664,29 @@ lisan - língua
 liste - lista  
 litre - litro  
 loga - falar  
-logaslia - etimologia  
+loga asal - etimologia  
 loge - registro  
-loge - fala (palavras)  
+loga - fala (palavras)  
 loge buku - diário de bordo  
 logem - palavra (vocábulo)  
-logi - léxico  
-logia - vocabulário  
-loka - colocar (pôr)  
-loke - lugar (local)  
-loki - local  
+loga di - léxico  
+loga jami - vocabulário  
+fa loka - colocar (pôr)  
+loka - lugar (local)  
+loka di - local  
 long kata - romance  
-longi - longo  
-longoduri - prolongado  
-longoduro - por muito tempo  
-longokrokodil - crocodilo  
-lontre - lontra  
-lova - vazar  
+long - longo  
+long dura di - prolongado  
+long dura - por muito tempo  
+long krokodil - crocodilo  
+lotra - lontra  
+lou - vazar  
 lugi - verde  
 luku - seis (6)  
 lun - mês  
-lune - lua  
-lunokeke - bolo lunar  
-luter - ladrão  
+luna - lua  
+luna keke - bolo lunar  
+luta ja - ladrão  
 ####M - M  
 ma - mãe  
 mafa - perdoar (desculpar)  
@@ -708,20 +709,20 @@ margai - gato-maracajá
 margarite - margarida  
 marke - mancha (marca)  
 Marse - Marte  
-martinluteristi - luterano  
-martinluteristia - luteranismo  
-mas - massa  
+Luter din ja - luterano  
+Luter din - luteranismo  
+masa - massa  
 masale - tempero  
-mash (masho) - mais  
-mashfila - preferir  
-mashfili - favorito (preferido)  
-mashfilistia - favoritismo  
-mashime - máximo  
-mashraya - superestimar (sobrestimar)  
-maske - máscara  
+mas - mais  
+mas fili - preferir  
+mas fili di - favorito (preferido)  
+mas fili jui - favoritismo  
+masim - máximo  
+ - superestimar (sobrestimar)  
+maska - máscara  
 masmul - tubérculo  
 masmulsolful - alcachofra-girassol (tupinambo)  
-maste - mastro  
+masta - mastro  
 mate - matéria  
 mau - gato  
 maze - meia  
@@ -743,7 +744,7 @@ metalbede - bigorna
 metallin - arame  
 metregraf - carta geográfica  
 metregrafia - cartografia  
-meza texe - toalha de mesa  
+meza tekse - toalha de mesa  
 meze - mesa  
 mi - eu (me)  
 migre - migração  
@@ -826,8 +827,8 @@ numbe - número
 ####O - O  
 o - ou  
 ohtopus - polvo  
-oke - olho  
-oki - ocular  
+oko - olho  
+oko di - ocular  
 okosuigas - gás lacrimogéneo  
 okside - óxide  
 onde - onda  
@@ -948,11 +949,11 @@ putau oranje - toranja
 radio - radio  
 rai - opinião  
 rang - cor  
-rangarke salmon - truta-arco-íris  
-rapidi - rápido  
-rari - raro  
-ras - raça  
-ratibe - ordem  
+rang arka salmon - truta-arco-íris  
+rapide - rápido  
+rare - raro  
+rasa  - raça  
+ratibu - ordem  
 resikle - reciclar  
 reste - resto  
 retra - retornar  
@@ -1127,35 +1128,36 @@ tensi - tenso
 terchi - oblíquo (torto)  
 teste - tentar (provar)  
 teste - teste  
-texe - fazenda (tecido)  
-texe mashin - tear  
+tekse - fazenda (tecido)  
+tekse mashin - tear  
 tikete - bilhete  
 tirlonga - estirar  
 tisa - nove (9)  
 toksilogi - toxicologia  
 tomate - tomate  
 topograf - topografia  
-trata - arrastar  
-trater - trator  
-trete - acordo (tratado, contrato)  
+trator - arrastar  
+trator gi - trator  
+trati - acordo (tratado, contrato)  
 tri - três (3)  
-truka - enganar  
+fa truke - enganar  
 truke - truque (fraude)  
 tu - tu  
 tumen di - vosso  
-turba - molestar (perturber)  
-tuze - coelho (lebre)  
+fa turbe - molestar (perturber)  
+tuzi - coelho (lebre)  
 ####U - U  
 un - um (1)  
-uniki - único (só)  
-uniko - unicamente  
-unjani - só (solitário)  
-unmaro - uma vez  
-unoki lense - monóculo  
-unversi - universal  
+unta liga - união  
+unike - único (só)  
+unike jan di - só (solitário)  
+un mar - uma vez  
+un oko di lense - monóculo  
+un verse di - universal  
 ura - urra  
 Uran - Urano  
-urse - urso  
+urso - urso  
+####V - V  
 va - uau  
 vaf - cão (cachorro)  
 vagina - vagina  
@@ -1175,7 +1177,7 @@ vari - vários
 varka alga - kelp  
 varka late - página  
 vase - oásis  
-vashi urse - guaxinim (rato-lavadeiro)  
+vashi urso - guaxinim (rato-lavadeiro)  
 vende - vender  
 ventur - aventura  
 ventur ja - aventureiro  
@@ -1193,7 +1195,7 @@ vide - ver
 vidou - viúvo  
 virje - virgem  
 Vishnu - Vixnu  
-viyolete blu - purpúreo (roxo)  
+violeta blu - purpúreo (roxo)  
 vode - promessa (voto)  
 vol - querer (desejar)  
 vol she - vontade  

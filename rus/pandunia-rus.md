@@ -85,7 +85,7 @@ Austronesia - Австронезия
 auto loga - монолог  
 avar - повреждение (авария)  
 ave - овёс  
-axe - ось  
+akse - ось  
 ####B - B  
 babu - глава  
 babul - вахелия  
@@ -146,7 +146,7 @@ bina plan ja - архитектор
 bio - органический  
 bio jinse - биологический пол  
 bio logi - биология  
-bio toxe - токсин  
+bio tokse - токсин  
 bio vute - организм  
 bir - пиво  
 biskute - печенье (бисквит)  
@@ -439,6 +439,7 @@ haigun - военно-морской флот
 haihiyar - голотурия (морские огурц)  
 hal - состояние (статус)  
 hali - пустой  
+halifa - халиф  
 halo - алло  
 hami - важный (значимый)  
 hamili - беременный  
@@ -564,9 +565,9 @@ kamil - ромашка аптечная
 kamisa - рубашка  
 kampistan - полевой стан  
 kanape - канапе  
-kanche - стекло  
-kanchodaka - глазуровать  
-kanchodake - глазурь  
+kancha - стекло  
+fa kancha dake - глазуровать  
+kancha dake - глазурь  
 kandi - конфета  
 kangaru* - кенгуру  
 kanjar - кинжал  
@@ -632,7 +633,7 @@ konkara - сотрудничать (кооперировать)
 konpashia - жалость (сердобольность)  
 konseler - консультант (советник)  
 konserte - концерт  
-kontrete - контракт  
+kon trati - контракт  
 kope - копия  
 kora - бегать (бежать)  
 koral - коралл  
@@ -713,28 +714,28 @@ lisan - язык
 liste - список  
 litre - литр  
 loga - говорить  
-logaslia - этимология  
+loga asal - этимология  
 loge - запись  
-loge - речь  
+loga - речь  
 loge buku - судовой журнал  
 logem - слово (речь)  
-logi - лексический  
-logia - словарь  
-loka - ставить  
-loke - место  
+loga di - лексический  
+loga jami - словарь  
+fa loka - ставить  
+loka - место  
 long kata - роман  
-longo - далеко  
-longoduri - долгий (длительный)  
-longoduro - долго  
-longopipre - перец длинный  
-lontre - выдра  
-lova - протекать (просочиться)  
+do long - далеко  
+long dura di - долгий (длительный)  
+long dura - долго  
+long pipre - перец длинный  
+lotra - выдра  
+lou - протекать (просочиться)  
 lugi - зелёный  
 luku - шесть (6)  
 lun - месяц  
-lune - луна  
-lunokeke - лунный пирог  
-luter - грабитель  
+luna - луна  
+luna keke - лунный пирог  
+luta ja - грабитель  
 ####M - M  
 ma - мать (мама)  
 magesium - магний  
@@ -756,20 +757,20 @@ marche - марш
 margai - маргай  
 margarite - маргаритка  
 Marse - Марс  
-martinluteristi - лютеранский  
-martinluteristia - лютера́нство  
-mas - масса  
+Luter din ja - лютеранский  
+Luter din - лютера́нство  
+masa - масса  
 masale - пряность  
-mashfila - предпочитать  
-mashfili - любимый  
-mashfilistia - фаворитизм (кумовство)  
-mashforte - пополнение  
-mashime - максимум  
-mashraya - переоценить  
-maske - маска  
+mas fili - предпочитать  
+mas fili di - любимый  
+mas fili jui - фаворитизм (кумовство)  
+mas forte - пополнение  
+masim - максимум  
+ - переоценить  
+maska - маска  
 masmul - клубень  
 masmulsolful - топинамбу́р  
-maste - мачта  
+masta - мачта  
 mate - материя  
 matur - взрослый  
 mau - кошка  
@@ -793,7 +794,7 @@ mester - мастер
 metalbede - наковальня  
 metregraf - карта  
 metregrafia - картография  
-meza texe - скатерть  
+meza tekse - скатерть  
 meze - стол  
 mi - я  
 migre - миграция  
@@ -886,8 +887,8 @@ numbe - число
 o - или  
 ode - ранг  
 ohtopus - спрут (осьминог)  
-oke - глаз (око)  
-oki - глазной  
+oko - глаз (око)  
+oko di - глазной  
 okosuigas - слезоточи́вый газ  
 okside - окись (оксид)  
 onor - честь  
@@ -1014,14 +1015,14 @@ putau oranje - грейпфрут
 ####R - R  
 radio - радио  
 rai - мнение  
-rangarke - радуга  
-rangarke salmon - микижа (камчатская сёмга)  
-rapidi - быстрый  
-rari - редкий (разбро́санный)  
-ras - раса  
-rasmedi - межрасовый  
-ratibe - установка  
-ratibi - организованный (порядок)  
+rang arka - радуга  
+rang arka salmon - микижа (камчатская сёмга)  
+rapide - быстрый  
+rare - редкий (разбро́санный)  
+rasa  - раса  
+rasa medi - межрасовый  
+ratibu - установка  
+ratibu di - организованный (порядок)  
 resikle - рециркулировать  
 reste - остаток  
 retrogula - рвать (изрыга́ть)  
@@ -1238,8 +1239,8 @@ terchi - косой
 teroristia - терроризм  
 tese - довод  
 teste - проба (тест)  
-texe - ткань  
-texe mashin - ткацкий станок  
+tekse - ткань  
+tekse mashin - ткацкий станок  
 tikete - билет  
 tim - команда  
 tira milke - тянуть  
@@ -1252,27 +1253,29 @@ tocha - касаться
 toksilogi - токсикология  
 tomate - помидор (томат)  
 topograf - топография  
-trata - волочить  
-trater - трактор  
-trete - договор  
+trator - волочить  
+trator gi - трактор  
+trati - договор  
 tri - три (3)  
-truka - обмануть  
+fa truke - обмануть  
 truke - обман  
 tu - ты  
 tumen di - ваш  
 tundra shan - фьельды  
-turba - утруждать  
-turbu - утруждай  
-tuze - кролик (заяц)  
+fa turbe - утруждать  
+be turbe - утруждай  
+tuzi - кролик (заяц)  
 ####U - U  
 un - один (1)  
-uniki - единственный (уникальный)  
-uniko - только (единственно)  
-unjani - одинокий (единичный)  
-unmaro - один раз  
-unoki lense - монокль  
+unta - единица  
+unta liga - союз  
+unike - только (единственно, единственный, уникальный)  
+unike jan di - одинокий (единичный)  
+un mar - один раз  
+un oko di lense - монокль  
 ura - ура  
 Uran - Уран  
+####V - V  
 va - вау!  
 vaf - собака  
 vagina - влагалище (вагина)  
@@ -1290,7 +1293,7 @@ var tri - среда
 var un - понедельник  
 vase - оазис  
 vashi - мыть  
-vashi urse - енот  
+vashi urso - енот  
 vei lin - уток  
 vende - продать  
 vende shope - торговля  
@@ -1315,7 +1318,7 @@ virje - девственник
 virus - вирус  
 virus logi - вирусология  
 Vishnu - Вишну  
-viyolete blu - фиолетовый (пурпурный)  
+violeta blu - фиолетовый (пурпурный)  
 viza - виза  
 vode - клятва (присяга, обет)  
 vol - хотеть  
@@ -1354,7 +1357,7 @@ zebra - зебра
 zeyil - бородавка  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
-Zimbabve - Зимбабве  
+Zimbabue - Зимбабве  
 zinji - имбирь  
 zinke - цинк  
 zira - тмин  

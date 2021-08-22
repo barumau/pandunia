@@ -57,7 +57,7 @@ alligator - korte krokodil
 allophone - alo fon  
 allô - halo  
 alphabet - harfi harfi  
-alumine (oxyde d'aluminium) - alumin oxide  
+alumine (oxyde d'aluminium) - alumin okside  
 aluminium - alumin  
 alun - alumin mate  
 amande - badam  
@@ -108,7 +108,7 @@ araignée - arane
 arboretum, pépinière - mokojongoparke  
 arbre - moke  
 arc - arka  
-arc-en-ciel - rangarke  
+arc-en-ciel - rang arka  
 Arche d'Alliance - liga di sanduku  
 arche de Noé - Noe di nave  
 archer - arka ja  
@@ -134,7 +134,7 @@ artiste - arte ja
 Artsakh - Arcah  
 Aruba - Aruba  
 ascète - askete  
-asexué - an sexe li  
+asexué - an sekse li  
 asiatique - asia  
 Asie - Asia  
 aspirine - aspirin  
@@ -168,7 +168,7 @@ aventurier - ventur ja
 avis (opinion) - rai  
 avocat - avakate  
 avoine - ave  
-axe - axe  
+axe - akse  
 Azerbaijan - Azerbaijan  
 azur - lazuri  
 aérobique - air bio li  
@@ -257,7 +257,7 @@ boxeur - bokser
 bras - handoshake  
 brave - bravo  
 bravo! - bravo  
-brigand (bandit) - luter  
+brigand (bandit) - luta ja  
 brique - dobe  
 brochette - shish  
 brun (marron) - brun  
@@ -284,6 +284,7 @@ calcite - kalsite
 calculer - hisaba  
 calendrier - kalenda  
 caleçon - bokserpante  
+calife - halifa  
 calmar (encornet, calamar) - kalmar  
 calme (tranquille) - shanti  
 Camomille Romaine - romakamil  
@@ -393,9 +394,9 @@ conte de fées - peri kata
 conteneur - inan  
 continu (analogique) - zoku di  
 continuer (poursuivre, encore) - zoku  
-contract (traité) - trete  
+contract (traité) - trati  
 convenir (être approprié) - hapu  
-convention (alliance, pacte) - kontrete  
+convention (alliance, pacte) - kon trati  
 copie - kope  
 coquelicot - medenpapil  
 corail - koral  
@@ -424,7 +425,7 @@ creuser - kava
 crevette - krevete  
 cristal - bilor  
 crochet - huke  
-crocodile - longokrokodil  
+crocodile - long krokodil  
 crocodilien - krokodil  
 croissant - kruasante  
 croix - krus  
@@ -529,7 +530,7 @@ entonnoir - riutube
 entrer - intru  
 envelopper (emballer) - lifafa  
 erroné - galti  
-escroquer - truka  
+escroquer - fa truke  
 espace (zone, région) - area  
 espace - hali harfi  
 estrade - tai  
@@ -563,8 +564,8 @@ fait - fate
 fanal (balise) - foto minar  
 fatigue - fatigia  
 faute (erreur) - galte  
-favori (préféré) - mashfili  
-favoritisme - mashfilistia  
+favori (préféré) - mas fili di  
+favoritisme - mas fili jui  
 fente (fissure, fêlure) - krake  
 fenêtre - janel  
 fermenter - biyomutu  
@@ -641,7 +642,7 @@ guide - gida ja
 guide touristique - gida buku  
 guider - gida  
 guitare - gitar  
-gâteau de lune - lunokeke  
+gâteau de lune - luna keke  
 génotype - jentipe  
 généalogie - jenolojia  
 généralissime - gunrajer  
@@ -652,7 +653,7 @@ géologie - geo logi
 géométrie - geo metri  
 géopolitique - geo politika  
 géothermique - geo termo  
-gêner (déranger, perturber) - turba  
+gêner (déranger, perturber) - fa turbe  
 ####H - H  
 habiller (vêtir) - fuka  
 haine - hen  
@@ -687,7 +688,7 @@ hygiène - salsafia
 hélicoptère - helisviman  
 héros - hero  
 hétéroromantique (hétéromantique) - alo romanse  
-hétérosexuel - alo sexe li  
+hétérosexuel - alo sekse li  
 hôtel - hotel  
 ####I - I  
 imitateur (mime) - mimer  
@@ -710,7 +711,7 @@ inflammation - flame
 insecte - dudu  
 insomnie - an sona  
 international - nasmedi  
-interracial - rasmedi  
+interracial - rasa medi  
 introverti - introversi  
 inutile - no yau di  
 inverse (négatif, in-) - an  
@@ -761,7 +762,7 @@ Lance-roquettes - roketolancher
 langue - basha  
 langue - lisan  
 langue maternelle - jeni bash  
-lapin (lièvre) - tuze  
+lapin (lièvre) - tuzi  
 lapis-lazuli - lazurpetre  
 lasagne - lazanya  
 latéral - lati  
@@ -771,13 +772,13 @@ lent - lenti
 lentille - lense  
 Lettonie - Latvia  
 leur - yamen di  
-lexical - logi  
+lexical - loga di  
 leçon - shula  
 libellule - libele  
 libre - huri  
 lichen - alga fungu  
 lien - linke  
-lieu - loke  
+lieu - loka  
 lieu de naissance - jen loka  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
@@ -791,19 +792,19 @@ litre - litre
 littérature - kitabu shutu  
 livre - buku  
 livre de bord - loge buku  
-local - loki  
-loin - longo  
-long - longi  
-longtemps - longoduro  
+local - loka di  
+loin - do long  
+long - long  
+longtemps - long dura  
 loquace - logivi  
 loup - volfe  
 lourd - veze di  
-loutre - lontre  
+loutre - lotra  
 lumière - foto  
 lundi - var un  
-lune - lune  
-luthéranisme - martinluteristia  
-luthérien - martinluteristi  
+lune - luna  
+luthéranisme - Luter din  
+luthérien - Luter din ja  
 lutte - jihade  
 luxure (libido) - kama  
 lynx - linche  
@@ -835,12 +836,12 @@ mariage - gamia
 Maroc - Magribia  
 Mars - Marse  
 marécage (marais) - fantopia  
-masque - maske  
-masse - mas  
+masque - maska  
+masse - masa  
 match - meche  
 mathématiques - hisabolojia  
 matière - mate  
-maximum - mashime  
+maximum - masim  
 maître - mester  
 medio - medi  
 melt - yong  
@@ -855,7 +856,7 @@ merde - shite
 merveille - ajibu  
 message - anjil  
 messager - anjil ja  
-mettre (placer) - loka  
+mettre (placer) - fa loka  
 meule - molsheke  
 microbe - mikrobiu  
 microbiologie - mikrobiologi  
@@ -870,7 +871,7 @@ mole (unité) - mol
 momentané - sati  
 monde - dunia  
 monnaie (pièce) - pesodiske  
-monocle - unoki lense  
+monocle - un oko di lense  
 monologue - auto loga  
 mordre - fa dante  
 morue - kade  
@@ -893,7 +894,7 @@ mur - mur
 musique - muzike  
 mycélium - fungu nete  
 mythe - deu kata  
-mât - maste  
+mât - masta  
 mère (maman) - ma  
 mètre - mitre  
 méduse - haijel  
@@ -903,7 +904,7 @@ méninge - meninge
 métaux lourds - bari metal  
 ####N - N  
 nagar (flotter) - boyu  
-nappe - meza texe  
+nappe - meza tekse  
 nation - nasia  
 nausée - retroguli sense  
 nautile - nautile  
@@ -944,7 +945,7 @@ oblique (de travers) - terchi
 obsidienne - osidian  
 occupé - mangi  
 ocelot - oselote  
-oculaire - oki  
+oculaire - oko di  
 océan - daihai  
 Océan Antarctique - Antartika Hai  
 océan Arctique - Artika Hai  
@@ -969,7 +970,7 @@ orchidée - orkide
 ordinaire (habituel, normal) - ada li  
 ordinateur - komputer  
 ordinateur tablette - tablokomputer  
-ordre - ratibe  
+ordre - ratibu  
 ordures - laji  
 oreille - ore  
 organiser - noma  
@@ -985,7 +986,7 @@ ouah - va
 oublier - an memo  
 oubliette (cul de basse-fosse) - geo niche prizon  
 oui - ye  
-ours - urse  
+ours - urso  
 oxyde - okside  
 où - pa ke  
 ####P - P  
@@ -1016,7 +1017,7 @@ parc - parke
 pardonner - mafa  
 Paris - Paris  
 parler - loga  
-parole (mots) - loge  
+parole (mots) - loga  
 parti - kiti  
 passe (passage) - pasdau  
 passeport - pasporte  
@@ -1073,7 +1074,7 @@ plein - puri
 pluie - shava  
 plume - kalam  
 plurilingue (multilingue) - polbashi  
-plus - mash (masho)  
+plus - mas  
 pluvieux -   
 pneumonie - pulmon flame  
 pocion - medikosui  
@@ -1083,7 +1084,7 @@ poireau - porei
 poisson - pesh  
 poisson-globe - balon pesh  
 poivre - pipre  
-poivre long - longopipre  
+poivre long - long pipre  
 poli - foto frika  
 pollution - najis  
 Polynesie - Polnesia  
@@ -1123,14 +1124,14 @@ projectile - lance she
 projection - lance grafi  
 projet - projete  
 projeter (donner) - lance grafi  
-prolongé - longoduri  
+prolongé - long dura di  
 promettre - fa vode  
 propice - bonsinyi  
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
 précieux - bau li  
-préférer - mashfila  
+préférer - mas fili  
 présent - zai di  
 prêter (empruntre) - jeka  
 prêter - jekodona  
@@ -1154,14 +1155,14 @@ question - sual
 queue (côté ) - koda  
 qui - ke jan  
 ####R - R  
-race - ras  
+race - rasa   
 racine - mula  
 radio - radio  
 rang - ode  
 rare - nadir  
-rare - rari  
+rare - rare  
 rarement - nadir mar  
-raton laveur - vashi urse  
+raton laveur - vashi urso  
 rayon de miel - medu fong nide  
 recycler - resikle  
 rein - nefre  
@@ -1254,8 +1255,8 @@ sentir qqch (avoir l'odeur de qqch) - aroma
 sentir qqch - aroma  
 sept (7) - sete  
 serrure - sor  
-serviette - gan texe  
-seul (unique) - uniki  
+serviette - gan tekse  
+seul (unique) - unike  
 sexe - jinse  
 sexologie - sekselogi  
 Shiva - Shiva  
@@ -1290,7 +1291,7 @@ suffixe - posfikse
 Suisse - Suice  
 suivre - posa  
 sujet (thème) - tema  
-surestimer - mashraya  
+surestimer -   
 svastika (croix gammée) - huke krus  
 symétrie - sammetre  
 séminal - semi  
@@ -1329,7 +1330,7 @@ tige - tan
 tigre - bagre  
 tire à l'arc - arka shutu  
 tirer - tira milke  
-tissu - texe  
+tissu - tekse  
 titre - tema nam  
 toile d'araignée - arane nete  
 toit - chati  
@@ -1342,20 +1343,20 @@ toupie - rototope
 touriste - safariste  
 Tournesol - solful  
 toxicologie - toksilogi  
-toxine - bio toxe  
+toxine - bio tokse  
 trace - marke  
-tracteur - trater  
+tracteur - trator gi  
 traduction - tarje  
 travail - gung  
 travailler - kara  
 travailleur (ouvrier) - karer  
-traîner - trata  
+traîner - trator  
 tremper (faire mariner) - purshipa  
 tribord - nave raite  
 trois (3) - tri  
 tropique - garma zona  
 truite - salmon  
-truite arc-en-ciel - rangarke salmon  
+truite arc-en-ciel - rang arka salmon  
 truite brune (truite de mer) - brun salmon  
 tu - tu  
 tubercule - masmul  
@@ -1369,11 +1370,12 @@ téléviseur - tele vide gi
 tête - sar  
 ####U - U  
 un (1) - un  
-une fois - unmaro  
-uniquement - uniko  
-universel - unversi  
+une fois - un mar  
+union - unta liga  
+universel - un verse di  
 uranium - uranium  
 Uranus - Uran  
+####V - V  
 vachellia - babul  
 vagine - vagina  
 vaginite - vagina flame  
@@ -1392,8 +1394,8 @@ ver - verme
 verbe - karma loga  
 verger - frute bagi  
 vermouth - vermute  
-verre - kanche  
-verre coloré - rang kanche  
+verre - kancha  
+verre coloré - rang kancha  
 verrue - zeyil  
 verse (face á) - verse  
 verser - fa verse  
@@ -1411,15 +1413,15 @@ vignoble - putau bagi
 village - chun  
 ville - citi  
 vin de riz - ris vin  
-violet (pourpre) - viyolete blu  
+violet (pourpre) - violeta blu  
 virus - virus  
 visage - muka  
 viser - dika  
 Vishnou - Vishnu  
-vite (rapide) - rapidi  
+vite (rapide) - rapide  
 vivant - jivi  
 vivre (habiter) - doma  
-vocabulaire (lexique) - logia  
+vocabulaire (lexique) - loga jami  
 voile - hijabu  
 voir - vide  
 voire (même) - hata  
@@ -1477,7 +1479,7 @@ zèbre - zebra
 élément chimique - kimem  
 émeraude - zumarda  
 émir - amir ja  
-émirat - amir ya  
+émirat - amir desha  
 émoticône (emoji) - emoje  
 émotion - emos  
 épices - masale  
@@ -1499,7 +1501,7 @@ zèbre - zebra
 étudiant - estuder  
 étudiant - shuler  
 étudier - estuda  
-étymologie - logaslia  
+étymologie - loga asal  
 été - garma mosim  
 évaluer - fa valu  
 évangile - evanjil  
@@ -1508,4 +1510,4 @@ zèbre - zebra
 être - si  
 être couché - kushu  
 être humain - insan  
-œil - oke  
+œil - oko  

@@ -78,7 +78,7 @@ auro - 金
 Austronesia - 南岛  
 auto loga - 独白  
 ave - 燕麦  
-axe - 轴线  
+akse - 轴线  
 ####B - B  
 babu - 章  
 bacha - 小孩  
@@ -135,7 +135,7 @@ bina plan - 建筑学
 bina plan ja - 建筑师  
 bio jinse - 生物性別  
 bio logi - 生物学  
-bio toxe - 毒素  
+bio tokse - 毒素  
 bio vute - 生物  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
@@ -391,6 +391,7 @@ haki - 权利
 hal - 状态  
 hali - 空的  
 hali harfi - 空隙  
+halifa - 哈里发  
 halo - 哈啰 (哈喽)  
 hami - 重要  
 hamili - 怀孕  
@@ -509,8 +510,8 @@ kamisa - 衬衫
 kamisa shake - 袖子  
 kan - 店 (馆)  
 kanape - 沙发  
-kanche - 玻璃  
-kanchodake - 釉  
+kancha - 玻璃  
+kancha dake - 釉  
 kandi - 糖果  
 kangaru* - 袋鼠  
 kankuate - 金柑  
@@ -571,7 +572,7 @@ konkara - 合作
 kono - 共同 (一起)  
 konseler - 顾问  
 konserte - 音乐会  
-kontrete - 公約  
+kon trati - 公約  
 kope - 摹本 (拷貝)  
 kora - 跑步  
 koral - 珊瑚  
@@ -653,25 +654,25 @@ liste - 单子
 litre - 升  
 loga - 说话 (讲)  
 loge - 纪录  
-loge - 语言  
+loga - 语言  
 loge buku - 航海日志  
 logem - 词  
-logia - 词汇  
-loka - 放置  
-loke - 地方  
+loga jami - 词汇  
+fa loka - 放置  
+loka - 地方  
 lon - 论  
 long kata - 小说  
-longi - 长  
-longoduro - 久  
-longopipre - 荜拔  
-lontre - 獭  
-lova - 漏  
+long - 长  
+long dura - 久  
+long pipre - 荜拔  
+lotra - 獭  
+lou - 漏  
 lugi - 绿色  
 luku - 六 (6)  
 lung - 龙  
-lunokeke - 月饼  
+luna keke - 月饼  
 luta - 掠夺  
-luter - 强盗  
+luta ja - 强盗  
 ####M - M  
 ma - 妈妈  
 ma de ma - 外婆 (外祖母)  
@@ -690,13 +691,13 @@ manir - 方式
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
-mas - 质量  
+masa - 质量  
 masale - 香料  
-mashfila - 比较喜欢  
-mashforte - 加固  
-mashim (mashimo) - 最  
+mas fili - 比较喜欢  
+mas forte - 加固  
+masim - 最  
 masmulsolful - 菊芋  
-maste - 桅  
+masta - 桅  
 mate - 物质  
 matur - 成年人  
 maturi fem - 女人  
@@ -722,7 +723,7 @@ metaljanger - 铁匠
 metallin - 线 (铁丝)  
 metregraf - 地图  
 metregrafia - 地图学  
-meza texe - 桌布  
+meza tekse - 桌布  
 meze - 桌子  
 mi - 我  
 migra - 搬家  
@@ -800,7 +801,7 @@ numbe - 数
 ####O - O  
 o - 或  
 ohtopus - 章鱼  
-oke - 眼睛  
+oko - 眼睛  
 okosuigas - 催泪瓦斯  
 okside - 氧化物  
 onde - 波浪  
@@ -906,12 +907,12 @@ Putong Han - 普通话
 ####R - R  
 rai - 意见 (见解)  
 rang mate - 染料  
-rangarke salmon - 虹鱒  
-rapidi - 快  
-rari - 稀有 (稀少的)  
-ras - 种族  
-ratiba - 整理  
-ratibe - 常规 (次序)  
+rang arka salmon - 虹鱒  
+rapide - 快  
+rare - 稀有 (稀少的)  
+rasa  - 种族  
+ratibu - 整理  
+ratibu - 常规 (次序)  
 resikle - 循环再造  
 reste - 其余  
 retrogula - 呕吐  
@@ -1100,7 +1101,7 @@ terchi - 斜的
 teroristia - 恐怖行为  
 tese - 论据  
 teste - 化验  
-texe - 布料  
+tekse - 布料  
 tikete - 票  
 tim - 队  
 tira milke - 拉  
@@ -1112,24 +1113,26 @@ tocha - 接触
 toksilogi - 毒物学  
 tomate - 西红柿  
 topograf - 地形  
-trata - 拖  
-trater - 拖拉机 (铁牛)  
-trete - 合同 (合约)  
+trator - 拖  
+trator gi - 拖拉机 (铁牛)  
+trati - 合同 (合约)  
 tri - 三 (3)  
-truka - 耍花招  
+fa truke - 耍花招  
 truke - 伎俩  
 tu - 你  
 tumen - 你们  
 tumen di - 你们的  
-tuze - 兔子  
+tuzi - 兔子  
 ####U - U  
 umami - 鲜味  
 un - 一 (1)  
-uniki - 唯一 (独)  
-uniko - 只有 (惟独)  
-unjani - 独自的 (孤单)  
-unmaro - 一次 (一遍)  
+unta - 团结 (统一)  
+unta liga - 合并  
+unike - 只有 (惟独, 唯一, 独)  
+unike jan di - 独自的 (孤单)  
+un mar - 一次 (一遍)  
 ura - 好哇  
+####V - V  
 va - 哇  
 vaf - 狗  
 vagina - 阴道  
@@ -1147,7 +1150,7 @@ var tri - 星期三 (禮拜三)
 var un - 星期一 (禮拜一)  
 var var - 週  
 vari - 各种各样  
-vashi urse - 浣熊  
+vashi urso - 浣熊  
 vei darje - 纬度  
 vei lin - 緯紗  
 vende - 卖  
