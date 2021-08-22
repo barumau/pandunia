@@ -976,10 +976,10 @@ What is it like?
 **sual ya si nove?**
 Is it new?
 
-**ke si max boni?**
+**ke si mas boni?**
 Which is better?
 
-**yi si maxim boni (da pan).**
+**yi si masim boni (da pan).**
 This is the best (of all).
 
 **ya kosta ke?**

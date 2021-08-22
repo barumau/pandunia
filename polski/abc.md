@@ -28,7 +28,6 @@ Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu 
 | T        | tʰ     |
 | U        | u      |
 | V        | w (ʋ v) |
-| X        | ks (s) |
 | Y        | j      |
 | Z        | z (dz) |
 

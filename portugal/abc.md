@@ -28,7 +28,6 @@ correspondentes símbolos Alfabeto Fonético Internacional (AFI):
 | T        | tʰ     |
 | U        | u      |
 | V        | w (ʋ v) |
-| X        | ks (s) |
 | Y        | j      |
 | Z        | z (dz) |
 

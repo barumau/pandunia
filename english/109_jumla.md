@@ -468,15 +468,15 @@ The particles help in creating measure words too.
 – one sack of potatoes  
 **dul sake di patate**
 – two sacks of potatoes  
-**max sake di patate**
+**mas sake di patate**
 – more sacks of potatoes
 
 Note that **di** and **da** connect phrases together.
-So a modifier phrase with and without **di** can mean a different thing.
+So a modifier phrase with and without **da** can mean a different thing.
 
-**max sundari fule**
+**mas sundar hua**
 – more beautiful flowers  
-**max di sundari fule**
+**mas da sundar hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases

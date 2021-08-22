@@ -56,7 +56,7 @@ Adverbs of degree tell us about the intensity of something.
 – too  
 **bas**
 – quite, sufficiently, enough  
-**max**
+**mas**
 – more  
 **min**
 – less
@@ -97,9 +97,9 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 Adjectives can be compared with the adverbs of comparison.
 
-- **max**
+- **mas**
   (_more_) indicates comparison of superiority
-- **maxim**
+- **masim**
   (_most_) indicates the superlative of superiority
 - **min**
   (_less_) indicates comparison of inferiority
@@ -112,7 +112,7 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple si max bon ka oranje.**
+**aple si mas bon ka oranje.**
 = Apples are better than oranges.  
 **oranje si min bon ka aple.**
 = Oranges are less good than apples.  
