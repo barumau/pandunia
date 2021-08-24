@@ -15,7 +15,7 @@ agreser - агрессор
 ai - любовь  
 ai ja - любовник  
 air - воздух  
-air bio li - аэробный  
+air bio di - аэробный  
 air gun - военно-воздушные силы  
 air porte - аэропорт  
 ais hoki - хокке́й с ша́йбой  
@@ -129,7 +129,7 @@ bato - восемь (8)
 baton - штанга  
 baton kasa - клетка  
 bau - сокровище (казна)  
-bau li - драгоценный  
+bau di - драгоценный  
 bau sheke - драгоценный камень  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
@@ -195,7 +195,7 @@ centaure - василёк
 chabe - ключ  
 chai - чай  
 chai kan - чайная (чайхана)  
-chai kupe - чайная чашка  
+chai kupa - чайная чашка  
 chai pote - чайник  
 chakra - колесо  
 chamache - ложка  
@@ -247,8 +247,8 @@ deu - бог
 deu kata - миф  
 deu nagar harfi - деванагари  
 deu sofi - теософия  
-dika - целиться  
-dike - цель  
+fa dika - целиться  
+dika - цель  
 din - религия (вера)  
 din ja - верующий  
 dinamite - динамит  
@@ -414,7 +414,7 @@ gluta - клеиться
 glute bande - пластырь  
 glute fan - глина  
 glute grafi - наклейка  
-glute li - клейкий (липкий)  
+glute di - клейкий (липкий)  
 gol - цель  
 gorila - горилла  
 goton - хлопок  
@@ -554,8 +554,8 @@ ka - чем
 kababu nama - кебаб  
 kaboga - тыква  
 kafe - кофе  
-kafokan - кафе (кофейня)  
-kafopote - кофейник  
+kafe kan - кафе (кофейня)  
+kafe pote - кофейник  
 kaguje - бумага  
 kagujolimon - лайм  
 kalam - ручка  
@@ -617,7 +617,7 @@ kimono* - кимоно
 kina - двигать  
 kinar - край (грань)  
 kinar baryer - забор (ограда)  
-kinograf - фильм (кино)  
+kino grafi - фильм (кино)  
 kinu - двигаться  
 kire - аренда  
 kirogeta - арендовать  
@@ -754,6 +754,7 @@ mahala - квартал
 majang - маджонг  
 majenti - маджента (фуксия)  
 makanful - одуванчик  
+moli - жасмин  
 malnomia - экономика  
 malu - принадлежать  
 man raja - король  
@@ -802,21 +803,21 @@ metalbede - наковальня
 metregraf - карта  
 metregrafia - картография  
 meza tela - скатерть  
-meze - стол  
+meza - стол  
 mi - я  
 migre - миграция  
 migru - переезжать  
-mikrobiologi - микробиология  
-mikrobiu - микроб  
+mikro bio logi - микробиология  
+mikro bio - микроб  
 mikroskope - микроскоп  
 milke - молоко  
 milkokardon - расторопша пятнистая  
 mima - имитировать  
 mimen - мы  
-mimen di - наш  
+mimen su - наш  
 mimer - мим (имитатор)  
 minraya - недооценить  
-minte - мята  
+minta - мята  
 mirdi - слабый  
 misalo - например  
 misha - мешать  
@@ -878,7 +879,7 @@ noma - организовать
 nomia - организация  
 nong - выращивать  
 nong bio logi - агробиология  
-nong li - аграрный  
+nong di - аграрный  
 nong nomi - агрономия  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
@@ -988,10 +989,10 @@ plan - план
 plasta - лепить  
 plasti - пластичный  
 plastike - пластмасса  
-platogeyiste - плоскоземелец  
+plate geo jui ja - плоскоземелец  
 plum - слива  
 polau - плов  
-polbashi - многоязычный  
+poli basha di - многоязычный  
 politer - управляющий  
 polmaro - часто  
 Polnesia - Полинезия  
@@ -1134,7 +1135,7 @@ shava mosim - муссон
 she - вещь  
 shefe - шеф  
 sheihal - положение (ситуация)  
-sheke - камень (камешек)  
+sheki - камень (камешек)  
 shibaya - проиграть (провалиться)  
 shibaya tena - потерять (утратить)  
 shingofota - сверкать (мерцать)  
@@ -1145,7 +1146,7 @@ Shiva - Шива
 shofer - шофёр  
 shopa - покупать (купить)  
 shope - покупка (шоппинг)  
-shoti - сто  
+cen - сто  
 shula - учиться  
 shula - урок (учение)  
 shula guru - учитель  
@@ -1159,24 +1160,24 @@ shuru - начало
 shushi - тихий  
 shutu - искусство  
 si - быть  
-siani - циан  
+cian - циан  
 siborgium - сиборгий  
-sida - сидеть  
-side - сиденье (седло)  
-sifloge - прилагательное  
-sikliste - велосипедист  
-sil - звено  
-silia - серия  
-silke - шёлк  
-silnete - кольчуга  
+fa side - сидеть  
+side loka - сиденье (седло)  
+sifa loga - прилагательное  
+cikle ja - велосипедист  
+sili tika - звено  
+sili - серия  
+silko - шёлк  
+sili nete - кольчуга  
 sing - звезда  
-sinoplate - нагрудник  
-sira - скрывать  
-sirkosheke - булыжник  
-sirplan - заговор (сговор)  
-siyahi - чёрный  
+sina plate - нагрудник  
+fa sir - скрывать  
+cirke sheki - булыжник  
+sir plan - заговор (сговор)  
+kala - чёрный  
 Slave - славянский  
-sofa* - софа (диван, канапе)  
+sofa - софа (диван, канапе)  
 sofita - мудрость  
 soi - соя  
 soi milke - соевое молоко  
@@ -1184,37 +1185,37 @@ soi sos - соевый соус
 soka - искать  
 sol - солнце  
 sol chati - зонтик от солнца  
-solful - подсолнечный  
-somivi - сонный  
-somkamar - спальня  
-sompapil - мак снотворный  
-somu - спать  
+sol ful - подсолнечный  
+sona tabi - сонный  
+sona kamar - спальня  
+sona papil - мак снотворный  
+sona - спать  
 song - сосна  
 sor - замок  
-sori - запереть  
+sor di - запереть  
 sos - соус  
-sosi jinse - гендер  
-sosia - общество (социум)  
+soci jinse - гендер  
+soci - общество (социум)  
 sosis - колбаса (сосиска)  
 sual - вопрос  
-suala - спрашивать  
-sualdokum - анкета  
-suanpurshipi - марино́ванный  
+fa sual - спрашивать  
+sual dokum - анкета  
+achar di - марино́ванный  
 sui - вода  
 Suice - Швейцария  
-suigas - пар  
-suikaboge - тыква горлянка (калабас)  
-suiminte - мята водная  
-suiyau - жажда  
+sui gas - пар  
+sui kaboga - тыква горлянка (калабас)  
+sui minta - мята водная  
+sui yau - жажда  
 sukar - сахар  
-sukarbete - сахарная свёкла  
-sukarchau - сахарный тростник  
-sukaroranje - апельсин  
-suki - счастливый (радостный)  
+sukar bete - сахарная свёкла  
+sukar cau - сахарный тростник  
+sukar oranje - апельсин  
+suka - счастливый (радостный)  
 sundar - красивый  
-sundardaka - украсить  
-sundardake - украшение  
-sundaria - красота  
+fa sundar daka - украсить  
+sundar daka - украшение  
+sundar ta - красота  
 susan - лилия  
 ####T - T  
 tabi - природа (естество, характер)  
@@ -1227,7 +1228,7 @@ tal moku - куст
 tal tela - ковёр  
 tan - стебель  
 tarjum she - перевод  
-tas - блюдо (таз)  
+tasa - блюдо (таз)  
 tatu - татуировка (тату)  
 taza - свежий  
 tehne - техника  
@@ -1264,7 +1265,7 @@ trator gi - трактор
 tri - три (3)  
 truke - обман  
 tu - ты  
-tumen di - ваш  
+tumen su - ваш  
 tundra shan - фьельды  
 tuzi - кролик (заяц)  
 ####U - U  
@@ -1332,7 +1333,7 @@ xenon - ксенон
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
 yam yau - голод  
-yamen di - их  
+yamen su - их  
 yasen - ясень  
 yatim dom - детский дом  
 yau di - нужный  

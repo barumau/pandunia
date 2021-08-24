@@ -34,7 +34,7 @@ amen - 诚实
 amen bil - 忠实  
 amen shin - 信赖  
 ami - 亲爱的  
-an air bio li - 厌氧的  
+an air bio di - 厌氧的  
 an din ja - 不信神的  
 an memo - 忘记  
 an sona - 失眠  
@@ -116,7 +116,7 @@ bata - 鸭
 bateri - 电池  
 bato - 八 (8)  
 baton kasa - 笼  
-bau li - 宝贵  
+bau di - 宝贵  
 bau sheke - 宝石  
 bazar - 市场  
 baze - 底部  
@@ -174,7 +174,7 @@ celu logi - 细胞学
 chabe - 钥匙  
 chai - 茶  
 chai kan - 茶馆  
-chai kupe - 茶碗  
+chai kupa - 茶碗  
 chai pote - 茶壶  
 chakra - 轮子  
 chamache - 匙子  
@@ -221,8 +221,8 @@ desha jan - 公民
 deu - 神  
 deu kata - 神话  
 deu nagar harfi - 天城文  
-dika - 瞄准  
-dike - 目的 (目标)  
+fa dika - 瞄准  
+dika - 目的 (目标)  
 din - 宗教  
 din ja - 信徒  
 dinamite - 甘油炸药  
@@ -359,7 +359,7 @@ glisu - 滑下
 glute bande - 创可贴 (邦迪)  
 glute fan - 黏土  
 glute grafi - 贴纸  
-glute li - 黏的  
+glute di - 黏的  
 gol - 目的  
 gorila - 大猩猩  
 goton - 棉  
@@ -448,7 +448,7 @@ huri - 自由的
 huria - 自由  
 ####I - I  
 iha uma - 骡  
-iki - 的  
+ka - 家  
 inklusa - 包括  
 inmigra - 移民 (移居)  
 inmigran - 移民者  
@@ -494,8 +494,8 @@ ka - 比
 kaboga - 南瓜  
 kade - 鱈  
 kafe - 咖啡  
-kafokan - 咖啡馆  
-kafopote - 咖啡壶  
+kafe kan - 咖啡馆  
+kafe pote - 咖啡壶  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
 kalam - 笔  
@@ -687,6 +687,8 @@ magesium - 镁
 Magribia - 摩洛哥  
 majang - 麻将  
 makanful - 蒲公英  
+moli - 茉莉  
+moli hua chai - 茉莉花茶  
 malnomia - 经济学  
 malu - 属于  
 man raja - 王  
@@ -730,17 +732,17 @@ metallin - 线 (铁丝)
 metregraf - 地图  
 metregrafia - 地图学  
 meza tela - 桌布  
-meze - 桌子  
+meza - 桌子  
 mi - 我  
 migra - 搬家  
-mikrobiologi - 微生物学  
-mikrobiu - 微生物   
+mikro bio logi - 微生物学  
+mikro bio - 微生物   
 mikroskope - 显微镜  
 milkokardon - 水飞蓟  
 mima - 模拟  (模仿)  
 mimen - 我们  
-mimen di - 我们的  
-minte - 薄荷  
+mimen su - 我们的  
+minta - 薄荷  
 mirdi - 微弱的  
 misalo - 比如  
 Misria - 埃及  
@@ -884,8 +886,8 @@ pipre - 胡椒
 piprominte - 辣薄荷  
 piram - 金字塔  
 pise - 云杉  
-plati geyokaskia - 板块构造论  
-platistan - 平原  
+plate geo kaske logi - 板块构造论  
+plate topo - 平原  
 plum - 李子  
 polite - 政府  
 politomode - 政体  
@@ -1004,7 +1006,7 @@ shava kote - 雨衣
 shava mosim - 雨季  
 she - 事物 (东西)  
 sheihal - 事态  
-sheke - 石 (岩)  
+sheki - 石 (岩)  
 shibai - 失败 (击败)  
 shibaya - 输  
 shibaya tena - 亏损 (失去)  
@@ -1022,7 +1024,7 @@ shofa - 开车
 shofer - 司机  
 shopa - 买  
 shope - 购物 (血拼)  
-shoti - सौ  
+cen - सौ  
 shula - 学习  
 shula - 课  
 shula guru - 教师 (老师)  
@@ -1038,51 +1040,51 @@ shuru - 开始
 shusho - 噓  
 shutu - 技术  
 si - 对  
-side - 座部 (马鞍)  
-sifloge - 形容词  
-sikliste - 骑自行车的人  
-sil - 连结  
-silia - 系列  
-silke - 丝绸  
+side loka - 座部 (马鞍)  
+sifa loga - 形容词  
+cikle ja - 骑自行车的人  
+sili tika - 连结  
+sili - 系列  
+silko - 丝绸  
 sing - 星  
-sira - 隐藏  
-sirkosheke - 鹅卵石  
-sirplan - 阴谋 (密谋)  
-siyahi - 黑色  
-sofa* - 沙发  
+fa sir - 隐藏  
+cirke sheki - 鹅卵石  
+sir plan - 阴谋 (密谋)  
+kala - 黑色  
+sofa - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
 soi milke - 豆浆  
 soi sos - 酱油  
 soka - 寻找  
 sol - 太阳  
-solful - 向日葵  
-solsistem - 太阳系  
-somkamar - 卧室 (寝室)  
-sompapil - 鴉片罌粟  
-somu - 睡觉 (困觉)  
+sol ful - 向日葵  
+sol sistem - 太阳系  
+sona kamar - 卧室 (寝室)  
+sona papil - 鴉片罌粟  
+sona - 睡觉 (困觉)  
 song - 松  
 sor - 锁  
-sosi jinse - 社會性別  
-sosia - 社会  
+soci jinse - 社會性別  
+soci - 社会  
 sosis - 香肠  
 sual - 问题  
-suala - 问  
-suanpurshipe - 腌菜  
+fa sual - 问  
+achar - 腌菜  
 sui - 水  
 Suice - 瑞士  
-suigas - 蒸汽  
-suikaboge - 葫芦  
-suiminte - 水薄荷  
-suiyau - 口渴  
+sui gas - 蒸汽  
+sui kaboga - 葫芦  
+sui minta - 水薄荷  
+sui yau - 口渴  
 sukar - 糖  
-sukarchau - 甘蔗  
-suki - 高兴  
+sukar cau - 甘蔗  
+suka - 高兴  
 sundar - 漂亮 (美)  
 sundar shutu - 艺术 (美术)  
-sundardake - 装饰  
-sundaria - 美丽  
-suprize - 惊奇  
+sundar daka - 装饰  
+sundar ta - 美丽  
+supriza - 惊奇  
 susan - 百合花  
 ####T - T  
 tabi - 特性 (生性)  
@@ -1093,7 +1095,7 @@ tal moku - 灌木
 tam - 贪婪的  
 tan - 茎 (梗)  
 tarjum she - 翻译  
-tas - 盘 (碟)  
+tasa - 盘 (碟)  
 taza - 新鲜的  
 tehne - 技术  
 tehne logi - 工艺学  
@@ -1126,7 +1128,7 @@ tri - 三 (3)
 truke - 伎俩  
 tu - 你  
 tumen - 你们  
-tumen di - 你们的  
+tumen su - 你们的  
 tuzi - 兔子  
 ####U - U  
 umami - 鲜味  
@@ -1180,12 +1182,12 @@ vutu - 物体 (物品)
 ####X - X  
 ####Y - Y  
 ya - 他，她，它  
-ya di - 他的  
+ya su - 他的  
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
 yam yau - 饥饿  
 yamen - 他们  
-yamen di - 他们的  
+yamen su - 他们的  
 yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  

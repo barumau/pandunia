@@ -1,6 +1,4 @@
 # english-pandunia
-'s (attributive postposition) - di  
--ic (a person or thing with specific character) - iki  
 @ symbol - adres harfi  
 ####A - A  
 a couple of - duli o sani  
@@ -8,7 +6,7 @@ abattoir (slaughterhouse) - bucha kan
 ability - bil ta  
 Abkhazia - Apsni  
 about (approximately, nearly, almost) - yagu  
-above (over) - supro  
+above (over) - pa supra  
 Abyssinia - Habasha  
 Abyssinian - habasha  
 acacia - akacia  
@@ -19,7 +17,7 @@ accessibility (ease of access) - fasilia da akses
 accessible (within reach) - acesa bil  
 accommodate - domana  
 account - hisabu loge  
-acid - suan  
+acid - suan mate  
 acknowledge - resida  
 acorn - baluta frute  
 act (play a role) - rola  
@@ -31,7 +29,7 @@ actor (actress) - roler
 additional - mas di  
 address - adres  
 adhesive bandage (band-aid, sticking plaster) - glute bande  
-adjective - sifloge  
+adjective - sifa loga  
 administer (govern) - polita  
 administrator - politer  
 admiral - hai amir ja  
@@ -47,7 +45,7 @@ adversary (antagonist, opponent) -
 advice (counsel) - sel  
 advice (recommend) - sela  
 advisor (counselor, mentor) - menter  
-aerobic - air bio li  
+aerobic - air bio di  
 Afghanistan - Afgan  
 afraid (scared) - fobi  
 Africa - Afrika  
@@ -63,11 +61,11 @@ agree (concur) - samraya
 agree (make an agreement) - fa trati  
 agreement (consent) - samrayia  
 agreement (treaty) - trati  
-agricultural - nong li  
+agricultural - nong di  
 agriculture - nong shutu  
 agrobiology - nong bio logi  
 agronomy - nong nomi  
-aim (point) - dika  
+aim (point) - fa dika  
 air - air  
 airforce - air gun  
 airplane - fei gi  
@@ -76,7 +74,7 @@ Aland Islands - Olande nesia
 Alaska - Alaska  
 Albania - Chipe  
 alcohol - alkol  
-alcoholic - alkol li  
+alcoholic - alkol di  
 alga - alga  
 algebra - jebria  
 Algeria - Jayer  
@@ -97,7 +95,7 @@ aluminium - alumin
 always - pansato  
 amateur - hobi ja  
 amaze - fa ajibu  
-amazing (astonishing) - ajibu li  
+amazing (astonishing) - ajibu di  
 ambassador - dayanjiler  
 ambiguous - polmeni  
 America (continent) - Amerika  
@@ -108,12 +106,12 @@ americium - amerikium
 Amerindian (Native American) - asal Amerka jan  
 Amhara (an Ethiopian ethnic group and language) - Amara  
 among (amid, between) - medu  
-amount (quantity) - polia  
+amount (quantity) - poli ta  
 ampere (amp) - amper  
 amplify (scale) - daidarja  
 ampoule (vial) - ampul  
 amuse (entertain) - fa van  
-anaerobic - an air bio li  
+anaerobic - an air bio di  
 anaglyphic (stereoscopic) - dulgrafi  
 anal - anus di  
 analyse (dissect, parse) - fenkata  
@@ -197,12 +195,12 @@ artist - arte ja
 Artsakh - Arcah  
 Aruba - Aruba  
 ascetic - askete  
-asexual - an sekse li  
+asexual - an sekse di  
 ash (ashes) - hui  
 ash tree - yasen  
 Asia - Asia  
 Asian - asia  
-ask (inquire) - suala  
+ask (inquire) - fa sual  
 ask (request, beg, plead; please) - ching  
 asparagus - lusun  
 aspirin - aspirin  
@@ -230,6 +228,7 @@ attack (assault, aggression, hostility) - agres
 attain (accomplish, indicates the current position) - leu  
 attraction (-philia) - filia  
 attribute (charasteristic, quality, feature, description, property) - sifa  
+attributive postposition - di  
 August - mes bato  
 auspicious (promising) - bon sin di  
 Australia - Australia  
@@ -238,7 +237,7 @@ Austria - Ostria
 Austronesia - Austronesia  
 authority (power to give orders) - amir haki  
 autocracy (monarchy) - auto krati  
-autonomous - auto nomi li  
+autonomous - auto nomi di  
 autonomy - auto nomi  
 autumn (fall) - padomosim  
 avocado - avakate  
@@ -325,14 +324,14 @@ bear - urso
 beard - barde  
 beautiful (handsome, good-looking) - bon vide di  
 beautiful (handsome, pretty) - sundar  
-beauty - sundaria  
+beauty - sundar ta  
 beaver - kastor  
 because - sabo da  
 become open - kayu  
 bed - bede  
 bedouin (nomadic) - badavi  
 bedrock - baze petra  
-bedroom - somkamar  
+bedroom - sona kamar  
 bee nest (beehive, wasp's nest) - fong nide  
 bee or wasp - fong  
 beef - mumu nama  
@@ -376,7 +375,7 @@ Biblical - Biblia di
 bicycle (pedal bike) - pedalsikle  
 big (great) - dayi  
 big city - daisite  
-bike (cycle) - sikle  
+bike (cycle) - cikle  
 bilingual - dulbashi  
 bill (check, invoice) - fatura  
 billion (giga-) - giga  
@@ -397,7 +396,7 @@ bite - fa dante
 bitter - kali guste  
 bitter melon - kali melon  
 bitter orange - kali oranje  
-black - siyahi  
+black - kala  
 blacklist - haramliste  
 blacksmith (iron forger) - metaljanger  
 blast furnace - gavi tanur  
@@ -445,6 +444,7 @@ bottom - tal
 boulder - daisheke  
 bow (arch, arc) - arka  
 bow instrument (violin, etc.) - tichin  
+bowl (dish) - tasa  
 box (chest) - sanduku  
 box (container) - kasa  
 boxer - bokse ja  
@@ -460,9 +460,9 @@ bravo! - bravo
 Brazil - Brazil  
 Brazzaville - Brazavil  
 bread - pan  
-breakfast - subyam  
+breakfast - suba yam  
 breast (boob, tit) - mam  
-breastplate - sinoplate  
+breastplate - sina plate  
 breath - nafas  
 breed - jenita  
 brick - dobe  
@@ -519,10 +519,10 @@ Cabo Verde (Cape Verde) - Kabu Verde
 cactus - katus  
 cadmium - kadmium  
 caesium - cesium  
-cafe (coffee shop) - kafokan  
+cafe (coffee shop) - kafe kan  
 cage - baton kasa  
 cake (cookie) - keke  
-calabash - suikaboge  
+calabash - sui kaboga  
 calcite - kalsite  
 calcium (Ca) - kalsium  
 calculate - hisaba  
@@ -606,8 +606,8 @@ ceramic - serame
 Ceres (dwarf planet) - Ceres  
 cerium - cerium  
 Chad - Chade  
-chain - silsil  
-chain mail - silnete  
+chain - sili sili  
+chain mail - sili nete  
 chair - kurse  
 Champagne - shampan  
 champagne - shampan vin  
@@ -638,7 +638,7 @@ chemistry - kimlojia
 cherry - cheri  
 cherub - kerubi  
 chess - shatranje  
-chest (breast) - sine  
+chest (breast) - sina  
 chestnut - kastan  
 chicken - koko  
 chickpea - humus  
@@ -667,14 +667,14 @@ chronic (lasting) - duri
 chum salmon - baki salmon  
 church - eglis  
 cigarette (cigar) - sigar  
-cinematic - kinografi  
-cinematography - kinografia  
-circle (round) - sirke  
+cinematic - kino grafi di  
+cinematography - kino grafi arte  
+circle (round) - cirke  
 citizen - desha jan  
 citrus fruit - limonike  
 city (town) - citi  
-civilization - sivilia  
-civilized (civil) - sivili  
+civilization - civil ta  
+civilized (civil) - civil  
 clarify (clear up) - klara  
 class (category) - klas  
 classic (authoritative, definitive) - kanon di  
@@ -711,7 +711,7 @@ club - klube
 coast (beach) - haitate  
 coat - kote  
 cobalt - kobalte  
-cobblestone - sirkosheke  
+cobblestone - cirke sheki  
 coca - koka  
 Coca-Cola - Koka Kola  
 cocktail - mishi alkol  
@@ -722,8 +722,8 @@ cod - kade
 code (cipher) - kode  
 coercion - mus  
 coffee - kafe  
-coffee cup - kafokupe  
-coffeepot - kafopote  
+coffee cup - kafe kupa  
+coffeepot - kafe pote  
 coin - pesodiske  
 cola - kola  
 cold (illness) - zukam  
@@ -768,7 +768,7 @@ compost - bio cana she
 compute (to process data) - fa komputa  
 computer - komputa  
 concentrate - fokusa  
-conceptual - ideyi  
+conceptual - idea di  
 concert - konserte  
 concrete (material with cement) - beton  
 condition (requirement) - sharte  
@@ -788,7 +788,7 @@ connect (join, link) - linka
 consequence (back, follow-up) - pos  
 consitution - baze kanun  
 consonant - kinar fon  
-conspiracy (plot) - sirplan  
+conspiracy (plot) - sir plan  
 consume (eat or drink) - yam  
 contain (include) - inda  
 container - inan  
@@ -884,8 +884,8 @@ custom (tradition, practice, convention) - rite
 customer (client, patron) - klien  
 cut - kata  
 cute (sweet) - kavayi  
-cyan - siani  
-cyclist - sikliste  
+cyan - cian  
+cyclist - cikle ja  
 cyclone (hurrican, tornado, typhoon) - rototafun  
 Cyprus - Kipris  
 Cyrillic alphabet - kirili harfia  
@@ -901,7 +901,7 @@ damaged (corrupt) - avar di
 dance - danse  
 dandelion - makanful  
 danger (peril) - hatar  
-dangerous (perilous) - hatar li  
+dangerous (perilous) - hatar di  
 Danish - dani  
 dark (dim) - oskuri  
 darling (honey) - ai jen  
@@ -926,11 +926,11 @@ debate (discuss) - lona
 debug - fa an galta  
 decay (rot, deteriorate) - pudu  
 December - mes des du  
-deci- - dechi*  
-decibel - dechibel  
+deci- - deci  
+decibel - deci bel  
 decode (decrypt) - an kode  
-decorate (embellish) - sundardaka  
-decoration (ornament) - sundardake  
+decorate (embellish) - fa sundar daka  
+decoration (ornament) - sundar daka  
 decrease (lessen) - mina  
 decrement - mindarja  
 dedicate (devote) - satodona  
@@ -948,13 +948,13 @@ Deimos - Deimos
 delicious (yummy) - bon guste di  
 democracy - demokrati  
 democrati - demokratiste  
-democratic - demo krati li  
+democratic - demo krati di  
 demography - demo grafi  
 demon - demon  
 Denmark - Dan  
 dentist - dantomediker  
 depth - fastelia  
-descriptive - sifi  
+descriptive - sifa di  
 desert - registan  
 desk - karmeze  
 despise (scorn) - paraya  
@@ -972,14 +972,14 @@ dictionary (word list) - logoliste
 die (dice) - zar kube  
 die - mortu  
 difference - alo sifa  
-different - alo sifa li  
+different - alo sifa di  
 dig (excavate) - kava  
 dining room - yam kamar  
 dinner - sham yam  
 Dione - Dione  
 diorite - diorite  
-direction - dish  
-directly - disho  
+direction - disha  
+directly - disha di  
 dirty (soiled, polluted, defiled, tainted, unclean, impure) - najisi  
 disagree - alo rai  
 disagreement (disconsent) - alo rai  
@@ -989,7 +989,6 @@ discrete (digital, quantized) - feni
 discussion (debate, discourse) - lon  
 disease - pate  
 disfigure - dusforma  
-dish - tas  
 dislike (loathe) - an ai  
 disperse (spread out, scatter) - an jami  
 distance (far away) - tele  
@@ -997,7 +996,7 @@ distance (length) - tele ta
 distinction (specialty) - hasia  
 distinguish - hasa  
 divide (to partition) - fena  
-divine (godly) - deu li  
+divine (godly) - deu di  
 Djibouti - Jibuti  
 do - fa  
 doctor (medic, physician, healer) - mediker  
@@ -1044,7 +1043,7 @@ drinking vessel (cup, glass, mug, goblet, chalice) - kupa
 drive (steer) - shofa  
 drop (droplet) - giota  
 drop (let fall) - pada  
-drowsy - somivi  
+drowsy - sona tabi  
 drug (intoxicating substance) - droge  
 drum - guma  
 dry - gani  
@@ -1304,7 +1303,7 @@ finish (complete, end) - fin
 finished - finiti  
 finite (limited) - limiti  
 Finland - Suomi  
-Finnish - suomi  
+Finnish language - suomi basha  
 fir tree - abies  
 fire (burning) - hoge  
 fireworks (pyrotechnics) - hogotehne  
@@ -1319,8 +1318,8 @@ five (5) - penta
 fix (attach) - fiksa  
 fjord - fiorde  
 flag (banner) - bandera  
-flat (planar) - plati  
-flat-earther - platogeyiste  
+flat (planar) - plate di  
+flat-earther - plate geo jui ja  
 flatbread (chapati, roti) - chapati  
 flerovium - flerovium  
 fletcher - flecher  
@@ -1354,12 +1353,12 @@ forbidden (illicit, haram, taboo) - harami
 force (strength, power) - fortia  
 foreign - eshdeshi  
 foreign country - eshdesh  
-forenoon - suboden  
+forenoon - suba den  
 forest (woods, jungle) - jangal  
 forget - an memo  
 forgive (pardon) - mafa  
 fork - forke  
-form (questionaire) - sualdokum  
+form (questionaire) - sual dokum  
 form (shape) - forme  
 formatting - kitaboforme  
 forum (public space) - forum  
@@ -1453,7 +1452,7 @@ get off (descend) - an eskala
 get tired (become weary) - fatigu  
 getter (receiver, recipient) - geter  
 Ghana - Gana  
-gherkin (pickle) - suanpurshipi hiyar  
+gherkin (pickle) - achar hiyar  
 ghost (phantom) - fantom  
 ghoul - gul  
 giant onion - dailasun  
@@ -1500,7 +1499,7 @@ gradient (gradation, incline) - darjomeden
 gradual - darji  
 gram (g) - gram  
 grammar - basha kanun  
-grammatical - basha kanun li  
+grammatical - basha kanun di  
 grammatical gender - bashi jinse  
 grandchild - benben  
 grandfather - chin pa  
@@ -1509,7 +1508,7 @@ grandparent - chin chin
 granite - granite  
 grape - putau  
 grapefruit - putau oranje  
-graphic (pictorial) - grafi li  
+graphic (pictorial) - grafi di  
 grass - cau  
 grassland (prairie) - cau istan  
 grave (tomb, bury) - gabur  
@@ -1613,14 +1612,14 @@ helper (supporter, proponent, backer) - helpeja
 Helsinki - Helsinki  
 heritage (legacy, bequest) - varis  
 hero - hero  
-heroic - hero li  
+heroic - hero di  
 hertz (Hz) - herze  
 Hesse - Hesia  
 heteroromantic - alo romanse  
-heterosexual - alo sekse li  
-hexagon - sisgon  
-hexahedron (cube) - sisfas  
-hide (conceal) - sira  
+heterosexual - alo sekse di  
+hexagon - luku gon  
+hexahedron (cube) - luku fas  
+hide (conceal) - fa sir  
 high (tall) - gavi  
 high technology (hi-tech) - gautehnia  
 Himalayas - Himalia  
@@ -1630,7 +1629,7 @@ Hinduism - Hindu din
 Hindustan - Hindu desh  
 hinge (pivot) - sharnir  
 hippopotamus - gubu  
-his or her - ya di  
+his or her - ya su  
 hispanophone (Spanish speaking) - espanfoni  
 historian - histori ja  
 history (annals) - histori  
@@ -1641,7 +1640,7 @@ hobby - hobi
 hobbyist - hobi ja  
 hockey - hoke  
 hoe - chope  
-hold (detain) - estasa  
+hold (detain) - fa estaci  
 hold together - jamhafiza  
 hole - kong  
 holiday - festoden  
@@ -1687,7 +1686,7 @@ hummus - humus sos
 humor - yumor  
 humorist - yumor ja  
 humorous (comical, funny) - yumor di  
-hundred (100) - shoti  
+hundred (100) - cen  
 Hungary - Magyaria  
 hunger - yam yau  
 hunt (fish) - saida  
@@ -1708,9 +1707,9 @@ ice - ais
 ice cream - ais krem  
 ice hockey - ais hoki  
 Iceland - Islande  
-icy - ais li  
-idea (concept, notion) - idei  
-ideogram - ideigraf  
+icy - ais di  
+idea (concept, notion) - idea  
+ideogram - idea harfi  
 ideology (principle, doctrine, -ism) - jui  
 idiocy (stupidity) - idiotia  
 idiot - idiote  
@@ -1778,7 +1777,7 @@ international - nasmedi
 internet - internete  
 interpreter (translator) - tarjum ja  
 interracial - rasa medi  
-interrogative - sualan  
+interrogative - sual di  
 introspection - introspete  
 introvert - introversi  
 invite - ching lai  
@@ -1798,7 +1797,7 @@ islamophobia - islamfobia
 island - nesia  
 Isle of Man - Manin nes  
 Israel - Israel  
-issue (affair, concern) - sualtem  
+issue (affair, concern) - sual tema  
 Italy - Italia  
 ####J - J  
 jackal - shakal  
@@ -1813,7 +1812,8 @@ January - mes un
 Japan - Nipon  
 Japanese - niponi  
 jar (jug, pitcher, carafe, amphora, vase) - jar  
-jasmine - malike  
+jasmine - moli  
+jasmine tea - moli hua chai  
 jazz - jaze  
 jealous - jelosi  
 jellyfish (seajelly) - haijel  
@@ -1873,7 +1873,7 @@ kilogram (kg) - kilogram
 kilometer (km) - kilomitre  
 kimono - kimono*  
 kind (style, sort, type) - yang  
-kinetic - kini  
+kinetic - kino di  
 king - man raja  
 king or queen - raja  
 kingdom - raja desha  
@@ -1979,7 +1979,7 @@ light (illumination) - foto
 light (weightless) - legi  
 light blue (sky blue, azure) - sama blu  
 lightning bolt - eletrorade  
-like (enjoy, be fond of) - suku  
+like (enjoy, be fond of) - be suka  
 like - fila  
 lilac - lila  
 lilac color - lila rang  
@@ -1992,8 +1992,8 @@ limit (boundary) - limite
 line (thread, string) - lin  
 line break (newline) - linparche  
 linguistics - basha logi  
-link - sil  
-lion - sing  
+link - sili tika  
+lion - singa  
 lip - labi  
 liquid - riumate  
 list (listing, catalogue) - liste  
@@ -2011,9 +2011,9 @@ livermorium - livermorium
 llama - liame  
 loanword - jekologe  
 local - loka di  
-lock (fasten) - sora  
+lock (fasten) - fa sor  
 lock (fastener) - sor  
-locked (secure) - sori  
+locked (secure) - sor di  
 log (trunk) - mokotan  
 logbook - loge buku  
 logic (deduction) - logika  
@@ -2182,17 +2182,17 @@ merge (fuse) - rivunu
 meridian (line of longitude) - ging cirke  
 message - anjil  
 messenger - anjil ja  
-messianic - mesi li  
+messianic - mesi di  
 metal - metal  
 meter (100 cm) - mitre  
 meter (measuring device) - metre gi  
 method (means) - metode  
 Mexico - Mehiko  
 Mexico City - Mehiko citi  
-micro- - mikro*  
-microbiology - mikrobiologi  
+micro- - mikro  
+microbiology - mikro bio logi  
 Micronesia - Mikronesia  
-microorganism (microbe) - mikrobiu  
+microorganism (microbe) - mikro bio  
 microscope - mikroskope  
 middle (center) - jung  
 middle (the part in between) - medi  
@@ -2204,9 +2204,9 @@ milk - milke
 milk thistle - milkokardon  
 mill - molia  
 miller - moler  
-milli- - mili*  
-milligram - miligram  
-millimeter - milimitre  
+milli- - mili  
+milligram - mili gram  
+millimeter - mili metre  
 million (mega-) - mega  
 Mimas - Mimas  
 mimic (imitate) - mima  
@@ -2223,7 +2223,7 @@ minister - minister
 ministry - ministeria  
 minor (not major) - minori  
 minority - minoria  
-mint - minte  
+mint - minta  
 minute - minute  
 Miranda - Miranda  
 mirror - mirer  
@@ -2268,7 +2268,7 @@ mooncake - luna keke
 moral - deki  
 morality (ethics) - deke  
 more - mas  
-morning (dawn) - sube  
+morning (dawn) - suba  
 Morocco - Magribia  
 morph - morfe  
 morpheme - morfem  
@@ -2290,9 +2290,9 @@ move (migrate, relocate oneself) - migru
 move (migrate, relocate) - migra  
 move (transfer, shift, stir, budge, rouse, motivate, inspire) - kina  
 move oneself - kinu  
-movement - kine  
-movie (cinema) - kinograf  
-movie theatre - kinografkan  
+movement - kino  
+movie (cinema) - kino grafi  
+movie theatre - kino grafi kan  
 Mozambique - Mozambike  
 MSG (monosodium glutamate) - vijin  
 mud (mire) - fan  
@@ -2300,7 +2300,7 @@ muddy - fani
 mule - iha uma  
 multicultural - polkulturi  
 multiculturalism - polkulturistia  
-multilingual - polbashi  
+multilingual - poli basha di  
 multinational - polnasi  
 Mumbai (Bombay) - Mumbai  
 mummy - mumjan  
@@ -2316,7 +2316,7 @@ muslim (moslem) - islam din jan
 must - debu  
 mutual (each other’s) - semen di  
 Mx. (Mr. or Ms.) - shi  
-my - mi di  
+my - mi su  
 Myanmar (Burma) - Myanma  
 mycelium - fungu nete  
 myth (divine story) - deu kata  
@@ -2488,7 +2488,7 @@ open (not closed) - kayi
 open (wide, spacious) - medeni  
 open - kaya  
 opinion (view) - rai  
-opium poppy - sompapil  
+opium poppy - sona papil  
 opportunity (chance) - chanse  
 oppose (antagonize, object, resist) - shata  
 optical fibre (optical cable) - foto lin  
@@ -2502,7 +2502,7 @@ order (arrange) - ratibu
 order (arrangement, sequence) - ratibu  
 order (command) - amir  
 orderly (organized, in sequence, tidy, regular) - ratibu di  
-ordinary (customary, habitual, normal) - ada li  
+ordinary (customary, habitual, normal) - ada di  
 organism (living thing) - bio vute  
 orgasm - orgazme  
 oriental poppy - guipapil  
@@ -2522,7 +2522,7 @@ otter - lotra
 Ottoman - osman  
 Ottoman Empire - Osmani Imperia  
 ouch (ow, alas) - au  
-our - mimen di  
+our - mimen su  
 oust (expel, exclude, except, save) - esha  
 outcast (pariah) - paraye  
 outer (external) - eshi  
@@ -2532,7 +2532,7 @@ outsider - eshojan
 outward (external) - eshtri  
 oven (furnace) - tanur  
 overestimate -   
-overpass - supre  
+overpass - supra  
 own (possess, have) - mala  
 owner (proprietor) - malan  
 oxeye daisy - baki margarite  
@@ -2643,11 +2643,12 @@ peppermint - piprominte
 perfect (optimize, refine, polish) - purbona  
 perfect - purboni  
 period (era, epoch, term) - durzam  
-peripheral - kinar li  
+peripheral - kinar di  
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
 person (individual, -ist, -er) - jan  
-personal (intimate, private, custom) - auto li  
+person engaged in a profession or practice (-ic, -er) - ka  
+personal (intimate, private, custom) - auto di  
 personal identification number (PIN) - sekurnumbe  
 personalize (customize) - auta  
 perspective (point of view) - vide punte  
@@ -2671,8 +2672,8 @@ physics (science) - fizikia
 physics - fizike  
 piano - piano*  
 pickaxe - pinchope  
-pickle (preserve in vinegar or brine) - suanpurshipa  
-pickled - suanpurshipi  
+pickle (preserve in vinegar or brine) - fa achar  
+pickled - achar di  
 picnic - eshyam  
 picture book - grafi buku  
 pidgin (contact language) - pijin  
@@ -2704,32 +2705,32 @@ pizza - pize
 pizzeria - pizokan  
 place (location) - loka  
 plain (ordinary, unadorned, simple, mere) - sadi  
-plain (plateau, flat lands) - platistan  
+plain (plateau, flat lands) - plate topo  
 plan - plan  
 plane (plate) - plate  
 plane (tool for making a smooth surface) - rande  
 plane hijacker - fei gi di kape ja  
 planet - planete  
 plant (vegetable, vegetation) - fito  
-plasma (ionized gas) - plazme  
+plasma (ionized gas) - plazma  
 plastic (moldable, malleable) - plasti  
 plastic - plastike  
-plate - platotas  
-plate tectonics - plati geyokaskia  
-plateau (tableland) - mezistan  
-platform - platoforme  
+plate - plate tasa  
+plate tectonics - plate geo kaske logi  
+plateau (tableland) - meza topo  
+platform - plate forma  
 platinum - platin  
 Plato - Platon  
-Platonic - platonisti  
-Platonism - platonistia  
-Platonist - platoniste  
+Platonic - Platon jui di  
+Platonism - Platon jui  
+Platonist - Platon jui ja  
 platypus - bata krote  
 play a game - gema  
 play music - muzika  
 playdough - plastopaste  
 player (gamer) - gemer  
-please (satisfy, delight) - suka  
-pleased (delighted, happy) - suki  
+please (satisfy, delight) - fa suka  
+pleased (delighted, happy) - suka  
 pliers (pincers) - pinser  
 plug (stop with a plug) - fa tapa  
 plum (prune) - plum  
@@ -2748,8 +2749,8 @@ poison (venom) - toksi
 poker - poke  
 Poland - Polske  
 polecat (ferret) - furete  
-police - polis  
-police officer - poliser  
+police - police  
+police officer - police ja  
 polish - foto frika  
 Polish - polski  
 polite - kechi  
@@ -2758,11 +2759,11 @@ politician (statesman) - politike
 politicology - politolojia  
 politics - politia  
 polonium - polskium  
-poly- (multi-) - pol-  
-polygon - polgon  
+poly- (multi-) - poli  
+polygon - poli gona  
 polyhedron - polfas  
 Polynesia - Polnesia  
-polytheism - poldevistia  
+polytheism - poli deu jui  
 ponder (think, contemplate, consider, regard) - hema  
 pool (basin, bowl) - basen  
 poor (miserable) - miskini  
@@ -2778,6 +2779,7 @@ portion (dose) - doze
 Portugal - Portugal  
 pose (position) - poze  
 pose (set, plant) - poza  
+possessive postposition (’s) - su  
 possible (able, can, maybe) - bil  
 post (stake, peg, skewer) - zong  
 post office - postokan  
@@ -2791,7 +2793,7 @@ potion - medikosui
 potter - poter  
 pottery - poteria  
 pound (£) - paunde  
-power (authority, rule) - sultia  
+power (authority, rule) - sultan  
 practical (pragmatic) - prati  
 practice (actuality) - prate  
 practice (to exercise) - lensha  
@@ -2801,7 +2803,7 @@ praise (eulogy) - euloge
 praseodymium - prasedium  
 pray (beg, entreat, implore) - dua  
 prayer - dua  
-precious - bau li  
+precious - bau di  
 precise (exact, accurate) - justi  
 predate (be before) - chena  
 prefer (favor) - mas fili  
@@ -2828,7 +2830,7 @@ problematic - problemi
 process (procedure) - proses  
 produce (create, make) - cana  
 production - cana ya  
-productive (fertile) - cana li  
+productive (fertile) - cana di  
 profession (job, occupation, trade, vocation) - pei gung  
 professional (occupational, career) - pei gung di  
 professional (pro) - pei gung ja  
@@ -2854,7 +2856,7 @@ protect (secure, save) - sekura
 prove (demonstrate, testify) - dalila  
 proximity - karibe  
 psychology - ruhulogi  
-public - demo li  
+public - demo di  
 pudding - puding  
 Puerto Rican - portoriki  
 Puerto Rico - Portorikia  
@@ -2870,7 +2872,7 @@ put forward (advance, progress) - jina
 pyramid - piram  
 pyrolatry - hogopujia  
 Qatar - Katar  
-qualify (describe) - sifa  
+qualify (describe) - fa sifa  
 quark (paneer) - panir  
 quarter (neighbourhood, district, locality, section of town) - mahala  
 quartz - kuarze  
@@ -2939,7 +2941,7 @@ reinforcements - mas forte
 relationship (association, connection) - guanshe  
 relic - chenike  
 religion (worship) - din  
-religious - din li  
+religious - din di  
 reluctant - an icha ja  
 remain (stay) - restu  
 remember (recall) - mema  
@@ -2983,7 +2985,7 @@ rhinoceros - kornonos
 rhodium - rodium  
 rhyme (verse) - rim  
 rhythm (beat) - ritim  
-rib cage - sinokapse  
+rib cage - sina kasa  
 rice - ris  
 rice cake (puffed rice cake) - ris biskute  
 rice wine - ris vin  
@@ -3035,7 +3037,7 @@ rotate (spin, turn on an axis) - rotu
 rotor (rotator) - roter  
 rotten - pudi  
 rough (coarse) - karsi  
-round (circular) - sirki  
+round (circular) - cirke di  
 route (path, trail, course, itinerary) - rute  
 routine (habit) - rutin  
 royal - raja di  
@@ -3045,13 +3047,13 @@ rubidium - rubidium
 ruby - lal bau sheke  
 rude (offensive) - nindi  
 ruin (destroy, devastate, demolish) - harabu  
-rule (be in charge) - sulta  
+rule (be in charge) - fa sultan  
 rule (reign, government, -ocracy, -archy) - krati  
-ruler - sultan  
+ruler - sultan ja  
 rum - rum  
 run - kora  
 runner - korer  
-rural (rustic) - nong istan li  
+rural (rustic) - nong topo di  
 rural village - nong chun  
 Russia - Rusia  
 Russian language - rusia basha  
@@ -3136,11 +3138,11 @@ seaborgium - siborgium
 seagrass - haichau  
 search (seek, look for) - soka  
 season - mosim  
-seat (saddle) - side  
+seat (saddle) - side loka  
 seaweed (macroalgae) - hai alga  
 second(s) - sekunde  
 secondary school - jungoshulkan  
-secret - siri  
+secret (hidden) - sir  
 secretariat - sekreteria  
 secretary - sekreter  
 seed (fertilized grain) - semdan  
@@ -3164,17 +3166,17 @@ sensor (detector) - senser
 sentence (phrase) - jumle  
 September - mes tisa  
 Serbia - Serbia  
-series (sequence) - silia  
+series (sequence) - sili  
 servant - server  
 serve (give service) - serva  
 service - serve  
 sesame - sesam  
 seven (7) - sete  
-sew - suta  
+sew - siu  
 sex (sexual relation) - sekse  
 sexology - sekselogi  
 sexual (pertaining to gender) - jinsi  
-sexy (sexually arousing) - sekse li  
+sexy (sexually arousing) - sekse di  
 Seychelles - Seshel nesia  
 shadow - saya  
 shake (jolt, earthquake) - sismo  
@@ -3221,21 +3223,21 @@ side (flank) - late
 sideways (laterally) - lato  
 Sierra Leone - Salon  
 sign (autograph) - namkitaba  
-sign (signal) - sinye  
-Sikh - sikiste  
-Sikhism - sikistia  
+sign (signal) - sin  
+Sikh - siki din ja  
+Sikhism - siki din  
 silence (make silent) - shusha  
 silent - shushi  
-silicon - silike  
-silk - silke  
+silicon - silicium  
+silk - silko  
 silver - argente  
 similar (analogous) - samsifi  
-simple (not complicated) - simpli  
+simple (not complicated) - simple  
 simply (merely, only) - sado  
 sing - chante  
 Singapore - Singapur  
-sit (put down) - sida  
-sit down - sidu  
+sit (put down) - fa side  
+sit down - side  
 situation (circumstances, state of affairs) - sheihal  
 situational irony - sheihalironia  
 six (6) - luku  
@@ -3251,8 +3253,8 @@ skull - sar oste
 sky (heaven) - sama  
 slab (slate, tablet, board) - table  
 Slavic - Slave  
-sleep (be asleep) - somu  
-sleep - som  
+sleep - sona  
+sleep - sona  
 sleeve - kamisa shake  
 slide (slip, glide, skate) - glisu  
 slipper - babuche  
@@ -3271,33 +3273,33 @@ smoothen with a plane - randa
 smurf - blu elfe  
 snack - lilyam  
 snake (serpent) - serpe  
-sneak - siro motu  
+sneak - sir move  
 sneeze (achoo) - achi  
 sniper (sharpshooter) - justopaver  
 snow (be snowing) -   
 snow - hima  
 soak (steep, marinate) - purshipa  
 soap - sabun  
-social - sosi  
-social gender - sosi jinse  
-social media - sosi media  
-socialism - sosistia  
-socialist - sosiste  
-socialize (interact) - sosa  
-society (association) - sosia  
+social - soci di  
+social gender - soci jinse  
+social media - soci medi gi  
+socialism - soci jui  
+socialist - soci jui ja  
+socialize (interact) - fa soci  
+society (association) - soci  
 sock (stocking) - maze  
 sockeye salmon - lal salmon  
 sodium - natre  
 sofa (couch) - kanape  
-sofa (couch) - sofa*  
+sofa (couch) - sofa  
 soft - komali  
 soil (dirt) - darte  
 soily (dirty) - darti  
-solar system - solsistem  
+solar system - sol sistem  
 soldier - gunjan  
 solid - gatomate  
 Solomon Islands - Solomon nesia  
-solstice - solestas  
+solstice - sol estaci  
 Somalia - Somal  
 Somaliland - Somal Desha  
 some (one) - yo  
@@ -3308,18 +3310,18 @@ son - mani pute
 song - chante  
 soon - sun  
 soul (mind, psyche) - ruhu  
-sound (audio) - son  
-sound (make a sound) - sona  
-soup (stew) - supe  
-sour - suani  
+sound (audio) - soni  
+sound (make a sound) - fa soni  
+soup (stew) - supa  
+sour - suan  
 south - sude  
-South Africa - Sudafrike  
-South America - Sudi Amerike  
-South Georgia and the South Sandwich Islands - Sudi Jorjia e Sudi Sanduiche nesia  
-South Korea (Republic of Korea) - Sudi chosen  
-South Ossetia (Alania) - Sudi Iria (Alonia)  
-South Sudan - Sudi Sudan  
-southern - sudi  
+South Africa - Sude Afrika  
+South America - Sude Amerika  
+South Georgia and the South Sandwich Islands - Sude Jorjia e Sudi Sandviche nesia  
+South Korea (Republic of Korea) - Sude Chosen  
+South Ossetia (Alania) - Sude Iria (Alonia)  
+South Sudan - Sude Sudan  
+southern - sude di  
 soy bean - soi  
 soy milk - soi milke  
 soy sauce - soi sos  
@@ -3328,14 +3330,13 @@ space (cosmos, universe) - kosmo
 spaceship - kosmo nave  
 spade - parke bele  
 Spain - Espanya  
-sparse (scattered) - an jami li  
+sparse (scattered) - an jami di  
 speak (talk, language, communication) - basha  
 spear thistle - perkardon  
 spearmint - zong minte  
 special (distinct) - hasi  
 species - jong  
-spectator (observer) - speter  
-spectator (sightseer) - vide ja  
+spectator (sightseer, observer) - vide ja  
 speech (talk, words) - loga  
 speed (velocity) - rapide ta  
 speedometer - rapide metre gi  
@@ -3358,7 +3359,7 @@ squash (pumpkin, gourd) - kaboga
 squeeze (squish) - inpusha  
 squid (cuttlefish) - kalmar  
 squirrel - ekore  
-Sranan Tongo - surinami bash  
+Sranan Tongo - surinam basha  
 Sri Lanka (Ceylon) - Lanka  
 stadium (arena) - estadia  
 stage (phase) - faze  
@@ -3368,17 +3369,17 @@ stained glass - rang kancha
 stairs (ladder) - eskale  
 stand (rack) - libobaze  
 stand - libu  
-stand still - estasu  
+stand still - be estaci  
 star - sing  
 starboard (right side of a ship) - nave raite  
 starship - astro nave  
 state (condition, status, situation) - hal  
-static (stationary) - estasi  
-station - estasia  
+static (stationary) - estaci di  
+station - estaci  
 stay behind (linger) - lashu  
 steal - chora  
-stealth - siri mote  
-steam (vapor) - suigas  
+stealth (secrecy) - sir ta  
+steam (vapor) - sui gas  
 steamed bun (mantou, manti) - mantu  
 stem (torso, trunk, stalk) - tan  
 step (degree, rank, grade, level, class) - darja  
@@ -3390,9 +3391,9 @@ step-sibling - chin gam ben
 stereophonic - dulsondi  
 stick (adhere, paste, glue) - gluta  
 sticker - glute grafi  
-sticky (ahesive) - glute li  
+sticky (ahesive) - glute di  
 stipulate - sharta  
-stone (piece of rock) - sheke  
+stone (piece of rock) - sheki  
 stop (halt) - be ting  
 stop (halt) - fa ting  
 stop - ting  
@@ -3401,7 +3402,7 @@ stopwatch - durmetrer
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
 straight - orti  
 straighten - orta  
-strange (unknown) - an sabi li  
+strange (unknown) - an sabi di  
 stray (deviant) - rutogalti  
 stray (deviate) - rutogalta  
 strengthen (reinforce) - forta  
@@ -3430,41 +3431,41 @@ suffer (get hurt) - pashu
 suffering - pashia  
 suffix - posfikse  
 sugar - sukar  
-sugar beet - sukarbete  
+sugar beet - sukar bete  
 sugar-apple (sweetsop) - ata  
-sugarcane - sukarchau  
-sugary (sweet) - sukari  
-suggest (propose) - suja  
+sugarcane - sukar cau  
+sugary (sweet) - sukar di  
+suggest (propose) - fa suje  
 suggestion (proposal) - suje  
 suitable (appropriate, apt, fit) - hapi  
-sulfur (brimstone) - sulfe  
-sultanate - sultania  
+sulfur (brimstone) - sulfur  
+sultanate - sultan desha  
 sum (total) - sum  
-sum up (add together) - suma  
+sum up (add together) - fa sum  
 summer - garma mosim  
 summon (add, spawn, actualize) - zai fa  
 sun - sol  
 Sunday - var sete  
-sunflower - solful  
-superb (wonderful, super) - superi  
+sunflower - sol ful  
+superb (wonderful, super) - super  
 supply (dispense, issue, put out) - fada  
 surface (face) - fas  
 Suriname - Surinam  
 surname (family name) - familnam  
-surpass (go over) - supra  
-surprise - suprize  
+surpass (go over) - be supra  
+surprise - supriza  
 surrender (submit, yield) - islamu  
-surround (encircle) - sirka  
+surround (encircle) - fa cirke  
 sushi - sushi  
 suture (seam) - sutur  
 Svalbard - Sualbarde  
 Swahili - suahili  
 swallow - gula  
 swastika (hooked cross) - huke krus  
-sweat (perspiration) - suede  
-sweaty - suedi  
-Sweden - Suenia  
-sweet orange - sukaroranje  
+sweat (perspiration) - sueda  
+sweaty - sueda di  
+Sweden - Sven  
+sweet orange - sukar oranje  
 sweet potato - kamote  
 Switzerland - Suice  
 sword - katane  
@@ -3472,9 +3473,9 @@ symmetry (symmetrical) - sammetre
 Syria - Suria  
 syrup - shirope  
 system - sistem  
-systemic - sistem li  
+systemic - sistem di  
 ####T - T  
-table - meze  
+table - meza  
 table of contents (inventory) - inliste  
 tablecloth - meza tela  
 tablette computer - table komputa  
@@ -3497,7 +3498,7 @@ Tanzania - Tanzania
 Taoism (Daoism) - dau din  
 Taoist - dau din ja  
 tape - tepe  
-target (aim, objective) - dike  
+target (aim, objective) - dika  
 tarif (tax, duty) - tarif  
 taste (flavor) - guste  
 taste (sense flavor) - gusta  
@@ -3507,7 +3508,7 @@ tattoo - tatu
 taxi (cab) - taksi kar  
 taximeter - taksi metre gi  
 tea - chai  
-tea cup - chai kupe  
+tea cup - chai kupa  
 tea house - chai kan  
 teach (educate, instruct, doctrine, -ism) - giau  
 teacher (instructor) - giau ja  
@@ -3565,7 +3566,7 @@ that over there - u
 the (that) - a  
 the Grenadines - Grenadin nesia  
 theft - chor  
-their - yamen di  
+their - yamen su  
 theism - deu din  
 theist - deu din ja  
 theocracy - deu krati  
@@ -3580,7 +3581,7 @@ thickness - grosta
 thief - chorer  
 thing - she  
 think (ponder, reflect) - fikir  
-thirst - suiyau  
+thirst - sui yau  
 this - i  
 thistle - kardon  
 thorium - torium  
@@ -3740,14 +3741,14 @@ unity - unta
 universal - un verse di  
 university - daishulkan  
 unlock - an sora  
-unlocked - an sora li  
+unlocked - an sora di  
 unnecessary (extraneous, unneeded) - no yau di  
 unplug (uncork) - an tapa  
 unrest - an pace  
 until (til, up to) - hata  
 upgrade (level up) - bon darja  
 upload - netodona  
-upper - supri  
+upper - supra di  
 uranium - uranium  
 Uranus - Uran  
 urban - nagar di  
@@ -3846,11 +3847,11 @@ Washington D####C - Vashington DC
 water - sui  
 water buffalo - karbau  
 water lily (nenuphar) - nenufar  
-watercolor - suirang  
+watercolor - sui rang  
 watermelon - arbuza  
-watermint - suiminte  
-waterproof - suisekuri  
-watery - suyi  
+watermint - sui minta  
+waterproof - sui sekur di  
+watery - sui di  
 watt - vate  
 wave - onde  
 wax - mum  
@@ -3901,7 +3902,7 @@ wiki - viki
 wiki article - viki makala  
 wild (savage) - ekojeni  
 wild (savage) - vilde  
-will (volition, desire) - iche  
+will (volition, desire) - icha  
 will (want) - icha  
 wind - hava  
 window - janel  
@@ -3949,7 +3950,7 @@ yay! (yeah!) - yei
 year - nen  
 yeast - hamir  
 yellow - limonrangi  
-yellow starthistle - solchentaur  
+yellow starthistle - sol centaure  
 Yemen - Yemen  
 yes - ye  
 yesterday - chendeno  
@@ -3961,8 +3962,8 @@ yotta- - yota
 you (singular) - tu  
 you all - tumen  
 young (juvenile) - joveni  
-your - tu di  
-your - tumen di  
+your - tu su  
+your - tumen su  
 youth (young age) - jovenia  
 youth (young person) - joven  
 ytterbium - yuterbium  
@@ -3970,7 +3971,7 @@ yttrium - yutrium
 ####Z - Z  
 Zambia - Zambia  
 zebra - zebra  
-zero (none) - siri  
+zero (none) - siro  
 zetta- - zeta  
 ziggurat - zikura  
 zigzag - zigzage  

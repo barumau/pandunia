@@ -8,7 +8,7 @@ acesa bil - accessible (atteignable, à portée)
 achi - éternuer (atchoum)  
 acinium - actinium  
 ada - coutume  
-ada li - ordinaire (habituel, normal)  
+ada di - ordinaire (habituel, normal)  
 adil - juste  
 adilta - justice  
 adres - adresse  
@@ -28,14 +28,14 @@ ainstainium - Einsteinium
 air - air  
 air bari - pression atmosphérique  
 air bari metre gi - baromètre  
-air bio li - aérobique  
+air bio di - aérobique  
 air gun - armée de l'ai  
 air porte - aéroport  
 Aire - Irland  
 ais - glace  
 ais hoki - hockey sur glace  
 ais krem - crème glacée  
-ais li - glacé (glacial, gelé)  
+ais di - glacé (glacial, gelé)  
 ajibu - merveille  
 akare - acarien  
 akse - axe  
@@ -45,7 +45,7 @@ alga - algue
 alga fungu - lichen  
 alga jangal - forêt de kelp  
 alkol - alcool  
-alkol li - alcoolique  
+alkol di - alcoolique  
 almari - placard  
 almas - diamant  
 alo - autre  
@@ -54,9 +54,9 @@ alo fon - allophone
 alo rai - diverger (ne pas être d'accord)  
 alo rai - désaccord (différend)  
 alo romanse - hétéroromantique (hétéromantique)  
-alo sekse li - hétérosexuel  
+alo sekse di - hétérosexuel  
 alo sifa - différence  
-alo sifa li - différent  
+alo sifa di - différent  
 alumin - aluminium  
 alumin mate - alun  
 alumin okside - alumine (oxyde d'aluminium)  
@@ -76,12 +76,12 @@ amir lin - ligne de commande (console, terminal, invite de commande)
 amper - ampère  
 ampul - ampoule (fiole)  
 an ai - exécrer  
-an air bio li - anaérobique  
+an air bio di - anaérobique  
 an deu jui ja - athée  
 an din ja - infidèle (incroyant)  
 an memo - oublier  
 an nam - antonyme  
-an sekse li - asexué  
+an sekse di - asexué  
 an sona - insomnie  
 anda - oeuf  
 Andes - Andes  
@@ -228,7 +228,7 @@ bateri - pile (batterie)
 bato - huit (8)  
 baton - bâton (canne, tige)  
 baton kasa - cage  
-bau li - précieux  
+bau di - précieux  
 bau sheke - pierre précieuse (joyau)  
 bazar - marché (bazar)  
 baze - base  
@@ -288,7 +288,7 @@ celu logi - cytologie
 centaure - Centaurée  
 chabe - clef  
 chai - thé  
-chai kupe - tasse à thé  
+chai kupa - tasse à thé  
 chai pote - théière  
 chakra - roue  
 chamache - cuiller  
@@ -341,8 +341,8 @@ deu - dieu
 deu kata - mythe  
 deu nagar harfi - dévanagari  
 deu sofi - théosophie  
-dika - viser  
-dike - objectif (cible)  
+fa dika - viser  
+dika - objectif (cible)  
 din - religion  
 din ja - croyant  
 dinamite - dynamite  
@@ -532,7 +532,7 @@ gluta - coller
 glute bande - pansement (sparadrap)  
 glute fan - argile  
 glute grafi - autocollant  
-glute li - adhésif (collant)  
+glute di - adhésif (collant)  
 gol - but (destination)  
 gorila - gorille  
 goton - coton  
@@ -678,8 +678,8 @@ ka - que (comme)
 kaboga - citrouille  
 kade - morue  
 kafe - café  
-kafokan - café  
-kafopote - cafetière  
+kafe kan - café  
+kafe pote - cafetière  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
 kalam - plume  
@@ -885,6 +885,7 @@ majang - mah-jong
 makanful - dandélion  
 mal - propriété (possession, bien)  
 malan - possédant (propriétaire)  
+moli - jasmin  
 malnomia - économie  
 malu - appartenir à  
 mam - sein  
@@ -935,21 +936,21 @@ metallin - fil de fer
 metregraf - carte  
 metregrafia - cartographie  
 meza tela - nappe  
-meze - table  
+meza - table  
 mi - je (me)  
 migre - migration  
 migru - s'installer (déménager)  
-mikrobiologi - microbiologie  
-mikrobiu - microbe  
+mikro bio logi - microbiologie  
+mikro bio - microbe  
 mikroskope - microscope  
 milke - lait  
 milkokardon - chardon Marie  
 mima - imiter  
 mimen - nous  
-mimen di - notre  
+mimen su - notre  
 mimer - imitateur (mime)  
 minraya - sous-estimer  
-minte - menthe  
+minta - menthe  
 mirdi - faible  
 misalo - par exemple  
 Misria - Égypte  
@@ -1011,7 +1012,7 @@ Noe di nave - arche de Noé
 noma - organiser  
 nong - cultiver  
 nong bio logi - agrobiologie  
-nong li - agricole  
+nong di - agricole  
 nong nomi - agronomie  
 norde - nord  
 nostalgia - nostalgie  
@@ -1126,11 +1127,11 @@ pize - pizza
 plan - plan  
 plasta - modeler  
 plastopaste - pâte à modeler  
-plati geyokaskia - tectonique des plaques  
-platistan - plaine  
-platogeyiste - terreplatiste  
+plate geo kaske logi - tectonique des plaques  
+plate topo - plaine  
+plate geo jui ja - terreplatiste  
 plum - prune  
-polbashi - plurilingue (multilingue)  
+poli basha di - plurilingue (multilingue)  
 polite - gouvernement  
 politer - administrateur  
 Polnesia - Polynesie  
@@ -1277,7 +1278,7 @@ shava mosim - mousson
 she - chose  
 shefe - chef  
 sheihal - situation (état de choses)  
-sheke - pierre  
+sheki - pierre  
 shibai - échec  
 shibaya tena - perder  
 shibayer - perdant  
@@ -1290,7 +1291,7 @@ shite - merde
 Shiva - Shiva  
 shopa - acheter  
 shope - shopping  
-shoti - cent (100)  
+cen - cent (100)  
 shula - apprendre (étudier)  
 shula - leçon  
 shula guru - professeur (enseignant)  
@@ -1305,19 +1306,19 @@ shulija - réparateur
 shuru - début (commencement)  
 shutu - art  
 si - être  
-sifloge - adjectif  
-sikle - bicyclette  
-sikliste - cycliste  
-sil - maillon (chaînon)  
-silia - série  
-silke - soie  
+sifa loga - adjectif  
+cikle - bicyclette  
+cikle ja - cycliste  
+sili tika - maillon (chaînon)  
+sili - série  
+silko - soie  
 sing - étoile  
-sira - cacher  
-siri mote - célérité  
-sirkosheke - pavé  
-sirplan - complot (conspiration)  
-siyahi - noir  
-sofa* - canapé (sofa)  
+fa sir - cacher  
+sir ta - célérité  
+cirke sheki - pavé  
+sir plan - complot (conspiration)  
+kala - noir  
+sofa - canapé (sofa)  
 sofita - sagesse  
 soi - soja  
 soi milke - lait de soja  
@@ -1325,38 +1326,37 @@ soi sos - sauce de soja
 soka - chercher  
 sol - soleil  
 sol chati - ombrelle (parasol)  
-solchentaur - Centaurée du solstice  
-solful - Tournesol  
-som - sommeil  
-somivi - ensommeillé (somnolent)  
-somkamar - chambre à coucher  
-sompapil - pavot somnifère  
-somu - dormir  
-son - son  
+sol centaure - Centaurée du solstice  
+sol ful - Tournesol  
+sona - sommeil  
+sona tabi - ensommeillé (somnolent)  
+sona kamar - chambre à coucher  
+sona papil - pavot somnifère  
+sona - dormir  
+soni - son  
 sor - serrure  
 sos - sauce  
-sosia - société  
+soci - société  
 sosis - saucisse  
-speter - spectateur  
 sual - question  
-suala - demander (poser un question; est-ce que)  
-suanpurshipi - décapé (mariné)  
-suanpurshipi hiyar - concombre confit (cornichon)  
-suede - sueur  
+fa sual - demander (poser un question; est-ce que)  
+achar di - décapé (mariné)  
+achar hiyar - concombre confit (cornichon)  
+sueda - sueur  
 sui - eau  
 Suice - Suisse  
-suigas - vapeur d’eau  
-suiminte - Menthe aquatique  
-suiyau - soif  
-suka - plaire  
+sui gas - vapeur d’eau  
+sui minta - Menthe aquatique  
+sui yau - soif  
+fa suka - plaire  
 sukar - sucre  
-sukarbete - betterave à sucre (betterave sucrière)  
-sukarchau - Canne à sucre  
-sukaroranje - orange douce  
-suki - heureux  
-suku - se plaire  
+sukar bete - betterave à sucre (betterave sucrière)  
+sukar cau - Canne à sucre  
+sukar oranje - orange douce  
+suka - heureux  
+be suka - se plaire  
 sundar - beau  
-sundaria - beauté  
+sundar ta - beauté  
 susan - lys  
 ####T - T  
 table komputa - ordinateur tablette  
@@ -1400,7 +1400,7 @@ trator gi - tracteur
 tri - trois (3)  
 truke - ruse  
 tu - tu  
-tumen di - votre  
+tumen su - votre  
 Tunis - Tunisie  
 tuzi - lapin (lièvre)  
 ####U - U  
@@ -1453,6 +1453,7 @@ veze di - lourd
 veze metre gi - balance (poids)  
 vice raja - vice-roi  
 vide - voir  
+vide ja - espectador  
 vidou - veuve  
 violeta blu - violet (pourpre)  
 virje - vierge  
@@ -1469,7 +1470,7 @@ vutu - objet (article)
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
 yam yau - faim  
-yamen di - leur  
+yamen su - leur  
 yasen - frêne  
 yatim dom - orphelinat  
 yau di - nécessaire  

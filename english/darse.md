@@ -23,22 +23,22 @@
 **mi si Sara. ya si ke?**
 = I am Sara. Who is that?  
 <big>🧑🏾</big>
-**ya si mi di doste.**
+**ya si mi su doste.**
 = That is my friend.  
 <big>👩🏻</big>
-**ya di nam si ke?**
+**ya su nam si ke?**
 = What's her name?  
 <big>🧑🏾</big>
-**ya di nam si Maria.**
+**ya su nam si Maria.**
 = Her name is Maria.
 
 ### Grammar
 
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
-tells something about the topic. For instance in **ya si mi di doste**
+tells something about the topic. For instance in **ya si mi su doste**
 the topic is the pronoun **ya** (he, she, it), which is followed by
-the comment **si mi di doste** (is my friend).
+the comment **si mi su doste** (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
@@ -83,15 +83,15 @@ answers are after the word list.
 
 **mi**
 I, me  
-**mi di**
+**mi su**
 my  
 **tu**
 you  
-**tu di**
+**tu su**
 your  
 **ya**
 he, she or it  
-**ya di**
+**ya su**
 his, her, its  
 **ke**
 who or what  
@@ -120,10 +120,10 @@ animal
 
 1. tu si ke?
 2. mi si tomas.
-3. tu di doste si ke?
+3. tu su doste si ke?
 4. ya si Sara.
-5. tu di nam si ke?
-6. mi di nam si ........... 
+5. tu su nam si ke?
+6. mi su nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -266,7 +266,7 @@ chief, boss
 = I will have some tea, thank you.  
 ...  
 <big>🧓</big>
-**ching salam tu di mama!**
+**ching salam tu su mama!**
 = Please tell greetings to your mother.  
 <big>🧒</big>
 **mi salam ya. salam reste!**
@@ -759,11 +759,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara si mi di pas shefe.**
+**Sara si mi su pas shefe.**
 = Sarah is my former boss.  
-**Yusef si mi di zai shefe.**
+**Yusef si mi su zai shefe.**
 = Yusef is my current boss.  
-**Maria si mi di vil shefe.**
+**Maria si mi su vil shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -836,10 +836,10 @@ morning meal, breakfast
 
 ### Answers to the Exercises
 
-1. mi di shefe festa an vile.
+1. mi su shefe festa an vile.
 2. mi tena du vaf an pase.
 3. tu yam supe an zai.
 4. ya safa kamar an chen den.
 5. mau yam kafe an pos den.
-6. tu di mama festa an chen noche.
+6. tu su mama festa an chen noche.
 

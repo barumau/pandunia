@@ -24,8 +24,8 @@ actuel (courant) - zai zaman di
 acéphale (sans tête) - sar na di  
 adapter (ajuster) - hapa  
 addition (facture) - fatura  
-adhésif (collant) - glute li  
-adjectif - sifloge  
+adhésif (collant) - glute di  
+adjectif - sifa loga  
 administrateur - politer  
 adresse - adres  
 adulte - matur  
@@ -38,7 +38,7 @@ agile - agile
 agresseur - agreser  
 agressif - agresivi  
 agression (attaque) - agres  
-agricole - nong li  
+agricole - nong di  
 agrobiologie - nong bio logi  
 agronomie - nong nomi  
 ail - lasun  
@@ -46,7 +46,7 @@ air - air
 aire (superficie) - area  
 Alaska - Alaska  
 alcool - alkol  
-alcoolique - alkol li  
+alcoolique - alkol di  
 algue - alga  
 algues - hai alga  
 algues brunes - brun alga  
@@ -76,7 +76,7 @@ Amérique - Amerika
 anal - anus di  
 analyse - fenkate  
 analyser - fenkata  
-anaérobique - an air bio li  
+anaérobique - an air bio di  
 ancre - angar  
 Andes - Andes  
 Andorre - Andora  
@@ -134,7 +134,7 @@ artiste - arte ja
 Artsakh - Arcah  
 Aruba - Aruba  
 ascète - askete  
-asexué - an sekse li  
+asexué - an sekse di  
 asiatique - asia  
 Asie - Asia  
 aspirine - aspirin  
@@ -171,7 +171,7 @@ avoine - ave
 axe - akse  
 Azerbaijan - Azerbaijan  
 azur - lazuri  
-aérobique - air bio li  
+aérobique - air bio di  
 aéroport - air porte  
 aïe! - au  
 ####B - B  
@@ -213,14 +213,14 @@ bassin - basen
 bateau - nave  
 beau - sundar  
 beau-père - gampai  
-beauté - sundaria  
+beauté - sundar ta  
 belle-mère - gammai  
 bengali - bangla basha  
 besoin - yauta  
 betterave - bete  
-betterave à sucre (betterave sucrière) - sukarbete  
+betterave à sucre (betterave sucrière) - sukar bete  
 bibliothèque - kitabu kan  
-bicyclette - sikle  
+bicyclette - cikle  
 bidonville - harabu mahala  
 bien-être - salamia  
 bilingue - dulbashi  
@@ -269,13 +269,13 @@ bédouin - badavi
 bêche (pelle) - parke bele  
 bûche - mokotan  
 ####C - C  
-cacher - sira  
+cacher - fa sir  
 cachet de la poste - postomarke  
 cactus - katus  
 cadre - frem  
-cafetière - kafopote  
+cafetière - kafe pote  
 café - kafe  
-café - kafokan  
+café - kafe kan  
 cage - baton kasa  
 caillou - lilsheke  
 calcaire - kalsopetre  
@@ -289,9 +289,9 @@ calme (tranquille) - shanti
 Camomille Romaine - romakamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
-canapé (sofa) - sofa*  
+canapé (sofa) - sofa  
 canevas (toile) - penta tela  
-Canne à sucre - sukarchau  
+Canne à sucre - sukar cau  
 canon - daipau  
 canoë - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
@@ -310,14 +310,14 @@ carte - metregraf
 carte à collectionner - jamkarde  
 cartographie - metregrafia  
 cauri - kauri  
-cent (100) - shoti  
+cent (100) - cen  
 Centaurée - centaure  
 Centaurée bleuet - nilchentaur  
-Centaurée du solstice - solchentaur  
+Centaurée du solstice - sol centaure  
 centre - jung  
 cerise - cheri  
 chachlik - shish nama  
-chambre à coucher - somkamar  
+chambre à coucher - sona kamar  
 Champagne - shampan  
 champagne - shampan vin  
 champignon - fungu frute  
@@ -375,7 +375,7 @@ combava - karsolimon
 comment - ko?  
 commerce - vende shope  
 compassion - samemos  
-complot (conspiration) - sirplan  
+complot (conspiration) - sir plan  
 comportement (manière) - manir  
 compost - bio cana she  
 compote de pommes - aple sos  
@@ -383,7 +383,7 @@ comprendre (réaliser) - aha
 compte - hisabu loge  
 concert - konserte  
 concombre - hiyar  
-concombre confit (cornichon) - suanpurshipi hiyar  
+concombre confit (cornichon) - achar hiyar  
 concombre de mer - haihiyar  
 conseil - sel  
 conseiller - sela  
@@ -440,9 +440,9 @@ cube - kube
 cuiller - chamache  
 cultiver - nong  
 culturisme (musculation) - muskulbin  
-cycliste - sikliste  
+cycliste - cikle ja  
 cytologie - celu logi  
-célérité - siri mote  
+célérité - sir ta  
 côte - haitate  
 côté - late  
 ####D - D  
@@ -454,7 +454,7 @@ dans le sens antihoraire - rotolefto
 dauphin - dolfin  
 de - ze  
 demain - posdeno  
-demander (poser un question; est-ce que) - suala  
+demander (poser un question; est-ce que) - fa sual  
 dessous - niche  
 destin - nasibe  
 deux (2) - du  
@@ -462,7 +462,7 @@ devoir - debu
 diamant - almas  
 dieu - deu  
 différence - alo sifa  
-différent - alo sifa li  
+différent - alo sifa di  
 dimanche - var sete  
 dinde (dindon) - dinde  
 diorite - diorite  
@@ -482,7 +482,7 @@ domestiqué (apprivoisé) - dosiljeni
 dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - jena  
 données - data  
-dormir - somu  
+dormir - sona  
 douche - dush  
 drapeau - bandera  
 droit (rectiligne) - orti  
@@ -495,7 +495,7 @@ dynamite - dinamite
 dé - zar kube  
 déboguer (débugger) - fa an galta  
 début (commencement) - shuru  
-décapé (mariné) - suanpurshipi  
+décapé (mariné) - achar di  
 décharge - laji bagi  
 déchirer - chir  
 déchirer - chira  
@@ -524,7 +524,7 @@ enfant - bacha
 ennemi - dusjan  
 enregistrement - loge  
 enseigner - giau  
-ensommeillé (somnolent) - somivi  
+ensommeillé (somnolent) - sona tabi  
 ensuite (après, plus tard, ir a, en el futuro) - poso  
 entonnoir - riutube  
 entrer - intru  
@@ -533,6 +533,7 @@ erroné - galti
 escroquer - fa truke  
 espace (zone, région) - area  
 espace - hali harfi  
+espectador - vide ja  
 estrade - tai  
 et - e  
 ethnie - zuku  
@@ -621,7 +622,7 @@ gingembre - zinji
 giraffe - jiraf  
 glabre - kesha na di  
 glace - ais  
-glacé (glacial, gelé) - ais li  
+glacé (glacial, gelé) - ais di  
 gland - baluta frute  
 glisser - glisu  
 gnome - geo elfe  
@@ -664,7 +665,7 @@ Haïti - Haiti
 hein? - he  
 Hesse - Hesia  
 heure - hor  
-heureux - suki  
+heureux - suka  
 hier - chendeno  
 Hindustan - Hindu desh  
 hippopotame  - gubu  
@@ -688,7 +689,7 @@ hygiène - salsafia
 hélicoptère - helisviman  
 héros - hero  
 hétéroromantique (hétéromantique) - alo romanse  
-hétérosexuel - alo sekse li  
+hétérosexuel - alo sekse di  
 hôtel - hotel  
 ####I - I  
 imitateur (mime) - mimer  
@@ -722,6 +723,7 @@ Islam - islam din
 jade - giuke  
 Japon - Nipon  
 jarre (carafe, cruche) - jar  
+jasmin - moli  
 jaïnisme - jeinistia  
 je (me) - mi  
 jeu de société - ban gem  
@@ -771,7 +773,7 @@ le (la) - a
 lent - lenti  
 lentille - lense  
 Lettonie - Latvia  
-leur - yamen di  
+leur - yamen su  
 lexical - loga di  
 leçon - shula  
 libellule - libele  
@@ -816,7 +818,7 @@ machine à écrire - kitabu gi
 magma - pastopetre  
 magnésium - magesium  
 mah-jong - majang  
-maillon (chaînon) - sil  
+maillon (chaînon) - sili tika  
 main - hande  
 mais (bien que) - ama  
 maison - dom  
@@ -845,8 +847,8 @@ maximum - masim
 maître - mester  
 medio - medi  
 melt - yong  
-menthe - minte  
-Menthe aquatique - suiminte  
+menthe - minta  
+Menthe aquatique - sui minta  
 menthe poivrée - piprominte  
 menthe verte - zong minte  
 mer - hai  
@@ -858,8 +860,8 @@ message - anjil
 messager - anjil ja  
 mettre (placer) - fa loka  
 meule - molsheke  
-microbe - mikrobiu  
-microbiologie - mikrobiologi  
+microbe - mikro bio  
+microbiologie - mikro bio logi  
 microscope - mikroskope  
 miel - medu  
 migration - migre  
@@ -917,7 +919,7 @@ neurotoxine - nerve toksi
 niche - nish  
 nid - nide  
 niveau - par  
-noir - siyahi  
+noir - kala  
 noit - noche  
 nombre (numéro) - numbe  
 nombre pair - pari numbe  
@@ -926,7 +928,7 @@ non-binaire - nobi
 nord - norde  
 nostalgie - nostalgia  
 note - note  
-notre - mimen di  
+notre - mimen su  
 nous - mimen  
 nouveau - nove  
 nouveau-né - neujeni  
@@ -940,7 +942,7 @@ néologisme - nove loga
 néophyte - nove jen  
 ####O - O  
 oasis - vase  
-objectif (cible) - dike  
+objectif (cible) - dika  
 objet (article) - vutu  
 oblique (de travers) - terca  
 obsidienne - osidian  
@@ -966,9 +968,9 @@ or - auro
 orange (couleur) - oranji  
 orange (fruit) - oranje  
 orange amère - kali oranje  
-orange douce - sukaroranje  
+orange douce - sukar oranje  
 orchidée - orkide  
-ordinaire (habituel, normal) - ada li  
+ordinaire (habituel, normal) - ada di  
 ordinateur - komputa  
 ordinateur tablette - table komputa  
 ordre - ratibu  
@@ -1029,8 +1031,8 @@ pathologie - patilogi
 patient - patike  
 pause - pauze  
 pavot d'Orient - guipapil  
-pavot somnifère - sompapil  
-pavé - sirkosheke  
+pavot somnifère - sona papil  
+pavé - cirke sheki  
 pays des fées (paradis) - pari desha  
 peindre - penta  
 peinture - penta  
@@ -1049,7 +1051,7 @@ phase - faze
 philosophie - filsofia  
 photographie - foto grafe  
 photographie - foto grafia  
-pierre - sheke  
+pierre - sheki  
 pierre précieuse (joyau) - bau sheke  
 pierre tombale - gabur sheke  
 pieu (poteau) - zong  
@@ -1065,8 +1067,8 @@ pièce (chambre) - kamar
 piège - kape truke  
 placard - almari  
 place - meden  
-plaine - platistan  
-plaire - suka  
+plaine - plate topo  
+plaire - fa suka  
 plan - plan  
 planche - mokoban  
 plante (végétal) - fito  
@@ -1075,7 +1077,7 @@ plaque tectonique - geo kaske plate
 plein - puri  
 pluie - shava  
 plume - kalam  
-plurilingue (multilingue) - polbashi  
+plurilingue (multilingue) - poli basha di  
 plus - mas  
 pluvieux -   
 pneumonie - pulmon flame  
@@ -1132,7 +1134,7 @@ propice - bon sin di
 propriété (possession, bien) - mal  
 prune - plum  
 prune de Java - jamul  
-précieux - bau li  
+précieux - bau di  
 préférer - mas fili  
 présent - zai di  
 prêter (empruntre) - jeka  
@@ -1247,7 +1249,7 @@ se - se
 se baigner - banya  
 se mouvoir - kinu  
 se passer - duru  
-se plaire - suku  
+se plaire - be suka  
 se rappeler (se remémorer) - mema  
 seau - baldi  
 secouer - roka  
@@ -1271,26 +1273,25 @@ silex - hogosheke
 simulation - samsifia  
 situation (état de choses) - sheihal  
 six (6) - luku  
-société - sosia  
-soie - silke  
-soif - suiyau  
+société - soci  
+soie - silko  
+soif - sui yau  
 soir (soirée) - sham  
 soja - soi  
 soldat - gunjan  
 soleil - sol  
-sommeil - som  
+sommeil - sona  
 son (sa) - se di  
-son - son  
+son - soni  
 soumettre - karmisa  
 soumission - islam  
 souris - mushu  
 sous-estimer - minraya  
-spectateur - speter  
 sport - esporte  
 squelette - ostojamia  
 substance - kim  
 sucre - sukar  
-sueur - suede  
+sueur - sueda  
 suffixe - posfikse  
 Suisse - Suice  
 suivre - posa  
@@ -1300,20 +1301,20 @@ svastika (croix gammée) - huke krus
 symétrie - sammetre  
 séminal - semi  
 sénateur - senater  
-série - silia  
+série - sili  
 sûr - sekuri  
 s’accroupir - insida  
 ####T - T  
-table - meze  
+table - meza  
 tableau (panneau) - ban  
 tablette de chocolat - choklatobaton  
 tarte - pai  
-tasse à thé - chai kupe  
+tasse à thé - chai kupa  
 taupe - krote  
 taximètre - taksi metre gi  
 technique - tehne  
 technologie - tehne logi  
-tectonique des plaques - plati geyokaskia  
+tectonique des plaques - plate geo kaske logi  
 temple - puja kan  
 temps - zaman  
 tendance - klin  
@@ -1325,7 +1326,7 @@ terrain - geo forme
 terrain de camping - kampistan  
 Terre - Geo  
 terre cuite - baka fan  
-terreplatiste - platogeyiste  
+terreplatiste - plate geo jui ja  
 terrorisme - teror jui  
 thé - chai  
 théière - chai pote  
@@ -1345,7 +1346,7 @@ topographie - topo grafi
 toucher - tochu  
 toupie - rototope  
 touriste - safariste  
-Tournesol - solful  
+Tournesol - sol ful  
 toxicologie - toksi logi  
 toxine - bio toksi  
 trace - marke  
@@ -1388,7 +1389,7 @@ valeur - valu
 vallée (oued) - vali  
 vampire - vampir  
 vampire des abysses - vampir ohtopus  
-vapeur d’eau - suigas  
+vapeur d’eau - sui gas  
 varech - varka alga  
 vendre - vende  
 vendredi - var penta  
@@ -1420,7 +1421,7 @@ vin de riz - ris vin
 violet (pourpre) - violeta blu  
 virus - virus  
 visage - muka  
-viser - dika  
+viser - fa dika  
 Vishnou - Vishnu  
 vite (rapide) - rapide  
 vivant - jivi  
@@ -1432,7 +1433,7 @@ voire (même) - hata
 vol - fei  
 volcan - hogoshan  
 voler - feyu  
-votre - tumen di  
+votre - tumen su  
 vouloir - vol  
 voyelle - jungofon  
 voûte - arka chati  

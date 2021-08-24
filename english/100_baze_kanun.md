@@ -20,9 +20,9 @@ They are described in more detail later in this document.
      **mi** _I_, **tu** _you_ (sg.), **ya** _he or she_,
      **mimen** _we_, **tumen** _you_ (pl.), **yamen** _they_.
     - The possessive pronouns are:
-      **mi di** _my_, **tu di** _your_, **ya di** _his or her_,
-      **mimen di** _our_, **tumen di** _your_, **yamen di** _their_.
-     - The interrogative pronouns are: **ke** _what_ or _who_, **ke di** _whose_.
+      **mi su** _my_, **tu su** _your_, **ya su** _his or her_,
+      **mimen su** _our_, **tumen su** _your_, **yamen su** _their_.
+     - The interrogative pronouns are: **ke** _what_ or _who_, **ke su** _whose_.
      - The impersonal pronoun is
        **men**
        (_one_, _you_, _they_)

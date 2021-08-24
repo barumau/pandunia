@@ -17,7 +17,7 @@ ai - amor
 ai ja - amante  
 ai jen - querido  
 air - ar  
-air bio li - aeróbico  
+air bio di - aeróbico  
 air gun - força aérea  
 air porte - aeroporto  
 ais hoki - hóquei no gelo  
@@ -35,7 +35,7 @@ alo rai - discordar
 amen - honesto (sincero)  
 amen shin - confiar (contar com)  
 ami - querido (caro)  
-an air bio li - anaeróbico  
+an air bio di - anaeróbico  
 an din ja - infiel  
 an memo - esquecer  
 an sona - insônia  
@@ -116,7 +116,7 @@ bateri - pilha (bateria)
 bato - oito (8)  
 baton - vara (bastão)  
 baton kasa - gaiola (jaula)  
-bau li - precioso  
+bau di - precioso  
 bau sheke - pedra preciosa (gema)  
 bazar - mercado (bazar)  
 baze - base  
@@ -174,7 +174,7 @@ celu logi - citologia
 centaure - centáurea  
 chabe - chave  
 chai - chá  
-chai kupe - chavena (tigela de chá)  
+chai kupa - chavena (tigela de chá)  
 chai pote - bule  
 chakra - roda  
 chamache - colher  
@@ -225,8 +225,8 @@ deu - deus
 deu kata - mito  
 deu nagar harfi - devanágari  
 deu sofi - teosofia  
-dika - mirar (apontar)  
-dike - objetivo  
+fa dika - mirar (apontar)  
+dika - objetivo  
 din - religião  
 din ja - crente  
 dinamite - dinamite  
@@ -380,7 +380,7 @@ gluta - colar (aderir)
 glute bande - penso (band-aid)  
 glute fan - argila  
 glute grafi - adesivo  
-glute li - pegajoso (adesivo)  
+glute di - pegajoso (adesivo)  
 gol - meta (gol)  
 gorila - gorila  
 goton - algodão  
@@ -508,8 +508,8 @@ justi - exato (preciso)
 ka - que (como)  
 kaboga - abóbora (jerimun)  
 kafe - café  
-kafokan - café  
-kafopote - cafeteira  
+kafe kan - café  
+kafe pote - cafeteira  
 kaguje - papel  
 kagujolimon - lima  
 kalam - lápis  
@@ -705,6 +705,7 @@ Magribia - Marrocos
 mahala - quarteirão  
 majang - mahjong  
 makanful - dente-de-leão (taráxaco)  
+moli - jasmim  
 malnomia - economia  
 mam - seio (mama)  
 man raja - rei  
@@ -752,21 +753,21 @@ metallin - arame
 metregraf - carta geográfica  
 metregrafia - cartografia  
 meza tela - toalha de mesa  
-meze - mesa  
+meza - mesa  
 mi - eu (me)  
 migre - migração  
 migru - mudar-se  
-mikrobiologi - microbiologia  
-mikrobiu - micróbio  
+mikro bio logi - microbiologia  
+mikro bio - micróbio  
 mikroskope - microscópio  
 milke - leite  
 milkokardon - cardo-mariano  
 mima - imitar (mimetizar)  
 mimen - nós  
-mimen di - nosso  
+mimen su - nosso  
 mimer - mímico  
 minraya - menosprezar (subestimar)  
-minte - hortelã  
+minta - hortelã  
 mirdi - fraco  
 misalo - por exemplo  
 Misria - Egipto (Egito)  
@@ -820,7 +821,7 @@ Noe di nave - arca de Noé
 noma - organizar  
 nong - cultivar  
 nong bio logi - agrobiologia  
-nong li - agrícola  
+nong di - agrícola  
 nong nomi - agronomia  
 norde - norte  
 nostalgia - nostalgia (saudade)  
@@ -923,10 +924,10 @@ plan - plano
 plasta - moldar (modelar)  
 plasti - plástico  
 plastopaste - massa de modelar (massinha)  
-plati geyokaskia - tectónica de placas  
-platogeyiste - terraplanista  
+plate geo kaske logi - tectónica de placas  
+plate geo jui ja - terraplanista  
 plum - ameixa  
-polbashi - multilíngue (plurilíngue)  
+poli basha di - multilíngue (plurilíngue)  
 polite - governo  
 politer - administrador  
 politomode - regime  
@@ -1051,7 +1052,7 @@ shava mosim - monção
 she - coisa  
 shefe - chefe  
 sheihal - situaçao  
-sheke - pedra  
+sheki - pedra  
 shibaya tena - perder  
 shibayer - perdedor  
 shingofota - cintilar  
@@ -1063,7 +1064,7 @@ shofa - conduzir
 shofer - condutor (chofer, motorista)  
 shopa - comprar  
 shope - compras  
-shoti - cem (100)  
+cen - cem (100)  
 shula - aprender  
 shula - lição  
 shula guru - professor (docente)  
@@ -1077,15 +1078,15 @@ shuru - começo (início, princípio)
 shutu - arte  
 si - ser (estar)  
 siborgium - seabórgio  
-sifloge - adjetivo  
-sikliste - ciclista  
-sil - elo  
-silia - série (sequência)  
-silke - seda  
+sifa loga - adjetivo  
+cikle ja - ciclista  
+sili tika - elo  
+sili - série (sequência)  
+silko - seda  
 sing - estrela  
-sira - ocultar (esconder)  
-sirplan - complô (conspiração)  
-siyahi - preto  
+fa sir - ocultar (esconder)  
+sir plan - complô (conspiração)  
+kala - preto  
 Slave - eslavo  
 sofita - sabedoria (sagacidade, sapiência)  
 soi - soja  
@@ -1094,31 +1095,30 @@ soi sos - molho de soja
 soka - buscar (procurar)  
 sol - sol  
 sol chati - sombrinha  
-solful - girassol  
-som - sono  
-somivi - sonolento  
-somkamar - quarto (dormitório)  
-sompapil - papoila-dormideira  
-somu - dormir  
-son - som  
+sol ful - girassol  
+sona - sono  
+sona tabi - sonolento  
+sona kamar - quarto (dormitório)  
+sona papil - papoila-dormideira  
+sona - dormir  
+soni - som  
 song - pinheiro  
 sor - fechadura  
-sosia - sociedade  
+soci - sociedade  
 sosis - salsicha  
-speter - espetador  
 sual - questão (pergunta)  
-suala - perguntar  
-suede - suor  
+fa sual - perguntar  
+sueda - suor  
 sui - água  
 Suice - Suíça  
-suigas - vapor  
-suiminte - hortelã-da-água  
-suiyau - sede  
+sui gas - vapor  
+sui minta - hortelã-da-água  
+sui yau - sede  
 sukar - açúcar  
-sukarchau - cana-de-açúcar  
-suki - feliz  
+sukar cau - cana-de-açúcar  
+suka - feliz  
 sundar - belo (lindo)  
-sundaria - beleza  
+sundar ta - beleza  
 susan - lírio  
 ####T - T  
 table komputa - tablet  
@@ -1147,7 +1147,7 @@ trator gi - trator
 tri - três (3)  
 truke - truque (fraude)  
 tu - tu  
-tumen di - vosso  
+tumen su - vosso  
 tuzi - coelho (lebre)  
 ####U - U  
 un - um (1)  
