@@ -8,7 +8,7 @@ acesa bil - accessible (within reach)
 achi - sneeze (achoo)  
 acinium - actinium  
 ada - habit (custom)  
-ada li - ordinary (customary, habitual, normal)  
+ada di - ordinary (customary, habitual, normal)  
 adil - just (fair, righteous)  
 adilta - justice  
 adres - address  
@@ -28,17 +28,17 @@ ainstainium - einsteinium
 air - air  
 air bari - atmospheric pressure  
 air bari metre gi - barometer  
-air bio li - aerobic  
+air bio di - aerobic  
 air gun - airforce  
 air porte - airport (aeroport)  
 Aire - Ireland  
 ais - ice  
 ais hoki - ice hockey  
 ais krem - ice cream  
-ais li - icy  
+ais di - icy  
 ajibu - marvel (wonder)  
 ajibu - awe (wonder)  
-ajibu li - amazing (astonishing)  
+ajibu di - amazing (astonishing)  
 ajila - hurry (hasten)  
 akacia - acacia  
 akare - tick (mite)  
@@ -49,7 +49,7 @@ alga - alga
 alga fungu - lichen  
 alga jangal - kelp forest  
 alkol - alcohol  
-alkol li - alcoholic  
+alkol di - alcoholic  
 almari - cupboard (closet, cabinet, wardrobe)  
 almas - diamond  
 alo - other  
@@ -59,9 +59,9 @@ alo nam - that is (in other words, i.e., alias)
 alo rai - disagree  
 alo rai - disagreement (disconsent)  
 alo romanse - heteroromantic  
-alo sekse li - heterosexual  
+alo sekse di - heterosexual  
 alo sifa - difference  
-alo sifa li - different  
+alo sifa di - different  
 alumin - aluminium  
 alumin mate - alum  
 alumin okside - alumina (aluminum oxide)  
@@ -85,7 +85,7 @@ amir lin - command line (console, terminal)
 amper - ampere (amp)  
 ampul - ampoule (vial)  
 an ai - dislike (loathe)  
-an air bio li - anaerobic  
+an air bio di - anaerobic  
 an chen vide di - unexpected  
 an daka - uncover (reveal)  
 an deu jui ja - atheist  
@@ -94,7 +94,7 @@ an doste - enemy (unfriend)
 an eskala - get off (descend)  
 an icha ja - reluctant  
 an jami - disperse (spread out, scatter)  
-an jami li - sparse (scattered)  
+an jami di - sparse (scattered)  
 an kai - close (shut)  
 an kai di - closed  
 an karma ja - off (deactivated, disabled)  
@@ -105,11 +105,11 @@ an mesi - antichrist
 an nam - antonym  
 an pace - unrest  
 an romanse - aromantic  
-an sabi li - strange (unknown)  
-an sekse li - asexual  
+an sabi di - strange (unknown)  
+an sekse di - asexual  
 an sona - insomnia  
 an sora - unlock  
-an sora li - unlocked  
+an sora di - unlocked  
 an tapa - unplug (uncork)  
 anda - egg  
 Andes - Andes  
@@ -200,11 +200,11 @@ Austronesia - Austronesia
 auta - personalize (customize)  
 auto - self (identity)  
 auto krati - autocracy (monarchy)  
-auto li - personal (intimate, private, custom)  
+auto di - personal (intimate, private, custom)  
 auto loga - monolog  
 auto move - self-moving (automotive, automobile)  
 auto nomi - autonomy  
-auto nomi li - autonomous  
+auto nomi di - autonomous  
 avakate - avocado  
 avar - damage (injury, harm)  
 avar di - damaged (corrupt)  
@@ -281,7 +281,7 @@ basa - enough (sufficient)
 basen - pool (basin, bowl)  
 basha - speak (talk, language, communication)  
 basha kanun - grammar  
-basha kanun li - grammatical  
+basha kanun di - grammatical  
 basha logi - linguistics  
 bashi jinse - grammatical gender  
 baske - basket (basketball hoop)  
@@ -294,7 +294,7 @@ baton - bar (pole, rod, shaft, staff, stick)
 baton kasa - cage  
 baton pan - baguette  
 bau - treasure (valuables)  
-bau li - precious  
+bau di - precious  
 bau sheke - gem (gemstone, jewel)  
 bazar - market (bazaar)  
 bazarhuristia - market liberalism  
@@ -458,7 +458,7 @@ cana - produce (create, make)
 cana basha - artificial language (conlang)  
 cana di - artificial  
 cana ja - maker (manufacturer)  
-cana li - productive (fertile)  
+cana di - productive (fertile)  
 cana ya - production  
 cau - grass  
 cau istan - grassland (prairie)  
@@ -474,7 +474,7 @@ chabe - key
 Chade - Chad  
 chai - tea  
 chai kan - tea house  
-chai kupe - tea cup  
+chai kupa - tea cup  
 chai pote - teapot  
 chakra - wheel  
 chaku - knife  
@@ -615,8 +615,8 @@ dayu - grow (get bigger)
 de - which (who, that)  
 debili - weak  
 debu - must  
-dechi* - deci-  
-dechibel - decibel  
+deci - deci-  
+deci bel - decibel  
 def - defense (defence)  
 defa - defend  
 defban - shield  
@@ -628,8 +628,8 @@ deki - moral
 dekolojia - ethics  
 demo - people (population)  
 demo grafi - demography  
-demo krati li - democratic  
-demo li - public  
+demo krati di - democratic  
+demo di - public  
 demokrati - democracy  
 demokratiste - democrati  
 demomultia - population  
@@ -648,24 +648,24 @@ deu din - theism
 deu din ja - theist  
 deu kata - myth (divine story)  
 deu krati - theocracy  
-deu li - divine (godly)  
+deu di - divine (godly)  
 deu logi - theology  
 deu nagar harfi - Devanagari alphabet  
 deu sofi - theosophy  
-di - 's (attributive postposition)  
-dika - aim (point)  
-dike - target (aim, objective)  
+di - attributive postposition  
+fa dika - aim (point)  
+dika - target (aim, objective)  
 din - religion (worship)  
 din guru - priest (cleric)  
 din ja - believer (religious person)  
-din li - religious  
+din di - religious  
 dinamite - dynamite  
 dinde - turkey  
 ding - nail (spike)  
 Dione - Dione  
 diorite - diorite  
-dish - direction  
-disho - directly  
+disha - direction  
+disha di - directly  
 diske - disc (disk)  
 disprosium - dysprosium  
 Divehia - Maldives  
@@ -845,10 +845,10 @@ esporte - sport (athletics)
 esporter - athlete (sportsman)  
 estadia - stadium (arena)  
 estan - tin  
-estasa - hold (detain)  
-estasi - static (stationary)  
-estasia - station  
-estasu - stand still  
+fa estaci - hold (detain)  
+estaci di - static (stationary)  
+estaci - station  
+be estaci - stand still  
 Esti - Estonia  
 estibium - antimony  
 estrontium - strontium  
@@ -1214,7 +1214,7 @@ glute - glue (adhesive)
 glute bande - adhesive bandage (band-aid, sticking plaster)  
 glute fan - clay  
 glute grafi - sticker  
-glute li - sticky (ahesive)  
+glute di - sticky (ahesive)  
 gluten - gluten  
 gol - goal (destination)  
 gola - destine (set)  
@@ -1232,7 +1232,7 @@ grafi buku - picture book
 grafi ja - illustrator (graphic artist)  
 grafi kata - comic (cartoon)  
 grafi lance gi - image projector  
-grafi li - graphic (pictorial)  
+grafi di - graphic (pictorial)  
 gram - gram (g)  
 granite - granite  
 grave - gravel  
@@ -1346,7 +1346,7 @@ hasia - distinction (specialty)
 hata - until (til, up to)  
 hata - even (implying extreme example)  
 hatar - danger (peril)  
-hatar li - dangerous (perilous)  
+hatar di - dangerous (perilous)  
 hava - blow  
 hava - wind  
 Havai - Hawaii  
@@ -1371,7 +1371,7 @@ hen - hatred (hate, resentment, odium)
 hena - hate (despise)  
 hero - hero  
 hero kata - saga (heroic tale)  
-hero li - heroic  
+hero di - heroic  
 herze - hertz (Hz)  
 Hesia - Hesse  
 hesium - hassium  
@@ -1450,17 +1450,17 @@ i - this
 ####I - I  
 ibri - Hebrew  
 icha - will (want)  
-iche - will (volition, desire)  
-idei - idea (concept, notion)  
-ideigraf - ideogram  
-ideyi - conceptual  
+icha - will (volition, desire)  
+idea - idea (concept, notion)  
+idea harfi - ideogram  
+idea di - conceptual  
 idiote - idiot  
 idioti - stupid (idiotic)  
 idiotia - idiocy (stupidity)  
 ifrite - ifrit  
 iha - donkey (ass)  
 iha uma - mule  
-iki - -ic (a person or thing with specific character)  
+ka - person engaged in a profession or practice (-ic, -er)  
 impera - reign (rule as an emperor)  
 imperer - emperor  
 imperia - empire  
@@ -1635,9 +1635,9 @@ kade - cod
 kadmium - cadmium  
 kafe - coffee  
 kafir - infidel (pagan, heathen, unbeliever)  
-kafokan - cafe (coffee shop)  
-kafokupe - coffee cup  
-kafopote - coffeepot  
+kafe kan - cafe (coffee shop)  
+kafe kupa - coffee cup  
+kafe pote - coffeepot  
 kaguje - paper (material)  
 kagujolimon - key lime  
 Kaiman nesia - Cayman Islands  
@@ -1805,13 +1805,13 @@ kina - move (transfer, shift, stir, budge, rouse, motivate, inspire)
 kinar - border (edge, fringe, margin, rim, side, shore, periphery)  
 kinar baryer - fence  
 kinar fon - consonant  
-kinar li - peripheral  
-kine - movement  
-kini - kinetic  
-kinograf - movie (cinema)  
-kinografi - cinematic  
-kinografia - cinematography  
-kinografkan - movie theatre  
+kinar di - peripheral  
+kino - movement  
+kino di - kinetic  
+kino grafi - movie (cinema)  
+kino grafi di - cinematic  
+kino grafi arte - cinematography  
+kino grafi kan - movie theatre  
 Kinshasa - Kinshasa  
 Kinshasa Kongo - Congo Kinshasa  
 kinu - move oneself  
@@ -2185,7 +2185,8 @@ Malavi - Malawi
 malayali - Malayali (Malayalam)  
 malayi - Malay  
 Mali - Mali  
-malike - jasmine  
+moli - jasmine  
+moli hua chai - jasmine tea  
 malnomia - economics  
 Malta - Malta  
 malu - belong  
@@ -2317,7 +2318,7 @@ mesi - Christ (messiah)
 mesi din - Christianity  
 mesi din ja - Christian  
 mesi jen - Christmas  
-mesi li - messianic  
+mesi di - messianic  
 mesta - master (be an expert at sth)  
 mester - master (expert)  
 metal - metal  
@@ -2331,29 +2332,29 @@ metregraf - map (chart)
 metregrafia - cartography  
 metrun - unit (measurement)  
 meza tela - tablecloth  
-meze - table  
-mezistan - plateau (tableland)  
+meza - table  
+meza topo - plateau (tableland)  
 mi - I (me)  
-mi di - my  
+mi su - my  
 mien - noodle  
 migra - move (migrate, relocate)  
 migre - migration (moving)  
 migru - move (migrate, relocate oneself)  
 mikri - tiny (microscopic)  
-mikro* - micro-  
-mikrobiologi - microbiology  
-mikrobiu - microorganism (microbe)  
+mikro - micro-  
+mikro bio logi - microbiology  
+mikro bio - microorganism (microbe)  
 Mikronesia - Micronesia  
 mikroskope - microscope  
-mili* - milli-  
-miligram - milligram  
-milimitre - millimeter  
+mili - milli-  
+mili gram - milligram  
+mili metre - millimeter  
 milke - milk  
 milkokardon - milk thistle  
 mima - mimic (imitate)  
 Mimas - Mimas  
 mimen - we  
-mimen di - our  
+mimen su - our  
 mimer - imitator (mime)  
 min (mino) - less  
 min ka bas - too little  
@@ -2373,7 +2374,7 @@ ministeria - ministry
 minori - minor (not major)  
 minoria - minority  
 minraya - underestimate  
-minte - mint  
+minta - mint  
 minu - subceed (be less than)  
 minute - minute  
 mira - reflect  
@@ -2592,9 +2593,9 @@ nong - cultivate (farm)
 nong bio logi - agrobiology  
 nong chun - rural village  
 nong istan - countryside  
-nong istan li - rural (rustic)  
+nong topo di - rural (rustic)  
 nong ja - farmer  
-nong li - agricultural  
+nong di - agricultural  
 nong nomi - agronomy  
 nong shutu - agriculture  
 norde - north  
@@ -2880,32 +2881,32 @@ plasti - plastic (moldable, malleable)
 plastike - plastic  
 plastopaste - playdough  
 plate - plane (plate)  
-plati - flat (planar)  
-plati geyokaskia - plate tectonics  
+plate di - flat (planar)  
+plate geo kaske logi - plate tectonics  
 platin - platinum  
-platistan - plain (plateau, flat lands)  
-platoforme - platform  
-platogeyiste - flat-earther  
+plate topo - plain (plateau, flat lands)  
+plate forma - platform  
+plate geo jui ja - flat-earther  
 Platon - Plato  
-platoniste - Platonist  
-platonisti - Platonic  
-platonistia - Platonism  
-platotas - plate  
-plazme - plasma (ionized gas)  
+Platon jui ja - Platonist  
+Platon jui di - Platonic  
+Platon jui - Platonism  
+plate tasa - plate  
+plazma - plasma (ionized gas)  
 plum - plum (prune)  
 plumbe - lead  
 Pluton - Pluto (dwarf planet)  
 plutonium - plutonium  
 poke - poker  
 polau - pilaf (pulao)  
-polbashi - multilingual  
-poldevistia - polytheism  
+poli basha di - multilingual  
+poli deu jui - polytheism  
 polfas - polyhedron  
-polgon - polygon  
+poli gona - polygon  
 poli - many (much, more than one)  
-polia - amount (quantity)  
-polis - police  
-poliser - police officer  
+poli ta - amount (quantity)  
+police - police  
+police ja - police officer  
 polita - administer (govern)  
 polite - government (administration, polity)  
 politer - administrator  
@@ -3263,7 +3264,7 @@ se - self (reflexive pronoun)
 sekreter - secretary  
 sekreteria - secretariat  
 sekse - sex (sexual relation)  
-sekse li - sexy (sexually arousing)  
+sekse di - sexy (sexually arousing)  
 sekselogi - sexology  
 sekunde - second(s)  
 sekura - protect (secure, save)  
@@ -3343,7 +3344,7 @@ shefe minister - prime minister
 shefi - main (principal)  
 sheihal - situation (circumstances, state of affairs)  
 sheihalironia - situational irony  
-sheke - stone (piece of rock)  
+sheki - stone (piece of rock)  
 shekojanger - mason (stonemason, stonecutter)  
 sheng - victory (win, triumph)  
 shi - Mx. (Mr. or Ms.)  
@@ -3376,7 +3377,7 @@ shoke - shock (collision)
 shopa - buy (purchase)  
 shope - shopping  
 shoper - buyer  
-shoti - hundred (100)  
+cen - hundred (100)  
 shou - show (display, exhibition)  
 shula - learn (study)  
 shula - lesson (teaching)  
@@ -3399,58 +3400,58 @@ shusho - hush (shh)
 shutu - skill (art, craft)  
 shututabi - skillful (crafty)  
 si - be  
-siani - cyan  
+cian - cyan  
 Sibiria - Siberia  
 siborgium - seaborgium  
-sida - sit (put down)  
-side - seat (saddle)  
-sidu - sit down  
+fa side - sit (put down)  
+side loka - seat (saddle)  
+side - sit down  
 sifa - attribute (charasteristic, quality, feature, description, property)  
-sifa - qualify (describe)  
-sifi - descriptive  
-sifloge - adjective  
+fa sifa - qualify (describe)  
+sifa di - descriptive  
+sifa loga - adjective  
 sigar - cigarette (cigar)  
-sikiste - Sikh  
-sikistia - Sikhism  
-sikle - bike (cycle)  
-sikliste - cyclist  
-sil - link  
-silia - series (sequence)  
-silike - silicon  
-silke - silk  
-silnete - chain mail  
-silsil - chain  
-simpli - simple (not complicated)  
-sine - chest (breast)  
-sing - lion  
+siki din ja - Sikh  
+siki din - Sikhism  
+cikle - bike (cycle)  
+cikle ja - cyclist  
+sili tika - link  
+sili - series (sequence)  
+silicium - silicon  
+silko - silk  
+sili nete - chain mail  
+sili sili - chain  
+simple - simple (not complicated)  
+sina - chest (breast)  
+singa - lion  
 sing - star  
 Singapur - Singapore  
-sinokapse - rib cage  
-sinoplate - breastplate  
-sinye - sign (signal)  
-sira - hide (conceal)  
-siri - zero (none)  
-siri - secret  
-siri mote - stealth  
-sirka - surround (encircle)  
-sirke - circle (round)  
-sirki - round (circular)  
-sirkosheke - cobblestone  
-siro motu - sneak  
-sirplan - conspiracy (plot)  
-sisfas - hexahedron (cube)  
-sisgon - hexagon  
+sina kasa - rib cage  
+sina plate - breastplate  
+sin - sign (signal)  
+fa sir - hide (conceal)  
+siro - zero (none)  
+sir - secret (hidden)  
+sir ta - stealth (secrecy)  
+fa cirke - surround (encircle)  
+cirke - circle (round)  
+cirke di - round (circular)  
+cirke sheki - cobblestone  
+sir move - sneak  
+sir plan - conspiracy (plot)  
+luku fas - hexahedron (cube)  
+luku gon - hexagon  
 sismo - shake (jolt, earthquake)  
 sismologi - seismology  
 sistem - system  
-sistem li - systemic  
-sivili - civilized (civil)  
-sivilia - civilization  
-siyahi - black  
+sistem di - systemic  
+civil - civilized (civil)  
+civil ta - civilization  
+kala - black  
 Slave - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-sofa* - sofa (couch)  
+sofa - sofa (couch)  
 sofi - wise  
 sofita - wisdom  
 soi - soy bean  
@@ -3459,111 +3460,111 @@ soi sos - soy sauce
 soka - search (seek, look for)  
 sol - sun  
 sol chati - parasol  
-solchentaur - yellow starthistle  
-solestas - solstice  
-solful - sunflower  
+sol centaure - yellow starthistle  
+sol estaci - solstice  
+sol ful - sunflower  
 Solomon nesia - Solomon Islands  
-solsistem - solar system  
-som - sleep  
+sol sistem - solar system  
+sona - sleep  
 Somal - Somalia  
 Somal Desha - Somaliland  
-somivi - drowsy  
-somkamar - bedroom  
-sompapil - opium poppy  
-somu - sleep (be asleep)  
-son - sound (audio)  
-sona - sound (make a sound)  
+sona tabi - drowsy  
+sona kamar - bedroom  
+sona papil - opium poppy  
+sona - sleep  
+soni - sound (audio)  
+fa soni - sound (make a sound)  
 song - pine tree  
 sor - lock (fastener)  
-sora - lock (fasten)  
-sori - locked (secure)  
+fa sor - lock (fasten)  
+sor di - locked (secure)  
 sos - sauce  
-sosa - socialize (interact)  
-sosi - social  
-sosi jinse - social gender  
-sosi media - social media  
-sosia - society (association)  
+fa soci - socialize (interact)  
+soci di - social  
+soci jinse - social gender  
+soci medi gi - social media  
+soci - society (association)  
 sosis - sausage  
-sosiste - socialist  
-sosistia - socialism  
+soci jui ja - socialist  
+soci jui - socialism  
 Soto - Lesotho  
-speter - spectator (observer)  
 suahili - Swahili  
 sual - question (query, inquiry)  
-suala - ask (inquire)  
-sualan - interrogative  
+fa sual - ask (inquire)  
+sual di - interrogative  
 Sualbarde - Svalbard  
-sualdokum - form (questionaire)  
-sualtem - issue (affair, concern)  
-suan - acid  
-suani - sour  
-suanpurshipa - pickle (preserve in vinegar or brine)  
-suanpurshipi - pickled  
-suanpurshipi hiyar - gherkin (pickle)  
+sual dokum - form (questionaire)  
+sual tema - issue (affair, concern)  
+suan mate - acid  
+suan - sour  
+fa achar - pickle (preserve in vinegar or brine)  
+achar di - pickled  
+achar hiyar - gherkin (pickle)  
+su - possessive postposition (’s)  
 Suati - Eswatini (Swaziland)  
-sube - morning (dawn)  
-suboden - forenoon  
-subyam - breakfast  
-Sudafrike - South Africa  
+suba - morning (dawn)  
+suba den - forenoon  
+suba yam - breakfast  
+Sude Afrika - South Africa  
 Sudan - Sudan  
 sude - south  
-sudi - southern  
-Sudi Amerike - South America  
-Sudi chosen - South Korea (Republic of Korea)  
-Sudi Iria (Alonia) - South Ossetia (Alania)  
-Sudi Jorjia e Sudi Sanduiche nesia - South Georgia and the South Sandwich Islands  
-Sudi Sudan - South Sudan  
-suede - sweat (perspiration)  
-suedi - sweaty  
-Suenia - Sweden  
+sude di - southern  
+Sude Amerika - South America  
+Sude Chosen - South Korea (Republic of Korea)  
+Sude Iria (Alonia) - South Ossetia (Alania)  
+Sude Jorjia e Sudi Sandviche nesia - South Georgia and the South Sandwich Islands  
+Sude Sudan - South Sudan  
+sueda - sweat (perspiration)  
+sueda di - sweaty  
+Sven - Sweden  
 sui - water  
 Suice - Switzerland  
-suigas - steam (vapor)  
-suikaboge - calabash  
-suiminte - watermint  
-suirang - watercolor  
-suisekuri - waterproof  
-suiyau - thirst  
-suja - suggest (propose)  
+sui gas - steam (vapor)  
+sui kaboga - calabash  
+sui minta - watermint  
+sui rang - watercolor  
+sui sekur di - waterproof  
+sui yau - thirst  
+fa suje - suggest (propose)  
 suje - suggestion (proposal)  
-suka - please (satisfy, delight)  
+fa suka - please (satisfy, delight)  
 sukar - sugar  
-sukarbete - sugar beet  
-sukarchau - sugarcane  
-sukari - sugary (sweet)  
-sukaroranje - sweet orange  
-suki - pleased (delighted, happy)  
-suku - like (enjoy, be fond of)  
-sulfe - sulfur (brimstone)  
-sulta - rule (be in charge)  
-sultan - ruler  
-sultania - sultanate  
-sultia - power (authority, rule)  
+sukar bete - sugar beet  
+sukar cau - sugarcane  
+sukar di - sugary (sweet)  
+sukar oranje - sweet orange  
+suka - pleased (delighted, happy)  
+be suka - like (enjoy, be fond of)  
+sulfur - sulfur (brimstone)  
+fa sultan - rule (be in charge)  
+sultan ja - ruler  
+sultan desha - sultanate  
+sultan - power (authority, rule)  
 sum - sum (total)  
-suma - sum up (add together)  
+fa sum - sum up (add together)  
 sun - soon  
 sundar - beautiful (handsome, pretty)  
 sundar shutu - fine arts  
-sundardaka - decorate (embellish)  
-sundardake - decoration (ornament)  
-sundaria - beauty  
+fa sundar daka - decorate (embellish)  
+sundar daka - decoration (ornament)  
+sundar ta - beauty  
 Suomi - Finland  
-suomi - Finnish  
-supe - soup (stew)  
-superi - superb (wonderful, super)  
-supra - surpass (go over)  
-supre - overpass  
-supri - upper  
-suprize - surprise  
-supro - above (over)  
+suomi basha - Finnish language  
+supa - soup (stew)  
+super - superb (wonderful, super)  
+be supra - surpass (go over)  
+supra - overpass  
+supra di - upper  
+supriza - surprise  
+pa supra - above (over)  
 Suria - Syria  
 Surinam - Suriname  
-surinami bash - Sranan Tongo  
+surinam basha - Sranan Tongo  
 susan - lily  
 sushi - sushi  
-suta - sew  
+siu - sew  
 sutur - suture (seam)  
-suyi - watery  
+sui di - watery  
 ####T - T  
 tabaku - tobacco  
 tabi - nature (disposition, essence, character, -ive, -ness, -ity)  
@@ -3602,7 +3603,7 @@ tarif - tarif (tax, duty)
 tarjum - translate (interpret)  
 tarjum ja - interpreter (translator)  
 tarjum she - translation (interpretation)  
-tas - dish  
+tasa - bowl (dish)  
 tatike - tactics (strategy)  
 tatu - tattoo  
 tava - frying pan  
@@ -3694,7 +3695,7 @@ Trinidade e Tobago - Trinidad and Tobago
 Triton - Triton  
 truke - trick (ruse, fraud)  
 tu - you (singular)  
-tu di - your  
+tu su - your  
 tualete - toilet (WC)  
 tubo - tube (pipe)  
 tuh - spit  
@@ -3702,7 +3703,7 @@ tul - tool
 tulium - thulium  
 tulpan - tulip  
 tumen - you all  
-tumen di - your  
+tumen su - your  
 tundra - tundra  
 tundra shan - fell  
 tunel - tunnel  
@@ -3827,7 +3828,7 @@ vice pa - step-father
 vice prezidente - vice-president  
 vice raja - viceroy  
 vide - look (see)  
-vide ja - spectator (sightseer)  
+vide ja - spectator (sightseer, observer)  
 vide meden - visual field (field of vision)  
 vide punte - perspective (point of view)  
 vide she - view (vision)  
@@ -3871,7 +3872,7 @@ xenon - xenon
 ####Y - Y  
 ya - he or she or it  
 ya - area of thinking or being  
-ya di - his or her  
+ya su - his or her  
 yagu - about (approximately, nearly, almost)  
 yagu nes - peninsula  
 Yahve - Yahweh (Jehovah)  
@@ -3883,7 +3884,7 @@ yam she - food (meal)
 yam sukar cau - duruka  
 yam yau - hunger  
 yamen - they  
-yamen di - their  
+yamen su - their  
 yang - kind (style, sort, type)  
 Yapetus - Iapetus  
 yasen - ash tree  

@@ -366,48 +366,48 @@ They are there.
 
 
 
-### di <small>'s (possessive particle)</small>
+### su <small>'s (possessive particle)</small>
 
 **i si ke?**
 What's this?
 
-**ya si mi di telefon.**
+**ya si mi su telefon.**
 It's my telephone.
 
-**i si ke di?**
+**i si ke su?**
 Whose is this?
 
-**ya si mi di.**
+**ya si mi su.**
 It's mine.
 
-Note: Possessive particle **di** is put between the owner and the owned thing.
-So **mi di** means "my", **tu di** means "your" and so on.
+Note: Possessive particle **su** is put between the owner and the owned thing.
+So **mi su** means "my", **tu su** means "your" and so on.
 
 **ya si ke?**
 Who's he/she?
 
-**ya si mi di doste.**
+**ya si mi su doste.**
 He/she is my friend.
 
-**mi si Sara di doste.**
+**mi si Sara su doste.**
 I am Sarah's friend.
 
-<small>Etymology. **di**
-Mandarin: 的 (de).</small>
+<small>Etymology. **su**
+English _'s_, Afrikaans _se_, Spanish _su_.</small>
 
 
 ### nam <small>name</small>
 
-**tu di nam si ke?**
+**tu su nam si ke?**
 What's your name?
 
-**mi di nam si Tomas.**
+**mi su nam si Tomas.**
 My name is Thomas.
 
-**ya di nam si ke?**
+**ya su nam si ke?**
 What is his/her name?
 
-**ya di nam si Sara.**
+**ya su nam si Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎
@@ -580,7 +580,7 @@ Sorry, I don't understand.
 **maf! i si ke?**
 Excuse me, what's this?
 
-**maf. tu di nam si ke?**
+**maf. tu su nam si ke?**
 Excuse me, what's your name?
 
 
@@ -625,7 +625,7 @@ I can speak a little Pandunia.
 **mi no bil english.**
 I can't speak English.
 
-**maf. mi no bil tu di bax.**
+**maf. mi no bil tu su bax.**
 Sorry, I can't speak your language.
 
 
@@ -700,7 +700,7 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**ching kitaba tu di adres.**
+**ching kitaba tu su adres.**
 Please, write your address.
 
 **ching kitaba ya an i.**
@@ -841,7 +841,7 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai salam tu di doste.**  
+**mi zai salam tu su doste.**  
 I am greeting your friend.
 
 **man ye zai vide un filme.**  
@@ -856,7 +856,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas salam tu di doste.**  
+**mi pas salam tu su doste.**  
 I greeted your friend.
 
 **man ye pas vide un filme fem.**  
@@ -871,7 +871,7 @@ He or she was at home.
 
 ### leu <small>already, completed</small>
 
-**mi leu salam tu di doste.**  
+**mi leu salam tu su doste.**  
 I have greeted your friend.
 
 **man leu vide un filme.**  
@@ -886,7 +886,7 @@ He or she has been at home.
 
 ### vil <small>in the future</small>
 
-**mi vil salam tu di doste.**  
+**mi vil salam tu su doste.**  
 I will greet your friend.
 
 **man vil vide a filme.**  

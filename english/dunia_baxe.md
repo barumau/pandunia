@@ -367,16 +367,16 @@ Add **men** to form the plural:
 | you all    | tumen      | nǐmen      |
 | they       | yamen      | tāmen      |
 
-Add **di** to form the possessive:
+Add **su** to form the possessive:
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi di      | wǒ de      |
-| your       | tu di      | nǐ de      |
-| his/her    | ya di      | tā de      |
-| our        | mimen di   | wǒmen de   |
-| your       | tumen di   | nǐmen de   |
-| their      | yamen di   | tāmen de   |
+| my         | mi su      | wǒ de      |
+| your       | tu su      | nǐ de      |
+| his/her    | ya su      | tā de      |
+| our        | mimen su   | wǒmen de   |
+| your       | tumen su   | nǐmen de   |
+| their      | yamen su   | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 

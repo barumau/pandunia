@@ -16,19 +16,19 @@ acordo (tratado, contrato) - trati
 acordo - samrayia  
 acéfalo - sar na di  
 adesivo - glute grafi  
-adjetivo - sifloge  
+adjetivo - sifa loga  
 administrador - politer  
 adversário -   
 aeite (óleo) - nefte  
 aeroporto - air porte  
-aeróbico - air bio li  
+aeróbico - air bio di  
 Afeganistão - Afgan  
 agacharse - insida  
 agente - karma ja  
 agressor - agreser  
 agrobiologia - nong bio logi  
 agronomia - nong nomi  
-agrícola - nong li  
+agrícola - nong di  
 ai! - au  
 ainda - zoku  
 alaranjado - oranji  
@@ -54,7 +54,7 @@ amargo - kali guste
 ameixa - plum  
 amor - ai  
 amêndoa - badam  
-anaeróbico - an air bio li  
+anaeróbico - an air bio di  
 analógico - zoku di  
 andesito - andesite  
 anel - ring  
@@ -137,7 +137,7 @@ basketball - baske bol
 bastante (suficiente) - basa  
 baía - bai  
 bebê - bebe  
-beleza - sundaria  
+beleza - sundar ta  
 belo (lindo) - sundar  
 bem-estar - salamia  
 beringela - bedinjan  
@@ -176,9 +176,9 @@ búzio - kauri
 cabelo - sar kesha  
 cabeça - sar  
 cacto - katus  
-cafeteira - kafopote  
+cafeteira - kafe pote  
 café - kafe  
-café - kafokan  
+café - kafe kan  
 cal - kalsomate  
 calcita - kalsite  
 calcular - hisaba  
@@ -191,7 +191,7 @@ camarão - krevete
 camisa - kamisa  
 camomila-romana - romakamil  
 camomila-vulgar - kamil  
-cana-de-açúcar - sukarchau  
+cana-de-açúcar - sukar cau  
 canguru - kangaru*  
 canhão (ravina, barranco) - kanyon  
 canhǎo - daipau  
@@ -223,7 +223,7 @@ castanho (marrom) - brun
 cavar (escavar) - kava  
 caçar - saida  
 cebola - piaze  
-cem (100) - shoti  
+cem (100) - cen  
 cemitério - gabur bagi  
 cenoura - karote  
 centro - jung  
@@ -239,7 +239,7 @@ champanhe - shampan vin
 chance - chanse  
 charme - charme  
 chave - chabe  
-chavena (tigela de chá) - chai kupe  
+chavena (tigela de chá) - chai kupa  
 chefe - shefe  
 cheio - puri  
 cheirar - aroma  
@@ -249,7 +249,7 @@ chocolate - choklate
 chuva - shava  
 chuvoso (pluvioso) -   
 chá - chai  
-ciclista - sikliste  
+ciclista - cikle ja  
 cidade - citi  
 cinco (5) - penta  
 cintilar - shingofota  
@@ -268,7 +268,7 @@ combinar com - konboni
 começo (início, princípio) - shuru  
 como - ko?  
 compaixão - samemos  
-complô (conspiração) - sirplan  
+complô (conspiração) - sir plan  
 comportamento (conduta) - manir  
 composto - bio cana she  
 comprar - shopa  
@@ -365,7 +365,7 @@ documentário - dokumfilme
 dois (2) - du  
 domingo - var sete  
 doméstico - domi  
-dormir - somu  
+dormir - sona  
 ducha - dush  
 durar - dura  
 duração - dur  
@@ -381,7 +381,7 @@ elemento - em
 elemento químico - kimem  
 eletricidade - eletre  
 elfo - elfe  
-elo - sil  
+elo - sili tika  
 elogio - euloge  
 embalar - lifafa  
 emoticon (emoji) - emoje  
@@ -416,7 +416,6 @@ eslavo - Slave
 esmeralda - zumarda  
 espada - katane  
 espaço - hali harfi  
-espetador - speter  
 espirrar - achi  
 espodossolo - huidarte  
 esponja - esponje  
@@ -470,7 +469,7 @@ fazenda (tecido) - tela
 fazer - fa  
 fechadura - sor  
 feio - dusvidi  
-feliz - suki  
+feliz - suka  
 feno - gan cau  
 fermentar - be bio mute  
 fibra - linem  
@@ -520,7 +519,7 @@ geometria - geo metri
 geopolítica - geo politika  
 Germânia - Germania  
 girafa - jiraf  
-girassol - solful  
+girassol - sol ful  
 golfinho (delfim) - dolfin  
 gorila - gorila  
 governo - polite  
@@ -548,8 +547,8 @@ honesto (sincero) - amen
 honra - onor  
 honrar - onora  
 hora - hor  
-hortelã - minte  
-hortelã-da-água - suiminte  
+hortelã - minta  
+hortelã-da-água - sui minta  
 hortelã-pimenta - piprominte  
 hortelã-verde - zong minte  
 hotel - hotel  
@@ -600,6 +599,7 @@ jambolão (jambo) - jamul
 janela - janel  
 Japão - Nipon  
 jarra (jarro) - jar  
+jasmim - moli  
 Javé (Jeová) - Yahve  
 jengibre - zinji  
 Jesus Cristo - Yesu mesi  
@@ -718,16 +718,16 @@ meranti - merante
 mercado (bazar) - bazar  
 Mercúrio - Merkur  
 merda - shite  
-mesa - meze  
+mesa - meza  
 mestre - mester  
 meta (gol) - gol  
 metro - mitre  
-microbiologia - mikrobiologi  
+microbiologia - mikro bio logi  
 microscópio - mikroskope  
-micróbio - mikrobiu  
+micróbio - mikro bio  
 migração - migre  
 mina - kuangia  
-mirar (apontar) - dika  
+mirar (apontar) - fa dika  
 mito - deu kata  
 modelar - forma  
 modo (maneira, jeito) - mode  
@@ -753,7 +753,7 @@ Mover-se - kinu
 moyen - medi  
 mudança climática - klimmute  
 mudar-se - migru  
-multilíngue (plurilíngue) - polbashi  
+multilíngue (plurilíngue) - poli basha di  
 mundo - dunia  
 mundo das fadas (paraíso) - pari desha  
 muro (muralha) - mur  
@@ -785,7 +785,7 @@ nivel - par
 noite - noche  
 noitinha - sham  
 norte - norde  
-nosso - mimen di  
+nosso - mimen su  
 nostalgia (saudade) - nostalgia  
 nota - note  
 novato (neófito) - nove jen  
@@ -804,12 +804,12 @@ número - numbe
 o (a) - a  
 ####O - O  
 o que - ke  
-objetivo - dike  
+objetivo - dika  
 oblíquo (torto) - terca  
 obsidiana - osidian  
 oceano - daihai  
 ocular - oko di  
-ocultar (esconder) - sira  
+ocultar (esconder) - fa sir  
 ocupado (atarefado) - mangi  
 oito (8) - bato  
 oleiro - poter  
@@ -854,7 +854,7 @@ pantomima (mímica) - panmim
 papel - kaguje  
 papel de parede - murkaguje  
 papoila - medenpapil  
-papoila-dormideira - sompapil  
+papoila-dormideira - sona papil  
 par - parike  
 para-lama - fandefban  
 parque - parke  
@@ -871,12 +871,12 @@ pausa - pauze
 paz - pace  
 pederneira - hogosheke  
 pedir emprestado - jekogeta  
-pedra - sheke  
+pedra - sheki  
 pedra preciosa (gema) - bau sheke  
 pedregulho - daisheke  
 pedrinha - lilsheke  
 pegada - fute marke  
-pegajoso (adesivo) - glute li  
+pegajoso (adesivo) - glute di  
 peidar - peda  
 peido - pede  
 peixe - pesh  
@@ -889,7 +889,7 @@ pequeno - lili
 perdedor - shibayer  
 perder - shibaya tena  
 perdoar (desculpar) - mafa  
-perguntar - suala  
+perguntar - fa sual  
 perigo - hatar  
 perplexo (confuso) - ruhmishi  
 peru - dinde  
@@ -931,9 +931,9 @@ prancheta - pinsoban
 prata - argente  
 prateleira (estante) - liboban  
 praça - meden  
-precioso - bau li  
+precioso - bau di  
 preferir - mas fili  
-preto - siyahi  
+preto - kala  
 primo - chin brus ben  
 problema - problem  
 professor (docente) - shula guru  
@@ -957,7 +957,7 @@ quadrinhos (banda desenhada) - grafi kata
 quando - ke sate  
 quarta-feira - var tri  
 quarteirão - mahala  
-quarto (dormitório) - somkamar  
+quarto (dormitório) - sona kamar  
 quartzo - kuarze  
 quatro (4) - chatre  
 que (como) - ka  
@@ -1052,8 +1052,8 @@ saúde - salia
 se - ga  
 se - se  
 seabórgio - siborgium  
-seda - silke  
-sede - suiyau  
+seda - silko  
+sede - sui yau  
 segunda-feira - var un  
 seguro - sekuri  
 seio (mama) - mam  
@@ -1077,33 +1077,33 @@ simetria - sammetre
 simulação - samsifia  
 sino (campainha) - danger  
 situaçao - sheihal  
-sociedade - sosia  
+sociedade - soci  
 sogra - gammai  
 sogro - gampai  
 soja - soi  
 sol - sol  
 soldado - gunjan  
-som - son  
+som - soni  
 sombrinha - sol chati  
-sono - som  
-sonolento - somivi  
+sono - sona  
+sonolento - sona tabi  
 sorvete (gelado) - ais krem  
 substância - kim  
 suco (sumo) - jus  
-suor - suede  
+suor - sueda  
 superestimar (sobrestimar) -   
 suástica (cruz gamada) - huke krus  
 Suíça - Suice  
 sábado - var luku  
 São Paulo - Sante Paulo  
-série (sequência) - silia  
+série (sequência) - sili  
 só (solitário) - unike jan di  
 ####T - T  
 tablet - table komputa  
 tangerina (mandarim) - lal oranje  
 taxímetro - taksi metre gi  
 tear - tela gi  
-tectónica de placas - plati geyokaskia  
+tectónica de placas - plate geo kaske logi  
 teia de aranha - arane nete  
 tela - penta tela  
 telefonar - fa tele fon  
@@ -1124,7 +1124,7 @@ terminar (acabar, concluir) - purfina
 Terra - Geo  
 terra natal - jen loka  
 terracota - baka fan  
-terraplanista - platogeyiste  
+terraplanista - plate geo jui ja  
 terreno - geo forme  
 terça-feira - var du  
 teste - teste  
@@ -1179,7 +1179,7 @@ vale (uadi) - vali
 valor (valia) - valu  
 valorar - fa valu  
 vampiro - vampir  
-vapor - suigas  
+vapor - sui gas  
 vara (bastão) - baton  
 vaso de flores - hua pote  
 vazar - lou  
@@ -1216,7 +1216,7 @@ vogal - jungofon
 voltar (regressar) - retru  
 vontade - vol she  
 voo - fei  
-vosso - tumen di  
+vosso - tumen su  
 votar - fa vote  
 voto - vote  
 vulcão - hogoshan  

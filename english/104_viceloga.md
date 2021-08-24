@@ -15,15 +15,15 @@ Pronouns can substitute nouns and noun phrases.
 
 All pronouns can be used for all genders.
 
-The possessive pronouns consists of the personal pronoun and the possessive particle **di**.
+The possessive pronouns consists of the personal pronoun and the possessive particle **su**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi di**   | **mimen di** |
+| **mi su**   | **mimen su** |
 | my          | our          |
-| **tu di**   | **tumen di** |
+| **tu su**   | **tumen su** |
 | your        | your         |
-| **ya di**   | **yamen di** |
+| **ya su**   | **yamen su** |
 | his or her  | their        |
 
 

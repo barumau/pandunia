@@ -8,7 +8,7 @@ Afgan - アフガニスタン
 ai - 愛  
 ai ja - 恋人 (恋人)  
 air - 空気  
-air bio li - 好気性  
+air bio di - 好気性  
 air gun - 空軍  
 air porte - 空港  
 ais - 氷 (アイス)  
@@ -25,11 +25,11 @@ amen bil - 忠実
 amen shin - 信頼する  
 ami - 愛しい  
 amir lin - コマンド行  
-an air bio li - 嫌気性  
+an air bio di - 嫌気性  
 an din ja - 不信者  
 an eskala - 下る (降りる)  
 an jami - 散らす  
-an jami li - 疎ら  
+an jami di - 疎ら  
 an memo - 忘れる  
 an sona - 不眠症  
 andesite - 安山岩  
@@ -152,7 +152,7 @@ cau istan - 草地
 chabe - 鍵  
 chai - 茶  
 chai kan - 茶店 (茶館)  
-chai kupe - 茶碗  
+chai kupa - 茶碗  
 chai pote - 急須  
 chakra - 車輪  
 chamache - スプーン  
@@ -206,8 +206,8 @@ desha jan - 市民
 deu - 神  
 deu kata - 神話  
 deu nagar harfi - デーヴァナーガリー  
-dika - 狙う  
-dike - 標的 (ターゲット)  
+fa dika - 狙う  
+dika - 標的 (ターゲット)  
 din - 宗教  
 din ja - 信徒 (信者)  
 dinamite - ダイナマイト  
@@ -362,7 +362,7 @@ gluta - 張る (付く)
 glute bande - 絆創膏  
 glute fan - 粘土  
 glute grafi - ステッカー  
-glute li - 粘い  
+glute di - 粘い  
 gol - 目的 (行き先, ゴール)  
 gorila - ゴリラ  
 grafi kata - 漫画  
@@ -441,7 +441,7 @@ huli - 狐
 huri - 自由  
 ####I - I  
 iha uma - 騾馬  
-iki - 的  
+ka - 家  
 in - 内  
 inan - コンテナ  
 inmigra - 移住する (移民する)  
@@ -492,8 +492,8 @@ ka - より
 kaboga - カボチャ  
 kade - 鱈  
 kafe - コーヒー  
-kafokan - カフェ (コーヒー店)  
-kafopote - コーヒーポット  
+kafe kan - カフェ (コーヒー店)  
+kafe pote - コーヒーポット  
 kaguje - 紙  
 kagujolimon - メキシカンライム (マナオ)  
 kalam - ペン  
@@ -559,7 +559,7 @@ kimono* - 着物
 kina - 動かす  
 kinar - 際 (端)  
 kinar baryer - 柵 (垣)  
-kinograf - 映画  
+kino grafi - 映画  
 kinu - 動く  
 kire - 賃貸  
 kita - 行く  
@@ -687,6 +687,8 @@ Magribia - モロッコ
 majang - 麻雀  
 majenti - マゼンタ (紅紫色)  
 makanful - タンポポ  
+moli - 茉莉  
+moli hua chai - 茉莉花茶  
 malnomia - 経済学  
 man - 男  
 man raja - 王様  
@@ -740,19 +742,19 @@ metallin - 線 (針金)
 metre - 測定  
 metre gi - 測定装置 (計)  
 meza tela - テーブル掛け  
-meze - 机 (テーブル)  
-mezistan - 台地 (高地)  
+meza - 机 (テーブル)  
+meza topo - 台地 (高地)  
 mi - 私  
-mi di - 私の  
+mi su - 私の  
 mien - ヌードル  
-mikrobiologi - 微生物学  
-mikrobiu - 微生物  
+mikro bio logi - 微生物学  
+mikro bio - 微生物  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
 milkokardon - マリアアザミ  
 mimen - 私たち  
 mimer - 模倣者  
-minte - ハッカ  
+minta - ハッカ  
 mirdi - 微か  
 misalo - 例えば  
 mishi alkol - カクテル (混合酒)  
@@ -885,9 +887,9 @@ pinsoban - 用箋挟
 piprominte - ペパーミント  
 piram - ピラミッド (金字塔)  
 pise - トウヒ  
-plati - 平ら  
-plati geyokaskia - プレートテクトニクス (プレート理論)  
-platistan - 草原  
+plate di - 平ら  
+plate geo kaske logi - プレートテクトニクス (プレート理論)  
+plate topo - 草原  
 plum - セイヨウスモモ (プラム)  
 poli - たくさん  
 polita - 治める (司る)  
@@ -1027,7 +1029,7 @@ shir - 詩
 shite - 糞 (屎)  
 Shiva - シヴァ  
 shopa - 買う  
-shoti - 百 (１００)  
+cen - 百 (１００)  
 shula - 学ぶ  
 shula guru - 先生 (教師)  
 shula kan - 学校  
@@ -1039,62 +1041,62 @@ shulija - 修理工
 shuru - 開始  
 shusho - しーっ  
 shutu - 術  
-siani - シアン  
+cian - シアン  
 siborgium - シーボーギウム  
-side - 座席 (鞍)  
-sidu - 座る  
-sifloge - 形容詞  
-sikliste - チャリダー  
-sil - 連結  
-silia - 系列  
-silke - 絹  
+side loka - 座席 (鞍)  
+side - 座る  
+sifa loga - 形容詞  
+cikle ja - チャリダー  
+sili tika - 連結  
+sili - 系列  
+silko - 絹  
 sing - 星  
-sira - 隠す  
-siri - 零 (０)  
-siri mote - 忍び  
-sirkosheke - 丸石 (玉石, 栗石)  
-sirplan - 陰謀  
-siyahi - 黒い  
-sofa* - ソファー  
+fa sir - 隠す  
+siro - 零 (０)  
+sir ta - 忍び  
+cirke sheki - 丸石 (玉石, 栗石)  
+sir plan - 陰謀  
+kala - 黒い  
+sofa - ソファー  
 sofita - 知恵  
 soi - 大豆  
 soi milke - 豆乳  
 soi sos - 醤油  
 soka - 探す (捜索する)  
 sol - 太陽 (日)  
-solful - ヒマワリ  
-somkamar - 寝室  
-sompapil - ケシ  
-somu - 寝る  
+sol ful - ヒマワリ  
+sona kamar - 寝室  
+sona papil - ケシ  
+sona - 寝る  
 song - マツ  
 sor - 錠  
 sos - ソース  
-sosi jinse - ジェンダー  
-sosia - 社会  
+soci jinse - ジェンダー  
+soci - 社会  
 sosis - ソーセージ  
 sual - 質問 (問題)  
-suala - 聞く  
-sualdokum - アンケート (質問用紙)  
-suanpurshipa - 酢漬けある  
-suanpurshipe - 漬物  
-sube - 朝  
-subyam - 朝食  
+fa sual - 聞く  
+sual dokum - アンケート (質問用紙)  
+fa achar - 酢漬けある  
+achar - 漬物  
+suba - 朝  
+suba yam - 朝食  
 sui - 水  
 Suice - スイス  
-suigas - 湯気  
-suikaboge - ヒョウタン (ひさご)  
-suiyau - 喉の渇き  
+sui gas - 湯気  
+sui kaboga - ヒョウタン (ひさご)  
+sui yau - 喉の渇き  
 sukar - 砂糖  
-sukarbete - テンサイ (サトウダイコン)  
-sukarchau - サトウキビ  
-sukaroranje - オレンジ (アマダイダイ)  
-suki - 幸せな  
+sukar bete - テンサイ (サトウダイコン)  
+sukar cau - サトウキビ  
+sukar oranje - オレンジ (アマダイダイ)  
+suka - 幸せな  
 sundar - 美しい  
 sundar shutu - 芸術 (美術)  
-sundardaka - 飾る  
-sundardake - 装飾  
-sundaria - 美しさ  
-supre - 上  
+fa sundar daka - 飾る  
+sundar daka - 装飾  
+sundar ta - 美しさ  
+supra - 上  
 ####T - T  
 tabi - 性質 (性)  
 table komputa - タブレットコンピュータ  
@@ -1102,7 +1104,7 @@ tail - タイル (瓦)
 tal moku - 灌木 (藪)  
 tal tela - 絨毯 (カーペット)  
 tan - 茎 (胴)  
-tas - 皿  
+tasa - 皿  
 tehne - 技術  
 tela - 布  
 tela gi - 織機  
@@ -1124,7 +1126,7 @@ tren - 電車 (列車)
 tri - 三 (3)  
 truke - 悪戯 (詐欺)  
 tu - あなた  
-tu di - あなたの  
+tu su - あなたの  
 tumen - あなたたち  
 tuzi - うさぎ  
 ####U - U  

@@ -119,7 +119,7 @@ Adjectives are compared with
 **min** (_less_), **minim** (_least_) and **sam** (_equally, as_).
 The point of comparison is introduced with **ka**.
 
-**mi di granpa e max lau ka tu di pa.**
+**mi su granpa e max lau ka tu su pa.**
 – My grandpa is older than your father.
 
 Adverbs are usually before the word that they modify.
