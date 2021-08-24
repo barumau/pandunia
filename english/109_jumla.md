@@ -417,32 +417,6 @@ Particles **di** and **da** are used to link a noun, an adjective or a verb phra
 **di** connects the modifying word or phrase to the main noun word.
 **da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
-#### Possession
-
-The modifier particle can be used for any possessive noun or pronoun.
-
-With regards to possession, **di** works like the apostrophe-s ('s) in English.
-It indicates that the previous word has possession of the next one.
-
-**Maria di mam**
-– Maria's mother  
-**Maria di mam di dom**
-– Maria's mother's house
-
-**da** works like "of" in English.
-It indicates that the next word has possession of the previous one.
-
-**mam da Maria**
-– the mother of Maria  
-**dom da mam da Maria**
-– the house of the mother of Maria
-
-It's possible to use **da** and **di** with personal pronouns too,
-so one can say things like
-**dom da mi** (_the house of mine_)
-but it's better to use the short possessive pronouns and say simply
-**mi dom** (_my house_).
-
 #### Modification with noun phrases
 
 Another way to use these particles is to connect an adjective or other words with a noun.
@@ -450,16 +424,16 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**rozi rang di labe**
+**roza rang di labi**
 – rose-colored lips  
-**samani rang di oke**
+**sama rang di oko**
 – sky-colored eyes
 
 Or in the opposite order:
 
-**labe da rozi rang**
+**labi da roza rang**
 – lips of the rose-color  
-**oke da samani rang**
+**oko da sama rang**
 – eyes of the sky-color
 
 The particles help in creating measure words too.
@@ -488,6 +462,32 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **di** imm
 **suke da helpa ale**
 – the joy of helping others
 
+#### Possession
+
+The possessive particle
+**su**
+works like the apostrophe-s ('s) in English.
+It indicates that the previous word has possession of the next one.
+
+**Maria su mama**
+– Maria's mother  
+**Maria su mama su dom**
+– Maria's mother's house
+
+The same particle is used with with personal pronouns too.
+
+**mi su dom**
+– my house  
+**tu su dom**
+– your house  
+**ya su dom**
+– his or her house  
+**mimen su dom**
+– our house  
+**tumen su dom**
+– your house  
+**yamen su dom**
+– their house
 
 
 ### Tense and Aspect Particles
