@@ -35,7 +35,7 @@ alaranjado - oranji
 alcachofra - karchof  
 alcachofra-girassol (tupinambo) - masmulsolful  
 alcalino - kali  
-alcaravia (cariz) - karau  
+alcaravia (cariz) - karavi  
 aldeia (vila) - chun  
 alface - letis  
 alfinete - pin  
@@ -64,7 +64,7 @@ anzol - peshhuke
 análise - fenkate  
 aperfeiçoar - purbona  
 apodrecer-se - pudu  
-aprender - shula  
+aprender - fa shula  
 apropriado (apto) - hapi  
 ar - air  
 arame - metallin  
@@ -76,7 +76,7 @@ arco - arka
 argila - glute fan  
 argumento - argum  
 arma - arme  
-arma de fogo - pau  
+arma de fogo - pau gi  
 armadilha - kape truke  
 armadura - defkaske  
 armário - almari  
@@ -118,7 +118,7 @@ bacalhau-do-atlântico - atlanti kade
 bacia - basen  
 baga - beri  
 bagagem - bagaje  
-baile (danza) - danse  
+baile (danza) - dance  
 bambu - bambu  
 banana - banana  
 banco - banka kan  
@@ -167,6 +167,7 @@ bravo! - bravo
 braço - handoshake  
 bu! - bu!  
 Buda - Buda  
+budismo zen - jen buda din  
 bule - chai pote  
 buraco - kave  
 buscar (procurar) - soka  
@@ -192,14 +193,15 @@ camisa - kamisa
 camomila-romana - romakamil  
 camomila-vulgar - kamil  
 cana-de-açúcar - sukar cau  
-canguru - kangaru*  
+canguru - kangaru  
 canhão (ravina, barranco) - kanyon  
-canhǎo - daipau  
+canhǎo - dai pau  
 canoa - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 capa - mantol  
 capa de chuva - shava kote  
 caractere - zi  
+caratê - karate  
 cardo - kardon  
 cardo-mariano - milkokardon  
 cardo-roxo - perkardon  
@@ -244,6 +246,8 @@ chefe - shefe
 cheio - puri  
 cheirar - aroma  
 cheiro - aroma  
+chibata - uma bichi  
+chicote - bichi  
 China - Junguo  
 chocolate - choklate  
 chuva - shava  
@@ -252,14 +256,14 @@ chá - chai
 ciclista - cikle ja  
 cidade - citi  
 cinco (5) - penta  
-cintilar - shingofota  
+cintilar - fa sing foto  
 citologia - celu logi  
 claro - klari  
 cliente - klien  
 coelho (lebre) - tuzi  
 cogumelo - fungu frute  
 coisa - she  
-colaborar - konkara  
+colaborar - kon gung  
 colar (aderir) - gluta  
 colher - chamache  
 colocar (pôr) - fa loka  
@@ -271,12 +275,12 @@ compaixão - samemos
 complô (conspiração) - sir plan  
 comportamento (conduta) - manir  
 composto - bio cana she  
-comprar - shopa  
-compras - shope  
+comprar - fa shopi  
+compras - shopi  
 computador - komputa  
 concerto - konserte  
-condutor (chofer, motorista) - shofer  
-conduzir - shofa  
+condutor (chofer, motorista) - shofer ja  
+conduzir - fa shofer  
 conexão (vínculo, laço) - linke  
 confiar (contar com) - amen shin  
 conselho - sel  
@@ -317,7 +321,7 @@ crème - krem
 crónico - duri  
 cubo - kube  
 cultivar - nong  
-cume (pico, topo) - shanpike  
+cume (pico, topo) - shan pike  
 cápsico - chili  
 cão (cachorro) - vaf  
 céu - sama  
@@ -328,14 +332,14 @@ dado - zar kube
 dados - data  
 damasco (abricó) - briko  
 dano (avaria) - avar  
-danês - dani  
+danês - Danske  
 de - ze  
 dedo - angul  
 deitar - kusha  
 deixar - lasha  
 dente-de-leão (taráxaco) - makanful  
 derretre - yong  
-descanso (repouso) - shante  
+descanso (repouso) - shanti  
 desdentado - dante na di  
 desenvolvimento - darjomute  
 desesperado - asha na di  
@@ -343,7 +347,7 @@ desfigurar - dusforma
 deslizar - glisu  
 despelado - kesha na di  
 despertar - jagu  
-destino - nasibe  
+destino - kisma  
 deus - deu  
 devanágari - deu nagar harfi  
 dever - debu  
@@ -373,7 +377,7 @@ duro - gati
 ####E - E  
 e - e  
 economia - malnomia  
-educação - shulia  
+educação - shula  
 efeito - asar  
 efetuar - fa asar  
 Egipto (Egito) - Misria  
@@ -421,6 +425,7 @@ espodossolo - huidarte
 esponja - esponje  
 esporte - esporte  
 esposo ou esposa - gam  
+espírito (gênio) - jin  
 esquecer - an memo  
 esqueleto - ostojamia  
 esquerdo - lefte  
@@ -455,10 +460,13 @@ exército - gun
 exógeno - eshojeni  
 ####F - F  
 face (faceta) - fas  
+facção - shia  
 fada - pari  
 fadiga - fatigia  
 fala (palavras) - loga  
 falar - loga  
+farmacologia - dava she logi  
+farmácia (drogaria) - dava she kan  
 farol (baliza) - foto minar  
 fato (facto) - fate  
 fator - cana ja  
@@ -501,7 +509,7 @@ fácil - fasili
 gaiola (jaula) - baton kasa  
 galope - galope  
 galáxia - galaksia  
-gamão - narde  
+gamão - nardi  
 gancho - huke  
 ganso - gansa  
 garrafa (botelha) - botel  
@@ -509,11 +517,11 @@ gato - mau
 gato-do-mato (gato-maracajá-mirim) - bagre oselote  
 gato-maracajá - margai  
 gelar - be ais  
-genealogia - jenolojia  
+genealogia - jene logi  
 generalíssimo - gunrajer  
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donivi  
-genótipo - jentipe  
+genótipo - jene tipe  
 geografia - geo grafi  
 geometria - geo metri  
 geopolítica - geo politika  
@@ -524,7 +532,7 @@ golfinho (delfim) - dolfin
 gorila - gorila  
 governo - polite  
 granito - granite  
-graças a - danko da  
+graças a - shukra da  
 grupo - grupe  
 grávida (prenhe) - hamili  
 guarda-chuva - shava chati  
@@ -585,7 +593,8 @@ inimigo - dusjan
 inquisitivo - savovolani  
 inseto - dudu  
 insônia - an sona  
-internacional - nasmedi  
+intenção - nia  
+internacional - nasi medi  
 invernal (hibernal) - lengomosimi  
 inverno - leng mosim  
 ir - kita  
@@ -609,7 +618,7 @@ joule (J) - jul
 jovem - joveni  
 jugo - yogo  
 juiz - juder  
-justiça - adilta  
+justiça - adil ta  
 justo - adil  
 Júpiter - Jupiter  
 ####K - K  
@@ -647,13 +656,14 @@ livre (forro) - huri
 livro - buku  
 lixeira - laji tong  
 lixo (refugo , escória) - laji  
-lição - shula  
+lição - shula she  
 local - loka di  
 longo - long  
 lontra - lotra  
 lua - luna  
 lugar (local) - loka  
 lula (calamar) - kalmar  
+lustroso - foto mira di  
 luta - jihade  
 luteranismo - Luter din  
 luterano - Luter din ja  
@@ -668,7 +678,7 @@ léxico - loga di
 líder (chefe) - lider  
 língua (idioma) - basha  
 língua - lisan  
-língua materna - jeni bash  
+língua materna - jene basha  
 lírio - susan  
 lírio-do-vale - vali susan  
 ####M - M  
@@ -681,7 +691,7 @@ maldição - lana
 malfeitoria (pecado) - duskar  
 mamão (papaia) - papai  
 mancha (marca) - marke  
-manga - kamisa shake  
+manga - kamisa shaka  
 maniqueísmo - manihayistia  
 mantra - mantre  
 mar - hai  
@@ -699,11 +709,14 @@ massa - masa
 massa de modelar (massinha) - plastopaste  
 mastro - masta  
 matadouro - bucha kan  
+matar - fa mata  
+mate (opaco) - foto mata di  
 matemática - hisabolojia  
 matéria - mate  
 maçã - aple  
 medusa - haijel  
 meia - maze  
+meio (instrumento) - medi gi  
 meio (metade) - medi  
 mel - medu  
 melancia - arbuza  
@@ -738,8 +751,8 @@ mol - mol
 moldar (modelar) - plasta  
 moldura - frem  
 molestar (perturber) - fa turbe  
-molhado - shipi  
-molhar - shipa  
+molhado - shipu  
+molhar - fa shipu  
 molho de soja - soi sos  
 momento (instante) - sate  
 momentâneo - sati  
@@ -771,7 +784,7 @@ música - muzike
 nadar (flutuar) - boyu  
 nautiloide - nautile  
 nave espacial - kosmo nave  
-nação - nasia  
+nação - nasi  
 necessidade - yauta  
 necessário - yau di  
 neologismo - nove loga  
@@ -788,7 +801,7 @@ norte - norde
 nosso - mimen su  
 nostalgia (saudade) - nostalgia  
 nota - note  
-novato (neófito) - nove jen  
+novato (neófito) - nove ka  
 nove (9) - tisa  
 novidade - nove  
 novidade - nove ta  
@@ -806,8 +819,9 @@ o (a) - a
 o que - ke  
 objetivo - dika  
 oblíquo (torto) - terca  
+obrigado - shukra  
 obsidiana - osidian  
-oceano - daihai  
+oceano - dai hai  
 ocular - oko di  
 ocultar (esconder) - fa sir  
 ocupado (atarefado) - mangi  
@@ -819,7 +833,7 @@ onde - pa ke
 online - pa lin  
 ontem - chendeno  
 opinião - rai  
-opor - shata  
+opor - shatan  
 opção - chuzable  
 ordem - ratibu  
 orelha - ore  
@@ -847,7 +861,7 @@ pai - pa
 painel - ban  
 palavra (vocábulo) - logem  
 palavra-passe (senha) - pasloge  
-palácio (mansão, palacete) - daidom  
+palácio (mansão, palacete) - dai dom  
 panda - pande  
 pandemia - pandemi patia  
 pantomima (mímica) - panmim  
@@ -873,7 +887,7 @@ pederneira - hogosheke
 pedir emprestado - jekogeta  
 pedra - sheki  
 pedra preciosa (gema) - bau sheke  
-pedregulho - daisheke  
+pedregulho - dai sheke  
 pedrinha - lilsheke  
 pegada - fute marke  
 pegajoso (adesivo) - glute di  
@@ -886,9 +900,10 @@ pepino - hiyar
 pepino-africano (kiwano) - kornomelon  
 pepino-do-mar (holotúrias) - haihiyar  
 pequeno - lili  
-perdedor - shibayer  
-perder - shibaya tena  
+perdedor - shibai ja  
+perder - shibai tena  
 perdoar (desculpar) - mafa  
+perecer - perisha  
 perguntar - fa sual  
 perigo - hatar  
 perplexo (confuso) - ruhmishi  
@@ -936,6 +951,7 @@ preferir - mas fili
 preto - kala  
 primo - chin brus ben  
 problema - problem  
+procedimento (rito) - riti  
 professor (docente) - shula guru  
 profissão - pei gung  
 profundo - fasteli  
@@ -965,16 +981,18 @@ queijo - chize
 queijo fresco - panir  
 queimar - hoga  
 queimarse - hogu  
+queixa (lamento, reclamação) - shikaya  
 quem - ke jan  
 querer (desejar) - vol  
 querido (caro) - ami  
 querido - ai jen  
 questão (pergunta) - sual  
 quiabo - bamia  
-quimono - kimono*  
+quilate - kirate  
+quimono - kimono  
 quincã (cunquate) - kankuate  
 quinta-feira - var chatre  
-quivi - kivi*  
+quivi - kivi  
 química - kimlojia  
 ####R - R  
 rachadura - krake  
@@ -989,6 +1007,7 @@ rasgar - chira
 rato - mushu  
 raça - rasa   
 raíz - mula  
+rebater - boing  
 reciclar - resikle  
 recém-nascido - neujeni  
 regime - politomode  
@@ -998,13 +1017,14 @@ relier (connecter) - linka
 religião - din  
 relógio - horloger  
 remover - kitana  
+remédio (medicamento) - dava she  
 reparador - shulija  
 reparar - shuli  
 reparo - shuli  
 repetir - reya  
 repetição - ri  
 reserva - rezerve  
-resposta - javabe  
+resposta - javabu  
 resto - reste  
 reto - orti  
 retornar - retra  
@@ -1031,6 +1051,7 @@ sabedoria (sagacidade, sapiência) - sofita
 saber (conhecer) - sabi  
 sacada (varanda) - veranda  
 saco - sake  
+sacrifício - kurban  
 sagrada escritura - sante kanon  
 sair - eshtru  
 sal - sale  
@@ -1044,7 +1065,7 @@ samambaia - parne
 samba-canção - bokse pante  
 sanduíche - sanduiche  
 sangue - sang  
-Satanás - shatan  
+Satanás - shatan ja  
 Saturno - Saturne  
 saudação - salame  
 saudável (saudio) - sali  
@@ -1058,6 +1079,7 @@ segunda-feira - var un
 seguro - sekuri  
 seio (mama) - mam  
 seis (6) - luku  
+seita - din shia  
 selva (floresta, jângal) - jangal  
 sem - na  
 semente - seme  
@@ -1070,13 +1092,13 @@ ser humano - insan
 serra - sere  
 sete (7) - sete  
 sexo - jinse  
-sexologia - sekselogi  
+sexologia - sekse logi  
 sexta-feira - var penta  
 sim - ye  
 simetria - sammetre  
 simulação - samsifia  
 sino (campainha) - danger  
-situaçao - sheihal  
+situaçao - she hal  
 sociedade - soci  
 sogra - gammai  
 sogro - gampai  
@@ -1090,6 +1112,7 @@ sonolento - sona tabi
 sorvete (gelado) - ais krem  
 substância - kim  
 suco (sumo) - jus  
+sunismo - suna islam din  
 suor - sueda  
 superestimar (sobrestimar) -   
 suástica (cruz gamada) - huke krus  
@@ -1122,7 +1145,7 @@ teosofia - deu sofi
 ter (achar, receber) - geta  
 terminar (acabar, concluir) - purfina  
 Terra - Geo  
-terra natal - jen loka  
+terra natal - jene loka  
 terracota - baka fan  
 terraplanista - plate geo jui ja  
 terreno - geo forme  
@@ -1144,7 +1167,7 @@ trabalhador - karer
 trabalhar - kara  
 trabalho - gung  
 trajar (vestir-se) - fuku  
-tranquilo (calmo) - shanti  
+tranquilo (calmo) - shanti di  
 transcorrer - duru  
 trator - trator gi  
 trazer - layana  
@@ -1225,6 +1248,7 @@ vários - vari
 Vénus - Venus  
 véu - hijabu  
 ####X - X  
+xiismo - shia islam din  
 Xiva - Shiva  
 ####Y - Y  
 ####Z - Z  

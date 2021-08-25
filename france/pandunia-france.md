@@ -5,12 +5,14 @@ abies - sapin
 acente - accent  
 acesa - accès  
 acesa bil - accessible (atteignable, à portée)  
+achar di - décapé (mariné)  
+achar hiyar - concombre confit (cornichon)  
 achi - éternuer (atchoum)  
 acinium - actinium  
 ada - coutume  
 ada di - ordinaire (habituel, normal)  
 adil - juste  
-adilta - justice  
+adil ta - justice  
 adres - adresse  
 adres harfi - arobase (@)  
 Afgan - Afghanistan  
@@ -33,9 +35,9 @@ air gun - armée de l'ai
 air porte - aéroport  
 Aire - Irland  
 ais - glace  
+ais di - glacé (glacial, gelé)  
 ais hoki - hockey sur glace  
 ais krem - crème glacée  
-ais di - glacé (glacial, gelé)  
 ajibu - merveille  
 akare - acarien  
 akse - axe  
@@ -236,6 +238,7 @@ baze bol - baseball
 baze shula kan - école primaire  
 be ais - geler (glacer)  
 be bio mute - fermenter  
+be suka - se plaire  
 bebe - bébé  
 bedinjan - aubergine  
 bele - pelle  
@@ -243,6 +246,7 @@ ben - fils ou fille
 beri - baie  
 bete - betterave  
 betula - bouleau  
+bichi - fouet  
 bil - pouvoir (possible, capacité, peut-être)  
 bil ta - capacité (pouvoir, habileté)  
 bilor - cristal  
@@ -257,6 +261,7 @@ bir - bière
 biskute - biscuit  
 blu - bleu  
 blu elfe - schtroumpf  
+boing - rebondir  
 bokse - boxe  
 bokse ja - boxeur  
 bokse pante - caleçon  
@@ -285,6 +290,7 @@ buta - botte
 buton - bouton  
 ####C - C  
 celu logi - cytologie  
+cen - cent (100)  
 centaure - Centaurée  
 chabe - clef  
 chai - thé  
@@ -314,24 +320,30 @@ choklatobaton - tablette de chocolat
 chope - houe  
 chun - village  
 chuzable - option  
+cikle - bicyclette  
+cikle ja - cycliste  
+cirke sheki - pavé  
 citi - ville  
 ####D - D  
-daidom - palais (château, manoir)  
-daihai - océan  
-daipau - canon  
-daisheke - rocher  
-daivaze - chaudron  
+dai dom - palais (château, manoir)  
+dai hai - océan  
+dai pau - canon  
+dai pote - chaudron  
+dai sheke - rocher  
 daka - couvrir  
 dalil - preuve  
+dance - dance  
 danger - cloche  
-dani - danois  
-danko da - grâce à  
-danse - dance  
+Danske - danois  
 dante na di - édenté  
 darjomute - développement  
 data - données  
 datobanke - base de données  
 dau ban - panneau de signalisation  
+dava she - médicament (remède)  
+dava she kan - pharmacie  
+dava she logi - pharmacologie  
+dava sui - pocion  
 debili - faible  
 debu - devoir  
 defban - bouclire  
@@ -341,10 +353,10 @@ deu - dieu
 deu kata - mythe  
 deu nagar harfi - dévanagari  
 deu sofi - théosophie  
-fa dika - viser  
 dika - objectif (cible)  
 din - religion  
 din ja - croyant  
+din shia - secte  
 dinamite - dynamite  
 dinde - dinde (dindon)  
 diorite - diorite  
@@ -425,8 +437,17 @@ fa an galta - déboguer (débugger)
 fa asar - effectuer  
 fa bina - construire  
 fa dante - mordre  
+fa dika - viser  
+fa jene - donner naissance (procréer, engendrer, accoucher)  
 fa karma - activer (allumer, mettre en marche, déclencher)  
 fa loka - mettre (placer)  
+fa shipu - mouiller  
+fa shopi - acheter  
+fa shula - apprendre (étudier)  
+fa sing foto - étinceler  
+fa sir - cacher  
+fa sual - demander (poser un question; est-ce que)  
+fa suka - plaire  
 fa tal - baisser  
 fa tele fon - téléphoner  
 fa truke - escroquer  
@@ -470,7 +491,9 @@ foto - lumière
 foto frika - poli  
 foto grafe - photographie  
 foto grafia - photographie  
+foto mata di - mat (opaque)  
 foto minar - fanal (balise)  
+foto mira di - luisant (brillant)  
 France krepe - crêpe  
 francefone - francophone  
 Francefonia - francophonie  
@@ -530,9 +553,9 @@ giuke - jade
 glisu - glisser  
 gluta - coller  
 glute bande - pansement (sparadrap)  
+glute di - adhésif (collant)  
 glute fan - argile  
 glute grafi - autocollant  
-glute di - adhésif (collant)  
 gol - but (destination)  
 gorila - gorille  
 goton - coton  
@@ -643,19 +666,20 @@ janel - fenêtre
 jangal - forêt (jungle)  
 jar - jarre (carafe, cruche)  
 jau - orge  
-javabe - réponse  
+javabu - réponse  
 Jayer - Algérie  
 jeinistia - jaïnisme  
 jeka - prêter (empruntre)  
 jekodona - prêter  
 jekogeta - empruntre  
-jen loka - lieu de naissance  
-jena - donner naissance (procréer, engendrer, accoucher)  
-jeni bash - langue maternelle  
-jenita - élever  
-jenolojia - généalogie  
-jentipe - génotype  
+jen buda din - zen  
+jene basha - langue maternelle  
+jene logi - généalogie  
+jene loka - lieu de naissance  
+jene tipe - génotype  
+jene yo zou - élever  
 jihade - lutte  
+jin - esprit (génie)  
 jino - en avant  
 jinse - sexe  
 jinsolojia - études de genre  
@@ -682,6 +706,7 @@ kafe kan - café
 kafe pote - cafetière  
 kaguje - papier  
 kagujolimon - lime (citron vert)  
+kala - noir  
 kalam - plume  
 kalenda - calendrier  
 kali - base (alcali)  
@@ -698,12 +723,12 @@ kama kanon - Kâmasûtra
 kamar - pièce (chambre)  
 kamil - Camomille sauvage  
 kamisa - chemise  
-kamisa shake - manche  
+kamisa shaka - manche  
 kampistan - terrain de camping  
 kanape - canapé (sofa)  
 kancha - verre  
 kandi - bonbon  
-kangaru* - kangourou  
+kangaru - kangourou  
 kankuate - kumquat  
 kanon - classique (canon)  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -712,6 +737,8 @@ kanyon - canyon (ravin)
 kape truke - piège  
 kara - travailler  
 Karaibia - Caraïbes  
+karate - karaté  
+karate ka - karatéka  
 karbodulokside - dioxyde de carbone  
 karchof - artichaut  
 karde - carte  
@@ -743,18 +770,20 @@ kesha na di - glabre
 kim - substance  
 kimem - élément chimique  
 kimlojia - chimie  
-kimono* - kimono  
+kimono - kimono  
 kina - mouvoir (bouger)  
 kinar - bord  
 Kinshasa - Kinshasa  
 kinu - se mouvoir  
+kirate - carat  
+kisma - destin  
 kita - aller (quitter)  
 kitabu - écrire  
 kitabu gi - machine à écrire  
 kitabu kan - bibliothèque  
 kitabu shutu - littérature  
 kiti - parti  
-kivi* - kiwi  
+kivi - kiwi  
 klari - clair  
 klien - client  
 klimmute - changement climatique  
@@ -762,8 +791,8 @@ klin - tendance
 ko? - comment  
 koda - queue (côté )  
 komputa - ordinateur  
+kon gung - collaborer  
 kon trati - convention (alliance, pacte)  
-konkara - collaborer  
 konseler - consultant (conseiller)  
 konserte - concert  
 kope - copie  
@@ -794,6 +823,7 @@ kuangia - mine
 kuarze - quartz  
 kube - cube  
 kupa - coupe (tasse, verre)  
+kurban - sacrifice  
 kusha - coucher  
 kushloke - couch (couchette)  
 kushu - être couché  
@@ -885,7 +915,6 @@ majang - mah-jong
 makanful - dandélion  
 mal - propriété (possession, bien)  
 malan - possédant (propriétaire)  
-moli - jasmin  
 malnomia - économie  
 malu - appartenir à  
 mam - sein  
@@ -918,7 +947,6 @@ meche - match
 meden - place  
 medenpapil - coquelicot  
 medi - medio  
-medikosui - pocion  
 medu - miel  
 medu fong nide - rayon de miel  
 megi - nuage  
@@ -935,13 +963,13 @@ metalbede - enclume
 metallin - fil de fer  
 metregraf - carte  
 metregrafia - cartographie  
-meza tela - nappe  
 meza - table  
+meza tela - nappe  
 mi - je (me)  
 migre - migration  
 migru - s'installer (déménager)  
-mikro bio logi - microbiologie  
 mikro bio - microbe  
+mikro bio logi - microbiologie  
 mikroskope - microscope  
 milke - lait  
 milkokardon - chardon Marie  
@@ -962,6 +990,7 @@ mokotan - bûche
 moku - arbre  
 mol - mole (unité)  
 mola - moudre  
+moli - jasmin  
 molia - moulin  
 molsheke - meule  
 mos - mousse  
@@ -982,10 +1011,9 @@ nadir mar - rarement
 najis - pollution  
 nama - viande  
 namkitaba - signer  
-narde - backgammon  
-nasia - nation  
-nasibe - destin  
-nasmedi - international  
+nardi - backgammon  
+nasi - nation  
+nasi medi - international  
 nautile - nautile  
 nave - bateau  
 nave lefte - babord  
@@ -997,6 +1025,7 @@ nerve celu - neurone
 nerve toksi - neurotoxine  
 netogeta - télécharger  
 neujeni - nouveau-né  
+nia - intention  
 niche - dessous  
 nide - nid  
 nilchentaur - Centaurée bleuet  
@@ -1018,7 +1047,7 @@ norde - nord
 nostalgia - nostalgie  
 note - note  
 nove - nouveau  
-nove jen - néophyte  
+nove ka - néophyte  
 nove loga - néologisme  
 nove ta - nouveauté  
 numbe - nombre (numéro)  
@@ -1091,7 +1120,7 @@ patilogi - pathologie
 patojener - agent pathogène  
 patomis - infection (contagion)  
 patomisa - infecter  
-pau - pistolet  
+pau gi - pistolet  
 pauze - pause  
 peda - péter  
 pede - pet (vesse)  
@@ -1103,6 +1132,7 @@ penta - cinq (5)
 penta - peindre  
 penta - peinture  
 penta tela - canevas (toile)  
+perisha - périr  
 perkardon - cirse commun  
 pese - argent  
 pesh - poisson  
@@ -1127,9 +1157,9 @@ pize - pizza
 plan - plan  
 plasta - modeler  
 plastopaste - pâte à modeler  
+plate geo jui ja - terreplatiste  
 plate geo kaske logi - tectonique des plaques  
 plate topo - plaine  
-plate geo jui ja - terreplatiste  
 plum - prune  
 poli basha di - plurilingue (multilingue)  
 polite - gouvernement  
@@ -1197,6 +1227,7 @@ ring - anneau
 ringar - ring (manège)  
 ris - riz  
 ris vin - vin de riz  
+riti - procédé (rite)  
 ritim - rhythme  
 riutube - entonnoir  
 rivo - rivière (fleuve)  
@@ -1245,8 +1276,8 @@ sar na di - acéphale (sans tête)
 sati - momentané  
 Saturne - Saturne  
 se - se  
-se di - son (sa)  
-sekselogi - sexologie  
+se su - son (sa)  
+sekse logi - sexologie  
 sekuri - sûr  
 sel - conseil  
 sela - conseiller  
@@ -1264,60 +1295,56 @@ shalke - échelle
 sham - soir (soirée)  
 shampan - Champagne  
 shampan vin - champagne  
-shanpike - cime (pic, sommet)  
-shante - repos  
-shanti - calme (tranquille)  
+shan pike - cime (pic, sommet)  
+shanti - repos  
+shanti di - calme (tranquille)  
 sharke - requin  
-shata - s'opposer à  
-shatan - Satan  
+shatan - s'opposer à  
+shatan ja - Satan  
 shau - peu  
 shava - pluie  
 shava chati - parapluie  
 shava kote - imperméable  
 shava mosim - mousson  
 she - chose  
+she hal - situation (état de choses)  
 shefe - chef  
-sheihal - situation (état de choses)  
 sheki - pierre  
+shia - faction (clique)  
+shia islam din - chiisme  
 shibai - échec  
-shibaya tena - perder  
-shibayer - perdant  
-shingofota - étinceler  
-shipa - mouiller  
-shipi - mouillé  
+shibai ja - perdant  
+shibai tena - perder  
+shikaya - plainte (lamentation)  
+shipu - mouillé  
 shish - brochette  
 shish nama - chachlik  
 shite - merde  
 Shiva - Shiva  
-shopa - acheter  
-shope - shopping  
-cen - cent (100)  
-shula - apprendre (étudier)  
-shula - leçon  
+shopi - shopping  
+shukra - merci  
+shukra da - grâce à  
+shula - éducation  
 shula guru - professeur (enseignant)  
+shula ja - étudiant  
 shula kamar - salle de classe  
 shula kan - école (collège)  
+shula she - leçon  
 shula shefe - directeur (principal)  
-shuler - étudiant  
 shuli - réparation  
 shuli - réparer  
-shulia - éducation  
 shulija - réparateur  
 shuru - début (commencement)  
 shutu - art  
 si - être  
 sifa loga - adjectif  
-cikle - bicyclette  
-cikle ja - cycliste  
-sili tika - maillon (chaînon)  
 sili - série  
+sili tika - maillon (chaînon)  
 silko - soie  
 sing - étoile  
-fa sir - cacher  
-sir ta - célérité  
-cirke sheki - pavé  
 sir plan - complot (conspiration)  
-kala - noir  
+sir ta - célérité  
+soci - société  
 sofa - canapé (sofa)  
 sofita - sagesse  
 soi - soja  
@@ -1325,36 +1352,31 @@ soi milke - lait de soja
 soi sos - sauce de soja  
 soka - chercher  
 sol - soleil  
-sol chati - ombrelle (parasol)  
 sol centaure - Centaurée du solstice  
+sol chati - ombrelle (parasol)  
 sol ful - Tournesol  
 sona - sommeil  
-sona tabi - ensommeillé (somnolent)  
+sona - dormir  
 sona kamar - chambre à coucher  
 sona papil - pavot somnifère  
-sona - dormir  
+sona tabi - ensommeillé (somnolent)  
 soni - son  
 sor - serrure  
 sos - sauce  
-soci - société  
 sosis - saucisse  
 sual - question  
-fa sual - demander (poser un question; est-ce que)  
-achar di - décapé (mariné)  
-achar hiyar - concombre confit (cornichon)  
 sueda - sueur  
 sui - eau  
-Suice - Suisse  
 sui gas - vapeur d’eau  
 sui minta - Menthe aquatique  
 sui yau - soif  
-fa suka - plaire  
+Suice - Suisse  
+suka - heureux  
 sukar - sucre  
 sukar bete - betterave à sucre (betterave sucrière)  
 sukar cau - Canne à sucre  
 sukar oranje - orange douce  
-suka - heureux  
-be suka - se plaire  
+suna islam din - sunnisme  
 sundar - beau  
 sundar ta - beauté  
 susan - lys  
@@ -1404,6 +1426,7 @@ tumen su - votre
 Tunis - Tunisie  
 tuzi - lapin (lièvre)  
 ####U - U  
+uma bichi - cravache  
 un - un (1)  
 un mar - une fois  
 un oko di lense - monocle  

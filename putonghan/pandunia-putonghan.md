@@ -2,10 +2,11 @@
 ####A - A  
 abies - 冷杉  
 acente - 重音符号  
+achar - 腌菜  
 achi - 打喷嚏 (阿嚏)  
 ada - 习惯 (风俗)  
 adil - 公正地  
-adilta - 正义  
+adil ta - 正义  
 adres - 地址  
 Afgan - 阿富汗  
 agile - 灵活的  
@@ -131,6 +132,7 @@ bele - 铲
 beri - 浆果 (莓)  
 bete - 甜菜頭  
 betula - 桦树  
+bichi - 鞭子  
 bil - 会 (可能)  
 bil ja - 熟练  
 bina plan - 建筑学  
@@ -171,6 +173,7 @@ bum - 爆炸
 buton - 扣子  
 ####C - C  
 celu logi - 细胞学  
+cen - सौ  
 chabe - 钥匙  
 chai - 茶  
 chai kan - 茶馆  
@@ -200,19 +203,25 @@ chongching - 重庆
 chope - 锄头  
 chun - 村  
 chuzable - 选择 (买卖权)  
+cikle ja - 骑自行车的人  
+cirke sheki - 鹅卵石  
 ####D - D  
-daidom - 殿 (宫殿, 宅第)  
-daihai - 大洋 (大海)  
-daipau - 大炮  
-daisheke - 磐石  
-daivaze - 炼药锅  
+dai dom - 殿 (宫殿, 宅第)  
+dai hai - 大洋 (大海)  
+dai pau - 大炮  
+dai pote - 炼药锅  
+dai sheke - 磐石  
 danger - 钟 (摇铃)  
-dani - 丹麦的  
+Danske - 丹麦的  
 dante balute - 槲树  
 darjomute - 发展 (开发)  
 data - 数据  
 datobanke - 数据库  
 datotable - 表格  
+dava she - 药物  
+dava she kan - 药店  
+dava she logi - 药理学  
+dava sui - 药水  
 debili - 虚弱 (易坏)  
 defban - 盾牌  
 defkaske - 盔甲  
@@ -221,10 +230,10 @@ desha jan - 公民
 deu - 神  
 deu kata - 神话  
 deu nagar harfi - 天城文  
-fa dika - 瞄准  
 dika - 目的 (目标)  
 din - 宗教  
 din ja - 信徒  
+din shia - 教派  
 dinamite - 甘油炸药  
 dinde - 火鸡  
 ding - 钉子  
@@ -277,11 +286,21 @@ evanjil - 福音
 fa - 作  
 fa bina - 建设  
 fa dante - 咬  
+fa dika - 瞄准  
 fa loka - 放置  
+fa shibai - 输  
+fa shipu - 弄湿  
+fa shofer - 开车  
+fa shopi - 买  
+fa shula - 学习  
+fa shuru - 开始  
+fa sing foto - 闪烁  
+fa sir - 隐藏  
+fa sual - 问  
 fa tele fon - 打电话  
 fa truke - 耍花招  
 fa vode - 许诺  
-faidia - 效用 (好处)  
+faida - 效用 (好处)  
 fan - 坭  
 fandefban - 挡泥板  
 fantopia - 沼泽  
@@ -315,6 +334,7 @@ foto frika - 擦亮
 foto grafe -  照片 (相片)  
 foto lin - 光线  
 foto minar - 信号  
+foto mira di - 光泽  
 frem - 框  
 frika - 擦伤  
 frute - 果  
@@ -357,9 +377,9 @@ gitar - 吉他
 giuke - 玉  
 glisu - 滑下  
 glute bande - 创可贴 (邦迪)  
+glute di - 黏的  
 glute fan - 黏土  
 glute grafi - 贴纸  
-glute di - 黏的  
 gol - 目的  
 gorila - 大猩猩  
 goton - 棉  
@@ -448,7 +468,6 @@ huri - 自由的
 huria - 自由  
 ####I - I  
 iha uma - 骡  
-ka - 家  
 inklusa - 包括  
 inmigra - 移民 (移居)  
 inmigran - 移民者  
@@ -469,15 +488,16 @@ jangal - 森林
 janger - 工匠 (匠人)  
 jar - 罐 (瓶)  
 jau - 大麦  
-javabe - 回答  
+javabu - 回答  
 jeka - 借  
 jekodona - 借出  
 jekogeta - 借入  
-jen loka - 出生地  
-jeni - 生的  
-jeni bash - 母语  
-jenolojia - 系谱学  
-jentipe - 基因型  
+jen buda din - 禅宗  
+jene basha - 母语  
+jene di - 生的  
+jene logi - 系谱学  
+jene loka - 出生地  
+jene tipe - 基因型  
 jinse - 性别  
 jinsolojia - 性别研究  
 jiraf - 长颈鹿  
@@ -490,6 +510,7 @@ Junguo - 中国
 Jupiter - 木星  
 jus - 汁  
 ####K - K  
+ka - 家  
 ka - 比  
 kaboga - 南瓜  
 kade - 鱈  
@@ -498,6 +519,7 @@ kafe kan - 咖啡馆
 kafe pote - 咖啡壶  
 kaguje - 纸  
 kagujolimon - 墨西哥萊檬  
+kala - 黑色  
 kalam - 笔  
 kalenda - 日历  
 kali - 碱性  
@@ -513,19 +535,20 @@ kama kanon - 欲经
 kamar - 房间  
 kamil - 母菊  
 kamisa - 衬衫  
-kamisa shake - 袖子  
+kamisa shaka - 袖子  
 kan - 店 (馆)  
 kanape - 沙发  
 kancha - 玻璃  
 kancha dake - 釉  
 kandi - 糖果  
-kangaru* - 袋鼠  
+kangaru - 袋鼠  
 kankuate - 金柑  
 kanon - 经典  
 kantalupomelon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
 kape truke - 陷阱  
 kara - 工作  
+karate - 空手道  
 karbodulokside - 二氧化碳  
 karchof - 菜蓟  
 karde - 牌  
@@ -555,28 +578,29 @@ kesha na di - 无毛
 kim - 物质  
 kimem - 元素  
 kimlojia - 化学  
-kimono* - 和服  
+kimono - 和服  
 kina - 动  
 kinar - 边  
 kinar baryer - 篱笆  
 kinu - 动  
+kisma - 命運  
 kita - 去  
 kitabu - 写  
 kitabu gi - 打字机  
 kitabu kan - 图书馆  
 kitabu shutu - 文学  
 kitana - 除去  
-kivi* - 奇异果  
+kivi - 奇异果  
 klien - 顾客  
 klimmute - 气候变化  
 klin - 趋势  
 ko? - 怎么  
 koda - 尾巴 (尾部)  
 komputa - 计算机  
+kon - 共同 (一起)  
+kon gung - 合作  
 kon trati - 公約  
 konboni - 相配  
-konkara - 合作  
-kono - 共同 (一起)  
 konseler - 顾问  
 konserte - 音乐会  
 kope - 摹本 (拷貝)  
@@ -604,6 +628,7 @@ kuangia - 矿场
 kuarze - 石英  
 kube - 立方体  
 kupa - 杯子  
+kurban - 牺牲  
 kushu - 躺  
 ####L - L  
 lage - 湖  
@@ -687,8 +712,6 @@ magesium - 镁
 Magribia - 摩洛哥  
 majang - 麻将  
 makanful - 蒲公英  
-moli - 茉莉  
-moli hua chai - 茉莉花茶  
 malnomia - 经济学  
 malu - 属于  
 man raja - 王  
@@ -716,7 +739,6 @@ meche - 比赛
 meden - 广场  
 medenpapil - 虞美人 (雛罌粟)  
 medi - 中型  
-medikosui - 药水  
 medu - 蜜  
 medu fong - 蜜蜂  
 medu fong sanduku - 蜂箱  
@@ -731,12 +753,12 @@ metaljanger - 铁匠
 metallin - 线 (铁丝)  
 metregraf - 地图  
 metregrafia - 地图学  
-meza tela - 桌布  
 meza - 桌子  
+meza tela - 桌布  
 mi - 我  
 migra - 搬家  
-mikro bio logi - 微生物学  
 mikro bio - 微生物   
+mikro bio logi - 微生物学  
 mikroskope - 显微镜  
 milkokardon - 水飞蓟  
 mima - 模拟  (模仿)  
@@ -756,6 +778,8 @@ mokotan - 原木
 moku - 树木  
 mol - 摩尔 (单位)  
 molekul - 分子  
+moli - 茉莉  
+moli hua chai - 茉莉花茶  
 molia - 磨坊  
 molsheke - 磨石  
 mos - 苔藓  
@@ -776,8 +800,7 @@ najis - 污染物
 najisa - 污染  
 nama - 肉  
 namkitaba - 签署  
-nasibe - 命運  
-nasmedi - 国际  
+nasi medi - 国际  
 nautile - 鹦鹉螺  
 nave - 船 (艇)  
 nave lefte - 左舷  
@@ -786,6 +809,7 @@ nefre - 肾脏
 nefte - 油  
 neftoguke - 野菊花  
 nerve toksi - 神经毒素  
+nia - 意图  
 nide - 巢 (穴)  
 nilchentaur - 矢車菊  
 nilon - 尼龙  
@@ -803,7 +827,7 @@ norde - 北
 nostalgia - 怀旧  
 note - 便条  
 nove - 新  
-nove jen - 新手  
+nove ka - 新手  
 nove loga - 新词  
 numbe - 数  
 ####O - O  
@@ -859,7 +883,7 @@ patike - 患者 (病患)
 patilogi - 病理学  
 patojener - 病原体  
 patomis - 传染  
-pau - 手枪  
+pau gi - 手枪  
 peda - 放屁  
 pede - 屁  
 pei gung - 职业  
@@ -934,6 +958,7 @@ ring - 环 (轮)
 ringar - 擂台  
 ris - 米  
 ris vin - 黄酒 (米酒)  
+riti - 方法  
 ritim - 节奏  
 riutube - 漏斗  
 rivo - 河 (江)  
@@ -982,9 +1007,10 @@ Saturne - 土星
 savovol - 趣  
 savovolani - 好奇  
 savovoliti - 有趣  
-sekselogi - 性学  
-semdan - 种子  
+se di - 自私  
+sekse logi - 性学  
 seme - 种  
+seme dane - 种子  
 semi - 种子的  
 sen - 年岁  
 senater - 参议员  
@@ -998,59 +1024,53 @@ shalke - 鳞
 sham - 晚上  
 shanghai - 上海  
 sharke - 鲨鱼 (shayu)  
-shatan - 撒但  
+shatan ja - 撒但  
 shau - 少  
 shava - 雨  
 shava chati - 伞  
 shava kote - 雨衣  
 shava mosim - 雨季  
 she - 事物 (东西)  
-sheihal - 事态  
+she hal - 事态  
 sheki - 石 (岩)  
+shia - 派系  
+shia islam din - 什叶派  
 shibai - 失败 (击败)  
-shibaya - 输  
-shibaya tena - 亏损 (失去)  
+shibai tena - 亏损 (失去)  
 shifu - 师傅  
+shikaya - 怨言  
 shim - 心  
-shingofota - 闪烁  
-shipa - 弄湿  
-shipi - 湿  
+shipu - 湿  
 shir - 诗  
 shish - 扦子  
 shish nama - 串烧  
 shite - 粪 (屎)  
 Shiva - 湿婆  
-shofa - 开车  
-shofer - 司机  
-shopa - 买  
-shope - 购物 (血拼)  
-cen - सौ  
-shula - 学习  
-shula - 课  
+shofer ja - 司机  
+shopi - 购物 (血拼)  
+shukra - 谢谢  
+shula - 教育  
 shula guru - 教师 (老师)  
+shula ja - 学生  
 shula kan - 学校  
+shula she - 课  
 shula shefe - 校长  
-shuler - 学生  
 shuli - 修理  
 shuli - 修理  
-shulia - 教育  
 shulija - 修理工人  
 shuru - 开始  
-shuru - 开始  
-shusho - 噓  
+shush - 噓  
 shutu - 技术  
 si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
-cikle ja - 骑自行车的人  
-sili tika - 连结  
 sili - 系列  
+sili tika - 连结  
 silko - 丝绸  
 sing - 星  
-fa sir - 隐藏  
-cirke sheki - 鹅卵石  
 sir plan - 阴谋 (密谋)  
-kala - 黑色  
+soci - 社会  
+soci jinse - 社會性別  
 sofa - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
@@ -1060,29 +1080,25 @@ soka - 寻找
 sol - 太阳  
 sol ful - 向日葵  
 sol sistem - 太阳系  
+sona - 睡觉 (困觉)  
 sona kamar - 卧室 (寝室)  
 sona papil - 鴉片罌粟  
-sona - 睡觉 (困觉)  
 song - 松  
 sor - 锁  
-soci jinse - 社會性別  
-soci - 社会  
 sosis - 香肠  
 sual - 问题  
-fa sual - 问  
-achar - 腌菜  
 sui - 水  
-Suice - 瑞士  
 sui gas - 蒸汽  
 sui kaboga - 葫芦  
 sui minta - 水薄荷  
 sui yau - 口渴  
+Suice - 瑞士  
+suka - 高兴  
 sukar - 糖  
 sukar cau - 甘蔗  
-suka - 高兴  
 sundar - 漂亮 (美)  
-sundar shutu - 艺术 (美术)  
 sundar daka - 装饰  
+sundar shutu - 艺术 (美术)  
 sundar ta - 美丽  
 supriza - 惊奇  
 susan - 百合花  
@@ -1131,6 +1147,7 @@ tumen - 你们
 tumen su - 你们的  
 tuzi - 兔子  
 ####U - U  
+uma bichi - 马鞭  
 umami - 鲜味  
 un - 一 (1)  
 un mar - 一次 (一遍)  

@@ -3,10 +3,11 @@ abies - пихта
 acente - ударение  
 acesa - доступ  
 acesa bil - доступный  
+achar di - марино́ванный  
 achi - чихать  
 ada - обычай (привычка)  
 adil - справедливый  
-adilta - справедливость  
+adil ta - справедливость  
 adres - адрес  
 Afgan - Афганистан  
 agile - подвижный  
@@ -191,6 +192,7 @@ buta - ботинок
 buton - пуговица  
 ####C - C  
 celu logi - цитология  
+cen - сто  
 centaure - василёк  
 chabe - ключ  
 chai - чай  
@@ -222,24 +224,33 @@ choi - зелень
 choklate - шоколад  
 chope - мотыга  
 chun - деревня (село)  
+cian - циан  
+cikle ja - велосипедист  
+cirke sheki - булыжник  
 ####D - D  
-daidom - дворец (особняк)  
-daihai - океан  
-dailasun - лук исполинский  
-daipau - пушка  
-daisheke - валун  
-daivaze - котёл  
+dai dom - дворец (особняк)  
+dai hai - океан  
+dai lasun - лук исполинский  
+dai pau - пушка  
+dai pote - котёл  
+dai sheke - валун  
 dalil - доказательство  
+dance - танец  
 danga - звенеть  
 danger - звонок  
-dani - датский  
-danse - танец  
+Danske - датский  
 dante balute - дуб зубчатый  
 dante na di - беззубый  
 darjomute - развитие  
 data - данные  
 datobanke - база данных  
 dau ban - табличка с названием улицы  
+dava - лечить  
+dava ja - врач (медик, лекарь, доктор)  
+dava she - лекарство  
+dava she kan - аптека  
+dava she logi - фармакология  
+dava sui - зелье  
 defban - щит  
 defkaske - доспехи  
 den - день  
@@ -247,10 +258,10 @@ deu - бог
 deu kata - миф  
 deu nagar harfi - деванагари  
 deu sofi - теософия  
-fa dika - целиться  
 dika - цель  
 din - религия (вера)  
 din ja - верующий  
+din shia - секта  
 dinamite - динамит  
 dinde - индюк  
 diorite - диорит  
@@ -326,13 +337,23 @@ evanjil - евангелие
 fa - делать  
 fa bina - строить  
 fa dante - откусить  
+fa dika - целиться  
+fa jene - родить  
 fa kancha dake - глазуровать  
 fa loka - ставить  
+fa shibai - проиграть (провалиться)  
+fa shopi - покупать (купить)  
+fa shula - учиться  
+fa side - сидеть  
+fa sing foto - сверкать (мерцать)  
+fa sir - скрывать  
+fa sual - спрашивать  
+fa sundar daka - украсить  
 fa tele fon - звонить  
 fa truke - обмануть  
 fa turbe - утруждать  
 fa valu - оценивать  
-faidia - применение (утилитарность)  
+faida - применение (утилитарность)  
 fan - болото  
 fantopia - болото (топь)  
 fas - грань  
@@ -365,7 +386,9 @@ forma - формировать
 foto - свет  
 foto frika - полировать  
 foto grafia - фотография  
+foto mata di - матовый  
 foto minar - маяк  
+foto mira di - глянцевый  
 frem - рама  
 frika - царапать  
 frute - плод (фрукт)  
@@ -412,9 +435,9 @@ giuke - нефрит (жад)
 glisu - задвигаться (скользи́ть)  
 gluta - клеиться  
 glute bande - пластырь  
+glute di - клейкий (липкий)  
 glute fan - глина  
 glute grafi - наклейка  
-glute di - клейкий (липкий)  
 gol - цель  
 gorila - горилла  
 goton - хлопок  
@@ -520,15 +543,15 @@ janel - окно
 jangal - лес (джунгли)  
 jar - кувшин (графин)  
 jau - ячмень  
-javabe - ответ  
-jen loka - место рождения  
-jena - родить  
+javabu - ответ  
+jen buda din - дзен-буддизм  
+jene basha - родной язык  
+jene di - сырой  
+jene logi - генеалогия  
+jene loka - место рождения  
+jene tipe - генотип  
+jene yo zou - выращивать  
 jengrupe - поколение  
-jeni - сырой  
-jeni bash - родной язык  
-jenita - выращивать  
-jenolojia - генеалогия  
-jentipe - генотип  
 jihade - борьба (бой)  
 jinse - пол  
 jinsolojia - гендерные исследования  
@@ -558,6 +581,7 @@ kafe kan - кафе (кофейня)
 kafe pote - кофейник  
 kaguje - бумага  
 kagujolimon - лайм  
+kala - чёрный  
 kalam - ручка  
 kalenda - календарь  
 kali - щёлочь  
@@ -578,7 +602,7 @@ kanape - канапе
 kancha - стекло  
 kancha dake - глазурь  
 kandi - конфета  
-kangaru* - кенгуру  
+kangaru - кенгуру  
 kanjar - кинжал  
 kankuate - кумкват (кинкан)  
 Kantalupo va Sabina - Канталупо-ин-Сабина  
@@ -587,6 +611,8 @@ kanu - каноэ
 kanyon - овраг (ущелье, каньон)  
 kape truke - ловушка  
 kara - работать  
+karate - каратэ  
+karate ka - каратист (каратэка)  
 karbodulokside - двуокись углерода  
 karbosui - углевод  
 karchof - артишок посевной  
@@ -613,21 +639,22 @@ kesha na di - безволосый
 kim - вещество  
 kimem - химический элемент  
 kimlojia - химия  
-kimono* - кимоно  
+kimono - кимоно  
 kina - двигать  
 kinar - край (грань)  
 kinar baryer - забор (ограда)  
 kino grafi - фильм (кино)  
 kinu - двигаться  
-kire - аренда  
-kirogeta - арендовать  
+kira - аренда  
+kira kape - арендовать  
+kisma - судьба (кисмет)  
 kita - идти  
 kitabu - письмо  
 kitabu gi - пишущая машинка  
 kitabu kan - библиотека  
 kitabu minister - библиотекарь  
 kitabu shutu - литература (словесность)  
-kivi* - киви  
+kivi - киви  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimmute - изменение климата  
@@ -635,11 +662,11 @@ klin - тенденция (склонить)
 ko? - как  
 koda - хвост  
 komputa - компьютер  
+kon gung - сотрудничать (кооперировать)  
 kon trati - контракт  
 konboni - соответствовать (сочетаться)  
 konformu - применяться (согласоваться)  
 konga - пробиться  
-konkara - сотрудничать (кооперировать)  
 konpashia - жалость (сердобольность)  
 konseler - консультант (советник)  
 konserte - концерт  
@@ -673,6 +700,7 @@ kuarze - кварц
 kube - куб  
 kukokamar - кухня  
 kupa - чаша (чашка, стакан)  
+kurban - жертва  
 kusha - положить  (уложить)  
 kushu - лежать  
 ####L - L  
@@ -754,7 +782,6 @@ mahala - квартал
 majang - маджонг  
 majenti - маджента (фуксия)  
 makanful - одуванчик  
-moli - жасмин  
 malnomia - экономика  
 malu - принадлежать  
 man raja - король  
@@ -787,9 +814,7 @@ meche - матч
 meden - площадь (сквер, майдан)  
 medenpapil - мак самосейка  
 medi - средний  
-medika - лечить  
-mediker - врач (медик, лекарь, доктор)  
-medikosui - зелье  
+medi gi - средство  
 medu - мёд  
 medu fong nide - улей (соты)  
 megi - облако  
@@ -802,13 +827,13 @@ mester - мастер
 metalbede - наковальня  
 metregraf - карта  
 metregrafia - картография  
-meza tela - скатерть  
 meza - стол  
+meza tela - скатерть  
 mi - я  
 migre - миграция  
 migru - переезжать  
-mikro bio logi - микробиология  
 mikro bio - микроб  
+mikro bio logi - микробиология  
 mikroskope - микроскоп  
 milke - молоко  
 milkokardon - расторопша пятнистая  
@@ -828,13 +853,14 @@ mokoban - доска (планка)
 mokotan - бревно  
 moku - дерево  
 mola - молоть  
+moli - жасмин  
 molia - мельница  
 molsheke - жёрнов  
 moluske - моллюск  
 mos - мох  
 mosi - мшистый  
 mosim - время года (сезон)  
-Moskou - Москва  
+Moskva - Москва  
 moto - мотор  
 moto sikle - мотоцикл  
 mula - корень  
@@ -852,12 +878,11 @@ najis - грязь (скверна)
 nama - мясо  
 namkitaba - подписать  
 nanas - ананас  
-narde - нарды (триктрак)   
-nasia - нация  
-nasibe - судьба  
-nasmedi - междунаро́дный  
+nardi - нарды (триктрак)   
+nasi - нация  
+nasi medi - междунаро́дный  
 natre - натрий  
-natre - натрит (натр, натрон, кристаллическая сода)  
+natre bilor - натрит (натр, натрон, кристаллическая сода)  
 nautile - наутилид  
 nave - лодка (бот)  
 nave lefte - левый борт  
@@ -867,6 +892,7 @@ nefte - масло
 Neputun - Нептун  
 nerve celu - нейрон  
 neujeni - новорождённый  
+nia - намерение  
 nide - гнездо (улей)  
 nilchentaur - василёк синий  
 nilon - нейлон  
@@ -886,7 +912,7 @@ nostalgia - ностальгия (тоска)
 note - запись (заметка)  
 nove - новинка (новь)  
 nove - новый  
-nove jen - новичок  
+nove ka - новичок  
 nove loga - неологизм  
 nove ta - новизна  
 nu - ну  
@@ -949,9 +975,9 @@ patike - пациент (больной)
 patilogi - патология  
 patojener - патоген  
 patomis - инфекция (заразная болезнь)  
-pau - пистолет  
+pau - стрелять  
+pau gi - пистолет  
 pauze - пауза  
-pava - стрелять  
 peda - пердеть  
 pede - пердение  
 pei gung - профессия  
@@ -1043,6 +1069,7 @@ rim - рифма
 ringar - ринг (манеж)  
 ris - рис  
 ris vin - рисовое вино  
+riti - способ (метод)  
 ritim - ритм (такт)  
 riutube - воронка  
 rivo - река  
@@ -1099,7 +1126,7 @@ savovolani - любознательный
 savovoliti - интересный  
 savovolu - задуматься (думать, гадать)  
 se - себя (-ся)  
-sekselogi - сексология  
+sekse logi - сексология  
 sel - совет  
 sela - советовать  
 selge - мангольд  
@@ -1120,63 +1147,58 @@ sham - вечер
 shaman - шаман  
 shampan - Шампань  
 shampan vin - шампанское  
-shanpike - вершина  
-shante - отдых  
-shanti - спокойный  
+shan pike - вершина  
+shanti - отдых  
+shanti di - спокойный  
 sharke - акула  
-shashu - шурша́ть  
-shata - противостоять  
-shatan - Сатана  
+shasha - шурша́ть  
+shatan - противостоять  
+shatan ja - Сатана  
 shau - мало  
 shava - дождь  
 shava chati - зонтик  
 shava kote - плащ (дождевик)  
 shava mosim - муссон  
 she - вещь  
+she hal - положение (ситуация)  
 shefe - шеф  
-sheihal - положение (ситуация)  
 sheki - камень (камешек)  
-shibaya - проиграть (провалиться)  
-shibaya tena - потерять (утратить)  
-shingofota - сверкать (мерцать)  
+shia - фракция (клика)  
+shia islam din - шиизм  
+shibai tena - потерять (утратить)  
+shikaya - жалоба  
 shish kababu - шиш-кебаб  
 shish nama - шашлык  
 shite - говно (дерьмо)  
 Shiva - Шива  
-shofer - шофёр  
-shopa - покупать (купить)  
-shope - покупка (шоппинг)  
-cen - сто  
-shula - учиться  
-shula - урок (учение)  
+shofer ja - шофёр  
+shopi - покупка (шоппинг)  
+shukra - спасибо  
+shula - образование  
 shula guru - учитель  
 shula kan - школа   
+shula she - урок (учение)  
 shula shefe - директор (ректор)  
 shuli - починка (ремонт)  
 shuli - чинить (ремонтировать)  
-shulia - образование  
 shulija - ремонтник  
 shuru - начало  
-shushi - тихий  
+shush di - тихий  
 shutu - искусство  
 si - быть  
-cian - циан  
 siborgium - сиборгий  
-fa side - сидеть  
 side loka - сиденье (седло)  
 sifa loga - прилагательное  
-cikle ja - велосипедист  
-sili tika - звено  
 sili - серия  
-silko - шёлк  
 sili nete - кольчуга  
-sing - звезда  
+sili tika - звено  
+silko - шёлк  
 sina plate - нагрудник  
-fa sir - скрывать  
-cirke sheki - булыжник  
+sing - звезда  
 sir plan - заговор (сговор)  
-kala - чёрный  
 Slave - славянский  
+soci - общество (социум)  
+soci jinse - гендер  
 sofa - софа (диван, канапе)  
 sofita - мудрость  
 soi - соя  
@@ -1186,34 +1208,30 @@ soka - искать
 sol - солнце  
 sol chati - зонтик от солнца  
 sol ful - подсолнечный  
-sona tabi - сонный  
+sona - спать  
 sona kamar - спальня  
 sona papil - мак снотворный  
-sona - спать  
+sona tabi - сонный  
 song - сосна  
 sor - замок  
 sor di - запереть  
 sos - соус  
-soci jinse - гендер  
-soci - общество (социум)  
 sosis - колбаса (сосиска)  
 sual - вопрос  
-fa sual - спрашивать  
 sual dokum - анкета  
-achar di - марино́ванный  
 sui - вода  
-Suice - Швейцария  
 sui gas - пар  
 sui kaboga - тыква горлянка (калабас)  
 sui minta - мята водная  
 sui yau - жажда  
+Suice - Швейцария  
+suka - счастливый (радостный)  
 sukar - сахар  
 sukar bete - сахарная свёкла  
 sukar cau - сахарный тростник  
 sukar oranje - апельсин  
-suka - счастливый (радостный)  
+suna islam din - сунниты  
 sundar - красивый  
-fa sundar daka - украсить  
 sundar daka - украшение  
 sundar ta - красота  
 susan - лилия  
@@ -1269,6 +1287,7 @@ tumen su - ваш
 tundra shan - фьельды  
 tuzi - кролик (заяц)  
 ####U - U  
+uma bichi - хлыст  
 un - один (1)  
 un mar - один раз  
 un oko di lense - монокль  

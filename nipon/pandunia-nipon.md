@@ -3,6 +3,7 @@
 abies - モミ  
 acesa - アクセス  
 acesa bil - とっつきやすい (アクセス可能)  
+achar - 漬物  
 ada - 習慣 (風俗)  
 Afgan - アフガニスタン  
 ai - 愛  
@@ -107,6 +108,7 @@ ben - 子供 (息子か娘)
 beri - 漿果 (ベリー )  
 bete - テーブルビート  
 betula - 樺  
+bichi - 鞭  
 bil - できる (ありうる)  
 bil ja - 有能  
 bilor - 結晶  
@@ -149,6 +151,7 @@ buta - ブーツ
 ####C - C  
 cau - 草  
 cau istan - 草地  
+cen - 百 (１００)  
 chabe - 鍵  
 chai - 茶  
 chai kan - 茶店 (茶館)  
@@ -179,20 +182,26 @@ choklatobaton - チョコバー
 chope - クワ  
 chun - 村  
 chuzable - オプション (選択)  
+cian - シアン  
+cikle ja - チャリダー  
+cirke sheki - 丸石 (玉石, 栗石)  
 ####D - D  
-daidom - 宮殿 (邸宅)  
-daihai - 大洋 (大海)  
-daipau - 大砲  
-daisheke - 大石  
-daivaze - 大釜 (大鍋)  
+dai dom - 宮殿 (邸宅)  
+dai hai - 大洋 (大海)  
+dai pau - 大砲  
+dai pote - 大釜 (大鍋)  
+dai sheke - 大石  
 danger - 鐘 (鈴)  
-dani - デンマークの  
+Danske - デンマークの  
 dante balute - カシワ  
 darjomute - 発展 (開発)  
 darte - 土  
 datofenkate - データ解析  
 datotable - 表  
 dau - 道  
+dava ja - 医者  
+dava she - 薬 (医薬品)  
+dava sui - ポーション (水薬)  
 dayi - 大きい  
 debili - 弱い (脆弱)  
 defban - 盾  
@@ -206,10 +215,10 @@ desha jan - 市民
 deu - 神  
 deu kata - 神話  
 deu nagar harfi - デーヴァナーガリー  
-fa dika - 狙う  
 dika - 標的 (ターゲット)  
 din - 宗教  
 din ja - 信徒 (信者)  
+din shia - 教派  
 dinamite - ダイナマイト  
 dinde - 七面鳥  
 diorite - 閃緑岩  
@@ -269,13 +278,24 @@ euloge - 賛辞
 europobalute - ヨーロッパナラ  
 ####F - F  
 fa - する  
+fa achar - 酢漬けある  
 fa an galta - デバッグする  
 fa bina - 建てる  
 fa dante - 咬む  
+fa dika - 狙う  
+fa jene - 生む  
+fa shibai - 負ける  
+fa shipu - 濡らす  
+fa shopi - 買う  
+fa shula - 学ぶ  
+fa sing foto - ピカピカ光る (きらきらする)  
+fa sir - 隠す  
+fa sual - 聞く  
+fa sundar daka - 飾る  
 fa tele fon - 電話する  
 fa truke - 騙す  
 fa ver - ただす  
-faidia - 使用 (為, 利)  
+faida - 使用 (為, 利)  
 falsvide - 幻覚  
 fan - 泥  
 fandefban - フェンダー  
@@ -360,9 +380,9 @@ gitar - ギター
 glisu - 滑る  
 gluta - 張る (付く)  
 glute bande - 絆創膏  
+glute di - 粘い  
 glute fan - 粘土  
 glute grafi - ステッカー  
-glute di - 粘い  
 gol - 目的 (行き先, ゴール)  
 gorila - ゴリラ  
 grafi kata - 漫画  
@@ -441,7 +461,6 @@ huli - 狐
 huri - 自由  
 ####I - I  
 iha uma - 騾馬  
-ka - 家  
 in - 内  
 inan - コンテナ  
 inmigra - 移住する (移民する)  
@@ -461,17 +480,17 @@ jan - 人 (者, 員, 徒)
 janel - 窓  
 jangal - 森 (森林, ジャングル)  
 jau - 大麦  
-javabe - 答え (回答)  
+javabu - 答え (回答)  
 jeka - 借用  
 jekodona - 貸す  
 jekogeta - 借りる  
-jen loka - 出生地  
-jena - 生む  
+jen buda din - 禅宗  
+jene di - 生 (未熟)  
+jene logi - 系譜学  
+jene loka - 出生地  
+jene tipe - 遺伝子型  
+jene yo zou - 湧かす  
 jeng - 戦闘 (格闘)  
-jeni - 生 (未熟)  
-jenita - 湧かす  
-jenolojia - 系譜学  
-jentipe - 遺伝子型  
 jinse - 性別 (ジェンダー)  
 jinsolojia - ジェンダー研究  
 jiraf - 麒麟  
@@ -488,6 +507,7 @@ Jupiter - 木星
 jus - ジュース  
 justopaver - 狙撃兵  
 ####K - K  
+ka - 家  
 ka - より  
 kaboga - カボチャ  
 kade - 鱈  
@@ -496,6 +516,7 @@ kafe kan - カフェ (コーヒー店)
 kafe pote - コーヒーポット  
 kaguje - 紙  
 kagujolimon - メキシカンライム (マナオ)  
+kala - 黒い  
 kalam - ペン  
 kalenda - 暦 (カレンダー)  
 kali - 塩基  
@@ -510,12 +531,12 @@ kama deu - カーマ
 kamar - 部屋  
 kamil - カモミール (カミツレ)  
 kamisa - シャツ  
-kamisa shake - 袖  
+kamisa shaka - 袖  
 kan - 店 (館)  
 kancha - ガラス  
 kancha dake - 釉薬  
 kandi - キャンデー  
-kangaru* - カンガルー  
+kangaru - カンガルー  
 kankuate - キンカン (キンキツ)  
 kantalupomelon - カンタロープ  
 kanu - カヌー  
@@ -523,6 +544,8 @@ kanyon - 峡谷
 kape truke - 罠  
 kar - 車  
 kara - 働く  
+karate - 空手  
+karate ka - 空手家  
 karbosui - 炭水化物  
 karchof - アーティチョーク  
 karde - カルタ  
@@ -555,30 +578,31 @@ kili - 千 (１０００)
 kim - 物質  
 kimem - 元素  
 kimlojia - 化学  
-kimono* - 着物  
+kimono - 着物  
 kina - 動かす  
 kinar - 際 (端)  
 kinar baryer - 柵 (垣)  
 kino grafi - 映画  
 kinu - 動く  
-kire - 賃貸  
+kira - 賃貸  
+kisma - 運命 (宿命)  
 kita - 行く  
-kitaboforme - 書式付け  
+kitabu forma - 書式付け  
 kitabu kan - 図書館  
 kitabu minister - 図書係  
 kitabu shutu - 文献 (文学, 文芸)  
-kivi* - キーウィフルーツ  
+kivi - キーウィフルーツ  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
 klimmute - 気候変動  
 klin - 斜め (傾向)  
 ko? - どのように  
 koda - 尾 (尾翼)  
+kon - 一緒に  
+kon gung - 共同して働  
 konboni - 合わせる (適する)  
 konformu - 即する  
 konga - 染みる (貫通する)  
-konkara - 共同して働  
-kono - 一緒に  
 konpashia - 同情  
 konseler - 顧問  
 konserte - コンサート (音楽会)  
@@ -606,6 +630,7 @@ kube - 立方体
 kukokamar - 台所  
 kuli - カッコいい  
 kupa - コップ  
+kurban - 犠牲  
 kusha - 横たえる  
 kushu - 寝転ぶ  
 ####L - L  
@@ -687,8 +712,6 @@ Magribia - モロッコ
 majang - 麻雀  
 majenti - マゼンタ (紅紫色)  
 makanful - タンポポ  
-moli - 茉莉  
-moli hua chai - 茉莉花茶  
 malnomia - 経済学  
 man - 男  
 man raja - 王様  
@@ -712,8 +735,6 @@ maze - 靴下 (ソックス)
 meche - 試合 (競技)  
 meden - 広場  
 medenpapil - ヒナゲシ  
-mediker - 医者  
-medikosui - ポーション (水薬)  
 medu - 蜂蜜  
 medu fong - 蜜蜂  
 medu fong nide - 蜂の巣 (ハニカム)  
@@ -741,14 +762,14 @@ metalbede - 金敷き (鉄床)
 metallin - 線 (針金)  
 metre - 測定  
 metre gi - 測定装置 (計)  
-meza tela - テーブル掛け  
 meza - 机 (テーブル)  
+meza tela - テーブル掛け  
 meza topo - 台地 (高地)  
 mi - 私  
 mi su - 私の  
 mien - ヌードル  
-mikro bio logi - 微生物学  
 mikro bio - 微生物  
+mikro bio logi - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
 milkokardon - マリアアザミ  
@@ -766,6 +787,8 @@ mokotan - 丸木
 moku - 木  
 mol - モル  
 molekul - 分子  
+moli - 茉莉  
+moli hua chai - 茉莉花茶  
 mos - 苔  
 mosi - 苔状  
 mosim - 季節  
@@ -787,8 +810,7 @@ najisi - 汚い
 nama - 肉  
 name - 名前  
 namkitaba - 署名する (サイン)  
-nasibe - 運命 (宿命)  
-nasmedi - 国際的  
+nasi medi - 国際的  
 nautile - オウムガイ  
 nave - 舟 (ボート)  
 nefre - 腎臓  
@@ -798,6 +820,7 @@ nen - 年
 nerve toksi - 神経毒  
 nete - 網  
 neuyangi - 近代的  
+nia - 意図  
 niche - 下  
 nide - 巣  
 nilchentaur - ヤグルマギク  
@@ -818,7 +841,7 @@ norma - 標準
 norma - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
 nove - 新しい  
-nove jen - 初心者  
+nove ka - 初心者  
 nove loga - 新語 (新造語)  
 numba - 数える  
 ####O - O  
@@ -861,8 +884,8 @@ pasporte - パスポート
 pastopetre - マグマ (岩漿)  
 patike - 患者  
 patomis - 伝染  
-pau - 銃  
-pava - 撃つ  
+pau - 撃つ  
+pau gi - 銃  
 peda - おならをする  
 pede - 屁  
 pei gung - 職業  
@@ -991,11 +1014,11 @@ savovol - 興味 (好奇心)
 savovolani - 知りたがる  
 savovoliti - 面白い  
 savovolu - 訝る (-かしら)  
-sekselogi - 性科学  
+sekse logi - 性科学  
 sekuri kope - バックアップ (控え)  
 sekurnumbe - 暗証番号  
 selge - フダンソウ (スイスチャード)  
-semdan - 種  
+seme dane - 種  
 sen - 年齢  
 senater - 上院議員  
 sense - 感覚  
@@ -1007,56 +1030,51 @@ sham - 夕べ
 sham yam - 夕食  
 shaman - シャーマン  
 shampan - 香槟  
-shanpike - 頂点  
+shan pike - 頂点  
 sharke - サメ  
-shatan - 悪魔  
+shatan ja - 悪魔  
 shau - 少ない  
 shava - 雨  
 shava mosim - 雨季  
 she - 事 (物)  
-sheihal - 事態  
-shekojanger - 石匠  
+she hal - 事態  
+sheki jang ja - 石匠  
 shi - さん (氏)  
+shia islam din - シーア派  
 shibai - 失敗 (負け)  
-shibaya - 負ける  
-shibaya tena - 失う (無くす, 落とす)  
+shibai tena - 失う (無くす, 落とす)  
 shifu - 先生  
+shikaya - 不平 (不満)  
 shim - 心  
-shingofota - ピカピカ光る (きらきらする)  
-shipa - 濡らす  
-shipi - 湿っぽい  
+shipu - 湿っぽい  
 shir - 詩  
 shite - 糞 (屎)  
 Shiva - シヴァ  
-shopa - 買う  
-cen - 百 (１００)  
-shula - 学ぶ  
+shukra - ありがとう (どうも)  
+shula - 教育  
 shula guru - 先生 (教師)  
+shula ja - 学生  
 shula kan - 学校  
 shula shefe - 校長  
-shuler - 学生  
 shuli - 修理  
 shuli - 修理する  
 shulija - 修理工  
 shuru - 開始  
-shusho - しーっ  
+shush - しーっ  
 shutu - 術  
-cian - シアン  
 siborgium - シーボーギウム  
-side loka - 座席 (鞍)  
 side - 座る  
+side loka - 座席 (鞍)  
 sifa loga - 形容詞  
-cikle ja - チャリダー  
-sili tika - 連結  
 sili - 系列  
+sili tika - 連結  
 silko - 絹  
 sing - 星  
-fa sir - 隠す  
-siro - 零 (０)  
-sir ta - 忍び  
-cirke sheki - 丸石 (玉石, 栗石)  
 sir plan - 陰謀  
-kala - 黒い  
+sir ta - 忍び  
+siro - 零 (０)  
+soci - 社会  
+soci jinse - ジェンダー  
 sofa - ソファー  
 sofita - 知恵  
 soi - 大豆  
@@ -1065,36 +1083,30 @@ soi sos - 醤油
 soka - 探す (捜索する)  
 sol - 太陽 (日)  
 sol ful - ヒマワリ  
+sona - 寝る  
 sona kamar - 寝室  
 sona papil - ケシ  
-sona - 寝る  
 song - マツ  
 sor - 錠  
 sos - ソース  
-soci jinse - ジェンダー  
-soci - 社会  
 sosis - ソーセージ  
 sual - 質問 (問題)  
-fa sual - 聞く  
 sual dokum - アンケート (質問用紙)  
-fa achar - 酢漬けある  
-achar - 漬物  
 suba - 朝  
 suba yam - 朝食  
 sui - 水  
-Suice - スイス  
 sui gas - 湯気  
 sui kaboga - ヒョウタン (ひさご)  
 sui yau - 喉の渇き  
+Suice - スイス  
+suka - 幸せな  
 sukar - 砂糖  
 sukar bete - テンサイ (サトウダイコン)  
 sukar cau - サトウキビ  
 sukar oranje - オレンジ (アマダイダイ)  
-suka - 幸せな  
 sundar - 美しい  
-sundar shutu - 芸術 (美術)  
-fa sundar daka - 飾る  
 sundar daka - 装飾  
+sundar shutu - 芸術 (美術)  
 sundar ta - 美しさ  
 supra - 上  
 ####T - T  
