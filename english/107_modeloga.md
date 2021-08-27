@@ -119,3 +119,16 @@ relates the adverbs of comparison to the object of comparison.
 **tu loga par bon ka mi.**
 = You speak as well as me.
 
+
+There is only one word, **sekur**, which can function like a verb and adjective like this:
+
+**mi sekur ya.**
+– I secure it.  
+**ya si sekur.**
+– It is secure.
+
+It can be also an adverb.
+
+**mi _sekur di_ sora un mun.**
+– I securely lock a door.
+

@@ -124,6 +124,8 @@ baze bol - basebol (beisebol)
 baze shula kan - ensino primário  
 be ais - gelar  
 be bio mute - fermentar  
+be pute - apodrecer-se  
+be retro - voltar (regressar)  
 bebe - bebê  
 bedinjan - beringela  
 bele - pá  
@@ -144,6 +146,7 @@ bio vute - organismo
 bir - cerveja  
 biskute - biscoito  
 blu - azur  
+blu centaure - escovinha (centáurea)  
 blu elfe - estrumpfe (smurf)  
 boing - rebater  
 bokse - boxe  
@@ -156,7 +159,7 @@ botel - garrafa (botelha)
 boyu - nadar (flutuar)  
 bravo - bravo (valente, corajoso)  
 bravo - bravo!  
-briko - damasco (abricó)  
+briko - damasco (abricó, ameixa)  
 brun - castanho (marrom)  
 brun salmon - truta-marrom  
 bu! - bu!  
@@ -175,6 +178,7 @@ cana ja - fator
 celu logi - citologia  
 cen - cem (100)  
 centaure - centáurea  
+cerami - cerâmico  
 chabe - chave  
 chai - chá  
 chai kupa - chavena (tigela de chá)  
@@ -216,6 +220,7 @@ dance - baile (danza)
 danger - sino (campainha)  
 Danske - danês  
 dante na di - desdentado  
+dara tubo - funil  
 darjomute - desenvolvimento  
 data - dados  
 datobanke - banco de dados  
@@ -302,6 +307,15 @@ fa dante - morder
 fa dika - mirar (apontar)  
 fa loka - colocar (pôr)  
 fa mata - matar  
+fa nomi - organizar  
+fa onor - honrar  
+fa pati mise - infectar (contagiar)  
+fa pede - peidar  
+fa plasti - moldar (modelar)  
+fa pul bon - aperfeiçoar  
+fa re - repetir  
+fa retro - retornar  
+fa sela - aconselhar  
 fa shipu - molhar  
 fa shofer - conduzir  
 fa shopi - comprar  
@@ -315,10 +329,10 @@ fa truke - enganar
 fa turbe - molestar (perturber)  
 fa valu - valorar  
 fa vote - votar  
+face - face (faceta)  
 fan - lama (lodo)  
 fandefban - para-lama  
 fantopia - pântano  
-fas - face (faceta)  
 fasili - fácil  
 fasteli - profundo  
 fate - fato (facto)  
@@ -368,10 +382,10 @@ Galia - Gália
 galope - galope  
 galte - erro (falta)  
 galti - errôneo  
-gam - esposo ou esposa  
-gamben - enteado  
-gammai - sogra  
-gampai - sogro  
+gami ben - enteado  
+gami jan - esposo ou esposa  
+gami ma - sogra  
+gami pai - sogro  
 gan cau - feno  
 gan tela - toalha  
 gansa - ganso  
@@ -491,7 +505,7 @@ islam din - islã
 ####J - J  
 jagi - acordado  
 jagu - despertar  
-jamkarde - cromo  
+jama karde - cromo  
 jamul - jambolão (jambo)  
 jan - pessoa  
 janel - janela  
@@ -587,6 +601,7 @@ ke jan - quem
 ke sate - quando  
 kerne - núcleo (cerne)  
 kesha na di - despelado  
+kiau - ponte  
 kim - substância  
 kimem - elemento químico  
 kimlojia - química  
@@ -611,11 +626,11 @@ klin - tendência
 ko? - como  
 komputa - computador  
 kon gung - colaborar  
+kon sela ja - consultor  
 kon trati - pacto  
 konboni - combinar com  
-konseler - consultor  
 konserte - concerto  
-kope - cópia  
+kopi - cópia  
 kora - correr  
 koral - coral  
 korer - corredor  
@@ -813,7 +828,7 @@ mur - muro (muralha)
 murkaguje - papel de parede  
 mushu - rato  
 muskulbin - fisiculturismo  
-muzike - música  
+muzika - música  
 ####N - N  
 na - sem  
 nadir - raro  
@@ -835,7 +850,6 @@ nerve toksi - neurotoxina
 neujeni - recém-nascido  
 nia - intenção  
 nide - ninho (vespiero)  
-nilchentaur - escovinha (centáurea)  
 Nipon - Japão  
 nish - nicho  
 no - não  
@@ -843,142 +857,134 @@ nobi - não-binário
 noche - noite  
 Noe - Noé  
 Noe di nave - arca de Noé  
-noma - organizar  
 nong - cultivar  
 nong bio logi - agrobiologia  
 nong di - agrícola  
 nong nomi - agronomia  
 norde - norte  
 nostalgia - nostalgia (saudade)  
-note - nota  
+note she - nota  
 nove - novidade  
 nove - novo  
 nove ka - novato (neófito)  
 nove loga - neologismo  
 nove ta - novidade  
-numbe - número  
+numba - número  
 ####O - O  
 o - ou  
+ocelote - jaguatirica (ocelote)  
 ohtopus - polvo  
 oko - olho  
 oko di - ocular  
-okosuigas - gás lacrimogéneo  
+oko sui gas - gás lacrimogéneo  
 okside - óxide  
-onde - onda  
+onda - onda  
 onor - honra  
-onora - honrar  
 oranje - laranja  
-oranji - alaranjado  
+oranje rang - alaranjado  
 ore - orelha  
 ore flame - otite  
 orkide - orquídea  
-orti - reto  
-ortogoni - ortogonal  
-oselote - jaguatirica (ocelote)  
+orto - reto  
+orto gon di - ortogonal  
 osidian - obsidiana  
-ostojamia - esqueleto  
-ostoshalke - escudo  
+oste jama - esqueleto  
+oste shalke - escudo  
 ####P - P  
 pa - pai  
 pa ke - onde  
 pa lin - online  
 pace - paz  
-pachiste - pacifista  
-padomosim - outono  
-pagre - turbante  
+pace jui ja - pacifista  
+pade mosim - outono  
+pagri - turbante  
 pai - torta  
 pake - pacote  
-pan - pão  
-pande - panda  
-pandemi patia - pandemia  
+pan demo pati - pandemia  
+pan europa di - pan-europeu  
+pan mima - pantomima (mímica)  
+panda - panda  
+pang - pão  
 panir - queijo fresco  
-panmim - pantomima (mímica)  
 pante - calças  
-papai - mamão (papaia)  
-par - nivel  
+papaya - mamão (papaia)  
+par - igual (par)  
+par face - nivel  
+par jan - par  
+par veze ta - equilíbrio  
 param - parâmetro  
 parche - fragmento  
-pari - igual (par)  
 pari - fada  
 pari desha - mundo das fadas (paraíso)  
 pari kata - conto de fadas  
-parike - par  
 parke - parque  
 parne - samambaia  
-parvezia - equilíbrio  
-pasdau - passagem  
-pasloge - palavra-passe (senha)  
+pas dau - passagem  
+pas loga - palavra-passe (senha)  
 pasporte - passaporte  
-paste - pasta  
-patike - paciente  
-patilogi - patologia  
-patojener - patógeno  
-patomis - infecção (contágio)  
-patomisa - infectar (contagiar)  
+pasta - pasta  
+pati jan - paciente  
+pati jene she - patógeno  
+pati logi - patologia  
+pati mise - infecção (contágio)  
 pau gi - arma de fogo  
-pauze - pausa  
-peda - peidar  
+pauza - pausa  
 pede - peido  
 pei gung - profissão  
 pei gung jiu - carreira  
 pelpel - borboleta  
 penta - cinco (5)  
-penta - pintura  
-penta tela - tela  
+pente - pintura  
+pente tela - tela  
 perisha - perecer  
-perkardon - cardo-roxo  
-pese - dinheiro  
-pesh - peixe  
-peshhuke - anzol  
-peshosaider - pescador  
-pesodiske - moeda  
+pero kardon - cardo-roxo  
+pesa - dinheiro  
+pesa diske - moeda  
+peshe - peixe  
+peshe huke - anzol  
+peshe saide ja - pescador  
 petra - rocha (pedra)  
-petronefte - petróleo  
+petra nefte - petróleo  
 piaze - cebola  
+picea - pícea (espruce)  
 pike - ponta (pico, bico)  
 pil - pele  
 pin - alfinete  
-pinchope - picareta  
-pinkardon - acanto-bastardo  
-pinsoban - prancheta  
+pin chope - picareta  
+pin kardon - acanto-bastardo  
+pince ban - prancheta  
 pipre - pimenta  
-piprominte - hortelã-pimenta  
+pipre minte - hortelã-pimenta  
 piram - pirâmida  
-piratia - pirataria  
-pise - pícea (espruce)  
+pirate - pirataria  
 plan - plano  
-plasta - moldar (modelar)  
-plasti - plástico  
-plastopaste - massa de modelar (massinha)  
+plasti di - plástico  
+plasti paste - massa de modelar (massinha)  
 plate geo jui ja - terraplanista  
 plate geo kaske logi - tectónica de placas  
-plum - ameixa  
 poli basha di - multilíngue (plurilíngue)  
-polite - governo  
-politer - administrador  
-politomode - regime  
-Polnesia - Polinésia  
+Polinesia - Polinésia  
+politi - governo  
+politi ja - administrador  
+politi mode - regime  
 porei - alho-porro  
 porte - porto  
-portoriki - porto-riquenho  
-Portorikia - Porto Rico  
-postomarke - carimbo  
-postri - posterior  
-poter - oleiro  
-poteria - cerâmica  
+Portoriko - Porto Rico  
+portoriko jan - porto-riquenho  
+pos di - posterior  
+posta marke - carimbo  
+pote ja - oleiro  
+pote shutu - cerâmica  
 problem - problema  
 program - programa  
 projete - projeto  
-pudu - apodrecer-se  
 puja kan - templo  
 puja meza - altar  
-pul - ponte  
+pul - cheio  
+pul fina - terminar (acabar, concluir)  
+pul fito yam jui ja - vegetalista  
+pul shipu - ensopar (encharcar, marinar)  
 pulmon flame - pneumonia   
-purbona - aperfeiçoar  
-purfina - terminar (acabar, concluir)  
-purfityamiste - vegetalista  
-puri - cheio  
-purshipa - ensopar (encharcar, marinar)  
 putau bagi - vinhedo  
 putau oranje - toranja  
 ####R - R  
@@ -988,78 +994,71 @@ rang - cor
 rang arka salmon - truta-arco-íris  
 rapide - rápido  
 rare - raro  
-rasa  - raça  
+rasa - raça  
 ratibu - ordem  
-resikle - reciclar  
+re - repetição  
+re cikle - reciclar  
 reste - resto  
-retra - retornar  
-retroguli sense - náusea  
-retrotikete - passagem de volta  
-retru - voltar (regressar)  
-reya - repetir  
+retro gula sense - náusea  
+retro tikete - passagem de volta  
 rezerve - reserva  
-ri - repetição  
 rim - rima  
 ring - anel  
 ringar - ringue  
 ris - arroz  
 riti - procedimento (rito)  
 ritim - ritmo  
-riutube - funil  
 rivo - rio  
 robote - robô  
-roketolancher - lançador de foguetes  
-rokomuzike - rock  
+roke muzika - rock  
+rokete lance gi - lançador de foguetes  
 Roma - Roma  
-romakamil - camomila-romana  
-roze - rosa  
-rozosalmon - salmão-rosa  
-ruhmishi - perplexo (confuso)  
+roma kamil - camomila-romana  
+roza - rosa  
+roza salmon - salmão-rosa  
+ruhu mishe di - perplexo (confuso)  
 ####S - S  
 sabi - saber (conhecer)  
+sabi vol ja - inquisitivo  
 sahi - correto (justo)  
-saida - caçar  
+saide - caçar  
 sake - saco  
-salame - saudação  
-salamia - bem-estar  
-sale - sal  
-sale di - salino  
-sali - saudável (saudio)  
-salia - saúde  
-salsafia - higiene  
+sal - sal  
+sal di - salino  
+salam - saudação  
+salam ta - bem-estar  
+salu - saudável (saudio)  
+salu safa ta - higiene  
+salu ta - saúde  
 sam - igual  
+sam emos - compaixão  
+sam metre - simetria  
+sam rai - acordo  
+sam sifa she - simulação  
 sama - céu  
-samemos - compaixão  
-sammetre - simetria  
-samrayia - acordo  
-samsifia - simulação  
 sanduiche - sanduíche  
-sang - sangue  
+sange - sangue  
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
 sar - cabeça  
 sar kesha - cabelo  
 sar kesha na di - calvo  
 sar na di - acéfalo  
-sate - momento (instante)  
-sati - momentâneo  
+sata - momento (instante)  
+sata di - momentâneo  
 Saturne - Saturno  
-savovolani - inquisitivo  
 se - se  
+se kon - um ao outro  
 sekse logi - sexologia  
-sekuri - seguro  
-sel - conselho  
-sela - aconselhar  
+sekur - seguro  
+sela loga - conselho  
 seme - semente  
-semi - seminal  
+seme di - seminal  
 sen - idade  
-senater - senador  
-seni - idoso (sene)  
+sen di - idoso (sene)  
 sense - sentido  
-senter - tentáculo  
-serame - cerâmico  
-sere - serra  
-ses - um ao outro  
+sense shaka - tentáculo  
+sera - serra  
 sete - sete (7)  
 shalke - escama  
 sham - noitinha  
@@ -1072,6 +1071,7 @@ sharke - tubarão
 shatan - opor  
 shatan ja - Satanás  
 shau - poucos  
+shau ta - poucos  
 shava - chuva  
 shava chati - guarda-chuva  
 shava kote - capa de chuva  
@@ -1142,6 +1142,7 @@ sukar cau - cana-de-açúcar
 suna islam din - sunismo  
 sundar - belo (lindo)  
 sundar ta - beleza  
+supra vakil ja - senador  
 susan - lírio  
 ####T - T  
 table komputa - tablet  

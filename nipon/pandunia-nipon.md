@@ -75,7 +75,7 @@ baka kan - パン屋 (ベーカリー)
 baki - 白い  
 baki margarite - フランスギク  
 baki salmon - シロザケ  
-balon pesh - フグ  
+balon peshe - フグ  
 baluta - ナラ  
 baluta frute - ドングリ  
 bambu - 竹  
@@ -98,6 +98,8 @@ baze shula kan - 小学校
 be ais - 凍る (凍結する)  
 be bio mute - 熟成する (発酵する)  
 be bum - 爆発する  
+be pute - 腐敗  
+be sabi vol - 訝る (-かしら)  
 be tele loka - 瞬間移動  
 be ting - 止まる  
 be turbe - 悩む (わざわざする)  
@@ -124,6 +126,7 @@ bir - ビール
 biskute - ビスケット (クッキー)  
 biznes - 業務 (営業, ビジネス)  
 blu - 青い  
+blu centaure - ヤグルマギク  
 blu ceram sing - ヒナソウ  
 blu elfe - スマーフ (シュトロンフ)  
 boi - フロート (ブイ)  
@@ -137,6 +140,7 @@ boyu - 泳ぐ (浮く)
 Brahma - ブラフマー (梵天)  
 brauze - 探る, 探検する  
 brauzer - 探検家 (ブラウザ)  
+briko - アンズ (梅, モモ, プラム)  
 brun - 茶色  
 brun alga - 褐藻  
 brun salmon - ブラウントラウト  
@@ -152,6 +156,7 @@ buta - ブーツ
 cau - 草  
 cau istan - 草地  
 cen - 百 (１００)  
+cerami - 陶器  
 chabe - 鍵  
 chai - 茶  
 chai kan - 茶店 (茶館)  
@@ -194,6 +199,7 @@ dai sheke - 大石
 danger - 鐘 (鈴)  
 Danske - デンマークの  
 dante balute - カシワ  
+dara tubo - 漏斗  
 darjomute - 発展 (開発)  
 darte - 土  
 datofenkate - データ解析  
@@ -284,23 +290,32 @@ fa bina - 建てる
 fa dante - 咬む  
 fa dika - 狙う  
 fa jene - 生む  
+fa nomi - 組織する  
+fa numba - 数える  
+fa pede - おならをする  
+fa politi - 治める (司る)  
+fa poze - 植える  
+fa ratibu - 揃える  
+fa re - 繰り返す  
+fa sam sifa - シミュレートする  
 fa shibai - 負ける  
 fa shipu - 濡らす  
 fa shopi - 買う  
 fa shula - 学ぶ  
 fa sing foto - ピカピカ光る (きらきらする)  
 fa sir - 隠す  
+fa siro - キャンセルする  
 fa sual - 聞く  
 fa sundar daka - 飾る  
 fa tele fon - 電話する  
 fa truke - 騙す  
 fa ver - ただす  
+face - 面  
 faida - 使用 (為, 利)  
 falsvide - 幻覚  
 fan - 泥  
 fandefban - フェンダー  
 fantopia - 沼地  
-fas - 面  
 fasili - 易しい  
 fasilia da akses - アクセシビリティ  
 fasteli - 深い  
@@ -349,7 +364,7 @@ gabur sheke - 墓石 (墓碑)
 galaksia - 銀河  
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
-gamben - 連れ子  
+gami ben - 連れ子  
 gan cau - 干し草  
 gansa - 雁 (鵝鳥)  
 ganum - 小麦  
@@ -375,6 +390,7 @@ giau - 教える (教義, 主義, -教)
 giau ja - 教員  
 gida buku - ガイドブック  
 gida ja - 案内人 (ガイド)  
+ging - 並行  
 ginglin - 縦糸  
 gitar - ギター  
 glisu - 滑る  
@@ -423,8 +439,6 @@ hande - 手
 handoshake - 腕  
 hapa - 適応する  
 hapi - 適切  
-har - 全ての  
-har un - 毎  
 haramliste - ブラックリスト  
 Hartum - ハルツーム  
 hatar - 危険  
@@ -570,7 +584,7 @@ ke jan - 誰
 ke sate - 何時  
 ke she - 何事  
 ke yang - どんな  
-keger - 客人  
+kegu ja - 客人  
 kerne - 核  
 kesha - 毛  
 kesha na di - 無毛  
@@ -600,13 +614,13 @@ ko? - どのように
 koda - 尾 (尾翼)  
 kon - 一緒に  
 kon gung - 共同して働  
+kon pasi - 同情  
+kon sela ja - 顧問  
 konboni - 合わせる (適する)  
 konformu - 即する  
 konga - 染みる (貫通する)  
-konpashia - 同情  
-konseler - 顧問  
 konserte - コンサート (音楽会)  
-kope - コピー  
+kopi - コピー  
 kora - 走る (疾走する)  
 koral - サンゴ  
 kornomelon - ツノニガウリ  
@@ -801,7 +815,7 @@ mun - 門
 mur - 壁  
 murkaguje - 壁紙  
 mushu - 鼠  
-muzike - 音楽  
+muzika - 音楽  
 ####N - N  
 najis - 汚れ (汚染)  
 najisa - 汚す  
@@ -823,7 +837,6 @@ neuyangi - 近代的
 nia - 意図  
 niche - 下  
 nide - 巣  
-nilchentaur - ヤグルマギク  
 nilon - ナイロン  
 Nipon - 日本  
 niponi - 日本の (日本語, 日本人)  
@@ -832,8 +845,6 @@ no - いいえ
 no yau di - 不要  
 noche - 夜  
 Noe di nave - ノアの箱舟  
-nola - キャンセルする  
-noma - 組織する  
 nong chun - 農村  
 nong nomi - 農学  
 norde - 北  
@@ -843,50 +854,50 @@ nostalgia - 懐古 (懐旧)
 nove - 新しい  
 nove ka - 初心者  
 nove loga - 新語 (新造語)  
-numba - 数える  
 ####O - O  
+ocelote - オセロット  
 ohtopus - タコ  
-okeyi - 大丈夫 (ＯＫ)  
+okei - 大丈夫 (ＯＫ)  
 oko - 目  
-okosuigas - 催涙ガス  
-onde - 波  
-oranji - オレンジ色の  
+oko sui gas - 催涙ガス  
+onda - 波  
+oranje rang - オレンジ色の  
 orkide - ラン  
-orti - まっすぐな  
-oselote - オセロット  
+orto - まっすぐな  
 osidian - 黒曜石  
-ostojamia - 骨格  
-ostoshalke - ぜんご  
+oste jama - 骨格  
+oste shalke - ぜんご  
 ####P - P  
 pa - お父さん (父, パパ)  
 pa lin - オンライン  
-pachokade - マダラ  
-padomun - 落とし戸  
-pan - パン  
-pandemi patia - パンデミック  
+pa poli mar - よく (屡々)  
+pace hai kade - マダラ  
+pade mun - 落とし戸  
+pan - 全ての  
+pan demo pati - パンデミック  
+pan mima - パントマイム   
+pan un - 毎  
 pandunia - パンドゥニア  
+pang - パン  
 panir - クワルク  
-panmim - パントマイム   
 pante - ズボン  
-papai - パパイヤ  
+papaya - パパイヤ  
+par jan - 同輩  
+par numba - 偶数  
+par veze ta - 均衡 (平衡)  
 param - 引数 (パラメーター)  
-parchokayu - 弾ける  
+parche kai - 弾ける  
 pari desha - 仙境  
-pari numbe - 偶数  
-parike - 同輩  
-parlini - 並行  
 parne - 羊歯  
-parvezia - 均衡 (平衡)  
-pash - 痛み  
-pashi - 痛い  
-pasloge - パスワード  
+pas loga - パスワード  
+pasi - 痛み  
+pasi di - 痛い  
 pasporte - パスポート  
-pastopetre - マグマ (岩漿)  
-patike - 患者  
-patomis - 伝染  
+pasta petra - マグマ (岩漿)  
+pati jan - 患者  
+pati mise - 伝染  
 pau - 撃つ  
 pau gi - 銃  
-peda - おならをする  
 pede - 屁  
 pei gung - 職業  
 pei gung di - プロフェッショナル  
@@ -894,51 +905,47 @@ pei gung ja - プロフェッショナル
 pei gung jiu - キャリア  
 pelpel - チョウ  
 penta - 五 (5)  
-penta - 絵の具 (ペンキ)  
-penta ja - 画家 (絵かき)  
-perkardon - アメリカオニアザミ  
-pese - 金  
-pesh - 魚  
-peshhuke - 釣り針  
-peshosaider - 漁師  
-petronefte - 石油  
+pente - 絵の具 (ペンキ)  
+pente ja - 画家 (絵かき)  
+pero kardon - アメリカオニアザミ  
+pesa - 金  
+peshe - 魚  
+peshe huke - 釣り針  
+peshe saide ja - 漁師  
+petra nefte - 石油  
 piaze - 玉葱  
+picea - トウヒ  
 pike - 先  
 pin - 針 (刺, ピン)  
-pinkardon - ゴロツキアザミ  
-pinsoban - 用箋挟  
-piprominte - ペパーミント  
+pin kardon - ゴロツキアザミ  
+pince ban - 用箋挟  
+pipre minte - ペパーミント  
 piram - ピラミッド (金字塔)  
-pise - トウヒ  
 plate di - 平ら  
 plate geo kaske logi - プレートテクトニクス (プレート理論)  
 plate topo - 草原  
-plum - セイヨウスモモ (プラム)  
 poli - たくさん  
-polita - 治める (司る)  
-polite - 政府  
-politomode - 政体  
-polmaro - よく (屡々)  
-Polnesia - ポリネシア  
-pontopin - 羅針盤  
+Polinesia - ポリネシア  
+politi - 政府  
+politi lon - 政道  
+politi mode - 政体  
+ponte pin - 羅針盤  
 porei - リーキ  
 pos - 後 (後ろ)  
-posdeno - 明日  
-poter - 陶工  
-poteria - 陶芸  
-poza - 植える  
+pos den - 明日  
+pote ja - 陶工  
+pote shutu - 陶芸  
 problem - 問題  
 program - 次第 (計画, プログラム)  
 projete - プロジェクト  
-pudu - 腐敗  
 puja kan - 神殿  
+pul fito yam jui - ヴィーガニズム  
+pul fito yam jui ja - 絶対菜食主義者 (ヴィーガン)  
+pul shipu - 漬ける (締める)  
 pulmon flame - 肺炎  
 puma - ピューマ (クーガー)  
-puntoban - スコアボード  
-puntonumbe - 得点 (点数)  
-purfityamiste - 絶対菜食主義者 (ヴィーガン)  
-purfityamistia - ヴィーガニズム  
-purshipa - 漬ける (締める)  
+punte ban - スコアボード  
+punte numba - 得点 (点数)  
 putau bagi - 葡萄園  
 putau oranje - グレープフルーツ  
 Putong Han - 普通話 (北京語)  
@@ -951,80 +958,72 @@ rang arka salmon - ニジマス
 rang mate - 染め粉  
 rapide - 速い  
 rare - 稀 (疎ら)  
-rasa  - 人種  
-ratibu - 揃える  
+rasa - 人種  
 ratibu - 順  
 ratibu di - 整然  
-regopetre - 砂岩  
-reizoka - 再開する  
-resikle - 再生する (リサイクルする)  
-retrogula - 戻す (吐く)  
-retroguli sense - 吐き気 (嘔気)  
-reya - 繰り返す  
-ri - 繰り返し  
+re - 繰り返し  
+re cikle - 再生する (リサイクルする)  
+re zoku - 再開する  
+rege petra - 砂岩  
+retro gula - 戻す (吐く)  
+retro gula sense - 吐き気 (嘔気)  
 ring - 輪  
 ringar - リング  
 ris - 米 (ご飯)  
 ritim - リズム  
-riutube - 漏斗  
 rivo - 川  
-roketolancher - ロケット発射器  
-rokomuzike - ロック  
+roke muzika - ロック  
+rokete lance gi - ロケット発射器  
 Roma - ローマ  
-romakamil - ローマンカモミール  
-romansi - ロマンチック  
-romansia - ロマンス  
-rotolefto - 左回り (反時計回り)  
-rototope - 独楽  
-roze - バラ  
-rozosalmon - カラフトマス  
-ruhmisha - 惑わす  
-ruhmishi - まごまご  
-rukosake - リュックサック  
-rutogalta - 逸れる  
+roma kamil - ローマンカモミール  
+romance - ロマンチック  
+romance - ロマンス  
+rota lefte - 左回り (反時計回り)  
+rota van gi - 独楽  
+roza - バラ  
+roza salmon - カラフトマス  
+ruhu mishe - 惑わす  
+ruhu mishe di - まごまご  
+ruke sake - リュックサック  
+rute galta - 逸れる  
 ####S - S  
 sabi - 知る  
+sabi vol - 興味 (好奇心)  
+sabi vol di - 面白い  
+sabi vol ja - 知りたがる  
 sahi - 正しい  
-saida - 狩る  
+saide - 狩る  
 saide - 狩り (狩猟)  
-salame - 挨拶  
-salamia - 福利 (福祉)  
-sale - 塩  
-sali - 元気 (丈夫)  
-salia - 健康  
+sal - 塩  
+salam - 挨拶  
+salam ta - 福利 (福祉)  
 salmon - 鮭鱒  
+salu - 元気 (丈夫)  
+salu ta - 健康  
+sam metre - 対称  
+sam sifa di - 同じよう (近い)  
+sam sifa she - 模型 (類似, シミュレーション)  
 sama - 空  
 sama blu - 空色  
 sama hal - 天気  
 sama kinar - 地平線 (水平線, 天際)  
-sammetre - 対称  
-samsifa - シミュレートする  
-samsifi - 同じよう (近い)  
-samsifia - 模型 (類似, シミュレーション)  
 sanduiche - サンドイッチ  
-sang - 血  
+sange - 血  
 sante kanon - 聖書  
-sanzong - 三つまた (トライデント)  
-sapate - 鞋  
+sapatu - 鞋  
 sar - 頭  
 sar kesha - 髪の毛 (頭髪)  
-sate - 瞬間  
+sata - 瞬間  
 Saturne - 土星  
-savovol - 興味 (好奇心)  
-savovolani - 知りたがる  
-savovoliti - 面白い  
-savovolu - 訝る (-かしら)  
 sekse logi - 性科学  
-sekuri kope - バックアップ (控え)  
-sekurnumbe - 暗証番号  
+sekur kopi - バックアップ (控え)  
+sekur numba - 暗証番号  
 selge - フダンソウ (スイスチャード)  
 seme dane - 種  
 sen - 年齢  
-senater - 上院議員  
 sense - 感覚  
-senter - 触手  
-serame - 陶器  
-sere - のこぎり  
+sense shaka - 触手  
+sera - のこぎり  
 shalke - うろこ  
 sham - 夕べ  
 sham yam - 夕食  
@@ -1109,6 +1108,7 @@ sundar daka - 装飾
 sundar shutu - 芸術 (美術)  
 sundar ta - 美しさ  
 supra - 上  
+supra vakil ja - 上院議員  
 ####T - T  
 tabi - 性質 (性)  
 table komputa - タブレットコンピュータ  
@@ -1136,6 +1136,7 @@ trati - 合意
 trator gi - トラクター  
 tren - 電車 (列車)  
 tri - 三 (3)  
+tri zong - 三つまた (トライデント)  
 truke - 悪戯 (詐欺)  
 tu - あなた  
 tu su - あなたの  
@@ -1160,6 +1161,7 @@ vampir - 吸血鬼
 vampir ohtopus - コウモリダコ  
 van - 楽しみ (娯楽)  
 van di - 楽しい  
+van gi - おもちゃ  
 var chatre - 木曜日  
 var du - 火曜日  
 var luku - 土曜日  

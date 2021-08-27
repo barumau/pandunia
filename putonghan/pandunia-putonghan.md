@@ -125,6 +125,8 @@ baze bol - 棒球
 baze shula kan - 小学  
 be ais - 结冰  
 be bio mute - 发酵  
+be pute - 腐烂  
+be retro - 返回 (回来)  
 be van - 玩耍  
 be’e - 山羊  
 bebe - 宝宝  
@@ -145,6 +147,7 @@ bio vute - 生物
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 blu - 蓝色  
+blu centaure - 矢車菊  
 blu ceram sing - 茜草花  
 blu elfe - 蓝精灵  
 bokse - 拳击  
@@ -159,7 +162,7 @@ bon vide di - 好看
 botel - 瓶  
 boyu - 漂浮  
 Brahma - 梵天  
-briko - 杏子  
+briko - 杏子 (李子)  
 brun - 棕色 (色)  
 brun salmon - 褐鳟  
 bubu - 魔鬼  
@@ -174,6 +177,7 @@ buton - 扣子
 ####C - C  
 celu logi - 细胞学  
 cen - सौ  
+cerami - 陶瓷  
 chabe - 钥匙  
 chai - 茶  
 chai kan - 茶馆  
@@ -214,6 +218,7 @@ dai sheke - 磐石
 danger - 钟 (摇铃)  
 Danske - 丹麦的  
 dante balute - 槲树  
+dara tubo - 漏斗  
 darjomute - 发展 (开发)  
 data - 数据  
 datobanke - 数据库  
@@ -288,6 +293,10 @@ fa bina - 建设
 fa dante - 咬  
 fa dika - 瞄准  
 fa loka - 放置  
+fa nomi - 组织  
+fa pede - 放屁  
+fa ratibu - 整理  
+fa re - 重复  
 fa shibai - 输  
 fa shipu - 弄湿  
 fa shofer - 开车  
@@ -300,11 +309,11 @@ fa sual - 问
 fa tele fon - 打电话  
 fa truke - 耍花招  
 fa vode - 许诺  
+face - 面  
 faida - 效用 (好处)  
 fan - 坭  
 fandefban - 挡泥板  
 fantopia - 沼泽  
-fas - 面  
 fasilia da akses - 無障礙環境  
 fasteli - 深  
 fate - 事实  
@@ -425,7 +434,6 @@ Han - 汉族
 hande - 手  
 handoshake - 胳膊  
 hapi - 合适  
-har un - 每  
 harfi harfi - 字母表  
 Hartum - 喀土穆  
 hata - 直到  
@@ -572,9 +580,10 @@ kava - 挖
 kave - 坑 (穴)  
 ke - 什么  
 kechi - 客气  
-keger - 客人  
+kegu ja - 客人  
 kerne - 核心  
 kesha na di - 无毛  
+kiau - 桥  
 kim - 物质  
 kimem - 元素  
 kimlojia - 化学  
@@ -599,11 +608,11 @@ koda - 尾巴 (尾部)
 komputa - 计算机  
 kon - 共同 (一起)  
 kon gung - 合作  
+kon sela ja - 顾问  
 kon trati - 公約  
 konboni - 相配  
-konseler - 顾问  
 konserte - 音乐会  
-kope - 摹本 (拷貝)  
+kopi - 摹本 (拷貝)  
 kora - 跑步  
 koral - 珊瑚  
 korer - 跑步者  
@@ -793,7 +802,7 @@ murche - 蚂蚁
 murkaguje - 壁纸 (墙纸)  
 mushu - 鼠  
 muskulbin - 健美运动  
-muzike - 音乐  
+muzika - 音乐  
 ####N - N  
 nadir mar - 很少  
 najis - 污染物  
@@ -811,7 +820,6 @@ neftoguke - 野菊花
 nerve toksi - 神经毒素  
 nia - 意图  
 nide - 巢 (穴)  
-nilchentaur - 矢車菊  
 nilon - 尼龙  
 Nipon - 日本  
 nish - 壁龛  
@@ -819,33 +827,32 @@ no - 不
 noche - 夜  
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
-noma - 组织  
 nong bio logi - 土壤生物学  
 nong chun - 农村  
 nong nomi - 农学  
 norde - 北  
 nostalgia - 怀旧  
-note - 便条  
+note she - 便条  
 nove - 新  
 nove ka - 新手  
 nove loga - 新词  
-numbe - 数  
+numba - 数  
 ####O - O  
 o - 或  
+ocelote - 虎貓  
 ohtopus - 章鱼  
 oko - 眼睛  
-okosuigas - 催泪瓦斯  
+oko sui gas - 催泪瓦斯  
 okside - 氧化物  
-onde - 波浪  
+onda - 波浪  
 oranje - 橙子  
-oranji - 橙色  
+oranje rang - 橙色  
 ore - 耳  
 ore flame - 耳炎  
 orkide - 兰花  
-orti - 直  
-oselote - 虎貓  
+orto - 直  
 osidian - 黑曜岩  
-ostojamia - 骨骼  
+oste jama - 骨骼  
 ####P - P  
 pa - 在  
 pa - 爸爸  
@@ -853,87 +860,85 @@ pa de ma - 奶奶 (祖母)
 pa de pa - 爷爷 (祖父)  
 pa lin - 在线  
 pa no lin - 离线  
+pa poli mar - 经常  
 pace - 和平  
-pachiste - 和平主义者  
-pachistia - 和平主义  
-pagre - 包头  
+pace jui - 和平主义  
+pace jui ja - 和平主义者  
+pagri - 包头  
 pai - 馅饼  
-pan - 面包  
-pandemi patia - 大流行病  
-panmim - 哑剧  
+pan demo pati - 大流行病  
+pan mima - 哑剧  
+pan un - 每  
+pang - 面包  
 pante - 裤子  
 papagai - 鹉鹦  
-papai - 木瓜  
-par - 水平  
+papaya - 木瓜  
+par face - 水平  
+par jan - 同辈  
+par numba - 偶数  
+par veze ta - 平衡  
 param - 参数  
-parchokayu - 爆裂  
+parche kai - 爆裂  
 pari desha - 仙境  
 pari kata - 童话  
-pari numbe - 偶数  
-parike - 同辈  
 parke - 园  
 parne - 蕨  
-parvezia - 平衡  
 pas - 過  
-pash - 疼痛  
-pasloge - 密码  
+pas loga - 密码  
+pasi - 疼痛  
 pasporte - 护照  
-pastopetre - 岩漿  
-patike - 患者 (病患)  
-patilogi - 病理学  
-patojener - 病原体  
-patomis - 传染  
+pasta petra - 岩漿  
+pati jan - 患者 (病患)  
+pati jene she - 病原体  
+pati logi - 病理学  
+pati mise - 传染  
 pau gi - 手枪  
-peda - 放屁  
 pede - 屁  
 pei gung - 职业  
 pelmen - 饺子  
 pelpel - 蝴蝶  
-pendokardon - 垂花飞廉  
+pende kardon - 垂花飞廉  
 penta - 五 (5)  
-penta - 油漆 (颜料)  
-penta tela - 画布  
-perkardon - 翼蓟  
-pese - 钱  
-pesh - 鱼  
-peshhuke - 鱼钩  
-peshosaider - 鱼夫  
-pesodiske - 硬币  
-petronefte - 石油  
+pente - 油漆 (颜料)  
+pente tela - 画布  
+pero kardon - 翼蓟  
+pesa - 钱  
+pesa diske - 硬币  
+peshe - 鱼  
+peshe huke - 鱼钩  
+peshe saide ja - 鱼夫  
+petra nefte - 石油  
 piaze - 洋葱  
+picea - 云杉  
 pike - 尖顶  
 pil - 皮  
 pin - 别针  
-pinchope - 镐  
-pinkardon - 大翅蓟  
+pin chope - 镐  
+pin kardon - 大翅蓟  
 pipre - 胡椒  
-piprominte - 辣薄荷  
+pipre minte - 辣薄荷  
 piram - 金字塔  
-pise - 云杉  
 plate geo kaske logi - 板块构造论  
 plate topo - 平原  
-plum - 李子  
-polite - 政府  
-politomode - 政体  
-polmaro - 经常  
-Polnesia - 波利尼西亚  
-pontopin - 指南针  
+Polinesia - 波利尼西亚  
+politi - 政府  
+politi lon - 政治  
+politi mode - 政体  
+ponte pin - 指南针  
 porei - 韭葱  
 porte - 港  
-poter - 陶瓷工  
-poteria - 陶器制造  
+pote ja - 陶瓷工  
+pote shutu - 陶器制造  
 problem - 问题 (难题)  
 program - 计划  
 puding - 布丁  
-pudu - 腐烂  
 puja kan - 寺庙  
 puja meza - 圣坛  
-pul - 桥  
+pul fina - 完成  
+pul fito yam jui ja - 纯素食主义者  
+pul shipu - 浸泡  
 pulmon flame - 肺炎  
 puma - 美洲獅 (山狮)  
-purfina - 完成  
-purfityamiste - 纯素食主义者  
-purshipa - 浸泡  
 putau bagi - 葡萄园  
 putau oranje - 葡萄柚  
 putong - 普通  
@@ -944,81 +949,74 @@ rang arka salmon - 虹鱒
 rang mate - 染料  
 rapide - 快  
 rare - 稀有 (稀少的)  
-rasa  - 种族  
-ratibu - 整理  
+rasa - 种族  
 ratibu - 常规 (次序)  
-resikle - 循环再造  
+re cikle - 循环再造  
 reste - 其余  
-retrogula - 呕吐  
-retroguli sense - 恶心  
-retrotikete - 往返票  
-retru - 返回 (回来)  
-reya - 重复  
+retro gula - 呕吐  
+retro gula sense - 恶心  
+retro tikete - 往返票  
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
 ris vin - 黄酒 (米酒)  
 riti - 方法  
 ritim - 节奏  
-riutube - 漏斗  
 rivo - 河 (江)  
-roketolancher - 火箭筒  
-rokomuzike - 摇滚乐  
+roke muzika - 摇滚乐  
+rokete lance gi - 火箭筒  
 Roma - 罗马  
-romakamil - 果香菊  
-rotolefto - 反时针方向的  
-rototafun - 飓风 (台风)  
-rototope - 陀螺  
-roze - 玫瑰  
-rozosalmon - 粉紅鮭  
-ruhmishi - 困惑 (混乱)  
+roma kamil - 果香菊  
+rota lefte - 反时针方向的  
+rota tafun - 飓风 (台风)  
+rota van gi - 陀螺  
+roza - 玫瑰  
+roza salmon - 粉紅鮭  
+ruhu mishe di - 困惑 (混乱)  
 ####S - S  
 sabi - 知道 (晓得)  
+sabi vol - 趣  
+sabi vol di - 有趣  
+sabi vol ja - 好奇  
 sabun - 肥皂  
 safar - 旅行  
 sahi - 正确  
-saida - 打猎  
+saide - 打猎  
 saide - 狩猎  
-saider - 狩人  
-salame - 迎接  
-salamia - 福利 (福祉)  
-sale - 盐  
-sale biskute - 梳打饼  
-sali - 健康  
-salia - 健康  
+saide ja - 狩人  
+sal - 盐  
+sal biskute - 梳打饼  
+salam - 迎接  
+salam ta - 福利 (福祉)  
+salu - 健康  
+salu ta - 健康  
 sam - 一样  
+sam metre - 对称  
+sam rai - 一致  
+sam sifa she - 模型  
 sama - 天空  
 sama hal - 天气  
 sama kinar - 地平线  
-sammetre - 对称  
-samrayia - 一致  
-samsifia - 模型  
 sanduiche - 三明治 (三文治)  
-sang - 血  
+sange - 血  
 sante kanon - 圣经  
-sanzong - 三叉戟  
-sapate - 鞋  
+sapatu - 鞋  
 sar - 头  
 sar kesha - 头发  
 sar kesha na di - 秃头的  
 sar na di - 无头的  
-sate - 时刻 (瞬间)  
+sata - 时刻 (瞬间)  
 Saturne - 土星  
-savovol - 趣  
-savovolani - 好奇  
-savovoliti - 有趣  
 se di - 自私  
+se kon - 彼此  
 sekse logi - 性学  
 seme - 种  
 seme dane - 种子  
-semi - 种子的  
+seme di - 种子的  
 sen - 年岁  
-senater - 参议员  
 sense - 感觉  
-senter - 觸手  
-serame - 陶瓷  
-sere - 锯子  
-ses - 彼此  
+sense shaka - 觸手  
+sera - 锯子  
 sete - 七 (7)  
 shalke - 鳞  
 sham - 晚上  
@@ -1100,6 +1098,7 @@ sundar - 漂亮 (美)
 sundar daka - 装饰  
 sundar shutu - 艺术 (美术)  
 sundar ta - 美丽  
+supra vakil ja - 参议员  
 supriza - 惊奇  
 susan - 百合花  
 ####T - T  
@@ -1141,6 +1140,7 @@ trati - 合同 (合约)
 trator - 拖  
 trator gi - 拖拉机 (铁牛)  
 tri - 三 (3)  
+tri zong - 三叉戟  
 truke - 伎俩  
 tu - 你  
 tumen - 你们  

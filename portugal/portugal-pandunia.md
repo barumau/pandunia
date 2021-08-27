@@ -7,17 +7,17 @@ Abissínia - Habasha
 abobrinha - lilkaboge  
 abóbada - arka chati  
 abóbora (jerimun) - kaboga  
-acanto-bastardo - pinkardon  
+acanto-bastardo - pin kardon  
 acento - acente  
 acesso - acesa  
-aconselhar - sela  
+aconselhar - fa sela  
 acordado - jagi  
 acordo (tratado, contrato) - trati  
-acordo - samrayia  
+acordo - sam rai  
 acéfalo - sar na di  
 adesivo - glute grafi  
 adjetivo - sifa loga  
-administrador - politer  
+administrador - politi ja  
 adversário -   
 aeite (óleo) - nefte  
 aeroporto - air porte  
@@ -31,7 +31,7 @@ agronomia - nong nomi
 agrícola - nong di  
 ai! - au  
 ainda - zoku  
-alaranjado - oranji  
+alaranjado - oranje rang  
 alcachofra - karchof  
 alcachofra-girassol (tupinambo) - masmulsolful  
 alcalino - kali  
@@ -51,7 +51,6 @@ alô - halo
 amador - hobi ja  
 amante - ai ja  
 amargo - kali guste  
-ameixa - plum  
 amor - ai  
 amêndoa - badam  
 anaeróbico - an air bio di  
@@ -60,10 +59,10 @@ andesito - andesite
 anel - ring  
 animal (besta, bicho) - zou  
 antimônio - estibium  
-anzol - peshhuke  
+anzol - peshe huke  
 análise - fenkate  
-aperfeiçoar - purbona  
-apodrecer-se - pudu  
+aperfeiçoar - fa pul bon  
+apodrecer-se - be pute  
 aprender - fa shula  
 apropriado (apto) - hapi  
 ar - air  
@@ -139,7 +138,7 @@ baía - bai
 bebê - bebe  
 beleza - sundar ta  
 belo (lindo) - sundar  
-bem-estar - salamia  
+bem-estar - salam ta  
 beringela - bedinjan  
 biblioteca - kitabu kan  
 bicho-papão - bubu  
@@ -190,7 +189,7 @@ calvo - sar kesha na di
 calças - pante  
 camarão - krevete  
 camisa - kamisa  
-camomila-romana - romakamil  
+camomila-romana - roma kamil  
 camomila-vulgar - kamil  
 cana-de-açúcar - sukar cau  
 canguru - kangaru  
@@ -204,11 +203,11 @@ caractere - zi
 caratê - karate  
 cardo - kardon  
 cardo-mariano - milkokardon  
-cardo-roxo - perkardon  
+cardo-roxo - pero kardon  
 careta (esgar) - grimas  
 carga (peso) - bari  
 Caribe - Karaibia  
-carimbo - postomarke  
+carimbo - posta marke  
 carne - nama  
 carrapato (ácaros) - akare  
 carregar -   
@@ -223,7 +222,7 @@ casca (concha) - kaske
 cascalho - grave  
 castanho (marrom) - brun  
 cavar (escavar) - kava  
-caçar - saida  
+caçar - saide  
 cebola - piaze  
 cem (100) - cen  
 cemitério - gabur bagi  
@@ -233,8 +232,8 @@ centáurea - centaure
 cerca - kinar baryer  
 cereja - cheri  
 cerveja - bir  
-cerâmica - poteria  
-cerâmico - serame  
+cerâmica - pote shutu  
+cerâmico - cerami  
 cevada - jau  
 Champagne - shampan  
 champanhe - shampan vin  
@@ -243,7 +242,7 @@ charme - charme
 chave - chabe  
 chavena (tigela de chá) - chai kupa  
 chefe - shefe  
-cheio - puri  
+cheio - pul  
 cheirar - aroma  
 cheiro - aroma  
 chibata - uma bichi  
@@ -271,7 +270,7 @@ combava - karsolimon
 combinar com - konboni  
 começo (início, princípio) - shuru  
 como - ko?  
-compaixão - samemos  
+compaixão - sam emos  
 complô (conspiração) - sir plan  
 comportamento (conduta) - manir  
 composto - bio cana she  
@@ -283,10 +282,10 @@ condutor (chofer, motorista) - shofer ja
 conduzir - fa shofer  
 conexão (vínculo, laço) - linke  
 confiar (contar com) - amen shin  
-conselho - sel  
+conselho - sela loga  
 considerar - hema  
 construir - fa bina  
-consultor - konseler  
+consultor - kon sela ja  
 conta (fatura) - fatura  
 conta - hisabu loge  
 conto - korte kata  
@@ -314,7 +313,7 @@ cristal - bilor
 croassã - kruasante  
 crocodiliano - krokodil  
 crocodilo - long krokodil  
-cromo - jamkarde  
+cromo - jama karde  
 cronómetro - durmetrer  
 cruz - krus  
 crème - krem  
@@ -325,12 +324,12 @@ cume (pico, topo) - shan pike
 cápsico - chili  
 cão (cachorro) - vaf  
 céu - sama  
-cópia - kope  
+cópia - kopi  
 cósmico - kosmo di  
 ####D - D  
 dado - zar kube  
 dados - data  
-damasco (abricó) - briko  
+damasco (abricó, ameixa) - briko  
 dano (avaria) - avar  
 danês - Danske  
 de - ze  
@@ -355,7 +354,7 @@ dia - den
 diamante - almas  
 digital - feni  
 dinamite - dinamite  
-dinheiro - pese  
+dinheiro - pesa  
 diorito - diorite  
 direito - haki  
 direitos humanos - insani hake  
@@ -399,21 +398,21 @@ enganar - fa truke
 ensinar (lecionar) - giau  
 ensino primário - baze shula kan  
 ensino secundário - jungoshulkan  
-ensopar (encharcar, marinar) - purshipa  
-enteado - gamben  
+ensopar (encharcar, marinar) - pul shipu  
+enteado - gami ben  
 entrar - intru  
 enxada - chope  
-equilíbrio - parvezia  
+equilíbrio - par veze ta  
 erro (falta) - galte  
 errôneo - galti  
 erva marinha - haichau  
 escama - shalke  
 escavar - eshkava  
 escola (colégio) - shula kan  
-escovinha (centáurea) - nilchentaur  
+escovinha (centáurea) - blu centaure  
 escrevere - kitabu  
 escudo - defban  
-escudo - ostoshalke  
+escudo - oste shalke  
 escultor - eskulter  
 esfarrapado - chirchiri  
 eslavo - Slave  
@@ -424,10 +423,10 @@ espirrar - achi
 espodossolo - huidarte  
 esponja - esponje  
 esporte - esporte  
-esposo ou esposa - gam  
+esposo ou esposa - gami jan  
 espírito (gênio) - jin  
 esquecer - an memo  
-esqueleto - ostojamia  
+esqueleto - oste jama  
 esquerdo - lefte  
 esquilo - ekore  
 estado - hal  
@@ -459,7 +458,7 @@ extrair - eshtrata
 exército - gun  
 exógeno - eshojeni  
 ####F - F  
-face (faceta) - fas  
+face (faceta) - face  
 facção - shia  
 fada - pari  
 fadiga - fatigia  
@@ -500,7 +499,7 @@ fragmento - parche
 freixo - yasen  
 fruta - frute  
 fungo - fungu  
-funil - riutube  
+funil - dara tubo  
 furar (perfurar) - fora  
 futebol - fute bol  
 fábula - zou kata  
@@ -530,7 +529,7 @@ girafa - jiraf
 girassol - sol ful  
 golfinho (delfim) - dolfin  
 gorila - gorila  
-governo - polite  
+governo - politi  
 granito - granite  
 graças a - shukra da  
 grupo - grupe  
@@ -542,22 +541,22 @@ guiar - gida
 guitarra - gitar  
 Gália - Galia  
 gás - gas  
-gás lacrimogéneo - okosuigas  
+gás lacrimogéneo - oko sui gas  
 gênero gramatical - bashi jinse  
 ####H - H  
 habilidade (capacidade) - bil ta  
 haste (talo, caule) - tan  
 Hesse (Héssia) - Hesia  
-higiene - salsafia  
+higiene - salu safa ta  
 hipopótamo - gubu  
 hmm - hem  
 honesto (sincero) - amen  
 honra - onor  
-honrar - onora  
+honrar - fa onor  
 hora - hor  
 hortelã - minta  
 hortelã-da-água - sui minta  
-hortelã-pimenta - piprominte  
+hortelã-pimenta - pipre minte  
 hortelã-verde - zong minte  
 hotel - hotel  
 humanismo - insanistia  
@@ -569,9 +568,9 @@ hóquei - hoke
 hóquei no gelo - ais hoki  
 ####I - I  
 idade - sen  
-idoso (sene) - seni  
+idoso (sene) - sen di  
 idoso - lavi  
-igual (par) - pari  
+igual (par) - par  
 igual - sam  
 imigrante - inmigran  
 imigrar - inmigra  
@@ -585,12 +584,12 @@ incluir - inklusa
 inclusivo - inklusivi  
 Indo - Hindu riu  
 indígena (índio) - asal Amerka jan  
-infectar (contagiar) - patomisa  
-infecção (contágio) - patomis  
+infectar (contagiar) - fa pati mise  
+infecção (contágio) - pati mise  
 infiel - an din ja  
 inflamaçao - flame  
 inimigo - dusjan  
-inquisitivo - savovolani  
+inquisitivo - sabi vol ja  
 inseto - dudu  
 insônia - an sona  
 intenção - nia  
@@ -603,7 +602,7 @@ islã - islam din
 item - vutu  
 ####J - J  
 jade - giuke  
-jaguatirica (ocelote) - oselote  
+jaguatirica (ocelote) - ocelote  
 jambolão (jambo) - jamul  
 janela - janel  
 Japão - Nipon  
@@ -631,7 +630,7 @@ ladrão - luta ja
 lago - lage  
 lama (lodo) - fan  
 lama - lama  
-lançador de foguetes - roketolancher  
+lançador de foguetes - rokete lance gi  
 laranja - oranje  
 lasanha - lazanya  
 lateral - lati  
@@ -689,7 +688,7 @@ mahjong - majang
 mais - mas  
 maldição - lana  
 malfeitoria (pecado) - duskar  
-mamão (papaia) - papai  
+mamão (papaia) - papaya  
 mancha (marca) - marke  
 manga - kamisa shaka  
 maniqueísmo - manihayistia  
@@ -706,7 +705,7 @@ Marrocos - Magribia
 Marte - Marse  
 marítimo - hayi  
 massa - masa  
-massa de modelar (massinha) - plastopaste  
+massa de modelar (massinha) - plasti paste  
 mastro - masta  
 matadouro - bucha kan  
 matar - fa mata  
@@ -744,18 +743,18 @@ mirar (apontar) - fa dika
 mito - deu kata  
 modelar - forma  
 modo (maneira, jeito) - mode  
-moeda - pesodiske  
+moeda - pesa diske  
 moenda (moinho) - molia  
 moer - mola  
 mol - mol  
-moldar (modelar) - plasta  
+moldar (modelar) - fa plasti  
 moldura - frem  
 molestar (perturber) - fa turbe  
 molhado - shipu  
 molhar - fa shipu  
 molho de soja - soi sos  
-momento (instante) - sate  
-momentâneo - sati  
+momento (instante) - sata  
+momentâneo - sata di  
 monção - shava mosim  
 monóculo - un oko di lense  
 monólogo - auto loga  
@@ -779,7 +778,7 @@ mão - hande
 mês - lun  
 mímico - mimer  
 mó - molsheke  
-música - muzike  
+música - muzika  
 ####N - N  
 nadar (flutuar) - boyu  
 nautiloide - nautile  
@@ -794,13 +793,13 @@ neurônio - nerve celu
 neve - hima  
 nicho - nish  
 ninho (vespiero) - nide  
-nivel - par  
+nivel - par face  
 noite - noche  
 noitinha - sham  
 norte - norde  
 nosso - mimen su  
 nostalgia (saudade) - nostalgia  
-nota - note  
+nota - note she  
 novato (neófito) - nove ka  
 nove (9) - tisa  
 novidade - nove  
@@ -808,12 +807,12 @@ novidade - nove ta
 novo - nove  
 Noé - Noe  
 nuvem - megi  
-náusea - retroguli sense  
+náusea - retro gula sense  
 não - no  
 não-binário - nobi  
 nós - mimen  
 núcleo (cerne) - kerne  
-número - numbe  
+número - numba  
 o (a) - a  
 ####O - O  
 o que - ke  
@@ -826,9 +825,9 @@ ocular - oko di
 ocultar (esconder) - fa sir  
 ocupado (atarefado) - mangi  
 oito (8) - bato  
-oleiro - poter  
+oleiro - pote ja  
 olho - oko  
-onda - onde  
+onda - onda  
 onde - pa ke  
 online - pa lin  
 ontem - chendeno  
@@ -839,20 +838,20 @@ ordem - ratibu
 orelha - ore  
 orfanato - yatim dom  
 organismo - bio vute  
-organizar - noma  
+organizar - fa nomi  
 origem - asal  
 original - asal di  
 orquídea - orkide  
-ortogonal - ortogoni  
+ortogonal - orto gon di  
 otite - ore flame  
 ou - o  
 ouro - auro  
-outono - padomosim  
+outono - pade mosim  
 outro - alo  
 oásis - vase  
 ####P - P  
-paciente - patike  
-pacifista - pachiste  
+paciente - pati jan  
+pacifista - pace jui ja  
 pacote - pake  
 pacto - kon trati  
 padeiro - baka ja  
@@ -860,28 +859,29 @@ padrasto - vice pa
 pai - pa  
 painel - ban  
 palavra (vocábulo) - logem  
-palavra-passe (senha) - pasloge  
+palavra-passe (senha) - pas loga  
 palácio (mansão, palacete) - dai dom  
-panda - pande  
-pandemia - pandemi patia  
-pantomima (mímica) - panmim  
+pan-europeu - pan europa di  
+panda - panda  
+pandemia - pan demo pati  
+pantomima (mímica) - pan mima  
 papel - kaguje  
 papel de parede - murkaguje  
 papoila - medenpapil  
 papoila-dormideira - sona papil  
-par - parike  
+par - par jan  
 para-lama - fandefban  
 parque - parke  
 partida - meche  
 parâmetro - param  
-passagem - pasdau  
-passagem de volta - retrotikete  
+passagem - pas dau  
+passagem de volta - retro tikete  
 passaporte - pasporte  
-pasta - paste  
+pasta - pasta  
 pato - bata  
-patologia - patilogi  
-patógeno - patojener  
-pausa - pauze  
+patologia - pati logi  
+patógeno - pati jene she  
+pausa - pauza  
 paz - pace  
 pederneira - hogosheke  
 pedir emprestado - jekogeta  
@@ -891,9 +891,9 @@ pedregulho - dai sheke
 pedrinha - lilsheke  
 pegada - fute marke  
 pegajoso (adesivo) - glute di  
-peidar - peda  
+peidar - fa pede  
 peido - pede  
-peixe - pesh  
+peixe - peshe  
 pele - pil  
 penso (band-aid) - glute bande  
 pepino - hiyar  
@@ -906,43 +906,44 @@ perdoar (desculpar) - mafa
 perecer - perisha  
 perguntar - fa sual  
 perigo - hatar  
-perplexo (confuso) - ruhmishi  
+perplexo (confuso) - ruhu mishe di  
 peru - dinde  
 pesado - veze di  
-pescador - peshosaider  
+pescador - peshe saide ja  
 pessoa - jan  
-petróleo - petronefte  
-picareta - pinchope  
+petróleo - petra nefte  
+picareta - pin chope  
 pilha (bateria) - bateri  
 pimenta - pipre  
 pinheiro - song  
-pintura - penta  
+pintura - pente  
 piquenique - eshyam  
-pirataria - piratia  
+pirataria - pirate  
 pirâmida - piram  
 plano - plan  
 planta (vegetal) - fito  
-plástico - plasti  
+plástico - plasti di  
 pneumonia  - pulmon flame  
-Polinésia - Polnesia  
+Polinésia - Polinesia  
 poluição - najis  
 polvo - ohtopus  
 pomar - frute bagi  
 ponta (pico, bico) - pike  
 ponta do dedo - angul pike  
-ponte - pul  
+ponte - kiau  
 por exemplo - misalo  
 por muito tempo - long dura  
 porcelana - chini  
 porto - porte  
 porto marítimo - haiporte  
-Porto Rico - Portorikia  
-porto-riquenho - portoriki  
+Porto Rico - Portoriko  
+porto-riquenho - portoriko jan  
 possível - bil  
 poste (estaca) - zong  
-posterior - postri  
+posterior - pos di  
 poucos - shau  
-prancheta - pinsoban  
+poucos - shau ta  
+prancheta - pince ban  
 prata - argente  
 prateleira (estante) - liboban  
 praça - meden  
@@ -967,8 +968,8 @@ purê de maçã - aple sos
 pá - bele  
 página - varka late  
 pântano - fantopia  
-pão - pan  
-pícea (espruce) - pise  
+pão - pang  
+pícea (espruce) - picea  
 quadrinhos (banda desenhada) - grafi kata  
 quando - ke sate  
 quarta-feira - var tri  
@@ -1005,12 +1006,12 @@ raro - rare
 rasgar - chir  
 rasgar - chira  
 rato - mushu  
-raça - rasa   
+raça - rasa  
 raíz - mula  
 rebater - boing  
-reciclar - resikle  
+reciclar - re cikle  
 recém-nascido - neujeni  
-regime - politomode  
+regime - politi mode  
 registro - loge  
 rei - man raja  
 relier (connecter) - linka  
@@ -1021,13 +1022,13 @@ remédio (medicamento) - dava she
 reparador - shulija  
 reparar - shuli  
 reparo - shuli  
-repetir - reya  
-repetição - ri  
+repetir - fa re  
+repetição - re  
 reserva - rezerve  
 resposta - javabu  
 resto - reste  
-reto - orti  
-retornar - retra  
+reto - orto  
+retornar - fa retro  
 rim - nefre  
 rima - rim  
 ringue - ringar  
@@ -1036,11 +1037,11 @@ rir - haha
 ritmo - ritim  
 robô - robote  
 rocha (pedra) - petra  
-rock - rokomuzike  
+rock - roke muzika  
 roda - chakra  
 Roma - Roma  
 romance - long kata  
-rosa - roze  
+rosa - roza  
 roupa (vestidura) - fuke  
 rouxinol - bulbul  
 rubi - lal bau sheke  
@@ -1054,54 +1055,54 @@ saco - sake
 sacrifício - kurban  
 sagrada escritura - sante kanon  
 sair - eshtru  
-sal - sale  
+sal - sal  
 sala (câmara) - kamar  
-salino - sale di  
+salino - sal di  
 salmão-cão (salmão-keta) - baki salmon  
-salmão-rosa - rozosalmon  
+salmão-rosa - roza salmon  
 salmão-vermelho - lal salmon  
 salsicha - sosis  
 samambaia - parne  
 samba-canção - bokse pante  
 sanduíche - sanduiche  
-sangue - sang  
+sangue - sange  
 Satanás - shatan ja  
 Saturno - Saturne  
-saudação - salame  
-saudável (saudio) - sali  
-saúde - salia  
+saudação - salam  
+saudável (saudio) - salu  
+saúde - salu ta  
 se - ga  
 se - se  
 seabórgio - siborgium  
 seda - silko  
 sede - sui yau  
 segunda-feira - var un  
-seguro - sekuri  
+seguro - sekur  
 seio (mama) - mam  
 seis (6) - luku  
 seita - din shia  
 selva (floresta, jângal) - jangal  
 sem - na  
 semente - seme  
-seminal - semi  
-senador - senater  
+seminal - seme di  
+senador - supra vakil ja  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabur  
 ser (estar) - si  
 ser humano - insan  
-serra - sere  
+serra - sera  
 sete (7) - sete  
 sexo - jinse  
 sexologia - sekse logi  
 sexta-feira - var penta  
 sim - ye  
-simetria - sammetre  
-simulação - samsifia  
+simetria - sam metre  
+simulação - sam sifa she  
 sino (campainha) - danger  
 situaçao - she hal  
 sociedade - soci  
-sogra - gammai  
-sogro - gampai  
+sogra - gami ma  
+sogro - gami pai  
 soja - soi  
 sol - sol  
 soldado - gunjan  
@@ -1128,7 +1129,7 @@ taxímetro - taksi metre gi
 tear - tela gi  
 tectónica de placas - plate geo kaske logi  
 teia de aranha - arane nete  
-tela - penta tela  
+tela - pente tela  
 telefonar - fa tele fon  
 telefonia - tele fon shutu  
 telescópio - teleskope  
@@ -1140,10 +1141,10 @@ tempo - zaman
 tendência - klin  
 tenso - tense  
 tentar (provar) - fa teste  
-tentáculo - senter  
+tentáculo - sense shaka  
 teosofia - deu sofi  
 ter (achar, receber) - geta  
-terminar (acabar, concluir) - purfina  
+terminar (acabar, concluir) - pul fina  
 Terra - Geo  
 terra natal - jene loka  
 terracota - baka fan  
@@ -1180,14 +1181,14 @@ trópicos - garma zona
 tu - tu  
 tubarão - sharke  
 tubérculo - masmul  
-turbante - pagre  
+turbante - pagri  
 tábua (prancha) - mokoban  
 técnica - tehne  
 título - tema name  
 ####U - U  
 uau - va  
 um (1) - un  
-um ao outro - ses  
+um ao outro - se kon  
 uma vez - un mar  
 universal - un verse di  
 união - unta liga  
@@ -1207,7 +1208,7 @@ vara (bastão) - baton
 vaso de flores - hua pote  
 vazar - lou  
 vazio - hali  
-vegetalista - purfityamiste  
+vegetalista - pul fito yam jui ja  
 vegetariano - fito yam jui ja  
 velho (antigo) - cheniki  
 vender - vende  
@@ -1236,7 +1237,7 @@ viúvo - vidou
 voar - feyu  
 vocabulário - loga jami  
 vogal - jungofon  
-voltar (regressar) - retru  
+voltar (regressar) - be retro  
 vontade - vol she  
 voo - fei  
 vosso - tumen su  

@@ -6,14 +6,14 @@ abattre - bucha
 abeille ou guêpe - fong  
 Abkhazie - Apsni  
 aborigènes australiens - asal Australia jan  
-abricot - briko  
+abricot (prune) - briko  
 Abyssinie - Habasha  
 acacia faux-gommier - helisbabul  
 acarien - akare  
 accent - acente  
 accessible (atteignable, à portée) - acesa bil  
-accomplir (terminer) - purfina  
-accord - samrayia  
+accomplir (terminer) - pul fina  
+accord - sam rai  
 accès - acesa  
 acheter - fa shopi  
 acte (action) - karma  
@@ -26,14 +26,14 @@ adapter (ajuster) - hapa
 addition (facture) - fatura  
 adhésif (collant) - glute di  
 adjectif - sifa loga  
-administrateur - politer  
+administrateur - politi ja  
 adresse - adres  
 adulte - matur  
 adversaire (antagoniste, ennemi) -   
 Afghanistan - Afgan  
 Afrique - Afrika  
 agent (faiseur) - karma ja  
-agent pathogène - patojener  
+agent pathogène - pati jene she  
 agile - agile  
 agresseur - agreser  
 agressif - agresivi  
@@ -52,7 +52,7 @@ algues - hai alga
 algues brunes - brun alga  
 Algérie - Jayer  
 aller (quitter) - kita  
-Aller-retour - retrotikete  
+Aller-retour - retro tikete  
 alligator - korte krokodil  
 allophone - alo fon  
 allô - halo  
@@ -116,7 +116,7 @@ architecte - bina plan ja
 architecture - bina plan  
 arctique - Artika  
 argent - argente  
-argent - pese  
+argent - pesa  
 Argentine - Argentina  
 argile - glute fan  
 argon - argon  
@@ -158,7 +158,7 @@ Australie - Australia
 Austronésie - Austronesia  
 autel - puja meza  
 autocollant - glute grafi  
-automne - padomosim  
+automne - pade mosim  
 autre - alo  
 autrement - alo  
 avant - cheno  
@@ -212,9 +212,9 @@ basketball - baske bol
 bassin - basen  
 bateau - nave  
 beau - sundar  
-beau-père - gampai  
+beau-père - gami pai  
 beauté - sundar ta  
-belle-mère - gammai  
+belle-mère - gami ma  
 bengali - bangla basha  
 besoin - yauta  
 betterave - bete  
@@ -222,7 +222,7 @@ betterave à sucre (betterave sucrière) - sukar bete
 bibliothèque - kitabu kan  
 bicyclette - cikle  
 bidonville - harabu mahala  
-bien-être - salamia  
+bien-être - salam ta  
 bilingue - dulbashi  
 billet - tikete  
 biologie - bio logi  
@@ -270,7 +270,7 @@ bêche (pelle) - parke bele
 bûche - mokotan  
 ####C - C  
 cacher - fa sir  
-cachet de la poste - postomarke  
+cachet de la poste - posta marke  
 cactus - katus  
 cadre - frem  
 cafetière - kafe pote  
@@ -286,11 +286,11 @@ caleçon - bokse pante
 calife - halifa  
 calmar (encornet, calamar) - kalmar  
 calme (tranquille) - shanti di  
-Camomille Romaine - romakamil  
+Camomille Romaine - roma kamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa  
-canevas (toile) - penta tela  
+canevas (toile) - pente tela  
 Canne à sucre - sukar cau  
 canon - dai pau  
 canoë - kanu  
@@ -308,12 +308,12 @@ carreau (tuile) - tail
 carrière - pei gung jiu  
 carte - karde  
 carte - metregraf  
-carte à collectionner - jamkarde  
+carte à collectionner - jama karde  
 cartographie - metregrafia  
 cauri - kauri  
 cent (100) - cen  
 Centaurée - centaure  
-Centaurée bleuet - nilchentaur  
+Centaurée bleuet - blu centaure  
 Centaurée du solstice - sol centaure  
 centre - jung  
 cerise - cheri  
@@ -327,12 +327,12 @@ changement climatique - klimmute
 changer - ala  
 chapitre - babu  
 chardon - kardon  
-chardon aux ânes - pinkardon  
+chardon aux ânes - pin kardon  
 chardon Marie - milkokardon  
-chardon penché - pendokardon  
+chardon penché - pende kardon  
 charge (fardeau, poids) - bari  
 charme - charme  
-chasser - saida  
+chasser - saide  
 chat - mau  
 chaudron - dai pote  
 chauve - sar kesha na di  
@@ -352,7 +352,7 @@ chose - she
 Christ (messie) - mesi  
 chronique - duri  
 chronomètre - durmetrer  
-chu - padi  
+chu - pade di  
 chéri - ai jen  
 chêne - baluta  
 chêne pédonculé - europobalute  
@@ -361,7 +361,7 @@ ciel - sama
 cime (pic, sommet) - shan pike  
 cimetière - gabur bagi  
 cinq (5) - penta  
-cirse commun - perkardon  
+cirse commun - pero kardon  
 citron - limon  
 citrouille - kaboga  
 clair - klari  
@@ -376,7 +376,7 @@ colorant - rang mate
 combava - karsolimon  
 comment - ko?  
 commerce - vende shope  
-compassion - samemos  
+compassion - sam emos  
 complot (conspiration) - sir plan  
 comportement (manière) - manir  
 compost - bio cana she  
@@ -387,11 +387,11 @@ concert - konserte
 concombre - hiyar  
 concombre confit (cornichon) - achar hiyar  
 concombre de mer - haihiyar  
-conseil - sel  
-conseiller - sela  
+conseil - sela loga  
+conseiller - fa sela  
 considérer - hema  
 construire - fa bina  
-consultant (conseiller) - konseler  
+consultant (conseiller) - kon sela ja  
 conte de fées - pari kata  
 conteneur - inan  
 continu (analogique) - zoku di  
@@ -399,7 +399,7 @@ continuer (poursuivre, encore) - zoku
 contract (traité) - trati  
 convenir (être approprié) - hapu  
 convention (alliance, pacte) - kon trati  
-copie - kope  
+copie - kopi  
 coquelicot - medenpapil  
 corail - koral  
 corne - korne  
@@ -453,10 +453,10 @@ dance - dance
 dandélion - makanful  
 danger - hatar  
 danois - Danske  
-dans le sens antihoraire - rotolefto  
+dans le sens antihoraire - rota lefte  
 dauphin - dolfin  
 de - ze  
-demain - posdeno  
+demain - pos den  
 demander (poser un question; est-ce que) - fa sual  
 dessous - niche  
 destin - kisma  
@@ -488,7 +488,7 @@ données - data
 dormir - sona  
 douche - dush  
 drapeau - bandera  
-droit (rectiligne) - orti  
+droit (rectiligne) - orto  
 droit - haki  
 droits de l'homme - insani hake  
 dur - gati  
@@ -528,8 +528,8 @@ ennemi - dusjan
 enregistrement - loge  
 enseigner - giau  
 ensommeillé (somnolent) - sona tabi  
-ensuite (après, plus tard, ir a, en el futuro) - poso  
-entonnoir - riutube  
+ensuite (après, plus tard, ir a, en el futuro) - pos  
+entonnoir - dara tubo  
 entrer - intru  
 envelopper (emballer) - lifafa  
 erroné - galti  
@@ -558,7 +558,7 @@ extérieur - esh
 exécrer - an ai  
 ####F - F  
 fable - zou kata  
-face (facette) - fas  
+face (facette) - face  
 facile - fasili  
 faction (clique) - shia  
 faible - debili  
@@ -617,7 +617,7 @@ galop - galope
 garde-boue (aile) - fandefban  
 Gaule - Galia  
 gaz - gas  
-gaz lacrymogène - okosuigas  
+gaz lacrymogène - oko sui gas  
 gazelle - gazel  
 geler (glacer) - be ais  
 genou - gute  
@@ -635,7 +635,7 @@ gnome - geo elfe
 gombo - bamia  
 gorille - gorila  
 goule - gul  
-gouvernement - polite  
+gouvernement - politi  
 grand-mère - chin ma  
 grand-père - chin pa  
 granit - granite  
@@ -644,7 +644,7 @@ grenouille - krokroke
 grimace - grimas  
 groupe - grupe  
 grâce à - shukra da  
-grès - regopetre  
+grès - rege petra  
 guide - gida ja  
 guide touristique - gida buku  
 guider - gida  
@@ -664,7 +664,7 @@ gêner (déranger, perturber) - fa turbe
 ####H - H  
 habiller (vêtir) - fuka  
 haine - hen  
-hameçon - peshhuke  
+hameçon - peshe huke  
 haut - gau  
 hautes technologies - gautehnia  
 Haïti - Haiti  
@@ -681,7 +681,7 @@ hockey - hoke
 hockey sur glace - ais hoki  
 honneur - onor  
 honnête (sûr, crédible, sûrement) - amen  
-honorer - onora  
+honorer - fa onor  
 horloge - horloger  
 houe - chope  
 hourra - ura  
@@ -691,7 +691,7 @@ hum - hem
 humain - insaniki  
 humanisme - insanistia  
 humeur - emoshal  
-hygiène - salsafia  
+hygiène - salu safa ta  
 hélicoptère - helisviman  
 héros - hero  
 hétéroromantique (hétéromantique) - alo romanse  
@@ -711,8 +711,8 @@ inclusif - inklusivi
 Inde - Barti  
 indien - barti  
 Indus - Hindu riu  
-infecter - patomisa  
-infection (contagion) - patomis  
+infecter - fa pati mise  
+infection (contagion) - pati mise  
 infidèle (incroyant) - an din ja  
 inflammation - flame  
 insecte - dudu  
@@ -758,7 +758,7 @@ kiwi - kivi
 kumquat - kankuate  
 Kâmasûtra - kama kanon  
 ####L - L  
-l'un l'autre - ses  
+l'un l'autre - se kon  
 lac - lage  
 laid (vilain) - dusvidi  
 laine - meme kesh  
@@ -769,7 +769,7 @@ laitue - letis
 lama (enseignant religieux du bouddhisme tibétain) - lama  
 lama - liame  
 lampe - lampa  
-Lance-roquettes - roketolancher  
+Lance-roquettes - rokete lance gi  
 langue - basha  
 langue - lisan  
 langue maternelle - jene basha  
@@ -825,7 +825,7 @@ léger - legi
 légume - yam fito  
 ####M - M  
 machine à écrire - kitabu gi  
-magma - pastopetre  
+magma - pasta petra  
 magnésium - magesium  
 mah-jong - majang  
 maillon (chaînon) - sili tika  
@@ -844,7 +844,7 @@ marché (bazar) - bazar
 mardi - var du  
 margay (chat-tigre) - margai  
 marguerite - baki margarite  
-mariage - gamia  
+mariage - gami  
 Maroc - Magribia  
 Mars - Marse  
 marécage (marais) - fantopia  
@@ -860,7 +860,7 @@ medio - medi
 melt - yong  
 menthe - minta  
 Menthe aquatique - sui minta  
-menthe poivrée - piprominte  
+menthe poivrée - pipre minte  
 menthe verte - zong minte  
 mer - hai  
 merci - shukra  
@@ -879,20 +879,20 @@ miel - medu
 migration - migre  
 mine - kuangia  
 mode (façon, manière) - mode  
-modeler - plasta  
+modeler - fa plasti  
 mois - lun  
 mole (unité) - mol  
-momentané - sati  
+momentané - sata di  
 monde - dunia  
-monnaie (pièce) - pesodiske  
+monnaie (pièce) - pesa diske  
 monocle - un oko di lense  
 monologue - auto loga  
 mordre - fa dante  
 morue - kade  
 morue de l'Atlantique - atlanti kade  
-morue du Pacifique - pachokade  
+morue du Pacifique - pace hai kade  
 mot - logem  
-mot de passe - pasloge  
+mot de passe - pas loga  
 moteur - moto  
 mouche - domzeze  
 moudre - mola  
@@ -905,7 +905,7 @@ moussu - mosi
 mouvoir (bouger) - kina  
 mule - iha uma  
 mur - mur  
-musique - muzike  
+musique - muzika  
 mycélium - fungu nete  
 mythe - deu kata  
 mât - masta  
@@ -922,7 +922,7 @@ métier à tisser - tela gi
 nagar (flotter) - boyu  
 nappe - meza tela  
 nation - nasi  
-nausée - retroguli sense  
+nausée - retro gula sense  
 nautile - nautile  
 neige - hima  
 Neptune - Neputun  
@@ -931,16 +931,16 @@ neurone - nerve celu
 neurotoxine - nerve toksi  
 niche - nish  
 nid - nide  
-niveau - par  
+niveau - par face  
 noir - kala  
 noit - noche  
-nombre (numéro) - numbe  
-nombre pair - pari numbe  
+nombre (numéro) - numba  
+nombre pair - par numba  
 non (ne...pas) - no  
 non-binaire - nobi  
 nord - norde  
 nostalgie - nostalgia  
-note - note  
+note - note she  
 notre - mimen su  
 nous - mimen  
 nouveau - nove  
@@ -960,7 +960,7 @@ objet (article) - vutu
 oblique (de travers) - terca  
 obsidienne - osidian  
 occupé - mangi  
-ocelot - oselote  
+ocelot - ocelote  
 oculaire - oko di  
 océan - dai hai  
 Océan Antarctique - Antartika Hai  
@@ -971,14 +971,14 @@ odeur - aroma
 oeuf - anda  
 oie - gansa  
 oignon - piaze  
-oiseau - pakse  
+oiseau - paksi  
 ombrelle (parasol) - sol chati  
 on - men  
 oncille - bagre oselote  
-onde - onde  
+onde - onda  
 option - chuzable  
 or - auro  
-orange (couleur) - oranji  
+orange (couleur) - oranje rang  
 orange (fruit) - oranje  
 orange amère - kali oranje  
 orange douce - sukar oranje  
@@ -989,13 +989,13 @@ ordinateur tablette - table komputa
 ordre - ratibu  
 ordures - laji  
 oreille - ore  
-organiser - noma  
+organiser - fa nomi  
 organisme - bio vute  
 orge - jau  
 origine - asal  
 originel - asal di  
 orphelinat - yatim dom  
-orthogonal - ortogoni  
+orthogonal - orto gon di  
 otite - ore flame  
 ou - o  
 ouah - va  
@@ -1006,22 +1006,23 @@ ours - urso
 oxyde - okside  
 où - pa ke  
 ####P - P  
-pacifiste - pachiste  
+pacifiste - pace jui ja  
 page - varka late  
-pain - pan  
-pair (pareil, egal) - pari  
+pain - pang  
+pair (pareil, egal) - par  
 paix - pace  
 palais (château, manoir) - dai dom  
 pamplemousse - putau oranje  
-panda - pande  
-pandémie - pandemi patia  
+panda - panda  
+pandémie - pan demo pati  
+paneuropéen - pan europa di  
 panier (panier de basketball) - baske  
 panneau de signalisation - dau ban  
 pansement (sparadrap) - glute bande  
 pantalon - pante  
-pantomime - panmim  
+pantomime - pan mima  
 pantoufle (babouche) - babuche  
-papaye - papai  
+papaye - papaya  
 papier - kaguje  
 papier peint - murkaguje  
 papillon - pelpel  
@@ -1035,26 +1036,26 @@ Paris - Paris
 parler - loga  
 parole (mots) - loga  
 parti - kiti  
-passe (passage) - pasdau  
+passe (passage) - pas dau  
 passeport - pasporte  
 passer - durita  
 passer - pas  
 pastèque - arbuza  
-pathologie - patilogi  
-patient - patike  
-pause - pauze  
+pathologie - pati logi  
+patient - pati jan  
+pause - pauza  
 pavot d'Orient - guipapil  
 pavot somnifère - sona papil  
 pavé - cirke sheki  
 pays des fées (paradis) - pari desha  
-peindre - penta  
-peinture - penta  
+peindre - fa pente  
+peinture - pente  
 pelle - bele  
 perdant - shibai ja  
 perder - shibai tena  
 pere (papa) - pa  
-perfectionner (parfaire) - purbona  
-perplexe (désorienté) - ruhmishi  
+perfectionner (parfaire) - fa pul bon  
+perplexe (désorienté) - ruhu mishe di  
 perroquet - papagai  
 personne - jan  
 pet (vesse) - pede  
@@ -1072,12 +1073,12 @@ pierre tombale - gabur sheke
 pieu (poteau) - zong  
 pile (batterie) - bateri  
 piment - chili  
-pioche - pinchope  
-piquant - pinani  
+pioche - pin chope  
+piquant - pin sense di  
 piquenique - eshyam  
-piraterie - piratia  
+piraterie - pirate  
 pistolet - pau gi  
-pizza - pize  
+pizza - piza  
 pièce (chambre) - kamar  
 piège - kape truke  
 placard - almari  
@@ -1088,9 +1089,9 @@ plaire - fa suka
 plan - plan  
 planche - mokoban  
 plante (végétal) - fito  
-planter - poza  
+planter - fa poze  
 plaque tectonique - geo kaske plate  
-plein - puri  
+plein - pul  
 pluie - shava  
 plume - kalam  
 plurilingue (multilingue) - poli basha di  
@@ -1101,41 +1102,41 @@ pocion - dava sui
 podzol - huidarte  
 poids (lourdeur, gravité) - veze  
 poireau - porei  
-poisson - pesh  
-poisson-globe - balon pesh  
+poisson - peshe  
+poisson-globe - balon peshe  
 poivre - pipre  
 poivre long - long pipre  
 poli - foto frika  
 pollution - najis  
-Polynesie - Polnesia  
+Polynesie - Polinesia  
 pomme - aple  
-pont - pul  
+pont - kiau  
 porcelaine - chini  
 porte - porte  
-porte-bloc (planchette à pince) - pinsoban  
+porte-bloc (planchette à pince) - pince ban  
 porter (s’habiller) - fuku  
-Porto Rico - Portorikia  
-Portoricain - portoriki  
+Porto Rico - Portoriko  
+Portoricain - portoriko jan  
 posidonie (herbiers marins) - haichau  
 possédant (propriétaire) - malan  
 posture (position) - asan  
-postérieur - postri  
+postérieur - pos di  
 pot (vase) - pote  
 pot de fleur - hua pote  
-poterie - poteria  
-potier - poter  
+poterie - pote shutu  
+potier - pote ja  
 poubelle - laji tong  
 poudre à canon - barude  
 Poulpe (pieuvre) - ohtopus  
-pourri - pudi  
-pourrir (se décomposer) - pudu  
+pourri - pute  
+pourrir (se décomposer) - be pute  
 pousse - joveni moke  
 pouvoir (possible, capacité, peut-être) - bil  
 presse-papier - katoglutoban  
 pression atmosphérique - air bari  
 preuve - dalil  
 problème - problem  
-problématique - problemi  
+problématique - problem di  
 procédé (rite) - riti  
 professeur (enseignant) - shula guru  
 profession (métier) - pei gung  
@@ -1149,57 +1150,56 @@ prolongé - long dura di
 promettre - fa vode  
 propice - bon sin di  
 propriété (possession, bien) - mal  
-prune - plum  
 prune de Java - jamul  
 précieux - bau di  
 préférer - mas fili  
 présent - zai di  
 prêter (empruntre) - jeka  
 prêter - jekodona  
-psychologie - ruhulogi  
+psychologie - ruhu logi  
 psyché - ruhu  
 pyramide - piram  
 pâquerette - englomargarite  
-pâte - paste  
-pâte à modeler - plastopaste  
+pâte - pasta  
+pâte à modeler - plasti paste  
 périr - perisha  
-péter - peda  
-pétrole (essence) - petronefte  
-pêcheur - peshosaider  
+péter - fa pede  
+pétrole (essence) - petra nefte  
+pêcheur - peshe saide ja  
 quand - ke sate  
 quartier - mahala  
 quartz - kuarze  
 quatre (4) - chatre  
 que (comme) - ka  
 que (quoi) - ke  
-querelle (dispute, palabre) - palabe  
+querelle (dispute, palabre) - palaba  
 question - sual  
 queue (côté ) - koda  
 qui - ke jan  
 ####R - R  
-race - rasa   
+race - rasa  
 racine - mula  
 radio - radio  
-rang - ode  
+rang - me poze  
 rare - nadir  
 rare - rare  
 rarement - nadir mar  
 raton laveur - vashi urso  
 rayon de miel - medu fong nide  
 rebondir - boing  
-recycler - resikle  
+recycler - re cikle  
 rein - nefre  
 religion - din  
-remettre - retra  
-remplir - pura  
+remettre - fa retro  
+remplir - fa pul  
 renard - huli  
 repos - shanti  
-reprendre - reizoka  
+reprendre - re zoku  
 requin - sharke  
 reste - reste  
-retourner (revenir) - retru  
+retourner (revenir) - be retro  
 rhythme - ritim  
-riche - richi  
+riche - riche  
 rime - rim  
 ring (manège) - ringar  
 rire - haha  
@@ -1209,11 +1209,11 @@ riz - ris
 robot - robote  
 roche (pierre) - petra  
 rocher - dai sheke  
-rock - rokomuzike  
+rock - roke muzika  
 roi - man raja  
 roman - long kata  
 Rome - Roma  
-rose - roze  
+rose - roza  
 rossignol - bulbul  
 rosée - rose  
 roue - chakra  
@@ -1226,27 +1226,27 @@ réparateur - shulija
 réparation - shuli  
 réparer - shuli  
 réponse - javabu  
-répéter - reya  
-répétition - ri  
+répéter - fa re  
+répétition - re  
 rêche (rugueux, gros) - karsi  
-rôtir - rosta  
+rôtir - roste  
 ####S - S  
 s'installer (déménager) - migru  
 s'opposer à - shatan  
 sac - sake  
 sacrifice - kurban  
 sagesse - sofita  
-sain - sali  
+sain - salu  
 saintes écritures  - sante kanon  
 saison - mosim  
 salle de bains - banya kamar  
 salle de classe - shula kamar  
-salut (salam) - salame  
+salut (salam) - salam  
 samedi - var luku  
 Samoa américaines - Amerika Samoa  
 sandwich - sanduiche  
-sang - sang  
-santé - salia  
+sang - sange  
+santé - salu ta  
 sapin - abies  
 Satan - shatan ja  
 Saturne - Saturne  
@@ -1255,16 +1255,16 @@ sauce de soja - soi sos
 saucisse - sosis  
 saumon altentique - atlanti salmon  
 saumon du Pacifique (saumon kéta, saumon chien) - baki salmon  
-saumon rose - rozosalmon  
+saumon rose - roza salmon  
 saumon sockeye - lal salmon  
 sauvage - ekojeni  
 savane - garma zona cau istan  
 savoir (connaître) - sabi  
 Scandinavie - Eskandia  
 schtroumpf - blu elfe  
-scie - sere  
+scie - sera  
 sculpteur - eskulter  
-scutelle - ostoshalke  
+scutelle - oste shalke  
 se - se  
 se baigner - banya  
 se mouvoir - kinu  
@@ -1272,10 +1272,10 @@ se passer - duru
 se plaire - be suka  
 se rappeler (se remémorer) - mema  
 seau - baldi  
-secouer - roka  
+secouer - roke  
 secte - din shia  
 sein - mam  
-sel - sale  
+sel - sal  
 semence - seme  
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aroma  
@@ -1291,7 +1291,7 @@ shopping - shopi
 si - ga  
 signer - namkitaba  
 silex - hogosheke  
-simulation - samsifia  
+simulation - sam sifa she  
 situation (état de choses) - she hal  
 six (6) - luku  
 société - soci  
@@ -1309,22 +1309,22 @@ soumission - islam
 souris - mushu  
 sous-estimer - minraya  
 sport - esporte  
-squelette - ostojamia  
+squelette - oste jama  
 substance - kim  
 sucre - sukar  
 sueur - sueda  
-suffixe - posfikse  
+suffixe - pos fikse  
 Suisse - Suice  
-suivre - posa  
+suivre - fa pos  
 sujet (thème) - tema  
 sunnisme - suna islam din  
 surestimer -   
 svastika (croix gammée) - huke krus  
-symétrie - sammetre  
-séminal - semi  
-sénateur - senater  
+symétrie - sam metre  
+séminal - seme di  
+sénateur - supra vakil ja  
 série - sili  
-sûr - sekuri  
+sûr - sekur  
 s’accroupir - insida  
 ####T - T  
 table - meza  
@@ -1342,7 +1342,7 @@ temps - zaman
 tendance - klin  
 tender - long tire  
 tendu - tense  
-tentacule - senter  
+tentacule - sense shaka  
 tente - hemah  
 terrain - geo forme  
 terrain de camping - kampistan  
@@ -1366,8 +1366,8 @@ tombe (enterrer) - gabur
 topinambour - masmulsolful  
 topographie - topo grafi  
 toucher - tochu  
-toupie - rototope  
-touriste - safariste  
+toupie - rota van gi  
+touriste - safar kegu ja  
 Tournesol - sol ful  
 toxicologie - toksi logi  
 toxine - bio toksi  
@@ -1378,7 +1378,7 @@ travail - gung
 travailler - kara  
 travailleur (ouvrier) - karer  
 traîner - trator  
-tremper (faire mariner) - purshipa  
+tremper (faire mariner) - pul shipu  
 tribord - nave raite  
 trois (3) - tri  
 tropique - garma zona  
@@ -1388,7 +1388,7 @@ truite brune (truite de mer) - brun salmon
 tu - tu  
 tubercule - masmul  
 Tunisie - Tunis  
-turban - pagre  
+turban - pagri  
 télescope (lunette) - teleskope  
 télécharger - netogeta  
 téléphone - tele fon gi  
@@ -1484,7 +1484,7 @@ zoroastrisme - Zardush din
 zoulou - Zulu  
 zèbre - zebra  
 Égypte - Misria  
-Épicéa - pise  
+Épicéa - picea  
 âge - sen  
 éblouir (étonner, stupéfier, surprendre) - fa ajibu  
 échec - shibai  
@@ -1513,10 +1513,10 @@ zèbre - zebra
 épices - masale  
 épingle - pin  
 éponge - esponje  
-époux - gam  
+époux - gami jan  
 épreuve (test) - teste  
 épée - katane  
-équilibre - parvezia  
+équilibre - par veze ta  
 équipe - tim  
 étagère - liboban  
 étain - estan  

@@ -103,7 +103,7 @@ baka kan - пекарня (булочная)
 baki - белый  
 baki margarite - нивяник обыкновенный (ромашка)  
 baki salmon - кета  
-balon pesh - иглобрюховые  
+balon peshe - иглобрюховые  
 baluta - дуб  
 bambu - бамбук  
 bamia - окра (бамия)  
@@ -138,6 +138,9 @@ baze bol - бейсбол
 baze shula kan - семилетка  
 be bio mute - заквасить  
 be bum - взрываться  
+be pute - гнить (портиться)  
+be retro - возвращаться  
+be sabi vol - задуматься (думать, гадать)  
 be tele loka - телепортировать  
 be turbe - утруждай  
 bebe - младенец  
@@ -160,6 +163,7 @@ bir - пиво
 biskute - печенье (бисквит)  
 biznes - предприятие (бизнес)  
 blu - синий (голубой)  
+blu centaure - василёк синий  
 blu elfe - смурф (штрумпф)  
 boi - поплавок (буй)  
 bokse - бокс  
@@ -175,7 +179,7 @@ Brahma - Брахма
 brauze - исследовать  
 brauzer - исследователь (браузер)  
 bravo - браво  
-briko - абрикос  
+briko - абрикос (слива)  
 brun - коричневый  
 brun alga - бурые водоросли  
 brun salmon - кумжа  
@@ -194,6 +198,7 @@ buton - пуговица
 celu logi - цитология  
 cen - сто  
 centaure - василёк  
+cerami - керамика  
 chabe - ключ  
 chai - чай  
 chai kan - чайная (чайхана)  
@@ -241,6 +246,7 @@ danger - звонок
 Danske - датский  
 dante balute - дуб зубчатый  
 dante na di - беззубый  
+dara tubo - воронка  
 darjomute - развитие  
 data - данные  
 datobanke - база данных  
@@ -341,6 +347,13 @@ fa dika - целиться
 fa jene - родить  
 fa kancha dake - глазуровать  
 fa loka - ставить  
+fa nomi - организовать  
+fa onor - чтить  
+fa pede - пердеть  
+fa plasti - лепить  
+fa pul - заполнять  
+fa re - повторять  
+fa sela - советовать  
 fa shibai - проиграть (провалиться)  
 fa shopi - покупать (купить)  
 fa shula - учиться  
@@ -353,10 +366,10 @@ fa tele fon - звонить
 fa truke - обмануть  
 fa turbe - утруждать  
 fa valu - оценивать  
+face - грань  
 faida - применение (утилитарность)  
 fan - болото  
 fantopia - болото (топь)  
-fas - грань  
 fasili - лёгкий (простой)  
 fasilia da akses - доступность  
 fasteli - глубокий  
@@ -430,6 +443,7 @@ geta - получить
 giau - учить (преподавать)  
 gida buku - путеводитель  
 gida ja - гид  
+ging - параллельный  
 gitar - гитара  
 giuke - нефрит (жад)  
 glisu - задвигаться (скользи́ть)  
@@ -663,14 +677,14 @@ ko? - как
 koda - хвост  
 komputa - компьютер  
 kon gung - сотрудничать (кооперировать)  
+kon pasi - жалость (сердобольность)  
+kon sela ja - консультант (советник)  
 kon trati - контракт  
 konboni - соответствовать (сочетаться)  
 konformu - применяться (согласоваться)  
 konga - пробиться  
-konpashia - жалость (сердобольность)  
-konseler - консультант (советник)  
 konserte - концерт  
-kope - копия  
+kopi - копия  
 kora - бегать (бежать)  
 koral - коралл  
 korer - бегун  
@@ -810,6 +824,7 @@ mate - материя
 matur - взрослый  
 mau - кошка  
 maze - носок  
+me poze - ранг  
 meche - матч  
 meden - площадь (сквер, майдан)  
 medenpapil - мак самосейка  
@@ -845,7 +860,7 @@ minraya - недооценить
 minta - мята  
 mirdi - слабый  
 misalo - например  
-misha - мешать  
+mishe - мешать  
 mishi alkol - коктейль  
 Misria - Египет  
 mitre - метр  
@@ -870,7 +885,7 @@ murche - муравей
 murkaguje - обои  
 mushu - мышь  
 muskulbin - культуризм  
-muzike - музика  
+muzika - музика  
 ####N - N  
 nadir - редкий  
 nadir mar - редко  
@@ -894,157 +909,148 @@ nerve celu - нейрон
 neujeni - новорождённый  
 nia - намерение  
 nide - гнездо (улей)  
-nilchentaur - василёк синий  
 nilon - нейлон  
 Nipon - Япония  
 nish - ниша  
 no - нет (не)  
 noche - ночь  
 Noe di nave - Ноев ковчег  
-noma - организовать  
-nomia - организация  
+nomi - организация  
 nong - выращивать  
 nong bio logi - агробиология  
 nong di - аграрный  
 nong nomi - агрономия  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
-note - запись (заметка)  
+note she - запись (заметка)  
 nove - новинка (новь)  
 nove - новый  
 nove ka - новичок  
 nove loga - неологизм  
 nove ta - новизна  
 nu - ну  
-numbe - число  
+numba - число  
 ####O - O  
 o - или  
-ode - ранг  
+ocelote - оцелот  
 ohtopus - спрут (осьминог)  
 oko - глаз (око)  
 oko di - глазной  
-okosuigas - слезоточи́вый газ  
+oko sui gas - слезоточи́вый газ  
 okside - окись (оксид)  
 onor - честь  
-onora - чтить  
 oranje - апельсин  
-oranji - оранжевый  
+oranje rang - оранжевый  
 ore flame - отит  
 orkide - орхидея  
-orti - прямой  
-ortogoni - ортогона́льный  
-oselote - оцелот  
+orto - прямой  
+orto gon di - ортогона́льный  
 osidian - обсидиан  
 osmos - осмос  
-ostojamia - скелет (остов)  
+oste jama - скелет (остов)  
 ####P - P  
 pa - в  
 pa - отец (папа)  
 pa lin - онлайн  
-pachokade - тихоокеанская треска  
-padi - упавший  (падший)  
-padomun - лаз  
-pagre - чалма  
+pa poli mar - часто  
+pace hai kade - тихоокеанская треска  
+pade di - упавший  (падший)  
+pade mun - лаз  
+pagri - чалма  
 pai - пирог  
 pake - пакет  
-pan - хлеб  
-pande - панда  
-pandemi patia - пандемия  
+pan demo pati - пандемия  
+pan europa di - панъевропейский  
+pan mima - пантомима  
+panda - панда  
+pang - хлеб  
 panir - творог  
-panmim - пантомима  
 pante - брюки  
 papagai - попугай  
-papai - папайя  
-par - уровень  
+papaya - папайя  
+par - равный  
+par face - уровень  
+par jan - ровня  
+par numba - чётное число  
+par veze ta - равновесие (баланс)  
 param - параметр (аргумент)  
 parche - кусок  
-pari - равный  
 pari - фея  
 pari kata - сказка  
-pari numbe - чётное число  
-parike - ровня  
 parke - парк  
-parlini - параллельный  
 parne - папоротник  
-parvezia - равновесие (баланс)  
-pash - боль  
-pashi - болезненный  
-pasloge - пароль  
+pas loga - пароль  
+pasi - боль  
+pasi di - болезненный  
 pasporte - паспорт  
-patike - пациент (больной)  
-patilogi - патология  
-patojener - патоген  
-patomis - инфекция (заразная болезнь)  
+pati jan - пациент (больной)  
+pati jene she - патоген  
+pati logi - патология  
+pati mise - инфекция (заразная болезнь)  
 pau - стрелять  
 pau gi - пистолет  
-pauze - пауза  
-peda - пердеть  
+pauza - пауза  
 pede - пердение  
 pei gung - профессия  
 pei gung di - профессиона́льный  
 pei gung ja - профессионал (профи)  
 pei gung jiu - карьера  
 pelpel - бабочка (мотылёк)  
-pendokardon - чертополох поникший  
+pende kardon - чертополох поникший  
 penta - пять (5)  
-penta - картина  
-penta ja - художник  
-penta tela - полотно  
-perkardon - бодяк обыкновенный  
+pente - картина  
+pente ja - художник  
+pente tela - полотно  
 pero - перо  
-pese - деньги  
-pesh - рыба  
-peshhuke - крючок  
-peshosaider - рыбак (рыболов)  
-pesodiske - монета  
+pero kardon - бодяк обыкновенный  
+pesa - деньги  
+pesa diske - монета  
+peshe - рыба  
+peshe huke - крючок  
+peshe saide ja - рыбак (рыболов)  
 petra - горная порода  
-petronefte - нефть  
+petra nefte - нефть  
 piaze - лук  
+picea - ель  
 pike - кончик (остриё, пик)  
 pin - булавка (игла, шип)  
-pinani - пикантный  
-pinchope - киркомотыга  
-pinkardon - татарник колючий  
-pinsoban - планшет  
+pin chope - киркомотыга  
+pin kardon - татарник колючий  
+pin sense di - пикантный  
+pince ban - планшет  
 pipre - перец  
-piprominte - мята перечная  
+pipre minte - мята перечная  
 piram - пирамида  
-pise - ель  
-pize - пицца  
+piza - пицца  
 plan - план  
-plasta - лепить  
-plasti - пластичный  
-plastike - пластмасса  
+plasti - пластмасса  
+plasti di - пластичный  
 plate geo jui ja - плоскоземелец  
-plum - слива  
 polau - плов  
 poli basha di - многоязычный  
-politer - управляющий  
-polmaro - часто  
-Polnesia - Полинезия  
-pontopin - компас  
+Polinesia - Полинезия  
+politi ja - управляющий  
+ponte pin - компас  
 porei - лук-порей  
 porte - порт  
-portoriki - пуэрториканец  
-Portorikia - Пуэрто-Рико  
-poso - после  
-postomarke - почтовый штемпель  
-poter - гончар  
-poteria - гончарное дело  
+Portoriko - Пуэрто-Рико  
+portoriko jan - пуэрториканец  
+pos - после  
+posta marke - почтовый штемпель  
+pote ja - гончар  
+pote shutu - гончарное дело  
 problem - проблема  
-problemi - проблематичный  
+problem di - проблематичный  
 program - программа  
 projete - проект  
-pudu - гнить (портиться)  
 puja kan - храм (место богослужения)  
 puja meza - алтарь  
+pul - полный  
+pul fito yam jui ja - веган  
+pul shipu - мариновать  
 pulmon flame - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
-puntonumbe - оценка  
-pura - заполнять  
-purfityamiste - веган  
-puri - полный  
-purshipa - мариновать  
+punte numba - оценка  
 putau bagi - виноградник  
 putau oranje - грейпфрут  
 ####R - R  
@@ -1054,92 +1060,84 @@ rang arka - радуга
 rang arka salmon - микижа (камчатская сёмга)  
 rapide - быстрый  
 rare - редкий (разбро́санный)  
-rasa  - раса  
+rasa - раса  
 rasa medi - межрасовый  
 ratibu - установка  
 ratibu di - организованный (порядок)  
-resikle - рециркулировать  
+re - повторение  
+re cikle - рециркулировать  
 reste - остаток  
-retrogula - рвать (изрыга́ть)  
-retroguli sense - тошнота  
-retru - возвращаться  
-reya - повторять  
-ri - повторение  
+retro gula - рвать (изрыга́ть)  
+retro gula sense - тошнота  
 rim - рифма  
 ringar - ринг (манеж)  
 ris - рис  
 ris vin - рисовое вино  
 riti - способ (метод)  
 ritim - ритм (такт)  
-riutube - воронка  
 rivo - река  
 robote - робот  
-roka - качать  
-roketolancher - ракетная установка  
-rokomuzike - рок  
+roke - качать  
+roke muzika - рок  
+rokete lance gi - ракетная установка  
 Roma - Рим  
-romakamil - ромашка римская  
-romansi - романтический  
-romansia - роман  
+roma kamil - ромашка римская  
+romance - романтический  
+romance - роман  
 rose - роса  
-rotolefto - против часовой стрелки  
-rototope - волчок  
-roze - роза  
-rozosalmon - горбуша  
-ruhmisha - озадачить  
-ruhmishi - растерянный (озадаченный)  
+rota lefte - против часовой стрелки  
+rota van gi - волчок  
+roza - роза  
+roza salmon - горбуша  
 ruhu - душа (дух)  
-rukosake - рюкзак  
-rutogalta - отходить (скитаться)  
+ruhu mishe - озадачить  
+ruhu mishe di - растерянный (озадаченный)  
+ruke sake - рюкзак  
+rute galta - отходить (скитаться)  
 ####S - S  
 sabi - знать  
+sabi vol - интерес (любопытство)  
+sabi vol di - интересный  
+sabi vol ja - любознательный  
 safran - шафран  
 sahi - правильный  
-saida - охотиться  
-salame - приветствие  
-salamia - благосостояние  
-sale - соль  
-salsafia - гигиена  
+saide - охотиться  
+sal - соль  
+salam - приветствие  
+salam ta - благосостояние  
+salu safa ta - гигиена  
+sam emos - сострадание  
+sam metre - симметрия  
+sam rai - согласие  
+sam sifa she - симуляция  
 sama - небо  
 sama blu - голубой  
 sama hal - погода  
 sama kinar - горизонт  
-samemos - сострадание  
-sammetre - симметрия  
-samrayia - согласие  
-samsifia - симуляция  
 sanduiche - сандвич  
 sanduku - сундук  
-sang - кровь  
+sange - кровь  
 sante kanon - священное писание  
-sanzong - трезубец  
-sapate - туфля  
+sapatu - туфля  
 sar - голова  
 sar kesha - волосы  
 sar kesha na di - лысый  
 sar na di - безголовый  
-sate - момент  
-sati - моментальный (минутный)  
+sata - момент  
+sata di - моментальный (минутный)  
 Saturne - Сатурн  
-savovol - интерес (любопытство)  
-savovolani - любознательный  
-savovoliti - интересный  
-savovolu - задуматься (думать, гадать)  
 se - себя (-ся)  
+se kon - друг друга  
 sekse logi - сексология  
-sel - совет  
-sela - советовать  
+sela loga - совет  
 selge - мангольд  
 seme - семя  
+seme di - семенной  
 semente - цемент  
-semi - семенной  
 sen - возраст  
-senater - сенатор  
 sense - чувство  
-senter - щупальце  
-serame - керамика  
-sere - пила  
-ses - друг друга  
+sense shaka - щупальце  
+sera - пила  
 sesam - сезам  
 sete - семь (7)  
 shalke - чешуя  
@@ -1155,6 +1153,7 @@ shasha - шурша́ть
 shatan - противостоять  
 shatan ja - Сатана  
 shau - мало  
+shau ta - мало  
 shava - дождь  
 shava chati - зонтик  
 shava kote - плащ (дождевик)  
@@ -1234,6 +1233,7 @@ suna islam din - сунниты
 sundar - красивый  
 sundar daka - украшение  
 sundar ta - красота  
+supra vakil ja - сенатор  
 susan - лилия  
 ####T - T  
 tabi - природа (естество, характер)  
@@ -1281,6 +1281,7 @@ trati - договор
 trator - волочить  
 trator gi - трактор  
 tri - три (3)  
+tri zong - трезубец  
 truke - обман  
 tu - ты  
 tumen su - ваш  
@@ -1306,6 +1307,7 @@ vali susan - ландыш
 valu - ценность  
 vampir - вампир (упырь)  
 vampir ohtopus - адский вампир  
+van gi - игрушка  
 var chatre - четверг  
 var du - вторник  
 var luku - суббота  
