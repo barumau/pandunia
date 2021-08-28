@@ -57,61 +57,49 @@ Also two personal pronouns can be combined with **si** and **no**.
 – I'm not you.
 
 
-### With adjective subject
+### With adjective or verb subject
 
-The same rule applies also for two adjectives.
+The same rule applies also for two adjectives, or a verb and an adjective.
 
 **jovan si sundar.**
 – Young is beautiful.  
 **nove no puran.**
 – New is not old.  
-
-### With verb subject
-
-A verb can't be subject as such.
-So the verb is first, use **de** to start a comment about the verb.
-
-**cante si bon.**
-– Singing is good. (Singing is good.)
+**chante si bon.**
+– Singing is good.
 
 
-## Active Sentences
+## Action Sentences
 
-An active sentence is a sentence where the subject does the action denoted by the verb to the object.
-The focus is on the subject as the active participant.
-The correct word order is subject-verb-object (SVO).
+A predicate can also be a verb. In this case, there may be objects as well as the subject.
+These come after the predicate.
 
-The following sentences are in SVO order.
+**mi marche.**
+– I walk.  
+**tu yam yo apel.**
+– You eat some apples.  
+**mimen dona ya pesa.**
+– We give her money.
 
-**mi yam di apel.**
-– I eat some apples.  
-**mi vide tu.**
-– I see you.
+Normally, the order of the subject and objects is not important. It can change based on emphasis.
 
+**a fuku ye gan.**
+– The clothes dry.  
+**a sol ye gan a fuku.**
+– The sun dries the clothes.  
+**a fuku ye gan a sol.**
+– It is the clothes the sun dries.
 
-## Passive Sentences
+To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
+**fa** indicates that the subject is the agent or doer of the action,
+and **be** indicates that the subject is the patient, or receiver.
 
-In the passive voice the focus of the sentence is on a subject
-that is a passive recipient that undergoes the action.
-So the recipient is the subject of the sentence.
-Often the agent is not mentioned at all.
-
-In Pandunia, the passive voice is expressed with the particle **be**.
-
-**tu be vide.**
-– You are seen.  
-**musike be audi.**
-– Music is heard.  
-**pan be bake.**
-– Bread is baked.  
-**kope be parce.**
-– The cup is broken.
-
-The agent can be mentioned after the verb with or without the preposition **de**.
-
-**tu be vide de mi.** - You are seen by me.  
-**mi be vide de tu.** - I am seen by you.
-
+**mi fa salam mi su doste.**
+– I greet my friend.  
+**mi be salam mi su doste.**
+– I am greeted by my friend.  
+**ma fa mi salam mi su doste.**
+– Father makes me greet my friend.
 
 
 ## Pivot structure
@@ -124,24 +112,29 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**mi vol tu yam di vege.**
-– I want you eat vegetables.
+**mi vol tu yam di coi.**
+– I want you to eat vegetables.
 
 In the example above, **mi vol** has **tu** as its object.
-At the same time, **tu** functions as the subject of the following predicate, **yam di vege**.
+At the same time, **tu** functions as the subject of the following predicate, **yam di coi**.
 So **tu** is the _pivot_ of the entire sentence.
 
-The first verb in a pivot structure is a modal verb,
-which indicates a modality such as advice, desire, permission or obligation.
+The second verb in a pivot structure is the main verb.
+The first verb is a modal verb,
+which indicates a modality such as desire, permission or obligation.
 
-**mi vol tu yam di vege.**
+**mi vol tu yam ba coi.**
 – I want you to eat vegetables. (desire)  
-**mi rai tu yam di vege.**
-– I think you to eat vegetables. (opinion)  
-**mi las tu yam di vege.**
+**mi sela tu yam ba coi.**
+– I advise you to eat vegetables. (advice)  
+**mi las tu yam ba coi.**
 – I allow you to eat vegetables. (permission)  
-**mi mus tu yam vege.**
+**mi bil tu yam ba coi.**
+– I enable you to eat vegetables. (ability)  
+**mi deve tu yam ba coi.**
 – I compel you to eat vegetables. (obligation)  
+**mi rai tu yam ba coi.**
+– I think you eat vegetables. (opinion)
 
 
 ## Verb series structure
@@ -149,28 +142,27 @@ which indicates a modality such as advice, desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **mi gou dom.**
+1. **mi gou a dom.**
    – I go home.  
-2. **mi kan gou dom.**
+2. **mi bil gou a dom.**
    – I can go home.  
-3. **mi vol kan gou dom.**
+3. **mi vol bil gou a dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
 The last verb in the series is the main verb.
-The verbs before it are modal verbs,
-which that indicate a modality such as likelihood, ability, advice, permission, desire, or obligation.
+The verbs before it are modal verbs.
 
-**tu kan yam di vege.**
-– You can eat vegetables. (ability)  
-**tu xude yam di vege.**
+**tu vol yam di vege.**
+– You want to eat vegetables. (desire)  
+**tu sela yam di vege.**
 – You had better eat vegetables. (advice)  
 **tu las yam di vege.**
 – You may eat vegetables. (permission)  
-**tu vol yam di vege.**
-– You want to eat vegetables. (desire)  
-**tu mus yam di vege.**
-– You must eat vegetables. (obligation)  
+**tu bil yam di vege.**
+– You can eat vegetables. (ability)  
+**tu rai yam di vege.**
+– You must eat vegetables. (obligation)
 
 ## Pronoun dropping
 
@@ -179,16 +171,16 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**mi sual tu basha pandunia.**
-– I ask do you speak Pandunia.  
-**sual tu basha pandunia?**
-– Do you speak Pandunia?
+**mi amir tu kai a mun.**
+– I command you to open the door.  
+**amir tu kai a mun.**
+– Open the door!
 
 ### Short pivot structure (VVO)
 
-**mi ching tu lai dom.**
+**mi ching tu lai a dom.**
 – I ask you to come home.  
-**ching lai dom!**
+**ching lai a dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -197,7 +189,7 @@ This is done especially in commands and requests.
 
 ### Yes-no questions
 
-_Yes-no_ questions those questions that expect 'yes' or 'no' as answer.
+_Yes-no_ questions are questions that expect 'yes' or 'no' as answer.
 The easiest way to form a yes-no question in Pandunia is to simply attach the particle
 **he**
 ('eh', 'huh') to the end of a statement.
@@ -223,10 +215,17 @@ to suggest the expected answer.
 The third way to ask a yes-no question is to contradict the verb
 with the _A-not-A_ structure.
 
-**tu yam no yam a piza?**
-– Do you or don't you eat the pizza?  
-**tu kan no kan yam a piza?**
-– Can you or can't you eat the pizza?
+**tu yam no yam un piza?**
+– Do you or don't you eat a pizza?  
+**tu bil no bil yam un piza?**
+– Can you or can't you eat a pizza?
+
+Finally, you can emphasize the question by using **sual**.
+
+**mi sual, tu yam un piza?**
+– I ask do you eat a pizza?  
+**sual tu yam un piza?**
+– Do you eat a pizza?
 
 Yes-no questions are answered with
 **ye**
@@ -270,6 +269,27 @@ The question is answered by repeating the chosen alternative.
 – One.
 
 
+## Open questions
+
+Open questions, or _wh-_ questions, ask for more information.
+In Pandunia they use the word **ke**.
+
+**piza si ke?**
+– What is pizza?
+
+The question word may be moved to the front of the sentence for emphasis.
+However, unlike in English, the word order may also be left alone.
+
+**ke she zai yam tu?**
+– What are you eating?  
+**tu zai yam ke she?**
+– You are eating what?  
+**ya lai pa ke sata?**
+– When does he arrive?  
+**tumen kegu pa ke jan su dom?**
+– Whose house did you all visit?
+
+
 ## Relative clauses
 
 A relative clause is a subordinate clause that modifies a noun phrase, most commonly a noun.
@@ -277,70 +297,57 @@ For example, the phrase "the person who lives there" containst the noun _person_
 which is modified by the relative clause _who lives there_.
 
 There are different ways to build a relative clause in Pandunia.
-The relative pronoun in Pandunia is **de**
+The relative pronoun in Pandunia is **jo**
 and it corresponds to English _that_, _who_ and _which_.
-
-The relativized word can be emphasized by **di**,
-as in the following example,
-but it is necessary only in complex phrases.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**di buke, de jan kitaba, padu.**
-– _That_ book, which the person writes, falls.
+**a buku, jo a jan fa kitabu, padu.**
+– The book, which the person writes, falls.
 
-Normally the same sentence includes only **de**.
-
-**buke, de jan kitaba, padu.**
-– The book that the person writes falls.
-
-It is possible to leave also **de** out.
+It is possible to leave also **jo** out.
 This structure is called _reduced relative clause_.
 
-**buke, jan kitaba, padu.**
+**a buku, a jan fa kitabu, padu.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**jan, de kitaba buke, padu.**
+**a jan, jo fa kitabu a buku, padu.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**_di_ kalam, an _de_ jan kitaba buke, padu.**
-– _That_ pen, with _which_ the person writes the book, falls.  
-**kalam, jan kitaba buke an, padu.**
+**a kalam, an jo a jan fa kitabu a buku, padu.**
+– The pen, with _which_ the person writes the book, falls.  
+**a kalam, a jan fa kitabu a buku an, padu.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**_di_ jan, mi vide _de_ kitaba buke, padu.**
+**a jan, mi vide jo fa kitabu a buku, padu.**
 – The person, whom I see write the book, falls.  
-**jan, mi vide kitaba buke, padu.**
+**a jan, mi vide fa kitabu a buku, padu.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**_di_ jan, mi kitaba buke an _de_ di kalam, padu.**
-– The person whose pen I write the book with falls.  
+**a jan, mi fa kitabu a buku an jo su kalam, padu.**
+– The person whose pen I write the book with falls.
 
-Finally, a content clause can also involve **de**,
-which refers back to the previous phrase.
 
-**jan kitaba buke, de si hami.**
-– The person writes a book, which is important.
+## Content clauses
 
-However, it is unclear whethere **de** (_which_) refers to only the book
-or the fact that the person writes the book.
-It can be clarified by an expression like
-**di fate**
-(_the fact_).
+A content clause can be placed before or after the clause that talks about it.
+The particle **i** points to the following phrase, and **u** points to the previous one.
 
-**jan kitaba buke, di fate si hami.**
-– The fact that the person writes the book is important.
+**i si hami, tomate si frute.**
+– This is important: tomatoes are fruit.  
+**pan jan be egal cana, u fate si klar.**
+– All people are created equal; that fact is clear.
 
 
 ## Combining phrases with conjunctions
@@ -455,12 +462,13 @@ So a modifier phrase with and without **da** can mean a different thing.
 
 #### Modification with verb phrases
 
-Verbs and verb phrases are turned into modifiers by placing **da** or **di** immediately next to the verb.
+Verbs are turned into modifiers by placing **da** or **di** immediately next to the verb.
+Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**arte da penta graf**
-– the art of painting pictures  
-**suke da helpa ale**
-– the joy of helping others
+**shutu da grafi pente**
+– the art of picture-painting (the art of painting pictures)  
+**alo di helpe di suka**
+– the joy of others-helping (the joy of helping others)
 
 #### Possession
 
@@ -493,23 +501,23 @@ The same particle is used with with personal pronouns too.
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **ceno** (past), **zayo** (present) and **poso** (future, upcoming).
+The general time words are **pas** (past), **zai** (present) and **pos** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**mi ceno ha mau.**
+**mi pas ha mau.**
 – I had cats.  
-**ama mi no zai tena mau.**
+**ama mi no zai ha mau.**
 – But I now don't have cats.  
-**ablo mi poso ha mau.**
+**bil, mi pos ha mau.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **an chen zaman** (in the past) etc.
+It's also possible to say it in a longer way like **an pas zaman** (in the past) etc.
 
-**mi ha mau an chen zaman.**
+**mi ha mau an pas zaman.**
 – I had cats in the past.  
 **ama mi no ha mau an zai zaman.**
 – But I don't have cats at present.  
-**ablo mi ha mau an vil zaman.**
+**bil, mi ha mau an pos zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
