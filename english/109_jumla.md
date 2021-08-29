@@ -78,17 +78,15 @@ These come after the predicate.
 – I walk.  
 **tu yam yo apel.**
 – You eat some apples.  
-**mimen dona ya pesa.**
-– We give her money.
+**mimen dona ya yo pesa.**
+– We give her some money.
 
-Normally, the order of the subject and objects is not important. It can change based on emphasis.
+Sometimes, the subjet of one sentence can become the object of another.
 
 **a fuku ye gan.**
 – The clothes dry.  
 **a sol ye gan a fuku.**
-– The sun dries the clothes.  
-**a fuku ye gan a sol.**
-– It is the clothes the sun dries.
+– The sun dries the clothes.
 
 To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
 **fa** indicates that the subject is the agent or doer of the action,
@@ -98,7 +96,7 @@ and **be** indicates that the subject is the patient, or receiver.
 – I greet my friend.  
 **mi be salam mi su doste.**
 – I am greeted by my friend.  
-**ma fa mi salam mi su doste.**
+**pa fa mi salam mi su doste.**
 – Father makes me greet my friend.
 
 
@@ -280,7 +278,7 @@ In Pandunia they use the word **ke**.
 The question word may be moved to the front of the sentence for emphasis.
 However, unlike in English, the word order may also be left alone.
 
-**ke she zai yam tu?**
+**ke she tu zai yam?**
 – What are you eating?  
 **tu zai yam ke she?**
 – You are eating what?  
@@ -420,8 +418,8 @@ Different scopes of negation may result depending on the location of the negativ
 
 ### Modifier particles
 
-Particles **di** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**di** connects the modifying word or phrase to the main noun word.
+Particles **su** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+**su** connects the modifying word or phrase to the main noun word.
 **da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### Modification with noun phrases
@@ -431,9 +429,9 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**roza rang di labi**
+**roza rang su labi**
 – rose-colored lips  
-**sama rang di oko**
+**sama rang su oko**
 – sky-colored eyes
 
 Or in the opposite order:
@@ -445,14 +443,14 @@ Or in the opposite order:
 
 The particles help in creating measure words too.
  
-**un sake di patate**
+**un sake su patate**
 – one sack of potatoes  
-**dul sake di patate**
+**dul sake su patate**
 – two sacks of potatoes  
-**mas sake di patate**
+**mas sake su patate**
 – more sacks of potatoes
 
-Note that **di** and **da** connect phrases together.
+Note that **su** and **da** connect phrases together.
 So a modifier phrase with and without **da** can mean a different thing.
 
 **mas sundar hua**
@@ -462,12 +460,12 @@ So a modifier phrase with and without **da** can mean a different thing.
 
 #### Modification with verb phrases
 
-Verbs are turned into modifiers by placing **da** or **di** immediately next to the verb.
+Verbs are turned into modifiers by placing **da** or **su** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
 **shutu da grafi pente**
 – the art of picture-painting (the art of painting pictures)  
-**alo di helpe di suka**
+**alo su helpe su suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
@@ -501,14 +499,14 @@ The same particle is used with with personal pronouns too.
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **pas** (past), **zai** (present) and **pos** (future, upcoming).
+The general time words are **pas** (past), **zai** (present) and **vil** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
 **mi pas ha mau.**
 – I had cats.  
 **ama mi no zai ha mau.**
 – But I now don't have cats.  
-**bil, mi pos ha mau.**
+**bil, mi vil ha mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **an pas zaman** (in the past) etc.
@@ -517,7 +515,7 @@ It's also possible to say it in a longer way like **an pas zaman** (in the past)
 – I had cats in the past.  
 **ama mi no ha mau an zai zaman.**
 – But I don't have cats at present.  
-**bil, mi ha mau an pos zaman.**
+**bil, mi ha mau an vil zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
