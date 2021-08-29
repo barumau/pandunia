@@ -1116,8 +1116,8 @@ fenkate||||analysis (dissection)|analyse|análisis (disección)|análise|ана�
 fenu||||split (fall apart)||partir (dividirse)||||||||||||||jakautua (hajota)|pęknąć (rozpaść się)
 fere|mate|Fe|spa:hierro, por:ferro, fra:fer, may:ferum|iron||hierro|||||||||||||fero|rauta|żelazo
 fermium|mate|Fm||fermium||fermio|||||||||||||fermio|fermium|ferm
-fa feste||||celebrate (party)||celebrar (festejar)|||||||||||||festi|juhlia|świętować, imprezować
-feste|||por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|party (celebration, festival)||celebración (fiesta)|||||||||||||festo|juhlat|przyjęcie, święto, festiwal
+fa festa||||celebrate (party)||celebrar (festejar)|||||||||||||festi|juhlia|świętować, imprezować
+festa|||por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival'), may:pesta|party (celebration, festival)||celebración (fiesta)|||||||||||||festo|juhlat|przyjęcie, święto, festiwal
 festoden||||holiday||día festivo (feriado)||||||||||||||juhlapäivä|święto
 fete|||eng:fat, deu:Fett, swa:mafuta, rwa:mavuta, kon:mafuta|fat (grease)||grasa|||||||||||||graso|rasva (öljy)|tłuszcz
 feti||||fatty (greasy)||graso (adiposo)|||||||||||||grasa|rasvainen|tłusty
@@ -1329,8 +1329,8 @@ geo tika||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale
 Germania||||Germania|Germanie|Germania|Germânia|||||||||||||Germania|
 germanium|mate|Ge||germanium||germanio|||||||||||||germaniumo|germanium|german
 Gernezi|desha|GG||Guernsey||Guernesey||||||||||||||Guernsey|Guernsey
-gete|||eng:get|get (receive, obtain, take)||conseguir (obtener, recibir)|ter (achar, receber)|получить||获得|受ける (もらう)|||पाना|||kupata (kuget)|elde etmek|akiri (ricevi, preni)|hankkia (saada)|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
-gete ja||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
+daku|||zho:得 (dé), yue:得 (dak1), wuu:得 (teq4), jpn:得 (toku), kor:득 (deuk), kor:được|get (receive, obtain, take)||conseguir (obtener, recibir)|ter (achar, receber)|получить||获得|受ける (もらう)|||पाना|||kupata (kuget)|elde etmek|akiri (ricevi, preni)|hankkia (saada)|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
+daku ja||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
 Geyomedi Hai||||Mediterranean||Mediterráneo||||||||||||||Välimeri|Morze Śródziemne
 geyoparlin||||equator||ecuador||||||||||||||päiväntasaaja|równik
 Geyoparlini Ginia|desha|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
@@ -1394,7 +1394,7 @@ gubu|bio|Hippopotamus amphibius|ful:ngabu kon:ngubu, sot:tsw:kubu, zul:rwa:imvub
 gui|||zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|ogre (troll, goblin)||ogro (gnomo, trol, duende, trasgo)|||||鬼||||||||ogro (trolo)|peikko|ogr (trol, goblin)
 guipapil|bio|Papaver orientale||oriental poppy|pavot d'Orient|||мак восточный||鬼罂粟 (東方罌粟)|オニゲシ||||||||||mak wschodni
 gujarati|nas|||Gujarati||gujaratí||||||||||||||gujarati (eräs intialainen kieli)|Gudżarat
-gukua|bio|Chrysanthemum morifolium|zho:菊 (jú), yue:菊 (guk1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:قحوان (quḥwān)|florist's chrysanthemum||crisantemo||хризантема садовая||菊花|キク||||||||||
+guku hua|bio|Chrysanthemum morifolium|zho:菊 (jú), yue:菊 (guk1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:قحوان (quḥwān)|florist's chrysanthemum||crisantemo||хризантема садовая||菊花|キク||||||||||
 gul|||ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|ghoul|goule|gul||гуль (вурдалак)|غُول‎|||||||||||ghouli|ghul
 gula|||ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|swallow||tragar||глотать|||||||||||gluti|niellä|połknąć (połykać)
 guma|||swa:ngoma + zho:鼓 (gǔ)|drum||tambor|||||||||||||tamburo|rumpu|bęben
@@ -2526,7 +2526,7 @@ mishe|||deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:mis
 mishe gi||||mixer (blender)||batidora (licuadora, mezcladora)|||||||||||||miksilo|sekoitin|mikser, blender, robot kuchenny
 mishe alkol||||cocktail||cóctel||коктейль|||カクテル (混合酒)||||||||||koktajl
 miskin|||ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho|poor (miserable)||pobre (miserable)|||||||||||||mizera|kurja (raukka)|biedny, mizerny
-misri basha|basha|||Egyptian arabic||idioma árabe egipcio|||||||||||||egipta|egyptiläinen|egipski
+misri di||||Egyptian||egipcio|||||||||||||egipta|egyptiläinen|egipski
 Misri|desha|EG|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|Egypt|Égypte|Egipto|Egipto (Egito)|Египет||埃及|エジプト|이집트|Ai Cập|मिस्र|মিশর|Mesir|Misri|Mısır|Egipto|Egypti|Egipt
 miti||||meet||encontrar|encontrar|||聚会|会う|||मिलना||||||tavata|spotkać
 miti|||eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|meeting (gathering)||reunión (junta, mitin)||||会议|会合 (会議, ミーティング)|회합 (회의)||बैठक (सभा, मीटिंग)||||||tapaaminen (kokous)|spotkanie, zebranie
@@ -2537,12 +2537,12 @@ fa model||||model (design)||modelo||||||||||||||mallintaa|modelować (projektowa
 mode loge||||adverb||adverbo||||||||||||||adverbi|przysłówek
 moku|||zho:墨 (mò), vie:mực, tha:หมึก (muk)|ink||tinta|||||||||||||inko|muste|tusz
 muku ban||||wood board (plank)|planche|tablón|tábua (prancha)|доска (планка)||木板|||ván||||||||deska
-muku janger||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
+muku jang ja||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
 muku jong parke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
 muku mate||||wood (timber)||madera||||木材|||||||||ligno|puuaines|drewno
-muku tan||||log (trunk)|bûche|leño (tronca)|tora|бревно||原木|丸木|||बोटा (कुन्दा)||balak|kinga (gogo)||||pień
+muku tana||||log (trunk)|bûche|leño (tronca)|tora|бревно||原木|丸木|||बोटा (कुन्दा)||balak|kinga (gogo)||||pień
 muku|||zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|tree|arbre|árbol|árvore|дерево|شجر‎|树木|木|나무|cây|पेड़|গাছ (বৃক্ষ)|pohon (pokok)|mti|ağaç|arbo|puu|drzewo
-mol|unomete|mol||mole (unit)|mole (unité)|mol|mol|||摩尔 (单位)|モル||||||||||mol
+mole|unomete|mol||mole (unit)|mole (unité)|mol|mol|||摩尔 (单位)|モル||||||||||mol
 fa mol||||grind (grind in mill)|moudre|moler (pulverizar)|moer|молоть||||||||||||jauhaa|zemleć (mleć, mielić)
 Moldova|desha|MD||Moldova||Moldova||||||||||||||Moldova|Mołdawia
 molekul|||eng:molecule, spa:por:molécula, fra:molécule|molecule||molécula||||分子|分子||||||||||molekuła (cząsteczka)
@@ -2554,7 +2554,7 @@ moliden|mate|Mo||molybdenum||molibdeno|||||||||||||molibdeno|molybdeeni|molibden
 mol sheki||||grindstone (millstone)|meule|muela|mó|жёрнов||磨石||||||||||myllynkivi|ostrzarka (kamień młyński)
 moluske|bio|Mollusca|eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|mollusk||molusco||моллюск||||||||moluska|||molusko|nilviäinen|mięczak (morski bezkręgowiec)
 Monako|desha|MC||Monaco||Mónaco||||||||||||||Monaco|Monako
-mongol basha|basha|||Mongolian language||idioma mongol|||||||||||||mongola|mongoli|Mongolski
+mongol di|basha|||Mongolian||mongol|||||||||||||mongola|mongoli|Mongolski
 Mongol|desha|MN||Mongolia||Mongolia|||||||||||||Mongolio|Mongolia|Mongolia
 monoster|||eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)|monster||monstro|||||||||||||monstro|hirviö|potwór, monstrum
 forma so||||morpheme||morfema||||||||||||||morfeemi|morfem
@@ -2591,7 +2591,7 @@ murche|bio|Formicidae|fas:مورچه (murče), rus:мурашка (murashka), el
 Muritania|desha|MR||Mauritania||mauritania||||||||||||||Mauritania|Mauretania
 mur kaguji||||wallpaper|papier peint|papel tapiz|papel de parede|обои||壁纸 (墙纸)|壁紙|벽지||दीवारी-कागज||||duvar kâğıdı|tapeto|tapetti|tapeta
 mushu|||rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)|mouse or rat|souris|ratón|rato|мышь|فَأْر‎|鼠|鼠|쥐|chuột|चूहा|ইঁদুর|tikus|kipanya|fare|muso aŭ rato|hiiri tai rotta|mysz
-use yo forte||||force (use force, coerce)||forzar (usar fuerte, imponer, coaccionar)|||||||||||||||
+paku|||zho:迫 (pò), yue:迫 (baak1), wuu:迫 (paq4), jpn:迫 (haku), vie:bách|force (use force, coerce)||forzar (usar fuerte, imponer, coaccionar)|||||||||||||||
 deve ta||||obligation (compulsion)||obligación (compulsión)|||||||||||||devo|pakko|przymus
 muskete|||eng:musket, spa:por:mosquete, fra:mousquet, rus:мушке́т (muškét), jpn:マスケット (masuketto)|musket||mosquete|||||||||||||muskedo|musketti|muszkiet
 muskete ja||||musketeer||mosquetero||||||||||||||musketööri|muszkieter
@@ -2656,7 +2656,7 @@ Nederlande|desha|NL||Netherlands||Países Bajos||||||||||||||Alankomaat (Hollant
 nefre|||eng:fra:nephro-, spa:por:nefro-, deu:Niere|kidney|rein|riñon|rim|почка||肾脏|腎臓|콩팥 (신장)|thận|गुर्दा|বৃক্ক|ginjal||böbrek|reno|munuainen|nerka
 nefre flame||||nephritis||nefritis||||||||||||||munuaistulehdus (nefriitti)|zapalenie nerek
 nefte|||ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|oil|huile (pétrole)|aceite (óleo)|aeite (óleo)|масло||油|油 (オイル)||||||||||olej
-nefte gukua|bio|Chrysanthemum indicum|zho:油菊, jpn:アブラギク|Indian chrysanthemum||||||野菊花|シマカンギク (アブラギク)||||||||||złocień indyjski
+nefte guku|bio|Chrysanthemum indicum|zho:油菊, jpn:アブラギク|Indian chrysanthemum||||||野菊花|シマカンギク (アブラギク)||||||||||złocień indyjski
 nega|||spa:por:negar, eng:negate|refuse (deny, decline)||rechazar (negar)||||||||||||||kieltää|odmówić (odrzucić)
 nen|||jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|year||año|||||年||||||||jaro|vuosi|rok
 nen feste||||anniversary||aniversario||||||||||||||vuosijuhla|rocznica
@@ -3613,7 +3613,7 @@ talium|mate|Tl||thallium||talio|||||||||||||talio|tallium|tal
 tam|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), yue:貪 (taam1), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|chciwy (żądny)
 tamar|bio||por:tamara, ara:(tamar)|date fruit||dátil|||||||||||mtende|||taateli|daktyl
 Tamil|nas|||Tamil||tamil||||||||||||||tamil (eräs intialainen kieli)|tamilski
-tan|||fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|stem (torso, trunk, stalk)|tige|tallo|haste (talo, caule)|стебель||茎 (梗)|茎 (胴)|||तना (डाली)||tangkai|shina||||łodyga (tors, pień, trzon)
+tana|||fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|stem (torso, trunk, stalk)|tige|tallo|haste (talo, caule)|стебель||茎 (梗)|茎 (胴)|||तना (डाली)||tangkai|shina||||łodyga (tors, pień, trzon)
 tanah||||Tanakh (Jewish Bible)||Tanaj (Biblia hebrea)||||||||||||||tanakh|Tanach, Biblia hebrajska
 tanke|||eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|tank (reservoir)||tanque (cisterna)||||||||||||||tankki (säiliö)|zbiornik (cysterna, pojemnik, rezerwuar)
 tantalum|mate|Ta||tantalum||tántalo|||||||||||||tantalo||tantal
