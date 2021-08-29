@@ -1,54 +1,80 @@
 # Modifiers
 
-## Adjectives
+A modifier is a word that adds a particular quality or description,
+such as good, bad, big, and fast, to another word.
+In Pandunia, there is only one class of modifiers.
+The same word can modify nouns and verbs,
+whereas in English only _adjectives_ can modify nouns
+and only _adverbs_ can modify verbs.
+For example, the word
+**sundar**
+('beautiful' or 'beautifully')
+modifies a noun in sentence A
+and a verb in sentence B.
 
-A modifier is a word that adds some quality or description to another word,
-for example good, bad, big, and fast.
-
-### Modifying a noun
-
-An adjective is a word that adds a particular quality for a noun.
-In Pandunia, adjectives are placed before the noun that they modify.
-
-**nove gar**
-– new car(s)  
-**rapide gar**
-– fast car(s)  
-**dai meza**
-– big table(s)  
-**gau meza**
-– high table(s)  
-**bon kursi**
-– good chair(s)
-
-Two or more adjectives can modify the same word.
-
-**lili nove gar**
-– a little, new car
-
-Adjective can be also after the noun.
-Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
-
-**gar nove.**
-– The car is new.  
-**bagre rapide.**
-– The tiger is fast.
-
-Naturally there can be modifiers on both sides of the noun as well.
-
-**nove gar rapide.**
-– The new car is fast.
+A. **ya si un _sundar_ kitabu.**
+– That is a beautiful writing.  
+B. **tu _sundar_ di kitabu.**
+– You write _beautifully_.
 
 
-## Adverbs
+### Modifying nouns
 
-There are two types of adverbs in Pandunia,
-adverbs of degree
-and adverbs of comparison.
+In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-### Adverbs of degree
+**un _nove_ kar**
+– a _new_ car  
+**un _rapide_ kar**
+– a _fast_ car  
+**ba _dai_ meza**
+– _big_ tables  
+**ba _gau_ meza**
+– high tables  
+**un bon jan**
+– a good person
 
-Adverbs of degree tell us about the intensity of something.
+Two or more modifiers can modify the same noun.
+
+**un lili nove kar**
+– a little new car
+
+
+### Modifying verbs
+
+A modifier that modifies a verb
+is placed immediately before the verb.
+
+**tu _rapide_ loga.**
+– You talk _fast_.  
+**yamen _bon_ kitabu.**
+– They write _well_.
+
+It is common to put the modifying particle
+**di**
+between the modifier and the verb.
+It makes the structure of the verb phrase clearer.
+
+**tu _sundar di_ kitabu.**
+– You write _beautifully_.  
+**yamen _kuai di_ marche.**
+– They walk _fast_.
+
+
+### Modifying other modifiers
+
+The particle
+**di**
+is used also when a modifier modifies another one.
+
+**un _surpris di_ bon buku**
+– a _surprisingly_ good book  
+**ba _forte di_ ai ja jan**
+– _strongly_ loving people
+
+
+#### Degree words
+
+Degree words tell us about the intensity of something.
 
 **tre**
 – very  
@@ -61,7 +87,7 @@ Adverbs of degree tell us about the intensity of something.
 **min**
 – less
 
-Adverbs of degree are placed before the adjective that they modify.
+Degree words are placed before the word that they modify.
 
 **un dai man**
 – a big man  
@@ -72,7 +98,7 @@ Adverbs of degree are placed before the adjective that they modify.
 **un bas dai man**
 – a big enough man / a sufficiently big man
 
-The adverb and adjective together form a compound adverb
+A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
 The compound adverb is placed immediately before the verb that it modifies.
 
@@ -118,17 +144,4 @@ relates the adverbs of comparison to the object of comparison.
 = Oranges are less good than apples.  
 **tu loga par bon ka mi.**
 = You speak as well as me.
-
-
-There is only one word, **sekur**, which can function like a verb and adjective like this:
-
-**mi sekur ya.**
-– I secure it.  
-**ya si sekur.**
-– It is secure.
-
-It can be also an adverb.
-
-**mi _sekur di_ sora un mun.**
-– I securely lock a door.
 
