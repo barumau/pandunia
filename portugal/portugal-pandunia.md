@@ -87,7 +87,7 @@ arte - shutu
 artista - arte ja  
 asma - asma  
 aspirina - aspirin  
-assinar - namkitaba  
+assinar - name kitabu  
 assustador - fobani  
 assustar - foba  
 astro (corpo celeste) - astro  
@@ -202,7 +202,7 @@ capa de chuva - shava kote
 caractere - zi  
 caratê - karate  
 cardo - kardon  
-cardo-mariano - milkokardon  
+cardo-mariano - milke kardon  
 cardo-roxo - pero kardon  
 careta (esgar) - grimas  
 carga (peso) - bari  
@@ -349,12 +349,13 @@ despertar - jagu
 destino - kisma  
 deus - deu  
 devanágari - deu nagar harfi  
-dever - debu  
+dever - deve  
 dia - den  
 diamante - almas  
 digital - feni  
 dinamite - dinamite  
 dinheiro - pesa  
+dinossauro - dino saur  
 diorito - diorite  
 direito - haki  
 direitos humanos - insani hake  
@@ -379,9 +380,9 @@ economia - malnomia
 educação - shula  
 efeito - asar  
 efetuar - fa asar  
-Egipto (Egito) - Misria  
-elemento - em  
-elemento químico - kimem  
+Egipto (Egito) - Misri  
+elemento - so  
+elemento químico - kim so  
 eletricidade - eletre  
 elfo - elfe  
 elo - sili tika  
@@ -392,7 +393,7 @@ emoçao - emos
 emprestar (pedir emprestado) - jeka  
 emprestar - jekodona  
 encarar (afrontar; vérsus) - verse  
-encontrar - mita  
+encontrar - miti  
 endereço - adres  
 enganar - fa truke  
 ensinar (lecionar) - giau  
@@ -479,11 +480,11 @@ feio - dusvidi
 feliz - suka  
 feno - gan cau  
 fermentar - be bio mute  
-fibra - linem  
+fibra - lin so  
 filho ou filha - ben  
 filosofia - filsofia  
 fiorde - fiorde  
-fisiculturismo - muskulbin  
+fisiculturismo - muskul bina  
 flecha (seta) - fleche  
 flor - hua  
 floresta de algas - alga jangal  
@@ -494,7 +495,7 @@ força aérea - air gun
 foto (fotografia) - foto grafe  
 fotografia - foto grafia  
 fraco (débil) - debili  
-fraco - mirdi  
+fraco - mirde  
 fragmento - parche  
 freixo - yasen  
 fruta - frute  
@@ -545,7 +546,7 @@ gás lacrimogéneo - oko sui gas
 gênero gramatical - bashi jinse  
 ####H - H  
 habilidade (capacidade) - bil ta  
-haste (talo, caule) - tan  
+haste (talo, caule) - tana  
 Hesse (Héssia) - Hesia  
 higiene - salu safa ta  
 hipopótamo - gubu  
@@ -556,7 +557,7 @@ honrar - fa onor
 hora - hor  
 hortelã - minta  
 hortelã-da-água - sui minta  
-hortelã-pimenta - pipre minte  
+hortelã-pimenta - pipre minta  
 hortelã-verde - zong minte  
 hotel - hotel  
 humanismo - insanistia  
@@ -627,6 +628,7 @@ kelp - varka alga
 lado - late  
 ladrilho (telha, azulejo) - tail  
 ladrão - luta ja  
+lagarto - saur  
 lago - lage  
 lama (lodo) - fan  
 lama - lama  
@@ -646,7 +648,7 @@ libélula - libele
 liga (aliança) - liga  
 lima - kagujolimon  
 limão - limon  
-lince - linche  
+lince - lince  
 linha (fio) - lin  
 lista - liste  
 literatura - kitabu shutu  
@@ -724,7 +726,7 @@ melão - melon
 melão coreano - aroma melon  
 memória - mem  
 meninge - meninge  
-menosprezar (subestimar) - minraya  
+menosprezar (subestimar) - fa min rai  
 mensagem - anjil  
 meranti - merante  
 mercado (bazar) - bazar  
@@ -737,16 +739,16 @@ metro - mitre
 microbiologia - mikro bio logi  
 microscópio - mikroskope  
 micróbio - mikro bio  
-migração - migre  
+migração - migra  
 mina - kuangia  
 mirar (apontar) - fa dika  
 mito - deu kata  
-modelar - forma  
+modelar - fa forma  
 modo (maneira, jeito) - mode  
 moeda - pesa diske  
-moenda (moinho) - molia  
-moer - mola  
-mol - mol  
+moenda (moinho) - mol kan  
+moer - fa mol  
+mol - mole  
 moldar (modelar) - fa plasti  
 moldura - frem  
 molestar (perturber) - fa turbe  
@@ -764,7 +766,7 @@ mover - kina
 Mover-se - kinu  
 moyen - medi  
 mudança climática - klimmute  
-mudar-se - migru  
+mudar-se - be migra  
 multilíngue (plurilíngue) - poli basha di  
 mundo - dunia  
 mundo das fadas (paraíso) - pari desha  
@@ -776,8 +778,8 @@ máximo - masim
 mãe - ma  
 mão - hande  
 mês - lun  
-mímico - mimer  
-mó - molsheke  
+mímico - mima ja  
+mó - mol sheki  
 música - muzika  
 ####N - N  
 nadar (flutuar) - boyu  
@@ -858,15 +860,15 @@ padeiro - baka ja
 padrasto - vice pa  
 pai - pa  
 painel - ban  
-palavra (vocábulo) - logem  
+palavra (vocábulo) - loga so  
 palavra-passe (senha) - pas loga  
 palácio (mansão, palacete) - dai dom  
 pan-europeu - pan europa di  
 panda - panda  
 pandemia - pan demo pati  
 pantomima (mímica) - pan mima  
-papel - kaguje  
-papel de parede - murkaguje  
+papel - kaguji  
+papel de parede - mur kaguji  
 papoila - medenpapil  
 papoila-dormideira - sona papil  
 par - par jan  
@@ -931,7 +933,7 @@ pomar - frute bagi
 ponta (pico, bico) - pike  
 ponta do dedo - angul pike  
 ponte - kiau  
-por exemplo - misalo  
+por exemplo - do misal  
 por muito tempo - long dura  
 porcelana - chini  
 porto - porte  
@@ -1010,11 +1012,11 @@ raça - rasa
 raíz - mula  
 rebater - boing  
 reciclar - re cikle  
-recém-nascido - neujeni  
+recém-nascido - nove jene di  
 regime - politi mode  
 registro - loge  
 rei - man raja  
-relier (connecter) - linka  
+relier (connecter) - fa linke  
 religião - din  
 relógio - horloger  
 remover - kitana  
@@ -1143,7 +1145,7 @@ tenso - tense
 tentar (provar) - fa teste  
 tentáculo - sense shaka  
 teosofia - deu sofi  
-ter (achar, receber) - geta  
+ter (achar, receber) - daku  
 terminar (acabar, concluir) - pul fina  
 Terra - Geo  
 terra natal - jene loka  
@@ -1158,7 +1160,7 @@ toalha - gan tela
 toalha de mesa - meza tela  
 tomate - tomate  
 topografia - topo grafi  
-tora - mokotan  
+tora - muku tana  
 toranja - putau oranje  
 torta - pai  
 toupeira - krote  
@@ -1182,7 +1184,7 @@ tu - tu
 tubarão - sharke  
 tubérculo - masmul  
 turbante - pagri  
-tábua (prancha) - mokoban  
+tábua (prancha) - muku ban  
 técnica - tehne  
 título - tema name  
 ####U - U  
@@ -1264,7 +1266,7 @@ zumbi - zombi
 álcool - alkol  
 área de acampamento - kampistan  
 área de transferência - katoglutoban  
-árvore - moku  
+árvore - muku  
 áspero - karsi  
 âncora - angar  
 étnico - zuku di  

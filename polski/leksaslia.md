@@ -128,7 +128,7 @@
 |**be’e**|koza|eng:baa, por:bé, rus:бэ-бэ (be-be), pol:bee|
 |**bil**|móc, umieć, możliwy, prawdopodobnie|tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability|
 |**bilor**|kryształ|ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|
-|**binde**|punkt|hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|
+|**bindu**|punkt|hin:बिंदु (bindu), ben:বিন্দু (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|
 |**bio**|organiczny|eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)|
 |**bir kan**|bar, knajpa|eng:bar, hin:बार (bār), spa:bar, zho:酒吧 (jiǔbā), rus:бар (bar)|
 |**bir**|piwo|eng:beer, tur:bira, fra:bière, ara: بيرة (bīra), may:bir, hin:बियर (biyar), swa:bia, zho:啤(酒) pí(jiǔ), jpn:ビール (bīru)|
@@ -218,6 +218,7 @@
 |**da**|z (partykuła posiadania)|fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|ocean|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**daka**|przykryć, przykrywać, ukryć, ukrywać|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
+|**daku**|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać|zho:得 (dé), yue:得 (dak1), wuu:得 (teq4), jpn:得 (toku), kor:득 (deuk), kor:được|
 |**dalil**|dowód; zeznanie|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
 |**dama gem**|warcaby|fra:jeu de dames, ara:(dāmā), may:dam, spa:por:damas, deu:Damespiel|
 |**dance**|taniec|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
@@ -231,7 +232,6 @@
 |**dau**|droga, szosa, ulica|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
 |**dayi**|duży|yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|
 |**debili**|słaby|eng:debilitated, spa:por:débil, hin:दुर्बल, ben:দুর্বল, mar:दुबळा|
-|**debu**|musieć|fra:devoir, spa:deber, por:dever|
 |**def**|obrona|ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'), + fra:eng:defense, spa:defensa, por:defesa, tur:defans|
 |**deke**|moralność, etyka|zho:德 (dé), yue:德 (dak1), jpn:德 (toku), kor:덕 (deok), vie:đức|
 |**demo**|lud, społeczeństwo|eng:spa:demo-, fra:démo-, rus:демо- (demo-)|
@@ -243,6 +243,7 @@
 |**desha**|kraj, ziemia|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
 |**detal**|detal, szczegół|eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|
 |**deu**|bóg, bóstwo|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|
+|**deve**|musieć|fra:devoir, spa:deber, por:dever|
 |**dika**|cel|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike) + eng:indicate, fra:indiquer, spa:por:indicar|
 |**din**|religia, wyznanie|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |**dinamite**|dynamit|eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|
@@ -285,7 +286,6 @@
 |**ekore**|wiewiórka|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|
 |**ekran**|ekran|fra:écran, por:ecrã, rus:экран (ekran), pol:tur:ekran, kat:ეკრანი (eḳrani)|
 |**eletre**|elektryczność|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
-|**em**|pierwiastek (jednostki podstawowej)|eng:-eme, spa:por:-ema, fra:-ème, rus:-ема (-ema), may:-em|
 |**emoje**|emoji (emotkon)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**emos**|emocja, uczucie|eng:emotion, fra:émotion, spa:emoción, por:emoção, rus:эмоция (emociya), may:emosi, tgl:emosyon|
 |**energe**|energia|eng:energy, spa:energía, por:energia, fra:énergie, rus:энергия (energiya), tur:enerji, fas:انرژی‎ (enerži), jpn:エネルギー (enerugī)|
@@ -334,7 +334,7 @@
 |**fem**|kobieta; kobiecy|fra:femme, por:fêmea, eng:female|
 |**fen**|część, ułamek|zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
 |**fere**|żelazo|spa:hierro, por:ferro, fra:fer, may:ferum|
-|**feste**|przyjęcie, święto, festiwal|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
+|**festa**|przyjęcie, święto, festiwal|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival'), may:pesta|
 |**fete**|tłuszcz|eng:fat, deu:Fett, swa:mafuta, rwa:mavuta, kon:mafuta|
 |**feyu**|latać, lecieć|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
 |**figur**|figura, reprezentacja|eng:fra:figure, spa:por:figura|
@@ -358,8 +358,8 @@
 |**fonte**|fontanna (studnia, źródło)|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|
 |**fora**|wiercić, borować|fra:forer, por:furar, eng:perforate, spa:perforar|
 |**forke**|widelec|eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|
-|**forme**|forma, kształt|eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)|
-|**forti**|silny|fra:fort, spa:fuerte, por:forte, eng:force|
+|**forma**|forma, kształt, morf|eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)|
+|**forte**|silny|fra:fort, spa:fuerte, por:forte, eng:force|
 |**forum**|forum|eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)|
 |**foto grafe**|zdjęcie (fotografia)|eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|
 |**foto**|światło, oświetlenie|ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-|
@@ -406,7 +406,6 @@
 |**gem**|gra|eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|
 |**gencha**|sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
 |**geo**|ziemia, grunt, gleba|eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|
-|**geta**|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać|eng:get|
 |**gi**|maszyna|zho:機 (jī), wuu:機 (ji1), yue:機 (gei1), jpn:機 (ki), kor:기 (gi), tha:กี่ (gìi) + jpn:器 (ki)|
 |**gida**|prowadzić (wskazać drogę)|eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu), swa:gaidi + ara:قَادَ‎ (qāda)|
 |**giga**|bilion, giga-|eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|
@@ -509,6 +508,7 @@
 |**imperi desha**|imperium|eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar|
 |**in**|wnętrze (środek)|eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|
 |**insan**|człowiek, istota ludzka|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|
+|**insulte**|obraza, obelga|eng:insult, fra:insulte, spa:por:insulto, rus:инсульт (insul’t)|
 |**ironia**|ironia|eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|
 |**islam**|poddanie się, uległość, pokora, posłuszeństwo|ara:(ʾislām), fas:(taslim), tur:teslim|
 |**iyon**|jon|eng:fra:spa:ion, rus:ион (ion), tur:iyon|
@@ -560,7 +560,7 @@
 |**kade**|dorsz|eng:cod, ara:قد (qad)|
 |**kafe**|kawa|deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|
 |**kafir**|niewierny (poganin, niewierzący)|ara:(kāfir), fas:(kāfer), tur:fra:kâfir, yor:kaferi, swa:kafiri, may:kafir, rus:кафир (kafir), hin:काफ़िर (kāfir)|
-|**kaguje**|papier|zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|
+|**kaguji**|papier|zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|
 |**kai**|otwarty, niezamknięty|zho:开 (kāi), wuu:開 (khe1), jpn:開 (kai), kor:개 (gae), vie:khai, tha:ไข (kǎi), lao:ໄຂ (khai)|
 |**kaka**|ekskrement, gówno|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
 |**kakau**|kakao|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), vie:cacao, swa:kakao|
@@ -735,11 +735,11 @@
 |**liga**|liga (stowarzyszenie)|fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|
 |**lila**|lilak|eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku), tur:leylak, ara:(laylak)|
 |**lili**|mały; mało, trochę, nieco|eng:little|
+|**limfa**|limfa|eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|
 |**limite**|limit, granica|eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|
 |**limon**|cytryna|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
 |**lin**|linia (nić, lina, pas, pręga, smuga, dratwa)|eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|
-|**linche**|ryś|eng:fra:lynx, spa:por:lince, hin:लिंक्स (links)|
-|**linfe**|limfa|eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|
+|**lince**|ryś|eng:fra:lynx, spa:por:lince, hin:लिंक्स (links)|
 |**linke**|połączenie, złącze, styk|eng:link, fra:lien, deu:Link, fas:لینک • (link), jpn:リンク (rinku) + zho:連結 (liánjié), yue:連結 (lin4 git3), hak:連結 (lièn-kiet), vie:liên kết|
 |**lisan**|język|ara: لِسَان‎ (lisān), hin:लिसान (lisān), swa:lisani, may:tur:lisan, amh:ልሳን (ləsan)|
 |**lisi**|gładki|fra:lisse, spa:por:liso, fas:(liz), may:licin|
@@ -817,6 +817,7 @@
 |**mem**|pamięć|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**member**|członek|eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|
 |**meme**|owca|hin:मेष (meṣ), fas:(miš), tha:เมษ (met), + lin:kon:meme, jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
+|**men**|makaron|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
 |**meninge**|opona mózgowa|eng:meninx, spa:por:meninge, fra:méninge|
 |**menter**|doradca (mentor)|san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|
 |**merante**|damarzyk (meranti)|may:eng:por:meranti|
@@ -827,38 +828,36 @@
 |**metregraf**|mapa|hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|
 |**meza**|stół|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**mi**|ja, mnie|eng:fra:spa:por:me,hindi:मैं (mẽ), swa:mimi|
-|**mien**|makaron|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
-|**migre**|migracja|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
+|**migra**|migracja|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
+|**mikro**|mikro-|eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-|
 |**milke**|mleko|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
-|**min (mino)**|mniej|spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|
-|**minar**|wieża|swa: mnara, tur: minare, + eng:minaret|
-|**mingi**|jasny, czysty|zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)|
-|**minim (minimo)**|najmniej, minimalnie|eng:fra:minimum, spa:por:mínimo, deu:Minimum, rus:ми́нимум (mínimum)|
-|**minimistia**|minimalizm|eng:minimalism, spa:por:minimalismo, fra:minimalisme, rus:минимали́зм (minimalízm)|
-|**minister**|minister|eng:minister, spa:por:ministro, fra:ministre, rus:мини́стр (minístr) + hin:मंत्री (mantrī), ben:মন্ত্রী (môntri), may:menteri|
-|**minori**|mniejszościowy|eng:minor, por:spa:menor, fra:mineur, rus:минорный (minornyy)|
-|**minoria**|mniejszość|spa:minoría, por:minoria, fra:minorité, eng:minority|
+|**min di fen**|mniejszość|spa:minoría, por:minoria, fra:minorité, eng:minority|
+|**min**|mniej|spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|
+|**minare**|wieża|ara:مَنَارَة‎ (manāra), fas:مناره‎ (menâre), swa:mnara, tur:minare, may:menara, hin:मीनार (mīnāra), ben:মিনার (mināra) + spa:alminar, por:minarete, eng:fra:minaret, rus:минарет, jpn:ミナレット (minaretto)|
+|**ming**|jasny, czysty|zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)|
+|**minim jui**|minimalizm|eng:minimalism, spa:por:minimalismo, fra:minimalisme, rus:минимали́зм (minimalízm)|
+|**minim**|najmniej, minimalnie|eng:fra:minimum, spa:por:mínimo, deu:Minimum, rus:ми́нимум (mínimum)|
+|**ministre ja**|minister|eng:minister, spa:por:ministro, fra:ministre, rus:мини́стр (minístr) + hin:मंत्री (mantrī), ben:মন্ত্রী (môntri), may:menteri|
+|**minor**|mniejszościowy|eng:minor, por:spa:menor, fra:mineur, rus:минорный (minornyy)|
 |**minta**|mięta|eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)|
 |**minute**|minuta|eng:minute, spa:por:minuto, rus:мину́та (minúta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit|
-|**mirdi**|nikły|eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)|
-|**mirer**|lustro|eng:mirror, fra:miroir, ara:mirʾāh, arz:mirāya|
+|**mira plate**|lustro|eng:mirror, fra:miroir, ara:mirʾāh, arz:mirāya|
+|**mirde**|nikły|eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)|
 |**misal**|przykład|hin:मिसाल (misāl), ara:(mithāl), fas:(mesâl), may:misal, swa:mathalani, tur:mesela|
 |**mise**|wysłać (wyemitować)|eng:emit, spa:remitir, por:emitir, fra:émettre|
 |**mishe**|miksować, mieszać|deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|
-|**miskini**|biedny, mizerny|ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho|
-|**Misria**|Egipt|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
-|**mite**|spotkanie, zebranie|eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|
+|**miskin**|biedny, mizerny|ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho|
+|**Misri**|Egipt|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
+|**miti**|spotkanie, zebranie|eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|
 |**mitre**|metr|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|
 |**mode**|sposób (metoda, tryb)|fra:eng:mode, spa:por:modo|
 |**model**|model, wzór, wzorzec, projekt|eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)|
-|**moge**|tusz|zho:墨 (mò), vie:mực, tha:หมึก (muk)|
-|**moku**|drzewo|zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|
+|**moku**|tusz|zho:墨 (mò), vie:mực, tha:หมึก (muk)|
+|**mol kan**|mielić|zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)|
 |**molekul**|molekuła (cząsteczka)|eng:molecule, spa:por:molécula, fra:molécule|
 |**moli**|jaśmin|kan:ಮಲ್ಲಿಗೆ  (mallige), tam:(mallikai), tel:మల్లె  (malle), may:melati, tha:มะลิ (má-lí), kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì), yue:茉莉 (mut6lei5)|
-|**molia**|mielić|zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)|
 |**moluske**|mięczak (morski bezkręgowiec)|eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|
 |**monoster**|potwór, monstrum|eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)|
-|**morfe**|morf|eng:morph, spa:morfo, rus:морф (morf)|
 |**mos**|mech|eng:moss, spa:por:musgo, fra:mousse, deu:Moos, rus:мох (mox), hin:मॉस (mosa)|
 |**mosim**|pora roku|ara: موسم (mawsim), hin:मौसम (mausam), may:musim, tur:mevsim, swa:msimu + eng:monsoon, fra:mousson, por:monção, rus:муссон (musson)|
 |**moskite**|komar, moskit|eng:spa:por:mosquito, fra:moustique, deu:Moskito, rus:моски́т (moskít), ben:মশা (môśa), kor:모기 (mogi)|
@@ -867,6 +866,7 @@
 |**moto**|silnik|eng:spa:por:tur:may:motor, fra;moteur, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr), swa:mota|
 |**mudan**|piwonia|zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:mẫu đơn|
 |**muka**|twarz|ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|
+|**muku**|drzewo|zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|
 |**mula**|korzeń|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
 |**multi**|wiele|por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|
 |**mum**|wosk|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
@@ -878,9 +878,10 @@
 |**mushu**|mysz|rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)|
 |**muskete**|muszkiet|eng:musket, spa:por:mosquete, fra:mousquet, rus:мушке́т (muškét), jpn:マスケット (masuketto)|
 |**muskul**|muskuł, mięsień|eng:fra:muscle, spa:por:músculo, deu:Muskel, rus:му́скул (múskul), swa:msuli|
-|**muta**|zmienić, zmieniać|spa:mudar, eng:mutate, fra:muter|
+|**mute**|zmienić, zmieniać|spa:mudar, por:mutação, eng:mutate, fra:muter, rus:мутировать (mutirovat’)|
 |**muzika**|muzyka|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
 |**nabi ja**|prorok|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
+|**naci jui ja**|nazista|rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
 |**nafas**|oddech|ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|
 |**nagar**|miasto|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
 |**nahun**|paznokieć|fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)|
@@ -892,13 +893,12 @@
 |**nasi**|naród, narodowość|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |**nautile**|nautilus|eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|
 |**nave**|łódź, statek|fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|
-|**naziste**|nazista|rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
 |**nefre**|nerka|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
+|**nefte guku**|złocień indyjski|zho:油菊, jpn:アブラギク|
 |**nefte**|olej|ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|
-|**neftoguke**|złocień indyjski|zho:油菊, jpn:アブラギク|
 |**nega**|odmówić (odrzucić)|spa:por:negar, eng:negate|
+|**nen mes yom**|data|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |**nen**|rok|jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|
-|**nenmesyom**|data|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |**nenufar**|lilia wodna, nenufar|eng:nenuphar, spa:por:nenúfar, fra:nénufar, rus:ненюфа́р (nenjufár), fas:نیلوفر آبی‎ (nilufar-e âbi)|
 |**nerve**|nerw|eng:spa:por:fra:deu:neuro-, rus:невро- (nevro-)|
 |**nesia**|wyspa|ell:νήσος (nēsos), eng:spa:may:-nesia, por:-nésia, fra:-nésie, rus:-незия (-nezija), tur:-nezya, zho:-尼西亚 (níxīyà), jpn:ネシア (neshia) + may:nusa, mlg:nosy|
@@ -1118,6 +1118,7 @@
 |**sar**|głowa|fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|
 |**sata**|moment|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|
 |**sauna**|sauna|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
+|**saur**|jaszczurka|ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)|
 |**saya**|cień|fas:(sāye), urd:(sāyā), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
 |**se kon**|się (nawzajem, wzajemnie)|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
 |**sekretar ja**|sekretarz|eng:secretary, spa:secretario, por:secretário, fra:secrétaire, deu:Sekretär, rus:секретарь (sekretar’), tur:sekreter, fas:سکرتر‎ (sekreter)|
@@ -1194,6 +1195,7 @@
 |**sismo**|trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)|ell:σεισμός (seismós), eng:seism, spa:sismo, fra:séisme, tur:sismik|
 |**sistem**|system|eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|
 |**siu**|szyć|hin:सीना (sīnā), ben:স্যূত (syūta), mar:शिवणे (śivṇe), guj:સીવવું (sīvvũ), rus:шить (šit'), eng:sew|
+|**so**|pierwiastek (jednostki podstawowej)|zho:素 (sù), yue:素 (sou3), wuu:素 (su2), jpn:素 (so), kor:소 (so), vie:tố|
 |**soci**|społeczeństwo, system społeczny|rus:социум (socium), eng:society, spa:sociedad|
 |**sofa**|sofa (kanapa)|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
 |**sofita**|mądrość|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
@@ -1237,7 +1239,7 @@
 |**tal di**|niski|fas:ته (tah), hin:तह (tah) + zho:低 (dī), yue:低 (dai1), wuu:低 (ti1), jpn:低 (tei) + cze:dole|
 |**tam**|chciwy (żądny)|ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), yue:貪 (taam1), kor:탐욕 (tamyok), vie:tham|
 |**tamar**|daktyl|por:tamara, ara:(tamar)|
-|**tan**|łodyga (tors, pień, trzon)|fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|
+|**tana**|łodyga (tors, pień, trzon)|fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|
 |**tanke**|zbiornik (cysterna, pojemnik, rezerwuar)|eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|
 |**tanur**|piec (piekarnik)|fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|
 |**tapa**|korek, zatyczka, szpunt|spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa), eng:tap|
@@ -1291,7 +1293,6 @@
 |**tualete**|taleta, WC|fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)|
 |**tubo**|tuba, rura|spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu, xho:íthumbu|
 |**tuh**|pluć|hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek|
-|**tuka**|obraza, obelga|swa:tukano, zul:-thuka, rwa:gutuka|
 |**tul**|narzędzie|eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi|
 |**tulpan**|tulipan|eng:tulip, spa:tulipá, por:túlipa, nld:tulp, rus:тюльпан (t’ul’pan), ara:توليب (tūlīb), hin:ट्यूलिप (ṭyūlip), may:tulip, jpn:チューリップ (chūrippu)|
 |**tundra**|tundra|eng:spa:por:tur:tundra, rus:тундра (tundra), ara:تندرا‎ (tundrā), hin:टुंड्रा (ṭuṇḍrā), jpn:ツンドラ (tsundora)|

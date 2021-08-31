@@ -238,6 +238,7 @@ baze bol - baseball
 baze shula kan - école primaire  
 be ais - geler (glacer)  
 be bio mute - fermenter  
+be migra - s'installer (déménager)  
 be pute - pourrir (se décomposer)  
 be retro - retourner (revenir)  
 be suka - se plaire  
@@ -349,7 +350,6 @@ dava she kan - pharmacie
 dava she logi - pharmacologie  
 dava sui - pocion  
 debili - faible  
-debu - devoir  
 defban - bouclire  
 defkaske - armure  
 den - jour  
@@ -357,15 +357,18 @@ deu - dieu
 deu kata - mythe  
 deu nagar harfi - dévanagari  
 deu sofi - théosophie  
+deve - devoir  
 dika - objectif (cible)  
 din - religion  
 din ja - croyant  
 din shia - secte  
 dinamite - dynamite  
 dinde - dinde (dindon)  
+dino saur - dinosaure  
 diorite - diorite  
 diske - disque  
 do long - loin  
+do misal - par exemple  
 dobe - brique  
 dokum - document (dossier)  
 dokumfilme - documentaire  
@@ -402,7 +405,6 @@ ekojeni - sauvage
 ekore - écureuil  
 eletre - électricité  
 elfe - elfe  
-em - élément (unité fondamentale)  
 emoje - émoticône (emoji)  
 emos - émotion  
 emoshal - humeur  
@@ -442,9 +444,12 @@ fa asar - effectuer
 fa bina - construire  
 fa dante - mordre  
 fa dika - viser  
+fa forma - former  
 fa jene - donner naissance (procréer, engendrer, accoucher)  
 fa karma - activer (allumer, mettre en marche, déclencher)  
 fa loka - mettre (placer)  
+fa min rai - sous-estimer  
+fa mol - moudre  
 fa nomi - organiser  
 fa onor - honorer  
 fa pati mise - infecter  
@@ -503,7 +508,6 @@ fobu - craindre (avoir peur)
 fong - abeille ou guêpe  
 fong nide - ruche (nid d'abeille)  
 fora - forer (percer)  
-forma - former  
 foto - lumière  
 foto frika - poli  
 foto grafe - photographie  
@@ -721,7 +725,7 @@ kade - morue
 kafe - café  
 kafe kan - café  
 kafe pote - cafetière  
-kaguje - papier  
+kaguji - papier  
 kagujolimon - lime (citron vert)  
 kala - noir  
 kalam - plume  
@@ -786,7 +790,7 @@ kerne - coeur
 kesha na di - glabre  
 kiau - pont  
 kim - substance  
-kimem - élément chimique  
+kim so - élément chimique  
 kimlojia - chimie  
 kimono - kimono  
 kina - mouvoir (bouger)  
@@ -890,8 +894,8 @@ lilkaboge - courgette
 lilsheke - caillou  
 limon - citron  
 lin - ligne (fil)  
-linche - lynx  
-linem - fibre  
+lin so - fibre  
+lince - lynx  
 linke - lien  
 lisan - langue  
 liste - liste  
@@ -901,9 +905,9 @@ loga - parole (mots)
 loga asal - étymologie  
 loga di - lexical  
 loga jami - vocabulaire (lexique)  
+loga so - mot  
 loge - enregistrement  
 loge buku - livre de bord  
-logem - mot  
 logivi - loquace  
 loka - lieu  
 loka di - local  
@@ -985,51 +989,47 @@ metregrafia - cartographie
 meza - table  
 meza tela - nappe  
 mi - je (me)  
-migre - migration  
-migru - s'installer (déménager)  
+migra - migration  
 mikro bio - microbe  
 mikro bio logi - microbiologie  
 mikroskope - microscope  
 milke - lait  
-milkokardon - chardon Marie  
+milke kardon - chardon Marie  
 mima - imiter  
+mima ja - imitateur (mime)  
 mimen - nous  
 mimen su - notre  
-mimer - imitateur (mime)  
-minraya - sous-estimer  
 minta - menthe  
-mirdi - faible  
-misalo - par exemple  
-Misria - Égypte  
+mirde - faible  
+Misri - Égypte  
 mitre - mètre  
 mode - mode (façon, manière)  
-mokoban - planche  
-mokojongoparke - arboretum, pépinière  
-mokotan - bûche  
-moku - arbre  
-mol - mole (unité)  
-mola - moudre  
+mol kan - moulin  
+mol sheki - meule  
+mole - mole (unité)  
 moli - jasmin  
-molia - moulin  
-molsheke - meule  
 mos - mousse  
-mosi - moussu  
+mos di - moussu  
 mosim - saison  
 moto - moteur  
 muka - visage  
+muku - arbre  
+muku ban - planche  
+muku jong parke - arboretum, pépinière  
+muku tana - bûche  
 mula - racine  
 mur - mur  
+mur kaguji - papier peint  
 murche - fourmi  
-murkaguje - papier peint  
 mushu - souris  
-muskulbin - culturisme (musculation)  
+muskul bina - culturisme (musculation)  
 muzika - musique  
 ####N - N  
 nadir - rare  
 nadir mar - rarement  
 najis - pollution  
 nama - viande  
-namkitaba - signer  
+name kitabu - signer  
 nardi - backgammon  
 nasi - nation  
 nasi medi - international  
@@ -1042,8 +1042,7 @@ nefte - huile (pétrole)
 Neputun - Neptune  
 nerve celu - neurone  
 nerve toksi - neurotoxine  
-netogeta - télécharger  
-neujeni - nouveau-né  
+nete gete - télécharger  
 nia - intention  
 niche - dessous  
 nide - nid  
@@ -1064,6 +1063,7 @@ norde - nord
 nostalgia - nostalgie  
 note she - note  
 nove - nouveau  
+nove jene di - nouveau-né  
 nove ka - néophyte  
 nove loga - néologisme  
 nove ta - nouveauté  
@@ -1163,7 +1163,7 @@ pin kardon - chardon aux ânes
 pin sense di - piquant  
 pince ban - porte-bloc (planchette à pince)  
 pipre - poivre  
-pipre minte - menthe poivrée  
+pipre minta - menthe poivrée  
 piram - pyramide  
 pirate - piraterie  
 piza - pizza  
@@ -1276,6 +1276,7 @@ sar kesha na di - chauve
 sar na di - acéphale (sans tête)  
 sata di - momentané  
 Saturne - Saturne  
+saur - lézard  
 se - se  
 se kon - l'un l'autre  
 se su - son (sa)  
@@ -1343,6 +1344,7 @@ silko - soie
 sing - étoile  
 sir plan - complot (conspiration)  
 sir ta - célérité  
+so - élément (unité fondamentale)  
 soci - société  
 sofa - canapé (sofa)  
 sofita - sagesse  
@@ -1388,7 +1390,7 @@ taksi metre gi - taximètre
 tal - bas  
 tal di - bas  
 tal moku - buisson  
-tan - tige  
+tana - tige  
 tarjum she - traduction  
 taza - frais  
 tehne - technique  

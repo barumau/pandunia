@@ -42,6 +42,7 @@ alo rai - malkonsenti
 alo sekse di - samseksema  
 alumin - aluminio  
 ama - sed  
+ama min da - escepte  
 Amerika - Ameriko  
 Amerika di - amerika  
 amerikium - americio  
@@ -206,7 +207,7 @@ bil - ebla (povi)
 bil ja - kapabla  
 bina plan - arĥitekturo  
 bina plan ja - arĥitekto  
-binde - punkto  
+bindu - punkto  
 bio - orgaaninen (biologinen)  
 bio logi - biologio  
 bio vute - organismo  
@@ -333,6 +334,7 @@ dai pau ja - kanonisto
 dai sheke - ŝtonego  
 daka - kovri  
 dake - kovrilo  
+daku - akiri (ricevi, preni)  
 dance - danco  
 Danske - dana  
 Danske desha - Danio  
@@ -351,7 +353,6 @@ dava ja - kuracisto
 dayanjiler - ambasadoro  
 dayanjilkan - ambasado  
 dayi - granda  
-debu - devi  
 deci - dekono  
 def - defendo  
 defa - defendi  
@@ -374,6 +375,8 @@ deu di - dia
 deu kata - mito  
 deu krati - teokratio  
 deu logi - teologio  
+deve - devi  
+deve ta - devo  
 di - -a (adjektiva partiklo)  
 dika - celo  
 din - religio  
@@ -383,9 +386,11 @@ din ja - kredulo
 din shia - sekto  
 dinde - meleagro  
 ding - najlo  
+dino saur - dinosaŭro  
 diske - disko  
 disprosium - disprozio  
 do - al (ĝis, por)  
+do misal - ekzemple  
 dokum - dokumento  
 dokumfilme - dokumentfilmo  
 dolar - dolaro  
@@ -441,7 +446,6 @@ Ekuador - Ekvadoro
 eletre - elektro  
 eletri - elektra  
 eletron - elektrono  
-em - elemento (ero)  
 emos - emocio  
 emoshal - animstato  
 emosi - emocia  
@@ -493,6 +497,8 @@ fa chutu - eliri
 fa cirke - ĉirkaŭi  
 fa dante - mordi  
 fa dika - celi  
+fa festa - festi  
+fa forma - formigi  
 fa gami - edzigi  
 fa ja - aganto  
 fa jama - kolekti (kunigi)  
@@ -564,8 +570,7 @@ fenkata - analizi
 fenkate - analizo  
 fere - fero  
 fermium - fermio  
-festa - festi  
-feste - festo  
+festa - festo  
 fete - graso  
 feti - grasa  
 feyu - flugi  
@@ -604,10 +609,9 @@ folia - frenezeco
 fong - abelo aŭ vespo  
 fora - taladri  
 forke - forko  
-forma - formigi  
-forme - formo  
-forti - forta  
-fortia - forto  
+forma - formo  
+forte - forta  
+forte ta - forto  
 forum - forumo  
 foti - luma  
 foto - lumo  
@@ -680,7 +684,6 @@ geo grafi - geografio
 geo metri - geometrio  
 geo sismo - tertremo  
 germanium - germaniumo  
-geta - akiri (ricevi, preni)  
 gi - maŝino  
 giau - instrui (lernigi, ismo)  
 gida - gvidi  
@@ -833,6 +836,7 @@ insani hake - homaj rajtoj
 insania - homaro  
 insaniki - humana  
 insanistia - homismo  
+insulte - insulto  
 iode - jodo  
 Iraki - Irakio  
 Iran - Iranio  
@@ -898,7 +902,7 @@ kafe - kafo
 kafe kan - kafejo  
 kafe kupa - kaftaso  
 kafe pote - kafeujo  
-kaguje - papero  
+kaguji - papero  
 kai - malferma  
 kaka - feko  
 kakau - kakao  
@@ -974,7 +978,7 @@ kesha na di - senhara
 kesha sabun - ŝampuo  
 kiau - ponto  
 kilomitre - kilometro  
-kimem - kemia elemento  
+kim so - kemia elemento  
 kimlojia - ĥemio (kemio)  
 kimono - kimono  
 kina - movi  
@@ -1093,8 +1097,8 @@ lilsite - urbeto
 limon - citrono  
 limonrangi - flava  
 lin - lineo (ŝnuro)  
-linche - linko  
-linem - fibro  
+lin so - fibro  
+lince - linko  
 lisan - lango  
 lisi - glata  
 liste - listo  
@@ -1106,8 +1110,8 @@ loga - parolo
 loga asal - etimologio  
 loga di - vorta  
 loga jami - vortaro  
+loga so - vorto  
 loge - registraĵo  
-logem - vorto  
 logi - scienco  
 logika - logiko  
 logika di - logika  
@@ -1155,7 +1159,7 @@ margarin - margarino
 mas - pli  
 mas - ankaŭ  
 mas fili - preferi (pliŝati)  
-mas ka bas - tro  
+mas ze basa - tro  
 masa - maso  
 masale - spico  
 masim - plej  
@@ -1186,6 +1190,7 @@ mema - memori
 member - membro  
 meme - ŝafo  
 men - oni  
+men - nudelo  
 Merkur - Merkuro  
 mesi - kristo  
 mesi jen - kristnasko  
@@ -1196,8 +1201,7 @@ meza - tablo
 meza tela - tablotuko  
 mi - mi  
 mi su - mia  
-mien - nudelo  
-migre - migrado  
+migra - migrado  
 mikro - mikro-  
 mikro bio - mikrobo  
 mikro bio logi - mikrobiologio  
@@ -1207,55 +1211,52 @@ mili metre - milimetro
 milke - lakto  
 mimen - ni  
 mimen su - nia  
-min (mino) - malpli  
-min ka bas - maltro  
-mina - escepte  
-minar - turo  
-minim (minimo) - malplej  
-minister - ministro  
+min - malpli  
+min ze basa - maltro  
+minare - turo  
+minim - malplej  
+ministre ja - ministro  
 minute - minuto  
 mira - speguli  
-mirer - spegulo  
-mirsonde - eĥo  
+mira plate - spegulo  
+mira sonde - eĥo  
 misal - ekzemplo  
-misalo - ekzemple  
 mishe - miksi  
-misher - miksilo  
-miskini - mizera  
-misri - egipta  
-Misria - Egipto  
+mishe gi - miksilo  
+miskin - mizera  
+Misri - Egipto  
+misri di - egipta  
 mitre - metro  
-moge - inko  
-mokojongoparke - arboĝardeno  
-mokomate - ligno  
-moku - arbo  
+moku - inko  
 moli - jasmeno  
 moli hua chai - jasmenteo  
-molidenium - molibdeno  
+moliden - molibdeno  
 moluske - molusko  
-mongoli - mongola  
-Mongolia - Mongolio  
+Mongol - Mongolio  
+mongol di - mongola  
 monoster - monstro  
 mosim - sezono  
 moskovium - moskovio  
 moto - motoro  
 move - movo  
 muka - vizaĝo  
+muku - arbo  
+muku jong parke - arboĝardeno  
+muku mate - ligno  
 mula - radiko  
-mumfote - kandelo  
-mumjan - mumio  
+mum foto - kandelo  
+mum jan - mumio  
 mumu - bovo  
 mumu nama - bovaĵo  
 mun - pordo  
 mur - vando  
+mur kaguji - tapeto  
 murche - formiko  
-murkaguje - tapeto  
-mus - devo  
 mushu - muso aŭ rato  
 muskete - muskedo  
 muskul - muskolo  
-muskulbin - korpokulturado  
-muta - aliigi  
+muskul bina - korpokulturado  
+mute - aliigi  
 muzika - muziko  
 muzika ja - muzikisto  
 Myanma - Birmo  
@@ -1283,16 +1284,15 @@ nave lefte - babordo
 nave raite - tribordo  
 nefre - reno  
 nen - jaro  
-nenmesyom - dato  
+nen mes yom - dato  
 neon - neono  
 Nepal - Nepalo  
 Neputun - Neptuno  
+neputunium - neptunio  
 nerve - nervo  
 nerve celu - neŭrono  
 nerve di - nerva  
 nete - reto  
-netunium - neptunio  
-neujeni - novnaskita  
 nia - celo  
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
@@ -1323,6 +1323,7 @@ note buku - kajero
 note she - noto (rimarko, komento)  
 nove - novaĵo  
 nove - nova  
+nove jene di - novnaskita  
 nove ka - novulo  
 nove loga - neologismo  
 nove ta - noveco  
@@ -1566,6 +1567,7 @@ sar na di - senkapa
 sata - momento  
 sata di - momenta  
 sauna - saŭno  
+saur - lacerto  
 saya - ombro  
 se - si  
 se kon - unu la alian (reciproke)  
@@ -1643,6 +1645,7 @@ singa - leono
 Singapur - Singapuro  
 sismologi - sismologio  
 sistem - sistemo  
+so - elemento (ero)  
 soci - socio  
 sofa - sofo  
 sofi - saĝa  
@@ -1752,7 +1755,6 @@ tu - vi (ci)
 tu su - via (cia)  
 tubo - tubo  
 tuh - sputi  
-tuka - insulto  
 tul - ilo  
 tulium - tulio  
 tumen - vi ĉiu  
@@ -1769,9 +1771,9 @@ u - tio
 uma - ĉevalo  
 uma bichi - vipeto  
 un - unu (1)  
-un deu jui - monismo  
 un mar - unufoje  
 un oko di lense - monoklo  
+un she jui - monismo  
 unike - sola (nur)  
 unta liga - uniono  
 uranium - uranio  

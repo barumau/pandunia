@@ -105,8 +105,8 @@ approprié (adapté, convenable, opportun) - hapi
 arabe - arabi  
 arachnophobie - arane fobi  
 araignée - arane  
-arboretum, pépinière - mokojongoparke  
-arbre - moku  
+arboretum, pépinière - muku jong parke  
+arbre - muku  
 arc - arka  
 arc-en-ciel - rang arka  
 Arche d'Alliance - liga di sanduku  
@@ -267,7 +267,7 @@ bâton (canne, tige) - baton
 bébé - bebe  
 bédouin - badavi  
 bêche (pelle) - parke bele  
-bûche - mokotan  
+bûche - muku tana  
 ####C - C  
 cacher - fa sir  
 cachet de la poste - posta marke  
@@ -328,7 +328,7 @@ changer - ala
 chapitre - babu  
 chardon - kardon  
 chardon aux ânes - pin kardon  
-chardon Marie - milkokardon  
+chardon Marie - milke kardon  
 chardon penché - pende kardon  
 charge (fardeau, poids) - bari  
 charme - charme  
@@ -442,7 +442,7 @@ crêperie - krepokan
 cube - kube  
 cuiller - chamache  
 cultiver - nong  
-culturisme (musculation) - muskulbin  
+culturisme (musculation) - muskul bina  
 cycliste - cikle ja  
 cytologie - celu logi  
 célérité - sir ta  
@@ -461,13 +461,14 @@ demander (poser un question; est-ce que) - fa sual
 dessous - niche  
 destin - kisma  
 deux (2) - du  
-devoir - debu  
+devoir - deve  
 diamant - almas  
 dieu - deu  
 différence - alo sifa  
 différent - alo sifa di  
 dimanche - var sete  
 dinde (dindon) - dinde  
+dinosaure - dino saur  
 diorite - diorite  
 dioxyde de carbone - karbodulokside  
 directeur (principal) - shula shefe  
@@ -562,7 +563,7 @@ face (facette) - face
 facile - fasili  
 faction (clique) - shia  
 faible - debili  
-faible - mirdi  
+faible - mirde  
 faim - yam yau  
 faire - fa  
 faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen shin  
@@ -578,7 +579,7 @@ fermenter - be bio mute
 feu - hoge  
 feu d’artifice - hogotehne  
 fiable (de confiance, fidèle, sûr, crédible) - amen shin di  
-fibre - linem  
+fibre - lin so  
 fil de fer - metallin  
 fil de trame - vei lin  
 fils ou fille - ben  
@@ -593,7 +594,7 @@ fondu - yong safa
 football - fute bol  
 force navale (marine) - haigun  
 forer (percer) - fora  
-former - forma  
+former - fa forma  
 forêt (jungle) - jangal  
 forêt de kelp - alga jangal  
 fosse - kave  
@@ -698,7 +699,7 @@ hétéroromantique (hétéromantique) - alo romanse
 hétérosexuel - alo sekse di  
 hôtel - hotel  
 ####I - I  
-imitateur (mime) - mimer  
+imitateur (mime) - mima ja  
 imiter - mima  
 immigrant - inmigran  
 immigrer - inmigra  
@@ -819,10 +820,11 @@ luthéranisme - Luter din
 luthérien - Luter din ja  
 lutte - jihade  
 luxure (libido) - kama  
-lynx - linche  
+lynx - lince  
 lys - susan  
 léger - legi  
 légume - yam fito  
+lézard - saur  
 ####M - M  
 machine à écrire - kitabu gi  
 magma - pasta petra  
@@ -860,7 +862,7 @@ medio - medi
 melt - yong  
 menthe - minta  
 Menthe aquatique - sui minta  
-menthe poivrée - pipre minte  
+menthe poivrée - pipre minta  
 menthe verte - zong minte  
 mer - hai  
 merci - shukra  
@@ -871,17 +873,17 @@ merveille - ajibu
 message - anjil  
 messager - anjil ja  
 mettre (placer) - fa loka  
-meule - molsheke  
+meule - mol sheki  
 microbe - mikro bio  
 microbiologie - mikro bio logi  
 microscope - mikroskope  
 miel - medu  
-migration - migre  
+migration - migra  
 mine - kuangia  
 mode (façon, manière) - mode  
 modeler - fa plasti  
 mois - lun  
-mole (unité) - mol  
+mole (unité) - mole  
 momentané - sata di  
 monde - dunia  
 monnaie (pièce) - pesa diske  
@@ -891,17 +893,17 @@ mordre - fa dante
 morue - kade  
 morue de l'Atlantique - atlanti kade  
 morue du Pacifique - pace hai kade  
-mot - logem  
+mot - loga so  
 mot de passe - pas loga  
 moteur - moto  
 mouche - domzeze  
-moudre - mola  
+moudre - fa mol  
 mouiller - fa shipu  
 mouillé - shipu  
-moulin - molia  
+moulin - mol kan  
 mousse - mos  
 mousson - shava mosim  
-moussu - mosi  
+moussu - mos di  
 mouvoir (bouger) - kina  
 mule - iha uma  
 mur - mur  
@@ -944,7 +946,7 @@ note - note she
 notre - mimen su  
 nous - mimen  
 nouveau - nove  
-nouveau-né - neujeni  
+nouveau-né - nove jene di  
 nouveauté - nove ta  
 nouvelle (récit court) - korte kata  
 Noé - Noe  
@@ -1023,11 +1025,11 @@ pantalon - pante
 pantomime - pan mima  
 pantoufle (babouche) - babuche  
 papaye - papaya  
-papier - kaguje  
-papier peint - murkaguje  
+papier - kaguji  
+papier peint - mur kaguji  
 papillon - pelpel  
 paquet - pake  
-par exemple - misalo  
+par exemple - do misal  
 paramètre - param  
 parapluie - shava chati  
 parc - parke  
@@ -1087,7 +1089,7 @@ plaine - plate topo
 plainte (lamentation) - shikaya  
 plaire - fa suka  
 plan - plan  
-planche - mokoban  
+planche - muku ban  
 plante (végétal) - fito  
 planter - fa poze  
 plaque tectonique - geo kaske plate  
@@ -1231,7 +1233,7 @@ répétition - re
 rêche (rugueux, gros) - karsi  
 rôtir - roste  
 ####S - S  
-s'installer (déménager) - migru  
+s'installer (déménager) - be migra  
 s'opposer à - shatan  
 sac - sake  
 sacrifice - kurban  
@@ -1289,7 +1291,7 @@ sexologie - sekse logi
 Shiva - Shiva  
 shopping - shopi  
 si - ga  
-signer - namkitaba  
+signer - name kitabu  
 silex - hogosheke  
 simulation - sam sifa she  
 situation (état de choses) - she hal  
@@ -1307,7 +1309,7 @@ son - soni
 soumettre - karmisa  
 soumission - islam  
 souris - mushu  
-sous-estimer - minraya  
+sous-estimer - fa min rai  
 sport - esporte  
 squelette - oste jama  
 substance - kim  
@@ -1353,7 +1355,7 @@ terrorisme - teror jui
 thé - chai  
 théière - chai pote  
 théosophie - deu sofi  
-tige - tan  
+tige - tana  
 tigre - bagre  
 tire à l'arc - arka shutu  
 tirer - tire yo milke  
@@ -1390,7 +1392,7 @@ tubercule - masmul
 Tunisie - Tunis  
 turban - pagri  
 télescope (lunette) - teleskope  
-télécharger - netogeta  
+télécharger - nete gete  
 téléphone - tele fon gi  
 téléphoner - fa tele fon  
 téléviseur - tele vide gi  
@@ -1483,7 +1485,7 @@ zoroastrien - Zardush din ja
 zoroastrisme - Zardush din  
 zoulou - Zulu  
 zèbre - zebra  
-Égypte - Misria  
+Égypte - Misri  
 Épicéa - picea  
 âge - sen  
 éblouir (étonner, stupéfier, surprendre) - fa ajibu  
@@ -1503,8 +1505,8 @@ zèbre - zebra
 élevage - zou agro shutu  
 élever - jene yo zou  
 éloge - euloge  
-élément (unité fondamentale) - em  
-élément chimique - kimem  
+élément (unité fondamentale) - so  
+élément chimique - kim so  
 émeraude - zumarda  
 émir - amir ja  
 émirat - amir desha  

@@ -59,6 +59,7 @@ alo sifa - różnica
 alo sifa di - różny (inny)  
 alumin - glin (aluminium)  
 ama - ale, lecz  
+ama min da - oprócz, minus  
 Amara - Amhara, amharski  
 amen bil - lojalny (wierny)  
 amen bilta - lojalność (wierność)  
@@ -290,6 +291,9 @@ be jene - urodzić się, rodzić się
 be kai - otworzyć się, otwierać się  
 be loka - być umiejscowionym (być ulokowanym, stać)  
 be mata - umrzeć, umierać  
+be migra - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
+be mirde - niknąć (blaknąć, gasnąć, słabnąć)  
+be name - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 be niche - iść w dół (iść pod spód, iść na dno)  
 be pasi - cierpieć  
 be pute - rozłożyć się (rozkładać się, gnić, psuć się)  
@@ -339,7 +343,7 @@ bilor - kryształ
 bina - budynek (struktura)  
 bina plan - architektura  
 bina plan ja - architekt  
-binde - punkt  
+bindu - punkt  
 bio - organiczny  
 bio cana she - kompost  
 bio jinse - płeć biologiczna  
@@ -547,6 +551,8 @@ dai sheke - głaz
 dai shula kan - uniwersytet  
 daka - przykryć, przykrywać, ukryć, ukrywać  
 dake - pokrycie; pokrywa, wieko, dekiel; pokład  
+daku - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
+daku ja - odbiorca  
 dalil - dowód; zeznanie  
 dama gem - warcaby  
 dance - taniec  
@@ -590,7 +596,6 @@ dayi - duży
 dayia - rozmiar  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
 debili - słaby  
-debu - musieć  
 deci - decy-, dziesiąta część  
 deci bel - decybel  
 def - obrona  
@@ -627,6 +632,8 @@ deu krati - teokracja
 deu logi - teologia  
 deu nagar harfi - dewanagari  
 deu sofi - teozofia  
+deve - musieć  
+deve ta - przymus  
 dika - cel  
 din - religia, wyznanie  
 din di - religijny  
@@ -635,6 +642,7 @@ din ja - wierzący (osoba religijna)
 dinamite - dynamit  
 dinde - indyk  
 ding - kolec  
+dino saur - dinozaur  
 diorite - dioryt  
 disha - kierunek  
 disha di - wprost (bezpośrednio)  
@@ -642,6 +650,7 @@ diske - dysk
 disprosium - dysproz  
 Divehia - Malediwy (Republika Malediwów)  
 do - do, dopóki, dla  
+do misal - na przykład  
 dobe - cegła  
 Doiche - Niemcy  
 doichi - niemiecki  
@@ -738,7 +747,6 @@ eletro posta (e-posta) - poczta elektroniczna
 eletrolin - kabel (linia)  
 eletron - elektron  
 eletrorade - piorun (grom)  
-em - pierwiastek (jednostki podstawowej)  
 emoje - emoji (emotkon)  
 emos - emocja, uczucie  
 emoshal - humor (nastrój)  
@@ -818,6 +826,9 @@ fa cirke - otoczyć, otaczać
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
 fa dika - celować  
 fa estaci - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
+fa festa - świętować, imprezować  
+fa forma - ukształtować, kształtować, urzeźbić, rzeźbić  
+fa forte - wzmocnić (wzmocnić, wzmóc)  
 fa gami - ożenić się, poślubić, wyjść za mąż  
 fa gol - przeznaczyć  
 fa jama - kolekcjonować, zebrać, zbierać  
@@ -830,12 +841,20 @@ fa kegu - odwiedzić, odwiedzać
 fa komputa - policzyć, liczyć, przetwarzać dane  
 fa kopi - kopiować, replikować  
 fa Latin kitabu - zromanizować  
+fa linke - łączyć, wiązać, złączyć  
 fa loka - umieścić (postawić)  
 fa long - przedłużyć, przedłużać  
 fa mas forte - wesprzeć (wzmocnić, zasilić)  
 fa masim - zmaksymalizować  
 fa mata - zabić, zabijać  
+fa migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
+fa min darja - zmniejszyć o jeden  
+fa ming - rozjaśnić  
+fa minim - zminimalizować  
+fa model - modelować (projektować, zaprojektować)  
+fa mol - zemleć (mleć, mielić)  
 fa muzika - grać muzykę  
+fa name - nazwać, nazywać, wezwać, wzywać  
 fa no zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa node - zawiązywać (zawiązać węzeł)  
 fa nomi - zarządzać (organizować, kierować)  
@@ -980,8 +999,7 @@ fenkate - analiza
 fenu - pęknąć (rozpaść się)  
 fere - żelazo  
 fermium - ferm  
-festa - świętować, imprezować  
-feste - przyjęcie, święto, festiwal  
+festa - przyjęcie, święto, festiwal  
 festoden - święto  
 fete - tłuszcz  
 feti - tłusty  
@@ -1025,19 +1043,18 @@ fokusa - skupić, się, skoncentrować się
 foli - szalony  
 folia - szaleństwo  
 fon - głoska  
+fon so - fonem  
 fona - wymawiać (wymówić)  
-fonem - fonem  
 fong - pszczoła lub osa  
 fong nide - ul (gniazdo pszczół lub os)  
 fonlojia - fonologia  
 fonte - fontanna (studnia, źródło)  
 fora - wiercić, borować  
 forke - widelec  
-forma - ukształtować, kształtować, urzeźbić, rzeźbić  
-forme - forma, kształt  
-forta - wzmocnić (wzmocnić, wzmóc)  
-forti - silny  
-fortia - siła  
+forma - forma, kształt, morf  
+forma so - morfem  
+forte - silny  
+forte ta - siła  
 forum - forum  
 foti - jasny, świetlny  
 foto - światło, oświetlenie  
@@ -1159,8 +1176,6 @@ geo sismo - trzęsienie Ziemi
 geo tika - działka (teren)  
 germanium - german  
 Gernezi - Guernsey  
-geta - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
-geter - odbiorca  
 Geyomedi Hai - Morze Śródziemne  
 geyoparlin - równik  
 Geyoparlini Ginia - Gwinea Równikowa  
@@ -1421,6 +1436,8 @@ insaniste - humanista
 insanisti - humanistyczny  
 insanistia - humanizm  
 insida - kucać (kucnąć)  
+insulte - obraza, obelga  
+insulte di - obraźliwy, niemiły, obelżywy  
 internete - internet  
 iode - jod; jodyna  
 Iraki - Irak  
@@ -1543,7 +1560,7 @@ kafe kan - kawiarnia
 kafe kupa - filiżanka do kawy  
 kafe pote - imbryk do kawy  
 kafir - niewierny (poganin, niewierzący)  
-kaguje - papier  
+kaguji - papier  
 kagujolimon - lima (limonka)  
 kai - otwarty, niezamknięty  
 Kaiman nesia - Kajmany  
@@ -1868,7 +1885,7 @@ laji tong - śmietnik
 laka - lakier  
 lal - czerwony  
 lal bau sheke - rubin  
-lal linche - ryś rudy  
+lal lince - ryś rudy  
 lal oranje - mandarynka  
 lal salmon - nerka (łosoś czerwony)  
 lama - lama  
@@ -1942,18 +1959,17 @@ lili - mały; mało, trochę, nieco
 lilkaboge - cukinia  
 lilsheke - kamyk  
 lilyam - przekąska  
+limfa - limfa  
 limite - limit, granica  
 limiti - skończony (ograniczony)  
 limon - cytryna  
 limonlugi - limonkowy (limonkowo zielony)  
 limonrangi - żółty  
 lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
-linche - ryś  
-linem - włókno  
-linfe - limfa  
-linka - łączyć, wiązać, złączyć  
+lin parche - złamanie lini  
+lin so - włókno  
+lince - ryś  
 linke - połączenie, złącze, styk  
-linparche - złamanie lini  
 lisan - język  
 lisi - gładki  
 liste - lista, spis, wykaz  
@@ -1968,9 +1984,9 @@ loga di - słowny (leksykalny)
 loga fili ja - logofil (miłośnik słów)  
 loga ironi - sarkazm  
 loga jami - słownictwo  
+loga so - słowo  
 loge - rejestr  
 loge buku - dziennik pokładowy (notatnik)  
-logem - słowo  
 logi - nauka, badanie, studiowanie  
 logika - logika, dedukcja  
 logika di - logiczny  
@@ -2080,7 +2096,7 @@ mas di fen - większość
 mas fili - preferować (woleć)  
 mas fili di - ulubiony  
 mas forte - wsparcie (wzmocnienie, zasilenie)  
-mas ka bas - zbyt  
+mas ze basa - zbyt  
 masa - masa  
 masaje - masaż  
 masala tika - tikka masala  
@@ -2141,6 +2157,7 @@ membin - pomnik (memoriał)
 meme - owca  
 meme kesh - wełna (runo owcze)  
 memnote - notatka, memo  
+men - makaron  
 meninge - opona mózgowa  
 meninge flame - zapalenie opon mózgowych  
 menter - doradca (mentor)  
@@ -2177,10 +2194,7 @@ meza tela - obrus
 meza topo - płaskowyż (plateau)  
 mi - ja, mnie  
 mi su - mój  
-mien - makaron  
-migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
-migre - migracja  
-migru - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
+migra - migracja  
 mikro - mikro-  
 mikro bio - mikroorganizm  (mikrob)  
 mikro bio logi - mikrobiologia  
@@ -2190,74 +2204,58 @@ mili - mili-
 mili gram - miligram  
 mili metre - milimetr  
 milke - mleko  
-milkokardon - ostropest plamisty  
+milke kardon - ostropest plamisty  
 mimen - my  
-min (mino) - mniej  
-min ka bas - zbyt mało  
-mina - oprócz, minus  
-minar - wieża  
-mindarja - zmniejszyć o jeden  
-minga - rozjaśnić  
-mingi - jasny, czysty  
-minim (minimo) - najmniej, minimalnie  
-minima - zminimalizować  
-minimi - minimal  
-minimistia - minimalizm  
-minister - minister  
-ministeria - ministry  
-minori - mniejszościowy  
-minoria - mniejszość  
+min - mniej  
+min di fen - mniejszość  
+min ze basa - zbyt mało  
+minare - wieża  
+ming - jasny, czysty  
+minim - najmniej, minimalnie  
+minim di - minimal  
+minim jui - minimalizm  
+ministre ja - minister  
+ministre ofis - ministry  
+minor - mniejszościowy  
 minta - mięta  
 minute - minuta  
 mira - odbić, odbijać  
-mirdi - nikły  
-mirdu - niknąć (blaknąć, gasnąć, słabnąć)  
-mirer - lustro  
-mirsonde - echo  
+mira plate - lustro  
+mira sonde - echo  
+mirde - nikły  
 misal - przykład  
-misalo - na przykład  
 mise - wysłać (wyemitować)  
 mise ja - nadawca  
 mise she - misja  
 mishe - miksować, mieszać  
-misher - mikser, blender, robot kuchenny  
-mishi alkol - koktajl  
-miskini - biedny, mizerny  
-misri - egipski  
-Misria - Egipt  
-mita - spotkać  
-mite - spotkanie, zebranie  
+mishe alkol - koktajl  
+mishe gi - mikser, blender, robot kuchenny  
+miskin - biedny, mizerny  
+Misri - Egipt  
+misri di - egipski  
+miti - spotkać  
+miti - spotkanie, zebranie  
 mitre - metr  
 mode - sposób (metoda, tryb)  
+mode loge - przysłówek  
 model - model, wzór, wzorzec, projekt  
-modela - modelować (projektować, zaprojektować)  
-modologe - przysłówek  
-moge - tusz  
-mokoban - deska  
-mokojanger - stolarz  
-mokojongoparke - arboretum  
-mokomate - drewno  
-mokotan - pień  
-moku - drzewo  
-mol - mol  
-mola - zemleć (mleć, mielić)  
+moku - tusz  
+mol ja - młynarz  
+mol kan - mielić  
+mol sheki - ostrzarka (kamień młyński)  
 Moldova - Mołdawia  
+mole - mol  
 molekul - molekuła (cząsteczka)  
-moler - młynarz  
 moli - jaśmin  
-molia - mielić  
-molidenium - molibden  
-molsheke - ostrzarka (kamień młyński)  
+moliden - molibden  
 moluske - mięczak (morski bezkręgowiec)  
 Monako - Monako  
-mongoli - Mongolski  
-Mongolia - Mongolia  
+Mongol - Mongolia  
+mongol di - Mongolski  
 monoster - potwór, monstrum  
-morfe - morf  
-morfem - morfem  
 Moris - Mauritius  
 mos - mech  
-mosi - omszały (mszysty)  
+mos di - omszały (mszysty)  
 mosim - pora roku  
 moskite - komar, moskit  
 moskovium - moskovium  
@@ -2270,30 +2268,35 @@ Mozambike - Mozambik
 mudan - piwonia  
 muka - twarz  
 muka fun - puder  
+muku - drzewo  
+muku ban - deska  
+muku jang ja - stolarz  
+muku jong parke - arboretum  
+muku mate - drewno  
+muku tana - pień  
 mula - korzeń  
 multi - wiele  
-multia - liczność (mnóstwo)  
+multi ta - liczność (mnóstwo)  
 mum - wosk  
+mum chape - pieczęć woskowa  
+mum foto - świeca  
+mum jan - mumia  
+mum melon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 Mumbai - Bombaj (Mumbaj)  
-mumchape - pieczęć woskowa  
-mumfote - świeca  
-mumjan - mumia  
-mummelon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 mumu - krowa  
 mumu nama - wołowina  
 mun - drzwi, brama, portal  
 mungus - mangusta  
 mur - mur, ściana  
+mur kaguji - tapeta  
 murche - mrówka  
 Muritania - Mauretania  
-murkaguje - tapeta  
-mus - przymus  
 mushu - mysz  
 muskete - muszkiet  
-musketer - muszkieter  
+muskete ja - muszkieter  
 muskul - muskuł, mięsień  
-muskulbin - kulturystyka  
-muta - zmienić, zmieniać  
+muskul bina - kulturystyka  
+mute - zmienić, zmieniać  
 muzika - muzyka  
 muzika ja - muzyk  
 Myanma - Mjanma, Birma  
@@ -2301,6 +2304,8 @@ Myanma - Mjanma, Birma
 na - bez  
 nabi - proroctwo  
 nabi ja - prorok  
+naci jui - nazizm  
+naci jui ja - nazista  
 nadir mar - rzadko  
 nafas - oddech  
 nagar - miasto  
@@ -2308,19 +2313,17 @@ nagar di - miejski
 nahun - paznokieć  
 Naijiria - Nigeria  
 nama - mięso  
-nama - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
-namana - nazwać, nazywać, wezwać, wzywać  
 name - imię, nazwa  
+name kitabu - podpis (autograf)  
 name loga - rzeczownik  
 Namibia - Namibia  
-namkitaba - podpis (autograf)  
 nanas - ananans  
 nano - nano-  
 nano mitre - nanometr  
 naraka - piekło  
 nasi - naród, narodowość  
 nasi di - narodowy (ludowy)  
-nasi jen - ludzie (lud, ludność)  
+nasi jan - ludzie (lud, ludność)  
 nasi jui - nacjonalizm  
 nasi jui ja - nacjonalista  
 nasi medi - międzynarodowy  
@@ -2331,28 +2334,27 @@ nautile - nautilus
 nava - nahuatl  
 nave - łódź, statek  
 nave gou - żeglować (płynąć)  
+nave ja - żeglarz (marynarz)  
 nave kape ja - kaper (korsarz)  
 nave lefte - bakburta (lewa burta)  
 nave raite - sterburta (prawa burta)  
 nave shefe - kapitan  
-naver - żeglarz (marynarz)  
-naziste - nazista  
-nazistia - nazizm  
-Nederlandi Antil - Antyle Holenderskie  
-Nederlandia - Holandia (Królestwo Niderlandów)  
+Nederlande - Holandia (Królestwo Niderlandów)  
+Nederlande Antil - Antyle Holenderskie  
 nefre - nerka  
 nefre flame - zapalenie nerek  
 nefte - olej  
-neftoguke - złocień indyjski  
+nefte guku - złocień indyjski  
 nega - odmówić (odrzucić)  
 nen - rok  
-nenfeste - rocznica  
-nenmesyom - data  
+nen festa - rocznica  
+nen mes yom - data  
 nenufar - lilia wodna, nenufar  
 neodimium - neodym  
 neon - neon  
 Nepal - Nepal  
 Neputun - Neptun  
+neputunium - neptun  
 nerve - nerw  
 nerve celu - neuron  
 nerve di - nerwowy (neuronowy)  
@@ -2360,11 +2362,9 @@ nerve pati - neuropatia
 nesia - wyspa  
 nesia grupe - archipelag  
 nete - sieć  
-netodona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
-netogeta - ściągać (ściągnąć, pobrać, pobierać)  
+nete dona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
+nete gete - ściągać (ściągnąć, pobrać, pobierać)  
 netoloke - witryna internetowa (portal internetowy)  
-netunium - neptun  
-neuyangi - nowoczesne  
 Nevis - Nevis  
 niche - spód  
 niche di - poniższy  
@@ -2420,6 +2420,7 @@ nove - nowy
 nove ka - nowicjusz (nowa osoba)  
 Nove Kaledonia - Nowa Kaledonia  
 nove loga - neologizm  
+nove yang di - nowoczesne  
 Nove Yorke - Nowy Jork  
 Nove Yorke citi - Stan Nowy Jork  
 Nove Zelande - Nowa Zelandia  
@@ -2615,7 +2616,7 @@ pipe - fajka
 piping - ocena, krytyka  
 piping ja - krytyk  
 pipre - pieprz  
-pipre minte - mięta pieprzowa  
+pipre minta - mięta pieprzowa  
 piram - piramida  
 pirate - piractwo  
 pirate ja - pirat  
@@ -2935,6 +2936,7 @@ sata dona ta - dedykacja (poświęcenie)
 Saturne - Saturn  
 Saudi Arabia - Arabia Saudyjska  
 sauna - sauna  
+saur - jaszczurka  
 saya - cień  
 se - sam, siebie  
 se kon - się (nawzajem, wzajemnie)  
@@ -3087,6 +3089,7 @@ siu - szyć
 Slave - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
+so - pierwiastek (jednostki podstawowej)  
 soci - społeczeństwo, system społeczny  
 soci di - społeczny  
 soci jinse - płeć społeczna  
@@ -3206,7 +3209,7 @@ talium - tal
 tam - chciwy (żądny)  
 tamar - daktyl  
 Tamil - tamilski  
-tan - łodyga (tors, pień, trzon)  
+tana - łodyga (tors, pień, trzon)  
 tanah - Tanach, Biblia hebrajska  
 tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
 tantalum - tantal  
@@ -3305,8 +3308,6 @@ tu su - twój
 tualete - taleta, WC  
 tubo - tuba, rura  
 tuh - pluć  
-tuka - obraza, obelga  
-tuka di - obraźliwy, niemiły, obelżywy  
 tul - narzędzie  
 tulium - tul  
 tulpan - tulipan  
@@ -3331,12 +3332,12 @@ ulul - wyć
 uma - koń  
 umami - mięsny (umami)  
 un - jeden (1)  
-un deu jui - monizm  
-un deu jui ja - monoteizm  
+un deu jui - monoteizm  
 un mana di - jednoznaczny  
 un mar - raz (jeden raz)  
 un me - pierwszy, numer jeden  
 un rang di - jednokolorowy (monochromatyczny)  
+un she jui - monizm  
 unike - tylko (jedyny, wyłączny)  
 Unta Arabi Amir Desha (UAA) - Zjednoczone Emiraty Arabskie  
 Unta Desh Da Amerika (UDA) - Stany Zjednoczone Ameryki  

@@ -69,6 +69,7 @@ alumin - aluminium
 alumin mate - alum  
 alumin okside - alumina (aluminum oxide)  
 ama - but (whereas)  
+ama min da - except (minus)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amen - honest (trustworthy, true; surely, verily, amen)  
 amen bil - loyal (faithful, trustworthy)  
@@ -322,6 +323,10 @@ be kai - become open
 be loka - be located (lie, be situated)  
 be mas - exceed (be greater than)  
 be mata - die  
+be migra - move (migrate, relocate oneself)  
+be min - subceed (be less than)  
+be mirde - fade  
+be name - be called (be named)  
 be niche - go under  
 be par - equal  
 be pasi - suffer (get hurt)  
@@ -380,7 +385,7 @@ bilor - crystal
 bina - building (structure)  
 bina plan - architecture  
 bina plan ja - architect  
-binde - dot (spot)  
+bindu - dot (spot)  
 bio - life (organic)  
 bio cana she - compost  
 bio jinse - biological sex  
@@ -607,6 +612,8 @@ dai sheke - boulder
 dai shula kan - university  
 daka - cover (conceal)  
 dake - cover (lid, cap, deck)  
+daku - get (receive, obtain, take)  
+daku ja - getter (receiver, recipient)  
 dalil - proof (evidence, proof, demonstration, testimony)  
 dama gem - checkers (draughts)  
 dance - dance  
@@ -657,7 +664,6 @@ dayia - size
 dayu - grow (get bigger)  
 de - which (who, that)  
 debili - weak  
-debu - must  
 deci - deci-  
 deci bel - decibel  
 def - defense (defence)  
@@ -695,6 +701,8 @@ deu krati - theocracy
 deu logi - theology  
 deu nagar harfi - Devanagari alphabet  
 deu sofi - theosophy  
+deve - must  
+deve ta - obligation (compulsion)  
 di - attributive postposition  
 dika - target (aim, objective)  
 din - religion (worship)  
@@ -705,6 +713,7 @@ din shia - sect (cult)
 dinamite - dynamite  
 dinde - turkey  
 ding - nail (spike)  
+dino saur - dinosaur  
 Dione - Dione  
 diorite - diorite  
 disha - direction  
@@ -714,6 +723,7 @@ disprosium - dysprosium
 Divehia - Maldives  
 do - to (toward, till, until, for)  
 do long - long (over a gread distance)  
+do misal - for example  
 dobe - brick  
 Doiche - Germany  
 doichi - German  
@@ -825,7 +835,6 @@ eletrolin - cable (wire, line)
 eletron - electron  
 eletrorade - lightning bolt  
 elfe - elf  
-em - element (the simplest unit)  
 emoje - emoji (smiley, emoticon)  
 emos - emotion (feeling)  
 emoshal - mood (emotional state)  
@@ -932,6 +941,9 @@ fa dalil - prove (demonstrate, testify)
 fa dante - bite  
 fa dika - aim (point)  
 fa estaci - hold (detain)  
+fa festa - celebrate (party)  
+fa forma - shape (sculpt)  
+fa forte - strengthen (reinforce)  
 fa gami - marry  
 fa gol - destine (set)  
 fa ja - doer (agent)  
@@ -945,13 +957,24 @@ fa kegu - visit
 fa komputa - compute (to process data)  
 fa kopi - copy (replicate)  
 fa Latin kitabu - romanize  
+fa linke - connect (join, link)  
 fa loka - put (place, set)  
 fa long - lengthen (prolong)  
 fa mas - increase  
 fa mas forte - reinforce (replenish)  
 fa masim - maximize  
 fa mata - kill  
+fa migra - move (migrate, relocate)  
+fa min - decrease (lessen)  
+fa min darja - decrement  
+fa min rai - underestimate  
+fa ming - brighten  
+fa minim - minimize  
+fa model - model (design)  
+fa mol - grind (grind in mill)  
 fa muzika - play music  
+fa najis - corrupt (pollute, soil, defile, stain, taint)  
+fa name - call (name)  
 fa nia - mean (intend)  
 fa no zai - remove (delete, dispose, erase)  
 fa node - tie a knot  
@@ -1112,8 +1135,7 @@ fenkate - analysis (dissection)
 fenu - split (fall apart)  
 fere - iron  
 fermium - fermium  
-festa - celebrate (party)  
-feste - party (celebration, festival)  
+festa - party (celebration, festival)  
 festoden - holiday  
 fete - fat (grease)  
 feti - fatty (greasy)  
@@ -1165,19 +1187,18 @@ fokusa - concentrate
 foli - mad (insane, crazy)  
 folia - madness (insanity)  
 fon - phone (speech sound)  
+fon so - phoneme  
 fona - pronounce (articulate)  
-fonem - phoneme  
 fong - bee or wasp  
 fong nide - bee nest (beehive, wasp's nest)  
 fonlojia - phonology  
 fonte - fountain (spring, well)  
 fora - drill (bore, perforate)  
 forke - fork  
-forma - shape (sculpt)  
-forme - form (shape)  
-forta - strengthen (reinforce)  
-forti - strong  
-fortia - force (strength, power)  
+forma - form (shape, morph)  
+forma so - morpheme  
+forte - strong  
+forte ta - force (strength, power, coercion)  
 forum - forum (public space)  
 foti - light (bright)  
 foto - light (illumination)  
@@ -1325,8 +1346,6 @@ geo tika - lot (plot of land)
 Germania - Germania  
 germanium - germanium  
 Gernezi - Guernsey  
-geta - get (receive, obtain, take)  
-geter - getter (receiver, recipient)  
 Geyomedi Hai - Mediterranean  
 geyoparlin - equator  
 Geyoparlini Ginia - Equatorial Guinea  
@@ -1389,7 +1408,7 @@ gubu - hippopotamus
 gui - ogre (troll, goblin)  
 guipapil - oriental poppy  
 gujarati - Gujarati  
-guke - florist's chrysanthemum  
+guku hua - florist's chrysanthemum  
 gul - ghoul  
 gula - swallow  
 guma - drum  
@@ -1622,6 +1641,8 @@ insaniste - humanist
 insanisti - humanistic  
 insanistia - humanism  
 insida - crouch (squat)  
+insulte - insult (offence)  
+insulte di - rude (offensive)  
 internete - internet  
 intra - enter (insert, put in)  
 intre - inside (interior)  
@@ -1768,7 +1789,7 @@ kafe kan - cafe (coffee shop)
 kafe kupa - coffee cup  
 kafe pote - coffeepot  
 kafir - infidel (pagan, heathen, unbeliever)  
-kaguje - paper (material)  
+kaguji - paper (material)  
 kagujolimon - key lime  
 kai - open (not closed)  
 Kaiman nesia - Cayman Islands  
@@ -1927,7 +1948,7 @@ kiau - bridge
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
 kim - substance (physical material from which something is made)  
-kimem - chemical element  
+kim so - chemical element  
 kimi - chemical  
 kimlojia - chemistry  
 kimono - kimono  
@@ -2130,7 +2151,7 @@ laji tong - garbage can (trash bin)
 laka - lacquer (varnish)  
 lal - red  
 lal bau sheke - ruby  
-lal linche - bobcat  
+lal lince - bobcat  
 lal oranje - mandarin orange (tangerine)  
 lal salmon - sockeye salmon  
 lama - lama  
@@ -2209,6 +2230,7 @@ lilkaboge - zucchini
 lilsheke - pebble (gravel)  
 lilsite - small town  
 lilyam - snack  
+limfa - lymph  
 limite - limit (boundary)  
 limiti - finite (limited)  
 limon - lemon  
@@ -2216,12 +2238,10 @@ limonike - citrus fruit
 limonlugi - lime green  
 limonrangi - yellow  
 lin - line (thread, string)  
-linche - lynx  
-linem - fibre  
-linfe - lymph  
-linka - connect (join, link)  
+lin parche - line break (newline)  
+lin so - fibre  
+lince - lynx  
 linke - joint (link)  
-linparche - line break (newline)  
 lisan - tongue  
 lisi - smooth  
 liste - list (listing, catalogue)  
@@ -2237,9 +2257,9 @@ loga fili - logophilia
 loga fili ja - logophile (word buff)  
 loga ironi - verbal irony (sarcasm)  
 loga jami - vocabulary (lexicon)  
+loga so - word (lexeme)  
 loge - register (record, log)  
 loge buku - logbook  
-logem - word (lexeme)  
 logi - study (research, science, -ology)  
 logika - logic (deduction)  
 logika di - logical  
@@ -2361,7 +2381,7 @@ mas fili - prefer (favor)
 mas fili di - favorite (preferred)  
 mas fili jui - favoritism  
 mas forte - reinforcements  
-mas ka bas - too much  
+mas ze basa - too much  
 masa - mass (quantity of matter)  
 masaje - knead (massage)  
 masaje - massage  
@@ -2425,6 +2445,7 @@ meme - sheep
 meme kesh - wool (fleece)  
 memnote - memorandum (memo)  
 men - one (you, they, impersonal pronoun)  
+men - noodle  
 meninge - meninx (meninges)  
 meninge flame - meningitis  
 menter - advisor (counselor, mentor)  
@@ -2463,12 +2484,7 @@ meza tela - tablecloth
 meza topo - plateau (tableland)  
 mi - I (me)  
 mi su - my  
-mien - noodle  
-migra - move (migrate, relocate)  
-migre - migration (moving)  
-migru - move (migrate, relocate oneself)  
-mikri - tiny (microscopic)  
-mikro - micro-  
+migra - migration (moving)  
 mikro bio - microorganism (microbe)  
 mikro bio logi - microbiology  
 Mikronesia - Micronesia  
@@ -2477,84 +2493,65 @@ mili - milli-
 mili gram - milligram  
 mili metre - millimeter  
 milke - milk  
-milkokardon - milk thistle  
+milke kardon - milk thistle  
 mima - mimic (imitate)  
+mima ja - imitator (mime)  
 Mimas - Mimas  
 mimen - we  
 mimen su - our  
-mimer - imitator (mime)  
-min (mino) - less  
-min ka bas - too little  
-mina - except (minus)  
-mina - decrease (lessen)  
-minar - tower  
-mindarja - decrement  
-minga - brighten  
-mingi - bright (brilliant, clear)  
-mini - less (fewer)  
-minim (minimo) - least (minimally)  
-minima - minimize  
-minimi - minimal  
-minimistia - minimalism  
-minister - minister  
-ministeria - ministry  
-minori - minor (not major)  
-minoria - minority  
-minraya - underestimate  
+min - less  
+min di fen - minority  
+min poli - less (fewer)  
+min ze basa - too little  
+minare - tower  
+ming - bright (brilliant, clear)  
+minim - least (minimally)  
+minim di - minimal  
+minim jui - minimalism  
+ministre ja - minister  
+ministre ofis - ministry  
+minor - minor (not major)  
 minta - mint  
-minu - subceed (be less than)  
 minute - minute  
 mira - reflect  
+mira plate - mirror  
+mira sonde - echo  
 Miranda - Miranda  
-mirdi - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
-mirdu - fade  
-mirer - mirror  
-mirsonde - echo  
+mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
 misal - example (instance of)  
-misalo - for example  
 mise - send (emit, transmit)  
 mise ja - sender (transmitter)  
 mise she - mission (transmission, emission)  
 mishe - mix (blend)  
-misher - mixer (blender)  
-mishi alkol - cocktail  
-miskini - poor (miserable)  
-misri - Egyptian  
-Misria - Egypt  
-mita - meet  
-mite - meeting (gathering)  
+mishe alkol - cocktail  
+mishe gi - mixer (blender)  
+miskin - poor (miserable)  
+Misri - Egypt  
+misri di - Egyptian  
+miti - meet  
+miti - meeting (gathering)  
 mitre - meter (100 cm)  
 mode - way (manner, mode)  
+mode loge - adverb  
 model - model (design)  
-modela - model (design)  
-modologe - adverb  
-moge - ink  
-mokoban - wood board (plank)  
-mokojanger - carpenter  
-mokojongoparke - arboretum  
-mokomate - wood (timber)  
-mokotan - log (trunk)  
-moku - tree  
-mol - mole (unit)  
-mola - grind (grind in mill)  
+moku - ink  
+mol ja - miller  
+mol kan - mill  
+mol sheki - grindstone (millstone)  
 Moldova - Moldova  
+mole - mole (unit)  
 molekul - molecule  
-moler - miller  
 moli - jasmine  
 moli hua chai - jasmine tea  
-molia - mill  
-molidenium - molybdenum  
-molsheke - grindstone (millstone)  
+moliden - molybdenum  
 moluske - mollusk  
 Monako - Monaco  
-mongoli - Mongol  
-Mongolia - Mongolia  
+Mongol - Mongolia  
+mongol di - Mongolian  
 monoster - monster  
-morfe - morph  
-morfem - morpheme  
 Moris - Mauritius  
 mos - moss  
-mosi - mossy  
+mos di - mossy  
 mosim - season  
 moskite - mosquito  
 moskovium - moscovium  
@@ -2567,30 +2564,35 @@ Mozambike - Mozambique
 mudan - peony  
 muka - face  
 muka fun - face powder  
+muku - tree  
+muku ban - wood board (plank)  
+muku jang ja - carpenter  
+muku jong parke - arboretum  
+muku mate - wood (timber)  
+muku tana - log (trunk)  
 mula - root  
 multi - many (much)  
-multia - number (abundance)  
+multi ta - number (abundance)  
 mum - wax  
+mum chape - wax seal  
+mum foto - candle  
+mum jan - mummy  
+mum melon - winter melon (wax gourd, ash gourd)  
 Mumbai - Mumbai (Bombay)  
-mumchape - wax seal  
-mumfote - candle  
-mumjan - mummy  
-mummelon - winter melon (wax gourd, ash gourd)  
 mumu - cow  
 mumu nama - beef  
 mun - door (gate, portal)  
 mungus - mongoose  
 mur - wall (structure for delimitation)  
+mur kaguji - wallpaper  
 murche - ant  
 Muritania - Mauritania  
-murkaguje - wallpaper  
-mus - coercion  
 mushu - mouse or rat  
 muskete - musket  
-musketer - musketeer  
+muskete ja - musketeer  
 muskul - muscle  
-muskulbin - bodybuilding  
-muta - change (alter, convert)  
+muskul bina - bodybuilding  
+mute - change (alter, convert)  
 muzika - music  
 muzika ja - musician  
 Myanma - Myanmar (Burma)  
@@ -2599,6 +2601,8 @@ na - without
 na di - lacking (-less)  
 nabi - prophecy  
 nabi ja - prophet  
+naci jui - Nazism  
+naci jui ja - Nazi  
 nadir - rare (scarce, uncommon)  
 nadir mar - seldom (rarely)  
 nafas - breath  
@@ -2607,16 +2611,13 @@ nagar di - urban
 nahun - nail (fingernail)  
 Naijiria - Nigeria  
 najis - corruption (filth, pollution, contamination, najis)  
-najisa - corrupt (pollute, soil, defile, stain, taint)  
-najisbinde - stain (spot)  
-najisi - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
+najis bindu - stain (spot)  
+najis di - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
 nama - meat (flesh)  
-nama - be called (be named)  
-namana - call (name)  
 name - name  
+name kitabu - sign (autograph)  
 name loga - noun  
 Namibia - Namibia  
-namkitaba - sign (autograph)  
 nanas - pineapple  
 nano - nano-  
 nano mitre - nanometer  
@@ -2624,7 +2625,7 @@ naraka - hell
 nardi - backgammon  
 nasi - nation  
 nasi di - national  
-nasi jen - people (folk)  
+nasi jan - people (folk)  
 nasi jui - nationalism  
 nasi jui ja - nationalist  
 nasi medi - international  
@@ -2636,29 +2637,27 @@ nautile - nautilus
 nava - Nahuatl (Nahua)  
 nave - boat (ship)  
 nave gou - sail  
+nave ja - sailer  
 nave kape ja - privateer (buccaneer)  
 nave lefte - port (left side of a ship)  
 nave raite - starboard (right side of a ship)  
 nave shefe - captain  
-naver - sailer  
-naziste - Nazi  
-nazistia - Nazism  
-ne - none  
-Nederlandi Antil - Netherlands Antilles  
-Nederlandia - Netherlands  
+Nederlande - Netherlands  
+Nederlande Antil - Netherlands Antilles  
 nefre - kidney  
 nefre flame - nephritis  
 nefte - oil  
-neftoguke - Indian chrysanthemum  
+nefte guku - Indian chrysanthemum  
 nega - refuse (deny, decline)  
 nen - year  
-nenfeste - anniversary  
-nenmesyom - date  
+nen festa - anniversary  
+nen mes yom - date  
 nenufar - water lily (nenuphar)  
 neodimium - neodymium  
 neon - neon  
 Nepal - Nepal  
 Neputun - Neptune  
+neputunium - neptunium  
 nerve - nerve  
 nerve celu - neuron  
 nerve di - neural  
@@ -2667,13 +2666,9 @@ nerve toksi - neurotoxin
 nesia - island  
 nesia grupe - archipelago  
 nete - net (web, mesh)  
-netodona - upload  
-netogeta - download  
+nete dona - upload  
+nete gete - download  
 netoloke - website  
-netunium - neptunium  
-neufite - neophyte plant  
-neujeni - newborn  
-neuyangi - modern  
 Nevis - Nevis  
 nia - intention (purpose)  
 niche - underside (underneath)  
@@ -2733,10 +2728,13 @@ note buku - notebook
 note she - note (observation, remark, comment)  
 nove - novelty (new product)  
 nove - new (recent)  
+nove fito - neophyte plant  
+nove jene di - newborn  
 nove ka - novice (newbie)  
 Nove Kaledonia - New Caledonia  
 nove loga - neologism  
 nove ta - newness  
+nove yang di - modern  
 Nove Yorke - New York  
 Nove Yorke citi - New York City  
 Nove Zelande - New Zealand  
@@ -2824,6 +2822,7 @@ pai - pie (pastry)
 pake - pack (package)  
 Pakistan - Pakistan  
 paksi - bird  
+paku - force (use force, coerce)  
 palaba - conflict (argument, dispute, quarrel)  
 paladium - palladium  
 Palau - Palau  
@@ -2959,7 +2958,7 @@ pipe - pipe
 piping - evaluation (criticism)  
 piping ja - critic  
 pipre - pepper (peppercorn)  
-pipre minte - peppermint  
+pipre minta - peppermint  
 piram - pyramid  
 pirate - piracy  
 pirate ja - pirate (sea robber)  
@@ -3308,6 +3307,7 @@ sata dona ta - dedication (devotion)
 Saturne - Saturn  
 Saudi Arabia - Saudi Arabia  
 sauna - sauna  
+saur - lizard  
 saya - shadow  
 se - self (reflexive pronoun)  
 se di - selfish  
@@ -3467,6 +3467,7 @@ sir ta - stealth (secrecy)
 siro - zero (none)  
 siro jan - nobody (no-one)  
 siro sata - never  
+siro she - none  
 siro she - nothing  
 sismo - shake (jolt, earthquake)  
 sismologi - seismology  
@@ -3476,6 +3477,7 @@ siu - sew
 Slave - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
+so - element (factor, the simplest unit)  
 soci - society (association)  
 soci di - social  
 soci jinse - social gender  
@@ -3605,7 +3607,7 @@ talium - thallium
 tam - greedy  
 tamar - date fruit  
 Tamil - Tamil  
-tan - stem (torso, trunk, stalk)  
+tana - stem (torso, trunk, stalk)  
 tanah - Tanakh (Jewish Bible)  
 tanke - tank (reservoir)  
 tantalum - tantalum  
@@ -3716,8 +3718,6 @@ tu su - your
 tualete - toilet (WC)  
 tubo - tube (pipe)  
 tuh - spit  
-tuka - insult (offence)  
-tuka di - rude (offensive)  
 tul - tool  
 tulium - thulium  
 tulpan - tulip  
@@ -3748,13 +3748,13 @@ uma bichi - horsewhip (riding crop)
 umami - savory (umami)  
 Umbriel - Umbriel  
 un - one (1)  
-un deu jui - monism  
-un deu jui ja - monotheism  
+un deu jui - monotheism  
 un mana di - unambiguous  
 un mar - once (one time)  
 un me - first (number one)  
 un oko di lense - monocle  
 un rang di - monochrome  
+un she jui - monism  
 un verse di - universal  
 unike - only (single, sole, lone, just)  
 unike jan di - alone (lonely, isolated, solitary, single)  

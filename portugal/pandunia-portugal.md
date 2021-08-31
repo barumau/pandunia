@@ -124,6 +124,7 @@ baze bol - basebol (beisebol)
 baze shula kan - ensino primário  
 be ais - gelar  
 be bio mute - fermentar  
+be migra - mudar-se  
 be pute - apodrecer-se  
 be retro - voltar (regressar)  
 bebe - bebê  
@@ -215,6 +216,7 @@ dai dom - palácio (mansão, palacete)
 dai hai - oceano  
 dai pau - canhǎo  
 dai sheke - pedregulho  
+daku - ter (achar, receber)  
 dalil - prova  
 dance - baile (danza)  
 danger - sino (campainha)  
@@ -228,7 +230,6 @@ dava she - remédio (medicamento)
 dava she kan - farmácia (drogaria)  
 dava she logi - farmacologia  
 debili - fraco (débil)  
-debu - dever  
 defban - escudo  
 defkaske - armadura  
 den - dia  
@@ -236,14 +237,17 @@ deu - deus
 deu kata - mito  
 deu nagar harfi - devanágari  
 deu sofi - teosofia  
+deve - dever  
 dika - objetivo  
 din - religião  
 din ja - crente  
 din shia - seita  
 dinamite - dinamite  
 dinde - peru  
+dino saur - dinossauro  
 diorite - diorito  
 diske - disco  
+do misal - por exemplo  
 dobe - tijolo  
 dokum - documento  
 dokumfilme - documentário  
@@ -271,7 +275,6 @@ e - e
 ekore - esquilo  
 eletre - eletricidade  
 elfe - elfo  
-em - elemento  
 emoje - emoticon (emoji)  
 emos - emoçao  
 emoshal - humor  
@@ -305,8 +308,12 @@ fa asar - efetuar
 fa bina - construir  
 fa dante - morder  
 fa dika - mirar (apontar)  
+fa forma - modelar  
+fa linke - relier (connecter)  
 fa loka - colocar (pôr)  
 fa mata - matar  
+fa min rai - menosprezar (subestimar)  
+fa mol - moer  
 fa nomi - organizar  
 fa onor - honrar  
 fa pati mise - infectar (contagiar)  
@@ -354,7 +361,6 @@ fobani - assustador
 fobu - temer  
 fong - abelha ou vespa  
 fora - furar (perfurar)  
-forma - modelar  
 foto - luz  
 foto grafe - foto (fotografia)  
 foto grafia - fotografia  
@@ -400,7 +406,6 @@ geo grafi - geografia
 geo metri - geometria  
 geo politika - geopolítica  
 Germania - Germânia  
-geta - ter (achar, receber)  
 giau - ensinar (lecionar)  
 gida - guiar  
 gida ja - guia  
@@ -543,7 +548,7 @@ kaboga - abóbora (jerimun)
 kafe - café  
 kafe kan - café  
 kafe pote - cafeteira  
-kaguje - papel  
+kaguji - papel  
 kagujolimon - lima  
 kala - preto  
 kalam - lápis  
@@ -603,7 +608,7 @@ kerne - núcleo (cerne)
 kesha na di - despelado  
 kiau - ponte  
 kim - substância  
-kimem - elemento químico  
+kim so - elemento químico  
 kimlojia - química  
 kimono - quimono  
 kina - mover  
@@ -703,9 +708,8 @@ lilkaboge - abobrinha
 lilsheke - pedrinha  
 limon - limão  
 lin - linha (fio)  
-linche - lince  
-linem - fibra  
-linka - relier (connecter)  
+lin so - fibra  
+lince - lince  
 linke - conexão (vínculo, laço)  
 lisan - língua  
 liste - lista  
@@ -715,9 +719,9 @@ loga - fala (palavras)
 loga asal - etimologia  
 loga di - léxico  
 loga jami - vocabulário  
+loga so - palavra (vocábulo)  
 loge - registro  
 loge buku - diário de bordo  
-logem - palavra (vocábulo)  
 loka - lugar (local)  
 loka di - local  
 long - longo  
@@ -794,40 +798,36 @@ metregrafia - cartografia
 meza - mesa  
 meza tela - toalha de mesa  
 mi - eu (me)  
-migre - migração  
-migru - mudar-se  
+migra - migração  
 mikro bio - micróbio  
 mikro bio logi - microbiologia  
 mikroskope - microscópio  
 milke - leite  
-milkokardon - cardo-mariano  
+milke kardon - cardo-mariano  
 mima - imitar (mimetizar)  
+mima ja - mímico  
 mimen - nós  
 mimen su - nosso  
-mimer - mímico  
-minraya - menosprezar (subestimar)  
 minta - hortelã  
-mirdi - fraco  
-misalo - por exemplo  
-Misria - Egipto (Egito)  
-mita - encontrar  
+mirde - fraco  
+Misri - Egipto (Egito)  
+miti - encontrar  
 mitre - metro  
 mode - modo (maneira, jeito)  
-mokoban - tábua (prancha)  
-mokotan - tora  
-moku - árvore  
-mol - mol  
-mola - moer  
+mol kan - moenda (moinho)  
+mol sheki - mó  
+mole - mol  
 moli - jasmim  
-molia - moenda (moinho)  
-molsheke - mó  
 mosim - estação (sazão)  
 moto - motor  
+muku - árvore  
+muku ban - tábua (prancha)  
+muku tana - tora  
 mula - raíz  
 mur - muro (muralha)  
-murkaguje - papel de parede  
+mur kaguji - papel de parede  
 mushu - rato  
-muskulbin - fisiculturismo  
+muskul bina - fisiculturismo  
 muzika - música  
 ####N - N  
 na - sem  
@@ -835,7 +835,7 @@ nadir - raro
 nadir mar - raramente  
 najis - poluição  
 nama - carne  
-namkitaba - assinar  
+name kitabu - assinar  
 nardi - gamão  
 nasi - nação  
 nasi medi - internacional  
@@ -847,7 +847,6 @@ nefte - aeite (óleo)
 Neputun - Netuno  
 nerve celu - neurônio  
 nerve toksi - neurotoxina  
-neujeni - recém-nascido  
 nia - intenção  
 nide - ninho (vespiero)  
 Nipon - Japão  
@@ -866,6 +865,7 @@ nostalgia - nostalgia (saudade)
 note she - nota  
 nove - novidade  
 nove - novo  
+nove jene di - recém-nascido  
 nove ka - novato (neófito)  
 nove loga - neologismo  
 nove ta - novidade  
@@ -954,7 +954,7 @@ pin chope - picareta
 pin kardon - acanto-bastardo  
 pince ban - prancheta  
 pipre - pimenta  
-pipre minte - hortelã-pimenta  
+pipre minta - hortelã-pimenta  
 piram - pirâmida  
 pirate - pirataria  
 plan - plano  
@@ -1047,6 +1047,7 @@ sar na di - acéfalo
 sata - momento (instante)  
 sata di - momentâneo  
 Saturne - Saturno  
+saur - lagarto  
 se - se  
 se kon - um ao outro  
 sekse logi - sexologia  
@@ -1111,6 +1112,7 @@ silko - seda
 sing - estrela  
 sir plan - complô (conspiração)  
 Slave - eslavo  
+so - elemento  
 soci - sociedade  
 sofita - sabedoria (sagacidade, sapiência)  
 soi - soja  
@@ -1150,7 +1152,7 @@ tai - estrado
 tail - ladrilho (telha, azulejo)  
 taksi metre gi - taxímetro  
 tal moku - arbusto (mata)  
-tan - haste (talo, caule)  
+tana - haste (talo, caule)  
 tehne - técnica  
 tela - fazenda (tecido)  
 tela gi - tear  

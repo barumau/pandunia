@@ -64,6 +64,7 @@ alo sifa - erilaisuus (ero)
 alo sifa di - erilainen  
 alumin - alumiini  
 ama - mutta  
+ama min da - paitsi (miinus)  
 Amara - amhara (etiopialainen kansa ja kieli)  
 amen - rehellinen (totisesti, uskottavasti, aamen)  
 amen shin - luottaa (uskoa)  
@@ -294,6 +295,9 @@ be kai - aueta (avautua)
 be loka - sijaita  
 be mas - ylittää (olla enemmän kuin)  
 be mata - kuolla  
+be migra - muuttaa (siirtyä)  
+be min - alittaa (olla vähemmän kuin)  
+be name - olla nimeltään  
 be niche - alittaa  
 be par - olla yhtä kuin  
 be pasi - sattua (käydä kipeää)  
@@ -343,7 +347,7 @@ bilor - kristalli
 bina - rakennus (rakenne)  
 bina plan - arkkitehtuuri  
 bina plan ja - arkkitehti  
-binde - täplä (läiskä)  
+bindu - täplä (läiskä)  
 bio - elävä (orgaaninen)  
 bio cana she - komposti  
 bio jinse - biologinen sukupuoli  
@@ -557,6 +561,8 @@ dai sheke - lohkare (järkäle)
 dai shula kan - yliopisto  
 daka - peittää  
 dake - peite (kansi)  
+daku - hankkia (saada)  
+daku ja - saaja (vastaanottaja)  
 dalil - todiste (todistus, osoitus, demonstraatio)  
 dama gem - tammipeli  
 dance - tanssi  
@@ -603,7 +609,6 @@ dayia - suuruus (koko)
 dayu - kasvaa (suurentua)  
 de - joka (mikä)  
 debili - heikko  
-debu - täytyä (olla pakko)  
 deci - desi  
 deci bel - desibeli  
 def - puolustus  
@@ -640,6 +645,8 @@ deu krati - teokratia
 deu logi - teologia  
 deu nagar harfi - devanagari  
 deu sofi - teosofia  
+deve - täytyä (olla pakko)  
+deve ta - pakko  
 dika - maali (maalitaulu, kohde)  
 din - uskonto  
 din di - uskonnollinen  
@@ -649,6 +656,7 @@ din shia - lahko (kultti)
 dinamite - dynamiitti  
 dinde - kalkkuna  
 ding - naula (piikki)  
+dino saur - dinosaurus (hirmulisko)  
 Dione - Dione  
 disha - suunta  
 disha di - suoraan  
@@ -657,6 +665,7 @@ disprosium - dysprosium
 Divehia - Malediivit  
 do - luokse (tykö, kohti, asti)  
 do long - pitkästi (kauas)  
+do misal - esimerkiksi  
 dobe - tiili  
 Doiche - Saksa  
 doichi - saksalainen  
@@ -761,7 +770,6 @@ eletrolin - sähköjohto
 eletron - elektroni  
 eletrorade - salama  
 elfe - haltia (tonttu)  
-em - elementti (yksinkertaisin yksikkö)  
 emoje - hymiö (emoji)  
 emos - tunne (mielenliikutus)  
 emoshal - tunnetila (tuuli)  
@@ -863,6 +871,9 @@ fa dalil - todistaa
 fa dante - purra  
 fa dika - osoittaa (tähdätä)  
 fa estaci - seisottaa  
+fa festa - juhlia  
+fa forma - muotoilla (muovata)  
+fa forte - vahvistaa (voimistaa)  
 fa gami - naida (mennä naimisiin)  
 fa gol - määrätä  
 fa ja - tekijä (toimija)  
@@ -875,11 +886,19 @@ fa kegu - käydä (vierailla)
 fa komputa - käsitellä dataa  
 fa kopi - kopioida (jäljentää)  
 fa Latin kitabu - latinoida  
+fa linke - yhdistää  
 fa loka - panna (asettaa, sijoittaa)  
 fa long - pidentää  
 fa mas - lisätä (enentää)  
 fa mata - tappaa  
+fa migra - muuttaa (siirtää)  
+fa min - vähentää  
+fa min rai - aliarvioida  
+fa ming - kirkastaa (valaista)  
+fa model - mallintaa  
+fa mol - jauhaa  
 fa muzika - soittaa (musisoida)  
+fa name - nimittää (kutsua)  
 fa nia - aikoa (meinata)  
 fa no zai - poistaa (hävittää)  
 fa node - solmia (tehdä solmu)  
@@ -1022,8 +1041,7 @@ fenkate - analyysi
 fenu - jakautua (hajota)  
 fere - rauta  
 fermium - fermium  
-festa - juhlia  
-feste - juhlat  
+festa - juhlat  
 festoden - juhlapäivä  
 fete - rasva (öljy)  
 feti - rasvainen  
@@ -1074,18 +1092,17 @@ fokusa - keskittää
 foli - hullu (mieletön)  
 folia - hulluus (mielettömyys)  
 fon - äänne (fooni)  
+fon so - äänne (foneemi)  
 fona - ääntää (lausua)  
-fonem - äänne (foneemi)  
 fong - mehiläinen tai ampiainen  
 fonlojia - fonologia (äänneoppi)  
 fonte - lähde (kaivo)  
 fora - porata  
 forke - haarukka  
-forma - muotoilla (muovata)  
-forme - muoto  
-forta - vahvistaa (voimistaa)  
-forti - voimakas (vahva)  
-fortia - voima  
+forma - muoto (morfi)  
+forma so - morfeemi  
+forte - voimakas (vahva)  
+forte ta - voima  
 forum - foorumi  
 foti - valoisa  
 foto - valo  
@@ -1215,8 +1232,6 @@ geo tika - tontti (maakaistale)
 Germania - Germania  
 germanium - germanium  
 Gernezi - Guernsey  
-geta - hankkia (saada)  
-geter - saaja (vastaanottaja)  
 Geyomedi Hai - Välimeri  
 geyoparlin - päiväntasaaja  
 Geyoparlini Ginia - Päiväntasaajan Guinea  
@@ -1482,6 +1497,8 @@ insaniki - inhimillinen
 insaniste - humanisti  
 insanisti - humanistinen  
 insanistia - humanismi  
+insulte - loukkaus (törkeys)  
+insulte di - törkeä  
 internete - internet  
 intra - panna sisään  
 intre - sisäpuoli  
@@ -1608,7 +1625,7 @@ kafe kan - kahvila
 kafe kupa - kahvikuppi  
 kafe pote - kahvipannu  
 kafir - pakana  
-kaguje - paperi  
+kaguji - paperi  
 kai - auki (avoin)  
 Kaiman nesia - Cayman-saaret  
 kaka - ulostaa (kakata)  
@@ -1741,7 +1758,7 @@ kiau - silta
 kilogram - kilogramma  
 kilomitre - kilometri  
 kim - aine (aines, materia)  
-kimem - alkuaine  
+kim so - alkuaine  
 kimi - kemikaali  
 kimlojia - kemia  
 kimono - kimono  
@@ -1975,16 +1992,15 @@ lili - pieni (pienesti, vähän)
 lilsheke - sorakivi  
 lilsite - pikkukaupunki  
 lilyam - välipala (naposteltava)  
+limfa - lymfa  
 limite - raja  
 limon - sitruuna  
 limonrangi - keltainen  
 lin - linja (viiva, lanka, liina, naru, köysi)  
-linche - ilves  
-linem - säie (kuitu)  
-linfe - lymfa  
-linka - yhdistää  
+lin parche - rivinvaihto  
+lin so - säie (kuitu)  
+lince - ilves  
 linke - yhdistys (sidos)  
-linparche - rivinvaihto  
 lisan - kieli (elin)  
 lisi - sileä  
 liste - lista (luettelo)  
@@ -1999,9 +2015,9 @@ loga di - sanallinen (puhuttu)
 loga fili - logofilia  
 loga fili ja - logofiili  
 loga jami - sanasto  
+loga so - sana  
 loge - tallenne (rekisteri, loki)  
 loge buku - lokikirja  
-logem - sana  
 logi - tiede (tutkimus, opiskella)  
 logika - logiikka  
 logika di - looginen  
@@ -2108,7 +2124,7 @@ mas di fen - enemmistö
 mas fili - suosia (pitää parempana)  
 mas fili di - suosikki (suosittu)  
 mas fili jui - suosinta (favoritismi)  
-mas ka bas - liikaa  
+mas ze basa - liikaa  
 masa - massa  
 masaje - vaivata (hieroa)  
 masaje - hieronta  
@@ -2159,6 +2175,7 @@ memba - kuulua (olla jäsenenä)
 member - jäsen (osatekijä, komponentti)  
 meme - lammas  
 memnote - muistio (muistiinmerkintä)  
+men - nuudeli  
 meninge - aivokalvo  
 meninge flame - aivokalvontulehdus  
 menter - neuvontantaja (mentori)  
@@ -2192,12 +2209,7 @@ meza - pöytä
 meza tela - pöytäliina  
 mi - minä  
 mi su - minun  
-mien - nuudeli  
-migra - muuttaa (siirtää)  
-migre - muutto (migraatio)  
-migru - muuttaa (siirtyä)  
-mikri - pikkuruinen (mikroskooppinen)  
-mikro - mikro-  
+migra - muutto (migraatio)  
 mikro bio - mikrobi  
 mikro bio logi - mikrobiologia  
 Mikronesia - Mikronesia  
@@ -2207,66 +2219,52 @@ mili gram - milligramma
 mili metre - millimetri  
 milke - maito  
 mima - matkia (imitoida)  
+mima ja - matkija (imitaattori)  
 mimen - me  
 mimen su - meidän  
-mimer - matkija (imitaattori)  
-min (mino) - vähemmän  
-min ka bas - liian vähän  
-mina - paitsi (miinus)  
-mina - vähentää  
-minar - torni  
-minga - kirkastaa (valaista)  
-mingi - kirkas (selkeä)  
-minim (minimo) - vähiten  
-minimi - vähimmäis-  
-minimistia - minimalismi  
-minister - ministeri  
-ministeria - ministeriö  
-minori - vähäinen  
-minoria - vähemmistö  
-minraya - aliarvioida  
-minu - alittaa (olla vähemmän kuin)  
+min - vähemmän  
+min di fen - vähemmistö  
+min ze basa - liian vähän  
+minare - torni  
+ming - kirkas (selkeä)  
+minim - vähiten  
+minim di - vähimmäis-  
+minim jui - minimalismi  
+ministre ja - ministeri  
+ministre ofis - ministeriö  
+minor - vähäinen  
 minute - minuutti  
 mira - heijastaa (peilata)  
-mirer - peili  
-mirsonde - kaiku  
+mira plate - peili  
+mira sonde - kaiku  
 misal - esimerkki  
-misalo - esimerkiksi  
 mise - lähettää  
 mise ja - lähettäjä (lähetin)  
 mise she - lähetys  
 mishe - sekoittaa  
-misher - sekoitin  
-miskini - kurja (raukka)  
-misri - egyptiläinen  
-Misria - Egypti  
-mita - tavata  
-mite - tapaaminen (kokous)  
+mishe gi - sekoitin  
+miskin - kurja (raukka)  
+Misri - Egypti  
+misri di - egyptiläinen  
+miti - tavata  
+miti - tapaaminen (kokous)  
 mitre - metri  
 mode - tapa  
+mode loge - adverbi  
 model - malli  
-modela - mallintaa  
-modologe - adverbi  
-moge - muste  
-mokojanger - puuseppä  
-mokojongoparke - arboretum (puulajipuisto)  
-mokomate - puuaines  
-moku - puu  
-mola - jauhaa  
+moku - muste  
+mol ja - mylläri  
+mol kan - mylly  
+mol sheki - myllynkivi  
 Moldova - Moldova  
-moler - mylläri  
 moli - jasmiini  
 moli hua chai - jasmiinitee  
-molia - mylly  
-molidenium - molybdeeni  
-molsheke - myllynkivi  
+moliden - molybdeeni  
 moluske - nilviäinen  
 Monako - Monaco  
-mongoli - mongoli  
-Mongolia - Mongolia  
+Mongol - Mongolia  
+mongol di - mongoli  
 monoster - hirviö  
-morfe - morfi  
-morfem - morfeemi  
 Moris - Mauritius  
 mos - sammal  
 mosim - vuodenaika  
@@ -2281,27 +2279,30 @@ Mozambike - Mosambik
 mudan - pioni  
 muka - kasvot (naama)  
 muka fun - puuteri  
+muku - puu  
+muku jang ja - puuseppä  
+muku jong parke - arboretum (puulajipuisto)  
+muku mate - puuaines  
 mula - juuri  
 multi - moni (usea)  
 mum - vaha  
-mumchape - sinetti  
-mumfote - kynttilä  
-mumjan - muumio  
+mum chape - sinetti  
+mum foto - kynttilä  
+mum jan - muumio  
 mumu - nauta (lehmä)  
 mumu nama - lehmän liha  
 mun - ovi (portti, veräjä)  
 mungus - mangusti  
 mur - seinä (muuri)  
+mur kaguji - tapetti  
 murche - muurahainen  
 Muritania - Mauritania  
-murkaguje - tapetti  
-mus - pakko  
 mushu - hiiri tai rotta  
 muskete - musketti  
-musketer - musketööri  
+muskete ja - musketööri  
 muskul - lihas  
-muskulbin - kehonrakennus (bodaus)  
-muta - muuttaa (muuntaa)  
+muskul bina - kehonrakennus (bodaus)  
+mute - muuttaa (muuntaa)  
 muzika - musiikki  
 muzika ja - muusikko  
 Myanma - Myanmar (Burma)  
@@ -2310,6 +2311,8 @@ na - ilman (puuttua)
 na di - ilman oleva (-ton)  
 nabi - profetia  
 nabi ja - profeetta  
+naci jui - natsismi  
+naci jui ja - natsi  
 nadir - harvinainen  
 nadir mar - harvoin  
 nafas - hengitys (henkäys)  
@@ -2317,8 +2320,6 @@ nagar - kaupunki
 nahun - kynsi  
 Naijiria - Nigeria  
 nama - liha  
-nama - olla nimeltään  
-namana - nimittää (kutsua)  
 name - nimi  
 name loga - substantiivi (nimisana)  
 Namibia - Namibia  
@@ -2329,7 +2330,7 @@ naraka - helvetti
 nardi - backgammon  
 nasi - kansakunta  
 nasi di - kansallinen  
-nasi jen - kansa  
+nasi jan - kansa  
 nasi jui - kansallisuusaate (nationalismi)  
 nasi jui ja - nationalisti  
 nasi medi - kansainvälinen  
@@ -2339,27 +2340,25 @@ Nauru - Nauru
 nava - nahuatli  
 nave - vene (laiva)  
 nave gou - veneillä  
+nave ja - veneilijä  
 nave kape ja - laivakaappari  
 nave lefte - paapuuri  
 nave raite - tyyrpuuri  
 nave shefe - kapteeni  
-naver - veneilijä  
-naziste - natsi  
-nazistia - natsismi  
-ne - ei mitään  
-Nederlandi Antil - Alankomaiden Antillit  
-Nederlandia - Alankomaat (Hollanti)  
+Nederlande - Alankomaat (Hollanti)  
+Nederlande Antil - Alankomaiden Antillit  
 nefre - munuainen  
 nefre flame - munuaistulehdus (nefriitti)  
 nega - kieltää  
 nen - vuosi  
-nenfeste - vuosijuhla  
-nenmesyom - päivämäärä  
+nen festa - vuosijuhla  
+nen mes yom - päivämäärä  
 nenufar - lumme  
 neodimium - neodyymi  
 neon - neon  
 Nepal - Nepal  
 Neputun - Neptunus  
+neputunium - neptunium  
 nerve - hermo  
 nerve celu - hermosolu (neuroni)  
 nerve di - hermostollinen  
@@ -2369,9 +2368,6 @@ nesia - saari
 nesia grupe - saaristo  
 nete - verkko  
 netoloke - nettisivu  
-netunium - neptunium  
-neufite - tulokaskasvi (neofyytti)  
-neujeni - vastasyntynyt  
 Nevis - Nevis  
 nia - aie (aikomus, tarkoitus)  
 niche - alapuoli  
@@ -2427,6 +2423,8 @@ note buku - muistikirja
 note she - huomio (kommentti, merkintä)  
 nove - uutuustuote  
 nove - uusi  
+nove fito - tulokaskasvi (neofyytti)  
+nove jene di - vastasyntynyt  
 nove ka - noviisi (uusikko, vasta-alkaja)  
 Nove Kaledonia - Uusi-Kaledonia  
 nove loga - uudissana  
@@ -2909,6 +2907,7 @@ sata di - hetkellinen
 Saturne - Saturnus  
 Saudi Arabia - Saudi Arabia  
 sauna - sauna  
+saur - lisko  
 saya - varjo  
 se - itse  
 se di - itsekäs  
@@ -3045,12 +3044,14 @@ siro - nolla (ei yhtään)
 siro jan - ei kukaan  
 siro sata - ei koskaan (ei kertaakaan)  
 siro she - ei mitään  
+siro she - ei mitään  
 sismologi - seismologia  
 sistem - järjestelmä (systeemi)  
 siu - ommella  
 Slave - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
+so - elementti (yksinkertaisin yksikkö)  
 soci - seura  
 soci di - yhteiskunnallinen (sosiaalinen)  
 soci jui - sosialismi  
@@ -3245,8 +3246,6 @@ tu su - sinun
 tualete - vessa  
 tubo - putki (tuubi)  
 tuh - sylkeä  
-tuka - loukkaus (törkeys)  
-tuka di - törkeä  
 tul - työkalu  
 tulpan - tulppaani  
 tumen - te  
@@ -3275,13 +3274,13 @@ uma - hevonen
 uma bichi - raippa  
 umami - umami (ruokaisanmakuinen)  
 un - yksi (1)  
-un deu jui - monismi  
-un deu jui ja - monoteismi (yksijumalisuus)  
+un deu jui - monoteismi (yksijumalisuus)  
 un mana di - yksimerkityksinen  
 un mar - kerran  
 un me - ensimmäinen (numero yksi)  
 un oko di lense - monokkeli  
 un rang di - yksivärinen  
+un she jui - monismi  
 un verse di - universaali  
 unike - vain (ainoa, ainut)  
 Unta Arabi Amir Desha (UAA) - Yhdistyneet Arabiemiirikunnat  

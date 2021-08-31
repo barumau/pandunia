@@ -138,6 +138,7 @@ baze bol - бейсбол
 baze shula kan - семилетка  
 be bio mute - заквасить  
 be bum - взрываться  
+be migra - переезжать  
 be pute - гнить (портиться)  
 be retro - возвращаться  
 be sabi vol - задуматься (думать, гадать)  
@@ -239,6 +240,7 @@ dai lasun - лук исполинский
 dai pau - пушка  
 dai pote - котёл  
 dai sheke - валун  
+daku - получить  
 dalil - доказательство  
 dance - танец  
 danga - звенеть  
@@ -270,9 +272,11 @@ din ja - верующий
 din shia - секта  
 dinamite - динамит  
 dinde - индюк  
+dino saur - динозавр  
 diorite - диорит  
 diske - диск  
 do long - далеко  
+do misal - например  
 dobe - кирпич  
 dokum - документ  
 dokumfilme - документальный фильм  
@@ -309,7 +313,6 @@ ekore - белка
 eletrolin - провод (кабель)  
 eletrorade - молния  
 elfe - эльф  
-em - элемент  
 emoje - смайлик (эмодзи)  
 emos - эмоция (чувство)  
 emoshal - настроение  
@@ -344,9 +347,13 @@ fa - делать
 fa bina - строить  
 fa dante - откусить  
 fa dika - целиться  
+fa forma - формировать  
 fa jene - родить  
 fa kancha dake - глазуровать  
+fa linke - соединить (подключить)  
 fa loka - ставить  
+fa min rai - недооценить  
+fa mol - молоть  
 fa nomi - организовать  
 fa onor - чтить  
 fa pede - пердеть  
@@ -395,7 +402,6 @@ fleche - стрела (стрелка)
 foba - страшить  
 fobu - бояться (страшиться)  
 fora - сверлить (бурить)  
-forma - формировать  
 foto - свет  
 foto frika - полировать  
 foto grafia - фотография  
@@ -439,7 +445,6 @@ geo metri - геометрия
 geo niche prizon - ублиет (подземная тюрьма)  
 geo politika - геополитика  
 geo termo - геотерма́льный  
-geta - получить  
 giau - учить (преподавать)  
 gida buku - путеводитель  
 gida ja - гид  
@@ -463,7 +468,7 @@ grom - гром
 grupe - группа  
 gubu - гиппопотам  
 guipapil - мак восточный  
-guke - хризантема садовая  
+guku hua - хризантема садовая  
 gul - гуль (вурдалак)  
 gula - глотать  
 gun - армия  
@@ -593,7 +598,7 @@ kaboga - тыква
 kafe - кофе  
 kafe kan - кафе (кофейня)  
 kafe pote - кофейник  
-kaguje - бумага  
+kaguji - бумага  
 kagujolimon - лайм  
 kala - чёрный  
 kalam - ручка  
@@ -651,7 +656,7 @@ kave - яма
 ke - что  
 kesha na di - безволосый  
 kim - вещество  
-kimem - химический элемент  
+kim so - химический элемент  
 kimlojia - химия  
 kimono - кимоно  
 kina - двигать  
@@ -724,7 +729,7 @@ laji bagi - свалка
 laji tong - мусорный бак  
 lal - красный  
 lal bau sheke - рубин  
-lal linche - рыжая рысь  
+lal lince - рыжая рысь  
 lal oranje - мандарин  
 lal salmon - нерка (красница)  
 lama - лама (религиозный учитель в тибетском буддизме)  
@@ -757,9 +762,8 @@ lilsheke - галька
 limon - лимон  
 limonike - цитрус  
 lin - линия (нитка)  
-linche - рысь  
-linem - волокно  
-linka - соединить (подключить)  
+lin so - волокно  
+lince - рысь  
 linke - связь (ссылка)  
 lisan - язык  
 liste - список  
@@ -769,9 +773,9 @@ loga - речь
 loga asal - этимология  
 loga di - лексический  
 loga jami - словарь  
+loga so - слово (речь)  
 loge - запись  
 loge buku - судовой журнал  
-logem - слово (речь)  
 loka - место  
 long dura - долго  
 long dura di - долгий (длительный)  
@@ -845,53 +849,49 @@ metregrafia - картография
 meza - стол  
 meza tela - скатерть  
 mi - я  
-migre - миграция  
-migru - переезжать  
+migra - миграция  
 mikro bio - микроб  
 mikro bio logi - микробиология  
 mikroskope - микроскоп  
 milke - молоко  
-milkokardon - расторопша пятнистая  
+milke kardon - расторопша пятнистая  
 mima - имитировать  
+mima ja - мим (имитатор)  
 mimen - мы  
 mimen su - наш  
-mimer - мим (имитатор)  
-minraya - недооценить  
 minta - мята  
-mirdi - слабый  
-misalo - например  
+mirde - слабый  
 mishe - мешать  
-mishi alkol - коктейль  
-Misria - Египет  
+mishe alkol - коктейль  
+Misri - Египет  
 mitre - метр  
-mokoban - доска (планка)  
-mokotan - бревно  
-moku - дерево  
-mola - молоть  
+mol kan - мельница  
+mol sheki - жёрнов  
 moli - жасмин  
-molia - мельница  
-molsheke - жёрнов  
 moluske - моллюск  
 mos - мох  
-mosi - мшистый  
+mos di - мшистый  
 mosim - время года (сезон)  
 Moskva - Москва  
 moto - мотор  
 moto sikle - мотоцикл  
+muku - дерево  
+muku ban - доска (планка)  
+muku tana - бревно  
 mula - корень  
-mummelon - восковая тыква (зимняя дыня)  
+mum melon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  
+mur kaguji - обои  
 murche - муравей  
-murkaguje - обои  
 mushu - мышь  
-muskulbin - культуризм  
+muskul bina - культуризм  
 muzika - музика  
 ####N - N  
 nadir - редкий  
 nadir mar - редко  
 najis - грязь (скверна)  
 nama - мясо  
-namkitaba - подписать  
+name kitabu - подписать  
 nanas - ананас  
 nardi - нарды (триктрак)   
 nasi - нация  
@@ -906,7 +906,6 @@ nefre - почка
 nefte - масло  
 Neputun - Нептун  
 nerve celu - нейрон  
-neujeni - новорождённый  
 nia - намерение  
 nide - гнездо (улей)  
 nilon - нейлон  
@@ -925,6 +924,7 @@ nostalgia - ностальгия (тоска)
 note she - запись (заметка)  
 nove - новинка (новь)  
 nove - новый  
+nove jene di - новорождённый  
 nove ka - новичок  
 nove loga - неологизм  
 nove ta - новизна  
@@ -1019,7 +1019,7 @@ pin kardon - татарник колючий
 pin sense di - пикантный  
 pince ban - планшет  
 pipre - перец  
-pipre minte - мята перечная  
+pipre minta - мята перечная  
 piram - пирамида  
 piza - пицца  
 plan - план  
@@ -1126,6 +1126,7 @@ sar na di - безголовый
 sata - момент  
 sata di - моментальный (минутный)  
 Saturne - Сатурн  
+saur - ящерица  
 se - себя (-ся)  
 se kon - друг друга  
 sekse logi - сексология  
@@ -1196,6 +1197,7 @@ sina plate - нагрудник
 sing - звезда  
 sir plan - заговор (сговор)  
 Slave - славянский  
+so - элемент  
 soci - общество (социум)  
 soci jinse - гендер  
 sofa - софа (диван, канапе)  
@@ -1244,7 +1246,7 @@ tail - черепи́ца
 taksi metre gi - таксометр  
 tal moku - куст  
 tal tela - ковёр  
-tan - стебель  
+tana - стебель  
 tarjum she - перевод  
 tasa - блюдо (таз)  
 tatu - татуировка (тату)  

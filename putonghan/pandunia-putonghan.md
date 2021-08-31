@@ -215,6 +215,7 @@ dai hai - 大洋 (大海)
 dai pau - 大炮  
 dai pote - 炼药锅  
 dai sheke - 磐石  
+daku - 获得  
 danger - 钟 (摇铃)  
 Danske - 丹麦的  
 dante balute - 槲树  
@@ -242,9 +243,11 @@ din shia - 教派
 dinamite - 甘油炸药  
 dinde - 火鸡  
 ding - 钉子  
+dino saur - 恐龙  
 diorite - 闪长岩  
 diske - 圆盘  
 do - 到  
+do misal - 比如  
 dobe - 砖  
 dokum - 文件  
 dokumfilme - 纪录片  
@@ -292,7 +295,10 @@ fa - 作
 fa bina - 建设  
 fa dante - 咬  
 fa dika - 瞄准  
+fa linke - 连接  
 fa loka - 放置  
+fa migra - 搬家  
+fa najis - 污染  
 fa nomi - 组织  
 fa pede - 放屁  
 fa ratibu - 整理  
@@ -376,7 +382,6 @@ geo grafi - 地理
 geo metri - 几何学  
 geo politika - 地缘政治  
 geo termo - 地热的  
-geta - 获得  
 giau - 教学  
 gida - 导游  
 gida buku - 指南  
@@ -399,7 +404,7 @@ grimas - 鬼脸
 Guangjou - 广州  
 gubu - 河马  
 guipapil - 鬼罂粟 (東方罌粟)  
-guke - 菊花  
+guku hua - 菊花  
 gun - 军队  
 gung - 工作  
 gung kan - 工厂  
@@ -525,7 +530,7 @@ kade - 鱈
 kafe - 咖啡  
 kafe kan - 咖啡馆  
 kafe pote - 咖啡壶  
-kaguje - 纸  
+kaguji - 纸  
 kagujolimon - 墨西哥萊檬  
 kala - 黑色  
 kalam - 笔  
@@ -585,7 +590,7 @@ kerne - 核心
 kesha na di - 无毛  
 kiau - 桥  
 kim - 物质  
-kimem - 元素  
+kim so - 元素  
 kimlojia - 化学  
 kimono - 和服  
 kina - 动  
@@ -647,7 +652,7 @@ laji bagi - 垃圾场
 laji tong - 垃圾桶  
 lal - 红  
 lal bau sheke - 红宝石  
-lal linche - 短尾貓  
+lal lince - 短尾貓  
 lal oranje - 柑橘 (红橘)  
 lal salmon - 紅鮭  
 lama - 喇嘛  
@@ -685,9 +690,8 @@ lilsheke - 砾石
 limon - 柠檬  
 limonike - 柑橘  
 lin - 线  
-linche - 猞猁 (山貓)  
-linem - 纤维  
-linka - 连接  
+lin so - 纤维  
+lince - 猞猁 (山貓)  
 linke - 联系  
 lisan - 舌头  
 liste - 单子  
@@ -695,9 +699,9 @@ litre - 升
 loga - 说话 (讲)  
 loga - 语言  
 loga jami - 词汇  
+loga so - 词  
 loge - 纪录  
 loge buku - 航海日志  
-logem - 词  
 loka - 地方  
 lon - 论  
 long - 长  
@@ -765,50 +769,47 @@ metregrafia - 地图学
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
-migra - 搬家  
 mikro bio - 微生物   
 mikro bio logi - 微生物学  
 mikroskope - 显微镜  
-milkokardon - 水飞蓟  
+milke kardon - 水飞蓟  
 mima - 模拟  (模仿)  
 mimen - 我们  
 mimen su - 我们的  
 minta - 薄荷  
-mirdi - 微弱的  
-misalo - 比如  
-Misria - 埃及  
-mita - 聚会  
-mite - 会议  
+mirde - 微弱的  
+Misri - 埃及  
+miti - 聚会  
+miti - 会议  
 mitre - 米 (公尺)  
-mokoban - 木板  
-mokojanger - 木匠  
-mokomate - 木材  
-mokotan - 原木  
-moku - 树木  
-mol - 摩尔 (单位)  
+mol kan - 磨坊  
+mol sheki - 磨石  
+mole - 摩尔 (单位)  
 molekul - 分子  
 moli - 茉莉  
 moli hua chai - 茉莉花茶  
-molia - 磨坊  
-molsheke - 磨石  
 mos - 苔藓  
 mosim - 季  
 moto - 马达 (发动机)  
+muku - 树木  
+muku ban - 木板  
+muku jang ja - 木匠  
+muku mate - 木材  
+muku tana - 原木  
 mula - 根  
-mumchape - 封印  
-mummelon - 冬瓜 (白瓜)  
+mum chape - 封印  
+mum melon - 冬瓜 (白瓜)  
 mur - 墙壁  
+mur kaguji - 壁纸 (墙纸)  
 murche - 蚂蚁  
-murkaguje - 壁纸 (墙纸)  
 mushu - 鼠  
-muskulbin - 健美运动  
+muskul bina - 健美运动  
 muzika - 音乐  
 ####N - N  
 nadir mar - 很少  
 najis - 污染物  
-najisa - 污染  
 nama - 肉  
-namkitaba - 签署  
+name kitabu - 签署  
 nasi medi - 国际  
 nautile - 鹦鹉螺  
 nave - 船 (艇)  
@@ -816,7 +817,7 @@ nave lefte - 左舷
 nave raite - 右舷  
 nefre - 肾脏  
 nefte - 油  
-neftoguke - 野菊花  
+nefte guku - 野菊花  
 nerve toksi - 神经毒素  
 nia - 意图  
 nide - 巢 (穴)  
@@ -916,7 +917,7 @@ pin - 别针
 pin chope - 镐  
 pin kardon - 大翅蓟  
 pipre - 胡椒  
-pipre minte - 辣薄荷  
+pipre minta - 辣薄荷  
 piram - 金字塔  
 plate geo kaske logi - 板块构造论  
 plate topo - 平原  
@@ -1007,6 +1008,7 @@ sar kesha na di - 秃头的
 sar na di - 无头的  
 sata - 时刻 (瞬间)  
 Saturne - 土星  
+saur - 蜥蜴  
 se di - 自私  
 se kon - 彼此  
 sekse logi - 性学  
@@ -1108,7 +1110,7 @@ tail - 砖 (瓦)
 taksi metre gi - 计程器  
 tal moku - 灌木  
 tam - 贪婪的  
-tan - 茎 (梗)  
+tana - 茎 (梗)  
 tarjum she - 翻译  
 tasa - 盘 (碟)  
 taza - 新鲜的  

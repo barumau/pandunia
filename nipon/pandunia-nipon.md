@@ -196,6 +196,7 @@ dai hai - 大洋 (大海)
 dai pau - 大砲  
 dai pote - 大釜 (大鍋)  
 dai sheke - 大石  
+daku - 受ける (もらう)  
 danger - 鐘 (鈴)  
 Danske - デンマークの  
 dante balute - カシワ  
@@ -227,8 +228,10 @@ din ja - 信徒 (信者)
 din shia - 教派  
 dinamite - ダイナマイト  
 dinde - 七面鳥  
+dino saur - 恐竜  
 diorite - 閃緑岩  
 diske - ディスク (円盤)  
+do misal - 例えば  
 dobe - レンガ (磚)  
 dokum - 書類 (文書, ドキュメント)  
 dokumfilme - ドキュメンタリー  
@@ -266,7 +269,6 @@ eletre - 電気
 eletrolin - 電線  
 eletrorade - 雷 (稲妻)  
 elfe - 妖精 (エルフ)  
-em - 元素 (-素)  
 emoje - 絵文字  
 englomargarite - ヒナギク  
 esh - 外  
@@ -290,6 +292,8 @@ fa bina - 建てる
 fa dante - 咬む  
 fa dika - 狙う  
 fa jene - 生む  
+fa linke - 繋ぐ  
+fa najis - 汚す  
 fa nomi - 組織する  
 fa numba - 数える  
 fa pede - おならをする  
@@ -384,7 +388,6 @@ geo logi - 地質学
 geo metri - 幾何学  
 geo niche di - 地中  
 geo niche prizon - 地下牢 (ダンジョン)  
-geta - 受ける (もらう)  
 gi - 装置 (機, 器)  
 giau - 教える (教義, 主義, -教)  
 giau ja - 教員  
@@ -407,7 +410,7 @@ grave - 砂利
 gubu - 河馬  
 gui - 鬼  
 guipapil - オニゲシ  
-guke - キク  
+guku hua - キク  
 gung - 労働  
 gung kan - 工場 (製造所)  
 gunjan - 軍人  
@@ -528,7 +531,7 @@ kade - 鱈
 kafe - コーヒー  
 kafe kan - カフェ (コーヒー店)  
 kafe pote - コーヒーポット  
-kaguje - 紙  
+kaguji - 紙  
 kagujolimon - メキシカンライム (マナオ)  
 kala - 黒い  
 kalam - ペン  
@@ -590,7 +593,7 @@ kesha - 毛
 kesha na di - 無毛  
 kili - 千 (１０００)  
 kim - 物質  
-kimem - 元素  
+kim so - 元素  
 kimlojia - 化学  
 kimono - 着物  
 kina - 動かす  
@@ -655,7 +658,7 @@ laji bagi - ゴミ捨て場
 laji tong - ごみ箱  
 lal - 赤い  
 lal bau sheke - ルビー  
-lal linche - ボブキャット  
+lal lince - ボブキャット  
 lal oranje - ポンカン (マンダリン)  
 lal salmon - ベニザケ  
 lama - ラマ (チベット仏教の上師)  
@@ -690,18 +693,17 @@ lilsheke - 小石
 limon - レモン  
 limonike - 柑橘  
 lin - 糸  
-linche - 大山猫  
-linem - 繊維  
-linka - 繋ぐ  
+lin so - 繊維  
+lince - 大山猫  
 linke - 繋がり (リンク)  
 lisan - 舌  
 litre - リットル  
 loga - 話す  
 loga - 演説  
 loga jami - 語彙  
+loga so - 言葉  
 loge - 記録  
 loge buku - 日誌  
-logem - 言葉  
 logi - 研究 (科学, 学)  
 loka - 場所  
 lona biznes - 話し合う (話を付ける)  
@@ -759,6 +761,7 @@ melon - マスクメロン
 mem - 記憶  
 mema - 思い出す  
 membin - 追悼塔 (碑)  
+men - ヌードル  
 mes bato - ８月  
 mes chatre - ４月  
 mes des - １０月  
@@ -781,59 +784,55 @@ meza tela - テーブル掛け
 meza topo - 台地 (高地)  
 mi - 私  
 mi su - 私の  
-mien - ヌードル  
 mikro bio - 微生物  
 mikro bio logi - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
-milkokardon - マリアアザミ  
+milke kardon - マリアアザミ  
+mima ja - 模倣者  
 mimen - 私たち  
-mimer - 模倣者  
 minta - ハッカ  
-mirdi - 微か  
-misalo - 例えば  
-mishi alkol - カクテル (混合酒)  
-Misria - エジプト  
-mita - 会う  
-mite - 会合 (会議, ミーティング)  
+mirde - 微か  
+mishe alkol - カクテル (混合酒)  
+Misri - エジプト  
+miti - 会う  
+miti - 会合 (会議, ミーティング)  
 mitre - メートル  
-mokotan - 丸木  
-moku - 木  
-mol - モル  
+mole - モル  
 molekul - 分子  
 moli - 茉莉  
 moli hua chai - 茉莉花茶  
 mos - 苔  
-mosi - 苔状  
+mos di - 苔状  
 mosim - 季節  
 moto - モーター (エンジン, 機関)  
 moto sikle - オートバイ (モーターサイクル)  
+muku - 木  
+muku tana - 丸木  
 mula - 根  
 multi - 多い  
-mummelon - トウガン  
+mum melon - トウガン  
 mun - 門  
 mur - 壁  
-murkaguje - 壁紙  
+mur kaguji - 壁紙  
 mushu - 鼠  
 muzika - 音楽  
 ####N - N  
 najis - 汚れ (汚染)  
-najisa - 汚す  
-najisbinde - 染み (汚点)  
-najisi - 汚い  
+najis bindu - 染み (汚点)  
+najis di - 汚い  
 nama - 肉  
 name - 名前  
-namkitaba - 署名する (サイン)  
+name kitabu - 署名する (サイン)  
 nasi medi - 国際的  
 nautile - オウムガイ  
 nave - 舟 (ボート)  
 nefre - 腎臓  
 nefte - 油 (オイル)  
-neftoguke - シマカンギク (アブラギク)  
+nefte guku - シマカンギク (アブラギク)  
 nen - 年  
 nerve toksi - 神経毒  
 nete - 網  
-neuyangi - 近代的  
 nia - 意図  
 niche - 下  
 nide - 巣  
@@ -854,6 +853,7 @@ nostalgia - 懐古 (懐旧)
 nove - 新しい  
 nove ka - 初心者  
 nove loga - 新語 (新造語)  
+nove yang di - 近代的  
 ####O - O  
 ocelote - オセロット  
 ohtopus - タコ  
@@ -919,7 +919,7 @@ pike - 先
 pin - 針 (刺, ピン)  
 pin kardon - ゴロツキアザミ  
 pince ban - 用箋挟  
-pipre minte - ペパーミント  
+pipre minta - ペパーミント  
 piram - ピラミッド (金字塔)  
 plate di - 平ら  
 plate geo kaske logi - プレートテクトニクス (プレート理論)  
@@ -1015,6 +1015,7 @@ sar - 頭
 sar kesha - 髪の毛 (頭髪)  
 sata - 瞬間  
 Saturne - 土星  
+saur - 蜥蜴  
 sekse logi - 性科学  
 sekur kopi - バックアップ (控え)  
 sekur numba - 暗証番号  
@@ -1072,6 +1073,7 @@ sing - 星
 sir plan - 陰謀  
 sir ta - 忍び  
 siro - 零 (０)  
+so - 元素 (-素)  
 soci - 社会  
 soci jinse - ジェンダー  
 sofa - ソファー  
@@ -1115,7 +1117,7 @@ table komputa - タブレットコンピュータ
 tail - タイル (瓦)  
 tal moku - 灌木 (藪)  
 tal tela - 絨毯 (カーペット)  
-tan - 茎 (胴)  
+tana - 茎 (胴)  
 tasa - 皿  
 tehne - 技術  
 tela - 布  
