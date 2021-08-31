@@ -418,8 +418,8 @@ Different scopes of negation may result depending on the location of the negativ
 
 ### Modifier particles
 
-Particles **su** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**su** connects the modifying word or phrase to the main noun word.
+Particles **di** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+**di** connects the modifying word or phrase to the main noun word.
 **da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### Modification with noun phrases
@@ -429,9 +429,9 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**roza rang su labi**
+**roza rang di labi**
 – rose-colored lips  
-**sama rang su oko**
+**sama rang di oko**
 – sky-colored eyes
 
 Or in the opposite order:
@@ -443,14 +443,14 @@ Or in the opposite order:
 
 The particles help in creating measure words too.
  
-**un sake su patate**
+**un sake di patate**
 – one sack of potatoes  
-**dul sake su patate**
+**dul sake di patate**
 – two sacks of potatoes  
-**mas sake su patate**
+**mas sake di patate**
 – more sacks of potatoes
 
-Note that **su** and **da** connect phrases together.
+Note that **di** and **da** connect phrases together.
 So a modifier phrase with and without **da** can mean a different thing.
 
 **mas sundar hua**
@@ -460,12 +460,12 @@ So a modifier phrase with and without **da** can mean a different thing.
 
 #### Modification with verb phrases
 
-Verbs are turned into modifiers by placing **da** or **su** immediately next to the verb.
+Verbs are turned into modifiers by placing **da** or **di** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
 **shutu da grafi pente**
 – the art of picture-painting (the art of painting pictures)  
-**alo su helpe su suka**
+**alo di helpe di suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
