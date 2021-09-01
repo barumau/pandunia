@@ -9,7 +9,7 @@ admirał - hai amir ja
 adres - adres  
 Afganistan - Afgan  
 Afryka - Afrika  
-agorafobia - medenfobia  
+agorafobia - meden fobi  
 agresywny - agresivi  
 agronomia - nong nomi  
 aj!, ał! - au  
@@ -26,8 +26,8 @@ akwarium - peshe tanke
 Alaska - Alaska  
 Albania - Chipe  
 ale, lecz - ama  
-alfabet łaciński, łacinka, alfabet rzymski - Latin harfi  
-alfabet, abecadło - harfi harfi  
+alfabet łaciński, łacinka, alfabet rzymski - Latin zi  
+alfabet, abecadło - zi sili  
 alga (wodorost) - alga  
 algebra - jebria  
 Algieria - Jayer  
@@ -75,7 +75,7 @@ arabski - arabi
 arachnofobia - arane fobi  
 arboretum - muku jong parke  
 arbuz - arbuza  
-archipelag - nesia grupe  
+archipelag - nesia jama  
 architekt - bina plan ja  
 architektura - bina plan  
 Argentyna - Argentina  
@@ -226,7 +226,7 @@ botanika - fito logi
 Botswana - Cuana  
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosna e Hercegovina  
-Boże Narodzenie - mesi jen  
+Boże Narodzenie - mesi jene  
 brawo (gratulacje) - bravo  
 Brazyla - Brazil  
 broda - barde  
@@ -249,7 +249,7 @@ Buddyzm - Buda din
 budynek (struktura) - bina  
 budżet - bujete  
 bufet (szwedzki stół) - bufete  
-bulwa - masmul  
+bulwa - masa mula  
 burak - bete  
 burak cukrowy - sukar bete  
 Burkina Faso - Burkina Faso  
@@ -262,7 +262,7 @@ butelka - botel
 Bułgaria - Bolgaria  
 bułka gotowana na parze - mantu  
 być - si  
-być mistrzem (być ekspertem) - mesta  
+być mistrzem (być ekspertem) - fa mestre  
 być o; dyskutować o - tema  
 być obok - lata  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
@@ -379,7 +379,7 @@ cynk - zinke
 Cypr - Kipris  
 Cypr Północny - Norde Kipris  
 cyrkon - zirkonium  
-cyrylica - Kiril harfi  
+cyrylica - Kiril zi  
 cytologia - celu logi  
 cytować - chita  
 cytryna - limon  
@@ -417,7 +417,7 @@ często - pa poli mar
 częstotliwość - poli mar ta  
 część (fragment, strzęp, kawałek, okruch) - parche  
 część, ułamek - fen  
-członek - member  
+członek - membre  
 człowiek, istota ludzka - insan  
 córka - femi pute  
 ####D - D  
@@ -456,7 +456,7 @@ deska - muku ban
 deszcz - shava  
 deszczowy -   
 detal, szczegół - detal  
-dewanagari - deu nagar harfi  
+dewanagari - deu nagar zi  
 dezaktualizować (pogorszyć) - dusdarja  
 diabelski, szatański - shatan di  
 diabeł, szatan - shatan ja  
@@ -470,8 +470,8 @@ dobry ... - salam di
 dobry los, szczęście - bon zar  
 dobry ranek - salam suba  
 dobry wieczór - salam sham  
+dodatkowy - bon mas she  
 dodatkowy - mas di  
-dodatkowy - mashboni  
 doktor (uczony, który osiągnął doktorat) - dotor  
 doktor, lekarz, uzdrowiciel - dava ja  
 doktorat - dotoria  
@@ -484,8 +484,8 @@ dom, mieszkanie - dom
 Dominika (Wspólnota Dominiki) - Dominika  
 domino - dominogem  
 domowy - domi  
-doradca (mentor) - menter  
-dorosły, dojrzały - maturi  
+doradca (mentor) - mentor  
+dorosły, dojrzały - matur  
 dorsz - kade  
 dorsz atlantycki - atlanti kade  
 dorsz pacyficzny - pace hai kade  
@@ -584,7 +584,7 @@ egzonim - eshnam
 egzoplaneta - eshplanete  
 einstein - ainstainium  
 ekologia (nauka o środowisku) - ekolojia  
-ekonomia - malnomia  
+ekonomia - mal nomi  
 ekran - ekran  
 ekskrement, gówno - kaka  
 eksplodować (wybuchnąć, wybuchać) - be bum  
@@ -874,7 +874,7 @@ hę?, co?, pardon? - he
 ####I - I  
 i, oraz - e  
 idea, pomysł - idea  
-ideogram - idea harfi  
+ideogram - idea zi  
 ideologii - jui  
 idiota - idiote  
 idiotyzm (głupota) - idiotia  
@@ -932,7 +932,7 @@ Izrael - Israel
 iść (przemieścić się) - kita  
 iść w dół (iść pod spód, iść na dno) - be niche  
 iść wzdłuż (pójść wzdłuż) - be ging  
-iść, maszerować - marcha  
+iść, maszerować - marche  
 ####J - J  
 ja, mnie - mi  
 jabłko - aple  
@@ -963,7 +963,7 @@ jebać, kopulować - choda
 jeden (1) - un  
 jednoczyć - fa un she  
 jednokolorowy (monochromatyczny) - un rang di  
-jednostka miary - metrun  
+jednostka miary - metre unta  
 jednoznaczny - un mana di  
 jedwab - silko  
 jedzenie, posiłek - yam she  
@@ -1042,9 +1042,9 @@ karawana - karvan
 karczoch hiszpański - kardonkarchof  
 karczoch zwyczajny - karchof  
 Karnataka - karnadia  
-karta - karde  
+karta - karte  
 kartka (dokument) - varka  
-kartografia - metregrafia  
+kartografia - metre grafi shutu  
 kasjer - kasher  
 kasta - jene klas  
 kaszel; kaszlnięcie - koso  
@@ -1103,7 +1103,7 @@ klucz - chabe
 kluska, knedel, pieróg; ravioli, pelmeni - pelmen  
 kminek - karavi  
 kobalt - kobalte  
-kobieta, dorosła samica - maturi fem  
+kobieta, dorosła samica - matur fem  
 kobieta; kobiecy - fem  
 kochany (drogi) - ami  
 kochać romantycznie - romance  
@@ -1146,7 +1146,7 @@ konfucjanizm - kongfuzistia
 Konfucjusz - Kongfuze  
 koniec - fin  
 konkani - Konkani  
-konkurować, rywalizować; odbyć mecz, odbywać mecz - mecha  
+konkurować, rywalizować; odbyć mecz, odbywać mecz - fa meche  
 konopie - ganja  
 konsekwencja, skutek - pos  
 konstytucja - baze kanun  
@@ -1183,8 +1183,8 @@ kosztowny (drogi) - kosti
 koszula - kamisa  
 kot - mau  
 kotwica - angar  
-kowadło - metalbede  
-kowal - metaljanger  
+kowadło - metal bede  
+kowal - metal jang ja  
 koza - be’e  
 koło - chakra  
 koło, okrąg - cirke  
@@ -1311,7 +1311,7 @@ Liberia - Liberia
 Libia - Libia  
 liczi - liche  
 liczność (mnóstwo) - multi ta  
-liczyć - fa numba  
+liczyć - fa nomer  
 Liechtenstein - Lihtenstain  
 liga (stowarzyszenie) - liga  
 lilak - lila  
@@ -1330,7 +1330,7 @@ lista, spis, wykaz - liste
 listopad - mes bato  
 listownicowiec - varka alga  
 lit - litium  
-litera, znak - harfi  
+litera, znak - fon zi  
 litewski - lietuva bash  
 litr - litre  
 Litwa - Lietuva  
@@ -1365,29 +1365,29 @@ luźna rozmowa, gadanina - blabla
 lód - ais  
 ####M - M  
 macka (czułek) - sense shaka  
-Madagaskar - Malagasia  
-madagaskarski; malagaski - malagasi  
+Madagaskar - Madagaskar  
+madagaskarski; malagaski - madagaskar di  
 madżong - majang  
 magazyn, dziennik, gazeta - gazeta  
-magenta - majenti  
-magia - magia  
+magenta - majenta  
+magia - magi  
 magiczny - magi  
-magik, czarownik - mager  
+magik, czarownik - magi ja  
 magma - pasta petra  
 magnes - manete  
-magnetyczny - maneti  
+magnetyczny - manete di  
 magnez - magesium  
 maj - mes du  
 Majotta - Mayote  
 mak lekarski - sona papil  
-mak polny - medenpapil  
+mak polny - meden papil  
 mak wschodni - guipapil  
-makaron - men  
+makaron - mien  
 Makau - Makau  
 maksimum - masim  
 maksymalny - masim di  
 malajski - malayali  
-malajski - malayi  
+malajski - malayu  
 malaria - malaria  
 malarz - pente ja  
 Malawi - Malavi  
@@ -1399,12 +1399,12 @@ mandarynka - lal oranje
 mandarynka Satsuma (pomarańcza Satsuma) - venjou oranje  
 mandaryński chiński, Putonghua - Putong Han  
 mangan - mangan  
-mango - mangou  
+mango - mango  
 mangostan - mangus  
 mangusta - mungus  
-manicheizm - manihayistia  
-maniok - manyoke  
-mapa - metregraf  
+manicheizm - mani din  
+maniok - manioka  
+mapa - metre grafi  
 marathi - marati  
 maraton - maraton  
 marchew - karote  
@@ -1412,7 +1412,7 @@ margaj (ocelot nadrzewny) - margai
 margaryna - margarin  
 Mariany Północne - Marian nesia  
 marmur - kalsokristal  
-Maroko - Magribia  
+Maroko - Magribe desha  
 Mars - Marse  
 martwić - duku  
 martwy, nieżywy, zabity - mata di  
@@ -1437,15 +1437,15 @@ materiał (składnik, zasób) - faida she
 matka, mama - ma  
 Mauretania - Muritania  
 Mauritius - Moris  
-Maya - mayan  
-małpa (znak na - adres harfi  
+Maya - maya  
+małpa (znak na - adres zi  
 mały; mało, trochę, nieco - lili  
 małżeństwo, związek małżeński - gami  
 małżonek (małżonka) - gami jan  
 mech - mos  
 mecz, rywalizacja - meche  
 medalion, medal - medal  
-media - medi ya  
+media - medi she  
 media społecznościowe - soci medi gi  
 meduza - haijel  
 medycyna - dava logi  
@@ -1477,7 +1477,7 @@ mielić - mol kan
 miesiąc - lun  
 mieszkać - doma  
 mieć (partykuła posiadania) - su  
-mieć (posiadać) - mala  
+mieć (posiadać) - fa mal  
 mieć (trzymać) - ha  
 mieć sens - be razon  
 migdał - badam  
@@ -1504,12 +1504,12 @@ minuta - minute
 minąć, mijać (czas) - durita  
 minąć, mijać, przeminąć, przemijać - pas  
 misja - mise she  
-mistrz (ekspert) - mester  
+mistrz (ekspert) - mestre  
 mistrz (sensei) - shifu  
 mit (boska opowieść) - deu kata  
 miód - medu  
 mięczak (morski bezkręgowiec) - moluske  
-między (wśród, pośród) - medu  
+między (wśród, pośród) - pa medi  
 międzyetniczny - zuku medi di  
 międzynarodowy - nasi medi  
 międzyrasowy - rasa medi  
@@ -1525,7 +1525,7 @@ miłość (afekt) - ai
 miłość romantyczna - romance  
 miły, przyjemny, uroczy - hushi  
 Mjanma, Birma - Myanma  
-mlecz - makanful  
+mlecz - makan hua  
 mleko - milke  
 mleko sojowe - soi milke  
 mniej - min  
@@ -1593,7 +1593,7 @@ mądrość - sofita
 mądry - sofi  
 męczyć się (nużyć się) - fatigu  
 męski - man  
-mężczyzna, dorosły samiec - maturi man  
+mężczyzna, dorosły samiec - matur man  
 młode drzewo - joveni moke  
 młodość - jovenia  
 młody - joveni  
@@ -1619,8 +1619,8 @@ nahuatl - nava
 najmniej, minimalnie - minim  
 naleśnik - krepe  
 naleśnikarnia - krepokan  
-należeć (być członkiem) - memba  
-należeć - malu  
+należeć (być członkiem) - si membre  
+należeć - be mal  
 namalować, malować - fa pente  
 namalować, malować - pente  
 Namibia - Namibia  
@@ -1729,7 +1729,7 @@ nosorożec - kornonos
 nosowy - nos di  
 nostalgia (tęsknota) - nostalgia  
 nostalgiczny - nostalgia di  
-notatka, memo - memnote  
+notatka, memo - mem note  
 notatnik - note buku  
 notować, obserwować, zauważyć, zauważać - note  
 Nowa Kaledonia - Nove Kaledonia  
@@ -1744,7 +1744,7 @@ nuda (znudzenie) - bori
 nudności (choroba lokomocyjna) - retro gula sense  
 nudysta - nude jui ja  
 nudyzm - nude jui  
-numer - numba  
+numer - nomer  
 nylon - nilon  
 nóż - chaku  
 ####O - O  
@@ -1857,7 +1857,7 @@ osoba - jan
 osoba biznesu, biznesman - bizneser  
 osoba dorosła - matur  
 osoba mówiąca w Panduni - pandunia ja  
-osobisty numer identyfikacyjny (pin) - sekur numba  
+osobisty numer identyfikacyjny (pin) - sekur nomer  
 osobisty, intymny, prywatny - auto di  
 ostatni, końcowy - finodi  
 ostropest plamisty - milke kardon  
@@ -1869,7 +1869,7 @@ oszacować, szacować, przybliżyć, przybliżać - fa yagu
 oszczędzać (deponować) - banka  
 oszukać (oszukiwać - fa truke  
 otoczyć, otaczać - fa cirke  
-otwarty (przestrzenny) - medeni  
+otwarty (przestrzenny) - meden di  
 otwarty, niezamknięty - kai  
 otworzyć (otwierać, odkluczyć, odkluczać) - an sora  
 otworzyć się, otwierać się - be kai  
@@ -1900,7 +1900,7 @@ Palau - Palau
 palec - angul  
 pallad - paladium  
 palma, drzewo palmowe - palme  
-pamiętać - mema  
+pamiętać - fa mem  
 pamięć - mem  
 panafrykański - pan afrika di  
 Panama - Panama  
@@ -2071,7 +2071,7 @@ podłoga - kamartal
 poemat - shir  
 poeta - shir ja  
 pogoda - sama hal  
-pogrubiona litera - gros harfi  
+pogrubiona litera - gros zi  
 poinformować, informować, zakomunikować, komunikować - konsavana  
 pojawić się - be zai  
 pojęciowy - idea di  
@@ -2102,7 +2102,7 @@ pomarańcza - oranje
 pomarańcza słodka (pomarańcza chińska) - sukar oranje  
 pomarańczowy - oranje rang  
 pomidor - tomate  
-pomnik (memoriał) - membin  
+pomnik (memoriał) - mem bina  
 pomoc, wsparcie - helpe  
 pomodlić się, modlić się - dua  
 pompować - pompe  
@@ -2233,7 +2233,7 @@ promień - radi
 promień światła - foto rade  
 proroctwo - nabi  
 prorok - nabi ja  
-prorok Mani - Manihai  
+prorok Mani - Mani  
 prosić - ching  
 prostopadły - orto gon di  
 prosty - orto  
@@ -2302,7 +2302,7 @@ przykryć, przykrywać, ukryć, ukrywać - daka
 przykład - misal  
 przymiotnik - sifa loga  
 przymus - deve ta  
-przyprawa - masale  
+przyprawa - masala  
 przyrostek (sufiks) - pos fikse  
 przyrostek dla ideologii - giau  
 przyrostek dla miejsca - ya  
@@ -2458,7 +2458,7 @@ roślina, sadzonka - fito
 rożen (szpikulec) - shish  
 rtęć - hidrargente  
 rubid - rubidium  
-rubin - lal bau sheke  
+rubin - rubi  
 ruch - kino  
 ruch - move  
 ruchowy, kinetyczny - kino di  
@@ -2646,7 +2646,7 @@ sos - sos
 sos jabłkowy - aple sos  
 sos sojowy - soi sos  
 sosna - song  
-spacja - hali harfi  
+spacja - hali zi  
 spadek, dziedzictwo, spuścizna, zapis - varis  
 spalić, palić - hoga  
 spać - sona  
@@ -2700,7 +2700,7 @@ stały (sztywny) - gatomati
 sterburta (prawa burta) - nave raite  
 sto (100) - cen  
 stojak (wieszak) - libobaze  
-stokrotka - margarite  
+stokrotka - margarita  
 stokrotka pospolita - englomargarite  
 stolarz - muku jang ja  
 stop; przerwa, zatrzymanie - ting  
@@ -2711,7 +2711,7 @@ stopień, poziom, ranga, klasa - darja
 stopniowy - darji  
 storczyk (orchidea) - orkide  
 stowarzyszać się (zrzeszać się) - liga  
-strach, fobia - fobia  
+strach, fobia - fobi  
 stracić (utracić, tracić, zgubuć, gubić) - shibai tena  
 strażnik więzienny - prizon ja  
 strażnik, ochroniarz - garder  
@@ -2744,7 +2744,7 @@ suszyć (wysuszyć) - gana
 Swalbard - Sualbarde  
 swastyka - huke krus  
 Syberia - Sibiria  
-syn - mani pute  
+syn - man ben  
 sypialnia - sona kamar  
 Syria - Suria  
 syrop - shirope  
@@ -2788,7 +2788,7 @@ szkoła (instytucja) - shula kan
 szkoła podstawowa - baze shula kan  
 szkło - kancha  
 szkło wulkaniczne - hogoshani kancha  
-szmaragd - zumarda  
+szmaragd - zumarde  
 szofer (kierowca) - shofer ja  
 szogun - gunrajer  
 szogunat - gun raja desha  
@@ -2821,7 +2821,7 @@ sędzia - juder
 słaby - debili  
 słodki - sukar di  
 słodki ziemniak - kamote  
-słonecznik - sol ful  
+słonecznik - sol hua  
 słony - sal di  
 Słowacja - Slovakia  
 Słowenia - Slovenia  
@@ -2921,7 +2921,7 @@ tolerować - tolera
 ton, dźwięk, nuta, tonacja - ton  
 tona - mega gram  
 Tonga - Tonga  
-topinambur - masmulsolful  
+topinambur - masa mula sol hua  
 topić (upłynnić, upłynniać) - yong safa  
 topnieć (upłynniać się) - yong  
 tor - torium  
@@ -3074,7 +3074,7 @@ wapno - kalsomate
 wapń - kalsium  
 warcaby - dama gem  
 warga - labi  
-warstwa (poziom, piętro, kondygnacja) - cheng  
+warstwa (poziom, piętro, kondygnacja) - ceng  
 warsztat szewski - sapatu kan  
 wartość - valu  
 warunek - sharti  
@@ -3205,7 +3205,7 @@ wskazać, wskazywać - ponte
 wskaźnik - ponte fleche  
 wspaniały - bon sifa di  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
-wsparcie (wzmocnienie, zasilenie) - mas forte  
+wsparcie (wzmocnienie, zasilenie) - mas forte ta  
 wspinać się (wspiąć się) - eskala  
 wspólny (wzajemny) - kon su  
 wspólny - komuni  
@@ -3246,7 +3246,7 @@ wymiotować (zwrócić) - retro gula
 wynająć, oddać w najem - kira dona  
 wynająć, oddać w najem - kira kape  
 wynająć, wynajmować, zatrudnić, zatrudniać - kira  
-wynik (punktacja) - punte numba  
+wynik (punktacja) - punte nomer  
 wyobrazić, wyobrażać, fantazjować - fantaza  
 wypełnić, wypełniać - fa pul  
 wyrok - jude  
@@ -3287,12 +3287,12 @@ wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - dute
 wątpliwy (niewiarygodny, podejrzany) - dutabli  
 wąż - serpe  
 węgiel - karbe  
-Węgry - Magyaria  
+Węgry - Magyar  
 węzeł, zupeł - node  
 władać, panować, rządzić jako imperator - imperi  
 władca - sultan ja  
 własność (mienie) - mal  
-właściciel (posiadacz) - malan  
+właściciel (posiadacz) - mal ja  
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - pa nove  
 włos - kesha  
@@ -3312,7 +3312,7 @@ zabroniony (wzbroniony, nielegalny, haram, tabu) - harami
 zabronić (wzbronić, zakazać) - harama  
 zabójca - mata ja  
 zachodni - veste di  
-zachowanie (maniery, kultura) - manir  
+zachowanie (maniery, kultura) - manira  
 zachować, zakonserwować, zachować, utrzymać - hafiza  
 zachowywać się (działać) - manira  
 zachwycający (zdumiewający, zadziwiający) - ajibu di  
@@ -3327,8 +3327,8 @@ zagraniczny - eshdeshi
 zagrożenie, niebezpieczeństwo - hatar  
 zaimek - vice loga  
 zainteresowanie, zaciekawienie; interesujący - sabi vol  
-zajęty - mangi  
-zaklecie - magasar  
+zajęty - mang  
+zaklecie - magi asar  
 zakrzywiony - kurvi  
 zakupy (sprawunki, shopping) - shopi  
 zakładać (założyć) - chenaga  
@@ -3387,7 +3387,7 @@ zawijać (zawinąć) - lifafa
 zawiązywać (zawiązać węzeł) - fa node  
 zawsze - pan sata  
 zazdrosny - jelosi  
-zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - marka  
+zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - fa marke  
 założyciel - baze ja  
 załącznik (przyrostek, afiks) - fikse  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taksi  
@@ -3396,8 +3396,8 @@ zbiorowy, zbiorczy - jama di
 zbliżać się (zbliżyć się) - karibu  
 zbroja - defkaske  
 zbudować, budować, konstruować - fa bina  
-zbyt - mas ze basa  
-zbyt mało - min ze basa  
+zbyt - mas ka basa  
+zbyt mało - min ka basa  
 zbłąkany (dewiacyjny, wykolejony) - rute galti  
 zbłąkać się (wykoleić się) - rute galta  
 zdanie (fraza) - jumle  
@@ -3417,7 +3417,7 @@ zgniły - pute
 zgodzić się (umówić się) - fa trati  
 ziarno (nasienie) - seme  
 ziarno, nasienie - seme dane  
-zielenina - choi  
+zielenina - coi  
 zielony - lugi  
 ziemia, grunt, gleba - geo  
 ziemniak - patate  
@@ -3462,7 +3462,7 @@ zupa - supa
 zwinny, sprawny - agile  
 związać, wiązać; zapiąć, zapinać - bande  
 związek, powiązanie, połączenie - guanshe  
-zwiększyć o jeden - masdarja  
+zwiększyć o jeden - mas darja  
 zwycięstwo, wygrana - sheng  
 zwyczajny (rutynowy, normalny) - ada di  
 zwykły, zwyczajny, prosty - sada  

@@ -15,7 +15,7 @@ adil - just (fair, righteous)
 adil kan - court of justice  
 adil ta - justice  
 adres - address  
-adres harfi - @ symbol  
+adres zi - @ symbol  
 Afgan - Afghanistan  
 Afrika - Africa  
 agile - agile  
@@ -533,7 +533,7 @@ chena - predate (be before)
 chenaga - assume (presuppose)  
 chendeno - yesterday  
 chenfikse - prefix  
-cheng - layer (level, storey, floor, stratum)  
+ceng - layer (level, storey, floor, stratum)  
 cheni - previous (fore)  
 chenike - relic  
 cheniki - old (ancient, former)  
@@ -569,7 +569,7 @@ chita - quote (cite)
 chitomarke - quotation mark  
 chize - cheese  
 choda - fuck (copulate)  
-choi - greens  
+coi - greens  
 choklate - chocolate  
 choklatobaton - chocolate bar  
 chongching - Chongqing  
@@ -699,7 +699,7 @@ deu din ja - theist
 deu kata - myth (divine story)  
 deu krati - theocracy  
 deu logi - theology  
-deu nagar harfi - Devanagari alphabet  
+deu nagar zi - Devanagari alphabet  
 deu sofi - theosophy  
 deve - must  
 deve ta - obligation (compulsion)  
@@ -981,7 +981,7 @@ fa node - tie a knot
 fa nomi - manage (organize)  
 fa note - notify  
 fa nove - renew (make new, renovate)  
-fa numba - count (enumerate)  
+fa nomer - count (enumerate)  
 fa okei - accept (say okay)  
 fa oko - eye (look, watch, observe, spectate)  
 fa onor - respect (honor, think highly of)  
@@ -1176,10 +1176,10 @@ fleche - arrow (bolt)
 flecher - fletcher  
 flerovium - flerovium  
 flur - fluorine  
-foba - scare (frighten)  
-fobani - scary (frightening)  
-fobi - afraid (scared)  
-fobia - fear (phobia)  
+fa fobi - scare (frighten)  
+fobi ja - scary (frightening)  
+fobi di - afraid (scared)  
+fobi - fear (phobia)  
 Fobos - Phobos  
 fobu - fear (be afraid)  
 fokus - focus (concentration)  
@@ -1395,7 +1395,7 @@ grimas - grimace
 grom - thunder (roaring)  
 gromtafun - thunderstorm  
 gros - thick  
-gros harfi - bold letter  
+gros zi - bold letter  
 grosta - thickness  
 grupe - group  
 gua - cave  
@@ -1456,7 +1456,7 @@ halaloliste - whitelist
 halela - praise (commend, exalt)  
 hali - void (empty space)  
 hali - empty (void)  
-hali harfi - space (character)  
+hali zi - space (character)  
 halifa - caliph  
 halifa desha - caliphate  
 halo - hello (hi)  
@@ -1482,8 +1482,8 @@ harabu mahala - slum
 harama - forbid (ban, disallow)  
 harami - forbidden (illicit, haram, taboo)  
 haramliste - blacklist  
-harfi - letter (character, written symbol)  
-harfi harfi - alphabet  
+fon zi - letter (character, written symbol)  
+zi sili - alphabet  
 harmoni - harmonious  
 harmonia - harmony  
 harnes - harness  
@@ -1602,7 +1602,7 @@ icha - will (want)
 icha - will (volition, desire)  
 idea - idea (concept, notion)  
 idea di - conceptual  
-idea harfi - ideogram  
+idea zi - ideogram  
 idiote - idiot  
 idioti - stupid (idiotic)  
 idiotia - idiocy (stupidity)  
@@ -1776,7 +1776,7 @@ justo - just (exactly, precisely)
 justopaver - sniper (sharpshooter)  
 ####K - K  
 ka - person engaged in a profession or practice (-ic, -er)  
-ka - than (as, compared to)  
+ka - than (as, compared to, relative to)  
 kababu - barbecue (grill)  
 kababu nama - grilled meat (kebab)  
 kabin - cabin (booth)  
@@ -1871,7 +1871,7 @@ karbe - carbon (coal)
 karbodulokside - carbon dioxide  
 karbosui - carbohydrate (saccharide)  
 karchof - globe artichoke  
-karde - card  
+karte - card  
 kardon - thistle  
 kardonkarchof - artichoke thistle (cardoon)  
 karer - worker  
@@ -1974,7 +1974,7 @@ kira kape - rent (charter, lease)
 kirate - carat  
 Kirgizia - Kyrgyzstan  
 Kiribati - Kiribati  
-Kiril harfi - Cyrillic alphabet  
+Kiril zi - Cyrillic alphabet  
 kisma - destiny (fate, lot, kismet)  
 kita - go (move away)  
 kitabu - write (text)  
@@ -2150,7 +2150,7 @@ laji bagi - dump (junk yard)
 laji tong - garbage can (trash bin)  
 laka - lacquer (varnish)  
 lal - red  
-lal bau sheke - ruby  
+rubi - ruby  
 lal lince - bobcat  
 lal oranje - mandarin orange (tangerine)  
 lal salmon - sockeye salmon  
@@ -2173,7 +2173,7 @@ lasun - garlic
 lata - be beside (accompany)  
 late - side (flank)  
 lati - lateral (horizontal)  
-Latin harfi - Latin alphabet  
+Latin zi - Latin alphabet  
 lato - sideways (laterally)  
 latojan - companion (partner, sidekick)  
 Latvia - Latvia  
@@ -2302,99 +2302,99 @@ Luter din ja - Lutheran
 lutetium - lutetium  
 ####M - M  
 ma - mother (mom, mama)  
-ma de ma - maternal grandmother  
-ma de pa - maternal grandfather  
+ma ma - maternal grandmother  
+ma pa - maternal grandfather  
 maf - pardon (forgiveness; sorry)  
-mafa - forgive (pardon)  
-magasar - spell (enchantment)  
-mager - magician (sorcerer)  
+fa maf - forgive (pardon)  
+magi asar - spell (enchantment)  
+magi ja - magician (sorcerer)  
 magesium - magnesium  
 magi - magical  
-magia - magic  
-Magribia - Morocco  
-Magyaria - Hungary  
+magi - magic  
+Magribe desha - Morocco  
+Magyar - Hungary  
 mahala - quarter (neighbourhood, district, locality, section of town)  
 mais - corn (maize)  
 maitnerium - meitnerium  
 majang - mahjong  
-majenti - magenta (fuchsia)  
+majenta - magenta (fuchsia)  
 Makah - Mecca  
 makala - article (writing)  
 makan - butter  
-makanful - dandelion  
+makan hua - dandelion  
 makas - scissors (shears)  
 Makau - Macao  
 mal - property (belongings, possessions)  
-mala - own (possess, have)  
-malagasi - Malagasy  
-Malagasia - Madagascar  
+fa mal - own (possess, have)  
+madagaskar di - Malagasy  
+Madagaskar - Madagascar  
 Malaisia - Malaysia  
-malan - owner (proprietor)  
+mal ja - owner (proprietor)  
 malaria - malaria  
 Malavi - Malawi  
 malayali - Malayali (Malayalam)  
-malayi - Malay  
+malayu - Malay  
 Mali - Mali  
-malnomia - economics  
+mal nomi - economics  
 Malta - Malta  
-malu - belong  
+be mal - belong  
 Malvinas nesia - Falkland Islands (Malvinas)  
-mam - breast (boob, tit)  
+titi - breast (boob, tit)  
 mamal - mammal  
 man - male  
 man raja - king  
 mana - meaning (signification)  
 manete - magnet  
-maneti - magnetic  
+manete di - magnetic  
 mangan - manganese  
-mangi - busy (occupied)  
-mangou - mango  
+mang - busy (occupied)  
+mango - mango  
 mangus - mangosteen  
-mani pute - son  
-Manihai - prophet Mani  
-manihayistia - Manichaeism  
+man ben - son  
+Mani - prophet Mani  
+mani din - Manichaeism  
 Manin nes - Isle of Man  
-manir - behavior (manners)  
+manira - behavior (manners)  
 manira - behave (act)  
 mantol - cape (cloak, mantle)  
 mantra - chant  
-mantre - mantra  
+mantra - mantra  
 mantu - steamed bun (mantou, manti)  
-manyoke - cassava (manioc)  
+manioka - cassava (manioc)  
 mar - time (instance, occasion)  
 marati - Marathi  
 maraton - marathon  
-marcha - walk (march)  
+marche - walk (march)  
 margai - margay  
 margarin - margarine  
-margarite - daisy  
+margarita - daisy  
 Marian nesia - Northern Mariana Islands  
-marka - mark (leave a mark)  
+fa marke - mark (leave a mark)  
 marke - mark (trace)  
 Marse - Mars  
 Marshal nesia - Marshall Islands  
 mas - more  
-mas - also (too)  
+e mas - also (too)  
 mas di - additional  
 mas di fen - majority  
 mas fili - prefer (favor)  
 mas fili di - favorite (preferred)  
 mas fili jui - favoritism  
-mas forte - reinforcements  
-mas ze basa - too much  
+mas forte ta - reinforcements  
+mas ka basa - too much  
 masa - mass (quantity of matter)  
 masaje - knead (massage)  
 masaje - massage  
 masala tika - tikka masala  
-masale - spice (seasoning)  
-masdarja - increment  
-mashboni - bonus  
+masala - spice (seasoning)  
+mas darja - increment  
+bon mas she - bonus  
 masim - most (maximally)  
 masim - maximum  
 masim di - maximal  
 maska - mask (camouflage)  
-masmul - tuber (bulb)  
-masmulsolful - Jerusalem artichoke (sunroot)  
+masa mula - tuber (bulb)  
+masa mula sol hua - Jerusalem artichoke (sunroot)  
 masta - mast  
 mata - death  
 mata di - dead (deceased)  
@@ -2403,27 +2403,27 @@ mate - matter (substance)
 mate di - material  
 matras - mattress  
 matur - adult  
-maturi - mature (ripe, adult)  
-maturi fem - woman (adult female)  
-maturi man - man (adult male)  
+matur - mature (ripe, adult)  
+matur fem - woman (adult female)  
+matur man - man (adult male)  
 mau - cat  
-mayan - Maya  
+maya - Maya  
 Mayote - Mayotte  
 maze - sock (stocking)  
 me poze - rank (position in an ordered list)  
-mecha - compete (have a match)  
+fa meche - compete (have a match)  
 meche - match (contest)  
 medal - medallion (medal)  
 meden - field (square, plaza, maidan)  
-medenfobia - agoraphobia  
-medeni - open (wide, spacious)  
-medenpapil - corn poppy  
+meden fobi - agoraphobia  
+meden di - open (wide, spacious)  
+meden papil - corn poppy  
 medi - middle (the part in between)  
 medi - medium (intermediate, mean)  
 medi face - interface  
 medi gi - instrument (means)  
-medi ya - medium (media)  
-medu - among (amid, between)  
+medi she - medium (media)  
+pa medi - among (amid, between)  
 medu - honey  
 medu fong - honeybee  
 medu fong nide - beehive (honeycomb)  
@@ -2437,18 +2437,18 @@ melodi - melodious (melodic)
 melodi - melody  
 melon - muskmelon  
 mem - memory (recollection)  
-mema - remember (recall)  
-memba - belong (be a member)  
-member - member (component)  
-membin - monument (memorial)  
+fa mem - remember (recall)  
+si membre - belong (be a member)  
+membre - member (component)  
+mem bina - monument (memorial)  
 meme - sheep  
 meme kesh - wool (fleece)  
-memnote - memorandum (memo)  
+mem note - memorandum (memo)  
 men - one (you, they, impersonal pronoun)  
-men - noodle  
+mien - noodle  
 meninge - meninx (meninges)  
 meninge flame - meningitis  
-menter - advisor (counselor, mentor)  
+mentor - advisor (counselor, mentor)  
 merante - lauan tree (meranti, balau)  
 Merkur - Mercury  
 mes bato - August  
@@ -2467,18 +2467,19 @@ mesi - Christ (messiah)
 mesi di - messianic  
 mesi din - Christianity  
 mesi din ja - Christian  
-mesi jen - Christmas  
-mesta - master (be an expert at sth)  
-mester - master (expert)  
+mesi jene - Christmas  
+fa mestre - master (be an expert at sth)  
+mestre - master (expert)  
 metal - metal  
-metalbede - anvil  
-metaljanger - blacksmith (iron forger)  
-metallin - wire  
+metal bede - anvil  
+metal jang ja - blacksmith (iron forger)  
+metal lin - wire  
 metre - measure (measurement)  
 metre gi - meter (measuring device)  
-metregraf - map (chart)  
-metregrafia - cartography  
-metrun - unit (measurement)  
+metre grafi - chart (map, graph, blueprint)  
+topo metre grafi - map (chart, geographic map)  
+metre grafi shutu - cartography  
+metre unta - unit (measurement)  
 meza - table  
 meza tela - tablecloth  
 meza topo - plateau (tableland)  
@@ -2502,7 +2503,7 @@ mimen su - our
 min - less  
 min di fen - minority  
 min poli - less (fewer)  
-min ze basa - too little  
+min ka basa - too little  
 minare - tower  
 ming - bright (brilliant, clear)  
 minim - least (minimally)  
@@ -2664,7 +2665,7 @@ nerve di - neural
 nerve pati - neuropathy  
 nerve toksi - neurotoxin  
 nesia - island  
-nesia grupe - archipelago  
+nesia jama - archipelago (island chain)  
 nete - net (web, mesh)  
 nete dona - upload  
 nete gete - download  
@@ -2742,7 +2743,7 @@ nu - well (now; used to introduce a statement)
 nude - naked (bare, nude)  
 nude jui - nudism  
 nude jui ja - nudist  
-numba - number  
+nomer - number  
 ####O - O  
 o - or  
 Oberon - Oberon  
@@ -2862,7 +2863,7 @@ Papua Nove Ginia - Papua New Guinea
 par - even (level, peer, equal)  
 par face - level  
 par jan - peer  
-par numba - even number  
+par nomer - even number  
 par veze ta - equilibrium (balance)  
 Paraguai - Paraguay  
 param - parameter (argument, input variable)  
@@ -3077,7 +3078,7 @@ pulmon flame - pneumonia
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 punte ban - scoreboard  
-punte numba - score (grade)  
+punte nomer - score (grade)  
 pupe - doll (puppet)  
 pusha - push  
 pusha gi - piston  
@@ -3324,7 +3325,7 @@ sekunde - second(s)
 sekur - safe (secure, protected)  
 sekur kode - password (security code)  
 sekur kopi - backup  
-sekur numba - personal identification number (PIN)  
+sekur nomer - personal identification number (PIN)  
 sela - should (ought)  
 sela loga - advice (counsel)  
 selenium - selenium  
@@ -3495,7 +3496,7 @@ sol - sun
 sol centaure - yellow starthistle  
 sol chati - parasol  
 sol estaci - solstice  
-sol ful - sunflower  
+sol hua - sunflower  
 sol sistem - solar system  
 Solomon nesia - Solomon Islands  
 Somal - Somalia  
@@ -4002,7 +4003,7 @@ zuku - ethnic group
 zuku di - ethnic  
 zuku medi di - interethnic  
 Zulu - Zulu  
-zumarda - emerald  
+zumarde - emerald  
  - overestimate  
  - snow (be snowing)  
  - valid (workable)  

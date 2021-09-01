@@ -5,7 +5,7 @@ abedul - betula
 abeja - medu fong  
 abeja o avispa - fong  
 abeto - abies  
-abierto (extenso) - medeni  
+abierto (extenso) - meden di  
 abierto - kai  
 abirse - be kai  
 Abisinia - Habasha  
@@ -35,7 +35,7 @@ aclarar (clarificar) - klara
 aconsejar - fa sela  
 acontecimiento (caso, suceso, evento) - kas  
 acordar - fa sam rai  
-acordarse - mema  
+acordarse - fa mem  
 acortar (abreviar) - korte fa  
 acostar (poner) - kusha  
 acostarse (echarse, tenderse, tumbarse) - kushu  
@@ -53,7 +53,7 @@ acuario (pecera) - peshe tanke
 acuerdo - sam rai  
 acuoso - sui di  
 adelante - jino  
-además - mas  
+además - e mas  
 adhesivo - glute grafi  
 adicional (extra) - mas di  
 adiós - salam chutu  
@@ -72,7 +72,7 @@ afecto (emoción) - emos
 Afganistán - Afgan  
 afrontar - verse  
 agacharse - insida  
-agorafobia - medenfobia  
+agorafobia - meden fobi  
 agosto - mes bato  
 agradecer - fa shukra  
 agresivo - agresivi  
@@ -93,7 +93,7 @@ ajo - lasun
 ajonjolí (sésamo) - sesam  
 al revés - retro  
 ala - ving  
-alambre (hilo) - metallin  
+alambre (hilo) - metal lin  
 alargar - fa long  
 Alaska - Alaska  
 Albania - Chipe  
@@ -106,9 +106,9 @@ alcohólico - alkol di
 aldea - chun  
 Alemania - Doiche  
 alemán - doichi  
-alfabeto - harfi harfi  
-alfabeto cirílico - Kiril harfi  
-alfabeto latino - Latin harfi  
+alfabeto - zi sili  
+alfabeto cirílico - Kiril zi  
+alfabeto latino - Latin zi  
 alfarero - pote ja  
 alfarería - pote shutu  
 alfiler (espina, aguja) - pin  
@@ -143,7 +143,7 @@ alófono - alo fon
 alúmina - alumin okside  
 amado (cariño) - ai jen  
 amante (enamorado) - ai ja  
-amapola silvestre - medenpapil  
+amapola silvestre - meden papil  
 amar románticamente - romance  
 amargo - kali guste  
 amarillo - limonrangi  
@@ -213,7 +213,7 @@ arboreto - muku jong parke
 arbusto (mata) - tal moku  
 arca de la Alianza - liga di sanduku  
 arca de Noé - Noe di nave  
-archipiélago - nesia grupe  
+archipiélago - nesia jama  
 archipiélago de Hawái - Havai nesia  
 arcilla (barro) - glute fan  
 arco - arka  
@@ -241,7 +241,7 @@ arquitectura - bina plan
 arrastrar - trator  
 arreglo - shuli  
 arriesgado - risko di  
-arroba (@) - adres harfi  
+arroba (@) - adres zi  
 arromántico - an romanse  
 arroz - ris  
 arruinado (devastado, asolado) - harabu  
@@ -277,8 +277,8 @@ astronave (nave estelar) - astro nave
 astronomía - astro nomi  
 astrónomo - astro nomi ja  
 asunto (caso) - sual tema  
-asustador - fobani  
-asustar (atemorizar) - foba  
+asustador - fobi ja  
+asustar (atemorizar) - fa fobi  
 ataque - agres  
 atar (amarrar) - bande  
 Atenas - Athina  
@@ -527,7 +527,7 @@ cambio climático - klimmute
 Camboya - Kambojia  
 camello - gamel  
 Camerún - Kamerun  
-caminar (marchar, andar) - marcha  
+caminar (marchar, andar) - marche  
 camino (calle) - dau  
 camisa - kamisa  
 camote (batata) - kamote  
@@ -551,7 +551,7 @@ cantar - chante
 cantidad - poli ta  
 caos (desorden) - haos  
 capa (manto) - mantol  
-capa (piso, planta, estrato) - cheng  
+capa (piso, planta, estrato) - ceng  
 capaz - bil ja  
 capitán - nave shefe  
 capturar (apresar) - kape  
@@ -582,7 +582,8 @@ carpa (toldo) - hemah
 carpeta - dokum sanduku  
 carpintero - muku jang ja  
 carrera - pei gung jiu  
-cartografía - metregrafia  
+carta (mapa, tabla, gráfico) - metre grafi  
+cartografía - metre grafi shutu  
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
@@ -758,10 +759,10 @@ compatible - konfunchabli
 compatriota - sam desha jan  
 compañero (compinche) - latojan  
 compañía (empresa, corporación) - kompania  
-competir - mecha  
+competir - fa meche  
 completar (terminar) - pul fina  
 complot (conspiración) - sir plan  
-comportamiento (conducta) - manir  
+comportamiento (conducta) - manira  
 comportarse (portarse) - manira  
 compota de manzanas - aple sos  
 comprador - shopi ja  
@@ -795,7 +796,7 @@ cono - konus
 conocido -   
 consecuencia (siguiente) - pos  
 conseguir (obtener, recibir) - daku  
-consejero (asesor) - menter  
+consejero (asesor) - mentor  
 consejo - sela loga  
 conservar (preservar, mantener) - hafiza  
 considerar (reflexionar, pensar en) - hema  
@@ -804,7 +805,7 @@ constitución - baze kanun
 construir (edificar) - fa bina  
 consultor - kon sela ja  
 contaminación (corrupción, porquería, suciedad) - najis  
-contar - fa numba  
+contar - fa nomer  
 contenedor - inan  
 contener - inda  
 contenido - inite  
@@ -984,8 +985,8 @@ dejar - lasha
 dejar caer - fa pade  
 delfín - dolfin  
 delicioso - bon guste di  
-demasiado - mas ze basa  
-demasiado poco - min ze basa  
+demasiado - mas ka basa  
+demasiado poco - min ka basa  
 demencia (locura) - folia  
 demente (loco, insensato) - foli  
 democracia - demokrati  
@@ -1028,14 +1029,14 @@ destinar - fa gol
 destino - kisma  
 detalle - detal  
 detestar - an ai  
-devanágari - deu nagar harfi  
+devanágari - deu nagar zi  
 devolver (vomitar) - retro gula  
 diagonal - transe gon di  
 diamante - almas  
 dibujar (trazar) - grafi  
 dibujo (diseño) - desen  
 diente - dante  
-dientes de león (panaderos) - makanful  
+dientes de león (panaderos) - makan hua  
 diez (10) - des  
 diferencia - alo sifa  
 diferenciar (distinguir) - hasa  
@@ -1088,7 +1089,7 @@ doloroso - pasi di
 domar (amansar) - dosila  
 domesticado - dosiljeni  
 domesticar (cultivate) - dosiljenita  
-dominar - mesta  
+dominar - fa mestre  
 domingo - var sete  
 Dominica - Dominika  
 dominio (reinado) - krati  
@@ -1106,7 +1107,7 @@ dualismo - dulistia
 dubnio - dubnium  
 ducha - dush  
 duda - dute  
-dueño - malan  
+dueño - mal ja  
 durable - durabli  
 duración - dur  
 durar (durante, llevar tiempo) - dura  
@@ -1121,7 +1122,7 @@ dónde - pa ke
 ####E - E  
 eco - mira sonde  
 ecología - ekolojia  
-economía - malnomia  
+economía - mal nomi  
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
 ecuador - geyoparlin  
@@ -1204,7 +1205,7 @@ entender (comprender) - aha
 entero (todo) - holi  
 entrada - jinmun  
 entrar - intru  
-entre - medu  
+entre - pa medi  
 entregar (enviar) - karmisa  
 entristecer (poner triste) - duka  
 enviar (transmitar) - mise  
@@ -1256,13 +1257,13 @@ eslabón - sili tika
 eslavo - Slave  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
-esmeralda - zumarda  
+esmeralda - zumarde  
 espacio (separación) - hali  
-espacio (texto) - hali harfi  
+espacio (texto) - hali zi  
 espada - katane  
 espalda (lomo) - ruke  
 España - Espanya  
-especia - masale  
+especia - masala  
 especial (diferenciado, distinto) - hasi  
 especialización (distinción) - hasia  
 especie - jong  
@@ -1375,7 +1376,7 @@ feministe - femiste
 feo - dusvidi  
 fermentar - be bio mute  
 fermio - fermium  
-fideo (tallarín) - men  
+fideo (tallarín) - mien  
 fiebrie (calentura) - febre  
 fijar (pegar, asegurar) - fiksa  
 Fiji - Fiji  
@@ -1511,7 +1512,7 @@ Gibraltar - Jibraltar
 giga- - giga  
 ginseng - jenshen  
 girar (rotar) - rota  
-girasol - sol ful  
+girasol - sol hua  
 global (de todo el mundo) - pan dunia di  
 global (mundial) - duni  
 globo - balon  
@@ -1615,7 +1616,7 @@ hercio (Hz) - herze
 hermano o hermana - brus  
 hermoso (bello, lindo) - sundar  
 herramienta - tul  
-herrero - metaljanger  
+herrero - metal jang ja  
 hervidor (tetera) - ketle  
 hervir (cocer) - boli  
 hervirse (ser cocida) - be boli  
@@ -1631,7 +1632,7 @@ hierro - fere
 higiene - salu safa ta  
 hija - femi pute  
 hijastro o  hijastra - gami ben  
-hijo - mani pute  
+hijo - man ben  
 hijo o hija - ben  
 Himalaya - Himalia  
 hinduismo - Hindu din  
@@ -1649,7 +1650,7 @@ hoja - varka
 holmio - holmium  
 holograma - holgraf  
 holoturia (pepino de mar) - haihiyar  
-hombre (señor) - maturi man  
+hombre (señor) - matur man  
 hombro - kante  
 homorromántico - sam romance di  
 homosexual - sam sekse di  
@@ -1683,7 +1684,7 @@ humor - emoshal
 humorista - yumor ja  
 humorístico (gracioso, cómico) - yumor di  
 humus - humus sos  
-Hungría - Magyaria  
+Hungría - Magyar  
 huracán (tifón) - rota tafun  
 hurra - ura  
 hurón - furete  
@@ -1693,7 +1694,7 @@ híbrido (mestizo) - hibride
 ####I - I  
 idea (noción, concepto) - idea  
 idea (pensamiento, reflexión) - fikir  
-ideograma - idea harfi  
+ideograma - idea zi  
 ideología (doctrina, -ismo) - jui  
 idioma artificial (lengua construida, conlang) - cana basha  
 idioma bengalí - bangla basha  
@@ -1936,8 +1937,8 @@ lente - lense
 lento (despacio) - lenti  
 Lesoto - Soto  
 Letonia - Latvia  
-letra (carácter) - harfi  
-letra negrita - gros harfi  
+letra (carácter) - fon zi  
+letra negrita - gros zi  
 levadura - hamir  
 levantar (elevar) - gava  
 leño (tronca) - muku tana  
@@ -2037,32 +2038,32 @@ Macedonia del Norte - Norde Makedonia
 maceta (plantera) - hua pote  
 macrial (militar) - jengi  
 macroalga - hai alga  
-Madagascar - Malagasia  
+Madagascar - Madagaskar  
 madera - muku mate  
 madrastra - vice ma  
 madre (mamá) - ma  
-maduro (adulto, curado) - maturi  
-maestro (experto) - mester  
+maduro (adulto, curado) - matur  
+maestro (experto) - mestre  
 maestro (gurú, sabio, profesor) - guru  
 maestro (profesor) - shifu  
 maestro (profesor, docente) - shula guru  
-magenta (fucsia) - majenti  
-magia - magia  
+magenta (fucsia) - majenta  
+magia - magi  
 magical - magi  
 magma - pasta petra  
 magnesio - magesium  
-magnético - maneti  
-mago - mager  
+magnético - manete di  
+mago - magi ja  
 mahjong - majang  
 malaria (paludismo) - malaria  
 Malasia - Malaisia  
 Malaui - Malavi  
 malayali (malabar, malayalam) - malayali  
-malayo - malayi  
+malayo - malayu  
 maldición - lana  
 Maldivas - Divehia  
 maleable - plasti di  
-malgache - malagasi  
+malgache - madagaskar di  
 Mali - Mali  
 malinterpretar - galto buda  
 malo (difícil, duro) - dusi  
@@ -2072,22 +2073,22 @@ mancha - najis bindu
 mandarina (tangerina) - lal oranje  
 manga - kamisa shaka  
 manganeso - mangan  
-mango - mangou  
+mango - mango  
 mangosta - mungus  
 mangostán (jobo de la India) - mangus  
-maniqueísmo - manihayistia  
+maniqueísmo - mani din  
 mano - hande  
 manso (dócil, obediente) - dosili  
 mantel - meza tela  
 mantener (detener) - fa estaci  
 mantequilla - makan  
-mantra - mantre  
+mantra - mantra  
 manual - handi  
 manzana - aple  
 manzanilla de Castilla - kamil  
 manzanilla romana (camomila común) - roma kamil  
 maní - geo dou  
-mapa - metregraf  
+mapa - topo metre grafi  
 mapache - vashi urso  
 mar - hai  
 maratí - marati  
@@ -2097,18 +2098,18 @@ maravilloso (asombroso) - ajibu di
 maravilloso (magnífico) - super  
 marca (huella, mancha) - marke  
 marcador - punte ban  
-marcar - marka  
+marcar - fa marke  
 marcha - marche  
 marco - frem  
 margarina - margarin  
 margarita - baki margarite  
-margarita - margarite  
+margarita - margarita  
 margarita común (pascueta) - englomargarite  
 marina (armada) - haigun  
 marioneta (títere) - pupe  
 mariposa (palomilla) - pelpel  
 marmól - kalsokristal  
-Marruecos - Magribia  
+Marruecos - Magribe desha  
 marrón - brun  
 Marte - Marse  
 martes - var du  
@@ -2127,7 +2128,7 @@ matemático - hisabolojer
 material - mate di  
 Mauricio - Moris  
 mauritania - Muritania  
-maya - mayan  
+maya - maya  
 mayo - mes penta  
 mayoría - mas di fen  
 Mayotte (Mahoré) - Mayote  
@@ -2144,7 +2145,7 @@ medidor - metre gi
 medio (instrumento) - medi gi  
 medio (mediano) - medi  
 medio - medi  
-medio - medi ya  
+medio - medi she  
 medioambiente (naturaleza) - ekia  
 medir (medida) - metre  
 meditar (reflexionar) - jen  
@@ -2161,7 +2162,7 @@ melón cantalupo - kantalupomelon
 melón coreano - aroma melon  
 melón verde - lugi melon  
 memoria - mem  
-memorándum (nota) - memnote  
+memorándum (nota) - mem note  
 meninge - meninge  
 meningitis - meninge flame  
 menor (leve) - minor  
@@ -2195,9 +2196,9 @@ microbiología - mikro bio logi
 Micronesia - Mikronesia  
 microscopio - mikroskope  
 Midsommar - garma mosim medi den  
-miedo (-fobia) - fobia  
+miedo (-fobia) - fobi  
 miel - medu  
-miembro (componente) - member  
+miembro (componente) - membre  
 mierda - shite  
 migración - migra  
 migrar (emigrar, tralsadar) - fa migra  
@@ -2253,7 +2254,7 @@ monoteismo - un deu jui
 monstro - monoster  
 montaña (colina) - shan  
 Montenegro - Chernagora  
-monumento - membin  
+monumento - mem bina  
 monóculo - un oko di lense  
 monólogo - auto loga  
 morado (púrpura) - violeta blu  
@@ -2281,7 +2282,7 @@ muela - mol sheki
 muerte (fallecimiento) - mata  
 muerto - mata di  
 mujer (hembra) - fem  
-mujer (señora) - maturi fem  
+mujer (señora) - matur fem  
 mula - iha uma  
 multicultural - poli kultur di  
 multiculturalismo - poli kultur jui  
@@ -2331,7 +2332,7 @@ natrón - natre bilor
 nautilo - nautile  
 nave espacial - kosmo nave  
 navegar (ir en bote) - nave gou  
-Navidad - mesi jen  
+Navidad - mesi jene  
 Nazi - naci jui ja  
 nazismo - naci jui  
 Naúru - Nauru  
@@ -2414,9 +2415,9 @@ Níger - Nijer
 níquel - nikel  
 nómada - badavi  
 número (muchedumbre) - multi ta  
-número - numba  
-número de identificación personal - sekur numba  
-número par - par numba  
+número - nomer  
+número de identificación personal - sekur nomer  
+número par - par nomer  
 ####O - O  
 o - o  
 oasis - vase  
@@ -2433,7 +2434,7 @@ ocra - bamia
 octubre - mes des  
 ocular - oko di  
 ocultar (esconder) - fa sir  
-ocupado (atareado) - mangi  
+ocupado (atareado) - mang  
 océano - dai hai  
 océano Antártico - Antartika Hai  
 océano Atlántico - Atlanti Hai  
@@ -2632,7 +2633,7 @@ pera - leze
 perdedor - shibai ja  
 perder (fallar) - fa shibai  
 perder - shibai tena  
-perdonar (disculpar) - mafa  
+perdonar (disculpar) - fa maf  
 perdurable (longevo, prolongado) - long dura di  
 perdón - maf  
 perecer - perisha  
@@ -2651,7 +2652,7 @@ persona (ista, -ador) - jan
 personal (privado, a medida) - auto di  
 personalizar - auta  
 perspectiva (punto de vista) - vide punte  
-pertenecer (ser miembro de) - memba  
+pertenecer (ser miembro de) - si membre  
 Perú - Peru  
 pesa (báscula, balanza) - veze metre gi  
 pesado - veze di  
@@ -2756,7 +2757,7 @@ portapapeles - katoglutoban
 porto - porte  
 Portugal - Portugal  
 pose (postura) - poze  
-poseer (tener, ser dueño de) - mala  
+poseer (tener, ser dueño de) - fa mal  
 poste (estaca, palo) - zong  
 posterior - pos di  
 postura (posición) - asan  
@@ -2805,7 +2806,7 @@ profesional (de carrera) - pei gung di
 profesión (ocupación) - pei gung  
 profesor - profesor  
 profeta - nabi ja  
-profeta Mani - Manihai  
+profeta Mani - Mani  
 profundo (hondo) - fasteli  
 programa - program  
 programador - program ja  
@@ -2852,7 +2853,7 @@ puma - puma
 punjabí - panjabi  
 punto (lunar) - bindu  
 punto - punte  
-puntuación (resultado) - punte numba  
+puntuación (resultado) - punte nomer  
 puñal (daga) - kanjar  
 página - varka late  
 página wiki - viki makala  
@@ -2863,7 +2864,7 @@ pólvora - barude
 póquer - poker  
 público - demo di  
 qualquier - eni  
-que (como) - ka  
+que (como, en comparación con) - ka  
 quedarse - be reste  
 queja (lamento) - shikaya  
 quemar - hoga  
@@ -2935,7 +2936,7 @@ redes sociales - soci medi gi
 redondo (circular) - cirke di  
 reducir a la mitad (dividir en dos) - dulo fena  
 reflejar - mira  
-refuerzos - mas forte  
+refuerzos - mas forte ta  
 regalo (obsequio) - dona she  
 registro (archivo, anotación) - loge  
 región (zona) - topo  
@@ -3035,7 +3036,7 @@ roto - parche di
 rotor - rota she  
 Ruanda - Ruanda  
 rubidio - rubidium  
-rubí - lal bau sheke  
+rubí - rubi  
 rueda (volante) - chakra  
 ruido - kelele  
 ruiseñor - bulbul  
@@ -3130,7 +3131,7 @@ seminal - seme di
 senador - supra vakil ja  
 sencillo (liso) - sada  
 Senegal - Senegal  
-seno (teta) - mam  
+seno (teta) - titi  
 sentar - fa side  
 sentarse - side  
 sentido - sense  
@@ -3139,7 +3140,7 @@ sentir - emosu
 septiembre - mes tisa  
 ser (estar) - si  
 ser - si ja  
-ser de - malu  
+ser de - be mal  
 ser humano - insan  
 ser visto - be vide  
 Serbia - Serbia  
@@ -3295,7 +3296,7 @@ tapa (funda, cubierta) - dake
 taponar - fa tapa  
 tapón (tapa) - tapa  
 tarde (después de mediodía) - sham den  
-tarjeta (carta) - karde  
+tarjeta (carta) - karte  
 tasa (precio, cuota, tarifa) - taksi  
 tatuaje - tatu  
 taxi (cab) - taksi kar  
@@ -3439,13 +3440,13 @@ trópico - garma zona
 tu - tu su  
 tubo (caño) - pipe  
 tubo - tubo  
-tubérculo - masmul  
+tubérculo - masa mula  
 tulio - tulium  
 tulipán - tulpan  
 tumba (sepultura, enterrar) - gabur  
 tundra - tundra  
 tungsteno (wolframio) - volfram  
-tupinambo (pataca, alcachofa de Jerusalén) - masmulsolful  
+tupinambo (pataca, alcachofa de Jerusalén) - masa mula sol hua  
 turbante - pagri  
 turismo - safar kegu  
 turista - safar kegu ja  
@@ -3469,7 +3470,7 @@ túnica - tunika
 Ucrania - Ukraina  
 Uganda - Ganda  
 una vez - un mar  
-unidad (medida) - metrun  
+unidad (medida) - metre unta  
 unidad (unión) - unta  
 unido - unta di  
 unir - fa un she  
@@ -3533,7 +3534,7 @@ verdadero - ver
 verde - lugi  
 verde limón - limonlugi  
 verdura (legumbre) - yam fito  
-verduras - choi  
+verduras - coi  
 vergüenza (pena) - sharma  
 verme - verme  
 vermú - vermute  
@@ -3616,10 +3617,10 @@ yo - mi
 yodo (iodo) - iode  
 yoga - yoga  
 yogui - yoga ja  
-yuca (mandioca) - manyoke  
+yuca (mandioca) - manioka  
 yudo - judau  
 yugo - yogo  
-yunque - metalbede  
+yunque - metal bede  
 yupi - yei  
 ####Z - Z  
 Zambia - Zambia  

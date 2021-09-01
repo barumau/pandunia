@@ -598,9 +598,9 @@ fizike - fiziko
 fiziker - fizikisto  
 fizikia - fiziko  
 flur - fluoro  
-foba - timigi  
-fobani - timiga  
-fobia - timo (fobio)  
+fa fobi - timigi  
+fobi ja - timiga  
+fobi - timo (fobio)  
 fobu - timi  
 fokus - koncentriĝo  
 fokusa - koncentri  
@@ -756,8 +756,8 @@ hapi - taŭga
 hapu - taŭgi  
 harabu - ruinigita  
 harabu mahala - kvartalaĉo  
-harfi - litero  
-harfi harfi - alfabeto  
+fon zi - litero  
+zi sili - alfabeto  
 harmoni - harmonia  
 harmonia - harmonio  
 Hartum - Ĥartumo  
@@ -940,7 +940,7 @@ karate - karateo
 karavi - karvio  
 karbe - karbono  
 karbodulokside - karbona dioksido  
-karde - karto  
+karte - karto  
 karer - laboristo  
 karibi - proksima  
 karma - ago  
@@ -1069,7 +1069,7 @@ laji - rubo
 laji bagi - rubejo  
 laji tong - rubujo  
 lal - ruĝa  
-lal bau sheke - rubeno  
+rubi - rubeno  
 lal oranje - mandarino  
 lampa - lampo  
 lance - ĵeti (lanĉi)  
@@ -1133,35 +1133,35 @@ lutetium - lutecio
 ####M - M  
 ma - patrino  
 maf - pardono  
-mafa - pardoni  
+fa maf - pardoni  
 magesium - magnezio  
-magia - magio  
+magi - magio  
 mahala - kvartalo  
 maitnerium - mejtnerio  
 majang - maĝango  
 makas - tondilo  
-malan - havanto  
+mal ja - havanto  
 Mali - Malio  
-malnomia - ekonomiko  
-malu - aparteni  
-mam - mamo  
+mal nomi - ekonomiko  
+be mal - aparteni  
+titi - mamo  
 man - viro  
 man raja - reĝo  
 mana - signifo  
 mangan - mangano  
-mangi - okupata  
-manir - maniero (konduto)  
+mang - okupata  
+manira - maniero (konduto)  
 mar - fojo  
 maraton - maratono  
-marcha - promeni (marŝi)  
+marche - promeni (marŝi)  
 marche - promeno (marŝo)  
 margarin - margarino  
 mas - pli  
-mas - ankaŭ  
+e mas - ankaŭ  
 mas fili - preferi (pliŝati)  
-mas ze basa - tro  
+mas ka basa - tro  
 masa - maso  
-masale - spico  
+masala - spico  
 masim - plej  
 maska - masko  
 masta - masto  
@@ -1170,15 +1170,15 @@ mata di - morta
 mata ja - mortigisto  
 mate - materio  
 matur - plenaĝa  
-maturi - matura (plenkreska)  
-maturi fem - virino  
-maturi man - viro  
+matur - matura (plenkreska)  
+matur fem - virino  
+matur man - viro  
 mau - kato  
-mayan - majao  
+maya - majao  
 maze - ŝtrumpo  
 medi - mezo  
 medi gi - rimedo  
-medu - inter  
+pa medi - inter  
 medu - mielo  
 medu fong - abelo  
 mega - miliono  
@@ -1186,16 +1186,16 @@ megi - nubo
 Mehiko - Meksikio  
 melodi - melodio  
 mem - memoro  
-mema - memori  
-member - membro  
+fa mem - memori  
+membre - membro  
 meme - ŝafo  
 men - oni  
-men - nudelo  
+mien - nudelo  
 Merkur - Merkuro  
 mesi - kristo  
-mesi jen - kristnasko  
+mesi jene - kristnasko  
 metal - metalo  
-metallin - drato  
+metal lin - drato  
 metre - mezuri  
 meza - tablo  
 meza tela - tablotuko  
@@ -1212,7 +1212,7 @@ milke - lakto
 mimen - ni  
 mimen su - nia  
 min - malpli  
-min ze basa - maltro  
+min ka basa - maltro  
 minare - turo  
 minim - malplej  
 ministre ja - ministro  
@@ -1328,7 +1328,7 @@ nove ka - novulo
 nove loga - neologismo  
 nove ta - noveco  
 nu - nu  
-numba - nombro  
+nomer - nombro  
 ####O - O  
 o - aŭ  
 Oceania - Oceanio  
@@ -1384,7 +1384,7 @@ pante - pantalonoj
 papagai - papago  
 papaya - papajo  
 par face - nivelo  
-par numba - para nombro  
+par nomer - para nombro  
 par veze ta - ekvilibro  
 parche - ero  
 parde - kurteno  
@@ -1895,5 +1895,5 @@ zuku - etno
 zuku di - etna  
 zuku medi di - interetna  
 Zulu - zuluo  
-zumarda - smeraldo  
+zumarde - smeraldo  
  - pluva  

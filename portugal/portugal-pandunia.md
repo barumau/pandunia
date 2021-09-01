@@ -33,7 +33,7 @@ ai! - au
 ainda - zoku  
 alaranjado - oranje rang  
 alcachofra - karchof  
-alcachofra-girassol (tupinambo) - masmulsolful  
+alcachofra-girassol (tupinambo) - masa mula sol hua  
 alcalino - kali  
 alcaravia (cariz) - karavi  
 aldeia (vila) - chun  
@@ -66,7 +66,7 @@ apodrecer-se - be pute
 aprender - fa shula  
 apropriado (apto) - hapi  
 ar - air  
-arame - metallin  
+arame - metal lin  
 aranha - arane  
 arbusto (mata) - tal moku  
 Arca da Aliança - liga di sanduku  
@@ -88,8 +88,8 @@ artista - arte ja
 asma - asma  
 aspirina - aspirin  
 assinar - name kitabu  
-assustador - fobani  
-assustar - foba  
+assustador - fobi ja  
+assustar - fa fobi  
 astro (corpo celeste) - astro  
 astrobiologia - kosmobiyolojia  
 astronauta - astro nave ja  
@@ -142,7 +142,7 @@ bem-estar - salam ta
 beringela - bedinjan  
 biblioteca - kitabu kan  
 bicho-papão - bubu  
-bigorna - metalbede  
+bigorna - metal bede  
 bilhete - tikete  
 bilíngue - dulbashi  
 biología - bio logi  
@@ -212,9 +212,10 @@ carne - nama
 carrapato (ácaros) - akare  
 carregar -   
 carreira - pei gung jiu  
-carta - karde  
-carta geográfica - metregraf  
-cartografia - metregrafia  
+carta - karte  
+carta - metre grafi  
+carta geográfica - topo metre grafi  
+cartografia - metre grafi shutu  
 Cartum - Hartum  
 carvalho - baluta  
 carvalho-roble - europobalute  
@@ -272,7 +273,7 @@ começo (início, princípio) - shuru
 como - ko?  
 compaixão - sam emos  
 complô (conspiração) - sir plan  
-comportamento (conduta) - manir  
+comportamento (conduta) - manira  
 composto - bio cana she  
 comprar - fa shopi  
 compras - shopi  
@@ -336,7 +337,7 @@ de - ze
 dedo - angul  
 deitar - kusha  
 deixar - lasha  
-dente-de-leão (taráxaco) - makanful  
+dente-de-leão (taráxaco) - makan hua  
 derretre - yong  
 descanso (repouso) - shanti  
 desdentado - dante na di  
@@ -348,7 +349,7 @@ despelado - kesha na di
 despertar - jagu  
 destino - kisma  
 deus - deu  
-devanágari - deu nagar harfi  
+devanágari - deu nagar zi  
 dever - deve  
 dia - den  
 diamante - almas  
@@ -376,7 +377,7 @@ duração - dur
 duro - gati  
 ####E - E  
 e - e  
-economia - malnomia  
+economia - mal nomi  
 educação - shula  
 efeito - asar  
 efetuar - fa asar  
@@ -417,9 +418,9 @@ escudo - oste shalke
 escultor - eskulter  
 esfarrapado - chirchiri  
 eslavo - Slave  
-esmeralda - zumarda  
+esmeralda - zumarde  
 espada - katane  
-espaço - hali harfi  
+espaço - hali zi  
 espirrar - achi  
 espodossolo - huidarte  
 esponja - esponje  
@@ -527,7 +528,7 @@ geometria - geo metri
 geopolítica - geo politika  
 Germânia - Germania  
 girafa - jiraf  
-girassol - sol ful  
+girassol - sol hua  
 golfinho (delfim) - dolfin  
 gorila - gorila  
 governo - politi  
@@ -638,7 +639,7 @@ lasanha - lazanya
 lateral - lati  
 leite - milke  
 leite de soja - soi milke  
-lembrar-se (recordar-se) - mema  
+lembrar-se (recordar-se) - fa mem  
 lente - lense  
 lento - lenti  
 ler - duga  
@@ -693,17 +694,17 @@ malfeitoria (pecado) - duskar
 mamão (papaia) - papaya  
 mancha (marca) - marke  
 manga - kamisa shaka  
-maniqueísmo - manihayistia  
-mantra - mantre  
+maniqueísmo - mani din  
+mantra - mantra  
 mar - hai  
 maravilha - ajibu  
 marcha - marche  
-margarida - margarite  
+margarida - margarita  
 margarida-comum - englomargarite  
 margarita-maior - baki margarite  
 margem (borda) - kinar  
 marinha - haigun  
-Marrocos - Magribia  
+Marrocos - Magribe desha  
 Marte - Marse  
 marítimo - hayi  
 massa - masa  
@@ -733,7 +734,7 @@ mercado (bazar) - bazar
 Mercúrio - Merkur  
 merda - shite  
 mesa - meza  
-mestre - mester  
+mestre - mestre  
 meta (gol) - gol  
 metro - mitre  
 microbiologia - mikro bio logi  
@@ -814,7 +815,7 @@ não - no
 não-binário - nobi  
 nós - mimen  
 núcleo (cerne) - kerne  
-número - numba  
+número - nomer  
 o (a) - a  
 ####O - O  
 o que - ke  
@@ -825,7 +826,7 @@ obsidiana - osidian
 oceano - dai hai  
 ocular - oko di  
 ocultar (esconder) - fa sir  
-ocupado (atarefado) - mangi  
+ocupado (atarefado) - mang  
 oito (8) - bato  
 oleiro - pote ja  
 olho - oko  
@@ -869,7 +870,7 @@ pandemia - pan demo pati
 pantomima (mímica) - pan mima  
 papel - kaguji  
 papel de parede - mur kaguji  
-papoila - medenpapil  
+papoila - meden papil  
 papoila-dormideira - sona papil  
 par - par jan  
 para-lama - fandefban  
@@ -904,7 +905,7 @@ pepino-do-mar (holotúrias) - haihiyar
 pequeno - lili  
 perdedor - shibai ja  
 perder - shibai tena  
-perdoar (desculpar) - mafa  
+perdoar (desculpar) - fa maf  
 perecer - perisha  
 perguntar - fa sual  
 perigo - hatar  
@@ -1046,7 +1047,7 @@ romance - long kata
 rosa - roza  
 roupa (vestidura) - fuke  
 rouxinol - bulbul  
-rubi - lal bau sheke  
+rubi - rubi  
 rápido - rapide  
 rã - krokroke  
 ####S - S  
@@ -1080,7 +1081,7 @@ seda - silko
 sede - sui yau  
 segunda-feira - var un  
 seguro - sekur  
-seio (mama) - mam  
+seio (mama) - titi  
 seis (6) - luku  
 seita - din shia  
 selva (floresta, jângal) - jangal  
@@ -1137,7 +1138,7 @@ telefonia - tele fon shutu
 telescópio - teleskope  
 telhado - chati  
 temer - fobu  
-tempero - masale  
+tempero - masala  
 templo - puja kan  
 tempo - zaman  
 tendência - klin  
@@ -1182,7 +1183,7 @@ três (3) - tri
 trópicos - garma zona  
 tu - tu  
 tubarão - sharke  
-tubérculo - masmul  
+tubérculo - masa mula  
 turbante - pagri  
 tábua (prancha) - muku ban  
 técnica - tehne  
@@ -1219,7 +1220,7 @@ verbo - karma loga
 verdadeiro - ver  
 verde - lugi  
 verdura (hortaliça, legume) - yam fito  
-verdura - choi  
+verdura - coi  
 verme - verme  
 vermelho - lal  
 vermute - vermute  

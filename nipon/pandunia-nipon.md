@@ -181,7 +181,7 @@ chira - 裂く
 chirchira - 千切る  
 chirchiri - ぼろぼろ  
 chize - チーズ  
-choi - 菜  
+coi - 菜  
 choklate - チョコレート  
 choklatobaton - チョコバー  
 chope - クワ  
@@ -221,7 +221,7 @@ des kilo - 万
 desha jan - 市民  
 deu - 神  
 deu kata - 神話  
-deu nagar harfi - デーヴァナーガリー  
+deu nagar zi - デーヴァナーガリー  
 dika - 標的 (ターゲット)  
 din - 宗教  
 din ja - 信徒 (信者)  
@@ -295,7 +295,7 @@ fa jene - 生む
 fa linke - 繋ぐ  
 fa najis - 汚す  
 fa nomi - 組織する  
-fa numba - 数える  
+fa nomer - 数える  
 fa pede - おならをする  
 fa politi - 治める (司る)  
 fa poze - 植える  
@@ -436,7 +436,7 @@ haki - 権利
 hal - 状態  
 halaloliste - ホワイトリスト  
 hali - 空  
-hali harfi - 間隔  
+hali zi - 間隔  
 halifa - ハリーファ  
 hande - 手  
 handoshake - 腕  
@@ -525,7 +525,7 @@ jus - ジュース
 justopaver - 狙撃兵  
 ####K - K  
 ka - 家  
-ka - より  
+ka - より (に比べ)  
 kaboga - カボチャ  
 kade - 鱈  
 kafe - コーヒー  
@@ -565,7 +565,7 @@ karate - 空手
 karate ka - 空手家  
 karbosui - 炭水化物  
 karchof - アーティチョーク  
-karde - カルタ  
+karte - カルタ  
 kardon - アザミ  
 kardonkarchof - カルドン  
 karer - 労働者  
@@ -657,7 +657,7 @@ laji - ゴミ (廃棄物)
 laji bagi - ゴミ捨て場  
 laji tong - ごみ箱  
 lal - 赤い  
-lal bau sheke - ルビー  
+rubi - ルビー  
 lal lince - ボブキャット  
 lal oranje - ポンカン (マンダリン)  
 lal salmon - ベニザケ  
@@ -724,33 +724,33 @@ lung - 竜
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
 magesium - マグネシウム  
-Magribia - モロッコ  
+Magribe desha - モロッコ  
 majang - 麻雀  
-majenti - マゼンタ (紅紫色)  
-makanful - タンポポ  
-malnomia - 経済学  
+majenta - マゼンタ (紅紫色)  
+makan hua - タンポポ  
+mal nomi - 経済学  
 man - 男  
 man raja - 王様  
-mangi - 忙しい  
+mang - 忙しい  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
 mas fili di - 好き (お気に入りの)  
-mas forte - 増派 (援兵)  
+mas forte ta - 増派 (援兵)  
 masa - 質量  
-masale - 香辛料  
+masala - 香辛料  
 maska - 仮面 (マスク)  
-masmul - 芋 (塊茎)  
-masmulsolful - キクイモ  
+masa mula - 芋 (塊茎)  
+masa mula sol hua - キクイモ  
 mate - 物質  
 matur - 大人  
-maturi fem - 女の人  
-maturi man - 男の人  
+matur fem - 女の人  
+matur man - 男の人  
 mau - 猫  
 maze - 靴下 (ソックス)  
 meche - 試合 (競技)  
 meden - 広場  
-medenpapil - ヒナゲシ  
+meden papil - ヒナゲシ  
 medu - 蜂蜜  
 medu fong - 蜜蜂  
 medu fong nide - 蜂の巣 (ハニカム)  
@@ -759,9 +759,9 @@ mega - １００万 (メガ)
 megi - 雲  
 melon - マスクメロン  
 mem - 記憶  
-mema - 思い出す  
-membin - 追悼塔 (碑)  
-men - ヌードル  
+fa mem - 思い出す  
+mem bina - 追悼塔 (碑)  
+mien - ヌードル  
 mes bato - ８月  
 mes chatre - ４月  
 mes des - １０月  
@@ -775,8 +775,8 @@ mes tisa - ９月
 mes tri - ３月  
 mes un - １月  
 metal - 金属  
-metalbede - 金敷き (鉄床)  
-metallin - 線 (針金)  
+metal bede - 金敷き (鉄床)  
+metal lin - 線 (針金)  
 metre - 測定  
 metre gi - 測定装置 (計)  
 meza - 机 (テーブル)  
@@ -883,7 +883,7 @@ panir - クワルク
 pante - ズボン  
 papaya - パパイヤ  
 par jan - 同輩  
-par numba - 偶数  
+par nomer - 偶数  
 par veze ta - 均衡 (平衡)  
 param - 引数 (パラメーター)  
 parche kai - 弾ける  
@@ -945,7 +945,7 @@ pul shipu - 漬ける (締める)
 pulmon flame - 肺炎  
 puma - ピューマ (クーガー)  
 punte ban - スコアボード  
-punte numba - 得点 (点数)  
+punte nomer - 得点 (点数)  
 putau bagi - 葡萄園  
 putau oranje - グレープフルーツ  
 Putong Han - 普通話 (北京語)  
@@ -1018,7 +1018,7 @@ Saturne - 土星
 saur - 蜥蜴  
 sekse logi - 性科学  
 sekur kopi - バックアップ (控え)  
-sekur numba - 暗証番号  
+sekur nomer - 暗証番号  
 selge - フダンソウ (スイスチャード)  
 seme dane - 種  
 sen - 年齢  
@@ -1083,7 +1083,7 @@ soi milke - 豆乳
 soi sos - 醤油  
 soka - 探す (捜索する)  
 sol - 太陽 (日)  
-sol ful - ヒマワリ  
+sol hua - ヒマワリ  
 sona - 寝る  
 sona kamar - 寝室  
 sona papil - ケシ  

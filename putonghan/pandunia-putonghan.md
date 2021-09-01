@@ -189,7 +189,7 @@ chante grupe - 合唱团
 chati - 屋顶 (房顶)  
 chatre - 四 (4)  
 chendeno - 昨日  
-cheng - 层  
+ceng - 层  
 cheniki - 古老 (以前)  
 cheno - 以前  
 chili - 菜椒  
@@ -235,7 +235,7 @@ den - 白天
 desha jan - 公民  
 deu - 神  
 deu kata - 神话  
-deu nagar harfi - 天城文  
+deu nagar zi - 天城文  
 dika - 目的 (目标)  
 din - 宗教  
 din ja - 信徒  
@@ -340,7 +340,7 @@ fito logi - 植物学
 fito yam jui ja - 素食主义者  
 flame - 炎症  
 fleche - 箭  
-foba - 吓唬  
+fa fobi - 吓唬  
 fobu - 害怕  
 fong - 蜂  
 fora - 钻孔  
@@ -430,7 +430,7 @@ haitate - 海岸
 haki - 权利  
 hal - 状态  
 hali - 空的  
-hali harfi - 空隙  
+hali zi - 空隙  
 halifa - 哈里发  
 halo - 哈啰 (哈喽)  
 hami - 重要  
@@ -439,7 +439,7 @@ Han - 汉族
 hande - 手  
 handoshake - 胳膊  
 hapi - 合适  
-harfi harfi - 字母表  
+zi sili - 字母表  
 Hartum - 喀土穆  
 hata - 直到  
 hata - 连  
@@ -564,7 +564,7 @@ kara - 工作
 karate - 空手道  
 karbodulokside - 二氧化碳  
 karchof - 菜蓟  
-karde - 牌  
+karte - 牌  
 kardon - 蓟  
 kardonkarchof - 刺苞菜蓟  
 karer - 工人 (工作者)  
@@ -651,7 +651,7 @@ laji - 废物 (垃圾)
 laji bagi - 垃圾场  
 laji tong - 垃圾桶  
 lal - 红  
-lal bau sheke - 红宝石  
+rubi - 红宝石  
 lal lince - 短尾貓  
 lal oranje - 柑橘 (红橘)  
 lal salmon - 紅鮭  
@@ -719,38 +719,38 @@ luta - 掠夺
 luta ja - 强盗  
 ####M - M  
 ma - 妈妈  
-ma de ma - 外婆 (外祖母)  
-ma de pa - 外公 (外祖父)  
+ma ma - 外婆 (外祖母)  
+ma pa - 外公 (外祖父)  
 magesium - 镁  
-Magribia - 摩洛哥  
+Magribe desha - 摩洛哥  
 majang - 麻将  
-makanful - 蒲公英  
-malnomia - 经济学  
-malu - 属于  
+makan hua - 蒲公英  
+mal nomi - 经济学  
+be mal - 属于  
 man raja - 王  
 mana - 意义  
-mangi - 忙  
-manihayistia - 摩尼教  
-manir - 方式  
+mang - 忙  
+mani din - 摩尼教  
+manira - 方式  
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
 mas fili - 比较喜欢  
-mas forte - 加固  
+mas forte ta - 加固  
 masa - 质量  
-masale - 香料  
+masala - 香料  
 masim - 最  
-masmulsolful - 菊芋  
+masa mula sol hua - 菊芋  
 masta - 桅  
 mate - 物质  
 matur - 成年人  
-maturi fem - 女人  
-maturi man - 男人  
+matur fem - 女人  
+matur man - 男人  
 mau - 猫  
 maze - 袜子  
 meche - 比赛  
 meden - 广场  
-medenpapil - 虞美人 (雛罌粟)  
+meden papil - 虞美人 (雛罌粟)  
 medi - 中型  
 medu - 蜜  
 medu fong - 蜜蜂  
@@ -759,13 +759,14 @@ mega - 百万 (兆)
 megi - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
 mem - 记忆 (记性)  
-mema - 记得 (回忆)  
+fa mem - 记得 (回忆)  
 meninge - 脑脊膜  
-metalbede - 铁砧  
-metaljanger - 铁匠  
-metallin - 线 (铁丝)  
-metregraf - 地图  
-metregrafia - 地图学  
+metal bede - 铁砧  
+metal jang ja - 铁匠  
+metal lin - 线 (铁丝)  
+metre grafi - 図表  
+topo metre grafi - 地图  
+metre grafi shutu - 地图学  
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
@@ -837,7 +838,7 @@ note she - 便条
 nove - 新  
 nove ka - 新手  
 nove loga - 新词  
-numba - 数  
+nomer - 数  
 ####O - O  
 o - 或  
 ocelote - 虎貓  
@@ -876,7 +877,7 @@ papagai - 鹉鹦
 papaya - 木瓜  
 par face - 水平  
 par jan - 同辈  
-par numba - 偶数  
+par nomer - 偶数  
 par veze ta - 平衡  
 param - 参数  
 parche kai - 爆裂  
@@ -1078,7 +1079,7 @@ soi milke - 豆浆
 soi sos - 酱油  
 soka - 寻找  
 sol - 太阳  
-sol ful - 向日葵  
+sol hua - 向日葵  
 sol sistem - 太阳系  
 sona - 睡觉 (困觉)  
 sona kamar - 卧室 (寝室)  
@@ -1239,6 +1240,6 @@ zou - 动物
 zou bagi - 动物园  
 zou logi - 动物学  
 zuku - 民族  
-zumarda - 绿宝石 (祖母绿)  
+zumarde - 绿宝石 (祖母绿)  
  - 多雨  
  - 敌手  

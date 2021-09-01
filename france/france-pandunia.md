@@ -56,7 +56,7 @@ Aller-retour - retro tikete
 alligator - korte krokodil  
 allophone - alo fon  
 allô - halo  
-alphabet - harfi harfi  
+alphabet - zi sili  
 alumine (oxyde d'aluminium) - alumin okside  
 aluminium - alumin  
 alun - alumin mate  
@@ -95,7 +95,7 @@ antimoine - estibium
 antonyme - an nam  
 anus - anus  
 août - mes bato  
-appartenir à - malu  
+appartenir à - be mal  
 application - aplika  
 appliquer - aplika  
 apporter - layana  
@@ -126,7 +126,7 @@ arme - arme
 armure - defkaske  
 armée - gun  
 armée de l'ai - air gun  
-arobase (@) - adres harfi  
+arobase (@) - adres zi  
 arsenic - arsene  
 art - shutu  
 artichaut - karchof  
@@ -306,10 +306,11 @@ cardon - kardonkarchof
 carotte - karote  
 carreau (tuile) - tail  
 carrière - pei gung jiu  
-carte - karde  
-carte - metregraf  
+carte (graphique) - metre grafi  
+carte (plan) - topo metre grafi  
+carte - karte  
 carte à collectionner - jama karde  
-cartographie - metregrafia  
+cartographie - metre grafi shutu  
 cauri - kauri  
 cent (100) - cen  
 Centaurée - centaure  
@@ -378,7 +379,7 @@ comment - ko?
 commerce - vende shope  
 compassion - sam emos  
 complot (conspiration) - sir plan  
-comportement (manière) - manir  
+comportement (manière) - manira  
 compost - bio cana she  
 compote de pommes - aple sos  
 comprendre (réaliser) - aha  
@@ -400,7 +401,7 @@ contract (traité) - trati
 convenir (être approprié) - hapu  
 convention (alliance, pacte) - kon trati  
 copie - kopi  
-coquelicot - medenpapil  
+coquelicot - meden papil  
 corail - koral  
 corne - korne  
 corps - badan  
@@ -450,7 +451,7 @@ côte - haitate
 côté - late  
 ####D - D  
 dance - dance  
-dandélion - makanful  
+dandélion - makan hua  
 danger - hatar  
 danois - Danske  
 dans le sens antihoraire - rota lefte  
@@ -506,15 +507,15 @@ déchirer - chira
 défigurer - dusforma  
 désaccord (différend) - alo rai  
 désespéré - asha na di  
-dévanagari - deu nagar harfi  
+dévanagari - deu nagar zi  
 développement - darjomute  
 ####E - E  
 east (orient) - dong  
 eau - sui  
 effectuer - fa asar  
 effet - asar  
-effrayant - fobani  
-effrayer - foba  
+effrayant - fobi ja  
+effrayer - fa fobi  
 Einsteinium - ainstainium  
 elfe - elfe  
 empreinte de pied - fute marke  
@@ -523,7 +524,7 @@ empruntre - jekogeta
 en arrière - retro  
 en avant - jino  
 en ligne - pa lin  
-enclume - metalbede  
+enclume - metal bede  
 enfant - bacha  
 ennemi - dusjan  
 enregistrement - loge  
@@ -536,7 +537,7 @@ envelopper (emballer) - lifafa
 erroné - galti  
 escroquer - fa truke  
 espace (zone, région) - area  
-espace - hali harfi  
+espace - hali zi  
 espectador - vide ja  
 esprit (génie) - jin  
 estrade - tai  
@@ -580,7 +581,7 @@ feu - hoge
 feu d’artifice - hogotehne  
 fiable (de confiance, fidèle, sûr, crédible) - amen shin di  
 fibre - lin so  
-fil de fer - metallin  
+fil de fer - metal lin  
 fil de trame - vei lin  
 fils ou fille - ben  
 fini - fini  
@@ -838,8 +839,8 @@ malédiccion - lana
 manche - kamisa shaka  
 mandarine - lal oranje  
 mandarine satsuma - venjou oranje  
-manichéisme - manihayistia  
-mantra - mantre  
+manichéisme - mani din  
+mantra - mantra  
 marbre - kalsokristal  
 marche - marche  
 marché (bazar) - bazar  
@@ -847,7 +848,7 @@ mardi - var du
 margay (chat-tigre) - margai  
 marguerite - baki margarite  
 mariage - gami  
-Maroc - Magribia  
+Maroc - Magribe desha  
 Mars - Marse  
 marécage (marais) - fantopia  
 masque - maska  
@@ -857,7 +858,7 @@ match - meche
 mathématiques - hisabolojia  
 matière - mate  
 maximum - masim  
-maître - mester  
+maître - mestre  
 medio - medi  
 melt - yong  
 menthe - minta  
@@ -936,8 +937,8 @@ nid - nide
 niveau - par face  
 noir - kala  
 noit - noche  
-nombre (numéro) - numba  
-nombre pair - par numba  
+nombre (numéro) - nomer  
+nombre pair - par nomer  
 non (ne...pas) - no  
 non-binaire - nobi  
 nord - norde  
@@ -961,7 +962,7 @@ objectif (cible) - dika
 objet (article) - vutu  
 oblique (de travers) - terca  
 obsidienne - osidian  
-occupé - mangi  
+occupé - mang  
 ocelot - ocelote  
 oculaire - oko di  
 océan - dai hai  
@@ -1033,7 +1034,7 @@ par exemple - do misal
 paramètre - param  
 parapluie - shava chati  
 parc - parke  
-pardonner - mafa  
+pardonner - fa maf  
 Paris - Paris  
 parler - loga  
 parole (mots) - loga  
@@ -1120,7 +1121,7 @@ porter (s’habiller) - fuku
 Porto Rico - Portoriko  
 Portoricain - portoriko jan  
 posidonie (herbiers marins) - haichau  
-possédant (propriétaire) - malan  
+possédant (propriétaire) - mal ja  
 posture (position) - asan  
 postérieur - pos di  
 pot (vase) - pote  
@@ -1221,7 +1222,7 @@ rosée - rose
 roue - chakra  
 rouge - lal  
 ruban (bande) - tepe  
-rubis - lal bau sheke  
+rubis - rubi  
 ruche (nid d'abeille) - fong nide  
 ruse - truke  
 réparateur - shulija  
@@ -1272,11 +1273,11 @@ se baigner - banya
 se mouvoir - kinu  
 se passer - duru  
 se plaire - be suka  
-se rappeler (se remémorer) - mema  
+se rappeler (se remémorer) - fa mem  
 seau - baldi  
 secouer - roke  
 secte - din shia  
-sein - mam  
+sein - titi  
 sel - sal  
 semence - seme  
 sens - sense  
@@ -1365,12 +1366,12 @@ toile d'araignée (arantèle) - arane nete
 toit - chati  
 tomate - tomate  
 tombe (enterrer) - gabur  
-topinambour - masmulsolful  
+topinambour - masa mula sol hua  
 topographie - topo grafi  
 toucher - tochu  
 toupie - rota van gi  
 touriste - safar kegu ja  
-Tournesol - sol ful  
+Tournesol - sol hua  
 toxicologie - toksi logi  
 toxine - bio toksi  
 trace - marke  
@@ -1388,7 +1389,7 @@ truite - salmon
 truite arc-en-ciel - rang arka salmon  
 truite brune (truite de mer) - brun salmon  
 tu - tu  
-tubercule - masmul  
+tubercule - masa mula  
 Tunisie - Tunis  
 turban - pagri  
 télescope (lunette) - teleskope  
@@ -1494,7 +1495,7 @@ zèbre - zebra
 école (collège) - shula kan  
 école primaire - baze shula kan  
 école secondaire - jungoshulkan  
-économie - malnomia  
+économie - mal nomi  
 écorce - tire yo pil  
 écrire - kitabu  
 écureuil - ekore  
@@ -1507,12 +1508,12 @@ zèbre - zebra
 éloge - euloge  
 élément (unité fondamentale) - so  
 élément chimique - kim so  
-émeraude - zumarda  
+émeraude - zumarde  
 émir - amir ja  
 émirat - amir desha  
 émoticône (emoji) - emoje  
 émotion - emos  
-épices - masale  
+épices - masala  
 épingle - pin  
 éponge - esponje  
 époux - gami jan  

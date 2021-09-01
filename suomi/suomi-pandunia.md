@@ -1,7 +1,7 @@
 # suomi-pandunia
 -n (oma) - su  
 ####A - A  
-aakkoset (ABC) - harfi harfi  
+aakkoset (ABC) - zi sili  
 aalto (laine) - onda  
 aamiainen - suba yam  
 aamu - suba  
@@ -20,7 +20,7 @@ adverbi - mode loge
 aerobinen - air bio di  
 Afganistan - Afgan  
 Afrikka - Afrika  
-agorafobia (avaran paikan kammo) - medenfobia  
+agorafobia (avaran paikan kammo) - meden fobi  
 agronomia (maatalous) - nong nomi  
 ahne - tam  
 ahnehtia - be tam  
@@ -112,7 +112,7 @@ annos - doze
 anoppi - gami ma  
 ansiosta - shukra da  
 antaa - dona  
-antaa anteeksi - mafa  
+antaa anteeksi - fa maf  
 Antarktis - Antartika  
 anteeksi - maf  
 anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karimia  
@@ -190,7 +190,7 @@ auto (automobiili) - moto gar
 autonominen - auto nomi di  
 auttaa (avustaa) - helpa  
 avain - chabe  
-avara (aava, aukea) - medeni  
+avara (aava, aukea) - meden di  
 avaruus (kosmos) - kosmo  
 avaruusalus - kosmo nave  
 avaruusmatkaaja (kosmonautti) - kosmo nave ja  
@@ -285,7 +285,7 @@ demokratia - demokrati
 demoni (piru) - demon  
 desi - deci  
 desibeli - deci bel  
-devanagari - deu nagar harfi  
+devanagari - deu nagar zi  
 dinosaurus (hirmulisko) - dino saur  
 Dione - Dione  
 Djiboutia - Jibuti  
@@ -716,7 +716,7 @@ höylä - rande
 höylätä - randa  
 höyry (vesihöyry) - sui gas  
 ####I - I  
-ideogrammi - idea harfi  
+ideogrammi - idea zi  
 ies - yogo  
 ihme - ajibu  
 ihmeellinen (ällistyttävä, merkillinen) - ajibu di  
@@ -847,7 +847,7 @@ jos (olettaa) - ga
 joskus - yo sate  
 joukkue (tiimi) - tim  
 joule (J) - jul  
-joulu - mesi jen  
+joulu - mesi jene  
 joulukuu - mes des du  
 jousiammunta - arka shutu  
 jousiampuja - arka ja  
@@ -889,7 +889,7 @@ järjestelmä (systeemi) - sistem
 järjestys - ratibu  
 järjestää (järjestellä) - fa ratibu  
 järki (järkeily, päättely) - razon  
-jäsen (osatekijä, komponentti) - member  
+jäsen (osatekijä, komponentti) - membre  
 jäte (hylkytavara) - lash  
 jäteastia (roskakori, roskis) - laji tong  
 jättää (hylätä) - lasha  
@@ -910,6 +910,7 @@ kaasumainen - gasi
 kaasuttaa - gasa  
 kaasuuntua - gasu  
 kaatopaikka - laji bagi  
+kaavio (kartta) - metre grafi  
 kade (kateellinen) - jelosi  
 kadmium - kadmium  
 kahdeksan (8) - bato  
@@ -950,7 +951,7 @@ Kambodja - Kambojia
 kameli - gamel  
 kamera - foto grafe gi  
 Kamerun - Kamerun  
-kammo (fobia) - fobia  
+kammo (fobia) - fobi  
 kamomilla - kamil  
 kampa - kang  
 kamppailu (taistelu) - jihade  
@@ -987,12 +988,12 @@ Karibia - Karaibia
 karjanhoito - zou agro shutu  
 Karnataka (Intian osavaltio) - karnadia  
 kartio (keila) - konus  
-kartogratia - metregrafia  
-kartta - metregraf  
+kartogratia - metre grafi shutu  
+kartta - topo metre grafi  
 karvaton - kesha na di  
 kassa - kash  
 kassanhoitaja - kasher  
-kassava (maniokki) - manyoke  
+kassava (maniokki) - manioka  
 kastanja - kastan  
 kaste - rose  
 kastike (soosi) - sos  
@@ -1058,7 +1059,7 @@ kerho (klubi) - klube
 kerma - krem  
 kermankeltainen - kremi  
 kerran - un mar  
-kerros - cheng  
+kerros - ceng  
 kerta (vuoro) - mar  
 kertoa - kata  
 kertomus (tarina, saaga) - kata  
@@ -1115,7 +1116,7 @@ kiinnostus (mielenkiinto) - sabi vol
 kiinteä - gatomati  
 kiinteä aine - gatomate  
 kiirehtiä - ajila  
-kiireinen - mangi  
+kiireinen - mang  
 kiitos - shukra  
 kiittää - fa shukra  
 kiivetä - eskala  
@@ -1138,7 +1139,7 @@ kireä (tiukka, jännittynyt) - tense
 Kirgistan (Kirgisia) - Kirgizia  
 Kiribati - Kiribati  
 kirja - buku  
-kirjain - harfi  
+kirjain - fon zi  
 kirjallisuus - kitabu shutu  
 kirjasto - kitabu kan  
 kirjoitus (teksti) - kitabu  
@@ -1224,7 +1225,7 @@ korkeus - gavia
 korkittaa (tukkia) - fa tapa  
 koronavirus - koronvirus  
 korottaa - dai darja  
-kortti - karde  
+kortti - karte  
 koruton (tavanomainen, pelkkä, vain) - sada  
 korva - ore  
 korvata - fa vice  
@@ -1311,8 +1312,8 @@ Kuuba - Kuba
 kuukakku - luna keke  
 kuukausi - lun  
 kuulla (kuunnella) - audi  
-kuulua (olla jkn hallussa) - malu  
-kuulua (olla jäsenenä) - memba  
+kuulua (olla jkn hallussa) - be mal  
+kuulua (olla jäsenenä) - si membre  
 kuume - febre  
 kuunnella - fa ore  
 kuura - hima rose  
@@ -1339,9 +1340,9 @@ kynsi - nahun
 kynttilä - mum foto  
 kynä - kalam  
 Kypros - Kipris  
-kypsä (aikuinen) - maturi  
+kypsä (aikuinen) - matur  
 kypärä - sar kaske  
-kyrilliset aakkoset - Kiril harfi  
+kyrilliset aakkoset - Kiril zi  
 kyselylomake - sual dokum  
 kysymys - sual  
 kysyvä - sual di  
@@ -1360,7 +1361,7 @@ käsivarsi - handoshake
 käsky (komento) - amir  
 käskyvalta - amir haki  
 kätevä - jangi  
-kävellä - marcha  
+kävellä - marche  
 kävely (marssi) - marche  
 käydä (vierailla) - fa kegu  
 käynti (vierailu, visiitti) - kegu  
@@ -1369,7 +1370,7 @@ käyttäytyä - manira
 käyttää - use  
 käytännöllinen (pragmaattinen) - prati di  
 käytäntö (pragmatia) - prati  
-käytös (käyttäytyminen, tapa, tavat) - manir  
+käytös (käyttäytyminen, tapa, tavat) - manira  
 käännös (tulkinta) - tarjum she  
 kääntää jtkn päin - fa verse  
 kääre (kuori) - lifafa  
@@ -1418,7 +1419,7 @@ laskeutua - an eskala
 lasku (faktuura) - fatura  
 lasku (laskelma) - hisabu  
 laskuoppi (aritmetiikka) - hisabia  
-latinalaiset aakkoset - Latin harfi  
+latinalaiset aakkoset - Latin zi  
 latinoida - fa Latin kitabu  
 lattia - kamartal  
 Latvia - Latvia  
@@ -1468,9 +1469,9 @@ Liettua - Lietuva
 liettualainen - lietuva bash  
 liha - nama  
 lihas - muskul  
-lihavoitu kirjain - gros harfi  
-liian vähän - min ze basa  
-liikaa - mas ze basa  
+lihavoitu kirjain - gros zi  
+liian vähän - min ka basa  
+liikaa - mas ka basa  
 liike - kino  
 liike - move  
 liikemies - bizneser  
@@ -1529,7 +1530,7 @@ luiska (ramppi) - rampe
 lukea - duga  
 lukitsematon - an sora di  
 luku (kirjan osa) - babu  
-lukumäärä (luku, numero) - numba  
+lukumäärä (luku, numero) - nomer  
 lumi - hima  
 lumme - nenufar  
 luodinkestävä - dane sekur  
@@ -1612,9 +1613,9 @@ maataloudellinen (agraari-) - nong di
 maatalousbiologia - nong bio logi  
 maavoimat - geo gun  
 Macao - Makau  
-Madagaskar - Malagasia  
+Madagaskar - Madagaskar  
 magneetti - manete  
-magneettinen - maneti  
+magneettinen - manete di  
 magnesium - magesium  
 maha (vatsa) - pete  
 mahdollisuus (taito, kyky) - bil ta  
@@ -1635,8 +1636,8 @@ maksimi (enimmäismäärä) - masim
 maksu - pei  
 maku - guste  
 makuuhuone - sona kamar  
-malagassi - malagasi  
-malaiji - malayi  
+malagassi - madagaskar di  
+malaiji - malayu  
 malajalam (eräs intialainen kieli) - malayali  
 malaria - malaria  
 Malawi - Malavi  
@@ -1649,20 +1650,20 @@ mallintaa - fa model
 Malta - Malta  
 mandariini - lal oranje  
 mangaani - mangan  
-mango - mangou  
+mango - mango  
 mangostani - mangus  
 mangusti - mungus  
-manikealaisuus - manihayistia  
+manikealaisuus - mani din  
 Manin saari - Manin nes  
 manteli - badam  
-mantra - mantre  
+mantra - mantra  
 marathi (eräs intialainen kieli) - marati  
 maratoni - maraton  
 margariini - margarin  
 marja - beri  
 markkinaliberalismi - bazarhuristia  
 marmori - kalsokristal  
-Marokko - Magribia  
+Marokko - Magribe desha  
 marraskuu - mes des un  
 Mars - Marse  
 Marshall-saaret - Marshal nesia  
@@ -1682,11 +1683,11 @@ mato - verme
 matta - foto mata di  
 Mauritania - Muritania  
 Mauritius - Moris  
-mauste - masale  
-maya (mayaintiaani) - mayan  
+mauste - masala  
+maya (mayaintiaani) - maya  
 Mayotte - Mayote  
 me - mimen  
-media - medi ya  
+media - medi she  
 megawatti (MW) - mega vate  
 mehiläinen - medu fong  
 mehiläinen tai ampiainen - fong  
@@ -1711,13 +1712,13 @@ merirosvo (piraatti) - pirate ja
 merirosvous - pirate  
 merivoimat (sotalaivasto) - haigun  
 merkitys - mana  
-merkitä (jättää jälki) - marka  
+merkitä (jättää jälki) - fa marke  
 merkki (jälki) - marke  
 merkki (signaali) - sin  
 Merkurius - Merkur  
 messiaaninen - mesi di  
 messuta - mantra  
-mestari (asiantuntija) - mester  
+mestari (asiantuntija) - mestre  
 mestari (voittaja) - champion  
 metalli - metal  
 meteli - kelele  
@@ -1728,7 +1729,7 @@ miekka - katane
 mielikuvituksekas (fantastinen) - fantazi  
 mielikuvitus (fantasia) - fantaze  
 mielipide (näkemys) - rai  
-mies - maturi man  
+mies - matur man  
 miettiä (pohtia, pitää jonakin) - hema  
 mikrobi - mikro bio  
 mikrobiologia - mikro bio logi  
@@ -1785,10 +1786,10 @@ Mosambik - Mozambike
 Moskova - Moskva  
 moskovium - moskovium  
 muinainen Egypti - Kemia  
-muistaa - mema  
+muistaa - fa mem  
 muisti - mem  
 muistikirja - note buku  
-muistio (muistiinmerkintä) - memnote  
+muistio (muistiinmerkintä) - mem note  
 mukaan lukien - inkluso  
 mukava (kiva, miellyttävä) - hushi  
 mukulakivi - cirke sheki  
@@ -1855,7 +1856,7 @@ nahuatli - nava
 naida (mennä naimisiin) - fa gami  
 nailon - nilon  
 naimisissa - gami di  
-nainen - maturi fem  
+nainen - matur fem  
 Namibia - Namibia  
 nano- - nano  
 nanometri - nano mitre  
@@ -1888,7 +1889,7 @@ nestemäinen - dara mate di
 nettisivu - netoloke  
 neuvo - sela loga  
 neuvoa - fa sela  
-neuvontantaja (mentori) - menter  
+neuvontantaja (mentori) - mentor  
 Nevis - Nevis  
 newton (N) - niuton  
 niedziela - var sete  
@@ -1902,7 +1903,7 @@ nilviäinen - moluske
 nimi - name  
 nimittää (kutsua) - fa name  
 niobium - niobium  
-nisä (tissi) - mam  
+nisä (tissi) - titi  
 nisäkäs - mamal  
 Niue - Niue  
 no - nu  
@@ -1939,7 +1940,7 @@ nuori - joveni
 nuorukainen - joven  
 nuoruus - jovenia  
 nussia (panna) - choda  
-nuudeli - men  
+nuudeli - mien  
 nykyinen (tämänhetkinen) - zai zaman di  
 nyrkkeilijä - bokse ja  
 nyrkkeily - bokse  
@@ -1993,8 +1994,8 @@ omaisuus - mal
 Oman - Oman  
 omena - aple  
 omenasose - aple sos  
-omistaa - mala  
-omistaja (pitäjä, hallussapitäjä) - malan  
+omistaa - fa mal  
+omistaja (pitäjä, hallussapitäjä) - mal ja  
 ommella - siu  
 ongelma - problem  
 ongelmallinen - problem di  
@@ -2038,7 +2039,7 @@ osoittaa (tähdätä) - fa dika
 ostaa - fa shopi  
 ostaja - shopi ja  
 ostokset - shopi  
-otella - mecha  
+otella - fa meche  
 ottaa esiin (paljastaa) - eshpoza  
 ottaa kiinni (napata, kaapata) - kape  
 ottelu (matsi) - meche  
@@ -2121,7 +2122,7 @@ papukaija - papagai
 Paraguai - Paraguai  
 parametri (argumentti) - param  
 Pariisi - Paris  
-parillinen luku - par numba  
+parillinen luku - par nomer  
 parkkipaikka - kar parke  
 parsa - lusun  
 parta - barde  
@@ -2144,9 +2145,9 @@ Peking (Beijing) - Beijing
 pelaaja - gemer  
 pelata - gema  
 peli - gem  
-pelokas - fobi  
-pelottaa - foba  
-pelottava - fobani  
+pelokas - fobi di  
+pelottaa - fa fobi  
+pelottava - fobi ja  
 pelätä - fobu  
 penkki - benchi  
 perhe - famil  
@@ -2243,7 +2244,7 @@ Pohjois-Korea - Norde Chosen
 Pohjois-Kypros - Norde Kipris  
 pohtia (meditoida) - jen  
 poika (nuori mies) - joveni man  
-poika - mani pute  
+poika - man ben  
 poikittainen (vaaka) - vei di  
 poissulkeva (eksklusiivinen) - eshklusivi  
 poistaa (hävittää) - fa no zai  
@@ -2289,7 +2290,7 @@ povi - buste
 praseodyymi - praseodimium  
 presidentti - prezidente  
 profeetta - nabi ja  
-profeetta Mani - Manihai  
+profeetta Mani - Mani  
 professori - profesor  
 profetia - nabi  
 projektio (diakuva) - lance grafi  
@@ -2478,7 +2479,7 @@ roska - laji
 rotu - rasa  
 rotujen välinen - rasa medi  
 Ruanda - Ruanda  
-rubiini - lal bau sheke  
+rubiini - rubi  
 ruiske (injektio) - jush  
 ruiskuttaa - jusha  
 rukoilla (anoa) - dua  
@@ -2513,7 +2514,7 @@ röntgenium - rengenium
 saaja (vastaanottaja) - daku ja  
 saapas (buutsi) - buta  
 saari - nesia  
-saaristo - nesia grupe  
+saaristo - nesia jama  
 saatana (sielunvihollinen) - shatan ja  
 saavuttaa (saavutettua tilaa ilmaiseva apuverbi) - leu  
 sade - shava  
@@ -2618,7 +2619,7 @@ Senegal - Senegal
 sensori (aistin) - sense gi  
 sentti - centi  
 senttimetri (cm) - centimitre  
-seppä - metaljanger  
+seppä - metal jang ja  
 Serbia - Serbia  
 serkku - chin brus ben  
 seura - soci  
@@ -2699,7 +2700,7 @@ slaavilainen - Slave
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 slummi - harabu mahala  
-smaragdi - zumarda  
+smaragdi - zumarde  
 smurffi - blu elfe  
 sohva - kanape  
 sohva - sofa  
@@ -2855,12 +2856,12 @@ tai (vai) - o
 taianomainen (maaginen) - magi  
 taide - sundar shutu  
 taiga - taiga  
-taika (taikuus, magia) - magia  
-taikuri - mager  
+taika (taikuus, magia) - magi  
+taikuri - magi ja  
 Taipei - Taibei  
 taipumus - klin  
 taistelu (sota) - jeng  
-taitaa (olla mestari jskn) - mesta  
+taitaa (olla mestari jskn) - fa mestre  
 taiteilija - arte ja  
 taito - shutu  
 taivaankappale - astro  
@@ -2876,7 +2877,7 @@ takuu - garante
 tallenne (rekisteri, loki) - loge  
 tallettaa (tallentaa) - banka  
 tallium - talium  
-taloustiede (ekonomia) - malnomia  
+taloustiede (ekonomia) - mal nomi  
 talvi - leng mosim  
 talvinen - lengomosimi  
 tamil (eräs intialainen kieli) - Tamil  
@@ -3156,7 +3157,7 @@ umami (ruokaisanmakuinen) - umami
 unelias - sona tabi  
 unettomuus - an sona  
 universaali - un verse di  
-Unkari - Magyaria  
+Unkari - Magyar  
 unohtaa - an memo  
 upea (hieno) - kuli  
 upea (mahtava) - super  
@@ -3203,7 +3204,7 @@ vahvistaa (voimistaa) - fa forte
 vaihe (etappi) - faze  
 vaihtaa - badal  
 vaihtoehto - chuzable  
-vaijeri (metallilanka) - metallin  
+vaijeri (metallilanka) - metal lin  
 vaikeus (hankaluus) - dushal  
 vaikuttaa - fa asar  
 vaikutus (tulos) - asar  
@@ -3319,7 +3320,7 @@ vietnamilainen - viete basha
 viha (suuttumus, raivo) - furia  
 viha - hen  
 vihainen (suuttunut) - furi  
-vihannes - choi  
+vihannes - coi  
 vihollinen - an doste  
 vihollinen - dusjan  
 vihreä - lugi  
@@ -3406,7 +3407,7 @@ väli - medi
 Välimeri - Geyomedi Hai  
 väline (instrumentti) - medi gi  
 välipala (naposteltava) - lilyam  
-välissä - medu  
+välissä - pa medi  
 väri - rang  
 väriaine - rang mate  
 väsymys - fatigia  
@@ -3491,9 +3492,9 @@ Zimbabwe - Zimbabue
 zirkonium - zirkonium  
 zombi - zombi  
 zulu - Zulu  
-äidinisä - ma de pa  
+äidinisä - ma pa  
 äidinkieli - jene basha  
-äidinäiti - ma de ma  
+äidinäiti - ma ma  
 äiti (emä) - ma  
 äitipuoli (isän puoliso) - vice ma  
 ällistyttää - fa ajibu  

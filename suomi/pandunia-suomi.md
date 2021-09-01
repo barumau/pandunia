@@ -13,7 +13,7 @@ adil - oikeudenmukainen
 adil kan - oikeus (käräjätalo)  
 adil ta - oikeus  
 adres - osoite  
-adres harfi - @-merkki  
+adres zi - @-merkki  
 Afgan - Afganistan  
 Afrika - Afrikka  
 agile - ketterä  
@@ -487,7 +487,7 @@ chena - edeltää (olla ennen)
 chenaga - edellyttää  
 chendeno - eilen  
 chenfikse - etuliite (prefiksi)  
-cheng - kerros  
+ceng - kerros  
 cheni - edellinen  
 cheniki - vanha (muinainen)  
 cheno - ennen (aikaisemmin, aiemmin)  
@@ -520,7 +520,7 @@ chita - lainata (siteerata)
 chitomarke - lainausmerkki  
 chize - juusto  
 choda - nussia (panna)  
-choi - vihannes  
+coi - vihannes  
 choklate - suklaa  
 choklatobaton - suklaapatukka  
 chongching - Chongqing  
@@ -643,7 +643,7 @@ deu din ja - teisti
 deu kata - jumaltaru (myytti)  
 deu krati - teokratia  
 deu logi - teologia  
-deu nagar harfi - devanagari  
+deu nagar zi - devanagari  
 deu sofi - teosofia  
 deve - täytyä (olla pakko)  
 deve ta - pakko  
@@ -1081,10 +1081,10 @@ flame - tulehdus
 fleche - nuoli  
 flerovium - flerovium  
 flur - fluori  
-foba - pelottaa  
-fobani - pelottava  
-fobi - pelokas  
-fobia - kammo (fobia)  
+fa fobi - pelottaa  
+fobi ja - pelottava  
+fobi di - pelokas  
+fobi - kammo (fobia)  
 Fobos - Fobos  
 fobu - pelätä  
 fokus - keskittyminen (keskittymä)  
@@ -1279,7 +1279,7 @@ grimas - irvistys
 grom - jyrinä (ukkonen)  
 gromtafun - ukkosmyrsky  
 gros - paksu  
-gros harfi - lihavoitu kirjain  
+gros zi - lihavoitu kirjain  
 grosta - paksuus  
 grupe - ryhmä  
 gua - luola  
@@ -1352,8 +1352,8 @@ harabu mahala - slummi
 harama - kieltää  
 harami - kielletty  
 haramliste - musta lista  
-harfi - kirjain  
-harfi harfi - aakkoset (ABC)  
+fon zi - kirjain  
+zi sili - aakkoset (ABC)  
 harmoni - harmoninen  
 harmonia - harmonia  
 harnes - valjaat  
@@ -1463,7 +1463,7 @@ icha - tahtoa
 icha - tahto  
 idea - käsite (idea)  
 idea di - käsitteellinen  
-idea harfi - ideogrammi  
+idea zi - ideogrammi  
 idiote - typerys (idiootti)  
 idioti - tyhmä (hölmö)  
 idiotia - tyhmyys (typeryys)  
@@ -1689,7 +1689,7 @@ karavi - kumina
 karbau - vesipuhveli  
 karbe - hiili  
 karbodulokside - hiilidioksidi  
-karde - kortti  
+karte - kortti  
 karer - työntekijä (työläinen)  
 karibi - läheinen  
 karibo - lähes (melkein)  
@@ -1782,7 +1782,7 @@ kira kape - vuokrata
 kirate - karaatti  
 Kirgizia - Kirgistan (Kirgisia)  
 Kiribati - Kiribati  
-Kiril harfi - kyrilliset aakkoset  
+Kiril zi - kyrilliset aakkoset  
 kisma - kohtalo (määrä)  
 kita - mennä  
 kitabu - kirjoitus (teksti)  
@@ -1931,7 +1931,7 @@ laji bagi - kaatopaikka
 laji tong - jäteastia (roskakori, roskis)  
 laka - lakka  
 lal - punainen  
-lal bau sheke - rubiini  
+rubi - rubiini  
 lal oranje - mandariini  
 lampa - lamppu  
 lance - heittää (paiskata)  
@@ -1947,7 +1947,7 @@ lasti - joustava (elastinen)
 lasun - valkosipuli  
 late - sivu (kylki, puoli)  
 lati - sivu-  
-Latin harfi - latinalaiset aakkoset  
+Latin zi - latinalaiset aakkoset  
 Latvia - Latvia  
 Lau - Laos  
 laurencium - lawrensium  
@@ -2054,16 +2054,16 @@ Luter din ja - luterilainen
 lutetium - lutetium  
 ####M - M  
 ma - äiti (emä)  
-ma de ma - äidinäiti  
-ma de pa - äidinisä  
+ma ma - äidinäiti  
+ma pa - äidinisä  
 maf - anteeksi  
-mafa - antaa anteeksi  
-mager - taikuri  
+fa maf - antaa anteeksi  
+magi ja - taikuri  
 magesium - magnesium  
 magi - taianomainen (maaginen)  
-magia - taika (taikuus, magia)  
-Magribia - Marokko  
-Magyaria - Unkari  
+magi - taika (taikuus, magia)  
+Magribe desha - Marokko  
+Magyar - Unkari  
 mahala - kaupunginosa (kortteli, naapurusto)  
 mais - maissi  
 maitnerium - meitnerium  
@@ -2073,48 +2073,48 @@ makan - voi
 makas - sakset  
 Makau - Macao  
 mal - omaisuus  
-mala - omistaa  
-malagasi - malagassi  
-Malagasia - Madagaskar  
+fa mal - omistaa  
+madagaskar di - malagassi  
+Madagaskar - Madagaskar  
 Malaisia - Malesia  
-malan - omistaja (pitäjä, hallussapitäjä)  
+mal ja - omistaja (pitäjä, hallussapitäjä)  
 malaria - malaria  
 Malavi - Malawi  
 malayali - malajalam (eräs intialainen kieli)  
-malayi - malaiji  
+malayu - malaiji  
 Mali - Mali  
-malnomia - taloustiede (ekonomia)  
+mal nomi - taloustiede (ekonomia)  
 Malta - Malta  
-malu - kuulua (olla jkn hallussa)  
+be mal - kuulua (olla jkn hallussa)  
 Malvinas nesia - Falklandin saaret  
-mam - nisä (tissi)  
+titi - nisä (tissi)  
 mamal - nisäkäs  
 man - uros (mies)  
 man raja - kuningas  
 mana - merkitys  
 manete - magneetti  
-maneti - magneettinen  
+manete di - magneettinen  
 mangan - mangaani  
-mangi - kiireinen  
-mangou - mango  
+mang - kiireinen  
+mango - mango  
 mangus - mangostani  
-mani pute - poika  
-Manihai - profeetta Mani  
-manihayistia - manikealaisuus  
+man ben - poika  
+Mani - profeetta Mani  
+mani din - manikealaisuus  
 Manin nes - Manin saari  
-manir - käytös (käyttäytyminen, tapa, tavat)  
+manira - käytös (käyttäytyminen, tapa, tavat)  
 manira - käyttäytyä  
 mantra - messuta  
-mantre - mantra  
+mantra - mantra  
 mantu - täytetty pulla  
-manyoke - kassava (maniokki)  
+manioka - kassava (maniokki)  
 mar - kerta (vuoro)  
 marati - marathi (eräs intialainen kieli)  
 maraton - maratoni  
-marcha - kävellä  
+marche - kävellä  
 marche - kävely (marssi)  
 margarin - margariini  
-marka - merkitä (jättää jälki)  
+fa marke - merkitä (jättää jälki)  
 marke - merkki (jälki)  
 Marse - Mars  
 Marshal nesia - Marshall-saaret  
@@ -2124,12 +2124,12 @@ mas di fen - enemmistö
 mas fili - suosia (pitää parempana)  
 mas fili di - suosikki (suosittu)  
 mas fili jui - suosinta (favoritismi)  
-mas ze basa - liikaa  
+mas ka basa - liikaa  
 masa - massa  
 masaje - vaivata (hieroa)  
 masaje - hieronta  
 masala tika - tikka masala  
-masale - mauste  
+masala - mauste  
 masim - eniten  
 masim - maksimi (enimmäismäärä)  
 masim di - enimmäis-  
@@ -2142,24 +2142,24 @@ mate - aine (materia)
 mate di - aineellinen (materiaalinen)  
 matras - patja  
 matur - aikuinen  
-maturi - kypsä (aikuinen)  
-maturi fem - nainen  
-maturi man - mies  
+matur - kypsä (aikuinen)  
+matur fem - nainen  
+matur man - mies  
 mau - kissa  
-mayan - maya (mayaintiaani)  
+maya - maya (mayaintiaani)  
 Mayote - Mayotte  
 maze - sukka  
 me poze - sija (paikka järjestyksessä)  
-mecha - otella  
+fa meche - otella  
 meche - ottelu (matsi)  
 medal - mitali  
 meden - kenttä (aukio)  
-medenfobia - agorafobia (avaran paikan kammo)  
-medeni - avara (aava, aukea)  
+meden fobi - agorafobia (avaran paikan kammo)  
+meden di - avara (aava, aukea)  
 medi - väli  
 medi gi - väline (instrumentti)  
-medi ya - media  
-medu - välissä  
+medi she - media  
+pa medi - välissä  
 medu - hunaja  
 medu fong - mehiläinen  
 medu fong nide - mehiläispesä  
@@ -2170,15 +2170,15 @@ Mehiko - Meksiko
 melodi - melodinen (sointuisa)  
 melodi - melodia (sävelmä)  
 mem - muisti  
-mema - muistaa  
-memba - kuulua (olla jäsenenä)  
-member - jäsen (osatekijä, komponentti)  
+fa mem - muistaa  
+si membre - kuulua (olla jäsenenä)  
+membre - jäsen (osatekijä, komponentti)  
 meme - lammas  
-memnote - muistio (muistiinmerkintä)  
-men - nuudeli  
+mem note - muistio (muistiinmerkintä)  
+mien - nuudeli  
 meninge - aivokalvo  
 meninge flame - aivokalvontulehdus  
-menter - neuvontantaja (mentori)  
+mentor - neuvontantaja (mentori)  
 Merkur - Merkurius  
 mes bato - elokuu  
 mes chatre - huhtikuu  
@@ -2196,15 +2196,16 @@ mesi - kristus (messias)
 mesi di - messiaaninen  
 mesi din - kristinusko  
 mesi din ja - kristitty  
-mesi jen - joulu  
-mesta - taitaa (olla mestari jskn)  
-mester - mestari (asiantuntija)  
+mesi jene - joulu  
+fa mestre - taitaa (olla mestari jskn)  
+mestre - mestari (asiantuntija)  
 metal - metalli  
-metaljanger - seppä  
-metallin - vaijeri (metallilanka)  
+metal jang ja - seppä  
+metal lin - vaijeri (metallilanka)  
 metre - mitta (koko, määrä)  
-metregraf - kartta  
-metregrafia - kartogratia  
+metre grafi - kaavio (kartta)  
+topo metre grafi - kartta  
+metre grafi shutu - kartogratia  
 meza - pöytä  
 meza tela - pöytäliina  
 mi - minä  
@@ -2224,7 +2225,7 @@ mimen - me
 mimen su - meidän  
 min - vähemmän  
 min di fen - vähemmistö  
-min ze basa - liian vähän  
+min ka basa - liian vähän  
 minare - torni  
 ming - kirkas (selkeä)  
 minim - vähiten  
@@ -2365,7 +2366,7 @@ nerve di - hermostollinen
 nerve pati - hermosairaus (neuropatia)  
 nerve toksi - hermomyrkky  
 nesia - saari  
-nesia grupe - saaristo  
+nesia jama - saaristo  
 nete - verkko  
 netoloke - nettisivu  
 Nevis - Nevis  
@@ -2434,7 +2435,7 @@ nu - no
 nude - alaston (paljas, naku)  
 nude jui - nudismi  
 nude jui ja - nudisti  
-numba - lukumäärä (luku, numero)  
+nomer - lukumäärä (luku, numero)  
 ####O - O  
 o - tai (vai)  
 Oceania - Oseania  
@@ -2538,7 +2539,7 @@ Papua Nove Ginia - Papua Uusi-Guinea
 par - tasainen (tasavertainen)  
 par face - taso  
 par jan - vertainen  
-par numba - parillinen luku  
+par nomer - parillinen luku  
 par veze ta - tasapaino  
 Paraguai - Paraguai  
 param - parametri (argumentti)  
@@ -3487,7 +3488,7 @@ zuku - kansanryhmä (etninen ryhmä)
 zuku di - etninen  
 zuku medi di - kansanryhmien välinen  
 Zulu - zulu  
-zumarda - smaragdi  
+zumarde - smaragdi  
  - yliarvioida  
  - toimiva  
  - tietty (tunnettu)  

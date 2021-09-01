@@ -203,7 +203,7 @@ chir - rasgar
 chira - rasgar  
 chirchiri - esfarrapado  
 chize - queijo  
-choi - verdura  
+coi - verdura  
 choklate - chocolate  
 choklatobaton - barra de chocolate  
 chope - enxada  
@@ -235,7 +235,7 @@ defkaske - armadura
 den - dia  
 deu - deus  
 deu kata - mito  
-deu nagar harfi - devanágari  
+deu nagar zi - devanágari  
 deu sofi - teosofia  
 deve - dever  
 dika - objetivo  
@@ -356,8 +356,8 @@ fito logi - botânica
 fito yam jui ja - vegetariano  
 flame - inflamaçao  
 fleche - flecha (seta)  
-foba - assustar  
-fobani - assustador  
+fa fobi - assustar  
+fobi ja - assustador  
 fobu - temer  
 fong - abelha ou vespa  
 fora - furar (perfurar)  
@@ -446,7 +446,7 @@ haitate - costa
 haki - direito  
 hal - estado  
 hali - vazio  
-hali harfi - espaço  
+hali zi - espaço  
 halifa - califa  
 halo - alô  
 hami - importante  
@@ -583,7 +583,7 @@ karate - caratê
 karavi - alcaravia (cariz)  
 karbodulokside - dióxido de carbono  
 karchof - alcachofra  
-karde - carta  
+karte - carta  
 kardon - cardo  
 karer - trabalhador  
 karimia - generosidade  
@@ -672,7 +672,7 @@ laji - lixo (refugo , escória)
 laji bagi - aterro (lixão)  
 laji tong - lixeira  
 lal - vermelho  
-lal bau sheke - rubi  
+rubi - rubi  
 lal oranje - tangerina (mandarim)  
 lal salmon - salmão-vermelho  
 lama - lama  
@@ -742,24 +742,24 @@ Luter din - luteranismo
 Luter din ja - luterano  
 ####M - M  
 ma - mãe  
-mafa - perdoar (desculpar)  
+fa maf - perdoar (desculpar)  
 magesium - magnésio  
-Magribia - Marrocos  
+Magribe desha - Marrocos  
 mahala - quarteirão  
 majang - mahjong  
-makanful - dente-de-leão (taráxaco)  
-malnomia - economia  
-mam - seio (mama)  
+makan hua - dente-de-leão (taráxaco)  
+mal nomi - economia  
+titi - seio (mama)  
 man raja - rei  
-mangi - ocupado (atarefado)  
-manihayistia - maniqueísmo  
-manir - comportamento (conduta)  
+mang - ocupado (atarefado)  
+mani din - maniqueísmo  
+manira - comportamento (conduta)  
 mantol - capa  
-mantre - mantra  
+mantra - mantra  
 mar - vez  
 marche - marcha  
 margai - gato-maracajá  
-margarite - margarida  
+margarita - margarida  
 marke - mancha (marca)  
 Marse - Marte  
 mas - mais  
@@ -767,18 +767,18 @@ mas fili - preferir
 mas fili di - favorito (preferido)  
 mas fili jui - favoritismo  
 masa - massa  
-masale - tempero  
+masala - tempero  
 masim - máximo  
 maska - máscara  
-masmul - tubérculo  
-masmulsolful - alcachofra-girassol (tupinambo)  
+masa mula - tubérculo  
+masa mula sol hua - alcachofra-girassol (tupinambo)  
 masta - mastro  
 mate - matéria  
 mau - gato  
 maze - meia  
 meche - partida  
 meden - praça  
-medenpapil - papoila  
+meden papil - papoila  
 medi - meio (metade)  
 medi - moyen  
 medi gi - meio (instrumento)  
@@ -786,15 +786,16 @@ medu - mel
 megi - nuvem  
 melon - melão  
 mem - memória  
-mema - lembrar-se (recordar-se)  
+fa mem - lembrar-se (recordar-se)  
 meninge - meninge  
 merante - meranti  
 Merkur - Mercúrio  
-mester - mestre  
-metalbede - bigorna  
-metallin - arame  
-metregraf - carta geográfica  
-metregrafia - cartografia  
+mestre - mestre  
+metal bede - bigorna  
+metal lin - arame  
+metre grafi - carta  
+topo metre grafi - carta geográfica  
+metre grafi shutu - cartografia  
 meza - mesa  
 meza tela - toalha de mesa  
 mi - eu (me)  
@@ -869,7 +870,7 @@ nove jene di - recém-nascido
 nove ka - novato (neófito)  
 nove loga - neologismo  
 nove ta - novidade  
-numba - número  
+nomer - número  
 ####O - O  
 o - ou  
 ocelote - jaguatirica (ocelote)  
@@ -1121,7 +1122,7 @@ soi sos - molho de soja
 soka - buscar (procurar)  
 sol - sol  
 sol chati - sombrinha  
-sol ful - girassol  
+sol hua - girassol  
 sona - sono  
 sona - dormir  
 sona kamar - quarto (dormitório)  
@@ -1267,7 +1268,7 @@ zou logi - zoologia
 zou logi di - zoológico  
 zuku - etnia  
 zuku di - étnico  
-zumarda - esmeralda  
+zumarde - esmeralda  
  - superestimar (sobrestimar)  
  - carregar  
  - chuvoso (pluvioso)  

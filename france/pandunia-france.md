@@ -14,7 +14,7 @@ ada di - ordinaire (habituel, normal)
 adil - juste  
 adil ta - justice  
 adres - adresse  
-adres harfi - arobase (@)  
+adres zi - arobase (@)  
 Afgan - Afghanistan  
 Afrika - Afrique  
 agile - agile  
@@ -355,7 +355,7 @@ defkaske - armure
 den - jour  
 deu - dieu  
 deu kata - mythe  
-deu nagar harfi - dévanagari  
+deu nagar zi - dévanagari  
 deu sofi - théosophie  
 deve - devoir  
 dika - objectif (cible)  
@@ -502,8 +502,8 @@ fito logi - botanique
 fito yam jui ja - végétarien  
 flame - inflammation  
 fleche - flèche  
-foba - effrayer  
-fobani - effrayant  
+fa fobi - effrayer  
+fobi ja - effrayant  
 fobu - craindre (avoir peur)  
 fong - abeille ou guêpe  
 fong nide - ruche (nid d'abeille)  
@@ -609,7 +609,7 @@ Haiti - Haïti
 haki - droit  
 hal - état  
 hali - vide  
-hali harfi - espace  
+hali zi - espace  
 halifa - calife  
 halo - allô  
 hami - important  
@@ -619,7 +619,7 @@ hapa - adapter (ajuster)
 hapi - approprié (adapté, convenable, opportun)  
 hapu - convenir (être approprié)  
 harabu mahala - bidonville  
-harfi harfi - alphabet  
+zi sili - alphabet  
 Hartum - Khartoum  
 hata - jusque (jusqu’à)  
 hata - voire (même)  
@@ -762,7 +762,7 @@ karate - karaté
 karate ka - karatéka  
 karbodulokside - dioxyde de carbone  
 karchof - artichaut  
-karde - carte  
+karte - carte  
 kardon - chardon  
 kardonkarchof - cardon  
 karer - travailleur (ouvrier)  
@@ -856,7 +856,7 @@ laji - ordures
 laji bagi - décharge  
 laji tong - poubelle  
 lal - rouge  
-lal bau sheke - rubis  
+rubi - rubis  
 lal oranje - mandarine  
 lal salmon - saumon sockeye  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
@@ -929,23 +929,23 @@ Luter din - luthéranisme
 Luter din ja - luthérien  
 ####M - M  
 ma - mère (maman)  
-mafa - pardonner  
+fa maf - pardonner  
 magesium - magnésium  
-Magribia - Maroc  
+Magribe desha - Maroc  
 mahala - quartier  
 majang - mah-jong  
-makanful - dandélion  
+makan hua - dandélion  
 mal - propriété (possession, bien)  
-malan - possédant (propriétaire)  
-malnomia - économie  
-malu - appartenir à  
-mam - sein  
+mal ja - possédant (propriétaire)  
+mal nomi - économie  
+be mal - appartenir à  
+titi - sein  
 man raja - roi  
-mangi - occupé  
-manihayistia - manichéisme  
-manir - comportement (manière)  
+mang - occupé  
+mani din - manichéisme  
+manira - comportement (manière)  
 mantol - cape  
-mantre - mantra  
+mantra - mantra  
 mar - fois  
 marche - marche  
 margai - margay (chat-tigre)  
@@ -956,11 +956,11 @@ mas fili - préférer
 mas fili di - favori (préféré)  
 mas fili jui - favoritisme  
 masa - masse  
-masale - épices  
+masala - épices  
 masim - maximum  
 maska - masque  
-masmul - tubercule  
-masmulsolful - topinambour  
+masa mula - tubercule  
+masa mula sol hua - topinambour  
 masta - mât  
 mate - matière  
 matur - adulte  
@@ -968,24 +968,25 @@ mau - chat
 me poze - rang  
 meche - match  
 meden - place  
-medenpapil - coquelicot  
+meden papil - coquelicot  
 medi - medio  
 medu - miel  
 medu fong nide - rayon de miel  
 megi - nuage  
 mem - mémoire  
-mema - se rappeler (se remémorer)  
+fa mem - se rappeler (se remémorer)  
 meme kesh - laine  
 men - on  
 meninge - méninge  
 Merkur - Mercure  
 mes bato - août  
 mesi - Christ (messie)  
-mester - maître  
-metalbede - enclume  
-metallin - fil de fer  
-metregraf - carte  
-metregrafia - cartographie  
+mestre - maître  
+metal bede - enclume  
+metal lin - fil de fer  
+metre grafi - carte (graphique)  
+topo metre grafi - carte (plan)  
+metre grafi shutu - cartographie  
 meza - table  
 meza tela - nappe  
 mi - je (me)  
@@ -1067,7 +1068,7 @@ nove jene di - nouveau-né
 nove ka - néophyte  
 nove loga - néologisme  
 nove ta - nouveauté  
-numba - nombre (numéro)  
+nomer - nombre (numéro)  
 ####O - O  
 o - ou  
 ocelote - ocelot  
@@ -1114,7 +1115,7 @@ papagai - perroquet
 papaya - papaye  
 par - pair (pareil, egal)  
 par face - niveau  
-par numba - nombre pair  
+par nomer - nombre pair  
 par veze ta - équilibre  
 param - paramètre  
 parche - fragment  
@@ -1355,7 +1356,7 @@ soka - chercher
 sol - soleil  
 sol centaure - Centaurée du solstice  
 sol chati - ombrelle (parasol)  
-sol ful - Tournesol  
+sol hua - Tournesol  
 sona - sommeil  
 sona - dormir  
 sona kamar - chambre à coucher  
@@ -1536,7 +1537,7 @@ zou logi di - zoologique
 zuku - ethnie  
 zuku di - ethnique  
 Zulu - zoulou  
-zumarda - émeraude  
+zumarde - émeraude  
  - surestimer  
  - pluvieux  
  - adversaire (antagoniste, ennemi)  

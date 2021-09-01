@@ -226,7 +226,7 @@ chira - рвать
 chirchira - изорвать  
 chirchiri - изорванный  
 chize - сыр  
-choi - зелень  
+coi - зелень  
 choklate - шоколад  
 chope - мотыга  
 chun - деревня (село)  
@@ -264,7 +264,7 @@ defkaske - доспехи
 den - день  
 deu - бог  
 deu kata - миф  
-deu nagar harfi - деванагари  
+deu nagar zi - деванагари  
 deu sofi - теософия  
 dika - цель  
 din - религия (вера)  
@@ -399,7 +399,7 @@ fito logi - ботаника
 fito yam jui ja - вегетарианец  
 flame - воспаление  
 fleche - стрела (стрелка)  
-foba - страшить  
+fa fobi - страшить  
 fobu - бояться (страшиться)  
 fora - сверлить (бурить)  
 foto - свет  
@@ -500,7 +500,7 @@ hande - рука
 handoshake - рукав  
 hapi - подходящий (годный)  
 harabu mahala - трущоба  
-harfi harfi - алфавит  
+zi sili - алфавит  
 Hartum - Хартум  
 hata - до  
 hatar - опасность  
@@ -635,7 +635,7 @@ karate ka - каратист (каратэка)
 karbodulokside - двуокись углерода  
 karbosui - углевод  
 karchof - артишок посевной  
-karde - карта  
+karte - карта  
 kardon - расторопша  
 kardonkarchof - артишок испанский (кардон)  
 karer - работник  
@@ -728,7 +728,7 @@ laji - мусор (дрянь)
 laji bagi - свалка  
 laji tong - мусорный бак  
 lal - красный  
-lal bau sheke - рубин  
+rubi - рубин  
 lal lince - рыжая рысь  
 lal oranje - мандарин  
 lal salmon - нерка (красница)  
@@ -795,34 +795,34 @@ Luter din ja - лютеранский
 ####M - M  
 ma - мать (мама)  
 magesium - магний  
-Magribia - Марокко  
+Magribe desha - Марокко  
 mahala - квартал  
 majang - маджонг  
-majenti - маджента (фуксия)  
-makanful - одуванчик  
-malnomia - экономика  
-malu - принадлежать  
+majenta - маджента (фуксия)  
+makan hua - одуванчик  
+mal nomi - экономика  
+be mal - принадлежать  
 man raja - король  
-mangi - занятый  
-manihayistia - манихейство  
-manir - поведение (манера)  
+mang - занятый  
+mani din - манихейство  
+manira - поведение (манера)  
 mantol - плащ (накидка)  
-mantre - мантра  
+mantra - мантра  
 mar - раз  
 marche - марш  
 margai - маргай  
-margarite - маргаритка  
+margarita - маргаритка  
 Marse - Марс  
 mas fili - предпочитать  
 mas fili di - любимый  
 mas fili jui - фаворитизм (кумовство)  
-mas forte - пополнение  
+mas forte ta - пополнение  
 masa - масса  
-masale - пряность  
+masala - пряность  
 masim - максимум  
 maska - маска  
-masmul - клубень  
-masmulsolful - топинамбу́р  
+masa mula - клубень  
+masa mula sol hua - топинамбу́р  
 masta - мачта  
 mate - материя  
 matur - взрослый  
@@ -831,7 +831,7 @@ maze - носок
 me poze - ранг  
 meche - матч  
 meden - площадь (сквер, майдан)  
-medenpapil - мак самосейка  
+meden papil - мак самосейка  
 medi - средний  
 medi gi - средство  
 medu - мёд  
@@ -839,13 +839,14 @@ medu fong nide - улей (соты)
 megi - облако  
 melon - дыня  
 mem - память  
-mema - помнить  
-memnote - меморандум  
+fa mem - помнить  
+mem note - меморандум  
 Merkur - Меркурий  
-mester - мастер  
-metalbede - наковальня  
-metregraf - карта  
-metregrafia - картография  
+mestre - мастер  
+metal bede - наковальня  
+metre grafi - карта (график, схема)  
+topo metre grafi - карта (план)  
+metre grafi shutu - картография  
 meza - стол  
 meza tela - скатерть  
 mi - я  
@@ -929,7 +930,7 @@ nove ka - новичок
 nove loga - неологизм  
 nove ta - новизна  
 nu - ну  
-numba - число  
+nomer - число  
 ####O - O  
 o - или  
 ocelote - оцелот  
@@ -971,7 +972,7 @@ papaya - папайя
 par - равный  
 par face - уровень  
 par jan - ровня  
-par numba - чётное число  
+par nomer - чётное число  
 par veze ta - равновесие (баланс)  
 param - параметр (аргумент)  
 parche - кусок  
@@ -1050,7 +1051,7 @@ pul fito yam jui ja - веган
 pul shipu - мариновать  
 pulmon flame - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
-punte numba - оценка  
+punte nomer - оценка  
 putau bagi - виноградник  
 putau oranje - грейпфрут  
 ####R - R  
@@ -1208,7 +1209,7 @@ soi sos - соевый соус
 soka - искать  
 sol - солнце  
 sol chati - зонтик от солнца  
-sol ful - подсолнечный  
+sol hua - подсолнечный  
 sona - спать  
 sona kamar - спальня  
 sona papil - мак снотворный  
@@ -1401,7 +1402,7 @@ zuku - этнос
 zuku di - этнический  
 zuku medi di - межэтнический  
 Zulu - зулус  
-zumarda - изумруд  
+zumarde - изумруд  
  - переоценить  
  - обременять  
  - дождливый  

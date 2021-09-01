@@ -12,7 +12,7 @@ ada di - zwyczajny (rutynowy, normalny)
 adil - sprawiedliwy  
 adil ta - sprawiedliwość  
 adres - adres  
-adres harfi - małpa (znak na  
+adres zi - małpa (znak na  
 Afgan - Afganistan  
 Afrika - Afryka  
 agile - zwinny, sprawny  
@@ -478,7 +478,7 @@ chena - poprzedzić, poprzedzać
 chenaga - zakładać (założyć)  
 chendeno - wczoraj  
 chenfikse - przedrostek (prefiks)  
-cheng - warstwa (poziom, piętro, kondygnacja)  
+ceng - warstwa (poziom, piętro, kondygnacja)  
 cheni - poprzedni  
 chenike - relikwia  
 cheniki - stary, starożytny  
@@ -510,7 +510,7 @@ chita - cytować
 chitomarke - cudzysłów  
 chize - ser  
 choda - jebać, kopulować  
-choi - zielenina  
+coi - zielenina  
 choklate - czekolada  
 choklatobaton - baton czekoladowy  
 chongching - Chongqing  
@@ -630,7 +630,7 @@ deu din ja - teistyczny
 deu kata - mit (boska opowieść)  
 deu krati - teokracja  
 deu logi - teologia  
-deu nagar harfi - dewanagari  
+deu nagar zi - dewanagari  
 deu sofi - teozofia  
 deve - musieć  
 deve ta - przymus  
@@ -860,7 +860,7 @@ fa node - zawiązywać (zawiązać węzeł)
 fa nomi - zarządzać (organizować, kierować)  
 fa note - powiadomić, powiadamiać  
 fa nove - odnowić, odnawiać, uczynić nowym  
-fa numba - liczyć  
+fa nomer - liczyć  
 fa okei - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 fa oko - patrzeć (oglądać)  
 fa ore - słuchać  
@@ -1037,7 +1037,7 @@ fleche - strzała (bełt)
 flecher - wytwórca łuków i strzał  
 flerovium - flerow  
 flur - fluor  
-fobia - strach, fobia  
+fobi - strach, fobia  
 fokus - skupienie, koncentracja  
 fokusa - skupić, się, skoncentrować się  
 foli - szalony  
@@ -1222,7 +1222,7 @@ grimas - grymas
 grom - grom, huk  
 gromtafun - burza z piorunami  
 gros - gruby  
-gros harfi - pogrubiona litera  
+gros zi - pogrubiona litera  
 grosta - grubość  
 grupe - grupa  
 gua - jaskinia  
@@ -1281,7 +1281,7 @@ halali - dozwolony (dopuszczalny, zezwolony, halal)
 halela - chwalić (wychwalać)  
 hali - pustka  
 hali - pusty  
-hali harfi - spacja  
+hali zi - spacja  
 halifa - kalif  
 halifa desha - kalifat  
 halo - halo, cześć  
@@ -1301,8 +1301,8 @@ harabu - zły, zrujnowany, zepsuty
 harabu mahala - slums  
 harama - zabronić (wzbronić, zakazać)  
 harami - zabroniony (wzbroniony, nielegalny, haram, tabu)  
-harfi - litera, znak  
-harfi harfi - alfabet, abecadło  
+fon zi - litera, znak  
+zi sili - alfabet, abecadło  
 harmoni - harmoniczny  
 harmonia - harmonia  
 harnes - zaprzęc, zaprzęgać  
@@ -1404,7 +1404,7 @@ icha - chcieć (pragnąć)
 icha - wola, chęć  
 idea - idea, pomysł  
 idea di - pojęciowy  
-idea harfi - ideogram  
+idea zi - ideogram  
 idiote - idiota  
 idioti - głupi (idiotyczny)  
 idiotia - idiotyzm (głupota)  
@@ -1631,7 +1631,7 @@ karbau - bawół domowy
 karbe - węgiel  
 karbodulokside - dwutlenek węgla  
 karchof - karczoch zwyczajny  
-karde - karta  
+karte - karta  
 kardon - oset  
 kardonkarchof - karczoch hiszpański  
 karer - pracownik  
@@ -1724,7 +1724,7 @@ kira kape - wynająć, oddać w najem
 kirate - karat  
 Kirgizia - Kirgistan  
 Kiribati - Kiribati  
-Kiril harfi - cyrylica  
+Kiril zi - cyrylica  
 kisma - przeznaczenie, los  
 kita - iść (przemieścić się)  
 kitabu - pismo, tekst  
@@ -1884,7 +1884,7 @@ laji - śmieć, odpadek
 laji tong - śmietnik  
 laka - lakier  
 lal - czerwony  
-lal bau sheke - rubin  
+rubi - rubin  
 lal lince - ryś rudy  
 lal oranje - mandarynka  
 lal salmon - nerka (łosoś czerwony)  
@@ -1907,7 +1907,7 @@ lasun - larwa, czerw, gąsienica
 lata - być obok  
 late - strona (bok)  
 lati - poziomy (horyzontalny, boczny)  
-Latin harfi - alfabet łaciński, łacinka, alfabet rzymski  
+Latin zi - alfabet łaciński, łacinka, alfabet rzymski  
 lato - z boku (na bok)  
 latojan - towarzysz (partner, kumpel)  
 Latvia - Łotwa  
@@ -2026,67 +2026,67 @@ lutetium - lutet
 ####M - M  
 ma - matka, mama  
 maf - przepraszam!  
-magasar - zaklecie  
-mager - magik, czarownik  
+magi asar - zaklecie  
+magi ja - magik, czarownik  
 magesium - magnez  
 magi - magiczny  
-magia - magia  
-Magribia - Maroko  
-Magyaria - Węgry  
+magi - magia  
+Magribe desha - Maroko  
+Magyar - Węgry  
 mahala - dzielnica  
 mais - kukurydza  
 maitnerium - meitner  
 majang - madżong  
-majenti - magenta  
+majenta - magenta  
 Makah - Mekka  
 makala - artykuł, tekst  
 makan - masło  
-makanful - mlecz  
+makan hua - mlecz  
 makas - nożyce, nożyczki  
 Makau - Makau  
 mal - własność (mienie)  
-mala - mieć (posiadać)  
-malagasi - madagaskarski; malagaski  
-Malagasia - Madagaskar  
+fa mal - mieć (posiadać)  
+madagaskar di - madagaskarski; malagaski  
+Madagaskar - Madagaskar  
 Malaisia - Malezja  
-malan - właściciel (posiadacz)  
+mal ja - właściciel (posiadacz)  
 malaria - malaria  
 Malavi - Malawi  
 malayali - malajski  
-malayi - malajski  
+malayu - malajski  
 Mali - Mali  
-malnomia - ekonomia  
+mal nomi - ekonomia  
 Malta - Malta  
-malu - należeć  
+be mal - należeć  
 Malvinas nesia - Falklandy, Malwiny  
 mamal - ssak  
 man - męski  
 man raja - król  
 mana - znaczenie  
 manete - magnes  
-maneti - magnetyczny  
+manete di - magnetyczny  
 mangan - mangan  
-mangi - zajęty  
-mangou - mango  
+mang - zajęty  
+mango - mango  
 mangus - mangostan  
-mani pute - syn  
-Manihai - prorok Mani  
-manihayistia - manicheizm  
+man ben - syn  
+Mani - prorok Mani  
+mani din - manicheizm  
 Manin nes - Wyspa Man  
-manir - zachowanie (maniery, kultura)  
+manira - zachowanie (maniery, kultura)  
 manira - zachowywać się (działać)  
 mantol - peleryna (płaszcz, opończa)  
 mantu - bułka gotowana na parze  
-manyoke - maniok  
+manioka - maniok  
 mar - czas; okazja  
 marati - marathi  
 maraton - maraton  
-marcha - iść, maszerować  
+marche - iść, maszerować  
 margai - margaj (ocelot nadrzewny)  
 margarin - margaryna  
-margarite - stokrotka  
+margarita - stokrotka  
 Marian nesia - Mariany Północne  
-marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
+fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
 Marse - Mars  
 Marshal nesia - Wyspy Marshalla  
@@ -2095,20 +2095,20 @@ mas di - dodatkowy
 mas di fen - większość  
 mas fili - preferować (woleć)  
 mas fili di - ulubiony  
-mas forte - wsparcie (wzmocnienie, zasilenie)  
-mas ze basa - zbyt  
+mas forte ta - wsparcie (wzmocnienie, zasilenie)  
+mas ka basa - zbyt  
 masa - masa  
 masaje - masaż  
 masala tika - tikka masala  
-masale - przyprawa  
-masdarja - zwiększyć o jeden  
-mashboni - dodatkowy  
+masala - przyprawa  
+mas darja - zwiększyć o jeden  
+bon mas she - dodatkowy  
 masim - nabardziej, maksymalnie  
 masim - maksimum  
 masim di - maksymalny  
 maska - maska, kamuflaż  
-masmul - bulwa  
-masmulsolful - topinambur  
+masa mula - bulwa  
+masa mula sol hua - topinambur  
 masta - maszt  
 mata - śmierć  
 mata di - martwy, nieżywy, zabity  
@@ -2117,25 +2117,25 @@ mate - materia, substancja
 mate di - materialny  
 matras - materac  
 matur - osoba dorosła  
-maturi - dorosły, dojrzały  
-maturi fem - kobieta, dorosła samica  
-maturi man - mężczyzna, dorosły samiec  
+matur - dorosły, dojrzały  
+matur fem - kobieta, dorosła samica  
+matur man - mężczyzna, dorosły samiec  
 mau - kot  
-mayan - Maya  
+maya - Maya  
 Mayote - Majotta  
 maze - skarpeta, skarpetka, pończocha  
-mecha - konkurować, rywalizować; odbyć mecz, odbywać mecz  
+fa meche - konkurować, rywalizować; odbyć mecz, odbywać mecz  
 meche - mecz, rywalizacja  
 medal - medalion, medal  
 meden - skwer, plac  
-medenfobia - agorafobia  
-medeni - otwarty (przestrzenny)  
-medenpapil - mak polny  
+meden fobi - agorafobia  
+meden di - otwarty (przestrzenny)  
+meden papil - mak polny  
 medi - środek  
 medi - średni  
 medi face - interfejs  
-medi ya - media  
-medu - między (wśród, pośród)  
+medi she - media  
+pa medi - między (wśród, pośród)  
 medu - miód  
 medu fong - pszczoła miodna  
 medu fong nide - plaster  
@@ -2150,17 +2150,17 @@ melodi - melodyczny
 melodi - melodia  
 melon - ogórek melon  
 mem - pamięć  
-mema - pamiętać  
-memba - należeć (być członkiem)  
-member - członek  
-membin - pomnik (memoriał)  
+fa mem - pamiętać  
+si membre - należeć (być członkiem)  
+membre - członek  
+mem bina - pomnik (memoriał)  
 meme - owca  
 meme kesh - wełna (runo owcze)  
-memnote - notatka, memo  
-men - makaron  
+mem note - notatka, memo  
+mien - makaron  
 meninge - opona mózgowa  
 meninge flame - zapalenie opon mózgowych  
-menter - doradca (mentor)  
+mentor - doradca (mentor)  
 merante - damarzyk (meranti)  
 Merkur - Merkury  
 mes bato - listopad  
@@ -2179,16 +2179,16 @@ mesi - Chrystus, mesjasz
 mesi di - mesjański  
 mesi din - chrześcijaństwo  
 mesi din ja - chrześcijanin  
-mesi jen - Boże Narodzenie  
-mesta - być mistrzem (być ekspertem)  
-mester - mistrz (ekspert)  
+mesi jene - Boże Narodzenie  
+fa mestre - być mistrzem (być ekspertem)  
+mestre - mistrz (ekspert)  
 metal - metal  
-metalbede - kowadło  
-metaljanger - kowal  
+metal bede - kowadło  
+metal jang ja - kowal  
 metre - zmierzyć (miara)  
-metregraf - mapa  
-metregrafia - kartografia  
-metrun - jednostka miary  
+metre grafi - mapa  
+metre grafi shutu - kartografia  
+metre unta - jednostka miary  
 meza - stół  
 meza tela - obrus  
 meza topo - płaskowyż (plateau)  
@@ -2208,7 +2208,7 @@ milke kardon - ostropest plamisty
 mimen - my  
 min - mniej  
 min di fen - mniejszość  
-min ze basa - zbyt mało  
+min ka basa - zbyt mało  
 minare - wieża  
 ming - jasny, czysty  
 minim - najmniej, minimalnie  
@@ -2360,7 +2360,7 @@ nerve celu - neuron
 nerve di - nerwowy (neuronowy)  
 nerve pati - neuropatia  
 nesia - wyspa  
-nesia grupe - archipelag  
+nesia jama - archipelag  
 nete - sieć  
 nete dona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 nete gete - ściągać (ściągnąć, pobrać, pobierać)  
@@ -2427,7 +2427,7 @@ Nove Zelande - Nowa Zelandia
 nude - nagi, goły, obnażony  
 nude jui - nudyzm  
 nude jui ja - nudysta  
-numba - numer  
+nomer - numer  
 ####O - O  
 o - lub, albo  
 Oceania - Oceania  
@@ -2719,7 +2719,7 @@ pulmon - płuco
 puma - puma (kuguar)  
 punte - kropka (znak interpunkcyjny)  
 punte ban - tablica wyników  
-punte numba - wynik (punktacja)  
+punte nomer - wynik (punktacja)  
 pupe - lalka, kukiełka, pacynka, marionetka  
 pusha - pchnąć, pchać  
 pusha gi - tłok  
@@ -2949,7 +2949,7 @@ sekse logi - seksuologia
 sekunde - sekunda  
 sekur - bezpieczny  
 sekur kode - hasło  
-sekur numba - osobisty numer identyfikacyjny (pin)  
+sekur nomer - osobisty numer identyfikacyjny (pin)  
 sela - powinien  
 sela loga - rada, porada  
 selenium - selen  
@@ -3106,7 +3106,7 @@ sol - słońce
 sol centaure - chaber wełnisty  
 sol chati - parasol  
 sol estaci - przesilenie  
-sol ful - słonecznik  
+sol hua - słonecznik  
 sol sistem - układ słoneczny  
 Solomon nesia - Wyspy Salomona  
 Somal - Somalia  
@@ -3553,7 +3553,7 @@ zuku - grupa etniczna
 zuku di - etniczny  
 zuku medi di - międzyetniczny  
 Zulu - zulu  
-zumarda - szmaragd  
+zumarde - szmaragd  
  - śnieżyć (padać)  
  - poprawny (wykonalny)  
  - wiadomy, znany  
