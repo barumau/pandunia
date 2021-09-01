@@ -30,7 +30,6 @@ This document is a simple guide to the main features of Pandunia.
 | **t**  | tʰ |
 | **u**  | u |
 | **v**  | w (ʋ, v) |
-| **x**  | ks (s) |
 | **y**  | j |
 | **z**  | z (dz) |
 
@@ -64,7 +63,7 @@ Number, definiteness and gender are indicated by additional words.
 – three cats  
 **ba mau**
 – many cats  
-**le mau**
+**a mau**
 – the cat(s)
 
 ### Personal pronouns
@@ -79,29 +78,29 @@ Number, definiteness and gender are indicated by additional words.
 
 The basic word order is subject–verb–object (SVO).
 
-**mi ama tu.**
+**mi ai tu.**
 – I love you.
 
 Tense, aspect and mood are indicated with helping verbs.
 
-**mi zai ama tu.**
+**mi zai ai tu.**
 – I am loving you.
 (**zai** indicates ongoing time i.e. progressive aspect)  
-**me pas ama tu.**
+**me pas ai tu.**
 – I loved you.
 (**pas** indicates the past time)  
-**mi leu ama tu.**
+**mi leu ai tu.**
 – I have loved you.
 (**leu** indicates completed action i.e. the perfective aspect)  
-**mi vil ama tu.**
+**mi vil ai tu.**
 – I will love you.
 (**vil** indicates future time)
 
 Passive voice is formed with the help of the helping verb **be**.
 
-**tu be ama.**
+**tu be ai.**
 – You are loved.  
-**mi be ama da tu.**
+**mi be ai da tu.**
 – I am loved by you.
 
 
@@ -111,22 +110,22 @@ Adjectives are before the noun that they modify.
 
 **un nove idea**
 – new idea  
-**le bon buke**
+**a bon buke**
 – the good book(s)
 
 Adjectives are compared with
-**max** (_more, -er_), **maxim** (_most, -est_),
+**mas** (_more, -er_), **masim** (_most, -est_),
 **min** (_less_), **minim** (_least_) and **sam** (_equally, as_).
 The point of comparison is introduced with **ka**.
 
-**mi su granpa e max lau ka tu su pa.**
+**mi su chin ba si mas lau ka tu su ba.**
 – My grandpa is older than your father.
 
 Adverbs are usually before the word that they modify.
 
-**mi muche ama tu.**
+**mi multi ai tu.**
 – I much love you.  
-**mi ama tu, muche.**
+**mi ai tu, multi.**
 – I love you much.
 
 
@@ -134,13 +133,13 @@ Adverbs are usually before the word that they modify.
 
 The word **no** denies the word that follows it.
 
-**no mi a ya vol kapa ya.**
+**no mi ama ya vol kape ya.**
 – Not me but he/she wants to take it.  
-**mi no vol kapa ya.**
+**mi no vol kape ya.**
 – I don't want to take it.  
-**mi vol no kapa ya.**
+**mi vol no kape ya.**
 – I want _not_ to take it.  
-**mi vol kapa no ya a va.**
+**mi vol kape no i ama u.**
 – I want to take not this but that.
 
 
@@ -150,10 +149,10 @@ The question words is
 **ke** (_what, who_).
 The normal word order is used in questions.
 
-**tu ama ke?**
+**tu ai ke?**
 – Who do you love?  
-**ke man ye ama tu?**
+**ke man ye ai tu?**
 – Which man loves you?  
-**tu ama mi ke muche?**
+**tu ai mi ke multi?**
 – How much do you love me?
 
