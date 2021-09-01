@@ -287,9 +287,11 @@ be bum - eksplodować (wybuchnąć, wybuchać)
 be dara - latać (fruwać)  
 be estaci - nie ruszać się  
 be ging - iść wzdłuż (pójść wzdłuż)  
+be hogo - spłonąć, płonąć  
 be jene - urodzić się, rodzić się  
 be kai - otworzyć się, otwierać się  
 be loka - być umiejscowionym (być ulokowanym, stać)  
+be mal - należeć  
 be mata - umrzeć, umierać  
 be migra - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 be mirde - niknąć (blaknąć, gasnąć, słabnąć)  
@@ -381,6 +383,7 @@ bon darja - aktualizować (zaktualizować, ulepszać, ulepszyć)
 bon deke - cnota (moralność)  
 bon deke di - cnotliwy (prawy)  
 bon guste di - pyszny  
+bon mas she - dodatkowy  
 bon sifa di - wspaniały  
 bon sifa ta - cecha, atrybut, własność; -ość  
 bon sin di - obiecujący (dobrze wróżący)  
@@ -443,6 +446,7 @@ celsius darje - stopień Celsjusza
 celu - komórka (biologia)  
 celu logi - cytologia  
 cen - sto (100)  
+ceng - warstwa (poziom, piętro, kondygnacja)  
 centaure - chaber  
 centi - centy-, procent, na sto, setna część  
 centimitre - centymetr  
@@ -478,7 +482,6 @@ chena - poprzedzić, poprzedzać
 chenaga - zakładać (założyć)  
 chendeno - wczoraj  
 chenfikse - przedrostek (prefiks)  
-ceng - warstwa (poziom, piętro, kondygnacja)  
 cheni - poprzedni  
 chenike - relikwia  
 cheniki - stary, starożytny  
@@ -510,7 +513,6 @@ chita - cytować
 chitomarke - cudzysłów  
 chize - ser  
 choda - jebać, kopulować  
-coi - zielenina  
 choklate - czekolada  
 choklatobaton - baton czekoladowy  
 chongching - Chongqing  
@@ -537,6 +539,7 @@ cirke sheki - bruk
 citi - miast, miasteczko  
 civil - cywilizowany (ucywilizowany)  
 civil ta - cywilizacja  
+coi - zielenina  
 Cuana - Botswana  
 ####D - D  
 da - z (partykuła posiadania)  
@@ -827,10 +830,12 @@ fa dalil - dowieść, dowodzić; zeznać, zeznawać
 fa dika - celować  
 fa estaci - zatrzymać (zatrzymywać, wstrzymać, wstrzymywać)  
 fa festa - świętować, imprezować  
+fa fili - lubić  
 fa forma - ukształtować, kształtować, urzeźbić, rzeźbić  
 fa forte - wzmocnić (wzmocnić, wzmóc)  
 fa gami - ożenić się, poślubić, wyjść za mąż  
 fa gol - przeznaczyć  
+fa hogo - spalić, palić  
 fa jama - kolekcjonować, zebrać, zbierać  
 fa javabu - odpowiedzieć, odpowiadać  
 fa jene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
@@ -844,9 +849,14 @@ fa Latin kitabu - zromanizować
 fa linke - łączyć, wiązać, złączyć  
 fa loka - umieścić (postawić)  
 fa long - przedłużyć, przedłużać  
+fa mal - mieć (posiadać)  
+fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 fa mas forte - wesprzeć (wzmocnić, zasilić)  
 fa masim - zmaksymalizować  
 fa mata - zabić, zabijać  
+fa meche - konkurować, rywalizować; odbyć mecz, odbywać mecz  
+fa memo - pamiętać  
+fa mestre - być mistrzem (być ekspertem)  
 fa migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
 fa min darja - zmniejszyć o jeden  
 fa ming - rozjaśnić  
@@ -857,10 +867,10 @@ fa muzika - grać muzykę
 fa name - nazwać, nazywać, wezwać, wzywać  
 fa no zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa node - zawiązywać (zawiązać węzeł)  
+fa nomer - liczyć  
 fa nomi - zarządzać (organizować, kierować)  
 fa note - powiadomić, powiadamiać  
 fa nove - odnowić, odnawiać, uczynić nowym  
-fa nomer - liczyć  
 fa okei - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 fa oko - patrzeć (oglądać)  
 fa ore - słuchać  
@@ -1010,9 +1020,8 @@ fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać
 fikir - myśl, pomysł  
 fiksa - przyczepić, przymocować  
 fikse - załącznik (przyrostek, afiks)  
-fila - lubić  
-filer - miłośnik (fan, -fil)  
-filia - zamiłowanie (-filia)  
+fili - zamiłowanie (-filia)  
+fili ja - miłośnik (fan, -fil)  
 Filipinas - Filipiny  
 Filistin - Terytorium Palestyńskie  
 filme - film  
@@ -1044,6 +1053,7 @@ foli - szalony
 folia - szaleństwo  
 fon - głoska  
 fon so - fonem  
+fon zi - litera, znak  
 fona - wymawiać (wymówić)  
 fong - pszczoła lub osa  
 fong nide - ul (gniazdo pszczół lub os)  
@@ -1301,8 +1311,6 @@ harabu - zły, zrujnowany, zepsuty
 harabu mahala - slums  
 harama - zabronić (wzbronić, zakazać)  
 harami - zabroniony (wzbroniony, nielegalny, haram, tabu)  
-fon zi - litera, znak  
-zi sili - alfabet, abecadło  
 harmoni - harmoniczny  
 harmonia - harmonia  
 harnes - zaprzęc, zaprzęgać  
@@ -1358,17 +1366,15 @@ historia - historia, badanie historii
 hiyar - ogórek  
 Ho chi Min site - Ho Chi Minh (Sajgon)  
 hobi - hobby  
-hoga - spalić, palić  
-hoge - ogień  
-hoge sanduku - latarnia  
-hogi - ognisty  
-hogopujia - kult ognia  
-hogoshan - wulkan  
-hogoshani kancha - szkło wulkaniczne  
-hogosheke - krzemień  
-hogotehne - pirotechnika  
-hogu - spłonąć, płonąć  
-hoke - hokej  
+hogo - ogień  
+hogo di - ognisty  
+hogo puja - kult ognia  
+hogo sanduku - latarnia  
+hogo shan - wulkan  
+hogo shan kanchi - szkło wulkaniczne  
+hogo sheki - krzemień  
+hogo tehni - pirotechnika  
+hoki - hokej  
 holgraf - hologram  
 holi - cały  
 holia - całość (integralność)  
@@ -1631,7 +1637,6 @@ karbau - bawół domowy
 karbe - węgiel  
 karbodulokside - dwutlenek węgla  
 karchof - karczoch zwyczajny  
-karte - karta  
 kardon - oset  
 kardonkarchof - karczoch hiszpański  
 karer - pracownik  
@@ -1653,6 +1658,7 @@ karote - marchew
 karshuler - praktykant  
 karsi - szorstki  
 karsolimon - papeda  
+karte - karta  
 Kartvel - Gruzja (Republika Gruzji)  
 karvan - karawana  
 kas - wydarzenie, przypadek, sytuacja  
@@ -1884,7 +1890,6 @@ laji - śmieć, odpadek
 laji tong - śmietnik  
 laka - lakier  
 lal - czerwony  
-rubi - rubin  
 lal lince - ryś rudy  
 lal oranje - mandarynka  
 lal salmon - nerka (łosoś czerwony)  
@@ -2025,12 +2030,14 @@ Luter din ja - luterański
 lutetium - lutet  
 ####M - M  
 ma - matka, mama  
+Madagasi - Madagaskar  
+madagasi di - madagaskarski; malagaski  
 maf - przepraszam!  
-magi asar - zaklecie  
-magi ja - magik, czarownik  
 magesium - magnez  
 magi - magiczny  
 magi - magia  
+magi asar - zaklecie  
+magi ja - magik, czarownik  
 Magribe desha - Maroko  
 Magyar - Węgry  
 mahala - dzielnica  
@@ -2045,39 +2052,35 @@ makan hua - mlecz
 makas - nożyce, nożyczki  
 Makau - Makau  
 mal - własność (mienie)  
-fa mal - mieć (posiadać)  
-madagaskar di - madagaskarski; malagaski  
-Madagaskar - Madagaskar  
-Malaisia - Malezja  
 mal ja - właściciel (posiadacz)  
+mal nomi - ekonomia  
+Malaisia - Malezja  
 malaria - malaria  
 Malavi - Malawi  
 malayali - malajski  
 malayu - malajski  
 Mali - Mali  
-mal nomi - ekonomia  
 Malta - Malta  
-be mal - należeć  
 Malvinas nesia - Falklandy, Malwiny  
 mamal - ssak  
 man - męski  
+man ben - syn  
 man raja - król  
 mana - znaczenie  
 manete - magnes  
 manete di - magnetyczny  
-mangan - mangan  
 mang - zajęty  
+mangan - mangan  
 mango - mango  
 mangus - mangostan  
-man ben - syn  
 Mani - prorok Mani  
 mani din - manicheizm  
 Manin nes - Wyspa Man  
+manioka - maniok  
 manira - zachowanie (maniery, kultura)  
 manira - zachowywać się (działać)  
 mantol - peleryna (płaszcz, opończa)  
 mantu - bułka gotowana na parze  
-manioka - maniok  
 mar - czas; okazja  
 marati - marathi  
 maraton - maraton  
@@ -2086,11 +2089,11 @@ margai - margaj (ocelot nadrzewny)
 margarin - margaryna  
 margarita - stokrotka  
 Marian nesia - Mariany Północne  
-fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
 Marse - Mars  
 Marshal nesia - Wyspy Marshalla  
 mas - bardzie  
+mas darja - zwiększyć o jeden  
 mas di - dodatkowy  
 mas di fen - większość  
 mas fili - preferować (woleć)  
@@ -2098,19 +2101,18 @@ mas fili di - ulubiony
 mas forte ta - wsparcie (wzmocnienie, zasilenie)  
 mas ka basa - zbyt  
 masa - masa  
+masa mula - bulwa  
+masa mula sol hua - topinambur  
 masaje - masaż  
-masala tika - tikka masala  
 masala - przyprawa  
-mas darja - zwiększyć o jeden  
-bon mas she - dodatkowy  
+masala tika - tikka masala  
 masim - nabardziej, maksymalnie  
 masim - maksimum  
 masim di - maksymalny  
 maska - maska, kamuflaż  
-masa mula - bulwa  
-masa mula sol hua - topinambur  
 masta - maszt  
 mata - śmierć  
+mata badan - zwłoki (trup)  
 mata di - martwy, nieżywy, zabity  
 mata ja - zabójca  
 mate - materia, substancja  
@@ -2124,18 +2126,16 @@ mau - kot
 maya - Maya  
 Mayote - Majotta  
 maze - skarpeta, skarpetka, pończocha  
-fa meche - konkurować, rywalizować; odbyć mecz, odbywać mecz  
 meche - mecz, rywalizacja  
 medal - medalion, medal  
 meden - skwer, plac  
-meden fobi - agorafobia  
 meden di - otwarty (przestrzenny)  
+meden fobi - agorafobia  
 meden papil - mak polny  
 medi - środek  
 medi - średni  
 medi face - interfejs  
 medi she - media  
-pa medi - między (wśród, pośród)  
 medu - miód  
 medu fong - pszczoła miodna  
 medu fong nide - plaster  
@@ -2149,19 +2149,16 @@ Mehiko citi - Meksyk
 melodi - melodyczny  
 melodi - melodia  
 melon - ogórek melon  
-mem - pamięć  
-fa mem - pamiętać  
-si membre - należeć (być członkiem)  
 membre - członek  
-mem bina - pomnik (memoriał)  
 meme - owca  
-meme kesh - wełna (runo owcze)  
-mem note - notatka, memo  
-mien - makaron  
+meme kesha - wełna (runo owcze)  
+memo - pamięć  
+memo bina - pomnik (memoriał)  
+memo note - notatka, memo  
 meninge - opona mózgowa  
 meninge flame - zapalenie opon mózgowych  
 mentor - doradca (mentor)  
-merante - damarzyk (meranti)  
+meranti - damarzyk (meranti)  
 Merkur - Merkury  
 mes bato - listopad  
 mes chatre - lipiec  
@@ -2180,7 +2177,6 @@ mesi di - mesjański
 mesi din - chrześcijaństwo  
 mesi din ja - chrześcijanin  
 mesi jene - Boże Narodzenie  
-fa mestre - być mistrzem (być ekspertem)  
 mestre - mistrz (ekspert)  
 metal - metal  
 metal bede - kowadło  
@@ -2194,6 +2190,7 @@ meza tela - obrus
 meza topo - płaskowyż (plateau)  
 mi - ja, mnie  
 mi su - mój  
+mien - makaron  
 migra - migracja  
 mikro - mikro-  
 mikro bio - mikroorganizm  (mikrob)  
@@ -2389,6 +2386,7 @@ noche - noc
 noche mode - tryb nocny  
 node - węzeł, zupeł  
 Noe di nave - arka Noego  
+nomer - numer  
 nomi - zarządzanie (-nomia)  
 nong - uprawić, uprawiać  
 nong istan - wieś, tereny wiejskie  
@@ -2427,7 +2425,6 @@ Nove Zelande - Nowa Zelandia
 nude - nagi, goły, obnażony  
 nude jui - nudyzm  
 nude jui ja - nudysta  
-nomer - numer  
 ####O - O  
 o - lub, albo  
 Oceania - Oceania  
@@ -2479,6 +2476,7 @@ pa - przy, z, na, w, u
 pa - ojciec  
 pa ke - gdzie  
 pa lin - online (na linii, w sieci)  
+pa medi - między (wśród, pośród)  
 pa niche - pod (poniżej)  
 pa no lin - offline (nie na linii, poza siecią)  
 pa nove - właśnie, dopiero co, ostatnio, niedawno  
@@ -2830,6 +2828,7 @@ roza - róża
 roza rang - różowy, różany  
 roza salmon - gorbusza  
 Ruanda - Rwanda  
+rubi - rubin  
 rubidium - rubid  
 ruhu - dusza, duch, umysł  
 ruhu di - umysłowy (psychiczny)  
@@ -3050,6 +3049,7 @@ shush - ćsi
 shush di - cichy  
 shutu - umiejętność (kompetencja)  
 si - być  
+si membre - należeć (być członkiem)  
 Sibiria - Syberia  
 siborgium - seaborg  
 side - usiąść  
@@ -3225,10 +3225,10 @@ tatike - taktyka, strategia
 tatu - tatuaż  
 tava - patelnia  
 taza - świeży  
-tehne - technika, technologia  
-tehne krati - technokracja  
-tehne logi - technologia, nauka o technikach  
 tehnetium - technet  
+tehni - technika, technologia  
+tehni krati - technokracja  
+tehni logi - technologia, nauka o technikach  
 tela - tkanina (materiał, sukno)  
 tela gi - krosno  
 tele - dystans  
@@ -3526,6 +3526,7 @@ ze - z (od)
 ze saba da - ponieważ, bo  
 zebra - zebra  
 zeyil - brodawka  
+zi sili - alfabet, abecadło  
 zigzage - zygzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  

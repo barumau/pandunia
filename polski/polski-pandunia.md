@@ -424,7 +424,7 @@ córka - femi pute
 dach - chati  
 daktyl - tamar  
 daleki, odległy - tele di  
-damarzyk (meranti) - merante  
+damarzyk (meranti) - meranti  
 dane - data  
 Dania - Danske desha  
 danie - tasa  
@@ -846,7 +846,7 @@ hobby - hobi
 hodowla zwierząt - zou agro shutu  
 hojność (szczodrość) - karimia  
 hojny (szczodry) - karimi  
-hokej - hoke  
+hokej - hoki  
 hokej na lodzie - ais hoki  
 Holandia (Królestwo Niderlandów) - Nederlande  
 holm - holmium  
@@ -1217,7 +1217,7 @@ kryzys - krize
 kryzysowy - krizi  
 krzak (krzew) - tal moku  
 krzem - silicium  
-krzemień - hogosheke  
+krzemień - hogo sheki  
 krzyknąć, krzyczeć - krita  
 krzywdzący (szkodliwy) - avar ja  
 krzyż - krus  
@@ -1244,7 +1244,7 @@ kuchnia - kukokamar
 kukurydza - mais  
 kulomb - kulombe  
 kuloodporny - dane sekur  
-kult ognia - hogopujia  
+kult ognia - hogo puja  
 kultura - kultur  
 kulturystyka - muskul bina  
 kumin, kmin - zira  
@@ -1283,7 +1283,7 @@ larwa, czerw, gąsienica - larve
 larwa, czerw, gąsienica - lasun  
 las wodorostów - alga jangal  
 las, dżungla, zagajnik - jangal  
-latarnia - hoge sanduku  
+latarnia - hogo sanduku  
 latarnia morska - foto minar  
 latać (fruwać) - be dara  
 latać, lecieć - feyu  
@@ -1349,7 +1349,7 @@ losowy - zar di
 lot - fei  
 lotnisko (port lotniczy) - air porte  
 lub, albo - o  
-lubić - fila  
+lubić - fa fili  
 lubić, cieszyć się - be suka  
 lud, społeczeństwo - demo  
 ludzie (lud, ludność) - nasi jan  
@@ -1365,8 +1365,8 @@ luźna rozmowa, gadanina - blabla
 lód - ais  
 ####M - M  
 macka (czułek) - sense shaka  
-Madagaskar - Madagaskar  
-madagaskarski; malagaski - madagaskar di  
+Madagaskar - Madagasi  
+madagaskarski; malagaski - madagasi di  
 madżong - majang  
 magazyn, dziennik, gazeta - gazeta  
 magenta - majenta  
@@ -1520,7 +1520,7 @@ mięta - minta
 mięta pieprzowa - pipre minta  
 mięta wodna - sui minta  
 mięta zielona (mięta kłosowa) - zong minte  
-miłośnik (fan, -fil) - filer  
+miłośnik (fan, -fil) - fili ja  
 miłość (afekt) - ai  
 miłość romantyczna - romance  
 miły, przyjemny, uroczy - hushi  
@@ -1729,7 +1729,7 @@ nosorożec - kornonos
 nosowy - nos di  
 nostalgia (tęsknota) - nostalgia  
 nostalgiczny - nostalgia di  
-notatka, memo - mem note  
+notatka, memo - memo note  
 notatnik - note buku  
 notować, obserwować, zauważyć, zauważać - note  
 Nowa Kaledonia - Nove Kaledonia  
@@ -1808,8 +1808,8 @@ ofiara - kurban
 oficer policji, policjant - police ja  
 oficjalny - ofis di  
 oganesson - oganeson  
-ogień - hoge  
-ognisty - hogi  
+ogień - hogo  
+ognisty - hogo di  
 ogon - koda  
 ogr (trol, goblin) - gui  
 ogórek - hiyar  
@@ -1900,8 +1900,8 @@ Palau - Palau
 palec - angul  
 pallad - paladium  
 palma, drzewo palmowe - palme  
-pamiętać - fa mem  
-pamięć - mem  
+pamiętać - fa memo  
+pamięć - memo  
 panafrykański - pan afrika di  
 Panama - Panama  
 panamerykański - pan amerika di  
@@ -2003,7 +2003,7 @@ piractwo - pirate
 piramida - piram  
 pirat (osoba naruszająca prawa własności intelektualnej) - pirate jui ja  
 pirat - pirate ja  
-pirotechnika - hogotehne  
+pirotechnika - hogo tehni  
 pismo, tekst - kitabu  
 pistolet - pistol  
 pistolet, strzelba, ręczna broń palna - pau gi  
@@ -2102,7 +2102,7 @@ pomarańcza - oranje
 pomarańcza słodka (pomarańcza chińska) - sukar oranje  
 pomarańczowy - oranje rang  
 pomidor - tomate  
-pomnik (memoriał) - mem bina  
+pomnik (memoriał) - memo bina  
 pomoc, wsparcie - helpe  
 pomodlić się, modlić się - dua  
 pompować - pompe  
@@ -2648,7 +2648,7 @@ sos sojowy - soi sos
 sosna - song  
 spacja - hali zi  
 spadek, dziedzictwo, spuścizna, zapis - varis  
-spalić, palić - hoga  
+spalić, palić - fa hogo  
 spać - sona  
 specjalny, wyraźny, wyrazisty - hasi  
 spis treści (tabela zawartości) - inliste  
@@ -2678,7 +2678,7 @@ spód - niche
 spódnica - jupe  
 spółgłoska - kinar fon  
 spławik (boja) - boi  
-spłonąć, płonąć - hogu  
+spłonąć, płonąć - be hogo  
 srać (robić gówno) - fa shite  
 srebro - argente  
 Sri Lanka - Lanka  
@@ -2787,7 +2787,7 @@ Szkocja - Eskote
 szkoła (instytucja) - shula kan  
 szkoła podstawowa - baze shula kan  
 szkło - kancha  
-szkło wulkaniczne - hogoshani kancha  
+szkło wulkaniczne - hogo shan kanchi  
 szmaragd - zumarde  
 szofer (kierowca) - shofer ja  
 szogun - gunrajer  
@@ -2870,9 +2870,9 @@ taśma - tepe
 taśma; bandaż - bande  
 tchórz, fretka - furete  
 technet - tehnetium  
-technika, technologia - tehne  
-technokracja - tehne krati  
-technologia, nauka o technikach - tehne logi  
+technika, technologia - tehni  
+technokracja - tehni krati  
+technologia, nauka o technikach - tehni logi  
 teistyczny - deu din ja  
 teizm - deu din  
 tektonika płyt - plate geo kaske logi  
@@ -3104,7 +3104,7 @@ wesoły, ucieszony - suka
 wesprzeć (wzmocnić, zasilić) - fa mas forte  
 wewnętrzny - indi  
 wewnętrzny - injeni  
-wełna (runo owcze) - meme kesh  
+wełna (runo owcze) - meme kesha  
 wiadomość - anjil  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - note anjil  
@@ -3218,7 +3218,7 @@ wstyd (hańba, kompromitacja) - sharma
 wszyscy, wszystkie, wszystko; każdy - pan  
 wszystko - pan she  
 wtorek - var du  
-wulkan - hogoshan  
+wulkan - hogo shan  
 wy, was - tumen  
 wybrać, wybierać, selekcjonować - chuza  
 wybrzeże (plaża) - haitate  
@@ -3339,7 +3339,7 @@ zamek błyskawiczny - zipa
 zamek, forteca, twierdza - burge  
 zamieniać się w gaz (parować) - gasu  
 zamieniać w gaz - gasa  
-zamiłowanie (-filia) - filia  
+zamiłowanie (-filia) - fili  
 zamknięty (zakluczony, zapięty, bezpieczny) - sor di  
 zamknięty - an kai di  
 zamknięty na klucz (zakluczony) - an sora di  
@@ -3466,6 +3466,7 @@ zwiększyć o jeden - mas darja
 zwycięstwo, wygrana - sheng  
 zwyczajny (rutynowy, normalny) - ada di  
 zwykły, zwyczajny, prosty - sada  
+zwłoki (trup) - mata badan  
 zygzag - zigzage  
 zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  

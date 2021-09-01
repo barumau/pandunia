@@ -175,6 +175,7 @@ be ais - glaciiĝi (frostiĝi)
 be boli - boli  
 be jene - naski  
 be kai - malfermiĝi  
+be mal - aparteni  
 be mata - morti  
 be raste - kreski  
 be retro - reiri  
@@ -437,6 +438,7 @@ dusvidi - malbonaspekta
 dute - dubo  
 ####E - E  
 e - kaj  
+e mas - ankaŭ  
 eglis - preĝejo  
 ekia - naturo  
 ekore - sciuro  
@@ -498,6 +500,7 @@ fa cirke - ĉirkaŭi
 fa dante - mordi  
 fa dika - celi  
 fa festa - festi  
+fa fobi - timigi  
 fa forma - formigi  
 fa gami - edzigi  
 fa ja - aganto  
@@ -509,7 +512,9 @@ fa kegu - vizito
 fa kopi - kopii  
 fa loka - lokigi  
 fa long - longigi  
+fa maf - pardoni  
 fa mata - mortigi  
+fa memo - memori  
 fa nia - celi  
 fa oko - okulumi  
 fa parti - partopreni  
@@ -598,14 +603,14 @@ fizike - fiziko
 fiziker - fizikisto  
 fizikia - fiziko  
 flur - fluoro  
-fa fobi - timigi  
-fobi ja - timiga  
 fobi - timo (fobio)  
+fobi ja - timiga  
 fobu - timi  
 fokus - koncentriĝo  
 fokusa - koncentri  
 foli - freneza  
 folia - frenezeco  
+fon zi - litero  
 fong - abelo aŭ vespo  
 fora - taladri  
 forke - forko  
@@ -756,8 +761,6 @@ hapi - taŭga
 hapu - taŭgi  
 harabu - ruinigita  
 harabu mahala - kvartalaĉo  
-fon zi - litero  
-zi sili - alfabeto  
 harmoni - harmonia  
 harmonia - harmonio  
 Hartum - Ĥartumo  
@@ -801,10 +804,10 @@ histori ja - historiisto
 historia - historio (studo de historio)  
 hiyar - kukumo  
 hobi - hobio  
-hoge - fajro  
-hoge sanduku - lanterno  
-hogi - fajra  
-hoke - hokeo  
+hogo - fajro  
+hogo di - fajra  
+hogo sanduku - lanterno  
+hoki - hokeo  
 holmium - holmio  
 hor - horo  
 horloger - horloĝo  
@@ -940,13 +943,13 @@ karate - karateo
 karavi - karvio  
 karbe - karbono  
 karbodulokside - karbona dioksido  
-karte - karto  
 karer - laboristo  
 karibi - proksima  
 karma - ago  
 karma ja - agema  
 karma loga - verbo  
 karote - karoto  
+karte - karto  
 karvan - karavano  
 kastan - kaŝtano  
 kastor - kastoro  
@@ -1069,7 +1072,6 @@ laji - rubo
 laji bagi - rubejo  
 laji tong - rubujo  
 lal - ruĝa  
-rubi - rubeno  
 lal oranje - mandarino  
 lampa - lampo  
 lance - ĵeti (lanĉi)  
@@ -1133,7 +1135,6 @@ lutetium - lutecio
 ####M - M  
 ma - patrino  
 maf - pardono  
-fa maf - pardoni  
 magesium - magnezio  
 magi - magio  
 mahala - kvartalo  
@@ -1141,15 +1142,13 @@ maitnerium - mejtnerio
 majang - maĝango  
 makas - tondilo  
 mal ja - havanto  
-Mali - Malio  
 mal nomi - ekonomiko  
-be mal - aparteni  
-titi - mamo  
+Mali - Malio  
 man - viro  
 man raja - reĝo  
 mana - signifo  
-mangan - mangano  
 mang - okupata  
+mangan - mangano  
 manira - maniero (konduto)  
 mar - fojo  
 maraton - maratono  
@@ -1157,7 +1156,6 @@ marche - promeni (marŝi)
 marche - promeno (marŝo)  
 margarin - margarino  
 mas - pli  
-e mas - ankaŭ  
 mas fili - preferi (pliŝati)  
 mas ka basa - tro  
 masa - maso  
@@ -1166,6 +1164,7 @@ masim - plej
 maska - masko  
 masta - masto  
 mata - morto  
+mata badan - kadavro  
 mata di - morta  
 mata ja - mortigisto  
 mate - materio  
@@ -1178,19 +1177,17 @@ maya - majao
 maze - ŝtrumpo  
 medi - mezo  
 medi gi - rimedo  
-pa medi - inter  
 medu - mielo  
 medu fong - abelo  
 mega - miliono  
 megi - nubo  
 Mehiko - Meksikio  
 melodi - melodio  
-mem - memoro  
-fa mem - memori  
 membre - membro  
 meme - ŝafo  
+memo - memoro  
 men - oni  
-mien - nudelo  
+meranti - ŝoreo  
 Merkur - Merkuro  
 mesi - kristo  
 mesi jene - kristnasko  
@@ -1201,6 +1198,7 @@ meza - tablo
 meza tela - tablotuko  
 mi - mi  
 mi su - mia  
+mien - nudelo  
 migra - migrado  
 mikro - mikro-  
 mikro bio - mikrobo  
@@ -1311,6 +1309,7 @@ noche - nokto
 node - nodo  
 Noe - Noa  
 Noe di nave - Arkeo de Noa  
+nomer - nombro  
 nong di - agrikultura  
 nong nomi - agronomio  
 nong shutu - agrikulturo  
@@ -1328,7 +1327,6 @@ nove ka - novulo
 nove loga - neologismo  
 nove ta - noveco  
 nu - nu  
-nomer - nombro  
 ####O - O  
 o - aŭ  
 Oceania - Oceanio  
@@ -1354,6 +1352,7 @@ oste - osto
 pa - ĉe (en, sur)  
 pa - patro  
 pa ke - kie  
+pa medi - inter  
 pa nove - ĵus  
 pa poli mar - ofte  
 pa re - denove (ripete)  
@@ -1509,6 +1508,7 @@ rose - roso
 rota lefte - maldekstrume  
 rota tafun - uragano (tajfuno)  
 roza - rozo  
+rubi - rubeno  
 rubidium - rubidio  
 ruhu - animo (psiko)  
 ruhu logi - psikologio  
@@ -1712,9 +1712,9 @@ tasa - plado
 tatu - tatuo  
 tava - pato  
 taza - freŝa  
-tehne - tekniko  
-tehne logi - teknologio  
 tehnetium - teknecio  
+tehni - tekniko  
+tehni logi - teknologio  
 tele - malproksimeco  
 tele di - malproksima  
 tele fon gi - telefono  
@@ -1737,6 +1737,7 @@ ting - halto
 tire - tiri  
 tire yo milke - melki  
 titanium - titanio  
+titi - mamo  
 tochu - tuŝi  
 tochu sense - senti  
 Togo - Toglando  
@@ -1879,6 +1880,7 @@ ze - de (el, pro)
 ze saba da - ĉar  
 zebra - zebro  
 zeyil - veruko  
+zi sili - alfabeto  
 zina - malfideleco  
 zinji - zingibro  
 zinke - zinko  

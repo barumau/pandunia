@@ -350,7 +350,7 @@
 |**figur**|hahmo (figuuri)|englanti:ranska:figure, espanja:portugali:figura|
 |**fikir**|ajatus|arabia:(fikr), malaiji:pikir, suahili:fikiri, turkki:fikir, hindi:(fikr),  persia:(fekr)|
 |**fiksa**|kiinnittää|englanti:fix, ranska:fixer, espanja:fijar, portugali:fixar|
-|**filer**|fani (-fiili)|englanti:ranska:-phile, portugali:espanja:-filo|
+|**fili**|tykkääminen|englanti:-philia, ranska:-philie, espanja:portugali:-filia, venäjä:-филия (-filiya), turkki:-fili|
 |**filme**|filmi|englanti:espanja:ranska:film, portugali:filme, deu:Film, venäjä:фильм (fil’m), turkki:film, arabia:فيلم (film), japani:フィルム (firumu), malaiji:pilem, suahili:filamu|
 |**filter**|suodattaa|englanti:filter, espanja:portugali:filtro, ranska:turkki:filtre, venäjä:фильтр (filʹtr), hindi:फ़िल्टर (filṭar), bangla:ফিল্টার (philṭar), japani:フィルター (firutā)|
 |**fin**|loppu|englanti:finish, ranska:espanja:fin, portugali:fim|
@@ -495,8 +495,8 @@
 |**historia**|historia (oppiaine)|englanti:history, espanja:suahili:historia, portugali:história, ranska:histoire, venäjä:история (istoriya)|
 |**hiyar**|kurkku|persia:خیار (xiyâr), turkki:hıyar, arabia:خيار‎ (khiyār), hindi:खीरा (khīrā), bangla:ক্ষীরা (kṣīrā)|
 |**hobi**|harrastus|englanti:espanja:portugali:deu:ranska:hobby, venäjä:хобби (hobbi)|
-|**hoge**|tuli|espanja:fuego, portugali:fogo + venäjä:огонь (ogon’), hindi:आग (āg), bangla:অগ্নি (ôgni), pan:ਅੱਗ (ag) + yleiskiina:火 (huǒ), kantoninkiina:火 (fo2), wu-kiina:火 (hu2), korea:화 (hwa), vietnami:hoả|
-|**hoke**|hockey (jääkiekko)|englanti:ranska:espanja:hockey, portugali:hóquei, venäjä:хоккей (hokkey),  japani:ホッケー (hokkē), hindi:हाकी (hākī), bangla:হকি (hôki), arabia:(hūkī), suahili:hoki|
+|**hogo**|tuli|espanja:fuego, portugali:fogo + venäjä:огонь (ogon’), hindi:आग (āg), bangla:অগ্নি (ôgni), pan:ਅੱਗ (ag) + yleiskiina:火 (huǒ), kantoninkiina:火 (fo2), wu-kiina:火 (hu2), korea:화 (hwa), vietnami:hoả|
+|**hoki**|hockey (jääkiekko)|englanti:ranska:espanja:hockey, portugali:hóquei, venäjä:хоккей (hokkey),  japani:ホッケー (hokkē), hindi:हाकी (hākī), bangla:হকি (hôki), arabia:(hūkī), suahili:hoki|
 |**holi**|koko (kokonainen)|englanti:whole, espanja:portugali:holo-|
 |**holire**|kolera|englanti:cholera, espanja:portugali:cólera, ranska:choléra, venäjä:холера (holera), turkki:kolera, arabia:كُولِيرَا‎ (kōlīrā), hindi:कॉलरा (kŏlrā), yleiskiina:虎列拉 (hǔlièlā), japani:コレラ (korera)|
 |**hor**|tunti|ranska:heure, englanti:hour, espanja:portugali:hora|
@@ -809,9 +809,9 @@
 |**mega**|miljoona (mega-)|englanti:ranska:espanja:portugali:malaiji:turkki:mega-, venäjä:мега- (mega-), japani:メガ (mega), korea:메가- (mega-)|
 |**megi**|pilvi|hindi:मेघ (megh), bangla:মেঘ (megh), tamili:மேகம் (mēgam), telugu:మేఘము (mēghamu), malaiji:mega, thai:เมฆ (mek) + arabia: غَيْمَة‎ (ḡayma) + vietnami:mây|
 |**melodi**|melodia (sävelmä)|englanti:melody, espanja:melodía, portugali:melodia, venäjä:мело́дия (melódija), turkki:malaiji:melodi, persia:ملودی‎ (melodi), japani:メロディー (merodī)|
-|**mem**|muisti|englanti:memory, ranska:mémoire, espanja:memoria, portugali:memória|
 |**membre**|jäsen (osatekijä, komponentti)|englanti:member, espanja:miembro, portugali:membro, ranska:membre, japani:メンバー (menbā)|
-|**meme**|lammas|hindi:मेष (meṣ), persia:(miš), thai:เมษ (met), + lingala:Kongo:meme, japani:メーメー (mē mē), portugali:meh, arabia:(maa'), turkki:mee|
+|**meme**|lammas|lingala:Kongo:meme + hindi:मेष (meṣ), persia:(miš), thai:เมษ (met) + japani:メーメー (mē mē), portugali:meh, arabia:(maa'), turkki:mee|
+|**memo**|muisti|englanti:memory, ranska:mémoire, espanja:memoria, portugali:memória|
 |**meninge**|aivokalvo|englanti:meninx, espanja:portugali:meninge, ranska:méninge|
 |**mentor**|neuvontantaja (mentori)|sanskriitti:मन्त्रिन् (mantrin), hindi:मंत्री (mantrī), thai:มนตรี (mon-tri), malaiji:menteri, englanti:deu:ranska:portugali:espanja:mentor, japani:メンター (mentā), korea:멘토 (mento), venäjä:ментор (mentor)|
 |**mesi**|kristus (messias)|englanti:messiah, ranska:messie, espanja:mesías, portugali:messias, venäjä:мессия (messiya), arabia: مَسِيح‎ (masīḥ), hindi:मसीह (masīh), bangla:মসিহ (môśih), malaiji:al-Masih, turkki:Mesih|
@@ -1225,7 +1225,7 @@
 |**tatu**|tatuointi|sam:tah:tatau, haw:kākau, malaiji:tato, englanti:tattoo, ranska:tatouage, espanja:tatuaje, venäjä:тату (tatu)|
 |**tava**|pannu (paistinpannu)|hindi:तवा (tavā), turkki:tava, persia:(tābe)|
 |**taza**|tuore (raikas)|turkki:taze, hindi:ताज़ा (tāzā), bangla:তাজা (taja), persia:(tâze)|
-|**tehne**|tekniikka (keino, menetelmä)|kreikka:τεχνική (tehniki), venäjä:техника (tehnika), ranska:englanti:technique, espanja:portugali:técnica, hindi:तकनीक (taknīk), malaiji:teknik|
+|**tehni**|tekniikka (keino, menetelmä)|kreikka:τεχνική (tehniki), venäjä:техника (tehnika), ranska:englanti:technique, espanja:portugali:técnica, hindi:तकनीक (taknīk), malaiji:teknik|
 |**tela gi**|kutomakone (kangaspuut)|venäjä:ткать (tkat’) + malaiji:duk + turkki:doku|
 |**tela**|kangas|espanja:portugali:filippiini:tela, ranska:toile + englanti:towel, hindi:तौलिया (tauliyā), suahili:taulo, japani:タオル (taoru), malaiji:tuala|
 |**tele**|etäisyys (kaukaisuus)|englanti:espanja:portugali:malaiji:tele-, ranska:télé-, venäjä:теле- (tele-)|

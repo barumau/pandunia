@@ -214,6 +214,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**cau**|zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|
 |**celu**|may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|
 |**cen**|fra:cent, spa:cien, por:cem|
+|**ceng**|zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|
 |**centaure**|eng:centaury, por:centáurea|
 |**cerami**|eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik|
 |**cerebro**|eng:cerebrum, spa:cerebro, por:cérebro, fra:cerveau|
@@ -231,7 +232,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**chati**|hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|
 |**chatre**|rus:четыре (chetyre), hin:चार (cār), ben:চার (car), may:catur + fra:quatre, spa:cuatro, por:quatro|
 |**cheka**|eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|
-|**ceng**|zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|
 |**cheno**|zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|
 |**cheri**|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
 |**chili**|eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|
@@ -244,7 +244,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**chita**|eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|
 |**chize**|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |**choda**|ben:চোদা (coda), hin:चोदना (codnā)|
-|**coi**|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
 |**choklate**|spa:por:eng:chocolate, fra:chocolat, rus:шоколад (šokolad), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), may:cokelat, swa:chokoleti, tur:çikolata|
 |**chope**|zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|
 |**chor**|hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|
@@ -258,6 +257,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**cirke**|eng:circle, spa:por:círculo, fra:cercle|
 |**citi**|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |**civil**|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
+|**coi**|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
 |**da**|fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**daka**|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
@@ -390,7 +390,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**figur**|eng:fra:figure, spa:por:figura|
 |**fikir**|ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr),  fas:(fekr)|
 |**fiksa**|eng:fix, fra:fixer, spa:fijar, por:fixar|
-|**filer**|eng:fra:-phile, por:spa:-filo|
+|**fili**|eng:-philia, fra:-philie, spa:por:-filia, rus:-филия (-filiya), tur:-fili|
 |**filme**|eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem, swa:filamu|
 |**filter**|eng:filter, spa:por:filtro, fra:tur:filtre, rus:фильтр (filʹtr), hin:फ़िल्टर (filṭar), ben:ফিল্টার (philṭar), jpn:フィルター (firutā)|
 |**fin**|eng:finish, fra:spa:fin, por:fim|
@@ -537,8 +537,8 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**historia**|eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)|
 |**hiyar**|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hobi**|eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|
-|**hoge**|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
-|**hoke**|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
+|**hogo**|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
+|**hoki**|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
 |**holi**|eng:whole, spa:por:holo-|
 |**holire**|eng:cholera, spa:por:cólera, fra:choléra, rus:холера (holera), tur:kolera, ara:كُولِيرَا‎ (kōlīrā), hin:कॉलरा (kŏlrā), zho:虎列拉 (hǔlièlā), jpn:コレラ (korera)|
 |**hor**|fra:heure, eng:hour, spa:por:hora|
@@ -655,7 +655,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**karavi**|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|
 |**karbau**|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|
 |**karchof**|ara:خرشوف (kharshuf), amh:ከርቹፍ (kärčuf), spa:alcachofa, por:alcachofra, pol:karczoch|
-|**karte**|eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), tur:kart, swa:kadi, hin:कार्ड (kārḍa), ben:কার্ড (kārḍa), may:kartu, zho:卡 (kǎ), jpn:カード (kādo), kor:카드 (kadeu)|
 |**kardon**|spa:por:cardo, fra:chardon, eng:cardoon, jpn:カルドン (karudon)|
 |**karibi**|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |**karimi**|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
@@ -664,6 +663,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**karma loga**|hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|
 |**karote**|eng:carrot, fra:carotte, deu:Karotte, swa:karoti, may:karot, vie:cà rốt|
 |**karsi**|eng:coarse, may:kasar, ara:خشن (khashin)|
+|**karte**|eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), tur:kart, swa:kadi, hin:कार्ड (kārḍa), ben:কার্ড (kārḍa), may:kartu, zho:卡 (kǎ), jpn:カード (kādo), kor:카드 (kadeu)|
 |**karvan**|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |**kas**|eng:case, fra:cas, spa:por:caso, deu:Kasus|
 |**kasa**|lat:capsa, eng:fra:case,capsule, spa:caja,cápsula, por:caixa,cápsula, rus:капсула (kapsula), ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes|
@@ -774,7 +774,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**laji**|zho:垃圾 (lājī)|
 |**laka**|eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|
 |**lal**|hin:लाल (lāl), ben:লাল (lal), tur:al|
-|**rubi**|eng:ruby, por:rubi, spa:rubí, fra:rubis, deu:Rubin, rus:рубин (rubin), jpn:ルビー (rubī)|
 |**lampa**|eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|
 |**lana**|ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|
 |**lance**|eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|
@@ -844,18 +843,17 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**makas**|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí|
 |**mal**|ara:fas:urd: مَال‎ (māl), hin:माल (māl), tur:mal, swa:mali, may:milik|
 |**malaria**|eng:spa:fra:swa:may:malaria, por:malária, rus:малярия (mal′arija), tur:malarya, ara:مَلَارِيَا‎ (malāriyā), hin:मलेरिया (maleriyā), jpn:マラリア (mararia)|
-|**titi**|eng:tit, fra:tété, spa:teta, rus:титьки (tit’ki), ara:ثَدْي‎ (ṯady), swa:titi, may:tetek, jpn:乳 (chichi)|
 |**mamal**|eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia|
 |**man**|eng:man, deu:Mann, hin:मानुस (mānus), ben:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), mar:माणूस (māṇūs), tam:மனிதன் (maṉitaṉ) + zho:男 (nán), jpn:男 (nan)|
 |**mana**|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |**manete**|eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|
 |**mang**|zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|
 |**mango**|mal:മാങ്ങ (māṅṅa), eng:spa:tur:mango, por:manga, rus:манго (mango), may:mangga, jpn:マンゴー (mangō), kor:망고 (manggo)|
+|**manioka**|eng:fra:manioc, spa:por:mandioca, rus:манио́ка (manióka)|
 |**manira**|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren|
 |**mantol**|eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel|
 |**mantra**|eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)|
 |**mantu**|tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mántóu), fas:urd:(mantu)|
-|**manioka**|eng:fra:manioc, spa:por:mandioca, rus:манио́ка (manióka)|
 |**mar**|ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal|
 |**maraton**|eng:marathon, spa:maratón, por:maratona, rus:марафо́н (marafón), tur:maraton, ara:مَارَاثُون‎ (mārāṯūn), hin:मैराथन (mairāthan), ben:ম্যারাথন (mjarathôn), zho:马拉松 (mǎlāsōng), jpn:マラソン (marason)|
 |**marche**|eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi|
@@ -887,20 +885,20 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**megi**|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek) + ara: غَيْمَة‎ (ḡayma) + vie:mây|
 |**melodi**|eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|
 |**melon**|eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)|
-|**mem**|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**membre**|eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|
-|**meme**|hin:मेष (meṣ), fas:(miš), tha:เมษ (met), + lin:kon:meme, jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
+|**meme**|lin:kon:meme + hin:मेष (meṣ), fas:(miš), tha:เมษ (met) + jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
+|**memo**|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**men**|zho:们 (men), yue:們 (mun4) + deu:man + eng:one|
-|**mien**|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
 |**meninge**|eng:meninx, spa:por:meninge, fra:méninge|
 |**mentor**|san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|
-|**merante**|may:eng:por:meranti|
+|**meranti**|may:eng:por:meranti|
 |**mesi**|eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, tur:Mesih|
 |**mestre**|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |**metal**|eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|
 |**metre**|eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |**meza**|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**mi**|eng:fra:spa:por:me,hindi:मैं (mẽ), swa:mimi|
+|**mien**|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
 |**migra**|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
 |**mikro**|eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-|
 |**milke**|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
@@ -988,6 +986,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**no**|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |**noche**|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**node**|eng:node, spa:nudo, por:nó, fra:nœud|
+|**nomer**|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**nomi**|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|
 |**nong**|zho:农民 (nóng), yue:農民 (nung4), jpn:農 (nō), kor:농 (nong), vie:nông|
 |**norde**|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
@@ -998,7 +997,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**nove**|eng:new,neo-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav)|
 |**nu**|rus:ну (nu) + eng:now, deu:na, zho:那 (nà)|
 |**nude**|eng:nude, spa:desnudo, por:fra:nu|
-|**nomer**|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**o**|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
 |**ocelote**|nah:tlālocēlōtl, eng:ocelot, spa:por:ocelote, rus:оцелот (ocelot), tur:oselo, ara:أصلوت ('aslut), hin:ऑसेलॉट (ŏsēlŏṭa), jpn:オセロット (oserotto)|
 |**ofis**|eng:fra:office, spa:oficina, rus:офис (ofis), tur:ofis, swa:afisi, ben:অফিস (ôphiś), may:opis, jpn:オフィス (ofisu)|
@@ -1173,6 +1171,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**rota**|eng:rotate, deu:rotieren, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|
 |**rota van gi**|eng:top, fra:toupie|
 |**roza**|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
+|**rubi**|eng:ruby, por:rubi, spa:rubí, fra:rubis, deu:Rubin, rus:рубин (rubin), jpn:ルビー (rubī)|
 |**ruhu**|ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|
 |**ruhu logi**|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |**ruke**|deu:Rücken|
@@ -1343,7 +1342,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**tatu**|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
 |**tava**|hin:तवा (tavā), tur:tava, fas:(tābe)|
 |**taza**|tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|
-|**tehne**|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
+|**tehni**|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |**tela**|spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala|
 |**tela gi**|rus:ткать (tkat’) + may:duk + tur:doku|
 |**tele**|eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|
@@ -1367,6 +1366,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**tipe**|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
 |**tire**|spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik|
 |**tisa**|ara: تِسْعَة‎ (tisʿa), swa:tisa|
+|**titi**|eng:tit, fra:tété, spa:teta, rus:титьки (tit’ki), ara:ثَدْي‎ (ṯady), swa:titi, may:tetek, jpn:乳 (chichi)|
 |**tochu**|eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|
 |**toksi**|eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|
 |**tolera**|eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren|

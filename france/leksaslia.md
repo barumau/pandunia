@@ -261,8 +261,8 @@
 |**hijabu**|voile|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
 |**hima**|neige|hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|
 |**hiyar**|concombre|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
-|**hoge**|feu|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
-|**hoke**|hockey|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
+|**hogo**|feu|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
+|**hoki**|hockey|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
 |**hor**|heure|fra:heure, eng:hour, spa:por:hora|
 |**horloger**|horloge|lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji|
 |**hotel**|hôtel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
@@ -428,7 +428,7 @@
 |**medi**|medio|spa:medio, eng:medium, hin:माद्धयम (mādhyam)|
 |**medu**|miel|rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:madu + por:mel, fra:spa:miel + yue:蜜 (mat6)|
 |**megi**|nuage|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek) + ara: غَيْمَة‎ (ḡayma) + vie:mây|
-|**mem**|mémoire|eng:memory, fra:mémoire, spa:memoria, por:memória|
+|**memo**|mémoire|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**men**|on|zho:们 (men), yue:們 (mun4) + deu:man + eng:one|
 |**meninge**|méninge|eng:meninx, spa:por:meninge, fra:méninge|
 |**mesi**|Christ (messie)|eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, tur:Mesih|
@@ -639,7 +639,7 @@
 |**tana**|tige|fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|
 |**tarjum she**|traduction|ara:ترجمة (tarjama), fas:ترجمه (tarjome), hin:तर्जुमा (tarjuma), urd:(tarjuma), ben:তর্জমা (tôrjôma), may:terjemah, swa:tarjumi, tur:tercüme|
 |**taza**|frais|tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|
-|**tehne**|technique|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
+|**tehni**|technique|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |**tela gi**|métier à tisser|rus:ткать (tkat’) + may:duk + tur:doku|
 |**tela**|tissu|spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala|
 |**tema**|sujet (thème)|fra: thème, spa: tema, rus: тема (tema), deu:Thema + zho:题目 (tímù)|

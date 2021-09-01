@@ -238,6 +238,7 @@ baze bol - baseball
 baze shula kan - école primaire  
 be ais - geler (glacer)  
 be bio mute - fermenter  
+be mal - appartenir à  
 be migra - s'installer (déménager)  
 be pute - pourrir (se décomposer)  
 be retro - retourner (revenir)  
@@ -444,10 +445,14 @@ fa asar - effectuer
 fa bina - construire  
 fa dante - mordre  
 fa dika - viser  
+fa fobi - effrayer  
 fa forma - former  
+fa hogo - brûler  
 fa jene - donner naissance (procréer, engendrer, accoucher)  
 fa karma - activer (allumer, mettre en marche, déclencher)  
 fa loka - mettre (placer)  
+fa maf - pardonner  
+fa memo - se rappeler (se remémorer)  
 fa min rai - sous-estimer  
 fa mol - moudre  
 fa nomi - organiser  
@@ -502,7 +507,6 @@ fito logi - botanique
 fito yam jui ja - végétarien  
 flame - inflammation  
 fleche - flèche  
-fa fobi - effrayer  
 fobi ja - effrayant  
 fobu - craindre (avoir peur)  
 fong - abeille ou guêpe  
@@ -552,7 +556,7 @@ garma zona cau istan - savane
 gas - gaz  
 gati - dur  
 gau - haut  
-gautehnia - hautes technologies  
+gau tehni - hautes technologies  
 gazel - gazelle  
 Geo - Terre  
 geo elfe - gnome  
@@ -619,7 +623,6 @@ hapa - adapter (ajuster)
 hapi - approprié (adapté, convenable, opportun)  
 hapu - convenir (être approprié)  
 harabu mahala - bidonville  
-zi sili - alphabet  
 Hartum - Khartoum  
 hata - jusque (jusqu’à)  
 hata - voire (même)  
@@ -642,12 +645,11 @@ hisabolojia - mathématiques
 hisabu loge - compte  
 hiyar - concombre  
 hobi ja - amateur  
-hoga - brûler  
-hoge - feu  
-hogoshan - volcan  
-hogosheke - silex  
-hogotehne - feu d’artifice  
-hoke - hockey  
+hogo - feu  
+hogo shan - volcan  
+hogo sheki - silex  
+hogo tehni - feu d’artifice  
+hoki - hockey  
 hor - heure  
 horloger - horloge  
 hotel - hôtel  
@@ -762,7 +764,6 @@ karate - karaté
 karate ka - karatéka  
 karbodulokside - dioxyde de carbone  
 karchof - artichaut  
-karte - carte  
 kardon - chardon  
 kardonkarchof - cardon  
 karer - travailleur (ouvrier)  
@@ -776,6 +777,7 @@ karmisa - soumettre
 karote - carotte  
 karsi - rêche (rugueux, gros)  
 karsolimon - combava  
+karte - carte  
 kaske - carapace (coquille, coquillage, croûte)  
 katane - épée  
 katoglutoban - presse-papier  
@@ -856,7 +858,6 @@ laji - ordures
 laji bagi - décharge  
 laji tong - poubelle  
 lal - rouge  
-rubi - rubis  
 lal oranje - mandarine  
 lal salmon - saumon sockeye  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
@@ -929,7 +930,6 @@ Luter din - luthéranisme
 Luter din ja - luthérien  
 ####M - M  
 ma - mère (maman)  
-fa maf - pardonner  
 magesium - magnésium  
 Magribe desha - Maroc  
 mahala - quartier  
@@ -938,8 +938,6 @@ makan hua - dandélion
 mal - propriété (possession, bien)  
 mal ja - possédant (propriétaire)  
 mal nomi - économie  
-be mal - appartenir à  
-titi - sein  
 man raja - roi  
 mang - occupé  
 mani din - manichéisme  
@@ -956,12 +954,14 @@ mas fili - préférer
 mas fili di - favori (préféré)  
 mas fili jui - favoritisme  
 masa - masse  
+masa mula - tubercule  
+masa mula sol hua - topinambour  
 masala - épices  
 masim - maximum  
 maska - masque  
-masa mula - tubercule  
-masa mula sol hua - topinambour  
 masta - mât  
+mata badan - cadavre (corps)  
+mata badan fili - nécrophilie  
 mate - matière  
 matur - adulte  
 mau - chat  
@@ -973,9 +973,8 @@ medi - medio
 medu - miel  
 medu fong nide - rayon de miel  
 megi - nuage  
-mem - mémoire  
-fa mem - se rappeler (se remémorer)  
-meme kesh - laine  
+meme kesha - laine  
+memo - mémoire  
 men - on  
 meninge - méninge  
 Merkur - Mercure  
@@ -985,7 +984,6 @@ mestre - maître
 metal bede - enclume  
 metal lin - fil de fer  
 metre grafi - carte (graphique)  
-topo metre grafi - carte (plan)  
 metre grafi shutu - cartographie  
 meza - table  
 meza tela - nappe  
@@ -1056,6 +1054,7 @@ nobi - non-binaire
 noche - noit  
 Noe - Noé  
 Noe di nave - arche de Noé  
+nomer - nombre (numéro)  
 nong - cultiver  
 nong bio logi - agrobiologie  
 nong di - agricole  
@@ -1068,7 +1067,6 @@ nove jene di - nouveau-né
 nove ka - néophyte  
 nove loga - néologisme  
 nove ta - nouveauté  
-nomer - nombre (numéro)  
 ####O - O  
 o - ou  
 ocelote - ocelot  
@@ -1246,6 +1244,7 @@ rota lefte - dans le sens antihoraire
 rota van gi - toupie  
 roza - rose  
 roza salmon - saumon rose  
+rubi - rubis  
 ruhu - psyché  
 ruhu logi - psychologie  
 ruhu mishe di - perplexe (désorienté)  
@@ -1394,8 +1393,8 @@ tal moku - buisson
 tana - tige  
 tarjum she - traduction  
 taza - frais  
-tehne - technique  
-tehne logi - technologie  
+tehni - technique  
+tehni logi - technologie  
 tela - tissu  
 tela gi - métier à tisser  
 tele fon gi - téléphone  
@@ -1415,10 +1414,12 @@ tim - équipe
 tire yo milke - tirer  
 tire yo pil - écorce  
 tisa - neuf (9)  
+titi - sein  
 tochu - toucher  
 toksi logi - toxicologie  
 tomate - tomate  
 topo grafi - topographie  
+topo metre grafi - carte (plan)  
 trati - contract (traité)  
 trator - traîner  
 trator gi - tracteur  
@@ -1521,6 +1522,7 @@ ze - de
 zebra - zèbre  
 zeyil - verrue  
 zi - caractère  
+zi sili - alphabet  
 zinji - gingembre  
 zoku - continuer (poursuivre, encore)  
 zoku di - continu (analogique)  

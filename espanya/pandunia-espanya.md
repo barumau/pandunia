@@ -294,9 +294,11 @@ be bum - explotar (estallar)
 be dara - fluir  
 be estaci - pararse (detenerse)  
 be ging - alinear  
+be hogo - quemarse  
 be jene - nacer  
 be kai - abirse  
 be loka - encontrarse (estar, situarse)  
+be mal - ser de  
 be mata - morirse  
 be migra - migrarse (mudarse, trasladarse)  
 be name - llamarse  
@@ -454,6 +456,7 @@ celsius darje - grado Celsius
 celu - célula  
 celu logi - citología  
 cen - cien (100)  
+ceng - capa (piso, planta, estrato)  
 centi - centi- (por ciento)  
 centimitre - centímetro  
 cerami - cerámica  
@@ -487,7 +490,6 @@ chena - preceder (anteceder)
 chenaga - presuponer  
 chendeno - ayer  
 chenfikse - prefijo  
-ceng - capa (piso, planta, estrato)  
 cheni - previo (anterior)  
 chenike - reliquia  
 cheniki - viejo (antiguo)  
@@ -516,7 +518,6 @@ chita - citar
 chitomarke - comilla  
 chize - queso  
 choda - joder (coger, copular)  
-coi - verduras  
 choklate - chocolate  
 choklatobaton - barra de chocolate  
 chope - azada  
@@ -542,6 +543,7 @@ cirke sheki - adoquín
 citi - ciudad  
 civil - civilizado  
 civil ta - civilización  
+coi - verduras  
 Cuana - Botsuana  
 ####D - D  
 da - de (posposición de posesión)  
@@ -741,6 +743,7 @@ dusvidi - feo
 dute - duda  
 ####E - E  
 e - y  
+e mas - además  
 eglis - iglesia  
 eki - ambiental (ecológico, natural)  
 ekia - medioambiente (naturaleza)  
@@ -848,9 +851,12 @@ fa dante - morder
 fa dika - apuntar  
 fa estaci - mantener (detener)  
 fa festa - celebrar (festejar)  
+fa fili - gustarse (querer)  
+fa fobi - asustar (atemorizar)  
 fa forma - formar  
 fa gami - casar  
 fa gol - destinar  
+fa hogo - quemar  
 fa jama - recoger (juntar, reunir, acumular, recolectar, montar)  
 fa javabu - responder (contestar)  
 fa jene - dar a luz (enngendrar, parir, procrear)  
@@ -863,7 +869,13 @@ fa Latin kitabu - romanizar
 fa linke - conectar (empalmar, enlazar, vincular)  
 fa loka - colocar (poner, ubicar)  
 fa long - alargar  
+fa maf - perdonar (disculpar)  
+fa mal - poseer (tener, ser dueño de)  
+fa marke - marcar  
 fa mata - matar (morir, asesinar)  
+fa meche - competir  
+fa memo - acordarse  
+fa mestre - dominar  
 fa migra - migrar (emigrar, tralsadar)  
 fa min rai - subestimar  
 fa ming - iluminar  
@@ -874,10 +886,10 @@ fa najis - corromper (contaminar)
 fa name - llamar (poner)  
 fa no zai - quitar (eliminar, borrar)  
 fa node - hacer un nudo  
+fa nomer - contar  
 fa nomi - organizar (gestionar)  
 fa note - avisar (notificar)  
 fa nove - renovar  
-fa nomer - contar  
 fa okei - aceptar  
 fa onor - honrar  
 fa ore - escuchar (oír)  
@@ -1030,9 +1042,8 @@ fikir - pensar
 fikir - idea (pensamiento, reflexión)  
 fiksa - fijar (pegar, asegurar)  
 fikse - accesorio (afijo)  
-fila - gustarse (querer)  
-filer - fan (-filo)  
-filia - attracción (-filia)  
+fili - attracción (-filia)  
+fili ja - fan (-filo)  
 Filipinas - Filipinas  
 Filistin - Palestina  
 filme - película (film, membrana)  
@@ -1056,9 +1067,8 @@ flame - inflamación
 fleche - flecha  
 flerovium - flerovio  
 flur - flúor  
-fa fobi - asustar (atemorizar)  
-fobi ja - asustador  
 fobi - miedo (-fobia)  
+fobi ja - asustador  
 fobu - temer  
 fokus - concentrar (enfocarse)  
 fokusa - concentración  
@@ -1066,6 +1076,7 @@ foli - demente (loco, insensato)
 folia - demencia (locura)  
 fon - fono (segmento acústico)  
 fon so - fonema  
+fon zi - letra (carácter)  
 fona - pronunciar (articular)  
 fong - abeja o avispa  
 fong nide - avispero (colmena)  
@@ -1336,8 +1347,6 @@ harabu mahala - barrio pobre
 harama - prohibir  
 harami - prohibido (tabú)  
 haramliste - lista negra  
-fon zi - letra (carácter)  
-zi sili - alfabeto  
 harmoni - armonioso  
 harmonia - armonía  
 harnes - arnés (arreos, jaeces)  
@@ -1400,16 +1409,14 @@ historia - historia (estudio de sucesos del pasado)
 hiyar - pepino  
 hobi - pasatiempo (hobby, afición)  
 hobi ja - amateur (aficionado)  
-hoga - quemar  
-hoge - fuego  
-hoge sanduku - farol (linterna)  
-hogi - ardiente (encendido)  
-hogoshan - volcán  
-hogoshani kancha - vidrio volcánico  
-hogosheke - pedernal (sílex)  
-hogotehne - dispositivo pirotécnico  
-hogu - quemarse  
-hoke - hockey  
+hogo - fuego  
+hogo di - ardiente (encendido)  
+hogo sanduku - farol (linterna)  
+hogo shan - volcán  
+hogo shan kanchi - vidrio volcánico  
+hogo sheki - pedernal (sílex)  
+hogo tehni - dispositivo pirotécnico  
+hoki - hockey  
 holgraf - holograma  
 holi - entero (todo)  
 holia - totalidad (integridad)  
@@ -1683,7 +1690,6 @@ karbe - carbón
 karbodulokside - dióxido de carbono  
 karbosui - carbohidrato  
 karchof - alcachofera  
-karte - tarjeta (carta)  
 kardon - cardo  
 karer - trabajador (obrero)  
 karibe - proximidad  
@@ -1704,6 +1710,7 @@ karnadia - Karnataka
 karote - zanahoria  
 karsi - áspero (basto)  
 karsolimon - combava (lima kafir)  
+karte - tarjeta (carta)  
 Kartvel - Georgia (República de Georgia)  
 karvan - caravana  
 kas - acontecimiento (caso, suceso, evento)  
@@ -1936,7 +1943,6 @@ laji bagi - basural
 laji tong - basurero  
 laka - laca  
 lal - rojo  
-rubi - rubí  
 lal lince - lince rojo (gato montés)  
 lal oranje - mandarina (tangerina)  
 lal salmon - salmón rojo  
@@ -2077,12 +2083,13 @@ Luter din ja - luterano
 lutetium - lutecio  
 ####M - M  
 ma - madre (mamá)  
+Madagasi - Madagascar  
+madagasi di - malgache  
 maf - perdón  
-fa maf - perdonar (disculpar)  
-magi ja - mago  
 magesium - magnesio  
 magi - magical  
 magi - magia  
+magi ja - mago  
 Magribe desha - Marruecos  
 Magyar - Hungría  
 mahala - barrio (cuartel)  
@@ -2096,42 +2103,37 @@ makan hua - dientes de león (panaderos)
 makas - tijera  
 Makau - Macao  
 mal - propiedad  
-fa mal - poseer (tener, ser dueño de)  
-madagaskar di - malgache  
-Madagaskar - Madagascar  
-Malaisia - Malasia  
 mal ja - dueño  
+mal nomi - economía  
+Malaisia - Malasia  
 malaria - malaria (paludismo)  
 Malavi - Malaui  
 malayali - malayali (malabar, malayalam)  
 malayu - malayo  
 Mali - Mali  
-mal nomi - economía  
 Malta - Malta  
-be mal - ser de  
 Malvinas nesia - Islas Malvinas  
-titi - seno (teta)  
 mamal - mamífero  
 man - masculino (macho)  
+man ben - hijo  
 man raja - rey  
 mana - significado (acepción)  
 manete - imán  
 manete di - magnético  
-mangan - manganeso  
 mang - ocupado (atareado)  
+mangan - manganeso  
 mango - mango  
 mangus - mangostán (jobo de la India)  
-man ben - hijo  
 Mani - profeta Mani  
 mani din - maniqueísmo  
 Manin nes - Isla de Man  
+manioka - yuca (mandioca)  
 manira - comportamiento (conducta)  
 manira - comportarse (portarse)  
 mantol - capa (manto)  
 mantra - salmodiar  
 mantra - mantra  
 mantu - panecillos al vapor (mantou)  
-manioka - yuca (mandioca)  
 mar - vez  
 marati - maratí  
 maraton - maratón  
@@ -2141,12 +2143,10 @@ margai - gato tigre (maracayá)
 margarin - margarina  
 margarita - margarita  
 Marian nesia - Islas Marianas  
-fa marke - marcar  
 marke - marca (huella, mancha)  
 Marse - Marte  
 Marshal nesia - Islas Marshall  
 mas - más  
-e mas - además  
 mas di - adicional (extra)  
 mas di fen - mayoría  
 mas fili - preferir (favorecer)  
@@ -2155,18 +2155,20 @@ mas fili jui - favoritismo
 mas forte ta - refuerzos  
 mas ka basa - demasiado  
 masa - masa (trozo, pedazo)  
+masa mula - tubérculo  
+masa mula sol hua - tupinambo (pataca, alcachofa de Jerusalén)  
 masaje - amasar (masajear)  
 masaje - masaje  
-masala tika - tikka masala  
 masala - especia  
+masala tika - tikka masala  
 masim - lo más  
 masim - máximo  
 masim di - máximo  
 maska - máscara  
-masa mula - tubérculo  
-masa mula sol hua - tupinambo (pataca, alcachofa de Jerusalén)  
 masta - mástil  
 mata - muerte (fallecimiento)  
+mata badan - cadáver  
+mata badan fili - necrofilia  
 mata di - muerto  
 mata ja - asesino  
 mate - sustancia (materia)  
@@ -2180,18 +2182,16 @@ mau - gato
 maya - maya  
 Mayote - Mayotte (Mahoré)  
 maze - calcetín  
-fa meche - competir  
 meche - partido  
 medal - medallón  
 meden - plaza  
-meden fobi - agorafobia  
 meden di - abierto (extenso)  
+meden fobi - agorafobia  
 meden papil - amapola silvestre  
 medi - medio  
 medi - medio (mediano)  
 medi gi - medio (instrumento)  
 medi she - medio  
-pa medi - entre  
 medu - miel  
 medu fong - abeja  
 medu fong nide - colmena (panal)  
@@ -2203,14 +2203,11 @@ Mehiko citi - Ciudad de México
 melodi - melodioso  
 melodi - melodía  
 melon - melón  
-mem - memoria  
-fa mem - acordarse  
-si membre - pertenecer (ser miembro de)  
 membre - miembro (componente)  
-mem bina - monumento  
 meme - oveja  
-mem note - memorándum (nota)  
-mien - fideo (tallarín)  
+memo - memoria  
+memo bina - monumento  
+memo note - memorándum (nota)  
 meninge - meninge  
 meninge flame - meningitis  
 mentor - consejero (asesor)  
@@ -2232,7 +2229,6 @@ mesi di - mesiánico
 mesi din - cristianismo  
 mesi din ja - cristiano  
 mesi jene - Navidad  
-fa mestre - dominar  
 mestre - maestro (experto)  
 metal - metal  
 metal bede - yunque  
@@ -2241,7 +2237,6 @@ metal lin - alambre (hilo)
 metre - medir (medida)  
 metre gi - medidor  
 metre grafi - carta (mapa, tabla, gráfico)  
-topo metre grafi - mapa  
 metre grafi shutu - cartografía  
 metre unta - unidad (medida)  
 meza - mesa  
@@ -2249,6 +2244,7 @@ meza tela - mantel
 meza topo - meseta  
 mi - yo  
 mi su - mi  
+mien - fideo (tallarín)  
 migra - migración  
 mikro - micro-  
 mikro bio - microbio  
@@ -2452,6 +2448,7 @@ noche mode - modo nocturno
 node - nudo  
 Noe - Noé  
 Noe di nave - arca de Noé  
+nomer - número  
 nomi - gerencia (dirección)  
 nong - cultivar  
 nong bio logi - agrobiología  
@@ -2493,7 +2490,6 @@ Nove Zelande - Nueva Zelanda
 nude - desnudo  
 nude jui - nudismo  
 nude jui ja - nudista  
-nomer - número  
 ####O - O  
 o - o  
 Oceania - Oceanía  
@@ -2545,6 +2541,7 @@ pa - en (a)
 pa - padre (papá)  
 pa ke - dónde  
 pa lin - en línea  
+pa medi - entre  
 pa niche - debajo  
 pa nove - ahora mismo (justo)  
 pa poli mar - frecuentemente  
@@ -2912,6 +2909,7 @@ roza - rosa
 roza rang - rosa  
 roza salmon - salmón rosado  
 Ruanda - Ruanda  
+rubi - rubí  
 rubidium - rubidio  
 ruhu - psique  
 ruhu di - mental (psíquico)  
@@ -3132,6 +3130,7 @@ shush di - silencioso
 shutu - dotes (arte, habilidad)  
 si - ser (estar)  
 si ja - ser  
+si membre - pertenecer (ser miembro de)  
 Sibiria - Siberia  
 siborgium - seaborgio  
 side - sentarse  
@@ -3312,10 +3311,10 @@ tatike - táctica (estrategia)
 tatu - tatuaje  
 tava - sartén  
 taza - fresco  
-tehne - técnica  
-tehne krati - tecnocracia  
-tehne logi - tecnología  
 tehnetium - tecnetio  
+tehni - técnica  
+tehni krati - tecnocracia  
+tehni logi - tecnología  
 tela - tela (paño, tejido)  
 tela gi - telar  
 tele - lo lejos  
@@ -3364,6 +3363,7 @@ tire yo milke - ordeñar
 tire yo pil - quitar (pelar)  
 tisa - nueve (9)  
 titanium - titanio  
+titi - seno (teta)  
 tochu - tocar (rozar)  
 tochu sense - palpar (tocar)  
 Togo - Togo  
@@ -3377,6 +3377,7 @@ tong - barril (tonel)
 Tonga - Tonga  
 topo - región (zona)  
 topo grafi - topografía  
+topo metre grafi - mapa  
 torium - torio  
 torso - torso  
 tortuga - tortuga  
@@ -3625,6 +3626,7 @@ ze saba da - porque
 zebra - cebra  
 zeyil - verruga  
 zi - carácter  
+zi sili - alfabeto  
 zigzage - zigzag  
 zikura - zigurat  
 Zimbabue - Zimbabue  

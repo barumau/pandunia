@@ -125,6 +125,8 @@ baze bol - 棒球
 baze shula kan - 小学  
 be ais - 结冰  
 be bio mute - 发酵  
+be hogo - 烧  
+be mal - 属于  
 be pute - 腐烂  
 be retro - 返回 (回来)  
 be van - 玩耍  
@@ -177,6 +179,7 @@ buton - 扣子
 ####C - C  
 celu logi - 细胞学  
 cen - सौ  
+ceng - 层  
 cerami - 陶瓷  
 chabe - 钥匙  
 chai - 茶  
@@ -189,7 +192,6 @@ chante grupe - 合唱团
 chati - 屋顶 (房顶)  
 chatre - 四 (4)  
 chendeno - 昨日  
-ceng - 层  
 cheniki - 古老 (以前)  
 cheno - 以前  
 chili - 菜椒  
@@ -295,8 +297,11 @@ fa - 作
 fa bina - 建设  
 fa dante - 咬  
 fa dika - 瞄准  
+fa fobi - 吓唬  
+fa hogo - 燃烧  
 fa linke - 连接  
 fa loka - 放置  
+fa memo - 记得 (回忆)  
 fa migra - 搬家  
 fa najis - 污染  
 fa nomi - 组织  
@@ -340,7 +345,6 @@ fito logi - 植物学
 fito yam jui ja - 素食主义者  
 flame - 炎症  
 fleche - 箭  
-fa fobi - 吓唬  
 fobu - 害怕  
 fong - 蜂  
 fora - 钻孔  
@@ -375,7 +379,7 @@ garma zona - 热带
 garma zona cau istan - 稀树草原  
 gati - 硬  
 gatomate - 固体  
-gautehnia - 高科技 (高技术)  
+gau tehni - 高科技 (高技术)  
 gencha - 检查  
 geo forme - 地势  
 geo grafi - 地理  
@@ -439,7 +443,6 @@ Han - 汉族
 hande - 手  
 handoshake - 胳膊  
 hapi - 合适  
-zi sili - 字母表  
 Hartum - 喀土穆  
 hata - 直到  
 hata - 连  
@@ -460,13 +463,11 @@ hisabolojia - 数学
 hisabu loge - 账户  
 hiyar - 黄瓜  
 hobi ja - 爱好者  
-hoga - 燃烧  
-hoge - 火  
-hogoshan - 火山  
-hogosheke - 燧石  
-hogotehne - 烟火  
-hogu - 烧  
-hoke - 曲棍球  
+hogo - 火  
+hogo shan - 火山  
+hogo sheki - 燧石  
+hogo tehni - 烟火  
+hoki - 曲棍球  
 hor - 小时  
 horloger - 钟  
 hotel - 旅馆  
@@ -564,7 +565,6 @@ kara - 工作
 karate - 空手道  
 karbodulokside - 二氧化碳  
 karchof - 菜蓟  
-karte - 牌  
 kardon - 蓟  
 kardonkarchof - 刺苞菜蓟  
 karer - 工人 (工作者)  
@@ -575,6 +575,7 @@ karmisa - 提交
 karote - 红萝卜  
 karsi - 粗糙  
 karsolimon - 箭叶橙  
+karte - 牌  
 kaske - 壳 (皮)  
 kata - 切  
 katane - 剑  
@@ -651,7 +652,6 @@ laji - 废物 (垃圾)
 laji bagi - 垃圾场  
 laji tong - 垃圾桶  
 lal - 红  
-rubi - 红宝石  
 lal lince - 短尾貓  
 lal oranje - 柑橘 (红橘)  
 lal salmon - 紅鮭  
@@ -726,7 +726,6 @@ Magribe desha - 摩洛哥
 majang - 麻将  
 makan hua - 蒲公英  
 mal nomi - 经济学  
-be mal - 属于  
 man raja - 王  
 mana - 意义  
 mang - 忙  
@@ -738,10 +737,12 @@ margai - 長尾虎貓
 mas fili - 比较喜欢  
 mas forte ta - 加固  
 masa - 质量  
+masa mula sol hua - 菊芋  
 masala - 香料  
 masim - 最  
-masa mula sol hua - 菊芋  
 masta - 桅  
+mata badan - 尸体  
+mata badan fili - 恋尸癖  
 mate - 物质  
 matur - 成年人  
 matur fem - 女人  
@@ -758,14 +759,13 @@ medu fong sanduku - 蜂箱
 mega - 百万 (兆)  
 megi - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
-mem - 记忆 (记性)  
-fa mem - 记得 (回忆)  
+memo - 记忆 (记性)  
 meninge - 脑脊膜  
+meranti - 娑羅屬  
 metal bede - 铁砧  
 metal jang ja - 铁匠  
 metal lin - 线 (铁丝)  
 metre grafi - 図表  
-topo metre grafi - 地图  
 metre grafi shutu - 地图学  
 meza - 桌子  
 meza tela - 桌布  
@@ -829,6 +829,7 @@ no - 不
 noche - 夜  
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
+nomer - 数  
 nong bio logi - 土壤生物学  
 nong chun - 农村  
 nong nomi - 农学  
@@ -838,7 +839,6 @@ note she - 便条
 nove - 新  
 nove ka - 新手  
 nove loga - 新词  
-nomer - 数  
 ####O - O  
 o - 或  
 ocelote - 虎貓  
@@ -974,6 +974,7 @@ rota tafun - 飓风 (台风)
 rota van gi - 陀螺  
 roza - 玫瑰  
 roza salmon - 粉紅鮭  
+rubi - 红宝石  
 ruhu mishe di - 困惑 (混乱)  
 ####S - S  
 sabi - 知道 (晓得)  
@@ -1115,8 +1116,8 @@ tana - 茎 (梗)
 tarjum she - 翻译  
 tasa - 盘 (碟)  
 taza - 新鲜的  
-tehne - 技术  
-tehne logi - 工艺学  
+tehni - 技术  
+tehni logi - 工艺学  
 tela - 布料  
 tela gi - 织机  
 tele fon gi - 电话机  
@@ -1139,6 +1140,7 @@ tochu - 接触
 toksi logi - 毒物学  
 tomate - 西红柿  
 topo grafi - 地形  
+topo metre grafi - 地图  
 trati - 合同 (合约)  
 trator - 拖  
 trator gi - 拖拉机 (铁牛)  
@@ -1230,6 +1232,7 @@ zebra - 斑马
 zeyil - 疣  
 zeze - 双翅目  
 zi - 字  
+zi sili - 字母表  
 zinji - 姜  
 zira - 孜然  
 zoku - 还 (依然)  

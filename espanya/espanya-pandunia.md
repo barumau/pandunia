@@ -35,7 +35,7 @@ aclarar (clarificar) - klara
 aconsejar - fa sela  
 acontecimiento (caso, suceso, evento) - kas  
 acordar - fa sam rai  
-acordarse - fa mem  
+acordarse - fa memo  
 acortar (abreviar) - korte fa  
 acostar (poner) - kusha  
 acostarse (echarse, tenderse, tumbarse) - kushu  
@@ -218,7 +218,7 @@ archipiélago de Hawái - Havai nesia
 arcilla (barro) - glute fan  
 arco - arka  
 arco iris - rang arka  
-ardiente (encendido) - hogi  
+ardiente (encendido) - hogo di  
 ardilla - ekore  
 arena - rege  
 Argelia - Jayer  
@@ -283,7 +283,7 @@ ataque - agres
 atar (amarrar) - bande  
 Atenas - Athina  
 ateo - an deu jui ja  
-attracción (-filia) - filia  
+attracción (-filia) - fili  
 aullar - ulul  
 aullido - ulul  
 auspicioso (propicio) - bon sin di  
@@ -487,6 +487,7 @@ cacto - katus
 cada - pan un  
 cadena - sili sili  
 cadmio - kadmium  
+cadáver - mata badan  
 caer - pade  
 cafetera - kafe pote  
 café (cafetería) - kafe kan  
@@ -1063,7 +1064,7 @@ disionario (lexicón) - logoliste
 disparar - pau  
 dispersar (esparcir, desmontar) - an jami  
 disposición (naturaleza, carácter, -ivo, -idad) - tabi  
-dispositivo pirotécnico - hogotehne  
+dispositivo pirotécnico - hogo tehni  
 disprosio - disprosium  
 distancia - tele ta  
 distintos (diversos) - vari  
@@ -1352,13 +1353,13 @@ falla (mal funcionamiento) - dusfunche
 fallo (juicio, criterio) - jude  
 falso - falsi  
 familia - famil  
-fan (-filo) - filer  
+fan (-filo) - fili ja  
 fantasma - fantom  
 farbicante - cana ja  
 farmacia (botica, droguería) - dava she kan  
 farmacologia - dava she logi  
 faro (baliza, almenara) - foto minar  
-farol (linterna) - hoge sanduku  
+farol (linterna) - hogo sanduku  
 farsi - farsi  
 fascinación - fasinia  
 fascismo - fashistia  
@@ -1425,7 +1426,7 @@ fresno - yasen
 frontera (límite, borde, periferia) - kinar  
 fruta - frute  
 frío - lengi  
-fuego - hoge  
+fuego - hogo  
 fuente (manantial) - fonte  
 fuera (exterior) - esh  
 fuerte - forte  
@@ -1572,7 +1573,7 @@ gujaratí - gujarati
 gul - gul  
 gustar (complacer) - fa suka  
 gustarse (disfrutar) - be suka  
-gustarse (querer) - fila  
+gustarse (querer) - fa fili  
 gusto (sabor) - guste  
 Guyana - Guyana  
 Guyana Francesa - France Guyana  
@@ -1644,7 +1645,7 @@ historia (pasado) - histori
 historiador - histori ja  
 historieta (caricaturas) - grafi kata  
 hm - hem  
-hockey - hoke  
+hockey - hoki  
 hockey sobre hielo - ais hoki  
 hoja - varka  
 holmio - holmium  
@@ -2038,7 +2039,7 @@ Macedonia del Norte - Norde Makedonia
 maceta (plantera) - hua pote  
 macrial (militar) - jengi  
 macroalga - hai alga  
-Madagascar - Madagaskar  
+Madagascar - Madagasi  
 madera - muku mate  
 madrastra - vice ma  
 madre (mamá) - ma  
@@ -2063,7 +2064,7 @@ malayo - malayu
 maldición - lana  
 Maldivas - Divehia  
 maleable - plasti di  
-malgache - madagaskar di  
+malgache - madagasi di  
 Mali - Mali  
 malinterpretar - galto buda  
 malo (difícil, duro) - dusi  
@@ -2161,8 +2162,8 @@ melón amargo - kali melon
 melón cantalupo - kantalupomelon  
 melón coreano - aroma melon  
 melón verde - lugi melon  
-memoria - mem  
-memorándum (nota) - mem note  
+memoria - memo  
+memorándum (nota) - memo note  
 meninge - meninge  
 meningitis - meninge flame  
 menor (leve) - minor  
@@ -2254,7 +2255,7 @@ monoteismo - un deu jui
 monstro - monoster  
 montaña (colina) - shan  
 Montenegro - Chernagora  
-monumento - mem bina  
+monumento - memo bina  
 monóculo - un oko di lense  
 monólogo - auto loga  
 morado (púrpura) - violeta blu  
@@ -2339,6 +2340,7 @@ Naúru - Nauru
 necesario - yau di  
 necesidad - yauta  
 necesitar - yau  
+necrofilia - mata badan fili  
 nefritis - nefre flame  
 negociar - lona biznes  
 negocios (comercio) - biznes  
@@ -2600,7 +2602,7 @@ pecho (busto) - buste
 pecho (seno, tórax) - sina  
 pedal - pedal  
 pedazo - tika  
-pedernal (sílex) - hogosheke  
+pedernal (sílex) - hogo sheki  
 pedir (invitar; por favor) - ching  
 pedir prestado - jekogeta  
 pedo - pede  
@@ -2867,8 +2869,8 @@ qualquier - eni
 que (como, en comparación con) - ka  
 quedarse - be reste  
 queja (lamento) - shikaya  
-quemar - hoga  
-quemarse - hogu  
+quemar - fa hogo  
+quemarse - be hogo  
 querer (desear) - vol  
 querer (disponer) - icha  
 querido - ami  
@@ -3307,8 +3309,8 @@ techo (tejado) - chati
 tecla (botón) - buton  
 teclado - buton ban  
 tecnetio - tehnetium  
-tecnocracia - tehne krati  
-tecnología - tehne logi  
+tecnocracia - tehni krati  
+tecnología - tehni logi  
 tectónica de placas - plate geo kaske logi  
 tejer - fa tela  
 tela (paño, tejido) - tela  
@@ -3457,7 +3459,7 @@ Tuvalu - Tuvalu
 táctica (estrategia) - tatike  
 tántalo - tantalum  
 té - chai  
-técnica - tehne  
+técnica - tehni  
 télugu - Telugu  
 Tíbet - Botia  
 título - tema name  
@@ -3557,7 +3559,7 @@ vida - jiu
 vidriado (esmalte) - kancha dake  
 vidriar (glasear) - fa kancha dake  
 vidrio (cristal) - kancha  
-vidrio volcánico - hogoshani kancha  
+vidrio volcánico - hogo shan kanchi  
 viejo (anciano) - lau  
 viejo (anciano) - lavi  
 viejo (antiguo) - cheniki  
@@ -3589,7 +3591,7 @@ viñedo - putau bagi
 vocabulario (léxico) - loga jami  
 vocal - jungofon  
 volar - feyu  
-volcán - hogoshan  
+volcán - hogo shan  
 voltio (V) - volte  
 voluntad - icha  
 volver - be retro  

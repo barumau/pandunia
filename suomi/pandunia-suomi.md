@@ -290,9 +290,11 @@ be boli - kiehua
 be bum - räjähtää  
 be dara - virrata  
 be estaci - seisoa (seisahtaa)  
+be hogo - palaa  
 be jene - syntyä  
 be kai - aueta (avautua)  
 be loka - sijaita  
+be mal - kuulua (olla jkn hallussa)  
 be mas - ylittää (olla enemmän kuin)  
 be mata - kuolla  
 be migra - muuttaa (siirtyä)  
@@ -453,6 +455,7 @@ celsius darje - celsiusaste
 celu - solu  
 celu logi - soluoppi (sytologia)  
 cen - sata (100)  
+ceng - kerros  
 centi - sentti  
 centimitre - senttimetri (cm)  
 cerami - savityö (keramiikka)  
@@ -487,7 +490,6 @@ chena - edeltää (olla ennen)
 chenaga - edellyttää  
 chendeno - eilen  
 chenfikse - etuliite (prefiksi)  
-ceng - kerros  
 cheni - edellinen  
 cheniki - vanha (muinainen)  
 cheno - ennen (aikaisemmin, aiemmin)  
@@ -520,7 +522,6 @@ chita - lainata (siteerata)
 chitomarke - lainausmerkki  
 chize - juusto  
 choda - nussia (panna)  
-coi - vihannes  
 choklate - suklaa  
 choklatobaton - suklaapatukka  
 chongching - Chongqing  
@@ -547,6 +548,7 @@ cirke sheki - mukulakivi
 citi - kaupunki  
 civil - sivistynyt  
 civil ta - sivilisaatio  
+coi - vihannes  
 Cuana - Botswana  
 ####D - D  
 da - määritetyn määritteeseen liittävä partikkeli  
@@ -872,10 +874,13 @@ fa dante - purra
 fa dika - osoittaa (tähdätä)  
 fa estaci - seisottaa  
 fa festa - juhlia  
+fa fili - tykätä (pitää)  
+fa fobi - pelottaa  
 fa forma - muotoilla (muovata)  
 fa forte - vahvistaa (voimistaa)  
 fa gami - naida (mennä naimisiin)  
 fa gol - määrätä  
+fa hogo - polttaa  
 fa ja - tekijä (toimija)  
 fa jama - koota (kerätä)  
 fa javabu - vastata  
@@ -889,8 +894,14 @@ fa Latin kitabu - latinoida
 fa linke - yhdistää  
 fa loka - panna (asettaa, sijoittaa)  
 fa long - pidentää  
+fa maf - antaa anteeksi  
+fa mal - omistaa  
+fa marke - merkitä (jättää jälki)  
 fa mas - lisätä (enentää)  
 fa mata - tappaa  
+fa meche - otella  
+fa memo - muistaa  
+fa mestre - taitaa (olla mestari jskn)  
 fa migra - muuttaa (siirtää)  
 fa min - vähentää  
 fa min rai - aliarvioida  
@@ -1052,9 +1063,8 @@ fikir - ajatella (miettiä)
 fikir - ajatus  
 fiksa - kiinnittää  
 fikse - kiinnitys  
-fila - tykätä (pitää)  
-filer - fani (-fiili)  
-filia - tykkääminen  
+fili - tykkääminen  
+fili ja - fani (-fiili)  
 Filipinas - Filippiinit  
 Filistin - Palestiina  
 filme - filmi  
@@ -1081,10 +1091,9 @@ flame - tulehdus
 fleche - nuoli  
 flerovium - flerovium  
 flur - fluori  
-fa fobi - pelottaa  
-fobi ja - pelottava  
-fobi di - pelokas  
 fobi - kammo (fobia)  
+fobi di - pelokas  
+fobi ja - pelottava  
 Fobos - Fobos  
 fobu - pelätä  
 fokus - keskittyminen (keskittymä)  
@@ -1093,6 +1102,7 @@ foli - hullu (mieletön)
 folia - hulluus (mielettömyys)  
 fon - äänne (fooni)  
 fon so - äänne (foneemi)  
+fon zi - kirjain  
 fona - ääntää (lausua)  
 fong - mehiläinen tai ampiainen  
 fonlojia - fonologia (äänneoppi)  
@@ -1204,9 +1214,9 @@ gati - kova
 gatomate - kiinteä aine  
 gatomati - kiinteä  
 gau - huippu  
+gau tehni - korkea teknologia  
 gaudarji - korkeatasoinen (edistynyt)  
 gautali - pystysuuntainen  
-gautehnia - korkea teknologia  
 gava - nostaa  
 gavi - korkea  
 gavia - korkeus  
@@ -1352,8 +1362,6 @@ harabu mahala - slummi
 harama - kieltää  
 harami - kielletty  
 haramliste - musta lista  
-fon zi - kirjain  
-zi sili - aakkoset (ABC)  
 harmoni - harmoninen  
 harmonia - harmonia  
 harnes - valjaat  
@@ -1417,15 +1425,12 @@ histori ja - historioitsija
 historia - historia (oppiaine)  
 hiyar - kurkku  
 hobi - harrastus  
-hobi ja - amatööri  
-hobi ja - harrastaja  
-hoga - polttaa  
-hoge - tuli  
-hoge sanduku - lyhty  
-hogi - tulinen  
-hogosheke - piikivi  
-hogu - palaa  
-hoke - hockey (jääkiekko)  
+hobi ja - harrastaja (amatööri)  
+hogo - tuli  
+hogo di - tulinen  
+hogo sanduku - lyhty  
+hogo sheki - piikivi  
+hoki - hockey (jääkiekko)  
 holgraf - hologrammi  
 holi - koko (kokonainen)  
 holire - kolera  
@@ -1689,7 +1694,6 @@ karavi - kumina
 karbau - vesipuhveli  
 karbe - hiili  
 karbodulokside - hiilidioksidi  
-karte - kortti  
 karer - työntekijä (työläinen)  
 karibi - läheinen  
 karibo - lähes (melkein)  
@@ -1706,6 +1710,7 @@ karmeze - työpöytä (kirjoituspöytä)
 karnadi - kannada (eräs intialainen kieli)  
 karnadia - Karnataka (Intian osavaltio)  
 karote - porkkana  
+karte - kortti  
 Kartvel - Georgia  
 karvan - karavaani (saattue)  
 kas - tapaus (seikka)  
@@ -1931,7 +1936,6 @@ laji bagi - kaatopaikka
 laji tong - jäteastia (roskakori, roskis)  
 laka - lakka  
 lal - punainen  
-rubi - rubiini  
 lal oranje - mandariini  
 lampa - lamppu  
 lance - heittää (paiskata)  
@@ -2056,12 +2060,13 @@ lutetium - lutetium
 ma - äiti (emä)  
 ma ma - äidinäiti  
 ma pa - äidinisä  
+Madagasi - Madagaskar  
+madagasi di - madagaskarilainen (malagassi)  
 maf - anteeksi  
-fa maf - antaa anteeksi  
-magi ja - taikuri  
 magesium - magnesium  
 magi - taianomainen (maaginen)  
 magi - taika (taikuus, magia)  
+magi ja - taikuri  
 Magribe desha - Marokko  
 Magyar - Unkari  
 mahala - kaupunginosa (kortteli, naapurusto)  
@@ -2073,48 +2078,42 @@ makan - voi
 makas - sakset  
 Makau - Macao  
 mal - omaisuus  
-fa mal - omistaa  
-madagaskar di - malagassi  
-Madagaskar - Madagaskar  
-Malaisia - Malesia  
 mal ja - omistaja (pitäjä, hallussapitäjä)  
+mal nomi - taloustiede (ekonomia)  
+Malaisia - Malesia  
 malaria - malaria  
 Malavi - Malawi  
 malayali - malajalam (eräs intialainen kieli)  
 malayu - malaiji  
 Mali - Mali  
-mal nomi - taloustiede (ekonomia)  
 Malta - Malta  
-be mal - kuulua (olla jkn hallussa)  
 Malvinas nesia - Falklandin saaret  
-titi - nisä (tissi)  
 mamal - nisäkäs  
 man - uros (mies)  
+man ben - poika  
 man raja - kuningas  
 mana - merkitys  
 manete - magneetti  
 manete di - magneettinen  
-mangan - mangaani  
 mang - kiireinen  
+mangan - mangaani  
 mango - mango  
 mangus - mangostani  
-man ben - poika  
 Mani - profeetta Mani  
 mani din - manikealaisuus  
 Manin nes - Manin saari  
+manioka - kassava (maniokki)  
 manira - käytös (käyttäytyminen, tapa, tavat)  
 manira - käyttäytyä  
 mantra - messuta  
 mantra - mantra  
 mantu - täytetty pulla  
-manioka - kassava (maniokki)  
 mar - kerta (vuoro)  
 marati - marathi (eräs intialainen kieli)  
 maraton - maratoni  
 marche - kävellä  
 marche - kävely (marssi)  
 margarin - margariini  
-fa marke - merkitä (jättää jälki)  
 marke - merkki (jälki)  
 Marse - Mars  
 Marshal nesia - Marshall-saaret  
@@ -2128,14 +2127,16 @@ mas ka basa - liikaa
 masa - massa  
 masaje - vaivata (hieroa)  
 masaje - hieronta  
-masala tika - tikka masala  
 masala - mauste  
+masala tika - tikka masala  
 masim - eniten  
 masim - maksimi (enimmäismäärä)  
 masim di - enimmäis-  
 maska - naamio (maski)  
 masta - masto (salko)  
 mata - kuolema (kuolo)  
+mata badan - kuollut ruumis  
+mata badan fili - nekrofilia  
 mata di - kuollut (vainaa)  
 mata ja - tappaja  
 mate - aine (materia)  
@@ -2150,16 +2151,14 @@ maya - maya (mayaintiaani)
 Mayote - Mayotte  
 maze - sukka  
 me poze - sija (paikka järjestyksessä)  
-fa meche - otella  
 meche - ottelu (matsi)  
 medal - mitali  
 meden - kenttä (aukio)  
-meden fobi - agorafobia (avaran paikan kammo)  
 meden di - avara (aava, aukea)  
+meden fobi - agorafobia (avaran paikan kammo)  
 medi - väli  
 medi gi - väline (instrumentti)  
 medi she - media  
-pa medi - välissä  
 medu - hunaja  
 medu fong - mehiläinen  
 medu fong nide - mehiläispesä  
@@ -2169,13 +2168,11 @@ megi - pilvi
 Mehiko - Meksiko  
 melodi - melodinen (sointuisa)  
 melodi - melodia (sävelmä)  
-mem - muisti  
-fa mem - muistaa  
-si membre - kuulua (olla jäsenenä)  
 membre - jäsen (osatekijä, komponentti)  
 meme - lammas  
-mem note - muistio (muistiinmerkintä)  
-mien - nuudeli  
+memo - muisti  
+memo note - muistio (muistiinmerkintä)  
+memo tehni - muistitekniikka  
 meninge - aivokalvo  
 meninge flame - aivokalvontulehdus  
 mentor - neuvontantaja (mentori)  
@@ -2197,19 +2194,18 @@ mesi di - messiaaninen
 mesi din - kristinusko  
 mesi din ja - kristitty  
 mesi jene - joulu  
-fa mestre - taitaa (olla mestari jskn)  
 mestre - mestari (asiantuntija)  
 metal - metalli  
 metal jang ja - seppä  
 metal lin - vaijeri (metallilanka)  
 metre - mitta (koko, määrä)  
 metre grafi - kaavio (kartta)  
-topo metre grafi - kartta  
 metre grafi shutu - kartogratia  
 meza - pöytä  
 meza tela - pöytäliina  
 mi - minä  
 mi su - minun  
+mien - nuudeli  
 migra - muutto (migraatio)  
 mikro bio - mikrobi  
 mikro bio logi - mikrobiologia  
@@ -2394,6 +2390,7 @@ noche mode - yömoodi
 node - solmu  
 Noe - Nooa  
 Noe di nave - Nooan arkki  
+nomer - lukumäärä (luku, numero)  
 nomi - hallinto (hallinnointi)  
 nong - viljellä  
 nong bio logi - maatalousbiologia  
@@ -2435,7 +2432,6 @@ nu - no
 nude - alaston (paljas, naku)  
 nude jui - nudismi  
 nude jui ja - nudisti  
-nomer - lukumäärä (luku, numero)  
 ####O - O  
 o - tai (vai)  
 Oceania - Oseania  
@@ -2484,6 +2480,7 @@ pa - isä
 pa de ma - isänäiti  
 pa de pa - isänisä  
 pa ke - missä?  
+pa medi - välissä  
 pa niche - alla  
 pa nove - äsken (vasta, juuri)  
 pa poli mar - usein  
@@ -2818,6 +2815,7 @@ rota van gi - hyrrä
 roza - ruusu  
 roza rang - vaaleanpunainen  
 Ruanda - Ruanda  
+rubi - rubiini  
 ruhu - henki (sielu, mieli, psyyke)  
 ruhu di - henkinen (psyykkinen)  
 ruhu logi - psykologia  
@@ -3019,6 +3017,7 @@ shush di - hiljainen
 shutu - taito  
 si - olla  
 si ja - olento (olio)  
+si membre - kuulua (olla jäsenenä)  
 Sibiria - Siperia  
 sifa - laatu (ominaisuus, ominaispiirre, määrite)  
 sifa di - kuvaileva (määrittelevä)  
@@ -3171,9 +3170,9 @@ tatike - taktiikka
 tatu - tatuointi  
 tava - pannu (paistinpannu)  
 taza - tuore (raikas)  
-tehne - tekniikka (keino, menetelmä)  
-tehne krati - teknokratia  
-tehne logi - tekniikka (teknologia)  
+tehni - tekniikka (keino, menetelmä)  
+tehni krati - teknokratia  
+tehni logi - tekniikka (teknologia)  
 tela - kangas  
 tela gi - kutomakone (kangaspuut)  
 tele - etäisyys (kaukaisuus)  
@@ -3215,6 +3214,7 @@ tire sanduku - vetolaatikko
 tire yo milke - lypsää maitoa  
 tisa - yhdeksän  
 titanium - titaani  
+titi - nisä (tissi)  
 tochu - koskea (koskettaa)  
 tochu sense - tuntea  
 Togo - Togo  
@@ -3228,6 +3228,7 @@ tong - tynnyri (tölkki)
 Tonga - Tonga  
 topo - seutu (maa)  
 topo grafi - topografia  
+topo metre grafi - kartta  
 torso - vartalo (varsi, torso)  
 tortuga - kilpikonna  
 transe - läpikulku (kuljetus)  
@@ -3461,6 +3462,7 @@ zeta - tsetta-
 zeyil - syylä  
 zeze - kaksisiipinen  
 zi - kirjoitusmerkki  
+zi sili - aakkoset (ABC)  
 zigzage - siksakki  
 zikura - zikkurat  
 Zimbabue - Zimbabwe  
@@ -3477,7 +3479,7 @@ zona - vyö
 zou - eläin  
 zou agro shutu - karjanhoito  
 zou bagi - eläintarha  
-zou filia - eläinrakkaus  
+zou fili - eläinrakkaus  
 zou geo grafi - eläinmaantiede  
 zou kata - eläinsatu  
 zou logi - eläintiede (zoologia)  

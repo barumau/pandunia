@@ -318,9 +318,11 @@ be bum - explode (blow up)
 be dara - flow  
 be estaci - stand still  
 be ging - align (go along)  
+be hogo - burn (be burned)  
 be jene - be born  
 be kai - become open  
 be loka - be located (lie, be situated)  
+be mal - belong  
 be mas - exceed (be greater than)  
 be mata - die  
 be migra - move (migrate, relocate oneself)  
@@ -427,6 +429,7 @@ bon darja - upgrade (level up)
 bon deke - virtue (morals)  
 bon deke di - virtuous  
 bon guste di - delicious (yummy)  
+bon mas she - bonus  
 bon rai - approve  
 bon sifa di - excellent  
 bon sifa ta - excellence (quality, virtue)  
@@ -498,6 +501,7 @@ celsius darje - degree Celsius
 celu - cell (biology)  
 celu logi - cytology  
 cen - hundred (100)  
+ceng - layer (level, storey, floor, stratum)  
 centi - centi- (per cent)  
 centimitre - centimeter (cm)  
 cerami - ceramic  
@@ -533,7 +537,6 @@ chena - predate (be before)
 chenaga - assume (presuppose)  
 chendeno - yesterday  
 chenfikse - prefix  
-ceng - layer (level, storey, floor, stratum)  
 cheni - previous (fore)  
 chenike - relic  
 cheniki - old (ancient, former)  
@@ -569,7 +572,6 @@ chita - quote (cite)
 chitomarke - quotation mark  
 chize - cheese  
 choda - fuck (copulate)  
-coi - greens  
 choklate - chocolate  
 choklatobaton - chocolate bar  
 chongching - Chongqing  
@@ -596,6 +598,7 @@ cirke sheki - cobblestone
 citi - city (town)  
 civil - civilized (civil)  
 civil ta - civilization  
+coi - greens  
 Cuana - Botswana  
 ####D - D  
 da - of (attributive preposition)  
@@ -819,6 +822,7 @@ dutani - doubtful (suspicious, disbelieving)
 dute - doubt (disbelief)  
 ####E - E  
 e - and  
+e mas - also (too)  
 eglis - church  
 eki - environmental (natural)  
 ekia - environment (nature)  
@@ -942,10 +946,13 @@ fa dante - bite
 fa dika - aim (point)  
 fa estaci - hold (detain)  
 fa festa - celebrate (party)  
+fa fili - like  
+fa fobi - scare (frighten)  
 fa forma - shape (sculpt)  
 fa forte - strengthen (reinforce)  
 fa gami - marry  
 fa gol - destine (set)  
+fa hogo - burn (cause to burn)  
 fa ja - doer (agent)  
 fa jama - collect (gather, bring together, assemble, congregate)  
 fa javabu - respond (give an answer)  
@@ -960,10 +967,16 @@ fa Latin kitabu - romanize
 fa linke - connect (join, link)  
 fa loka - put (place, set)  
 fa long - lengthen (prolong)  
+fa maf - forgive (pardon)  
+fa mal - own (possess, have)  
+fa marke - mark (leave a mark)  
 fa mas - increase  
 fa mas forte - reinforce (replenish)  
 fa masim - maximize  
 fa mata - kill  
+fa meche - compete (have a match)  
+fa memo - remember (recall)  
+fa mestre - master (be an expert at sth)  
 fa migra - move (migrate, relocate)  
 fa min - decrease (lessen)  
 fa min darja - decrement  
@@ -978,10 +991,10 @@ fa name - call (name)
 fa nia - mean (intend)  
 fa no zai - remove (delete, dispose, erase)  
 fa node - tie a knot  
+fa nomer - count (enumerate)  
 fa nomi - manage (organize)  
 fa note - notify  
 fa nove - renew (make new, renovate)  
-fa nomer - count (enumerate)  
 fa okei - accept (say okay)  
 fa oko - eye (look, watch, observe, spectate)  
 fa onor - respect (honor, think highly of)  
@@ -1146,9 +1159,8 @@ fikir - think (ponder, reflect)
 fikir - thought (idea)  
 fiksa - fix (attach)  
 fikse - attachment (affix)  
-fila - like  
-filer - fan (-phile)  
-filia - attraction (-philia)  
+fili - attraction (fascination, -philia)  
+fili ja - fan (-phile)  
 Filipinas - Philippines  
 Filistin - Palestinian Territory  
 filme - film (membrane, video)  
@@ -1176,10 +1188,9 @@ fleche - arrow (bolt)
 flecher - fletcher  
 flerovium - flerovium  
 flur - fluorine  
-fa fobi - scare (frighten)  
-fobi ja - scary (frightening)  
-fobi di - afraid (scared)  
 fobi - fear (phobia)  
+fobi di - afraid (scared)  
+fobi ja - scary (frightening)  
 Fobos - Phobos  
 fobu - fear (be afraid)  
 fokus - focus (concentration)  
@@ -1188,6 +1199,7 @@ foli - mad (insane, crazy)
 folia - madness (insanity)  
 fon - phone (speech sound)  
 fon so - phoneme  
+fon zi - letter (character, written symbol)  
 fona - pronounce (articulate)  
 fong - bee or wasp  
 fong nide - bee nest (beehive, wasp's nest)  
@@ -1307,11 +1319,11 @@ gati - hard (tough)
 gatomate - solid  
 gatomati - rigid (solid)  
 gau - top  
+gau tehni - high technology (hi-tech)  
 gaudarji - advanced (high-level)  
 gaudarju - level up (graduate)  
 gautali - vertical  
 gautalu - bob up and down  
-gautehnia - high technology (hi-tech)  
 gava - raise (lift)  
 gavi - high (tall)  
 gavi tanur - blast furnace  
@@ -1482,8 +1494,6 @@ harabu mahala - slum
 harama - forbid (ban, disallow)  
 harami - forbidden (illicit, haram, taboo)  
 haramliste - blacklist  
-fon zi - letter (character, written symbol)  
-zi sili - alphabet  
 harmoni - harmonious  
 harmonia - harmony  
 harnes - harness  
@@ -1551,19 +1561,16 @@ historia - history (study of history)
 hiyar - cucumber  
 Ho chi Min site - Ho Chi Minh City (Saigon)  
 hobi - hobby  
-hobi ja - amateur  
-hobi ja - hobbyist  
-hoga - burn (cause to burn)  
-hoge - fire (burning)  
-hoge sanduku - lantern  
-hogi - fiery  
-hogopujia - pyrolatry  
-hogoshan - volcano  
-hogoshani kancha - volcanic glass  
-hogosheke - flint  
-hogotehne - fireworks (pyrotechnics)  
-hogu - burn (be burned)  
-hoke - hockey  
+hobi ja - hobbyist (amateur)  
+hogo - fire (burning)  
+hogo di - fiery  
+hogo puja - pyrolatry  
+hogo sanduku - lantern  
+hogo shan - volcano  
+hogo shan kanchi - volcanic glass  
+hogo sheki - flint  
+hogo tehni - fireworks (pyrotechnics)  
+hoki - hockey  
 holgraf - hologram  
 holi - whole (entire)  
 holia - wholeness (integrity)  
@@ -1871,7 +1878,6 @@ karbe - carbon (coal)
 karbodulokside - carbon dioxide  
 karbosui - carbohydrate (saccharide)  
 karchof - globe artichoke  
-karte - card  
 kardon - thistle  
 kardonkarchof - artichoke thistle (cardoon)  
 karer - worker  
@@ -1895,6 +1901,7 @@ karote - carrot
 karshuler - apprentice  
 karsi - rough (coarse)  
 karsolimon - makrut lime (kaffir lime)  
+karte - card  
 Kartvel - Georgia (Republic of Georgia)  
 karvan - caravan (convoy)  
 kas - event (case, instance)  
@@ -2150,7 +2157,6 @@ laji bagi - dump (junk yard)
 laji tong - garbage can (trash bin)  
 laka - lacquer (varnish)  
 lal - red  
-rubi - ruby  
 lal lince - bobcat  
 lal oranje - mandarin orange (tangerine)  
 lal salmon - sockeye salmon  
@@ -2304,13 +2310,14 @@ lutetium - lutetium
 ma - mother (mom, mama)  
 ma ma - maternal grandmother  
 ma pa - maternal grandfather  
+Madagasi - Madagascar  
+madagasi di - Malagasy  
 maf - pardon (forgiveness; sorry)  
-fa maf - forgive (pardon)  
-magi asar - spell (enchantment)  
-magi ja - magician (sorcerer)  
 magesium - magnesium  
 magi - magical  
 magi - magic  
+magi asar - spell (enchantment)  
+magi ja - magician (sorcerer)  
 Magribe desha - Morocco  
 Magyar - Hungary  
 mahala - quarter (neighbourhood, district, locality, section of town)  
@@ -2325,42 +2332,37 @@ makan hua - dandelion
 makas - scissors (shears)  
 Makau - Macao  
 mal - property (belongings, possessions)  
-fa mal - own (possess, have)  
-madagaskar di - Malagasy  
-Madagaskar - Madagascar  
-Malaisia - Malaysia  
 mal ja - owner (proprietor)  
+mal nomi - economics  
+Malaisia - Malaysia  
 malaria - malaria  
 Malavi - Malawi  
 malayali - Malayali (Malayalam)  
 malayu - Malay  
 Mali - Mali  
-mal nomi - economics  
 Malta - Malta  
-be mal - belong  
 Malvinas nesia - Falkland Islands (Malvinas)  
-titi - breast (boob, tit)  
 mamal - mammal  
 man - male  
+man ben - son  
 man raja - king  
 mana - meaning (signification)  
 manete - magnet  
 manete di - magnetic  
-mangan - manganese  
 mang - busy (occupied)  
+mangan - manganese  
 mango - mango  
 mangus - mangosteen  
-man ben - son  
 Mani - prophet Mani  
 mani din - Manichaeism  
 Manin nes - Isle of Man  
+manioka - cassava (manioc)  
 manira - behavior (manners)  
 manira - behave (act)  
 mantol - cape (cloak, mantle)  
 mantra - chant  
 mantra - mantra  
 mantu - steamed bun (mantou, manti)  
-manioka - cassava (manioc)  
 mar - time (instance, occasion)  
 marati - Marathi  
 maraton - marathon  
@@ -2369,12 +2371,11 @@ margai - margay
 margarin - margarine  
 margarita - daisy  
 Marian nesia - Northern Mariana Islands  
-fa marke - mark (leave a mark)  
 marke - mark (trace)  
 Marse - Mars  
 Marshal nesia - Marshall Islands  
 mas - more  
-e mas - also (too)  
+mas darja - increment  
 mas di - additional  
 mas di fen - majority  
 mas fili - prefer (favor)  
@@ -2383,20 +2384,20 @@ mas fili jui - favoritism
 mas forte ta - reinforcements  
 mas ka basa - too much  
 masa - mass (quantity of matter)  
+masa mula - tuber (bulb)  
+masa mula sol hua - Jerusalem artichoke (sunroot)  
 masaje - knead (massage)  
 masaje - massage  
-masala tika - tikka masala  
 masala - spice (seasoning)  
-mas darja - increment  
-bon mas she - bonus  
+masala tika - tikka masala  
 masim - most (maximally)  
 masim - maximum  
 masim di - maximal  
 maska - mask (camouflage)  
-masa mula - tuber (bulb)  
-masa mula sol hua - Jerusalem artichoke (sunroot)  
 masta - mast  
 mata - death  
+mata badan - corpse (dead body)  
+mata badan fili - necrophilia  
 mata di - dead (deceased)  
 mata ja - killer  
 mate - matter (substance)  
@@ -2411,19 +2412,17 @@ maya - Maya
 Mayote - Mayotte  
 maze - sock (stocking)  
 me poze - rank (position in an ordered list)  
-fa meche - compete (have a match)  
 meche - match (contest)  
 medal - medallion (medal)  
 meden - field (square, plaza, maidan)  
-meden fobi - agoraphobia  
 meden di - open (wide, spacious)  
+meden fobi - agoraphobia  
 meden papil - corn poppy  
 medi - middle (the part in between)  
 medi - medium (intermediate, mean)  
 medi face - interface  
 medi gi - instrument (means)  
 medi she - medium (media)  
-pa medi - among (amid, between)  
 medu - honey  
 medu fong - honeybee  
 medu fong nide - beehive (honeycomb)  
@@ -2436,20 +2435,18 @@ Mehiko citi - Mexico City
 melodi - melodious (melodic)  
 melodi - melody  
 melon - muskmelon  
-mem - memory (recollection)  
-fa mem - remember (recall)  
-si membre - belong (be a member)  
 membre - member (component)  
-mem bina - monument (memorial)  
 meme - sheep  
-meme kesh - wool (fleece)  
-mem note - memorandum (memo)  
+meme kesha - wool (fleece)  
+memo - memory (recollection)  
+memo bina - monument (memorial)  
+memo note - memorandum (memo)  
+memo tehni - mnemotechny  
 men - one (you, they, impersonal pronoun)  
-mien - noodle  
 meninge - meninx (meninges)  
 meninge flame - meningitis  
 mentor - advisor (counselor, mentor)  
-merante - lauan tree (meranti, balau)  
+meranti - lauan tree (meranti, balau)  
 Merkur - Mercury  
 mes bato - August  
 mes chatre - April  
@@ -2468,7 +2465,6 @@ mesi di - messianic
 mesi din - Christianity  
 mesi din ja - Christian  
 mesi jene - Christmas  
-fa mestre - master (be an expert at sth)  
 mestre - master (expert)  
 metal - metal  
 metal bede - anvil  
@@ -2477,7 +2473,6 @@ metal lin - wire
 metre - measure (measurement)  
 metre gi - meter (measuring device)  
 metre grafi - chart (map, graph, blueprint)  
-topo metre grafi - map (chart, geographic map)  
 metre grafi shutu - cartography  
 metre unta - unit (measurement)  
 meza - table  
@@ -2485,6 +2480,7 @@ meza tela - tablecloth
 meza topo - plateau (tableland)  
 mi - I (me)  
 mi su - my  
+mien - noodle  
 migra - migration (moving)  
 mikro bio - microorganism (microbe)  
 mikro bio logi - microbiology  
@@ -2502,8 +2498,8 @@ mimen - we
 mimen su - our  
 min - less  
 min di fen - minority  
-min poli - less (fewer)  
 min ka basa - too little  
+min poli - less (fewer)  
 minare - tower  
 ming - bright (brilliant, clear)  
 minim - least (minimally)  
@@ -2697,6 +2693,7 @@ noche mode - night mode
 node - knot (node)  
 Noe - Noah  
 Noe di nave - Noah’s arc  
+nomer - number  
 nomi - management (arrangement, -nomy)  
 nong - cultivate (farm)  
 nong bio logi - agrobiology  
@@ -2743,7 +2740,6 @@ nu - well (now; used to introduce a statement)
 nude - naked (bare, nude)  
 nude jui - nudism  
 nude jui ja - nudist  
-nomer - number  
 ####O - O  
 o - or  
 Oberon - Oberon  
@@ -2801,6 +2797,7 @@ pa de ma - paternal grandmother
 pa de pa - paternal grandfather  
 pa ke - where  
 pa lin - online  
+pa medi - among (amid, between)  
 pa niche - under  
 pa no lin - offline  
 pa nove - just (recently)  
@@ -3197,6 +3194,7 @@ roza - rose
 roza rang - pink (rosy)  
 roza salmon - pink salmon  
 Ruanda - Rwanda  
+rubi - ruby  
 rubidium - rubidium  
 ruhu - soul (mind, psyche)  
 ruhu di - mental (psychic)  
@@ -3437,6 +3435,7 @@ shutu - skill (art, craft)
 shutu tabi - skillful (crafty)  
 si - be  
 si ja - being (entity)  
+si membre - belong (be a member)  
 Sibiria - Siberia  
 siborgium - seaborgium  
 side - sit down  
@@ -3624,10 +3623,10 @@ tatike - tactics (strategy)
 tatu - tattoo  
 tava - frying pan  
 taza - fresh  
-tehne - technique (technology)  
-tehne krati - technocracy  
-tehne logi - technology (study of techniques)  
 tehnetium - technetium  
+tehni - technique (technology)  
+tehni krati - technocracy  
+tehni logi - technology (study of techniques)  
 tela - cloth (fabric, textile)  
 tela gi - loom  
 tele - distance (far away)  
@@ -3681,6 +3680,7 @@ tisa - nine (9)
 Titan - Titan  
 Titania - Titania  
 titanium - titanium  
+titi - breast (boob, tit)  
 tochu - touch  
 tochu sense - feel (sense by touch)  
 Togo - Togo  
@@ -3695,6 +3695,7 @@ tong - barrel (can, cask)
 Tonga - Tonga  
 topo - region  
 topo grafi - topography  
+topo metre grafi - map (chart, geographic map)  
 torium - thorium  
 torso - trunk (torso)  
 tortuga - turtle (tortoise)  
@@ -3972,6 +3973,7 @@ zeta - zetta-
 zeyil - wart  
 zeze - fly  
 zi - character (written symbol)  
+zi sili - alphabet  
 zigzage - zigzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  
@@ -3992,7 +3994,7 @@ zong minte - spearmint
 zou - animal  
 zou agro shutu - animal husbandry  
 zou bagi - zoo (zoological garden)  
-zou filia - zoophily  
+zou fili - zoophily  
 zou geo grafi - zoogeography  
 zou kata - fable  
 zou logi - zoology  

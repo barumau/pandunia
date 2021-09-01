@@ -92,7 +92,6 @@ alum - alumin mate
 alumina (aluminum oxide) - alumin okside  
 aluminium - alumin  
 always - pan sata  
-amateur - hobi ja  
 amaze - fa ajibu  
 amazing (astonishing) - ajibu di  
 ambassador - dayanjiler  
@@ -225,7 +224,7 @@ attachment (affix) - fikse
 attack (assault) - agresa  
 attack (assault, aggression, hostility) - agres  
 attain (accomplish, indicates the current position) - leu  
-attraction (-philia) - filia  
+attraction (fascination, -philia) - fili  
 attribute (charasteristic, quality, feature, description, property) - sifa  
 attributive postposition - di  
 August - mes bato  
@@ -493,8 +492,8 @@ bulletproof - dane sekur
 burden (load, encumber) -   
 burden (load, weight) - bari  
 Burkina Faso - Burkina Faso  
-burn (be burned) - hogu  
-burn (cause to burn) - hoga  
+burn (be burned) - be hogo  
+burn (cause to burn) - fa hogo  
 burst (pop) - parche kai  
 Burundi - Rundi  
 bus - bus  
@@ -814,6 +813,7 @@ corn poppy - meden papil
 corner (angle) - gona  
 cornflower - blu centaure  
 corona virus - koronvirus  
+corpse (dead body) - mata badan  
 correct (make right) - fa sahi  
 corrupt (pollute, soil, defile, stain, taint) - fa najis  
 corruption (filth, pollution, contamination, najis) - najis  
@@ -1243,7 +1243,7 @@ fall - pade
 fallen - pade di  
 false (fake) - falsi  
 family - famil  
-fan (-phile) - filer  
+fan (-phile) - fili ja  
 fan (ventilator) - panka  
 fantastic (imaginary) - fantazi  
 fantasy (imagination) - fantaze  
@@ -1289,7 +1289,7 @@ fertilize - frute cana
 fertilizer - frute cana ja  
 fibre - lin so  
 field (square, plaza, maidan) - meden  
-fiery - hogi  
+fiery - hogo di  
 fiever - febre  
 fight (war, battle, combat) - jeng  
 figure (representation) - figur  
@@ -1310,8 +1310,8 @@ finite (limited) - limiti
 Finland - Suomi  
 Finnish language - suomi basha  
 fir tree - abies  
-fire (burning) - hoge  
-fireworks (pyrotechnics) - hogotehne  
+fire (burning) - hogo  
+fireworks (pyrotechnics) - hogo tehni  
 first (number one) - un me  
 fish - peshe  
 fish tank - peshe tanke  
@@ -1329,7 +1329,7 @@ flatbread (chapati, roti) - chapati
 flerovium - flerovium  
 fletcher - flecher  
 flight - fei  
-flint - hogosheke  
+flint - hogo sheki  
 float (buoy, bobber) - boi  
 float (swim) - boyu  
 floor - kamartal  
@@ -1628,7 +1628,7 @@ hexagon - luku gona
 hexahedron (cube) - luku face  
 hide (conceal) - fa sir  
 high (tall) - gavi  
-high technology (hi-tech) - gautehnia  
+high technology (hi-tech) - gau tehni  
 Himalayas - Himalia  
 Hindi (Hindustani) - Hindu basha  
 Hindu - Hindu  
@@ -1644,8 +1644,8 @@ history (study of history) - historia
 hmm - hem  
 Ho Chi Minh City (Saigon) - Ho chi Min site  
 hobby - hobi  
-hobbyist - hobi ja  
-hockey - hoke  
+hobbyist (amateur) - hobi ja  
+hockey - hoki  
 hoe - chope  
 hold (detain) - fa estaci  
 hold together - jamhafiza  
@@ -1916,7 +1916,7 @@ Lagos - Lagos
 lake - lage  
 lama - lama  
 lamp - lampa  
-lantern - hoge sanduku  
+lantern - hogo sanduku  
 lanthanum - lantanium  
 Lao (Laotian) - lavi  
 Laos - Lau  
@@ -1931,7 +1931,7 @@ Latin alphabet - Latin zi
 latitude - vei darje  
 latitudinal (horizontal) - vei  
 Latvia - Latvia  
-lauan tree (meranti, balau) - merante  
+lauan tree (meranti, balau) - meranti  
 laugh - haha  
 lava - yong petra  
 law - kanun  
@@ -1990,7 +1990,7 @@ light (weightless) - legi
 light blue (sky blue, azure) - sama blu  
 lightning bolt - eletrorade  
 like (enjoy, be fond of) - be suka  
-like - fila  
+like - fa fili  
 lilac - lila  
 lilac color - lila rang  
 lily - susan  
@@ -2068,7 +2068,7 @@ lynx - lince
 Macao - Makau  
 machine (device, aparatus) - gi  
 mad (insane, crazy) - foli  
-Madagascar - Madagaskar  
+Madagascar - Madagasi  
 madness (insanity) - folia  
 magazine (journal, gazette) - gazeta  
 magenta (fuchsia) - majenta  
@@ -2088,7 +2088,7 @@ make a mistake - galta
 make sense - be razon  
 maker (manufacturer) - cana ja  
 makrut lime (kaffir lime) - karsolimon  
-Malagasy - madagaskar di  
+Malagasy - madagasi di  
 malaria - malaria  
 Malawi - Malavi  
 Malay - malayu  
@@ -2184,8 +2184,8 @@ melodious (melodic) - melodi
 melody - melodi  
 melt - yong  
 member (component) - membre  
-memorandum (memo) - mem note  
-memory (recollection) - mem  
+memorandum (memo) - memo note  
+memory (recollection) - memo  
 meningitis - meninge flame  
 meninx (meninges) - meninge  
 mental (psychic) - ruhu di  
@@ -2245,6 +2245,7 @@ mistake (error, fault, blunder, bug) - galte
 misunderstand - galto buda  
 mix (blend) - mishe  
 mixer (blender) - mishe gi  
+mnemotechny - memo tehni  
 model (design) - fa model  
 model (design) - model  
 model (simulation) - sam sifa she  
@@ -2272,7 +2273,7 @@ monotheism - un deu jui
 monster - monoster  
 Montenegro - Chernagora  
 month - lun  
-monument (memorial) - mem bina  
+monument (memorial) - memo bina  
 mood (emotional state) - emoshal  
 moon - luna  
 mooncake - luna keke  
@@ -2356,6 +2357,7 @@ Nazism - naci jui
 near (close) - karibi  
 nearly (closely, almost) - karibo  
 necessary (needed) - yau di  
+necrophilia - mata badan fili  
 need (lack, require) - yau  
 need (shortage, lack, requirement) - yauta  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
@@ -2886,7 +2888,7 @@ put (place, set) - fa loka
 put back (postpone) - pos poza  
 put forward (advance, progress) - jina  
 pyramid - piram  
-pyrolatry - hogopujia  
+pyrolatry - hogo puja  
 Qatar - Katar  
 qualify (describe) - fa sifa  
 quark (paneer) - panir  
@@ -2960,7 +2962,7 @@ religion (worship) - din
 religious - din di  
 reluctant - an icha ja  
 remain (stay) - be reste  
-remember (recall) - fa mem  
+remember (recall) - fa memo  
 remove (delete, dispose, erase) - fa no zai  
 remove (take away) - kitana  
 renew (make new, renovate) - fa nove  
@@ -3541,9 +3543,9 @@ tear drop - oko sui
 tear gas - oko sui gas  
 tear up (tatter, shred) - chirchira  
 technetium - tehnetium  
-technique (technology) - tehne  
-technocracy - tehne krati  
-technology (study of techniques) - tehne logi  
+technique (technology) - tehni  
+technocracy - tehni krati  
+technology (study of techniques) - tehni logi  
 tectonic plate - geo kaske plate  
 telephone - tele fon gi  
 telephone line - tele fon lin  
@@ -3841,8 +3843,8 @@ visitor (guest) - kegu ja
 visual field (field of vision) - vide meden  
 vocabulary (lexicon) - loga jami  
 void (empty space) - hali  
-volcanic glass - hogoshani kancha  
-volcano - hogoshan  
+volcanic glass - hogo shan kanchi  
+volcano - hogo shan  
 volt (V) - volte  
 voodoo - vodun  
 vote (ballot) - vote  
@@ -3949,7 +3951,7 @@ wonder (be amazed) - be ajibu
 wonder (be interested in, would like to know) - be sabi vol  
 wood (timber) - muku mate  
 wood board (plank) - muku ban  
-wool (fleece) - meme kesh  
+wool (fleece) - meme kesha  
 word (lexeme) - loga so  
 work (labour, job) - gung  
 work - kara  
@@ -4010,7 +4012,7 @@ zoo (zoological garden) - zou bagi
 zoogeography - zou geo grafi  
 zoological - zou logi di  
 zoology - zou logi  
-zoophily - zou filia  
+zoophily - zou fili  
 zootoxin - zou toksi  
 Zoroaster - Zardush  
 Zoroastrian - Zardush din ja  

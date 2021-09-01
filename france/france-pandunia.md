@@ -260,7 +260,7 @@ brigand (bandit) - luta ja
 brique - dobe  
 brochette - shish  
 brun (marron) - brun  
-brûler - hoga  
+brûler - fa hogo  
 buisson - tal moku  
 but (destination) - gol  
 bâton (canne, tige) - baton  
@@ -272,6 +272,7 @@ bûche - muku tana
 cacher - fa sir  
 cachet de la poste - posta marke  
 cactus - katus  
+cadavre (corps) - mata badan  
 cadre - frem  
 cafetière - kafe pote  
 café - kafe  
@@ -577,8 +578,8 @@ favoritisme - mas fili jui
 fente (fissure, fêlure) - krake  
 fenêtre - janel  
 fermenter - be bio mute  
-feu - hoge  
-feu d’artifice - hogotehne  
+feu - hogo  
+feu d’artifice - hogo tehni  
 fiable (de confiance, fidèle, sûr, crédible) - amen shin di  
 fibre - lin so  
 fil de fer - metal lin  
@@ -668,7 +669,7 @@ habiller (vêtir) - fuka
 haine - hen  
 hameçon - peshe huke  
 haut - gau  
-hautes technologies - gautehnia  
+hautes technologies - gau tehni  
 Haïti - Haiti  
 hein? - he  
 Hesse - Hesia  
@@ -679,7 +680,7 @@ Hindustan - Hindu desh
 hippopotame  - gubu  
 hiver - leng mosim  
 hivernal (hibernal) - lengomosimi  
-hockey - hoke  
+hockey - hoki  
 hockey sur glace - ais hoki  
 honneur - onor  
 honnête (sûr, crédible, sûrement) - amen  
@@ -763,7 +764,7 @@ Kâmasûtra - kama kanon
 l'un l'autre - se kon  
 lac - lage  
 laid (vilain) - dusvidi  
-laine - meme kesh  
+laine - meme kesha  
 laisser - lasha  
 lait - milke  
 lait de soja - soi milke  
@@ -917,7 +918,7 @@ mètre - mitre
 médicament (remède) - dava she  
 méduse - haijel  
 méfait (péché) - duskar  
-mémoire - mem  
+mémoire - memo  
 méninge - meninge  
 métaux lourds - bari metal  
 métier à tisser - tela gi  
@@ -954,6 +955,7 @@ Noé - Noe
 nuage - megi  
 nylon - nilon  
 nécessaire - yau di  
+nécrophilie - mata badan fili  
 néologisme - nove loga  
 néophyte - nove ka  
 ####O - O  
@@ -1273,7 +1275,7 @@ se baigner - banya
 se mouvoir - kinu  
 se passer - duru  
 se plaire - be suka  
-se rappeler (se remémorer) - fa mem  
+se rappeler (se remémorer) - fa memo  
 seau - baldi  
 secouer - roke  
 secte - din shia  
@@ -1293,7 +1295,7 @@ Shiva - Shiva
 shopping - shopi  
 si - ga  
 signer - name kitabu  
-silex - hogosheke  
+silex - hogo sheki  
 simulation - sam sifa she  
 situation (état de choses) - she hal  
 six (6) - luku  
@@ -1337,8 +1339,8 @@ tarte - pai
 tasse à thé - chai kupa  
 taupe - krote  
 taximètre - taksi metre gi  
-technique - tehne  
-technologie - tehne logi  
+technique - tehni  
+technologie - tehni logi  
 tectonique des plaques - plate geo kaske logi  
 temple - puja kan  
 temps - zaman  
@@ -1456,7 +1458,7 @@ voile - hijabu
 voir - vide  
 voire (même) - hata  
 vol - fei  
-volcan - hogoshan  
+volcan - hogo shan  
 voler - feyu  
 votre - tumen su  
 vouloir - vol  

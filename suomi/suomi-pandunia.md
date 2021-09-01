@@ -86,7 +86,6 @@ alttari - puja meza
 alue (seutu) - area  
 alue (seutu) - istan  
 alumiini - alumin  
-amatööri - hobi ja  
 amerikium - amerikium  
 Amerikka - Amerika  
 amerikkalainen - Amerika di  
@@ -339,7 +338,7 @@ elokuvateatteri - kino grafi kan
 eläin - zou  
 eläinmaantiede - zou geo grafi  
 eläinmyrkky (zootoksiini) - zou toksi  
-eläinrakkaus - zou filia  
+eläinrakkaus - zou fili  
 eläinsatu - zou kata  
 eläintarha - zou bagi  
 eläintiede (zoologia) - zou logi  
@@ -426,7 +425,7 @@ evankeliumi(hyvä sana) - evanjil
 eväsretki (piknik) - eshyam  
 ####F - F  
 Falklandin saaret - Malvinas nesia  
-fani (-fiili) - filer  
+fani (-fiili) - fili ja  
 farmakologia - dava she logi  
 fasismi - fashistia  
 fasisti - fashiste  
@@ -537,7 +536,7 @@ harjoitus - lenshe
 harmaa - huirang  
 harmonia - harmonia  
 harmoninen - harmoni  
-harrastaja - hobi ja  
+harrastaja (amatööri) - hobi ja  
 harrastus - hobi  
 harso - gaze  
 harvinainen - nadir  
@@ -621,7 +620,7 @@ hius (hiukset) - sar kesha
 hius (karva, tukka, hiukset) - kesha  
 hiuspanta - kesha bande  
 hmm - hem  
-hockey (jääkiekko) - hoke  
+hockey (jääkiekko) - hoki  
 hoitaa (lääkitä) - dava  
 holmium - holmium  
 hologrammi - holgraf  
@@ -1219,7 +1218,7 @@ korjata - shuli
 korjaus - shuli  
 korkata - an tapa  
 korkea - gavi  
-korkea teknologia - gautehnia  
+korkea teknologia - gau tehni  
 korkeatasoinen (edistynyt) - gaudarji  
 korkeus - gavia  
 korkittaa (tukkia) - fa tapa  
@@ -1292,6 +1291,7 @@ kuokka - chope
 kuolema (kuolo) - mata  
 kuolla - be mata  
 kuollut (vainaa) - mata di  
+kuollut ruumis - mata badan  
 kuoppa (kolo) - kave  
 kuori (suojakuori) - kaske  
 kuorma (lasti, taakka, paino) - bari  
@@ -1555,7 +1555,7 @@ luu - oste
 luvata (vannoa) - fa vode  
 Luxemburg - Luksemburge  
 lyhentää - korte fa  
-lyhty - hoge sanduku  
+lyhty - hogo sanduku  
 lyhyt - korte  
 lyijy - plumbe  
 lymfa - limfa  
@@ -1613,7 +1613,8 @@ maataloudellinen (agraari-) - nong di
 maatalousbiologia - nong bio logi  
 maavoimat - geo gun  
 Macao - Makau  
-Madagaskar - Madagaskar  
+Madagaskar - Madagasi  
+madagaskarilainen (malagassi) - madagasi di  
 magneetti - manete  
 magneettinen - manete di  
 magnesium - magesium  
@@ -1636,7 +1637,6 @@ maksimi (enimmäismäärä) - masim
 maksu - pei  
 maku - guste  
 makuuhuone - sona kamar  
-malagassi - madagaskar di  
 malaiji - malayu  
 malajalam (eräs intialainen kieli) - malayali  
 malaria - malaria  
@@ -1786,10 +1786,11 @@ Mosambik - Mozambike
 Moskova - Moskva  
 moskovium - moskovium  
 muinainen Egypti - Kemia  
-muistaa - fa mem  
-muisti - mem  
+muistaa - fa memo  
+muisti - memo  
 muistikirja - note buku  
-muistio (muistiinmerkintä) - mem note  
+muistio (muistiinmerkintä) - memo note  
+muistitekniikka - memo tehni  
 mukaan lukien - inkluso  
 mukava (kiva, miellyttävä) - hushi  
 mukulakivi - cirke sheki  
@@ -1874,6 +1875,7 @@ nauta (lehmä) - mumu
 nauttia (syödä, juoda) - yam  
 neitseellinen (koskematon) - virje di  
 neitsyt - virje  
+nekrofilia - mata badan fili  
 neli (kiitolaukka) - chatre di galope  
 neliö - chatre gona  
 neljä (4) - chatre  
@@ -2071,7 +2073,7 @@ pakko - deve ta
 paksu - gros  
 paksuus - grosta  
 pala - tika  
-palaa - hogu  
+palaa - be hogo  
 palanen (murunen, riekale, sirpale) - parche  
 palata - be retro  
 palatsi - dai dom  
@@ -2179,7 +2181,7 @@ pihdit - pince gi
 pihka (hartsi) - rezin  
 pihta (jalokuusi) - abies  
 pii - silicium  
-piikivi - hogosheke  
+piikivi - hogo sheki  
 piikki (pistin, neula) - pin  
 piippu - pipe  
 piirakka (piiras) - pai  
@@ -2265,7 +2267,7 @@ poljin (pedaali) - pedal
 polku (reitti, kurssi) - rute  
 polkupyörä - pedal cikle  
 polonium - polonium  
-polttaa - hoga  
+polttaa - fa hogo  
 polvi - gute  
 polyteismi (monijumalisuus) - poli deu jui  
 pommi - bomba  
@@ -2949,9 +2951,9 @@ tekijä (aikaansaaja) - ja
 tekijä (aikaansaaja) - karma ja  
 tekijä (toimija) - fa ja  
 tekijä (valmistaja) - cana ja  
-tekniikka (keino, menetelmä) - tehne  
-tekniikka (teknologia) - tehne logi  
-teknokratia - tehne krati  
+tekniikka (keino, menetelmä) - tehni  
+tekniikka (teknologia) - tehni logi  
+teknokratia - tehni krati  
 teko (toiminta, akti) - karma  
 teko - fate  
 tekstin muotoilu - kitabu forma  
@@ -3045,8 +3047,8 @@ tuhat (kilo-) - kili
 tuhka - hui  
 tulehdus - flame  
 tulevaisuus - pos zaman  
-tuli - hoge  
-tulinen - hogi  
+tuli - hogo  
+tulinen - hogo di  
 tulkata (kääntää) - tarjum  
 tulkki (kääntäjä) - tarjum ja  
 tulla (saapua) - lai  
@@ -3096,8 +3098,8 @@ tyhmyys (typeryys) - idiotia
 tyhmä (hölmö) - idioti  
 tykki - dai pau  
 tykkimies - dai pau ja  
-tykkääminen - filia  
-tykätä (pitää) - fila  
+tykkääminen - fili  
+tykätä (pitää) - fa fili  
 tylsyys (pitkästys) - bori  
 tynnyri (tölkki) - tong  
 typerys (idiootti) - idiote  

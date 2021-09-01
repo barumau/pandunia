@@ -138,6 +138,7 @@ baze bol - бейсбол
 baze shula kan - семилетка  
 be bio mute - заквасить  
 be bum - взрываться  
+be mal - принадлежать  
 be migra - переезжать  
 be pute - гнить (портиться)  
 be retro - возвращаться  
@@ -226,13 +227,13 @@ chira - рвать
 chirchira - изорвать  
 chirchiri - изорванный  
 chize - сыр  
-coi - зелень  
 choklate - шоколад  
 chope - мотыга  
 chun - деревня (село)  
 cian - циан  
 cikle ja - велосипедист  
 cirke sheki - булыжник  
+coi - зелень  
 ####D - D  
 dai dom - дворец (особняк)  
 dai hai - океан  
@@ -347,11 +348,14 @@ fa - делать
 fa bina - строить  
 fa dante - откусить  
 fa dika - целиться  
+fa fobi - страшить  
 fa forma - формировать  
+fa hogo - жечь (палить)  
 fa jene - родить  
 fa kancha dake - глазуровать  
 fa linke - соединить (подключить)  
 fa loka - ставить  
+fa memo - помнить  
 fa min rai - недооценить  
 fa mol - молоть  
 fa nomi - организовать  
@@ -399,7 +403,6 @@ fito logi - ботаника
 fito yam jui ja - вегетарианец  
 flame - воспаление  
 fleche - стрела (стрелка)  
-fa fobi - страшить  
 fobu - бояться (страшиться)  
 fora - сверлить (бурить)  
 foto - свет  
@@ -435,7 +438,7 @@ garma mosim - лето
 garma zona - тропик  
 gas - газ  
 gati - твёрдый  
-gautehnia - высокие технологии  
+gau tehni - высокие технологии  
 gazel - газель  
 gazeta - газета  
 gemer - игрок (геймер)  
@@ -500,7 +503,6 @@ hande - рука
 handoshake - рукав  
 hapi - подходящий (годный)  
 harabu mahala - трущоба  
-zi sili - алфавит  
 Hartum - Хартум  
 hata - до  
 hatar - опасность  
@@ -521,12 +523,11 @@ hisabolojia - математика
 hisabu loge - счёт  
 hiyar - огурец  
 hobi ja - любитель  
-hoga - жечь (палить)  
-hoge - огонь  
-hogoshan - вулкан  
-hogosheke - кремень  
-hogotehne - фейерверк  
-hoke - хоккей  
+hogo - огонь  
+hogo shan - вулкан  
+hogo sheki - кремень  
+hogo tehni - фейерверк  
+hoki - хоккей  
 hor - час  
 horloger - часы  
 hotel - гостиница (отель)  
@@ -635,7 +636,6 @@ karate ka - каратист (каратэка)
 karbodulokside - двуокись углерода  
 karbosui - углевод  
 karchof - артишок посевной  
-karte - карта  
 kardon - расторопша  
 kardonkarchof - артишок испанский (кардон)  
 karer - работник  
@@ -646,6 +646,7 @@ karma loga - глагол
 karote - морковь  
 karsi - грубой  
 karsolimon - лима (каффир-лайм)  
+karte - карта  
 kaske - оболочка (кора, панцирь)  
 katane - меч  
 katoglutoban - буфер обмена  
@@ -728,7 +729,6 @@ laji - мусор (дрянь)
 laji bagi - свалка  
 laji tong - мусорный бак  
 lal - красный  
-rubi - рубин  
 lal lince - рыжая рысь  
 lal oranje - мандарин  
 lal salmon - нерка (красница)  
@@ -801,7 +801,6 @@ majang - маджонг
 majenta - маджента (фуксия)  
 makan hua - одуванчик  
 mal nomi - экономика  
-be mal - принадлежать  
 man raja - король  
 mang - занятый  
 mani din - манихейство  
@@ -818,12 +817,14 @@ mas fili di - любимый
 mas fili jui - фаворитизм (кумовство)  
 mas forte ta - пополнение  
 masa - масса  
+masa mula - клубень  
+masa mula sol hua - топинамбу́р  
 masala - пряность  
 masim - максимум  
 maska - маска  
-masa mula - клубень  
-masa mula sol hua - топинамбу́р  
 masta - мачта  
+mata badan - труп (мёртвое тело)  
+mata badan fili - некрофилия  
 mate - материя  
 matur - взрослый  
 mau - кошка  
@@ -838,14 +839,13 @@ medu - мёд
 medu fong nide - улей (соты)  
 megi - облако  
 melon - дыня  
-mem - память  
-fa mem - помнить  
-mem note - меморандум  
+memo - память  
+memo note - меморандум  
+meranti - шорея  
 Merkur - Меркурий  
 mestre - мастер  
 metal bede - наковальня  
 metre grafi - карта (график, схема)  
-topo metre grafi - карта (план)  
 metre grafi shutu - картография  
 meza - стол  
 meza tela - скатерть  
@@ -915,6 +915,7 @@ nish - ниша
 no - нет (не)  
 noche - ночь  
 Noe di nave - Ноев ковчег  
+nomer - число  
 nomi - организация  
 nong - выращивать  
 nong bio logi - агробиология  
@@ -930,7 +931,6 @@ nove ka - новичок
 nove loga - неологизм  
 nove ta - новизна  
 nu - ну  
-nomer - число  
 ####O - O  
 o - или  
 ocelote - оцелот  
@@ -1090,6 +1090,7 @@ rota lefte - против часовой стрелки
 rota van gi - волчок  
 roza - роза  
 roza salmon - горбуша  
+rubi - рубин  
 ruhu - душа (дух)  
 ruhu mishe - озадачить  
 ruhu mishe di - растерянный (озадаченный)  
@@ -1252,8 +1253,8 @@ tarjum she - перевод
 tasa - блюдо (таз)  
 tatu - татуировка (тату)  
 taza - свежий  
-tehne - техника  
-tehne logi - технология  
+tehni - техника  
+tehni logi - технология  
 tela - ткань  
 tela gi - ткацкий станок  
 tele fon gi - телефон  
@@ -1280,6 +1281,7 @@ tochu - касаться
 toksi logi - токсикология  
 tomate - помидор (томат)  
 topo grafi - топография  
+topo metre grafi - карта (план)  
 trati - договор  
 trator - волочить  
 trator gi - трактор  
@@ -1384,6 +1386,7 @@ zebra - зебра
 zeyil - бородавка  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
+zi sili - алфавит  
 Zimbabue - Зимбабве  
 zinji - имбирь  
 zinke - цинк  

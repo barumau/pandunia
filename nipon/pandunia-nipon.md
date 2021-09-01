@@ -98,6 +98,7 @@ baze shula kan - 小学校
 be ais - 凍る (凍結する)  
 be bio mute - 熟成する (発酵する)  
 be bum - 爆発する  
+be hogo - 燃える  
 be pute - 腐敗  
 be sabi vol - 訝る (-かしら)  
 be tele loka - 瞬間移動  
@@ -181,7 +182,6 @@ chira - 裂く
 chirchira - 千切る  
 chirchiri - ぼろぼろ  
 chize - チーズ  
-coi - 菜  
 choklate - チョコレート  
 choklatobaton - チョコバー  
 chope - クワ  
@@ -190,6 +190,7 @@ chuzable - オプション (選択)
 cian - シアン  
 cikle ja - チャリダー  
 cirke sheki - 丸石 (玉石, 栗石)  
+coi - 菜  
 ####D - D  
 dai dom - 宮殿 (邸宅)  
 dai hai - 大洋 (大海)  
@@ -291,11 +292,13 @@ fa an galta - デバッグする
 fa bina - 建てる  
 fa dante - 咬む  
 fa dika - 狙う  
+fa hogo - 燃やす  
 fa jene - 生む  
 fa linke - 繋ぐ  
+fa memo - 思い出す  
 fa najis - 汚す  
-fa nomi - 組織する  
 fa nomer - 数える  
+fa nomi - 組織する  
 fa pede - おならをする  
 fa politi - 治める (司る)  
 fa poze - 植える  
@@ -378,8 +381,8 @@ garma zona - 熱帯
 garma zona cau istan - サバンナ  
 gati - 硬い  
 gatomate - 固体  
+gau tehni - ハイテク  
 gautalu - 浮き沈みする  
-gautehnia - ハイテク  
 gavi - 高い  
 gazel - ガゼル  
 geo - 地  
@@ -458,13 +461,11 @@ hisabolojia - 数学
 hisabu loge - 口座  
 hiyar - キュウリ  
 hobi ja - アマチュア  
-hoga - 燃やす  
-hoge - 火  
-hogoshan - 火山  
-hogosheke - 火打ち石 (フリント)  
-hogotehne - 花火  
-hogu - 燃える  
-hoke - ホッケー  
+hogo - 火  
+hogo shan - 火山  
+hogo sheki - 火打ち石 (フリント)  
+hogo tehni - 花火  
+hoki - ホッケー  
 hor - 時 (１時間)  
 horloger - 時計  
 hotel - ホテル (旅館)  
@@ -565,7 +566,6 @@ karate - 空手
 karate ka - 空手家  
 karbosui - 炭水化物  
 karchof - アーティチョーク  
-karte - カルタ  
 kardon - アザミ  
 kardonkarchof - カルドン  
 karer - 労働者  
@@ -576,6 +576,7 @@ karmisa - 提出
 karote - ニンジン  
 karsi - 荒い  
 karsolimon - コブミカン (スワンギ, プルット)  
+karte - カルタ  
 kaske - 殻 (皮)  
 katane - 刀 (剣)  
 katoglutoban - クリップボード  
@@ -657,7 +658,6 @@ laji - ゴミ (廃棄物)
 laji bagi - ゴミ捨て場  
 laji tong - ごみ箱  
 lal - 赤い  
-rubi - ルビー  
 lal lince - ボブキャット  
 lal oranje - ポンカン (マンダリン)  
 lal salmon - ベニザケ  
@@ -738,10 +738,12 @@ margai - マーゲイ
 mas fili di - 好き (お気に入りの)  
 mas forte ta - 増派 (援兵)  
 masa - 質量  
-masala - 香辛料  
-maska - 仮面 (マスク)  
 masa mula - 芋 (塊茎)  
 masa mula sol hua - キクイモ  
+masala - 香辛料  
+maska - 仮面 (マスク)  
+mata badan - 死体  
+mata badan fili - 屍姦 (死体性愛)  
 mate - 物質  
 matur - 大人  
 matur fem - 女の人  
@@ -758,10 +760,8 @@ medu fong sanduku - 養蜂箱
 mega - １００万 (メガ)  
 megi - 雲  
 melon - マスクメロン  
-mem - 記憶  
-fa mem - 思い出す  
-mem bina - 追悼塔 (碑)  
-mien - ヌードル  
+memo - 記憶  
+memo bina - 追悼塔 (碑)  
 mes bato - ８月  
 mes chatre - ４月  
 mes des - １０月  
@@ -784,6 +784,7 @@ meza tela - テーブル掛け
 meza topo - 台地 (高地)  
 mi - 私  
 mi su - 私の  
+mien - ヌードル  
 mikro bio - 微生物  
 mikro bio logi - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
@@ -982,6 +983,7 @@ rota lefte - 左回り (反時計回り)
 rota van gi - 独楽  
 roza - バラ  
 roza salmon - カラフトマス  
+rubi - ルビー  
 ruhu mishe - 惑わす  
 ruhu mishe di - まごまご  
 ruke sake - リュックサック  
@@ -1119,7 +1121,7 @@ tal moku - 灌木 (藪)
 tal tela - 絨毯 (カーペット)  
 tana - 茎 (胴)  
 tasa - 皿  
-tehne - 技術  
+tehni - 技術  
 tela - 布  
 tela gi - 織機  
 tele fon gi - 電話  

@@ -346,7 +346,7 @@
 |**figur**|representación (figura)|eng:fra:figure, spa:por:figura|
 |**fikir**|idea (pensamiento, reflexión)|ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr),  fas:(fekr)|
 |**fiksa**|fijar (pegar, asegurar)|eng:fix, fra:fixer, spa:fijar, por:fixar|
-|**filer**|fan (-filo)|eng:fra:-phile, por:spa:-filo|
+|**fili**|attracción (-filia)|eng:-philia, fra:-philie, spa:por:-filia, rus:-филия (-filiya), tur:-fili|
 |**filme**|película (film, membrana)|eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem, swa:filamu|
 |**filter**|filtro|eng:filter, spa:por:filtro, fra:tur:filtre, rus:фильтр (filʹtr), hin:फ़िल्टर (filṭar), ben:ফিল্টার (philṭar), jpn:フィルター (firutā)|
 |**fin**|fin (el final)|eng:finish, fra:spa:fin, por:fim|
@@ -490,8 +490,8 @@
 |**historia**|historia (estudio de sucesos del pasado)|eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)|
 |**hiyar**|pepino|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hobi**|pasatiempo (hobby, afición)|eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|
-|**hoge**|fuego|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
-|**hoke**|hockey|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
+|**hogo**|fuego|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
+|**hoki**|hockey|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
 |**holi**|entero (todo)|eng:whole, spa:por:holo-|
 |**holire**|cólera|eng:cholera, spa:por:cólera, fra:choléra, rus:холера (holera), tur:kolera, ara:كُولِيرَا‎ (kōlīrā), hin:कॉलरा (kŏlrā), zho:虎列拉 (hǔlièlā), jpn:コレラ (korera)|
 |**hor**|hora|fra:heure, eng:hour, spa:por:hora|
@@ -824,9 +824,9 @@
 |**megi**|nube|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek) + ara: غَيْمَة‎ (ḡayma) + vie:mây|
 |**melodi**|melodía|eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|
 |**melon**|melón|eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)|
-|**mem**|memoria|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**membre**|miembro (componente)|eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|
-|**meme**|oveja|hin:मेष (meṣ), fas:(miš), tha:เมษ (met), + lin:kon:meme, jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
+|**meme**|oveja|lin:kon:meme + hin:मेष (meṣ), fas:(miš), tha:เมษ (met) + jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
+|**memo**|memoria|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**meninge**|meninge|eng:meninx, spa:por:meninge, fra:méninge|
 |**mentor**|consejero (asesor)|san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|
 |**mesi**|Cristo (mesías)|eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, tur:Mesih|
@@ -1269,7 +1269,7 @@
 |**tatu**|tatuaje|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
 |**tava**|sartén|hin:तवा (tavā), tur:tava, fas:(tābe)|
 |**taza**|fresco|tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|
-|**tehne**|técnica|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
+|**tehni**|técnica|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |**tela gi**|telar|rus:ткать (tkat’) + may:duk + tur:doku|
 |**tela**|tela (paño, tejido)|spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala|
 |**tele**|lo lejos|eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|

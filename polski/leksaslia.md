@@ -340,7 +340,7 @@
 |**figur**|figura, reprezentacja|eng:fra:figure, spa:por:figura|
 |**fikir**|myśl, pomysł|ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr),  fas:(fekr)|
 |**fiksa**|przyczepić, przymocować|eng:fix, fra:fixer, spa:fijar, por:fixar|
-|**filer**|miłośnik (fan, -fil)|eng:fra:-phile, por:spa:-filo|
+|**fili**|zamiłowanie (-filia)|eng:-philia, fra:-philie, spa:por:-filia, rus:-филия (-filiya), tur:-fili|
 |**filme**|film|eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem, swa:filamu|
 |**filter**|filtr|eng:filter, spa:por:filtro, fra:tur:filtre, rus:фильтр (filʹtr), hin:फ़िल्टर (filṭar), ben:ফিল্টার (philṭar), jpn:フィルター (firutā)|
 |**fin**|koniec|eng:finish, fra:spa:fin, por:fim|
@@ -484,8 +484,8 @@
 |**historia**|historia, badanie historii|eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)|
 |**hiyar**|ogórek|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hobi**|hobby|eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|
-|**hoge**|ogień|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
-|**hoke**|hokej|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
+|**hogo**|ogień|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
+|**hoki**|hokej|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|
 |**holi**|cały|eng:whole, spa:por:holo-|
 |**holire**|cholera|eng:cholera, spa:por:cólera, fra:choléra, rus:холера (holera), tur:kolera, ara:كُولِيرَا‎ (kōlīrā), hin:कॉलरा (kŏlrā), zho:虎列拉 (hǔlièlā), jpn:コレラ (korera)|
 |**hor**|godzina|fra:heure, eng:hour, spa:por:hora|
@@ -814,12 +814,12 @@
 |**megi**|chmura|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek) + ara: غَيْمَة‎ (ḡayma) + vie:mây|
 |**melodi**|melodia|eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|
 |**melon**|ogórek melon|eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)|
-|**mem**|pamięć|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**membre**|członek|eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|
-|**meme**|owca|hin:मेष (meṣ), fas:(miš), tha:เมษ (met), + lin:kon:meme, jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
+|**meme**|owca|lin:kon:meme + hin:मेष (meṣ), fas:(miš), tha:เมษ (met) + jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
+|**memo**|pamięć|eng:memory, fra:mémoire, spa:memoria, por:memória|
 |**meninge**|opona mózgowa|eng:meninx, spa:por:meninge, fra:méninge|
 |**mentor**|doradca (mentor)|san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|
-|**merante**|damarzyk (meranti)|may:eng:por:meranti|
+|**meranti**|damarzyk (meranti)|may:eng:por:meranti|
 |**mesi**|Chrystus, mesjasz|eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, tur:Mesih|
 |**mestre**|mistrz (ekspert)|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |**metal**|metal|eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|
@@ -1250,7 +1250,7 @@
 |**tatu**|tatuaż|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
 |**tava**|patelnia|hin:तवा (tavā), tur:tava, fas:(tābe)|
 |**taza**|świeży|tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|
-|**tehne**|technika, technologia|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
+|**tehni**|technika, technologia|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |**tela gi**|krosno|rus:ткать (tkat’) + may:duk + tur:doku|
 |**tela**|tkanina (materiał, sukno)|spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala|
 |**tele**|dystans|eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|

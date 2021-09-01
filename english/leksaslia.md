@@ -357,7 +357,7 @@
 |**figur**|figure (representation)|English:French:figure, Spanish:Portuguese:figura|
 |**fikir**|thought (idea)|Arabic:(fikr), Malay:pikir, Swahili:fikiri, Turkish:fikir, Hindi:(fikr),  Persian:(fekr)|
 |**fiksa**|fix (attach)|English:fix, French:fixer, Spanish:fijar, Portuguese:fixar|
-|**filer**|fan (-phile)|English:French:-phile, Portuguese:Spanish:-filo|
+|**fili**|attraction (fascination, -philia)|English:-philia, French:-philie, Spanish:Portuguese:-filia, Russian:-филия (-filiya), Turkish:-fili|
 |**filme**|film (membrane, video)|English:Spanish:French:film, Portuguese:filme, deu:Film, Russian:фильм (fil’m), Turkish:film, Arabic:فيلم (film), Japanese:フィルム (firumu), Malay:pilem, Swahili:filamu|
 |**filter**|filter|English:filter, Spanish:Portuguese:filtro, French:Turkish:filtre, Russian:фильтр (filʹtr), Hindi:फ़िल्टर (filṭar), Bengali:ফিল্টার (philṭar), Japanese:フィルター (firutā)|
 |**fin**|end (ending)|English:finish, French:Spanish:fin, Portuguese:fim|
@@ -504,8 +504,8 @@
 |**historia**|history (study of history)|English:history, Spanish:Swahili:historia, Portuguese:história, French:histoire, Russian:история (istoriya)|
 |**hiyar**|cucumber|Persian:خیار (xiyâr), Turkish:hıyar, Arabic:خيار‎ (khiyār), Hindi:खीरा (khīrā), Bengali:ক্ষীরা (kṣīrā)|
 |**hobi**|hobby|English:Spanish:Portuguese:deu:French:hobby, Russian:хобби (hobbi)|
-|**hoge**|fire (burning)|Spanish:fuego, Portuguese:fogo + Russian:огонь (ogon’), Hindi:आग (āg), Bengali:অগ্নি (ôgni), pan:ਅੱਗ (ag) + Mandarin:火 (huǒ), Cantonese:火 (fo2), Wu-Chinese:火 (hu2), Korean:화 (hwa), Vietnamese:hoả|
-|**hoke**|hockey|English:French:Spanish:hockey, Portuguese:hóquei, Russian:хоккей (hokkey),  Japanese:ホッケー (hokkē), Hindi:हाकी (hākī), Bengali:হকি (hôki), Arabic:(hūkī), Swahili:hoki|
+|**hogo**|fire (burning)|Spanish:fuego, Portuguese:fogo + Russian:огонь (ogon’), Hindi:आग (āg), Bengali:অগ্নি (ôgni), pan:ਅੱਗ (ag) + Mandarin:火 (huǒ), Cantonese:火 (fo2), Wu-Chinese:火 (hu2), Korean:화 (hwa), Vietnamese:hoả|
+|**hoki**|hockey|English:French:Spanish:hockey, Portuguese:hóquei, Russian:хоккей (hokkey),  Japanese:ホッケー (hokkē), Hindi:हाकी (hākī), Bengali:হকি (hôki), Arabic:(hūkī), Swahili:hoki|
 |**holi**|whole (entire)|English:whole, Spanish:Portuguese:holo-|
 |**holire**|cholera|English:cholera, Spanish:Portuguese:cólera, French:choléra, Russian:холера (holera), Turkish:kolera, Arabic:كُولِيرَا‎ (kōlīrā), Hindi:कॉलरा (kŏlrā), Mandarin:虎列拉 (hǔlièlā), Japanese:コレラ (korera)|
 |**hor**|hour|French:heure, English:hour, Spanish:Portuguese:hora|
@@ -851,13 +851,13 @@
 |**megi**|cloud|Hindi:मेघ (megh), Bengali:মেঘ (megh), Tamil:மேகம் (mēgam), Telugu:మేఘము (mēghamu), Malay:mega, Thai:เมฆ (mek) + Arabic: غَيْمَة‎ (ḡayma) + Vietnamese:mây|
 |**melodi**|melody|English:melody, Spanish:melodía, Portuguese:melodia, Russian:мело́дия (melódija), Turkish:Malay:melodi, Persian:ملودی‎ (melodi), Japanese:メロディー (merodī)|
 |**melon**|muskmelon|English:French:melon, Spanish:melón, Portuguese:melão, Japanese:メロン (meron), Korean:멜론 (mellon)|
-|**mem**|memory (recollection)|English:memory, French:mémoire, Spanish:memoria, Portuguese:memória|
 |**membre**|member (component)|English:member, Spanish:miembro, Portuguese:membro, French:membre, Japanese:メンバー (menbā)|
-|**meme**|sheep|Hindi:मेष (meṣ), Persian:(miš), Thai:เมษ (met), + Lingala:Kongo:meme, Japanese:メーメー (mē mē), Portuguese:meh, Arabic:(maa'), Turkish:mee|
+|**meme**|sheep|Lingala:Kongo:meme + Hindi:मेष (meṣ), Persian:(miš), Thai:เมษ (met) + Japanese:メーメー (mē mē), Portuguese:meh, Arabic:(maa'), Turkish:mee|
+|**memo**|memory (recollection)|English:memory, French:mémoire, Spanish:memoria, Portuguese:memória|
 |**men**|one (you, they, impersonal pronoun)|Mandarin:们 (men), Cantonese:們 (mun4) + deu:man + English:one|
 |**meninge**|meninx (meninges)|English:meninx, Spanish:Portuguese:meninge, French:méninge|
 |**mentor**|advisor (counselor, mentor)|Sanskrit:मन्त्रिन् (mantrin), Hindi:मंत्री (mantrī), Thai:มนตรี (mon-tri), Malay:menteri, English:deu:French:Portuguese:Spanish:mentor, Japanese:メンター (mentā), Korean:멘토 (mento), Russian:ментор (mentor)|
-|**merante**|lauan tree (meranti, balau)|Malay:English:Portuguese:meranti|
+|**meranti**|lauan tree (meranti, balau)|Malay:English:Portuguese:meranti|
 |**mesi**|Christ (messiah)|English:messiah, French:messie, Spanish:mesías, Portuguese:messias, Russian:мессия (messiya), Arabic: مَسِيح‎ (masīḥ), Hindi:मसीह (masīh), Bengali:মসিহ (môśih), Malay:al-Masih, Turkish:Mesih|
 |**mestre**|master (expert)|Portuguese:mestre, French:maître, Polish:mistrz, English:master, Russian:мастер (master), Spanish:maestro, deu:Meister, Hindi:(mistrī)|
 |**metal**|metal|English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)|
@@ -1308,7 +1308,7 @@
 |**tatu**|tattoo|sam:tah:tatau, haw:kākau, Malay:tato, English:tattoo, French:tatouage, Spanish:tatuaje, Russian:тату (tatu)|
 |**tava**|frying pan|Hindi:तवा (tavā), Turkish:tava, Persian:(tābe)|
 |**taza**|fresh|Turkish:taze, Hindi:ताज़ा (tāzā), Bengali:তাজা (taja), Persian:(tâze)|
-|**tehne**|technique (technology)|Greek:τεχνική (tehniki), Russian:техника (tehnika), French:English:technique, Spanish:Portuguese:técnica, Hindi:तकनीक (taknīk), Malay:teknik|
+|**tehni**|technique (technology)|Greek:τεχνική (tehniki), Russian:техника (tehnika), French:English:technique, Spanish:Portuguese:técnica, Hindi:तकनीक (taknīk), Malay:teknik|
 |**tela gi**|loom|Russian:ткать (tkat’) + Malay:duk + Turkish:doku|
 |**tela**|cloth (fabric, textile)|Spanish:Portuguese:Filipino:tela, French:toile + English:towel, Hindi:तौलिया (tauliyā), Swahili:taulo, Japanese:タオル (taoru), Malay:tuala|
 |**tele**|distance (far away)|English:Spanish:Portuguese:Malay:tele-, French:télé-, Russian:теле- (tele-)|

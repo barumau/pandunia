@@ -7,7 +7,7 @@
 | espanya | 837 | 57% |
 | portugal | 791 | 54% |
 | france | 783 | 53% |
-| rus | 674 | 46% |
+| rus | 675 | 46% |
 | hindi | 575 | 39% |
 | nipon | 500 | 34% |
 | malayu | 431 | 29% |

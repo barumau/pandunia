@@ -124,6 +124,7 @@ baze bol - basebol (beisebol)
 baze shula kan - ensino primário  
 be ais - gelar  
 be bio mute - fermentar  
+be hogo - queimarse  
 be migra - mudar-se  
 be pute - apodrecer-se  
 be retro - voltar (regressar)  
@@ -203,7 +204,6 @@ chir - rasgar
 chira - rasgar  
 chirchiri - esfarrapado  
 chize - queijo  
-coi - verdura  
 choklate - chocolate  
 choklatobaton - barra de chocolate  
 chope - enxada  
@@ -211,6 +211,7 @@ chun - aldeia (vila)
 chuzable - opção  
 cikle ja - ciclista  
 citi - cidade  
+coi - verdura  
 ####D - D  
 dai dom - palácio (mansão, palacete)  
 dai hai - oceano  
@@ -308,10 +309,14 @@ fa asar - efetuar
 fa bina - construir  
 fa dante - morder  
 fa dika - mirar (apontar)  
+fa fobi - assustar  
 fa forma - modelar  
+fa hogo - queimar  
 fa linke - relier (connecter)  
 fa loka - colocar (pôr)  
+fa maf - perdoar (desculpar)  
 fa mata - matar  
+fa memo - lembrar-se (recordar-se)  
 fa min rai - menosprezar (subestimar)  
 fa mol - moer  
 fa nomi - organizar  
@@ -356,7 +361,6 @@ fito logi - botânica
 fito yam jui ja - vegetariano  
 flame - inflamaçao  
 fleche - flecha (seta)  
-fa fobi - assustar  
 fobi ja - assustador  
 fobu - temer  
 fong - abelha ou vespa  
@@ -473,13 +477,11 @@ hisabolojia - matemática
 hisabu loge - conta  
 hiyar - pepino  
 hobi ja - amador  
-hoga - queimar  
-hoge - fogo  
-hogoshan - vulcão  
-hogosheke - pederneira  
-hogotehne - fogos de artifício  
-hogu - queimarse  
-hoke - hóquei  
+hogo - fogo  
+hogo shan - vulcão  
+hogo sheki - pederneira  
+hogo tehni - fogos de artifício  
+hoki - hóquei  
 hor - hora  
 horloger - relógio  
 hotel - hotel  
@@ -583,7 +585,6 @@ karate - caratê
 karavi - alcaravia (cariz)  
 karbodulokside - dióxido de carbono  
 karchof - alcachofra  
-karte - carta  
 kardon - cardo  
 karer - trabalhador  
 karimia - generosidade  
@@ -594,6 +595,7 @@ karma loga - verbo
 karote - cenoura  
 karsi - áspero  
 karsolimon - combava  
+karte - carta  
 kaske - casca (concha)  
 katane - espada  
 katoglutoban - área de transferência  
@@ -672,7 +674,6 @@ laji - lixo (refugo , escória)
 laji bagi - aterro (lixão)  
 laji tong - lixeira  
 lal - vermelho  
-rubi - rubi  
 lal oranje - tangerina (mandarim)  
 lal salmon - salmão-vermelho  
 lama - lama  
@@ -742,14 +743,12 @@ Luter din - luteranismo
 Luter din ja - luterano  
 ####M - M  
 ma - mãe  
-fa maf - perdoar (desculpar)  
 magesium - magnésio  
 Magribe desha - Marrocos  
 mahala - quarteirão  
 majang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
 mal nomi - economia  
-titi - seio (mama)  
 man raja - rei  
 mang - ocupado (atarefado)  
 mani din - maniqueísmo  
@@ -767,12 +766,14 @@ mas fili - preferir
 mas fili di - favorito (preferido)  
 mas fili jui - favoritismo  
 masa - massa  
+masa mula - tubérculo  
+masa mula sol hua - alcachofra-girassol (tupinambo)  
 masala - tempero  
 masim - máximo  
 maska - máscara  
-masa mula - tubérculo  
-masa mula sol hua - alcachofra-girassol (tupinambo)  
 masta - mastro  
+mata badan - cadáver  
+mata badan fili - necrofilia  
 mate - matéria  
 mau - gato  
 maze - meia  
@@ -785,16 +786,14 @@ medi gi - meio (instrumento)
 medu - mel  
 megi - nuvem  
 melon - melão  
-mem - memória  
-fa mem - lembrar-se (recordar-se)  
+memo - memória  
 meninge - meninge  
-merante - meranti  
+meranti - meranti  
 Merkur - Mercúrio  
 mestre - mestre  
 metal bede - bigorna  
 metal lin - arame  
 metre grafi - carta  
-topo metre grafi - carta geográfica  
 metre grafi shutu - cartografia  
 meza - mesa  
 meza tela - toalha de mesa  
@@ -857,6 +856,7 @@ nobi - não-binário
 noche - noite  
 Noe - Noé  
 Noe di nave - arca de Noé  
+nomer - número  
 nong - cultivar  
 nong bio logi - agrobiologia  
 nong di - agrícola  
@@ -870,7 +870,6 @@ nove jene di - recém-nascido
 nove ka - novato (neófito)  
 nove loga - neologismo  
 nove ta - novidade  
-nomer - número  
 ####O - O  
 o - ou  
 ocelote - jaguatirica (ocelote)  
@@ -1017,6 +1016,7 @@ Roma - Roma
 roma kamil - camomila-romana  
 roza - rosa  
 roza salmon - salmão-rosa  
+rubi - rubi  
 ruhu mishe di - perplexo (confuso)  
 ####S - S  
 sabi - saber (conhecer)  
@@ -1154,7 +1154,7 @@ tail - ladrilho (telha, azulejo)
 taksi metre gi - taxímetro  
 tal moku - arbusto (mata)  
 tana - haste (talo, caule)  
-tehne - técnica  
+tehni - técnica  
 tela - fazenda (tecido)  
 tela gi - tear  
 tele fon shutu - telefonia  
@@ -1165,9 +1165,11 @@ terca - oblíquo (torto)
 teste - teste  
 tikete - bilhete  
 tisa - nove (9)  
+titi - seio (mama)  
 toksi logi - toxicologia  
 tomate - tomate  
 topo grafi - topografia  
+topo metre grafi - carta geográfica  
 trati - acordo (tratado, contrato)  
 trator - arrastar  
 trator gi - trator  

@@ -382,8 +382,8 @@
 |**historia**|historio (studo de historio)|angla:history, hispana:svahila:historia, portugala:história, franca:histoire, rusa:история (istoriya)|
 |**hiyar**|kukumo|persa:خیار (xiyâr), turka:hıyar, araba:خيار‎ (khiyār), hindia:खीरा (khīrā), bengala:ক্ষীরা (kṣīrā)|
 |**hobi**|hobio|angla:hispana:portugala:deu:franca:hobby, rusa:хобби (hobbi)|
-|**hoge**|fajro|hispana:fuego, portugala:fogo + rusa:огонь (ogon’), hindia:आग (āg), bengala:অগ্নি (ôgni), pan:ਅੱਗ (ag) + mandarena:火 (huǒ), kantona:火 (fo2), vua:火 (hu2), korea:화 (hwa), vjetnama:hoả|
-|**hoke**|hokeo|angla:franca:hispana:hockey, portugala:hóquei, rusa:хоккей (hokkey),  japana:ホッケー (hokkē), hindia:हाकी (hākī), bengala:হকি (hôki), araba:(hūkī), svahila:hoki|
+|**hogo**|fajro|hispana:fuego, portugala:fogo + rusa:огонь (ogon’), hindia:आग (āg), bengala:অগ্নি (ôgni), pan:ਅੱਗ (ag) + mandarena:火 (huǒ), kantona:火 (fo2), vua:火 (hu2), korea:화 (hwa), vjetnama:hoả|
+|**hoki**|hokeo|angla:franca:hispana:hockey, portugala:hóquei, rusa:хоккей (hokkey),  japana:ホッケー (hokkē), hindia:हाकी (hākī), bengala:হকি (hôki), araba:(hūkī), svahila:hoki|
 |**hor**|horo|franca:heure, angla:hour, hispana:portugala:hora|
 |**horloger**|horloĝo|lat:horologium, franca:horloge, itala:orologio, hispana:reloj, portugala:relógio, malaja:arloji|
 |**hormon**|hormono|angla:franca:hormone, hispana:hormona, rusa:гормон (gormon), turka:malaja:hormon, araba:هُرْمُون‎ (hurmūn), hindia:हॉर्मोन (hŏrmon), mandarena:荷尔蒙 (hé'ěrméng), japana:ホルモン (horumon)|
@@ -582,10 +582,11 @@
 |**mega**|miliono|angla:franca:hispana:portugala:malaja:turka:mega-, rusa:мега- (mega-), japana:メガ (mega), korea:메가- (mega-)|
 |**megi**|nubo|hindia:मेघ (megh), bengala:মেঘ (megh), tamila:மேகம் (mēgam), teluga:మేఘము (mēghamu), malaja:mega, taja:เมฆ (mek) + araba: غَيْمَة‎ (ḡayma) + vjetnama:mây|
 |**melodi**|melodio|angla:melody, hispana:melodía, portugala:melodia, rusa:мело́дия (melódija), turka:malaja:melodi, persa:ملودی‎ (melodi), japana:メロディー (merodī)|
-|**mem**|memoro|angla:memory, franca:mémoire, hispana:memoria, portugala:memória|
 |**membre**|membro|angla:member, hispana:miembro, portugala:membro, franca:membre, japana:メンバー (menbā)|
-|**meme**|ŝafo|hindia:मेष (meṣ), persa:(miš), taja:เมษ (met), + lingala:konga:meme, japana:メーメー (mē mē), portugala:meh, araba:(maa'), turka:mee|
+|**meme**|ŝafo|lingala:konga:meme + hindia:मेष (meṣ), persa:(miš), taja:เมษ (met) + japana:メーメー (mē mē), portugala:meh, araba:(maa'), turka:mee|
+|**memo**|memoro|angla:memory, franca:mémoire, hispana:memoria, portugala:memória|
 |**men**|oni|mandarena:们 (men), kantona:們 (mun4) + deu:man + angla:one|
+|**meranti**|ŝoreo|malaja:angla:portugala:meranti|
 |**mesi**|kristo|angla:messiah, franca:messie, hispana:mesías, portugala:messias, rusa:мессия (messiya), araba: مَسِيح‎ (masīḥ), hindia:मसीह (masīh), bengala:মসিহ (môśih), malaja:al-Masih, turka:Mesih|
 |**metal**|metalo|angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)|
 |**metre**|mezuri|angla:meter, hispana:portugala:-metro, rusa:метр turka:metre, + hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra|
@@ -845,7 +846,7 @@
 |**tatu**|tatuo|sam:tah:tatau, haw:kākau, malaja:tato, angla:tattoo, franca:tatouage, hispana:tatuaje, rusa:тату (tatu)|
 |**tava**|pato|hindia:तवा (tavā), turka:tava, persa:(tābe)|
 |**taza**|freŝa|turka:taze, hindia:ताज़ा (tāzā), bengala:তাজা (taja), persa:(tâze)|
-|**tehne**|tekniko|greka:τεχνική (tehniki), rusa:техника (tehnika), franca:angla:technique, hispana:portugala:técnica, hindia:तकनीक (taknīk), malaja:teknik|
+|**tehni**|tekniko|greka:τεχνική (tehniki), rusa:техника (tehnika), franca:angla:technique, hispana:portugala:técnica, hindia:तकनीक (taknīk), malaja:teknik|
 |**tele**|malproksimeco|angla:hispana:portugala:malaja:tele-, franca:télé-, rusa:теле- (tele-)|
 |**tema**|temo|franca: thème, hispana: tema, rusa: тема (tema), deu:Thema + mandarena:题目 (tímù)|
 |**teori**|teorio|angla:theory, hispana:teoría, portugala:teoria, franca:téorie, rusa:теория (teoriya), persa:تئوری‎ (teori), malaja:teori|

@@ -176,6 +176,7 @@ búzio - kauri
 cabelo - sar kesha  
 cabeça - sar  
 cacto - katus  
+cadáver - mata badan  
 cafeteira - kafe pote  
 café - kafe  
 café - kafe kan  
@@ -489,8 +490,8 @@ fisiculturismo - muskul bina
 flecha (seta) - fleche  
 flor - hua  
 floresta de algas - alga jangal  
-fogo - hoge  
-fogos de artifício - hogotehne  
+fogo - hogo  
+fogos de artifício - hogo tehni  
 fome - yam yau  
 força aérea - air gun  
 foto (fotografia) - foto grafe  
@@ -566,7 +567,7 @@ humano - insaniki
 humor - emoshal  
 hélicoptero - helisviman  
 héroi - hero  
-hóquei - hoke  
+hóquei - hoki  
 hóquei no gelo - ais hoki  
 ####I - I  
 idade - sen  
@@ -639,7 +640,7 @@ lasanha - lazanya
 lateral - lati  
 leite - milke  
 leite de soja - soi milke  
-lembrar-se (recordar-se) - fa mem  
+lembrar-se (recordar-se) - fa memo  
 lente - lense  
 lento - lenti  
 ler - duga  
@@ -725,11 +726,11 @@ melancia - arbuza
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
 melão coreano - aroma melon  
-memória - mem  
+memória - memo  
 meninge - meninge  
 menosprezar (subestimar) - fa min rai  
 mensagem - anjil  
-meranti - merante  
+meranti - meranti  
 mercado (bazar) - bazar  
 Mercúrio - Merkur  
 merda - shite  
@@ -789,6 +790,7 @@ nave espacial - kosmo nave
 nação - nasi  
 necessidade - yauta  
 necessário - yau di  
+necrofilia - mata badan fili  
 neologismo - nove loga  
 Netuno - Neputun  
 neurotoxina - nerve toksi  
@@ -886,7 +888,7 @@ patologia - pati logi
 patógeno - pati jene she  
 pausa - pauza  
 paz - pace  
-pederneira - hogosheke  
+pederneira - hogo sheki  
 pedir emprestado - jekogeta  
 pedra - sheki  
 pedra preciosa (gema) - bau sheke  
@@ -983,8 +985,8 @@ quatro (4) - chatre
 que (como) - ka  
 queijo - chize  
 queijo fresco - panir  
-queimar - hoga  
-queimarse - hogu  
+queimar - fa hogo  
+queimarse - be hogo  
 queixa (lamento, reclamação) - shikaya  
 quem - ke jan  
 querer (desejar) - vol  
@@ -1186,7 +1188,7 @@ tubarão - sharke
 tubérculo - masa mula  
 turbante - pagri  
 tábua (prancha) - muku ban  
-técnica - tehne  
+técnica - tehni  
 título - tema name  
 ####U - U  
 uau - va  
@@ -1246,7 +1248,7 @@ voo - fei
 vosso - tumen su  
 votar - fa vote  
 voto - vote  
-vulcão - hogoshan  
+vulcão - hogo shan  
 vulva - vulva  
 vários - vari  
 Vénus - Venus  
