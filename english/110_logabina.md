@@ -2,8 +2,6 @@
 
 New words can be built freely in Pandunia!
 Pandunia has a productive system of word derivation.
-Most of the suffixes that are used in Pandunia are already in international use.
-Many of them come from ancient Greek, Latin, Arabic and Persian.
 
 ## How to combine words
 
@@ -15,10 +13,10 @@ and the words that come before it only modify its meaning.
 (the people) +
 **krati**
 (rule) =
-**demokrati**
+**demo krati**
 (democracy).
 
-**andemokratili**
+**an demo krati di**
 (undemocratic)
 
 **termo**
@@ -26,8 +24,8 @@ and the words that come before it only modify its meaning.
 **metre**
 (measurement) +
 **gi**
-(tool) =
-**termometregi**
+(device) =
+**termo metre gi**
 (thermometer).
 
 
@@ -46,6 +44,22 @@ Creates verbs that reverse the meaning of the base verb.
 **antapa**
 (to unplug, to open the plug).
 
+
+#### di
+
+**di**
+denotes someone or something that is characterized by the base word.
+
+**dom**
+– home  
+**dom di**
+– domestic  
+**oranje rang**
+orange color
+→ **oranje rang di**
+orange-colored
+
+
 #### ja
 
 Creates agent nouns.
@@ -53,106 +67,81 @@ It denotes a person who does or causes the action.
 
 **yam**
 (to eat) →
-**yamja**
+**yam ja**
 (one who eats, eater)  
-**shul**
+**shula**
 (to learn) →
-**shulja**
+**shula ja**
 (one who learns, learner)  
 **karate**
 (karate) →
-**karateja**
+**karate ja**
 (one who does karate, karateka)
 
 **loga**
 (to speak) →
-**logaja**
+**loga ja**
 (speaker, the one who speaks)  
 **filsofi**
 (to think deeply) →
-**filsofija**
+**filsofi ja**
 (philosopher)  
 **mata**
 (death) →
-**mataja**
+**mata ja**
 (killer)
 
 The derivative can be also more loosely associated with the root.
 
-**sapate**
+**sapatu**
 (shoe) →
-**sapateja**
+**sapatu ja**
 (shoemaker)  
 **muskete**
 (musket) →
-**musketeja**
+**muskete ja**
 (musketeer)  
 **kasa**
 (cash box) →
-**kasaja**
+**kasa ja**
 (cashier)
+
+
+#### gi
+
+Indicates a device, machine, or tool that is used for the action.
+
+**fei**
+(fly) →
+**fei gi**
+(flying machine, aircraft)  
+**foto grafi**
+(photograph) →
+**foto grafi gi**
+(camera)  
+**pince**
+(pinch) →
+**pince gi**
+(pliers)
+
 
 #### ta
 
-Creates abstract nouns.
+Creates abstract nouns representing a quality or state.
 
 **nove**
 (new) →
-**noveta**
+**nove ta**
 (newness, novelty)  
 **huru**
 (free) →
-**huruta**
+**huru ta**
 (freedom)  
 **un**
 (one)
-**unta**
+**un ta**
 (oneness, unity)
 
-#### ya
-
-Creates aggregate nouns.
-It denotes a group of elements named by the root as a whole.
-
-**insan** human being; **insania** humanity, mankind, all the human beings as a group.  
-**kristi** Christian, **kristia** Christianity, all Christians as a group.  
-**filsof** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
-
-This ending is often found in place names, especially in country
-names. However this use is not systematic and it's not required. There
-are also a lot of country names that do not end in **-ia**.
-
-**arabi** Arab, Arabic; **Arabia** Arabia  
-**rusi** Russian; **Rusia** Russia  
-**turki** Turk, Turkish; **Turkia** Turkey  
-**Asia** Asia  
-**Indonesia** Indonesia  
-**Italia** Italy
-
-
-When it is added after -er, it means a field of expertise.
-
-**enjener** engineering  
-**sapateria** shoemaking  
-
-
-#### -ik-
-
-**-ik-**
-denotes someone or something that is predominantly characterized by the base word.
-
-**uni**
-one
-→ **uniki**
-only, sole, single  
-**dome**
-– home  
-**domiki**
-– domestic  
-**nevi**
-new
-→ **nevike**
-novice, newbie
 
 #### bil
 
@@ -163,27 +152,46 @@ Indicates possibility. It is often used with the agent suffix **ja**.
 
 **vide**
 (to see) →
-**videbil**
+**vide bil**
 (which can be seen, visible)  
-**videbilja**
+**vide bil ja**
 (who/which can see)
 
-#### -ist-
+
+#### jama
+
+Creates aggregate nouns.
+It denotes a group or set of elements.
+
+**nesia jama** archipelago  
+**loga jama** vocabulary  
+
+
+#### shuta
+
+A field of expertise, or a set of techniques for using or making something.
+
+**enjener shuta** engineering  
+**sapatu shuta** shoemaking  
+
+
+#### jui
+
+Denotes an ideology or a way of thinking or living. It is often used with the agent suffix **ja**.
 
 This suffix that denotes a person who tends to behave or think in a
 certain way or to follow a certain ideology or religion.
 
 **deu** god  
-**deviste** theist (one who believes in existence of a god or gods)  
-**devisti** theistic  
-**devistia** theism (system of belief in a god or gods)
+**deu jui** theism (system of belief in a god or gods)
+**deu jui ja** theist (one who believes in existence of a god or gods)  
+**deu jui di** theistic  
 
-#### -it-
 
-Passive participle and causative suffix.
+#### she
 
-**sava** to know  
-**saviti** known  
-**savita** to make known  
+Indicates a thing that exhibits an attribute or suffers an action.
 
+**save** to know  
+**save she** known thing (knowledge)  
 
