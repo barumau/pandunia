@@ -561,7 +561,7 @@ chin chin||||grandparent||||||||||||||||isovanhempi|
 chin gam||||step-parent|||||||||||||||||
 chin gam ben||||step-sibling||||||||||||||||sisaruspuoli|
 chin ma||||grandmother|grand-mère|abuela|avó|бабушка|جَدَّة‎||お婆さん||||||||avino|isoäiti|babcia (babka)
-chin pa||||grandfather|grand-père|abuelo|avô|дедушка|جَدّ‎||||||||||avo|isoisä|dziadek (dziad)
+chin ba||||grandfather|grand-père|abuelo|avô|дедушка|جَدّ‎||||||||||avo|isoisä|dziadek (dziad)
 chinchila|bio||eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)|chinchilla||chinchilla|||||||||||||ĉinĉilo|chinchilla|szynszyla
 ching||||request (petition)||||||||||||||||pyyntö|
 ching|||zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|ask (request, beg, plead; please)||pedir (invitar; por favor)||просить||请|請う (ーて下さい)||||||||peti (bonvolu)|pyytää (anoa)|prosić
@@ -2315,8 +2315,8 @@ Luter din ja||||Lutheran|luthérien|luterano|luterano|лютеранский||||
 lutetium|mate|Lu||lutetium||lutecio|||||||||||||lutecio|lutetium|lutet
 M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 ma|||por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
-ma ma||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
-ma pa||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
+ma di ma||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
+ma di ba||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
 Madagasi|desha|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 madagasi di||||Malagasy||malgache||||||||||||||madagaskarilainen (malagassi)|madagaskarski; malagaski
 maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
@@ -2802,9 +2802,9 @@ oste shalke||||scute|scutelle||escudo||||ぜんご||||||||||łuska (blaszka, tar
 Ostria|desha|AT||Austria||Austria||||||||||||||Itävalta|Austria
 P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
 pa|prep.|||by (at, in, on)|a (dans, en, chez)|en (a)||в||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
-pa|||por:pai + zho:爸 (bà)  + eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
-pa de ma||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
-pa de pa||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
+ba|||por:pai + zho:爸 (bà)  + eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
+ba di ma||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
+ba di ba||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
 pa ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
 pa lin||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 pa medi||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
@@ -3860,7 +3860,7 @@ veze metre gi||||scales (weighing device)|balance (poids)|pesa (báscula, balanz
 vice|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy, alternative, substitute, replacement)||vice- (alternativa, sustituto)|||||代替||||||||vic-|vara- (korvike-)|wice- (alternatywa, substytut, zastępstwo)
 vice loga||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
 vice ma||||step-mother||madrastra|madrasta|мачеха||继母|継母|계모|mẹ kế|सौतेली माँ|||||vicpatrino|äitipuoli (isän puoliso)|
-vice pa||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
+vice ba||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
 vice prezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
 vice raja||||viceroy|vice-roi|virrey|vice-rei|вице-король||||||||wizurai||||varakuningas|wicekról
 vide|||rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|look (see)|voir|ver (mirar)|ver|видеть||看|||||||||vidi (rigardi)|nähdä|patrzeć, widzieć
