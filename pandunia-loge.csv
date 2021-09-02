@@ -31,11 +31,11 @@ ai ja|||ara: حُبّ (ḥubb), swa:huba, hin:मुहब्बत (muhabbat), 
 ai jen||||darling (honey)|chéri|amado (cariño)|querido||حَبِيب‎|||||हबीब (प्रिय)|||||karulo|kulta (rakas)|
 ainstainium|mate|Es||einsteinium|Einsteinium|einsteinium|||||||||||||ejnŝtejnio|einsteinium|einstein
 air|||eng:fra:spa:air, por:ar, rus:аэро- (aero-)|air|air|aire|ar|воздух|هوا‎|空气|空気|공기|không khí|हवा (वायु)|বায়ু|udara (hawa)|hewa|hava|aero|ilma|powietrze
-air bari||||atmospheric pressure|pression atmosphérique|presión atmosférica||||||||||||||ilmanpaine|ciśnienie atmosferyczne
-air bari metre gi||||barometer|baromètre|barómetro||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
 air bio di||||aerobic|aérobique|aeróbico|aeróbico|аэробный|||好気性|||||||||aerobinen|
 air gun||||airforce|armée de l'ai|fuerza aérea|força aérea|военно-воздушные силы||空军|空軍|공군|không quân|वायु सेना||angkatan udara||hava kuvetleri|aerarmeo|ilmavoimat|siły powietrzne
 air porte||||airport (aeroport)|aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|lotnisko (port lotniczy)
+air presa||||atmospheric pressure|pression atmosphérique|presión atmosférica||||||||||||||ilmanpaine|ciśnienie atmosferyczne
+air presa metre gi||||barometer|baromètre|barómetro||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
 Aire|desha|IE||Ireland|Irland|Irlanda||||||||||||||Irlanti|Irlandia
 ais|||eng:ice, deu:Eis, may:és|ice|glace|hielo||||冰|氷 (アイス)||||||||glacio|jää|lód
 ais di||||icy|glacé (glacial, gelé)|cubierto de hielo|||||||||||||glacia|jäinen|lodowy
@@ -219,6 +219,9 @@ avar ja||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingo
 ave|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
 Azerbaijan|desha|AZ||Azerbaijan|Azerbaijan|Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan
 B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B
+ba|||por:pai + zho:爸 (bà)  + eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
+ba di ba||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
+ba di ma||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
 babu|||ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu|chapter (section)|chapitre|capítulo (sección)||глава|(بَاب‎) فَصْل‎|章||||||bab|babu (sura)|bölüm|ĉapitro|luku (kirjan osa)|rozdział, sekcja
 babuche|||ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|slipper|pantoufle (babouche)|chinelo (pantufa)|||||||||||||pantoflo|tohveli|kapeć (papeć, bambosz)
 babul|bio|Vachellia|hin:बबूल (babūl), ben:বাবলা (bābalā), eng:babul|thorn tree (acacia, wattle)|vachellia|||вахелия|||||||||||||
@@ -238,6 +241,7 @@ baha din ja||||Baha'ist||bahá'í|||||||||||||bahaisto|bahailainen|bahaista
 Bahama|desha|BS||Bahamas||Bahamas||||||||||||||Bahama-saaret|Bahamy
 Bahrain|desha|BH||Bahrain||baréin||||||||||||||Bahrain|Bahrajn
 bai|||eng:bay, spa:bahía, por:baía, fra:baie|bay (gulf)|baie (golf)|bahía|baía|||||||||||||lahti|zatoka
+bai|||zho:败 (bài), jpn:敗 (pai), kor:패 (pæ), vie:bại|lose (be defeated)||derrota||||击败|負け||||||||||
 baka|||eng:bake, hin:पकाना (pakānā), rus:печь (peč), deu:backen|bake||hornear (cocer)|||||||||||||baki|leipoa|piec
 baka fan||||terracotta|terre cuite|terracota|terracota|терракота||陶瓦|テラコッタ||||||||||terakota
 baka ja||||baker|boulanger|panadero|padeiro|хлебопёк (пекарь)|||||||||||bakisto|leipuri|piekarz
@@ -270,12 +274,12 @@ banya||||bathe|se baigner|bañarse||купаться||游泳|||||||||bana|kylpe�
 banya kamar||||bathroom|salle de bains|baño||ванная||浴室|||||||||banĉambro|kylpyhuone|łazienka
 bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar||bar||||||||||||||baari (kapakka)|bar
 bara||||bar (obstruct, block)|bloquer|barrar (bloquear, obstruir)|barrar|преграждать||||||रोकना|||||bari|estää kulku (tukkia tie)|blokować, hamować
-bara|||eng:bar, spa:por:barrar fra:barrière, rus:барьер (baryer) + hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|barrier (fence)|barrière|barrera (barda)|barreira|барьер||||||बाड़ (रोक)|বেড়া||||barilo|este|bariera
+bara mur|||eng:bar, spa:por:barrar fra:barrière, rus:барьер (baryer) + hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|barrier (fence)|barrière|barrera (barda)|barreira|барьер||||||बाड़ (रोक)|বেড়া||||barilo|este|bariera
 Barbados|desha|BB||Barbados|Barbade|Barbados||||||||||||||Barbados|Barbados
 barbar|||deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|barbarian|barbare|bárbaro|||||||||||||barbaro|barbaari (raakalainen)|barbarzyńca
 Barbuda|desha|||Barbuda|Barbuda|Barbuda||||||||||||||Barbuda|Barbuda
 barde|||fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|beard|barbe|barba|barba|борода|||||||||||barbo|parta|broda
-bari|||hin:भार  (bhār), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|burden (load, weight)|charge (fardeau, poids)|carga (pesa)|carga (peso)|ноша||擔子||바리 (짐)||||||yük||kuorma (lasti, taakka, paino)|ciężar (brzemię)
+bari|||hin:भारी (bhārī), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|heavy (requiring much effort, hard, difficult, serious, important, etc.)||||||||||||||||raskas (kova, vaativa, vaikea, jne.)|
 bari metal||||heavy metal|métaux lourds|metal pesado|||||||||||||pezmetalo|raskasmetalli|metal ciężki
 barium|mate|Ba||barium|baryum|bario|||||||||||||bario|barium|bar
 barka|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|congratulate (bless)|féliciter|felicitar|||||||||||||gratuli|onnitella (siunata)|gratulować; błogosławić
@@ -324,6 +328,7 @@ be ging||||align (go along)||alinear|||||||||||||||iść wzdłuż (pójść wzd�
 be hogo||||burn (be burned)||quemarse|queimarse|||烧|燃える|타다 (불타다)||जलना||||||palaa|spłonąć, płonąć
 be jene||||be born||nacer|||||||||||||naski|syntyä|urodzić się, rodzić się
 be kai||||become open||abirse|||||||||||||malfermiĝi|aueta (avautua)|otworzyć się, otwierać się
+be lashe||||stay behind (linger)|||||||||||||||||pozostawać w tyle (zwlekać)
 be loka||||be located (lie, be situated)||encontrarse (estar, situarse)||||||||||||||sijaita|być umiejscowionym (być ulokowanym, stać)
 be mal||||belong|appartenir à|ser de||принадлежать||属于|||||||||aparteni|kuulua (olla jkn hallussa)|należeć
 be mas||||exceed (be greater than)||||||||||||||||ylittää (olla enemmän kuin)|
@@ -556,12 +561,12 @@ chili|||eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:c
 chili fun||||paprika||||||辣椒粉|パプリカ|||||||||paprikajauhe|papryka
 chimpanzi|bio||eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|chimpanzee||chimpancé|||||||||||||ĉimpanzo|simpanssi|szympans
 chin|||zho:親 (qīn), yue:親 (can), wuu:親 (qin), jpn:親 (sin), kor:친 (chin)|parent (mother or father)||parente (madre o padre)||||||||||||||vanhempi (isä tai äiti)|rodzic (matka lub ojciec)
+chin ba||||grandfather|grand-père|abuelo|avô|дедушка|جَدّ‎||||||||||avo|isoisä|dziadek (dziad)
 chin brus ben||||cousin|cousin|primo|primo||||||||||binamu||kuzo|serkku|kuzyn
 chin chin||||grandparent||||||||||||||||isovanhempi|
 chin gam||||step-parent|||||||||||||||||
 chin gam ben||||step-sibling||||||||||||||||sisaruspuoli|
 chin ma||||grandmother|grand-mère|abuela|avó|бабушка|جَدَّة‎||お婆さん||||||||avino|isoäiti|babcia (babka)
-chin ba||||grandfather|grand-père|abuelo|avô|дедушка|جَدّ‎||||||||||avo|isoisä|dziadek (dziad)
 chinchila|bio||eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)|chinchilla||chinchilla|||||||||||||ĉinĉilo|chinchilla|szynszyla
 ching||||request (petition)||||||||||||||||pyyntö|
 ching|||zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|ask (request, beg, plead; please)||pedir (invitar; por favor)||просить||请|請う (ーて下さい)||||||||peti (bonvolu)|pyytää (anoa)|prosić
@@ -837,6 +842,7 @@ ekore|bio|Sciuridae|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|squir
 ekran|||fra:écran, por:ecrã, rus:экран (ekran), pol:tur:ekran, kat:ეკრანი (eḳrani)|screen||pantalla|||||||||||||ekrano|kuvaruutu|ekran
 eksa|numbe||eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)|exa-|||||||||||||||eksa-|eksa-|
 Ekuador|desha|EC||Ecuador||Ecuador|||||||||||||Ekvadoro|Ecuador|Ekwador
+elasti|||eng:elastic, spa:por:elástico, gla:lastaig, rus:эласти́чный (elastíčnyj), tur:may:elastik, jpn:エラスティック (erasutikku)|elastic||elástico (flexible)||||||||||||||joustava (elastinen)|elastyczny
 eletre|||por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|electricity|électricité|electricidad|eletricidade||||電気|||||||cereyan (elektrik)|elektro|sähkö|elektryczność
 eletri||||electric||eléctrico|||||||||||||elektra|sähköinen|elektryczny
 eletro posta (e-posta)||||e-mail||email (correo electrónico)||||||||||||||sähköposti|poczta elektroniczna
@@ -942,6 +948,7 @@ fa asar||||effect (bring about)|effectuer|efectuar|efetuar|||||||||||||vaikuttaa
 fa avar||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
 fa baze||||found||fundar (basar)||||||||||||||perustaa|zakładać (założyć, ustanowić)
 fa bina|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|build (construct)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
+fa biznes lon||||negotiate (arrange)||negociar|||||話し合う (話を付ける)||||||||||negocjować
 fa budi||||realize||darse cuenta (notar)|||||||||||||kompreni|ymmärtää (oivaltaa)|uświadomić sobie, zdać sobie sprawę, pojąć, pojmować
 fa chape||||press (imprint)||imprimir|||||||||||||presi|painaa (leimata)|naciskać, zostawiać ślad
 fa chutu|||zho:出 (chū), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|leave (go out, exit)||salir (irse)|||||||||||||eliri|poistua|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać
@@ -968,9 +975,13 @@ fa karma||||activate (enable, turn on, trigger)|activer (allumer, mettre en marc
 fa kegu||||visit||visitar|||||||||||||vizito|käydä (vierailla)|odwiedzić, odwiedzać
 fa komputa||||compute (to process data)||calcular (computar)||||||||||||||käsitellä dataa|policzyć, liczyć, przetwarzać dane
 fa kopi||||copy (replicate)||copiar|||||||||||||kopii|kopioida (jäljentää)|kopiować, replikować
+fa lai||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
 fa Latin kitabu||||romanize||romanizar||||||||||||||latinoida|zromanizować
+fa lenshi||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
+fa libu||||erect||erigir (montar, armar)||||||||||||||nostaa pystyyn|postawić (stawiać)
 fa linke||||connect (join, link)||conectar (empalmar, enlazar, vincular)|relier (connecter)|соединить (подключить)||连接|繋ぐ|||जोड़ना (jodana)||menyambung (berangkai)|kuungana|bağlamak||yhdistää|łączyć, wiązać, złączyć
 fa loka||||put (place, set)|mettre (placer)|colocar (poner, ubicar)|colocar (pôr)|ставить||放置|||||||||lokigi|panna (asettaa, sijoittaa)|umieścić (postawić)
+fa lon||||debate (discuss)||debatir (discutir)||||||||||||||keskustelu (debatti)|debatować, prowadzić dyskurs
 fa long||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
 fa maf||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||||||माफ करना||memaafkan|kusamehe|affetmek|pardoni|antaa anteeksi|
 fa mal||||own (possess, have)||poseer (tener, ser dueño de)||||||||||||||omistaa|mieć (posiadać)
@@ -1026,6 +1037,7 @@ fa politi||||administer (govern)||gobernar|||||治める (司る)|||||||||hallit
 fa pos||||follow (come after)|suivre|seguir|||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
 fa posta||||mail (send by mail)||eviar por correo|||||||||||kuposti|||postittaa|nadać, wysłać pocztą
 fa poze||||pose (set, plant)|planter|hacer posar (plantar)|||||植える|||||||||panna (asettaa)|pozować, ustawiać się
+fa presa||||press (squeeze)|presser|prensar (oprimir)|prensar (pressionar, premir)|нажимать||||||दबाना|||||premi|puristaa (painaa)|
 fa prizon||||imprison (jail)||encarcelar (aprisionar)|||||||||||||malliberigi|vangita|uwięzić, więzić, pozbawić wolności
 fa pul||||fill|remplir|llenar||заполнять|||||||||||plenigi|täyttää|wypełnić, wypełniać
 fa pul bon||||perfect (optimize, refine, polish)|perfectionner (parfaire)|perfeccionar|aperfeiçoar|||||||||||||tehdä täydelliseksi|doskonalić (optymalizować, ulepszać)
@@ -1593,6 +1605,7 @@ hua|||zho:花 (huā), vie:hoa, kor:화 (-hwa-), swa:ua|flower|fleur|flor|flor|ц
 hua jara||||flower vase||florero||||花瓶|||lọ hoa|गुलदान (फूलदान)|||||vazo|kukkamaljakko|
 hua mosim|mosim|||spring (springtime)||primavera||весна|||春|||||musim bunga|||printempo|kevät|wiosna
 hua pote||||flowerpot|pot de fleur|maceta (plantera)|vaso de flores|цвето́чный горшок||花盆|植木鉢|화분|chậu hoa||||||florpoto|kukkaruukku|
+huang|rang||zho:黄 (huáng), yue:黃 (wong4), wuu:黃 (huaan1)|yellow||amarillo|||||||||||||flava|keltainen|żółty
 hui|||zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|ash (ashes)||ceniza||||||||||||||tuhka|popiół
 huidarte||||podzol|podzol|podsol|espodossolo|подзол||灰化土|ポドゾル|||||||||podsoli|gleba bielicoziemna
 huirang|rang|||grey (gray, ashy)||gris||||||||||||||harmaa|szary
@@ -1887,6 +1900,7 @@ karchof|bio|Cynara cardunculus var. scolymus|ara:خرشوف (kharshuf), amh:ከ�
 kardon|bio||spa:por:cardo, fra:chardon, eng:cardoon, jpn:カルドン (karudon)|thistle|chardon|cardo|cardo|расторопша||蓟|アザミ||||||||||oset
 kardonkarchof|bio|Cyara cardunculus||artichoke thistle (cardoon)|cardon|||артишок испанский (кардон)||刺苞菜蓟|カルドン||||||||||karczoch hiszpański
 karer||||worker|travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник|عَامِل|工人 (工作者)|労働者|노동자|công nhân|मज़दूर (कर्मी)|কর্মী|pekerja||işçi|laboristo|työntekijä (työläinen)|pracownik
+karga|||spa:por:carga, eng:cargo, may:kargo|charge (burden, load, weight)|charge (fardeau, poids)|carga (pesa)|carga (peso)|бремя (товар, груз, ноша)||擔子||바리 (짐)||||||yük||kuorma (lasti, taakka)|ciężar (brzemię)
 karibe||||proximity||proximidad|||||||||||||||bliskość
 karibi|||ara:fas:urd:(qarīb), swa:karibu, tur:takribi|near (close)||cerca|||||||||||||proksima|läheinen|bliski
 karibo||||nearly (closely, almost)||casi (aproximadamente)||||||||||||||lähes (melkein)|blisko (niemal, prawie)
@@ -2178,51 +2192,44 @@ langan|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banist
 Lanka|desha|LK||Sri Lanka (Ceylon)||Sri Lanka||||||||||||||Sri Lanka|Sri Lanka
 lantanium|mate|La||lanthanum||lantano||||鑭|ランタン|||||||||lantaani|lantan
 larva|||deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|larva (maggot, caterpillar)||larva||||||||||||||toukka|larwa, czerw, gąsienica
-lashe she||||leftover (residue, vestige)||vestigio (sobrante, residuo)||||||||||||||jäte (hylkytavara)|pozostałość (szczątek)
 lashe|||fra:laisser,lâcher, ita:lasciare, deu:lassen|leave behind (abandon, let go)|laisser|dejar|deixar|||落 (留下)|残す|||||||||jättää (hylätä)|pozostawiać (pozostawić)
-be lashe||||stay behind (linger)|||||||||||||||||pozostawać w tyle (zwlekać)
-elasti|||eng:elastic, spa:por:elástico, gla:lastaig, rus:эласти́чный (elastíčnyj), tur:may:elastik, jpn:エラスティック (erasutikku)|elastic||elástico (flexible)||||||||||||||joustava (elastinen)|elastyczny
+lashe she||||leftover (residue, vestige)||vestigio (sobrante, residuo)||||||||||||||jäte (hylkytavara)|pozostałość (szczątek)
 lasun|bio|Allium sativum|hin:लहसुन (lahsun), ben:রসুন (rôśun), zho:大蒜 (dàsuàn)|garlic|ail|ajo|alho|чеснок||大蒜 (蒜头)|大蒜|마늘|tỏi|लहसुन|রসুন|bawang putih|kitunguu saumu|sarımsak|ajlo|valkosipuli|larwa, czerw, gąsienica
-pa late||||be beside (accompany)||estar al lado de|||||||||||||||być obok
 late|||spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)|side (flank)|côté|lado (flanco)|lado|сторона (бок)||侧面 (旁边)|側 (脇)||||||||flanko (latero)|sivu (kylki, puoli)|strona (bok)
-late di||||lateral (horizontal)|latéral|lateral (horizontal)|lateral|боковой (латеральный)|||||||||||flanka (latera)|sivu-|poziomy (horyzontalny, boczny)
-Latin zi||||Latin alphabet||alfabeto latino||||||||||||||latinalaiset aakkoset|alfabet łaciński, łacinka, alfabet rzymski
 late||||sideways (laterally)||de lado|||||||||||||||z boku (na bok)
+late di||||lateral (horizontal)|latéral|lateral (horizontal)|lateral|боковой (латеральный)|||||||||||flanka (latera)|sivu-|poziomy (horyzontalny, boczny)
 late jan||||companion (partner, sidekick)||compañero (compinche)|||||||||||||||towarzysz (partner, kumpel)
+Latin zi||||Latin alphabet||alfabeto latino||||||||||||||latinalaiset aakkoset|alfabet łaciński, łacinka, alfabet rzymski
 Latvia|desha|LV||Latvia|Lettonie|Letonia|Letónia|Латвия||拉脱维亚|ラトビア|라트비아|Lát-vi-a|लातविया|লাতভিয়া|Latvia||Letonya|Latvio|Latvia|Łotwa
 Lau|desha|LA||Laos||Laos||||||||||||||Laos|Laos
-lau jan||||elder||viejo (anciano)|||||||||||||||starzec
-laurencium|mate|Lr||lawrencium||laurencio|||||||||||||laŭrencio|lawrensium|lorens
 lau|||zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão|old (aged, elderly)|vieux (âgé, ancien)|viejo (anciano)|idoso|пожилой||老 (老年, 年歲大)|年配||già (lão)||||||||stary (sędziwy, wiekowy)
 lau di||||Lao (Laotian)||laosiano||||||||||||||laoslainen|laotański
-fa lai||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
+lau jan||||elder||viejo (anciano)|||||||||||||||starzec
+laurencium|mate|Lr||lawrencium||laurencio|||||||||||||laŭrencio|lawrensium|lorens
 lazanya|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|lazania
 lazur|rang|||azure|azur|azur (blao)|azur (blau)|лазурь|||||||||||||
 lazur petra|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит|لَازَوَرْد|青金岩|ラピスラズリ (瑠璃)|||लाजवर्द (वैडूर्य)||||lazur taşı||lapislatsuli|lapis lazuli
 lefte|||eng:left, rus:левый (levyy)|left||lado izquerdo|esquerdo|левый||左|左|||बायीं||kiri|kushoto|sol||vasen|lewa strona
 lefte di||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej strony)
 lefte jui ja||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
-lege|||eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|light (weightless)|léger|ligero|||||||||||||||lekki
-leng mosim||||winter|hiver|invierno|inverno|зима||冬天||||सर्दी (जाड़ा,  शिशिर)||musim dingin||kış|vintro|talvi|zima
 leng|||zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)|cold||frío||||冷たい (寒い)|||||||||malvarma|kylmä|zimny, chłodny
+leng mosim||||winter|hiver|invierno|inverno|зима||冬天||||सर्दी (जाड़ा,  शिशिर)||musim dingin||kış|vintro|talvi|zima
 leng mosim di||||wintry|hivernal (hibernal)|invernal|invernal (hibernal)|зимний|||||||||||vintra|talvinen|zimowy
 lense|||eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|lens|lentille|lente|lente|линза|عَدَسَة‎|透镜|レンズ|렌즈|thấu kính|लेंस|লেন্স|lensa (kanta)||mercek (adese, lens)||linssi|soczewka
-fa lenshi||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
 lenshi|||zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|exercise||ensayo (ejercitio)|||||||||||||ekzerco|harjoitus|ćwiczenie
 lente|||fra:lent, spa:por:lento|slow (lethargic)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas|powolny (wolny, letargiczny)
 letis|bio||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce|laitue|lechuga|alface|салат-латук||莴苣|レタス|||लेटिष|লেটুস||||laktuko|lehtisalaatti|sałata
 leu|asp.aux.||zho:了 (le, liǎo), wuu:了 (le’), yue:了 (liu), tha:แล้ว (lɛːw)|attain (accomplish, indicates the current position)||||||了||||||||||saavuttaa (saavutettua tilaa ilmaiseva apuverbi)|
 lezi|bio||zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|pear||pera||||梨|||||||||piro|päärynä|gruszka
 liama|bio||eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|llama|lama|llama|lhama|лама||大羊駝|ラマ||||||||||lama
-fa libu||||erect||erigir (montar, armar)||||||||||||||nostaa pystyyn|postawić (stawiać)
 Libanen|desha|LB||Lebanon||Líbano||||||||||||||Libanon|Liban
 libele|||spa:por:libélula, fra:libellule, deu:Libelle|dragonfly|libellule|libélula|libélula|стрекоза||蜻蜓|蜻蛉|잠자리||व्याध पतंग|ফড়িং|capung||yusufçuk|libelo|sudenkorento|ważka
 Liberia|desha|LR||Liberia||Liberia||||||||||||||Liberia|Liberia
-libu di||||erect (standing)||erguido||||||||||||||pysty (seisova)|postawiony (stojący)
 Libia|desha|LY||Libya||Libia||||||||||||||Libya|Libia
+libu|||zho:立 (lì), yue:(lip), vie:lập, kor:립 (rib), jpn:立 (ritsu)|stand||estar de pie|||||立つ|||||||||seistä (seisoa)|stać
 libu ban||||shelf (bookshelf)|étagère|estante (repisa)|prateleira (estante)|полка||架子 (搁板)|棚||||||||||półka (regał na książki)
 libu baze||||stand (rack)||soporte (perchero, atril)||||架子|台||||||||||stojak (wieszak)
-libu|||zho:立 (lì), yue:(lip), vie:lập, kor:립 (rib), jpn:立 (ritsu)|stand||estar de pie|||||立つ|||||||||seistä (seisoa)|stać
+libu di||||erect (standing)||erguido||||||||||||||pysty (seisova)|postawiony (stojący)
 lichi|bio||zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|lychee (litchi)||lichi||||||||||||||litši|liczi
 lida||||lead (direct)||dirigir (mandar, conducir, capitanear)||||||||||||||johtaa (ohjata)|prowadzić, dowodzić, kierować
 lida ja|||eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|leader (director)|dirigeant (leader)|dirigente (líder)|líder (chefe)|руководитель (лидер)||领导||||||||||johtaja (pomo)|dowódca, kierownik
@@ -2234,29 +2241,30 @@ lifafa||||wrap|envelopper (emballer)|envolver|embalar|||||||||||||kääriä (pan
 liga||||associate||asociar|||||||||||||aligi|liittää|stowarzyszać się (zrzeszać się)
 liga|||fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|league (alliance)|ligue (alliance)|liga (alianza, federación)|liga (aliança)|лига (союз)||||||||||||liitto (liittouma, liiga)|liga (stowarzyszenie)
 liga di sanduku|din|||Ark of the Covenant|Arche d'Alliance|arca de la Alianza|Arca da Aliança|ковчег завета|تَابُوت اَلْعَهْد‎|约柜|契約の箱|법궤||||Tabut Perjanjian|||Kesto de Interligo|liitonarkki|
+ligu|||hin:लघु (laghu), ben:লঘু (laghu) + eng:light, spa:ligero, por:ligeiro, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki|light (requiring little effort, easy, soft, minute, unimportant, etc.)||leve|leve|||||||||||||kevyt (hento, pehmeä, helppo, jne.)|
+ligu veze di||||light (light-weight)|léger|ligero|ligeiro|||||||||||||kevyt (kevytpainoinen)|lekki
 Lihtenstain|desha|LI||Liechtenstein||Liechtenstein||||||||||||||Liechtenstein|Liechtenstein
 lila|bio|Syringa vulgaris|eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku), tur:leylak, ara:(laylak)|lilac|lilas|lila||||||||||||||syreeni|lilak
 lila rang|rang|||lilac color||lila (de color lila)||||||||||||||violetti (liila)|liliowy
-lili bol||||bubble||burbuja (pompa)|||||||||||||bobelo|kupla|bańka
 lili|||eng:little|little (small; a little, somewhat)|petit|pequeño|pequeno|маленький (малый)||小|小さい|작은|nhỏ|छोटा||||küçük|malgranda|pieni (pienesti, vähän)|mały; mało, trochę, nieco
+lili bol||||bubble||burbuja (pompa)|||||||||||||bobelo|kupla|bańka
+lili citi||||small town|||||||||||||||urbeto|pikkukaupunki|
 lili kaboga|bio|Cucurbita pepo||zucchini|courgette|calabacín|abobrinha|цукини||西葫芦|ズッキーニ||||||||||cukinia
 lili sheki||||pebble (gravel)|caillou||pedrinha|галька||砾石|小石|자갈||||||çakıl|ŝtoneto|sorakivi|kamyk
-lili citi||||small town|||||||||||||||urbeto|pikkukaupunki|
 lili yam||||snack||tentempié||||||||||||||välipala (naposteltava)|przekąska
 limfa|||eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|lymph||linfa||||||||||||||lymfa|limfa
 limite|||eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|limit (boundary)||límite (frontera, linde)||||||||||||||raja|limit, granica
 limite di||||finite (limited)|||||||||||||||||skończony (ograniczony)
 limon|bio|Citrus limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon|citron|limón|limão|лимон||柠檬|レモン|||नींबू||jeruk lemon (limau)||limon|citrono|sitruuna|cytryna
-limon oranje|bio|Citrus||citrus fruit||cítrico||цитрус||柑橘|柑橘|||||jeruk (limau)||turunçgil (sitrus)|||
 limon lugi di|rang|||lime green||verde limón|||||||||||||||limonkowy (limonkowo zielony)
-huang|rang||zho:黄 (huáng), yue:黃 (wong4), wuu:黃 (huaan1)|yellow||amarillo|||||||||||||flava|keltainen|żółty
+limon oranje|bio|Citrus||citrus fruit||cítrico||цитрус||柑橘|柑橘|||||jeruk (limau)||turunçgil (sitrus)|||
 lin|||eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|line (thread, string)|ligne (fil)|linea (hilo, cordel, raya)|linha (fio)|линия (нитка)||线|糸||||দড়ি (তার)||||lineo (ŝnuro)|linja (viiva, lanka, liina, naru, köysi)|linia (nić, lina, pas, pręga, smuga, dratwa)
 lin parche||||line break (newline)||nueva línea||||||||||||||rivinvaihto|złamanie lini
 lin so||||fibre|fibre|hebra (fibra)|fibra|волокно||纤维|繊維||sợi|||||lif|fibro|säie (kuitu)|włókno
 lince|bio|Lynx|eng:fra:lynx, spa:por:lince, hin:लिंक्स (links)|lynx|lynx|lince|lince|рысь||猞猁 (山貓)|大山猫|||लिंक्स||||vaşak|linko|ilves|ryś
 linke|||eng:link, fra:lien, deu:Link, fas:لینک • (link), jpn:リンク (rinku) + zho:連結 (liánjié), yue:連結 (lin4 git3), hak:連結 (lièn-kiet), vie:liên kết|joint (link)|lien|juntura (conexión, enlace)|conexão (vínculo, laço)|связь (ссылка)||联系|繋がり (リンク)|||संयुक्त|সংযোগ|||bağ||yhdistys (sidos)|połączenie, złącze, styk
-lisan|||ara: لِسَان‎ (lisān), hin:लिसान (lisān), swa:lisani, may:tur:lisan, amh:ልሳን (ləsan)|tongue|langue|lengua|língua|язык|لِسَان‎|舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi (lisani)|dil (lisan)|lango|kieli (elin)|język
 lis|||fra:lisse, spa:por:liso, fas:(liz), may:licin|smooth||suave (liso)|||||||||||||glata|sileä|gładki
+lisan|||ara: لِسَان‎ (lisān), hin:लिसान (lisān), swa:lisani, may:tur:lisan, amh:ልሳን (ləsan)|tongue|langue|lengua|língua|язык|لِسَان‎|舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi (lisani)|dil (lisan)|lango|kieli (elin)|język
 liste|||eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|list (listing, catalogue)|liste|lista|lista|список||单子||||लिस्ट|||||listo|lista (luettelo)|lista, spis, wykaz
 litium|mate|Li||lithium||litio|||||||||||||litio|litium|lit
 litre|||eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|litre (liter)|litre|litro|litro|литр|لتر‎|升|リットル|리터|lít|लीटर|লিটার|liter|lita|litre|litro|litra|litr
@@ -2270,19 +2278,17 @@ loga fili||||logophilia||||||||||||||||logofilia|
 loga fili ja||||logophile (word buff)||||||||||||||||logofiili|logofil (miłośnik słów)
 loga ironi||||verbal irony (sarcasm)|||||||||||||||||sarkazm
 loga jama||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
+loga liste||||dictionary (word list)||disionario (lexicón)|||||||||||||vortaro|sanaluettelo|lista słów
 loga so||||word (lexeme)|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
+loga tabi di||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
 loge|||eng:log + zho:录 (lù), yue:錄 (luk6), jpn:録 (roku), kor:록 (rok), vie:lục|register (record, log)|enregistrement|registro (archivo, anotación)|registro|запись||纪录|記録|기록|||||||registraĵo|tallenne (rekisteri, loki)|rejestr
 loge buku||||logbook|livre de bord|libro de registro|diário de bordo|судовой журнал||航海日志|日誌|||||||||lokikirja|dziennik pokładowy (notatnik)
 logi|||eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji|study (research, science, -ology)||ciencia (estudiar, investigar, -ología)|||||研究 (科学, 学)||||||||scienco|tiede (tutkimus, opiskella)|nauka, badanie, studiowanie
 logika|||eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)|logic (deduction)||lógica|||||||||||||logiko|logiikka|logika, dedukcja
 logika di||||logical||logical|||||||||||||logika|looginen|logiczny
-loga tabi di||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
-loga liste||||dictionary (word list)||disionario (lexicón)|||||||||||||vortaro|sanaluettelo|lista słów
 loka|||eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|place (location)|lieu|lugar|lugar (local)|место|مَكَان|地方|場所|장소||जगह (मकान)|জায়গা|tempat|pahali||loko|paikka (sija, sijainti)|miejsce, lokacja
 loka di||||local|local|local|local||||||||||||loka|paikallinen|miejscowy, lokalny
 lon|||zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||discusión (debate, discurso)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
-fa lon||||debate (discuss)||debatir (discutir)||||||||||||||keskustelu (debatti)|debatować, prowadzić dyskurs
-fa biznes lon||||negotiate (arrange)||negociar|||||話し合う (話を付ける)||||||||||negocjować
 London||||London|||||||||||||||||Londyn
 long|||eng:fra:long, deu:lang, por:longo|long (lengthy)|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)|panjang||uzun|longa|pitkä|długi
 long dura||||for a long time|longtemps||por muito tempo|долго||久||||||||||kauan (pitkän aikaa)|
@@ -2303,7 +2309,6 @@ luku|numbe|6|zho:六 (liù), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:l�
 luku face||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
 luku gona||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 lulu|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
-mes|||fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), eng:menstral|month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
 luna|planete 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
 luna keke||||mooncake|gâteau de lune|pastel de luna|bolo lunar|лунный пирог|كَعْكَة اَلْقَمَر‎|月饼|月餅|월병||||kue bulan||ay keki||kuukakku|
 lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok
@@ -2315,8 +2320,8 @@ Luter din ja||||Lutheran|luthérien|luterano|luterano|лютеранский||||
 lutetium|mate|Lu||lutetium||lutecio|||||||||||||lutecio|lutetium|lutet
 M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 ma|||por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
-ma di ma||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
 ma di ba||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
+ma di ma||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
 Madagasi|desha|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 madagasi di||||Malagasy||malgache||||||||||||||madagaskarilainen (malagassi)|madagaskarski; malagaski
 maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
@@ -2457,6 +2462,7 @@ meninge flame||||meningitis||meningitis||||||||||||||aivokalvontulehdus|zapaleni
 mentor|||san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|advisor (counselor, mentor)||consejero (asesor)||||||||||||||neuvontantaja (mentori)|doradca (mentor)
 meranti|bio|Shorea|may:eng:por:meranti|lauan tree (meranti, balau)|||meranti|шорея||娑羅屬||||||pokok meranti|||ŝoreo||damarzyk (meranti)
 Merkur|planete 1|||Mercury|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury
+mes|||fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), eng:menstral|month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
 mes bato|mes|||August|août|agosto|||||８月|||||||||elokuu|listopad
 mes chatre|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
 mes des|mes|||October||octubre|||||１０月|||||||||lokakuu|luty
@@ -2802,10 +2808,8 @@ oste shalke||||scute|scutelle||escudo||||ぜんご||||||||||łuska (blaszka, tar
 Ostria|desha|AT||Austria||Austria||||||||||||||Itävalta|Austria
 P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
 pa|prep.|||by (at, in, on)|a (dans, en, chez)|en (a)||в||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
-ba|||por:pai + zho:爸 (bà)  + eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
-ba di ma||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
-ba di ba||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
 pa ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
+pa late||||be beside (accompany)||estar al lado de|||||||||||||||być obok
 pa lin||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
 pa medi||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
 pa niche||||under||debajo||||||||||||||alla|pod (poniżej)
@@ -3056,6 +3060,8 @@ poze|||eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|pose (
 praseodimium|mate|Pr||praseodymium||praseodimio||||||||||||||praseodyymi|prazeodym
 prati|||eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|practice (actuality)||práctica||||||||||||||käytäntö (pragmatia)|praktyka, aktualność
 prati di||||practical (pragmatic)||práctico||||||||||||||käytännöllinen (pragmaattinen)|practyczny, pragmatyczny
+presa|||fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)|pressure|pression|presión|pressão|давление (нажим)||压力|圧力|압력|áp lực|दाब|চাপ|tekanan||basınç|premo|puristus (paine)|
+presa gi||||press device|pressoir|prensa|prensa|пресс|||圧搾機||||||||premilo|puristin|
 prezidente|||eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden|president||presidente|||||||||||||prezidento|presidentti|prezydent
 prizon|||eng:fra:prison, spa:prisión, por:prisão|prison (imprisonment)||prisión||||||||||||||vankeus|więzienie, kara więzienia, kara pozbawienia wolności
 prizon ja||||jailer (imprisoner)||carcelero||||||||||||||vanginvartija|strażnik więzienny
@@ -3403,10 +3409,6 @@ sheng bai||||outcome (victory or defeat)||||||勝敗|勝敗||||||||||
 shi|||zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + hin:श्री (śrī), ben:শ্রী  (śri)|Mx. (Mr. or Ms.)|||||||さん (氏)|||श्री|শ্রী|||||herra tai rouva|
 shia|||ara: شِيعَة (šīʿa), heb: סִיעָה (si'á) + zho:系 (xì)|faction (clique)|faction (clique)|facción|facção|фракция (клика)|شيعة|派系||||||||||porukka (kuppikunta, lohko, siipi)|
 shia islam din||||Shia Islam (Shi’ism)|chiisme|chiismo (chía)|xiismo|шиизм|الشِّيعَة‎|什叶派|シーア派|||शिया|||||ŝijaismo|šiialaisuus|szyism
-shitu bai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|failure (blunder, flop, miss, loss, defeat)|échec|fracaso||||失败|失敗||||||||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa, przegrana, strata, porażka)
-shitu bai ja||||loser|perdant|perdedor|perdedor|||||||||||||häviäjä|przegrany, pokonany
-shitu|||zho:失 (shī), jpn:失 (shitsu), kor:실 (šil), vie:thất|lose (misplace, miss, shed)|perder|perder|perder|потерять (утратить)||亏损 (失去)|失う (無くす, 落とす)||||||||||stracić (utracić, tracić, zgubuć, gubić)
-bai|||zho:败 (bài), jpn:敗 (pai), kor:패 (pæ), vie:bại|lose (be defeated)||derrota||||击败|負け||||||||||
 shifu|||eng:fra:sifu, zho:师傅 (shīfu), yue:師傅 (si1 fu6)|master (sensei, sifu)||maestro (profesor)||||师傅|先生||||||||||mistrz (sensei)
 shikaya|||ara: شِكَايَة‎ (šikāya), hin:शिकायत (śikāyat), fas: شکایت‎ (šekâyat), tur:şikayet + fra:chicaya|complain (lament)|plainte (lamentation)|queja (lamento)|queixa (lamento, reclamação)|жалоба|شِكَايَة‎|怨言|不平 (不満)|불평 (불만)|phàn nàn|शिकायत|অভিযোগ||lalamia|şikayet|plendo|valitus (reklamaatio)|
 shike|||eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|elegant (chic)||elegante (chic)||||||||||||||elegantti|elegancki, szykowny
@@ -3421,6 +3423,9 @@ shish|||tur:şiş + eng:shish-, rus:шиш- (šiš-)|skewer|brochette|brocheta||
 shish kababu||||shish kebab||||шиш-кебаб||||||||||şiş kebap||varraskebab|szisz kebab
 shish nama||||shashlik|chachlik|||шашлык||串烧||||||sate||şişlik|ŝaŝliko|saslik|szaszłyk
 shite|||eng:shit, zho:屎 (shǐ), yue:屎 (si2)|feces (poop, shit)|merde|mierda|merda|говно (дерьмо)||粪 (屎)|糞 (屎)|똥|cứt (phân)|टट्टी||tahi||bok|merdo|paska (sonta)|gówno
+shitu|||zho:失 (shī), jpn:失 (shitsu), kor:실 (šil), vie:thất|lose (misplace, miss, shed)|perder|perder|perder|потерять (утратить)||亏损 (失去)|失う (無くす, 落とす)||||||||||stracić (utracić, tracić, zgubuć, gubić)
+shitu bai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|failure (blunder, flop, miss, loss, defeat)|échec|fracaso||||失败|失敗||||||||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa, przegrana, strata, porażka)
+shitu bai ja||||loser|perdant|perdedor|perdedor|||||||||||||häviäjä|przegrany, pokonany
 Shiva|din|||Shiva|Shiva|Shiva|Xiva|Шива||湿婆|シヴァ|시바||शिव|শিব|Siwa (Mahadeva)||Şiva|Ŝivo|Šiva|Śiwa
 shofer ja|||fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|chauffeur (driver)||conductor (chofer)|condutor (chofer, motorista)|шофёр||司机||||||||sürücü (şoför)|ŝoforo (kondukisto)|kuski (ajuri, ajaja)|szofer (kierowca)
 shoke|||eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|shock (collision)||choque (sacudida)||||||||||||||isku (šokki)|szokwstrząs; kolizja
@@ -3858,9 +3863,9 @@ veze|||ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn
 veze di||||heavy|lourd|pesado|pesado|тяжёлый||重型的||||भारी||berat||ağır|peza|painava|ciężki (masywny)
 veze metre gi||||scales (weighing device)|balance (poids)|pesa (báscula, balanza)||||||||||||||vaaka (puntari)|waga (urządzenie ważące)
 vice|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy, alternative, substitute, replacement)||vice- (alternativa, sustituto)|||||代替||||||||vic-|vara- (korvike-)|wice- (alternatywa, substytut, zastępstwo)
+vice ba||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
 vice loga||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
 vice ma||||step-mother||madrastra|madrasta|мачеха||继母|継母|계모|mẹ kế|सौतेली माँ|||||vicpatrino|äitipuoli (isän puoliso)|
-vice ba||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
 vice prezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
 vice raja||||viceroy|vice-roi|virrey|vice-rei|вице-король||||||||wizurai||||varakuningas|wicekról
 vide|||rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|look (see)|voir|ver (mirar)|ver|видеть||看|||||||||vidi (rigardi)|nähdä|patrzeć, widzieć
