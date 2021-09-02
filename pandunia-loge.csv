@@ -487,7 +487,7 @@ bujete|||eng:fra:budget, deu:Budget, rus:бюджет (b’udzhet), tur:bütçe,
 buku|||eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|book|livre|libro|livro|книга||书|本 (書物)|||पुस्तक (किताब)||buku (pustaka, kitab)|kitabu|kitap|libro|kirja|książka
 bulbul|bio|Luscinia megarhynchos|ara: بلبل‎ (bulbul), hin:बुलबुल (bulbul), may:bulbul, tur:bülbül|nightingale|rossignol|ruiseñor|rouxinol|соловей|بلبل‎|夜莺||||बुलबुल||bulbul||bülbül|najtingalo|satakieli|słowik
 bum|||eng:boom, deu:Bumm, fra:boum, spa:por:bum, hin:बूम (būm), zho:砰 (pēng), kor:펑 (peong), vie:bùm|explosion (blast, eruption)|explosion|explosión (estallado)|explosão|взрыв||爆炸|爆発|||||||||räjähdys (pamaus)|wybuch
-burge|||deu:Burg, egy:(burg), ara:urd:(burj), hin:बुर्ज (burj), may:puri, + hin:दुर्ग (durg), ben:দুর্গ (durg)|castle (fortress, stronghold)||castillo (fortaleza)|||||||||||husuni|||linna (linnake, linnoitus)|zamek, forteca, twierdza
+burge|||deu:Burg, egy: برج‎ (burg), ara:urd: بُرْج‎ (burj), hin:बुर्ज (burj), may:puri, + hin:दुर्ग (durg), ben:দুর্গ (durg)|fortress (castle, fort, stronghold)|fort|castillo (fortaleza)|forte|крепость (форт)|(بُرْج‎) قَلْعَة‎|要塞|要塞|요새|pháo đài|क़िला (कोट)|||husuni|kale||linna (linnake, linnoitus)|zamek, forteca, twierdza
 Burkina Faso|desha|BF||Burkina Faso||Burkina Faso||||||||||||||Burkina Faso|Burkina Faso
 bus|||deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì)|bus||bus (autobús)|||||||||||||buso|linja-auto (bussi)|autobus, autokar
 buste|||fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|bust (bosom)||pecho (busto)||||||||||||||povi|biust
@@ -961,7 +961,7 @@ fa festa||||celebrate (party)||celebrar (festejar)|||||||||||||festi|juhlia|świ
 fa fili||||like||gustarse (querer)||||||||||||||tykätä (pitää)|lubić
 fa fobi||||scare (frighten)|effrayer|asustar (atemorizar)|assustar|страшить||吓唬||||||||korkutmak|timigi|pelottaa|
 fa forma||||shape (sculpt)|former|formar|modelar|формировать|||||||||||formigi|muotoilla (muovata)|ukształtować, kształtować, urzeźbić, rzeźbić
-fa forte||||strengthen (reinforce)||||||||||||||||vahvistaa (voimistaa)|wzmocnić (wzmocnić, wzmóc)
+fa liki||||strengthen (reinforce)||||||||||||||||vahvistaa (voimistaa)|wzmocnić (wzmocnić, wzmóc)
 fa gami||||marry||casar|||||||||||||edzigi|naida (mennä naimisiin)|ożenić się, poślubić, wyjść za mąż
 fa gol||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 fa hogo||||burn (cause to burn)|brûler|quemar|queimar|жечь (палить)|أَحْرَقَ|燃烧|燃やす|태우다||जलाना|||kuchoma|yakmak||polttaa|spalić, palić
@@ -971,6 +971,7 @@ fa javabu||||respond (give an answer)||responder (contestar)|||||||||||||respond
 fa jene||||give birth (beget, generate, breed)|donner naissance (procréer, engendrer, accoucher)|dar a luz (enngendrar, parir, procrear)||родить|||生む||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
 fa kai||||open||abrir|||||||||||||malfermi|aukaista (avata)|otworzyć, otwierać
 fa kancha dake||||glaze (vitrify)||vidriar (glasear)||глазуровать|||||||||||||szklić (glazurować)
+fa karga||||charge (load)|charger|cargar|carregar|обременять|||||||||||ŝarĝi|lastata (ladata)|
 fa karma||||activate (enable, turn on, trigger)|activer (allumer, mettre en marche, déclencher)|||||||||||||||panna toimintaan|aktywować (włączyć, uruchomić)
 fa kegu||||visit||visitar|||||||||||||vizito|käydä (vierailla)|odwiedzić, odwiedzać
 fa komputa||||compute (to process data)||calcular (computar)||||||||||||||käsitellä dataa|policzyć, liczyć, przetwarzać dane
@@ -987,7 +988,7 @@ fa maf||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||
 fa mal||||own (possess, have)||poseer (tener, ser dueño de)||||||||||||||omistaa|mieć (posiadać)
 fa marke||||mark (leave a mark)||marcar||||||||||||||merkitä (jättää jälki)|zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad
 fa mas||||increase||||||||||||||||lisätä (enentää)|
-fa mas forte||||reinforce (replenish)|||||||||||||||||wesprzeć (wzmocnić, zasilić)
+fa mas liki||||reinforce (replenish)|||||||||||||||||wesprzeć (wzmocnić, zasilić)
 fa masim||||maximize|||||||||||||||||zmaksymalizować
 fa mata||||kill||matar (morir, asesinar)|matar||||||||||||mortigi|tappaa|zabić, zabijać
 fa meche||||compete (have a match)||competir||||||||||||||otella|konkurować, rywalizować; odbyć mecz, odbywać mecz
@@ -1226,8 +1227,6 @@ fora|||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)
 forke|||eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|fork||tenedor|||||||||||||forko|haarukka|widelec
 forma|||eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)|form (shape, morph)||forma (figura, morfo)|||||||||||||formo|muoto (morfi)|forma, kształt, morf
 forma so||||morpheme||morfema||||||||||||||morfeemi|morfem
-forte|||fra:fort, spa:fuerte, por:forte, eng:force|strong||fuerte|||||||||||||forta|voimakas (vahva)|silny
-forte ta||||force (strength, power, coercion)||fuerza|||||||||||||forto|voima|siła
 forum|||eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)|forum (public space)||foro (espacio público)|||||||||||||forumo|foorumi|forum
 foti||||light (bright)||claro (luminoso)|||||||||||||luma|valoisa|jasny, świetlny
 foto|||ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-|light (illumination)|lumière|luz (iluminación)|luz|свет|نور‎|光|光|빛 (광)|ánh sáng|प्रकाश (रौशनी)|আলো|cahaya (nur)|mwanga (nuru)|ışık|lumo|valo|światło, oświetlenie
@@ -1436,7 +1435,7 @@ guanshe|||zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 
 Guatemala|desha|GT||Guatemala||Guatemala|||||||||||||Gvatemalo|Guatemala|Gwatemala
 gubu|bio|Hippopotamus amphibius|ful:ngabu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)|hippopotamus|hippopotame |hipopótamo|hipopótamo|гиппопотам|فَرَس نَهْر‎|河马|河馬|하마|lợn nước (hà mã)|दरियाई घोड़ा|জলহস্তী|kuda nil (badak air)|kiboko|su aygırı (hipopotam)|hipopotamo|virtahepo|hipopotam
 gui|||zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|ogre (troll, goblin)||ogro (gnomo, trol, duende, trasgo)|||||鬼||||||||ogro (trolo)|peikko|ogr (trol, goblin)
-guipapil|bio|Papaver orientale||oriental poppy|pavot d'Orient|||мак восточный||鬼罂粟 (東方罌粟)|オニゲシ||||||||||mak wschodni
+gui papi|bio|Papaver orientale||oriental poppy|pavot d'Orient|||мак восточный||鬼罂粟 (東方罌粟)|オニゲシ||||||||||mak wschodni
 gujarati|nas|||Gujarati||gujaratí||||||||||||||gujarati (eräs intialainen kieli)|Gudżarat
 guku hua|bio|Chrysanthemum morifolium|zho:菊 (jú), yue:菊 (guk1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:قحوان (quḥwān)|florist's chrysanthemum||crisantemo||хризантема садовая||菊花|キク||||||||||
 gul|||ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|ghoul|goule|gul||гуль (вурдалак)|غُول‎|||||||||||ghouli|ghul
@@ -2244,6 +2243,8 @@ liga di sanduku|din|||Ark of the Covenant|Arche d'Alliance|arca de la Alianza|Ar
 ligu|||hin:लघु (laghu), ben:লঘু (laghu) + eng:light, spa:ligero, por:ligeiro, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki|light (requiring little effort, easy, soft, minute, unimportant, etc.)||leve|leve|||||||||||||kevyt (hento, pehmeä, helppo, jne.)|
 ligu veze di||||light (light-weight)|léger|ligero|ligeiro|||||||||||||kevyt (kevytpainoinen)|lekki
 Lihtenstain|desha|LI||Liechtenstein||Liechtenstein||||||||||||||Liechtenstein|Liechtenstein
+liki|||zho:力 (lì), yue:力 (lik6), jpn:力 (riki), kor:력 (ryeok), vie:lực|force (strength, power)|force|fuerza|força|сила|قُوَّة‎|力|力||||||||forto|voima|siła
+liki di||||strong||fuerte|||||||||||||forta|voimakas (vahva)|silny
 lila|bio|Syringa vulgaris|eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku), tur:leylak, ara:(laylak)|lilac|lilas|lila||||||||||||||syreeni|lilak
 lila rang|rang|||lilac color||lila (de color lila)||||||||||||||violetti (liila)|liliowy
 lili|||eng:little|little (small; a little, somewhat)|petit|pequeño|pequeno|маленький (малый)||小|小さい|작은|nhỏ|छोटा||||küçük|malgranda|pieni (pienesti, vähän)|mały; mało, trochę, nieco
@@ -2326,11 +2327,11 @@ Madagasi|desha|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 madagasi di||||Malagasy||malgache||||||||||||||madagaskarilainen (malagassi)|madagaskarski; malagaski
 maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
 magesium|mate|Mg||magnesium|magnésium|magnesio|magnésio|магний||镁|マグネシウム|마그네슘|magiê|भ्राजातु|ম্যাগনেসিয়াম|magnesium|magnesi|magnezyum|magnezio|magnesium|magnez
-magi||||magical||magical||||||||||||||taianomainen (maaginen)|magiczny
-magi|||eng:magic, spa:por:magia, fra:magie, rus:ма́гия (mágija), rus:マジック (majikku)|magic||magia|||||||||||||magio|taika (taikuus, magia)|magia
+magi|||fas: مغ‎ (moğ), ara: مُوغِيّ‎ (mūḡiyy), ell:μάγος (magos), eng:magic, fra:magie, spa:por:magia, rus:магия (magiya) + zho:魔 (mó), jpn:魔 (ma), vie:ma|magic||magia|||||||||||||magio|taika (taikuus, magia)|magia
 magi asar||||spell (enchantment)|||||||||||||||||zaklecie
-magi ja||||magician (sorcerer)||mago||||||||||||||taikuri|magik, czarownik
-Magribe desha|desha|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
+magi di||||magical||magical||||||||||||||taianomainen (maaginen)|magiczny
+magi ja||||magician (sorcerer, mage, wizard)||mago|mago|чародей (маг)||魔法师|魔法使い|||||||||taikuri|magik, czarownik
+Magribi desha|desha|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
 Magyar|desha|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 mahala|||ara: مَحَلَّة‎ (maḥalla), hin:मुहल्ला (muhallā), tur:mahalle|quarter (neighbourhood, district, locality, section of town)|quartier|barrio (cuartel)|quarteirão|квартал|مَحَلَّة‎|||||मुहल्ला||||mahalle|kvartalo|kaupunginosa (kortteli, naapurusto)|dzielnica
 mais|||eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|corn (maize)||maíz||||||||||||||maissi|kukurydza
@@ -2394,7 +2395,7 @@ mas di fen|||spa:mayoría, por:maioria, eng:majority, fra:majorité|majority||ma
 mas fili||||prefer (favor)|préférer|preferir (favorecer)|preferir|предпочитать|فَضَّلَ|比较喜欢|||||||||preferi (pliŝati)|suosia (pitää parempana)|preferować (woleć)
 mas fili di||||favorite (preferred)|favori (préféré)|favorito (preferido)|favorito (preferido)|любимый|مُفَضَّل||好き (お気に入りの)|||||kegemaran||||suosikki (suosittu)|ulubiony
 mas fili jui||||favoritism|favoritisme|favoritismo|favoritismo|фаворитизм (кумовство)||||||||||||suosinta (favoritismi)|
-mas forte ta||||reinforcements||refuerzos||пополнение||加固|増派 (援兵)||||||||||wsparcie (wzmocnienie, zasilenie)
+mas gun||||reinforcements||refuerzos||пополнение||加固|増派 (援兵)||||||||||wsparcie (wzmocnienie, zasilenie)
 mas ka basa||||too much||demasiado|||||||||||||tro|liikaa|zbyt
 masa|||eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|mass (quantity of matter)|masse|masa (trozo, pedazo)|massa|масса|كتلة|质量|質量|질량|khối lượng|द्रव्यमान||massa||kütle|maso|massa|masa
 masa mula||||tuber (bulb)|tubercule|tubérculo|tubérculo|клубень|||芋 (塊茎)||||||||||bulwa
@@ -2430,7 +2431,7 @@ medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (
 meden|||ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)|مَيْدَان‎|广场|広場|광장|quảng trường|मैदान|ময়দান||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
 meden di||||open (wide, spacious)||abierto (extenso)||||||||||||||avara (aava, aukea)|otwarty (przestrzenny)
 meden fobi||||agoraphobia||agorafobia||||||||||||||agorafobia (avaran paikan kammo)|agorafobia
-meden papil|bio|Papaver rhoeas||corn poppy|coquelicot|amapola silvestre|papoila|мак самосейка||虞美人 (雛罌粟)|ヒナゲシ||||||||||mak polny
+meden papi|bio|Papaver rhoeas||corn poppy|coquelicot|amapola silvestre|papoila|мак самосейка||虞美人 (雛罌粟)|ヒナゲシ||||||||||mak polny
 medi||||middle (the part in between)||medio|meio (metade)|||||||||||||väli|środek
 medi|||spa:medio, eng:medium, hin:माद्धयम (mādhyam)|medium (intermediate, mean)|medio|medio (mediano)|moyen|средний|مُتَوَسِّط|中型|||||||||mezo|keskiverto (keski-)|średni
 medi face||||interface|||||||||||||||||interfejs
@@ -2834,7 +2835,7 @@ pai|||eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পা�
 pake|||eng:pack, rus:пакет (paket), hin:पैकेट (pækeṭ), deu:tur:paket, fra:paquet, spa:paquete, por:pacote|pack (package)|paquet|paquete|pacote|пакет||||||पैकेट||||paket|pako|pakkaus (paketti)|paczka, paka
 Pakistan|desha|||Pakistan||Pakistán||||||||||||||Pakistan|Pakistan
 paksi|bio|Aves|hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)|bird|oiseau|pájaro (ave)||||||||पक्षी|পাখী||||birdo|lintu|ptak
-paku|||zho:迫 (pò), yue:迫 (baak1), wuu:迫 (paq4), jpn:迫 (haku), vie:bách|force (use force, coerce)||forzar (usar fuerte, imponer, coaccionar)|||||||||||||||
+paku|||zho:迫 (pò), yue:迫 (baak1), wuu:迫 (paq4), jpn:迫 (haku), vie:bách|coerce (use force, compel)||forzar (usar fuerte, imponer, coaccionar)|||||||||||||||
 palaba|||eng:palaver, krio:plabah, kon:palaba|conflict (argument, dispute, quarrel)|querelle (dispute, palabre)|||||||||||||||riita (kiista)|
 paladium|mate|Pd||palladium||paladio|||||||||||||paladio|palladium|pallad
 Palau|desha|PW||Palau||Palaos||||||||||||||Palau|Palau
@@ -3518,9 +3519,9 @@ Solomon nesia|desha|SB||Solomon Islands||Islas Salomón||||||||||||||Salomon-saa
 Somal|desha|SO||Somalia||Somalia||||||||||||||Somalia|Somalia
 Somal Desha|desha|||Somaliland||Solamilandia||||||||||||||Somalimaa|Somaliland
 sona|||fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: سِنَة (sina)|sleep|sommeil|sueño|sono||نَوْم‎|||||नींद|||||dormo|nukkuminen (uni)|sen
-sona||||sleep|dormir|dormir|dormir|спать||睡觉 (困觉)|寝る|자다||सोना|শোয়া|tidur|kulala|uyumak|dormi|nukkua|spać
+be sona||||sleep|dormir|dormir|dormir|спать||睡觉 (困觉)|寝る|자다||सोना|শোয়া|tidur|kulala|uyumak|dormi|nukkua|spać
 sona kamar||||bedroom|chambre à coucher|dormitorio|quarto (dormitório)|спальня||卧室 (寝室)|寝室|침실|phòng ngủ|शयनकक्ष||kamar tidur|chumba cha kulala|yatak odası|dormoĉambro|makuuhuone|sypialnia
-sona papil|bio|Papaver somniferum|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|opium poppy|pavot somnifère|adormidera (amapola real)|papoila-dormideira|мак снотворный||鴉片罌粟|ケシ||||||mpopi||||mak lekarski
+sona papi|bio|Papaver somniferum|eng:poppy, spa:amapola, por:papoula, swa:mpopi, hin:पॉपी (pŏpī), ben:পপি (papi), jpn:ポピー (popī)|opium poppy|pavot somnifère|adormidera (amapola real)|papoila-dormideira|мак снотворный||鴉片罌粟|ケシ||||||mpopi|||unikko (unikukka)|mak lekarski
 sona tabi||||drowsy|ensommeillé (somnolent)|soñoliento (somnífero)|sonolento|сонный|||||||||||dormema|unelias|
 song|bio|Pinus|zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)|pine tree||pino|pinheiro|сосна||松|マツ|||चीड़|||||pino|mänty|sosna
 soni|||eng:sonic, fra:son, spa:son,sonido, por:som, ita:suono, + kor:소리 (sori) + zho:声 (shēng), wuu:声 (sən)|sound (audio)|son|sonido (audio)|som||||||||||||sono|ääni|dźwięk, brzmienie
@@ -3982,8 +3983,9 @@ zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:
 zar di||||random||azar (aleatorio)|||||||||||||hazarda|sattumanvarainen|losowy
 zar kube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
 Zardush||||Zoroaster|Zoroastre|Zoroastro||Зороастр|||||||||||Zoroastro|Zarathustra|Zaratusztra
-Zardush din||||Zoroastrianism|zoroastrisme|zoroastrismo|||||||||||||zoroastrismo|zarathustralaisuus|zaratusztrianizm
-Zardush din ja||||Zoroastrian|zoroastrien|zoroastriano||зороастризм|||||||||||zoroastristo|zarathustralainen|zaratrustianin
+zardush din||||Zoroastrianism|zoroastrisme|zoroastrismo|||||||||||||zoroastrismo|zarathustralaisuus|zaratusztrianizm
+zardush din ja||||Zoroastrian|zoroastrien|zoroastriano||зороастризм|||||||||||zoroastristo|zarathustralainen|zaratrustianin
+zardush magi ja||||magus (Zoroastrian priest)||mago|mago||مَجُوس‎|||||||||||zarathustralainen pappi|
 ze|prep.|||from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
 ze saba da||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
 zebra|bio|Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra|zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra
