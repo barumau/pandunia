@@ -183,9 +183,9 @@ bah - bah
 bai - baie (golf)  
 baka fan - terre cuite  
 baka ja - boulanger  
-baki - blanc  
-baki margarite - marguerite  
-baki salmon - saumon du Pacifique (saumon kéta, saumon chien)  
+baku - blanc  
+baku margarite - marguerite  
+baku salmon - saumon du Pacifique (saumon kéta, saumon chien)  
 baldi - seau  
 balon - ballon  
 balon peshe - poisson-globe  
@@ -227,11 +227,11 @@ bashi jinse - genre grammatical
 baske - panier (panier de basketball)  
 baske bol - basketball  
 bateri - pile (batterie)  
-bato - huit (8)  
+bati - huit (8)  
 baton - bâton (canne, tige)  
 baton kasa - cage  
 bau di - précieux  
-bau sheke - pierre précieuse (joyau)  
+bau sheku - pierre précieuse (joyau)  
 bazar - marché (bazar)  
 baze - base  
 baze bol - baseball  
@@ -336,7 +336,7 @@ dai dom - palais (château, manoir)
 dai hai - océan  
 dai pau - canon  
 dai pote - chaudron  
-dai sheke - rocher  
+dai sheku - rocher  
 daka - couvrir  
 dalil - preuve  
 danger - cloche  
@@ -391,7 +391,7 @@ dosiljeni - domestiqué (apprivoisé)
 dosiljenita - domestiquer (apprivoiser)  
 du - deux (2)  
 dudu - insecte  
-duga - lire  
+dugu - lire  
 dulbashi - bilingue  
 dunia - monde  
 dur - durée  
@@ -482,7 +482,7 @@ fa pul bon - perfectionner (parfaire)
 fa re - répéter  
 fa retro - remettre  
 fa sela - conseiller  
-fa shipu - mouiller  
+fa shipi - mouiller  
 fa shopi - acheter  
 fa shula - apprendre (étudier)  
 fa sing foto - étinceler  
@@ -547,7 +547,7 @@ fute marke - empreinte de pied
 ga - si  
 gabur - tombe (enterrer)  
 gabur bagi - cimetière  
-gabur sheki - pierre tombale  
+gabur sheku - pierre tombale  
 galaksi - galaxie  
 Galia - Gaule  
 galope - galop  
@@ -585,15 +585,15 @@ giau - enseigner
 gida - guider  
 gida buku - guide touristique  
 gida ja - guide  
+gioka - jade  
 gitar - guitare  
-giuku - jade  
 glis - glisser  
 glu bande - pansement (sparadrap)  
 glu di - adhésif (collant)  
 glu fan - argile  
 glu grafi - autocollant  
 gol - but (destination)  
-gola sheki - pavé  
+gola sheku - pavé  
 gorila - gorille  
 goton - coton  
 grafi kata - bande dessinée  
@@ -660,7 +660,7 @@ hiyar - concombre
 hobi ja - amateur  
 hogo - feu  
 hogo shan - volcan  
-hogo sheki - silex  
+hogo sheku - silex  
 hogo tehni - feu d’artifice  
 hoki - hockey  
 hor - heure  
@@ -719,7 +719,7 @@ jirafa - giraffe
 jiu - vie  
 jiu - vivant  
 joven - jeune (juvénile)  
-joven muku - pousse  
+joven moka - pousse  
 jude ja - juje  
 jul - joule (J)  
 jung - centre  
@@ -895,11 +895,11 @@ lifafa - envelopper (emballer)
 liga - ligue (alliance)  
 liga di sanduku - Arche d'Alliance  
 ligu veze di - léger  
-liki - force  
+lika - force  
 lila - lilas  
 lili - petit  
 lili kaboga - courgette  
-lili sheki - caillou  
+lili sheku - caillou  
 limon - citron  
 lin - ligne (fil)  
 lin so - fibre  
@@ -927,8 +927,8 @@ long krokodil - crocodile
 long pipre - poivre long  
 long tire - tender  
 lotra - loutre  
-lugi - vert  
-luku - six (6)  
+luga - vert  
+luka - six (6)  
 luna - lune  
 luna keke - gâteau de lune  
 luta ja - brigand (bandit)  
@@ -1013,8 +1013,12 @@ mirde - faible
 Misri - Égypte  
 mitre - mètre  
 mode - mode (façon, manière)  
+moka - arbre  
+moka ban - planche  
+moka jong parke - arboretum, pépinière  
+moka tana - bûche  
 mol kan - moulin  
-mol sheki - meule  
+mol sheku - meule  
 mole - mole (unité)  
 moli - jasmin  
 mos - mousse  
@@ -1022,10 +1026,6 @@ mos di - moussu
 mosim - saison  
 moto - moteur  
 muka - visage  
-muku - arbre  
-muku ban - planche  
-muku jong parke - arboretum, pépinière  
-muku tana - bûche  
 mula - racine  
 mur - mur  
 mur kaguji - papier peint  
@@ -1323,7 +1323,7 @@ shava mosim - mousson
 she - chose  
 she hal - situation (état de choses)  
 shefe - chef  
-sheki - pierre  
+sheku - pierre  
 shia - faction (clique)  
 shia islam din - chiisme  
 shikaya - plainte (lamentation)  
@@ -1522,7 +1522,7 @@ yatim dom - orphelinat
 yau di - nécessaire  
 yauta - besoin  
 ye - oui  
-yeki kanon - Yi King  
+yeka kanon - Yi King  
 Yesu - Jésus  
 Yesu mesi - Jésus-Christ  
 yogo - joug  

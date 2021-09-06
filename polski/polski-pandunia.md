@@ -73,7 +73,7 @@ antymon - estibium
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabi  
 arachnofobia - arane fobi  
-arboretum - muku jong parke  
+arboretum - moka jong parke  
 arbuz - arbuza  
 archipelag - nesia jama  
 architekt - bina plan ja  
@@ -182,7 +182,7 @@ bezpieczny - sekur
 bezzębny - dante na di  
 Bhutan - Butan  
 Białoruś - Belarus  
-biały - baki  
+biały - baku  
 Biblia - Biblia  
 biblioteka - kitabu kan  
 bibliotekarz - kitabu minister  
@@ -233,7 +233,7 @@ brodawka - zeyil
 brom - bromium  
 broń - arme  
 broń nuklearna - kerne arme  
-bruk - gola sheki  
+bruk - gola sheku  
 brunatnica - brun alga  
 Brunei Darussalam - Brunei  
 brzmieć, wydać dźwięk, wydawać dźwięk - fa soni  
@@ -411,7 +411,7 @@ czwartek - var chatre
 czyn, uczynek - fate  
 czysty (higieniczny, sanitarny) - salu safa di  
 czysty - safa  
-czytać - duga  
+czytać - dugu  
 cząstka (ziarno, kula, pocisk) - dane  
 często - pa poli mar  
 częstotliwość - poli mar ta  
@@ -452,7 +452,7 @@ Demokratyczna Republika Konga - Kinshasa Kongo
 demokratyczny - demo krati di  
 demon - demon  
 dentysta - dantomediker  
-deska - muku ban  
+deska - moka ban  
 deszcz - shava  
 deszczowy -   
 detal, szczegół - detal  
@@ -490,19 +490,19 @@ dorsz atlantycki - atlanti kade
 dorsz pacyficzny - pase hai kade  
 doskonalić (optymalizować, ulepszać) - fa pul bon  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fati  
-dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - daki  
+dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - daku  
 dotyczyć - tochu  
 dowieść, dowodzić; zeznać, zeznawać - fa dalil  
 dowód; zeznanie - dalil  
 dowódca, kierownik - lida ja  
 dozwolony (dopuszczalny, zezwolony, halal) - halal  
 dramat - drame  
-drewno - muku mate  
+drewno - moka mate  
 droga, szosa, ulica - dau  
 drożdże - hamir  
 drużyna - tim  
 dryfować (pływać, płynąć) - boyu  
-drzewo - muku  
+drzewo - moka  
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - chira  
 drzwi wyjściowe - chutu mun  
 drzwi, brama, portal - mun  
@@ -615,7 +615,7 @@ Estonia - Esti
 etap, faza - faze  
 Etiopia - Etiopia  
 etniczny - zuku di  
-etyka - deki logi  
+etyka - deku logi  
 etymologia - loga asal  
 Eurazja - eurasia  
 euro (€) - euro  
@@ -790,7 +790,7 @@ gówno - shite
 gąbka - esponje  
 gęś - ganse  
 gładki - lis  
-głaz - dai sheke  
+głaz - dai sheku  
 głos - vote  
 głoska - fon  
 głosować (złożyć głos) - fa vote  
@@ -953,7 +953,7 @@ jaskinia - gua
 jasnoniebieski (lazurowy) - sama blu  
 jasny, czysty - ming  
 jasny, świetlny - foto di  
-jastrun właściwy - baki margarite  
+jastrun właściwy - baku margarite  
 jaszczurka - saur  
 jazz, dżez - jaze  
 jaśmin - moli  
@@ -1014,9 +1014,9 @@ kalkulować - fa hisabu
 Kambodża - Kambojia  
 kamera, aparat fotograficzny - foto grafi gi  
 Kamerun - Kamerun  
-kamieniarz - sheki jang ja  
-kamień (kawał skały) - sheki  
-kamyk - lili sheki  
+kamieniarz - sheku jang ja  
+kamień (kawał skały) - sheku  
+kamyk - lili sheku  
 Kanada - Kanada  
 kanapka - sanduiche  
 kanał - kanal  
@@ -1032,7 +1032,7 @@ kapelusz, czapka - tupi
 kaper (korsarz) - nave kape ja  
 kapeć (papeć, bambosz) - babuche  
 kapitan - nave shefe  
-kapusta pekińska - baki choi  
+kapusta pekińska - baku choi  
 Karaiby - Karibe  
 karaoke - karaoke  
 karat - kirate  
@@ -1062,7 +1062,7 @@ kebab - kababu nama
 keczup - kechape  
 kelwin - kelvin  
 Kenia - Kenya  
-keta - baki salmon  
+keta - baku salmon  
 kichać (apsik!) - achi  
 kiedy? - ke riti  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - fa kanal  
@@ -1091,7 +1091,7 @@ klatka piersiowa - sina kasa
 klawiatura - buton ban  
 klawisz, przycisk, przełącznik, guzik - buton  
 klej - glu  
-klejnot - bau sheke  
+klejnot - bau sheku  
 klescz (roztocze) - akare  
 klimat - klima  
 klimatologia - klima logi  
@@ -1216,7 +1216,7 @@ kryzys - krizi
 kryzysowy - krizi  
 krzak (krzew) - tal moku  
 krzem - silikium  
-krzemień - hogo sheki  
+krzemień - hogo sheku  
 krzyknąć, krzyczeć - krita  
 krzywdzący (szkodliwy) - avar ja  
 krzyż - krus  
@@ -1457,7 +1457,7 @@ Meksyk - Mehiko siti
 melodia - melodi  
 melodyczny - melodi  
 melon koreański - aroma melon  
-melon miodowy - lugi melon  
+melon miodowy - luga melon  
 Merkury - Merkur  
 mesjański - mesi di  
 metal - metal  
@@ -1530,7 +1530,7 @@ mleko sojowe - soi milke
 mniej - min  
 mniejszościowy - minor  
 mniejszość - min di fen  
-moczyć (zmoczyć) - fa shipu  
+moczyć (zmoczyć) - fa shipi  
 moda, trend - fashon  
 model (podobieństwo, symulować) - sam sifa she  
 model, wzór, wzorzec, projekt - model  
@@ -1549,8 +1549,8 @@ Mongolski - mongol di
 monizm - un she sim  
 monolog - auto loga  
 monoteizm - un deu sim  
-moralność, etyka - deki  
-moralny - deki di  
+moralność, etyka - deku  
+moralny - deku di  
 morela (śliwka) - briko  
 morfem - forma so  
 morski - hai di  
@@ -1594,7 +1594,7 @@ mądry - sofi
 męczyć się (nużyć się) - be fatige  
 męski - man  
 mężczyzna, dorosły samiec - matur man  
-młode drzewo - joven muku  
+młode drzewo - joven moka  
 młodość - joven ta  
 młody - joven  
 młodzież, młoda osoba - joven jan  
@@ -1614,7 +1614,7 @@ nadać, wysłać pocztą - fa posta
 Naddniestrze - Transe Nistre Desha  
 nadzieja, życzenie - asha  
 nagi, goły, obnażony - nude  
-nagrobek - gabur sheki  
+nagrobek - gabur sheku  
 nahuatl - nava  
 najmniej, minimalnie - minim  
 naleśnik - krepe  
@@ -1789,7 +1789,7 @@ ocena, krytyka - piping
 ocenić, oceniać, recenzować, komentować, krytykować - fa piping  
 ocet - vin suan  
 oczywiście - klar!  
-odbiorca - daki ja  
+odbiorca - daku ja  
 odbić, odbijać - mira  
 odbyt - anus  
 odcisk, ślad; stempel, pieczęć - chape  
@@ -1849,7 +1849,7 @@ orzech ziemny - geo dou
 oset - kardon  
 oset zwisły - pende kardon  
 Osetia Południowa - Sude Iria (Alonia)  
-osiem (8) - bato  
+osiem (8) - bati  
 osioł - iha  
 osm - osmium  
 osmoza - osmos  
@@ -1862,7 +1862,7 @@ osobisty, intymny, prywatny - auto di
 ostatni, końcowy - fin me  
 ostropest plamisty - milke kardon  
 ostrożeń lancetowaty - pero kardon  
-ostrzarka (kamień młyński) - mol sheki  
+ostrzarka (kamień młyński) - mol sheku  
 oswoić (oswajać, tresować, trenować) - dosila  
 oswojony (potulny, posłuszny) - dosili  
 oszacować, szacować, przybliżyć, przybliżać - fa yagu  
@@ -1991,7 +1991,7 @@ pierś - sina
 pierścień - ring  
 pierścień, pierścionek; obrączka - angul ring  
 pies - vaf  
-pień - muku tana  
+pień - moka tana  
 piknik - ekso yam  
 pilaw - polau  
 pilot - pilote  
@@ -2593,10 +2593,10 @@ sikh - siki din ja
 sikhizm - siki din  
 siki - pish  
 silnik - moto  
-silny - liki di  
+silny - lika di  
 Singapur - Singapur  
 się (nawzajem, wzajemnie) - se kon  
-siła - liki  
+siła - lika  
 siła, autorytet, władza - sultan  
 siły powietrzne - air gun  
 skand - eskandium  
@@ -2702,7 +2702,7 @@ sto (100) - sen
 stojak (wieszak) - libu baze  
 stokrotka - margarita  
 stokrotka pospolita - english margarita  
-stolarz - muku jang ja  
+stolarz - moka jang ja  
 stop; przerwa, zatrzymanie - ting  
 stopa - fute  
 stoper (sekundomierz) - durmetrer  
@@ -2776,10 +2776,10 @@ szeroki - kuan
 szerokość - kuan ta  
 szew - sutur  
 szewc - sapatu ja  
-sześcian (kostka) - luku fase  
+sześcian (kostka) - luka fase  
 sześcian - kube  
-sześciokąt (sześciobok) - luku gona  
-sześć (6) - luku  
+sześciokąt (sześciobok) - luka gona  
+sześć (6) - luka  
 szisz kebab - shish kababu  
 szkielet - oste jama  
 szklić (glazurować) - fa kancha dake  
@@ -3101,7 +3101,7 @@ weranda, balkon, taras, ganek - veranda
 wermut - vermute  
 wersja (wariacja, edycja, wydanie) - version  
 wesoły, ucieszony - suka  
-wesprzeć (wzmocnić, zasilić) - fa mas liki  
+wesprzeć (wzmocnić, zasilić) - fa mas lika  
 wewnętrzny - in di  
 wewnętrzny - in jene di  
 wełna (runo owcze) - meme kesha  
@@ -3274,7 +3274,7 @@ wyświetlać - lanse grafi
 wzajemny - se kon su  
 wzmacniać (wzmocnić) - dai darja  
 wzmacniać się (wzmagać, pogłębiać się) - be teza  
-wzmocnić (wzmocnić, wzmóc) - fa liki  
+wzmocnić (wzmocnić, wzmóc) - fa lika  
 wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się) - be gau  
 wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać - fuka  
 wzrastać - be raste  
@@ -3416,7 +3416,7 @@ zgodzić się (umówić się) - fa trati
 ziarno (nasienie) - seme  
 ziarno, nasienie - seme dane  
 zielenina - choi  
-zielony - lugi  
+zielony - luga  
 ziemia, grunt, gleba - geo  
 ziemniak - patate  
 ziemny (glebowy, gruntowy) - darti  
@@ -3542,7 +3542,7 @@ zły, zrujnowany, zepsuty - harabu
 źródło, początek, pochodzenie - asal  
 źródłowy, początkowy, oryginalny - asal di  
 żaba - krokroke  
-żad - giuku  
+żad - gioka  
 żal, smutek - duke  
 żart - joke  
 żartowniś, dowcipniś - joke ja  

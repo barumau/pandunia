@@ -90,9 +90,9 @@ bagre oselote - gato-do-mato (gato-maracajá-mirim)
 bai - baía  
 baka fan - terracota  
 baka ja - padeiro  
-baki - branco  
-baki margarite - margarita-maior  
-baki salmon - salmão-cão (salmão-keta)  
+baku - branco  
+baku margarite - margarita-maior  
+baku salmon - salmão-cão (salmão-keta)  
 baluta - carvalho  
 bambu - bambu  
 bamia - quiabo  
@@ -113,11 +113,11 @@ bashi jinse - gênero gramatical
 baske bol - basketball  
 bata - pato  
 bateri - pilha (bateria)  
-bato - oito (8)  
+bati - oito (8)  
 baton - vara (bastão)  
 baton kasa - gaiola (jaula)  
 bau di - precioso  
-bau sheke - pedra preciosa (gema)  
+bau sheku - pedra preciosa (gema)  
 bazar - mercado (bazar)  
 baze - base  
 baze bol - basebol (beisebol)  
@@ -219,8 +219,8 @@ chuzable - opção
 dai dom - palácio (mansão, palacete)  
 dai hai - oceano  
 dai pau - canhǎo  
-dai sheke - pedregulho  
-daki - ter (achar, receber)  
+dai sheku - pedregulho  
+daku - ter (achar, receber)  
 dalil - prova  
 danger - sino (campainha)  
 danse - baile (danza)  
@@ -264,7 +264,7 @@ dong - este (leste)
 donivi - generoso (dadivoso, mão-aberta)  
 du - dois (2)  
 dudu - inseto  
-duga - ler  
+dugu - ler  
 dulbashi - bilíngue  
 dunia - mundo  
 dur - duração  
@@ -341,7 +341,7 @@ fa pul bon - aperfeiçoar
 fa re - repetir  
 fa retro - retornar  
 fa sela - aconselhar  
-fa shipu - molhar  
+fa shipi - molhar  
 fa shofer - conduzir  
 fa shopi - comprar  
 fa shula - aprender  
@@ -397,7 +397,7 @@ fute marke - pegada
 ga - se  
 gabur - sepultura (túmulo, enterrar)  
 gabur bagi - cemitério  
-gabur sheki - lápide  
+gabur sheku - lápide  
 galaksi - galáxia  
 Galia - Gália  
 galope - galope  
@@ -425,8 +425,8 @@ Germania - Germânia
 giau - ensinar (lecionar)  
 gida - guiar  
 gida ja - guia  
+gioka - jade  
 gitar - guitarra  
-giuku - jade  
 glis - deslizar  
 glu bande - penso (band-aid)  
 glu di - pegajoso (adesivo)  
@@ -492,7 +492,7 @@ hiyar - pepino
 hobi ja - amador  
 hogo - fogo  
 hogo shan - vulcão  
-hogo sheki - pederneira  
+hogo sheku - pederneira  
 hogo tehni - fogos de artifício  
 hoki - hóquei  
 hor - hora  
@@ -712,10 +712,10 @@ liga - liga (aliança)
 liga di sanduku - Arca da Aliança  
 ligu - leve  
 ligu veze di - ligeiro  
-liki - força  
+lika - força  
 lili - pequeno  
 lili kaboga - abobrinha  
-lili sheki - pedrinha  
+lili sheku - pedrinha  
 limon - limão  
 lin - linha (fio)  
 lin so - fibra  
@@ -742,8 +742,8 @@ long krokodil - crocodilo
 long tire - estirar  
 lotra - lontra  
 lou - vazar  
-lugi - verde  
-luku - seis (6)  
+luga - verde  
+luka - seis (6)  
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  
@@ -827,15 +827,15 @@ Misri - Egipto (Egito)
 miti - encontrar  
 mitre - metro  
 mode - modo (maneira, jeito)  
+moka - árvore  
+moka ban - tábua (prancha)  
+moka tana - tora  
 mol kan - moenda (moinho)  
-mol sheki - mó  
+mol sheku - mó  
 mole - mol  
 moli - jasmim  
 mosim - estação (sazão)  
 moto - motor  
-muku - árvore  
-muku ban - tábua (prancha)  
-muku tana - tora  
 mula - raíz  
 mur - muro (muralha)  
 mur kaguji - papel de parede  
@@ -1101,7 +1101,7 @@ shava mosim - monção
 she - coisa  
 she hal - situaçao  
 shefe - chefe  
-sheki - pedra  
+sheku - pedra  
 shia - facção  
 shia islam din - xiismo  
 shikaya - queixa (lamento, reclamação)  

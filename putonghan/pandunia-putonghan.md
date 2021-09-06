@@ -95,10 +95,10 @@ bagre oselote - 小斑虎貓
 bah - 呸  
 bai - 击败  
 baka fan - 陶瓦  
-baki - 白  
-baki choi - 白菜 (小白菜)  
-baki margarite - 法蘭西菊  
-baki salmon - 大麻哈鱼 (狗鮭)  
+baku - 白  
+baku choi - 白菜 (小白菜)  
+baku margarite - 法蘭西菊  
+baku salmon - 大麻哈鱼 (狗鮭)  
 baluta - 橡树  
 bambu - 竹子  
 bamia - 秋葵  
@@ -119,10 +119,10 @@ bashi jinse - 文法的性
 baske bol - 篮球  
 bata - 鸭  
 bateri - 电池  
-bato - 八 (8)  
+bati - 八 (8)  
 baton kasa - 笼  
 bau di - 宝贵  
-bau sheke - 宝石  
+bau sheku - 宝石  
 bazar - 市场  
 baze - 底部  
 baze bol - 棒球  
@@ -222,9 +222,9 @@ dai dom - 殿 (宫殿, 宅第)
 dai hai - 大洋 (大海)  
 dai pau - 大炮  
 dai pote - 炼药锅  
-dai sheke - 磐石  
-daki - 获得  
-daki shitu - 得失  
+dai sheku - 磐石  
+daku - 获得  
+daku shitu - 得失  
 danger - 钟 (摇铃)  
 Danske - 丹麦的  
 dante balute - 槲树  
@@ -270,7 +270,7 @@ dosili - 驯服的
 du - 二 (2)  
 dua - 祈祷  
 dudu - 昆虫  
-duga - 读 (看)  
+dugu - 读 (看)  
 dunia - 世界  
 dur - 时间  
 durabli - 耐用的  
@@ -325,7 +325,7 @@ fa pede - 放屁
 fa ratibu - 整理  
 fa re - 重复  
 fa shibai - 输  
-fa shipu - 弄湿  
+fa shipi - 弄湿  
 fa shofer - 开车  
 fa shopi - 买  
 fa shula - 学习  
@@ -379,7 +379,7 @@ fute marke - 脚印
 ga - 如果 (要是)  
 gabur - 坟墓 (埋葬)  
 gabur bagi - 公墓 (墓地)  
-gabur sheki - 墓石 (墓碑)  
+gabur sheku - 墓石 (墓碑)  
 galaksi - 恆星系  
 Galia - 高卢  
 galte - 错误  
@@ -405,15 +405,15 @@ gida - 导游
 gida buku - 指南  
 gida ja - 导游  
 ging lin - 經紗  
+gioka - 玉  
 gitar - 吉他  
-giuku - 玉  
 glis - 滑下  
 glu bande - 创可贴 (邦迪)  
 glu di - 黏的  
 glu fan - 黏土  
 glu grafi - 贴纸  
 gol - 目的  
-gola sheki - 鹅卵石  
+gola sheku - 鹅卵石  
 gorila - 大猩猩  
 goton - 棉  
 grafi kata - 漫画  
@@ -482,7 +482,7 @@ hiyar - 黄瓜
 hobi ja - 爱好者  
 hogo - 火  
 hogo shan - 火山  
-hogo sheki - 燧石  
+hogo sheku - 燧石  
 hogo tehni - 烟火  
 hoki - 曲棍球  
 hor - 小时  
@@ -692,10 +692,10 @@ libu baze - 架子
 libu side - 蹲  
 lida ja - 领导  
 liga di sanduku - 约柜  
-liki - 力  
+lika - 力  
 lili - 小  
 lili kaboga - 西葫芦  
-lili sheki - 砾石  
+lili sheku - 砾石  
 limon - 柠檬  
 limon oranje - 柑橘  
 lin - 线  
@@ -719,8 +719,8 @@ long pipre - 荜拔
 long tire - 拉  
 lotra - 獭  
 lou - 漏  
-lugi - 绿色  
-luku - 六 (6)  
+luga - 绿色  
+luka - 六 (6)  
 lun - 论  
 luna keke - 月饼  
 lung - 龙  
@@ -797,8 +797,13 @@ Misri - 埃及
 miti - 聚会  
 miti - 会议  
 mitre - 米 (公尺)  
+moka - 树木  
+moka ban - 木板  
+moka jang ja - 木匠  
+moka mate - 木材  
+moka tana - 原木  
 mol kan - 磨坊  
-mol sheki - 磨石  
+mol sheku - 磨石  
 mole - 摩尔 (单位)  
 molekul - 分子  
 moli - 茉莉  
@@ -806,11 +811,6 @@ moli hua chai - 茉莉花茶
 mos - 苔藓  
 mosim - 季  
 moto - 马达 (发动机)  
-muku - 树木  
-muku ban - 木板  
-muku jang ja - 木匠  
-muku mate - 木材  
-muku tana - 原木  
 mula - 根  
 mum chape - 封印  
 mum melon - 冬瓜 (白瓜)  
@@ -1050,7 +1050,7 @@ shava kote - 雨衣
 shava mosim - 雨季  
 she - 事物 (东西)  
 she hal - 事态  
-sheki - 石 (岩)  
+sheku - 石 (岩)  
 sheng bai - 勝敗  
 shia - 派系  
 shia islam din - 什叶派  
@@ -1233,7 +1233,7 @@ yasen - 白蜡树
 yatim dom - 孤儿院  
 yau di - 必要的  
 ye - 对 (是)  
-yeki kanon - 易经 (周易)  
+yeka kanon - 易经 (周易)  
 Yesu - 耶稣  
 Yesu mesi - 耶稣基督  
 yoga - 瑜伽功  

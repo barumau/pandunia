@@ -218,10 +218,10 @@ baka - hornear (cocer)
 baka fan - terracota  
 baka ja - panadero  
 baka kan - panadería  
-baki - blanco  
-baki choi - col china  
-baki margarite - margarita  
-baki salmon - salmón chum (keta)  
+baku - blanco  
+baku choi - col china  
+baku margarite - margarita  
+baku salmon - salmón chum (keta)  
 baldi - balde (cubo)  
 balon - globo  
 balon peshe - pez globo  
@@ -271,13 +271,13 @@ baske bol - baloncesto (básquetbol)
 bata - pato  
 bata krote - ornitorrinco  
 bateri - pila (batería)  
-bato - ocho (8)  
+bati - ocho (8)  
 baton - barra (vara, palo)  
 baton kasa - jaula (caja)  
 baton pan - baguette  
 bau - tesoro  
 bau di - precioso  
-bau sheke - piedra preciosa (joya, gema)  
+bau sheku - piedra preciosa (joya, gema)  
 bazar - mercado (bazar)  
 baze - base  
 baze bol - béisbol  
@@ -551,12 +551,12 @@ dai hai - océano
 dai pau - cañón  
 dai pau ja - cañonear  
 dai pote - caldero  
-dai sheke - peñasco (pedrusco)  
+dai sheku - peñasco (pedrusco)  
 dai shula kan - universidad  
 daka - cubrir (tapar)  
 dake - tapa (funda, cubierta)  
-daki - conseguir (obtener, recibir)  
-daki ja - engendrador  
+daku - conseguir (obtener, recibir)  
+daku ja - engendrador  
 dalil - prueba  
 dama gem - damas  
 dane - partícula (grano, bala)  
@@ -607,9 +607,9 @@ defa - defender
 defban - escudo  
 defer - defensor  
 defkaske - armadura  
-deki - moralidad (ética)  
-deki di - moral (ético)  
-deki logi - ética (filosofía moral)  
+deku - moralidad (ética)  
+deku di - moral (ético)  
+deku logi - ética (filosofía moral)  
 demo - pueblo (población)  
 demo di - público  
 demo grafi - demografía  
@@ -704,7 +704,7 @@ dua - rezar (orar)
 dua - rezo (oración)  
 dubnium - dubnio  
 dudu - insecto  
-duga - leer  
+dugu - leer  
 duka - entristecer (poner triste)  
 duke - pena (tristeza)  
 duki - triste  
@@ -933,6 +933,7 @@ fa onor - honrar
 fa ore - escuchar (oír)  
 fa orto - enderezar (poner recto)  
 fa pade - dejar caer  
+fa paka - forzar (usar fuerte, imponer, coaccionar)  
 fa pake - embalar (llevar)  
 fa paraya - despreciar (desdeñar)  
 fa parche - romper (hacer pedazos)  
@@ -978,7 +979,7 @@ fa sense - sentir (detectar)
 fa sharti - espicificar (estipular)  
 fa shibai - perder (fallar)  
 fa shin - creer  
-fa shipu - mojar  
+fa shipi - mojar  
 fa shite - cagar  
 fa shofer - conducir  
 fa shopi - comprar  
@@ -1164,7 +1165,7 @@ ga - si (suponer)
 Gabon - Gabón  
 gabur - tumba (sepultura, enterrar)  
 gabur bagi - cementerio  
-gabur sheki - lápida  
+gabur sheku - lápida  
 gadolinium - gadolinio  
 gaja - elefante  
 galaksi - galaxia  
@@ -1254,9 +1255,9 @@ giga - giga-
 ging - paralelo  
 ging darja - longitud  
 ging gola - meridiano (línea de longitud)  
+gioka - jade  
 giota - gota  
 gitar - guitarra  
-giuku - jade  
 glis - deslizar  
 glu - pegamento (pega, goma)  
 glu bande - curita (apósito)  
@@ -1267,7 +1268,7 @@ gluten - gluten
 gol - meta (gol, destinación)  
 gola - círculo  
 gola di - redondo (circular)  
-gola sheki - adoquín  
+gola sheku - adoquín  
 gomu - goma (caucho, hule)  
 gona - esquina (rincón, ángulo)  
 gona metre gi - goniómetro (medidor de ángulos)  
@@ -1435,7 +1436,7 @@ hogo di - ardiente (encendido)
 hogo sanduku - farol (linterna)  
 hogo shan - volcán  
 hogo shan kancha - vidrio volcánico  
-hogo sheki - pedernal (sílex)  
+hogo sheku - pedernal (sílex)  
 hogo tehni - dispositivo pirotécnico  
 hoki - hockey  
 holera - cólera  
@@ -1595,7 +1596,7 @@ joven - joven
 joven fem - niña  
 joven jan - joven  
 joven man - niño  
-joven muku - pimpollo  
+joven moka - pimpollo  
 joven ta - juventud  
 juda - juzgar  
 judau - yudo  
@@ -1999,8 +2000,8 @@ liga di sanduku - arca de la Alianza
 ligu - leve  
 ligu veze di - ligero  
 Lihtenstain - Liechtenstein  
-liki - fuerza  
-liki di - fuerte  
+lika - fuerza  
+lika di - fuerte  
 lila - lila  
 lila rang - lila (de color lila)  
 lili - pequeño  
@@ -2049,12 +2050,12 @@ lote - lote (grupo)
 lotra - nutria  
 lou - chorrear  
 lou sang - sangrar  
-lugi - verde  
-lugi melon - melón verde  
+luga - verde  
+luga melon - melón verde  
+luka - seis (6)  
+luka fase - hexaedro (cubo)  
+luka gona - hexágono  
 Luksemburge - Luxemburgo  
-luku - seis (6)  
-luku fase - hexaedro (cubo)  
-luku gona - hexágono  
 lulu - perla  
 lun - discusión (debate, discurso)  
 luna - luna  
@@ -2282,10 +2283,16 @@ mitre - metro
 mode - modo (manera, forma)  
 mode loge - adverbo  
 model - modelar  
+moka - árbol  
+moka ban - tablón  
+moka jang ja - carpintero  
+moka jong parke - arboreto  
+moka mate - madera  
+moka tana - leño (tronca)  
 moku - tinta  
 mol ja - molinero  
 mol kan - molino  
-mol sheki - muela  
+mol sheku - muela  
 Moldova - Moldova  
 mole - mol  
 molekul - molécula  
@@ -2310,12 +2317,6 @@ Mozambike - Mozambique
 mudan - peonía  
 muka - cara (rosto)  
 muka fun - polvo de cara  
-muku - árbol  
-muku ban - tablón  
-muku jang ja - carpintero  
-muku jong parke - arboreto  
-muku mate - madera  
-muku tana - leño (tronca)  
 mula - raíz  
 multi - muchos  
 multi ta - número (muchedumbre)  
@@ -2543,7 +2544,6 @@ pade mosim - otoño
 pade mun - trampilla  
 pagri - turbante  
 pai - pastel (pay)  
-paka - forzar (usar fuerte, imponer, coaccionar)  
 pake - paquete  
 Pakistan - Pakistán  
 paksi - pájaro (ave)  
@@ -3090,8 +3090,8 @@ she hal - situación
 shefe - jefe  
 shefe di - principal  
 shefe minister - primer ministro  
-sheki - piedra  
-sheki jang ja - albañil (mampostero, cantero)  
+sheku - piedra  
+sheku jang ja - albañil (mampostero, cantero)  
 sheng - victoria  
 shia - facción  
 shia islam din - chiismo (chía)  

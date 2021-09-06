@@ -58,7 +58,7 @@ adhesivo - glu grafi
 adicional (extra) - mas di  
 adiós - salam chutu  
 adjetivo - sifa loga  
-adoquín - gola sheki  
+adoquín - gola sheku  
 adoración (veneración, culto) - puja  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
@@ -98,7 +98,7 @@ alargar - fa long
 Alaska - Alaska  
 Albania - Chipe  
 albaricoque (ciruela) - briko  
-albañil (mampostero, cantero) - sheki jang ja  
+albañil (mampostero, cantero) - sheku jang ja  
 alcachofera - karchof  
 alcalino - kali  
 alcohol - alkol  
@@ -209,7 +209,7 @@ apuntar - fa dika
 Arabia Saudita - Saudi Arabia  
 aracnofobia - arane fobi  
 araña - arane  
-arboreto - muku jong parke  
+arboreto - moka jong parke  
 arbusto (mata) - tal moku  
 arca de la Alianza - liga di sanduku  
 arca de Noé - Noe di nave  
@@ -406,7 +406,7 @@ birromántico - dulromansi
 bisagra (gozne) - sharnir  
 bisexual - dulseksi  
 bismuto - bismute  
-blanco - baki  
+blanco - baku  
 blando (mullido) - komal  
 blog - bloge  
 bloquearse (colgarse, fallar) - be harabu  
@@ -582,7 +582,7 @@ carnear (matar) - bucha
 carnicero - bucha ja  
 carpa (toldo) - hema  
 carpeta - dokum sanduku  
-carpintero - muku jang ja  
+carpintero - moka jang ja  
 carrera - pei gung jiu  
 carta (mapa, tabla, gráfico) - metre grafi  
 cartografía - metre grafi shutu  
@@ -723,7 +723,7 @@ codicioso (avaro) - tam
 codificar (cifrar) - kode  
 codo - kudi  
 cohete (misil) - rokete  
-col china - baki choi  
+col china - baku choi  
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola  
 colaborar - kon gung  
@@ -797,7 +797,7 @@ congelarse (helarse) - be ais
 cono - kone  
 conocido -   
 consecuencia (siguiente) - pos  
-conseguir (obtener, recibir) - daki  
+conseguir (obtener, recibir) - daku  
 consejero (asesor) - mentor  
 consejo - sela loga  
 conservar (preservar, mantener) - hafiza  
@@ -1199,7 +1199,7 @@ enero - mes un
 enfermedad - pati  
 enfermo - pati di  
 engañar - fa truke  
-engendrador - daki ja  
+engendrador - daku ja  
 enojado (furioso) - furi  
 enredadera - eskale tana  
 ensalada - salade  
@@ -1414,7 +1414,7 @@ formar - fa forma
 formateo - kitabu forma  
 formulario - sual dokum  
 foro (espacio público) - forum  
-forzar (usar fuerte, imponer, coaccionar) - paka  
+forzar (usar fuerte, imponer, coaccionar) - fa paka  
 fosa - kave  
 foto (fotografía) - foto grafi  
 fotografía - foto grafi shuta  
@@ -1435,8 +1435,8 @@ frío - leng
 fuego - hogo  
 fuente (manantial) - fonte  
 fuera (exterior) - ekso  
-fuerte - liki di  
-fuerza - liki  
+fuerte - lika di  
+fuerza - lika  
 fuerza aérea - air gun  
 funcionar - funsi  
 funcionario - ofis ja  
@@ -1630,8 +1630,8 @@ hervirse (ser cocida) - be boli
 Hesse (Hessia) - Hese  
 heterorromántico - alo romanse  
 heterosexual - alo sekse di  
-hexaedro (cubo) - luku fase  
-hexágono - luku gona  
+hexaedro (cubo) - luka fase  
+hexágono - luka gona  
 hidrógeno - hidro  
 hielo - ais  
 hierbabuena - zong minte  
@@ -1835,7 +1835,7 @@ izquerdista - lefte sim ja
 izquierdo - lefte di  
 ####J - J  
 jabón - sabun  
-jade - giuku  
+jade - gioka  
 jainismo - jain din  
 Jamaica - Jamaika  
 japonés - nipon di  
@@ -1930,7 +1930,7 @@ leche - milke
 leche de soja - soi milke  
 lecho de roca - baze petra  
 lechuga - letis  
-leer - duga  
+leer - dugu  
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele di  
 lejos - do long  
@@ -1947,7 +1947,7 @@ letra negrita - gros zi
 levadura - hamir  
 levantar (elevar) - fa gau  
 leve - ligu  
-leño (tronca) - muku tana  
+leño (tronca) - moka tana  
 león - singa  
 liar (enrollar) - fa rolo  
 liberal - huru sim di  
@@ -2031,7 +2031,7 @@ Luxemburgo - Luksemburge
 luz (iluminación) - foto  
 lágrima - oko sui  
 lámpara - lampa  
-lápida - gabur sheki  
+lápida - gabur sheku  
 látigo (fusta) - bichi  
 léxico - loga di  
 Líbano - Libanen  
@@ -2046,7 +2046,7 @@ maceta (plantera) - hua pote
 macrial (militar) - jeng di  
 macroalga - hai alga  
 Madagascar - Madagasi  
-madera - muku mate  
+madera - moka mate  
 madrastra - vise ma  
 madre (mamá) - ma  
 maduro (adulto, curado) - matur  
@@ -2109,7 +2109,7 @@ marcar - fa marke
 marcha - marche  
 marco - frem  
 margarina - margarin  
-margarita - baki margarite  
+margarita - baku margarite  
 margarita - margarita  
 margarita común (pascueta) - english margarita  
 marina (armada) - hai gun  
@@ -2170,7 +2170,7 @@ melón - melon
 melón amargo - kali melon  
 melón cantalupo - kantalupo melon  
 melón coreano - aroma melon  
-melón verde - lugi melon  
+melón verde - luga melon  
 memoria - memo  
 memorándum (nota) - memo note  
 meninge - meninge  
@@ -2240,7 +2240,7 @@ moderno - nove yang di
 modo (manera, forma) - mode  
 modo nocturno - noche mode  
 mojado - shipi  
-mojar - fa shipu  
+mojar - fa shipi  
 mol - mole  
 moldear (modelar) - fa plasti  
 Moldova - Moldova  
@@ -2269,8 +2269,8 @@ monóculo - un oko di lense
 monólogo - auto loga  
 morado (púrpura) - violeta blu  
 moral (moro) - tuta  
-moral (ético) - deki di  
-moralidad (ética) - deki  
+moral (ético) - deku di  
+moralidad (ética) - deku  
 morder - fa dante  
 morfema - forma so  
 morirse - be mata  
@@ -2289,7 +2289,7 @@ mucho (muchos) - poli
 muchos - multi  
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - fa kino  
 mueca - grimas  
-muela - mol sheki  
+muela - mol sheku  
 muerte (fallecimiento) - mata  
 muerto - mata di  
 mujer (hembra) - fem  
@@ -2441,7 +2441,7 @@ obsidiana - osidian
 occidental - veste di  
 Oceanía - Oceania  
 ocelote - oselote  
-ocho (8) - bato  
+ocho (8) - bati  
 ocra - bamia  
 octubre - mes des  
 ocular - oko di  
@@ -2613,7 +2613,7 @@ pecho (busto) - buste
 pecho (seno, tórax) - sina  
 pedal - pedal  
 pedazo - tika  
-pedernal (sílex) - hogo sheki  
+pedernal (sílex) - hogo sheku  
 pedir (invitar; por favor) - ching  
 pedir prestado - jeku daku  
 pedo - pede  
@@ -2678,19 +2678,19 @@ peto - sina plate
 petróleo - petra nefte  
 pez (pescado) - peshe  
 pez globo - balon peshe  
-peñasco (pedrusco) - dai sheke  
+peñasco (pedrusco) - dai sheku  
 piano - piano  
 pico (punta) - pike  
 pidgin - pijin  
 pie (pata) - fute  
-piedra - sheki  
-piedra preciosa (joya, gema) - bau sheke  
+piedra - sheku  
+piedra preciosa (joya, gema) - bau sheku  
 piel - pil  
 pila (batería) - bateri  
 pilaf (pulaw) - polau  
 piloto - pilote  
 pimienta - pipre  
-pimpollo - joven muku  
+pimpollo - joven moka  
 pingüino - pinguin  
 pino - song  
 pintar - fa pente  
@@ -3091,7 +3091,7 @@ salir (egresar) - be ekso
 salir (irse) - fa chutu  
 salmodiar - mantra  
 salmón (trucha) - salmon  
-salmón chum (keta) - baki salmon  
+salmón chum (keta) - baku salmon  
 salmón del Atlántico - atlanti salmon  
 salmón rojo - lal salmon  
 salmón rosado - roza salmon  
@@ -3139,7 +3139,7 @@ seda - silko
 seguir - fa pos  
 segundo - sekunde  
 seguro - sekur  
-seis (6) - luku  
+seis (6) - luka  
 selenio - selenium  
 sello postal - posta chape  
 semana - var var  
@@ -3292,7 +3292,7 @@ tabla (lámina, plancha) - table
 tabla - datotable  
 tabla con pinza (carpeta con sujetapapeles) - pinse ban  
 tablet - table komputa  
-tablón - muku ban  
+tablón - moka ban  
 tabular - table yo data  
 taiga - taiga  
 Tailandia - Tai Desha  
@@ -3549,7 +3549,7 @@ ver (mirar) - vide
 verano - garma mosim  
 verbo - karma loga  
 verdadero - ver  
-verde - lugi  
+verde - luga  
 verde limón - limon lugi di  
 verdura (legumbre) - yam fito  
 verduras - choi  
@@ -3665,7 +3665,7 @@ zulú - Zulu
 álgebra - jebra  
 ángulo recto - orto gona  
 árabe - arabi  
-árbol - muku  
+árbol - moka  
 área (superficie) - area  
 área (zona, región) - area  
 áspero (basto) - karse  
@@ -3673,7 +3673,7 @@ zulú - Zulu
 átomo - atom  
 él o ella - ya  
 éste - dong  
-ética (filosofía moral) - deki logi  
+ética (filosofía moral) - deku logi  
 étnico - zuku di  
 índice de contenidos - in liste  
 ósmosis - osmos  

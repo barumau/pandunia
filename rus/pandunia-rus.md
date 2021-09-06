@@ -99,9 +99,9 @@ bagre oselote - онцилла
 baka fan - терракота  
 baka ja - хлебопёк (пекарь)  
 baka kan - пекарня (булочная)  
-baki - белый  
-baki margarite - нивяник обыкновенный (ромашка)  
-baki salmon - кета  
+baku - белый  
+baku margarite - нивяник обыкновенный (ромашка)  
+baku salmon - кета  
 balon peshe - иглобрюховые  
 baluta - дуб  
 bambu - бамбук  
@@ -125,12 +125,12 @@ basha - язык
 bashi jinse - род в грамматике  
 baske bol - баскетбол  
 bateri - батарея  
-bato - восемь (8)  
+bati - восемь (8)  
 baton - штанга  
 baton kasa - клетка  
 bau - сокровище (казна)  
 bau di - драгоценный  
-bau sheke - драгоценный камень  
+bau sheku - драгоценный камень  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
@@ -241,8 +241,8 @@ dai hai - океан
 dai lasun - лук исполинский  
 dai pau - пушка  
 dai pote - котёл  
-dai sheke - валун  
-daki - получить  
+dai sheku - валун  
+daku - получить  
 dalil - доказательство  
 danga - звенеть  
 danger - звонок  
@@ -298,7 +298,7 @@ dosiljenita - одомашнивать
 dosti - приятный (добрый)  
 du - два (2)  
 dudu - насекомое  
-duga - читать  
+dugu - читать  
 dulbashi - двуязычный  
 duli o sani - пара  
 dunia - мир (свет)  
@@ -436,7 +436,7 @@ fute marke - след ноги
 ga - если  
 gabur - могила (гроб, хоронить)  
 gabur bagi - кладбище  
-gabur sheki - надгробие  
+gabur sheku - надгробие  
 galaksi - галактика  
 Galia - Галлия  
 galope - кентер и галоп  
@@ -462,15 +462,15 @@ giau - учить (преподавать)
 gida buku - путеводитель  
 gida ja - гид  
 ging - параллельный  
+gioka - нефрит (жад)  
 gitar - гитара  
-giuku - нефрит (жад)  
 glis - задвигаться (скользи́ть)  
 glu bande - пластырь  
 glu di - клейкий (липкий)  
 glu fan - глина  
 glu grafi - наклейка  
 gol - цель  
-gola sheki - булыжник  
+gola sheku - булыжник  
 gorila - горилла  
 goton - хлопок  
 grafi kata - комикс  
@@ -537,7 +537,7 @@ hiyar - огурец
 hobi ja - любитель  
 hogo - огонь  
 hogo shan - вулкан  
-hogo sheki - кремень  
+hogo sheku - кремень  
 hogo tehni - фейерверк  
 hoki - хоккей  
 hor - час  
@@ -588,7 +588,7 @@ jirafa - жираф
 jiu - жизнь  
 jiu - живой  
 joven - юный  
-joven muku - саженец  
+joven moka - саженец  
 jude ja - судья  
 jul - джоуль (J)  
 jumla - фраза  
@@ -760,10 +760,10 @@ libu side - сесть на корточки
 lida ja - руководитель (лидер)  
 liga - лига (союз)  
 liga di sanduku - ковчег завета  
-liki - сила  
+lika - сила  
 lili - маленький (малый)  
 lili kaboga - цукини  
-lili sheki - галька  
+lili sheku - галька  
 limon - лимон  
 limon oranje - цитрус  
 lin - линия (нитка)  
@@ -789,8 +789,8 @@ long pipre - перец длинный
 long tire - вытянуть  
 lotra - выдра  
 lou - протекать (просочиться)  
-lugi - зелёный  
-luku - шесть (6)  
+luga - зелёный  
+luka - шесть (6)  
 luna - луна  
 luna keke - лунный пирог  
 luta ja - грабитель  
@@ -875,8 +875,11 @@ mishe - мешать
 mishe alkol - коктейль  
 Misri - Египет  
 mitre - метр  
+moka - дерево  
+moka ban - доска (планка)  
+moka tana - бревно  
 mol kan - мельница  
-mol sheki - жёрнов  
+mol sheku - жёрнов  
 moli - жасмин  
 moluske - моллюск  
 mos - мох  
@@ -885,9 +888,6 @@ mosim - время года (сезон)
 Moskva - Москва  
 moto - мотор  
 moto sikle - мотоцикл  
-muku - дерево  
-muku ban - доска (планка)  
-muku tana - бревно  
 mula - корень  
 mum melon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  
@@ -1178,7 +1178,7 @@ shava mosim - муссон
 she - вещь  
 she hal - положение (ситуация)  
 shefe - шеф  
-sheki - камень (камешек)  
+sheku - камень (камешек)  
 shia - фракция (клика)  
 shia islam din - шиизм  
 shikaya - жалоба  
@@ -1384,7 +1384,7 @@ yatim dom - детский дом
 yau di - нужный  
 yauta - нужда  
 ye - да  
-yeki kanon - Книга Перемен  
+yeka kanon - Книга Перемен  
 Yemen - Йемен  
 Yesu - Иисус  
 Yesu mesi - Иисус Христос  

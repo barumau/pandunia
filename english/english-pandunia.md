@@ -162,7 +162,7 @@ April - mes chatre
 aqua (teal) - hai blu  
 Arabic - arabi  
 arachnophobia - arane fobi  
-arboretum - muku jong parke  
+arboretum - moka jong parke  
 archer - arka ja  
 archery - arka shutu  
 archipelago (island chain) - nesia jama  
@@ -421,7 +421,7 @@ bogeyman - bubu
 bohrium - borium  
 boil (be boiled) - be boli  
 boil (cook) - boli  
-bok choy - baki choi  
+bok choy - baku choi  
 bold letter - gros zi  
 Bolivia - Bolivia  
 bomb - bomba  
@@ -443,7 +443,7 @@ bother (annoy, disturb, irritate) - fa turbe
 Botswana - Cuana  
 bottle - botel  
 bottom - tal  
-boulder - dai sheke  
+boulder - dai sheku  
 bounce - boing  
 bow (arch, arc) - arka  
 bow instrument (violin, etc.) - tichin  
@@ -573,7 +573,7 @@ carbon dioxide - karbon duokside
 card - karte  
 career (professional life) - pei gung jiu  
 Caribbean - Karibe  
-carpenter - muku jang ja  
+carpenter - moka jang ja  
 carpet (rug) - tal tela  
 carrot - karote  
 cartography - metre grafi shutu  
@@ -667,7 +667,7 @@ Christianity - mesi din
 Christmas - mesi jene  
 chromium - kromium  
 chronic (lasting) - duri  
-chum salmon - baki salmon  
+chum salmon - baku salmon  
 church - eglisa  
 cigarette (cigar) - sigar  
 cinematic - kino grafi di  
@@ -714,7 +714,7 @@ club - klube
 coast (beach) - hai kinar  
 coat - kote  
 cobalt - kobalte  
-cobblestone - gola sheki  
+cobblestone - gola sheku  
 coca - koka  
 Coca-Cola - Koka Kola  
 cocktail - mishe alkol  
@@ -723,7 +723,8 @@ coconut tree - yezi
 Cocos (Keeling) Islands - Kokos nesia  
 cod - kade  
 code (cipher) - kode  
-coerce (use force, compel) - paka  
+coerce (use force, compel) - fa paka  
+coercion (force, compulsion) - paka  
 coffee - kafe  
 coffee cup - kafe kupa  
 coffeepot - kafe pote  
@@ -1108,7 +1109,7 @@ egg - anda
 eggplant (aubergine, brinjal) - bedinjan  
 Egypt - Misri  
 Egyptian - misri di  
-eight (8) - bato  
+eight (8) - bati  
 einsteinium - ainstainium  
 El Salvador - Salvador  
 elapse (pass by, go by) - duru  
@@ -1173,7 +1174,7 @@ essay - esai
 estimate (approximate) - fa yagu  
 Estonia - Esti  
 Eswatini (Swaziland) - Suati  
-ethics - deki logi  
+ethics - deku logi  
 Ethiopia - Etiopia  
 ethnic - zuku di  
 ethnic group - zuku  
@@ -1207,7 +1208,7 @@ exceed (be greater than) - be mas
 excellence (quality, virtue) - bon sifa ta  
 excellent - bon sifa di  
 except (minus) - ama min da  
-exchange (replace, trade, swap) - yeki  
+exchange (replace, trade, swap) - yeka  
 exchange (swap, replace, trade) - badal  
 exclude (keep out) - fa ekso klus  
 exclusive - ekso klus di  
@@ -1340,7 +1341,7 @@ flatbread (chapati, roti) - chapati
 flerovium - flerovium  
 fletcher - fleche ja  
 flight - fei  
-flint - hogo sheki  
+flint - hogo sheku  
 float (buoy, bobber) - boi  
 float (swim) - boyu  
 floor - kamar tal  
@@ -1366,7 +1367,7 @@ for a long time - long dura
 for example - do misal  
 forbid (ban, disallow) - fa haram  
 forbidden (illicit, haram, taboo) - haram  
-force (strength, power) - liki  
+force (strength, power) - lika  
 foreign - ekso desha di  
 foreign country - ekso desha  
 forenoon - suba dia  
@@ -1420,7 +1421,7 @@ future time - pos zaman
 ####G - G  
 Gabon - Gabon  
 gadolinium - gadolinium  
-gains and losses (pros and cons) - daki shitu  
+gains and losses (pros and cons) - daku shitu  
 galaxy - galaksi  
 gallery (exhibition hall) - galeri  
 gallium - galium  
@@ -1443,7 +1444,7 @@ gauze - gaze
 gay (homosexual) - gei  
 gazelle - gazel  
 gel (jelly) - jele  
-gem (gemstone, jewel) - bau sheke  
+gem (gemstone, jewel) - bau sheku  
 gender (sex) - jinse  
 gender studies - jinse logi  
 genderqueer (non-binary) - nobi  
@@ -1464,10 +1465,10 @@ Germania - Germania
 germanium - germanium  
 Germany - Doiche  
 gesture - jeste  
-get (receive, obtain, take) - daki  
+get (receive, obtain, take) - daku  
 get off (descend) - an eskala  
 get tired (become weary) - be fatige  
-getter (receiver, recipient) - daki ja  
+getter (receiver, recipient) - daku ja  
 Ghana - Gana  
 gherkin (pickle) - achar hiyar  
 ghost (phantom) - fantom  
@@ -1536,7 +1537,7 @@ graveyard (cemetery, burial ground) - gabur bagi
 Greece - Helen  
 greedy - tam  
 Greek (Hellenic) - Helen  
-green - lugi  
+green - luga  
 Greenland - Kalal  
 greens - choi  
 greet - fa salam  
@@ -1548,7 +1549,7 @@ grieve - duku
 grilled meat (kebab) - kababu nama  
 grimace - grimas  
 grind (grind in mill) - fa mol  
-grindstone (millstone) - mol sheki  
+grindstone (millstone) - mol sheku  
 ground force (army) - geo gun  
 group - grupe  
 grow (get bigger) - dayu  
@@ -1637,8 +1638,8 @@ hertz (Hz) - herze
 Hesse - Hese  
 heteroromantic - alo romanse  
 heterosexual - alo sekse di  
-hexagon - luku gona  
-hexahedron (cube) - luku fase  
+hexagon - luka gona  
+hexahedron (cube) - luka fase  
 hide (conceal) - fa sir  
 high (tall) - gau  
 high technology (hi-tech) - gau tehni  
@@ -1677,7 +1678,7 @@ Honduras - Onduras
 honest (trustworthy, true; surely, verily, amen) - amen  
 honey - medu  
 honeybee - medu fong  
-honeydew (green melon) - lugi melon  
+honeydew (green melon) - luga melon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onor di  
 hook - huke  
@@ -1722,7 +1723,7 @@ hygiene (cleanliness) - salu safa ta
 Hyperion - Hiperion  
 I (me) - mi  
 ####I - I  
-I Ching (the Book of Changes) - yeki kanon  
+I Ching (the Book of Changes) - yeka kanon  
 Iapetus - Yapetus  
 ice - ais  
 ice cream - ais krem  
@@ -1821,7 +1822,7 @@ Italy - Italia
 ####J - J  
 jackal - shakal  
 jacket - jake  
-jade - giuku  
+jade - gioka  
 jailer (imprisoner) - prizon ja  
 Jainism - jain din  
 Jakarta - Jakarta  
@@ -2036,7 +2037,7 @@ local - loka di
 lock (fasten) - fa sor  
 lock (fastener) - sor  
 locked (secure) - sor di  
-log (trunk) - muku tana  
+log (trunk) - moka tana  
 logbook - loge buku  
 logic (deduction) - logika  
 logical - logika di  
@@ -2148,7 +2149,7 @@ Marshall Islands - Marshal nesia
 martial art - jeng shutu  
 marvel (wonder) - ajibu  
 mask (camouflage) - maska  
-mason (stonemason, stonecutter) - sheki jang ja  
+mason (stonemason, stonecutter) - sheku jang ja  
 mass (quantity of matter) - masa  
 massage - masaje  
 mast - masta  
@@ -2292,8 +2293,8 @@ monument (memorial) - memo bina
 mood (emotional state) - emosi hal  
 moon - luna  
 mooncake - luna keke  
-moral - deki di  
-morality (ethics) - deki  
+moral - deku di  
+morality (ethics) - deku  
 more - mas  
 morning (dawn) - suba  
 Morocco - Magribi desha  
@@ -2566,7 +2567,7 @@ overpass - supra
 own (possess, have) - fa mal  
 own - se su  
 owner (proprietor) - mal ja  
-oxeye daisy - baki margarite  
+oxeye daisy - baku margarite  
 oxide - okside  
 oxygen - oksi  
 ####P - P  
@@ -2656,7 +2657,7 @@ peanut (groundnut) - geo dou
 pear - lezi  
 pearl - lulu  
 peat - turfa  
-pebble (gravel) - lili sheki  
+pebble (gravel) - lili sheku  
 pedal - pedal  
 peer - par jan  
 pen (writing tool) - kalam  
@@ -2960,7 +2961,7 @@ rational (reasonable) - razon di
 raw (crude) - jene di  
 ray - radi  
 ray of light - foto radi  
-read - duga  
+read - dugu  
 ready (prepared) - redi  
 realization (awareness, enlightenment, bodhi) - budi  
 realize - fa budi  
@@ -2976,7 +2977,7 @@ regime - politi mode
 region - topo  
 register (record, log) - loge  
 reign (rule as an emperor) - imperi  
-reinforce (replenish) - fa mas liki  
+reinforce (replenish) - fa mas lika  
 reinforcements - mas gun  
 relationship (association, connection) - guanshe  
 relic - chenike  
@@ -3133,7 +3134,7 @@ sandstone - rege petra
 sandwich - sanduiche  
 Sao Paulo - Sante Paulo  
 Sao Tome and Principe - Sante Tome e Prinsipe  
-sapling - joven muku  
+sapling - joven moka  
 Satanism (devil worship) - shatan din  
 Satanist - shatan din ja  
 satsuma mandarin - venjou oranje  
@@ -3284,7 +3285,7 @@ sit (put down) - fa side
 sit down - side  
 situation (circumstances, state of affairs) - she hal  
 situational irony - she hal ironi  
-six (6) - luku  
+six (6) - luka  
 size - dayia  
 sizzle - zizi  
 skeleton (frame) - oste jama  
@@ -3438,7 +3439,7 @@ stick (adhere, paste, glue) - fa glu
 sticker - glu grafi  
 sticky (ahesive) - glu di  
 stipulate - fa sharti  
-stone (piece of rock) - sheki  
+stone (piece of rock) - sheku  
 stop (halt) - be ting  
 stop (halt) - fa ting  
 stop - ting  
@@ -3450,11 +3451,11 @@ straighten - fa orto
 strange (unknown) - an sabi di  
 stray (deviant) - rute galti  
 stray (deviate) - rute galta  
-strengthen (reinforce) - fa liki  
+strengthen (reinforce) - fa lika  
 stretch (extend) - long tire  
 strike (punch) - darba  
 strip (peel) - tire yo pil  
-strong - liki di  
+strong - lika di  
 strontium - estrontium  
 struggle (strife) - jihade  
 student (pupil, learner) - shula ja  
@@ -3672,7 +3673,7 @@ toilet (WC) - tualete
 Tokyo - Tokyo  
 tolerate - tolera  
 tomato - tomate  
-tombstone (gravestone) - gabur sheki  
+tombstone (gravestone) - gabur sheku  
 tomorrow - pos den  
 tone (note, pitch, shade) - ton  
 Tonga - Tonga  
@@ -3720,7 +3721,7 @@ travel - fa safar
 traveler - safar ja  
 traverse (horizontal) - vei di  
 treasure (valuables) - bau  
-tree - muku  
+tree - moka  
 triangle - tri gona  
 tribe - tribu  
 trick (cheat, deceive) - fa truke  
@@ -3927,7 +3928,7 @@ west - veste
 western - veste di  
 western gorilla - veste gorila  
 wet (damp, moist) - shipi  
-wet (dampen, moisten) - fa shipu  
+wet (dampen, moisten) - fa shipi  
 what kind of? - ke yang  
 what thing? - ke she  
 what? - ke  
@@ -3938,7 +3939,7 @@ where - pa ke
 which (who, that) - de  
 whip - bichi  
 whisky (whiskey) - viski  
-white - baki  
+white - baku  
 whitelist - halal liste  
 who? - ke jan  
 whole (entire) - holo  
@@ -3971,8 +3972,8 @@ Wolof (language and people) - Volof
 woman (adult female) - matur fem  
 wonder (be amazed) - be ajibu  
 wonder (be interested in, would like to know) - be sabi vol  
-wood (timber) - muku mate  
-wood board (plank) - muku ban  
+wood (timber) - moka mate  
+wood board (plank) - moka ban  
 wool (fleece) - meme kesha  
 word (lexeme) - loga so  
 work (labour, job) - gung  

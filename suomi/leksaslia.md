@@ -79,7 +79,7 @@
 |**bah**|pah (pyh)|englanti:espanja:italia:bah, portugali:ba|
 |**bai**|lahti|englanti:bay, espanja:bahía, portugali:baía, ranska:baie|
 |**baka**|leipoa|englanti:bake, hindi:पकाना (pakānā), venäjä:печь (peč), deu:backen|
-|**baki**|valkoinen (valkea)|kantoninkiina:白 (baak6), vietnami:bạch, yleiskiina:白 (bái), japani:白 (haku), korea:백 (baek), + ranska:blanc, espanja:blanco, portugali:branco|
+|**baku**|valkoinen (valkea)|kantoninkiina:白 (baak6), vietnami:bạch, yleiskiina:白 (bái), japani:白 (haku), korea:백 (baek), + ranska:blanc, espanja:blanco, portugali:branco|
 |**baldi**|sanko (ämpäri)|espanja:portugali:balde, hindi:बाल्टी (bālṭī), bangla:(balti)|
 |**balon**|ilmapallo|ranska:ballon, turkki:malaiji:puola:balon, englanti:balloon, filippiini:balun, hausa:balân|
 |**baluta**|tammi|arabia:بلوط (ballūṭ), persia:بلوط (balut), hindi:बलूत (balūta), espanja:bellota|
@@ -106,7 +106,7 @@
 |**baske**|kori|englanti:basket, malaiji:bakul, japani:バスケット (basuketto)|
 |**bata**|sorsa (ankka)|arabia: بَطَّة‎ (baṭṭa), hindi:बत्तख (battakh), telugu:బాతు (bātu), suahili:bata + espanja:portugali:pato + thai:เป็ด  (pèt)|
 |**bateri**|akku (paristo)|englanti:battery, hat:batri, persia:(bātri), suahili:betri, hindi:बैटरी (baiṭrī), bangla:ব্যাটারি (byaṭari), arabia:(baṭṭāriyya), japani:バッテリー (batterī), korea:배터리 (baeteori), venäjä:батарея (batareya), espanja:portugali:bateria, malaiji:bateri|
-|**bato**|kahdeksan (8)|yleiskiina:八 (bā), kantoninkiina:八 (baat3), wu-kiina:八 (baʔ), japani:八 (hachi), korea:팔 (pal), thai:แปด (pæt) + hindi:आठ (āṭh), bangla:আট (aṭ)|
+|**bati**|kahdeksan (8)|yleiskiina:八 (bā), kantoninkiina:八 (baat3), wu-kiina:八 (baʔ), japani:八 (hachi), korea:팔 (pal), thai:แปด (pæt) + hindi:आठ (āṭh), bangla:আট (aṭ)|
 |**baton**|tanko (sauva, patukka)|englanti:cane, ranska:canne, yleiskiina:杆 (gǎn),|
 |**bau**|aarre|yleiskiina:宝 (bǎo), korea:보 (bo), vietnami:bảo, japani:宝 (hō)|
 |**bazar**|tori (basaari)|persia:urdu: بازار (bāzār), hindi:बाज़ार (bāzār), ranska:espanja:portugali:bazar, englanti:bazaar, venäjä:базар (bazar), malaiji: pasar, khmer:ផ្សារ (psar)|
@@ -215,7 +215,7 @@
 |**da**|määritetyn määritteeseen liittävä partikkeli|ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|valtameri|yleiskiina:大海 (dàhǎi), japani:大海 (taikai),  korea:대양 (daeyang), vietnami:đại dương, hindi:महासागर (mahāsāgar), bangla:মহাসমুদ্র (môhaśmudr), thai:มหาสมุทร (mahasamut)|
 |**daka**|peittää|hindi:ढकना (dhaknā), bangla:ঢাকা (ḍhaka), pandzabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, englanti:deck|
-|**daki**|hankkia (saada)|yleiskiina:得 (dé), kantoninkiina:得 (dak1), wu-kiina:得 (teq4), japani:得 (toku), korea:득 (deuk), kor:được|
+|**daku**|hankkia (saada)|yleiskiina:得 (dé), kantoninkiina:得 (dak1), wu-kiina:得 (teq4), japani:得 (toku), korea:득 (deuk), kor:được|
 |**dalil**|todiste (todistus, osoitus, demonstraatio)|arabia:(dalil), bangla:দলিল (dôlil), suahili:dalili, turkki:delil|
 |**dama gem**|tammipeli|ranska:jeu de dames, arabia:(dāmā), malaiji:dam, espanja:portugali:damas, deu:Damespiel|
 |**dane**|jyvä (luoti)|hindi:दाना (dānā), turkki:tane + japani:種 (tane);銃弾 (jūdan), yleiskiina:弹 (dàn), vietnami:đạn, korea:탄알 (tanal)|
@@ -232,7 +232,7 @@
 |**dayi**|iso (suuri)|kantoninkiina:大 (daai), yleiskiina:大 (dá), vietnami:đại, japani:(dai,tai), korea:대— (dae-)|
 |**debili**|heikko|englanti:debilitated, espanja:portugali:débil, hindi:दुर्बल, bangla:দুর্বল, marathi:दुबळा|
 |**def**|puolustus|arabia:(difāʿ), persia:(defâ'), hindi:दफ़ा (dafā), urdu:(difā'), + ranska:englanti:defense, espanja:defensa, portugali:defesa, turkki:defans|
-|**deki**|moraali|yleiskiina:德 (dé), kantoninkiina:德 (dak1), japani:德 (toku), korea:덕 (deok), vietnami:đức|
+|**deku**|moraali|yleiskiina:德 (dé), kantoninkiina:德 (dak1), japani:德 (toku), korea:덕 (deok), vietnami:đức|
 |**demo**|väestö (kansa)|englanti:espanja:demo-, ranska:démo-, venäjä:демо- (demo-)|
 |**demon**|demoni (piru)|englanti:turkki:demon, espanja:demonio, portugali:demônio, ranska:démon, deu:Dämon, venäjä:демон (demon)|
 |**den**|päivä (vuorokausi)|venäjä:день (deń), hindi:दिन (din), bangla:দিন (din) + yleiskiina:天 (tiān), kantoninkiina:天 (tin1)|
@@ -271,7 +271,7 @@
 |**du**|kaksi (2)|ranska:deux, espanja:dos, venäjä:два (dva), hindi:दो (do), bangla:দুই (dui), malaiji:dua, korea:둘 (dul)|
 |**dua**|rukous|arabia: دُعَاء‏  (duʿāʾ), hindi:दुआ (duā), suahili:turkki:dua, malaiji:doa + yleiskiina:祈祷 (dǎo), japani:禱 (tō), korea:도 (do)|
 |**dudu**|hyönteinen (ötökkä)|suahili:mdudu, arabia: دُود (dūd)|
-|**duga**|lukea|yleiskiina:读 (dú), kantoninkiina:讀 (duk6), vietnami:đọc, zha:dog, japani:(doku-)|
+|**dugu**|lukea|yleiskiina:读 (dú), kantoninkiina:讀 (duk6), vietnami:đọc, zha:dog, japani:(doku-)|
 |**duke**|suru (murhe)|hindi:दुःख (duḥkh), bangla:দুঃখ (dukhô), thai:ทุกข์ (tuk), malaiji:duka, englanti:dukkha|
 |**duman**|savu|hindi:धूआँ (dhuã), turkki:duman, venäjä:дым (dym), kannada:(dhūma), bangla:ধোঁয়া (dhõẇa)|
 |**dunia**|maailma|arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), malaiji:suahili:dunia, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya|
@@ -413,9 +413,9 @@
 |**gida**|opastaa (ohjata)|englanti:ranska:guide, espanja:guía, portugali:guia, venäjä:гид  (gid), japani:ガイド (gaido), korea:가이드 (gaideu), suahili:gaidi + arabia:قَادَ‎ (qāda)|
 |**giga**|miljardi (giga-)|englanti:ranska:espanja:portugali:malaiji:turkki:giga-, venäjä:гига- (giga-), japani:ギガ (giga), korea:기가- (giga-)|
 |**ging**|pitkittäinen|yleiskiina:經 (jīng), kantoninkiina:經 (ging1), japani:經 (kei), korea:경 (gyeong), vietnami:kinh|
+|**gioka**|jade|yleiskiina:玉 (yù), kantoninkiina:玉 (yuk6), nan:玉 (gio̍k), japani:玉 (gyoku), vietnami:ngọc (玉), malaiji:giok|
 |**giota**|pisara (tippa)|thai:หยด (yòt), vietnami:giọt, + englanti:iota, venäjä:йота (yota) + espanja:portugali:gota|
 |**gitar**|kitara|englanti:guitar, ranska:guitare, espanja:portugali:guitarra, venäjä:гитара (gitara), arabia:(qīṯāra), hindi:गिटार (giṭār), bangla:গিটার (giṭar), yleiskiina:吉他 (jítā), japani:ギター (gitā), korea:기타 (gita), suahili:gitaa|
-|**giuku**|jade|yleiskiina:玉 (yù), kantoninkiina:玉 (yuk6), nan:玉 (gio̍k), japani:玉 (gyoku), vietnami:ngọc (玉), malaiji:giok|
 |**glis**|liukua (luistaa)|ranska:glisser, italia:glissare + englanti:glacier,glissando, espanja:portugali:glaciar,glisando, venäjä:глиссандо (glissando), arabia:غليساندو (ghlysandw), japani:グリッサンド (gurissando) + malaiji:gelangsar|
 |**glu**|liima|englanti:glue, suahili:gluu, malaiji:glu + ranska:glutineux|
 |**gluten**|gluteeni|englanti:espanja:ranska:gluten, portugali:glúten, venäjä:глюте́н (gl’uten), arabia:غْلُوتِين‎ (ḡlūtīn), japani:グルテン (guruten)|
@@ -722,7 +722,7 @@
 |**lifafa**|kääre (kuori)|arabia:(lifāfa), persia:(lefâf), hindi:लिफ़ाफ़ा (lifāfā)|
 |**liga**|liitto (liittouma, liiga)|ranska:ligue, deu:espanja:puola:portugali:liga, englanti: league, venäjä: лига (liga), turkki:lig, suahili:ligi, japani:リーグ (rīgu)|
 |**ligu**|kevyt (hento, pehmeä, helppo, jne.)|hindi:लघु (laghu), bangla:লঘু (laghu) + englanti:light, espanja:ligero, portugali:ligeiro, ranska:léger, venäjä:лёгкий (l’ogkiy), puola:lekki|
-|**liki**|voima|yleiskiina:力 (lì), kantoninkiina:力 (lik6), japani:力 (riki), korea:력 (ryeok), vietnami:lực|
+|**lika**|voima|yleiskiina:力 (lì), kantoninkiina:力 (lik6), japani:力 (riki), korea:력 (ryeok), vietnami:lực|
 |**lila**|syreeni|englanti:lilac, ranska:lilas, portugali:lilás, espanja:filippiini:lila, japani:ライラック (rairakku), turkki:leylak, arabia:(laylak)|
 |**lili**|pieni (pienesti, vähän)|englanti:little|
 |**limfa**|lymfa|englanti:lymph, espanja:portugali:linfa, venäjä:ли́мфа (límfa), malaiji:limfa, japani:リンパ (rinpa), yleiskiina:淋巴 (línbā)|
@@ -744,8 +744,8 @@
 |**long**|pitkä|englanti:ranska:long, deu:lang, portugali:longo|
 |**lote**|erä (satsi)|portugali:espanja:lote, englanti:ranska:lot|
 |**lou**|vuotaa|yleiskiina:漏 (lòu), kantoninkiina:漏 (lau6), japani:漏 (rō), 루 (ru)|
-|**lugi**|vihreä|yleiskiina:绿 (lǜ), kantoninkiina:綠 (luk6), vietnami:lục, korea:록/녹 (rok/nok), japani: 緑色 (ryokushoku)|
-|**luku**|kuusi (6)|yleiskiina:六 (liù), japani:六 (roku), korea:육/륙 (六, yuk/ryuk), vietnami:lục|
+|**luga**|vihreä|yleiskiina:绿 (lǜ), kantoninkiina:綠 (luk6), vietnami:lục, korea:록/녹 (rok/nok), japani: 緑色 (ryokushoku)|
+|**luka**|kuusi (6)|yleiskiina:六 (liù), japani:六 (roku), korea:육/륙 (六, yuk/ryuk), vietnami:lục|
 |**lulu**|helmi|amharabia:ሉል (lul), ara:(luʾluʾa), suahili:lulu, oromo:lu'ulu'a, hausa:lu'ulu'u, fulani:luuluuri, persia:(lo'lo')|
 |**lun**|väittely (debatti)|yleiskiina:论 (lùn), kantoninkiina:論 (leo6), korea:론 (ron), japani:論 (ron), vietnami:luận|
 |**luna**|kuu|ranska:lune, espanja:luna, englanti:lunar, venäjä:луна (luná)|
@@ -836,6 +836,7 @@
 |**mitre**|metri|englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:mita|
 |**mode**|tapa|ranska:englanti:mode, espanja:portugali:modo|
 |**model**|malli|englanti:model, espanja:portugali:modelo, ranska:modèle, deu:Modell, venäjä:моде́ль (modelʹ)|
+|**moka**|puu|yleiskiina:木 (mù), kantoninkiina:木 (muk6), japani:木 (moku), korea:목 (mok), vietnami:mộc, oromo:muka|
 |**moku**|muste|yleiskiina:墨 (mò), vietnami:mực, thai:หมึก (muk)|
 |**mol kan**|mylly|yleiskiina:磨 (mò), kantoninkiina:磨 (mo4) thai:โม่ (mo), ranska:moulin, espanja:molino, venäjä:молоть  (molot’)|
 |**moli**|jasmiini|kannada:ಮಲ್ಲಿಗೆ  (mallige), tamili:(mallikai), telugu:మల్లె  (malle), malaiji:melati, thai:มะลิ (má-lí), korea:말리 (malli), tha:มะลิ (mali), yleiskiina:茉莉 (mòlì), kantoninkiina:茉莉 (mut6lei5)|
@@ -849,7 +850,6 @@
 |**moto**|moottori|englanti:espanja:portugali:turkki:malaiji:motor, fra;moteur, venäjä:мотор (motor), arabia:(mutūr), yleiskiina:摩托 (mótuō), japani:モーター (mōtā), korea:모터 (moteo), vietnami:mô-tơ, hindi:मोटर (moṭar), bangla:মোটর (moṭôr), suahili:mota|
 |**mudan**|pioni|yleiskiina:牡丹 (mǔdān), korea:모란 (moran), japani:(botan), vietnami:mẫu đơn|
 |**muka**|kasvot (naama)|bangla:মুখ (mukh), hindi:मुख (mukh), tamili:முகம் (mukam), telugu:(mukhamu), malaiji:muka, filippiini:mukha|
-|**muku**|puu|yleiskiina:木 (mù), kantoninkiina:木 (muk6), japani:木 (moku), korea:목 (mok), vietnami:mộc, oromo:muka|
 |**mula**|juuri|hindi:marathi:मूल (mūl), bangla:মূল (mūl), telugu:మూలము (mūlamu), malaiji:filippiini:mula, khmer:មូល (mul), burma:မူလ (mula), thai:มูล (mun)|
 |**multi**|moni (usea)|portugali:muito, englanti:ranska:espanja:multi-, venäjä:мульти- (mulʹti-)|
 |**mum**|vaha|turkki:mum, persia:(mum), hindi:मोम (mom), bangla:মোম (mom)|
@@ -921,6 +921,7 @@
 |**pade**|pudota (tipahtaa)|telugu:(paḍu), venäjä:падать (padat'), hindi: पड़ना (paṛnā)|
 |**pagri**|turbaani|hindi:marathi:पगड़ी (pagṛī), urdu:(pagṛī), bangla:পাগড়ি (pagri)|
 |**pai**|piirakka (piiras)|englanti:pie, espanja:pay, malaiji:pai, hindi:पाई (pāī), urdu:(pāī), bangla:পাই (pai), japani:パイ (pai), korea:파이 (pai), yleiskiina:排 (pái), kantoninkiina:批 (pai1), persia:(pây)|
+|**paka**|pakko|yleiskiina:迫 (pò), kantoninkiina:迫 (baak1), wu-kiina:迫 (paq4), japani:迫 (haku), vietnami:bách|
 |**pake**|pakkaus (paketti)|englanti:pack, venäjä:пакет (paket), hindi:पैकेट (pækeṭ), deu:turkki:paket, ranska:paquet, espanja:paquete, portugali:pacote|
 |**paksi**|lintu|hindi:marathi:पक्षी (pakṣī), malayalam:പക്ഷി (pakṣi), telugu:(pakṣi), kh:បក្សី (baksəy), thai:ปักษา (pak-sa), bangla:পাখী (pakhī), pandzabi:ਪੰਖੀ (paṅkhī)|
 |**palaba**|riita (kiista)|englanti:palaver, krio:plabah, Kongo:palaba|
@@ -1132,7 +1133,7 @@
 |**she hal**|tilanne (asiaintila)|yleiskiina:事态 (shìtài), japani:事態 (jitai), englanti:state of affairs, ranska:état des choses|
 |**she**|asia|arabia:(šayʾ), turkki:şey, + yleiskiina:事 (shì), kantoninkiina:事 (si6)|
 |**shefe**|päällikkö (pomo)|ranska:chef, portugali:chefe, espanja:jefe, venäjä:шеф (šef), englanti:chief, suahili:chifu, japani:チーフ (chīfu), + arabia:(šeyx)|
-|**sheki**|kivi (hippu)|yleiskiina: 石 (shí), kantoninkiina:石 (sek3), japani:石 (seki), korea:석 (seok)|
+|**sheku**|kivi (hippu)|yleiskiina: 石 (shí), kantoninkiina:石 (sek3), japani:石 (seki), korea:석 (seok)|
 |**sheng**|voitto|yleiskiina:胜 (shèng), kantoninkiina:勝 (sing3), wu-kiina:勝 (sen2), japani:勝 (shō), korea:승 (seung), vietnami:thắng|
 |**shi**|herra tai rouva|yleiskiina:氏 (shì), kantoninkiina:氏 (si6), japani:氏 (-shi), korea:씨 (ssi) + malaiji:si + hindi:श्री (śrī), bangla:শ্রী  (śri)|
 |**shia**|porukka (kuppikunta, lohko, siipi)|arabia: شِيعَة (šīʿa), heb: סִיעָה (si'á) + yleiskiina:系 (xì)|

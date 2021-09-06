@@ -132,7 +132,7 @@ apteekki - dava she kan
 apu - helpe  
 arabialainen - arabi  
 araknofobia (hämähäkkikammo) - arane fobi  
-arboretum (puulajipuisto) - muku jong parke  
+arboretum (puulajipuisto) - moka jong parke  
 Argentiina - Argentina  
 argon - argon  
 Ariel - Ariel  
@@ -407,7 +407,7 @@ Etelä-Korea - Sude Chosen
 Etelä-Ossetia - Sude Iria (Alonia)  
 Etelä-Sudan - Sude Sudan  
 Eteläinen Jäämeri - Antartika Hai  
-etiikka (moraalioppi) - deki logi  
+etiikka (moraalioppi) - deku logi  
 etikka - vin suan  
 Etiopia - Etiopia  
 etninen - zuku di  
@@ -529,7 +529,7 @@ hangata - frike
 hanhi - ganse  
 hanke (projekti) - projete  
 hankkia (ansaita) - ganya  
-hankkia (saada) - daki  
+hankkia (saada) - daku  
 hapan (kirpeä) - suan  
 happi - oksi  
 happo - suan mate  
@@ -550,7 +550,7 @@ hasium - hasium
 haureus (uskottomuus) - zina  
 hauska (huvittava) - van di  
 hauta - gabur  
-hautakivi - gabur sheki  
+hautakivi - gabur sheku  
 hautausmaa - gabur bagi  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
@@ -801,7 +801,7 @@ Itävalta - Ostria
 iäkäs - sen di  
 ####J - J  
 ja (sekä) - e  
-jade - giuku  
+jade - gioka  
 Jahve (Jehova) - Yahve  
 jainalaisuus - jain din  
 jakaa (jaella) - fati  
@@ -813,7 +813,7 @@ jalanjälki - fute marke
 jalka (alaraaja) - fute shaka  
 jalka (jalkaterä) - fute  
 jalkapallo - fute bol  
-jalokivi - bau sheke  
+jalokivi - bau sheku  
 Jamaika - Jamaika  
 jambolaani - jamul  
 jano - sui yau  
@@ -916,7 +916,7 @@ kaatopaikka - laji bagi
 kaavio (kartta) - metre grafi  
 kade (kateellinen) - jelosi  
 kadmium - kadmium  
-kahdeksan (8) - bato  
+kahdeksan (8) - bati  
 kahdesti (kaksi kertaa) - dulmaro  
 kahista - shasha  
 kahvi - kafe  
@@ -1163,7 +1163,7 @@ kitara - gitar
 kitkerä (karvas) - kali guste  
 kivennäinen (mineraali) - kuang  
 kivennäisvesi - kuang sui  
-kivi (hippu) - sheki  
+kivi (hippu) - sheku  
 kivulias (tuskallinen) - pasi di  
 klassikko - kanon  
 klassinen (kanooninen) - kanon di  
@@ -1242,7 +1242,7 @@ koska (johdosta, takia) - ze saba da
 koskea (koskettaa) - tochu  
 kosminen - kosmo di  
 Kosovo - Kosovo  
-kosteuttaa - fa shipu  
+kosteuttaa - fa shipi  
 koti- - domi  
 koukku (haka) - huke  
 koulu (opisto) - shula kan  
@@ -1326,9 +1326,9 @@ kuulua (olla jäsenenä) - si membre
 kuume - febre  
 kuunnella - fa ore  
 kuura - hima rose  
-kuusi (6) - luku  
-kuusikulmio - luku gona  
-kuutio (kuusitahokas) - luku fase  
+kuusi (6) - luka  
+kuusikulmio - luka gona  
+kuutio (kuusitahokas) - luka fase  
 kuutio - kube  
 kuvaileva (määrittelevä) - sifa di  
 kuvakirja - grafi buku  
@@ -1521,7 +1521,7 @@ livermorium - livermorium
 logiikka - logika  
 logofiili - loga fili ja  
 logofilia - loga fili  
-lohkare (järkäle) - dai sheke  
+lohkare (järkäle) - dai sheku  
 loimi - ging lin  
 lokakuu - mes des  
 lokasuoja - fan def ban  
@@ -1538,7 +1538,7 @@ lounas - dia yam
 luhistua (sortua sisään) - be in bum  
 luhistuminen - in bum  
 luiska (ramppi) - rampe  
-lukea - duga  
+lukea - dugu  
 lukitsematon - an sora di  
 luku (kirjan osa) - babu  
 lukumäärä (luku, numero) - nomer  
@@ -1790,8 +1790,8 @@ montako? (paljonko?) - ke multi di
 Montenegro - Chernagora  
 moottori - moto  
 moottoripyörä - moto sikle  
-moraali - deki  
-moraalinen - deki di  
+moraali - deku  
+moraalinen - deku di  
 morfeemi - forma so  
 Mosambik - Mozambike  
 Moskova - Moskva  
@@ -1804,7 +1804,7 @@ muistio (muistiinmerkintä) - memo note
 muistitekniikka - memo tehni  
 mukaan lukien - in klus  
 mukava (kiva, miellyttävä) - hushi  
-mukulakivi - gola sheki  
+mukulakivi - gola sheku  
 mulperi - tuta  
 muna - anda  
 munakoiso - bedinjan  
@@ -1835,7 +1835,7 @@ muurahainen - murche
 muusikko - muzika ja  
 muutama (pari-kolme) - duli o sani  
 muuten (toisin) - alo  
-Muutosten kirja (I Ching) - yeki kanon  
+Muutosten kirja (I Ching) - yeka kanon  
 muuttaa (muuntaa) - mute  
 muuttaa (siirtyä) - be migra  
 muuttaa (siirtää) - fa migra  
@@ -1845,7 +1845,7 @@ muutto (migraatio) - migra
 Myanmar (Burma) - Myanma  
 myky (pelmeni, ravioli) - pelmen  
 mylly - mol kan  
-myllynkivi - mol sheki  
+myllynkivi - mol sheku  
 mylläri - mol ja  
 myrkky - toksi  
 myrkyllinen - toksi di  
@@ -2081,6 +2081,8 @@ pakata - fa pake
 Pakistan - Pakistan  
 pakkaus (paketti) - pake  
 pakko - deve ta  
+pakko - paka  
+pakottaa - fa paka  
 paksu - gros  
 paksuus - grosta  
 pala - tika  
@@ -2192,7 +2194,7 @@ pihdit - pinse gi
 pihka (hartsi) - rezin  
 pihta (jalokuusi) - abies  
 pii - silikium  
-piikivi - hogo sheki  
+piikivi - hogo sheku  
 piikki (pistin, neula) - pin  
 piippu - pipe  
 piirakka (piiras) - pai  
@@ -2351,9 +2353,9 @@ purkaa koodi (dekoodata) - an kode
 purra - fa dante  
 pussi (säkki, kassi, laukku) - sake  
 putki (tuubi) - tubo  
-puu - muku  
-puuaines - muku mate  
-puuseppä - muku jang ja  
+puu - moka  
+puuaines - moka mate  
+puuseppä - moka jang ja  
 puutarhalapio - bagi bele  
 puuteri - muka fun  
 puuvilla - goton  
@@ -2533,7 +2535,7 @@ räjähtää - be bum
 räjähtää - be bum  
 röntgenium - rengenium  
 ####S - S  
-saaja (vastaanottaja) - daki ja  
+saaja (vastaanottaja) - daku ja  
 saapas (buutsi) - buta  
 saari - nesia  
 saaristo - nesia jama  
@@ -2746,7 +2748,7 @@ sopia (tehdä sopimus) - fa trati
 sopia - kon bon  
 sopimus - trati  
 sopiva (passeli) - hapu  
-sorakivi - lili sheki  
+sorakivi - lili sheku  
 sormenjälki - angul marke  
 sormenpää - angul pike  
 sormi tai varvas - angul  
@@ -3222,7 +3224,7 @@ vaatimus (edellytys) - sharti
 vaha - mum  
 vahingoittaa (vaurioittaa) - fa avar  
 vahingollinen (vaurioittava) - avar ja  
-vahvistaa (voimistaa) - fa liki  
+vahvistaa (voimistaa) - fa lika  
 vaihe (etappi) - faze  
 vaihtaa - badal  
 vaihtoehto - chuzable  
@@ -3237,7 +3239,7 @@ valinta (vaali) - chuze
 valita - chuza  
 valitus (reklamaatio) - shikaya  
 valjaat - harnes  
-valkoinen (valkea) - baki  
+valkoinen (valkea) - baku  
 valkosipuli - lasun  
 Valkovenäjä - Belarus  
 valmis - redi  
@@ -3345,7 +3347,7 @@ vihainen (suuttunut) - furi
 vihannes - choi  
 vihollinen - an doste  
 vihollinen - dus jan  
-vihreä - lugi  
+vihreä - luga  
 viihdyttää (huvittaa) - fa van  
 viikko - var var  
 viikonpäivä - var  
@@ -3390,8 +3392,8 @@ voi - makan
 voida (osata, pystyä, mahdollinen, ehkä) - bil  
 voileipä - sanduiche  
 voileipäkeksi - sal biskute  
-voima - liki  
-voimakas (vahva) - liki di  
+voima - lika  
+voimakas (vahva) - lika di  
 voipuu - karite  
 voisarvi (kroissantti) - kruasan  
 voitto - sheng  

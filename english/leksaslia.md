@@ -83,7 +83,7 @@
 |**bai**|bay (gulf)|English:bay, Spanish:bahía, Portuguese:baía, French:baie|
 |**bai**|lose (be defeated)|Mandarin:败 (bài), Japanese:敗 (pai), Korean:패 (pæ), Vietnamese:bại|
 |**baka**|bake|English:bake, Hindi:पकाना (pakānā), Russian:печь (peč), deu:backen|
-|**baki**|white|Cantonese:白 (baak6), Vietnamese:bạch, Mandarin:白 (bái), Japanese:白 (haku), Korean:백 (baek), + French:blanc, Spanish:blanco, Portuguese:branco|
+|**baku**|white|Cantonese:白 (baak6), Vietnamese:bạch, Mandarin:白 (bái), Japanese:白 (haku), Korean:백 (baek), + French:blanc, Spanish:blanco, Portuguese:branco|
 |**baldi**|bucket|Spanish:Portuguese:balde, Hindi:बाल्टी (bālṭī), Bengali:(balti)|
 |**balon**|balloon|French:ballon, Turkish:Malay:Polish:balon, English:balloon, Filipino:balun, Hausa:balân|
 |**baluta**|oak tree|Arabic:بلوط (ballūṭ), Persian:بلوط (balut), Hindi:बलूत (balūta), Spanish:bellota|
@@ -110,7 +110,7 @@
 |**baske**|basket (basketball hoop)|English:basket, Malay:bakul, Japanese:バスケット (basuketto)|
 |**bata**|duck|Arabic: بَطَّة‎ (baṭṭa), Hindi:बत्तख (battakh), Telugu:బాతు (bātu), Swahili:bata + Spanish:Portuguese:pato + Thai:เป็ด  (pèt)|
 |**bateri**|battery|English:battery, hat:batri, Persian:(bātri), Swahili:betri, Hindi:बैटरी (baiṭrī), Bengali:ব্যাটারি (byaṭari), Arabic:(baṭṭāriyya), Japanese:バッテリー (batterī), Korean:배터리 (baeteori), Russian:батарея (batareya), Spanish:Portuguese:bateria, Malay:bateri|
-|**bato**|eight (8)|Mandarin:八 (bā), Cantonese:八 (baat3), Wu-Chinese:八 (baʔ), Japanese:八 (hachi), Korean:팔 (pal), Thai:แปด (pæt) + Hindi:आठ (āṭh), Bengali:আট (aṭ)|
+|**bati**|eight (8)|Mandarin:八 (bā), Cantonese:八 (baat3), Wu-Chinese:八 (baʔ), Japanese:八 (hachi), Korean:팔 (pal), Thai:แปด (pæt) + Hindi:आठ (āṭh), Bengali:আট (aṭ)|
 |**baton**|bar (pole, rod, shaft, staff, stick)|English:cane, French:canne, Mandarin:杆 (gǎn),|
 |**bau**|treasure (valuables)|Mandarin:宝 (bǎo), Korean:보 (bo), Vietnamese:bảo, Japanese:宝 (hō)|
 |**bazar**|market (bazaar)|Persian:Urdu: بازار (bāzār), Hindi:बाज़ार (bāzār), French:Spanish:Portuguese:bazar, English:bazaar, Russian:базар (bazar), Malay: pasar, Khmer:ផ្សារ (psar)|
@@ -220,7 +220,7 @@
 |**da**|of (attributive preposition)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|ocean|Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)|
 |**daka**|cover (conceal)|Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck|
-|**daki**|get (receive, obtain, take)|Mandarin:得 (dé), Cantonese:得 (dak1), Wu-Chinese:得 (teq4), Japanese:得 (toku), Korean:득 (deuk), kor:được|
+|**daku**|get (receive, obtain, take)|Mandarin:得 (dé), Cantonese:得 (dak1), Wu-Chinese:得 (teq4), Japanese:得 (toku), Korean:득 (deuk), kor:được|
 |**dalil**|proof (evidence, proof, demonstration, testimony)|Arabic:(dalil), Bengali:দলিল (dôlil), Swahili:dalili, Turkish:delil|
 |**dama gem**|checkers (draughts)|French:jeu de dames, Arabic:(dāmā), Malay:dam, Spanish:Portuguese:damas, deu:Damespiel|
 |**dane**|particle (grain, bullet)|Hindi:दाना (dānā), Turkish:tane + Japanese:種 (tane);銃弾 (jūdan), Mandarin:弹 (dàn), Vietnamese:đạn, Korean:탄알 (tanal)|
@@ -237,7 +237,7 @@
 |**dayi**|big (great)|Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)|
 |**debili**|weak|English:debilitated, Spanish:Portuguese:débil, Hindi:दुर्बल, Bengali:দুর্বল, Marathi:दुबळा|
 |**def**|defense (defence)|Arabic:(difāʿ), Persian:(defâ'), Hindi:दफ़ा (dafā), Urdu:(difā'), + French:English:defense, Spanish:defensa, Portuguese:defesa, Turkish:defans|
-|**deki**|morality (ethics)|Mandarin:德 (dé), Cantonese:德 (dak1), Japanese:德 (toku), Korean:덕 (deok), Vietnamese:đức|
+|**deku**|morality (ethics)|Mandarin:德 (dé), Cantonese:德 (dak1), Japanese:德 (toku), Korean:덕 (deok), Vietnamese:đức|
 |**demo**|people (population)|English:Spanish:demo-, French:démo-, Russian:демо- (demo-)|
 |**demon**|demon|English:Turkish:demon, Spanish:demonio, Portuguese:demônio, French:démon, deu:Dämon, Russian:демон (demon)|
 |**den**|day (24 hours)|Russian:день (deń), Hindi:दिन (din), Bengali:দিন (din) + Mandarin:天 (tiān), Cantonese:天 (tin1)|
@@ -278,7 +278,7 @@
 |**du**|two (2)|French:deux, Spanish:dos, Russian:два (dva), Hindi:दो (do), Bengali:দুই (dui), Malay:dua, Korean:둘 (dul)|
 |**dua**|prayer|Arabic: دُعَاء‏  (duʿāʾ), Hindi:दुआ (duā), Swahili:Turkish:dua, Malay:doa + Mandarin:祈祷 (dǎo), Japanese:禱 (tō), Korean:도 (do)|
 |**dudu**|insect|Swahili:mdudu, Arabic: دُود (dūd)|
-|**duga**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Vietnamese:đọc, zha:dog, Japanese:(doku-)|
+|**dugu**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Vietnamese:đọc, zha:dog, Japanese:(doku-)|
 |**duke**|grief (sorrow)|Hindi:दुःख (duḥkh), Bengali:দুঃখ (dukhô), Thai:ทุกข์ (tuk), Malay:duka, English:dukkha|
 |**duman**|smoke|Hindi:धूआँ (dhuã), Turkish:duman, Russian:дым (dym), Kannada:(dhūma), Bengali:ধোঁয়া (dhõẇa)|
 |**dunia**|world|Arabic: دُنْيَا‎ (dunyā), Hindi:दुनिया (duniyā), Malay:Swahili:dunia, Persian: دنیا (donya), Urdu: دنیا (duniyā), Hausa:duniya|
@@ -421,9 +421,9 @@
 |**gida**|guide (lead, show the way)|English:French:guide, Spanish:guía, Portuguese:guia, Russian:гид  (gid), Japanese:ガイド (gaido), Korean:가이드 (gaideu), Swahili:gaidi + Arabic:قَادَ‎ (qāda)|
 |**giga**|billion (giga-)|English:French:Spanish:Portuguese:Malay:Turkish:giga-, Russian:гига- (giga-), Japanese:ギガ (giga), Korean:기가- (giga-)|
 |**ging**|longitudinal (parallel, vertical)|Mandarin:經 (jīng), Cantonese:經 (ging1), Japanese:經 (kei), Korean:경 (gyeong), Vietnamese:kinh|
+|**gioka**|jade|Mandarin:玉 (yù), Cantonese:玉 (yuk6), nan:玉 (gio̍k), Japanese:玉 (gyoku), Vietnamese:ngọc (玉), Malay:giok|
 |**giota**|drop (droplet)|Thai:หยด (yòt), Vietnamese:giọt, + English:iota, Russian:йота (yota) + Spanish:Portuguese:gota|
 |**gitar**|guitar|English:guitar, French:guitare, Spanish:Portuguese:guitarra, Russian:гитара (gitara), Arabic:(qīṯāra), Hindi:गिटार (giṭār), Bengali:গিটার (giṭar), Mandarin:吉他 (jítā), Japanese:ギター (gitā), Korean:기타 (gita), Swahili:gitaa|
-|**giuku**|jade|Mandarin:玉 (yù), Cantonese:玉 (yuk6), nan:玉 (gio̍k), Japanese:玉 (gyoku), Vietnamese:ngọc (玉), Malay:giok|
 |**glis**|slide (slip, glide, skate)|French:glisser, Italian:glissare + English:glacier,glissando, Spanish:Portuguese:glaciar,glisando, Russian:глиссандо (glissando), Arabic:غليساندو (ghlysandw), Japanese:グリッサンド (gurissando) + Malay:gelangsar|
 |**glu**|glue (adhesive)|English:glue, Swahili:gluu, Malay:glu + French:glutineux|
 |**gluten**|gluten|English:Spanish:French:gluten, Portuguese:glúten, Russian:глюте́н (gl’uten), Arabic:غْلُوتِين‎ (ḡlūtīn), Japanese:グルテン (guruten)|
@@ -758,7 +758,7 @@
 |**lifafa**|wrapping (envelope, covering)|Arabic:(lifāfa), Persian:(lefâf), Hindi:लिफ़ाफ़ा (lifāfā)|
 |**liga**|league (alliance)|French:ligue, deu:Spanish:Polish:Portuguese:liga, English: league, Russian: лига (liga), Turkish:lig, Swahili:ligi, Japanese:リーグ (rīgu)|
 |**ligu**|light (requiring little effort, easy, soft, minute, unimportant, etc.)|Hindi:लघु (laghu), Bengali:লঘু (laghu) + English:light, Spanish:ligero, Portuguese:ligeiro, French:léger, Russian:лёгкий (l’ogkiy), Polish:lekki|
-|**liki**|force (strength, power)|Mandarin:力 (lì), Cantonese:力 (lik6), Japanese:力 (riki), Korean:력 (ryeok), Vietnamese:lực|
+|**lika**|force (strength, power)|Mandarin:力 (lì), Cantonese:力 (lik6), Japanese:力 (riki), Korean:력 (ryeok), Vietnamese:lực|
 |**lila**|lilac|English:lilac, French:lilas, Portuguese:lilás, Spanish:Filipino:lila, Japanese:ライラック (rairakku), Turkish:leylak, Arabic:(laylak)|
 |**lili**|little (small; a little, somewhat)|English:little|
 |**limfa**|lymph|English:lymph, Spanish:Portuguese:linfa, Russian:ли́мфа (límfa), Malay:limfa, Japanese:リンパ (rinpa), Mandarin:淋巴 (línbā)|
@@ -781,8 +781,8 @@
 |**lote**|batch (lot)|Portuguese:Spanish:lote, English:French:lot|
 |**lotra**|otter|English:otter + French:loutre, Spanish:Filipino:lutrino, Portuguese:lontra + Russian:выдра (vydra)|
 |**lou**|leak|Mandarin:漏 (lòu), Cantonese:漏 (lau6), Japanese:漏 (rō), 루 (ru)|
-|**lugi**|green|Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)|
-|**luku**|six (6)|Mandarin:六 (liù), Japanese:六 (roku), Korean:육/륙 (六, yuk/ryuk), Vietnamese:lục|
+|**luga**|green|Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)|
+|**luka**|six (6)|Mandarin:六 (liù), Japanese:六 (roku), Korean:육/륙 (六, yuk/ryuk), Vietnamese:lục|
 |**lulu**|pearl|Amharic:ሉል (lul), Arabic:(luʾluʾa), Swahili:lulu, Oromo:lu'ulu'a, Hausa:lu'ulu'u, Fulani:luuluuri, Persian:(lo'lo')|
 |**lun**|discussion (debate, discourse)|Mandarin:论 (lùn), Cantonese:論 (leo6), Korean:론 (ron), Japanese:論 (ron), Vietnamese:luận|
 |**luna**|moon|French:lune, Spanish:luna, English:lunar, Russian:луна (luná)|
@@ -881,6 +881,7 @@
 |**mitre**|meter (100 cm)|English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:mita|
 |**mode**|way (manner, mode)|French:English:mode, Spanish:Portuguese:modo|
 |**model**|model (design)|English:model, Spanish:Portuguese:modelo, French:modèle, deu:Modell, Russian:моде́ль (modelʹ)|
+|**moka**|tree|Mandarin:木 (mù), Cantonese:木 (muk6), Japanese:木 (moku), Korean:목 (mok), Vietnamese:mộc, Oromo:muka|
 |**moku**|ink|Mandarin:墨 (mò), Vietnamese:mực, Thai:หมึก (muk)|
 |**mol kan**|mill|Mandarin:磨 (mò), Cantonese:磨 (mo4) Thai:โม่ (mo), French:moulin, Spanish:molino, Russian:молоть  (molot’)|
 |**molekul**|molecule|English:molecule, Spanish:Portuguese:molécula, French:molécule|
@@ -895,7 +896,6 @@
 |**moto**|engine (motor)|English:Spanish:Portuguese:Turkish:Malay:motor, fra;moteur, Russian:мотор (motor), Arabic:(mutūr), Mandarin:摩托 (mótuō), Japanese:モーター (mōtā), Korean:모터 (moteo), Vietnamese:mô-tơ, Hindi:मोटर (moṭar), Bengali:মোটর (moṭôr), Swahili:mota|
 |**mudan**|peony|Mandarin:牡丹 (mǔdān), Korean:모란 (moran), Japanese:(botan), Vietnamese:mẫu đơn|
 |**muka**|face|Bengali:মুখ (mukh), Hindi:मुख (mukh), Tamil:முகம் (mukam), Telugu:(mukhamu), Malay:muka, Filipino:mukha|
-|**muku**|tree|Mandarin:木 (mù), Cantonese:木 (muk6), Japanese:木 (moku), Korean:목 (mok), Vietnamese:mộc, Oromo:muka|
 |**mula**|root|Hindi:Marathi:मूल (mūl), Bengali:মূল (mūl), Telugu:మూలము (mūlamu), Malay:Filipino:mula, Khmer:មូល (mul), Burmese:မူလ (mula), Thai:มูล (mun)|
 |**multi**|many (much)|Portuguese:muito, English:French:Spanish:multi-, Russian:мульти- (mulʹti-)|
 |**mum**|wax|Turkish:mum, Persian:(mum), Hindi:मोम (mom), Bengali:মোম (mom)|
@@ -975,7 +975,7 @@
 |**pade**|fall|Telugu:(paḍu), Russian:падать (padat'), Hindi: पड़ना (paṛnā)|
 |**pagri**|turban|Hindi:Marathi:पगड़ी (pagṛī), Urdu:(pagṛī), Bengali:পাগড়ি (pagri)|
 |**pai**|pie (pastry)|English:pie, Spanish:pay, Malay:pai, Hindi:पाई (pāī), Urdu:(pāī), Bengali:পাই (pai), Japanese:パイ (pai), Korean:파이 (pai), Mandarin:排 (pái), Cantonese:批 (pai1), Persian:(pây)|
-|**paka**|coerce (use force, compel)|Mandarin:迫 (pò), Cantonese:迫 (baak1), Wu-Chinese:迫 (paq4), Japanese:迫 (haku), Vietnamese:bách|
+|**paka**|coercion (force, compulsion)|Mandarin:迫 (pò), Cantonese:迫 (baak1), Wu-Chinese:迫 (paq4), Japanese:迫 (haku), Vietnamese:bách|
 |**pake**|pack (package)|English:pack, Russian:пакет (paket), Hindi:पैकेट (pækeṭ), deu:Turkish:paket, French:paquet, Spanish:paquete, Portuguese:pacote|
 |**paksi**|bird|Hindi:Marathi:पक्षी (pakṣī), Malayalam:പക്ഷി (pakṣi), Telugu:(pakṣi), kh:បក្សី (baksəy), Thai:ปักษา (pak-sa), Bengali:পাখী (pakhī), Punjabi:ਪੰਖੀ (paṅkhī)|
 |**palaba**|conflict (argument, dispute, quarrel)|English:palaver, krio:plabah, Kongo:palaba|
@@ -1203,7 +1203,7 @@
 |**she hal**|situation (circumstances, state of affairs)|Mandarin:事态 (shìtài), Japanese:事態 (jitai), English:state of affairs, French:état des choses|
 |**she**|thing|Arabic:(šayʾ), Turkish:şey, + Mandarin:事 (shì), Cantonese:事 (si6)|
 |**shefe**|chief (boss)|French:chef, Portuguese:chefe, Spanish:jefe, Russian:шеф (šef), English:chief, Swahili:chifu, Japanese:チーフ (chīfu), + Arabic:(šeyx)|
-|**sheki**|stone (piece of rock)|Mandarin: 石 (shí), Cantonese:石 (sek3), Japanese:石 (seki), Korean:석 (seok)|
+|**sheku**|stone (piece of rock)|Mandarin: 石 (shí), Cantonese:石 (sek3), Japanese:石 (seki), Korean:석 (seok)|
 |**sheng**|victory (win, triumph)|Mandarin:胜 (shèng), Cantonese:勝 (sing3), Wu-Chinese:勝 (sen2), Japanese:勝 (shō), Korean:승 (seung), Vietnamese:thắng|
 |**shi**|Mx. (Mr. or Ms.)|Mandarin:氏 (shì), Cantonese:氏 (si6), Japanese:氏 (-shi), Korean:씨 (ssi) + Malay:si + Hindi:श्री (śrī), Bengali:শ্রী  (śri)|
 |**shia**|faction (clique)|Arabic: شِيعَة (šīʿa), heb: סִיעָה (si'á) + Mandarin:系 (xì)|
@@ -1435,7 +1435,7 @@
 |**yau**|need (lack, require)|Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu|
 |**ye**|yes|English:yeah, Korean:예 (ye), Malay:ya|
 |**yei**|yay! (yeah!)|English:yay, Polish:jej, Japanese:イエイ (iei)|
-|**yeki**|exchange (replace, trade, swap)|Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch|
+|**yeka**|exchange (replace, trade, swap)|Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch|
 |**yezi**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|
 |**yo**|some (one)|Mandarin:有 (yǒu), Cantonese:有 (jau5)|
 |**yoga**|yoga|Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)|

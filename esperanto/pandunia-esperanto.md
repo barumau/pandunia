@@ -125,7 +125,7 @@ baha din ja - bahaisto
 baka - baki  
 baka ja - bakisto  
 baka kan - bakejo  
-baki - blanka  
+baku - blanka  
 baldi - sitelo  
 balon - balono  
 baluta - kverko  
@@ -162,11 +162,11 @@ basha logi - lingvistiko
 baske - korbo  
 bata - anaso  
 bateri - baterio (pilo)  
-bato - ok (8)  
+bati - ok (8)  
 baton - stango  
 baton kasa - kaĝo  
 bau - trezoro  
-bau sheke - juvelo  
+bau sheku - juvelo  
 bazar - merkato (bazaro)  
 baze - bazo  
 baze bol - basbalo  
@@ -331,11 +331,11 @@ dai dom - palaco
 dai hai - oceano  
 dai pau - kanono  
 dai pau ja - kanonisto  
-dai sheke - ŝtonego  
+dai sheku - ŝtonego  
 dai siti - urbego  
 daka - kovri  
 dake - kovrilo  
-daki - akiri (ricevi, preni)  
+daku - akiri (ricevi, preni)  
 danse - danco  
 Danske - dana  
 Danske desha - Danio  
@@ -422,7 +422,7 @@ dua - preĝi
 dua - preĝo  
 dubnium - dubnio  
 dudu - insekto  
-duga - legi  
+dugu - legi  
 duka - malĝojigi  
 duke - malĝojo  
 duki - malĝoja  
@@ -657,7 +657,7 @@ fute bol - piedpilko
 ga - se  
 gabur - tombo (enterigi)  
 gabur bagi - tombejo  
-gabur sheki - tomboŝtono  
+gabur sheku - tomboŝtono  
 gadolinium - gadolinio  
 gaja - elefanto  
 galaksi - galaksio  
@@ -701,8 +701,8 @@ germanium - germaniumo
 gi - maŝino  
 giau - instrui (lernigi)  
 gida - gvidi  
+gioka - jado  
 gitar - gitaro  
-giuku - jado  
 glu - gluo  
 glu grafi - glumarko  
 gluten - gluteno  
@@ -1087,11 +1087,11 @@ lezi - piro
 libele - libelo  
 liga - aligi  
 liga di sanduku - Kesto de Interligo  
-liki - forto  
-liki di - forta  
+lika - forto  
+lika di - forta  
 lili - malgranda  
 lili bol - bobelo  
-lili sheki - ŝtoneto  
+lili sheku - ŝtoneto  
 lili siti - urbeto  
 limon - citrono  
 lin - lineo (ŝnuro)  
@@ -1121,7 +1121,7 @@ long - longa
 long kata - romano  
 lou - liki  
 lou sang - sangi  
-lugi - verda  
+luga - verda  
 lulu - perlo  
 luna - luno  
 luta - rabi  
@@ -1223,6 +1223,9 @@ miskin - mizera
 Misri - Egipto  
 misri di - egipta  
 mitre - metro  
+moka - arbo  
+moka jong parke - arboĝardeno  
+moka mate - ligno  
 moku - inko  
 moli - jasmeno  
 moli hua chai - jasmenteo  
@@ -1236,9 +1239,6 @@ moskovium - moskovio
 moto - motoro  
 move - movo  
 muka - vizaĝo  
-muku - arbo  
-muku jong parke - arboĝardeno  
-muku mate - ligno  
 mula - radiko  
 mum foto - kandelo  
 mum jan - mumio  
@@ -1611,7 +1611,7 @@ shava chati - obrelo
 she hal - situacio (aferstato)  
 shefe - estro (ĉefulo)  
 shefe minister - ĉefministro  
-sheki - ŝtono  
+sheku - ŝtono  
 sheng - venko  
 shia islam din - ŝijaismo  
 shikaya - plendo  
@@ -1856,7 +1856,7 @@ yang - speco (tipo, stilo)
 yau - bezoni  
 yauta - bezono  
 ye - jes  
-yeki kanon - Libro de ŝanĝiĝoj (I Ĉing)  
+yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
 Yesu - Jesuo  
 Yesu mesi - Jesuo Kristo  

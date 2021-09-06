@@ -242,10 +242,10 @@ baka - bake
 baka fan - terracotta  
 baka ja - baker  
 baka kan - bakery (bakehouse)  
-baki - white  
-baki choi - bok choy  
-baki margarite - oxeye daisy  
-baki salmon - chum salmon  
+baku - white  
+baku choi - bok choy  
+baku margarite - oxeye daisy  
+baku salmon - chum salmon  
 baldi - bucket  
 balon - balloon  
 balon peshe - pufferfish  
@@ -297,13 +297,13 @@ baske bol - basket ball
 bata - duck  
 bata krote - platypus  
 bateri - battery  
-bato - eight (8)  
+bati - eight (8)  
 baton - bar (pole, rod, shaft, staff, stick)  
 baton kasa - cage  
 baton pan - baguette  
 bau - treasure (valuables)  
 bau di - precious  
-bau sheke - gem (gemstone, jewel)  
+bau sheku - gem (gemstone, jewel)  
 bazar - market (bazaar)  
 bazarhuristia - market liberalism  
 baze - base (foundation)  
@@ -615,14 +615,14 @@ dai lasun - giant onion
 dai pau - gun (cannon)  
 dai pau ja - cannoneer  
 dai pote - cauldron  
-dai sheke - boulder  
+dai sheku - boulder  
 dai shula kan - university  
 dai siti - big city  
 daka - cover (conceal)  
 dake - cover (lid, cap, deck)  
-daki - get (receive, obtain, take)  
-daki ja - getter (receiver, recipient)  
-daki shitu - gains and losses (pros and cons)  
+daku - get (receive, obtain, take)  
+daku ja - getter (receiver, recipient)  
+daku shitu - gains and losses (pros and cons)  
 dalil - proof (evidence, proof, demonstration, testimony)  
 dama gem - checkers (draughts)  
 dane - particle (grain, bullet)  
@@ -679,9 +679,9 @@ defban - shield
 defer - defender  
 defkaske - armor (shielding)  
 Deimos - Deimos  
-deki - morality (ethics)  
-deki di - moral  
-deki logi - ethics  
+deku - morality (ethics)  
+deku di - moral  
+deku logi - ethics  
 demo - people (population)  
 demo di - public  
 demo grafi - demography  
@@ -784,7 +784,7 @@ dua - pray (beg, entreat, implore)
 dua - prayer  
 dubnium - dubnium  
 dudu - insect  
-duga - read  
+dugu - read  
 duka - sadden (make sad)  
 duke - grief (sorrow)  
 duki - sad  
@@ -1013,7 +1013,7 @@ fa lai - bring
 fa Latin kitabu - romanize  
 fa lenshi - practice (to exercise)  
 fa libu - erect  
-fa liki - strengthen (reinforce)  
+fa lika - strengthen (reinforce)  
 fa linke - connect (join, link)  
 fa loka - put (place, set)  
 fa lon - debate (discuss)  
@@ -1022,7 +1022,7 @@ fa maf - forgive (pardon)
 fa mal - own (possess, have)  
 fa marke - mark (leave a mark)  
 fa mas - increase  
-fa mas liki - reinforce (replenish)  
+fa mas lika - reinforce (replenish)  
 fa masim - maximize  
 fa mata - kill  
 fa meche - compete (have a match)  
@@ -1052,6 +1052,7 @@ fa onor - respect (honor, think highly of)
 fa ore - listen  
 fa orto - straighten  
 fa pade - drop (let fall)  
+fa paka - coerce (use force, compel)  
 fa pake - pack  
 fa par - equalize (balance, even out)  
 fa paraya - despise (scorn)  
@@ -1099,7 +1100,7 @@ fa sense - sense (perceive, detect)
 fa sharti - stipulate  
 fa shibai - lose (fail, miss, be defeated)  
 fa shin - believe  
-fa shipu - wet (dampen, moisten)  
+fa shipi - wet (dampen, moisten)  
 fa shite - defecate (shit)  
 fa shofer - drive (steer)  
 fa shopi - buy (purchase)  
@@ -1306,7 +1307,7 @@ ga - if (suppose, assume)
 Gabon - Gabon  
 gabur - grave (tomb, bury)  
 gabur bagi - graveyard (cemetery, burial ground)  
-gabur sheki - tombstone (gravestone)  
+gabur sheku - tombstone (gravestone)  
 gadolinium - gadolinium  
 gaja - elephant  
 galaksi - galaxy  
@@ -1405,9 +1406,9 @@ ging - longitudinal (parallel, vertical)
 ging darja - longitude  
 ging gola - meridian (line of longitude)  
 ging lin - warp  
+gioka - jade  
 giota - drop (droplet)  
 gitar - guitar  
-giuku - jade  
 glis - slide (slip, glide, skate)  
 glu - glue (adhesive)  
 glu bande - adhesive bandage (band-aid, sticking plaster)  
@@ -1418,7 +1419,7 @@ gluten - gluten
 gol - goal (destination)  
 gola - circle (sphere, round object)  
 gola di - round (circular)  
-gola sheki - cobblestone  
+gola sheku - cobblestone  
 golem - golem  
 gomu - rubber  
 gona - corner (angle)  
@@ -1600,7 +1601,7 @@ hogo puja - pyrolatry
 hogo sanduku - lantern  
 hogo shan - volcano  
 hogo shan kancha - volcanic glass  
-hogo sheki - flint  
+hogo sheku - flint  
 hogo tehni - fireworks (pyrotechnics)  
 hoki - hockey  
 holera - cholera  
@@ -1773,7 +1774,7 @@ joven - young (juvenile)
 joven fem - girl  
 joven jan - youth (young person)  
 joven man - boy  
-joven muku - sapling  
+joven moka - sapling  
 joven ta - youth (young age)  
 juda - judge  
 judau - judo  
@@ -2218,14 +2219,14 @@ liga di sanduku - Ark of the Covenant
 ligu - light (requiring little effort, easy, soft, minute, unimportant, etc.)  
 ligu veze di - light (light-weight)  
 Lihtenstain - Liechtenstein  
-liki - force (strength, power)  
-liki di - strong  
+lika - force (strength, power)  
+lika di - strong  
 lila - lilac  
 lila rang - lilac color  
 lili - little (small; a little, somewhat)  
 lili bol - bubble  
 lili kaboga - zucchini  
-lili sheki - pebble (gravel)  
+lili sheku - pebble (gravel)  
 lili siti - small town  
 lili yam - snack  
 limfa - lymph  
@@ -2277,12 +2278,12 @@ lote - batch (lot)
 lotra - otter  
 lou - leak  
 lou sang - bleed  
-lugi - green  
-lugi melon - honeydew (green melon)  
+luga - green  
+luga melon - honeydew (green melon)  
+luka - six (6)  
+luka fase - hexahedron (cube)  
+luka gona - hexagon  
 Luksemburge - Luxembourg  
-luku - six (6)  
-luku fase - hexahedron (cube)  
-luku gona - hexagon  
 lulu - pearl  
 lun - discussion (debate, discourse)  
 luna - moon  
@@ -2524,10 +2525,16 @@ mitre - meter (100 cm)
 mode - way (manner, mode)  
 mode loge - adverb  
 model - model (design)  
+moka - tree  
+moka ban - wood board (plank)  
+moka jang ja - carpenter  
+moka jong parke - arboretum  
+moka mate - wood (timber)  
+moka tana - log (trunk)  
 moku - ink  
 mol ja - miller  
 mol kan - mill  
-mol sheki - grindstone (millstone)  
+mol sheku - grindstone (millstone)  
 Moldova - Moldova  
 mole - mole (unit)  
 molekul - molecule  
@@ -2554,12 +2561,6 @@ Mozambike - Mozambique
 mudan - peony  
 muka - face  
 muka fun - face powder  
-muku - tree  
-muku ban - wood board (plank)  
-muku jang ja - carpenter  
-muku jong parke - arboretum  
-muku mate - wood (timber)  
-muku tana - log (trunk)  
 mula - root  
 multi - many (much)  
 multi ta - number (abundance)  
@@ -2805,7 +2806,7 @@ pade mosim - autumn (fall)
 pade mun - trapdoor  
 pagri - turban  
 pai - pie (pastry)  
-paka - coerce (use force, compel)  
+paka - coercion (force, compulsion)  
 pake - pack (package)  
 Pakistan - Pakistan  
 paksi - bird  
@@ -3394,8 +3395,8 @@ she hal ironi - situational irony
 shefe - chief (boss)  
 shefe di - main (principal)  
 shefe minister - prime minister  
-sheki - stone (piece of rock)  
-sheki jang ja - mason (stonemason, stonecutter)  
+sheku - stone (piece of rock)  
+sheku jang ja - mason (stonemason, stonecutter)  
 sheng - victory (win, triumph)  
 sheng bai - outcome (victory or defeat)  
 shi - Mx. (Mr. or Ms.)  
@@ -3942,8 +3943,8 @@ ye - yes
 yehudi - Jewish  
 yehudi din - Judaism  
 yei - yay! (yeah!)  
-yeki - exchange (replace, trade, swap)  
-yeki kanon - I Ching (the Book of Changes)  
+yeka - exchange (replace, trade, swap)  
+yeka kanon - I Ching (the Book of Changes)  
 Yemen - Yemen  
 Yesu - Jesus  
 Yesu mesi - Jesus Christ  

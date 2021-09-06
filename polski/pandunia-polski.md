@@ -210,10 +210,10 @@ baka - piec
 baka fan - terakota  
 baka ja - piekarz  
 baka kan - piekarnia  
-baki - biały  
-baki choi - kapusta pekińska  
-baki margarite - jastrun właściwy  
-baki salmon - keta  
+baku - biały  
+baku choi - kapusta pekińska  
+baku margarite - jastrun właściwy  
+baku salmon - keta  
 baldi - wiadro  
 balon - balon  
 balon peshe - ryba rozdymkowata  
@@ -263,13 +263,13 @@ baske bol - piłka do koszykówki (koszykówka)
 bata - kaczka  
 bata krote - dziobak  
 bateri - bateria  
-bato - osiem (8)  
+bati - osiem (8)  
 baton - pręt, kij  
 baton kasa - klatka  
 baton pan - bagietka  
 bau - skarb; skrabiec  
 bau di - cenny  
-bau sheke - klejnot  
+bau sheku - klejnot  
 bazar - rynek, bazar  
 bazarhuristia - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
@@ -541,12 +541,12 @@ dai lasun - czosnek olbrzymi
 dai pau - działo  
 dai pau ja - kanonier  
 dai pote - kocioł  
-dai sheke - głaz  
+dai sheku - głaz  
 dai shula kan - uniwersytet  
 daka - przykryć, przykrywać, ukryć, ukrywać  
 dake - pokrycie; pokrywa, wieko, dekiel; pokład  
-daki - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
-daki ja - odbiorca  
+daku - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
+daku ja - odbiorca  
 dalil - dowód; zeznanie  
 dama gem - warcaby  
 dane - cząstka (ziarno, kula, pocisk)  
@@ -595,9 +595,9 @@ defa - obronić (chronić)
 defban - tarcza  
 defer - obrońca  
 defkaske - zbroja  
-deki - moralność, etyka  
-deki di - moralny  
-deki logi - etyka  
+deku - moralność, etyka  
+deku di - moralny  
+deku logi - etyka  
 demo - lud, społeczeństwo  
 demo di - publiczny  
 demo grafi - demografia  
@@ -689,7 +689,7 @@ dua - pomodlić się, modlić się
 dua - modlitwa  
 dubnium - dubn  
 dudu - owad  
-duga - czytać  
+dugu - czytać  
 duka - zasmucić (zasmucać)  
 duke - żal, smutek  
 duki - smutny  
@@ -868,14 +868,14 @@ fa krus fikse - ukrzyżować
 fa Latin kitabu - zromanizować  
 fa lenshi - ćwiczyć  
 fa libu - postawić (stawiać)  
-fa liki - wzmocnić (wzmocnić, wzmóc)  
+fa lika - wzmocnić (wzmocnić, wzmóc)  
 fa linke - łączyć, wiązać, złączyć  
 fa loka - umieścić (postawić)  
 fa lon - debatować, prowadzić dyskurs  
 fa long - przedłużyć, przedłużać  
 fa mal - mieć (posiadać)  
 fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
-fa mas liki - wesprzeć (wzmocnić, zasilić)  
+fa mas lika - wesprzeć (wzmocnić, zasilić)  
 fa masim - zmaksymalizować  
 fa mata - zabić, zabijać  
 fa meche - konkurować, rywalizować; odbyć mecz, odbywać mecz  
@@ -941,7 +941,7 @@ fa sense - czuć (poczuć, postrzegać, wykrywać)
 fa sharti - wymagać, przewidywać  
 fa shibai - przegrać, przegrywać  
 fa shin - wierzyć  
-fa shipu - moczyć (zmoczyć)  
+fa shipi - moczyć (zmoczyć)  
 fa shite - srać (robić gówno)  
 fa shofer - prowadzić pojazd  
 fa shopi - kupić  
@@ -1125,7 +1125,7 @@ ga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyj�
 Gabon - Gabon  
 gabur - grób (mogiła, grobowiec, zakopać, pochować)  
 gabur bagi - cmentarz  
-gabur sheki - nagrobek  
+gabur sheku - nagrobek  
 gadolinium - gadolin  
 gaja - słoń  
 galaksi - galaktyka  
@@ -1205,9 +1205,9 @@ giga - bilion, giga-
 ging - równoległy (podłużny)  
 ging darja - długość geograficzna  
 ging gola - długość geograficzna  
+gioka - żad  
 giota - kropla  
 gitar - gitara  
-giuku - żad  
 glis - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
 glu - klej  
 glu di - lepki (kleisty)  
@@ -1216,7 +1216,7 @@ gluten - gluten
 gol - cel  
 gola - koło, okrąg  
 gola di - okrągły  
-gola sheki - bruk  
+gola sheku - bruk  
 golem - golem  
 gomu - guma  
 gona - kąt  
@@ -1380,7 +1380,7 @@ hogo puja - kult ognia
 hogo sanduku - latarnia  
 hogo shan - wulkan  
 hogo shan kancha - szkło wulkaniczne  
-hogo sheki - krzemień  
+hogo sheku - krzemień  
 hogo tehni - pirotechnika  
 hoki - hokej  
 holera - cholera  
@@ -1532,7 +1532,7 @@ joven - młody
 joven fem - dziewczyna  
 joven jan - młodzież, młoda osoba  
 joven man - chłopak  
-joven muku - młode drzewo  
+joven moka - młode drzewo  
 joven ta - młodość  
 juda - sądzić (osądzić)  
 judau - judo  
@@ -1934,14 +1934,14 @@ liga - stowarzyszać się (zrzeszać się)
 liga - liga (stowarzyszenie)  
 ligu veze di - lekki  
 Lihtenstain - Liechtenstein  
-liki - siła  
-liki di - silny  
+lika - siła  
+lika di - silny  
 lila - lilak  
 lila rang - liliowy  
 lili - mały; mało, trochę, nieco  
 lili bol - bańka  
 lili kaboga - cukinia  
-lili sheki - kamyk  
+lili sheku - kamyk  
 lili yam - przekąska  
 limfa - limfa  
 limite - limit, granica  
@@ -1987,12 +1987,12 @@ lote - wsad, partia, porcja, seria
 lotra - wydra  
 lou - przeciekać, ciec  
 lou sang - krwawić  
-lugi - zielony  
-lugi melon - melon miodowy  
+luga - zielony  
+luga melon - melon miodowy  
+luka - sześć (6)  
+luka fase - sześcian (kostka)  
+luka gona - sześciokąt (sześciobok)  
 Luksemburge - Luksemburg  
-luku - sześć (6)  
-luku fase - sześcian (kostka)  
-luku gona - sześciokąt (sześciobok)  
 lulu - perła  
 lun - dyskusja, debata, dyskurs  
 luna - księżyc  
@@ -2214,10 +2214,16 @@ mitre - metr
 mode - sposób (metoda, tryb)  
 mode loge - przysłówek  
 model - model, wzór, wzorzec, projekt  
+moka - drzewo  
+moka ban - deska  
+moka jang ja - stolarz  
+moka jong parke - arboretum  
+moka mate - drewno  
+moka tana - pień  
 moku - tusz  
 mol ja - młynarz  
 mol kan - mielić  
-mol sheki - ostrzarka (kamień młyński)  
+mol sheku - ostrzarka (kamień młyński)  
 Moldova - Mołdawia  
 mole - mol  
 molekul - molekuła (cząsteczka)  
@@ -2243,12 +2249,6 @@ Mozambike - Mozambik
 mudan - piwonia  
 muka - twarz  
 muka fun - puder  
-muku - drzewo  
-muku ban - deska  
-muku jang ja - stolarz  
-muku jong parke - arboretum  
-muku mate - drewno  
-muku tana - pień  
 mula - korzeń  
 multi - wiele  
 multi ta - liczność (mnóstwo)  
@@ -3000,8 +3000,8 @@ she hal ironi - ironia sytuacyjna
 shefe - szef, kierownik  
 shefe di - główny  
 shefe minister - premier  
-sheki - kamień (kawał skały)  
-sheki jang ja - kamieniarz  
+sheku - kamień (kawał skały)  
+sheku jang ja - kamieniarz  
 sheng - zwycięstwo, wygrana  
 shia islam din - szyism  
 shifu - mistrz (sensei)  

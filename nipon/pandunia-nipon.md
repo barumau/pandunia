@@ -73,9 +73,9 @@ bagre oselote - ジャガーネコ
 bai - 負け  
 baka fan - テラコッタ  
 baka kan - パン屋 (ベーカリー)  
-baki - 白い  
-baki margarite - フランスギク  
-baki salmon - シロザケ  
+baku - 白い  
+baku margarite - フランスギク  
+baku salmon - シロザケ  
 balon peshe - フグ  
 baluta - ナラ  
 baluta frute - ドングリ  
@@ -89,9 +89,9 @@ basha logi - 言語学
 bashi jinse - 文法的性 (名詞クラス)  
 bata - 鴨  
 bateri - バッテリー  
-bato - 八 (8)  
+bati - 八 (8)  
 baton kasa - 檻 (篭, ケージ)  
-bau sheke - 宝石  
+bau sheku - 宝石  
 bazar - 市場 (マーケット, バザー)  
 baze bol - 野球  
 baze petra - 基盤岩  
@@ -199,9 +199,9 @@ dai dom - 宮殿 (邸宅)
 dai hai - 大洋 (大海)  
 dai pau - 大砲  
 dai pote - 大釜 (大鍋)  
-dai sheke - 大石  
-daki - 受ける (もらう)  
-daki shitu - 得失  
+dai sheku - 大石  
+daku - 受ける (もらう)  
+daku shitu - 得失  
 danger - 鐘 (鈴)  
 Danske - デンマークの  
 dante balute - カシワ  
@@ -257,7 +257,7 @@ dosti - 優しい (好ましい, 親切)
 du - 二 (2)  
 dua - 祈祷  
 dudu - 昆虫  
-duga - 読む  
+dugu - 読む  
 dunia - 世界  
 durabli - 持続的  
 durmetrer - ストップウオッチ  
@@ -321,7 +321,7 @@ fa ratibu - 揃える
 fa re - 繰り返す  
 fa sam sifa - シミュレートする  
 fa shibai - 負ける  
-fa shipu - 濡らす  
+fa shipi - 濡らす  
 fa shopi - 買う  
 fa shula - 学ぶ  
 fa sing foto - ピカピカ光る (きらきらする)  
@@ -379,7 +379,7 @@ fute marke - 足跡
 ga - もし  
 gabur - 墓 (埋葬, 葬る)  
 gabur bagi - 墓 (墓地)  
-gabur sheki - 墓石 (墓碑)  
+gabur sheku - 墓石 (墓碑)  
 galaksi - 銀河  
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
@@ -418,7 +418,7 @@ glu di - 粘い
 glu fan - 粘土  
 glu grafi - ステッカー  
 gol - 目的 (行き先, ゴール)  
-gola sheki - 丸石 (玉石, 栗石)  
+gola sheku - 丸石 (玉石, 栗石)  
 gorila - ゴリラ  
 grafi kata - 漫画  
 granite - 花崗岩  
@@ -477,7 +477,7 @@ hiyar - キュウリ
 hobi ja - アマチュア  
 hogo - 火  
 hogo shan - 火山  
-hogo sheki - 火打ち石 (フリント)  
+hogo sheku - 火打ち石 (フリント)  
 hogo tehni - 花火  
 hoki - ホッケー  
 hor - 時 (１時間)  
@@ -529,7 +529,7 @@ jiu - 命 (生命)
 joven fem - 女の子  
 joven jan - 青少年  
 joven man - 男の子  
-joven muku - 若木  
+joven moka - 若木  
 jul - ジュール (J)  
 jung - 中心  
 Junguo - 中国  
@@ -693,10 +693,10 @@ libu baze - 台
 libu side - しゃがむ (蹲る)  
 lida lin - リード (手綱)  
 liga di sanduku - 契約の箱  
-liki - 力  
+lika - 力  
 lili - 小さい  
 lili kaboga - ズッキーニ  
-lili sheki - 小石  
+lili sheku - 小石  
 limon - レモン  
 limon oranje - 柑橘  
 lin - 糸  
@@ -720,9 +720,9 @@ long pipre - 畢撥
 long tire - 伸びる (張る)  
 lotra - 獺  
 lou - 漏る  
-lugi - 緑 (緑色)  
-lugi melon - ハネデューメロン  
-luku - 六 (6)  
+luga - 緑 (緑色)  
+luga melon - ハネデューメロン  
+luka - 六 (6)  
 luna keke - 月餅  
 lung - 竜  
 ####M - M  
@@ -810,6 +810,8 @@ Misri - エジプト
 miti - 会う  
 miti - 会合 (会議, ミーティング)  
 mitre - メートル  
+moka - 木  
+moka tana - 丸木  
 mole - モル  
 molekul - 分子  
 moli - 茉莉  
@@ -819,8 +821,6 @@ mos di - 苔状
 mosim - 季節  
 moto - モーター (エンジン, 機関)  
 moto sikle - オートバイ (モーターサイクル)  
-muku - 木  
-muku tana - 丸木  
 mula - 根  
 multi - 多い  
 mum melon - トウガン  
@@ -1055,7 +1055,7 @@ shava - 雨
 shava mosim - 雨季  
 she - 事 (物)  
 she hal - 事態  
-sheki jang ja - 石匠  
+sheku jang ja - 石匠  
 sheng bai - 勝敗  
 shi - さん (氏)  
 shia islam din - シーア派  
@@ -1233,7 +1233,7 @@ yau - 要る
 yau di - 必要  
 yauta - 必要  
 ye - はい  
-yeki kanon - 易経  
+yeka kanon - 易経  
 Yesu mesi - イエス・キリスト  
 yo - 何分の  
 yogo - 軛  

@@ -162,7 +162,7 @@ botânica - fito logi
 botão - buton  
 boxe - bokse  
 boxeador (pugilista) - bokse ja  
-branco - baki  
+branco - baku  
 bravo (valente, corajoso) - bravo  
 bravo! - bravo  
 braço - hande shaka  
@@ -501,7 +501,7 @@ fogo - hogo
 fogos de artifício - hogo tehni  
 fome - yam yau  
 forte - burge  
-força - liki  
+força - lika  
 força aérea - air gun  
 foto (fotografia) - foto grafi  
 fotografia - foto grafi shuta  
@@ -614,7 +614,7 @@ ironia - ironi
 islã - islam din  
 item - vutu  
 ####J - J  
-jade - giuku  
+jade - gioka  
 jaguatirica (ocelote) - oselote  
 jambolão (jambo) - jamul  
 janela - janela  
@@ -653,7 +653,7 @@ leite de soja - soi milke
 lembrar-se (recordar-se) - fa memo  
 lente - lense  
 lento - lente  
-ler - duga  
+ler - dugu  
 Letónia - Latvia  
 leve - ligu  
 lhama - liama  
@@ -686,7 +686,7 @@ luxúria - kama
 luz - foto  
 luz do dia - dia foto  
 lábio - labi  
-lápide - gabur sheki  
+lápide - gabur sheku  
 lápis - kalam  
 lápis-lazúli - lazur petra  
 lâmpada (luminária) - lampa  
@@ -717,7 +717,7 @@ maravilha - ajibu
 marcha - marche  
 margarida - margarita  
 margarida-comum - english margarita  
-margarita-maior - baki margarite  
+margarita-maior - baku margarite  
 margem (borda) - kinar  
 marinha - hai gun  
 Marrocos - Magribi desha  
@@ -773,7 +773,7 @@ moldar (modelar) - fa plasti
 moldura - frem  
 molestar (perturber) - fa turbe  
 molhado - shipi  
-molhar - fa shipu  
+molhar - fa shipi  
 molho de soja - soi sos  
 momento (instante) - sata  
 momentâneo - sata di  
@@ -799,7 +799,7 @@ mãe - ma
 mão - hande  
 mês - mes  
 mímico - mima ja  
-mó - mol sheki  
+mó - mol sheku  
 música - muzika  
 ####N - N  
 nadar (flutuar) - boyu  
@@ -847,7 +847,7 @@ oceano - dai hai
 ocular - oko di  
 ocultar (esconder) - fa sir  
 ocupado (atarefado) - mang  
-oito (8) - bato  
+oito (8) - bati  
 oleiro - pote ja  
 olho - oko  
 onda - onda  
@@ -906,12 +906,12 @@ patologia - pati logi
 patógeno - pati jene she  
 pausa - pauza  
 paz - pase  
-pederneira - hogo sheki  
+pederneira - hogo sheku  
 pedir emprestado - jeku daku  
-pedra - sheki  
-pedra preciosa (gema) - bau sheke  
-pedregulho - dai sheke  
-pedrinha - lili sheki  
+pedra - sheku  
+pedra preciosa (gema) - bau sheku  
+pedregulho - dai sheku  
+pedrinha - lili sheku  
 pegada - fute marke  
 pegajoso (adesivo) - glu di  
 peidar - fa pede  
@@ -1086,7 +1086,7 @@ sair - be ekso
 sal - sal  
 sala (câmara) - kamar  
 salino - sal di  
-salmão-cão (salmão-keta) - baki salmon  
+salmão-cão (salmão-keta) - baku salmon  
 salmão-rosa - roza salmon  
 salmão-vermelho - lal salmon  
 salsicha - sosis  
@@ -1107,7 +1107,7 @@ sede - sui yau
 segunda-feira - var un  
 seguro - sekur  
 seio (mama) - titi  
-seis (6) - luku  
+seis (6) - luka  
 seita - din shia  
 selva (floresta, jângal) - jangal  
 sem - na  
@@ -1171,7 +1171,7 @@ tenso - tense
 tentar (provar) - fa teste  
 tentáculo - sense shaka  
 teosofia - deu sofi  
-ter (achar, receber) - daki  
+ter (achar, receber) - daku  
 ter - ten  
 terminar (acabar, concluir) - pul fina  
 Terra - Geo  
@@ -1187,7 +1187,7 @@ toalha - gan tela
 toalha de mesa - meza tela  
 tomate - tomate  
 topografia - topo grafi  
-tora - muku tana  
+tora - moka tana  
 toranja - putau oranje  
 torta - pai  
 toupeira - krote  
@@ -1211,7 +1211,7 @@ tu - tu
 tubarão - sharke  
 tubérculo - masa mula  
 turbante - pagri  
-tábua (prancha) - muku ban  
+tábua (prancha) - moka ban  
 técnica - tehni  
 título - tema name  
 ####U - U  
@@ -1244,7 +1244,7 @@ vender - vende
 ver - vide  
 verbo - karma loga  
 verdadeiro - ver  
-verde - lugi  
+verde - luga  
 verdura (hortaliça, legume) - yam fito  
 verdura - choi  
 verme - verme  
@@ -1293,7 +1293,7 @@ zumbi - zombi
 álcool - alkol  
 área de acampamento - kampe bagi  
 área de transferência - gata glu ban  
-árvore - muku  
+árvore - moka  
 áspero - karse  
 âncora - angar  
 étnico - zuku di  

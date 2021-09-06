@@ -105,8 +105,8 @@ approprié (adapté, convenable, opportun) - hapu
 arabe - arabi  
 arachnophobie - arane fobi  
 araignée - arane  
-arboretum, pépinière - muku jong parke  
-arbre - muku  
+arboretum, pépinière - moka jong parke  
+arbre - moka  
 arc - arka  
 arc-en-ciel - rang arka  
 Arche d'Alliance - liga di sanduku  
@@ -229,7 +229,7 @@ biologie - bio logi
 biome - bio sistem  
 biscuit - biskute  
 bière - bir  
-blanc - baki  
+blanc - baku  
 blettes (bettes) - selge  
 bleu - blu  
 bloquer - bara  
@@ -267,7 +267,7 @@ bâton (canne, tige) - baton
 bébé - bebe  
 bédouin - badavi  
 bêche (pelle) - bagi bele  
-bûche - muku tana  
+bûche - moka tana  
 ####C - C  
 cacher - fa sir  
 cachet de la poste - posta marke  
@@ -278,7 +278,7 @@ cafetière - kafe pote
 café - kafe  
 café - kafe kan  
 cage - baton kasa  
-caillou - lili sheki  
+caillou - lili sheku  
 calcaire - kalse petra  
 calcite - kalsite  
 calculer - fa hisabu  
@@ -595,7 +595,7 @@ foin - gan chau
 fois - mar  
 fondu - yong safa  
 football - fute bol  
-force - liki  
+force - lika  
 force navale (marine) - hai gun  
 forer (percer) - fora  
 former - fa forma  
@@ -692,7 +692,7 @@ horloge - hor loga gi
 houe - chope  
 hourra - ura  
 huile (pétrole) - nefte  
-huit (8) - bato  
+huit (8) - bati  
 humain - insan di  
 humanisme - insan sim  
 humeur - emosi hal  
@@ -733,7 +733,7 @@ Irland - Aire
 ironie - ironi  
 Islam - islam din  
 ####J - J  
-jade - giuku  
+jade - gioka  
 Japon - Nipon  
 jarre (carafe, cruche) - jara  
 jasmin - moli  
@@ -805,7 +805,7 @@ ligne téléphonique - tele fon lin
 ligue (alliance) - liga  
 lilas - lila  
 lime (citron vert) - kaguji limon  
-lire - duga  
+lire - dugu  
 liste - liste  
 litre - litre  
 littérature - kitabu shutu  
@@ -853,7 +853,7 @@ marche - marche
 marché (bazar) - bazar  
 mardi - var du  
 margay (chat-tigre) - margai  
-marguerite - baki margarite  
+marguerite - baku margarite  
 mariage - gami  
 Maroc - Magribi desha  
 Mars - Marse  
@@ -882,7 +882,7 @@ merveille - ajibu
 message - anjil  
 messager - anjil ja  
 mettre (placer) - fa loka  
-meule - mol sheki  
+meule - mol sheku  
 microbe - mikro bio  
 microbiologie - mikro bio logi  
 microscope - mikroskope  
@@ -909,7 +909,7 @@ mot de passe - pas loga
 moteur - moto  
 mouche - domzeze  
 moudre - fa mol  
-mouiller - fa shipu  
+mouiller - fa shipi  
 mouillé - shipi  
 moulin - mol kan  
 mousse - mos  
@@ -1062,7 +1062,7 @@ patient - pati jan
 pause - pauza  
 pavot d'Orient - gui papi  
 pavot somnifère - sona papi  
-pavé - gola sheki  
+pavé - gola sheku  
 pays des fées (paradis) - pari desha  
 peindre - fa pente  
 peinture - pente  
@@ -1084,9 +1084,9 @@ philosophie - filsofi
 photographie - foto grafi  
 photographie - foto grafi shuta  
 photon - foto so  
-pierre - sheki  
-pierre précieuse (joyau) - bau sheke  
-pierre tombale - gabur sheki  
+pierre - sheku  
+pierre précieuse (joyau) - bau sheku  
+pierre tombale - gabur sheku  
 pieu (poteau) - zong  
 pile (batterie) - bateri  
 piment - chili  
@@ -1104,7 +1104,7 @@ plaine - plate topo
 plainte (lamentation) - shikaya  
 plaire - fa suka  
 plan - plan  
-planche - muku ban  
+planche - moka ban  
 plante (végétal) - fito  
 planter - fa poze  
 plaque tectonique - geo kaske plate  
@@ -1147,7 +1147,7 @@ poudre à canon - barude
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
 pourrir (se décomposer) - be pute  
-pousse - joven muku  
+pousse - joven moka  
 pouvoir (possible, capacité, peut-être) - bil  
 presse-papier - gata glu ban  
 presser - fa presa  
@@ -1229,7 +1229,7 @@ rivière (fleuve) - rivo
 riz - ris  
 robot - robote  
 roche (pierre) - petra  
-rocher - dai sheke  
+rocher - dai sheku  
 rock - roke muzika  
 roi - man raja  
 roman - long kata  
@@ -1276,7 +1276,7 @@ sauce - sos
 sauce de soja - soi sos  
 saucisse - sosis  
 saumon altentique - atlanti salmon  
-saumon du Pacifique (saumon kéta, saumon chien) - baki salmon  
+saumon du Pacifique (saumon kéta, saumon chien) - baku salmon  
 saumon rose - roza salmon  
 saumon sockeye - lal salmon  
 sauvage - eko jene di  
@@ -1312,10 +1312,10 @@ Shiva - Shiva
 shopping - shopi  
 si - ga  
 signer - name kitabu  
-silex - hogo sheki  
+silex - hogo sheku  
 simulation - sam sifa she  
 situation (état de choses) - she hal  
-six (6) - luku  
+six (6) - luka  
 société - sosi  
 soie - silko  
 soif - sui yau  
@@ -1449,7 +1449,7 @@ verre coloré - rang kancha
 verrue - zeyil  
 verse (face á) - verse  
 verser - fa verse  
-vert - lugi  
+vert - luga  
 veuve - vidou  
 viande - nama  
 vice-roi - vise raja  
@@ -1493,7 +1493,7 @@ wolof - Volof
 ####Y - Y  
 y compris - in klus  
 Yahweh (Jéhovah) - Yahve  
-Yi King - yeki kanon  
+Yi King - yeka kanon  
 ####Z - Z  
 zen - jen buda din  
 zombi - zombi  

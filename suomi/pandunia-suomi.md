@@ -219,7 +219,7 @@ bai - lahti
 baka - leipoa  
 baka ja - leipuri  
 baka kan - leipomo  
-baki - valkoinen (valkea)  
+baku - valkoinen (valkea)  
 baldi - sanko (ämpäri)  
 balon - ilmapallo  
 baluta - tammi  
@@ -270,13 +270,13 @@ baske bol - koripallo
 bata - sorsa (ankka)  
 bata krote - vesinokkaeläin  
 bateri - akku (paristo)  
-bato - kahdeksan (8)  
+bati - kahdeksan (8)  
 baton - tanko (sauva, patukka)  
 baton kasa - häkki  
 baton pan - patonki (ranskanleipä)  
 bau - aarre  
 bau di - arvokas  
-bau sheke - jalokivi  
+bau sheku - jalokivi  
 bazar - tori (basaari)  
 bazarhuristia - markkinaliberalismi  
 baze - perusta (perustus)  
@@ -560,13 +560,13 @@ dai dom - palatsi
 dai hai - valtameri  
 dai pau - tykki  
 dai pau ja - tykkimies  
-dai sheke - lohkare (järkäle)  
+dai sheku - lohkare (järkäle)  
 dai shula kan - yliopisto  
 dai siti - suurkaupunki  
 daka - peittää  
 dake - peite (kansi)  
-daki - hankkia (saada)  
-daki ja - saaja (vastaanottaja)  
+daku - hankkia (saada)  
+daku ja - saaja (vastaanottaja)  
 dalil - todiste (todistus, osoitus, demonstraatio)  
 dama gem - tammipeli  
 dane - jyvä (luoti)  
@@ -619,9 +619,9 @@ defban - suojakilpi
 defer - puolustaja  
 defkaske - suojakypärä  
 Deimos - Deimos  
-deki - moraali  
-deki di - moraalinen  
-deki logi - etiikka (moraalioppi)  
+deku - moraali  
+deku di - moraalinen  
+deku logi - etiikka (moraalioppi)  
 demo - väestö (kansa)  
 demo grafi - väestötiede (demografia)  
 demo krati di - demokraattinen  
@@ -716,7 +716,7 @@ dua - rukoilla (anoa)
 dua - rukous  
 dubnium - dubnium  
 dudu - hyönteinen (ötökkä)  
-duga - lukea  
+dugu - lukea  
 duka - surettaa  
 duke - suru (murhe)  
 duki - surullinen  
@@ -928,7 +928,7 @@ fa lai - tuoda
 fa Latin kitabu - latinoida  
 fa lenshi - harjoitella (treenata)  
 fa libu - nostaa pystyyn  
-fa liki - vahvistaa (voimistaa)  
+fa lika - vahvistaa (voimistaa)  
 fa linke - yhdistää  
 fa loka - panna (asettaa, sijoittaa)  
 fa lon - keskustelu (debatti)  
@@ -961,6 +961,7 @@ fa onor - kunnioittaa
 fa ore - kuunnella  
 fa orto - suoristaa (ojentaa)  
 fa pade - pudottaa  
+fa paka - pakottaa  
 fa pake - pakata  
 fa par - tasoittaa (tasata)  
 fa paraya - halveksia (hyljeksiä)  
@@ -1005,7 +1006,7 @@ fa sense - aistia
 fa sharti - vaatia (edellyttää)  
 fa shibai - hävitä (kärsiä tappio)  
 fa shin - uskoa (luottaa)  
-fa shipu - kosteuttaa  
+fa shipi - kosteuttaa  
 fa shite - paskantaa (ulostaa)  
 fa shofer - ajaa (kuskata)  
 fa shopi - ostaa  
@@ -1192,7 +1193,7 @@ ga - jos (olettaa)
 Gabon - Gabon  
 gabur - hauta  
 gabur bagi - hautausmaa  
-gabur sheki - hautakivi  
+gabur sheku - hautakivi  
 gadolinium - gadolinium  
 gaja - norsu (elefantti)  
 galaksi - galaksi  
@@ -1277,9 +1278,9 @@ ging - pitkittäinen
 ging darja - pituusaste  
 ging gola - pituuspiiri  
 ging lin - loimi  
+gioka - jade  
 giota - pisara (tippa)  
 gitar - kitara  
-giuku - jade  
 glis - liukua (luistaa)  
 glu - liima  
 glu bande - laastari  
@@ -1290,7 +1291,7 @@ gluten - gluteeni
 gol - maali (pelissä)  
 gola - piiri (ympyrä)  
 gola di - pyöreä  
-gola sheki - mukulakivi  
+gola sheku - mukulakivi  
 golem - golem  
 gomu - kumi  
 gona - kulma (nurkka)  
@@ -1448,7 +1449,7 @@ hobi ja - harrastaja (amatööri)
 hogo - tuli  
 hogo di - tulinen  
 hogo sanduku - lyhty  
-hogo sheki - piikivi  
+hogo sheku - piikivi  
 hoki - hockey (jääkiekko)  
 holera - kolera  
 holmium - holmium  
@@ -1977,13 +1978,13 @@ liga di sanduku - liitonarkki
 ligu - kevyt (hento, pehmeä, helppo, jne.)  
 ligu veze di - kevyt (kevytpainoinen)  
 Lihtenstain - Liechtenstein  
-liki - voima  
-liki di - voimakas (vahva)  
+lika - voima  
+lika di - voimakas (vahva)  
 lila - syreeni  
 lila rang - violetti (liila)  
 lili - pieni (pienesti, vähän)  
 lili bol - kupla  
-lili sheki - sorakivi  
+lili sheku - sorakivi  
 lili siti - pikkukaupunki  
 lili yam - välipala (naposteltava)  
 limfa - lymfa  
@@ -2027,11 +2028,11 @@ long ta - pituus
 lote - erä (satsi)  
 lou - vuotaa  
 lou sang - vuotaa verta  
-lugi - vihreä  
+luga - vihreä  
+luka - kuusi (6)  
+luka fase - kuutio (kuusitahokas)  
+luka gona - kuusikulmio  
 Luksemburge - Luxemburg  
-luku - kuusi (6)  
-luku fase - kuutio (kuusitahokas)  
-luku gona - kuusikulmio  
 lulu - helmi  
 lun - väittely (debatti)  
 luna - kuu  
@@ -2242,10 +2243,14 @@ mitre - metri
 mode - tapa  
 mode loge - adverbi  
 model - malli  
+moka - puu  
+moka jang ja - puuseppä  
+moka jong parke - arboretum (puulajipuisto)  
+moka mate - puuaines  
 moku - muste  
 mol ja - mylläri  
 mol kan - mylly  
-mol sheki - myllynkivi  
+mol sheku - myllynkivi  
 Moldova - Moldova  
 moli - jasmiini  
 moli hua chai - jasmiinitee  
@@ -2269,10 +2274,6 @@ Mozambike - Mosambik
 mudan - pioni  
 muka - kasvot (naama)  
 muka fun - puuteri  
-muku - puu  
-muku jang ja - puuseppä  
-muku jong parke - arboretum (puulajipuisto)  
-muku mate - puuaines  
 mula - juuri  
 multi - moni (usea)  
 mum - vaha  
@@ -2485,6 +2486,7 @@ pade di - pudonnut (tippunut)
 pade mosim - syksy (syys)  
 pagri - turbaani  
 pai - piirakka (piiras)  
+paka - pakko  
 pake - pakkaus (paketti)  
 Pakistan - Pakistan  
 paksi - lintu  
@@ -2980,7 +2982,7 @@ she hal - tilanne (asiaintila)
 shefe - päällikkö (pomo)  
 shefe di - pää-  
 shefe minister - pääministeri (suurvisiiri)  
-sheki - kivi (hippu)  
+sheku - kivi (hippu)  
 sheng - voitto  
 shi - herra tai rouva  
 shia - porukka (kuppikunta, lohko, siipi)  
@@ -3436,7 +3438,7 @@ ye - kyllä
 yehudi - juutalainen  
 yehudi din - juutalaisuus  
 yei - jee! (hurraa!)  
-yeki kanon - Muutosten kirja (I Ching)  
+yeka kanon - Muutosten kirja (I Ching)  
 Yemen - Jemen  
 Yesu - Jeesus  
 Yesu mesi - Jeesus Kristus  
