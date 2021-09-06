@@ -8,13 +8,13 @@ Abkhazie - Apsni
 aborigènes australiens - asal Australia jan  
 abricot (prune) - briko  
 Abyssinie - Habasha  
-acacia faux-gommier - helisbabul  
+acacia faux-gommier - helis babul  
 acarien - akare  
 accent - acente  
-accessible (atteignable, à portée) - acesa bil  
+accessible (atteignable, à portée) - acese bil  
 accomplir (terminer) - pul fina  
 accord - sam rai  
-accès - acesa  
+accès - acese  
 acheter - fa shopi  
 acte (action) - karma  
 actif - karma ja  
@@ -22,9 +22,9 @@ actinium - acinium
 activer (allumer, mettre en marche, déclencher) - fa karma  
 actuel (courant) - zai zaman di  
 acéphale (sans tête) - sar na di  
-adapter (ajuster) - hapa  
+adapter (ajuster) - fa hapu  
 addition (facture) - fatura  
-adhésif (collant) - glute di  
+adhésif (collant) - glu di  
 adjectif - sifa loga  
 administrateur - politi ja  
 adresse - adres  
@@ -51,7 +51,7 @@ algue - alga
 algues - hai alga  
 algues brunes - brun alga  
 Algérie - Jayer  
-aller (quitter) - kita  
+aller (quitter) - be kite  
 Aller-retour - retro tikete  
 alligator - korte krokodil  
 allophone - alo fon  
@@ -74,8 +74,8 @@ américium - amerikium
 amérindien (indien) - asal Amerka jan  
 Amérique - Amerika  
 anal - anus di  
-analyse - fenkate  
-analyser - fenkata  
+analyse - fen gata  
+analyser - fa fen gata  
 anaérobique - an air bio di  
 ancre - angar  
 Andes - Andes  
@@ -98,10 +98,10 @@ août - mes bato
 appartenir à - be mal  
 application - aplika  
 appliquer - aplika  
-apporter - layana  
+apporter - fa lai  
 apprendre (étudier) - fa shula  
 apprivoiser (dresser, dompter, discipliner) - dosila  
-approprié (adapté, convenable, opportun) - hapi  
+approprié (adapté, convenable, opportun) - hapu  
 arabe - arabi  
 arachnophobie - arane fobi  
 araignée - arane  
@@ -118,7 +118,7 @@ arctique - Artika
 argent - argente  
 argent - pesa  
 Argentine - Argentina  
-argile - glute fan  
+argile - glu fan  
 argon - argon  
 argument - argum  
 argument - tese  
@@ -144,7 +144,7 @@ Assyrie - Ashur desha
 astate - astatium  
 asthme - asma  
 astre (corps céleste) - astro  
-astrobiologie - kosmobiyolojia  
+astrobiologie - kosmo bio logi  
 astronaute - astro nave ja  
 astronef - astro nave  
 astronome - astro nomi ja  
@@ -157,7 +157,7 @@ aubergine - bedinjan
 Australie - Australia  
 Austronésie - Austronesia  
 autel - puja meza  
-autocollant - glute grafi  
+autocollant - glu grafi  
 automne - pade mosim  
 autre - alo  
 autrement - alo  
@@ -170,7 +170,7 @@ avocat - avakate
 avoine - ave  
 axe - akse  
 Azerbaijan - Azerbaijan  
-azur - lazuri  
+azur - lazur  
 aérobique - air bio di  
 aéroport - air porte  
 aïe! - au  
@@ -198,8 +198,8 @@ Barbade - Barbados
 barbare - barbar  
 barbe - barde  
 Barbuda - Barbuda  
-baromètre - air bari metre gi  
-barrière - bara  
+baromètre - air presa metre gi  
+barrière - bara mur  
 baryum - barium  
 bas - tal  
 bas - tal di  
@@ -212,9 +212,9 @@ basketball - baske bol
 bassin - basen  
 bateau - nave  
 beau - sundar  
-beau-père - gami pai  
+beau-père - gami baba  
 beauté - sundar ta  
-belle-mère - gami ma  
+belle-mère - gami mama  
 bengali - bangla basha  
 besoin - yauta  
 betterave - bete  
@@ -253,7 +253,7 @@ bouteille - botel
 bouton - buton  
 boxe - bokse  
 boxeur - bokse ja  
-bras - handoshake  
+bras - hande shaka  
 brave - bravo  
 bravo! - bravo  
 brigand (bandit) - luta ja  
@@ -266,7 +266,7 @@ but (destination) - gol
 bâton (canne, tige) - baton  
 bébé - bebe  
 bédouin - badavi  
-bêche (pelle) - parke bele  
+bêche (pelle) - bagi bele  
 bûche - muku tana  
 ####C - C  
 cacher - fa sir  
@@ -278,10 +278,10 @@ cafetière - kafe pote
 café - kafe  
 café - kafe kan  
 cage - baton kasa  
-caillou - lilsheke  
-calcaire - kalsopetre  
-calcite - kalsite  
-calculer - hisaba  
+caillou - lili sheki  
+calcaire - kalce petra  
+calcite - kalcite  
+calculer - fa hisabu  
 calendrier - kalenda  
 caleçon - bokse pante  
 calife - halifa  
@@ -294,7 +294,7 @@ canapé (sofa) - sofa
 canevas (toile) - pente tela  
 Canne à sucre - sukar cau  
 canon - dai pau  
-canoë - kanu  
+canoë - kano  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanyon  
 capacité (pouvoir, habileté) - bil ta  
@@ -302,8 +302,8 @@ cape - mantol
 caractère - zi  
 carapace (coquille, coquillage, croûte) - kaske  
 carat - kirate  
-Caraïbes - Karaibia  
-cardon - kardonkarchof  
+Caraïbes - Karibe  
+cardon - kardon karchof  
 carotte - karote  
 carreau (tuile) - tail  
 carrière - pei gung jiu  
@@ -325,21 +325,22 @@ Champagne - shampan
 champagne - shampan vin  
 champignon - fungu frute  
 chance - chanse  
-changement climatique - klimmute  
+changement climatique - klima mute  
 changer - ala  
 chapitre - babu  
 chardon - kardon  
 chardon aux ânes - pin kardon  
 chardon Marie - milke kardon  
 chardon penché - pende kardon  
-charge (fardeau, poids) - bari  
+charge (fardeau, poids) - karga  
+charger - fa karga  
 charme - charme  
 chasser - saide  
 chat - mau  
 chaudron - dai pote  
 chauve - sar kesha na di  
-chauve-souris - feimush  
-chaux - kalsomate  
+chauve-souris - fei mushu  
+chaux - kalce mate  
 chef - shefe  
 chemise - kamisa  
 cher - ami  
@@ -347,7 +348,7 @@ chercher - soka
 cheveux - sar kesha  
 chien - vaf  
 chiisme - shia islam din  
-chimie - kimlojia  
+chimie - kimi logi  
 Chine - Junguo  
 chocolat - choklate  
 chose - she  
@@ -366,17 +367,17 @@ cinq (5) - penta
 cirse commun - pero kardon  
 citron - limon  
 citrouille - kaboga  
-clair - klari  
+clair - klar  
 classique (canon) - kanon  
 clef - chabe  
 client - klien  
 cloche - danger  
 coeur - kerne  
 collaborer - kon gung  
-coller - gluta  
+coller - fa glu  
 colorant - rang mate  
-combava - karsolimon  
-comment - ko?  
+combava - karse limon  
+comment - ke riti  
 commerce - vende shope  
 compassion - sam emos  
 complot (conspiration) - sir plan  
@@ -385,24 +386,24 @@ compost - bio cana she
 compote de pommes - aple sos  
 comprendre (réaliser) - aha  
 compte - hisabu loge  
-concert - konserte  
+concert - koncerte  
 concombre - hiyar  
 concombre confit (cornichon) - achar hiyar  
-concombre de mer - haihiyar  
+concombre de mer - hai hiyar  
 conseil - sela loga  
 conseiller - fa sela  
-considérer - hema  
+considérer - hem  
 construire - fa bina  
 consultant (conseiller) - kon sela ja  
 conte de fées - pari kata  
-conteneur - inan  
+conteneur - in gi  
 continu (analogique) - zoku di  
 continuer (poursuivre, encore) - zoku  
 contract (traité) - trati  
-convenir (être approprié) - hapu  
+convenir (être approprié) - be hapu  
 convention (alliance, pacte) - kon trati  
 copie - kopi  
-coquelicot - meden papil  
+coquelicot - meden papi  
 corail - koral  
 corne - korne  
 corps - badan  
@@ -411,28 +412,30 @@ cosmique - kosmo di
 cosmonaute - kosmo nave ja  
 cosmos - kosmo  
 coton - goton  
-couch (couchette) - kushloke  
-coucher - kusha  
+couch (couchette) - kush loke  
+coucher - kush  
+coude - kudi  
+coudée - kudi metre  
 couguar (puma) - puma  
 couleur - rang  
 coupe (tasse, verre) - kupa  
 coureur - korer  
-courgette - lilkaboge  
-courir - kora  
-couronne - koron  
+courgette - lili kaboga  
+courir - kore  
+couronne - korona  
 cousin - chin brus ben  
 coutume - ada  
 couvrir - daka  
 crabe - krabe  
-craindre (avoir peur) - fobu  
+craindre (avoir peur) - be fobi  
 cravache - uma bichi  
-creuser - kava  
+creuser - fa kave  
 crevette - krevete  
 cristal - bilor  
 crochet - huke  
 crocodile - long krokodil  
 crocodilien - krokodil  
-croissant - kruasante  
+croissant - kruasan  
 croix - krus  
 croque-mitaine - bubu  
 croyant - din ja  
@@ -440,7 +443,7 @@ crème - krem
 crème glacée - ais krem  
 crêpe - France krepe  
 crêpe - krepe  
-crêperie - krepokan  
+crêperie - krepe kan  
 cube - kube  
 cuiller - chamache  
 cultiver - nong  
@@ -448,7 +451,7 @@ culturisme (musculation) - muskul bina
 cycliste - cikle ja  
 cytologie - celu logi  
 célérité - sir ta  
-côte - haitate  
+côte - hai kinar  
 côté - late  
 ####D - D  
 dance - dance  
@@ -472,11 +475,11 @@ dimanche - var sete
 dinde (dindon) - dinde  
 dinosaure - dino saur  
 diorite - diorite  
-dioxyde de carbone - karbodulokside  
+dioxyde de carbone - karbon duokside  
 directeur (principal) - shula shefe  
-dirigeant (leader) - lider  
+dirigeant (leader) - lida ja  
 disque - diske  
-distinct (numérique) - feni  
+distinct - alo fen di  
 diverger (ne pas être d'accord) - alo rai  
 divers (plusieurs) - vari  
 docile (insipide) - dosili  
@@ -488,12 +491,12 @@ domestiqué (apprivoisé) - dosiljeni
 dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - fa jene  
 données - data  
-dormir - sona  
+dormir - be sona  
 douche - dush  
 drapeau - bandera  
 droit (rectiligne) - orto  
 droit - haki  
-droits de l'homme - insani hake  
+droits de l'homme - insan haki  
 dur - gati  
 durer - dura  
 durée - dur  
@@ -521,9 +524,9 @@ Einsteinium - ainstainium
 elfe - elfe  
 empreinte de pied - fute marke  
 empreinte digitale - angul marke  
-empruntre - jekogeta  
+empruntre - jeku daku  
 en arrière - retro  
-en avant - jino  
+en avant - do jin  
 en ligne - pa lin  
 enclume - metal bede  
 enfant - bacha  
@@ -533,21 +536,20 @@ enseigner - giau
 ensommeillé (somnolent) - sona tabi  
 ensuite (après, plus tard, ir a, en el futuro) - pos  
 entonnoir - dara tubo  
-entrer - intru  
+entrer - be in  
 envelopper (emballer) - lifafa  
-erroné - galti  
+erroné - galte di  
 escroquer - fa truke  
 espace (zone, région) - area  
 espace - hali zi  
 espectador - vide ja  
-esprit (génie) - jin  
+esprit (génie) - jini  
 estrade - tai  
 et - e  
 ethnie - zuku  
 ethnique - zuku di  
 Europe - Europe  
 européen - europi  
-exact (précis) - justi  
 excaver - eshkava  
 exclure - eshklusa  
 exclusif - eshklusivi  
@@ -562,7 +564,7 @@ exécrer - an ai
 ####F - F  
 fable - zou kata  
 face (facette) - face  
-facile - fasili  
+facile - facil  
 faction (clique) - shia  
 faible - debili  
 faible - mirde  
@@ -571,12 +573,12 @@ faire - fa
 faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen shin  
 fait - fate  
 fanal (balise) - foto minar  
-fatigue - fatigia  
+fatigue - fatige  
 faute (erreur) - galte  
 favori (préféré) - mas fili di  
 favoritisme - mas fili jui  
 fente (fissure, fêlure) - krake  
-fenêtre - janel  
+fenêtre - janela  
 fermenter - be bio mute  
 feu - hogo  
 feu d’artifice - hogo tehni  
@@ -585,7 +587,7 @@ fibre - lin so
 fil de fer - metal lin  
 fil de trame - vei lin  
 fils ou fille - ben  
-fini - fini  
+fini - fin di  
 finir - fin  
 fiord - fiorde  
 fleur - hua  
@@ -594,9 +596,11 @@ foin - gan cau
 fois - mar  
 fondu - yong safa  
 football - fute bol  
-force navale (marine) - haigun  
+force - liki  
+force navale (marine) - hai gun  
 forer (percer) - fora  
 former - fa forma  
+fort - burge  
 forêt (jungle) - jangal  
 forêt de kelp - alga jangal  
 fosse - kave  
@@ -605,8 +609,8 @@ fougères - parne
 fourmi - murche  
 fragment - parche  
 frais - taza  
-francophone - francefone  
-francophonie - Francefonia  
+francophone - france fon di  
+francophonie - France fon dunia  
 fromage - chize  
 fromage blanc - panir  
 fruit - frute  
@@ -615,32 +619,32 @@ fée - pari
 Félicitations ! - barka  
 féliciter - barka  
 ####G - G  
-galaxie - galaksia  
+galaxie - galaksi  
 galop - galope  
-garde-boue (aile) - fandefban  
+garde-boue (aile) - fan def ban  
 Gaule - Galia  
 gaz - gas  
 gaz lacrymogène - oko sui gas  
 gazelle - gazel  
 geler (glacer) - be ais  
-genou - gute  
+genou - guta  
 genre grammatical - bashi jinse  
 geographie - geo grafi  
 Germanie - Germania  
 gingembre - zinji  
-giraffe - jiraf  
+giraffe - jirafa  
 glabre - kesha na di  
 glace - ais  
 glacé (glacial, gelé) - ais di  
 gland - baluta frute  
-glisser - glisu  
+glisser - glis  
 gnome - geo elfe  
 gombo - bamia  
 gorille - gorila  
 goule - gul  
 gouvernement - politi  
 grand-mère - chin ma  
-grand-père - chin pa  
+grand-père - chin ba  
 granit - granite  
 gravire - grave  
 grenouille - krokroke  
@@ -655,47 +659,47 @@ guitare - gitar
 gâteau de lune - luna keke  
 génotype - jene tipe  
 généalogie - jene logi  
-généralissime - gunrajer  
+généralissime - gun raja  
 généreux - donivi  
-généreux - karimi  
-générosité (charité) - karimia  
+généreux - karim di  
+générosité (charité) - karim  
 géologie - geo logi  
-géométrie - geo metri  
-géopolitique - geo politika  
+géométrie - geo metre  
+géopolitique - geo politi  
 géothermique - geo termo  
 gêner (déranger, perturber) - fa turbe  
 ####H - H  
-habiller (vêtir) - fuka  
+habiller (vêtir) - fa fuku  
 haine - hen  
 hameçon - peshe huke  
 haut - gau  
 hautes technologies - gau tehni  
 Haïti - Haiti  
 hein? - he  
-Hesse - Hesia  
+Hesse - Hese  
 heure - hor  
 heureux - suka  
 hier - chendeno  
 Hindustan - Hindu desh  
 hippopotame  - gubu  
 hiver - leng mosim  
-hivernal (hibernal) - lengomosimi  
+hivernal (hibernal) - leng mosim di  
 hockey - hoki  
 hockey sur glace - ais hoki  
 honneur - onor  
 honnête (sûr, crédible, sûrement) - amen  
 honorer - fa onor  
-horloge - horloger  
+horloge - hor loga gi  
 houe - chope  
 hourra - ura  
 huile (pétrole) - nefte  
 huit (8) - bato  
-hum - hem  
-humain - insaniki  
-humanisme - insanistia  
+humain - insan di  
+humanisme - insan jui  
 humeur - emoshal  
+hum… - hem…  
 hygiène - salu safa ta  
-hélicoptère - helisviman  
+hélicoptère - helis fei gi  
 héros - hero  
 hétéroromantique (hétéromantique) - alo romanse  
 hétérosexuel - alo sekse di  
@@ -703,14 +707,14 @@ hôtel - hotel
 ####I - I  
 imitateur (mime) - mima ja  
 imiter - mima  
-immigrant - inmigran  
-immigrer - inmigra  
+immigrant - in migra ja  
+immigrer - in migra  
 imperméable - shava kote  
-imploser - inplozu  
-implosion - inploze  
-important - hami  
-inclure - inklusa  
-inclusif - inklusivi  
+imploser - be in bum  
+implosion - in bum  
+important - ham di  
+inclure - fa in klus  
+inclusif - in klus di  
 Inde - Barti  
 indien - barti  
 Indus - Hindu riu  
@@ -723,31 +727,33 @@ insomnie - an sona
 intention - nia  
 international - nasi medi  
 interracial - rasa medi  
-introverti - introversi  
+introverti - in verse jan  
 inutile - no yau di  
 inverse (négatif, in-) - an  
 Irland - Aire  
-ironie - ironia  
+ironie - ironi  
 Islam - islam din  
 ####J - J  
-jade - giuke  
+jade - giuku  
 Japon - Nipon  
-jarre (carafe, cruche) - jar  
+jarre (carafe, cruche) - jara  
 jasmin - moli  
-jaïnisme - jeinistia  
+jaïnisme - jain din  
 je (me) - mi  
 jeu de société - ban gem  
 jeudi - var chatre  
-jeune (juvénile) - joveni  
+jeune (juvénile) - joven  
 joug - yogo  
 joule (J) - jul  
-jour - den  
-juje - juder  
+jour - dia  
+journal - den loge  
+juje - jude ja  
 Jupiter - Jupiter  
 jus - jus  
 jusque (jusqu’à) - hata  
 juste - adil  
 justice - adil ta  
+justo (exact, précis) - juste  
 Jésus - Yesu  
 Jésus-Christ - Yesu mesi  
 ####K - K  
@@ -765,31 +771,31 @@ l'un l'autre - se kon
 lac - lage  
 laid (vilain) - dusvidi  
 laine - meme kesha  
-laisser - lasha  
+laisser - lashe  
 lait - milke  
 lait de soja - soi milke  
 laitue - letis  
 lama (enseignant religieux du bouddhisme tibétain) - lama  
-lama - liame  
+lama - liama  
 lampe - lampa  
 Lance-roquettes - rokete lance gi  
 langue - basha  
 langue - lisan  
 langue maternelle - jene basha  
 lapin (lièvre) - tuzi  
-lapis-lazuli - lazurpetre  
+lapis-lazuli - lazur petra  
 lasagne - lazanya  
-latéral - lati  
+latéral - late di  
 lave - yong petra  
 le (la) - a  
-lent - lenti  
+lent - lente  
 lentille - lense  
 Lettonie - Latvia  
 leur - yamen su  
 lexical - loga di  
 leçon - shula she  
 libellule - libele  
-libre - huri  
+libre - huru  
 lichen - alga fungu  
 lien - linke  
 lieu - loka  
@@ -799,7 +805,7 @@ ligne de commande (console, terminal, invite de commande) - amir lin
 ligne téléphonique - tele fon lin  
 ligue (alliance) - liga  
 lilas - lila  
-lime (citron vert) - kagujolimon  
+lime (citron vert) - kaguji limon  
 lire - duga  
 liste - liste  
 litre - litre  
@@ -810,12 +816,13 @@ local - loka di
 loin - do long  
 long - long  
 longtemps - long dura  
-loquace - logivi  
+loquace - loga tabi di  
 loup - volfe  
 lourd - veze di  
 loutre - lotra  
 luisant (brillant) - foto mira di  
 lumière - foto  
+lumière du jour - dia foto  
 lundi - var un  
 lune - luna  
 luthéranisme - Luter din  
@@ -824,7 +831,7 @@ lutte - jihade
 luxure (libido) - kama  
 lynx - lince  
 lys - susan  
-léger - legi  
+léger - ligu veze di  
 légume - yam fito  
 lézard - saur  
 ####M - M  
@@ -842,21 +849,21 @@ mandarine - lal oranje
 mandarine satsuma - venjou oranje  
 manichéisme - mani din  
 mantra - mantra  
-marbre - kalsokristal  
+marbre - kalce kristal  
 marche - marche  
 marché (bazar) - bazar  
 mardi - var du  
 margay (chat-tigre) - margai  
 marguerite - baki margarite  
 mariage - gami  
-Maroc - Magribe desha  
+Maroc - Magribi desha  
 Mars - Marse  
-marécage (marais) - fantopia  
+marécage (marais) - fan topo  
 masque - maska  
 masse - masa  
 mat (opaque) - foto mata di  
 match - meche  
-mathématiques - hisabolojia  
+mathématiques - hisabu logi  
 matière - mate  
 maximum - masim  
 maître - mestre  
@@ -879,12 +886,14 @@ meule - mol sheki
 microbe - mikro bio  
 microbiologie - mikro bio logi  
 microscope - mikroskope  
+midi - medi dia  
 miel - medu  
 migration - migra  
-mine - kuangia  
+mine - kuang shan  
+minuit - medi noche  
 mode (façon, manière) - mode  
 modeler - fa plasti  
-mois - lun  
+mois - mes  
 mole (unité) - mole  
 momentané - sata di  
 monde - dunia  
@@ -901,12 +910,12 @@ moteur - moto
 mouche - domzeze  
 moudre - fa mol  
 mouiller - fa shipu  
-mouillé - shipu  
+mouillé - shipi  
 moulin - mol kan  
 mousse - mos  
 mousson - shava mosim  
 moussu - mos di  
-mouvoir (bouger) - kina  
+mouvoir (bouger) - fa kino  
 mule - iha uma  
 mur - mur  
 musique - muzika  
@@ -916,12 +925,13 @@ mât - masta
 mère (maman) - ma  
 mètre - mitre  
 médicament (remède) - dava she  
-méduse - haijel  
+méduse - hai jele  
 méfait (péché) - duskar  
 mémoire - memo  
 méninge - meninge  
 métaux lourds - bari metal  
 métier à tisser - tela gi  
+mûrier - tuta  
 ####N - N  
 nagar (flotter) - boyu  
 nappe - meza tela  
@@ -953,6 +963,7 @@ nouveauté - nove ta
 nouvelle (récit court) - korte kata  
 Noé - Noe  
 nuage - megi  
+numérique - komputa di  
 nylon - nilon  
 nécessaire - yau di  
 nécrophilie - mata badan fili  
@@ -960,7 +971,7 @@ néologisme - nove loga
 néophyte - nove ka  
 ####O - O  
 oasis - vase  
-objectif (cible) - dika  
+objectif (cible) - dike  
 objet (article) - vutu  
 oblique (de travers) - terca  
 obsidienne - osidian  
@@ -974,7 +985,7 @@ océan Atlantique - Atlanti Hai
 océan Indien - Barti Hai  
 odeur - aroma  
 oeuf - anda  
-oie - gansa  
+oie - ganse  
 oignon - piaze  
 oiseau - paksi  
 ombrelle (parasol) - sol chati  
@@ -1000,7 +1011,7 @@ orge - jau
 origine - asal  
 originel - asal di  
 orphelinat - yatim dom  
-orthogonal - orto gon di  
+orthogonal - orto gona di  
 otite - ore flame  
 ou - o  
 ouah - va  
@@ -1023,7 +1034,7 @@ pandémie - pan demo pati
 paneuropéen - pan europa di  
 panier (panier de basketball) - baske  
 panneau de signalisation - dau ban  
-pansement (sparadrap) - glute bande  
+pansement (sparadrap) - glu bande  
 pantalon - pante  
 pantomime - pan mima  
 pantoufle (babouche) - babuche  
@@ -1040,7 +1051,7 @@ pardonner - fa maf
 Paris - Paris  
 parler - loga  
 parole (mots) - loga  
-parti - kiti  
+parti - kite  
 passe (passage) - pas dau  
 passeport - pasporte  
 passer - durita  
@@ -1049,16 +1060,16 @@ pastèque - arbuza
 pathologie - pati logi  
 patient - pati jan  
 pause - pauza  
-pavot d'Orient - guipapil  
-pavot somnifère - sona papil  
+pavot d'Orient - gui papi  
+pavot somnifère - sona papi  
 pavé - cirke sheki  
 pays des fées (paradis) - pari desha  
 peindre - fa pente  
 peinture - pente  
 pelle - bele  
-perdant - shibai ja  
-perder - shibai tena  
-pere (papa) - pa  
+perdant - shitu bai ja  
+perder - shitu  
+pere (papa) - ba  
 perfectionner (parfaire) - fa pul bon  
 perplexe (désorienté) - ruhu mishe di  
 perroquet - papagai  
@@ -1069,12 +1080,13 @@ peu - shau
 pharmacie - dava she kan  
 pharmacologie - dava she logi  
 phase - faze  
-philosophie - filsofia  
-photographie - foto grafe  
-photographie - foto grafia  
+philosophie - filsofi  
+photographie - foto grafi  
+photographie - foto grafi shuta  
+photon - foto so  
 pierre - sheki  
 pierre précieuse (joyau) - bau sheke  
-pierre tombale - gabur sheke  
+pierre tombale - gabur sheki  
 pieu (poteau) - zong  
 pile (batterie) - bateri  
 piment - chili  
@@ -1104,14 +1116,14 @@ plus - mas
 pluvieux -   
 pneumonie - pulmon flame  
 pocion - dava sui  
-podzol - huidarte  
+podzol - hui darte  
 poids (lourdeur, gravité) - veze  
 poireau - porei  
 poisson - peshe  
 poisson-globe - balon peshe  
 poivre - pipre  
 poivre long - long pipre  
-poli - foto frika  
+poli - foto frike  
 pollution - najis  
 Polynesie - Polinesia  
 pomme - aple  
@@ -1122,7 +1134,7 @@ porte-bloc (planchette à pince) - pince ban
 porter (s’habiller) - fuku  
 Porto Rico - Portoriko  
 Portoricain - portoriko jan  
-posidonie (herbiers marins) - haichau  
+posidonie (herbiers marins) - hai cau  
 possédant (propriétaire) - mal ja  
 posture (position) - asan  
 postérieur - pos di  
@@ -1135,17 +1147,20 @@ poudre à canon - barude
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
 pourrir (se décomposer) - be pute  
-pousse - joveni moke  
+pousse - joven muku  
 pouvoir (possible, capacité, peut-être) - bil  
-presse-papier - katoglutoban  
-pression atmosphérique - air bari  
+presse-papier - gata glu ban  
+presser - fa presa  
+pression - presa  
+pression atmosphérique - air presa  
+pressoir - presa gi  
 preuve - dalil  
 problème - problem  
 problématique - problem di  
 procédé (rite) - riti  
 professeur (enseignant) - shula guru  
 profession (métier) - pei gung  
-profond - fasteli  
+profond - face tele  
 programme - program  
 projectile - lance she  
 projection - lance grafi  
@@ -1159,8 +1174,8 @@ prune de Java - jamul
 précieux - bau di  
 préférer - mas fili  
 présent - zai di  
-prêter (empruntre) - jeka  
-prêter - jekodona  
+prêter (empruntre) - jeku  
+prêter - jeku dona  
 psychologie - ruhu logi  
 psyché - ruhu  
 pyramide - piram  
@@ -1221,6 +1236,7 @@ Rome - Roma
 rose - roza  
 rossignol - bulbul  
 rosée - rose  
+rotule - guta kaske oste  
 roue - chakra  
 rouge - lal  
 ruban (bande) - tepe  
@@ -1233,7 +1249,7 @@ réparer - shuli
 réponse - javabu  
 répéter - fa re  
 répétition - re  
-rêche (rugueux, gros) - karsi  
+rêche (rugueux, gros) - karse  
 rôtir - roste  
 ####S - S  
 s'installer (déménager) - be migra  
@@ -1264,7 +1280,7 @@ saumon rose - roza salmon
 saumon sockeye - lal salmon  
 sauvage - ekojeni  
 savane - garma zona cau istan  
-savoir (connaître) - sabi  
+savoir (connaître) - sabe  
 Scandinavie - Eskandia  
 schtroumpf - blu elfe  
 scie - sera  
@@ -1272,7 +1288,7 @@ sculpteur - eskulter
 scutelle - oste shalke  
 se - se  
 se baigner - banya  
-se mouvoir - kinu  
+se mouvoir - be kino  
 se passer - duru  
 se plaire - be suka  
 se rappeler (se remémorer) - fa memo  
@@ -1304,18 +1320,18 @@ soie - silko
 soif - sui yau  
 soir (soirée) - sham  
 soja - soi  
-soldat - gunjan  
+soldat - gun jan  
 soleil - sol  
 sommeil - sona  
 son (sa) - se su  
 son - soni  
-soumettre - karmisa  
+soumettre - gung mise  
 soumission - islam  
 souris - mushu  
 sous-estimer - fa min rai  
 sport - esporte  
 squelette - oste jama  
-substance - kim  
+substance - kimi  
 sucre - sukar  
 sueur - sueda  
 suffixe - pos fikse  
@@ -1330,7 +1346,7 @@ séminal - seme di
 sénateur - supra vakil ja  
 série - sili  
 sûr - sekur  
-s’accroupir - insida  
+s’accroupir - libu side  
 ####T - T  
 table - meza  
 tableau (panneau) - ban  
@@ -1348,9 +1364,9 @@ tendance - klin
 tender - long tire  
 tendu - tense  
 tentacule - sense shaka  
-tente - hemah  
+tente - hema  
 terrain - geo forme  
-terrain de camping - kampistan  
+terrain de camping - kampe bagi  
 Terre - Geo  
 terre cuite - baka fan  
 terreplatiste - plate geo jui ja  
@@ -1380,10 +1396,10 @@ trace - marke
 tracteur - trator gi  
 traduction - tarjum she  
 travail - gung  
-travailler - kara  
-travailleur (ouvrier) - karer  
+travailler - gung  
+travailleur (ouvrier) - gung ja  
 traîner - trator  
-tremper (faire mariner) - pul shipu  
+tremper (faire mariner) - pul shipi  
 tribord - nave raite  
 trois (3) - tri  
 tropique - garma zona  
@@ -1439,7 +1455,7 @@ vide - hali
 vie - jiu  
 vierge - virje  
 vieux (ancien) - cheniki  
-vieux (âgé, ancien) - lavi  
+vieux (âgé, ancien) - lau  
 vigne - eskalotan  
 vignoble - putau bagi  
 village - chun  
@@ -1451,29 +1467,29 @@ visage - muka
 viser - fa dika  
 Vishnou - Vishnu  
 vite (rapide) - rapide  
-vivant - jivi  
+vivant - jiu  
 vivre (habiter) - doma  
-vocabulaire (lexique) - loga jami  
+vocabulaire (lexique) - loga jama  
 voile - hijabu  
 voir - vide  
 voire (même) - hata  
 vol - fei  
 volcan - hogo shan  
-voler - feyu  
+voler - fei  
 votre - tumen su  
 vouloir - vol  
-voyelle - jungofon  
+voyelle - jung fon  
 voûte - arka chati  
 vrai - ver  
 vulve - vulva  
 végétarien - fito yam jui ja  
 Vénus - Venus  
-vêtements - fuke  
+vêtements - fuku  
 vœu (promesse) - vode  
 wolof - Volof  
 ####X - X  
 ####Y - Y  
-y compris - inkluso  
+y compris - in klus  
 Yahweh (Jéhovah) - Yahve  
 Yi King - yeki kanon  
 ####Z - Z  
@@ -1484,19 +1500,20 @@ zoo - zou bagi
 zoologie - zou logi  
 zoologique - zou logi di  
 Zoroastre - Zardush  
-zoroastrien - Zardush din ja  
-zoroastrisme - Zardush din  
+zoroastrien - zardush din ja  
+zoroastrisme - zardush din  
 zoulou - Zulu  
 zèbre - zebra  
 Égypte - Misri  
+Égypte antique - Keme  
 Épicéa - picea  
 âge - sen  
 éblouir (étonner, stupéfier, surprendre) - fa ajibu  
-échec - shibai  
+échec - shitu bai  
 échelle - shalke  
 école (collège) - shula kan  
 école primaire - baze shula kan  
-école secondaire - jungoshulkan  
+école secondaire - jung shula kan  
 économie - mal nomi  
 écorce - tire yo pil  
 écrire - kitabu  
@@ -1509,7 +1526,7 @@ zèbre - zebra
 élever - jene yo zou  
 éloge - euloge  
 élément (unité fondamentale) - so  
-élément chimique - kim so  
+élément chimique - kimi so  
 émeraude - zumarde  
 émir - amir ja  
 émirat - amir desha  
@@ -1520,17 +1537,17 @@ zèbre - zebra
 éponge - esponje  
 époux - gami jan  
 épreuve (test) - teste  
-épée - katane  
+épée - katana  
 équilibre - par veze ta  
 équipe - tim  
-étagère - liboban  
+étagère - libu ban  
 étain - estan  
 état - hal  
 éternuer (atchoum) - achi  
 étinceler - fa sing foto  
 étoile - sing  
 étude - estude  
-études de genre - jinsolojia  
+études de genre - jinse logi  
 étudiant - estuder  
 étudiant - shula ja  
 étudier - estuda  
@@ -1538,9 +1555,9 @@ zèbre - zebra
 été - garma mosim  
 évaluer - fa valu  
 évangile - evanjil  
-éveillé - jagi  
+éveillé - jaga  
 évident - eshvidi  
 être - si  
-être couché - kushu  
+être couché - kush  
 être humain - insan  
 œil - oko  

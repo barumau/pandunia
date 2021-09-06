@@ -2,6 +2,7 @@
 ####A - A  
 abies - 冷杉  
 acente - 重音符号  
+acese facil ta - 無障礙環境  
 achar - 腌菜  
 achi - 打喷嚏 (阿嚏)  
 ada - 习惯 (风俗)  
@@ -30,6 +31,7 @@ alkol - 酒
 almari - 碗碟橱  
 almas - 钻石  
 alo - 另一  
+alo fen di - 分开的  
 alo rai - 不同意  
 amen - 诚实  
 amen bil - 忠实  
@@ -82,6 +84,9 @@ Austronesia - 南岛
 auto loga - 独白  
 ave - 燕麦  
 ####B - B  
+ba - 爸爸  
+ba di ba - 爷爷 (祖父)  
+ba di ma - 奶奶 (祖母)  
 babu - 章  
 bacha - 小孩  
 badam - 杏仁 (巴旦木)  
@@ -90,6 +95,7 @@ bagaje - 行李
 bagre - 虎  
 bagre oselote - 小斑虎貓  
 bah - 呸  
+bai - 击败  
 baka fan - 陶瓦  
 baki - 白  
 baki choi - 白菜 (小白菜)  
@@ -107,7 +113,6 @@ banka kan - 银行
 banya - 洗澡  
 banya - 游泳  
 banya kamar - 浴室  
-bari - 擔子  
 basa - 够  
 basha - 语言  
 basha logi - 语言学  
@@ -125,10 +130,16 @@ baze bol - 棒球
 baze shula kan - 小学  
 be ais - 结冰  
 be bio mute - 发酵  
+be fatige - 疲劳  
+be fobi - 害怕  
 be hogo - 烧  
+be jaga - 睡醒  
+be kino - 动  
+be kite - 去  
 be mal - 属于  
 be pute - 腐烂  
 be retro - 返回 (回来)  
+be sona - 睡觉 (困觉)  
 be van - 玩耍  
 be’e - 山羊  
 bebe - 宝宝  
@@ -175,6 +186,7 @@ bufete - 自助餐
 buku - 书  
 bulbul - 夜莺  
 bum - 爆炸  
+burge - 要塞  
 buton - 扣子  
 ####C - C  
 celu logi - 细胞学  
@@ -217,7 +229,8 @@ dai hai - 大洋 (大海)
 dai pau - 大炮  
 dai pote - 炼药锅  
 dai sheke - 磐石  
-daku - 获得  
+daki - 获得  
+daki shitu - 得失  
 danger - 钟 (摇铃)  
 Danske - 丹麦的  
 dante balute - 槲树  
@@ -233,12 +246,14 @@ dava sui - 药水
 debili - 虚弱 (易坏)  
 defban - 盾牌  
 defkaske - 盔甲  
-den - 白天  
+den - 日 (天)  
+den loge - 日记  
 desha jan - 公民  
 deu - 神  
 deu kata - 神话  
 deu nagar zi - 天城文  
-dika - 目的 (目标)  
+dia - 白天  
+dike - 目的 (目标)  
 din - 宗教  
 din ja - 信徒  
 din shia - 教派  
@@ -297,8 +312,16 @@ fa - 作
 fa bina - 建设  
 fa dante - 咬  
 fa dika - 瞄准  
+fa fen gata - 分析  
 fa fobi - 吓唬  
+fa helpe - 帮助  
+fa hisabu - 计算  
 fa hogo - 燃烧  
+fa in klus - 包括  
+fa kave - 挖  
+fa kino - 动  
+fa kite - 除去  
+fa lai - 带来  
 fa linke - 连接  
 fa loka - 放置  
 fa memo - 记得 (回忆)  
@@ -321,23 +344,19 @@ fa tele fon - 打电话
 fa truke - 耍花招  
 fa vode - 许诺  
 face - 面  
+face tele - 深  
 faida - 效用 (好处)  
 fan - 坭  
-fandefban - 挡泥板  
-fantopia - 沼泽  
-fasilia da akses - 無障礙環境  
-fasteli - 深  
+fan def ban - 挡泥板  
+fan topo - 沼泽  
 fate - 事实  
-fatigu - 疲劳  
 fatura - 帐单  
+fei - 飞  
 fem - 女  
-feni - 数字的  
-fenkata - 分析  
-fenkate - 分析  
-feyu - 飞  
+fen gata - 分析  
 filme - 膜  
-filsofia - 哲学  
-fino - 了  
+filsofi - 哲学  
+fin - 了  
 fiorde - 峡湾  
 firuze - 绿松石  
 fito - 植物  
@@ -345,20 +364,20 @@ fito logi - 植物学
 fito yam jui ja - 素食主义者  
 flame - 炎症  
 fleche - 箭  
-fobu - 害怕  
 fong - 蜂  
 fora - 钻孔  
 foto - 光  
-foto frika - 擦亮  
-foto grafe -  照片 (相片)  
+foto frike - 擦亮  
+foto grafi -  照片 (相片)  
 foto lin - 光线  
 foto minar - 信号  
 foto mira di - 光泽  
+foto so - 光子  
 frem - 框  
-frika - 擦伤  
+frike - 擦伤  
 frute - 果  
 frute bagi - 果园  
-fuke - 衣服  
+fuku - 衣服  
 fuku - 穿  
 fuku vashi gi - 洗衣机  
 fungu frute - 蘑菇  
@@ -367,37 +386,39 @@ fute marke - 脚印
 ga - 如果 (要是)  
 gabur - 坟墓 (埋葬)  
 gabur bagi - 公墓 (墓地)  
-gabur sheke - 墓石 (墓碑)  
-galaksia - 恆星系  
+gabur sheki - 墓石 (墓碑)  
+galaksi - 恆星系  
 Galia - 高卢  
 galte - 错误  
 gan cau - 干草  
-gansa - 雁 (鹅)  
+ganse - 雁 (鹅)  
 ganum - 麦  
 garma mosim - 夏季  
 garma zona - 热带  
 garma zona cau istan - 稀树草原  
+gata - 切  
+gata glu ban - 剪贴板  
 gati - 硬  
-gatomate - 固体  
+gati mate - 固体  
 gau tehni - 高科技 (高技术)  
 gencha - 检查  
 geo forme - 地势  
 geo grafi - 地理  
-geo metri - 几何学  
-geo politika - 地缘政治  
+geo metre - 几何学  
+geo politi - 地缘政治  
 geo termo - 地热的  
 giau - 教学  
 gida - 导游  
 gida buku - 指南  
 gida ja - 导游  
-ginglin - 經紗  
+ging lin - 經紗  
 gitar - 吉他  
-giuke - 玉  
-glisu - 滑下  
-glute bande - 创可贴 (邦迪)  
-glute di - 黏的  
-glute fan - 黏土  
-glute grafi - 贴纸  
+giuku - 玉  
+glis - 滑下  
+glu bande - 创可贴 (邦迪)  
+glu di - 黏的  
+glu fan - 黏土  
+glu grafi - 贴纸  
 gol - 目的  
 gorila - 大猩猩  
 goton - 棉  
@@ -407,14 +428,18 @@ grave - 砾石
 grimas - 鬼脸  
 Guangjou - 广州  
 gubu - 河马  
-guipapil - 鬼罂粟 (東方罌粟)  
+gui papi - 鬼罂粟 (東方罌粟)  
 guku hua - 菊花  
 gun - 军队  
+gun jan - 军人  
+gun raja - 大元帅  
 gung - 工作  
+gung - 工作  
+gung ja - 工人 (工作者)  
 gung kan - 工厂  
-gunjan - 军人  
-gunrajer - 大元帅  
-gute - 膝  
+gung mise - 提交  
+guta - 膝  
+guta kaske oste - 膝盖骨  
 ####H - H  
 ha - 有  
 habar - 消息  
@@ -423,44 +448,42 @@ haha - 笑
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 海军上将  
+hai cau - 海草  
+hai gun - 海军  
+hai hiyar - 海參  
+hai hua - 海葵  
+hai jele - 海蜇  
 hai kinar - 岸  
-haichau - 海草  
-haiful - 海葵  
-haigun - 海军  
-haihiyar - 海參  
-haijel - 海蜇  
-haiporte - 海港  
-haitate - 海岸  
+hai kinar - 海岸  
+hai porte - 海港  
 haki - 权利  
 hal - 状态  
 hali - 空的  
 hali zi - 空隙  
 halifa - 哈里发  
 halo - 哈啰 (哈喽)  
-hami - 重要  
-hamili - 怀孕  
+ham di - 重要  
+hamil - 怀孕  
 Han - 汉族  
 hande - 手  
-handoshake - 胳膊  
-hapi - 合适  
+hande shaka - 胳膊  
+hapu - 合适  
 Hartum - 喀土穆  
 hata - 直到  
 hata - 连  
 hatar - 危险  
 helis - 螺旋  
-helisviman - 直升机  
-helpa - 帮助  
-hema - 深思 (考虑)  
-hemah - 帐篷  
+helis fei gi - 直升机  
+hem - 深思 (考虑)  
+hema - 帐篷  
 hero - 英雄 (勇士)  
-Hesia - 黑森  
+Hese - 黑森  
 hijabu - 面纱  
 Hindu desh - 印度斯坦  
 hindu raja - 拉贾  
 Hindu riu - 印度河  
-hisaba - 计算  
-hisabolojia - 数学  
 hisabu loge - 账户  
+hisabu logi - 数学  
 hiyar - 黄瓜  
 hobi ja - 爱好者  
 hogo - 火  
@@ -469,43 +492,40 @@ hogo sheki - 燧石
 hogo tehni - 烟火  
 hoki - 曲棍球  
 hor - 小时  
-horloger - 钟  
+hor loga gi - 钟  
 hotel - 旅馆  
 hua - 花  
 hua jara - 花瓶  
 hua pote - 花盆  
-huidarte - 灰化土  
+hui darte - 灰化土  
 huke - 钩  
 huke krus - 卍 (卐)  
 huli - 狐狸  
-huri - 自由的  
-huria - 自由  
+huru - 自由的  
+huru ta - 自由  
 ####I - I  
 iha uma - 骡  
-inklusa - 包括  
-inmigra - 移民 (移居)  
-inmigran - 移民者  
-inploze - 内爆  
+in bum - 内爆  
+in migra - 移民 (移居)  
+in migra ja - 移民者  
+in verse jan - 内向的  
 insan - 人类  
-insani hake - 人权  
-insanistia - 人文主义  
-insida - 蹲  
-introversi - 内向的  
+insan haki - 人权  
+insan jui - 人文主义  
 islam din - 回教 (伊斯蘭教)  
 ####J - J  
-jagu - 睡醒  
 jamul - 閻浮樹  
 jan - 人  
-janel - 窗戶  
-janelfrem - 窗框  
+janela - 窗戶  
+janela frem - 窗框  
+jang ja - 工匠 (匠人)  
 jangal - 森林  
-janger - 工匠 (匠人)  
-jar - 罐 (瓶)  
+jara - 罐 (瓶)  
 jau - 大麦  
 javabu - 回答  
-jeka - 借  
-jekodona - 借出  
-jekogeta - 借入  
+jeku - 借  
+jeku daku - 借入  
+jeku dona - 借出  
 jen buda din - 禅宗  
 jene basha - 母语  
 jene di - 生的  
@@ -513,13 +533,13 @@ jene logi - 系谱学
 jene loka - 出生地  
 jene tipe - 基因型  
 jinse - 性别  
-jinsolojia - 性别研究  
-jiraf - 长颈鹿  
+jinse logi - 性别研究  
+jirafa - 长颈鹿  
 jiu - 生命  
 jul - 焦耳 (J)  
-jumle - 句子  
+jumla - 句子  
 jung - 中心  
-jungoshulkan - 中学  
+jung shula kan - 中学  
 Junguo - 中国  
 Jupiter - 木星  
 jus - 汁  
@@ -532,18 +552,18 @@ kafe - 咖啡
 kafe kan - 咖啡馆  
 kafe pote - 咖啡壶  
 kaguji - 纸  
-kagujolimon - 墨西哥萊檬  
+kaguji limon - 墨西哥萊檬  
 kala - 黑色  
 kalam - 笔  
+kalce kristal - 大理石  
+kalce mate - 石灰  
+kalce petra - 石灰岩  
+kalcite - 方解石  
 kalenda - 日历  
 kali - 碱性  
 kali guste - 苦的  
 kali melon - 苦瓜  
 kalmar - 鱿鱼  
-kalsite - 方解石  
-kalsokristal - 大理石  
-kalsomate - 石灰  
-kalsopetre - 石灰岩  
 kama - 情欲  
 kama kanon - 欲经  
 kamar - 房间  
@@ -553,98 +573,92 @@ kamisa shaka - 袖子
 kan - 店 (馆)  
 kanape - 沙发  
 kancha - 玻璃  
-kancha dake - 釉  
+kancha daka - 釉  
 kandi - 糖果  
 kangaru - 袋鼠  
 kankuate - 金柑  
 kanon - 经典  
-kantalupomelon - 鈔皮瓜  
+kantalupo melon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
 kape truke - 陷阱  
-kara - 工作  
 karate - 空手道  
-karbodulokside - 二氧化碳  
+karbon duokside - 二氧化碳  
 karchof - 菜蓟  
 kardon - 蓟  
-kardonkarchof - 刺苞菜蓟  
-karer - 工人 (工作者)  
+kardon karchof - 刺苞菜蓟  
+karga - 擔子  
 karma - 作为 (行为)  
 karma ja - 活性  
 karma loga - 动词  
-karmisa - 提交  
 karote - 红萝卜  
-karsi - 粗糙  
-karsolimon - 箭叶橙  
+karse - 粗糙  
+karse limon - 箭叶橙  
 karte - 牌  
 kaske - 壳 (皮)  
-kata - 切  
-katane - 剑  
-katoglutoban - 剪贴板  
+katana - 剑  
 katus - 仙人掌  
 kauri - 宝贝  
-kava - 挖  
 kave - 坑 (穴)  
 ke - 什么  
+ke riti - 怎么  
 kechi - 客气  
 kegu ja - 客人  
+Keme - 古埃及  
 kerne - 核心  
 kesha na di - 无毛  
 kiau - 桥  
-kim - 物质  
-kim so - 元素  
-kimlojia - 化学  
+kimi - 物质  
+kimi logi - 化学  
+kimi so - 元素  
 kimono - 和服  
-kina - 动  
 kinar - 边  
 kinar baryer - 篱笆  
-kinu - 动  
 kisma - 命運  
-kita - 去  
 kitabu - 写  
 kitabu gi - 打字机  
 kitabu kan - 图书馆  
 kitabu shutu - 文学  
-kitana - 除去  
 kivi - 奇异果  
 klien - 顾客  
-klimmute - 气候变化  
+klima mute - 气候变化  
 klin - 趋势  
-ko? - 怎么  
 koda - 尾巴 (尾部)  
 komputa - 计算机  
+komputa di - 数字的  
 kon - 共同 (一起)  
+kon bon - 相配  
 kon gung - 合作  
 kon sela ja - 顾问  
 kon trati - 公約  
-konboni - 相配  
-konserte - 音乐会  
+koncerte - 音乐会  
 kopi - 摹本 (拷貝)  
-kora - 跑步  
 koral - 珊瑚  
+kore - 跑步  
 korer - 跑步者  
-kornomelon - 刺角瓜  
+korne melon - 刺角瓜  
 korte kata - 短篇小说  
 korte krokodil - 短吻鳄  
 kosmo - 宇宙  
+kosmo bio logi - 太空生物学  
 kosmo di - 宇宙的  
 kosmo nave - 太空船  
 kosmo nave ja - 太空人  
-kosmobiyolojia - 太空生物学  
 krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
 krevete - 虾 (xiā)  
 krokodil - 鳄  
 krokroke - 蛙  
 krote - 鼹鼠  
-kruasante - 牛角包  
-krusarke - 弩 (十字弓)  
-krusolin - 十字线  
-kuangia - 矿场  
+kruasan - 牛角包  
+krus arka - 弩 (十字弓)  
+krus lin - 十字线  
+kuang shan - 矿场  
 kuarze - 石英  
 kube - 立方体  
+kudi - 肘  
 kupa - 杯子  
 kurban - 牺牲  
-kushu - 躺  
+kush - 躺  
 ####L - L  
 lage - 湖  
 lai - 来  
@@ -662,33 +676,34 @@ lance grafi - 投影
 lance grafi - 投射  
 lance she - 投掷物  
 lantanium - 鑭  
-lasha - 落 (留下)  
+lashe - 落 (留下)  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 Latvia - 拉脱维亚  
-lavi - 老 (老年, 年歲大)  
-layana - 带来  
+lau - 老 (老年, 年歲大)  
 lazanya - 千层面  
-lazurpetre - 青金岩  
+lazur petra - 青金岩  
 lefte - 左  
+leng - 冷たい (寒い)  
 leng mosim - 冬天  
-lengi - 冷たい (寒い)  
 lense - 透镜  
-lenti - 慢  
+lente - 慢  
 letis - 莴苣  
 leu - 了  
-leze - 梨  
-liame - 大羊駝  
+lezi - 梨  
+liama - 大羊駝  
 libele - 蜻蜓  
-liboban - 架子 (搁板)  
-libobaze - 架子  
-lider - 领导  
+libu ban - 架子 (搁板)  
+libu baze - 架子  
+libu side - 蹲  
+lida ja - 领导  
 liga di sanduku - 约柜  
+liki - 力  
 lili - 小  
-lilkaboge - 西葫芦  
-lilsheke - 砾石  
+lili kaboga - 西葫芦  
+lili sheki - 砾石  
 limon - 柠檬  
-limonike - 柑橘  
+limon oranje - 柑橘  
 lin - 线  
 lin so - 纤维  
 lince - 猞猁 (山貓)  
@@ -698,7 +713,7 @@ liste - 单子
 litre - 升  
 loga - 说话 (讲)  
 loga - 语言  
-loga jami - 词汇  
+loga jama - 词汇  
 loga so - 词  
 loge - 纪录  
 loge buku - 航海日志  
@@ -719,10 +734,12 @@ luta - 掠夺
 luta ja - 强盗  
 ####M - M  
 ma - 妈妈  
-ma ma - 外婆 (外祖母)  
-ma pa - 外公 (外祖父)  
+ma di ba - 外公 (外祖父)  
+ma di ma - 外婆 (外祖母)  
 magesium - 镁  
-Magribe desha - 摩洛哥  
+magi ja - 魔法师  
+magi liki - 魔力  
+Magribi desha - 摩洛哥  
 majang - 麻将  
 makan hua - 蒲公英  
 mal nomi - 经济学  
@@ -735,7 +752,7 @@ mantol - 斗篷
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
 mas fili - 比较喜欢  
-mas forte ta - 加固  
+mas gun - 加固  
 masa - 质量  
 masa mula sol hua - 菊芋  
 masala - 香料  
@@ -751,8 +768,10 @@ mau - 猫
 maze - 袜子  
 meche - 比赛  
 meden - 广场  
-meden papil - 虞美人 (雛罌粟)  
+meden papi - 虞美人 (雛罌粟)  
 medi - 中型  
+medi dia - 正午  
+medi noche - 半夜 (午夜)  
 medu - 蜜  
 medu fong - 蜜蜂  
 medu fong sanduku - 蜂箱  
@@ -819,6 +838,7 @@ nave raite - 右舷
 nefre - 肾脏  
 nefte - 油  
 nefte guku - 野菊花  
+nen mes den - 年月日  
 nerve toksi - 神经毒素  
 nia - 意图  
 nide - 巢 (穴)  
@@ -857,9 +877,6 @@ osidian - 黑曜岩
 oste jama - 骨骼  
 ####P - P  
 pa - 在  
-pa - 爸爸  
-pa de ma - 奶奶 (祖母)  
-pa de pa - 爷爷 (祖父)  
 pa lin - 在线  
 pa no lin - 离线  
 pa poli mar - 经常  
@@ -931,6 +948,7 @@ porei - 韭葱
 porte - 港  
 pote ja - 陶瓷工  
 pote shutu - 陶器制造  
+presa - 压力  
 problem - 问题 (难题)  
 program - 计划  
 puding - 布丁  
@@ -938,7 +956,7 @@ puja kan - 寺庙
 puja meza - 圣坛  
 pul fina - 完成  
 pul fito yam jui ja - 纯素食主义者  
-pul shipu - 浸泡  
+pul shipi - 浸泡  
 pulmon flame - 肺炎  
 puma - 美洲獅 (山狮)  
 putau bagi - 葡萄园  
@@ -977,10 +995,10 @@ roza salmon - 粉紅鮭
 rubi - 红宝石  
 ruhu mishe di - 困惑 (混乱)  
 ####S - S  
-sabi - 知道 (晓得)  
-sabi vol - 趣  
-sabi vol di - 有趣  
-sabi vol ja - 好奇  
+sabe - 知道 (晓得)  
+sabe vol - 趣  
+sabe vol di - 有趣  
+sabe vol ja - 好奇  
 sabun - 肥皂  
 safar - 旅行  
 sahi - 正确  
@@ -1035,18 +1053,19 @@ shava mosim - 雨季
 she - 事物 (东西)  
 she hal - 事态  
 sheki - 石 (岩)  
+sheng bai - 勝敗  
 shia - 派系  
 shia islam din - 什叶派  
-shibai - 失败 (击败)  
-shibai tena - 亏损 (失去)  
 shifu - 师傅  
 shikaya - 怨言  
 shim - 心  
-shipu - 湿  
+shipi - 湿  
 shir - 诗  
 shish - 扦子  
 shish nama - 串烧  
 shite - 粪 (屎)  
+shitu - 亏损 (失去)  
+shitu bai - 失败  
 Shiva - 湿婆  
 shofer ja - 司机  
 shopi - 购物 (血拼)  
@@ -1082,9 +1101,8 @@ soka - 寻找
 sol - 太阳  
 sol hua - 向日葵  
 sol sistem - 太阳系  
-sona - 睡觉 (困觉)  
 sona kamar - 卧室 (寝室)  
-sona papil - 鴉片罌粟  
+sona papi - 鴉片罌粟  
 song - 松  
 sor - 锁  
 sosis - 香肠  
@@ -1150,6 +1168,7 @@ truke - 伎俩
 tu - 你  
 tumen - 你们  
 tumen su - 你们的  
+tuta - 桑树  
 tuzi - 兔子  
 ####U - U  
 uma bichi - 马鞭  
@@ -1190,8 +1209,8 @@ ventur - 冒险
 ventur ja - 冒险者  
 veranda - 阳台  
 veze di - 重型的  
+vice ba - 继父  
 vice ma - 继母  
-vice pa - 继父  
 vide - 看  
 vidou - 寡妇  
 vijin - 味精  
@@ -1219,7 +1238,6 @@ Yesu - 耶稣
 Yesu mesi - 耶稣基督  
 yoga - 瑜伽功  
 yogo - 轭  
-yom - 日  
 yong - 融化  
 yong petra - 熔岩  
 yong safa - 熔炼  

@@ -3,7 +3,7 @@
 a - o (a)  
 abies - abeto  
 acente - acento  
-acesa - acesso  
+acese - acesso  
 achi - espirrar  
 ada - costume (hábito)  
 adil - justo  
@@ -31,6 +31,7 @@ alkol - álcool
 almari - armário  
 almas - diamante  
 alo - outro  
+alo fen di - distinto  
 alo rai - discordar  
 amen - honesto (sincero)  
 amen shin - confiar (contar com)  
@@ -81,6 +82,7 @@ auto loga - monólogo
 avar - dano (avaria)  
 ave - aveia  
 ####B - B  
+ba - pai  
 bacha - criança (menino)  
 badam - amêndoa  
 badan - corpo  
@@ -103,9 +105,8 @@ banda - bando
 banka kan - banco  
 banka shefe - banqueiro  
 bara - barrar  
-bara - barreira  
+bara mur - barreira  
 barde - barba  
-bari - carga (peso)  
 basa - bastante (suficiente)  
 basen - bacia  
 basha - língua (idioma)  
@@ -124,10 +125,17 @@ baze bol - basebol (beisebol)
 baze shula kan - ensino primário  
 be ais - gelar  
 be bio mute - fermentar  
+be fobi - temer  
 be hogo - queimarse  
+be in - entrar  
+be in bum - implodir  
+be jaga - despertar  
+be kino - Mover-se  
+be kite - ir  
 be migra - mudar-se  
 be pute - apodrecer-se  
 be retro - voltar (regressar)  
+be sona - dormir  
 bebe - bebê  
 bedinjan - beringela  
 bele - pá  
@@ -173,6 +181,7 @@ Buda - Buda
 buku - livro  
 bulbul - rouxinol  
 bum - explosão  
+burge - forte  
 buta - bota  
 buton - botão  
 ####C - C  
@@ -196,9 +205,9 @@ chendeno - ontem
 cheniki - velho (antigo)  
 cheri - cereja  
 chili - cápsico  
+chin ba - avô  
 chin brus ben - primo  
 chin ma - avó  
-chin pa - avô  
 chini - porcelana  
 chir - rasgar  
 chira - rasgar  
@@ -217,7 +226,7 @@ dai dom - palácio (mansão, palacete)
 dai hai - oceano  
 dai pau - canhǎo  
 dai sheke - pedregulho  
-daku - ter (achar, receber)  
+daki - ter (achar, receber)  
 dalil - prova  
 dance - baile (danza)  
 danger - sino (campainha)  
@@ -233,13 +242,16 @@ dava she logi - farmacologia
 debili - fraco (débil)  
 defban - escudo  
 defkaske - armadura  
-den - dia  
+den - dia (24 horas)  
+den loge - diário  
 deu - deus  
 deu kata - mito  
 deu nagar zi - devanágari  
 deu sofi - teosofia  
 deve - dever  
-dika - objetivo  
+dia - dia  
+dia foto - luz do dia  
+dike - objetivo  
 din - religião  
 din ja - crente  
 din shia - seita  
@@ -311,7 +323,16 @@ fa dante - morder
 fa dika - mirar (apontar)  
 fa fobi - assustar  
 fa forma - modelar  
+fa fuku - vestir  
+fa glu - colar (aderir)  
+fa hisabu - calcular  
 fa hogo - queimar  
+fa in klus - incluir  
+fa karga - carregar  
+fa kave - cavar (escavar)  
+fa kino - mover  
+fa kite - remover  
+fa lai - trazer  
 fa linke - relier (connecter)  
 fa loka - colocar (pôr)  
 fa maf - perdoar (desculpar)  
@@ -324,6 +345,7 @@ fa onor - honrar
 fa pati mise - infectar (contagiar)  
 fa pede - peidar  
 fa plasti - moldar (modelar)  
+fa presa - prensar (pressionar, premir)  
 fa pul bon - aperfeiçoar  
 fa re - repetir  
 fa retro - retornar  
@@ -342,19 +364,18 @@ fa turbe - molestar (perturber)
 fa valu - valorar  
 fa vote - votar  
 face - face (faceta)  
+face tele - profundo  
+facil - fácil  
 fan - lama (lodo)  
-fandefban - para-lama  
-fantopia - pântano  
-fasili - fácil  
-fasteli - profundo  
+fan def ban - para-lama  
+fan topo - pântano  
 fate - fato (facto)  
-fatigia - fadiga  
+fatige - fadiga  
 fatura - conta (fatura)  
 fei - voo  
-feni - digital  
-fenkate - análise  
-feyu - voar  
-filsofia - filosofia  
+fei - voar  
+fen gata - análise  
+filsofi - filosofia  
 fiorde - fiorde  
 fito - planta (vegetal)  
 fito logi - botânica  
@@ -362,21 +383,20 @@ fito yam jui ja - vegetariano
 flame - inflamaçao  
 fleche - flecha (seta)  
 fobi ja - assustador  
-fobu - temer  
 fong - abelha ou vespa  
 fora - furar (perfurar)  
 foto - luz  
-foto grafe - foto (fotografia)  
-foto grafia - fotografia  
+foto grafi - foto (fotografia)  
+foto grafi shuta - fotografia  
 foto mata di - mate (opaco)  
 foto minar - farol (baliza)  
 foto mira di - lustroso  
+foto so - fóton (fotão)  
 France krepe - crepe  
 frem - moldura  
 frute - fruta  
 frute bagi - pomar  
-fuka - vestir  
-fuke - roupa (vestidura)  
+fuku - roupa (vestidura)  
 fuku - trajar (vestir-se)  
 fungu - fungo  
 fungu frute - cogumelo  
@@ -386,41 +406,41 @@ fute marke - pegada
 ga - se  
 gabur - sepultura (túmulo, enterrar)  
 gabur bagi - cemitério  
-gabur sheke - lápide  
-galaksia - galáxia  
+gabur sheki - lápide  
+galaksi - galáxia  
 Galia - Gália  
 galope - galope  
 galte - erro (falta)  
-galti - errôneo  
+galte di - errôneo  
+gami baba - sogro  
 gami ben - enteado  
 gami jan - esposo ou esposa  
-gami ma - sogra  
-gami pai - sogro  
+gami mama - sogra  
 gan cau - feno  
 gan tela - toalha  
-gansa - ganso  
+ganse - ganso  
 ganum - trigo  
 garma mosim - verão  
 garma zona - trópicos  
 gas - gás  
+gata glu ban - área de transferência  
 gati - duro  
 Geo - Terra  
 geo forme - terreno  
 geo grafi - geografia  
-geo metri - geometria  
-geo politika - geopolítica  
+geo metre - geometria  
+geo politi - geopolítica  
 Germania - Germânia  
 giau - ensinar (lecionar)  
 gida - guiar  
 gida ja - guia  
 gitar - guitarra  
-giuke - jade  
-glisu - deslizar  
-gluta - colar (aderir)  
-glute bande - penso (band-aid)  
-glute di - pegajoso (adesivo)  
-glute fan - argila  
-glute grafi - adesivo  
+giuku - jade  
+glis - deslizar  
+glu bande - penso (band-aid)  
+glu di - pegajoso (adesivo)  
+glu fan - argila  
+glu grafi - adesivo  
 gol - meta (gol)  
 gorila - gorila  
 goton - algodão  
@@ -431,50 +451,52 @@ grimas - careta (esgar)
 grupe - grupo  
 gubu - hipopótamo  
 gun - exército  
+gun jan - soldado  
+gun raja - generalíssimo  
 gung - trabalho  
-gunjan - soldado  
-gunrajer - generalíssimo  
-gute - joelho  
+gung - trabalhar  
+gung ja - trabalhador  
+guta - joelho  
+guta kaske oste - rótula (patela)  
 ####H - H  
 Habasha - Abissínia  
 haha - rir  
 hai - mar  
 hai alga - macroalga  
 hai amir ja - almirante  
-haichau - erva marinha  
-haigun - marinha  
-haihiyar - pepino-do-mar (holotúrias)  
-haijel - medusa  
-haiporte - porto marítimo  
-haitate - costa  
+hai cau - erva marinha  
+hai di - marítimo  
+hai gun - marinha  
+hai hiyar - pepino-do-mar (holotúrias)  
+hai jele - medusa  
+hai kinar - costa  
+hai porte - porto marítimo  
 haki - direito  
 hal - estado  
 hali - vazio  
 hali zi - espaço  
 halifa - califa  
 halo - alô  
-hami - importante  
-hamili - grávida (prenhe)  
+ham di - importante  
+hamil - grávida (prenhe)  
 hande - mão  
-handoshake - braço  
-hapi - apropriado (apto)  
+hande shaka - braço  
+hapu - apropriado (apto)  
 harabu mahala - favela  
 Hartum - Cartum  
 hata - até  
 hatar - perigo  
-hayi - marítimo  
-helisviman - hélicoptero  
-hem - hmm  
-hema - considerar  
+helis fei gi - hélicoptero  
+hem - considerar  
+hem… - hmm…  
 hero - héroi  
-Hesia - Hesse (Héssia)  
+Hese - Hesse (Héssia)  
 hijabu - véu  
 hima - neve  
 hindu raja - rajá  
 Hindu riu - Indo  
-hisaba - calcular  
-hisabolojia - matemática  
 hisabu loge - conta  
+hisabu logi - matemática  
 hiyar - pepino  
 hobi ja - amador  
 hogo - fogo  
@@ -483,67 +505,62 @@ hogo sheki - pederneira
 hogo tehni - fogos de artifício  
 hoki - hóquei  
 hor - hora  
-horloger - relógio  
+hor loga gi - relógio  
 hotel - hotel  
 hua - flor  
 hua pote - vaso de flores  
-huidarte - espodossolo  
+hui darte - espodossolo  
 huke - gancho  
 huke krus - suástica (cruz gamada)  
 huli - raposa  
-huri - livre (forro)  
+huru - livre (forro)  
 ####I - I  
-inan - contêiner  
-inklusa - incluir  
-inklusivi - inclusivo  
-inkluso - incluindo  
-inmigra - imigrar  
-inmigran - imigrante  
-inploze - imploção  
-inplozu - implodir  
+in bum - imploção  
+in gi - contêiner  
+in klus - incluindo  
+in klus di - inclusivo  
+in migra - imigrar  
+in migra ja - imigrante  
 insan - ser humano  
-insani hake - direitos humanos  
-insaniki - humano  
-insanistia - humanismo  
-insida - agacharse  
-intru - entrar  
-ironia - ironia  
+insan di - humano  
+insan haki - direitos humanos  
+insan jui - humanismo  
+ironi - ironia  
 islam din - islã  
 ####J - J  
-jagi - acordado  
-jagu - despertar  
+jaga - acordado  
 jama karde - cromo  
 jamul - jambolão (jambo)  
 jan - pessoa  
-janel - janela  
+janela - janela  
 jangal - selva (floresta, jângal)  
-jar - jarra (jarro)  
+jara - jarra (jarro)  
 jau - cevada  
 javabu - resposta  
-jeka - emprestar (pedir emprestado)  
-jekodona - emprestar  
-jekogeta - pedir emprestado  
+jeku - emprestar (pedir emprestado)  
+jeku daku - pedir emprestado  
+jeku dona - emprestar  
 jen buda din - budismo zen  
 jene basha - língua materna  
 jene logi - genealogia  
 jene loka - terra natal  
 jene tipe - genótipo  
 jihade - luta  
-jin - espírito (gênio)  
+jini - espírito (gênio)  
 jinse - sexo  
-jiraf - girafa  
+jirafa - girafa  
 jiu - vida  
-jivi - vivo  
-joveni - jovem  
-juder - juiz  
+jiu - vivo  
+joven - jovem  
+jude ja - juiz  
 jul - joule (J)  
 jung - centro  
-jungofon - vogal  
-jungoshulkan - ensino secundário  
+jung fon - vogal  
+jung shula kan - ensino secundário  
 Junguo - China  
 Jupiter - Júpiter  
 jus - suco (sumo)  
-justi - exato (preciso)  
+juste - exato (preciso)  
 ####K - K  
 ka - que (como)  
 kaboga - abóbora (jerimun)  
@@ -551,105 +568,100 @@ kafe - café
 kafe kan - café  
 kafe pote - cafeteira  
 kaguji - papel  
-kagujolimon - lima  
+kaguji limon - lima  
 kala - preto  
 kalam - lápis  
+kalce kristal - mármore  
+kalce mate - cal  
+kalce petra - calcário  
+kalcite - calcita  
 kalenda - calendário  
 kali - base (álcali)  
 kali - alcalino  
 kali guste - amargo  
 kalmar - lula (calamar)  
-kalsite - calcita  
-kalsokristal - mármore  
-kalsomate - cal  
-kalsopetre - calcário  
 kama - luxúria  
 kama kanon - Kama Sutra  
 kamar - sala (câmara)  
 kamil - camomila-vulgar  
 kamisa - camisa  
 kamisa shaka - manga  
-kampistan - área de acampamento  
+kampe bagi - área de acampamento  
 kancha - vidro  
 kandi - bombom (doce)  
 kangaru - canguru  
 kankuate - quincã (cunquate)  
+kano - canoa  
+kantalupo melon - meloa (cantalupo)  
 Kantalupo va Sabina - Cantalupo in Sabina  
-kantalupomelon - meloa (cantalupo)  
-kanu - canoa  
 kanyon - canhão (ravina, barranco)  
 kape truke - armadilha  
-kara - trabalhar  
-Karaibia - Caribe  
 karate - caratê  
 karavi - alcaravia (cariz)  
-karbodulokside - dióxido de carbono  
+karbon duokside - dióxido de carbono  
 karchof - alcachofra  
 kardon - cardo  
-karer - trabalhador  
-karimia - generosidade  
+karga - carga (peso)  
+Karibe - Caribe  
+karim - generosidade  
 karma - ato (ação)  
 karma ja - ativo  
 karma ja - agente  
 karma loga - verbo  
 karote - cenoura  
-karsi - áspero  
-karsolimon - combava  
+karse - áspero  
+karse limon - combava  
 karte - carta  
 kaske - casca (concha)  
-katane - espada  
-katoglutoban - área de transferência  
+katana - espada  
 katus - cacto  
 kauri - búzio  
-kava - cavar (escavar)  
 kave - buraco  
 ke - o que  
 ke jan - quem  
+ke riti - como  
 ke sate - quando  
+Keme - Antigo Egito  
 kerne - núcleo (cerne)  
 kesha na di - despelado  
 kiau - ponte  
-kim - substância  
-kim so - elemento químico  
-kimlojia - química  
+kimi - substância  
+kimi logi - química  
+kimi so - elemento químico  
 kimono - quimono  
-kina - mover  
 kinar - margem (borda)  
 kinar baryer - cerca  
-kinu - Mover-se  
 kirate - quilate  
 kisma - destino  
-kita - ir  
 kitabu - escrevere  
 kitabu gi - máquina de escrever  
 kitabu kan - biblioteca  
 kitabu shutu - literatura  
-kitana - remover  
 kivi - quivi  
-klari - claro  
+klar - claro  
 klien - cliente  
-klimmute - mudança climática  
+klima mute - mudança climática  
 klin - tendência  
-ko? - como  
 komputa - computador  
+komputa di - digital  
+kon bon - combinar com  
 kon gung - colaborar  
 kon sela ja - consultor  
 kon trati - pacto  
-konboni - combinar com  
-konserte - concerto  
+koncerte - concerto  
 kopi - cópia  
-kora - correr  
 koral - coral  
+kore - correr  
 korer - corredor  
 korne - corno  
-kornomelon - pepino-africano (kiwano)  
+korne melon - pepino-africano (kiwano)  
 korte kata - conto  
 korte krokodil - aligátor (jacaré)  
 kosmo - cosmo  
+kosmo bio logi - astrobiologia  
 kosmo di - cósmico  
 kosmo nave - nave espacial  
 kosmo nave ja - cosmonauta  
-kosmobiyolojia - astrobiologia  
 krake - rachadura  
 krem - crème  
 krepe - crepe (panqueca)  
@@ -657,15 +669,17 @@ krevete - camarão
 krokodil - crocodiliano  
 krokroke - rã  
 krote - toupeira  
-kruasante - croassã  
+kruasan - croassã  
 krus - cruz  
-kuangia - mina  
+kuang shan - mina  
 kuarze - quartzo  
 kube - cubo  
+kudi - cotovelo  
+kudi metre - cúbito (côvado)  
 kupa - copo (taça)  
 kurban - sacrifício  
-kusha - deitar  
-kushu - estar deitado (jazer)  
+kush - deitar  
+kush - estar deitado (jazer)  
 ####L - L  
 labi - lábio  
 lage - lago  
@@ -681,32 +695,35 @@ lampa - lâmpada (luminária)
 lana - maldição  
 lance grafi - projeção  
 lance she - projétil  
-lasha - deixar  
+lashe - deixar  
 lasun - alho  
 late - lado  
-lati - lateral  
+late di - lateral  
 Latvia - Letónia  
-lavi - idoso  
-layana - trazer  
+lau - idoso  
 lazanya - lasanha  
-lazuri - azur (blau)  
-lazurpetre - lápis-lazúli  
+lazur - azur (blau)  
+lazur petra - lápis-lazúli  
 lefte - esquerdo  
 leng mosim - inverno  
-lengomosimi - invernal (hibernal)  
+leng mosim di - invernal (hibernal)  
 lense - lente  
-lenti - lento  
+lente - lento  
 letis - alface  
-liame - lhama  
+liama - lhama  
 libele - libélula  
-liboban - prateleira (estante)  
-lider - líder (chefe)  
+libu ban - prateleira (estante)  
+libu side - agacharse  
+lida ja - líder (chefe)  
 lifafa - embalar  
 liga - liga (aliança)  
 liga di sanduku - Arca da Aliança  
+ligu - leve  
+ligu veze di - ligeiro  
+liki - força  
 lili - pequeno  
-lilkaboge - abobrinha  
-lilsheke - pedrinha  
+lili kaboga - abobrinha  
+lili sheki - pedrinha  
 limon - limão  
 lin - linha (fio)  
 lin so - fibra  
@@ -719,7 +736,7 @@ loga - falar
 loga - fala (palavras)  
 loga asal - etimologia  
 loga di - léxico  
-loga jami - vocabulário  
+loga jama - vocabulário  
 loga so - palavra (vocábulo)  
 loge - registro  
 loge buku - diário de bordo  
@@ -735,7 +752,6 @@ lotra - lontra
 lou - vazar  
 lugi - verde  
 luku - seis (6)  
-lun - mês  
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  
@@ -744,7 +760,8 @@ Luter din ja - luterano
 ####M - M  
 ma - mãe  
 magesium - magnésio  
-Magribe desha - Marrocos  
+magi ja - mago  
+Magribi desha - Marrocos  
 mahala - quarteirão  
 majang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
@@ -779,10 +796,12 @@ mau - gato
 maze - meia  
 meche - partida  
 meden - praça  
-meden papil - papoila  
+meden papi - papoila  
 medi - meio (metade)  
 medi - moyen  
+medi dia - meio-dia  
 medi gi - meio (instrumento)  
+medi noche - meia-noite  
 medu - mel  
 megi - nuvem  
 melon - melão  
@@ -790,6 +809,7 @@ memo - memória
 meninge - meninge  
 meranti - meranti  
 Merkur - Mercúrio  
+mes - mês  
 mestre - mestre  
 metal bede - bigorna  
 metal lin - arame  
@@ -886,12 +906,11 @@ ore - orelha
 ore flame - otite  
 orkide - orquídea  
 orto - reto  
-orto gon di - ortogonal  
+orto gona di - ortogonal  
 osidian - obsidiana  
 oste jama - esqueleto  
 oste shalke - escudo  
 ####P - P  
-pa - pai  
 pa ke - onde  
 pa lin - online  
 pace - paz  
@@ -975,6 +994,8 @@ pos di - posterior
 posta marke - carimbo  
 pote ja - oleiro  
 pote shutu - cerâmica  
+presa - pressão  
+presa gi - prensa  
 problem - problema  
 program - programa  
 projete - projeto  
@@ -983,7 +1004,7 @@ puja meza - altar
 pul - cheio  
 pul fina - terminar (acabar, concluir)  
 pul fito yam jui ja - vegetalista  
-pul shipu - ensopar (encharcar, marinar)  
+pul shipi - ensopar (encharcar, marinar)  
 pulmon flame - pneumonia   
 putau bagi - vinhedo  
 putau oranje - toranja  
@@ -1019,8 +1040,8 @@ roza salmon - salmão-rosa
 rubi - rubi  
 ruhu mishe di - perplexo (confuso)  
 ####S - S  
-sabi - saber (conhecer)  
-sabi vol ja - inquisitivo  
+sabe - saber (conhecer)  
+sabe vol ja - inquisitivo  
 sahi - correto (justo)  
 saide - caçar  
 sake - saco  
@@ -1084,11 +1105,11 @@ shefe - chefe
 sheki - pedra  
 shia - facção  
 shia islam din - xiismo  
-shibai ja - perdedor  
-shibai tena - perder  
 shikaya - queixa (lamento, reclamação)  
-shipu - molhado  
+shipi - molhado  
 shite - merda  
+shitu - perder  
+shitu bai ja - perdedor  
 Shiva - Xiva  
 shofer ja - condutor (chofer, motorista)  
 shopi - compras  
@@ -1124,9 +1145,8 @@ sol - sol
 sol chati - sombrinha  
 sol hua - girassol  
 sona - sono  
-sona - dormir  
 sona kamar - quarto (dormitório)  
-sona papil - papoila-dormideira  
+sona papi - papoila-dormideira  
 sona tabi - sonolento  
 song - pinheiro  
 soni - som  
@@ -1177,6 +1197,7 @@ tri - três (3)
 truke - truque (fraude)  
 tu - tu  
 tumen su - vosso  
+tuta - amoreira  
 tuzi - coelho (lebre)  
 ####U - U  
 uma bichi - chibata  
@@ -1221,8 +1242,8 @@ verme - verme
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
 veze di - pesado  
+vice ba - padrasto  
 vice ma - madrasta  
-vice pa - padrasto  
 vice raja - vice-rei  
 vide - ver  
 vidou - viúvo  
@@ -1252,6 +1273,7 @@ yong - derretre
 zai zaman di - corrente (atual)  
 zaman - tempo  
 zar kube - dado  
+zardush magi ja - mago  
 ze - de  
 zebra - zebra  
 zeyil - verruga  

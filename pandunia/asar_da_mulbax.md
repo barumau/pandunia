@@ -2,7 +2,7 @@
 
 | basha | asar |
 |-------|--------|
-| english | 14% |
+| english | 13% |
 | france | 10% |
 | espanya | 11% |
 | portugal | 10% |

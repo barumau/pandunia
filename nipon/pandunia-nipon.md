@@ -1,8 +1,9 @@
 # pandunia-nipon
 ####A - A  
 abies - モミ  
-acesa - アクセス  
-acesa bil - とっつきやすい (アクセス可能)  
+acese - アクセス  
+acese bil - とっつきやすい (アクセス可能)  
+acese facil ta - アクセシビリティ  
 achar - 漬物  
 ada - 習慣 (風俗)  
 Afgan - アフガニスタン  
@@ -21,6 +22,7 @@ ala - 変える
 alga fungu - 地衣類 (苔癬)  
 alga jangal - 藻場  
 alo - 他の  
+alo fen di - 個別的  
 amen - 正直  
 amen bil - 忠実  
 amen shin - 信頼する  
@@ -66,10 +68,12 @@ auto krati - 君主制
 auto loga - 独白 (独話)  
 ave - 烏麦  
 ####B - B  
+ba - お父さん (父, パパ)  
 bacha - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
 badan - 体  
 bagre oselote - ジャガーネコ  
+bai - 負け  
 baka fan - テラコッタ  
 baka kan - パン屋 (ベーカリー)  
 baki - 白い  
@@ -98,9 +102,15 @@ baze shula kan - 小学校
 be ais - 凍る (凍結する)  
 be bio mute - 熟成する (発酵する)  
 be bum - 爆発する  
+be fatige - 疲れる (疲労する)  
+be fobi - 恐れる  
 be hogo - 燃える  
+be jaga - 起きる  
+be kino - 動く  
+be kite - 行く  
 be pute - 腐敗  
 be sabi vol - 訝る (-かしら)  
+be sona - 寝る  
 be tele loka - 瞬間移動  
 be ting - 止まる  
 be turbe - 悩む (わざわざする)  
@@ -152,6 +162,7 @@ Buda - 仏陀
 bufete - ビュッフェ (バイキング)  
 buku - 本 (書物)  
 bum - 爆発  
+burge - 要塞  
 buta - ブーツ  
 ####C - C  
 cau - 草  
@@ -197,7 +208,8 @@ dai hai - 大洋 (大海)
 dai pau - 大砲  
 dai pote - 大釜 (大鍋)  
 dai sheke - 大石  
-daku - 受ける (もらう)  
+daki - 受ける (もらう)  
+daki shitu - 得失  
 danger - 鐘 (鈴)  
 Danske - デンマークの  
 dante balute - カシワ  
@@ -215,15 +227,17 @@ debili - 弱い (脆弱)
 defban - 盾  
 defkaske - 鎧  
 demon - 悪魔  
-den - 昼  
-den yam - 昼食  
+den - 日  
+den loge - 日記  
 des - 十 (１０)  
 des kilo - 万  
 desha jan - 市民  
 deu - 神  
 deu kata - 神話  
 deu nagar zi - デーヴァナーガリー  
-dika - 標的 (ターゲット)  
+dia - 昼  
+dia yam - 昼食  
+dike - 標的 (ターゲット)  
 din - 宗教  
 din ja - 信徒 (信者)  
 din shia - 教派  
@@ -290,10 +304,20 @@ fa - する
 fa achar - 酢漬けある  
 fa an galta - デバッグする  
 fa bina - 建てる  
+fa biznes lon - 話し合う (話を付ける)  
 fa dante - 咬む  
 fa dika - 狙う  
+fa fen gata - 見つめ直す  
+fa glu - 張る (付く)  
+fa hapu - 適応する  
+fa helpe - 手伝う (助ける)  
+fa hisabu - 計算する  
 fa hogo - 燃やす  
 fa jene - 生む  
+fa kave - 掘る  
+fa kino - 動かす  
+fa kong - 染みる (貫通する)  
+fa lai - 持って来る  
 fa linke - 繋ぐ  
 fa memo - 思い出す  
 fa najis - 汚す  
@@ -318,77 +342,75 @@ fa tele fon - 電話する
 fa truke - 騙す  
 fa ver - ただす  
 face - 面  
+face tele - 深い  
+face tele ta - 浅い  
+facil - 易しい  
 faida - 使用 (為, 利)  
-falsvide - 幻覚  
+false vide - 幻覚  
 fan - 泥  
-fandefban - フェンダー  
-fantopia - 沼地  
-fasili - 易しい  
-fasilia da akses - アクセシビリティ  
-fasteli - 深い  
-fastelia - 浅い  
+fan def ban - フェンダー  
+fan topo - 沼地  
 fate - 事実  
-fatigia - 疲労  
-fatigu - 疲れる (疲労する)  
+fatige - 疲労  
 fatura - 料金  
-feimush - こうもり (飛鼠)  
+fei - 飛ぶ  
+fei mushu - こうもり (飛鼠)  
 fem - 女  
-femi rajer - 女王  
-feni - デジタル  
-fenkata - 見つめ直す  
-fenkate - 分析 (解析)  
-feyu - 飛ぶ  
+fem raja - 女王  
+fen di - 部分的  
+fen gata - 分析 (解析)  
 filme - フィルム (膜)  
-filsofia - 哲学  
+filsofi - 哲学  
 fiorde - フィヨルド  
 fito - 植物  
 fito yam jui ja - 菜食主義者 (ベジタリアン)  
 fleche - 矢 (矢印)  
-fobu - 恐れる  
 fong - 蜂  
 fong nide - 蜂の巣  
 foto - 光  
-foto frika - 光沢  
-foto grafe - 写真  
+foto frike - 光沢  
+foto grafi - 写真  
 foto minar - 狼煙 (ビーコン)  
+foto so - 光子  
 frem - 額  
-frika - 擦る (擦り傷する)  
+frike - 擦る (擦り傷する)  
 frute - 果実 (フルーツ)  
 frute bagi - 果樹園  
-fuke - 服  
+fuku - 服  
 fuku - 着る  
 fuku vashi gi - 洗濯機  
 fungu frute - 茸  
 fungu nete - 菌糸体  
+fute ban - 足場  
 fute bol - フットボール  
 fute marke - 足跡  
-futoban - 足場  
 ####G - G  
 ga - もし  
 gabur - 墓 (埋葬, 葬る)  
 gabur bagi - 墓 (墓地)  
-gabur sheke - 墓石 (墓碑)  
-galaksia - 銀河  
+gabur sheki - 墓石 (墓碑)  
+galaksi - 銀河  
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
 gami ben - 連れ子  
 gan cau - 干し草  
-gansa - 雁 (鵝鳥)  
+ganse - 雁 (鵝鳥)  
 ganum - 小麦  
 garma - 暖かい (熱い)  
 garma mosim - 夏  
 garma zona - 熱帯  
 garma zona cau istan - サバンナ  
+gata glu ban - クリップボード  
 gati - 硬い  
-gatomate - 固体  
+gati mate - 固体  
+gau - 高い  
+gau tal move - 浮き沈みする  
 gau tehni - ハイテク  
-gautalu - 浮き沈みする  
-gavi - 高い  
 gazel - ガゼル  
 geo - 地  
 geo forme - 地形  
 geo logi - 地質学  
-geo metri - 幾何学  
+geo metre - 幾何学  
 geo niche di - 地中  
 geo niche prizon - 地下牢 (ダンジョン)  
 gi - 装置 (機, 器)  
@@ -397,14 +419,13 @@ giau ja - 教員
 gida buku - ガイドブック  
 gida ja - 案内人 (ガイド)  
 ging - 並行  
-ginglin - 縦糸  
+ging lin - 縦糸  
 gitar - ギター  
-glisu - 滑る  
-gluta - 張る (付く)  
-glute bande - 絆創膏  
-glute di - 粘い  
-glute fan - 粘土  
-glute grafi - ステッカー  
+glis - 滑る  
+glu bande - 絆創膏  
+glu di - 粘い  
+glu fan - 粘土  
+glu grafi - ステッカー  
 gol - 目的 (行き先, ゴール)  
 gorila - ゴリラ  
 grafi kata - 漫画  
@@ -412,53 +433,54 @@ granite - 花崗岩
 grave - 砂利  
 gubu - 河馬  
 gui - 鬼  
-guipapil - オニゲシ  
+gui papi - オニゲシ  
 guku hua - キク  
+gun jan - 軍人  
+gun raja - 総統 (将軍 )  
 gung - 労働  
+gung - 働く  
+gung ja - 労働者  
 gung kan - 工場 (製造所)  
-gunjan - 軍人  
-gunrajer - 総統 (将軍 )  
+gung mise - 提出  
 guru - 尊師 (グル, 先生)  
-gute - 膝  
+guta - 膝  
+guta kaske oste - 膝蓋骨  
 ####H - H  
 Habasha - アビシニア  
 haha - 笑う  
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 提督 (海軍大将)   
+hai blu - 水色  
+hai cau - 海草  
+hai gun - 海軍  
+hai hiyar - 海鼠  
+hai hua - イソギンチャク  
+hai jele - 海月  
 hai kinar - 岸  
-haichau - 海草  
-haiful - イソギンチャク  
-haigun - 海軍  
-haihiyar - 海鼠  
-haijel - 海月  
-hainili - 水色  
-haiporte - 海港  
-haitate - 海岸  
+hai kinar - 海岸  
+hai porte - 海港  
 haki - 権利  
 hal - 状態  
-halaloliste - ホワイトリスト  
+halal liste - ホワイトリスト  
 hali - 空  
 hali zi - 間隔  
 halifa - ハリーファ  
 hande - 手  
-handoshake - 腕  
-hapa - 適応する  
-hapi - 適切  
-haramliste - ブラックリスト  
+hande shaka - 腕  
+hapu - 適切  
+haram liste - ブラックリスト  
 Hartum - ハルツーム  
 hatar - 危険  
 hava - 風  
-helisviman - ヘリコプター  
-helpa - 手伝う (助ける)  
-hema - 考える  
+helis fei gi - ヘリコプター  
+hem - 考える  
 hero - 英雄 (勇者, ヒーロー)  
-Hesia - ヘッセン  
+Hese - ヘッセン  
 hindu raja - ラージャー  
 Hindu riu - インダス川  
-hisaba - 計算する  
-hisabolojia - 数学  
 hisabu loge - 口座  
+hisabu logi - 数学  
 hiyar - キュウリ  
 hobi ja - アマチュア  
 hogo - 火  
@@ -467,41 +489,39 @@ hogo sheki - 火打ち石 (フリント)
 hogo tehni - 花火  
 hoki - ホッケー  
 hor - 時 (１時間)  
-horloger - 時計  
+hor loga gi - 時計  
 hotel - ホテル (旅館)  
 hua - 花  
 hua mosim - 春  
 hua pote - 植木鉢  
-huidarte - ポドゾル  
+hui darte - ポドゾル  
 huke - 掛 (針, 鉤)  
 huke krus - 卍 (卐)  
 huli - 狐  
-huri - 自由  
+huru - 自由  
 ####I - I  
 iha uma - 騾馬  
 in - 内  
-inan - コンテナ  
-inmigra - 移住する (移民する)  
-inmigran - 移民 (移住者)  
+in gi - コンテナ  
+in migra - 移住する (移民する)  
+in migra ja - 移民 (移住者)  
+in verse jan - 内向的な人  
 insan - 人間  
-insani hake - 人権  
-insanistia - ヒューマニズム (人文主義)  
-insida - しゃがむ (蹲る)  
-introversi - 内向的な人  
+insan haki - 人権  
+insan jui - ヒューマニズム (人文主義)  
 ironi - 反語的  
-ironia - 反語 (皮肉)  
+ironi - 反語 (皮肉)  
 islam din - イスラム教  
 ####J - J  
-jagu - 起きる  
 jamul - フトモモ  
 jan - 人 (者, 員, 徒)  
-janel - 窓  
+janela - 窓  
 jangal - 森 (森林, ジャングル)  
 jau - 大麦  
 javabu - 答え (回答)  
-jeka - 借用  
-jekodona - 貸す  
-jekogeta - 借りる  
+jeku - 借用  
+jeku daku - 借りる  
+jeku dona - 貸す  
 jen buda din - 禅宗  
 jene di - 生 (未熟)  
 jene logi - 系譜学  
@@ -510,20 +530,20 @@ jene tipe - 遺伝子型
 jene yo zou - 湧かす  
 jeng - 戦闘 (格闘)  
 jinse - 性別 (ジェンダー)  
-jinsolojia - ジェンダー研究  
-jiraf - 麒麟  
+jinse logi - ジェンダー研究  
+jirafa - 麒麟  
 jiu - 命 (生命)  
-joven - 青少年  
-joveni fem - 女の子  
-joveni man - 男の子  
-joveni moke - 若木  
+joven fem - 女の子  
+joven jan - 青少年  
+joven man - 男の子  
+joven muku - 若木  
 jui - 主义  
 jul - ジュール (J)  
 jung - 中心  
 Junguo - 中国  
 Jupiter - 木星  
 jus - ジュース  
-justopaver - 狙撃兵  
+juste pau ja - 狙撃兵  
 ####K - K  
 ka - 家  
 ka - より (に比べ)  
@@ -533,17 +553,17 @@ kafe - コーヒー
 kafe kan - カフェ (コーヒー店)  
 kafe pote - コーヒーポット  
 kaguji - 紙  
-kagujolimon - メキシカンライム (マナオ)  
+kaguji limon - メキシカンライム (マナオ)  
 kala - 黒い  
 kalam - ペン  
+kalce kristal - 大理石  
+kalce mate - 石灰  
 kalenda - 暦 (カレンダー)  
 kali - 塩基  
 kali guste - 苦い  
 kali melon - ツルレイシ (ニガウリ)  
 kali oranje - ダイダイ  
 kalmar - イカ  
-kalsokristal - 大理石  
-kalsomate - 石灰  
 kama - 色欲  
 kama deu - カーマ  
 kamar - 部屋  
@@ -552,59 +572,53 @@ kamisa - シャツ
 kamisa shaka - 袖  
 kan - 店 (館)  
 kancha - ガラス  
-kancha dake - 釉薬  
+kancha daka - 釉薬  
 kandi - キャンデー  
 kangaru - カンガルー  
 kankuate - キンカン (キンキツ)  
-kantalupomelon - カンタロープ  
-kanu - カヌー  
+kano - カヌー  
+kantalupo melon - カンタロープ  
 kanyon - 峡谷  
 kape truke - 罠  
 kar - 車  
-kara - 働く  
 karate - 空手  
 karate ka - 空手家  
-karbosui - 炭水化物  
+karbon sui - 炭水化物  
 karchof - アーティチョーク  
 kardon - アザミ  
-kardonkarchof - カルドン  
-karer - 労働者  
+kardon karchof - カルドン  
 karma - 行為  
 karma ja - 活動的  
 karma loga - 動詞  
-karmisa - 提出  
 karote - ニンジン  
-karsi - 荒い  
-karsolimon - コブミカン (スワンギ, プルット)  
+karse - 荒い  
+karse limon - コブミカン (スワンギ, プルット)  
 karte - カルタ  
 kaske - 殻 (皮)  
-katane - 刀 (剣)  
-katoglutoban - クリップボード  
+katana - 刀 (剣)  
 katus - サボテン  
 kauri - 宝貝  
-kava - 掘る  
 ke - 何  
 ke jan - 誰  
+ke riti - どのように  
 ke sate - 何時  
 ke she - 何事  
 ke yang - どんな  
 kegu ja - 客人  
+Keme - 古代エジプト  
 kerne - 核  
 kesha - 毛  
 kesha na di - 無毛  
-kili - 千 (１０００)  
-kim - 物質  
-kim so - 元素  
-kimlojia - 化学  
+kilo - 千 (１０００)  
+kimi - 物質  
+kimi logi - 化学  
+kimi so - 元素  
 kimono - 着物  
-kina - 動かす  
 kinar - 際 (端)  
 kinar baryer - 柵 (垣)  
 kino grafi - 映画  
-kinu - 動く  
 kira - 賃貸  
 kisma - 運命 (宿命)  
-kita - 行く  
 kitabu forma - 書式付け  
 kitabu kan - 図書館  
 kitabu minister - 図書係  
@@ -612,22 +626,21 @@ kitabu shutu - 文献 (文学, 文芸)
 kivi - キーウィフルーツ  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
-klimmute - 気候変動  
+klima mute - 気候変動  
 klin - 斜め (傾向)  
-ko? - どのように  
 koda - 尾 (尾翼)  
+komputa di - デジタル  
 kon - 一緒に  
+kon bon - 合わせる (適する)  
+kon forma - 即する  
 kon gung - 共同して働  
 kon pasi - 同情  
 kon sela ja - 顧問  
-konboni - 合わせる (適する)  
-konformu - 即する  
-konga - 染みる (貫通する)  
-konserte - コンサート (音楽会)  
+koncerte - コンサート (音楽会)  
 kopi - コピー  
-kora - 走る (疾走する)  
 koral - サンゴ  
-kornomelon - ツノニガウリ  
+kore - 走る (疾走する)  
+korne melon - ツノニガウリ  
 korte kata - 短編小説  
 korte krokodil - アリゲーター  
 kosmo nave - 宇宙船  
@@ -638,19 +651,20 @@ krevete - 海老
 krokodil - ワニ  
 krokroke - 蛙  
 krote - 田鼠  
-kruasante - クロワッサン  
-krusarke - クロスボウ (石弓)  
-krusolin - 十字線  
-kuanger - 坑夫  
-kuangia - 鉱山  
+kruasan - クロワッサン  
+krus arka - クロスボウ (石弓)  
+krus lin - 十字線  
+kuang ja - 坑夫  
+kuang shan - 鉱山  
 kuarze - 石英  
 kube - 立方体  
-kukokamar - 台所  
-kuli - カッコいい  
+kudi - 肘  
+kuke kamar - 台所  
+kul - カッコいい  
 kupa - コップ  
 kurban - 犠牲  
-kusha - 横たえる  
-kushu - 寝転ぶ  
+kush - 横たえる  
+kush - 寝転ぶ  
 ####L - L  
 lage - 湖  
 lai - 来る  
@@ -668,30 +682,31 @@ lance grafi - 投影
 lance grafi - 映す (投影する)  
 lance she - 飛翔体 (矢玉)  
 lantanium - ランタン  
-lasha - 残す  
+lashe - 残す  
 lasun - 大蒜  
 late - 側 (脇)  
 Latvia - ラトビア  
-lavi - 年配  
-layana - 持って来る  
+lau - 年配  
 lazanya - ラザニア  
-lazurpetre - ラピスラズリ (瑠璃)  
+lazur petra - ラピスラズリ (瑠璃)  
 lefte - 左  
 lense - レンズ  
-lenti - 遅い (ゆっくり)  
+lente - 遅い (ゆっくり)  
 letis - レタス  
-liame - ラマ  
+liama - ラマ  
 libele - 蜻蛉  
-liboban - 棚  
-libobaze - 台  
 libu - 立つ  
-lidolin - リード (手綱)  
+libu ban - 棚  
+libu baze - 台  
+libu side - しゃがむ (蹲る)  
+lida lin - リード (手綱)  
 liga di sanduku - 契約の箱  
+liki - 力  
 lili - 小さい  
-lilkaboge - ズッキーニ  
-lilsheke - 小石  
+lili kaboga - ズッキーニ  
+lili sheki - 小石  
 limon - レモン  
-limonike - 柑橘  
+limon oranje - 柑橘  
 lin - 糸  
 lin so - 繊維  
 lince - 大山猫  
@@ -700,13 +715,12 @@ lisan - 舌
 litre - リットル  
 loga - 話す  
 loga - 演説  
-loga jami - 語彙  
+loga jama - 語彙  
 loga so - 言葉  
 loge - 記録  
 loge buku - 日誌  
 logi - 研究 (科学, 学)  
 loka - 場所  
-lona biznes - 話し合う (話を付ける)  
 long - 長い  
 long kata - 小説  
 long krokodil - クロコダイル  
@@ -717,14 +731,15 @@ lou - 漏る
 lugi - 緑 (緑色)  
 lugi melon - ハネデューメロン  
 luku - 六 (6)  
-lun - 月間  
 luna keke - 月餅  
 lung - 竜  
 ####M - M  
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
 magesium - マグネシウム  
-Magribe desha - モロッコ  
+magi ja - 魔法使い  
+magi liki - 魔力  
+Magribi desha - モロッコ  
 majang - 麻雀  
 majenta - マゼンタ (紅紫色)  
 makan hua - タンポポ  
@@ -736,7 +751,7 @@ mantol - マント (ケープ)
 mar - 回 (次, 度)  
 margai - マーゲイ  
 mas fili di - 好き (お気に入りの)  
-mas forte ta - 増派 (援兵)  
+mas gun - 増派 (援兵)  
 masa - 質量  
 masa mula - 芋 (塊茎)  
 masa mula sol hua - キクイモ  
@@ -752,7 +767,9 @@ mau - 猫
 maze - 靴下 (ソックス)  
 meche - 試合 (競技)  
 meden - 広場  
-meden papil - ヒナゲシ  
+meden papi - ヒナゲシ  
+medi dia - 正午  
+medi noche - 真夜中  
 medu - 蜂蜜  
 medu fong - 蜜蜂  
 medu fong nide - 蜂の巣 (ハニカム)  
@@ -762,6 +779,7 @@ megi - 雲
 melon - マスクメロン  
 memo - 記憶  
 memo bina - 追悼塔 (碑)  
+mes - 月間  
 mes bato - ８月  
 mes chatre - ４月  
 mes des - １０月  
@@ -832,6 +850,7 @@ nefre - 腎臓
 nefte - 油 (オイル)  
 nefte guku - シマカンギク (アブラギク)  
 nen - 年  
+nen mes den - 年月日  
 nerve toksi - 神経毒  
 nete - 網  
 nia - 意図  
@@ -858,7 +877,7 @@ nove yang di - 近代的
 ####O - O  
 ocelote - オセロット  
 ohtopus - タコ  
-okei - 大丈夫 (ＯＫ)  
+oke - 大丈夫 (ＯＫ)  
 oko - 目  
 oko sui gas - 催涙ガス  
 onda - 波  
@@ -869,7 +888,6 @@ osidian - 黒曜石
 oste jama - 骨格  
 oste shalke - ぜんご  
 ####P - P  
-pa - お父さん (父, パパ)  
 pa lin - オンライン  
 pa poli mar - よく (屡々)  
 pace hai kade - マダラ  
@@ -936,13 +954,15 @@ pos - 後 (後ろ)
 pos den - 明日  
 pote ja - 陶工  
 pote shutu - 陶芸  
+presa - 圧力  
+presa gi - 圧搾機  
 problem - 問題  
 program - 次第 (計画, プログラム)  
 projete - プロジェクト  
 puja kan - 神殿  
 pul fito yam jui - ヴィーガニズム  
 pul fito yam jui ja - 絶対菜食主義者 (ヴィーガン)  
-pul shipu - 漬ける (締める)  
+pul shipi - 漬ける (締める)  
 pulmon flame - 肺炎  
 puma - ピューマ (クーガー)  
 punte ban - スコアボード  
@@ -989,10 +1009,10 @@ ruhu mishe di - まごまご
 ruke sake - リュックサック  
 rute galta - 逸れる  
 ####S - S  
-sabi - 知る  
-sabi vol - 興味 (好奇心)  
-sabi vol di - 面白い  
-sabi vol ja - 知りたがる  
+sabe - 知る  
+sabe vol - 興味 (好奇心)  
+sabe vol di - 面白い  
+sabe vol ja - 知りたがる  
 sahi - 正しい  
 saide - 狩る  
 saide - 狩り (狩猟)  
@@ -1041,16 +1061,17 @@ shava mosim - 雨季
 she - 事 (物)  
 she hal - 事態  
 sheki jang ja - 石匠  
+sheng bai - 勝敗  
 shi - さん (氏)  
 shia islam din - シーア派  
-shibai - 失敗 (負け)  
-shibai tena - 失う (無くす, 落とす)  
 shifu - 先生  
 shikaya - 不平 (不満)  
 shim - 心  
-shipu - 湿っぽい  
+shipi - 湿っぽい  
 shir - 詩  
 shite - 糞 (屎)  
+shitu - 失う (無くす, 落とす)  
+shitu bai - 失敗  
 Shiva - シヴァ  
 shukra - ありがとう (どうも)  
 shula - 教育  
@@ -1086,9 +1107,8 @@ soi sos - 醤油
 soka - 探す (捜索する)  
 sol - 太陽 (日)  
 sol hua - ヒマワリ  
-sona - 寝る  
 sona kamar - 寝室  
-sona papil - ケシ  
+sona papi - ケシ  
 song - マツ  
 sor - 錠  
 sos - ソース  
@@ -1145,6 +1165,7 @@ truke - 悪戯 (詐欺)
 tu - あなた  
 tu su - あなたの  
 tumen - あなたたち  
+tuta - 桑  
 tuzi - うさぎ  
 ####U - U  
 umami - 旨味  
@@ -1186,8 +1207,8 @@ venjou oranje - ウンシュウミカン
 veranda - ベランダ (バルコニー, 縁側)  
 veste gorila - ニシゴリラ  
 vice - 代替  
+vice ba - 継父  
 vice ma - 継母  
-vice pa - 継父  
 vide ja - 見物人  
 vide punte - 遠近法 (見通し, 観点)  
 vidou - 寡婦  
@@ -1216,7 +1237,6 @@ yeki kanon - 易経
 Yesu mesi - イエス・キリスト  
 yo - 何分の  
 yogo - 軛  
-yom - 日  
 yong - 溶ける  
 yong petra - 溶岩  
 ####Z - Z  
