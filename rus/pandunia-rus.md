@@ -1,9 +1,5 @@
 ####A - A  
 abies - пихта  
-acente - ударение  
-acese - доступ  
-acese bil - доступный  
-acese facil ta - доступность  
 achar di - марино́ванный  
 achi - чихать  
 ada - обычай (привычка)  
@@ -23,8 +19,8 @@ air porte - аэропорт
 ais hoki - хокке́й с ша́йбой  
 ais krem - мороженое  
 ajila - спешить  
-akacia - акация  
 akare - клещ (лепта)  
+akasia - акация  
 akse - ось  
 ala - изменять  
 alga - водоросли  
@@ -122,6 +118,7 @@ banya kamar - ванная
 bara - преграждать  
 bara mur - барьер  
 barde - борода  
+bari fon - ударение  
 basa - достаточно (довольно)  
 basen - бассейн  
 basha - язык  
@@ -139,6 +136,7 @@ baze - основа (база,  фундамент)
 baze bol - бейсбол  
 baze shula kan - семилетка  
 be bio mute - заквасить  
+be bum - взрываться  
 be bum - взрываться  
 be fatige - устать  
 be fobi - бояться (страшиться)  
@@ -164,9 +162,9 @@ bilor - кристалл
 bina plan - архитектура  
 bina plan ja - архитектор  
 bio - органический  
-bio cana she - компост  
 bio jinse - биологический пол  
 bio logi - биология  
+bio sana she - компост  
 bio sistem - биом  
 bio toksi - токсин  
 bio vute - организм  
@@ -174,8 +172,8 @@ bir - пиво
 biskute - печенье (бисквит)  
 biznes - предприятие (бизнес)  
 blu - синий (голубой)  
-blu centaure - василёк синий  
 blu elfe - смурф (штрумпф)  
+blu sentaure - василёк синий  
 boi - поплавок (буй)  
 bokse - бокс  
 bokse ja - боксёр  
@@ -207,10 +205,6 @@ burge - крепость (форт)
 buta - ботинок  
 buton - пуговица  
 ####C - C  
-celu logi - цитология  
-cen - сто  
-centaure - василёк  
-cerami - керамика  
 chabe - ключ  
 chai - чай  
 chai kan - чайная (чайхана)  
@@ -237,13 +231,10 @@ chira - рвать
 chirchira - изорвать  
 chirchiri - изорванный  
 chize - сыр  
+choi - зелень  
 choklate - шоколад  
 chope - мотыга  
 chun - деревня (село)  
-cian - циан  
-cikle ja - велосипедист  
-cirke sheki - булыжник  
-coi - зелень  
 ####D - D  
 dai dom - дворец (особняк)  
 dai hai - океан  
@@ -253,9 +244,9 @@ dai pote - котёл
 dai sheke - валун  
 daki - получить  
 dalil - доказательство  
-dance - танец  
 danga - звенеть  
 danger - звонок  
+danse - танец  
 Danske - датский  
 dante balute - дуб зубчатый  
 dante na di - беззубый  
@@ -316,51 +307,49 @@ durabli - долговечный
 duri - хронический  
 durmetrer - секундомер  
 durzam - период (эпоха)  
-dusforma - уродовать  
+dus jan - враг (противник)  
+dus sin di - зловещий  
+dus vide - безобразный (некрасивый)  
 dush - душ  
-dusjan - враг (противник)  
-dusosinyi - зловещий  
-dusvidi - безобразный (некрасивый)  
 ####E - E  
-ekojeni - дикий  
+eko jene di - дикий  
 ekore - белка  
-eletrolin - провод (кабель)  
-eletrorade - молния  
+ekso - вне  
+ekso jan - посторонний (аутсайдер)  
+ekso jene di - экзогенный  
+ekso klus di - исключительный (эксклюзивный)  
+ekso planete - экзопланета (внесолнечная планета)  
+ekso verse di - экстраверт  
+ekso vide di - очевидный  
+ekso yam - пикник  
+eletro lin - провод (кабель)  
+eletro radi - молния  
 elfe - эльф  
-emoje - смайлик (эмодзи)  
-emos - эмоция (чувство)  
-emoshal - настроение  
-emosi - эмоциональный  
-englomargarite - маргаритка многоле́тняя  
-esh - вне  
-esha - выгнать (исключить, кроме)  
-eshklusa - исключить  
-eshklusivi - исключительный (эксклюзивный)  
-eshojan - посторонний (аутсайдер)  
-eshojeni - экзогенный  
-eshplanete - экзопланета (внесолнечная планета)  
-eshploze - взрыв  
-eshplozu - взрываться  
-eshtrata - извлекать  
-eshtroversi - экстраверт  
-eshvidi - очевидный  
-eshyam - пикник  
-eskala - подниматься  
-eskulter - скульптор  
+emosi - эмоция (чувство)  
+emosi di - эмоциональный  
+emosi hal - настроение  
+emosi zi - смайлик (эмодзи)  
+english margarita - маргаритка многоле́тняя  
+eskale - подниматься  
+eskulte ja - скульптор  
 esponje - губка  
 esporte - спорт  
 estibium - сурьма (стибиум)  
-estuda - изучать  
 estude - этюд  
-estuder - студент  
-euloge - панегирик  
-europobalute - дуб черешчатый  
-evanjil - евангелие  
+estude ja - студент  
+eu anjil - евангелие  
+eu loga - панегирик  
+europe baluta - дуб черешчатый  
 ####F - F  
 fa - делать  
 fa bina - строить  
 fa dante - откусить  
 fa dika - целиться  
+fa dus forma - уродовать  
+fa ekso - выгнать (исключить, кроме)  
+fa ekso klus - исключить  
+fa ekso trator - извлекать  
+fa estude - изучать  
 fa fen gata - анализировать  
 fa fobi - страшить  
 fa forma - формировать  
@@ -401,13 +390,13 @@ fa tele fon - звонить
 fa truke - обмануть  
 fa turbe - утруждать  
 fa valu - оценивать  
-face - грань  
-face tele - глубокий  
-face tele ta - мелкий  
-facil - лёгкий (простой)  
 faida - применение (утилитарность)  
 fan - болото  
 fan topo - болото (топь)  
+fase - грань  
+fase tele - глубокий  
+fase tele ta - мелкий  
+fasil - лёгкий (простой)  
 fatige - усталость  
 fatura - счёт (фактура)  
 faze - фаза  
@@ -421,7 +410,7 @@ fiorde - фьорд
 firuze - бирюза  
 fito - растение  
 fito logi - ботаника  
-fito yam jui ja - вегетарианец  
+fito yam sim ja - вегетарианец  
 flame - воспаление  
 fleche - стрела (стрелка)  
 fora - сверлить (бурить)  
@@ -451,7 +440,7 @@ gabur sheki - надгробие
 galaksi - галактика  
 Galia - Галлия  
 galope - кентер и галоп  
-gan cau - сено  
+gan chau - сено  
 ganse - гусь  
 ganum - пшеница  
 garma mosim - лето  
@@ -481,6 +470,7 @@ glu di - клейкий (липкий)
 glu fan - глина  
 glu grafi - наклейка  
 gol - цель  
+gola sheki - булыжник  
 gorila - горилла  
 goton - хлопок  
 grafi kata - комикс  
@@ -511,7 +501,7 @@ haha - смеяться
 hai - море  
 hai alga - морские водоросли  
 hai amir ja - адмирал  
-hai cau - морские травы  
+hai chau - морские травы  
 hai di - морской  
 hai gun - военно-морской флот  
 hai hiyar - голотурия (морские огурц)  
@@ -571,7 +561,7 @@ in verse jan - интроверт
 insan - человек  
 insan di - человечный  
 insan haki - права человека  
-insan jui - гуманизм  
+insan sim - гуманизм  
 iode - йод  
 ironi - ирония  
 islam din - ислам (мусульманство)  
@@ -591,6 +581,7 @@ jene loka - место рождения
 jene tipe - генотип  
 jene yo zou - выращивать  
 jihade - борьба (бой)  
+jin lai - доступ  
 jinse - пол  
 jinse logi - гендерные исследования  
 jirafa - жираф  
@@ -599,7 +590,6 @@ jiu - живой
 joven - юный  
 joven muku - саженец  
 jude ja - судья  
-jui - идеология  
 jul - джоуль (J)  
 jumla - фраза  
 jung - центр  
@@ -621,16 +611,16 @@ kaguji - бумага
 kaguji limon - лайм  
 kala - чёрный  
 kalam - ручка  
-kalce kristal - мрамор  
-kalce mate - известь  
-kalce petra - известняк  
-kalcite - кальцит  
 kalenda - календарь  
 kali - щёлочь  
 kali guste - горький  
 kali melon - горький огурец (китайская горькая тыква)  
 kali oranje - померанец  
 kalmar - кальмар  
+kalse kristal - мрамор  
+kalse mate - известь  
+kalse petra - известняк  
+kalsite - кальцит  
 kama kanon - Камасутра  
 kamar - комната (камера)  
 kamil - ромашка аптечная  
@@ -702,7 +692,7 @@ kon gung - сотрудничать (кооперировать)
 kon pasi - жалость (сердобольность)  
 kon sela ja - консультант (советник)  
 kon trati - контракт  
-koncerte - концерт  
+konserte - концерт  
 kopi - копия  
 koral - коралл  
 kore - бегать (бежать)  
@@ -743,13 +733,13 @@ laji - мусор (дрянь)
 laji bagi - свалка  
 laji tong - мусорный бак  
 lal - красный  
-lal lince - рыжая рысь  
+lal linse - рыжая рысь  
 lal oranje - мандарин  
 lal salmon - нерка (красница)  
 lama - лама (религиозный учитель в тибетском буддизме)  
 lampa - лампа  
 lana - проклятие  
-lance she - снаряд  
+lanse she - снаряд  
 lasun - чеснок  
 late - сторона (бок)  
 late di - боковой (латеральный)  
@@ -778,8 +768,8 @@ limon - лимон
 limon oranje - цитрус  
 lin - линия (нитка)  
 lin so - волокно  
-lince - рысь  
 linke - связь (ссылка)  
+linse - рысь  
 lisan - язык  
 liste - список  
 litre - литр  
@@ -829,7 +819,7 @@ margarita - маргаритка
 Marse - Марс  
 mas fili - предпочитать  
 mas fili di - любимый  
-mas fili jui - фаворитизм (кумовство)  
+mas fili sim - фаворитизм (кумовство)  
 mas gun - пополнение  
 masa - масса  
 masa mula - клубень  
@@ -841,6 +831,7 @@ masta - мачта
 mata badan - труп (мёртвое тело)  
 mata badan fili - некрофилия  
 mate - материя  
+mate lun - материализм  
 matur - взрослый  
 mau - кошка  
 maze - носок  
@@ -924,7 +915,7 @@ nave raite - правый борт
 nefre - почка  
 nefte - масло  
 Neputun - Нептун  
-nerve celu - нейрон  
+nerve selu - нейрон  
 nia - намерение  
 nide - гнездо (улей)  
 nilon - нейлон  
@@ -951,7 +942,6 @@ nove ta - новизна
 nu - ну  
 ####O - O  
 o - или  
-ocelote - оцелот  
 ohtopus - спрут (осьминог)  
 oko - глаз (око)  
 oko di - глазной  
@@ -964,6 +954,7 @@ ore flame - отит
 orkide - орхидея  
 orto - прямой  
 orto gona di - ортогона́льный  
+oselote - оцелот  
 osidian - обсидиан  
 osmos - осмос  
 oste jama - скелет (остов)  
@@ -971,7 +962,6 @@ oste jama - скелет (остов)
 pa - в  
 pa lin - онлайн  
 pa poli mar - часто  
-pace hai kade - тихоокеанская треска  
 pade di - упавший  (падший)  
 pade mun - лаз  
 pagri - чалма  
@@ -987,7 +977,7 @@ pante - брюки
 papagai - попугай  
 papaya - папайя  
 par - равный  
-par face - уровень  
+par fase - уровень  
 par jan - ровня  
 par nomer - чётное число  
 par veze ta - равновесие (баланс)  
@@ -998,6 +988,7 @@ pari kata - сказка
 parke - парк  
 parne - папоротник  
 pas loga - пароль  
+pase hai kade - тихоокеанская треска  
 pasi - боль  
 pasi di - болезненный  
 pasporte - паспорт  
@@ -1029,21 +1020,21 @@ peshe saide ja - рыбак (рыболов)
 petra - горная порода  
 petra nefte - нефть  
 piaze - лук  
-picea - ель  
 pike - кончик (остриё, пик)  
 pin - булавка (игла, шип)  
 pin chope - киркомотыга  
 pin kardon - татарник колючий  
 pin sense di - пикантный  
-pince ban - планшет  
+pinse ban - планшет  
 pipre - перец  
 pipre minta - мята перечная  
 piram - пирамида  
+pisea - ель  
 piza - пицца  
 plan - план  
 plasti - пластмасса  
 plasti di - пластичный  
-plate geo jui ja - плоскоземелец  
+plate geo sim ja - плоскоземелец  
 polau - плов  
 poli basha di - многоязычный  
 Polinesia - Полинезия  
@@ -1066,7 +1057,7 @@ projete - проект
 puja kan - храм (место богослужения)  
 puja meza - алтарь  
 pul - полный  
-pul fito yam jui ja - веган  
+pul fito yam sim ja - веган  
 pul shipi - мариновать  
 pulmon flame - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
@@ -1085,7 +1076,7 @@ rasa medi - межрасовый
 ratibu - установка  
 ratibu di - организованный (порядок)  
 re - повторение  
-re cikle - рециркулировать  
+re sikle - рециркулировать  
 reste - остаток  
 retro gula - рвать (изрыга́ть)  
 retro gula sense - тошнота  
@@ -1099,11 +1090,11 @@ rivo - река
 robote - робот  
 roke - качать  
 roke muzika - рок  
-rokete lance gi - ракетная установка  
+rokete lanse gi - ракетная установка  
 Roma - Рим  
 roma kamil - ромашка римская  
-romance - романтический  
-romance - роман  
+romanse - роман  
+romanse di - романтический  
 rose - роса  
 rota lefte - против часовой стрелки  
 rota van gi - волчок  
@@ -1153,13 +1144,17 @@ se kon - друг друга
 sekse logi - сексология  
 sela loga - совет  
 selge - мангольд  
+selu logi - цитология  
 seme - семя  
 seme di - семенной  
 semente - цемент  
+sen - сто  
 sen - возраст  
 sense - чувство  
 sense shaka - щупальце  
+sentaure - василёк  
 sera - пила  
+serami - керамика  
 sesam - сезам  
 sete - семь (7)  
 shalke - чешуя  
@@ -1207,20 +1202,21 @@ shuru - начало
 shush di - тихий  
 shutu - искусство  
 si - быть  
+sian - циан  
 siborgium - сиборгий  
 side loka - сиденье (седло)  
 sifa loga - прилагательное  
+sikle ja - велосипедист  
 sili - серия  
 sili nete - кольчуга  
 sili tika - звено  
 silko - шёлк  
+sim - идеология  
 sina plate - нагрудник  
 sing - звезда  
 sir plan - заговор (сговор)  
 Slave - славянский  
 so - элемент  
-soci - общество (социум)  
-soci jinse - гендер  
 sofa - софа (диван, канапе)  
 sofita - мудрость  
 soi - соя  
@@ -1237,6 +1233,8 @@ song - сосна
 sor - замок  
 sor di - запереть  
 sos - соус  
+sosi - общество (социум)  
+sosi jinse - гендер  
 sosis - колбаса (сосиска)  
 sual - вопрос  
 sual dokum - анкета  
@@ -1245,11 +1243,11 @@ sui gas - пар
 sui kaboga - тыква горлянка (калабас)  
 sui minta - мята водная  
 sui yau - жажда  
-Suice - Швейцария  
+Suise - Швейцария  
 suka - счастливый (радостный)  
 sukar - сахар  
 sukar bete - сахарная свёкла  
-sukar cau - сахарный тростник  
+sukar chau - сахарный тростник  
 sukar oranje - апельсин  
 suna islam din - сунниты  
 sundar - красивый  
@@ -1282,10 +1280,12 @@ tele vide gi - телевизор
 teleskope - телескоп  
 tema - тема  
 tema name - название (пьесы, заголовок)  
+ten bil - доступный  
+ten fasil ta - доступность  
 tense - тугой  
 tepe - лента  
-terca - косой  
-teror jui - терроризм  
+tercha - косой  
+teror sim - терроризм  
 tese - довод  
 teste - проба (тест)  
 tikete - билет  
@@ -1354,9 +1354,6 @@ veranda - балкон
 vermute - вермут  
 veste gorila - западная горилла  
 veze di - тяжёлый  
-vice ba - отчим  
-vice ma - мачеха  
-vice raja - вице-король  
 vide - видеть  
 vide ja - зрительница  
 vide punte - перспектива (точки зрения)  
@@ -1366,6 +1363,9 @@ violeta blu - фиолетовый (пурпурный)
 virje - девственник  
 virus - вирус  
 virus logi - вирусология  
+vise ba - отчим  
+vise ma - мачеха  
+vise raja - вице-король  
 Vishnu - Вишну  
 viza - виза  
 vode - клятва (присяга, обет)  

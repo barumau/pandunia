@@ -2,9 +2,6 @@
 ####A - A  
 a - le (la)  
 abies - sapin  
-acente - accent  
-acese - accès  
-acese bil - accessible (atteignable, à portée)  
 achar di - décapé (mariné)  
 achar hiyar - concombre confit (cornichon)  
 achi - éternuer (atchoum)  
@@ -80,7 +77,7 @@ amper - ampère
 ampul - ampoule (fiole)  
 an ai - exécrer  
 an air bio di - anaérobique  
-an deu jui ja - athée  
+an deu sim ja - athée  
 an din ja - infidèle (incroyant)  
 an memo - oublier  
 an nam - antonyme  
@@ -214,6 +211,7 @@ Barbados - Barbade
 barbar - barbare  
 Barbuda - Barbuda  
 barde - barbe  
+bari fon - accent  
 bari metal - métaux lourds  
 barium - baryum  
 barka - féliciter  
@@ -240,6 +238,7 @@ baze bol - baseball
 baze shula kan - école primaire  
 be ais - geler (glacer)  
 be bio mute - fermenter  
+be bum - exploser (détoner)  
 be fobi - craindre (avoir peur)  
 be hapu - convenir (être approprié)  
 be in - entrer  
@@ -265,16 +264,16 @@ bil ta - capacité (pouvoir, habileté)
 bilor - cristal  
 bina plan - architecture  
 bina plan ja - architecte  
-bio cana she - compost  
 bio logi - biologie  
+bio sana she - compost  
 bio sistem - biome  
 bio toksi - toxine  
 bio vute - organisme  
 bir - bière  
 biskute - biscuit  
 blu - bleu  
-blu centaure - Centaurée bleuet  
 blu elfe - schtroumpf  
+blu sentaure - Centaurée bleuet  
 boing - rebondir  
 bokse - boxe  
 bokse ja - boxeur  
@@ -304,9 +303,6 @@ burge - fort
 buta - botte  
 buton - bouton  
 ####C - C  
-celu logi - cytologie  
-cen - cent (100)  
-centaure - Centaurée  
 chabe - clef  
 chai - thé  
 chai kupa - tasse à thé  
@@ -335,10 +331,6 @@ choklatobaton - tablette de chocolat
 chope - houe  
 chun - village  
 chuzable - option  
-cikle - bicyclette  
-cikle ja - cycliste  
-cirke sheki - pavé  
-citi - ville  
 ####D - D  
 dai dom - palais (château, manoir)  
 dai hai - océan  
@@ -347,8 +339,8 @@ dai pote - chaudron
 dai sheke - rocher  
 daka - couvrir  
 dalil - preuve  
-dance - dance  
 danger - cloche  
+danse - dance  
 Danske - danois  
 dante na di - édenté  
 dara tubo - entonnoir  
@@ -408,48 +400,41 @@ duri - chronique
 durita - passer  
 durmetrer - chronomètre  
 duru - se passer  
-dusforma - défigurer  
+dus jan - ennemi  
+dus karma - méfait (péché)  
+dus vide - laid (vilain)  
 dush - douche  
-dusjan - ennemi  
-duskar - méfait (péché)  
-dusvidi - laid (vilain)  
 ####E - E  
 e - et  
-ekojeni - sauvage  
+eko jene di - sauvage  
 ekore - écureuil  
-eletre - électricité  
+ekso - extérieur  
+ekso klus di - exclusif  
+ekso planete - exoplanète  
+ekso poze - exposer  
+ekso vide di - évident  
+ekso yam - piquenique  
+eletro - électricité  
 elfe - elfe  
-emoje - émoticône (emoji)  
-emos - émotion  
-emoshal - humeur  
-englofoni - anglophone  
-englomargarite - pâquerette  
-esh - extérieur  
-eshkava - excaver  
-eshklusa - exclure  
-eshklusivi - exclusif  
-eshplanete - exoplanète  
-eshploze - explosion  
-eshplozu - exploser (détoner)  
-eshpoza - exposer  
-eshtrata - extraire  
-eshvidi - évident  
-eshyam - piquenique  
-eskalotan - vigne  
-Eskandia - Scandinavie  
-eskulter - sculpteur  
+emosi - émotion  
+emosi hal - humeur  
+emosi zi - émoticône (emoji)  
+english fon di - anglophone  
+english margarita - pâquerette  
+eskale tana - vigne  
+Eskandinavia - Scandinavie  
+eskulte ja - sculpteur  
 esponje - éponge  
 esporte - sport  
 estan - étain  
 estibium - antimoine  
-estuda - étudier  
 estude - étude  
-estuder - étudiant  
-euloge - éloge  
+estude ja - étudiant  
+eu anjil - évangile  
+eu loga - éloge  
 Europe - Europe  
-europi - européen  
-europobalute - chêne pédonculé  
-evanjil - évangile  
+europe baluta - chêne pédonculé  
+europe di - européen  
 ####F - F  
 fa - faire  
 fa ajibu - éblouir (étonner, stupéfier, surprendre)  
@@ -458,6 +443,11 @@ fa asar - effectuer
 fa bina - construire  
 fa dante - mordre  
 fa dika - viser  
+fa dus forma - défigurer  
+fa ekso kave - excaver  
+fa ekso klus - exclure  
+fa ekso trator - extraire  
+fa estude - étudier  
 fa fen gata - analyser  
 fa fobi - effrayer  
 fa forma - former  
@@ -506,12 +496,12 @@ fa turbe - gêner (déranger, perturber)
 fa valu - évaluer  
 fa verse - verser  
 fa vode - promettre  
-face - face (facette)  
-face tele - profond  
-facil - facile  
 fan - boue (fange, bourbe, gadoue)  
 fan def ban - garde-boue (aile)  
 fan topo - marécage (marais)  
+fase - face (facette)  
+fase tele - profond  
+fasil - facile  
 fate - fait  
 fatige - fatigue  
 fatura - addition (facture)  
@@ -526,7 +516,7 @@ fin di - fini
 fiorde - fiord  
 fito - plante (végétal)  
 fito logi - botanique  
-fito yam jui ja - végétarien  
+fito yam sim ja - végétarien  
 flame - inflammation  
 fleche - flèche  
 fobi ja - effrayant  
@@ -567,13 +557,13 @@ gami - mariage
 gami baba - beau-père  
 gami jan - époux  
 gami mama - belle-mère  
-gan cau - foin  
+gan chau - foin  
 gan tela - serviette  
 ganse - oie  
 ganum - blé  
 garma mosim - été  
 garma zona - tropique  
-garma zona cau istan - savane  
+garma zona chau istan - savane  
 gas - gaz  
 gata glu ban - presse-papier  
 gati - dur  
@@ -603,6 +593,7 @@ glu di - adhésif (collant)
 glu fan - argile  
 glu grafi - autocollant  
 gol - but (destination)  
+gola sheki - pavé  
 gorila - gorille  
 goton - coton  
 grafi kata - bande dessinée  
@@ -629,7 +620,7 @@ haha - rire
 hai - mer  
 hai alga - algues  
 hai amir ja - amiral  
-hai cau - posidonie (herbiers marins)  
+hai chau - posidonie (herbiers marins)  
 hai gun - force navale (marine)  
 hai hiyar - concombre de mer  
 hai jele - méduse  
@@ -694,7 +685,7 @@ in verse jan - introverti
 insan - être humain  
 insan di - humain  
 insan haki - droits de l'homme  
-insan jui - humanisme  
+insan sim - humanisme  
 ironi - ironie  
 islam - soumission  
 islam din - Islam  
@@ -720,6 +711,7 @@ jene loka - lieu de naissance
 jene tipe - génotype  
 jene yo zou - élever  
 jihade - lutte  
+jin lai - accès  
 jini - esprit (génie)  
 jinse - sexe  
 jinse logi - études de genre  
@@ -748,16 +740,16 @@ kaguji - papier
 kaguji limon - lime (citron vert)  
 kala - noir  
 kalam - plume  
-kalce kristal - marbre  
-kalce mate - chaux  
-kalce petra - calcaire  
-kalcite - calcite  
 kalenda - calendrier  
 kali - base (alcali)  
 kali - basique  
 kali guste - amer  
 kali oranje - orange amère  
 kalmar - calmar (encornet, calamar)  
+kalse kristal - marbre  
+kalse mate - chaux  
+kalse petra - calcaire  
+kalsite - calcite  
 kama - luxure (libido)  
 kama kanon - Kâmasûtra  
 kamar - pièce (chambre)  
@@ -830,7 +822,7 @@ komputa di - numérique
 kon gung - collaborer  
 kon sela ja - consultant (conseiller)  
 kon trati - convention (alliance, pacte)  
-koncerte - concert  
+konserte - concert  
 kopi - copie  
 koral - corail  
 kore - courir  
@@ -877,9 +869,9 @@ lal salmon - saumon sockeye
 lama - lama (enseignant religieux du bouddhisme tibétain)  
 lampa - lampe  
 lana - malédiccion  
-lance grafi - projection  
-lance grafi - projeter (donner)  
-lance she - projectile  
+lanse grafi - projection  
+lanse grafi - projeter (donner)  
+lanse she - projectile  
 lashe - laisser  
 lasun - ail  
 late - côté  
@@ -911,8 +903,8 @@ lili sheki - caillou
 limon - citron  
 lin - ligne (fil)  
 lin so - fibre  
-lince - lynx  
 linke - lien  
+linse - lynx  
 lisan - langue  
 liste - liste  
 litre - litre  
@@ -966,7 +958,7 @@ Marse - Mars
 mas - plus  
 mas fili - préférer  
 mas fili di - favori (préféré)  
-mas fili jui - favoritisme  
+mas fili sim - favoritisme  
 masa - masse  
 masa mula - tubercule  
 masa mula sol hua - topinambour  
@@ -977,6 +969,7 @@ masta - mât
 mata badan - cadavre (corps)  
 mata badan fili - nécrophilie  
 mate - matière  
+mate lun - matérialisme  
 matur - adulte  
 mau - chat  
 me poze - rang  
@@ -1056,7 +1049,7 @@ nave raite - tribord
 nefre - rein  
 nefte - huile (pétrole)  
 Neputun - Neptune  
-nerve celu - neurone  
+nerve selu - neurone  
 nerve toksi - neurotoxine  
 nete gete - télécharger  
 nia - intention  
@@ -1086,7 +1079,6 @@ nove loga - néologisme
 nove ta - nouveauté  
 ####O - O  
 o - ou  
-ocelote - ocelot  
 ohtopus - Poulpe (pieuvre)  
 oko - œil  
 oko di - oculaire  
@@ -1101,6 +1093,7 @@ ore flame - otite
 orkide - orchidée  
 orto - droit (rectiligne)  
 orto gona di - orthogonal  
+oselote - ocelot  
 osidian - obsidienne  
 oste jama - squelette  
 oste shalke - scutelle  
@@ -1108,9 +1101,6 @@ oste shalke - scutelle
 pa - a (dans, en, chez)  
 pa ke - où  
 pa lin - en ligne  
-pace - paix  
-pace hai kade - morue du Pacifique  
-pace jui ja - pacifiste  
 pade di - chu  
 pade mosim - automne  
 pagri - turban  
@@ -1128,7 +1118,7 @@ pante - pantalon
 papagai - perroquet  
 papaya - papaye  
 par - pair (pareil, egal)  
-par face - niveau  
+par fase - niveau  
 par nomer - nombre pair  
 par veze ta - équilibre  
 param - paramètre  
@@ -1142,6 +1132,9 @@ parne - fougères
 pas - passer  
 pas dau - passe (passage)  
 pas loga - mot de passe  
+pase - paix  
+pase hai kade - morue du Pacifique  
+pase sim ja - pacifiste  
 pasporte - passeport  
 pasta - pâte  
 pasta petra - magma  
@@ -1169,22 +1162,22 @@ peshe saide ja - pêcheur
 petra - roche (pierre)  
 petra nefte - pétrole (essence)  
 piaze - oignon  
-picea - Épicéa  
 pike - bout (pointe, pic)  
 pin - épingle  
 pin chope - pioche  
 pin kardon - chardon aux ânes  
 pin sense di - piquant  
-pince ban - porte-bloc (planchette à pince)  
+pinse ban - porte-bloc (planchette à pince)  
 pipre - poivre  
 pipre minta - menthe poivrée  
 piram - pyramide  
 pirate - piraterie  
+pisea - Épicéa  
 piza - pizza  
 plan - plan  
 plasti paste - pâte à modeler  
-plate geo jui ja - terreplatiste  
 plate geo kaske logi - tectonique des plaques  
+plate geo sim ja - terreplatiste  
 plate topo - plaine  
 poli basha di - plurilingue (multilingue)  
 Polinesia - Polynesie  
@@ -1232,9 +1225,10 @@ rasa - race
 rasa medi - interracial  
 ratibu - ordre  
 re - répétition  
-re cikle - recycler  
+re sikle - recycler  
 re zoku - reprendre  
 rege petra - grès  
+reseta - recette  
 reste - reste  
 retro - en arrière  
 retro gula sense - nausée  
@@ -1252,7 +1246,7 @@ rivo kinar - rive
 robote - robot  
 roke - secouer  
 roke muzika - rock  
-rokete lance gi - Lance-roquettes  
+rokete lanse gi - Lance-roquettes  
 Roma - Rome  
 roma kamil - Camomille Romaine  
 rose - rosée  
@@ -1301,11 +1295,14 @@ sekse logi - sexologie
 sekur - sûr  
 sela loga - conseil  
 selge - blettes (bettes)  
+selu logi - cytologie  
 seme - semence  
 seme di - séminal  
+sen - cent (100)  
 sen - âge  
 sense - sens  
 sense shaka - tentacule  
+sentaure - Centaurée  
 sera - scie  
 sete - sept (7)  
 shalke - échelle  
@@ -1355,14 +1352,16 @@ shuru - début (commencement)
 shutu - art  
 si - être  
 sifa loga - adjectif  
+sikle - bicyclette  
+sikle ja - cycliste  
 sili - série  
 sili tika - maillon (chaînon)  
 silko - soie  
 sing - étoile  
 sir plan - complot (conspiration)  
 sir ta - célérité  
+siti - ville  
 so - élément (unité fondamentale)  
-soci - société  
 sofa - canapé (sofa)  
 sofita - sagesse  
 soi - soja  
@@ -1370,9 +1369,9 @@ soi milke - lait de soja
 soi sos - sauce de soja  
 soka - chercher  
 sol - soleil  
-sol centaure - Centaurée du solstice  
 sol chati - ombrelle (parasol)  
 sol hua - Tournesol  
+sol sentaure - Centaurée du solstice  
 sona - sommeil  
 sona kamar - chambre à coucher  
 sona papi - pavot somnifère  
@@ -1380,6 +1379,7 @@ sona tabi - ensommeillé (somnolent)
 soni - son  
 sor - serrure  
 sos - sauce  
+sosi - société  
 sosis - saucisse  
 sual - question  
 sueda - sueur  
@@ -1387,11 +1387,11 @@ sui - eau
 sui gas - vapeur d’eau  
 sui minta - Menthe aquatique  
 sui yau - soif  
-Suice - Suisse  
+Suise - Suisse  
 suka - heureux  
 sukar - sucre  
 sukar bete - betterave à sucre (betterave sucrière)  
-sukar cau - Canne à sucre  
+sukar chau - Canne à sucre  
 sukar oranje - orange douce  
 suna islam din - sunnisme  
 sundar - beau  
@@ -1419,10 +1419,12 @@ tele vide gi - téléviseur
 teleskope - télescope (lunette)  
 tema - sujet (thème)  
 tema name - titre  
+ten - tenir  
+ten bil - accessible (atteignable, à portée)  
 tense - tendu  
 tepe - ruban (bande)  
-terca - oblique (de travers)  
-teror jui - terrorisme  
+tercha - oblique (de travers)  
+teror sim - terrorisme  
 tese - argument  
 teste - épreuve (test)  
 tikete - billet  
@@ -1495,13 +1497,13 @@ verse - verse (face á)
 veze - poids (lourdeur, gravité)  
 veze di - lourd  
 veze metre gi - balance (poids)  
-vice raja - vice-roi  
 vide - voir  
 vide ja - espectador  
 vidou - veuve  
 violeta blu - violet (pourpre)  
 virje - vierge  
 virus - virus  
+vise raja - vice-roi  
 Vishnu - Vishnou  
 vode - vœu (promesse)  
 vol - vouloir  

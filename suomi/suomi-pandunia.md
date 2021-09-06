@@ -10,6 +10,7 @@ aarre - bau
 aasi - iha  
 Aasia - Asia  
 aasialainen - asia  
+aate (aatteen kannatus, ismi) - sim  
 aatteen kannattaja - helpeja  
 aavikko (hiekkaerämaa) - rege istan  
 Abhaasia - Apsni  
@@ -45,12 +46,12 @@ aistia - fa sense
 aivastaa (atsii!) - achi  
 aivokalvo - meninge  
 aivokalvontulehdus - meninge flame  
-aivot - cerebro  
+aivot - serebro  
 ajaa (kuskata) - fa shofer  
 ajatella (miettiä) - fikir  
 ajattelun, olemisen tai ihmisten ala tai alue - ya  
 ajatus - fikir  
-akaasia - akacia  
+akaasia - akasia  
 akku (paristo) - bateri  
 akseli - akse  
 aktinium - acinium  
@@ -103,7 +104,7 @@ analyysi - fen gata
 ananas - nanas  
 Andit - Andes  
 Andorra - Andora  
-anglofiili - englofiler  
+anglofiili - english fili ja  
 Angola - Angola  
 animaatio (piirretty) - anime  
 animoida - anime  
@@ -153,7 +154,7 @@ arvostelija (kriitikko) - piping ja
 arvottaa - fa valu  
 ase - arme  
 asema (satama, lentokenttä) - porte  
-asema - estaci  
+asema - estasi  
 asento - asan  
 asetelma - poze  
 asia (juttu) - sual tema  
@@ -174,8 +175,8 @@ asua - doma
 asunto (koti) - dom  
 asuttaa - domana  
 Ateena - Athina  
-ateisti (jumalankieltäjä) - an deu jui ja  
-ateljee (studio) - estudia  
+ateisti (jumalankieltäjä) - an deu sim ja  
+ateljee (studio) - estude kan  
 Atlantin valtameri - Atlanti Hai  
 atomi - atom  
 aueta (avautua) - be kai  
@@ -283,8 +284,8 @@ demokraatti - demokratiste
 demokraattinen - demo krati di  
 demokratia - demokrati  
 demoni (piru) - demon  
-desi - deci  
-desibeli - deci bel  
+desi - desi  
+desibeli - desi bel  
 devanagari - deu nagar zi  
 dinosaurus (hirmulisko) - dino saur  
 Dione - Dione  
@@ -300,8 +301,8 @@ dualismi - dulistia
 dubnium - dubnium  
 dynamiitti - dinamite  
 dysprosium - disprosium  
-dysteismi (usko jumalan pahuuteen) - dusdevistia  
-dystopia - dustopia  
+dysteismi (usko jumalan pahuuteen) - dus deu sim  
+dystopia - dus topo  
 ####E - E  
 Ecuador - Ekuador  
 edellinen - cheni  
@@ -321,10 +322,10 @@ ei mitään - siro she
 ei mitään - siro she  
 eilen - chendeno  
 einsteinium - ainstainium  
-ekologia (ympäristötiede) - ekolojia  
+ekologia (ympäristötiede) - eko logi  
 eksa- - eksa  
-eksonyymi - eshnam  
-eksoplaneetta - eshplanete  
+eksonyymi - ekso name  
+eksoplaneetta - ekso planete  
 El Salvador - Salvador  
 ele - jeste  
 elegantti - shike  
@@ -358,10 +359,10 @@ endonyymi (omakielinen nimi) - in name
 enemmistö - mas di fen  
 enemmän (myös, lisäksi, plus) - mas  
 energia - energi  
-englannistaa - englokitaba  
-englanti - engli  
+englannistaa - fa english kitabu  
 Englanti - English  
-englantia puhuva (anglofoni) - englofoni  
+englanti - english di  
+englantia puhuva (anglofoni) - english fon di  
 enimmäis- - masim di  
 eniten - masim  
 ennen (aikaisemmin, aiemmin) - cheno  
@@ -372,11 +373,11 @@ ensimmäinen (alku-) - shuru di
 ensimmäinen (numero yksi) - un me  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - an karma ja  
-epäilevä - dutani  
+epäilevä - dute ja  
 epäilys - dute  
-epäilyttävä - dutabli  
-epämuodostunut - dusformi  
-epäonni - dusi zar  
+epäilyttävä - dute bil  
+epämuodostunut - dus forma di  
+epäonni - dus zar  
 epäonnistuminen - shitu bai  
 erbium - erbium  
 erehtyä (tehdä virhe) - fa galte  
@@ -393,9 +394,9 @@ esimerkiksi - do misal
 esimerkki - misal  
 esine (tavara) - vutu  
 Espanja - Espanya  
-espanjaa puhuva - espanfoni  
-esperanto - esperanti  
-essee - esei  
+espanjaa puhuva - espanya fon di  
+esperanto - esperanto  
+essee - esai  
 este - bara mur  
 estää kulku (tukkia tie) - bara  
 eteen päin - do jin  
@@ -414,25 +415,25 @@ etuliite (prefiksi) - chenfikse
 etymologia - loga asal  
 etäisyys (kaukaisuus) - tele  
 etäisyys - tele ta  
-eugeniikka - eujenistia  
+eugeniikka - eu jene sim  
 Euraasia - eurasia  
 euro (€) - euro  
-Euroopan unioni - Europi Unia  
+Euroopan unioni - Europe Unta  
 Eurooppa - Europe  
-eurooppalainen - europi  
+eurooppalainen - europe di  
 Europa-kuu - Europa  
 europium - europium  
-euteismi (usko jumalan hyvyyteen) - eudevistia  
-evankeliumi(hyvä sana) - evanjil  
-eväsretki (piknik) - eshyam  
+euteismi (usko jumalan hyvyyteen) - eu deu sim  
+evankeliumi(hyvä sana) - eu anjil  
+eväsretki (piknik) - ekso yam  
 ####F - F  
 Falklandin saaret - Malvinas nesia  
 fani (-fiili) - fili ja  
 farmakologia - dava she logi  
-fasismi - fasha jui  
-fasisti - fasha jui ja  
-feminismi - fem jui  
-feministi - fem jui ja  
+fasismi - fasha sim  
+fasisti - fasha sim ja  
+feminismi - fem sim  
+feministi - fem sim ja  
 fermium - fermium  
 Fidži - Fiji  
 Filippiinit - Filipinas  
@@ -559,17 +560,17 @@ hedelmätarha - frute bagi
 hei (haloo) - halo  
 heidän - yamen su  
 heijastaa (peilata) - mira  
-heijastaa kuvia (projisoida) - lance grafi  
+heijastaa kuvia (projisoida) - lanse grafi  
 heikko - debili  
 heimo - tribu  
-heinä - gan cau  
+heinä - gan chau  
 heinäkuu - mes sete  
-heittää (paiskata) - lance  
+heittää (paiskata) - lanse  
 helikopteri - helis fei gi  
 helium - helium  
 helmi - lulu  
 helmikuu - mes du  
-helppo - facil  
+helppo - fasil  
 Helsinki - Helsinki  
 helvetti - naraka  
 hengitys (henkäys) - nafas  
@@ -584,7 +585,7 @@ herkullinen (nami) - bon guste di
 hermo - nerve  
 hermomyrkky - nerve toksi  
 hermosairaus (neuropatia) - nerve pati  
-hermosolu (neuroni) - nerve celu  
+hermosolu (neuroni) - nerve selu  
 hermostollinen - nerve di  
 herra tai rouva - shi  
 hertsi (Hz) - herze  
@@ -644,9 +645,9 @@ huippu - shan pike
 huivi (šaali) - shal  
 hullu (mieletön) - foli  
 hulluus (mielettömyys) - foli ta  
-humanismi - insan jui  
-humanisti - insan jui ja  
-humanistinen - insan jui di  
+humanismi - insan sim  
+humanisti - insan sim ja  
+humanistinen - insan sim di  
 hummus - humus sos  
 humoristi - yumor ja  
 hunaja - medu  
@@ -657,7 +658,7 @@ Huomenta! - salam suba
 huominen - pos den  
 huomio (kommentti, merkintä) - note she  
 huone - kamar  
-hurma (lumo, tenho) - facin ta  
+hurma (lumo, tenho) - fasin ta  
 hurraa (hurrata) - ura  
 huuli - labi  
 huume - droge  
@@ -668,14 +669,14 @@ hygieeninen - salu safa di
 hygienia (puhtaus) - salu safa ta  
 hyi! (pyh!) - fui  
 hylkiö (paaria) - paraya  
-hymiö (emoji) - emoje  
+hymiö (emoji) - emosi zi  
 hypätä (hyppiä) - jampe  
 hyrrä - rota van gi  
 hyttynen (sääski) - moskite  
 hyve - bon deke  
 hyveellinen (hyvä) - bon deke di  
 hyvinvointi - salam ta  
-hyvä (eettisesti hyvä) - evi  
+hyvä (eettisesti hyvä) - eu  
 hyvä (tervehdyksissä) - salam di  
 hyvä - bon  
 hyvä onni (tuuri, säkä, lykky) - bon zar  
@@ -741,15 +742,15 @@ ilmasto - klima
 ilmastonmuutos - klima mute  
 ilmastotiede (klimatologia) - klima logi  
 ilmavoimat - air gun  
-ilmeinen (silminnähtävä) - eshvidi  
+ilmeinen (silminnähtävä) - ekso vide di  
 ilmiasu (ulkonäkö) - rupa  
 ilostuttaa (tyydyttää) - fa suka  
 ilta - sham  
 iltapäivä - sham dia  
-ilves - lince  
+ilves - linse  
 imeä - chupa  
-imperialismi - imperi jui  
-imperialisti - imperi jui ja  
+imperialismi - imperi sim  
+imperialisti - imperi sim ja  
 indium - indium  
 Indonesia - Indonesia  
 Indusjoki - Hindu riu  
@@ -784,7 +785,7 @@ istua - fa side
 isä - ba  
 isänisä - ba di ba  
 isänäiti - ba di ma  
-isäpuoli (äidin puoliso) - vice ba  
+isäpuoli (äidin puoliso) - vise ba  
 Italia - Italia  
 itkeä (yhyy) - uhu  
 itse - se  
@@ -817,7 +818,7 @@ Jamaika - Jamaika
 jambolaani - jamul  
 jano - sui yau  
 Japani - Nipon  
-japanilainen - niponi  
+japanilainen - nipon di  
 jasmiini - moli  
 jasmiinitee - moli hua chai  
 jatkua uudestaan - re zoku  
@@ -927,7 +928,7 @@ kaikki - pan
 kaiku - mira sonde  
 kaipuu (ikävä, nostalgia) - nostalgia  
 kaivaa - fa kave  
-kaivaa esiin - eshkava  
+kaivaa esiin - fa ekso kave  
 kakku (keksi) - keke  
 kaksi (2) - du  
 kaksikielinen - dulbashi  
@@ -942,13 +943,13 @@ kalifi - halifa
 kalifornium - kalifornium  
 kalium - kalium  
 kaljupäinen - sar kesha na di  
-kalkki - kalce mate  
-kalkkikivi - kalce petra  
+kalkki - kalse mate  
+kalkkikivi - kalse petra  
 kalkkuna - dinde  
 kalkyyli - kalkul  
 kallio (kivi) - petra  
-kalsiitti (kalkkisälpä) - kalcite  
-kalsium - kalcium  
+kalsiitti (kalkkisälpä) - kalsite  
+kalsium - kalsium  
 Kambodja - Kambojia  
 kameli - gamel  
 kamera - foto grafi gi  
@@ -965,14 +966,16 @@ kandela - kandela
 kangas - tela  
 kannabis (marihuana, hamppu) - ganja  
 kannada (eräs intialainen kieli) - karnada basha  
+kannattaa (tukea, edistää) - fa sim  
+kannattaja (tukija, -isti) - sim ja  
 kanootti - kano  
 kansa - nasi jan  
 kansainvälinen - nasi medi  
 kansakunta - nasi  
 kansalainen (valtion asukas) - desha jan  
 kansallinen - nasi di  
-kansallissosialismi - nasi soci jui  
-kansallisuusaate (nationalismi) - nasi jui  
+kansallissosialismi - nasi sosi sim  
+kansallisuusaate (nationalismi) - nasi sim  
 kansanryhmien välinen - zuku medi di  
 kansanryhmä (etninen ryhmä) - zuku  
 kansio (hakemisto) - dokum sanduku  
@@ -1002,7 +1005,7 @@ kasvaa (suurentua) - dayu
 kasvaa - be raste  
 kasvi - fito  
 kasvis - yam fito  
-kasvissyöjä - fito yam jui ja  
+kasvissyöjä - fito yam sim ja  
 kasvitiede - fito logi  
 kasvot (naama) - muka  
 kasvu - raste  
@@ -1021,8 +1024,8 @@ kaukoputki (teleskooppi) - teleskope
 kauneus - sundar ta  
 kaunis (komea, sievä) - sundar  
 kaupunginosa (kortteli, naapurusto) - mahala  
-kaupunki - citi  
 kaupunki - nagar  
+kaupunki - siti  
 kaura - ave  
 Kazakstan - Kazake  
 kebab (grilliliha) - kababu nama  
@@ -1033,8 +1036,8 @@ kehys (raamit) - frem
 kehä (ottelualue) - ringar  
 keidas - vase  
 keiju - pari  
-keinotekoinen (teko-, keino-) - cana di  
-keinotekoinen kieli (tekokieli, keinokieli) - cana basha  
+keinotekoinen (teko-, keino-) - sana di  
+keinotekoinen kieli (tekokieli, keinokieli) - sana basha  
 keinuttaa (keikuttaa) - roke  
 keisari - imperi ja  
 keisarikunta - imperi desha  
@@ -1060,7 +1063,7 @@ kerho (klubi) - klube
 kerma - krem  
 kermankeltainen - krem di  
 kerran - un mar  
-kerros - ceng  
+kerros - cheng  
 kerta (vuoro) - mar  
 kertoa - fa kata  
 kertomus (tarina, saaga) - kata  
@@ -1108,7 +1111,7 @@ kielletty - haram
 kieltää - fa haram  
 kieltää - nega  
 kierre (spiraali) - helis  
-kierrättää - re cikle  
+kierrättää - re sikle  
 kiihkeä (väkevä, voimakas, vahva, kova) - teza  
 kiillottaa - foto frike  
 kiiltävä (valoa heijastava) - foto mira di  
@@ -1124,7 +1127,7 @@ kiirehtiä - ajila
 kiireinen - mang  
 kiitos - shukra  
 kiittää - fa shukra  
-kiivetä - eskala  
+kiivetä - eskale  
 kiivi - kivi  
 kikherne - humus  
 kilistää (soittaa kelloa) - danga  
@@ -1152,7 +1155,7 @@ kirjoituskone - kitabu gi
 kirjoitusmerkki - zi  
 kirkas (selkeä) - ming  
 kirkastaa (valaista) - fa ming  
-kirkko - eglis  
+kirkko - eglisa  
 kirsikka - cheri  
 kirves - futau  
 kissa - mau  
@@ -1183,18 +1186,18 @@ kollektiivinen - jama di
 kolme (3) - tri  
 kolmio - tri gona  
 kolonia (siirtomaa) - koloni  
-kolonialismi - koloni jui  
+kolonialismi - koloni sim  
 kolonialisti - koloni ja  
-kolonialisti - koloni jui ja  
+kolonialisti - koloni sim ja  
 kolonisoida - fa koloni  
 Kolumbia - Kolombia  
-kommunismi - kon cana jui  
-kommunisti - kon cana jui ja  
+kommunismi - kon sana sim  
+kommunisti - kon sana sim ja  
 Komorit - Komoro nesia  
-komposti - bio cana she  
+komposti - bio sana she  
 kone - gi  
 konkani (eräs intialainen kieli) - Konkani  
-konsertti - koncerte  
+konsertti - konserte  
 konsonantti - kinar fon  
 konsultoida (antaa neuvoja) - kon sela  
 konsultti - kon sela ja  
@@ -1233,7 +1236,7 @@ korottaa - dai darja
 kortti - karte  
 koruton (tavanomainen, pelkkä, vain) - sada  
 korva - ore  
-korvata - fa vice  
+korvata - fa vise  
 korvatulehdus - ore flame  
 koska (johdosta, takia) - ze saba da  
 koskea (koskettaa) - tochu  
@@ -1285,7 +1288,7 @@ kumina - karavi
 kumkvatti - kankuate  
 kummitus (aave) - fantom  
 Kungfutse - Kong Fuzi  
-Kungfutselaisuus - kong fuzi jui  
+Kungfutselaisuus - kong fuzi sim  
 kuningas - man raja  
 kuningaskunta - raja desha  
 kuningatar - fem raja  
@@ -1325,12 +1328,12 @@ kuunnella - fa ore
 kuura - hima rose  
 kuusi (6) - luku  
 kuusikulmio - luku gona  
-kuutio (kuusitahokas) - luku face  
+kuutio (kuusitahokas) - luku fase  
 kuutio - kube  
 kuvaileva (määrittelevä) - sifa di  
 kuvakirja - grafi buku  
-kuvanveisto - eskultia  
-kuvanveistäjä - eskulter  
+kuvanveisto - eskulte shuta  
+kuvanveistäjä - eskulte ja  
 kuvaruutu - ekran  
 kuvitella - fa fantazi  
 Kuwait - Kuvaitia  
@@ -1386,7 +1389,7 @@ kääriä (panna kääröön) - lifafa
 kääriä - fa rolo  
 käärme - serpe  
 käärö - rolo  
-köynnös - eskalotan  
+köynnös - eskale tana  
 ####L - L  
 laadukas (hyvä) - bon sifa di  
 laakso - vali  
@@ -1422,7 +1425,7 @@ lapsi - bacha
 lasagne - lazanya  
 lasi - kancha  
 laskea (tehdä laskutoimitus) - fa hisabu  
-laskea tasoa - dusdarja  
+laskea tasoa - dus darja  
 laskeutua - an eskala  
 lasku (faktuura) - fatura  
 lasku (laskelma) - hisabu  
@@ -1452,7 +1455,7 @@ leipuri - baka ja
 leipä - pang  
 leiri - kampe  
 leirintäalue - kampe bagi  
-lempi (romanssi, rakkaus) - romance  
+lempi (romanssi, rakkaus) - romanse  
 lento - fei  
 lentoasema (lentokenttä) - air porte  
 lentokone - fei gi  
@@ -1463,14 +1466,14 @@ lepo - shanti
 leski - vidou  
 Lesoto - Soto  
 leveysaste - vei darje  
-leveyspiiri - vei cirke  
+leveyspiiri - vei gola  
 leveä - kuan  
-levottomuus (konflikti) - an pace  
+levottomuus (konflikti) - an pase  
 levä - alga  
 Libanon - Libanen  
-liberaali (vapaamielinen) - huru jui di  
-liberalismi - huru jui  
-liberalisti - huru jui ja  
+liberaali (vapaamielinen) - huru sim di  
+liberalismi - huru sim  
+liberalisti - huru sim ja  
 Liberia - Liberia  
 Libya - Libia  
 Liechtenstein - Lihtenstain  
@@ -1511,7 +1514,7 @@ lisätä (enentää) - fa mas
 litium - litium  
 litra - litre  
 litteä - plate di  
-litteän maapallon kannattaja - plate geo jui ja  
+litteän maapallon kannattaja - plate geo sim ja  
 litši - lichi  
 liukua (luistaa) - glis  
 livermorium - livermorium  
@@ -1529,7 +1532,7 @@ loppu - fin
 loppua - be fin  
 loppuliite (jälkiliite) - pos fikse  
 loppunut - fin di  
-loukkaus (herja) - dusnam  
+loukkaus (herja) - dus name  
 loukkaus (törkeys) - insulte  
 lounas - dia yam  
 luhistua (sortua sisään) - be in bum  
@@ -1549,7 +1552,7 @@ luokse (tykö, kohti, asti) - do
 luola - gua  
 luolaseikkailu - donjon aventur  
 luona (-lla, -ssa) - pa  
-luonto - ekia  
+luonto - eko  
 luonto - tabi  
 luota (lähtien, -sta, -lta) - ze  
 luottaa (uskoa) - amen shin  
@@ -1669,16 +1672,17 @@ maratoni - maraton
 margariini - margarin  
 marja - beri  
 markkinaliberalismi - bazarhuristia  
-marmori - kalce kristal  
+marmori - kalse kristal  
 Marokko - Magribi desha  
 marraskuu - mes des un  
 Mars - Marse  
 Marshall-saaret - Marshal nesia  
 massa - masa  
 masto (salko) - masta  
-matala (ei syvä) - face karibu  
+matala (ei syvä) - fase karibu  
 matemaatikko - hisabu logi ja  
 matematiikka (matikka) - hisabu logi  
+materialismi - mate lun  
 matka (reissu) - safar  
 matkailija - safar ja  
 matkaopas (opaskirja) - gida buku  
@@ -1753,7 +1757,7 @@ milli- - mili
 milligramma - mili gram  
 millimetri - mili metre  
 milloin? (koska?) - ke sate  
-minimalismi - minim jui  
+minimalismi - minim sim  
 ministeri - ministre ja  
 ministeriö - ministre ofis  
 minun - mi su  
@@ -1773,15 +1777,15 @@ mongoli - mongol di
 Mongolia - Mongol  
 moni (usea) - multi  
 moni- (poly-, multi-) - poli  
-monijumalisuus (panteismi) - pan deu jui  
+monijumalisuus (panteismi) - pan deu sim  
 monikansallinen - poli nasi di  
 monikielinen - poli basha di  
 monikulmio (polygoni) - poli gona  
 monimerkityksinen - poli mana di  
-monismi - un she jui  
-monitahokas - poli face  
+monismi - un she sim  
+monitahokas - poli fase  
 monokkeli - un oko di lense  
-monoteismi (yksijumalisuus) - un deu jui  
+monoteismi (yksijumalisuus) - un deu sim  
 montako? (paljonko?) - ke multi di  
 Montenegro - Chernagora  
 moottori - moto  
@@ -1800,7 +1804,7 @@ muistio (muistiinmerkintä) - memo note
 muistitekniikka - memo tehni  
 mukaan lukien - in klus  
 mukava (kiva, miellyttävä) - hushi  
-mukulakivi - cirke sheki  
+mukulakivi - gola sheki  
 mulperi - tuta  
 muna - anda  
 munakoiso - bedinjan  
@@ -1855,7 +1859,7 @@ märkä (kostea) - shipi
 mätä - pute  
 määritellä (luonnehtia) - fa sifa  
 määritetyn määritteeseen liittävä partikkeli - da  
-määrätä - fa gol  
+määrätä - chuze yo gol  
 mörkö - bubu  
 ####N - N  
 naamio (maski) - maska  
@@ -1870,11 +1874,11 @@ Namibia - Namibia
 nano- - nano  
 nanometri - nano mitre  
 nappi (näppäin, kytkin, nappula) - buton  
-nationalisti - nasi jui ja  
+nationalisti - nasi sim ja  
 natrium - natre  
 natriumglutamaatti - vijin  
-natsi - naci jui ja  
-natsismi - naci jui  
+natsi - nasi sosi sim ja  
+natsismi - nasi sosi sim  
 nauha (side) - bande  
 naula (piikki) - ding  
 nauraa - haha  
@@ -1906,13 +1910,14 @@ niedziela - var sete
 niellä - gulu  
 Niger - Nijer  
 Nigeria - Naijiria  
-nihonium - niponium  
+nihonium - nihonium  
 Nikaragua - Nikaragua  
 nikkeli - nikel  
 nilviäinen - moluske  
 nimi - name  
 nimittää (kutsua) - fa name  
 niobium - niobium  
+nipistää - pinse  
 nisä (tissi) - titi  
 nisäkäs - mamal  
 Niue - Niue  
@@ -1940,8 +1945,8 @@ nousta - be gau
 noutopöytä (buffetti) - bufete  
 novelli - korte kata  
 noviisi (uusikko, vasta-alkaja) - nove ka  
-nudismi - nude jui  
-nudisti - nude jui ja  
+nudismi - nude sim  
+nudisti - nude sim ja  
 nukke - pupe  
 nukkua - be sona  
 nukkuminen (uni) - sona  
@@ -1975,8 +1980,7 @@ oho (vau) - va
 ohra - jau  
 oikea (paikkansapitävä) - sahi  
 oikea puoli - raite  
-oikeistolainen - raite jui ja  
-oikeudellinen (aate, ismi, ideologia, uskonto, jne) - jui  
+oikeistolainen - raite sim ja  
 oikeudellinen - jude di  
 oikeudenmukainen - adil  
 oikeus (käräjätalo) - adil kan  
@@ -2014,10 +2018,10 @@ onneksi olkoon! - barka
 onnitella (siunata) - barka  
 opas (tiennäyttäjä) - gida ja  
 opastaa (ohjata) - gida  
-opetta (aate, ismi, ideologia, uskonto, jne) - giau  
+opettaa - giau  
 opettaja - shula guru  
-opiskelija - estuder  
-opiskella (tutkia) - estuda  
+opiskelija - estude ja  
+opiskella (tutkia) - fa estude  
 oppi (opetus) - shula she  
 oppia (opiskella) - fa shula  
 oppilas - shula ja  
@@ -2049,7 +2053,7 @@ ostaa - fa shopi
 ostaja - shopi ja  
 ostokset - shopi  
 otella - fa meche  
-ottaa esiin (paljastaa) - eshpoza  
+ottaa esiin (paljastaa) - ekso poze  
 ottaa kiinni (napata, kaapata) - kape  
 ottelu (matsi) - meche  
 outo (kummallinen) - bizar  
@@ -2060,15 +2064,15 @@ paahtoleipä - roste pang
 paapuuri - nave lefte  
 paeta (karata) - bega  
 pah (pyh) - bah  
-paha (epäsuotuisa, epämiellyttävä, vastustava) - dusi  
-paheksua - dusraya  
+paha (epäsuotuisa, epämiellyttävä, vastustava) - dus  
+paheksua - dus rai  
 paikallinen - loka di  
 paikka (sija, sijainti) - loka  
 painaa (leimata) - fa chape  
 painava - veze di  
 paino - veze  
 painos (leima) - chape  
-painotus (aksentti) - acente  
+painotus (aksentti) - bari fon  
 paita - kamisa  
 paitsi (miinus) - ama min da  
 paja (tekimö) - kan  
@@ -2136,7 +2140,7 @@ parkkipaikka - kar parke
 parsa - lusun  
 parta - barde  
 pascal (Pa) - paskal  
-pasifisti - pace jui ja  
+pasifisti - pase sim ja  
 paska (sonta) - shite  
 paskantaa (ulostaa) - fa shite  
 passi - pasporte  
@@ -2184,20 +2188,20 @@ pidentää - fa long
 pieni (pienesti, vähän) - lili  
 pierrä (pieraista) - fa pede  
 pieru - pede  
-pihdit - pince gi  
+pihdit - pinse gi  
 pihka (hartsi) - rezin  
 pihta (jalokuusi) - abies  
-pii - silicium  
+pii - silikium  
 piikivi - hogo sheki  
 piikki (pistin, neula) - pin  
 piippu - pipe  
 piirakka (piiras) - pai  
-piiri (ympyrä) - cirke  
+piiri (ympyrä) - gola  
 piirros (graafi) - grafi  
 piirtää - grafi  
 piirustus - desen  
 piiska (ruoska) - bichi  
-pikkukaupunki - lili citi  
+pikkukaupunki - lili siti  
 pikkuruinen (mikroskooppinen, mikro-) - mikro  
 pikkutakki (jakku) - jake  
 pilaantua (raunioitua) - be harabu  
@@ -2208,11 +2212,11 @@ pilkku - koma
 pilvi - megi  
 pimeä (hämärä) - oskur  
 pingviini - pinguin  
-pinta (tahko) - face  
+pinta (tahko) - fase  
 pioni - mudan  
 pippuri - pipre  
-piraatti (joka ei kunnioita tekijänoikeuksia) - pirate jui ja  
-piraattipuolue - pirate jui parti  
+piraatti (joka ei kunnioita tekijänoikeuksia) - pirate sim ja  
+piraattipuolue - pirate parti  
 pirullinen - shatan di  
 pisara (tippa) - giota  
 piste (täplä) - punte  
@@ -2230,17 +2234,18 @@ pitsa (pizza) - piza
 pitseria - piza kan  
 pituus - long ta  
 pituusaste - ging darja  
-pituuspiiri - ging cirke  
+pituuspiiri - ging gola  
 pitäisi - sela  
+pitää (pitää kiinni, pitää hallussa) - ten  
 pitää (tykätä, olla tyytyväinen jstkn) - be suka  
-pitää yhdessä - jama hafiza  
+pitää yhdessä - kon ten  
 planeetta - planeta  
 plastinen (muovailtava) - plasti di  
 platina - platin  
 Platon - Platon  
-platoninen - Platon jui di  
-platonismi - Platon jui  
-platonisti - Platon jui ja  
+platoninen - Platon sim di  
+platonismi - Platon sim  
+platonisti - Platon sim ja  
 Pluto (kääpiöplaneetta) - Pluton  
 plutonium - plutonium  
 podsoli - hui darte  
@@ -2255,29 +2260,30 @@ pohtia (meditoida) - jen
 poika (nuori mies) - joven man  
 poika - man ben  
 poikittainen (vaaka) - vei di  
-poissulkeva (eksklusiivinen) - eshklusivi  
+poissulkeva (eksklusiivinen) - ekso klus di  
 poistaa (hävittää) - fa no zai  
-poistaa (paitsi, poislukien) - esha  
+poistaa (paitsi, poislukien) - fa ekso  
 poistaa toiminnasta - fa an karma  
 poistaa virheitä (debugata) - fa an galta  
-poistua (mennä ulos) - eshtru  
+poistua (mennä ulos) - be ekso  
 poistua - fa chutu  
 poistuminen - chutu  
 pokeri - poker  
-poliiisi (poliisimies) - police ja  
-poliisi - police  
+poliiisi (poliisimies) - polis ja  
+poliisi - polis  
+poliisiasema - polis kan  
 poliitikko (hallinnoija) - politi ja  
 poliittinen - politi di  
 politiikantutkimus - politi logi  
 politiikka - politi lon  
 poljin (pedaali) - pedal  
 polku (reitti, kurssi) - rute  
-polkupyörä - pedal cikle  
+polkupyörä - pedal sikle  
 polonium - polonium  
 polttaa - fa hogo  
 polvi - guta  
 polvilumpio - guta kaske oste  
-polyteismi (monijumalisuus) - poli deu jui  
+polyteismi (monijumalisuus) - poli deu sim  
 pommi - bomba  
 porata - fora  
 porkkana - karote  
@@ -2303,10 +2309,10 @@ profeetta - nabi ja
 profeetta Mani - Mani  
 professori - profesor  
 profetia - nabi  
-projektio (diakuva) - lance grafi  
-projektori (videotykki, piirtoheitin) - grafi lance gi  
-pronomini - vice loga  
-prosessi (proseduuri) - proces  
+projektio (diakuva) - lanse grafi  
+projektori (videotykki, piirtoheitin) - grafi lanse gi  
+pronomini - vise loga  
+prosessi (proseduuri) - proses  
 protaktinium - protacinium  
 psykologia - ruhu logi  
 pudonnut (tippunut) - pade di  
@@ -2369,16 +2375,16 @@ pyytäjä (metsästäjä, kalastaja) - saide ja
 pyytää (anoa) - ching  
 pyytää (metsästää, kalastaa) - saide  
 pyytää tulemaan - ching lai  
-pyöreä - cirke di  
+pyöreä - gola di  
 pyörittää - rota  
 pyöriä - rota  
 pyörremyrsky (hurrikaani, taifuuni, tornado) - rota tafun  
-pyörä (polkupyörä, moottoripyörä) - cikle  
-pyöräilyn harrastaja - cikle ja  
+pyörä (polkupyörä, moottoripyörä) - sikle  
+pyöräilyn harrastaja - sikle ja  
 päivä (päiväsaika) - dia  
 päivä (vuorokausi) - den  
 päivämäärä - nen mes den  
-päivänseisaus - sol estaci  
+päivänseisaus - sol estasi  
 päiväntasaaja - geo par lin  
 Päiväntasaajan Guinea - Geo Par Lin Ginia  
 päivänvalo - dia foto  
@@ -2390,7 +2396,7 @@ päällikkö (pomo) - shefe
 pääministeri (suurvisiiri) - shefe minister  
 päärynä - lezi  
 pääsiäinen - paska  
-pääsy - acese  
+pääsy - jin lai  
 päätön - sar na di  
 pöly (tomu) - fun  
 pölynimuri - fun chupa gi  
@@ -2415,7 +2421,7 @@ rahka - panir
 raippa - uma bichi  
 raja - limite  
 rakas (armas) - ami  
-rakastaa romanttisesti - romance  
+rakastaa romanttisesti - romanse  
 rakastaja - ai ja  
 rakennus (rakenne) - bina  
 rakentaa - fa bina  
@@ -2431,17 +2437,17 @@ ranskankielinen maailma - France fon dunia
 raportoida (selostaa) - fa reporte  
 raportti (selostus, selonteko) - reporte  
 rapu (taskurapu) - krabe  
-rasismi (rotuoppi) - rasa jui  
-rasisti - rasa jui ja  
+rasismi (rotuoppi) - rasa sim  
+rasisti - rasa sim ja  
 raskaana (odottava) - hamil  
 raskas (kova, vaativa, vaikea, jne.) - bari  
 raskasmetalli - bari metal  
 rasva (öljy) - futa  
 rasvainen - futa di  
 ratas - chakra  
-rauha - pace  
+rauha - pase  
 rauhallinen (levollinen, tyyni) - shanti di  
-rauhanaate (pasifismi) - pace jui  
+rauhanaate (pasifismi) - pase sim  
 rauta - feru  
 ravintola - restorante  
 rehellinen (totisesti, uskottavasti, aamen) - amen  
@@ -2451,7 +2457,7 @@ rengas (kehä) - ring
 repeämä - chir  
 repiä - chira  
 reppu (rinkka) - ruke sake  
-resepti (ohje) - receta  
+resepti (ohje) - reseta  
 retikka (retiisi) - loba  
 retkeilijä - kampe ja  
 reuna (raja, ääri) - kinar  
@@ -2483,10 +2489,10 @@ robotti - robote
 rohkea (urhea, uljas) - bravo  
 roikuttaa - pende  
 rokki (rock) - roke muzika  
-rokote - vacin  
+rokote - vasin  
 romaani - long kata  
 Romania - Romania  
-romanttinen - romance  
+romanttinen - romanse di  
 rommi - rom  
 rooli (osa) - rol  
 Rooma - Roma  
@@ -2501,12 +2507,12 @@ ruiske (injektio) - jusha
 ruiskuttaa - jusha  
 rukoilla (anoa) - dua  
 rukous - dua  
-ruma (pahannäköinen) - dusvidi  
+ruma (pahannäköinen) - dus vide  
 rumpu - guma  
 runo - shir  
 runoilija - shir ja  
-ruoho - cau  
-ruohotasanko - cau istan  
+ruoho - chau  
+ruohotasanko - chau istan  
 ruoka - yam she  
 ruokasali - yam kamar  
 Ruotsi - Sven  
@@ -2523,9 +2529,8 @@ rytmi - ritim
 ryöstää (ryövätä) - luta  
 ryöväri (rosvo) - luta ja  
 räjähdys (pamaus) - bum  
-räjähdys - eshploze  
 räjähtää - be bum  
-räjähtää - eshplozu  
+räjähtää - be bum  
 röntgenium - rengenium  
 ####S - S  
 saaja (vastaanottaja) - daki ja  
@@ -2550,7 +2555,7 @@ saksalainen - doichi
 sakset - makas  
 salaatti - salade  
 salainen - sir  
-salama - eletrorade  
+salama - eletro radi  
 sallia (antaa lupa) - fa halal  
 sallia - tolera  
 sallittu (hyväksytty) - halal  
@@ -2579,7 +2584,7 @@ sarjakuva - grafi kata
 sarvi - korne  
 sarvikuono - kornonos  
 saslik - shish nama  
-sata (100) - cen  
+sata (100) - sen  
 sata tuhatta - des kilo  
 sataa -   
 satakieli - bulbul  
@@ -2599,10 +2604,10 @@ satuttaa - fa pasi
 Saudi Arabia - Saudi Arabia  
 sauma (ommel) - sutur  
 sauna - sauna  
-savanni - garma zona cau istan  
+savanni - garma zona chau istan  
 savenvalaja - pote ja  
 savi - glu fan  
-savityö (keramiikka) - cerami  
+savityö (keramiikka) - serami  
 savu - duman  
 savuke tai sikari - sigar  
 se - a  
@@ -2612,9 +2617,8 @@ seikkailija - ventur ja
 seikkailu - ventur  
 seinä (muuri) - mur  
 seismologia - sismologi  
-seisoa (seisahtaa) - be estaci  
-seisottaa - fa estaci  
-seisova (staattinen) - estaci di  
+seisoa (seisahtaa) - be estasi  
+seisova (staattinen) - estasi di  
 seistä (seisoa) - libu  
 seitsemän (7) - sete  
 sekoitin - mishe gi  
@@ -2634,16 +2638,16 @@ sementti - semente
 senaattori - supra vakil ja  
 Senegal - Senegal  
 sensori (aistin) - sense gi  
-sentti - centi  
-senttimetri (cm) - centimitre  
+sentti - senti  
+senttimetri (cm) - sentimitre  
 seppä - metal jang ja  
 Serbia - Serbia  
 serkku - chin brus ben  
-seura - soci  
+seura - sosi  
 seuraava - pos  
 seurata (tulla perässä, tulla jäljessä) - fa pos  
 seuraus - pos  
-seurustella (toimia yhdessä) - fa soci  
+seurustella (toimia yhdessä) - fa sosi  
 seutu (maa) - topo  
 Seychellit - Seshel nesia  
 sianliha - goro nama  
@@ -2683,7 +2687,7 @@ sinetti - mum chape
 Singapore - Singapur  
 sininen - blu  
 sinkki - zinke  
-sinko (raketinheitin) - rokete lance gi  
+sinko (raketinheitin) - rokete lanse gi  
 sintolaisuus - shindau din  
 sinun - tu su  
 sinä - tu  
@@ -2704,12 +2708,12 @@ sisäänpäin - do in
 sisäänpäinsuuntautunut (introvertti) - in verse jan  
 sitoa - bande  
 sitruuna - limon  
-sivilisaatio - civil ta  
-sivistynyt - civil  
+sivilisaatio - sivil ta  
+sivistynyt - sivil  
 sivu (kirjassa) - varka late  
 sivu (kylki, puoli) - late  
 sivu- - late di  
-Skandinavia - Eskandia  
+Skandinavia - Eskandinavia  
 skandium - eskandium  
 Skotlanti - Eskote  
 slaavilainen - Slave  
@@ -2732,9 +2736,9 @@ sokerinen (makea) - sukar di
 sola (läpikulku) - pas dau  
 solmia (tehdä solmu) - fa node  
 solmu - node  
-solu - celu  
-soluoppi (sytologia) - celu logi  
-solvata (loukata) - dusnamana  
+solu - selu  
+soluoppi (sytologia) - selu logi  
+solvata (loukata) - fa dus name  
 Somalia - Somal  
 Somalimaa - Somal Desha  
 sopia (passata) - be hapu  
@@ -2748,9 +2752,9 @@ sormenpää - angul pike
 sormi tai varvas - angul  
 sormus - angul ring  
 sorsa (ankka) - bata  
-sosiaalinen media - soci medi gi  
-sosialismi - soci jui  
-sosialisti - soci jui ja  
+sosiaalinen media - sosi medi gi  
+sosialismi - sosi sim  
+sosialisti - sosi sim ja  
 sotilaallinen - jeng di  
 sotilas - gun jan  
 soturi (taistelija) - jeng ja  
@@ -2759,7 +2763,7 @@ soveltaa - aplika
 sovittaa (mukauttaa) - fa hapu  
 sranan tongo - surinam basha  
 Sri Lanka - Lanka  
-stadioni (areena) - estadia  
+stadioni (areena) - estadi  
 stereofoninen - dulsondi  
 stereoskooppinen - dulgrafi  
 strontium - estrontium  
@@ -2782,7 +2786,7 @@ suljettu - an kai di
 sulka - pero  
 sulkea (panna kiinni) - an kai  
 sulkea - klus  
-sulkea pois - eshklusa  
+sulkea pois - fa ekso klus  
 summa - sum  
 sunnalaisuus - suna islam din  
 suo (räme) - fan topo  
@@ -2801,7 +2805,7 @@ suorakulmainen - orto gona di
 suoristaa (ojentaa) - fa orto  
 suosia (pitää parempana) - mas fili  
 suosikki (suosittu) - mas fili di  
-suosinta (favoritismi) - mas fili jui  
+suosinta (favoritismi) - mas fili sim  
 suosittu (trendikäs) - fashon di  
 surettaa - duka  
 Surinam - Surinam  
@@ -2815,27 +2819,27 @@ suukko (pusu) - chum
 suunnitella - fa plan  
 suunnitelma - plan  
 suunta - disha  
-suurkaupunki - dai citi  
+suurkaupunki - dai siti  
 suuruus (koko) - dayia  
 suutari - sapatu ja  
 suutarin paja - sapatu kan  
 Svalbard - Sualbarde  
-Sveitsi - Suice  
+Sveitsi - Suise  
 Swazimaa - Suati  
-syaani - cian  
+syaani - sian  
 sydän - shim  
 syksy (syys) - pade mosim  
 sylkeä - tuh  
 symmetria - sam metre  
 synnyttää - fa jene  
-synti (paha teko) - duskar  
+synti (paha teko) - dus karma  
 synty (syntymä) - jene  
 syntymäpaikka - jene loka  
 syntymäpäivä - jene den  
 syntyä - be jene  
 syreeni - lila  
-syvyys - face tele ta  
-syvä - face tele  
+syvyys - fase tele ta  
+syvä - fase tele  
 syy - saba  
 syy ja seuraus - karma e asar  
 syyllinen - doshi  
@@ -2843,11 +2847,11 @@ syylä - zeyil
 Syyria - Suria  
 syyskuu - mes tisa  
 säde - radi  
-sädekehä (halo) - foto cirke  
+sädekehä (halo) - foto gola  
 säe (riimi) - rim  
-sähkö - eletre  
-sähköinen - eletri  
-sähköjohto - eletrolin  
+sähkö - eletro  
+sähköinen - eletro di  
+sähköjohto - eletro lin  
 sähköposti - eletro posta (e-posta)  
 säie (kuitu) - lin so  
 säilyttäjä - hafiza ja  
@@ -2909,7 +2913,7 @@ tanko (sauva, patukka) - baton
 Tansania - Tanzania  
 Tanska - Danske desha  
 tanskalainen - Danske  
-tanssi - dance  
+tanssi - danse  
 taolainen - dau din ja  
 taolaisuus - dau din  
 tapa (keino, menetelmä, menettely, metodi) - riti  
@@ -2934,7 +2938,7 @@ tasainen (tasavertainen) - par
 tasapaino - par veze ta  
 tasavalta - komun krati  
 tasku - jebe  
-taso - par face  
+taso - par fase  
 tasoittaa (tasata) - fa par  
 tatuointi - tatu  
 tauko (keskeytys, paussi) - pauza  
@@ -2952,7 +2956,7 @@ teekuppi - chai kupa
 teepannu - chai pote  
 tehdas (paja) - gung kan  
 tehdä (toimia) - fa  
-tehdä (valmistaa) - cana  
+tehdä (valmistaa) - sana  
 tehdä loppuun (saada valmiiksi) - pul fina  
 tehdä täydelliseksi - fa pul bon  
 tehdä valmiiksi - fa redi  
@@ -2965,7 +2969,7 @@ teisti - deu din ja
 tekijä (aikaansaaja) - ja  
 tekijä (aikaansaaja) - karma ja  
 tekijä (toimija) - fa ja  
-tekijä (valmistaja) - cana ja  
+tekijä (valmistaja) - sana ja  
 tekniikka (keino, menetelmä) - tehni  
 tekniikka (teknologia) - tehni logi  
 teknokratia - tehni krati  
@@ -2982,8 +2986,8 @@ teologia - deu logi
 teoria - teori  
 teosofia - deu sofi  
 tera- - tera  
-terrorismi - teror jui  
-terroristi - teror jui ja  
+terrorismi - teror sim  
+terroristi - teror sim ja  
 terve - salu  
 tervehdys (terve!) - salam  
 tervehtiä - fa salam  
@@ -3027,8 +3031,8 @@ tohtori - dotor
 tohtorin tutkinto - dotoria  
 tohveli - babuche  
 toimelias (aktiivinen) - karma ja  
-toiminta (funktio) - funci  
-toimintahäiriö - dusfunche  
+toiminta (funktio) - funsi  
+toimintahäiriö - dus funsi  
 toimittaja (journalisti, lehtimies) - gazeta ja  
 toimiva -   
 toisiaan (keskenään) - se kon  
@@ -3072,13 +3076,13 @@ tulppa (tappi, korkki) - tapa
 tulppaani - tulpan  
 tundra - tundra  
 Tunisia - Tunis  
-tunne (mielenliikutus) - emos  
+tunne (mielenliikutus) - emosi  
 tunneli - tunel  
-tunnetila (tuuli) - emoshal  
+tunnetila (tuuli) - emosi hal  
 tunnussana - pas loga  
-tuntea (kokea tunteita) - emosu  
+tuntea (kokea tunteita) - be emosi  
 tuntea - tochu sense  
-tunteellinen (tunne-) - emosi  
+tunteellinen (tunne-) - emosi di  
 tunti - hor  
 tunturi - tundra shan  
 tuo - u  
@@ -3088,8 +3092,8 @@ tuomari - jude ja
 tuomio - jude  
 tuomita - juda  
 tuore (raikas) - taza  
-tuotanto - cana ya  
-tuottava (tuottelias) - cana di  
+tuotanto - sana ya  
+tuottava (tuottelias) - sana di  
 tupakka - tabaku  
 tuplata (kertoa kahdella) - dulo multa  
 turbaani - pagri  
@@ -3099,7 +3103,7 @@ Turkki - Turki
 turkkilainen - turki basha  
 Turkmenistan - Turkomen  
 turkoosi - firuze  
-turmella ulkomuoto - dusforma  
+turmella ulkomuoto - fa dus forma  
 turvallinen (varma) - sekur  
 turve - turfa  
 tutkia (tarkastaa) - gencha  
@@ -3123,7 +3127,7 @@ tyranni - zalim raja
 tyrannia - zalimta  
 tyttö (nuori neito) - joven fem  
 tyttölapsi - fem ben  
-Tyyni valtameri - Pace Hai  
+Tyyni valtameri - Pase Hai  
 tyyny - kushen  
 tyyrpuuri - nave raite  
 tyytyväinen (iloinen) - suka  
@@ -3155,19 +3159,19 @@ Uganda - Ganda
 uhri (uhraus) - kurban  
 ukkosmyrsky - grom tafun  
 Ukraina - Ukraina  
-ulko- (ulkoinen) - eshi  
-ulkoinen - eshtri  
-ulkomaa - eshdesh  
-ulkomaalainen - eshdeshi  
-ulkona (ulkopuolella) - eshtro  
-ulkopuoli - esh  
-ulkopuolinen - eshojan  
-ulkosyntyinen - eshojeni  
+ulko- (ulkoinen) - ekso di  
+ulkoinen - do ekso  
+ulkomaa - ekso desha  
+ulkomaalainen - ekso desha di  
+ulkona (ulkopuolella) - pa ekso  
+ulkopuoli - ekso  
+ulkopuolinen - ekso jan  
+ulkosyntyinen - ekso jene di  
 uloskäynti - chutu mun  
-ulospäinsuuntautunut (ekstrovertti) - eshtroversi  
+ulospäinsuuntautunut (ekstrovertti) - ekso verse di  
 ulostaa (kakata) - kaka  
 uloste (kakka) - kaka  
-ulottuvilla - acese bil  
+ulottuvilla - ten bil  
 ulvoa - ulul  
 ulvonta - ulul  
 umami (ruokaisanmakuinen) - umami  
@@ -3184,7 +3188,7 @@ Uranus - Uran
 urbaani (kaupunkilais-) - nagar di  
 urdu - urdu  
 urhea (sankarillinen) - hero di  
-urheilija - esporter  
+urheilija - esporte ja  
 urheilu - esporte  
 uros (mies) - man  
 Uruguai - Uruguay  
@@ -3196,7 +3200,7 @@ uskonnoton - an din ja
 uskonto - din  
 uskovainen - din ja  
 utelias (tiedonhaluinen) - sabe vol ja  
-utopia - eutopia  
+utopia - eu topo  
 uudissana - nove loga  
 uudistaa - fa nove  
 uuni - tanur  
@@ -3223,7 +3227,7 @@ vaihe (etappi) - faze
 vaihtaa - badal  
 vaihtoehto - chuzable  
 vaijeri (metallilanka) - metal lin  
-vaikeus (hankaluus) - dushal  
+vaikeus (hankaluus) - dus hal  
 vaikuttaa - fa asar  
 vaikutus (tulos) - asar  
 vain (ainoa, ainut) - unike  
@@ -3259,9 +3263,9 @@ vanukas - puding
 vapaa - huru  
 vapaus - huru ta  
 vapauttaa - huru di  
-vara- (korvike-) - vice  
-varakuningas - vice raja  
-varapresidentti - vice prezidente  
+vara- (korvike-) - vise  
+varakuningas - vise raja  
+varapresidentti - vise prezidente  
 varas - chorer  
 varastaa - chora  
 varaus (ennakkovaraus) - rezerve  
@@ -3274,7 +3278,7 @@ vartalo (varsi, torso) - torso
 vartija (vahti) - garde ja  
 vartioida (vahtia) - garde  
 vasara - hamar  
-vasemmistolainen - lefte jui ja  
+vasemmistolainen - lefte sim ja  
 vasen - lefte  
 vastahakoinen (haluton) - an icha ja  
 vastakohta (antonyymi) - an nam  
@@ -3289,17 +3293,17 @@ Vatikaanivaltio - Vatikan
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avar di  
 vauva - bebe  
-vegaani - pul fito yam jui ja  
+vegaani - pul fito yam sim ja  
 vehnä - ganum  
 veistos (patsas) - eskulte  
-veistää kuvaa - eskulta  
+veistää kuvaa - fa eskulte  
 veitsi (puukko) - chaku  
 veloittaa (verottaa) - kape yo taksi  
 vene (laiva) - nave  
 veneilijä - nave ja  
 veneillä - nave gou  
 Venezuela - Venezuela  
-venyttää (pingottaa) - eshtensa  
+venyttää (pingottaa) - fa ekso tense  
 Venäjä - Rusia  
 venäläinen - rusia basha  
 verbi (teonsana) - karma loga  
@@ -3324,9 +3328,9 @@ vetovoima (šarmi) - charme
 vety - hidro  
 vetää (kiskoa) - tire  
 vetää (kiskoa, raahata) - trator  
-vetää ulos - eshtrata  
+vetää ulos - fa ekso trator  
 viedä - fa kite  
-viedä pois (viedä maasta) - eshmisa  
+viedä pois (viedä maasta) - ekso mise  
 vielä (yhä, jatkua) - zoku  
 vieraanvarainen (antelias, hyväntahtoinen) - karim di  
 vierailija (vieras) - kegu ja  
@@ -3338,9 +3342,9 @@ vietnamilainen - viete basha
 viha (suuttumus, raivo) - furi ta  
 viha - hen  
 vihainen (suuttunut) - furi  
-vihannes - coi  
+vihannes - choi  
 vihollinen - an doste  
-vihollinen - dusjan  
+vihollinen - dus jan  
 vihreä - lugi  
 viihdyttää (huvittaa) - fa van  
 viikko - var var  
@@ -3354,13 +3358,13 @@ viisas - sofi
 viisaus - sofita  
 viisi (5) - penta  
 viisikulmio - penta gona  
-viisitahokas (prisma) - penta face  
+viisitahokas (prisma) - penta fase  
 viisumi - viza  
 vika (synti) - dosha  
 viljellä - nong  
 viljely - nong shutu  
 villi (kesytön) - vilde  
-villi (villinä syntynyt) - ekojeni  
+villi (villinä syntynyt) - eko jene di  
 vilustuminen - zukam  
 vinyyli - vinil  
 violetti (liila) - lila rang  
@@ -3418,7 +3422,7 @@ vähiten - minim
 vähäinen - minor  
 vähän - shau  
 väite (teesi) - tese  
-väittely (debatti) - lon  
+väittely (debatti) - lun  
 väittää - fa tese  
 väli - medi  
 Välimeri - Geo Medi Hai  
@@ -3458,7 +3462,7 @@ yhdysvaltalainen (ns. Amerikkalainen) - UDA di
 yhteinen - komun  
 yhteinen - kon su  
 yhteiskieli - kon basha  
-yhteiskunnallinen (sosiaalinen) - soci di  
+yhteiskunnallinen (sosiaalinen) - sosi di  
 yhteisymmärrys - sam rai  
 yhteisö (kokoontuminen, kollektiivi) - jama  
 yhtenäinen - unta di  
@@ -3473,8 +3477,8 @@ yleinen (universaali) - putong
 yleiskiina (mandariinikiina) - Putong Han  
 yliarvioida -   
 yliopisto - dai shula kan  
-ylistys - euloge  
-ylistää (puhua hyvää, kehua) - euloga  
+ylistys - eu loga  
+ylistää (puhua hyvää, kehua) - fa eu loga  
 ylistää - halela  
 ylittää (olla enemmän kuin) - be mas  
 ylittää - be supra  
@@ -3486,8 +3490,8 @@ yläaste ja lukio - jung shula kan
 ymmärrys (taju, oivallus) - budi  
 ymmärtää (oivaltaa) - fa budi  
 ymmärtää väärin - galte budi  
-ympäristö- (luonto-) - eki  
-ympäröidä (piirittää) - fa cirke  
+ympäristö- (luonto-) - eko di  
+ympäröidä (piirittää) - fa gola  
 ynnätä (summata) - fa sum  
 yrittää (kokeilla) - fa teste  
 yritys (yhtiö) - kompani  
@@ -3514,7 +3518,7 @@ zulu - Zulu
 äidinkieli - jene basha  
 äidinäiti - ma di ma  
 äiti (emä) - ma  
-äitipuoli (isän puoliso) - vice ma  
+äitipuoli (isän puoliso) - vise ma  
 ällistyttää - fa ajibu  
 äsken (vasta, juuri) - pa nove  
 äänestää - fa vote  
@@ -3524,6 +3528,7 @@ zulu - Zulu
 äänne (foneemi) - fon so  
 äänne (fooni) - fon  
 ääntää (lausua) - fa fon  
+ääntää (lausua) - fon loga  
 ääntää - fa soni  
 äärettömyys (rajattomuus) - an limite  
 ĉampano - shampan vin  

@@ -8,8 +8,8 @@ abobrinha - lili kaboga
 abóbada - arka chati  
 abóbora (jerimun) - kaboga  
 acanto-bastardo - pin kardon  
-acento - acente  
-acesso - acese  
+acento - bari fon  
+acesso - jin lai  
 aconselhar - fa sela  
 acordado - jaga  
 acordo (tratado, contrato) - trati  
@@ -119,7 +119,7 @@ bacalhau-do-atlântico - atlanti kade
 bacia - basen  
 baga - beri  
 bagagem - bagaje  
-baile (danza) - dance  
+baile (danza) - danse  
 bambu - bambu  
 banana - banana  
 banco - banka kan  
@@ -182,10 +182,10 @@ cadáver - mata badan
 cafeteira - kafe pote  
 café - kafe  
 café - kafe kan  
-cal - kalce mate  
-calcita - kalcite  
+cal - kalse mate  
+calcita - kalsite  
 calcular - fa hisabu  
-calcário - kalce petra  
+calcário - kalse petra  
 calendário - kalenda  
 califa - halifa  
 calvo - sar kesha na di  
@@ -194,7 +194,7 @@ camarão - krevete
 camisa - kamisa  
 camomila-romana - roma kamil  
 camomila-vulgar - kamil  
-cana-de-açúcar - sukar cau  
+cana-de-açúcar - sukar chau  
 canguru - kangaru  
 canhão (ravina, barranco) - kanyon  
 canhǎo - dai pau  
@@ -222,23 +222,23 @@ carta geográfica - topo metre grafi
 cartografia - metre grafi shutu  
 Cartum - Hartum  
 carvalho - baluta  
-carvalho-roble - europobalute  
+carvalho-roble - europe baluta  
 casca (concha) - kaske  
 cascalho - grave  
 castanho (marrom) - brun  
 cavar (escavar) - fa kave  
 caçar - saide  
 cebola - piaze  
-cem (100) - cen  
+cem (100) - sen  
 cemitério - gabur bagi  
 cenoura - karote  
 centro - jung  
-centáurea - centaure  
+centáurea - sentaure  
 cerca - kinar baryer  
 cereja - cheri  
 cerveja - bir  
 cerâmica - pote shutu  
-cerâmico - cerami  
+cerâmico - serami  
 cevada - jau  
 Champagne - shampan  
 champanhe - shampan vin  
@@ -257,11 +257,11 @@ chocolate - choklate
 chuva - shava  
 chuvoso (pluvioso) -   
 chá - chai  
-ciclista - cikle ja  
-cidade - citi  
+ciclista - sikle ja  
+cidade - siti  
 cinco (5) - penta  
 cintilar - fa sing foto  
-citologia - celu logi  
+citologia - selu logi  
 claro - klar  
 cliente - klien  
 coelho (lebre) - tuzi  
@@ -278,11 +278,11 @@ como - ke riti
 compaixão - sam emos  
 complô (conspiração) - sir plan  
 comportamento (conduta) - manira  
-composto - bio cana she  
+composto - bio sana she  
 comprar - fa shopi  
 compras - shopi  
 computador - komputa  
-concerto - koncerte  
+concerto - konserte  
 condutor (chofer, motorista) - shofer ja  
 conduzir - fa shofer  
 conexão (vínculo, laço) - linke  
@@ -349,7 +349,7 @@ descanso (repouso) - shanti
 desdentado - dante na di  
 desenvolvimento - darjomute  
 desesperado - asha na di  
-desfigurar - dusforma  
+desfigurar - fa dus forma  
 deslizar - glis  
 despelado - kesha na di  
 despertar - be jaga  
@@ -393,13 +393,13 @@ efetuar - fa asar
 Egipto (Egito) - Misri  
 elemento - so  
 elemento químico - kimi so  
-eletricidade - eletre  
+eletricidade - eletro  
 elfo - elfe  
 elo - sili tika  
-elogio - euloge  
+elogio - eu loga  
 embalar - lifafa  
-emoticon (emoji) - emoje  
-emoçao - emos  
+emoticon (emoji) - emosi zi  
+emoçao - emosi  
 emprestar (pedir emprestado) - jeku  
 emprestar - jeku dona  
 encarar (afrontar; vérsus) - verse  
@@ -416,15 +416,15 @@ enxada - chope
 equilíbrio - par veze ta  
 erro (falta) - galte  
 errôneo - galte di  
-erva marinha - hai cau  
+erva marinha - hai chau  
 escama - shalke  
-escavar - eshkava  
+escavar - fa ekso kave  
 escola (colégio) - shula kan  
-escovinha (centáurea) - blu centaure  
+escovinha (centáurea) - blu sentaure  
 escrevere - kitabu  
 escudo - defban  
 escudo - oste shalke  
-escultor - eskulter  
+escultor - eskulte ja  
 esfarrapado - chirchiri  
 eslavo - Slave  
 esmeralda - zumarde  
@@ -449,27 +449,26 @@ estirar - long tire
 estrado - tai  
 estrela - sing  
 estrumpfe (smurf) - blu elfe  
-estudante - estuder  
-estudar (examinar) - estuda  
+estudante - estude ja  
+estudar (examinar) - fa estude  
 etimologia - loga asal  
 etnia - zuku  
 eu (me) - mi  
-evangelho - evanjil  
-evidente - eshvidi  
+evangelho - eu anjil  
+evidente - ekso vide di  
 exato (preciso) - juste  
-excluir - eshklusa  
-exclusivo - eshklusivi  
-exoplaneta (planeta extrassolar) - eshplanete  
-explodir - eshplozu  
+excluir - fa ekso klus  
+exclusivo - ekso klus di  
+exoplaneta (planeta extrassolar) - ekso planete  
+explodir - be bum  
 explosão - bum  
-explosão - eshploze  
-expor (revelar) - eshpoza  
-exterior - esh  
-extrair - eshtrata  
+expor (revelar) - ekso poze  
+exterior - ekso  
+extrair - fa ekso trator  
 exército - gun  
-exógeno - eshojeni  
+exógeno - ekso jene di  
 ####F - F  
-face (faceta) - face  
+face (faceta) - fase  
 facção - shia  
 fada - pari  
 fadiga - fatige  
@@ -479,16 +478,16 @@ farmacologia - dava she logi
 farmácia (drogaria) - dava she kan  
 farol (baliza) - foto minar  
 fato (facto) - fate  
-fator - cana ja  
+fator - sana ja  
 favela - harabu mahala  
-favoritismo - mas fili jui  
+favoritismo - mas fili sim  
 favorito (preferido) - mas fili di  
 fazenda (tecido) - tela  
 fazer - fa  
 fechadura - sor  
-feio - dusvidi  
+feio - dus vide  
 feliz - suka  
-feno - gan cau  
+feno - gan chau  
 fermentar - be bio mute  
 fibra - lin so  
 filho ou filha - ben  
@@ -516,7 +515,7 @@ funil - dara tubo
 furar (perfurar) - fora  
 futebol - fute bol  
 fábula - zou kata  
-fácil - facil  
+fácil - fasil  
 fóton (fotão) - foto so  
 ####G - G  
 gaiola (jaula) - baton kasa  
@@ -573,9 +572,9 @@ hortelã-da-água - sui minta
 hortelã-pimenta - pipre minta  
 hortelã-verde - zong minte  
 hotel - hotel  
-humanismo - insan jui  
+humanismo - insan sim  
 humano - insan di  
-humor - emoshal  
+humor - emosi hal  
 hélicoptero - helis fei gi  
 héroi - hero  
 hóquei - hoki  
@@ -602,7 +601,7 @@ infectar (contagiar) - fa pati mise
 infecção (contágio) - pati mise  
 infiel - an din ja  
 inflamaçao - flame  
-inimigo - dusjan  
+inimigo - dus jan  
 inquisitivo - sabe vol ja  
 inseto - dudu  
 insônia - an sona  
@@ -616,7 +615,7 @@ islã - islam din
 item - vutu  
 ####J - J  
 jade - giuku  
-jaguatirica (ocelote) - ocelote  
+jaguatirica (ocelote) - oselote  
 jambolão (jambo) - jamul  
 janela - janela  
 Japão - Nipon  
@@ -645,7 +644,7 @@ lagarto - saur
 lago - lage  
 lama (lodo) - fan  
 lama - lama  
-lançador de foguetes - rokete lance gi  
+lançador de foguetes - rokete lanse gi  
 laranja - oranje  
 lasanha - lazanya  
 lateral - late di  
@@ -663,7 +662,7 @@ liga (aliança) - liga
 ligeiro - ligu veze di  
 lima - kaguji limon  
 limão - limon  
-lince - lince  
+lince - linse  
 linha (fio) - lin  
 lista - liste  
 literatura - kitabu shutu  
@@ -700,14 +699,14 @@ lírio - susan
 lírio-do-vale - vali susan  
 ####M - M  
 macroalga - hai alga  
-madrasta - vice ma  
+madrasta - vise ma  
 magnésio - magesium  
 mago - magi ja  
 mago - zardush magi ja  
 mahjong - majang  
 mais - mas  
 maldição - lana  
-malfeitoria (pecado) - duskar  
+malfeitoria (pecado) - dus karma  
 mamão (papaia) - papaya  
 mancha (marca) - marke  
 manga - kamisa shaka  
@@ -717,7 +716,7 @@ mar - hai
 maravilha - ajibu  
 marcha - marche  
 margarida - margarita  
-margarida-comum - englomargarite  
+margarida-comum - english margarita  
 margarita-maior - baki margarite  
 margem (borda) - kinar  
 marinha - hai gun  
@@ -731,6 +730,7 @@ matadouro - bucha kan
 matar - fa mata  
 mate (opaco) - foto mata di  
 matemática - hisabu logi  
+materialismo - mate lun  
 matéria - mate  
 maçã - aple  
 medusa - hai jele  
@@ -792,7 +792,7 @@ mundo - dunia
 mundo das fadas (paraíso) - pari desha  
 muro (muralha) - mur  
 máquina de escrever - kitabu gi  
-mármore - kalce kristal  
+mármore - kalse kristal  
 máscara - maska  
 máximo - masim  
 mãe - ma  
@@ -812,11 +812,11 @@ necrofilia - mata badan fili
 neologismo - nove loga  
 Netuno - Neputun  
 neurotoxina - nerve toksi  
-neurônio - nerve celu  
+neurônio - nerve selu  
 neve - hima  
 nicho - nish  
 ninho (vespiero) - nide  
-nivel - par face  
+nivel - par fase  
 noite - noche  
 noitinha - sham  
 norte - norde  
@@ -840,7 +840,7 @@ o (a) - a
 ####O - O  
 o que - ke  
 objetivo - dike  
-oblíquo (torto) - terca  
+oblíquo (torto) - tercha  
 obrigado - shukra  
 obsidiana - osidian  
 oceano - dai hai  
@@ -874,11 +874,11 @@ outro - alo
 oásis - vase  
 ####P - P  
 paciente - pati jan  
-pacifista - pace jui ja  
+pacifista - pase sim ja  
 pacote - pake  
 pacto - kon trati  
 padeiro - baka ja  
-padrasto - vice ba  
+padrasto - vise ba  
 pai - ba  
 painel - ban  
 palavra (vocábulo) - loga so  
@@ -905,7 +905,7 @@ pato - bata
 patologia - pati logi  
 patógeno - pati jene she  
 pausa - pauza  
-paz - pace  
+paz - pase  
 pederneira - hogo sheki  
 pedir emprestado - jeku daku  
 pedra - sheki  
@@ -940,7 +940,7 @@ pilha (bateria) - bateri
 pimenta - pipre  
 pinheiro - song  
 pintura - pente  
-piquenique - eshyam  
+piquenique - ekso yam  
 pirataria - pirate  
 pirâmida - piram  
 plano - plan  
@@ -966,7 +966,7 @@ poste (estaca) - zong
 posterior - pos di  
 poucos - shau  
 poucos - shau ta  
-prancheta - pince ban  
+prancheta - pinse ban  
 prata - argente  
 prateleira (estante) - libu ban  
 praça - meden  
@@ -981,11 +981,11 @@ problema - problem
 procedimento (rito) - riti  
 professor (docente) - shula guru  
 profissão - pei gung  
-profundo - face tele  
+profundo - fase tele  
 programa - program  
 projeto - projete  
-projeção - lance grafi  
-projétil - lance she  
+projeção - lanse grafi  
+projétil - lanse she  
 prolongado - long dura di  
 promessa (voto) - vode  
 prova - dalil  
@@ -995,7 +995,7 @@ pá - bele
 página - varka late  
 pântano - fan topo  
 pão - pang  
-pícea (espruce) - picea  
+pícea (espruce) - pisea  
 quadrinhos (banda desenhada) - grafi kata  
 quando - ke sate  
 quarta-feira - var tri  
@@ -1035,7 +1035,8 @@ rato - mushu
 raça - rasa  
 raíz - mula  
 rebater - boing  
-reciclar - re cikle  
+receita - reseta  
+reciclar - re sikle  
 recém-nascido - nove jene di  
 regime - politi mode  
 registro - loge  
@@ -1081,7 +1082,7 @@ sacada (varanda) - veranda
 saco - sake  
 sacrifício - kurban  
 sagrada escritura - sante kanon  
-sair - eshtru  
+sair - be ekso  
 sal - sal  
 sala (câmara) - kamar  
 salino - sal di  
@@ -1127,7 +1128,7 @@ simetria - sam metre
 simulação - sam sifa she  
 sino (campainha) - danger  
 situaçao - she hal  
-sociedade - soci  
+sociedade - sosi  
 sogra - gami mama  
 sogro - gami baba  
 soja - soi  
@@ -1144,7 +1145,7 @@ sunismo - suna islam din
 suor - sueda  
 superestimar (sobrestimar) -   
 suástica (cruz gamada) - huke krus  
-Suíça - Suice  
+Suíça - Suise  
 sábado - var luku  
 São Paulo - Sante Paulo  
 série (sequência) - sili  
@@ -1171,11 +1172,12 @@ tentar (provar) - fa teste
 tentáculo - sense shaka  
 teosofia - deu sofi  
 ter (achar, receber) - daki  
+ter - ten  
 terminar (acabar, concluir) - pul fina  
 Terra - Geo  
 terra natal - jene loka  
 terracota - baka fan  
-terraplanista - plate geo jui ja  
+terraplanista - plate geo sim ja  
 terreno - geo forme  
 terça-feira - var du  
 teste - teste  
@@ -1235,8 +1237,8 @@ vara (bastão) - baton
 vaso de flores - hua pote  
 vazar - lou  
 vazio - hali  
-vegetalista - pul fito yam jui ja  
-vegetariano - fito yam jui ja  
+vegetalista - pul fito yam sim ja  
+vegetariano - fito yam sim ja  
 velho (antigo) - cheniki  
 vender - vende  
 ver - vide  
@@ -1244,7 +1246,7 @@ verbo - karma loga
 verdadeiro - ver  
 verde - lugi  
 verdura (hortaliça, legume) - yam fito  
-verdura - coi  
+verdura - choi  
 verme - verme  
 vermelho - lal  
 vermute - vermute  
@@ -1252,7 +1254,7 @@ verruga - zeyil
 verão - garma mosim  
 vestir - fa fuku  
 vez - mar  
-vice-rei - vice raja  
+vice-rei - vise raja  
 vida - jiu  
 vidro - kancha  
 vinhedo - putau bagi  

@@ -2,8 +2,6 @@
 ####A - A  
 a - o (a)  
 abies - abeto  
-acente - acento  
-acese - acesso  
 achi - espirrar  
 ada - costume (hábito)  
 adil - justo  
@@ -107,6 +105,7 @@ banka shefe - banqueiro
 bara - barrar  
 bara mur - barreira  
 barde - barba  
+bari fon - acento  
 basa - bastante (suficiente)  
 basen - bacia  
 basha - língua (idioma)  
@@ -125,6 +124,8 @@ baze bol - basebol (beisebol)
 baze shula kan - ensino primário  
 be ais - gelar  
 be bio mute - fermentar  
+be bum - explodir  
+be ekso - sair  
 be fobi - temer  
 be hogo - queimarse  
 be in - entrar  
@@ -148,16 +149,16 @@ bil ta - habilidade (capacidade)
 bilor - cristal  
 bina plan - arquitetura  
 bina plan ja - arquiteto  
-bio cana she - composto  
 bio logi - biología  
+bio sana she - composto  
 bio sistem - bioma  
 bio toksi - toxina  
 bio vute - organismo  
 bir - cerveja  
 biskute - biscoito  
 blu - azur  
-blu centaure - escovinha (centáurea)  
 blu elfe - estrumpfe (smurf)  
+blu sentaure - escovinha (centáurea)  
 boing - rebater  
 bokse - boxe  
 bokse ja - boxeador (pugilista)  
@@ -185,11 +186,6 @@ burge - forte
 buta - bota  
 buton - botão  
 ####C - C  
-cana ja - fator  
-celu logi - citologia  
-cen - cem (100)  
-centaure - centáurea  
-cerami - cerâmico  
 chabe - chave  
 chai - chá  
 chai kupa - chavena (tigela de chá)  
@@ -213,14 +209,12 @@ chir - rasgar
 chira - rasgar  
 chirchiri - esfarrapado  
 chize - queijo  
+choi - verdura  
 choklate - chocolate  
 choklatobaton - barra de chocolate  
 chope - enxada  
 chun - aldeia (vila)  
 chuzable - opção  
-cikle ja - ciclista  
-citi - cidade  
-coi - verdura  
 ####D - D  
 dai dom - palácio (mansão, palacete)  
 dai hai - oceano  
@@ -228,8 +222,8 @@ dai pau - canhǎo
 dai sheke - pedregulho  
 daki - ter (achar, receber)  
 dalil - prova  
-dance - baile (danza)  
 danger - sino (campainha)  
+danse - baile (danza)  
 Danske - danês  
 dante na di - desdentado  
 dara tubo - funil  
@@ -278,49 +272,46 @@ dura - durar
 duri - crónico  
 durmetrer - cronómetro  
 duru - transcorrer  
-dusforma - desfigurar  
+dus jan - inimigo  
+dus karma - malfeitoria (pecado)  
+dus vide - feio  
 dush - ducha  
-dusjan - inimigo  
-duskar - malfeitoria (pecado)  
-dusvidi - feio  
 ####E - E  
 e - e  
 ekore - esquilo  
-eletre - eletricidade  
+ekso - exterior  
+ekso jene di - exógeno  
+ekso klus di - exclusivo  
+ekso planete - exoplaneta (planeta extrassolar)  
+ekso poze - expor (revelar)  
+ekso vide di - evidente  
+ekso yam - piquenique  
+eletro - eletricidade  
 elfe - elfo  
-emoje - emoticon (emoji)  
-emos - emoçao  
-emoshal - humor  
-englomargarite - margarida-comum  
-esh - exterior  
-eshkava - escavar  
-eshklusa - excluir  
-eshklusivi - exclusivo  
-eshojeni - exógeno  
-eshplanete - exoplaneta (planeta extrassolar)  
-eshploze - explosão  
-eshplozu - explodir  
-eshpoza - expor (revelar)  
-eshtrata - extrair  
-eshtru - sair  
-eshvidi - evidente  
-eshyam - piquenique  
-eskulter - escultor  
+emosi - emoçao  
+emosi hal - humor  
+emosi zi - emoticon (emoji)  
+english margarita - margarida-comum  
+eskulte ja - escultor  
 esponje - esponja  
 esporte - esporte  
 estan - estanho  
 estibium - antimônio  
-estuda - estudar (examinar)  
-estuder - estudante  
-euloge - elogio  
-europobalute - carvalho-roble  
-evanjil - evangelho  
+estude ja - estudante  
+eu anjil - evangelho  
+eu loga - elogio  
+europe baluta - carvalho-roble  
 ####F - F  
 fa - fazer  
 fa asar - efetuar  
 fa bina - construir  
 fa dante - morder  
 fa dika - mirar (apontar)  
+fa dus forma - desfigurar  
+fa ekso kave - escavar  
+fa ekso klus - excluir  
+fa ekso trator - extrair  
+fa estude - estudar (examinar)  
 fa fobi - assustar  
 fa forma - modelar  
 fa fuku - vestir  
@@ -363,12 +354,12 @@ fa truke - enganar
 fa turbe - molestar (perturber)  
 fa valu - valorar  
 fa vote - votar  
-face - face (faceta)  
-face tele - profundo  
-facil - fácil  
 fan - lama (lodo)  
 fan def ban - para-lama  
 fan topo - pântano  
+fase - face (faceta)  
+fase tele - profundo  
+fasil - fácil  
 fate - fato (facto)  
 fatige - fadiga  
 fatura - conta (fatura)  
@@ -379,7 +370,7 @@ filsofi - filosofia
 fiorde - fiorde  
 fito - planta (vegetal)  
 fito logi - botânica  
-fito yam jui ja - vegetariano  
+fito yam sim ja - vegetariano  
 flame - inflamaçao  
 fleche - flecha (seta)  
 fobi ja - assustador  
@@ -416,7 +407,7 @@ gami baba - sogro
 gami ben - enteado  
 gami jan - esposo ou esposa  
 gami mama - sogra  
-gan cau - feno  
+gan chau - feno  
 gan tela - toalha  
 ganse - ganso  
 ganum - trigo  
@@ -464,7 +455,7 @@ haha - rir
 hai - mar  
 hai alga - macroalga  
 hai amir ja - almirante  
-hai cau - erva marinha  
+hai chau - erva marinha  
 hai di - marítimo  
 hai gun - marinha  
 hai hiyar - pepino-do-mar (holotúrias)  
@@ -524,7 +515,7 @@ in migra ja - imigrante
 insan - ser humano  
 insan di - humano  
 insan haki - direitos humanos  
-insan jui - humanismo  
+insan sim - humanismo  
 ironi - ironia  
 islam din - islã  
 ####J - J  
@@ -546,6 +537,7 @@ jene logi - genealogia
 jene loka - terra natal  
 jene tipe - genótipo  
 jihade - luta  
+jin lai - acesso  
 jini - espírito (gênio)  
 jinse - sexo  
 jirafa - girafa  
@@ -571,15 +563,15 @@ kaguji - papel
 kaguji limon - lima  
 kala - preto  
 kalam - lápis  
-kalce kristal - mármore  
-kalce mate - cal  
-kalce petra - calcário  
-kalcite - calcita  
 kalenda - calendário  
 kali - base (álcali)  
 kali - alcalino  
 kali guste - amargo  
 kalmar - lula (calamar)  
+kalse kristal - mármore  
+kalse mate - cal  
+kalse petra - calcário  
+kalsite - calcita  
 kama - luxúria  
 kama kanon - Kama Sutra  
 kamar - sala (câmara)  
@@ -648,7 +640,7 @@ kon bon - combinar com
 kon gung - colaborar  
 kon sela ja - consultor  
 kon trati - pacto  
-koncerte - concerto  
+konserte - concerto  
 kopi - cópia  
 koral - coral  
 kore - correr  
@@ -693,8 +685,8 @@ lal salmon - salmão-vermelho
 lama - lama  
 lampa - lâmpada (luminária)  
 lana - maldição  
-lance grafi - projeção  
-lance she - projétil  
+lanse grafi - projeção  
+lanse she - projétil  
 lashe - deixar  
 lasun - alho  
 late - lado  
@@ -727,8 +719,8 @@ lili sheki - pedrinha
 limon - limão  
 lin - linha (fio)  
 lin so - fibra  
-lince - lince  
 linke - conexão (vínculo, laço)  
+linse - lince  
 lisan - língua  
 liste - lista  
 litre - litro  
@@ -781,7 +773,7 @@ Marse - Marte
 mas - mais  
 mas fili - preferir  
 mas fili di - favorito (preferido)  
-mas fili jui - favoritismo  
+mas fili sim - favoritismo  
 masa - massa  
 masa mula - tubérculo  
 masa mula sol hua - alcachofra-girassol (tupinambo)  
@@ -792,6 +784,7 @@ masta - mastro
 mata badan - cadáver  
 mata badan fili - necrofilia  
 mate - matéria  
+mate lun - materialismo  
 mau - gato  
 maze - meia  
 meche - partida  
@@ -865,7 +858,7 @@ nave lefte - bombordo
 nefre - rim  
 nefte - aeite (óleo)  
 Neputun - Netuno  
-nerve celu - neurônio  
+nerve selu - neurônio  
 nerve toksi - neurotoxina  
 nia - intenção  
 nide - ninho (vespiero)  
@@ -892,7 +885,6 @@ nove loga - neologismo
 nove ta - novidade  
 ####O - O  
 o - ou  
-ocelote - jaguatirica (ocelote)  
 ohtopus - polvo  
 oko - olho  
 oko di - ocular  
@@ -907,14 +899,13 @@ ore flame - otite
 orkide - orquídea  
 orto - reto  
 orto gona di - ortogonal  
+oselote - jaguatirica (ocelote)  
 osidian - obsidiana  
 oste jama - esqueleto  
 oste shalke - escudo  
 ####P - P  
 pa ke - onde  
 pa lin - online  
-pace - paz  
-pace jui ja - pacifista  
 pade mosim - outono  
 pagri - turbante  
 pai - torta  
@@ -928,7 +919,7 @@ panir - queijo fresco
 pante - calças  
 papaya - mamão (papaia)  
 par - igual (par)  
-par face - nivel  
+par fase - nivel  
 par jan - par  
 par veze ta - equilíbrio  
 param - parâmetro  
@@ -940,6 +931,8 @@ parke - parque
 parne - samambaia  
 pas dau - passagem  
 pas loga - palavra-passe (senha)  
+pase - paz  
+pase sim ja - pacifista  
 pasporte - passaporte  
 pasta - pasta  
 pati jan - paciente  
@@ -965,22 +958,22 @@ peshe saide ja - pescador
 petra - rocha (pedra)  
 petra nefte - petróleo  
 piaze - cebola  
-picea - pícea (espruce)  
 pike - ponta (pico, bico)  
 pil - pele  
 pin - alfinete  
 pin chope - picareta  
 pin kardon - acanto-bastardo  
-pince ban - prancheta  
+pinse ban - prancheta  
 pipre - pimenta  
 pipre minta - hortelã-pimenta  
 piram - pirâmida  
 pirate - pirataria  
+pisea - pícea (espruce)  
 plan - plano  
 plasti di - plástico  
 plasti paste - massa de modelar (massinha)  
-plate geo jui ja - terraplanista  
 plate geo kaske logi - tectónica de placas  
+plate geo sim ja - terraplanista  
 poli basha di - multilíngue (plurilíngue)  
 Polinesia - Polinésia  
 politi - governo  
@@ -1003,7 +996,7 @@ puja kan - templo
 puja meza - altar  
 pul - cheio  
 pul fina - terminar (acabar, concluir)  
-pul fito yam jui ja - vegetalista  
+pul fito yam sim ja - vegetalista  
 pul shipi - ensopar (encharcar, marinar)  
 pulmon flame - pneumonia   
 putau bagi - vinhedo  
@@ -1018,7 +1011,8 @@ rare - raro
 rasa - raça  
 ratibu - ordem  
 re - repetição  
-re cikle - reciclar  
+re sikle - reciclar  
+reseta - receita  
 reste - resto  
 retro gula sense - náusea  
 retro tikete - passagem de volta  
@@ -1032,7 +1026,7 @@ ritim - ritmo
 rivo - rio  
 robote - robô  
 roke muzika - rock  
-rokete lance gi - lançador de foguetes  
+rokete lanse gi - lançador de foguetes  
 Roma - Roma  
 roma kamil - camomila-romana  
 roza - rosa  
@@ -1058,6 +1052,7 @@ sam metre - simetria
 sam rai - acordo  
 sam sifa she - simulação  
 sama - céu  
+sana ja - fator  
 sanduiche - sanduíche  
 sange - sangue  
 sante kanon - sagrada escritura  
@@ -1075,13 +1070,17 @@ se kon - um ao outro
 sekse logi - sexologia  
 sekur - seguro  
 sela loga - conselho  
+selu logi - citologia  
 seme - semente  
 seme di - seminal  
+sen - cem (100)  
 sen - idade  
 sen di - idoso (sene)  
 sense - sentido  
 sense shaka - tentáculo  
+sentaure - centáurea  
 sera - serra  
+serami - cerâmico  
 sete - sete (7)  
 shalke - escama  
 sham - noitinha  
@@ -1128,14 +1127,15 @@ shutu - arte
 si - ser (estar)  
 siborgium - seabórgio  
 sifa loga - adjetivo  
+sikle ja - ciclista  
 sili - série (sequência)  
 sili tika - elo  
 silko - seda  
 sing - estrela  
 sir plan - complô (conspiração)  
+siti - cidade  
 Slave - eslavo  
 so - elemento  
-soci - sociedade  
 sofita - sabedoria (sagacidade, sapiência)  
 soi - soja  
 soi milke - leite de soja  
@@ -1151,6 +1151,7 @@ sona tabi - sonolento
 song - pinheiro  
 soni - som  
 sor - fechadura  
+sosi - sociedade  
 sosis - salsicha  
 sual - questão (pergunta)  
 sueda - suor  
@@ -1158,10 +1159,10 @@ sui - água
 sui gas - vapor  
 sui minta - hortelã-da-água  
 sui yau - sede  
-Suice - Suíça  
+Suise - Suíça  
 suka - feliz  
 sukar - açúcar  
-sukar cau - cana-de-açúcar  
+sukar chau - cana-de-açúcar  
 suna islam din - sunismo  
 sundar - belo (lindo)  
 sundar ta - beleza  
@@ -1180,8 +1181,9 @@ tela gi - tear
 tele fon shutu - telefonia  
 teleskope - telescópio  
 tema name - título  
+ten - ter  
 tense - tenso  
-terca - oblíquo (torto)  
+tercha - oblíquo (torto)  
 teste - teste  
 tikete - bilhete  
 tisa - nove (9)  
@@ -1242,13 +1244,13 @@ verme - verme
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
 veze di - pesado  
-vice ba - padrasto  
-vice ma - madrasta  
-vice raja - vice-rei  
 vide - ver  
 vidou - viúvo  
 violeta blu - purpúreo (roxo)  
 virje - virgem  
+vise ba - padrasto  
+vise ma - madrasta  
+vise raja - vice-rei  
 Vishnu - Vixnu  
 vode - promessa (voto)  
 vol - querer (desejar)  

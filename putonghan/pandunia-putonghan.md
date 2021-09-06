@@ -1,8 +1,6 @@
 # pandunia-putonghan
 ####A - A  
 abies - 冷杉  
-acente - 重音符号  
-acese facil ta - 無障礙環境  
 achar - 腌菜  
 achi - 打喷嚏 (阿嚏)  
 ada - 习惯 (风俗)  
@@ -113,6 +111,7 @@ banka kan - 银行
 banya - 洗澡  
 banya - 游泳  
 banya kamar - 浴室  
+bari fon - 重音符号  
 basa - 够  
 basha - 语言  
 basha logi - 语言学  
@@ -160,9 +159,9 @@ bio vute - 生物
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 blu - 蓝色  
-blu centaure - 矢車菊  
-blu ceram sing - 茜草花  
 blu elfe - 蓝精灵  
+blu sentaure - 矢車菊  
+blu serami sing - 茜草花  
 bokse - 拳击  
 bokse ja - 拳击手  
 bokse pante - 平角褲  
@@ -189,10 +188,6 @@ bum - 爆炸
 burge - 要塞  
 buton - 扣子  
 ####C - C  
-celu logi - 细胞学  
-cen - सौ  
-ceng - 层  
-cerami - 陶瓷  
 chabe - 钥匙  
 chai - 茶  
 chai kan - 茶馆  
@@ -204,6 +199,7 @@ chante grupe - 合唱团
 chati - 屋顶 (房顶)  
 chatre - 四 (4)  
 chendeno - 昨日  
+cheng - 层  
 cheniki - 古老 (以前)  
 cheno - 以前  
 chili - 菜椒  
@@ -221,8 +217,6 @@ chongching - 重庆
 chope - 锄头  
 chun - 村  
 chuzable - 选择 (买卖权)  
-cikle ja - 骑自行车的人  
-cirke sheki - 鹅卵石  
 ####D - D  
 dai dom - 殿 (宫殿, 宅第)  
 dai hai - 大洋 (大海)  
@@ -281,37 +275,36 @@ dunia - 世界
 dur - 时间  
 durabli - 耐用的  
 durmetrer - 秒表  
-dusforma - 变丑  
+dus - 难  
+dus jan - 敌人  
+dus sin di - 不祥的  
+dus vide - 难看  
 dush - 淋浴  
-dusi - 难  
-dusjan - 敌人  
-dusosinyi - 不祥的  
-dusvidi - 难看  
 ####E - E  
 e - 和  
 ekore - 松鼠  
-eletrolin - 电缆 (电线)  
-eletrorade - 闪电  
+ekso - 外  
+ekso jan - 外人 (局外人)  
+ekso planete - 系外行星  
+ekso verse di - 外向的  
+ekso yam - 野餐  
+eletro lin - 电缆 (电线)  
+eletro radi - 闪电  
 elfe - 精灵  
-emoje - 绘文字  
-emoshal - 心情  
-englomargarite - 雛菊  
-esh - 外  
-eshojan - 外人 (局外人)  
-eshplanete - 系外行星  
-eshploze - 爆炸  
-eshtroversi - 外向的  
-eshyam - 野餐  
+emosi hal - 心情  
+emosi zi - 绘文字  
+english margarita - 雛菊  
 esponje - 海绵  
 estan - 锡  
 estibium - 锑  
-europobalute - 夏櫟  
-evanjil - 福音  
+eu anjil - 福音  
+europe baluta - 夏櫟  
 ####F - F  
 fa - 作  
 fa bina - 建设  
 fa dante - 咬  
 fa dika - 瞄准  
+fa dus forma - 变丑  
 fa fen gata - 分析  
 fa fobi - 吓唬  
 fa helpe - 帮助  
@@ -343,12 +336,12 @@ fa sual - 问
 fa tele fon - 打电话  
 fa truke - 耍花招  
 fa vode - 许诺  
-face - 面  
-face tele - 深  
 faida - 效用 (好处)  
 fan - 坭  
 fan def ban - 挡泥板  
 fan topo - 沼泽  
+fase - 面  
+fase tele - 深  
 fate - 事实  
 fatura - 帐单  
 fei - 飞  
@@ -361,7 +354,7 @@ fiorde - 峡湾
 firuze - 绿松石  
 fito - 植物  
 fito logi - 植物学  
-fito yam jui ja - 素食主义者  
+fito yam sim ja - 素食主义者  
 flame - 炎症  
 fleche - 箭  
 fong - 蜂  
@@ -390,12 +383,12 @@ gabur sheki - 墓石 (墓碑)
 galaksi - 恆星系  
 Galia - 高卢  
 galte - 错误  
-gan cau - 干草  
+gan chau - 干草  
 ganse - 雁 (鹅)  
 ganum - 麦  
 garma mosim - 夏季  
 garma zona - 热带  
-garma zona cau istan - 稀树草原  
+garma zona chau istan - 稀树草原  
 gata - 切  
 gata glu ban - 剪贴板  
 gati - 硬  
@@ -420,6 +413,7 @@ glu di - 黏的
 glu fan - 黏土  
 glu grafi - 贴纸  
 gol - 目的  
+gola sheki - 鹅卵石  
 gorila - 大猩猩  
 goton - 棉  
 grafi kata - 漫画  
@@ -448,7 +442,7 @@ haha - 笑
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 海军上将  
-hai cau - 海草  
+hai chau - 海草  
 hai gun - 海军  
 hai hiyar - 海參  
 hai hua - 海葵  
@@ -511,7 +505,7 @@ in migra ja - 移民者
 in verse jan - 内向的  
 insan - 人类  
 insan haki - 人权  
-insan jui - 人文主义  
+insan sim - 人文主义  
 islam din - 回教 (伊斯蘭教)  
 ####J - J  
 jamul - 閻浮樹  
@@ -555,15 +549,15 @@ kaguji - 纸
 kaguji limon - 墨西哥萊檬  
 kala - 黑色  
 kalam - 笔  
-kalce kristal - 大理石  
-kalce mate - 石灰  
-kalce petra - 石灰岩  
-kalcite - 方解石  
 kalenda - 日历  
 kali - 碱性  
 kali guste - 苦的  
 kali melon - 苦瓜  
 kalmar - 鱿鱼  
+kalse kristal - 大理石  
+kalse mate - 石灰  
+kalse petra - 石灰岩  
+kalsite - 方解石  
 kama - 情欲  
 kama kanon - 欲经  
 kamar - 房间  
@@ -630,7 +624,7 @@ kon bon - 相配
 kon gung - 合作  
 kon sela ja - 顾问  
 kon trati - 公約  
-koncerte - 音乐会  
+konserte - 音乐会  
 kopi - 摹本 (拷貝)  
 koral - 珊瑚  
 kore - 跑步  
@@ -666,15 +660,15 @@ laji - 废物 (垃圾)
 laji bagi - 垃圾场  
 laji tong - 垃圾桶  
 lal - 红  
-lal lince - 短尾貓  
+lal linse - 短尾貓  
 lal oranje - 柑橘 (红橘)  
 lal salmon - 紅鮭  
 lama - 喇嘛  
 lampa - 灯  
 lana - 诅咒  
-lance grafi - 投影  
-lance grafi - 投射  
-lance she - 投掷物  
+lanse grafi - 投影  
+lanse grafi - 投射  
+lanse she - 投掷物  
 lantanium - 鑭  
 lashe - 落 (留下)  
 lasun - 大蒜 (蒜头)  
@@ -706,8 +700,8 @@ limon - 柠檬
 limon oranje - 柑橘  
 lin - 线  
 lin so - 纤维  
-lince - 猞猁 (山貓)  
 linke - 联系  
+linse - 猞猁 (山貓)  
 lisan - 舌头  
 liste - 单子  
 litre - 升  
@@ -718,7 +712,6 @@ loga so - 词
 loge - 纪录  
 loge buku - 航海日志  
 loka - 地方  
-lon - 论  
 long - 长  
 long dura - 久  
 long kata - 小说  
@@ -728,6 +721,7 @@ lotra - 獭
 lou - 漏  
 lugi - 绿色  
 luku - 六 (6)  
+lun - 论  
 luna keke - 月饼  
 lung - 龙  
 luta - 掠夺  
@@ -761,6 +755,7 @@ masta - 桅
 mata badan - 尸体  
 mata badan fili - 恋尸癖  
 mate - 物质  
+mate lun - 唯物论 (唯物主义)  
 matur - 成年人  
 matur fem - 女人  
 matur man - 男人  
@@ -861,7 +856,6 @@ nove ka - 新手
 nove loga - 新词  
 ####O - O  
 o - 或  
-ocelote - 虎貓  
 ohtopus - 章鱼  
 oko - 眼睛  
 oko sui gas - 催泪瓦斯  
@@ -873,6 +867,7 @@ ore - 耳
 ore flame - 耳炎  
 orkide - 兰花  
 orto - 直  
+oselote - 虎貓  
 osidian - 黑曜岩  
 oste jama - 骨骼  
 ####P - P  
@@ -880,9 +875,6 @@ pa - 在
 pa lin - 在线  
 pa no lin - 离线  
 pa poli mar - 经常  
-pace - 和平  
-pace jui - 和平主义  
-pace jui ja - 和平主义者  
 pagri - 包头  
 pai - 馅饼  
 pan demo pati - 大流行病  
@@ -892,7 +884,7 @@ pang - 面包
 pante - 裤子  
 papagai - 鹉鹦  
 papaya - 木瓜  
-par face - 水平  
+par fase - 水平  
 par jan - 同辈  
 par nomer - 偶数  
 par veze ta - 平衡  
@@ -904,6 +896,9 @@ parke - 园
 parne - 蕨  
 pas - 過  
 pas loga - 密码  
+pase - 和平  
+pase sim - 和平主义  
+pase sim ja - 和平主义者  
 pasi - 疼痛  
 pasporte - 护照  
 pasta petra - 岩漿  
@@ -928,7 +923,6 @@ peshe huke - 鱼钩
 peshe saide ja - 鱼夫  
 petra nefte - 石油  
 piaze - 洋葱  
-picea - 云杉  
 pike - 尖顶  
 pil - 皮  
 pin - 别针  
@@ -937,6 +931,7 @@ pin kardon - 大翅蓟
 pipre - 胡椒  
 pipre minta - 辣薄荷  
 piram - 金字塔  
+pisea - 云杉  
 plate geo kaske logi - 板块构造论  
 plate topo - 平原  
 Polinesia - 波利尼西亚  
@@ -955,7 +950,7 @@ puding - 布丁
 puja kan - 寺庙  
 puja meza - 圣坛  
 pul fina - 完成  
-pul fito yam jui ja - 纯素食主义者  
+pul fito yam sim ja - 纯素食主义者  
 pul shipi - 浸泡  
 pulmon flame - 肺炎  
 puma - 美洲獅 (山狮)  
@@ -971,7 +966,7 @@ rapide - 快
 rare - 稀有 (稀少的)  
 rasa - 种族  
 ratibu - 常规 (次序)  
-re cikle - 循环再造  
+re sikle - 循环再造  
 reste - 其余  
 retro gula - 呕吐  
 retro gula sense - 恶心  
@@ -984,7 +979,7 @@ riti - 方法
 ritim - 节奏  
 rivo - 河 (江)  
 roke muzika - 摇滚乐  
-rokete lance gi - 火箭筒  
+rokete lanse gi - 火箭筒  
 Roma - 罗马  
 roma kamil - 果香菊  
 rota lefte - 反时针方向的  
@@ -1032,13 +1027,16 @@ saur - 蜥蜴
 se di - 自私  
 se kon - 彼此  
 sekse logi - 性学  
+selu logi - 细胞学  
 seme - 种  
 seme dane - 种子  
 seme di - 种子的  
+sen - सौ  
 sen - 年岁  
 sense - 感觉  
 sense shaka - 觸手  
 sera - 锯子  
+serami - 陶瓷  
 sete - 七 (7)  
 shalke - 鳞  
 sham - 晚上  
@@ -1085,13 +1083,12 @@ shutu - 技术
 si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
+sikle ja - 骑自行车的人  
 sili - 系列  
 sili tika - 连结  
 silko - 丝绸  
 sing - 星  
 sir plan - 阴谋 (密谋)  
-soci - 社会  
-soci jinse - 社會性別  
 sofa - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
@@ -1105,6 +1102,8 @@ sona kamar - 卧室 (寝室)
 sona papi - 鴉片罌粟  
 song - 松  
 sor - 锁  
+sosi - 社会  
+sosi jinse - 社會性別  
 sosis - 香肠  
 sual - 问题  
 sui - 水  
@@ -1112,10 +1111,10 @@ sui gas - 蒸汽
 sui kaboga - 葫芦  
 sui minta - 水薄荷  
 sui yau - 口渴  
-Suice - 瑞士  
+Suise - 瑞士  
 suka - 高兴  
 sukar - 糖  
-sukar cau - 甘蔗  
+sukar chau - 甘蔗  
 sundar - 漂亮 (美)  
 sundar daka - 装饰  
 sundar shutu - 艺术 (美术)  
@@ -1144,8 +1143,9 @@ tele vide gi - 电视机
 teleskope - 望远镜  
 tema - 主题目  
 tema name - 标题  
-terca - 斜的  
-teror jui - 恐怖行为  
+ten fasil ta - 無障礙環境  
+tercha - 斜的  
+teror sim - 恐怖行为  
 tese - 论据  
 teste - 化验  
 tikete - 票  
@@ -1209,12 +1209,12 @@ ventur - 冒险
 ventur ja - 冒险者  
 veranda - 阳台  
 veze di - 重型的  
-vice ba - 继父  
-vice ma - 继母  
 vide - 看  
 vidou - 寡妇  
 vijin - 味精  
 virje - 处女  
+vise ba - 继父  
+vise ma - 继母  
 Vishnu - 毗湿奴  
 vode - 诺言  
 vol - 想要 (愿意)  
