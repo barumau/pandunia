@@ -52,7 +52,7 @@ an - mala
 an ai - malami  
 an deu sim ja - ateisto  
 an din ja - malkredulo  
-an doste - malamiko  
+an dosti - malamiko  
 an jami - disigi  
 an memo - forgesi  
 an pase - malpaco  
@@ -175,6 +175,9 @@ baze shula kan - bazlernejo
 be ais - glaciiĝi (frostiĝi)  
 be boli - boli  
 be bum - eksplodi  
+be dom - loĝi  
+be duka - lamenti  
+be dura - daŭri (dum)  
 be emosi - emocii  
 be fin - finiĝi  
 be fobi - timi  
@@ -327,40 +330,39 @@ chuza - elekti
 chuze - elekto  
 ####D - D  
 da - de (partiklo de posedo)  
+dai - granda  
+dai anjil ja - ambasadoro  
+dai anjil kan - ambasado  
 dai dom - palaco  
 dai hai - oceano  
 dai pau - kanono  
 dai pau ja - kanonisto  
 dai sheku - ŝtonego  
 dai siti - urbego  
-daka - kovri  
-dake - kovrilo  
+daka - kovrilo  
 daku - akiri (ricevi, preni)  
 danse - danco  
 Danske - dana  
 Danske desha - Danio  
 dante - dento  
 dante brosh - dentbroso  
+dante dava ja - dentisto  
 dante na di - sendenta  
-dantomediker - dentisto  
 darba - bati  
-darjomute - disvolvi  
+darja mute - disvolvi  
 data - datumo  
-datobanke - datumbanko  
-datotable - tabelo  
+data banka - datumbanko  
+data table - tabelo  
 dau - vojo  
 dava - sanigi (kuraci)  
 dava ja - kuracisto  
-dayanjiler - ambasadoro  
-dayanjilkan - ambasado  
-dayi - granda  
-def - defendo  
+defa - defendo  
 defa - defendi  
-defer - defendanto (defendisto)  
+defa ja - defendanto (defendisto)  
 demo - popolo  
 demo grafi - demografio  
+demo krati - demokratio  
 demo krati di - demokratia  
-demokrati - demokratio  
 demon - demono  
 den - tago (periodo de 24 horoj)  
 den loge - päiväkirja  
@@ -395,46 +397,41 @@ diske - disko
 disprosium - disprozio  
 do - al (ĝis, por)  
 do misal - ekzemple  
-dokum - dokumento  
-dokumfilme - dokumentfilmo  
+dokumen - dokumento  
+dokumen filme - dokumentfilmo  
 dolar - dolaro  
 dolfin - delfeno  
 dom - hejmo (loĝejo)  
-doma - loĝi  
-domana - loĝigi  
-domi - hejma  
-domzeze - muŝo  
+dom di - hejma  
+dom zeze - muŝo  
 dona - doni  
 dona she - donaco  
+dona tabi - malavara  
 dong - oriento  
-donivi - malavara  
 dosha - kulpo  
-doshi - kulpa  
-doste - amiko  
-dosti - amika (bonkora)  
-dostia - amikeco  
+dosha di - kulpa  
+dosti - amiko  
+dosti di - amika (bonkora)  
+dosti ta - amikeco  
 dotor - doktoro  
 dou - fabo aŭ pizo  
 doze - porcio (dozo)  
-drame - dramo  
+drama - dramo  
 du - du (2)  
+du basha di - dulingva  
 dua - preĝi  
 dua - preĝo  
 dubnium - dubnio  
 dudu - insekto  
-dugu - legi  
 duka - malĝojigi  
-duke - malĝojo  
-duki - malĝoja  
-duku - lamenti  
-dulbashi - dulingva  
+duka - malĝoja  
+duka ta - malĝojo  
+duku - legi  
 duman - fumo  
-duni - tera  
 dunia - mondo  
-dunia bash - mondlingvo  
-dur - daŭro  
-dura - daŭri (dum)  
-durita - daŭrigi  
+dunia basha - mondlingvo  
+dunia di - tera  
+dura - daŭro  
 dus jan - malamiko  
 dus vide - malbonaspekta  
 dush - duŝo  
@@ -492,8 +489,11 @@ fa bina - konstrui
 fa budi - kompreni  
 fa chape - presi  
 fa chutu - eliri  
+fa daka - kovri  
 fa dante - mordi  
 fa dika - celi  
+fa dom - loĝigi  
+fa dura - daŭrigi  
 fa ekso - krom (escepti)  
 fa ekso klus - ekskludi  
 fa eskulte - skulti  
@@ -973,8 +973,8 @@ ke she - kio?
 ke yang - kia?  
 kechape - keĉupo  
 kechi - ĝentila  
-kegu - viziti  
-kegu ja - vizitanto  
+keka - viziti  
+keka ja - vizitanto  
 keke - kuko  
 kerne - kerno (koro)  
 kerne arme - kernarmilo  
@@ -1252,6 +1252,7 @@ mushu - muso aŭ rato
 muskete - muskedo  
 muskul - muskolo  
 muskul bina - korpokulturado  
+musli - muslio  
 mute - aliigi  
 muzika - muziko  
 muzika ja - muzikisto  
@@ -1867,6 +1868,7 @@ yo sate - iam
 yo she - io  
 yoga - jogo  
 yogo - jugo  
+yogur - jogurto  
 yumor - humuro  
 yumor di - humura  
 yumor ja - humuristo  

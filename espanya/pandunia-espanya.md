@@ -292,7 +292,11 @@ be bio mute - fermentar
 be boli - hervirse (ser cocida)  
 be bum - explotar (estallar)  
 be bum - explosionar  
+be dai - crecer (aumentar)  
 be dara - fluir  
+be dom - vivir (residir)  
+be duka - llorar  
+be dura - durar (durante, llevar tiempo)  
 be ekso - salir (egresar)  
 be emosi - sentir  
 be estasi - pararse (detenerse)  
@@ -546,6 +550,9 @@ chuze yo gol - destinar
 Cuana - Botsuana  
 ####D - D  
 da - de (posposición de posesión)  
+dai - grande  
+dai anjil ja - embajador  
+dai anjil kan - embajada  
 dai dom - palacio (mansión)  
 dai hai - océano  
 dai pau - cañón  
@@ -553,38 +560,38 @@ dai pau ja - cañonear
 dai pote - caldero  
 dai sheku - peñasco (pedrusco)  
 dai shula kan - universidad  
-daka - cubrir (tapar)  
-dake - tapa (funda, cubierta)  
+dai ta - tamaño  
+daka - tapa (funda, cubierta)  
 daku - conseguir (obtener, recibir)  
 daku ja - engendrador  
 dalil - prueba  
 dama gem - damas  
 dane - partícula (grano, bala)  
 dane sekur - antibalas  
-danger - campana (cencerro)  
+dang gi - campana (cencerro)  
 danse - baile (danza)  
 Danske - danés  
 Danske desha - Dinamarca  
 dante - diente  
-dante balute - roble daimyo  
+dante baluta - roble daimyo  
 dante brosh - cepillo de dientes  
+dante dava ja - dentista (odontólogo)  
 dante na di - desdentado  
-dantomediker - dentista (odontólogo)  
 dara mate - líquido  
 dara mate di - líquido (fluido)  
 dara tubo - embudo  
 darba - golpear (pegar)  
 darja - paso (grado, nivel, rango, calidad, categoría)  
-darjomute - desarrollo  
+darja mute - desarrollo  
 darmesitadium - darmstatio  
 darte - tierra (barro)  
-darti - sucio  
-darviniste - darwinista  
-darvinistia - darwinismo  
+darte di - sucio  
+darvin sim - darwinismo  
+darvin sim ja - darwinista  
 data - datos  
-datobanke - banco de datos (base de datos)  
-datofenkate - análisis de datos  
-datotable - tabla  
+data banka - banco de datos (base de datos)  
+data fen gata - análisis de datos  
+data table - tabla  
 dau - camino (calle)  
 dau ban - señal de tránsito  
 dau din - taoísmo  
@@ -596,26 +603,18 @@ dava she - medicamento (medicina, remedio, fármaco)
 dava she kan - farmacia (botica, droguería)  
 dava she logi - farmacologia  
 dava sui - poción  
-dayanjiler - embajador  
-dayanjilkan - embajada  
-dayi - grande  
-dayia - tamaño  
-dayu - crecer (aumentar)  
-debili - débil  
-def - defensa  
+debil - débil  
+defa - defensa  
 defa - defender  
-defban - escudo  
-defer - defensor  
-defkaske - armadura  
-deku - moralidad (ética)  
-deku di - moral (ético)  
-deku logi - ética (filosofía moral)  
+defa ban - escudo  
+defa ja - defensor  
+defa kaske - armadura  
 demo - pueblo (población)  
 demo di - público  
 demo grafi - demografía  
+demo krati - democracia  
 demo krati di - democrático  
-demokrati - democracia  
-demokratiste - demócrata  
+demo krati ja - demócrata  
 demon - demonio  
 den - día (24 horas)  
 den loge - diario  
@@ -655,80 +654,70 @@ disha - dirección
 disha di - directamente  
 diske - disco  
 disprosium - disprosio  
-Divehia - Maldivas  
+Divehi - Maldivas  
 do - a (hacia)  
 do jin - adelante  
 do long - lejos  
 do misal - por ejemplo  
 dobe - ladrillo  
 Doiche - Alemania  
-doichi - alemán  
-dokum - documento (archivo, nota)  
-dokum sanduku - carpeta  
-dokumfilme - documental  
+doiche di - alemán  
+dokumen - documento (archivo, nota)  
+dokumen filme - documental  
+dokumen sanduku - carpeta  
 dolar - dolar  
 dolfin - delfín  
 dom - casa (hogar, residencia)  
-doma - vivir (residir)  
-domana - alojar (hospedar)  
-domi - doméstico (domesticado)  
+dom di - doméstico (domesticado)  
+dom zeze - mosco  
 Dominika - Dominica  
 Dominika Komunkrati - Republica Dominicana  
-dominogem - dominó  
-domzeze - mosco  
+domino gem - dominó  
 dona - dar  
 dona she - regalo (obsequio)  
+dona tabi - generoso (dadivoso)  
 dong - éste  
+dong di - oriental  
+dong gorila - gorila oriental  
 Dong Timor - Timor Oriental  
-dongi - oriental  
-dongogoril - gorila oriental  
-donivi - generoso (dadivoso)  
-donjon aventur - juego de mazmorras  
+donjon ventur - juego de mazmorras  
 dosha - culpa (defecto, crimen)  
-doshi - culpable  
-dosila - domar (amansar)  
-dosili - manso (dócil, obediente)  
-dosiljeni - domesticado  
-dosiljenita - domesticar (cultivate)  
-doste - amigo  
-dosti - simpático (amable, tierno, dulce)  
-dostia - amistad (compañerismo)  
+dosha di - culpable  
+dosil - manso (dócil, obediente)  
+dosil jene di - domesticado  
+dosti - amigo  
+dosti di - simpático (amable, tierno, dulce)  
+dosti ta - amistad (compañerismo)  
 dotor - doctor  
-dotoria - doctorado  
+dotor ta - doctorado  
 dou - legumbre (frijol o arveja)  
 doze - ración (dosis)  
-drame - drama  
+drama - drama  
 droge - droga (narcótico)  
 du - dos (2)  
+du basha di - bilingüe  
+du mana di - doble sentido  
+du mar - dos veces  
+du romanse di - birromántico  
+du sekse di - bisexual  
+du she sim - dualismo  
 dua - rezar (orar)  
 dua - rezo (oración)  
 dubnium - dubnio  
 dudu - insecto  
-dugu - leer  
 duka - entristecer (poner triste)  
-duke - pena (tristeza)  
-duki - triste  
-duku - llorar  
-dulbashi - bilingüe  
-dulistia - dualismo  
-dulmaro - dos veces  
-dulmeni - doble sentido  
-dulo fena - reducir a la mitad (dividir en dos)  
-dulo multa - doblar (multiplicar por dos)  
-dulromansi - birromántico  
-dulseksi - bisexual  
+duka - triste  
+duka ta - pena (tristeza)  
+duku - leer  
 duman - humo  
-duni - global (mundial)  
 dunia - mundo  
-dunia bash - lengua mundial  
-dur - duración  
-dura - durar (durante, llevar tiempo)  
-durabli - durable  
-duri - crónico  
-durita - pasar (transcurrir)  
-durmetrer - cronómetro  
-duru - transcurrir  
-durzam - era (periodo, época)  
+dunia basha - lengua mundial  
+dunia di - global (mundial)  
+dura - duración  
+dura bil - durable  
+dura di - crónico  
+dura metre gi - cronómetro  
+dura zaman - era (periodo, época)  
 dus - malo (difícil, duro)  
 dus darja - degradar  
 dus funsi - falla (mal funcionamiento)  
@@ -837,9 +826,14 @@ fa biznes lon - negociar
 fa budi - darse cuenta (notar)  
 fa chape - imprimir  
 fa chutu - salir (irse)  
+fa daka - cubrir (tapar)  
 fa dalil - probar (demonstrar, comprobar)  
 fa dante - morder  
 fa dika - apuntar  
+fa dom - alojar (hospedar)  
+fa dosil - domar (amansar)  
+fa dosil jene - domesticar (cultivate)  
+fa dura - pasar (transcurrir)  
 fa dus forma - desfigurar  
 fa dus name - insultar (ofender)  
 fa ekso - expulsar (exceptuar, excepto)  
@@ -851,6 +845,7 @@ fa eskulte - esculpir
 fa estude - estudiar (examinar)  
 fa fantazi - imaginar (fantasear)  
 fa fen - dividir (repartir)  
+fa fen do du - reducir a la mitad (dividir en dos)  
 fa fen gata - analizar (disecar)  
 fa festa - celebrar (festejar)  
 fa fikse - fijar (pegar, asegurar)  
@@ -919,6 +914,7 @@ fa min rai - subestimar
 fa ming - iluminar  
 fa model - modelo  
 fa mol - moler (pulverizar)  
+fa multi do du - doblar (multiplicar por dos)  
 fa muzika - tocar música  
 fa najis - corromper (contaminar)  
 fa name - llamar (poner)  
@@ -1026,7 +1022,7 @@ false vide - ilusión
 famili - familia  
 famili name - apellido  
 fan - lodo (barro, fango)  
-fan def ban - guarda-barros (aleta)  
+fan defa ban - guarda-barros (aleta)  
 fan di - embarrado (enlodado)  
 fan topo - ciénaga (pantano)  
 fantazi - imaginación (fantasía)  
@@ -1745,8 +1741,8 @@ ke she - cuál cosa
 ke yang - qué tipo de  
 kechape - kétchup  
 kechi - educado  
-kegu - visitar  
-kegu ja - invitado (visita)  
+keka - visitar  
+keka ja - invitado (visita)  
 keke - pastel (galleta)  
 kelele - ruido  
 kelvin - kelvin  
@@ -1981,11 +1977,6 @@ Libanen - Líbano
 libele - libélula  
 Liberia - Liberia  
 Libia - Libia  
-libu - estar de pie  
-libu ban - estante (repisa)  
-libu baze - soporte (perchero, atril)  
-libu di - erguido  
-libu side - agacharse  
 lichi - lichi  
 lida - dirigir (mandar, conducir, capitanear)  
 lida ja - dirigente (líder)  
@@ -2018,6 +2009,11 @@ lin parche - nueva línea
 lin so - hebra (fibra)  
 linke - juntura (conexión, enlace)  
 linse - lince  
+lipa - estar de pie  
+lipa ban - estante (repisa)  
+lipa baze - soporte (perchero, atril)  
+lipa di - erguido  
+lipa side - agacharse  
 lis - suave (liso)  
 lisan - lengua  
 liste - lista  
@@ -2303,6 +2299,9 @@ Monako - Mónaco
 Mongol - Mongolia  
 mongol di - mongol  
 monoster - monstro  
+moral - moralidad (ética)  
+moral di - moral (ético)  
+moral logi - ética (filosofía moral)  
 Moris - Mauricio  
 mos - musgo  
 mos di - musgoso  
@@ -2337,6 +2336,7 @@ muskete - mosquete
 muskete ja - mosquetero  
 muskul - músculo  
 muskul bina - fisicoculturismo (culturismo, musculación)  
+musli - muesli  
 mute - cambiar  
 muzika - música  
 muzika ja - músico  
@@ -3133,6 +3133,7 @@ shush - chito (chist)
 shush di - silencioso  
 shutu - dotes (arte, habilidad)  
 si - ser (estar)  
+si dura - transcurrir  
 si ja - ser  
 si membre - pertenecer (ser miembro de)  
 sian - cian  
@@ -3575,10 +3576,10 @@ xenon - xenón
 ####Y - Y  
 ya - él o ella  
 ya - sufijo para regiónes y sustantivos abstractos  
-yagu - aproximadamente  
-yagu nes - península  
 Yahve - Yahvé (Jehová)  
 yake - yac  
+yaki - aproximadamente  
+yaki nes - península  
 yam - comer (bebir)  
 yam fito - verdura (legumbre)  
 yam kamar - comedor  
@@ -3607,6 +3608,7 @@ yo she - algo
 yoga - yoga  
 yoga ja - yogui  
 yogo - yugo  
+yogur - yogur  
 Yohan festa - día de San Juan  
 yong - derretirse  
 yong liga - fusión  

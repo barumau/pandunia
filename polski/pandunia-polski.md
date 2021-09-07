@@ -79,7 +79,7 @@ an chen vide di - niespodziewany
 an daka - odsłonić, odsłaniać  
 an deu sim ja - ateista  
 an din ja - niewierny  
-an doste - wróg (nieprzyjaciel)  
+an dosti - wróg (nieprzyjaciel)  
 an eskala - zejść (schodzić, zstąpić, zstępować)  
 an icha ja - niechętny  
 an jami - rozproszyć, rozpraszać  
@@ -285,7 +285,11 @@ be ajibu - zachwycić się (być zachwyconym)
 be bio mute - fermentować  
 be boli - ugotować się, gotować się  
 be bum - eksplodować (wybuchnąć, wybuchać)  
+be dai - urosnąć, rosnąć, wzrosnąć, wzrastać  
 be dara - latać (fruwać)  
+be dom - mieszkać  
+be duka - martwić  
+be dura - trwać, zająć czas; przez  
 be emosi - czuć, odczuć, odczuwać  
 be estasi - nie ruszać się  
 be fatige - męczyć się (nużyć się)  
@@ -534,6 +538,9 @@ chuze yo gol - przeznaczyć
 Cuana - Botswana  
 ####D - D  
 da - z (partykuła posiadania)  
+dai - duży  
+dai anjil ja - ambasador  
+dai anjil kan - ambasada  
 dai darja - wzmacniać (wzmocnić)  
 dai dom - pałac  
 dai hai - ocean  
@@ -543,40 +550,40 @@ dai pau ja - kanonier
 dai pote - kocioł  
 dai sheku - głaz  
 dai shula kan - uniwersytet  
-daka - przykryć, przykrywać, ukryć, ukrywać  
-dake - pokrycie; pokrywa, wieko, dekiel; pokład  
+dai ta - rozmiar  
+daka - pokrycie; pokrywa, wieko, dekiel; pokład  
 daku - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 daku ja - odbiorca  
 dalil - dowód; zeznanie  
 dama gem - warcaby  
 dane - cząstka (ziarno, kula, pocisk)  
 dane sekur - kuloodporny  
-danga - dzwonić (dźwięczeć, szczękać)  
-danger - dzwon (dzwonek)  
+dang - dzwonić (dźwięczeć, szczękać)  
+dang gi - dzwon (dzwonek)  
 danse - taniec  
 Danske - duński  
 Danske desha - Dania  
 dante - ząb  
-dante balute - dąb zębaty  
+dante baluta - dąb zębaty  
 dante brosh - szczoteczka do zębów  
+dante dava ja - dentysta  
 dante na di - bezzębny  
-dantomediker - dentysta  
 dara mate - ciecz (płyn)  
 dara mate di - ciekły (płynny)  
 dara tubo - lejek  
 darba - bić, uderzyć, uderzać  
 darja - stopień, poziom, ranga, klasa  
-darji - stopniowy  
-darjomeden - gradient (gradacja, stopniowanie)  
-darjomute - rozwój  
+darja di - stopniowy  
+darja meden - gradient (gradacja, stopniowanie)  
+darja mute - rozwój  
 darmesitadium - darmsztadt  
 darte - grunt (ziemia, próchnica)  
-darti - ziemny (glebowy, gruntowy)  
-darviniste - darwinista  
-darvinistia - darwinizm  
+darte di - ziemny (glebowy, gruntowy)  
+darvin sim - darwinizm  
+darvin sim ja - darwinista  
 data - dane  
-datobanke - baza danych (bank danych)  
-datotable - tablioca, macierz  
+data banka - baza danych (bank danych)  
+data table - tablioca, macierz  
 dau - droga, szosa, ulica  
 dau din - taoizm  
 dau din ja - taoista  
@@ -584,27 +591,19 @@ dava - uleczyć, leczyć, uzdrowić, uzdrawiać
 dava ja - doktor, lekarz, uzdrowiciel  
 dava logi - medycyna  
 dava sui - eliksir (magiczny napój)  
-dayanjiler - ambasador  
-dayanjilkan - ambasada  
-dayi - duży  
-dayia - rozmiar  
-dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
-debili - słaby  
-def - obrona  
+debil - słaby  
+defa - obrona  
 defa - obronić (chronić)  
-defban - tarcza  
-defer - obrońca  
-defkaske - zbroja  
-deku - moralność, etyka  
-deku di - moralny  
-deku logi - etyka  
+defa ban - tarcza  
+defa ja - obrońca  
+defa kaske - zbroja  
 demo - lud, społeczeństwo  
 demo di - publiczny  
 demo grafi - demografia  
+demo krati - demokracja  
 demo krati di - demokratyczny  
-demokrati - demokracja  
-demokratiste - demokrata  
-demomultia - populacja  
+demo krati ja - demokrata  
+demo multi ta - populacja  
 demon - demon  
 deng - czekać  
 des - dziesięć (10)  
@@ -642,78 +641,69 @@ disha - kierunek
 disha di - wprost (bezpośrednio)  
 diske - dysk  
 disprosium - dysproz  
-Divehia - Malediwy (Republika Malediwów)  
+Divehi - Malediwy (Republika Malediwów)  
 do - do, dopóki, dla  
 do jin - naprzód  
 do misal - na przykład  
 dobe - cegła  
 Doiche - Niemcy  
-doichi - niemiecki  
-dokum - dokument  
-dokum sanduku - folder (teczka)  
+doiche di - niemiecki  
+dokumen - dokument  
+dokumen sanduku - folder (teczka)  
 dolar - dolar  
 dolfin - delfin  
 dom - dom, mieszkanie  
-doma - mieszkać  
-domana - dać mieszkanie (zakwaterować)  
-domi - domowy  
+dom di - domowy  
+dom zeze - mucha  
 Dominika - Dominika (Wspólnota Dominiki)  
 Dominika Komunkrati - Republika Dominikańska (Dominikana)  
-dominogem - domino  
-domzeze - mucha  
+domino gem - domino  
 dona - dać, dawać  
 dona she - podarunek, dar, prezent  
 dong - wschód  
+dong di - wschodni  
+dong gorila - goryl wschodni  
 Dong Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
-dongi - wschodni  
-dongogoril - goryl wschodni  
-donjon aventur - przygoda w lochu  
+donjon ventur - przygoda w lochu  
 dosha - wina, grzech; defekt, wada  
-doshi - winny  
-dosila - oswoić (oswajać, tresować, trenować)  
-dosili - oswojony (potulny, posłuszny)  
-dosiljeni - udomowiony (domowy)  
-dosiljenita - udomowić (kultywować)  
-doste - przyjaciel  
-dosti - przyjacielski (uprzejmy, miły)  
-dostia - przyjaźń  
+dosha di - winny  
+dosil - oswojony (potulny, posłuszny)  
+dosil jene di - udomowiony (domowy)  
+dosti - przyjaciel  
+dosti di - przyjacielski (uprzejmy, miły)  
+dosti ta - przyjaźń  
 dotor - doktor (uczony, który osiągnął doktorat)  
-dotoria - doktorat  
+dotor ta - doktorat  
 dou - fasola lub groch, roślina strączkowa  
 doze - porcja, dawka  
-drame - dramat  
-dramironia - ironia dramatyczna  
+drama - dramat  
+drama ironi - ironia dramatyczna  
 droge - narkotyk  
 du - dwa (2)  
+du basha di - dwujęzyczny  
+du mana di - dwuznacznik  
+du mar - dwukrotnie (dwa razy)  
+du o tri - parę  
+du romanse di - biromantyczny  
+du sekse di - biseksualny  
+du she sim - dualizm  
 dua - pomodlić się, modlić się  
 dua - modlitwa  
 dubnium - dubn  
 dudu - owad  
-dugu - czytać  
 duka - zasmucić (zasmucać)  
-duke - żal, smutek  
-duki - smutny  
-duku - martwić  
-dulbashi - dwujęzyczny  
-duli o sani - parę  
-dulistia - dualizm  
-dulmaro - dwukrotnie (dwa razy)  
-dulmeni - dwuznacznik  
-dulo fena - przepołowić (podzielić przez dwa)  
-dulo multa - podwajać (podwoić, pomnożyć przez dwa)  
-dulromansi - biromantyczny  
-dulseksi - biseksualny  
+duka - smutny  
+duka ta - żal, smutek  
+duku - czytać  
 duman - dym  
-duni - globalny  
 dunia - świat  
-dunia bash - język świata, język ogólnoświatowy  
-dur - trwanie  
-dura - trwać, zająć czas; przez  
-durabli - trwały (wytrzymały, podtrzymywalny)  
-duri - chroniczny  
-durita - minąć, mijać (czas)  
-durmetrer - stoper (sekundomierz)  
-durzam - czas (epoka, era)  
+dunia basha - język świata, język ogólnoświatowy  
+dunia di - globalny  
+dura - trwanie  
+dura bil - trwały (wytrzymały, podtrzymywalny)  
+dura di - chroniczny  
+dura metre gi - stoper (sekundomierz)  
+dura zaman - czas (epoka, era)  
 dus darja - dezaktualizować (pogorszyć)  
 dus funsi - awaria (wadliwe działanie)  
 dus hal - trudność (trud)  
@@ -813,14 +803,20 @@ fa biznes lon - negocjować
 fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 fa chape - naciskać, zostawiać ślad  
 fa chutu - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
+fa daka - przykryć, przykrywać, ukryć, ukrywać  
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
 fa dika - celować  
+fa dom - dać mieszkanie (zakwaterować)  
+fa dosil - oswoić (oswajać, tresować, trenować)  
+fa dosil jene - udomowić (kultywować)  
+fa dura - minąć, mijać (czas)  
 fa dus name - obrazić  
 fa ekso - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 fa english kitabu - anglizować (zanglizować)  
 fa eskulte - rzeźbić  
 fa fantazi - wyobrazić, wyobrażać, fantazjować  
 fa fen - dzielić  
+fa fen do du - przepołowić (podzielić przez dwa)  
 fa fen gata - analizować  
 fa festa - świętować, imprezować  
 fa fikse - przyczepić, przymocować  
@@ -887,6 +883,7 @@ fa ming - rozjaśnić
 fa minim - zminimalizować  
 fa model - modelować (projektować, zaprojektować)  
 fa mol - zemleć (mleć, mielić)  
+fa multi do du - podwajać (podwoić, pomnożyć przez dwa)  
 fa muzika - grać muzykę  
 fa name - nazwać, nazywać, wezwać, wzywać  
 fa no zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
@@ -988,7 +985,7 @@ false vide - iluzja (halucynacja)
 famili - rodzina  
 famili name - nazwisko, imię rodziny  
 fan - błoto  
-fan def ban - błotnik  
+fan defa ban - błotnik  
 fan di - błotnisty  
 fan topo - bagno (moczary)  
 fantazi - fantazja (wyobrażenie, wyobraźnia)  
@@ -1681,8 +1678,8 @@ ke she - jak?
 ke yang - jaki?  
 kechape - keczup  
 kechi - uprzejmy  
-kegu - wizyta  
-kegu ja - wizytant (gość)  
+keka - wizyta  
+keka ja - wizytant (gość)  
 keke - ciasto, ciastko  
 kelele - atleta, sportowiec  
 kelvin - kelwin  
@@ -1917,11 +1914,6 @@ Libanen - Liban
 libele - ważka  
 Liberia - Liberia  
 Libia - Libia  
-libu - stać  
-libu ban - półka (regał na książki)  
-libu baze - stojak (wieszak)  
-libu di - postawiony (stojący)  
-libu side - kucać (kucnąć)  
 lichi - liczi  
 lida - prowadzić, dowodzić, kierować  
 lida ja - dowódca, kierownik  
@@ -1953,6 +1945,11 @@ lin parche - złamanie lini
 lin so - włókno  
 linke - połączenie, złącze, styk  
 linse - ryś  
+lipa - stać  
+lipa ban - półka (regał na książki)  
+lipa baze - stojak (wieszak)  
+lipa di - postawiony (stojący)  
+lipa side - kucać (kucnąć)  
 lis - gładki  
 lisan - język  
 liste - lista, spis, wykaz  
@@ -2234,6 +2231,9 @@ Monako - Monako
 Mongol - Mongolia  
 mongol di - Mongolski  
 monoster - potwór, monstrum  
+moral - moralność, etyka  
+moral di - moralny  
+moral logi - etyka  
 Moris - Mauritius  
 mos - mech  
 mos di - omszały (mszysty)  
@@ -2271,6 +2271,7 @@ muskete - muszkiet
 muskete ja - muszkieter  
 muskul - muskuł, mięsień  
 muskul bina - kulturystyka  
+musli - musli  
 mute - zmienić, zmieniać  
 muzika - muzyka  
 muzika ja - muzyk  
@@ -3458,9 +3459,9 @@ xenon - ksenon
 ####Y - Y  
 ya - on, ona, ono  
 ya - przyrostek dla miejsca  
-yagu - około; przybliżony  
-yagu nes - półwysep  
 yake - jak (zwierzę)  
+yaki - około; przybliżony  
+yaki nes - półwysep  
 yam - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 yam fito - warzywo  
 yam kamar - jadalnia  
@@ -3489,6 +3490,7 @@ yo she - coś
 yoga - joga  
 yoga ja - jogin (joginka)  
 yogo - jarzmo  
+yogur - jogurt  
 Yohan festa - dzień świętego Jana  
 yong - topnieć (upłynniać się)  
 yong liga - fuzja (amalgamowanie, łączenie)  

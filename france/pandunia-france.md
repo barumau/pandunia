@@ -239,6 +239,8 @@ baze shula kan - école primaire
 be ais - geler (glacer)  
 be bio mute - fermenter  
 be bum - exploser (détoner)  
+be dom - vivre (habiter)  
+be dura - durer  
 be fobi - craindre (avoir peur)  
 be hapu - convenir (être approprié)  
 be in - entrer  
@@ -337,24 +339,23 @@ dai hai - océan
 dai pau - canon  
 dai pote - chaudron  
 dai sheku - rocher  
-daka - couvrir  
 dalil - preuve  
-danger - cloche  
+dang gi - cloche  
 danse - dance  
 Danske - danois  
 dante na di - édenté  
 dara tubo - entonnoir  
-darjomute - développement  
+darja mute - développement  
 data - données  
-datobanke - base de données  
+data banka - base de données  
 dau ban - panneau de signalisation  
 dava she - médicament (remède)  
 dava she kan - pharmacie  
 dava she logi - pharmacologie  
 dava sui - pocion  
-debili - faible  
-defban - bouclire  
-defkaske - armure  
+debil - faible  
+defa ban - bouclire  
+defa kaske - armure  
 den loge - journal  
 deu - dieu  
 deu kata - mythe  
@@ -376,30 +377,25 @@ do jin - en avant
 do long - loin  
 do misal - par exemple  
 dobe - brique  
-dokum - document (dossier)  
-dokumfilme - documentaire  
+dokumen - document (dossier)  
+dokumen filme - documentaire  
 dolfin - dauphin  
 dom - maison  
-doma - vivre (habiter)  
-domi - domestique  
-domzeze - mouche  
+dom di - domestique  
+dom zeze - mouche  
+dona tabi - généreux  
 dong - east (orient)  
-donivi - généreux  
-dosila - apprivoiser (dresser, dompter, discipliner)  
-dosili - docile (insipide)  
-dosiljeni - domestiqué (apprivoisé)  
-dosiljenita - domestiquer (apprivoiser)  
+dosil - docile (insipide)  
+dosil jene di - domestiqué (apprivoisé)  
+dosti - amie  
 du - deux (2)  
+du basha di - bilingue  
 dudu - insecte  
-dugu - lire  
-dulbashi - bilingue  
+duku - lire  
 dunia - monde  
-dur - durée  
-dura - durer  
-duri - chronique  
-durita - passer  
-durmetrer - chronomètre  
-duru - se passer  
+dura - durée  
+dura di - chronique  
+dura metre gi - chronomètre  
 dus jan - ennemi  
 dus karma - méfait (péché)  
 dus vide - laid (vilain)  
@@ -441,8 +437,12 @@ fa ajibu - éblouir (étonner, stupéfier, surprendre)
 fa an galta - déboguer (débugger)  
 fa asar - effectuer  
 fa bina - construire  
+fa daka - couvrir  
 fa dante - mordre  
 fa dika - viser  
+fa dosil - apprivoiser (dresser, dompter, discipliner)  
+fa dosil jene - domestiquer (apprivoiser)  
+fa dura - passer  
 fa dus forma - défigurer  
 fa ekso kave - excaver  
 fa ekso klus - exclure  
@@ -497,7 +497,7 @@ fa valu - évaluer
 fa verse - verser  
 fa vode - promettre  
 fan - boue (fange, bourbe, gadoue)  
-fan def ban - garde-boue (aile)  
+fan defa ban - garde-boue (aile)  
 fan topo - marécage (marais)  
 fase - face (facette)  
 fase tele - profond  
@@ -888,8 +888,6 @@ lente - lent
 letis - laitue  
 liama - lama  
 libele - libellule  
-libu ban - étagère  
-libu side - s’accroupir  
 lida ja - dirigeant (leader)  
 lifafa - envelopper (emballer)  
 liga - ligue (alliance)  
@@ -905,6 +903,8 @@ lin - ligne (fil)
 lin so - fibre  
 linke - lien  
 linse - lynx  
+lipa ban - étagère  
+lipa side - s’accroupir  
 lisan - langue  
 liste - liste  
 litre - litre  
@@ -1032,6 +1032,7 @@ mur kaguji - papier peint
 murche - fourmi  
 mushu - souris  
 muskul bina - culturisme (musculation)  
+musli - musli  
 muzika - musique  
 ####N - N  
 nadir - rare  
@@ -1351,6 +1352,7 @@ shulija - réparateur
 shuru - début (commencement)  
 shutu - art  
 si - être  
+si dura - se passer  
 sifa loga - adjectif  
 sikle - bicyclette  
 sikle ja - cycliste  
@@ -1526,6 +1528,7 @@ yeka kanon - Yi King
 Yesu - Jésus  
 Yesu mesi - Jésus-Christ  
 yogo - joug  
+yogur - yaourt (yogourt)  
 yong - melt  
 yong petra - lave  
 yong safa - fondu  

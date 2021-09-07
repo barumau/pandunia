@@ -125,6 +125,7 @@ baze shula kan - ensino primário
 be ais - gelar  
 be bio mute - fermentar  
 be bum - explodir  
+be dura - durar  
 be ekso - sair  
 be fobi - temer  
 be hogo - queimarse  
@@ -222,20 +223,20 @@ dai pau - canhǎo
 dai sheku - pedregulho  
 daku - ter (achar, receber)  
 dalil - prova  
-danger - sino (campainha)  
+dang gi - sino (campainha)  
 danse - baile (danza)  
 Danske - danês  
 dante na di - desdentado  
 dara tubo - funil  
-darjomute - desenvolvimento  
+darja mute - desenvolvimento  
 data - dados  
-datobanke - banco de dados  
+data banka - banco de dados  
 dava she - remédio (medicamento)  
 dava she kan - farmácia (drogaria)  
 dava she logi - farmacologia  
-debili - fraco (débil)  
-defban - escudo  
-defkaske - armadura  
+debil - fraco (débil)  
+defa ban - escudo  
+defa kaske - armadura  
 den - dia (24 horas)  
 den loge - diário  
 deu - deus  
@@ -256,22 +257,21 @@ diorite - diorito
 diske - disco  
 do misal - por exemplo  
 dobe - tijolo  
-dokum - documento  
-dokumfilme - documentário  
+dokumen - documento  
+dokumen filme - documentário  
 dolfin - golfinho (delfim)  
-domi - doméstico  
+dom di - doméstico  
+dona tabi - generoso (dadivoso, mão-aberta)  
 dong - este (leste)  
-donivi - generoso (dadivoso, mão-aberta)  
+dosti - amigo  
 du - dois (2)  
+du basha di - bilíngue  
 dudu - inseto  
-dugu - ler  
-dulbashi - bilíngue  
+duku - ler  
 dunia - mundo  
-dur - duração  
-dura - durar  
-duri - crónico  
-durmetrer - cronómetro  
-duru - transcorrer  
+dura - duração  
+dura di - crónico  
+dura metre gi - cronómetro  
 dus jan - inimigo  
 dus karma - malfeitoria (pecado)  
 dus vide - feio  
@@ -355,7 +355,7 @@ fa turbe - molestar (perturber)
 fa valu - valorar  
 fa vote - votar  
 fan - lama (lodo)  
-fan def ban - para-lama  
+fan defa ban - para-lama  
 fan topo - pântano  
 fase - face (faceta)  
 fase tele - profundo  
@@ -704,8 +704,6 @@ lente - lento
 letis - alface  
 liama - lhama  
 libele - libélula  
-libu ban - prateleira (estante)  
-libu side - agacharse  
 lida ja - líder (chefe)  
 lifafa - embalar  
 liga - liga (aliança)  
@@ -721,6 +719,8 @@ lin - linha (fio)
 lin so - fibra  
 linke - conexão (vínculo, laço)  
 linse - lince  
+lipa ban - prateleira (estante)  
+lipa side - agacharse  
 lisan - língua  
 liste - lista  
 litre - litro  
@@ -841,6 +841,7 @@ mur - muro (muralha)
 mur kaguji - papel de parede  
 mushu - rato  
 muskul bina - fisiculturismo  
+musli - muesli  
 muzika - música  
 ####N - N  
 na - sem  
@@ -1125,6 +1126,7 @@ shulija - reparador
 shuru - começo (início, princípio)  
 shutu - arte  
 si - ser (estar)  
+si dura - transcorrer  
 siborgium - seabórgio  
 sifa loga - adjetivo  
 sikle ja - ciclista  
@@ -1270,6 +1272,7 @@ yauta - necessidade
 ye - sim  
 Yesu mesi - Jesus Cristo  
 yogo - jugo  
+yogur - iogurte  
 yong - derretre  
 ####Z - Z  
 zai zaman di - corrente (atual)  

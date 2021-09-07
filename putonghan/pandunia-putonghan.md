@@ -225,21 +225,21 @@ dai pote - 炼药锅
 dai sheku - 磐石  
 daku - 获得  
 daku shitu - 得失  
-danger - 钟 (摇铃)  
+dang gi - 钟 (摇铃)  
 Danske - 丹麦的  
-dante balute - 槲树  
+dante baluta - 槲树  
 dara tubo - 漏斗  
-darjomute - 发展 (开发)  
+darja mute - 发展 (开发)  
 data - 数据  
-datobanke - 数据库  
-datotable - 表格  
+data banka - 数据库  
+data table - 表格  
 dava she - 药物  
 dava she kan - 药店  
 dava she logi - 药理学  
 dava sui - 药水  
-debili - 虚弱 (易坏)  
-defban - 盾牌  
-defkaske - 盔甲  
+debil - 虚弱 (易坏)  
+defa ban - 盾牌  
+defa kaske - 盔甲  
 den - 日 (天)  
 den loge - 日记  
 desha jan - 公民  
@@ -260,21 +260,21 @@ diske - 圆盘
 do - 到  
 do misal - 比如  
 dobe - 砖  
-dokum - 文件  
-dokumfilme - 纪录片  
+dokumen - 文件  
+dokumen filme - 纪录片  
 dolfin - 海豚  
 dom - 房子  
 dong - 东  
-dosila - 驯养  
-dosili - 驯服的  
+dosil - 驯服的  
+dosti - 朋友 (友人)  
 du - 二 (2)  
 dua - 祈祷  
 dudu - 昆虫  
-dugu - 读 (看)  
+duku - 读 (看)  
 dunia - 世界  
-dur - 时间  
-durabli - 耐用的  
-durmetrer - 秒表  
+dura - 时间  
+dura bil - 耐用的  
+dura metre gi - 秒表  
 dus - 难  
 dus jan - 敌人  
 dus sin di - 不祥的  
@@ -304,6 +304,7 @@ fa - 作
 fa bina - 建设  
 fa dante - 咬  
 fa dika - 瞄准  
+fa dosil - 驯养  
 fa dus forma - 变丑  
 fa fen gata - 分析  
 fa fobi - 吓唬  
@@ -338,7 +339,7 @@ fa truke - 耍花招
 fa vode - 许诺  
 faida - 效用 (好处)  
 fan - 坭  
-fan def ban - 挡泥板  
+fan defa ban - 挡泥板  
 fan topo - 沼泽  
 fase - 面  
 fase tele - 深  
@@ -596,7 +597,7 @@ kave - 坑 (穴)
 ke - 什么  
 ke riti - 怎么  
 kechi - 客气  
-kegu ja - 客人  
+keka ja - 客人  
 Keme - 古埃及  
 kerne - 核心  
 kesha na di - 无毛  
@@ -687,9 +688,6 @@ leu - 了
 lezi - 梨  
 liama - 大羊駝  
 libele - 蜻蜓  
-libu ban - 架子 (搁板)  
-libu baze - 架子  
-libu side - 蹲  
 lida ja - 领导  
 liga di sanduku - 约柜  
 lika - 力  
@@ -702,6 +700,9 @@ lin - 线
 lin so - 纤维  
 linke - 联系  
 linse - 猞猁 (山貓)  
+lipa ban - 架子 (搁板)  
+lipa baze - 架子  
+lipa side - 蹲  
 lisan - 舌头  
 liste - 单子  
 litre - 升  
@@ -819,6 +820,7 @@ mur kaguji - 壁纸 (墙纸)
 murche - 蚂蚁  
 mushu - 鼠  
 muskul bina - 健美运动  
+musli - 木斯里 (瑞士麦片)  
 muzika - 音乐  
 ####N - N  
 nadir mar - 很少  
@@ -1238,6 +1240,7 @@ Yesu - 耶稣
 Yesu mesi - 耶稣基督  
 yoga - 瑜伽功  
 yogo - 轭  
+yogur - 酸奶 (优格)  
 yong - 融化  
 yong petra - 熔岩  
 yong safa - 熔炼  

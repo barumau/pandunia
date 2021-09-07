@@ -99,6 +99,7 @@ baze shula kan - 小学校
 be ais - 凍る (凍結する)  
 be bio mute - 熟成する (発酵する)  
 be bum - 爆発する  
+be dom - 住む (居住する)  
 be fatige - 疲れる (疲労する)  
 be fobi - 恐れる  
 be hogo - 燃える  
@@ -195,6 +196,7 @@ chope - クワ
 chun - 村  
 chuzable - オプション (選択)  
 ####D - D  
+dai - 大きい  
 dai dom - 宮殿 (邸宅)  
 dai hai - 大洋 (大海)  
 dai pau - 大砲  
@@ -202,22 +204,21 @@ dai pote - 大釜 (大鍋)
 dai sheku - 大石  
 daku - 受ける (もらう)  
 daku shitu - 得失  
-danger - 鐘 (鈴)  
+dang gi - 鐘 (鈴)  
 Danske - デンマークの  
-dante balute - カシワ  
+dante baluta - カシワ  
 dara tubo - 漏斗  
-darjomute - 発展 (開発)  
+darja mute - 発展 (開発)  
 darte - 土  
-datofenkate - データ解析  
-datotable - 表  
+data fen gata - データ解析  
+data table - 表  
 dau - 道  
 dava ja - 医者  
 dava she - 薬 (医薬品)  
 dava sui - ポーション (水薬)  
-dayi - 大きい  
-debili - 弱い (脆弱)  
-defban - 盾  
-defkaske - 鎧  
+debil - 弱い (脆弱)  
+defa ban - 盾  
+defa kaske - 鎧  
 demon - 悪魔  
 den - 日  
 den loge - 日記  
@@ -240,28 +241,27 @@ diorite - 閃緑岩
 diske - ディスク (円盤)  
 do misal - 例えば  
 dobe - レンガ (磚)  
-dokum - 書類 (文書, ドキュメント)  
-dokumfilme - ドキュメンタリー  
+dokumen - 書類 (文書, ドキュメント)  
+dokumen filme - ドキュメンタリー  
 dolfin - イルカ (ドルフィン)  
 dom - 家  
-doma - 住む (居住する)  
 Dominika Komunkrati - ドミニカ共和国  
 dona - あげる (くれる)  
 dong - 東  
-dongogoril - ヒガシゴリラ  
-donjon aventur - ダンジョンアドベンチャー  
-dosila - 馴らす  
-dosili - 温順 (素直)  
-dosiljeni - 家畜  
-dosti - 優しい (好ましい, 親切)  
+dong gorila - ヒガシゴリラ  
+donjon ventur - ダンジョンアドベンチャー  
+dosil - 温順 (素直)  
+dosil jene di - 家畜  
+dosti - 友達 (友人)  
+dosti di - 優しい (好ましい, 親切)  
 du - 二 (2)  
 dua - 祈祷  
 dudu - 昆虫  
-dugu - 読む  
+duku - 読む  
 dunia - 世界  
-durabli - 持続的  
-durmetrer - ストップウオッチ  
-durzam - 時代 (年代)  
+dura bil - 持続的  
+dura metre gi - ストップウオッチ  
+dura zaman - 時代 (年代)  
 dus - 難しい  
 dus jan - 敵  
 dus karma - 悪事  
@@ -296,6 +296,7 @@ fa bina - 建てる
 fa biznes lon - 話し合う (話を付ける)  
 fa dante - 咬む  
 fa dika - 狙う  
+fa dosil - 馴らす  
 fa dus forma - 醜くする  
 fa ekso - 追出 (退ける, 除いて)  
 fa fen gata - 見つめ直す  
@@ -335,7 +336,7 @@ fa ver - ただす
 faida - 使用 (為, 利)  
 false vide - 幻覚  
 fan - 泥  
-fan def ban - フェンダー  
+fan defa ban - フェンダー  
 fan topo - 沼地  
 fase - 面  
 fase tele - 深い  
@@ -596,7 +597,7 @@ ke riti - どのように
 ke sate - 何時  
 ke she - 何事  
 ke yang - どんな  
-kegu ja - 客人  
+keka ja - 客人  
 Keme - 古代エジプト  
 kerne - 核  
 kesha - 毛  
@@ -687,10 +688,6 @@ lente - 遅い (ゆっくり)
 letis - レタス  
 liama - ラマ  
 libele - 蜻蛉  
-libu - 立つ  
-libu ban - 棚  
-libu baze - 台  
-libu side - しゃがむ (蹲る)  
 lida lin - リード (手綱)  
 liga di sanduku - 契約の箱  
 lika - 力  
@@ -703,6 +700,10 @@ lin - 糸
 lin so - 繊維  
 linke - 繋がり (リンク)  
 linse - 大山猫  
+lipa - 立つ  
+lipa ban - 棚  
+lipa baze - 台  
+lipa side - しゃがむ (蹲る)  
 lisan - 舌  
 litre - リットル  
 loga - 話す  
@@ -828,6 +829,7 @@ mun - 門
 mur - 壁  
 mur kaguji - 壁紙  
 mushu - 鼠  
+musli - ミューズリー  
 muzika - 音楽  
 ####N - N  
 najis - 汚れ (汚染)  
@@ -1237,6 +1239,7 @@ yeka kanon - 易経
 Yesu mesi - イエス・キリスト  
 yo - 何分の  
 yogo - 軛  
+yogur - ヨーグルト  
 yong - 溶ける  
 yong petra - 溶岩  
 ####Z - Z  

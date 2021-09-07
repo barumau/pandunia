@@ -83,7 +83,7 @@ an chen vide di - ennennäkemätön
 an daka - paljastaa  
 an deu sim ja - ateisti (jumalankieltäjä)  
 an din ja - uskonnoton  
-an doste - vihollinen  
+an dosti - vihollinen  
 an eskala - laskeutua  
 an icha ja - vastahakoinen (haluton)  
 an jami - hajauttaa  
@@ -292,7 +292,11 @@ be ajibu - ihmetellä (olla ihmeissään)
 be boli - kiehua  
 be bum - räjähtää  
 be bum - räjähtää  
+be dai - kasvaa (suurentua)  
 be dara - virrata  
+be dom - asua  
+be duka - surra (murehtia)  
+be dura - kestää (viedä aikaa)  
 be ekso - poistua (mennä ulos)  
 be emosi - tuntea (kokea tunteita)  
 be estasi - seisoa (seisahtaa)  
@@ -554,6 +558,9 @@ chuze yo gol - määrätä
 Cuana - Botswana  
 ####D - D  
 da - määritetyn määritteeseen liittävä partikkeli  
+dai - iso (suuri)  
+dai anjil ja - lähettiläs  
+dai anjil kan - lähetystö  
 dai dara - hyöky (vyöry)  
 dai darja - korottaa  
 dai dom - palatsi  
@@ -563,39 +570,39 @@ dai pau ja - tykkimies
 dai sheku - lohkare (järkäle)  
 dai shula kan - yliopisto  
 dai siti - suurkaupunki  
-daka - peittää  
-dake - peite (kansi)  
+dai ta - suuruus (koko)  
+daka - peite (kansi)  
 daku - hankkia (saada)  
 daku ja - saaja (vastaanottaja)  
 dalil - todiste (todistus, osoitus, demonstraatio)  
 dama gem - tammipeli  
 dane - jyvä (luoti)  
 dane sekur - luodinkestävä  
-danga - kilistää (soittaa kelloa)  
-danger - soittokello  
+dang - kilistää (soittaa kelloa)  
+dang gi - soittokello  
 danse - tanssi  
 Danske - tanskalainen  
 Danske desha - Tanska  
 dante - hammas  
 dante brosh - hammasharja  
+dante dava ja - hammaslääkäri  
 dante na di - hampaaton  
-dantomediker - hammaslääkäri  
 dara - virta (virtaus)  
 dara mate - neste  
 dara mate di - nestemäinen  
 dara tubo - lappo  
 darba - lyödä (iskeä)  
 darja - porras (aste, taso)  
-darji - asteittainen (porrastettu)  
-darjomute - kehitys  
+darja di - asteittainen (porrastettu)  
+darja mute - kehitys  
 darmesitadium - darmstadtium  
 darte - maa (multa)  
-darti - likainen (mutainen)  
-darviniste - darwinisti  
-darvinistia - darwinismi  
+darte di - likainen (mutainen)  
+darvin sim - darwinismi  
+darvin sim ja - darwinisti  
 data - data (numeerinen tieto)  
-datobanke - tietokanta  
-datotable - taulukko  
+data banka - tietokanta  
+data table - taulukko  
 dau - tie  
 dau ban - liikennemerkki  
 dau din - taolaisuus  
@@ -606,28 +613,19 @@ dava logi - lääketiede
 dava she - lääke  
 dava she kan - apteekki  
 dava she logi - farmakologia  
-dayanjiler - lähettiläs  
-dayanjilkan - lähetystö  
-dayi - iso (suuri)  
-dayia - suuruus (koko)  
-dayu - kasvaa (suurentua)  
-de - joka (mikä)  
-debili - heikko  
-def - puolustus  
+debil - heikko  
+defa - puolustus  
 defa - puolustaa  
-defban - suojakilpi  
-defer - puolustaja  
-defkaske - suojakypärä  
+defa ban - suojakilpi  
+defa ja - puolustaja  
+defa kaske - suojakypärä  
 Deimos - Deimos  
-deku - moraali  
-deku di - moraalinen  
-deku logi - etiikka (moraalioppi)  
 demo - väestö (kansa)  
 demo grafi - väestötiede (demografia)  
+demo krati - demokratia  
 demo krati di - demokraattinen  
-demokrati - demokratia  
-demokratiste - demokraatti  
-demomultia - väenpaljous  
+demo krati ja - demokraatti  
+demo multi ta - väenpaljous  
 demon - demoni (piru)  
 den - päivä (vuorokausi)  
 deng - odottaa  
@@ -668,7 +666,7 @@ disha - suunta
 disha di - suoraan  
 diske - kiekko (levy)  
 disprosium - dysprosium  
-Divehia - Malediivit  
+Divehi - Malediivit  
 do - luokse (tykö, kohti, asti)  
 do ekso - ulkoinen  
 do in - sisäänpäin  
@@ -677,72 +675,63 @@ do long - pitkästi (kauas)
 do misal - esimerkiksi  
 dobe - tiili  
 Doiche - Saksa  
-doichi - saksalainen  
-dokum - asiakirja (dokumentti, tiedosto)  
-dokum sanduku - kansio (hakemisto)  
-dokumfilme - dokumenttielokuva  
+doiche di - saksalainen  
+dokumen - asiakirja (dokumentti, tiedosto)  
+dokumen filme - dokumenttielokuva  
+dokumen sanduku - kansio (hakemisto)  
 dolar - dollari  
 dolfin - delfiini  
 dom - asunto (koti)  
-doma - asua  
-domana - asuttaa  
-domi - koti-  
+dom di - koti-  
+dom zeze - kärpänen  
 Dominika - Dominika  
 Dominika Komunkrati - Dominikaaninen Tasavalta  
-dominogem - dominopeli  
-domzeze - kärpänen  
+domino gem - dominopeli  
 dona - antaa  
 dona she - lahja  
+dona tabi - antelias (avokätinen)  
 dong - itä  
+dong di - itäinen  
 Dong Timor - Itä-Timor  
-dongi - itäinen  
-donivi - antelias (avokätinen)  
-donjon aventur - luolaseikkailu  
+donjon ventur - luolaseikkailu  
 dosha - vika (synti)  
-doshi - syyllinen  
-dosila - kesyttää  
-dosili - kesy  
-doste - ystävä (kaveri)  
-dosti - ystävällinen (kiltti)  
-dostia - ystävyys  
+dosha di - syyllinen  
+dosil - kesy  
+dosti - ystävä (kaveri)  
+dosti di - ystävällinen (kiltti)  
+dosti ta - ystävyys  
 dotor - tohtori  
-dotoria - tohtorin tutkinto  
+dotor ta - tohtorin tutkinto  
 dou - papu tai herne  
 doze - annos  
-drame - draama  
+drama - draama  
 droge - huume  
 du - kaksi (2)  
+du basha di - kaksikielinen  
+du grafi di - stereoskooppinen  
+du mana di - kaksimielinen (kaksimerkityksinen)  
+du mar - kahdesti (kaksi kertaa)  
+du o tri - muutama (pari-kolme)  
+du sekse di - biseksuaali  
+du she sim - dualismi  
+du soni di - stereofoninen  
 dua - rukoilla (anoa)  
 dua - rukous  
 dubnium - dubnium  
 dudu - hyönteinen (ötökkä)  
-dugu - lukea  
 duka - surettaa  
-duke - suru (murhe)  
-duki - surullinen  
-duku - surra (murehtia)  
-dulbashi - kaksikielinen  
-dulgrafi - stereoskooppinen  
-duli o sani - muutama (pari-kolme)  
-dulistia - dualismi  
-dulmaro - kahdesti (kaksi kertaa)  
-dulmeni - kaksimielinen (kaksimerkityksinen)  
-dulo fena - puolittaa (jakaa kahdella)  
-dulo multa - tuplata (kertoa kahdella)  
-dulseksi - biseksuaali  
-dulsondi - stereofoninen  
+duka - surullinen  
+duka ta - suru (murhe)  
+duku - lukea  
 duman - savu  
-duni - maailman-  
 dunia - maailma  
-dunia bash - maailmankieli  
-dur - aika (kesto, kestoaika)  
-dura - kestää (viedä aikaa)  
-durabli - kestävä (luja)  
-duri - kestävä (krooninen)  
-durita - kuluttaa (viettää aikaa)  
-durmetrer - sekuntikello  
-duru - kulua (vieriä)  
-durzam - aikakausi  
+dunia basha - maailmankieli  
+dunia di - maailman-  
+dura - aika (kesto, kestoaika)  
+dura bil - kestävä (luja)  
+dura di - kestävä (krooninen)  
+dura metre gi - sekuntikello  
+dura zaman - aikakausi  
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dus darja - laskea tasoa  
 dus deu sim - dysteismi (usko jumalan pahuuteen)  
@@ -859,9 +848,13 @@ fa bina - rakentaa
 fa budi - ymmärtää (oivaltaa)  
 fa chape - painaa (leimata)  
 fa chutu - poistua  
+fa daka - peittää  
 fa dalil - todistaa  
 fa dante - purra  
 fa dika - osoittaa (tähdätä)  
+fa dom - asuttaa  
+fa dosil - kesyttää  
+fa dura - kuluttaa (viettää aikaa)  
 fa dus forma - turmella ulkomuoto  
 fa dus name - solvata (loukata)  
 fa ekso - poistaa (paitsi, poislukien)  
@@ -875,6 +868,7 @@ fa estude - opiskella (tutkia)
 fa eu loga - ylistää (puhua hyvää, kehua)  
 fa fantazi - kuvitella  
 fa fen - jakaa (paloitella)  
+fa fen do du - puolittaa (jakaa kahdella)  
 fa fen gata - analysoida  
 fa festa - juhlia  
 fa fikse - kiinnittää  
@@ -947,6 +941,7 @@ fa min rai - aliarvioida
 fa ming - kirkastaa (valaista)  
 fa model - mallintaa  
 fa mol - jauhaa  
+fa multi do du - tuplata (kertoa kahdella)  
 fa muzika - soittaa (musisoida)  
 fa name - nimittää (kutsua)  
 fa nia - aikoa (meinata)  
@@ -1049,7 +1044,7 @@ false vide - harhanäky (näköharha)
 famili - perhe  
 famili name - sukunimi  
 fan - muta (kura, lieju)  
-fan def ban - lokasuoja  
+fan defa ban - lokasuoja  
 fan di - kurainen (mutainen)  
 fan topo - suo (räme)  
 fantazi - mielikuvitus (fantasia)  
@@ -1598,6 +1593,7 @@ jinse logi - sukupuolitutkimus
 jirafa - kirahvi  
 jiu - elämä (olemassaolo)  
 jiu - elävä (elää)  
+jo - joka (mikä)  
 joke - vitsi  
 joke ja - vitsiniekka  
 jong - laji  
@@ -1742,8 +1738,8 @@ ke she - mikä? (mitä?)
 ke yang - millainen?  
 kechape - ketsuppi  
 kechi - kohtelias (kiltti)  
-kegu - käynti (vierailu, visiitti)  
-kegu ja - vierailija (vieras)  
+keka - käynti (vierailu, visiitti)  
+keka ja - vierailija (vieras)  
 keke - kakku (keksi)  
 kelele - meteli  
 kelvin - kelvin (K)  
@@ -1963,8 +1959,6 @@ Libanen - Libanon
 libele - sudenkorento  
 Liberia - Liberia  
 Libia - Libya  
-libu - seistä (seisoa)  
-libu di - pysty (seisova)  
 lichi - litši  
 lida - johtaa (ohjata)  
 lida ja - johtaja (pomo)  
@@ -1995,6 +1989,8 @@ lin parche - rivinvaihto
 lin so - säie (kuitu)  
 linke - yhdistys (sidos)  
 linse - ilves  
+lipa - seistä (seisoa)  
+lipa di - pysty (seisova)  
 lis - sileä  
 lisan - kieli (elin)  
 liste - lista (luettelo)  
@@ -2260,6 +2256,9 @@ Monako - Monaco
 Mongol - Mongolia  
 mongol di - mongoli  
 monoster - hirviö  
+moral - moraali  
+moral di - moraalinen  
+moral logi - etiikka (moraalioppi)  
 Moris - Mauritius  
 mos - sammal  
 mosim - vuodenaika  
@@ -2293,6 +2292,7 @@ muskete - musketti
 muskete ja - musketööri  
 muskul - lihas  
 muskul bina - kehonrakennus (bodaus)  
+musli - mysli  
 mute - muuttaa (muuntaa)  
 muzika - musiikki  
 muzika ja - muusikko  
@@ -3025,6 +3025,7 @@ shush - hiljaa (hys, shhh)
 shush di - hiljainen  
 shutu - taito  
 si - olla  
+si dura - kulua (vieriä)  
 si ja - olento (olio)  
 si membre - kuulua (olla jäsenenä)  
 sian - syaani  
@@ -3419,9 +3420,9 @@ xenon - ksenon
 ya - hän (se)  
 ya - ajattelun, olemisen tai ihmisten ala tai alue  
 ya su - hänen (sen)  
-yagu - noin (arviolta, suunnilleen)  
 Yahve - Jahve (Jehova)  
 yake - jakki  
+yaki - noin (arviolta, suunnilleen)  
 yam - nauttia (syödä, juoda)  
 yam fito - kasvis  
 yam kamar - ruokasali  
@@ -3450,6 +3451,7 @@ yo she - jokin
 yoga - jooga  
 yoga ja - joogi  
 yogo - ies  
+yogur - jogurtti  
 Yohan festa - juhannus (kristillinen juhla)  
 yong liga - fuusio (yhteensulautuminen)  
 Yoruba - joruban kansa ja kieli  

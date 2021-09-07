@@ -92,7 +92,7 @@ an chen vide di - unexpected
 an daka - uncover (reveal)  
 an deu sim ja - atheist  
 an din ja - unbeliever (infidel)  
-an doste - enemy (unfriend)  
+an dosti - enemy (unfriend)  
 an eskala - get off (descend)  
 an icha ja - reluctant  
 an jami - disperse (spread out, scatter)  
@@ -320,7 +320,11 @@ be bio mute - ferment (leaven)
 be boli - boil (be boiled)  
 be bum - explode (blow up)  
 be bum - explode  
+be dai - grow (get bigger)  
 be dara - flow  
+be dom - live in (reside in, inhabit)  
+be duka - grieve  
+be dura - last (take time; during)  
 be ekso - exit (get out)  
 be emosi - feel  
 be estasi - stand still  
@@ -607,6 +611,9 @@ chuze yo gol - destine (set)
 Cuana - Botswana  
 ####D - D  
 da - of (attributive preposition)  
+dai - big (great)  
+dai anjil ja - ambassador  
+dai anjil kan - embassy  
 dai dara - torrent  
 dai darja - amplify (scale)  
 dai dom - palace (mansion)  
@@ -618,8 +625,8 @@ dai pote - cauldron
 dai sheku - boulder  
 dai shula kan - university  
 dai siti - big city  
-daka - cover (conceal)  
-dake - cover (lid, cap, deck)  
+dai ta - size  
+daka - cover (lid, cap, deck)  
 daku - get (receive, obtain, take)  
 daku ja - getter (receiver, recipient)  
 daku shitu - gains and losses (pros and cons)  
@@ -627,34 +634,34 @@ dalil - proof (evidence, proof, demonstration, testimony)
 dama gem - checkers (draughts)  
 dane - particle (grain, bullet)  
 dane sekur - bulletproof  
-danga - ring (toll, clang)  
-danger - bell  
+dang - ring (toll, clang)  
+dang gi - bell  
 danse - dance  
 Danske - Danish  
 Danske desha - Denmark  
 dante - tooth  
-dante balute - daimyo oak  
+dante baluta - daimyo oak  
 dante brosh - tooth brush  
+dante dava ja - dentist  
 dante na di - toothless  
-dantomediker - dentist  
 dara - flow (current, stream)  
 dara mate - liquid  
 dara mate di - fluid (liquid)  
 dara tubo - funnel  
 darba - strike (punch)  
 darja - step (degree, rank, grade, level, class)  
-darji - gradual  
-darjomeden - gradient (gradation, incline)  
-darjomute - development  
+darja di - gradual  
+darja meden - gradient (gradation, incline)  
+darja mute - development  
 darmesitadium - darmstadtium  
 darte - soil (dirt)  
-darti - soily (dirty)  
-darviniste - Darwinist  
-darvinistia - Darwinism  
+darte di - soily (dirty)  
+darvin sim - Darwinism  
+darvin sim ja - Darwinist  
 data - data (numeric information)  
-datobanke - database (databank)  
-datofenkate - data analysis  
-datotable - data table (matrix)  
+data banka - database (databank)  
+data fen gata - data analysis  
+data table - data table (matrix)  
 dau - way (road)  
 dau ban - road sign  
 dau din - Taoism (Daoism)  
@@ -666,29 +673,20 @@ dava she - medicine (drug, medication)
 dava she kan - drugstore (pharmacy)  
 dava she logi - pharmacology  
 dava sui - potion  
-dayanjiler - ambassador  
-dayanjilkan - embassy  
-dayi - big (great)  
-dayia - size  
-dayu - grow (get bigger)  
-de - which (who, that)  
-debili - weak  
-def - defense (defence)  
+debil - weak  
+defa - defense (defence)  
 defa - defend  
-defban - shield  
-defer - defender  
-defkaske - armor (shielding)  
+defa ban - shield  
+defa ja - defender  
+defa kaske - armor (shielding)  
 Deimos - Deimos  
-deku - morality (ethics)  
-deku di - moral  
-deku logi - ethics  
 demo - people (population)  
 demo di - public  
 demo grafi - demography  
+demo krati - democracy  
 demo krati di - democratic  
-demokrati - democracy  
-demokratiste - democrati  
-demomultia - population  
+demo krati ja - democrat  
+demo multi ta - population  
 demon - demon  
 den - day (24 hours)  
 den loge - diary (daily log)  
@@ -732,7 +730,7 @@ disha - direction
 disha di - directly  
 diske - disc (disk)  
 disprosium - dysprosium  
-Divehia - Maldives  
+Divehi - Maldives  
 do - to (toward, till, until, for)  
 do ekso - outward (external)  
 do in - inward (internal)  
@@ -741,77 +739,67 @@ do long - long (over a gread distance)
 do misal - for example  
 dobe - brick  
 Doiche - Germany  
-doichi - German  
-dokum - document (record, file)  
-dokum sanduku - folder (directory)  
-dokumfilme - documentary film  
+doiche di - German  
+dokumen - document (record, file)  
+dokumen filme - documentary film  
+dokumen sanduku - folder (directory)  
 dolar - dollar  
 dolfin - dolphin  
 dom - home (residence)  
-doma - live in (reside in, inhabit)  
-domana - accommodate  
-domi - domestic (tame)  
+dom di - domestic (tame)  
+dom zeze - housefly  
 Dominika - Dominica  
 Dominika Komunkrati - Dominican Republic  
-dominogem - dominoes  
-domzeze - housefly  
+domino gem - dominoes  
 dona - give  
 dona she - gift  
+dona tabi - generous (open-handed)  
 dong - east (orient)  
+dong di - eastern  
+dong gorila - eastern gorilla  
 Dong Timor - East Timor (Timor-Leste)  
-dongi - eastern  
-dongogoril - eastern gorilla  
-donivi - generous (open-handed)  
-donjon aventur - dungeon crawl  
+donjon ventur - dungeon crawl  
 dosha - fault (sin, blame, defect, guilt)  
-doshi - guilty  
-dosila - tame (train)  
-dosili - tame (docile, obedient)  
-dosiljeni - domesticated  
-dosiljenita - domesticate (cultivate)  
-doste - friend  
-dosti - friendly (kind, nice, gentle)  
-dostia - friendship  
+dosha di - guilty  
+dosil - tame (docile, obedient)  
+dosil jene di - domesticated  
+dosti - friend  
+dosti di - friendly (kind, nice, gentle)  
+dosti ta - friendship  
 dotor - doctor (scholar who has attained doctorate)  
-dotoria - doctorate  
+dotor ta - doctorate  
 dou - bean or pea (legume)  
 doze - portion (dose)  
-drame - drama  
-dramironia - dramatic irony  
+drama - drama  
+drama ironi - dramatic irony  
 droge - drug (intoxicating substance)  
 du - two (2)  
+du basha di - bilingual  
+du grafi di - anaglyphic (stereoscopic)  
+du mana di - double entendre  
+du mar - twice  
+du o tri - a couple of  
+du romanse di - biromantic  
+du sekse di - bisexual  
+du she sim - dualism  
+du soni di - stereophonic  
 dua - pray (beg, entreat, implore)  
 dua - prayer  
 dubnium - dubnium  
 dudu - insect  
-dugu - read  
 duka - sadden (make sad)  
-duke - grief (sorrow)  
-duki - sad  
-duku - grieve  
-dulbashi - bilingual  
-dulgrafi - anaglyphic (stereoscopic)  
-duli o sani - a couple of  
-dulistia - dualism  
-dulmaro - twice  
-dulmeni - double entendre  
-dulo fena - halve (divide by two)  
-dulo multa - double (multiply by two)  
-dulromansi - biromantic  
-dulseksi - bisexual  
-dulsondi - stereophonic  
+duka - sad  
+duka ta - grief (sorrow)  
+duku - read  
 duman - smoke  
-duni - global  
 dunia - world  
-dunia bash - world language  
-dur - duration (time interval)  
-dura - last (take time; during)  
-durabli - durable (endurable, sustainable)  
-duri - chronic (lasting)  
-durita - pass (spend time, put time into)  
-durmetrer - stopwatch  
-duru - elapse (pass by, go by)  
-durzam - period (era, epoch, term)  
+dunia basha - world language  
+dunia di - global  
+dura - duration (time interval)  
+dura bil - durable (endurable, sustainable)  
+dura di - chronic (lasting)  
+dura metre gi - stopwatch  
+dura zaman - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dus darja - downgrade  
 dus deu sim - dystheism (maltheism)  
@@ -939,9 +927,14 @@ fa biznes lon - negotiate (arrange)
 fa budi - realize  
 fa chape - press (imprint)  
 fa chutu - leave (go out, exit)  
+fa daka - cover (conceal)  
 fa dalil - prove (demonstrate, testify)  
 fa dante - bite  
 fa dika - aim (point)  
+fa dom - accommodate  
+fa dosil - tame (train)  
+fa dosil jene - domesticate (cultivate)  
+fa dura - pass (spend time, put time into)  
 fa dus forma - disfigure  
 fa dus name - insult (offend, call names)  
 fa ekso - oust (expel, exclude, except, save)  
@@ -955,6 +948,7 @@ fa estude - study (work in order to practise or demonstrate)
 fa eu loga - praise (eulogize)  
 fa fantazi - imagine (fantasize)  
 fa fen - divide (to partition)  
+fa fen do du - halve (divide by two)  
 fa fen gata - analyse (dissect, parse)  
 fa festa - celebrate (party)  
 fa fikse - fix (attach)  
@@ -1036,6 +1030,7 @@ fa ming - brighten
 fa minim - minimize  
 fa model - model (design)  
 fa mol - grind (grind in mill)  
+fa multi do du - double (multiply by two)  
 fa muzika - play music  
 fa najis - corrupt (pollute, soil, defile, stain, taint)  
 fa name - call (name)  
@@ -1154,7 +1149,7 @@ false vide - illusion (hallucination)
 famili - family  
 famili name - surname (family name)  
 fan - mud (mire)  
-fan def ban - fender  
+fan defa ban - fender  
 fan di - muddy  
 fan topo - marsh (bog, swamp, morass)  
 fantazi - fantasy (imagination)  
@@ -1767,6 +1762,7 @@ jinse logi - gender studies
 jirafa - giraffe  
 jiu - life (existence)  
 jiu - live (be alive, living)  
+jo - which (who, that)  
 joke - joke  
 joke ja - joker  
 jong - species  
@@ -1940,8 +1936,8 @@ ke she - what thing?
 ke yang - what kind of?  
 kechape - ketchup  
 kechi - polite  
-kegu - visitation (visit)  
-kegu ja - visitor (guest)  
+keka - visitation (visit)  
+keka ja - visitor (guest)  
 keke - cake (cookie)  
 kelele - noise  
 kelvin - kelvin  
@@ -2200,11 +2196,6 @@ Libanen - Lebanon
 libele - dragonfly  
 Liberia - Liberia  
 Libia - Libya  
-libu - stand  
-libu ban - shelf (bookshelf)  
-libu baze - stand (rack)  
-libu di - erect (standing)  
-libu side - crouch (squat)  
 lichi - lychee (litchi)  
 lida - lead (direct)  
 lida ja - leader (director)  
@@ -2240,6 +2231,11 @@ lin parche - line break (newline)
 lin so - fibre  
 linke - joint (link)  
 linse - lynx  
+lipa - stand  
+lipa ban - shelf (bookshelf)  
+lipa baze - stand (rack)  
+lipa di - erect (standing)  
+lipa side - crouch (squat)  
 lis - smooth  
 lisan - tongue  
 liste - list (listing, catalogue)  
@@ -2546,6 +2542,9 @@ Monako - Monaco
 Mongol - Mongolia  
 mongol di - Mongolian  
 monoster - monster  
+moral - morality (ethics)  
+moral di - moral  
+moral logi - ethics  
 Moris - Mauritius  
 mos - moss  
 mos di - mossy  
@@ -2583,6 +2582,7 @@ muskete - musket
 muskete ja - musketeer  
 muskul - muscle  
 muskul bina - bodybuilding  
+musli - muesli  
 mute - change (alter, convert)  
 muzika - music  
 muzika ja - musician  
@@ -3301,7 +3301,7 @@ sar kesha - hair of the head
 sar kesha na di - bald-headed  
 sar na di - headless  
 sar oste - skull  
-sata - moment (instant, while)  
+sata - moment (instant)  
 sata di - momentary  
 sata dona - dedicate (devote)  
 sata dona ta - dedication (devotion)  
@@ -3444,6 +3444,7 @@ shush di - silent
 shutu - skill (art, craft)  
 shutu tabi - skillful (crafty)  
 si - be  
+si dura - elapse (pass by, go by)  
 si ja - being (entity)  
 si membre - belong (be a member)  
 sian - cyan  
@@ -3919,10 +3920,10 @@ xenon - xenon
 ya - he or she or it  
 ya - area of thinking or being  
 ya su - his or her  
-yagu - about (approximately, nearly, almost)  
-yagu nes - peninsula  
 Yahve - Yahweh (Jehovah)  
 yake - yak  
+yaki - about (approximately, nearly, almost)  
+yaki nes - peninsula  
 yam - consume (eat or drink)  
 yam fito - vegetable  
 yam kamar - dining room  
@@ -3956,6 +3957,7 @@ yo she - something
 yoga - yoga  
 yoga ja - yogi  
 yogo - yoke  
+yogur - yogurt  
 Yohan festa - Saint John's Day  
 yong - melt  
 yong liga - fusion (amalgamation)  

@@ -23,7 +23,7 @@ aeite (óleo) - nefte
 aeroporto - air porte  
 aeróbico - air bio di  
 Afeganistão - Afgan  
-agacharse - libu side  
+agacharse - lipa side  
 agente - karma ja  
 agressor - agreser  
 agrobiologia - nong bio logi  
@@ -51,6 +51,7 @@ alô - halo
 amador - hobi ja  
 amante - ai ja  
 amargo - kali guste  
+amigo - dosti  
 amor - ai  
 amoreira - tuta  
 amêndoa - badam  
@@ -79,7 +80,7 @@ argumento - argum
 arma - arme  
 arma de fogo - pau gi  
 armadilha - kape truke  
-armadura - defkaske  
+armadura - defa kaske  
 armário - almari  
 arquiteto - bina plan ja  
 arquitetura - bina plan  
@@ -123,7 +124,7 @@ baile (danza) - danse
 bambu - bambu  
 banana - banana  
 banco - banka kan  
-banco de dados - datobanke  
+banco de dados - data banka  
 bando - banda  
 banqueiro - banka shefe  
 barba - barde  
@@ -146,7 +147,7 @@ biblioteca - kitabu kan
 bicho-papão - bubu  
 bigorna - metal bede  
 bilhete - tikete  
-bilíngue - dulbashi  
+bilíngue - du basha di  
 biología - bio logi  
 bioma - bio sistem  
 biscoito - biskute  
@@ -320,10 +321,10 @@ croassã - kruasan
 crocodiliano - krokodil  
 crocodilo - long krokodil  
 cromo - jama karde  
-cronómetro - durmetrer  
+cronómetro - dura metre gi  
 cruz - krus  
 crème - krem  
-crónico - duri  
+crónico - dura di  
 cubo - kube  
 cultivar - nong  
 cume (pico, topo) - shan pike  
@@ -347,7 +348,7 @@ dente-de-leão (taráxaco) - makan hua
 derretre - yong  
 descanso (repouso) - shanti  
 desdentado - dante na di  
-desenvolvimento - darjomute  
+desenvolvimento - darja mute  
 desesperado - asha na di  
 desfigurar - fa dus forma  
 deslizar - glis  
@@ -374,15 +375,15 @@ distinto - alo fen di
 diário - den loge  
 diário de bordo - loge buku  
 dióxido de carbono - karbon duokside  
-documento - dokum  
-documentário - dokumfilme  
+documento - dokumen  
+documentário - dokumen filme  
 dois (2) - du  
 domingo - var sete  
-doméstico - domi  
+doméstico - dom di  
 dormir - be sona  
 ducha - dush  
-durar - dura  
-duração - dur  
+durar - be dura  
+duração - dura  
 duro - gati  
 ####E - E  
 e - e  
@@ -422,7 +423,7 @@ escavar - fa ekso kave
 escola (colégio) - shula kan  
 escovinha (centáurea) - blu sentaure  
 escrevere - kitabu  
-escudo - defban  
+escudo - defa ban  
 escudo - oste shalke  
 escultor - eskulte ja  
 esfarrapado - chirchiri  
@@ -505,7 +506,7 @@ força - lika
 força aérea - air gun  
 foto (fotografia) - foto grafi  
 fotografia - foto grafi shuta  
-fraco (débil) - debili  
+fraco (débil) - debil  
 fraco - mirde  
 fragmento - parche  
 freixo - yasen  
@@ -532,7 +533,7 @@ gelar - be ais
 genealogia - jene logi  
 generalíssimo - gun raja  
 generosidade - karim  
-generoso (dadivoso, mão-aberta) - donivi  
+generoso (dadivoso, mão-aberta) - dona tabi  
 genótipo - jene tipe  
 geografia - geo grafi  
 geometria - geo metre  
@@ -609,6 +610,7 @@ intenção - nia
 internacional - nasi medi  
 invernal (hibernal) - leng mosim di  
 inverno - leng mosim  
+iogurte - yogur  
 ir - be kite  
 ironia - ironi  
 islã - islam din  
@@ -653,7 +655,7 @@ leite de soja - soi milke
 lembrar-se (recordar-se) - fa memo  
 lente - lense  
 lento - lente  
-ler - dugu  
+ler - duku  
 Letónia - Latvia  
 leve - ligu  
 lhama - liama  
@@ -787,6 +789,7 @@ Mover-se - be kino
 moyen - medi  
 mudança climática - klima mute  
 mudar-se - be migra  
+muesli - musli  
 multilíngue (plurilíngue) - poli basha di  
 mundo - dunia  
 mundo das fadas (paraíso) - pari desha  
@@ -893,7 +896,7 @@ papel de parede - mur kaguji
 papoila - meden papi  
 papoila-dormideira - sona papi  
 par - par jan  
-para-lama - fan def ban  
+para-lama - fan defa ban  
 parque - parke  
 partida - meche  
 parâmetro - param  
@@ -968,7 +971,7 @@ poucos - shau
 poucos - shau ta  
 prancheta - pinse ban  
 prata - argente  
-prateleira (estante) - libu ban  
+prateleira (estante) - lipa ban  
 praça - meden  
 precioso - bau di  
 preferir - mas fili  
@@ -1126,7 +1129,7 @@ sexta-feira - var penta
 sim - ye  
 simetria - sam metre  
 simulação - sam sifa she  
-sino (campainha) - danger  
+sino (campainha) - dang gi  
 situaçao - she hal  
 sociedade - sosi  
 sogra - gami mama  
@@ -1198,7 +1201,7 @@ trabalhar - gung
 trabalho - gung  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - shanti di  
-transcorrer - duru  
+transcorrer - si dura  
 trator - trator gi  
 trazer - fa lai  
 trigo - ganum  

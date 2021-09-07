@@ -71,7 +71,7 @@ aeróbico - air bio di
 afecto (emoción) - emosi  
 Afganistán - Afgan  
 afrontar - verse  
-agacharse - libu side  
+agacharse - lipa side  
 agorafobia - meden fobi  
 agosto - mes bato  
 agradecer - fa shukra  
@@ -105,7 +105,7 @@ alcohol - alkol
 alcohólico - alkol di  
 aldea - chun  
 Alemania - Doiche  
-alemán - doichi  
+alemán - doiche di  
 alfabeto - zi sili  
 alfabeto cirílico - Kiril zi  
 alfabeto latino - Latin zi  
@@ -127,7 +127,7 @@ almendra - badam
 almirante - hai amir ja  
 almohada - kushen  
 almuerzo - dia yam  
-alojar (hospedar) - domana  
+alojar (hospedar) - fa dom  
 alquilar (arrendar, dar en arriendo) - kira dona  
 alquilar (arrendar, tomar en arriendo) - kira kape  
 alquiler (arriendo) - kira  
@@ -154,8 +154,8 @@ ambiguo - poli mana di
 americano - Amerika di  
 americio - amerikium  
 amhara - Amara  
-amigo - doste  
-amistad (compañerismo) - dostia  
+amigo - dosti  
+amistad (compañerismo) - dosti ta  
 amoldarse - kon forma  
 amor - ai  
 amperio - amper  
@@ -195,7 +195,7 @@ antimonio - estibium
 antorcha - foto baton  
 antónimo - an nam  
 análisis (disección) - fen gata  
-análisis de datos - datofenkate  
+análisis de datos - data fen gata  
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
 apartarse (desviarse) - rute galta  
@@ -203,7 +203,7 @@ apellido - famili name
 aplicación - aplika  
 aprender (estudiar) - fa shula  
 apropriado (apto, oportuno) - hapu  
-aproximadamente - yagu  
+aproximadamente - yaki  
 apuntar (indicar) - ponte  
 apuntar - fa dika  
 Arabia Saudita - Saudi Arabia  
@@ -229,7 +229,7 @@ argón - argon
 aritmética (cálculos) - hisabu shutu  
 arma - arme  
 arma nuclear - kerne arme  
-armadura - defkaske  
+armadura - defa kaske  
 armario - almari  
 Armenia - Hayaki  
 armonioso - harmoni  
@@ -340,7 +340,7 @@ baloncesto (básquetbol) - baske bol
 bambú - bambu  
 banco (silla) - benchi  
 banco - banka kan  
-banco de datos (base de datos) - datobanke  
+banco de datos (base de datos) - data banka  
 banda (cinta) - bande  
 banda - banda  
 bandera - bandera  
@@ -398,13 +398,13 @@ bicicleta - sikle
 bien (aceptable) - oke  
 bienestar - salam ta  
 bienvenido - salam lai  
-bilingüe - dulbashi  
+bilingüe - du basha di  
 billete de ida y vuelta - retro tikete  
 biología - bio logi  
 bioma - bio sistem  
-birromántico - dulromansi  
+birromántico - du romanse di  
 bisagra (gozne) - sharnir  
-bisexual - dulseksi  
+bisexual - du sekse di  
 bismuto - bismute  
 blanco - baku  
 blando (mullido) - komal  
@@ -533,7 +533,7 @@ camino (calle) - dau
 camisa - kamisa  
 camote (batata) - kamote  
 campamento - kampe  
-campana (cencerro) - danger  
+campana (cencerro) - dang gi  
 campeón - champion  
 campista - kampe ja  
 campo - nong istan  
@@ -581,7 +581,7 @@ carne de vaca - mumu nama
 carnear (matar) - bucha  
 carnicero - bucha ja  
 carpa (toldo) - hema  
-carpeta - dokum sanduku  
+carpeta - dokumen sanduku  
 carpintero - moka jang ja  
 carrera - pei gung jiu  
 carta (mapa, tabla, gráfico) - metre grafi  
@@ -859,7 +859,7 @@ costumbre (tradición, convención) - suna
 costura (sutura) - sutur  
 cota de malla - sili nete  
 crecemiento - raste  
-crecer (aumentar) - dayu  
+crecer (aumentar) - be dai  
 crecer - be raste  
 creencia (fe) - shin  
 creer - fa shin  
@@ -884,7 +884,7 @@ Croacia - Horvati
 crocodilio - krokodil  
 cromo - jama karde  
 cromo - kromium  
-cronómetro - durmetrer  
+cronómetro - dura metre gi  
 cruasán - kruasan  
 crucificar - fa krus fikse  
 crudo - jene di  
@@ -894,7 +894,7 @@ cruzar - be krus
 cráneo (calavera) - sar oste  
 crítico (fundamental) - krizi  
 crítico - piping ja  
-crónico - duri  
+crónico - dura di  
 cuaderno (libreta) - note buku  
 cuadro - chatre gona  
 cualidad (atributo, descripción) - sifa  
@@ -903,7 +903,7 @@ cuatro (4) - chatre
 Cuba - Kuba  
 cubierto de hielo - ais di  
 cubo - kube  
-cubrir (tapar) - daka  
+cubrir (tapar) - fa daka  
 cuchara - chamache  
 cuchillo - chaku  
 cuenta (factura) - fatura  
@@ -917,7 +917,7 @@ cuesta (inclinación, pendiente, predisposición, tender) - klin
 cueva (caverna) - gua  
 culombio - kulombe  
 culpa (defecto, crimen) - dosha  
-culpable - doshi  
+culpable - dosha di  
 cultivar - nong  
 cultura - kultur  
 cumpleaños - jene den  
@@ -954,8 +954,8 @@ dar - dona
 dar a luz (enngendrar, parir, procrear) - fa jene  
 darmstatio - darmesitadium  
 darse cuenta (notar) - fa budi  
-darwinismo - darvinistia  
-darwinista - darviniste  
+darwinismo - darvin sim  
+darwinista - darvin sim ja  
 datos - data  
 dañado - avar di  
 dañar - fa avar  
@@ -979,8 +979,8 @@ dedicar - sata dona
 dedo - angul  
 defecar - kaka  
 defender - defa  
-defensa - def  
-defensor - defer  
+defensa - defa  
+defensor - defa ja  
 definir - fa sifa  
 degradar - dus darja  
 dejar - lashe  
@@ -991,12 +991,12 @@ demasiado - mas ka basa
 demasiado poco - min ka basa  
 demencia (locura) - foli ta  
 demente (loco, insensato) - foli  
-democracia - demokrati  
+democracia - demo krati  
 democrático - demo krati di  
 demografía - demo grafi  
 demonio - demon  
-demócrata - demokratiste  
-dentista (odontólogo) - dantomediker  
+demócrata - demo krati ja  
+dentista (odontólogo) - dante dava ja  
 dentro - pa in  
 deporte - esporte  
 deportista - esporte ja  
@@ -1009,7 +1009,7 @@ derechos humanos - insan haki
 derretirse - yong  
 derrota - bai  
 desacuerdo - alo rai  
-desarrollo - darjomute  
+desarrollo - darja mute  
 desatascar - an tapa  
 desayuno - suba yam  
 descanso (alivio) - shanti  
@@ -1077,46 +1077,46 @@ dividir (repartir) - fa fen
 divino - deu di  
 dióxido de carbono - karbon duokside  
 Dniéster - Nistre  
-doblar (multiplicar por dos) - dulo multa  
-doble sentido - dulmeni  
+doblar (multiplicar por dos) - fa multi do du  
+doble sentido - du mana di  
 docente (enseñante, profesor, maestro) - giau ja  
 doctor (médico) - dava ja  
 doctor - dotor  
-doctorado - dotoria  
-documental - dokumfilme  
-documento (archivo, nota) - dokum  
+doctorado - dotor ta  
+documental - dokumen filme  
+documento (archivo, nota) - dokumen  
 dolar - dolar  
 doler (hacer daño) - fa pasi  
 dolor (sufrimiento) - pasi  
 doloroso - pasi di  
-domar (amansar) - dosila  
-domesticado - dosiljeni  
-domesticar (cultivate) - dosiljenita  
+domar (amansar) - fa dosil  
+domesticado - dosil jene di  
+domesticar (cultivate) - fa dosil jene  
 dominar - fa mestre  
 domingo - var sete  
 Dominica - Dominika  
 dominio (reinado) - krati  
-dominó - dominogem  
-doméstico (domesticado) - domi  
+dominó - domino gem  
+doméstico (domesticado) - dom di  
 dormir - be sona  
 dormitorio - sona kamar  
 dos (2) - du  
-dos veces - dulmaro  
+dos veces - du mar  
 dotes (arte, habilidad) - shutu  
 dragón - lung  
-drama - drame  
+drama - drama  
 droga (narcótico) - droge  
-dualismo - dulistia  
+dualismo - du she sim  
 dubnio - dubnium  
 ducha - dush  
 duda - dute  
 dueño - mal ja  
-durable - durabli  
-duración - dur  
-durar (durante, llevar tiempo) - dura  
+durable - dura bil  
+duración - dura  
+durar (durante, llevar tiempo) - be dura  
 duro - gati  
 dátil - tamar  
-débil - debili  
+débil - debil  
 día (24 horas) - den  
 día - dia  
 día de San Juan - Yohan festa  
@@ -1162,8 +1162,8 @@ elogio - eu loga
 elástico (flexible) - elasti  
 eléctrico - eletro di  
 email (correo electrónico) - eletro posta (e-posta)  
-embajada - dayanjilkan  
-embajador - dayanjiler  
+embajada - dai anjil kan  
+embajador - dai anjil ja  
 embalar (llevar) - fa pake  
 embarazado (preñado) - hamil  
 embarrado (enlodado) - fan di  
@@ -1224,9 +1224,9 @@ equilibrado (par) - par jan
 equilibrio - par veze ta  
 equipaje - bagaje  
 equipo - tim  
-era (periodo, época) - durzam  
+era (periodo, época) - dura zaman  
 erbio - erbium  
-erguido - libu di  
+erguido - lipa di  
 erigir (montar, armar) - fa libu  
 Eris (planeta enano) - Eris  
 Eritrea - Eritra  
@@ -1249,7 +1249,7 @@ Escocia - Eskote
 escribir - kitabu  
 escritorio (mesa de trabajo) - gung meza  
 escuchar (oír) - fa ore  
-escudo - defban  
+escudo - defa ban  
 escuela (colegio, institución) - shula kan  
 escuela primaria - baze shula kan  
 escuela secundaria - jung shula kan  
@@ -1292,9 +1292,9 @@ estadio (arena) - estadi
 estado (condición) - hal  
 Estados Unidos de América - Unta Desh Da Amerika (UDA)  
 estadounidense - UDA di  
-estante (repisa) - libu ban  
+estante (repisa) - lipa ban  
 estar al lado de - pa late  
-estar de pie - libu  
+estar de pie - lipa  
 estar en contra - kontra  
 estaño - estan  
 estimar (apriximarse a) - fa yagu  
@@ -1497,7 +1497,7 @@ general (common) - putong
 generalísimo (sogún) - gun raja  
 generar (añadir, realizar) - zai fa  
 generosidad (caridad) - karim  
-generoso (dadivoso) - donivi  
+generoso (dadivoso) - dona tabi  
 generoso (dadivoso, caritativo) - karim di  
 gengibre - zinji  
 genial - kul  
@@ -1521,7 +1521,7 @@ ginseng - jenshen
 girar (rotar) - rota  
 girasol - sol hua  
 global (de todo el mundo) - pan dunia di  
-global (mundial) - duni  
+global (mundial) - dunia di  
 globo - balon  
 gluten - gluten  
 GM####S - vijin  
@@ -1534,7 +1534,7 @@ goma arábiga - arabi babul
 goniómetro (medidor de ángulos) - gona metre gi  
 gorila - gorila  
 gorila occidental - veste gorila  
-gorila oriental - dongogoril  
+gorila oriental - dong gorila  
 gota - giota  
 grabado (sello, estampando) - chape  
 gracias - shukra  
@@ -1545,7 +1545,7 @@ gramo (g) - gram
 gramática - basha kanun  
 Granada - Grenada  
 Granadinas - Grenadin nesia  
-grande - dayi  
+grande - dai  
 granito - granite  
 granjero (agricultor) - nong ja  
 grasa - futa  
@@ -1566,7 +1566,7 @@ Guadalupe - Guadelupe
 Guam - Guam  
 guapo (bien parecido) - bon vide di  
 guarda (preservador, conservador) - hafiza ja  
-guarda-barros (aleta) - fan def ban  
+guarda-barros (aleta) - fan defa ban  
 Guatemala - Guatemala  
 guau (vaya) - va  
 Guernesey - Gernezi  
@@ -1795,7 +1795,7 @@ interétnica - zuku medi di
 introvertido - in verse jan  
 invernal - leng mosim di  
 invierno - leng mosim  
-invitado (visita) - kegu ja  
+invitado (visita) - keka ja  
 invitar - ching lai  
 inyección - jusha  
 inyectar - jusha  
@@ -1860,7 +1860,7 @@ joven - joven jan
 judaísmo - yehudi din  
 judío - yehudi  
 juego - gem  
-juego de mazmorras - donjon aventur  
+juego de mazmorras - donjon ventur  
 juego de mesa - ban gem  
 jueves - var chatre  
 juez (árbitro, réferi) - jude ja  
@@ -1930,14 +1930,14 @@ leche - milke
 leche de soja - soi milke  
 lecho de roca - baze petra  
 lechuga - letis  
-leer - dugu  
+leer - duku  
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele di  
 lejos - do long  
 lengua (idioma, hablar, comunicación) - basha  
 lengua - lisan  
 lengua materna - jene basha  
-lengua mundial - dunia bash  
+lengua mundial - dunia basha  
 lente - lense  
 lento (despacio) - lente  
 Lesoto - Soto  
@@ -2001,7 +2001,7 @@ llave - chabe
 llenar - fa pul  
 lleno (completo) - pul  
 llevar (verstirse) - fuku  
-llorar - duku  
+llorar - be duka  
 llorar - uhu  
 llover -   
 lluvia - shava  
@@ -2069,7 +2069,7 @@ Malaui - Malavi
 malayali (malabar, malayalam) - malayali  
 malayo - malayu  
 maldición - lana  
-Maldivas - Divehia  
+Maldivas - Divehi  
 maleable - plasti di  
 malgache - madagasi di  
 Mali - Mali  
@@ -2086,7 +2086,7 @@ mangosta - mungus
 mangostán (jobo de la India) - mangus  
 maniqueísmo - mani din  
 mano - hande  
-manso (dócil, obediente) - dosili  
+manso (dócil, obediente) - dosil  
 mantel - meza tela  
 mantequilla - makan  
 mantra - mantra  
@@ -2269,12 +2269,12 @@ monóculo - un oko di lense
 monólogo - auto loga  
 morado (púrpura) - violeta blu  
 moral (moro) - tuta  
-moral (ético) - deku di  
-moralidad (ética) - deku  
+moral (ético) - moral di  
+moralidad (ética) - moral  
 morder - fa dante  
 morfema - forma so  
 morirse - be mata  
-mosco - domzeze  
+mosco - dom zeze  
 moscovio - moskovium  
 mosquete - muskete  
 mosquetero - muskete ja  
@@ -2292,6 +2292,7 @@ mueca - grimas
 muela - mol sheku  
 muerte (fallecimiento) - mata  
 muerto - mata di  
+muesli - musli  
 mujer (hembra) - fem  
 mujer (señora) - matur fem  
 mula - iha uma  
@@ -2486,7 +2487,7 @@ orfanato - yatim dom
 organismo (ser vivo) - bio vute  
 organizar (gestionar) - fa nomi  
 orgasmo - orgazme  
-oriental - dongi  
+oriental - dong di  
 origen - asal  
 original - asal di  
 orilla - hai kinar  
@@ -2586,7 +2587,7 @@ parámetro - param
 pasa (uva pasa) - gan putau  
 pasado - chen zaman  
 pasaporte - pasporte  
-pasar (transcurrir) - durita  
+pasar (transcurrir) - fa dura  
 pasar - pas  
 pasatiempo (hobby, afición) - hobi  
 pascal (Pa) - paskal  
@@ -2631,12 +2632,12 @@ peligroso - hatar di
 pelo - kesha  
 película (film, membrana) - filme  
 película (filme) - kino grafi  
-pena (tristeza) - duke  
+pena (tristeza) - duka ta  
 pene - penis  
 pensar - fikir  
 pentaedro - penta fase  
 pentágono - penta gona  
-península - yagu nes  
+península - yaki nes  
 peonía - mudan  
 pepinillo - achar hiyar  
 pepino - hiyar  
@@ -2950,7 +2951,7 @@ recto - orto
 red - nete  
 redes sociales - sosi medi gi  
 redondo (circular) - gola di  
-reducir a la mitad (dividir en dos) - dulo fena  
+reducir a la mitad (dividir en dos) - fa fen do du  
 reflejar - mira  
 refuerzos - mas gun  
 regalo (obsequio) - dona she  
@@ -3027,7 +3028,7 @@ riñon - nefre
 robar (hurtar) - chora  
 roble - baluta  
 roble común - europe baluta  
-roble daimyo - dante balute  
+roble daimyo - dante baluta  
 robo (hurto) - chor  
 robot (bot) - robote  
 roca (piedra) - petra  
@@ -3194,7 +3195,7 @@ silla - kursi
 simetría (simétrico) - sam metre  
 similar - sam sifa di  
 simple - simple  
-simpático (amable, tierno, dulce) - dosti  
+simpático (amable, tierno, dulce) - dosti di  
 simular - fa sam sifa  
 sin - na  
 Singapur - Singapur  
@@ -3232,7 +3233,7 @@ sonar - fa soni
 sonido (audio) - soni  
 sopa - supa  
 soplar (echar) - hava  
-soporte (perchero, atril) - libu baze  
+soporte (perchero, atril) - lipa baze  
 sorpresa - supriza  
 soñoliento (somnífero) - sona tabi  
 sranan tongo - surinam basha  
@@ -3245,7 +3246,7 @@ subestimar - fa min rai
 subir (alzar) - be gau  
 subterráneo - geo niche di  
 sucio (corrompido) - najis di  
-sucio - darti  
+sucio - darte di  
 Sudamérica - Sude Amerika  
 sudor - sueda  
 sudoroso (sudado) - sueda di  
@@ -3289,7 +3290,7 @@ sólido - gati mate
 ####T - T  
 tabaco - tabaku  
 tabla (lámina, plancha) - table  
-tabla - datotable  
+tabla - data table  
 tabla con pinza (carpeta con sujetapapeles) - pinse ban  
 tablet - table komputa  
 tablón - moka ban  
@@ -3301,7 +3302,7 @@ Taiwán - Taivan
 taladrar (perforar) - fora  
 talio - talium  
 tallo - tana  
-tamaño - dayia  
+tamaño - dai ta  
 tambor - guma  
 tamil - Tamil  
 Tanaj (Biblia hebrea) - tanah  
@@ -3309,7 +3310,7 @@ tanque (cisterna) - tanke
 Tanzania - Tanzania  
 taoísmo - dau din  
 taoísta - dau din ja  
-tapa (funda, cubierta) - dake  
+tapa (funda, cubierta) - daka  
 taponar - fa tapa  
 tapón (tapa) - tapa  
 tarde (después de mediodía) - sham dia  
@@ -3435,7 +3436,7 @@ tragar - gulu
 trampa - kape truke  
 trampilla - pade mun  
 tranquilo (calmado) - shanti di  
-transcurrir - duru  
+transcurrir - si dura  
 transitar (atravesar) - fa transe  
 Transnistria (Cisdniéster) - Transe Nistre Desha  
 trasero (nalgas) - pigu  
@@ -3446,7 +3447,7 @@ tribu - tribu
 tridente - tri zong  
 trigo - ganum  
 Trinidad y Tobago - Trinidade e Tobago  
-triste - duki  
+triste - duka  
 triángulo - tri gona  
 trompo - rota van gi  
 trucha arcoíris - rang arka salmon  
@@ -3598,10 +3599,10 @@ virus - virus
 visado - viza  
 Vishnú - Vishnu  
 visitar - fa kegu  
-visitar - kegu  
+visitar - keka  
 vista (visión) - vide she  
 viudo - vidou  
-vivir (residir) - doma  
+vivir (residir) - be dom  
 vivo (lleno de vida) - jiu  
 viñedo - putau bagi  
 vocabulario (léxico) - loga jama  
@@ -3635,6 +3636,7 @@ yo - mi
 yodo (iodo) - iode  
 yoga - yoga  
 yogui - yoga ja  
+yogur - yogur  
 yuca (mandioca) - manioka  
 yudo - judau  
 yugo - yogo  
@@ -3673,7 +3675,7 @@ zulú - Zulu
 átomo - atom  
 él o ella - ya  
 éste - dong  
-ética (filosofía moral) - deku logi  
+ética (filosofía moral) - moral logi  
 étnico - zuku di  
 índice de contenidos - in liste  
 ósmosis - osmos  

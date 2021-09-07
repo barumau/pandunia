@@ -64,6 +64,7 @@ amande - badam
 amateur - hobi ja  
 amer - kali guste  
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
+amie - dosti  
 amiral - hai amir ja  
 amour (affection) - ai  
 amoureux - ai ja  
@@ -100,7 +101,7 @@ application - aplika
 appliquer - aplika  
 apporter - fa lai  
 apprendre (étudier) - fa shula  
-apprivoiser (dresser, dompter, discipliner) - dosila  
+apprivoiser (dresser, dompter, discipliner) - fa dosil  
 approprié (adapté, convenable, opportun) - hapu  
 arabe - arabi  
 arachnophobie - arane fobi  
@@ -123,7 +124,7 @@ argon - argon
 argument - argum  
 argument - tese  
 arme - arme  
-armure - defkaske  
+armure - defa kaske  
 armée - gun  
 armée de l'ai - air gun  
 arobase (@) - adres zi  
@@ -205,7 +206,7 @@ bas - tal
 bas - tal di  
 base (alcali) - kali  
 base - baze  
-base de données - datobanke  
+base de données - data banka  
 baseball - baze bol  
 basique - kali  
 basketball - baske bol  
@@ -223,7 +224,7 @@ bibliothèque - kitabu kan
 bicyclette - sikle  
 bidonville - harabu mahala  
 bien-être - salam ta  
-bilingue - dulbashi  
+bilingue - du basha di  
 billet - tikete  
 biologie - bio logi  
 biome - bio sistem  
@@ -241,7 +242,7 @@ bord - kinar
 botanique - fito logi  
 botte - buta  
 boucher - bucha ja  
-bouclire - defban  
+bouclire - defa ban  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - fan  
 bouh! - bu!  
@@ -353,8 +354,8 @@ Chine - Junguo
 chocolat - choklate  
 chose - she  
 Christ (messie) - mesi  
-chronique - duri  
-chronomètre - durmetrer  
+chronique - dura di  
+chronomètre - dura metre gi  
 chu - pade di  
 chéri - ai jen  
 chêne - baluta  
@@ -371,7 +372,7 @@ clair - klar
 classique (canon) - kanon  
 clef - chabe  
 client - klien  
-cloche - danger  
+cloche - dang gi  
 coeur - kerne  
 collaborer - kon gung  
 coller - fa glu  
@@ -425,7 +426,7 @@ courir - kore
 couronne - korona  
 cousin - chin brus ben  
 coutume - ada  
-couvrir - daka  
+couvrir - fa daka  
 crabe - krabe  
 craindre (avoir peur) - be fobi  
 cravache - uma bichi  
@@ -482,12 +483,12 @@ disque - diske
 distinct - alo fen di  
 diverger (ne pas être d'accord) - alo rai  
 divers (plusieurs) - vari  
-docile (insipide) - dosili  
-document (dossier) - dokum  
-documentaire - dokumfilme  
-domestique - domi  
-domestiquer (apprivoiser) - dosiljenita  
-domestiqué (apprivoisé) - dosiljeni  
+docile (insipide) - dosil  
+document (dossier) - dokumen  
+documentaire - dokumen filme  
+domestique - dom di  
+domestiquer (apprivoiser) - fa dosil jene  
+domestiqué (apprivoisé) - dosil jene di  
 dommage - avar  
 donner naissance (procréer, engendrer, accoucher) - fa jene  
 données - data  
@@ -498,8 +499,8 @@ droit (rectiligne) - orto
 droit - haki  
 droits de l'homme - insan haki  
 dur - gati  
-durer - dura  
-durée - dur  
+durer - be dura  
+durée - dura  
 dynamite - dinamite  
 dé - zar kube  
 déboguer (débugger) - fa an galta  
@@ -512,7 +513,7 @@ défigurer - fa dus forma
 désaccord (différend) - alo rai  
 désespéré - asha na di  
 dévanagari - deu nagar zi  
-développement - darjomute  
+développement - darja mute  
 ####E - E  
 east (orient) - dong  
 eau - sui  
@@ -565,7 +566,7 @@ fable - zou kata
 face (facette) - fase  
 facile - fasil  
 faction (clique) - shia  
-faible - debili  
+faible - debil  
 faible - mirde  
 faim - yam yau  
 faire - fa  
@@ -620,7 +621,7 @@ féliciter - barka
 ####G - G  
 galaxie - galaksi  
 galop - galope  
-garde-boue (aile) - fan def ban  
+garde-boue (aile) - fan defa ban  
 Gaule - Galia  
 gaz - gas  
 gaz lacrymogène - oko sui gas  
@@ -659,7 +660,7 @@ gâteau de lune - luna keke
 génotype - jene tipe  
 généalogie - jene logi  
 généralissime - gun raja  
-généreux - donivi  
+généreux - dona tabi  
 généreux - karim di  
 générosité (charité) - karim  
 géologie - geo logi  
@@ -805,7 +806,7 @@ ligne téléphonique - tele fon lin
 ligue (alliance) - liga  
 lilas - lila  
 lime (citron vert) - kaguji limon  
-lire - dugu  
+lire - duku  
 liste - liste  
 litre - litre  
 littérature - kitabu shutu  
@@ -907,7 +908,7 @@ morue du Pacifique - pase hai kade
 mot - loga so  
 mot de passe - pas loga  
 moteur - moto  
-mouche - domzeze  
+mouche - dom zeze  
 moudre - fa mol  
 mouiller - fa shipi  
 mouillé - shipi  
@@ -919,6 +920,7 @@ mouvoir (bouger) - fa kino
 mule - iha uma  
 mur - mur  
 musique - muzika  
+musli - musli  
 mycélium - fungu nete  
 mythe - deu kata  
 mât - masta  
@@ -1054,7 +1056,7 @@ parole (mots) - loga
 parti - kite  
 passe (passage) - pas dau  
 passeport - pasporte  
-passer - durita  
+passer - fa dura  
 passer - pas  
 pastèque - arbuza  
 pathologie - pati logi  
@@ -1290,7 +1292,7 @@ scutelle - oste shalke
 se - se  
 se baigner - banya  
 se mouvoir - be kino  
-se passer - duru  
+se passer - si dura  
 se plaire - be suka  
 se rappeler (se remémorer) - fa memo  
 seau - baldi  
@@ -1347,7 +1349,7 @@ séminal - seme di
 sénateur - supra vakil ja  
 série - sili  
 sûr - sekur  
-s’accroupir - libu side  
+s’accroupir - lipa side  
 ####T - T  
 table - meza  
 tableau (panneau) - ban  
@@ -1470,7 +1472,7 @@ viser - fa dika
 Vishnou - Vishnu  
 vite (rapide) - rapide  
 vivant - jiu  
-vivre (habiter) - doma  
+vivre (habiter) - be dom  
 vocabulaire (lexique) - loga jama  
 voile - hijabu  
 voir - vide  
@@ -1493,6 +1495,7 @@ wolof - Volof
 ####Y - Y  
 y compris - in klus  
 Yahweh (Jéhovah) - Yahve  
+yaourt (yogourt) - yogur  
 Yi King - yeka kanon  
 ####Z - Z  
 zen - jen buda din  
@@ -1542,7 +1545,7 @@ zèbre - zebra
 épée - katana  
 équilibre - par veze ta  
 équipe - tim  
-étagère - libu ban  
+étagère - lipa ban  
 étain - estan  
 état - hal  
 éternuer (atchoum) - achi  

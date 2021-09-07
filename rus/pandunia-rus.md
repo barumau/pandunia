@@ -138,6 +138,7 @@ baze shula kan - семилетка
 be bio mute - заквасить  
 be bum - взрываться  
 be bum - взрываться  
+be dura - длиться  
 be fatige - устать  
 be fobi - бояться (страшиться)  
 be in bum - взрываться вовнутрь  
@@ -244,16 +245,16 @@ dai pote - котёл
 dai sheku - валун  
 daku - получить  
 dalil - доказательство  
-danga - звенеть  
-danger - звонок  
+dang - звенеть  
+dang gi - звонок  
 danse - танец  
 Danske - датский  
-dante balute - дуб зубчатый  
+dante baluta - дуб зубчатый  
 dante na di - беззубый  
 dara tubo - воронка  
-darjomute - развитие  
+darja mute - развитие  
 data - данные  
-datobanke - база данных  
+data banka - база данных  
 dau ban - табличка с названием улицы  
 dava - лечить  
 dava ja - врач (медик, лекарь, доктор)  
@@ -261,8 +262,8 @@ dava she - лекарство
 dava she kan - аптека  
 dava she logi - фармакология  
 dava sui - зелье  
-defban - щит  
-defkaske - доспехи  
+defa ban - щит  
+defa kaske - доспехи  
 den - день (сутки)  
 den loge - дневник  
 deu - бог  
@@ -283,30 +284,28 @@ diske - диск
 do long - далеко  
 do misal - например  
 dobe - кирпич  
-dokum - документ  
-dokumfilme - документальный фильм  
+dokumen - документ  
+dokumen filme - документальный фильм  
 dolfin - дельфин  
-domi - домашний  
+dom di - домашний  
+dom zeze - муха  
 Dominika Komunkrati - Доминиканская Республика  
-domzeze - муха  
+dona tabi - щедрый  
 dong - восток (ост)  
-dongogoril - восточная горилла  
-donivi - щедрый  
-dosila - укрощать (приручить)  
-dosili - кроткий  
-dosiljenita - одомашнивать  
-dosti - приятный (добрый)  
+dong gorila - восточная горилла  
+dosil - кроткий  
+dosti - друг (приятель)  
+dosti di - приятный (добрый)  
 du - два (2)  
+du basha di - двуязычный  
+du o tri - пара  
 dudu - насекомое  
-dugu - читать  
-dulbashi - двуязычный  
-duli o sani - пара  
+duku - читать  
 dunia - мир (свет)  
-dura - длиться  
-durabli - долговечный  
-duri - хронический  
-durmetrer - секундомер  
-durzam - период (эпоха)  
+dura bil - долговечный  
+dura di - хронический  
+dura metre gi - секундомер  
+dura zaman - период (эпоха)  
 dus jan - враг (противник)  
 dus sin di - зловещий  
 dus vide - безобразный (некрасивый)  
@@ -345,6 +344,8 @@ fa - делать
 fa bina - строить  
 fa dante - откусить  
 fa dika - целиться  
+fa dosil - укрощать (приручить)  
+fa dosil jene - одомашнивать  
 fa dus forma - уродовать  
 fa ekso - выгнать (исключить, кроме)  
 fa ekso klus - исключить  
@@ -755,8 +756,6 @@ lense - линза
 letis - салат-латук  
 liama - лама  
 libele - стрекоза  
-libu ban - полка  
-libu side - сесть на корточки  
 lida ja - руководитель (лидер)  
 liga - лига (союз)  
 liga di sanduku - ковчег завета  
@@ -770,6 +769,8 @@ lin - линия (нитка)
 lin so - волокно  
 linke - связь (ссылка)  
 linse - рысь  
+lipa ban - полка  
+lipa side - сесть на корточки  
 lisan - язык  
 liste - список  
 litre - литр  
@@ -895,6 +896,7 @@ mur kaguji - обои
 murche - муравей  
 mushu - мышь  
 muskul bina - культуризм  
+musli - мюсли  
 muzika - музика  
 ####N - N  
 nadir - редкий  
@@ -1390,6 +1392,7 @@ Yesu - Иисус
 Yesu mesi - Иисус Христос  
 yoga - йога  
 yogo - ярмо (иго)  
+yogur - йогурт  
 Yohan festa - Иванов день  
 yumor - юмор  
 ####Z - Z  
