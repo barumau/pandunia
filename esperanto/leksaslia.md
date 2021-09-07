@@ -96,7 +96,7 @@
 |**be raste**|kreski|franca:croîter, rusa:выраста́ть (vyrastat’), bel:расці́ (rascí), persa:رستن‎ (rostan)|
 |**be supra**|superiri|angla:super, hispana:portugala:sobre, itala:sopra|
 |**bebe**|bebo|franca:bébé, portugala:bebê, hispana:bebé, turka:bebek, angla:baby, kantona:BB (bibi)|
-|**bede**|lito|angla:bed, deu:Bett, japana:ベッド (beddo), zulua:umbhede|
+|**bede**|lito|angla:bed, japana:ベッド (beddo), deu:Bett, konga:mbeto, sna:mubhedha, zulua:umbhede|
 |**bedinjan**|melongeno|hindia:बैंगन (bEngān), araba:(bādinjān), portugala:berinjela, franca:aubergine, hispana:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), turka:badincan, patlıcan, rusa:баклажан (baklažan), svahila:mbilingani|
 |**bega**|fuĝi|rusa:убегать (ubegat'), hindia:भागना (bhāgnā)|
 |**bele**|fosilo (ŝovelilo)|persa: بیل‎ (bil), turka:bel, hindia:बेलचा (belcā), bengala:বেলচা (bēlacā), svahila:beleshi + franca:pelle, kmera:ប៉ែល (pael)|
@@ -520,6 +520,7 @@
 |**lai**|veni|mandarena:来 (lái), kantona:嚟 (lai4), japana:来 (rai), vjetnama:lại|
 |**laji**|rubo|mandarena:垃圾 (lājī)|
 |**lal**|ruĝa|hindia:लाल (lāl), bengala:লাল (lal), turka:al|
+|**lala**|luli|angla:lull, polona:lulać, persa: لالا کردن‎ (lâlâ kardan) + japana:ララバイ (rarabai), filipina:lalay + svahila:-lala|
 |**lampa**|lampo|angla:lamp, deu:franca:lampe, hispana:lámpara, portugala:lâmpada, rusa:лампа (lampa), araba: لمبة‎(lamba), japana:ランプ (ranpu), korea:램프 (raempeu), hindia:लैंप (laimp), bengala:ল্যাম্প (lyamp), malaja:lampu, turka:lamba|
 |**lanse**|ĵeti (lanĉi)|angla:launch, itala:lanciare, portugala:lançar, franca:lancer, hispana:lanzar, deu:lancieren|
 |**lasun**|ajlo|hindia:लहसुन (lahsun), bengala:রসুন (rôśun), mandarena:大蒜 (dàsuàn)|

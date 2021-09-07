@@ -139,6 +139,7 @@ be pute - apodrecer-se
 be retro - voltar (regressar)  
 be sona - dormir  
 bebe - bebê  
+bede - cama (leito)  
 bedinjan - beringela  
 bele - pá  
 ben - filho ou filha  
@@ -199,6 +200,7 @@ charme - charme
 chati - telhado  
 chatre - quatro (4)  
 chendeno - ontem  
+cheng bede - beliche  
 cheniki - velho (antigo)  
 cheri - cereja  
 chili - cápsico  
@@ -579,6 +581,7 @@ kamil - camomila-vulgar
 kamisa - camisa  
 kamisa shaka - manga  
 kampe bagi - área de acampamento  
+kampe bede - cama portátil  
 kancha - vidro  
 kandi - bombom (doce)  
 kangaru - canguru  
@@ -682,6 +685,8 @@ laji tong - lixeira
 lal - vermelho  
 lal oranje - tangerina (mandarim)  
 lal salmon - salmão-vermelho  
+lala bede - berço  
+lala chante - canção de ninar  
 lama - lama  
 lampa - lâmpada (luminária)  
 lana - maldição  
@@ -1026,6 +1031,7 @@ riti - procedimento (rito)
 ritim - ritmo  
 rivo - rio  
 robote - robô  
+roke kursi - cadeira de balanço  
 roke muzika - rock  
 rokete lanse gi - lançador de foguetes  
 Roma - Roma  

@@ -1033,6 +1033,7 @@ kebab (grilliliha) - kababu nama
 kehitys - darja mute  
 keho (ruumis) - badan  
 kehonrakennus (bodaus) - muskul bina  
+kehto - lala bede  
 kehys (raamit) - frem  
 kehä (ottelualue) - ringar  
 keidas - vase  
@@ -1040,6 +1041,7 @@ keiju - pari
 keinotekoinen (teko-, keino-) - sana di  
 keinotekoinen kieli (tekokieli, keinokieli) - sana basha  
 keinuttaa (keikuttaa) - roke  
+keinutuoli (kiikkutuoli) - roke kursi  
 keisari - imperi ja  
 keisarikunta - imperi desha  
 keittiö - kuke kamar  
@@ -1059,12 +1061,14 @@ kenguru - kangaru
 Kenia - Kenya  
 kenkä - sapatu  
 kenttä (aukio) - meden  
+kenttävuode - kampe bede  
 keramiikka - pote shutu  
 kerho (klubi) - klube  
 kerma - krem  
 kermankeltainen - krem di  
 kerran - un mar  
 kerros - cheng  
+kerrossänky - cheng bede  
 kerta (vuoro) - mar  
 kertoa - fa kata  
 kertomus (tarina, saaga) - kata  
@@ -1672,7 +1676,7 @@ marathi (eräs intialainen kieli) - marati
 maratoni - maraton  
 margariini - margarin  
 marja - beri  
-markkinaliberalismi - bazarhuristia  
+markkinaliberalismi - bazar huru sim  
 marmori - kalse kristal  
 Marokko - Magribi desha  
 marraskuu - mes des un  
@@ -2216,6 +2220,7 @@ pilkku - koma
 pilvi - megi  
 pimeä (hämärä) - oskur  
 pingviini - pinguin  
+pinnasänky - bebe bede  
 pinta (tahko) - fase  
 pioni - mudan  
 pippuri - pipre  
@@ -3112,8 +3117,10 @@ turvallinen (varma) - sekur
 turve - turfa  
 tutkia (tarkastaa) - gencha  
 tutkielma - estude  
+tuudittaa - lala  
 tuuli (puhallus) - hava  
 tuulla (puhaltaa) - hava  
+tuutulaulu - lala chante  
 Tuvalu - Tuvalu  
 tyhjä - hali  
 tyhjö - hali  

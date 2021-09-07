@@ -520,7 +520,7 @@ califato - halifa desha
 californio - kalifornium  
 caliza - kalse petra  
 calvo - sar kesha na di  
-cama - bede  
+cama (lecho) - bede  
 camarón - krevete  
 cambiar (demudar) - ala  
 cambiar - mute  
@@ -542,6 +542,7 @@ Canadá - Kanada
 canal (cauce, acequia) - kanal  
 cancelar - fa siro  
 canción - chante  
+canción de cuna (nana) - lala chante  
 candela (unidad de intensidad luminosa) - kandela  
 canguro - kangaru  
 cannabis (hachís, marihuana) - ganja  
@@ -921,6 +922,7 @@ culpable - dosha di
 cultivar - nong  
 cultura - kultur  
 cumpleaños - jene den  
+cuna - lala bede  
 cupón (vale) - kupon  
 curar (sanar) - dava  
 curio - kurium  
@@ -1987,6 +1989,7 @@ lista - liste
 lista blanca - halal liste  
 lista negra - haram liste  
 listo (preparado) - redi  
+litera - cheng bede  
 literatura - kitabu shutu  
 litio - litium  
 litro - litre  
@@ -2146,6 +2149,7 @@ mañana (antes mediodía) - suba dia
 mañana - pos den  
 mañana - suba  
 mear - fa pish  
+mecedora - roke kursi  
 medallón - medal  
 medianoche - medi noche  
 medicamento (medicina, remedio, fármaco) - dava she  

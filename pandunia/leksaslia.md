@@ -155,7 +155,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**be supra**|eng:super, spa:por:sobre, ita:sopra|
 |**be’e**|eng:baa, por:bé, rus:бэ-бэ (be-be), pol:bee|
 |**bebe**|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|
-|**bede**|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
+|**bede**|eng:bed, jpn:ベッド (beddo), deu:Bett, kon:mbeto, sna:mubhedha, zul:umbhede|
 |**bedinjan**|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|
 |**bega**|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
 |**bele**|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|
@@ -762,6 +762,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**laji**|zho:垃圾 (lājī)|
 |**laka**|eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|
 |**lal**|hin:लाल (lāl), ben:লাল (lal), tur:al|
+|**lala**|eng:lull, pol:lulać, fas: لالا کردن‎ (lâlâ kardan) + jpn:ララバイ (rarabai), tgl:lalay + swa:-lala|
 |**lampa**|eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|
 |**lana**|ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|
 |**langan**|zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|

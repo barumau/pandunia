@@ -114,6 +114,8 @@ be ting - 止まる
 be turbe - 悩む (わざわざする)  
 be van - 遊ぶ  
 bebe - 赤ちゃん  
+bebe bede - ベビーベッド  
+bede - 寝床 (ベッド)  
 bele - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
 beri - 漿果 (ベリー )  
@@ -563,6 +565,7 @@ kamar - 部屋
 kamil - カモミール (カミツレ)  
 kamisa - シャツ  
 kamisa shaka - 袖  
+kampe bede - 折り畳み式ベッド  
 kan - 店 (館)  
 kancha - ガラス  
 kancha daka - 釉薬  
@@ -668,6 +671,8 @@ lal - 赤い
 lal linse - ボブキャット  
 lal oranje - ポンカン (マンダリン)  
 lal salmon - ベニザケ  
+lala bede - 揺り籠  
+lala chante - 子守歌 (ララバイ)  
 lama - ラマ (チベット仏教の上師)  
 lampa - ランプ  
 lana - 呪い (たたり)  
@@ -988,6 +993,7 @@ ringar - リング
 ris - 米 (ご飯)  
 ritim - リズム  
 rivo - 川  
+roke kursi - 揺り椅子  
 roke muzika - ロック  
 rokete lanse gi - ロケット発射器  
 Roma - ローマ  

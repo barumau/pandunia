@@ -116,7 +116,7 @@
 |**be supra**|sobrepasar|eng:super, spa:por:sobre, ita:sopra|
 |**be**|sufrir (verbo pasivo)|zho:被 (bèi), yue:被 (bei6), vie:bị + eng:be|
 |**bebe**|bebé|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|
-|**bede**|cama|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
+|**bede**|cama (lecho)|eng:bed, jpn:ベッド (beddo), deu:Bett, kon:mbeto, sna:mubhedha, zul:umbhede|
 |**bedinjan**|berenjena|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|
 |**bega**|escaparse (evitar, huir)|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
 |**bele**|pala|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|

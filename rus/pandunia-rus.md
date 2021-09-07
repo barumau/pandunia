@@ -154,6 +154,8 @@ be sona - спать
 be tele loka - телепортировать  
 be turbe - утруждай  
 bebe - младенец  
+bebe bede - детская кроватка  
+bede - кровать (койка)  
 bele - лопата  
 beri - ягода  
 bete - свёкла  
@@ -219,6 +221,7 @@ charme - шарм
 chati - крыша (кров)  
 chatre - четыре (4)  
 chendeno - вчера  
+cheng bede - двухъярусная кровать  
 cheniki - старый (древний)  
 cheno - раньше  
 cheri - черешня  
@@ -627,6 +630,7 @@ kamar - комната (камера)
 kamil - ромашка аптечная  
 kamisa - рубашка  
 kampe bagi - полевой стан  
+kampe bede - раскладушка  
 kanape - канапе  
 kancha - стекло  
 kancha daka - глазурь  
@@ -737,6 +741,8 @@ lal - красный
 lal linse - рыжая рысь  
 lal oranje - мандарин  
 lal salmon - нерка (красница)  
+lala bede - колыбель (люлька)  
+lala chante - колыбельная песня  
 lama - лама (религиозный учитель в тибетском буддизме)  
 lampa - лампа  
 lana - проклятие  
@@ -1091,6 +1097,7 @@ ritim - ритм (такт)
 rivo - река  
 robote - робот  
 roke - качать  
+roke kursi - кресло-качалка  
 roke muzika - рок  
 rokete lanse gi - ракетная установка  
 Roma - Рим  

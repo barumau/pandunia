@@ -140,9 +140,11 @@ bastante (suficiente) - basa
 baía - bai  
 bebê - bebe  
 beleza - sundar ta  
+beliche - cheng bede  
 belo (lindo) - sundar  
 bem-estar - salam ta  
 beringela - bedinjan  
+berço - lala bede  
 biblioteca - kitabu kan  
 bicho-papão - bubu  
 bigorna - metal bede  
@@ -179,6 +181,7 @@ búzio - kauri
 cabelo - sar kesha  
 cabeça - sar  
 cacto - katus  
+cadeira de balanço - roke kursi  
 cadáver - mata badan  
 cafeteira - kafe pote  
 café - kafe  
@@ -191,6 +194,8 @@ calendário - kalenda
 califa - halifa  
 calvo - sar kesha na di  
 calças - pante  
+cama (leito) - bede  
+cama portátil - kampe bede  
 camarão - krevete  
 camisa - kamisa  
 camomila-romana - roma kamil  
@@ -201,6 +206,7 @@ canhão (ravina, barranco) - kanyon
 canhǎo - dai pau  
 canoa - kano  
 Cantalupo in Sabina - Kantalupo va Sabina  
+canção de ninar - lala chante  
 capa - mantol  
 capa de chuva - shava kote  
 caractere - zi  

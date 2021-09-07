@@ -114,7 +114,7 @@
 |**be supra**|przekroczyć, przekraczać, przejść nad, iść nad|eng:super, spa:por:sobre, ita:sopra|
 |**be**|być poddanym, doświadczyć, doświadczać (ubierniający czasownik)|zho:被 (bèi), yue:被 (bei6), vie:bị + eng:be|
 |**bebe**|niemowlę|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|
-|**bede**|łóżko|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
+|**bede**|łóżko|eng:bed, jpn:ベッド (beddo), deu:Bett, kon:mbeto, sna:mubhedha, zul:umbhede|
 |**bedinjan**|bakłażan, oberżyna|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|
 |**bega**|uciec, uciekać|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
 |**bele**|łopata (szpadel)|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|
@@ -692,6 +692,7 @@
 |**laji**|śmieć, odpadek|zho:垃圾 (lājī)|
 |**laka**|lakier|eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|
 |**lal**|czerwony|hin:लाल (lāl), ben:লাল (lal), tur:al|
+|**lala**|lulać|eng:lull, pol:lulać, fas: لالا کردن‎ (lâlâ kardan) + jpn:ララバイ (rarabai), tgl:lalay + swa:-lala|
 |**lampa**|lampa|eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|
 |**lana**|przekleństwo (cholera!)|ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|
 |**langan**|poręcz (balustrada)|zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|

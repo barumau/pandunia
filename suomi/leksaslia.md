@@ -118,7 +118,7 @@
 |**be supra**|ylittää|englanti:super, espanja:portugali:sobre, italia:sopra|
 |**be**|läpikäydä (passiivin muodostava verbi)|yleiskiina:被 (bèi), kantoninkiina:被 (bei6), vietnami:bị + englanti:be|
 |**bebe**|vauva|ranska:bébé, portugali:bebê, espanja:bebé, turkki:bebek, englanti:baby, kantoninkiina:BB (bibi)|
-|**bede**|vuode (sänky, peti)|englanti:bed, deu:Bett, japani:ベッド (beddo), zulu:umbhede|
+|**bede**|vuode (sänky, peti)|englanti:bed, japani:ベッド (beddo), deu:Bett, Kongo:mbeto, sna:mubhedha, zulu:umbhede|
 |**bedinjan**|munakoiso|hindi:बैंगन (bEngān), arabia:(bādinjān), portugali:berinjela, ranska:aubergine, espanja:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), turkki:badincan, patlıcan, venäjä:баклажан (baklažan), suahili:mbilingani|
 |**bega**|paeta (karata)|venäjä:убегать (ubegat'), hindi:भागना (bhāgnā)|
 |**bele**|lapio|persia: بیل‎ (bil), turkki:bel, hindi:बेलचा (belcā), bangla:বেলচা (bēlacā), suahili:beleshi + ranska:pelle, khmer:ប៉ែល (pael)|
@@ -697,6 +697,7 @@
 |**laji**|roska|yleiskiina:垃圾 (lājī)|
 |**laka**|lakka|englanti:lacquer, espanja:portugali:laca, ranska:laque, venäjä:лак (lak), japani:ラッカー|
 |**lal**|punainen|hindi:लाल (lāl), bangla:লাল (lal), turkki:al|
+|**lala**|tuudittaa|englanti:lull, puola:lulać, persia: لالا کردن‎ (lâlâ kardan) + japani:ララバイ (rarabai), filippiini:lalay + suahili:-lala|
 |**lampa**|lamppu|englanti:lamp, deu:ranska:lampe, espanja:lámpara, portugali:lâmpada, venäjä:лампа (lampa), arabia: لمبة‎(lamba), japani:ランプ (ranpu), korea:램프 (raempeu), hindi:लैंप (laimp), bangla:ল্যাম্প (lyamp), malaiji:lampu, turkki:lamba|
 |**langan**|kaide (reelinki)|yleiskiina:栏杆 (lángān), japani:欄干 (rankan), korea:난간 (nan-gan)|
 |**lanse**|heittää (paiskata)|englanti:launch, italia:lanciare, portugali:lançar, ranska:lancer, espanja:lanzar, deu:lancieren|

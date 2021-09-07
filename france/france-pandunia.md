@@ -217,6 +217,8 @@ beau-père - gami baba
 beauté - sundar ta  
 belle-mère - gami mama  
 bengali - bangla basha  
+berceau - lala bede  
+berceause - lala chante  
 besoin - yauta  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukar bete  
@@ -321,6 +323,7 @@ Centaurée du solstice - sol sentaure
 centre - jung  
 cerise - cheri  
 chachlik - shish nama  
+chaise à bascule (berçante) - roke kursi  
 chambre à coucher - sona kamar  
 Champagne - shampan  
 champagne - shampan vin  
@@ -808,7 +811,10 @@ lilas - lila
 lime (citron vert) - kaguji limon  
 lire - duku  
 liste - liste  
+lit - bede  
+lit de camp - kampe bede  
 litre - litre  
+lits superposés - cheng bede  
 littérature - kitabu shutu  
 livre - buku  
 livre de bord - loge buku  

@@ -493,6 +493,7 @@ build (construct) - fa bina
 building (structure) - bina  
 Bulgaria - Bolgaria  
 bulletproof - dane sekur  
+bunk bed - cheng bede  
 burden (load, encumber) -   
 Burkina Faso - Burkina Faso  
 burn (be burned) - be hogo  
@@ -543,6 +544,7 @@ camel - gamel
 camera - foto grafi gi  
 Cameroon - Kamerun  
 camp - kampe  
+camp bed (cot) - kampe bede  
 camper - kampe ja  
 campground - kampe bagi  
 Canada - Kanada  
@@ -849,11 +851,13 @@ cowrie - kauri
 crab - krabe  
 crack (rift) - krake  
 cracker (soda cracker) - sal biskute  
+cradle - lala bede  
 crafty (dexterous) - jang di  
 crash (shut down, terminate) - be harabu  
 cream - krem  
 creamy (cream colored) - krem di  
 crepe - France krepe  
+crib - bebe bede  
 crime - krim  
 criminal - krim di  
 crisis - krizi  
@@ -2066,6 +2070,8 @@ lower (put down) - fa tal
 loyal (faithful, trustworthy) - amen bil  
 loyalty (faithfulness) - amen bilta  
 luggage (baggage) - bagaje  
+lull - lala  
+lullaby - lala chante  
 lunch - dia yam  
 lung - pulmon  
 lust (desire, libido, sexual passion) - kama  
@@ -2139,7 +2145,7 @@ maritime - hai di
 mark (leave a mark) - fa marke  
 mark (trace) - marke  
 market (bazaar) - bazar  
-market liberalism - bazarhuristia  
+market liberalism - bazar huru sim  
 marriage (matrimony) - gami  
 married - gami di  
 marry - fa gami  
@@ -3059,6 +3065,7 @@ rock - petra
 rock music - roke muzika  
 rocket - rokete  
 rocket launcher - rokete lanse gi  
+rocking chair - roke kursi  
 roentgenium - rengenium  
 role - rol  
 roll (scroll, coil) - rolo  

@@ -305,7 +305,7 @@ bau - treasure (valuables)
 bau di - precious  
 bau sheku - gem (gemstone, jewel)  
 bazar - market (bazaar)  
-bazarhuristia - market liberalism  
+bazar huru sim - market liberalism  
 baze - base (foundation)  
 baze bol - baseball  
 baze di - basic  
@@ -385,6 +385,7 @@ be yong liga - merge (fuse)
 be zai - appear  
 be’e - goat  
 bebe - baby (infant)  
+bebe bede - crib  
 bede - bed  
 bedinjan - eggplant (aubergine, brinjal)  
 bega - escape (flee, run away)  
@@ -554,6 +555,7 @@ chenaga - assume (presuppose)
 chendeno - yesterday  
 chenfikse - prefix  
 cheng - layer (level, storey, floor, stratum)  
+cheng bede - bunk bed  
 cheni - previous (fore)  
 chenike - relic  
 cheniki - old (ancient, former)  
@@ -1848,6 +1850,7 @@ kamisa shaka - sleeve
 kamote - sweet potato  
 kampe - camp  
 kampe bagi - campground  
+kampe bede - camp bed (cot)  
 kampe ja - camper  
 Kamri - Wales (Cambria)  
 kamri - Welsh  
@@ -2151,6 +2154,9 @@ lal - red
 lal linse - bobcat  
 lal oranje - mandarin orange (tangerine)  
 lal salmon - sockeye salmon  
+lala - lull  
+lala bede - cradle  
+lala chante - lullaby  
 lama - lama  
 lampa - lamp  
 lana - curse (damn!)  
@@ -3162,6 +3168,7 @@ rivo kinar - river bank
 robote - robot (bot)  
 rodium - rhodium  
 roke - rock (sway, tilt)  
+roke kursi - rocking chair  
 roke muzika - rock music  
 rokete - rocket  
 rokete lanse gi - rocket launcher  

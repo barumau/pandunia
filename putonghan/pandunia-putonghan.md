@@ -141,7 +141,9 @@ be retro - 返回 (回来)
 be sona - 睡觉 (困觉)  
 be van - 玩耍  
 be’e - 山羊  
-bebe - 宝宝  
+bebe - 宝宝 (娃娃)  
+bebe bede - 娃娃床  
+bede - 床  
 bele - 铲  
 beri - 浆果 (莓)  
 bete - 甜菜頭  
@@ -200,6 +202,7 @@ chati - 屋顶 (房顶)
 chatre - 四 (4)  
 chendeno - 昨日  
 cheng - 层  
+cheng bede - 双层床  
 cheniki - 古老 (以前)  
 cheno - 以前  
 chili - 菜椒  
@@ -664,6 +667,8 @@ lal - 红
 lal linse - 短尾貓  
 lal oranje - 柑橘 (红橘)  
 lal salmon - 紅鮭  
+lala bede - 摇篮  
+lala chante - 摇篮曲  
 lama - 喇嘛  
 lampa - 灯  
 lana - 诅咒  
@@ -980,6 +985,7 @@ ris vin - 黄酒 (米酒)
 riti - 方法  
 ritim - 节奏  
 rivo - 河 (江)  
+roke kursi - 摇椅  
 roke muzika - 摇滚乐  
 rokete lanse gi - 火箭筒  
 Roma - 罗马  

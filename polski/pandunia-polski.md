@@ -271,7 +271,7 @@ bau - skarb; skrabiec
 bau di - cenny  
 bau sheku - klejnot  
 bazar - rynek, bazar  
-bazarhuristia - liberalizm rynkowy  
+bazar huru sim - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
 baze bol - bejsbol (baseball)  
 baze di - bazowy, podstawowy  
@@ -336,6 +336,7 @@ be yong liga - łączyć (złączyć)
 be zai - pojawić się  
 be’e - koza  
 bebe - niemowlę  
+bebe bede - kojec  
 bede - łóżko  
 bedinjan - bakłażan, oberżyna  
 bega - uciec, uciekać  
@@ -1871,6 +1872,8 @@ lal - czerwony
 lal linse - ryś rudy  
 lal oranje - mandarynka  
 lal salmon - nerka (łosoś czerwony)  
+lala - lulać  
+lala bede - kołyska (kolebka)  
 lama - lama  
 lampa - lampa  
 lana - przekleństwo (cholera!)  

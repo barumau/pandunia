@@ -68,6 +68,7 @@
 |**baze**|base|eng:fra:por:spa:base, deu:Basis, rus:база (baza)|
 |**be kite**|ir|fra:quitter, tur:gitmek, spa:quitar|
 |**bebe**|bebê|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|
+|**bede**|cama (leito)|eng:bed, jpn:ベッド (beddo), deu:Bett, kon:mbeto, sna:mubhedha, zul:umbhede|
 |**bedinjan**|beringela|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|
 |**bele**|pá|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|
 |**ben**|filho ou filha|ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|

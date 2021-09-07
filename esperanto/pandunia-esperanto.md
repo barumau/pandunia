@@ -1070,6 +1070,9 @@ laji bagi - rubejo
 laji tong - rubujo  
 lal - ruĝa  
 lal oranje - mandarino  
+lala - luli  
+lala bede - lulilo  
+lala chante - lulkanto  
 lampa - lampo  
 lanse - ĵeti (lanĉi)  
 lasun - ajlo  

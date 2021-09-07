@@ -99,6 +99,7 @@
 |**baze**|base|eng:fra:por:spa:base, deu:Basis, rus:база (baza)|
 |**be kite**|aller (quitter)|fra:quitter, tur:gitmek, spa:quitar|
 |**bebe**|bébé|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|
+|**bede**|lit|eng:bed, jpn:ベッド (beddo), deu:Bett, kon:mbeto, sna:mubhedha, zul:umbhede|
 |**bedinjan**|aubergine|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|
 |**bele**|pelle|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|
 |**ben**|fils ou fille|ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|

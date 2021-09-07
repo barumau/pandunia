@@ -1110,6 +1110,7 @@ kochać romantycznie - romanse
 kocioł - dai pote  
 kod, szyfr - kode  
 kodować - kode  
+kojec - bebe bede  
 koka - koka  
 kokos - yezi  
 koktajl - mishe alkol  
@@ -1188,6 +1189,7 @@ kowal - metal jang ja
 koza - be’e  
 koło - chakra  
 koło, okrąg - gola  
+kołyska (kolebka) - lala bede  
 koń - uma  
 kościół - eglisa  
 kość - oste  
@@ -1305,7 +1307,7 @@ leżeć - kush
 Liban - Libanen  
 liberalista, wolnościowiec - huru sim ja  
 liberalizm - huru sim  
-liberalizm rynkowy - bazarhuristia  
+liberalizm rynkowy - bazar huru sim  
 liberalny, wolnościowy - huru sim di  
 Liberia - Liberia  
 Libia - Libia  
@@ -1356,6 +1358,7 @@ ludzie (lud, ludność) - nasi jan
 ludzki - insan di  
 ludzkość, rodzaj ludzki - insan jong  
 Luksemburg - Luksemburge  
+lulać - lala  
 lustro - mira plate  
 luteranizm - Luter din  
 luterański - Luter din ja  

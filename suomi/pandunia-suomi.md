@@ -278,7 +278,7 @@ bau - aarre
 bau di - arvokas  
 bau sheku - jalokivi  
 bazar - tori (basaari)  
-bazarhuristia - markkinaliberalismi  
+bazar huru sim - markkinaliberalismi  
 baze - perusta (perustus)  
 baze bol - baseball (amerikkalainen pesäpallo)  
 baze di - perus-  
@@ -343,6 +343,7 @@ be vide - näkyä
 be yong liga - sulaa yhteen (fuusioitua)  
 be’e - vuohi  
 bebe - vauva  
+bebe bede - pinnasänky  
 bede - vuode (sänky, peti)  
 bedinjan - munakoiso  
 bega - paeta (karata)  
@@ -504,6 +505,7 @@ chenaga - edellyttää
 chendeno - eilen  
 chenfikse - etuliite (prefiksi)  
 cheng - kerros  
+cheng bede - kerrossänky  
 cheni - edellinen  
 cheniki - vanha (muinainen)  
 cheno - ennen (aikaisemmin, aiemmin)  
@@ -1665,6 +1667,7 @@ kamisa - paita
 kamote - bataatti  
 kampe - leiri  
 kampe bagi - leirintäalue  
+kampe bede - kenttävuode  
 kampe ja - retkeilijä  
 Kamri - Wales  
 kamri - walesilainen  
@@ -1924,6 +1927,9 @@ laji tong - jäteastia (roskakori, roskis)
 laka - lakka  
 lal - punainen  
 lal oranje - mandariini  
+lala - tuudittaa  
+lala bede - kehto  
+lala chante - tuutulaulu  
 lampa - lamppu  
 langan - kaide (reelinki)  
 Lanka - Sri Lanka  
@@ -2787,6 +2793,7 @@ rivo - joki (virta)
 robote - robotti  
 rodium - rhodium  
 roke - keinuttaa (keikuttaa)  
+roke kursi - keinutuoli (kiikkutuoli)  
 roke muzika - rokki (rock)  
 rokete - raketti  
 rokete lanse gi - sinko (raketinheitin)  

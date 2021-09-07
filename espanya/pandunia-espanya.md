@@ -346,7 +346,7 @@ be yong liga - fusionar (fundir)
 be zai - aparecer  
 be’e - cabra  
 bebe - bebé  
-bede - cama  
+bede - cama (lecho)  
 bedinjan - berenjena  
 bega - escaparse (evitar, huir)  
 Beijing - Pekín  
@@ -501,6 +501,7 @@ chenaga - presuponer
 chendeno - ayer  
 chenfikse - prefijo  
 cheng - capa (piso, planta, estrato)  
+cheng bede - litera  
 cheni - previo (anterior)  
 chenike - reliquia  
 cheniki - viejo (antiguo)  
@@ -1933,6 +1934,8 @@ lal - rojo
 lal linse - lince rojo (gato montés)  
 lal oranje - mandarina (tangerina)  
 lal salmon - salmón rojo  
+lala bede - cuna  
+lala chante - canción de cuna (nana)  
 lama - lama  
 lampa - lámpara  
 lana - maldición  
@@ -2873,6 +2876,7 @@ rivo - rio
 rivo kinar - ribera  
 robote - robot (bot)  
 rodium - rodio  
+roke kursi - mecedora  
 roke muzika - rock  
 rokete - cohete (misil)  
 rokete lanse gi - lanzamisiles  

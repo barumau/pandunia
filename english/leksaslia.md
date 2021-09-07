@@ -122,7 +122,7 @@
 |**be supra**|surpass (go over)|English:super, Spanish:Portuguese:sobre, Italian:sopra|
 |**be**|undergo (passivizing verb)|Mandarin:被 (bèi), Cantonese:被 (bei6), Vietnamese:bị + English:be|
 |**bebe**|baby (infant)|French:bébé, Portuguese:bebê, Spanish:bebé, Turkish:bebek, English:baby, Cantonese:BB (bibi)|
-|**bede**|bed|English:bed, deu:Bett, Japanese:ベッド (beddo), Zulu:umbhede|
+|**bede**|bed|English:bed, Japanese:ベッド (beddo), deu:Bett, Kongo:mbeto, sna:mubhedha, Zulu:umbhede|
 |**bedinjan**|eggplant (aubergine, brinjal)|Hindi:बैंगन (bEngān), Arabic:(bādinjān), Portuguese:berinjela, French:aubergine, Spanish:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), Turkish:badincan, patlıcan, Russian:баклажан (baklažan), Swahili:mbilingani|
 |**bega**|escape (flee, run away)|Russian:убегать (ubegat'), Hindi:भागना (bhāgnā)|
 |**bele**|shovel (spade, scoop)|Persian: بیل‎ (bil), Turkish:bel, Hindi:बेलचा (belcā), Bengali:বেলচা (bēlacā), Swahili:beleshi + French:pelle, Khmer:ប៉ែល (pael)|
@@ -730,6 +730,7 @@
 |**laji**|garbage (rubbish, trash, waste)|Mandarin:垃圾 (lājī)|
 |**laka**|lacquer (varnish)|English:lacquer, Spanish:Portuguese:laca, French:laque, Russian:лак (lak), Japanese:ラッカー|
 |**lal**|red|Hindi:लाल (lāl), Bengali:লাল (lal), Turkish:al|
+|**lala**|lull|English:lull, Polish:lulać, Persian: لالا کردن‎ (lâlâ kardan) + Japanese:ララバイ (rarabai), Filipino:lalay + Swahili:-lala|
 |**lampa**|lamp|English:lamp, deu:French:lampe, Spanish:lámpara, Portuguese:lâmpada, Russian:лампа (lampa), Arabic: لمبة‎(lamba), Japanese:ランプ (ranpu), Korean:램프 (raempeu), Hindi:लैंप (laimp), Bengali:ল্যাম্প (lyamp), Malay:lampu, Turkish:lamba|
 |**lana**|curse (damn!)|Arabic:لعنة (laʿna), Swahili:laana, Hausa:la'ana, Turkish:lanet, Persian:la'net, Urdu:lānat, Malay:laknat|
 |**langan**|banister (handrail)|Mandarin:栏杆 (lángān), Japanese:欄干 (rankan), Korean:난간 (nan-gan)|
