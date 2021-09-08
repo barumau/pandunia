@@ -257,6 +257,9 @@ fata_liste 11 putonghan
 # nipon i pandunia
 fata_liste 12 nipon
 
+# malayu e pandunia
+fata_liste 17 malayu
+
 # rusi i pandunia
 fata_liste 9 rus
 

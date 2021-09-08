@@ -4,14 +4,14 @@ bina_MkDocs() {
   cd ../..
 }
 
-muta_GitHub_dokumsanduke() {
+muta_GitHub_dokumensanduke() {
     grep -rl "edit\/master\/docs" html/$1 | xargs sed -i "s/edit\/master\/docs/edit\/master\/$1/g"
 }
 
 bina_netoloke() {
-    echo bina netoloke pa $1
+    echo bina netoloke do le $1 basha
     bina_MkDocs $1
-    muta_GitHub_dokumsanduke $1
+    muta_GitHub_dokumensanduke $1
 }
 
 bina_pan() {
@@ -20,6 +20,7 @@ bina_pan() {
     bina_netoloke espanya
     bina_netoloke esperanto
     bina_netoloke france
+    bina_netoloke malayu
     bina_netoloke nipon
     bina_netoloke pandunia
     bina_netoloke polski
