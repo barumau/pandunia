@@ -190,36 +190,37 @@ bum - 爆炸
 burge - 要塞  
 buton - 扣子  
 ####C - C  
-chabe - 钥匙  
+chabi - 钥匙  
 chai - 茶  
+chai chamacha - 茶匙  
 chai kan - 茶馆  
 chai kupa - 茶碗  
 chai pote - 茶壶  
 chakra - 轮子  
-chamache - 匙子  
+chamacha - 匙子  
 chante grupe - 合唱团  
 chati - 屋顶 (房顶)  
 chatre - 四 (4)  
-chendeno - 昨日  
+chen - 以前  
+chen den - 昨日  
+chen zaman di - 古老 (以前)  
 cheng - 层  
 cheng bede - 双层床  
-cheniki - 古老 (以前)  
-cheno - 以前  
 chili - 菜椒  
 chili fun - 辣椒粉  
 ching - 请  
 chini - 瓷器  
-chir - 撕裂  
 chira - 撕裂  
-chirchira - 撕毁  
-chirchiri - 褴褛的  
+chira - 撕裂  
+chira chira - 撕毁  
+chira chira di - 褴褛的  
 chize - 酪 (起司)  
 choklate - 巧克力  
-choklatobaton - 巧克力棒  
+choklate baton - 巧克力棒  
 chongching - 重庆  
-chope - 锄头  
+chopu - 锄头  
 chun - 村  
-chuzable - 选择 (买卖权)  
+chuze she - 选择 (买卖权)  
 ####D - D  
 dai dom - 殿 (宫殿, 宅第)  
 dai hai - 大洋 (大海)  
@@ -615,7 +616,7 @@ kisma - 命運
 kitabu - 写  
 kitabu gi - 打字机  
 kitabu kan - 图书馆  
-kitabu shutu - 文学  
+kitabu shuta - 文学  
 kivi - 奇异果  
 klien - 顾客  
 klima mute - 气候变化  
@@ -730,6 +731,7 @@ luka - 六 (6)
 lun - 论  
 luna keke - 月饼  
 lung - 龙  
+lung dou - 四棱豆  
 luta - 掠夺  
 luta ja - 强盗  
 ####M - M  
@@ -786,7 +788,7 @@ metal bede - 铁砧
 metal jang ja - 铁匠  
 metal lin - 线 (铁丝)  
 metre grafi - 図表  
-metre grafi shutu - 地图学  
+metre grafi shuta - 地图学  
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
@@ -948,8 +950,9 @@ politi mode - 政体
 ponte pin - 指南针  
 porei - 韭葱  
 porte - 港  
+pote chamacha - 勺 (舀)  
 pote ja - 陶瓷工  
-pote shutu - 陶器制造  
+pote shuta - 陶器制造  
 presa - 压力  
 problem - 问题 (难题)  
 program - 计划  
@@ -1070,8 +1073,8 @@ shir - 诗
 shish - 扦子  
 shish nama - 串烧  
 shite - 粪 (屎)  
-shitu - 亏损 (失去)  
-shitu bai - 失败  
+shiti - 亏损 (失去)  
+shiti bai - 失败  
 Shiva - 湿婆  
 shofer ja - 司机  
 shopi - 购物 (血拼)  
@@ -1087,7 +1090,7 @@ shuli - 修理
 shulija - 修理工人  
 shuru - 开始  
 shush - 噓  
-shutu - 技术  
+shuta - 技术  
 si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
@@ -1125,8 +1128,10 @@ sukar - 糖
 sukar chau - 甘蔗  
 sundar - 漂亮 (美)  
 sundar daka - 装饰  
-sundar shutu - 艺术 (美术)  
+sundar shuta - 艺术 (美术)  
 sundar ta - 美丽  
+supa - 汤  
+supa chamacha - 汤匙  
 supra vakil ja - 参议员  
 supriza - 惊奇  
 susan - 百合花  

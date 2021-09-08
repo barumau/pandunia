@@ -156,7 +156,7 @@ Ariel - Ariel
 arka - bow (arch, arc)  
 arka chati - vault (arched ceiling or roof)  
 arka ja - archer  
-arka shutu - archery  
+arka shuta - archery  
 arme - weapon (arms)  
 aroma - smell (sniff)  
 aroma - scent (odor, fragrance, aroma)  
@@ -320,6 +320,7 @@ be bio mute - ferment (leaven)
 be boli - boil (be boiled)  
 be bum - explode (blow up)  
 be bum - explode  
+be chen - predate (be before)  
 be dai - grow (get bigger)  
 be dara - flow  
 be dom - live in (reside in, inhabit)  
@@ -525,15 +526,16 @@ celsius darje - degree Celsius
 Ceres - Ceres (dwarf planet)  
 cerium - cerium  
 cesium - caesium  
-chabe - key  
+chabi - key  
 Chade - Chad  
 chai - tea  
+chai chamacha - teaspoon  
 chai kan - tea house  
 chai kupa - tea cup  
 chai pote - teapot  
 chakra - wheel  
 chaku - knife  
-chamache - spoon  
+chamacha - spoon  
 champion - champion  
 chanse - opportunity (chance)  
 chante - sing  
@@ -548,21 +550,20 @@ chatre di galope - gallop
 chatre gona - square (tetragon)  
 chau - grass  
 chau istan - grassland (prairie)  
-cheka - check (to examine)  
+cheke - check (to examine)  
+chen - previous (fore)  
+chen - earlier (before, in the past)  
+chen den - yesterday  
+chen fikse - prefix  
+chen ga - assume (presuppose)  
+chen vide - expect (anticipate, predict, forsee)  
+chen vide di - expected  
+chen yang di - classic (classical)  
 chen zaman - past times  
-chena - predate (be before)  
-chenaga - assume (presuppose)  
-chendeno - yesterday  
-chenfikse - prefix  
+chen zaman di - old (ancient, former)  
+chen zaman she - relic  
 cheng - layer (level, storey, floor, stratum)  
 cheng bede - bunk bed  
-cheni - previous (fore)  
-chenike - relic  
-cheniki - old (ancient, former)  
-cheno - earlier (before, in the past)  
-chenvida - expect (anticipate, predict, forsee)  
-chenvidi - expected  
-chenyangi - classic (classical)  
 cheri - cherry  
 Chernagora - Montenegro  
 Cheska - Czech Republic  
@@ -583,32 +584,29 @@ ching - ask (request, beg, plead; please)
 ching lai - invite  
 chini - porcelain (chinaware)  
 Chipe - Albania  
-chir - tear (rip, edge)  
+chira - tear (rip, edge)  
 chira - tear (rip, split)  
-chirchira - tear up (tatter, shred)  
-chirchiri - tattered (ragged, torn)  
-chita - quote (cite)  
-chitomarke - quotation mark  
+chira chira - tear up (tatter, shred)  
+chira chira di - tattered (ragged, torn)  
 chize - cheese  
 choda - fuck (copulate)  
 choi - greens  
 choklate - chocolate  
-choklatobaton - chocolate bar  
+choklate baton - chocolate bar  
 chongching - Chongqing  
-chope - hoe  
-chor - theft  
-chora - steal  
-chorer - thief  
+chopu - hoe  
+chori - theft  
+chori ja - thief  
 Chosen - Korea  
-choseni - Korean  
+chosen di - Korean  
 chum - kiss  
 chun - village  
 chupa - suck (absorb)  
-chutu - exit (leaving)  
-chutu mun - exit door  
-chuza - choose (elect, select, pick)  
-chuzable - option (choice)  
+chuti - exit (leaving)  
+chuti mun - exit door  
+chuze - choose (elect, select, pick)  
 chuze - choice (election, selection)  
+chuze she - option (choice)  
 chuze yo gol - destine (set)  
 Cuana - Botswana  
 ####D - D  
@@ -928,6 +926,7 @@ fa bina - build (construct)
 fa biznes lon - negotiate (arrange)  
 fa budi - realize  
 fa chape - press (imprint)  
+fa chori - steal  
 fa chutu - leave (go out, exit)  
 fa daka - cover (conceal)  
 fa dalil - prove (demonstrate, testify)  
@@ -1584,7 +1583,7 @@ hisabu - calculation
 hisabu loge - account  
 hisabu logi - mathematics (math)  
 hisabu logi ja - mathematician  
-hisabu shutu - arithmetics  
+hisabu shuta - arithmetics  
 histori - history (annals)  
 histori ja - historian  
 histori logi - history (study of history)  
@@ -1747,7 +1746,7 @@ jene yo zou - breed
 jeng - fight (war, battle, combat)  
 jeng di - military (martial, warlike)  
 jeng ja - warrior (fighter)  
-jeng shutu - martial art  
+jeng shuta - martial art  
 jenshen - ginseng  
 Jerze - Jersey  
 jeste - gesture  
@@ -1993,7 +1992,7 @@ kitabu forma - formatting
 kitabu gi - typewriter  
 kitabu kan - library  
 kitabu minister - librarian  
-kitabu shutu - literature  
+kitabu shuta - literature  
 kite - gone (away)  
 kivi - kiwi fruit  
 klar - clear (obvious)  
@@ -2291,6 +2290,7 @@ lun - discussion (debate, discourse)
 luna - moon  
 luna keke - mooncake  
 lung - dragon  
+lung dou - winged bean  
 lusun - asparagus  
 luta - rob (loot, plunder, pillage, ransack)  
 luta ja - robber (plunderer)  
@@ -2469,7 +2469,7 @@ metal lin - wire
 metre - measure (measurement)  
 metre gi - meter (measuring device)  
 metre grafi - chart (map, graph, blueprint)  
-metre grafi shutu - cartography  
+metre grafi shuta - cartography  
 metre unta - unit (measurement)  
 meza - table  
 meza tela - tablecloth  
@@ -2702,7 +2702,7 @@ nong di - agricultural
 nong istan - countryside  
 nong ja - farmer  
 nong nomi - agronomy  
-nong shutu - agriculture  
+nong shuta - agriculture  
 nong topo di - rural (rustic)  
 norde - north  
 Norde Aire - Northern Ireland  
@@ -3039,8 +3039,9 @@ posta chape - postal stamp
 posta kan - post office  
 posta marke - postmark (postage stamp)  
 pote - pot (vase, bin, jar)  
+pote chamacha - ladle (dipper, scoop)  
 pote ja - potter  
-pote shutu - pottery  
+pote shuta - pottery  
 poze - pose (position)  
 praseodimium - praseodymium  
 prati - practice (actuality)  
@@ -3423,9 +3424,9 @@ shish - skewer
 shish kababu - shish kebab  
 shish nama - shashlik  
 shite - feces (poop, shit)  
-shitu - lose (misplace, miss, shed)  
-shitu bai - failure (blunder, flop, miss, loss, defeat)  
-shitu bai ja - loser  
+shiti - lose (misplace, miss, shed)  
+shiti bai - failure (blunder, flop, miss, loss, defeat)  
+shiti bai ja - loser  
 Shiva - Shiva  
 shofer ja - chauffeur (driver)  
 shoke - shock (collision)  
@@ -3448,8 +3449,8 @@ shuru - beginning (start, commencement, onset)
 shuru di - initial (first)  
 shush - hush (shh)  
 shush di - silent  
-shutu - skill (art, craft)  
-shutu tabi - skillful (crafty)  
+shuta - skill (art, craft)  
+shuta tabi - skillful (crafty)  
 si - be  
 si dura - elapse (pass by, go by)  
 si ja - being (entity)  
@@ -3496,6 +3497,8 @@ sismo - shake (jolt, earthquake)
 sismologi - seismology  
 sistem - system  
 sistem di - systemic  
+sita - quote (cite)  
+sita marke - quotation mark  
 siti - city (town)  
 siu - sew  
 sivil - civilized (civil)  
@@ -3588,11 +3591,12 @@ suna di - conventional (customary, traditional)
 suna islam din - Sunni Islam (Sunnism)  
 sundar - beautiful (handsome, pretty)  
 sundar daka - decoration (ornament)  
-sundar shutu - fine arts  
+sundar shuta - fine arts  
 sundar ta - beauty  
 Suomi - Finland  
 suomi basha - Finnish language  
 supa - soup (stew)  
+supa chamacha - tablespoon  
 super - superb (wonderful, super)  
 supra - overpass  
 supra di - upper  
@@ -3659,7 +3663,7 @@ tele di - far
 tele fon gi - telephone  
 tele fon lin - telephone line  
 tele fon nomer - telephone number  
-tele fon shutu - telephony (telephone communication)  
+tele fon shuta - telephony (telephone communication)  
 tele ta - distance (length)  
 tele vide gi - television  
 teleskope - telescope  
@@ -4024,7 +4028,7 @@ zona - belt (zone)
 zong - post (stake, peg, skewer)  
 zong minte - spearmint  
 zou - animal  
-zou agro shutu - animal husbandry  
+zou agro shuta - animal husbandry  
 zou bagi - zoo (zoological garden)  
 zou fili - zoophily  
 zou geo grafi - zoogeography  

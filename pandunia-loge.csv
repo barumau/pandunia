@@ -137,7 +137,7 @@ Antigua|desha|||Antigua|Antigua|Antigua||||||||||||||Antigua|Antigua
 Antigua e Barbuda|desha|AG||Antigua and Barbuda|Antigua-et-Barbuda|Antigua y Barbuda||||||||||||||Antigua ja Barbuda|Antigua i Barbuda
 anus|||eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|anus|anus|ano||анус||肛门|||||||||anuso|peräaukko (anus)|odbyt
 anus di||||anal|anal|anal|||||||||||||anusa|anaalinen|analny, odbytni
-aple|bio||eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|||सेब||apel (epal)|tofaa|elma|pomo|omena|jabłko
+aple|bio||eng:apple, deu:Apfel, rus:яблоко (yabloko), may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|사과|táo tây (bôm)|सेब|আপেল|apel (epal)|tofaa|elma|pomo|omena|jabłko
 aple sos||||applesauce|compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||omenasose|sos jabłkowy
 aplika||||apply (put to use for a purpose)|appliquer|emplear (aplicar)|usar|||运用||||प्रयोग में लाना||||kullanmak||soveltaa|zastosować, stosować
 aplika|||eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|application|application|aplicación||||||||||||||sovellus|zastosowanie, aplikacja
@@ -323,6 +323,7 @@ be bio mute||||ferment (leaven)|fermenter|fermentar|fermentar|заквасить
 be boli|||eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|boil (be boiled)||hervirse (ser cocida)|||||||||||||boli|kiehua|ugotować się, gotować się
 be bum||||explode (blow up)||explotar (estallar)||взрываться|||爆発する|||||||||räjähtää|eksplodować (wybuchnąć, wybuchać)
 be bum||||explode|exploser (détoner)|explosionar|explodir|взрываться|||||||||||eksplodi|räjähtää|
+be chen||||predate (be before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (olla ennen)|poprzedzić, poprzedzać
 be dai||||grow (get bigger)||crecer (aumentar)||||||||||||||kasvaa (suurentua)|urosnąć, rosnąć, wzrosnąć, wzrastać
 be dara||||flow||fluir||||||||||||||virrata|latać (fruwać)
 be dom||||live in (reside in, inhabit)|vivre (habiter)|vivir (residir)|||||住む (居住する)||||||||loĝi|asua|mieszkać
@@ -531,12 +532,13 @@ cesium|mate|Cs||caesium||cesio|||||||||||||cezio|cesium|cez
 chabi|||por:chave, spa:llave, hin:चाबी (cābī), ben:চাবি (cabi), kon:nsapi|key|clef|llave|chave|ключ|مِفْتَاح‎|钥匙|鍵|열쇠|chìa khoá|चाबी|চাবি|kunci|ufunguo|anahtar|ŝlosilo|avain|klucz
 Chade|desha|TD||Chad||Chad||||||||||||||Tšad|Czad
 chai|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
+chai chamacha||||teaspoon|cuillère à café (petite cuillère)|cucharilla|colher de chá|ложечка (чайная ложка)||茶匙|ティースプーン|찻숱가락||||sendok teh||çay kaşığı||teelusikka (pikku lusikka)|łyżeczka
 chai kan||||tea house||salón de té||чайная (чайхана)||茶馆|茶店 (茶館)||quán trà|चायख़ाना||||çayhane||teehuone (kahvila)|herbaciarnia
 chai kupa||||tea cup|tasse à thé|taza de té|chavena (tigela de chá)|чайная чашка||茶碗|茶碗|||||cawan||||teekuppi|kubek do herbaty
 chai pote||||teapot|théière|tetera|bule|чайник|إِبْرِيق الشَّاي‎|茶壶|急須|찻주전자|ấm trà|चायदानी||teko (poci teh)||çaydanlık|teujo|teepannu|imbryk (czajnik)
 chakra|||hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram|wheel|roue|rueda (volante)|roda|колесо|عجلة‎|轮子|車輪|바퀴 (차륜)|bánh xe|चक्र|চাকা|roda (setir, cakera)|gurudumu|tekerlek (çark)|rado|ratas|koło
 chaku|||hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|knife||cuchillo|||||||||||||tranĉilo|veitsi (puukko)|nóż
-chamacha|||fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|spoon|cuiller|cuchara|colher|ложка||匙子|スプーン|숟가락 (스푼)||चम्मच|চামচ||||kulero|lusikka|łyżka
+chamacha|||hin:चम्मच (cammac), ben:চামচ (camôc), may:camca, kan:ಚಮಚ (camaca), fas: چمچه (čamče), tel:చెమ్చా (cemcā), pnb:ਚਮਚਾ (camcā), tur:çömçe + tha:ช้อน (chon)|spoon|cuiller|cuchara|colher|ложка||匙子|スプーン|숟가락 (스푼)||चम्मच|চামচ|sudu (sendok, camca)||kaşık|kulero|lusikka|łyżka
 champion|||eng:fra:champion, spa:campeón, por:campeão, rus:чемпион (chempion), tur:şampiyon, jpn:チャンピオン (chanpeon), kor:챔피언 (chaempieon)|champion||campeón|||||||||||||ĉampiono|mestari (voittaja)|czempion
 chanse|||fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|opportunity (chance)|chance|oportunidad (chance)|chance|возможность (шанс)||||||||||fırsat (şans)|ŝanco|mahdollisuus (tilaisuus)|szansa
 chante||||sing||cantar|||||||||||||kanti|laulaa|śpiewać
@@ -552,20 +554,19 @@ chatre gona||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt
 chau|bio||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
 chau istan||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 cheke|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
-chen zaman||||past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
-be chen||||predate (be before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (olla ennen)|poprzedzić, poprzedzać
-chen ga||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
+chen||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
+chen|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before, in the past)|avant|más temprano (antes, haber, en el pasado)||раньше||以前|以前 (前に)|전에|||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|wcześniej (uprzednio, poprzednio, przedtem)
 chen den||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 chen fikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
-cheng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
-cheng bede||||bunk bed|lits superposés|litera|beliche|двухъярусная кровать||双层床||2층침대||||||ranza||kerrossänky|
-chen||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
-chen zaman she||||relic||reliquia|||||||||||||||relikwia
-chen zaman di||||old (ancient, former)|vieux (ancien)|viejo (antiguo)|velho (antigo)|старый (древний)||古老 (以前)|古い|||पुराना|পুৰণা|||eski (kadim)|malnova|vanha (muinainen)|stary, starożytny
-chen|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before, in the past)|avant|más temprano (antes, haber, en el pasado)||раньше||以前|以前 (前に)|전에|||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|wcześniej (uprzednio, poprzednio, przedtem)
+chen ga||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
 chen vide||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 chen vide di||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
 chen yang di||||classic (classical)||clásico|||||古典的||||||||||klasyczny
+chen zaman||||past times||pasado|||||||||||||pasinteco|menneisyys|przeszłość
+chen zaman di||||old (ancient, former)|vieux (ancien)|viejo (antiguo)|velho (antigo)|старый (древний)||古老 (以前)|古い|||पुराना|পুৰণা|||eski (kadim)|malnova|vanha (muinainen)|stary, starożytny
+chen zaman she||||relic||reliquia|||||||||||||||relikwia
+cheng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
+cheng bede||||bunk bed|lits superposés|litera|beliche|двухъярусная кровать||双层床||2층침대||||||ranza||kerrossänky|
 cheri|pal||eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|cherry|cerise|cereza|cereja|черешня||||||गिलास|চেরি|||||kirsikka|wiśnia (czereśnia)
 Chernagora|desha|ME||Montenegro||Montenegro||||||||||||||Montenegro|Czarnogóra
 Cheska|desha|CZ||Czech Republic||República Checa||||||||||||||Tšekki|Republika Czeska, Czechy
@@ -590,8 +591,6 @@ chira||||tear (rip, edge)|déchirer|rasgar (romper)|rasgar|рвать||撕裂|�
 chira|||hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|tear (rip, split)|déchirer|rasgar (romper)|rasgar|рвать||撕裂|裂く|||||||||repiä|drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)
 chira chira||||tear up (tatter, shred)||||изорвать||撕毁|千切る|||||||||raastaa|strzępić (drzeć)
 chira chira di||||tattered (ragged, torn)||andrajoso|esfarrapado|изорванный||褴褛的|ぼろぼろ|||||||||raastettu|rozstrzępiony (podarty)
-sita|||eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|quote (cite)||citar|||||||||||||citi|lainata (siteerata)|cytować
-sita marke||||quotation mark||comilla||||||||||||||lainausmerkki|cudzysłów
 chize|||eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|cheese|fromage|queso|queijo|сыр|جُبْن|酪 (起司)|チーズ|치즈|pho mát|पनीर|পনির|keju (panir)|jibini (chizi)|peynir|fromaĝo|juusto|ser
 choda|||ben:চোদা (coda), hin:चोदना (codnā)|fuck (copulate)||joder (coger, copular)|||||||||||||fiki|nussia (panna)|jebać, kopulować
 choi|||zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|greens||verduras|verdura|зелень|||菜|||||||||vihannes|zielenina
@@ -600,7 +599,6 @@ choklate baton||||chocolate bar|tablette de chocolat|barra de chocolate|barra de
 chongching||||Chongqing||||||重庆||||||||||Chongqing|Chongqing
 chopu|||zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|hoe|houe|azada|enxada|мотыга||锄头|クワ|||||||||kuokka|motyka
 chori|||hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|theft||robo (hurto)|||||||||||||ŝtelo|varkaus|kradzież
-fa chori||||steal||robar (hurtar)|||||||||||||ŝteli|varastaa|ukraść, kraść
 chori ja||||thief||ladrón|||||||||||||ŝtelisto|varas|złodziej
 Chosen|desha||kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|Korea||Corea||||||||||||||Korea|Korea
 chosen di||||Korean||coreano||||||||||||||korealainen|koreański
@@ -610,8 +608,8 @@ chupa|||spa:por:chupar, khm:ជប់ (cup)|suck (absorb)||chupar (succionar)|||
 chuti|||zho:出 (chū), yue:出 (ceot1), wuu:出 (tsheq4), jpn:出 (shutsu), kor:출 (chul), vie:xuất|exit (leaving)||escapatoria|||||||||||||eliro|poistuminen|wyjśćie, opuszczenie
 chuti mun||||exit door||salida|||||||||||||elirejo|uloskäynti|drzwi wyjściowe
 chuze|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choose (elect, select, pick)||elegir (escoger, seleccionar)|||||||||||||elekti|valita|wybrać, wybierać, selekcjonować
-chuze she||||option (choice)|option|opción|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
 chuze||||choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
+chuze she||||option (choice)|option|opción|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
 chuze yo gol||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 Cuana|desha|BW||Botswana||Botsuana||||||||||||||Botswana|Botswana
 D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
@@ -931,6 +929,7 @@ fa bina|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(ban
 fa biznes lon||||negotiate (arrange)||negociar|||||話し合う (話を付ける)||||||||||negocjować
 fa budi||||realize||darse cuenta (notar)|||||||||||||kompreni|ymmärtää (oivaltaa)|uświadomić sobie, zdać sobie sprawę, pojąć, pojmować
 fa chape||||press (imprint)||imprimir|||||||||||||presi|painaa (leimata)|naciskać, zostawiać ślad
+fa chori||||steal||robar (hurtar)|||||||||||||ŝteli|varastaa|ukraść, kraść
 fa chutu|||zho:出 (chū), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|leave (go out, exit)||salir (irse)|||||||||||||eliri|poistua|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać
 fa daka|||hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|cover (conceal)|couvrir|cubrir (tapar)||||||||ढकना|ঢাকা||||kovri|peittää|przykryć, przykrywać, ukryć, ukrywać
 fa dalil||||prove (demonstrate, testify)||probar (demonstrar, comprobar)||||||||||||||todistaa|dowieść, dowodzić; zeznać, zeznawać
@@ -2295,7 +2294,8 @@ lulu|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, 
 lun|||zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||discusión (debate, discurso)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
 luna|planete 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
 luna keke||||mooncake|gâteau de lune|pastel de luna|bolo lunar|лунный пирог|كَعْكَة اَلْقَمَر‎|月饼|月餅|월병||||kue bulan||ay keki||kuukakku|
-lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok
+lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok
+lung dou|bio|Psophocarpus tetragonolobus||winged bean|pois carré|||||四棱豆|四角豆||đậu rồng|||kacang botol||||siipipapu|
 lusun|bio||zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)|asparagus||espárrago||||||||||||||parsa|szparag; szparagia
 luta|||hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|rob (loot, plunder, pillage, ransack)||saquear (desvalijar, robar)||||掠夺|||||||||rabi|ryöstää (ryövätä)|obrabować, splądrować
 luta ja||||robber (plunderer)|brigand (bandit)|ladrón|ladrão|грабитель||强盗||||डाकू|||||rabisto|ryöväri (rosvo)|rabuś (grabieżca)
@@ -3048,6 +3048,7 @@ posta chape||||postal stamp||sello postal||||||||||||||postileima|znaczek poczto
 posta kan||||post office||oficina de correos|||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
 posta marke||||postmark (postage stamp)|cachet de la poste|matasellos|carimbo|почтовый штемпель|||||||||||poŝtmarko|postileima|
 pote|||eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu)|pot (vase, bin, jar)|pot (vase)|||||||||||||||pata|
+pote chamacha||||ladle (dipper, scoop)|louche (cuillère à pot)|cucharón (cazo)|concha|половник (черпак, ковш)||勺 (舀)||||चमचा (कलछी, डोई)||||kepçe (çömçe)||kauha|
 pote ja||||potter|potier|alfarero|oleiro|гончар|خَزَّاف‎|陶瓷工|陶工|도공||कुम्हार ||||||savenvalaja|
 pote shuta||||pottery|poterie|alfarería|cerâmica|гончарное дело||陶器制造|陶芸|||||||ufinyanzi||keramiikka|
 poze|||eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|pose (position)||pose (postura)||||||||||||||asetelma|poza, pozycja
@@ -3506,6 +3507,8 @@ sismo|||ell:σεισμός (seismós), eng:seism, spa:sismo, fra:séisme, tur:si
 sismologi||||seismology||sismología|||||||||||||sismologio|seismologia|sejsmologia
 sistem|||eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|system||sistema|||||||||||||sistemo|järjestelmä (systeemi)|system
 sistem di||||systemic||sistémico|||||||||||||||systemowy
+sita|||eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|quote (cite)||citar|||||||||||||citi|lainata (siteerata)|cytować
+sita marke||||quotation mark||comilla||||||||||||||lainausmerkki|cudzysłów
 siti|||eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:市 (shi)|city (town)|ville|ciudad|cidade||||||||||||urbo|kaupunki|miast, miasteczko
 siu|||hin:सीना (sīnā), ben:স্যূত (syūta), mar:शिवणे (śivṇe), guj:સીવવું (sīvvũ), rus:шить (šit'), eng:sew|sew||coser||||||||||||||ommella|szyć
 sivil|||eng:civil, por:civil, hin:सिविल (sivil), may:sipil|civilized (civil)||civilizado||||||||||||||sivistynyt|cywilizowany (ucywilizowany)
@@ -3602,7 +3605,8 @@ sundar shuta||||fine arts||bellas artes||||艺术 (美术)|芸術 (美術)|예�
 sundar ta||||beauty|beauté|belleza (hermosura)|beleza|красота|جَمَال|美丽|美しさ|아름다움||सौन्दर्य|||uzuri (jamala, urembo)|güzellik|beleco|kauneus|piękno
 Suomi|desha|FI||Finland||Finlandia|||||||||||||Finnlando|Suomi|Finlandia
 suomi basha|basha|||Finnish language||idioma finés|||||||||||||lingvo|suomen kieli|
-supa|||spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|soup (stew)||sopa|||||||||||||supo|keitto (soppa)|zupa
+supa|||eng:soup, fra: soupe, spa:por:sopa, deu: Suppe, rus:суп (sup), jpn:スープ (sūpu), kor:수프 (supeu), hin:सूप (sūp), may:sup, swa:supu|soup (stew)|soupe|sopa|sopa|суп|شُرْبَة‎|汤|スープ (汁)|죽 (수프, 탕)|canh (súp)|सूप|শিড়া|sup|supu|şorba|supo|keitto (soppa)|zupa
+supa chamacha||||tablespoon||cuchara de sopa|colher de sopa|суповая ложка||汤匙|さじ (テーブルスプーン)|큰스푼|muỗng canh|||||yemek kaşığı||ruokalusikka|łyżka stołowa
 super|||eng:fra:super, spa:por:súper, jpn:スーパー (sūpā)|superb (wonderful, super)||maravilloso (magnífico)|||||||||||||bonega|upea (mahtava)|wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super
 supra||||overpass||paso elevado|||||上|||||||||ylitys|wiadukt, przejście powyżej
 supra di||||upper||superior (más alto)||||||||||||||ylä- (yli-)|górny

@@ -39,7 +39,7 @@
 |**anjil**|message|Greek:ἀγγελία (angelía), Arabic:(ʾinjīl), Swahili:injili, Malay:injil, Turkish:incil, Hindi:इंजील (iñjīl), Russian:евангелие (evangeliye), French:évangile, Portuguese:evangelho|
 |**anten**|antenna (aerial)|English:antenna, Spanish:Portuguese:Malay:antena, French:antenne, Russian:антенна (antenna), Turkish:anten, Japanese:アンテナ (antena)|
 |**anus**|anus|English:French:anus, Portuguese:ânus, Spanish:ano, deu:Anus, Russian:анус (anus), Turkish:anüs|
-|**aple**|apple|English:apple, deu:Apfel, Malay:apel, Bengali:আেপল (apôl), Zulu:ihhabhula|
+|**aple**|apple|English:apple, deu:Apfel, Russian:яблоко (yabloko), Malay:apel, Bengali:আেপল (apôl), Zulu:ihhabhula|
 |**aplika**|application|English:French:application, Spanish:aplicación, Portuguese:aplicação, Polish:aplikacja|
 |**arane**|spider|French:araignee, Portuguese:aranha, Spanish:araña, English:arachnid|
 |**arbuza**|watermelon|Russian:арбуз (arbuz), Polish:arbuz, Turkish:karpuz, Greek:καρπούζι (karpuzi), Hindi:तरबूज़ (tarbūz), Bengali:তরমুজ (tôrmuj)|
@@ -180,11 +180,11 @@
 |**buta**|boot|English:boot, French:botte, Spanish:Portuguese:bota, Russian:ботинок (botinok), Polish:Malay:but, Persian: بوت‎ (but), Japanese:ブーツ (būtsu), Swahili:buti|
 |**buton**|key (push-button, switch)|English:button, Spanish:botón, Portuguese:botão, French:bouton, Hindi:बटन (baṭan), Bengali:বোতাম (botam), Japanese:ボタン (botan), Korean:버튼 (beoteun)|
 |**buyu**|baobab|Swahili:mbuyu, Wolof:buy, sna:muuyu, Zulu:isimuhu|
-|**chabe**|key|Portuguese:chave, Spanish:llave, Hindi:चाबी (cābī), Bengali:চাবি (cabi), Kongo:nsapi|
+|**chabi**|key|Portuguese:chave, Spanish:llave, Hindi:चाबी (cābī), Bengali:চাবি (cabi), Kongo:nsapi|
 |**chai**|tea|Mandarin: 茶 (chá), Japanese: (cha), Korean:차 (cha), Vietnamese:trà, Turkish:çay, Swahili:chai, Russian:чай (čay), Hindi:चाय (cāy), Arabic:(šāy), Portuguese:chá|
 |**chakra**|wheel|Hindi:चक्र (cakra), Bengali:চাকা (caka), pan:ਚੱਕਰ (cakkar), Gujarati:ચક્ર (cakra), Telugu:చక్రము (cakramu), Marathi:चाक (cāk), Thai:จักร (jàk), Malay:cakera, English:chakram|
 |**chaku**|knife|Hindi:चाक़ू (cāqū), Persian:(čâqu), nep:चक्कु (cakku), Kannada:ಚಾಕು (cāku)|
-|**chamache**|spoon|Persian:(čamče), Punjabi:ਚਮਚਾ (camcā), Bengali:চামচ (camôc), Hindi:चम्मच (cammac), Kannada:ಚಮಚ (camaca), Thai:ช้อน (chon)|
+|**chamacha**|spoon|Hindi:चम्मच (cammac), Bengali:চামচ (camôc), Malay:camca, Kannada:ಚಮಚ (camaca), Persian: چمچه (čamče), Telugu:చెమ్చా (cemcā), Punjabi:ਚਮਚਾ (camcā), Turkish:çömçe + Thai:ช้อน (chon)|
 |**champion**|champion|English:French:champion, Spanish:campeón, Portuguese:campeão, Russian:чемпион (chempion), Turkish:şampiyon, Japanese:チャンピオン (chanpeon), Korean:챔피언 (chaempieon)|
 |**chanse**|opportunity (chance)|French:English:Spanish:Portuguese:chance, Japanese:チャンス (chansu), Korean:찬스 (chanseu), Russian:шанс (šans), Turkish:şans, Hindi:चांस (cāns)|
 |**chante**|song|French:chanter, English:chant, Portuguese:Spanish:cantar, + Mandarin:唱 (chàng), Korean:창 (chang)|
@@ -194,9 +194,9 @@
 |**chati**|roof|Hindi:छत (chat); छदि (chadi), Bengali: ছাদ (chad), Turkish:çatı, kyr:чатыр (čatyr) + Arabic: سَطْح‎ (saṭḥ)|
 |**chatre**|four (4)|Russian:четыре (chetyre), Hindi:चार (cār), Bengali:চার (car), Malay:catur + French:quatre, Spanish:cuatro, Portuguese:quatro|
 |**chau**|grass|Mandarin:草 (cǎo), Cantonese:草 (cou2), Wu-Chinese:草 (tshau2), Japanese:草 (sō), Vietnamese:tháu|
-|**cheka**|check (to examine)|English:check, Spanish:chequear, Portuguese:checar, deu:chekcen, Japanese:チェックする (chekkusuru)|
+|**cheke**|check (to examine)|English:check, Spanish:chequear, Portuguese:checar, deu:chekcen, Japanese:チェックする (chekkusuru)|
+|**chen**|earlier (before, in the past)|Mandarin:前 (qián), Cantonese:前 (cin4), Japanese:前 (zen), Korean:전 (jeon), Vietnamese:tiền|
 |**cheng**|layer (level, storey, floor, stratum)|Mandarin:层 (céng), Cantonese:層 (cang4), Wu-Chinese:層 (zen3), Korean:층 (chŭng), Vietnamese:tầng|
-|**cheno**|earlier (before, in the past)|Mandarin:前 (qián), Cantonese:前 (cin4), Japanese:前 (zen), Korean:전 (jeon), Vietnamese:tiền|
 |**cheri**|cherry|English:cherry, French:cerise, Spanish:cereza, Portuguese:cereja, Russian:черешня (čerešnya), Arabic:(karaz), Turkish:kiraz, Hindi:गिलास (gilās), Bengali:চেরি  (ceri), Malay:ceri, Japanese:チェリー (cherī), Korean:체리 (cheri)|
 |**chili**|pepper (capsicum)|English:chili, Portuguese:Spanish:chile, Japanese:チリ (chiri), Korean:칠리 (chilli), Malay:cili|
 |**chimpanzi**|chimpanzee|English:chimpanzee, Spanish:chimpancé, Portuguese:French:chimpanzé, Russian:шимпанзе (shimpanze), Turkish:şempanze, Arabic:شمبانزي‎ (šimbanzī), Hindi:चिंपांजी (cimpāñjī), Japanese:チンパンジー (chinpanjī), Malay:cimpanzi|
@@ -205,18 +205,18 @@
 |**ching**|ask (request, beg, plead; please)|Mandarin:请 (qǐng), Cantonese:請 (cing2), Korean:청 (cheong), Vietnamese:thỉnh|
 |**chini**|porcelain (chinaware)|Mandarin:瓷 (cí) + English:chinaware, Hindi:चीनी (cīnī), Bengali:চীনামাটি (cinamaṭi), Arabic: صِينِيَّة‎ (ṣīniyya)|
 |**chira**|tear (rip, split)|Hindi:Marathi:चीर (chīra), Bengali:চেরা (chērā), pan:ਚੀਰ (chīra) + English:tear|
-|**chita**|quote (cite)|English:cite, Spanish:Portuguese:citar, French:citer, deu:zitieren, Russian:цитировать (citirovat’)|
 |**chize**|cheese|English: cheese, Mandarin: 起司 (qǐsī), Swahili: chizi, Japanese:チーズ (chīzu), Korean:치즈 (chijeu)|
 |**choda**|fuck (copulate)|Bengali:চোদা (coda), Hindi:चोदना (codnā)|
 |**choi**|greens|Mandarin:菜 (cài), Cantonese:菜 (coi3), English:-choy, Malay:-coy|
 |**choklate**|chocolate|Spanish:Portuguese:English:chocolate, French:chocolat, Russian:шоколад (šokolad), Mandarin:巧克力 (qiǎokèlì), Japanese:チョコレート (chokorēto), Korean:초콜렛 (chokollet), Hindi:चाकलेट (cāklet), Bengali:চকলেট (côkleṭ), Malay:cokelat, Swahili:chokoleti, Turkish:çikolata|
-|**chope**|hoe|Mandarin:锄 (chú), Cantonese:鋤 (co4), Thai:จอบ (chop), Turkish:çapa|
-|**chor**|theft|Hindi:Marathi:चोरी (corī), Urdu:(corī), Thai:โจร (chon), Malay:curi, Bengali:চুরি (curi)|
+|**chopu**|hoe|Mandarin:锄 (chú), Cantonese:鋤 (co4), Thai:จอบ (chop), Turkish:çapa|
+|**chori**|theft|Hindi:Marathi:चोरी (corī), Urdu:(corī), Thai:โจร (chon), Malay:curi, Bengali:চুরি (curi)|
 |**Chosen**|Korea|Korean:조선 (Joseon), Japanese:朝鮮 (chōsen), Mandarin:朝鲜 (zh) (Cháoxiǎn)|
 |**chum**|kiss|Hindi:चूमना (cūmnā), Urdu:(cūmnā), Malayalam:ചുംബനം (cumbanaṃ), Malay:cium, Japanese:チュー (chū), Thai:จูบ (cup)|
 |**chun**|village|Mandarin:村 (cūn), Cantonese:村 (cyun1), Japanese:村 (son), Korean:촌 (chon), Vietnamese:thôn|
 |**chupa**|suck (absorb)|Spanish:Portuguese:chupar, Khmer:ជប់ (cup)|
-|**chuza**|choose (elect, select, pick)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
+|**chuti**|exit (leaving)|Mandarin:出 (chū), Cantonese:出 (ceot1), Wu-Chinese:出 (tsheq4), Japanese:出 (shutsu), Korean:출 (chul), Vietnamese:xuất|
+|**chuze**|choose (elect, select, pick)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
 |**da**|of (attributive preposition)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|ocean|Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)|
 |**dai**|big (great)|Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)|
@@ -550,7 +550,7 @@
 |**jelosi**|jealous|English:jealous, Spanish:celoso, French:jaloux|
 |**jen**|meditate (contemplate, ponder, cogitate)|Hindi:ध्यान (dhyān), Bengali:ধ্যান (dhyān), Japanese:禅 (zen), English:French:Portuguese:zen, Russian:дзэн (dzen), Mandarin:禅 (chán), Korean:선 (seon), Vietnamese:thiền, Burmese:ဈာန် (jhan)|
 |**jene**|birth|Hindi:जन्म (janma), Malayalam:ജനനം (jananaṃ), Greek: γέννα (génna), English:genesis, French:genèse|
-|**jeng shutu**|martial art|Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art|
+|**jeng shuta**|martial art|Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art|
 |**jeng**|fight (war, battle, combat)|Mandarin:爭 (zhēng), Vietnamese:tranh, Korean:전쟁 (jeonjaeng), Turkish:kur:ceng, Persian:Urdu:(jang), Hindi:जंग (jang)|
 |**jenshen**|ginseng|Mandarin:人蔘 (rénshēn), Min-Chinese:人蔘 (jîn-sam), English:Spanish:Portuguese:Turkish:Malay:ginseng, Russian:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), Japanese:人参 (ninjin)|
 |**jeste**|gesture|English:gesture, Spanish:Portuguese:gesto, French:geste, Russian:жест (zhest), Turkish:jest, Persian:ژست‎ (žest)|
@@ -786,7 +786,7 @@
 |**lulu**|pearl|Amharic:ሉል (lul), Arabic:(luʾluʾa), Swahili:lulu, Oromo:lu'ulu'a, Hausa:lu'ulu'u, Fulani:luuluuri, Persian:(lo'lo')|
 |**lun**|discussion (debate, discourse)|Mandarin:论 (lùn), Cantonese:論 (leo6), Korean:론 (ron), Japanese:論 (ron), Vietnamese:luận|
 |**luna**|moon|French:lune, Spanish:luna, English:lunar, Russian:луна (luná)|
-|**lung**|dragon|Mandarin:龙 (lóng), Cantonese:龍 (lung4), Vietnamese:rồng,long, Korean:용 (yong), 룡 (ryong), jon:竜 (ryū)|
+|**lung**|dragon|Mandarin:龙 (lóng), Cantonese:龍 (lung4), Vietnamese:rồng,long, Korean:용 (yong), 룡 (ryong), Japanese:竜 (ryū), Khmer:រោង (roong), Thai:มะโรง (má-roong)|
 |**lusun**|asparagus|Mandarin:芦笋 (lúsǔn), Cantonese:蘆筍 (lou4 seon2)|
 |**luta**|rob (loot, plunder, pillage, ransack)|Hindi:लूटना (lūṭnā), Urdu:(lūṭnā), Bengali:লুটা (luṭā), Punjabi:ਲੁੱਟ (luṭ), English:loot, + Mandarin:掠夺 (lüèduó), Cantonese:掠 (loek6)|
 |**ma**|mother (mom, mama)|Portuguese:mãe + Mandarin:妈 (mā), Vietnamese:má, Bengali:মা (ma), Hindi:मां (mã) + English:Swahili:mama, Spanish:mamá, French:maman, Russian:мама (mama), Japanese:ママ (mama), Korean:엄마 (eomma)|
@@ -1220,8 +1220,8 @@
 |**shirope**|syrup|Arabic:(šarāb), Portuguese:xarope, English:syrup, Turkish:şurup, Japanese:シロップ (shiroppu), Swahili:shira|
 |**shish**|skewer|Turkish:şiş + English:shish-, Russian:шиш- (šiš-)|
 |**shite**|feces (poop, shit)|English:shit, Mandarin:屎 (shǐ), Cantonese:屎 (si2)|
-|**shitu bai**|failure (blunder, flop, miss, loss, defeat)|Mandarin:失败 (shībài), Japanese:失敗 (shippai), Korean:실패 (šilpæ), Vietnamese:thất bại|
-|**shitu**|lose (misplace, miss, shed)|Mandarin:失 (shī), Japanese:失 (shitsu), Korean:실 (šil), Vietnamese:thất|
+|**shiti bai**|failure (blunder, flop, miss, loss, defeat)|Mandarin:失败 (shībài), Japanese:失敗 (shippai), Korean:실패 (šilpæ), Vietnamese:thất bại|
+|**shiti**|lose (misplace, miss, shed)|Mandarin:失 (shī), Japanese:失 (shitsu), Korean:실 (šil), Vietnamese:thất|
 |**shofer ja**|chauffeur (driver)|French:English:deu:chauffeur, Spanish:Portuguese:chofer, Russian:шофёр (šofjor), Polish:szofer, Thai: โชเฟอร์ (chofoe), Turkish:şoför, Persian:(šofer)|
 |**shoke**|shock (collision)|English:nld:shock, French:choc, Spanish:Portuguese:choque, Turkish:şok, Malay:syok + Mandarin:冲击 (chōngjī), Cantonese:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), Japanese:衝撃 (shōgeki)|
 |**shopi**|shopping|English:French:Spanish:shopping, Japanese:ショッピング (shoppingu), Korean:쇼핑 (syoping), Thai:ชอปปิ้ง (chop-bing), Russian:шоппинг (šopping), Mandarin:血拼 (xuèpīn)|
@@ -1231,7 +1231,7 @@
 |**shuli**|repair (fix)|Mandarin:修理 (xiūlǐ), Japanese:修理 (shuri), Korean:수리 (suri)|
 |**shuru**|beginning (start, commencement, onset)|Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)|
 |**shush**|hush (shh)|English:shh, French:chut, Russian:ш-ш-ш, Mandarin:噓 (xū), Japanese:しーっ (shīt), Korean:쉿 (swit), Turkish:sus|
-|**shutu**|skill (art, craft)|Mandarin:术 (shù), Cantonese:術 (seot6), Japanese:術 (jutsu), Korean:술 (sul)|
+|**shuta**|skill (art, craft)|Mandarin:术 (shù), Cantonese:術 (seot6), Japanese:術 (jutsu), Korean:술 (sul)|
 |**si**|be|Mandarin:是 (shì), Cantonese:是 (si4) + Spanish:Portuguese:ser|
 |**sian**|cyan|English:cyan, Spanish:cian, Russian:циан (tsian), Arabic:سيان (sayan), Hindi:क्यान (kyāna), Japanese:シアン (shian), Malay:sian|
 |**side**|sit down|Russian:сидеть (sidet'), English:sit, deu:sitzen, Italian:sedere|
@@ -1250,6 +1250,7 @@
 |**siro**|zero (none)|Arabic: صِفْر‎ (ṣifr), Swahili:sifuri, Hindi:सिफ़र (sifar), English:Portuguese:zero, French:zéro, Spanish:cero|
 |**sismo**|shake (jolt, earthquake)|Greek:σεισμός (seismós), English:seism, Spanish:sismo, French:séisme, Turkish:sismik|
 |**sistem**|system|English:system, Spanish:Portuguese:sistema, French:système, Russian:система (sistema), Hindi:सिस्टम (sisṭam), Bengali:সিস্টেম (śiśṭem), Malay:sistem|
+|**sita**|quote (cite)|English:cite, Spanish:Portuguese:citar, French:citer, deu:zitieren, Russian:цитировать (citirovat’)|
 |**siti**|city (town)|English:city, French:cité, Portuguese:cidade, Spanish:ciudad, Italian:città + Mandarin:市 (shì), Korean:시 (si), Japanese:市 (shi)|
 |**siu**|sew|Hindi:सीना (sīnā), Bengali:স্যূত (syūta), Marathi:शिवणे (śivṇe), Gujarati:સીવવું (sīvvũ), Russian:шить (šit'), English:sew|
 |**sivil**|civilized (civil)|English:civil, Portuguese:civil, Hindi:सिविल (sivil), Malay:sipil|
@@ -1283,7 +1284,7 @@
 |**sun**|soon|English:soon|
 |**suna**|custom (tradition, practice, convention)|Arabic: سُنَّة (sunna), Hindi:सुन्नत (sunnat), Bengali:সুন্নাহ (śunnah), English:Malay:sunnah, French:Spanish:sunna, Portuguese:suna, Russian:сунна, Turkish:sünnet|
 |**sundar**|beautiful (handsome, pretty)|Hindi:सुन्दर (sundar), Bengali:সুন্দর (sundôr), Gujarati:સુંદર (sundar),|
-|**supa**|soup (stew)|Spanish:sopa, English: soup, French: soupe, deu: Suppe, Swahili: supu, Russian:суп (sup), Malay:sup, Japanese:スープ (sūpu)|
+|**supa**|soup (stew)|English:soup, French: soupe, Spanish:Portuguese:sopa, deu: Suppe, Russian:суп (sup), Japanese:スープ (sūpu), Korean:수프 (supeu), Hindi:सूप (sūp), Malay:sup, Swahili:supu|
 |**super**|superb (wonderful, super)|English:French:super, Spanish:Portuguese:súper, Japanese:スーパー (sūpā)|
 |**supriza**|surprise|English:surprise, Turkish:sürpriz, Persian:(surpris), Russian::сюрприз (siurpriz), Portuguese:surpresa, Spanish:sorpresa|
 |**susan**|lily|Persian:sousan, Arabic:(sawsan), heb:(šōšān), + English:Susan, Portuguese:Spanish:Susana, French:Suzanne, Polish:Zuzana, Russian:Сусанна (Susanna)|

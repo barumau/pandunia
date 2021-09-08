@@ -188,36 +188,37 @@ burge - forte
 buta - bota  
 buton - botão  
 ####C - C  
-chabe - chave  
+chabi - chave  
 chai - chá  
+chai chamacha - colher de chá  
 chai kupa - chavena (tigela de chá)  
 chai pote - bule  
 chakra - roda  
-chamache - colher  
+chamacha - colher  
 chanse - chance  
 chante grupe - coro  
 charme - charme  
 chati - telhado  
 chatre - quatro (4)  
-chendeno - ontem  
+chen den - ontem  
+chen zaman di - velho (antigo)  
 cheng bede - beliche  
-cheniki - velho (antigo)  
 cheri - cereja  
 chili - cápsico  
 chin ba - avô  
 chin brus ben - primo  
 chin ma - avó  
 chini - porcelana  
-chir - rasgar  
 chira - rasgar  
-chirchiri - esfarrapado  
+chira - rasgar  
+chira chira di - esfarrapado  
 chize - queijo  
 choi - verdura  
 choklate - chocolate  
-choklatobaton - barra de chocolate  
-chope - enxada  
+choklate baton - barra de chocolate  
+chopu - enxada  
 chun - aldeia (vila)  
-chuzable - opção  
+chuze she - opção  
 ####D - D  
 dai dom - palácio (mansão, palacete)  
 dai hai - oceano  
@@ -631,7 +632,7 @@ kisma - destino
 kitabu - escrevere  
 kitabu gi - máquina de escrever  
 kitabu kan - biblioteca  
-kitabu shutu - literatura  
+kitabu shuta - literatura  
 kivi - quivi  
 klar - claro  
 klien - cliente  
@@ -812,7 +813,7 @@ mestre - mestre
 metal bede - bigorna  
 metal lin - arame  
 metre grafi - carta  
-metre grafi shutu - cartografia  
+metre grafi shuta - cartografia  
 meza - mesa  
 meza tela - toalha de mesa  
 mi - eu (me)  
@@ -991,8 +992,9 @@ Portoriko - Porto Rico
 portoriko jan - porto-riquenho  
 pos di - posterior  
 posta marke - carimbo  
+pote chamacha - concha  
 pote ja - oleiro  
-pote shutu - cerâmica  
+pote shuta - cerâmica  
 presa - pressão  
 presa gi - prensa  
 problem - problema  
@@ -1114,8 +1116,8 @@ shia islam din - xiismo
 shikaya - queixa (lamento, reclamação)  
 shipi - molhado  
 shite - merda  
-shitu - perder  
-shitu bai ja - perdedor  
+shiti - perder  
+shiti bai ja - perdedor  
 Shiva - Xiva  
 shofer ja - condutor (chofer, motorista)  
 shopi - compras  
@@ -1130,7 +1132,7 @@ shuli - reparo
 shuli - reparar  
 shulija - reparador  
 shuru - começo (início, princípio)  
-shutu - arte  
+shuta - arte  
 si - ser (estar)  
 si dura - transcorrer  
 siborgium - seabórgio  
@@ -1174,6 +1176,8 @@ sukar chau - cana-de-açúcar
 suna islam din - sunismo  
 sundar - belo (lindo)  
 sundar ta - beleza  
+supa - sopa  
+supa chamacha - colher de sopa  
 supra vakil ja - senador  
 susan - lírio  
 ####T - T  
@@ -1186,7 +1190,7 @@ tana - haste (talo, caule)
 tehni - técnica  
 tela - fazenda (tecido)  
 tela gi - tear  
-tele fon shutu - telefonia  
+tele fon shuta - telefonia  
 teleskope - telescópio  
 tema name - título  
 ten - ter  

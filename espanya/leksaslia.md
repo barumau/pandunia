@@ -37,7 +37,7 @@
 |**anjil**|mensaje|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |**anten**|antena|eng:antenna, spa:por:may:antena, fra:antenne, rus:антенна (antenna), tur:anten, jpn:アンテナ (antena)|
 |**anus**|ano|eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|
-|**aple**|manzana|eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|
+|**aple**|manzana|eng:apple, deu:Apfel, rus:яблоко (yabloko), may:apel, ben:আেপল (apôl), zul:ihhabhula|
 |**aplika**|aplicación|eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|
 |**arane**|araña|fra:araignee, por:aranha, spa:araña, eng:arachnid|
 |**arbuza**|sandía (patilla)|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|
@@ -173,11 +173,11 @@
 |**buta**|bota|eng:boot, fra:botte, spa:por:bota, rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|
 |**buton**|tecla (botón)|eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|
 |**buyu**|baobab|swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu|
-|**chabe**|llave|por:chave, spa:llave, hin:चाबी (cābī), ben:চাবি (cabi), kon:nsapi|
+|**chabi**|llave|por:chave, spa:llave, hin:चाबी (cābī), ben:চাবি (cabi), kon:nsapi|
 |**chai**|té|zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|
 |**chakra**|rueda (volante)|hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram|
 |**chaku**|cuchillo|hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|
-|**chamache**|cuchara|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
+|**chamacha**|cuchara|hin:चम्मच (cammac), ben:চামচ (camôc), may:camca, kan:ಚಮಚ (camaca), fas: چمچه (čamče), tel:చెమ్చా (cemcā), pnb:ਚਮਚਾ (camcā), tur:çömçe + tha:ช้อน (chon)|
 |**champion**|campeón|eng:fra:champion, spa:campeón, por:campeão, rus:чемпион (chempion), tur:şampiyon, jpn:チャンピオン (chanpeon), kor:챔피언 (chaempieon)|
 |**chanse**|oportunidad (chance)|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
 |**chante**|canción|fra:chanter, eng:chant, por:spa:cantar, + zho:唱 (chàng), kor:창 (chang)|
@@ -187,9 +187,9 @@
 |**chati**|techo (tejado)|hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|
 |**chatre**|cuatro (4)|rus:четыре (chetyre), hin:चार (cār), ben:চার (car), may:catur + fra:quatre, spa:cuatro, por:quatro|
 |**chau**|césped (hierba)|zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|
-|**cheka**|revisar (chequear)|eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|
+|**cheke**|revisar (chequear)|eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|
+|**chen**|más temprano (antes, haber, en el pasado)|zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|
 |**cheng**|capa (piso, planta, estrato)|zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|
-|**cheno**|más temprano (antes, haber, en el pasado)|zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|
 |**cheri**|cereza|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
 |**chili**|chile|eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|
 |**chimpanzi**|chimpancé|eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|
@@ -198,18 +198,18 @@
 |**ching**|pedir (invitar; por favor)|zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|
 |**chini**|porcelana|zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya)|
 |**chira**|rasgar (romper)|hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|
-|**chita**|citar|eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|
 |**chize**|queso|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |**choda**|joder (coger, copular)|ben:চোদা (coda), hin:चोदना (codnā)|
 |**choi**|verduras|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
 |**choklate**|chocolate|spa:por:eng:chocolate, fra:chocolat, rus:шоколад (šokolad), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), may:cokelat, swa:chokoleti, tur:çikolata|
-|**chope**|azada|zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|
-|**chor**|robo (hurto)|hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|
+|**chopu**|azada|zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|
+|**chori**|robo (hurto)|hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|
 |**Chosen**|Corea|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
 |**chum**|beso|hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|
 |**chun**|aldea|zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|
 |**chupa**|chupar (succionar)|spa:por:chupar, khm:ជប់ (cup)|
-|**chuza**|elegir (escoger, seleccionar)|eng:choose, + hin:चुनना (cunnā), + vie:chọn|
+|**chuti**|escapatoria|zho:出 (chū), yue:出 (ceot1), wuu:出 (tsheq4), jpn:出 (shutsu), kor:출 (chul), vie:xuất|
+|**chuze**|elegir (escoger, seleccionar)|eng:choose, + hin:चुनना (cunnā), + vie:chọn|
 |**da**|de (posposición de posesión)|fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|océano|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**dai**|grande|yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|
@@ -531,7 +531,7 @@
 |**jelosi**|celoso (envidioso)|eng:jealous, spa:celoso, fra:jaloux|
 |**jen**|meditar (reflexionar)|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
 |**jene**|nacimiento (origen)|hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|
-|**jeng shutu**|arte marcial|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
+|**jeng shuta**|arte marcial|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |**jeng**|pelea (guerra, batalla)|zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|
 |**jenshen**|ginseng|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
 |**jeste**|gesto|eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|
@@ -757,7 +757,7 @@
 |**lulu**|perla|amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|
 |**lun**|discusión (debate, discurso)|zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận|
 |**luna**|luna|fra:lune, spa:luna, eng:lunar, rus:луна (luná)|
-|**lung**|dragón|zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|
+|**lung**|dragón|zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)|
 |**lusun**|espárrago|zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)|
 |**luta**|saquear (desvalijar, robar)|hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|
 |**ma**|madre (mamá)|por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|
@@ -1180,8 +1180,8 @@
 |**shirope**|jarabe (sirope)|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu), swa:shira|
 |**shish**|brocheta|tur:şiş + eng:shish-, rus:шиш- (šiš-)|
 |**shite**|mierda|eng:shit, zho:屎 (shǐ), yue:屎 (si2)|
-|**shitu bai**|fracaso|zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|
-|**shitu**|perder|zho:失 (shī), jpn:失 (shitsu), kor:실 (šil), vie:thất|
+|**shiti bai**|fracaso|zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|
+|**shiti**|perder|zho:失 (shī), jpn:失 (shitsu), kor:실 (šil), vie:thất|
 |**shofer ja**|conductor (chofer)|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|
 |**shoke**|choque (sacudida)|eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|
 |**shopi**|compras (shopping)|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
@@ -1191,7 +1191,7 @@
 |**shuli**|arreglo|zho:修理 (xiūlǐ), jpn:修理 (shuri), kor:수리 (suri)|
 |**shuru**|comienzo (inicio, principio)|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
 |**shush**|chito (chist)|eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|
-|**shutu**|dotes (arte, habilidad)|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|
+|**shuta**|dotes (arte, habilidad)|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|
 |**si**|ser (estar)|zho:是 (shì), yue:是 (si4) + spa:por:ser|
 |**sian**|cian|eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|
 |**side**|sentarse|rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|
@@ -1209,6 +1209,7 @@
 |**sir**|secreto|ara:(sirr), tur:sır, fas:(serr), swa:siri|
 |**siro**|cero (ninguno)|ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), eng:por:zero, fra:zéro, spa:cero|
 |**sistem**|sistema|eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|
+|**sita**|citar|eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|
 |**siti**|ciudad|eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:市 (shi)|
 |**siu**|coser|hin:सीना (sīnā), ben:স্যূত (syūta), mar:शिवणे (śivṇe), guj:સીવવું (sīvvũ), rus:шить (šit'), eng:sew|
 |**sivil**|civilizado|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
@@ -1242,7 +1243,7 @@
 |**sun**|pronto|eng:soon|
 |**suna**|costumbre (tradición, convención)|ara: سُنَّة (sunna), hin:सुन्नत (sunnat), ben:সুন্নাহ (śunnah), eng:may:sunnah, fra:spa:sunna, por:suna, rus:сунна, tur:sünnet|
 |**sundar**|hermoso (bello, lindo)|hin:सुन्दर (sundar), ben:সুন্দর (sundôr), guj:સુંદર (sundar),|
-|**supa**|sopa|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
+|**supa**|sopa|eng:soup, fra: soupe, spa:por:sopa, deu: Suppe, rus:суп (sup), jpn:スープ (sūpu), kor:수프 (supeu), hin:सूप (sūp), may:sup, swa:supu|
 |**super**|maravilloso (magnífico)|eng:fra:super, spa:por:súper, jpn:スーパー (sūpā)|
 |**supriza**|sorpresa|eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|
 |**susan**|lirio|fas:sousan, ara:(sawsan), heb:(šōšān), + eng:Susan, por:spa:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)|

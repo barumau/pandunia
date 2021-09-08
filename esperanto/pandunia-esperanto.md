@@ -175,6 +175,7 @@ baze shula kan - bazlernejo
 be ais - glaciiĝi (frostiĝi)  
 be boli - boli  
 be bum - eksplodi  
+be chen - antaŭiri  
 be dom - loĝi  
 be duka - lamenti  
 be dura - daŭri (dum)  
@@ -283,12 +284,12 @@ buyu - baobabo
 Ceres - Cereso  
 cerium - cerio  
 cesium - cezio  
-chabe - ŝlosilo  
+chabi - ŝlosilo  
 chai - teo  
 chai pote - teujo  
 chakra - rado  
 chaku - tranĉilo  
-chamache - kulero  
+chamacha - kulero  
 champion - ĉampiono  
 chanse - ŝanco  
 chante - kanti  
@@ -298,12 +299,11 @@ chape - presaĵo
 chati - tekto  
 chatre - kvar (4)  
 chau - herbo  
-cheka - kontroli  
+cheke - kontroli  
+chen - antaŭe (pasinte)  
+chen den - hieraū  
 chen zaman - pasinteco  
-chena - antaŭiri  
-chendeno - hieraū  
-cheniki - malnova  
-cheno - antaŭe (pasinte)  
+chen zaman di - malnova  
 Chile - Ĉilio  
 chimpanzi - ĉimpanzo  
 chin ba - avo  
@@ -313,20 +313,18 @@ chinchila - ĉinĉilo
 ching - peti (bonvolu)  
 ching lai - inviti  
 chini - porcelano  
-chita - citi  
 chize - fromaĝo  
 choda - fiki  
 choklate - ĉokolado  
-choklatobaton - ĉokolado  
-chor - ŝtelo  
-chora - ŝteli  
-chorer - ŝtelisto  
+choklate baton - ĉokolado  
+chori - ŝtelo  
+chori ja - ŝtelisto  
 chum - kiso  
 chun - vilaĝo  
 chupa - suĉi  
-chutu - eliro  
-chutu mun - elirejo  
-chuza - elekti  
+chuti - eliro  
+chuti mun - elirejo  
+chuze - elekti  
 chuze - elekto  
 ####D - D  
 da - de (partiklo de posedo)  
@@ -488,6 +486,7 @@ fa - fari
 fa bina - konstrui  
 fa budi - kompreni  
 fa chape - presi  
+fa chori - ŝteli  
 fa chutu - eliri  
 fa daka - kovri  
 fa dante - mordi  
@@ -993,7 +992,7 @@ kisma - sorto (destino)
 kitabu - skribo  
 kitabu gi - tajpilo  
 kitabu kan - librejo  
-kitabu shutu - literaturo  
+kitabu shuta - literaturo  
 kivi - kivo  
 klar - klara  
 klar! - kompreneble  
@@ -1314,7 +1313,7 @@ Noe di nave - Arkeo de Noa
 nomer - nombro  
 nong di - agrikultura  
 nong nomi - agronomio  
-nong shutu - agrikulturo  
+nong shuta - agrikulturo  
 norde - nordo  
 Norge - Norvegio  
 norge basha - norvega  
@@ -1625,7 +1624,7 @@ shir - poemo
 shirope - siropo  
 shish nama - ŝaŝliko  
 shite - merdo  
-shitu bai - malsukceso  
+shiti bai - malsukceso  
 Shiva - Ŝivo  
 shofer ja - ŝoforo (kondukisto)  
 shopi ja - aĉetanto (aĉetisto)  
@@ -1659,6 +1658,7 @@ singa - leono
 Singapur - Singapuro  
 sismologi - sismologio  
 sistem - sistemo  
+sita - citi  
 siti - urbo  
 so - elemento (ero)  
 sofa - sofo  
@@ -1698,7 +1698,7 @@ sulfur - sulfuro
 sum - sumo  
 suna islam din - sunaismo  
 sundar - bela  
-sundar shutu - arto  
+sundar shuta - arto  
 sundar ta - beleco  
 Suomi - Finnlando  
 suomi basha - lingvo  

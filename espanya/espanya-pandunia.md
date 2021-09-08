@@ -110,7 +110,7 @@ alfabeto - zi sili
 alfabeto cirílico - Kiril zi  
 alfabeto latino - Latin zi  
 alfarero - pote ja  
-alfarería - pote shutu  
+alfarería - pote shuta  
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - tal tela  
 alga - alga  
@@ -172,7 +172,7 @@ andamiaje - fute ban
 Andes - Andes  
 andesita - andesite  
 Andorra - Andora  
-andrajoso - chirchiri  
+andrajoso - chira chira di  
 anglicanizar - fa english kitabu  
 anglófilo - english fili ja  
 Angola - Angola  
@@ -226,7 +226,7 @@ Argentina - Argentina
 argumentar (alegar) - fa tese  
 argumento - argum  
 argón - argon  
-aritmética (cálculos) - hisabu shutu  
+aritmética (cálculos) - hisabu shuta  
 arma - arme  
 arma nuclear - kerne arme  
 armadura - defa kaske  
@@ -247,7 +247,7 @@ arroz - ris
 arruinado (devastado, asolado) - harabu  
 arruinar (destruir, devastar, asolar) - harabu  
 arsénico - arsene  
-arte marcial - jeng shutu  
+arte marcial - jeng shuta  
 artesano - jang ja  
 artificial (sintético) - sana di  
 artista - arte ja  
@@ -305,10 +305,10 @@ aviso (notificación) - note anjil
 avispero (colmena) - fong nide  
 axproximarse - be karibu  
 ay! - au  
-ayer - chendeno  
+ayer - chen den  
 ayuda (asistencia) - helpe  
 ayudar (asistar) - fa helpe  
-azada - chope  
+azada - chopu  
 azafrán - safran  
 azar (aleatorio) - zar di  
 Azerbaiyán - Azerbaijan  
@@ -356,7 +356,7 @@ Barbuda - Barbuda
 barco (bote) - nave  
 bario - barium  
 barra (vara, palo) - baton  
-barra de chocolate - choklatobaton  
+barra de chocolate - choklate baton  
 barrar (bloquear, obstruir) - bara  
 barrera (barda) - bara mur  
 barriga (vientre, panza) - pete  
@@ -380,7 +380,7 @@ bebé - bebe
 Belarús - Belarus  
 Belice - Belize  
 belio - bel  
-bellas artes - sundar shutu  
+bellas artes - sundar shuta  
 belleza (hermosura) - sundar ta  
 bellota - baluta frute  
 beneficioso (bueno) - eu  
@@ -586,7 +586,7 @@ carpeta - dokumen sanduku
 carpintero - moka jang ja  
 carrera - pei gung jiu  
 carta (mapa, tabla, gráfico) - metre grafi  
-cartografía - metre grafi shutu  
+cartografía - metre grafi shuta  
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
@@ -687,7 +687,7 @@ cinturón (zona) - zona
 cinético - kino di  
 circonio - zirkonium  
 circón - zirkon  
-citar - chita  
+citar - sita  
 citología - selu logi  
 ciudad - siti  
 Ciudad de México - Mehiko siti  
@@ -709,7 +709,7 @@ clon - fa klon
 clonar - klon  
 cloro - klor  
 club - klube  
-clásico - chenyangi  
+clásico - chen yang di  
 cobalto - kobalte  
 cobre - kupre  
 coca - koka  
@@ -752,7 +752,7 @@ comer (bebir) - yam
 comercio - vende shope  
 comida - yam she  
 comienzo (inicio, principio) - shuru  
-comilla - chitomarke  
+comilla - sita marke  
 comino - zira  
 Comoros - Komoro nesia  
 compartir (tener en común) - fa komun  
@@ -830,7 +830,7 @@ corazón - shim
 Corea - Chosen  
 Corea del Norte - Norde Chosen  
 Corea del Sur - Sude Chosen  
-coreano - choseni  
+coreano - chosen di  
 coro - chante grupe  
 corona - korona  
 corporal (corpóreo) - badan di  
@@ -905,7 +905,10 @@ Cuba - Kuba
 cubierto de hielo - ais di  
 cubo - kube  
 cubrir (tapar) - fa daka  
-cuchara - chamache  
+cuchara - chamacha  
+cuchara de sopa - supa chamacha  
+cucharilla - chai chamacha  
+cucharón (cazo) - pote chamacha  
 cuchillo - chaku  
 cuenta (factura) - fatura  
 cuenta - hisabu loge  
@@ -1104,7 +1107,7 @@ dormir - be sona
 dormitorio - sona kamar  
 dos (2) - du  
 dos veces - du mar  
-dotes (arte, habilidad) - shutu  
+dotes (arte, habilidad) - shuta  
 dragón - lung  
 drama - drama  
 droga (narcótico) - droge  
@@ -1154,7 +1157,7 @@ electricidad - eletro
 electrón - eletron  
 elefante - gaja  
 elegante (chic) - shike  
-elegir (escoger, seleccionar) - chuza  
+elegir (escoger, seleccionar) - chuze  
 elemento (unidad fundamental) - so  
 elemento químico - kimi so  
 elfo - elfe  
@@ -1242,7 +1245,7 @@ escama - shalke
 Escandinavia - Eskandinavia  
 escandio - eskandium  
 escaparse (evitar, huir) - bega  
-escapatoria - chutu  
+escapatoria - chuti  
 escarcha - hima rose  
 escasez - shau ta  
 escaso (disperso, ralo) - an jami di  
@@ -1422,7 +1425,7 @@ foto (fotografía) - foto grafi
 fotografía - foto grafi shuta  
 fotógrafo - foto grafi ja  
 fotón - foto so  
-fracaso - shitu bai  
+fracaso - shiti bai  
 fragmento (pedazo) - parche  
 Francia - France  
 francio - francium  
@@ -1905,7 +1908,7 @@ lado (flanco) - late
 lado derecho - raite  
 lado izquerdo - lefte  
 ladrillo - dobe  
-ladrón - chorer  
+ladrón - chori ja  
 ladrón - luta ja  
 lagarto - saur  
 lago - lage  
@@ -1990,7 +1993,7 @@ lista blanca - halal liste
 lista negra - haram liste  
 listo (preparado) - redi  
 litera - cheng bede  
-literatura - kitabu shutu  
+literatura - kitabu shuta  
 litio - litium  
 litro - litre  
 Lituania - Lietuva  
@@ -2000,7 +2003,7 @@ llama - liama
 llamar (poner) - fa name  
 llamarse - be name  
 llanura - plate topo  
-llave - chabe  
+llave - chabi  
 llenar - fa pul  
 lleno (completo) - pul  
 llevar (verstirse) - fuku  
@@ -2316,7 +2319,7 @@ máquina (dispositivo, aparato) - gi
 máquina de escribir - kitabu gi  
 más - mas  
 más tarde - pos  
-más temprano (antes, haber, en el pasado) - cheno  
+más temprano (antes, haber, en el pasado) - chen  
 máscara - maska  
 mástil - masta  
 máximo - masim  
@@ -2474,7 +2477,7 @@ olvidar - an memo
 ominoso (amenazador) - dus sin di  
 Omán - Oman  
 onda - onda  
-opción - chuzable  
+opción - chuze she  
 opinar - fa rai  
 opinión (juicio, consideración) - rai  
 oponerse (resistir) - shatan  
@@ -2648,9 +2651,9 @@ pepino - hiyar
 pepita - seme dane  
 pequeño - lili  
 pera - lezi  
-perdedor - shitu bai ja  
+perdedor - shiti bai ja  
 perder (fallar) - fa shibai  
-perder - shitu  
+perder - shiti  
 perdonar (disculpar) - fa maf  
 perdurable (longevo, prolongado) - long dura di  
 perdón - maf  
@@ -2783,11 +2786,11 @@ potasio - kalium
 practicar (ensayar, ejercitar) - fa lenshi  
 pradera (pastizal) - chau istan  
 praseodimio - praseodimium  
-preceder (anteceder) - chena  
+preceder (anteceder) - be chen  
 precio (coste) - koste  
 precioso - bau di  
 preferir (favorecer) - mas fili  
-prefijo - chenfikse  
+prefijo - chen fikse  
 pregunta - sual  
 preguntar (inquirir) - fa sual  
 preguntarse - be sabi vol  
@@ -2801,10 +2804,10 @@ presión - presa
 presión atmosférica - air presa  
 prestar (pedir prestado) - jeku  
 prestar - jeku dona  
-presuponer - chenaga  
+presuponer - chen ga  
 presupuesto - bujete  
-prever (esperar, pensar) - chenvida  
-previo (anterior) - cheni  
+prever (esperar, pensar) - chen vide  
+previo (anterior) - chen  
 primavera - hua mosim  
 primer (inicial, inaugural) - shuru di  
 primer ministro - shefe minister  
@@ -2931,7 +2934,7 @@ raramente - nadir mar
 raro (extraño) - bizar  
 raro - nadir  
 raro - rare  
-rasgar (romper) - chir  
+rasgar (romper) - chira  
 rasgar (romper) - chira  
 raspar (arañar) - frike  
 ratón - mushu  
@@ -2972,7 +2975,7 @@ relación (asociación, conexión) - guanshe
 relatar (narrar) - fa kata  
 religioso - din di  
 religión - din  
-reliquia - chenike  
+reliquia - chen zaman she  
 reloj - hor loga gi  
 reluciente (brillante, lustroso) - foto mira di  
 relámpago - eletro radi  
@@ -3011,7 +3014,7 @@ retículo - krus lin
 reunión (junta, mitin) - miti  
 Reunión - Reunion  
 reventar - parche kai  
-revisar (chequear) - cheka  
+revisar (chequear) - cheke  
 revista (periódico, gaceta) - gazeta  
 rey - man raja  
 rey o reina - raja  
@@ -3029,11 +3032,11 @@ rio - rivo
 ritmo - ritim  
 rito (ceremonia) - puja riti  
 riñon - nefre  
-robar (hurtar) - chora  
+robar (hurtar) - fa chori  
 roble - baluta  
 roble común - europe baluta  
 roble daimyo - dante baluta  
-robo (hurto) - chor  
+robo (hurto) - chori  
 robot (bot) - robote  
 roca (piedra) - petra  
 rock - roke muzika  
@@ -3090,7 +3093,7 @@ sagrado (santo) - sante
 sal - sal  
 sala de chat (tertuliadero) - blabla kan  
 salchicha - sosis  
-salida - chutu mun  
+salida - chuti mun  
 salino - sal di  
 salir (egresar) - be ekso  
 salir (irse) - fa chutu  
@@ -3339,7 +3342,7 @@ telar - tela gi
 telaraña - arane nete  
 telefonear - fa tele fon  
 telefono - tele fon gi  
-telefonía - tele fon shutu  
+telefonía - tele fon shuta  
 telescopio - teleskope  
 teletransportarse - be tele loka  
 televisión - tele vide gi  
@@ -3398,7 +3401,7 @@ tira (faja, vendaje, cinta) - fasha
 tirano (déspota) - zalim raja  
 tirar (lanzar, echar, arrojar, aventar) - lanse  
 tirar - tire  
-tiro con arco - arka shutu  
+tiro con arco - arka shuta  
 titanio - titanium  
 toalla - gan tela  
 tocar (rozar) - tochu  
@@ -3583,7 +3586,7 @@ vidrio (cristal) - kancha
 vidrio volcánico - hogo shan kancha  
 viejo (anciano) - lau  
 viejo (anciano) - lau jan  
-viejo (antiguo) - cheniki  
+viejo (antiguo) - chen zaman di  
 viento - hava  
 viernes - var penta  
 Vietnam - Viete  

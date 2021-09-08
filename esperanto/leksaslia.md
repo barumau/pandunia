@@ -34,7 +34,7 @@
 |**anjil**|mesaĝo|greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl), rusa:евангелие (evangeliye), franca:évangile, portugala:evangelho|
 |**anten**|anteno|angla:antenna, hispana:portugala:malaja:antena, franca:antenne, rusa:антенна (antenna), turka:anten, japana:アンテナ (antena)|
 |**anus**|anuso|angla:franca:anus, portugala:ânus, hispana:ano, deu:Anus, rusa:анус (anus), turka:anüs|
-|**aple**|pomo|angla:apple, deu:Apfel, malaja:apel, bengala:আেপল (apôl), zulua:ihhabhula|
+|**aple**|pomo|angla:apple, deu:Apfel, rusa:яблоко (yabloko), malaja:apel, bengala:আেপল (apôl), zulua:ihhabhula|
 |**arane**|araneo|franca:araignee, portugala:aranha, hispana:araña, angla:arachnid|
 |**arbuza**|akvomelono|rusa:арбуз (arbuz), polona:arbuz, turka:karpuz, greka:καρπούζι (karpuzi), hindia:तरबूज़ (tarbūz), bengala:তরমুজ (tôrmuj)|
 |**area**|areo|angla:area, portugala:hispana:área, polona:areał, franca:aire|
@@ -142,11 +142,11 @@
 |**bus**|buso|deu:franca:angla:hispana:bus, rusa:автобус (avtobus), hindia:बस (bas), urdua:(bas), japana:バス (basu), korea:버스 (beoseu), persa:(otobus), turka:otobüs, svahila:basi, mandarena:巴士 (bāshì)|
 |**buton**|klavo (butono)|angla:button, hispana:botón, portugala:botão, franca:bouton, hindia:बटन (baṭan), bengala:বোতাম (botam), japana:ボタン (botan), korea:버튼 (beoteun)|
 |**buyu**|baobabo|svahila:mbuyu, volofa:buy, sna:muuyu, zulua:isimuhu|
-|**chabe**|ŝlosilo|portugala:chave, hispana:llave, hindia:चाबी (cābī), bengala:চাবি (cabi), konga:nsapi|
+|**chabi**|ŝlosilo|portugala:chave, hispana:llave, hindia:चाबी (cābī), bengala:চাবি (cabi), konga:nsapi|
 |**chai**|teo|mandarena: 茶 (chá), japana: (cha), korea:차 (cha), vjetnama:trà, turka:çay, svahila:chai, rusa:чай (čay), hindia:चाय (cāy), araba:(šāy), portugala:chá|
 |**chakra**|rado|hindia:चक्र (cakra), bengala:চাকা (caka), pan:ਚੱਕਰ (cakkar), guĝarata:ચક્ર (cakra), teluga:చక్రము (cakramu), marataja:चाक (cāk), tha:จักร (jàk), malaja:cakera, angla:chakram|
 |**chaku**|tranĉilo|hindia:चाक़ू (cāqū), persa:(čâqu), nep:चक्कु (cakku), kanara:ಚಾಕು (cāku)|
-|**chamache**|kulero|persa:(čamče), panĝaba:ਚਮਚਾ (camcā), bengala:চামচ (camôc), hindia:चम्मच (cammac), kanara:ಚಮಚ (camaca), taja:ช้อน (chon)|
+|**chamacha**|kulero|hindia:चम्मच (cammac), bengala:চামচ (camôc), malaja:camca, kanara:ಚಮಚ (camaca), persa: چمچه (čamče), teluga:చెమ్చా (cemcā), panĝaba:ਚਮਚਾ (camcā), turka:çömçe + taja:ช้อน (chon)|
 |**champion**|ĉampiono|angla:franca:champion, hispana:campeón, portugala:campeão, rusa:чемпион (chempion), turka:şampiyon, japana:チャンピオン (chanpeon), korea:챔피언 (chaempieon)|
 |**chanse**|ŝanco|franca:angla:hispana:portugala:chance, japana:チャンス (chansu), korea:찬스 (chanseu), rusa:шанс (šans), turka:şans, hindia:चांस (cāns)|
 |**chante**|kanto|franca:chanter, angla:chant, portugala:hispana:cantar, + mandarena:唱 (chàng), korea:창 (chang)|
@@ -154,21 +154,21 @@
 |**chati**|tekto|hindia:छत (chat); छदि (chadi), bengala: ছাদ (chad), turka:çatı, kyr:чатыр (čatyr) + araba: سَطْح‎ (saṭḥ)|
 |**chatre**|kvar (4)|rusa:четыре (chetyre), hindia:चार (cār), bengala:চার (car), malaja:catur + franca:quatre, hispana:cuatro, portugala:quatro|
 |**chau**|herbo|mandarena:草 (cǎo), kantona:草 (cou2), vua:草 (tshau2), japana:草 (sō), vjetnama:tháu|
-|**cheka**|kontroli|angla:check, hispana:chequear, portugala:checar, deu:chekcen, japana:チェックする (chekkusuru)|
-|**cheno**|antaŭe (pasinte)|mandarena:前 (qián), kantona:前 (cin4), japana:前 (zen), korea:전 (jeon), vjetnama:tiền|
+|**cheke**|kontroli|angla:check, hispana:chequear, portugala:checar, deu:chekcen, japana:チェックする (chekkusuru)|
+|**chen**|antaŭe (pasinte)|mandarena:前 (qián), kantona:前 (cin4), japana:前 (zen), korea:전 (jeon), vjetnama:tiền|
 |**chimpanzi**|ĉimpanzo|angla:chimpanzee, hispana:chimpancé, portugala:franca:chimpanzé, rusa:шимпанзе (shimpanze), turka:şempanze, araba:شمبانزي‎ (šimbanzī), hindia:चिंपांजी (cimpāñjī), japana:チンパンジー (chinpanjī), malaja:cimpanzi|
 |**chinchila**|ĉinĉilo|angla:hispana:franca:chinchilla, portugala:chinchila, rusa:шиншилла (šinšilla), turka:çinçilya, malaja:cincila, japana:チンチラ (chinchira)|
 |**ching**|peti (bonvolu)|mandarena:请 (qǐng), kantona:請 (cing2), korea:청 (cheong), vjetnama:thỉnh|
 |**chini**|porcelano|mandarena:瓷 (cí) + angla:chinaware, hindia:चीनी (cīnī), bengala:চীনামাটি (cinamaṭi), araba: صِينِيَّة‎ (ṣīniyya)|
-|**chita**|citi|angla:cite, hispana:portugala:citar, franca:citer, deu:zitieren, rusa:цитировать (citirovat’)|
 |**chize**|fromaĝo|angla: cheese, mandarena: 起司 (qǐsī), svahila: chizi, japana:チーズ (chīzu), korea:치즈 (chijeu)|
 |**choda**|fiki|bengala:চোদা (coda), hindia:चोदना (codnā)|
 |**choklate**|ĉokolado|hispana:portugala:angla:chocolate, franca:chocolat, rusa:шоколад (šokolad), mandarena:巧克力 (qiǎokèlì), japana:チョコレート (chokorēto), korea:초콜렛 (chokollet), hindia:चाकलेट (cāklet), bengala:চকলেট (côkleṭ), malaja:cokelat, svahila:chokoleti, turka:çikolata|
-|**chor**|ŝtelo|hindia:marataja:चोरी (corī), urdua:(corī), tha:โจร (chon), malaja:curi, bengala:চুরি (curi)|
+|**chori**|ŝtelo|hindia:marataja:चोरी (corī), urdua:(corī), tha:โจร (chon), malaja:curi, bengala:চুরি (curi)|
 |**chum**|kiso|hindia:चूमना (cūmnā), urdua:(cūmnā), malajala:ചുംബനം (cumbanaṃ), malaja:cium, japana:チュー (chū), taja:จูบ (cup)|
 |**chun**|vilaĝo|mandarena:村 (cūn), kantona:村 (cyun1), japana:村 (son), korea:촌 (chon), vjetnama:thôn|
 |**chupa**|suĉi|hispana:portugala:chupar, kmera:ជប់ (cup)|
-|**chuza**|elekti|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
+|**chuti**|eliro|mandarena:出 (chū), kantona:出 (ceot1), vua:出 (tsheq4), japana:出 (shutsu), korea:출 (chul), vjetnama:xuất|
+|**chuze**|elekti|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
 |**da**|de (partiklo de posedo)|franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|oceano|mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)|
 |**dai**|granda|kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai,tai), korea:대— (dae-)|
@@ -800,7 +800,7 @@
 |**shir**|poemo|heb:שיר (šir), araba:(šiʿr), turka:şiir, persa:(še'r), svahila:shairi, mandarena:诗 (shī), kantona:詩 (si1), japana:詩 (shi), korea:시 (shi)|
 |**shirope**|siropo|araba:(šarāb), portugala:xarope, angla:syrup, turka:şurup, japana:シロップ (shiroppu), svahila:shira|
 |**shite**|merdo|angla:shit, mandarena:屎 (shǐ), kantona:屎 (si2)|
-|**shitu bai**|malsukceso|mandarena:失败 (shībài), japana:失敗 (shippai), korea:실패 (šilpæ), vjetnama:thất bại|
+|**shiti bai**|malsukceso|mandarena:失败 (shībài), japana:失敗 (shippai), korea:실패 (šilpæ), vjetnama:thất bại|
 |**shofer ja**|ŝoforo (kondukisto)|franca:angla:deu:chauffeur, hispana:portugala:chofer, rusa:шофёр (šofjor), polona:szofer, taja: โชเฟอร์ (chofoe), turka:şoför, persa:(šofer)|
 |**shou**|montri (ekspozicii)|angla:deu:franca:hispana:portugala:show, rusa:шоу (šou), turka:şov, svahila:shoo, taja:โชว์ (choo), korea:쇼 (syo), japana:ショー (shō), mandarena:秀 (xiù)|
 |**shukra**|danko|araba: شُكْرًا‎ (šukran), hindia:शुक्रिया (śukriyā);शुक्र (śukr), bengala:শুকরিয়া (śukriẏa);শোকর (śokôr), svahila:shukrani;-shukuru, turka:şükür|
@@ -815,6 +815,7 @@
 |**sing**|stelo|mandarena:星 (xīng), vua:星 (xing), kantona:星 (sing1), japana:星 (sei), korea:성 (seong)|
 |**singa**|leono|malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi), + svahila:simba|
 |**sistem**|sistemo|angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem|
+|**sita**|citi|angla:cite, hispana:portugala:citar, franca:citer, deu:zitieren, rusa:цитировать (citirovat’)|
 |**siti**|urbo|angla:city, franca:cité, portugala:cidade, hispana:ciudad, itala:città + mandarena:市 (shì), korea:시 (si), japana:市 (shi)|
 |**so**|elemento (ero)|mandarena:素 (sù), kantona:素 (sou3), vua:素 (su2), japana:素 (so), korea:소 (so), vjetnama:tố|
 |**sofa**|sofo|angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), hindia:सोफ़ा (sofā)|
@@ -837,7 +838,7 @@
 |**sukar**|sukero|angla:sugar, franca:sucre, hispana:azúcar, portugala:açúcar, araba: سُكَّر (sukkar), hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), malaja:sakar, svahila:sukari, turka:şeker, tamila:சக்கரை (cakkarai)|
 |**sum**|sumo|angla:sum, hispana:suma, portugala:soma, franca:somme, deu:Summe, rusa:сумма (summa)|
 |**sundar**|bela|hindia:सुन्दर (sundar), bengala:সুন্দর (sundôr), guĝarata:સુંદર (sundar),|
-|**supa**|supo|hispana:sopa, angla: soup, franca: soupe, deu: Suppe, svahila: supu, rusa:суп (sup), malaja:sup, japana:スープ (sūpu)|
+|**supa**|supo|angla:soup, franca: soupe, hispana:portugala:sopa, deu: Suppe, rusa:суп (sup), japana:スープ (sūpu), korea:수프 (supeu), hindia:सूप (sūp), malaja:sup, svahila:supu|
 |**super**|bonega|angla:franca:super, hispana:portugala:súper, japana:スーパー (sūpā)|
 |**supriza**|surprizo|angla:surprise, turka:sürpriz, persa:(surpris), rusa::сюрприз (siurpriz), portugala:surpresa, hispana:sorpresa|
 |**sushi**|suŝio|japana:寿司 (sushi), angla:hispana:sushi, rusa:су́ши (sushi), turka:suşi|

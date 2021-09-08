@@ -137,7 +137,7 @@ argon - argon
 argum - argument  
 arka - łuk  
 arka ja - łucznik  
-arka shutu - łucznictwo  
+arka shuta - łucznictwo  
 arme - broń  
 aroma - wąchać  
 aroma - zapach (aromat, smród, odór)  
@@ -285,6 +285,7 @@ be ajibu - zachwycić się (być zachwyconym)
 be bio mute - fermentować  
 be boli - ugotować się, gotować się  
 be bum - eksplodować (wybuchnąć, wybuchać)  
+be chen - poprzedzić, poprzedzać  
 be dai - urosnąć, rosnąć, wzrosnąć, wzrastać  
 be dara - latać (fruwać)  
 be dom - mieszkać  
@@ -457,15 +458,16 @@ celsius darje - stopień Celsjusza
 Ceres - Ceres (planeta karłowata)  
 cerium - cer  
 cesium - cez  
-chabe - klucz  
+chabi - klucz  
 Chade - Czad  
 chai - herbata  
+chai chamacha - łyżeczka  
 chai kan - herbaciarnia  
 chai kupa - kubek do herbaty  
 chai pote - imbryk (czajnik)  
 chakra - koło  
 chaku - nóż  
-chamache - łyżka  
+chamacha - łyżka  
 champion - czempion  
 chanse - szansa  
 chante - śpiewać  
@@ -479,20 +481,19 @@ chatre - cztery (4)
 chatre gona - kwadrat (czworokąt, czworobok, tetragon)  
 chau - trawa  
 chau istan - łąka  
-cheka - sprawdzić, sprawdzać, skontrolować  
+cheke - sprawdzić, sprawdzać, skontrolować  
+chen - poprzedni  
+chen - wcześniej (uprzednio, poprzednio, przedtem)  
+chen den - wczoraj  
+chen fikse - przedrostek (prefiks)  
+chen ga - zakładać (założyć)  
+chen vide - przewidzieć (spodziewać się)  
+chen vide di - spodziewany (przewidziany)  
+chen yang di - klasyczny  
 chen zaman - przeszłość  
-chena - poprzedzić, poprzedzać  
-chenaga - zakładać (założyć)  
-chendeno - wczoraj  
-chenfikse - przedrostek (prefiks)  
+chen zaman di - stary, starożytny  
+chen zaman she - relikwia  
 cheng - warstwa (poziom, piętro, kondygnacja)  
-cheni - poprzedni  
-chenike - relikwia  
-cheniki - stary, starożytny  
-cheno - wcześniej (uprzednio, poprzednio, przedtem)  
-chenvida - przewidzieć (spodziewać się)  
-chenvidi - spodziewany (przewidziany)  
-chenyangi - klasyczny  
 cheri - wiśnia (czereśnia)  
 Chernagora - Czarnogóra  
 Cheska - Republika Czeska, Czechy  
@@ -509,32 +510,29 @@ ching - prosić
 ching lai - zaprosić, zapraszać  
 chini - porcelana  
 Chipe - Albania  
-chir - rwać (drzeć)  
+chira - rwać (drzeć)  
 chira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
-chirchira - strzępić (drzeć)  
-chirchiri - rozstrzępiony (podarty)  
-chita - cytować  
-chitomarke - cudzysłów  
+chira chira - strzępić (drzeć)  
+chira chira di - rozstrzępiony (podarty)  
 chize - ser  
 choda - jebać, kopulować  
 choi - zielenina  
 choklate - czekolada  
-choklatobaton - baton czekoladowy  
+choklate baton - baton czekoladowy  
 chongching - Chongqing  
-chope - motyka  
-chor - kradzież  
-chora - ukraść, kraść  
-chorer - złodziej  
+chopu - motyka  
+chori - kradzież  
+chori ja - złodziej  
 Chosen - Korea  
-choseni - koreański  
+chosen di - koreański  
 chum - całus  
 chun - wieś, wioska  
 chupa - ssać  
-chutu - wyjśćie, opuszczenie  
-chutu mun - drzwi wyjściowe  
-chuza - wybrać, wybierać, selekcjonować  
-chuzable - opcja (wybór)  
+chuti - wyjśćie, opuszczenie  
+chuti mun - drzwi wyjściowe  
+chuze - wybrać, wybierać, selekcjonować  
 chuze - wybór, elekcja, selekcja  
+chuze she - opcja (wybór)  
 chuze yo gol - przeznaczyć  
 Cuana - Botswana  
 ####D - D  
@@ -803,6 +801,7 @@ fa bina - zbudować, budować, konstruować
 fa biznes lon - negocjować  
 fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 fa chape - naciskać, zostawiać ślad  
+fa chori - ukraść, kraść  
 fa chutu - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 fa daka - przykryć, przykrywać, ukryć, ukrywać  
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
@@ -1365,7 +1364,7 @@ Hindu din - hinduizm
 hisabu loge - konto  
 hisabu logi - matematyka  
 hisabu logi ja - matematyk  
-hisabu shutu - arytmetyka  
+hisabu shuta - arytmetyka  
 histori - historia; annały, roczniki  
 histori ja - historyk  
 histori logi - historia, badanie historii  
@@ -1511,7 +1510,7 @@ jene yo zou - rozmnażać
 jeng - walka, wojna  
 jeng di - militarny, wojskowy, wojenny  
 jeng ja - wojownik, bojownik  
-jeng shutu - sztuka walki  
+jeng shuta - sztuka walki  
 jenshen - żeń-szeń  
 Jerze - Jersey  
 jeste - gest  
@@ -2161,7 +2160,7 @@ metal bede - kowadło
 metal jang ja - kowal  
 metre - zmierzyć (miara)  
 metre grafi - mapa  
-metre grafi shutu - kartografia  
+metre grafi shuta - kartografia  
 metre unta - jednostka miary  
 meza - stół  
 meza tela - obrus  
@@ -3021,9 +3020,9 @@ shish - rożen (szpikulec)
 shish kababu - szisz kebab  
 shish nama - szaszłyk  
 shite - gówno  
-shitu - stracić (utracić, tracić, zgubuć, gubić)  
-shitu bai - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
-shitu bai ja - przegrany, pokonany  
+shiti - stracić (utracić, tracić, zgubuć, gubić)  
+shiti bai - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
+shiti bai ja - przegrany, pokonany  
 Shiva - Śiwa  
 shofer ja - szofer (kierowca)  
 shoke - szokwstrząs; kolizja  
@@ -3043,7 +3042,7 @@ shuru - początek
 shuru di - pierwszy, początkowy  
 shush - ćsi  
 shush di - cichy  
-shutu - umiejętność (kompetencja)  
+shuta - umiejętność (kompetencja)  
 si - być  
 si membre - należeć (być członkiem)  
 sian - niebieskozielony (cyjan)  
@@ -3084,6 +3083,8 @@ sismo - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)
 sismologi - sejsmologia  
 sistem - system  
 sistem di - systemowy  
+sita - cytować  
+sita marke - cudzysłów  
 siti - miast, miasteczko  
 siu - szyć  
 sivil - cywilizowany (ucywilizowany)  
@@ -3171,10 +3172,11 @@ suna - obyczaj, zwyczaj, tradycja, praktyka, konwencja
 suna di - konwencjonalny, zwyczajowy, tradycyjny  
 sundar - piękny, przystojny  
 sundar daka - dekoracja (ornament)  
-sundar shutu - sztuka  
+sundar shuta - sztuka  
 sundar ta - piękno  
 Suomi - Finlandia  
 supa - zupa  
+supa chamacha - łyżka stołowa  
 super - wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super  
 supra - wiadukt, przejście powyżej  
 supra di - górny  
@@ -3548,7 +3550,7 @@ zona - pas, strefa
 zong - słup (pal, kołek)  
 zong minte - mięta zielona (mięta kłosowa)  
 zou - animal  
-zou agro shutu - hodowla zwierząt  
+zou agro shuta - hodowla zwierząt  
 zou bagi - zoo (ogród zoologiczny)  
 zou kata - bajka  
 zou logi - zoologia  

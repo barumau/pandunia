@@ -165,38 +165,39 @@ bum - 爆発
 burge - 要塞  
 buta - ブーツ  
 ####C - C  
-chabe - 鍵  
+chabi - 鍵  
 chai - 茶  
+chai chamacha - ティースプーン  
 chai kan - 茶店 (茶館)  
 chai kupa - 茶碗  
 chai pote - 急須  
 chakra - 車輪  
-chamache - スプーン  
+chamacha - スプーン  
 chante grupe - 合唱団  
 chati - 屋根  
 chatre - 四 (4)  
 chau - 草  
 chau istan - 草地  
-chendeno - 昨日  
-cheniki - 古い  
-cheno - 以前 (前に)  
-chenvida - 待ち受ける (見込む)  
-chenyangi - 古典的  
+chen - 以前 (前に)  
+chen den - 昨日  
+chen vide - 待ち受ける (見込む)  
+chen yang di - 古典的  
+chen zaman di - 古い  
 chili fun - パプリカ  
 chin ma - お婆さん  
 ching - 請う (ーて下さい)  
 chini - 磁器  
-chir - 裂く  
 chira - 裂く  
-chirchira - 千切る  
-chirchiri - ぼろぼろ  
+chira - 裂く  
+chira chira - 千切る  
+chira chira di - ぼろぼろ  
 chize - チーズ  
 choi - 菜  
 choklate - チョコレート  
-choklatobaton - チョコバー  
-chope - クワ  
+choklate baton - チョコバー  
+chopu - クワ  
 chun - 村  
-chuzable - オプション (選択)  
+chuze she - オプション (選択)  
 ####D - D  
 dai - 大きい  
 dai dom - 宮殿 (邸宅)  
@@ -618,7 +619,7 @@ kisma - 運命 (宿命)
 kitabu forma - 書式付け  
 kitabu kan - 図書館  
 kitabu minister - 図書係  
-kitabu shutu - 文献 (文学, 文芸)  
+kitabu shuta - 文献 (文学, 文芸)  
 kivi - キーウィフルーツ  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
@@ -731,6 +732,7 @@ luga melon - ハネデューメロン
 luka - 六 (6)  
 luna keke - 月餅  
 lung - 竜  
+lung dou - 四角豆  
 ####M - M  
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
@@ -953,7 +955,7 @@ porei - リーキ
 pos - 後 (後ろ)  
 pos den - 明日  
 pote ja - 陶工  
-pote shutu - 陶芸  
+pote shuta - 陶芸  
 presa - 圧力  
 presa gi - 圧搾機  
 problem - 問題  
@@ -1073,8 +1075,8 @@ shim - 心
 shipi - 湿っぽい  
 shir - 詩  
 shite - 糞 (屎)  
-shitu - 失う (無くす, 落とす)  
-shitu bai - 失敗  
+shiti - 失う (無くす, 落とす)  
+shiti bai - 失敗  
 Shiva - シヴァ  
 shukra - ありがとう (どうも)  
 shula - 教育  
@@ -1087,7 +1089,7 @@ shuli - 修理する
 shulija - 修理工  
 shuru - 開始  
 shush - しーっ  
-shutu - 術  
+shuta - 術  
 sian - シアン  
 siborgium - シーボーギウム  
 side - 座る  
@@ -1135,8 +1137,10 @@ sukar chau - サトウキビ
 sukar oranje - オレンジ (アマダイダイ)  
 sundar - 美しい  
 sundar daka - 装飾  
-sundar shutu - 芸術 (美術)  
+sundar shuta - 芸術 (美術)  
 sundar ta - 美しさ  
+supa - スープ (汁)  
+supa chamacha - さじ (テーブルスプーン)  
 supra - 上  
 supra vakil ja - 上院議員  
 ####T - T  
@@ -1265,7 +1269,7 @@ zoku di - アナログ
 zong - 杭  
 zong minte - スペアミント  
 zou - 動物  
-zou agro shutu - 畜産  
+zou agro shuta - 畜産  
 zou bagi - 動物園  
 zou logi - 動物学  
 zou logi di - 動物学の  

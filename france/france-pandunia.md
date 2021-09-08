@@ -129,7 +129,7 @@ armée - gun
 armée de l'ai - air gun  
 arobase (@) - adres zi  
 arsenic - arsene  
-art - shutu  
+art - shuta  
 artichaut - karchof  
 artiste - arte ja  
 Artsakh - Arcah  
@@ -162,7 +162,7 @@ autocollant - glu grafi
 automne - pade mosim  
 autre - alo  
 autrement - alo  
-avant - cheno  
+avant - chen  
 avec (avoir) - ha  
 aventure - ventur  
 aventurier - ventur ja  
@@ -314,7 +314,7 @@ carte (graphique) - metre grafi
 carte (plan) - topo metre grafi  
 carte - karte  
 carte à collectionner - jama karde  
-cartographie - metre grafi shutu  
+cartographie - metre grafi shuta  
 cauri - kauri  
 cent (100) - sen  
 Centaurée - sentaure  
@@ -373,7 +373,7 @@ citron - limon
 citrouille - kaboga  
 clair - klar  
 classique (canon) - kanon  
-clef - chabe  
+clef - chabi  
 client - klien  
 cloche - dang gi  
 coeur - kerne  
@@ -449,7 +449,8 @@ crêpe - France krepe
 crêpe - krepe  
 crêperie - krepe kan  
 cube - kube  
-cuiller - chamache  
+cuiller - chamacha  
+cuillère à café (petite cuillère) - chai chamacha  
 cultiver - nong  
 culturisme (musculation) - muskul bina  
 cycliste - sikle ja  
@@ -510,7 +511,7 @@ déboguer (débugger) - fa an galta
 début (commencement) - shuru  
 décapé (mariné) - achar di  
 décharge - laji bagi  
-déchirer - chir  
+déchirer - chira  
 déchirer - chira  
 défigurer - fa dus forma  
 désaccord (différend) - alo rai  
@@ -682,7 +683,7 @@ hein? - he
 Hesse - Hese  
 heure - hor  
 heureux - suka  
-hier - chendeno  
+hier - chen den  
 Hindustan - Hindu desh  
 hippopotame  - gubu  
 hiver - leng mosim  
@@ -693,7 +694,7 @@ honneur - onor
 honnête (sûr, crédible, sûrement) - amen  
 honorer - fa onor  
 horloge - hor loga gi  
-houe - chope  
+houe - chopu  
 hourra - ura  
 huile (pétrole) - nefte  
 huit (8) - bati  
@@ -815,7 +816,7 @@ lit - bede
 lit de camp - kampe bede  
 litre - litre  
 lits superposés - cheng bede  
-littérature - kitabu shutu  
+littérature - kitabu shuta  
 livre - buku  
 livre de bord - loge buku  
 local - loka di  
@@ -823,6 +824,7 @@ loin - do long
 long - long  
 longtemps - long dura  
 loquace - loga tabi di  
+louche (cuillère à pot) - pote chamacha  
 loup - volfe  
 lourd - veze di  
 loutre - lotra  
@@ -1000,7 +1002,7 @@ ombrelle (parasol) - sol chati
 on - men  
 oncille - bagre oselote  
 onde - onda  
-option - chuzable  
+option - chuze she  
 or - auro  
 orange (couleur) - oranje rang  
 orange (fruit) - oranje  
@@ -1075,8 +1077,8 @@ pays des fées (paradis) - pari desha
 peindre - fa pente  
 peinture - pente  
 pelle - bele  
-perdant - shitu bai ja  
-perder - shitu  
+perdant - shiti bai ja  
+perder - shiti  
 pere (papa) - ba  
 perfectionner (parfaire) - fa pul bon  
 perplexe (désorienté) - ruhu mishe di  
@@ -1127,6 +1129,7 @@ pocion - dava sui
 podzol - hui darte  
 poids (lourdeur, gravité) - veze  
 poireau - porei  
+pois carré - lung dou  
 poisson - peshe  
 poisson-globe - balon peshe  
 poivre - pipre  
@@ -1148,7 +1151,7 @@ posture (position) - asan
 postérieur - pos di  
 pot (vase) - pote  
 pot de fleur - hua pote  
-poterie - pote shutu  
+poterie - pote shuta  
 potier - pote ja  
 poubelle - laji tong  
 poudre à canon - barude  
@@ -1336,6 +1339,7 @@ son (sa) - se su
 son - soni  
 soumettre - gung mise  
 soumission - islam  
+soupe - supa  
 souris - mushu  
 sous-estimer - fa min rai  
 sport - esporte  
@@ -1359,7 +1363,7 @@ s’accroupir - lipa side
 ####T - T  
 table - meza  
 tableau (panneau) - ban  
-tablette de chocolat - choklatobaton  
+tablette de chocolat - choklate baton  
 tarte - pai  
 tasse à thé - chai kupa  
 taupe - krote  
@@ -1386,7 +1390,7 @@ théière - chai pote
 théosophie - deu sofi  
 tige - tana  
 tigre - bagre  
-tire à l'arc - arka shutu  
+tire à l'arc - arka shuta  
 tirer - tire yo milke  
 tissu - tela  
 titre - tema name  
@@ -1464,7 +1468,7 @@ vice-roi - vise raja
 vide - hali  
 vie - jiu  
 vierge - virje  
-vieux (ancien) - cheniki  
+vieux (ancien) - chen zaman di  
 vieux (âgé, ancien) - lau  
 vigne - eskale tana  
 vignoble - putau bagi  
@@ -1520,7 +1524,7 @@ zèbre - zebra
 Épicéa - pisea  
 âge - sen  
 éblouir (étonner, stupéfier, surprendre) - fa ajibu  
-échec - shitu bai  
+échec - shiti bai  
 échelle - shalke  
 école (collège) - shula kan  
 école primaire - baze shula kan  
@@ -1533,7 +1537,7 @@ zèbre - zebra
 éducation - shula  
 égal (même) - sam  
 électricité - eletro  
-élevage - zou agro shutu  
+élevage - zou agro shuta  
 élever - jene yo zou  
 éloge - eu loga  
 élément (unité fondamentale) - so  

@@ -86,7 +86,7 @@ arquiteto - bina plan ja
 arquitetura - bina plan  
 arrastar - trator  
 arroz - ris  
-arte - shutu  
+arte - shuta  
 artista - arte ja  
 asma - asma  
 aspirina - aspirin  
@@ -129,7 +129,7 @@ bando - banda
 banqueiro - banka shefe  
 barba - barde  
 barco (navio) - nave  
-barra de chocolate - choklatobaton  
+barra de chocolate - choklate baton  
 barrar - bara  
 barreira - bara mur  
 base (álcali) - kali  
@@ -226,7 +226,7 @@ carreira - pei gung jiu
 carta - karte  
 carta - metre grafi  
 carta geográfica - topo metre grafi  
-cartografia - metre grafi shutu  
+cartografia - metre grafi shuta  
 Cartum - Hartum  
 carvalho - baluta  
 carvalho-roble - europe baluta  
@@ -244,14 +244,14 @@ centáurea - sentaure
 cerca - kinar baryer  
 cereja - cheri  
 cerveja - bir  
-cerâmica - pote shutu  
+cerâmica - pote shuta  
 cerâmico - serami  
 cevada - jau  
 Champagne - shampan  
 champanhe - shampan vin  
 chance - chanse  
 charme - charme  
-chave - chabe  
+chave - chabi  
 chavena (tigela de chá) - chai kupa  
 chefe - shefe  
 cheio - pul  
@@ -276,7 +276,9 @@ cogumelo - fungu frute
 coisa - she  
 colaborar - kon gung  
 colar (aderir) - fa glu  
-colher - chamache  
+colher - chamacha  
+colher de chá - chai chamacha  
+colher de sopa - supa chamacha  
 colocar (pôr) - fa loka  
 combava - karse limon  
 combinar com - kon bon  
@@ -290,6 +292,7 @@ comprar - fa shopi
 compras - shopi  
 computador - komputa  
 concerto - konserte  
+concha - pote chamacha  
 condutor (chofer, motorista) - shofer ja  
 conduzir - fa shofer  
 conexão (vínculo, laço) - linke  
@@ -419,7 +422,7 @@ ensino secundário - jung shula kan
 ensopar (encharcar, marinar) - pul shipi  
 enteado - gami ben  
 entrar - be in  
-enxada - chope  
+enxada - chopu  
 equilíbrio - par veze ta  
 erro (falta) - galte  
 errôneo - galte di  
@@ -432,7 +435,7 @@ escrevere - kitabu
 escudo - defa ban  
 escudo - oste shalke  
 escultor - eskulte ja  
-esfarrapado - chirchiri  
+esfarrapado - chira chira di  
 eslavo - Slave  
 esmeralda - zumarde  
 espada - katana  
@@ -673,7 +676,7 @@ limão - limon
 lince - linse  
 linha (fio) - lin  
 lista - liste  
-literatura - kitabu shutu  
+literatura - kitabu shuta  
 litro - litre  
 livre (forro) - huru  
 livro - buku  
@@ -862,10 +865,10 @@ olho - oko
 onda - onda  
 onde - pa ke  
 online - pa lin  
-ontem - chendeno  
+ontem - chen den  
 opinião - rai  
 opor - shatan  
-opção - chuzable  
+opção - chuze she  
 ordem - ratibu  
 orelha - ore  
 orfanato - yatim dom  
@@ -932,8 +935,8 @@ pepino - hiyar
 pepino-africano (kiwano) - korne melon  
 pepino-do-mar (holotúrias) - hai hiyar  
 pequeno - lili  
-perdedor - shitu bai ja  
-perder - shitu  
+perdedor - shiti bai ja  
+perder - shiti  
 perdoar (desculpar) - fa maf  
 perecer - perisha  
 perguntar - fa sual  
@@ -1038,7 +1041,7 @@ raposa - huli
 raramente - nadir mar  
 raro - nadir  
 raro - rare  
-rasgar - chir  
+rasgar - chira  
 rasgar - chira  
 rato - mushu  
 raça - rasa  
@@ -1147,6 +1150,7 @@ som - soni
 sombrinha - sol chati  
 sono - sona  
 sonolento - sona tabi  
+sopa - supa  
 sorvete (gelado) - ais krem  
 substância - kimi  
 suco (sumo) - jus  
@@ -1168,7 +1172,7 @@ tectónica de placas - plate geo kaske logi
 teia de aranha - arane nete  
 tela - pente tela  
 telefonar - fa tele fon  
-telefonia - tele fon shutu  
+telefonia - tele fon shuta  
 telescópio - teleskope  
 telhado - chati  
 temer - be fobi  
@@ -1248,7 +1252,7 @@ vazar - lou
 vazio - hali  
 vegetalista - pul fito yam sim ja  
 vegetariano - fito yam sim ja  
-velho (antigo) - cheniki  
+velho (antigo) - chen zaman di  
 vender - vende  
 ver - vide  
 verbo - karma loga  

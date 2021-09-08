@@ -190,7 +190,7 @@ Austronesia - Austronesia
 auto (automobiili) - moto gar  
 autonominen - auto nomi di  
 auttaa (avustaa) - fa helpe  
-avain - chabe  
+avain - chabi  
 avara (aava, aukea) - meden di  
 avaruus (kosmos) - kosmo  
 avaruusalus - kosmo nave  
@@ -305,9 +305,9 @@ dysteismi (usko jumalan pahuuteen) - dus deu sim
 dystopia - dus topo  
 ####E - E  
 Ecuador - Ekuador  
-edellinen - cheni  
-edellyttää - chenaga  
-edeltää (olla ennen) - chena  
+edellinen - chen  
+edellyttää - chen ga  
+edeltää (olla ennen) - be chen  
 edetä (edistyä) - be jin  
 edistää - jin  
 edustaa - vakil  
@@ -320,7 +320,7 @@ ei koskaan (ei kertaakaan) - siro sata
 ei kukaan - siro jan  
 ei mitään - siro she  
 ei mitään - siro she  
-eilen - chendeno  
+eilen - chen den  
 einsteinium - ainstainium  
 ekologia (ympäristötiede) - eko logi  
 eksa- - eksa  
@@ -365,10 +365,10 @@ englanti - english di
 englantia puhuva (anglofoni) - english fon di  
 enimmäis- - masim di  
 eniten - masim  
-ennen (aikaisemmin, aiemmin) - cheno  
+ennen (aikaisemmin, aiemmin) - chen  
 ennennäkemätön - an chen vide di  
-ennustaa (nähdä ennalta) - chenvida  
-ennustettu - chenvidi  
+ennustaa (nähdä ennalta) - chen vide  
+ennustettu - chen vide di  
 ensimmäinen (alku-) - shuru di  
 ensimmäinen (numero yksi) - un me  
 entsyymi - enzim  
@@ -378,7 +378,7 @@ epäilys - dute
 epäilyttävä - dute bil  
 epämuodostunut - dus forma di  
 epäonni - dus zar  
-epäonnistuminen - shitu bai  
+epäonnistuminen - shiti bai  
 erbium - erbium  
 erehtyä (tehdä virhe) - fa galte  
 erikoinen (erityinen) - has  
@@ -411,7 +411,7 @@ etiikka (moraalioppi) - moral logi
 etikka - vin suan  
 Etiopia - Etiopia  
 etninen - zuku di  
-etuliite (prefiksi) - chenfikse  
+etuliite (prefiksi) - chen fikse  
 etymologia - loga asal  
 etäisyys (kaukaisuus) - tele  
 etäisyys - tele ta  
@@ -713,7 +713,7 @@ häpy (ulkosynnyttimet) - vulva
 hätä (paniikki) - panike  
 hävittää (hajottaa) - perisha  
 hävitä (kärsiä tappio) - fa shibai  
-häviäjä - shitu bai ja  
+häviäjä - shiti bai ja  
 hölmö (narri) - bufon  
 höylä - rande  
 höylätä - randa  
@@ -853,7 +853,7 @@ joukkue (tiimi) - tim
 joule (J) - jul  
 joulu - mesi jene  
 joulukuu - mes des du  
-jousiammunta - arka shutu  
+jousiammunta - arka shuta  
 jousiampuja - arka ja  
 jousisoitin - tichin  
 joustava (elastinen) - elasti  
@@ -959,7 +959,7 @@ kammo (fobia) - fobi
 kamomilla - kamil  
 kampa - kanga  
 kamppailu (taistelu) - jihade  
-kamppailulaji - jeng shutu  
+kamppailulaji - jeng shuta  
 kana - koko  
 Kanada - Kanada  
 kanava (kanaali) - kanal  
@@ -990,10 +990,10 @@ karateka (karaten harrastaja) - karate ka
 karavaani (saattue) - karvan  
 karhu - urso  
 Karibia - Karibe  
-karjanhoito - zou agro shutu  
+karjanhoito - zou agro shuta  
 Karnataka (Intian osavaltio) - Karnada  
 kartio (keila) - kone  
-kartogratia - metre grafi shutu  
+kartogratia - metre grafi shuta  
 kartta - topo metre grafi  
 karvaton - kesha na di  
 kassa - kasha  
@@ -1018,6 +1018,7 @@ kattava - in klus di
 kattila - ketel  
 katto (katos) - chati  
 kauan (pitkän aikaa) - long dura  
+kauha - pote chamacha  
 kauhu (terrori) - teror  
 kaukainen - tele di  
 Kaukasia - Kaukasia  
@@ -1062,7 +1063,7 @@ Kenia - Kenya
 kenkä - sapatu  
 kenttä (aukio) - meden  
 kenttävuode - kampe bede  
-keramiikka - pote shutu  
+keramiikka - pote shuta  
 kerho (klubi) - klube  
 kerma - krem  
 kermankeltainen - krem di  
@@ -1153,7 +1154,7 @@ Kirgistan (Kirgisia) - Kirgize
 Kiribati - Kiribati  
 kirja - buku  
 kirjain - fon zi  
-kirjallisuus - kitabu shutu  
+kirjallisuus - kitabu shuta  
 kirjasto - kitabu kan  
 kirjoitus (teksti) - kitabu  
 kirjoituskone - kitabu gi  
@@ -1223,7 +1224,7 @@ kopiointioikeus (tekijänoikeus) - kopi haki
 koppi (maja) - kabin  
 koraani - kuran  
 Korea - Chosen  
-korealainen - choseni  
+korealainen - chosen di  
 kori - baske  
 koripallo - baske bol  
 korjaaja - shulija  
@@ -1301,7 +1302,7 @@ kuninkaallinen - raja di
 kunnianarvoisa - onor di  
 kunnioittaa - fa onor  
 kunnioitus (arvostus) - onor  
-kuokka - chope  
+kuokka - chopu  
 kuolema (kuolo) - mata  
 kuolla - be mata  
 kuollut (vainaa) - mata di  
@@ -1408,8 +1409,8 @@ Lagos - Lagos
 lahja - dona she  
 lahko (kultti) - din shia  
 lahti - bai  
-lainata (siteerata) - chita  
-lainausmerkki - chitomarke  
+lainata (siteerata) - sita  
+lainausmerkki - sita marke  
 laivakaappari - nave kape ja  
 laji (tyyppi, tyyli) - yang  
 laji - jong  
@@ -1434,7 +1435,7 @@ laskea tasoa - dus darja
 laskeutua - an eskala  
 lasku (faktuura) - fatura  
 lasku (laskelma) - hisabu  
-laskuoppi (aritmetiikka) - hisabu shutu  
+laskuoppi (aritmetiikka) - hisabu shuta  
 lastata (ladata) - fa karga  
 latinalaiset aakkoset - Latin zi  
 latinoida - fa Latin kitabu  
@@ -1563,7 +1564,7 @@ luota (lähtien, -sta, -lta) - ze
 luottaa (uskoa) - amen shin  
 lupaava (hyvältä vaikuttava) - bon sin di  
 lupaus (vala) - vode  
-lusikka - chamache  
+lusikka - chamacha  
 luterilainen - Luter din ja  
 luterilaisuus - Luter din  
 lutetium - lutetium  
@@ -2276,7 +2277,7 @@ poistaa toiminnasta - fa an karma
 poistaa virheitä (debugata) - fa an galta  
 poistua (mennä ulos) - be ekso  
 poistua - fa chutu  
-poistuminen - chutu  
+poistuminen - chuti  
 pokeri - poker  
 poliiisi (poliisimies) - polis ja  
 poliisi - polis  
@@ -2336,7 +2337,7 @@ puhelias - loga tabi di
 puhelin - tele fon gi  
 puhelinjohto - tele fon lin  
 puhelinnumero - tele fon nomer  
-puhelintekniikka - tele fon shutu  
+puhelintekniikka - tele fon shuta  
 puhua (kieli, kommunikaatio) - basha  
 pukea (vaatettaa) - fa fuku  
 pukeutua (pitää vaatetta yllään) - fuku  
@@ -2416,8 +2417,8 @@ Qatar - Katar
 ####R - R  
 Raamattu - Biblia  
 raamatullinen - Biblia di  
-raastaa - chirchira  
-raastettu - chirchiri  
+raastaa - chira chira  
+raastettu - chira chira di  
 radioaktiivinen - ion radi di  
 radioaktiivisuus - ion radi  
 radiolähetin - radi miser  
@@ -2463,7 +2464,7 @@ rehellinen (totisesti, uskottavasti, aamen) - amen
 rehtori - shula shefe  
 reikä - kong  
 rengas (kehä) - ring  
-repeämä - chir  
+repeämä - chira  
 repiä - chira  
 reppu (rinkka) - ruke sake  
 resepti (ohje) - reseta  
@@ -2523,6 +2524,7 @@ runoilija - shir ja
 ruoho - chau  
 ruohotasanko - chau istan  
 ruoka - yam she  
+ruokalusikka - supa chamacha  
 ruokasali - yam kamar  
 Ruotsi - Sven  
 rusina - gan putau  
@@ -2673,6 +2675,7 @@ sihistä - zizi
 sihteeri - sekretar ja  
 sihteeristö - sekretar ofis  
 siipi - ving  
+siipipapu - lung dou  
 siirappi - shirope  
 siirtää taakse - pos poza  
 siitin (penis) - penis  
@@ -2784,7 +2787,7 @@ suhde (yhteys) - guanshe
 suihku - dush  
 sukka - maze  
 suklaa - choklate  
-suklaapatukka - choklatobaton  
+suklaapatukka - choklate baton  
 sukunimi - famili name  
 sukupuoli - jinse  
 sukupuolinen - jinse di  
@@ -2883,7 +2886,7 @@ tahto - icha
 tahtoa - icha  
 tai (vai) - o  
 taianomainen (maaginen) - magi di  
-taide - sundar shutu  
+taide - sundar shuta  
 taiga - taiga  
 taika - magi asar  
 taikavoima - magi liki  
@@ -2894,7 +2897,7 @@ taipumus - klin
 taistelu (sota) - jeng  
 taitaa (olla mestari jskn) - fa mestre  
 taiteilija - arte ja  
-taito - shutu  
+taito - shuta  
 taivaankappale - astro  
 taivas - sama  
 Taiwan - Taivan  
@@ -2937,7 +2940,7 @@ tappaa - fa mata
 tappaja - mata ja  
 tarha (piha) - bagi  
 tarha (puisto) - parke  
-tarkistaa (tsekata) - cheka  
+tarkistaa (tsekata) - cheke  
 tarpeeksi (riittävästi) - basa  
 tarpeellinen - yau di  
 tarpeeton - no yau di  
@@ -2962,6 +2965,7 @@ te - tumen
 tee - chai  
 teehuone (kahvila) - chai kan  
 teekuppi - chai kupa  
+teelusikka (pikku lusikka) - chai chamacha  
 teepannu - chai pote  
 tehdas (paja) - gung kan  
 tehdä (toimia) - fa  
@@ -3178,7 +3182,7 @@ ulkona (ulkopuolella) - pa ekso
 ulkopuoli - ekso  
 ulkopuolinen - ekso jan  
 ulkosyntyinen - ekso jene di  
-uloskäynti - chutu mun  
+uloskäynti - chuti mun  
 ulospäinsuuntautunut (ekstrovertti) - ekso verse di  
 ulostaa (kakata) - kaka  
 uloste (kakka) - kaka  
@@ -3236,7 +3240,7 @@ vahingollinen (vaurioittava) - avar ja
 vahvistaa (voimistaa) - fa lika  
 vaihe (etappi) - faze  
 vaihtaa - badal  
-vaihtoehto - chuzable  
+vaihtoehto - chuze she  
 vaijeri (metallilanka) - metal lin  
 vaikeus (hankaluus) - dus hal  
 vaikuttaa - fa asar  
@@ -3245,7 +3249,7 @@ vain (ainoa, ainut) - unike
 vaivata (hieroa) - masaje  
 valaistunut - budi di  
 valinta (vaali) - chuze  
-valita - chuza  
+valita - chuze  
 valitus (reklamaatio) - shikaya  
 valjaat - harnes  
 valkoinen (valkea) - baku  
@@ -3264,7 +3268,7 @@ valtameri - dai hai
 vanadiini - vanadium  
 vanginvartija - prizon ja  
 vangita - fa prizon  
-vanha (muinainen) - cheniki  
+vanha (muinainen) - chen zaman di  
 vanhempi (isä tai äiti) - chin  
 vanilja - vanila  
 vankeus - prizon  
@@ -3277,11 +3281,11 @@ vapauttaa - huru di
 vara- (korvike-) - vise  
 varakuningas - vise raja  
 varapresidentti - vise prezidente  
-varas - chorer  
-varastaa - chora  
+varas - chori ja  
+varastaa - fa chori  
 varaus (ennakkovaraus) - rezerve  
 varjo - saya  
-varkaus - chor  
+varkaus - chori  
 varma - amen shin di  
 varras - shish  
 varraskebab - shish kababu  
@@ -3373,7 +3377,7 @@ viisitahokas (prisma) - penta fase
 viisumi - viza  
 vika (synti) - dosha  
 viljellä - nong  
-viljely - nong shutu  
+viljely - nong shuta  
 villi (kesytön) - vilde  
 villi (villinä syntynyt) - eko jene di  
 vilustuminen - zukam  

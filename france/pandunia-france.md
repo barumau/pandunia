@@ -122,7 +122,7 @@ argum - argument
 arka - arc  
 arka chati - voûte  
 arka ja - archer  
-arka shutu - tire à l'arc  
+arka shuta - tire à l'arc  
 arme - arme  
 aroma - sentir qqch  
 aroma - odeur  
@@ -306,35 +306,36 @@ burge - fort
 buta - botte  
 buton - bouton  
 ####C - C  
-chabe - clef  
+chabi - clef  
 chai - thé  
+chai chamacha - cuillère à café (petite cuillère)  
 chai kupa - tasse à thé  
 chai pote - théière  
 chakra - roue  
-chamache - cuiller  
+chamacha - cuiller  
 chanse - chance  
 chante grupe - chœur  
 charme - charme  
 chati - toit  
 chatre - quatre (4)  
-chendeno - hier  
+chen - avant  
+chen den - hier  
+chen zaman di - vieux (ancien)  
 cheng bede - lits superposés  
-cheniki - vieux (ancien)  
-cheno - avant  
 cheri - cerise  
 chili - piment  
 chin ba - grand-père  
 chin brus ben - cousin  
 chin ma - grand-mère  
 chini - porcelaine  
-chir - déchirer  
+chira - déchirer  
 chira - déchirer  
 chize - fromage  
 choklate - chocolat  
-choklatobaton - tablette de chocolat  
-chope - houe  
+choklate baton - tablette de chocolat  
+chopu - houe  
 chun - village  
-chuzable - option  
+chuze she - option  
 ####D - D  
 dai dom - palais (château, manoir)  
 dai hai - océan  
@@ -812,7 +813,7 @@ kisma - destin
 kitabu - écrire  
 kitabu gi - machine à écrire  
 kitabu kan - bibliothèque  
-kitabu shutu - littérature  
+kitabu shuta - littérature  
 kite - parti  
 kivi - kiwi  
 klar - clair  
@@ -936,6 +937,7 @@ luga - vert
 luka - six (6)  
 luna - lune  
 luna keke - gâteau de lune  
+lung dou - pois carré  
 luta ja - brigand (bandit)  
 Luter din - luthéranisme  
 Luter din ja - luthérien  
@@ -999,7 +1001,7 @@ mestre - maître
 metal bede - enclume  
 metal lin - fil de fer  
 metre grafi - carte (graphique)  
-metre grafi shutu - cartographie  
+metre grafi shuta - cartographie  
 meza - table  
 meza tela - nappe  
 mi - je (me)  
@@ -1199,8 +1201,9 @@ pos di - postérieur
 pos fikse - suffixe  
 posta marke - cachet de la poste  
 pote - pot (vase)  
+pote chamacha - louche (cuillère à pot)  
 pote ja - potier  
-pote shutu - poterie  
+pote shuta - poterie  
 presa - pression  
 presa gi - pressoir  
 problem - problème  
@@ -1338,9 +1341,9 @@ shipi - mouillé
 shish - brochette  
 shish nama - chachlik  
 shite - merde  
-shitu - perder  
-shitu bai - échec  
-shitu bai ja - perdant  
+shiti - perder  
+shiti bai - échec  
+shiti bai ja - perdant  
 Shiva - Shiva  
 shopi - shopping  
 shukra - merci  
@@ -1356,7 +1359,7 @@ shuli - réparation
 shuli - réparer  
 shulija - réparateur  
 shuru - début (commencement)  
-shutu - art  
+shuta - art  
 si - être  
 si dura - se passer  
 sifa loga - adjectif  
@@ -1404,6 +1407,7 @@ sukar oranje - orange douce
 suna islam din - sunnisme  
 sundar - beau  
 sundar ta - beauté  
+supa - soupe  
 supra vakil ja - sénateur  
 susan - lys  
 ####T - T  
@@ -1559,7 +1563,7 @@ zona - zone
 zong - pieu (poteau)  
 zong minte - menthe verte  
 zou - animal (bête)  
-zou agro shutu - élevage  
+zou agro shuta - élevage  
 zou bagi - zoo  
 zou kata - fable  
 zou logi - zoologie  

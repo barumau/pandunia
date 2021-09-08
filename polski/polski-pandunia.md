@@ -92,7 +92,7 @@ artykuł wiki - viki makala
 artykuł, tekst - makala  
 artysta - arte ja  
 Aruba - Aruba  
-arytmetyka - hisabu shutu  
+arytmetyka - hisabu shuta  
 asceta - askete  
 aseksualny - an sekse di  
 aspiryna - aspirin  
@@ -153,7 +153,7 @@ barometr - air presa metre gi
 barwnik - rang mate  
 basen - basen  
 bateria - bateri  
-baton czekoladowy - choklatobaton  
+baton czekoladowy - choklate baton  
 bawełna - goton  
 bawić, zabawiać - fa van  
 bawół domowy - karbau  
@@ -367,7 +367,7 @@ co? - ke
 co? - ke jan  
 coś - yo she  
 croissant - kruasan  
-cudzysłów - chitomarke  
+cudzysłów - sita marke  
 cukier - sukar  
 cukierek, słodycze - kandi  
 cukinia - lili kaboga  
@@ -381,7 +381,7 @@ Cypr Północny - Norde Kipris
 cyrkon - zirkonium  
 cyrylica - Kiril zi  
 cytologia - selu logi  
-cytować - chita  
+cytować - sita  
 cytryna - limon  
 cywilizacja - sivil ta  
 cywilizowany (ucywilizowany) - sivil  
@@ -504,7 +504,7 @@ drużyna - tim
 dryfować (pływać, płynąć) - boyu  
 drzewo - moka  
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - chira  
-drzwi wyjściowe - chutu mun  
+drzwi wyjściowe - chuti mun  
 drzwi, brama, portal - mun  
 dualizm - du she sim  
 dubn - dubnium  
@@ -843,7 +843,7 @@ Hiszpania - Espanya
 hmm… - hem…  
 Ho Chi Minh (Sajgon) - Ho chi Min site  
 hobby - hobi  
-hodowla zwierząt - zou agro shutu  
+hodowla zwierząt - zou agro shuta  
 hojność (szczodrość) - karim  
 hojny (szczodry) - karim di  
 hokej - hoki  
@@ -1044,7 +1044,7 @@ karczoch zwyczajny - karchof
 Karnataka - Karnada  
 karta - karte  
 kartka (dokument) - varka  
-kartografia - metre grafi shutu  
+kartografia - metre grafi shuta  
 kasjer - kasha ja  
 kasta - jene klas  
 kaszel; kaszlnięcie - koso  
@@ -1085,7 +1085,7 @@ kiszony (marynowany) - achar di
 kiur - kurium  
 klapa - pade mun  
 klasa, kategoria - klas  
-klasyczny - chenyangi  
+klasyczny - chen yang di  
 klasyfikować, kategoryzować - fa klas  
 klatka - baton kasa  
 klatka piersiowa - sina kasa  
@@ -1099,7 +1099,7 @@ klimatologia - klima logi
 klon, replika - klon  
 klonować, repilikować - fa klon  
 klub - klube  
-klucz - chabe  
+klucz - chabi  
 kluska, knedel, pieróg; ravioli, pelmeni - pelmen  
 kminek - karavi  
 kobalt - kobalte  
@@ -1165,7 +1165,7 @@ Koran - kuran
 Korea - Chosen  
 Korea Południowa - Sude Chosen  
 Korea Północna (Koreańska Republika Ludowo-Demokratyczna) - Norde Chosen  
-koreański - choseni  
+koreański - chosen di  
 korek, zatyczka, szpunt - tapa  
 korniszon - achar hiyar  
 korona - korona  
@@ -1195,7 +1195,7 @@ kościół - eglisa
 kość - oste  
 kość do gry - zar kube  
 krab - krabe  
-kradzież - chor  
+kradzież - chori  
 kraj, ziemia - desha  
 kran (zawór) - kran  
 kredens (szafa, szafka) - almari  
@@ -1565,7 +1565,7 @@ moskovium - moskovium
 Moskwa - Moskva  
 most - kiau  
 motocykl (motor) - moto sikle  
-motyka - chope  
+motyka - chopu  
 motyl - pelpel  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
@@ -1834,7 +1834,7 @@ on, ona, ono - ya
 oni - yamen  
 online (na linii, w sieci) - pa lin  
 opaska do włosów - kesha bande  
-opcja (wybór) - chuzable  
+opcja (wybór) - chuze she  
 opinia, pogląd - rai  
 opis, przedstawienie; wykres - grafi  
 opisać (zakwalifikować) - fa sifa  
@@ -2121,15 +2121,15 @@ popołudnie - sham dia
 poprawić, poprawiać, prostować, korygować - fa sahi  
 poprawny (wykonalny) -   
 poprowadzić do (doprowadzić do, powodować) - fa asar  
-poprzedni - cheni  
-poprzedzić, poprzedzać - chena  
+poprzedni - chen  
+poprzedzić, poprzedzać - be chen  
 populacja - demo multi ta  
 popularny, modny - fashon di  
 popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać - ajila  
 popłoch pospolity - pin kardon  
 por - porei  
 pora roku - mosim  
-porażka (niepowodzenie, klapa, przegrana, strata, porażka) - shitu bai  
+porażka (niepowodzenie, klapa, przegrana, strata, porażka) - shiti bai  
 porcelana - chini  
 porcja, dawka - doze  
 porno, film erotyczny - porno  
@@ -2258,10 +2258,10 @@ przeciwnie do ruchu wskazówek zegara - rota lefte
 przeciwnik (antagonista) -   
 przedmiot (obiekt) - vutu  
 przedpołudnie - suba dia  
-przedrostek (prefiks) - chenfikse  
+przedrostek (prefiks) - chen fikse  
 przedstawić (przedłożyć, przedstawić, złożyć, składać) - gung mise  
 przedłużyć, przedłużać - fa long  
-przegrany, pokonany - shitu bai ja  
+przegrany, pokonany - shiti bai ja  
 przegrać, przegrywać - fa shibai  
 przejazd, przewóz, tranzyt, transport - transe  
 przejmować się (zawracać sobie głowę) - be turbe  
@@ -2284,7 +2284,7 @@ przeszłość - chen zaman
 przeszły, miniony - pas  
 przetwarzać - re sikle  
 przetłumaczyć, tłumaczyć, interpretować - tarjum  
-przewidzieć (spodziewać się) - chenvida  
+przewidzieć (spodziewać się) - chen vide  
 przewodnik - gida buku  
 przewodnik - gida ja  
 przewód (kanał) - kanal ja  
@@ -2401,7 +2401,7 @@ rejestr - loge
 rekin - sharke  
 religia, wyznanie - din  
 religijny - din di  
-relikwia - chenike  
+relikwia - chen zaman she  
 ren - renium  
 reprezentant (przedstawiciel) - vakil ja  
 reprezentować - vakil  
@@ -2452,7 +2452,7 @@ rozmnażać - jene yo zou
 rozmowny - loga tabi di  
 rozproszyć, rozpraszać - an jami  
 rozróżniać (rozróżnić) - fa has  
-rozstrzępiony (podarty) - chirchiri  
+rozstrzępiony (podarty) - chira chira di  
 rozszczepienie jądra atomowego - kerne chira  
 rozum, rozsądek - razon  
 rozumieć, pojmować - aha  
@@ -2479,7 +2479,7 @@ rut - rutenium
 rutherford - ruterfordium  
 rutyna, nawyk, zwyczaj - rutina  
 Rwanda - Ruanda  
-rwać (drzeć) - chir  
+rwać (drzeć) - chira  
 ryba - peshe  
 ryba rozdymkowata - balon peshe  
 rybak - peshe saide ja  
@@ -2660,7 +2660,7 @@ spis treści (tabela zawartości) - in liste
 spisek (konspiracja) - sir plan  
 spocony - sueda di  
 spodnie (pantalony, portki) - pante  
-spodziewany (przewidziany) - chenvidi  
+spodziewany (przewidziany) - chen vide di  
 spokojny - shanti di  
 sporokarp - fungu frute  
 sport, lekkoatletyka - esporte  
@@ -2670,7 +2670,7 @@ spotkać - miti
 spowodować, powodować - fa saba  
 społeczeństwo, system społeczny - sosi  
 społeczny - sosi di  
-sprawdzić, sprawdzać, skontrolować - cheka  
+sprawdzić, sprawdzać, skontrolować - cheke  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - gencha  
 sprawiedliwość - adil ta  
 sprawiedliwy - adil  
@@ -2697,7 +2697,7 @@ Stan Nowy Jork - Nove Yorke siti
 Stany Zjednoczone Ameryki - Unta Desh Da Amerika (UDA)  
 Starożytny Egipt (Kemet) - Keme  
 stary (sędziwy, wiekowy) - lau  
-stary, starożytny - cheniki  
+stary, starożytny - chen zaman di  
 starzec - lau jan  
 statyczny, stacjonarny, nieruchomy - estasi di  
 stać - lipa  
@@ -2717,7 +2717,7 @@ stopniowy - darja di
 storczyk (orchidea) - orkide  
 stowarzyszać się (zrzeszać się) - liga  
 strach, fobia - fobi  
-stracić (utracić, tracić, zgubuć, gubić) - shitu  
+stracić (utracić, tracić, zgubuć, gubić) - shiti  
 strażnik więzienny - prizon ja  
 strażnik, ochroniarz - garde ja  
 strona (bok) - late  
@@ -2726,7 +2726,7 @@ stront - estrontium
 strzała (bełt) - fleche  
 strzelać (strzelić) - pau  
 strzykwa - hai hiyar  
-strzępić (drzeć) - chirchira  
+strzępić (drzeć) - chira chira  
 student - estude ja  
 studio (pracownia) - estude kan  
 styczeń - mes un  
@@ -2804,8 +2804,8 @@ szparag; szparagia - lusun
 szron - hima rose  
 sztuczka (podstęp, oszustwo) - truke  
 sztuczny - sana di  
-sztuka - sundar shutu  
-sztuka walki - jeng shutu  
+sztuka - sundar shuta  
+sztuka walki - jeng shuta  
 sztylet (puginał) - kanjar  
 szuflada - tire sanduku  
 szukać - soka  
@@ -3012,7 +3012,7 @@ ufać (wierzyć, liczyć, polegać) - amen shin
 Uganda - Ganda  
 ugotować się, gotować się - be boli  
 Ukraina - Ukraina  
-ukraść, kraść - chora  
+ukraść, kraść - fa chori  
 ukrzyżować - fa krus fikse  
 ukształtować, kształtować, urzeźbić, rzeźbić - fa forma  
 ukwiał - hai hua  
@@ -3021,7 +3021,7 @@ ul (gniazdo pszczół lub os) - fong nide
 ul - medu fong sanduku  
 uleczyć, leczyć, uzdrowić, uzdrawiać - dava  
 ulubiony - mas fili di  
-umiejętność (kompetencja) - shutu  
+umiejętność (kompetencja) - shuta  
 umiejętny (sprawny, zręczny) - jang di  
 umieścić (postawić) - fa loka  
 umrzeć, umierać - be mata  
@@ -3091,8 +3091,8 @@ Watykan, Państwo Watykańskie - Vatikan
 ważka - libele  
 ważny - ham di  
 wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku  
-wcześniej (uprzednio, poprzednio, przedtem) - cheno  
-wczoraj - chendeno  
+wcześniej (uprzednio, poprzednio, przedtem) - chen  
+wczoraj - chen den  
 wdowa - vidou  
 według ruchu wskazówek zegara - rota raite  
 weganin (weganka) - pul fito yam sim ja  
@@ -3225,7 +3225,7 @@ wszystko - pan she
 wtorek - var du  
 wulkan - hogo shan  
 wy, was - tumen  
-wybrać, wybierać, selekcjonować - chuza  
+wybrać, wybierać, selekcjonować - chuze  
 wybrzeże (plaża) - hai kinar  
 wybrzeże - hai kinar  
 Wybrzeże Kości Słowniowej - Kote Da Ivar  
@@ -3240,7 +3240,7 @@ wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurva
 wygląd - rupa  
 wyglądać (wydawać się) - be rupa  
 wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać - fa chutu  
-wyjśćie, opuszczenie - chutu  
+wyjśćie, opuszczenie - chuti  
 wyklarować (rozjaśnić) - fa klar  
 wykopać, kopać, wydobyć, wydobywać, wykopywać - fa kave  
 wymagać, przewidywać - fa sharti  
@@ -3335,7 +3335,7 @@ zajęty - mang
 zaklecie - magi asar  
 zakrzywiony - kurva di  
 zakupy (sprawunki, shopping) - shopi  
-zakładać (założyć) - chenaga  
+zakładać (założyć) - chen ga  
 zakładać (założyć, ustanowić) - fa baze  
 Zambia - Zambia  
 zamek (zapięcie) - sor  
@@ -3477,7 +3477,7 @@ zęwnętrzny - ekso
 złamanie lini - lin parche  
 złapać, łapać, schwytać, chwytać - kape  
 złocień indyjski - nefte guku  
-złodziej - chorer  
+złodziej - chori ja  
 złoto - auro  
 złowieszczy - dus sin di  
 złośliwy, okrutny - zalim  
@@ -3500,11 +3500,13 @@ zły, zrujnowany, zepsuty - harabu
 łosoś (pstrąg) - salmon  
 łosoś atlantycki - atlanti salmon  
 łowca (myśliwy) - saide ja  
-łucznictwo - arka shutu  
+łucznictwo - arka shuta  
 łucznik - arka ja  
 łuk - arka  
 łuska (blaszka, tarczka) - oste shalke  
-łyżka - chamache  
+łyżeczka - chai chamacha  
+łyżka - chamacha  
+łyżka stołowa - supa chamacha  
 łza - oko sui  
 łódź, statek - nave  
 łóżko - bede  

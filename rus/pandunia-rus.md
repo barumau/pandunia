@@ -208,36 +208,37 @@ burge - крепость (форт)
 buta - ботинок  
 buton - пуговица  
 ####C - C  
-chabe - ключ  
+chabi - ключ  
 chai - чай  
+chai chamacha - ложечка (чайная ложка)  
 chai kan - чайная (чайхана)  
 chai kupa - чайная чашка  
 chai pote - чайник  
 chakra - колесо  
-chamache - ложка  
+chamacha - ложка  
 chanse - возможность (шанс)  
 chante grupe - хор  
 charme - шарм  
 chati - крыша (кров)  
 chatre - четыре (4)  
-chendeno - вчера  
+chen - раньше  
+chen den - вчера  
+chen zaman di - старый (древний)  
 cheng bede - двухъярусная кровать  
-cheniki - старый (древний)  
-cheno - раньше  
 cheri - черешня  
 chili - перец (паприка)  
 chin ba - дедушка  
 chin ma - бабушка  
 ching - просить  
 chini - фарфор  
-chir - рвать  
 chira - рвать  
-chirchira - изорвать  
-chirchiri - изорванный  
+chira - рвать  
+chira chira - изорвать  
+chira chira di - изорванный  
 chize - сыр  
 choi - зелень  
 choklate - шоколад  
-chope - мотыга  
+chopu - мотыга  
 chun - деревня (село)  
 ####D - D  
 dai dom - дворец (особняк)  
@@ -682,7 +683,7 @@ kitabu - письмо
 kitabu gi - пишущая машинка  
 kitabu kan - библиотека  
 kitabu minister - библиотекарь  
-kitabu shutu - литература (словесность)  
+kitabu shuta - литература (словесность)  
 kivi - киви  
 klien - клиент (покупатель, зака́зчик)  
 klima - климат  
@@ -862,7 +863,7 @@ mes - месяц
 mestre - мастер  
 metal bede - наковальня  
 metre grafi - карта (график, схема)  
-metre grafi shutu - картография  
+metre grafi shuta - картография  
 meza - стол  
 meza tela - скатерть  
 mi - я  
@@ -1054,8 +1055,9 @@ Portoriko - Пуэрто-Рико
 portoriko jan - пуэрториканец  
 pos - после  
 posta marke - почтовый штемпель  
+pote chamacha - половник (черпак, ковш)  
 pote ja - гончар  
-pote shutu - гончарное дело  
+pote shuta - гончарное дело  
 presa - давление (нажим)  
 presa gi - пресс  
 problem - проблема  
@@ -1194,7 +1196,7 @@ shikaya - жалоба
 shish kababu - шиш-кебаб  
 shish nama - шашлык  
 shite - говно (дерьмо)  
-shitu - потерять (утратить)  
+shiti - потерять (утратить)  
 Shiva - Шива  
 shofer ja - шофёр  
 shopi - покупка (шоппинг)  
@@ -1209,7 +1211,7 @@ shuli - чинить (ремонтировать)
 shulija - ремонтник  
 shuru - начало  
 shush di - тихий  
-shutu - искусство  
+shuta - искусство  
 si - быть  
 sian - циан  
 siborgium - сиборгий  
@@ -1262,6 +1264,8 @@ suna islam din - сунниты
 sundar - красивый  
 sundar daka - украшение  
 sundar ta - красота  
+supa - суп  
+supa chamacha - суповая ложка  
 supra vakil ja - сенатор  
 susan - лилия  
 ####T - T  
@@ -1284,7 +1288,7 @@ tela - ткань
 tela gi - ткацкий станок  
 tele fon gi - телефон  
 tele fon lin - телефонная линия  
-tele fon shutu - телефония  
+tele fon shuta - телефония  
 tele vide gi - телевизор  
 teleskope - телескоп  
 tema - тема  

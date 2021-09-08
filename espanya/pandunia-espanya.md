@@ -137,7 +137,7 @@ argum - argumento
 arka - arco  
 arka chati - bóveda  
 arka ja - arquero  
-arka shutu - tiro con arco  
+arka shuta - tiro con arco  
 arme - arma  
 aroma - oler (olfatear)  
 aroma - olor (aroma)  
@@ -292,6 +292,7 @@ be bio mute - fermentar
 be boli - hervirse (ser cocida)  
 be bum - explotar (estallar)  
 be bum - explosionar  
+be chen - preceder (anteceder)  
 be dai - crecer (aumentar)  
 be dara - fluir  
 be dom - vivir (residir)  
@@ -472,15 +473,16 @@ celsius darje - grado Celsius
 Ceres - Ceres (planeta enano)  
 cerium - cerio  
 cesium - cesio  
-chabe - llave  
+chabi - llave  
 Chade - Chad  
 chai - té  
+chai chamacha - cucharilla  
 chai kan - salón de té  
 chai kupa - taza de té  
 chai pote - tetera  
 chakra - rueda (volante)  
 chaku - cuchillo  
-chamache - cuchara  
+chamacha - cuchara  
 champion - campeón  
 chanse - oportunidad (chance)  
 chante - cantar  
@@ -494,20 +496,19 @@ chatre - cuatro (4)
 chatre gona - cuadro  
 chau - césped (hierba)  
 chau istan - pradera (pastizal)  
-cheka - revisar (chequear)  
+cheke - revisar (chequear)  
+chen - previo (anterior)  
+chen - más temprano (antes, haber, en el pasado)  
+chen den - ayer  
+chen fikse - prefijo  
+chen ga - presuponer  
+chen vide - prever (esperar, pensar)  
+chen yang di - clásico  
 chen zaman - pasado  
-chena - preceder (anteceder)  
-chenaga - presuponer  
-chendeno - ayer  
-chenfikse - prefijo  
+chen zaman di - viejo (antiguo)  
+chen zaman she - reliquia  
 cheng - capa (piso, planta, estrato)  
 cheng bede - litera  
-cheni - previo (anterior)  
-chenike - reliquia  
-cheniki - viejo (antiguo)  
-cheno - más temprano (antes, haber, en el pasado)  
-chenvida - prever (esperar, pensar)  
-chenyangi - clásico  
 cheri - cereza  
 Chernagora - Montenegro  
 Cheska - República Checa  
@@ -523,30 +524,27 @@ ching - pedir (invitar; por favor)
 ching lai - invitar  
 chini - porcelana  
 Chipe - Albania  
-chir - rasgar (romper)  
 chira - rasgar (romper)  
-chirchiri - andrajoso  
-chita - citar  
-chitomarke - comilla  
+chira - rasgar (romper)  
+chira chira di - andrajoso  
 chize - queso  
 choda - joder (coger, copular)  
 choi - verduras  
 choklate - chocolate  
-choklatobaton - barra de chocolate  
-chope - azada  
-chor - robo (hurto)  
-chora - robar (hurtar)  
-chorer - ladrón  
+choklate baton - barra de chocolate  
+chopu - azada  
+chori - robo (hurto)  
+chori ja - ladrón  
 Chosen - Corea  
-choseni - coreano  
+chosen di - coreano  
 chum - beso  
 chun - aldea  
 chupa - chupar (succionar)  
-chutu - escapatoria  
-chutu mun - salida  
-chuza - elegir (escoger, seleccionar)  
-chuzable - opción  
+chuti - escapatoria  
+chuti mun - salida  
+chuze - elegir (escoger, seleccionar)  
 chuze - elección  
+chuze she - opción  
 chuze yo gol - destinar  
 Cuana - Botsuana  
 ####D - D  
@@ -826,6 +824,7 @@ fa bina - construir (edificar)
 fa biznes lon - negociar  
 fa budi - darse cuenta (notar)  
 fa chape - imprimir  
+fa chori - robar (hurtar)  
 fa chutu - salir (irse)  
 fa daka - cubrir (tapar)  
 fa dalil - probar (demonstrar, comprobar)  
@@ -1421,7 +1420,7 @@ Hindu riu - Indo
 hisabu loge - cuenta  
 hisabu logi - matemática  
 hisabu logi ja - matemático  
-hisabu shutu - aritmética (cálculos)  
+hisabu shuta - aritmética (cálculos)  
 histori - historia (pasado)  
 histori ja - historiador  
 histori logi - historia (estudio de sucesos del pasado)  
@@ -1572,7 +1571,7 @@ jene yo zou - criar
 jeng - pelea (guerra, batalla)  
 jeng di - macrial (militar)  
 jeng ja - luchador (guerrero)  
-jeng shutu - arte marcial  
+jeng shuta - arte marcial  
 jenshen - ginseng  
 Jerze - Jersey  
 jeste - gesto  
@@ -1792,7 +1791,7 @@ kitabu forma - formateo
 kitabu gi - máquina de escribir  
 kitabu kan - biblioteca  
 kitabu minister - bibliotecario  
-kitabu shutu - literatura  
+kitabu shuta - literatura  
 kivi - kiwi fruta  
 klar - claro  
 klas - clase (categoría)  
@@ -2226,7 +2225,7 @@ metal lin - alambre (hilo)
 metre - medir (medida)  
 metre gi - medidor  
 metre grafi - carta (mapa, tabla, gráfico)  
-metre grafi shutu - cartografía  
+metre grafi shuta - cartografía  
 metre unta - unidad (medida)  
 meza - mesa  
 meza tela - mantel  
@@ -2756,8 +2755,9 @@ posta - correo
 posta chape - sello postal  
 posta kan - oficina de correos  
 posta marke - matasellos  
+pote chamacha - cucharón (cazo)  
 pote ja - alfarero  
-pote shutu - alfarería  
+pote shuta - alfarería  
 poze - pose (postura)  
 praseodimium - praseodimio  
 prati - práctica  
@@ -3111,9 +3111,9 @@ shir ja - poeta
 shirope - jarabe (sirope)  
 shish - brocheta  
 shite - mierda  
-shitu - perder  
-shitu bai - fracaso  
-shitu bai ja - perdedor  
+shiti - perder  
+shiti bai - fracaso  
+shiti bai ja - perdedor  
 Shiva - Shiva  
 shofer ja - conductor (chofer)  
 shoke - choque (sacudida)  
@@ -3135,7 +3135,7 @@ shuru - comienzo (inicio, principio)
 shuru di - primer (inicial, inaugural)  
 shush - chito (chist)  
 shush di - silencioso  
-shutu - dotes (arte, habilidad)  
+shuta - dotes (arte, habilidad)  
 si - ser (estar)  
 si dura - transcurrir  
 si ja - ser  
@@ -3179,6 +3179,8 @@ siro she - nada
 sismologi - sismología  
 sistem - sistema  
 sistem di - sistémico  
+sita - citar  
+sita marke - comilla  
 siti - ciudad  
 siu - coser  
 sivil - civilizado  
@@ -3268,11 +3270,12 @@ suna di - traditional (convencional)
 suna islam din - sunismo  
 sundar - hermoso (bello, lindo)  
 sundar daka - decoración (adorno)  
-sundar shutu - bellas artes  
+sundar shuta - bellas artes  
 sundar ta - belleza (hermosura)  
 Suomi - Finlandia  
 suomi basha - idioma finés  
 supa - sopa  
+supa chamacha - cuchara de sopa  
 super - maravilloso (magnífico)  
 supra - paso elevado  
 supra di - superior (más alto)  
@@ -3335,7 +3338,7 @@ tela gi - telar
 tele - lo lejos  
 tele di - lejano (lejos)  
 tele fon gi - telefono  
-tele fon shutu - telefonía  
+tele fon shuta - telefonía  
 tele ta - distancia  
 tele vide gi - televisión  
 teleskope - telescopio  

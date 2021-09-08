@@ -65,7 +65,7 @@ agree (make an agreement) - fa trati
 agreement (consent) - sam rai  
 agreement (treaty) - trati  
 agricultural - nong di  
-agriculture - nong shutu  
+agriculture - nong shuta  
 agrobiology - nong bio logi  
 agronomy - nong nomi  
 aim (point) - fa dika  
@@ -131,7 +131,7 @@ anglophone (English speking) - english fon di
 Angola - Angola  
 angry (furious) - furi  
 animal - zou  
-animal husbandry - zou agro shutu  
+animal husbandry - zou agro shuta  
 animate - anime  
 animation (cartoon) - anime  
 anniversary - nen festa  
@@ -164,7 +164,7 @@ Arabic - arabi
 arachnophobia - arane fobi  
 arboretum - moka jong parke  
 archer - arka ja  
-archery - arka shutu  
+archery - arka shuta  
 archipelago (island chain) - nesia jama  
 architect - bina plan ja  
 architecture - bina plan  
@@ -179,7 +179,7 @@ argue (claim) - fa tese
 argument (rationale, grounds) - argum  
 argument (thesis) - tese  
 Ariel - Ariel  
-arithmetics - hisabu shutu  
+arithmetics - hisabu shuta  
 Ark of the Covenant - liga di sanduku  
 arm - hande shaka  
 Armenia - Hayaki  
@@ -207,7 +207,7 @@ ask (request, beg, plead; please) - ching
 asparagus - lusun  
 aspirin - aspirin  
 associate - liga  
-assume (presuppose) - chenaga  
+assume (presuppose) - chen ga  
 Assur - Ashur  
 Assyria - Ashur desha  
 astatine - astatium  
@@ -578,7 +578,7 @@ Caribbean - Karibe
 carpenter - moka jang ja  
 carpet (rug) - tal tela  
 carrot - karote  
-cartography - metre grafi shutu  
+cartography - metre grafi shuta  
 cash box - kasha  
 cashier - kasha ja  
 cassava (manioc) - manioka  
@@ -633,7 +633,7 @@ chat (babble) - blabla
 chat room - blabla kan  
 chauffeur (driver) - shofer ja  
 chaussure - sapatu  
-check (to examine) - cheka  
+check (to examine) - cheke  
 checkers (draughts) - dama gem  
 cheer (hurrah, hooray) - ura  
 cheese - chize  
@@ -657,12 +657,12 @@ chinchilla - chinchila
 Chinese or Japanese character (hanzi, kanji) - Han zi  
 chlorine - klor  
 chocolate - choklate  
-chocolate bar - choklatobaton  
+chocolate bar - choklate baton  
 choice (election, selection) - chuze  
 choir (chorus) - chante grupe  
 cholera - holera  
 Chongqing - chongching  
-choose (elect, select, pick) - chuza  
+choose (elect, select, pick) - chuze  
 Christ (messiah) - mesi  
 Christian - mesi din ja  
 Christianity - mesi din  
@@ -684,7 +684,7 @@ clarify (clear up) - fa klar
 class (category) - klas  
 classic (authoritative, definitive) - kanon di  
 classic (canon) - kanon  
-classic (classical) - chenyangi  
+classic (classical) - chen yang di  
 classify (categorize) - fa klas  
 classroom - shula kamar  
 clay - glu fan  
@@ -1090,7 +1090,7 @@ dystopia - dus topo
 each other (one another) - se kon  
 each other (one another, mutually) - se kon  
 ear - ore  
-earlier (before, in the past) - cheno  
+earlier (before, in the past) - chen  
 earn (gain) - ganya  
 earth (ground) - geo  
 Earth (Terra) - Geo  
@@ -1220,13 +1220,13 @@ excrement (shit) - kaka
 exercise - lenshi  
 exist (presently, currently) - zai  
 exit (get out) - be ekso  
-exit (leaving) - chutu  
-exit door - chutu mun  
+exit (leaving) - chuti  
+exit door - chuti mun  
 exogenous - ekso jene di  
 exonym - ekso name  
 exoplanet - ekso planete  
-expect (anticipate, predict, forsee) - chenvida  
-expected - chenvidi  
+expect (anticipate, predict, forsee) - chen vide  
+expected - chen vide di  
 expensive (costly) - koste di  
 explode (blow up) - be bum  
 explode - be bum  
@@ -1250,7 +1250,7 @@ face - muka
 face powder - muka fun  
 faction (clique) - shia  
 fade - be mirde  
-failure (blunder, flop, miss, loss, defeat) - shitu bai  
+failure (blunder, flop, miss, loss, defeat) - shiti bai  
 faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde  
 fairy (faery) - pari  
 fairy tale - pari kata  
@@ -1316,7 +1316,7 @@ film (membrane, video) - filme
 filter - filtre  
 find (discover) - eureka  
 fine (delicate) - fine  
-fine arts - sundar shutu  
+fine arts - sundar shuta  
 finger (toe) - angul  
 finger ring - angul ring  
 fingerprint - angul marke  
@@ -1664,7 +1664,7 @@ Ho Chi Minh City (Saigon) - Ho chi Min site
 hobby - hobi  
 hobbyist (amateur) - hobi ja  
 hockey - hoki  
-hoe - chope  
+hoe - chopu  
 hold (grasp, detain) - ten  
 hold together - kon ten  
 hole - kong  
@@ -1886,7 +1886,7 @@ Kenya - Kenya
 ketchup - kechape  
 kettle - ketel  
 key (push-button, switch) - buton  
-key - chabe  
+key - chabi  
 key lime - kaguji limon  
 keyboard - buton ban  
 Khartoum - Hartum  
@@ -1917,7 +1917,7 @@ knowledge - sabe she
 known -   
 Konkani - Konkani  
 Korea - Chosen  
-Korean - choseni  
+Korean - chosen di  
 Korean melon - aroma melon  
 Kosovo - Kosovo  
 krypton - kriton  
@@ -1927,6 +1927,7 @@ Kyrgyzstan - Kirgize
 ####L - L  
 lacking (-less) - na di  
 lacquer (varnish) - laka  
+ladle (dipper, scoop) - pote chamacha  
 Lagos - Lagos  
 lake - lage  
 lama - lama  
@@ -2024,7 +2025,7 @@ lip - labi
 liquid - dara mate  
 list (listing, catalogue) - liste  
 listen - fa ore  
-literature - kitabu shutu  
+literature - kitabu shuta  
 lithium - litium  
 Lithuania - Lietuva  
 Lithuanian - lietuva basha  
@@ -2058,8 +2059,8 @@ look (see) - vide
 loom - tela gi  
 lose (be defeated) - bai  
 lose (fail, miss, be defeated) - fa shibai  
-lose (misplace, miss, shed) - shitu  
-loser - shitu bai ja  
+lose (misplace, miss, shed) - shiti  
+loser - shiti bai ja  
 lot (plot of land) - geo tika  
 love (liking, affection) - ai  
 love romantically - romanse  
@@ -2152,7 +2153,7 @@ marry - fa gami
 Mars - Marse  
 marsh (bog, swamp, morass) - fan topo  
 Marshall Islands - Marshal nesia  
-martial art - jeng shutu  
+martial art - jeng shuta  
 marvel (wonder) - ajibu  
 mask (camouflage) - maska  
 mason (stonemason, stonecutter) - sheku jang ja  
@@ -2509,7 +2510,7 @@ okay (acceptable) - oke
 okay (acceptance) - oke loga  
 okra (okro) - bamia  
 old (aged, elderly) - lau  
-old (ancient, former) - cheniki  
+old (ancient, former) - chen zaman di  
 olive - zaitun  
 Oman - Oman  
 ominous (foreboding) - dus sin di  
@@ -2529,7 +2530,7 @@ opium poppy - sona papi
 opportunity (chance) - chanse  
 oppose (antagonize, object, resist) - shatan  
 optical fibre (optical cable) - foto lin  
-option (choice) - chuzable  
+option (choice) - chuze she  
 or - o  
 orange (fruit) - oranje  
 orange (orange-colored) - oranje rang  
@@ -2835,7 +2836,7 @@ potassium - kalium
 potato - patate  
 potion - dava sui  
 potter - pote ja  
-pottery - pote shutu  
+pottery - pote shuta  
 pound (£) - paunde  
 power (authority, rule) - sultan  
 practical (pragmatic) - prati di  
@@ -2848,9 +2849,9 @@ praseodymium - praseodimium
 pray (beg, entreat, implore) - dua  
 prayer - dua  
 precious - bau di  
-predate (be before) - chena  
+predate (be before) - be chen  
 prefer (favor) - mas fili  
-prefix - chenfikse  
+prefix - chen fikse  
 pregnant - hamil  
 prepare (make ready) - fa redi  
 presence (existence) - zaita  
@@ -2861,7 +2862,7 @@ press (imprint) - fa chape
 press (squeeze) - fa presa  
 press device - presa gi  
 pressure - presa  
-previous (fore) - cheni  
+previous (fore) - chen  
 prick (sting) - fa pin  
 priest (cleric) - din guru  
 primary school (elementary school, gradeschool) - baze shula kan  
@@ -2926,8 +2927,8 @@ quarter (neighbourhood, district, locality, section of town) - mahala
 quartz - kuarze  
 queen - fem raja  
 question (query, inquiry) - sual  
-quotation mark - chitomarke  
-quote (cite) - chita  
+quotation mark - sita marke  
+quote (cite) - sita  
 Quran (Koran) - kuran  
 ####R - R  
 rabbit (hare) - tuzi  
@@ -2987,7 +2988,7 @@ reign (rule as an emperor) - imperi
 reinforce (replenish) - fa mas lika  
 reinforcements - mas gun  
 relationship (association, connection) - guanshe  
-relic - chenike  
+relic - chen zaman she  
 religion (worship) - din  
 religious - din di  
 reluctant - an icha ja  
@@ -3298,8 +3299,8 @@ size - dai ta
 sizzle - zizi  
 skeleton (frame) - oste jama  
 skewer - shish  
-skill (art, craft) - shutu  
-skillful (crafty) - shutu tabi  
+skill (art, craft) - shuta  
+skillful (crafty) - shuta tabi  
 skin (peel, bark, leather) - pil  
 skirt - jupe  
 skull - sar oste  
@@ -3403,7 +3404,7 @@ spit - tuh
 split (fall apart) - be fen  
 spoken (lexical) - loga di  
 sponge - esponje  
-spoon - chamache  
+spoon - chamacha  
 sport (athletics) - esporte  
 spouse (husband or wife) - gami jan  
 spring (springtime) - hua mosim  
@@ -3431,7 +3432,7 @@ state (condition, status, situation) - hal
 static (stationary) - estasi di  
 station - estasi  
 stay behind (linger) - be lashe  
-steal - chora  
+steal - fa chori  
 stealth (secrecy) - sir ta  
 steam (vapor) - sui gas  
 steamed bun (mantou, manti) - mantu  
@@ -3532,6 +3533,7 @@ systemic - sistem di
 table - meza  
 table of contents (inventory) - in liste  
 tablecloth - meza tela  
+tablespoon - supa chamacha  
 tablette computer - table komputa  
 tabulate - table yo data  
 tactics (strategy) - tatike  
@@ -3557,7 +3559,7 @@ tarif (tax, duty) - tarif
 taste (flavor) - guste  
 taste (sense flavor) - fa guste  
 taste like - guste ka  
-tattered (ragged, torn) - chirchiri  
+tattered (ragged, torn) - chira chira di  
 tattoo - tatu  
 taxi (cab) - taksi kar  
 taximeter - taksi metre gi  
@@ -3568,11 +3570,12 @@ teach (educate, instruct, doctrine) - giau
 teacher (instructor) - giau ja  
 team - tim  
 teapot - chai pote  
-tear (rip, edge) - chir  
+tear (rip, edge) - chira  
 tear (rip, split) - chira  
 tear drop - oko sui  
 tear gas - oko sui gas  
-tear up (tatter, shred) - chirchira  
+tear up (tatter, shred) - chira chira  
+teaspoon - chai chamacha  
 technetium - tehnetium  
 technique (technology) - tehni  
 technocracy - tehni krati  
@@ -3581,7 +3584,7 @@ tectonic plate - geo kaske plate
 telephone - tele fon gi  
 telephone line - tele fon lin  
 telephone number - tele fon nomer  
-telephony (telephone communication) - tele fon shutu  
+telephony (telephone communication) - tele fon shuta  
 teleport - be tele loka  
 telescope - teleskope  
 television - tele vide gi  
@@ -3620,7 +3623,7 @@ that is (in other words, i.e., alias) - alo nam
 that over there - u  
 the (that) - a  
 the Grenadines - Grenadin nesia  
-theft - chor  
+theft - chori  
 their - yamen su  
 theism - deu din  
 theist - deu din ja  
@@ -3633,7 +3636,7 @@ thermometer - termo metre gi
 they - yamen  
 thick - gros  
 thickness - grosta  
-thief - chorer  
+thief - chori ja  
 thing - she  
 think (ponder, reflect) - fikir  
 thirst - sui yau  
@@ -3967,6 +3970,7 @@ window frame - janela frem
 wine - vin  
 winery - vin kan  
 wing - ving  
+winged bean - lung dou  
 winter - leng mosim  
 winter melon (wax gourd, ash gourd) - mum melon  
 wintry - leng mosim di  
@@ -4010,7 +4014,7 @@ yellow - huang
 yellow starthistle - sol sentaure  
 Yemen - Yemen  
 yes - ye  
-yesterday - chendeno  
+yesterday - chen den  
 yoga - yoga  
 yogi - yoga ja  
 yogurt - yogur  

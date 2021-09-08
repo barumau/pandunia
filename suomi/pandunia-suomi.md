@@ -142,7 +142,7 @@ Ariel - Ariel
 arka - kaari  
 arka chati - holvikatto  
 arka ja - jousiampuja  
-arka shutu - jousiammunta  
+arka shuta - jousiammunta  
 arme - ase  
 aroma - haistaa  
 aroma - haju  
@@ -292,6 +292,7 @@ be ajibu - ihmetellä (olla ihmeissään)
 be boli - kiehua  
 be bum - räjähtää  
 be bum - räjähtää  
+be chen - edeltää (olla ennen)  
 be dai - kasvaa (suurentua)  
 be dara - virrata  
 be dom - asua  
@@ -475,15 +476,16 @@ celsius darje - celsiusaste
 Ceres - Ceres  
 cerium - cerium  
 cesium - cesium  
-chabe - avain  
+chabi - avain  
 Chade - Tšad  
 chai - tee  
+chai chamacha - teelusikka (pikku lusikka)  
 chai kan - teehuone (kahvila)  
 chai kupa - teekuppi  
 chai pote - teepannu  
 chakra - ratas  
 chaku - veitsi (puukko)  
-chamache - lusikka  
+chamacha - lusikka  
 champion - mestari (voittaja)  
 chanse - mahdollisuus (tilaisuus)  
 chante - laulaa  
@@ -498,19 +500,18 @@ chatre di galope - neli (kiitolaukka)
 chatre gona - neliö  
 chau - ruoho  
 chau istan - ruohotasanko  
-cheka - tarkistaa (tsekata)  
+cheke - tarkistaa (tsekata)  
+chen - edellinen  
+chen - ennen (aikaisemmin, aiemmin)  
+chen den - eilen  
+chen fikse - etuliite (prefiksi)  
+chen ga - edellyttää  
+chen vide - ennustaa (nähdä ennalta)  
+chen vide di - ennustettu  
 chen zaman - menneisyys  
-chena - edeltää (olla ennen)  
-chenaga - edellyttää  
-chendeno - eilen  
-chenfikse - etuliite (prefiksi)  
+chen zaman di - vanha (muinainen)  
 cheng - kerros  
 cheng bede - kerrossänky  
-cheni - edellinen  
-cheniki - vanha (muinainen)  
-cheno - ennen (aikaisemmin, aiemmin)  
-chenvida - ennustaa (nähdä ennalta)  
-chenvidi - ennustettu  
 cheri - kirsikka  
 Chernagora - Montenegro  
 Cheska - Tšekki  
@@ -530,32 +531,29 @@ ching - pyytää (anoa)
 ching lai - pyytää tulemaan  
 chini - posliini  
 Chipe - Albania  
-chir - repeämä  
+chira - repeämä  
 chira - repiä  
-chirchira - raastaa  
-chirchiri - raastettu  
-chita - lainata (siteerata)  
-chitomarke - lainausmerkki  
+chira chira - raastaa  
+chira chira di - raastettu  
 chize - juusto  
 choda - nussia (panna)  
 choi - vihannes  
 choklate - suklaa  
-choklatobaton - suklaapatukka  
+choklate baton - suklaapatukka  
 chongching - Chongqing  
-chope - kuokka  
-chor - varkaus  
-chora - varastaa  
-chorer - varas  
+chopu - kuokka  
+chori - varkaus  
+chori ja - varas  
 Chosen - Korea  
-choseni - korealainen  
+chosen di - korealainen  
 chum - suukko (pusu)  
 chun - kylä  
 chupa - imeä  
-chutu - poistuminen  
-chutu mun - uloskäynti  
-chuza - valita  
-chuzable - vaihtoehto  
+chuti - poistuminen  
+chuti mun - uloskäynti  
+chuze - valita  
 chuze - valinta (vaali)  
+chuze she - vaihtoehto  
 chuze yo gol - määrätä  
 Cuana - Botswana  
 ####D - D  
@@ -849,6 +847,7 @@ fa baze - perustaa
 fa bina - rakentaa  
 fa budi - ymmärtää (oivaltaa)  
 fa chape - painaa (leimata)  
+fa chori - varastaa  
 fa chutu - poistua  
 fa daka - peittää  
 fa dalil - todistaa  
@@ -1436,7 +1435,7 @@ hisabu - lasku (laskelma)
 hisabu loge - tili  
 hisabu logi - matematiikka (matikka)  
 hisabu logi ja - matemaatikko  
-hisabu shutu - laskuoppi (aritmetiikka)  
+hisabu shuta - laskuoppi (aritmetiikka)  
 histori - historia (aikakirjat)  
 histori ja - historioitsija  
 histori logi - historia (oppiaine)  
@@ -1578,7 +1577,7 @@ jene tipe - perimä (genotyyppi)
 jeng - taistelu (sota)  
 jeng di - sotilaallinen  
 jeng ja - soturi (taistelija)  
-jeng shutu - kamppailulaji  
+jeng shuta - kamppailulaji  
 jenshen - ginseng  
 Jerze - Jersey  
 jeste - ele  
@@ -1792,7 +1791,7 @@ kitabu - kirjoitus (teksti)
 kitabu forma - tekstin muotoilu  
 kitabu gi - kirjoituskone  
 kitabu kan - kirjasto  
-kitabu shutu - kirjallisuus  
+kitabu shuta - kirjallisuus  
 kite - mennyt (poissa)  
 kivi - kiivi  
 klar - selvä (selkeä)  
@@ -2040,6 +2039,7 @@ lun - väittely (debatti)
 luna - kuu  
 luna keke - kuukakku  
 lung - itämainen lohikäärme  
+lung dou - siipipapu  
 lusun - parsa  
 luta - ryöstää (ryövätä)  
 luta ja - ryöväri (rosvo)  
@@ -2196,7 +2196,7 @@ metal jang ja - seppä
 metal lin - vaijeri (metallilanka)  
 metre - mitta (koko, määrä)  
 metre grafi - kaavio (kartta)  
-metre grafi shutu - kartogratia  
+metre grafi shuta - kartogratia  
 meza - pöytä  
 meza tela - pöytäliina  
 mi - minä  
@@ -2398,7 +2398,7 @@ nong chun - maalaiskylä
 nong istan - maaseutu  
 nong ja - maanviljelijä  
 nong nomi - agronomia (maatalous)  
-nong shutu - viljely  
+nong shuta - viljely  
 nong topo di - maalais-  
 norde - pohjoinen  
 Norde Aire - Pohjois-Irlanti  
@@ -2688,8 +2688,9 @@ posta chape - postileima
 posta kan - postitoimisto  
 posta marke - postileima  
 pote - pata  
+pote chamacha - kauha  
 pote ja - savenvalaja  
-pote shutu - keramiikka  
+pote shuta - keramiikka  
 poze - asetelma  
 praseodimium - praseodyymi  
 prati - käytäntö (pragmatia)  
@@ -3007,8 +3008,8 @@ shish - varras
 shish kababu - varraskebab  
 shish nama - saslik  
 shite - paska (sonta)  
-shitu bai - epäonnistuminen  
-shitu bai ja - häviäjä  
+shiti bai - epäonnistuminen  
+shiti bai ja - häviäjä  
 Shiva - Šiva  
 shofer ja - kuski (ajuri, ajaja)  
 shoke - isku (šokki)  
@@ -3030,7 +3031,7 @@ shulija - korjaaja
 shuru - alku  
 shush - hiljaa (hys, shhh)  
 shush di - hiljainen  
-shutu - taito  
+shuta - taito  
 si - olla  
 si dura - kulua (vieriä)  
 si ja - olento (olio)  
@@ -3069,6 +3070,8 @@ siro she - ei mitään
 siro she - ei mitään  
 sismologi - seismologia  
 sistem - järjestelmä (systeemi)  
+sita - lainata (siteerata)  
+sita marke - lainausmerkki  
 siti - kaupunki  
 siu - ommella  
 sivil - sivistynyt  
@@ -3144,11 +3147,12 @@ suna - tapa (perinne)
 suna di - tavanomainen (perinteinen)  
 suna islam din - sunnalaisuus  
 sundar - kaunis (komea, sievä)  
-sundar shutu - taide  
+sundar shuta - taide  
 sundar ta - kauneus  
 Suomi - Suomi  
 suomi basha - suomen kieli  
 supa - keitto (soppa)  
+supa chamacha - ruokalusikka  
 super - upea (mahtava)  
 supra - ylitys  
 supra vakil ja - senaattori  
@@ -3206,7 +3210,7 @@ tele di - kaukainen
 tele fon gi - puhelin  
 tele fon lin - puhelinjohto  
 tele fon nomer - puhelinnumero  
-tele fon shutu - puhelintekniikka  
+tele fon shuta - puhelintekniikka  
 tele ta - etäisyys  
 tele vide gi - televisio  
 teleskope - kaukoputki (teleskooppi)  
@@ -3509,7 +3513,7 @@ zoku - vielä (yhä, jatkua)
 zombi - zombi  
 zona - vyö  
 zou - eläin  
-zou agro shutu - karjanhoito  
+zou agro shuta - karjanhoito  
 zou bagi - eläintarha  
 zou fili - eläinrakkaus  
 zou geo grafi - eläinmaantiede  
