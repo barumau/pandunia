@@ -9,8 +9,8 @@ adil ta - 正义
 adres - 地址  
 Afgan - 阿富汗  
 agile - 灵活的  
-agres - 攻击  
-agreser - 侵略者  
+agresi - 攻击  
+agresi ja - 侵略者  
 ai - 爱  
 ai ja - 恋人 (情人, 爱人)  
 air - 空气  
@@ -21,7 +21,7 @@ ais hoki - 冰球
 ais krem - 冰淇淋  
 akare - 蜱 (螨)  
 akse - 轴线  
-ala - 改變  
+fa alo - 改變  
 alga - 藻类  
 alga fungu - 地衣  
 alga jangal - 海藻林  
@@ -46,7 +46,7 @@ angul marke - 指纹 (指印)
 angul pike - 指尖  
 anime - 活跃  
 anjil - 信息  
-anten - 天线  
+antena - 天线  
 anus - 肛门  
 aple - 苹果  
 aplika - 运用  
@@ -115,12 +115,12 @@ bari fon - 重音符号
 basa - 够  
 basha - 语言  
 basha logi - 语言学  
-bashi jinse - 文法的性  
+basha jinse - 文法的性  
 baske bol - 篮球  
 bata - 鸭  
 bateri - 电池  
 bati - 八 (8)  
-baton kasa - 笼  
+kane kasa - 笼  
 bau di - 宝贵  
 bau sheku - 宝石  
 bazar - 市场  
@@ -157,7 +157,7 @@ bio jinse - 生物性別
 bio logi - 生物学  
 bio sistem - 生物群系  
 bio toksi - 毒素  
-bio vute - 生物  
+bio she - 生物  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 blu - 蓝色  
@@ -170,15 +170,15 @@ bokse pante - 平角褲
 bol - 球  
 bomba - 炸弹  
 bon - 好  
-bon deke - 道德  
+bon moral - 道德  
 bon sin di - 吉利的  
 bon vide di - 好看  
 botel - 瓶  
-boyu - 漂浮  
+be boi - 漂浮  
 Brahma - 梵天  
 briko - 杏子 (李子)  
-brun - 棕色 (色)  
-brun salmon - 褐鳟  
+kafe rang - 棕色 (色)  
+kafe salmon - 褐鳟  
 bubu - 魔鬼  
 bucha ja - 屠夫  
 bucha kan - 屠宰场  
@@ -216,7 +216,7 @@ chira chira - 撕毁
 chira chira di - 褴褛的  
 chize - 酪 (起司)  
 choklate - 巧克力  
-choklate baton - 巧克力棒  
+choklate kane - 巧克力棒  
 chongching - 重庆  
 chopu - 锄头  
 chun - 村  
@@ -393,7 +393,7 @@ ganse - 雁 (鹅)
 ganum - 麦  
 garma mosim - 夏季  
 garma zona - 热带  
-garma zona chau istan - 稀树草原  
+garma zona chau topo - 稀树草原  
 gata - 切  
 gata glu ban - 剪贴板  
 gati - 硬  
@@ -522,9 +522,9 @@ jangal - 森林
 jara - 罐 (瓶)  
 jau - 大麦  
 javabu - 回答  
-jeku - 借  
-jeku daku - 借入  
-jeku dona - 借出  
+jeka - 借  
+jeka daku - 借入  
+jeka dona - 借出  
 jen buda din - 禅宗  
 jene basha - 母语  
 jene di - 生的  
@@ -726,8 +726,8 @@ long pipre - 荜拔
 long tire - 拉  
 lotra - 獭  
 lou - 漏  
-luga - 绿色  
-luka - 六 (6)  
+luka - 绿色  
+sis - 六 (6)  
 lun - 论  
 luna keke - 月饼  
 lung - 龙  
@@ -770,8 +770,8 @@ matur man - 男人
 mau - 猫  
 maze - 袜子  
 meche - 比赛  
-meden - 广场  
-meden papi - 虞美人 (雛罌粟)  
+medan - 广场  
+medan papi - 虞美人 (雛罌粟)  
 medi - 中型  
 medi dia - 正午  
 medi noche - 半夜 (午夜)  
@@ -810,6 +810,7 @@ moka ban - 木板
 moka jang ja - 木匠  
 moka mate - 木材  
 moka tana - 原木  
+kalam sui - 墨水  
 mol kan - 磨坊  
 mol sheku - 磨石  
 mole - 摩尔 (单位)  
@@ -1043,7 +1044,7 @@ seme - 种
 seme dane - 种子  
 seme di - 种子的  
 sen - सौ  
-sen - 年岁  
+sene - 年岁  
 sense - 感觉  
 sense shaka - 觸手  
 sera - 锯子  
@@ -1094,6 +1095,7 @@ shuta - 技术
 si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
+sigar - 香烟  
 sikle ja - 骑自行车的人  
 sili - 系列  
 sili tika - 连结  
@@ -1163,7 +1165,7 @@ tese - 论据
 teste - 化验  
 tikete - 票  
 tim - 队  
-tire baton - 杆  
+tire kane - 杆  
 tire yo milke - 拉  
 tire yo pil - 削 (刮去)  
 tisa - 九 (9)  

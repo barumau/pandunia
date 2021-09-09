@@ -5,7 +5,7 @@ abedul - betula
 abeja - medu fong  
 abeja o avispa - fong  
 abeto - abies  
-abierto (extenso) - meden di  
+abierto (extenso) - medan di  
 abierto - kai  
 abirse - be kai  
 Abisinia - Habasha  
@@ -72,11 +72,11 @@ afecto (emoción) - emosi
 Afganistán - Afgan  
 afrontar - verse  
 agacharse - lipa side  
-agorafobia - meden fobi  
+agorafobia - medan fobi  
 agosto - mes bato  
 agradecer - fa shukra  
-agresivo - agresivi  
-agresor - agreser  
+agresivo - agresi tabi  
+agresor - agresi ja  
 agrio (ácido) - suan  
 agrobiología - nong bio logi  
 agronomía - nong nomi  
@@ -114,7 +114,7 @@ alfarería - pote shuta
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - tal tela  
 alga - alga  
-algas pardas - brun alga  
+algas pardas - kafe alga  
 algién - yo jan  
 algo - yo she  
 algodón - goton  
@@ -143,7 +143,7 @@ alófono - alo fon
 alúmina - alumin okside  
 amado (cariño) - ai jen  
 amante (enamorado) - ai ja  
-amapola silvestre - meden papi  
+amapola silvestre - medan papi  
 amar románticamente - romanse  
 amargo - kali guste  
 amarillo - huang  
@@ -184,7 +184,7 @@ animar - anime
 aniversario - nen festa  
 ano - anus  
 antartida - Antartika  
-antena - anten  
+antena - antena  
 anterior (remoto) - pas  
 antibalas - dane sekur  
 Anticristo - an mesi  
@@ -192,7 +192,7 @@ Antigua - Antigua
 Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlande Antil  
 antimonio - estibium  
-antorcha - foto baton  
+antorcha - foto kane  
 antónimo - an nam  
 análisis (disección) - fen gata  
 análisis de datos - data fen gata  
@@ -220,12 +220,13 @@ arco - arka
 arco iris - rang arka  
 ardiente (encendido) - hogo di  
 ardilla - ekore  
-arena - rege  
+arena - arena  
 Argelia - Jayer  
 Argentina - Argentina  
 argumentar (alegar) - fa tese  
-argumento - argum  
+argumento - argu  
 argón - argon  
+argüir - fa argu  
 aritmética (cálculos) - hisabu shuta  
 arma - arme  
 arma nuclear - kerne arme  
@@ -279,7 +280,7 @@ astrónomo - astro nomi ja
 asunto (caso) - sual tema  
 asustador - fobi ja  
 asustar (atemorizar) - fa fobi  
-ataque - agres  
+ataque - agresi  
 atar (amarrar) - bande  
 Atenas - Athina  
 ateo - an deu sim ja  
@@ -323,12 +324,12 @@ babor - nave lefte
 bacalao - kade  
 bacalao común - atlanti kade  
 backgammon - nardi  
-baguette - baton pan  
+baguette - kane pan  
 bah - bah  
 Bahamas - Bahama  
 bahaísmo (fe bahá'i) - baha din  
 bahá'í - baha din ja  
-bahía - bai  
+bahía - baya  
 baile (danza) - danse  
 bajar - fa tal  
 bajo - tal di  
@@ -355,8 +356,8 @@ Barbados - Barbados
 Barbuda - Barbuda  
 barco (bote) - nave  
 bario - barium  
-barra (vara, palo) - baton  
-barra de chocolate - choklate baton  
+barra (vara, palo) - kane  
+barra de chocolate - choklate kane  
 barrar (bloquear, obstruir) - bara  
 barrera (barda) - bara mur  
 barriga (vientre, panza) - pete  
@@ -440,7 +441,7 @@ brillante (luminoso) - ming
 brocheta - shish  
 broma (chiste) - joke  
 bromista (chistoso) - joke ja  
-bromo - bromium  
+bromo - brom  
 Brunei - Brunei  
 brújula - ponte pin  
 bu! - bu!  
@@ -465,7 +466,7 @@ burro (asno) - iha
 Burundi - Rundi  
 bus (autobús) - bus  
 buscar - soka  
-Bután - Butan  
+Bután - Lung Desha  
 bárbaro - barbar  
 básico - baze di  
 béisbol - baze bol  
@@ -522,7 +523,7 @@ caliza - kalse petra
 calvo - sar kesha na di  
 cama (lecho) - bede  
 camarón - krevete  
-cambiar (demudar) - ala  
+cambiar (demudar) - fa alo  
 cambiar - mute  
 cambio climático - klima mute  
 Camboya - Kambojia  
@@ -536,8 +537,8 @@ campamento - kampe
 campana (cencerro) - dang gi  
 campeón - champion  
 campista - kampe ja  
-campo - nong istan  
-campo de visión - vide meden  
+campo - nong topo  
+campo de visión - vide medan  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
 cancelar - fa siro  
@@ -677,7 +678,7 @@ cielo - sama
 cien (100) - sen  
 ciencia (estudiar, investigar, -ología) - logi  
 ciencia política - politi logi  
-cigarro - sigar  
+cigarro (cigarillo) - sigar  
 cima (pico, cumbre, vértice) - shan pike  
 cinc - zinke  
 cinco (5) - penta  
@@ -1024,7 +1025,7 @@ desdentado - dante na di
 deseo - vol she  
 desesperado - asha na di  
 desfigurar - fa dus forma  
-desierto - rege istan  
+desierto - arena topo  
 deslizar - glis  
 desnudo - nude  
 despertar - jaga  
@@ -1136,7 +1137,7 @@ economía - mal nomi
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
 ecuador - geo par lin  
-edad - sen  
+edad - sene  
 educación - shula  
 educado - kechi  
 efectuar - fa asar  
@@ -1183,7 +1184,7 @@ empanada (pelmeni) - pelmen
 emparejar (quedar) - kon bon  
 emperador - imperi ja  
 emplear (aplicar) - aplika  
-empresario - bizneser  
+empresario - biznes ja  
 empujar (presionar) - pusha  
 en (a) - pa  
 en el sentido contrario al las agujas del reloj - rota lefte  
@@ -1339,8 +1340,8 @@ excluir - fa ekso klus
 exclusivo - ekso klus di  
 existir (actualmente) - zai  
 exoplaneta (planeta extrasolar) - ekso planete  
-explorador (navegador) - brauzer  
-explorar - brauze  
+explorador - brauza program  
+explorar - brauza  
 explosionar - be bum  
 explosión (estallado) - bum  
 explotar (estallar) - be bum  
@@ -1590,7 +1591,7 @@ Guyana - Guyana
 Guyana Francesa - France Guyana  
 guía - gida ja  
 guía de viaje - gida buku  
-género gramatical - bashi jinse  
+género gramatical - basha jinse  
 género social - sosi jinse  
 ####H - H  
 habilidad (capacidad) - bil ta  
@@ -1633,10 +1634,10 @@ hervidor (tetera) - ketel
 hervir (cocer) - boli  
 hervirse (ser cocida) - be boli  
 Hesse (Hessia) - Hese  
-heterorromántico - alo romanse  
+heterorromántico - alo romanse di  
 heterosexual - alo sekse di  
-hexaedro (cubo) - luka fase  
-hexágono - luka gona  
+hexaedro (cubo) - sis fase  
+hexágono - sis gona  
 hidrógeno - hidro  
 hielo - ais  
 hierbabuena - zong minte  
@@ -1848,7 +1849,7 @@ Japón - Nipon
 jarabe (sirope) - shirope  
 jarra - jara  
 Jartum - Hartum  
-jaula (caja) - baton kasa  
+jaula (caja) - kane kasa  
 jazmín - moli  
 jazz - jaze  
 jefe - shefe  
@@ -2123,7 +2124,7 @@ marioneta (títere) - pupe
 mariposa (palomilla) - pelpel  
 marmól - kalse kristal  
 Marruecos - Magribi desha  
-marrón - brun  
+marrón - kafe rang  
 Marte - Marse  
 martes - var du  
 martillo (mazo) - hamar  
@@ -2177,7 +2178,7 @@ melón - melon
 melón amargo - kali melon  
 melón cantalupo - kantalupo melon  
 melón coreano - aroma melon  
-melón verde - luga melon  
+melón verde - luka melon  
 memoria - memo  
 memorándum (nota) - memo note  
 meninge - meninge  
@@ -2338,7 +2339,7 @@ nacionalismo - nasi sim
 nacionalista - nasi sim ja  
 nación - nasi  
 nada - siro she  
-nadar (flotar) - boyu  
+nadar (flotar) - be boi  
 nailon (nilón) - nilon  
 Namibia - Namibia  
 nano- - nano  
@@ -2350,6 +2351,7 @@ nasal - nos di
 natrón - natre bilor  
 nautilo - nautile  
 nave espacial - kosmo nave  
+navegador - brauza gi  
 navegar (ir en bote) - nave gou  
 Navidad - mesi jene  
 Nazi - nasi sosi sim ja  
@@ -2491,7 +2493,7 @@ ordeñar - tire yo milke
 ordinario (habitual) - ada di  
 oreja - ore  
 orfanato - yatim dom  
-organismo (ser vivo) - bio vute  
+organismo (ser vivo) - bio she  
 organizar (gestionar) - fa nomi  
 orgasmo - orgazme  
 oriental - dong di  
@@ -2530,7 +2532,7 @@ pala - bele
 palabra (vocablo) - loga so  
 palacio (mansión) - dai dom  
 paladio - paladium  
-palanca - tire baton  
+palanca - tire kane  
 Palaos - Palau  
 Palestina - Filistin  
 palmera - palme  
@@ -2623,7 +2625,7 @@ pedal - pedal
 pedazo - tika  
 pedernal (sílex) - hogo sheku  
 pedir (invitar; por favor) - ching  
-pedir prestado - jeku daku  
+pedir prestado - jeka daku  
 pedo - pede  
 peer - fa pede  
 pegajoso (adhesivo) - glu di  
@@ -2671,7 +2673,7 @@ pero - ama
 perro - vaf  
 persona (ista, -ador) - jan  
 personal (privado, a medida) - auto di  
-personalizar - auta  
+personalizar - fa auto  
 perspectiva (punto de vista) - vide punte  
 pertenecer (ser miembro de) - si membre  
 Perú - Peru  
@@ -2736,7 +2738,7 @@ platonismo - Platon sim
 platonista - Platon sim ja  
 Platón - Platon  
 platónico - Platon sim di  
-plaza - meden  
+plaza - medan  
 plomo - plumbe  
 pluma - pero  
 plutonio - plutonium  
@@ -2784,7 +2786,7 @@ posterior - pos di
 postura (posición) - asan  
 potasio - kalium  
 practicar (ensayar, ejercitar) - fa lenshi  
-pradera (pastizal) - chau istan  
+pradera (pastizal) - chau topo  
 praseodimio - praseodimium  
 preceder (anteceder) - be chen  
 precio (coste) - koste  
@@ -2802,8 +2804,8 @@ presente (actualidad) - zai zaman
 presidente - prezidente  
 presión - presa  
 presión atmosférica - air presa  
-prestar (pedir prestado) - jeku  
-prestar - jeku dona  
+prestar (pedir prestado) - jeka  
+prestar - jeka dona  
 presuponer - chen ga  
 presupuesto - bujete  
 prever (esperar, pensar) - chen vide  
@@ -2823,8 +2825,8 @@ problema - problem
 problemático - problem di  
 procedimiento (rito) - riti  
 proceso (procedimiento) - proses  
-producción - sana ya  
-producir (hacer, preparar) - sana  
+producción - sana  
+producir (hacer, preparar) - fa sana  
 profecía - nabi  
 profesional (de carrera) - pei gung di  
 profesión (ocupación) - pei gung  
@@ -2855,7 +2857,7 @@ prueba - dalil
 prueba - teste  
 práctica - prati  
 práctico - prati di  
-préstamo lingüístico - jeku loga  
+préstamo lingüístico - jeka loga  
 psicología - ruhu logi  
 psique - ruhu  
 puaj - fui  
@@ -2902,7 +2904,7 @@ queso fresco - panir
 quilate - kirate  
 quimono - kimono  
 quiosco (kiosco) - kioske  
-quitar (eliminar, borrar) - fa no zai  
+quitar (eliminar, borrar) - fa an zai  
 quitar (pelar) - tire yo pil  
 quitar (remover) - fa kite  
 quién - ke jan  
@@ -3078,7 +3080,7 @@ réservation - rezerve
 rígido (sólido) - gati mate di  
 rótula - guta kaske oste  
 ####S - S  
-sabana - garma zona chau istan  
+sabana - garma zona chau topo  
 sabbat - sabate  
 saber (conocer) - sabe  
 sabiduría (conocimiento) - sabe she  
@@ -3147,7 +3149,7 @@ seda - silko
 seguir - fa pos  
 segundo - sekunde  
 seguro - sekur  
-seis (6) - luka  
+seis (6) - sis  
 selenio - selenium  
 sello postal - posta chape  
 semana - var var  
@@ -3394,7 +3396,7 @@ tijera - makas
 tikka masala - masala tika  
 Timor - Timor  
 Timor Oriental - Dong Timor  
-tinta - moku  
+tinta - kalam sui  
 tinte - rang mate  
 tipo (género) - tipe  
 tira (faja, vendaje, cinta) - fasha  
@@ -3458,7 +3460,7 @@ triste - duka
 triángulo - tri gona  
 trompo - rota van gi  
 trucha arcoíris - rang arka salmon  
-trucha marrón - brun salmon  
+trucha marrón - kafe salmon  
 truco - truke  
 truenos (estruendo) - grom  
 tránsito (transporte) - transe  
@@ -3485,7 +3487,7 @@ tántalo - tantalum
 té - chai  
 técnica - tehni  
 télugu - Telugu  
-Tíbet - Botia  
+Tíbet - Bote  
 título - tema name  
 tóxico - toksi di  
 tú (usted) - tu  
@@ -3557,8 +3559,8 @@ ver (mirar) - vide
 verano - garma mosim  
 verbo - karma loga  
 verdadero - ver  
-verde - luga  
-verde limón - limon lugi di  
+verde - luka  
+verde limón - limon luka di  
 verdura (legumbre) - yam fito  
 verduras - choi  
 vergüenza (pena) - sharma  
@@ -3600,8 +3602,8 @@ virgen - virje
 virginal - virje di  
 virología - virus logi  
 virrey - vise raja  
-virtud (moralidad) - bon deke  
-virtuoso (moral) - bon deke di  
+virtud (moralidad) - bon moral  
+virtuoso (moral) - bon moral di  
 virus - virus  
 visado - viza  
 Vishnú - Vishnu  
@@ -3678,7 +3680,7 @@ zulú - Zulu
 área (superficie) - area  
 área (zona, región) - area  
 áspero (basto) - karse  
-ástato - astatium  
+ástato - astate  
 átomo - atom  
 él o ella - ya  
 éste - dong  

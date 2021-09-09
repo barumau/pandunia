@@ -15,8 +15,8 @@ adres zi - małpa (znak na
 Afgan - Afganistan  
 Afrika - Afryka  
 agile - zwinny, sprawny  
-agres - atak (agresja, napaść)  
-agresivi - agresywny  
+agresi - atak (agresja, napaść)  
+agresi tabi - agresywny  
 aha - rozumieć, pojmować  
 ai - miłość (afekt)  
 ainstainium - einstein  
@@ -37,7 +37,7 @@ ajila - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 akare - klescz (roztocze)  
 akasia - akacja  
 akse - oś  
-ala - zmienić (zmieniać)  
+fa alo - zmienić (zmieniać)  
 Alaska - Alaska  
 alga - alga (wodorost)  
 alga fungu - porost  
@@ -53,7 +53,7 @@ alo fon - alofon
 alo nam - innymi słowy  
 alo rai - nie zgadzać się  
 alo rai - niezgoda  
-alo romanse - heteroromantyczny  
+alo romanse di - heteroromantyczny  
 alo sekse di - heteroseksualny  
 alo sifa - różnica  
 alo sifa di - różny (inny)  
@@ -84,8 +84,8 @@ an eskala - zejść (schodzić, zstąpić, zstępować)
 an icha ja - niechętny  
 an jami - rozproszyć, rozpraszać  
 an jami di - rzadki (rozrzedzony, rozproszony)  
-an kai - zamknąć (zamykać)  
-an kai di - zamknięty  
+fa klus - zamknąć (zamykać)  
+klus - zamknięty  
 an karma ja - zdeaktywowany (wyłączony, zatrzymany)  
 an limite - nieskończoność  
 an memo - zapominać (zapomnieć)  
@@ -112,7 +112,7 @@ anjil - wiadomość
 anjil ja - posłaniec (wysłannik)  
 Antartika - Antarktyka  
 Antartika Hai - Ocean Antarktyczny (Ocean Południowy)  
-anten - antena  
+antena - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua i Barbuda  
 anus - odbyt  
@@ -134,7 +134,7 @@ area - powierzchnia, region, teren
 argente - srebro  
 Argentina - Argentyna  
 argon - argon  
-argum - argument  
+argu - argument  
 arka - łuk  
 arka ja - łucznik  
 arka shuta - łucznictwo  
@@ -163,7 +163,7 @@ Asia - Azja
 askete - asceta  
 asma - astma  
 aspirin - aspiryna  
-astatium - astat  
+astate - astat  
 astro nave ja - astronauta  
 astro nomi - astronomia  
 astro nomi ja - astronom  
@@ -205,7 +205,7 @@ baha din - bahaizm
 baha din ja - bahaista  
 Bahama - Bahamy  
 Bahrain - Bahrajn  
-bai - zatoka  
+baya - zatoka  
 baka - piec  
 baka fan - terakota  
 baka ja - piekarz  
@@ -257,16 +257,16 @@ basha - język; komunikacja; mówić
 basha kanun - gramatyka  
 basha kanun di - gramatyczny  
 basha logi - językoznastwo  
-bashi jinse - rodzaj gramatyczny  
+basha jinse - rodzaj gramatyczny  
 baske - kosz  
 baske bol - piłka do koszykówki (koszykówka)  
 bata - kaczka  
 bata krote - dziobak  
 bateri - bateria  
 bati - osiem (8)  
-baton - pręt, kij  
-baton kasa - klatka  
-baton pan - bagietka  
+kane - pręt, kij  
+kane kasa - klatka  
+kane pan - bagietka  
 bau - skarb; skrabiec  
 bau di - cenny  
 bau sheku - klejnot  
@@ -373,7 +373,7 @@ bio mute di - sfermentowany
 bio sana she - kompost  
 bio sistem - biom  
 bio toksi - toksyna  
-bio vute - życie organiczne  
+bio she - życie organiczne  
 bir - piwo  
 bir kan - bar, knajpa  
 Bisau Ginia - Guinea Bissau  
@@ -381,7 +381,7 @@ biskute - biszkopt, ciastko
 bismute - bizmut  
 bizar - dziwny  
 biznes - biznes, interes (aktywność komercyjna)  
-bizneser - osoba biznesu, biznesman  
+biznes ja - osoba biznesu, biznesman  
 blabla - luźna rozmowa, gadanina  
 blabla kan - pokój rozmów, chat  
 bloge - blog  
@@ -400,8 +400,8 @@ Bolivia - Boliwia
 bomba - bomba  
 bon - dobry  
 bon darja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
-bon deke - cnota (moralność)  
-bon deke di - cnotliwy (prawy)  
+bon moral - cnota (moralność)  
+bon moral di - cnotliwy (prawy)  
 bon guste di - pyszny  
 bon mas she - dodatkowy  
 bon sifa di - wspaniały  
@@ -415,21 +415,21 @@ borium - bohr
 boron - bor  
 Bosna e Hercegovina - Bośnia i Harcegowina  
 botel - butelka  
-Botia - Tybet  
-boyu - dryfować (pływać, płynąć)  
-brauze - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
-brauzer - poszukiwacz (badacz, eksplorator)  
+Bote - Tybet  
+be boi - dryfować (pływać, płynąć)  
+brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
+brauza program - poszukiwacz (badacz, eksplorator)  
 bravo - Odwarzny (  
 bravo - brawo (gratulacje)  
 Brazavil Kongo - Republika Konga  
 Brazil - Brazyla  
 briko - morela (śliwka)  
 Britan - Zjednoczone Królestwo  
-bromium - brom  
+brom - brom  
 brosh - szczotka  
-brun - brązowy, koloru kawy  
-brun alga - brunatnica  
-brun salmon - pstrąg potokowy  
+kafe rang - brązowy, koloru kawy  
+kafe alga - brunatnica  
+kafe salmon - pstrąg potokowy  
 Brunei - Brunei Darussalam  
 brus - rodzeństwo, brat lub siostra  
 bu! - bu!  
@@ -449,7 +449,7 @@ Burkina Faso - Burkina Faso
 bus - autobus, autokar  
 buste - biust  
 buta - but  
-Butan - Bhutan  
+Lung Desha - Bhutan  
 buton - klawisz, przycisk, przełącznik, guzik  
 buton ban - klawiatura  
 buyu - baobab  
@@ -480,7 +480,7 @@ chati - dach
 chatre - cztery (4)  
 chatre gona - kwadrat (czworokąt, czworobok, tetragon)  
 chau - trawa  
-chau istan - łąka  
+chau topo - łąka  
 cheke - sprawdzić, sprawdzać, skontrolować  
 chen - poprzedni  
 chen - wcześniej (uprzednio, poprzednio, przedtem)  
@@ -518,7 +518,7 @@ chize - ser
 choda - jebać, kopulować  
 choi - zielenina  
 choklate - czekolada  
-choklate baton - baton czekoladowy  
+choklate kane - baton czekoladowy  
 chongching - Chongqing  
 chopu - motyka  
 chori - kradzież  
@@ -573,7 +573,7 @@ dara tubo - lejek
 darba - bić, uderzyć, uderzać  
 darja - stopień, poziom, ranga, klasa  
 darja di - stopniowy  
-darja meden - gradient (gradacja, stopniowanie)  
+darja medan - gradient (gradacja, stopniowanie)  
 darja mute - rozwój  
 darmesitadium - darmsztadt  
 darte - grunt (ziemia, próchnica)  
@@ -886,7 +886,7 @@ fa mol - zemleć (mleć, mielić)
 fa multi do du - podwajać (podwoić, pomnożyć przez dwa)  
 fa muzika - grać muzykę  
 fa name - nazwać, nazywać, wezwać, wzywać  
-fa no zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
+fa an zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa node - zawiązywać (zawiązać węzeł)  
 fa nomer - liczyć  
 fa nomi - zarządzać (organizować, kierować)  
@@ -1075,7 +1075,7 @@ forma - forma, kształt, morf
 forma so - morfem  
 forum - forum  
 foto - światło, oświetlenie  
-foto baton - pochochodnia (latarka)  
+foto kane - pochochodnia (latarka)  
 foto di - jasny, świetlny  
 foto frike - polerować (szlifować)  
 foto gola - efekt halo  
@@ -1157,7 +1157,7 @@ garma masala - garam masala
 garma mosim - lato  
 garma mosim medi den - przesilenie letnie (dzień srodka lata)  
 garma zona - tropiki  
-garma zona chau istan - sawanna  
+garma zona chau topo - sawanna  
 garma zona di - tropikalny  
 gas - gaz  
 gas di - gazowy  
@@ -1491,10 +1491,10 @@ Jayer - Algieria
 jaze - jazz, dżez  
 jebe - kieszeń  
 jebra - algebra  
-jeku - pożyczyć  
-jeku daku - pożyczać (pożyczyć)  
-jeku dona - pożyczać komuś (pożyczyć komuś)  
-jeku loga - zapożyczenie (wyraz obcy)  
+jeka - pożyczyć  
+jeka daku - pożyczać (pożyczyć)  
+jeka dona - pożyczać komuś (pożyczyć komuś)  
+jeka loga - zapożyczenie (wyraz obcy)  
 jele - żel, galareta  
 jelosi - zazdrosny  
 jen - medytować; dumać, rozmyślać, zastanawiać się  
@@ -1941,7 +1941,7 @@ limfa - limfa
 limite - limit, granica  
 limite di - skończony (ograniczony)  
 limon - cytryna  
-limon lugi di - limonkowy (limonkowo zielony)  
+limon luka di - limonkowy (limonkowo zielony)  
 lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
 lin parche - złamanie lini  
 lin so - włókno  
@@ -1986,11 +1986,11 @@ lote - wsad, partia, porcja, seria
 lotra - wydra  
 lou - przeciekać, ciec  
 lou sang - krwawić  
-luga - zielony  
-luga melon - melon miodowy  
-luka - sześć (6)  
-luka fase - sześcian (kostka)  
-luka gona - sześciokąt (sześciobok)  
+luka - zielony  
+luka melon - melon miodowy  
+sis - sześć (6)  
+sis fase - sześcian (kostka)  
+sis gona - sześciokąt (sześciobok)  
 Luksemburge - Luksemburg  
 lulu - perła  
 lun - dyskusja, debata, dyskurs  
@@ -2102,10 +2102,10 @@ Mayote - Majotta
 maze - skarpeta, skarpetka, pończocha  
 meche - mecz, rywalizacja  
 medal - medalion, medal  
-meden - skwer, plac  
-meden di - otwarty (przestrzenny)  
-meden fobi - agorafobia  
-meden papi - mak polny  
+medan - skwer, plac  
+medan di - otwarty (przestrzenny)  
+medan fobi - agorafobia  
+medan papi - mak polny  
 medi - środek  
 medi - średni  
 medi dia - południe  
@@ -2219,7 +2219,7 @@ moka jang ja - stolarz
 moka jong parke - arboretum  
 moka mate - drewno  
 moka tana - pień  
-moku - tusz  
+kalam sui - tusz  
 mol ja - młynarz  
 mol kan - mielić  
 mol sheku - ostrzarka (kamień młyński)  
@@ -2370,7 +2370,7 @@ Noe di nave - arka Noego
 nomer - numer  
 nomi - zarządzanie (-nomia)  
 nong - uprawić, uprawiać  
-nong istan - wieś, tereny wiejskie  
+nong topo - wieś, tereny wiejskie  
 nong ja - rolnik, farmer  
 nong nomi - agronomia  
 nong topo di - wiejski, rustykalny  
@@ -2751,9 +2751,9 @@ re - powtarzanie, powtórka
 re sikle - przetwarzać  
 rebel - rebelia, powstanie  
 redi - gotowy  
-rege - piasek, piach  
-rege istan - pustynia  
-rege petra - piaskowiec  
+arena - piasek, piach  
+arena topo - pustynia  
+arena petra - piaskowiec  
 rengenium - roentgen  
 renium - ren  
 reporte - raport  
@@ -2888,12 +2888,12 @@ sama hal - pogoda
 sama kinar - horyzont  
 samarium - samar  
 Samoa - Samoa  
-sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
+fa sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sana basha - język sztuczny  
 sana di - sztuczny  
 sana di - produktywny (żyzny)  
 sana ja - twórca, kreator, czynnik  
-sana ya - produkcja  
+sana - produkcja  
 sanduiche - kanapka  
 sanduku - pudło, skrzynia  
 sange - krew  
@@ -2947,7 +2947,7 @@ seme dane - ziarno, nasienie
 seme di - nasienny  
 semente - cement  
 sen - sto (100)  
-sen - wiek  
+sene - wiek  
 Senegal - Senegal  
 sense - zmysł  
 sense gi - sensor (detektor, czujka)  
@@ -3270,7 +3270,7 @@ Timor - Timor
 ting - stop; przerwa, zatrzymanie  
 tipe - typ (rodzaj, gatunek)  
 tire - ciągnąć  
-tire baton - dźwignia  
+tire kane - dźwignia  
 tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tire sanduku - szuflada  
 tire yo milke - wydoić, doić  
@@ -3422,7 +3422,7 @@ veze di - ciężki (masywny)
 veze metre gi - waga (urządzenie ważące)  
 vide - patrzeć, widzieć  
 vide ja - obserwator (widz)  
-vide meden - pole widzenia  
+vide medan - pole widzenia  
 vide punte - perspektywa (punkt widzenia)  
 vide she - widok, wzrok  
 vidou - wdowa  

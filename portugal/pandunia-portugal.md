@@ -9,8 +9,8 @@ adil ta - justiça
 adres - endereço  
 Afgan - Afeganistão  
 agile - ágil  
-agres - ataque  
-agreser - agressor  
+agresi - ataque  
+agresi ja - agressor  
 ai - amor  
 ai ja - amante  
 ai jen - querido  
@@ -22,7 +22,7 @@ ais hoki - hóquei no gelo
 ais krem - sorvete (gelado)  
 ajibu - maravilha  
 akare - carrapato (ácaros)  
-ala - alterar  
+fa alo - alterar  
 alga - alga  
 alga jangal - floresta de algas  
 alkol - álcool  
@@ -51,7 +51,8 @@ arane - aranha
 arane nete - teia de aranha  
 arbuza - melancia  
 argente - prata  
-argum - argumento  
+argu - argumento  
+fa argu - arguir  
 arka - arco  
 arka chati - abóbada  
 arme - arma  
@@ -87,7 +88,7 @@ badan - corpo
 bagaje - bagagem  
 bagre - tigre  
 bagre oselote - gato-do-mato (gato-maracajá-mirim)  
-bai - baía  
+baya - baía  
 baka fan - terracota  
 baka ja - padeiro  
 baku - branco  
@@ -109,13 +110,13 @@ bari fon - acento
 basa - bastante (suficiente)  
 basen - bacia  
 basha - língua (idioma)  
-bashi jinse - gênero gramatical  
+basha jinse - gênero gramatical  
 baske bol - basketball  
 bata - pato  
 bateri - pilha (bateria)  
 bati - oito (8)  
-baton - vara (bastão)  
-baton kasa - gaiola (jaula)  
+kane - vara (bastão)  
+kane kasa - gaiola (jaula)  
 bau di - precioso  
 bau sheku - pedra preciosa (gema)  
 bazar - mercado (bazar)  
@@ -155,7 +156,7 @@ bio logi - biología
 bio sana she - composto  
 bio sistem - bioma  
 bio toksi - toxina  
-bio vute - organismo  
+bio she - organismo  
 bir - cerveja  
 biskute - biscoito  
 blu - azur  
@@ -169,12 +170,12 @@ bol - bola
 bomba - bomba  
 bon - bom  
 botel - garrafa (botelha)  
-boyu - nadar (flutuar)  
+be boi - nadar (flutuar)  
 bravo - bravo (valente, corajoso)  
 bravo - bravo!  
 briko - damasco (abricó, ameixa)  
-brun - castanho (marrom)  
-brun salmon - truta-marrom  
+kafe rang - castanho (marrom)  
+kafe salmon - truta-marrom  
 bu! - bu!  
 bubu - bicho-papão  
 bucha - abater  
@@ -215,7 +216,7 @@ chira chira di - esfarrapado
 chize - queijo  
 choi - verdura  
 choklate - chocolate  
-choklate baton - barra de chocolate  
+choklate kane - barra de chocolate  
 chopu - enxada  
 chun - aldeia (vila)  
 chuze she - opção  
@@ -531,9 +532,9 @@ jangal - selva (floresta, jângal)
 jara - jarra (jarro)  
 jau - cevada  
 javabu - resposta  
-jeku - emprestar (pedir emprestado)  
-jeku daku - pedir emprestado  
-jeku dona - emprestar  
+jeka - emprestar (pedir emprestado)  
+jeka daku - pedir emprestado  
+jeka dona - emprestar  
 jen buda din - budismo zen  
 jene basha - língua materna  
 jene logi - genealogia  
@@ -674,6 +675,7 @@ kudi - cotovelo
 kudi metre - cúbito (côvado)  
 kupa - copo (taça)  
 kurban - sacrifício  
+kurva - curva  
 kush - deitar  
 kush - estar deitado (jazer)  
 ####L - L  
@@ -748,8 +750,8 @@ long krokodil - crocodilo
 long tire - estirar  
 lotra - lontra  
 lou - vazar  
-luga - verde  
-luka - seis (6)  
+luka - verde  
+sis - seis (6)  
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  
@@ -794,8 +796,8 @@ mate lun - materialismo
 mau - gato  
 maze - meia  
 meche - partida  
-meden - praça  
-meden papi - papoila  
+medan - praça  
+medan papi - papoila  
 medi - meio (metade)  
 medi - moyen  
 medi dia - meio-dia  
@@ -836,6 +838,7 @@ mode - modo (maneira, jeito)
 moka - árvore  
 moka ban - tábua (prancha)  
 moka tana - tora  
+kalam sui - tinta  
 mol kan - moenda (moinho)  
 mol sheku - mó  
 mole - mol  
@@ -1020,6 +1023,7 @@ rasa - raça
 ratibu - ordem  
 re - repetição  
 re sikle - reciclar  
+arena - areia  
 reseta - receita  
 reste - resto  
 retro gula sense - náusea  
@@ -1083,8 +1087,8 @@ selu logi - citologia
 seme - semente  
 seme di - seminal  
 sen - cem (100)  
-sen - idade  
-sen di - idoso (sene)  
+sene - idade  
+sene di - idoso (sene)  
 sense - sentido  
 sense shaka - tentáculo  
 sentaure - centáurea  
@@ -1137,6 +1141,7 @@ si - ser (estar)
 si dura - transcorrer  
 siborgium - seabórgio  
 sifa loga - adjetivo  
+sigar - cigarro  
 sikle ja - ciclista  
 sili - série (sequência)  
 sili tika - elo  

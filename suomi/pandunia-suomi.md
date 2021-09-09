@@ -14,10 +14,10 @@ adres zi - @-merkki
 Afgan - Afganistan  
 Afrika - Afrikka  
 agile - ketterä  
-agres - hyökkäys (päällekarkaus, aggressio)  
-agresa - hyökätä (käydä päälle)  
-agreser - hyökkääjä  
-agresivi - hyökkäävä (aggressiivinen)  
+agresi - hyökkäys (päällekarkaus, aggressio)  
+fa agresi - hyökätä (käydä päälle)  
+agresi ja - hyökkääjä  
+agresi tabi - hyökkäävä (aggressiivinen)  
 aha - oivaltaa (tajuta)  
 ai - rakkaus (tykkääminen)  
 ai ja - rakastaja  
@@ -41,7 +41,7 @@ ajila - kiirehtiä
 akare - punkki  
 akasia - akaasia  
 akse - akseli  
-ala - muuttaa (tehdä eriksi)  
+fa alo - muuttaa (tehdä eriksi)  
 Alaska - Alaska  
 alga - levä  
 alga fungu - jäkälä  
@@ -56,7 +56,7 @@ alo fon - allofoni (vaihtoehtoinen ääntämys)
 alo nam - eli (toisin sanoen)  
 alo rai - olla eri mieltä  
 alo rai - erimielisyys  
-alo romanse - heteroromanttinen  
+alo romanse di - heteroromanttinen  
 alo sekse di - heteroseksuaali  
 alo sifa - erilaisuus (ero)  
 alo sifa di - erilainen  
@@ -88,8 +88,8 @@ an eskala - laskeutua
 an icha ja - vastahakoinen (haluton)  
 an jami - hajauttaa  
 an jami di - hajanainen  
-an kai - sulkea (panna kiinni)  
-an kai di - suljettu  
+fa klus - sulkea (panna kiinni)  
+klus - suljettu  
 an karma ja - epäaktiivinen (pois toiminnasta)  
 an kode - purkaa koodi (dekoodata)  
 an limite - äärettömyys (rajattomuus)  
@@ -117,7 +117,7 @@ anjil - viesti
 anjil ja - viestintuoja (airut)  
 Antartika - Antarktis  
 Antartika Hai - Eteläinen Jäämeri  
-anten - antenni  
+antena - antenni  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua ja Barbuda  
 anus - peräaukko (anus)  
@@ -137,7 +137,7 @@ area - alue (seutu)
 argente - hopea  
 Argentina - Argentiina  
 argon - argon  
-argum - perustelu (argumentti)  
+argu - perustelu (argumentti)  
 Ariel - Ariel  
 arka - kaari  
 arka chati - holvikatto  
@@ -167,7 +167,7 @@ Asia - Aasia
 askete - askeett  
 asma - astma  
 aspirin - aspiriini  
-astatium - astatiini  
+astate - astatiini  
 astro - taivaankappale  
 astro nave - tähtialus  
 astro nave ja - astronautti (tähtimatkaaja)  
@@ -215,7 +215,7 @@ baha din - bahailaisuus
 baha din ja - bahailainen  
 Bahama - Bahama-saaret  
 Bahrain - Bahrain  
-bai - lahti  
+baya - lahti  
 baka - leipoa  
 baka ja - leipuri  
 baka kan - leipomo  
@@ -264,16 +264,16 @@ basha - puhua (kieli, kommunikaatio)
 basha kanun - kielioppi  
 basha kanun di - kieliopillinen  
 basha logi - kielitiede (lingvistiikka)  
-bashi jinse - kieliopillinen suku  
+basha jinse - kieliopillinen suku  
 baske - kori  
 baske bol - koripallo  
 bata - sorsa (ankka)  
 bata krote - vesinokkaeläin  
 bateri - akku (paristo)  
 bati - kahdeksan (8)  
-baton - tanko (sauva, patukka)  
-baton kasa - häkki  
-baton pan - patonki (ranskanleipä)  
+kane - tanko (sauva, patukka)  
+kane kasa - häkki  
+kane pan - patonki (ranskanleipä)  
 bau - aarre  
 bau di - arvokas  
 bau sheku - jalokivi  
@@ -384,7 +384,7 @@ bio laji - biojäte
 bio logi - biologia  
 bio sana she - komposti  
 bio toksi - toksiini  
-bio vute - orgaaninen elämä  
+bio she - orgaaninen elämä  
 bir - olut (kalja)  
 bir kan - baari (kapakka)  
 Bisau Ginia - Guinea-Bissau  
@@ -392,7 +392,7 @@ biskute - keksi (pikkuleipä)
 bismute - vismutti  
 bizar - outo (kummallinen)  
 biznes - liiketoiminta (bisnes)  
-bizneser - liikemies  
+biznes ja - liikemies  
 blabla - jutella (höpistä)  
 blabla kan - keskusteluhuone  
 bloge - blogi (nettikolumni)  
@@ -412,8 +412,8 @@ Bolivia - Bolivia
 bomba - pommi  
 bon - hyvä  
 bon darja - nostaa tasoa  
-bon deke - hyve  
-bon deke di - hyveellinen (hyvä)  
+bon moral - hyve  
+bon moral di - hyveellinen (hyvä)  
 bon guste di - herkullinen (nami)  
 bon rai - hyväksyä  
 bon sifa di - laadukas (hyvä)  
@@ -427,11 +427,11 @@ borium - bohrium
 boron - boori  
 Bosna e Hercegovina - Bosnia ja Hertsegovina  
 botel - pullo  
-Botia - Tiibet  
-boyu - kellua (uida)  
+Bote - Tiibet  
+be boi - kellua (uida)  
 Brahma - Brahma  
-brauze - selata  
-brauzer - selain  
+brauza - selata  
+brauza gi - selain  
 bravo - rohkea (urhea, uljas)  
 bravo - bravo!  
 Brazavil - Brazzaville  
@@ -439,9 +439,9 @@ Brazavil Kongo - Brazzavillen Kongo
 Brazil - Brasilia  
 briko - aprikoosi (luumu)  
 Britan - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
-bromium - bromi  
+brom - bromi  
 brosh - harja  
-brun - ruskea  
+kafe rang - ruskea  
 Brunei - Brunei  
 brus - sisarus (veli tai sisko)  
 brusben - sisaruksen lapsi  
@@ -467,7 +467,7 @@ Burkina Faso - Burkina Faso
 bus - linja-auto (bussi)  
 buste - povi  
 buta - saapas (buutsi)  
-Butan - Bhutan  
+Lung Desha - Bhutan  
 buton - nappi (näppäin, kytkin, nappula)  
 buton ban - näppäimistö  
 buyu - apinanleipäpuu (baobab)  
@@ -499,7 +499,7 @@ chatre - neljä (4)
 chatre di galope - neli (kiitolaukka)  
 chatre gona - neliö  
 chau - ruoho  
-chau istan - ruohotasanko  
+chau topo - ruohotasanko  
 cheke - tarkistaa (tsekata)  
 chen - edellinen  
 chen - ennen (aikaisemmin, aiemmin)  
@@ -539,7 +539,7 @@ chize - juusto
 choda - nussia (panna)  
 choi - vihannes  
 choklate - suklaa  
-choklate baton - suklaapatukka  
+choklate kane - suklaapatukka  
 chongching - Chongqing  
 chopu - kuokka  
 chori - varkaus  
@@ -946,7 +946,7 @@ fa multi do du - tuplata (kertoa kahdella)
 fa muzika - soittaa (musisoida)  
 fa name - nimittää (kutsua)  
 fa nia - aikoa (meinata)  
-fa no zai - poistaa (hävittää)  
+fa an zai - poistaa (hävittää)  
 fa node - solmia (tehdä solmu)  
 fa nomi - järjestellä (hallinnoida, organisoida, manageroida)  
 fa note - huomauttaa  
@@ -1139,7 +1139,7 @@ forma - muoto (morfi)
 forma so - morfeemi  
 forum - foorumi  
 foto - valo  
-foto baton - soihtu  
+foto kane - soihtu  
 foto di - valoisa  
 foto frike - kiillottaa  
 foto gola - sädekehä (halo)  
@@ -1228,7 +1228,7 @@ garma masala - garam masala
 garma mosim - kesä (suvi)  
 garma mosim medi den - juhannus (keskikesä, mittumaari)  
 garma zona - tropiikki  
-garma zona chau istan - savanni  
+garma zona chau topo - savanni  
 garma zona di - trooppinen  
 gas - kaasu  
 gas di - kaasumainen  
@@ -1536,7 +1536,6 @@ islam din sharia - šaria
 islamfobia - islamofobia (islamin pelko)  
 Islande - Islanti  
 Israel - Israel  
-istan - alue (seutu)  
 Italia - Italia  
 ####J - J  
 ja - tekijä (aikaansaaja)  
@@ -2029,10 +2028,10 @@ long ta - pituus
 lote - erä (satsi)  
 lou - vuotaa  
 lou sang - vuotaa verta  
-luga - vihreä  
-luka - kuusi (6)  
-luka fase - kuutio (kuusitahokas)  
-luka gona - kuusikulmio  
+luka - vihreä  
+sis - kuusi (6)  
+sis fase - kuutio (kuusitahokas)  
+sis gona - kuusikulmio  
 Luksemburge - Luxemburg  
 lulu - helmi  
 lun - väittely (debatti)  
@@ -2146,9 +2145,9 @@ maze - sukka
 me poze - sija (paikka järjestyksessä)  
 meche - ottelu (matsi)  
 medal - mitali  
-meden - kenttä (aukio)  
-meden di - avara (aava, aukea)  
-meden fobi - agorafobia (avaran paikan kammo)  
+medan - kenttä (aukio)  
+medan di - avara (aava, aukea)  
+medan fobi - agorafobia (avaran paikan kammo)  
 medi - väli  
 medi dia - keskipäivä (puolipäivä)  
 medi gi - väline (instrumentti)  
@@ -2249,7 +2248,7 @@ moka - puu
 moka jang ja - puuseppä  
 moka jong parke - arboretum (puulajipuisto)  
 moka mate - puuaines  
-moku - muste  
+kalam sui - muste  
 mol ja - mylläri  
 mol kan - mylly  
 mol sheku - myllynkivi  
@@ -2395,7 +2394,7 @@ nomi - hallinto (hallinnointi)
 nong - viljellä  
 nong bio logi - maatalousbiologia  
 nong chun - maalaiskylä  
-nong istan - maaseutu  
+nong topo - maaseutu  
 nong ja - maanviljelijä  
 nong nomi - agronomia (maatalous)  
 nong shuta - viljely  
@@ -2765,8 +2764,8 @@ re sikle - kierrättää
 re zoku - jatkua uudestaan  
 rebel - kapina  
 redi - valmis  
-rege - hiekka  
-rege istan - aavikko (hiekkaerämaa)  
+arena - hiekka  
+arena topo - aavikko (hiekkaerämaa)  
 rengenium - röntgenium  
 renium - rhenium  
 reporte - raportti (selostus, selonteko)  
@@ -2886,11 +2885,11 @@ sam sifa di - samanlainen
 sama - taivas  
 sama hal - sää  
 Samoa - Samoa  
-sana - tehdä (valmistaa)  
+fa sana - tehdä (valmistaa)  
 sana basha - keinotekoinen kieli (tekokieli, keinokieli)  
 sana di - tuottava (tuottelias)  
 sana ja - tekijä (valmistaja)  
-sana ya - tuotanto  
+sana - tuotanto  
 sanduiche - voileipä  
 sanduku - laatikko  
 sange - veri  
@@ -2941,8 +2940,8 @@ seme dane - siemenjyvä
 seme di - siemen-  
 semente - sementti  
 sen - sata (100)  
-sen - ikä  
-sen di - iäkäs  
+sene - ikä  
+sene di - iäkäs  
 Senegal - Senegal  
 sense - aisti  
 sense gi - sensori (aistin)  
@@ -3259,7 +3258,7 @@ tomate - tomaatti
 ton - sävel (sävy)  
 tong - tynnyri (tölkki)  
 Tonga - Tonga  
-topo - seutu (maa)  
+topo - seutu (maa, alue)  
 topo grafi - topografia  
 topo metre grafi - kartta  
 torso - vartalo (varsi, torso)  
@@ -3388,7 +3387,7 @@ veze di - painava
 veze metre gi - vaaka (puntari)  
 vide - nähdä  
 vide ja - katsoja (tarkkailija)  
-vide meden - näkökenttä  
+vide medan - näkökenttä  
 vide she - näkymä  
 vidou - leski  
 Viete - Vietnam  

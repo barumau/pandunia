@@ -15,10 +15,10 @@ adres zi - arobase (@)
 Afgan - Afghanistan  
 Afrika - Afrique  
 agile - agile  
-agres - agression (attaque)  
-agresa - attaquer (agresser)  
-agreser - agresseur  
-agresivi - agressif  
+agresi - agression (attaque)  
+fa agresi - attaquer (agresser)  
+agresi ja - agresseur  
+agresi tabi - agressif  
 aha - comprendre (réaliser)  
 ai - amour (affection)  
 ai ja - amoureux  
@@ -38,7 +38,7 @@ ais krem - crème glacée
 ajibu - merveille  
 akare - acarien  
 akse - axe  
-ala - changer  
+fa alo - changer  
 Alaska - Alaska  
 alga - algue  
 alga fungu - lichen  
@@ -53,7 +53,7 @@ alo fen di - distinct
 alo fon - allophone  
 alo rai - diverger (ne pas être d'accord)  
 alo rai - désaccord (différend)  
-alo romanse - hétéroromantique (hétéromantique)  
+alo romanse di - hétéroromantique (hétéromantique)  
 alo sekse di - hétérosexuel  
 alo sifa - différence  
 alo sifa di - différent  
@@ -97,7 +97,7 @@ anjil - message
 anjil ja - messager  
 Antartika - Antarctique  
 Antartika Hai - Océan Antarctique  
-anten - antenne  
+antena - antenne  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua-et-Barbuda  
 anus - anus  
@@ -118,7 +118,8 @@ area - espace (zone, région)
 argente - argent  
 Argentina - Argentine  
 argon - argon  
-argum - argument  
+argu - argument  
+fa argu - arguer  
 arka - arc  
 arka chati - voûte  
 arka ja - archer  
@@ -146,7 +147,7 @@ Asia - Asie
 askete - ascète  
 asma - asthme  
 aspirin - aspirine  
-astatium - astate  
+astate - astate  
 astro - astre (corps céleste)  
 astro nave - astronef  
 astro nave ja - astronaute  
@@ -180,7 +181,7 @@ bagi bele - bêche (pelle)
 bagre - tigre  
 bagre oselote - oncille  
 bah - bah  
-bai - baie (golf)  
+baya - baie (golf)  
 baka fan - terre cuite  
 baka ja - boulanger  
 baku - blanc  
@@ -223,13 +224,13 @@ barude - poudre à canon
 basa - assez  
 basen - bassin  
 basha - langue  
-bashi jinse - genre grammatical  
+basha jinse - genre grammatical  
 baske - panier (panier de basketball)  
 baske bol - basketball  
 bateri - pile (batterie)  
 bati - huit (8)  
-baton - bâton (canne, tige)  
-baton kasa - cage  
+kane - bâton (canne, tige)  
+kane kasa - cage  
 bau di - précieux  
 bau sheku - pierre précieuse (joyau)  
 bazar - marché (bazar)  
@@ -271,7 +272,7 @@ bio logi - biologie
 bio sana she - compost  
 bio sistem - biome  
 bio toksi - toxine  
-bio vute - organisme  
+bio she - organisme  
 bir - bière  
 biskute - biscuit  
 blu - bleu  
@@ -286,13 +287,13 @@ bomba - bombe
 bon - bon  
 bon sin di - propice  
 botel - bouteille  
-boyu - nagar (flotter)  
+be boi - nagar (flotter)  
 bravo - brave  
 bravo - bravo!  
 briko - abricot (prune)  
-brun - brun (marron)  
-brun alga - algues brunes  
-brun salmon - truite brune (truite de mer)  
+kafe rang - brun (marron)  
+kafe alga - algues brunes  
+kafe salmon - truite brune (truite de mer)  
 bu! - bouh!  
 bubu - croque-mitaine  
 bucha - abattre  
@@ -332,7 +333,7 @@ chira - déchirer
 chira - déchirer  
 chize - fromage  
 choklate - chocolat  
-choklate baton - tablette de chocolat  
+choklate kane - tablette de chocolat  
 chopu - houe  
 chun - village  
 chuze she - option  
@@ -566,7 +567,7 @@ ganse - oie
 ganum - blé  
 garma mosim - été  
 garma zona - tropique  
-garma zona chau istan - savane  
+garma zona chau topo - savane  
 gas - gaz  
 gata glu ban - presse-papier  
 gati - dur  
@@ -704,9 +705,9 @@ jara - jarre (carafe, cruche)
 jau - orge  
 javabu - réponse  
 Jayer - Algérie  
-jeku - prêter (empruntre)  
-jeku daku - empruntre  
-jeku dona - prêter  
+jeka - prêter (empruntre)  
+jeka daku - empruntre  
+jeka dona - prêter  
 jen buda din - zen  
 jene basha - langue maternelle  
 jene logi - généalogie  
@@ -858,6 +859,7 @@ kudi - coude
 kudi metre - coudée  
 kupa - coupe (tasse, verre)  
 kurban - sacrifice  
+kurva - courbe  
 kush - coucher  
 kush - être couché  
 kush loke - couch (couchette)  
@@ -933,8 +935,8 @@ long krokodil - crocodile
 long pipre - poivre long  
 long tire - tender  
 lotra - loutre  
-luga - vert  
-luka - six (6)  
+luka - vert  
+sis - six (6)  
 luna - lune  
 luna keke - gâteau de lune  
 lung dou - pois carré  
@@ -981,8 +983,8 @@ matur - adulte
 mau - chat  
 me poze - rang  
 meche - match  
-meden - place  
-meden papi - coquelicot  
+medan - place  
+medan papi - coquelicot  
 medi - medio  
 medi dia - midi  
 medi noche - minuit  
@@ -1024,6 +1026,7 @@ moka - arbre
 moka ban - planche  
 moka jong parke - arboretum, pépinière  
 moka tana - bûche  
+kalam sui - encre  
 mol kan - moulin  
 mol sheku - meule  
 mole - mole (unité)  
@@ -1236,7 +1239,9 @@ ratibu - ordre
 re - répétition  
 re sikle - recycler  
 re zoku - reprendre  
-rege petra - grès  
+arena - sable  
+arena estade - arène  
+arena petra - grès  
 reseta - recette  
 reste - reste  
 retro - en arrière  
@@ -1309,7 +1314,7 @@ selu logi - cytologie
 seme - semence  
 seme di - séminal  
 sen - cent (100)  
-sen - âge  
+sene - âge  
 sense - sens  
 sense shaka - tentacule  
 sentaure - Centaurée  
@@ -1363,6 +1368,7 @@ shuta - art
 si - être  
 si dura - se passer  
 sifa loga - adjectif  
+sigar - cigarette  
 sikle - bicyclette  
 sikle ja - cycliste  
 sili - série  

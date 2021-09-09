@@ -11,8 +11,8 @@ adres - adreso
 Afgan - Afganujo, Afganio  
 Afrika - Afriko  
 agile - lerta  
-agres - atako (agreso)  
-agresivi - agresema  
+agresi - atako (agreso)  
+agresi tabi - agresema  
 aha - kompreni  
 ai - amo  
 ai ja - amanto  
@@ -27,7 +27,7 @@ ais krem - glaciaĵo
 ajila - rapidigi  
 akasia - akacio  
 akse - akso  
-ala - ŝanĝi (aliigi)  
+fa alo - ŝanĝi (aliigi)  
 alga - algo  
 alkol - alkoholo  
 alkol di - alkohola  
@@ -65,7 +65,7 @@ angul - fingro
 angul ring - ringo  
 anime - kartuno  
 anjil - mesaĝo  
-anten - anteno  
+antena - anteno  
 anus - anuso  
 anus di - anusa  
 aple - pomo  
@@ -163,8 +163,8 @@ baske - korbo
 bata - anaso  
 bateri - baterio (pilo)  
 bati - ok (8)  
-baton - stango  
-baton kasa - kaĝo  
+kane - stango  
+kane kasa - kaĝo  
 bau - trezoro  
 bau sheku - juvelo  
 bazar - merkato (bazaro)  
@@ -224,14 +224,14 @@ bina plan ja - arĥitekto
 bindu - punkto  
 bio - orgaaninen (biologinen)  
 bio logi - biologio  
-bio vute - organismo  
+bio she - organismo  
 bir - biero  
 bir kan - drinkejo  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
 bizar - stranga  
 biznes - negoco  
-bizneser - komercisto  
+biznes ja - komercisto  
 blabla - babili  
 blabla kan - babilejo  
 blu - blua  
@@ -253,15 +253,15 @@ bori di - enui
 borium - borio  
 boron - boro  
 botel - botelo  
-Botia - Tibeto  
+Bote - Tibeto  
 Brahma - Bramo  
 bravo - brava  
 bravo - brave!  
 Brazil - Brazilo  
 briko - abrikoto (pruno)  
-bromium - bromo  
+brom - bromo  
 brosh - broso  
-brun - bruna  
+kafe rang - bruna  
 brus - frato aŭ fratino  
 bucha - buĉi  
 bucha ja - buĉisto  
@@ -316,7 +316,7 @@ chini - porcelano
 chize - fromaĝo  
 choda - fiki  
 choklate - ĉokolado  
-choklate baton - ĉokolado  
+choklate kane - ĉokolado  
 chori - ŝtelo  
 chori ja - ŝtelisto  
 chum - kiso  
@@ -625,7 +625,7 @@ forke - forko
 forma - formo  
 forum - forumo  
 foto - lumo  
-foto baton - torĉo  
+foto kane - torĉo  
 foto di - luma  
 foto gola - halo  
 foto grafi - foto  
@@ -1123,7 +1123,7 @@ long - longa
 long kata - romano  
 lou - liki  
 lou sang - sangi  
-luga - verda  
+luka - verda  
 lulu - perlo  
 luna - luno  
 luta - rabi  
@@ -1228,7 +1228,7 @@ mitre - metro
 moka - arbo  
 moka jong parke - arboĝardeno  
 moka mate - ligno  
-moku - inko  
+kalam sui - inko  
 moli - jasmeno  
 moli hua chai - jasmenteo  
 moliden - molibdeno  
@@ -1489,8 +1489,8 @@ rasa sim ja - racisto
 re - ripetado  
 re sikle - recikligi  
 redi - preta  
-rege - sablo  
-rege istan - dezerto  
+arena - sablo  
+arena topo - dezerto  
 rengenium - rentgenio  
 renium - renio  
 restorante - restaŭracio  
@@ -1558,7 +1558,7 @@ sam sekse di - samseksema
 sama - ĉielo  
 sama hal - vetero  
 samarium - samario  
-sana - produkti (fabriki)  
+fa sana - produkti (fabriki)  
 sana basha - artefarita lingvo  
 sana ja - fabrikisto  
 sanduku - skatolo (kesto)  
@@ -1587,7 +1587,7 @@ selu logi - citologio
 seme - semo  
 seme di - sema  
 sen - cent  
-sen - aĝo  
+sene - aĝo  
 sense - sentumo  
 senti - centono  
 Serbia - Serbio  
@@ -1644,6 +1644,7 @@ shush di - silenta
 si - esti  
 siborgium - seborgio  
 sifa loga - adjektivo  
+sigar - cigaredo  
 sikle ja - biciklisto  
 sili - serio  
 sili sili - ĉeno  

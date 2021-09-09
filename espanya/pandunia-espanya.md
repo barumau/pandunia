@@ -15,9 +15,9 @@ adres zi - arroba (@)
 Afgan - Afganistán  
 Afrika - África  
 agile - ágil  
-agres - ataque  
-agreser - agresor  
-agresivi - agresivo  
+agresi - ataque  
+agresi ja - agresor  
+agresi tabi - agresivo  
 aha - entender (comprender)  
 ai - amor  
 ai ja - amante (enamorado)  
@@ -40,7 +40,7 @@ ajibu di - maravilloso (asombroso)
 ajila - meter prisa  
 akare - garrapata (ácaro)  
 akse - eje  
-ala - cambiar (demudar)  
+fa alo - cambiar (demudar)  
 Alaska - Alaska  
 alga - alga  
 alga fungu - liquen  
@@ -56,7 +56,7 @@ alo fon - alófono
 alo nam - es decir (en otras palabras)  
 alo rai - disentir (no estar de acuerdo)  
 alo rai - desacuerdo  
-alo romanse - heterorromántico  
+alo romanse di - heterorromántico  
 alo sekse di - heterosexual  
 alo sifa - diferencia  
 alo sifa di - diferente  
@@ -111,7 +111,7 @@ anjil - mensaje
 anjil ja - mensajero  
 Antartika - antartida  
 Antartika Hai - océano Antártico  
-anten - antena  
+antena - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua y Barbuda  
 anus - ano  
@@ -133,7 +133,8 @@ area - área (zona, región)
 argente - plata  
 Argentina - Argentina  
 argon - argón  
-argum - argumento  
+argu - argumento  
+fa argu - argüir  
 arka - arco  
 arka chati - bóveda  
 arka ja - arquero  
@@ -163,7 +164,7 @@ Asia - Asia
 askete - asceta  
 asma - asma  
 aspirin - aspirina  
-astatium - ástato  
+astate - ástato  
 astro - cuerpo celeste  
 astro nave - astronave (nave estelar)  
 astro nave ja - astronauta  
@@ -180,7 +181,7 @@ audi - oír (escuchar)
 auro - oro  
 Australia - Australia  
 Austronesia - Austronesia  
-auta - personalizar  
+fa auto - personalizar  
 auto - mismo (yo)  
 auto di - personal (privado, a medida)  
 auto krati - autocratia (monarquía)  
@@ -212,7 +213,7 @@ baha din - bahaísmo (fe bahá'i)
 baha din ja - bahá'í  
 Bahama - Bahamas  
 Bahrain - baréin  
-bai - bahía  
+baya - bahía  
 bai - derrota  
 baka - hornear (cocer)  
 baka fan - terracota  
@@ -265,16 +266,16 @@ basha - lengua (idioma, hablar, comunicación)
 basha kanun - gramática  
 basha kanun di - gramatical  
 basha logi - lingüística  
-bashi jinse - género gramatical  
+basha jinse - género gramatical  
 baske - cesta (canasta, barquilla, aro)  
 baske bol - baloncesto (básquetbol)  
 bata - pato  
 bata krote - ornitorrinco  
 bateri - pila (batería)  
 bati - ocho (8)  
-baton - barra (vara, palo)  
-baton kasa - jaula (caja)  
-baton pan - baguette  
+kane - barra (vara, palo)  
+kane kasa - jaula (caja)  
+kane pan - baguette  
 bau - tesoro  
 bau di - precioso  
 bau sheku - piedra preciosa (joya, gema)  
@@ -383,7 +384,7 @@ bio logi - biología
 bio sana she - abono orgánico (compost)  
 bio sistem - bioma  
 bio toksi - toxina  
-bio vute - organismo (ser vivo)  
+bio she - organismo (ser vivo)  
 bir - cerveza (birra)  
 bir kan - bar (pub)  
 Bisau Ginia - Guinea-Bisáu  
@@ -391,7 +392,7 @@ biskute - galleta
 bismute - bismuto  
 bizar - raro (extraño)  
 biznes - negocios (comercio)  
-bizneser - empresario  
+biznes ja - empresario  
 blabla - charlar (parlotear, chatear)  
 blabla kan - sala de chat (tertuliadero)  
 bloge - blog  
@@ -412,8 +413,8 @@ Bolivia - Bolivia
 bomba - bomba  
 bon - bueno  
 bon darja - mejorar  
-bon deke - virtud (moralidad)  
-bon deke di - virtuoso (moral)  
+bon moral - virtud (moralidad)  
+bon moral di - virtuoso (moral)  
 bon guste di - delicioso  
 bon sifa di - excelente  
 bon sifa ta - calidad (excelencia, mérito, virtud, ventaja)  
@@ -426,21 +427,22 @@ borium - bohrio
 boron - boro  
 Bosna e Hercegovina - Bosnia y Herzegovina  
 botel - botella  
-Botia - Tíbet  
-boyu - nadar (flotar)  
-brauze - explorar  
-brauzer - explorador (navegador)  
+Bote - Tíbet  
+be boi - nadar (flotar)  
+brauza - explorar  
+brauza program - explorador  
+brauza gi - navegador  
 bravo - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - República del Congo  
 Brazil - Brasil  
 briko - albaricoque (ciruela)  
 Britan - Reino Unido  
-bromium - bromo  
+brom - bromo  
 brosh - cepillo (brocha)  
-brun - marrón  
-brun alga - algas pardas  
-brun salmon - trucha marrón  
+kafe rang - marrón  
+kafe alga - algas pardas  
+kafe salmon - trucha marrón  
 Brunei - Brunei  
 brus - hermano o hermana  
 bu! - bu!  
@@ -464,7 +466,7 @@ Burkina Faso - Burkina Faso
 bus - bus (autobús)  
 buste - pecho (busto)  
 buta - bota  
-Butan - Bután  
+Lung Desha - Bután  
 buton - tecla (botón)  
 buton ban - teclado  
 buyu - baobab  
@@ -495,7 +497,7 @@ chati - techo (tejado)
 chatre - cuatro (4)  
 chatre gona - cuadro  
 chau - césped (hierba)  
-chau istan - pradera (pastizal)  
+chau topo - pradera (pastizal)  
 cheke - revisar (chequear)  
 chen - previo (anterior)  
 chen - más temprano (antes, haber, en el pasado)  
@@ -531,7 +533,7 @@ chize - queso
 choda - joder (coger, copular)  
 choi - verduras  
 choklate - chocolate  
-choklate baton - barra de chocolate  
+choklate kane - barra de chocolate  
 chopu - azada  
 chori - robo (hurto)  
 chori ja - ladrón  
@@ -918,7 +920,7 @@ fa multi do du - doblar (multiplicar por dos)
 fa muzika - tocar música  
 fa najis - corromper (contaminar)  
 fa name - llamar (poner)  
-fa no zai - quitar (eliminar, borrar)  
+fa an zai - quitar (eliminar, borrar)  
 fa node - hacer un nudo  
 fa nomer - contar  
 fa nomi - organizar (gestionar)  
@@ -1112,7 +1114,7 @@ forma - forma (figura, morfo)
 forma so - morfema  
 forum - foro (espacio público)  
 foto - luz (iluminación)  
-foto baton - antorcha  
+foto kane - antorcha  
 foto di - claro (luminoso)  
 foto frike - pulir (lustrar)  
 foto gola - halo (aureola)  
@@ -1199,7 +1201,7 @@ garma masala - garam masala
 garma mosim - verano  
 garma mosim medi den - Midsommar  
 garma zona - trópico  
-garma zona chau istan - sabana  
+garma zona chau topo - sabana  
 gas - gas  
 gas di - gaseoso  
 gata - cortar  
@@ -1550,10 +1552,10 @@ Jayer - Argelia
 jaze - jazz  
 jebe - bolsillo  
 jebra - álgebra  
-jeku - prestar (pedir prestado)  
-jeku daku - pedir prestado  
-jeku dona - prestar  
-jeku loga - préstamo lingüístico  
+jeka - prestar (pedir prestado)  
+jeka daku - pedir prestado  
+jeka dona - prestar  
+jeka loga - préstamo lingüístico  
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
 jen - meditar (reflexionar)  
@@ -2004,7 +2006,7 @@ lili yam - tentempié
 limfa - linfa  
 limite - límite (frontera, linde)  
 limon - limón  
-limon lugi di - verde limón  
+limon luka di - verde limón  
 limon oranje - cítrico  
 lin - linea (hilo, cordel, raya)  
 lin parche - nueva línea  
@@ -2048,11 +2050,11 @@ lote - lote (grupo)
 lotra - nutria  
 lou - chorrear  
 lou sang - sangrar  
-luga - verde  
-luga melon - melón verde  
-luka - seis (6)  
-luka fase - hexaedro (cubo)  
-luka gona - hexágono  
+luka - verde  
+luka melon - melón verde  
+sis - seis (6)  
+sis fase - hexaedro (cubo)  
+sis gona - hexágono  
 Luksemburge - Luxemburgo  
 lulu - perla  
 lun - discusión (debate, discurso)  
@@ -2169,10 +2171,10 @@ Mayote - Mayotte (Mahoré)
 maze - calcetín  
 meche - partido  
 medal - medallón  
-meden - plaza  
-meden di - abierto (extenso)  
-meden fobi - agorafobia  
-meden papi - amapola silvestre  
+medan - plaza  
+medan di - abierto (extenso)  
+medan fobi - agorafobia  
+medan papi - amapola silvestre  
 medi - medio  
 medi - medio (mediano)  
 medi dia - mediodía  
@@ -2287,7 +2289,7 @@ moka jang ja - carpintero
 moka jong parke - arboreto  
 moka mate - madera  
 moka tana - leño (tronca)  
-moku - tinta  
+kalam sui - tinta  
 mol ja - molinero  
 mol kan - molino  
 mol sheku - muela  
@@ -2445,7 +2447,7 @@ nomi - gerencia (dirección)
 nong - cultivar  
 nong bio logi - agrobiología  
 nong di - agrícola  
-nong istan - campo  
+nong topo - campo  
 nong ja - granjero (agricultor)  
 nong nomi - agronomía  
 nong topo di - rural (rústico)  
@@ -2846,8 +2848,8 @@ re sikle - reciclar
 re zoku - continuar (reanudar)  
 rebel - rebelión (sublevación)  
 redi - listo (preparado)  
-rege - arena  
-rege istan - desierto  
+arena - arena  
+arena topo - desierto  
 rengenium - roentgenio  
 renium - renio  
 reporte - informe (reporte, noticia)  
@@ -2982,11 +2984,11 @@ sama hal - clima (tiempo)
 sama kinar - horizonte  
 samarium - samario  
 Samoa - Samoa  
-sana - producir (hacer, preparar)  
+fa sana - producir (hacer, preparar)  
 sana basha - idioma artificial (lengua construida, conlang)  
 sana di - artificial (sintético)  
 sana ja - farbicante  
-sana ya - producción  
+sana - producción  
 sanduiche - sándwich (sánduche)  
 sanduku - caja (baúl, cofre, estuche)  
 sange - sangre  
@@ -3042,7 +3044,7 @@ seme dane - pepita
 seme di - seminal  
 semente - cemento  
 sen - cien (100)  
-sen - edad  
+sene - edad  
 Senegal - Senegal  
 sense - sentido  
 sense shaka - tentáculo  
@@ -3148,7 +3150,7 @@ side loka - silla (montura)
 sifa - cualidad (atributo, descripción)  
 sifa di - descriptivo  
 sifa loga - adjetivo  
-sigar - cigarro  
+sigar - cigarro (cigarillo)  
 siki din - sijismo  
 siki din ja - sij  
 sikle - bicicleta  
@@ -3377,7 +3379,7 @@ Timor - Timor
 ting - parada (alto)  
 tipe - tipo (género)  
 tire - tirar  
-tire baton - palanca  
+tire kane - palanca  
 tire dara - corriente de resaca  
 tire sanduku - cajón (gaveta)  
 tire yo milke - ordeñar  
@@ -3537,7 +3539,7 @@ veze di - pesado
 veze metre gi - pesa (báscula, balanza)  
 vide - ver (mirar)  
 vide ja - espectador  
-vide meden - campo de visión  
+vide medan - campo de visión  
 vide punte - perspectiva (punto de vista)  
 vide she - vista (visión)  
 vidou - viudo  

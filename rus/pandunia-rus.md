@@ -8,8 +8,8 @@ adil ta - справедливость
 adres - адрес  
 Afgan - Афганистан  
 agile - подвижный  
-agres - нападение (атака, агрессия)  
-agreser - агрессор  
+agresi - нападение (атака, агрессия)  
+agresi ja - агрессор  
 ai - любовь  
 ai ja - любовник  
 air - воздух  
@@ -22,7 +22,7 @@ ajila - спешить
 akare - клещ (лепта)  
 akasia - акация  
 akse - ось  
-ala - изменять  
+fa alo - изменять  
 alga - водоросли  
 alga fungu - лишай  
 alga jangal - лес водорослей  
@@ -47,7 +47,7 @@ angul marke - отпечаток пальца
 angul pike - кончик пальца  
 anime - оживление  
 anjil - месседж  
-anten - антенна  
+antena - антенна  
 anus - анус  
 aple - яблоко  
 aple sos - яблочное пюре  
@@ -57,7 +57,8 @@ arane - паук
 arane nete - паутина  
 arbuza - арбуз  
 area - площадь  
-argum - аргумент (обосновани)  
+argu - аргумент (обосновани)  
+fa argu - аргументи́ровать  
 arka - лук (арка)  
 arka chati - свод  
 arka ja - лучник  
@@ -122,12 +123,12 @@ bari fon - ударение
 basa - достаточно (довольно)  
 basen - бассейн  
 basha - язык  
-bashi jinse - род в грамматике  
+basha jinse - род в грамматике  
 baske bol - баскетбол  
 bateri - батарея  
 bati - восемь (8)  
-baton - штанга  
-baton kasa - клетка  
+kane - штанга  
+kane kasa - клетка  
 bau - сокровище (казна)  
 bau di - драгоценный  
 bau sheku - драгоценный камень  
@@ -170,7 +171,7 @@ bio logi - биология
 bio sana she - компост  
 bio sistem - биом  
 bio toksi - токсин  
-bio vute - организм  
+bio she - организм  
 bir - пиво  
 biskute - печенье (бисквит)  
 biznes - предприятие (бизнес)  
@@ -186,15 +187,16 @@ bomba - бомба
 bon - хороший  
 bon sin di - благоприятный  
 botel - бутылка  
-boyu - плавать  
+be boi - плавать  
 Brahma - Брахма  
-brauze - исследовать  
-brauzer - исследователь (браузер)  
+brauza - исследовать  
+brauza program - исследователь  
+brauza gi - браузер  
 bravo - браво  
 briko - абрикос (слива)  
-brun - коричневый  
-brun alga - бурые водоросли  
-brun salmon - кумжа  
+kafe rang - коричневый  
+kafe alga - бурые водоросли  
+kafe salmon - кумжа  
 bu! - бу  
 bubu - бука  
 bucha ja - мясник  
@@ -731,6 +733,7 @@ kudi - локоть
 kuke kamar - кухня  
 kupa - чаша (чашка, стакан)  
 kurban - жертва  
+kurva - кривая  
 kush - положить  (уложить)  
 kush - лежать  
 ####L - L  
@@ -797,8 +800,8 @@ long pipre - перец длинный
 long tire - вытянуть  
 lotra - выдра  
 lou - протекать (просочиться)  
-luga - зелёный  
-luka - шесть (6)  
+luka - зелёный  
+sis - шесть (6)  
 luna - луна  
 luna keke - лунный пирог  
 luta ja - грабитель  
@@ -845,8 +848,8 @@ mau - кошка
 maze - носок  
 me poze - ранг  
 meche - матч  
-meden - площадь (сквер, майдан)  
-meden papi - мак самосейка  
+medan - площадь (сквер, майдан)  
+medan papi - мак самосейка  
 medi - средний  
 medi dia - полдень  
 medi gi - средство  
@@ -886,6 +889,7 @@ mitre - метр
 moka - дерево  
 moka ban - доска (планка)  
 moka tana - бревно  
+kalam sui - чернила  
 mol kan - мельница  
 mol sheku - жёрнов  
 moli - жасмин  
@@ -1087,6 +1091,7 @@ ratibu - установка
 ratibu di - организованный (порядок)  
 re - повторение  
 re sikle - рециркулировать  
+arena estade - арена  
 reste - остаток  
 retro gula - рвать (изрыга́ть)  
 retro gula sense - тошнота  
@@ -1160,7 +1165,7 @@ seme - семя
 seme di - семенной  
 semente - цемент  
 sen - сто  
-sen - возраст  
+sene - возраст  
 sense - чувство  
 sense shaka - щупальце  
 sentaure - василёк  
@@ -1217,6 +1222,7 @@ sian - циан
 siborgium - сиборгий  
 side loka - сиденье (седло)  
 sifa loga - прилагательное  
+sigar - сигарета (папироса, сигарка)  
 sikle ja - велосипедист  
 sili - серия  
 sili nete - кольчуга  
@@ -1303,7 +1309,7 @@ tese - довод
 teste - проба (тест)  
 tikete - билет  
 tim - команда  
-tire baton - рычаг  
+tire kane - рычаг  
 tire dara - отбойное течение  
 tire yo milke - тянуть  
 tire yo pil - ободрать  

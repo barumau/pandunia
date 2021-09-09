@@ -25,7 +25,7 @@ aeróbico - air bio di
 Afeganistão - Afgan  
 agacharse - lipa side  
 agente - karma ja  
-agressor - agreser  
+agressor - agresi ja  
 agrobiologia - nong bio logi  
 agronomia - nong nomi  
 agrícola - nong di  
@@ -46,7 +46,7 @@ alho-porro - porei
 aligátor (jacaré) - korte krokodil  
 almirante - hai amir ja  
 altar - puja meza  
-alterar - ala  
+alterar - fa alo  
 alô - halo  
 amador - hobi ja  
 amante - ai ja  
@@ -75,8 +75,10 @@ arbusto (mata) - tal moku
 Arca da Aliança - liga di sanduku  
 arca de Noé - Noe di nave  
 arco - arka  
+areia - arena  
 argila - glu fan  
-argumento - argum  
+arguir - fa argu  
+argumento - argu  
 arma - arme  
 arma de fogo - pau gi  
 armadilha - kape truke  
@@ -99,7 +101,7 @@ astronauta - astro nave ja
 astronave - astro nave  
 astronomia - astro nomi  
 astrónomo - astro nomi ja  
-ataque - agres  
+ataque - agresi  
 Atenas - Athina  
 aterro (lixão) - laji bagi  
 ativo - karma ja  
@@ -129,7 +131,7 @@ bando - banda
 banqueiro - banka shefe  
 barba - barde  
 barco (navio) - nave  
-barra de chocolate - choklate baton  
+barra de chocolate - choklate kane  
 barrar - bara  
 barreira - bara mur  
 base (álcali) - kali  
@@ -137,7 +139,7 @@ base - baze
 basebol (beisebol) - baze bol  
 basketball - baske bol  
 bastante (suficiente) - basa  
-baía - bai  
+baía - baya  
 bebê - bebe  
 beleza - sundar ta  
 beliche - cheng bede  
@@ -232,7 +234,7 @@ carvalho - baluta
 carvalho-roble - europe baluta  
 casca (concha) - kaske  
 cascalho - grave  
-castanho (marrom) - brun  
+castanho (marrom) - kafe rang  
 cavar (escavar) - fa kave  
 caçar - saide  
 cebola - piaze  
@@ -266,6 +268,7 @@ chuvoso (pluvioso) -
 chá - chai  
 ciclista - sikle ja  
 cidade - siti  
+cigarro - sigar  
 cinco (5) - penta  
 cintilar - fa sing foto  
 citologia - selu logi  
@@ -337,6 +340,7 @@ crónico - dura di
 cubo - kube  
 cultivar - nong  
 cume (pico, topo) - shan pike  
+curva - kurva  
 cápsico - chili  
 cão (cachorro) - vaf  
 céu - sama  
@@ -410,8 +414,8 @@ elogio - eu loga
 embalar - lifafa  
 emoticon (emoji) - emosi zi  
 emoçao - emosi  
-emprestar (pedir emprestado) - jeku  
-emprestar - jeku dona  
+emprestar (pedir emprestado) - jeka  
+emprestar - jeka dona  
 encarar (afrontar; vérsus) - verse  
 encontrar - miti  
 endereço - adres  
@@ -528,7 +532,7 @@ fábula - zou kata
 fácil - fasil  
 fóton (fotão) - foto so  
 ####G - G  
-gaiola (jaula) - baton kasa  
+gaiola (jaula) - kane kasa  
 galope - galope  
 galáxia - galaksi  
 gamão - nardi  
@@ -565,7 +569,7 @@ guitarra - gitar
 Gália - Galia  
 gás - gas  
 gás lacrimogéneo - oko sui gas  
-gênero gramatical - bashi jinse  
+gênero gramatical - basha jinse  
 ####H - H  
 habilidade (capacidade) - bil ta  
 haste (talo, caule) - tana  
@@ -590,8 +594,8 @@ héroi - hero
 hóquei - hoki  
 hóquei no gelo - ais hoki  
 ####I - I  
-idade - sen  
-idoso (sene) - sen di  
+idade - sene  
+idoso (sene) - sene di  
 idoso - lau  
 igual (par) - par  
 igual - sam  
@@ -814,7 +818,7 @@ mímico - mima ja
 mó - mol sheku  
 música - muzika  
 ####N - N  
-nadar (flutuar) - boyu  
+nadar (flutuar) - be boi  
 nautiloide - nautile  
 nave espacial - kosmo nave  
 nação - nasi  
@@ -872,7 +876,7 @@ opção - chuze she
 ordem - ratibu  
 orelha - ore  
 orfanato - yatim dom  
-organismo - bio vute  
+organismo - bio she  
 organizar - fa nomi  
 origem - asal  
 original - asal di  
@@ -902,7 +906,7 @@ pandemia - pan demo pati
 pantomima (mímica) - pan mima  
 papel - kaguji  
 papel de parede - mur kaguji  
-papoila - meden papi  
+papoila - medan papi  
 papoila-dormideira - sona papi  
 par - par jan  
 para-lama - fan defa ban  
@@ -919,7 +923,7 @@ patógeno - pati jene she
 pausa - pauza  
 paz - pase  
 pederneira - hogo sheku  
-pedir emprestado - jeku daku  
+pedir emprestado - jeka daku  
 pedra - sheku  
 pedra preciosa (gema) - bau sheku  
 pedregulho - dai sheku  
@@ -981,7 +985,7 @@ poucos - shau ta
 prancheta - pinse ban  
 prata - argente  
 prateleira (estante) - lipa ban  
-praça - meden  
+praça - medan  
 precioso - bau di  
 preferir - mas fili  
 prensa - presa gi  
@@ -1119,7 +1123,7 @@ sede - sui yau
 segunda-feira - var un  
 seguro - sekur  
 seio (mama) - titi  
-seis (6) - luka  
+seis (6) - sis  
 seita - din shia  
 selva (floresta, jângal) - jangal  
 sem - na  
@@ -1196,6 +1200,7 @@ terça-feira - var du
 teste - teste  
 tigre - bagre  
 tijolo - dobe  
+tinta - kalam sui  
 toalha - gan tela  
 toalha de mesa - meza tela  
 tomate - tomate  
@@ -1217,7 +1222,7 @@ trazer - fa lai
 trigo - ganum  
 truque (fraude) - truke  
 truta-arco-íris - rang arka salmon  
-truta-marrom - brun salmon  
+truta-marrom - kafe salmon  
 três (3) - tri  
 trópicos - garma zona  
 tu - tu  
@@ -1246,7 +1251,7 @@ valor (valia) - valu
 valorar - fa valu  
 vampiro - vampir  
 vapor - sui gas  
-vara (bastão) - baton  
+vara (bastão) - kane  
 vaso de flores - hua pote  
 vazar - lou  
 vazio - hali  
@@ -1257,7 +1262,7 @@ vender - vende
 ver - vide  
 verbo - karma loga  
 verdadeiro - ver  
-verde - luga  
+verde - luka  
 verdura (hortaliça, legume) - yam fito  
 verdura - choi  
 verme - verme  

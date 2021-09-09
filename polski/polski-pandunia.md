@@ -9,8 +9,8 @@ admirał - hai amir ja
 adres - adres  
 Afganistan - Afgan  
 Afryka - Afrika  
-agorafobia - meden fobi  
-agresywny - agresivi  
+agorafobia - medan fobi  
+agresywny - agresi tabi  
 agronomia - nong nomi  
 aj!, ał! - au  
 akacja - akasia  
@@ -63,7 +63,7 @@ animacja - anime
 animal - zou  
 animować - anime  
 Antarktyka - Antartika  
-antena - anten  
+antena - antena  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua e Barbuda  
 antonim - an nam  
@@ -80,7 +80,7 @@ architekt - bina plan ja
 architektura - bina plan  
 Argentyna - Argentina  
 argon - argon  
-argument - argum  
+argument - argu  
 argument, teza - tese  
 arka Noego - Noe di nave  
 Arktyka - Artika  
@@ -96,14 +96,14 @@ arytmetyka - hisabu shuta
 asceta - askete  
 aseksualny - an sekse di  
 aspiryna - aspirin  
-astat - astatium  
+astat - astate  
 astma - asma  
 astronauta - astro nave ja  
 astronom - astro nomi ja  
 astronomia - astro nomi  
 Asyria - Ashur desha  
 Aszur - Ashur  
-atak (agresja, napaść) - agres  
+atak (agresja, napaść) - agresi  
 ateista - an deu sim ja  
 atleta, sportowiec - kelele  
 atom - atom  
@@ -122,7 +122,7 @@ aż do - hata
 ####B - B  
 babcia (babka) - chin ma  
 bagaż - bagaje  
-bagietka - baton pan  
+bagietka - kane pan  
 bagno (moczary) - fan topo  
 bahaista - baha din ja  
 bahaizm - baha din  
@@ -153,7 +153,7 @@ barometr - air presa metre gi
 barwnik - rang mate  
 basen - basen  
 bateria - bateri  
-baton czekoladowy - choklate baton  
+baton czekoladowy - choklate kane  
 bawełna - goton  
 bawić, zabawiać - fa van  
 bawół domowy - karbau  
@@ -180,7 +180,7 @@ bezgłowy - sar na di
 beznadziejny - asha na di  
 bezpieczny - sekur  
 bezzębny - dante na di  
-Bhutan - Butan  
+Bhutan - Lung Desha  
 Białoruś - Belarus  
 biały - baku  
 Biblia - Biblia  
@@ -230,17 +230,17 @@ brawo (gratulacje) - bravo
 Brazyla - Brazil  
 broda - barde  
 brodawka - zeyil  
-brom - bromium  
+brom - brom  
 broń - arme  
 broń nuklearna - kerne arme  
 bruk - gola sheku  
-brunatnica - brun alga  
+brunatnica - kafe alga  
 Brunei Darussalam - Brunei  
 brzmieć, wydać dźwięk, wydawać dźwięk - fa soni  
 brzoza - betula  
 brzuch - pete  
 brzydki - dus vide  
-brązowy, koloru kawy - brun  
+brązowy, koloru kawy - kafe rang  
 bu! - bu!  
 Budda - Buda  
 buddysta - Buda din ja  
@@ -361,8 +361,8 @@ ciężarny (w ciąży) - hamil
 ciężki (masywny) - veze di  
 ciśnienie atmosferyczne - air presa  
 cmentarz - gabur bagi  
-cnota (moralność) - bon deke  
-cnotliwy (prawy) - bon deke di  
+cnota (moralność) - bon moral  
+cnotliwy (prawy) - bon moral di  
 co? - ke  
 co? - ke jan  
 coś - yo she  
@@ -501,7 +501,7 @@ drewno - moka mate
 droga, szosa, ulica - dau  
 drożdże - hamir  
 drużyna - tim  
-dryfować (pływać, płynąć) - boyu  
+dryfować (pływać, płynąć) - be boi  
 drzewo - moka  
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - chira  
 drzwi wyjściowe - chuti mun  
@@ -569,7 +569,7 @@ długość - long ta
 długość geograficzna - ging darja  
 długość geograficzna - ging gola  
 dźinizm, dżinizm - jain din  
-dźwignia - tire baton  
+dźwignia - tire kane  
 dźwięk, brzmienie - soni  
 Dżakarta - Jakarta  
 Dżibuti - Jibuti  
@@ -737,7 +737,7 @@ gra - gem
 gra planszowa - ban gem  
 gracki, helleński; Grek - Helen  
 gracz - gem ja  
-gradient (gradacja, stopniowanie) - darja meden  
+gradient (gradacja, stopniowanie) - darja medan  
 gram - gram  
 gramatyczny - basha kanun di  
 gramatyka - basha kanun  
@@ -828,7 +828,7 @@ helisa - helis
 herbaciarnia - chai kan  
 herbata - chai  
 herc - herze  
-heteroromantyczny - alo romanse  
+heteroromantyczny - alo romanse di  
 heteroseksualny - alo sekse di  
 hełm - sar kaske  
 higiena - salu safa ta  
@@ -1087,7 +1087,7 @@ klapa - pade mun
 klasa, kategoria - klas  
 klasyczny - chen yang di  
 klasyfikować, kategoryzować - fa klas  
-klatka - baton kasa  
+klatka - kane kasa  
 klatka piersiowa - sina kasa  
 klawiatura - buton ban  
 klawisz, przycisk, przełącznik, guzik - buton  
@@ -1323,7 +1323,7 @@ liliowy - lila rang
 lima (limonka) - kaguji limon  
 limfa - limfa  
 limit, granica - limite  
-limonkowy (limonkowo zielony) - limon lugi di  
+limonkowy (limonkowo zielony) - limon luka di  
 linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
 lipiec - mes chatre  
 lis - huli  
@@ -1383,7 +1383,7 @@ magnez - magesium
 maj - mes du  
 Majotta - Mayote  
 mak lekarski - sona papi  
-mak polny - meden papi  
+mak polny - medan papi  
 mak wschodni - gui papi  
 makaron - mien  
 Makau - Makau  
@@ -1461,7 +1461,7 @@ Meksyk - Mehiko siti
 melodia - melodi  
 melodyczny - melodi  
 melon koreański - aroma melon  
-melon miodowy - luga melon  
+melon miodowy - luka melon  
 Merkury - Merkur  
 mesjański - mesi di  
 metal - metal  
@@ -1859,7 +1859,7 @@ osioł - iha
 osm - osmium  
 osmoza - osmos  
 osoba - jan  
-osoba biznesu, biznesman - bizneser  
+osoba biznesu, biznesman - biznes ja  
 osoba dorosła - matur  
 osoba mówiąca w Panduni - pandunia ja  
 osobisty numer identyfikacyjny (pin) - sekur nomer  
@@ -1874,7 +1874,7 @@ oszacować, szacować, przybliżyć, przybliżać - fa yagu
 oszczędzać (deponować) - banka  
 oszukać (oszukiwać - fa truke  
 otoczyć, otaczać - fa gola  
-otwarty (przestrzenny) - meden di  
+otwarty (przestrzenny) - medan di  
 otwarty, niezamknięty - kai  
 otworzyć (otwierać, odkluczyć, odkluczać) - an sora  
 otworzyć się, otwierać się - be kai  
@@ -1974,8 +1974,8 @@ perła - lulu
 pełny - pul  
 pfuj (fuj) - bah  
 pianino - piano  
-piasek, piach - rege  
-piaskowiec - rege petra  
+piasek, piach - arena  
+piaskowiec - arena petra  
 pidżin, język pomocniczy - pijin  
 piec (piekarnik) - tanur  
 piec - baka  
@@ -2049,7 +2049,7 @@ Pluton (planeta karłowata) - Pluton
 pluton - plutonium  
 pluć - tuh  
 pnącz - eskale tana  
-pochochodnia (latarka) - foto baton  
+pochochodnia (latarka) - foto kane  
 pocisk - lanse she  
 pociąg - tren  
 poczta - posta  
@@ -2087,7 +2087,7 @@ pokrycie; pokrywa, wieko, dekiel; pokład - daka
 pokój - pase  
 pokój rozmów, chat - blabla kan  
 pokój, sala - kamar  
-pole widzenia - vide meden  
+pole widzenia - vide medan  
 pole, powierzchnia - area  
 polerować (szlifować) - foto frike  
 policja - polis  
@@ -2150,9 +2150,9 @@ postawa ciała; asana - asan
 postawiony (stojący) - lipa di  
 postawić (stawiać) - fa libu  
 posuwać się do przodu (dokonywać postępu, wejść) - be jin  
-poszukiwacz (badacz, eksplorator) - brauzer  
+poszukiwacz (badacz, eksplorator) - brauza program  
 poszukiwacz przygód (awanturnik) - ventur ja  
-poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauze  
+poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
 posłaniec (wysłannik) - anjil ja  
 pot - sueda  
 potas - kalium  
@@ -2192,9 +2192,9 @@ Południowa Afryka - Sude Afrika
 południowy - sude di  
 połączenie, złącze, styk - linke  
 pośladki, pupa, tyłek, zadek - pigu  
-pożyczać (pożyczyć) - jeku daku  
-pożyczać komuś (pożyczyć komuś) - jeku dona  
-pożyczyć - jeku  
+pożyczać (pożyczyć) - jeka daku  
+pożyczać komuś (pożyczyć komuś) - jeka dona  
+pożyczyć - jeka  
 pożądanie, żadza - kama  
 praca, zjęcie, zadanie - gung  
 pracować - gung  
@@ -2223,7 +2223,7 @@ problem, kłopot, zakłócenie - turbe
 problematyczny - problem di  
 proces, procedura - proses  
 proch strzelniczy - barude  
-produkcja - sana ya  
+produkcja - sana  
 produktywny (żyzny) - sana di  
 profesja, zajęcie, zawód - pei gung  
 profesor - profesor  
@@ -2318,8 +2318,8 @@ przysłówek - mode loge
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tire dara  
 prędkościomierz - rapide metre gi  
 prędkość (szybkość) - rapide ta  
-pręt, kij - baton  
-pstrąg potokowy - brun salmon  
+pręt, kij - kane  
+pstrąg potokowy - kafe salmon  
 pstrąg tęczowy - rang arka salmon  
 psychologia - ruhu logi  
 pszczoła lub osa - fong  
@@ -2335,7 +2335,7 @@ puma (kuguar) - puma
 punkt - bindu  
 pustka - hali  
 pusty - hali  
-pustynia - rege istan  
+pustynia - arena topo  
 pułapka - kape truke  
 pyszny - bon guste di  
 pytajny, związany z pytaniem - sual di  
@@ -2423,7 +2423,7 @@ rock - roke muzika
 rocznica - nen festa  
 rod - rodium  
 rodak, ziomek, krajan - sam desha jan  
-rodzaj gramatyczny - bashi jinse  
+rodzaj gramatyczny - basha jinse  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - brus  
 rodzic (matka lub ojciec) - chin  
@@ -2556,7 +2556,7 @@ satanista - shatan din ja
 satanizm - shatan din  
 Saturn - Saturne  
 sauna - sauna  
-sawanna - garma zona chau istan  
+sawanna - garma zona chau topo  
 sałata - letis  
 sałatka - salade  
 schody (drabina) - eskale  
@@ -2622,7 +2622,7 @@ skrzydło - ving
 skrócić, skracać - korte fa  
 skupienie, koncentracja - fokus  
 skupić, się, skoncentrować się - fa fokus  
-skwer, plac - meden  
+skwer, plac - medan  
 skwierczeć - zizi  
 skóra - pil  
 slums - harabu mahala  
@@ -2781,10 +2781,10 @@ szeroki - kuan
 szerokość - kuan ta  
 szew - sutur  
 szewc - sapatu ja  
-sześcian (kostka) - luka fase  
+sześcian (kostka) - sis fase  
 sześcian - kube  
-sześciokąt (sześciobok) - luka gona  
-sześć (6) - luka  
+sześciokąt (sześciobok) - sis gona  
+sześć (6) - sis  
 szisz kebab - shish kababu  
 szkielet - oste jama  
 szklić (glazurować) - fa kancha dake  
@@ -2970,7 +2970,7 @@ Turkmenistan - Turkomen
 turkus - firuze  
 turysta - safar kegu ja  
 turystyka - safar kegu  
-tusz - moku  
+tusz - kalam sui  
 Tuwalu - Tuvalu  
 tułów - torso  
 twardy - gati  
@@ -2979,7 +2979,7 @@ twaróg - panir
 twój - tu su  
 twórca, kreator, czynnik - sana ja  
 ty, ciebie - tu  
-Tybet - Botia  
+Tybet - Bote  
 tydzień - var var  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - sui kaboga  
@@ -3046,7 +3046,7 @@ urząd, pozycja, stanowisko, funkcja - ofis poze
 usiąść - side  
 uskok - geo kaske krake  
 usta - boke  
-usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - fa no zai  
+usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - fa an zai  
 usłyszeć, słyszeć; słuchać - audi  
 uwaga, obserwacja - note she  
 uważać (sądzić) - fa rai  
@@ -3128,7 +3128,7 @@ wieczór - sham
 wiedza - sabe she  
 wiedzieć - sabe  
 wiejski, rustykalny - nong topo di  
-wiek - sen  
+wiek - sene  
 wielbłąd, wielbłądzica - gamel  
 wiele - multi  
 wiele - poli  
@@ -3149,7 +3149,7 @@ wierzący (osoba religijna) - din ja
 Wietnam - Viete  
 wietnamski - viete basha  
 wiewiórka - ekore  
-wieś, tereny wiejskie - nong istan  
+wieś, tereny wiejskie - nong topo  
 wieś, wioska - chun  
 wieża - minare  
 wieża zegarowa - hor loga minar  
@@ -3345,9 +3345,9 @@ zamieniać się w gaz (parować) - be gas
 zamieniać w gaz - fa gas  
 zamiłowanie (-filia) - fili  
 zamknięty (zakluczony, zapięty, bezpieczny) - sor di  
-zamknięty - an kai di  
+zamknięty - klus  
 zamknięty na klucz (zakluczony) - an sora di  
-zamknąć (zamykać) - an kai  
+zamknąć (zamykać) - fa klus  
 zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - fa sor  
 zapach (aromat, smród, odór) - aroma  
 zapakować, pakować - fa pake  
@@ -3359,7 +3359,7 @@ zapalenie ucha - ore flame
 zapaść się (zapadać się, runąć) - parche tal  
 zapominać (zapomnieć) - an memo  
 zapomnieć, zapominać - boli  
-zapożyczenie (wyraz obcy) - jeku loga  
+zapożyczenie (wyraz obcy) - jeka loga  
 zaprosić, zapraszać - ching lai  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ke sate  
@@ -3381,7 +3381,7 @@ zastąpić (podstawić, zamienić) - fa vise
 zasób - faida  
 zasłona, kurtyna - parde  
 zatkać, ztykać - fa tapa  
-zatoka - bai  
+zatoka - baya  
 zatrzymać - fa ting  
 zatrzymać się - be ting  
 zawias, oś - sharnir  
@@ -3421,7 +3421,7 @@ zgodzić się (umówić się) - fa trati
 ziarno (nasienie) - seme  
 ziarno, nasienie - seme dane  
 zielenina - choi  
-zielony - luga  
+zielony - luka  
 ziemia, grunt, gleba - geo  
 ziemniak - patate  
 ziemny (glebowy, gruntowy) - darte di  
@@ -3435,7 +3435,7 @@ Zjednoczone Królestwo - Britan
 zjednoczony - unta di  
 zmaksymalizować - fa masim  
 zmiana klimatu - klima mute  
-zmienić (zmieniać) - ala  
+zmienić (zmieniać) - fa alo  
 zmienić, zmieniać - mute  
 zmierzyć (miara) - metre  
 zminimalizować - fa minim  
@@ -3457,7 +3457,7 @@ zoologiczny - zou logi di
 zostawić (zostawiać) - shanti  
 zostać, zostawać - be reste  
 zrobić (stworzyć, wykreować) - fa  
-zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - sana  
+zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - fa sana  
 zromanizować - fa Latin kitabu  
 zsumować, sumować, dodać, dodawać - fa sum  
 zulu - Zulu  
@@ -3512,7 +3512,7 @@ zły, zrujnowany, zepsuty - harabu
 łóżko - bede  
 łączyć (złączyć) - be yong liga  
 łączyć, wiązać, złączyć - fa linke  
-łąka - chau istan  
+łąka - chau topo  
 Śiwa - Shiva  
 Święta Helena - Sante Helena  
 ścieżka (droga, szlak, kurs) - rute  
@@ -3563,7 +3563,7 @@ zły, zrujnowany, zepsuty - harabu
 żołądź - baluta frute  
 żwir - grave  
 życie - jiu  
-życie organiczne - bio vute  
+życie organiczne - bio she  
 żydowski - yehudi  
 żyrafa - jirafa  
 żywica - rezin  

@@ -16,10 +16,10 @@ adres zi - @ symbol
 Afgan - Afghanistan  
 Afrika - Africa  
 agile - agile  
-agres - attack (assault, aggression, hostility)  
-agresa - attack (assault)  
-agreser - aggressor  
-agresivi - aggressive  
+agresi - attack (assault, aggression, hostility)  
+fa agresi - attack (assault)  
+agresi ja - aggressor  
+agresi tabi - aggressive  
 aha - understand (realize)  
 ai - love (liking, affection)  
 ai ja - lover  
@@ -43,7 +43,7 @@ ajila - hurry (hasten)
 akare - tick (mite)  
 akasia - acacia  
 akse - axis (axle)  
-ala - change (make different)  
+fa alo - change (make different)  
 Alaska - Alaska  
 alga - alga  
 alga fungu - lichen  
@@ -59,7 +59,7 @@ alo fon - allophone
 alo nam - that is (in other words, i.e., alias)  
 alo rai - disagree  
 alo rai - disagreement (disconsent)  
-alo romanse - heteroromantic  
+alo romanse di - heteroromantic  
 alo sekse di - heterosexual  
 alo sifa - difference  
 alo sifa di - different  
@@ -97,8 +97,8 @@ an eskala - get off (descend)
 an icha ja - reluctant  
 an jami - disperse (spread out, scatter)  
 an jami di - sparse (scattered)  
-an kai - close (shut)  
-an kai di - closed  
+fa klus - close (shut)  
+klus - closed  
 an karma ja - off (deactivated, disabled)  
 an kode - decode (decrypt)  
 an limite - infinity  
@@ -129,7 +129,7 @@ anjil - message
 anjil ja - messenger  
 Antartika - Antarctica  
 Antartika Hai - Antarctic Ocean  
-anten - antenna (aerial)  
+antena - antenna (aerial)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
 anus - anus  
@@ -151,7 +151,8 @@ area - area (region)
 argente - silver  
 Argentina - Argentina  
 argon - argon  
-argum - argument (rationale, grounds)  
+argu - argument (rationale, grounds)  
+fa argu - argue (assert, prove, clarify)  
 Ariel - Ariel  
 arka - bow (arch, arc)  
 arka chati - vault (arched ceiling or roof)  
@@ -182,7 +183,7 @@ Asia - Asia
 askete - ascetic  
 asma - asthma  
 aspirin - aspirin  
-astatium - astatine  
+astate - astatine  
 astro - celestial body  
 astro nave - starship  
 astro nave ja - astronaut  
@@ -199,7 +200,7 @@ audi - hear (listen)
 auro - gold  
 Australia - Australia  
 Austronesia - Austronesia  
-auta - personalize (customize)  
+fa auto - personalize (customize)  
 auto - self (identity)  
 auto di - personal (intimate, private, custom)  
 auto krati - autocracy (monarchy)  
@@ -236,7 +237,7 @@ baha din - Baha'ism
 baha din ja - Baha'ist  
 Bahama - Bahamas  
 Bahrain - Bahrain  
-bai - bay (gulf)  
+baya - bay (gulf)  
 bai - lose (be defeated)  
 baka - bake  
 baka fan - terracotta  
@@ -291,16 +292,16 @@ basha - speak (talk, language, communication)
 basha kanun - grammar  
 basha kanun di - grammatical  
 basha logi - linguistics  
-bashi jinse - grammatical gender  
+basha jinse - grammatical gender  
 baske - basket (basketball hoop)  
 baske bol - basket ball  
 bata - duck  
 bata krote - platypus  
 bateri - battery  
 bati - eight (8)  
-baton - bar (pole, rod, shaft, staff, stick)  
-baton kasa - cage  
-baton pan - baguette  
+kane - bar (pole, rod, shaft, staff, stick)  
+kane kasa - cage  
+kane pan - baguette  
 bau - treasure (valuables)  
 bau di - precious  
 bau sheku - gem (gemstone, jewel)  
@@ -429,7 +430,7 @@ bio mute di - fermented
 bio sana she - compost  
 bio sistem - biome  
 bio toksi - toxin  
-bio vute - organism (living thing)  
+bio she - organism (living thing)  
 bir - beer  
 bir kan - bar (pub, beer house)  
 Bisau Ginia - Guinea-Bissau  
@@ -437,7 +438,7 @@ biskute - biscuit (cookie)
 bismute - bismuth  
 bizar - odd (strange, weird)  
 biznes - business (commercial activity)  
-bizneser - businessperson (businessman)  
+biznes ja - businessperson (businessman)  
 blabla - chat (babble)  
 blabla kan - chat room  
 bloge - blog (web log)  
@@ -459,8 +460,8 @@ Bolivia - Bolivia
 bomba - bomb  
 bon - good  
 bon darja - upgrade (level up)  
-bon deke - virtue (morals)  
-bon deke di - virtuous  
+bon moral - virtue (morals)  
+bon moral di - virtuous  
 bon guste di - delicious (yummy)  
 bon mas she - bonus  
 bon rai - approve  
@@ -475,11 +476,12 @@ borium - bohrium
 boron - boron  
 Bosna e Hercegovina - Bosnia and Herzegovina  
 botel - bottle  
-Botia - Tibet  
-boyu - float (swim)  
+Bote - Tibet  
+be boi - float (swim)  
 Brahma - Brahma  
-brauze - explore (browse)  
-brauzer - explorer (browser)  
+brauza - explore (browse)  
+brauza program - explorer  
+brauza gi - browser  
 bravo - brave (gallant, valiant)  
 bravo - bravo!  
 Brazavil - Brazzaville  
@@ -487,11 +489,11 @@ Brazavil Kongo - Congo (Brazzaville)
 Brazil - Brazil  
 briko - apricot (plum, peach)  
 Britan - United Kingdom  
-bromium - bromine  
+brom - bromine  
 brosh - brush  
-brun - brown  
-brun alga - brown algae  
-brun salmon - brown trout  
+kafe rang - brown  
+kafe alga - brown algae  
+kafe salmon - brown trout  
 Brunei - Brunei Darussalam  
 brus - sibling (brother or sister)  
 brusben - nephew or niece  
@@ -517,7 +519,7 @@ Burkina Faso - Burkina Faso
 bus - bus  
 buste - bust (bosom)  
 buta - boot  
-Butan - Bhutan  
+Lung Desha - Bhutan  
 buton - key (push-button, switch)  
 buton ban - keyboard  
 buyu - baobab  
@@ -549,7 +551,7 @@ chatre - four (4)
 chatre di galope - gallop  
 chatre gona - square (tetragon)  
 chau - grass  
-chau istan - grassland (prairie)  
+chau topo - grassland (prairie)  
 cheke - check (to examine)  
 chen - previous (fore)  
 chen - earlier (before, in the past)  
@@ -592,7 +594,7 @@ chize - cheese
 choda - fuck (copulate)  
 choi - greens  
 choklate - chocolate  
-choklate baton - chocolate bar  
+choklate kane - chocolate bar  
 chongching - Chongqing  
 chopu - hoe  
 chori - theft  
@@ -651,7 +653,7 @@ dara tubo - funnel
 darba - strike (punch)  
 darja - step (degree, rank, grade, level, class)  
 darja di - gradual  
-darja meden - gradient (gradation, incline)  
+darja medan - gradient (gradation, incline)  
 darja mute - development  
 darmesitadium - darmstadtium  
 darte - soil (dirt)  
@@ -1036,7 +1038,7 @@ fa muzika - play music
 fa najis - corrupt (pollute, soil, defile, stain, taint)  
 fa name - call (name)  
 fa nia - mean (intend)  
-fa no zai - remove (delete, dispose, erase)  
+fa an zai - remove (delete, dispose, erase)  
 fa node - tie a knot  
 fa nomer - count (enumerate)  
 fa nomi - manage (organize)  
@@ -1248,7 +1250,7 @@ forma - form (shape, morph)
 forma so - morpheme  
 forum - forum (public space)  
 foto - light (illumination)  
-foto baton - torch  
+foto kane - torch  
 foto di - light (bright)  
 foto frike - polish  
 foto gola - halo (aureola)  
@@ -1344,7 +1346,7 @@ garma masala - garam masala
 garma mosim - summer  
 garma mosim medi den - Midsummer Day  
 garma zona - tropics  
-garma zona chau istan - savannah  
+garma zona chau topo - savannah  
 garma zona di - tropical  
 gas - gas  
 gas di - gaseous  
@@ -1697,7 +1699,6 @@ islam din sharia - shari'a
 islamfobia - islamophobia  
 Islande - Iceland  
 Israel - Israel  
-istan - tract (land, ground, region)  
 Italia - Italy  
 ####J - J  
 ja - doer (agent, actor)  
@@ -1725,10 +1726,10 @@ Jayer - Algeria
 jaze - jazz  
 jebe - pocket  
 jebra - algebra  
-jeku - borrow (lend)  
-jeku daku - borrow  
-jeku dona - lend  
-jeku loga - loanword  
+jeka - borrow (lend)  
+jeka daku - borrow  
+jeka dona - lend  
+jeka loga - loanword  
 jele - gel (jelly)  
 jelosi - jealous  
 jen - meditate (contemplate, ponder, cogitate)  
@@ -2229,7 +2230,7 @@ limfa - lymph
 limite - limit (boundary)  
 limite di - finite (limited)  
 limon - lemon  
-limon lugi di - lime green  
+limon luka di - lime green  
 limon oranje - citrus fruit  
 lin - line (thread, string)  
 lin parche - line break (newline)  
@@ -2279,11 +2280,11 @@ lote - batch (lot)
 lotra - otter  
 lou - leak  
 lou sang - bleed  
-luga - green  
-luga melon - honeydew (green melon)  
-luka - six (6)  
-luka fase - hexahedron (cube)  
-luka gona - hexagon  
+luka - green  
+luka melon - honeydew (green melon)  
+sis - six (6)  
+sis fase - hexahedron (cube)  
+sis gona - hexagon  
 Luksemburge - Luxembourg  
 lulu - pearl  
 lun - discussion (debate, discourse)  
@@ -2407,10 +2408,10 @@ maze - sock (stocking)
 me poze - rank (position in an ordered list)  
 meche - match (contest)  
 medal - medallion (medal)  
-meden - field (square, plaza, maidan)  
-meden di - open (wide, spacious)  
-meden fobi - agoraphobia  
-meden papi - corn poppy  
+medan - field (square, plaza, maidan)  
+medan di - open (wide, spacious)  
+medan fobi - agoraphobia  
+medan papi - corn poppy  
 medi - middle (the part in between)  
 medi - medium (intermediate, mean)  
 medi dia - noon (midday)  
@@ -2533,7 +2534,7 @@ moka jang ja - carpenter
 moka jong parke - arboretum  
 moka mate - wood (timber)  
 moka tana - log (trunk)  
-moku - ink  
+kalam sui - ink  
 mol ja - miller  
 mol kan - mill  
 mol sheku - grindstone (millstone)  
@@ -2699,7 +2700,7 @@ nong - cultivate (farm)
 nong bio logi - agrobiology  
 nong chun - rural village  
 nong di - agricultural  
-nong istan - countryside  
+nong topo - countryside  
 nong ja - farmer  
 nong nomi - agronomy  
 nong shuta - agriculture  
@@ -3134,9 +3135,10 @@ re zoku - continue (resume)
 Rea - Rhea  
 rebel - rebellion  
 redi - ready (prepared)  
-rege - sand  
-rege istan - desert  
-rege petra - sandstone  
+arena - sand  
+arena estade - arena (stadium with a sand floor)  
+arena topo - desert  
+arena petra - sandstone  
 rengenium - roentgenium  
 renium - rhenium  
 reporte - report  
@@ -3280,12 +3282,12 @@ sama hal - weather
 sama kinar - horizon  
 samarium - samarium  
 Samoa - Samoa  
-sana - produce (create, make)  
+fa sana - produce (create, make)  
 sana basha - artificial language (conlang)  
 sana di - artificial  
 sana di - productive (fertile)  
 sana ja - maker (manufacturer)  
-sana ya - production  
+sana - production  
 sanduiche - sandwich  
 sanduku - box (chest)  
 sange - blood  
@@ -3345,8 +3347,8 @@ seme dane - seed (fertilized grain)
 seme di - seminal  
 semente - cement  
 sen - hundred (100)  
-sen - age  
-sen di - aged  
+sene - age  
+sene di - aged  
 Senegal - Senegal  
 sense - sense (method of perception)  
 sense gi - sensor (detector)  
@@ -3704,7 +3706,7 @@ Timor - Timor
 ting - stop  
 tipe - type (kind, genre)  
 tire - pull (draw, drag)  
-tire baton - lever  
+tire kane - lever  
 tire dara - rip current  
 tire sanduku - drawer  
 tire yo milke - milk (draw milk)  
@@ -3726,7 +3728,7 @@ tomate - tomato
 ton - tone (note, pitch, shade)  
 tong - barrel (can, cask)  
 Tonga - Tonga  
-topo - region  
+topo - region (tract, land, ground)  
 topo grafi - topography  
 topo metre grafi - map (chart, geographic map)  
 torium - thorium  
@@ -3881,7 +3883,7 @@ veze di - heavy
 veze metre gi - scales (weighing device)  
 vide - look (see)  
 vide ja - spectator (sightseer, observer)  
-vide meden - visual field (field of vision)  
+vide medan - visual field (field of vision)  
 vide punte - perspective (point of view)  
 vide she - view (vision)  
 vidou - widow  

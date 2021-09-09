@@ -54,12 +54,12 @@ afraid (scared) - fobi di
 Africa - Afrika  
 afternoon - sham dia  
 again (repeatedly) - pa re  
-age - sen  
-aged - sen di  
-aggressive - agresivi  
-aggressor - agreser  
+age - sene  
+aged - sene di  
+aggressive - agresi tabi  
+aggressor - agresi ja  
 agile - agile  
-agoraphobia - meden fobi  
+agoraphobia - medan fobi  
 agree (concur) - fa sam rai  
 agree (make an agreement) - fa trati  
 agreement (consent) - sam rai  
@@ -139,7 +139,7 @@ answer (reply, response) - javabu
 ant - murche  
 Antarctic Ocean - Antartika Hai  
 Antarctica - Antartika  
-antenna (aerial) - anten  
+antenna (aerial) - antena  
 antichrist - an mesi  
 Antigua - Antigua  
 Antigua and Barbuda - Antigua e Barbuda  
@@ -173,10 +173,12 @@ Arctic Ocean - Artika Hai
 area (extent of surface) - area  
 area (region) - area  
 area of thinking or being - ya  
+arena (stadium with a sand floor) - arena estade  
 Argentina - Argentina  
 argon - argon  
+argue (assert, prove, clarify) - fa argu  
 argue (claim) - fa tese  
-argument (rationale, grounds) - argum  
+argument (rationale, grounds) - argu  
 argument (thesis) - tese  
 Ariel - Ariel  
 arithmetics - hisabu shuta  
@@ -210,7 +212,7 @@ associate - liga
 assume (presuppose) - chen ga  
 Assur - Ashur  
 Assyria - Ashur desha  
-astatine - astatium  
+astatine - astate  
 asthma - asma  
 astrobiology - kosmo bio logi  
 astronaut - astro nave ja  
@@ -225,8 +227,8 @@ Atlantic salmon - atlanti salmon
 atmospheric pressure - air presa  
 atom - atom  
 attachment (affix) - fikse  
-attack (assault) - agresa  
-attack (assault, aggression, hostility) - agres  
+attack (assault) - fa agresi  
+attack (assault, aggression, hostility) - agresi  
 attain (accomplish, indicates the current position) - leu  
 attraction (fascination, -philia) - fili  
 attribute (charasteristic, quality, feature, description, property) - sifa  
@@ -263,7 +265,7 @@ backward (in reverse) - retro
 bad (ruined, destroyed) - harabu  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
 bag (sack) - sake  
-baguette - baton pan  
+baguette - kane pan  
 bah - bah  
 bah! (yuck!) - fui  
 Baha'ism - baha din  
@@ -287,7 +289,7 @@ bank (depository, cache) - banka kan
 banker - banka shefe  
 baobab - buyu  
 bar (obstruct, block) - bara  
-bar (pole, rod, shaft, staff, stick) - baton  
+bar (pole, rod, shaft, staff, stick) - kane  
 bar (pub, beer house) - bir kan  
 bar - bar  
 Barbados - Barbados  
@@ -311,7 +313,7 @@ bath - banya
 bathe - banya  
 bathroom - banya kamar  
 battery - bateri  
-bay (gulf) - bai  
+bay (gulf) - baya  
 be - si  
 be about (discuss as a subject) - tema  
 be beside (accompany) - pa late  
@@ -371,7 +373,7 @@ Bermuda - Bermuda
 berry - beri  
 berth (couchette) - kush loke  
 beryllium - berilium  
-Bhutan - Butan  
+Bhutan - Lung Desha  
 Bible - Biblia  
 Biblical - Biblia di  
 bicycle (pedal bike) - pedal sikle  
@@ -435,8 +437,8 @@ border (edge, fringe, margin, rim, side, shore, periphery) - kinar
 bored - bori di  
 boredom - bori  
 boron - boron  
-borrow (lend) - jeku  
-borrow - jeku daku  
+borrow (lend) - jeka  
+borrow - jeka daku  
 Bosnia and Herzegovina - Bosna e Hercegovina  
 botany (phytology) - fito logi  
 bother (annoy, disturb, irritate) - fa turbe  
@@ -474,10 +476,11 @@ bright (brilliant, clear) - ming
 brighten - fa ming  
 bring - fa lai  
 broken (shattered) - parche di  
-bromine - bromium  
-brown - brun  
-brown algae - brun alga  
-brown trout - brun salmon  
+bromine - brom  
+brown - kafe rang  
+brown algae - kafe alga  
+brown trout - kafe salmon  
+browser - brauza gi  
 Brunei Darussalam - Brunei  
 brush - brosh  
 bubble - lili bol  
@@ -503,7 +506,7 @@ Burundi - Rundi
 bus - bus  
 bush (shrub) - tal moku  
 business (commercial activity) - biznes  
-businessperson (businessman) - bizneser  
+businessperson (businessman) - biznes ja  
 bust (bosom) - buste  
 busy (occupied) - mang  
 but (whereas) - ama  
@@ -523,7 +526,7 @@ cactus - katus
 cadmium - kadmium  
 caesium - cesium  
 cafe (coffee shop) - kafe kan  
-cage - baton kasa  
+cage - kane kasa  
 cake (cookie) - keke  
 calabash - sui kaboga  
 calcite - kalsite  
@@ -615,7 +618,7 @@ Champagne - shampan
 champagne - shampan vin  
 champion - champion  
 change (alter, convert) - mute  
-change (make different) - ala  
+change (make different) - fa alo  
 channel (conduct) - fa kanal  
 channel - kanal  
 chant - mantra  
@@ -657,7 +660,7 @@ chinchilla - chinchila
 Chinese or Japanese character (hanzi, kanji) - Han zi  
 chlorine - klor  
 chocolate - choklate  
-chocolate bar - choklate baton  
+chocolate bar - choklate kane  
 choice (election, selection) - chuze  
 choir (chorus) - chante grupe  
 cholera - holera  
@@ -705,9 +708,9 @@ clocktower - hor loga minar
 clockwise - rota raite  
 clone (replica) - klon  
 clone (replicate) - fa klon  
-close (shut) - an kai  
+close (shut) - fa klus  
 close (shut) - klus  
-closed - an kai di  
+closed - klus  
 cloth (fabric, textile) - tela  
 clothed (dressed) - fuku di  
 clothing (clothes) - fuku  
@@ -817,7 +820,7 @@ copyright - kopi haki
 coral - koral  
 core (nucleus, kernel) - kerne  
 corn (maize) - mais  
-corn poppy - meden papi  
+corn poppy - medan papi  
 corner (angle) - gona  
 cornflower - blu sentaure  
 corona virus - korona virus  
@@ -839,7 +842,7 @@ counselor (consultant) - kon sela ja
 count (enumerate) - fa nomer  
 counterclockwise (anticlockwise) - rota lefte  
 country (land, state) - desha  
-countryside - nong istan  
+countryside - nong topo  
 coupon - kupon  
 court of justice - adil kan  
 cousin - chin brus ben  
@@ -969,7 +972,7 @@ Denmark - Danske desha
 dentist - dante dava ja  
 depth - fase tele ta  
 descriptive - sifa di  
-desert - rege istan  
+desert - arena topo  
 desk - gung meza  
 despise (scorn) - fa paraya  
 destine (set) - chuze yo gol  
@@ -1230,8 +1233,8 @@ expected - chen vide di
 expensive (costly) - koste di  
 explode (blow up) - be bum  
 explode - be bum  
-explore (browse) - brauze  
-explorer (browser) - brauzer  
+explore (browse) - brauza  
+explorer - brauza program  
 explosion (blast, eruption) - bum  
 export - ekso mise  
 expose (reveal) - ekso poze  
@@ -1305,7 +1308,7 @@ fern - parne
 fertilize - frute sana  
 fertilizer - frute sana ja  
 fibre - lin so  
-field (square, plaza, maidan) - meden  
+field (square, plaza, maidan) - medan  
 fiery - hogo di  
 fiever - febre  
 fight (war, battle, combat) - jeng  
@@ -1347,7 +1350,7 @@ fletcher - fleche ja
 flight - fei  
 flint - hogo sheku  
 float (buoy, bobber) - boi  
-float (swim) - boyu  
+float (swim) - be boi  
 floor - kamar tal  
 florist's chrysanthemum - guku hua  
 flow (current, stream) - dara  
@@ -1519,12 +1522,12 @@ goose - ganse
 gorilla - gorila  
 gospel (divine message) - eu anjil  
 government (administration, polity, politics) - politi  
-gradient (gradation, incline) - darja meden  
+gradient (gradation, incline) - darja medan  
 gradual - darja di  
 gram (g) - gram  
 grammar - basha kanun  
 grammatical - basha kanun di  
-grammatical gender - bashi jinse  
+grammatical gender - basha jinse  
 grandchild - benben  
 grandfather - chin ba  
 grandmother - chin ma  
@@ -1534,14 +1537,14 @@ grape - putau
 grapefruit - putau oranje  
 graphic (pictorial) - grafi di  
 grass - chau  
-grassland (prairie) - chau istan  
+grassland (prairie) - chau topo  
 grave (tomb, bury) - gabur  
 gravel - grave  
 graveyard (cemetery, burial ground) - gabur bagi  
 Greece - Helen  
 greedy - tam  
 Greek (Hellenic) - Helen  
-green - luga  
+green - luka  
 Greenland - Kalal  
 greens - choi  
 greet - fa salam  
@@ -1640,10 +1643,10 @@ hero - hero
 heroic - hero di  
 hertz (Hz) - herze  
 Hesse - Hese  
-heteroromantic - alo romanse  
+heteroromantic - alo romanse di  
 heterosexual - alo sekse di  
-hexagon - luka gona  
-hexahedron (cube) - luka fase  
+hexagon - sis gona  
+hexahedron (cube) - sis fase  
 hide (conceal) - fa sir  
 high (tall) - gau  
 high technology (hi-tech) - gau tehni  
@@ -1682,7 +1685,7 @@ Honduras - Onduras
 honest (trustworthy, true; surely, verily, amen) - amen  
 honey - medu  
 honeybee - medu fong  
-honeydew (green melon) - luga melon  
+honeydew (green melon) - luka melon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onor di  
 hook - huke  
@@ -1776,7 +1779,7 @@ information (communicable knowledge) - kon sabe
 initial (first) - shuru di  
 inject - jusha  
 injection - jusha  
-ink - moku  
+ink - kalam sui  
 innate (endogenous, indigenous, inborn) - in jene di  
 inner (internal) - in di  
 insect - dudu  
@@ -1973,7 +1976,7 @@ leftist (left-winger) - lefte sim ja
 leftover (residue, vestige) - lashe she  
 leg - fute shaka  
 lemon - limon  
-lend - jeku dona  
+lend - jeka dona  
 length - long ta  
 lengthen (prolong) - fa long  
 lens - lense  
@@ -1987,7 +1990,7 @@ lettuce - letis
 level - par fase  
 level down - tal darja  
 level up (graduate) - be gau darja  
-lever - tire baton  
+lever - tire kane  
 liberal - huru sim di  
 liberalism - huru sim  
 liberalist - huru sim ja  
@@ -2013,7 +2016,7 @@ lilac color - lila rang
 lily - susan  
 lily of the valley - vali susan  
 lime - kalse mate  
-lime green - limon lugi di  
+lime green - limon luka di  
 limestone - kalse petra  
 limit (boundary) - limite  
 line (thread, string) - lin  
@@ -2037,7 +2040,7 @@ live in (reside in, inhabit) - be dom
 livermorium - livermorium  
 lizard - saur  
 llama - liama  
-loanword - jeku loga  
+loanword - jeka loga  
 local - loka di  
 lock (fasten) - fa sor  
 lock (fastener) - sor  
@@ -2523,7 +2526,7 @@ onion - piaze
 online - pa lin  
 only (single, sole, lone, just) - unike  
 open (not closed) - kai  
-open (wide, spacious) - meden di  
+open (wide, spacious) - medan di  
 open - fa kai  
 opinion (view) - rai  
 opium poppy - sona papi  
@@ -2541,7 +2544,7 @@ order (arrangement, sequence) - ratibu
 order (command) - amir  
 orderly (organized, in sequence, tidy, regular) - ratibu di  
 ordinary (customary, habitual, normal) - ada di  
-organism (living thing) - bio vute  
+organism (living thing) - bio she  
 orgasm - orgazme  
 oriental poppy - gui papi  
 origin (source) - asal  
@@ -2692,7 +2695,7 @@ person (individual, -ist, -er) - jan
 person engaged in a profession or practice (-ic, -er) - ka  
 personal (intimate, private, custom) - auto di  
 personal identification number (PIN) - sekur nomer  
-personalize (customize) - auta  
+personalize (customize) - fa auto  
 perspective (point of view) - vide punte  
 Peru - Peru  
 peta- - peta  
@@ -2876,8 +2879,8 @@ privateer (buccaneer) - nave kape ja
 problem (issue) - problem  
 problematic - problem di  
 process (procedure) - proses  
-produce (create, make) - sana  
-production - sana ya  
+produce (create, make) - fa sana  
+production - sana  
 productive (fertile) - sana di  
 profession (job, occupation, trade, vocation) - pei gung  
 professional (occupational, career) - pei gung di  
@@ -2982,7 +2985,7 @@ red - lal
 reflect - mira  
 refuse (deny, decline) - nega  
 regime - politi mode  
-region - topo  
+region (tract, land, ground) - topo  
 register (record, log) - loge  
 reign (rule as an emperor) - imperi  
 reinforce (replenish) - fa mas lika  
@@ -2994,7 +2997,7 @@ religious - din di
 reluctant - an icha ja  
 remain (stay) - be reste  
 remember (recall) - fa memo  
-remove (delete, dispose, erase) - fa no zai  
+remove (delete, dispose, erase) - fa an zai  
 remove (take away) - fa kite  
 renew (make new, renovate) - fa nove  
 rent (charter, lease) - kira kape  
@@ -3138,8 +3141,8 @@ samarium - samarium
 same (equal, alike, match) - sam  
 Samoa - Samoa  
 San Marino - Sante Marino  
-sand - rege  
-sandstone - rege petra  
+sand - arena  
+sandstone - arena petra  
 sandwich - sanduiche  
 Sao Paulo - Sante Paulo  
 Sao Tome and Principe - Sante Tome e Prinsipe  
@@ -3153,7 +3156,7 @@ sauce - sos
 Saudi Arabia - Saudi Arabia  
 sauna - sauna  
 sausage - sosis  
-savannah - garma zona chau istan  
+savannah - garma zona chau topo  
 save (deposit, bank) - banka  
 savory (umami) - umami  
 saw - sera  
@@ -3294,7 +3297,7 @@ sit (put down) - fa side
 sit down - side  
 situation (circumstances, state of affairs) - she hal  
 situational irony - she hal ironi  
-six (6) - luka  
+six (6) - sis  
 size - dai ta  
 sizzle - zizi  
 skeleton (frame) - oste jama  
@@ -3653,7 +3656,7 @@ thulium - tulium
 thunder (roaring) - grom  
 thunderstorm - grom tafun  
 Thursday - var chatre  
-Tibet - Botia  
+Tibet - Bote  
 tick (mite) - akare  
 ticket - tikete  
 tie (fasten, bind) - bande  
@@ -3701,7 +3704,7 @@ top (spinning top) - rota van gi
 top - gau  
 topic (subject, theme) - tema  
 topography - topo grafi  
-torch - foto baton  
+torch - foto kane  
 torrent - dai dara  
 touch - tochu  
 tourism - safar kegu  
@@ -3713,7 +3716,6 @@ toxic (poisonous, venomous) - toksi di
 toxicology - toksi logi  
 toxin - bio toksi  
 toy (plaything) - van gi  
-tract (land, ground, region) - istan  
 tractor - trator gi  
 trade (commerce, buying and selling) - vende shope  
 trader (merchant) - vende shope ja  
@@ -3867,15 +3869,15 @@ vinyl - vinil
 virgin - virje  
 Virgin Islands, U####S - Virjin nesia  
 virology - virus logi  
-virtue (morals) - bon deke  
-virtuous - bon deke di  
+virtue (morals) - bon moral  
+virtuous - bon moral di  
 virus - virus  
 visa - viza  
 Vishnu - Vishnu  
 visit - fa kegu  
 visitation (visit) - keka  
 visitor (guest) - keka ja  
-visual field (field of vision) - vide meden  
+visual field (field of vision) - vide medan  
 vocabulary (lexicon) - loga jama  
 void (empty space) - hali  
 volcanic glass - hogo shan kancha  

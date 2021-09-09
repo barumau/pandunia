@@ -15,7 +15,7 @@ ais hoki - アイスホッケー
 ais krem - アイスクリーム  
 ajila - 急ぐ  
 akare - 壁蝨  
-ala - 変える  
+fa alo - 変える  
 alga fungu - 地衣類 (苔癬)  
 alga jangal - 藻場  
 alo - 他の  
@@ -59,7 +59,7 @@ atlanti kade - タイセイヨウダラ
 atlanti salmon - タイセイヨウサケ  
 auro - 金  
 Austronesia - オーストロネシア  
-auta - カスタマイズする  
+fa auto - カスタマイズする  
 auto - 自己  
 auto krati - 君主制  
 auto loga - 独白 (独話)  
@@ -86,11 +86,11 @@ ban gem - ボードゲーム
 basa - 十分  
 basha - 言語  
 basha logi - 言語学  
-bashi jinse - 文法的性 (名詞クラス)  
+basha jinse - 文法的性 (名詞クラス)  
 bata - 鴨  
 bateri - バッテリー  
 bati - 八 (8)  
-baton kasa - 檻 (篭, ケージ)  
+kane kasa - 檻 (篭, ケージ)  
 bau sheku - 宝石  
 bazar - 市場 (マーケット, バザー)  
 baze bol - 野球  
@@ -132,7 +132,7 @@ bio logi - 生物学
 bio sana she - 堆肥  
 bio sistem - 生物群系  
 bio toksi - 毒素  
-bio vute - 生物  
+bio she - 生物  
 bir - ビール  
 biskute - ビスケット (クッキー)  
 biznes - 業務 (営業, ビジネス)  
@@ -147,14 +147,15 @@ bol - 玉 (球)
 bon - 良い  
 bon guste di - 美味しい  
 botel - 瓶  
-boyu - 泳ぐ (浮く)  
+be boi - 泳ぐ (浮く)  
 Brahma - ブラフマー (梵天)  
-brauze - 探る, 探検する  
-brauzer - 探検家 (ブラウザ)  
+brauza - 探る, 探検する  
+brauza program - 探検家  
+brauza gi - ブラウザ  
 briko - アンズ (梅, モモ, プラム)  
-brun - 茶色  
-brun alga - 褐藻  
-brun salmon - ブラウントラウト  
+kafe rang - 茶色  
+kafe alga - 褐藻  
+kafe salmon - ブラウントラウト  
 bu! - ばあ  
 bucha ja - 肉屋  
 bucha kan - 屠畜場  
@@ -177,7 +178,7 @@ chante grupe - 合唱団
 chati - 屋根  
 chatre - 四 (4)  
 chau - 草  
-chau istan - 草地  
+chau topo - 草地  
 chen - 以前 (前に)  
 chen den - 昨日  
 chen vide - 待ち受ける (見込む)  
@@ -194,7 +195,7 @@ chira chira di - ぼろぼろ
 chize - チーズ  
 choi - 菜  
 choklate - チョコレート  
-choklate baton - チョコバー  
+choklate kane - チョコバー  
 chopu - クワ  
 chun - 村  
 chuze she - オプション (選択)  
@@ -394,7 +395,7 @@ ganum - 小麦
 garma - 暖かい (熱い)  
 garma mosim - 夏  
 garma zona - 熱帯  
-garma zona chau istan - サバンナ  
+garma zona chau topo - サバンナ  
 gata glu ban - クリップボード  
 gati - 硬い  
 gati mate - 固体  
@@ -515,9 +516,9 @@ janela - 窓
 jangal - 森 (森林, ジャングル)  
 jau - 大麦  
 javabu - 答え (回答)  
-jeku - 借用  
-jeku daku - 借りる  
-jeku dona - 貸す  
+jeka - 借用  
+jeka daku - 借りる  
+jeka dona - 貸す  
 jen buda din - 禅宗  
 jene di - 生 (未熟)  
 jene logi - 系譜学  
@@ -727,9 +728,9 @@ long pipre - 畢撥
 long tire - 伸びる (張る)  
 lotra - 獺  
 lou - 漏る  
-luga - 緑 (緑色)  
-luga melon - ハネデューメロン  
-luka - 六 (6)  
+luka - 緑 (緑色)  
+luka melon - ハネデューメロン  
+sis - 六 (6)  
 luna keke - 月餅  
 lung - 竜  
 lung dou - 四角豆  
@@ -767,8 +768,8 @@ matur man - 男の人
 mau - 猫  
 maze - 靴下 (ソックス)  
 meche - 試合 (競技)  
-meden - 広場  
-meden papi - ヒナゲシ  
+medan - 広場  
+medan papi - ヒナゲシ  
 medi dia - 正午  
 medi noche - 真夜中  
 medu - 蜂蜜  
@@ -820,6 +821,7 @@ miti - 会合 (会議, ミーティング)
 mitre - メートル  
 moka - 木  
 moka tana - 丸木  
+kalam sui - インク (墨)  
 mole - モル  
 molekul - 分子  
 moli - 茉莉  
@@ -987,7 +989,7 @@ ratibu di - 整然
 re - 繰り返し  
 re sikle - 再生する (リサイクルする)  
 re zoku - 再開する  
-rege petra - 砂岩  
+arena petra - 砂岩  
 retro gula - 戻す (吐く)  
 retro gula sense - 吐き気 (嘔気)  
 ring - 輪  
@@ -1047,7 +1049,7 @@ sekur nomer - 暗証番号
 selge - フダンソウ (スイスチャード)  
 seme dane - 種  
 sen - 百 (１００)  
-sen - 年齢  
+sene - 年齢  
 sense - 感覚  
 sense shaka - 触手  
 sera - のこぎり  
@@ -1095,6 +1097,7 @@ siborgium - シーボーギウム
 side - 座る  
 side loka - 座席 (鞍)  
 sifa loga - 形容詞  
+sigar - タバコ  
 sikle ja - チャリダー  
 sili - 系列  
 sili tika - 連結  
@@ -1161,7 +1164,7 @@ ten bil - とっつきやすい (アクセス可能)
 ten fasil ta - アクセシビリティ  
 tercha - 斜め  
 tipe - 種類  
-tire baton - レバー (てこ)  
+tire kane - レバー (てこ)  
 tire dara - 離岸流  
 tire yo pil - はがす (剥ぐ)  
 tisa - 九 (9)  

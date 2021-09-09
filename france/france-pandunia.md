@@ -35,9 +35,9 @@ Afrique - Afrika
 agent (faiseur) - karma ja  
 agent pathogène - pati jene she  
 agile - agile  
-agresseur - agreser  
-agressif - agresivi  
-agression (attaque) - agres  
+agresseur - agresi ja  
+agressif - agresi tabi  
+agression (attaque) - agresi  
 agricole - nong di  
 agrobiologie - nong bio logi  
 agronomie - nong nomi  
@@ -49,7 +49,7 @@ alcool - alkol
 alcoolique - alkol di  
 algue - alga  
 algues - hai alga  
-algues brunes - brun alga  
+algues brunes - kafe alga  
 Algérie - Jayer  
 aller (quitter) - be kite  
 Aller-retour - retro tikete  
@@ -89,7 +89,7 @@ animation - anime
 animer - anime  
 anneau - ring  
 Antarctique - Antartika  
-antenne - anten  
+antenne - antena  
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibium  
@@ -121,7 +121,8 @@ argent - pesa
 Argentine - Argentina  
 argile - glu fan  
 argon - argon  
-argument - argum  
+arguer - fa argu  
+argument - argu  
 argument - tese  
 arme - arme  
 armure - defa kaske  
@@ -134,6 +135,7 @@ artichaut - karchof
 artiste - arte ja  
 Artsakh - Arcah  
 Aruba - Aruba  
+arène - arena estade  
 ascète - askete  
 asexué - an sekse di  
 asiatique - asia  
@@ -142,7 +144,7 @@ aspirine - aspirin
 assez - basa  
 Assur - Ashur  
 Assyrie - Ashur desha  
-astate - astatium  
+astate - astate  
 asthme - asma  
 astre (corps céleste) - astro  
 astrobiologie - kosmo bio logi  
@@ -153,7 +155,7 @@ astronomie - astro nomi
 Athènes - Athina  
 athée - an deu sim ja  
 atome - atom  
-attaquer (agresser) - agresa  
+attaquer (agresser) - fa agresi  
 aubergine - bedinjan  
 Australie - Australia  
 Austronésie - Austronesia  
@@ -180,7 +182,7 @@ babord - nave lefte
 backgammon - nardi  
 bagage - bagaje  
 bah - bah  
-baie (golf) - bai  
+baie (golf) - baya  
 baie - beri  
 bain - banya  
 baisser - fa tal  
@@ -262,11 +264,11 @@ bravo! - bravo
 brigand (bandit) - luta ja  
 brique - dobe  
 brochette - shish  
-brun (marron) - brun  
+brun (marron) - kafe rang  
 brûler - fa hogo  
 buisson - tal moku  
 but (destination) - gol  
-bâton (canne, tige) - baton  
+bâton (canne, tige) - kane  
 bébé - bebe  
 bédouin - badavi  
 bêche (pelle) - bagi bele  
@@ -280,7 +282,7 @@ cadre - frem
 cafetière - kafe pote  
 café - kafe  
 café - kafe kan  
-cage - baton kasa  
+cage - kane kasa  
 caillou - lili sheku  
 calcaire - kalse petra  
 calcite - kalsite  
@@ -330,7 +332,7 @@ champagne - shampan vin
 champignon - fungu frute  
 chance - chanse  
 changement climatique - klima mute  
-changer - ala  
+changer - fa alo  
 chapitre - babu  
 chardon - kardon  
 chardon aux ânes - pin kardon  
@@ -365,6 +367,7 @@ chêne - baluta
 chêne pédonculé - europe baluta  
 chœur - chante grupe  
 ciel - sama  
+cigarette - sigar  
 cime (pic, sommet) - shan pike  
 cimetière - gabur bagi  
 cinq (5) - penta  
@@ -407,7 +410,7 @@ contract (traité) - trati
 convenir (être approprié) - be hapu  
 convention (alliance, pacte) - kon trati  
 copie - kopi  
-coquelicot - meden papi  
+coquelicot - medan papi  
 corail - koral  
 corne - korne  
 corps - badan  
@@ -423,6 +426,7 @@ coudée - kudi metre
 couguar (puma) - puma  
 couleur - rang  
 coupe (tasse, verre) - kupa  
+courbe - kurva  
 coureur - korer  
 courgette - lili kaboga  
 courir - kore  
@@ -529,11 +533,12 @@ Einsteinium - ainstainium
 elfe - elfe  
 empreinte de pied - fute marke  
 empreinte digitale - angul marke  
-empruntre - jeku daku  
+empruntre - jeka daku  
 en arrière - retro  
 en avant - do jin  
 en ligne - pa lin  
 enclume - metal bede  
+encre - kalam sui  
 enfant - bacha  
 ennemi - dus jan  
 enregistrement - loge  
@@ -632,7 +637,7 @@ gaz lacrymogène - oko sui gas
 gazelle - gazel  
 geler (glacer) - be ais  
 genou - guta  
-genre grammatical - bashi jinse  
+genre grammatical - basha jinse  
 geographie - geo grafi  
 Germanie - Germania  
 gingembre - zinji  
@@ -655,7 +660,7 @@ grenouille - krokroke
 grimace - grimas  
 groupe - grupe  
 grâce à - shukra da  
-grès - rege petra  
+grès - arena petra  
 guide - gida ja  
 guide touristique - gida buku  
 guider - gida  
@@ -705,7 +710,7 @@ hum… - hem…
 hygiène - salu safa ta  
 hélicoptère - helis fei gi  
 héros - hero  
-hétéroromantique (hétéromantique) - alo romanse  
+hétéroromantique (hétéromantique) - alo romanse di  
 hétérosexuel - alo sekse di  
 hôtel - hotel  
 ####I - I  
@@ -943,7 +948,7 @@ métaux lourds - bari metal
 métier à tisser - tela gi  
 mûrier - tuta  
 ####N - N  
-nagar (flotter) - boyu  
+nagar (flotter) - be boi  
 nappe - meza tela  
 nation - nasi  
 nausée - retro gula sense  
@@ -1016,7 +1021,7 @@ ordre - ratibu
 ordures - laji  
 oreille - ore  
 organiser - fa nomi  
-organisme - bio vute  
+organisme - bio she  
 orge - jau  
 origine - asal  
 originel - asal di  
@@ -1109,7 +1114,7 @@ pizza - piza
 pièce (chambre) - kamar  
 piège - kape truke  
 placard - almari  
-place - meden  
+place - medan  
 plaine - plate topo  
 plainte (lamentation) - shikaya  
 plaire - fa suka  
@@ -1185,8 +1190,8 @@ prune de Java - jamul
 précieux - bau di  
 préférer - mas fili  
 présent - zai di  
-prêter (empruntre) - jeku  
-prêter - jeku dona  
+prêter (empruntre) - jeka  
+prêter - jeka dona  
 psychologie - ruhu logi  
 psyché - ruhu  
 pyramide - piram  
@@ -1266,6 +1271,7 @@ rôtir - roste
 ####S - S  
 s'installer (déménager) - be migra  
 s'opposer à - shatan  
+sable - arena  
 sac - sake  
 sacrifice - kurban  
 sagesse - sofita  
@@ -1291,7 +1297,7 @@ saumon du Pacifique (saumon kéta, saumon chien) - baku salmon
 saumon rose - roza salmon  
 saumon sockeye - lal salmon  
 sauvage - eko jene di  
-savane - garma zona chau istan  
+savane - garma zona chau topo  
 savoir (connaître) - sabe  
 Scandinavie - Eskandinavia  
 schtroumpf - blu elfe  
@@ -1326,7 +1332,7 @@ signer - name kitabu
 silex - hogo sheku  
 simulation - sam sifa she  
 situation (état de choses) - she hal  
-six (6) - luka  
+six (6) - sis  
 société - sosi  
 soie - silko  
 soif - sui yau  
@@ -1363,7 +1369,7 @@ s’accroupir - lipa side
 ####T - T  
 table - meza  
 tableau (panneau) - ban  
-tablette de chocolat - choklate baton  
+tablette de chocolat - choklate kane  
 tarte - pai  
 tasse à thé - chai kupa  
 taupe - krote  
@@ -1419,7 +1425,7 @@ trois (3) - tri
 tropique - garma zona  
 truite - salmon  
 truite arc-en-ciel - rang arka salmon  
-truite brune (truite de mer) - brun salmon  
+truite brune (truite de mer) - kafe salmon  
 tu - tu  
 tubercule - masa mula  
 Tunisie - Tunis  
@@ -1461,7 +1467,7 @@ verre coloré - rang kancha
 verrue - zeyil  
 verse (face á) - verse  
 verser - fa verse  
-vert - luga  
+vert - luka  
 veuve - vidou  
 viande - nama  
 vice-roi - vise raja  
@@ -1522,7 +1528,7 @@ zèbre - zebra
 Égypte - Misri  
 Égypte antique - Keme  
 Épicéa - pisea  
-âge - sen  
+âge - sene  
 éblouir (étonner, stupéfier, surprendre) - fa ajibu  
 échec - shiti bai  
 échelle - shalke  
