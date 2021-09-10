@@ -696,12 +696,12 @@ demon|||eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:д
 den|||rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:天 (tiān), yue:天 (tin1)|day (24 hours)||día (24 horas)|dia (24 horas)|день (сутки)|يَوْم‎|日 (天)|日|낮 (하루)|ngày|दिन||hari|siku|gün|tago (periodo de 24 horoj)|päivä (vuorokausi)|
 den loge||||diary (daily log)|journal|diario|diário|дневник||日记|日記|일기|sổ nhật ký|दैनन्दिनी (डायरी)||buku harian (diari)||günlük|päiväkirja||
 deng|||zho:等 (děng),  yue:等 (dang2)|wait||esperar|||||||||||||atendi|odottaa|czekać
-des|numbe|10|por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|ten (10)||diez (10)|||||十 (１０)||||||||dek (10)|kymmenen (10)|dziesięć (10)
+des|nomer|10|fra:dix, spa:diez, por:dez, rus:десять (desyat'), pol:dziesięć, hin:दस (das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|ten (deca-, 10)|dix (deca-)|diez (deca-, 10)|dez|десять (дека-)||十|十 (１０)|열 (십)|mười|दस|দশ|sepuluh|kumi|on|dek (10)|kymmenen (10)|dziesięć (10)
 des kilo||||ten thousand|||||||万||||||||dek miloj|sata tuhatta|dziesięć tysięcy
 desen|||eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)|drawing (design)||dibujo (diseño)|||||||||||||desegno|piirustus|rysunek, obraz
 desha|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)||país (nación, estado, terra)||||||||देश|দেশ||||lando|maa (valtio)|kraj, ziemia
 desha jan||||citizen||ciudadano||||公民|市民|||||||||kansalainen (valtion asukas)|obywatel
-desi|numbe|||deci-||deci-|||||||||||||dekono|desi|decy-, dziesiąta część
+desi|nomer|||deci-||deci-|||||||||||||dekono|desi|decy-, dziesiąta część
 desi bel|unomete|dB||decibel||decibelio||||||||||||||desibeli|decybel
 detal|||eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|detail||detalle|||||||||||||detalo|yksityiskohta (detalji)|detal, szczegół
 deu|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
@@ -778,7 +778,7 @@ doze|||eng:por:fra:dose, rus:доза (doza), deu:spa:dosis, tur:doz, may:dos|po
 drama|||eng:spa:por:may:swa:drama, fra:drame, rus:дра́ма, ara:دْرَامَا‎ (drāmā), hin:ड्रामा (ḍrāmā), jpn:ドラマ (dorama)|drama||drama|||||||||||drama||dramo|draama|dramat
 drama ironi||||dramatic irony|||||||||||||||||ironia dramatyczna
 droge|||eng:drug, spa:droga, fra:drogue, deu:Droge|drug (intoxicating substance)||droga (narcótico)||||||||||||||huume|narkotyk
-du|numbe|2|fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui), may:dua, kor:둘 (dul)|two (2)|deux (2)|dos (2)|dois (2)|два (2)|اِثْنَانِ|二 (2)|二 (2)|||दो||dua|mbili||du (2)|kaksi (2)|dwa (2)
+du|nomer|2|fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul)|two (2)|deux (2)|dos (2)|dois (2)|два (2)|اِثْنَانِ|二 (2)|二 (2)|||दो||dua|mbili||du (2)|kaksi (2)|dwa (2)
 du basha di||||bilingual|bilingue|bilingüe|bilíngue|двуязычный|||||||||||dulingva|kaksikielinen|dwujęzyczny
 du grafi di||||anaglyphic (stereoscopic)||||||||||||||||stereoskooppinen|
 du mana di||||double entendre||doble sentido||||||||||||||kaksimielinen (kaksimerkityksinen)|dwuznacznik
@@ -833,7 +833,7 @@ eko jene di||||wild (savage)|sauvage|salvaje||дикий|||野生|||||||||villi 
 eko logi|||deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|ecology (study of environment)||ecología||||||||||||||ekologia (ympäristötiede)|ekologia (nauka o środowisku)
 ekore|bio|Sciuridae|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|squirrel|écureuil|ardilla|esquilo|белка||松鼠|栗鼠|다람쥐||गिलहरी|কাঠবিড়াল|bajing (tupai)|kindi|sincap|sciuro|orava|wiewiórka
 ekran|||fra:écran, por:ecrã, rus:экран (ekran), pol:tur:ekran, kat:ეკრანი (eḳrani)|screen||pantalla|||||||||||||ekrano|kuvaruutu|ekran
-eksa|numbe||eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)|exa-|||||||||||||||eksa-|eksa-|
+eksa|nomer||eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)|exa-|||||||||||||||triljoona (eksa-)|eksa-|
 ekso|||eng:fra:spa:por:exo-, rus:экзо- (ekzo-), may:eks-|outside (exterior)|extérieur|fuera (exterior)|exterior|вне||外|外|||बाहरी||luar (pinggir, tepi)|nje|dış|ekstero|ulkopuoli|zęwnętrzny
 ekso desha||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
 ekso desha di||||foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
@@ -1403,7 +1403,7 @@ giau ja||||teacher (instructor)||docente (enseñante, profesor, maestro)|||||教
 gida|||eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu), swa:gaidi + ara:قَادَ‎ (qāda)|guide (lead, show the way)|guider|guiar|guiar|||导游|||||||kiongozi (gaidi)||gvidi|opastaa (ohjata)|prowadzić (wskazać drogę)
 gida buku||||guide book|guide touristique|guía de viaje||путеводитель||指南|ガイドブック|가이드북||||buku panduan||||matkaopas (opaskirja)|przewodnik
 gida ja||||guide|guide|guía|guia|гид||导游|案内人 (ガイド)|안내인 (가이드)||||pemandu|kiongozi|rehber||opas (tiennäyttäjä)|przewodnik
-giga|numbe||eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|billion (giga-)||giga-|||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
+giga|nomer||eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|billion (giga-)||giga-|||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
 ging|||zho:經 (jīng), yue:經 (ging1), jpn:經 (kei), kor:경 (gyeong), vie:kinh|longitudinal (parallel, vertical)||paralelo||параллельный|||並行|||||||||pitkittäinen|równoległy (podłużny)
 ging darja||||longitude||longitud||||||||||||||pituusaste|długość geograficzna
 ging gola||||meridian (line of longitude)||meridiano (línea de longitud)||||||||||||||pituuspiiri|długość geograficzna
@@ -2287,9 +2287,9 @@ lou|||zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)|leak||chorrear|vaz
 lou sang||||bleed||sangrar|||||||||||||sangi|vuotaa verta|krwawić
 luka|rang||zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|green|vert|verde|verde|зелёный|أَخْضَر|绿色|緑 (緑色)|녹색|xanh (lục)|हरा|সবুজ|hijau|kijani||verda|vihreä|zielony
 luka melon|bio|Cucumis melo, Inodorus||honeydew (green melon)||melón verde|||||ハネデューメロン||||||||||melon miodowy
-sis|numbe|6|zho:六 (liù), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
-sis fase||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
-sis gona||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
+luka|nomer|6|zho:六 (liù), yue:六 (luk6), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
+luka fase||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
+luka gona||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 Luksemburge|desha|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 lulu|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
 lun|||zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||discusión (debate, discurso)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
@@ -2355,8 +2355,8 @@ Mani||||prophet Mani||profeta Mani||||||||||||||profeetta Mani|prorok Mani
 mani din||||Manichaeism|manichéisme|maniqueísmo|maniqueísmo|манихейство||摩尼教||||||||||manikealaisuus|manicheizm
 Manin nes|desha|IM||Isle of Man||Isla de Man||||||||||||||Manin saari|Wyspa Man
 manioka|bio|Manihot esculenta|eng:fra:manioc, spa:por:mandioca, rus:манио́ка (manióka)|cassava (manioc)||yuca (mandioca)||||||||||||||kassava (maniokki)|maniok
-manira|||fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren|behavior (manners)|comportement (manière)|comportamiento (conducta)|comportamento (conduta)|поведение (манера)||方式|||||||||maniero (konduto)|käytös (käyttäytyminen, tapa, tavat)|zachowanie (maniery, kultura)
-manira||||behave (act)||comportarse (portarse)||||||||||||||käyttäytyä|zachowywać się (działać)
+manera|||fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren|behavior (manners)|comportement (manière)|comportamiento (conducta)|comportamento (conduta)|поведение (манера)||方式|||||||||maniero (konduto)|käytös (käyttäytyminen, tapa, tavat)|zachowanie (maniery, kultura)
+manera||||behave (act)||comportarse (portarse)||||||||||||||käyttäytyä|zachowywać się (działać)
 mantol|||eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel|cape (cloak, mantle)|cape|capa (manto)|capa|плащ (накидка)||斗篷|マント (ケープ)||||||||||peleryna (płaszcz, opończa)
 mantra||||chant||salmodiar||||||||||||||messuta|
 mantra|||eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)|mantra|mantra|mantra|mantra|мантра||||||मंत्र|মন্ত্র|mantra (mantera)||||mantra|
@@ -2429,7 +2429,7 @@ medu|||rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:mad
 medu fong|bio|Apis||honeybee||abeja||||蜜蜂|蜜蜂|벌 (밀봉)|ong|मधुमक्खी|মৌমাছি|lebah (tawon)|nyuki|arı|abelo|mehiläinen|pszczoła miodna
 medu fong nide||||beehive (honeycomb)|rayon de miel|colmena (panal)||улей (соты)|||蜂の巣 (ハニカム)|||||sarang lebah|sega|||mehiläispesä|plaster
 medu fong sanduku||||beehive (beehouse)||||||蜂箱|養蜂箱||||||||||ul
-mega|numbe||eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)|million (mega-)||millón (mega-)||||百万 (兆)|１００万 (メガ)||||||||miliono|miljoona (mega-)|milion
+mega|nomer||eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)|million (mega-)||millón (mega-)||||百万 (兆)|１００万 (メガ)||||||||miliono|miljoona (mega-)|milion
 mega gram|unomete|t, Mg||tonne (metric ton)||tonelada||||||||||||||tonni (1000 kg)|tona
 mega vate|unomete|MW||megawat (MW)||megavatio||||||||||||||megawatti (MW)|megawat
 megi|||hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek) + ara: غَيْمَة‎ (ḡayma) + vie:mây|cloud|nuage|nube|nuvem|облако|سَحَابَة|云|雲|구름|mây|मेघ (बादल)|মেঘ|awan (mega)|wingu|bulut|nubo|pilvi|chmura
@@ -2491,7 +2491,7 @@ mikro bio||||microorganism (microbe)|microbe|microbio|micróbio|микроб|م�
 mikro bio logi||||microbiology|microbiologie|microbiología|microbiologia|микробиология||微生物学|微生物学|미생물학|vi sinh vật học|||||mikrobiyoloji|mikrobiologio|mikrobiologia|mikrobiologia
 Mikronesia|desha|FM||Micronesia||Micronesia||||||||||||||Mikronesia|Mikronezja
 mikroskope||||microscope|microscope|microscopio|microscópio|микроскоп|مِجْهَر‎|显微镜|顕微鏡 (マイクロスコープ)|현미경|kính hiển vi|ख़ुर्दबीन|অণুবীক্ষণযন্ত্র|mikroskop|hadubini|mikroskop|mikroskopo|mikroskooppi|mikroskop
-mili|numbe|||milli-||mili-|||||||||||||mili-|milli-|mili-
+mili|nomer|||milli-||mili-|||||||||||||mili-|milli-|mili-
 mili gram|unomete|mg||milligram||miligrama||||||||||||||milligramma|miligram
 mili metre|unomete|mm||millimeter||milimetre|||||||||||||milimetro|millimetri|milimetr
 milke|||eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|milk|lait|leche|leite|молоко|||牛乳 (ミルク)||||||||lakto|maito|mleko
@@ -2940,7 +2940,7 @@ peshe|bio||spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|fish|poisson|pez 
 peshe huke||||fishhook|hameçon|hamo (anzuelo)|anzol|крючок||鱼钩|釣り針|낚시|móc câu|||mata kail|||fiŝhoko|ongenkoukku|haczyk
 peshe saide ja||||fisher|pêcheur|pescador|pescador|рыбак (рыболов)|صياد‎|鱼夫|漁師|낚시꾼 (어부)||||||balıkçı|fiŝkaptisto|kalastaja|rybak
 peshe tanke||||fish tank||acuario (pecera)||||||||||||||akvaario|akwarium
-peta|||eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)|peta-|||||||||||||||peta-|peta-|
+peta|nomer||eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)|peta-|||||||||||||||tuhat biljoonaa (peta-)|peta-|
 pete|bode||ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|belly (stomach, abdomen)||barriga (vientre, panza)||||||||पेट (उदर)|পেট|perut|||ventro|maha (vatsa)|brzuch
 petra|||hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|rock|roche (pierre)|roca (piedra)|rocha (pedra)|горная порода||||石 (岩)|石||पत्थर||||roko|kallio (kivi)|skała
 petra nefte||||petroleum|pétrole (essence)|petróleo|petróleo|нефть||石油|石油||||||||||ropa naftowa
@@ -3355,7 +3355,6 @@ seme|||fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|se
 seme dane||||seed (fertilized grain)||pepita||||种子|種|||||biji benih||||siemenjyvä|ziarno, nasienie
 seme di||||seminal|séminal|seminal|seminal|семенной||种子的|||||||||sema|siemen-|nasienny
 semente|||eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|cement||cemento||цемент|||||||||sementi|çimento||sementti|cement
-sen|numbe|100|fra:cent, spa:cien, por:cem|hundred (100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|सौ|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (100)|sto (100)
 sene|||ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)|age|âge|edad|idade|возраст|عُمْر|年岁|年齢|연세||आयु (उमर)||umur|umri||aĝo|ikä|wiek
 sene di||||aged|||idoso (sene)|||||||||||||iäkäs|
 Senegal|desha|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
@@ -3363,6 +3362,9 @@ sense|||eng:sense, spa:por:sentido, fra:sens|sense (method of perception)|sens|s
 sense gi||||sensor (detector)||||||||||||||||sensori (aistin)|sensor (detektor, czujka)
 sense shaka||||tentacle (feeler)|tentacule|tentáculo|tentáculo|щупальце||觸手|触手||||||||||macka (czułek)
 sentaure|bio|Centaurea|eng:centaury, por:centáurea||Centaurée||centáurea|василёк|||||||||||||chaber
+senta|nomer|100|fra:cent, spa:cien, por:cem, eng:cent-, hin:शत (śat), ben:শত (śôt)|hundred (hecto-, 100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|百|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (hehto-)|sto (100)
+senta nen||||century|siècle (centennie)|centuria (siglo)|século|столетие||世纪|世紀|세기|thế kỷ|शताब्दी|শতাব্দী|abad||yüzyıl (asır)|jarcento (centjaro)|vuosisata|stulecie
+senta nen di||||centenary|centenaire|centenario|centénario|столетний|||||||||||centjara|satavuotinen|
 senti|numbe|||centi- (per cent)||centi- (por ciento)|||||||||||||centono|sentti|centy-, procent, na sto, setna część
 sentimitre|unomete|cm||centimeter (cm)||centímetro||||||||||||||senttimetri (cm)|centymetr
 sera|||spa:sierra, por:serra, eng:serrate|saw|scie|sierra|serra|пила||锯子|のこぎり||||||||||piła
@@ -3376,7 +3378,7 @@ serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hi
 serve ja||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilija)|sługa
 sesam|bio|Sesamum indicum|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|sesame||ajonjolí (sésamo)||сезам|||||||||simsim|susam||seesami|sezam
 Seshel nesia|desha|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
-sete|numbe|7|spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat)|seven (7)|sept (7)|siete (7)|sete (7)|семь (7)|七 (7)|七 (7)|||||||||sep (7)|seitsemän (7)|siedem (7)
+cheti|nomer|7|fra:sept, spa:siete, por:sete, hin:सात (sāt), ben:সাত (sat) + zho:七 (qī), yue:七 (cat1),  jpn:七 (shichi), kor:칠 (chil), tha:เจ็ด (chet)|seven (7)|sept (7)|siete (7)|sete (7)|семь (7)|七 (7)|七 (7)|||||||||sep (7)|seitsemän (7)|siedem (7)
 shaka|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 shakal|bio||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
 shal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik
@@ -3500,7 +3502,7 @@ sir|||ara:(sirr), tur:sır, fas:(serr), swa:siri|secret (hidden)||secreto|||||||
 sir move||||sneak||colarse|||||||||||||||skradać się
 sir plan||||conspiracy (plot)|complot (conspiration)|complot (conspiración)|complô (conspiração)|заговор (сговор)||阴谋 (密谋)|陰謀|음모||||||komplot||juoni (salaliitto)|spisek (konspiracja)
 sir ta||||stealth (secrecy)|célérité|sigilo|||||忍び||||||||||skradanie się
-siro|numbe|0|ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), eng:por:zero, fra:zéro, spa:cero|zero (none)||cero (ninguno)|||||零 (０)|||||||||nolla (ei yhtään)|zero, nic, żaden
+siro|nomer|0|ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô|zero (none)|zéro|cero (ninguno)|zero|нуль (зеро)|صِفْر‎|零 (〇)|零 (０)|영 (령, 공, 제로)|không (zêrô)|शून्य (ज़ीरो, सिफ़र)|শূন্য|nol (kosong, sifar)|sifuri|sıfır|nul|nolla (ei yhtään)|zero, nic, żaden
 siro jan||||nobody (no-one)||ningunos||||||||||||||ei kukaan|nikt, żadna osoba
 siro sata||||never||nunca||||||||||||||ei koskaan (ei kertaakaan)|nigdy
 siro she||||none||||||||||||||||ei mitään|
@@ -3695,7 +3697,7 @@ tense ta||||tension||||||||||||||||jännitys (jännite)|
 tenta|||eng:tempt, spa:por:tentar, fra:tenter|tempt (entice)||tentar (seducir)||||||||||||||houkutella|kusić, nakłonić, nakłaniać
 teori|||eng:theory, spa:teoría, por:teoria, fra:téorie, rus:теория (teoriya), fas:تئوری‎ (teori), may:teori|theory||teoría|||||||||||||teorio|teoria|teoria
 tepe|||eng:tape, swa:tepe, jpn:テープ (tēpu), kor:테이프 (teipeu), tur:teyp, hin:टेप (tep)|tape|ruban (bande)|cinta adhesiva||лента|||||||||||bendo|teippi (nauha)|taśma
-tera|numbe||eng:fra:spa:por:may:tur:tera-, rus:тера- (tera-), jpn:テラ (tera), kor:테라- (tera-)|tera-||tera-||||||||||||||tera-|tera-
+tera|nomer||eng:fra:spa:por:may:tur:tera-, rus:тера- (tera-), jpn:テラ (tera), kor:테라- (tera-)|tera-||tera-||||||||||||||biljoona (tera-)|tera-
 terbium|mate|Tb||terbium||terbio|||||||||||||terbio||terb
 tercha|||spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)|oblique (askew, tilted)|oblique (de travers)|oblicuo (torcido)|oblíquo (torto)|косой||斜的|斜め||||||||||skośny (ukośny, pochyły)
 termo|||deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|temperature||temperatura||||||||||||||lämpötila|temperatura
@@ -3721,7 +3723,7 @@ tire dara||||rip current||corriente de resaca||отбойное течение||
 tire sanduku||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuflada
 tire yo milke||||milk (draw milk)|tirer|ordeñar||тянуть||拉|||||||||melki|lypsää maitoa|wydoić, doić
 tire yo pil||||strip (peel)|écorce|quitar (pelar)||ободрать||削 (刮去)|はがす (剥ぐ)||||||||||obrać (obierać)
-tisa|numbe|9|ara: تِسْعَة‎ (tisʿa), swa:tisa|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||नौ|নয়|||||yhdeksän|dziewięć (9)
+tisa|nomer|9|ara: تِسْعَة‎ (tisʿa), swa:tisa|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||नौ|নয়|||||yhdeksän|dziewięć (9)
 Titan|planete 6 lun 6|||Titan|||||||||||||||||
 Titania|planete 7 lun 4|||Titania|||||||||||||||||
 titanium|mate|Ti||titanium||titanio|||||||||||||titanio|titaani|tytan
@@ -3753,7 +3755,7 @@ trator gi|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (trakt
 tren|||eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|train||tren|||||電車 (列車)||||||||trajno (vagonaro)|juna|pociąg
 tren dau||||rail (railway, railroad)||vía férrea|||||||||||||fervojo|junarata (rautatie)|kolej
 tren kape ja||||train hijacker||||||||||||||||junakaappari|porywacz pociągu
-tri|numbe|3|eng:three, fra:trois, spa:tres, por:três, rus:три (tri), hin:त्रि-  (tri-), ben:ত্রি- (tri-), may:tri-|three (3)|trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)
+tri|nomer|3|eng:three, fra:trois, spa:tres, por:três, rus:три (tri), hin:त्रि-  (tri-), ben:ত্রি- (tri-), may:tri-|three (3)|trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)
 tri gona||||triangle||triángulo||||||||||||||kolmio|trójkąt
 tri zong||||trident||tridente||трезубец||三叉戟|三つまた (トライデント)||||||||||trójząb
 tribu|||fra:spa:tribu, por:tgl:tribo, eng:tribe|tribe||tribu|||||||||||||tribo|heimo|plemię
@@ -3987,7 +3989,7 @@ yong liga||||fusion (amalgamation)||fusión||||||||||||||fuusio (yhteensulautumi
 yong petra||||lava|lave|lava||||熔岩|溶岩||||||||||lawa
 yong safa||||smelt|fondu|||||熔炼|||||||||||topić (upłynnić, upłynniać)
 Yoruba|nas|||Yoruba (language and people)|||||||||||||kiyoruba|||joruban kansa ja kieli|Joruba
-yota|numbe||eng:fra:spa:por:yotta, may:yota-, zho:尧它- (yáotā-), jpn:ヨタ- (yota-), kor:요타- (yota-)|yotta-||||||||||||||||miljoona (mega-)|milion
+yota|nomer||eng:fra:spa:por:yotta, may:yota-, zho:尧它- (yáotā-), jpn:ヨタ- (yota-), kor:요타- (yota-)|yotta-||||||||||||||||kvadriljoona (jotta-)|
 yumor|||rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|humor||humor (gracia)||юмор|||||||||||humuro|huumori|humor
 yumor di||||humorous (comical, funny)||humorístico (gracioso, cómico)|||||||||||||humura|koominen (hauska)|humorystyczny, śmieszny, zabawny, komiczny
 yumor ja||||humorist||humorista|||||||||||||humuristo|humoristi|komik
@@ -4017,7 +4019,7 @@ zardush magi ja||||magus (Zoroastrian priest)||mago|mago||مَجُوس‎|||||||
 ze|prep.|||from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
 ze saba da||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
 zebra|bio|Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra|zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra
-zeta|numbe||eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|zetta-||||||||||||||||tsetta-|
+zeta|nomer||eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|zetta-||||||||||||||||tuhat triljoonaa (tsetta-)|
 zeyil|||fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|wart|verrue|verruga|verruga|бородавка||疣|疣||||||||veruko|syylä|brodawka
 zeze||Diptera|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣinṣin + eng:tsetse, fra:por:tsé-tsé, rus:цеце (tsetse), tur:çeçe, zho:采采蝇 (cǎicǎiyíng)|fly||||двукрылое||双翅目|ハエ目 (双翅目)|||||||||kaksisiipinen|
 zi|||zho:字 (zì), jpn:字 (ji), kor:자 (ja)|character (written symbol)|caractère|carácter|caractere|буква (символ, иероглиф)||字|字|자|chữ|||||||kirjoitusmerkki|
