@@ -177,8 +177,8 @@ asal Australia jan||||Australian Aboriginal|aborigènes australiens|aborigen||||
 asal di||||original (authentic)|originel|original|original|||原始的||||||asli|||origina|alkuperäinen|źródłowy, początkowy, oryginalny
 asan|||hin:आसन (āsan), eng:asana, rus:асана (asana)|posture (asana)|posture (position)|postura (posición)||поза||||||||sikap (posisi)|||posteno|asento|postawa ciała; asana
 asar|||ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir, swa:athari|effect (impact, impression, result, outcome)|effet|resulta (efecto)|efeito|эффект||影响|効果||||||athari|eser||vaikutus (tulos)|rezult, wynik
-asha|||hin:आशा (āśā), may:tgl:asa, tel:ఆశ (āśa), tam:ஆசை (āsai)|hope (wish)||esperar (desear)||надеяться (чаять)|||||||||||esperi|toivoa|nadzieja, życzenie
-asha na di||||hopeless|désespéré|desesperado|desesperado|безнадёжный||没有希望的|絶望した|||||putus asa||umutsuz|senespera|toivoton|beznadziejny
+asha|||hin:आशा (āśā), may:tgl:asa, tel:ఆశ (āśa), tam:ஆசை (āsai)|hope (wish)||esperar (desear)||надеяться (чаять)||||||आशा|||||esperi|toivoa|nadzieja, życzenie
+asha hin||||hopeless|désespéré|desesperado|desesperado|безнадёжный||没有希望的|絶望した|||निराश||putus asa||umutsuz|senespera|toivoton|beznadziejny
 Ashur|xefsite|||Assur|Assur|Assur (Ashur)||||||||||||||Assur|Aszur
 Ashur desha|||akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr), eng:Assyria, fra:Assyrie, spa:Asiria, por:Assíria, rus:Ассирия (Assiriya), zho:亚述 (Yàshù)|Assyria|Assyrie|Asiria||||||||||||||Assyria|Asyria
 asia||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
@@ -218,9 +218,10 @@ avar ja||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingo
 ave|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
 Azerbaijan|desha|AZ||Azerbaijan|Azerbaijan|Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan
 B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B
-ba|||por:pai + zho:爸 (bà)  + eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
-ba di ba||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
-ba di ma||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
+pa|||eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
+pa di||||fatherly (paternal)|paternel|paternal|paternal|отеческий||||||||||||isällinen|
+pa su pa||||paternal grandfather||||||爷爷 (祖父)||||दादा||||||isänisä|
+pa su ma||||paternal grandmother||||||奶奶 (祖母)||||दादी||||||isänäiti|
 babu|||ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu|chapter (section)|chapitre|capítulo (sección)||глава|(بَاب‎) فَصْل‎|章||||||bab|babu (sura)|bölüm|ĉapitro|luku (kirjan osa)|rozdział, sekcja
 babuche|||ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|slipper|pantoufle (babouche)|chinelo (pantufa)|||||||||||||pantoflo|tohveli|kapeć (papeć, bambosz)
 babul|bio|Vachellia|hin:बबूल (babūl), ben:বাবলা (bābalā), eng:babul|thorn tree (acacia, wattle)|vachellia|||вахелия|||||||||||||
@@ -577,7 +578,7 @@ chili|||eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:c
 chili fun||||paprika||||||辣椒粉|パプリカ|||||||||paprikajauhe|papryka
 chimpanzi|bio||eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|chimpanzee||chimpancé|||||||||||||ĉimpanzo|simpanssi|szympans
 chin|||zho:親 (qīn), yue:親 (can), wuu:親 (qin), jpn:親 (sin), kor:친 (chin)|parent (mother or father)||parente (madre o padre)||||||||||||||vanhempi (isä tai äiti)|rodzic (matka lub ojciec)
-chin ba||||grandfather|grand-père|abuelo|avô|дедушка|جَدّ‎||||||||||avo|isoisä|dziadek (dziad)
+chin pa||||grandfather|grand-père|abuelo|avô|дедушка|جَدّ‎||||||||||avo|isoisä|dziadek (dziad)
 chin brus ben||||cousin|cousin|primo|primo||||||||||binamu||kuzo|serkku|kuzyn
 chin chin||||grandparent||||||||||||||||isovanhempi|
 chin gam||||step-parent|||||||||||||||||
@@ -648,7 +649,7 @@ dante|||spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), 
 dante baluta|bio|Quercus dentata||daimyo oak||roble daimyo||дуб зубчатый||槲树|カシワ||||||||||dąb zębaty
 dante brosh||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
 dante dava ja||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
-dante na di||||toothless|édenté|desdentado|desdentado|беззубый||||||दंतहीन (बेदाँत)|||||sendenta|hampaaton|bezzębny
+dante hin||||toothless|édenté|desdentado|desdentado|беззубый||||||दंतहीन (बेदाँत)|||||sendenta|hampaaton|bezzębny
 dara|||hin:धारा (dhārā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), hin:दर्या (daryā), ben:দরিয়া (dôriẏa), tur:derya|flow (current, stream)||||||||||धारा||||||virta (virtaus)|
 dara mate||||liquid||líquido||||||||||||||neste|ciecz (płyn)
 dara mate di||||fluid (liquid)||líquido (fluido)||||||||||||||nestemäinen|ciekły (płynny)
@@ -770,6 +771,7 @@ dosil|||eng:fra:ita:docile, spa:por:dócil|tame (docile, obedient)|docile (insip
 dosil jene di||||domesticated|domestiqué (apprivoisé)|domesticado|||||家畜|||पालतू बनाना|||||||udomowiony (domowy)
 dosti|||hin:दोस्त (dost), ben:দোস্ত (dośt), zho:朵斯提 (duǒsītí), fas: دوست (dost), tur:dost|friend|amie|amigo|amigo|друг (приятель)|صَاحِب‎|朋友 (友人)|友達 (友人)|친구(동무)|người bạn|दोस्त (मित्र)|বন্ধু (স্ত)|teman (kawan, sahabat)|rafiki|dost|amiko|ystävä (kaveri)|przyjaciel
 dosti di||||friendly (kind, nice, gentle)||simpático (amable, tierno, dulce)||приятный (добрый)|||優しい (好ましい, 親切)||||||||amika (bonkora)|ystävällinen (kiltti)|przyjacielski (uprzejmy, miły)
+dosti hin||||friendless||sin amigos||||||||मित्रहीन|বন্ধুহীন|||arkadaşsız|senamika|kaveriton|
 dosti ta||||friendship||amistad (compañerismo)|||||||||||||amikeco|ystävyys|przyjaźń
 dotor|||por:doutor, ita:dottore, eng:spa:doctor, rus:доктор (doktor)|doctor (scholar who has attained doctorate)||doctor|||||||||||||doktoro|tohtori|doktor (uczony, który osiągnął doktorat)
 dotor ta||||doctorate||doctorado||||||||||||||tohtorin tutkinto|doktorat
@@ -1322,12 +1324,12 @@ galte di||||wrong (incorrect, erroneous, faulty)|erroné|erróneo|errôneo||||||
 Gambia|desha|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
 gamel|bio||ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia|camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
 gami|||eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (-gamiya)|marriage (matrimony)|mariage|casamiento|||||||||||||geedzeco|avioliitto|małżeństwo, związek małżeński
-gami baba||||father-in-law|beau-père|suegro|sogro||||||||||||bopatro|appi|
+gami pa||||father-in-law|beau-père|suegro|sogro||||||||||||bopatro|appi|
 gami ben||||step-child||hijastro o  hijastra|enteado||||連れ子||||||||||
 gami chin||||parent-in-law||||||||||||||||appivanhempi|
 gami di||||married||casado||||||||||||||naimisissa|ożeniony, zamężny, w związku małżeńskim
 gami jan||||spouse (husband or wife)|époux|esposo o esposa|esposo ou esposa|||||||||||||puoliso (aviomies tai -vaimo)|małżonek (małżonka)
-gami mama||||mother-in-law|belle-mère|suegra|sogra||||||||||||bopatrino|anoppi|
+gami ma||||mother-in-law|belle-mère|suegra|sogra||||||||||||bopatrino|anoppi|
 gan|||zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon)|dry||seco (árido)|||||||||||||seka|kuiva|suchy
 gan chau||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
 gan mosim|mosim|||dry season||||||||||||musim kemarau|||||
@@ -1959,7 +1961,7 @@ kerne unta||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jąd
 kerubi|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
 kesha|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
 kesha bande||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
-kesha na di||||hairless|glabre|pelado (desvellado)|despelado|безволосый||无毛|無毛|||केशहीन|||||senhara|karvaton|
+kesha hin||||hairless|glabre|pelado (desvellado)|despelado|безволосый||无毛|無毛|||केशहीन|||||senhara|karvaton|
 kesha sabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
 ketel|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
 kiau|||zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jjiau3), jpn:橋 (kyō), vie:cầu|bridge|pont|puente|ponte|||桥|||||||||ponto|silta|most
@@ -2305,8 +2307,9 @@ Luter din ja||||Lutheran|luthérien|luterano|luterano|лютеранский||||
 lutetium|mate|Lu||lutetium||lutecio|||||||||||||lutecio|lutetium|lutet
 M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 ma|||por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
-ma di ba||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
-ma di ma||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
+ma di||||motherly (maternal)|maternel|maternal|maternal|материнский||||||||||||äidillinen|
+ma su pa||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
+ma su ma||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
 Madagasi|desha|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 madagasi di||||Malagasy||malgache||||||||||||||madagaskarilainen (malagassi)|madagaskarski; malagaski
 maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
@@ -2603,8 +2606,8 @@ muzika|||eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara
 muzika ja||||musician||músico|||||||||||||muzikisto|muusikko|muzyk
 Myanma|desha|MM||Myanmar (Burma)||Myanmar (Birmania)|||||||||||||Birmo|Myanmar (Burma)|Mjanma, Birma
 N||||N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N
-na||||without||sin|sem||||||||||||sen (manki)|ilman (puuttua)|bez
-na di||||lacking (-less)|||||||||||||||ne havanta (sen~a)|ilman oleva (-ton)|
+hin|||hin:-हीन (hīn), ben:-হীন (-hin), guj:-હીન (-hīn)|lack (miss, be without)||faltar (sin)|sem|без|||||||||||sen (manki)|puuttua (ilman, vailla)|bez
+hin di||||lacking (-less)|||||||||||||||ne havanta (sen~a)|ilman oleva (-ton)|
 nabi||||prophecy||profecía|||||||||||||profetaĵo|profetia|proroctwo
 nabi ja|||ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|prophet||profeta||||||||||||||profeetta|prorok
 nadir|||ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)|rare (scarce, uncommon)|rare|raro|raro|редкий|نَادِر‎||||hiếm|दुर्लभ (नायाब, नादिर)|||chache (nadra)|seyrek (nadir)|malofta|harvinainen|
@@ -2618,7 +2621,8 @@ najis|||ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:naji
 najis bindu||||stain (spot)||mancha|||||染み (汚点)||||||||||
 najis di||||dirty (soiled, polluted, defiled, tainted, unclean, impure)||sucio (corrompido)|||||汚い|||प्रदूषित|||-chafu||||
 nama|||swa:nyama, hau:nama, rwa:xho:zul:inyama, sot:nama|meat (flesh)|viande|carne|carne|мясо||肉|肉|고기|thịt|गोश्त (मांस)|মাংস|daging|nyama|et|viando|liha|mięso
-name|||hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|name||nombre|||||名前||||||||nomo|nimi|imię, nazwa
+name|||deu:eng:name, fra:nom, hin:नाम (nām), may:nama, jpn:名前 (namae), fas:pnb:urd:(nām), tha:นาม (naam)|name||nombre||||名|名前||||||||nomo|nimi|imię, nazwa
+name hin||||nameless (unnamed, anonymous)|innomé|innominado|sem nome|безымянный||无名|名無し (無名の)|||बेनाम|নামহীন||||sennoma|nimetön|bezimienny
 name kitabu||||sign (autograph)|signer|firmar|assinar|подписать||签署|署名する (サイン)||||||||||podpis (autograf)
 name loga|||zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|noun||sustantivo|||||||||||||substantivo|substantiivi (nimisana)|rzeczownik
 Namibia|desha|NA||Namibia||Namibia|||||||||||||Namibio|Namibia|Namibia
@@ -2782,8 +2786,8 @@ ore|bode||zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja|ea
 ore flame||||otitis|otite|otitis|otite|отит||耳炎|||||||||otito|korvatulehdus|zapalenie ucha
 orgazme|||eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)|orgasm||orgasmo||||||||||||||orgasmi|orgazm
 orkide|bio|Orchidaceae|eng:orchid, spa:por:orquídea, rus:орхидея (orhideya), hin:ऑर्किड (orkid), ben:অর্কিড (arkiḍa)|orchid|orchidée|orquídea|orquídea|орхидея||兰花|ラン|||ऑर्किड|||||||storczyk (orchidea)
-orom|nas|||Oromo (an Ethiopian ethnic group and language)||oromo||||||||||||||oromo (etiopialainen kansa ja kieli)|oromo
-Orom Desha|desha|||Oromia||Oromía||||||||||||||Oromia|Oromia
+oromo|nas|||Oromo (an Ethiopian ethnic group)||oromo||||||||||||||oromo (etiopialainen kansa)|oromo
+Oromo Desha|desha|||Oromia||Oromía||||||||||||||Oromia|Oromia
 orto|||eng:fra:ortho-, spa:por:orto-, rus:орто- (orto-)|straight|droit (rectiligne)|recto|reto|прямой||直|まっすぐな|||सीधा|||||rekta|suora|prosty
 orto gona||||right angle||ángulo recto||||||||||||||suorakulma (oikokulma)|kąt prosty
 orto gona di||||orthogonal (perpendicular)|orthogonal|ortogonal|ortogonal|ортогона́льный||||||||||||suorakulmainen|prostopadły
@@ -2800,21 +2804,21 @@ oste jama||||skeleton (frame)|squelette|esqueleto (armazón)|esqueleto|скел�
 oste shalke||||scute|scutelle||escudo||||ぜんご||||||||||łuska (blaszka, tarczka)
 Ostria|desha|AT||Austria||Austria||||||||||||||Itävalta|Austria
 P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
-pa|prep.|||by (at, in, on)|a (dans, en, chez)|en (a)||в||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
-pa ekso||||outside|||||||||||||||ekster|ulkona (ulkopuolella)|
-pa in||||inside||dentro||||||||||||||sisällä (sisäpuolella)|
-pa ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
-pa late||||be beside (accompany)||estar al lado de|||||||||||||||być obok
-pa lin||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
-pa medi||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
-pa niche||||under||debajo||||||||||||||alla|pod (poniżej)
-pa no lin||||offline||||||离线|||||||||||offline (nie na linii, poza siecią)
-pa nove||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
-pa poli mar||||often (frequently)||frecuentemente||часто||经常|よく (屡々)|||अक्सर||sering kali||sık sık|ofte|usein|często
-pa re||||again (repeatedly)||otra vez (de nuevo)|||||||||||||denove (ripete)|taas (uudestaan)|znowu (ponownie)
-pa supra||||above (over)||sobre|||||||||||||super|yllä (pääll)|nad
-pa u loka||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
-pa vakil da||||on behalf of|||||||||||||||anstataŭ|puolesta|
+na|prep.||ibo:lin:kon:na, por:em/no/na, rus:на (na)|by (at, in, on)|a (dans, en, chez)|en (a)|em|в (на)||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
+ne ekso||||outside|||||||||||||||ekster|ulkona (ulkopuolella)|
+na in||||inside||dentro||||||||||||||sisällä (sisäpuolella)|
+na ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
+na late||||be beside (accompany)||estar al lado de|||||||||||||||być obok
+na lin||||online|en ligne|en línea|online|онлайн||在线|オンライン||||||||||online (na linii, w sieci)
+na medi||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
+na niche||||under||debajo||||||||||||||alla|pod (poniżej)
+no na lin||||offline||||||离线|||||||||||offline (nie na linii, poza siecią)
+na nove||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
+na poli mar||||often (frequently)||frecuentemente||часто||经常|よく (屡々)|||अक्सर||sering kali||sık sık|ofte|usein|często
+na re||||again (repeatedly)||otra vez (de nuevo)|||||||||||||denove (ripete)|taas (uudestaan)|znowu (ponownie)
+na supra||||above (over)||sobre|||||||||||||super|yllä (pääll)|nad
+na u loka||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
+na vakil da||||on behalf of|||||||||||||||anstataŭ|puolesta|
 pade|||tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)|fall||caer||||||||||||||pudota (tipahtaa)|paść, padać, upaść, upadać
 pade di||||fallen|chu|||упавший  (падший)||||||||||||pudonnut (tippunut)|upadły
 pade mosim|mosim|||autumn (fall)|automne|otoño|outono||||||||||||aŭtuno|syksy (syys)|jesień
@@ -2886,10 +2890,10 @@ pas|asp.aux.||eng:past, spa:pasado, por:passado, fra: passé|pass (go across or 
 pas||||past (bygone)||anterior (remoto)|||||||||||||pasinta|ohitettu (mennyt)|przeszły, miniony
 pas dau||||pass (passage)|passe (passage)|paso (pasaje)|passagem||||||đèo|||||||sola (läpikulku)|
 pas loga||||password|mot de passe|contraseña|palavra-passe (senha)|пароль||密码|パスワード|암호 (패스워드)||पासवर्ड|পাসওয়ার্ড|kata sandi (kata laluan)||parola||tunnussana|
-pase|||ita:pace, eng:peace, spa:por:paz, fra:paix|peace|paix|paz|paz|||和平|||||||||paco|rauha|pokój
+pase|||ita:pace, eng:peace, spa:por:paz, fra:paix, rus:пац- (pac-)|peace|paix|paz|paz|||和平|||||||||paco|rauha|pokój
 Pase Hai||||Pacific Ocean||océano Pacífico||||||||||||||Tyyni valtameri|Ocean Spokojny (Pacyfik)
 pase hai kade|bio|Gadus macrocephalus||Pacific cod|morue du Pacifique|||тихоокеанская треска|||マダラ||||||||||dorsz pacyficzny
-pase sim||||pacifism||pacifismo||||和平主义|||||||||pacifismo|rauhanaate (pasifismi)|pacyfizm
+pase sim||||pacifism|pacifisme|pacifismo|pacifismo|пацифизм||和平主义|平和主義|평화주의|chủ nghĩa hoà bình||||||pacifismo|rauhanaate (pasifismi)|pacyfizm
 pase sim ja||||pacifist|pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|pacyfista
 pasi|||eng:fra:passion, spa:pasión, por:paixão, kon:mpasi|pain (suffering)||dolor (sufrimiento)||боль||疼痛|痛み|||||||||kipu (tuska)|cierpienie, ból
 pasi di||||painful||doloroso||болезненный|||痛い|||||||||kivulias (tuskallinen)|bolesny
@@ -3294,12 +3298,13 @@ Samoa|desha|WS||Samoa||Samoa||||||||||||||Samoa|Samoa
 fa sana|||zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-) + ara:(ṣanaʿa), swa:sanaa, tur:sanat|produce (create, make)||producir (hacer, preparar)|||||||||||||produkti (fabriki)|tehdä (valmistaa)|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
 sana basha||||artificial language (conlang)||idioma artificial (lengua construida, conlang)|||||||||||||artefarita lingvo|keinotekoinen kieli (tekokieli, keinokieli)|język sztuczny
 sana di||||artificial||artificial (sintético)||||||||||||||keinotekoinen (teko-, keino-)|sztuczny
-sana di||||productive (fertile)||||||||||||||||tuottava (tuottelias)|produktywny (żyzny)
+sana ja di||||productive (fertile)||||||||||||||||tuottava (tuottelias)|produktywny (żyzny)
 sana ja||||maker (manufacturer)||farbicante|fator||||||||||||fabrikisto|tekijä (valmistaja)|twórca, kreator, czynnik
 sana||||production||producción||||||||||||||tuotanto|produkcja
 sanduiche|||eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|sandwich|sandwich|sándwich (sánduche)|sanduíche|сандвич|سَانْدَوِيتْش|三明治 (三文治)|サンドイッチ|||सैंडविच||roti lapis (sandwic).||||voileipä|kanapka
 sanduku|||swa:lin:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq), hau:sàndūƙī̀, orm:saanduqa|box (chest)||caja (baúl, cofre, estuche)||сундук|||||||||sanduku|sandık|skatolo (kesto)|laatikko|pudło, skrzynia
 sange|||fra:sang, spa:sangre, por:sangue|blood|sang|sangre|sangue|кровь||血|血|피|máu|ख़ून (रक्त)|রক্ত|darah|damu|kan|sango|veri|krew
+sange hin||||bloodless||exangüe||бескровный|||||||রক্তহীন|||kansız|sensanga|veretön|
 sante|||por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|holy (sacred)||sagrado (santo)|||||||||||||sankta|pyhä|święty
 Sante Helena|desha|SH||Saint Helena||Isla Santa Elena||||||||||||||Saint Helena|Święta Helena
 sante kanon|din|||holy writ (sacred writings)|saintes écritures |sagrada escritura|sagrada escritura|священное писание||圣经|聖書|성경 (성서)||||||||pyhä kirja (pyhät kirjoitukset)|
@@ -3317,8 +3322,8 @@ sapatu kan||||shoemaker's shop||zapatería|||||||||||||ŝuistejo|suutarin paja|w
 sar|bode||fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|head|tête|cabeza|cabeça|голова|رَأْس|头|頭|머리|đầu|सिर|মাথা|kepala|kichwa|baç (kafa)||pää|głowa
 sar kaske||||helmet||casco (yelmo)|||||||||||||kasko|kypärä|hełm
 sar kesha||||hair of the head|cheveux|cabello|cabelo|волосы|شَعْر‎|头发|髪の毛 (頭髪)|머리칼|tóc|बाल|চুল|rambut|unywele|saç|kaphararo|hius (hiukset)|włosy
-sar kesha na di||||bald-headed|chauve|calvo|calvo|лысый||秃头的||||||||kel||kaljupäinen|
-sar na di||||headless|acéphale (sans tête)||acéfalo|безголовый||无头的|||||||||senkapa|päätön|bezgłowy
+sar kesha hin||||bald-headed|chauve|calvo|calvo|лысый||秃头的||||||||kel||kaljupäinen|
+sar hin||||headless|acéphale (sans tête)||acéfalo|безголовый||无头的||||शिरोहीन|||||senkapa|päätön|bezgłowy
 sar oste|bode|||skull||cráneo (calavera)||||||||||||||pääkallo|czaszka
 sata|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|moment (instant)||momento|momento (instante)|момент|سَاعَة‎|时刻 (瞬间)|瞬間|||||saat|saa|saat (an, moment)|momento|hetki (kotva, ajankohta)|moment
 sata di||||momentary|momentané|momentáneo|momentâneo|моментальный (минутный)|سَاعَة‎||||||||||momenta|hetkellinen|chwilowy
@@ -3371,7 +3376,9 @@ sera|||spa:sierra, por:serra, eng:serrate|saw|scie|sierra|serra|пила||锯子
 serami|||eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik|ceramic||cerámica|cerâmico|керамика||陶瓷|陶器|||मृत्तिकाशिल्प||seramik||||savityö (keramiikka)|ceramika
 serami sing|bio|Houstonia||bluet|||||||||||||||||houstonia
 Serbia|desha|RS||Serbia||Serbia|||||||||||||Serbio|Serbia|Serbia
-serebro|||eng:cerebrum, spa:cerebro, por:cérebro, fra:cerveau|brain||cerebro|||||||||||||cerbo|aivot|mózg
+nau|||zho:脑 (nǎo), yue:腦 (nou5), jpn:脳  (nō), kor:뇌 (noe), vie:não|brain|cerveau (cervelle)|cerebro|cérebro|мозг|دِمَاغ‎|脑|脳|뇌|óc (não)|मस्तिष्क (दिमाग़)|মগজ|otak (benak)|ubongo|beyin|cerbo|aivot|mózg
+nau di||||cerebral|cérébral|cerebral|cerebral|мозговой (церебральный)||大脑的||||||||beyinsel|cerba|aivoperäinen (aivo-)|mózgowy
+nau hin||||brainless||descerebrado||безмозглый|||||||মস্তিষ্কহীন||||sencerba|aivoton|bezmózgi
 serpe|||hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|snake (serpent)||serpiente (culebra)|||||||||||||serpento|käärme|wąż
 serva||||serve (give service)||servir||||||||||||||palvella (tarjoilla)|służyć
 serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|service||servicio||||||||||||||palvelu (palvelus)|służba
@@ -3918,7 +3925,7 @@ Virjin nesia|desha|VI||Virgin Islands, US||Islas Vírgenes|||||||||||||||Wyspy D
 virus|||eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|virus|virus|virus||вирус||||||||||||virus|wirus
 virus logi|||pol:wirusologia, rus:вирусология (virusologiya)|virology||virología||вирусология||||||||||||virologia|wirusologia
 vise|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy, alternative, substitute, replacement)||vice- (alternativa, sustituto)|||||代替||||||||vic-|vara- (korvike-)|wice- (alternatywa, substytut, zastępstwo)
-vise ba||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
+vise pa||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
 vise loga||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
 vise ma||||step-mother||madrastra|madrasta|мачеха||继母|継母|계모|mẹ kế|सौतेली माँ|||||vicpatrino|äitipuoli (isän puoliso)|
 vise prezidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
