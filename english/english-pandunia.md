@@ -6,7 +6,7 @@ abattoir (slaughterhouse) - bucha kan
 ability - bil ta  
 Abkhazia - Apsni  
 about (approximately, nearly, almost) - yaki  
-above (over) - pa supra  
+above (over) - na supra  
 Abyssinia - Habasha  
 Abyssinian - habasha  
 acacia - akasia  
@@ -53,7 +53,7 @@ Afghanistan - Afgan
 afraid (scared) - fobi di  
 Africa - Afrika  
 afternoon - sham dia  
-again (repeatedly) - pa re  
+again (repeatedly) - na re  
 age - sene  
 aged - sene di  
 aggressive - agresi tabi  
@@ -107,7 +107,7 @@ American Samoa - Amerika Samoa
 americium - amerikium  
 Amerindian (Native American) - asal Amerka jan  
 Amhara (an Ethiopian ethnic group and language) - Amara  
-among (amid, between) - pa medi  
+among (amid, between) - na medi  
 amount (quantity) - poli ta  
 ampere (amp) - amper  
 amplify (scale) - dai darja  
@@ -275,7 +275,7 @@ Bahrain - Bahrain
 bake - baka  
 baker - baka ja  
 bakery (bakehouse) - baka kan  
-bald-headed - sar kesha na di  
+bald-headed - sar kesha hin  
 ball - bol  
 balloon - balon  
 bamboo - bambu  
@@ -316,7 +316,7 @@ battery - bateri
 bay (gulf) - baya  
 be - si  
 be about (discuss as a subject) - tema  
-be beside (accompany) - pa late  
+be beside (accompany) - na late  
 be born - be jene  
 be bothered by (bother to, take the trouble to) - be turbe  
 be called (be named) - be name  
@@ -346,8 +346,8 @@ beetroot - bete
 begin (get started) - be shuru  
 begin (start, commence, initiate) - fa shuru  
 beginning (start, commencement, onset) - shuru  
-behave (act) - manira  
-behavior (manners) - manira  
+behave (act) - manera  
+behavior (manners) - manera  
 Beijing (Peking) - Beijing  
 being (entity) - si ja  
 bel (unit) - bel  
@@ -408,6 +408,7 @@ bleed - lou sang
 blini - rusia krepe  
 blog (web log) - bloge  
 blood - sange  
+bloodless - sange hin  
 blow - hava  
 blue - blu  
 bluet - serami sing  
@@ -458,7 +459,8 @@ boxing - bokse
 boy - joven man  
 boycott - boikote  
 Brahma - Brahma  
-brain - serebro  
+brain - nau  
+brainless - nau hin  
 branch (bough) - shaka  
 brave (gallant, valiant) - bravo  
 bravo! - bravo  
@@ -517,7 +519,7 @@ butterfly (moth) - pelpel
 buttocks (bum, butt, ass) - pigu  
 buy (purchase) - fa shopi  
 buyer - shopi ja  
-by (at, in, on) - pa  
+by (at, in, on) - na  
 ####C - C  
 cabin (booth) - kabin  
 cable (wire, line) - eletro lin  
@@ -602,12 +604,15 @@ celestial (heavenly) - sama di
 celestial body - astro  
 cell (biology) - selu  
 cement - semente  
+centenary - senta nen di  
 center (concentrate) - fa jung  
 centi- (per cent) - senti  
 centimeter (cm) - sentimitre  
 central (middle) - jung di  
 Central African Republic - Jung Afrika Komun krati  
+century - senta nen  
 ceramic - serami  
+cerebral - nau di  
 Ceres (dwarf planet) - Ceres  
 cerium - cerium  
 Chad - Chade  
@@ -1278,8 +1283,9 @@ fascist - fasha sim ja
 fashion (trend) - fashon  
 fast (quick, rapid, speedy) - rapide  
 fat (grease) - futa  
-father (dad, papa) - ba  
-father-in-law - gami baba  
+father (dad, papa) - pa  
+father-in-law - gami pa  
+fatherly (paternal) - pa di  
 fatigue (weariness) - fatige  
 fatty (greasy) - futa di  
 fault (sin, blame, defect, guilt) - dosha  
@@ -1409,6 +1415,7 @@ frequency - poli mar ta
 fresh - taza  
 Friday - var penta  
 friend - dosti  
+friendless - dosti hin  
 friendly (kind, nice, gentle) - dosti di  
 friendship - dosti ta  
 frog - krokroke  
@@ -1529,7 +1536,7 @@ grammar - basha kanun
 grammatical - basha kanun di  
 grammatical gender - basha jinse  
 grandchild - benben  
-grandfather - chin ba  
+grandfather - chin pa  
 grandmother - chin ma  
 grandparent - chin chin  
 granite - granite  
@@ -1589,7 +1596,7 @@ hafnium - hafnium
 hair - kesha  
 hair of the head - sar kesha  
 hairband (headband) - kesha bande  
-hairless - kesha na di  
+hairless - kesha hin  
 Haiti - Haiti  
 halo (aureola) - foto gola  
 halve (divide by two) - fa fen do du  
@@ -1617,7 +1624,7 @@ hay - gan chau
 hazard (chance) - zar  
 he or she or it - ya  
 head - sar  
-headless - sar na di  
+headless - sar hin  
 headmaster (principal) - shula shefe  
 heal (cure, treat, remedy) - dava  
 health - salu ta  
@@ -1645,8 +1652,8 @@ hertz (Hz) - herze
 Hesse - Hese  
 heteroromantic - alo romanse di  
 heterosexual - alo sekse di  
-hexagon - sis gona  
-hexahedron (cube) - sis fase  
+hexagon - luka gona  
+hexahedron (cube) - luka fase  
 hide (conceal) - fa sir  
 high (tall) - gau  
 high technology (hi-tech) - gau tehni  
@@ -1690,7 +1697,7 @@ Hong Kong, SAR China - Hong Gong
 honorable (respectable) - onor di  
 hook - huke  
 hope (wish) - asha  
-hopeless - asha na di  
+hopeless - asha hin  
 horizon - sama kinar  
 hormone - hormon  
 horn - korne  
@@ -1715,7 +1722,7 @@ hummus - humus sos
 humor - yumor  
 humorist - yumor ja  
 humorous (comical, funny) - yumor di  
-hundred (100) - sen  
+hundred (hecto-, 100) - senta  
 Hungary - Magyar  
 hunger - yam yau  
 hunt (fish) - saide  
@@ -1784,7 +1791,7 @@ innate (endogenous, indigenous, inborn) - in jene di
 inner (internal) - in di  
 insect - dudu  
 inside (interior) - in  
-inside - pa in  
+inside - na in  
 insomnia - an sona  
 instructions (recipe) - reseta  
 instrument (means) - medi gi  
@@ -1869,7 +1876,7 @@ June - mes luku
 Jupiter - Jupiter  
 just (fair, righteous) - adil  
 just (precise, exact, accurate) - juste  
-just (recently) - pa nove  
+just (recently) - na nove  
 justice - adil ta  
 ####K - K  
 Kama Sutra - kama kanon  
@@ -1928,7 +1935,8 @@ kumquat - kankuate
 Kuwait - Kuvaitia  
 Kyrgyzstan - Kirgize  
 ####L - L  
-lacking (-less) - na di  
+lack (miss, be without) - hin  
+lacking (-less) - hin di  
 lacquer (varnish) - laka  
 ladle (dipper, scoop) - pote chamacha  
 Lagos - Lagos  
@@ -2171,8 +2179,8 @@ match (fit, suit, go well together) - kon bon
 material (ingredient, resource) - faida she  
 material - mate di  
 materialism - mate lun  
-maternal grandfather - ma di ba  
-maternal grandmother - ma di ma  
+maternal grandfather - ma su pa  
+maternal grandmother - ma su ma  
 mathematician - hisabu logi ja  
 mathematics (math) - hisabu logi  
 matte (opaque) - foto mata di  
@@ -2316,7 +2324,8 @@ moss - mos
 mossy - mos di  
 most (maximally) - masim  
 mother (mom, mama) - ma  
-mother-in-law - gami mama  
+mother-in-law - gami ma  
+motherly (maternal) - ma di  
 motion (movement) - move  
 motorcar (automobile) - moto gar  
 motorcycle - moto sikle  
@@ -2365,6 +2374,7 @@ nail (fingernail) - nahun
 nail (spike) - ding  
 naked (bare, nude) - nude  
 name - name  
+nameless (unnamed, anonymous) - name hin  
 Namibia - Namibia  
 nano- - nano  
 nanometer - nano mitre  
@@ -2504,8 +2514,8 @@ office (position) - ofis poze
 office (room) - ofis kan  
 officer - ofis ja  
 official - ofis di  
-offline - pa no lin  
-often (frequently) - pa poli mar  
+offline - no na lin  
+often (frequently) - na poli mar  
 oganesson - oganeson  
 ogre (troll, goblin) - gui  
 oil - nefte  
@@ -2517,13 +2527,13 @@ old (ancient, former) - chen zaman di
 olive - zaitun  
 Oman - Oman  
 ominous (foreboding) - dus sin di  
-on behalf of - pa vakil da  
+on behalf of - na vakil da  
 once (one time) - un mar  
 oncilla - bagre oselote  
 one (1) - un  
 one (you, they, impersonal pronoun) - men  
 onion - piaze  
-online - pa lin  
+online - na lin  
 only (single, sole, lone, just) - unike  
 open (not closed) - kai  
 open (wide, spacious) - medan di  
@@ -2549,8 +2559,8 @@ orgasm - orgazme
 oriental poppy - gui papi  
 origin (source) - asal  
 original (authentic) - asal di  
-Oromia - Orom Desha  
-Oromo (an Ethiopian ethnic group and language) - orom  
+Oromia - Oromo Desha  
+Oromo (an Ethiopian ethnic group) - oromo  
 orphan - yatim  
 orphanage - yatim dom  
 orthogonal (perpendicular) - orto gona di  
@@ -2569,7 +2579,7 @@ outcast (pariah) - paraya
 outcome (victory or defeat) - sheng bai  
 outer (external) - ekso di  
 outside (exterior) - ekso  
-outside - pa ekso  
+outside - ne ekso  
 outsider - ekso jan  
 outward (external) - do ekso  
 oven (furnace) - tanur  
@@ -2654,8 +2664,8 @@ password - pas loga
 past (bygone) - pas  
 past times - chen zaman  
 paste (dough) - pasta  
-paternal grandfather - ba di ba  
-paternal grandmother - ba di ma  
+paternal grandfather - pa su pa  
+paternal grandmother - pa su ma  
 pathogen - pati jene she  
 pathology - pati logi  
 patient (subject of medical treatment) - pati jan  
@@ -2881,7 +2891,7 @@ problematic - problem di
 process (procedure) - proses  
 produce (create, make) - fa sana  
 production - sana  
-productive (fertile) - sana di  
+productive (fertile) - sana ja di  
 profession (job, occupation, trade, vocation) - pei gung  
 professional (occupational, career) - pei gung di  
 professional (pro) - pei gung ja  
@@ -3228,7 +3238,7 @@ servant - serve ja
 serve (give service) - serva  
 service - serve  
 sesame - sesam  
-seven (7) - sete  
+seven (7) - cheti  
 sew - siu  
 sex (sexual relation) - sekse  
 sexology - sekse logi  
@@ -3297,7 +3307,7 @@ sit (put down) - fa side
 sit down - side  
 situation (circumstances, state of affairs) - she hal  
 situational irony - she hal ironi  
-six (6) - sis  
+six (6) - luka  
 size - dai ta  
 sizzle - zizi  
 skeleton (frame) - oste jama  
@@ -3442,7 +3452,7 @@ steamed bun (mantou, manti) - mantu
 stem (torso, trunk, stalk) - tana  
 step (degree, rank, grade, level, class) - darja  
 step-child - gami ben  
-step-father - vise ba  
+step-father - vise pa  
 step-mother - vise ma  
 step-parent - chin gam  
 step-sibling - chin gam ben  
@@ -3597,7 +3607,7 @@ Telugu - Telugu
 temperature - termo  
 temple (place of worship) - puja kan  
 tempt (entice) - tenta  
-ten (10) - des  
+ten (deca-, 10) - des  
 ten thousand - des kilo  
 Tennessee - Tenesi  
 tennessine - tenesium  
@@ -3634,7 +3644,7 @@ theocracy - deu krati
 theology - deu logi  
 theory - teori  
 theosophy - deu sofi  
-there - pa u loka  
+there - na u loka  
 thermometer - termo metre gi  
 they - yamen  
 thick - gros  
@@ -3698,7 +3708,7 @@ too much - mas ka basa
 tool - tul  
 tooth - dante  
 tooth brush - dante brosh  
-toothless - dante na di  
+toothless - dante hin  
 top (peak, pinnacle, summit, apex, vertex) - shan pike  
 top (spinning top) - rota van gi  
 top - gau  
@@ -3784,7 +3794,7 @@ Umbriel - Umbriel
 unambiguous - un mana di  
 unbeliever (infidel) - an din ja  
 uncover (reveal) - an daka  
-under - pa niche  
+under - na niche  
 underestimate - fa min rai  
 undergo (passivizing verb) - be  
 underground (subterrainean) - geo niche di  
@@ -3948,7 +3958,7 @@ what? - ke
 wheat - ganum  
 wheel - chakra  
 when? - ke sate  
-where - pa ke  
+where - na ke  
 which (who, that) - jo  
 whip - bichi  
 whisky (whiskey) - viski  
@@ -3980,7 +3990,6 @@ wire - metal lin
 wisdom - sofita  
 wise - sofi  
 with (there be; have) - ha  
-without - na  
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - matur fem  

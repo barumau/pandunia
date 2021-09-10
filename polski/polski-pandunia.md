@@ -175,11 +175,13 @@ berkel - berkelium
 Bermudy - Bermuda  
 beryl - berilium  
 beton - beton  
-bez - na  
-bezgłowy - sar na di  
-beznadziejny - asha na di  
+bez - hin  
+bezgłowy - sar hin  
+bezimienny - name hin  
+bezmózgi - nau hin  
+beznadziejny - asha hin  
 bezpieczny - sekur  
-bezzębny - dante na di  
+bezzębny - dante hin  
 Bhutan - Lung Desha  
 Białoruś - Belarus  
 biały - baku  
@@ -263,7 +265,7 @@ bułka gotowana na parze - mantu
 być - si  
 być mistrzem (być ekspertem) - fa mestre  
 być o; dyskutować o - tema  
-być obok - pa late  
+być obok - na late  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
 być podobnym, być jak - be sam  
 być przeciw - kontra  
@@ -413,7 +415,7 @@ czysty (higieniczny, sanitarny) - salu safa di
 czysty - safa  
 czytać - duku  
 cząstka (ziarno, kula, pocisk) - dane  
-często - pa poli mar  
+często - na poli mar  
 częstotliwość - poli mar ta  
 część (fragment, strzęp, kawałek, okruch) - parche  
 część, ułamek - fen  
@@ -530,7 +532,7 @@ dystans - tele
 dystans - tele ta  
 dywan - tal tela  
 dzban, dzbanek; słój, słoik; wazon - jara  
-dziadek (dziad) - chin ba  
+dziadek (dziad) - chin pa  
 działka (teren) - geo tika  
 działo - dai pau  
 dziecko (nieletni) - bacha  
@@ -699,7 +701,7 @@ gazela - gazel
 gazeta - habar gazeta  
 gazowy - gas di  
 gałąź, konar - shaka  
-gdzie - pa ke  
+gdzie - na ke  
 gejowski (homoseksualny) - gei  
 genderqueer, niebinarny - nobi  
 genealogia - jene logi  
@@ -1496,7 +1498,6 @@ mili- - mili
 miligram - mili gram  
 milimetr - mili metre  
 milion - mega  
-milion - yota  
 militarny, wojskowy, wojenny - jeng di  
 minerał, ruda - kuang  
 minimal - minim di  
@@ -1512,7 +1513,7 @@ mistrz (sensei) - shifu
 mit (boska opowieść) - deu kata  
 miód - medu  
 mięczak (morski bezkręgowiec) - moluske  
-między (wśród, pośród) - pa medi  
+między (wśród, pośród) - na medi  
 międzyetniczny - zuku medi di  
 międzynarodowy - nasi medi  
 międzyrasowy - rasa medi  
@@ -1593,7 +1594,8 @@ myśleć, dumać, rozmyślać, zastanawiać się, rozważać - fikir
 móc, umieć, możliwy, prawdopodobnie - bil  
 mój - mi su  
 mówić, rozmawiać - loga  
-mózg - serebro  
+mózg - nau  
+mózgowy - nau di  
 mądrość - sofita  
 mądry - sofi  
 męczyć się (nużyć się) - be fatige  
@@ -1612,7 +1614,7 @@ nabywca (kupiec) - shopi ja
 naciskać, zostawiać ślad - fa chape  
 nacjonalista - nasi sim ja  
 nacjonalizm - nasi sim  
-nad - pa supra  
+nad - na supra  
 nadajnik radiowy - radi miser  
 nadawca - mise ja  
 nadać, wysłać pocztą - fa posta  
@@ -1808,7 +1810,7 @@ odpowiedź, odzew - javabu
 odsłonić, odsłaniać - an daka  
 Odwarzny ( - bravo  
 odwiedzić, odwiedzać - fa kegu  
-offline (nie na linii, poza siecią) - pa no lin  
+offline (nie na linii, poza siecią) - no na lin  
 ofiara - kurban  
 oficer policji, policjant - polis ja  
 oficjalny - ofis di  
@@ -1820,7 +1822,7 @@ ogr (trol, goblin) - gui
 ogórek - hiyar  
 ogórek kiwano - korne melon  
 ogórek melon - melon  
-ojciec - ba  
+ojciec - pa  
 okej, spoko, akceptowalny - oke  
 okno - janela  
 oko - oko  
@@ -1832,7 +1834,7 @@ Oman - Oman
 omszały (mszysty) - mos di  
 on, ona, ono - ya  
 oni - yamen  
-online (na linii, w sieci) - pa lin  
+online (na linii, w sieci) - na lin  
 opaska do włosów - kesha bande  
 opcja (wybór) - chuze she  
 opinia, pogląd - rai  
@@ -1848,8 +1850,8 @@ opłata, taryfa - tarif
 organiczny - bio  
 orgazm - orgazme  
 orija - Odisa  
-Oromia - Orom Desha  
-oromo - orom  
+Oromia - Oromo Desha  
+oromo - oromo  
 orzech ziemny - geo dou  
 oset - kardon  
 oset zwisły - pende kardon  
@@ -2056,7 +2058,7 @@ poczta - posta
 poczta elektroniczna - eletro posta (e-posta)  
 poczta, budynek poczty - posta kan  
 początek - shuru  
-pod (poniżej) - pa niche  
+pod (poniżej) - na niche  
 podarunek, dar, prezent - dona she  
 podatek, opłata - taksi  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
@@ -2224,7 +2226,7 @@ problematyczny - problem di
 proces, procedura - proses  
 proch strzelniczy - barude  
 produkcja - sana  
-produktywny (żyzny) - sana di  
+produktywny (żyzny) - sana ja di  
 profesja, zajęcie, zawód - pei gung  
 profesor - profesor  
 program - program  
@@ -2292,7 +2294,7 @@ przeziębienie, katar - zukam
 przeznaczenie, los - kisma  
 przeznaczyć - chuze yo gol  
 przeźroczysty, jasny - klar  
-przy, z, na, w, u - pa  
+przy, z, na, w, u - na  
 przyczepić, przymocować - fa fikse  
 przygoda - ventur  
 przygoda w lochu - donjon ventur  
@@ -2584,7 +2586,7 @@ sfermentowany - bio mute di
 shintoizm, sintoizm - shindau din  
 siano - gan chau  
 siarka - sulfur  
-siedem (7) - sete  
+siedem (7) - cheti  
 siedzenie (siodło) - side loka  
 siedzieć - fa side  
 siekera, topór - futau  
@@ -2703,7 +2705,7 @@ statyczny, stacjonarny, nieruchomy - estasi di
 stać - lipa  
 stały (sztywny) - gati mate di  
 sterburta (prawa burta) - nave raite  
-sto (100) - sen  
+sto (100) - senta  
 stojak (wieszak) - lipa baze  
 stokrotka - margarita  
 stokrotka pospolita - english margarita  
@@ -2729,6 +2731,7 @@ strzykwa - hai hiyar
 strzępić (drzeć) - chira chira  
 student - estude ja  
 studio (pracownia) - estude kan  
+stulecie - senta nen  
 styczeń - mes un  
 stół - meza  
 stłuc się (rozpaść się na kawałki) - fa parche  
@@ -2781,10 +2784,10 @@ szeroki - kuan
 szerokość - kuan ta  
 szew - sutur  
 szewc - sapatu ja  
-sześcian (kostka) - sis fase  
+sześcian (kostka) - luka fase  
 sześcian - kube  
-sześciokąt (sześciobok) - sis gona  
-sześć (6) - sis  
+sześciokąt (sześciobok) - luka gona  
+sześć (6) - luka  
 szisz kebab - shish kababu  
 szkielet - oste jama  
 szklić (glazurować) - fa kancha dake  
@@ -2954,7 +2957,7 @@ trzęsienie Ziemi - geo sismo
 trójkąt - tri gona  
 trójząb - tri zong  
 trąba powietrzna (cyklon, tornado, tajfun) - rota tafun  
-tu (tutaj, tam) - pa u loka  
+tu (tutaj, tam) - na u loka  
 tuba, rura - tubo  
 tul - tulium  
 tulipan - tulpan  
@@ -3298,7 +3301,7 @@ władca - sultan ja
 własność (mienie) - mal  
 właściciel (posiadacz) - mal ja  
 właściwy, poprawny - sahi  
-właśnie, dopiero co, ostatnio, niedawno - pa nove  
+właśnie, dopiero co, ostatnio, niedawno - na nove  
 włos - kesha  
 włosy - sar kesha  
 włókno - lin so  
@@ -3316,9 +3319,9 @@ zabroniony (wzbroniony, nielegalny, haram, tabu) - haram
 zabronić (wzbronić, zakazać) - fa haram  
 zabójca - mata ja  
 zachodni - veste di  
-zachowanie (maniery, kultura) - manira  
+zachowanie (maniery, kultura) - manera  
 zachować, zakonserwować, zachować, utrzymać - hafiza  
-zachowywać się (działać) - manira  
+zachowywać się (działać) - manera  
 zachwycający (zdumiewający, zadziwiający) - ajibu di  
 zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić) - fa ajibu  
 zachwycić się (być zachwyconym) - be ajibu  
@@ -3448,7 +3451,7 @@ znaczyć (liczyć się, być ważnym) - ham
 znak, sygnał - sin  
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
-znowu (ponownie) - pa re  
+znowu (ponownie) - na re  
 znudzony - bori di  
 zombie, zombi - zombi  
 zoo (ogród zoologiczny) - zou bagi  

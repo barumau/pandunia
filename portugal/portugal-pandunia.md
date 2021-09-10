@@ -14,7 +14,7 @@ aconselhar - fa sela
 acordado - jaga  
 acordo (tratado, contrato) - trati  
 acordo - sam rai  
-acéfalo - sar na di  
+acéfalo - sar hin  
 adesivo - glu grafi  
 adjetivo - sifa loga  
 administrador - politi ja  
@@ -112,7 +112,7 @@ aveia - ave
 aventura - ventur  
 aventureiro - ventur ja  
 avó - chin ma  
-avô - chin ba  
+avô - chin pa  
 azur (blau) - lazur  
 azur - blu  
 açougueiro (talhante) - bucha ja  
@@ -194,7 +194,7 @@ calcular - fa hisabu
 calcário - kalse petra  
 calendário - kalenda  
 califa - halifa  
-calvo - sar kesha na di  
+calvo - sar kesha hin  
 calças - pante  
 cama (leito) - bede  
 cama portátil - kampe bede  
@@ -238,12 +238,14 @@ castanho (marrom) - kafe rang
 cavar (escavar) - fa kave  
 caçar - saide  
 cebola - piaze  
-cem (100) - sen  
+cem (100) - senta  
 cemitério - gabur bagi  
 cenoura - karote  
 centro - jung  
 centáurea - sentaure  
+centénario - senta nen di  
 cerca - kinar baryer  
+cerebral - nau di  
 cereja - cheri  
 cerveja - bir  
 cerâmica - pote shuta  
@@ -289,7 +291,7 @@ começo (início, princípio) - shuru
 como - ke riti  
 compaixão - sam emos  
 complô (conspiração) - sir plan  
-comportamento (conduta) - manira  
+comportamento (conduta) - manera  
 composto - bio sana she  
 comprar - fa shopi  
 compras - shopi  
@@ -343,6 +345,7 @@ cume (pico, topo) - shan pike
 curva - kurva  
 cápsico - chili  
 cão (cachorro) - vaf  
+cérebro - nau  
 céu - sama  
 cópia - kopi  
 cósmico - kosmo di  
@@ -360,17 +363,18 @@ deixar - lashe
 dente-de-leão (taráxaco) - makan hua  
 derretre - yong  
 descanso (repouso) - shanti  
-desdentado - dante na di  
+desdentado - dante hin  
 desenvolvimento - darja mute  
-desesperado - asha na di  
+desesperado - asha hin  
 desfigurar - fa dus forma  
 deslizar - glis  
-despelado - kesha na di  
+despelado - kesha hin  
 despertar - be jaga  
 destino - kisma  
 deus - deu  
 devanágari - deu nagar zi  
 dever - deve  
+dez - des  
 dia (24 horas) - den  
 dia - dia  
 diamante - almas  
@@ -411,6 +415,7 @@ eletricidade - eletro
 elfo - elfe  
 elo - sili tika  
 elogio - eu loga  
+em - na  
 embalar - lifafa  
 emoticon (emoji) - emosi zi  
 emoçao - emosi  
@@ -746,6 +751,7 @@ matar - fa mata
 mate (opaco) - foto mata di  
 matemática - hisabu logi  
 materialismo - mate lun  
+maternal - ma di  
 matéria - mate  
 maçã - aple  
 medusa - hai jele  
@@ -867,8 +873,8 @@ oito (8) - bati
 oleiro - pote ja  
 olho - oko  
 onda - onda  
-onde - pa ke  
-online - pa lin  
+onde - na ke  
+online - na lin  
 ontem - chen den  
 opinião - rai  
 opor - shatan  
@@ -890,12 +896,13 @@ outro - alo
 oásis - vase  
 ####P - P  
 paciente - pati jan  
+pacifismo - pase sim  
 pacifista - pase sim ja  
 pacote - pake  
 pacto - kon trati  
 padeiro - baka ja  
-padrasto - vise ba  
-pai - ba  
+padrasto - vise pa  
+pai - pa  
 painel - ban  
 palavra (vocábulo) - loga so  
 palavra-passe (senha) - pas loga  
@@ -917,6 +924,7 @@ passagem - pas dau
 passagem de volta - retro tikete  
 passaporte - pasporte  
 pasta - pasta  
+paternal - pa di  
 pato - bata  
 patologia - pati logi  
 patógeno - pati jene she  
@@ -1123,10 +1131,11 @@ sede - sui yau
 segunda-feira - var un  
 seguro - sekur  
 seio (mama) - titi  
-seis (6) - sis  
+seis (6) - luka  
 seita - din shia  
 selva (floresta, jângal) - jangal  
-sem - na  
+sem - hin  
+sem nome - name hin  
 semente - seme  
 seminal - seme di  
 senador - supra vakil ja  
@@ -1135,7 +1144,7 @@ sepultura (túmulo, enterrar) - gabur
 ser (estar) - si  
 ser humano - insan  
 serra - sera  
-sete (7) - sete  
+sete (7) - cheti  
 sexo - jinse  
 sexologia - sekse logi  
 sexta-feira - var penta  
@@ -1145,8 +1154,8 @@ simulação - sam sifa she
 sino (campainha) - dang gi  
 situaçao - she hal  
 sociedade - sosi  
-sogra - gami mama  
-sogro - gami baba  
+sogra - gami ma  
+sogro - gami pa  
 soja - soi  
 sol - sol  
 soldado - gun jan  
@@ -1165,6 +1174,7 @@ suástica (cruz gamada) - huke krus
 Suíça - Suise  
 sábado - var luku  
 São Paulo - Sante Paulo  
+século - senta nen  
 série (sequência) - sili  
 só (solitário) - unike jan di  
 ####T - T  
@@ -1301,6 +1311,7 @@ Xiva - Shiva
 ####Y - Y  
 ####Z - Z  
 zebra - zebra  
+zero - siro  
 zona - zona  
 zoologia - zou logi  
 zoológico - zou bagi  

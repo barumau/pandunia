@@ -1,5 +1,5 @@
 # france-pandunia
-a (dans, en, chez) - pa  
+a (dans, en, chez) - na  
 ####A - A  
 abattoir - bucha kan  
 abattre - bucha  
@@ -21,7 +21,7 @@ actif - karma ja
 actinium - acinium  
 activer (allumer, mettre en marche, déclencher) - fa karma  
 actuel (courant) - zai zaman di  
-acéphale (sans tête) - sar na di  
+acéphale (sans tête) - sar hin  
 adapter (ajuster) - fa hapu  
 addition (facture) - fatura  
 adhésif (collant) - glu di  
@@ -215,9 +215,9 @@ basketball - baske bol
 bassin - basen  
 bateau - nave  
 beau - sundar  
-beau-père - gami baba  
+beau-père - gami pa  
 beauté - sundar ta  
-belle-mère - gami mama  
+belle-mère - gami ma  
 bengali - bangla basha  
 berceau - lala bede  
 berceause - lala chante  
@@ -318,12 +318,14 @@ carte - karte
 carte à collectionner - jama karde  
 cartographie - metre grafi shuta  
 cauri - kauri  
-cent (100) - sen  
+cent (100) - senta  
 Centaurée - sentaure  
 Centaurée bleuet - blu sentaure  
 Centaurée du solstice - sol sentaure  
+centenaire - senta nen di  
 centre - jung  
 cerise - cheri  
+cerveau (cervelle) - nau  
 chachlik - shish nama  
 chaise à bascule (berçante) - roke kursi  
 chambre à coucher - sona kamar  
@@ -344,7 +346,7 @@ charme - charme
 chasser - saide  
 chat - mau  
 chaudron - dai pote  
-chauve - sar kesha na di  
+chauve - sar kesha hin  
 chauve-souris - fei mushu  
 chaux - kalse mate  
 chef - shefe  
@@ -388,7 +390,7 @@ comment - ke riti
 commerce - vende shope  
 compassion - sam emos  
 complot (conspiration) - sir plan  
-comportement (manière) - manira  
+comportement (manière) - manera  
 compost - bio sana she  
 compote de pommes - aple sos  
 comprendre (réaliser) - aha  
@@ -460,6 +462,7 @@ culturisme (musculation) - muskul bina
 cycliste - sikle ja  
 cytologie - selu logi  
 célérité - sir ta  
+cérébral - nau di  
 côte - hai kinar  
 côté - late  
 ####D - D  
@@ -491,6 +494,7 @@ disque - diske
 distinct - alo fen di  
 diverger (ne pas être d'accord) - alo rai  
 divers (plusieurs) - vari  
+dix (deca-) - des  
 docile (insipide) - dosil  
 document (dossier) - dokumen  
 documentaire - dokumen filme  
@@ -519,7 +523,7 @@ déchirer - chira
 déchirer - chira  
 défigurer - fa dus forma  
 désaccord (différend) - alo rai  
-désespéré - asha na di  
+désespéré - asha hin  
 dévanagari - deu nagar zi  
 développement - darja mute  
 ####E - E  
@@ -536,7 +540,7 @@ empreinte digitale - angul marke
 empruntre - jeka daku  
 en arrière - retro  
 en avant - do jin  
-en ligne - pa lin  
+en ligne - na lin  
 enclume - metal bede  
 encre - kalam sui  
 enfant - bacha  
@@ -642,7 +646,7 @@ geographie - geo grafi
 Germanie - Germania  
 gingembre - zinji  
 giraffe - jirafa  
-glabre - kesha na di  
+glabre - kesha hin  
 glace - ais  
 glacé (glacial, gelé) - ais di  
 gland - baluta frute  
@@ -653,7 +657,7 @@ gorille - gorila
 goule - gul  
 gouvernement - politi  
 grand-mère - chin ma  
-grand-père - chin ba  
+grand-père - chin pa  
 granit - granite  
 gravire - grave  
 grenouille - krokroke  
@@ -731,6 +735,7 @@ infecter - fa pati mise
 infection (contagion) - pati mise  
 infidèle (incroyant) - an din ja  
 inflammation - flame  
+innomé - name hin  
 insecte - dudu  
 insomnie - an sona  
 intention - nia  
@@ -876,6 +881,7 @@ masque - maska
 masse - masa  
 mat (opaque) - foto mata di  
 match - meche  
+maternel - ma di  
 mathématiques - hisabu logi  
 matière - mate  
 matérialisme - mate lun  
@@ -1035,8 +1041,9 @@ oubliette (cul de basse-fosse) - geo niche prizon
 oui - ye  
 ours - urso  
 oxyde - okside  
-où - pa ke  
+où - na ke  
 ####P - P  
+pacifisme - pase sim  
 pacifiste - pase sim ja  
 page - varka late  
 pain - pang  
@@ -1072,6 +1079,7 @@ passeport - pasporte
 passer - fa dura  
 passer - pas  
 pastèque - arbuza  
+paternel - pa di  
 pathologie - pati logi  
 patient - pati jan  
 pause - pauza  
@@ -1084,7 +1092,7 @@ peinture - pente
 pelle - bele  
 perdant - shiti bai ja  
 perder - shiti  
-pere (papa) - ba  
+pere (papa) - pa  
 perfectionner (parfaire) - fa pul bon  
 perplexe (désorienté) - ruhu mishe di  
 perroquet - papagai  
@@ -1319,7 +1327,7 @@ semence - seme
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aroma  
 sentir qqch - aroma  
-sept (7) - sete  
+sept (7) - cheti  
 serrure - sor  
 serviette - gan tela  
 seul (unique) - unike  
@@ -1332,7 +1340,8 @@ signer - name kitabu
 silex - hogo sheku  
 simulation - sam sifa she  
 situation (état de choses) - she hal  
-six (6) - sis  
+six (6) - luka  
+siècle (centennie) - senta nen  
 société - sosi  
 soie - silko  
 soif - sui yau  
@@ -1525,6 +1534,7 @@ zoroastrien - zardush din ja
 zoroastrisme - zardush din  
 zoulou - Zulu  
 zèbre - zebra  
+zéro - siro  
 Égypte - Misri  
 Égypte antique - Keme  
 Épicéa - pisea  
@@ -1539,7 +1549,7 @@ zèbre - zebra
 écorce - tire yo pil  
 écrire - kitabu  
 écureuil - ekore  
-édenté - dante na di  
+édenté - dante hin  
 éducation - shula  
 égal (même) - sam  
 électricité - eletro  

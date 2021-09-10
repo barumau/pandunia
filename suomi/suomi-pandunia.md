@@ -46,7 +46,9 @@ aistia - fa sense
 aivastaa (atsii!) - achi  
 aivokalvo - meninge  
 aivokalvontulehdus - meninge flame  
-aivot - serebro  
+aivoperäinen (aivo-) - nau di  
+aivot - nau  
+aivoton - nau hin  
 ajaa (kuskata) - fa shofer  
 ajatella (miettiä) - fikir  
 ajattelun, olemisen tai ihmisten ala tai alue - ya  
@@ -80,7 +82,7 @@ alku - shuru
 alkuaine - kimi so  
 alkuperä - asal  
 alkuperäinen - asal di  
-alla - pa niche  
+alla - na niche  
 allas - basen  
 allofoni (vaihtoehtoinen ääntämys) - alo fon  
 aloittaa - fa shuru  
@@ -109,7 +111,7 @@ animaatio (piirretty) - anime
 animoida - anime  
 ankkuri - angar  
 annos - doze  
-anoppi - gami mama  
+anoppi - gami ma  
 ansiosta - shukra da  
 antaa - dona  
 antaa anteeksi - fa maf  
@@ -124,7 +126,7 @@ antikristus - an mesi
 antimoni - estibium  
 apinanleipäpuu (baobab) - buyu  
 appelsiini - oranje  
-appi - gami baba  
+appi - gami pa  
 appivanhempi - gami chin  
 aprikoosi (luumu) - briko  
 apteekki - dava she kan  
@@ -229,6 +231,7 @@ Bermuda - Bermuda
 berylli - berilium  
 betoni - beton  
 Bhutan - Lung Desha  
+biljoona (tera-) - tera  
 biojäte - bio laji  
 biologia - bio logi  
 biologinen sukupuoli - bio jinse  
@@ -521,7 +524,7 @@ hame - jupe
 hammas - dante  
 hammasharja - dante brosh  
 hammaslääkäri - dante dava ja  
-hampaaton - dante na di  
+hampaaton - dante hin  
 han-kiinalainen - Han  
 hana (venttiili, kraana) - kran  
 hangata - frike  
@@ -732,8 +735,7 @@ ikä - sene
 ilkeä (julma) - zalim  
 illallinen - sham yam  
 ilma - air  
-ilman (puuttua) - na  
-ilman oleva (-ton) - na di  
+ilman oleva (-ton) - hin di  
 ilmanpaine - air presa  
 ilmapallo - balon  
 ilmapuntari (ilmanpainemittari, barometri) - air presa metre gi  
@@ -776,15 +778,16 @@ islamofobia (islamin pelko) - islamfobia
 Islanti - Islande  
 iso (suuri) - dai  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britan  
-isoisä - chin ba  
+isoisä - chin pa  
 isovanhempi - chin chin  
 isoäiti - chin ma  
 Israel - Israel  
 istua - fa side  
-isä - ba  
-isänisä - ba di ba  
-isänäiti - ba di ma  
-isäpuoli (äidin puoliso) - vise ba  
+isä - pa  
+isällinen - pa di  
+isänisä - pa su pa  
+isänäiti - pa su ma  
+isäpuoli (äidin puoliso) - vise pa  
 Italia - Italia  
 itkeä (yhyy) - uhu  
 itse - se  
@@ -942,7 +945,7 @@ kalifaatti - halifa desha
 kalifi - halifa  
 kalifornium - kalifornium  
 kalium - kalium  
-kaljupäinen - sar kesha na di  
+kaljupäinen - sar kesha hin  
 kalkki - kalse mate  
 kalkkikivi - kalse petra  
 kalkkuna - dinde  
@@ -994,7 +997,7 @@ Karnataka (Intian osavaltio) - Karnada
 kartio (keila) - kone  
 kartogratia - metre grafi shuta  
 kartta - topo metre grafi  
-karvaton - kesha na di  
+karvaton - kesha hin  
 kassa - kasha  
 kassanhoitaja - kasha ja  
 kassava (maniokki) - manioka  
@@ -1028,6 +1031,7 @@ kaupunginosa (kortteli, naapurusto) - mahala
 kaupunki - nagar  
 kaupunki - siti  
 kaura - ave  
+kaveriton - dosti hin  
 Kazakstan - Kazake  
 kebab (grilliliha) - kababu nama  
 kehitys - darja mute  
@@ -1331,9 +1335,9 @@ kuulua (olla jäsenenä) - si membre
 kuume - febre  
 kuunnella - fa ore  
 kuura - hima rose  
-kuusi (6) - sis  
-kuusikulmio - sis gona  
-kuutio (kuusitahokas) - sis fase  
+kuusi (6) - luka  
+kuusikulmio - luka gona  
+kuutio (kuusitahokas) - luka fase  
 kuutio - kube  
 kuvaileva (määrittelevä) - sifa di  
 kuvakirja - grafi buku  
@@ -1342,6 +1346,7 @@ kuvanveistäjä - eskulte ja
 kuvaruutu - ekran  
 kuvitella - fa fantazi  
 Kuwait - Kuvaitia  
+kvadriljoona (jotta-) - yota  
 kykenevä (voiva) - bil ja  
 kyllä - ye  
 kylmä - leng  
@@ -1382,11 +1387,11 @@ kävely (marssi) - marche
 käydä (vierailla) - fa kegu  
 käynti (vierailu, visiitti) - keka  
 käyttäjä - use ja  
-käyttäytyä - manira  
+käyttäytyä - manera  
 käyttää - use  
 käytännöllinen (pragmaattinen) - prati di  
 käytäntö (pragmatia) - prati  
-käytös (käyttäytyminen, tapa, tavat) - manira  
+käytös (käyttäytyminen, tapa, tavat) - manera  
 käännös (tulkinta) - tarjum she  
 kääntää jtkn päin - fa verse  
 kääre (kuori) - lifafa  
@@ -1556,7 +1561,7 @@ luokkahuone - shula kamar
 luokse (tykö, kohti, asti) - do  
 luola - gua  
 luolaseikkailu - donjon ventur  
-luona (-lla, -ssa) - pa  
+luona (-lla, -ssa) - na  
 luonto - eko  
 luonto - tabi  
 luota (lähtien, -sta, -lta) - ze  
@@ -1756,7 +1761,6 @@ mikä? (mitä?) - ke
 mikä? (mitä?) - ke she  
 miljardi (giga-) - giga  
 miljoona (mega-) - mega  
-miljoona (mega-) - yota  
 millainen? - ke yang  
 milli- - mili  
 milligramma - mili gram  
@@ -1768,7 +1772,7 @@ ministeriö - ministre ofis
 minun - mi su  
 minuutti - minute  
 minä - mi  
-missä? - pa ke  
+missä? - na ke  
 mitali - medal  
 miten? - ke riti  
 mitta (koko, määrä) - metre  
@@ -1920,6 +1924,7 @@ nihonium - nihonium
 Nikaragua - Nikaragua  
 nikkeli - nikel  
 nilviäinen - moluske  
+nimetön - name hin  
 nimi - name  
 nimittää (kutsua) - fa name  
 niobium - niobium  
@@ -2036,8 +2041,8 @@ orava - ekore
 orgaaninen elämä - bio she  
 orgasmi - orgazme  
 orija (eräs intialainen kieli) - Odisa  
-Oromia - Orom Desha  
-oromo (etiopialainen kansa ja kieli) - orom  
+Oromia - Oromo Desha  
+oromo (etiopialainen kansa) - oromo  
 orpo - yatim  
 orpokoti - yatim dom  
 osa (pala) - fen  
@@ -2347,7 +2352,7 @@ punkki - akare
 punta - paunde  
 puola - Polska  
 puolalainen - polska basha  
-puolesta - pa vakil da  
+puolesta - na vakil da  
 puoliso (aviomies tai -vaimo) - gami jan  
 puolittaa (jakaa kahdella) - fa fen do du  
 puolustaa - defa  
@@ -2365,6 +2370,7 @@ puuaines - moka mate
 puuseppä - moka jang ja  
 puutarhalapio - bagi bele  
 puuteri - muka fun  
+puuttua (ilman, vailla) - hin  
 puuvilla - goton  
 pyhä - sante  
 pyhä kirja (pyhät kirjoitukset) - sante kanon  
@@ -2406,7 +2412,7 @@ pääministeri (suurvisiiri) - shefe minister
 päärynä - lezi  
 pääsiäinen - paska  
 pääsy - jin lai  
-päätön - sar na di  
+päätön - sar hin  
 pöly (tomu) - fun  
 pölynimuri - fun chupa gi  
 pöytä - meza  
@@ -2594,13 +2600,14 @@ sarjakuva - grafi kata
 sarvi - korne  
 sarvikuono - kornonos  
 saslik - shish nama  
-sata (100) - sen  
+sata (hehto-) - senta  
 sata tuhatta - des kilo  
 sataa -   
 satakieli - bulbul  
 satama - hai porte  
 satanismi (paholaisenpalvonta) - shatan din  
 satanisti - shatan din ja  
+satavuotinen - senta nen di  
 sateenvarjo - shava chati  
 sateinen -   
 satsuma - venjou oranje  
@@ -2630,7 +2637,7 @@ seismologia - sismologi
 seisoa (seisahtaa) - be estasi  
 seisova (staattinen) - estasi di  
 seistä (seisoa) - lipa  
-seitsemän (7) - sete  
+seitsemän (7) - cheti  
 sekoitin - mishe gi  
 sekoittaa - mishe  
 seksi (sukupuolisuhde) - sekse  
@@ -2662,7 +2669,7 @@ seutu (maa, alue) - topo
 Seychellit - Seshel nesia  
 sianliha - goro nama  
 side (remmi) - fasha  
-siellä (tuolla) - pa u loka  
+siellä (tuolla) - na u loka  
 siemen - seme  
 siemen- - seme di  
 siemenjyvä - seme dane  
@@ -2711,7 +2718,7 @@ sisus (sisäpuoli) - in
 sisä- (sisäinen) - in di  
 sisällysluettelo - in liste  
 sisällyttää (sulkea sisäänsä) - fa in klus  
-sisällä (sisäpuolella) - pa in  
+sisällä (sisäpuolella) - na in  
 sisältö - in she  
 sisäsyntyinen - in jene di  
 sisäänkäynti - jin mun  
@@ -2876,7 +2883,7 @@ sääty (kasti) - jene klas
 söpö (suloinen) - kavai  
 ####T - T  
 taajuus (tiheys) - poli mar ta  
-taas (uudestaan) - pa re  
+taas (uudestaan) - na re  
 taateli - tamar  
 Tadžikistan - Tajiki  
 tahmainen (liimamainen) - glu di  
@@ -2997,7 +3004,6 @@ teokratia - deu krati
 teologia - deu logi  
 teoria - teori  
 teosofia - deu sofi  
-tera- - tera  
 terrorismi - teror sim  
 terroristi - teror sim ja  
 terve - salu  
@@ -3052,7 +3058,7 @@ toisiaan (toinen toistaan) - se kon
 toistaa - fa re  
 toisto - re  
 toivoa - asha  
-toivoton - asha na di  
+toivoton - asha hin  
 toksiini - bio toksi  
 toksikologia (myrkkyoppi) - toksi logi  
 tomaatti - tomate  
@@ -3073,8 +3079,8 @@ trendi - fashon
 Trinidad ja Tobago - Trinidade e Tobago  
 trooppinen - garma zona di  
 tropiikki - garma zona  
-tsetta- - zeta  
 tuhat (kilo-) - kilo  
+tuhat triljoonaa (tsetta-) - zeta  
 tuhka - hui  
 tulehdus - flame  
 tulevaisuus - pos zaman  
@@ -3105,7 +3111,7 @@ tuomio - jude
 tuomita - juda  
 tuore (raikas) - taza  
 tuotanto - sana  
-tuottava (tuottelias) - sana di  
+tuottava (tuottelias) - sana ja di  
 tupakka - tabaku  
 tuplata (kertoa kahdella) - fa multi do du  
 turbaani - pagri  
@@ -3177,7 +3183,7 @@ ulko- (ulkoinen) - ekso di
 ulkoinen - do ekso  
 ulkomaa - ekso desha  
 ulkomaalainen - ekso desha di  
-ulkona (ulkopuolella) - pa ekso  
+ulkona (ulkopuolella) - ne ekso  
 ulkopuoli - ekso  
 ulkopuolinen - ekso jan  
 ulkosyntyinen - ekso jene di  
@@ -3206,7 +3212,7 @@ urheilija - esporte ja
 urheilu - esporte  
 uros (mies) - man  
 Uruguai - Uruguay  
-usein - pa poli mar  
+usein - na poli mar  
 usko (luottamus) - shin  
 uskoa (luottaa) - fa shin  
 uskonnollinen - din di  
@@ -3321,6 +3327,7 @@ venyttää (pingottaa) - fa ekso tense
 Venäjä - Rusia  
 venäläinen - rusia basha  
 verbi (teonsana) - karma loga  
+veretön - sange hin  
 verho (huntu, peite) - hijabu  
 verhot - parde  
 veri - sange  
@@ -3422,6 +3429,7 @@ vuono - fiorde
 vuori (mäki) - shan  
 vuosi - nen  
 vuosijuhla - nen festa  
+vuosisata - senta nen  
 vuotaa - lou  
 vuotaa verta - lou sang  
 vyö - zona  
@@ -3442,7 +3450,7 @@ väli - medi
 Välimeri - Geo Medi Hai  
 väline (instrumentti) - medi gi  
 välipala (naposteltava) - lili yam  
-välissä - pa medi  
+välissä - na medi  
 väri - rang  
 väriaine - rang mate  
 väsymys - fatige  
@@ -3497,7 +3505,7 @@ ylistää - halela
 ylittää (olla enemmän kuin) - be mas  
 ylittää - be supra  
 ylitys - supra  
-yllä (pääll) - pa supra  
+yllä (pääll) - na supra  
 yllätys - supriza  
 ylä- (yli-) - supra di  
 yläaste ja lukio - jung shula kan  
@@ -3528,13 +3536,14 @@ Zimbabwe - Zimbabue
 zirkonium - zirkonium  
 zombi - zombi  
 zulu - Zulu  
-äidinisä - ma di ba  
+äidillinen - ma di  
+äidinisä - ma su pa  
 äidinkieli - jene basha  
-äidinäiti - ma di ma  
+äidinäiti - ma su ma  
 äiti (emä) - ma  
 äitipuoli (isän puoliso) - vise ma  
 ällistyttää - fa ajibu  
-äsken (vasta, juuri) - pa nove  
+äsken (vasta, juuri) - na nove  
 äänestää - fa vote  
 ääni (äänestyksessä) - vote  
 ääni - soni  

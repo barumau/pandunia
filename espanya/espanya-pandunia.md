@@ -18,7 +18,7 @@ abrigo (chaqueta) - kote
 abril - mes chatre  
 abrir - fa kai  
 abuela - chin ma  
-abuelo - chin ba  
+abuelo - chin pa  
 aburrido - bori di  
 aburrimiento - bori  
 acacia de copa plana - helis babul  
@@ -85,7 +85,7 @@ agua - sui
 agua mineral - kuang sui  
 aguacate - avakate  
 agujero (hueco) - kong  
-ahora mismo (justo) - pa nove  
+ahora mismo (justo) - na nove  
 ahorrar (reservar, depositar) - banka  
 aire - air  
 ajedrez - shatrang  
@@ -122,7 +122,7 @@ algún - yo
 algún día (algún vez) - yo sate  
 alicate - pinse gi  
 alinear - be ging  
-allí (allá) - pa u loka  
+allí (allá) - na u loka  
 almendra - badam  
 almirante - hai amir ja  
 almohada - kushen  
@@ -520,7 +520,7 @@ califa - halifa
 califato - halifa desha  
 californio - kalifornium  
 caliza - kalse petra  
-calvo - sar kesha na di  
+calvo - sar kesha hin  
 cama (lecho) - bede  
 camarón - krevete  
 cambiar (demudar) - fa alo  
@@ -623,11 +623,13 @@ cemento - semente
 cena - sham yam  
 ceniza - hui  
 centellear (titilar) - fa sing foto  
+centenario - senta nen di  
 centi- (por ciento) - senti  
 central - jung di  
 centrar (concentrar) - fa jung  
 centrarse (en el centro de) - jung  
 centro - jung  
+centuria (siglo) - senta nen  
 centímetro - sentimitre  
 cepillar con garlopa - randa  
 cepillo (brocha) - brosh  
@@ -635,7 +637,8 @@ cepillo de dientes - dante brosh
 cera (lacre) - mum  
 cerca (casi, aproximadamente) - karibu  
 cerdo (puerco) - goro  
-cerebro - serebro  
+cerebral - nau di  
+cerebro - nau  
 Ceres (planeta enano) - Ceres  
 cereza - cheri  
 cerio - cerium  
@@ -675,7 +678,7 @@ chupar (succionar) - chupa
 cian - sian  
 ciclista - sikle ja  
 cielo - sama  
-cien (100) - sen  
+cien (100) - senta  
 ciencia (estudiar, investigar, -ología) - logi  
 ciencia política - politi logi  
 cigarro (cigarillo) - sigar  
@@ -766,8 +769,8 @@ compañía (empresa, corporación) - kompani
 competir - fa meche  
 completar (terminar) - pul fina  
 complot (conspiración) - sir plan  
-comportamiento (conducta) - manira  
-comportarse (portarse) - manira  
+comportamiento (conducta) - manera  
+comportarse (portarse) - manera  
 compota de manzanas - aple sos  
 comprador - shopi ja  
 comprar - fa shopi  
@@ -971,7 +974,7 @@ de (desde) - ze
 de (posposición de posesión) - da  
 de (posposición de posesión) - su  
 de lado - late  
-debajo - pa niche  
+debajo - na niche  
 debatir (discutir) - fa lon  
 deber (necesitar) - deve  
 deber (se recomienda) - sela  
@@ -1003,7 +1006,7 @@ demografía - demo grafi
 demonio - demon  
 demócrata - demo krati ja  
 dentista (odontólogo) - dante dava ja  
-dentro - pa in  
+dentro - na in  
 deporte - esporte  
 deportista - esporte ja  
 depurar - fa an galta  
@@ -1020,10 +1023,11 @@ desatascar - an tapa
 desayuno - suba yam  
 descanso (alivio) - shanti  
 descargar - nete gete  
+descerebrado - nau hin  
 descriptivo - sifa di  
-desdentado - dante na di  
+desdentado - dante hin  
 deseo - vol she  
-desesperado - asha na di  
+desesperado - asha hin  
 desfigurar - fa dus forma  
 desierto - arena topo  
 deslizar - glis  
@@ -1046,7 +1050,7 @@ dibujar (trazar) - grafi
 dibujo (diseño) - desen  
 diente - dante  
 dientes de león (panaderos) - makan hua  
-diez (10) - des  
+diez (deca-, 10) - des  
 diferencia - alo sifa  
 diferenciar (distinguir) - fa has  
 diferente - alo sifa di  
@@ -1129,7 +1133,7 @@ día de San Juan - Yohan festa
 día de semana - var  
 día festivo (feriado) - festa den  
 dígital - komputa di  
-dónde - pa ke  
+dónde - na ke  
 ####E - E  
 eco - mira sonde  
 ecología - eko logi  
@@ -1186,10 +1190,10 @@ emperador - imperi ja
 emplear (aplicar) - aplika  
 empresario - biznes ja  
 empujar (presionar) - pusha  
-en (a) - pa  
+en (a) - na  
 en el sentido contrario al las agujas del reloj - rota lefte  
 en el sentido del las agujas del reloj - rota raite  
-en línea - pa lin  
+en línea - na lin  
 encanto - charme  
 encarcelar (aprisionar) - fa prizon  
 encontrar - miti  
@@ -1216,7 +1220,7 @@ entender (comprender) - aha
 entero (todo) - holo  
 entrada - jin mun  
 entrar - be in  
-entre - pa medi  
+entre - na medi  
 entregar (enviar) - gung mise  
 entristecer (poner triste) - duka  
 enviar (transmitar) - mise  
@@ -1299,7 +1303,7 @@ estado (condición) - hal
 Estados Unidos de América - Unta Desh Da Amerika (UDA)  
 estadounidense - UDA di  
 estante (repisa) - lipa ban  
-estar al lado de - pa late  
+estar al lado de - na late  
 estar de pie - lipa  
 estar en contra - kontra  
 estaño - estan  
@@ -1333,6 +1337,7 @@ eviar por correo - fa posta
 evidente - ekso vide di  
 exacto (preciso) - juste  
 examinar (inspeccionar) - gencha  
+exangüe - sange hin  
 excavar - fa ekso kave  
 excelente - bon sifa di  
 excepto (menos) - ama min da  
@@ -1362,6 +1367,7 @@ falda - jupe
 falla (mal funcionamiento) - dus funsi  
 fallo (juicio, criterio) - jude  
 falso - false  
+faltar (sin) - hin  
 familia - famili  
 fan (-filo) - fili ja  
 fantasma - fantom  
@@ -1432,7 +1438,7 @@ Francia - France
 francio - francium  
 francotirador - juste pau ja  
 frecuencia - poli mar ta  
-frecuentemente - pa poli mar  
+frecuentemente - na poli mar  
 fresco - taza  
 fresno - yasen  
 frontera (límite, borde, periferia) - kinar  
@@ -1636,8 +1642,8 @@ hervirse (ser cocida) - be boli
 Hesse (Hessia) - Hese  
 heterorromántico - alo romanse di  
 heterosexual - alo sekse di  
-hexaedro (cubo) - sis fase  
-hexágono - sis gona  
+hexaedro (cubo) - luka fase  
+hexágono - luka gona  
 hidrógeno - hidro  
 hielo - ais  
 hierbabuena - zong minte  
@@ -1775,6 +1781,7 @@ inmigrante - in migra ja
 inmigrar - in migra  
 innato (endógeno) - in jene di  
 innecesario - no yau di  
+innominado - name hin  
 inodoro (wáter, retrete) - tualete  
 inquisitivo (curioso) - sabe vol ja  
 insecto - dudu  
@@ -2141,6 +2148,7 @@ matemática - hisabu logi
 matemático - hisabu logi ja  
 material - mate di  
 materialismo - mate lun  
+maternal - ma di  
 Mauricio - Moris  
 mauritania - Muritania  
 maya - maya  
@@ -2503,8 +2511,8 @@ orilla - hai kinar
 oriya - Odisa  
 ornitorrinco - bata krote  
 oro - auro  
-oromo - orom  
-Oromía - Orom Desha  
+oromo - oromo  
+Oromía - Oromo Desha  
 orquídea - orkide  
 ortogonal - orto gona di  
 oscuro - oskur  
@@ -2514,7 +2522,7 @@ oso - urso
 otitis - ore flame  
 otomana - osman  
 otoño - pade mosim  
-otra vez (de nuevo) - pa re  
+otra vez (de nuevo) - na re  
 otro - alo  
 oveja - meme  
 oxígeno - oksi  
@@ -2523,8 +2531,8 @@ oír (escuchar) - audi
 paciente - pati jan  
 pacifismo - pase sim  
 pacifista - pase sim ja  
-padrastro - vise ba  
-padre (papá) - ba  
+padrastro - vise pa  
+padre (papá) - pa  
 pagano (infiel) - kafir  
 pago - pei  
 Pakistán - Pakistan  
@@ -2608,6 +2616,7 @@ pasta - pasta
 pastel (galleta) - keke  
 pastel (pay) - pai  
 pastel de luna - luna keke  
+paternal - pa di  
 pato - bata  
 patología - pati logi  
 patrimonio (herencia, legado) - varis  
@@ -2634,7 +2643,7 @@ pegar - fa glu
 pegar - fa pei  
 peine - kanga  
 Pekín - Beijing  
-pelado (desvellado) - kesha na di  
+pelado (desvellado) - kesha hin  
 pelea (guerra, batalla) - jeng  
 peligro - hatar  
 peligroso - hatar di  
@@ -3149,7 +3158,7 @@ seda - silko
 seguir - fa pos  
 segundo - sekunde  
 seguro - sekur  
-seis (6) - sis  
+seis (6) - luka  
 selenio - selenium  
 sello postal - posta chape  
 semana - var var  
@@ -3191,7 +3200,7 @@ Siberia - Sibiria
 siempre - pan sata  
 sierra - sera  
 Sierra Leona - Salon  
-siete (7) - sete  
+siete (7) - cheti  
 sigilo - sir ta  
 significado (acepción) - mana  
 siguiente (trasero) - pos  
@@ -3206,7 +3215,7 @@ similar - sam sifa di
 simple - simple  
 simpático (amable, tierno, dulce) - dosti di  
 simular - fa sam sifa  
-sin - na  
+sin amigos - dosti hin  
 Singapur - Singapur  
 sino - alo  
 sintoísmo - shindau din  
@@ -3217,7 +3226,7 @@ sistema solar - sol sistem
 sistémico - sistem di  
 sitio web - netoloke  
 situación - she hal  
-sobre - pa supra  
+sobre - na supra  
 sobrepasar - be supra  
 sobrestimar -   
 social - sosi di  
@@ -3263,8 +3272,8 @@ Sudáfrica - Sude Afrika
 Sudán - Sudan  
 Sudán del Sur - Sude Sudan  
 Suecia - Sven  
-suegra - gami mama  
-suegro - gami baba  
+suegra - gami ma  
+suegro - gami pa  
 sueño - sona  
 sufijo - pos fikse  
 sufijo para regiónes y sustantivos abstractos - ya  

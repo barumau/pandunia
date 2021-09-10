@@ -37,7 +37,6 @@ ajila - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 akare - klescz (roztocze)  
 akasia - akacja  
 akse - oś  
-fa alo - zmienić (zmieniać)  
 Alaska - Alaska  
 alga - alga (wodorost)  
 alga fungu - porost  
@@ -84,8 +83,6 @@ an eskala - zejść (schodzić, zstąpić, zstępować)
 an icha ja - niechętny  
 an jami - rozproszyć, rozpraszać  
 an jami di - rzadki (rozrzedzony, rozproszony)  
-fa klus - zamknąć (zamykać)  
-klus - zamknięty  
 an karma ja - zdeaktywowany (wyłączony, zatrzymany)  
 an limite - nieskończoność  
 an memo - zapominać (zapomnieć)  
@@ -131,6 +128,9 @@ arbuza - arbuz
 Arcah - Abchazja  
 area - pole, powierzchnia  
 area - powierzchnia, region, teren  
+arena - piasek, piach  
+arena petra - piaskowiec  
+arena topo - pustynia  
 argente - srebro  
 Argentina - Argentyna  
 argon - argon  
@@ -155,7 +155,7 @@ asal di - źródłowy, początkowy, oryginalny
 asan - postawa ciała; asana  
 asar - rezult, wynik  
 asha - nadzieja, życzenie  
-asha na di - beznadziejny  
+asha hin - beznadziejny  
 Ashur - Aszur  
 Ashur desha - Asyria  
 asia - azjatycki  
@@ -188,7 +188,6 @@ avar - obrażenia (rana, krzywda)
 avar ja - krzywdzący (szkodliwy)  
 Azerbaijan - Azerbejdżan  
 ####B - B  
-ba - ojciec  
 babu - rozdział, sekcja  
 babuche - kapeć (papeć, bambosz)  
 bacha - dziecko (nieletni)  
@@ -205,7 +204,6 @@ baha din - bahaizm
 baha din ja - bahaista  
 Bahama - Bahamy  
 Bahrain - Bahrajn  
-baya - zatoka  
 baka - piec  
 baka fan - terakota  
 baka ja - piekarz  
@@ -254,22 +252,20 @@ barude - proch strzelniczy
 basa - wystarczający  
 basen - basen  
 basha - język; komunikacja; mówić  
+basha jinse - rodzaj gramatyczny  
 basha kanun - gramatyka  
 basha kanun di - gramatyczny  
 basha logi - językoznastwo  
-basha jinse - rodzaj gramatyczny  
 baske - kosz  
 baske bol - piłka do koszykówki (koszykówka)  
 bata - kaczka  
 bata krote - dziobak  
 bateri - bateria  
 bati - osiem (8)  
-kane - pręt, kij  
-kane kasa - klatka  
-kane pan - bagietka  
 bau - skarb; skrabiec  
 bau di - cenny  
 bau sheku - klejnot  
+baya - zatoka  
 bazar - rynek, bazar  
 bazar huru sim - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
@@ -283,6 +279,7 @@ be - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 be ais - marznąć (zamarznąć)  
 be ajibu - zachwycić się (być zachwyconym)  
 be bio mute - fermentować  
+be boi - dryfować (pływać, płynąć)  
 be boli - ugotować się, gotować się  
 be bum - eksplodować (wybuchnąć, wybuchać)  
 be chen - poprzedzić, poprzedzać  
@@ -371,9 +368,9 @@ bio jinse - płeć biologiczna
 bio logi - biologia (nauka o życiu)  
 bio mute di - sfermentowany  
 bio sana she - kompost  
+bio she - życie organiczne  
 bio sistem - biom  
 bio toksi - toksyna  
-bio she - życie organiczne  
 bir - piwo  
 bir kan - bar, knajpa  
 Bisau Ginia - Guinea Bissau  
@@ -400,10 +397,10 @@ Bolivia - Boliwia
 bomba - bomba  
 bon - dobry  
 bon darja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
-bon moral - cnota (moralność)  
-bon moral di - cnotliwy (prawy)  
 bon guste di - pyszny  
 bon mas she - dodatkowy  
+bon moral - cnota (moralność)  
+bon moral di - cnotliwy (prawy)  
 bon sifa di - wspaniały  
 bon sifa ta - cecha, atrybut, własność; -ość  
 bon sin di - obiecujący (dobrze wróżący)  
@@ -414,9 +411,8 @@ bori di - znudzony
 borium - bohr  
 boron - bor  
 Bosna e Hercegovina - Bośnia i Harcegowina  
-botel - butelka  
 Bote - Tybet  
-be boi - dryfować (pływać, płynąć)  
+botel - butelka  
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
 brauza program - poszukiwacz (badacz, eksplorator)  
 bravo - Odwarzny (  
@@ -427,9 +423,6 @@ briko - morela (śliwka)
 Britan - Zjednoczone Królestwo  
 brom - brom  
 brosh - szczotka  
-kafe rang - brązowy, koloru kawy  
-kafe alga - brunatnica  
-kafe salmon - pstrąg potokowy  
 Brunei - Brunei Darussalam  
 brus - rodzeństwo, brat lub siostra  
 bu! - bu!  
@@ -449,7 +442,6 @@ Burkina Faso - Burkina Faso
 bus - autobus, autokar  
 buste - biust  
 buta - but  
-Lung Desha - Bhutan  
 buton - klawisz, przycisk, przełącznik, guzik  
 buton ban - klawiatura  
 buyu - baobab  
@@ -497,14 +489,15 @@ cheng - warstwa (poziom, piętro, kondygnacja)
 cheri - wiśnia (czereśnia)  
 Chernagora - Czarnogóra  
 Cheska - Republika Czeska, Czechy  
+cheti - siedem (7)  
 Chile - Chile  
 chili - papryka  
 chili fun - papryka  
 chimpanzi - szympans  
 chin - rodzic (matka lub ojciec)  
-chin ba - dziadek (dziad)  
 chin brus ben - kuzyn  
 chin ma - babcia (babka)  
+chin pa - dziadek (dziad)  
 chinchila - szynszyla  
 ching - prosić  
 ching lai - zaprosić, zapraszać  
@@ -566,7 +559,7 @@ dante - ząb
 dante baluta - dąb zębaty  
 dante brosh - szczoteczka do zębów  
 dante dava ja - dentysta  
-dante na di - bezzębny  
+dante hin - bezzębny  
 dara mate - ciecz (płyn)  
 dara mate di - ciekły (płynny)  
 dara tubo - lejek  
@@ -794,7 +787,9 @@ europium - europ
 fa - zrobić (stworzyć, wykreować)  
 fa achar - kisić (marynować)  
 fa ajibu - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
+fa alo - zmienić (zmieniać)  
 fa an karma - deaktywować (wyłączyć, zatrzymać)  
+fa an zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa asar - poprowadzić do (doprowadzić do, powodować)  
 fa baze - zakładać (założyć, ustanowić)  
 fa bina - zbudować, budować, konstruować  
@@ -854,6 +849,7 @@ fa kino - ruszać, przenościć, zmieniać miejsce, inspirować
 fa klar - wyklarować (rozjaśnić)  
 fa klas - klasyfikować, kategoryzować  
 fa klon - klonować, repilikować  
+fa klus - zamknąć (zamykać)  
 fa koloni - kolonizować  
 fa komputa - policzyć, liczyć, przetwarzać dane  
 fa komun - dzielić (współdzielić)  
@@ -886,7 +882,6 @@ fa mol - zemleć (mleć, mielić)
 fa multi do du - podwajać (podwoić, pomnożyć przez dwa)  
 fa muzika - grać muzykę  
 fa name - nazwać, nazywać, wezwać, wzywać  
-fa an zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa node - zawiązywać (zawiązać węzeł)  
 fa nomer - liczyć  
 fa nomi - zarządzać (organizować, kierować)  
@@ -933,6 +928,7 @@ fa sahi - poprawić, poprawiać, prostować, korygować
 fa salam - pozdrowić, pozdrawiać  
 fa sam rai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 fa sam sifa - emulować (symulować, naśladować, modelować)  
+fa sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 fa sekur - chronić (ratować)  
 fa sense - czuć (poczuć, postrzegać, wykrywać)  
 fa sharti - wymagać, przewidywać  
@@ -1075,7 +1071,6 @@ forma - forma, kształt, morf
 forma so - morfem  
 forum - forum  
 foto - światło, oświetlenie  
-foto kane - pochochodnia (latarka)  
 foto di - jasny, świetlny  
 foto frike - polerować (szlifować)  
 foto gola - efekt halo  
@@ -1083,6 +1078,7 @@ foto grafi - zdjęcie (fotografia)
 foto grafi gi - kamera, aparat fotograficzny  
 foto grafi ja - fotograf  
 foto grafi shuta - fotografia  
+foto kane - pochochodnia (latarka)  
 foto minar - latarnia morska  
 foto radi - promień światła  
 foto so - foton  
@@ -1359,6 +1355,7 @@ hijabu - welon (woalka)
 hima - śnieg  
 hima rose - szron  
 Himalaya - Himalaje  
+hin - bez  
 Hindu - hinduistyczny  
 Hindu din - hinduizm  
 hisabu loge - konto  
@@ -1560,9 +1557,12 @@ Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)
 kade - dorsz  
 kadmium - kadm  
 kafe - kawa  
+kafe alga - brunatnica  
 kafe kan - kawiarnia  
 kafe kupa - filiżanka do kawy  
 kafe pote - imbryk do kawy  
+kafe rang - brązowy, koloru kawy  
+kafe salmon - pstrąg potokowy  
 kafir - niewierny (poganin, niewierzący)  
 kaguji - papier  
 kaguji limon - lima (limonka)  
@@ -1574,6 +1574,7 @@ kakau - kakao
 kala - czarny  
 Kalal - Grenlandia  
 kalam - pióro, długopis  
+kalam sui - tusz  
 kalenda - kalendarz  
 kali guste - gorzki  
 kali melon - przepękla ogórkowata (balsamka ogórkowata)  
@@ -1609,6 +1610,9 @@ kancha - szkło
 kancha daka - glazura (emalia)  
 kandela - kandela  
 kandi - cukierek, słodycze  
+kane - pręt, kij  
+kane kasa - klatka  
+kane pan - bagietka  
 kanga - grzebień  
 kangaru - kangur  
 kanjar - sztylet (puginał)  
@@ -1738,6 +1742,7 @@ klin - tendencja (być skłonnym)
 klon - klon, replika  
 klor - chlor  
 klube - klub  
+klus - zamknięty  
 kobalte - kobalt  
 koda - ogon  
 kode - kodować  
@@ -1987,15 +1992,16 @@ lotra - wydra
 lou - przeciekać, ciec  
 lou sang - krwawić  
 luka - zielony  
+luka - sześć (6)  
+luka fase - sześcian (kostka)  
+luka gona - sześciokąt (sześciobok)  
 luka melon - melon miodowy  
-sis - sześć (6)  
-sis fase - sześcian (kostka)  
-sis gona - sześciokąt (sześciobok)  
 Luksemburge - Luksemburg  
 lulu - perła  
 lun - dyskusja, debata, dyskurs  
 luna - księżyc  
 lung - smok  
+Lung Desha - Bhutan  
 lusun - szparag; szparagia  
 luta - obrabować, splądrować  
 luta ja - rabuś (grabieżca)  
@@ -2041,6 +2047,8 @@ man - męski
 man ben - syn  
 man raja - król  
 mana - znaczenie  
+manera - zachowanie (maniery, kultura)  
+manera - zachowywać się (działać)  
 manete - magnes  
 manete di - magnetyczny  
 mang - zajęty  
@@ -2051,8 +2059,6 @@ Mani - prorok Mani
 mani din - manicheizm  
 Manin nes - Wyspa Man  
 manioka - maniok  
-manira - zachowanie (maniery, kultura)  
-manira - zachowywać się (działać)  
 mantol - peleryna (płaszcz, opończa)  
 mantu - bułka gotowana na parze  
 mar - czas; okazja  
@@ -2219,7 +2225,6 @@ moka jang ja - stolarz
 moka jong parke - arboretum  
 moka mate - drewno  
 moka tana - pień  
-kalam sui - tusz  
 mol ja - młynarz  
 mol kan - mielić  
 mol sheku - ostrzarka (kamień młyński)  
@@ -2279,7 +2284,17 @@ muzika - muzyka
 muzika ja - muzyk  
 Myanma - Mjanma, Birma  
 ####N - N  
-na - bez  
+na - przy, z, na, w, u  
+na ke - gdzie  
+na late - być obok  
+na lin - online (na linii, w sieci)  
+na medi - między (wśród, pośród)  
+na niche - pod (poniżej)  
+na nove - właśnie, dopiero co, ostatnio, niedawno  
+na poli mar - często  
+na re - znowu (ponownie)  
+na supra - nad  
+na u loka - tu (tutaj, tam)  
 nabi - proroctwo  
 nabi ja - prorok  
 nadir mar - rzadko  
@@ -2290,6 +2305,7 @@ nahun - paznokieć
 Naijiria - Nigeria  
 nama - mięso  
 name - imię, nazwa  
+name hin - bezimienny  
 name kitabu - podpis (autograf)  
 name loga - rzeczownik  
 Namibia - Namibia  
@@ -2307,6 +2323,9 @@ nasi sosi sim - nazizm
 nasi sosi sim - narodowy socjalizm  
 nasi sosi sim ja - nazista  
 natre - sód  
+nau - mózg  
+nau di - mózgowy  
+nau hin - bezmózgi  
 Nauru - Nauru  
 nautile - nautilus  
 nava - nahuatl  
@@ -2360,6 +2379,7 @@ nitre - azot
 Niue - Niue  
 niuton - niuton (N)  
 no - nie  
+no na lin - offline (nie na linii, poza siecią)  
 no yau di - niepotrzebny  
 nobelium - nobel  
 nobi - genderqueer, niebinarny  
@@ -2370,9 +2390,9 @@ Noe di nave - arka Noego
 nomer - numer  
 nomi - zarządzanie (-nomia)  
 nong - uprawić, uprawiać  
-nong topo - wieś, tereny wiejskie  
 nong ja - rolnik, farmer  
 nong nomi - agronomia  
+nong topo - wieś, tereny wiejskie  
 nong topo di - wiejski, rustykalny  
 norde - północ  
 Norde Aire - Irlandia Północna  
@@ -2436,8 +2456,8 @@ ore - ucho
 ore flame - zapalenie ucha  
 orgazme - orgazm  
 orkide - storczyk (orchidea)  
-orom - oromo  
-Orom Desha - Oromia  
+oromo - oromo  
+Oromo Desha - Oromia  
 orto - prosty  
 orto gona - kąt prosty  
 orto gona di - prostopadły  
@@ -2453,18 +2473,7 @@ oste jama - szkielet
 oste shalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
 ####P - P  
-pa - przy, z, na, w, u  
-pa ke - gdzie  
-pa late - być obok  
-pa lin - online (na linii, w sieci)  
-pa medi - między (wśród, pośród)  
-pa niche - pod (poniżej)  
-pa no lin - offline (nie na linii, poza siecią)  
-pa nove - właśnie, dopiero co, ostatnio, niedawno  
-pa poli mar - często  
-pa re - znowu (ponownie)  
-pa supra - nad  
-pa u loka - tu (tutaj, tam)  
+pa - ojciec  
 pade - paść, padać, upaść, upadać  
 pade di - upadły  
 pade mosim - jesień  
@@ -2751,9 +2760,6 @@ re - powtarzanie, powtórka
 re sikle - przetwarzać  
 rebel - rebelia, powstanie  
 redi - gotowy  
-arena - piasek, piach  
-arena topo - pustynia  
-arena petra - piaskowiec  
 rengenium - roentgen  
 renium - ren  
 reporte - raport  
@@ -2888,12 +2894,11 @@ sama hal - pogoda
 sama kinar - horyzont  
 samarium - samar  
 Samoa - Samoa  
-fa sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
+sana - produkcja  
 sana basha - język sztuczny  
 sana di - sztuczny  
-sana di - produktywny (żyzny)  
 sana ja - twórca, kreator, czynnik  
-sana - produkcja  
+sana ja di - produktywny (żyzny)  
 sanduiche - kanapka  
 sanduku - pudło, skrzynia  
 sange - krew  
@@ -2911,9 +2916,9 @@ sapatu - but
 sapatu ja - szewc  
 sapatu kan - warsztat szewski  
 sar - głowa  
+sar hin - bezgłowy  
 sar kaske - hełm  
 sar kesha - włosy  
-sar na di - bezgłowy  
 sar oste - czaszka  
 sata - moment  
 sata di - chwilowy  
@@ -2946,12 +2951,13 @@ seme - ziarno (nasienie)
 seme dane - ziarno, nasienie  
 seme di - nasienny  
 semente - cement  
-sen - sto (100)  
 sene - wiek  
 Senegal - Senegal  
 sense - zmysł  
 sense gi - sensor (detektor, czujka)  
 sense shaka - macka (czułek)  
+senta - sto (100)  
+senta nen - stulecie  
 sentaure - chaber  
 senti - centy-, procent, na sto, setna część  
 sentimitre - centymetr  
@@ -2959,14 +2965,12 @@ sera - piła
 serami - ceramika  
 serami sing - houstonia  
 Serbia - Serbia  
-serebro - mózg  
 serpe - wąż  
 serva - służyć  
 serve - służba  
 serve ja - sługa  
 sesam - sezam  
 Seshel nesia - Seszele  
-sete - siedem (7)  
 shaka - gałąź, konar  
 shakal - szakal  
 shal - szal, szalik  
@@ -3270,8 +3274,8 @@ Timor - Timor
 ting - stop; przerwa, zatrzymanie  
 tipe - typ (rodzaj, gatunek)  
 tire - ciągnąć  
-tire kane - dźwignia  
 tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
+tire kane - dźwignia  
 tire sanduku - szuflada  
 tire yo milke - wydoić, doić  
 tire yo pil - obrać (obierać)  
@@ -3502,7 +3506,6 @@ yong liga - fuzja (amalgamowanie, łączenie)
 yong petra - lawa  
 yong safa - topić (upłynnić, upłynniać)  
 Yoruba - Joruba  
-yota - milion  
 yumor - humor  
 yumor di - humorystyczny, śmieszny, zabawny, komiczny  
 yumor ja - komik  

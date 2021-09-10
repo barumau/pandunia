@@ -17,7 +17,6 @@ Afgan - Afghanistan
 Afrika - Africa  
 agile - agile  
 agresi - attack (assault, aggression, hostility)  
-fa agresi - attack (assault)  
 agresi ja - aggressor  
 agresi tabi - aggressive  
 aha - understand (realize)  
@@ -43,7 +42,6 @@ ajila - hurry (hasten)
 akare - tick (mite)  
 akasia - acacia  
 akse - axis (axle)  
-fa alo - change (make different)  
 Alaska - Alaska  
 alga - alga  
 alga fungu - lichen  
@@ -97,8 +95,6 @@ an eskala - get off (descend)
 an icha ja - reluctant  
 an jami - disperse (spread out, scatter)  
 an jami di - sparse (scattered)  
-fa klus - close (shut)  
-klus - closed  
 an karma ja - off (deactivated, disabled)  
 an kode - decode (decrypt)  
 an limite - infinity  
@@ -148,11 +144,14 @@ arbuza - watermelon
 Arcah - Artsakh  
 area - area (extent of surface)  
 area - area (region)  
+arena - sand  
+arena estade - arena (stadium with a sand floor)  
+arena petra - sandstone  
+arena topo - desert  
 argente - silver  
 Argentina - Argentina  
 argon - argon  
 argu - argument (rationale, grounds)  
-fa argu - argue (assert, prove, clarify)  
 Ariel - Ariel  
 arka - bow (arch, arc)  
 arka chati - vault (arched ceiling or roof)  
@@ -175,7 +174,7 @@ asal di - original (authentic)
 asan - posture (asana)  
 asar - effect (impact, impression, result, outcome)  
 asha - hope (wish)  
-asha na di - hopeless  
+asha hin - hopeless  
 Ashur - Assur  
 Ashur desha - Assyria  
 asia - Asian  
@@ -200,7 +199,6 @@ audi - hear (listen)
 auro - gold  
 Australia - Australia  
 Austronesia - Austronesia  
-fa auto - personalize (customize)  
 auto - self (identity)  
 auto di - personal (intimate, private, custom)  
 auto krati - autocracy (monarchy)  
@@ -215,9 +213,6 @@ avar ja - harmful (damaging)
 ave - oat  
 Azerbaijan - Azerbaijan  
 ####B - B  
-ba - father (dad, papa)  
-ba di ba - paternal grandfather  
-ba di ma - paternal grandmother  
 babu - chapter (section)  
 babuche - slipper  
 babul - thorn tree (acacia, wattle)  
@@ -237,7 +232,6 @@ baha din - Baha'ism
 baha din ja - Baha'ist  
 Bahama - Bahamas  
 Bahrain - Bahrain  
-baya - bay (gulf)  
 bai - lose (be defeated)  
 baka - bake  
 baka fan - terracotta  
@@ -289,22 +283,20 @@ barude - gunpowder
 basa - enough (sufficient)  
 basen - pool (basin, bowl)  
 basha - speak (talk, language, communication)  
+basha jinse - grammatical gender  
 basha kanun - grammar  
 basha kanun di - grammatical  
 basha logi - linguistics  
-basha jinse - grammatical gender  
 baske - basket (basketball hoop)  
 baske bol - basket ball  
 bata - duck  
 bata krote - platypus  
 bateri - battery  
 bati - eight (8)  
-kane - bar (pole, rod, shaft, staff, stick)  
-kane kasa - cage  
-kane pan - baguette  
 bau - treasure (valuables)  
 bau di - precious  
 bau sheku - gem (gemstone, jewel)  
+baya - bay (gulf)  
 bazar - market (bazaar)  
 bazar huru sim - market liberalism  
 baze - base (foundation)  
@@ -318,6 +310,7 @@ be - undergo (passivizing verb)
 be ais - freeze (get frozen)  
 be ajibu - wonder (be amazed)  
 be bio mute - ferment (leaven)  
+be boi - float (swim)  
 be boli - boil (be boiled)  
 be bum - explode (blow up)  
 be bum - explode  
@@ -428,9 +421,9 @@ bio laji - biowaste
 bio logi - biology (study of organic life)  
 bio mute di - fermented  
 bio sana she - compost  
+bio she - organism (living thing)  
 bio sistem - biome  
 bio toksi - toxin  
-bio she - organism (living thing)  
 bir - beer  
 bir kan - bar (pub, beer house)  
 Bisau Ginia - Guinea-Bissau  
@@ -460,10 +453,10 @@ Bolivia - Bolivia
 bomba - bomb  
 bon - good  
 bon darja - upgrade (level up)  
-bon moral - virtue (morals)  
-bon moral di - virtuous  
 bon guste di - delicious (yummy)  
 bon mas she - bonus  
+bon moral - virtue (morals)  
+bon moral di - virtuous  
 bon rai - approve  
 bon sifa di - excellent  
 bon sifa ta - excellence (quality, virtue)  
@@ -475,13 +468,12 @@ bori di - bored
 borium - bohrium  
 boron - boron  
 Bosna e Hercegovina - Bosnia and Herzegovina  
-botel - bottle  
 Bote - Tibet  
-be boi - float (swim)  
+botel - bottle  
 Brahma - Brahma  
 brauza - explore (browse)  
-brauza program - explorer  
 brauza gi - browser  
+brauza program - explorer  
 bravo - brave (gallant, valiant)  
 bravo - bravo!  
 Brazavil - Brazzaville  
@@ -491,9 +483,6 @@ briko - apricot (plum, peach)
 Britan - United Kingdom  
 brom - bromine  
 brosh - brush  
-kafe rang - brown  
-kafe alga - brown algae  
-kafe salmon - brown trout  
 Brunei - Brunei Darussalam  
 brus - sibling (brother or sister)  
 brusben - nephew or niece  
@@ -519,7 +508,6 @@ Burkina Faso - Burkina Faso
 bus - bus  
 buste - bust (bosom)  
 buta - boot  
-Lung Desha - Bhutan  
 buton - key (push-button, switch)  
 buton ban - keyboard  
 buyu - baobab  
@@ -569,17 +557,18 @@ cheng bede - bunk bed
 cheri - cherry  
 Chernagora - Montenegro  
 Cheska - Czech Republic  
+cheti - seven (7)  
 Chile - Chile  
 chili - pepper (capsicum)  
 chili fun - paprika  
 chimpanzi - chimpanzee  
 chin - parent (mother or father)  
-chin ba - grandfather  
 chin brus ben - cousin  
 chin chin - grandparent  
 chin gam - step-parent  
 chin gam ben - step-sibling  
 chin ma - grandmother  
+chin pa - grandfather  
 chinchila - chinchilla  
 ching - request (petition)  
 ching - ask (request, beg, plead; please)  
@@ -645,7 +634,7 @@ dante - tooth
 dante baluta - daimyo oak  
 dante brosh - tooth brush  
 dante dava ja - dentist  
-dante na di - toothless  
+dante hin - toothless  
 dara - flow (current, stream)  
 dara mate - liquid  
 dara mate di - fluid (liquid)  
@@ -693,7 +682,7 @@ demon - demon
 den - day (24 hours)  
 den loge - diary (daily log)  
 deng - wait  
-des - ten (10)  
+des - ten (deca-, 10)  
 des kilo - ten thousand  
 desen - drawing (design)  
 desha - country (land, state)  
@@ -767,6 +756,7 @@ dosil - tame (docile, obedient)
 dosil jene di - domesticated  
 dosti - friend  
 dosti di - friendly (kind, nice, gentle)  
+dosti hin - friendless  
 dosti ta - friendship  
 dotor - doctor (scholar who has attained doctorate)  
 dotor ta - doctorate  
@@ -918,10 +908,15 @@ europium - europium
 ####F - F  
 fa - do  
 fa achar - pickle (preserve in vinegar or brine)  
+fa agresi - attack (assault)  
 fa ajibu - amaze  
+fa alo - change (make different)  
 fa an galta - debug  
 fa an karma - deactivate (disable, turn off)  
+fa an zai - remove (delete, dispose, erase)  
+fa argu - argue (assert, prove, clarify)  
 fa asar - effect (bring about)  
+fa auto - personalize (customize)  
 fa avar - harm (damage)  
 fa baze - found  
 fa bina - build (construct)  
@@ -999,6 +994,7 @@ fa kite - remove (take away)
 fa klar - clarify (clear up)  
 fa klas - classify (categorize)  
 fa klon - clone (replicate)  
+fa klus - close (shut)  
 fa koloni - colonize  
 fa komputa - compute (to process data)  
 fa komun - share  
@@ -1038,7 +1034,6 @@ fa muzika - play music
 fa najis - corrupt (pollute, soil, defile, stain, taint)  
 fa name - call (name)  
 fa nia - mean (intend)  
-fa an zai - remove (delete, dispose, erase)  
 fa node - tie a knot  
 fa nomer - count (enumerate)  
 fa nomi - manage (organize)  
@@ -1092,6 +1087,7 @@ fa sahi - correct (make right)
 fa salam - greet  
 fa sam rai - agree (concur)  
 fa sam sifa - emulate (simulate, mimic, model)  
+fa sana - produce (create, make)  
 fa sekur - protect (secure, save)  
 fa sela - advise (recommend)  
 fa sense - sense (perceive, detect)  
@@ -1250,7 +1246,6 @@ forma - form (shape, morph)
 forma so - morpheme  
 forum - forum (public space)  
 foto - light (illumination)  
-foto kane - torch  
 foto di - light (bright)  
 foto frike - polish  
 foto gola - halo (aureola)  
@@ -1258,6 +1253,7 @@ foto grafi - photograph
 foto grafi gi - camera  
 foto grafi ja - photographer  
 foto grafi shuta - photography  
+foto kane - torch  
 foto lin - optical fibre (optical cable)  
 foto mata di - matte (opaque)  
 foto minar - beacon (lighthouse)  
@@ -1319,12 +1315,12 @@ galte di - wrong (incorrect, erroneous, faulty)
 Gambia - Gambia  
 gamel - camel  
 gami - marriage (matrimony)  
-gami baba - father-in-law  
 gami ben - step-child  
 gami chin - parent-in-law  
 gami di - married  
 gami jan - spouse (husband or wife)  
-gami mama - mother-in-law  
+gami ma - mother-in-law  
+gami pa - father-in-law  
 gan - dry  
 gan chau - hay  
 gan mosim - dry season  
@@ -1574,6 +1570,8 @@ hijabu - veil (cover, screen)
 hima - snow  
 hima rose - frost  
 Himalaya - Himalayas  
+hin - lack (miss, be without)  
+hin di - lacking (-less)  
 Hindu - Hindu  
 Hindu basha - Hindi (Hindustani)  
 Hindu desh - Hindustan  
@@ -1806,9 +1804,12 @@ Kabu Verde - Cabo Verde (Cape Verde)
 kade - cod  
 kadmium - cadmium  
 kafe - coffee  
+kafe alga - brown algae  
 kafe kan - cafe (coffee shop)  
 kafe kupa - coffee cup  
 kafe pote - coffeepot  
+kafe rang - brown  
+kafe salmon - brown trout  
 kafir - infidel (pagan, heathen, unbeliever)  
 kaguji - paper (material)  
 kaguji limon - key lime  
@@ -1820,6 +1821,7 @@ kakau - cocoa
 kala - black  
 Kalal - Greenland  
 kalam - pen (writing tool)  
+kalam sui - ink  
 kalenda - calendar  
 kali - base (alkali)  
 kali - alkaline  
@@ -1863,6 +1865,9 @@ kancha - glass
 kancha daka - glazing (enamel)  
 kandela - candela  
 kandi - candy (sweets)  
+kane - bar (pole, rod, shaft, staff, stick)  
+kane kasa - cage  
+kane pan - baguette  
 kanga - comb  
 kangaru - kangaroo  
 kanjar - dagger  
@@ -1955,7 +1960,7 @@ kerne unta - nuclear fusion
 kerubi - cherub  
 kesha - hair  
 kesha bande - hairband (headband)  
-kesha na di - hairless  
+kesha hin - hairless  
 kesha sabun - shampoo  
 ketel - kettle  
 kiau - bridge  
@@ -2008,6 +2013,7 @@ klin - slope (tilt, slant, bias, inclination, tendency)
 klon - clone (replica)  
 klor - chlorine  
 klube - club  
+klus - closed  
 klus - close (shut)  
 kobalte - cobalt  
 koda - tail (coda)  
@@ -2281,16 +2287,17 @@ lotra - otter
 lou - leak  
 lou sang - bleed  
 luka - green  
+luka - six (6)  
+luka fase - hexahedron (cube)  
+luka gona - hexagon  
 luka melon - honeydew (green melon)  
-sis - six (6)  
-sis fase - hexahedron (cube)  
-sis gona - hexagon  
 Luksemburge - Luxembourg  
 lulu - pearl  
 lun - discussion (debate, discourse)  
 luna - moon  
 luna keke - mooncake  
 lung - dragon  
+Lung Desha - Bhutan  
 lung dou - winged bean  
 lusun - asparagus  
 luta - rob (loot, plunder, pillage, ransack)  
@@ -2300,8 +2307,9 @@ Luter din ja - Lutheran
 lutetium - lutetium  
 ####M - M  
 ma - mother (mom, mama)  
-ma di ba - maternal grandfather  
-ma di ma - maternal grandmother  
+ma di - motherly (maternal)  
+ma su ma - maternal grandmother  
+ma su pa - maternal grandfather  
 Madagasi - Madagascar  
 madagasi di - Malagasy  
 maf - pardon (forgiveness; sorry)  
@@ -2340,6 +2348,8 @@ man - male
 man ben - son  
 man raja - king  
 mana - meaning (signification)  
+manera - behavior (manners)  
+manera - behave (act)  
 manete - magnet  
 manete di - magnetic  
 mang - busy (occupied)  
@@ -2350,8 +2360,6 @@ Mani - prophet Mani
 mani din - Manichaeism  
 Manin nes - Isle of Man  
 manioka - cassava (manioc)  
-manira - behavior (manners)  
-manira - behave (act)  
 mantol - cape (cloak, mantle)  
 mantra - chant  
 mantra - mantra  
@@ -2534,7 +2542,6 @@ moka jang ja - carpenter
 moka jong parke - arboretum  
 moka mate - wood (timber)  
 moka tana - log (trunk)  
-kalam sui - ink  
 mol ja - miller  
 mol kan - mill  
 mol sheku - grindstone (millstone)  
@@ -2595,8 +2602,19 @@ muzika - music
 muzika ja - musician  
 Myanma - Myanmar (Burma)  
 ####N - N  
-na - without  
-na di - lacking (-less)  
+na - by (at, in, on)  
+na in - inside  
+na ke - where  
+na late - be beside (accompany)  
+na lin - online  
+na medi - among (amid, between)  
+na niche - under  
+na nove - just (recently)  
+na poli mar - often (frequently)  
+na re - again (repeatedly)  
+na supra - above (over)  
+na u loka - there  
+na vakil da - on behalf of  
 nabi - prophecy  
 nabi ja - prophet  
 nadir - rare (scarce, uncommon)  
@@ -2611,6 +2629,7 @@ najis bindu - stain (spot)
 najis di - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
 nama - meat (flesh)  
 name - name  
+name hin - nameless (unnamed, anonymous)  
 name kitabu - sign (autograph)  
 name loga - noun  
 Namibia - Namibia  
@@ -2630,6 +2649,9 @@ nasi sosi sim - national socialism
 nasi sosi sim ja - Nazi  
 natre - sodium  
 natre bilor - natron  
+nau - brain  
+nau di - cerebral  
+nau hin - brainless  
 Nauru - Nauru  
 nautile - nautilus  
 nava - Nahuatl (Nahua)  
@@ -2640,6 +2662,7 @@ nave kape ja - privateer (buccaneer)
 nave lefte - port (left side of a ship)  
 nave raite - starboard (right side of a ship)  
 nave shefe - captain  
+ne ekso - outside  
 Nederlande - Netherlands  
 Nederlande Antil - Netherlands Antilles  
 nefre - kidney  
@@ -2686,6 +2709,7 @@ nitre - nitrogen
 Niue - Niue  
 niuton - newton (N)  
 no - not (no)  
+no na lin - offline  
 no yau di - unnecessary (extraneous, unneeded)  
 nobelium - nobelium  
 nobi - genderqueer (non-binary)  
@@ -2700,10 +2724,10 @@ nong - cultivate (farm)
 nong bio logi - agrobiology  
 nong chun - rural village  
 nong di - agricultural  
-nong topo - countryside  
 nong ja - farmer  
 nong nomi - agronomy  
 nong shuta - agriculture  
+nong topo - countryside  
 nong topo di - rural (rustic)  
 norde - north  
 Norde Aire - Northern Ireland  
@@ -2774,8 +2798,8 @@ ore - ear
 ore flame - otitis  
 orgazme - orgasm  
 orkide - orchid  
-orom - Oromo (an Ethiopian ethnic group and language)  
-Orom Desha - Oromia  
+oromo - Oromo (an Ethiopian ethnic group)  
+Oromo Desha - Oromia  
 orto - straight  
 orto gona - right angle  
 orto gona di - orthogonal (perpendicular)  
@@ -2792,21 +2816,10 @@ oste jama - skeleton (frame)
 oste shalke - scute  
 Ostria - Austria  
 ####P - P  
-pa - by (at, in, on)  
-pa ekso - outside  
-pa in - inside  
-pa ke - where  
-pa late - be beside (accompany)  
-pa lin - online  
-pa medi - among (amid, between)  
-pa niche - under  
-pa no lin - offline  
-pa nove - just (recently)  
-pa poli mar - often (frequently)  
-pa re - again (repeatedly)  
-pa supra - above (over)  
-pa u loka - there  
-pa vakil da - on behalf of  
+pa - father (dad, papa)  
+pa di - fatherly (paternal)  
+pa su ma - paternal grandmother  
+pa su pa - paternal grandfather  
 pade - fall  
 pade di - fallen  
 pade mosim - autumn (fall)  
@@ -3135,10 +3148,6 @@ re zoku - continue (resume)
 Rea - Rhea  
 rebel - rebellion  
 redi - ready (prepared)  
-arena - sand  
-arena estade - arena (stadium with a sand floor)  
-arena topo - desert  
-arena petra - sandstone  
 rengenium - roentgenium  
 renium - rhenium  
 reporte - report  
@@ -3282,15 +3291,15 @@ sama hal - weather
 sama kinar - horizon  
 samarium - samarium  
 Samoa - Samoa  
-fa sana - produce (create, make)  
+sana - production  
 sana basha - artificial language (conlang)  
 sana di - artificial  
-sana di - productive (fertile)  
 sana ja - maker (manufacturer)  
-sana - production  
+sana ja di - productive (fertile)  
 sanduiche - sandwich  
 sanduku - box (chest)  
 sange - blood  
+sange hin - bloodless  
 sante - holy (sacred)  
 Sante Helena - Saint Helena  
 sante kanon - holy writ (sacred writings)  
@@ -3306,10 +3315,10 @@ sapatu - chaussure
 sapatu ja - shoemaker  
 sapatu kan - shoemaker's shop  
 sar - head  
+sar hin - headless  
 sar kaske - helmet  
 sar kesha - hair of the head  
-sar kesha na di - bald-headed  
-sar na di - headless  
+sar kesha hin - bald-headed  
 sar oste - skull  
 sata - moment (instant)  
 sata di - momentary  
@@ -3346,27 +3355,27 @@ seme - seed (semen)
 seme dane - seed (fertilized grain)  
 seme di - seminal  
 semente - cement  
-sen - hundred (100)  
 sene - age  
 sene di - aged  
 Senegal - Senegal  
 sense - sense (method of perception)  
 sense gi - sensor (detector)  
 sense shaka - tentacle (feeler)  
+senta - hundred (hecto-, 100)  
+senta nen - century  
+senta nen di - centenary  
 senti - centi- (per cent)  
 sentimitre - centimeter (cm)  
 sera - saw  
 serami - ceramic  
 serami sing - bluet  
 Serbia - Serbia  
-serebro - brain  
 serpe - snake (serpent)  
 serva - serve (give service)  
 serve - service  
 serve ja - servant  
 sesam - sesame  
 Seshel nesia - Seychelles  
-sete - seven (7)  
 shaka - branch (bough)  
 shakal - jackal  
 shal - scarf (shawl)  
@@ -3706,8 +3715,8 @@ Timor - Timor
 ting - stop  
 tipe - type (kind, genre)  
 tire - pull (draw, drag)  
-tire kane - lever  
 tire dara - rip current  
+tire kane - lever  
 tire sanduku - drawer  
 tire yo milke - milk (draw milk)  
 tire yo pil - strip (peel)  
@@ -3906,9 +3915,9 @@ Virjin nesia - Virgin Islands, US
 virus - virus  
 virus logi - virology  
 vise - vice (deputy, alternative, substitute, replacement)  
-vise ba - step-father  
 vise loga - pronoun  
 vise ma - step-mother  
+vise pa - step-father  
 vise prezidente - vice-president  
 vise raja - viceroy  
 Vishnu - Vishnu  

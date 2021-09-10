@@ -27,7 +27,6 @@ ais krem - glaciaĵo
 ajila - rapidigi  
 akasia - akacio  
 akse - akso  
-fa alo - ŝanĝi (aliigi)  
 alga - algo  
 alkol - alkoholo  
 alkol di - alkohola  
@@ -76,6 +75,8 @@ arane nete - araneaĵo
 arbuza - akvomelono  
 area - areo  
 area - ejo  
+arena - sablo  
+arena topo - dezerto  
 argente - arĝento  
 Argentina - Argentino  
 argon - argono  
@@ -88,7 +89,7 @@ asal Australia jan - aborigeno
 asal di - origina  
 asan - posteno  
 asha - esperi  
-asha na di - senespera  
+asha hin - senespera  
 asia - azia  
 Asia - Azio  
 askete - ascetiko  
@@ -110,7 +111,6 @@ avar - damaĝo
 avar ja - damaĝa  
 ave - aveno  
 ####B - B  
-ba - patro  
 babu - ĉapitro  
 babuche - pantoflo  
 bacha - infano  
@@ -163,8 +163,6 @@ baske - korbo
 bata - anaso  
 bateri - baterio (pilo)  
 bati - ok (8)  
-kane - stango  
-kane kasa - kaĝo  
 bau - trezoro  
 bau sheku - juvelo  
 bazar - merkato (bazaro)  
@@ -252,8 +250,8 @@ bori - enuo
 bori di - enui  
 borium - borio  
 boron - boro  
-botel - botelo  
 Bote - Tibeto  
+botel - botelo  
 Brahma - Bramo  
 bravo - brava  
 bravo - brave!  
@@ -261,7 +259,6 @@ Brazil - Brazilo
 briko - abrikoto (pruno)  
 brom - bromo  
 brosh - broso  
-kafe rang - bruna  
 brus - frato aŭ fratino  
 bucha - buĉi  
 bucha ja - buĉisto  
@@ -304,11 +301,12 @@ chen - antaŭe (pasinte)
 chen den - hieraū  
 chen zaman - pasinteco  
 chen zaman di - malnova  
+cheti - sep (7)  
 Chile - Ĉilio  
 chimpanzi - ĉimpanzo  
-chin ba - avo  
 chin brus ben - kuzo  
 chin ma - avino  
+chin pa - avo  
 chinchila - ĉinĉilo  
 ching - peti (bonvolu)  
 ching lai - inviti  
@@ -345,7 +343,7 @@ Danske desha - Danio
 dante - dento  
 dante brosh - dentbroso  
 dante dava ja - dentisto  
-dante na di - sendenta  
+dante hin - sendenta  
 darba - bati  
 darja mute - disvolvi  
 data - datumo  
@@ -410,6 +408,7 @@ dosha - kulpo
 dosha di - kulpa  
 dosti - amiko  
 dosti di - amika (bonkora)  
+dosti hin - senamika  
 dosti ta - amikeco  
 dotor - doktoro  
 dou - fabo aŭ pizo  
@@ -441,7 +440,6 @@ eglisa - preĝejo
 eko - naturo  
 ekore - sciuro  
 ekran - ekrano  
-eksa - eksa-  
 ekso - ekstero  
 ekso desha - fremda lando  
 ekso di - ekstera  
@@ -483,6 +481,7 @@ Europe Unta - Eŭropa Unio (EU)
 europium - eŭropio  
 ####F - F  
 fa - fari  
+fa alo - ŝanĝi (aliigi)  
 fa bina - konstrui  
 fa budi - kompreni  
 fa chape - presi  
@@ -549,6 +548,7 @@ fa safar - vojaĝi
 fa sahi - pravigi  
 fa salam - saluti  
 fa sam rai - samopinii (interkonsenti)  
+fa sana - produkti (fabriki)  
 fa shin - kreda  
 fa shofer - konduki  
 fa shopi - aĉeti  
@@ -625,13 +625,13 @@ forke - forko
 forma - formo  
 forum - forumo  
 foto - lumo  
-foto kane - torĉo  
 foto di - luma  
 foto gola - halo  
 foto grafi - foto  
 foto grafi gi - fotilo  
 foto grafi ja - fotisto  
 foto grafi shuta - fotografio  
+foto kane - torĉo  
 foto so - fotono  
 France - Francio  
 France krepe - franca krepo  
@@ -667,8 +667,8 @@ galte - eraro (miso)
 galte di - erara  
 gamel - kamelo  
 gami - geedzeco  
-gami baba - bopatro  
-gami mama - bopatrino  
+gami ma - bopatrino  
+gami pa - bopatro  
 gan - seka  
 gan putau - sekvinbero  
 gan tela - viŝilo  
@@ -797,6 +797,8 @@ hidro - hidrogeno
 hima - neĝo  
 hima rose - frosto  
 Himalaya - Himalajo  
+hin - sen (manki)  
+hin di - ne havanta (sen~a)  
 Hindu - hinduo  
 Hindu din - hinduismo  
 Hindu riu - Induso  
@@ -910,12 +912,14 @@ kafe - kafo
 kafe kan - kafejo  
 kafe kupa - kaftaso  
 kafe pote - kafeujo  
+kafe rang - bruna  
 kaguji - papero  
 kai - malferma  
 kaka - feko  
 kakau - kakao  
 kala - nigra  
 kalam - plumo  
+kalam sui - inko  
 kalenda - kalendaro  
 kali - alkaleca  
 kali guste - amara  
@@ -936,6 +940,8 @@ kanal - kanalo
 kanape - sofo  
 kancha - vitro  
 kandi - bombono  
+kane - stango  
+kane kasa - kaĝo  
 kangaru - kangaro  
 kanjar - ponardo  
 kano - kanuo (kanoto)  
@@ -980,7 +986,7 @@ kerne arme - kernarmilo
 kerne energi - kernenergio  
 kerne fizika - kernfiziko  
 kesha - haro  
-kesha na di - senhara  
+kesha hin - senhara  
 kesha sabun - ŝampuo  
 kiau - ponto  
 kilomitre - kilometro  
@@ -1144,9 +1150,9 @@ Mali - Malio
 man - viro  
 man raja - reĝo  
 mana - signifo  
+manera - maniero (konduto)  
 mang - okupata  
 mangan - mangano  
-manira - maniero (konduto)  
 mar - fojo  
 maraton - maratono  
 marche - promeni (marŝi)  
@@ -1228,7 +1234,6 @@ mitre - metro
 moka - arbo  
 moka jong parke - arboĝardeno  
 moka mate - ligno  
-kalam sui - inko  
 moli - jasmeno  
 moli hua chai - jasmenteo  
 moliden - molibdeno  
@@ -1260,8 +1265,15 @@ muzika - muziko
 muzika ja - muzikisto  
 Myanma - Birmo  
 ####N - N  
-na - sen (manki)  
-na di - ne havanta (sen~a)  
+na - ĉe (en, sur)  
+na ke - kie  
+na medi - inter  
+na nove - ĵus  
+na poli mar - ofte  
+na re - denove (ripete)  
+na supra - super  
+na u loka - tie  
+na vakil da - anstataŭ  
 nabi - profetaĵo  
 nadir - malofta  
 nadir mar - malofte  
@@ -1271,16 +1283,21 @@ nagar di - urba
 Naijiria - Niĝerio  
 nama - viando  
 name - nomo  
+name hin - sennoma  
 name loga - substantivo  
 Namibia - Namibio  
 nanas - ananaso  
 nasi medi - internacia  
 natre - natrio  
+nau - cerbo  
+nau di - cerba  
+nau hin - sencerba  
 nava - naūatla  
 nave - boato (ŝipo)  
 nave gou - boatumi  
 nave lefte - babordo  
 nave raite - tribordo  
+ne ekso - ekster  
 nefre - reno  
 nen - jaro  
 nen mes den - dato  
@@ -1350,16 +1367,7 @@ osmium - osmio
 osmos - osmozo  
 oste - osto  
 ####P - P  
-pa - ĉe (en, sur)  
-pa ekso - ekster  
-pa ke - kie  
-pa medi - inter  
-pa nove - ĵus  
-pa poli mar - ofte  
-pa re - denove (ripete)  
-pa supra - super  
-pa u loka - tie  
-pa vakil da - anstataŭ  
+pa - patro  
 pade mosim - aŭtuno  
 pai - torto  
 pake - pako  
@@ -1415,7 +1423,6 @@ pesa diske - monero
 peshe - fiŝo  
 peshe huke - fiŝhoko  
 peshe saide ja - fiŝkaptisto  
-peta - peta-  
 pete - ventro  
 petra - roko  
 piano - piano  
@@ -1489,8 +1496,6 @@ rasa sim ja - racisto
 re - ripetado  
 re sikle - recikligi  
 redi - preta  
-arena - sablo  
-arena topo - dezerto  
 rengenium - rentgenio  
 renium - renio  
 restorante - restaŭracio  
@@ -1558,18 +1563,18 @@ sam sekse di - samseksema
 sama - ĉielo  
 sama hal - vetero  
 samarium - samario  
-fa sana - produkti (fabriki)  
 sana basha - artefarita lingvo  
 sana ja - fabrikisto  
 sanduku - skatolo (kesto)  
 sange - sango  
+sange hin - sensanga  
 sante - sankta  
 sapatu - ŝuo  
 sapatu ja - ŝuisto  
 sapatu kan - ŝuistejo  
+sar hin - senkapa  
 sar kaske - kasko  
 sar kesha - kaphararo  
-sar na di - senkapa  
 sata - momento  
 sata di - momenta  
 sauna - saŭno  
@@ -1586,14 +1591,14 @@ selu - ĉelo
 selu logi - citologio  
 seme - semo  
 seme di - sema  
-sen - cent  
 sene - aĝo  
 sense - sentumo  
+senta - cent  
+senta nen - jarcento (centjaro)  
+senta nen di - centjara  
 senti - centono  
 Serbia - Serbio  
-serebro - cerbo  
 serpe - serpento  
-sete - sep (7)  
 shaka - branĉo  
 shal - koltuko  
 sham - vespero  
@@ -1657,6 +1662,7 @@ sina kasa - torako
 sing - stelo  
 singa - leono  
 Singapur - Singapuro  
+siro - nul  
 sismologi - sismologio  
 sistem - sistemo  
 sita - citi  
@@ -1836,9 +1842,9 @@ vin suan - vinagro
 virje - virgulo  
 virje di - virga  
 vise - vic-  
-vise ba - vicpatro  
 vise loga - pronomo  
 vise ma - vicpatrino  
+vise pa - vicpatro  
 Vishnu - Viŝnuo  
 vol - voli  
 vol she - volo  

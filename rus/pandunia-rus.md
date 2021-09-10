@@ -22,7 +22,6 @@ ajila - спешить
 akare - клещ (лепта)  
 akasia - акация  
 akse - ось  
-fa alo - изменять  
 alga - водоросли  
 alga fungu - лишай  
 alga jangal - лес водорослей  
@@ -57,8 +56,8 @@ arane - паук
 arane nete - паутина  
 arbuza - арбуз  
 area - площадь  
+arena estade - арена  
 argu - аргумент (обосновани)  
-fa argu - аргументи́ровать  
 arka - лук (арка)  
 arka chati - свод  
 arka ja - лучник  
@@ -71,7 +70,7 @@ asal Amerka jan - инде́йский
 asan - поза  
 asar - эффект  
 asha - надеяться (чаять)  
-asha na di - безнадёжный  
+asha hin - безнадёжный  
 asma - астма  
 aspirin - аспирин  
 astro - небесное тело  
@@ -88,7 +87,6 @@ auto loga - монолог
 avar - повреждение (авария)  
 ave - овёс  
 ####B - B  
-ba - отец (папа)  
 babu - глава  
 babul - вахелия  
 bacha - ребёнок  
@@ -127,8 +125,6 @@ basha jinse - род в грамматике
 baske bol - баскетбол  
 bateri - батарея  
 bati - восемь (8)  
-kane - штанга  
-kane kasa - клетка  
 bau - сокровище (казна)  
 bau di - драгоценный  
 bau sheku - драгоценный камень  
@@ -137,6 +133,7 @@ baze - основа (база,  фундамент)
 baze bol - бейсбол  
 baze shula kan - семилетка  
 be bio mute - заквасить  
+be boi - плавать  
 be bum - взрываться  
 be bum - взрываться  
 be dura - длиться  
@@ -169,9 +166,9 @@ bio - органический
 bio jinse - биологический пол  
 bio logi - биология  
 bio sana she - компост  
+bio she - организм  
 bio sistem - биом  
 bio toksi - токсин  
-bio she - организм  
 bir - пиво  
 biskute - печенье (бисквит)  
 biznes - предприятие (бизнес)  
@@ -187,16 +184,12 @@ bomba - бомба
 bon - хороший  
 bon sin di - благоприятный  
 botel - бутылка  
-be boi - плавать  
 Brahma - Брахма  
 brauza - исследовать  
-brauza program - исследователь  
 brauza gi - браузер  
+brauza program - исследователь  
 bravo - браво  
 briko - абрикос (слива)  
-kafe rang - коричневый  
-kafe alga - бурые водоросли  
-kafe salmon - кумжа  
 bu! - бу  
 bubu - бука  
 bucha ja - мясник  
@@ -228,9 +221,10 @@ chen den - вчера
 chen zaman di - старый (древний)  
 cheng bede - двухъярусная кровать  
 cheri - черешня  
+cheti - семь (7)  
 chili - перец (паприка)  
-chin ba - дедушка  
 chin ma - бабушка  
+chin pa - дедушка  
 ching - просить  
 chini - фарфор  
 chira - рвать  
@@ -256,7 +250,7 @@ dang gi - звонок
 danse - танец  
 Danske - датский  
 dante baluta - дуб зубчатый  
-dante na di - беззубый  
+dante hin - беззубый  
 dara tubo - воронка  
 darja mute - развитие  
 data - данные  
@@ -347,6 +341,8 @@ eu loga - панегирик
 europe baluta - дуб черешчатый  
 ####F - F  
 fa - делать  
+fa alo - изменять  
+fa argu - аргументи́ровать  
 fa bina - строить  
 fa dante - откусить  
 fa dika - целиться  
@@ -535,6 +531,7 @@ hema - палатка (шатёр)
 hero - герой  
 Hese - Гессен  
 hijabu - вуаль  
+hin - без  
 Hindu desh - Индостан  
 hindu raja - раджа  
 Hindu riu - Инд  
@@ -612,12 +609,16 @@ ka - чем
 kababu nama - кебаб  
 kaboga - тыква  
 kafe - кофе  
+kafe alga - бурые водоросли  
 kafe kan - кафе (кофейня)  
 kafe pote - кофейник  
+kafe rang - коричневый  
+kafe salmon - кумжа  
 kaguji - бумага  
 kaguji limon - лайм  
 kala - чёрный  
 kalam - ручка  
+kalam sui - чернила  
 kalenda - календарь  
 kali - щёлочь  
 kali guste - горький  
@@ -638,6 +639,8 @@ kanape - канапе
 kancha - стекло  
 kancha daka - глазурь  
 kandi - конфета  
+kane - штанга  
+kane kasa - клетка  
 kangaru - кенгуру  
 kanjar - кинжал  
 kankuate - кумкват (кинкан)  
@@ -670,7 +673,7 @@ kave - яма
 ke - что  
 ke riti - как  
 Keme - Древний Египет  
-kesha na di - безволосый  
+kesha hin - безволосый  
 kimi - вещество  
 kimi logi - химия  
 kimi so - химический элемент  
@@ -801,7 +804,7 @@ long tire - вытянуть
 lotra - выдра  
 lou - протекать (просочиться)  
 luka - зелёный  
-sis - шесть (6)  
+luka - шесть (6)  
 luna - луна  
 luna keke - лунный пирог  
 luta ja - грабитель  
@@ -809,6 +812,7 @@ Luter din - лютера́нство
 Luter din ja - лютеранский  
 ####M - M  
 ma - мать (мама)  
+ma di - материнский  
 magesium - магний  
 magi ja - чародей (маг)  
 Magribi desha - Марокко  
@@ -818,9 +822,9 @@ majenta - маджента (фуксия)
 makan hua - одуванчик  
 mal nomi - экономика  
 man raja - король  
+manera - поведение (манера)  
 mang - занятый  
 mani din - манихейство  
-manira - поведение (манера)  
 mantol - плащ (накидка)  
 mantra - мантра  
 mar - раз  
@@ -889,7 +893,6 @@ mitre - метр
 moka - дерево  
 moka ban - доска (планка)  
 moka tana - бревно  
-kalam sui - чернила  
 mol kan - мельница  
 mol sheku - жёрнов  
 moli - жасмин  
@@ -910,10 +913,14 @@ muskul bina - культуризм
 musli - мюсли  
 muzika - музика  
 ####N - N  
+na - в (на)  
+na lin - онлайн  
+na poli mar - часто  
 nadir - редкий  
 nadir mar - редко  
 najis - грязь (скверна)  
 nama - мясо  
+name hin - безымянный  
 name kitabu - подписать  
 nanas - ананас  
 nardi - нарды (триктрак)   
@@ -921,6 +928,9 @@ nasi - нация
 nasi medi - междунаро́дный  
 natre - натрий  
 natre bilor - натрит (натр, натрон, кристаллическая сода)  
+nau - мозг  
+nau di - мозговой (церебральный)  
+nau hin - безмозглый  
 nautile - наутилид  
 nave - лодка (бот)  
 nave lefte - левый борт  
@@ -972,9 +982,8 @@ osidian - обсидиан
 osmos - осмос  
 oste jama - скелет (остов)  
 ####P - P  
-pa - в  
-pa lin - онлайн  
-pa poli mar - часто  
+pa - отец (папа)  
+pa di - отеческий  
 pade di - упавший  (падший)  
 pade mun - лаз  
 pagri - чалма  
@@ -1002,6 +1011,7 @@ parke - парк
 parne - папоротник  
 pas loga - пароль  
 pase hai kade - тихоокеанская треска  
+pase sim - пацифизм  
 pasi - боль  
 pasi di - болезненный  
 pasporte - паспорт  
@@ -1091,7 +1101,6 @@ ratibu - установка
 ratibu di - организованный (порядок)  
 re - повторение  
 re sikle - рециркулировать  
-arena estade - арена  
 reste - остаток  
 retro gula - рвать (изрыга́ть)  
 retro gula sense - тошнота  
@@ -1145,12 +1154,13 @@ sama kinar - горизонт
 sanduiche - сандвич  
 sanduku - сундук  
 sange - кровь  
+sange hin - бескровный  
 sante kanon - священное писание  
 sapatu - туфля  
 sar - голова  
+sar hin - безголовый  
 sar kesha - волосы  
-sar kesha na di - лысый  
-sar na di - безголовый  
+sar kesha hin - лысый  
 sata - момент  
 sata di - моментальный (минутный)  
 Saturne - Сатурн  
@@ -1164,15 +1174,16 @@ selu logi - цитология
 seme - семя  
 seme di - семенной  
 semente - цемент  
-sen - сто  
 sene - возраст  
 sense - чувство  
 sense shaka - щупальце  
+senta - сто  
+senta nen - столетие  
+senta nen di - столетний  
 sentaure - василёк  
 sera - пила  
 serami - керамика  
 sesam - сезам  
-sete - семь (7)  
 shalke - чешуя  
 sham - вечер  
 shaman - шаман  
@@ -1232,6 +1243,7 @@ sim - идеология
 sina plate - нагрудник  
 sing - звезда  
 sir plan - заговор (сговор)  
+siro - нуль (зеро)  
 Slave - славянский  
 so - элемент  
 sofa - софа (диван, канапе)  
@@ -1309,8 +1321,8 @@ tese - довод
 teste - проба (тест)  
 tikete - билет  
 tim - команда  
-tire kane - рычаг  
 tire dara - отбойное течение  
+tire kane - рычаг  
 tire yo milke - тянуть  
 tire yo pil - ободрать  
 tisa - девять (9)  
@@ -1382,8 +1394,8 @@ violeta blu - фиолетовый (пурпурный)
 virje - девственник  
 virus - вирус  
 virus logi - вирусология  
-vise ba - отчим  
 vise ma - мачеха  
+vise pa - отчим  
 vise raja - вице-король  
 Vishnu - Вишну  
 viza - виза  

@@ -21,7 +21,6 @@ ais hoki - 冰球
 ais krem - 冰淇淋  
 akare - 蜱 (螨)  
 akse - 轴线  
-fa alo - 改變  
 alga - 藻类  
 alga fungu - 地衣  
 alga jangal - 海藻林  
@@ -67,7 +66,7 @@ arte ja - 美术家
 asal - 起源  
 asal di - 原始的  
 asar - 影响  
-asha na di - 没有希望的  
+asha hin - 没有希望的  
 asma - 气喘  
 aspirin - 阿司匹林  
 astro - 天体  
@@ -82,9 +81,6 @@ Austronesia - 南岛
 auto loga - 独白  
 ave - 燕麦  
 ####B - B  
-ba - 爸爸  
-ba di ba - 爷爷 (祖父)  
-ba di ma - 奶奶 (祖母)  
 babu - 章  
 bacha - 小孩  
 badam - 杏仁 (巴旦木)  
@@ -114,13 +110,12 @@ banya kamar - 浴室
 bari fon - 重音符号  
 basa - 够  
 basha - 语言  
-basha logi - 语言学  
 basha jinse - 文法的性  
+basha logi - 语言学  
 baske bol - 篮球  
 bata - 鸭  
 bateri - 电池  
 bati - 八 (8)  
-kane kasa - 笼  
 bau di - 宝贵  
 bau sheku - 宝石  
 bazar - 市场  
@@ -129,6 +124,7 @@ baze bol - 棒球
 baze shula kan - 小学  
 be ais - 结冰  
 be bio mute - 发酵  
+be boi - 漂浮  
 be fatige - 疲劳  
 be fobi - 害怕  
 be hogo - 烧  
@@ -155,9 +151,9 @@ bina plan - 建筑学
 bina plan ja - 建筑师  
 bio jinse - 生物性別  
 bio logi - 生物学  
+bio she - 生物  
 bio sistem - 生物群系  
 bio toksi - 毒素  
-bio she - 生物  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 blu - 蓝色  
@@ -174,11 +170,8 @@ bon moral - 道德
 bon sin di - 吉利的  
 bon vide di - 好看  
 botel - 瓶  
-be boi - 漂浮  
 Brahma - 梵天  
 briko - 杏子 (李子)  
-kafe rang - 棕色 (色)  
-kafe salmon - 褐鳟  
 bubu - 魔鬼  
 bucha ja - 屠夫  
 bucha kan - 屠宰场  
@@ -206,6 +199,7 @@ chen den - 昨日
 chen zaman di - 古老 (以前)  
 cheng - 层  
 cheng bede - 双层床  
+cheti - 七 (7)  
 chili - 菜椒  
 chili fun - 辣椒粉  
 ching - 请  
@@ -246,6 +240,7 @@ defa ban - 盾牌
 defa kaske - 盔甲  
 den - 日 (天)  
 den loge - 日记  
+des - 十  
 desha jan - 公民  
 deu - 神  
 deu kata - 神话  
@@ -305,6 +300,7 @@ eu anjil - 福音
 europe baluta - 夏櫟  
 ####F - F  
 fa - 作  
+fa alo - 改變  
 fa bina - 建设  
 fa dante - 咬  
 fa dika - 瞄准  
@@ -550,10 +546,13 @@ kade - 鱈
 kafe - 咖啡  
 kafe kan - 咖啡馆  
 kafe pote - 咖啡壶  
+kafe rang - 棕色 (色)  
+kafe salmon - 褐鳟  
 kaguji - 纸  
 kaguji limon - 墨西哥萊檬  
 kala - 黑色  
 kalam - 笔  
+kalam sui - 墨水  
 kalenda - 日历  
 kali - 碱性  
 kali guste - 苦的  
@@ -574,6 +573,7 @@ kanape - 沙发
 kancha - 玻璃  
 kancha daka - 釉  
 kandi - 糖果  
+kane kasa - 笼  
 kangaru - 袋鼠  
 kankuate - 金柑  
 kanon - 经典  
@@ -604,7 +604,7 @@ kechi - 客气
 keka ja - 客人  
 Keme - 古埃及  
 kerne - 核心  
-kesha na di - 无毛  
+kesha hin - 无毛  
 kiau - 桥  
 kimi - 物质  
 kimi logi - 化学  
@@ -727,7 +727,7 @@ long tire - 拉
 lotra - 獭  
 lou - 漏  
 luka - 绿色  
-sis - 六 (6)  
+luka - 六 (6)  
 lun - 论  
 luna keke - 月饼  
 lung - 龙  
@@ -736,8 +736,8 @@ luta - 掠夺
 luta ja - 强盗  
 ####M - M  
 ma - 妈妈  
-ma di ba - 外公 (外祖父)  
-ma di ma - 外婆 (外祖母)  
+ma su ma - 外婆 (外祖母)  
+ma su pa - 外公 (外祖父)  
 magesium - 镁  
 magi ja - 魔法师  
 magi liki - 魔力  
@@ -747,9 +747,9 @@ makan hua - 蒲公英
 mal nomi - 经济学  
 man raja - 王  
 mana - 意义  
+manera - 方式  
 mang - 忙  
 mani din - 摩尼教  
-manira - 方式  
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
@@ -810,7 +810,6 @@ moka ban - 木板
 moka jang ja - 木匠  
 moka mate - 木材  
 moka tana - 原木  
-kalam sui - 墨水  
 mol kan - 磨坊  
 mol sheku - 磨石  
 mole - 摩尔 (单位)  
@@ -831,11 +830,18 @@ muskul bina - 健美运动
 musli - 木斯里 (瑞士麦片)  
 muzika - 音乐  
 ####N - N  
+na - 在  
+na lin - 在线  
+na poli mar - 经常  
 nadir mar - 很少  
 najis - 污染物  
 nama - 肉  
+name - 名  
+name hin - 无名  
 name kitabu - 签署  
 nasi medi - 国际  
+nau - 脑  
+nau di - 大脑的  
 nautile - 鹦鹉螺  
 nave - 船 (艇)  
 nave lefte - 左舷  
@@ -851,6 +857,7 @@ nilon - 尼龙
 Nipon - 日本  
 nish - 壁龛  
 no - 不  
+no na lin - 离线  
 noche - 夜  
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
@@ -881,10 +888,9 @@ oselote - 虎貓
 osidian - 黑曜岩  
 oste jama - 骨骼  
 ####P - P  
-pa - 在  
-pa lin - 在线  
-pa no lin - 离线  
-pa poli mar - 经常  
+pa - 爸爸  
+pa su ma - 奶奶 (祖母)  
+pa su pa - 爷爷 (祖父)  
 pagri - 包头  
 pai - 馅饼  
 pan demo pati - 大流行病  
@@ -1030,9 +1036,9 @@ sange - 血
 sante kanon - 圣经  
 sapatu - 鞋  
 sar - 头  
+sar hin - 无头的  
 sar kesha - 头发  
-sar kesha na di - 秃头的  
-sar na di - 无头的  
+sar kesha hin - 秃头的  
 sata - 时刻 (瞬间)  
 Saturne - 土星  
 saur - 蜥蜴  
@@ -1043,13 +1049,13 @@ selu logi - 细胞学
 seme - 种  
 seme dane - 种子  
 seme di - 种子的  
-sen - सौ  
 sene - 年岁  
 sense - 感觉  
 sense shaka - 觸手  
+senta - 百  
+senta nen - 世纪  
 sera - 锯子  
 serami - 陶瓷  
-sete - 七 (7)  
 shalke - 鳞  
 sham - 晚上  
 shanghai - 上海  
@@ -1102,6 +1108,7 @@ sili tika - 连结
 silko - 丝绸  
 sing - 星  
 sir plan - 阴谋 (密谋)  
+siro - 零 (〇)  
 sofa - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
@@ -1228,8 +1235,8 @@ vide - 看
 vidou - 寡妇  
 vijin - 味精  
 virje - 处女  
-vise ba - 继父  
 vise ma - 继母  
+vise pa - 继父  
 Vishnu - 毗湿奴  
 vode - 诺言  
 vol - 想要 (愿意)  

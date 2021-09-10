@@ -22,7 +22,6 @@ ais hoki - hóquei no gelo
 ais krem - sorvete (gelado)  
 ajibu - maravilha  
 akare - carrapato (ácaros)  
-fa alo - alterar  
 alga - alga  
 alga jangal - floresta de algas  
 alkol - álcool  
@@ -50,9 +49,9 @@ aplika - usar
 arane - aranha  
 arane nete - teia de aranha  
 arbuza - melancia  
+arena - areia  
 argente - prata  
 argu - argumento  
-fa argu - arguir  
 arka - arco  
 arka chati - abóbada  
 arme - arma  
@@ -64,7 +63,7 @@ asal - origem
 asal Amerka jan - indígena (índio)  
 asal di - original  
 asar - efeito  
-asha na di - desesperado  
+asha hin - desesperado  
 asma - asma  
 aspirin - aspirina  
 astro - astro (corpo celeste)  
@@ -81,14 +80,12 @@ auto loga - monólogo
 avar - dano (avaria)  
 ave - aveia  
 ####B - B  
-ba - pai  
 bacha - criança (menino)  
 badam - amêndoa  
 badan - corpo  
 bagaje - bagagem  
 bagre - tigre  
 bagre oselote - gato-do-mato (gato-maracajá-mirim)  
-baya - baía  
 baka fan - terracota  
 baka ja - padeiro  
 baku - branco  
@@ -115,16 +112,16 @@ baske bol - basketball
 bata - pato  
 bateri - pilha (bateria)  
 bati - oito (8)  
-kane - vara (bastão)  
-kane kasa - gaiola (jaula)  
 bau di - precioso  
 bau sheku - pedra preciosa (gema)  
+baya - baía  
 bazar - mercado (bazar)  
 baze - base  
 baze bol - basebol (beisebol)  
 baze shula kan - ensino primário  
 be ais - gelar  
 be bio mute - fermentar  
+be boi - nadar (flutuar)  
 be bum - explodir  
 be dura - durar  
 be ekso - sair  
@@ -154,9 +151,9 @@ bina plan - arquitetura
 bina plan ja - arquiteto  
 bio logi - biología  
 bio sana she - composto  
+bio she - organismo  
 bio sistem - bioma  
 bio toksi - toxina  
-bio she - organismo  
 bir - cerveja  
 biskute - biscoito  
 blu - azur  
@@ -170,12 +167,9 @@ bol - bola
 bomba - bomba  
 bon - bom  
 botel - garrafa (botelha)  
-be boi - nadar (flutuar)  
 bravo - bravo (valente, corajoso)  
 bravo - bravo!  
 briko - damasco (abricó, ameixa)  
-kafe rang - castanho (marrom)  
-kafe salmon - truta-marrom  
 bu! - bu!  
 bubu - bicho-papão  
 bucha - abater  
@@ -205,10 +199,11 @@ chen den - ontem
 chen zaman di - velho (antigo)  
 cheng bede - beliche  
 cheri - cereja  
+cheti - sete (7)  
 chili - cápsico  
-chin ba - avô  
 chin brus ben - primo  
 chin ma - avó  
+chin pa - avô  
 chini - porcelana  
 chira - rasgar  
 chira - rasgar  
@@ -230,7 +225,7 @@ dalil - prova
 dang gi - sino (campainha)  
 danse - baile (danza)  
 Danske - danês  
-dante na di - desdentado  
+dante hin - desdentado  
 dara tubo - funil  
 darja mute - desenvolvimento  
 data - dados  
@@ -243,6 +238,7 @@ defa ban - escudo
 defa kaske - armadura  
 den - dia (24 horas)  
 den loge - diário  
+des - dez  
 deu - deus  
 deu kata - mito  
 deu nagar zi - devanágari  
@@ -307,6 +303,8 @@ eu loga - elogio
 europe baluta - carvalho-roble  
 ####F - F  
 fa - fazer  
+fa alo - alterar  
+fa argu - arguir  
 fa asar - efetuar  
 fa bina - construir  
 fa dante - morder  
@@ -407,10 +405,10 @@ Galia - Gália
 galope - galope  
 galte - erro (falta)  
 galte di - errôneo  
-gami baba - sogro  
 gami ben - enteado  
 gami jan - esposo ou esposa  
-gami mama - sogra  
+gami ma - sogra  
+gami pa - sogro  
 gan chau - feno  
 gan tela - toalha  
 ganse - ganso  
@@ -488,6 +486,7 @@ hero - héroi
 Hese - Hesse (Héssia)  
 hijabu - véu  
 hima - neve  
+hin - sem  
 hindu raja - rajá  
 Hindu riu - Indo  
 hisabu loge - conta  
@@ -563,10 +562,13 @@ kaboga - abóbora (jerimun)
 kafe - café  
 kafe kan - café  
 kafe pote - cafeteira  
+kafe rang - castanho (marrom)  
+kafe salmon - truta-marrom  
 kaguji - papel  
 kaguji limon - lima  
 kala - preto  
 kalam - lápis  
+kalam sui - tinta  
 kalenda - calendário  
 kali - base (álcali)  
 kali - alcalino  
@@ -586,6 +588,8 @@ kampe bagi - área de acampamento
 kampe bede - cama portátil  
 kancha - vidro  
 kandi - bombom (doce)  
+kane - vara (bastão)  
+kane kasa - gaiola (jaula)  
 kangaru - canguru  
 kankuate - quincã (cunquate)  
 kano - canoa  
@@ -620,7 +624,7 @@ ke riti - como
 ke sate - quando  
 Keme - Antigo Egito  
 kerne - núcleo (cerne)  
-kesha na di - despelado  
+kesha hin - despelado  
 kiau - ponte  
 kimi - substância  
 kimi logi - química  
@@ -751,7 +755,7 @@ long tire - estirar
 lotra - lontra  
 lou - vazar  
 luka - verde  
-sis - seis (6)  
+luka - seis (6)  
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  
@@ -759,6 +763,7 @@ Luter din - luteranismo
 Luter din ja - luterano  
 ####M - M  
 ma - mãe  
+ma di - maternal  
 magesium - magnésio  
 magi ja - mago  
 Magribi desha - Marrocos  
@@ -767,9 +772,9 @@ majang - mahjong
 makan hua - dente-de-leão (taráxaco)  
 mal nomi - economia  
 man raja - rei  
+manera - comportamento (conduta)  
 mang - ocupado (atarefado)  
 mani din - maniqueísmo  
-manira - comportamento (conduta)  
 mantol - capa  
 mantra - mantra  
 mar - vez  
@@ -838,7 +843,6 @@ mode - modo (maneira, jeito)
 moka - árvore  
 moka ban - tábua (prancha)  
 moka tana - tora  
-kalam sui - tinta  
 mol kan - moenda (moinho)  
 mol sheku - mó  
 mole - mol  
@@ -853,15 +857,20 @@ muskul bina - fisiculturismo
 musli - muesli  
 muzika - música  
 ####N - N  
-na - sem  
+na - em  
+na ke - onde  
+na lin - online  
 nadir - raro  
 nadir mar - raramente  
 najis - poluição  
 nama - carne  
+name hin - sem nome  
 name kitabu - assinar  
 nardi - gamão  
 nasi - nação  
 nasi medi - internacional  
+nau - cérebro  
+nau di - cerebral  
 nautile - nautiloide  
 nave - barco (navio)  
 nave lefte - bombordo  
@@ -914,8 +923,8 @@ osidian - obsidiana
 oste jama - esqueleto  
 oste shalke - escudo  
 ####P - P  
-pa ke - onde  
-pa lin - online  
+pa - pai  
+pa di - paternal  
 pade mosim - outono  
 pagri - turbante  
 pai - torta  
@@ -942,6 +951,7 @@ parne - samambaia
 pas dau - passagem  
 pas loga - palavra-passe (senha)  
 pase - paz  
+pase sim - pacifismo  
 pase sim ja - pacifista  
 pasporte - passaporte  
 pasta - pasta  
@@ -1023,7 +1033,6 @@ rasa - raça
 ratibu - ordem  
 re - repetição  
 re sikle - reciclar  
-arena - areia  
 reseta - receita  
 reste - resto  
 retro gula sense - náusea  
@@ -1071,9 +1080,9 @@ sange - sangue
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
 sar - cabeça  
+sar hin - acéfalo  
 sar kesha - cabelo  
-sar kesha na di - calvo  
-sar na di - acéfalo  
+sar kesha hin - calvo  
 sata - momento (instante)  
 sata di - momentâneo  
 Saturne - Saturno  
@@ -1086,15 +1095,16 @@ sela loga - conselho
 selu logi - citologia  
 seme - semente  
 seme di - seminal  
-sen - cem (100)  
 sene - idade  
 sene di - idoso (sene)  
 sense - sentido  
 sense shaka - tentáculo  
+senta - cem (100)  
+senta nen - século  
+senta nen di - centénario  
 sentaure - centáurea  
 sera - serra  
 serami - cerâmico  
-sete - sete (7)  
 shalke - escama  
 sham - noitinha  
 shampan - Champagne  
@@ -1148,6 +1158,7 @@ sili tika - elo
 silko - seda  
 sing - estrela  
 sir plan - complô (conspiração)  
+siro - zero  
 siti - cidade  
 Slave - eslavo  
 so - elemento  
@@ -1265,8 +1276,8 @@ vide - ver
 vidou - viúvo  
 violeta blu - purpúreo (roxo)  
 virje - virgem  
-vise ba - padrasto  
 vise ma - madrasta  
+vise pa - padrasto  
 vise raja - vice-rei  
 Vishnu - Vixnu  
 vode - promessa (voto)  

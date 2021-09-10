@@ -15,7 +15,6 @@ ais hoki - アイスホッケー
 ais krem - アイスクリーム  
 ajila - 急ぐ  
 akare - 壁蝨  
-fa alo - 変える  
 alga fungu - 地衣類 (苔癬)  
 alga jangal - 藻場  
 alo - 他の  
@@ -41,6 +40,7 @@ aple - 林檎
 arane - オレンジ  
 arane nete - クモの巣  
 area - 辺  
+arena petra - 砂岩  
 argente - 銀  
 arka - 弓 (弓なり)  
 arka ja - 弓兵  
@@ -50,7 +50,7 @@ aroma - 香る (匂う, 臭う)
 aroma melon - マクワウリ  
 asal - 起源  
 asar - 効果  
-asha na di - 絶望した  
+asha hin - 絶望した  
 astro - 天体   
 astro nomi - 天文学  
 astro nomi ja - 天文学者  
@@ -59,13 +59,11 @@ atlanti kade - タイセイヨウダラ
 atlanti salmon - タイセイヨウサケ  
 auro - 金  
 Austronesia - オーストロネシア  
-fa auto - カスタマイズする  
 auto - 自己  
 auto krati - 君主制  
 auto loga - 独白 (独話)  
 ave - 烏麦  
 ####B - B  
-ba - お父さん (父, パパ)  
 bacha - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
 badan - 体  
@@ -85,12 +83,11 @@ ban - 板
 ban gem - ボードゲーム  
 basa - 十分  
 basha - 言語  
-basha logi - 言語学  
 basha jinse - 文法的性 (名詞クラス)  
+basha logi - 言語学  
 bata - 鴨  
 bateri - バッテリー  
 bati - 八 (8)  
-kane kasa - 檻 (篭, ケージ)  
 bau sheku - 宝石  
 bazar - 市場 (マーケット, バザー)  
 baze bol - 野球  
@@ -98,6 +95,7 @@ baze petra - 基盤岩
 baze shula kan - 小学校  
 be ais - 凍る (凍結する)  
 be bio mute - 熟成する (発酵する)  
+be boi - 泳ぐ (浮く)  
 be bum - 爆発する  
 be dom - 住む (居住する)  
 be fatige - 疲れる (疲労する)  
@@ -130,9 +128,9 @@ bina plan ja - 建築家
 bio jinse - 生物学の性  
 bio logi - 生物学  
 bio sana she - 堆肥  
+bio she - 生物  
 bio sistem - 生物群系  
 bio toksi - 毒素  
-bio she - 生物  
 bir - ビール  
 biskute - ビスケット (クッキー)  
 biznes - 業務 (営業, ビジネス)  
@@ -147,15 +145,11 @@ bol - 玉 (球)
 bon - 良い  
 bon guste di - 美味しい  
 botel - 瓶  
-be boi - 泳ぐ (浮く)  
 Brahma - ブラフマー (梵天)  
 brauza - 探る, 探検する  
-brauza program - 探検家  
 brauza gi - ブラウザ  
+brauza program - 探検家  
 briko - アンズ (梅, モモ, プラム)  
-kafe rang - 茶色  
-kafe alga - 褐藻  
-kafe salmon - ブラウントラウト  
 bu! - ばあ  
 bucha ja - 肉屋  
 bucha kan - 屠畜場  
@@ -295,7 +289,9 @@ europe baluta - ヨーロッパナラ
 ####F - F  
 fa - する  
 fa achar - 酢漬けある  
+fa alo - 変える  
 fa an galta - デバッグする  
+fa auto - カスタマイズする  
 fa bina - 建てる  
 fa biznes lon - 話し合う (話を付ける)  
 fa dante - 咬む  
@@ -547,12 +543,16 @@ ka - より (に比べ)
 kaboga - カボチャ  
 kade - 鱈  
 kafe - コーヒー  
+kafe alga - 褐藻  
 kafe kan - カフェ (コーヒー店)  
 kafe pote - コーヒーポット  
+kafe rang - 茶色  
+kafe salmon - ブラウントラウト  
 kaguji - 紙  
 kaguji limon - メキシカンライム (マナオ)  
 kala - 黒い  
 kalam - ペン  
+kalam sui - インク (墨)  
 kalenda - 暦 (カレンダー)  
 kali - 塩基  
 kali guste - 苦い  
@@ -572,6 +572,7 @@ kan - 店 (館)
 kancha - ガラス  
 kancha daka - 釉薬  
 kandi - キャンデー  
+kane kasa - 檻 (篭, ケージ)  
 kangaru - カンガルー  
 kankuate - キンカン (キンキツ)  
 kano - カヌー  
@@ -606,7 +607,7 @@ keka ja - 客人
 Keme - 古代エジプト  
 kerne - 核  
 kesha - 毛  
-kesha na di - 無毛  
+kesha hin - 無毛  
 kilo - 千 (１０００)  
 kimi - 物質  
 kimi logi - 化学  
@@ -729,8 +730,8 @@ long tire - 伸びる (張る)
 lotra - 獺  
 lou - 漏る  
 luka - 緑 (緑色)  
+luka - 六 (6)  
 luka melon - ハネデューメロン  
-sis - 六 (6)  
 luna keke - 月餅  
 lung - 竜  
 lung dou - 四角豆  
@@ -821,7 +822,6 @@ miti - 会合 (会議, ミーティング)
 mitre - メートル  
 moka - 木  
 moka tana - 丸木  
-kalam sui - インク (墨)  
 mole - モル  
 molekul - 分子  
 moli - 茉莉  
@@ -841,13 +841,17 @@ mushu - 鼠
 musli - ミューズリー  
 muzika - 音楽  
 ####N - N  
+na lin - オンライン  
+na poli mar - よく (屡々)  
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  
 najis di - 汚い  
 nama - 肉  
 name - 名前  
+name hin - 名無し (無名の)  
 name kitabu - 署名する (サイン)  
 nasi medi - 国際的  
+nau - 脳  
 nautile - オウムガイ  
 nave - 舟 (ボート)  
 nefre - 腎臓  
@@ -892,8 +896,7 @@ osidian - 黒曜石
 oste jama - 骨格  
 oste shalke - ぜんご  
 ####P - P  
-pa lin - オンライン  
-pa poli mar - よく (屡々)  
+pa - お父さん (父, パパ)  
 pade mun - 落とし戸  
 pan - 全ての  
 pan demo pati - パンデミック  
@@ -913,6 +916,7 @@ pari desha - 仙境
 parne - 羊歯  
 pas loga - パスワード  
 pase hai kade - マダラ  
+pase sim - 平和主義  
 pasi - 痛み  
 pasi di - 痛い  
 pasporte - パスポート  
@@ -989,7 +993,6 @@ ratibu di - 整然
 re - 繰り返し  
 re sikle - 再生する (リサイクルする)  
 re zoku - 再開する  
-arena petra - 砂岩  
 retro gula - 戻す (吐く)  
 retro gula sense - 吐き気 (嘔気)  
 ring - 輪  
@@ -1048,10 +1051,11 @@ sekur kopi - バックアップ (控え)
 sekur nomer - 暗証番号  
 selge - フダンソウ (スイスチャード)  
 seme dane - 種  
-sen - 百 (１００)  
 sene - 年齢  
 sense - 感覚  
 sense shaka - 触手  
+senta - 百 (１００)  
+senta nen - 世紀  
 sera - のこぎり  
 serami - 陶器  
 shalke - うろこ  
@@ -1164,8 +1168,8 @@ ten bil - とっつきやすい (アクセス可能)
 ten fasil ta - アクセシビリティ  
 tercha - 斜め  
 tipe - 種類  
-tire kane - レバー (てこ)  
 tire dara - 離岸流  
+tire kane - レバー (てこ)  
 tire yo pil - はがす (剥ぐ)  
 tisa - 九 (9)  
 toksi - 毒  
@@ -1228,8 +1232,8 @@ vin kan - ワイナリー (酒造場)
 violeta - スミレ  
 violeta blu - 紫色 (パープル)  
 vise - 代替  
-vise ba - 継父  
 vise ma - 継母  
+vise pa - 継父  
 Vishnu - ヴィシュヌ  
 vode - 約束  
 vol - 欲しい  

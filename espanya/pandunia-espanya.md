@@ -40,7 +40,6 @@ ajibu di - maravilloso (asombroso)
 ajila - meter prisa  
 akare - garrapata (ácaro)  
 akse - eje  
-fa alo - cambiar (demudar)  
 Alaska - Alaska  
 alga - alga  
 alga fungu - liquen  
@@ -130,11 +129,12 @@ arbuza - sandía (patilla)
 Arcah - Artsaj  
 area - área (superficie)  
 area - área (zona, región)  
+arena - arena  
+arena topo - desierto  
 argente - plata  
 Argentina - Argentina  
 argon - argón  
 argu - argumento  
-fa argu - argüir  
 arka - arco  
 arka chati - bóveda  
 arka ja - arquero  
@@ -156,7 +156,7 @@ asal di - original
 asan - postura (posición)  
 asar - resulta (efecto)  
 asha - esperar (desear)  
-asha na di - desesperado  
+asha hin - desesperado  
 Ashur - Assur (Ashur)  
 Ashur desha - Asiria  
 asia - asiático  
@@ -181,7 +181,6 @@ audi - oír (escuchar)
 auro - oro  
 Australia - Australia  
 Austronesia - Austronesia  
-fa auto - personalizar  
 auto - mismo (yo)  
 auto di - personal (privado, a medida)  
 auto krati - autocratia (monarquía)  
@@ -196,7 +195,6 @@ avar ja - dañino (perjudicial)
 ave - avena  
 Azerbaijan - Azerbaiyán  
 ####B - B  
-ba - padre (papá)  
 babu - capítulo (sección)  
 babuche - chinelo (pantufa)  
 bacha - niño o niña  
@@ -213,7 +211,6 @@ baha din - bahaísmo (fe bahá'i)
 baha din ja - bahá'í  
 Bahama - Bahamas  
 Bahrain - baréin  
-baya - bahía  
 bai - derrota  
 baka - hornear (cocer)  
 baka fan - terracota  
@@ -263,22 +260,20 @@ barude - pólvora
 basa - bastante  
 basen - piscina (alberca, lavadero)  
 basha - lengua (idioma, hablar, comunicación)  
+basha jinse - género gramatical  
 basha kanun - gramática  
 basha kanun di - gramatical  
 basha logi - lingüística  
-basha jinse - género gramatical  
 baske - cesta (canasta, barquilla, aro)  
 baske bol - baloncesto (básquetbol)  
 bata - pato  
 bata krote - ornitorrinco  
 bateri - pila (batería)  
 bati - ocho (8)  
-kane - barra (vara, palo)  
-kane kasa - jaula (caja)  
-kane pan - baguette  
 bau - tesoro  
 bau di - precioso  
 bau sheku - piedra preciosa (joya, gema)  
+baya - bahía  
 bazar - mercado (bazar)  
 baze - base  
 baze bol - béisbol  
@@ -290,6 +285,7 @@ baze shula kan - escuela primaria
 be - sufrir (verbo pasivo)  
 be ais - congelarse (helarse)  
 be bio mute - fermentar  
+be boi - nadar (flotar)  
 be boli - hervirse (ser cocida)  
 be bum - explotar (estallar)  
 be bum - explosionar  
@@ -382,9 +378,9 @@ bio - vida (orgánico)
 bio jinse - sexo  
 bio logi - biología  
 bio sana she - abono orgánico (compost)  
+bio she - organismo (ser vivo)  
 bio sistem - bioma  
 bio toksi - toxina  
-bio she - organismo (ser vivo)  
 bir - cerveza (birra)  
 bir kan - bar (pub)  
 Bisau Ginia - Guinea-Bisáu  
@@ -413,9 +409,9 @@ Bolivia - Bolivia
 bomba - bomba  
 bon - bueno  
 bon darja - mejorar  
+bon guste di - delicioso  
 bon moral - virtud (moralidad)  
 bon moral di - virtuoso (moral)  
-bon guste di - delicioso  
 bon sifa di - excelente  
 bon sifa ta - calidad (excelencia, mérito, virtud, ventaja)  
 bon sin di - auspicioso (propicio)  
@@ -426,12 +422,11 @@ bori di - aburrido
 borium - bohrio  
 boron - boro  
 Bosna e Hercegovina - Bosnia y Herzegovina  
-botel - botella  
 Bote - Tíbet  
-be boi - nadar (flotar)  
+botel - botella  
 brauza - explorar  
-brauza program - explorador  
 brauza gi - navegador  
+brauza program - explorador  
 bravo - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - República del Congo  
@@ -440,9 +435,6 @@ briko - albaricoque (ciruela)
 Britan - Reino Unido  
 brom - bromo  
 brosh - cepillo (brocha)  
-kafe rang - marrón  
-kafe alga - algas pardas  
-kafe salmon - trucha marrón  
 Brunei - Brunei  
 brus - hermano o hermana  
 bu! - bu!  
@@ -466,7 +458,6 @@ Burkina Faso - Burkina Faso
 bus - bus (autobús)  
 buste - pecho (busto)  
 buta - bota  
-Lung Desha - Bután  
 buton - tecla (botón)  
 buton ban - teclado  
 buyu - baobab  
@@ -514,13 +505,14 @@ cheng bede - litera
 cheri - cereza  
 Chernagora - Montenegro  
 Cheska - República Checa  
+cheti - siete (7)  
 Chile - Chile  
 chili - chile  
 chimpanzi - chimpancé  
 chin - parente (madre o padre)  
-chin ba - abuelo  
 chin brus ben - primo  
 chin ma - abuela  
+chin pa - abuelo  
 chinchila - chinchilla  
 ching - pedir (invitar; por favor)  
 ching lai - invitar  
@@ -577,7 +569,7 @@ dante - diente
 dante baluta - roble daimyo  
 dante brosh - cepillo de dientes  
 dante dava ja - dentista (odontólogo)  
-dante na di - desdentado  
+dante hin - desdentado  
 dara mate - líquido  
 dara mate di - líquido (fluido)  
 dara tubo - embudo  
@@ -620,7 +612,7 @@ demon - demonio
 den - día (24 horas)  
 den loge - diario  
 deng - esperar  
-des - diez (10)  
+des - diez (deca-, 10)  
 desen - dibujo (diseño)  
 desha - país (nación, estado, terra)  
 desha jan - ciudadano  
@@ -688,6 +680,7 @@ dosil - manso (dócil, obediente)
 dosil jene di - domesticado  
 dosti - amigo  
 dosti di - simpático (amable, tierno, dulce)  
+dosti hin - sin amigos  
 dosti ta - amistad (compañerismo)  
 dotor - doctor  
 dotor ta - doctorado  
@@ -818,8 +811,12 @@ europium - europio
 fa - hacer  
 fa achar - encurtir  
 fa ajibu - asombrar  
+fa alo - cambiar (demudar)  
 fa an galta - depurar  
+fa an zai - quitar (eliminar, borrar)  
+fa argu - argüir  
 fa asar - efectuar  
+fa auto - personalizar  
 fa avar - dañar  
 fa baze - fundar (basar)  
 fa bina - construir (edificar)  
@@ -920,7 +917,6 @@ fa multi do du - doblar (multiplicar por dos)
 fa muzika - tocar música  
 fa najis - corromper (contaminar)  
 fa name - llamar (poner)  
-fa an zai - quitar (eliminar, borrar)  
 fa node - hacer un nudo  
 fa nomer - contar  
 fa nomi - organizar (gestionar)  
@@ -971,6 +967,7 @@ fa sahi - corregir
 fa salam - saludar  
 fa sam rai - acordar  
 fa sam sifa - simular  
+fa sana - producir (hacer, preparar)  
 fa sekur - proteger (asegurar, guardar)  
 fa sela - aconsejar  
 fa sense - sentir (detectar)  
@@ -1114,7 +1111,6 @@ forma - forma (figura, morfo)
 forma so - morfema  
 forum - foro (espacio público)  
 foto - luz (iluminación)  
-foto kane - antorcha  
 foto di - claro (luminoso)  
 foto frike - pulir (lustrar)  
 foto gola - halo (aureola)  
@@ -1122,6 +1118,7 @@ foto grafi - foto (fotografía)
 foto grafi gi - cámara  
 foto grafi ja - fotógrafo  
 foto grafi shuta - fotografía  
+foto kane - antorcha  
 foto mata di - mate (opaco)  
 foto minar - faro (baliza, almenara)  
 foto mira di - reluciente (brillante, lustroso)  
@@ -1177,11 +1174,11 @@ galte di - erróneo
 Gambia - Gambia  
 gamel - camello  
 gami - casamiento  
-gami baba - suegro  
 gami ben - hijastro o  hijastra  
 gami di - casado  
 gami jan - esposo o esposa  
-gami mama - suegra  
+gami ma - suegra  
+gami pa - suegro  
 gan - seco (árido)  
 gan chau - heno  
 gan putau - pasa (uva pasa)  
@@ -1414,6 +1411,7 @@ hijabu - velo
 hima - nieve  
 hima rose - escarcha  
 Himalaya - Himalaya  
+hin - faltar (sin)  
 Hindu - hindú  
 Hindu desh - Indostán  
 Hindu din - hinduismo  
@@ -1625,9 +1623,12 @@ Kabu Verde - Cabo Verde
 kade - bacalao  
 kadmium - cadmio  
 kafe - café  
+kafe alga - algas pardas  
 kafe kan - café (cafetería)  
 kafe kupa - taza de café  
 kafe pote - cafetera  
+kafe rang - marrón  
+kafe salmon - trucha marrón  
 kafir - pagano (infiel)  
 kaguji - papel  
 kaguji limon - limero  
@@ -1639,6 +1640,7 @@ kakau - cacao
 kala - negro  
 Kalal - Groenlandia  
 kalam - bolígrafo  
+kalam sui - tinta  
 kalenda - calendario  
 kali - base (álcali)  
 kali - alcalino  
@@ -1674,6 +1676,9 @@ kancha - vidrio (cristal)
 kancha daka - vidriado (esmalte)  
 kandela - candela (unidad de intensidad luminosa)  
 kandi - caramelo  
+kane - barra (vara, palo)  
+kane kasa - jaula (caja)  
+kane pan - baguette  
 kanga - peine  
 kangaru - canguro  
 kanjar - puñal (daga)  
@@ -1759,7 +1764,7 @@ kerne unta - fusión nuclear
 kerubi - querubín  
 kesha - pelo  
 kesha bande - cinta (cinta para el pelo)  
-kesha na di - pelado (desvellado)  
+kesha hin - pelado (desvellado)  
 kesha sabun - champú  
 ketel - hervidor (tetera)  
 kiau - puente  
@@ -2051,16 +2056,17 @@ lotra - nutria
 lou - chorrear  
 lou sang - sangrar  
 luka - verde  
+luka - seis (6)  
+luka fase - hexaedro (cubo)  
+luka gona - hexágono  
 luka melon - melón verde  
-sis - seis (6)  
-sis fase - hexaedro (cubo)  
-sis gona - hexágono  
 Luksemburge - Luxemburgo  
 lulu - perla  
 lun - discusión (debate, discurso)  
 luna - luna  
 luna keke - pastel de luna  
 lung - dragón  
+Lung Desha - Bután  
 lusun - espárrago  
 luta - saquear (desvalijar, robar)  
 luta ja - ladrón  
@@ -2069,6 +2075,7 @@ Luter din ja - luterano
 lutetium - lutecio  
 ####M - M  
 ma - madre (mamá)  
+ma di - maternal  
 Madagasi - Madagascar  
 madagasi di - malgache  
 maf - perdón  
@@ -2104,6 +2111,8 @@ man - masculino (macho)
 man ben - hijo  
 man raja - rey  
 mana - significado (acepción)  
+manera - comportamiento (conducta)  
+manera - comportarse (portarse)  
 manete - imán  
 manete di - magnético  
 mang - ocupado (atareado)  
@@ -2114,8 +2123,6 @@ Mani - profeta Mani
 mani din - maniqueísmo  
 Manin nes - Isla de Man  
 manioka - yuca (mandioca)  
-manira - comportamiento (conducta)  
-manira - comportarse (portarse)  
 mantol - capa (manto)  
 mantra - salmodiar  
 mantra - mantra  
@@ -2289,7 +2296,6 @@ moka jang ja - carpintero
 moka jong parke - arboreto  
 moka mate - madera  
 moka tana - leño (tronca)  
-kalam sui - tinta  
 mol ja - molinero  
 mol kan - molino  
 mol sheku - muela  
@@ -2346,7 +2352,18 @@ muzika - música
 muzika ja - músico  
 Myanma - Myanmar (Birmania)  
 ####N - N  
-na - sin  
+na - en (a)  
+na in - dentro  
+na ke - dónde  
+na late - estar al lado de  
+na lin - en línea  
+na medi - entre  
+na niche - debajo  
+na nove - ahora mismo (justo)  
+na poli mar - frecuentemente  
+na re - otra vez (de nuevo)  
+na supra - sobre  
+na u loka - allí (allá)  
 nabi - profecía  
 nabi ja - profeta  
 nadir - raro  
@@ -2361,6 +2378,7 @@ najis bindu - mancha
 najis di - sucio (corrompido)  
 nama - carne  
 name - nombre  
+name hin - innominado  
 name kitabu - firmar  
 name loga - sustantivo  
 Namibia - Namibia  
@@ -2380,6 +2398,9 @@ nasi sosi sim - socialismo nacional
 nasi sosi sim ja - Nazi  
 natre - sodio  
 natre bilor - natrón  
+nau - cerebro  
+nau di - cerebral  
+nau hin - descerebrado  
 Nauru - Naúru  
 nautile - nautilo  
 nava - náhuatl (nahua)  
@@ -2447,9 +2468,9 @@ nomi - gerencia (dirección)
 nong - cultivar  
 nong bio logi - agrobiología  
 nong di - agrícola  
-nong topo - campo  
 nong ja - granjero (agricultor)  
 nong nomi - agronomía  
+nong topo - campo  
 nong topo di - rural (rústico)  
 norde - norte  
 Norde Aire - Irlanda del Norte  
@@ -2515,8 +2536,8 @@ ore - oreja
 ore flame - otitis  
 orgazme - orgasmo  
 orkide - orquídea  
-orom - oromo  
-Orom Desha - Oromía  
+oromo - oromo  
+Oromo Desha - Oromía  
 orto - recto  
 orto gona - ángulo recto  
 orto gona di - ortogonal  
@@ -2531,18 +2552,8 @@ oste - hueso
 oste jama - esqueleto (armazón)  
 Ostria - Austria  
 ####P - P  
-pa - en (a)  
-pa in - dentro  
-pa ke - dónde  
-pa late - estar al lado de  
-pa lin - en línea  
-pa medi - entre  
-pa niche - debajo  
-pa nove - ahora mismo (justo)  
-pa poli mar - frecuentemente  
-pa re - otra vez (de nuevo)  
-pa supra - sobre  
-pa u loka - allí (allá)  
+pa - padre (papá)  
+pa di - paternal  
 pade - caer  
 pade mosim - otoño  
 pade mun - trampilla  
@@ -2848,8 +2859,6 @@ re sikle - reciclar
 re zoku - continuar (reanudar)  
 rebel - rebelión (sublevación)  
 redi - listo (preparado)  
-arena - arena  
-arena topo - desierto  
 rengenium - roentgenio  
 renium - renio  
 reporte - informe (reporte, noticia)  
@@ -2984,14 +2993,14 @@ sama hal - clima (tiempo)
 sama kinar - horizonte  
 samarium - samario  
 Samoa - Samoa  
-fa sana - producir (hacer, preparar)  
+sana - producción  
 sana basha - idioma artificial (lengua construida, conlang)  
 sana di - artificial (sintético)  
 sana ja - farbicante  
-sana - producción  
 sanduiche - sándwich (sánduche)  
 sanduku - caja (baúl, cofre, estuche)  
 sange - sangre  
+sange hin - exangüe  
 sante - sagrado (santo)  
 Sante Helena - Isla Santa Elena  
 sante kanon - sagrada escritura  
@@ -3008,7 +3017,7 @@ sapatu kan - zapatería
 sar - cabeza  
 sar kaske - casco (yelmo)  
 sar kesha - cabello  
-sar kesha na di - calvo  
+sar kesha hin - calvo  
 sar oste - cráneo (calavera)  
 sata - momento  
 sata di - momentáneo  
@@ -3043,24 +3052,24 @@ seme - semilla
 seme dane - pepita  
 seme di - seminal  
 semente - cemento  
-sen - cien (100)  
 sene - edad  
 Senegal - Senegal  
 sense - sentido  
 sense shaka - tentáculo  
+senta - cien (100)  
+senta nen - centuria (siglo)  
+senta nen di - centenario  
 senti - centi- (por ciento)  
 sentimitre - centímetro  
 sera - sierra  
 serami - cerámica  
 Serbia - Serbia  
-serebro - cerebro  
 serpe - serpiente (culebra)  
 serva - servir  
 serve - servicio  
 serve ja - criado (sirviente)  
 sesam - ajonjolí (sésamo)  
 Seshel nesia - Seychelles  
-sete - siete (7)  
 shaka - rama  
 shakal - chacal  
 shal - bufanda (chal)  
@@ -3379,8 +3388,8 @@ Timor - Timor
 ting - parada (alto)  
 tipe - tipo (género)  
 tire - tirar  
-tire kane - palanca  
 tire dara - corriente de resaca  
+tire kane - palanca  
 tire sanduku - cajón (gaveta)  
 tire yo milke - ordeñar  
 tire yo pil - quitar (pelar)  
@@ -3561,9 +3570,9 @@ Virjin nesia - Islas Vírgenes
 virus - virus  
 virus logi - virología  
 vise - vice- (alternativa, sustituto)  
-vise ba - padrastro  
 vise loga - pronombre  
 vise ma - madrastra  
+vise pa - padrastro  
 vise prezidente - vicepresidente  
 vise raja - virrey  
 Vishnu - Vishnú  

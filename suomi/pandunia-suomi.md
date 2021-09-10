@@ -15,7 +15,6 @@ Afgan - Afganistan
 Afrika - Afrikka  
 agile - ketterä  
 agresi - hyökkäys (päällekarkaus, aggressio)  
-fa agresi - hyökätä (käydä päälle)  
 agresi ja - hyökkääjä  
 agresi tabi - hyökkäävä (aggressiivinen)  
 aha - oivaltaa (tajuta)  
@@ -41,7 +40,6 @@ ajila - kiirehtiä
 akare - punkki  
 akasia - akaasia  
 akse - akseli  
-fa alo - muuttaa (tehdä eriksi)  
 Alaska - Alaska  
 alga - levä  
 alga fungu - jäkälä  
@@ -88,8 +86,6 @@ an eskala - laskeutua
 an icha ja - vastahakoinen (haluton)  
 an jami - hajauttaa  
 an jami di - hajanainen  
-fa klus - sulkea (panna kiinni)  
-klus - suljettu  
 an karma ja - epäaktiivinen (pois toiminnasta)  
 an kode - purkaa koodi (dekoodata)  
 an limite - äärettömyys (rajattomuus)  
@@ -134,6 +130,8 @@ arane nete - hämähäkinverkko
 arbuza - vesimeloni  
 area - ala (pinta-ala)  
 area - alue (seutu)  
+arena - hiekka  
+arena topo - aavikko (hiekkaerämaa)  
 argente - hopea  
 Argentina - Argentiina  
 argon - argon  
@@ -159,7 +157,7 @@ asal di - alkuperäinen
 asan - asento  
 asar - vaikutus (tulos)  
 asha - toivoa  
-asha na di - toivoton  
+asha hin - toivoton  
 Ashur - Assur  
 Ashur desha - Assyria  
 asia - aasialainen  
@@ -195,9 +193,6 @@ avar ja - vahingollinen (vaurioittava)
 ave - kaura  
 Azerbaijan - Azerbaidžan  
 ####B - B  
-ba - isä  
-ba di ba - isänisä  
-ba di ma - isänäiti  
 babu - luku (kirjan osa)  
 babuche - tohveli  
 bacha - lapsi  
@@ -215,7 +210,6 @@ baha din - bahailaisuus
 baha din ja - bahailainen  
 Bahama - Bahama-saaret  
 Bahrain - Bahrain  
-baya - lahti  
 baka - leipoa  
 baka ja - leipuri  
 baka kan - leipomo  
@@ -261,22 +255,20 @@ barude - ruuti
 basa - tarpeeksi (riittävästi)  
 basen - allas  
 basha - puhua (kieli, kommunikaatio)  
+basha jinse - kieliopillinen suku  
 basha kanun - kielioppi  
 basha kanun di - kieliopillinen  
 basha logi - kielitiede (lingvistiikka)  
-basha jinse - kieliopillinen suku  
 baske - kori  
 baske bol - koripallo  
 bata - sorsa (ankka)  
 bata krote - vesinokkaeläin  
 bateri - akku (paristo)  
 bati - kahdeksan (8)  
-kane - tanko (sauva, patukka)  
-kane kasa - häkki  
-kane pan - patonki (ranskanleipä)  
 bau - aarre  
 bau di - arvokas  
 bau sheku - jalokivi  
+baya - lahti  
 bazar - tori (basaari)  
 bazar huru sim - markkinaliberalismi  
 baze - perusta (perustus)  
@@ -289,6 +281,7 @@ baze shula kan - ala-aste
 be - läpikäydä (passiivin muodostava verbi)  
 be ais - jäätyä  
 be ajibu - ihmetellä (olla ihmeissään)  
+be boi - kellua (uida)  
 be boli - kiehua  
 be bum - räjähtää  
 be bum - räjähtää  
@@ -383,8 +376,8 @@ bio jinse - biologinen sukupuoli
 bio laji - biojäte  
 bio logi - biologia  
 bio sana she - komposti  
-bio toksi - toksiini  
 bio she - orgaaninen elämä  
+bio toksi - toksiini  
 bir - olut (kalja)  
 bir kan - baari (kapakka)  
 Bisau Ginia - Guinea-Bissau  
@@ -412,9 +405,9 @@ Bolivia - Bolivia
 bomba - pommi  
 bon - hyvä  
 bon darja - nostaa tasoa  
+bon guste di - herkullinen (nami)  
 bon moral - hyve  
 bon moral di - hyveellinen (hyvä)  
-bon guste di - herkullinen (nami)  
 bon rai - hyväksyä  
 bon sifa di - laadukas (hyvä)  
 bon sifa ta - laatu (laadukkuus, erinomaisuus, hyvyys)  
@@ -426,9 +419,8 @@ bori di - pitkästynyt
 borium - bohrium  
 boron - boori  
 Bosna e Hercegovina - Bosnia ja Hertsegovina  
-botel - pullo  
 Bote - Tiibet  
-be boi - kellua (uida)  
+botel - pullo  
 Brahma - Brahma  
 brauza - selata  
 brauza gi - selain  
@@ -441,7 +433,6 @@ briko - aprikoosi (luumu)
 Britan - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
 brom - bromi  
 brosh - harja  
-kafe rang - ruskea  
 Brunei - Brunei  
 brus - sisarus (veli tai sisko)  
 brusben - sisaruksen lapsi  
@@ -467,7 +458,6 @@ Burkina Faso - Burkina Faso
 bus - linja-auto (bussi)  
 buste - povi  
 buta - saapas (buutsi)  
-Lung Desha - Bhutan  
 buton - nappi (näppäin, kytkin, nappula)  
 buton ban - näppäimistö  
 buyu - apinanleipäpuu (baobab)  
@@ -515,16 +505,17 @@ cheng bede - kerrossänky
 cheri - kirsikka  
 Chernagora - Montenegro  
 Cheska - Tšekki  
+cheti - seitsemän (7)  
 Chile - Chile  
 chili - paprika  
 chili fun - paprikajauhe  
 chimpanzi - simpanssi  
 chin - vanhempi (isä tai äiti)  
-chin ba - isoisä  
 chin brus ben - serkku  
 chin chin - isovanhempi  
 chin gam ben - sisaruspuoli  
 chin ma - isoäiti  
+chin pa - isoisä  
 chinchila - chinchilla  
 ching - pyyntö  
 ching - pyytää (anoa)  
@@ -586,7 +577,7 @@ Danske desha - Tanska
 dante - hammas  
 dante brosh - hammasharja  
 dante dava ja - hammaslääkäri  
-dante na di - hampaaton  
+dante hin - hampaaton  
 dara - virta (virtaus)  
 dara mate - neste  
 dara mate di - nestemäinen  
@@ -699,6 +690,7 @@ dosha di - syyllinen
 dosil - kesy  
 dosti - ystävä (kaveri)  
 dosti di - ystävällinen (kiltti)  
+dosti hin - kaveriton  
 dosti ta - ystävyys  
 dotor - tohtori  
 dotor ta - tohtorin tutkinto  
@@ -838,9 +830,12 @@ Europe Unta - Euroopan unioni
 europium - europium  
 ####F - F  
 fa - tehdä (toimia)  
+fa agresi - hyökätä (käydä päälle)  
 fa ajibu - ällistyttää  
+fa alo - muuttaa (tehdä eriksi)  
 fa an galta - poistaa virheitä (debugata)  
 fa an karma - poistaa toiminnasta  
+fa an zai - poistaa (hävittää)  
 fa asar - vaikuttaa  
 fa avar - vahingoittaa (vaurioittaa)  
 fa baze - perustaa  
@@ -913,6 +908,7 @@ fa kite - viedä
 fa klar - selkeyttää (selittää)  
 fa klas - luokitella (kategorisoida)  
 fa klon - kloonata (monistaa)  
+fa klus - sulkea (panna kiinni)  
 fa koloni - kolonisoida  
 fa komputa - käsitellä dataa  
 fa komun - jakaa yhteiseksi  
@@ -946,7 +942,6 @@ fa multi do du - tuplata (kertoa kahdella)
 fa muzika - soittaa (musisoida)  
 fa name - nimittää (kutsua)  
 fa nia - aikoa (meinata)  
-fa an zai - poistaa (hävittää)  
 fa node - solmia (tehdä solmu)  
 fa nomi - järjestellä (hallinnoida, organisoida, manageroida)  
 fa note - huomauttaa  
@@ -996,6 +991,7 @@ fa safar - matkustaa
 fa sahi - korjata (tehdä oikeaksi)  
 fa salam - tervehtiä  
 fa sam rai - olla samaa mieltä  
+fa sana - tehdä (valmistaa)  
 fa sekur - suojella (suojata, turvata)  
 fa sela - neuvoa  
 fa sense - aistia  
@@ -1139,7 +1135,6 @@ forma - muoto (morfi)
 forma so - morfeemi  
 forum - foorumi  
 foto - valo  
-foto kane - soihtu  
 foto di - valoisa  
 foto frike - kiillottaa  
 foto gola - sädekehä (halo)  
@@ -1147,6 +1142,7 @@ foto grafi - valokuva (foto)
 foto grafi gi - kamera  
 foto grafi ja - valokuvaaja  
 foto grafi shuta - valokuvaus  
+foto kane - soihtu  
 foto lin - valokuitu (valokaapeli)  
 foto mata di - matta  
 foto minar - majakka  
@@ -1203,11 +1199,11 @@ galte di - väärä (virheellinen)
 Gambia - Gambia  
 gamel - kameli  
 gami - avioliitto  
-gami baba - appi  
 gami chin - appivanhempi  
 gami di - naimisissa  
 gami jan - puoliso (aviomies tai -vaimo)  
-gami mama - anoppi  
+gami ma - anoppi  
+gami pa - appi  
 gan - kuiva  
 gan chau - heinä  
 gan putau - rusina  
@@ -1425,6 +1421,8 @@ hijabu - verho (huntu, peite)
 hima - lumi  
 hima rose - kuura  
 Himalaya - Himalaja  
+hin - puuttua (ilman, vailla)  
+hin di - ilman oleva (-ton)  
 Hindu - hindu  
 Hindu basha - hindin kieli  
 Hindu desh - Hindustan  
@@ -1632,6 +1630,7 @@ kafe - kahvi
 kafe kan - kahvila  
 kafe kupa - kahvikuppi  
 kafe pote - kahvipannu  
+kafe rang - ruskea  
 kafir - pakana  
 kaguji - paperi  
 kai - auki (avoin)  
@@ -1642,6 +1641,7 @@ kakau - kaakao
 kala - musta  
 Kalal - Grönlanti  
 kalam - kynä  
+kalam sui - muste  
 kalenda - kalenteri  
 kali - emäs  
 kali - emäksinen (alkalinen)  
@@ -1676,6 +1676,9 @@ kanape - sohva
 kancha - lasi  
 kandela - kandela  
 kandi - makeinen (karkki, namu)  
+kane - tanko (sauva, patukka)  
+kane kasa - häkki  
+kane pan - patonki (ranskanleipä)  
 kanga - kampa  
 kangaru - kenguru  
 kanjar - tikari  
@@ -1755,7 +1758,7 @@ kerne unta - ydinfuusio
 kerubi - kerubi  
 kesha - hius (karva, tukka, hiukset)  
 kesha bande - hiuspanta  
-kesha na di - karvaton  
+kesha hin - karvaton  
 kesha sabun - šampoo  
 ketel - kattila  
 kiau - silta  
@@ -1803,6 +1806,7 @@ klin - taipumus
 klon - klooni (identtinen kopio)  
 klor - kloori  
 klube - kerho (klubi)  
+klus - suljettu  
 klus - sulkea  
 kobalte - kobaltti  
 koda - häntä  
@@ -2029,15 +2033,16 @@ lote - erä (satsi)
 lou - vuotaa  
 lou sang - vuotaa verta  
 luka - vihreä  
-sis - kuusi (6)  
-sis fase - kuutio (kuusitahokas)  
-sis gona - kuusikulmio  
+luka - kuusi (6)  
+luka fase - kuutio (kuusitahokas)  
+luka gona - kuusikulmio  
 Luksemburge - Luxemburg  
 lulu - helmi  
 lun - väittely (debatti)  
 luna - kuu  
 luna keke - kuukakku  
 lung - itämainen lohikäärme  
+Lung Desha - Bhutan  
 lung dou - siipipapu  
 lusun - parsa  
 luta - ryöstää (ryövätä)  
@@ -2047,8 +2052,9 @@ Luter din ja - luterilainen
 lutetium - lutetium  
 ####M - M  
 ma - äiti (emä)  
-ma di ba - äidinisä  
-ma di ma - äidinäiti  
+ma di - äidillinen  
+ma su ma - äidinäiti  
+ma su pa - äidinisä  
 Madagasi - Madagaskar  
 madagasi di - madagaskarilainen (malagassi)  
 maf - anteeksi  
@@ -2084,6 +2090,8 @@ man - uros (mies)
 man ben - poika  
 man raja - kuningas  
 mana - merkitys  
+manera - käytös (käyttäytyminen, tapa, tavat)  
+manera - käyttäytyä  
 manete - magneetti  
 manete di - magneettinen  
 mang - kiireinen  
@@ -2094,8 +2102,6 @@ Mani - profeetta Mani
 mani din - manikealaisuus  
 Manin nes - Manin saari  
 manioka - kassava (maniokki)  
-manira - käytös (käyttäytyminen, tapa, tavat)  
-manira - käyttäytyä  
 mantra - messuta  
 mantra - mantra  
 mantu - täytetty pulla  
@@ -2248,7 +2254,6 @@ moka - puu
 moka jang ja - puuseppä  
 moka jong parke - arboretum (puulajipuisto)  
 moka mate - puuaines  
-kalam sui - muste  
 mol ja - mylläri  
 mol kan - mylly  
 mol sheku - myllynkivi  
@@ -2303,8 +2308,17 @@ muzika - musiikki
 muzika ja - muusikko  
 Myanma - Myanmar (Burma)  
 ####N - N  
-na - ilman (puuttua)  
-na di - ilman oleva (-ton)  
+na - luona (-lla, -ssa)  
+na in - sisällä (sisäpuolella)  
+na ke - missä?  
+na medi - välissä  
+na niche - alla  
+na nove - äsken (vasta, juuri)  
+na poli mar - usein  
+na re - taas (uudestaan)  
+na supra - yllä (pääll)  
+na u loka - siellä (tuolla)  
+na vakil da - puolesta  
 nabi - profetia  
 nabi ja - profeetta  
 nadir - harvinainen  
@@ -2315,6 +2329,7 @@ nahun - kynsi
 Naijiria - Nigeria  
 nama - liha  
 name - nimi  
+name hin - nimetön  
 name loga - substantiivi (nimisana)  
 Namibia - Namibia  
 nanas - ananas  
@@ -2332,6 +2347,8 @@ nasi sosi sim - natsismi
 nasi sosi sim - kansallissosialismi  
 nasi sosi sim ja - natsi  
 natre - natrium  
+nau - aivot  
+nau hin - aivoton  
 Nauru - Nauru  
 nava - nahuatli  
 nave - vene (laiva)  
@@ -2341,6 +2358,7 @@ nave kape ja - laivakaappari
 nave lefte - paapuuri  
 nave raite - tyyrpuuri  
 nave shefe - kapteeni  
+ne ekso - ulkona (ulkopuolella)  
 Nederlande - Alankomaat (Hollanti)  
 Nederlande Antil - Alankomaiden Antillit  
 nefre - munuainen  
@@ -2394,10 +2412,10 @@ nomi - hallinto (hallinnointi)
 nong - viljellä  
 nong bio logi - maatalousbiologia  
 nong chun - maalaiskylä  
-nong topo - maaseutu  
 nong ja - maanviljelijä  
 nong nomi - agronomia (maatalous)  
 nong shuta - viljely  
+nong topo - maaseutu  
 nong topo di - maalais-  
 norde - pohjoinen  
 Norde Aire - Pohjois-Irlanti  
@@ -2460,8 +2478,8 @@ oranje rang - oranssi
 ore - korva  
 ore flame - korvatulehdus  
 orgazme - orgasmi  
-orom - oromo (etiopialainen kansa ja kieli)  
-Orom Desha - Oromia  
+oromo - oromo (etiopialainen kansa)  
+Oromo Desha - Oromia  
 orto - suora  
 orto gona - suorakulma (oikokulma)  
 orto gona di - suorakulmainen  
@@ -2474,18 +2492,10 @@ osmos - osmoosi
 oste - luu  
 Ostria - Itävalta  
 ####P - P  
-pa - luona (-lla, -ssa)  
-pa ekso - ulkona (ulkopuolella)  
-pa in - sisällä (sisäpuolella)  
-pa ke - missä?  
-pa medi - välissä  
-pa niche - alla  
-pa nove - äsken (vasta, juuri)  
-pa poli mar - usein  
-pa re - taas (uudestaan)  
-pa supra - yllä (pääll)  
-pa u loka - siellä (tuolla)  
-pa vakil da - puolesta  
+pa - isä  
+pa di - isällinen  
+pa su ma - isänäiti  
+pa su pa - isänisä  
 pade - pudota (tipahtaa)  
 pade di - pudonnut (tippunut)  
 pade mosim - syksy (syys)  
@@ -2764,8 +2774,6 @@ re sikle - kierrättää
 re zoku - jatkua uudestaan  
 rebel - kapina  
 redi - valmis  
-arena - hiekka  
-arena topo - aavikko (hiekkaerämaa)  
 rengenium - röntgenium  
 renium - rhenium  
 reporte - raportti (selostus, selonteko)  
@@ -2885,14 +2893,14 @@ sam sifa di - samanlainen
 sama - taivas  
 sama hal - sää  
 Samoa - Samoa  
-fa sana - tehdä (valmistaa)  
-sana basha - keinotekoinen kieli (tekokieli, keinokieli)  
-sana di - tuottava (tuottelias)  
-sana ja - tekijä (valmistaja)  
 sana - tuotanto  
+sana basha - keinotekoinen kieli (tekokieli, keinokieli)  
+sana ja - tekijä (valmistaja)  
+sana ja di - tuottava (tuottelias)  
 sanduiche - voileipä  
 sanduku - laatikko  
 sange - veri  
+sange hin - veretön  
 sante - pyhä  
 Sante Helena - Saint Helena  
 sante kanon - pyhä kirja (pyhät kirjoitukset)  
@@ -2905,10 +2913,10 @@ sapatu - kenkä
 sapatu ja - suutari  
 sapatu kan - suutarin paja  
 sar - pää  
+sar hin - päätön  
 sar kaske - kypärä  
 sar kesha - hius (hiukset)  
-sar kesha na di - kaljupäinen  
-sar na di - päätön  
+sar kesha hin - kaljupäinen  
 sar oste - pääkallo  
 sata - hetki (kotva, ajankohta)  
 sata di - hetkellinen  
@@ -2939,24 +2947,23 @@ seme - siemen
 seme dane - siemenjyvä  
 seme di - siemen-  
 semente - sementti  
-sen - sata (100)  
 sene - ikä  
 sene di - iäkäs  
 Senegal - Senegal  
 sense - aisti  
 sense gi - sensori (aistin)  
+senta nen - vuosisata  
+senta nen di - satavuotinen  
 senti - sentti  
 sentimitre - senttimetri (cm)  
 serami - savityö (keramiikka)  
 Serbia - Serbia  
-serebro - aivot  
 serpe - käärme  
 serva - palvella (tarjoilla)  
 serve - palvelu (palvelus)  
 serve ja - palvelija (tarjoilija)  
 sesam - seesami  
 Seshel nesia - Seychellit  
-sete - seitsemän (7)  
 shaka - oksa (haara)  
 shakal - šakaali  
 shal - huivi (šaali)  
@@ -3224,7 +3231,6 @@ tense ta - jännitys (jännite)
 tenta - houkutella  
 teori - teoria  
 tepe - teippi (nauha)  
-tera - tera-  
 termo - lämpötila  
 termo metre gi - lämpömittari  
 teror - kauhu (terrori)  
@@ -3404,9 +3410,9 @@ virje - neitsyt
 virje di - neitseellinen (koskematon)  
 virus - virus  
 virus logi - virologia  
-vise ba - isäpuoli (äidin puoliso)  
 vise loga - pronomini  
 vise ma - äitipuoli (isän puoliso)  
+vise pa - isäpuoli (äidin puoliso)  
 vise prezidente - varapresidentti  
 vise raja - varakuningas  
 Vishnu - Višnu  
@@ -3493,7 +3499,6 @@ zardush magi ja - zarathustralainen pappi
 ze - luota (lähtien, -sta, -lta)  
 ze saba da - koska (johdosta, takia)  
 zebra - seepra  
-zeta - tsetta-  
 zeyil - syylä  
 zeze - kaksisiipinen  
 zi - kirjoitusmerkki  

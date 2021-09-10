@@ -16,7 +16,6 @@ Afgan - Afghanistan
 Afrika - Afrique  
 agile - agile  
 agresi - agression (attaque)  
-fa agresi - attaquer (agresser)  
 agresi ja - agresseur  
 agresi tabi - agressif  
 aha - comprendre (réaliser)  
@@ -38,7 +37,6 @@ ais krem - crème glacée
 ajibu - merveille  
 akare - acarien  
 akse - axe  
-fa alo - changer  
 Alaska - Alaska  
 alga - algue  
 alga fungu - lichen  
@@ -115,11 +113,13 @@ arbuza - pastèque
 Arcah - Artsakh  
 area - aire (superficie)  
 area - espace (zone, région)  
+arena - sable  
+arena estade - arène  
+arena petra - grès  
 argente - argent  
 Argentina - Argentine  
 argon - argon  
 argu - argument  
-fa argu - arguer  
 arka - arc  
 arka chati - voûte  
 arka ja - archer  
@@ -139,7 +139,7 @@ asal Australia jan - aborigènes australiens
 asal di - originel  
 asan - posture (position)  
 asar - effet  
-asha na di - désespéré  
+asha hin - désespéré  
 Ashur - Assur  
 Ashur desha - Assyrie  
 asia - asiatique  
@@ -168,7 +168,6 @@ avar - dommage
 ave - avoine  
 Azerbaijan - Azerbaijan  
 ####B - B  
-ba - pere (papa)  
 babu - chapitre  
 babuche - pantoufle (babouche)  
 babul - vachellia  
@@ -181,7 +180,6 @@ bagi bele - bêche (pelle)
 bagre - tigre  
 bagre oselote - oncille  
 bah - bah  
-baya - baie (golf)  
 baka fan - terre cuite  
 baka ja - boulanger  
 baku - blanc  
@@ -229,16 +227,16 @@ baske - panier (panier de basketball)
 baske bol - basketball  
 bateri - pile (batterie)  
 bati - huit (8)  
-kane - bâton (canne, tige)  
-kane kasa - cage  
 bau di - précieux  
 bau sheku - pierre précieuse (joyau)  
+baya - baie (golf)  
 bazar - marché (bazar)  
 baze - base  
 baze bol - baseball  
 baze shula kan - école primaire  
 be ais - geler (glacer)  
 be bio mute - fermenter  
+be boi - nagar (flotter)  
 be bum - exploser (détoner)  
 be dom - vivre (habiter)  
 be dura - durer  
@@ -270,9 +268,9 @@ bina plan - architecture
 bina plan ja - architecte  
 bio logi - biologie  
 bio sana she - compost  
+bio she - organisme  
 bio sistem - biome  
 bio toksi - toxine  
-bio she - organisme  
 bir - bière  
 biskute - biscuit  
 blu - bleu  
@@ -287,13 +285,9 @@ bomba - bombe
 bon - bon  
 bon sin di - propice  
 botel - bouteille  
-be boi - nagar (flotter)  
 bravo - brave  
 bravo - bravo!  
 briko - abricot (prune)  
-kafe rang - brun (marron)  
-kafe alga - algues brunes  
-kafe salmon - truite brune (truite de mer)  
 bu! - bouh!  
 bubu - croque-mitaine  
 bucha - abattre  
@@ -324,10 +318,11 @@ chen den - hier
 chen zaman di - vieux (ancien)  
 cheng bede - lits superposés  
 cheri - cerise  
+cheti - sept (7)  
 chili - piment  
-chin ba - grand-père  
 chin brus ben - cousin  
 chin ma - grand-mère  
+chin pa - grand-père  
 chini - porcelaine  
 chira - déchirer  
 chira - déchirer  
@@ -347,7 +342,7 @@ dalil - preuve
 dang gi - cloche  
 danse - dance  
 Danske - danois  
-dante na di - édenté  
+dante hin - édenté  
 dara tubo - entonnoir  
 darja mute - développement  
 data - données  
@@ -437,8 +432,11 @@ europe baluta - chêne pédonculé
 europe di - européen  
 ####F - F  
 fa - faire  
+fa agresi - attaquer (agresser)  
 fa ajibu - éblouir (étonner, stupéfier, surprendre)  
+fa alo - changer  
 fa an galta - déboguer (débugger)  
+fa argu - arguer  
 fa asar - effectuer  
 fa bina - construire  
 fa daka - couvrir  
@@ -558,9 +556,9 @@ galope - galop
 galte - faute (erreur)  
 galte di - erroné  
 gami - mariage  
-gami baba - beau-père  
 gami jan - époux  
-gami mama - belle-mère  
+gami ma - belle-mère  
+gami pa - beau-père  
 gan chau - foin  
 gan tela - serviette  
 ganse - oie  
@@ -738,12 +736,16 @@ ka - que (comme)
 kaboga - citrouille  
 kade - morue  
 kafe - café  
+kafe alga - algues brunes  
 kafe kan - café  
 kafe pote - cafetière  
+kafe rang - brun (marron)  
+kafe salmon - truite brune (truite de mer)  
 kaguji - papier  
 kaguji limon - lime (citron vert)  
 kala - noir  
 kalam - plume  
+kalam sui - encre  
 kalenda - calendrier  
 kali - base (alcali)  
 kali - basique  
@@ -765,6 +767,8 @@ kampe bede - lit de camp
 kanape - canapé (sofa)  
 kancha - verre  
 kandi - bonbon  
+kane - bâton (canne, tige)  
+kane kasa - cage  
 kangaru - kangourou  
 kankuate - kumquat  
 kano - canoë  
@@ -801,7 +805,7 @@ ke riti - comment
 ke sate - quand  
 Keme - Égypte antique  
 kerne - coeur  
-kesha na di - glabre  
+kesha hin - glabre  
 kiau - pont  
 kimi - substance  
 kimi logi - chimie  
@@ -936,7 +940,7 @@ long pipre - poivre long
 long tire - tender  
 lotra - loutre  
 luka - vert  
-sis - six (6)  
+luka - six (6)  
 luna - lune  
 luna keke - gâteau de lune  
 lung dou - pois carré  
@@ -945,6 +949,7 @@ Luter din - luthéranisme
 Luter din ja - luthérien  
 ####M - M  
 ma - mère (maman)  
+ma di - maternel  
 magesium - magnésium  
 Magribi desha - Maroc  
 mahala - quartier  
@@ -954,9 +959,9 @@ mal - propriété (possession, bien)
 mal ja - possédant (propriétaire)  
 mal nomi - économie  
 man raja - roi  
+manera - comportement (manière)  
 mang - occupé  
 mani din - manichéisme  
-manira - comportement (manière)  
 mantol - cape  
 mantra - mantra  
 mar - fois  
@@ -1026,7 +1031,6 @@ moka - arbre
 moka ban - planche  
 moka jong parke - arboretum, pépinière  
 moka tana - bûche  
-kalam sui - encre  
 mol kan - moulin  
 mol sheku - meule  
 mole - mole (unité)  
@@ -1045,14 +1049,20 @@ muskul bina - culturisme (musculation)
 musli - musli  
 muzika - musique  
 ####N - N  
+na - a (dans, en, chez)  
+na ke - où  
+na lin - en ligne  
 nadir - rare  
 nadir mar - rarement  
 najis - pollution  
 nama - viande  
+name hin - innomé  
 name kitabu - signer  
 nardi - backgammon  
 nasi - nation  
 nasi medi - international  
+nau - cerveau (cervelle)  
+nau di - cérébral  
 nautile - nautile  
 nave - bateau  
 nave lefte - babord  
@@ -1109,9 +1119,8 @@ osidian - obsidienne
 oste jama - squelette  
 oste shalke - scutelle  
 ####P - P  
-pa - a (dans, en, chez)  
-pa ke - où  
-pa lin - en ligne  
+pa - pere (papa)  
+pa di - paternel  
 pade di - chu  
 pade mosim - automne  
 pagri - turban  
@@ -1145,6 +1154,7 @@ pas dau - passe (passage)
 pas loga - mot de passe  
 pase - paix  
 pase hai kade - morue du Pacifique  
+pase sim - pacifisme  
 pase sim ja - pacifiste  
 pasporte - passeport  
 pasta - pâte  
@@ -1239,9 +1249,6 @@ ratibu - ordre
 re - répétition  
 re sikle - recycler  
 re zoku - reprendre  
-arena - sable  
-arena estade - arène  
-arena petra - grès  
 reseta - recette  
 reste - reste  
 retro - en arrière  
@@ -1297,9 +1304,9 @@ sanduiche - sandwich
 sange - sang  
 sante kanon - saintes écritures   
 sar - tête  
+sar hin - acéphale (sans tête)  
 sar kesha - cheveux  
-sar kesha na di - chauve  
-sar na di - acéphale (sans tête)  
+sar kesha hin - chauve  
 sata di - momentané  
 Saturne - Saturne  
 saur - lézard  
@@ -1313,13 +1320,14 @@ selge - blettes (bettes)
 selu logi - cytologie  
 seme - semence  
 seme di - séminal  
-sen - cent (100)  
 sene - âge  
 sense - sens  
 sense shaka - tentacule  
+senta - cent (100)  
+senta nen - siècle (centennie)  
+senta nen di - centenaire  
 sentaure - Centaurée  
 sera - scie  
-sete - sept (7)  
 shalke - échelle  
 sham - soir (soirée)  
 shampan - Champagne  
@@ -1377,6 +1385,7 @@ silko - soie
 sing - étoile  
 sir plan - complot (conspiration)  
 sir ta - célérité  
+siro - zéro  
 siti - ville  
 so - élément (unité fondamentale)  
 sofa - canapé (sofa)  
