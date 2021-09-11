@@ -295,7 +295,7 @@ baske bol||||basket ball|basketball|baloncesto (básquetbol)|basketball|баск
 bata|bio|Anatidae|ara: بَطَّة‎ (baṭṭa), hin:बत्तख (battakh), tel:బాతు (bātu), swa:bata + spa:por:pato + tha:เป็ด  (pèt)|duck||pato|pato||بَطَّة‎|鸭|鴨|오리|vịt|बत्तख|||bata||anaso|sorsa (ankka)|kaczka
 bata krote|bio|Ornithorhynchus anatinus||platypus||ornitorrinco||||||||||||||vesinokkaeläin|dziobak
 bateri|||eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri|battery|pile (batterie)|pila (batería)|pilha (bateria)|батарея|بَطَّارِيَّة|电池|バッテリー|전지 (배터리)|pin (bình điện)|बैटरी|ব্যাটারি|baterai (bateri)|betri|pil (akü)|baterio (pilo)|akku (paristo)|bateria
-bati|numbe|8|zho:八 (bā), yue:八 (baat3), wuu:八 (baʔ), jpn:八 (hachi), kor:팔 (pal), tha:แปด (pæt) + hin:आठ (āṭh), ben:আট (aṭ)|eight (8)|huit (8)|ocho (8)|oito (8)|восемь (8)||八 (8)|八 (8)||||||||ok (8)|kahdeksan (8)|osiem (8)
+bati|nomer|8|zho:八 (bā), yue:八 (baat3), wuu:八 (baʔ), jpn:八 (hachi), kor:팔 (pal), tha:แปด (pæt) + hin:आठ (āṭh), ben:আট (aṭ)|eight (8)|huit (8)|ocho (8)|oito (8)|восемь (8)||八 (8)|八 (8)||||||||ok (8)|kahdeksan (8)|osiem (8)
 bau|||zho:宝 (bǎo), kor:보 (bo), vie:bảo, jpn:宝 (hō)|treasure (valuables)||tesoro||сокровище (казна)|||||||||||trezoro|aarre|skarb; skrabiec
 bau di||||precious|précieux|precioso|precioso|драгоценный||宝贵||귀중한||||||||arvokas|cenny
 bau sheku||||gem (gemstone, jewel)|pierre précieuse (joyau)|piedra preciosa (joya, gema)|pedra preciosa (gema)|драгоценный камень|جوهرة‎|宝石|宝石|보석|đá quý|मणि (रत्न)||permata (jauhar)|johari|mücevher|juvelo|jalokivi|klejnot
@@ -538,9 +538,9 @@ chapati|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus
 chape|||hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|print (stamp)||grabado (sello, estampando)||||||||छाप|ছাপ||||presaĵo|painos (leima)|odcisk, ślad; stempel, pieczęć
 charme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 chati|||hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|roof|toit|techo (tejado)|telhado|крыша (кров)|سَطْح‎|屋顶 (房顶)|屋根|지붕|mái|छत (छदि)|ছাদ|atap|paa|çatı|tekto|katto (katos)|dach
-chatre|numbe|4|rus:четыре (chetyre), hin:चार (cār), ben:চার (car), may:catur + fra:quatre, spa:cuatro, por:quatro|four (4)|quatre (4)|cuatro (4)|quatro (4)|четыре (4)||四 (4)|四 (4)||||||||kvar (4)|neljä (4)|cztery (4)
-chatre di galope||||gallop||||||||||||||||neli (kiitolaukka)|
-chatre gona||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
+nelu|nomer|4|kor:넷 (net) + swa:nne, zul:ne, + mal:നാലു (nālu), tel:నాలుగు (nālugu), kan:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, hun:négy|four (4)|quatre (4)|cuatro (4)|quatro (4)|четыре (4)||四 (4)|四 (4)||||||||kvar (4)|neljä (4)|cztery (4)
+nelu di galope||||gallop||||||||||||||||neli (kiitolaukka)|
+nelu gona||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
 chau|bio||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
 chau topo||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 cheke|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
@@ -785,7 +785,7 @@ dudu|bio|Insecta|swa:mdudu, ara: دُود (dūd)|insect|insecte|insecto|inseto|�
 duka||||sadden (make sad)||entristecer (poner triste)|||||||||||||malĝojigi|surettaa|zasmucić (zasmucać)
 duka||||sad||triste|||||||||||||malĝoja|surullinen|smutny
 duka ta|||hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|grief (sorrow)||pena (tristeza)|||||||||||||malĝojo|suru (murhe)|żal, smutek
-duku|||zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|read|lire|leer|ler|читать||读 (看)|読む|읽다|đọc|पढ़ना|পড়া|baca|kusoma|okumak|legi|lukea|czytać
+duku|||zho:读 (dú), yue:讀 (duk6), jpn:讀 (doku-), kor:독 (dok), vie:đọc|read|lire|leer|ler|читать||读 (看)|読む|읽다|đọc|पढ़ना|পড়া|baca|kusoma|okumak|legi|lukea|czytać
 duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|smoke||humo|||||||||||||fumo|savu|dym
 dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
 dunia basha||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
@@ -1276,6 +1276,7 @@ frute|||eng:fra:fruit, spa:por:fruta, rus:фрукт (frukt), jpn:フルーツ (
 frute bagi||||orchard|verger|huerta|pomar|фруктовый сад|بُسْتَان‎|果园|果樹園|과수원||फलौद्यान (বাগ)||||bostan|fruktarbejo|hedelmätarha|
 frute sana||||fertilize|||||||||||||||||nawozić (nawieźć)
 frute sana ja||||fertilizer|||||||||||||||||nawóz
+fufu|||eng:spa:por:may:swa:fufu, fra:foufou, rus:фуфу (fufu), zho:富富 (fùfù), lin:kon:fufú|pulp (pap, mash, mush)|pâte (pulpe, foufou)|polpa||мякоть (пульпа, фуфу)||富富||||||||||tahdas|
 fui|||spa:puaj, pol:fuj, rus:фи (fi)|bah! (yuck!)||puaj|||||||||||||bah!|hyi! (pyh!)|fu, fuj
 fuka|||zho:复 (fù), yue:(fuk), vie:phục|return (restore, recover, resume)||regresar (restablecer, restaurar, recuperar, reanudar)||||||||||||||palauttaa|wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać
 fuku|||zho:服 (fú), yue:服 (fuk6), jpn:服 (fuku), kor:의복 (uibok), vie:y phục|clothing (clothes)|vêtements|ropa (vestimenta)|roupa (vestidura)|одежда|لبس‎|衣服|服|옷 (의복)|quần áo (y phục)|वस्त्र (कपड़े)|পোশাক|pakaian|nguo (mavazi)|giysi|vesto|vaate (puku)|ubranie, ubiór, strój
@@ -2364,7 +2365,8 @@ mangus|bio|Garcinia mangostana||mangosteen||mangostán (jobo de la India)|||||||
 Mani||||prophet Mani||profeta Mani||||||||||||||profeetta Mani|prorok Mani
 mani din||||Manichaeism|manichéisme|maniqueísmo|maniqueísmo|манихейство||摩尼教||||||||||manikealaisuus|manicheizm
 Manin nes|desha|IM||Isle of Man||Isla de Man||||||||||||||Manin saari|Wyspa Man
-manioka|bio|Manihot esculenta|eng:fra:manioc, spa:por:mandioca, rus:манио́ка (manióka)|cassava (manioc)||yuca (mandioca)||||||||||||||kassava (maniokki)|maniok
+manioka|bio|Manihot esculenta|eng:fra:manioc, spa:por:mandioca, rus:маниока (manioka), kor:마니옥 (maniok), lin:manyɔ́kɔ, kon:mandioko|cassava (manioc)|manioc|yuca (mandioca)|mandioca (aipim)|маниока||木薯 |キャッサバ|마니옥 (카사바)||कसावा|কাসাভা|ubi kayu (kasava)||||kassava (maniokki)|maniok
+manioka fufu||||tapioca|tapioca|tapioca|tapioca|тапиока||||||||||||tapioka|
 mantol|||eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel|cape (cloak, mantle)|cape|capa (manto)|capa|плащ (накидка)||斗篷|マント (ケープ)||||||||||peleryna (płaszcz, opończa)
 mantra||||chant||salmodiar||||||||||||||messuta|
 mantra|||eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)|mantra|mantra|mantra|mantra|мантра||||||मंत्र|মন্ত্র|mantra (mantera)||||mantra|
@@ -2460,15 +2462,15 @@ mentor|||san:मन्त्रिन् (mantrin), hin:मंत्री (mant
 meranti|bio|Shorea|may:eng:por:meranti|lauan tree (meranti, balau)|||meranti|шорея||娑羅屬||||||pokok meranti|||ŝoreo||damarzyk (meranti)
 Merkur|planete 1|||Mercury|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury
 mes|||fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), eng:menstral + swa:mwezi|month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
-mes bato|mes|||August|août|agosto|||||８月|||||||||elokuu|listopad
-mes chatre|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
+mes bati|mes|||August|août|agosto|||||８月|||||||||elokuu|listopad
+mes nelu|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
 mes des|mes|||October||octubre|||||１０月|||||||||lokakuu|luty
 mes des du|mes|||December||deciembre|||||１２月|||||||||joulukuu|kwiecień
 mes des un|mes|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
 mes du|mes|||February||febrero|||||２月|||||||||helmikuu|maj
-mes luku|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
-mes penta|mes|||May||mayo|||||５月|||||||||toukokuu|sierpień
-mes sete|mes|||July||julio|||||７月|||||||||heinäkuu|październik
+mes luka|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
+mes lima|mes|||May||mayo|||||５月|||||||||toukokuu|sierpień
+mes cheti|mes|||July||julio|||||７月|||||||||heinäkuu|październik
 mes tisa|mes|||September||septiembre|||||９月|||||||||syyskuu|grudzień
 mes tri|mes|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
 mes un|mes|||January||enero|||||１月|||||||||tammikuu|styczeń
@@ -2936,9 +2938,9 @@ pelpel|bio|Lepidoptera|por:borboleta, fra:papillon, ita:farfalla, bul:пепер
 pende|||eng:pendant, por:fra:pender|hang (dangle)||colgar||||||||||||||roikuttaa|powiesić, wieszać
 pende kardon|bio|Carduus nutans||musk thistle|chardon penché|||чертополох поникший||垂花飞廉|||||||||||oset zwisły
 penis|||eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)|penis (phallus)||pene|||||||||||||peniso|siitin (penis)|penis
-penta|numbe|5|eng:fra:spa:por:pent- + rus:пять (pyat'), hin:पाँच (pā̃c), ben:পাঁচ (pãc)|five (5)|cinq (5)|cinco (5)|cinco (5)|пять (5)||五 (5)|五 (5)||||||||kvin (5)|viisi (5)|pięć (5)
-penta fase||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
-penta gona||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
+lima|nomer|5|may:tgl:lima|five (5)|cinq (5)|cinco (5)|cinco (5)|пять (5)||五 (5)|五 (5)|||||lima|tano||kvin (5)|viisi (5)|pięć (5)
+lima fase||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
+lima gona||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
 pente|||eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)|paint|peinture|pintura|pintura|картина||油漆 (颜料)|絵の具 (ペンキ)|||पेंट (रंग)|||||pentri|maalata|namalować, malować
 pente ja||||painter||pintor||художник|||画家 (絵かき)|||||||||maalari|malarz
 pente tela||||canvas|canevas (toile)|tela|tela|полотно||画布|||||||||kanvaso|taulukangas|
@@ -3256,6 +3258,8 @@ safar ja||||traveler||viajero|||||||||||||vojaĝanto|matkailija|podróżnik
 safar kegu||||tourism||turismo||||||||||||||turismi|turystyka
 safar kegu ja||||tourist|touriste|turista||||||||||||||turisti|turysta
 safran|||ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|saffron||azafrán||шафран|||||||||||safrano|sahrami|szafran
+sagu|bio|Metroxylon sagu|eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)|sago palm|sagoutier|sagú|sagu|саго|سَاغُو‎|西谷米|サゴ|||सागू||pokok sagu||||saagopalmu|sago
+sagu fen||||sago|||||||サゴ澱粉|||||sagu||||saagotärkkelys|
 Sahara Desha|desha|||Sahrawi Arab Democratic Republic||República Árabe Saharaui Democrática|||||||||||||||Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)
 sahi|||hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|right (correct, accurate)|correct (juste)|correcto (justo)|correto (justo)|правильный|صَحِيح|正确|正しい|옳다|phải (đúng)|सही||betul (benar)|sahihi|doğru|ĝusta (prava)|oikea (paikkansapitävä)|właściwy, poprawny
 saide||||hunt (fish)|chasser|cazar (pescar)|caçar|охотиться||打猎|狩る||||||||ĉasi|pyytää (metsästää, kalastaa)|polować (łowić)
@@ -3805,7 +3809,7 @@ uma|bio|Equus ferus|zho:马 (mǎ), yue:馬 (maa5), jpn:馬 (uma), kor:말 (mal),
 uma bichi||||horsewhip (riding crop)|cravache|fusta|chibata|хлыст||马鞭|||||||||vipeto|raippa|
 umami|||jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)|savory (umami)||sabroso (umami)||||鲜味|旨味|감칠맛 (우마미)||||gurih (umami)||||umami (ruokaisanmakuinen)|mięsny (umami)
 Umbriel|planete 7 lun 3|||Umbriel|||||||||||||||||
-un|numbe|1|fra:un, spa:uno, por:um,una, eng:one|one (1)|un (1)|uno (1)|um (1)|один (1)||一 (1)|一 (1)|||||||bir|unu (1)|yksi (1)|jeden (1)
+un|nomer|1|fra:un, spa:uno, por:um,una, eng:one|one (1)|un (1)|uno (1)|um (1)|один (1)||一 (1)|一 (1)|||||||bir|unu (1)|yksi (1)|jeden (1)
 un deu sim||||monotheism||monoteismo||||||||||||||monoteismi (yksijumalisuus)|monoteizm
 un mana di||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
 un mar||||once (one time)|une fois|una vez|uma vez|один раз||一次 (一遍)||一度 (一回, 一遍)|한번|एक बार|||||unufoje|kerran|raz (jeden raz)
@@ -3854,14 +3858,14 @@ vanadium|mate|V||vanadium||vanadio||||||||||||||vanadiini|wanad
 vanila|||eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|vanilla||vainilla||||||||||||||vanilja|wanilia
 Vanuatu|desha|VU||Vanuatu||Vanuatu||||||||||||||Vanuatu|Vanuatu
 var|||hin:वार (vār), ben:বার (bar) + por:feira|day of the week||día de semana|||||||||||||semajntago|viikonpäivä|
-var chatre||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
+var nelu||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
 var du||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiistai|wtorek
-var luku||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
-var penta||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
-var sete||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
+var luka||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
+var lima||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
+var cheti||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
 var tri||||Wednesday|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merredo|keskiviikko|środa
 var un||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
-var var||||week||semana||||週|||||||||semajno|viikko|tydzień
+var var||||week|semaine|semana||||週|||||||||semajno|viikko|tydzień
 vari|||eng:various, spa:vario, por:vário|various (diverse, miscellaneous)|divers (plusieurs)|distintos (diversos)|vários|||各种各样|色々 (種々, 様々, 区々, とりどり, それぞれ)|||||||||monenlainen|różny (różnorodny)
 varis|||may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|heritage (legacy, bequest)||patrimonio (herencia, legado)||||||||||||||perintö|spadek, dziedzictwo, spuścizna, zapis
 varka|||ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|leaf (sheet)||hoja||||||||||||||lehti (arkki, levy)|kartka (dokument)
