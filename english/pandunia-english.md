@@ -1,6 +1,7 @@
 # pandunia-english
 ####A - A  
-a - the (that)  
+a - but (rather)  
+a min da - except (minus)  
 abies - fir tree  
 achar di - pickled  
 achar hiyar - gherkin (pickle)  
@@ -20,9 +21,6 @@ agresi - attack (assault, aggression, hostility)
 agresi ja - aggressor  
 agresi tabi - aggressive  
 aha - understand (realize)  
-ai - love (liking, affection)  
-ai ja - lover  
-ai jen - darling (honey)  
 ainstainium - einsteinium  
 air - air  
 air bio di - aerobic  
@@ -64,8 +62,10 @@ alo sifa di - different
 alumin - aluminium  
 alumin mate - alum  
 alumin okside - alumina (aluminum oxide)  
-ama - but (whereas)  
-ama min da - except (minus)  
+ama - love (liking, affection)  
+ama di - dear (beloved)  
+ama ja - lover  
+ama jen - darling (honey)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amen - honest (trustworthy, true; surely, verily, amen)  
 amen bil - loyal (faithful, trustworthy)  
@@ -76,7 +76,6 @@ Amerika - America (continent)
 Amerika di - American  
 Amerika Samoa - American Samoa  
 amerikium - americium  
-ami - dear (beloved)  
 amir - order (command)  
 amir desha - emirate  
 amir haki - authority (power to give orders)  
@@ -194,7 +193,6 @@ Atlanti Hai - Atlantic Ocean
 atlanti kade - Atlantic cod  
 atlanti salmon - Atlantic salmon  
 atom - atom  
-au - ouch (ow, alas)  
 audi - hear (listen)  
 auro - gold  
 Australia - Australia  
@@ -211,6 +209,7 @@ avar - damage (injury, harm)
 avar di - damaged (corrupt)  
 avar ja - harmful (damaging)  
 ave - oat  
+ayo - ouch (expressing pain, distress, shock and fear)  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babu - chapter (section)  
@@ -2145,6 +2144,7 @@ kush loke - berth (couchette)
 kushen - cushion (pillow)  
 Kuvaitia - Kuwait  
 ####L - L  
+la - the (that)  
 laba - bugle (horn instrument)  
 labi - lip  
 lage - lake  
@@ -3365,11 +3365,11 @@ Senegal - Senegal
 sense - sense (method of perception)  
 sense gi - sensor (detector)  
 sense shaka - tentacle (feeler)  
+senti - centi- (per cent)  
+sentimitre - centimeter (cm)  
 sento - hundred (hecto-, 100)  
 sento nen - century  
 sento nen di - centenary  
-senti - centi- (per cent)  
-sentimitre - centimeter (cm)  
 sera - saw  
 serami - ceramic  
 serami sing - bluet  

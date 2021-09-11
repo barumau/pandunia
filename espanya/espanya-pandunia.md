@@ -141,8 +141,8 @@ aluminio - alumin
 aló - halo  
 alófono - alo fon  
 alúmina - alumin okside  
-amado (cariño) - ai jen  
-amante (enamorado) - ai ja  
+amado (cariño) - ama jen  
+amante (enamorado) - ama ja  
 amapola silvestre - medan papi  
 amar románticamente - romanse  
 amargo - kali guste  
@@ -157,7 +157,7 @@ amhara - Amara
 amigo - dosti  
 amistad (compañerismo) - dosti ta  
 amoldarse - kon forma  
-amor - ai  
+amor - ama  
 amperio - amper  
 ampolla (vial) - ampul  
 América - Amerika  
@@ -305,7 +305,7 @@ avisar (notificar) - fa note
 aviso (notificación) - note anjil  
 avispero (colmena) - fong nide  
 axproximarse - be karibu  
-ay! - au  
+ay! - ayo  
 ayer - chen den  
 ayuda (asistencia) - helpe  
 ayudar (asistar) - fa helpe  
@@ -1153,7 +1153,7 @@ eje - akse
 ejemplo - misal  
 ejército - geo gun  
 ejército - gun  
-el (la) - a  
+el (la) - la  
 El Salvador - Salvador  
 el uno al otro (mutuamente) - se kon  
 el uno al otro (se) - se kon  
@@ -1340,7 +1340,7 @@ examinar (inspeccionar) - gencha
 exangüe - sange hin  
 excavar - fa ekso kave  
 excelente - bon sifa di  
-excepto (menos) - ama min da  
+excepto (menos) - a min da  
 excluir - fa ekso klus  
 exclusivo - ekso klus di  
 existir (actualmente) - zai  
@@ -2678,7 +2678,7 @@ periódico (diario) - habar gazeta
 perla - lulu  
 permitido (admisible) - halal  
 permitir (dejar) - fa halal  
-pero - ama  
+pero (sino) - a  
 perro - vaf  
 persona (ista, -ador) - jan  
 personal (privado, a medida) - auto di  
@@ -2907,7 +2907,7 @@ quemar - fa hogo
 quemarse - be hogo  
 querer (desear) - vol  
 querer (disponer) - icha  
-querido - ami  
+querido - ama di  
 querubín - kerubi  
 queso - chize  
 queso fresco - panir  

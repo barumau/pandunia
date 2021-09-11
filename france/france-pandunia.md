@@ -66,8 +66,8 @@ amer - kali guste
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
 amie - dosti  
 amiral - hai amir ja  
-amour (affection) - ai  
-amoureux - ai ja  
+amour (affection) - ama  
+amoureux - ama ja  
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - Amerika di  
@@ -176,7 +176,7 @@ Azerbaijan - Azerbaijan
 azur - lazur  
 aérobique - air bio di  
 aéroport - air porte  
-aïe! - au  
+aïe! - ayo  
 ####B - B  
 babord - nave lefte  
 backgammon - nardi  
@@ -351,7 +351,7 @@ chauve-souris - fei mushu
 chaux - kalse mate  
 chef - shefe  
 chemise - kamisa  
-cher - ami  
+cher - ama di  
 chercher - soka  
 cheveux - sar kesha  
 chien - vaf  
@@ -364,7 +364,7 @@ Christ (messie) - mesi
 chronique - dura di  
 chronomètre - dura metre gi  
 chu - pade di  
-chéri - ai jen  
+chéri - ama jen  
 chêne - baluta  
 chêne pédonculé - europe baluta  
 chœur - chante grupe  
@@ -801,7 +801,7 @@ lapis-lazuli - lazur petra
 lasagne - lazanya  
 latéral - late di  
 lave - yong petra  
-le (la) - a  
+le (la) - la  
 lent - lente  
 lentille - lense  
 Lettonie - Latvia  
@@ -859,7 +859,7 @@ magnésium - magesium
 mah-jong - majang  
 maillon (chaînon) - sili tika  
 main - hande  
-mais (bien que) - ama  
+mais - a  
 maison - dom  
 malédiccion - lana  
 manche - kamisa shaka  

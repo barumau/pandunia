@@ -1,6 +1,7 @@
 # pandunia-suomi
 ####A - A  
-a - se  
+a - mutta  
+a min da - paitsi (miinus)  
 abies - pihta (jalokuusi)  
 achi - aivastaa (atsii!)  
 acinium - aktinium  
@@ -18,9 +19,6 @@ agresi - hyökkäys (päällekarkaus, aggressio)
 agresi ja - hyökkääjä  
 agresi tabi - hyökkäävä (aggressiivinen)  
 aha - oivaltaa (tajuta)  
-ai - rakkaus (tykkääminen)  
-ai ja - rakastaja  
-ai jen - kulta (rakas)  
 ainstainium - einsteinium  
 air - ilma  
 air bio di - aerobinen  
@@ -59,8 +57,10 @@ alo sekse di - heteroseksuaali
 alo sifa - erilaisuus (ero)  
 alo sifa di - erilainen  
 alumin - alumiini  
-ama - mutta  
-ama min da - paitsi (miinus)  
+ama - rakkaus (tykkääminen)  
+ama di - rakas (armas)  
+ama ja - rakastaja  
+ama jen - kulta (rakas)  
 Amara - amhara (etiopialainen kansa ja kieli)  
 amen - rehellinen (totisesti, uskottavasti, aamen)  
 amen shin - luottaa (uskoa)  
@@ -68,7 +68,6 @@ amen shin di - varma
 Amerika - Amerikka  
 Amerika di - amerikkalainen  
 amerikium - amerikium  
-ami - rakas (armas)  
 amir - käsky (komento)  
 amir desha - emiirikunta  
 amir haki - käskyvalta  
@@ -174,7 +173,6 @@ astro nomi ja - tähtitieteilijä
 Athina - Ateena  
 Atlanti Hai - Atlantin valtameri  
 atom - atomi  
-au - ai! (au!)  
 audi - kuulla (kuunnella)  
 auro - kulta  
 Australia - Australia  
@@ -191,6 +189,7 @@ avar - vaurio (vahinko, haveri)
 avar di - vaurioitunut  
 avar ja - vahingollinen (vaurioittava)  
 ave - kaura  
+ayo - oi! (ai, oijoi)  
 Azerbaijan - Azerbaidžan  
 ####B - B  
 babu - luku (kirjan osa)  
@@ -1917,6 +1916,7 @@ kush - maata (makoilla)
 kushen - tyyny  
 Kuvaitia - Kuwait  
 ####L - L  
+la - se  
 laba - torvi (torvisoitin)  
 labi - huuli  
 Lagos - Lagos  
@@ -2956,10 +2956,10 @@ sene di - iäkäs
 Senegal - Senegal  
 sense - aisti  
 sense gi - sensori (aistin)  
-sento nen - vuosisata  
-sento nen di - satavuotinen  
 senti - sentti  
 sentimitre - senttimetri (cm)  
+sento nen - vuosisata  
+sento nen di - satavuotinen  
 serami - savityö (keramiikka)  
 Serbia - Serbia  
 serpe - käärme  

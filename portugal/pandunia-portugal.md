@@ -1,6 +1,6 @@
 # pandunia-portugal
 ####A - A  
-a - o (a)  
+a - mas  
 abies - abeto  
 achi - espirrar  
 ada - costume (hábito)  
@@ -11,9 +11,6 @@ Afgan - Afeganistão
 agile - ágil  
 agresi - ataque  
 agresi ja - agressor  
-ai - amor  
-ai ja - amante  
-ai jen - querido  
 air - ar  
 air bio di - aeróbico  
 air gun - força aérea  
@@ -30,9 +27,12 @@ almas - diamante
 alo - outro  
 alo fen di - distinto  
 alo rai - discordar  
+ama - amor  
+ama di - querido (caro)  
+ama ja - amante  
+ama jen - querido  
 amen - honesto (sincero)  
 amen shin - confiar (contar com)  
-ami - querido (caro)  
 an air bio di - anaeróbico  
 an din ja - infiel  
 an memo - esquecer  
@@ -73,12 +73,12 @@ astro nomi - astronomia
 astro nomi ja - astrónomo  
 Athina - Atenas  
 atlanti kade - bacalhau-do-atlântico  
-au - ai!  
 auro - ouro  
 Austronesia - Austronésia  
 auto loga - monólogo  
 avar - dano (avaria)  
 ave - aveia  
+ayo - ai!  
 ####B - B  
 bacha - criança (menino)  
 badam - amêndoa  
@@ -682,6 +682,7 @@ kurva - curva
 kush - deitar  
 kush - estar deitado (jazer)  
 ####L - L  
+la - o (a)  
 labi - lábio  
 lage - lago  
 lai - vir  
@@ -1102,10 +1103,10 @@ sene - idade
 sene di - idoso (sene)  
 sense - sentido  
 sense shaka - tentáculo  
+sentaure - centáurea  
 sento - cem (100)  
 sento nen - século  
 sento nen di - centénario  
-sentaure - centáurea  
 sera - serra  
 serami - cerâmico  
 shalke - escama  

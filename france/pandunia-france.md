@@ -1,6 +1,6 @@
 # pandunia-france
 ####A - A  
-a - le (la)  
+a - mais  
 abies - sapin  
 achar di - décapé (mariné)  
 achar hiyar - concombre confit (cornichon)  
@@ -19,9 +19,6 @@ agresi - agression (attaque)
 agresi ja - agresseur  
 agresi tabi - agressif  
 aha - comprendre (réaliser)  
-ai - amour (affection)  
-ai ja - amoureux  
-ai jen - chéri  
 ainstainium - Einsteinium  
 air - air  
 air bio di - aérobique  
@@ -58,7 +55,10 @@ alo sifa di - différent
 alumin - aluminium  
 alumin mate - alun  
 alumin okside - alumine (oxyde d'aluminium)  
-ama - mais (bien que)  
+ama - amour (affection)  
+ama di - cher  
+ama ja - amoureux  
+ama jen - chéri  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
 amen - honnête (sûr, crédible, sûrement)  
 amen shin - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
@@ -67,7 +67,6 @@ Amerika - Amérique
 Amerika di - américain  
 Amerika Samoa - Samoa américaines  
 amerikium - américium  
-ami - cher  
 amir desha - émirat  
 amir ja - émir  
 amir lin - ligne de commande (console, terminal, invite de commande)  
@@ -158,7 +157,6 @@ Atlanti Hai - océan Atlantique
 atlanti kade - morue de l'Atlantique  
 atlanti salmon - saumon altentique  
 atom - atome  
-au - aïe!  
 auro - or  
 Australia - Australie  
 Austronesia - Austronésie  
@@ -166,6 +164,7 @@ auto loga - monologue
 avakate - avocat  
 avar - dommage  
 ave - avoine  
+ayo - aïe!  
 Azerbaijan - Azerbaijan  
 ####B - B  
 babu - chapitre  
@@ -868,6 +867,7 @@ kush - coucher
 kush - être couché  
 kush loke - couch (couchette)  
 ####L - L  
+la - le (la)  
 lage - lac  
 lai - venir  
 laji - ordures  
@@ -1327,10 +1327,10 @@ seme di - séminal
 sene - âge  
 sense - sens  
 sense shaka - tentacule  
+sentaure - Centaurée  
 sento - cent (100)  
 sento nen - siècle (centennie)  
 sento nen di - centenaire  
-sentaure - Centaurée  
 sera - scie  
 shalke - échelle  
 sham - soir (soirée)  

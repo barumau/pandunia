@@ -1,7 +1,8 @@
 pandunia|klase||logasle|english|france|espanya|portugal|rus|arabi|putongi han|nipon|chosen|viet|hindi|bangla|malayu|suahili|turki|esperanto|suomi|polski
 ----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------
 A||||A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A
-a|dem.prn.||por:a, ara:a(l), tel:ఆ (ā), tam:அது (atu)|the (that)|le (la)|el (la)|o (a)||||||||||||la|se|
+a|funsi||rus:а (a)|but (rather)|mais|pero (sino)|mas|а (но)||但是 (不过)||||लेकिन (मगर)|কিন্তু|tetapi|lakini (bali)|ama (fakat)|sed|mutta|ale, lecz
+a min da||||except (minus)||excepto (menos)|||||||||||||escepte|paitsi (miinus)|oprócz, minus
 abies|bio|Abies|spa:por:abeto|fir tree|sapin|abeto|abeto|пихта|شُوح‎|冷杉|モミ|전나무|linh sam|सनोबर||||göknar|abio|pihta (jalokuusi)|jodła
 achar|||fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|||||||腌菜|漬物|||अचार||acar (jeruk)|||||marynować
 achar di||||pickled|décapé (mariné)|encurtido||марино́ванный|||||||||||||kiszony (marynowany)
@@ -22,9 +23,6 @@ agresi|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), s
 agresi ja||||aggressor|agresseur|agresor|agressor|агрессор||侵略者||||||||||hyökkääjä|
 agresi tabi||||aggressive|agressif|agresivo|||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
 aha|||rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|understand (realize)|comprendre (réaliser)|entender (comprender)|||||||||||||kompreni|oivaltaa (tajuta)|rozumieć, pojmować
-ai|||zho:爱 (ài), yue:愛 (oi3), jpn:愛 (ai), vie:ái, kor:애 (ae)|love (liking, affection)|amour (affection)|amor|amor|любовь||爱|愛|||मुहब्बत (अनुराग, पसंद)||cinta (kasih, asmara)|penzi (ashiki, upendo)|sevda (aşk)|amo|rakkaus (tykkääminen)|miłość (afekt)
-ai ja|||ara: حُبّ (ḥubb), swa:huba, hin:मुहब्बत (muhabbat), ben:মহব্বত (môhôbbôt)|lover|amoureux|amante (enamorado)|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja|
-ai jen||||darling (honey)|chéri|amado (cariño)|querido||حَبِيب‎|||||हबीब (प्रिय)|||||karulo|kulta (rakas)|
 ainstainium|mate|Es||einsteinium|Einsteinium|einsteinium|||||||||||||ejnŝtejnio|einsteinium|einstein
 air|||eng:fra:spa:air, por:ar, rus:аэро- (aero-)|air|air|aire|ar|воздух|هوا‎|空气|空気|공기|không khí|हवा (वायु)|বায়ু|udara (hawa)|hewa|hava|aero|ilma|powietrze
 air bio di||||aerobic|aérobique|aeróbico|aeróbico|аэробный|||好気性|||||||||aerobinen|
@@ -66,8 +64,10 @@ alo sifa di||||different|différent|diferente||||||||||||||erilainen|różny (in
 alumin|mate|Al||aluminium|aluminium|aluminio|||||||||||||aluminio|alumiini|glin (aluminium)
 alumin mate||||alum|alun|alumbre|||||||||||||||
 alumin okside||||alumina (aluminum oxide)|alumine (oxyde d'aluminium)|alúmina|||||||||||||||
-ama|funsi|||but (whereas)|mais (bien que)|pero|||||||||||||sed|mutta|ale, lecz
-ama min da||||except (minus)||excepto (menos)|||||||||||||escepte|paitsi (miinus)|oprócz, minus
+ama|||spa:por:amar, fra:aimer|love (liking, affection)|amour (affection)|amor|amor|любовь||爱|愛|||मुहब्बत (अनुराग, पसंद)||cinta (kasih, asmara)|penzi (ashiki, upendo)|sevda (aşk)|amo|rakkaus (tykkääminen)|miłość (afekt)
+ama di||||dear (beloved)|cher|querido|querido (caro)|||亲爱的|愛しい|||प्यारा|||||kara|rakas (armas)|kochany (drogi)
+ama ja||||lover|amoureux|amante (enamorado)|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja|
+ama jen||||darling (honey)|chéri|amado (cariño)|querido||حَبِيب‎|||||हबीब (प्रिय)|||||karulo|kulta (rakas)|
 Amara|nas|||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique et langue éthiopienne)|amhara||||||||||||||amhara (etiopialainen kansa ja kieli)|Amhara, amharski
 amen|||heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|honest (trustworthy, true; surely, verily, amen)|honnête (sûr, crédible, sûrement)|honesto (seguramente, amén)|honesto (sincero)|честный (правдивый)||诚实|正直|정직하다||ईमानदार (सच्चा)||||||rehellinen (totisesti, uskottavasti, aamen)|
 amen bil||||loyal (faithful, trustworthy)||leal (fiel)||верный||忠实|忠実||||||||||lojalny (wierny)
@@ -78,7 +78,6 @@ Amerika|||eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:m
 Amerika di||||American|américain|americano|||||||||||||amerika|amerikkalainen|amerykański
 Amerika Samoa|desha|AS||American Samoa|Samoa américaines|Samoa Americana|||||||||||||||Amerykańska Samoa
 amerikium|mate|Am||americium|américium|americio|||||||||||||americio|amerikium|ameryk
-ami||||dear (beloved)|cher|querido|querido (caro)|||亲爱的|愛しい|||प्यारा|||||kara|rakas (armas)|kochany (drogi)
 amir|||ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|order (command)||orden (mando, comando)|||||||||||amri|emir|ordono|käsky (komento)|rozkaz, komenda
 amir desha||||emirate|émirat|emirato||||||||||||||emiirikunta|emirat
 amir haki||||authority (power to give orders)||||||||||||||||käskyvalta|
@@ -197,7 +196,6 @@ Atlanti Hai|||eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантич
 atlanti kade|bio|Gadus morhua||Atlantic cod|morue de l'Atlantique|bacalao común|bacalhau-do-atlântico|Атлантическая треска||大西洋鱈|タイセイヨウダラ||||||||||dorsz atlantycki
 atlanti salmon|bio|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
 atom|||eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|atom|atome|átomo|||||||||||||atomo|atomi|atom
-au|||eng:ow, spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|ouch (ow, alas)|aïe!|ay!|ai!||||||||||||aj (alas)|ai! (au!)|aj!, ał!
 audi|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
 auro|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold|or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto
 Australia|desha|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Australia|Australia
@@ -214,6 +212,7 @@ avar|||ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra
 avar di||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
 avar ja||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen (vaurioittava)|krzywdzący (szkodliwy)
 ave|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
+ayo|||fra:aïe, spa:ay, por:ai, rus:ай (ay), zho:哎哟 (āiyō), kor:아야 (aya), tel:అయ్యో (ayyō), tam:ஐயோ (aiyō)|ouch (expressing pain, distress, shock and fear)|aïe!|ay!|ai!|||哎哟|痛い|아야|||||||aj (alas)|oi! (ai, oijoi)|aj!, ał!
 Azerbaijan|desha|AZ||Azerbaijan|Azerbaijan|Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan
 B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B
 babu|||ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu|chapter (section)|chapitre|capítulo (sección)||глава|(بَاب‎) فَصْل‎|章||||||bab|babu (sura)|bölüm|ĉapitro|luku (kirjan osa)|rozdział, sekcja
@@ -2150,6 +2149,7 @@ kush loke|||fra:eng:couchette, ita:cuccetta, pol:kuszetka|berth (couchette)|couc
 kushen||||cushion (pillow)||almohada||||||||||||||tyyny|poduszka
 Kuvaitia|desha|KW||Kuwait||Kuwait||||||||||||||Kuwait|Kuwejt
 L||||L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L
+la|dem.prn.||fra:la, spa:la, ara: الـ‎ (al-)|the (that)|le (la)|el (la)|o (a)||الـ‎||||||||||la|se|
 laba|||zho:喇叭 (lǎbā), yue:喇叭 (laa3baa1), jpn:喇叭 (rappa)|bugle (horn instrument)||clarín (corneta)||||||||||||||torvi (torvisoitin)|róg
 labi|||spa:labio, por:lábio, fas:urd:(lab), hin:लब (lab), tgl:labi|lip||labio|lábio||||||||||||lipo|huuli|warga
 lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
@@ -3374,12 +3374,12 @@ Senegal|desha|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
 sense|||eng:sense, spa:por:sentido, fra:sens|sense (method of perception)|sens|sentido|sentido|чувство|حاسة‎|感觉|感覚|감각|||||||sentumo|aisti|zmysł
 sense gi||||sensor (detector)||||||||||||||||sensori (aistin)|sensor (detektor, czujka)
 sense shaka||||tentacle (feeler)|tentacule|tentáculo|tentáculo|щупальце||觸手|触手||||||||||macka (czułek)
-sento|nomer|100|fra:cent, spa:cien, por:cem, ita:cento, eng:cent-, hin:शत (śat), ben:শত (śôt)|hundred (hecto-, 100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|百|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (hehto-)|sto (100)
-sento nen||||century|siècle (centennie)|centuria (siglo)|século|столетие||世纪|世紀|세기|thế kỷ|शताब्दी|শতাব্দী|abad||yüzyıl (asır)|jarcento (centjaro)|vuosisata|stulecie
-sento nen di||||centenary|centenaire|centenario|centénario|столетний|||||||||||centjara|satavuotinen|
 sentaure|bio|Centaurea|eng:centaury, por:centáurea||Centaurée||centáurea|василёк|||||||||||||chaber
 senti|numbe|||centi- (per cent)||centi- (por ciento)|||||||||||||centono|sentti|centy-, procent, na sto, setna część
 sentimitre|unomete|cm||centimeter (cm)||centímetro||||||||||||||senttimetri (cm)|centymetr
+sento|nomer|100|fra:cent, spa:cien, por:cem, ita:cento, eng:cent-, hin:शत (śat), ben:শত (śôt)|hundred (hecto-, 100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|百|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (hehto-)|sto (100)
+sento nen||||century|siècle (centennie)|centuria (siglo)|século|столетие||世纪|世紀|세기|thế kỷ|शताब्दी|শতাব্দী|abad||yüzyıl (asır)|jarcento (centjaro)|vuosisata|stulecie
+sento nen di||||centenary|centenaire|centenario|centénario|столетний|||||||||||centjara|satavuotinen|
 sera|||spa:sierra, por:serra, eng:serrate|saw|scie|sierra|serra|пила||锯子|のこぎり||||||||||piła
 serami|||eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik|ceramic||cerámica|cerâmico|керамика||陶瓷|陶器|||मृत्तिकाशिल्प||seramik||||savityö (keramiikka)|ceramika
 serami sing|bio|Houstonia||bluet|||||||||||||||||houstonia

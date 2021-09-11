@@ -1,6 +1,7 @@
 # pandunia-esperanto
 ####A - A  
-a - la  
+a - sed  
+a min da - escepte  
 abies - abio  
 achi - terni  
 acinium - aktinio  
@@ -14,9 +15,6 @@ agile - lerta
 agresi - atako (agreso)  
 agresi tabi - agresema  
 aha - kompreni  
-ai - amo  
-ai ja - amanto  
-ai jen - karulo  
 ainstainium - ejnŝtejnio  
 air - aero  
 air gun - aerarmeo  
@@ -39,12 +37,13 @@ alo nam - tio estas (alivorte)
 alo rai - malkonsenti  
 alo sekse di - samseksema  
 alumin - aluminio  
-ama - sed  
-ama min da - escepte  
+ama - amo  
+ama di - kara  
+ama ja - amanto  
+ama jen - karulo  
 Amerika - Ameriko  
 Amerika di - amerika  
 amerikium - americio  
-ami - kara  
 amir - ordono  
 amper - ampero  
 an - mala  
@@ -100,7 +99,6 @@ astro nave ja - astronaŭto
 astro nomi ja - astronomo  
 Athina - Ateno  
 atom - atomo  
-au - aj (alas)  
 audi - aŭdi (aŭskulti)  
 auro - oro  
 Australia - Aŭstralio  
@@ -110,6 +108,7 @@ avakate - avokado
 avar - damaĝo  
 avar ja - damaĝa  
 ave - aveno  
+ayo - aj (alas)  
 ####B - B  
 babu - ĉapitro  
 babuche - pantoflo  
@@ -1067,6 +1066,7 @@ kursi - seĝo
 kurva - kurbo  
 kush - kuŝi  
 ####L - L  
+la - la  
 labi - lipo  
 lai - veni  
 laji - rubo  
@@ -1593,10 +1593,10 @@ seme - semo
 seme di - sema  
 sene - aĝo  
 sense - sentumo  
+senti - centono  
 sento - cent  
 sento nen - jarcento (centjaro)  
 sento nen di - centjara  
-senti - centono  
 Serbia - Serbio  
 serpe - serpento  
 shaka - branĉo  

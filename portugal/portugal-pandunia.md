@@ -29,7 +29,7 @@ agressor - agresi ja
 agrobiologia - nong bio logi  
 agronomia - nong nomi  
 agrícola - nong di  
-ai! - au  
+ai! - ayo  
 ainda - zoku  
 alaranjado - oranje rang  
 alcachofra - karchof  
@@ -49,10 +49,10 @@ altar - puja meza
 alterar - fa alo  
 alô - halo  
 amador - hobi ja  
-amante - ai ja  
+amante - ama ja  
 amargo - kali guste  
 amigo - dosti  
-amor - ai  
+amor - ama  
 amoreira - tuta  
 amêndoa - badam  
 anaeróbico - an air bio di  
@@ -744,6 +744,7 @@ marinha - hai gun
 Marrocos - Magribi desha  
 Marte - Marse  
 marítimo - hai di  
+mas - a  
 massa - masa  
 massa de modelar (massinha) - plasti paste  
 mastro - masta  
@@ -859,7 +860,7 @@ não-binário - nobi
 nós - mimen  
 núcleo (cerne) - kerne  
 número - nomer  
-o (a) - a  
+o (a) - la  
 ####O - O  
 o que - ke  
 objetivo - dike  
@@ -1036,8 +1037,8 @@ queimarse - be hogo
 queixa (lamento, reclamação) - shikaya  
 quem - ke jan  
 querer (desejar) - vol  
-querido (caro) - ami  
-querido - ai jen  
+querido (caro) - ama di  
+querido - ama jen  
 questão (pergunta) - sual  
 quiabo - bamia  
 quilate - kirate  

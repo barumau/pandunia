@@ -1,6 +1,7 @@
 # pandunia-espanya
 ####A - A  
-a - el (la)  
+a - pero (sino)  
+a min da - excepto (menos)  
 abies - abeto  
 achar di - encurtido  
 achar hiyar - pepinillo  
@@ -19,9 +20,6 @@ agresi - ataque
 agresi ja - agresor  
 agresi tabi - agresivo  
 aha - entender (comprender)  
-ai - amor  
-ai ja - amante (enamorado)  
-ai jen - amado (cariño)  
 ainstainium - einsteinium  
 air - aire  
 air bio di - aeróbico  
@@ -62,8 +60,10 @@ alo sifa di - diferente
 alumin - aluminio  
 alumin mate - alumbre  
 alumin okside - alúmina  
-ama - pero  
-ama min da - excepto (menos)  
+ama - amor  
+ama di - querido  
+ama ja - amante (enamorado)  
+ama jen - amado (cariño)  
 Amara - amhara  
 amen - honesto (seguramente, amén)  
 amen bil - leal (fiel)  
@@ -73,7 +73,6 @@ Amerika - América
 Amerika di - americano  
 Amerika Samoa - Samoa Americana  
 amerikium - americio  
-ami - querido  
 amir - orden (mando, comando)  
 amir desha - emirato  
 amir ja - emir  
@@ -176,7 +175,6 @@ Atlanti Hai - océano Atlántico
 atlanti kade - bacalao común  
 atlanti salmon - salmón del Atlántico  
 atom - átomo  
-au - ay!  
 audi - oír (escuchar)  
 auro - oro  
 Australia - Australia  
@@ -193,6 +191,7 @@ avar - daño (corrupción)
 avar di - dañado  
 avar ja - dañino (perjudicial)  
 ave - avena  
+ayo - ay!  
 Azerbaijan - Azerbaiyán  
 ####B - B  
 babu - capítulo (sección)  
@@ -1927,6 +1926,7 @@ kush - acostarse (echarse, tenderse, tumbarse)
 kushen - almohada  
 Kuvaitia - Kuwait  
 ####L - L  
+la - el (la)  
 laba - clarín (corneta)  
 labi - labio  
 lage - lago  
@@ -3059,11 +3059,11 @@ sene - edad
 Senegal - Senegal  
 sense - sentido  
 sense shaka - tentáculo  
+senti - centi- (por ciento)  
+sentimitre - centímetro  
 sento - cien (100)  
 sento nen - centuria (siglo)  
 sento nen di - centenario  
-senti - centi- (por ciento)  
-sentimitre - centímetro  
 sera - sierra  
 serami - cerámica  
 Serbia - Serbia  

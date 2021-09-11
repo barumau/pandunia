@@ -12,7 +12,7 @@ Afryka - Afrika
 agorafobia - medan fobi  
 agresywny - agresi tabi  
 agronomia - nong nomi  
-aj!, ał! - au  
+aj!, ał! - ayo  
 akacja - akasia  
 akacja arabska - arabi babul  
 akcent, nacisk - bari fon  
@@ -25,7 +25,7 @@ akwarela (farba wodna) - sui rang
 akwarium - peshe tanke  
 Alaska - Alaska  
 Albania - Chipe  
-ale, lecz - ama  
+ale, lecz - a  
 alfabet łaciński, łacinka, alfabet rzymski - Latin zi  
 alfabet, abecadło - zi sili  
 alga (wodorost) - alga  
@@ -1107,7 +1107,7 @@ kminek - karavi
 kobalt - kobalte  
 kobieta, dorosła samica - matur fem  
 kobieta; kobiecy - fem  
-kochany (drogi) - ami  
+kochany (drogi) - ama di  
 kochać romantycznie - romanse  
 kocioł - dai pote  
 kod, szyfr - kode  
@@ -1525,7 +1525,7 @@ mięta pieprzowa - pipre minta
 mięta wodna - sui minta  
 mięta zielona (mięta kłosowa) - zong minte  
 miłośnik (fan, -fil) - fili ja  
-miłość (afekt) - ai  
+miłość (afekt) - ama  
 miłość romantyczna - romanse  
 miły, przyjemny, uroczy - hushi  
 Mjanma, Birma - Myanma  
@@ -1845,7 +1845,7 @@ opisywać, ilustorawć; przedstawiać - grafi
 opona mózgowa - meninge  
 opowiadanie, opowieść, legenda, saga - kata  
 opowiedzieć, opowiadać - fa kata  
-oprócz, minus - ama min da  
+oprócz, minus - a min da  
 opłata, taryfa - tarif  
 organiczny - bio  
 orgazm - orgazme  

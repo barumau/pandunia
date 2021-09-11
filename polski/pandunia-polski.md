@@ -1,5 +1,7 @@
 # pandunia-polski
 ####A - A  
+a - ale, lecz  
+a min da - oprócz, minus  
 abies - jodła  
 achar - marynować  
 achar di - kiszony (marynowany)  
@@ -18,7 +20,6 @@ agile - zwinny, sprawny
 agresi - atak (agresja, napaść)  
 agresi tabi - agresywny  
 aha - rozumieć, pojmować  
-ai - miłość (afekt)  
 ainstainium - einstein  
 air - powietrze  
 air gun - siły powietrzne  
@@ -57,8 +58,8 @@ alo sekse di - heteroseksualny
 alo sifa - różnica  
 alo sifa di - różny (inny)  
 alumin - glin (aluminium)  
-ama - ale, lecz  
-ama min da - oprócz, minus  
+ama - miłość (afekt)  
+ama di - kochany (drogi)  
 Amara - Amhara, amharski  
 amen bil - lojalny (wierny)  
 amen bilta - lojalność (wierność)  
@@ -67,7 +68,6 @@ Amerika - Ameryka (kontynent)
 Amerika di - amerykański  
 Amerika Samoa - Amerykańska Samoa  
 amerikium - ameryk  
-ami - kochany (drogi)  
 amir - rozkaz, komenda  
 amir desha - emirat  
 amir ja - emir  
@@ -172,7 +172,6 @@ Atlanti Hai - Ocean Atlantycki
 atlanti kade - dorsz atlantycki  
 atlanti salmon - łosoś atlantycki  
 atom - atom  
-au - aj!, ał!  
 audi - usłyszeć, słyszeć; słuchać  
 auro - złoto  
 Australia - Australia  
@@ -186,6 +185,7 @@ auto nomi di - autonomiczny
 avakate - awokado  
 avar - obrażenia (rana, krzywda)  
 avar ja - krzywdzący (szkodliwy)  
+ayo - aj!, ał!  
 Azerbaijan - Azerbejdżan  
 ####B - B  
 babu - rozdział, sekcja  
@@ -2957,11 +2957,11 @@ Senegal - Senegal
 sense - zmysł  
 sense gi - sensor (detektor, czujka)  
 sense shaka - macka (czułek)  
-sento - sto (100)  
-sento nen - stulecie  
 sentaure - chaber  
 senti - centy-, procent, na sto, setna część  
 sentimitre - centymetr  
+sento - sto (100)  
+sento nen - stulecie  
 sera - piła  
 serami - ceramika  
 serami sing - houstonia  

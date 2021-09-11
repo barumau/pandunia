@@ -1,5 +1,6 @@
 # pandunia-putonghan
 ####A - A  
+a - 但是 (不过)  
 abies - 冷杉  
 achar - 腌菜  
 achi - 打喷嚏 (阿嚏)  
@@ -11,8 +12,6 @@ Afgan - 阿富汗
 agile - 灵活的  
 agresi - 攻击  
 agresi ja - 侵略者  
-ai - 爱  
-ai ja - 恋人 (情人, 爱人)  
 air - 空气  
 air gun - 空军  
 air porte - 飞机场  
@@ -30,10 +29,12 @@ almas - 钻石
 alo - 另一  
 alo fen di - 分开的  
 alo rai - 不同意  
+ama - 爱  
+ama di - 亲爱的  
+ama ja - 恋人 (情人, 爱人)  
 amen - 诚实  
 amen bil - 忠实  
 amen shin - 信赖  
-ami - 亲爱的  
 an air bio di - 厌氧的  
 an din ja - 不信神的  
 an memo - 忘记  
@@ -80,6 +81,7 @@ auro - 金
 Austronesia - 南岛  
 auto loga - 独白  
 ave - 燕麦  
+ayo - 哎哟  
 ####B - B  
 babu - 章  
 bacha - 小孩  

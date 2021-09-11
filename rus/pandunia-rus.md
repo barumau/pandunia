@@ -1,4 +1,5 @@
 ####A - A  
+a - а (но)  
 abies - пихта  
 achar di - марино́ванный  
 achi - чихать  
@@ -10,8 +11,6 @@ Afgan - Афганистан
 agile - подвижный  
 agresi - нападение (атака, агрессия)  
 agresi ja - агрессор  
-ai - любовь  
-ai ja - любовник  
 air - воздух  
 air bio di - аэробный  
 air gun - военно-воздушные силы  
@@ -30,6 +29,8 @@ almari - шкаф
 almas - алмаз (бриллиант)  
 alo - другой (второй)  
 alo fen di - раздельный  
+ama - любовь  
+ama ja - любовник  
 amen - честный (правдивый)  
 amen bil - верный  
 amen bilta - верность  
@@ -1181,10 +1182,10 @@ semente - цемент
 sene - возраст  
 sense - чувство  
 sense shaka - щупальце  
+sentaure - василёк  
 sento - сто  
 sento nen - столетие  
 sento nen di - столетний  
-sentaure - василёк  
 sera - пила  
 serami - керамика  
 sesam - сезам  

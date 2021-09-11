@@ -511,7 +511,7 @@ business (commercial activity) - biznes
 businessperson (businessman) - biznes ja  
 bust (bosom) - buste  
 busy (occupied) - mang  
-but (whereas) - ama  
+but (rather) - a  
 butcher - bucha  
 butcher - bucha ja  
 butter - makan  
@@ -925,7 +925,7 @@ danger (peril) - hatar
 dangerous (perilous) - hatar di  
 Danish - Danske  
 dark (dim) - oskur  
-darling (honey) - ai jen  
+darling (honey) - ama jen  
 darmstadtium - darmesitadium  
 Darwinism - darvin sim  
 Darwinist - darvin sim ja  
@@ -942,7 +942,7 @@ day of the week - var
 daylight - dia foto  
 deactivate (disable, turn off) - fa an karma  
 dead (deceased) - mata di  
-dear (beloved) - ami  
+dear (beloved) - ama di  
 death - mata  
 debate (discuss) - fa lon  
 debug - fa an galta  
@@ -1219,7 +1219,7 @@ excavate (dig out) - fa ekso kave
 exceed (be greater than) - be mas  
 excellence (quality, virtue) - bon sifa ta  
 excellent - bon sifa di  
-except (minus) - ama min da  
+except (minus) - a min da  
 exchange (replace, trade, swap) - yeka  
 exchange (swap, replace, trade) - badal  
 exclude (keep out) - fa ekso klus  
@@ -2073,9 +2073,9 @@ lose (fail, miss, be defeated) - fa shibai
 lose (misplace, miss, shed) - shiti  
 loser - shiti bai ja  
 lot (plot of land) - geo tika  
-love (liking, affection) - ai  
+love (liking, affection) - ama  
 love romantically - romanse  
-lover - ai ja  
+lover - ama ja  
 low (short) - tal di  
 lower (inferior) - niche di  
 lower (put down) - fa tal  
@@ -2572,7 +2572,7 @@ otitis - ore flame
 otter - lotra  
 Ottoman - osman  
 Ottoman Empire - Osman Imperi Desha  
-ouch (ow, alas) - au  
+ouch (expressing pain, distress, shock and fear) - ayo  
 our - mimen su  
 oust (expel, exclude, except, save) - fa ekso  
 outcast (pariah) - paraya  
@@ -3638,7 +3638,7 @@ thanks (thank you) - shukra
 thanks to - shukra da  
 that is (in other words, i.e., alias) - alo nam  
 that over there - u  
-the (that) - a  
+the (that) - la  
 the Grenadines - Grenadin nesia  
 theft - chori  
 their - yamen su  

@@ -27,7 +27,6 @@ agronomia (maatalous) - nong nomi
 ahne - tam  
 ahnehtia - be tam  
 Ahvenanmaa (Oolanti) - Olande nesia  
-ai! (au!) - au  
 aie (aikomus, tarkoitus) - nia  
 aihe (teema) - tema  
 aiheesta (-sta) - tema  
@@ -1287,7 +1286,7 @@ kulkea poikki, läpi tai yli - fa transe
 kulma (nurkka) - gona  
 kulmamitta (goniometri) - gona metre gi  
 kulombi (mittayksikkö C) - kulombe  
-kulta (rakas) - ai jen  
+kulta (rakas) - ama jen  
 kulta - auro  
 kulttuuri - kultur  
 kulua (vieriä) - si dura  
@@ -1835,7 +1834,7 @@ mustekala - ohtopus
 muta (kura, lieju) - fan  
 mutka (kurvi) - kurva  
 mutkikas - kurva di  
-mutta - ama  
+mutta - a  
 muu (toinen) - alo  
 muuli - iha uma  
 muumio - mum jan  
@@ -1989,6 +1988,7 @@ ohjelma - program
 ohjelmoija - program ja  
 oho (vau) - va  
 ohra - jau  
+oi! (ai, oijoi) - ayo  
 oikea (paikkansapitävä) - sahi  
 oikea puoli - raite  
 oikeistolainen - raite sim ja  
@@ -2085,7 +2085,7 @@ paino - veze
 painos (leima) - chape  
 painotus (aksentti) - bari fon  
 paita - kamisa  
-paitsi (miinus) - ama min da  
+paitsi (miinus) - a min da  
 paja (tekimö) - kan  
 pakana - kafir  
 pakata - fa pake  
@@ -2435,14 +2435,14 @@ raha - pesa
 rahka - panir  
 raippa - uma bichi  
 raja - limite  
-rakas (armas) - ami  
+rakas (armas) - ama di  
 rakastaa romanttisesti - romanse  
-rakastaja - ai ja  
+rakastaja - ama ja  
 rakennus (rakenne) - bina  
 rakentaa - fa bina  
 raketti - rokete  
 rakkaudenjumala - kama deu  
-rakkaus (tykkääminen) - ai  
+rakkaus (tykkääminen) - ama  
 ramadan - ramazan  
 Ranska - France  
 ranskaa puhuva (frankofoni) - france fon di  
@@ -2629,7 +2629,7 @@ savi - glu fan
 savityö (keramiikka) - serami  
 savu - duman  
 savuke tai sikari - sigar  
-se - a  
+se - la  
 seepra - zebra  
 seesami - sesam  
 seikkailija - ventur ja  

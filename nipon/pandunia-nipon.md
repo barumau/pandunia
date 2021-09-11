@@ -4,8 +4,6 @@ abies - モミ
 achar - 漬物  
 ada - 習慣 (風俗)  
 Afgan - アフガニスタン  
-ai - 愛  
-ai ja - 恋人 (恋人)  
 air - 空気  
 air bio di - 好気性  
 air gun - 空軍  
@@ -19,10 +17,12 @@ alga fungu - 地衣類 (苔癬)
 alga jangal - 藻場  
 alo - 他の  
 alo fen di - 個別的  
+ama - 愛  
+ama di - 愛しい  
+ama ja - 恋人 (恋人)  
 amen - 正直  
 amen bil - 忠実  
 amen shin - 信頼する  
-ami - 愛しい  
 amir lin - コマンド行  
 an air bio di - 嫌気性  
 an din ja - 不信者  
@@ -63,6 +63,7 @@ auto - 自己
 auto krati - 君主制  
 auto loga - 独白 (独話)  
 ave - 烏麦  
+ayo - 痛い  
 ####B - B  
 bacha - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
