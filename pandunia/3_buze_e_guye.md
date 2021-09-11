@@ -1,52 +1,52 @@
-# tin buze e guye
+# tri mehe e gui
 
-<small>tarju da _Erjo_</small>
+<small>tarjum da _Erjo_</small>
 
 
-un ban, guye domu sa nice da pule, da transa suy.
-guye tena mal rupe. le tena kane – day ko plate, e nose – day ko warkobroxe.
+na tele pas, un gui be dom na nicha da un kiau, jo transe un rivo.
+a gui ye ten un dus rupa. ya ten oko jo dai ka tasa, e nos jo long ka bele.
 
-sa koy den, guye auda lil sonde sa supre da pule.
-«ki ren marca sa mi pule?» kritu guye.
-«o! mono me, lil buze» logu lil buze.
-le loga day xixo, e kontina:
-«me marca pa grasistan da me wil niama pa me si pangi».
+na un den, a gui ye audi un lili soni ze supra da kiau.
+«ke jan ye marche na mi su kiau?» be krita a gui.
+«oh! unike zai mi, lili mehe» be loga a lili mehe.
+ya dai shush di loga, e fa zoku:
+«mi marche do chau topo na jo mi vil yam do mi si gola».
 
-«zayo me kapa te!» logu guye.
+«zai mi kape tu!» loga a gui.
 
-«no, no!», logu lil buze.
-«no kapa me, sabu me si lil lil. mono denga lil, e medi buze wil marca, le si max day».
-«okey», logu guye.
+«no, no!», be loga a lili buze.
+«no kape mi, ze saba mi si lili lili. unike lili deng, e medi mehe ye vil mache, ya si mas dai».
+«oke», be loga a gui.
 
 <p style="font-size:6em;text-align:center;">👺</p>
 
-bada lil zamane, sonde audu sa supre da pule.
-«ki ren marca sa mi pule?», kritu guye.
-«o! si me, medi buze. me kina pa grasistan da me wil niama pa me si pangi», logu medi buze.
-le fulo no loga xixo.
+na pos da lili zaman, un soni be audi ze supra da kiau.
+«ke jan marcha na mi su kiau?», be krita a gui.
+«oh! si mi, medi mehe. mi move do chau topo na jo mi vil yam do mi si gola», be loga medi mehe.
+ya no shush loga.
 
-«zayo me kapa te!» logu guye.
+«zai mi kape tu!» be loga a gui.
 
-«no, no! no kapa me» logu medi buze.
-«denga lil, e day buze wil marca, le si dayo day».
-«okey» logu guye.
+«no, no! no kape mi» be loga a medi mehe.
+«lili deng, e dai mehe ye vil marche, ya si dai dai».
+«oke» be loga a gui.
 
 <p style="text-align:center;"><span style="font-size:3em;">🐐</span><span style="font-size:4.5em;">🐐</span><span style="font-size:6em;">🐐</span></p>
 
-bada lil zamane, bari kelele audu sa supre da daw.
-«ki ren marca sa mi pule?», kritu guye.
-«me, day buze», logu day buze sa gawi sonde.
+na pos da lili zaman, bari kelele be audi ze supra da kiau.
+«ke jav marche na mi su kiau?», be krita a gui.
+«mi, dai mehe», be loga a dai mehe ha dai soni.
 
-«zayo me kapa te!» logu guye.
+«zai mi kape tu!» be loga a gui.
 
-«si, te laya! me tena dul batone, sa lole me wil haraba ti kane.
-me tena dul day jengopetre, sa lole me wil parca ti oste.»
+«ye, ching lai! mi ten du zong, ha yamen mi vil harabu tu su oko.
+mi ten du dai jeng sheku, ha yamen mi vil parcha tu su oste.»
 
-e bada ye, day buze haraba guye du kane, e parca guye du oste, e lanca guye pa suy.
-bada ye, le marca pa grasistan.
-sa grasistan, pan buze fatu pangi.
-lole karibo no tena energe pa fuga pa dome.
-e aga lole no kina ze hayo, lole hayo si pangi.
+e na pos u, a dai mehe ye harabu gui su oko, e parcha a gui su oste, e lanse a gui do rivo.
+pos u, ya marcha do chau topo.
+na chau topo, pan mehe yam do se si gola.
+yamen sun no ten a energi na fuka do dom.
+e ga yamen zoku no kite, yamen zoku si gola.
 
 <p style="font-size:6em;text-align:center;">🏞️</p>
 	
