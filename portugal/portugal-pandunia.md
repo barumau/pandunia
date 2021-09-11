@@ -238,12 +238,12 @@ castanho (marrom) - kafe rang
 cavar (escavar) - fa kave  
 caçar - saide  
 cebola - piaze  
-cem (100) - senta  
+cem (100) - sento  
 cemitério - gabur bagi  
 cenoura - karote  
 centro - jung  
 centáurea - sentaure  
-centénario - senta nen di  
+centénario - sento nen di  
 cerca - kinar baryer  
 cerebral - nau di  
 cereja - cheri  
@@ -271,7 +271,7 @@ chá - chai
 ciclista - sikle ja  
 cidade - siti  
 cigarro - sigar  
-cinco (5) - penta  
+cinco (5) - lima  
 cintilar - fa sing foto  
 citologia - selu logi  
 claro - klar  
@@ -395,7 +395,7 @@ dióxido de carbono - karbon duokside
 documento - dokumen  
 documentário - dokumen filme  
 dois (2) - du  
-domingo - var sete  
+domingo - var cheti  
 doméstico - dom di  
 dormir - be sona  
 ducha - dush  
@@ -729,6 +729,7 @@ maldição - lana
 malfeitoria (pecado) - dus karma  
 mamão (papaia) - papaya  
 mancha (marca) - marke  
+mandioca (aipim) - manioka  
 manga - kamisa shaka  
 maniqueísmo - mani din  
 mantra - mantra  
@@ -1026,7 +1027,7 @@ quarta-feira - var tri
 quarteirão - mahala  
 quarto (dormitório) - sona kamar  
 quartzo - kuarze  
-quatro (4) - chatre  
+quatro (4) - nelu  
 que (como) - ka  
 queijo - chize  
 queijo fresco - panir  
@@ -1042,7 +1043,7 @@ quiabo - bamia
 quilate - kirate  
 quimono - kimono  
 quincã (cunquate) - kankuate  
-quinta-feira - var chatre  
+quinta-feira - var nelu  
 quivi - kivi  
 química - kimi logi  
 ####R - R  
@@ -1106,6 +1107,7 @@ sacada (varanda) - veranda
 saco - sake  
 sacrifício - kurban  
 sagrada escritura - sante kanon  
+sagu - sagu  
 sair - be ekso  
 sal - sal  
 sala (câmara) - kamar  
@@ -1147,7 +1149,7 @@ serra - sera
 sete (7) - cheti  
 sexo - jinse  
 sexologia - sekse logi  
-sexta-feira - var penta  
+sexta-feira - var lima  
 sim - ye  
 simetria - sam metre  
 simulação - sam sifa she  
@@ -1172,14 +1174,15 @@ suor - sueda
 superestimar (sobrestimar) -   
 suástica (cruz gamada) - huke krus  
 Suíça - Suise  
-sábado - var luku  
+sábado - var luka  
 São Paulo - Sante Paulo  
-século - senta nen  
+século - sento nen  
 série (sequência) - sili  
 só (solitário) - unike jan di  
 ####T - T  
 tablet - table komputa  
 tangerina (mandarim) - lal oranje  
+tapioca - manioka fufu  
 taxímetro - taksi metre gi  
 tear - tela gi  
 tectónica de placas - plate geo kaske logi  

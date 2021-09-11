@@ -469,8 +469,6 @@ chapati - płaski chleb, ćapati
 chape - odcisk, ślad; stempel, pieczęć  
 charme - czar (urok, wdzięk)  
 chati - dach  
-chatre - cztery (4)  
-chatre gona - kwadrat (czworokąt, czworobok, tetragon)  
 chau - trawa  
 chau topo - łąka  
 cheke - sprawdzić, sprawdzać, skontrolować  
@@ -683,9 +681,8 @@ dua - pomodlić się, modlić się
 dua - modlitwa  
 dubnium - dubn  
 dudu - owad  
-duka - zasmucić (zasmucać)  
-duka - smutny  
-duka ta - żal, smutek  
+duka - żal, smutek  
+duka di - smutny  
 duku - czytać  
 duman - dym  
 dunia - świat  
@@ -804,6 +801,7 @@ fa dika - celować
 fa dom - dać mieszkanie (zakwaterować)  
 fa dosil - oswoić (oswajać, tresować, trenować)  
 fa dosil jene - udomowić (kultywować)  
+fa duka - zasmucić (zasmucać)  
 fa dura - minąć, mijać (czas)  
 fa dus name - obrazić  
 fa ekso - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
@@ -1942,6 +1940,9 @@ lili bol - bańka
 lili kaboga - cukinia  
 lili sheku - kamyk  
 lili yam - przekąska  
+lima - pięć (5)  
+lima fase - pięciościan (pryzmat)  
+lima gona - pięciokąt (pentagon)  
 limfa - limfa  
 limite - limit, granica  
 limite di - skończony (ograniczony)  
@@ -2143,15 +2144,15 @@ mentor - doradca (mentor)
 meranti - damarzyk (meranti)  
 Merkur - Merkury  
 mes - miesiąc  
-mes bato - listopad  
-mes chatre - lipiec  
+mes bati - listopad  
+mes cheti - październik  
 mes des - luty  
 mes des du - kwiecień  
 mes des un - marzec  
 mes du - maj  
-mes luku - wrzesień  
-mes penta - sierpień  
-mes sete - październik  
+mes lima - sierpień  
+mes luka - wrzesień  
+mes nelu - lipiec  
 mes tisa - grudzień  
 mes tri - czerwiec  
 mes un - styczeń  
@@ -2343,6 +2344,8 @@ nefre flame - zapalenie nerek
 nefte - olej  
 nefte guku - złocień indyjski  
 nega - odmówić (odrzucić)  
+nelu - cztery (4)  
+nelu gona - kwadrat (czworokąt, czworobok, tetragon)  
 nen - rok  
 nen festa - rocznica  
 nen mes den - data  
@@ -2571,9 +2574,6 @@ pelpel - motyl
 pende - powiesić, wieszać  
 pende kardon - oset zwisły  
 penis - penis  
-penta - pięć (5)  
-penta fase - pięciościan (pryzmat)  
-penta gona - pięciokąt (pentagon)  
 pente - namalować, malować  
 pente ja - malarz  
 pero - pióro  
@@ -2853,6 +2853,7 @@ safar ja - podróżnik
 safar kegu - turystyka  
 safar kegu ja - turysta  
 safran - szafran  
+sagu - sago  
 Sahara Desha - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
 sahi - właściwy, poprawny  
 saide - polować (łowić)  
@@ -2956,8 +2957,8 @@ Senegal - Senegal
 sense - zmysł  
 sense gi - sensor (detektor, czujka)  
 sense shaka - macka (czułek)  
-senta - sto (100)  
-senta nen - stulecie  
+sento - sto (100)  
+sento nen - stulecie  
 sentaure - chaber  
 senti - centy-, procent, na sto, setna część  
 sentimitre - centymetr  
@@ -3382,11 +3383,11 @@ van di - zabawny
 vanadium - wanad  
 vanila - wanilia  
 Vanuatu - Vanuatu  
-var chatre - czwartek  
+var cheti - niedziela  
 var du - wtorek  
-var luku - sobota  
-var penta - piątek  
-var sete - niedziela  
+var lima - piątek  
+var luka - sobota  
+var nelu - czwartek  
 var tri - środa  
 var un - poniedziałek  
 var var - tydzień  

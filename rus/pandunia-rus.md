@@ -215,7 +215,6 @@ chanse - возможность (шанс)
 chante grupe - хор  
 charme - шарм  
 chati - крыша (кров)  
-chatre - четыре (4)  
 chen - раньше  
 chen den - вчера  
 chen zaman di - старый (древний)  
@@ -428,6 +427,7 @@ frem - рама
 frike - царапать  
 frute - плод (фрукт)  
 frute bagi - фруктовый сад  
+fufu - мякоть (пульпа, фуфу)  
 fuku - одежда  
 fuku - носить (одеваться)  
 fuku di - оде́тый  
@@ -776,6 +776,7 @@ lika - сила
 lili - маленький (малый)  
 lili kaboga - цукини  
 lili sheku - галька  
+lima - пять (5)  
 limon - лимон  
 limon oranje - цитрус  
 lin - линия (нитка)  
@@ -825,6 +826,8 @@ man raja - король
 manera - поведение (манера)  
 mang - занятый  
 mani din - манихейство  
+manioka - маниока  
+manioka fufu - тапиока  
 mantol - плащ (накидка)  
 mantra - мантра  
 mar - раз  
@@ -937,6 +940,7 @@ nave lefte - левый борт
 nave raite - правый борт  
 nefre - почка  
 nefte - масло  
+nelu - четыре (4)  
 Neputun - Нептун  
 nerve selu - нейрон  
 nia - намерение  
@@ -1029,7 +1033,6 @@ pei gung ja - профессионал (профи)
 pei gung jiu - карьера  
 pelpel - бабочка (мотылёк)  
 pende kardon - чертополох поникший  
-penta - пять (5)  
 pente - картина  
 pente ja - художник  
 pente tela - полотно  
@@ -1137,6 +1140,7 @@ sabe vol - интерес (любопытство)
 sabe vol di - интересный  
 sabe vol ja - любознательный  
 safran - шафран  
+sagu - саго  
 sahi - правильный  
 saide - охотиться  
 sal - соль  
@@ -1177,9 +1181,9 @@ semente - цемент
 sene - возраст  
 sense - чувство  
 sense shaka - щупальце  
-senta - сто  
-senta nen - столетие  
-senta nen di - столетний  
+sento - сто  
+sento nen - столетие  
+sento nen di - столетний  
 sentaure - василёк  
 sera - пила  
 serami - керамика  
@@ -1363,11 +1367,11 @@ valu - ценность
 vampir - вампир (упырь)  
 vampir ohtopus - адский вампир  
 van gi - игрушка  
-var chatre - четверг  
+var cheti - воскресенье  
 var du - вторник  
-var luku - суббота  
-var penta - пятница  
-var sete - воскресенье  
+var lima - пятница  
+var luka - суббота  
+var nelu - четверг  
 var tri - среда  
 var un - понедельник  
 vase - оазис  

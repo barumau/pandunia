@@ -485,9 +485,6 @@ chapati - chapati
 chape - painos (leima)  
 charme - vetovoima (šarmi)  
 chati - katto (katos)  
-chatre - neljä (4)  
-chatre di galope - neli (kiitolaukka)  
-chatre gona - neliö  
 chau - ruoho  
 chau topo - ruohotasanko  
 cheke - tarkistaa (tsekata)  
@@ -711,9 +708,8 @@ dua - rukoilla (anoa)
 dua - rukous  
 dubnium - dubnium  
 dudu - hyönteinen (ötökkä)  
-duka - surettaa  
-duka - surullinen  
-duka ta - suru (murhe)  
+duka - suru (murhe)  
+duka di - surullinen  
 duku - lukea  
 duman - savu  
 dunia - maailma  
@@ -850,6 +846,7 @@ fa dante - purra
 fa dika - osoittaa (tähdätä)  
 fa dom - asuttaa  
 fa dosil - kesyttää  
+fa duka - surettaa  
 fa dura - kuluttaa (viettää aikaa)  
 fa dus forma - turmella ulkomuoto  
 fa dus name - solvata (loukata)  
@@ -1160,6 +1157,7 @@ frem - kehys (raamit)
 frike - hangata  
 frute - hedelmä  
 frute bagi - hedelmätarha  
+fufu - tahdas  
 fui - hyi! (pyh!)  
 fuka - palauttaa  
 fuku - vaate (puku)  
@@ -1989,6 +1987,9 @@ lili bol - kupla
 lili sheku - sorakivi  
 lili siti - pikkukaupunki  
 lili yam - välipala (naposteltava)  
+lima - viisi (5)  
+lima fase - viisitahokas (prisma)  
+lima gona - viisikulmio  
 limfa - lymfa  
 limite - raja  
 limon - sitruuna  
@@ -2102,6 +2103,7 @@ Mani - profeetta Mani
 mani din - manikealaisuus  
 Manin nes - Manin saari  
 manioka - kassava (maniokki)  
+manioka fufu - tapioka  
 mantra - messuta  
 mantra - mantra  
 mantu - täytetty pulla  
@@ -2178,15 +2180,15 @@ meninge flame - aivokalvontulehdus
 mentor - neuvontantaja (mentori)  
 Merkur - Merkurius  
 mes - kuukausi  
-mes bato - elokuu  
-mes chatre - huhtikuu  
+mes bati - elokuu  
+mes cheti - heinäkuu  
 mes des - lokakuu  
 mes des du - joulukuu  
 mes des un - marraskuu  
 mes du - helmikuu  
-mes luku - kesäkuu  
-mes penta - toukokuu  
-mes sete - heinäkuu  
+mes lima - toukokuu  
+mes luka - kesäkuu  
+mes nelu - huhtikuu  
 mes tisa - syyskuu  
 mes tri - maaliskuu  
 mes un - tammikuu  
@@ -2364,6 +2366,9 @@ Nederlande Antil - Alankomaiden Antillit
 nefre - munuainen  
 nefre flame - munuaistulehdus (nefriitti)  
 nega - kieltää  
+nelu - neljä (4)  
+nelu di galope - neli (kiitolaukka)  
+nelu gona - neliö  
 nen - vuosi  
 nen festa - vuosijuhla  
 nen mes den - päivämäärä  
@@ -2590,9 +2595,6 @@ pelmen - myky (pelmeni, ravioli)
 pelpel - perhonen  
 pende - roikuttaa  
 penis - siitin (penis)  
-penta - viisi (5)  
-penta fase - viisitahokas (prisma)  
-penta gona - viisikulmio  
 pente - maalata  
 pente ja - maalari  
 pente tela - taulukangas  
@@ -2858,6 +2860,8 @@ safar ja - matkailija
 safar kegu - turismi  
 safar kegu ja - turisti  
 safran - sahrami  
+sagu - saagopalmu  
+sagu fen - saagotärkkelys  
 sahi - oikea (paikkansapitävä)  
 saide - pyytää (metsästää, kalastaa)  
 saide - pyynti (metsästys, kalastus)  
@@ -2952,8 +2956,8 @@ sene di - iäkäs
 Senegal - Senegal  
 sense - aisti  
 sense gi - sensori (aistin)  
-senta nen - vuosisata  
-senta nen di - satavuotinen  
+sento nen - vuosisata  
+sento nen di - satavuotinen  
 senti - sentti  
 sentimitre - senttimetri (cm)  
 serami - savityö (keramiikka)  
@@ -3353,11 +3357,11 @@ vanadium - vanadiini
 vanila - vanilja  
 Vanuatu - Vanuatu  
 var - viikonpäivä  
-var chatre - torstai  
+var cheti - niedziela  
 var du - tiistai  
-var luku - lauantai  
-var penta - perjantai  
-var sete - niedziela  
+var lima - perjantai  
+var luka - lauantai  
+var nelu - torstai  
 var tri - keskiviikko  
 var un - maanantai  
 var var - viikko  

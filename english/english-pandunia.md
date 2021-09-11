@@ -158,7 +158,7 @@ apprentice - gung shula ja
 approach (get near) - be karibu  
 approve - bon rai  
 apricot (plum, peach) - briko  
-April - mes chatre  
+April - mes nelu  
 aqua (teal) - hai blu  
 Arabic - arabi  
 arachnophobia - arane fobi  
@@ -233,7 +233,7 @@ attain (accomplish, indicates the current position) - leu
 attraction (fascination, -philia) - fili  
 attribute (charasteristic, quality, feature, description, property) - sifa  
 attributive postposition - di  
-August - mes bato  
+August - mes bati  
 auspicious (promising) - bon sin di  
 Australia - Australia  
 Australian Aboriginal - asal Australia jan  
@@ -604,13 +604,13 @@ celestial (heavenly) - sama di
 celestial body - astro  
 cell (biology) - selu  
 cement - semente  
-centenary - senta nen di  
+centenary - sento nen di  
 center (concentrate) - fa jung  
 centi- (per cent) - senti  
 centimeter (cm) - sentimitre  
 central (middle) - jung di  
 Central African Republic - Jung Afrika Komun krati  
-century - senta nen  
+century - sento nen  
 ceramic - serami  
 cerebral - nau di  
 Ceres (dwarf planet) - Ceres  
@@ -1344,7 +1344,7 @@ fisher - peshe saide ja
 fishhook - peshe huke  
 fit (adapt, adjust, make suitable) - fa hapu  
 fit (suit, be suitable) - be hapu  
-five (5) - penta  
+five (5) - lima  
 fix (attach) - fa fikse  
 fjord - fiorde  
 flag (banner) - bandera  
@@ -1397,7 +1397,7 @@ forward - do jin
 found - fa baze  
 founder - baze ja  
 fountain (spring, well) - fonte  
-four (4) - chatre  
+four (4) - nelu  
 fox - huli  
 frame - frem  
 France - France  
@@ -1413,7 +1413,7 @@ French Guiana - France Guyana
 French Polynesia - France Polinesia  
 frequency - poli mar ta  
 fresh - taza  
-Friday - var penta  
+Friday - var lima  
 friend - dosti  
 friendless - dosti hin  
 friendly (kind, nice, gentle) - dosti di  
@@ -1439,7 +1439,7 @@ gains and losses (pros and cons) - daku shitu
 galaxy - galaksi  
 gallery (exhibition hall) - galeri  
 gallium - galium  
-gallop - chatre di galope  
+gallop - nelu di galope  
 Gambia - Gambia  
 game - gem  
 Ganges - Ganga  
@@ -1558,7 +1558,7 @@ greet - fa salam
 greeting (hello) - salam  
 Grenada - Grenada  
 grey (gray, ashy) - hui rang  
-grief (sorrow) - duka ta  
+grief (sorrow) - duka  
 grieve - be duka  
 grilled meat (kebab) - kababu nama  
 grimace - grimas  
@@ -1722,7 +1722,7 @@ hummus - humus sos
 humor - yumor  
 humorist - yumor ja  
 humorous (comical, funny) - yumor di  
-hundred (hecto-, 100) - senta  
+hundred (hecto-, 100) - sento  
 Hungary - Magyar  
 hunger - yam yau  
 hunt (fish) - saide  
@@ -1870,9 +1870,9 @@ judgment (sentence) - jude
 judicial - jude di  
 judo - judau  
 juice - jus  
-July - mes sete  
+July - mes cheti  
 jump - jampe  
-June - mes luku  
+June - mes luka  
 Jupiter - Jupiter  
 just (fair, righteous) - adil  
 just (precise, exact, accurate) - juste  
@@ -2193,7 +2193,7 @@ Mauritius - Moris
 maximal - masim di  
 maximize - fa masim  
 maximum - masim  
-May - mes penta  
+May - mes lima  
 Maya - maya  
 Mayotte - Mayote  
 mean (cruel) - zalim  
@@ -2685,8 +2685,8 @@ pen (writing tool) - kalam
 penguin - pinguin  
 peninsula - yaki nes  
 penis (phallus) - penis  
-pentagon - penta gona  
-pentahedron (prism) - penta fase  
+pentagon - lima gona  
+pentahedron (prism) - lima fase  
 peony - mudan  
 people (folk) - nasi jan  
 people (population) - demo  
@@ -2924,6 +2924,7 @@ Puerto Rican - portoriko jan
 Puerto Rico - Portoriko  
 pufferfish - balon peshe  
 pull (draw, drag) - tire  
+pulp (pap, mash, mush) - fufu  
 pump - pompe  
 Punjabi - panjabi  
 purple (violet) - violeta blu  
@@ -3128,11 +3129,13 @@ Réunion - Reunion
 ####S - S  
 Sabbath - sabate  
 sacrifice (offer) - kurban  
-sad - duka  
-sadden (make sad) - duka  
+sad - duka di  
+sadden (make sad) - fa duka  
 safe (secure, protected) - sekur  
 saffron - safran  
 saga (heroic tale) - hero kata  
+sago - sagu fen  
+sago palm - sagu  
 Sahrawi Arab Democratic Republic - Sahara Desha  
 sail - nave gou  
 sailer - nave ja  
@@ -3160,7 +3163,7 @@ sapling - joven moka
 Satanism (devil worship) - shatan din  
 Satanist - shatan din ja  
 satsuma mandarin - venjou oranje  
-Saturday - var luku  
+Saturday - var luka  
 Saturn - Saturne  
 sauce - sos  
 Saudi Arabia - Saudi Arabia  
@@ -3422,7 +3425,7 @@ sport (athletics) - esporte
 spouse (husband or wife) - gami jan  
 spring (springtime) - hua mosim  
 spruce tree - pisea  
-square (tetragon) - chatre gona  
+square (tetragon) - nelu gona  
 squash (pumpkin, gourd) - kaboga  
 squeeze (squish) - in pushe  
 squid (cuttlefish) - kalmar  
@@ -3512,7 +3515,7 @@ sum up (add together) - fa sum
 summer - garma mosim  
 summon (add, spawn, actualize) - zai fa  
 sun - sol  
-Sunday - var sete  
+Sunday - var cheti  
 sunflower - sol hua  
 Sunni Islam (Sunnism) - suna islam din  
 superb (wonderful, super) - super  
@@ -3567,6 +3570,7 @@ Tanzania - Tanzania
 Taoism (Daoism) - dau din  
 Taoist - dau din ja  
 tape - tepe  
+tapioca - manioka fufu  
 target (aim, objective) - dike  
 tarif (tax, duty) - tarif  
 taste (flavor) - guste  
@@ -3665,7 +3669,7 @@ throw up (vomit, regurgitate) - retro gula
 thulium - tulium  
 thunder (roaring) - grom  
 thunderstorm - grom tafun  
-Thursday - var chatre  
+Thursday - var nelu  
 Tibet - Bote  
 tick (mite) - akare  
 ticket - tikete  

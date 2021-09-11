@@ -335,7 +335,7 @@ elektroni - eletron
 elementti (yksinkertaisin yksikkö) - so  
 eli (toisin sanoen) - alo nam  
 elohopea - hidrargente  
-elokuu - mes bato  
+elokuu - mes bati  
 elokuva - kino grafi  
 elokuvallinen - kino grafi di  
 elokuvataide - kino grafi arte  
@@ -566,7 +566,7 @@ heijastaa kuvia (projisoida) - lanse grafi
 heikko - debil  
 heimo - tribu  
 heinä - gan chau  
-heinäkuu - mes sete  
+heinäkuu - mes cheti  
 heittää (paiskata) - lanse  
 helikopteri - helis fei gi  
 helium - helium  
@@ -641,7 +641,7 @@ hormoni - hormon
 hotelli - hotel  
 houkutella - tenta  
 housut - pante  
-huhtikuu - mes chatre  
+huhtikuu - mes nelu  
 huippu - gau  
 huippu - shan pike  
 huivi (šaali) - shal  
@@ -1097,7 +1097,7 @@ kestää (viedä aikaa) - be dura
 kesy - dosil  
 kesyttää - fa dosil  
 kesä (suvi) - garma mosim  
-kesäkuu - mes luku  
+kesäkuu - mes luka  
 ketju - sili sili  
 ketjun lenkki - sili tika  
 ketsuppi - kechape  
@@ -1445,7 +1445,7 @@ latinalaiset aakkoset - Latin zi
 latinoida - fa Latin kitabu  
 lattia - kamar tal  
 Latvia - Latvia  
-lauantai - var luku  
+lauantai - var luka  
 laukka - galope  
 laulaa - chante  
 laulu - chante  
@@ -1898,9 +1898,9 @@ nauttia (syödä, juoda) - yam
 neitseellinen (koskematon) - virje di  
 neitsyt - virje  
 nekrofilia - mata badan fili  
-neli (kiitolaukka) - chatre di galope  
-neliö - chatre gona  
-neljä (4) - chatre  
+neli (kiitolaukka) - nelu di galope  
+neliö - nelu gona  
+neljä (4) - nelu  
 nenä - nos  
 nenä- (nasaali) - nos di  
 neodyymi - neodimium  
@@ -1916,7 +1916,7 @@ neuvoa - fa sela
 neuvontantaja (mentori) - mentor  
 Nevis - Nevis  
 newton (N) - niuton  
-niedziela - var sete  
+niedziela - var cheti  
 niellä - gulu  
 Niger - Nijer  
 Nigeria - Naijiria  
@@ -2180,7 +2180,7 @@ perhe - famili
 perhonen - pelpel  
 perimä (genotyyppi) - jene tipe  
 perintö - varis  
-perjantai - var penta  
+perjantai - var lima  
 persia (farsi) - farsi  
 Peru - Peru  
 peruna (potaatti) - patate  
@@ -2549,6 +2549,8 @@ räjähtää - be bum
 räjähtää - be bum  
 röntgenium - rengenium  
 ####S - S  
+saagopalmu - sagu  
+saagotärkkelys - sagu fen  
 saaja (vastaanottaja) - daku ja  
 saapas (buutsi) - buta  
 saari - nesia  
@@ -2600,14 +2602,14 @@ sarjakuva - grafi kata
 sarvi - korne  
 sarvikuono - kornonos  
 saslik - shish nama  
-sata (hehto-) - senta  
+sata (hehto-) - sento  
 sata tuhatta - des kilo  
 sataa -   
 satakieli - bulbul  
 satama - hai porte  
 satanismi (paholaisenpalvonta) - shatan din  
 satanisti - shatan din ja  
-satavuotinen - senta nen di  
+satavuotinen - sento nen di  
 sateenvarjo - shava chati  
 sateinen -   
 satsuma - venjou oranje  
@@ -2825,11 +2827,11 @@ suosia (pitää parempana) - mas fili
 suosikki (suosittu) - mas fili di  
 suosinta (favoritismi) - mas fili sim  
 suosittu (trendikäs) - fashon di  
-surettaa - duka  
+surettaa - fa duka  
 Surinam - Surinam  
 surra (murehtia) - be duka  
-suru (murhe) - duka ta  
-surullinen - duka  
+suru (murhe) - duka  
+surullinen - duka di  
 sushi - sushi  
 susi (hukka) - volfe  
 suu - boke  
@@ -2886,6 +2888,7 @@ taajuus (tiheys) - poli mar ta
 taas (uudestaan) - na re  
 taateli - tamar  
 Tadžikistan - Tajiki  
+tahdas - fufu  
 tahmainen (liimamainen) - glu di  
 tahna (tahdas) - pasta  
 tahto - icha  
@@ -2942,6 +2945,7 @@ tapa - mode
 tapaaminen (kokous) - miti  
 tapaus (seikka) - kas  
 tapetti - mur kaguji  
+tapioka - manioka fufu  
 tappaa - fa mata  
 tappaja - mata ja  
 tarha (piha) - bagi  
@@ -3068,11 +3072,11 @@ tontti (maakaistale) - geo tika
 topografia - topo grafi  
 tori (basaari) - bazar  
 torni - minare  
-torstai - var chatre  
+torstai - var nelu  
 torvi (torvisoitin) - laba  
 tosi (aito) - ver  
 toukka - larva  
-toukokuu - mes penta  
+toukokuu - mes lima  
 traktori - trator gi  
 Transdnistria - Transe Nistre Desha  
 trendi - fashon  
@@ -3377,9 +3381,9 @@ viinirypäle - putau
 viinitarha - putau bagi  
 viisas - sofi  
 viisaus - sofita  
-viisi (5) - penta  
-viisikulmio - penta gona  
-viisitahokas (prisma) - penta fase  
+viisi (5) - lima  
+viisikulmio - lima gona  
+viisitahokas (prisma) - lima fase  
 viisumi - viza  
 vika (synti) - dosha  
 viljellä - nong  
@@ -3429,7 +3433,7 @@ vuono - fiorde
 vuori (mäki) - shan  
 vuosi - nen  
 vuosijuhla - nen festa  
-vuosisata - senta nen  
+vuosisata - sento nen  
 vuotaa - lou  
 vuotaa verta - lou sang  
 vyö - zona  

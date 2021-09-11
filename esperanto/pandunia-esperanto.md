@@ -294,7 +294,6 @@ chante - kanto
 chante grupe - ĥoro  
 chape - presaĵo  
 chati - tekto  
-chatre - kvar (4)  
 chau - herbo  
 cheke - kontroli  
 chen - antaŭe (pasinte)  
@@ -420,9 +419,8 @@ dua - preĝi
 dua - preĝo  
 dubnium - dubnio  
 dudu - insekto  
-duka - malĝojigi  
-duka - malĝoja  
-duka ta - malĝojo  
+duka - malĝojo  
+duka di - malĝoja  
 duku - legi  
 duman - fumo  
 dunia - mondo  
@@ -491,6 +489,7 @@ fa daka - kovri
 fa dante - mordi  
 fa dika - celi  
 fa dom - loĝigi  
+fa duka - malĝojigi  
 fa dura - daŭrigi  
 fa ekso - krom (escepti)  
 fa ekso klus - ekskludi  
@@ -1101,6 +1100,7 @@ lili - malgranda
 lili bol - bobelo  
 lili sheku - ŝtoneto  
 lili siti - urbeto  
+lima - kvin (5)  
 limon - citrono  
 lin - lineo (ŝnuro)  
 lin so - fibro  
@@ -1299,6 +1299,7 @@ nave lefte - babordo
 nave raite - tribordo  
 ne ekso - ekster  
 nefre - reno  
+nelu - kvar (4)  
 nen - jaro  
 nen mes den - dato  
 neon - neono  
@@ -1414,7 +1415,6 @@ pede - furzo
 pei gung - metiero  
 pelpel - papilio  
 penis - peniso  
-penta - kvin (5)  
 pente - pentri  
 pente tela - kanvaso  
 pero - plumo  
@@ -1593,9 +1593,9 @@ seme - semo
 seme di - sema  
 sene - aĝo  
 sense - sentumo  
-senta - cent  
-senta nen - jarcento (centjaro)  
-senta nen di - centjara  
+sento - cent  
+sento nen - jarcento (centjaro)  
+sento nen di - centjara  
 senti - centono  
 Serbia - Serbio  
 serpe - serpento  
@@ -1813,11 +1813,11 @@ valu - valoro
 van - amuzo  
 van di - amuza  
 var - semajntago  
-var chatre - ĵaŭdo  
+var cheti - dimanĉosunnuntai  
 var du - mardo  
-var luku - sabato  
-var penta - vendredo  
-var sete - dimanĉosunnuntai  
+var lima - vendredo  
+var luka - sabato  
+var nelu - ĵaŭdo  
 var tri - merredo  
 var un - luno  
 var var - semajno  

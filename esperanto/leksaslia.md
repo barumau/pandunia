@@ -150,7 +150,6 @@
 |**chante**|kanto|franca:chanter, angla:chant, portugala:hispana:cantar, + mandarena:唱 (chàng), korea:창 (chang)|
 |**chape**|presaĵo|hindia:छाप (chāp), bengala:ছাপ (chap), malaja:cap, angla:chop|
 |**chati**|tekto|hindia:छत (chat); छदि (chadi), bengala: ছাদ (chad), turka:çatı, kyr:чатыр (čatyr) + araba: سَطْح‎ (saṭḥ)|
-|**chatre**|kvar (4)|rusa:четыре (chetyre), hindia:चार (cār), bengala:চার (car), malaja:catur + franca:quatre, hispana:cuatro, portugala:quatro|
 |**chau**|herbo|mandarena:草 (cǎo), kantona:草 (cou2), vua:草 (tshau2), japana:草 (sō), vjetnama:tháu|
 |**cheke**|kontroli|angla:check, hispana:chequear, portugala:checar, deu:chekcen, japana:チェックする (chekkusuru)|
 |**chen**|antaŭe (pasinte)|mandarena:前 (qián), kantona:前 (cin4), japana:前 (zen), korea:전 (jeon), vjetnama:tiền|
@@ -210,8 +209,8 @@
 |**du**|du (2)|franca:deux, hispana:dos, rusa:два (dva), hindia:दो (do), bengala:দুই (dui) + malaja:dua + korea:둘 (dul)|
 |**dua**|preĝo|araba: دُعَاء‏  (duʿāʾ), hindia:दुआ (duā), svahila:turka:dua, malaja:doa + mandarena:祈祷 (dǎo), japana:禱 (tō), korea:도 (do)|
 |**dudu**|insekto|svahila:mdudu, araba: دُود (dūd)|
-|**duka ta**|malĝojo|hindia:दुःख (duḥkh), bengala:দুঃখ (dukhô), taja:ทุกข์ (tuk), malaja:duka, angla:dukkha|
-|**duku**|legi|mandarena:读 (dú), kantona:讀 (duk6), vjetnama:đọc, zha:dog, japana:(doku-)|
+|**duka**|malĝojo|hindia:दुःख (duḥkh), bengala:দুঃখ (dukhô), taja:ทุกข์ (tuk), malaja:duka, angla:dukkha|
+|**duku**|legi|mandarena:读 (dú), kantona:讀 (duk6), japana:讀 (doku-), korea:독 (dok), vjetnama:đọc|
 |**duman**|fumo|hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)|
 |**dunia**|mondo|araba: دُنْيَا‎ (dunyā), hindia:दुनिया (duniyā), malaja:svahila:dunia, persa: دنیا (donya), urdua: دنیا (duniyā), haŭsa:duniya|
 |**dura**|daŭro|angla:duration, franca:durée, hispana:portugala:durar + bengala:ধরে (dhôre), hindia:दौरान (daurān)|
@@ -535,6 +534,7 @@
 |**libele**|libelo|hispana:portugala:libélula, franca:libellule, deu:Libelle|
 |**lika**|forto|mandarena:力 (lì), kantona:力 (lik6), japana:力 (riki), korea:력 (ryeok), vjetnama:lực|
 |**lili**|malgranda|angla:little|
+|**lima**|kvin (5)|malaja:filipina:lima|
 |**limon**|citrono|persa:(limun), angla:lemon, turka:limon, rusa:лимон (limon), hispana:limón, portugala:limão, hindia:नींबू (nīmbū), urdua:(nībū), mandarena:柠檬 (níngméng), japana:檸檬 (remon), korea:레몬 (remon), svahila:ndimu,limau, bengala:লেবু (lebu)|
 |**lin**|lineo (ŝnuro)|angla:line, franca:ligne, hispana:línea, portugala:linha, rusa:линия (liniya), polona:linia|
 |**linse**|linko|angla:franca:lynx, hispana:portugala:lince, hindia:लिंक्स (links)|
@@ -637,6 +637,7 @@
 |**nau**|cerbo|mandarena:脑 (nǎo), kantona:腦 (nou5), japana:脳  (nō), korea:뇌 (noe), vjetnama:não|
 |**nave**|boato (ŝipo)|franca:navire, hispana:nave, portugala:navio, persa: ناو‎ (nâv), hindia:नाव (nāv)|
 |**nefre**|reno|angla:franca:nephro-, hispana:portugala:nefro-, deu:Niere|
+|**nelu**|kvar (4)|korea:넷 (net) + svahila:nne, zulua:ne, + malajala:നാലു (nālu), teluga:నాలుగు (nālugu), kanara:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, hungara:négy|
 |**nen mes den**|dato|mandarena:年月日 (niányuèrì), japana:年月日 (nengappi), korea:연월일 (yeonworil)|
 |**nen**|jaro|japana:年 (nen), mandarena:年 (nián), kantona:年 (nin4), korea:년 (nyeon), vjetnama:năm,niên|
 |**nerve**|nervo|angla:hispana:portugala:franca:deu:neuro-, rusa:невро- (nevro-)|
@@ -689,7 +690,6 @@
 |**pede**|furzo|bengala:পাদ (pad), hindia:पाद (pād), hispana:pedo, portugala:peido, franca:pet, rusa:пердение (perdeniye)|
 |**pelpel**|papilio|portugala:borboleta, franca:papillon, itala:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), svahila:kipepeo, joruba:labalábá, filipina:paruparo|
 |**penis**|peniso|angla:turka:malaja:penis, hispana:pene, portugala:franca:pénis, rusa:пенис (penis)|
-|**penta**|kvin (5)|angla:franca:hispana:portugala:pent- + rusa:пять (pyat'), hindia:पाँच (pā̃c), bengala:পাঁচ (pãc)|
 |**pente**|pentri|angla:paint, hispana:portugala:pintura, franca:peinture, nld:pek, japana:ペンキ (penki), hindia:पेंट (penṭa)|
 |**pero**|plumo|hindia:पर (par), persa:urdua:(par), kur:perr, rusa:перо (pero)|
 |**pesa**|mono|hindia:पैसा (paisā), marataja:पैसा (paisā), panĝaba:ਪੈਸਾ (pēsā), guĝarata:પૈસો (paiso), araba:(bēzāt), svahila:pesa + hispana:peso|
@@ -776,7 +776,7 @@
 |**seme**|semo|franca:semence, portugala:semente, hispana:semilla, rusa:семя (semya), angla:semen|
 |**sene**|aĝo|araba: سِنّ‎ (sinn), hindia:सिन (sin) + hispana:portugala:sene + mandarena:岁 (suì), kantona:歲 (seoi3), korea:세  (-se), japana:歳 (-sai)|
 |**sense**|sentumo|angla:sense, hispana:portugala:sentido, franca:sens|
-|**senta**|cent|franca:cent, hispana:cien, portugala:cem, angla:cent-, hindia:शत (śat), bengala:শত (śôt)|
+|**sento**|cent|franca:cent, hispana:cien, portugala:cem, itala:cento, angla:cent-, hindia:शत (śat), bengala:শত (śôt)|
 |**serpe**|serpento|hindia:सर्प (sarp), bengala:সাপ (sap), teluga:(sarpamu), franca:angla:serpent, hispana:serpiente, + mandarena:蛇 (shé), + joruba:sèbé|
 |**shaka**|branĉo|bengala:শাখা (śakha), hindia:शाखा (śākhā), urdua:(śāx), persa:(šax)|
 |**shal**|koltuko|franca:châle, rusa:шаль (šal), portugala:xaile, angla:shawl, turka:şal|

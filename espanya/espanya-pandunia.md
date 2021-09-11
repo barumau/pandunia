@@ -15,7 +15,7 @@ abono orgánico (compost) - bio sana she
 aborigen - asal Australia jan  
 abrepuño - sol sentaure  
 abrigo (chaqueta) - kote  
-abril - mes chatre  
+abril - mes nelu  
 abrir - fa kai  
 abuela - chin ma  
 abuelo - chin pa  
@@ -73,7 +73,7 @@ Afganistán - Afgan
 afrontar - verse  
 agacharse - lipa side  
 agorafobia - medan fobi  
-agosto - mes bato  
+agosto - mes bati  
 agradecer - fa shukra  
 agresivo - agresi tabi  
 agresor - agresi ja  
@@ -623,13 +623,13 @@ cemento - semente
 cena - sham yam  
 ceniza - hui  
 centellear (titilar) - fa sing foto  
-centenario - senta nen di  
+centenario - sento nen di  
 centi- (por ciento) - senti  
 central - jung di  
 centrar (concentrar) - fa jung  
 centrarse (en el centro de) - jung  
 centro - jung  
-centuria (siglo) - senta nen  
+centuria (siglo) - sento nen  
 centímetro - sentimitre  
 cepillar con garlopa - randa  
 cepillo (brocha) - brosh  
@@ -678,13 +678,13 @@ chupar (succionar) - chupa
 cian - sian  
 ciclista - sikle ja  
 cielo - sama  
-cien (100) - senta  
+cien (100) - sento  
 ciencia (estudiar, investigar, -ología) - logi  
 ciencia política - politi logi  
 cigarro (cigarillo) - sigar  
 cima (pico, cumbre, vértice) - shan pike  
 cinc - zinke  
-cinco (5) - penta  
+cinco (5) - lima  
 cinta (cinta para el pelo) - kesha bande  
 cinta adhesiva - tepe  
 cinturón (zona) - zona  
@@ -901,10 +901,10 @@ crítico (fundamental) - krizi
 crítico - piping ja  
 crónico - dura di  
 cuaderno (libreta) - note buku  
-cuadro - chatre gona  
+cuadro - nelu gona  
 cualidad (atributo, descripción) - sifa  
 cuarzo - kuarze  
-cuatro (4) - chatre  
+cuatro (4) - nelu  
 Cuba - Kuba  
 cubierto de hielo - ais di  
 cubo - kube  
@@ -1103,7 +1103,7 @@ domar (amansar) - fa dosil
 domesticado - dosil jene di  
 domesticar (cultivate) - fa dosil jene  
 dominar - fa mestre  
-domingo - var sete  
+domingo - var cheti  
 Dominica - Dominika  
 dominio (reinado) - krati  
 dominó - domino gem  
@@ -1222,7 +1222,7 @@ entrada - jin mun
 entrar - be in  
 entre - na medi  
 entregar (enviar) - gung mise  
-entristecer (poner triste) - duka  
+entristecer (poner triste) - fa duka  
 enviar (transmitar) - mise  
 envoltura - lifafa  
 envolver - lifafa  
@@ -1875,14 +1875,14 @@ judío - yehudi
 juego - gem  
 juego de mazmorras - donjon ventur  
 juego de mesa - ban gem  
-jueves - var chatre  
+jueves - var nelu  
 juez (árbitro, réferi) - jude ja  
 jugador - gem ja  
 jugar un juego - fa gem  
 jugete - van gi  
 jugo (zumo) - jus  
-julio - mes sete  
-junio - mes luku  
+julio - mes cheti  
+junio - mes luka  
 juntos - kon  
 juntura (conexión, enlace) - linke  
 Jupiter - Jupiter  
@@ -2152,7 +2152,7 @@ maternal - ma di
 Mauricio - Moris  
 mauritania - Muritania  
 maya - maya  
-mayo - mes penta  
+mayo - mes lima  
 mayoría - mas di fen  
 Mayotte (Mahoré) - Mayote  
 mazmorra - geo niche prizon  
@@ -2650,11 +2650,11 @@ peligroso - hatar di
 pelo - kesha  
 película (film, membrana) - filme  
 película (filme) - kino grafi  
-pena (tristeza) - duka ta  
+pena (tristeza) - duka  
 pene - penis  
 pensar - fikir  
-pentaedro - penta fase  
-pentágono - penta gona  
+pentaedro - lima fase  
+pentágono - lima gona  
 península - yaki nes  
 peonía - mudan  
 pepinillo - achar hiyar  
@@ -2773,6 +2773,7 @@ politeísmo - poli deu sim
 pollo - koko  
 Polonia - Polska  
 polonio - polonium  
+polpa - fufu  
 polvo - fun  
 polvo de cara - muka fun  
 polígono - poli gona  
@@ -3101,6 +3102,7 @@ saco - sake
 sacrificio - kurban  
 sagrada escritura - sante kanon  
 sagrado (santo) - sante  
+sagú - sagu  
 sal - sal  
 sala de chat (tertuliadero) - blabla kan  
 salchicha - sosis  
@@ -3301,7 +3303,7 @@ sustantivo - name loga
 sustituir (reemplezar) - fa vise  
 susurrar (curjir) - shasha  
 Svalbard - Sualbarde  
-sábado - var luku  
+sábado - var luka  
 sándwich (sánduche) - sanduiche  
 sí - ye  
 sólido - gati mate  
@@ -3329,6 +3331,7 @@ Tanzania - Tanzania
 taoísmo - dau din  
 taoísta - dau din ja  
 tapa (funda, cubierta) - daka  
+tapioca - manioka fufu  
 taponar - fa tapa  
 tapón (tapa) - tapa  
 tarde (después de mediodía) - sham dia  
@@ -3465,7 +3468,7 @@ tribu - tribu
 tridente - tri zong  
 trigo - ganum  
 Trinidad y Tobago - Trinidade e Tobago  
-triste - duka  
+triste - duka di  
 triángulo - tri gona  
 trompo - rota van gi  
 trucha arcoíris - rang arka salmon  
@@ -3599,7 +3602,7 @@ viejo (anciano) - lau
 viejo (anciano) - lau jan  
 viejo (antiguo) - chen zaman di  
 viento - hava  
-viernes - var penta  
+viernes - var lima  
 Vietnam - Viete  
 vigilante (guardia) - garde ja  
 vigilar (guardar) - garde  

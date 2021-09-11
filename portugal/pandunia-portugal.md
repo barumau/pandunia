@@ -194,7 +194,6 @@ chanse - chance
 chante grupe - coro  
 charme - charme  
 chati - telhado  
-chatre - quatro (4)  
 chen den - ontem  
 chen zaman di - velho (antigo)  
 cheng bede - beliche  
@@ -726,6 +725,7 @@ lika - força
 lili - pequeno  
 lili kaboga - abobrinha  
 lili sheku - pedrinha  
+lima - cinco (5)  
 limon - limão  
 lin - linha (fio)  
 lin so - fibra  
@@ -775,6 +775,8 @@ man raja - rei
 manera - comportamento (conduta)  
 mang - ocupado (atarefado)  
 mani din - maniqueísmo  
+manioka - mandioca (aipim)  
+manioka fufu - tapioca  
 mantol - capa  
 mantra - mantra  
 mar - vez  
@@ -876,6 +878,7 @@ nave - barco (navio)
 nave lefte - bombordo  
 nefre - rim  
 nefte - aeite (óleo)  
+nelu - quatro (4)  
 Neputun - Netuno  
 nerve selu - neurônio  
 nerve toksi - neurotoxina  
@@ -965,7 +968,6 @@ pede - peido
 pei gung - profissão  
 pei gung jiu - carreira  
 pelpel - borboleta  
-penta - cinco (5)  
 pente - pintura  
 pente tela - tela  
 perisha - perecer  
@@ -1058,6 +1060,7 @@ ruhu mishe di - perplexo (confuso)
 ####S - S  
 sabe - saber (conhecer)  
 sabe vol ja - inquisitivo  
+sagu - sagu  
 sahi - correto (justo)  
 saide - caçar  
 sake - saco  
@@ -1099,9 +1102,9 @@ sene - idade
 sene di - idoso (sene)  
 sense - sentido  
 sense shaka - tentáculo  
-senta - cem (100)  
-senta nen - século  
-senta nen di - centénario  
+sento - cem (100)  
+sento nen - século  
+sento nen di - centénario  
 sentaure - centáurea  
 sera - serra  
 serami - cerâmico  
@@ -1250,11 +1253,11 @@ vali - vale (uadi)
 vali susan - lírio-do-vale  
 valu - valor (valia)  
 vampir - vampiro  
-var chatre - quinta-feira  
+var cheti - domingo  
 var du - terça-feira  
-var luku - sábado  
-var penta - sexta-feira  
-var sete - domingo  
+var lima - sexta-feira  
+var luka - sábado  
+var nelu - quinta-feira  
 var tri - quarta-feira  
 var un - segunda-feira  
 vari - vários  

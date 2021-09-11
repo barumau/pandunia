@@ -190,7 +190,6 @@
 |**chape**|print (stamp)|Hindi:छाप (chāp), Bengali:ছাপ (chap), Malay:cap, English:chop|
 |**charme**|charm (attraction)|French:Portuguese:charme, English:charm, Russian:шарм (šarm)|
 |**chati**|roof|Hindi:छत (chat); छदि (chadi), Bengali: ছাদ (chad), Turkish:çatı, kyr:чатыр (čatyr) + Arabic: سَطْح‎ (saṭḥ)|
-|**chatre**|four (4)|Russian:четыре (chetyre), Hindi:चार (cār), Bengali:চার (car), Malay:catur + French:quatre, Spanish:cuatro, Portuguese:quatro|
 |**chau**|grass|Mandarin:草 (cǎo), Cantonese:草 (cou2), Wu-Chinese:草 (tshau2), Japanese:草 (sō), Vietnamese:tháu|
 |**cheke**|check (to examine)|English:check, Spanish:chequear, Portuguese:checar, deu:chekcen, Japanese:チェックする (chekkusuru)|
 |**chen**|earlier (before, in the past)|Mandarin:前 (qián), Cantonese:前 (cin4), Japanese:前 (zen), Korean:전 (jeon), Vietnamese:tiền|
@@ -275,8 +274,8 @@
 |**du**|two (2)|French:deux, Spanish:dos, Russian:два (dva), Hindi:दो (do), Bengali:দুই (dui) + Malay:dua + Korean:둘 (dul)|
 |**dua**|prayer|Arabic: دُعَاء‏  (duʿāʾ), Hindi:दुआ (duā), Swahili:Turkish:dua, Malay:doa + Mandarin:祈祷 (dǎo), Japanese:禱 (tō), Korean:도 (do)|
 |**dudu**|insect|Swahili:mdudu, Arabic: دُود (dūd)|
-|**duka ta**|grief (sorrow)|Hindi:दुःख (duḥkh), Bengali:দুঃখ (dukhô), Thai:ทุกข์ (tuk), Malay:duka, English:dukkha|
-|**duku**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Vietnamese:đọc, zha:dog, Japanese:(doku-)|
+|**duka**|grief (sorrow)|Hindi:दुःख (duḥkh), Bengali:দুঃখ (dukhô), Thai:ทุกข์ (tuk), Malay:duka, English:dukkha|
+|**duku**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Japanese:讀 (doku-), Korean:독 (dok), Vietnamese:đọc|
 |**duman**|smoke|Hindi:धूआँ (dhuã), Turkish:duman, Russian:дым (dym), Kannada:(dhūma), Bengali:ধোঁয়া (dhõẇa)|
 |**dunia**|world|Arabic: دُنْيَا‎ (dunyā), Hindi:दुनिया (duniyā), Malay:Swahili:dunia, Persian: دنیا (donya), Urdu: دنیا (duniyā), Hausa:duniya|
 |**dura**|duration (time interval)|English:duration, French:durée, Spanish:Portuguese:durar + Bengali:ধরে (dhôre), Hindi:दौरान (daurān)|
@@ -375,6 +374,7 @@
 |**frem**|frame|English:frame, Bengali:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), Marathi:फ्रेम (phrēma), Swahili:fremu|
 |**frike**|rub (scrape, scrub)|English:friction, Spanish:Portuguese:friccionar, French:frictionner + Arabic:فرك (farak)|
 |**frute**|fruit|English:French:fruit, Spanish:Portuguese:fruta, Russian:фрукт (frukt), Japanese:フルーツ (furūtsu)|
+|**fufu**|pulp (pap, mash, mush)|English:Spanish:Portuguese:Malay:Swahili:fufu, French:foufou, Russian:фуфу (fufu), Mandarin:富富 (fùfù), Lingala:Kongo:fufú|
 |**fui**|bah! (yuck!)|Spanish:puaj, Polish:fuj, Russian:фи (fi)|
 |**fuka**|return (restore, recover, resume)|Mandarin:复 (fù), Cantonese:(fuk), Vietnamese:phục|
 |**fuku**|clothing (clothes)|Mandarin:服 (fú), Cantonese:服 (fuk6), Japanese:服 (fuku), Korean:의복 (uibok), Vietnamese:y phục|
@@ -762,6 +762,7 @@
 |**lika**|force (strength, power)|Mandarin:力 (lì), Cantonese:力 (lik6), Japanese:力 (riki), Korean:력 (ryeok), Vietnamese:lực|
 |**lila**|lilac|English:lilac, French:lilas, Portuguese:lilás, Spanish:Filipino:lila, Japanese:ライラック (rairakku), Turkish:leylak, Arabic:(laylak)|
 |**lili**|little (small; a little, somewhat)|English:little|
+|**lima**|five (5)|Malay:Filipino:lima|
 |**limfa**|lymph|English:lymph, Spanish:Portuguese:linfa, Russian:ли́мфа (límfa), Malay:limfa, Japanese:リンパ (rinpa), Mandarin:淋巴 (línbā)|
 |**limite**|limit (boundary)|English:limit, Spanish:límite, French:Portuguese:limite, Russian:лимит (limit)|
 |**limon**|lemon|Persian:(limun), English:lemon, Turkish:limon, Russian:лимон (limon), Spanish:limón, Portuguese:limão, Hindi:नींबू (nīmbū), Urdu:(nībū), Mandarin:柠檬 (níngméng), Japanese:檸檬 (remon), Korean:레몬 (remon), Swahili:ndimu,limau, Bengali:লেবু (lebu)|
@@ -809,7 +810,7 @@
 |**manete**|magnet|English:magnet, French:magnétique, Spanish:magnete, Russian:магнит (magnit), Turkish:mıknatıs, Arabic:مَغْنَاطِيس‎ (maḡnāṭīs), Malay:maknit|
 |**mang**|busy (occupied)|Mandarin:忙 (máng), Cantonese:忙 (mong4), Wu-Chinese:忙 (maan), Korean:망 (mang)|
 |**mango**|mango|Malayalam:മാങ്ങ (māṅṅa), English:Spanish:Turkish:mango, Portuguese:manga, Russian:манго (mango), Malay:mangga, Japanese:マンゴー (mangō), Korean:망고 (manggo)|
-|**manioka**|cassava (manioc)|English:French:manioc, Spanish:Portuguese:mandioca, Russian:манио́ка (manióka)|
+|**manioka**|cassava (manioc)|English:French:manioc, Spanish:Portuguese:mandioca, Russian:маниока (manioka), Korean:마니옥 (maniok), Lingala:manyɔ́kɔ, Kongo:mandioko|
 |**mantol**|cape (cloak, mantle)|English:mantle, Spanish:manto, French:manteau, Russian:манто (manto), Japanese:マント (manto), Korean:망토 (mangto), Malay:mantel|
 |**mantra**|mantra|English:French:Spanish:Portuguese:Malay:mantra, Russian:мантра (mantra), Hindi:मंत्र (mantra), Bengali:মন্ত্র (môntr)|
 |**mantu**|steamed bun (mantou, manti)|Turkish:mantı, Russian:манты (manty), Korean:만두 (mandu), Mandarin:馒头 (mántóu), Persian:Urdu:(mantu)|
@@ -933,6 +934,7 @@
 |**nefte guku**|Indian chrysanthemum|Mandarin:油菊, Japanese:アブラギク|
 |**nefte**|oil|Arabic:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), Turkish:aze:neft, Russian:нефть (neft’), kar:ნავთი (navti) + Persian:نفت (naft), English:naphtha, Spanish:Portuguese:nafta, Japanese:ナフサ (nafusa), Korean:나프타 (napeuta), Malay:nafta|
 |**nega**|refuse (deny, decline)|Spanish:Portuguese:negar, English:negate|
+|**nelu**|four (4)|Korean:넷 (net) + Swahili:nne, Zulu:ne, + Malayalam:നാലു (nālu), Telugu:నాలుగు (nālugu), Kannada:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, Hungarian:négy|
 |**nen mes den**|date|Mandarin:年月日 (niányuèrì), Japanese:年月日 (nengappi), Korean:연월일 (yeonworil)|
 |**nen**|year|Japanese:年 (nen), Mandarin:年 (nián), Cantonese:年 (nin4), Korean:년 (nyeon), Vietnamese:năm,niên|
 |**nenufar**|water lily (nenuphar)|English:nenuphar, Spanish:Portuguese:nenúfar, French:nénufar, Russian:ненюфа́р (nenjufár), Persian:نیلوفر آبی‎ (nilufar-e âbi)|
@@ -1021,7 +1023,6 @@
 |**pelpel**|butterfly (moth)|Portuguese:borboleta, French:papillon, Italian:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), Swahili:kipepeo, Yoruba:labalábá, Filipino:paruparo|
 |**pende**|hang (dangle)|English:pendant, Portuguese:French:pender|
 |**penis**|penis (phallus)|English:Turkish:Malay:penis, Spanish:pene, Portuguese:French:pénis, Russian:пенис (penis)|
-|**penta**|five (5)|English:French:Spanish:Portuguese:pent- + Russian:пять (pyat'), Hindi:पाँच (pā̃c), Bengali:পাঁচ (pãc)|
 |**pente**|paint|English:paint, Spanish:Portuguese:pintura, French:peinture, nld:pek, Japanese:ペンキ (penki), Hindi:पेंट (penṭa)|
 |**perisha**|perish (ruin, waste away)|English:perish, French:périr, Spanish:Portuguese:perecer + Persian: پریش‎ (parêš), Turkish:perişan, Hindi:परेशान (pareśan)|
 |**pero**|feather|Hindi:पर (par), Persian:Urdu:(par), kur:perr, Russian:перо (pero)|
@@ -1147,6 +1148,7 @@
 |**safa**|clean (pure)|Arabic:صفا (ṣafā), Turkish:saf, Swahili:safi, Malay:safa, Hindi:साफ़ (sāf), Urdu:(sāf), Bengali:চাফা (sapha)|
 |**safar**|travel (voyage, trip)|Arabic:(safar), Hindi:सफ़र (safar), Turkish:sefer, Swahili:safari, English:French:Spanish:Portuguese:deu:Malay:safari|
 |**safran**|saffron|Arabic:(zaʿfarān), Swahili:zafarani, Persian:(za'ferân), French:Turkish:safran, English:saffron, Spanish:azafrán, Portuguese:açafrão, Russian:шафран (šafran)|
+|**sagu**|sago palm|English:sago, French:sagou, Spanish:sagú, Portuguese:Malay:sagu, Russian:саго (sago), Arabic: سَاغُو‎ (sāḡū), Mandarin:西谷米 (xīgúmǐ), Japanese:サゴ (sago), Hindi:सागू (sāgū)|
 |**sahi**|right (correct, accurate)|Hindi:सही (sahī), Urdu:(sahī), Persian:(sahih), Arabic:(ṣaḥīḥ), Swahili:sahihi|
 |**saide**|hunting (fishing)|Arabic:(ṣayd), Turkish:seyd, Urdu:صید‎ (said), Persian:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sake**|bag (sack)|deu:English:sack, French:sac, Spanish:Portuguese:saco, Malay:Kongo:saku|
@@ -1179,7 +1181,7 @@
 |**semente**|cement|English:cement, Malay:semen, Spanish:cemento, Swahili:sementi, Turkish:çimento, Vietnamese:xi măng, Hindi:सीमेंट (siment), Russian:цемент (tsement), Arabic:(ʾasmant), Korean:시멘트 (simenteu)|
 |**sene**|age|Arabic: سِنّ‎ (sinn), Hindi:सिन (sin) + Spanish:Portuguese:sene + Mandarin:岁 (suì), Cantonese:歲 (seoi3), Korean:세  (-se), Japanese:歳 (-sai)|
 |**sense**|sense (method of perception)|English:sense, Spanish:Portuguese:sentido, French:sens|
-|**senta**|hundred (hecto-, 100)|French:cent, Spanish:cien, Portuguese:cem, English:cent-, Hindi:शत (śat), Bengali:শত (śôt)|
+|**sento**|hundred (hecto-, 100)|French:cent, Spanish:cien, Portuguese:cem, Italian:cento, English:cent-, Hindi:शत (śat), Bengali:শত (śôt)|
 |**sera**|saw|Spanish:sierra, Portuguese:serra, English:serrate|
 |**serami**|ceramic|English:ceramic, Spanish:cerámica, Portuguese:cerâmico, French:céramique, Russian:керамика (keramika), Bengali:সিরামিক (sirāmika), Turkish:mel:seramik|
 |**serpe**|snake (serpent)|Hindi:सर्प (sarp), Bengali:সাপ (sap), Telugu:(sarpamu), French:English:serpent, Spanish:serpiente, + Mandarin:蛇 (shé), + Yoruba:sèbé|

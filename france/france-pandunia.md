@@ -95,7 +95,7 @@ Antigua-et-Barbuda - Antigua e Barbuda
 antimoine - estibium  
 antonyme - an nam  
 anus - anus  
-août - mes bato  
+août - mes bati  
 appartenir à - be mal  
 application - aplika  
 appliquer - aplika  
@@ -318,11 +318,11 @@ carte - karte
 carte à collectionner - jama karde  
 cartographie - metre grafi shuta  
 cauri - kauri  
-cent (100) - senta  
+cent (100) - sento  
 Centaurée - sentaure  
 Centaurée bleuet - blu sentaure  
 Centaurée du solstice - sol sentaure  
-centenaire - senta nen di  
+centenaire - sento nen di  
 centre - jung  
 cerise - cheri  
 cerveau (cervelle) - nau  
@@ -372,7 +372,7 @@ ciel - sama
 cigarette - sigar  
 cime (pic, sommet) - shan pike  
 cimetière - gabur bagi  
-cinq (5) - penta  
+cinq (5) - lima  
 cirse commun - pero kardon  
 citron - limon  
 citrouille - kaboga  
@@ -483,7 +483,7 @@ diamant - almas
 dieu - deu  
 différence - alo sifa  
 différent - alo sifa di  
-dimanche - var sete  
+dimanche - var cheti  
 dinde (dindon) - dinde  
 dinosaure - dino saur  
 diorite - diorite  
@@ -755,7 +755,7 @@ jasmin - moli
 jaïnisme - jain din  
 je (me) - mi  
 jeu de société - ban gem  
-jeudi - var chatre  
+jeudi - var nelu  
 jeune (juvénile) - joven  
 joug - yogo  
 joule (J) - jul  
@@ -866,6 +866,7 @@ manche - kamisa shaka
 mandarine - lal oranje  
 mandarine satsuma - venjou oranje  
 manichéisme - mani din  
+manioc - manioka  
 mantra - mantra  
 marbre - kalse kristal  
 marche - marche  
@@ -1204,6 +1205,7 @@ psychologie - ruhu logi
 psyché - ruhu  
 pyramide - piram  
 pâquerette - english margarita  
+pâte (pulpe, foufou) - fufu  
 pâte - pasta  
 pâte à modeler - plasti paste  
 périr - perisha  
@@ -1213,7 +1215,7 @@ pêcheur - peshe saide ja
 quand - ke sate  
 quartier - mahala  
 quartz - kuarze  
-quatre (4) - chatre  
+quatre (4) - nelu  
 que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palaba  
@@ -1283,13 +1285,14 @@ sable - arena
 sac - sake  
 sacrifice - kurban  
 sagesse - sofita  
+sagoutier - sagu  
 sain - salu  
 saintes écritures  - sante kanon  
 saison - mosim  
 salle de bains - banya kamar  
 salle de classe - shula kamar  
 salut (salam) - salam  
-samedi - var luku  
+samedi - var luka  
 Samoa américaines - Amerika Samoa  
 sandwich - sanduiche  
 sang - sange  
@@ -1323,6 +1326,7 @@ secouer - roke
 secte - din shia  
 sein - titi  
 sel - sal  
+semaine - var var  
 semence - seme  
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aroma  
@@ -1341,7 +1345,7 @@ silex - hogo sheku
 simulation - sam sifa she  
 situation (état de choses) - she hal  
 six (6) - luka  
-siècle (centennie) - senta nen  
+siècle (centennie) - sento nen  
 société - sosi  
 soie - silko  
 soif - sui yau  
@@ -1379,6 +1383,7 @@ s’accroupir - lipa side
 table - meza  
 tableau (panneau) - ban  
 tablette de chocolat - choklate kane  
+tapioca - manioka fufu  
 tarte - pai  
 tasse à thé - chai kupa  
 taupe - krote  
@@ -1464,7 +1469,7 @@ vampire des abysses - vampir ohtopus
 vapeur d’eau - sui gas  
 varech - varka alga  
 vendre - vende  
-vendredi - var penta  
+vendredi - var lima  
 Venezuela - Venezuela  
 venir - lai  
 ver - verme  

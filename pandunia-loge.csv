@@ -538,9 +538,6 @@ chapati|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus
 chape|||hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|print (stamp)||grabado (sello, estampando)||||||||छाप|ছাপ||||presaĵo|painos (leima)|odcisk, ślad; stempel, pieczęć
 charme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 chati|||hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|roof|toit|techo (tejado)|telhado|крыша (кров)|سَطْح‎|屋顶 (房顶)|屋根|지붕|mái|छत (छदि)|ছাদ|atap|paa|çatı|tekto|katto (katos)|dach
-nelu|nomer|4|kor:넷 (net) + swa:nne, zul:ne, + mal:നാലു (nālu), tel:నాలుగు (nālugu), kan:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, hun:négy|four (4)|quatre (4)|cuatro (4)|quatro (4)|четыре (4)||四 (4)|四 (4)||||||||kvar (4)|neljä (4)|cztery (4)
-nelu di galope||||gallop||||||||||||||||neli (kiitolaukka)|
-nelu gona||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
 chau|bio||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
 chau topo||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 cheke|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
@@ -782,9 +779,8 @@ dua||||pray (beg, entreat, implore)||rezar (orar)|||||||cầu nguyện||||||pre�
 dua|||ara: دُعَاء‏  (duʿāʾ), hin:दुआ (duā), swa:tur:dua, may:doa + zho:祈祷 (dǎo), jpn:禱 (tō), kor:도 (do)|prayer||rezo (oración)||||祈祷|祈祷|기도|||||||preĝo|rukous|modlitwa
 dubnium|mate|Db||dubnium||dubnio|||||||||||||dubnio|dubnium|dubn
 dudu|bio|Insecta|swa:mdudu, ara: دُود (dūd)|insect|insecte|insecto|inseto|насекомое||昆虫|昆虫|곤충|sâu bọ (côn trùng)|कीड़ा||serangga|mdudu|böcek|insekto|hyönteinen (ötökkä)|owad
-duka||||sadden (make sad)||entristecer (poner triste)|||||||||||||malĝojigi|surettaa|zasmucić (zasmucać)
-duka||||sad||triste|||||||||||||malĝoja|surullinen|smutny
-duka ta|||hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|grief (sorrow)||pena (tristeza)|||||||||||||malĝojo|suru (murhe)|żal, smutek
+duka|||hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|grief (sorrow)||pena (tristeza)|||||||||||||malĝojo|suru (murhe)|żal, smutek
+duka di||||sad||triste|||||||||||||malĝoja|surullinen|smutny
 duku|||zho:读 (dú), yue:讀 (duk6), jpn:讀 (doku-), kor:독 (dok), vie:đọc|read|lire|leer|ler|читать||读 (看)|読む|읽다|đọc|पढ़ना|পড়া|baca|kusoma|okumak|legi|lukea|czytać
 duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|smoke||humo|||||||||||||fumo|savu|dym
 dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
@@ -935,6 +931,7 @@ fa dika||||aim (point)|viser|apuntar|mirar (apontar)|целиться||瞄准|�
 fa dom||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
 fa dosil||||tame (train)|apprivoiser (dresser, dompter, discipliner)|domar (amansar)||укрощать (приручить)||驯养|馴らす|||||||||kesyttää|oswoić (oswajać, tresować, trenować)
 fa dosil jene||||domesticate (cultivate)|domestiquer (apprivoiser)|domesticar (cultivate)||одомашнивать|||||||||||||udomowić (kultywować)
+fa duka||||sadden (make sad)||entristecer (poner triste)|||||||||||||malĝojigi|surettaa|zasmucić (zasmucać)
 fa dura||||pass (spend time, put time into)|passer|pasar (transcurrir)|||||||||||||daŭrigi|kuluttaa (viettää aikaa)|minąć, mijać (czas)
 fa dus forma||||disfigure|défigurer|desfigurar|desfigurar|уродовать||变丑|醜くする|||||||||turmella ulkomuoto|
 fa dus name||||insult (offend, call names)||insultar (ofender)||||||||||||||solvata (loukata)|obrazić
@@ -2238,6 +2235,9 @@ lili kaboga|bio|Cucurbita pepo||zucchini|courgette|calabacín|abobrinha|цуки
 lili sheku||||pebble (gravel)|caillou||pedrinha|галька||砾石|小石|자갈||||||çakıl|ŝtoneto|sorakivi|kamyk
 lili siti||||small town|||||||||||||||urbeto|pikkukaupunki|
 lili yam||||snack||tentempié||||||||||||||välipala (naposteltava)|przekąska
+lima|nomer|5|may:tgl:lima|five (5)|cinq (5)|cinco (5)|cinco (5)|пять (5)||五 (5)|五 (5)|||||lima|tano||kvin (5)|viisi (5)|pięć (5)
+lima fase||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
+lima gona||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
 limfa|||eng:lymph, spa:por:linfa, rus:ли́мфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)|lymph||linfa||||||||||||||lymfa|limfa
 limite|||eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|limit (boundary)||límite (frontera, linde)||||||||||||||raja|limit, granica
 limite di||||finite (limited)|||||||||||||||||skończony (ograniczony)
@@ -2463,14 +2463,14 @@ meranti|bio|Shorea|may:eng:por:meranti|lauan tree (meranti, balau)|||meranti|ш�
 Merkur|planete 1|||Mercury|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury
 mes|||fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), eng:menstral + swa:mwezi|month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
 mes bati|mes|||August|août|agosto|||||８月|||||||||elokuu|listopad
-mes nelu|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
+mes cheti|mes|||July||julio|||||７月|||||||||heinäkuu|październik
 mes des|mes|||October||octubre|||||１０月|||||||||lokakuu|luty
 mes des du|mes|||December||deciembre|||||１２月|||||||||joulukuu|kwiecień
 mes des un|mes|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
 mes du|mes|||February||febrero|||||２月|||||||||helmikuu|maj
-mes luka|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
 mes lima|mes|||May||mayo|||||５月|||||||||toukokuu|sierpień
-mes cheti|mes|||July||julio|||||７月|||||||||heinäkuu|październik
+mes luka|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
+mes nelu|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
 mes tisa|mes|||September||septiembre|||||９月|||||||||syyskuu|grudzień
 mes tri|mes|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
 mes un|mes|||January||enero|||||１月|||||||||tammikuu|styczeń
@@ -2680,6 +2680,9 @@ nefre flame||||nephritis||nefritis||||||||||||||munuaistulehdus (nefriitti)|zapa
 nefte|||ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|oil|huile (pétrole)|aceite (óleo)|aeite (óleo)|масло||油|油 (オイル)||||||||||olej
 nefte guku|bio|Chrysanthemum indicum|zho:油菊, jpn:アブラギク|Indian chrysanthemum||||||野菊花|シマカンギク (アブラギク)||||||||||złocień indyjski
 nega|||spa:por:negar, eng:negate|refuse (deny, decline)||rechazar (negar)||||||||||||||kieltää|odmówić (odrzucić)
+nelu|nomer|4|kor:넷 (net) + swa:nne, zul:ne, + mal:നാലു (nālu), tel:నాలుగు (nālugu), kan:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, hun:négy|four (4)|quatre (4)|cuatro (4)|quatro (4)|четыре (4)||四 (4)|四 (4)||||||||kvar (4)|neljä (4)|cztery (4)
+nelu di galope||||gallop||||||||||||||||neli (kiitolaukka)|
+nelu gona||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
 nen|||jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|year||año|||||年||||||||jaro|vuosi|rok
 nen festa||||anniversary||aniversario||||||||||||||vuosijuhla|rocznica
 nen mes den|||zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|date||fecha||||年月日|年月日|연월일|||||||dato|päivämäärä|data
@@ -2938,9 +2941,6 @@ pelpel|bio|Lepidoptera|por:borboleta, fra:papillon, ita:farfalla, bul:пепер
 pende|||eng:pendant, por:fra:pender|hang (dangle)||colgar||||||||||||||roikuttaa|powiesić, wieszać
 pende kardon|bio|Carduus nutans||musk thistle|chardon penché|||чертополох поникший||垂花飞廉|||||||||||oset zwisły
 penis|||eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)|penis (phallus)||pene|||||||||||||peniso|siitin (penis)|penis
-lima|nomer|5|may:tgl:lima|five (5)|cinq (5)|cinco (5)|cinco (5)|пять (5)||五 (5)|五 (5)|||||lima|tano||kvin (5)|viisi (5)|pięć (5)
-lima fase||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
-lima gona||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
 pente|||eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)|paint|peinture|pintura|pintura|картина||油漆 (颜料)|絵の具 (ペンキ)|||पेंट (रंग)|||||pentri|maalata|namalować, malować
 pente ja||||painter||pintor||художник|||画家 (絵かき)|||||||||maalari|malarz
 pente tela||||canvas|canevas (toile)|tela|tela|полотно||画布|||||||||kanvaso|taulukangas|
@@ -3374,9 +3374,9 @@ Senegal|desha|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
 sense|||eng:sense, spa:por:sentido, fra:sens|sense (method of perception)|sens|sentido|sentido|чувство|حاسة‎|感觉|感覚|감각|||||||sentumo|aisti|zmysł
 sense gi||||sensor (detector)||||||||||||||||sensori (aistin)|sensor (detektor, czujka)
 sense shaka||||tentacle (feeler)|tentacule|tentáculo|tentáculo|щупальце||觸手|触手||||||||||macka (czułek)
-senta|nomer|100|fra:cent, spa:cien, por:cem, eng:cent-, hin:शत (śat), ben:শত (śôt)|hundred (hecto-, 100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|百|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (hehto-)|sto (100)
-senta nen||||century|siècle (centennie)|centuria (siglo)|século|столетие||世纪|世紀|세기|thế kỷ|शताब्दी|শতাব্দী|abad||yüzyıl (asır)|jarcento (centjaro)|vuosisata|stulecie
-senta nen di||||centenary|centenaire|centenario|centénario|столетний|||||||||||centjara|satavuotinen|
+sento|nomer|100|fra:cent, spa:cien, por:cem, ita:cento, eng:cent-, hin:शत (śat), ben:শত (śôt)|hundred (hecto-, 100)|cent (100)|cien (100)|cem (100)|сто|مِئَة|百|百 (１００)|백|một trăm|सौ|শত|ratus|mia|yüz|cent|sata (hehto-)|sto (100)
+sento nen||||century|siècle (centennie)|centuria (siglo)|século|столетие||世纪|世紀|세기|thế kỷ|शताब्दी|শতাব্দী|abad||yüzyıl (asır)|jarcento (centjaro)|vuosisata|stulecie
+sento nen di||||centenary|centenaire|centenario|centénario|столетний|||||||||||centjara|satavuotinen|
 sentaure|bio|Centaurea|eng:centaury, por:centáurea||Centaurée||centáurea|василёк|||||||||||||chaber
 senti|numbe|||centi- (per cent)||centi- (por ciento)|||||||||||||centono|sentti|centy-, procent, na sto, setna część
 sentimitre|unomete|cm||centimeter (cm)||centímetro||||||||||||||senttimetri (cm)|centymetr
@@ -3858,11 +3858,11 @@ vanadium|mate|V||vanadium||vanadio||||||||||||||vanadiini|wanad
 vanila|||eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|vanilla||vainilla||||||||||||||vanilja|wanilia
 Vanuatu|desha|VU||Vanuatu||Vanuatu||||||||||||||Vanuatu|Vanuatu
 var|||hin:वार (vār), ben:বার (bar) + por:feira|day of the week||día de semana|||||||||||||semajntago|viikonpäivä|
-var nelu||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
-var du||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiistai|wtorek
-var luka||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
-var lima||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
 var cheti||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
+var du||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiistai|wtorek
+var lima||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
+var luka||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
+var nelu||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
 var tri||||Wednesday|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merredo|keskiviikko|środa
 var un||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
 var var||||week|semaine|semana||||週|||||||||semajno|viikko|tydzień

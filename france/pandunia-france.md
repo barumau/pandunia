@@ -312,7 +312,6 @@ chanse - chance
 chante grupe - chœur  
 charme - charme  
 chati - toit  
-chatre - quatre (4)  
 chen - avant  
 chen den - hier  
 chen zaman di - vieux (ancien)  
@@ -539,6 +538,7 @@ France krepe - crêpe
 frem - cadre  
 frute - fruit  
 frute bagi - verger  
+fufu - pâte (pulpe, foufou)  
 fuku - vêtements  
 fuku - porter (s’habiller)  
 fungu frute - champignon  
@@ -910,6 +910,7 @@ lila - lilas
 lili - petit  
 lili kaboga - courgette  
 lili sheku - caillou  
+lima - cinq (5)  
 limon - citron  
 lin - ligne (fil)  
 lin so - fibre  
@@ -962,6 +963,8 @@ man raja - roi
 manera - comportement (manière)  
 mang - occupé  
 mani din - manichéisme  
+manioka - manioc  
+manioka fufu - tapioca  
 mantol - cape  
 mantra - mantra  
 mar - fois  
@@ -1002,7 +1005,7 @@ men - on
 meninge - méninge  
 Merkur - Mercure  
 mes - mois  
-mes bato - août  
+mes bati - août  
 mesi - Christ (messie)  
 mestre - maître  
 metal bede - enclume  
@@ -1069,6 +1072,7 @@ nave lefte - babord
 nave raite - tribord  
 nefre - rein  
 nefte - huile (pétrole)  
+nelu - quatre (4)  
 Neputun - Neptune  
 nerve selu - neurone  
 nerve toksi - neurotoxine  
@@ -1170,7 +1174,6 @@ pei gung - profession (métier)
 pei gung jiu - carrière  
 pelpel - papillon  
 pende kardon - chardon penché  
-penta - cinq (5)  
 pente - peinture  
 pente tela - canevas (toile)  
 perisha - périr  
@@ -1284,6 +1287,7 @@ ruhu mishe di - perplexe (désorienté)
 ####S - S  
 sabe - savoir (connaître)  
 safar kegu ja - touriste  
+sagu - sagoutier  
 sahi - correct (juste)  
 saide - chasser  
 sake - sac  
@@ -1323,9 +1327,9 @@ seme di - séminal
 sene - âge  
 sense - sens  
 sense shaka - tentacule  
-senta - cent (100)  
-senta nen - siècle (centennie)  
-senta nen di - centenaire  
+sento - cent (100)  
+sento nen - siècle (centennie)  
+sento nen di - centenaire  
 sentaure - Centaurée  
 sera - scie  
 shalke - échelle  
@@ -1496,13 +1500,14 @@ vali - vallée (oued)
 valu - valeur  
 vampir - vampire  
 vampir ohtopus - vampire des abysses  
-var chatre - jeudi  
+var cheti - dimanche  
 var du - mardi  
-var luku - samedi  
-var penta - vendredi  
-var sete - dimanche  
+var lima - vendredi  
+var luka - samedi  
+var nelu - jeudi  
 var tri - mercredi  
 var un - lundi  
+var var - semaine  
 vari - divers (plusieurs)  
 varka alga - varech  
 varka late - page  

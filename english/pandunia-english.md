@@ -535,9 +535,6 @@ chapati - flatbread (chapati, roti)
 chape - print (stamp)  
 charme - charm (attraction)  
 chati - roof  
-chatre - four (4)  
-chatre di galope - gallop  
-chatre gona - square (tetragon)  
 chau - grass  
 chau topo - grassland (prairie)  
 cheke - check (to examine)  
@@ -779,9 +776,8 @@ dua - pray (beg, entreat, implore)
 dua - prayer  
 dubnium - dubnium  
 dudu - insect  
-duka - sadden (make sad)  
-duka - sad  
-duka ta - grief (sorrow)  
+duka - grief (sorrow)  
+duka di - sad  
 duku - read  
 duman - smoke  
 dunia - world  
@@ -932,6 +928,7 @@ fa dika - aim (point)
 fa dom - accommodate  
 fa dosil - tame (train)  
 fa dosil jene - domesticate (cultivate)  
+fa duka - sadden (make sad)  
 fa dura - pass (spend time, put time into)  
 fa dus forma - disfigure  
 fa dus name - insult (offend, call names)  
@@ -1273,6 +1270,7 @@ frute - fruit
 frute bagi - orchard  
 frute sana - fertilize  
 frute sana ja - fertilizer  
+fufu - pulp (pap, mash, mush)  
 fui - bah! (yuck!)  
 fuka - return (restore, recover, resume)  
 fuku - clothing (clothes)  
@@ -2232,6 +2230,9 @@ lili kaboga - zucchini
 lili sheku - pebble (gravel)  
 lili siti - small town  
 lili yam - snack  
+lima - five (5)  
+lima fase - pentahedron (prism)  
+lima gona - pentagon  
 limfa - lymph  
 limite - limit (boundary)  
 limite di - finite (limited)  
@@ -2360,6 +2361,7 @@ Mani - prophet Mani
 mani din - Manichaeism  
 Manin nes - Isle of Man  
 manioka - cassava (manioc)  
+manioka fufu - tapioca  
 mantol - cape (cloak, mantle)  
 mantra - chant  
 mantra - mantra  
@@ -2453,15 +2455,15 @@ mentor - advisor (counselor, mentor)
 meranti - lauan tree (meranti, balau)  
 Merkur - Mercury  
 mes - month  
-mes bato - August  
-mes chatre - April  
+mes bati - August  
+mes cheti - July  
 mes des - October  
 mes des du - December  
 mes des un - November  
 mes du - February  
-mes luku - June  
-mes penta - May  
-mes sete - July  
+mes lima - May  
+mes luka - June  
+mes nelu - April  
 mes tisa - September  
 mes tri - March  
 mes un - January  
@@ -2670,6 +2672,9 @@ nefre flame - nephritis
 nefte - oil  
 nefte guku - Indian chrysanthemum  
 nega - refuse (deny, decline)  
+nelu - four (4)  
+nelu di galope - gallop  
+nelu gona - square (tetragon)  
 nen - year  
 nen festa - anniversary  
 nen mes den - date  
@@ -2928,9 +2933,6 @@ pelpel - butterfly (moth)
 pende - hang (dangle)  
 pende kardon - musk thistle  
 penis - penis (phallus)  
-penta - five (5)  
-penta fase - pentahedron (prism)  
-penta gona - pentagon  
 pente - paint  
 pente ja - painter  
 pente tela - canvas  
@@ -3247,6 +3249,8 @@ safar ja - traveler
 safar kegu - tourism  
 safar kegu ja - tourist  
 safran - saffron  
+sagu - sago palm  
+sagu fen - sago  
 Sahara Desha - Sahrawi Arab Democratic Republic  
 sahi - right (correct, accurate)  
 saide - hunt (fish)  
@@ -3361,9 +3365,9 @@ Senegal - Senegal
 sense - sense (method of perception)  
 sense gi - sensor (detector)  
 sense shaka - tentacle (feeler)  
-senta - hundred (hecto-, 100)  
-senta nen - century  
-senta nen di - centenary  
+sento - hundred (hecto-, 100)  
+sento nen - century  
+sento nen di - centenary  
 senti - centi- (per cent)  
 sentimitre - centimeter (cm)  
 sera - saw  
@@ -3844,11 +3848,11 @@ vanadium - vanadium
 vanila - vanilla  
 Vanuatu - Vanuatu  
 var - day of the week  
-var chatre - Thursday  
+var cheti - Sunday  
 var du - Tuesday  
-var luku - Saturday  
-var penta - Friday  
-var sete - Sunday  
+var lima - Friday  
+var luka - Saturday  
+var nelu - Thursday  
 var tri - Wednesday  
 var un - Monday  
 var var - week  

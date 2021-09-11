@@ -170,7 +170,6 @@ chakra - 車輪
 chamacha - スプーン  
 chante grupe - 合唱団  
 chati - 屋根  
-chatre - 四 (4)  
 chau - 草  
 chau topo - 草地  
 chen - 以前 (前に)  
@@ -702,6 +701,7 @@ lika - 力
 lili - 小さい  
 lili kaboga - ズッキーニ  
 lili sheku - 小石  
+lima - 五 (5)  
 limon - レモン  
 limon oranje - 柑橘  
 lin - 糸  
@@ -749,6 +749,7 @@ mal nomi - 経済学
 man - 男  
 man raja - 王様  
 mang - 忙しい  
+manioka - キャッサバ  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
@@ -783,15 +784,15 @@ melon - マスクメロン
 memo - 記憶  
 memo bina - 追悼塔 (碑)  
 mes - 月間  
-mes bato - ８月  
-mes chatre - ４月  
+mes bati - ８月  
+mes cheti - ７月  
 mes des - １０月  
 mes des du - １２月  
 mes des un - １１月  
 mes du - ２月  
-mes luku - ６月  
-mes penta - ５月  
-mes sete - ７月  
+mes lima - ５月  
+mes luka - ６月  
+mes nelu - ４月  
 mes tisa - ９月  
 mes tri - ３月  
 mes un - １月  
@@ -857,6 +858,7 @@ nave - 舟 (ボート)
 nefre - 腎臓  
 nefte - 油 (オイル)  
 nefte guku - シマカンギク (アブラギク)  
+nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
 nerve toksi - 神経毒  
@@ -931,7 +933,6 @@ pei gung di - プロフェッショナル
 pei gung ja - プロフェッショナル  
 pei gung jiu - キャリア  
 pelpel - チョウ  
-penta - 五 (5)  
 pente - 絵の具 (ペンキ)  
 pente ja - 画家 (絵かき)  
 pero kardon - アメリカオニアザミ  
@@ -1021,6 +1022,8 @@ sabe - 知る
 sabe vol - 興味 (好奇心)  
 sabe vol di - 面白い  
 sabe vol ja - 知りたがる  
+sagu - サゴ  
+sagu fen - サゴ澱粉  
 sahi - 正しい  
 saide - 狩る  
 saide - 狩り (狩猟)  
@@ -1054,8 +1057,8 @@ seme dane - 種
 sene - 年齢  
 sense - 感覚  
 sense shaka - 触手  
-senta - 百 (１００)  
-senta nen - 世紀  
+sento - 百 (１００)  
+sento nen - 世紀  
 sera - のこぎり  
 serami - 陶器  
 shalke - うろこ  
@@ -1206,11 +1209,11 @@ vampir ohtopus - コウモリダコ
 van - 楽しみ (娯楽)  
 van di - 楽しい  
 van gi - おもちゃ  
-var chatre - 木曜日  
+var cheti - 日曜日  
 var du - 火曜日  
-var luku - 土曜日  
-var penta - 金曜日  
-var sete - 日曜日  
+var lima - 金曜日  
+var luka - 土曜日  
+var nelu - 木曜日  
 var tri - 水曜日  
 var un - 月曜日  
 vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  

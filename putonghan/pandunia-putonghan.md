@@ -193,7 +193,6 @@ chakra - 轮子
 chamacha - 匙子  
 chante grupe - 合唱团  
 chati - 屋顶 (房顶)  
-chatre - 四 (4)  
 chen - 以前  
 chen den - 昨日  
 chen zaman di - 古老 (以前)  
@@ -371,6 +370,7 @@ frem - 框
 frike - 擦伤  
 frute - 果  
 frute bagi - 果园  
+fufu - 富富  
 fuku - 衣服  
 fuku - 穿  
 fuku vashi gi - 洗衣机  
@@ -700,6 +700,7 @@ lika - 力
 lili - 小  
 lili kaboga - 西葫芦  
 lili sheku - 砾石  
+lima - 五 (5)  
 limon - 柠檬  
 limon oranje - 柑橘  
 lin - 线  
@@ -750,6 +751,7 @@ mana - 意义
 manera - 方式  
 mang - 忙  
 mani din - 摩尼教  
+manioka - 木薯   
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
@@ -849,6 +851,7 @@ nave raite - 右舷
 nefre - 肾脏  
 nefte - 油  
 nefte guku - 野菊花  
+nelu - 四 (4)  
 nen mes den - 年月日  
 nerve toksi - 神经毒素  
 nia - 意图  
@@ -928,7 +931,6 @@ pei gung - 职业
 pelmen - 饺子  
 pelpel - 蝴蝶  
 pende kardon - 垂花飞廉  
-penta - 五 (5)  
 pente - 油漆 (颜料)  
 pente tela - 画布  
 pero kardon - 翼蓟  
@@ -1014,6 +1016,7 @@ sabe vol di - 有趣
 sabe vol ja - 好奇  
 sabun - 肥皂  
 safar - 旅行  
+sagu - 西谷米  
 sahi - 正确  
 saide - 打猎  
 saide - 狩猎  
@@ -1052,8 +1055,8 @@ seme di - 种子的
 sene - 年岁  
 sense - 感觉  
 sense shaka - 觸手  
-senta - 百  
-senta nen - 世纪  
+sento - 百  
+sento nen - 世纪  
 sera - 锯子  
 serami - 陶瓷  
 shalke - 鳞  
@@ -1211,11 +1214,11 @@ vali susan - 鈴蘭
 valu - 价值  
 vampir - 吸血鬼  
 van - 娱乐  
-var chatre - 星期四 (禮拜四)  
+var cheti - 星期日 (禮拜日)  
 var du - 星期二 (禮拜二)  
-var luku - 星期六 (礼拜六)  
-var penta - 星期五 (禮拜五)  
-var sete - 星期日 (禮拜日)  
+var lima - 星期五 (禮拜五)  
+var luka - 星期六 (礼拜六)  
+var nelu - 星期四 (禮拜四)  
 var tri - 星期三 (禮拜三)  
 var un - 星期一 (禮拜一)  
 var var - 週  

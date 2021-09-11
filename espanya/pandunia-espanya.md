@@ -485,8 +485,6 @@ chapati - chapati (pan sin levadura)
 chape - grabado (sello, estampando)  
 charme - encanto  
 chati - techo (tejado)  
-chatre - cuatro (4)  
-chatre gona - cuadro  
 chau - césped (hierba)  
 chau topo - pradera (pastizal)  
 cheke - revisar (chequear)  
@@ -699,9 +697,8 @@ dua - rezar (orar)
 dua - rezo (oración)  
 dubnium - dubnio  
 dudu - insecto  
-duka - entristecer (poner triste)  
-duka - triste  
-duka ta - pena (tristeza)  
+duka - pena (tristeza)  
+duka di - triste  
 duku - leer  
 duman - humo  
 dunia - mundo  
@@ -832,6 +829,7 @@ fa dika - apuntar
 fa dom - alojar (hospedar)  
 fa dosil - domar (amansar)  
 fa dosil jene - domesticar (cultivate)  
+fa duka - entristecer (poner triste)  
 fa dura - pasar (transcurrir)  
 fa dus forma - desfigurar  
 fa dus name - insultar (ofender)  
@@ -1133,6 +1131,7 @@ frem - marco
 frike - raspar (arañar)  
 frute - fruta  
 frute bagi - huerta  
+fufu - polpa  
 fui - puaj  
 fuka - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuku - ropa (vestimenta)  
@@ -2008,6 +2007,9 @@ lili - pequeño
 lili bol - burbuja (pompa)  
 lili kaboga - calabacín  
 lili yam - tentempié  
+lima - cinco (5)  
+lima fase - pentaedro  
+lima gona - pentágono  
 limfa - linfa  
 limite - límite (frontera, linde)  
 limon - limón  
@@ -2123,6 +2125,7 @@ Mani - profeta Mani
 mani din - maniqueísmo  
 Manin nes - Isla de Man  
 manioka - yuca (mandioca)  
+manioka fufu - tapioca  
 mantol - capa (manto)  
 mantra - salmodiar  
 mantra - mantra  
@@ -2209,15 +2212,15 @@ meninge flame - meningitis
 mentor - consejero (asesor)  
 Merkur - Mercurio  
 mes - mez  
-mes bato - agosto  
-mes chatre - abril  
+mes bati - agosto  
+mes cheti - julio  
 mes des - octubre  
 mes des du - deciembre  
 mes des un - nobiembre  
 mes du - febrero  
-mes luku - junio  
-mes penta - mayo  
-mes sete - julio  
+mes lima - mayo  
+mes luka - junio  
+mes nelu - abril  
 mes tisa - septiembre  
 mes tri - marzo  
 mes un - enero  
@@ -2417,6 +2420,8 @@ nefre - riñon
 nefre flame - nefritis  
 nefte - aceite (óleo)  
 nega - rechazar (negar)  
+nelu - cuatro (4)  
+nelu gona - cuadro  
 nen - año  
 nen festa - aniversario  
 nen mes den - fecha  
@@ -2651,9 +2656,6 @@ pelmen - empanada (pelmeni)
 pelpel - mariposa (palomilla)  
 pende - colgar  
 penis - pene  
-penta - cinco (5)  
-penta fase - pentaedro  
-penta gona - pentágono  
 pente - pintura  
 pente ja - pintor  
 pente tela - tela  
@@ -2952,6 +2954,7 @@ safar ja - viajero
 safar kegu - turismo  
 safar kegu ja - turista  
 safran - azafrán  
+sagu - sagú  
 Sahara Desha - República Árabe Saharaui Democrática  
 sahi - correcto (justo)  
 saide - cazar (pescar)  
@@ -3056,9 +3059,9 @@ sene - edad
 Senegal - Senegal  
 sense - sentido  
 sense shaka - tentáculo  
-senta - cien (100)  
-senta nen - centuria (siglo)  
-senta nen di - centenario  
+sento - cien (100)  
+sento nen - centuria (siglo)  
+sento nen di - centenario  
 senti - centi- (por ciento)  
 sentimitre - centímetro  
 sera - sierra  
@@ -3506,11 +3509,11 @@ vanadium - vanadio
 vanila - vainilla  
 Vanuatu - Vanuatu  
 var - día de semana  
-var chatre - jueves  
+var cheti - domingo  
 var du - martes  
-var luku - sábado  
-var penta - viernes  
-var sete - domingo  
+var lima - viernes  
+var luka - sábado  
+var nelu - jueves  
 var tri - miércoles  
 var un - lunes  
 var var - semana  

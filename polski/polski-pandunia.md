@@ -405,11 +405,11 @@ czerwiec - mes tri
 czerwony - lal  
 cześć, szacunek - puja  
 czosnek olbrzymi - dai lasun  
-cztery (4) - chatre  
+cztery (4) - nelu  
 czuć (poczuć, postrzegać, wykrywać) - fa sense  
 czuć - tochu sense  
 czuć, odczuć, odczuwać - be emosi  
-czwartek - var chatre  
+czwartek - var nelu  
 czyn, uczynek - fate  
 czysty (higieniczny, sanitarny) - salu safa di  
 czysty - safa  
@@ -1262,7 +1262,7 @@ kusza (balista) - krus arka
 kuszetka (koja) - kush loke  
 Kuwejt - Kuvaitia  
 kuzyn - chin brus ben  
-kwadrat (czworokąt, czworobok, tetragon) - chatre gona  
+kwadrat (czworokąt, czworobok, tetragon) - nelu gona  
 kwarc - kuarze  
 kwaśny - suan  
 kwestia, problem - sual tema  
@@ -1327,11 +1327,11 @@ limfa - limfa
 limit, granica - limite  
 limonkowy (limonkowo zielony) - limon luka di  
 linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
-lipiec - mes chatre  
+lipiec - mes nelu  
 lis - huli  
 lista słów - loga liste  
 lista, spis, wykaz - liste  
-listopad - mes bato  
+listopad - mes bati  
 listownicowiec - varka alga  
 lit - litium  
 litera, znak - fon zi  
@@ -1692,7 +1692,7 @@ niebieskozielony (cyjan) - sian
 niebo - sama  
 niech my, hajda - haide  
 niechętny - an icha ja  
-niedziela - var sete  
+niedziela - var cheti  
 niedźwiedź - urso  
 Niemcy - Doiche  
 niemiecki - doiche di  
@@ -1960,7 +1960,7 @@ pauza (przerwa) - pauza
 paznokieć - nahun  
 pałac - dai dom  
 paść, padać, upaść, upadać - pade  
-październik - mes sete  
+październik - mes cheti  
 pchnąć, pchać - pusha  
 pedał - pedal  
 Pekin - Beijing  
@@ -2021,12 +2021,12 @@ pizza - piza
 pizzeria - piza kan  
 pióro - pero  
 pióro, długopis - kalam  
-piątek - var penta  
-pięciokąt (pentagon) - penta gona  
-pięciościan (pryzmat) - penta fase  
+piątek - var lima  
+pięciokąt (pentagon) - lima gona  
+pięciościan (pryzmat) - lima fase  
 piękno - sundar ta  
 piękny, przystojny - sundar  
-pięć (5) - penta  
+pięć (5) - lima  
 piła - sera  
 piłka - bol  
 piłka do koszykówki (koszykówka) - baske bol  
@@ -2536,6 +2536,7 @@ ręczny - hande di
 ręka, dłoń - hande  
 rękaw - kamisa shaka  
 ####S - S  
+sago - sagu  
 Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahara Desha  
 Saint Kitts - Sante Kitse  
 Saint Kitts i Nevis - Sante Kitse e Nevis  
@@ -2592,7 +2593,7 @@ siedzieć - fa side
 siekera, topór - futau  
 sierociniec, dom dziecka - yatim dom  
 sierota - yatim  
-sierpień - mes penta  
+sierpień - mes lima  
 Sierra Leone - Salon  
 sieć - nete  
 sikać, szczać, oddawać mocz - fa pish  
@@ -2635,10 +2636,10 @@ smakować, próbować smaku - fa guste
 smerf - blu elfe  
 smieszany (skonfudowany) - ruhu mishe di  
 smok - lung  
-smutny - duka  
+smutny - duka di  
 smycz (cugiel, lejc, wodza) - lida lin  
 snajper (strzelec wyborowy) - juste pau ja  
-sobota - var luku  
+sobota - var luka  
 socjalista - sosi sim ja  
 socjalizm - sosi sim  
 socjalizować się - fa sosi  
@@ -2705,7 +2706,7 @@ statyczny, stacjonarny, nieruchomy - estasi di
 stać - lipa  
 stały (sztywny) - gati mate di  
 sterburta (prawa burta) - nave raite  
-sto (100) - senta  
+sto (100) - sento  
 stojak (wieszak) - lipa baze  
 stokrotka - margarita  
 stokrotka pospolita - english margarita  
@@ -2731,7 +2732,7 @@ strzykwa - hai hiyar
 strzępić (drzeć) - chira chira  
 student - estude ja  
 studio (pracownia) - estude kan  
-stulecie - senta nen  
+stulecie - sento nen  
 styczeń - mes un  
 stół - meza  
 stłuc się (rozpaść się na kawałki) - fa parche  
@@ -3202,7 +3203,7 @@ wow!, łoł!, jej! - va
 wołowina - mumu nama  
 wprost (bezpośrednio) - disha di  
 wprostowywać (wyprostować) - fa orto  
-wrzesień - mes luku  
+wrzesień - mes luka  
 wrócić, wracać, wycofać się, wycofywać się - be retro  
 wróg (nieprzyjaciel) - an dosti  
 wróżka - pari  
@@ -3375,7 +3376,7 @@ zaratusztrianizm - zardush din
 zarządzanie (-nomia) - nomi  
 zarządzać (organizować, kierować) - fa nomi  
 zaskoczenie - supriza  
-zasmucić (zasmucać) - duka  
+zasmucić (zasmucać) - fa duka  
 zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) - faida  
 zastosowanie, aplikacja - aplika  
 zastosować, stosować - aplika  
@@ -3553,7 +3554,7 @@ zły, zrujnowany, zepsuty - harabu
 źródłowy, początkowy, oryginalny - asal di  
 żaba - krokroke  
 żad - gioka  
-żal, smutek - duka ta  
+żal, smutek - duka  
 żart - joke  
 żartowniś, dowcipniś - joke ja  
 żeglarz (marynarz) - nave ja  
