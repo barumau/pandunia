@@ -1,8 +1,8 @@
-# Numéraux
+# Nombrovortoj
 
-Les mots de base pour les chiffres sont :
+## Kvantaj nombrovortoj
 
-| Ones    | 10 et plus   | 20 et plus       | 30 et plus       |
+| Unuoj   | Dek kaj pli | 20 kaj pli        | 30 kaj pli       |
 |:--------|:-------------|:-----------------|:-----------------|
 | 0 siro  | 10 (un) des  | 20 du des        | 30 tri des       |
 | 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
@@ -15,7 +15,7 @@ Les mots de base pour les chiffres sont :
 | 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
-| Uns     |  Dizaines    | Cents           | Milliers          |
+| Unuoj   | Dekoj        | Centoj          | Miloj            |
 |:--------|:-------------|:----------------|:------------------|
 | 1 un    | 10 (un) des  | 100 un sento    | 1000 un kilo      |
 | 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
@@ -27,10 +27,19 @@ Les mots de base pour les chiffres sont :
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
-Les nombres supérieurs à 999 peuvent utiliser les multiples provenant du Systèmes International des Unités.
-Ainsi, par exemple kilo- est le multiple qui indique les milliers.
+Pli grandaj nombroj sekvas la saman logikon kiel supre.
 
-| Prefixe| Symbol | Base 10 | Decimal                        |
+10'000 = un des kilo  
+100'000 = un sento kilo  
+1'000'000 = un mega  
+10'000'000 = un des mega  
+100'000'000 = un sento mega  
+1'000'000'000 = un giga
+
+Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj.
+Do ekzemple _kilo_ indikas miloblecon.
+
+|Prefikso|Simbolo |10-baze  | Decimale                       |
 |:-------|:------:|:-----|----------------------------------:|
 | kilo   | k      | 10³  |                             1'000 |
 | mega   | M      | 10⁶  |                         1'000'000 |
@@ -41,35 +50,41 @@ Ainsi, par exemple kilo- est le multiple qui indique les milliers.
 | zeta   | Z      | 10²¹ |     1'000'000'000'000'000'000'000 |
 | yota   | Y      | 10²⁴ | 1'000'000'000'000'000'000'000'000 |
 
+## Nombrovortoj antaŭ substantivoj
 
-La quantité peut s'exprimer par des numéraux et autres expressions de quantité.
-On les place avant le mot ou le groupe de mots qu'ils qualifient.
+Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie.
+Ekzemple la vorto **la sol** (la suno) normale temas pri unu suno, ĉar ekzistas nur unu.
 
-**un sing** 
-– une étoile  
-**du sing** 
-– deux étoiles  
-**tri sing** 
-– trois étoiles  
-**shau sing** 
-– peu d'étoiles  
-**poli sing** 
-– beaucoup d'étoiles
+Oni esprimas kvanton aŭ nombron per kvantovortoj.
+Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
-**un dai kursi** 
-– une grande chaise
+**un sing**
+– unu stelo  
+**du sing**
+– du steloj  
+**tri sing**
+– tri steloj  
+**shau sing**
+– kelkaj steloj  
+**poli sing**
+– multe da steloj
+
+**un dai kursi**
+– unu granda seĝo  
 **du dai kursi**
-– deux grandes chaises
+– du grandaj seĝoj  
 **tri bon kursi**
-– trois grandes chaises
+– tri bonaj seĝoj
 
-Les nombres ordinaux se placent après le mot qu'ils modifient.
 
-**fen un** 
-– la première partie (partie une)
+## Ordaj nombrovortoj
+
+Se la kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
+
+**fen un**
+– la unua parto  
 **fen du**
-– la deuxième partie (partie deux)
+– la dua parto  
 **fen tri**
-– la troisième partie (partie trois)
-
+– la tria parto  
 
