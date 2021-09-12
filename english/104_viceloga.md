@@ -44,14 +44,14 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 **mimen vide se.**
 – We see ourselves.
 
-The word **semen** is used as the reciprocal pronoun.
+The expression **se kon** is used as the reciprocal pronoun.
 
-**semen**
+**se kon**
 – each other, one another
 
-**mi si tu vide semen.**
+**mi si tu vide se kon.**
 – Me and you see each other.  
-**mimen vide semen.**
+**mimen vide se kon.**
 – We see each other.
 
 

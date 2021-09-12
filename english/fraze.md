@@ -432,18 +432,18 @@ Do you have children?
 I have two children.
 
 
-### sabi <small>to know</small>
+### sabe <small>to know</small>
 
-**mi sabi ya.**
+**mi sabe ya.**
 I know him/her/it.
 
-**sual tu sabi vo jan?**
+**sual tu sabe vo jan?**
 Do you know that person?
 
-**sual tumen sabi semen?**
+**sual tumen sabe se kon?**
 Do you know each other?
 
-**mimen sabi semen ze long.**
+**mimen sabe se kon ze long.**
 We know each other for a long time.
 
 
@@ -637,7 +637,7 @@ What did you say?
 **mi loga do tu.**
 I talk to you.
 
-**mimen loga do semen.**
+**mimen loga do se kon.**
 We talk to each other.
 
 **men loga "cat" na ke yang na pandunia?**
