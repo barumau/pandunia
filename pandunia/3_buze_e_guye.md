@@ -34,7 +34,7 @@ ya no shush loga.
 <p style="text-align:center;"><span style="font-size:3em;">🐐</span><span style="font-size:4.5em;">🐐</span><span style="font-size:6em;">🐐</span></p>
 
 na pos da lili zaman, bari kelele be audi ze supra da kiau.
-«ke jav marche na mi su kiau?», be krita la gui.
+«ke jan marche na mi su kiau?», be krita la gui.
 «mi, dai mehe», be loga la dai mehe ha dai soni.
 
 «zai mi kape tu!» be loga la gui.
