@@ -41,7 +41,7 @@ Structure words can be categorized into word classes as follows:
 2. Prepositions : words that relate things and actions into circumstances
 3. Conjunctions : words that join phrases together
 
-Content words can be classified futher into the following word classes:
+Content words can be classified further into the following word classes:
 
 1. Nouns : words for things, ideas, places and people.
 2. Adjectives : words for qualities of nouns, such as good, bad, and big.
