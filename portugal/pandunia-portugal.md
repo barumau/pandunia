@@ -72,7 +72,7 @@ astro nave ja - astronauta
 astro nomi - astronomia  
 astro nomi ja - astrónomo  
 Athina - Atenas  
-atlanti kade - bacalhau-do-atlântico  
+atlanti bakalau - bacalhau-do-atlântico  
 auro - ouro  
 Austronesia - Austronésia  
 auto loga - monólogo  
@@ -88,6 +88,7 @@ bagre - tigre
 bagre oselote - gato-do-mato (gato-maracajá-mirim)  
 baka fan - terracota  
 baka ja - padeiro  
+bakalau - bacalhau  
 baku - branco  
 baku margarite - margarita-maior  
 baku salmon - salmão-cão (salmão-keta)  
@@ -221,6 +222,7 @@ dai pau - canhǎo
 dai sheku - pedregulho  
 daku - ter (achar, receber)  
 dalil - prova  
+dama gem - damas  
 dang gi - sino (campainha)  
 danse - baile (danza)  
 Danske - danês  
@@ -433,6 +435,7 @@ glu bande - penso (band-aid)
 glu di - pegajoso (adesivo)  
 glu fan - argila  
 glu grafi - adesivo  
+go - esse (aquele)  
 gol - meta (gol)  
 gorila - gorila  
 goton - algodão  
@@ -861,8 +864,10 @@ musli - muesli
 muzika - música  
 ####N - N  
 na - em  
+na go - aí (lá)  
 na ke - onde  
 na lin - online  
+na ni - aqui  
 nadir - raro  
 nadir mar - raramente  
 najis - poluição  
@@ -883,6 +888,7 @@ nelu - quatro (4)
 Neputun - Netuno  
 nerve selu - neurônio  
 nerve toksi - neurotoxina  
+ni - este  
 nia - intenção  
 nide - ninho (vespiero)  
 Nipon - Japão  

@@ -153,8 +153,8 @@ astro nave ja - astronaute
 astro nomi - astronomie  
 astro nomi ja - astronome  
 Athina - Athènes  
+atlanti bakalau - morue de l'Atlantique  
 Atlanti Hai - océan Atlantique  
-atlanti kade - morue de l'Atlantique  
 atlanti salmon - saumon altentique  
 atom - atome  
 auro - or  
@@ -181,6 +181,7 @@ bagre oselote - oncille
 bah - bah  
 baka fan - terre cuite  
 baka ja - boulanger  
+bakalau - morue (cabillaud)  
 baku - blanc  
 baku margarite - marguerite  
 baku salmon - saumon du Pacifique (saumon kéta, saumon chien)  
@@ -263,6 +264,7 @@ bichi - fouet
 bil - pouvoir (possible, capacité, peut-être)  
 bil ta - capacité (pouvoir, habileté)  
 bilor - cristal  
+bina - bâtiment  
 bina plan - architecture  
 bina plan ja - architecte  
 bio logi - biologie  
@@ -337,6 +339,7 @@ dai pau - canon
 dai pote - chaudron  
 dai sheku - rocher  
 dalil - preuve  
+dama gem - jeu de dames  
 dang gi - cloche  
 danse - dance  
 Danske - danois  
@@ -593,6 +596,7 @@ glu bande - pansement (sparadrap)
 glu di - adhésif (collant)  
 glu fan - argile  
 glu grafi - autocollant  
+go - ce...lá  
 gol - but (destination)  
 gola sheku - pavé  
 gorila - gorille  
@@ -733,7 +737,6 @@ juste - justo (exact, précis)
 ####K - K  
 ka - que (comme)  
 kaboga - citrouille  
-kade - morue  
 kafe - café  
 kafe alga - algues brunes  
 kafe kan - café  
@@ -763,7 +766,6 @@ kamisa - chemise
 kamisa shaka - manche  
 kampe bagi - terrain de camping  
 kampe bede - lit de camp  
-kanape - canapé (sofa)  
 kancha - verre  
 kandi - bonbon  
 kane - bâton (canne, tige)  
@@ -1053,8 +1055,10 @@ musli - musli
 muzika - musique  
 ####N - N  
 na - a (dans, en, chez)  
+na go - là (y)  
 na ke - où  
 na lin - en ligne  
+na ni - ici  
 nadir - rare  
 nadir mar - rarement  
 najis - pollution  
@@ -1077,6 +1081,7 @@ Neputun - Neptune
 nerve selu - neurone  
 nerve toksi - neurotoxine  
 nete gete - télécharger  
+ni - ce...ci  
 nia - intention  
 niche - dessous  
 nide - nid  
@@ -1157,7 +1162,7 @@ pas - passer
 pas dau - passe (passage)  
 pas loga - mot de passe  
 pase - paix  
-pase hai kade - morue du Pacifique  
+pase hai bakalau - morue du Pacifique  
 pase sim - pacifisme  
 pase sim ja - pacifiste  
 pasporte - passeport  

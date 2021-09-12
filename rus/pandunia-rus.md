@@ -80,7 +80,7 @@ astro nave ja - астронавт
 astro nomi - астрономия  
 astro nomi ja - астроном  
 Athina - Афины  
-atlanti kade - Атлантическая треска  
+atlanti bakalau - Атлантическая треска  
 atlanti salmon - Атлантический лосось (сёмга)  
 auro - золото (аурум)  
 Austronesia - Австронезия  
@@ -161,6 +161,7 @@ bete - свёкла
 betula - берёза  
 bil - возможный  
 bilor - кристалл  
+bina - строение  
 bina plan - архитектура  
 bina plan ja - архитектор  
 bio - органический  
@@ -245,6 +246,7 @@ dai pote - котёл
 dai sheku - валун  
 daku - получить  
 dalil - доказательство  
+dama gem - шашки  
 dang - звенеть  
 dang gi - звонок  
 danse - танец  
@@ -473,6 +475,7 @@ glu bande - пластырь
 glu di - клейкий (липкий)  
 glu fan - глина  
 glu grafi - наклейка  
+go - тот  
 gol - цель  
 gola sheku - булыжник  
 gorila - горилла  
@@ -636,7 +639,6 @@ kamil - ромашка аптечная
 kamisa - рубашка  
 kampe bagi - полевой стан  
 kampe bede - раскладушка  
-kanape - канапе  
 kancha - стекло  
 kancha daka - глазурь  
 kandi - конфета  
@@ -918,7 +920,9 @@ musli - мюсли
 muzika - музика  
 ####N - N  
 na - в (на)  
+na go - там  
 na lin - онлайн  
+na ni - здесь (тут)  
 na poli mar - часто  
 nadir - редкий  
 nadir mar - редко  
@@ -944,6 +948,7 @@ nefte - масло
 nelu - четыре (4)  
 Neputun - Нептун  
 nerve selu - нейрон  
+ni - этот  
 nia - намерение  
 nide - гнездо (улей)  
 nilon - нейлон  
@@ -1015,7 +1020,7 @@ pari kata - сказка
 parke - парк  
 parne - папоротник  
 pas loga - пароль  
-pase hai kade - тихоокеанская треска  
+pase hai bakalau - тихоокеанская треска  
 pase sim - пацифизм  
 pasi - боль  
 pasi di - болезненный  

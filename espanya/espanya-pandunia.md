@@ -122,7 +122,7 @@ algún - yo
 algún día (algún vez) - yo sate  
 alicate - pinse gi  
 alinear - be ging  
-allí (allá) - na u loka  
+allí (allá) - na go  
 almendra - badam  
 almirante - hai amir ja  
 almohada - kushen  
@@ -206,6 +206,7 @@ apropriado (apto, oportuno) - hapu
 aproximadamente - yaki  
 apuntar (indicar) - ponte  
 apuntar - fa dika  
+aquí (acá) - na ni  
 Arabia Saudita - Saudi Arabia  
 aracnofobia - arane fobi  
 araña - arane  
@@ -321,8 +322,8 @@ azúcar - sukar
 año - nen  
 ####B - B  
 babor - nave lefte  
-bacalao - kade  
-bacalao común - atlanti kade  
+bacalao - bakalau  
+bacalao común - atlanti bakalau  
 backgammon - nardi  
 baguette - kane pan  
 bah - bah  
@@ -496,9 +497,9 @@ café - kafe
 cagar - fa shite  
 caimán (aligátor, yacaré) - korte krokodil  
 caja (baúl, cofre, estuche) - sanduku  
-caja (caja registradora) - kasha  
+caja (caja registradora) - pesa kasa  
 caja torácica - sina kasa  
-cajero - kasha ja  
+cajero - pesa kasa ja  
 cajón (gaveta) - tire sanduku  
 cal - kalse mate  
 calabacín - lili kaboga  
@@ -1268,6 +1269,7 @@ escultor - eskulte ja
 escultura (arte de escultura) - eskulte shuta  
 escultura (estatua) - eskulte  
 escupir (bufar) - tuh  
+ese (aquel) - go  
 eslabón - sili tika  
 eslavo - Slave  
 Eslovaquia - Slovakia  
@@ -1307,6 +1309,7 @@ estar al lado de - na late
 estar de pie - lipa  
 estar en contra - kontra  
 estaño - estan  
+este - ni  
 estimar (apriximarse a) - fa yagu  
 estirar (extender) - long tire  
 Estonia - Esti  
@@ -1326,7 +1329,7 @@ etapa (fase) - faze
 etimología - loga asal  
 Etiopía - Etiopia  
 etnia - zuku  
-Eurasia - eurasia  
+Eurasia - Eurasia  
 euro - euro  
 Europa - Europe  
 europeo - europe di  
@@ -3237,7 +3240,6 @@ socialismo nacional - nasi sosi sim
 socialista - sosi sim ja  
 sociedad - sosi  
 sodio - natre  
-sofá - kanape  
 sofá - sofa  
 soja - soi  
 sol - sol  

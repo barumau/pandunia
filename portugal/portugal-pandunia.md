@@ -68,6 +68,7 @@ aperfeiçoar - fa pul bon
 apodrecer-se - be pute  
 aprender - fa shula  
 apropriado (apto) - hapu  
+aqui - na ni  
 ar - air  
 arame - metal lin  
 aranha - arane  
@@ -117,8 +118,10 @@ azur (blau) - lazur
 azur - blu  
 açougueiro (talhante) - bucha ja  
 açúcar - sukar  
+aí (lá) - na go  
 ####B - B  
-bacalhau-do-atlântico - atlanti kade  
+bacalhau - bakalau  
+bacalhau-do-atlântico - atlanti bakalau  
 bacia - basen  
 baga - beri  
 bagagem - bagaje  
@@ -353,6 +356,7 @@ cúbito (côvado) - kudi metre
 ####D - D  
 dado - zar kube  
 dados - data  
+damas - dama gem  
 damasco (abricó, ameixa) - briko  
 dano (avaria) - avar  
 danês - Danske  
@@ -459,11 +463,13 @@ esquecer - an memo
 esqueleto - oste jama  
 esquerdo - lefte  
 esquilo - ekore  
+esse (aquele) - go  
 estado - hal  
 estanho - estan  
 estar deitado (jazer) - kush  
 estação (sazão) - mosim  
 este (leste) - dong  
+este - ni  
 estirar - long tire  
 estrado - tai  
 estrela - sing  

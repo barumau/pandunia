@@ -815,7 +815,7 @@ eu deu sim - euteismi (usko jumalan hyvyyteen)
 eu jene sim - eugeniikka  
 eu loga - ylistys  
 eu topo - utopia  
-eurasia - Euraasia  
+Eurasia - Euraasia  
 eureka - löytää (keksiä)  
 euro - euro (€)  
 Europa - Europa-kuu  
@@ -1277,6 +1277,7 @@ glu di - tahmainen (liimamainen)
 glu fan - savi  
 glu grafi - tarra  
 gluten - gluteeni  
+go - tuo  
 gol - maali (pelissä)  
 gola - piiri (ympyrä)  
 gola di - pyöreä  
@@ -1473,7 +1474,6 @@ huru sim di - liberaali (vapaamielinen)
 huru sim ja - liberalisti  
 huru ta - vapaus  
 hushi - mukava (kiva, miellyttävä)  
-i - tämä  
 ####I - I  
 ibri - heprea  
 icha - tahtoa  
@@ -1669,7 +1669,6 @@ kamri - walesilainen
 kan - paja (tekimö)  
 Kanada - Kanada  
 kanal - kanava (kanaali)  
-kanape - sohva  
 kancha - lasi  
 kandela - kandela  
 kandi - makeinen (karkki, namu)  
@@ -1715,8 +1714,6 @@ Kartvel - Georgia
 karvan - karavaani (saattue)  
 kas - tapaus (seikka)  
 kasa - laatikko  
-kasha - kassa  
-kasha ja - kassanhoitaja  
 kaske - kuori (suojakuori)  
 kastana - kastanja  
 kastor - majava  
@@ -2311,15 +2308,16 @@ muzika ja - muusikko
 Myanma - Myanmar (Burma)  
 ####N - N  
 na - luona (-lla, -ssa)  
+na go - tuolla  
 na in - sisällä (sisäpuolella)  
 na ke - missä?  
 na medi - välissä  
+na ni - täällä  
 na niche - alla  
 na nove - äsken (vasta, juuri)  
 na poli mar - usein  
 na re - taas (uudestaan)  
 na supra - yllä (pääll)  
-na u loka - siellä (tuolla)  
 na vakil da - puolesta  
 nabi - profetia  
 nabi ja - profeetta  
@@ -2388,6 +2386,7 @@ nesia jama - saaristo
 nete - verkko  
 netoloke - nettisivu  
 Nevis - Nevis  
+ni - tämä  
 nia - aie (aikomus, tarkoitus)  
 niche - alapuoli  
 niche di - ala-  
@@ -2604,6 +2603,8 @@ pero - sulka
 Peru - Peru  
 pesa - raha  
 pesa diske - kolikko  
+pesa kasa - kassa  
+pesa kasa ja - kassanhoitaja  
 peshe - kala  
 peshe huke - ongenkoukku  
 peshe saide ja - kalastaja  
@@ -3309,7 +3310,6 @@ Turkomen - Turkmenistan
 tuta - mulperi  
 Tuvalu - Tuvalu  
 tuzi - jänis  
-u - tuo  
 ####U - U  
 UDA di - yhdysvaltalainen (ns. Amerikkalainen)  
 uhu - itkeä (yhyy)  

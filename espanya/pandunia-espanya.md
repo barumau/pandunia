@@ -171,8 +171,8 @@ astro nomi - astronomía
 astro nomi ja - astrónomo  
 ata - anón (ates, saramuyo)  
 Athina - Atenas  
+atlanti bakalau - bacalao común  
 Atlanti Hai - océano Atlántico  
-atlanti kade - bacalao común  
 atlanti salmon - salmón del Atlántico  
 atom - átomo  
 audi - oír (escuchar)  
@@ -215,6 +215,7 @@ baka - hornear (cocer)
 baka fan - terracota  
 baka ja - panadero  
 baka kan - panadería  
+bakalau - bacalao  
 baku - blanco  
 baku choi - col china  
 baku margarite - margarita  
@@ -795,7 +796,7 @@ Etiopia - Etiopía
 eu - beneficioso (bueno)  
 eu anjil - evangelio  
 eu loga - elogio  
-eurasia - Eurasia  
+Eurasia - Eurasia  
 eureka - econtrar (hallar)  
 euro - euro  
 Europe - Europa  
@@ -1258,6 +1259,7 @@ glu di - pegajoso (adhesivo)
 glu fan - arcilla (barro)  
 glu grafi - adhesivo  
 gluten - gluten  
+go - ese (aquel)  
 gol - meta (gol, destinación)  
 gola - círculo  
 gola di - redondo (circular)  
@@ -1618,7 +1620,6 @@ kababu - asar
 kabin - cabaña  
 kaboga - calabaza  
 Kabu Verde - Cabo Verde  
-kade - bacalao  
 kadmium - cadmio  
 kafe - café  
 kafe alga - algas pardas  
@@ -1669,7 +1670,6 @@ Kamri - Gales
 kamri - galés  
 Kanada - Canadá  
 kanal - canal (cauce, acequia)  
-kanape - sofá  
 kancha - vidrio (cristal)  
 kancha daka - vidriado (esmalte)  
 kandela - candela (unidad de intensidad luminosa)  
@@ -1722,8 +1722,6 @@ karte - tarjeta (carta)
 Kartvel - Georgia (República de Georgia)  
 karvan - caravana  
 kas - acontecimiento (caso, suceso, evento)  
-kasha - caja (caja registradora)  
-kasha ja - cajero  
 kaske - carapacho (cáscara, concha, corteza, capa)  
 kastana - castaña  
 kastor - castor  
@@ -2356,17 +2354,18 @@ muzika ja - músico
 Myanma - Myanmar (Birmania)  
 ####N - N  
 na - en (a)  
+na go - allí (allá)  
 na in - dentro  
 na ke - dónde  
 na late - estar al lado de  
 na lin - en línea  
 na medi - entre  
+na ni - aquí (acá)  
 na niche - debajo  
 na nove - ahora mismo (justo)  
 na poli mar - frecuentemente  
 na re - otra vez (de nuevo)  
 na supra - sobre  
-na u loka - allí (allá)  
 nabi - profecía  
 nabi ja - profeta  
 nadir - raro  
@@ -2442,6 +2441,7 @@ nete dona - cargar (subir)
 nete gete - descargar  
 netoloke - sitio web  
 Nevis - Nieves  
+ni - este  
 nia - intención (intento)  
 niche - parte inferior  
 niche di - inferior  
@@ -2665,6 +2665,8 @@ pero kardon - cardo burral
 Peru - Perú  
 pesa - dinero (plata)  
 pesa diske - moneda  
+pesa kasa - caja (caja registradora)  
+pesa kasa ja - cajero  
 peshe - pez (pescado)  
 peshe huke - hamo (anzuelo)  
 peshe saide ja - pescador  

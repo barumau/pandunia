@@ -168,8 +168,8 @@ astro nave ja - astronauta
 astro nomi - astronomia  
 astro nomi ja - astronom  
 ata - jabłko cukrowe  
+atlanti bakalau - dorsz atlantycki  
 Atlanti Hai - Ocean Atlantycki  
-atlanti kade - dorsz atlantycki  
 atlanti salmon - łosoś atlantycki  
 atom - atom  
 audi - usłyszeć, słyszeć; słuchać  
@@ -208,6 +208,7 @@ baka - piec
 baka fan - terakota  
 baka ja - piekarz  
 baka kan - piekarnia  
+bakalau - dorsz  
 baku - biały  
 baku choi - kapusta pekińska  
 baku margarite - jastrun właściwy  
@@ -772,7 +773,7 @@ Etiopia - Etiopia
 eu - korzystny (dobry)  
 eu anjil - ewangelia  
 eu loga - laudacja  
-eurasia - Eurazja  
+Eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
 euro - euro (€)  
 Europe - Europa  
@@ -1204,6 +1205,7 @@ glu - klej
 glu di - lepki (kleisty)  
 glu fan - glina  
 gluten - gluten  
+go - tamten  
 gol - cel  
 gola - koło, okrąg  
 gola di - okrągły  
@@ -1552,7 +1554,6 @@ kababu nama - kebab
 kabin - kabina, budka  
 kaboga - kabaczek (dynia, tykwa)  
 Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
-kade - dorsz  
 kadmium - kadm  
 kafe - kawa  
 kafe alga - brunatnica  
@@ -1603,7 +1604,6 @@ kamri - walijski
 Kanada - Kanada  
 kanal - kanał  
 kanal ja - przewód (kanał)  
-kanape - sofa, kanapa  
 kancha - szkło  
 kancha daka - glazura (emalia)  
 kandela - kandela  
@@ -1656,8 +1656,6 @@ karte - karta
 Kartvel - Gruzja (Republika Gruzji)  
 karvan - karawana  
 kas - wydarzenie, przypadek, sytuacja  
-kasha - pudełko, skrzynia  
-kasha ja - kasjer  
 kaske - skorupa (pancerz, muszla)  
 kastana - kasztan  
 kastor - bóbr  
@@ -2286,6 +2284,7 @@ muzika ja - muzyk
 Myanma - Mjanma, Birma  
 ####N - N  
 na - przy, z, na, w, u  
+na go - tu (tutaj, tam)  
 na ke - gdzie  
 na late - być obok  
 na lin - online (na linii, w sieci)  
@@ -2295,7 +2294,6 @@ na nove - właśnie, dopiero co, ostatnio, niedawno
 na poli mar - często  
 na re - znowu (ponownie)  
 na supra - nad  
-na u loka - tu (tutaj, tam)  
 nabi - proroctwo  
 nabi ja - prorok  
 nadir mar - rzadko  
@@ -2366,6 +2364,7 @@ nete dona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)
 nete gete - ściągać (ściągnąć, pobrać, pobierać)  
 netoloke - witryna internetowa (portal internetowy)  
 Nevis - Nevis  
+ni - ten  
 niche - spód  
 niche di - poniższy  
 nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
@@ -2542,7 +2541,7 @@ pas - minąć, mijać, przeminąć, przemijać
 pas - przeszły, miniony  
 pase - pokój  
 Pase Hai - Ocean Spokojny (Pacyfik)  
-pase hai kade - dorsz pacyficzny  
+pase hai bakalau - dorsz pacyficzny  
 pase sim - pacyfizm  
 pase sim ja - pacyfista  
 pasi - cierpienie, ból  
@@ -2581,6 +2580,8 @@ pero kardon - ostrożeń lancetowaty
 Peru - Peru  
 pesa - pieniądze  
 pesa diske - moneta  
+pesa kasa - pudełko, skrzynia  
+pesa kasa ja - kasjer  
 peshe - ryba  
 peshe huke - haczyk  
 peshe saide ja - rybak  

@@ -332,49 +332,49 @@ Who are they?
 Bengali: কী "ke".</small>
 
 
-### i & u <small>this and that</small>
+### ni & go <small>this and that</small>
 
-**i si ke?**
+**ni si ke?**
 What's this?
 
-**i si aple.**
+**ni si aple.**
 This is an apple.
 
-**u si ke?**
+**go si ke?**
 What is that?
 
-**u si oranje.**
+**go si oranje.**
 That is an orange.
 
-**i si kirmi aple.**
+**ni si lal aple.**
 This is a red apple.
 
-**i aple si kirmi.**
+**ni aple si lal.**
 This apple is red.
 
-**i si kirmi.**
+**ni si lal.**
 This is red.
 
-**yamen an ke?**
+**yamen na ke?**
 Where are they?
 
-**yamen an i.**
+**yamen na ni.**
 They are here.
 
-**yamen an u.**
+**yamen na go.**
 They are there.
 
 
 
 ### su <small>'s (possessive particle)</small>
 
-**i si ke?**
+**ni si ke?**
 What's this?
 
 **ya si mi su telefon.**
 It's my telephone.
 
-**i si ke su?**
+**ni si ke su?**
 Whose is this?
 
 **ya si mi su.**
@@ -513,7 +513,7 @@ No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
 Which apple do you want?  
-**i kirmi.**
+**ni lal.**
 This red one.
 
 
@@ -577,7 +577,7 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! i si ke?**
+**maf! ni si ke?**
 Excuse me, what's this?
 
 **maf. tu su nam si ke?**
@@ -640,10 +640,10 @@ I talk to you.
 **mimen loga do semen.**
 We talk to each other.
 
-**men loga "cat" an ke yang an pandunia?**
+**men loga "cat" na ke yang na pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" si ke an pandunia?**
+**"cat" si ke na pandunia?**
 What is "cat" in Pandunia?
 
 **mau loga miau.**
@@ -676,16 +676,16 @@ Pleased to see you!
 **vide tu re!**
 See you again!
 
-**vide tu an pos den!**
+**vide tu na pos den!**
 See you tomorrow!
 
-**mi vide ya an chen den.**
+**mi vide ya na chen den.**
 I saw him/her yesterday.
 
 
 ### mana <small>to mean</small>
 
-**yi loga mana ke?**
+**ni loga mana ke?**
 What does this word mean?
 
 **"mau" mana ke?**
@@ -703,7 +703,7 @@ I don't understand what it means.
 **ching kitaba tu su adres.**
 Please, write your address.
 
-**ching kitaba ya an i.**
+**ching kitaba ya na ni.**
 Please, write it here!
 
 
@@ -738,7 +738,7 @@ Swahili, Hausa, Yoruba, Amharic
 **tu gou ke?**
 Where are you going?
 
-**mi gou a dom.**
+**mi gou la dom.**
 I'm going home.
 
 **mi mus gou ke?**
@@ -750,7 +750,7 @@ To whom should I go?
 **haida gou!**
 Let's go!
 
-**haida gou an fute**
+**haida gou na fute**
 Let's go by foot!
 
 
@@ -765,13 +765,13 @@ Where do you come from?
 **mi lai ze Dubai.**
 I come from Dubai.
 
-**mi lai dom an pos den.**
+**mi lai dom na pos den.**
 I will come home tomorrow.
 
 
 ### safar <small>to travel</small>
 
-**sual tu safar an tren?**
+**sual tu safar na tren?**
 Do you travel by train?
 
 **mimen safar ze London do Paris.**
@@ -781,29 +781,29 @@ We travel from London to Paris.
 The voyage is very long.
 
 
-### an <small>in, on, at</small>
+### na <small>in, on, at</small>
 
-**hotel an ke?**
+**hotel na ke?**
 Where is the hotel?
 
-**hotel an u dau.**
+**hotel na go dau.**
 The hotel is on that road.
 
-**tu an ke?**
+**tu na ke?**
 Where are you?
 
-**mi an dom.**
+**mi na dom.**
 I'm at home.
 
-**ya an ke?**
+**ya na ke?**
 Where is he/she?
 
-**ya side an kamar.**
+**ya side na kamar.**
 He/she sits in the room.
 
-Tip! You can use **an** as a preposition or alone as the verb.
+Tip! You can use **na** as a preposition or alone as the verb.
 
-**mi kara an...**
+**mi kara na...**
 I work at ...
 
 
@@ -815,11 +815,11 @@ Where do you live?
 **mi dom Singapur.**
 I live in Singapore.
 
-**sual tu dom yi hotel?**
+**sual tu dom ni hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **tu dom an ke?** instead of **tu dom ke**.
-However **dom** already covers the meaning of being at somewhere, so **an** is not necessary.
+Tip: It is also okay to say **tu dom na ke?** instead of **tu dom ke**.
+However **dom** already covers the meaning of being at somewhere, so **na** is not necessary.
 
 
 ### deng <small>to wait</small>
@@ -833,7 +833,7 @@ Wait for me!
 **yamen deng mimen.**
 They wait for us.
 
-**mi deng tu an hotel.**
+**mi deng tu na hotel.**
 I wait for you in the hotel.
 
 
@@ -850,7 +850,7 @@ The man is watching a film.
 **ya zai si shefe.**  
 He or she is currently the chief.
 
-**ya zai an dom.**  
+**ya zai na dom.**  
 He or she is currently at home.
 
 
@@ -865,7 +865,7 @@ The man watched a film.
 **ya pas si shefe.**  
 He or she was the chief.
 
-**ya pas an dom.**  
+**ya pas na dom.**  
 He or she was at home.
 
 
@@ -880,7 +880,7 @@ The man has watched a film.
 **ya leu si shefe.**  
 He or she has been the chief.
 
-**ya leu an a dom.**  
+**ya leu na la dom.**  
 He or she has been at home.
 
 
@@ -889,13 +889,13 @@ He or she has been at home.
 **mi vil salam tu su doste.**  
 I will greet your friend.
 
-**man vil vide a filme.**  
+**man vil vide la filme.**  
 The man will watch the film.
 
 **ya vil si shefe.**  
 He or she will be the chief.
 
-**ya vil an dom.**  
+**ya vil na dom.**  
 He or she will be at home.
 
 
@@ -911,10 +911,10 @@ Please give some money.
 **ching don ya do mi.**
 Please give it to me.
 
-**mi don yi do tu.**
+**mi don ni do tu.**
 I give this to you.
 
-**mi don buke do yamen.**
+**mi don buku do yamen.**
 I give a book to them.
 
 **ya no vol don ya do mi.**
@@ -938,19 +938,19 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire si 500 dolar an mes.**  
+**kire si 500 dolar na mes.**  
 The rent is 500 dollars in a month.
 
-**ya no bil pei a kire.**  
+**ya no bil pei la kire.**  
 He/she can't pay the rent.
 
-**mi vol kapa un gar an kire.**  
+**mi vol kapa un gar na kire.**  
 I want to take a car for rent.
 
-**mi vol kir kapa un gare.**
+**mi vol kira kapa un gare.**
 I want to rent a car.
 
-**ya kir don a kamar do safarer.**
+**ya kira don la kamar do safarer.**
 He/she rents rooms to travelers.
 
 
@@ -979,7 +979,7 @@ Is it new?
 **ke si mas boni?**
 Which is better?
 
-**yi si masim boni (da pan).**
+**ni si masim boni (da pan).**
 This is the best (of all).
 
 **ya kosta ke?**
@@ -1001,10 +1001,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi shul a pandunia.**
+**mi shula la pandunia.**
 I study Pandunia.
 
-**shou ya do mi an loga buke!**
+**shou ya do mi na loga buku!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.
@@ -1033,7 +1033,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**ching side an i!**
+**ching side na ni!**
 Please, sit here!
 
 **mi suku stasa.**
@@ -1042,7 +1042,7 @@ I rather stand.
 ****
 With pleasure!
 
-**festa kaishi an ke zaman?**
+**festa shuru na ke zaman?**
 When does the party begin?
 
 **tu sahi.**

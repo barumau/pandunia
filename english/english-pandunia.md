@@ -221,7 +221,7 @@ astronomy - astro nomi
 atheist - an deu sim ja  
 Athens - Athina  
 athlete (sportsman) - esporte ja  
-Atlantic cod - atlanti kade  
+Atlantic cod - atlanti bakalau  
 Atlantic Ocean - Atlanti Hai  
 Atlantic salmon - atlanti salmon  
 atmospheric pressure - air presa  
@@ -584,8 +584,8 @@ carpenter - moka jang ja
 carpet (rug) - tal tela  
 carrot - karote  
 cartography - metre grafi shuta  
-cash box - kasha  
-cashier - kasha ja  
+cash box - pesa kasa  
+cashier - pesa kasa ja  
 cassava (manioc) - manioka  
 caste - jene klas  
 cat - mau  
@@ -731,7 +731,7 @@ cocktail - mishe alkol
 cocoa - kakau  
 coconut tree - yezi  
 Cocos (Keeling) Islands - Kokos nesia  
-cod - kade  
+cod - bakalau  
 code (cipher) - kode  
 coerce (use force, compel) - fa paka  
 coercion (force, compulsion) - paka  
@@ -1192,7 +1192,7 @@ ethnic - zuku di
 ethnic group - zuku  
 etymology - loga asal  
 eugenics - eu jene sim  
-Eurasia - eurasia  
+Eurasia - Eurasia  
 euro (€) - euro  
 Europa - Europa  
 Europe - Europe  
@@ -1645,6 +1645,7 @@ help (aid, assistance) - helpe
 help (assist) - fa helpe  
 helper (supporter, proponent, backer) - helpeja  
 Helsinki - Helsinki  
+here - na ni  
 heritage (legacy, bequest) - varis  
 hero - hero  
 heroic - hero di  
@@ -2592,7 +2593,7 @@ oxeye daisy - baku margarite
 oxide - okside  
 oxygen - oksi  
 ####P - P  
-Pacific cod - pase hai kade  
+Pacific cod - pase hai bakalau  
 Pacific Ocean - Pase Hai  
 pacifism - pase sim  
 pacifist - pase sim ja  
@@ -3360,7 +3361,6 @@ society (association) - sosi
 sock (stocking) - maze  
 sockeye salmon - lal salmon  
 sodium - natre  
-sofa (couch) - kanape  
 sofa (couch) - sofa  
 soft - komal  
 soil (dirt) - darte  
@@ -3637,7 +3637,7 @@ thank - fa shukra
 thanks (thank you) - shukra  
 thanks to - shukra da  
 that is (in other words, i.e., alias) - alo nam  
-that over there - u  
+that over there - go  
 the (that) - la  
 the Grenadines - Grenadin nesia  
 theft - chori  
@@ -3648,7 +3648,7 @@ theocracy - deu krati
 theology - deu logi  
 theory - teori  
 theosophy - deu sofi  
-there - na u loka  
+there - na go  
 thermometer - termo metre gi  
 they - yamen  
 thick - gros  
@@ -3657,7 +3657,7 @@ thief - chori ja
 thing - she  
 think (ponder, reflect) - fikir  
 thirst - sui yau  
-this - i  
+this - ni  
 thistle - kardon  
 thorium - torium  
 thorn tree (acacia, wattle) - babul  

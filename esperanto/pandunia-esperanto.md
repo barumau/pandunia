@@ -335,6 +335,7 @@ dai sheku - ŝtonego
 dai siti - urbego  
 daka - kovrilo  
 daku - akiri (ricevi, preni)  
+dama gem - damludo  
 danse - danco  
 Danske - dana  
 Danske desha - Danio  
@@ -469,7 +470,7 @@ estrontium - stroncio
 estude ja - studento  
 Etiopia - Etiopio  
 eu anjil - evangelio  
-eurasia - Eŭrazio  
+Eurasia - Eŭrazio  
 eureka - trovi  
 euro - eŭro  
 Europe - Eŭropo  
@@ -703,6 +704,7 @@ gitar - gitaro
 glu - gluo  
 glu grafi - glumarko  
 gluten - gluteno  
+go - tio  
 gol - golo  
 gomu - kaŭĉuko  
 gona - angulo  
@@ -831,7 +833,6 @@ huru - libera
 huru di - liberigi  
 huru ta - libereco  
 hushi - agrabla  
-i - ĉi tiu  
 ####I - I  
 ibri - Hebrea  
 icha - volo  
@@ -935,7 +936,6 @@ kamisa - ĉemizo
 kamote - batato  
 kan - farejo  
 kanal - kanalo  
-kanape - sofo  
 kancha - vitro  
 kandi - bombono  
 kane - stango  
@@ -1266,13 +1266,14 @@ muzika ja - muzikisto
 Myanma - Birmo  
 ####N - N  
 na - ĉe (en, sur)  
+na go - tie  
 na ke - kie  
 na medi - inter  
+na ni - ĉi tie  
 na nove - ĵus  
 na poli mar - ofte  
 na re - denove (ripete)  
 na supra - super  
-na u loka - tie  
 na vakil da - anstataŭ  
 nabi - profetaĵo  
 nadir - malofta  
@@ -1310,6 +1311,7 @@ nerve - nervo
 nerve di - nerva  
 nerve selu - neŭrono  
 nete - reto  
+ni - ĉi tiu  
 nia - celo  
 nihonium - nihonio  
 Nijer - Niĝero  
@@ -1789,7 +1791,6 @@ tupi - ĉapelo
 turfa - torfo  
 Turki - Turkio  
 tuta - moruso  
-u - tio  
 ####U - U  
 uhu - plori  
 uma - ĉevalo  

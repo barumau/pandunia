@@ -75,7 +75,7 @@ astro nave ja - 宇航员
 astro nomi - 天文学  
 astro nomi ja - 天文学家  
 Athina - 雅典  
-atlanti kade - 大西洋鱈  
+atlanti bakalau - 大西洋鱈  
 atlanti salmon - 大西洋鮭  
 auro - 金  
 Austronesia - 南岛  
@@ -93,6 +93,7 @@ bagre oselote - 小斑虎貓
 bah - 呸  
 bai - 击败  
 baka fan - 陶瓦  
+bakalau - 鱈  
 baku - 白  
 baku choi - 白菜 (小白菜)  
 baku margarite - 法蘭西菊  
@@ -149,6 +150,7 @@ betula - 桦树
 bichi - 鞭子  
 bil - 会 (可能)  
 bil ja - 熟练  
+bina - 建筑  
 bina plan - 建筑学  
 bina plan ja - 建筑师  
 bio jinse - 生物性別  
@@ -224,6 +226,7 @@ dai pote - 炼药锅
 dai sheku - 磐石  
 daku - 获得  
 daku shitu - 得失  
+dama gem - 跳棋  
 dang gi - 钟 (摇铃)  
 Danske - 丹麦的  
 dante baluta - 槲树  
@@ -415,6 +418,7 @@ glu bande - 创可贴 (邦迪)
 glu di - 黏的  
 glu fan - 黏土  
 glu grafi - 贴纸  
+go - 那  
 gol - 目的  
 gola sheku - 鹅卵石  
 gorila - 大猩猩  
@@ -544,7 +548,6 @@ jus - 汁
 ka - 家  
 ka - 比  
 kaboga - 南瓜  
-kade - 鱈  
 kafe - 咖啡  
 kafe kan - 咖啡馆  
 kafe pote - 咖啡壶  
@@ -571,7 +574,6 @@ kamil - 母菊
 kamisa - 衬衫  
 kamisa shaka - 袖子  
 kan - 店 (馆)  
-kanape - 沙发  
 kancha - 玻璃  
 kancha daka - 釉  
 kandi - 糖果  
@@ -661,6 +663,7 @@ kupa - 杯子
 kurban - 牺牲  
 kush - 躺  
 ####L - L  
+la - 该 (上述的)  
 lage - 湖  
 lai - 来  
 laji - 废物 (垃圾)  
@@ -835,7 +838,9 @@ musli - 木斯里 (瑞士麦片)
 muzika - 音乐  
 ####N - N  
 na - 在  
+na go - 那里 (那儿)  
 na lin - 在线  
+na ni - 这里 (这儿)  
 na poli mar - 经常  
 nadir mar - 很少  
 najis - 污染物  
@@ -856,6 +861,7 @@ nefte guku - 野菊花
 nelu - 四 (4)  
 nen mes den - 年月日  
 nerve toksi - 神经毒素  
+ni - 这 (此)  
 nia - 意图  
 nide - 巢 (穴)  
 nilon - 尼龙  

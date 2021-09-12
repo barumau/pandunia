@@ -268,6 +268,7 @@ brun (marron) - kafe rang
 brûler - fa hogo  
 buisson - tal moku  
 but (destination) - gol  
+bâtiment - bina  
 bâton (canne, tige) - kane  
 bébé - bebe  
 bédouin - badavi  
@@ -294,7 +295,6 @@ calmar (encornet, calamar) - kalmar
 calme (tranquille) - shanti di  
 Camomille Romaine - roma kamil  
 Camomille sauvage - kamil  
-canapé (sofa) - kanape  
 canapé (sofa) - sofa  
 canevas (toile) - pente tela  
 Canne à sucre - sukar chau  
@@ -318,6 +318,8 @@ carte - karte
 carte à collectionner - jama karde  
 cartographie - metre grafi shuta  
 cauri - kauri  
+ce...ci - ni  
+ce...lá - go  
 cent (100) - sento  
 Centaurée - sentaure  
 Centaurée bleuet - blu sentaure  
@@ -718,6 +720,7 @@ hétéroromantique (hétéromantique) - alo romanse di
 hétérosexuel - alo sekse di  
 hôtel - hotel  
 ####I - I  
+ici - na ni  
 imitateur (mime) - mima ja  
 imiter - mima  
 immigrant - in migra ja  
@@ -754,6 +757,7 @@ jarre (carafe, cruche) - jara
 jasmin - moli  
 jaïnisme - jain din  
 je (me) - mi  
+jeu de dames - dama gem  
 jeu de société - ban gem  
 jeudi - var nelu  
 jeune (juvénile) - joven  
@@ -849,6 +853,7 @@ lutte - jihade
 luxure (libido) - kama  
 lynx - linse  
 lys - susan  
+là (y) - na go  
 léger - ligu veze di  
 légume - yam fito  
 lézard - saur  
@@ -922,9 +927,9 @@ monnaie (pièce) - pesa diske
 monocle - un oko di lense  
 monologue - auto loga  
 mordre - fa dante  
-morue - kade  
-morue de l'Atlantique - atlanti kade  
-morue du Pacifique - pase hai kade  
+morue (cabillaud) - bakalau  
+morue de l'Atlantique - atlanti bakalau  
+morue du Pacifique - pase hai bakalau  
 mot - loga so  
 mot de passe - pas loga  
 moteur - moto  

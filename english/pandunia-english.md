@@ -189,8 +189,8 @@ astro nomi - astronomy
 astro nomi ja - astronomer  
 ata - sugar-apple (sweetsop)  
 Athina - Athens  
+atlanti bakalau - Atlantic cod  
 Atlanti Hai - Atlantic Ocean  
-atlanti kade - Atlantic cod  
 atlanti salmon - Atlantic salmon  
 atom - atom  
 audi - hear (listen)  
@@ -236,6 +236,7 @@ baka - bake
 baka fan - terracotta  
 baka ja - baker  
 baka kan - bakery (bakehouse)  
+bakalau - cod  
 baku - white  
 baku choi - bok choy  
 baku margarite - oxeye daisy  
@@ -891,7 +892,7 @@ eu deu sim - eutheism
 eu jene sim - eugenics  
 eu loga - praise (eulogy)  
 eu topo - utopia  
-eurasia - Eurasia  
+Eurasia - Eurasia  
 eureka - find (discover)  
 euro - euro (€)  
 Europa - Europa  
@@ -1407,6 +1408,7 @@ glu di - sticky (ahesive)
 glu fan - clay  
 glu grafi - sticker  
 gluten - gluten  
+go - that over there  
 gol - goal (destination)  
 gola - circle (sphere, round object)  
 gola di - round (circular)  
@@ -1629,7 +1631,6 @@ huru sim di - liberal
 huru sim ja - liberalist  
 huru ta - freedom (liberty)  
 hushi - nice (pleasant, comfortable, cushy)  
-i - this  
 ####I - I  
 ibri - Hebrew  
 icha - will (want)  
@@ -1798,7 +1799,6 @@ kababu nama - grilled meat (kebab)
 kabin - cabin (booth)  
 kaboga - squash (pumpkin, gourd)  
 Kabu Verde - Cabo Verde (Cape Verde)  
-kade - cod  
 kadmium - cadmium  
 kafe - coffee  
 kafe alga - brown algae  
@@ -1857,7 +1857,6 @@ kan - shop (building, house, place)
 Kanada - Canada  
 kanal - channel  
 kanal ja - conduit (channel)  
-kanape - sofa (couch)  
 kancha - glass  
 kancha daka - glazing (enamel)  
 kandela - candela  
@@ -1917,8 +1916,6 @@ Kartvel - Georgia (Republic of Georgia)
 karvan - caravan (convoy)  
 kas - event (case, instance)  
 kasa - box (container)  
-kasha - cash box  
-kasha ja - cashier  
 kaske - shell (crust, carapace)  
 kastana - chestnut  
 kastor - beaver  
@@ -2605,17 +2602,18 @@ muzika ja - musician
 Myanma - Myanmar (Burma)  
 ####N - N  
 na - by (at, in, on)  
+na go - there  
 na in - inside  
 na ke - where  
 na late - be beside (accompany)  
 na lin - online  
 na medi - among (amid, between)  
+na ni - here  
 na niche - under  
 na nove - just (recently)  
 na poli mar - often (frequently)  
 na re - again (repeatedly)  
 na supra - above (over)  
-na u loka - there  
 na vakil da - on behalf of  
 nabi - prophecy  
 nabi ja - prophet  
@@ -2696,6 +2694,7 @@ nete dona - upload
 nete gete - download  
 netoloke - website  
 Nevis - Nevis  
+ni - this  
 nia - intention (purpose)  
 niche - underside (underneath)  
 niche di - lower (inferior)  
@@ -2898,7 +2897,7 @@ pas dau - pass (passage)
 pas loga - password  
 pase - peace  
 Pase Hai - Pacific Ocean  
-pase hai kade - Pacific cod  
+pase hai bakalau - Pacific cod  
 pase sim - pacifism  
 pase sim ja - pacifist  
 pasi - pain (suffering)  
@@ -2943,6 +2942,8 @@ pero kardon - spear thistle
 Peru - Peru  
 pesa - money  
 pesa diske - coin  
+pesa kasa - cash box  
+pesa kasa ja - cashier  
 peshe - fish  
 peshe huke - fishhook  
 peshe saide ja - fisher  
@@ -3788,7 +3789,6 @@ Turkomen - Turkmenistan
 tuta - mulberry  
 Tuvalu - Tuvalu  
 tuzi - rabbit (hare)  
-u - that over there  
 ####U - U  
 UDA di - American (US)  
 uhu - cry (boo-hoo, alas, woe)  

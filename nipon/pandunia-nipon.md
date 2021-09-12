@@ -55,7 +55,7 @@ astro - 天体
 astro nomi - 天文学  
 astro nomi ja - 天文学者  
 Athina - アテネ  
-atlanti kade - タイセイヨウダラ  
+atlanti bakalau - タイセイヨウダラ  
 atlanti salmon - タイセイヨウサケ  
 auro - 金  
 Austronesia - オーストロネシア  
@@ -72,6 +72,7 @@ bagre oselote - ジャガーネコ
 bai - 負け  
 baka fan - テラコッタ  
 baka kan - パン屋 (ベーカリー)  
+bakalau - 鱈  
 baku - 白い  
 baku margarite - フランスギク  
 baku salmon - シロザケ  
@@ -124,6 +125,7 @@ bichi - 鞭
 bil - できる (ありうる)  
 bil ja - 有能  
 bilor - 結晶  
+bina - 建物 (建築物)  
 bina plan - 建築学  
 bina plan ja - 建築家  
 bio jinse - 生物学の性  
@@ -202,6 +204,7 @@ dai pote - 大釜 (大鍋)
 dai sheku - 大石  
 daku - 受ける (もらう)  
 daku shitu - 得失  
+dama gem - チェッカー (西洋碁)  
 dang gi - 鐘 (鈴)  
 Danske - デンマークの  
 dante baluta - カシワ  
@@ -418,6 +421,7 @@ glu bande - 絆創膏
 glu di - 粘い  
 glu fan - 粘土  
 glu grafi - ステッカー  
+go - その  
 gol - 目的 (行き先, ゴール)  
 gola sheku - 丸石 (玉石, 栗石)  
 gorila - ゴリラ  
@@ -541,7 +545,6 @@ juste pau ja - 狙撃兵
 ka - 家  
 ka - より (に比べ)  
 kaboga - カボチャ  
-kade - 鱈  
 kafe - コーヒー  
 kafe alga - 褐藻  
 kafe kan - カフェ (コーヒー店)  
@@ -665,6 +668,7 @@ kurban - 犠牲
 kush - 横たえる  
 kush - 寝転ぶ  
 ####L - L  
+la - あの  
 lage - 湖  
 lai - 来る  
 laji - ゴミ (廃棄物)  
@@ -843,7 +847,9 @@ mushu - 鼠
 musli - ミューズリー  
 muzika - 音楽  
 ####N - N  
+na go - そこ (あそこ)  
 na lin - オンライン  
+na ni - ここ  
 na poli mar - よく (屡々)  
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  
@@ -864,6 +870,7 @@ nen - 年
 nen mes den - 年月日  
 nerve toksi - 神経毒  
 nete - 網  
+ni - この  
 nia - 意図  
 niche - 下  
 nide - 巣  
@@ -918,7 +925,7 @@ parche kai - 弾ける
 pari desha - 仙境  
 parne - 羊歯  
 pas loga - パスワード  
-pase hai kade - マダラ  
+pase hai bakalau - マダラ  
 pase sim - 平和主義  
 pasi - 痛み  
 pasi di - 痛い  

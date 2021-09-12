@@ -417,7 +417,7 @@ etymologia - loga asal
 etäisyys (kaukaisuus) - tele  
 etäisyys - tele ta  
 eugeniikka - eu jene sim  
-Euraasia - eurasia  
+Euraasia - Eurasia  
 euro (€) - euro  
 Euroopan unioni - Europe Unta  
 Eurooppa - Europe  
@@ -997,8 +997,8 @@ kartio (keila) - kone
 kartogratia - metre grafi shuta  
 kartta - topo metre grafi  
 karvaton - kesha hin  
-kassa - kasha  
-kassanhoitaja - kasha ja  
+kassa - pesa kasa  
+kassanhoitaja - pesa kasa ja  
 kassava (maniokki) - manioka  
 kastanja - kastana  
 kaste - rose  
@@ -2671,7 +2671,6 @@ seutu (maa, alue) - topo
 Seychellit - Seshel nesia  
 sianliha - goro nama  
 side (remmi) - fasha  
-siellä (tuolla) - na u loka  
 siemen - seme  
 siemen- - seme di  
 siemenjyvä - seme dane  
@@ -2742,7 +2741,6 @@ Slovenia - Slovenia
 slummi - harabu mahala  
 smaragdi - zumarde  
 smurffi - blu elfe  
-sohva - kanape  
 sohva - sofa  
 soihtu - foto kane  
 soija - soi  
@@ -3107,9 +3105,10 @@ tuntea - tochu sense
 tunteellinen (tunne-) - emosi di  
 tunti - hor  
 tunturi - tundra shan  
-tuo - u  
+tuo - go  
 tuoda - fa lai  
 tuoli - kursi  
+tuolla - na go  
 tuomari - jude ja  
 tuomio - jude  
 tuomita - juda  
@@ -3165,7 +3164,7 @@ tähti - sing
 tähtialus - astro nave  
 tähtitiede (astronomia) - astro nomi  
 tähtitieteilijä - astro nomi ja  
-tämä - i  
+tämä - ni  
 tämä hetki (nyt) - zai zaman  
 tänään - zai den  
 täplä (läiskä) - bindu  
@@ -3175,6 +3174,7 @@ täysi - pul
 täytetty pulla - mantu  
 täyttää - fa pul  
 täytyä (olla pakko) - deve  
+täällä - na ni  
 törkeä - insulte di  
 Tšad - Chade  
 Tšekki - Cheska  

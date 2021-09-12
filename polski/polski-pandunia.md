@@ -487,9 +487,9 @@ domino - domino gem
 domowy - dom di  
 doradca (mentor) - mentor  
 dorosły, dojrzały - matur  
-dorsz - kade  
-dorsz atlantycki - atlanti kade  
-dorsz pacyficzny - pase hai kade  
+dorsz - bakalau  
+dorsz atlantycki - atlanti bakalau  
+dorsz pacyficzny - pase hai bakalau  
 doskonalić (optymalizować, ulepszać) - fa pul bon  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fati  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - daku  
@@ -619,7 +619,7 @@ Etiopia - Etiopia
 etniczny - zuku di  
 etyka - moral logi  
 etymologia - loga asal  
-Eurazja - eurasia  
+Eurazja - Eurasia  
 euro (€) - euro  
 europ - europium  
 Europa - Europe  
@@ -1047,7 +1047,7 @@ Karnataka - Karnada
 karta - karte  
 kartka (dokument) - varka  
 kartografia - metre grafi shuta  
-kasjer - kasha ja  
+kasjer - pesa kasa ja  
 kasta - jene klas  
 kaszel; kaszlnięcie - koso  
 kasztan - kastana  
@@ -2330,7 +2330,7 @@ pszenica - ganum
 ptak - paksi  
 publiczny - demo di  
 puder - muka fun  
-pudełko, skrzynia - kasha  
+pudełko, skrzynia - pesa kasa  
 puding - puding  
 pudło, skrzynia - sanduku  
 puma (kuguar) - puma  
@@ -2645,7 +2645,6 @@ socjalizm - sosi sim
 socjalizować się - fa sosi  
 soczewka - lense  
 sofa (kanapa) - sofa  
-sofa, kanapa - kanape  
 sok - jus  
 Somalia - Somal  
 Somaliland - Somal Desha  
@@ -2865,6 +2864,7 @@ tal - talium
 talerz - plate tasa  
 taleta, W####C - tualete  
 tamilski - Tamil  
+tamten - go  
 Tanach, Biblia hebrajska - tanah  
 taniec - danse  
 tantal - tantalum  
@@ -2893,6 +2893,7 @@ tellur - telurium
 telugu - Telugu  
 temat, motyw - tema  
 temperatura - termo  
+ten - ni  
 tendencja (być skłonnym) - klin  
 tenesyn, tennessine - tenesium  
 tenis - tenis  
@@ -2958,7 +2959,7 @@ trzęsienie Ziemi - geo sismo
 trójkąt - tri gona  
 trójząb - tri zong  
 trąba powietrzna (cyklon, tornado, tajfun) - rota tafun  
-tu (tutaj, tam) - na u loka  
+tu (tutaj, tam) - na go  
 tuba, rura - tubo  
 tul - tulium  
 tulipan - tulpan  
