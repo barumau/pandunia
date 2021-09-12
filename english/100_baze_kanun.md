@@ -45,7 +45,7 @@ They are described in more detail later in this document.
    The adjective modifier is before the noun that it modifies,
    and the adverb modifier is before the verb that it modifies.
     - **un rapide loga**
-      – A fast seech.
+      – A fast speech.
     - **tu rapide loga.**
       – You speak fast.
 8. **Verbs:**
