@@ -35,13 +35,13 @@ whereas content words are translated in the dictionary.
 
 ## Word classes
 
-Content words can be categorized into word classes as follows:
+Structure words can be categorized into word classes as follows:
 
 1. Pronouns : words that point to people and things.
 2. Prepositions : words that relate things and actions into circumstances
 3. Conjunctions : words that join phrases together
 
-Structure words can be classified futher into the following word classes:
+Content words can be classified further into the following word classes:
 
 1. Nouns : words for things, ideas, places and people.
 2. Adjectives : words for qualities of nouns, such as good, bad, and big.
