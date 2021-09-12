@@ -193,7 +193,7 @@ astro nomi ja||||astronomer|astronome|astrónomo|astrónomo|астроном||�
 ata|||fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat|sugar-apple (sweetsop)||anón (ates, saramuyo)|||||||||||||||jabłko cukrowe
 Athina|xefsite|||Athens|Athènes|Atenas|Atenas|Афины|اتينا‎|雅典|アテネ|||एथेंस|||Athene|Atina|Ateno|Ateena|
 Atlanti Hai|||eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|Atlantic Ocean|océan Atlantique|océano Atlántico||||||||||||||Atlantin valtameri|Ocean Atlantycki
-atlanti kade|bio|Gadus morhua||Atlantic cod|morue de l'Atlantique|bacalao común|bacalhau-do-atlântico|Атлантическая треска||大西洋鱈|タイセイヨウダラ||||||||||dorsz atlantycki
+atlanti bakalau|bio|Gadus morhua||Atlantic cod|morue de l'Atlantique|bacalao común|bacalhau-do-atlântico|Атлантическая треска||大西洋鱈|タイセイヨウダラ||||||||||dorsz atlantycki
 atlanti salmon|bio|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
 atom|||eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|atom|atome|átomo|||||||||||||atomo|atomi|atom
 audi|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
@@ -413,7 +413,7 @@ bil|||tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability|possible (able, 
 bil ja||||capable (talent, skillful)||capaz||||熟练|有能||||||||kapabla|kykenevä (voiva)|
 bil ta||||ability|capacité (pouvoir, habileté)|habilidad (capacidad)|habilidade (capacidade)|||||||||||||mahdollisuus (taito, kyky)|
 bilor|||ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|crystal|cristal|cristal|cristal|кристалл|||結晶||||||fuwele|||kristalli|kryształ
-bina||||building (structure)||||||||||||||||rakennus (rakenne)|budynek (struktura)
+bina|||ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, + jpn:ビル (biru)|building (structure)|bâtiment|||строение|بِنَاء‎|建筑|建物 (建築物)|건물||भवन (इमारत)|ভবন|bangunan||bina (yapı)||rakennus (rakenne)|budynek (struktura)
 bina plan||||architecture|architecture|arquitectura|arquitetura|архитектура|هَنْدَسَة مِعْمَارِيَّة‎|建筑学|建築学|건축학|kiến trúc|वास्तुकला||seni bina|ujenzi|mimarlık|arĥitekturo|arkkitehtuuri|architektura
 bina plan ja||||architect|architecte|arquitecto|arquiteto|архитектор|مِعْمَارِيّ‎|建筑师|建築家|건축가|kiến trúc sư|वास्तुकार|স্থপতি|arkitek (jurubina)||mimar|arĥitekto|arkkitehti|architekt
 bindu|||hin:बिंदु (bindu), ben:বিন্দু (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|dot (spot)||punto (lunar)|||||||||||||punkto|täplä (läiskä)|punkt
@@ -572,7 +572,7 @@ chinchila|bio||eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šin
 ching||||request (petition)||||||||||||||||pyyntö|
 ching|||zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|ask (request, beg, plead; please)||pedir (invitar; por favor)||просить||请|請う (ーて下さい)||||||||peti (bonvolu)|pyytää (anoa)|prosić
 ching lai||||invite||invitar|||||||||||||inviti|pyytää tulemaan|zaprosić, zapraszać
-chini|||zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya)|porcelain (chinaware)|porcelaine|porcelana|porcelana|фарфор|خَزَف‎|瓷器|磁器|도자기|sứ|चीनी (पॉर्सिलेन)|চীনামাটি|porselen||porselen|porcelano|posliini|porcelana
+chini|||zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya), swa:sini|porcelain (chinaware)|porcelaine|porcelana|porcelana|фарфор|خَزَف‎|瓷器|磁器|도자기|sứ|चीनी (पॉर्सिलेन)|চীনামাটি|porselen|sini|porselen|porcelano|posliini|porcelana
 Chipe|desha|AL||Albania||Albania||||||||||||||Albania|Albania
 chira||||tear (rip, edge)|déchirer|rasgar (romper)|rasgar|рвать||撕裂|裂く|||||||||repeämä|rwać (drzeć)
 chira|||hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|tear (rip, split)|déchirer|rasgar (romper)|rasgar|рвать||撕裂|裂く|||||||||repiä|drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)
@@ -621,7 +621,7 @@ daku|||zho:得 (dé), yue:得 (dak1), wuu:得 (teq4), jpn:得 (toku), kor:득 (d
 daku ja||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
 daku shitu||||gains and losses (pros and cons)||||||得失|得失||||||||||
 dalil|||ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|proof (evidence, proof, demonstration, testimony)|preuve|prueba|prova|доказательство||||||||||||todiste (todistus, osoitus, demonstraatio)|dowód; zeznanie
-dama gem|||fra:jeu de dames, ara:(dāmā), may:dam, spa:por:damas, deu:Damespiel|checkers (draughts)||damas|||||||||||drafti|||tammipeli|warcaby
+dama gem|||fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|checkers (draughts)|jeu de dames|damas|damas|шашки|ضَامَة‎|跳棋|チェッカー (西洋碁)|체커|cờ đam|चेकर्स (ड्राफ़्टस)|চেকারস|dam|drafti|dama|damludo|tammipeli|warcaby
 dane|||hin:दाना (dānā), tur:tane + jpn:種 (tane);銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)
 dane sekur||||bulletproof||antibalas||||||||||||||luodinkestävä|kuloodporny
 dang|||eng:dong, por:dlim-dlão, spa:tilín, zho:叮 (dīng), jpn:がんがん (gangan), tha:กระดิ่ง (grà-dìng)|ring (toll, clang)||||звенеть||||||||||||kilistää (soittaa kelloa)|dzwonić (dźwięczeć, szczękać)
@@ -894,7 +894,7 @@ eu deu sim||||eutheism||||||||||||||||euteismi (usko jumalan hyvyyteen)|
 eu jene sim||||eugenics||||||||||||||||eugeniikka|
 eu loga||||praise (eulogy)|éloge|elogio|elogio|панегирик|||賛辞|찬사||||||||ylistys|laudacja
 eu topo||||utopia||||||||||||||||utopia|
-eurasia|||eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|Eurasia||Eurasia|||||||||||||Eŭrazio|Euraasia|Eurazja
+Eurasia|||eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|Eurasia||Eurasia|||||||||||||Eŭrazio|Euraasia|Eurazja
 eureka|||ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|find (discover)||econtrar (hallar)|||||||||||||trovi|löytää (keksiä)|znaleźć, znajdywać, odkryć, odkrywać
 euro||||euro (€)||euro|||||||||||||eŭro|euro (€)|euro (€)
 Europa|planete 5 lun 2|||Europa||||||||||||||||Europa-kuu|
@@ -917,7 +917,7 @@ fa asar||||effect (bring about)|effectuer|efectuar|efetuar|||||||||||||vaikuttaa
 fa auto||||personalize (customize)||personalizar|||||カスタマイズする||||||||||
 fa avar||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
 fa baze||||found||fundar (basar)||||||||||||||perustaa|zakładać (założyć, ustanowić)
-fa bina|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|build (construct)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
+fa bina||||build (construct)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
 fa biznes lon||||negotiate (arrange)||negociar|||||話し合う (話を付ける)||||||||||negocjować
 fa budi||||realize||darse cuenta (notar)|||||||||||||kompreni|ymmärtää (oivaltaa)|uświadomić sobie, zdać sobie sprawę, pojąć, pojmować
 fa chape||||press (imprint)||imprimir|||||||||||||presi|painaa (leimata)|naciskać, zostawiać ślad
@@ -1344,7 +1344,7 @@ garma mosim medi den||||Midsummer Day||Midsommar||||||||||||||juhannus (keskikes
 garma zona||||tropics|tropique|trópico|trópicos|тропик||热带|熱帯|||||||||tropiikki|tropiki
 garma zona chau topo||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 garma zona di||||tropical||||||||||||||||trooppinen|tropikalny
-gas|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|gas|gaz|gas|gás|газ||||||गैस||gas||gaz|gaso|kaasu|gaz
+gas|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz), swa:gesi|gas|gaz|gas|gás|газ||||||गैस||gas|gesi|gaz|gaso|kaasu|gaz
 gas di||||gaseous||gaseoso||||||||||||||kaasumainen|gazowy
 gata|||eng:cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)|cut||cortar||||切|||cắt|काटना|কাটা||kata||tranĉi|katkaista (leikata)|ciąć
 gata glu ban||||clipboard (paste buffer)|presse-papier|portapapeles|área de transferência|буфер обмена||剪贴板|クリップボード||||||||||
@@ -1802,7 +1802,7 @@ kababu nama||||grilled meat (kebab)||||кебаб|كباب|||||कबाब|ক�
 kabin|||eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)|cabin (booth)||cabaña||||||||||||||koppi (maja)|kabina, budka
 kaboga|bio|Cucurbita|tur:kabak, swa:boga, jpn:カボチャ (kabocha)|squash (pumpkin, gourd)|citrouille|calabaza|abóbora (jerimun)|тыква||南瓜|カボチャ||||||||||kabaczek (dynia, tykwa)
 Kabu Verde|desha|CV||Cabo Verde (Cape Verde)||Cabo Verde||||||||||||||Cabo Verde|Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)
-kade|bio|Gadus|eng:cod, ara:قد (qad)|cod|morue|bacalao||||鱈|鱈||||||||||dorsz
+bakalau|bio|Gadus|spa:bacalao, por:bacalhau, fra:cabillaud, deu:Kabeljau, tgl:bakalaw|cod|morue (cabillaud)|bacalao|bacalhau|||鱈|鱈||||||||||dorsz
 kadmium|mate|Cd||cadmium||cadmio|||||||||||||kadmio|kadmium|kadm
 kafe|||deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|coffee|café|café|café|кофе|قَهْوَة|咖啡|コーヒー|||काफ़ी (क़हवा)||kopi|kahawa|kahve|kafo|kahvi|kawa
 kafe alga|bio|Phaeophyceae||brown algae|algues brunes|algas pardas||бурые водоросли|||褐藻||||||||||brunatnica
@@ -1861,7 +1861,6 @@ kan|||fas:خانه‎ (xâne), rus:-хана (-hana), hin:ख़ाना (xān�
 Kanada|desha|CA||Canada||Canadá||||||||||||||Kanada|Kanada
 kanal|||eng:spa:por:fra:canal, rus:канал (kanal), ben:খাল (khal), may:kanal|channel||canal (cauce, acequia)|||||||||||||kanalo|kanava (kanaali)|kanał
 kanal ja||||conduit (channel)|||||||||||||||||przewód (kanał)
-kanape|||fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|sofa (couch)|canapé (sofa)|sofá||канапе||沙发|||||||||sofo|sohva|sofa, kanapa
 kancha|||hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:kaca, tel:గాజు (gāju)|glass|verre|vidrio (cristal)|vidro|стекло|زُجَاج|玻璃|ガラス|유리|thuỷ tinh|काँच (शीशा)|কাঁচ|kaca (gelas)|glasi|cam|vitro|lasi|szkło
 kancha daka||||glazing (enamel)||vidriado (esmalte)||глазурь||釉|釉薬||||||||||glazura (emalia)
 kandela|unomete|cd||candela||candela (unidad de intensidad luminosa)||||||||||||||kandela|kandela
@@ -1920,9 +1919,9 @@ karte|||eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), t
 Kartvel|desha|GE||Georgia (Republic of Georgia)||Georgia (República de Georgia)||||||||||||||Georgia|Gruzja (Republika Gruzji)
 karvan|||fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|caravan (convoy)||caravana|||||||||||||karavano|karavaani (saattue)|karawana
 kas|||eng:case, fra:cas, spa:por:caso, deu:Kasus|event (case, instance)||acontecimiento (caso, suceso, evento)||||||||||||||tapaus (seikka)|wydarzenie, przypadek, sytuacja
-kasa|||lat:capsa, eng:fra:case,capsule, spa:caja,cápsula, por:caixa,cápsula, rus:капсула (kapsula), ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes|box (container)||||||||||||||||laatikko|
-kasha|||deu:Kasse, rus:касса (kassa), eng:case,cash, swa:kasha, por:caixa, spa:caja|cash box||caja (caja registradora)||||||||||||||kassa|pudełko, skrzynia
-kasha ja||||cashier||cajero||||||||||||||kassanhoitaja|kasjer
+kasa|||lat:capsa, eng:fra:case, por:caixa, spa:caja, rus:касса (kassa), swa:kasha, ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes|box (container)||||||||||||||||laatikko|
+pesa kasa||||cash box||caja (caja registradora)||||||||||||||kassa|pudełko, skrzynia
+pesa kasa ja||||cashier||cajero||||||||||||||kassanhoitaja|kasjer
 kaske|||spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|shell (crust, carapace)|carapace (coquille, coquillage, croûte)|carapacho (cáscara, concha, corteza, capa)|casca (concha)|оболочка (кора, панцирь)||壳 (皮)|殻 (皮)|||||||||kuori (suojakuori)|skorupa (pancerz, muszla)
 kastana|bio|Castanea|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|chestnut||castaña|||||||||||||kaŝtano|kastanja|kasztan
 kastor|bio|Castor|fra:por:spa:castor, tgl:tur:kastor|beaver||castor|||||||||||||kastoro|majava|bóbr
@@ -1990,7 +1989,7 @@ Kipris|desha|CY||Cyprus||Chipre||||||||||||||Kypros|Cypr
 kira|||ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|carat||alquiler (arriendo)||аренда|||賃貸|||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
 kira dona||||rent out (let, lease)||alquilar (arrendar, dar en arriendo)||||||||||||||vuokrata|wynająć, oddać w najem
 kira kape||||rent (charter, lease)||alquilar (arrendar, tomar en arriendo)||арендовать||||||||||||vuokrata|wynająć, oddać w najem
-kirate|metrun||ara: قِيرَاط‎ (qīrāṭ), eng:fra:carat, spa:por:quilate, rus:карат (karat), zho:克拉 (kèlā), jpn:カラット (karatto), kor:캐럿 (kaereot), may:karat, tur:kırat|carat|carat|quilate|quilate|||||||||karat||kırat||karaatti|karat
+kirate|metrun||ara: قِيرَاط‎ (qīrāṭ), eng:fra:carat, spa:por:quilate, rus:карат (karat), zho:克拉 (kèlā), jpn:カラット (karatto), kor:캐럿 (kaereot), may:karat, swa:karati, tur:kırat|carat|carat|quilate|quilate|||||||||karat|karati|kırat||karaatti|karat
 Kirgize|desha|KG||Kyrgyzstan||Kirguizistán||||||||||||||Kirgistan (Kirgisia)|Kirgistan
 Kiribati|desha|KI||Kiribati||Kiribati||||||||||||||Kiribati|Kiribati
 Kiril zi||||Cyrillic alphabet||alfabeto cirílico||||||||||||||kyrilliset aakkoset|cyrylica
@@ -2906,7 +2905,7 @@ pas dau||||pass (passage)|passe (passage)|paso (pasaje)|passagem||||||đèo|||||
 pas loga||||password|mot de passe|contraseña|palavra-passe (senha)|пароль||密码|パスワード|암호 (패스워드)||पासवर्ड|পাসওয়ার্ড|kata sandi (kata laluan)||parola||tunnussana|
 pase|||ita:pace, eng:peace, spa:por:paz, fra:paix, rus:пац- (pac-)|peace|paix|paz|paz|||和平|||||||||paco|rauha|pokój
 Pase Hai||||Pacific Ocean||océano Pacífico||||||||||||||Tyyni valtameri|Ocean Spokojny (Pacyfik)
-pase hai kade|bio|Gadus macrocephalus||Pacific cod|morue du Pacifique|||тихоокеанская треска|||マダラ||||||||||dorsz pacyficzny
+pase hai bakalau|bio|Gadus macrocephalus||Pacific cod|morue du Pacifique|||тихоокеанская треска|||マダラ||||||||||dorsz pacyficzny
 pase sim||||pacifism|pacifisme|pacifismo|pacifismo|пацифизм||和平主义|平和主義|평화주의|chủ nghĩa hoà bình||||||pacifismo|rauhanaate (pasifismi)|pacyfizm
 pase sim ja||||pacifist|pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|pacyfista
 pasi|||eng:fra:passion, spa:pasión, por:paixão, kon:mpasi|pain (suffering)||dolor (sufrimiento)||боль||疼痛|痛み|||||||||kipu (tuska)|cierpienie, ból
