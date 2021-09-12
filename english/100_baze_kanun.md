@@ -37,7 +37,7 @@ They are described in more detail later in this document.
          7 **sete**, 8 **bato**, 9 **tisa**, 10 **des**.
        - Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
        - Tens: 20 **du des**, 30 **tri des**, 40 **chatre des**, etc.
-       - Hundreds: 100 **un cen**, 200 **du cen**, 300 **tri cen**, etc.
+       - Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
        - The cardinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
 7. **Modifiers:**
@@ -45,7 +45,7 @@ They are described in more detail later in this document.
    The adjective modifier is before the noun that it modifies,
    and the adverb modifier is before the verb that it modifies.
     - **un rapide loga**
-      – A fast seech.
+      – A fast speech.
     - **tu rapide loga.**
       – You speak fast.
 8. **Verbs:**
