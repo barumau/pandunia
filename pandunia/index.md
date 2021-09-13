@@ -17,7 +17,7 @@ tu bil shula Pandunia ha use la [lili shula](mini_darse.html).
 * kitabu
     * [lili urso su pashi dante](urse_dante.md)
     * [tri lili goro](3_lil_gurube.md)
-    * [tri mehe e un gui](3_buze_e_guye.md)
+    * [tri behe e un gui](3_buze_e_guye.md)
     * [insan di putong haki](putong_hake.md)
     * [din kitabu](dini_kitabe.md)
     * [makal na tema da Pandunia na alo basha](makal_tema_pandunia.md)
